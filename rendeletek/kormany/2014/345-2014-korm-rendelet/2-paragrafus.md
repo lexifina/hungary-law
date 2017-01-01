@@ -22,7 +22,7 @@ d)[^3] a c) pontban foglalt telken létesített épület és pince,
 
 e)[^4] olyan, az a) és c) pontban meghatározott telekkel alkotórészi kapcsolatban lévő önálló rendeltetési egység, amelynek e rendelet céljával összhangban a címképzésért felelős szerv cím képzését szükségesnek tartja,
 
-f)[^5] a b), d) és e) pontba nem tartozó ingatlan, ha a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (2) bekezdés alapján a polgár lakóhelyéül, vagy külön jogszabály szerinti jogi személy, illetve jogi személyiséggel nem rendelkező szervezet székhelyéül, telephelyéül szolgál [a továbbiakban az a)–f) pontok együtt: ingatlan].
+f)[^5] a b), d) és e) pontba nem tartozó ingatlan, ha a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 5. § (2) bekezdés alapján a polgár lakóhelyéül, vagy külön jogszabály szerinti jogi személy, illetve jogi személyiséggel nem rendelkező szervezet székhelyéül, telephelyéül szolgál [a továbbiakban az a)–f) pontok együtt: ingatlan].
 
 (2) Cím akkor
 
@@ -34,5 +34,5 @@ c) módosul, ha valamely címeleme megváltozik.
 
 [^3]: A 2. § (1) bekezdés d) pontja a 404/2015. (XII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés e) pontját a 404/2015. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: A 2. § (1) bekezdés f) pontját a 404/2015. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés f) pontját a 404/2015. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 284. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés a) pontja a 404/2015. (XII. 15.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

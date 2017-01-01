@@ -28,15 +28,15 @@ m) ha az épület vagy a lépcsőház azonos szintjén több önálló rendeltet
 
 (2) A központi címregiszter az (1) bekezdésben meghatározott címelemeken túl nyilvántartja
 
-a)[^7] a címkoordinátákat és az ingatlan-nyilvántartási azonosító kódot, a 8. § (4a) bekezdésben foglalt eset kivételével,
+a)[^10] a címkoordinátákat és az ingatlan-nyilvántartási azonosító kódot, a 8. § (4a) bekezdésben foglalt eset kivételével,
 
 b) a címkezelési döntés számát,
 
 c) valamennyi cím tekintetében az egyedi azonosító kódot,
 
-d)[^8] azt, hogy a bejegyzett adatok telek, épület vagy közterület megjelölését szolgálják.
+d)[^11] azt, hogy a bejegyzett adatok telek, épület vagy közterület megjelölését szolgálják.
 
 (3) E rendelet alkalmazásában két címet akkor kell különbözőnek tekinteni, ha legalább egy címadatuk különbözik.
 
-[^7]: Az 5. § (2) bekezdés a) pontja a 404/2015. (XII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (2) bekezdés d) pontja a 404/2015. (XII. 15.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (2) bekezdés a) pontja a 404/2015. (XII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (2) bekezdés d) pontja a 404/2015. (XII. 15.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

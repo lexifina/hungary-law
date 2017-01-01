@@ -1,6 +1,6 @@
-3. § (1) A központi címregiszter működtetéséért felelős szervként a Kormány a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: központi szerv) jelöli ki. A központi szerv a központi címregiszter adatkezelője és a nyilvántartás vezetője.
+3. § (1)[^7] A központi címregiszter működtetéséért felelős szervként a Kormány a személyiadat- és lakcímnyilvántartásért felelős minisztert (a továbbiakban: miniszter) jelöli ki. A miniszter a központi címregiszter adatkezelője és a nyilvántartás vezetője.
 
-(2) A központi szerv
+(2)[^8] A miniszter
 
 a) kezeli a központi címregiszter adatállományát, ennek keretében
 
@@ -21,3 +21,6 @@ ba) a címképzésért felelős szerv számára biztosítja a címek rögzítés
 bb) a címek rögzítéséhez szükséges automatikus adatátvételre jogosult felhasználókról nyilvántartást vezet,
 
 bc) a címek rögzítéséhez szükséges elektronikus alkalmazás felhasználóinak a hozzáféréseit naplózza.
+
+[^7]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 284. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 284. § (3) bekezdés b) pontja szerint módosított szöveg.
