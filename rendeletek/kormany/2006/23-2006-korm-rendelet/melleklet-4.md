@@ -1,6 +1,6 @@
 4. számú melléklet a 23/2006. (II. 3.) Korm. rendelethez
 
-## A vizsgáló szervezetekre vonatkozó követelmények[^91]
+## A vizsgáló szervezetekre vonatkozó követelmények[^92]
 
 I. Személyi feltételek
 
@@ -8,11 +8,11 @@ I. Személyi feltételek
 
 2. A vizsgálatokat végzők feleljenek meg a rendelet 4. §-ában előírt feltételeknek.
 
-3.[^92]
+3.[^93]
 
 II. Tárgyi feltételek
 
-1.[^93] A szervezet rendelkezzen a tevékenységi területre vonatkozó rendeletekkel, szabályzatokkal, szabványokkal és egyéb műszaki előírásokkal.
+1.[^94] A szervezet rendelkezzen a tevékenységi területre vonatkozó rendeletekkel, szabályzatokkal, szabványokkal és egyéb műszaki előírásokkal.
 
 2. A szervezet rendelkezzen továbbá az általa elvégzendő vizsgálatokra vonatkozó technológiai, műveleti utasításokkal, amelyek a megállapítások kiértékelését is tartalmazzák, azon túlmenően, hogy meghatározzák a végrehajtás módját (esetleg személyi), tárgyi követelményeit.
 
@@ -22,20 +22,20 @@ II. Tárgyi feltételek
 
 III. Szervezeti követelmények
 
-1.[^94] A vizsgáló szervezetek nem lehetnek közvetlenül érintettek a rendelet hatálya alá tartozó és az általa ellenőrzött termék tervezésében, gyártásában, forgalmazásában, szerelésében, üzemeltetésében és karbantartásában.
+1.[^95] A vizsgáló szervezetek nem lehetnek közvetlenül érintettek a rendelet hatálya alá tartozó és az általa ellenőrzött termék tervezésében, gyártásában, forgalmazásában, szerelésében, üzemeltetésében és karbantartásában.
 
 2. A külső vizsgáló szervezet legyen független az érintett felektől, ezáltal „harmadik fél” típusú ellenőrző szolgáltatást biztosítson.
 
-3.[^95] Az üzemeltetői vizsgáló szervezet az ellenőrzött terméket tervező, gyártó, forgalmazó, szerelő, üzemeltető vagy karbantartó szervezet különálló és szervezetileg azonosítható része legyen.
+3.[^96] Az üzemeltetői vizsgáló szervezet az ellenőrzött terméket tervező, gyártó, forgalmazó, szerelő, üzemeltető vagy karbantartó szervezet különálló és szervezetileg azonosítható része legyen.
 
-4.[^96] Az ellenőrzést és az egyéb tevékenységet végző személyzet felelőségét egyértelműen el kell választani, ezt az anyaszervezeten belül a vizsgáló szervezet jegyzőkönyvezési módszerével és szervezeti azonosításával kell megvalósítani.
+4.[^97] Az ellenőrzést és az egyéb tevékenységet végző személyzet felelőségét egyértelműen el kell választani, ezt az anyaszervezeten belül a vizsgáló szervezet jegyzőkönyvezési módszerével és szervezeti azonosításával kell megvalósítani.
 
-5.[^97] Az üzemeltetői vizsgáló szervezet más üzemeltető szervezetnél nem végezhet időszakos vizsgálatokat. A szervezet nem támaszthat indokolatlan pénzügyi vagy egyéb feltételeket, és eljárásait megkülönböztetés nélkül köteles végezni.
+5.[^98] Az üzemeltetői vizsgáló szervezet más üzemeltető szervezetnél nem végezhet időszakos vizsgálatokat. A szervezet nem támaszthat indokolatlan pénzügyi vagy egyéb feltételeket, és eljárásait megkülönböztetés nélkül köteles végezni.
 
-[^91]: A 4. számú melléklet címe a 273/2009. (XII. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^92]: A 4. számú melléklet I. pont 3. alpontját a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés l) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^93]: A 4. számú melléklet II. pont 1. alpontja az 559/2013. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^94]: A 4. számú melléklet III. pont 1. alpontja az 559/2013. (XII. 31.) Korm. rendelet 41. § 4. pontja szerint módosított szöveg.
-[^95]: A 4. számú melléklet III. pont 3. alpontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés k) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^96]: A 4. számú melléklet III. pont 4. alpontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés k) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^97]: A 4. számú melléklet III. pont 5. alpontja a 273/2009. (XII. 3.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^92]: A 4. számú melléklet címe a 273/2009. (XII. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^93]: A 4. számú melléklet I. pont 3. alpontját a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés l) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^94]: A 4. számú melléklet II. pont 1. alpontja az 559/2013. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^95]: A 4. számú melléklet III. pont 1. alpontja az 559/2013. (XII. 31.) Korm. rendelet 41. § 4. pontja szerint módosított szöveg.
+[^96]: A 4. számú melléklet III. pont 3. alpontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés k) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^97]: A 4. számú melléklet III. pont 4. alpontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés k) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^98]: A 4. számú melléklet III. pont 5. alpontja a 273/2009. (XII. 3.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.

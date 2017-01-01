@@ -18,7 +18,7 @@ f) a létesítés felelős műszaki vezetőjének a nevét, címét és képesí
 
 g) a (3) bekezdés szerinti mellékletek felsorolását.
 
-(3) A létesítési engedély iránti kérelemhez – figyelemmel az érdekelt szakhatóságok számára is – megfelelő példányszámban mellékelni kell:
+(3)[^28] A létesítési engedély iránti kérelemhez – ha a kérelem benyújtása nem elektronikus úton történik, akkor az érdekelt szakhatóságok számának megfelelő példányszámban – mellékelni kell:
 
 a) a létesítményt ismertető engedélyezési dokumentációt, amely tartalmazza
 
@@ -34,7 +34,7 @@ c) az érdekelt közművek üzemeltetői nyilatkozatát,
 
 d) a tervező nyilatkozatát 1 példányban arról, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak és hatósági előírásoknak, összhangban van az élet, az egészség, a biztonság, a környezet, a kulturális örökség és a tulajdon védelmének követelményeivel; a tervezés során milyen műszaki irányelveket, szabványokat alkalmazott, továbbá, hogy a tervezésre jogosultsággal rendelkezik,
 
-e)[^28] a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díj befizetésének igazolását.
+e) a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díj befizetésének igazolását.
 
 (4)[^29] Amennyiben az a létesítési eljárás során még nem benyújtható, a (2) bekezdés f) pontja, és a (3) bekezdés a) pont ab) és ac) alpontja szerinti dokumentumokat a használatbavételi eljárás során kell a bányafelügyeletnek átadni.
 
@@ -50,7 +50,7 @@ e)[^28] a külön jogszabályban meghatározott mértékű igazgatási szolgált
 
 [^26]: A 8. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 75. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^27]: A 8. § (2) bekezdés a) pontját a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés e) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^28]: A 8. § (3) bekezdés e) pontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^28]: A 8. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
 [^29]: A 8. § (4) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 75. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^30]: A 8. § (6) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^31]: A bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló 96/2005. (XI. 4.) GKM rendelet.
