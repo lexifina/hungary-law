@@ -32,9 +32,7 @@ B) Központi hivatalok
 
 3.7. kormányzati ellenőrzéssel összefüggésben adminisztratív, kézbesítési feladatokat ellátó kormánytisztviselő, munkavállaló
 
-4. Közigazgatási és Igazságügyi Hivatal
-
-4.1. támogatási igazgató
+4.[^1]
 
 5. Nemzeti Kommunikációs Hivatal
 
@@ -63,3 +61,5 @@ C) Fővárosi és megyei kormányhivatalok
 9.3. honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 28. §-ában meghatározott védelmi igazgatási munkában részt vevő munkakör
 
 9.4. minősített iratkezelési feladatot ellátó munkakör
+
+[^1]: Az 1. melléklet 4. pontját a 37/2016. (XII. 29.) MvM rendelet 8. §-a hatályon kívül helyezte.
