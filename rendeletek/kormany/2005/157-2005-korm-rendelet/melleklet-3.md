@@ -4,11 +4,11 @@
 
 ## 2. Helyszínrajz ingatlanonként 1:1000 méretarányban
 
-## 3.[^67] Ingatlan-nyilvántartási térképmásolat (1 db)
+## 3.[^68] Ingatlan-nyilvántartási térképmásolat (1 db)
 
 ## 4. Az érintett ingatlan(ok) 30 napnál nem régebbi tulajdoni lap másolata
 
-## 5.[^68] Műszaki leírás (1 db)
+## 5.[^69] Műszaki leírás (1 db)
 
 ## A létesítendő vezeték megnevezése:
 
@@ -44,7 +44,7 @@
 
 ## Vezetékjogi engedély dokumentációja
 
-## 1.[^69] Műszaki leírás (1 db)
+## 1.[^70] Műszaki leírás (1 db)
 
 ## A létesítendő vezeték megnevezése:
 
@@ -82,7 +82,7 @@
 
 ## Nyilatkozat hogy a tárgyi vezeték az érintett ingatlanok rendeltetésszerű használatát nem akadályozza
 
-## 2.[^70] Kiviteli tervdokumentáció (1 db)
+## 2.[^71] Kiviteli tervdokumentáció (1 db)
 
 ## – műszaki leírás
 
@@ -110,7 +110,7 @@
 
 3. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez
 
-[^67]: A 2. melléklet Előmunkálati jogi engedély dokumentációja cím 3. pontja a 70/2015. (III. 30.) Korm. rendelet 73. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^68]: A 2. melléklet Előmunkálati jogi engedély dokumentációja cím 5. pontja a 70/2015. (III. 30.) Korm. rendelet 73. § (7) bekezdése szerint módosított szöveg.
-[^69]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^70]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 2. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a, a 70/2015. (III. 30.) Korm. rendelet 73. § (7) bekezdése szerint módosított szöveg.
+[^68]: A 2. melléklet Előmunkálati jogi engedély dokumentációja cím 3. pontja a 70/2015. (III. 30.) Korm. rendelet 73. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^69]: A 2. melléklet Előmunkálati jogi engedély dokumentációja cím 5. pontja a 70/2015. (III. 30.) Korm. rendelet 73. § (7) bekezdése szerint módosított szöveg.
+[^70]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^71]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 2. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a, a 70/2015. (III. 30.) Korm. rendelet 73. § (7) bekezdése szerint módosított szöveg.

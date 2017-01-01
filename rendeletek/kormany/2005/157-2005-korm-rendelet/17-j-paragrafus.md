@@ -14,7 +14,7 @@ ba) állami vagy önkormányzati fenntartású, vagy
 
 bb) állami vagy önkormányzati feladatok ellátására hatályos ellátási szerződéssel rendelkezik,
 
-c) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsőde, családi napközi, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
+c)[^47] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
 
 ca) állami vagy önkormányzati fenntartású, vagy
 
@@ -28,3 +28,4 @@ db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos sze
 
 [^45]: A Vhr. 17/J. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be, szövege a 281/2016. (IX. 21.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^46]: A Vhr. 17/J. §-át a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
+[^47]: A Vhr. 17/J. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 8. §-a szerint módosított szöveg.
