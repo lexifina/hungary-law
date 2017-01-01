@@ -1,4 +1,4 @@
-24. §[^83] (1) A jelölt a végrehajtói szakvizsgára történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján nyújthatja be.
+24. §[^82] (1) A jelölt a végrehajtói szakvizsgára történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján nyújthatja be.
 
 (2) A jelöltnek a jelentkezéssel egyidejűleg a Jogakadémia képzésszervezést támogató informatikai rendszerébe a következő dokumentumokat kell feltöltenie:
 
@@ -10,4 +10,4 @@ c) a szakvizsgára készített, a Jogakadémia által közzétett tartalmi és f
 
 d) a végrehajtói szakvizsga díjának befizetéséről szóló igazolást.
 
-[^83]: A 24. § a 21/2016. (X. 11.) IM rendelet 5. §-ával megállapított szöveg.
+[^82]: A 24. § a 21/2016. (X. 11.) IM rendelet 5. §-ával megállapított szöveg.

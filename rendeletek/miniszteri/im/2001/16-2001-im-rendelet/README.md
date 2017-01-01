@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-16-20-0
 | 2016-03-09 | 2001-16-20-06.22 | 5/2016. (III. 8.) IM rendelet |
 | 2016-07-01 | 2001-16-20-06.23 | 43/2015. (XII. 30.) IM rendelet |
 | 2016-10-12 | 2001-16-20-06.24 | 21/2016. (X. 11.) IM rendelet |
+| 2017-01-01 | 2001-16-20-06.25 | 5/2016. (III. 8.) IM rendelet |
