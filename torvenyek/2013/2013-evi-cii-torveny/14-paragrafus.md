@@ -2,9 +2,17 @@
 
 (2) Haltermelő létesítménybe a Pannon biogeográfiai régión kívülről származó hal a halgazdálkodási hatóság engedélyével, az e törvény végrehajtására kiadott rendeletben szabályozott esetekben, feltételekkel és módon telepíthető.
 
-(3) Az idegen és nem honos fajoknak haltermelő létesítménybe történő telepítése az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló, 2007. június 11-i 708/2007/EK tanácsi rendelet (a továbbiakban: Tanácsi Rendelet) és az e törvény végrehajtására kiadott rendelet alapján végezhető.
+(3) Az idegen és nem honos fajoknak haltermelő létesítménybe történő telepítése
 
-(4) A Tanácsi Rendeletben meghatározott halfaj halgazdálkodási vízterületre történő telepítésére – a természet védelméről szóló törvényben meghatározott előírásokra is figyelemmel – engedély csak akkor adható, ha
+a) az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló, 2007. június 11-i 708/2007/EK tanácsi rendelet (a továbbiakban: 708/2007/EK tanácsi rendelet),
+
+b) az 1143/2014/EU európai parlamenti és tanácsi rendelet 8. és 9. cikke, valamint
+
+c) az e törvény végrehajtására kiadott rendelet
+
+alapján végezhető.
+
+(4) A 708/2007/EK tanácsi rendeletben meghatározott halfaj halgazdálkodási vízterületre történő telepítésére – a természet védelméről szóló törvényben meghatározott előírásokra is figyelemmel – engedély csak akkor adható, ha
 
 a) a telepíteni kívánt vízterület teljesen zárt, lefolyástalan, vagy
 
