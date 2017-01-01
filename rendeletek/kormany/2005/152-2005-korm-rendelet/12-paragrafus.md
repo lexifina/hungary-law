@@ -1,4 +1,4 @@
-## 12. §[^73] E rendelet alkalmazásában:
+## 12. §[^74] E rendelet alkalmazásában:
 
 1. jövedelem: a szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés a) pontjában meghatározott jövedelem,
 
@@ -12,4 +12,4 @@
 
 6. tagintézmény: az Nkt. 4. § 28. pontjában meghatározott intézményegység.
 
-[^73]: A 12. § a 171/2016. (VII. 1.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^74]: A 12. § a 171/2016. (VII. 1.) Korm. rendelet 9. §-ával megállapított szöveg.
