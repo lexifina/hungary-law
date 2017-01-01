@@ -1,6 +1,6 @@
-## 19. §[^89] Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet és a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosításáról szóló 17/2016. (VII. 22.) EMMI rendelettel megállapított 3. számú mellékletben foglaltakat a 2016. augusztus havi teljesítmények elszámolásától kell alkalmazni.
+## 19. §[^95] Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet és a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosításáról szóló 17/2016. (VII. 22.) EMMI rendelettel megállapított 3. számú mellékletben foglaltakat a 2016. augusztus havi teljesítmények elszámolásától kell alkalmazni.
 
-1. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^90]
+1. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^96]
 
-[^89]: A 19. §-t a 17/2016. (VII. 22.) EMMI rendelet 1. §-a iktatta be.
-[^90]: Az 1. számú melléklet a 32/2016. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^95]: A 19. §-t a 17/2016. (VII. 22.) EMMI rendelet 1. §-a iktatta be.
+[^96]: Az 1. számú melléklet a 32/2016. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.

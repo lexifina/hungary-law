@@ -1398,6 +1398,6 @@
 
 |  | R464 Békés Megyei Központi Kórház, Gyula |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^91]
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^97]
 
-[^91]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^97]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
