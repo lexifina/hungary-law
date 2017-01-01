@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-47-20-1
 | --- | --- | --- |
 | 2016-07-18 | 2016-47-20-11.1 | 47/2016. (VII. 15.) FM rendelet |
 | 2016-07-19 | 2016-47-20-11.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-47-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
