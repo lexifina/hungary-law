@@ -1,3 +1,5 @@
-## 2. §[^6] A megváltozott munkaképességű személyek ellátásával kapcsolatos hatósági ügyekben a kérelmező lakó- vagy tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal rehabilitációs hatóságként jár el első fokon. Külföldön élő, tartózkodó kérelmező esetén, első fokon Budapest Főváros Kormányhivatala rehabilitációs hatóságként jár el.
+3. §[^4] (1) A megváltozott munkaképességű személyek ellátásaival kapcsolatos hatósági ügyekben másodfokon rehabilitációs hatóságként és felügyeleti szervként Budapest Főváros Kormányhivatala országos illetékességgel jár el.
 
-[^6]: A 2. § a 95/2012. (V. 15.) Korm. rendelet 46. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés d) pontja szerint módosított szöveg.
+(2) Ha jogszabály eltérően nem rendelkezik rehabilitációs szakértői szervként és orvosszakértői szervként másodfokon Budapest Főváros Kormányhivatala országos illetékességgel jár el.
+
+[^4]: A 3. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés a) pontja hatályon kívül helyezte, újonnan az 53/2013. (II. 25.) Korm. rendelet 2. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (2) bekezdésével megállapított szöveg.

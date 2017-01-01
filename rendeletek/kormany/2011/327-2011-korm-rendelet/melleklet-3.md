@@ -1,4 +1,4 @@
-3. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^66]
+3. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^123]
 
 ## Az akkreditációhoz szükséges működtetési feltételek
 
@@ -20,9 +20,9 @@ I. Az akkreditált szolgáltatónál foglalkoztatott rehabilitációs tanácsad�
 
 2. A foglalkozási rehabilitációs szolgáltatás nyújtásában legalább 3 éves gyakorlattal rendelkező szervezet esetében a táblázat 3. és 4. sorában foglalt szolgáltatások kivételével a rehabilitációs szolgáltatást nyújtó szakember a végzettséget előíró feltételek alól mentesül, amennyiben legalább középfokú végzettséggel és 3 éves igazolt munkaerőpiaci-szolgáltatás nyújtási tapasztalattal rendelkezik.
 
-3. A mentori tevékenységet folytató új belépőknek, valamint a szervezetbe új belépő tanácsadást nyújtó szakembereknek, kötelező részt venniük a Hivatal által meghatározott felkészítő képzésen.
+3. A mentori tevékenységet folytató új belépőknek, valamint a szervezetbe új belépő tanácsadást nyújtó szakembereknek, kötelező részt venniük a Budapest Főváros Kormányhivatala által meghatározott felkészítő képzésen.
 
-4. A tanácsadást nyújtó szakembereknek és a mentori tevékenységet folytató szakembereknek évente legalább egy alkalommal a Hivatal által szervezett szakmai képzésen való részvétele kötelező.
+4. A tanácsadást nyújtó szakembereknek és a mentori tevékenységet folytató szakembereknek évente legalább egy alkalommal a Budapest Főváros Kormányhivatala által szervezett szakmai képzésen való részvétele kötelező.
 
 II. A foglalkozási rehabilitációs szolgáltatás nyújtásának tárgyi feltételei
 
@@ -46,7 +46,7 @@ III. A rehabilitációs szolgáltatási terv
 
 2.3. a szervezet által alkalmazott módszertani megközelítés rövid bemutatását,
 
-2.4. a szervezet szolgáltatási tevékenységét 3 naptári évre visszamenőleg (bevontak száma, szolgáltatási esetszámok, szolgáltatási alkalmak száma, szolgáltatások típus szerinti megoszlása, eredményességi mutatók, szolgáltatási típusok szerinti eredményesség), a tevékenységre vonatkozó adatokat a Hivatal által üzemeltetett elektronikus felületről letölthető mintatáblázat alapján szükséges benyújtani a szolgáltatási terv mellékleteként,
+2.4. a szervezet szolgáltatási tevékenységét 3 naptári évre visszamenőleg (bevontak száma, szolgáltatási esetszámok, szolgáltatási alkalmak száma, szolgáltatások típus szerinti megoszlása, eredményességi mutatók, szolgáltatási típusok szerinti eredményesség), a tevékenységre vonatkozó adatokat a Budapest Főváros Kormányhivatala által üzemeltetett elektronikus felületről letölthető mintatáblázat alapján szükséges benyújtani a szolgáltatási terv mellékleteként,
 
 2.5. a szolgáltatás nyújtáshoz rendelkezésre álló személyi, tárgyi és egyéb feltételek rövid bemutatását,
 
@@ -70,4 +70,4 @@ III. A rehabilitációs szolgáltatási terv
 
 2.10.5. egyéb.
 
-[^66]: A 3. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^123]: A 3. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 5.[^19]
+## 5. [^22] A komplex minősítésre, valamint a rehabilitációs és orvosszakértői feladatok ellátására vonatkozó eljárási szabályok
 
-[^19]: Az 5. alcímet (11–13. §) a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés d) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 23. §-át.
+[^22]: Az 5. alcímet (11–13/C. §) újonnan a 379/2016. (XII. 2.) Korm. rendelet 187. § (7) bekezdése iktatta be.

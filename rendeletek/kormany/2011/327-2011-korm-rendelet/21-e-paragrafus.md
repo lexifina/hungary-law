@@ -1,4 +1,4 @@
-21/E. § (1) A Hivatal visszavonja az akkreditációt, ha az akkreditált szolgáltató
+21/E. § (1)[^75] A Budapest Főváros Kormányhivatala visszavonja az akkreditációt, ha az akkreditált szolgáltató
 
 a) kérelmezi,
 
@@ -16,15 +16,15 @@ g) egyéni vállalkozói tevékenységre való jogosultsága megszűnt, vagy sz�
 
 h) körülményeiben a nyilvántartásba vételt követően olyan változás következett be, amely miatt nem felel meg az akkreditáció feltételeinek,
 
-i) ellenőrzése során feltárt hiányosságok következtében a Hivatal az akkreditáció visszavonására okot adó körülményt állapít meg,
+i)[^76] ellenőrzése során feltárt hiányosságok következtében a Budapest Főváros Kormányhivatala az akkreditáció visszavonására okot adó körülményt állapít meg,
 
 j) a 21/D. § (1) bekezdés szerinti bejelentési kötelezettségének második alkalommal neki felróható okból nem, vagy késedelmesen tesz eleget,
 
 k) a 21/D. § (5) és (6) bekezdésében foglalt felszólításnak határidőben nem vagy nem megfelelően tesz eleget,
 
-l) nem köti meg az együttműködési megállapodást a Hivatallal a 21/A. § (5) bekezdésében meghatározottak szerint.
+l)[^77] nem köti meg az együttműködési megállapodást a Szociális és Gyermekvédelmi Főigazgatósággal a 21/A. § (5) bekezdésében meghatározottak szerint.
 
-(2) A Hivatal az akkreditációt
+(2)[^78] A Budapest Főváros Kormányhivatala az akkreditációt
 
 a) az (1) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól,
 
@@ -39,3 +39,8 @@ e) az a)–d) pontban nem említett esetben az akkreditáció visszavonásáról
 ## vonja vissza.
 
 (3) Ha az akkreditáció visszavonására az (1) bekezdés e) pontjában megjelölt okból kerül sor, az érintett foglalkozási rehabilitációs szolgáltató és jogutódja az akkreditáció iránt új kérelmet legkorábban az akkreditáció visszavonásáról rendelkező határozat jogerőre emelkedésétől számított 2 év elteltével nyújthatja be. Az ezt megelőzően benyújtott szolgáltatói akkreditációs tanúsítvány iránti kérelmet érdemi vizsgálat nélkül el kell utasítani.
+
+[^75]: A 21/E. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^76]: A 21/E. § (1) bekezdés i) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^77]: A 21/E. § (1) bekezdés l) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés i) pontja szerint módosított szöveg.
+[^78]: A 21/E. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^67]
+4. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^124]
 
 ## A rehabilitációs szolgáltatási terv értékelésének szempontjai a szolgáltatási akkreditációs eljárásban
 
@@ -16,10 +16,10 @@
 
 2.5. öt pont adható, ha a foglalkozási rehabilitációs szolgáltató válasza kiemelkedő szakmai színvonalat mutat, a többi válasszal a koherencia megvalósul, az eredményei az elvárthoz képest kimagaslóak, a tervei reálisak, előremutatók, és elősegítik a foglalkozási rehabilitációs cél megvalósulását,
 
-2.6. amennyiben a rehabilitációs szolgáltatási terv szempontjainak értékelése során a Hivatal az akkreditáció feltételeinek előírásaiba ütköző, vagy az akkreditációs kérelem elutasításával járó, vagy a tanúsítvány visszavonását eredményező szempontot talál, az adott szempontra X minősítést ad.
+2.6. amennyiben a rehabilitációs szolgáltatási terv szempontjainak értékelése során a Budapest Főváros Kormányhivatala az akkreditáció feltételeinek előírásaiba ütköző, vagy az akkreditációs kérelem elutasításával járó, vagy a tanúsítvány visszavonását eredményező szempontot talál, az adott szempontra X minősítést ad.
 
-3. A Hivatal a rehabilitációs szolgáltatási tervet megfelelőnek minősíti, ha az elérhető ötven pontból legalább harmincöt pontra értékelte.
+3. A Budapest Főváros Kormányhivatala a rehabilitációs szolgáltatási tervet megfelelőnek minősíti, ha az elérhető ötven pontból legalább harmincöt pontra értékelte.
 
-4. Amennyiben a rehabilitációs szolgáltatási terv értékelése során a Hivatal legalább egy X minősítést adott, abban az esetben a többi pont értéktől függetlenül a tervet nem megfelelőnek minősíti.
+4. Amennyiben a rehabilitációs szolgáltatási terv értékelése során a Budapest Főváros Kormányhivatala legalább egy X minősítést adott, abban az esetben a többi pont értéktől függetlenül a tervet nem megfelelőnek minősíti.
 
-[^67]: A 4. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (4) bekezdése iktatta be.
+[^124]: A 4. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.

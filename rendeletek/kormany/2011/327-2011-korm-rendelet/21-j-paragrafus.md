@@ -1,4 +1,4 @@
-21/J. § (1) A Hivatal a munkaadónak képzési célú támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy képzéséhez, ha
+21/J. § (1)[^96] A Szociális és Gyermekvédelmi Főigazgatóság a munkaadónak képzési célú támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy képzéséhez, ha
 
 a) a rehabilitációs szolgáltatásban részesülő személy annak eredményeként alkalmassá válhat a munkaadó munkaerőigényében megjelölt munkakör betöltésére, és a munkakör foglalkozási rehabilitációs célú munkaerő-közvetítéssel nem tölthető be, vagy
 
@@ -23,3 +23,5 @@ c) a C, D vagy E járműkategóriába vagy ezek alkategóriáiba, kombinált kat
 (5) Képzési célú támogatás a meghatározott költségekre, a képzés teljes elszámolható költségének 60 százalékáig, kis- és közepes vállalkozások esetén 70 százalékáig nyújtható. A képzési célú támogatás felsőkorlátjának kiszámítása során az európai uniós és a központi költségvetésből származó valamennyi támogatást figyelembe kell venni. A képzés fennmaradó költségei a munkaadót terhelik.
 
 (6) A képzésen részt vevőket a munkaadó választja ki a támogatásba bevonható, rehabilitációs szolgáltatásban részesülő személyek közül.
+
+[^96]: A 21/J. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
