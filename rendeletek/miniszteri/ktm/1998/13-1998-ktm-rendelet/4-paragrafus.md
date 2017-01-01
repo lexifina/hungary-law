@@ -14,9 +14,9 @@ c) a környezeti ártalmak által közvetlenül veszélyeztetett barlangok eset�
 
 (4)[^8] A 3. § (3) bekezdés d) és e) pontjában foglalt adatok felvételéről a barlang vagyonkezelője gondoskodik.
 
-(5)[^9] A természetvédelmi hatósági jogkörében eljáró kormányhivatal, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség) és az igazgatóság az alapadatok, valamint az alapadatokhoz kapcsolódó mellékletek vonatkozásában a Minisztérium részére adatszolgáltatásra köteles, ha újonnan feltáruló barlangról vagy meglévő barlang adataiban történő változásról szerez tudomást.
+(5)[^9] A területi természetvédelmi hatóság, az országos természetvédelmi hatóság és az igazgatóság az alapadatok, valamint az alapadatokhoz kapcsolódó mellékletek vonatkozásában a Minisztérium részére adatszolgáltatásra köteles, ha újonnan feltáruló barlangról vagy meglévő barlang adataiban történő változásról szerez tudomást.
 
 [^6]: A 4. § (1) bekezdése a 3/2007. (I. 22.) KvVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 4. § (3) bekezdése a 3/2007. (I. 22.) KvVM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^8]: A 4. § (4) bekezdését az 58/2013. (VII. 11.) VM rendelet 2. §-a iktatta be.
-[^9]: A 4. § (5) bekezdése a 132/2013. (XII. 23.) VM rendelet 7. §-ával megállapított, a 15/2015. (III. 31.) FM rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § (5) bekezdése a 132/2013. (XII. 23.) VM rendelet 7. §-ával megállapított, a 89/2016. (XII. 29.) FM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
