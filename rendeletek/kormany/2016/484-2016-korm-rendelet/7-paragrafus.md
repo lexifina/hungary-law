@@ -1,0 +1,1 @@
+## 6. § A termékleírás módosításának jóváhagyása iránti kérelmet a 251/2014/EU európai parlamenti és tanácsi rendelet 24. cikkében foglaltak figyelembevételével a miniszterhez kell benyújtani. A termékleírás módosításának jóváhagyása iránt benyújtott kérelmek esetében a 4. és 5. §-ban foglaltak megfelelő alkalmazásával kell eljárni.
