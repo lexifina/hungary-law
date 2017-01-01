@@ -1,4 +1,4 @@
-## 6. §[^4]
+## 6. §[^3]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § és az 1. melléklet 2017. január 1-jén lép hatályba.
 
-[^4]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,1 @@
-## 3. §[^2]
-
-[^2]: A 3. § a 7. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## 3. § Az R1. 1. melléklete helyébe az 1. melléklet lép.
