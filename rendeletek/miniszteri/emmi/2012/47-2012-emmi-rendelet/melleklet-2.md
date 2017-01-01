@@ -1,4 +1,4 @@
-2. melléklet a 47/2012. (XII. 11.) EMMI rendelethez
+2. melléklet a 47/2012. (XII. 11.) EMMI rendelethez[^8]
 
 Bejelentés a rehabilitációs orvosszakértői tevékenység folytatásáról
 
@@ -32,10 +32,12 @@ j) A szakképesítésre, végzettségre vonatkozó adatok:
 
 | Működési engedély: | Nyilvántartási szám: |
 
-Hozzájárulok, hogy a h)–j) pontban foglalt adataimat a Nemzeti Rehabilitációs és Szociális Hivatal honlapján közzétegye.
+Hozzájárulok, hogy a h)–j) pontban foglalt adataimat a Budapest Főváros Kormányhivatala a honlapján és a Szociális Ágazati Portálon közzétegye.
 
 Kelt:
 
 …….……………………………...
 
 bejelentő aláírása
+
+[^8]: A 2. melléklet a 43/2016. (XII. 27.) EMMI rendelet 34. § c) pontja szerint módosított szöveg.
