@@ -24,7 +24,7 @@
 
 ## 1.11. Adójegy átvétel kért időpontja
 
-## 1.12. Fizetési mód (átvételt megelőző / halasztott):
+## 1.12.
 
 ## 2. Adójegy-megrendelés részletezése
 
@@ -32,7 +32,7 @@
 
 ## 2.2. A dohánygyártmány adó fajtakódja;
 
-## 2.3. A dohánygyártmány kiskereskedelmi eladási ára;
+## 2.3.
 
 ## 2.4. A dohánygyártmány csomagolási egység;
 
@@ -40,6 +40,6 @@
 
 ## 2.6. Adójegy mennyisége;
 
-3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^70]
+3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^63]
 
-[^70]: A 3. számú melléklet az 52/2012. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.
+[^63]: A 3. számú melléklet az 52/2012. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.

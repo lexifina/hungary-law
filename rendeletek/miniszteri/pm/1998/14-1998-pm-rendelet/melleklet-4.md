@@ -2,7 +2,7 @@
 
 ## 1. Adójegy, a darabonként csomagolt szivar adójegye kivételével
 
-## 1.1. Leírása: Az adójegy téglalap alakú. Az adójegy egy sorszámot (vonalkód formájában is), a fogyasztói csomagban levő dohánygyártmány mennyiségét (darab vagy gramm), kiskereskedelmi eladási árát, az adómérték kódját, valamint a dohánygyártmánynak a Jöt. 96. § (1) bekezdésben meghatározott megnevezését tartalmazza.
+## 1.1.[^64] Leírása: Az adójegy téglalap alakú. Az adójegy egy sorszámot (vonalkód formájában is), a fogyasztói csomagban levő dohánygyártmány mennyiségét (darab vagy gramm), az adómérték kódját, valamint a dohánygyártmánynak a Jöt. 96. § (1) bekezdésben meghatározott megnevezését tartalmazza.
 
 ## 1.2. Mérete: 44 x 20 mm.
 
@@ -18,7 +18,7 @@
 
 ## 2. A darabonként csomagolt szivar adójegye
 
-## 2.1. Leírása: Az adójegy két téglalap alakú füllel ellátott, fekvő ellipszis alakú, kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia. Az adójegyen a „Szivar” szöveg az ellipszis felső vonalán, az adómérték kódja az ellipszis alsó vonalán, míg az ellipszis közepén a sorszám és a kiskereskedelmi eladási ár található.
+## 2.1.[^65] Leírása: Az adójegy két téglalap alakú füllel ellátott, fekvő ellipszis alakú, kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia. Az adójegyen a „Szivar” szöveg az ellipszis felső vonalán, az adómérték kódja az ellipszis alsó vonalán, míg az ellipszis közepén a sorszám található.
 
 ## 2.2. Mérete: Az adójegy teljes hossza 72 mm, az ellipszis hossza 42 mm, legnagyobb szélessége 18 mm, a fül szélessége 11 mm.
 
@@ -30,6 +30,8 @@
 
 ## 2.6. Csomagolási egység: 50 darab ív, ívenként 30 darab adójegy, dobozba rakva.
 
-4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^71]
+4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^66]
 
-[^71]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.
+[^64]: A 3. számú melléklet 1. pont 1.1. alpontja az 58/2016. (XII. 28.) NGM rendelet 4. § 15. pontja szerint módosított szöveg.
+[^65]: A 3. számú melléklet 2. pont 2.1. alpontja az 58/2016. (XII. 28.) NGM rendelet 4. § 15. pontja szerint módosított szöveg.
+[^66]: A 4. számú melléklet az 58/2016. (XII. 28.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.

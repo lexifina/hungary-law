@@ -64,6 +64,6 @@
 
 ## 3.3. VP termékazonosító-szám érvényessége (csak módosítás esetében töltendő ki)(U és M karbantartási jel esetében az érvényesség kezdete, T esetében az érvényesség vége)
 
-2. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^69]
+2. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^62]
 
-[^69]: A 2. számú melléklet az 54/2011. (XII. 29.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^62]: A 2. számú melléklet az 54/2011. (XII. 29.) NGM rendelet 12. § (1) bekezdésével megállapított, az 58/2016. (XII. 28.) NGM rendelet 4. § 14. pontja szerint módosított szöveg.
