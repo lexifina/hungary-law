@@ -1,4 +1,4 @@
-4. melléklet a 13/2011. (X. 20.) HM rendelethez[^3]
+4. melléklet a 13/2011. (X. 20.) HM rendelethez[^4]
 
 | FEJRÉSZ | ...................... példány |
 
@@ -46,4 +46,4 @@ Kapják: 1. sz. pld.: Sérült
 
 2. sz. pld.: Irattár
 
-[^3]: A 4. melléklet a 16/2016. (VIII. 31.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^4]: A 4. melléklet a 16/2016. (VIII. 31.) HM rendelet 4. § b) pontja szerint módosított szöveg.

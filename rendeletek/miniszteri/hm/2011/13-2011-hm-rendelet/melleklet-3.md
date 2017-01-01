@@ -28,7 +28,7 @@
 
 | A bejelentés módjai: |
 
-3. melléklet a 13/2011. (X. 20.) HM rendelethez
+3. melléklet a 13/2011. (X. 20.) HM rendelethez[^3]
 
 Nyt. szám:
 
@@ -230,7 +230,7 @@ A sérült (munkavállaló) adatai
 
 | hivatásos tiszthelyettes | 04 |  | hallgató (tiszthelyettes jelölt) | 11 |
 
-| szerződéses tiszt | 05 |  | önkéntes védelmi tartalékos | 12 |
+| szerződéses tiszt | 05 |  | önkéntes védelmi tartalékos, önkéntes területvédelmi tartalékos | 12 |
 
 | szerződéses tiszthelyettes | 06 |  | önkéntes műveleti tartalékos | 13 |
 
@@ -681,3 +681,5 @@ A név, rendfokozat rovatot – az azonosíthatóság miatt – olvashatóan kel
 A záradékot értelemszerűen, az ügyviteli szabályok és e rendelet 15. § (2) bekezdésének megfelelően kell kitölteni.
 
 A felügyelői észrevételek, intézkedés rovatot a munkabiztonsági hatóság tölti ki.
+
+[^3]: A 3. melléklet a 25/2016. (XII. 22.) HM rendelet 12. §-a szerint módosított szöveg.
