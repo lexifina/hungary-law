@@ -1,12 +1,6 @@
-11. § (1)[^44] A fogyatékossági támogatást
+11. § (1)[^51] A fogyatékossági támogatást a folyósító szerv havonta utólag, a tárgyhónapot követő hónap 5. napjáig folyósítja.
 
-a) a Fot. 23. § (1) bekezdése szerinti esetben a kormányhivatal,
-
-b) a Fot. 23. § (2) bekezdése szerinti esetben Budapest Főváros Kormányhivatala
-
-## havonta utólag, a tárgyhónapot követő hónap 5. napjáig folyósítja.
-
-(2)[^45] A megállapított fogyatékossági támogatás folyósítása
+(2)[^52] A megállapított fogyatékossági támogatás folyósítása
 
 a) belföldre forintban,
 
@@ -14,14 +8,14 @@ b) külföldre az ellátás kifizetésének napján érvényes, a Magyar Nemzeti
 
 ## történik.
 
-(3)[^46] A kifizetés napja alatt az (2) bekezdés b) pontjának alkalmazásában a terhelés, illetve a postai utalvány feladásának napját kell érteni.
+(3)[^53] A kifizetés napja alatt az (2) bekezdés b) pontjának alkalmazásában a terhelés, illetve a postai utalvány feladásának napját kell érteni.
 
-(4)[^47] A támogatás a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg.
+(4)[^54] A támogatás a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg.
 
-(5)[^48]
+(5)[^55]
 
-[^44]: A 11. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg.
-[^45]: A 11. § új (2) bekezdését a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (4)–(5) bekezdésre változtatva.
-[^46]: A 11. § új (3) bekezdését a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva, szövege a 314/2009. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^47]: A 11. § eredeti (2) bekezdésének számozását a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 21/2003. (II. 25.) Korm. rendelet 11. § (8) bekezdésének a) pontja, a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^48]: A 11. § eredeti (3) bekezdésének számozását a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése (5) bekezdésre változtatta. A 11. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 191. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^51]: A 11. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 39. § (4) bekezdésével megállapított szöveg.
+[^52]: A 11. § új (2) bekezdését a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (4)–(5) bekezdésre változtatva.
+[^53]: A 11. § új (3) bekezdését a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva, szövege a 314/2009. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^54]: A 11. § eredeti (2) bekezdésének számozását a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 21/2003. (II. 25.) Korm. rendelet 11. § (8) bekezdésének a) pontja, a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A 11. § eredeti (3) bekezdésének számozását a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése (5) bekezdésre változtatta. A 11. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 191. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -42,6 +42,6 @@
 
 ## 3. Kitöltési útmutató és tájékoztatás a csatolandó dokumentumokról.
 
-3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^80]
+3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^87]
 
-[^80]: A 3. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^87]: A 3. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.

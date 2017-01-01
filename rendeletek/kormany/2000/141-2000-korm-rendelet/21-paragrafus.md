@@ -1,6 +1,6 @@
-## 20/A. §[^73] A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+## 20/B. §[^80] Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 448/2016. (XII. 19.) Korm. rendelet által megállapított 19. §-ban foglaltakat a 2017. január 1-jén folyamatban lévő ügyekben is alkalmazni kell. A 2017. január 1-jét megelőzően kiállított hatósági igazolványt a jogosult kérelmére a 2017. január 1-jétől hatályos 19. §-ban foglaltaknak megfelelően cserélni kell azzal, hogy az így kiállított hatósági igazolvány hatálya megegyezik a korábbi hatósági igazolvány hatályával.
 
-## Az Európai Unió jogának való megfelelés[^74]
+## Az Európai Unió jogának való megfelelés[^81]
 
-[^73]: A 20/A. §-t a 70/2015. (III. 30.) Korm. rendelet 43. § (11) bekezdése iktatta be.
-[^74]: A 21. §-t megelőző alcímet a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^80]: A 20/B. §-t a 448/2016. (XII. 19.) Korm. rendelet 19. §-a iktatta be.
+[^81]: A 21. §-t megelőző alcímet a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
