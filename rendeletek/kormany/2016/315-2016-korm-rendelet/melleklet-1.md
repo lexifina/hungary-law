@@ -1,6 +1,6 @@
-## 9–10. §[^4]
+## szöveg lép.
 
-1. melléklet a 315/2016. (X. 20.) Korm. rendelethez
+1. melléklet a 315/2016. (X. 20.) Korm. rendelethez[^3]
 
 Az egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, szakirányú szakképesítések
 
@@ -24,17 +24,15 @@ d) felsőoktatásban szerzett szakképzettség és az Országos Képzési Jegyz�
 
 Felsőfokú végzettséggel:
 
-a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+a) felsőoktatásban jogi, közigazgatási, rendészeti és katonai, államtudományi képzési területen szerzett szakképzettség, vagy
 
-b) közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési területen szerzett szakképzettség, vagy
-
-c) felsőoktatásban jogi, bölcsészettudományi, társadalomtudományi, pedagógus-képzés képzési területen szerzett szakképzettség és OKJ szerinti ügyviteli szakmacsoportba tartozó migrációs ügyintéző szakképesítés.
+b) felsőoktatásban szerzett bölcsészettudományi, társadalomtudományi, pedagógus-képzés képzési területen szerzett szakképzettség és OKJ szerinti ügyviteli szakmacsoportba tartozó migrációs ügyintéző szakképesítés.
 
 Érettségi végzettséggel:
 
-a) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi, közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés, vagy
+a) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi, közszolgálati vagy ügyviteli szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés, vagy
 
-b) ügyfélszolgálati feladatkört is érintő munkakörben: érettségi végzettség és OKJ szerinti ügyviteli szakmacsoportba tartozó migrációs ügyintéző szakképesítés.
+b) érettségi végzettség és anyakönyvi szakvizsga.
 
 3. Állat-egészségügyi és élelmiszer-biztonsági feladatkör
 
@@ -52,35 +50,35 @@ a) mezőgazdasági ágazati tevékenységet végző szakközépiskolában szerze
 
 b) érettségi végzettség és OKJ szerinti egészségügyi, mezőgazdasági, élelmiszeripari, kereskedelem-marketing, üzleti adminisztráció, ügyviteli, közgazdasági, rendészeti, honvédelemi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképzettség.
 
-4. Anyakönyvi szakfelügyeleti feladatkör
+4. Anyakönyvi feladatkör:
 
-4.1. Anyakönyvi szakfelügyeleti és koordinációs feladatkör
-
-Felsőfokú végzettséggel:
-
-a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség és anyakönyvi szakvizsga, vagy
-
-b) felsőoktatásban közigazgatási, államtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga.
-
-4.2. Hazai anyakönyvezési feladatkör
+4.1. Anyakönyvi ügyek szakfelügyeleti feladatkör:
 
 Felsőfokú végzettséggel:
 
-a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség és anyakönyvi szakvizsga, vagy
+a) felsőoktatásban szerzett igazgatásszervező, közigazgatás-szervező szakképzettség és anyakönyvi szakvizsga; vagy
 
-b) felsőoktatásban közigazgatási, államtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga
+b) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, államtudományi képzési területen, valamint az állam- és jogtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga.
+
+4.2. Anyakönyvi és névváltoztatási feladatkör:
+
+Felsőfokú végzettséggel:
+
+a) felsőoktatásban szerzett igazgatásszervező, közigazgatás-szervező szakképzettség és anyakönyvi szakvizsga; vagy
+
+b) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, államtudományi képzési területen, valamint az állam- és jogtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga.
+
+4.3. Hazai anyakönyvezési feladatkör:
+
+Felsőfokú végzettséggel:
+
+a) felsőoktatásban szerzett igazgatásszervező, közigazgatás-szervező szakképzettség és anyakönyvi szakvizsga; vagy
+
+b) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, államtudományi képzési területen, valamint az állam- és jogtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga.
 
 Érettségi végzettséggel:
 
 érettségi végzettség és anyakönyvi szakvizsga.
-
-4.3. Névváltoztatási feladatkör
-
-Felsőfokú végzettséggel:
-
-a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség és anyakönyvi szakvizsga, vagy
-
-b) felsőoktatásban közigazgatási, államtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga.
 
 5. Bányászati és műszaki felügyeleti feladatkör
 
@@ -854,4 +852,4 @@ a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépi
 
 b) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
 
-[^4]: A 9–10. § a az 5. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^3]: Az 1. melléklet a 440/2016. (XII. 16.) Korm. rendelet 38. §-a szerint módosított szöveg.

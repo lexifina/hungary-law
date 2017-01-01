@@ -4,7 +4,6 @@
 
 a)[^1]
 
-b)[^2]
+b) 4. § (6) bekezdésében az „a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben” szövegrész helyébe az „a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben – állami tisztviselő esetén az állami tisztviselők képesítési előírásairól szóló kormányrendeletben –”
 
 [^1]: A 7. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 7. § b) pontja az 5. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
