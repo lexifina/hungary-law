@@ -1,0 +1,1 @@
+## 6. § Ez a rendelet a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 13. cikk (2) és (6) bekezdésének való megfelelést szolgálja.
