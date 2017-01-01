@@ -1,0 +1,1 @@
+## 17. § Ez a rendelet a transzeurópai közúthálózat alagútjaira vonatkozó biztonsági minimumkövetelményekről szóló, 2004. április 29-i 2004/54/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, a 3. melléklet 2.1. pontjának kivételével.

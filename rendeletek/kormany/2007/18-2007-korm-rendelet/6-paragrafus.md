@@ -8,20 +8,20 @@ c) rendkívüli esemény miatti azonnali lezárási rend meghatározásáról;
 
 d) a szükséges kockázatcsökkentő intézkedések végrehajtatásáról;
 
-e)[^11] az alagút kiviteli tervének a jóváhagyásáról,
+e)[^12] az alagút kiviteli tervének a jóváhagyásáról,
 
-f)[^12] a működési engedélynek a kiadásáról,
+f)[^13] a működési engedélynek a kiadásáról,
 
-g)[^13] a működési engedélytől történő eltérések engedélyezéséről,
+g)[^14] a működési engedélytől történő eltérések engedélyezéséről,
 
-h)[^14] a működési engedélynek – a biztonsági minimumkövetelmények sérelme esetén történő – korlátozásáról, felfüggesztéséről (a továbbiakban: az alagút lezárásáról) és azoknak a feltételeknek a meghatározásáról, amelyek teljesülése esetén az alagútban a rendeltetésszerű üzem helyreállítható, illetve az alagút a közforgalom számára újra megnyitható,
+h)[^15] a működési engedélynek – a biztonsági minimumkövetelmények sérelme esetén történő – korlátozásáról, felfüggesztéséről (a továbbiakban: az alagút lezárásáról) és azoknak a feltételeknek a meghatározásáról, amelyek teljesülése esetén az alagútban a rendeltetésszerű üzem helyreállítható, illetve az alagút a közforgalom számára újra megnyitható,
 
-i)[^15] a biztonsági minimumkövetelményektől való eltérések engedélyezéséről a 14. §-ban foglalt eljárási rend szerint.
+i)[^16] a biztonsági minimumkövetelményektől való eltérések engedélyezéséről a 14. §-ban foglalt eljárási rend szerint.
 
 (2) Az alagút biztonságos használata érdekében a Hatóság, a biztonsági tiszt, illetve az alagútkezelő megkeresésére a segélyszolgálatok együttműködésre, illetve a feladatkörükbe tartozó szükséges intézkedések megtételére kötelesek.
 
-[^11]: A 6. § (1) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: A 6. § (1) bekezdés f) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^13]: A 6. § (1) bekezdés g) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: A 6. § (1) bekezdés h) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^15]: A 6. § (1) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^12]: A 6. § (1) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 6. § (1) bekezdés f) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. § (1) bekezdés g) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A 6. § (1) bekezdés h) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^16]: A 6. § (1) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
