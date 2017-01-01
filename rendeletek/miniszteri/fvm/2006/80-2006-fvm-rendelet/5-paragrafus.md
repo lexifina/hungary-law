@@ -1,1 +1,0 @@
-## 4. § A szerkezetátalakítási támogatás iránti kérelmet a cukorgyártó vállalkozás képviselője nyújthatja be 3 példányban az MVH Központi Hivatalához (1095 Budapest, Soroksári út 22–24.). A kérelemhez csatolni kell az elmúlt három évben a vállalkozás számára cukorrépát beszállító cukorrépa-termelők listáját.
