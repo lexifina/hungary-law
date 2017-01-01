@@ -2,7 +2,7 @@
 
 (2) Az engedély akkor adható ki, ha a köznevelési intézmény a 22. § (1)–(2) bekezdésben meghatározottak szerint rendelkezik a működéséhez szükséges feltételekkel és a nyilvántartásba vétel óta kevesebb mint hat hónap telt el. Az engedély kiadásával összefüggő költségeket a kérelem benyújtója viseli.
 
-(3) Újonnan induló nevelési-oktatási forma esetében az 22. § (1)–(2) bekezdésben meghatározottak szerinti működéshez szükséges feltételeket – az iskolatípusnak megfelelő, adott évben nem induló évfolyamok, osztályok, csoportok vonatkozásában – felmenő rendszerben, fokozatosan elégséges megteremteni. A feltételek fokozatos megteremtését a kormányhivatal törvényességi ellenőrzés keretében évente vizsgálja. Ha ennek keretében megállapítást nyer, hogy az (5) bekezdés szerinti ütemtervben vállalt feltételek nem teljesülnek, a működési engedély visszavonásra kerül.
+(3) Újonnan induló nevelési-oktatási forma esetében az 22. § (1)–(2) bekezdésben meghatározottak szerinti működéshez szükséges feltételeket – az iskolatípusnak megfelelő, adott évben nem induló évfolyamok, osztályok, csoportok vonatkozásában – felmenő rendszerben, fokozatosan elégséges megteremteni. A feltételek fokozatos megteremtését a köznevelési feladatokat ellátó hatóság törvényességi ellenőrzés keretében évente vizsgálja. Ha ennek keretében megállapítást nyer, hogy az (5) bekezdés szerinti ütemtervben vállalt feltételek nem teljesülnek, a működési engedély visszavonásra kerül.
 
 (4) Az engedély kiadása iránti kérelemhez csatolni kell
 
@@ -14,9 +14,9 @@ c) azokat az okiratokat, amelyekből megállapítható, hogy a működés megkez
 
 (5) Újonnan induló nevelési-oktatási forma esetében a kérelemhez csatolni kell a nevelő és oktató munkához szükséges személyi és tárgyi feltételek megteremtésének külön jogszabályban meghatározott ütemtervét. A kérelem és mellékletei jogszabályban meghatározott adattartalommal nyújthatók be.
 
-(6) Az engedély kiadásáról az intézmény székhelye szerint illetékes kormányhivatal dönt. A kormányhivatal a (7) bekezdés a) pontja, (8) bekezdés b) pontja tekintetében köteles szakértői véleményt beszerezni. A szakértői véleményt nevelési-oktatási intézmény és pedagógiai szakszolgálati intézmény esetében köznevelési szakértő, pedagógiai-szakmai szolgáltató intézmény esetében az oktatásért felelős miniszter által kijelölt háttérintézmény adja ki.
+(6) Az engedély kiadásáról az intézmény székhelye szerint illetékes közoktatási feladatokat ellátó hatóság dönt. A közoktatási feladatokat ellátó hatóság a (7) bekezdés a) pontja, (8) bekezdés b) pontja tekintetében köteles szakértői véleményt beszerezni. A szakértői véleményt nevelési-oktatási intézmény és pedagógiai szakszolgálati intézmény esetében köznevelési szakértő, pedagógiai-szakmai szolgáltató intézmény esetében az oktatásért felelős miniszter által kijelölt háttérintézmény adja ki.
 
-(7) A kormányhivatal az engedély kiadását akkor tagadhatja meg, ha a nevelési-oktatási intézmény
+(7) A köznevelési feladatokat ellátó hatóság az engedély kiadását akkor tagadhatja meg, ha a nevelési-oktatási intézmény
 
 a) pedagógiai programja az e törvényben, szakmai programja a szakképzésről szóló törvényben meghatározottaknak nem felel meg,
 
@@ -26,7 +26,7 @@ c) újonnan induló nevelési-oktatási forma esetében a feltételek megteremt�
 
 d) működése nincs összhangban a köznevelés-fejlesztési tervben foglaltakkal.
 
-(8) Pedagógiai szakszolgálati intézmény, pedagógiai-szakmai szolgáltatást nyújtó intézmény esetében a kormányhivatal az engedély kiadását akkor tagadhatja meg, ha
+(8) Pedagógiai szakszolgálati intézmény, pedagógiai-szakmai szolgáltatást nyújtó intézmény esetében a köznevelési feladatokat ellátó hatóság az engedély kiadását akkor tagadhatja meg, ha
 
 a) nem rendelkezik – az e törvényben és a külön jogszabályban foglaltaknak megfelelő – a működéséhez szükséges személyi és tárgyi feltételekkel,
 

@@ -70,7 +70,7 @@ lehet,
 
 8. felmenő rendszer: a tanulmányi és vizsgakövetelmények bevezetésének fokozatos ütemezése, amelynek értelmében a változást az érintett legalacsonyabb iskolai évfolyamon kezdve lehet bevezetni,
 
-9. fenntartó: az a természetes vagy jogi személy, aki vagy amely a köznevelési feladat ellátására való jogosultságot megszerezte vagy azzal rendelkezik, és – e törvényben foglalt esetben a működtetővel közösen – a köznevelési intézmény működéséhez szükséges feltételekről gondoskodik,
+9. fenntartó: az a természetes vagy jogi személy, aki vagy amely a köznevelési feladat ellátására való jogosultságot megszerezte vagy azzal rendelkezik, és a köznevelési intézmény működéséhez szükséges feltételekről gondoskodik,
 
 10. gyermek, tanuló felügyelete a nevelési-oktatási intézményben: a gyermek, tanuló testi épségének megóvásáról és erkölcsi védelméről való gondoskodás, a nevelési-oktatási intézménybe történő belépéstől a nevelési-oktatási intézmény jogszerű elhagyásáig terjedő időben, továbbá a pedagógiai program részeként kötelező, a nevelési-oktatási intézményen kívül tartott foglalkozások, programok ideje alatt,
 
@@ -98,7 +98,7 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 17. minősítési eljárás: a pedagógus teljesítményét értékelő eljárás, amely a magasabb fokozatba lépéséhez szükséges,
 
-18. működtető: az a települési önkormányzat, amely a saját tulajdonát képező ingatlanban folyó állami köznevelési feladatellátáshoz szükséges tárgyi feltételeket, továbbá a tárgyi feltételek rendelkezésre állásához szükséges személyi és pénzügyi feltételeket az e törvényben meghatározottak szerint biztosítja,
+18.
 
 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 

@@ -12,7 +12,7 @@ c) matematika,
 
 d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára anyanyelv és irodalom,
 
-e) kötelezően választandó vizsgatárgy.
+e) kötelezően választandó vizsgatárgy; szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy.
 
 (2a) Aki szakközépiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
 
@@ -23,6 +23,8 @@ e) kötelezően választandó vizsgatárgy.
 a) a felnőttoktatásban részt vevő tanulókat és
 
 b) azon sajátos nevelési igényű tanulókat, akiket a szakértői bizottság javaslata alapján a közösségi szolgálat alól az igazgató határozatban mentesített.
+
+(4a) Új érettségi vizsgatárgyat, vagy az érettségi vizsgatárgy új vizsgaszintjének vizsgakövetelményeit felmenő rendszerben kell bevezetni, az érettségi vizsgatárgy vizsgakövetelményeinek érdemi megváltoztatására irányuló rendelkezést az érettségi vizsgára jelentkezés előtt legalább két évvel kell kiadni.
 
 (5) A szakképző iskolában az Országos Képzési Jegyzékben meghatározott szakképesítések megszerzésére szervezett szakmai vizsga állami vizsga. A tanuló a szakképzés utolsó évfolyama követelményeinek teljesítése után tehet szakmai vizsgát.
 

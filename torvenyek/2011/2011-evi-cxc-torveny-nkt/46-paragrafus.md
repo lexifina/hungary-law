@@ -100,9 +100,9 @@ c) a tanuló oktatási azonosító számát,
 
 d) a tanuló oktatásának munkarendjét, továbbá
 
-e) az igazolvány kézbesítéséhez szükséges, a tanuló által megadott kézbesítési lakcímtípust vagy a kézbesítési címet.
+e)
 
-(15) A diákigazolványt a kártyakibocsátó a megszemélyesítő útján küldi meg a jogosult részére.
+(15) A diákigazolványt a kártyakibocsátó a megszemélyesítő útján küldi meg a jogosult részére a közreműködő intézménybe.
 
 (16) A diákigazolvány a Nektv. 5. § (1) bekezdése és (2) bekezdés a) pont aa) alpontja szerinti adatokon túl az alábbi adatokat tartalmazza:
 

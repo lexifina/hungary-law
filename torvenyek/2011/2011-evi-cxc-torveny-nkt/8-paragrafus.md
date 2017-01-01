@@ -8,4 +8,6 @@
 
 (4) A kötelező óvodai nevelés fejlesztő nevelésben is teljesíthető.
 
-(5) A gyermek hároméves korától annak az évnek az augusztus 31. napjáig, amikor az ötödik életévét betölti, az óvodába járási kötelezettségét családi napköziben is teljesítheti abban az esetben, ha a családi napköziben a szolgáltatást nyújtó személy rendelkezik a 3. mellékletben az óvodapedagógus munkakör betöltéséhez előírt szakképzettséggel, és munkája során figyelembe veszi az óvodai nevelés országos alapprogramjában foglalt követelményeket.
+(5)
+
+(6) Óvoda esetében a napi nyitvatartási idő legalább nyolc óra, amely időtartam a fenntartó engedélyével csökkenthető. Ha a fenntartó engedélye alapján az óvoda hat óránál rövidebb napi nyitvatartási idővel működik, a fenntartásához a központi költségvetésből támogatás nem igényelhető. Ha a napi nyitvatartási idő nem éri el a nyolc órát, a költségvetési támogatás nem teljes összegben illeti meg a fenntartót, a támogatás mértékét a központi költségvetésről szóló törvény állapítja meg.

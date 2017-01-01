@@ -2,7 +2,7 @@
 
 82. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály köznevelési szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, köznevelési szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és
 
-a) felsőfokú végzettséggel és pedagógus szakképzettséggel, pedagógus- vagy oktatói munkakörben szerzett tíz év szakmai gyakorlattal, továbbá pedagógus-szakvizsgával rendelkezik, valamint akit pedagógus-munkakörben foglalkoztatnak, vagy a pedagógus-munkakörre szóló jogviszonya, munkaviszonya megszűnése óta tíz évnél kevesebb idő telt el, vagy
+a) felsőfokú végzettséggel és pedagógus szakképzettséggel, pedagógus- vagy oktatói munkakörben szerzett tíz év szakmai gyakorlattal, továbbá pedagógus-szakvizsgával rendelkezik, valamint akit pedagógus-munkakörben foglalkoztatnak, vagy a pedagógus-munkakörre szóló jogviszonya, munkaviszonya megszűnése óta öt évnél kevesebb idő telt el, vagy
 
 b) rendelkezik a hivatal engedélyével.
 
@@ -10,7 +10,7 @@ b) rendelkezik a hivatal engedélyével.
 
 (3) Az (1) bekezdés b) pontjában foglalt esetben a köznevelési szakértői tevékenység folytatását a hivatal annak engedélyezi, aki szakirányú felsőfokú végzettséggel és szakterületén szerzett tízéves gyakorlattal rendelkezik, és szakterületének elismert képviselője. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét.
 
-(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet. A nyilvántartásba vétel határozatlan időre szól. A névjegyzékből adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából, továbbá az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás szervezése céljából a kormányhivatal részére szolgáltatható. Az Országos szakértői névjegyzék, valamint a KIR alkalmazotti nyilvántartásának adatállománya az Nkt. 44. § (7) bekezdés d)–g) és i)–j) pontjában foglalt adatok tekintetében az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás során szakértői feladatok ellátására történő kirendelés céljából összekapcsolható. Az Országos szakértői névjegyzék tartalmazza a köznevelési szakértői tevékenység folytatására jogosult szakértő
+(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet. A nyilvántartásba vétel határozatlan időre szól. A névjegyzékből adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából, továbbá az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás szervezése céljából a köznevelési feladatokat ellátó hatóság részére szolgáltatható. Az Országos szakértői névjegyzék, valamint a KIR alkalmazotti nyilvántartásának adatállománya az Nkt. 44. § (7) bekezdés d)–g) és i)–j) pontjában foglalt adatok tekintetében az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás során szakértői feladatok ellátására történő kirendelés céljából összekapcsolható. Az Országos szakértői névjegyzék tartalmazza a köznevelési szakértői tevékenység folytatására jogosult szakértő
 
 a) természetes személyazonosító és lakcímadatát,
 

@@ -2,7 +2,7 @@
 
 (2) A köznevelési feladatokat ellátó intézmény, a jegyző, a közneveléssel összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, az intézmények és az intézményi tanácsok adatokat szolgáltatnak a KIR-be.
 
-(2a) A KIR központi nyilvántartás adataihoz a hivatal a kormányhivatal, valamint a járási hivatal részére – feladatellátásához szükséges adatok tekintetében – közvetlen hozzáférést biztosít.
+(2a) A KIR központi nyilvántartás adataihoz a hivatal a köznevelési feladatokat ellátó hatóság, valamint a járási hivatal részére – feladatellátásához szükséges adatok tekintetében – közvetlen hozzáférést biztosít.
 
 (3) A KIR adatkezelője oktatási azonosító számot ad ki annak,
 
@@ -62,7 +62,7 @@ r) évfolyamát
 
 tartalmazza.
 
-(6) A tanulói nyilvántartásból személyes adat – az érintetten kívül – csak a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, valamint a személyi adat- és lakcímnyilvántartás központi szerve részére. A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyi adat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyi adat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyi adat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át. A tanulói nyilvántartásban adatot a tanulói jogviszony megszűnésére vonatkozó bejelentéstől számított harminc évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
+(6) A tanulói nyilvántartásból személyes adat – az érintetten kívül – csak a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, valamint a személyiadat- és lakcímnyilvántartást kezelő szerv részére. A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervnek. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerv kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyiadat- és lakcímnyilvántartást kezelő szerv az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át. A tanulói nyilvántartásban adatot a tanulói jogviszony megszűnésére vonatkozó bejelentéstől számított harminc évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
 (6a) A tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából az (5) bekezdés a)–c), f)–h), j)–m) és o) pontjában foglalt adatok a rendőrség részére továbbíthatók.
 
@@ -70,7 +70,7 @@ tartalmazza.
 
 a) az óvodai nevelésben részvételre kötelezett gyermek esetében a jegyző részére, abból a célból, hogy gondoskodjon az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, továbbá
 
-b) a tanköteles gyermek, tanuló esetében a járási hivatal részére, abból a célból, hogy gondoskodjon a tankötelesek nyilvántartásáról,
+b) a tanköteles gyermek, tanuló esetében a köznevelési feladatot ellátó hatóság részére, abból a célból, hogy gondoskodjon a tankötelesek nyilvántartásáról,
 
 továbbíthatók.
 
@@ -126,7 +126,7 @@ pf) az alkalmazottat érintő pedagógiai-szakmai ellenőrzés időpontját, meg
 
 (10) A KIR-ben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított tíz évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
-(11) A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyi adat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyi adat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyi adat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át.
+(11) A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervnek. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerv kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyiadat- és lakcímnyilvántartást kezelő szerv az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át.
 
 (12) A társadalombiztosítási azonosító jel bejegyzésére irányuló kérelem esetén a társadalombiztosítási azonosító jel hitelességét a KIR adatkezelője az országos egészségbiztosítási szerv nyilvántartásával elektronikus úton megfelelteti. Eltérés esetén a személyi- és lakcím adatok helyességére vonatkozó rendelkezéseket kell alkalmazni.
 

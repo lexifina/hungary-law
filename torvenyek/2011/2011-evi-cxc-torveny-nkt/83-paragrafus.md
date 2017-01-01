@@ -4,15 +4,15 @@
 
 (2) A fenntartó
 
-a) e törvényben foglalt keretek között – az állami intézményfenntartó központ, valamint az állami felsőoktatási intézmény által fenntartott köznevelési intézmény kivételével – dönt a köznevelési intézmény létesítéséről, nevének megállapításáról, gazdálkodási jogköréről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról, fenntartói jogának átadásáról,
+a) e törvényben foglalt keretek között – a tankerületi központ, valamint az állami felsőoktatási intézmény által fenntartott köznevelési intézmény kivételével – dönt a köznevelési intézmény létesítéséről, nevének megállapításáról, gazdálkodási jogköréről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról, fenntartói jogának átadásáról,
 
 b) dönt az óvodába történő jelentkezés módjáról, az óvodai általános felvételi időpontról, az óvoda heti és éves nyitvatartási idejének meghatározásáról,
 
-c) meghatározza a köznevelési intézmény költségvetését, továbbá a kérhető térítési díj és tandíj megállapításának szabályait, a szociális alapon adható kedvezmények feltételeit,
+c) meghatározza a köznevelési intézmény költségvetését, továbbá – tankerületi központ által fenntartott köznevelési intézmény kivételével – a kérhető térítési díj és tandíj megállapításának szabályait, a szociális alapon adható kedvezmények feltételeit,
 
 d) meghatározza az adott nevelési évben indítható óvodai csoportok számát, az adott tanítási évben az iskolában indítható osztályok, a kollégiumban szervezhető csoportok számát,
 
-e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének törvényességét, hatékonyságát, a szakmai munka eredményességét, nevelési-oktatási intézményben továbbá a gyermek- és ifjúságvédelmi tevékenységet, a tanuló- és gyermekbaleset megelőzése érdekében tett intézkedéseket; ha a fenntartó nem települési önkormányzat, a tanuló- és gyermekbalesetet jelenti a nevelési-oktatási intézmény székhelye szerint illetékes kormányhivatalnak,
+e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének törvényességét, hatékonyságát, a szakmai munka eredményességét, nevelési-oktatási intézményben továbbá a gyermek- és ifjúságvédelmi tevékenységet, a tanuló- és gyermekbaleset megelőzése érdekében tett intézkedéseket; ha a fenntartó nem települési önkormányzat, a tanuló- és gyermekbalesetet jelenti a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnak,
 
 f) a köznevelési intézmény vezetőjének megbízása, kinevezése, a megbízás visszavonása, a jogviszony megszüntetésének jogával kapcsolatos, e törvényben foglalt korlátozó rendelkezések keretei között gyakorolja a munkáltatói jogokat a köznevelési intézmény vezetője felett,
 
@@ -23,6 +23,12 @@ h) értékeli a nevelési-oktatási intézmény pedagógiai programjában meghat
 i) ellenőrzi a pedagógiai programot, a házirendet, valamint a SZMSZ-t.
 
 (2a) Az állami és önkormányzati fenntartású köznevelési intézményekben a Kar által elfogadott Etikai Kódex alkalmazása kötelező. A magán köznevelési intézmény fenntartója a Kar által elfogadott Etikai Kódex általános etikai alapelveinek figyelembevételével megalkotja az általa fenntartott köznevelési intézményekben foglalkoztatott pedagógusokra vonatkozó intézményi etikai kódexet. Az egyházi köznevelési intézmény ajánlásként veszi figyelembe a Kar által elfogadott Etikai Kódex alapelveit.
+
+(2b) Az oktatási központ
+
+a) dönt a tankerületi központ által fenntartott köznevelési intézmény 21. § (3) bekezdés f)–j) pontjaiban felsoroltak módosulásával járó átszervezésről,
+
+b) meghatározza a tankerületi központ által fenntartott köznevelési intézményben kérhető térítési díj és tandíj megállapításának szabályait, a szociális alapon adható kedvezmények feltételeit.
 
 (3) A fenntartó
 
@@ -54,14 +60,14 @@ f) szakképző iskola esetén a fővárosi, megyei gazdasági kamara,
 
 g) az állami fenntartású szakképző iskola esetén a szakképzésért és felnőttképzésért felelős miniszter,
 
-h) a működtető önkormányzat
+h) a vagyonkezelésében levő ingatlan tulajdonos önkormányzatának
 
 véleményét.
 
-(4a) Ha a fenntartóváltás a települési önkormányzat működtetési kötelezettségét érinti, vagy működtetési kötelezettséget keletkeztet, az érintett települési önkormányzatot egyetértési jog illeti meg a döntés meghozatalakor, kivéve, ha az adott köznevelési intézmény fenntartói jogának az állami intézményfenntartó központ részéről történő átvétele a köznevelési közfeladat-ellátás biztonságos megszervezéséhez elengedhetetlen, vagy annak hiányában a gyermekekre, tanulókra aránytalan teher hárulna.
+(4a)
 
 (5) A (3)–(4) bekezdésben meghatározott vélemény kialakításához minden olyan információt hozzáférhetővé kell tenni a véleményezési joggal rendelkezők részére, amely a fenntartói döntés meghozatalához rendelkezésére áll. A vélemény kialakításához – az információk hozzáférhetővé tételének napjától számítva – legalább tizenöt napot kell biztosítani az érdekeltek részére.
 
 (6) Ha a fenntartó három vagy annál több köznevelési intézményt tart fenn, a (3)–(4) bekezdés szerinti véleményeztetési kötelezettségének – a nevelési-oktatási intézmény átalakítása, megszüntetése, vezetőjének megbízása és megbízásának visszavonása kivételével – eleget tehet úgy is, hogy a tervezett intézkedésről szóló tájékoztatót az érintett köznevelési intézmény vezetőjének küldi meg azzal, hogy a helyben szokásos módon hozza nyilvánosságra, és hívja fel a (4) bekezdésben meghatározottak figyelmét arra, hogy a fenntartó tervezett intézkedésével kapcsolatos véleményüket a (5) bekezdésben meghatározott határidő biztosítása mellett a köznevelési intézmény vezetőjének küldhetik meg. A köznevelési intézmény vezetője a véleményeket a véleményezési határidő lejártát követő öt munkanapon belül megküldi a fenntartónak.
 
-(7) A magyar nyelvi előkészítés, a nemzetiség nyelvén folyó nevelés és oktatás iránti igényt a települési önkormányzat, az állami intézményfenntartó központ évente köteles felmérni az érintett első óvodai nevelési évre, első iskolai évfolyamra beiratkozni szándékozók körében az érdekelt települési nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat bevonásával.
+(7) A magyar nyelvi előkészítés, a nemzetiség nyelvén folyó nevelés és oktatás iránti igényt a települési önkormányzat, a tankerületi központ évente köteles felmérni az érintett első óvodai nevelési évre, első iskolai évfolyamra beiratkozni szándékozók körében az érdekelt települési nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat bevonásával.

@@ -32,7 +32,7 @@
 
 (18) A 4. melléklet szerinti osztály-, csoportlétszámokat és a 47. § (7) bekezdésében foglaltakat első alkalommal a 2013/2014. tanévtől felmenő rendszerben kell alkalmazni.
 
-(19) A pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottak első minősítésére vagy minősítő vizsgájára 2013. szeptember 1. és 2018. június 30. között kerül sor.
+(19)
 
 (20) A nevelési-oktatási intézményben és a pedagógiai szakszolgálati intézményben pedagógus-munkakörben foglalkoztatott, továbbá a 65. § (9) bekezdésében meghatározott alkalmazott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött időnek minősülő, továbbá a fizetési fokozat megállapításánál beszámítandó idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A munka törvénykönyve hatálya alá tartozó munkavállalók esetén a Pedagógus I. fokozatba történő besorolásnál a munkaviszonyban töltött időt kell alapul venni a közalkalmazottak jogállásáról szóló törvényben meghatározottak alapján.
 

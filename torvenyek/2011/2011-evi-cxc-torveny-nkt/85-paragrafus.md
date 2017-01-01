@@ -1,4 +1,4 @@
-85. § (1) A a fenntartónak, a működtetőnek, ha egyetértési joga van a köznevelési intézmény SZMSZ-e, házirendje, pedagógiai programja tekintetében, az egyetértés kialakítására harminc nap áll rendelkezésre.
+85. § (1) A a fenntartónak, ha egyetértési joga van a köznevelési intézmény SZMSZ-e, házirendje, pedagógiai programja tekintetében, az egyetértés kialakítására harminc nap áll rendelkezésre.
 
 (2) A fenntartó tanévenként legfeljebb egy alkalommal kötelezheti az intézményvezetőt arra, hogy az intézmény tevékenységéről átfogó módon beszámoljon.
 

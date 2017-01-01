@@ -1,6 +1,6 @@
 ## 50. A köznevelési rendszer finanszírozása
 
-88. § (1) A köznevelés rendszerének működéséhez szükséges fedezetet az állami költségvetés és a fenntartó, a működtető hozzájárulása biztosítja, amelyet az ellátottak térítési díjai, a tanuló által igénybe vett szolgáltatás díja, az e törvény szabályai szerint tandíj szedésére jogosult intézmény esetében a tandíj és a köznevelési intézmény más saját bevétele egészíthet ki. A fenntartó, a működtető biztosítja az általa engedélyezett többletszolgáltatások, többletlétszámok fedezetét.
+88. § (1) A köznevelés rendszerének működéséhez szükséges fedezetet az állami költségvetés és a fenntartó biztosítja, amelyet az ellátottak térítési díjai, a tanuló által igénybe vett szolgáltatás díja, az e törvény szabályai szerint tandíj szedésére jogosult intézmény esetében a tandíj és a köznevelési intézmény más saját bevétele egészíthet ki. A fenntartó biztosítja az általa engedélyezett többletszolgáltatások, többletlétszámok fedezetét.
 
 (2) A köznevelés alapfeladatainak ellátását szolgáló költségvetési előirányzat összegét az éves költségvetési törvényben kell meghatározni. A köznevelés egyéb feladatainak ellátásához a központi költségvetés támogatást biztosíthat. A települési önkormányzat számára az általa fenntartott óvoda rekonstrukciós és fejlesztési fedezéséhez az állam pályázati úton támogatást nyújthat.
 
@@ -10,4 +10,4 @@
 
 (5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
 
-(6) A nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a kormányhivatallal.
+(6) A nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a köznevelési feladatokat ellátó hatósággal.

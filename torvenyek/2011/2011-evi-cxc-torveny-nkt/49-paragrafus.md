@@ -10,4 +10,4 @@
 
 (3b)
 
-(4) Az óvodába felvett gyermekek csoportba való beosztásáról a szülők és az óvodapedagógusok véleményének kikérése mellett az óvodavezető dönt.
+(4)

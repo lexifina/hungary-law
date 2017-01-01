@@ -26,7 +26,7 @@ vonatkozó szabályok szerint kell figyelembe venni.
 
 a) a pedagógiai-szakmai szolgáltatatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben,
 
-b) a nevelési-oktatási intézményben nevelő- és oktatómunkát közvetlenül segítő munkakörben pedagógus szakképzettséggel rendelkező,
+b) a nevelési-oktatási és a pedagógiai szakszolgálati intézményben nevelő- és oktatómunkát közvetlenül segítő munkakörben pedagógus szakképzettséggel, szakképesítéssel rendelkező,
 
 c) – a (9a) bekezdésben foglalt eltéréssel – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó intézményben pedagógus-munkakörben
 

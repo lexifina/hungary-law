@@ -1,6 +1,6 @@
 ## 40. A nevelőtestület
 
-70. § (1) A nevelőtestület a nevelési-oktatási intézmény legfontosabb tanácskozó és döntéshozó szerve. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az önálló jogi személyiséggel rendelkező szervezeti egységnek egy nevelőtestülete van. A nevelési-oktatási intézmény nevelőtestülete a nevelési és oktatási kérdésekben, a nevelési-oktatási intézmény működésével kapcsolatos ügyekben, valamint e törvényben és más jogszabályokban meghatározott kérdésekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
+70. § (1) A nevelőtestület a nevelési-oktatási intézmény legfontosabb tanácskozó és döntéshozó szerve. A tankerületi központ által fenntartott köznevelési intézményben az önálló jogi személyiséggel rendelkező szervezeti egységnek egy nevelőtestülete van. A nevelési-oktatási intézmény nevelőtestülete a nevelési és oktatási kérdésekben, a nevelési-oktatási intézmény működésével kapcsolatos ügyekben, valamint e törvényben és más jogszabályokban meghatározott kérdésekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
 
 (2) A nevelőtestület
 

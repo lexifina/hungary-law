@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
-(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő negyvenöt nap, a költségvetési támogatásokkal kapcsolatos első- és másodfokú eljárásokban két hónap, a tankönyvvé nyilvánítási eljárásoknál három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
+(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első- és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő negyvenöt nap, a tankönyvvé nyilvánítási eljárásoknál három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
 
 (3a) Az eljáró hatóság az e törvény szerinti hatósági eljárásokat a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
 
@@ -14,7 +14,7 @@
 
 (3d) A hivatalnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatálya alá tartozó ügyekben első fokon hozott hatósági döntéseivel szemben a fellebbezés elbírálására jogosult hatóság az oktatásért felelős miniszter.
 
-(4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
+(4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten és irányításon a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
 (5) Ahol jogszabály valamely kedvezményre, juttatásra való jogosultságot tanulói jogviszony fennállásához köti, tanulói jogviszony alatt a fejlesztő nevelés-oktatást is érteni kell.
 
@@ -32,4 +32,4 @@ b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos
 
 alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de legkésőbb 2015. szeptember 1-ig az egyéb pszichés fejlődési zavart (súlyos tanulási, figyelem- vagy magatartásszabályozási zavart) is érteni kell.
 
-(10) A megyei intézményfenntartó központ fenntartásában lévő köznevelési intézménynek az állami intézményfenntartó központba beolvadással történő megszűnésekor a 84. § (3) bekezdése szerinti tilalmat, a 83. § (4)–(6) bekezdésében és 84. § (7) bekezdésében meghatározott eljárási szabályokat nem kell alkalmazni.
+(10)

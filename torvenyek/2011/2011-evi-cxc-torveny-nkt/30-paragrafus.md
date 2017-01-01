@@ -8,10 +8,10 @@
 
 (5) Ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a nevelési-oktatási intézmény működtetése nem lehetséges,
 
-a) az intézményre kiterjedő veszélyhelyzet esetében az intézményvezető a fenntartó és a fővárosi és megyei kormányhivatal járási (fővárosi körzeti) hivatala (a továbbiakban: járási hivatal) egyidejű értesítése mellett,
+a) az intézményre kiterjedő veszélyhelyzet esetében az intézményvezető a fenntartó és a köznevelési feladatot ellátó hatóság egyidejű értesítése mellett,
 
-b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó és a járási hivatal egyidejű értesítése mellett,
+b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó és a köznevelési feladatot ellátó hatóság egyidejű értesítése mellett,
 
-c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a kormányhivatal vezetője az oktatásért felelős miniszter egyidejű értesítése mellett
+c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a köznevelési feladatokat ellátó hatóság vezetője az oktatásért felelős miniszter egyidejű értesítése mellett
 
 rendkívüli szünetet rendel el.
