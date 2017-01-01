@@ -20,8 +20,8 @@ i) mezőgazdasági csoportmentességi rendelet: az Európai Bizottság 1857/2006
 
 j) támogatástartalom: a kedvezményezett számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke. A hitel támogatástartalmának kiszámítását az 1. számú melléklet, az intézményi kezességvállalásét a mezőgazdasági vállalkozások által de minimis támogatásként igénybe vehető intézményi kezességvállalásról szóló 50/2007. (VI. 27.) FVM rendelet (a továbbiakban: külön jogszabály) tartalmazza;
 
-k)[^1] támogatástartalomról szóló igazolás: az az igazolás, amelyet a hitelkamat támogatástartalmáról a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH), a kezességvállalásról pedig a kezességvállaló intézmény állít ki és küld meg a hitelfelvevő részére.
+k)[^1] támogatástartalomról szóló igazolás: az az igazolás, amelyet a hitelkamat támogatástartalmáról a mezőgazdasági és vidékfejlesztési támogatási szerv, a kezességvállalásról pedig a kezességvállaló intézmény állít ki és küld meg a hitelfelvevő részére.
 
 l) támogatásintenzitás: a támogatástartalom és a hozamérték-kiesés értékének hányadosa, százalékos formában kifejezve.
 
-[^1]: Az 1. § k) pontja a 154/2007. (XII. 22.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. §-a alapján a rendelkezést a 2007. július 27-ét követően megkötött hitelszerződésekre is alkalmazni kell.
+[^1]: Az 1. § k) pontja a 154/2007. (XII. 22.) FVM rendelet 1. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 13. § a) pontja szerint módosított szöveg.

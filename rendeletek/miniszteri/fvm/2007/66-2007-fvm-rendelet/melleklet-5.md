@@ -40,7 +40,7 @@
 
 ## * Megjegyzés: a nektarin átlagárai kalkulált árak, mert idősoros adatok nem állnak rendelkezésre.
 
-5. számú melléklet a 66/2007. (VII. 26.) FVM rendelethez[^6]
+5. számú melléklet a 66/2007. (VII. 26.) FVM rendelethez[^7]
 
 ## Igazolása 2007. évben tavaszi fagykárt szenvedett mezőgazdasági termelők hitelhez jutási lehetőségéről szóló 66/2007. (VII. 26.) FVM rendelet alapján felvett kedvezményes hitel támogatástartalmának kiszámításához
 
@@ -82,4 +82,4 @@ Kelt: .........................................
 
 hitelt folyósító pénzintézet
 
-[^6]: Az 5. számú mellékletet a 154/2007. (XII. 22.) FVM rendelet 3. §-a iktatta be. E módosító rendelet 4. §-a alapján a rendelkezést a 2007. július 27-ét követően megkötött hitelszerződésekre is alkalmazni kell.
+[^7]: Az 5. számú mellékletet a 154/2007. (XII. 22.) FVM rendelet 3. §-a iktatta be. E módosító rendelet 4. §-a alapján a rendelkezést a 2007. július 27-ét követően megkötött hitelszerződésekre is alkalmazni kell.
