@@ -1,0 +1,1 @@
+## 9. § A fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 11/2014. (XII. 13.) IM rendelet 105. § (2) bekezdésében a „Bevándorlási és Állampolgársági Hivatal” szövegrész helyébe a „Bevándorlási és Menekültügyi Hivatal” szöveg lép.

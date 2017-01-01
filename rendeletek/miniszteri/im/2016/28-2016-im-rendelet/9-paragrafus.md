@@ -1,0 +1,3 @@
+## 8. § A büntetés-végrehajtási intézetekben fogvatartott elítéltek és egyéb jogcímen fogvatartottak egészségügyi ellátásáról szóló 8/2014. (XII. 12.) IM rendelet 26. § (3) bekezdésében a „népegészségügyi intézetet – a járási (fővárosi kerületi) népegészségügyi intézet” szövegrész helyébe a „fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát – a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala” szöveg lép.
+
+## 8. A fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 11/2014. (XII. 13.) IM rendelet módosítása
