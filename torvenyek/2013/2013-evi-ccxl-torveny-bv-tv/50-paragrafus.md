@@ -35,3 +35,5 @@ l) az e törvényben meghatározott esetekben, amennyiben a jogosult kérelmébe
 (5) A büntetés-végrehajtási bírói eljárások során felmerült bűnügyi költség – e törvény eltérő rendelkezése hiányában, valamint az (1) bekezdés g) pontja kivételével – az elítéltet terheli.
 
 (6) Ha e törvény, vagy más törvény eltérően nem rendelkezik, a büntetés-végrehajtási bíró eljárására a büntetőeljárás szabályait kell alkalmazni.
+
+(7) Az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás iránt indított büntetés-végrehajtási bírói eljárásokban védő alatt a jogi képviselőt is érteni kell.

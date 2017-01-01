@@ -20,4 +20,4 @@ c) a fiatalkorú egészségi állapota miatt a gyermek gondozását, nevelését
 
 (5) Az állapotos és a kisgyermekes fiatalkorúnak az egészségét védő és a gyermek fejlődését szolgáló, e törvényben nem szabályozott jogai nem korlátozhatók. Ha a szülésre a javítóintézeti nevelés végrehajtása alatt kerül sor, és az együttes elhelyezést kizáró ok nem áll fenn, a gyermeket egyéves koráig az anyjával együtt kell elhelyezni.
 
-(6) A gyermek felett szülői felügyeletet gyakorló vagy a gyermekkel kapcsolattartásra jogosult másik szülő, valamint a gyám részére heti egy alkalommal a kapcsolattartást és a gyermek fejlődéséről a megfelelő tájékoztatást biztosítani kell.
+(6) A gyermek felett szülői felügyeletet gyakorló vagy a gyermekkel kapcsolattartásra jogosult másik szülő, a testvér és a gyermekkel kapcsolattartásra jogosult nagyszülő, valamint a gyám részére heti egy alkalommal a kapcsolattartást és a gyermek fejlődéséről a megfelelő tájékoztatást biztosítani kell.

@@ -14,7 +14,7 @@ c) ahol az elítélt a közérdekű munka végrehajtása során a Polgári Törv
 
 d) amelynél a munkába járás költségeit az elítélt előreláthatólag nem tudja fedezni.
 
-(5) A munkahely kijelöléséről szóló határozat ellen a kézhezvételtől számított nyolc napon belül az ügyész, az elítélt és védője bírósági felülvizsgálati kérelmet nyújthat be. A felülvizsgálati kérelmet az ügyben eljárt kormányhivatal pártfogó felügyelői szolgálatánál kell benyújtani. Ha a munkahely kijelöléséről a pártfogó felügyelő meghallgatáson határoz, az elítélt a felülvizsgálati kérelemről nyomban nyilatkozatot tesz, amit jegyzőkönyvbe kell foglalni. A pártfogó felügyelő a felülvizsgálati kérelmet a rendelkezésre álló iratokkal együtt a kérelem előterjesztésére nyitva álló határidő leteltét követően haladéktalanul felterjeszti a székhelye szerint illetékes büntetés-végrehajtási bírónak.
+(5) A munkahely kijelöléséről szóló határozat ellen a kézhezvételtől számított nyolc napon belül az ügyész, az elítélt és védője bírósági felülvizsgálati kérelmet nyújthat be. A felülvizsgálati kérelmet az ügyben eljárt pártfogó felügyelői szolgálatnál kell benyújtani. Ha a munkahely kijelöléséről a pártfogó felügyelő meghallgatáson határoz, az elítélt a felülvizsgálati kérelemről nyomban nyilatkozatot tesz, amit jegyzőkönyvbe kell foglalni. A pártfogó felügyelő a felülvizsgálati kérelmet a rendelkezésre álló iratokkal együtt a kérelem előterjesztésére nyitva álló határidő leteltét követően haladéktalanul felterjeszti a székhelye szerint illetékes büntetés-végrehajtási bírónak.
 
 (6) Ha az elítélt a felülvizsgálati kérelemben kizárólag a közérdekű munka megkezdésének az időpontját kifogásolja, a büntetés-végrehajtási bíró a felülvizsgálati kérelmet félbeszakítási kérelemként bírálja el.
 

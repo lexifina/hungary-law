@@ -1,8 +1,8 @@
 ## A munkahely kijelölése
 
-282. § (1) A közérdekű munka végrehajtására szolgáló munkahelyet az elítélt lakóhelye – ennek hiányában, vagy az elítélt kérelmére a tartózkodási helye – szerint illetékes kormányhivatal pártfogó felügyelője jelöli ki, a munkahely kijelölése előtt az elítéltet meghallgatja. Evégből az elítéltet a bíróság értesítésének és ítéletének kézhezvételétől számított nyolc napon belül megidézi, egyben az iskolai végzettségére, szakképesítésére és az egészségi állapotára vonatkozó iratok bemutatására hívja fel.
+282. § (1) A közérdekű munka végrehajtására szolgáló munkahelyet az elítélt lakóhelye – ennek hiányában, vagy az elítélt kérelmére a tartózkodási helye – szerint illetékes pártfogó felügyelői szolgálat pártfogó felügyelője jelöli ki, a munkahely kijelölése előtt az elítéltet meghallgatja. Evégből az elítéltet a bíróság értesítésének és ítéletének kézhezvételétől számított nyolc napon belül megidézi, egyben az iskolai végzettségére, szakképesítésére és az egészségi állapotára vonatkozó iratok bemutatására hívja fel.
 
-(2) Ha az elítéltnek magyarországi lakóhelye vagy tartózkodási helye nem ismert, az eljárásra a Fővárosi Kormányhivatal pártfogó felügyelője illetékes.
+(2)
 
 (3) A munkavégzés helyeként elsősorban az elítélt lakóhelye, ennek hiányában vagy az elítélt kérelmére a tartózkodási helye szerinti munkahelyet kell kijelölni. Az elítélt legkésőbb a meghallgatáson nyilatkozhat arról, hogy a közérdekű munka végrehajtási helyét a tartózkodási helye szerint kéri kijelölni.
 

@@ -22,4 +22,4 @@ d) a 291. § (2) bekezdésében meghatározott feltételek fennállnak.
 
 (3) Az ügyész szükség esetén meghallgatja a pártfogó felügyelőt és az elítéltet, vagy további bizonyítékok csatolására hívhatja fel a pártfogó felügyelőt.
 
-(4) Ha az átváltoztatás indítványozására az ügyész nem lát alapot, az ügyész, vagy ha a büntetés-végrehajtási bíró az ügyész indítványát elutasítja, a büntetés-végrehajtási bíró új munkahely kijelölésére hívja fel a kormányhivatal pártfogó felügyelői szolgálatát.
+(4) Ha az átváltoztatás indítványozására az ügyész nem lát alapot, az ügyész, vagy ha a büntetés-végrehajtási bíró az ügyész indítványát elutasítja, a büntetés-végrehajtási bíró új munkahely kijelölésére hívja fel a pártfogó felügyelői szolgálatot.

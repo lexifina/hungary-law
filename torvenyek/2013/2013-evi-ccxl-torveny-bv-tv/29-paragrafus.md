@@ -6,4 +6,8 @@
 
 (4) Az elévülést félbeszakítja az elítélt ellen a büntetés vagy az intézkedés végrehajtása végett tett intézkedés. Az elévülést minden olyan hatósági intézkedés félbeszakítja, amelyet a büntetés végrehajtásának előbbre vitele érdekében foganatosítottak. A félbeszakítás napjával az elévülés ismét elkezdődik.
 
-(5) A halasztás ideje, valamint a büntetés-félbeszakítás és a 14. § szerinti végrehajtási sorrendre tekintettel történő megszakítás tartama az elévülés határidejébe nem számít be.
+(5) Az elévülés határidejébe nem számít be
+
+a) a halasztás ideje, valamint a büntetés-félbeszakítás és a 14. § szerinti végrehajtási sorrendre tekintettel történő megszakítás tartama,
+
+b) az a tartam, amely alatt a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés azért nem hajtható végre, mert a külföldi igazságügyi hatóság az elítélt kiadatásának vagy átadásának végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta.

@@ -4,14 +4,4 @@
 
 (3) Az alacsony biztonsági kockázatú részlegre helyezés megszüntethető, ha az elítélt a büntetés-végrehajtás rendjét súlyosan megsérti.
 
-(4) Az alacsony biztonsági kockázatú részlegen elhelyezett, gondatlan bűncselekmény miatt kiszabott, egyévi vagy annál rövidebb tartamú szabadságvesztését töltő elítélt esetén a büntetés-végrehajtási pártfogó felügyelő legkésőbb a bv. intézetből való szabadulás várható időpontja előtt két hónappal, az elítélt társadalmi kapcsolatainak megerősítése érdekében megkezdi a gondozását.
-
-(5) A gondozás körében a büntetés-végrehajtási pártfogó felügyelő
-
-a) a bv. intézetben felkeresheti az elítélteket és egyéni vagy csoportos tájékoztatást ad a társadalomba való beilleszkedés elősegítése érdekében,
-
-b) közreműködik a reintegrációs program megvalósításában, értékeli a reintegrációs programban elért eredményeket, szükség szerint kiegészíti, fejleszti azt,
-
-c) szükség esetén segíti a családi kapcsolatok helyreállítását,
-
-d) az elítélt társadalmi kapcsolatainak megerősítése érdekében a helyi önkormányzatokkal, a munkáltatókkal, az egyházi jogi személyekkel, a civil szervezetekkel és egyéb karitatív szervezetekkel, illetve egyéb önkéntes közreműködőkkel együttműködik.
+(4)–(5)

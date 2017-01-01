@@ -1,31 +1,47 @@
 ## Társadalmi kötődés program
 
-187. § (1) Azt az elítéltet, akit vétség miatt legfeljebb egy évig terjedő szabadságvesztésre ítéltek, kérelmére társadalmi kötődés programba kell helyezni.
+187. § (1) Azt az elítéltet, akit első alkalommal ítéltek végrehajtandó szabadságvesztésre és a vétség miatt kiszabott szabadságvesztés tartama az egy évet nem haladja meg, kérelmére társadalmi kötődés programba kell bevonni. A bv. intézet ennek lehetőségéről a befogadástól számított tizenöt napon belül írásban tájékoztatja az elítéltet, és egyidejűleg az elítéltet írásban nyilatkoztatja arról, hogy kérelmezi-e a bevonását. A kérelem alapján az elítélt társadalmi kötődés programba történő bevonásáról külön döntést hozni nem kell, a kérelem elutasításáról a bv. intézet parancsnoka határozattal dönt.
 
-(2) A társadalmi kötődés program végrehajtását a bv. intézet parancsnoka
+(2) Azt az elítéltet, akit első alkalommal ítéltek végrehajtandó szabadságvesztésre, és annak tartama a két évet nem haladja meg, a bv. intézet bevonhatja a társadalmi kötődés programba. A társadalmi kötődés programba helyezést az elítélt és a védője is kérelmezheti. Ez esetben a döntés megalapozása érdekében a bv. intézet megkeresésére az elítélt által megjelölt letelepedés helye szerint illetékes büntetés-végrehajtási pártfogó felügyelő környezettanulmányt készít.
 
-a) felfüggeszti, ha az elítélttel szemben újabb szabadságvesztés végrehajtására érkezik értesítés,
+(3) Nem vonható be a társadalmi kötődés programba az az elítélt, akivel szemben
 
-b) felfüggesztheti, ha az elítélttel szemben újabb büntetőeljárás indul.
+a) újabb szabadságvesztés végrehajtására érkezik értesítés, vagy
 
-(3) A társadalmi kötődés program feladata:
+b) újabb büntetőeljárás indult.
 
-a) befogadó környezet biztosítása és erősítése,
+(4) A társadalmi kötődés program feladata
 
-b) korábbi munkahelyre történő visszahelyezés elősegítése, ha ez nem lehetséges, új munkahely felderítése, esetlegesen közfoglalkoztatás megteremtése,
+a) a befogadó környezet erősítése, illetve szükség esetén segítség a családi kapcsolatok helyreállításához,
 
-c) további társadalmi kapcsolatok felderítése, erősítése,
+b) a korábbi munkahelyre történő visszahelyezés elősegítése, ha ez nem lehetséges új munkahely keresése, ezek hiányában a közfoglalkoztatás megteremtése,
 
-d) lakhatás megteremtésének elősegítése.
+c) további társadalmi kapcsolatok lehetőségének a feltárása,
 
-(4) A társadalmi kötődés erősítése érdekében az elítélt jogosult
+d) a lakhatás megteremtésének elősegítése.
 
-a) havonta legfeljebb tíz nap eltávozásra azokon a napokon, amelyeken nem végez munkát,
+(5) A társadalmi kötődés programba bevont elítélt részére a bv. intézet egyéni reintegrációs programot készít, amely alapján végrehajtja az elítélt gondozását. A büntetés-végrehajtási pártfogó felügyelő az egyéni reintegrációs program kidolgozásában és megvalósításában közreműködik. A programelemek megvalósításának eredményességét a bv. intézet a büntetés-végrehajtási pártfogó felügyelő bevonásával értékeli, és szükség szerint módosíthatja azokat. Az értékelés keretében a büntetés-végrehajtási pártfogó felügyelő háromhavonta jelentést készít a befogadó környezettel történő együttműködés eredményeiről.
+
+(6) A társadalmi kötődés megtartása érdekében az elítélt jogosult
+
+a) havonta legalább öt, de legfeljebb tíz nap eltávozásra azokon a napokon, amelyeken nem végez munkát,
 
 b) felügyelet nélkül külső munkahelyen dolgozni,
 
-c) tanulmányainak bv. intézeten kívüli folytatására.
+c) tanulmányok és képzések bv. intézeten kívüli folytatására.
 
-(5) Ha az elítélt a bv. intézet elhagyásával, a bv. intézeten kívüli munkáltatással kapcsolatos magatartási szabályokat megszegi, az bv. intézet parancsnoka a társadalmi kötődés program végrehajtását felfüggeszti.
+(7) A társadalmi kötődés programba bevont elítélt köteles
 
-(6) A programelemek megvalósításának eredményességét a bv. intézet ellenőrzi és értékeli. Az értékelés alapját a büntetés-végrehajtási pártfogó felügyelőnek a befogadó környezettel történő együttműködés és ellenőrzés során beszerzett adatok képezik.
+a) a reintegrációs programban számára meghatározott szabályokat megtartani, és
+
+b) a büntetés-végrehajtási pártfogó felügyelővel együttműködni.
+
+(8) Az elítélt társadalmi kötődés programba történő bevonását meg kell szüntetni, ha
+
+a) a bv. intézet elhagyásával, a bv. intézeten kívüli munkáltatással vagy tanulmányok folytatásával kapcsolatos magatartási szabályokat megszegi,
+
+b) súlyos vagy ismételt fegyelmi vétséget követ el, vagy
+
+c) a (3) bekezdésben meghatározott kizáró ok következik be.
+
+(9) A társadalmi kötődés programba történő bevonás megszüntetéséről a BFB az általános szabályok szerint hozza meg a döntést.

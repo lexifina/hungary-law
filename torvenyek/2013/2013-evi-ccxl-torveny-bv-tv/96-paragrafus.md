@@ -32,7 +32,9 @@ o) reintegrációs őrizet elrendelésére javaslattétel,
 
 p) jogszabályban meghatározott egyéb feladat,
 
-q) a vallási részlegen történő elhelyezés vagy annak megszüntetése.
+q) a vallási részlegen történő elhelyezés vagy annak megszüntetése,
+
+r) a társadalmi kötődés programba történő bevonás vagy annak megszüntetése.
 
 (2) A BFB az (1) bekezdés b), d), f)–h), j), l) és o) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
 

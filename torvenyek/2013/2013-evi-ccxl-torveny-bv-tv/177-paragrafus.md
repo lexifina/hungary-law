@@ -1,6 +1,6 @@
 ## Látogató fogadása
 
-177. § (1) Az elítélt a rezsim szabályokhoz igazodóan havonta legalább egyszer, alkalmanként hatvan percben, de legfeljebb kilencven percben, egyidejűleg négy fő látogatót fogadhat.
+177. § (1) Az elítélt a rezsimszabályokhoz igazodóan havonta legalább egyszer, alkalmanként legalább hatvan, de legfeljebb százhúsz percben, egyidejűleg legfeljebb négy fő látogatót fogadhat. Az elítélt vagy a kapcsolattartó kérésére a látogatási idő legfeljebb harminc perccel meghosszabbítható.
 
 (2) Az elítélt és a látogató beszélgetése ellenőrizhető, amelynek lehetőségéről az elítéltet és a látogatót tájékoztatni kell.
 

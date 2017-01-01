@@ -14,7 +14,15 @@ d) tíz évnél hosszabb szabadságvesztés esetén két évvel
 
 kell megkezdeni.
 
-(3) A büntetés-végrehajtási pártfogó felügyelő gondozási tevékenységét legkésőbb a bv. intézetből való szabadulás – ideértve a feltételes szabadságra bocsátás lehetőségét is – várható időpontja előtt két hónappal kezdi meg.
+(3) A büntetés-végrehajtási pártfogó felügyelő a gondozási tevékenységét legkésőbb a bv. intézetből való szabadulás – ideértve a feltételes szabadságra bocsátás lehetőségét is – várható időpontja előtt
+
+a) két hónappal,
+
+b) az átmeneti részlegre helyezett vagy a 186. § (1) bekezdés szerinti hosszabb tartamú szabadságvesztést töltő elítélt esetén hat hónappal, vagy
+
+c) a társadalmi kötődés programba bevont elítélt esetén a behelyezést követő nyolc napon belül
+
+kezdi meg.
 
 (4) A gondozás megkezdésekor a bv. intézet az elítéltet meghallgatja és
 

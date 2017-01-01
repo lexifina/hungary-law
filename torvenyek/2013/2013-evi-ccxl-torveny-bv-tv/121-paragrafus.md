@@ -12,6 +12,8 @@ d) a sztrájkhoz,
 
 e) a szabad orvosválasztáshoz,
 
-f) ahhoz, hogy az országgyűlési képviselők, a helyi és kisebbségi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választható legyen.
+f) ahhoz, hogy az országgyűlési képviselők, a helyi és kisebbségi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választható legyen,
+
+g) az elektronikus ügyintézéshez.
 
 (2) A szabadságvesztés végrehajtása alatt szünetelnek az elítélt azon jogai, amelyekre a közügyektől eltiltás, illetve a bíróság ítéletében meghatározott foglalkozástól eltiltás, járművezetéstől eltiltás és kitiltás kiterjed.

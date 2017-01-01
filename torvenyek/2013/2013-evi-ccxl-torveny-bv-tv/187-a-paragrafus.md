@@ -1,14 +1,18 @@
 ## A reintegrációs őrizet
 
-187/A. § (1) Ha a szabadságvesztés céljának megvalósulása ilyen módon is biztosítható, a feltételes szabadságra bocsátás esedékessége, illetve ennek kizárása vagy kizártsága esetén a szabadulás várható időpontja előtt legfeljebb hat hónappal reintegrációs őrizetbe helyezhető az az elítélt
+187/A. § (1) Ha a szabadságvesztés céljának megvalósulása ilyen módon is biztosítható, a feltételes szabadságra bocsátás esedékessége, illetve ennek kizárása vagy kizártsága esetén a szabadulás várható időpontja előtt reintegrációs őrizetbe helyezhető az az elítélt, aki azt vállalja és gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre, vagy ha szándékos bűncselekmény elkövetése miatt ítélték szabadságvesztésre, akkor
 
-a) akit első alkalommal ítéltek végrehajtandó szabadságvesztésre,
+a) nem a Btk. 459. § (1) bekezdés 26. pontjában meghatározott személy elleni erőszakos bűncselekmény miatt ítélték el,
 
-b) akit nem a Btk. 459. § (1) bekezdés 26. pontjában meghatározott személy elleni erőszakos bűncselekmény miatt ítéltek el,
+b) első ízben ítélték végrehajtandó szabadságvesztésre vagy visszaesőnek nem minősülő bűnismétlő, és
 
-c) aki öt évet meg nem haladó tartamú szabadságvesztését fogház- vagy börtönfokozatban tölti, és
+c) öt évet meg nem haladó tartamú szabadságvesztést tölt.
 
-d) aki a reintegrációs őrizetbe helyezést vállalja.
+(1a) A reintegrációs őrizet időtartama
+
+a) legfeljebb egy év, ha az elítéltet gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre,
+
+b) az a) pontban meghatározottakon kívül legfeljebb tíz hónap.
 
 (2) A reintegrációs őrizet alkalmazása iránt, továbbá az elítélt kérelme esetén a bv. intézet előterjesztést tesz a büntetés-végrehajtási bírónak.
 
