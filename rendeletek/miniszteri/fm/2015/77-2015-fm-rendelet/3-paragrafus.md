@@ -18,4 +18,6 @@ cb) arról, hogy megfelel a b) pontban foglalt feltételeknek,
 
 cc) a hitelkérelem beadásakor bejegyzett főtevékenységről és a hitelkérelemben hitelcélként megjelölt tevékenységről és
 
-d) nyilatkozatban vállalja, hogy, ha a c) pont ca) alpontja alapján tett nyilatkozatban foglalt támogatási adatokban változás következik be a kamattámogatási kérelem benyújtását követően – az eljárást lezáró döntés közléséig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb az adatváltozás bekövetkezésének napjától számított öt napon belül írásban tájékoztatja a Mezőgazdasági és Vidékfejlesztési Hivatalt (a továbbiakban: MVH).
+d)[^8] nyilatkozatban vállalja, hogy, ha a c) pont ca) alpontja alapján tett nyilatkozatban foglalt támogatási adatokban változás következik be a kamattámogatási kérelem benyújtását követően – az eljárást lezáró döntés közléséig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb az adatváltozás bekövetkezésének napjától számított öt napon belül írásban tájékoztatja a Magyar Államkincstárt (a továbbiakban: Kincstár).
+
+[^8]: A 3. § d) pontja a 88/2016. (XII. 29.) FM rendelet 102. § a) pontja szerint módosított szöveg.
