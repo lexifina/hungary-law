@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-33-20-6
 | --- | --- | --- |
 | 2016-12-24 | 2016-33-20-6N.1 | 33/2016. (XII. 16.) MvM rendelet |
 | 2016-12-25 | 2016-33-20-6N.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-33-20-6N.3 | 2010: CXXX. törvény |
