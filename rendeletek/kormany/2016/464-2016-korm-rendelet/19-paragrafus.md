@@ -1,0 +1,1 @@
+## „(1e) Az (1) bekezdés g) pontja szerinti eszköz és gyógyszer, valamint az (1) bekezdés h) pontja szerinti beavatkozás abban az esetben minősül többletkapacitásnak, ha azokra a szolgáltató finanszírozási szerződése nem terjed ki.”

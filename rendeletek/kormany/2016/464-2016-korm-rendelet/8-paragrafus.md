@@ -1,3 +1,3 @@
-## 7. §[^4]
+## 7. §[^2]
 
-[^4]: A 7. § a 49. § (4) bekezdése alapján 2017. március 1-jén lép hatályba.
+[^2]: A 7. § a 49. § (4) bekezdése alapján 2017. március 1-jén lép hatályba.

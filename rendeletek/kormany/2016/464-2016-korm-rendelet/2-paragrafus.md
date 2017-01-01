@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## „(7b) Az Ebtv. 22. §-ának alkalmazásakor a tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszerekkel történő kezelésben részesülő biztosított a kezelés igénybevételével kapcsolatban felmerült utazási költségek tekintetében a járóbeteg-szakellátásra, a fekvőbeteg-gyógyintézetbe, továbbá gyógyászati ellátásra, rehabilitációra beutalt biztosítottal azonos elbírálás alá esik.”
