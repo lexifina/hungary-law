@@ -1,6 +1,6 @@
 A Kormány
 
-1. a közlekedésbiztonság javítása, a közutak védelme és a tengelysúly vagy össztömeg tekintetében túlterhelt járművek közlekedésének visszaszorítása, ellenőrzésük hatékonyabbá tétele érdekében egyetért azzal, hogy a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) nemzeti tengelysúly- és kapcsolódó ellenőrzéseket támogató hálózatot (a továbbiakban: tengelysúlymérő-rendszer) valósítson meg;
+1.[^1] a közlekedésbiztonság javítása, a közutak védelme és a tengelysúly vagy össztömeg tekintetében túlterhelt járművek közlekedésének visszaszorítása, ellenőrzésük hatékonyabbá tétele érdekében egyetért azzal, hogy a Nemzeti Fejlesztési Minisztérium (a továbbiakban: NFM) és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) nemzeti tengelysúly- és kapcsolódó ellenőrzéseket támogató hálózatot (a továbbiakban: tengelysúlymérő-rendszer) valósítson meg;
 
 2. egyetért azzal, hogy a tengelysúlymérő-rendszer a központi költségvetés terhére valósuljon meg, és
 
@@ -62,13 +62,13 @@ Határidő: 2017. március 15.
 
 a) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. § 17. pontjában meghatározott UD rendszerben (a továbbiakban: UD rendszer) és az elektronikus útdíjszedési és díjellenőrzési létesítményekhez létrejövő vagyonelemek, ide értve az UD rendszerben kialakításra kerülő szoftver- és hardverelemek, valamint az újonnan kialakítandó fixen telepített ellenőrző keresztmetszetek és azok eszközei feletti tulajdonosi jogokat a NÚSZ Zrt. gyakorolja,
 
-b) a hatósági eljárásokhoz szükséges vagyonelemeket, ide értve az UD rendszer fix ellenőrző keresztmetszeteinél beépítésre kerülő súlymérő eszközöket, a hatósági informatikai rendszer szoftver- és hardverelemeit, valamint a közúti ellenőrzés végzéséhez közvetlenül kapcsolódó informatikai eszközöket a NÚSZ Zrt. az MNV Zrt. részére ingyenesen, könyv szerinti értéken adja át azzal, hogy az átvételt követően ezen eszközök az NKH vagyonkezelésébe kerülnek;
+b)[^2] a hatósági eljárásokhoz szükséges vagyonelemeket, ide értve az UD rendszer fix ellenőrző keresztmetszeteinél beépítésre kerülő súlymérő eszközöket, a hatósági informatikai rendszer szoftver- és hardverelemeit, valamint a közúti ellenőrzés végzéséhez közvetlenül kapcsolódó informatikai eszközöket a NÚSZ Zrt. az MNV Zrt. részére ingyenesen, könyv szerinti értéken adja át azzal, hogy az átvételt követően ezen eszközök az NFM vagyonkezelésébe kerülnek;
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-7. egyetért azzal, hogy a NÚSZ Zrt. az előszűréshez, az objektív felelősség bevezetését követően pedig az ellenőrzéshez szükséges adatokat – így különösen a jármű azonosító adatokat, a járműről készült képi felvételeket, a tengelyterhelést, az összsúlyt, az adatfelvételezés helyét, idejét – az NKH hatósági informatikai rendszere részére integrált módon, elektronikus úton biztosítsa;
+7.[^3] egyetért azzal, hogy a NÚSZ Zrt. az előszűréshez, az objektív felelősség bevezetését követően pedig az ellenőrzéshez szükséges adatokat – így különösen a jármű azonosító adatokat, a járműről készült képi felvételeket, a tengelyterhelést, az összsúlyt, az adatfelvételezés helyét, idejét – az NFM hatósági informatikai rendszere részére integrált módon, elektronikus úton biztosítsa;
 
 8. felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy gondoskodjanak a 6. pont a) alpontjában meghatározott rendszerelemek fenntartásához és üzemeltetéséhez szükséges forrásoknak a Magyarország központi költségvetése Nemzeti Fejlesztési Minisztérium fejezet Útdíj rendszerek működtetése jogcímcsoportja keretében történő biztosításáról;
 
@@ -78,7 +78,7 @@ nemzetgazdasági miniszter
 
 Határidő: a 2017. évi központi költségvetés tervezésével kezdődően folyamatos
 
-9. felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy a 6. pont b) alpontjában meghatározott rendszerelemek fenntartásával járó költségeket az NKH éves befizetési kötelezettségének csökkentésével biztosítsa.
+9.[^4] felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy a 6. pont b) alpontjában meghatározott rendszerelemek fenntartásával járó költségeket az NFM éves befizetési kötelezettségének csökkentésével biztosítsa.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -86,6 +86,10 @@ nemzetgazdasági miniszter
 
 Határidő: a 2017. évi központi költségvetés tervezésével kezdődően folyamatos
 
-10.[^1] A kormányhatározat visszavonása nem érinti a kormányhatározat által a visszavonást megelőzően keletkeztetett, megszüntetett vagy módosított jogokat és kötelezettségeket.
+10.[^5] A kormányhatározat visszavonása nem érinti a kormányhatározat által a visszavonást megelőzően keletkeztetett, megszüntetett vagy módosított jogokat és kötelezettségeket.
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^1]: Az 1. pont az 1853/2016. (XII. 27.) Korm. határozat 73. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 73. pont b) alpontja szerint módosított szöveg.
+[^3]: A 7. pont az 1853/2016. (XII. 27.) Korm. határozat 73. pont b) alpontja szerint módosított szöveg.
+[^4]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 73. pont b) alpontja szerint módosított szöveg.
+[^5]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
