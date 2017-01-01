@@ -1,4 +1,4 @@
-6. számú melléklet a 132/2004. (IV. 29.) Korm. rendelethez[^50]
+6. számú melléklet a 132/2004. (IV. 29.) Korm. rendelethez[^53]
 
 ## Magyarázó megjegyzések a 2003/701/EK határozat mellékletében foglalt formanyomtatványhoz
 
@@ -38,4 +38,4 @@ A 2003/701/EK határozat hiteles magyar fordításának alkalmazása során
 
 értendő.
 
-[^50]: A 6. számú mellékletet a 15/2006. (I. 26.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^53]: A 6. számú mellékletet a 15/2006. (I. 26.) Korm. rendelet 9. § (2) bekezdése iktatta be.

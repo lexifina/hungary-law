@@ -2,12 +2,12 @@
 
 (2) Amennyiben a géntechnológiai hatóság a jelentés benyújtását követő 60 napon belül eltérő határozatot nem hoz, az engedély érvényességét meghosszabbítottnak kell tekinteni.
 
-(3)[^21] A kibocsátási engedélyek esetében az (1) bekezdés szerinti jelentés benyújtásának határideje a kibocsátás befejezését – géntechnológiával módosított magasabb rendű növények esetén a betakarítást – követő 30. nap.
+(3)[^22] A kibocsátási engedélyek esetében az (1) bekezdés szerinti jelentés benyújtásának határideje a kibocsátás befejezését – géntechnológiával módosított magasabb rendű növények esetén a betakarítást – követő 30. nap.
 
-(4)[^22] Géntechnológiával módosított magasabb rendű növények esetében az (1) bekezdés szerinti jelentést a géntechnológiával módosított magasabb rendű növények forgalomba hozataltól eltérő célból történő szándékos környezetbe bocsátása eredményeinek közlésére szolgáló formanyomtatványnak a 2001/18/EK európai parlamenti és tanácsi irányelv szerint való létrehozásáról szóló, 2003. szeptember 29-i 2003/701/EK bizottsági határozat (a továbbiakban: 2003/701/EK határozat) mellékletében foglalt formanyomtatványon, kibocsátási engedélyenként külön-külön kell a hasznosítónak a géntechnológiai hatóság részére postai úton írásban, és lehetőség szerint elektronikus úton is benyújtania. A 2003/701/EK határozatot a 6. számú mellékletben foglaltakkal összhangban kell alkalmazni.
+(4)[^23] Géntechnológiával módosított magasabb rendű növények esetében az (1) bekezdés szerinti jelentést a géntechnológiával módosított magasabb rendű növények forgalomba hozataltól eltérő célból történő szándékos környezetbe bocsátása eredményeinek közlésére szolgáló formanyomtatványnak a 2001/18/EK európai parlamenti és tanácsi irányelv szerint való létrehozásáról szóló, 2003. szeptember 29-i 2003/701/EK bizottsági határozat (a továbbiakban: 2003/701/EK határozat) mellékletében foglalt formanyomtatványon, kibocsátási engedélyenként külön-külön kell a hasznosítónak a géntechnológiai hatóság részére benyújtania. A 2003/701/EK határozatot a 6. számú mellékletben foglaltakkal összhangban kell alkalmazni.
 
-(5)[^23] A hasznosítónak a külön jogszabály szerinti nem nyilvános adatokat a jelentés egy mellékletében kell megadnia. A hasznosítónak meg kell adnia továbbá az adatok nyilvános összefoglalóját vagy általános leírását, amely a külön jogszabály szerint hozzáférhető. Az éves jelentéshez mellékelni kell a géntechnológiával módosított magasabb rendű növények kibocsátási engedélyében foglalt speciális előírások végrehajtásáról szóló beszámolót is.
+(5)[^24] A hasznosítónak a külön jogszabály szerinti nem nyilvános adatokat a jelentés egy mellékletében kell megadnia. A hasznosítónak meg kell adnia továbbá az adatok nyilvános összefoglalóját vagy általános leírását, amely a külön jogszabály szerint hozzáférhető. Az éves jelentéshez mellékelni kell a géntechnológiával módosított magasabb rendű növények kibocsátási engedélyében foglalt speciális előírások végrehajtásáról szóló beszámolót is.
 
-[^21]: A 12. § (3) bekezdése a 15/2006. (I. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^22]: A 12. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 4. §-a iktatta be.
-[^23]: A 12. § (5) bekezdését a 15/2006. (I. 26.) Korm. rendelet 4. §-a iktatta be.
+[^22]: A 12. § (3) bekezdése a 15/2006. (I. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 12. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 4. §-a iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 29. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^24]: A 12. § (5) bekezdését a 15/2006. (I. 26.) Korm. rendelet 4. §-a iktatta be.

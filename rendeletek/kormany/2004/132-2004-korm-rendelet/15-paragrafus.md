@@ -16,6 +16,6 @@ e) a címkézési követelmények, a külön jogszabályban meghatározott köve
 
 f) a nyomon követési követelmények a külön jogszabálynak megfelelően, beleértve a Bizottság és a géntechnológiai hatóságok számára történő tájékoztatási kötelezettséget, a nyomon követési terv időtartamát és adott esetben az azon személyekre vonatkozó kötelezettségeket, akik a terméket árusítják, vagy azokat felhasználják, többek között – a géntechnológiával módosított szervezetek termesztése, tenyésztése, illetve szaporítása esetén – a hollétükre vonatkozó részletes információkat.
 
-(4)[^29] Amennyiben az engedélyt a géntechnológiai hatóság adja meg, a géntechnológiával módosított szervezet egyedi azonosítóját a kapcsolattartó szerven keresztül haladéktalanul írásban közli a 2004. évi CIX. törvénnyel kihirdetett, a biológiai biztonságról szóló, Nairobiban, 2000. május 24-én aláírt Cartagena Jegyzőkönyv 20. cikkével létrehozott, a Biológiai Biztonság kérdéseiben illetékes Információs Központtal.
+(4)[^31] Amennyiben az engedélyt a géntechnológiai hatóság adja meg, a géntechnológiával módosított szervezet egyedi azonosítóját a kapcsolattartó szerven keresztül haladéktalanul írásban közli a 2004. évi CIX. törvénnyel kihirdetett, a biológiai biztonságról szóló, Nairobiban, 2000. május 24-én aláírt Cartagena Jegyzőkönyv 20. cikkével létrehozott, a Biológiai Biztonság kérdéseiben illetékes Információs Központtal.
 
-[^29]: A 15. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 6. §-a iktatta be, szövege a 138/2015. (VI. 4.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^31]: A 15. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 6. §-a iktatta be, szövege a 138/2015. (VI. 4.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-11. § (1)[^19] Ha a kérelem eleget tesz a 10. § (3) bekezdésében foglaltaknak, a géntechnológiai hatóság a kérelem egy másolatát a 18. § (1) bekezdésében meghatározott kapcsolattartó szerven (a továbbiakban: kapcsolattartó szerv) keresztül megküldi a Bizottság számára, legkésőbb a (2) bekezdés szerinti vizsgálati jelentés megküldésével egy időben. A géntechnológiai hatóság szükség esetén felszólíthatja a kérelmezőt, hogy a megküldött kérelemmel megegyező másolati példányokat bocsásson rendelkezésre. A Bizottság a 2001/18/EK irányelv 13–14. cikkei szerint jár el.
+11. § (1)[^20] Ha a kérelem eleget tesz a 10. § (3) bekezdésében foglaltaknak, a géntechnológiai hatóság a kérelem egy másolatát a 18. § (1) bekezdésében meghatározott kapcsolattartó szerven (a továbbiakban: kapcsolattartó szerv) keresztül megküldi a Bizottság számára, legkésőbb a (2) bekezdés szerinti vizsgálati jelentés megküldésével egy időben. A géntechnológiai hatóság szükség esetén felszólíthatja a kérelmezőt, hogy a megküldött kérelemmel megegyező másolati példányokat bocsásson rendelkezésre. A Bizottság a 2001/18/EK irányelv 13–14. cikkei szerint jár el.
 
 (2) A géntechnológiai hatóságnak:
 
@@ -14,7 +14,7 @@ a) a kérdéses géntechnológiával módosított szervezet vagy szervezetek for
 
 b) a géntechnológiával módosított szervezet vagy szervezetek nem hozhatók forgalomba.
 
-(4)[^20]
+(4)[^21]
 
 (5) Ha a vizsgálati jelentést készítő géntechnológiai hatóság álláspontja szerint a géntechnológiával módosított szervezet vagy szervezetek nem hozhatók forgalomba, a kérelmet el kell utasítani. Az elutasító döntést meg kell indokolni.
 
@@ -24,5 +24,5 @@ b) a géntechnológiával módosított szervezet vagy szervezetek nem hozhatók 
 
 (8) Az erdészeti szaporítóanyagok esetében az első engedély időtartamának legkésőbb tíz év elteltével azt követően kell letelnie, amikor először vették fel a géntechnológiával módosított szervezetet tartalmazó bázisanyagot a Nemzeti szaporítóanyag-forrás jegyzékbe az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendeletnek megfelelően.
 
-[^19]: A 11. § (1) bekezdése a 138/2015. (VI. 4.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^20]: A 11. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^20]: A 11. § (1) bekezdése a 138/2015. (VI. 4.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^21]: A 11. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.

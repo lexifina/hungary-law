@@ -12,6 +12,6 @@
 
 (6) A vizsgálati jelentést készítő géntechnológiai hatóság módosítja az engedélyt a javasolt módon, ha nem érkezik valamely tagállam vagy a Bizottság részéről indokolt ellenvélemény az új információ továbbítását követő 60 napon belül, illetve, ha a rendezetlen kérdéseket a 2001/18/EK irányelv 20. cikke szerinti eljárásban megoldották. A géntechnológiai hatóságnak a módosított engedélyt el kell juttatnia a kérelmezőhöz, és erről 30 napon belül értesítenie kell a többi tagállamot és a Bizottságot.
 
-(7)[^31] A géntechnológiai hatóság az (1) bekezdés szerinti jelentés nyilvános hozzáférhetőségének biztosításáról a külön jogszabályban kijelölt nyilvántartó szerv útján gondoskodik.
+(7)[^33] A géntechnológiai hatóság az (1) bekezdés szerinti jelentés nyilvános hozzáférhetőségének biztosításáról a külön jogszabályban kijelölt nyilvántartó szerv útján gondoskodik.
 
-[^31]: A 17. § (7) bekezdését a 15/2006. (I. 26.) Korm. rendelet 8. §-a iktatta be.
+[^33]: A 17. § (7) bekezdését a 15/2006. (I. 26.) Korm. rendelet 8. §-a iktatta be.
