@@ -1,3 +1,3 @@
-## 30. §[^109]
+## 30. §[^100]
 
-[^109]: A 30. §-t a 407/2015. (XII. 15.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^100]: A 30. §-t a 407/2015. (XII. 15.) Korm. rendelet 9. §-a hatályon kívül helyezte.

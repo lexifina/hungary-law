@@ -1,4 +1,4 @@
-15. § (1)[^50] Az állami hulladékgazdálkodást közvetítő szervezet saját jogú ellenőrzése lehet:
+15. § (1)[^37] Az állami hulladékgazdálkodást közvetítő szervezet saját jogú ellenőrzése lehet:
 
 a) a részkifizetésekhez kapcsolódó
 
@@ -12,25 +12,25 @@ b) a szerződés végleges lezárásáig a kifizetési időszakokat egyedileg va
 
 Az a) pontban meghatározott ellenőrzések nem keletkeztetnek ellenőrzéssel lezárt időszakot.
 
-(2)[^51] A kifizetéshez kapcsolódó dokumentumalapú ellenőrzés a kifizetés iránti kérelem és mellékletei ellenőrzéséből áll, amely kiterjed különösen:
+(2)[^38] A kifizetéshez kapcsolódó dokumentumalapú ellenőrzés a kifizetés iránti kérelem és mellékletei ellenőrzéséből áll, amely kiterjed különösen:
 
-a)[^52] arra, hogy a benyújtott kifizetés iránti kérelem és mellékletei az elnyert támogatási pályázat kapcsán merültek-e fel,
+a)[^39] arra, hogy a benyújtott kifizetés iránti kérelem és mellékletei az elnyert támogatási pályázat kapcsán merültek-e fel,
 
 b) arra, hogy a támogatási szerződésben foglalt mennyiségi és pénzügyi előrehaladási feltételeknek megfelelnek-e, illetve valós mennyiségi adatokon alapulnak-e,
 
-c)[^53] arra, hogy a benyújtott kifizetés iránti kérelem és mellékletei adattartalma összhangban van-e az elszámolási időszakra vonatkozó kifizetési előrejelzéssel és az elszámolhatósági szabályokkal,
+c)[^40] arra, hogy a benyújtott kifizetés iránti kérelem és mellékletei adattartalma összhangban van-e az elszámolási időszakra vonatkozó kifizetési előrejelzéssel és az elszámolhatósági szabályokkal,
 
 d) arra, hogy az elszámolási időszakban a köztartozás-mentesség fennáll-e,
 
-e) az új technológia alkalmazására, a hasznosítási technológia megvalósításának, illetve megvalósíthatóságának technológiai ellenőrzésére,
+e)[^41] az új technológia alkalmazására, a hasznosítási technológia megvalósításának, illetve megvalósíthatóságának ellenőrzésére,
 
 f) arra, hogy a Ktdt. 20. § (2) bekezdése alapján folyósított támogatást ténylegesen a lakossági környezettudatos nevelésre fordították-e.
 
 (3) A helyszíni ellenőrzés kiterjed különösen arra, hogy:
 
-a)[^54] a benyújtott kifizetés iránti kérelem valós mennyiségi adatokon alapul-e, és megfelel-e a megkötött szerződésben vállalt kötelezettségeknek és szakmai célkitűzéseknek,
+a)[^42] a benyújtott kifizetés iránti kérelem valós mennyiségi adatokon alapul-e, és megfelel-e a megkötött szerződésben vállalt kötelezettségeknek és szakmai célkitűzéseknek,
 
-b)[^55] a kifizetés iránti kérelem mellékleteként benyújtott alátámasztó bizonylatok, dokumentumok, igazolások és összesítő táblázatok eredeti példánya rendelkezésre áll-e, és megegyezik-e a kifizetés iránti kérelemhez benyújtott másolattal,
+b)[^43] a kifizetés iránti kérelem mellékleteként benyújtott alátámasztó bizonylatok, dokumentumok, igazolások és összesítő táblázatok eredeti példánya rendelkezésre áll-e, és megegyezik-e a kifizetés iránti kérelemhez benyújtott másolattal,
 
 c) az ellenőrzött által benyújtott vezetői nyilatkozat (köztartozás-mentesség, egyéni teljesítésű hulladékhasznosítás) összhangban van-e az azt megalapozó bizonylatokkal,
 
@@ -38,16 +38,18 @@ d) a közbeszerzésekre vonatkozóan a dokumentumok alapján nem ellenőrizhető
 
 e) a szerződés szerinti tevékenység folytatásának helyén található hulladékkezeléssel érintett termékek, anyagok fizikai paramétereinek rögzítése megtörtént-e,
 
-f) az új technológia alkalmazására, a hasznosítási technológia megvalósításának, illetve megvalósíthatóságának technológiai ellenőrzésére,
+f)[^44] az új technológia alkalmazására, a hasznosítási technológia megvalósításának, illetve megvalósíthatóságának ellenőrzésére,
 
 g) arra, hogy a Ktdt. 20. § (2) bekezdése alapján folyósított támogatást ténylegesen a lakossági környezettudatos nevelésre fordították-e.
 
-(4)[^56] A kifizetés iránti kérelem és mellékletei formai és tartalmi követelményeinek meghatározásakor a Ht.-ben és végrehajtási rendeleteiben meghatározott előírásokat is figyelembe kell venni.
+(4)[^45] A kifizetés iránti kérelem és mellékletei formai és tartalmi követelményeinek meghatározásakor a Ht.-ben és végrehajtási rendeleteiben meghatározott előírásokat is figyelembe kell venni.
 
-[^50]: A 15. § (1) bekezdés nyitó szövegrésze a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^51]: A 15. § (2) bekezdés nyitó szövegrésze az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
-[^52]: A 15. § (2) bekezdés a) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
-[^53]: A 15. § (2) bekezdés c) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
-[^54]: A 15. § (3) bekezdés a) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
-[^55]: A 15. § (3) bekezdés b) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
-[^56]: A 15. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 25. § b) pontja, az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^37]: A 15. § (1) bekezdés nyitó szövegrésze a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^38]: A 15. § (2) bekezdés nyitó szövegrésze az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^39]: A 15. § (2) bekezdés a) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^40]: A 15. § (2) bekezdés c) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^41]: A 15. § (2) bekezdés e) pontja a 446/2016. (XII. 16.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^42]: A 15. § (3) bekezdés a) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^43]: A 15. § (3) bekezdés b) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^44]: A 15. § (3) bekezdés f) pontja a 446/2016. (XII. 16.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^45]: A 15. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 25. § b) pontja, az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.

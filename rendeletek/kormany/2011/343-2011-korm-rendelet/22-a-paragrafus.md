@@ -1,3 +1,3 @@
-## 22. §[^76] Az adatszolgáltatást elsősorban elektronikus adathordozón vagy fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentum útján, illetve az adatbázishoz való hozzáférés megadásával történik. Az elektronikus úton történő adatszolgáltatás hiányában az adatszolgáltatás más módon (így különösen iratban) történik.
+## 22. §[^65]
 
-[^76]: A 22. § a 352/2016. (XI. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^65]: A 22. §-t a 477/2016. (XII. 27.) Korm. rendelet 58. § (2) bekezdése hatályon kívül helyezte.
