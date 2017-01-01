@@ -1,6 +1,6 @@
 1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Liget Budapest projekt keretében
 
-a)[^1] az Országos Múzeumi Restaurálási és Raktározási Központ, valamint az Igazságügyi Szakértői és Kutató Intézetek Országos Toxikológiai Intézetének kialakítására irányuló, a Budapest XIII. kerület, 28056 helyrajzi számú ingatlanon,
+a)[^1] az Országos Múzeumi Restaurálási és Raktározási Központ, valamint a Nemzeti Szakértői és Kutató Központ Budapest XIII. kerület, 28056 helyrajzi számú ingatlanon,
 
 b)[^2] a Budapest XIV. kerület, 29732/1 helyrajzi számú ingatlanon, valamint
 
@@ -26,7 +26,7 @@ a) eljáró hatóságként a 2. mellékletben meghatározott hatóságokat jelö
 
 b) eljáró szakhatóságként a 3. mellékletben meghatározott hatóságokat jelöli ki.
 
-[^1]: Az 1. § (1) bekezdés a) pontja az 50/2015. (III. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja a 350/2016. (XI. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 373/2015. (XII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés nyitó szövegrésze a 373/2015. (XII. 2.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdése a 373/2015. (XII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
