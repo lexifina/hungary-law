@@ -6,7 +6,7 @@
 
 ## a)[^18] a környezet, a természet és a táj védelmére kiterjedően:
 
-## az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség;
+## az országos környezetvédelmi és természetvédelemi hatóság;
 
 ## b) környezet- és település-egészségügyre kiterjedően:
 
@@ -82,11 +82,11 @@
 
 ## d)[^33] erdővédelemre kiterjedően:
 
-## az erdészeti hatáskörben eljáró megyei kormányhivatal;
+## megyei kormányhivatal erdészeti feladatkörében eljáró megyeszékhely szerinti járási hivatala;
 
 ## e)[^34] talajvédelemre kiterjedően:
 
-## a talajvédelmi hatáskörben eljáró megyei kormányhivatal;
+## megyei kormányhivatal talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatala;
 
 ## f)[^35] a termőföld mennyiségi védelmére kiterjedően:
 
@@ -202,7 +202,7 @@
 
 7.[^44] Az 1–6. pontokban megadott valamennyi információra kiterjedő közérthető összefoglaló.
 
-[^18]: A 3. számú melléklet I.1. pontjának a) alpontja a 377/2007. (XII. 23.) Korm. rendelet 20. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 3. számú melléklet I.1. pontjának a) alpontja a 377/2007. (XII. 23.) Korm. rendelet 20. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 64. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^19]: A 3. számú melléklet I.1.c) pontja a 118/2015. (V. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^20]: A 3. számú melléklet I.1.d) pontját a 118/2015. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^21]: A 3. számú melléklet I. pont I.2. alpont a) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § b) pontja szerint módosított szöveg.
@@ -217,8 +217,8 @@
 [^30]: A 3. számú melléklet II.1.d) pontját a 118/2015. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^31]: A 3. számú melléklet II.2. pont b) alpontja a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 20. pontja, a 296/2012. (X. 17.) Korm. rendelet 15. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^32]: A 3. számú melléklet II.2.c) pontját a 118/2015. (V. 13.) Korm. rendelet 1. §-a hatályon kívül helyezte.
-[^33]: A 3. számú melléklet II. cím 2. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^34]: A 3. számú melléklet II. cím 2. pont e) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^33]: A 3. számú melléklet II. rész II.2. pont d) alpontja a 379/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^34]: A 3. számú melléklet II. rész II.2. pont e) alpontja a 379/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
 [^35]: A 3. melléklet II.2. pont f) alpontja a 341/2016. (XI. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^36]: A 3. számú melléklet II.2. pontjának g) alpontja a 269/2006. (XII. 20.) Korm. rendelet 19. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés j) pontja szerint módosított szöveg.
 [^37]: A 3. számú melléklet II.2.h) pontja a 118/2015. (V. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
