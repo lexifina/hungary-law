@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet
