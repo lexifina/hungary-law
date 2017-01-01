@@ -6,9 +6,9 @@ a) az egészségügyért felelős miniszter (a továbbiakban: miniszter), a honv
 
 b) az a) pont hatálya alá nem tartozó, pénzellátásban részesülő egészségügyi dolgozó esetében az, hogy a miniszter az egészségügyi dolgozó jövedelemkiegészítésre való jogosultságát jóváhagyta.
 
-(3)[^1] Az egészségügyi dolgozónak a jövedelemkiegészítésre irányuló, az 1. melléklet szerinti tartalmú kérelmét, valamint a személyes adatai kezeléséhez történő hozzájáruló nyilatkozatát – egyetértése esetén – a (2) bekezdés a) és b) pontja szerinti jogcímenkénti bontásban a munkáltató továbbítja az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) részére.
+(3)[^1] Az egészségügyi dolgozónak a jövedelemkiegészítésre irányuló, az 1. melléklet szerinti tartalmú kérelmét, valamint a személyes adatai kezeléséhez történő hozzájáruló nyilatkozatát – egyetértése esetén – a (2) bekezdés a) és b) pontja szerinti jogcímenkénti bontásban a munkáltató továbbítja a miniszter részére.
 
-(4)[^2] Az OEP a (2) bekezdés b) pontja szerinti kérelmek esetén megvizsgálja a jogszabályban foglalt feltételek teljesülését, és az egészségügyi humánerőforrás területi, illetve szakma szerinti megoszlásának figyelembevételével kialakított javaslatával ellátva továbbítja azokat a miniszter részére.
+(4)[^2] A miniszter a (2) bekezdés b) pontja szerinti kérelmek esetén megvizsgálja a jogszabályban foglalt feltételek teljesülését, és az egészségügyi humánerőforrás területi, illetve szakma szerinti megoszlásának figyelembevételével dönt a kérelemről.
 
 (5) A (2) bekezdés b) pontja szerinti esetben a miniszter jóváhagyásának feltétele, hogy a kérelemmel érintett egészségügyi dolgozónak az adott munkáltatónál történő további egészségügyi tevékenységvégzését a munkáltató különösen fontos érdeke vagy költségvetési szerv alaptevékenysége indokolja.
 
@@ -16,5 +16,5 @@ b) az a) pont hatálya alá nem tartozó, pénzellátásban részesülő egészs
 
 (7) Az egészségügyi dolgozó jövedelemkiegészítésre való jogosultságát megszünteti a jövedelemkiegészítés megállapításának alapjául szolgáló közalkalmazotti, kormányzati szolgálati jogviszony megszűnése.
 
-[^1]: Az 1. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 79. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 79. § b) pontja szerint módosított szöveg.
+[^1]: Az 1. § (3) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (4) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 29. §-ával megállapított szöveg.
