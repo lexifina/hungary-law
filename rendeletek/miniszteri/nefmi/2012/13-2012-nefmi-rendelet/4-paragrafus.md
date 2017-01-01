@@ -1,5 +1,6 @@
-4. § (1)[^3] Az első fokú eljárásért megfizetett igazgatási szolgáltatási díj a Nemzeti Kulturális Alap Igazgatóságának (a továbbiakban: Igazgatóság) bevétele.
+4. § (1)[^7] A megfizetett igazgatási szolgáltatási díj a Pest Megyei Kormányhivatal bevétele.
 
-(2) A másodfokú eljárásért megfizetett igazgatási szolgáltatási díj a kultúráért felelős miniszter által vezetett minisztérium bevétele.
+(2)[^8]
 
-[^3]: A 4. § (1) bekezdése a 44/2012. (XI. 30.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (1) bekezdése az 50/2016. (XII. 28.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdését az 50/2016. (XII. 28.) EMMI rendelet 15. § b) pontja hatályon kívül helyezte.

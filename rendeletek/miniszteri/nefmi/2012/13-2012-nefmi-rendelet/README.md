@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-13-20-2
 | 2012-12-01 | 2012-13-20-2V.3 | 44/2012. (XI. 30.) EMMI rendelet |
 | 2015-06-05 | 2012-13-20-2V.4 | 29/2015. (V. 28.) EMMI rendelet |
 | 2015-06-28 | 2012-13-20-2V.5 | 29/2015. (V. 28.) EMMI rendelet |
+| 2017-01-01 | 2012-13-20-2V.6 | 50/2016. (XII. 28.) EMMI rendelet |
