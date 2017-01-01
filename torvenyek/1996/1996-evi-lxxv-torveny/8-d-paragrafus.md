@@ -10,4 +10,4 @@ a) a külföldi munkáltatót a hiányosság megszüntetésére kötelezi, és k
 
 b) tájékoztatja a szolgáltatás felügyeletét ellátó hatóságot.
 
-(5) A (4) bekezdés a) pontja szerinti bírság mértéke legfeljebb harmincezer forint. A bírság ismételten is kiszabható.
+(5) A (4) bekezdés a) pontja szerinti bírság mértéke harmincezer forint. A bírság ismételten is kiszabható.

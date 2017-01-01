@@ -20,7 +20,7 @@ i) kötelezi az 1. § (8) bekezdése szerint felelős fővállalkozót vagy a k�
 
 j) kötelezi a foglalkoztatót a 3. § (1a) bekezdés szerinti megkeresés teljesítéséhez szükséges adatok szolgáltatására.
 
-(2) A munkaügyi hatóság az (1) bekezdés a) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
+(2) A munkaügyi hatóság által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
 
 (3) A munkaügyi hatóság a foglalkoztató és a részére munkát végző személy közötti jogviszony tartalmát érintő intézkedést nem hozhat, amennyiben az ellenőrzést megelőzően a felek között az ellenőrzés tárgyát érintően munkaügyi vita indult.
 
@@ -30,6 +30,6 @@ a) társadalombiztosítási nyugellátásban részesülő személy foglalkoztat�
 
 b) megváltozott munkaképességű személyek ellátásaiban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a rehabilitációs hatósággal.
 
-(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
+(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
 
 (6) A munkaügyi hatóság haladéktalanul tájékoztatja az érintett EGT-állam illetékes hatóságát, ha a munkaügyi ellenőrzés során az 1. § (2) bekezdése szerinti munkavállaló foglalkoztatási körülményei az EGT-állam illetékes hatóságának hatáskörébe tartozó szabálytalanságra utalnak.

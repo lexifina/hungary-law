@@ -24,7 +24,7 @@ is érteni kell.
 
 (6) Felhatalmazást kap
 
-a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási, valamint a 3. § és a 6. § alkalmazásának eltérő szabályait,
+a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási, valamint a 2/A. §, 3. § és a 6. § alkalmazásának eltérő szabályait,
 
 b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál,
 

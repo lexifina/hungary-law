@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-75-00-00
 | 2016-07-08 | 2016. évi LXXIX. törvény | 1996-75-00-00.49 |
 | 2016-09-01 | 2016. évi XLIX. törvény | 1996-75-00-00.50 |
 | 2016-09-30 | 2016. évi XXXIX. törvény | 1996-75-00-00.51 |
+| 2017-01-01 | 2016. évi CXLV. törvény | 1996-75-00-00.52 |

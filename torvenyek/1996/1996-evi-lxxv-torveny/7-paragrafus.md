@@ -4,7 +4,7 @@ a) a 3. § (1) bekezdés a) pontjának a foglalkoztatásra irányuló jogviszony
 
 b) a 3. § (1) bekezdésnek az a) pontban nem említett, valamint a 3. § (1) bekezdés e) és h) pontban foglalt rendelkezések bármelyikét több munkavállaló vonatkozásában megsérti, vagy
 
-c) a 3. § (1a) bekezdés szerinti adatszolgáltatásnak nem tesz eleget.
+c)
 
 (2) Nem indítható a jogsértés megállapítására és bírság kiszabására eljárás, ha a jogsértő magatartásnak a bírság kiszabására jogosult hatóság tudomására jutásától számított egy év, vagy az elkövetéstől számított három év eltelt. A hároméves határidő kezdő napja
 

@@ -46,8 +46,8 @@ megtartására.
 
 (2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 
-(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (3)–(6) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára.
+(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (4)–(8) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára.
 
 (4) A foglalkoztató saját maga munkaügyi hatósági ellenőrzés alá vonását nem kérelmezheti.
 
-(5)
+(5) A munkaügyi ellenőrzés kiterjed a szociális szövetkezet tagjának tagi munkavégzése esetén, az Sztv. 18. § (2a)–(3) bekezdésében foglaltak tekintetében, a szociális szövetkezetre.
