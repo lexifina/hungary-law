@@ -36,7 +36,7 @@ h) a Nemzetgazdasági Minisztériumnak,
 
 i) az Igazságügyi Minisztériumnak,
 
-j) az Országos Egészségbiztosítási Pénztárnak,
+j)[^1] a Nemzeti Egészségbiztosítási Alapkezelőnek,
 
 k) az Országos Nyugdíjbiztosítási Főigazgatóságnak és
 
@@ -54,6 +54,7 @@ egy-egy képviselője.
 
 12. Azok a személyek, akik az e határozat hatálybalépését megelőző napon az Idősügyi Tanács tagjai voltak, a határozat hatálybalépésével a Tanács tagjaivá válnak. Az Idősügyi Tanács jogszabályban meghatározott hatásköreit az Idősek Tanácsa gyakorolja.
 
-13.[^1]
+13.[^2]
 
-[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. pont j) alpontja az 1853/2016. (XII. 27.) Korm. határozat 47. pontjával megállapított szöveg.
+[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
