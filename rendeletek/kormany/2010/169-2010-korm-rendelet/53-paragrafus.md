@@ -1,3 +1,3 @@
-53. §[^156]
+53. §[^158]
 
-[^156]: Az 53. § a (4) bekezdése alapján hatályát vesztette.
+[^158]: Az 53. § a (4) bekezdése alapján hatályát vesztette.

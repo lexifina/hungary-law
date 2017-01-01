@@ -6,17 +6,17 @@
 
 a) a honvédelemért felelős miniszter esetében a Magyar Honvédség hivatásos és szerződéses állományú tagja,
 
-b)[^4] a rendészetért felelős miniszter esetében a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja,
+b)[^6] a rendészetért felelős miniszter esetében a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja,
 
 c) a polgári nemzetbiztonsági szolgálatokat irányító miniszter esetében a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja
 
 helyettesíti.
 
-(3)[^5] Az LVB munkájában a Nemzeti Közlekedési Hatóság Légügyi Hivatalának vezetője, az országos rendőrfőkapitány, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója, a TEK főigazgatója és az AH főigazgatója vehet részt. Az LVB ülésén az LVB titkárának – az ülés napirendjének összeállítását megelőző – javaslatára meghívottként részt vehet az LVB elnöke által meghívott személy vagy szervezet képviselője.
+(3)[^7] Az LVB munkájában a közlekedésért felelős miniszter, a katonai légügyi hatóság vezetője, az országos rendőrfőkapitány, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója, a TEK főigazgatója és az AH főigazgatója vehet részt. Az LVB ülésén az LVB titkárának – az ülés napirendjének összeállítását megelőző – javaslatára meghívottként részt vehet az LVB elnöke által meghívott személy vagy szervezet képviselője.
 
 (4) Az LVB elnöke a rendészetért felelős miniszter, titkára a közlekedésért felelős miniszter által kijelölt köztisztviselő.
 
 (5) Az LVB az ügyrendje alapján jogosult munkáját segítő szakértői munkacsoportot létrehozni.
 
-[^4]: A 3. § (2) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^5]: A 3. § (3) bekezdése a 389/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^6]: A 3. § (2) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdése a 389/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 158. § (3) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-1. melléklet a 169/2010. (V. 11.) Korm. rendelethez[^157]
+1. melléklet a 169/2010. (V. 11.) Korm. rendelethez[^159]
 
-[^157]: Az 1. mellékletet az 53. § (1) bekezdése hatályon kívül helyezte.
+[^159]: Az 1. mellékletet az 53. § (1) bekezdése hatályon kívül helyezte.

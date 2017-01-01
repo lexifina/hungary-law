@@ -36,8 +36,11 @@ nb) az utas, a feladott poggyász és a kézipoggyász átvizsgálásra vonatkoz
 
 nc) a légijármű fedélzetén tartózkodás szabályai
 
-tekintetében.
+tekintetében,
+
+o)[^2] a katonai légügyi hatóságra.
 
 (2) A légiközlekedés védelmi tevékenységre a 46. §-ban felsorolt uniós jogi aktusok a légiközlekedésről szóló 1995. évi XCVII. törvényben, valamint az e rendeletben foglaltakkal együttesen alkalmazandóak.
 
 [^1]: Az 1. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés o) pontját a 379/2016. (XII. 2.) Korm. rendelet 158. § (1) bekezdése iktatta be.

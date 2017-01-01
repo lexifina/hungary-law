@@ -1,5 +1,5 @@
-35. § (1)[^130]
+35. § (1)[^132]
 
 (2) A kérelemhez csatolni kell a meghatalmazott ügynök védelmi tisztjének kinevezését, valamint a védelmi programot. A védelmi programban foglaltak teljesülését helyszíni szemle során ellenőrzi a légiközlekedési hatóság. A meghatalmazott ügynök védelmi programjának – amennyiben kéri listás szállító kinevezését is – tartalmaznia kell a listás szállító kinevezésének eljárását, légiközlekedés védelmi minőségbiztosítási ellenőrzését és tevékenységének felügyeletét.
 
-[^130]: A 35. § (1) bekezdését a 389/2014. (XII. 31.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
+[^132]: A 35. § (1) bekezdését a 389/2014. (XII. 31.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
