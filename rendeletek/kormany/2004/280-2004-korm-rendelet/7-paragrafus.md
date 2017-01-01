@@ -24,9 +24,9 @@ e) az és az ahhoz készített szöveges értékelés megfelel az e rendelet és
 
 (5)[^15] A kötelezett önkormányzatok stratégiai zajtérképét a környezetvédelmi hatóság a (4) bekezdésben meghatározott szempontok alapján a benyújtást követő 30 napon belül véleményezi.
 
-(6)[^16] A fő közlekedési létesítményekre készült stratégiai zajtérképet a fő közlekedési létesítmény kötelezettje – a 14. § (2) és (4) bekezdésében meghatározottak figyelembevételével – a környezetvédelemért felelős miniszter és az érintett önkormányzatok részére 1-1 példányban, nyomtatva és elektronikus formában megküldi.
+(6)[^16] A fő közlekedési létesítményekre készült stratégiai zajtérképet a fő közlekedési létesítmény kötelezettje – a 14. § (2) és (4) bekezdésében meghatározottak figyelembevételével – a környezetvédelemért felelős miniszter és az érintett önkormányzatok részére megküldi.
 
-(7)[^17] A kötelezett önkormányzatok a fő közlekedési létesítményekre vonatkozó stratégiai zajtérképpel kiegészített, stratégiai zajtérképét – a 14. § (2) és (4) bekezdésében meghatározottak figyelembevételével – a környezetvédelemért felelős miniszter részére 3 példányban, nyomtatott és elektronikus formában megküldik.
+(7)[^17] A kötelezett önkormányzatok a fő közlekedési létesítményekre vonatkozó stratégiai zajtérképpel kiegészített, stratégiai zajtérképét – a 14. § (2) és (4) bekezdésében meghatározottak figyelembevételével – a környezetvédelemért felelős miniszter részére megküldik.
 
 (8)[^18] A stratégiai zajtérképeket a környezetvédelemért felelős miniszter által vezetett minisztérium a hivatalos honlapján közzéteszi.
 
@@ -35,6 +35,6 @@ e) az és az ahhoz készített szöveges értékelés megfelel az e rendelet és
 [^13]: A 7. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 68. § a) és b) pontja szerint módosított szöveg.
 [^14]: A 7. § (4) bekezdése nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
 [^15]: A 7. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 68. § b) pontja, a 441/2015. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^16]: A 7. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
-[^17]: A 7. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 286. § c) pontja szerint módosított szöveg.
+[^16]: A 7. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 286. § b) pontja, a 477/2016. (XII. 27.) Korm. rendelet 32. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 7. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 286. § c) pontja, a 477/2016. (XII. 27.) Korm. rendelet 32. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^18]: A 7. § (8) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 286. § d) pontja szerint módosított szöveg.
