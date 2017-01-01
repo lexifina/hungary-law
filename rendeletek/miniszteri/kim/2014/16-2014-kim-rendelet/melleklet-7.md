@@ -1,4 +1,4 @@
-7. melléklet a 16/2014. (III. 13.) KIM rendelethez
+7. melléklet a 16/2014. (III. 13.) KIM rendelethez[^20]
 
 ## A másodfokon, a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság határozatáról szóló kivonat adattartalma
 
@@ -28,4 +28,6 @@
 
 5.2. ideje
 
-6. A bíróság bélyegzőlenyomata
+6. A bíróság bélyegzőlenyomata vagy elektronikus bélyegzője
+
+[^20]: A 7. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § g) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 16/2014. (III. 13.) KIM rendelethez
+4. melléklet a 16/2014. (III. 13.) KIM rendelethez[^17]
 
 ## Az előzetes jognyilatkozatok nyilvántartásából, a közfeladatot ellátó szerv általi adatigénylés érdekében történő megkeresés adattartalma
 
@@ -36,10 +36,12 @@
 
 5.5. ha a közfeladatot ellátó szerv erről tudomással bír, az ügyben jogerős határozatot hozó bíróság és határozata számának megjelölése
 
-6. A közfeladatot ellátó szerv nevében aláírásra jogosult aláírásának
+6. A közfeladatot ellátó szerv nevében aláírásra jogosult elektronikus aláírásának, illetve aláírásának
 
 6.1. helye
 
 6.2. ideje
 
-7. A közfeladatot ellátó szerv bélyegzőlenyomata
+7. A közfeladatot ellátó szerv bélyegzőlenyomata vagy elektronikus bélyegzője
+
+[^17]: A 4. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § d) pontjával megállapított szöveg.

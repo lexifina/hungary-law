@@ -6,8 +6,10 @@ a) a nyilvántartásokból történő adatszolgáltatás esetén az OBH adatszol
 
 b) a naplóból szolgáltatott adatok köréről, a továbbított adat címzettjéről, valamint az adatszolgáltatás időpontjáról.
 
-(2) Az adatszolgáltatás iránti kérelem papír alapon terjeszthető elő.
+(2)[^4] Az adatszolgáltatás iránti kérelem papír alapon vagy elektronikus úton terjeszthető elő.
 
 (3) A felvilágosítást kérőnek a kérelmét és az általa kiállított, a kérelem alátámasztására szolgáló iratokat közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalnia.
 
 (4) Ha a felvilágosítást kérő helyett meghatalmazott jár el, a (2) és (3) bekezdésben foglaltak a meghatalmazásra is megfelelően irányadóak.
+
+[^4]: A 9. § (2) bekezdése a 29/2016. (XII. 27.) IM rendelet 22. § a) pontja szerint módosított szöveg.

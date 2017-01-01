@@ -1,6 +1,6 @@
-## 23. §[^3]
+## 23. §[^13]
 
-1. melléklet a 16/2014. (III. 13.) KIM rendelethez
+1. melléklet a 16/2014. (III. 13.) KIM rendelethez[^14]
 
 ## A gondnokság alá helyezettek országos nyilvántartásából történő adatigényléshez szükséges kérelem adattartalma
 
@@ -17,6 +17,8 @@
 1.1.4. születési helye és ideje
 
 1.1.5. lakcíme
+
+1.1.6. – ha a felvilágosítást kérő elektronikus ügyintézésre köteles vagy azt önként vállalta – rendelkezési nyilvántartásban, illetve közhiteles nyilvántartásban rögzített hivatalos elérhetősége hiányában további hivatalos elektronikus elérhetősége
 
 1.2. jogi személy, jogalanyisággal rendelkező egyéb szervezet esetén
 
@@ -58,9 +60,11 @@
 
 2.2.5. lakcíme
 
-2.2.6. szükség esetén az arra való utalás, hogy a meghatalmazást a kérelemhez mellékelték
+2.2.6. – ha a képviselő elektronikus ügyintézésre köteles vagy azt önként vállalta – rendelkezési nyilvántartásban, illetve közhiteles nyilvántartásban rögzített hivatalos elérhetősége hiányában további hivatalos elektronikus elérhetősége
 
-2.3. képviselő adatai – ügyvéd által ellátott képviselet esetén –
+2.2.7. szükség esetén az arra való utalás, hogy a meghatalmazást a kérelemhez mellékelték
+
+2.3. képviselő adatai - ügyvéd által ellátott képviselet esetén -
 
 2.3.1. neve
 
@@ -90,11 +94,11 @@
 
 8. Azon ügycsoport(ok) megjelölése, mely(ek) vonatkozásában a felvilágosítást kérő adatszolgáltatást igényel a cselekvőképesség korlátozásáról vagy a korlátozás hiányáról
 
-9. Arra való utalás, hogy a csekk igazoló szelvényét a kérelemhez mellékelték
+9. Arra való utalás, hogy a csekk igazoló szelvényét, illetve a készpénzbefizetést vagy az átutalást igazoló bizonylatot a kérelemhez mellékelték
 
 10. A kérelemhez csatolt mellékletek megnevezése
 
-11. A felvilágosítást kérő aláírásának
+11. A felvilágosítást kérő elektronikus aláírásának, illetve aláírásának
 
 11.1. helye
 
@@ -106,4 +110,5 @@
 
 12.2. címe
 
-[^3]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § a) pontjával megállapított szöveg.

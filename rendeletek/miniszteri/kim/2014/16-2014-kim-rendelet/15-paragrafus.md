@@ -2,4 +2,6 @@
 
 15. § (1) Az adatokat, ha az ítélet első fokon jogerőre emelkedett, a jogerő megállapítását, ha az ítélet első fokon nem emelkedett jogerőre, a másodfokon, más esetben a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság tájékoztatásának az első fokon eljárt bírósághoz érkezését követő 3 munkanapon belül kell a határozat tartalmától függően a névjegyzékbe bejegyezni.
 
-(2) A másodfokon, a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság a határozatának tartalmáról a határozathozatal napján papír alapon és elektronikus úton is, a 7. mellékletben meghatározott adattartalmú tájékoztatót küld az első fokon eljárt bíróság számára.
+(2)[^11] A másodfokon, a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság a határozatának tartalmáról a határozathozatal napján a 7. mellékletben meghatározott adattartalmú tájékoztatót küld az első fokon eljárt bíróság számára.
+
+[^11]: A 15. § (2) bekezdése a 29/2016. (XII. 27.) IM rendelet 23. § a) pontja szerint módosított szöveg.

@@ -2,10 +2,11 @@
 
 (2) Ha a kérelem nem tartalmazza a Tv.-ben, illetve e rendeletben előírt adatokat és ahhoz nem csatolták a kérelem alátámasztására szolgáló iratokat és a hiány nem pótolható, az OBH írásban, az okok megjelölésével tájékoztatja a felvilágosítást kérőt arról, hogy az adatszolgáltatás nem teljesíthető.
 
-(3) Ha a kérelem nem tartalmazza a Tv.-ben, illetve e rendeletben előírt adatokat és azok alátámasztására szolgáló iratokat, de a hiány pótolható, az OBH a kérelmet a hiányok megjelölése mellett, a hiányok pótlása végett határidő megjelölésével a felvilágosítást kérőnek visszaadja. Ha a hiányok pótlására határidőben nem került sor vagy a kérelem azt követően is hiányos, a (2) bekezdés szerint kell eljárni.
+(3)[^5] Ha a kérelem nem tartalmazza a Tv.-ben, illetve e rendeletben előírt adatokat és azok alátámasztására szolgáló iratokat, de a hiány pótolható, az OBH a kérelmet a hiányok megjelölése mellett, a hiányok pótlása végett határidő megjelölésével a felvilágosítást kérőnek visszaküldi. Ha a hiányok pótlására határidőben nem került sor vagy a kérelem azt követően is hiányos, a (2) bekezdés szerint kell eljárni.
 
 (4) Az OBH az adatszolgáltatást vagy az arról szóló tájékoztatást, hogy az adatszolgáltatás nem teljesíthető, az 5. mellékletben meghatározott adattartalommal rendszeresített űrlapon adja ki.
 
-(5) Az OBH-hoz beérkező és az OBH-nál keletkezett iratok kezeléséről, valamint az ügykezelés részletes szabályairól az OBH elnöke szabályzatot ad ki.[^2]
+(5) Az OBH-hoz beérkező és az OBH-nál keletkezett iratok kezeléséről, valamint az ügykezelés részletes szabályairól az OBH elnöke szabályzatot ad ki.[^6]
 
-[^2]: Lásd a 10/2014. (VII. 11.) OBH utasítást.
+[^5]: A 11. § (3) bekezdése a 29/2016. (XII. 27.) IM rendelet 22. § b) pontja szerint módosított szöveg.
+[^6]: Lásd a 10/2014. (VII. 11.) OBH utasítást.

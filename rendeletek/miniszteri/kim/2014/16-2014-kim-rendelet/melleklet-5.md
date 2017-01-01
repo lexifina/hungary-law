@@ -1,4 +1,4 @@
-5. melléklet a 16/2014. (III. 13.) KIM rendelethez
+5. melléklet a 16/2014. (III. 13.) KIM rendelethez[^18]
 
 ## Az OBH adatszolgáltatásának vagy az adatszolgáltatás teljesíthetetlensége esetén az erről szóló tájékoztatásnak az adattartalma
 
@@ -24,7 +24,7 @@
 
 4.2. annak az időszaknak vagy időpontnak a megjelölése, amelyre vonatkozóan a felvilágosítást kérő magáról vagy más személyről a nyilvántartásban kezelt adatokról adatszolgáltatást igényelt
 
-4.3. – a gondokoltak nyilvántartásából történt adatigénylés esetén – annak az ügycsoport(ok)nak a megjelölése, mely(ek) vonatkozásában a felvilágosítást kérő adatszolgáltatást igényelt a cselekvőképesség korlátozásáról vagy a korlátozás hiányáról
+4.3. - a gondokoltak nyilvántartásából történt adatigénylés esetén - annak az ügycsoport(ok)nak a megjelölése, mely(ek) vonatkozásában a felvilágosítást kérő adatszolgáltatást igényelt a cselekvőképesség korlátozásáról vagy a korlátozás hiányáról
 
 5. Adatszolgáltatás
 
@@ -40,10 +40,12 @@
 
 7. Az adatszolgáltatás vagy az adatszolgáltatás teljesíthetetlensége esetén az erről szóló tájékoztatás napja
 
-8. Az OBH nevében aláírásra jogosult aláírásának
+8. Az OBH nevében aláírásra jogosult elektronikus aláírásának, illetve aláírásának
 
 8.1. helye
 
 8.2. ideje
 
-9. Az OBH bélyegzőlenyomata
+9. Az OBH bélyegzőlenyomata vagy elektronikus bélyegzője
+
+[^18]: Az 5. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § e) pontjával megállapított szöveg.

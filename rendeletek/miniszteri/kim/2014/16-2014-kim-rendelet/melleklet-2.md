@@ -1,4 +1,4 @@
-2. melléklet a 16/2014. (III. 13.) KIM rendelethez
+2. melléklet a 16/2014. (III. 13.) KIM rendelethez[^15]
 
 ## A gondnokság alá helyezettek országos nyilvántartásából, a közfeladatot ellátó szerv általi adatigénylés érdekében történő megkeresés adattartalma
 
@@ -40,10 +40,12 @@
 
 7. Azon ügycsoport(ok) megjelölése, mely(ek) vonatkozásában a közfeladatot ellátó szerv adatszolgáltatást igényel a cselekvőképesség korlátozásáról vagy a korlátozás hiányáról
 
-8. A közfeladatot ellátó szerv nevében aláírásra jogosult aláírásának
+8. A közfeladatot ellátó szerv nevében aláírásra jogosult elektronikus aláírásának, illetve aláírásának
 
 8.1. helye
 
 8.2. ideje
 
-9. A közfeladatot ellátó szerv bélyegzőlenyomata
+9. A közfeladatot ellátó szerv bélyegzőlenyomata vagy elektronikus bélyegzője
+
+[^15]: A 2. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § b) pontjával megállapított szöveg.
