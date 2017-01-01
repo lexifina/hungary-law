@@ -158,6 +158,6 @@
 
 | 2.4.3. |  | Rendelkezés sztrájk esetére |
 
-2–5. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^16]
+2–5. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^15]
 
-[^16]: A 2–5. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.
+[^15]: A 2–5. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 2/A. §[^8] Amennyiben az adatlap, illetőleg az 1. § (4) bekezdés alapján letétbe helyezésre benyújtott kollektív szerződés hiányosan vagy pontatlanul tartalmazza a 3. § (2) bekezdés a)–d) pontjaiban szereplő adatokat, a Minisztérium a kollektív szerződést nem veszi nyilvántartásba és erről a feleket elektronikusan tájékoztatja.
+## 2/A. §[^8] Ha az adatlap, illetve a több munkáltatóra kiterjedő hatályú kollektív szerződés hiányosan vagy pontatlanul tartalmazza a 3. § (2) bekezdés a)–d) pontjában szereplő adatokat, a Minisztérium a kollektív szerződést nem veszi nyilvántartásba és erről a feleket elektronikusan tájékoztatja.
 
 3. §[^9] (1)[^10] A Minisztérium a kollektív szerződés nyilvántartásba vétele során:
 
@@ -24,7 +24,7 @@ e) a nyilvántartási számot.
 
 (3) A nyilvántartás alapján készülő Kollektív Szerződések Elektronikus Nyilvántartó Könyve nyilvános.
 
-[^8]: A 2/A. §-t az 1/2008. (II. 29.) SZMM rendelet 3. §-a iktatta be, szövege a 17/2012. (VII. 5.) NGM rendelet 4. § (4) bekezdésével megállapított, az 55/2014. (XII. 31.) NGM rendelet 4. § c) pontja szerint módosított szöveg.
+[^8]: A 2/A. §-t az 1/2008. (II. 29.) SZMM rendelet 3. §-a iktatta be, szövege a 62/2016. (XII. 29.) NGM rendelet 57. § (2) bekezdésével megállapított szöveg.
 [^9]: A 3. § a 17/2012. (VII. 5.) NGM rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés nyitó szövegrésze az 55/2014. (XII. 31.) NGM rendelet 4. § c) pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdése az 55/2014. (XII. 31.) NGM rendelet 4. § c) pontja szerint módosított szöveg.
