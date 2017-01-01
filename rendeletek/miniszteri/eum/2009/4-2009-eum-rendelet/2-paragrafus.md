@@ -18,8 +18,8 @@ d) azt az eszközt, melynek szerves része olyan humán vérből vagy humán pla
 
 (4) A (2) bekezdés c)–d) pontja szerinti eszközök esetében e rendelet mellett a Gytv. rendelkezéseit kell alkalmazni a gyógyszerek vonatkozásában.
 
-(5)[^7] Egy adott termék eszköznek minősülése kérdésében – kétség esetén – az Egészségügyi Nyilvántartási és Képzési Központ (a továbbiakban: ENKK) határozatban dönt.
+(5)[^7] Egy adott termék eszköznek minősülése kérdésében – kétség esetén – az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) határozatban dönt.
 
 [^5]: A 2. § a 10/2012. (VII. 19.) EMMI rendelet 25. §-ával megállapított szöveg.
 [^6]: A 2. § (3) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 43. § a) pontja hatályon kívül helyezte.
-[^7]: A 2. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 105. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés a) pontja szerint módosított szöveg.

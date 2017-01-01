@@ -440,7 +440,7 @@
 
 ## Submission of this report does not, in itself, represent a conclusion by the manufacturer and/or authorized representative or the national competent authority that the content of this report is complete or accurate, that the medical device(s) listed failed in any manner and/or that the medical device(s) caused or contributed to the alleged death or deterioration in the state of the health of any person.
 
-13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^122]
+13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^123]
 
 ## Időszakos felülvizsgálat
 
@@ -488,7 +488,7 @@ I. Az időszakos felülvizsgálatra kötelezett termékek köre, a felülvizsgá
 
 II. Egyéb előírások
 
-1. A vizsgálat eredményét rögzíteni kell. A dokumentációt az intézmény műszerfelelőse köteles megőrizni és kérelemre a munkavédelmi felelősnek, felügyeleti szervezetének, az egészségügyi államigazgatási szervnek és az ENKK-nak bemutatni. A vizsgálat eredménye mellett meg kell jelölni az ellenőrzés módját is.
+1. A vizsgálat eredményét rögzíteni kell. A dokumentációt az intézmény műszerfelelőse köteles megőrizni és kérelemre a munkavédelmi felelősnek, felügyeleti szervezetének, az egészségügyi államigazgatási szervnek és az OGYÉI-nek bemutatni. A vizsgálat eredménye mellett meg kell jelölni az ellenőrzés módját is.
 
 2. Nehezen vagy csak nagy költséggel szállítható készülék esetében vagy olyan készüléknél, amely átmenetileg sem nélkülözhető az intézményben, helyi ellenőrzési módszert kell biztosítani.
 
@@ -498,4 +498,4 @@ II. Egyéb előírások
 
 5. Az első időszakos felülvizsgálat az üzembe helyezést követően, az előírt gyakoriságtól függően 1, 2 vagy 3 év elteltével esedékes. A további felülvizsgálat az előző felülvizsgálat időpontjától számítandó.
 
-[^122]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 105. § f) pontja szerint módosított szöveg.
+[^123]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 105. § f) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés g) pontja szerint módosított szöveg.

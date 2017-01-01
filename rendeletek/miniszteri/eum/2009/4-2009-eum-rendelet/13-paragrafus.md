@@ -54,17 +54,17 @@ bb) az 5. melléklet szerinti gyártásminőség-biztosítási
 
 ## eljárással.
 
-(8)[^32] Rendelésre készült eszköz esetén a gyártó a 8. melléklet szerint jár el. Az eszköz forgalomba hozatala előtt a gyártó kiállítja a 8. melléklet A. vagy B. pontjának 2.1. e) alpontja szerinti nyilatkozatot és összeállítja a 8. melléklet A. vagy B. pontjának 3.1. alpontjában meghatározott dokumentációt. A dokumentációt 5 évig meg kell őrizni és azt az ENKK megkeresésére rendelkezésre kell bocsátani. Ezeken az eszközökön a CE jelölés nem tüntethető fel.
+(8)[^32] Rendelésre készült eszköz esetén a gyártó a 8. melléklet szerint jár el. Az eszköz forgalomba hozatala előtt a gyártó kiállítja a 8. melléklet A. vagy B. pontjának 2.1. e) alpontja szerinti nyilatkozatot és összeállítja a 8. melléklet A. vagy B. pontjának 3.1. alpontjában meghatározott dokumentációt. A dokumentációt 5 évig meg kell őrizni és azt az OGYÉI megkeresésére rendelkezésre kell bocsátani. Ezeken az eszközökön a CE jelölés nem tüntethető fel.
 
 (9) Az EK megfelelőség értékelési eljárás során a gyártó, illetve a kijelölt szervezet figyelembe vesz minden olyan vizsgálatot és értékelést, amelyet a gyártás egy közbenső szakaszában e rendeletnek megfelelően végeztek el.
 
 (10) A 3., 4., 7. és 8. melléklet szerinti eljárásokat a meghatalmazott képviselő is kezdeményezheti a gyártó megbízásából.
 
-(11)[^33] Ha az ENKK szerint a gyártó egy adott eszköz vagy eszközsorozat esetén nem a megfelelő eljárást választotta és folytatta le, az ENKK – a megfelelő eljárást megjelölve – megkereséssel fordulhat a Bizottsághoz.
+(11)[^33] Ha az OGYÉI szerint a gyártó egy adott eszköz vagy eszközsorozat esetén nem a megfelelő eljárást választotta és folytatta le, az OGYÉI – a megfelelő eljárást megjelölve – megkereséssel fordulhat a Bizottsághoz.
 
-(12)[^34] A (11) bekezdés szerinti esetben a Bizottság döntését követően az ENKK a döntésnek megfelelően jár el.
+(12)[^34] A (11) bekezdés szerinti esetben a Bizottság döntését követően az OGYÉI a döntésnek megfelelően jár el.
 
 [^31]: A 13. § (6) bekezdése a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés b) pontja alapján nem lép hatályba.
-[^32]: A 13. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.
-[^33]: A 13. § (11) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.
-[^34]: A 13. § (12) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.
+[^32]: A 13. § (8) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^33]: A 13. § (11) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^34]: A 13. § (12) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.

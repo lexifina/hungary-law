@@ -16,10 +16,10 @@ c) a tevékenységet belső ellenőrzés és felügyelet mellett végezte el.
 
 (4) A (2)–(3) bekezdések szerinti eszközön nem kell újabb CE jelölést feltüntetni, azonban csatolni kell hozzá a 1. melléklet A. pontjának 13. alpontjában előírt tájékoztatást, amely adott esetben tartalmazza az összeállításban szereplő eszközök gyártóitól származó, az összeállításra vonatkozó utasításokat is.
 
-(5)[^39] A (2)–(3) bekezdések szerinti nyilatkozatokat 5 évig meg kell őrizni, és azokat az ENKK megkeresésére rendelkezésre kell bocsátani.
+(5)[^39] A (2)–(3) bekezdések szerinti nyilatkozatokat 5 évig meg kell őrizni, és azokat az OGYÉI megkeresésére rendelkezésre kell bocsátani.
 
 (6) Ha a készlet, illetve rendszer olyan eszközt tartalmaz, amely nem visel CE jelölést vagy nem eredeti rendeltetésének megfelelően kerül alkalmazásra, akkor a készletet, illetve rendszert önálló eszköznek kell tekinteni és osztályba sorolásának megfelelően kell vizsgálni, illetve a 13. § szerint tanúsítani.
 
 [^37]: A 15. § (2) bekezdés nyitó szövegrésze a 16/2014. (III. 12.) EMMI rendelet 19. § b) pontja szerint módosított szöveg.
 [^38]: A 15. § (3) bekezdése a 16/2014. (III. 12.) EMMI rendelet 19. § b) pontja szerint módosított szöveg.
-[^39]: A 15. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.
+[^39]: A 15. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
