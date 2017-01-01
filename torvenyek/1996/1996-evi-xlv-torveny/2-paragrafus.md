@@ -12,7 +12,7 @@ d)
 
 e)
 
-f) ösztöndíjas hallgató: a rendvédelmi felsőoktatási intézménybe felvételt nyert nappali tagozatos személy, aki valamely fegyveres szervvel vagy a Bevándorlási és Állampolgársági Hivatallal (a továbbiakban együtt: szerződő szerv) kötött ösztöndíjszerződés alapján végzi a tanulmányait,
+f) ösztöndíjas hallgató: a rendvédelmi felsőoktatási intézménybe felvételt nyert nappali tagozatos személy, aki valamely fegyveres szervvel vagy az idegenrendészeti és menekültügyi hatósággal (a továbbiakban együtt: szerződő szerv) kötött ösztöndíjszerződés alapján végzi a tanulmányait,
 
 g) polgári hallgató: az a hallgató, aki nem tartozik a c), vagy f) pont hatálya alá,
 
