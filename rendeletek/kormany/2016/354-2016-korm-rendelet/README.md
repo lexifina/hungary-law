@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-354-20-
 | --- | --- | --- |
 | 2016-11-19 | 2016-354-20-22.1 | 354/2016. (XI. 18.) Korm. rendelet |
 | 2016-11-20 | 2016-354-20-22.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-354-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
