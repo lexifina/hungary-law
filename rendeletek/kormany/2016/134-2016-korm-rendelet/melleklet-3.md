@@ -414,6 +414,16 @@
 
 | Letenyei tankerület |
 
-3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^10]
+3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez
 
-[^10]: A 3. melléklet a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+1. A 2016/2017. tanévre vonatkozó szakmaszerkezeti döntésről és a 2016/2017. tanévben induló képzések tanulmányi ösztöndíjra jogosító szakképesítéseiről szóló 297/2015. (X. 13.) Korm. rendelet 2. melléklet 2. alcímében foglalt táblázat a következő 11a sorral egészül ki:
+
+| (1 | Fenntartó neve | Fenntartói kód) |
+
+## „
+
+| 11a | Az állami köznevelési közfeladat ellátásában fenntartóként részt vevő tankerületi központ | KLIK |
+
+## ”
+
+2. Hatályát veszti a 2016/2017. tanévre vonatkozó szakmaszerkezeti döntésről és a 2016/2017. tanévben induló képzések tanulmányi ösztöndíjra jogosító szakképesítéseiről szóló 297/2015. (X. 13.) Korm. rendelet 2. melléklet 2. alcímében foglalt táblázat 83. sora.

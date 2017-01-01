@@ -6,11 +6,14 @@ a) felsőfokú végzettséggel és szakképzettséggel,
 
 b) legalább ötéves vezetői gyakorlattal, és
 
-c)[^4] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
+c)[^1] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
 
 ## rendelkezik.
 
-(3)–(5)[^5]
+(3) Az igazgatót és a tankerületi központ gazdasági vezetőjét a Klebelsberg Központ elnöke javaslatára az oktatásért felelős miniszter nevezi ki, menti fel, bízza meg, illetve vonja vissza megbízását. Az igazgatóval és a tankerületi központ gazdasági vezetőjével kapcsolatos egyéb munkáltatói jogokat a Klebelsberg Központ elnöke gyakorolja.
 
-[^4]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
-[^5]: A 10. § (3)–(5) bekezdése a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+(4) Az igazgató – az Nkt. 61. § (6) és (8) bekezdésében, valamint 68. §-ában meghatározott egyes munkáltatói jogok kivételével – gyakorolja a tankerületi központban foglalkoztatottak felett a munkáltatói jogokat. A munkáltatói jogok gyakorlását az igazgató vezetői munkakört betöltő kormánytisztviselőre vagy vezetői megbízással rendelkező közalkalmazottra átruházhatja.
+
+(5) A tankerületi központ költségvetése terhére a köznevelési közfeladat-ellátásban részt vevő, tankerületi központ fenntartásában lévő köznevelési intézmény a tankerületi központ 5. § (2) bekezdés 9. pontja szerinti belső szabályzatában meghatározott összeg erejéig és kiadási jogcímen átruházott hatáskörben kötelezettséget vállalhat és kiadás teljesítését kezdeményezheti.
+
+[^1]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.

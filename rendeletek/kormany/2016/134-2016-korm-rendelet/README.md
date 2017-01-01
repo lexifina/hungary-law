@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-134-20-
 | 2016-07-23 | 2016-134-20-22.3 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2016-09-01 | 2016-134-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-10-28 | 2016-134-20-22.5 | 324/2016. (X. 27.) Korm. rendelet |
+| 2017-01-01 | 2016-134-20-22.6 | 486/2016. (XII. 28.) Korm. rendelet |
