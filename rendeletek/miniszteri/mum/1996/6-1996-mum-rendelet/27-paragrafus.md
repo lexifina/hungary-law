@@ -88,27 +88,25 @@ x)[^224] egyedi támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 14. pont
 
 (4)[^227] A 11/A. §-ban, a 18/C. §-ban, a 21/A. §-ban, valamint a 26/G. §-ban meghatározott támogatások 1408/2013/EU bizottsági rendelet 3. cikke szerinti, mezőgazdasági termelőágazatban nyújtott csekély összegű támogatásként is nyújthatók. Mezőgazdasági termelőágazatban csekély összegű támogatást kizárólag az 1408/2013/EU bizottsági rendelet előírásaival összhangban lehet nyújtani. A kedvezményezettnek nyilatkoznia kell az előző 3 év támogatás tartalmáról. Nem kell alkalmazni az 1408/2013/EU bizottsági rendeletben foglaltakat, ha a támogatást kérő költségvetési szerv, egyesület, alapítvány, közalapítvány, köztestület, nemzetiségi önkormányzat vagy nonprofit gazdasági társaság, amennyiben az általa támogatott tevékenység nem minősül gazdasági tevékenységnek.
 
-(5)[^228] Az Flt. 58. § (5) bekezdés m) pontjában meghatározott feltételeknek az a személy felel meg:
+(5)[^228] Az Flt. 58. § (5) bekezdés m) pontjában meghatározott feltételeknek az a személy felel meg,
 
-a) akinél a munkaképesség-csökkenés mértéke az Országos Orvosszakértői Intézetének , vasutas biztosítottak esetében a Magyar Államvasutak Orvosszakértői Intézetének igazolása szerint legalább az 50 százalékot eléri,
+a) akinek a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50%-os mértékű, vagy a 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint munkaképességét legalább 67%-ban elvesztette,
 
-b) akinek az össz-szervezeti egészségkárosodása az Országos Rehabilitációs Szakértői Intézet minősítése szerint legalább 40 százalékos mértékű,
+b) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése szerint legfeljebb 60 százalékos mértékű,
 
-c) akinek az egészsége a rehabilitációs hatóság komplex minősítése szerint legfeljebb 60 százalékos mértékű,
+c) aki fogyatékossági támogatásban részesül,
 
-d) aki fogyatékossági támogatásra jogosult,
+d) aki vakok személyi járadékában részesül,
 
-e) aki vakok személyi járadékában részesül,
+e) az összevont adóalap adóját csökkentő kedvezmény igénybevétele szempontjából súlyos fogyatékosságnak minősülő betegségekről szóló 335/2009. (XII. 29.) Korm. rendelet, illetve a súlyos fogyatékosság minősítéséről és igazolásáról szóló 49/2009. (XII. 29.) EüM rendelet szerinti szakorvosi igazolással rendelkezik fogyatékosságnak minősülő betegségekről az összevont adóalap adóját csökkentő kedvezmény igénybevételéhez,
 
-f) az összevont adóalap adóját csökkentő kedvezmény igénybevétele szempontjából súlyos fogyatékosságnak minősülő betegségekről szóló 335/2009. (XII. 29). Korm. rendelet, illetve a súlyos fogyatékosság minősítéséről és igazolásáról szóló 49/2009. (XII. 29.) EüM rendelet szerinti szakorvosi igazolással rendelkezik fogyatékosságnak minősülő betegségekről az összevont adóalap adóját csökkentő kedvezmény igénybevételéhez,
+f) aki a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet alapján a rehabilitációs szakértői szerv szakvéleménye szerint súlyos mozgáskorlátozottnak minősül,
 
-g) aki a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet alapján, a Nemzeti Rehabilitációs és Szociális Hivatal szakvéleménye szerint súlyos mozgáskorlátozottnak minősül,
+g) aki audiológiai szakvélemény alapján mindkét fülre legalább 60 százalékban elvesztette hallását, vagy
 
-h) aki audiológiai szakvélemény alapján mindkét fülre legalább 60 százalékban elvesztette hallását, vagy
+h) aki az a)–g) pontban foglaltak szerinti károsodást nem tud igazolni, de egészségkárosodása, fogyatékossága fennáll és foglalkozás-egészségügyi szakellátó hely szakvéleménye alapján megállapítható, hogy munkavállalási és munkahely megtartási esélyei testi vagy szellemi károsodása miatt csökkentek.
 
-i) aki az a)–h) pontokban foglaltak szerinti károsodást nem tud igazolni, de egészségkárosodása, fogyatékossága fennáll és foglalkozás-egészségügyi szakellátó hely szakvéleménye alapján megállapítható, hogy munkavállalási és munkahely megtartási esélyei testi vagy szellemi károsodása miatt csökkentek.
-
-(6)[^229] A bértámogatással, valamint a 11/A. §-ban meghatározott bérköltség támogatással kapcsolatos ügyekben a munkaadó által foglalkoztatni kívánt személy lakóhelye, tartózkodási helye vagy ennek hiányában értesítési címe szerint illetékes kirendeltség jár el.
+(6)[^229] A bértámogatással, valamint a 11/A. §-ban meghatározott bérköltség támogatással kapcsolatos ügyekben a munkaadó által foglalkoztatni kívánt személy lakóhelye, tartózkodási helye vagy ennek hiányában értesítési címe szerint illetékes járási hivatal jár el.
 
 (7)[^230] A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadóak.
 
@@ -184,8 +182,8 @@ b) a foglalkoztatási alaprészből nyújtott támogatásokkal összefüggésben
 [^225]: A 27. § (2) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (16) bekezdésével megállapított szöveg.
 [^226]: A 27. § új (3) bekezdését a 31/2004. (XII. 21.) FMM rendelet 10. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. A 27. § (3) bekezdése a 8/2015. (III. 30.) NGM rendelet 10. § (9) bekezdésével megállapított szöveg.
 [^227]: A 27. § új (4) bekezdését a 10/2009. (IV. 14.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (12) bekezdésre változtatva. A 27. § (4) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte, újonnan a 17/2012. (VII. 5.) NGM rendelet 3. § (9) bekezdése iktatta be, szövege a 8/2015. (III. 30.) NGM rendelet 10. § (9) bekezdésével megállapított szöveg.
-[^228]: A 27. § (5) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte, újonnan a 66/2013. (XII. 23.) NGM rendelet 12. § (1) bekezdése iktatta be.
-[^229]: A 27. § új (6) bekezdését a 10/2009. (IV. 14.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (14) bekezdésre változtatva. A 27. § (6) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte, újonnan a 8/2015. (III. 30.) NGM rendelet 10. § (10) bekezdése iktatta be.
+[^228]: A 27. § (5) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte, újonnan a 66/2013. (XII. 23.) NGM rendelet 12. § (1) bekezdése iktatta be, szövege a 62/2016. (XII. 29.) NGM rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^229]: A 27. § új (6) bekezdését a 10/2009. (IV. 14.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (14) bekezdésre változtatva. A 27. § (6) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte, újonnan a 8/2015. (III. 30.) NGM rendelet 10. § (10) bekezdése iktatta be, szövege a 62/2016. (XII. 29.) NGM rendelet 47. § (2) bekezdése szerint módosított szöveg.
 [^230]: A 27. § új (7) bekezdését a 10/2009. (IV. 14.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (15) bekezdésre változtatva. A 27. § (7) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte, újonnan a 8/2015. (III. 30.) NGM rendelet 10. § (10) bekezdése iktatta be.
 [^231]: A 27. § új (8) bekezdését a 10/2009. (IV. 14.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (16) bekezdésre változtatva. A 27. § (8) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte.
 [^232]: A 27. § új (9) bekezdését a 10/2009. (IV. 14.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdés számozását (17) bekezdésre változtatva. A 27. § (9) bekezdését a 3/2012. (II. 10.) NGM rendelet 3. § (19) bekezdés g) pontja hatályon kívül helyezte.
