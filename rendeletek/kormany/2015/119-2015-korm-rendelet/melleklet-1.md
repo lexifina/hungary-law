@@ -20,7 +20,7 @@ A Nemzeti Hauszmann-terv keretében a Budavári Palota épületegyütteshez kapc
 
 8. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-9. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^1] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -47,3 +47,5 @@ A Nemzeti Hauszmann-terv keretében a Budavári Palota épületegyütteshez kapc
 21. az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, melyek a Beruházások megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 100. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
