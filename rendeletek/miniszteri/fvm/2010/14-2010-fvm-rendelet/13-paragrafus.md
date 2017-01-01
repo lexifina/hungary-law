@@ -1,5 +1,5 @@
-## 12. §[^19]
+## 12. §[^22]
 
 ## Átcsoportosítás
 
-[^19]: A 12. §-t az 52/2015. (IX. 7.) FM rendelet 13. § d) pontja hatályon kívül helyezte.
+[^22]: A 12. §-t az 52/2015. (IX. 7.) FM rendelet 13. § d) pontja hatályon kívül helyezte.

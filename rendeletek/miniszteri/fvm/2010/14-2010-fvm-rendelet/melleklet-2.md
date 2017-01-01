@@ -4,7 +4,7 @@
 
 ## b) Állattenyésztési Teljesítményvizsgáló Kft. Gödöllői Nyerstejminősítő Laboratórium.
 
-2. melléklet a 14/2010. (II. 23.) FVM rendelethez[^31]
+2. melléklet a 14/2010. (II. 23.) FVM rendelethez[^34]
 
 A tejegyenérték meghatározása során a térfogat (liter) tömegre (kilogramm) történő átváltása esetén alkalmazandó képlet
 
@@ -22,4 +22,4 @@ A tejegyenérték meghatározása során a térfogat (liter) tömegre (kilogramm
 
 | 1 kg sajt | = 10 kg tej. |
 
-[^31]: A 2. melléklet az 52/2015. (IX. 7.) FM rendelet 11. §-ával megállapított szöveg.
+[^34]: A 2. melléklet az 52/2015. (IX. 7.) FM rendelet 11. §-ával megállapított szöveg.

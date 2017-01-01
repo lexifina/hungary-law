@@ -12,7 +12,7 @@
 
 5.[^2] tejtermelő gazdasága (a továbbiakban: gazdaság): a tejtermelő által irányított, Magyarország területén található összes termelőegység;
 
-6.[^3] jóváhagyott felvásárló: olyan, a Tv. szerint nyilvántartásba vett és e rendelet szerinti felvásárlóként nyilvántartott természetes vagy jogi személy, illetve egyéb szervezet, aki vagy amely a termelői nyerstejet a tejtermelőtől azért veszi át, hogy azt – akár bérfeldolgozás keretében – gyűjtő, csomagoló, hűtő vagy feldolgozó folyamatnak vesse alá vagy értékesítse, vagy azt egy vagy több olyan vállalkozásnak továbbadja, amely tejet vagy tejterméket kezel vagy feldolgoz, és e tevékenységének folytatásához a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) jóváhagyásával rendelkezik, továbbá egyazon földrajzi terület felvásárlóinak olyan szövetkezése, amely tagjai számára fizetési kötelezettség teljesítésével kapcsolatosan előírt adminisztrációs és könyvviteli tevékenységet végez;
+6.[^3] jóváhagyott felvásárló: olyan, a Tv. szerint nyilvántartásba vett és e rendelet szerinti felvásárlóként nyilvántartott természetes vagy jogi személy, illetve egyéb szervezet, aki vagy amely a termelői nyerstejet a tejtermelőtől azért veszi át, hogy azt – akár bérfeldolgozás keretében – gyűjtő, csomagoló, hűtő vagy feldolgozó folyamatnak vesse alá vagy értékesítse, vagy azt egy vagy több olyan vállalkozásnak továbbadja, amely tejet vagy tejterméket kezel vagy feldolgoz, és e tevékenységének folytatásához a Magyar Államkincstár (a továbbiakban: Kincstár) jóváhagyásával rendelkezik, továbbá egyazon földrajzi terület felvásárlóinak olyan szövetkezése, amely tagjai számára fizetési kötelezettség teljesítésével kapcsolatosan előírt adminisztrációs és könyvviteli tevékenységet végez;
 
 7.[^4]
 
@@ -38,7 +38,7 @@
 
 [^1]: Az 1. § 4. pontja a 22/2014. (III. 14.) VM rendelet 75. §-a szerint módosított szöveg.
 [^2]: Az 1. § 5. pontja az 5/2012. (II. 10.) VM rendelet 47. §-a szerint módosított szöveg.
-[^3]: Az 1. § 6. pontja az 52/2015. (IX. 7.) FM rendelet 7. §-ával megállapított szöveg.
+[^3]: Az 1. § 6. pontja az 52/2015. (IX. 7.) FM rendelet 7. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 42. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § 7. pontját az 52/2015. (IX. 7.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
 [^5]: Az 1. § 11–16. pontját az 52/2015. (IX. 7.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § 18–20. pontját az 52/2015. (IX. 7.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
