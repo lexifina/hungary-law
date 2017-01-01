@@ -14,7 +14,7 @@ végzett közúti fuvarozással járó tevékenység.
 
 (2) Nem tartozik az EKAER hatálya alá az alábbi termékekkel végzett közúti fuvarozással járó tevékenység:
 
-a) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szerinti alkoholtermék, sör, bor, pezsgő, köztes alkoholtermék, dohánygyártmány, szárított dohány, ellenőrzött ásványolajtermék, bioetanol, biodízel, E85,
+a)[^3] a jövedéki adóról szóló törvény szerinti alkoholtermék, sör, csendes bor, habzóbor, egyéb csendes erjesztett ital, egyéb habzó erjesztett ital, köztes alkoholtermék, dohánygyártmány, szárított és fermentált dohány, ellenőrzött energiatermék,
 
 b) a hatályos vámjogszabály szerinti vámfelügyelet alatt álló termék,
 
@@ -26,17 +26,18 @@ e) az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpia
 
 f) a postai szolgáltatásokról szóló törvény szerint postai küldeményként feladott termék,
 
-g)[^3] ugyanazon feladótól ugyanazon címzett részére ugyanazon útdíjköteles gépjárművel, továbbá a 3,5 tonna össztömeget meghaladó gépjárművel egy fuvarozás keretében szállítandó nem kockázatos termékek, ha azok együttes bruttó tömege a 2500 kg-ot és azok együttes adó nélküli értéke az 5 millió forintot nem haladja meg,
+g)[^4] ugyanazon feladótól ugyanazon címzett részére ugyanazon útdíjköteles gépjárművel, továbbá a 3,5 tonna össztömeget meghaladó gépjárművel egy fuvarozás keretében szállítandó nem kockázatos termékek, ha azok együttes bruttó tömege a 2500 kg-ot és azok együttes adó nélküli értéke az 5 millió forintot nem haladja meg,
 
 h) ugyanazon feladótól ugyanazon címzett részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó kockázatos termékek, ha azok együttes bruttó tömege az 500 kg-ot és azok együttes adó nélküli ellenértéke az 1 millió forintot nem haladja meg,
 
-i)[^4] a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet hatálya alá tartozó biztonsági okmányok, valamint azok alapanyagai és félkész termékei,
+i)[^5] a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet hatálya alá tartozó biztonsági okmányok, valamint azok alapanyagai és félkész termékei,
 
-j)[^5] az egyes áruk, szolgáltatások és anyagi értéket képviselő jogok vámhatárt vagy országhatárt átlépő kereskedelméről szóló 52/2012. (III. 28.) Korm. rendelet szerinti engedéllyel rendelkező biztonsági papír,
+j)[^6] az egyes áruk, szolgáltatások és anyagi értéket képviselő jogok vámhatárt vagy országhatárt átlépő kereskedelméről szóló 52/2012. (III. 28.) Korm. rendelet szerinti engedéllyel rendelkező biztonsági papír,
 
-k)[^6] a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (2) bekezdése szerinti bankjegy- és érmekibocsátás keretében szállított termék, ideértve azok alapanyagait és az előállítására szolgáló eszközöket is.
+k)[^7] a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (2) bekezdése szerinti bankjegy- és érmekibocsátás keretében szállított termék, ideértve azok alapanyagait és az előállítására szolgáló eszközöket is.
 
-[^3]: A 4. § (2) bekezdés g) pontja a 38/2016. (X. 12.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^4]: A 4. § (2) bekezdés i) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.
-[^5]: A 4. § (2) bekezdés j) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.
-[^6]: A 4. § (2) bekezdés k) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.
+[^3]: A 4. § (2) bekezdés a) pontja a 38/2016. (X. 12.) NGM rendelet 9. §-ával megállapított szöveg.
+[^4]: A 4. § (2) bekezdés g) pontja a 38/2016. (X. 12.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés i) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.
+[^6]: A 4. § (2) bekezdés j) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.
+[^7]: A 4. § (2) bekezdés k) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.

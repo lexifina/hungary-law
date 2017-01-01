@@ -14,11 +14,11 @@ c) belföldön nem közvetlen végfelhasználó részére történő első álta
 
 (3) Ha a terméket egymást követően többször értékesítik úgy, hogy azt csak egy alkalommal fuvarozzák el közúton, az (1) bekezdés c) pontját arra a termékértékesítésre kell alkalmazni, amely során a terméket elfuvarozzák. Amennyiben a terméket olyan adózó fuvarozza vagy fuvaroztatja el, aki (amely) ezen értékesítések láncolatában címzett és egyúttal feladó, úgy kell tekinteni, mint aki (amely) a termék fuvarozását vagy fuvaroztatását feladóként végzi.
 
-(4)[^2] Ha a terméket a termelő külön jogszabály szerint elismert termelői csoporton, termelői szervezeten keresztül értékesíti, vagy a terméket a földművelésügyi feladatkörében eljáró megyei kormányhivatal nyilvántartásában szereplő Integrátor szervezet részére értékesíti, az (1) bekezdés c) pontját a termelői csoport, termelői szervezet, vagy a kormányhivatal földművelésügyi igazgatósága nyilvántartásában szereplő Integrátor szervezet által történő termékértékesítésre kell alkalmazni.
+(4)[^2] Ha a terméket a termelő külön jogszabály szerint elismert termelői csoporton, termelői szervezeten keresztül értékesíti, vagy a terméket a megyei kormányhivatal földművelésügyi feladatkörében eljáró megyeszékhely szerinti járási hivatala nyilvántartásában szereplő Integrátor szervezet részére értékesíti, az (1) bekezdés c) pontját a termelői csoport, termelői szervezet, vagy a megyei kormányhivatal földművelésügyi feladatkörében eljáró megyeszékhely szerinti járási hivatala nyilvántartásában szereplő Integrátor szervezet által történő termékértékesítésre kell alkalmazni.
 
 (5) Az (1)–(4) bekezdés szabályait alkalmazni kell a kockázatos termékek esetében akkor is, ha a terméket olyan gépjárművel fuvarozzák, amely nem útdíjköteles, és egy fuvarozás keretében ugyanazon feladótól ugyanazon címzett részére fuvarozott termékek együttes bruttó tömege az 500 kg-ot vagy azok együttes adó nélküli ellenértéke az 1 millió forintot meghaladja.
 
 (6) Ha az (1) bekezdés c) pontjában meghatározott termékértékesítés során a nem kockázatos terméket a címzett fuvarozza vagy fuvaroztatja el, e rendelet alkalmazásában közúti fuvarozással járó tevékenységet végző adózónak kell tekinteni.
 
 [^1]: A 3. § (1) bekezdés nyitó szövegrésze a 38/2016. (X. 12.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
-[^2]: A 3. § (4) bekezdése a 9/2015. (III. 31.) NGM rendelet 57. §-a szerint módosított szöveg.
+[^2]: A 3. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 42. §-ával megállapított szöveg.

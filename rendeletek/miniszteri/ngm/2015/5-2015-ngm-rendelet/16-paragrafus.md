@@ -28,7 +28,7 @@ a) elkülönített letéti számlára történő befizetéssel,
 
 b) pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás által vállalt, az állami adó- és vámhatóság által nyilvántartásba vett garancia útján.
 
-(8)[^9] Mentesül a biztosítékadási kötelezettség alól az az adózó, aki
+(8)[^10] Mentesül a biztosítékadási kötelezettség alól az az adózó, aki
 
 a) az állami adó- és vámhatóság által vezetett minősített adózói adatbázisban szerepel,
 
@@ -56,4 +56,4 @@ d) ha az adózó a biztosíték nyújtását követően megfelel a (8) bekezdés
 
 (14) A biztosíték összegét az Art. 167. § (1) bekezdése szerinti nettó pótlékszámítás során nem kell figyelembe venni.
 
-[^9]: A 16. § (8) bekezdése a 47/2015. (XII. 30.) NGM rendelet 24. §-ával megállapított szöveg.
+[^10]: A 16. § (8) bekezdése a 47/2015. (XII. 30.) NGM rendelet 24. §-ával megállapított szöveg.
