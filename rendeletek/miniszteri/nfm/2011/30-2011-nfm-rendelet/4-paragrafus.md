@@ -8,7 +8,7 @@ b) dízelgázolaj esetében az MSZ EN 590,
 
 c) biodízel esetében az MSZ EN 14214,
 
-d)[^5] E85 esetében a CEN/TS 15293
+d)[^6] E85 esetében a CEN/TS 15293
 
 legkésőbbi évjelzetű termékszabványban megadott analitikai módszerrel, vagy más egyenértékű pontosságú analitikai módszer alkalmazásával kell elvégezni.
 
@@ -26,4 +26,4 @@ b) a vizsgálati jegyzőkönyv a tanúsítási kérelem tárgyát képező motor
 
 (6) A tanúsítást kérő az (5) bekezdés szerinti kötelezettségének az a) pont esetében az akkreditált laboratórium azonosításához szükséges adatok, a b) pont esetében a szállítási dokumentáció (fuvarokmány és minőségi bizonyítvány) rendelkezésre bocsátásával tesz eleget.
 
-[^5]: A 4. § (1) bekezdés d) pontja az 54/2012. (IX. 17.) NFM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdés d) pontja az 54/2012. (IX. 17.) NFM rendelet 5. § (2) bekezdése szerint módosított szöveg.

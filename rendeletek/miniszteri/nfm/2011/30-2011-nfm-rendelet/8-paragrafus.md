@@ -20,6 +20,6 @@ szerint vagy azzal egyenértékű módszerrel végzi.
 
 (4) A jelentést az üzemanyagok minőségére vonatkozó nemzeti adatokat összefoglaló beadvány egységes formájáról szóló, 2002. február 18-i 2002/159/EK bizottsági határozat mellékletének megfelelően kell elkészíteni.
 
-(5)[^6] Ha a közreműködő szervezet a mintavételezés vagy a vizsgálat során jogsértést észlel, erre – a hatósági eljárás lefolytatásához szükséges adatok megküldésével – felhívja a fogyasztóvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal és az állami adóhatóságot.
+(5)[^7] Ha a közreműködő szervezet a mintavételezés vagy a vizsgálat során jogsértést észlel, erre – a hatósági eljárás lefolytatásához szükséges adatok megküldésével – felhívja a fogyasztóvédelmi hatóságot és az állami adóhatóságot.
 
-[^6]: A 8. § (5) bekezdése a 15/2015. (III. 31.) NFM rendelet 24. § b) pontja szerint módosított szöveg.
+[^7]: A 8. § (5) bekezdése a 15/2015. (III. 31.) NFM rendelet 24. § b) pontja, a 73/2016. (XII. 29.) NFM rendelet 4. §-a szerint módosított szöveg.
