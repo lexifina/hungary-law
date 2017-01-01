@@ -1,6 +1,6 @@
-## 12. §[^7]
+## 12. §[^8]
 
-1. melléklet a 251/2014. (X. 2.) Korm. rendelethez[^8]
+1. melléklet a 251/2014. (X. 2.) Korm. rendelethez[^9]
 
 ## Kérelem
 
@@ -86,5 +86,5 @@ Aláírás:
 
 …………………………………....
 
-[^7]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^8]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
