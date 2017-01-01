@@ -1,0 +1,1 @@
+A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 45. § (4) és(5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
