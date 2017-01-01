@@ -6,7 +6,7 @@
 
 (3) A Szakbizottság legfeljebb 6 fő szakértő tagból áll, akiket az iparügyekért felelős miniszter felkérésére a következő szervezetek vezetői delegálhatnak:
 
-a) Magyar Kereskedelmi Engedélyezési Hivatal (1 fő),
+a)[^5] a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala (1 fő),
 
 b) Magyar PB Gázipari Egyesület (1 fő),
 
@@ -14,8 +14,13 @@ c) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség (3 fő),
 
 d) Magyar Ipari Gáz Szövetség (1 fő).
 
-(4) A Szakbizottság összetételét a (3) bekezdésben foglaltak figyelembe vételével a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH) főigazgatójának javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter az MKEH Főigazgatójának javaslatára öt év időtartamra bízza meg.
+(4)[^6] A Szakbizottság összetételét a (3) bekezdésben foglaltak figyelembevételével a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalának javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
 
-(5) A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Műszaki Szakbizottság elnökét. A titkársági feladatok ellátásáról az MKEH gondoskodik.
+(5)[^7] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
 
-(6) A Szakbizottság a Műszaki Biztonsági Szabályzatban foglalt műszaki követelményrendszer értelmezésére irányelvet dolgozhat ki, melynek alkalmazása önkéntes. Az irányelveket az MKEH honlapján közzéteszi.
+(6)[^8] A Szakbizottság a Műszaki Biztonsági Szabályzatban foglalt műszaki követelményrendszer értelmezésére irányelvet dolgozhat ki, melynek alkalmazása önkéntes. Az irányelveket a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala honlapján közzéteszi.
+
+[^5]: A 33. § (3) bekezdés a) pontja a 62/2016. (XII. 29.) NGM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^6]: A 33. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^7]: A 33. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^8]: A 33. § (6) bekezdése a 62/2016. (XII. 29.) NGM rendelet 33. § (3) bekezdés b) pontja szerint módosított szöveg.

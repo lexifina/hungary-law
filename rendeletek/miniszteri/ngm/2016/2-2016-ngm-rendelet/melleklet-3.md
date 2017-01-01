@@ -1478,7 +1478,7 @@
 
 ## a) Nyomástartó berendezés kivitelezését csak az egyes hegesztett szerkezetek gyártását végző gazdálkodó szervezetek alkalmasságának igazolásáról szóló NGM rendelet szerinti, a hegesztett szerkezetek gyártására való alkalmasságot igazoló hatósági nyilvántartásban szereplő szervezet végezheti.
 
-## b) A földgázellátásról szóló 2008. évi XL. törvény 88. § (2) bekezdésben meghatározott gázszerelési munkák elvégzésére az a gázszerelő jogosult, akit a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága a gázszerelők – a gázszerelők engedélyezéséről és nyilvántartásáról szóló 30/2009. (XI. 26.) NFGM rendelet szerinti – hatósági nyilvántartásába felvett. Ez nem zárja ki, és nem helyettesíti a hegesztővel szemben támasztott minősítési követelmények teljesülését, ha a kivitelezési munka ezt szükségessé teszi, továbbá ha a létesítésre vonatkozó előírások további követelmények teljesülését is megkövetelik.
+## b) A földgázellátásról szóló 2008. évi XL. törvény 88. § (2) bekezdésben meghatározott gázszerelési munkák elvégzésére az a gázszerelő jogosult, akit a fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala a gázszerelők – a gázszerelők engedélyezéséről és nyilvántartásáról szóló 30/2009. (XI. 26.) NFGM rendelet szerinti – hatósági nyilvántartásába felvett. Ez nem zárja ki, és nem helyettesíti a hegesztővel szemben támasztott minősítési követelmények teljesülését, ha a kivitelezési munka ezt szükségessé teszi, továbbá ha a létesítésre vonatkozó előírások további követelmények teljesülését is megkövetelik.
 
 ## 4.4.2.4. Alépítményi munkák:
 

@@ -112,6 +112,7 @@ c) a gázt szállítható nyomástartó berendezésből nyomástartó berendezé
 
 35. Vizsgáló szakember: a Kormány által rendeletben meghatározott szakirányú szakképzettséggel és szakmai gyakorlattal rendelkező, a nyomástartó berendezések ellenőrzésével, vizsgálatával megbízott személy.
 
-36. Vizsgáló szervezet: a Kormány által rendeletben meghatározott műszaki-biztonsági irányítási rendszer (a továbbiakban: MBIR) működtetésében közreműködő, a nyomástartó berendezések időszakos vizsgálatára a Magyar Kereskedelmi Engedélyezési Hivatal által kijelölt ellenőrző szervezet.
+36.[^4] Vizsgáló szervezet: a Kormány által rendeletben meghatározott műszaki-biztonsági irányítási rendszer (a továbbiakban: MBIR) működtetésében közreműködő, a nyomástartó berendezések időszakos vizsgálatára a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala által kijelölt ellenőrző szervezet.
 
 [^3]: A 2. § 34. pontja a 44/2016. (XI. 28.) NGM rendelet 52. § (3) bekezdésével megállapított szöveg.
+[^4]: A 2. § 36. pontja a 62/2016. (XII. 29.) NGM rendelet 33. § (3) bekezdés a) pontja szerint módosított szöveg.
