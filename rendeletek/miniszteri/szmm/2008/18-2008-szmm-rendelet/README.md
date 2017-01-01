@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-18-20-1
 | 2013-07-04 | 2008-18-20-1X.5 | 17/2013. (VI. 4.) NGM rendelet |
 | 2015-01-01 | 2008-18-20-1X.6 | 3/2012. (II. 10.) NGM rendelet |
 | 2016-03-01 | 2008-18-20-1X.7 | 7/2016. (II. 22.) NGM rendelet |
+| 2017-01-01 | 2008-18-20-1X.8 | 4/2018. (II. 28.) NGM rendelet |

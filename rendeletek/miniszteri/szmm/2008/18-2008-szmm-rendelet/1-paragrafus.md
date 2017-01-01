@@ -1,4 +1,4 @@
-1. § (1)[^1] E rendeletnek az egyéni védőeszközök (a továbbiakban: védőeszköz) forgalomba hozatalával összefüggő rendelkezéseit akkor kell alkalmazni, ha a védőeszköz forgalomba hozatala
+1. § (1)[^2] E rendeletnek az egyéni védőeszközök (a továbbiakban: védőeszköz) forgalomba hozatalával összefüggő rendelkezéseit akkor kell alkalmazni, ha a védőeszköz forgalomba hozatala
 
 a) az Európai Unió tagállamát,
 
@@ -10,4 +10,4 @@ c) olyan államot, amelynek állampolgára az Európai Közösség és tagállam
 
 (2) Külön jogszabály vonatkozik az ionizáló sugárzás elleni védőeszközök megfelelőségének a vizsgálatára és tanúsítására.
 
-[^1]: Az 1. § (1) bekezdés záró szövegrésze a 25/2012. (VIII. 23.) NGM rendelet 16. §-a alapján módosított szöveg.
+[^2]: Az 1. § (1) bekezdés záró szövegrésze a 25/2012. (VIII. 23.) NGM rendelet 16. §-a alapján módosított szöveg.

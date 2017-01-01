@@ -22,9 +22,9 @@ c) a követelményeknek meg nem felelő EK-jelöléssel van ellátva,
 
 (6) A használó kérelmére a védőeszköz időszakos felülvizsgálatát a gyártó vagy bejelentett szervezet végzi el.
 
-(7)[^6] Ha az piacfelügyeleti hatóság a védőeszközzel kapcsolatosan külön jogszabály szerinti piacfelügyeleti intézkedést alkalmaz, erről haladéktalanul tájékoztatja az Európai Bizottságot, megjelölve az intézkedés indokait, különösen, ha a meg nem felelés oka a 3. számú melléklet szerinti alapvető követelmények be nem tartása, vagy a honosított harmonizált szabványok alkalmazása esetén ezek helytelen alkalmazása vagy hiányossága.
+(7)[^7] Ha az piacfelügyeleti hatóság a védőeszközzel kapcsolatosan külön jogszabály szerinti piacfelügyeleti intézkedést alkalmaz, erről haladéktalanul tájékoztatja az Európai Bizottságot, megjelölve az intézkedés indokait, különösen, ha a meg nem felelés oka a 3. számú melléklet szerinti alapvető követelmények be nem tartása, vagy a honosított harmonizált szabványok alkalmazása esetén ezek helytelen alkalmazása vagy hiányossága.
 
-(8)[^7] A piacfelügyeleti hatóság a harmonizált szabványokkal szembeni kifogásokról az 1025/2012/EU európai parlamenti és tanácsi rendelet 11. cikke alapján értesíteni köteles az Európai Bizottságot.
+(8)[^8] A piacfelügyeleti hatóság a harmonizált szabványokkal szembeni kifogásokról az 1025/2012/EU európai parlamenti és tanácsi rendelet 11. cikke alapján értesíteni köteles az Európai Bizottságot.
 
-[^6]: A 13. § (7) bekezdése a 17/2013. (VI. 4.) NGM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^7]: A 13. § (8) bekezdését a 7/2016. (II. 22.) NGM rendelet 7. § (1) bekezdése iktatta be.
+[^7]: A 13. § (7) bekezdése a 17/2013. (VI. 4.) NGM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^8]: A 13. § (8) bekezdését a 7/2016. (II. 22.) NGM rendelet 7. § (1) bekezdése iktatta be.

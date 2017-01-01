@@ -6,6 +6,6 @@
 
 (2) E rendelet a hatálybalépése előtt kiadott EK-típustanúsítványok érvényességét nem érinti.
 
-(3)[^9]
+(3)[^10]
 
-[^9]: A 23. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^10]: A 23. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
