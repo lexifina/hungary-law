@@ -1,6 +1,6 @@
 ## A határozat tartalma
 
-79. §[^512] (1) A gyámhivatal az otthonteremtési támogatásról szóló határozata rendelkező részében a 14. §-ban foglaltakon túl
+79. §[^519] (1) A gyámhivatal az otthonteremtési támogatásról szóló határozata rendelkező részében a 14. §-ban foglaltakon túl
 
 a) jóváhagyja az otthonteremtési támogatás iránti kérelemben megjelölt célt és a pénzfelhasználási tervet,
 
@@ -42,4 +42,4 @@ c) tájékoztatja a fiatal felnőttet, hogy a lakás-előtakarékossági program
 
 d) tájékoztatja a fiatal felnőttet a felhasználás elfogadásának feltételeiről és figyelmezteti a nem cél szerint felhasznált otthonteremtési támogatás visszafizetésének kötelezettségére.
 
-[^512]: A 79. § a 116/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^519]: A 79. § a 116/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.

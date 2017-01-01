@@ -16,7 +16,7 @@ ba) kötelező gyermekvédelmi közvetítői eljárás, vagy
 
 bb) kötelező támogatott közvetítői eljárás.
 
-(3)[^115] A gyermekvédelmi közvetítői eljárás és a kötelező gyermekvédelmi közvetítői eljárás során a felek választása alapján a Nemzeti Rehabilitációs és Szociális Hivatal Országos Gyermekvédelmi Szakértői Névjegyzékébe vagy a közvetítői névjegyzékbe (a továbbiakban együtt: névjegyzékek) felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás és a kötelező támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
+(3)[^115] A gyermekvédelmi közvetítői eljárás és a kötelező gyermekvédelmi közvetítői eljárás során a felek választása alapján az Országos Gyermekvédelmi Szakértői Névjegyzékbe vagy a közvetítői névjegyzékbe (a továbbiakban együtt: névjegyzékek) felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás és a kötelező támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
 
 (4)[^116] A névjegyzékek a gyámhivatal és a család- és gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ hivatali helyiségében is megtekinthetők.
 
@@ -48,6 +48,6 @@ c) – gyermekvédelmi közvetítői eljárás vagy kötelező gyermekvédelmi k
 
 [^113]: A 30/A. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^114]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^115]: A 30/A. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 174. §-a szerint módosított szöveg.
+[^115]: A 30/A. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 174. §-a, a 379/2016. (XII. 2.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^116]: A 30/A. § (4) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 5. pontja szerint módosított szöveg.
 [^117]: A 30/A. § (7) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 10. pontja szerint módosított szöveg.

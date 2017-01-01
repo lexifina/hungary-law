@@ -1,4 +1,4 @@
-## XI/A. Fejezet[^530]
+## XI/A. Fejezet[^537]
 
 ## A hátrányos, halmozottan hátrányos helyzet fennállásának megállapítása
 
@@ -12,21 +12,22 @@ b) a 3. számú melléklet A) lapja „I) Személyi adatok” 1–3. pontjának 
 
 a) a szülő, családbafogadó gyám alacsony iskolai végzettsége tekintetében a gyermeket együtt nevelő mindkét szülő, a gyermeket egyedül nevelő szülő, a családbafogadó gyám iskolai végzettségre vonatkozó önkéntes adatszolgáltatása,
 
-b)[^531] az alacsony foglalkoztatottság tekintetében az Szt. 18. §-a alapján vezetett nyilvántartása vagy az Szt. 33. §-a szerinti ellátásra való jogosultság hiányában az állami foglalkoztatási szervnek a gyermeket nevelő szülők bármelyikének, a családbafogadó gyámnak az álláskeresőként történő nyilvántartásáról szóló igazolása,
+b)[^538] az alacsony foglalkoztatottság tekintetében az Szt.18/B. §-a alapján vezetett nyilvántartás adatai vagy az Szt. 33. §-a szerinti ellátásra való jogosultság hiányában az állami foglalkoztatási szervnek a gyermeket nevelő szülők bármelyikének, a családbafogadó gyámnak az álláskeresőként történő nyilvántartásáról szóló igazolása,
 
-c)[^532] a településre vonatkozó integrált településfejlesztési stratégia szegregátum meghatározása, vagy ennek hiányában a lakókörnyezet, illetve lakáskörülmények tekintetében az elvégzett vagy beszerzett, 3/A. melléklet szerinti környezettanulmány vagy a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 2. számú melléklet IV. számú adatlapja szerinti, hat hónapnál nem régebbi, ugyanazon a címen elvégzett környezettanulmány
+c)[^539] a településre vonatkozó integrált településfejlesztési stratégia szegregátum meghatározása, vagy ennek hiányában a lakókörnyezet, illetve lakáskörülmények tekintetében az elvégzett vagy beszerzett, 3/A. melléklet szerinti környezettanulmány vagy a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 2. számú melléklet IV. számú adatlapja szerinti, hat hónapnál nem régebbi, ugyanazon a címen elvégzett környezettanulmány
 
 alapján állapítja meg.
 
-(3)[^533] A (2) bekezdés c) pontja szerinti környezettanulmány elvégzésére a települési önkormányzat jegyzője felkérheti a család- és gyermekjóléti szolgálatot.
+(3)[^540] A (2) bekezdés c) pontja szerinti környezettanulmány elvégzésére a települési önkormányzat jegyzője felkérheti a család- és gyermekjóléti szolgálatot.
 
 (4) A hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza, hogy a hátrányos, halmozottan hátrányos helyzet fennállásának megállapítására a Gyvt. 67/A. § (1) bekezdésében foglalt mely ok alapján került sor.
 
 (5) A települési önkormányzat jegyzője a hátrányos, halmozottan hátrányos helyzetet megállapító határozatához – annak a szülő, családbafogadó gyám vagy a nagykorúvá vált gyermek részére történő közlésekor – tájékoztatót mellékel a hátrányos, halmozottan hátrányos helyzethez kapcsolódó jogosultságokról.
 
-(6) A települési önkormányzat jegyzője a hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozatát, a határozat jogerőre emelkedését követő öt napon belül tájékoztatásul megküldi annak a bölcsődének, nevelési-oktatási vagy felsőoktatási intézménynek, ahol a gyermek bölcsődei ellátásban részesül, vagy amellyel a gyermek (nagykorúvá vált gyermek) óvodai, tanulói vagy hallgatói jogviszonyban áll.
+(6)[^541] A települési önkormányzat jegyzője a hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozatát, a határozat jogerőre emelkedését követő öt napon belül tájékoztatásul megküldi annak a bölcsődei ellátást nyújtó intézménynek, szolgáltatónak, nevelési-oktatási vagy felsőoktatási intézménynek, ahol a gyermek bölcsődei ellátásban részesül, vagy amellyel a gyermek (nagykorúvá vált gyermek) óvodai, tanulói vagy hallgatói jogviszonyban áll.
 
-[^530]: A XI/A. Fejezetet (83/A. §) a 257/2013. (VII. 5.) Korm. rendelet 4. §-a iktatta be.
-[^531]: A 83/A. § (2) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 54. pontja szerint módosított szöveg.
-[^532]: A 83/A. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 55. pontja szerint módosított szöveg.
-[^533]: A 83/A. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
+[^537]: A XI/A. Fejezetet (83/A. §) a 257/2013. (VII. 5.) Korm. rendelet 4. §-a iktatta be.
+[^538]: A 83/A. § (2) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 54. pontja, a 448/2016. (XII. 19.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^539]: A 83/A. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 55. pontja szerint módosított szöveg.
+[^540]: A 83/A. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
+[^541]: A 83/A. § (6) bekezdése a 116/2016. (VI. 6.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

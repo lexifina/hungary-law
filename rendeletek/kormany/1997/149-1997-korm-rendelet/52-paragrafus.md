@@ -1,29 +1,29 @@
 ## Külföldi állampolgárságú gyermek örökbefogadására vonatkozó rendelkezések
 
-52. § (1)[^340] A kijelölt gyámhivatal a külföldi állampolgárságú gyermek örökbefogadására irányuló kérelem elbírálása előtt – feltéve, hogy az örökbe fogadni kívánt gyermek szokásos tartózkodási helye nem a Hágai Örökbefogadási Egyezményben részes államok valamelyikében van – a gyermek személyes jogának figyelembevételével
+52. § (1)[^344] A kijelölt gyámhivatal a külföldi állampolgárságú gyermek örökbefogadására irányuló kérelem elbírálása előtt – feltéve, hogy az örökbe fogadni kívánt gyermek szokásos tartózkodási helye nem a Hágai Örökbefogadási Egyezményben részes államok valamelyikében van – a gyermek személyes jogának figyelembevételével
 
 a) megvizsgálja az örökbefogadás feltételeit,
 
 b) beszerzi a gyermek állampolgársága szerinti ország illetékes hatóságának (bíróságának) az örökbefogadásra vonatkozó jóváhagyását,
 
-c)[^341] megkeresi a gyermekvédelmi szakszolgálatot az 51. § (3) bekezdésében foglalt szakmai vélemény elkészítése érdekében.
+c)[^345] megkeresi a gyermekvédelmi szakszolgálatot az 51. § (3) bekezdésében foglalt szakmai vélemény elkészítése érdekében.
 
-(2)[^342] Az örökbefogadást engedélyező határozat rendelkező része tartalmazza a 46. § (1) bekezdésében foglaltakon kívül az örökbefogadó és az örökbefogadandó gyermek állampolgárságának megjelölését, valamint a hazai anyakönyvezést végző hatóság megkeresését a gyermek születésének hazai anyakönyvezése érdekében.
+(2)[^346] Az örökbefogadást engedélyező határozat rendelkező része tartalmazza a 46. § (1) bekezdésében foglaltakon kívül az örökbefogadó és az örökbefogadandó gyermek állampolgárságának megjelölését, valamint a hazai anyakönyvezést végző hatóság megkeresését a gyermek születésének hazai anyakönyvezése érdekében.
 
 (3) A külföldi állampolgárságú gyermek örökbefogadási ügyében egyebekben az e rendelet örökbefogadásra vonatkozó szabályai szerint kell eljárni.
 
-(4)[^343] Ha a magyar állampolgárságú örökbefogadó külföldi állampolgárságú gyermeket fogadott örökbe külföldön, az örökbefogadó vagy az örökbefogadott kérheti a kijelölt gyámhivataltól a külföldi hatóság örökbefogadást engedélyező határozatának jóváhagyását. A kérelmet a korlátozottan cselekvőképes kiskorú örökbefogadott önállóan is előterjesztheti.
+(4)[^347] Ha a magyar állampolgárságú örökbefogadó külföldi állampolgárságú gyermeket fogadott örökbe külföldön, az örökbefogadó vagy az örökbefogadott kérheti a kijelölt gyámhivataltól a külföldi hatóság örökbefogadást engedélyező határozatának jóváhagyását. A kérelmet a korlátozottan cselekvőképes kiskorú örökbefogadott önállóan is előterjesztheti.
 
-(5)[^344] A jóváhagyás iránti kérelemhez az örökbefogadást engedélyező külföldi határozatot és a gyermek születését igazoló okmányt felülhitelesítéssel és hiteles magyar fordítással ellátva kell csatolni.
+(5)[^348] A jóváhagyás iránti kérelemhez az örökbefogadást engedélyező külföldi határozatot és a gyermek születését igazoló okmányt felülhitelesítéssel és hiteles magyar fordítással ellátva kell csatolni.
 
-(6)[^345] A kijelölt gyámhivatal az eljárás során az előterjesztett kérelem, a becsatolt dokumentumok és szükség esetén a felek meghallgatása alapján húsz napon belül dönt.
+(6)[^349] A kijelölt gyámhivatal az eljárás során az előterjesztett kérelem, a becsatolt dokumentumok és szükség esetén a felek meghallgatása alapján húsz napon belül dönt.
 
-(7)[^346] A kijelölt gyámhivatal akkor hagyja jóvá az örökbefogadást engedélyező külföldi határozatot, ha az örökbefogadás nem tartozik a Hágai Örökbefogadási Egyezmény hatálya alá, a jóváhagyás kérelmezésekor az örökbefogadott kiskorú és az örökbefogadás a magyar jogban meghatározott feltételeknek is megfelel.
+(7)[^350] A kijelölt gyámhivatal akkor hagyja jóvá az örökbefogadást engedélyező külföldi határozatot, ha az örökbefogadás nem tartozik a Hágai Örökbefogadási Egyezmény hatálya alá, a jóváhagyás kérelmezésekor az örökbefogadott kiskorú és az örökbefogadás a magyar jogban meghatározott feltételeknek is megfelel.
 
-[^340]: Az 52. § (1) bekezdésének bevezető mondata a 315/2005. (XII. 25.) Korm. rendelet 40. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^341]: Az 52. § (1) bekezdésének c) pontja a 315/2005. (XII. 25.) Korm. rendelet 40. §-ával megállapított, a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^342]: Az 52. § (2) bekezdése a 203/2003. (XII. 10.) Korm. rendelet 16. § (4) bekezdésének d) pontja, a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének c) pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 37. pontja szerint módosított szöveg.
-[^343]: Az 52. § (4) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 38. pontja szerint módosított szöveg.
-[^344]: Az 52. § (5) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be.
-[^345]: Az 52. § (6) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be.
-[^346]: Az 52. § (7) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be.
+[^344]: Az 52. § (1) bekezdésének bevezető mondata a 315/2005. (XII. 25.) Korm. rendelet 40. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^345]: Az 52. § (1) bekezdésének c) pontja a 315/2005. (XII. 25.) Korm. rendelet 40. §-ával megállapított, a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^346]: Az 52. § (2) bekezdése a 203/2003. (XII. 10.) Korm. rendelet 16. § (4) bekezdésének d) pontja, a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének c) pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 37. pontja szerint módosított szöveg.
+[^347]: Az 52. § (4) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 38. pontja szerint módosított szöveg.
+[^348]: Az 52. § (5) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be.
+[^349]: Az 52. § (6) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be.
+[^350]: Az 52. § (7) bekezdését a 97/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be.
