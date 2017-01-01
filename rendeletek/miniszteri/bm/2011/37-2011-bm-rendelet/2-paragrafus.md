@@ -10,6 +10,8 @@
 
 (4) A büntetés-végrehajtási szervnél – az őrzésvédelmi, az igazgatási és az informatikai szakterületen foglalkoztatott közalkalmazottak esetében – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
 
-(5) A BÁHBÁ-nál – a fizikai munkakörök kivételével – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
+(5)[^5] A Bevándorlási és Menekültügyi Hivatal befogadó állomásánál – a fizikai munkakörök kivételével – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
 
 (6) Az 1. § d)–f) pontjában felsorolt munkáltatóknál – a nemzetbiztonsági ellenőrzés alá tartozó munkakörök esetében – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
+
+[^5]: A 2. § (5) bekezdése az 58/2016. (XII. 22.) BM rendelet 28. § b) pontja szerint módosított szöveg.

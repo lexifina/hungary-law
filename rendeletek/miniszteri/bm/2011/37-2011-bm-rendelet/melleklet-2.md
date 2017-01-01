@@ -1,4 +1,4 @@
-## A) A rendőrségnél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél a közalkalmazottak által ellátható egyes vezetői beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke, pályázat alóli mentessége
+## A) A rendőrségnél, a Bevándorlási és Menekültügyi Hivatal befogadó állomásánál, a hivatásos katasztrófavédelmi szerveknél a közalkalmazottak által ellátható egyes vezetői beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke, pályázat alóli mentessége
 
 |  | A magasabb vezetői, vezetői beosztások, munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék |
 
@@ -144,7 +144,7 @@
 
 | 70. | Ügyviteli munkakörök |
 
-| 71. | A rendőrségnél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél az ügyviteli munkakörök nem kötelezettek pályáztatásra. |
+| 71. | A rendőrségnél, a Bevándorlási és Menekültügyi Hivatal befogadó állomásánál, a hivatásos katasztrófavédelmi szerveknél az ügyviteli munkakörök nem kötelezettek pályáztatásra. |
 
 | 72. | Adatrögzítő | * | * | * |  |  |  |  |  |  |  |  |
 
@@ -188,7 +188,7 @@
 
 | 92. | Fizikai munkakörök |  |  |  |  |  |  |  |  |  |  |  |
 
-| 93. | A rendőrségnél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél a fizikai munkakörök nem kötelezettek pályáztatásra. |
+| 93. | A rendőrségnél, a Bevándorlási és Menekültügyi Hivatal befogadó állomásánál, a hivatásos katasztrófavédelmi szerveknél a fizikai munkakörök nem kötelezettek pályáztatásra. |
 
 | 94. | Autófényező |  | * | * | * |  |  |  |  |  |  |  |
 
@@ -462,7 +462,7 @@
 
 ## fogadható el.
 
-## 5. A BÁHBÁ-n az „F” és „H” közalkalmazotti fizetési osztályba tartozó vezetői beosztásokban, munkakörökben
+## 5. A Bevándorlási és Menekültügyi Hivatal befogadó állomásán az „F” és „H” közalkalmazotti fizetési osztályba tartozó vezetői beosztásokban, munkakörökben
 
 ## a) a jogi szakismereteket igénylő, igazgatási és jogi feladatokkal járó, valamint szervezési és titkársági feladatokat ellátó vezetői beosztásokban, munkakörökben
 
@@ -478,6 +478,6 @@
 
 ## 6. Ha a rendelet nem tartalmazza a munkáltató által alkalmazni kívánt munkakörre vonatkozóan a megfelelő munkaköri megnevezést, akkor a munkakör ellátására alkalmazni kívánt közalkalmazottat a hasonló munkaköri feladatokat igénylő, a rendeletben szereplő munkakörbe kell besorolni.
 
-2. melléklet a 37/2011. (X. 28.) BM rendelethez[^14]
+2. melléklet a 37/2011. (X. 28.) BM rendelethez[^17]
 
-[^14]: A 2. melléklet a 37/2015. (VI. 16.) BM rendelet 47. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 37/2015. (VI. 16.) BM rendelet 47. §-a szerint módosított szöveg.

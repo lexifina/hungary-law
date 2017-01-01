@@ -118,7 +118,7 @@
 
 ## * Azon munkakörök, melyek nem tartoznak a büntetés-végrehajtási szervnél rendszeresített hivatásos szolgálati beosztásokat és az azok betöltéséhez szükséges képesítési követelményeket meghatározó miniszteri rendeletben meghatározott szolgálati tevékenységek közé.
 
-3. melléklet a 37/2011. (X. 28.) BM rendelethez[^15]
+3. melléklet a 37/2011. (X. 28.) BM rendelethez[^18]
 
 A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési osztályok, a közalkalmazotti munkakörök osztályba sorolása, megnevezése, továbbá a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési többletkövetelmények a vízügyi igazgatási szerveknél
 
@@ -692,4 +692,4 @@ A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési oszt�
 
 | 284. | Zsilipőr | * | * |  |  |  |  |  |  |  |  |  |
 
-[^15]: A 3. mellékletet a 46/2012. (IX. 20.) BM rendelet 6. § (2) bekezdése iktatta be, szövege az 1/2016. (I. 7.) BM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 3. mellékletet a 46/2012. (IX. 20.) BM rendelet 6. § (2) bekezdése iktatta be, szövege az 1/2016. (I. 7.) BM rendelet 3. §-ával megállapított szöveg.

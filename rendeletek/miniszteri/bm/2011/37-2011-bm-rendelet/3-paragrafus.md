@@ -6,8 +6,9 @@
 
 (3) A büntetés-végrehajtási szervnél a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek a 2. mellékletben meghatározott munkakörök közül a jogtanácsos, a csoportvezető, az ellenőr, a főelőadó, a referens, a főreferens, a tanár, a főtanár és az osztályvezető-helyettes munkakörök minősülnek.
 
-(4) A BÁHBÁ esetében a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek minősülnek a szociális munkás, valamint a pénzügyi ügyintéző munkakörök.
+(4)[^6] A Bevándorlási és Menekültügyi Hivatal befogadó állomása esetében a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek minősülnek a szociális munkás, valamint a pénzügyi ügyintéző munkakörök.
 
-(5)[^4] A hivatásos katasztrófavédelmi szerveknél a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek – kizárólag a polgári védelmi és a tűzoltó szakterületeken meglévő – csoportvezető, főelőadó, jogtanácsos, kiemelt főelőadó munkakörök minősülnek.
+(5)[^7] A hivatásos katasztrófavédelmi szerveknél a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek – kizárólag a polgári védelmi és a tűzoltó szakterületeken meglévő – csoportvezető, főelőadó, jogtanácsos, kiemelt főelőadó munkakörök minősülnek.
 
-[^4]: A 3. § (5) bekezdése a 46/2012. (IX. 20.) BM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdése az 58/2016. (XII. 22.) BM rendelet 28. § c) pontja szerint módosított szöveg.
+[^7]: A 3. § (5) bekezdése a 46/2012. (IX. 20.) BM rendelet 2. §-ával megállapított szöveg.
