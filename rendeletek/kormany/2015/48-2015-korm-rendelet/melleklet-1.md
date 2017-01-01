@@ -4,4 +4,4 @@
 
 [^7]: A 9. §-t a 289/2015. (X. 7.) Korm. rendelet 3. §-a iktatta be.
 [^8]: A hatálybalépés időpontja 2015. október 8.
-[^9]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 110. § (2) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 97. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
