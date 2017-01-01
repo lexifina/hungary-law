@@ -1,1 +1,0 @@
-A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (5) bekezdés 2. pontjában kapott felhatalmazás alapján, a villamos energiáról szóló 2007. évi LXXXVI. törvény 144. § (1) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
