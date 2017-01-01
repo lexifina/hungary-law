@@ -6,7 +6,7 @@ b) az e törvényben és a központi költségvetésről szóló törvényben fo
 
 c) a létesítő okirat alapján gyakorolja a központi költségvetési szervként működő előadó-művészeti szervezetek feletti alapítói és felügyeleti jogokat, valamint támogatja az állam tulajdonosi részesedésével működő előadó-művészeti nonprofit gazdasági társaságok (a továbbiakban együtt: állam által fenntartott előadó-művészeti szervezet) feladat-ellátását,
 
-d) legalább három évre, de legfeljebb öt évre szóló közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, nyilvántartott előadó-művészeti szervezettel,
+d) legalább három évre szóló közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, nyilvántartott előadó-művészeti szervezettel,
 
 e) meghatározza a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek körét,
 

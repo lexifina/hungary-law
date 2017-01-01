@@ -6,27 +6,49 @@ a) jelölje ki az előadó-művészeti szervezetek működésével összefüggő
 
 b) meghatározza az egyes művészi és művészeti munkaköröket, valamint a betöltésükhöz szükséges képesítési és egyéb feltételek részletes szabályait,
 
-c) határozza meg a balettművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait,
+c) határozza meg a táncművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait,
 
-d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit.
+d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit,
+
+e) határozza meg a Nemzeti Előadó-művészeti Érdekegyeztető Tanács tagjaira, működésére vonatkozó szabályokat,
+
+f) határozza meg az előadó-művészeti bizottságok működésére, a működés feltételeire, valamint az előadó-művészeti bizottságok által elkészítendő felosztási szabályzat és javaslat elkészítésére és tartalmára vonatkozó szabályokat,
+
+g) határozza meg a művészeti támogatás mértékének megállapításánál irányadó szempontokat és a művészeti támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
+
+h) határozza meg a létesítménygazdálkodási célú működési támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
+
+i) határozza meg a nem minősített előadó-művészeti szervezetek működésének és szakmai program megvalósításának támogatására irányuló pályázatok részletes szabályait,
+
+j) határozza meg a miniszter által felügyelt költségvetési fejezetből az előadó-művészeti szervezeteknek pályázati úton nyújtható kiemelt támogatások részletes szabályait,
+
+k) határozza meg az előadó-művészeti szervezettel kötendő, közfeladatellátásra irányuló közszolgáltatási szerződés tartalmára és megkötésére irányadó szabályokat,
+
+l) határozza meg az önkormányzati fenntartású előadó-művészeti szervezet számára fenntartói megállapodásban biztosított támogatás tartalmára és megkötésére irányadó szabályokat,
+
+m) határozza meg az előadó-művészeti szervezet és előadó-művészeti szakmai érdek-képviseleti szervezet nyilvántartásba vételére, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,
+
+n) határozza meg a zenekar, énekkar által teljesítendő fizetőnéző-szám alsó határát,
+
+o) határozza meg a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
+
+p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi feltételeit,
+
+q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-a) a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,
+a)
 
 b) a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek a 11. § és a 12. § alapján megállapított körét,
 
 c) a 6. § (3) bekezdése szerinti igazgatási szolgáltatási díj mértékét, a beszedésére jogosult személyét, a fizetési számla megnevezését és számát, az igazgatási szolgáltatási díj kezelésének, nyilvántartásának és visszatérítésének módját az adópolitikáért felelős miniszterrel egyetértésben kiadott,
 
-d) a fizető nézőszám alsó határát,
-
-e) a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
-
-f) a zenekar, énekkar tevékenysége folytatásának tárgyi feltételeit,
+d)–f)
 
 g)
 
-h) az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből nyújtott támogatás – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben kiadott
+h)
 
 rendeletben határozza meg.
 

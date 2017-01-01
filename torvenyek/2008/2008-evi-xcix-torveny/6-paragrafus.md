@@ -4,15 +4,15 @@ a) az állam által fenntartott és az e törvény szerint támogatást igényl�
 
 b) ellenőrzi a nyilvántartott előadó-művészeti szervezetek e törvény szerinti kötelezettségeinek teljesítését, amely ellenőrzés kiterjed a hatósági ellenőrzésre és a támogatások rendeltetésszerű felhasználására is,
 
-c) igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 38. pontja szerinti támogatási igazolást,
+c) igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre és adójóváírásra jogosító, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22. § (4) bekezdése szerinti támogatási igazolást és 24/A. § (18) bekezdése szerinti igazolást,
 
 d) előadó-művészeti adatszolgáltatási tevékenységet végez,
 
-e) ellátja a NEÉT és a bizottságok működtetésével kapcsolatos adminisztratív feladatokat, gondoskodik a bizottsági feladatok ellátásához szükséges adatok és információk rendelkezésre bocsátásáról,
+e)
 
 f) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.
 
-(2)
+(2) A kijelölt szerv döntése ellen nincs helye fellebbezésnek.
 
 (3) A kijelölt szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 

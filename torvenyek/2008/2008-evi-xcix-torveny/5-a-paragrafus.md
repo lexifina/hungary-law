@@ -10,4 +10,4 @@
 
 (4) A bizottság tagjai maguk közül elnököt választanak. A bizottság ügyrendjét – a miniszter jóváhagyásával – és az éves munkatervét az 5/B. §-ban foglaltakra figyelemmel maga állapítja meg.
 
-(5) A bizottság működéséhez – ideértve a tagok díjazásához – szükséges forrást a 6. § (1) bekezdése szerint kijelölt szerv költségvetésében kell biztosítani.
+(5)

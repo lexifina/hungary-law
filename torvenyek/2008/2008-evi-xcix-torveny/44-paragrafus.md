@@ -10,7 +10,7 @@
 
 2. balett- vagy táncegyüttes: táncművészeti alkotásokat bemutató előadó-művészeti szervezet,
 
-3. befogadó színház: előadások bemutatására alkalmas játszóhellyel rendelkező, társulat nélküli színház, ideértve az olyan cirkuszművészeti szervezetet is, amely az előadást állandó játszóhelyen, saját tulajdonú vagy rendelkezésű kőépületben valósítja meg,
+3. befogadó színház: előadások, hangversenyek bemutatására alkalmas játszóhellyel rendelkező, társulat nélküli színház, ideértve az olyan cirkuszművészeti szervezetet, valamint hangversenytermet is, amely az előadást, hangversenyt állandó játszóhelyen, saját tulajdonú vagy rendelkezésű kőépületben valósítja meg,
 
 4. bemutató: az előadó-művészeti szervezet által létrehozott olyan előadás, amelyet az adott személyi összetételben (így különösen a főbb szereplőket, a rendezőt, a koreográfust, a díszlet- és a jelmeztervezőt tekintve) első alkalommal mutatnak be a nyilvánosságnak,
 
@@ -18,7 +18,7 @@
 
 6. előadás: prózai, zenés, táncos színpadi művek személyes előadóművészi teljesítménnyel, közönség jelenlétében történő nyilvános bemutatása,
 
-7. előadó-művészeti szervezet: az önálló jogi személyiségű színház, balett- vagy táncegyüttes, szimfonikus zenekar, énekkar, kamara-szimfonikus zenekar, kamarazenekar, amely alaptevékenységeként előadó-művészeti színház-, tánc- vagy zeneművészeti tevékenységet lát el,
+7. előadó-művészeti szervezet: az önálló jogi személyiségű színház, balett- vagy táncegyüttes, szimfonikus zenekar, énekkar, kamara-szimfonikus zenekar, kamarazenekar, amely létesítő okirata szerinti céljaként, vagy alap-, illetve főtevékenységeként előadó-művészeti színház-, tánc- vagy zeneművészeti tevékenységet lát el,
 
 8. énekkar: oratórikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet – ideértve a kamarakórust is –, ha létszáma legalább 12 fő,
 
@@ -40,9 +40,9 @@
 
 17. játszóhely: színházi előadás nyilvános bemutatására technikailag alkalmas, a vonatkozó jogszabály feltételeinek megfelelő épület, épületrész vagy szabadtéri színpad,
 
-18. kamara-szimfonikus zenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 24, legfeljebb 55 fő, ide értve a népi koncertzenekart is,
+18. kamara-szimfonikus zenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 24, legfeljebb 55 fő, ide értve a népi koncertzenekart és a fúvószenekart is,
 
-19. kamarazenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 12, legfeljebb 23 fő, ide értve a népi koncertzenekart és a big bandet is,
+19. kamarazenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 12, legfeljebb 23 fő, ide értve a népi koncertzenekart, fúvószenekart és a big bandet is,
 
 20. klasszikus operett: legalább 30 fős zenekar, énekkar, táncosok és magánénekesek közreműködését igénylő zenés darab,
 
@@ -118,4 +118,10 @@ b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajt�
 
 c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
 
-54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
+
+55. fúvószenekar: komolyzene műfajába tartozó, eredeti vagy áthangszerelt műveket előadó zeneművészeti szervezet, amelyben a rézfúvós és fafúvós hangszercsoportokat ütőhangszeresek egészíthetik ki,
+
+56. hangversenyterem: olyan zárt terű, legalább száz ülőhelyet magába foglaló, nézőtérrel rendelkező befogadó színház, amely akusztikailag és technikailag alkalmas e törvény szerinti hangversenyek előadására,
+
+57. kamarakórus: oratorikus vagy a capella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.

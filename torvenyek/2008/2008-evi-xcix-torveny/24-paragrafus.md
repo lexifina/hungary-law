@@ -14,7 +14,7 @@ b) a miniszterrel kötött közszolgáltatási szerződéssel rendelkező, nem �
 
 c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
 
-d) a kijelölt szerv működéséhez szükséges előirányzatot.
+d) a az 5/A. § (2) bekezdése szerinti előadó-művészeti bizottságok működéséhez szükséges előirányzatot.
 
 (4) A (3) bekezdés hatálya alá nem tartozó, állami fenntartású, nyilvántartásba vett színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok támogatását az ilyen előadó-művészeti szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló miniszter által vezetett minisztérium költségvetési fejezetében, vagy a szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló központi költségvetési szerv költségvetésében kell biztosítani.
 

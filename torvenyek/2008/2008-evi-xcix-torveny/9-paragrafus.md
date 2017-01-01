@@ -1,3 +1,1 @@
-9. § (1) A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője – jogszabályban meghatározott módon – köteles bejelenteni a kijelölt szervnek a változástól vagy annak ismertté válásától számított tizenöt napon belül.
-
-(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén a kijelölt szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.
+9. §

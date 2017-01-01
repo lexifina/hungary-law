@@ -12,8 +12,8 @@ részére.
 
 (3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – a kijelölt szerv által történő nyilvántartásba vétel.
 
-(4) A 21. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
+(4) A 20. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
 
-(5) E Fejezet 2. Címét és 3. Címét az állami fenntartású előadó-művészeti szervezetekre nem lehet alkalmazni.
+(5) E Fejezet 2. Címét az állami fenntartású előadó-művészeti szervezetekre nem lehet alkalmazni.
 
 (6)

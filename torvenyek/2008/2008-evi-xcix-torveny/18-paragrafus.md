@@ -1,5 +1,1 @@
-18. § (1) A működési támogatás létesítménygazdálkodási célra – az érintett területeken jelentkező kiadásaihoz történő hozzájárulásként, az e törvényben meghatározott feltételek fennállása esetén – adható, amelyet más célra felhasználni, átcsoportosítani nem lehet.
-
-(2) A működési támogatás feltétele, hogy az előadó-művészeti szervezet a létesítő okiratában meghatározott, állandó működési helyéül szolgáló ingatlannal rendelkezzen. Az ingatlan rendeltetésszerű használatának biztosítása a fenntartó feladata, ezzel összefüggésben az ingatlan lényeges műszaki adatairól, állapotáról, valamint a színpadtechnikai eszközökről nyilvántartást vezet. Fenntartó hiányában az e bekezdésben foglalt feladatok kötelezettje az előadó-művészeti szervezet.
-
-(3) A működési támogatás megállapításakor figyelembe kell venni a fenntartó vagy az előadó-művészeti szervezettel közszolgáltatási szerződést kötött önkormányzat által az előadó-művészeti tevékenységhez kapcsolódóan nyújtott támogatás összegét a felújítási és beruházási jellegű kiadások, valamint az ingatlan használatáért bármilyen jogcímen kért térítés összegének kivételével.
+18. § A 17. § szerinti támogatások megállapításakor vizsgálandó általános szempontrendszert a Kormány rendeletben határozza meg.

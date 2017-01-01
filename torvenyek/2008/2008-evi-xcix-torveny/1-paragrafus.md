@@ -20,7 +20,7 @@ i) elősegítse a gyermek és ifjúsági korosztály hozzáférési lehetősége
 
 j) támogassa a szakmai dokumentációs és kutatási tevékenységet,
 
-k) megteremtse az állami támogatással érintett előadó-művészeti szervezetek működésével érintett épület- és eszközállomány integrált nyilvántartását,
+k)
 
 l) ösztönözze az államháztartáson kívüli források bevonását az előadó-művészeti szervezetek működésébe, működtetésébe, fejlesztésébe, valamint
 

@@ -2,27 +2,13 @@
 
 (2) A NEÉT 24 tagú. A tagok megbízatásának időtartama 4 év, amely legfeljebb egyszer újabb 4 évre meghosszabbítható.
 
-(3) A NEÉT tagjai:
+(3) A NEÉT véleményezi az előadó-művészeti bizottságoknak az előadó-művészeti szervezetek minősítésére vonatkozó javaslatát, valamint az előadó-művészeti bizottságok által előkészített, a nem állami fenntartású, minősítéssel rendelkező előadó-művészeti szervezetek támogatására vonatkozó felosztási szabályzatokat, továbbá ellátja az (1) bekezdésben meghatározott szerepéből eredő további feladatokat.
 
-a) a nyilvántartásba vett előadó-művészeti szervezetek által delegált 11 fő, amelyből 4 főt a színházművészet, 2 főt a báb- és cirkuszművészet, 1 főt a független színházművészet, 2 főt a táncművészet, 2 főt a zeneművészet területéről kell jelölni,
+(4)–(5)
 
-b) a nyilvántartásba vett előadó-művészeti szakmai érdek-képviseleti szervezetek által delegált 3 fő,
+(6) A NEÉT ülését a miniszter szükség szerint, de évente legalább egy alkalommal hívja össze. A NEÉT működtetése során biztosítani kell az e törvényben meghatározott jogosítványok gyakorlásának lehetőségét.
 
-c) a Magyar Művészeti Akadémia által delegált 1 fő,
-
-d) a megyei jogú városi önkormányzatok által delegált 2 fő, Budapest Főváros Önkormányzata által delegált 1 fő, az országos nemzetiségi önkormányzatok által delegált 1 fő,
-
-e) az előadó-művészeti felsőoktatási intézmények által delegált 3 fő, valamint
-
-f) az országosan reprezentatív művészeti szakszervezetek által delegált 2 fő.
-
-(4) A NEÉT ülésein állandó meghívottként vesz részt a miniszter, továbbá tanácskozási joggal részt vehetnek a határon túli magyar előadó-művészeti szervezetek képviselői és az 5/A. § szerinti bizottságok 1-1 képviselője.
-
-(5) Ha a (3) bekezdés szerint több szervezet együttesen jogosult delegálásra, azt a személyt kell delegáltnak tekinteni, akit az együttes delegálásra jogosult szervezetek többsége jelölt (többségi jelölés). Ha nincs ilyen jelölt, vagy egyenlő számú jelölés esetén a delegált személyét sorsolással kell meghatározni.
-
-(6) A NEÉT ülését a miniszter szükség szerint, de évente legalább egy alkalommal hívja össze. A NEÉT ülését a miniszter a kezdeményezéstől számított 15 napon belüli időpontra köteles összehívni, ha legalább nyolc tag az ok és a napirend közlésével azt írásban kezdeményezi. A NEÉT működtetése során biztosítani kell az e törvényben meghatározott jogosítványok gyakorlásának lehetőségét.
-
-(7) A NEÉT üléseinek jegyzőkönyvei, továbbá a NEÉT állásfoglalásai, javaslatai nyilvánosak.
+(7)
 
 (8) A NEÉT tagjai e tevékenységükért díjazásban nem részesülnek.
 

@@ -6,4 +6,4 @@ b) ha az előadó-művészeti szervezet a pénzügyi-gazdasági tevékenységét
 
 3. CÍM
 
-BALETTMŰVÉSZETI ÉLETJÁRADÉK
+TÁNCMŰVÉSZETI ÉLETJÁRADÉK
