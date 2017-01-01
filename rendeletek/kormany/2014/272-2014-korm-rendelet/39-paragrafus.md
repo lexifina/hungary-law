@@ -22,7 +22,7 @@ f) tekintetében az irányító hatósághoz érkezett bejelentés alapján vagy
 
 (1b)[^193]
 
-(2)[^194] A támogatásra, pénzügyi eszköz végrehajtására vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési eljárás megkezdésekor az adott felhívásra vonatkozó teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy az (1) bekezdés szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy banktitkot, fizetési titkot, illetve egyéb magántitkot megőrzi.
+(2)[^194] A támogatásra, pénzügyi eszköz végrehajtására vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési eljárás megkezdésekor az adott felhívásra vonatkozó teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy az (1) bekezdés szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra, pénzügyi eszköz végrehajtására vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy banktitkot, fizetési titkot, illetve egyéb magántitkot megőrzi.
 
 (2a)[^195] A projektek folyamatba épített dokumentumalapú ellenőrzését, helyszíni ellenőrzését és a kifizetés engedélyezését nem végezheti olyan személy, akivel szemben az (1) bekezdés szerinti kizáró ok fennáll.
 

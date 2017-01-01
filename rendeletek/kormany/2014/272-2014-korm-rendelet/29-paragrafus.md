@@ -56,7 +56,7 @@ e) a nem az európai uniós fejlesztési források felhasználásához kapcsoló
 
 f)[^167] az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott nemzeti hatóság.
 
-(6)[^168] A Vidékfejlesztési Program monitoring bizottságba az irányító hatóság felkérésére egyenlő szavazati joggal rendelkező tagot delegálnak a (4) bekezdés a)–d) és h)–j) pontjában megjelölt szervezetek, valamint az illetékes hatóság.
+(6)[^168] A Vidékfejlesztési Program monitoring bizottságba az irányító hatóság felkérésére egyenlő szavazati joggal rendelkező tagot delegálnak a (4) bekezdés a)–d) és h)–j) pontjában megjelölt szervezetek, valamint a szakmai támogató.
 
 (7)[^169] A Vidékfejlesztési Program monitoring bizottságba tanácskozási joggal rendelkező tagot delegálhat az (5) bekezdés a) és e) pontja szerinti szervezet, a tanúsító szerv, valamint a kifizető ügynökség.
 
@@ -71,5 +71,5 @@ f)[^167] az Európai Hálózatfinanszírozási Eszközből származó források 
 [^165]: A 29. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^166]: A 29. § (4) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 48. pontja szerint módosított szöveg.
 [^167]: A 29. § (5) bekezdés f) pontját a 75/2016. (IV. 5.) Korm. rendelet 56. § (2) bekezdése iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
-[^168]: A 29. § (6) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 13. §-ával megállapított, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^168]: A 29. § (6) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 13. §-ával megállapított, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 11. pontja, a 328/2016. (X. 28.) Korm. rendelet 22. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^169]: A 29. § (7) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 4. pontja, a 98/2016. (V. 13.) Korm. rendelet 46. § 4. pontja szerint módosított szöveg.

@@ -1,26 +1,47 @@
-103. § (1)[^487] Az európai uniós források felhasználásáért felelős miniszter a közbeszerzési dokumentumok 101. § vagy 102. § szerinti beérkezésétől számított öt munkanapon belül elvégzi a közbeszerzési dokumentumok közbeszerzési-jogi minőségellenőrzését, és az erről készített minőségellenőrzési jelentését, vagy minőségellenőrzési tanúsítványát a támogatást igénylő, illetve a kedvezményezett részére megküldi. Az európai uniós források felhasználásáért felelős miniszter a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb öt munkanappal meghosszabbíthatja.
+103. §[^490] (1) Az európai uniós források felhasználásáért felelős miniszter a közbeszerzési dokumentumok 101. § vagy 102. § szerinti beérkezésétől számított öt munkanapon belül elvégzi a közbeszerzési dokumentumok közbeszerzési-jogi, valamint az eljárás megindítására vonatkozó ellenőrzését, és az erről készített jelentését, vagy az eljárás megindítására vonatkozó tanúsítványát a támogatást igénylő vagy a kedvezményezett részére megküldi. Az európai uniós források felhasználásáért felelős miniszter a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb öt munkanappal meghosszabbíthatja. Az európai uniós források felhasználásáért felelős miniszter az eljárás megindítására vonatkozóan jelentést nem, kizárólag tanúsítványt ad ki abban az esetben, ha a támogatást igénylő vagy a kedvezményezett a közbeszerzési dokumentumok európai uniós források felhasználásáért felelős miniszter általi ellenőrzésének kezdeményezésével egyidejűleg megindította a közbeszerzési eljárást.
 
-(2)[^488] A támogatást igénylő, illetve a kedvezményezett a minőségellenőrzési jelentés alapján módosított közbeszerzési dokumentumokat – a minőségellenőrzési jelentésben foglaltakkal egyet nem értése esetén a részletes írásbeli indokolással együtt – a minőségellenőrzési jelentés közlésétől számított öt munkanapon belül az európai uniós források felhasználásáért felelős miniszter részére megküldi. Amennyiben a támogatást igénylő, illetve a kedvezményezett a módosított közbeszerzési dokumentumokat, vagy részletes írásbeli indokolását nem küldi meg az európai uniós források felhasználásáért felelős miniszter részére a minőségellenőrzési jelentés megküldésétől számított húsz munkanapon belül, úgy az európai uniós források felhasználásáért felelős miniszter az ellenőrzését tanúsítvány kibocsátása nélkül – a támogatást igénylő vagy a kedvezményezett értesítése mellett – lezárja.
+(2) Az (1) bekezdés szerinti ellenőrzés keretében az európai uniós források felhasználásáért felelős miniszter a (8) bekezdés szerinti teljeskörű ellenőrzést megelőzően elsőként kizárólag a közbeszerzési eljárást megindító és adott esetben a közbeszerzési eljárást meghirdető felhívásnak
 
-(3)[^489] Az európai uniós források felhasználásáért felelős miniszter a (2) bekezdés szerinti módosított közbeszerzési dokumentumok beérkezését követő öt munkanapon belül minőségellenőrzési tanúsítványt állít ki és erről tájékoztatja a támogatást igénylőt, illetve a kedvezményezettet, valamint az irányító hatóságot.
+a) a kizáró okokra,
 
-(4) A támogatást igénylő, illetve a kedvezményezett a közbeszerzési dokumentumokat az (1) vagy a (3) bekezdés szerinti közbeszerzési minőségellenőrzési tanúsítvány figyelembevételével véglegesíti. Az (1) bekezdés szerint készült minőségellenőrzési tanúsítvány egyenértékű a (3) bekezdés szerint készült minőségellenőrzési tanúsítvánnyal.
+b) az alkalmassági követelményekre,
 
-(5) Amennyiben a (3) bekezdés szerinti tanúsítvány nem támogató tartalmú, és
+c) az értékelési szempontokra,
 
-a) a támogatást igénylő, illetve a kedvezményezett a dokumentumokat az irányító hatóság ellenőrzési hatáskörébe tartozó szempontból módosítja, vagy
+d) a szerződés teljesítésével kapcsolatos feltételekre és
+
+e) a szerződést biztosító mellékkötelezettségekre
+
+## vonatkozó előírásai Kbt.-nek és végrehajtási rendeleteinek való megfelelőségét, valamint gyorsított eljárás esetében az eljárás jogalapjának megalapozottságát ellenőrzi.
+
+(3) Hirdetmény nélküli eljárások esetében az európai uniós források felhasználásáért felelős miniszter az eljárást megindító dokumentumokra vonatkozó vizsgálata kizárólag az eljárás jogalapjának megalapozottságára terjed ki.
+
+(4) A támogatást igénylő vagy a kedvezményezett az eljárás megindítására vonatkozó jelentés alapján módosított közbeszerzési dokumentumokat – a jelentésben foglaltakkal egyet nem értése esetén a részletes írásbeli indokolásával együtt – a jelentés közlésétől számított öt munkanapon belül az európai uniós források felhasználásáért felelős miniszter részére megküldi. Ha a támogatást igénylő vagy a kedvezményezett a módosított közbeszerzési dokumentumokat vagy részletes írásbeli indokolását nem küldi meg az európai uniós források felhasználásáért felelős miniszter részére az eljárás megindítására vonatkozó jelentés megküldésétől számított húsz munkanapon belül, akkor az európai uniós források felhasználásáért felelős miniszter az ellenőrzését tanúsítvány kibocsátása nélkül – a támogatást igénylő vagy a kedvezményezett értesítése mellett – lezárja.
+
+(5) Az európai uniós források felhasználásáért felelős miniszter a (4) bekezdés szerinti módosított közbeszerzési dokumentumok beérkezését követő öt munkanapon belül az eljárás megindítására vonatkozó tanúsítványt állít ki, és erről tájékoztatja a támogatást igénylőt vagy a kedvezményezettet, valamint az irányító hatóságot.
+
+(6) Az (1) bekezdés szerinti közbeszerzési-jogi ellenőrzés kezdeményezésével egyidejűleg a támogatást igénylő vagy a kedvezményezett a közbeszerzési eljárást megindíthatja, kivéve, ha gyorsított vagy hirdetmény nélküli eljárás ellenőrzését kezdeményezte.
+
+(7) Ha a támogatást igénylő vagy a kedvezményezett a monitoring és információs rendszeren keresztül a közbeszerzési dokumentumok az európai uniós források felhasználásáért felelős miniszter általi ellenőrzésének kezdeményezésével egyidejűleg megindította a közbeszerzési eljárást, akkor az eljárás megindítására vonatkozó tanúsítvány alapján a közbeszerzési dokumentumok módosításáról szóló tájékoztatást – az eljárás megindítására vonatkozó tanúsítványban foglaltakkal egyet nem értése esetén a részletes írásbeli indokolásával együtt – az eljárás megindítására vonatkozó tanúsítvány közlésétől számított öt munkanapon belül az európai uniós források felhasználásáért felelős miniszter részére megküldi. Ha a támogatást igénylő vagy a kedvezményezett a közbeszerzési dokumentumok módosításáról szóló tájékoztatást vagy a részletes írásbeli indokolását nem küldi meg az európai uniós források felhasználásáért felelős miniszter részére az eljárás megindítására vonatkozó tanúsítvány megküldésétől számított húsz munkanapon belül, úgy az európai uniós források felhasználásáért felelős miniszter az ellenőrzését – a támogatást igénylő vagy a kedvezményezett értesítése mellett – lezárja.
+
+(8) Az eljárás megindítására vonatkozó tanúsítvány kiállítását követő öt munkanapon belül az európai uniós források felhasználásáért felelős miniszter elvégzi az eljárást megindító vagy meghirdető felhívás és az eljárás megindításához szükséges közbeszerzési dokumentumok – a (2) bekezdésben foglaltakon túli – közbeszerzési-jogi szempontú vizsgálatát. A vizsgálat alapján újabb – a közbeszerzési dokumentumok jóváhagyására vonatkozó – tanúsítványt állít ki az adott közbeszerzés vonatkozásában, és erről tájékoztatja a támogatást igénylőt vagy a kedvezményezettet, valamint az irányító hatóságot. A (7) bekezdés szerinti esetben az európai uniós források felhasználásáért felelős miniszter a közbeszerzési dokumentumok módosításáról szóló tájékoztatás beérkezését követő öt munkanapon belül állítja ki a közbeszerzési dokumentumokat jóváhagyó tanúsítványt, és erről tájékoztatja a támogatást igénylőt vagy a kedvezményezettet, valamint az irányító hatóságot.
+
+(9) A támogatást igénylő vagy a kedvezményezett feltétellel támogató tartalmú tanúsítvány kiállítása esetén a közbeszerzési dokumentumok módosítására, nem támogató tartalmú tanúsítvány kiállítása esetén a közbeszerzési eljárást megindító felhívás visszavonására köteles – feltéve, hogy a 107. §-nak megfelelően a támogatásra igényt tart.
+
+(10) A támogatást igénylő vagy a kedvezményezett a közbeszerzési dokumentumokat az eljárás megindítására vonatkozó és a közbeszerzési dokumentumokat jóváhagyó tanúsítvány figyelembevételével véglegesíti vagy módosítja. Az (1) bekezdés szerint készült, az eljárás megindítására vonatkozó tanúsítvány egyenértékű az (5) bekezdés szerint készült, az eljárás megindítására vonatkozó tanúsítvánnyal.
+
+(11) Ha az eljárás megindítására vonatkozó vagy a közbeszerzési dokumentumokat jóváhagyó tanúsítvány nem támogató tartalmú, és
+
+a) a támogatást igénylő vagy a kedvezményezett a dokumentumokat az irányító hatóság ellenőrzési hatáskörébe tartozó szempontból módosítja, vagy
 
 b) a hatósági engedélyhez kötött építési beruházás esetén a hatósági engedély tartalma módosításra kerül,
 
-## úgy a támogatást igénylő, illetve a kedvezményezett a közbeszerzési eljárás ellenőrzését ismételten a 101. § (1) bekezdése vagy 102. § (1) bekezdése szerint kezdeményezi.
+## akkor a támogatást igénylő vagy a kedvezményezett a közbeszerzési eljárás ellenőrzését ismételten a 101. § (1) bekezdése vagy 102. § (1) bekezdése szerint kezdeményezi.
 
-(6) Amennyiben a (3) bekezdés szerinti tanúsítvány nem támogató tartalmú, és
+(12) Ha az eljárás megindítására vonatkozó vagy a közbeszerzési dokumentumokat jóváhagyó tanúsítvány nem támogató tartalmú, és
 
-a) támogatást igénylő, illetve a kedvezményezett a dokumentumokat az irányító hatóság ellenőrzési hatáskörébe tartozó szempontból nem módosítja, vagy
+a) támogatást igénylő vagy a kedvezményezett a dokumentumokat az irányító hatóság ellenőrzési hatáskörébe tartozó szempontból nem módosítja, vagy
 
-b)[^490] a hatósági engedélyhez kötött építési beruházás esetén a hatósági engedély tartalma nem kerül módosításra,
+b) a hatósági engedélyhez kötött építési beruházás esetén a hatósági engedély tartalma nem kerül módosításra,
 
-[^487]: A 103. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 119. pontja szerint módosított szöveg.
-[^488]: A 103. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 120. pontja szerint módosított szöveg.
-[^489]: A 103. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 121. pontja szerint módosított szöveg.
-[^490]: [A 144/2015. (VI. 12.) Korm. rendelet 100. § 121. pontjával elrendelt módosítás, amely szerint 103. § (6) bekezdés b) pontjában az „5” szövegrész helyébe az „öt” szöveg lép, nem vezethető át.]
+[^490]: A 103. § a 478/2016. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.

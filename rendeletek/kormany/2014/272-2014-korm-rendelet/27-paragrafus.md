@@ -1,4 +1,4 @@
-## 26/A. §[^151] A kifizető ügynökség feladatait a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) látja el.
+## 26/A. §[^151] A kifizető ügynökség feladatait a kincstár látja el.
 
 ## 15. [^152] A közbenső szervezet feladatai
 
@@ -12,7 +12,7 @@
 
 (5)[^153] A közbenső szervezet az irányító hatóság nevében jár el.
 
-(6)[^154] A közbenső szervezet által elvégzett feladatért harmadik személy felé az irányító hatóság felel. Az átruházott feladatot ellátó szerv csak az irányító hatóság előzetes jóváhagyása alapján vonhat be más szervezetet az átruházott feladat ellátásába.
+(6)[^154] A közbenső szervezet által elvégzett feladatért harmadik személy felé az irányító hatóság felel. A közbenső szervezet csak az irányító hatóság előzetes jóváhagyása alapján vonhat be más szervezetet az átruházott feladat ellátásába.
 
 (7)[^155] Az (1) bekezdés szerint átruházott feladat ellátásáról írásbeli megállapodásban kell rendelkezni. E megállapodásnak tartalmaznia kell különösen:
 
@@ -36,7 +36,7 @@ i) az átruházott feladat elvégzése érdekében az irányító hatóság ált
 
 (8) Az irányító hatóság ellenőrzésére jogosult szervek ellenőrzik az átruházott feladat teljesítését.
 
-[^151]: A 26/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 11. §-a iktatta be.
+[^151]: A 26/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 11. §-a iktatta be, szövege a 328/2016. (X. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^152]: A 15. alcím címe a 144/2015. (VI. 12.) Korm. rendelet 100. § 41. pontja szerint módosított szöveg.
 [^153]: A 27. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 42. pontja szerint módosított szöveg.
 [^154]: A 27. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 43. pontja szerint módosított szöveg.
