@@ -58,11 +58,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-9. felhívja a földművelésügyi minisztert, hogy biztosítsa a közlekedési projektek engedélyezéséhez szükséges klíma nyilatkozatok ütemes kiadását;
-
-Felelős: földművelésügyi miniszter
-
-Határidő: azonnal
+9.[^2]
 
 10. felhívja a nemzeti fejlesztési minisztert, hogy a közlekedési projektek műszaki tartalmát a projektek várható megtérülése alapján határozza meg és szükség esetén terjessze Kormány elé az esetleges változásokat.
 
@@ -71,3 +67,4 @@ Felelős: nemzeti fejlesztési miniszter
 Határidő: azonnal
 
 [^1]: A 3/A. pontot az 1691/2016. (XI. 29.) Korm. határozat 3. pontja iktatta be.
+[^2]: A 9. pontot az 1853/2016. (XII. 27.) Korm. határozat 83. pont p) alpontja visszavonta.
