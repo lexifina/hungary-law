@@ -1,6 +1,6 @@
 ## Műszaki dokumentáció
 
-3. § (1)[^2] A gyártó, annak az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője, illetve ezek hiányában az importáló (a továbbiakban együtt: gyártó) köteles műszaki dokumentációt összeállítani.
+3. § (1)[^3] A gyártó, annak az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője, illetve ezek hiányában az importáló (a továbbiakban együtt: gyártó) köteles műszaki dokumentációt összeállítani.
 
 (2) A műszaki dokumentációnak tartalmaznia kell:
 
@@ -16,4 +16,4 @@ e) a magyar nyelvű használati utasítást a Fgytv. 2. § i) pontjában foglalt
 
 (3) A gyártó köteles a műszaki dokumentációt a gyártás megszűnte után 5 évig megőrizni.
 
-[^2]: E rendelet 11. §-ának (2) bekezdése alapján a 3. § (1) bekezdésében az ,,annak az Európai Gazdasági Térségben letelepedett'' szövegrész a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^3]: E rendelet 11. §-ának (2) bekezdése alapján a 3. § (1) bekezdésében az ,,annak az Európai Gazdasági Térségben letelepedett'' szövegrész a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.

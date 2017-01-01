@@ -1,4 +1,4 @@
-## 10. §[^4] Az e rendeletben foglaltak teljesítését a Nemzeti Fogyasztóvédelmi Hatóság és a fogyasztóvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal ellenőrzi, feltéve, hogy a felhasználó a Fgytv. szerint fogyasztónak minősül.
+## 10. §[^5] Az e rendeletben foglaltak teljesítését a fogyasztóvédelmi hatóság ellenőrzi, feltéve, hogy a felhasználó a Fgytv. szerint fogyasztónak minősül.
 
 ## Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A rendeletben foglaltak nem vonatkoznak azokra a háztartási légkondicionáló berendezésekre, amelyek gyártását a rendelet hatálybalépése előtt megszüntették.
 
-[^4]: A 10. §a 9/2015. (III. 31.) NGM rendelet 34. §-a szerint módosított szöveg.
+[^5]: A 10. § a 62/2016. (XII. 29.) NGM rendelet 13. §-a szerint módosított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-88-20-0
 | 2011-10-15 | 2003-88-20-0L.2 | 40/2011. (X. 14.) NGM rendelet |
 | 2013-02-21 | 2003-88-20-0L.3 | 2/2013. (I. 22.) NGM rendelet |
 | 2015-04-01 | 2003-88-20-0L.4 | 9/2015. (III. 31.) NGM rendelet |
+| 2017-01-01 | 2003-88-20-0L.5 | 6/2017. (V. 5.) NGM rendelet |
