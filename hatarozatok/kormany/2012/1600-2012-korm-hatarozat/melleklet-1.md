@@ -86,9 +86,9 @@
 
 ## Határidő: 2013. január 31.
 
-## 10.[^1]
+## 10.[^2]
 
-1. melléklet az 1600/2012. (XII. 17.) Korm. határozathoz
+1. melléklet az 1600/2012. (XII. 17.) Korm. határozathoz[^3]
 
 A 2014–2020 közötti európai uniós források felhasználását biztosító operatív programok szerkezete
 
@@ -102,12 +102,13 @@ A 2014–2020 közötti európai uniós források felhasználását biztosító 
 
 | Intelligens Közlekedésfejlesztési OP (IKOP) | ERFA, KA | NFM | NFM |
 
-| Környezeti és Energetikai Hatékonysági OP (KEHOP) | ERFA, KA | NFM, VM | NFM |
+| Környezeti és Energetikai Hatékonysági OP (KEHOP) | ERFA, KA | NFM, FM | NFM |
 
 | Emberi Erőforrás Fejlesztési OP (EFOP) | ERFA, ESZA | EMMI | EMMI |
 
-| Koordinációs OP (KOP) | KA | ME | ME |
+| Közigazgatás- és Közszolgáltatás-Fejlesztési Operatív Program (KÖFOP) | ESZA, KA | ME | ME |
 
-| „Vidékfejlesztés, halászat” OP | EMVA, ETHA | VM | VM |
+| „Vidékfejlesztés, halászat” OP | EMVA, ETHA | ME | ME |
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 16. pontjával megállapított szöveg.
