@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 79. § (1) bekezdésének a) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következő rendeletet alkotja:

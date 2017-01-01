@@ -1,3 +1,0 @@
-9. § (1) A jogosult a támogatási szerződés szerint rendelkezésre bocsátott támogatás felhasználásáról a 2. számú melléklet sorainak megfelelő tartalmú, a 4. számú melléklet szerinti tételes, számszaki elszámolást, valamint szöveges indokolást készít, melyet 2010. április 30-áig köteles az egészségügyi miniszter, a pénzügyminiszter és az Igazgatóság részére megküldeni.
-
-(2) Az (1) bekezdés szerinti szöveges indokolásban ki kell térni a létszámcsökkentés megvalósításának folyamatára (bemutatva a csökkentéssel érintett létszámot, a létszámcsökkentés módját), az igénylés és a felhasználás közötti eltérések, a fel nem használt támogatás keletkezésének okára, részletes indokaira, valamint a létszámcsökkentés következtében várható költségcsökkenés nagyságára is.
