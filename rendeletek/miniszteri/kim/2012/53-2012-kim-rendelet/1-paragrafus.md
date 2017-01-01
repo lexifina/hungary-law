@@ -1,6 +1,6 @@
 ## 1. A közvetlen hozzáféréssel történő adatátvétel rendje
 
-1. § (1) A bűnügyi nyilvántartási rendszer adatállományához elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő közvetlen adathozzáférés (a továbbiakban: közvetlen hozzáférés) gyakorlásához szükséges egyedi azonosítót a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) 68. §-ában meghatározott jogosult szerv (a továbbiakban: közvetlen hozzáférésre jogosult szerv) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalához (a továbbiakban: bűnügyi nyilvántartó szerv) benyújtott kérelemben (a továbbiakban: egyedi azonosító iránti kérelem) igényli.
+1. § (1)[^1] A bűnügyi nyilvántartási rendszer adatállományához elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő közvetlen adathozzáférés (a továbbiakban: közvetlen hozzáférés) gyakorlásához szükséges egyedi azonosítót a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) 68. §-ában meghatározott jogosult szerv (a továbbiakban: közvetlen hozzáférésre jogosult szerv) a bűnügyi nyilvántartó szervhez benyújtott kérelemben (a továbbiakban: egyedi azonosító iránti kérelem) igényli.
 
 (2) Az egyedi azonosító iránti kérelemnek tartalmaznia kell:
 
@@ -37,3 +37,5 @@ b) telefaxszám,
 c) elektronikus levélcím.
 
 (4) A (2) bekezdés b) pontjában meghatározott adatokban bekövetkezett változásról a közvetlen hozzáférésre jogosult szerv – az adatváltozást követő három munkanapon belül – értesíti a bűnügyi nyilvántartó szervet.
+
+[^1]: Az 1. § (1) bekezdése a 28/2016. (XII. 27.) IM rendelet 4. §-a szerint módosított szöveg.

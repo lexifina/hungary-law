@@ -2,6 +2,6 @@
 
 (2) A bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen előterjesztett kérelem alapján a hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv a kérelem előterjesztését követő öt napon belül állítja ki.
 
-(3)[^9]
+(3)[^10]
 
-[^9]: A 7. § (3) bekezdését a 37/2015. (XII. 21.) IM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
+[^10]: A 7. § (3) bekezdését a 37/2015. (XII. 21.) IM rendelet 6. § (1) bekezdése hatályon kívül helyezte.

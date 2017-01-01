@@ -1,3 +1,3 @@
-## 4.[^14]
+## 4.[^15]
 
-[^14]: A 4. alcímet (9–14. §) a 37/2015. (XII. 21.) IM rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^15]: A 4. alcímet (9–14. §) a 37/2015. (XII. 21.) IM rendelet 6. § (3) bekezdése hatályon kívül helyezte.
