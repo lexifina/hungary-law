@@ -4,6 +4,8 @@
 
 (2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes járási hivatal a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
 
+(2a) A járási hivatal kötelezi a biztosítót, hogy a gépjármű forgalomba történő visszahelyezésének költségeit az üzemben tartó részére térítse meg, ha a (2) bekezdés szerinti eljárás lefolytatására azért került sor, mert a biztosító a kötvénynyilvántartó szervet határidőn belül nem, vagy – a biztosító érdekkörében felmerült okból – tévesen értesítette.
+
 (3) A Magyar Honvédség által üzemben tartott gépjárművek biztosítási fedezetének igazolására a Magyar Honvédség nevére kiállított forgalmi engedély szolgál.
 
 (4)

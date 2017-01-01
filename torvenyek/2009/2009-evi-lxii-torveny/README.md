@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-62-00-00
 | 2016-03-11 | 2015. évi CCV. törvény | 2009-62-00-00.22 |
 | 2016-07-01 | 2016. évi LIII. törvény | 2009-62-00-00.23 |
 | 2016-12-22 | 2016. évi CXLIV. törvény | 2009-62-00-00.24 |
+| 2017-01-01 | 2016. évi LIII. törvény | 2009-62-00-00.25 |

@@ -4,4 +4,8 @@
 
 (3) A szerződés érdekmúlással szűnik meg a gépjármű forgalomból történő kivonásával, az üzemben tartó változása esetén, illetve szünetelés esetén, ha az újbóli üzembe helyezés a kivonás napjától számított egy éven belül nem történik meg.
 
+(3a) Ha az üzemben tartó személyének változása – peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés alapján – oly módon következik be, hogy a tulajdonjog átszállásának, illetve az üzemben tartói jogosultság megszűnésének időpontja a járműnyilvántartásba a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntést megelőző időpontként kerül bejegyzésre, a szerződés – a (3) bekezdéstől eltérően – a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő harmincadik napon érdekmúlással megszűnik, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.
+
 (4) A szerződés érdekmúlással szűnik meg a tulajdonjog átszállása esetén, ha a szerződéskötésre kötelezett üzemben tartó személyében változás áll be.
+
+(5) Ha az üzemben tartó változása a jogi személy jogutódlással történő megszűnése miatt következik be, a szerződés érdekmúlással nem szűnik meg.

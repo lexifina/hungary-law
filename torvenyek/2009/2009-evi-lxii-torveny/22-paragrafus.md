@@ -2,7 +2,7 @@
 
 22. § (1) Az üzemben tartó köteles a fedezetlenségi díjat megfizetni.
 
-(2) A teljes fedezetlenségi díjat azon biztosító köteles kiszámítani és beszedni, amely az üzemben tartóval a fedezetlenség időtartamát követően szerződést köt.
+(2) A teljes fedezetlenségi díjat azon biztosító köteles kiszámítani és beszedni, amely az üzemben tartóval a fedezetlenség időtartamát követően szerződést köt. A fedezetlenségi díj kiszámítása során a biztosító az utolsó öt év fedezetlenségének időtartamát veheti figyelembe.
 
 (3) A biztosító a fedezetlenségi díjat az arról történt tudomásszerzést követően haladéktalanul köteles kiszámítani.
 

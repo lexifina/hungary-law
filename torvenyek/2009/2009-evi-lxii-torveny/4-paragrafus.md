@@ -16,6 +16,8 @@
 
 (4) Ha a szerződéskötésre a tulajdonjog átszállása miatt kerül sor, az e törvény szerinti új üzemben tartó köteles a tulajdonjog átszállását követően a biztosítási szerződést haladéktalanul megkötni.
 
+(4a) Ha az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a kockázatviselés 19. § (5a) bekezdésében meghatározott megszűnését követő naptól terheli. Ha a biztosítási szerződést a (6) bekezdésben meghatározottak szerint nem tartották hatályban és az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő naptól terheli.
+
 (5) Ideiglenes forgalomban tartás engedélyezése, illetve ideiglenes forgalmi engedély kiadása esetén a biztosítási kötelezettség az ideiglenes forgalomban tartási engedély, illetve az ideiglenes forgalmi engedély érvényességének időtartama alatt áll fenn.
 
 (6) Az üzemben tartó halála esetén, ha a biztosítási kötelezettség címzettje nem állapítható meg, a szerződés legkésőbb a hagyatéki eljárást lezáró határozat jogerőre emelkedésétől számított 30 napig tartható hatályban, amennyiben a gépjármű birtokosa a halál tényét a biztosítónak bejelentette, és a szerződést díjfizetéssel hatályban tartja.

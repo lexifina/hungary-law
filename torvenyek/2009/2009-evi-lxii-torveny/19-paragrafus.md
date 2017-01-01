@@ -10,6 +10,8 @@
 
 (5) A szerződés érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a forgalomból történő kivonás, a forgalomban történő részvétel végleges megszüntetése, a szerződéskötésre kötelezett üzemben tartó személyének változása esetén a tulajdonjog átszállása, illetve az üzemben tartói jogosultság megszűnésének – járműnyilvántartásba bejegyzett – időpontjában szűnik meg.
 
+(5a) A szerződés 7. § (3a) bekezdésében meghatározott érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő harmincadik napon szűnik meg, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.
+
 (6) A biztosító kockázatviselése a szerződés közös megegyezéssel történő megszüntetése esetén a szerződés megszűnésének időpontjában, a szerződés biztosítási időszak végére történő felmondása esetén a biztosítási időszak zárónapján szűnik meg.
 
 (7) A szerződés a 21. § (4) bekezdésében meghatározott megszűnése esetén a biztosító kockázatviselése a türelmi idő zárónapján szűnik meg.
