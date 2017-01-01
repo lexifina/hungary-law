@@ -1,10 +1,10 @@
-## 10. §[^16] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeleteknek az általános és a mezőgazdasági csekély összegű (de minimis) támogatás közösségi feltételeinek változásával összefüggő módosításáról szóló 36/2014. (IV. 4.) VM rendelettel megállapított 5. § (1) bekezdés b) pontja szerinti bevallás első alkalommal a 2014. évre vonatkozó IV. negyedéves bevallás részeként nyújtható be.
+## 10. §[^33]
 
 1. melléklet a 91/2012. (VIII. 29.) VM rendelethez
 
-## Támogatási kérelem adattartalma a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű (de minimis) támogatás igényléséhez
+## Támogatási kérelem adattartalma a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű támogatás igényléséhez[^34]
 
-1.[^17] A mezőgazdasági termelő ügyfél-azonosítója.
+1.[^35] A mezőgazdasági termelő ügyfél-azonosítója.
 
 2. A támogatás igényléséhez felhasznált számlák alapján:
 
@@ -22,5 +22,6 @@ e) a támogatás alapját képző gázolaj mennyisége literben.
 
 4. Keltezés és a kérelmező aláírása.
 
-[^16]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2014. (IV. 4.) VM rendelet 68. §-a iktatta be.
-[^17]: Az 1. melléklet 1. pontja a 36/2014. (IV. 4.) VM rendelet 70. § d) pontja szerint módosított szöveg.
+[^33]: A 10. §-t újonnan a 36/2014. (IV. 4.) VM rendelet 68. §-a iktatta be, hatályon kívül helyezte a 80/2016. (XII. 13.) FM rendelet 12. §-a.
+[^34]: Az 1. melléklet címe a 80/2016. (XII. 13.) FM rendelet 11. § m) pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet 1. pontja a 36/2014. (IV. 4.) VM rendelet 70. § d) pontja szerint módosított szöveg.

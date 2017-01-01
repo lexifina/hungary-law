@@ -1,4 +1,4 @@
-2. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^18]
+2. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^36]
 
 ## A vámhatóság adó-visszatérítéssel kapcsolatos adatszolgáltatásának adattartalma
 
@@ -28,4 +28,4 @@ e) a visszatérítés alapját képző gázolaj mennyisége literben.
 
 6. Az éves adóbevallás részeként benyújtott igénylés esetén a jövedékiadó-visszatérítés alapját képező, a IV. negyedéves adóbevallás részeként benyújtott igénylés esetén a tárgyévi teljes jövedékiadó-visszatérítés alapját képező gázolaj 1 hektárra jutó mennyisége (liter/hektár).
 
-[^18]: A 2. melléklet a 36/2014. (IV. 4.) VM rendelet 69. §-ával megállapított szöveg.
+[^36]: A 2. melléklet a 36/2014. (IV. 4.) VM rendelet 69. §-ával megállapított szöveg.
