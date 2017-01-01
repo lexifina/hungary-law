@@ -38,4 +38,7 @@ r) a felelős műszaki vezető nyilatkozatát arra vonatkozóan, hogy a jegyzők
 
 (2) A katonai építésfelügyeleti hatóság a jegyzőkönyv egy példányát az építési naplóhoz csatolja, a másik példány a hatósági ügyirat része. A jegyzőkönyv egy-egy másolati példányát az építésügyi hatóság, illetve az építtető részére küldi meg.
 
+(3)[^6] Az elektronikus építési naplóba a minősített adatot tartalmazó tervdokumentációt és műszaki leírást nem kell feltölteni, azokat papír alapon kell a helyszíni ellenőrzés során a katonai építésfelügyeleti hatóság rendelkezésére bocsátani.
+
 [^5]: A 8. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 8. § (3) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 46. §-a iktatta be.
