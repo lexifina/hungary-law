@@ -1,5 +1,0 @@
-14. § (1) A tenyészetben lévő állomány gümőkór-, brucellózis- és leukózismentességét a hatósági állatorvos vagy a járási főállatorvos a támogatási kérelmen igazolja. A mentességnek már a támogatási kérelem benyújtásakor fenn kell állnia. Ha a kérelem benyújtásakor a mentesség nem áll fenn, a támogatási kérelem vis maior kérelem benyújtásával sem fogadható el.
-
-(2) A támogatás alapjául figyelembe vehető állatlétszámban az üszők aránya a birtokon tartás teljes ideje alatt legfeljebb 40% lehet.
-
-(3) A (2) bekezdésben és a 13. § (3) bekezdés d) pontjában meghatározott százalékos arány esetén a számítás során egész számra történő kerekítést kell alkalmazni.

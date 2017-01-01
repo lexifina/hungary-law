@@ -1,5 +1,0 @@
-21. § (1) A mezőgazdasági termelő a támogatásra bejelentett állatlétszámnak megfelelő anyajuhállományt köteles száz egymást követő napon át birtokán tartani. A birtokon tartási kötelezettség a támogatási kérelem benyújtására nyitva álló határidőt követő naptól kezdődően áll fenn.
-
-(2) Ha a mezőgazdasági termelő a birtokon tartási időszak alatt megváltoztatja a kérelmezett állatállomány tartási helyét, köteles azt a változás bekövetkezésétől számított tizenöt napon belül az MVH részére bejelenteni. A bejelentést és a támogatási kérelemre vonatkozó egyéb módosítást az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon kell benyújtani.
-
-(3) A (2) bekezdés szerinti nyomtatvány az ügyfél azonosításához szükséges adatokat, valamint a támogatással érintett állatokra és a tartási helyre vonatkozó adatokat tartalmazza.
