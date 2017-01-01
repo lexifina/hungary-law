@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-98-00-00
 | --- | --- | --- |
 | 2016-10-20 | 2016. évi XCVIII. törvény | 2016-98-00-00.0 (közlönyállapot) |
 | 2016-10-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-98-00-00.1 |
+| 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-98-00-00.2 |
