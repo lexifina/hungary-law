@@ -1,3 +1,5 @@
+## lép.
+
 ## 9. § Hatályát veszti a 148/2007. (XII. 8.) FVM rendelet
 
 a) 3. § (1) bekezdés nyitó szövegrészében az „– a 3/A. §-ban meghatározott támogatás kivételével –” szövegrész,
