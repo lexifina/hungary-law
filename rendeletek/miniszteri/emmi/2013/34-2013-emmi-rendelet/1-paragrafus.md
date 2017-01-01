@@ -1,5 +1,0 @@
-1. § (1) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény (a továbbiakban: Emtv.) alapján nyilvántartásba vett és a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből támogatásban részesülő előadó-művészeti szervezetet fenntartó, vagy az előadó-művészeti szervezettel közszolgáltatási szerződést kötött önkormányzat (a továbbiakban: Fenntartó), ennek hiányában az előadó-művészeti szervezet (a továbbiakban együtt: Támogatott) az Emtv. szerinti központi költségvetési támogatás (a továbbiakban: támogatás) rendeltetésszerű felhasználásáról az 1. és 2. melléklet szerinti beszámoló alapján számol el az Emtv. 6. § (1) bekezdése szerint kijelölt, az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szerv (a továbbiakban: kijelölt szerv) részére.
-
-(2)–(3)[^2]
-
-[^2]: Az 1. § (2)–(3) bekezdését a 440/2015. (XII. 28.) Korm. rendelet 15. § (3) bekezdés a) pontja hatályon kívül helyezte.
