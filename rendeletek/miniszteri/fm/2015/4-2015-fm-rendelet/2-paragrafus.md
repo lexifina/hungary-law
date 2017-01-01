@@ -10,6 +10,6 @@ c) olyan civil szervezet, amely tagjainak legalább 75%-a a b) pontban meghatár
 
 d) olyan gazdasági társaság, amelynek legalább egy tulajdonosa hegyközségi tag
 
-(a továbbiakban együtt: kérelmező) nyújthat be.
+## (a továbbiakban együtt: kérelmező) nyújthat be.
 
 (2) A kérelmezőnek legkésőbb a programjavaslat benyújtásával egyidejűleg eleget kell tennie a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben előírt, az intézkedésben való részvételhez szükséges nyilvántartásba vételi kötelezettségének.

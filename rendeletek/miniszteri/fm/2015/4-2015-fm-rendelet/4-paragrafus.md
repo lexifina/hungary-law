@@ -2,4 +2,6 @@
 
 (2) A miniszter a programjavaslatok jóváhagyásáról a támogatási keretösszeg és a rangsor alapulvételével határoz a kérelembenyújtási időszak lezárását követő 60 napon belül.
 
-(3) A miniszter döntését a kérelmezővel, továbbá jóváhagyás esetén a Mezőgazdasági és Vidékfejlesztési Hivatallal (a továbbiakban: MVH) is közli. A miniszter a döntés közlésével egyidejűleg a jóváhagyott programjavaslat másolati példányát is megküldi az MVH részére.
+(3)[^3] A miniszter döntését a kérelmezővel, továbbá jóváhagyás esetén a Magyar Államkincstárral (a továbbiakban: Kincstár) is közli. A miniszter a döntés közlésével egyidejűleg a jóváhagyott programjavaslat másolati példányát is megküldi a Kincstár részére.
+
+[^3]: A 4. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 76. § a)–b) pontja szerint módosított szöveg.

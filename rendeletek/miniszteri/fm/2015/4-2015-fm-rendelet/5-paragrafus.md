@@ -10,7 +10,7 @@ ba) a turistaosztályra szóló repülőjegy ára,
 
 bb) a vonatjegy ára,
 
-bc)[^3] az autóval történő közlekedés költségei, ideértve a program megvalósítása érdekében fizetett autópályadíjat, az autóbérlés és a parkolás költségeit is, valamint
+bc)[^4] az autóval történő közlekedés költségei, ideértve a program megvalósítása érdekében fizetett autópályadíjat, az autóbérlés és a parkolás költségeit is, valamint
 
 bd) az utasbiztosítási díjak;
 
@@ -40,7 +40,7 @@ i) PR tevékenységek, média-megjelenés, honlap, film, reklám előállítás�
 
 j) az akció megvalósításában résztvevők napidíja legfeljebb 50 euró/nap/fő összegben, amelynek összesített mértéke nem haladhatja meg a program teljes költségvetésének 5%-át;
 
-k)[^4] a célországban megjelenő sajtótermékek szerzői, az uniós borok megismertetését elősegítő célországbeli szervezetek, társaságok képviselői
+k)[^5] a célországban megjelenő sajtótermékek szerzői, az uniós borok megismertetését elősegítő célországbeli szervezetek, társaságok képviselői
 
 ka) számára váltott business osztályra szóló repülőjegy,
 
@@ -50,7 +50,7 @@ kc) taxival és tömegközlekedéssel történő utazásának költségei, tová
 
 kd) szállásköltségei a 4. melléklet szerint, és étkeztetési költségei,
 
-amelyek mértéke nem haladhatja meg a program teljes költségvetésének 30%-át;
+## amelyek mértéke nem haladhatja meg a program teljes költségvetésének 30%-át;
 
 l) a program megvalósítása során felhasznált reprezentációs termékek költségei, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 20%-át;
 
@@ -68,5 +68,5 @@ m) az 555/2008/EK bizottsági rendelet 5g. cikk (2) bekezdése szerinti, a progr
 
 (7) Eszközbeszerzésnek a számvitelről szóló 2000. évi C. törvény 25. § (7) bekezdése, 47. és 48. §-a, valamint 51–53. §-a szerinti, a program megvalósításához közvetlenül kapcsolódó tárgyi eszközök és immateriális javak beszerzése minősül.
 
-[^3]: Az 5. § (1) bekezdés b) pont bc) alpontja a 21/2016. (III. 31.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 5. § (1) bekezdés k) pontja a 21/2016. (III. 31.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (1) bekezdés b) pont bc) alpontja a 21/2016. (III. 31.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés k) pontja a 21/2016. (III. 31.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.

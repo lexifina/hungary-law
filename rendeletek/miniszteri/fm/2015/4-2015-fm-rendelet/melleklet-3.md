@@ -15,5 +15,3 @@
 ## g) a program megvalósításához igényelni kívánt összes támogatás.
 
 3. melléklet a 4/2015. (II. 19.) FM rendelethez
-
-A program ütemterve
