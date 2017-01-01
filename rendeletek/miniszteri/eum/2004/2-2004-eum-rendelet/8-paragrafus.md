@@ -1,6 +1,6 @@
 8. § (1) A nyilvántartás közhiteles, ellenkező bizonyításáig a bejegyzett adatok fennállását hitelesen tanúsítja.
 
-(2)[^14] A nyilvántartás adatai közérdekűek. Az engedélyező hatóságok és az OTH kérelemre, költségtérítés ellenében a nyilvántartásból adatot szolgáltatnak.
+(2)[^16] A nyilvántartás adatai közérdekűek. Az engedélyező hatóságok és az országos tisztifőorvos kérelemre, költségtérítés ellenében a nyilvántartásból adatot szolgáltatnak.
 
 (3) A nyilvántartás adatait – kérelemre – térítésmentesen kapják meg:
 
@@ -18,4 +18,4 @@ f) az Egészségügyi Stratégiai Kutatóintézet egészségpolitikai elemzési 
 
 g) az országgyűlési biztosok jogszabályban meghatározott feladataik ellátásának céljából.
 
-[^14]: A 8. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 47. § (6) bekezdése szerint módosított szöveg.
+[^16]: A 8. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 47. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 43. § b) pontja szerint módosított szöveg.

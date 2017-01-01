@@ -1,4 +1,4 @@
-4. §[^6] (1) A nyilvántartás a 3. § szerinti célok megvalósítása érdekében, az egészségügyi hatósági és igazgatási tevékenységről szóló törvényben meghatározott adatokon túl a következő adatokat tartalmazza:
+4. §[^7] (1) A nyilvántartás a 3. § szerinti célok megvalósítása érdekében, az egészségügyi hatósági és igazgatási tevékenységről szóló törvényben meghatározott adatokon túl a következő adatokat tartalmazza:
 
 a) az egészségügyi szolgáltató:
 
@@ -42,6 +42,7 @@ cj) az egészségügyi szolgáltatás nyújtásában részt vevő személyi felt
 
 (2) Az (1) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
-(3) A nyilvántartásban szereplő adatok azonosítására az OTH további kódokat állapíthat meg.
+(3)[^8] A nyilvántartásban szereplő adatok azonosítására az országos tisztifőorvos további kódokat állapíthat meg.
 
-[^6]: A 4. § a 73/2013. (XII. 2.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^7]: A 4. § a 73/2013. (XII. 2.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^8]: A 4. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 43. § b) pontja szerint módosított szöveg.
