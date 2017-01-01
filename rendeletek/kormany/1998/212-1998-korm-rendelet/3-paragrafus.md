@@ -1,6 +1,6 @@
 ## Nemzeti hatóság
 
-3. §[^3] (1)[^4] Az Egyezmény végrehajtásának felügyeletét, a nemzeti végrehajtással összefüggő feladatok koordinációját és a rendeletben foglalt előírások betartásának ellenőrzését a Magyar Kereskedelmi Engedélyezési Hivatal Haditechnikai és Exportellenőrzési Hatósága (a továbbiakban: Hivatal) mint kijelölt nemzeti hatóság látja el. Ennek keretében:
+3. §[^3] (1)[^4] Az Egyezmény végrehajtásának felügyeletét, a nemzeti végrehajtással összefüggő feladatok koordinációját és a rendeletben foglalt előírások betartásának ellenőrzését a külkereskedelmi államigazgatási és hadiipari gyártás- és szolgáltatásfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Hivatal) mint kijelölt nemzeti hatóság látja el. Ennek keretében:
 
 a) nyilvántartja a szervezeteket, a szervezetek által benyújtott nyilatkozatokat,
 
@@ -16,11 +16,11 @@ f) elősegíti a Vegyifegyver Tilalmi Szervezetnek az Egyezményben meghatározo
 
 g) megtesz, illetve kezdeményez minden olyan intézkedést, amit az Egyezmény végrehajtása érdekében szükségesnek tart.
 
-(2)[^5] A Hivatal eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(2)[^5]
 
 (3)[^6]
 
 [^3]: A 3. § a 37/2004. (III. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^4]: A 3. § (1) bekezdése a 280/2012. (IX. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 3. § (2) bekezdése a 282/2011. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdése a 280/2012. (IX. 28.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 32. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte.
 [^6]: A 3. § (3) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 13. pontja hatályon kívül helyezte.
