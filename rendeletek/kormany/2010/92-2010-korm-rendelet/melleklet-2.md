@@ -1,6 +1,6 @@
-2. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^18]
+2. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^52]
 
-Az NBF elnöke a 10/B. § (1) bekezdése szerinti Cég-adatlapot az alábbi adattartalommal rendszeresíti:
+Az NBF elnöke az egyszerűsített telephely biztonsági tanúsítvány kiadásához a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
 1. ÁLTALÁNOS ADATOK
 
@@ -32,32 +32,32 @@ Az NBF elnöke a 10/B. § (1) bekezdése szerinti Cég-adatlapot az alábbi adat
 
 1.14. a gazdálkodó szervezet fióktelepei
 
-1.15. a gazdálkodó szervezetnek üzleti kapcsolatai
+1.15. a gazdálkodó szervezet üzleti kapcsolatai
 
-1.16. a gazdálkodó szervezet vezető tisztségviselőinek külföldi személyekkel, szervezetekkel való kapcsolatai.
+1.16. a gazdálkodó szervezet vezető tisztségviselőinek külföldi személyekkel, szervezetekkel való kapcsolatai
 
-2. A GAZDÁLKODÓ SZERVEZET VEZETŐ TISZTSÉGVISELŐJE ÉS TESTÜLETEI
+2. A GAZDÁLKODÓ SZERVEZET VEZETŐJE ÉS TESTÜLETEI
 
-2.1. a gazdálkodó szervezet vezető tisztségviselőjének természetes személyazonosító adatai
+2.1. a gazdálkodó szervezet vezetőjének természetes személyazonosító adatai
 
-2.2. a felügyelő bizottság tagjainak megnevezése
+2.2. a vezetőtestület tagjainak természetes személyazonosító adatai
+
+2.2. a felügyelőbizottság tagjainak megnevezése
 
 2.3. a könyvvizsgáló megnevezése
 
 2.4. a biztonsági vezető természetes személyazonosító adatai
 
-2.5. a 10/B. § (5) bekezdés szerint a gazdálkodó szervezet által meghatározott természetes személy(ek) természetes személyazonosító adatai.
-
 3. A GAZDÁLKODÓ SZERVEZET HELYZETE GAZDASÁGBIZTONSÁGI SZEMPONTBÓL
 
 3.1. a gazdálkodó szervezet működésére irányuló, külföldiek által történő ellenőrzési és befolyásolási kísérletek
 
-3.2. fontosnak ítélt és a biztonsági ellenőrzést elősegítő egyéb közlendő.
+3.2. fontosnak ítélt és a biztonsági ellenőrzést elősegítő egyéb közlendő
 
-4. NYILATKOZATOK
+4. MINŐSÍTETT SZERZŐDÉS
 
-5. MELLÉKLETEK
+a gazdálkodó szervezet minősített szerződésben történő részvétele
 
-a gazdálkodó szervezet előző évi mérlege és ennek kiegészítő melléklete, valamint eredmény-kimutatása.
+5. NYILATKOZATOK
 
-[^18]: A 2. mellékletet a 224/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
+[^52]: A 2. mellékletet a 224/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.

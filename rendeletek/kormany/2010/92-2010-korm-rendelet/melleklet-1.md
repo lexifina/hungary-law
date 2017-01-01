@@ -1,6 +1,6 @@
-1. melléklet a 92/2010. (III. 31.) Korm. rendelethez
+1. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^51]
 
-Az NBF elnöke a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
+Az NBF elnöke a telephely biztonsági tanúsítvány kiadásához a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
 1. ÁLTALÁNOS ADATOK
 
@@ -32,17 +32,17 @@ Az NBF elnöke a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
 1.14. a gazdálkodó szervezet fióktelepei
 
-1.15. a gazdálkodó szervezetnek üzleti kapcsolatai
+1.15. a gazdálkodó szervezet üzleti kapcsolatai
 
-1.16. a gazdálkodó szervezet vezetőségének külföldi személyekkel, szervezetekkel való kapcsolatai.
+1.16. a gazdálkodó szervezet vezetőségének külföldi személyekkel, szervezetekkel való kapcsolatai
 
 2. A GAZDÁLKODÓ SZERVEZET VEZETŐJE ÉS TESTÜLETEI
 
 2.1. a gazdálkodó szervezet vezetőjének természetes személyazonosító adatai
 
-2.2. a vezető testület tagjainak természetes személyazonosító adatai
+2.2. a vezetőtestület tagjainak természetes személyazonosító adatai
 
-2.3. a felügyelő bizottság tagjainak megnevezése
+2.3. a felügyelőbizottság tagjainak megnevezése
 
 2.4. a könyvvizsgáló megnevezése
 
@@ -50,20 +50,22 @@ Az NBF elnöke a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
 2.6. a titkos ügykezelő természetes személyazonosító adatai
 
-2.7. a titkos ügykezelő helyettesének természetes személyazonosító adatai.
+2.7. a titkos ügykezelő helyettesének természetes személyazonosító adatai
+
+2.8. a rendszerbiztonsági felügyelő természetes személyazonosító adatai
+
+2.9. a rendszeradminisztrátor természetes személyazonosító adatai
 
 3. A GAZDÁLKODÓ SZERVEZET HELYZETE GAZDASÁGBIZTONSÁGI SZEMPONTBÓL
 
 3.1. a gazdálkodó szervezetek működésére irányuló, külföldiek által történő ellenőrzési és befolyásolási kísérletek
 
-3.2. fontosnak ítélt és a biztonsági ellenőrzést elősegítő egyéb közlendő.
+3.2. fontosnak ítélt és a biztonsági ellenőrzést elősegítő egyéb közlendő
 
 4. MINŐSÍTETT SZERZŐDÉS
 
-a gazdálkodó szervezet minősített szerződésben történő részvétele.
+a gazdálkodó szervezet minősített szerződésben történő részvétele
 
 5. NYILATKOZATOK
 
-6. MELLÉKLETEK
-
-a gazdálkodó szervezet előző évi mérlege és ennek kiegészítő melléklete, valamint eredménykimutatása.
+[^51]: Az 1. melléklet a 441/2016. (XII. 16.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.

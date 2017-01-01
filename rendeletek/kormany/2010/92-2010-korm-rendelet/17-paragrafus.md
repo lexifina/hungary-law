@@ -1,7 +1,9 @@
-## 17. § Ez a rendelet
+## 17. §[^46] Ez a rendelet
 
-1. a Tanács biztonsági szabályzatának elfogadásáról szóló 264/2001. EK határozat, és a módosításáról szóló 952/2005. EK határozat,
+1. az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozat,
 
-2. a Bizottság eljárási szabályzatáról szóló C/3614/2000. határozat módosításáról szóló 844//2001. EK, ESZAK, Euratom határozat 27. cikke
+2. az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2015. március 13-i 2015/444/EU bizottsági határozat
 
-végrehajtásához szükséges rendelkezéseket állapít meg.
+végrehajtásához szükséges rendelkezéseket határoz meg.
+
+[^46]: A 17. § a 441/2016. (XII. 16.) Korm. rendelet 38. §-ával megállapított szöveg.

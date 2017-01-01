@@ -1,13 +1,24 @@
-## 9. § A telephely biztonsági tanúsítvány visszavonásig érvényes.
+## 9. §[^30] A telephely biztonsági tanúsítvány, valamint az egyszerűsített telephely biztonsági tanúsítvány visszavonásig érvényes.
 
-10. § (1) Az NBF a telephely biztonsági tanúsítványt visszavonja
+10. §[^31] (1) Az NBF a telephely biztonsági tanúsítványt visszavonja, ha
 
-a) a 6. § (2) bekezdés a)–d) pontjában meghatározott feltételek már nem állnak fenn,
+a) a 6. § (2) bekezdésében meghatározott feltételek már nem állnak fenn,
 
-b) ha a gazdálkodó szervezet a 7. § (1) bekezdésében meghatározott biztonsági követelményeket nem teljesíti,
+b) a gazdálkodó szervezet a 7. § (1) bekezdésében meghatározott biztonsági követelményeket nem teljesíti,
 
-c) ha a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz, vagy
+c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz, vagy
 
-d) ha a 7. § (2) bekezdés, valamint a 12. § (3) bekezdés szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz eleget.
+d) a 7. § (3) bekezdés a) pontja, valamint a 12. § (3) bekezdése szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz eleget.
 
-(2) Amennyiben a telephely biztonsági tanúsítvány visszavonására az (1) bekezdésben foglaltak miatt kerül sor, a gazdálkodó szervezet a visszavonásról szóló határozat jogerőre emelkedésétől számított 2 éven belül nem kérelmezheti újabb iparbiztonsági ellenőrzés végrehajtását.
+(2) Az NBF az egyszerűsített telephely biztonsági tanúsítványt visszavonja, ha
+
+a) a 6. § (4) bekezdésében meghatározott feltételek már nem állnak fenn,
+
+b) a gazdálkodó szervezet a 7. § (2) bekezdésében meghatározott biztonsági követelményeket nem teljesíti,
+
+c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz, vagy
+
+d) a 7. § (3) bekezdés a) pontja, valamint a 12. § (3) bekezdése szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz eleget.
+
+[^30]: A 9. § a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^31]: A 10. § a 441/2016. (XII. 16.) Korm. rendelet 35. §-ával megállapított szöveg.

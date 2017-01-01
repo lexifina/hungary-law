@@ -2,12 +2,17 @@
 
 2. § (1) A telephely biztonsági tanúsítvány tartalmazza, hogy a gazdálkodó szervezet legfeljebb milyen minősítési szintű minősített szerződés végrehajtásába vonható be, továbbá, hogy milyen szintű minősített adat kezeléséhez rendelkezik a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló kormányrendeletben meghatározott Engedéllyel (a továbbiakban: Engedély), és az elektronikus biztonság részletes szabályairól szóló kormányrendeletben előírt Rendszerengedéllyel (a továbbiakban: Rendszerengedély).
 
-(2) A telephely biztonsági tanúsítvány
+(2)[^3] Az egyszerűsített telephely biztonsági tanúsítvány tartalmazza, hogy a gazdálkodó szervezet legfeljebb milyen minősítési szintű minősített szerződés végrehajtásába vonható be.
 
-a) Szigorúan titkos, Titkos, Bizalmas,
+(3)[^4] A telephely biztonsági tanúsítvány, valamint az egyszerűsített telephely biztonsági tanúsítvány
 
-b) NATO Titkos, NATO Bizalmas,
+a) „Szigorúan titkos!”, „Titkos!”, „Bizalmas!”,
 
-c) EU Titkos, EU Bizalmas
+b) „NATO Titkos!”, „NATO Bizalmas!”,
+
+c) „EU Titkos!”, „EU Bizalmas!”
 
 minősítési szintekre adható ki.
+
+[^3]: A 2. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (3) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 28. § (2) bekezdése iktatta be.
