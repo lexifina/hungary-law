@@ -1,0 +1,3 @@
+## 9. § Az R1. 147. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+## „(10) Az intézményi látogatást követően a (8) bekezdés szerinti szakértői dokumentum rögzítését megelőzően az ellenőrzésben részt vett személy, továbbá intézményellenőrzés esetén az intézmény vezetője a nevelőtestülettel egyeztetve értékelőlapot tölthet ki a szakértőkről a hivatal által működtetett informatikai támogató rendszerben. A hivatal az értékelőlapot a szakértői tevékenység egységes értékelési szempontjai alapján állítja össze. A hivatal a szakértőkről készült értékelőlapok tartalmáról minden év november 30-ig összesítő kimutatást készít, melyet az informatikai támogató rendszerben elérhetővé tesz a szakértő számára.”

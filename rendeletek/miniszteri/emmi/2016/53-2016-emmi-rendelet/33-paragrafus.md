@@ -1,0 +1,5 @@
+## 32. § Az R5. 17. § (5) bekezdése helyébe a következő rendelkezés lép, és a § a következő (6) bekezdéssel egészül ki:
+
+## „(5) A szakértői véleményt, az e bekezdésben foglalt kivétellel – a vizsgálat lezárását követő huszonegy napon belül – kézbesíteni kell a szülőnek. Amennyiben a szülő a 16. § (3) bekezdése alapján összeállított intézményjegyzékről köznevelési intézményt nem választ, a szakértői bizottság a vizsgálat lezárását követő harmincadik napon a gyermeket, tanulót ellátó intézményt saját választása alapján kijelöli és a szakértői véleményt a kijelöléstől számított öt munkanapon belül a szülőnek kézbesíti.
+
+## (6) A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént, vagy amely napon a szülő az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.”

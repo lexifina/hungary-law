@@ -1,0 +1,3 @@
+## 41. § Az R5. 13. alcíme a következő 35/A. §-sal egészül ki:
+
+## „35/A. § Az oktatási központ az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet 5. § (2) bekezdés 16. pontja alapján, a szakszolgálati feladatellátás szakmai egységességének biztosítása érdekében, a miniszter szakmai iránymutatásával főigazgatói munkaközösséget működtet. A főigazgatói munkaközösség tagjai a tankerületi központok által fenntartott Intézmények intézményvezetői, akik a munkaközösség vezetőjét tagjaik közül választják. A főigazgatói munkaközösség üléseit legalább háromhavonta tartja. A főigazgatói munkaközösség az ügyrendjét maga alkotja meg.”
