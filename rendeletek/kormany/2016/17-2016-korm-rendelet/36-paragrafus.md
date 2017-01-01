@@ -12,8 +12,9 @@ a támogatott személy – a családi otthonteremtési kedvezmény visszafizeté
 
 (2) Nem minősül a 14. § (3) bekezdés j) pontjában foglalt életvitelszerű tartózkodás megsértésének, ha a támogatott, vagy az a gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelte, a 14. § (3) bekezdés j) pontjában meghatározott időtartam vége előtt elhalálozik.
 
-(3)[^27]
+(3)[^47]
 
-(4) Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
+(4)[^48] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a járási hivatal intézkedik.
 
-[^27]: A 36. § (3) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^47]: A 36. § (3) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^48]: A 36. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 9. pontja szerint módosított szöveg.

@@ -1,8 +1,16 @@
-16. § (1)[^16] A családi otthonteremtési kedvezmény igénybevételével
+16. § (1)[^23] A családi otthonteremtési kedvezmény igénybevételével
 
 a) vásárolt használt lakásra a családi otthonteremtési kedvezmény igénybevételéről szóló szerződés megkötését követő,
 
-b) bővített lakásra a munkálatok idejére és a munkálatok befejezését, vagy – építési engedélyköteles bővítés esetén – a használatbavételi engedély kiadását vagy a használatbavétel tudomásulvételét követő,
+b)[^24] bővített lakásra a munkálatok idejére és
+
+ba) a munkálatok befejezését, vagy
+
+bb) építésiengedély-köteles bővítés esetén a használatbavételi engedély kiadását vagy a használatbavétel tudomásulvételét, vagy
+
+bc) egyszerű bejelentéshez kötött bővítése esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítását
+
+## követő,
 
 c) a 23. § szerinti esetben a családi otthonteremtési kedvezmény igénybevételéről szóló szerződés megkötésének időpontjától számítva
 
@@ -10,4 +18,5 @@ c) a 23. § szerinti esetben a családi otthonteremtési kedvezmény igénybevé
 
 (2) Az állam javára szóló jelzálogjog, valamint az elidegenítési és terhelési tilalom bejegyzésekor a hitelintézet jár el.
 
-[^16]: A 16. § (1) bekezdés záró szövegrésze a 273/2016. (IX. 15.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
+[^23]: A 16. § (1) bekezdés záró szövegrésze a 273/2016. (IX. 15.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
+[^24]: A 16. § (1) bekezdés b) pontja a 482/2016. (XII. 28.) Korm. rendelet 49. §-ával megállapított szöveg.
