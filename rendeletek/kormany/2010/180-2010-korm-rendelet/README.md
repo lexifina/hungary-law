@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-180-20-
 | 2013-07-06 | 2010-180-20-22.8 | 254/2013. (VII. 5.) Korm. rendelet |
 | 2015-03-01 | 2010-180-20-22.9 | 254/2013. (VII. 5.) Korm. rendelet |
 | 2016-01-01 | 2010-180-20-22.10 | 254/2013. (VII. 5.) Korm. rendelet |
+| 2017-01-01 | 2010-180-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |

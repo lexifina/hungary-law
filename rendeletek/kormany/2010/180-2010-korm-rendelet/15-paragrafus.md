@@ -1,3 +1,3 @@
-## 14. §[^23]
+## 14. §[^32]
 
-[^23]: A 14. §-t a 254/2013. (VII. 5.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.
+[^32]: A 14. §-t a 254/2013. (VII. 5.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.

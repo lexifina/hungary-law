@@ -1,6 +1,6 @@
-3. § (1)[^2] Az előzetes befogadási eljárás során az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) megállapítja, hogy a kérelemben megjelölt technológia, valamint az új gyógyszert igénylő technológia finanszírozásba történő befogadásra alkalmas-e.
+3. § (1)[^2] Az előzetes befogadási eljárás során a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) megállapítja, hogy a kérelemben megjelölt technológia, valamint az új gyógyszert igénylő technológia finanszírozásba történő befogadásra alkalmas-e.
 
-(2) Az OEP feladatai:
+(2)[^3] A NEAK feladatai:
 
 a) az előzetes befogadási eljárás lefolytatása,
 
@@ -10,4 +10,5 @@ c) a miniszter tájékoztatása a kérelemben meghatározott technológia által
 
 d) a már befogadott technológiák körének folyamatos felülvizsgálata, javaslattétel a miniszter számára a finanszírozási paraméterek módosítására és a befogadott technológiák törlésére.
 
-[^2]: A 3. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 285. §-a szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés b) pontja szerint módosított szöveg.
