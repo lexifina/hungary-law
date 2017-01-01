@@ -1,6 +1,6 @@
-4. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^143]
+4. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^144]
 
-Nyelvismereti vizsga követelményei
+## Nyelvismereti vizsga követelményei
 
 I. NYELVISMERETI KÖVETELMÉNYEK
 
@@ -122,4 +122,4 @@ n) a nyelvi követelmények bemutatása minden egyes szinten
 
 o) vizsgaminták.
 
-[^143]: A 4. melléklet a 62/2012. (XI. 26.) NFM rendelet 10. § k) pontja, a 43/2016. (XI. 2.) NFM rendelet 13. § 45. pontja és 14. § 38. pontja szerint módosított szöveg.
+[^144]: A 4. melléklet a 62/2012. (XI. 26.) NFM rendelet 10. § k) pontja, a 43/2016. (XI. 2.) NFM rendelet 13. § 45. pontja és 14. § 38. pontja szerint módosított szöveg.

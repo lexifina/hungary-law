@@ -114,9 +114,9 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum |
 
-3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^142]
+3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^143]
 
-SZAKSZOLGÁLATI ENGEDÉLY KÉRŐ LAP
+## SZAKSZOLGÁLATI ENGEDÉLY KÉRŐ LAP
 
 1. Szakszolgálati engedély kérő lap:
 
@@ -246,4 +246,4 @@ SZAKSZOLGÁLATI ENGEDÉLY KÉRŐ LAP
 
 | Oldal 2/2 |
 
-[^142]: A 3. melléklet a 43/2016. (XI. 2.) NFM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^143]: A 3. melléklet a 43/2016. (XI. 2.) NFM rendelet 12. § (3) bekezdésével megállapított szöveg.

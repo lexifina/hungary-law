@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-17-20-0
 | 2012-12-26 | 2008-17-20-0L.7 | 62/2012. (XI. 26.) NFM rendelet |
 | 2013-01-25 | 2008-17-20-0L.8 | 62/2012. (XI. 26.) NFM rendelet |
 | 2016-11-02 | 2008-17-20-0L.9 | 43/2016. (XI. 2.) NFM rendelet |
+| 2017-01-01 | 2008-17-20-0L.10 | 66/2016. (XII. 29.) NFM rendelet |

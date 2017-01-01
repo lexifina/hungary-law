@@ -1,3 +1,3 @@
-55. §[^83]
+## 54. §[^83]
 
-[^83]: Az 55. §-t a 43/2016. (XI. 2.) NFM rendelet 14. § 26. pontja hatályon kívül helyezte.
+[^83]: Az 54. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
