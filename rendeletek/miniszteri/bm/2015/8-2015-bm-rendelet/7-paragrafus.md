@@ -1,5 +1,0 @@
-7. § (1) A fertőző beteget elszállításáig az elkülönítő helyiségben kell elhelyezni. A fertőző beteg elszállítása után a BÁH szerződéses orvosa intézkedik a fertőző ágens elleni hatékony fertőtlenítésről, amely kiterjed a helyiség, a berendezési és használati tárgyak, textíliák fertőtlenítésére.
-
-(2) Ha a fertőző beteggel szállítása során a rendőrség személyi állományának valamely tagja érintkezett, úgy a BÁH közegészségügyi szakorvosa – a rendőrség személyi állományának egészsége védelmében – a járványügyi eseményről és a megtett intézkedésekről haladéktalanul értesíti a rendvédelmi tisztiorvost.
-
-(3) Amennyiben a menekültügyi vagy idegenrendészeti eljárás során fertőző megbetegedésre vagy annak gyanújának megállapítására kerül sor, és a megbetegedett személy más helyszínre kerül átszállításra, a megállapított tényről, körülményről a vizsgálatot végző orvos haladéktalanul, de legkésőbb a befogadást megelőzően tájékoztatja az átszállítás helye szerinti intézmény vezetőjét, valamint az ott egészségügyi szolgálatot ellátó személyeket.
