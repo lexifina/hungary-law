@@ -1,4 +1,4 @@
-## 11. §[^12] Az NKH Központja szervezésében – az ellenőrző szervekkel történő egyeztetés alapján és részvételükkel – évente legalább hat alkalommal összehangolt közúti ellenőrzést kell tartani az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére. Az összehangolt közúti ellenőrzéseket a szomszédos állomokkal összeegyeztetett időben kell végrehajtani.
+## 11. §[^12] A közlekedésért felelős miniszter által vezetett minisztérium szervezésében – az ellenőrző szervekkel történő egyeztetés alapján és részvételükkel – évente legalább hat alkalommal összehangolt közúti ellenőrzést kell tartani az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére. Az összehangolt közúti ellenőrzéseket a szomszédos állomokkal összeegyeztetett időben kell végrehajtani.
 
 12. § (1)[^13] Az üzembentartónak Magyarország területén lévő telephelyén végzett hatósági ellenőrzés (a továbbiakban: telephelyi ellenőrzés) az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére terjed ki, így különösen:
 
@@ -24,7 +24,7 @@ f)[^14] a 165/2014/EU európai parlamenti és tanácsi rendeletben, valamint a 1
 
 (6) E rendelet alkalmazásában telephelyi ellenőrzésnek minősül az üzembentartó által az ellenőrző szerv részére átadott okmányoknak és adatoknak az ellenőrző szerv saját hivatalában elvégzett vizsgálata is.
 
-[^12]: A 11. § a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja, a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^12]: A 11. § a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
 [^13]: A 12. § (1) bekezdés nyitó szövegrésze a 304/2011. (XII. 23.) Korm. rendelet 26. § a) pontja, a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^14]: A 12. § (1) bekezdés f) pontja a 8/2016. (II. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^15]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet.
