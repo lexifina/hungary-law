@@ -32,6 +32,6 @@
 
 ## r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-3–4. melléklet a 47/2015. (VIII. 12.) FM rendelethez[^27]
+3–4. melléklet a 47/2015. (VIII. 12.) FM rendelethez[^47]
 
-[^27]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -40,7 +40,7 @@ bb)[^6] az 1. és 3. mellékletében egyaránt szereplő településen működő
 
 ## kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^7] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
 
-6. költségátalány: a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6%-a;
+6.[^8] költségátalány: a Magyar Államkincstárhoz (a továbbiakban: Kincstár) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6%-a;
 
 7. önálló kamattámogatási kérelem: a kamattámogatási kérelem beadásának időpontjában hatályos, a hitelprogram keretében megkötött hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely legfeljebb a kamattámogatási kérelem beadásának naptári negyedévét megelőző második naptári negyedév első napjától kezdődően, a hitel hátralévő futamidejére vonatkozik;
 
@@ -48,11 +48,11 @@ bb)[^6] az 1. és 3. mellékletében egyaránt szereplő településen működő
 
 9. támogatástartalom: a vállalkozás számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-10. támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, az MVH által kiállított igazolás, amely a hitelcél szerint megállapított támogatás csekély összegű támogatás kategóriáját is megjelöli;
+10.[^9] támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Kincstár által kiállított igazolás, amely a hitelcél szerint megállapított támogatás csekély összegű támogatás kategóriáját is megjelöli;
 
 11. vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő hitelfelvevő.
 
-12.[^8] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+12.[^10] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
 [^1]: Az 1. § 5. pontja a 77/2015. (XII. 1.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.
@@ -61,4 +61,6 @@ bb)[^6] az 1. és 3. mellékletében egyaránt szereplő településen működő
 [^5]: Az 1. § 5b. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 5b. pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a szerint módosított szöveg.
 [^7]: A hatálybalépés időpontja 2016. július 22.
-[^8]: Az 1. § 12. pontját az 51/2016. (VII. 21.) FM rendelet 22. § (2) bekezdése iktatta be.
+[^8]: Az 1. § 6. pontja a 88/2016. (XII. 29.) FM rendelet 90. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § 10. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § 12. pontját az 51/2016. (VII. 21.) FM rendelet 22. § (2) bekezdése iktatta be.
