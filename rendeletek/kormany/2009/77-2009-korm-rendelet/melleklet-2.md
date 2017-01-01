@@ -6,35 +6,35 @@
 
 | 2. | szivárgó építés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 0+000 - 15+195 tkm közötti szakaszán töltéskorona stabilizáció, belterületi szakaszon mentett oldali zárt szivárgó létesítése kb. 2000 fm hosszban | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 3. | töltéserősítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 15+195 - 30+253 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | töltéserősítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 15+195 - 30+253 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 4. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 5. | szivárgó építés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 15+195 - 30+253 tkm közötti szakaszán kb. 2000 fm hosszban belterületi szakaszon mentett oldali zárt szivárgó létesítése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | új védvonal kiépítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, kb. 4,5 km hosszú új árvízvédelmi töltés építése, Dunaszentpál település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 6. | új védvonal kiépítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, kb. 4,5 km hosszú új árvízvédelmi töltés építése, Dunaszentpál település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 7. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 8. | pontszerű fejlesztések | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz 8+194 - 9+980 tkm közötti szakaszán pontszerű kiépítettség hiányok megszüntetése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 9. | töltéserősítés | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, 9+980 - 30+569 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 9. | töltéserősítés | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, 9+980 - 30+569 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 10. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 11. | új védvonal kiépítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, kb. 4,8 km hosszú új árvízvédelmi töltés építése, Mecsér település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 11. | új védvonal kiépítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, kb. 4,8 km hosszú új árvízvédelmi töltés építése, Mecsér település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 12. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | töltéserősítés | 01.11. Győr-Koroncói árvízvédelmi szakasz, Likócsi szakaszán töltéserősítés 1000 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 13. | töltéserősítés | 01.11. Győr- Koroncói árvízvédelmi szakasz, Likócsi szakaszán töltéserősítés 1000 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 14. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | új védvonal kiépítése | 01.11. Győr-Koroncói árvízvédelmi szakasz, Likócsi szakaszán új védvonal építése kb. 800 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 15. | új védvonal kiépítése | 01.11. Győr- Koroncói árvízvédelmi szakasz, Likócsi szakaszán új védvonal építése kb. 800 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 16. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 17. | műtárgy átépítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszegi zsilip átépítése hallépcső készítése | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 17. | műtárgy átépítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszegi zsilip átépítése hallépcső készítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 18. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -46,7 +46,7 @@
 
 | 22. | műtárgy átépítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Püspökerdei-holtág beeresztő zsilip átépítése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 23. | új zsilip létesítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszentpál új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 23. | új zsilip létesítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszentpál új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 24. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -58,15 +58,15 @@
 
 | 28. | műtárgy átépítés | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, Rendeki zsilip átépítése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 29. | új zsilip létesítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, Mecsér új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 29. | új zsilip létesítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, Mecsér új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 30. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 31. | új árvízkapu létesítése | 01.11. Győr-Koroncói árvízvédelmi szakasz, Iparcsatorna torkolatában új árvízkapu létesítése | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 31. | új árvízkapu létesítése | 01.11. Győr- Koroncói árvízvédelmi szakasz, Iparcsatorna torkolatában új árvízkapu létesítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 32. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 33. | új töltés építés | a Nagy Duna bp. 9+650- 10+682 tkm (Dunavecse) szakaszán, a töltés nyomvonalának áthelyezése, ~220 m hosszú mentetlen oldali magánterület kisajátításával, a vízoldal felé | előzetes vizsgálati dokumentáció | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 33. | új töltés építés | a Nagy Duna bp. 9+650- 10+682 tkm (Dunavecse) szakaszán, a töltés nyomvonalának áthelyezése, ~220 m hosszú mentetlen oldali magánterület kisajátításával, a vízoldal felé | előzetes vizsgálati dokumentáció | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 34. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -74,9 +74,9 @@
 
 | 36. | töltéserősítés | a Nagy Duna Csepel- sziget bp. 48+500- 50+564 tkm (Szigetújfalu) szakaszán, a töltés koronájának 4,0 m-re való szélesítése a mentett oldal felé, a jelenlegi, mindkét oldalon ~1:2-es meredekségű rézsű, előírásoknak megfelelő mértékre való kialakítása, illetve a MÁSZ+1,0 m-hez viszonyított magassági hiányok pótlása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 37. | töltéserősítés | a Nagy Duna Csepel-sziget bp. 60+013-62+550 tkm (Tököl) szakaszán, a töltés MÁSZ+1,0 m-re való (20-40 cm) magasítása, 4,0 m koronaszélességre, illetve a jelenlegi, mindkét oldalon ~1:2 -es meredekségű rézsű, előírásoknak megfelelő mértékre való kialakítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 37. | töltéserősítés | a Nagy Duna Csepel- sziget bp. 60+013- 62+550 tkm (Tököl) szakaszán, a töltés MÁSZ+1,0 m-re való (20-40 cm) magasítása, 4,0 m koronaszélességre, illetve a jelenlegi, mindkét oldalon ~1:2 -es meredekségű rézsű, előírásoknak megfelelő mértékre való kialakítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 38. | töltéserősítés | a Szentendrei-szigetet Horány térségében átszelő elsőrendű védvonal 1+600-2+905 tkm szakaszán, a töltés MÁSZ+1,0 m-re való magasítása 4,0 m koronaszélességgel min. 1:3-as vízoldali rézsűhajlás mellett | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 38. | töltéserősítés | a Szentendrei-szigetet Horány térségében átszelő elsőrendű védvonal 1+600- 2+905 tkm szakaszán, a töltés MÁSZ+1,0 m-re való magasítása 4,0 m koronaszélességgel min. 1:3-as vízoldali rézsűhajlás mellett | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 39. | töltéserősítés | a Nagy Duna Szentendre-szigeti jp. 5+200-6+200 tkm szakaszán (Horány) a töltés MÁSZ+1,0 m-re való (60-100 cm-rel) magasítása 4,0 m koronaszélességgel, min. 1:3-as vízoldali rézsűhajlás mellett | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -132,13 +132,13 @@
 
 | 65. | rekonstrukció | 03.02 Baja - Foktői védelmi szakasz 2+466 tkm Gránátos u. vízátvezetés rekonstrukció | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 66. | rekonstrukció | 03.02 Baja - Foktői védelmi szakasz 2+905 tkm DVCS. torkolati szivattyú-telep rekonstrukció | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 66. | rekonstrukció | 03.02 Baja - Foktői védelmi szakasz 2+905 tkm DVCS. torkolati szivattyú- telep rekonstrukció | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 67. | rekonstrukció | 03.02 Baja - Foktői védelmi szakasz 2+956 tkm Békavári zsilip rekonstrukció | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 68. | rekonstrukció | 03.02 Baja - Foktői védelmi szakasz 9+942 tkm Érsekcsanádi szivattyú-telep rekonstrukció | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 69. | töltéserősítés | 03.02 Baja - Foktői védelmi szakasz 9+730- 10+720 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 69. | töltéserősítés | 03.02 Baja - Foktői védelmi szakasz 9+730-10+720 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 70. | töltéserősítés | 03.02 Baja - Foktői védelmi szakasz 11+140-11+270 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -190,7 +190,7 @@
 
 | 94. | töltéskorona burkolás | a Duna jp. 25+491 - 26+900 tkm között aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 95. | töltéserősítés | a Duna jp. 28+692 - 30+570 tkm között mentett oldali leterhelő- szivárgó szőnyeg, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 95. | töltéserősítés | a Duna jp. 28+692 - 30+570 tkm között mentett oldali leterhelő-szivárgó szőnyeg, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 96. | töltéserősítés | a Duna jp. 30+570 - 36+800 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, szélesítés 4,0 m-re, mentett oldali töltéserősítés 1:3 rézsűhajlással, mentett oldali leterhelő-szivárgó szőnyeg, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -212,11 +212,11 @@
 
 | 105. | töltéserősítés, burkolatépítés | a Szent László víz bp. 0+000 - 4+735 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, szélesítés 4,0 m-re, mentett oldali töltéserősítés 1:3 rézsűhajlással, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 106. | töltéserősítés | a Duna jp. 0+030 tkm- ben lévő Báta I. szivattyútelepi épület felújítása, nyomócső javítása, elzáró szerkezet javítása, téglafalazatok vízzáróságának biztosítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 106. | töltéserősítés | a Duna jp. 0+030 tkm-ben lévő Báta I. szivattyútelepi épület felújítása, nyomócső javítása, elzáró szerkezet javítása, téglafalazatok vízzáróságának biztosítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 107. | műtárgy rekonstrukció | a Duna jp. 17+650 tkm- ben lévő Lankóci szivattyútelepi épület felújítása, acélszerkezetek, gépi berendezések rekonstrukciója | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 107. | műtárgy rekonstrukció | a Duna jp. 17+650 tkm-ben lévő Lankóci szivattyútelepi épület felújítása, acélszerkezetek, gépi berendezések rekonstrukciója | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 108. | műtárgy rekonstrukció | a Duna jp. 28+499 tkm- ben lévő Sió árvízkapu teljes rekonstrukciója, acél- és vasbeton szerkezetek, gépi berendezések, épületek felújítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 108. | műtárgy rekonstrukció | a Duna jp. 28+499 tkm-ben lévő Sió árvízkapu teljes rekonstrukciója, acél- és vasbeton szerkezetek, gépi berendezések, épületek felújítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 109. | műtárgy rekonstrukció | Sió bp. 7+430 tkm-ben Kutyatanyai zsilipnél ellennyomó medence építése, a műtárgy mentett oldali részének megerősítésére, a tönkremenetel megakadályozására | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -236,9 +236,9 @@
 
 | 117. | műtárgy rekonstrukció | Duna jp. 63+699 tkm Tüzéptelepi rekonstrukciója, acél- és vasbeton szerkezetek felújítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 118. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Szekszárdi Járási Hivatal | Tolna Megyei Kormányhivatal |
+| 118. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Tolna Megyei Kormányhivatal Szekszárdi Járási Hivatala | Tolna Megyei Kormányhivatal |
 
-| 119. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 119. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
 2. számú melléklet a 77/2009. (IV. 8.) Korm. rendelethez[^9]
 
@@ -246,44 +246,46 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
 | 2. | építésügy | illetékes járási (fővárosi kerületi) hivatal | illetékes fővárosi és megyei kormányhivatal |
 
-| 3. | közlekedés: közút | illetékes fővárosi és megyei kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 3. | közlekedés: közút | illetékes járási (fővárosi kerületi) hivatal | illetékes fővárosi és megyei kormányhivatal |
 
-| 4. | közlekedés: vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 4. | közlekedés: vasút | közlekedésért felelős miniszter | nincs |
 
-| 5. | közlekedés: légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | közlekedés: hajózás | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
-| 6. | földtan | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 6. | közlekedés: légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 7. | bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 7. | földtan | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 8. | rendészet (rendőrség): gyorsforgalmi utak esetében | illetékes megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
+| 8. | bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 9. | rendészet (rendőrség): az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
+| 9. | rendészet (rendőrség): gyorsforgalmi utak esetében | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 10. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | rendészet (rendőrség): az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 11. | honvédelem | honvédelemért felelős miniszter | nincs |
+| 11. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. | földművelésügy: termőföldvédelem | illetékes fővárosi és megyei kormányhivatal | földügyért felelős miniszter |
+| 12. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 13. | földművelésügy: talajvédelem | illetékes megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 13. | termőföldvédelem | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-| 14. | földművelésügy: erdővédelem | illetékes megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 14. | földművelésügy: talajvédelem | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-| 15. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
+| 15. | földművelésügy: erdővédelem | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
-| 16. | egészségügy | illetékes fővárosi és megyei kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 16. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-| 17. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 17. | egészségügy | illetékes járási (fővárosi kerületi) hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 18. | műszaki biztonság | illetékes fővárosi és megyei kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 19. | környezetvédelem, természetvédelem | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 19. | műszaki biztonság | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-| 20. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 20. | környezetvédelem, természetvédelem | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
-[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 10. § (1) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 72. §-a, a 271/2016. (IX. 1.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+| 21. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+
+[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 9. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
