@@ -1,4 +1,4 @@
-## 70. §[^36]
+## adja meg.
 
 ## V. Fejezet
 
@@ -6,4 +6,16 @@
 
 ## 37. A hatóság szakhatósági eljárása és a szakkérdés vizsgálata
 
-[^36]: A 70. § a 82. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+71. § (1) A szakhatósági hatáskörében eljáró vagy örökségvédelmi szakkérdést vizsgáló hatóság a nyilvántartott régészeti lelőhelyet, a régészeti védőövezetet, a nyilvántartott műemléki értéket, a műemléket, a műemléki környezetet, a műemléki jelentőségű területet, a történeti tájat és világörökségi helyszínt vagy világörökségi területet érintő ügyben a 72. §-ban, valamint a 73. §-ban meghatározott szempontok alapján vizsgálja, hogy a tervezett tevékenység megfelel-e a Kötv.-ben és az e rendeletben meghatározott követelményeknek.
+
+(2) Ha a hatóság szakhatósági hatáskörében vagy szakkérdés vizsgálata során a nyilvántartott régészeti lelőhelyet, a régészeti védőövezetet, a nyilvántartott műemléki értéket, a műemléket, a műemléki környezetet, a műemléki jelentőségű területet, a történeti tájat és világörökségi helyszínt vagy világörökségi területet érintő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a kibocsátásától számított hat hónapig használható fel.
+
+(3) A világörökségi helyszínt vagy világörökségi területet érintő szakhatósági eljárásban vagy az örökségvédelmi szakkérdés vizsgálata során a hatóság – legalább ötnapos határidő kitűzésével – kikéri a miniszter véleményét, állásfoglalását ennek figyelembevételével adja meg.
+
+(4) A szakhatósági hatáskörében eljáró vagy az örökségvédelmi szakkérdést vizsgáló hatóság döntéselőkészítő örökségvédelmi hatástanulmány elkészítését írhatja elő a beruházás előkészítését meghatározó feltételek tisztázása érdekében
+
+a) a bányászati kutatási műszaki üzemi terv jóváhagyása, bányatelek megállapítása és módosítása, védőpillér kijelölése, módosítása, meggyengítése és lefejtése,
+
+b) előzetes környezeti hatásvizsgálat vagy környezeti hatásvizsgálat, valamint
+
+c) újrahasznosításra, más célú hasznosításra vagy telekalakításra irányuló földügyi igazgatási eljárás esetén, ha előzetes régészeti dokumentáció nem áll rendelkezésre.

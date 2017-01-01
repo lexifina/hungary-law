@@ -1,5 +1,23 @@
-## 36. §[^12]
-
 ## 13. Régészeti örökségvédelmi engedélyezési eljárás
 
-[^12]: A 36. § a 82. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+37. § (1) A hatóság örökségvédelmi engedélye szükséges a következő – más hatóság (örökségvédelmi szakhatóság hozzájárulásával vagy szakkérdés vizsgálata alapján kiadott) engedélyéhez nem kötött – tevékenységekhez:
+
+a) minden 30 centiméter mélységet meghaladó földmunka, tereprendezés, depó, feltöltés, töltés létesítése védetté nyilvánított régészeti lelőhelyen,
+
+b) régészeti emlék megóvási, konzerválási munkálatai nyilvántartott régészeti lelőhelyen.
+
+(2) A kérelemhez mellékelni kell:
+
+a) a tervezett tevékenység pontos helyszínének leírását annak földrajzi kiterjedésével, illetve helyszínrajzot (EOV vagy WGS84 földrajzi koordinátákat tartalmazó térképet),
+
+b) a tervezett tevékenység megnevezését, leírását, valamint
+
+c) a tevékenységgel érintett ingatlannal rendelkezni jogosult hozzájáruló nyilatkozatát.
+
+(3) A hatóság döntéséhez kiemelten védett régészeti lelőhely esetén örökségvédelmi hatástanulmány (a továbbiakban: döntéselőkészítő örökségvédelmi hatástanulmány) készítését írhatja elő.
+
+(4) A hatóság az engedélyt megtagadja, ha a tervezett tevékenység következtében a lelőhely megsemmisülne vagy részleges állapotromlása következne be.
+
+(5) Az engedély a határozat jogerőre emelkedésétől számított egy évig jogosít a tevékenység végzésére.
+
+(6) Az örökségvédelmi engedély alapján végezni tervezett tevékenység megkezdését megelőzően tíz nappal a tevékenység tényleges végzésének megkezdését a hatóságnak elektronikus úton be kell jelenteni.
