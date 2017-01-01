@@ -1,6 +1,6 @@
-## 16. §[^23] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+## 16. §[^24] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 232/2013. (VI. 30.) Korm. rendelethez[^24]
+1. melléklet a 232/2013. (VI. 30.) Korm. rendelethez[^25]
 
 Igénylőlap az állami kezesség beváltásához
 
@@ -78,5 +78,5 @@ P. H.
 
 igénylő
 
-[^23]: A 16. § a 122/2014. (IV. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^24]: Az 1. melléklet a 122/2014. (IV. 8.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^24]: A 16. § a 122/2014. (IV. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^25]: Az 1. melléklet a 122/2014. (IV. 8.) Korm. rendelet 9. §-a szerint módosított szöveg.
