@@ -1,1 +1,0 @@
-## 2. § Ha valamely ügyben a HACS vagy a HVK vezetőjének helyettesével összefüggésben – ezen jogviszonyára tekintettel – a Knyt. 6. vagy 9. §-a szerinti kizárás áll fenn, a teljes döntés-előkészítést a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) látja el.
