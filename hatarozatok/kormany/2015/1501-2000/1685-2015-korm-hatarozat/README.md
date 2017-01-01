@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1685-30
 | --- | --- | --- |
 | 2015-09-25 | 2015-1685-30-22.1 | 1685/2015. (IX. 24.) Korm. határozat |
 | 2015-09-26 | 2015-1685-30-22.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2015-1685-30-22.3 | 1829/2018. (XII. 27.) Korm. határozat |

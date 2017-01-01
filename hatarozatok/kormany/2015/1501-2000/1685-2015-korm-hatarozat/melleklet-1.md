@@ -18,8 +18,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3–4.[^1]
+## 3–4.[^2]
 
-1. melléklet az 1685/2015. (IX. 24.) Korm. határozathoz
+1. melléklet az 1685/2015. (IX. 24.) Korm. határozathoz[^3]
 
-[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 58. pontja szerint módosított szöveg.
