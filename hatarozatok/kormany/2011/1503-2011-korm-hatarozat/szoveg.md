@@ -4,7 +4,7 @@
 
 3. Az OGYTT tagjai az egészségügyi szakmai kollégium elnöke által meghatározott szakmai kollégiumi tagozatok OGYTT elnöke által felkért, és az egészségügyért felelős miniszter által jóváhagyott tagjai.
 
-4. Az OGYTT ülésein tanácskozási joggal állandó meghívottként részt vesz az egészségügyért felelős miniszter által vezetett minisztérium, az Országos Egészségbiztosítási Pénztár, valamint a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet által delegált 1-1 képviselő. Az elnök tanácskozási joggal rendelkező más személyeket is meghívhat az OGYTT üléseire.
+4.[^1] Az OGYTT ülésein tanácskozási joggal állandó meghívottként részt vesz az egészségügyért felelős miniszter által vezetett minisztérium, a Nemzeti Egészségbiztosítási Alapkezelő, valamint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet által delegált egy-egy képviselő. Az elnök tanácskozási joggal rendelkező más személyeket is meghívhat az OGYTT üléseire.
 
 5. Az OGYTT tevékenységének célja a támogatáspolitikai átalakítások folyamatának koordinálása, illetve a gyógyszer támogatási rendszer felülvizsgálatának elősegítése.
 
@@ -24,8 +24,11 @@ e) a hatékony, biztonságos és gazdaságos gyógyszerterápiás elvek érvény
 
 8. Az OGYTT működésének részletes szabályait az ügyrend tartalmazza. Az OGYTT ügyrendjét és munkatervét – a tagok véleményének kikérését követően – az elnök állapítja meg.
 
-9. Az OGYTT működési feltételeiről a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet gondoskodik. Az OGYTT tagjai díjazásban nem részesülnek.
+9.[^2] Az OGYTT működési feltételeiről az egészségügyért felelős miniszter által vezetett minisztérium gondoskodik. Az OGYTT tagjai díjazásban nem részesülnek.
 
 10. Az OGYTT-t 2012. január 31-éig kell létrehozni.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 11. pontjával megállapított szöveg.
+[^2]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 12. pontja szerint módosított szöveg.
