@@ -4,8 +4,9 @@
 
 (3)[^1] Az (1) és (2) bekezdésben meghatározottakon túl az 1. mellékletet kell alkalmazni
 
-a) a Nemzeti Rehabilitációs és Szociális Hivatalról szóló kormányrendeletben felsorolt azon szakkérdések vizsgálata során, ahol az egészségkárosodás vagy az egészségi állapot mértékét kell vizsgálni,
+a)[^2] azon szakkérdések vizsgálata során, ahol az egészségkárosodás vagy az egészségi állapot mértékét kell vizsgálni,
 
 b) az aktív korúak ellátásának megállapítása iránti eljárásban.
 
 [^1]: Az 1. § (3) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdés a) pontja a 43/2016. (XII. 27.) EMMI rendelet 29. §-a szerint módosított szöveg.
