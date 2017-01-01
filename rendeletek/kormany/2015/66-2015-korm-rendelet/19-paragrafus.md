@@ -20,6 +20,6 @@ f) gondoskodik a gazdaságos, egymást kiegészítő ellenőrzési módok kialak
 
 (4) A közigazgatás-szervezésért felelős miniszter gondoskodik az ellenőrzések tervezésének és végrehajtásának egységes rendjéről.
 
-(5)[^7] A közigazgatás-szervezésért felelős miniszter – a rendészetért felelős miniszter minden év december 1-ig tett javaslata alapján – a következő évre vonatkozóan minden év december 31-ig ellenőrzési tervet ad ki a jogorvoslattal nem érintett, azon jegyzői hatáskörbe tartozó államigazgatási ügyek felülvizsgálata érdekében, amelyekben nincs ellenérdekű fél.
+(5)[^8] A közigazgatás-szervezésért felelős miniszter – a rendészetért felelős miniszter minden év december 1-ig tett javaslata alapján – a következő évre vonatkozóan minden év december 31-ig ellenőrzési tervet ad ki a jogorvoslattal nem érintett, azon jegyzői hatáskörbe tartozó államigazgatási ügyek felülvizsgálata érdekében, amelyekben nincs ellenérdekű fél.
 
-[^7]: A 19. § (5) bekezdését a 474/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 19. § (5) bekezdését a 474/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

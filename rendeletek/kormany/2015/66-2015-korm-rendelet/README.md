@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-66-20-2
 | 2016-01-01 | 2015-66-20-22.4 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-07-23 | 2015-66-20-22.5 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2016-09-01 | 2015-66-20-22.6 | 251/2016. (VIII. 24.) Korm. rendelet |
+| 2017-01-01 | 2015-66-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |

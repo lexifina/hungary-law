@@ -128,7 +128,7 @@
 
 ## 4.2. Az átfogó ellenőrzések összefoglaló jelentését az államtitkár hagyja jóvá. A szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentést a szakmai irányító hagyja jóvá.
 
-## 4.3.[^9] A szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetét a szakmai irányító az elkészítését követő 15. napig megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak véleményezés céljából. A fővárosi és megyei kormányhivatal és az államtitkár a szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetével kapcsolatos álláspontjáról 15 napon belül tájékoztatja a szakmai irányítót. A fővárosi és megyei kormányhivatal álláspontját egyidejűleg tájékoztatásul a minisztérium részére is megküldi. A végleges összefoglaló jelentést a szakmai irányító megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak.
+## 4.3.[^24] A szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetét a szakmai irányító az elkészítését követő 15. napig megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak véleményezés céljából. A fővárosi és megyei kormányhivatal és az államtitkár a szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetével kapcsolatos álláspontjáról 15 napon belül tájékoztatja a szakmai irányítót. A fővárosi és megyei kormányhivatal álláspontját egyidejűleg tájékoztatásul a minisztérium részére is megküldi. A végleges összefoglaló jelentést a szakmai irányító megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak.
 
 ## 4.4. Az egyes átfogó ellenőrzéseknél az átfogó ellenőrzésben részt vevő szervek az általuk lefolytatott ellenőrzésekről – az összefoglaló jelentés tartalmi elemeinek figyelembevételével – részjelentést készítenek, amelyet a jóváhagyott ellenőrzési programban meghatározott időpontig megküldenek a minisztérium részére.
 
@@ -366,26 +366,4 @@
 
 3. melléklet a 66/2015. (III. 30.) Korm. rendelethez
 
-|  | Megszűnő környezetvédelmi és természetvédelmi felügyelőség | Jogutód fővárosi és megyei kormányhivatal |
-
-| 1. | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Csongrád Megyei Kormányhivatal |
-
-| 2. | Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Baranya Megyei Kormányhivatal |
-
-| 3. | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Győr-Moson-Sopron Megyei Kormányhivatal |
-
-| 4. | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
-
-| 5. | Felső-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Szabolcs-Szatmár-Bereg Megyei kormányhivatal |
-
-| 6. | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Pest Megyei Kormányhivatal |
-
-| 7. | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Fejér Megyei Kormányhivatal |
-
-| 8. | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
-
-| 9. | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Vas Megyei Kormányhivatal |
-
-| 10. | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Hajdú-Bihar Megyei Kormányhivatal |
-
-[^9]: A 2. melléklet 4. pont 4.3. alpontja a 441/2015. (XII. 28.) Korm. rendelet 244. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^24]: A 2. melléklet 4. pont 4.3. alpontja a 441/2015. (XII. 28.) Korm. rendelet 244. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
