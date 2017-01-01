@@ -1,3 +1,3 @@
 1. melléklet a 395/2014. (XII. 31.) Korm. rendelethez[^13]
 
-[^13]: Az 1. melléklet a 197/2016. (VII. 13.) Korm. rendelet 6. §-ával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 70. § (2) bekezdése szerint módosított szöveg.
+[^13]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 94. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
