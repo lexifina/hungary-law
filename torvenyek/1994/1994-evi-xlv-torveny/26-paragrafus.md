@@ -2,9 +2,9 @@
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyekben az elsőfokú hadigondozási hatóság a hadigondozott lakóhelye vagy tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
+(2) A hadigondozotti ügyekben első- és másodfokon a Kormány által rendeletben, hadigondozási hatóságként kijelölt szerv jár el.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően a külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében az elsőfokú hadigondozási hatóság Budapest Főváros Kormányhivatala, a másodfokú hadigondozási hatóság a honvédelemért felelős miniszter.
+(2a)
 
 (2b) Az elsőfokú hadigondozási hatóság határozatban dönt:
 
@@ -12,7 +12,7 @@ a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba so
 
 b) a pénzellátások – beleértve az egyösszegű térítést és a temetési hozzájárulást is – megállapításáról és összegszerűségéről,
 
-c) a hadigondozott közgyógyellátásra jogosító igazolványa és a hadigondozotti igazolvány kiadásáról,
+c) a hadirokkant közgyógyellátásra jogosító igazolványa, valamint a hadirokkantat és a hadiözvegyet megillető hadigondozotti igazolvány kiadásáról, és
 
 d) a pénzellátás szüneteltetéséről, megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
@@ -22,7 +22,7 @@ a) a hadigondozott gondozási minősítését (hadirokkant, hadiözvegy, hadiár
 
 b) a megállapított ellátást;
 
-c) a hadigondozotti igazolvány számát;
+c) hadirokkant és hadiözvegy esetében a hadigondozotti igazolvány számát;
 
 d) a természetes személyazonosító adatait, lakcímét, családi állapotát, az elhalálozás helyét és idejét.
 
