@@ -8,7 +8,7 @@ a) képviseli az Alapot és az Alap Bizottságát (a továbbiakban: Bizottság),
 
 b) közreműködik az Alap – Tv.-ben meghatározott célokhoz szükséges – pénzügyi feltételeinek biztosításában,
 
-c) intézkedik a Nemzeti Kulturális Alap Igazgatósága (a továbbiakban: Igazgatóság) főigazgatójánál (a továbbiakban: főigazgató) egyes pályázatok ellenőrzésének megindítása érdekében,
+c)[^4] intézkedik az Emberi Erőforrás Támogatáskezelő (a továbbiakban: kezelő szerv) főigazgatójánál (a továbbiakban: főigazgató) egyes pályázatok ellenőrzésének megindítása érdekében,
 
 d) összehívja a Bizottság ülését,
 
@@ -19,3 +19,4 @@ f) ellátja a Tv., az e rendelet, továbbá az Ügyrend által a hatáskörébe 
 [^1]: Az 1. § a 65/2011. (XII. 9.) NEFMI rendelet 12. § a) pontja szerint módosított szöveg.
 [^2]: Az 1/A. §-t megelőző alcímet a 40/2012. (XI. 16.) EMMI rendelet 1. §-a iktatta be.
 [^3]: Az 1/A. §-t a 40/2012. (XI. 16.) EMMI rendelet 1. §-a iktatta be.
+[^4]: Az 1/A. § c) pontja az 50/2016. (XII. 28.) EMMI rendelet 5. §-ával megállapított szöveg.

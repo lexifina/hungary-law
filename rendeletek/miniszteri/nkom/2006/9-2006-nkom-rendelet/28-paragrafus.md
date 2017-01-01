@@ -4,7 +4,7 @@
 
 28. § (1) Az összeférhetetlenségről – külön nyomtatványon – írásban kell nyilatkoznia minden érintettnek.
 
-(2)[^64] Az ülés megkezdésekor a kollégium vezetője – bizottsági ülés esetén a bizottsági ülést levezető elnök vagy alelnök – ismerteti a nyilatkozatokat. Vita esetén érdemi döntés csak az összeférhetetlenségről való határozathozatalt követően hozható.
+(2)[^70] Az ülés megkezdésekor a kollégium vezetője – bizottsági ülés esetén a bizottsági ülést levezető elnök vagy alelnök – ismerteti a nyilatkozatokat. Vita esetén érdemi döntés csak az összeférhetetlenségről való határozathozatalt követően hozható.
 
 (3) Az összeférhetetlenség megállapításához és az érdemi döntéshez szükséges határozatképesség megállapításánál az összeférhetetlenséggel érintett személy nem vehető figyelembe.
 
@@ -12,4 +12,4 @@
 
 (5) Ha a döntéshozatalban az összeférhetetlenség által érintett személy vett részt, szavazatát figyelmen kívül kell hagyni.
 
-[^64]: A 28. § (2) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 14. § 28. pontja szerint módosított szöveg.
+[^70]: A 28. § (2) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 14. § 28. pontja szerint módosított szöveg.

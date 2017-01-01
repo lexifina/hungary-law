@@ -1,4 +1,4 @@
-3. §[^7] (1) A miniszter a Bizottság
+3. §[^8] (1) A miniszter a Bizottság
 
 a) saját hatáskörben felkért tagjait,
 
@@ -10,4 +10,4 @@ c) a Magyar Művészeti Akadémia (a továbbiakban: MMA) által jelölt tagjait
 
 (2) A Bizottság tagja – ide nem értve a Bizottság elnökét és alelnökét – csak a kinevezésének lejártát követő négy év elteltével nevezhető ki újra.
 
-[^7]: A 3. § az 57/2015. (XII. 29.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^8]: A 3. § az 57/2015. (XII. 29.) EMMI rendelet 1. §-ával megállapított szöveg.

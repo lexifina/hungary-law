@@ -1,6 +1,6 @@
 ## 20. § A pályázatnak tartalmaznia kell:
 
-a) a megfelelően kitöltött és aláírással ellátott, az Igazgatóság által kiadott pályázati adatlapot,
+a)[^56] a megfelelően kitöltött és aláírással ellátott, a kezelő szerv által kiadott pályázati adatlapot,
 
 b) az elérni kívánt pályázati cél leírását és szakmai szempontú információs anyagot,
 
@@ -12,6 +12,7 @@ e) a pályázati cél megvalósításához esetenként szükséges szerződések
 
 f) a Bizottság vagy a kollégiumok által előírt, a pályázati kiírásban meghatározott egyéb adatokat.
 
-g)[^53]
+g)[^57]
 
-[^53]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2011. (XII. 9.) NEFMI rendelet 13. § b) pontja.
+[^56]: A 20. § a) pontja az 50/2016. (XII. 28.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^57]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2011. (XII. 9.) NEFMI rendelet 13. § b) pontja.

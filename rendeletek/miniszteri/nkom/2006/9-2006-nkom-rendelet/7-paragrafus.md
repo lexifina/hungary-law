@@ -1,4 +1,4 @@
-7. § (1)[^15] A Bizottság a kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét,
+7. § (1)[^16] A Bizottság a kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét,
 
 a) a miniszter és az MMA elnöke egyetértésével dönt
 
@@ -28,7 +28,7 @@ e) olyan egyedi pályázatok, amelyeket a miniszter – a miniszteri keret terh�
 
 (4) A miniszter megállapítja a miniszteri keret felosztásának arányait és erről tájékoztatja a Bizottságot.
 
-(5)[^16] A Tv. 7/C. § (2) bekezdésében foglalt, a miniszter által egyedi elbírálással nyújtható működési támogatás kizárólag dologi kiadásra használható fel.
+(5)[^17] A Tv. 7/C. § (2) bekezdésében foglalt, a miniszter által egyedi elbírálással nyújtható működési támogatás kizárólag dologi kiadásra használható fel.
 
-[^15]: A 7. § (1) bekezdése az 57/2015. (XII. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^16]: A 7. § (5) bekezdését a 40/2012. (XI. 21.) EMMI rendelet 6. §-a iktatta be.
+[^16]: A 7. § (1) bekezdése az 57/2015. (XII. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^17]: A 7. § (5) bekezdését a 40/2012. (XI. 21.) EMMI rendelet 6. §-a iktatta be.

@@ -1,6 +1,6 @@
-## Az Alap alelnöke[^4]
+## Az Alap alelnöke[^5]
 
-1/B. §[^5] (1) Az Alap alelnöke (a továbbiakban: alelnök):
+1/B. §[^6] (1) Az Alap alelnöke (a továbbiakban: alelnök):
 
 a) az elnök megbízása alapján képviseli az Alapot és a Bizottságot,
 
@@ -20,5 +20,5 @@ h) ellátja a Tv.-ben, az e rendeletben, továbbá az Ügyrendben a hatásköré
 
 (2) Az alelnök feladatainak ellátásához szükséges pénzügyi keret nagyságáról – a Bizottság javaslatára – a miniszter dönt.
 
-[^4]: Az 1/B. §-t megelőző alcímet a 40/2012. (XI. 16.) EMMI rendelet 2. §-a iktatta be.
-[^5]: Az 1/B. §-t a 40/2012. (XI. 16.) EMMI rendelet 2. §-a iktatta be.
+[^5]: Az 1/B. §-t megelőző alcímet a 40/2012. (XI. 16.) EMMI rendelet 2. §-a iktatta be.
+[^6]: Az 1/B. §-t a 40/2012. (XI. 16.) EMMI rendelet 2. §-a iktatta be.

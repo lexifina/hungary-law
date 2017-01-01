@@ -1,4 +1,4 @@
-11. §[^23] (1) Az egyes állandó kollégiumokba a miniszter által saját hatáskörben felkért tagok, továbbá a küldő szervezet által delegált tagok kinevezése – a (3) bekezdés alapján kinevezett tag kivételével – egyaránt négy évre szól.
+11. §[^24] (1) Az egyes állandó kollégiumokba a miniszter által saját hatáskörben felkért tagok, továbbá a küldő szervezet által delegált tagok kinevezése – a (3) bekezdés alapján kinevezett tag kivételével – egyaránt négy évre szól.
 
 (2) A Bizottság javaslata alapján az állandó kollégiumok tagjainak kinevezése – a küldő szervezet által delegált tag esetén a küldő szervezet egyetértésével – egy alkalommal egy évvel meghosszabbítható. A küldő szervezetet a meghosszabbítás szándékáról a tag állandó kollégiumi tagsági kinevezésének lejártát megelőző legalább 60 nappal korábban értesíteni kell. A küldő szervezet egyet nem értése esetén a tag állandó kollégiumi tagsági kinevezésének lejártáig gondoskodik új tag delegálásáról.
 
@@ -8,4 +8,4 @@
 
 (5) A nem művészeti főtematikájú állandó kollégiumokban az MMA-nak a Tv. 2. § (4a) bekezdése szerinti részvételét akként biztosítja a miniszter, hogy az MMA-t felkéri valamennyi nem művészeti főtematikájú állandó kollégiumban egy tag jelölésére, annak a létszámkeretnek a terhére, amelyet a Tv. 2. § (4a) bekezdése az érintett szakmai szervezetek számára a delegálásra biztosít.
 
-[^23]: A 11. § az 57/2015. (XII. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^24]: A 11. § az 57/2015. (XII. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
