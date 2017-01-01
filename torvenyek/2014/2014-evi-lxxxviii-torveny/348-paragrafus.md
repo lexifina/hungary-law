@@ -1,11 +1,3 @@
-## 146. Csoporton belüli ügyletek felügyelete
+## 146.
 
-348. § (1) A csoporton belüli ügyletek felügyeletét a (2)–(4) bekezdéssel, valamint a 349–362. §-sal összhangban kell gyakorolni.
-
-(2) A biztosító, viszontbiztosító, biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság – a Bizottságnak a Szolvencia 2 irányelv 245. cikk (6) bekezdésében meghatározott tárgykörben kiadott végrehajtástechnikai standardjában foglaltakkal összhangban – rendszeresen, évente legalább egyszer jelentést köteles tenni a Felügyelet mint a csoportfelügyeletért felelős hatóság részére a csoportba tartozó biztosítók vagy viszontbiztosítók minden jelentős csoporton belüli ügyletéről, ideértve az olyan természetes személlyel folytatott ügyleteket is, aki szoros kapcsolatban áll egy csoporton belüli vállalkozással, azon esetek kivételével, amelyekre a 329. § (2) bekezdését kell alkalmazni. A különösen jelentős csoporton belüli ügyleteket haladéktalanul jelenteni kell a Felügyelet mint a csoportfelügyeletért felelős hatóság részére.
-
-(3) A szükséges információt a csoport élén álló biztosító vagy viszontbiztosító, vagy ha nem biztosító vagy viszontbiztosító áll a csoport élén, akkor a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság vagy a Felügyelet mint a csoportfelügyeletért felelős hatóság által – a többi érintett felügyeleti hatósággal és a csoporttal folytatott konzultációt követően – kijelölt csoporton belüli biztosító vagy viszontbiztosító nyújtja be a Felügyelethez, mint a csoportfelügyeletért felelős hatósághoz.
-
-(4) A csoporton belüli ügyletek a Felügyelet, mint a csoportfelügyeletért felelős hatóság általi felügyeleti felülvizsgálat hatálya alá tartoznak.
-
-(5) A Felügyelet, mint a csoportfelügyeletért felelős hatóság – a többi érintett felügyeleti hatósággal és a csoporttal folytatott konzultációt követően, a Bizottságnak a Szolvencia 2 irányelv 245. cikk (4) és (5) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben foglaltakkal összhangban – megállapítja azon csoporton belüli ügyletek típusát, amelyeket egy adott csoporton belüli biztosítóknak vagy viszontbiztosítóknak minden körülmények között jelenteniük kell. A 347. § (5)–(7) bekezdése értelemszerűen alkalmazandó.
+### 348. §

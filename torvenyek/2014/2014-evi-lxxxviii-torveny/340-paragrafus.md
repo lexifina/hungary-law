@@ -1,3 +1,3 @@
-## 138. A biztosítói holdingtársaság és a vegyes pénzügyi holdingtársaság szavatolótőke-megfelelése a csoportfelügyelet tekintetében
+## 138.
 
-340. § Ha egy biztosító vagy viszontbiztosító egy biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság leányvállalata és a Felügyelet a csoportfelügyeletért felelős felügyeleti hatóság, akkor a Felügyelet engedélyezi, hogy a biztosító holdingtársaság vagy a vegyes pénzügyi holdingtársaság végezze el a szavatolótőke-megfelelésének számítását e résznek megfelelően azzal, hogy az anyavállalatot úgy kell kezelni a szavatolótőke-szükséglet meghatározása során, mintha biztosító vagy viszontbiztosító lenne.
+### 340. §

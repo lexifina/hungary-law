@@ -22,7 +22,7 @@ j) törvényben meghatározott feltételek megléte esetén a titkosszolgálati 
 
 k) a viszontbiztosítóval, a csoport másik vállalkozásával, valamint együttbiztosítás esetén a kockázatvállaló biztosítókkal,
 
-l) törvényben szabályozott adattovábbítások során átadott adatok tekintetében a kötvénynyilvántartást vezető kötvénynyilvántartó szervvel, a kártörténeti nyilvántartást vezető kárnyilvántartó szervvel, továbbá a járműnyilvántartásban nem szereplő gépjárművekkel kapcsolatos közúti közlekedési igazgatási feladatokkal összefüggő hatósági ügyekben a közlekedési igazgatási hatósággal, valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával,
+l) törvényben szabályozott adattovábbítások során átadott adatok tekintetében a kötvénynyilvántartást vezető kötvénynyilvántartó szervvel, a kártörténeti nyilvántartást vezető kárnyilvántartó szervvel, továbbá a járműnyilvántartásban nem szereplő gépjárművekkel kapcsolatos közúti közlekedési igazgatási feladatokkal összefüggő hatósági ügyekben a közlekedési igazgatási hatósággal, valamint a közúti közlekedési nyilvántartási szervével,
 
 m) az állományátruházás keretében átadásra kerülő biztosítási szerződési állomány tekintetében – az erre irányuló megállapodás rendelkezései szerint – az átvevő biztosítóval,
 

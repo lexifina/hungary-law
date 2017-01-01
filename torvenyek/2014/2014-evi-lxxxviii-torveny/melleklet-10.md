@@ -35,7 +35,3 @@ A portfóliókezelési tevékenységet végző által a kezelt portfólión elé
 16. Meg kell jelölni minden olyan tényt, kiegészítő információt, amely a teljesítmények megítéléséhez, illetve a bemutatott teljesítmény teljes értékű magyarázata szempontjából fontos lehet.
 
 17. A teljesítményadatok bemutatásánál a tőkeáttétel és a származékos termékek használatát, mértékét is be kell mutatni oly módon, amely lehetővé teszi a kockázatok azonosítását.
-
-18. Amennyiben a portfólióhoz, annak befektetési politikájában referenciaindexet is rendeltek, ezen referenciaindex hozamát ugyanarra (ugyanazokra) az időszakra (időszakokra) és ugyanolyan hozamszámítási módszert alkalmazva kell bemutatni, amelyekre a portfólió hozama bemutatásra kerül.
-
-19. A befektetési alapkezelési és portfóliókezelési tevékenységet végző teljesítményeinek bemutatásakor a hozamadatokat lehetőleg öt évre visszamenően, illetve tevékenysége megkezdésétől – a naptári éveknek megfelelő bontásban – kell bemutatni.

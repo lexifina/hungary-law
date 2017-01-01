@@ -1,7 +1,3 @@
-## 148. A csoportfelügyeletért felelős hatóság
+## 148.
 
-350. § (1) A Felügyelet mint érintett felügyeleti hatóság – évente legfeljebb egyszer – kérheti annak a csoporton belüli megvitatását (a továbbiakban: tanácskozási kérelem), hogy a csoportfelügyeletért felelős hatóság kijelölésének kritériumai megfelelők-e.
-
-(2) A Felügyelet, amennyiben érintett felügyeleti hatóság, köteles mindent megtenni annak érdekében, hogy a csoportfelügyeletért felelős hatóság kiválasztásáról, a tanácskozási kérelem előterjesztésétől számított három hónapon belül – a többi érintett felügyeleti hatósággal – közös határozatot hozzon. A határozat meghozatala előtt az érintett felügyeleti hatóságok véleménynyilvánítási lehetőséget adnak a csoportnak. Ha a Felügyelet a kijelölt csoportfelügyeletért felelős hatóság, köteles a csoport elé terjeszteni az indokolással ellátott, közös határozatot.
-
-(3) Ha a (2) bekezdés szerinti három hónapos időszak alatt a Felügyelet mint érintett felügyeleti hatóság az ügyet – az 1094/2010/EU rendelet 19. cikk (1)–(3) és (6) bekezdésével összhangban – az EBFH elé utalta, akkor az érintett felügyeleti hatóságok elhalasztják közös döntésüket és megvárják az EBFH által – a 1094/2010/EU rendelet 19. cikk (3) bekezdése alapján – hozott határozatot, majd az EBFH határozatának megfelelően hozzák meg saját közös határozatukat. A Felügyelet mint érintett felügyeleti hatóság köteles elismerni az említett közös határozatot, és teljesíteni az abban foglaltakat. A három hónapos időtartam eltelte vagy a közös határozat meghozatala után az ügy már nem utalható az EBFH elé. Amennyiben a Felügyelet a kijelölt csoportfelügyeletért felelős hatóság, köteles a csoport és a felügyeleti kollégium elé terjeszteni a teljes körű indokolással ellátott, közös határozatot.
+### 350. §

@@ -20,7 +20,7 @@ d) az értékpapír-kölcsönzés,
 
 e) a biztosító által a biztosító anyavállalata, leányvállalata vagy részesedési viszonya alatt álló vállalkozása részére a biztosítási üzem működése és fenntartása körébe eső szolgáltatások nyújtása,
 
-f) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény 9. § (4) bekezdése szerinti tevékenység,
+f)
 
 g) az önkéntes kölcsönös biztosító pénztárakról szóló törvényben meghatározott tagszervezési tevékenység.
 

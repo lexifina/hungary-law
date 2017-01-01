@@ -4,4 +4,4 @@
 
 (2) 2016. január 1-jét követő négy éven keresztül a biztosító vagy viszontbiztosító Felügyelet felé fennálló, a 269. § (2) bekezdés b) és d) pontjában meghatározott adatszolgáltatási kötelezettsége teljesítésének határideje évenként egy héttel csökken. A 2016. január 1-jén vagy azután, de 2017. január 1-jét megelőzően záruló negyedévet követően legfeljebb a 8. hét, a 2019. január 1-jén vagy azután, de 2020. január 1-jét megelőzően záruló negyedévet követően legfeljebb az 5. hét zárónapja az adatszolgáltatási kötelezettség határideje.
 
-(3) Az (1)–(2) bekezdés alkalmazandó csoportszinten a részesedéssel rendelkező biztosítókra és viszontbiztosítókra, biztosítói holdingtársaságokra és vegyes pénzügyi holdingtársaságokra a 357. § és a 359. § értelmében azzal, hogy az (1)–(2) bekezdésben meghatározott határidők hat héttel hosszabbak.
+(3)
