@@ -1,0 +1,3 @@
+37. § A Bv. tv. a következő 203/A. §-sal egészül ki:
+
+„203/A. § A gondozási tevékenység keretében a büntetés-végrehajtási pártfogó felügyelő a társadalomba való eredményes visszailleszkedés érdekében a fiatalkorúnak a szabadulást követő életterve kialakításához és a megvalósítás támogatásához – a befogadó környezet erre való fogadókészsége esetén – családi vagy csoportos döntéshozó megbeszélést szervezhet. A megbeszélés a bv. intézeten kívül is megszervezhető. A bv. intézeten kívüli helyszínen tartandó megbeszélésre a fiatalkorút elő kell állítani vagy részére – őrzéssel vagy anélkül – rendkívüli eltávozás engedélyezhető, amelynek tartama a három napot nem haladhatja meg.”
