@@ -2,7 +2,7 @@
 
 (2) A települési önkormányzat az (1) bekezdésben meghatározott körülmény bekövetkezéséről haladéktalanul, de legfeljebb 3 napon belül tájékoztatja a kormányrendeletben kijelölt állami szervet (a továbbiakban: állami szerv).
 
-(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel, illetve a minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a szolgáltatással érintett területre irányadó közszolgáltatási díj fejében köteles elvégezni.
+(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel és minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a Ht. 32/A. § (2) bekezdése szerinti szervezet (a továbbiakban: Koordináló szerv) által meghatározott szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj mértékét és megállapításának rendjét miniszteri rendelet határozza meg.
 
 (4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincs helye.
 
