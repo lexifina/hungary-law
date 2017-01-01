@@ -8,7 +8,7 @@ b) a 2. és 3. számú mellékletben egyaránt szerepel,
 
 c)[^33] összetartozó tevékenységnek minősül és a 2/A. §-ban meghatározott eljárás lefolytatására nem került sor.
 
-(2)[^34] Az előzetes vizsgálatra vonatkozó kérelemhez csatolni kell a 4. számú melléklet szerinti tartalmi követelményeknek megfelelő előzetes vizsgálati dokumentációt, amelynek egyes részeit a tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő készíti el. A kérelmet és mellékleteit két nyomtatott példányban és egy példányban elektronikus adathordozón kell benyújtani, amelyet a környezetvédelmi hatóság elektronikus úton közzétesz.
+(2)[^34] Az előzetes vizsgálatra vonatkozó kérelemhez csatolni kell a 4. számú melléklet szerinti tartalmi követelményeknek megfelelő előzetes vizsgálati dokumentációt, amelynek egyes részeit a tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő készíti el. A kérelmet és mellékleteit elektronikus úton kell benyújtani, amelyet a környezetvédelmi hatóság elektronikus úton közzétesz.
 
 (3)[^35] A kérelem és az előzetes vizsgálati dokumentáció benyújtását követően a környezetvédelmi hatóság – ha a tevékenység nem esik katonai titokvédelem alá – az ügyfeleknek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti, az eljárás megindításáról szóló értesítésével egyidejűleg hivatalában, valamint honlapján közleményt tesz közzé, amely – az értesítésre a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza:
 
@@ -38,7 +38,7 @@ g)[^39] az elektronikus úton közzétett kérelem és mellékletek elérési he
 
 [^32]: A 3. § (1) bekezdése a 12/2011. (II. 22.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés e) pontja szerint módosított szöveg.
 [^33]: A 3. § (1) bekezdés c) pontját a 82/2011. (V. 18.) Korm. rendelet 15. §-a iktatta be.
-[^34]: A 3. § (2) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 3. § (2) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja, a 477/2016. (XII. 27.) Korm. rendelet 33. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^35]: A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
 [^36]: A 3. § (3) bekezdés c) pontja a 228/2010. (VIII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd a 29. §-t.
 [^37]: A 3. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés e) pontja szerint módosított szöveg.

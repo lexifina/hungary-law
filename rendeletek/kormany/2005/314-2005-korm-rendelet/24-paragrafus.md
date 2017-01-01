@@ -6,7 +6,7 @@
 
 (2)[^176] Az összevont eljárást a környezetvédelmi hatóság a környezethasználó – az előzetes vizsgálatot lezáró határozat, vagy ha történt előzetes konzultáció, az annak során adott vélemény, továbbá a 6–8. számú melléklet figyelembevételével elkészített – kérelmére indítja meg.
 
-(3)[^177] A kérelmet és annak mellékleteit két nyomtatott példányban és egy példányban elektronikus adathordozón kell benyújtani.
+(3)[^177] A kérelmet és annak mellékleteit elektronikus úton kell benyújtani.
 
 (4) A kérelmet úgy kell összeállítani, hogy felesleges ismétlések ne szerepeljenek benne.
 
@@ -37,7 +37,7 @@ b) elutasítja a kérelmet.
 [^174]: A 24. § a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
 [^175]: A 24. § (1) bekezdése a 151/2009. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
 [^176]: A 24. § (2) bekezdése a 82/2011. (V. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^177]: A 24. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (15) bekezdésével megállapított és a 371/2012. (XII. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^177]: A 24. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (15) bekezdésével megállapított, a 477/2016. (XII. 27.) Korm. rendelet 33. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^178]: A 24. § (6) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^179]: A 24. § (7) bekezdése a Magyar Közlöny 2006. évi 9. számában megjelent helyesbítésnek megfelelő szöveg. A 24. § (7) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 8. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^180]: A 24. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (16) bekezdésével megállapított, a 480/2013. (XII. 17.) Korm. rendelet 12. § c) pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
