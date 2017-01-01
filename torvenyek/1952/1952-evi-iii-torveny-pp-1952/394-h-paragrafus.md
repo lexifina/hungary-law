@@ -32,7 +32,7 @@ g) – ha a beadványnak másik bíróságon előzménye van és a beadvány ada
 
 (6) Az elektronikus úton kapcsolatot tartó a bírósági irat kézbesítéséről, annak az elektronikus kézbesítési tárhelyén történő elhelyezéséről a kézbesítési rendszer útján az általa megadott elektronikus levélcímére – az érkezést követően haladéktalanul, majd három nap elteltével ismételten – értesítést kap.
 
-(7) Az elektronikus úton kapcsolatot tartó az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság és az elektronikus úton kapcsolatot tartó részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó számára megismerhetővé kell tenni legalább a bíróság és a felek nevét, az ügy tárgyát, a bírósági irat érkezésének időpontját, és az ügy számát.
+(7) Az elektronikus úton kapcsolatot tartó az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó számára megismerhetővé kell tenni legalább a bíróság és a felek nevét, az ügy tárgyát, a bírósági irat érkezésének időpontját, és az ügy számát.
 
 (8) Ha a kézbesítési rendszer a bíróság részére azt igazolja vissza, hogy a bíróság által megküldött bírósági iratot az elektronikus úton kapcsolatot tartó kétszeri értesítése ellenére nem vette át, a második értesítésigazolásban feltüntetett időpontot követő ötödik munkanapon a bírósági iratot kézbesítettnek kell tekinteni (kézbesítési vélelem). Ha a kézbesítési vélelem beállta megállapításának van helye, a bíróság és az elektronikus úton kapcsolatot tartó a kézbesítési rendszer útján automatikus tájékoztatást kap.
 
@@ -42,4 +42,4 @@ g) – ha a beadványnak másik bíróságon előzménye van és a beadvány ada
 
 (10) A kézbesítésre a 99. § (5) bekezdését nem lehet alkalmazni.
 
-(11) A kézbesítési rendszer az (1)–(10) bekezdésben szabályozott elektronikus igazolások és tértivevények másolatát automatikusan megküldi a küldeményt feladó és fogadó félnek is.
+(11)

@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2016-07-01 | 2016. évi XL. törvény | 1952-3-00-00.125 |
 | 2016-08-01 | 2016. évi XXX. törvény | 1952-3-00-00.126 |
 | 2016-12-13 | 2016. évi CXXXIV. törvény | 1952-3-00-00.127 |
+| 2017-01-01 | 2016. évi CLVIII. törvény | 1952-3-00-00.128 |

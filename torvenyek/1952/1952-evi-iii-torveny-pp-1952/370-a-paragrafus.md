@@ -2,6 +2,8 @@
 
 (2) Az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelent meg, ha azonban egyik fél sem jelent meg az első tárgyaláson, az eljárást meg kell szüntetni.
 
+(2a) Ha a kereseti kérelem a végrehajtás megszüntetésére irányul, de korlátozásnak is helye lehet, a bíróság erre a feleket figyelmezteti és lehetőséget biztosít, hogy a felek ezzel összefüggésben az érdemi nyilatkozataikat megtegyék.
+
 (3) Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak, és amelyek alkalmasak lehetnek arra, hogy a keresetlevélben előadottakat vagy az alperes védekezését igazolják. Bizonyítás felvételének helye van a felek által nyomban felajánlott bizonyítékokra is.
 
 (4) A tárgyalást – legfeljebb 8 napra – csak akkor lehet elhalasztani, ha ez a felek által felajánlott bizonyítás lefolytatása érdekében szükséges.
