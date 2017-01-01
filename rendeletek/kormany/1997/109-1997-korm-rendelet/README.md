@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-109-20-
 | 2012-01-01 | 1997-109-20-22.8 | 266/2011. (XII. 13.) Korm. rendelet |
 | 2013-10-01 | 1997-109-20-22.9 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2014-03-15 | 1997-109-20-22.10 | 46/2014. (II. 26.) Korm. rendelet |
+| 2017-01-01 | 1997-109-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
