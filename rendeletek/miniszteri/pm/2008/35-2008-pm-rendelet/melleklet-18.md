@@ -82,4 +82,4 @@
 
 18. melléklet a 35/2008. (XII. 31.) PM rendelethez[^23]
 
-[^23]: A 18. mellékletet újonnan a 48/2015. (XII. 30.) NGM rendelet 6. § (3) bekezdése iktatta be.
+[^23]: A 18. mellékletet újonnan a 48/2015. (XII. 30.) NGM rendelet 6. § (3) bekezdése iktatta be, szövege a 60/2016. (XII. 29.) NGM rendelet 7. § (1) bekezdés e) pontja módosított szöveg.

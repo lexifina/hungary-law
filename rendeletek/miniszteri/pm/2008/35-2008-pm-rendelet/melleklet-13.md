@@ -12,4 +12,4 @@
 
 13. melléklet a 35/2008. (XII. 31.) PM rendelethez[^19]
 
-[^19]: A 13. melléklet a 48/2015. (XII. 30.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^19]: A 13. melléklet a 48/2015. (XII. 30.) NGM rendelet 6. § (2) bekezdésével megállapított, a 60/2016. (XII. 29.) NGM rendelet 7. § (1) bekezdés d) pontja módosított szöveg.
