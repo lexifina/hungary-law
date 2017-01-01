@@ -2,11 +2,11 @@
 
 45. § (1) A mezőgazdasági vállalkozási támogatás vagy a kárpótlásra jogosult kárpótlási jegyeinek kiegészítésére szolgál, vagy önállóan, azok nélkül is igénybe vehető.
 
-(2)[^71] A mezőgazdasági vállalkozóként való bejelentkezés tényét a vállalkozói igazolvány, valamint az APEH bejelentkezési lap hiteles másolatával, egyéni vállalkozói igazolvány hiányában az egyéni vállalkozói nyilvántartási szám közlésével kell a kárpótlási hatóságnál igazolni.
+(2)[^70] A mezőgazdasági vállalkozóként való bejelentkezés tényét a vállalkozói igazolvány, valamint az APEH bejelentkezési lap hiteles másolatával, egyéni vállalkozói igazolvány hiányában az egyéni vállalkozói nyilvántartási szám közlésével kell a kárpótlási hatóságnál igazolni.
 
-(3) A mezőgazdasági vállalkozási támogatás igénybevétele esetén mezőgazdasági vállalkozónak minősül az, aki az SZJA Tv. 15—16. §-aiban[^72] meghatározott tevékenységet végez.
+(3) A mezőgazdasági vállalkozási támogatás igénybevétele esetén mezőgazdasági vállalkozónak minősül az, aki az SZJA Tv. 15—16. §-aiban[^71] meghatározott tevékenységet végez.
 
 (4) A hitellé alakult támogatás összege után az esedékessége napjától számítva évi 20%-os késedelmi kamatot kell fizetni.
 
-[^71]: A Vhr. 45. § (2) bekezdése a 308/2009. (XII. 28.) Korm. rendelet 7. § (11) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés r) pontja szerint módosított szöveg.
-[^72]: Lásd az 1995: CXVII. törvény 22. §-át.
+[^70]: A Vhr. 45. § (2) bekezdése a 308/2009. (XII. 28.) Korm. rendelet 7. § (11) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés r) pontja szerint módosított szöveg.
+[^71]: Lásd az 1995: CXVII. törvény 22. §-át.

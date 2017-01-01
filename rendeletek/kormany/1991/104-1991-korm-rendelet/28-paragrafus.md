@@ -8,4 +8,6 @@
 
 (4) Az árverezőnek legkésőbb az árverésen nyilatkoznia kell arról, hogy vállalja a Tv. 23. § (1) bekezdése szerinti kötelezettséget.
 
-(5) Nem vehet részt az árverésen az a személy, aki az előző bekezdésekben foglaltaknak nem tesz eleget. A kizárás tényét az árverési jegyzőkönyvben rögzíteni kell. A kizárás ellen az árverésből kizárt személy a 40. §-ban foglaltak alapján árverési kifogással élhet.
+(5)[^53] Nem vehet részt az árverésen az a személy, aki az (1)–(4) bekezdésben foglaltaknak nem tesz eleget. A kizárás tényét az árverési jegyzőkönyvben rögzíteni kell. A kizárás ellen az árverésből kizárt személy a 40. §-ban foglaltak alapján bírósági felülvizsgálat iránti kérelemmel élhet.
+
+[^53]: A Vhr. 28. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-30. §[^54] Amennyiben külön-külön is megfelelnek a Tv.-ben foglalt feltételeknek, több kárpótlásra jogosult együttesen, az általuk meghatalmazott kárpótlásra jogosult vagy bármelyikük 29. § szerinti képviselője útján is árverezhet. Az együttesen megszerzett földterületet közöttük olyan arányban kell megosztani, ahogy az árverésen felhasznált kárpótlási jegyeik értéke, és az igénybevett mezőgazdasági vállalkozási támogatás összege aránylik egymáshoz.
+30. §[^55] Amennyiben külön-külön is megfelelnek a Tv.-ben foglalt feltételeknek, több kárpótlásra jogosult együttesen, az általuk meghatalmazott kárpótlásra jogosult vagy bármelyikük 29. § szerinti képviselője útján is árverezhet. Az együttesen megszerzett földterületet közöttük olyan arányban kell megosztani, ahogy az árverésen felhasznált kárpótlási jegyeik értéke, és az igénybevett mezőgazdasági vállalkozási támogatás összege aránylik egymáshoz.
 
-[^54]: A Vhr. 30.§-ának első mondata az 56/1995. ( V. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^55]: A Vhr. 30.§-ának első mondata az 56/1995. ( V. 17.) Korm. rendelet 3. §-ával megállapított szöveg.

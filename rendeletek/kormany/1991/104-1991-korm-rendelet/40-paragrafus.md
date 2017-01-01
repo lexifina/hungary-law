@@ -1,9 +1,9 @@
-40. § (1)[^62] Árverési kifogást nyújthat be az árverésen részt vevő árverező, továbbá az árverésből kizárt személy (28. § és 33. §-ok) az árverés lezárását követő három napon belül a Hivatal útján, a másodfokú kárpótlási hatóságként eljáró igazságügyért felelős miniszterhez.
+40. §[^63] (1) Az árverés eredménye ellen bírósági felülvizsgálat iránti kérelmet nyújthat be az árverésen részt vevő árverező, továbbá az árverésből – a 28. § (5) bekezdés vagy a 33. § (5) bekezdés alapján – kizárt személy az árverés lezárását követően.
 
-(2)[^63] Az árverési kifogást a beérkezéstől számított 21 napon belül kell elbírálni. Az árverés eredménye az árverési kifogás elbírálását követően jogerős.
+(2) Az árverés eredménye ellen benyújtott bírósági felülvizsgálat iránti kérelem esetén a bíróság a Tv.-ben foglaltak szerint jár el.
 
-(3)[^64] Ha az árverési kifogás elbírálásáról szóló határozat az árverés eredményét megsemmisíti, az ismételt árverést e határozat Hivatal részére történő kézbesítését követő 90 napon belül ki kell tűzni. Ezen az árverésen a Tv. szerint árverésre jogosultak vehetnek részt.
+(3) Az árverés eredménye az ellene benyújtott bírósági felülvizsgálat iránti kérelem elbírálását követően jogerős.
 
-[^62]: A Vhr. 40. § (1) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 178/2012. (VII. 26.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^63]: A Vhr. 40. §-a (2) bekezdésének első mondata az 56/1995. (V. 17.) Korm. rendelet 4. §-ával megállapított, a 441/2015. (XII. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^64]: A Vhr. 40. §-ának (3) bekezdése a 124/1995. (X. 18.) Korm. rendelet 5. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés o) pontja, a 178/2012. (VII. 26.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+(4) Ha az árverés eredménye ellen benyújtott bírósági felülvizsgálat iránti kérelem elbírálásáról szóló döntés az árverés eredményét megsemmisíti, az ismételt árverést e határozat kárpótlási hatóság részére történő kézbesítését követő 90 napon belül ki kell tűzni. Ezen az árverésen a Tv. szerint árverésre jogosultak vehetnek részt.
+
+[^63]: A Vhr. 40. §-a a 379/2016. (XII. 2.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
