@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-240-20-
 | --- | --- | --- |
 | 2016-09-01 | 2016-240-20-22.1 | 240/2016. (VIII. 16.) Korm. rendelet |
 | 2016-09-02 | 2016-240-20-22.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-240-20-22.3 | 2010: CXXX. törvény |
