@@ -34,14 +34,18 @@ g) a teljességi nyilatkozatot, amelyben a pályázó felelősséget vállal arr
 
 h) a pályázónak a pályázati eljárásban történő teljes körű képviseletére jogosultak nevét, valamint a képviseleti jog igazolására alkalmas dokumentumot,
 
-i) a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 4. számú mellékletében meghatározott dokumentumokat, kivéve a hálózati engedélyessel kötött hálózati csatlakozási szerződést,
+i)[^22]
 
 j) a hálózati csatlakozásra vonatkozó, a hálózati engedélyes által jóváhagyott csatlakozási tervet,
 
 k) a 8. §-ban meghatározott követelmények teljesítésére vonatkozó igazolásokat, nyilatkozatokat, kivéve a 8. § (1) bekezdés c) pontja szerinti köztartozásra vonatkozó igazolást,
 
-l) a 6. § (4) bekezdés d) pontja szerinti esetben a villamos energia kötelező átvételi rendszerében történő értékesítési jogosultságról történő lemondó nyilatkozatot,
+l)[^23]
 
-m) a 18. § szerinti forrás rendelkezésre állását igazoló dokumentumot, valamint
+m)[^24] az ajánlati biztosíték rendelkezésre állását igazoló dokumentumot, valamint
 
 n) az auditált szélhozam mérések adatait.
+
+[^22]: A 9. § (2) bekezdés i) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § f) pontja hatályon kívül helyezte.
+[^23]: A 9. § (2) bekezdés l) pontját a 61/2016. (XII. 28.) NFM rendelet 11. § f) pontja hatályon kívül helyezte.
+[^24]: A 9. § (2) bekezdés m) pontja a 61/2016. (XII. 28.) NFM rendelet 10. § d) pontja szerint módosított szöveg.

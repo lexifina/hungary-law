@@ -1,12 +1,8 @@
-## Értékelő szakasz
+## Értékelés[^33]
 
-15. § (1)[^11] A minősítő szakaszban megfelelt pályázókat a Hivatal felhívja, hogy 8 munkanapon belül – a jogszabályban meghatározottnál nem magasabb – kötelező átvételi ár, az igényelt kötelező átvétel időtartama, a kötelező átvétel keretében átvételre kerülő villamos energia éves mennyisége, valamint a szabályozási képesség vonatkozásában tegyenek ajánlatot. A szabályozási képességre vonatkozó ajánlatot az üzemi szabályzatban meghatározott bontásban kell megadni.
+15. §[^34] (1) A minősített pályázókat az Értékelő Bizottság ajánlataik beérkezési sorrendje alapján sorba rendezi és ezen sorrend alapján a legkorábban beérkezett pályázatokkal kezdve megállapítja a nyerteseket úgy, hogy a nyertesek által igényelt összkapacitás ne legyen nagyobb az egyes kategóriákban kiosztható jogosultságoknál.
 
-(2) Az (1) bekezdés szerinti határidő elmulasztása esetén nincs helye igazolásnak.
+(2) A pályázatok beérkezési sorrendjét a benyújtás során kapott időbélyeg alapján kell megállapítani.
 
-(3)[^12] Az (1) bekezdésben meghatározott ajánlat értékelése során a Hivatal a megadott jellemzőket a kiírási dokumentációban meghatározott súlyozással veszi figyelembe.
-
-(4) Az értékelő szakaszban a pályázatok vizsgálatára nyitva álló határidő 22 munkanap.
-
-[^11]: A 15. § (1) bekezdése az 1/2010. (VI. 18.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^12]: A 15. § (3) bekezdése az 1/2010. (VI. 18.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^33]: A 15. §-t megelőző alcím címe a 61/2016. (XII. 28.) NFM rendelet 10. § f) pontjával megállapított szöveg.
+[^34]: A 15. § a 61/2016. (XII. 28.) NFM rendelet 5. §-ával megállapított szöveg.

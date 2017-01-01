@@ -2,4 +2,6 @@
 
 (2) A pályázó köteles a kiírási dokumentációban foglalt eljárási szabályokat betartani.
 
-(3) A Hivatal az e rendeletben és a kiírási dokumentációban meghatározott követelményeknek megfelelő pályázókat nyilvántartásba veszi, és a nyilvántartásba vett pályázók listáját (a pályázók nevét és az azonosításukra szolgáló adatokat) a benyújtási határidő lejártát követő 35 munkanapon belül a Hivatal honlapján közzéteszi. A pályázat benyújtásával a pályázók hozzájárulnak adataik pályázók listáján történő közzétételéhez.
+(3)[^26]
+
+[^26]: A 11. § (3) bekezdését a 61/2016. (XII. 28.) NFM rendelet 11. § g) pontja hatályon kívül helyezte.
