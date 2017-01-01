@@ -1,5 +1,3 @@
-## 36. §
-
 ## 16. Az NPI feladatai
 
 ## 37. § Az NPI állami alaptevékenysége körében

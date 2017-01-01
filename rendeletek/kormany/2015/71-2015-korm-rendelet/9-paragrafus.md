@@ -4,11 +4,11 @@
 
 a) a minisztert,
 
-b) az OKTF-et,
+b)[^9] a Pest Megyei Kormányhivatalt,
 
-c) a kormányhivatalt,
+c)[^10]
 
-d) a kormányhivatal járási (fővárosi kerületi) hivatalát,
+d)[^11] a megyei kormányhivatal (a továbbiakban: kormányhivatal) járási hivatalát,
 
 e) az OMSZ-t,
 
@@ -24,10 +24,20 @@ j) a fővárosi kerületi önkormányzat jegyzőjét [az f)–j) pont szerintiek
 
 ## jelöli ki.
 
-(2) Környezetvédelmi hatóságként – ha kormányrendelet másként nem rendelkezik – a kormányhivatal jár el.
+(2)[^12] Környezetvédelmi hatóságként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
 
 (3) Kormányrendelet eltérő rendelkezése hiányában
 
-a) az elsőfokon eljáró környezetvédelmi hatóság a kormányhivatal,
+a)[^13] az elsőfokon eljáró környezetvédelmi hatóság a területi környezetvédelmi hatóság,
 
-b) a másodfokon eljáró környezetvédelmi hatóság az OKTF.
+b)[^14] a másodfokon eljáró környezetvédelmi hatóság az országos környezetvédelmi hatóság.
+
+(4)[^15] Az önkormányzati környezetvédelmi hatóság környezetvédelmi hatósági ügyben hozott elsőfokú döntése esetén másodfokon a területi környezetvédelmi hatóság jár el.
+
+[^9]: A 9. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 2. pontjával megállapított szöveg.
+[^10]: A 9. § (1) bekezdés c) pontját a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés b) pontja hatályon kívül helyezte.
+[^11]: A 9. § (1) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 3. pontjával megállapított szöveg.
+[^12]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
+[^13]: A 9. § (3) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
+[^14]: A 9. § (3) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 5. pontja szerint módosított szöveg.
+[^15]: A 9. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 293. § (2) bekezdése iktatta be.

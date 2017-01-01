@@ -1,23 +1,10 @@
 ## 7. § Az NPI a természetvédelmi szabálysértések ellenőrzésére, továbbá a természetvédelmi őrszolgálat működtetésére közhatalmi jogkörrel rendelkezik.
 
-## II. Fejezet
+## II. Fejezet[^4]
 
-## A TERÜLETI KÖRNYEZETVÉDELMI ÉS TERMÉSZETVÉDELMI HATÓSÁG ILLETÉKESSÉGE ÉS A KÖRNYEZETVÉDELMI ÉS TERMÉSZETVÉDELMI HATÓSÁGOK KIJELÖLÉSE
+## AZ ORSZÁGOS, A TERÜLETI ÉS A JÁRÁSI KÖRNYEZETVÉDELMI ÉS TERMÉSZETVÉDELMI HATÓSÁG ILLETÉKESSÉGE, VALAMINT A KÖRNYEZETVÉDELMI ÉS TERMÉSZETVÉDELMI HATÓSÁGOK KIJELÖLÉSE
 
-## 4. Területi környezetvédelmi és természetvédelmi hatóság
+## 4. [^5] Az országos környezetvédelmi és természetvédelmi hatóság
 
-8. § (1) A környezetvédelmi és természetvédelmi hatóságként eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal) illetékességi területét – a (2) bekezdésben foglalt eltéréssel – a 2. melléklet állapítja meg.
-
-(2) A kormányhivatal környezetvédelmi és természetvédelmi hatóságként különös illetékességgel a 3. melléklet szerinti esetekben jár el.
-
-(3) A kormányhivatal és a kormányhivatal járási (fővárosi kerületi) hivatala – az (5) bekezdésbe nem tartozó – környezetvédelmi és természetvédelmi feladatkörei gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
-
-(4) A miniszter
-
-a) a (3) bekezdés szerinti hatásköre gyakorlásához az OKTF-et és
-
-b) az Országos Légszennyezettségi Mérőhálózat szakszerűségi ellenőrzéséhez az Országos Meteorológiai Szolgálatot (a továbbiakban: OMSZ)
-
-közreműködőként veheti igénybe.
-
-(5) A kormányhivatal és a kormányhivatal járási (fővárosi kerületi) hivatala környezetvédelmi és természetvédelmi hatósági eljárásaiban az Áht. 9. § f) és g) pontjában, valamint kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket az e kormányrendeletben kijelölt, másodfokon eljáró hatóság gyakorolja.
+[^4]: A II. fejezet címe a 473/2016. (XII. 27.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. alcím (8. §) a 473/2016. (XII. 27.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

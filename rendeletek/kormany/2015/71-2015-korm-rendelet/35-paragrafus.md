@@ -1,6 +1,6 @@
 ## 14. A területi környezetvédelmi és természetvédelmi hatóság feladatai
 
-35. § (1) A kormányhivatal állami alaptevékenysége körében
+35. § (1)[^69] A területi környezetvédelmi és természetvédelmi hatóság állami alaptevékenysége körében
 
 a) összegyűjti és az Országos Környezetvédelmi Információs Rendszer rendelkezésére bocsátja az annak működéséhez szükséges – feladatkörével összefüggő – adatokat, továbbá együttműködik más ellenőrző és információs rendszerekkel;
 
@@ -12,16 +12,16 @@ d) hozzáférhetővé teszi a környezet állapotáról szerzett adatokat, és m
 
 e) részt vesz a környezeti tudat- és szemléletformáló feladatok ellátásában.
 
-(2) A 4. melléklet 1.1 és 1.2. pontja szerinti kormányhivatal – a 4. melléklet 1.3.2 és 1.3.3 pontja szerinti különös illetékességi terület figyelembevételével a víz, mint környezeti elem tekintetében a vízvédelemért felelős miniszter szakmai irányítása mellett – környezetvédelmi igazgatási szervként regionális laboratóriumot működtet, amely mintavétellel, laboratóriumi, illetve egyéb műszeres vizsgálati tevékenységével üzemelteti
+(2)[^70] A területi környezetvédelmi hatóság a levegőtisztaság-védelmi emisszió mérés, a mobil mérőegységekkel elvégezhető levegőminőségi mérés és zajmérés vonatkozásában a 8/A. § szerinti általános illetékességi területére a hatósági ellenőrzési terv előkészítése céljából az ellenőrzési időszakot megelőző 30. napig hatósági mérési tervet készít. A hatósági mérési terv – a 2. melléklet szerint – az adott területen a regionális laboratóriumot üzemeltető megyei kormányhivatal bevonásával és jóváhagyásával készül.
 
-a) a környezet állapotértékeléshez szükséges monitoring-rendszert,
+(3)[^71]
 
-b) az igazgatási és hatósági tevékenység ellátásához szükséges mérő-rendszert, valamint
+(4)[^72] A vízvédelmi hatóság, valamint a vízvédelmi és vízügyi igazgatási szerv részére a 22. § a) pont ab) alpontja szerinti területi környezetvédelmi hatóság biztosítja az (1) bekezdés a) pontja és a 36. § szerinti rendszerben rögzített, a vizekre vonatkozó adatokhoz történő hozzáférést.
 
-c) a rendkívüli környezeti eseményekhez és a helyreállítási intézkedésekhez kapcsolódó mérő-rendszert.
+(5)[^73] A vízvédelmi hatósági és a vízügyi igazgatási tevékenység ellátáshoz szükséges a 36. § b) és c) pontja szerinti feladatok finanszírozása – a hivatalból indult és kötelezettséget megállapító határozattal záruló hatósági eljárások kivételével – önköltségi alapon, a közigazgatás-szervezésért felelős miniszter és a vízvédelemért, illetve vízügyi igazgatási szervek irányításáért felelős miniszter közötti megállapodásban foglaltak szerint történik. A hivatalból indult és kötelezettséget megállapító határozattal záruló hatósági eljárások esetében a 36. § b) és c) pontja szerinti tevékenység költségét – a környezetvédelmi és vízügyi hatósági eljárás során felmerülő egyéb eljárási költségekről szóló kormányrendelet szerint – a kötelezett viseli.
 
-(3) A 4. mellékletben a kizárólag környezeti zajmérésre kijelölt kormányhivatalok regionális laboratórium működtetése nélkül is végezhetnek környezeti zajmérést.
-
-(4) A vízvédelmi hatóság és a vízügyi igazgatási szerv részére a 22. § a) pont ab) alpontja szerinti kormányhivatal biztosítja az (1) bekezdés a) pontja és a (2) bekezdés szerinti rendszerben rögzített, a vizekre vonatkozó adatokhoz való hozzáférést.
-
-(5) A vízvédelmi hatósági és a vízügyi igazgatási tevékenység ellátáshoz szükséges (2) bekezdés b) és c) pontja szerinti feladatok finanszírozása – a hivatalból indult és kötelezettséget megállapító határozattal záruló hatósági eljárások kivételével – önköltségi alapon, a közigazgatás-szervezésért felelős miniszter és a vízvédelemért, illetve vízügyi igazgatási szervek irányításáért felelős miniszter közötti megállapodásban foglaltak szerint történik. A hivatalból indult és kötelezettséget megállapító határozattal záruló hatósági eljárások esetében a (2) bekezdés b) és c) pontja szerinti tevékenység költségét – a környezetvédelmi és vízügyi hatósági eljárás során felmerülő egyéb eljárási költségekről szóló kormányrendelet szerint – a kötelezett viseli.
+[^69]: A 35. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 17. pontja szerint módosított szöveg.
+[^70]: A 35. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^71]: A 35. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés g) pontja hatályon kívül helyezte.
+[^72]: A 35. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^73]: A 35. § (5) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.

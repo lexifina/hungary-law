@@ -1,4 +1,4 @@
-## 19. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 9. § (3) bekezdés a) pontjában meghatározott feladat ellátására természetvédelmi hatóságként természetvédelmi őrök esetén az NPI, önkormányzati természetvédelmi őrök esetében a települési önkormányzat jegyzője vagy a fővárosi főjegyző jár el.
+## 19/A. §[^43] Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 21. § (1)–(3), (7) és (8) bekezdésében, 22. és 23. §-ában, 39. §-ában, 40. § (5) bekezdésében, valamint 45/A. §-ában foglaltak tekintetében a területi természetvédelmi hatóság jár el.
 
 ## III. Fejezet
 
@@ -6,18 +6,22 @@
 
 ## 7. Környezetvédelmi igazgatási szerv kijelölése
 
-20. § (1) A Kormány környezetvédelmi igazgatási szervként
+20. § (1)[^44] A Kormány környezetvédelmi igazgatási szervként
 
-a) az OKTF-et,
+a) a minisztert,
 
-b) a kormányhivatalt,
+b) az országos környezetvédelmi hatóságot,
 
-c)[^3] a Herman Ottó Intézetet és
+c) a területi környezetvédelmi hatóságot,
 
-d) az OMSZ-t
+d) a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaságot és
+
+e) az OMSZ-t
 
 ## jelöli ki.
 
-(2) Környezetvédelmi igazgatási szervként – ha kormányrendelet másként nem rendelkezik – a kormányhivatal jár el.
+(2)[^45] Környezetvédelmi igazgatási szervként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
 
-[^3]: A 20. § (1) bekezdés c) pontja a 147/2015. (VI. 12.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^43]: A 19/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 293. § (7) bekezdése iktatta be.
+[^44]: A 20. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (8) bekezdésével megállapított szöveg.
+[^45]: A 20. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.

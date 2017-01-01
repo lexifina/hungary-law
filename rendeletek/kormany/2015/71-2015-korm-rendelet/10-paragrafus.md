@@ -1,18 +1,18 @@
-## 10. § Az OKTF jár el elsőfokon országos illetékességgel
+## 9/A. §[^16] A miniszter jár el elsőfokon országos illetékességgel a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 92. §-a szerinti környezetvédelmi hatóságként.
 
-a) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 66. § (1) bekezdés a) pontjában foglalt környezetvédelmi hatóságként gyorsforgalmi út építése esetén,
+## 10. §[^17] Az országos környezetvédelmi hatóság jár el elsőfokon országos illetékességgel
 
-b) a Kvt. 92. §-a szerinti környezetvédelmi hatóságként,
+a)[^18] a Kvt. 66. § (1) bekezdés a) pontjában foglalt környezetvédelmi hatóságként gyorsforgalmi út építése esetén,
+
+b)[^19]
 
 c) a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 3/A. §-ában és 27. § (2) bekezdésében foglalt környezetvédelmi hatóságként,
 
-d) az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti környezetvédelmi hatóságként, ideértve a légijármű-üzemeltető által benyújtott nyomonkövetési terv jóváhagyását,
-
-e) az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 5. §-a és 13/B–13/E. §-a szerinti környezetvédelmi hatóságként,
+d)–e)[^20]
 
 f) a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerinti környezetvédelmi hatóságként,
 
-g) a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 12. § (2) bekezdésében, 13. §-ában és 14. §-ában foglalt tevékenység engedélyezése vagy nyilvántartásba vétele esetén környezetvédelmi hatóságként, ha a hulladékgazdálkodással kapcsolatos hatósági engedély megszerzése vagy a nyilvántartásba vétel iránti kérelem több kormányhivatal környezetvédelmi hatáskörét érintő illetékességi területére terjed ki,
+g)[^21] a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 12. § (2) bekezdésében, 13. §-ában és 14. §-ában foglalt tevékenységgel kapcsolatos hatósági eljárásban környezetvédelmi hatóságként, ha a hulladékgazdálkodással kapcsolatos hatósági engedély megszerzése vagy a nyilvántartásba vétel iránti kérelem több területi környezetvédelmi hatóság hatáskörét érintő illetékességi területére terjed ki,
 
 h) a Ht. 20., 29., 68., 69., valamint 81. §-ában foglalt környezetvédelmi hatóságként,
 
@@ -22,4 +22,12 @@ j) a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűség�
 
 ja) 5. § (3) bekezdésében, 6. § (1), (3) és (4) bekezdésében, 9. § (2) és (3) bekezdésében, 10. §-ában, 12. § (1) bekezdésében foglalt környezetvédelmi hatóságként, továbbá
 
-jb) 9. § (1) bekezdésében foglalt környezetvédelmi hatóságnak az országos illetékességű szerveként a gyorsforgalmi utak építése során a Kvt. 67. § (1) és (2) bekezdésében, 71. § (1) bekezdés a) és b) pontjában, 71. § (3) bekezdésében, valamint 72. §-ában foglalt környezetvédelmi hatóságként azzal, hogy a Kvt. 72. §-ában foglalt környezetvédelmi hatóságként az OKTF csak a környezetvédelmi engedély tekintetében járhat el.
+jb)[^22] 9. § (1) bekezdésében foglalt környezetvédelmi hatóságnak az országos illetékességű szerveként a gyorsforgalmi utak építése során a Kvt. 67. § (1) és (2) bekezdésében, 71. § (1) bekezdés a) és b) pontjában, 71. § (3) bekezdésében, valamint 72. §-ában foglalt környezetvédelmi hatóságként azzal, hogy a Kvt. 72. §-ában foglalt környezetvédelmi hatóságként az országos környezetvédelmi hatóság csak a környezetvédelmi engedély tekintetében járhat el.
+
+[^16]: A 9/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 293. § (3) bekezdése iktatta be.
+[^17]: A 10. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 5. pontja szerint módosított szöveg.
+[^18]: A 10. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 6. pontja szerint módosított szöveg.
+[^19]: A 10. § b) pontját a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés c) pontja hatályon kívül helyezte.
+[^20]: A 10. § d)–e) pontját a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés c) pontja hatályon kívül helyezte.
+[^21]: A 10. § g) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (4) bekezdésével megállapított szöveg.
+[^22]: A 10. § j) pont jb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 5. pontja szerint módosított szöveg.
