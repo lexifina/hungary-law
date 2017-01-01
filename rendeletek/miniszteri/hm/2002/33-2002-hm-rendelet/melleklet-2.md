@@ -24,8 +24,6 @@
 
 ## haditechnikai termék: haditechnikai eszköz és/vagy a hozzá tartozó haditechnikai szolgáltatás;
 
-## honvédségi szervezet: a Magyar Honvédség olyan szervezeti egysége, amely önálló állománytáblával rendelkezik és a honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka irányítása és/vagy vezetése alá tartozik;
-
 ## rendszeresítő: valamely tevékenységre (rendszeresítésre, alkalmazásba vételre, létesítésre, elosztásra, kivonásra stb.) vagy forrásra vonatkozó hatályos engedély birtokosa, akinek elismert jogai és kötelezettségei vannak az adott tevékenységre, illetve forrásra vonatkozóan, elsősorban a védelem és biztonság tekintetében;
 
 ## az ionizáló sugárforrás fokozott kockázatával járó tevékenység: olyan emberi tevékenység, amely a háttér-sugárzáshoz képest megnöveli a sugárterhelést vagy annak valószínűségét;
