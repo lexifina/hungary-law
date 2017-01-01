@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-313-20-
 | 2015-03-12 | 2012-313-20-22.9 | 38/2015. (III. 11.) Korm. rendelet |
 | 2015-04-01 | 2012-313-20-22.10 | 62/2014. (III. 6.) Korm. rendelet |
 | 2016-01-01 | 2012-313-20-22.11 | 491/2015. (XII. 30.) Korm. rendelet |
+| 2017-01-01 | 2012-313-20-22.12 | 482/2016. (XII. 28.) Korm. rendelet |

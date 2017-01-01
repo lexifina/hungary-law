@@ -8,11 +8,11 @@ b) az 1. § (1) bekezdés d) és g) pontja szerinti, az építésügyi hatóság
 
 c) az 1. § (1) bekezdés e) pontja szerinti energetikai tanúsítványt elektronikus alkalmazás igénybevételével az energetikai tanúsító,
 
-d)[^17] az 1. § (1) bekezdés f) pontja szerinti tervtanácsi szakmai véleményt a Nyilvántartásban biztosított felületen, a tervtanács döntését követő 5 napon belül az országos főépítész vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal,
+d)[^18] az 1. § (1) bekezdés f) pontja szerinti tervtanácsi szakmai véleményt a Nyilvántartásban biztosított felületen, a tervtanács döntését követő 5 napon belül az országos főépítész vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal,
 
 e) az 1. § (1) bekezdés h)–i) pontja szerinti helyi építészeti, természeti értékek védelmét elrendelő döntést, a településrendezési eszközöket, a rendeletet vagy határozatot és terv-mellékleteket az önkormányzat döntését követő 30 napon belül a jegyző,
 
-f) az 1. § (1) bekezdés m) pontja szerinti ellenőrzési jegyzőkönyveket és fotókat a Nyilvántartásban biztosított felületen, a jegyzőkönyv felvételét követő 5 napon belül az építésügyi és építésfelügyelet hatóság,
+f)[^19] az 1. § (1) bekezdés m) pontja szerinti ellenőrzési jegyzőkönyveket, hitelesített feljegyzéseket és fotókat a Nyilvántartásban biztosított felületen, a jegyzőkönyv vagy a hivatalos feljegyzés felvételét követő 5 napon belül az építésügyi és építésfelügyelet hatóság,
 
 g) az 1. § (1) bekezdés o) pontja szerinti épület-feltüntetési vázrajzot a Nyilvántartásban biztosított felületen – a jogszabályban meghatározottak szerint – az építtető
 
@@ -30,4 +30,5 @@ kell a Dokumentációs Központ részére átadni.
 
 (3) A Dokumentációs Központ és a Nyilvántartás adatállományából – igény szerinti adatátadást követően – törölni kell az utólagos rendeltetésváltozás miatt e rendelet hatálya alól kikerült, az 1. § (2) bekezdés a) és b) pontja szerinti építményre vonatkozó adatokat és dokumentációkat. A változást és az adatátadási igényt az építmény új rendeltetése tekintetében feladatkörrel rendelkező miniszter köteles jelezni az Üzemeltető felé.
 
-[^17]: A 4. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 207. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 207. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. § (1) bekezdés f) pontja a 482/2016. (XII. 28.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
