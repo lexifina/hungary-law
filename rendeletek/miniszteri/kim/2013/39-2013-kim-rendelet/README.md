@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-39-20-2
 | 2015-09-01 | 2013-39-20-2T.3 | 18/2015. (III. 31.) MvM rendelet |
 | 2015-09-30 | 2013-39-20-2T.4 | 11/2015. (II. 27.) MvM rendelet |
 | 2016-06-30 | 2013-39-20-2T.5 | 19/2016. (VI. 29.) MvM rendelet |
+| 2017-01-01 | 2013-39-20-2T.6 | 37/2016. (XII. 29.) MvM rendelet |

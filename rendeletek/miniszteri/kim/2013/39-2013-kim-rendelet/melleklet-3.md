@@ -1,12 +1,12 @@
-3. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^27]
+3. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^39]
 
 ## A biankó okmányok, tartozékok, PIN borítékok, rendszámok és kellékek központi ellátásának rendje és az elszámolás szabályai
 
 1. Megrendelés
 
-A járási hivatal vezetője a Hivatal által biztosított biankó okmányok, tartozékok, PIN borítékok kellékek és a rendszámok (a továbbiakban együtt: termékek) kezelésére kijelölt kormányablak ügyintéző, távolléte esetén a helyettesítésére kijelölt személy köteles figyelemmel kísérni a termékek okmányirodai készletét, és köteles elkészíteni a szükséges megrendeléseket az erre szolgáló informatikai rendszerben.
+A járási hivatal vezetője a NISZ Zrt. által biztosított biankó okmányok, tartozékok, PIN borítékok kellékek és a rendszámok (a továbbiakban együtt: termékek) kezelésére kijelölt kormányablak ügyintéző, távolléte esetén a helyettesítésére kijelölt személy köteles figyelemmel kísérni a termékek okmányirodai készletét, és köteles elkészíteni a szükséges megrendeléseket az erre szolgáló informatikai rendszerben.
 
-A Hivatal
+A NISZ Zrt.
 
 a) a helyi kiállítású biankó okmányokat és tartozékait az általa megállapított ellátmány mértékéig havi rendszerességgel, illetve a kormányablak rendkívüli megrendelése alapján,
 
@@ -18,7 +18,7 @@ biztosítja.
 
 2. Biankó okmányok bevételezése
 
-2.1. A Hivataltól szállítólevéllel érkező biankó okmányt, PIN boríték küldeményt, rendszámtáblát az iktatókönyvben történő (gyűjtőszámon) érkeztetés után a küldeményhez mellékelt szállítólevél, valamint a központi okmánynyilvántartás alapján ellenőrizni kell:
+2.1. A NISZ Zrt.-től szállítólevéllel érkező biankó okmányt, PIN boríték küldeményt, rendszámtáblát az iktatókönyvben történő (gyűjtőszámon) érkeztetés után a küldeményhez mellékelt szállítólevél, valamint a központi okmánynyilvántartás alapján ellenőrizni kell:
 
 a) típus,
 
@@ -28,7 +28,7 @@ c) darabszám (a csomag, szállítóegység leszámlálása és legalább szúr�
 
 alapján.
 
-2.2. Az ellenőrzés alapján feltárt eltérésekről (hiány vagy többlet) jegyzőkönyvet kell készíteni két példányban, aminek első példányát haladéktalanul meg kell küldeni a Hivatalnak, második példányát irattározni kell. Az eltérések rendezésére a Hivatal intézkedik.
+2.2. Az ellenőrzés alapján feltárt eltérésekről (hiány vagy többlet) jegyzőkönyvet kell készíteni két példányban, aminek első példányát haladéktalanul meg kell küldeni a NISZ Zrt.-nek, második példányát irattározni kell. Az eltérések rendezésére a NISZ Zrt. intézkedik.
 
 3. Biankó okmányok és PIN borítékok felhasználása
 
@@ -98,7 +98,7 @@ i) a visszavételező aláírását.
 
 A hibás, selejtes okmányokat és PIN borítékokat áthúzással, pecsételéssel vagy a biankó okmányok esetében átlyukasztással érvényteleníteni kell.
 
-4.2. A Hivatalhoz felterjesztendő okmányok és PIN borítékok kezelése
+4.2. A NISZ Zrt.-hez felterjesztendő okmányok és PIN borítékok kezelése
 
 Abban az esetben, ha a nyomtatvány a megszemélyesítés során teljesen vagy beazonosíthatatlanságig sérült, az esetleges okmánymaradványokat is tartalmazó borítékot kell feliratozni, feltüntetve
 
@@ -110,10 +110,10 @@ c) a pontos időpontot,
 
 d) az okmány típusát és azonosítóját.
 
-A nyomdai hibás/gyártáshibás biankó okmányokról és PIN borítékokról jegyzőkönyvet kell kiállítani, amelyhez mellékelni kell az okmányokat (illetve az azt helyettesítő borítékot) és PIN borítékokat, továbbá azokat fajtánként és nyomdai hibás/gyártási hibás bontásban a Hivatalhoz történő visszaküldésig tárolni kell. A jegyzőkönyvnek a borítékon is feltüntetett adatokat kell tartalmaznia. A Hivatalhoz felterjesztendő okmányokat érvénytelenítés után, típusonként elkülönítve, tételes kísérőjegyzékkel, a számítógépes rendszeren történő átvezetést követően, az Állami Futárszolgálat útján kell továbbítani.
+A nyomdai hibás/gyártáshibás biankó okmányokról és PIN borítékokról jegyzőkönyvet kell kiállítani, amelyhez mellékelni kell az okmányokat (illetve az azt helyettesítő borítékot) és PIN borítékokat, továbbá azokat fajtánként és nyomdai hibás/gyártási hibás bontásban a NISZ Zrt.-hez történő visszaküldésig tárolni kell. A jegyzőkönyvnek a borítékon is feltüntetett adatokat kell tartalmaznia. A NISZ Zrt.-hez felterjesztendő okmányokat érvénytelenítés után, típusonként elkülönítve, tételes kísérőjegyzékkel, a számítógépes rendszeren történő átvezetést követően, az Állami Futárszolgálat útján kell továbbítani.
 
 5. Okmányok és PIN borítékok tárolása
 
 Az okmányokat és PIN borítékokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
 
-[^27]: A 3. melléklet a 19/2016. (VI. 29.) MvM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^39]: A 3. melléklet a 19/2016. (VI. 29.) MvM rendelet 5. § (3) bekezdése, a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés e)–i) pontja szerint módosított szöveg.
