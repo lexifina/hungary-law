@@ -10,7 +10,7 @@
 
 ## 4. egyetért azzal, hogy a Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának megújítása és működési környezetének fejlesztése című kiemelt projekt a projekt szakmai tartalmára való tekintettel két projektben kerüljön megvalósításra. A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése 1,55 Mrd forint értékében a KÖFOP 1 prioritás terhére és A külgazdasági és külügyi működést támogató kiemelt alapfolyamatok fejlesztése és szolgáltatási kapacitásuk bővítése címmel 1,35 Mrd Ft keretösszeggel a KÖFOP 2. prioritás terhére.
 
-1. melléklet az 1313/2016. (VI. 13.) Korm. határozathoz
+1. melléklet az 1313/2016. (VI. 13.) Korm. határozathoz[^1]
 
 | Sorszám | Támogatást igénylő | Kiemelt projekt megnevezése | Projekt HATÁLYOS ÉFK szerinti KERETE Ft | JAVASOLT KERET Ft | JAVASLAT |
 
@@ -52,9 +52,9 @@
 
 | 19 | Országos Nyugdíjbiztosítási Főigazgatóság | A 21. század családtámogatása és nyugdíja | 13 500 000 000 | 10 125 000 000 | 25 % os keret csökkentés |
 
-| 20 | Földművelésügyi Minisztérium, Földmérési és Távérzékelési Intézet, Belügyminisztérium, Miniszterelnökség, | Nemzeti Téradat Infrastruktúra kialakítása (NTI) | 18 100 000 000 | 13 575 000 000 | 25 % os keret csökkentés Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság konzorciumvezetőként valósítja meg a projekteket. |
+| 20 | Földművelésügyi Minisztérium, földmérési és térinformatikai államigazgatási szervként eljáró Budapest Főváros Kormányhivatala, Belügyminisztérium, Miniszterelnökség, | Nemzeti Téradat Infrastruktúra kialakítása (NTI) | 18 100 000 000 | 13 575 000 000 | 25 % os keret csökkentés Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság konzorciumvezetőként valósítja meg a projekteket. |
 
-| 21 | Földművelésügyi Minisztérium, Földmérési és Távérzékelési Intézet, Miniszterelnökség, Igazságügyi Minisztérium, | E- ingatlan-nyilvántartás | 17 500 000 000 | 13 125 000 000 | 25 % os keret csökkentés Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság konzorciumvezetőként valósítja meg a projekteket. |
+| 21 | Földművelésügyi Minisztérium, földmérési és térinformatikai államigazgatási szervként eljáró Budapest Főváros Kormányhivatala, Miniszterelnökség, Igazságügyi Minisztérium, | E- ingatlan-nyilvántartás | 17 500 000 000 | 13 125 000 000 | 25 % os keret csökkentés Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság konzorciumvezetőként valósítja meg a projekteket. |
 
 | 22 | Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság | Az egységes integrált állami vagyonnyilvántartás közhitelességének és adatkonzisztenciájának ellenőrzéséhez szükséges további fejlesztések | 3 440 000 000 | 2 580 000 000 | 25 % os keret csökkentés |
 
@@ -109,3 +109,5 @@
 | 47 | Magyar Államkincstár | Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház | 6 500 000 000 | 4 875 000 000 | 25 % os keret csökkentés |
 
 | 48 | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság vagy az általa vezetett konzorcium | Integrált közhiteles víziközmű adatbázis | 8 000 000 000 | 6 000 000 000 | 25 % os keret csökkentés |
+
+[^1]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 79. pontja szerint módosított szöveg.
