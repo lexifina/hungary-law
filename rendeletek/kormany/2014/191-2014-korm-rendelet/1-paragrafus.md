@@ -1,6 +1,6 @@
 ## 1. Árverésre irányuló megkeresés
 
-1. § (1)[^1] Ha végrehajtási, felszámolási, vagy önkormányzati adósságrendezési eljárásban mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) értékesítése iránt kell intézkedni, a végrehajtó, a felszámoló, vagy a pénzügyi gondnok (a továbbiakban együtt: megkereső) az értékesítés feltételeinek bekövetkeztétől számított 30 napon belül az árverés kitűzése, az árverési vagy értékesítési hirdetmény (a továbbiakban együtt: árverési hirdetmény) közzététele, továbbá az árverés vagy értékesítés (a továbbiakban együtt: árverés) lefolytatása érdekében megkeresi a föld fekvése szerint illetékes mezőgazdasági igazgatási szervként végrehajtási, felszámolási és önkormányzati adósságrendezési feladatkörében eljáró megyei kormányhivatalt (a továbbiakban: mezőgazdasági igazgatási szerv).
+1. § (1)[^1] Ha végrehajtási, felszámolási, vagy önkormányzati adósságrendezési eljárásban mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) értékesítése iránt kell intézkedni, a végrehajtó, a felszámoló, vagy a pénzügyi gondnok (a továbbiakban együtt: megkereső) az értékesítés feltételeinek bekövetkeztétől számított 30 napon belül az árverés kitűzése, az árverési vagy értékesítési hirdetmény (a továbbiakban együtt: árverési hirdetmény) közzététele, továbbá az árverés vagy értékesítés (a továbbiakban együtt: árverés) lefolytatása érdekében megkeresi a föld fekvése szerint illetékes megyei kormányhivatal mezőgazdasági igazgatási szervként végrehajtási, felszámolási és önkormányzati adósságrendezési feladatkörében eljáró megyeszékhely szerinti járási hivatalát (a továbbiakban: mezőgazdasági igazgatási szerv).
 
 (2) Az (1) bekezdés szerinti megkeresésben meg kell jelölni:
 
@@ -24,4 +24,4 @@ i) a földrészlettel együtt nyilvántartott épület, építmény árverezők 
 
 (3) Ha a becsérték felülvizsgálatát felszámolási eljárásban a hitelezői választmány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 49. § (2) bekezdése alapján kezdeményezte, a bíróság által jóváhagyott becsértéket kell a megkeresésben feltüntetni.
 
-[^1]: Az 1. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 274. §-a szerint módosított szöveg.
