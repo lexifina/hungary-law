@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-56-20-1
 | 2015-11-01 | 2007-56-20-1U.13 | 30/2015. (X. 30.) IM rendelet |
 | 2016-01-01 | 2007-56-20-1U.14 | 43/2015. (XII. 30.) IM rendelet |
 | 2016-08-03 | 2007-56-20-1U.15 | 17/2016. (VIII. 2.) IM rendelet |
+| 2017-01-01 | 2007-56-20-1U.16 | 8/2015. (IV. 14.) IM rendelet |

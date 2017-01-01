@@ -4,6 +4,6 @@
 
 (2) Ha a jogi szolgáltatás szerződés készítésére irányult, a szerződő felek számától függetlenül egy ügyként kell jelenteni azt a központi hivatalnak.
 
-(3)[^25]
+(3)[^27]
 
-[^25]: A 34. § (3) bekezdését a 48/2009. (IX. 28.) IRM rendelet 34. § (5) bekezdés d) pontja hatályon kívül helyezte. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 34. § (3) bekezdését a 48/2009. (IX. 28.) IRM rendelet 34. § (5) bekezdés d) pontja hatályon kívül helyezte. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

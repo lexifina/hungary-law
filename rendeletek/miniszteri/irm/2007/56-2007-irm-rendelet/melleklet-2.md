@@ -246,6 +246,6 @@
 
 | .......................................................................... kérelmező aláírása |
 
-2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^140]
+2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^143]
 
-[^140]: A 2. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^143]: A 2. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.

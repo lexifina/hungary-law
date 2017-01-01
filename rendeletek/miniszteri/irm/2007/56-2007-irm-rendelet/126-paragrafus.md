@@ -1,3 +1,3 @@
-## Az Európai Unió jogának való megfelelés[^136]
+## Az Európai Unió jogának való megfelelés[^139]
 
-[^136]: A 126. §-t megelőző alcím a 30/2015. (X. 30.) IM rendelet 23. §-ával megállapított szöveg.
+[^139]: A 126. §-t megelőző alcím a 30/2015. (X. 30.) IM rendelet 23. §-ával megállapított szöveg.

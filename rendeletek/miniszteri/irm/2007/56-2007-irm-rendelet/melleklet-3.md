@@ -40,6 +40,6 @@
 
 | jogi segítő aláírása, bélyegzőjének lenyomata |
 
-3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^141]
+3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^144]
 
-[^141]: A 3. melléklet a 30/2015. (X. 30.) IM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^144]: A 3. melléklet a 30/2015. (X. 30.) IM rendelet 26. § (1) bekezdésével megállapított szöveg.

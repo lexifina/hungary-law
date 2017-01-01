@@ -36,6 +36,6 @@
 
 | .................................................... meghatalmazó fél aláírása | ............................................................ meghatalmazott jogi segítő (jogi segítő szervezet nevében eljáró ügyvéd) aláírása, bélyegzőlenyomata |
 
-4. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^142]
+4. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^145]
 
-[^142]: A 4. mellékletet a 29/2014. (IV. 30.) KIM rendelet 3. § (5) bekezdése iktatta be, szövege a 30/2015. (X. 30.) IM rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^145]: A 4. mellékletet a 29/2014. (IV. 30.) KIM rendelet 3. § (5) bekezdése iktatta be, szövege a 30/2015. (X. 30.) IM rendelet 26. § (2) bekezdésével megállapított szöveg. [A 26/2016. (XII. 27.) IM rendelet 13. § (1) bekezdés g) pontjával elrendelt módosítás, amely szerint a 4. mellékletben a „polgári” szövegrész helyébe a „büntető” szöveg lép, nem vezethető át.]

@@ -1,8 +1,8 @@
 ## 89. § A területi hivatal a pernyertes felet képviselő pártfogó ügyvéd díját megállapító határozatban
 
-a)[^94] megállapítja a pártfogó ügyvédi díjelőleg összegét is,
+a)[^97] megállapítja a pártfogó ügyvédi díjelőleg összegét is,
 
-b)[^95] kötelezi a fél perbeli ellenfelét, hogy a döntés jogerőre emelkedését követő 30 napon belül a pártfogó ügyvédi díj díjelőleget meghaladó részét, díjelőleg hiányában a pártfogó ügyvédi díj teljes összegét a pártfogó ügyvéd számára fizesse meg.
+b)[^98] kötelezi a fél perbeli ellenfelét, hogy a döntés jogerőre emelkedését követő 30 napon belül a pártfogó ügyvédi díj díjelőleget meghaladó részét, díjelőleg hiányában a pártfogó ügyvédi díj teljes összegét a pártfogó ügyvéd számára fizesse meg.
 
-[^94]: A 89. § a) pontja a Magyar Közlöny 2007. évi 187. számában megjelent helyesbítésnek megfelelő szöveg.
-[^95]: A 89. § b) pontja a 48/2009. (IX. 28.) IRM rendelet 21. §-ával megállapított szöveg. E módosító rendelet 33. § (2) bekezdés f) pontja alapján a rendelkezést a 2009. október 1. napján folyamatban lévő eljárásokban is alkalmazni kell.
+[^97]: A 89. § a) pontja a Magyar Közlöny 2007. évi 187. számában megjelent helyesbítésnek megfelelő szöveg.
+[^98]: A 89. § b) pontja a 48/2009. (IX. 28.) IRM rendelet 21. §-ával megállapított szöveg. E módosító rendelet 33. § (2) bekezdés f) pontja alapján a rendelkezést a 2009. október 1. napján folyamatban lévő eljárásokban is alkalmazni kell.

@@ -1,4 +1,4 @@
-119/A. §[^120] (1) A területi hivatal pártfogó ügyvédként elsősorban a nyomozó hatóság, az ügyész, illetve a bíróság székhelyén, vagy ha ezt a fél körülményei indokolják, lakóhelyén, tartózkodási helyén működő, a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt rendel ki.
+119/A. §[^123] (1) A területi hivatal pártfogó ügyvédként elsősorban a nyomozó hatóság, az ügyész, illetve a bíróság székhelyén, vagy ha ezt a fél körülményei indokolják, lakóhelyén, tartózkodási helyén működő, a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt rendel ki.
 
 (2) Az (1) bekezdés szerinti jogi segítő hiányában a területi hivatal
 
@@ -8,4 +8,4 @@ b) kivételesen indokolt esetben a nyomozó hatóság, az ügyész, vagy a bír�
 
 c) ha a nyomozó hatóság, az ügyész, vagy a bíróság székhelyéhez legközelebbi jogi segítő is aránytalanul messze működik, a nyomozó hatóság, az ügyész, vagy a bíróság székhelyén működő, az ügyvédi kamara nyilvántartása szerint kirendelhető ügyvédet, ügyvédi irodát
 
-[^120]: A 119/A. §-t a 30/2015. (X. 30.) IM rendelet 20. §-a iktatta be.
+[^123]: A 119/A. §-t a 30/2015. (X. 30.) IM rendelet 20. §-a iktatta be.
