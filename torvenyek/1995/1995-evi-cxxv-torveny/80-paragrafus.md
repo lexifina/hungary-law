@@ -2,7 +2,7 @@
 
 80. § E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
 
-a)
+a) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU Európai Parlament és a Tanács irányelv.
 
 b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikke [41/A. §],
 

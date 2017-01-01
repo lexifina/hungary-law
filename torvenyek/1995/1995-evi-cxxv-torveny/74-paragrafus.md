@@ -82,4 +82,8 @@ m) utasadat szolgáltatója: az l) pontban meghatározott adatot a terrorizmus �
 
 n) közvetlen elektronikus adatkapcsolat: a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott műszaki követelményeknek megfelelő számítástechnikai alkalmazás, amely az együttműködő szerv által kiépített felületen keresztül a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az együttműködő szerv közötti dokumentált adatátadást tesz lehetővé;
 
-o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését.
+o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését;
+
+p) az utasadat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
+
+q) az utasadat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett utasadatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.

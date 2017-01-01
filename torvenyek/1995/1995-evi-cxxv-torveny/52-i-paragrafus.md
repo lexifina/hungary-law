@@ -1,5 +1,25 @@
-52/I. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében az 52/H. § (2) bekezdés a) pontjában meghatározott bűncselekmények lehetséges gyanúját, illetve tevékenységek lehetséges kockázatát állapítja meg, és az 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható az 52/H. § (2) bekezdés a) pontjában meghatározott bűncselekménnyel vagy tevékenységgel érintett, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából.
+52/I. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az Európai Unió tagállamainak utasadat-információs egységei, az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt utasadatot, továbbá azok kezelésének eredményét.
 
-(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az (1) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor, – az 52/H. § szerinti elemző-értékelő tevékenység befejezését vagy a (3) bekezdésben foglalt adatátadást követően haladéktalanul törli.
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság az Európai Unió tagállamainak utasadat-információs egységeitől, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetektől és adatkezelési rendszerektől az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel vehet át utasadatot, továbbá azok kezelésének eredményét.
 
-(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/H. § (6) és (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot a Terrorelhárítási Információs és Bűnügyi Elemző Központ az elemző-értékelő tevékenység keretében felhasználta, – az (1) bekezdés alapján átvett adatot is átadja.
+(3) Ha a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság a (2) bekezdés szerint az Európai Unió tagállamainak utasadat-információs egységeitől vesz át utasadatot, továbbá azok kezelésének eredményét, erről a Terrorelhárítási Információs és Bűnügyi Elemző Központot értesíti.
+
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át utasadatot.
+
+(5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország részére – a 2008/977/IB kerethatározat 13. cikkében foglalt feltételek teljesülésével – kizárólag a 3. számú mellékletnek megfelelő bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából, nemzetközi szerződés alapján, az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt utasadatot, feltéve hogy
+
+a) a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása,
+
+b) – az Európai Unió más tagállamtól származó utasadat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől az utasadat származik, előzetesen hozzájárult az utasadatok harmadik országnak történő átadásához.
+
+(6) Ha az (5) bekezdés a) pontja szerint kért utasadatot az adatelemek elrejtésével személytelenítették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha a kérelem kellően megalapozott és alapos okkal feltételezhető, hogy az adatkérés a 3. számú mellékletnek megfelelő bűncselekmény megelőzése, felderítése, nyomozása és üldözése céljára irányul, továbbá ha az ügyészség az adatok újbóli személyazonosításra alkalmassá tételére és átadására engedélyt adott.
+
+(7) Az Európai Unió más tagállamától származó utasadat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
+
+a) a 3. számú mellékletnek megfelelő bűncselekménnyel kapcsolatos, valamely tagállamot vagy harmadik országot érintő konkrét és tényleges fenyegetés elhárításához elengedhetetlen és
+
+b) az előzetes hozzájárulás kellő időben nem szerezhető be.
+
+(8) A (7) bekezdés szerinti halaszthatatlan esetben értesíteni kell a Terrorelhárítási Információs és Bűnügyi Elemző Központ belső adatvédelmi felelősét.
+
+(9) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország által történő megkeresés esetén felhatalmazást adhat a harmadik országnak arra, hogy a részére nemzetközi szerződés alapján a Terrorelhárítási Információs és Bűnügyi Elemző Központ által átadott adatokat másik harmadik ország felé a 3. számú mellékletnek megfelelő, nemzetközi szerződésben meghatározott súlyos bűncselekmények megelőzése, felderítése, nyomozása, üldözése céljából átadja, ha az adatok továbbítása ezen bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából feltétlenül szükséges.

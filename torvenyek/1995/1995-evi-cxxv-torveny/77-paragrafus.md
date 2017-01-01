@@ -2,7 +2,7 @@
 
 77. § (1) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa:
 
-a) azon adatok, tények és körülmények körét, amelyek a 2. számú mellékletben meghatározott biztonsági kérdőív szempontjából lényegesnek minősülnek és az ezen adatokban, tényekben vagy körülményekben bekövetkező változások bejelentésének részletes szabályait;
+a) a biztonsági kérdőív kitöltésével kapcsolatos eljárási szabályokat, azon adatok, tények és körülmények körét, amelyek a 2. számú mellékletben meghatározott biztonsági kérdőív szempontjából lényegesnek minősülnek és az ezen adatokban, tényekben vagy körülményekben bekövetkező változások bejelentésének részletes szabályait;
 
 b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult szervezet feladat- és hatáskörét, a biztonsági okmányvédelem eljárási szabályait;
 

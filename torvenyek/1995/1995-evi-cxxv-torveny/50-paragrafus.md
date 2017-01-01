@@ -6,7 +6,9 @@ b) a rejtjeltevékenység felügyelete és irányítása során kiadott dokument
 
 c) a nemzetbiztonsági ellenőrzési és védelmi feladatok ellátása során keletkezett adatokat a beosztás, illetve a tisztség megszűnésétől számított 20 évig;
 
-d) az a)–c) pontokban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig.
+d) az a)–c) pontokban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig;
+
+e) a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban kezelt járművek hatósági jelzésére vonatkozó és képi adatait 10 évig.
 
 (2) A nemzetbiztonsági szolgálatok által kezelt személyes adatot haladéktalanul törölni kell, ha
 

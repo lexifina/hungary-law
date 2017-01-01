@@ -32,7 +32,7 @@ ee) az igazolható jövedelemhez képest jelentős mértékű eladósodottság, 
 
 ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek használatára vonatkozó szabályok, a munkakör betöltésével kapcsolatos biztonsági előírások megsértése.
 
-(3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy biztonsági kérdőívet tölt ki, amelyet a kezdeményező a kezdeményezéshez csatol.
+(3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy a 71/A. § (2) bekezdésben foglaltak szerint biztonsági kérdőívet tölt ki, írásban vagy a 71/A. § (2) bekezdésben meghatározott elektronikus keretprogram használatával.
 
 (4) A nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója
 
