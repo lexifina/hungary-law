@@ -1,6 +1,6 @@
 ## 31. Adatszolgáltatás a gazdasági és anyagi szolgáltatások nyilvántartásához
 
-48. § (1) A honvédelem feladatainak végrehajtása érdekében az igénybevétel tervezéséhez a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresése alapján a törvényben meghatározott adatkörben adatszolgáltatást teljesít a központi közúti közlekedési nyilvántartó szerv és a hajózási hatóság.
+48. § (1) A honvédelem feladatainak végrehajtása érdekében az igénybevétel tervezéséhez a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresése alapján a törvényben meghatározott adatkörben adatszolgáltatást teljesít a közúti közlekedési nyilvántartást kezelő szerv és a hajózási hatóság.
 
 (2) A katonai igazgatási központ megkeresése alapján adatszolgáltatást teljesít a 11. és a 12. mellékletben meghatározott adatokról
 

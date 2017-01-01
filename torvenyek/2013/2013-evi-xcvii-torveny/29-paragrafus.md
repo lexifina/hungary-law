@@ -2,7 +2,7 @@
 
 29. § (1) A 40. életévüket a tárgyév december 31-éig be nem töltő potenciális hadkötelesekről, kiképzett tartalékosokról és hadkötelesekről a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az e §-ban meghatározott szervek szolgáltatnak adatot.
 
-(2) A személyiadat- és lakcímnyilvántartás központi szerve a 8. mellékletben meghatározott adatokról a hadköteles nyilvántartásba vételhez és a nyilvántartott adatok pontosításához adatot szolgáltat
+(2) A személyiadat- és lakcímnyilvántartást kezelő szerv a 8. mellékletben meghatározott adatokról a hadköteles nyilvántartásba vételhez és a nyilvántartott adatok pontosításához adatot szolgáltat
 
 a) a hadköteles korba lépőkről a hadköteles nyilvántartásba vétel évének január 31. napjáig,
 

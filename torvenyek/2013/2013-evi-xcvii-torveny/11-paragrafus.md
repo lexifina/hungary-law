@@ -1,6 +1,6 @@
 11. § (1) A személyügyi nyilvántartásban kezelt adatokhoz elektronikus úton közvetlenül hozzáférhetnek és az annak alapjául szolgáló iratokba betekinthetnek a szolgálati viszonnyal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából
 
-a) a honvédelemért felelős miniszter (a továbbiakban: miniszter), a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
+a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
 
 b) a Honvédség központi személyügyi szerve,
 

@@ -4,6 +4,6 @@
 
 (2) A 14–17. alcímben szolgáltatott adatokat
 
-a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartás központi szerve és a Honvédség központi személyügyi szerve, és
+a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartást kezelő szerv és a Honvédség központi személyügyi szerve, és
 
 b) a természetes személyazonosító adatokkal szolgáltatja minden további adatszolgáltató.

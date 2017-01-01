@@ -1,6 +1,6 @@
 32. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére a megkeresésben szereplő személyekről 8 napon belül adatot szolgáltat a hadköteles nyilvántartás pontosításához
 
-a) a személyiadat- és lakcímnyilvántartás központi szerve a 29. § (2) bekezdésében meghatározott adatokról,
+a) a személyiadat- és lakcímnyilvántartást kezelő szerv a 29. § (2) bekezdésében meghatározott adatokról,
 
 b) a rendvédelmi szerv az állományában hivatásos szolgálatot teljesítők a 29. § (4) bekezdésében meghatározott adatairól,
 
@@ -16,4 +16,4 @@ g) a kezelést végző orvos a katonai szolgálatra való alkalmasság megállap
 
 h) a Büntetés-végrehajtás Országos Parancsnoksága a 30. § (6) bekezdése szerinti adatokról.
 
-(2) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére, a megkeresésben szereplő hadkötelesekről 8 napon belül adatot szolgáltat a személyiadat- és lakcímnyilvántartás központi szerve a 30. § (2) bekezdésében meghatározott adatokról.
+(2) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére, a megkeresésben szereplő hadkötelesekről 8 napon belül adatot szolgáltat a személyiadat- és lakcímnyilvántartást kezelő szerv a 30. § (2) bekezdésében meghatározott adatokról.
