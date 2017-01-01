@@ -4,7 +4,7 @@
 
 ## Daganatos megbetegedések
 
-## Az indikációs körbe került rosszindulatú daganatok: C34, C50, C56, C57, C62, C82, C83, C84, C85, C88, C90, C91
+## Az indikációs körbe valamennyi rosszindulatú daganatos kórkép beletartozik.
 
 ## 2. Kórkép leírása
 
@@ -94,7 +94,7 @@
 
 ## 3.1. A finanszírozási algoritmus részletezése
 
-## (1): Az ESA terápia az alábbi tumoros kórképek kezelése során alkalmazható: BNO: C62, C50, C34, C82-85, 88, 90-91, C56-57.
+## (1): Az ESA terápia valamennyi rosszindulatú (BNO: C*) tumoros kórképkezelése során alkalmazható.
 
 ## (2): A beteg szérum Hgb szintje 10 g/dl vagy ez alatt kell, hogy legyen az ESA terápia megkezdése előtt.
 
@@ -144,7 +144,7 @@
 
 ## 4. A finanszírozás szakmai ellenőrzésének alapját képező ellenőrzési sarokpontok
 
-## 4.1. Az adott indikációs körben és feltételek mellett alkalmazták-e az ESA készítményeket?
+## 4.1. Rosszindulatú tumoros kórképben alkalmazták-e az ESA készítményeket?
 
 ## 4.2. A szérum Hgb szint 10 g/dl vagy ez alatti volt a terápia megkezdésekor?
 
@@ -162,27 +162,9 @@
 
 ## 6. A finanszírozás szempontjából lényeges finanszírozási kódok
 
-## 6.1. A releváns BNO kódok
+## 6.1. BNO kódok: valamennyi „C” kezdetű BNO kód
 
-|  | A | B |
-
-| 1 | BNO | BNO megnevezés |
-
-| 2 | C62 | Heretumor |
-
-| 3 | C50 | Emlődaganat |
-
-| 4 | C34 | Tüdődaganat |
-
-| 5 | C82-85 | Malignus lymphoma |
-
-| 6 | C88 | Malignus lymphoma |
-
-| 7 | C90-91 | Malignus lymphoma / myeloma |
-
-| 8 | C56-57 | Ovarium tumor |
-
-## 6.2. A releváns OENO kódok
+## 6.2. Fontosabb OENO kódok
 
 |  | A | B |
 
@@ -200,11 +182,11 @@
 
 | 7 | 3523B | Áttekintő csontszcintigráfia |
 
-| 8 | 2640N | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, egyéb fluorop |
+| 8 | 2640N | CD pozitív sejtszám meghatározása, antigénenként, áramlási citométerrel, egyéb fluorophorral jelölt antitesttel |
 
-| 9 | 2640L | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, FITC-el jelöl |
+| 9 | 2640L | CD pozitív sejtszám meghatározása, antigénenként, áramlási citométerrel, FITC-el jelölt antitesttel |
 
-| 10 | 2640M | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, phycoerithrei |
+| 10 | 2640M | CD pozitív sejtszám meghatározása, antigénenként, áramlási citométerrel, phycoerithreinnel jelölt antitesttel |
 
 | 11 | 66343 | Vörösvérsejt koncentrátum, zárt rendszerben, szűrt, adenin tartalmú oldatban reszuszpenzió |
 
@@ -254,43 +236,47 @@
 
 | 34 | 31310 | Mellkasfelvétel, AP/PA |
 
-## 6.3. A releváns HBCS kódok
+## 6.3. Fontosabb HBCS kódok
 
 |  | A | B |
 
 | 1 | HBCS | HBCS megnevezés |
 
-| 2 | 492C | Szubtotális emlőeltávolítás rosszindulatú daganat miatt, társult betegséggel |
+| 2 | 9511-15 | Radiokemoterápia "A"; "B"; "C"; "D"; "E" |
 
-| 3 | 491B | Teljes emlőeltávolítás rosszindulatú daganat miatt, társult betegség nélkül |
+| 3 | 959A-L | Rosszindulatú daganat kemoterápiája "A"; "B"; "C"; "D"; "E"; "F"; "G"; "H"; "I"; "J"; "K"; "L" |
 
-| 4 | 491A | Teljes emlőeltávolítás rosszindulatú daganat miatt, társult betegséggel |
+| 4 | 7720 | Akut leukémiák magas malignitással, kemoterápiával és legalább 25 E szűrt vagy besugárzott vérkészítmény adásával 18 év alatt |
 
-| 5 | 506A | Rosszindulatú emlődaganatok társult betegséggel |
+| 5 | 773A-K | Akut leukémiák nagy dózisú vagy standard kemoterápiával, (…) szűrt vagy besugárzott vérkészítmény adásával |
 
-| 6 | 506B | Rosszindulatú emlődaganatok társult betegség nélkül |
+| 6 | 944A | Hodgkin-kór, non-Hodgkin lymphoma, nem akut leukémia kemoterápiája 18 év felett legalább 14E szűrt és besugárzott vérkészítmény adásával |
 
-| 7 | 6140 | Here műtétei malignus betegségek miatt |
+| 7 | 944C | Hodgkin-kór, non-Hodgkin lymphoma, nem akut leukémia kemoterápiája, legalább 7E szűrt vagy besugárzott vérkészítmény adásával |
 
-| 8 | 621A | Férfi reproduktív rendszer rosszindulatú daganatai társult betegséggel |
+| 8 | 950F | Hodgkin-kór kemoterápiája 18 év felett |
 
-| 9 | 621B | Férfi reproduktív rendszer rosszindulatú daganatai társult betegség nélkül |
+| 9 | 950H | Hodgkin-kór, non-Hodgkin lymphoma, nem akut leukémia kemoterápiája 18 év felett, legalább 14E szűrt vagy besugárzott vérkészítmény adásával |
 
-| 10 | 945A | Non-Hogdkin lymphoma, nem akut leukémia kemoterápiája 18 év felett |
+| 10 | 945A | Non-Hodgkin lymphoma, nem akut leukémia kemoterápiája 18 év felett |
 
-| 11 | 771D | Lymphoma, nem akut leukémia 18 év felett |
+| 11 | 086D | Fej-, nyaktájék egyéb nagyobb műtétei rosszindulatú daganat miatt |
 
-| 12 | 944C | Hodgkin-kór, Non-Hogdkin lymphoma, nem akut leukémia kemoterápiája 18 év felett, legalább 14E szűrt és besugárzott vérkészítmény adás |
+| 12 | 1010 | Fül, orr, száj, garat, gége rosszindulatú daganatai |
 
-| 13 | 6420 | Uterus, adnex műtétei malignitás miatt |
+| 13 | 1460 | Légzőszervi daganatok |
 
-| 14 | 657A | Női reproduktív rendszer rosszindulatú daganatai társult betegséggel |
+| 14 | 506C | Rosszindulatú emlődaganatok |
 
-| 15 | 657B | Női reproduktív rendszer rosszindulatú daganatai társult betegség nélkül |
+| 15 | 539C | Rosszindulatú endokrin daganatok |
 
-| 16 | 6520 | Női reproduktív rendszer egyéb műtétei |
+| 16 | 621C | Férfi reproduktív rendszer rosszindulatú daganatai |
 
-| 17 | 1460 | Légzőszervi daganatok |
+| 17 | 577B | Vese-, húgyúti daganatok |
+
+| 18 | 657C | Női reproduktív rendszer rosszindulatú daganatai |
+
+| 19 | 6420 | Uterus-, adnex műtétek malignitás miatt |
 
 ## 6.4. A releváns ATC kódok
 

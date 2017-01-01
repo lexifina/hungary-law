@@ -234,4 +234,94 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 8. A finanszírozás szempontjából lényeges finanszírozási kódok
 
+8.1. Releváns BNO kódok
+
+|  | A | B |
+
+| 1 | BNO | BNO megnevezése |
+
+| 2 | L4050 | Arthropathiás psoriasis (M07.0-M07.3*, M09.0*) |
+
+| 3 | L4003 | Psoriasis vulgaris, kp.súlyos (PASI-SCORE 11-18) |
+
+| 4 | L4004 | Psoriasis vulgaris, súlyos (PASI-SCORE 19-30) |
+
+| 5 | L4005 | Psoriasis vulgaris, nagyon súlyos (PASI-SCORE 31-44) |
+
+| 6 | L4090 | Psoriasis k.m.n. |
+
+8.2. Releváns ATC kódok
+
+|  | A | B | C | D |
+
+| 1 | ATC-kód |  | Hatóanyag |  | Kategória |  | Megjegyzés |
+
+| 2 | L01BA01 | metotrexát | DMARD | Betegségmódosító szerek |
+
+| 3 | L04AD01 | ciklosporin | DMARD | Betegségmódosító szerek |
+
+| 4 | D05BB02 | acitretin | Retinoid | Antipsoriatikus szisztémás szer |
+
+| 5 | L04AB01 | etanercept | BRMD | Biológiai terápia eszközei |
+
+| 6 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
+
+| 7 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
+
+| 8 | L04AC05 | usztekinumab | BRMD | Biológiai terápia eszközei |
+
+9. Fogalmak, rövidítések
+
+ALAT Alanin-aminotranszferáz
+
+ASAT Aszpartát-aminotranszferáz
+
+ATC Anatomical Therapeutic Chemical klasszifikáció
+
+BASDAI Bath Ankylosing Spondylitis Disease Activity Index
+
+BNO Betegségek nemzetközi osztályozása
+
+BSA Body surface area
+
+CRP C-reaktív protein
+
+DAS28 Disease Activity Score
+
+DMARD Disease-modifying antirheumatic drugs
+
+DLQI Dermatology Life Quality Index
+
+FVS Fehérvérsejtszám szám
+
+GGT Gamma-glutamil-transzferáz
+
+K Kálium
+
+Karb Karbamid-nitrogén
+
+Kreat Kreatinin
+
+Na Nátrium
+
+PASI Psoriasis kiterjedési és súlyossági index
+
+PUVA Psoralen + ultraviola sugárzás A
+
+RTG Röntgen
+
+SLE Szisztémás lupus erythematosus
+
+TBC Tüdőtuberkolózis
+
+TNF Tumor necrosis factor
+
+tskg Testsúly kilogramm
+
+UVA Ultraviola sugárzás A
+
+UVB Ultraviola sugárzás B
+
+We Vörösvértest-süllyedés
+
 [^18]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított szöveg.
