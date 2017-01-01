@@ -8,9 +8,9 @@ A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításu
 
 |  | A | B | C | D | E |
 
-| 1. | Beruházás | Beruházás azonosító adatai | A beruházás megvalósításáva1 kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
+| 1. | Beruházás | Beruházás azonosító adatai | A beruházás megvalósí- tásáva1 kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Záhony térség belső közúti infrastruktúrájának az ipari, logisztikai befektetésekkel összehangolt fejlesztése | A 4115. jelű összekötő úttól a 4145. jelű összekötő útig (Tiszabezdédig) húzódó, jelenleg önkormányzati tulajdonú út kiépítése | Közúthatósági engedélyek | Szabolcs- Szatmár-Bereg Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 2. | Záhony térség belső közúti infrastruktúrájának az ipari, logisztikai befektetésekkel összehangolt fejlesztése | A 4115. jelű összekötő úttól a 4145. jelű összekötő útig (Tiszabezdédig) húzódó, jelenleg önkormányzati tulajdonú út kiépítése | Közúthatósági engedélyek | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala | Szabolcs- Szatmár-Bereg Megyei Kormányhivatal |
 
 | 3. | 4145. jelű út Tiszabezdéd elkerülő szakasza |
 
@@ -22,23 +22,23 @@ A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításu
 
 | 7. | A 4145. jelű összekötő út és a 4. sz. főút közötti átkötés Komorónál |
 
-| 8. | A 4145. jelű összekötő út és a 4. sz. főút közötti átkötés Komorónál (különszintű keresztezés a 100. vasúti fővonal fölött) | Közúthatósági engedélyek Gyorsforgalmi utat, vagy 30 méter szabadnyílást meghaladó hidak esetén | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 8. | A 4145. jelű összekötő út és a 4. sz. főút közötti átkötés Komorónál (különszintű keresztezés a 100. vasúti fővonal fölött) | Közúthatósági engedélyek Gyorsforgalmi utat, vagy 30 méter szabadnyílást meghaladó hidak esetén | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
 | 9. | Közúthatósági engedélyek egyéb út esetén | Szabolcs- Szatmár-Bereg Megyei Kormányhivatal |
 
-| 10. | Záhony térségében a vasúti infrastruktúra fejlesztése (100-as fővonalon kívül) az árufuvarozási határátmenetet biztosító széles és normál nyomtávú gerinchálózat ütemes felújítása | Normál nyomtávú vasút (vágány, biztosítóberendezés) bontása, kármentesítés. Széles nyomtávú vasúti pálya építése: alépítmény, víztelenítés, felépítmény, kitérők. Biztosítóberendezés létesítése, térvilágítás. Műtárgyépítés, közműkiváltás. Széles nyomtávú vasúti pálya felújítása. | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 10. | Záhony térségében a vasúti infrastruktúra fejlesztése (100-as fővonalon kívül) az árufuvarozási határátmenetet biztosító széles és normál nyomtávú gerinchálózat ütemes felújítása | Normál nyomtávú vasút (vágány, biztosítóberendezés) bontása, kármentesítés. Széles nyomtávú vasúti pálya építése: alépítmény, víztelenítés, felépítmény, kitérők. Biztosítóberendezés létesítése, térvilágítás. Műtárgyépítés, közműkiváltás. Széles nyomtávú vasúti pálya felújítása. | Vasúti ügyek | közlekedésért felelős miniszter | nincs |
 
-| 11. | Közúthatósági engedélyek: 30 méter szabad nyílást meghaladó hidak esetén, | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala, | Nemzeti Közlekedési Hatóság Központja |
+| 11. | Közúthatósági engedélyek: 30 méter szabad nyílást meghaladó hidak esetén, | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
 | 12. | Közúthatósági engedélyek: egyéb esetekben | Szabolcs- Szatmár-Bereg Megyei Kormányhivatal |
 
-| 13. | Záhony térségében vasúti infrastruktúra fejlesztése, az árufuvarozási és logisztikai kapacitásokat kiszolgáló vontató vágány-hálózat ütemes felújítása | Széles nyomtávú vasúti pálya építése: alépítmény, víztelenítés, felépítmény, speciális kitérők. Biztosítóberendezés létesítése, térvilágítás. Műtárgyépítés, közműkiváltás. Normál nyomtávú vasúti pálya építése: alépítmény, víztelenítés, felépítmény. Biztosítóberendezés létesítése, térvilágítás. Műtárgyépítés, közműkiváltás. Kisajátítás, környezetvédelem, útátjáró biztosítások stb. | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 13. | Záhony térségében vasúti infrastruktúra fejlesztése, az árufuvarozási és logisztikai kapacitásokat kiszolgáló vontató vágány-hálózat ütemes felújítása | Széles nyomtávú vasúti pálya építése: alépítmény, víztelenítés, felépítmény, speciális kitérők. Biztosítóberendezés létesítése, térvilágítás. Műtárgyépítés, közműkiváltás. Normál nyomtávú vasúti pálya építése: alépítmény, víztelenítés, felépítmény. Biztosítóberendezés létesítése, térvilágítás. Műtárgyépítés, közműkiváltás. Kisajátítás, környezetvédelem, útátjáró biztosítások stb. | Vasúti ügyek | közlekedésért felelős miniszter | nincs |
 
-| 14. | Közúthatósági engedélyek: 30 méter szabad nyílást meghaladó hidak esetén, | Nemzeti Közlekedési Hatóság Útügyi. Vasúti és Hajózási Hivatala. | Nemzeti Közlekedési Hatóság Központja |
+| 14. | Közúthatósági engedélyek: 30 méter szabad nyílást meghaladó hidak esetén, | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
 | 15. | Közúthatósági engedélyek: egyéb esetekben | Szabolcs- Szatmár-Bereg Megyei Kormányhivatal |
 
 [^6]: A 3. §-t a 271/2016. (IX. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^7]: A hatálybalépés időpontja 2016. szeptember 9.
 [^8]: A hatálybalépés időpontja 2016. szeptember 9.
-[^9]: A melléklet a 72/2015. (III. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A melléklet a 380/2016. (XII. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
