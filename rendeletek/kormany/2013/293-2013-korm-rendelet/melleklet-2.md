@@ -10,7 +10,7 @@
 
 4. útügyi hatósági eljárások,
 
-5. a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti építésügyi hatósági engedélyezési eljárások,
+5.[^4] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 6. telekalakításra irányuló hatósági eljárások,
 
@@ -21,3 +21,5 @@
 9. műszaki biztonsági engedélyezési eljárások,
 
 10. közegészségügyi hatósági eljárások.
+
+[^4]: A 2. melléklet 5. pontja a 380/2016. (XII. 2.) Korm. rendelet 50. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
