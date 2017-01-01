@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-190-00-00
 | 2015-12-12 | 2015. évi CXC. törvény | 2015-190-00-00.0 (közlönyállapot) |
 | 2015-12-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-190-00-00.1 |
 | 2016-08-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-190-00-00.2 |
+| 2017-01-01 | 2016. évi CXXV. törvény | 2015-190-00-00.3 |

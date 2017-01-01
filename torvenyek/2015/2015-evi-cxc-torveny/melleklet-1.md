@@ -2,6 +2,8 @@
 
 1. Albánia
 
+1a. Andorra
+
 2. Anguilla
 
 3. Antigua és Barbuda
@@ -21,6 +23,8 @@
 10. Belize
 
 11. Bermuda
+
+11a. Brazília
 
 12. Brit Virgin-szigetek
 
@@ -60,6 +64,8 @@
 
 30. Grenada
 
+30a. Grönland
+
 31. Guernsey
 
 32. Hollandia
@@ -74,6 +80,8 @@
 
 37. Izland
 
+37a. Izrael
+
 38. Japán
 
 39. Jersey
@@ -82,9 +90,13 @@
 
 41. Kanada
 
+41a. Kína
+
 42. Kolumbia
 
 43. Korea
+
+43a. Kuvait
 
 44. Lengyelország
 
@@ -96,6 +108,8 @@
 
 48. Luxemburg
 
+48a. Malajzia
+
 49. Málta
 
 50. Man-sziget
@@ -106,7 +120,11 @@
 
 53. Mexikó
 
+53a. Monaco
+
 54. Montserrat
+
+54a. Nauru
 
 55. Németország
 
@@ -116,9 +134,13 @@
 
 58. Olaszország
 
+58a. Orosz Föderáció
+
 59. Portugália
 
 60. Románia
+
+60a. Saint Kitts és Nevis
 
 61. Saint Lucia
 
