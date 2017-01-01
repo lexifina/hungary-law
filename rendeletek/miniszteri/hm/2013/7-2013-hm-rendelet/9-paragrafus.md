@@ -30,6 +30,7 @@ gb) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén az 
 
 (5) A „Hősi halottá” nyilvánított elhunytak sírhelyét, urnafülkéjét és a temetési helye feletti rendelkezési jogot határozatlan időre kell megváltani vagy meghosszabbítani. A „Magyar Honvédség halottjává” vagy a „Katonai szolgálat halottjává” nyilvánított elhunyt temetési helye feletti rendelkezési jog egy alkalommal, legfeljebb 25 évre váltható meg, amelytől eltérni csak akkor lehet, ha a temetőt üzemeltető önkormányzat rendeletében a 25 éves időtartamnál hosszabb egyszeri megváltási időt határoz meg.
 
-(6) A 3. § (2) bekezdése szerint minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a minősítésre jogosult parancsnok munkáltatói döntésben engedélyezheti. A hozzájárulás mértéke nem haladhatja meg az (1) bekezdés c) és e) pontja szerinti összeghatárok 50%-át.
+(6)[^6] A 3. § (2) bekezdése szerint minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a minősítésre jogosult parancsnok munkáltatói döntésben engedélyezi. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezéseket kell alkalmazni.
 
 [^5]: A 9. § a 11/2015. (IX. 28.) HM rendelet 4. §-ával megállapított szöveg.
+[^6]: A 9. § (6) bekezdése a 25/2016. (XII. 22.) HM rendelet 13. §-ával megállapított szöveg.
