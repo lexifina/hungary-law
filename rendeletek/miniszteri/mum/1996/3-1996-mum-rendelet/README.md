@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-3-20-39
 | 2014-01-01 | 1996-3-20-39.8 | 66/2013. (XII. 23.) NGM rendelet |
 | 2014-03-15 | 1996-3-20-39.9 | 3/2000. (III. 3.) SZCSM rendelet |
 | 2015-04-01 | 1996-3-20-39.10 | 3/2000. (III. 3.) SZCSM rendelet |
+| 2017-01-01 | 1996-3-20-39.11 | 62/2016. (XII. 29.) NGM rendelet |

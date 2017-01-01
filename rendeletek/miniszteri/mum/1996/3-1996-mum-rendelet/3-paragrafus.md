@@ -1,5 +1,6 @@
-3. § (1) A rendbírságot megállapító határozat elleni fellebbezés a rendbírság alapjául szolgáló kötelezettség teljesítése, valamint a hatósági ellenőrzés tűrése alól nem mentesít.
+3. § (1)[^10]
 
-(2)[^10] Az 1. § (1) bekezdésének c) pontjában meghatározott esetekben a rendbírság kiszabására a magán-munkaközvetítő székhelye szerinti kormányhivatal jogosult.
+(2)[^11] Az 1. § (1) bekezdésének c) pontjában meghatározott esetekben a rendbírság kiszabására a magán-munkaközvetítő székhelye szerinti kormányhivatal jogosult.
 
-[^10]: A 3. § (2) bekezdése a 3/2000. (III. 3.) SZCSM rendelet 2. §-ával megállapított, a 48/2012. (XII. 28.) NGM rendelet 3. §-a, a 9/2015. (III. 31.) NGM rendelet 5. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdését a 62/2016. (XII. 29.) NGM rendelet 46. §-a hatályon kívül helyezte.
+[^11]: A 3. § (2) bekezdése a 3/2000. (III. 3.) SZCSM rendelet 2. §-ával megállapított, a 48/2012. (XII. 28.) NGM rendelet 3. §-a, a 9/2015. (III. 31.) NGM rendelet 5. § b) pontja szerint módosított szöveg.
