@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-215-20-
 | --- | --- | --- |
 | 2008-05-16 | 2004-215-20-22.4 | 215/2004. (VII. 13.) Korm. rendelet |
 | 2015-01-13 | 2004-215-20-22.5 | 356/2014. (XII. 29.) Korm. rendelet |
+| 2017-01-01 | 2004-215-20-22.6 | 475/2016. (XII. 27.) Korm. rendelet |
