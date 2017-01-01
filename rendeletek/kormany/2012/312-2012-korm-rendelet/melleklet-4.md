@@ -40,130 +40,230 @@
 
 |  | * Lakóépület hasznos alapterülete: a lakás (lakások) összes helyiségeinek területe, továbbá többlakásos házakban a házak közös használatú helyiségeinek területe is. Nem lakóépület hasznos alapterülete: az épület rendeltetésének megfelelő célú területek összessége; a hasznos alapterületbe nem tartozik bele az épületszerkezetek által elfoglalt terület, a segédberendezések üzemi területe (fűtő- és légkondicionáló berendezések, áramfejlesztők területe) és az átjárók területe. |
 
-4. melléklet a 312/2012. (XI. 8.) Korm. rendelethez
+4. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^251]
 
-## Épület használatbavételi engedélyezéséhez és használatbavételi tudomásulvételéhez statisztikai adatlap
+## Statisztikai adatlap az épület használatbavételéhez
 
-| 1. A használatba vett lakás(ok) címe: ..................................... helység ………..kerület …...................településrész, ....................................... utca,..… hsz,…..hrsz,…….épület, ……emelet, ……ajtó |
+1. Az épület készültsége
 
-| (1) Központi belterület (2) Egyéb belterület (3) Külterület |
+(1) az épület egésze (összes lakása) használatra alkalmas (2) az épület egésze nem alkalmas használatra
 
-| 2. A telek területe: ........................................ m2 |
+A jelen ügyben használatban vett lakások száma (db)
 
-| 3. Az új lakásba költöző előző lakóhelye……………………helység (kerület) |
+2. A használatra alkalmas lakás(ok) címe: ..................................... helység ........... kerület ...................... településrész, ....................................... utca, ..... hsz, ..... hrsz, ....... épület, ...... emelet, ...... ajtó
 
-| 4. Az építtető: (10) Természetes személy (21) Helyi önkormányzati költségvetési szerv (22) Központi költségvetési szerv (30) Vállalkozás (40) Egyéb (nonprofit szervezet) |
+Többlakásos épületben történő lakásépítésnél (a fentieken túl)
 
-| 5. Az építés célja: (1) Saját használat (2) Bérbeadás (3) Értékesítés (4) Szolgálati használatra átadás (5) Megbízás |
+.. ………lépcsőház ...... emelet, ...... ajtó
 
-| 6. Az építés jellege: (10) Új épület építése (20) Épület-helyreállítás (31) Emeletráépítés (32) Tetőtér-, padlástér-beépítés (33) Toldaléképítés (41) Lakássá alakítás (42) Lakás műszaki megosztása (43) Lakásösszevonás |
+………lépcsőház ...... emelet, ...... ajtó
 
-| 7. Az épület rendeltetése: (11) Egylakásos lakóépület (12) Kétlakásos lakóépület (13) Három és annál több lakásos lakóépület (14) Közösségi lakóépület (30) Nem lakóépület (40) Nem új épület |
+………lépcsőház ...... emelet, ...... ajtó
 
-| 8. Az épület formája (1) Családi ház (2) Csoportház (3) Többszintes, többlakásos épület (4) Lakóparki épület (5) Lakótelepi épület (6) Nem lakóépület |
+………lépcsőház ...... emelet, ...... ajtó
 
-| 9. a) Az első építési engedély kiadásának éve…….. b) Az építés (kivitelezés) időtartama: ......... év ......... hónaptól ......... év ......... hónapig |
+3. (1) Belterület (3) Külterület
 
-| 10. A kivitelező (1) Jogi személyiségű gazdasági társaság (2) Szövetkezet (3) Egyéni vállalkozás (4) Egyéb jogi személyiséggel nem rendelkező gazdasági társaság (5) Lakossági házilagos |
+4. Az építtető:
 
-| 11. Az épület / lakás függőleges teherhordó szerkezete (01) Beton falazóelemből készült falszerkezet (02) Tégla falszerkezet (03) Előregyártott teherhordó vázszerkezet (04) Helyszínen készült vázszerkezet (05) Favázszerkezet (06) Vályog falszerkezet (07) Panel falszerkezet (08) Hőszigetelt zsaluzatba öntött fal (09) Öntött fal (10) Blokkfal (11) Egyéb, éspedig ……………… |
+(10) Természetes személy (21) Helyi önkormányzati költségvetési szerv
 
-| 12. Az épülethez / lakáshoz tartozó gépkocsitárolók száma ………..férőhely |
+(22) Központi költségvetési szerv (30) Vállalkozás (40) Egyéb (nonprofit szervezet)
 
-| 13. Az épület / lakás felszereltsége: (1) Klímaberendezés (2) Mesterséges szellőzés (3) Központi porszívó (4) Napkollektor (5) Parabolaantenna (6) Komplett kábelszolgáltatás (7) Lift (8) Elektronikus vagyonvédelem (9) Automata öntözőberendezés |
+5. Az építés célja:
 
-| 14. Az épület közműellátottsága: a) (1) Közüzemi vízzel ellátott (2) Házi vízvezetékkel ellátott b) (1) Közműves csatornahálózatba kapcsolt (2) Házi csatornával ellátott c) (1) Vezetékes gázzal ellátott (2) Tartályos gázzal ellátott (0) Nincs gázellátása |
+(1) Saját használat (2) Bérbeadás (3) Értékesítés (4) Szolgálati használatra átadás
 
-| Új épület építése esetén: |
+6. Az építés jellege:
 
-| 15. A lakóépület szintjei: Pince területe…………………..m2 Alagsor területe……………………m2 Földszint területe…………………m2 Emeletszintek száma……………db |
+(10) Új épület építése (20) Épület-helyreállítás (31) Emeletráépítés
 
-| 16. A lakóépület funkciója: (1) Kizárólag lakást tartalmaz (2) Nem kizárólag lakást tartalmaz |
+(32) Tetőtér-, padlástér-beépítés (33) Toldaléképítés (41) Lakássá alakítás
 
-| 17. A tetőtér beépítettsége: (1) Csak padlástér (2) Tetőtérbeépítésre műszakilag előkészített (3) Beépített |
+(42) Lakás műszaki megosztása (43) Lakásösszevonás
 
-| 18. A tetőfedés anyaga: (1) Betoncserép (2) Mázas cserép (3) Mázatlan cserép (4) Bitumenes zsindely (5) Mesterséges síkpala (6) Hullámpala (7) Acéllemez (8) Egyéb, éspedig …………………… |
+7. Az épület rendeltetése:
 
-| 19. A tetőszerkezet formája: (1) Lapostető (2) Sátortető (3) Nyeregtető (4) Tagolt (5) Erősen tagolt |
+(11) Egylakásos lakóépület (12) Kétlakásos lakóépület (13) Három és annál több lakásos lakóépület (14) Közösségi lakóépület (30) Nem lakóépület (40) Nem új épület
 
-| 20. A homlokzati felületképzés anyaga: (1) Nem készült el (2) Festésre előkészített sima vakolat (3) Kőporos (4) Nemesvakolat (5) Hőszigetelő vakolatrendszer (6) Kerámia, tégla vagy kőburkolat (7) Egyéb, éspedig ………………. |
+8. Az épület formája
 
-| 21. A lakások kényelmét szolgáló egyéb építmény (1) Úszómedence (2) Télikert (3) Egyéb, éspedig………………… |
+(1) Családi ház (2) Csoportház (sorház, láncház, átriumház) (3) Többszintes, többlakásos épület
 
-22. Az épített lakások területe, helyiségei lakástípusonként:
+(4) Lakóparki épület (5) Nem lakóépület
 
-|  |  | 1 | 2 | 3 | 4 | 5 | 6 | Összes |
+9. Az első építési engedély kiadásának vagy az építési tevékenység bejelentésének az éve ........
 
-|  |  | lakás |
+10.A kivitelezés megkezdése: ......... év ......... hónap
 
-| 1 | Lakások száma (db) |  |  |  |  |  |  |  |
+11. A kivitelezés befejezése: ......... év ......... hónap
 
-| 2 | Ebből: duplakomfortos (db) |  |  |  |  |  |  |  |
+12. A fővállalkozó kivitelező, vagy fővállalkozó kivitelezők
+
+(1) Gazdasági társaság (2) Egyéni vállalkozás
+
+(3) Több fővállakozó
+
+13. Az épület / lakás függőleges teherhordó szerkezete
+
+(01) Beton falazóelemből készült falszerkezet (02) Tégla falszerkezet
+
+(03) Előregyártott teherhordó vázszerkezet (04) Helyszínen készült vázszerkezet
+
+(05) Favázszerkezet (06) Vályog falszerkezet (07) Hőszigetelt zsaluzatba öntött fal
+
+(08) Egyéb
+
+14. Az épülethez / lakáshoz tartozó gépkocsitárolók száma ........... férőhely
+
+15. Az épület / lakás –átlagostól eltérő - felszereltsége: (1) van (0) nincs
+
+Klímaberendezés
+
+Mesterséges szellőzés
+
+Napkollektor
+
+Lift
+
+Elektronikus vagyonvédelem
+
+Az épület közműellátottsága:
+
+16. (1) Közüzemi vízzel ellátott (2) Házi vízvezetékkel ellátott
+
+17. (1) Közműves csatornahálózatba kapcsolt (2) Házi csatornával ellátott
+
+18. (1) Vezetékes gázzal ellátott (2) Tartályos gázzal ellátott (3) Telken belüli biogáz (0) Nincs gázellátása
+
+Új épület építése esetén:
+
+19. Az építési telek területe: ……………………m2
+
+A lakóépület szintjeinek hasznos alapterülete:
+
+20. Pince területe ....................... m2
+
+21. Alagsor területe ....................... m2
+
+22. Földszint területe ....................... m2
+
+23. Emeletszintek száma ............... db
+
+24. A lakóépület funkciója:
+
+(1) Kizárólag lakást tartalmaz (2) Nem kizárólag lakást tartalmaz
+
+25. A tetőtér beépítettsége:
+
+(1) Csak padlástér (2) Tetőtérbeépítésre műszakilag előkészített (3) Beépített
+
+26. A tetőfedés anyaga:
+
+(1) Betoncserép (2) Mázas cserép (3) Mázatlan cserép (4) Bitumenes zsindely
+
+(5) Lemezfedés
+
+(6) Egyéb, éspedig ........................
+
+27. A tetőszerkezet formája:
+
+(1) Lapostető (2) Sátortető (3) Nyeregtető (4) Tagolt (5) Erősen tagolt
+
+28. A homlokzati felületképzés anyaga:
+
+(1) Nem készült el (2) Festésre előkészített sima vakolat (3) Kőporos
+
+(4) Nemesvakolat (5) Hőszigetelő vakolatrendszer (6) Kerámia, tégla vagy kőburkolat
+
+(7) Egyéb, éspedig ...................
+
+29. Ha az épület lakásainak használatbavétele nem egyszerre történik: az épület lakásainak száma ….…….db
+
+(1) még van használatba nem vett lakás – (2) már nincs több használatba nem vett lakás, mert az épület többi lakását már korábban használatba vették.
+
+Az épített lakások területe, helyiségei lakástípusonként kell kitölteni:
+
+|  | A | B | C | D | E | F | G | H |
+
+| 1 |  | 1 | 2 | 3 | 4 | 5 | 6 | … |
+
+|  |  | típusú lakás |
+
+| 2 | A típushoz tartozó lakások száma (db) |  |  |  |  |  |  |  |
 
 | 3 | Lakás alapterülete (m2) |  |  |  |  |  |  |  |
 
-| 4 | A szobák alapterülete (m2) |  |  |  |  |  |  |  |
+| 4 | Ebből: szobák alapter.össz. (m2) |  |  |  |  |  |  |  |
 
-| 5 | Helyiségek száma összesen (db) |  |  |  |  |  |  |  |
+| 5 | A lakás összes helyisége (db) |  |  |  |  |  |  |  |
 
-|  | Szobák száma |  |  |  |  |  |  |  |
+| 6 | Ebből: 8,1-12,0 m2 –es szoba (db) |  |  |  |  |  |  |  |
 
-| 6 | -12,0 m2 alapter. (db) |  |  |  |  |  |  |  |
+| 7 | 12,1-17,0 m2 –es szoba (db) |  |  |  |  |  |  |  |
 
-| 7 | 12,1-17,0 m2 alapter. (db) |  |  |  |  |  |  |  |
+| 8 | 17,1-25,0 m2 –es szoba (db) |  |  |  |  |  |  |  |
 
-| 8 | 17,1-25,0 m2 alapter. (db) |  |  |  |  |  |  |  |
+| 9 | 25,1- m2 feletti szoba (db) |  |  |  |  |  |  |  |
 
-| 9 | 25,1- m2 alapter. (db) |  |  |  |  |  |  |  |
+| 10 | -4,0 m2 –es főzőhelyiség (db) |  |  |  |  |  |  |  |
 
-|  | Főzőhelyiségek száma |  |  |  |  |  |  |  |
+| 11 | 4,1-10,0 m2 –es főzőhelyiség. (db) |  |  |  |  |  |  |  |
 
-| 10 | -4,0 m2 alapter. (db) |  |  |  |  |  |  |  |
-
-| 11 | 4,1-10,0 m2 alapter. (db) |  |  |  |  |  |  |  |
-
-| 12 | 10,1- m2 alapter. (db) |  |  |  |  |  |  |  |
+| 12 | 10,1- m2 feletti főzőhelyiség. (db) |  |  |  |  |  |  |  |
 
 | 13 | Gardróbhelyiség (db) |  |  |  |  |  |  |  |
 
-| 14 | fürdőszoba (db) |  |  |  |  |  |  |  |
+| 14 | Fürdőszoba (db) |  |  |  |  |  |  |  |
 
-| 15 | mosdó, zuhanyozó (db) |  |  |  |  |  |  |  |
+| 15 | Mosdó, zuhanyozó (db) |  |  |  |  |  |  |  |
 
-| 16 | külön WC-helyiség (db) |  |  |  |  |  |  |  |
+| 16 | Külön WC-helyiség (db) |  |  |  |  |  |  |  |
 
-| 17 | szauna (db) |  |  |  |  |  |  |  |
+| 17 | Szauna (db) |  |  |  |  |  |  |  |
 
-A lakás fűtési rendszere (db):
+| 18 | Uszoda (db) |  |  |  |  |  |  |  |
 
-| 1 | Távfűtés |  |  |  |  |  |  |  |
+| 19 | Edzőterem (db) |  |  |  |  |  |  |  |
 
-| 2 | Egyedi központi fűtés |  |  |  |  |  |  |  |
+| 20 | A lakás fűtési rendszere szerint: |
 
-| 3 | Etázsfűtés |  |  |  |  |  |  |  |
+| 21 | Távfűtés |  |  |  |  |  |  |  |
 
-| 4 | Helyiségfűtés |  |  |  |  |  |  |  |
+| 22 | Épület központi hőtermelővel |  |  |  |  |  |  |  |
 
-A hőleadás módja (db):
+| 23 | Lakás központi hőtermelővel (pl.cirkofűtés) |  |  |  |  |  |  |  |
 
-| 1 | Légfűtés |  |  |  |  |  |  |  |
+| 24 | Helyiségenkénti hőtermelő (pl.konvektor) |  |  |  |  |  |  |  |
 
-| 2 | Padlófűtés |  |  |  |  |  |  |  |
+| 25 | A hőleadás módja szerint: |
 
-| 3 | Radiátor |  |  |  |  |  |  |  |
+| 26 | Légfűtés |  |  |  |  |  |  |  |
 
-| 4 | Konvektor |  |  |  |  |  |  |  |
+| 27 | Felületfűtés (pl.padlófűtés, falfűtés) |  |  |  |  |  |  |  |
 
-| 5 | Kályha |  |  |  |  |  |  |  |
+| 28 | Vízkörös (pl.radiátoros, fancoil) |  |  |  |  |  |  |  |
 
-A fűtés energiája (db):
+| 29 | Konvektor |  |  |  |  |  |  |  |
 
-| 1 | Gáz |  |  |  |  |  |  |  |
+| 30 | Közvetlen hőleadó (pl: kályha, kandalló) |  |  |  |  |  |  |  |
 
-| 2 | Villany |  |  |  |  |  |  |  |
+| 31 | A fűtés energiája szerint: |
 
-| 3 | Olaj |  |  |  |  |  |  |  |
+| 32 | Gáz |  |  |  |  |  |  |  |
 
-| 4 | Szilárd |  |  |  |  |  |  |  |
+| 33 | Elektromos direkt |  |  |  |  |  |  |  |
 
-| 5 | Egyéb |  |  |  |  |  |  |  |
+| 34 | Elektromos hőszivattyú |  |  |  |  |  |  |  |
+
+| 35 | Szilárd, vegyes tüzelés |  |  |  |  |  |  |  |
+
+| 36 | Szilárd, fatüzelés |  |  |  |  |  |  |  |
+
+| 37 | Pellet tüzelés |  |  |  |  |  |  |  |
+
+| 38 | Olaj |  |  |  |  |  |  |  |
+
+| 39 | Egyéb |  |  |  |  |  |  |  |
+
+[^251]: A 4. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § b) pontjával megállapított szöveg.

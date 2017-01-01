@@ -2,83 +2,35 @@
 
 ## I. Az építészeti-műszaki dokumentáció elemei a tervezés tárgyától függően
 
-## 1. Műszaki leírások
+## 1 Műszaki leírások
 
-## Alfabetikusan kereshető szöveges dokumentum, melyben szükség szerint ábrák is szerepelhetnek. Az ábrák esetében törekedni kell a vektorgrafikus ábrák alkalmazására, amennyiben elkerülhetetlen, úgy a maximum 150 (szöveget vagy vékony vonalas részeket tartalmazó ábrák esetén 300) DPI felbontású pixeles ábrák is elfogadhatóak. A műszaki leírás fejezetekre bontva, több fájldokumentumban is benyújtható. Formátuma PDF/A, nyomtatási mérete A4 (szükség esetén egyes oldalak lehetnek A3). A műszaki leírásnak szürkeárnyalatosan nyomtatva is értelmezhetőnek kell maradnia.
+## Alfabetikusan kereshető szöveges dokumentum, amelyben szükség szerint ábrák is szerepelhetnek. Az ábrák esetében törekedni kell a vektorgrafikus ábrák alkalmazására, ha elkerülhetetlen, úgy a maximum 150 (szöveget vagy vékony vonalas részeket tartalmazó ábrák esetén 300) DPI felbontású pixeles ábrák is elfogadhatóak. A műszaki leírás fejezetekre bontva, több fájldokumentumban is benyújtható. Formátuma PDF/A, nyomtatási mérete A4 (szükség esetén egyes oldalak lehetnek A3-as méretűek). A műszaki leírásnak szürkeárnyalatosan nyomtatva is értelmezhetőnek kell maradnia. Ismerteti az építményre vonatkozó, a tervlapok tartalmát kiegészítő információkat:
 
-## 1.1. Építészeti műszaki leírás
+## 1.1. Építészeti műszaki leírás:
 
-## Ismerteti az építményre vonatkozó, a tervlapok tartalmát kiegészítő információkat:
+## 1.1.1. a teljes építmény eredeti rendeltetésének, valamint az átalakított, bővített építmény új rendeltetésének leírását, hasznos alapterületét,
 
-## 1.1.1. a teljes építmény eredeti rendeltetésének, valamint az átalakított, bővített építmény új rendeltetésének leírását,
+## 1.1.2. a telekre, a tervezett és a meglévő építményekre vonatkozó jogszabályban előírt azon paramétereket (telek beépített területe, beépített területek aránya a zöldfelülethez, épületmagasság, építmények egymástól való távolsága, elő-, hátsó-, oldalkertek mérete) melyek nem szerepelnek az egyes tervlapokon és az ezekhez tartozó idomtervekkel ellátott számításokat,
 
-## 1.1.2. a telekre, a tervezett és a meglévő építményekre vonatkozó jogszabályban előírt azon paramétereket (telek beépített területe, beépített területek aránya a zöldfelülethez, épületmagasság, építmények egymástól való távolsága, elő-, hátsó-, oldalkertek mérete) melyek nem szerepelnek az egyes tervlapokon,
+## 1.1.3. az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerinti számított építményértéket,
 
-## 1.1.3. a tartószerkezeti, az épületgépészeti, villamos, villámvédelmi, zaj és rezgés elleni védelmi megoldásokat, az energetikai követelmények teljesítésének módját,
+## 1.1.4. azoknak az adatoknak, információknak az ismertetését, amelyek alapján egyértelműen eldönthető a 6. melléklet I-III. táblázatában rögzített szakhatósági bevonás feltételeinek fennállása.
 
-## 1.1.4. a közlekedési útvonalak akadálymentesítését,
+## 1.2. Épületgépészeti műszaki leírás, melynek minden esetben része:
 
-## 1.1.5. jogszabályban előírtak szerint az építménybe betervezett építési termékekre vonatkozó teljesítmény-jellemző meghatározását,
+## 1.2.1. alternatív energiaellátás megvalósíthatósági elemzését az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendeletben meghatározott esetekben és annak 4. melléklete szerint,
 
-## 1.1.6. az égéstermék-elvezetés megoldásának részletes leírását,
-
-## 1.1.7. építmény bontása esetén az építmény által tartalmazott azbeszt bontásának és kezelésének módját, a bontási technológia leírását,
-
-## 1.1.8. a tervezett építési tevékenységhez előírt és az építmény rendeltetésszerű és biztonságos használathoz szükséges közművesítettséget, a közművesítés megoldását,
-
-## 1.1.9. a tervezett építmény, építményrész milyen műszaki megoldással teljesíti az OTÉK 50. § (3) bekezdésében meghatározott követelményeket, az építmény tűzvédelmi kockázati osztályát,
-
-## 1.1.10. az érintett közműszolgáltatókkal történt egyeztetésre vonatkozó információkat.
-
-## 1.2. Gépészeti műszaki leírás
-
-## 1.2.1. Tartalmazza a vízellátási, szennyvíz-, és csapadékvíz elvezetési, gázellátási és égéstermék elvezetési; fűtési és hűtési, valamint légtechnikai rendszerek bemutatását, illetve összefoglalását, a szakági igényekkel együtt.
-
-## 1.2.2. Bemutatja az építmény általános gépészeti kialakítását, kitérve a jogszabályi előírások megfelelőségére.
+## 1.2.2. az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet hatálya alá tartozó épületek esetében legalább az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 2. melléklet 2. pontjában meghatározott részletezettséggel a követelményeknek való megfelelést igazoló épületenergetikai számítást.
 
 ## 1.3. Tartószerkezeti műszaki leírás
 
-## 1.3.1. Az engedélyezési döntés megalapozásához szükséges kidolgozottsággal tartalmazza az építmény megvalósításához szükséges, a tartószerkezetek kialakítására és megépítésére hatással bíró kiinduló adatok ismertetését, így különösen a tervezési programból és a technológiai igényekből adódó terhek, hatások és követelmények ismertetését, figyelembe vett értékeit, megjelöli az alkalmazott szabványokat.
-
-## 1.3.2. Az elvégzett erőtani számítások alapján ismerteti az építmény tartószerkezetének rendszerét, az alkalmazott fesztávokat, a fő teherhordó elemek kialakítását, jellemző fő méreteit, a betervezett anyagok, gyártmányok minőségi és teljesítmény követelményeit, szükség esetén kitérve a megvalósíthatóságot biztosító technológiai leírásokra.
-
-## 1.3.3. Meglévő épület esetén tartalmazza az előírt tartószerkezeti és anyagvizsgálati szakvéleményeket, az építmény környezetében szükségessé váló intézkedések leírását.
-
-## 1.3.4. Tartószerkezeti műszaki leírás szükséges:
-
-## 1.3.4.1. új építmény esetén,
-
-## 1.3.4.2. meglévő építmény esetén az idővel változó (romló) jellemzőjű anyagból készült, 80 évnél idősebb tartószerkezetekről (pl. fa, salakbeton, bauxitbeton),
-
-## 1.3.4.3. meglévő építmény esetén a tehernövekedéssel érintett függőleges és vízszintes teherhordó szerkezetéről, valamint a meglévő teherhordó szerkezetek megfelelőségéről, illetve megerősítésére vonatkozó, az elemek beazonosítását is biztosító tartószerkezeti megoldásokról.
-
 ## 1.4. Épületvillamossági műszaki leírás
-
-## Bemutatja az építmény villamos energiával történő ellátását, erős- és gyengeáramú rendszereit, kitér a villámvédelemre, érintés(hiba) védelemre és egyéb megvalósítandó villamos rendszerekre.
-
-## 1.5. Technológiai leírás
-
-## Az engedélyezéshez szükséges mértékben bemutatja az építménybe telepítendő technológiákat.
-
-## 1.6. Belsőépítészeti leírás szükség szerint
-
-## Tartalmazza az építmény belső tereinek berendezésére, anyag- és színvilágára vonatkozó leíró részeket.
-
-## 1.7. Rétegrendi kimutatás
-
-## Meghatározza az összes egymástól eltérő vízszintes és függőleges rétegfelépítést.
-
-## 1.8. Helyiségkimutatás
-
-## Meg kell nevezni az egyes helyiségek rendeltetését (elnevezését), alapterületét és burkolatát.
-
-## 1.9. Alternatív energiaellátás megvalósíthatósági elemzése az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendeletben meghatározott esetekben és annak 4. melléklete szerint.
 
 ## 2. Tervlapok
 
 ## A tervlapok formátuma PDF/A. A tervlap összeállításánál törekedni kell arra, hogy a tervlap vagy annak egységnyi területe szükség esetén arányosan, értelmezhető módon A3 méretben szürkeárnyalatosan nyomtatható legyen. Az önálló tervlapokat önálló fájldokumentumonként kell benyújtani vektorgrafikus vagy 300 DPI felbontású pixeles formátumban.
 
-## 2.1. A tervező által készített helyszínrajz, hiteles földhivatali térképszelvény alapján, amely tartalmazza:
+## 2.1. A tervező által készített helyszínrajz, hiteles állami ingatlan-nyilvántartási térképi adatbázisból kiadott térképmásolat alapján, amely tartalmazza:
 
 ## 2.1.1. az égtájjelölést,
 
@@ -94,7 +46,7 @@
 
 ## 2.1.7. a ±0,00 kiinduló relatív szintmagasságnak megfelelő abszolút szintmagassági értéket,
 
-## 2.1.9. a meglévő terepviszonyok ábrázolását a jellemző szintmagasságok értékeivel, 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló rétegvonalakkal.
+## 2.1.8. a meglévő terepviszonyok ábrázolását a jellemző szintmagasságok értékeivel, 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló rétegvonalakkal.
 
 ## 2.2. Eltérő szintek alaprajzai
 
@@ -126,9 +78,7 @@
 
 ## 2.3.1.2. zártsorú beépítés esetén a szomszéd épületek alapsíkját,
 
-## 2.3.1.3. az építményhez csatlakozó, véglegesen rendezett terepet és járdát,
-
-## 2.3.2. meg kell határozni az összes egymástól eltérő vízszintes és függőleges rétegfelépítést.
+## 2.3.1.3. az építményhez csatlakozó, véglegesen rendezett terepet és járdát.
 
 ## 2.4. Terepmetszet
 
@@ -142,23 +92,11 @@
 
 ## 2.5.4. zártsorú, ikres vagy oldalhatáron álló beépítés esetén – a környezetbe illesztés bemutatására – a szomszédos épületek nézeteit.
 
-## 2.7. Tereprendezési terv szükség szerint
+## 2.6. Tereprendezési terv szükség szerint
 
-## 2.8. A végleges terep szintmagasságainak ábrázolásával, a szükséges számú szelvényrajzzal és a 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló rétegvonalakkal, a végleges terep szintmagasságainak ábrázolásával.
+## 2.7. A végleges terep szintmagasságainak ábrázolásával, a szükséges számú szelvényrajzzal és a 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló rétegvonalakkal, a végleges terep szintmagasságainak ábrázolásával.
 
-## 2.9. Tartószerkezeti terv szükség szerint
-
-## Ha szükséges, a tartószerkezet alábbi elemeiről tartalmaz rajzi munkarészeket:
-
-## 2.9.1. alapozás, zártsorú beépítés esetén a szomszédos, meglévő épületek feltárás útján meghatározott alapsíkjának megadása,
-
-## 2.9.2. teherhordó falak és pillérek,
-
-## 2.9.3. monolit és előre gyártott födémek és azok elemei,
-
-## 2.9.4. szintek áthidalására szolgáló szerkezetek.
-
-## Tartalmazza az építmény belső tereinek berendezését, anyag- és színvilágát.
+## 2.8. Zártsorú vagy ikres beépítés esetén a szomszédos, meglévő épületek feltárás útján meghatározott alapsíkjának megadása, a csatlakozó épület állékonyságát biztosító technológia bemutatása.
 
 ## 3. Környezeti állapotadat
 
@@ -176,67 +114,23 @@
 
 ## 3.7. álcázási terv,
 
-## 3.9. egyéb dokumentum.
+## 3.8. egyéb dokumentum.
 
-## 4. Számítás
-
-## A számítás szöveges és numerikus dokumentum, amelyben szükség szerint ábrák is szerepelhetnek. Az ábrák esetében törekedni kell a vektorgrafikus ábrák alkalmazására, amennyiben elkerülhetetlen, úgy a maximum 150 (szöveget vagy vékony vonalas részeket tartalmazó ábrák esetén 300) DPI felbontású ábrák is elfogadhatóak. A számítás fejezetekre bontva, több dokumentumban is benyújtható. Formátuma PDF/A, nyomtatási mérete A4 (szükség esetén egyes oldalak lehetnek A3 méretűek). A számításoknak szürkeárnyalatosan nyomtatva is értelmezhetőnek kell maradnia.
-
-## 4.1. Az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerinti számított építményérték
-
-## 4.2. Épületmagasság-számítás
-
-## 4.3. Telek beépítettségének számítása
-
-## 4.4. Tartószerkezeti számítás szükség szerint
-
-## 4.5. Az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet hatálya alá tartozó épületek esetében legalább az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet 2. melléklet 2. pontjában meghatározott részletezettséggel a követelményeknek való megfelelést igazoló épületenergetikai számítás
-
-## 5. Igazolások
+## 4. Igazolások
 
 ## Igazolás csak olyan formában nyújtható be, amelynek nyomtatási formátuma legfeljebb A4. Elektronikus igazolás csak olyan információtechnikai rendszerektől fogadható el, amely hiteles átadásának információtechnológiai feltételei fennállnak.
 
-## 5.1. Aláírólap a tervezők megnevezésével, jogosultságuk megjelölésével, elérhetőségükkel és aláírásukkal, amely benyújtható elektronikusan aláírt PDF formátumban, papír alapú formátumban, illetve amennyiben információtechnológiai feltételei fennállnak, úgy az aláíró saját nevében kitöltött és saját személyi azonosításával benyújtott elektronikus űrlap útján.
+## 4.1. Aláírólap a tervezők megnevezésével, jogosultságuk megjelölésével, elérhetőségükkel és aláírásukkal, amely benyújtható elektronikusan aláírt PDF formátumban, papír alapú formátumban, illetve ha információtechnológiai feltételei fennállnak, úgy az aláíró saját nevében kitöltött és saját személyi azonosításával benyújtott elektronikus űrlap útján.
 
-## 5.2. Tervezési program a külön jogszabályban meghatározott tartalommal.
+## 4.2. Tervezési program a külön jogszabályban meghatározott tartalommal.
 
-## 5.3. Földhivatali térképmásolat PDF formátumban.
+## 4.3. Az állami ingatlan-nyilvántartási adatbázisból kiadott térképmásolat PDF formátumban.
 
-## 5.4. A 3., 4. és 9. melléklet szerinti statisztikai lapok.
+## 4.4. A 3., 4. és 9. melléklet szerinti statisztikai lapok.
 
-## 6. Vélemények
+## 5. Geotechnikai jelentés, a hatályos szabványokban előírt eljárások szerint vagy azzal egyenértékű módszer meghatározása szerint.
 
-## A vélemények technikai és formai követelményei megegyeznek az 1. pontban a műszaki leírásoknál leírtakkal. Amennyiben a vélemény műszaki rajzot is tartalmaz, úgy annak technikai és formai követelményei a 2. pontban a tervlapoknál leírt követelményeknek kell megfelelnie.
-
-## 6.1. Geotechnikai jelentés kell:
-
-## 6.1.1. a következő építményeknél:
-
-## 6.1.1.1. a négy beépített szintnél nagyobb,
-
-## 6.1.1.2. a 10 m-es épületmagasságnál magasabb,
-
-## 6.1.1.3. az 1000 m2-nél nagyobb alapterületű,
-
-## 6.1.1.4. a 7 m-nél nagyobb szerkezeti fesztávolságú, előre gyártott vagy vázas tartószerkezetű
-
-## építmény esetén az építmény szerkezeti rendszerétől függetlenül, vagy ha az alapozás várható szintje a környező terepszint alatt 4 m-nél mélyebbre ér, továbbá
-
-## 6.1.2. a következő esetekben:
-
-## 6.1.2.1. jogszabályban meghatározott veszélyes üzemnél,
-
-## 6.1.2.2. jogszabállyal kijelölt veszélyes környezetben: csúszás-, omlás- és barlangveszélyes, illetve alábányászott, valamint árvíz- és földrengésveszélyes területen,
-
-## 6.1.2.3. ha egynél több szint kerül a terepszint alá,
-
-## 6.1.2.4. 5 m-nél nagyobb szabad magasságú, földet megtámasztó építményekhez (támfal)
-
-## építési, fennmaradási engedélyezésekor.
-
-## 6.1.3. Tartalmazza az építmény kialakításához szükséges geotechnikai állapotot, a tervezési fázisnak, a geotechnikai kategóriának, és az esetleges különleges körülményeknek (csúszás- és omlásveszélyes a terület, illetve a talajkörnyezet, alábányászottság, illetve barlangok miatt felszínmozgásoktól kell tartani, mocsaras, bel- és/vagy árvízveszélyes a terület, az altalaj térfogatváltozó, feltöltéses, agresszív vagy más ok miatt különösen kedvezőtlen) a figyelembevételével.
-
-## 7. Geodéziai felmérés szükség szerint
+## 6. Geodéziai felmérés szükség szerint.
 
 ## II. Általános előírások
 
@@ -290,7 +184,7 @@
 
 ## 1.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és az I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
 
-## 2. Helyiséget tartalmazó meglévő építmény átalakítása, bővítése, felújítása, korszerűsítése, helyreállítása esetén
+## 2. Helyiséget tartalmazó meglévő építmény bővítése esetén
 
 ## 2.1. Az építési engedélyezési dokumentációnak az alábbiakat kell tartalmaznia:
 
@@ -314,13 +208,13 @@
 
 ## 2.1.9.1. az időtávlatban változó teljesítmény-jellemzőjű szerkezeteket tartalmazó (pl. fa, salakbeton, bauxitbeton) épületszerkezetekről, és
 
-## 2.1.9.2. a 80 évesnél idősebb építmények tartószerkezeteiről.
+## 2.1.9.2. a 50 évesnél idősebb építmények tartószerkezeteiről.
 
 ## 2.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
 
 ## 3. A jogerős és végrehajtható építési engedélyezési dokumentációtól való eltérésre irányuló kérelem (módosított építési engedély iránti kérelem) mellékletét szolgáló dokumentációnak csak az eltérést ábrázoló tervrajzokat, valamint az azokat ismertető munkarészeket (pl. műszaki leírást és számításokat) kell tartalmaznia. A műszaki leírásban egyértelműen meg kell nevezni és fel kell sorolni az eltéréseket.
 
-## 4. Helyiséget nem tartalmazó műtárgy építése, átalakítása, bővítése, felújítása, korszerűsítése, helyreállítása esetén
+## 4. Helyiséget nem tartalmazó műtárgy építése, bővítése esetén
 
 ## 4.1. Az építési engedélyezési dokumentációnak az alábbiakat kell tartalmaznia:
 
@@ -376,7 +270,7 @@
 
 ## 9.2. Metszetek M=1:100-as méretarányban.
 
-## 9.3. Az építészeti műszaki leírás, az I. rész 1.1.1-1.1.4. pontja szerinti tartalommal.
+## 9.3. Az építészeti műszaki leírás, az I. rész 1.1–1.4. pontja szerinti tartalommal.
 
 ## 9.4. Tartószerkezeti műszaki leírás, amely tartalmazza az építmény tartószerkezetének leírását, jellemzőit, így különösen a következőket:
 
@@ -398,11 +292,11 @@
 
 ## 9.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez
+9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^256]
 
 Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvételéhez
 
-| 1. A bontási, bontást is magában foglaló építési engedély, illetve eltérő használat esetén a használatbavételi engedély száma és kelte ……..………………………………….. |
+| 1. A jelen ügyben megszűnt lakások száma (db) ……..………………………………….. |
 
 | 2. A megszűnt épület, lakás helye (pontos címe):… …………………helység, ………kerület …………..irányítószám…..……………………településrész ……………………………….. utca …………... házszám |
 
@@ -410,11 +304,11 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 
 | Többlakásos épületben történő lakásmegszűnésnél (a fentieken túl) ………..lépcsőház; földszint/……….emelet………ajtó |
 
-| 3. A megszűnt épület, lakás helye a településen belül: (1) Központi belterület (2) Egyéb belterület (3) Külterület |
+| 3. A megszűnt épület, lakás helye a településen belül: (1) Központi belterület (3) Külterület |
 
 | 4. A megszűnés oka: (1) Avulás (2) Elemi csapás (3) Településrendezés (4) Lakásépítés (5)Lakás műszaki megosztása (6) Lakásösszevonás (7) Egyéb |
 
-| 5. A megszűnt lakások tulajdoni jellege szerint: Állami, önkormányzati tulajdonú lakások száma……….. Személyi tulajdonú lakások száma ……… Egyéb tulajdonú lakások száma ……… |
+| 5. A megszűnt lakások tulajdoni jellege szerint: Állami, önkormányzati tulajdonú lakások száma……….. Magántulajdonú lakások száma ……… Egyéb tulajdonú lakások száma ……… |
 
 | 6. A megszűnt épület (lakás) építésének éve: (1) –1899; (2) 1900–1919; (3) 1920–1944; (4) 1945–1960; (5) 1961–1980; (6) 1981–2000; (7) 2001– |
 
@@ -443,3 +337,5 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 | 15. | 6 és több szoba |  |  |  |
 
 | 16. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^256]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
