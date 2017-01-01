@@ -1,4 +1,4 @@
-## 50/B. §[^74] A NAV blokkolja a pénztárgépet
+## 50/B. §[^100] A NAV blokkolja a pénztárgépet
 
 a) a 22. § (5) bekezdése szerinti esetben, a forgalmazási engedély visszavonásáról szóló határozat jogerőre emelkedését követő naptól,
 
@@ -10,4 +10,4 @@ d) a pénztárgép megsemmisülése, elvesztése, eltulajdonítása esetén az �
 
 e) a pénztárgép használatának szüneteltetése esetén az üzemeltető 51. § (1) bekezdése szerinti bejelentése alapján a bejelentését követő naptól az üzemeltető 51. § (2) bekezdése szerinti bejelentésében megjelölt napig.
 
-[^74]: Az 50/B. §-t a 9/2016. (III. 25.) NGM rendelet 26. §-a iktatta be.
+[^100]: Az 50/B. §-t a 9/2016. (III. 25.) NGM rendelet 26. §-a iktatta be.

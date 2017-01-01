@@ -85,35 +85,3 @@ D) A 3. melléklet I. rész GE pontjában meghatározott Menetjegy storno bizony
 Sztornó bizonylat
 
 E) „Nem adóügyi bizonylat”
-
-1. bizonylat fejléc adatok [A) pontban meghatározottak szerint],
-
-2. „NEM ADÓÜGYI BIZONYLAT”,
-
-3. a bizonylat megnevezése,
-
-4. szabad szöveg, amely nem tartalmazhatja a stilizált AP jelet, az adóügyi bizonylatok megnevezését és az „ÖSSZESEN” szót,
-
-5. a bizonylat kinyomtatásának kelte (év, hó, nap, óra, perc),
-
-6. „NAV ellenőrző kód” és e rendelet 3. melléket F) pont FD) alcím 9. és 10. pontja szerinti ellenőrző kód,
-
-7. „NEM ADÓÜGYI BIZONYLAT”.
-
-„Nem adóügyi bizonylat” készítésekor a forgalmi, tranzakció-gyűjtők és a 3. melléklet C) pont 10., 11., és 13. alpontjai szerinti számlálók értéke nem változhat.
-
-A nem adóügyi bizonylat mintái a következők:
-
-Pénztárjelentés
-
-Megjegyzés: Éttermi rendszer esetén a felszolgálói díj, Üzemanyagkút rendszer esetén az üzemanyagkártyás értékesítés, Gyógyszertári rendszer esetén az egészségkártyás értékesítés összegét a fizetőeszközök összesítése után kell megjeleníteni. Az üzemanyagkártyás és egészségkártyás értékesítési bizonylatok sztornó összegét külön sorban kell kinyomtatni.
-
-Pénztári befizetési és kifizetési bizonylat
-
-Üzemanyagkártyás értékesítési bizonylat
-
-Egészségkártyás értékesítési bizonylat
-
-F) Nyugta és egyszerűsített számla sztornó bizonylat mintája az alábbi, melyen a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonya a következő azzal, hogy a mintán szereplő adatok sorrendje kötelező:
-
-Sztornó bizonylat

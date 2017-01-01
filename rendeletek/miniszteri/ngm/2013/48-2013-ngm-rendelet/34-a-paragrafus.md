@@ -1,4 +1,4 @@
-## 34/A. §[^36] Az állami adóhatóság az Art. 176/C. § (2) bekezdése alapján vezetett nyilvántartásából hivatalból törli a műszerészt, illetve a műszerész által szervizelhető pénztárgéptípust, ha
+## 34/A. §[^62] Az állami adóhatóság az Art. 176/C. § (2) bekezdése alapján vezetett nyilvántartásából hivatalból törli a műszerészt, illetve a műszerész által szervizelhető pénztárgéptípust, ha
 
 a) az állami adóhatóság tudomására jut olyan hitelt érdemlő információ, hogy a műszerész az adott típus esetében nem a jogszabályoknak megfelelően látja el a pénztárgép szervizelését,
 
@@ -6,4 +6,4 @@ b) a forgalmazó, illetve az AEE gyártó jelzi, hogy a pénztárgép forgalmaz�
 
 c) megállapítást nyer, hogy a műszerész maga idézte elő a pénztárgép jogszerűtlen működését.
 
-[^36]: A 34/A. §-t a 9/2016. (III. 25.) NGM rendelet 15. §-a iktatta be.
+[^62]: A 34/A. §-t a 9/2016. (III. 25.) NGM rendelet 15. §-a iktatta be.

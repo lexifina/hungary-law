@@ -532,7 +532,7 @@
 
 ## c) a felhasznált rendszerek/komponensek eredetének tekintetében (ide értve az operációs rendszert is) az adott rendszer/komponens forráskód vagy bináris formátuma publikusan letölthető vagy hozzáférhető egy általuk megbízhatónak elfogadott, a nyilatkozatban megjelölt forrásról, és ezen rendszer/komponens AEE részét képező verziójának SHA-256 hash kódja megegyezik az ezen publikus forrásból letölthető verzió SHA-256 kódjával.
 
-## 23. Operációs rendszer forráskód esetén az AEE gyártója saját költségén biztosítja az engedélyező hatóság számára az engedélyeztetés tárgyát képező AEE egységen működő szoftver teljes fordítási környezetét, és a fordításhoz szükséges teljes körű dokumentációt, amely segítségével az AEE-re telepített bináris állomány korlátozás nélkül előállítható, reprodukálható.
+## 23. Operációs rendszer forráskód esetén az AEE gyártója saját költségén biztosítja a Kormányhivatal számára az engedélyeztetés tárgyát képező AEE egységen működő szoftver teljes fordítási környezetét, és a fordításhoz szükséges teljes körű dokumentációt, amely segítségével az AEE-re telepített bináris állomány korlátozás nélkül előállítható, reprodukálható.
 
 ## 24. Az AEE-nek alkalmasnak kell lennie a benne működő szoftver egyes komponenseinek, vagy egészének a NAV szerveréről történő távoli frissítésére. A frissítés lehetőségének feltétele a 22. pontban meghatározott tanúsítványok megléte, amelyek az AEE-n futó szoftver komponenseinek esetleges frissítését követő állapotára vonatkoznak. Az AEE-n futó hash-kódolt AEE-szoftver csak egyben frissíthető.
 
@@ -556,7 +556,7 @@
 
 ## GA) Üzemanyagkút-kezelő pénztárgép
 
-## 1. Üzemanyag töltőállomáson csak ilyen célra kialakított és a Hatóság által engedélyezett, a kútoszlopok és a pénztárgépek közötti kétirányú kommunikációt biztosító pénztárgéprendszer (üzemanyagkút-kezelő pénztárgép) használható.
+## 1. Üzemanyag töltőállomáson csak ilyen célra kialakított és a Kormányhivatal által engedélyezett, a kútoszlopok és a pénztárgépek közötti kétirányú kommunikációt biztosító pénztárgéprendszer (üzemanyagkút-kezelő pénztárgép) használható.
 
 ## 2. Az üzemanyag kiadását követően a kútoszlop számlálójának nullázását, és újabb üzemanyag kiadásának engedélyezését a nyugta, egyszerűsített számla teljes körű kinyomtatásával egy időben kizárólag a pénztárgép végezheti el. Üzemanyagra a sztornó tranzakció nem alkalmazható. Üzemanyag értékesítését tartalmazó nyugtáról számla kiállítására csak a következő nyugta megkezdése előtt kerülhet sor. Üzemanyag értékesítése során készült hibás adattartalmú bizonylat sztornírozható. Az üzemanyagkút-kezelő pénztárgépnek biztosítania kell azt, hogy a sztornó bizonylat kinyomtatása után következő bizonylatként kizárólag a javított adattartalmú értékesítési bizonylat legyen kinyomtatható.
 
@@ -656,7 +656,7 @@
 
 ## GE) Mobil menetjegykiadó pénztárgépek
 
-## 1. A tömegközlekedési járműveken menetjegykiadás céljára kialakított és a Hatóság által engedélyezett mobil menetjegykiadó pénztárgép használható.
+## 1. A tömegközlekedési járműveken menetjegykiadás céljára kialakított és a Kormányhivatal által engedélyezett mobil menetjegykiadó pénztárgép használható.
 
 ## 2. A mobil menetjegykiadó pénztárgépen kinyomtatott menetjegy újabb menetjegy kinyomtatásának megkezdése előtt, két percen belül sztornírozható.
 
@@ -796,7 +796,7 @@
 
 ## 7. Az euró átállással kapcsolatos dátumokat (felkészülési időszak kezdete, átállás időpontja, kivezetési időszak vége) a NAV üzenetben közli az AEE-vel az 5. mellékletben foglaltak szerint. A pénztárgépnek képesnek kell lennie ezen üzenet alapján az egyes események időpontját megfelelően beállítani.
 
-4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^130]
+4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^169]
 
 ## Az Adóügyi Ellenőrző Egységben (AEE) tárolt bizonylati adatok tartalmára és szerkezetére vonatkozó előírások
 
@@ -1914,4 +1914,4 @@ Egyéb dokumentum nyomtatása bejegyzés azonosító: EDN (gyakorló üzemmódba
 
 Bizonylat-összesítő nyomtatása esetén a naplóállományban a dokumentum kivonatát kell az Egyéb dokumentum (EDN) típusú naplósorban rögzíteni, melynek tartalma a dokumentum megnevezése, valamint a dokumentumon szereplő bizonylatok összesített darabszáma bizonylattípusonként, a mező megnevezésében a bizonylattípus nevét, az adattartalmában a darabszámot feltüntetve. Csak azokat a bizonylattípusokat kell feltüntetni, melyek szerepeltek a bizonylat-összesítő dokumentumon.
 
-[^130]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.
+[^169]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.

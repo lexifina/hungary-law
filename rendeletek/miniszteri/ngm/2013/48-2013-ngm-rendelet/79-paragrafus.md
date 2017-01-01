@@ -1,4 +1,4 @@
-## 78/F. §[^127] Cserepénztárgép 2016. december 31-ét követően kizárólag online módon működhet. A forgalmazó a cserepénztárgép átadásakor azt az üzemeltető részére átszemélyesíti. A cserepénztárgép visszavételekor a forgalmazó a cserepénztárgépet magára átszemélyesíti. Az e § szerinti eljárás esetén az utólagos rögzítésre vonatkozó rendelkezések nem alkalmazhatóak.
+## 78/G. §[^165] Az 1. melléklet szerint taxis szolgáltatási tevékenységet végző adóalany mentesül a pénztárgép használat alól, ha az állami adó- és vámhatósághoz e rendelet szerinti tartalommal adatot szolgáltat fuvarairól és bevételeiről.
 
 ## 21. Az Európai Unió jogának való megfelelés
 
@@ -10,4 +10,4 @@
 
 (4) E rendelet IV. fejezete rendelkezéseinek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
-[^127]: A 78/F. §-t a 9/2016. (III. 25.) NGM rendelet 34. §-a iktatta be.
+[^165]: A 78/G. §-t a 9/2016. (III. 25.) NGM rendelet 35. §-a iktatta be.
