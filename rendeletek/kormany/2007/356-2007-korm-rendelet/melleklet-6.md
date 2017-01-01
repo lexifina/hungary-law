@@ -1,4 +1,4 @@
-6. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^132]
+6. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^140]
 
 A papír alapú földhasználati összesítő kiadása iránti kérelem tartalma
 
@@ -46,4 +46,4 @@ II. A kérelem benyújtására szolgáló nyomtatványon a járási hivatal ált
 
 5. Az ügyintéző aláírása
 
-[^132]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^140]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
