@@ -4,6 +4,6 @@
 
 (3) Az NBF – a Választmányon keresztül – az Eütv. 151. § (2) bekezdés c) pontjában meghatározott szervezetekkel a betegek érdekeit és az adott betegségcsoportot képviselő szervezetet érintő egészségpolitikai, egészségfejlesztési kérdésekben együttműködik, kapcsolatot tart, illetve szükség szerint konzultál.
 
-(4)[^4] A miniszter az NBF működésével kapcsolatos koordinációs és ügyviteli feladatok ellátásához a feltételeket az OBDK-n keresztül biztosítja.
+(4)[^4] A miniszter az NBF működésével kapcsolatos koordinációs és ügyviteli feladatok ellátásához a feltételeket biztosítja.
 
-[^4]: A 7. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 143. § c) pontja szerint módosított szöveg.
+[^4]: A 7. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 143. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 88. § (2) bekezdés b) pontja szerint módosított szöveg.
