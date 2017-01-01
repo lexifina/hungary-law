@@ -1,15 +1,20 @@
-14. § (1) A kiemelt nemzeti emlékhely területére – a (2) és (3) bekezdésben foglalt kivétellel – állatot bevinni tilos.
+## 13/D. §[^8] A vagyonkezelői behajtási, illetve behajtási és várakozási hozzájárulás kiadására az e rendeletben meghatározott használati szerződésre vonatkozó szabályokat kell alkalmazni.
 
-(2) A kiemelt nemzeti emlékhely területére
+14. §[^9] (1) A kiemelt nemzeti emlékhely területére – a (2)–(5) bekezdésben foglalt kivétellel – állatot beengedni vagy bevinni tilos.
 
-a) fogyatékossággal élő személyt segítő kutya, továbbá
+(2) A kiemelt nemzeti emlékhely területére az Országos Mentőszolgálat, a Magyar Honvédség, a rendvédelmi szervek és a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal és a közfeladatokat ellátó őrszolgálatok feladatainak ellátását szolgáló állat beengedhető vagy bevihető.
 
-b) a Magyar Honvédségnél, valamint a rendvédelmi szerveknél szolgálati feladat ellátásával összefüggésben alkalmazott állat
+(3) A kiemelt nemzeti emlékhely területére segítő kutya beengedhető vagy bevihető. A segítő kutyának nem minősülő kutya a vagyonkezelő által az (5) bekezdés alapján meghatározott területre pórázon beengedhető vagy bevihető.
 
-## bevihető.
-
-(3) A kiemelt nemzeti emlékhely területére a főigazgató hozzájárulásával
+(4) A kiemelt nemzeti emlékhely területére a vagyonkezelő hozzájárulásával állat
 
 a) a 3. § (1) bekezdés c) és d) pontja szerinti rendezvényre, továbbá
 
 b) használati szerződésben foglaltak szerint
+
+## engedhető vagy vihető be.
+
+(5) A vagyonkezelő meghatározza, hogy segítő kutyának nem minősülő kutya a kiemelt nemzeti emlékhely mely területére engedhető be vagy vihető be, ezt a honlapján közzéteszi, valamint a kiemelt nemzeti emlékhely területén jól látható módon jelzi.
+
+[^8]: A 13/D. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A 14. § a 447/2016. (XII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.

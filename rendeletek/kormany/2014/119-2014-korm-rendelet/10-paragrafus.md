@@ -1,8 +1,8 @@
-10. § (1) A használati szerződés megkötése esetén fizetendő használati díjat a főigazgató állapítja meg az 1. melléklet alapján.
+10. §[^4] (1) A használati szerződés megkötése esetén fizetendő használati díjat a főigazgató – a (3)–(5) bekezdésben foglaltak kivételével – az 1. melléklet szerint állapítja meg.
 
 (2) A használati díjat a használati szerződésben meghatározott módon a tárgyidőszakra előre kell megfizetni.
 
-(3) A használati díj korlátlanul csökkenthető, vagy annak 100%-a elengedhető, ha a kiemelt nemzeti emlékhely használatára
+(3) A főigazgató korlátlan mértékben csökkentett használati díjat állapíthat meg, vagy a használati díj fizetésétől eltekinthet, ha a kiemelt nemzeti emlékhely használatára
 
 a) közfeladat ellátása céljából, a közfeladat ellátásához szükséges mértékben vagy
 
@@ -10,10 +10,12 @@ b) nemzeti emléknaphoz, illetve a magyar nemzet szempontjából kiemelkedő jel
 
 ## kerül sor.
 
-(4) A főigazgató a használati díj legfeljebb 90%-át elengedheti
+(4) A főigazgató legfeljebb 90%-kal csökkentett mértékű használati díjat állapíthat meg
 
 a) humanitárius és karitatív célok érdekében végzett tevékenység esetében,
 
-b)[^1] az Igazságügyi Minisztérium, a Miniszterelnökség, a Néprajzi Múzeum, a Földművelésügyi Minisztérium, a fővárosi önkormányzat, a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzata és a Magyar Honvédség által szervezett rendezvények esetében.
+b) az Igazságügyi Minisztérium, a Miniszterelnökség, a Néprajzi Múzeum, a Földművelésügyi Minisztérium, a fővárosi önkormányzat, a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzata és a Magyar Honvédség által szervezett rendezvények esetében.
 
-[^1]: A 10. § (4) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 815. §-ával megállapított szöveg.
+(5) A főigazgató a kiemelt nemzeti emlékhely területi sajátosságaira figyelemmel a (3) és (4) bekezdésben nem szabályozott esetekben legfeljebb 50%-kal csökkentett mértékű használati díjat állapíthat meg.
+
+[^4]: A 10. § a 447/2016. (XII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
