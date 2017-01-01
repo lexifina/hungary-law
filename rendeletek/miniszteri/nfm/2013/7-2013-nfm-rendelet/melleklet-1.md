@@ -4,17 +4,25 @@
 
 1. A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:
 
-1.1. a külön jogszabályban meghatározott szakrendszerek kivételével – a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával kötött egyedi megállapodás szerint – az okmányirodák és kormányablakok működéséhez szükséges informatikai rendszerek, beleértve a szükséges végfelhasználói hardver és szoftver infrastruktúra biztonságos és menedzselt üzemeltetését és karbantartását, ezen belül:
+1.1.[^14] a külön jogszabályban meghatározott szakrendszerek kivételével – az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján – az okmányirodák és kormányablakok működéséhez szükséges informatikai rendszerek, beleértve a szükséges végfelhasználói hardver és szoftver infrastruktúra biztonságos és menedzselt üzemeltetése és karbantartása, ezen belül:
 
-1.1.1. a munkaállomások, nyomtatók és kiegészítő perifériák üzemeltetését és karbantartását;
+1.1.1. a munkaállomások, nyomtatók, tabletek és kiegészítő perifériák üzemeltetése és karbantartása,
 
-1.1.2. az IP telefonszolgáltatás üzemeltetését és karbantartását;
+1.1.2. az IP telefonszolgáltatás üzemeltetése és karbantartása,
 
-1.1.3.[^14] a központi szolgáltató hatáskörébe tartozó interfészek üzemeltetését és karbantartását,
+1.1.3. a központi szolgáltató hatáskörébe tartozó interfészek üzemeltetése és karbantartása,
 
-1.1.4. a LAN/WAN üzemeltetést és biztosítást, végpontépítést;
+1.1.4. a LAN/WAN üzemeltetés és biztosítás, végpontépítés,
 
-1.1.5. az új okmányirodában vagy kormányablakban LAN kialakítását, a költöztetések infokommunikációs eszközöket érintő támogatását.
+1.1.5. az új okmányirodában vagy kormányablakban LAN kialakítása, a költöztetések infokommunikációs eszközöket érintő támogatása,
+
+1.1.6. a vezeték nélküli hálózati hozzáférés biztosítása,
+
+1.1.7. az információs szolgáltatást biztosító IT eszközök üzemeltetése,
+
+1.1.8. az ügyfélhívó és ügyfélirányító rendszerek biztosítása és üzemeltetése,
+
+1.1.9. a POS terminálok és a fizetéshez kapcsolódó szolgáltatások biztosítása és üzemletetése;
 
 1.2. az ÁROP 1.1.17. „Kormányzati informatikai szolgáltatási és e-közigazgatási sztenderdek” elnevezésű projekt keretei között megvalósuló Konszolidációs Adatvagyon Hasznosítás rendszer;
 
@@ -189,7 +197,7 @@
 3.13.[^62] Az 1.51. pont szerinti számla elektronikus adatszolgáltatását befogadó állami adó- és vámhatósági rendszer.
 
 [^13]: A 6. §-t a 46/2015. (VII. 28.) BM rendelet 2. §-a iktatta be.
-[^14]: Az 1. melléklet 1. pont 1.1.3. alpontja a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 1. melléklet 1.1. pontja az 58/2016. (XII. 22.) BM rendelet 35. §-ával megállapított szöveg.
 [^15]: Az 1. melléklet 1. pont 1.8.–1.9. alpontját a 31/2016. (VII. 20.) BM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
 [^16]: Az 1. melléklet 1. pont 1.10. alpontja a 31/2016. (VII. 20.) BM rendelet 1. §-ával megállapított szöveg.
 [^17]: Az 1. melléklet 1. pont 1.11. alpontja az 59/2016. (XII. 27.) BM rendelet 1. §-ával megállapított szöveg.
