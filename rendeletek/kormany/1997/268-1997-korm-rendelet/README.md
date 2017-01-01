@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-268-20-
 | 2016-01-01 | 1997-268-20-22.25 | 470/2015. (XII. 29.) Korm. rendelet |
 | 2016-07-01 | 1997-268-20-22.26 | 139/2016. (VI. 13.) Korm. rendelet |
 | 2016-11-26 | 1997-268-20-22.27 | 352/2016. (XI. 18.) Korm. rendelet |
+| 2017-01-01 | 1997-268-20-22.28 | 268/2011. (XII. 13.) Korm. rendelet |
