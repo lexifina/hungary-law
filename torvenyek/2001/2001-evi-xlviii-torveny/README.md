@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-48-00-00
 | 2013-10-25 | 2013. évi CLIX. törvény | 2001-48-00-00.20 |
 | 2014-03-15 | 2014. évi XV. törvény | 2001-48-00-00.21 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2001-48-00-00.22 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 2001-48-00-00.23 |
