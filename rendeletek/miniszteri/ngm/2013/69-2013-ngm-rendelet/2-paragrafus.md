@@ -1,4 +1,4 @@
-2. § (1) A jelölt a Törvény 2. § (2) bekezdése szerinti megállapodást személyesen, a Kincstárnak a jelölt választókerülete szerint illetékes megyei igazgatóságán kötheti meg.
+2. § (1)[^1]
 
 (2) Ha a jelölt a támogatását az őt jelölő pártlistát állító párt rendelkezésére bocsátja, a Törvény 2/A. § (1) bekezdése szerinti nyilatkozatát (a továbbiakban: nyilatkozat) a Kincstárnak a jelölt választókerülete szerint illetékes megyei igazgatóságára kell eljuttatnia.
 
@@ -67,3 +67,5 @@ b) a párt mint kedvezményezett esetében tartalmazza
 (5) A megállapodás részét képező egyes tartalmi követelmények e rendelet megfelelő előírására, valamint a Kincstár szabályzatára történő utalással is meghatározhatók.
 
 (6) A Kincstár — a kedvezményezettnek a megállapodás megkötésekor tett választása szerint — a megállapodás megkötésének helye szerinti megyei igazgatóságán (a továbbiakban: igazgatóság) adja át a kincstári kártyát és annak PIN-kódját, vagy azokat a kedvezményezettnek megküldi, a megállapodás megkötésének napjától számított öt napon belül.
+
+[^1]: A 2. § (1) bekezdését a 62/2016. (XII. 29.) NGM rendelet 70. §-a hatályon kívül helyezte.
