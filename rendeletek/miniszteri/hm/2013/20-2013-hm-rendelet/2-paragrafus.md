@@ -18,7 +18,17 @@ cc) rendszeresen, de legalább kéthavonta ellenőrzi vagy ellenőrizteti az egy
 
 a) felelős a pénzbeli juttatások szabályszerű felhasználásáért,
 
-b) amennyiben az egyenruházat tényleges biztosításával történik az ellátása, felelős a ruházati szakanyagok jogosultság keletkezését követő átvételéért, továbbá a méretnagyság soron kívüli leellenőrzéséért, valamint
+b)[^1] ha ellátása az egyenruházat tényleges biztosításával történik, felelős a ruházati szakanyagokra való jogosultság keletkezését követően a ruházati szakanyagok
+
+ba) átvételéért és mérethelyességének soron kívüli ellenőrzéséért,
+
+bb) megőrzéséért,
+
+bc) karbantartásáért,
+
+bd) rendeltetésszerű használatáért,
+
+be) előírás szerinti viseléséért, valamint
 
 c) amennyiben ruházati utalványfüzet kibocsátásával valósul meg az ellátása,
 
@@ -27,3 +37,5 @@ ca) felelős a ruházati utalványfüzet jogosultságának időszakában törté
 cb) köteles a ruházati utalványfüzetek igénybevételével egyenruházatát a KREP-ből, az RM-ből, illetve a szolgáltatótól személyesen beszerezni,
 
 cc) köteles a ruházati utalványfüzeteket a kiadásuk sorrendjében felhasználni.
+
+[^1]: A 2. § (2) bekezdés b) pontja a 23/2016. (XII. 21.) HM rendelet 4. §-ával megállapított szöveg.
