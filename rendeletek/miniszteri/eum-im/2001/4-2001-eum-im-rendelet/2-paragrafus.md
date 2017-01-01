@@ -4,8 +4,10 @@
 
 (3) Ha a névjegyzékben szereplő személy bírói, ügyészi vagy köztisztviselői jogviszonyt létesít, ezt köteles bejelenti a MISZK-nek. A MISZK ebben az esetben a névjegyzékben a közvetítő neve mellett feltünteti, hogy a közvetítői minősége szünetel.
 
-(4) Ha a MISZK vagy a területi kamara észleli, hogy a közvetítői névjegyzékben szereplő személy nem tett eleget a Tv. 5. § (4) bekezdésében foglalt kötelezettségének, a nyilvántartásban a közvetítő neve mellett jelezni kell, hogy a közvetítő a változás bejelentési kötelezettségét elmulasztotta. Amennyiben az érintett utóbb eleget tesz a bejelentési kötelezettségének, a jelzést a nyilvántartásból haladéktalanul törölni kell.
+(4)[^2] Ha a MISZK észleli, hogy a közvetítői névjegyzékben szereplő személy nem tett eleget a Tv. 5. § (4) bekezdésében foglalt kötelezettségének, a nyilvántartásban a közvetítő neve mellett jelezni kell, hogy a közvetítő a változás bejelentési kötelezettségét elmulasztotta. Amennyiben az érintett utóbb eleget tesz a bejelentési kötelezettségének, a jelzést a nyilvántartásból haladéktalanul törölni kell.
 
 (5) A közvetítőt kérelmére törölni kell a névjegyzékből. A MISZK hivatalból törli a névjegyzékből azt a közvetítőt, akiről bebizonyosodik, hogy a 2. § (2) bekezdésében foglaltak szerint megtett nyilatkozata nem felel meg a valóságnak. A MISZK hivatalból törli a névjegyzékből azt a közvetítőt is, aki a továbbképzésen való részvételi kötelezettségének nem tett eleget, illetve a részvétel igazolását felhívás ellenére elmulasztotta.
 
 (6) A MISZK évente felhívást tesz közzé a közvetítői névjegyzékbe történő felvétel lehetőségéről az Igazságügyi Minisztérium és az Egészségügyi Minisztérium hivatalos lapjában.
+
+[^2]: A 2. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 18. § b) pontja szerint módosított szöveg.
