@@ -52,35 +52,31 @@ aj) rendészetért
 
 felelős tagja által az adott feladatkörért való felelősségére tekintettel kijelölt vezetői munkakört betöltő kormánytisztviselő, továbbá
 
-b) a piacfelügyeleti hatóságok közül
+b)[^2] a piacfelügyeleti hatóságok közül
 
-ba) az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztiorvosi Hivatala,
+ba) az Állami Egészségügyi Ellátó Központ,
 
-bb) az Egészségügyi Engedélyezési és Közigazgatási Hivatal,
+bb) a Felvonó és Mozgólépcső Felügyelet,
 
-bc) a Felvonó és Mozgólépcső Felügyelet,
+bc) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet,
 
-bd) a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet,
+bd) a Magyar Bányászati és Földtani Hivatal,
 
-be) a Magyar Bányászati és Földtani Hivatal,
+be) a gazdasági célfelhasználású termékek tekintetében piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
-bf) a Magyar Kereskedelmi Engedélyezési Hivatal,
+bf) a Nemzeti Adó- és Vámhivatal,
 
-bg) a Nemzeti Adó- és Vámhivatal,
+bg) a fogyasztóvédelmi hatáskörében eljáró Pest Megyei Kormányhivatal,
 
-bh) a Nemzeti Fogyasztóvédelmi Hatóság,
+bh) a közlekedési feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
-bi) a Nemzeti Közlekedési Hatóság,
+bi) a Nemzeti Média- és Hírközlési Hatóság,
 
-bj) a Nemzeti Munkaügyi Hivatal Munkavédelmi és Munkaügyi Igazgatóság,
+bj) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
 
-bk) a Nemzeti Média- és Hírközlési Hatóság,
+bk) az Országos Rendőr-főkapitányság és
 
-bl) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
-
-bm) az Országos Rendőr-főkapitányság és
-
-bn) a Nemzeti Élelmiszerlánc-biztonsági Hivatal
+bl) a Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
 vezetője.
 
@@ -100,7 +96,7 @@ c) lemondással.
 
 10. A Munkacsoport tagjait és az ülésen részt vevőket díjazás, költségtérítés nem illeti meg.
 
-11. A Munkacsoport szükség szerint, de legalább évente két alkalommal ülésezik.
+11.[^3] A Munkacsoport szükség szerint, de legalább évente egy alkalommal ülésezik.
 
 12. A Munkacsoport működésének részletes szabályait a Munkacsoport ügyrendje állapítja meg.
 
@@ -113,3 +109,5 @@ c) lemondással.
 16. A Munkacsoport tagjainak felkéréséről az elnök a határozat hatálybalépését követő 30 napon belül gondoskodik.
 
 [^1]: Az 5. pont a) pont ab) alpontja az 1752/2014. (XII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 42. pontjával megállapított szöveg.
+[^3]: A 11. pont az 1853/2016. (XII. 27.) Korm. határozat 43. pontja szerint módosított szöveg.
