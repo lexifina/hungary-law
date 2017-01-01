@@ -2,18 +2,18 @@
 
 (2) A Belügyminisztériumhoz és a belügyminiszter által irányított szervhez szolgálati beosztás ellátására vezényelhető hivatásos állományúak száma egyidejűleg legfeljebb
 
-a)[^1] a Belügyminisztériumnál: 170 fő,
+a)[^2] a Belügyminisztériumnál: 170 fő,
 
-b)[^2]
+b)[^3]
 
 c) a rendészeti szakközépiskoláknál: 250 fő,
 
-d)–e)[^3]
+d)–e)[^4]
 
 ## lehet.
 
 (3) A (2) bekezdés szerinti létszámkeretbe nem kell beszámítani az európai uniós forrásból finanszírozott státusz terhére foglalkoztatott hivatásos állományút.
 
-[^1]: A 8. § (2) bekezdés a) pontja a 37/2016. (IX. 1.) BM rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^2]: A 8. § (2) bekezdés b) pontját a 29/2016. (VII. 15.) BM rendelet 38. § a) pontja hatályon kívül helyezte.
-[^3]: A 8. § (2) bekezdés d)–e) pontját a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 8. § (2) bekezdés a) pontja a 37/2016. (IX. 1.) BM rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 8. § (2) bekezdés b) pontját a 29/2016. (VII. 15.) BM rendelet 38. § a) pontja hatályon kívül helyezte.
+[^4]: A 8. § (2) bekezdés d)–e) pontját a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés a) pontja hatályon kívül helyezte.

@@ -46,9 +46,47 @@
 
 ## II. A belügyminiszter által irányított szervnél vezényléssel betölthető szolgálati beosztások
 
-## A) A Szervezett Bűnözés Elleni Koordinációs Központ szolgálati beosztásai
+## A) A Nemzeti Szakértői és Kutató Központ szolgálati beosztásai
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | középvezető | szakirányító 2 | főigazgató-helyettes | 100 | 100 |
+
+| 4. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 100 | 100 |
+
+| 5. | beosztott vezető | osztályvezető 1 | osztályvezető | 100 | 100 |
+
+## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | E | kiemelt főreferens | 100 | 100 |
+
+| 4. | D | kiemelt főelőadó | 100 | 100 |
+
+| 5. | C | főelőadó | 100 | 100 |
+
+## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | D | referens | 100 | 100 |
+
+| 4. | C | segédelőadó | 100 | 100 |
 
 ## B) A rendészeti szakközépiskolák szolgálati beosztásai
 
@@ -122,7 +160,7 @@
 
 ## D)
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^13]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^14]
 
 ## A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -140,21 +178,31 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 5. | dékán | 100 |  |
 
-| 6. | területi szerv vezetője (tábornok) | karközi intézetvezető | 100 | 100 |
+| 6. | területi szerv vezetője (tábornok) | karközi intézetvezető igazgató | 100 | 100 |
 
 | 7. | közép-vezető | szakirányító 1 | dékán-helyettes | 100 | 100 |
 
 | 8. | kari intézetvezető | 100 | 100 |
 
-| 9. | szakirányító 2 | karközi intézet igazgató-helyettes (KVI, NBI) | 100 | 100 |
+| 8/a. | tagozatparancsnok (Rendészet- tudományi Kar Rendvédelmi Tagozat) | 100 |  |
+
+| 9. | szakirányító 2 | karközi intézetvezető-helyettes (KVI, NBI) | 100 | 100 |
 
 | 10. | tanszékvezető | 100 | 100 |
 
 | 11. | kari tanulmányi vezető |  | 100 |
 
+| 11a. | irodavezető |  | 100 |
+
+| 11b. | főosztályvezető 1 | tagozatparancsnok- helyettes (Rendészet- tudományi Kar Rendvédelmi Tagozat) | 100 |  |
+
 | 12. | beosztott vezető | főosztályvezető- helyettes 1 | hivatalvezető |  | 100 |
 
+| 12a. | központvezető (egyetemi központban) | 100 |  |
+
 | 13. | osztályvezető 1 | osztályvezető |  | 100 |
+
+| 14. | évfolyam- parancsnok |  | 100 |
 
 II. Oktatói, nevelői és képzést támogató beosztások
 
@@ -168,19 +216,23 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 | 4. | főosztályvezető 1 | kutató professzor | 100 |  |
 
+| 4a. | főosztályvezető 1 | tudományos tanácsadó | 100 |  |
+
 | 5. | osztályvezető 1 | egyetemi docens | 100 |  |
 
 | 6. | osztályvezető 1 | főiskolai tanár | 100 |  |
 
-| 7. | osztályvezető 1 | tudományos tanácsadó | 100 |  |
+| 7. | osztályvezető 1 | tudományos főmunkatárs | 100 |  |
 
 | 8. | osztályvezető 1 | ügyvivő szakértő |  | 100 |
 
 | 9. | E | adjunktus | 100 |  |
 
-| 10. | E | tudományos főmunkatárs | 100 |  |
+| 10. | E | tudományos munkatárs | 100 |  |
 
 | 11. | E | tanársegéd | 100 |  |
+
+| 11a. | E | mesteroktató | 100 |  |
 
 | 12. | E | gyakorlati oktató (szakoktató) | 100 |  |
 
@@ -190,16 +242,16 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 | 15. | E | kiemelt főreferens | 100 |  |
 
-| 16. | D | tudományos munkatárs | 100 |  |
+| 16. | D | tudományos segédmunkatárs | 100 |  |
 
 | 17. | D | mesterkiképző | 100 |  |
 
 | 18. | D | csoportvezető |  |  |
 
-| 19. | C | tudományos segédmunkatárs | 100 |  |
+| 19. |  |  |  |  |
 
 | 20. | C | kiképző | 100 |  |
 
 III. Kiképzői beosztások
 
-[^13]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a szerint módosított szöveg.
+[^14]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.

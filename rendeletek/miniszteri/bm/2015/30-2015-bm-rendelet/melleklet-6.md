@@ -54,7 +54,7 @@
 
 ## KML: Katasztrófavédelmi mobil laborok
 
-6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^11]
+6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^12]
 
 ## A büntetés-végrehajtási szervezet szolgálati beosztásai
 
@@ -74,11 +74,15 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 5. | középvezető | szakirányító 1 | szolgálatvezető | 100 |  |
 
+| 5/a. | szakirányító 1 | hivatalvezető | 100 |  |
+
 | 6. | szakirányító 2 | főosztályvezető | 100 |  |
 
-| 7. |  |  |  |  |
+| 7. | főosztályvezető- helyettes 1 | sajtószóvivő | 100 |  |
 
 | 8. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 100 |  |
+
+| 8/a. |  |  |  |  |
 
 | 9. | főosztályvezető-helyettes 2 | osztályvezető | 100 |  |
 
@@ -160,6 +164,8 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 8. | tűzvédelmi vezető |  | 100 |
 
+| 8/a. | közegészségügyi-járványügyi felügyelő | 150 |  |
+
 | 9. | D | főügyeletes | 150 |  |
 
 | 10. | kiemelt főelőadó | 150 | 100 |
@@ -220,6 +226,8 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 38. | pszichológus | 100 |  |
 
+| 38/a. | diplomás ápoló | 100 |  |
+
 | 39. | főművezető | 100 |  |
 
 | 40. | vezető reintegrációs tiszt | 150** vagy 100 |  |
@@ -230,4 +238,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^11]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja szerint módosított szöveg.
+[^12]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja, az 55/2016. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.

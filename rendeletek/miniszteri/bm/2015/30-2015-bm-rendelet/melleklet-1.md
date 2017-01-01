@@ -1,6 +1,6 @@
-## 17. §[^5]
+## 17. §[^6]
 
-1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^6]
+1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^7]
 
 ## A szolgálati beosztások besorolásához szükséges munkakör-értékelés végrehajtásának módszertana és eljárási rendje
 
@@ -108,5 +108,5 @@ II. Eljárásrend
 
 4. Ha indokolt az új szolgálati beosztás létrehozása, a Belügyminisztérium humánigazgatási szerve javaslatot tesz a rendszeresített szolgálati beosztások módosítására, az erre vonatkozó jogszabály előkészítésére.
 
-[^5]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.

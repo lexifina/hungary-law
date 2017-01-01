@@ -222,19 +222,15 @@
 
 ## a) Juhász Gyula Tanárképző Főiskola büntetés-végrehajtási tagozatán szerzett oklevelet,
 
-## b) büntetés-végrehajtási felsőfokú szaktanfolyamot
+## b) büntetés-végrehajtási felsőfokú szaktanfolyamot.
 
 ## 2. Büntetés-végrehajtási felügyelő képzettségnek kell tekinteni:
 
-## a) Kun Béla zászlósképző iskolán szerzett büntetés-végrehajtási tiszthelyettes képzettséget
+## a) büntetés-végrehajtási alapfokú szaktanfolyamot,
 
-## b) büntetés-végrehajtási középfokú szaktanfolyamot.
+## b) Kun Béla zászlósképző iskolán szerzett büntetés-végrehajtási tiszthelyettesi képzettséget.
 
-## 3. Büntetés-végrehajtási segédfelügyelői képzettségnek kell tekinteni:
-
-## büntetés-végrehajtási alapfokú szaktanfolyamot.
-
-11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^16]
+11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^17]
 
 A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások
 
@@ -394,4 +390,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^16]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított szöveg.
+[^17]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított szöveg.

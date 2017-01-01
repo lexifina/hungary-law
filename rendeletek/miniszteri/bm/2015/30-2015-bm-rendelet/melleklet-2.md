@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^7]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^8]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -48,7 +48,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 4. | igazgató (RRI) | 100 |  |
 
-| 5. | közép- vezető | szakirányító 2 | igazgató-helyettes (RRI, BSZKI) | 100 | 100 |
+| 5. | közép- vezető | szakirányító 2 | igazgató-helyettes (RRI) | 100 | 100 |
 
 | 6. | bűnügyi rendőrfőkapitány-helyettes (MRFK) | 100 |  |
 
@@ -130,7 +130,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 18. | alosztályvezető (közterületi támogató) | 200 |  |
 
-| 19. | osztályvezető-helyettes | 100 150*** 200**** | 50 |
+| 19. | osztályvezető-helyettes | 100 200**** | 50 |
 
 | 20. | titkárságvezető (alosztály jogállású) |  | 50 |
 
@@ -154,9 +154,9 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 30. | kiemelt főmérnök |  | 50 |
 
-| 31. | kiemelt főnyomozó | 100 150*** 200**** |  |
+| 31. | kiemelt főnyomozó | 100 200**** |  |
 
-| 32. | kiemelt főtechnikus | 100 150*** | 50 |
+| 32. | kiemelt főtechnikus | 100 | 50 |
 
 | 33. | kiemelt fővizsgáló | 100 |  |
 
@@ -178,7 +178,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 42. | főrevizor |  | 50 |
 
-| 43. | főtechnikus | 100 150*** | 50 |
+| 43. | főtechnikus | 100 | 50 |
 
 | 44. | fővizsgáló | 100 |  |
 
@@ -192,7 +192,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 49. | nyomozótiszt | 100 |  |
 
-| 50. | technikustiszt | 100 150*** | 50 |
+| 50. | technikustiszt | 100 | 50 |
 
 | 51. | vizsgálótiszt | 100 |  |
 
@@ -270,7 +270,7 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 13. | szakoktató |  | 100 |
 
-| 14. | technikus | 100 125* 150** | 50 |
+| 14. | technikus | 100 125* | 50 |
 
 | 15. | ügyeletes | 100 |  |
 
@@ -397,8 +397,6 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 ## 50* Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 50%.
 
 ## 125**: A szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 125%.
-
-## 150***: A Bűnügyi Szakértői és Kutatóintézet Bűnügyi Technikai Főosztály Központi Technikai Osztály beosztotti állománya esetében a hivatásos pótlék mértéke 150%.
 
 ## 200****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, továbbá a Repülőtéri Rendőri Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya esetében a hivatásos pótlék mértéke 200%.
 
@@ -596,6 +594,8 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 13. | kiemelt főnyomozó | 200 225*** |  |
 
+| 13a. | kiemelt fötechnikus | 200 | 100 |
+
 | 14. | karmester-helyettes |  | 100 |
 
 | 15. | kiemelt főmérnök | 200 | 100 |
@@ -617,6 +617,8 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 | 23. | B | mérnök | 200 | 100 |
 
 | 24. | előadó I. | 200 | 100 |
+
+| 24a. | technikustiszt | 200 | 100 |
 
 | 25. | biztonsági tiszt | 200 |  |
 
@@ -1060,7 +1062,7 @@ Országos Rendőr-főkapitányság (ORFK)
 
 Területi szervek: (megyei illetékességű középirányító és azonos jogállású):
 
-BRFK + MRFK-k + KR + RRI + BSZKI + Rendőrségi Oktatási és Kiképző Központ + Nemzetközi Bűnügyi Együttműködési Központ + Nemzetközi Oktatási Központ
+BRFK + MRFK-k + KR + RRI + Rendőrségi Oktatási és Kiképző Központ + Nemzetközi Bűnügyi Együttműködési Központ + Nemzetközi Oktatási Központ
 
 Helyi szervek:
 
@@ -1079,8 +1081,6 @@ Egyéb rövidítések:
 ÁFSZ: Készenléti Rendőrség Állami Futárszolgálat
 
 BRFK: Budapesti Rendőr-főkapitányság
-
-BSZKI: Bűnügyi Szakértői és Kutatóintézet
 
 KHSZ: Közigazgatási Hatósági Szolgálat
 
@@ -1106,4 +1106,4 @@ MRFK: Megyei Rendőr-főkapitányság
 
 RRI: Repülőtéri Rendőr Igazgatóság
 
-[^7]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a szerint módosított szöveg.
