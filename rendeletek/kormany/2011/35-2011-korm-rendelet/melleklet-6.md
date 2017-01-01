@@ -134,21 +134,43 @@
 
 ## V. Életkorhoz kötött szűrővizsgálatok 0–4 napos életkorban
 
+## Vizsgálatot végző gyermekgyógyász neve:
+
 ## a) Teljes fizikális vizsgálat, különös tekintettel a fejlődési rendellenességek szűrésére
+
+## megtörtént ……..év……..hó……nap,
+
+## eredménye:…………..……………………………
 
 ## b) Testtömeg, testhossz, fejkörfogat mérése és a hazai standardok szerinti értékelése
 
+## megtörtént ……..év……..hó……nap,
+
+## eredménye:…………..……………………………
+
 ## c) Ideggyógyászati vizsgálat
+
+## megtörtént ……..év……..hó……nap,
+
+## eredménye:…………..……………………………
 
 ## d) Csípőficam szűrése
 
+## megtörtént ……..év……..hó……nap,
+
+## eredménye:…………..……………………………
+
 ## e) Érzékszervek működésének vizsgálata (hallás, látás)
 
-## BCG oltás beadása megtörtént: év hó nap óra perc
+## megtörtént ……..év……..hó……nap,
+
+## eredménye:…………..……………………………
+
+| BCG oltás beadása megtörtént: | év | hó | nap | óra | perc |
 
 ## Oltóanyag száma:
 
-## ......................................................
+## .......................................................
 
 ## Gyermekgyógyász aláírása
 
@@ -156,17 +178,15 @@
 
 ## A dokumentum lezárva:
 
-## Dátum: év hó nap
+## Dátum: .......... év ................................... hó ...... nap
 
-| ...................................................... | ...................................................... |
-
-| Felelős személy aláírása | Gyermekgyógyász aláírása |
+| ........................................................... Felelős személy aláírása | .................................................................... Gyermekgyógyász aláírása |
 
 | P. H. | P. H. |
 
-6. melléklet a 35/2011. (III. 21.) Korm. rendelethez[^17]
+6. melléklet a 35/2011. (III. 21.) Korm. rendelethez[^19]
 
-Összefoglaló adatlap intézeten kívüli szülésről
+## Összefoglaló adatlap intézeten kívüli szülésről
 
 ## Szolgáltató neve:
 
@@ -204,4 +224,4 @@
 
 V. Az újszülött adatai
 
-[^17]: A 6. melléklet az 520/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.
+[^19]: A 6. melléklet az 520/2013. (XII. 30.) Korm. rendelet 85. § c) pontja, a 464/2016. (XII. 23.) Korm. rendelet 25. § (3) bekezdése szerint módosított szöveg.

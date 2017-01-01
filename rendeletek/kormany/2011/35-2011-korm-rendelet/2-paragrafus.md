@@ -10,7 +10,7 @@ ba) legalább két éves szülőszobai szakmai gyakorlattal rendelkezik vagy
 
 bb) legalább két éves szakmai gyakorlattal rendelkezik, és igazoltan minimum ötven szülést levezetett
 
-[az a) és b) pont szerinti személy a továbbiakban együtt: felelős személy].
+## [az a) és b) pont szerinti személy a továbbiakban együtt: felelős személy].
 
 (3) Az egészségügyi szolgáltatónak az ellátás keretében – minimális személyi feltételként – a (2) bekezdés szerinti felelős személy, továbbá egy, a (2) bekezdés szerinti feltételeknek megfelelő szülésznő vagy szülész-nőgyógyász szakorvos jelenlétét biztosítania kell.
 

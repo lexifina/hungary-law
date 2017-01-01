@@ -1,3 +1,5 @@
+## Tárgyi és higiénés feltételek
+
 ## 1. Eszközök:
 
 ## 1. a magzati szívműködés regisztrálására alkalmas, Doppler elven működő szívhang regisztráló,
@@ -64,7 +66,7 @@
 
 ## 32. mérőszalag.
 
-## 2.[^14] Gyógyszerek*:
+## 2.[^15] Gyógyszerek*:
 
 ## 1. oxytotikus hatású szerek (Oxytocin, ergot alkaloida),
 
@@ -96,9 +98,9 @@
 
 ## 6. szülésre alkalmas tiszta ágy.
 
-## * Csak szülész-nőgyógyász szakorvos esetén.[^15]
+## * Csak szülész-nőgyógyász szakorvos esetén.[^16]
 
-4. melléklet a 35/2011. (III. 21.) Korm. rendelethez
+4. melléklet a 35/2011. (III. 21.) Korm. rendelethez[^17]
 
 Adatlap
 
@@ -142,9 +144,9 @@ a) neve, telefonszáma:
 
 b) működési nyilvántartásának száma:
 
-5. A területileg illetékes házi gyermekorvos (háziorvos) vagy a választott házi gyermekorvos (háziorvos) neve, telefonszáma:
+5. A területileg illetékes házi gyermekorvos (háziorvos) vagy a választott házi gyermekorvos (háziorvos) neve, telefonszáma, e-mail címe:
 
-6. Védőnő neve, telefonszáma:
+6. Védőnő neve, telefonszáma, e-mail címe:
 
 7. Gyermekgyógyász
 
@@ -152,7 +154,9 @@ a) neve:
 
 b) telefonszáma:
 
-c) működési nyilvántartásának száma:
+c) e-mail címe:
+
+d) működési nyilvántartásának száma:
 
 8. Háttérkórház neve, címe, szülőszoba telefonszáma:
 
@@ -202,5 +206,6 @@ Az adatlapot négy példányban kell kitölteni!
 
 ** Csak orvos helyettes felelős személy esetén kell lepecsételni.
 
-[^14]: A 3. melléklet 2. pontja a 325/2011. (XII. 28.) Korm. rendelet 95. §-a szerint módosított szöveg.
-[^15]: A 3. melléklet végjegyzetét a 325/2011. (XII. 28.) Korm. rendelet 95. §-a iktatta be.
+[^15]: A 3. melléklet 2. pontja a 325/2011. (XII. 28.) Korm. rendelet 95. §-a szerint módosított szöveg.
+[^16]: A 3. melléklet végjegyzetét a 325/2011. (XII. 28.) Korm. rendelet 95. §-a iktatta be.
+[^17]: A 4. melléklet a 464/2016. (XII. 23.) Korm. rendelet 25. § (1) bekezdése szerint módosított szöveg.
