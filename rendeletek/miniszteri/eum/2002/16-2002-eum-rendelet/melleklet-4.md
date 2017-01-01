@@ -110,6 +110,6 @@
 
 | 47. A válogatás utáni maradék kezelése: 1 = komposztálás 2 = lerakás 3 = égetés (kód) |  |  |  |  |  |  |
 
-4. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^12]
+4. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^16]
 
-[^12]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 17. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 37. § f) és g) pontja szerint módosított szöveg.
+[^16]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 17. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 37. § f) és g) pontja szerint módosított szöveg.

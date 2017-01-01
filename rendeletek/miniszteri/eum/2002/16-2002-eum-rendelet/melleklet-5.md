@@ -76,9 +76,9 @@
 
 | 4.2. intézkedések száma | …………… |
 
-5. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^13]
+5. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^17]
 
-| A megyei kormányhivatal jelentése az Országos Tisztifőorvosi Hivatal részére |
+| A megyei kormányhivatal jelentése az országos tisztifőorvos részére |
 
 | A megye kódja: .............................................. neve: ................................................................................................................ |
 
@@ -156,4 +156,4 @@
 
 | 4.2. intézkedések száma | …………… |
 
-[^13]: Az 5. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 37. § h) pontja szerint módosított szöveg.
+[^17]: Az 5. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 37. § h) pontja, az 54/2016. (XII. 30.) EMMI rendelet 22. § (2) bekezdés e) pontja szerint módosított szöveg.
