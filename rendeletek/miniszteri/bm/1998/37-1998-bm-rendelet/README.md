@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-37-20-0
 | 2012-01-01 | 1998-37-20-0A.13 | 64/2004. (X. 28.) BM rendelet |
 | 2013-01-01 | 1998-37-20-0A.14 | 82/2012. (XII. 28.) BM rendelet |
 | 2016-01-01 | 1998-37-20-0A.15 | 80/2015. (XII. 23.) BM rendelet |
+| 2017-01-01 | 1998-37-20-0A.16 | 58/2016. (XII. 22.) BM rendelet |
