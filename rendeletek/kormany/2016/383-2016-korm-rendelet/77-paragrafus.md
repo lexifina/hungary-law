@@ -1,0 +1,5 @@
+77. § (1) A vadászati tilalmi időben apróvad fajra vonatkozó vadászat védett természeti területen, vízivad esetén védett természeti területen vagy Natura 2000 területen való engedélyezésére és elrendelésére irányuló eljárásban szakkérdésként kell vizsgálni, hogy a vadászat engedélyezése a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a megkeresésben foglaltak szerint megfelel-e.
+
+(2) A védett természeti területre vonatkozó vadgazdálkodási üzemterv jóváhagyására irányuló eljárásban szakkérdésként kell vizsgálni, hogy a vadgazdálkodási üzemterv a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.
+
+(3) A vadászterület határának megállapítására irányuló eljárásban, ha a vadászterület védett természeti területet osztana meg, szakkérdésként kell vizsgálni, hogy a vadászterület megállapítása a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a megkeresésben foglaltak szerint megfelel-e.

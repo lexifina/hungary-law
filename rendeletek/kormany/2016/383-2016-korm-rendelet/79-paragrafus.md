@@ -1,0 +1,3 @@
+79. § (1) A Magyarország állatföldrajzi környezetében nem honos állatfaj vadászterületen történő vadászati célú telepítésének engedélyezésére irányuló eljárásban szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.
+
+(2) A vadaskert, továbbá a vadaspark védett természeti területen, barlang védőövezetében történő létesítése iránti eljárásban szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.

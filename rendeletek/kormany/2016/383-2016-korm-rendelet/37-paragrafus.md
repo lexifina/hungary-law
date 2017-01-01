@@ -1,0 +1,71 @@
+## jelöli ki.
+
+37. § (1) Ha e rendelet másként nem rendelkezik, első fokon az ingatlan fekvése szerint illetékes, földügyi igazgatási hatáskörében eljáró járási (fővárosi kerületi) hivatal, másodfokon az ingatlan fekvése szerint illetékes, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal jár el ingatlanügyi hatóságként.
+
+(2) Ha a másodfokú ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatal jogát vagy jogos érdekét a döntés-felülvizsgálattal érintett ingatlan-nyilvántartási eljárás közvetlenül érinti, különösen abban az esetben, ha az elsőfokú eljárásban megkereső, kérelmező volt, a Kormány másodfokú ingatlanügyi hatóságként
+
+a) a Fejér Megyei Kormányhivatalt jelöli ki
+
+aa) a Baranya Megyei Kormányhivatalt,
+
+ab) a Győr-Moson-Sopron Megyei Kormányhivatalt,
+
+ac) a Komárom-Esztergom Megyei Kormányhivatalt,
+
+ad) a Pest Megyei Kormányhivatalt,
+
+ae) a Somogy Megyei Kormányhivatalt,
+
+af) a Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt,
+
+ag) a Tolna Megyei Kormányhivatalt,
+
+ah) a Vas Megyei Kormányhivatalt,
+
+ai) a Veszprém Megyei Kormányhivatalt,
+
+aj) a Zala Megyei Kormányhivatalt
+
+## érintő másodfokú ingatlan-nyilvántartási eljárás lefolytatására;
+
+b) a Szabolcs-Szatmár Bereg Megyei Kormányhivatalt jelöli ki
+
+ba) a Bács-Kiskun Megyei Kormányhivatalt,
+
+bb) a Budapest Főváros Kormányhivatalát,
+
+bc) a Békés Megyei Kormányhivatalt,
+
+bd) a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt,
+
+be) a Csongrád Megyei Kormányhivatalt,
+
+bf) a Fejér Megyei Kormányhivatalt,
+
+bg) a Hajdú-Bihar Megyei Kormányhivatalt,
+
+bh) a Heves Megyei Kormányhivatalt,
+
+bi) a Jász-Nagykun-Szolnok Megyei Kormányhivatalt,
+
+bj) a Nógrád Megyei Kormányhivatalt
+
+## érintő másodfokú ingatlan-nyilvántartási eljárás lefolytatására.
+
+(3) A termőföld védelméről szóló törvény szerinti földvédelmi (ideértve a földvédelmi szakhatósági közreműködést és a földvédelmi szakkérdés vizsgálatát is), földminősítési és újrahasznosítási eljárást, ha az eljárás tárgyát képező földrészletek a megyén belül különböző, az e §-ban meghatározott hatáskörében eljáró járási hivatal illetékességi területéhez tartoznak, ingatlanügyi hatóságként
+
+a) a megyeszékhely szerinti járási hivatal,
+
+b) Pest megyében a Budakeszi Járási Hivatal,
+
+c) a fővárosban a Fővárosi XI. Kerületi Hivatal
+
+## folytatja le.
+
+(4) A termőföld védelméről szóló törvényben meghatározott földminősítéssel kapcsolatos ügyekben első fokon a fővárosi és megyei kormányhivatal
+
+a) végzi a járási mintaterek kijelölését, karbantartását, a járási mintatér-jegyzék vezetését,
+
+b) folytatja le a földminősítési eljárást, ha a különböző becslőjárásba vagy osztályozási vidékbe tartozó települések határa területrész átadása-átvétele következtében megváltozik.
+
+(5) A több megye területére kiterjedő becslőjárás, illetve osztályozási vidék esetén a járási mintaterek felülvizsgálatával, újak kijelölésével kapcsolatos feladatokat – az érintett megyei kormányhivatalok javaslatainak figyelembevételével – a legnagyobb területtel érintett megyei (fővárosi) kormányhivatal látja el.
