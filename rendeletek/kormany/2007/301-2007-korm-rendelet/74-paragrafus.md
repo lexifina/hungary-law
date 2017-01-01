@@ -1,10 +1,10 @@
-## 73. §[^167] Az elismerését kérő menekültként, oltalmazottként vagy menedékesként történő elismerése esetén a Tv. 42. § (1) bekezdésében meghatározott kapcsolatfelvétel tilalma az elismerés visszavonásáról rendelkező jogorvoslattal tovább nem támadható döntés meghozataláig áll fenn.
+## 73. §[^168] Az elismerését kérő menekültként, oltalmazottként vagy menedékesként történő elismerése esetén a Tv. 42. § (1) bekezdésében meghatározott kapcsolatfelvétel tilalma az elismerés visszavonásáról rendelkező jogorvoslattal tovább nem támadható döntés meghozataláig áll fenn.
 
-74. § (1)[^168] Az eljárási képességgel nem rendelkező elismerését kérőt törvényes képviselője vagy ügygondnoka vagy gyermekvédelmi gyámja jelenlétében kell meghallgatni.
+74. § (1)[^169] Az eljárási képességgel nem rendelkező elismerését kérőt törvényes képviselője vagy ügygondnoka vagy gyermekvédelmi gyámja jelenlétében kell meghallgatni.
 
-(2)[^169] Az ügygondnok vagy gyermekvédelmi gyám a személyes meghallgatásról, az arra való felkészülés módjáról, valamint annak következményeiről az elismerését kérőt tájékoztatni köteles.
+(2)[^170] Az ügygondnok vagy gyermekvédelmi gyám a személyes meghallgatásról, az arra való felkészülés módjáról, valamint annak következményeiről az elismerését kérőt tájékoztatni köteles.
 
-(3)[^170] Ha az eljárási képességgel nem rendelkező elismerését kérő törvényes képviselőjének a személyes meghallgatáson való jelenléte a tényállás tisztázását akadályozná, a menekültügyi hatóság köteles eseti gondnok vagy eseti gyám kirendelését kérni.
+(3)[^171] Ha az eljárási képességgel nem rendelkező elismerését kérő törvényes képviselőjének a személyes meghallgatáson való jelenléte a tényállás tisztázását akadályozná, a menekültügyi hatóság köteles eseti gondnok vagy eseti gyám kirendelését kérni.
 
 (4) Az eljárási képességgel rendelkező családtagokat külön-külön kell meghallgatni. Ha a tényállás tisztázása érdekében szükséges, a menekültügyi hatóság a családtagokat egymás jelenlétében is meghallgatja.
 
@@ -20,10 +20,10 @@ a) a meghallgatás idejére a menekültügyi hatóság kizárólagos használat�
 
 b) az elismerését kérő személyes meghallgatáson történő megjelenéséről.
 
-(9)[^171] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
+(9)[^172] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
 
-[^167]: A 73. § a 204/2015. (VII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^168]: A 74. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^169]: A 74. § (2) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
-[^170]: A 74. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^171]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.
+[^168]: A 73. § a 204/2015. (VII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^169]: A 74. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^170]: A 74. § (2) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^171]: A 74. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^172]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.

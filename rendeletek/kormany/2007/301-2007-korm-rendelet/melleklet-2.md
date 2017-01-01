@@ -1,3 +1,3 @@
-2. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^226]
+2. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^227]
 
-[^226]: A 2. melléklet a 446/2013. (XI. 28.) Korm. rendelet 37. § a) pontjával megállapított szöveg.
+[^227]: A 2. melléklet a 446/2013. (XI. 28.) Korm. rendelet 37. § a) pontjával megállapított szöveg.

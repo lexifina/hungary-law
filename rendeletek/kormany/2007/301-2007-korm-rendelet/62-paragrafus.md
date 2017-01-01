@@ -28,10 +28,10 @@ c) az elismerés iránti kérelmet.
 
 (8) A menekültügyi hatóság a fogva tartott külföldi számára a kérelem benyújtásának lehetőségét a fogva tartás helyén biztosítja.
 
-(9)[^151] A menekültügyi hatóság ügygondnok kirendelése iránt a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) keresi meg.
+(9)[^151] A menekültügyi hatóság a Tv. 35. § (5) bekezdése szerinti esetben ügygondnok kirendelése iránt a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) keresi meg.
 
 [^147]: A 61–61/N. §-t és a 61. §-t megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte.
 [^148]: A 62. § (1) bekezdés első mondatát a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^149]: A 62. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^150]: A 62. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 110. §-ával megállapított szöveg.
-[^151]: A 62. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 109. § c) pontja szerint módosított szöveg.
+[^151]: A 62. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 109. § c) pontja, a 440/2016. (XII. 16.) Korm. rendelet 13. §-a szerint módosított szöveg.
