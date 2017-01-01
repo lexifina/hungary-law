@@ -1,4 +1,4 @@
-24. § (1)[^6]
+24. § (1)[^10]
 
 (2) A felügyeleti eljárás keretében a hatóság egy alkalommal jogosult a beruházótól adatokat és információkat bekérni. A beruházó a hatóság kérésének 15 napon belül köteles eleget tenni.
 
@@ -10,4 +10,4 @@
 
 (6) A hatóság a felügyeleti eljárás során elfogadott, jogerőssé vált határozatokat a jogerőssé válást követő 15 napon belül a honlapján közzéteszi.
 
-[^6]: A 24. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 204. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 24. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 204. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

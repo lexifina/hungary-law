@@ -1,4 +1,4 @@
-## 30/A. §[^7] E rendeletnek az emisszió-kereskedelemmel összefüggésben ellátandó feladatok szabályozásával kapcsolatos jogszabályok módosításáról szóló 131/2015. (V. 27.) Korm. rendelettel megállapított 1. § 5. pontját az emisszió-kereskedelemmel összefüggésben ellátandó feladatok szabályozásával kapcsolatos jogszabályok módosításáról szóló 131/2015. (V. 27.) Korm. rendelet hatálybalépésekor[^8] folyamatban lévő eljárásokban is alkalmazni kell.
+## 30/A. §[^11] E rendeletnek az emisszió-kereskedelemmel összefüggésben ellátandó feladatok szabályozásával kapcsolatos jogszabályok módosításáról szóló 131/2015. (V. 27.) Korm. rendelettel megállapított 1. § 5. pontját az emisszió-kereskedelemmel összefüggésben ellátandó feladatok szabályozásával kapcsolatos jogszabályok módosításáról szóló 131/2015. (V. 27.) Korm. rendelet hatálybalépésekor[^12] folyamatban lévő eljárásokban is alkalmazni kell.
 
 31. § (1) Ez a rendelet
 
@@ -14,5 +14,5 @@ a) a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c.
 
 b) a Magyarország által a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkének (5) bekezdése alapján benyújtott, a villamosenergia-termelés korszerűsítése céljából átmenetileg ingyenes kibocsátási egységek kiosztására vonatkozó kérelemről szóló, 2012. november 30-i C(2012) 8675 számú bizottsági határozat
 
-[^7]: A 30/A. §-t a 131/2015. (V. 27.) Korm. rendelet 23. §-a iktatta be.
-[^8]: A hatálybalépés időpontja 2015. június 12.
+[^11]: A 30/A. §-t a 131/2015. (V. 27.) Korm. rendelet 23. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2015. június 12.
