@@ -5828,215 +5828,19 @@ Udvari
 
 Varsád
 
-18. Vas megye
+18.[^3] Vas megye
 
-18.1. Körmendi Járási Hivatal
+18.1. Celldömölki Járási Hivatal
 
-18.1.1. Székhelye: Körmend
-
-Munkaerőpiaci pont: Szentgotthárd
-
-Munkaerőpiaci pont: Vasvár
+18.1.1. Székhelye: Celldömölk
 
 18.1.2. Illetékesség:
-
-Alsószölnök
-
-Alsóújlak
-
-Andrásfa
-
-Apátistvánfalva
-
-Bajánsenye
-
-Bérbaltavár
-
-Csákánydoroszló
-
-Csehi
-
-Csehimindszent
-
-Csipkerek
-
-Csörötnek
-
-Daraboshegy
-
-Döbörhegy
-
-Döröske
-
-Egervölgy
-
-Egyházashollós
-
-Egyházasrádóc
-
-Felsőjánosfa
-
-Felsőmarác
-
-Felsőszölnök
-
-Gasztony
-
-Gersekarát
-
-Győrvár
-
-Halastó
-
-Halogy
-
-Harasztifalu
-
-Hegyháthodász
-
-Hegyhátsál
-
-Hegyhátszentjakab
-
-Hegyhátszentmárton
-
-Hegyhátszentpéter
-
-Ispánk
-
-Ivánc
-
-Katafa
-
-Kám
-
-Kemestaródfa
-
-Kercaszomor
-
-Kerkáskápolna
-
-Kétvölgy
-
-Kisrákos
-
-Körmend
-
-Kondorfa
-
-Magyarlak
-
-Magyarnádalja
-
-Magyarszecsőd
-
-Magyarszombatfa
-
-Mikosszéplak
-
-Molnaszecsőd
-
-Nagykölked
-
-Nagymizdó
-
-Nagyrákos
-
-Nagytilaj
-
-Nádasd
-
-Nemesmedves
-
-Nemesrempehollós
-
-Olaszfa
-
-Orfalu
-
-Oszkó
-
-Őrimagyarósd
-
-Őriszentpéter
-
-Pankasz
-
-Pácsony
-
-Petőmihályfa
-
-Pinkamindszent
-
-Püspökmolnári
-
-Rábagyarmat
-
-Rábahídvég
-
-Rádóckölked
-
-Rátót
-
-Rönök
-
-Sárfimizdó
-
-Szaknyér
-
-Szakonyfalu
-
-Szalafő
-
-Szarvaskend
-
-Szatta
-
-Szemenye
-
-Szentgotthárd
-
-Szőce
-
-Telekes
-
-Vasalja
-
-Vasszentmihály
-
-Vasvár
-
-Velemér
-
-Viszák
-
-18.2. Sárvári Járási Hivatal
-
-18.2.1. Székhelye: Sárvár
-
-Munkaerőpiaci pont: Celldömölk
-
-18.2.2. Illetékesség:
-
-Bejcgyertyános
 
 Boba
 
 Borgáta
 
-Bögöt
-
-Bögöte
-
-Bő
-
 Celldömölk
-
-Chernelházadamonya
-
-Csánig
-
-Csénye
 
 Csönge
 
@@ -6044,29 +5848,9 @@ Duka
 
 Egyházashetye
 
-Gérce
-
-Gór
-
-Hegyfalu
-
-Hosszúpereszteg
-
-Ikervár
-
-Jákfa
-
 Jánosháza
 
 Karakó
-
-Kenyeri
-
-Kissomlyó
-
-Köcsk
-
-Káld
 
 Keléd
 
@@ -6082,19 +5866,15 @@ Kemenessömjén
 
 Kemenesszentmárton
 
-Kenéz
+Kenyeri
 
-Megyehíd
+Kissomlyó
 
-Meggyeskovácsi
+Köcsk
 
 Mersevát
 
-Mesterháza
-
 Mesteri
-
-Nagygeresd
 
 Nagysimonyi
 
@@ -6102,17 +5882,213 @@ Nemeskeresztúr
 
 Nemeskocs
 
+Ostffyasszonyfa
+
+Pápoc
+
+Szergény
+
+Tokorcs
+
+Vönöck
+
+18.2. Körmendi Járási Hivatal
+
+18.2.1. Székhelye: Körmend
+
+18.2.2. Illetékesség:
+
+Bajánsenye
+
+Csákánydoroszló
+
+Daraboshegy
+
+Döbörhegy
+
+Döröske
+
+Egyházashollós
+
+Egyházasrádóc
+
+Felsőjánosfa
+
+Felsőmarác
+
+Halastó
+
+Halogy
+
+Harasztifalu
+
+Hegyháthodász
+
+Hegyhátsál
+
+Hegyhátszentjakab
+
+Hegyhátszentmárton
+
+Ispánk
+
+Ivánc
+
+Katafa
+
+Kemestaródfa
+
+Kercaszomor
+
+Kerkáskápolna
+
+Kisrákos
+
+Körmend
+
+Magyarnádalja
+
+Magyarszecsőd
+
+Magyarszombatfa
+
+Molnaszecsőd
+
+Nagykölked
+
+Nagymizdó
+
+Nagyrákos
+
+Nádasd
+
+Nemesrempehollós
+
+Őrimagyarósd
+
+Őriszentpéter
+
+Pankasz
+
+Pinkamindszent
+
+Rádóckölked
+
+Szaknyér
+
+Szalafő
+
+Szarvaskend
+
+Szatta
+
+Szőce
+
+Vasalja
+
+Velemér
+
+Viszák
+
+18.3. Kőszegi Járási Hivatal
+
+18.3.1. Székhelye: Kőszeg
+
+18.3.2. Illetékesség:
+
+Bozsok
+
+Bük
+
+Cák
+
+Csepreg
+
+Gyöngyösfalu
+
+Horvátzsidány
+
+Iklanberény
+
+Kiszsidány
+
+Kőszeg
+
+Kőszegdoroszló
+
+Kőszegpaty
+
+Kőszegszerdahely
+
+Lócs
+
+Lukácsháza
+
+Nemescsó
+
+Ólmod
+
+Peresznye
+
+Pusztacsó
+
+Tormásliget
+
+Tömörd
+
+Velem
+
+18.4. Sárvári Járási Hivatal
+
+18.4.1. Székhelye: Sárvár
+
+18.4.2. Illetékesség:
+
+Bejcgyertyános
+
+Bögöt
+
+Bögöte
+
+Bő
+
+Chernelházadamonya
+
+Csánig
+
+Csénye
+
+Gérce
+
+Gór
+
+Hegyfalu
+
+Hosszúpereszteg
+
+Ikervár
+
+Jákfa
+
+Káld
+
+Kenéz
+
+Megyehíd
+
+Meggyeskovácsi
+
+Mesterháza
+
+Nagygeresd
+
 Nemesládony
 
 Nick
 
 Nyőgér
 
-Ostffyasszonyfa
-
 Ölbő
-
-Pápoc
 
 Pecöl
 
@@ -6138,10 +6114,6 @@ Sótony
 
 Szeleste
 
-Szergény
-
-Tokorcs
-
 Tompaládony
 
 Uraiújfalu
@@ -6154,17 +6126,51 @@ Vámoscsalád
 
 Vásárosmiske
 
-Vönöck
-
 Zsédeny
 
-18.3. Szombathelyi Járási Hivatal
+18.5. Szentgotthárdi Járási Hivatal
 
-18.3.1. Székhelye: Szombathely
+18.5.1. Székhelye: Szentgotthárd
 
-Munkaerőpiaci pont: Kőszeg
+18.5.2. Illetékesség:
 
-18.3.2. Illetékesség:
+Alsószölnök
+
+Apátistvánfalva
+
+Csörötnek
+
+Felsőszölnök
+
+Gasztony
+
+Kétvölgy
+
+Kondorfa
+
+Magyarlak
+
+Nemesmedves
+
+Orfalu
+
+Rábagyarmat
+
+Rátót
+
+Rönök
+
+Szakonyfalu
+
+Szentgotthárd
+
+Vasszentmihály
+
+18.6. Szombathelyi Járási Hivatal
+
+18.6.1. Székhelye: Szombathely
+
+18.6.2. Illetékesség:
 
 Acsád
 
@@ -6172,17 +6178,9 @@ Balogunyom
 
 Bozzai
 
-Bozsok
-
 Bucsu
 
-Bük
-
-Cák
-
 Csempeszkopács
-
-Csepreg
 
 Dozmat
 
@@ -6192,31 +6190,11 @@ Gencsapáti
 
 Gyanógeregye
 
-Gyöngyösfalu
-
 Horvátlövő
-
-Horvátzsidány
-
-Iklanberény
 
 Ják
 
 Kisunyom
-
-Kiszsidány
-
-Kőszeg
-
-Kőszegdoroszló
-
-Kőszegpaty
-
-Kőszegszerdahely
-
-Lócs
-
-Lukácsháza
 
 Meszlen
 
@@ -6226,19 +6204,11 @@ Nárai
 
 Nemesbőd
 
-Nemescsó
-
 Nemeskolta
-
-Ólmod
 
 Perenye
 
-Peresznye
-
 Pornóapáti
-
-Pusztacsó
 
 Rábatöttös
 
@@ -6266,10 +6236,6 @@ Táplánszentkereszt
 
 Torony
 
-Tormásliget
-
-Tömörd
-
 Vasasszonyfa
 
 Vaskeresztes
@@ -6282,11 +6248,61 @@ Vasszilvágy
 
 Vát
 
-Velem
-
 Vép
 
 Zsennye
+
+18.7. Vasvári Járási Hivatal
+
+18.7.1. Székhelye: Vasvár
+
+18.7.2 Illetékesség:
+
+Alsóújlak
+
+Andrásfa
+
+Bérbaltavár
+
+Csehi
+
+Csehimindszent
+
+Csipkerek
+
+Egervölgy
+
+Gersekarát
+
+Győrvár
+
+Hegyhátszentpéter
+
+Kám
+
+Mikosszéplak
+
+Nagytilaj
+
+Olaszfa
+
+Oszkó
+
+Pácsony
+
+Petőmihályfa
+
+Püspökmolnári
+
+Rábahídvég
+
+Sárfimizdó
+
+Szemenye
+
+Telekes
+
+Vasvár
 
 19. Veszprém megye
 
@@ -7332,3 +7348,4 @@ Zalatárnok
 
 [^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
