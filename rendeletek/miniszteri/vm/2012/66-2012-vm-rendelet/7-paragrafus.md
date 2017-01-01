@@ -1,5 +1,6 @@
-7. § (1) Az e rendelet szerinti támogatással összefüggő adatok nyilvántartásával és ellenőrzésével kapcsolatos feladatokat az MVH látja el.
+7. § (1)[^19] Az e rendelet szerinti támogatással összefüggő adatok nyilvántartásával és ellenőrzésével kapcsolatos feladatokat a Kincstár látja el.
 
-(2)[^14] Az MVH a helyszíni ellenőrzés során az üzemnapló, az azt alátámasztó dokumentumok és a mérőberendezések által mutatott adatok alapján ellenőrzi a szárított takarmány előállítás során teljesített műszakórákat és az előállított szárított takarmány mennyiséget, valamint megállapítja a szárított takarmány előállításra ténylegesen felhasznált tárgyévi tüzelőanyag mennyiséget, az átlagos fűtőértéket, és a felhasznált hőenergia mennyiséget.
+(2)[^20] A Kincstár a helyszíni ellenőrzés során az üzemnapló, az azt alátámasztó dokumentumok és a mérőberendezések által mutatott adatok alapján ellenőrzi a szárított takarmány előállítás során teljesített műszakórákat és az előállított szárított takarmány mennyiséget, valamint megállapítja a szárított takarmány előállításra ténylegesen felhasznált tárgyévi tüzelőanyag mennyiséget, az átlagos fűtőértéket, és a felhasznált hőenergia mennyiséget.
 
-[^14]: A 7. § (2) bekezdése a 27/2013. (IV. 26.) VM rendelet 13. §-ával megállapított szöveg.
+[^19]: A 7. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 51. § b) pontja szerint módosított szöveg.
+[^20]: A 7. § (2) bekezdése a 27/2013. (IV. 26.) VM rendelet 13. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 51. § e) pontja szerint módosított szöveg.
