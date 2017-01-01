@@ -1,4 +1,4 @@
-## 8. § A Mezőgazdasági és Vidékfejlesztési Hivatalról szóló 256/2007. (X. 4.) Korm. rendelet 7/A. § (1) és (2) bekezdésében az „árutermő-, törzs- és kísérleti szőlő” szövegrész helyébe az „árutermő-, törzs- és kísérleti szőlő (kivéve a csemege- és alanyszőlő)” szövegrész lép.
+## 8. §[^17]
 
 1. melléklet a 231/2010. (VIII. 18.) Korm. rendelethez
 
@@ -8,7 +8,7 @@
 
 1.1. ha a kérelmező természetes személy, a kérelmező természetes személyazonosító adatai és lakcíme,
 
-1.2.[^19] ha a kérelmező a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a kérelmező megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése,
+1.2.[^18] ha a kérelmező a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a kérelmező megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése,
 
 1.3. a kérelmezőnek a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti regisztrációs száma, alanyszőlő esetében faiskolai engedélyének száma.
 
@@ -46,7 +46,7 @@
 
 4.1. ha a tulajdonos természetes személy, a tulajdonos természetes személyazonosító adatai és lakcíme,
 
-4.2.[^20] ha a tulajdonos a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a tulajdonos megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése.
+4.2.[^19] ha a tulajdonos a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a tulajdonos megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése.
 
 5. A kérelmező nyilatkozata, amely szerint tudomásul veszi, hogy a kérelemben foglalt személyes adatait a hatóság a csemegeszőlő vagy alanyszőlő ültetvényekkel kapcsolatos engedélyezés és ellenőrzés céljából kezeli.
 
@@ -54,5 +54,6 @@
 
 7. A kérelmező aláírása.
 
-[^19]: Az 1. melléklet 1.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^20]: Az 1. melléklet 4.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^17]: A 8. §-t a 379/2016. (XII. 2.) Korm. rendelet 160. § (6) bekezdése hatályon kívül helyezte.
+[^18]: Az 1. melléklet 1.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet 4.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
