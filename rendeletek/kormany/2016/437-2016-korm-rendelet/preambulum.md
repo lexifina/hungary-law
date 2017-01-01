@@ -1,0 +1,1 @@
+A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 437. § g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
