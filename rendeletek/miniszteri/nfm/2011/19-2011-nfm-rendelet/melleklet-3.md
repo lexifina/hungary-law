@@ -26,4 +26,4 @@
 
 3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^129]
 
-[^129]: A 3. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^129]: A 3. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (2) bekezdésével megállapított, a 33. § e) pontja szerint módosított szöveg.

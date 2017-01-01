@@ -6,7 +6,7 @@
 
 2. időszakos oktatás: az 1. mellékletben meghatározott munkakör betöltéséhez, feladatkör ellátásához szükséges, a vasúti közlekedés biztonságával összefüggő ismeretek szinten tartása, és új ismeretek elsajátítása céljából, a 2. mellékletben meghatározott időtartamban és gyakorisággal szervezett elméleti és gyakorlati oktatás;
 
-3.[^1] üzemvezetői munkakörök: vasúti társaságoknál az 1. mellékletben meghatározott feladatkört ellátó vasútüzem-vezető, sikló üzemvezető, függőpálya üzemvezető, sífelvonó üzemvezető, mozgólépcső üzemvezető munkakörben foglalkoztatott munkavállalók;
+3.[^1] üzemvezetői munkakörök: vasúti társaságoknál az 1. mellékletben meghatározott feladatkört ellátó vasútüzem-vezető, mozgólépcső üzemvezető munkakörben foglalkoztatott munkavállalók;
 
 4. vasúti járművezetői gyakorlat: a vasúti járművezetői tevékenység önálló végzéséhez szükséges, a sikeres alapvizsga után a 3. mellékletben meghatározott gyakorlat teljesítése más vasúti járművezető kísérete mellett;
 
@@ -32,7 +32,7 @@
 
 15.[^9] képzési központ: az alapképzés végzésére jogosult olyan szervezet, amelynek a hatóság a tanfolyamok szervezésére vonatkozó bejelentését tudomásul vette.
 
-[^1]: A 2. § 3. pontja a 10/2012. (II. 15.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § 3. pontja a 10/2012. (II. 15.) NFM rendelet 1. § (1) bekezdésével megállapított, a 33/2016. (VIII. 2.) NFM rendelet 33. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § 8. pontja a 22/2015. (V. 6.) NFM rendelet 39. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 9. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^4]: A 2. § 10. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.

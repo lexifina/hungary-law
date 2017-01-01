@@ -156,17 +156,7 @@
 
 | 7. | Vasúti munkavezető | - Betöltött 18. életév - Középfokú végzettség | A vasúti közlekedés biztonságával összefüggő témakörök: 1. Jelzési ismeretek 2. Forgalmi ismeretek Kiegészítő témakörök: – Tűzvédelmi ismeretek – Egészségügyi ismeretek – Környezetvédelmi ismeretek – Munkavédelmi ismeretek – Pályavasúti berendezés ismeretek (távközlő-berendezés ismeret) | Elméleti: Írásbeli, szóbeli 1. Jelzési ismeretek 2. Forgalmi ismeretek | 1 fő vizsgabiztos | --- | - Vasúti munkavezető - Vonalgondozó - Előmunkás |
 
-## II.2.5. Sikló-, függőpálya, sífelvonó
-
-| A | B | C | D | E | F | G | H |
-
-| Sor-szám | Képzés és a hozzá kapcsolódó hatósági vizsga megnevezése | A képzésben való részvétel feltételei | A képzés témakörei | Hatósági vizsga vizsgatevékenységek, témakörök | Vizsgáztatásra jogosult | A vizsga megfeleltetése | Betölthető munkakörök megnevezése |
-
-| 1. | Siklókezelő | - Betöltött 18. életév - Középfokú végzettség | A vasúti közlekedés biztonságával összefüggő témakörök 1. Műszaki alapismeretek 2. Villamossági ismeretek 3. Gépészeti-berendezési ismeretek 4. Fék- és biztosítóberendezési ismeretek 5. Az üzemeltetési szabályzat (szolgálati utasítás) ismeret 6. Hibakeresés és hibaelhárítás 7. Kezelési gyakorlat Kiegészítő témakörök: – Tűzvédelmi ismeretek – Egészségügyi ismeretek – Környezetvédelmi ismeretek – Munkavédelmi ismeretek | Elméleti: Írásbeli, szóbeli 1. Az üzemeltetési szabályzat (szolgálati utasítás) ismeret 2. Gépészeti-berendezési ismeretek 3. Fék- és biztosítóberendezési ismeretek Gyakorlati: 1. Kezelési gyakorlat 2. Hibakeresés és hibaelhárítás | 1 fő vizsgabiztos | --- | - Sikló-üzemvezető - Siklókezelő |
-
-| 2. | Függőpálya-kezelő | - Betöltött 18. életév - Középfokú végzettség | A vasúti közlekedés biztonságával összefüggő témakörök 1. Műszaki alapismeretek 2. Villamossági ismeretek 3. Gépészeti-berendezési ismeretek 4. Fék- és biztosítóberendezési ismeretek 5. Az üzemeltetési szabályzat (szolgálati utasítás) ismeret 6. Hibakeresés és hibaelhárítás 7. Kezelési gyakorlat Kiegészítő témakörök: – Tűzvédelmi ismeretek – Egészségügyi ismeretek – Környezetvédelmi ismeretek – Munkavédelmi ismeretek | Elméleti: Írásbeli, szóbeli 1. Az üzemeltetési szabályzat (szolgálati utasítás) ismeret 2. Gépészeti-berendezési ismeretek 3. Fék- és biztosítóberendezési ismeretek Gyakorlati: 1. Kezelési gyakorlat 2. Hibakeresés és hibaelhárítás | 1 fő vizsgabiztos | --- | - Függőpálya-üzemvezető - Függőpálya-kezelő |
-
-| 3. | Sífelvonó-kezelő | - Betöltött 18. életév - Középfokú végzettség | A vasúti közlekedés biztonságával összefüggő témakörök 1. Műszaki alapismeretek 2. Villamossági ismeretek 3. Gépészeti-berendezési ismeretek 4. Fék- és biztosítóberendezési ismeretek 5. Az üzemeltetési szabályzat (szolgálati utasítás) ismeret 6. Hibakeresés és hibaelhárítás 7. Kezelési gyakorlat Kiegészítő témakörök: – Tűzvédelmi ismeretek – Egészségügyi ismeretek – Környezetvédelmi ismeretek – Munkavédelmi ismeretek | Elméleti: Írásbeli, szóbeli 1. Az üzemeltetési szabályzat (szolgálati utasítás) ismeret 2. Gépészeti-berendezési ismeretek 3. Fék- és biztosítóberendezési ismeretek Gyakorlati: 1. Kezelési gyakorlat 2. Hibakeresés és hibaelhárítás | 1 fő vizsgabiztos | --- | - Sífelvonó-üzemvezető - Sífelvonó-kezelő |
+## II.2.5.
 
 ## III. Mozgólépcső (mozgójárda), tolópad és fordítókorong
 
