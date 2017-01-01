@@ -14,6 +14,6 @@ c) az ingatlan telepítéssel érintett területének azonosításra alkalmas v�
 
 d) a 2. § (2) bekezdésének a) pontja szerinti igazolást sarjaztatásos ültetvény esetén.
 
-(2)[^8] Az Erdészeti Hatóság a kérelemről a telepítéshez alkalmazni kívánt faj és fajta tulajdonságainak és az ökoszisztémára gyakorolt hatásának vizsgálatát követően a termőhelyi adottságok figyelembevételével dönt.
+(2)[^9] Az Erdészeti Hatóság a kérelemről a telepítéshez alkalmazni kívánt faj és fajta tulajdonságainak és az ökoszisztémára gyakorolt hatásának vizsgálatát követően a termőhelyi adottságok figyelembevételével dönt.
 
-[^8]: A 4. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 177. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 94. § c) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 177. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 94. § c) pontja szerint módosított szöveg.
