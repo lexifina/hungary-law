@@ -1,6 +1,6 @@
 A Kormány
 
-1. felhatalmazza az érintett minisztereket a külföldi oktatói mobilitás nemzetközi igényeinek felmérésére, feltételeiről való tárgyalások folytatására, valamint a külpolitikai prioritások mentén kétoldalú oktatási csere-megállapodások keretén belül a Balassi Intézet Vendégoktatói Irodával egyeztetve oktatói álláshelyek létrehozására és támogatására;
+1.[^1] felhatalmazza az érintett minisztereket a külföldi oktatói mobilitás nemzetközi igényeinek felmérésére, feltételeiről való tárgyalások folytatására, valamint a külpolitikai prioritások mentén kétoldalú oktatási csere-megállapodások keretén belül a külgazdasági és külügyminiszterrel egyeztetve oktatói álláshelyek létrehozására és támogatására;
 
 Felelős: emberi erőforrások minisztere
 
@@ -21,3 +21,5 @@ Határidő: 2013. szeptember 15.
 Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: 2013. november 30.
+
+[^1]: Az 1. pont az 1853/2016. (XII. 27.) Korm. határozat 37. pontja szerint módosított szöveg.
