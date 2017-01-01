@@ -1,0 +1,1 @@
+## 2. § Az Állandó Képviselet kormánytisztviselői és kormányzati ügykezelői tevékenységük kiemelt jelentőségére és összetettségére tekintettel 2017. január 1. napjától 2017. július 31. napjáig terjedő időszakban az 1. § szerint megállapított alapellátmány mellett havi bruttó 350 euró alapellátmány-kiegészítésre jogosultak.

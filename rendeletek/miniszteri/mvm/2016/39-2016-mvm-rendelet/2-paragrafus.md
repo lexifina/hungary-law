@@ -1,0 +1,1 @@
+## 1. § A Magyarország Európai Unió melletti Állandó Képviseletén (a továbbiakban: Állandó Képviselet) foglalkoztatott – a Miniszterelnökséggel kormányzati szolgálati jogviszonyban álló – kormánytisztviselők és kormányzati ügykezelők alapellátmányának bruttó havi összege 1585 euró.
