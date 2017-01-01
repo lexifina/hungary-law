@@ -1,0 +1,1 @@
+## „A Koordináló szerv a fejezeti kezelésű előirányzat kezelőjétől (a továbbiakban: előirányzat kezelője) a szolgáltatási díj és az ideiglenes ellátás ingatlanhasználó részére kiszámlázott díja közötti negatív különbözet, valamint a Koordináló szerv – az ellátás rendszerének működtetésével összefüggő – igazolt többletköltségei megtérítését kérheti.”
