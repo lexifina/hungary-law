@@ -8,13 +8,13 @@
 
 | 3. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 4. | földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 5. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
+| 5. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 6. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 6. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 7. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 7. |  |  | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -24,32 +24,30 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
+| 1. | Szakhatósági közreműködés tárgyköre | Első fokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
 
 | 2. | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 3. | Környezetvédelem és természetvédelem | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | Környezetvédelem és természetvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 4. | Vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | Vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. |  |  |  |
+| 5. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 7. | Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 7. | Közlekedés: közút | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 8. | Közlekedés: közút | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
+| 8. | Rendészet: a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budapest V. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 9. | Rendészet: a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budapest V. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
+| 9. | Egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 10. | Egészségügy | Budapest Főváros Kormányhivatala | Országos Tisztifőorvosi Hivatal |
+| 10. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 11. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 11. | Műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 12. | Műszaki biztonság | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 12. | Földtan, bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 13. | Földtan, bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 14. | Honvédelem | honvédelemért felelős miniszter | nincs |
-
-[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 72. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 36. §-a, a 271/2016. (IX. 1.) Korm. rendelet 49. § (2)–(3) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
