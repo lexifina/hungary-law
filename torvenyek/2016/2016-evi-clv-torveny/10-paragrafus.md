@@ -1,0 +1,1 @@
+10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vezetői munkakört betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.

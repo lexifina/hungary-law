@@ -1,0 +1,1 @@
+51. § A KSH – e törvény hatálybalépése előtt kinevezett – elnökének és elnökhelyettesének megbízatása a jelen törvény hatálybalépésével egyidejűleg a 13. § (1), illetve (2) bekezdése szerinti kinevezéssé alakul át.

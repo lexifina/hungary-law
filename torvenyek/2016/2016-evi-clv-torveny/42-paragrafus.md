@@ -1,0 +1,1 @@
+42. § A Hivatalos Statisztikai Szolgálat tagja jogosult a kezelésében lévő, személyes adatokat tartalmazó adatbázisokat hivatalos statisztikai tevékenység céljából a cél eléréséhez szükséges mértékben és ideig, szervezeten belül összekapcsolni.
