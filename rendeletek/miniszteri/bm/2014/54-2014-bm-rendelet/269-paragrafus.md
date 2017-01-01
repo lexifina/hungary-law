@@ -23,5 +23,3 @@ h) a csővezeték légteleníthetőségét.
 (4) A tűzcsapszekrényből az oda nem illő tárgyakat a felülvizsgálatot végző személy eltávolítja.
 
 (5) A teljes száraztűzivízvezeték-rendszer nyomáspróbája 5 évenként vízzel történik, a próbanyomás értéke – a betápláló csonknál mérve – 1,5 MPa, a nyomáspróba alatt az elzáró szerelvényeknél minimális csepegés megengedett.
-
-(6) Pinceszinti és nehezen megközelíthető területek védelmére kialakított száraztűzivízvezeték-rendszer féléves felülvizsgálata során a felülvizsgálatot végző személy az általános feladatokon felül ellenőrzi a tűzvédelmi hatóság által előírt csatlakozási lehetőségek meglétét, megfelelőségét.
