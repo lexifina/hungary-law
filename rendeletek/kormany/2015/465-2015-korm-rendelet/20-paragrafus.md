@@ -1,3 +1,3 @@
-## 11–19. §[^4]
+## 11–19. §[^5]
 
-[^4]: A 11–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 11–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
