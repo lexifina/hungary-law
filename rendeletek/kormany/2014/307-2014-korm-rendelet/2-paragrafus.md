@@ -6,6 +6,6 @@ a) a döntést az adott hatósági eljárásra vonatkozó jogszabályokban megha
 
 b) hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(2)[^1]
+(2)[^2]
 
-[^1]: A 2. § (2) bekezdését a 72/2015. (III. 30.) Korm. rendelet 101. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
+[^2]: A 2. § (2) bekezdését a 72/2015. (III. 30.) Korm. rendelet 101. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
