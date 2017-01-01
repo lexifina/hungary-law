@@ -1,3 +1,0 @@
-30. § (1) A 8. § (1) bekezdés c) és e) pontja szerinti támogatási jogcímek esetén a támogatási kérelmet az MVH által rendszeresített, és az MVH honlapján közzétett nyomtatványon lehet visszavonni. A nyomtatvány az ügyfél azonosításához szükséges és az igényelt támogatásra vonatkozó adatokat és nyilatkozatokat tartalmazza.
-
-(2) A 8. § (1) bekezdés c) és e) pontja szerinti támogatási jogcímek esetén az elháríthatatlan külső ok (vis maior) miatti igazolási kérelem az MVH által rendszeresített, és az MVH honlapján közzétett nyomtatványon nyújtható be. A nyomtatvány az ügyfél azonosításához szükséges, a vis maior esetre és a vis maiorral érintett állatokra vonatkozó adatokat tartalmazza.
