@@ -44,7 +44,7 @@
 
 ## 2.1. jelmagyarázatot,
 
-## 2.2. elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, eredeti aláírását, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát, a megrendelő eredeti aláírását,
+## 2.2. elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
 
 ## 2.3. szükség szerint metszetrajzot, helyszínrajzot;
 
@@ -108,7 +108,7 @@
 
 ## 4.2. kapcsolási vázlatot,
 
-## 4.3. a telepítés helyét képező szintek alaprajzát, amely tartalmazza a berendezés részegységeinek, elemeinek pozícióját, a csővezetékek nyomvonalát és dimenzióját, az oltási zónákat (M=1:50-1:250 méretarányban), valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, eredeti aláírását, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát, a megrendelő eredeti aláírását,
+## 4.3. a telepítés helyét képező szintek alaprajzát, amely tartalmazza a berendezés részegységeinek, elemeinek pozícióját, a csővezetékek nyomvonalát és dimenzióját, az oltási zónákat (M=1:50-1:250 méretarányban), valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
 
 ## 4.4. szükség szerint metszetrajzot, helyszínrajzot,
 

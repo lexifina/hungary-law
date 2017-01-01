@@ -30,7 +30,7 @@ c) megszüntetés esetén a 3. melléklet
 
 ## szerinti dokumentációt.
 
-(4) A (2) és a (3) bekezdés szerinti dokumentáció papír alapon vagy elektronikus adathordozón rögzített formában nyújtható be. Elektronikus adathordozón rögzített dokumentáció esetén azt PDF/A formátumban, 300 DPI felbontású ábrákkal kell benyújtani.
+(4)[^1] A (2) és a (3) bekezdés szerinti dokumentáció papír alapon vagy elektronikusan nyújtható be, elektronikusan vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 45. pontja szerinti tartós adathordozón történő benyújtás esetében PDF/A formátumban, 300 DPI felbontású ábrákkal.
 
 (5) A jogerős használatbavételi engedéllyel rendelkező berendezés megszüntetésének engedélyezése abban az esetben kérelmezhető, ha
 
@@ -41,3 +41,5 @@ b) a berendezéssel védett építmény, építményrész maradéktalanul megfel
 c) jogszabályi rendelkezés vagy hatósági előírás alapján létesített berendezés esetén a létesítést megalapozó körülmény nem áll fenn, vagy
 
 d) a berendezés további üzemeltetését a védett építmény, építményrész tűzvédelmi helyzete, a fennálló veszélyhelyzet, az építmény, építményrész nemzetgazdasági, műemlékvédelmi vagy adatvédelmi jellege, az építményben, építményrészben tartózkodók biztonsága vagy a tűzoltóság vonulási távolsága nem indokolja.
+
+[^1]: Az 1. § (4) bekezdése az 58/2016. (XII. 22.) BM rendelet 58. § (1) bekezdésével megállapított szöveg.
