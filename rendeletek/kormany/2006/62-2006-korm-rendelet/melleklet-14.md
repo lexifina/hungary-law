@@ -1,4 +1,4 @@
-14. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^29]
+14. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^28]
 
 Igénylőlap egészségkárosodási és gyermekfelügyeleti támogatáshoz
 
@@ -38,4 +38,4 @@ Megjegyzés:
 
 (11) oszlop: Az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
-[^29]: A 14. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés b) pontja iktatta be.
+[^28]: A 14. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés b) pontja iktatta be.

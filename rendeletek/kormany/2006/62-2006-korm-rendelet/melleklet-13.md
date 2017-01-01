@@ -1,36 +1,42 @@
 ## Igénylőlap ápolási díjhoz
 
-| Fejezet, cím, alcím, jogcímcsoport száma, azonosító sorszáma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Fejezet, cím, alcím, jogcímcsoport száma, azonosító sorszáma □□□□□□□□□□□□□□
 
-| 20⬜⬜. év ⬜⬜. hónapra vonatkozóan teljesített kifizetésekről |
+## 20□□. év □□. hónapra vonatkozóan teljesített kifizetésekről
 
-| Az ellátást folyósító (székhely) kormányhivatal neve: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+## Az ellátást folyósító (székhely) kormányhivatal neve: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-| Sor- szám | Járási hivatal megnevezése | Alanyi (Szt. 44. § (1) bek. a) pont) | Fokozott ápolást igénylő (Szt. 44. § (1) bek. c) pont) | Kiemelt (Szt. 44. § (1) bek. b) pont) | Támoga- tásban részesülők száma összesen (fő) | Tárgy- hónapban történt vissza- fizetés az Szt. 17. §-a alapján (Ft) | Posta- költség (Ft) | Tárgyhavi kifizetés-hez igényelt előleg (Ft) | Előző havi kifizetés- hez igényelt előleg (Ft) | Igényelt összeg mind- összesen (2)+(4)+ (6)-(8)+ (9)+ (10)-(11) |
+| Sor- szám | Járási hivatal megnevezése | Alanyi (Szt. 44. § (1) bek. a) pont) | Fokozott ápolást igénylő (Szt. 44. § (1) bek. c) pont) | Kiemelt (Szt. 44. § (1) bek. b) pont) | Támoga- tásban részesülők száma összesen (fő) | Tárgy- hónapban történt vissza- fizetés az Szt. 17. §-a alapján (Ft) | Az Szt. 43/A. § (4) bekezdése szerinti szakértői díj (Ft) | Posta- költség (Ft) | Tárgyhavi kifizetés- hez igényelt előleg (Ft) | Előző havi kifizetés- hez igényelt előleg (Ft) | Igényelt összeg mind- összesen (2)+(4)+ (6)-(8)+ (9)+ (10)+(11)-(12) |
 
-|  |  | személyek száma (fő) | kifizetendő összeg (Ft) | személyek száma (fő) | kifizetendő összeg (Ft) | személyek száma (fő) | kifizetendő összeg (Ft) |  |  |  |  |  |  |
+|  |  | személyek száma (fő) | kifizetendő összeg (Ft) | személyek száma (fő) | kifizetendő összeg (Ft) | személyek száma (fő) | kifizetendő összeg (Ft) |  |  |  |  |  |  |  |
 
-|  |  | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) |
+|  |  | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) |
 
-| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ... | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
+| ... | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Kelt: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _, ⬜⬜. év ⬜⬜. hó ⬜⬜. nap |
+|  | Kelt: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _, □□□□. év □□. hó □□. nap |
 
-|  | P. H. |
+|  |  |  |  |  |  |  |  |  | P. H. |
 
-|  | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ gazdasági vezető | _ _ _ _ _ _ _ _ _ _ __ _ _ _ kormánymegbízott |
+|  |  |  |  |  |  |  |  |  | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ _ _ _ _ _ |
 
-| Megjegyzések: A (10) oszlopban az igénylés időpontját követően jogerőre emelkedett döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni. A (11) oszlopban az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni. |
+|  |  |  |  |  |  |  |  |  | gazdasági vezető | kormánymegbízott |
 
-13. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^28]
+## Megjegyzések:
+
+## A (11) oszlopban az igénylés időpontját követően jogerőre emelkedett döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni.
+
+## A (12) oszlopban az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
+
+13. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^27]
 
 Igénylőlap foglalkoztatást helyettesítő támogatáshoz
 
@@ -70,4 +76,4 @@ Megjegyzés:
 
 (8) oszlop: Az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
-[^28]: A 13. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés a) pontja iktatta be.
+[^27]: A 13. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés a) pontja iktatta be.
