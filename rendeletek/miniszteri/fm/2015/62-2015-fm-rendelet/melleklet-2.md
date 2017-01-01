@@ -26,6 +26,6 @@
 
 | 12. | szálas fehérjetakarmány-növény termesztés támogatás | 24 320 |
 
-2. melléklet a 62/2015. (X. 12.) FM rendelethez[^2]
+2. melléklet a 62/2015. (X. 12.) FM rendelethez[^3]
 
-[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
