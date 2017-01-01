@@ -1,6 +1,6 @@
 37. § (1) A családi otthonteremtési kedvezmény iránti kérelmet új lakás vásárlása esetén az adásvételi szerződés megkötését követő 120 napon belül, új lakás építése esetén a használatbavételi engedély, használatbavétel tudomásulvételét igazoló hatósági bizonyítvány, illetve egyszerű bejelentéshez kötött épület felépítésének megtörténtét megelőzően kell benyújtani a hitelintézethez.
 
-(1a)[^17] Lakás építése esetén a családi otthonteremtési kedvezmény a kérelem benyújtásakor már megfizetett bekerülési költségre is igényelhető.
+(1a)[^28] A családi otthonteremtési kedvezmény a kérelem benyújtásakor az épület készültségi fokának megfelelő, az építési költségvetésből még fennmaradó bekerülési költségre igényelhető.
 
 (2) Ha az igénylő az (1) bekezdés szerinti határidőn belül nem él a családi otthonteremtési kedvezmény igénylésének lehetőségével, arra a határidő lejártát követően az (1) bekezdés szerinti új lakás vásárlásához a családi otthonteremtési kedvezményére már nem tarthat igényt.
 
@@ -20,4 +20,4 @@
 
 (10) A (9) bekezdés tekintetében lakáscélú állami támogatásnak minősül a lakás-takarékpénztárakról szóló törvény, valamint a lakáscélú állami támogatásokról, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról és az otthonteremtési kamattámogatásról szóló kormányrendelet, a lakásépítési támogatásról szóló kormányrendelet, valamint az e rendelet szerinti állami támogatás.
 
-[^17]: A 37. § (1a) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 8. §-a iktatta be.
+[^28]: A 37. § (1a) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 8. §-a iktatta be, szövege e módosító rendelet 9. §-ával megállapított szöveg.

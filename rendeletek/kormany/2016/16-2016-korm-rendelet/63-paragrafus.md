@@ -16,8 +16,8 @@ e) adóazonosító jel,
 
 f) a gyermek adóazonosító jele.
 
-(2)[^29] A hitelintézet az e § szerinti adatszolgáltatási kötelezettségét az eAdaton található útmutató szerinti formában teljesíti havonta egy alkalommal, a tárgyhónapot követő hónap 10. napjáig.
+(2)[^69] A hitelintézet az e § szerinti adatszolgáltatási kötelezettségét az eAdaton található útmutató szerinti formában teljesíti havonta egy alkalommal, a tárgyhónapot követő hónap 10. napjáig.
 
 (3) A hitelintézet az e § szerinti adatszolgáltatása keretében a lakáscélú nyilvántartások vezetéséhez – a támogatott személy hozzájárulása alapján – elektronikus úton tájékoztatja a Kincstárt a megkötött, megkötött és meghiúsult, a felmondott és lezárt, valamint a megszüntetett e rendelet szerinti támogatás igénybevételére irányuló szerződésekről és a visszafizetett támogatásokról.
 
-[^29]: A 63. § (2) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
+[^69]: A 63. § (2) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.

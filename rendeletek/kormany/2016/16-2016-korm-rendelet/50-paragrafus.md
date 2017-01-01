@@ -12,7 +12,7 @@ d) új lakást a lakáscéltól eltérően hasznosítják,
 
 (2) Nem minősül a 23. § (1) bekezdésében és a 26. § (1) bekezdésében foglalt életvitelszerű tartózkodás megsértésének, ha a támogatott személy vagy az a gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelte, a 23. § (1) bekezdésében és a 26. § (1) bekezdésében meghatározott időtartam vége előtt elhalálozik.
 
-(3) A támogatott személy
+(3)[^44] A támogatott személy
 
 a) a lakás elidegenítését az erre vonatkozó szerződés megkötésétől,
 
@@ -20,6 +20,9 @@ b) a saját maga és azon gyermeke lakóhelyét érintő változást, akire teki
 
 c) a bontást, a lakáscéltól eltérő hasznosítást, a lakás használatának harmadik személy részére történő átengedését annak megkezdésétől
 
-## számított 30 napon belül köteles a kormányhivatalnak bejelenteni az ezekre vonatkozó iratok egyidejű csatolásával. Ha a szerződés létrejöttéhez harmadik személy beleegyezése szükséges, a bejelentési határidő 45 nap, ha a szerződés érvényességéhez hatósági jóváhagyás vagy hatósági nyilvántartásba történő bejegyzés szükséges, a bejelentési határidő az ennek megtörténtét követő 30 nap.
+## számított 30 napon belül köteles a járási hivatalnak bejelenteni az ezekre vonatkozó iratok egyidejű csatolásával. Ha a szerződés létrejöttéhez harmadik személy beleegyezése szükséges, a bejelentési határidő 45 nap, ha a szerződés érvényességéhez hatósági jóváhagyás vagy hatósági nyilvántartásba történő bejegyzés szükséges, a bejelentési határidő az ennek megtörténtét követő 30 nap.
 
-(4) Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
+(4)[^45] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a járási hivatal intézkedik.
+
+[^44]: Az 50. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 14. pontja szerint módosított szöveg.
+[^45]: Az 50. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.

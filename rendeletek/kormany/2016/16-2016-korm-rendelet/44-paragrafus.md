@@ -16,7 +16,7 @@
 
 (9) Új lakás építése esetén az építési engedély vagy az egyszerű bejelentéshez kötött épület felépítésének bejelentését legfeljebb 6 hónappal megelőzően kiállított számla fogadható el.
 
-(10)[^25] Új lakás építése esetén az azonos kibocsátó által kiállított számlák esetében, ha a számlák alapján az igénylő által megfizetett általános forgalmi adó mértéke a 2 000 000 Ft-ot meghaladja, a hitelintézet csak abban az esetben fogadhatja el a számlákat, ha a támogatott személy bemutatja a kivitelezővel kötött szerződést is.
+(10)[^39] Új lakás építése esetén az azonos kibocsátó által kiállított számlák esetében, ha a számlák alapján az igénylő által megfizetett általános forgalmi adó mértéke a 2 000 000 Ft-ot meghaladja, a hitelintézet csak abban az esetben fogadhatja el a számlákat, ha a támogatott személy bemutatja a kivitelezővel kötött szerződést is.
 
 (11) A hitelintézet az eredeti számlát – letörölhetetlen jelzéssel ellátva – a támogatott személynek visszaadja, másolatban tíz évig irattárában megőrzi. Letörölhetetlen jelzéssel a számlára feljegyzésre kerül, hogy azt mely ingatlan vonatkozásában és mikor mutatták be a hitelintézetnél az e rendelet szerinti lakáscél megvalósítása tekintetében.
 
@@ -24,4 +24,4 @@
 
 (13) A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása, a használatbavétel tudomásulvétele vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtét igazoló hatósági bizonyítvány kiadása évének utolsó napjától számított 5 évig megőrizni.
 
-[^25]: A 44. § (10) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
+[^39]: A 44. § (10) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.

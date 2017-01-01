@@ -1,4 +1,4 @@
-## 84. §[^44] A Módr1. hatálybalépését[^45] megelőzően benyújtott kérelmek esetén – ha a lakóépület építésének egyszerű bejelentése 2016. július 1-jén vagy azt követően történt – az egyszerű bejelentés másolata és az annak mellékletét képező egyszerű bejelentési dokumentáció egyenértékűnek tekintendő a Módr1. 10. § (1) bekezdésével megállapított 43. § (1) bekezdés t) pontjában foglalt igazolási móddal.
+## 84. §[^87] A Módr1. hatálybalépését[^88] megelőzően benyújtott kérelmek esetén – ha a lakóépület építésének egyszerű bejelentése 2016. július 1-jén vagy azt követően történt – az egyszerű bejelentés másolata és az annak mellékletét képező egyszerű bejelentési dokumentáció egyenértékűnek tekintendő a Módr1. 10. § (1) bekezdésével megállapított 43. § (1) bekezdés t) pontjában foglalt igazolási móddal.
 
 1. melléklet a 16/2016. (II. 10.) Korm. rendelethez
 
@@ -16,5 +16,5 @@ d) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiak
 
 miatt megállapította, és az elkövető az igénylés időpontjában még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
 
-[^44]: A 84. §-t a 273/2016. (IX. 15.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^45]: A hatálybalépés időpontja 2016. szeptember 16.
+[^87]: A 84. §-t a 273/2016. (IX. 15.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^88]: A hatálybalépés időpontja 2016. szeptember 16.

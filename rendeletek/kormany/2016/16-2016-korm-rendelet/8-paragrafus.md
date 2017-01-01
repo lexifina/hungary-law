@@ -4,8 +4,9 @@
 
 (2) Gyermekvállalásra tekintettel családi otthonteremtési kedvezményt csak az 5. § a)–e) pontja szerinti személyekből álló fiatal házaspár igényelhet. Gyermektelen fiatal házaspár legfeljebb három, egygyermekes fiatal házaspár legfeljebb kettő, kétgyermekes fiatal házaspár egy gyermek születését vállalhatja a családi otthonteremtési kedvezménnyel összefüggésben.
 
-(2a)[^3] A családi otthonteremtési kedvezmény az e rendeletben meghatározott feltételek szerint az igénylővel közös háztartásban élő, és a felépített vagy megvásárolt új lakásba vele együtt beköltöző, legalább egy éve az igénylő gyámsága alatt álló gyermek után is igényelhető a gyermek szüleinek halála esetén. Élettársak esetén, ha csak az egyik igénylő kerül gyámként kirendelésre, a 11. § vonatkozásában a gyermek a gyámként kirendelt igénylő saját gyermekének minősül.
+(2a)[^5] A családi otthonteremtési kedvezmény az e rendeletben meghatározott feltételek szerint az igénylővel közös háztartásban élő, és a felépített vagy megvásárolt új lakásba vele együtt beköltöző, legalább egy éve az igénylő gyámsága alatt álló gyermek után is igényelhető a gyermek szüleinek halála esetén. Élettársak esetén, ha csak az egyik igénylő kerül gyámként kirendelésre, a 11. § vonatkozásában a gyermek a gyámként kirendelt igénylő saját gyermekének minősül.
 
-(3) Nem veheti igénybe a családi otthonteremtési kedvezményt az, akit a támogatás igénylését megelőző öt évben az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön vonatkozásában a kormányhivatal, a Kincstár vagy bíróság jogerősen visszafizetésre kötelezett.
+(3)[^6] Nem veheti igénybe a családi otthonteremtési kedvezményt az, akit a támogatás igénylését megelőző öt évben az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön vonatkozásában a járási hivatal, a kormányhivatal, a Kincstár vagy bíróság jogerősen visszafizetésre kötelezett.
 
-[^3]: A 8. § (2a) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 8. § (2a) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 8. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 2. pontja szerint módosított szöveg.
