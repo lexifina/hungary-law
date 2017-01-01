@@ -1,0 +1,11 @@
+3. § (1) A 2. § (1) bekezdése szerinti egyéb szervezetek közül a civil szervezet, a köztestület, a közalapítvány, a lakásszövetkezet, a társasház, a Szövetkezeti Hitelintézetek Integrációs Szervezete, a közös jogkezelő szervezet, az MRP szervezet, a víziközmű társulat (a továbbiakban együtt: egyéb szervezet) a Tv. előírásait az e rendeletben foglaltak figyelembevételével köteles alkalmazni.
+
+(2) A közhasznú jogállású egyéb szervezet az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Ectv.) előírásaival összhangban, a Tv. előírásait az e rendeletben foglaltak figyelembevételével köteles alkalmazni.
+
+(3) A 2. § (1) bekezdése szerinti egyéb szervezetek közül az ügyvédi irodának, a szabadalmi ügyvivő irodának, a végrehajtói irodának, a közjegyzői irodának, a Médiaszolgáltatás-támogató és Vagyonkezelő Alapnak, a Pénz- és Tőkepiaci Állandó Választottbíróságnak, valamint a Hallgatói Önkormányzatok Országos Konferenciájának, továbbá a közhasznú besorolással nem rendelkező európai területi együttműködési csoportosulásnak, az európai kutatási infrastruktúráért felelős konzorciumnak, valamint a Magyar Szénhidrogén Készletező Szövetségnek a beszámoló készítési és könyvvezetési kötelezettsége megállapításánál a Tv. előírásait kell alkalmaznia.
+
+(4) A közhasznú szervezetként működő felsőoktatási intézménynek, a Magyar Felsőoktatási Akkreditációs Bizottságnak, a Felsőoktatási és Tudományos Tanácsnak, a Magyar Rektori Konferenciának, valamint a közhasznú szervezetként működő európai területi együttműködési csoportosulásnak a beszámoló készítési és könyvvezetési kötelezettsége megállapításánál a Tv. előírásait az Ectv. vonatkozó előírásai figyelembevételével kell alkalmaznia.
+
+(5) Az egyéb szervezetek által alapított, fenntartott egészségügyi, szociális és oktatási tevékenységet ellátó, jogi személyiséggel rendelkező szervezetnél a Tv. 6. § (3) bekezdése szerint kell eljárni.
+
+(6) A 2. § (1) bekezdés m) pontja szerinti szervezet beszámoló készítési és könyvvezetési kötelezettségére az azt létrehozó szervezet beszámoló készítési és könyvvezetési kötelezettségére vonatkozó előírásokat kell alkalmazni.
