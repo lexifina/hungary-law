@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-16-20-2
 | 2014-07-26 | 2012-16-20-22.4 | 185/2014. (VII. 25.) Korm. rendelet |
 | 2015-07-22 | 2012-16-20-22.5 | 192/2015. (VII. 21.) Korm. rendelet |
 | 2015-11-01 | 2012-16-20-22.6 | 323/2015. (X. 30.) Korm. rendelet |
+| 2017-01-01 | 2012-16-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
