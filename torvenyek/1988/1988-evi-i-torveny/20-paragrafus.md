@@ -56,7 +56,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (4b) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés kg) pontjában meghatározott szabályszegést elkövető személye a helyszínen nem válik ismertté és a szabályszegést a külön jogszabályban meghatározott technikai eszközzel nem rögzítették, a (4) bekezdésben meghatározott bírságot a gépjármű forgalmi rendszáma alapján megállapított üzemben tartóval szemben kell kiszabni. Ilyenkor az üzemben tartó címére kell a kiszabott összeget tartalmazó csekkszelvényt megküldeni.
 
-(4c) Ha a gépjármű üzemben tartója a (4b) bekezdés alapján kiszabott közigazgatási bírságot nem veszi tudomásul, a közigazgatási hatósági eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni. Így kell eljárni akkor is, ha a gépjármű üzemben tartójának megküldött csekkszelvényen vagy banki átutalással a közigazgatási bírságot harminc napon belül nem fizetik meg.
+(4c) Ha a gépjármű üzemben tartója a (4b) bekezdés alapján kiszabott közigazgatási bírságot nem veszi tudomásul, a közigazgatási hatósági eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni. Így kell eljárni akkor is, ha a gépjármű üzemben tartója egyéb esetekben a közigazgatási bírságot harminc napon belül nem fizeti meg.
 
 (4d) A közigazgatási bírság kiszabására jogosult szerv a közigazgatási bírság kiszabására irányuló eljárásban közvetlen adathozzáféréssel átveheti a gépjármű-nyilvántartásból a szabályszegés bizonyításához szükséges külön jogszabály szerinti jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat.
 

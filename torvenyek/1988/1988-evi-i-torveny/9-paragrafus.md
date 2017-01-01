@@ -11,3 +11,7 @@ b) a gyalogos-átkelőhelyhez vezető szilárd burkolatú járda, gyalogút, ker
 c) a gyalogosok részére szolgáló vasúti gyalogos-átkelőhely és a kizárólag kerékpárosok közlekedését szolgáló vasúti átjárók létesítéséről és fenntartásáról.
 
 (3) A fővárosi önkormányzat a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben határozza meg.
+
+(4) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott közlekedési hatósági döntéssel szemben – ideértve a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedési beruházásokat is – fellebbezésnek van helye.
+
+(5) A közlekedési hatóság által hozott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.

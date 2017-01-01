@@ -140,7 +140,7 @@ b) a miniszter, hogy
 
 28. az út és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá az utak kezelésére vonatkozó, a közlekedésbiztonságot és a létesítményeket érintő alapvető követelményeket,
 
-29. a 32. § (4) és (5) bekezdésében meghatározott állami feladatokat, azok végrehajtásának és az egyes feladatok ellátásához szükséges források felhasználásának szabályait,
+29. a 32. § (4) bekezdésében meghatározott állami feladatokat, azok végrehajtásának és az egyes feladatok ellátásához szükséges források felhasználásának szabályait,
 
 30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 

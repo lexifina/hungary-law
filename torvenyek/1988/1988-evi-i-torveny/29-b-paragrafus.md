@@ -1,4 +1,4 @@
-29/B. § (1) Az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló, valamint a közutak igazgatásáról szóló külön jogszabályokban meghatározott közlekedési hatósági eljárások megindítására irányuló kérelmet és annak mellékleteit, valamint a hiánypótlást papír alapon kell benyújtani.
+29/B. § (1) Az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló közlekedési hatósági eljárások megindítására irányuló kérelmet és annak mellékleteit, valamint a hiánypótlást az engedélyezésről szóló jogszabályban meghatározott formában és tartalommal kell benyújtani. Ha az eljárás során a közlekedési hatóság záradékolt tervdokumentációt köteles kiadni vagy a sajátos közlekedési építmények forgalomba helyezése előtt helyszíni ellenőrzésre van szükség, a közlekedési hatóság az eredeti papír alapú tervdokumentációk benyújtására hívhatja fel az ügyfelet.
 
 (2) Az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló külön jogszabályban meghatározott
 

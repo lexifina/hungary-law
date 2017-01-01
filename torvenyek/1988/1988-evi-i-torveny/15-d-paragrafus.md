@@ -1,6 +1,6 @@
 15/D. § (1) Ha a várakozási díjat és a pótdíjat nem fizették meg a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató a díj- és pótdíjfizetési felszólítást a várakozási terület díjfizetés nélküli használatának időpontjától számított 60 napos jogvesztő határidőn belül a jármű üzembentartója részére postai küldeményként, vagy más egyéb igazolható módon megküldi.
 
-(2) A 60 napos jogvesztő határidő nem alkalmazható abban az esetben, ha a gépjármű üzembentartója a nyilvántartott adataiban bekövetkezett változásokat a gépjárműnyilvántartás központi szervéhez – az erre vonatkozó jogszabályi rendelkezések megszegésével – elmulasztotta bejelenteni és ezért a fizetési felszólítás nem a tényleges üzembentartó részére került megküldésre.
+(2) A 60 napos jogvesztő határidő nem alkalmazható abban az esetben, ha a gépjármű üzembentartója a nyilvántartott adataiban bekövetkezett változásokat a gépjárműnyilvántartási szervhez – az erre vonatkozó jogszabályi rendelkezések megszegésével – elmulasztotta bejelenteni és ezért a fizetési felszólítás nem a tényleges üzembentartó részére került megküldésre.
 
 (3) A várakozási díj- és pótdíjfizetési kötelezettség nem teljesítése esetén a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató követelését bírósági úton érvényesítheti. A parkolási díjból eredő igények érvényesítése esetén a kötelezett lakhelye szerinti járásbíróság kizárólagosan illetékes.
 

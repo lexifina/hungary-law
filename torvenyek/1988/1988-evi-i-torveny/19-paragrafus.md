@@ -14,7 +14,7 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 (2)–(3)
 
-(4) A közlekedési hatóságnál a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott árufuvarozásra és személygépkocsival, autóbusszal végzett személyszállításra vonatkozó engedélyek kiadásával, módosításával és visszavonásával kapcsolatos ügyekben – ha kormányrendelet ettől eltérően nem rendelkezik – a kérelem elektronikus úton nem terjeszthető elő.
+(4)
 
 (5) A közúti áruszállításhoz kapcsolódó árumozgatásra alkalmas gépeket, a járműre szerelt továbbá a közutak építéséhez, fenntartásához használt, önjáró vagy vontatott emelő-, rakodó- és útépítő gépet csak a külön jogszabályban meghatározott képesítéssel rendelkező, 18. életévét betöltött, emelő-, rakodó- és útépítő gép kezelésére egészségügyi szempontból alkalmas személy kezelheti.
 

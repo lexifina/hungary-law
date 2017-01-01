@@ -16,7 +16,7 @@ c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magá
 
 (4)
 
-(5) Az országos közutak kezelőinek tevékenységét a miniszter által alapított költségvetési szerv hangolja össze, az útkezelői szolgáltatást finanszírozza és – az üzemeltetésre vonatkozó szerződésben meghatározott – szolgáltatási színvonal biztosítását ellenőrzi.
+(5) Az országos közutak kezelőinek tevékenységét a miniszter hangolja össze, az útkezelői szolgáltatást finanszírozza és – az üzemeltetésre vonatkozó szerződésben meghatározott – szolgáltatási színvonal biztosítását ellenőrzi.
 
 (6) Az (1) bekezdés szerinti közútkezelő szervezetek kötelesek az elektronikus díjszedési, díjellenőrzési rendszer megvalósítása, és annak üzemeltetése során az egyes feladatok teljesítésére kijelölt szervezetekkel, az általuk bevont közreműködőkkel és az elektronikus módon történő díjszedési-, díjellenőrzési rendszer kivitelezőjével (a továbbiakban együtt: jogosult szervezetek) a rendszer felmérése, tervezése, kivitelezése és üzemeltetése során együttműködni, így különösen kötelesek:
 

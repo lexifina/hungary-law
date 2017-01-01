@@ -6,6 +6,6 @@
 
 (4) A 8. § (1) bekezdés a) pontja 3. alpontjában, a 11. § (2) bekezdésében, a 34. § (1) bekezdésében, valamint más jogszabályban meghatározott, az országos közúthálózat üzemeltetésére, fenntartására és fejlesztésére, a díjpolitika megalapozására, valamint a használati díj- és pótdíjszedésre, a pótdíj behajtására és a díj ellenőrzésére vonatkozó állami feladatok pénzügyi forrásait a központi költségvetésről szóló törvényben kell megállapítani.
 
-(5) Az összközlekedési fejlesztési tervek, az ezekhez kapcsolódó stratégiák, megvalósíthatósági tanulmányok, forgalmi tanulmányok, döntés-előkészítő tanulmányok elkészítésével kapcsolatos egyes feladatokat, valamint a közlekedési infrastruktúra fejlesztése során a műszaki megvalósítás szakmai koordinációját, illetve a források felhasználásának műszaki ellenőrzését ellátó mérnök munkájának koordinációs feladatait a 33. § (5) bekezdésében meghatározott szerv látja el a miniszter által rendeletben meghatározott szabályok szerint.
+(5)
 
-(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében, a 32/A. §-ban foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK).
+(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar Közút Nonprofit Zrt.), amely a vagyonkezelői feladatokat közfeladatként látja el.
