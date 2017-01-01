@@ -224,7 +224,7 @@
 
 | XXII. | Nagyméretarányú talajtérkép készítés |
 
-2. melléklet az 1/2010. (I. 14.) FVM rendelethez[^9]
+2. melléklet az 1/2010. (I. 14.) FVM rendelethez[^10]
 
 A Vidékfejlesztési Minisztériumhoz tartozó bejelentés-köteles szakterületek képesítési feltételei
 
@@ -318,4 +318,4 @@ A Vidékfejlesztési Minisztériumhoz tartozó bejelentés-köteles szakterület
 
 | 22. | Nagyméretarányú talajtérkép-készítés | a) okleveles agrárkémikus agrármérnök vagy b) tápanyag-gazdálkodási szakmérnök vagy c) talajerő-gazdálkodási szakmérnök vagy d) talajtani szakmérnök vagy e) okleveles térinformatikai mérnök f) geográfus vagy geoinformatikus |
 
-[^9]: A 2. melléklet a 106/2012. (X. 11.) VM rendelet 10. § (5) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 119. § c) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet a 106/2012. (X. 11.) VM rendelet 10. § (5) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 119. § c) pontja szerint módosított szöveg.
