@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-322-20-
 | 2014-04-09 | 2007-322-20-22.12 | 121/2014. (IV. 8.) Korm. rendelet |
 | 2015-04-01 | 2007-322-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-04-12 | 2007-322-20-22.14 | 94/2015. (IV. 9.) Korm. rendelet |
+| 2017-01-01 | 2007-322-20-22.15 | 473/2016. (XII. 27.) Korm. rendelet |
