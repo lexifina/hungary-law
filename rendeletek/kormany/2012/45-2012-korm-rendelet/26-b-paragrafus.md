@@ -1,18 +1,18 @@
-26/B. § (1)[^35] Az MH központi személyügyi szervének vezetője a rendelkezési állományú katona adatait törli a TARTINFO-rendszerből, ha
+26/B. § (1)[^40] Az MH központi személyügyi szervének vezetője a rendelkezési állományú katona adatait törli a TARTINFO-rendszerből, ha
 
-a)[^36] a Hjt. 47. § (2) bekezdés a) pontjában meghatározottak szerint megszűnik a rendelkezési állományba helyezés, vagy
+a)[^41] a Hjt. 47. § (2) bekezdés a) pontjában meghatározottak szerint megszűnik a rendelkezési állományba helyezés, vagy
 
-b)[^37] a Hjt. 47. § (2) bekezdés b) pontjában meghatározottak szerint megszüntetik a rendelkezési állományba helyezést.
+b)[^42] a Hjt. 47. § (2) bekezdés b) pontjában meghatározottak szerint megszüntetik a rendelkezési állományba helyezést.
 
-(2)[^38] A 21. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezési állományú katona továbbfoglalkoztatásáról az MH központi személyügyi szervének vezetőjét kell haladéktalanul írásban tájékoztatni, és áthelyezés alatt a Hjt. 69. § szerinti intézkedést kell érteni.
+(2)[^43] A 21. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezési állományú katona továbbfoglalkoztatásáról az MH központi személyügyi szervének vezetőjét kell haladéktalanul írásban tájékoztatni, és áthelyezés alatt a Hjt. 69. § szerinti intézkedést kell érteni.
 
-(3)[^39] Az MH központi személyügyi szervének vezetője írásban tájékoztatja a rendelkezési állományú katonát a Hjt. 69. §-a szerinti áthelyezés kezdeményezéséről, aki a tájékoztatást követő tizenöt napon belül írásban nyilatkozik az MH központi személyügyi szerve vezetőjének arról, hogy beleegyezik-e az áthelyezésbe. A rendelkezési állományú katona nyilatkozatáról az MH központi személyügyi szervének vezetője tájékoztatja a közigazgatási szerv vezetőjét, beleegyezés esetén a munkáltatói jogkör gyakorlója haladéktalanul intézkedik a Hjt. 69. § szerinti áthelyezés iránt.
+(3)[^44] Az MH központi személyügyi szervének vezetője írásban tájékoztatja a rendelkezési állományú katonát a Hjt. 69. §-a szerinti áthelyezés kezdeményezéséről, aki a tájékoztatást követő tizenöt napon belül írásban nyilatkozik az MH központi személyügyi szerve vezetőjének arról, hogy beleegyezik-e az áthelyezésbe. A rendelkezési állományú katona nyilatkozatáról az MH központi személyügyi szervének vezetője tájékoztatja a közigazgatási szerv vezetőjét, beleegyezés esetén a munkáltatói jogkör gyakorlója haladéktalanul intézkedik a Hjt. 69. § szerinti áthelyezés iránt.
 
-(4)[^40] Ha a rendelkezési állományú katona részére a Kttv. 41. § (1) bekezdés a) pontja szerinti átképzés szükséges, a közigazgatási szerv vezetője intézkedik a munkakör betöltéséhez szükséges képesítés megszerzésére irányuló képzésen való részvételről.
+(4)[^45] Ha a rendelkezési állományú katona részére a Kttv. 41. § (1) bekezdés a) pontja szerinti átképzés szükséges, a közigazgatási szerv vezetője intézkedik a munkakör betöltéséhez szükséges képesítés megszerzésére irányuló képzésen való részvételről.
 
-[^35]: A 26/B. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 654. § h) pontja szerint módosított szöveg.
-[^36]: A 26/B. § (1) bekezdés a) pontja a 298/2013. (VII. 29.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^37]: A 26/B. § (1) bekezdés b) pontja a 298/2013. (VII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^38]: A 26/B. § (2) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 7. § d) pontja, a 221/2014. (IX. 4.) Korm. rendelet 654. § i) pontja szerint módosított szöveg.
-[^39]: A 26/B. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 652. §-ával megállapított szöveg.
-[^40]: A 26/B. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 652. §-ával megállapított szöveg.
+[^40]: A 26/B. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 654. § h) pontja szerint módosított szöveg.
+[^41]: A 26/B. § (1) bekezdés a) pontja a 298/2013. (VII. 29.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^42]: A 26/B. § (1) bekezdés b) pontja a 298/2013. (VII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^43]: A 26/B. § (2) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 7. § d) pontja, a 221/2014. (IX. 4.) Korm. rendelet 654. § i) pontja szerint módosított szöveg.
+[^44]: A 26/B. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 652. §-ával megállapított szöveg.
+[^45]: A 26/B. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 652. §-ával megállapított szöveg.

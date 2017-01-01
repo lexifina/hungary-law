@@ -4,4 +4,6 @@
 
 (3) Ha a megszűnő közigazgatási szervnek van jogutódja, akkor a Kttv. 58. § (2) bekezdése szerint kell eljárni azzal, hogy több jogutód szerv esetén a megszűnő közigazgatási szervnek minden közszolgálati tisztviselő esetében meg kell határozni a jogutód szervet.
 
-(4) A közigazgatási szerv vezetőjének személyében történő változás esetén az új vezető haladéktalanul postai úton kéri a személyügyi központtól a korábbi vezető jogosultságának megszüntetését és a TARTINFO-rendszerhez való hozzáférés biztosítását a közigazgatási szerv nevének és az e rendelet 7. mellékletében szereplő regisztrációs adatlapnak a közigazgatási szerv vezetőjére vonatkozó adatainak megadásával. A személyügyi központ öt munkanapon belül módosítja a vezető adatait, és elektronikus úton elküldi a TARTINFO azonosítókat.
+(4)[^22] A közigazgatási szerv vezetőjének személyében történő változás esetén az új vezető haladéktalanul elektronikus úton kéri a személyügyi központtól a korábbi vezető jogosultságának megszüntetését és a TARTINFO-rendszerhez való hozzáférés biztosítását a közigazgatási szerv nevének és az e rendelet 7. mellékletében szereplő regisztrációs adatlapnak a közigazgatási szerv vezetőjére vonatkozó adatainak megadásával. A személyügyi központ öt munkanapon belül módosítja a vezető adatait, és elektronikus úton elküldi a TARTINFO azonosítókat.
+
+[^22]: A 22. § (4) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 61. § (2) bekezdés a) pontja szerint módosított szöveg.

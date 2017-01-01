@@ -1,6 +1,6 @@
 ## 26/C. § A tartalékállományba helyezett rendelkezési állományú katonára – a 26/A–26/B. §-ban foglalt eltérésekkel – megfelelően alkalmazni kell a 18. §-t, 20. §-t, 21. § (1)–(3) és (6) bekezdését, 22. §-t.
 
-26/D. §[^41] (1) A Kttv. 41/A. § (1) bekezdése szerinti rendelkezési állományú katona áthelyezésére vonatkozó eljárási szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
+26/D. §[^46] (1) A Kttv. 41/A. § (1) bekezdése szerinti rendelkezési állományú katona áthelyezésére vonatkozó eljárási szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A személyügyi központ a 20. § (1) bekezdése alapján valamennyi, az (1) bekezdés szerinti rendelkezési állományú katona adatait megküldi a közigazgatási szerv vezetője részére, ha az üres álláshely – képesítési feltétel hiánya esetén – átképzéssel is ellátható.
 
@@ -14,4 +14,4 @@
 
 (7) Ha az (1) bekezdés szerinti rendelkezési állományú katona a részére felajánlott megfelelő munkakörbe történő áthelyezéséhez nem járul hozzá vagy nem nyilatkozik, rá vonatkozóan a továbbiakban a 26/A–26/C. §-ban foglaltakat kell alkalmazni.
 
-[^41]: A 26/D. §-t a 221/2014. (IX. 4.) Korm. rendelet 653. §-a iktatta be.
+[^46]: A 26/D. §-t a 221/2014. (IX. 4.) Korm. rendelet 653. §-a iktatta be.

@@ -22,7 +22,7 @@
 
 ## Dátum:
 
-13. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^57]
+13. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^63]
 
 REGISZTRÁCIÓS BEJELENTŐ LAP
 
@@ -90,4 +90,4 @@ A TARTINFO rendszerhez történő hozzáféréshez
 
 | A vezető aláírása: |  |  |  |  |  |
 
-[^57]: A 13. mellékletet a 237/2012. (VIII. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 654. § j) pontja szerint módosított szöveg.
+[^63]: A 13. mellékletet a 237/2012. (VIII. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 654. § j) pontja szerint módosított szöveg.
