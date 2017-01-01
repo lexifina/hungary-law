@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § E rendelet alkalmazásában:
 
 1. Informatikai hálózat: informatikai eszközök összekapcsolásával biztosítja az adatok, alkalmazások és tartalmak biztonságos elérését és használatát,

@@ -32,7 +32,7 @@ h) a postai szolgáltatás normál üzemmenetét akadályozó zavart;
 
 i) az olyan eseményt és annak folytán kialakult helyzetet, amely a hálózat működését, vagy a szolgáltatás szerződésszerű nyújtását ellehetetleníti, vagy jelentős mértékben veszélyezteti, valamint a közvéleményt és a közérdeklődést befolyásolja.
 
-(2)[^1]
+(2) Az (1) bekezdés szerinti bejelentést az NMHH Adatkapun keresztül, az NMHH Adatkapu működésképtelensége esetén elektronikus levélben, az elektronikus levelező rendszer működésképtelensége esetén telefonon vagy telefaxon, az előbbiekhez szükséges hálózati hozzáférés hiányában futár útján kell megtenni.
 
 (3) Az (1) bekezdés szerinti bejelentés tartalmazza
 
@@ -61,5 +61,3 @@ j) a hálózat, szolgáltatás működése helyreállításának tényét és id
 (5) Ha a bejelentés (3) bekezdés szerinti tartalmi elemei a rendkívüli esemény jellegéből adódóan nem vagy csak részben értelmezhetők, az (1) bekezdés szerinti bejelentést a rendkívüli eseménynek a hálózat működése vagy a szolgáltatás nyújtása szempontjából legfontosabb jellemzői megadásával kell megtenni.
 
 (6) Amennyiben a rendkívüli esemény fennállásának időtartama meghaladja a 24 órát, a kijelölt szolgáltató – az (1) bekezdés szerinti bejelentésre vonatkozó szabályok megfelelő alkalmazásával – a rendkívüli esemény fennállásának időtartama alatt naponta tájékoztatja az OIHF-et a kialakult helyzetről.
-
-[^1]: A 4. § (2) bekezdése a 12. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

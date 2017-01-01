@@ -4,6 +4,6 @@ a) amennyiben a rendkívüli esemény fennállásának időtartama meghaladja a 
 
 b) minden naptári hétre vonatkozóan a tárgyhetet követő hétfőn, vagy ha a tárgyhetet követő hétfő munkaszüneti nap, akkor az azt követő első munkanapon 14.00 óráig a tárgyhét
 
-## eseményeit összefoglaló tájékoztatót küld a feladatkörükben érintett központi államigazgatási szervek, a rendkívüli eseménnyel érintett kormányzati célú hálózatot működtető szervek, a rendkívüli eseménnyel érintett kijelölt szolgáltatók, továbbá az e szervek időbeni figyelmeztetése, valamint az adatvédelmi, adatbiztonsági fenyegetettségek gyors kezelése, regisztrálása érdekében működő, jogszabály vagy közjogi szervezetszabályozó eszköz által létrehozott munkacsoportok részére.
+eseményeit összefoglaló tájékoztatót küld a feladatkörükben érintett központi államigazgatási szervek, a rendkívüli eseménnyel érintett kormányzati célú hálózatot működtető szervek, a rendkívüli eseménnyel érintett kijelölt szolgáltatók, továbbá az e szervek időbeni figyelmeztetése, valamint az adatvédelmi, adatbiztonsági fenyegetettségek gyors kezelése, regisztrálása érdekében működő, jogszabály vagy közjogi szervezetszabályozó eszköz által létrehozott munkacsoportok részére.
 
 (2) Az OIHF a rendkívüli eseményekről statisztikailag értékelhető adatokon alapuló negyedéves és éves elemzéseket készít, és ezen elemzéseket megküldi a feladatkörükben érintett központi államigazgatási szerveknek.
