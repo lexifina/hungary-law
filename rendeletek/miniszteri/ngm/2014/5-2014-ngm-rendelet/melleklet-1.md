@@ -1,4 +1,4 @@
-## 10. §[^1]
+## 10. §[^2]
 
 1. melléklet az 5/2014. (II. 7.) NGM rendelethez
 
@@ -66,4 +66,4 @@ A nemzetgazdasági miniszter által meghagyásba bevont gazdasági szervek
 
 | 29. | Érv Kft. | 2092 Budakeszi, Mezei M. u. 3/A. |
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

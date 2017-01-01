@@ -1,3 +1,5 @@
+## 5. §
+
 ## 6. Meghagyással kapcsolatos ágazati feladatok
 
 6. § (1) A meghagyásba bevont gazdasági szerveket az 1. melléklet tartalmazza.
