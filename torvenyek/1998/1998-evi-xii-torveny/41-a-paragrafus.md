@@ -1,0 +1,1 @@
+41/A. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 8. § (3) bekezdését és 9. § (4) bekezdését a 2017. január 1-jétől igényelt útlevelekre kell alkalmazni.

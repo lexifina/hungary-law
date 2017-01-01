@@ -1,4 +1,4 @@
-24/A. § (1) A központi adatkezelő szerv központi útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
+24/A. § (1) Az adatkezelő szerv központi útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
 
 a) felügyeletet gyakorol a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) közreműködői tevékenysége felett,
 
@@ -10,4 +10,4 @@ d) végzi a figyelmeztető jelzés kezelésével kapcsolatos nyilvántartási é
 
 e) működteti a nyilvántartás informatikai rendszerét.
 
-(2) A járási hivatal a 24. § a)–f) pontjában meghatározott, míg a külpolitikáért felelős miniszter a 24. § a)–f), illetve j) és k) pontjában meghatározott adatokról, illetve ezek változásáról elektronikus úton értesíti a központi adatkezelő szervet.
+(2) A járási hivatal a 24. § a)–f) pontjában meghatározott, míg a külpolitikáért felelős miniszter a 24. § a)–f), illetve j) és k) pontjában meghatározott adatokról, illetve ezek változásáról elektronikus úton értesíti az adatkezelő szervet.

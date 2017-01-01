@@ -1,5 +1,5 @@
-29. § (1) Az útlevélhatóság és a központi adatkezelő szerv köteles biztosítani, hogy az állampolgár megismerhesse, hogy mely adatszolgáltatás alanya volt.
+29. § (1) Az útlevélhatóság és az adatkezelő szerv köteles biztosítani, hogy az állampolgár megismerhesse, hogy mely adatszolgáltatás alanya volt.
 
 (2) Az (1) bekezdésben meghatározott tájékoztatás a bíróság, az ügyészség, a nyomozó hatóságok és a nemzetbiztonsági szolgálatok részére teljesített adatszolgáltatás körében – külön törvényben meghatározottak szerint – korlátozható, vagy kizárható.
 
-(3) Az útlevélhatóság, valamint a központi adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.
+(3) Az útlevélhatóság, valamint az adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.

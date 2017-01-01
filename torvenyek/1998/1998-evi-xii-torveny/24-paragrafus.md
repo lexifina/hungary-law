@@ -2,7 +2,7 @@
 
 ## Adatkezelés és adatszolgáltatás
 
-24. § (1) A központi adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
+24. § (1) Az adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
 
 a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét,
 
@@ -30,4 +30,4 @@ l) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A központi adatkezelő szerv a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok (1) bekezdésben meghatározott adatait a központi útiokmány-nyilvántartásban elkülönülten kezeli.
+(3) Az adatkezelő szerv a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok (1) bekezdésben meghatározott adatait a központi útiokmány-nyilvántartásban elkülönülten kezeli.

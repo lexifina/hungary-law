@@ -6,7 +6,9 @@ b) az útlevél kivételével az egyéb úti okmányok fajtáit;
 
 c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket;
 
-d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős központi államigazgatási szervet.
+d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervet.
+
+(1a) Felhatalmazást kap a Kormány, hogy az adatkezelő szervet rendeletben jelölje ki.
 
 (2) Felhatalmazást kap a külföldre utazás szabályozásáért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
 
@@ -14,7 +16,7 @@ a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útle
 
 b) Magyarország útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
 
-c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
+c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
 
 d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
 
