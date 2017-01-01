@@ -10,13 +10,15 @@ b) naptári éven belül lejáró adósságot keletkeztető ügyletéhez,
 
 c) olyan adósságot keletkeztető ügylete megkötéséhez, amely
 
-ca) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által megnyert támogatás előfinanszírozásának biztosítására szolgál,
+ca) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által elnyert, fejlesztési célú támogatás előfinanszírozásának biztosítására szolgál,
 
 cb) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozik,
 
 cc) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – fejlesztési célt szolgál és nem haladja meg a fővárosi önkormányzat és megyei jogú város önkormányzata esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át, de legfeljebb a 10 millió forintot,
 
-d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont ca)–cc) alpontja szerinti, bármely jogi személy által megkötött ügylethez kapcsolódik.
+cd) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által elnyert, nem fejlesztési célú támogatás előfinanszírozásának biztosítására szolgál, valamint
+
+d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, jogi személy által megkötött ügylethez kapcsolódik.
 
 (4) Az ugyanazon
 

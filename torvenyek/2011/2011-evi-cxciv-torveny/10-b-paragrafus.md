@@ -12,7 +12,7 @@ a) teljesül a 10. § (5) bekezdésében meghatározott feltétel, azzal, hogy a
 
 b) a kezesség-, illetve garanciavállalás megfelel az Áht. 96. §-ának.
 
-(3) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a 10. § (5) bekezdésében meghatározott feltétel alkalmazásától eltekinthet.
+(3) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű, illetve annál kisebb meglévő adósság visszafizetése, abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a 10. § (5) bekezdésében meghatározott feltétel alkalmazásától eltekinthet.
 
 (4) A Kormány az egyes ügyletekhez részben is hozzájárulhat vagy azokat elutasíthatja. A Kormány a több fejlesztési cél megvalósítását szolgáló ügyletek esetében a fejlesztési célok vizsgálata alapján fejlesztési célonként hozhat döntést. A Kormány a fejlesztési cél figyelembevételével dönthet úgy is, hogy az annak teljesülését szolgáló ügylethez az önkormányzat által tervezettnél alacsonyabb összegben járul hozzá.
 
