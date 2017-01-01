@@ -1,0 +1,3 @@
+15. § (1) Ha a honvédelmi egészségkárosodási keresetkiegészítésre jogosult honvédségi szervezetnél fennálló foglalkoztatási jogviszonya a honvédségi szervezet érdekkörében felmerült okból vagy az egészségi állapotára tekintettel megszűnik, a központi pénzügyi szervezet a munkáltatói jogkör gyakorlójának a központi személyügyi szerv útján a központi pénzügyi szervezethez felterjesztett tájékoztatása – és a megszüntető okirat egyidejű mellékelése – alapján, a tájékoztatást követő 15 napon belül hivatalból határozatot hoz a honvédelmi egészségkárosodási járadék megállapítása tárgyában.
+
+(2) Az (1) bekezdése szerinti határozat tartalma és közlése tekintetében a 9. § (3) és (4) bekezdése megfelelően alkalmazandó.
