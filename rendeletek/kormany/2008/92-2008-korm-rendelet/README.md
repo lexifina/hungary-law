@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-92-20-2
 | 2012-07-01 | 2008-92-20-22.5 | 95/2012. (V. 15.) Korm. rendelet |
 | 2015-04-01 | 2008-92-20-22.6 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2008-92-20-22.7 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2017-01-01 | 2008-92-20-22.8 | 95/2012. (V. 15.) Korm. rendelet |
