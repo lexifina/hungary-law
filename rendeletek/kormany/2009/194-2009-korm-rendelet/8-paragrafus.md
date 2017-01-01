@@ -1,6 +1,6 @@
 ## Az ügyfelek értesítése
 
-8. § (1)[^8] Az integrált eljárás megindításáról a közreműködő hatóság 5 napon belül, papíron vagy elektronikusan értesíti az ismert ügyfeleket.
+8. § (1)[^9] Az integrált eljárás megindításáról a közreműködő hatóság 5 napon belül, papíron vagy elektronikusan értesíti az ismert ügyfeleket.
 
 (2) Ha nem állapítható meg az ügyféli kör, a közreműködő hatóság hirdetményi úton ad értesítést az eljárás megindításáról.
 
@@ -16,4 +16,4 @@ d) általános tájékoztatót az integrált eljárás ügyintézési határidej
 
 e) a 9. § szerinti közös helyszíni szemle helyét és időpontját.
 
-[^8]: A 8. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 96. §-ával megállapított szöveg.
+[^9]: A 8. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 96. §-ával megállapított szöveg.
