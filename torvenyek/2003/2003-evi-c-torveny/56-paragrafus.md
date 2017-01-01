@@ -1,6 +1,6 @@
 ## Zavarelhárítás
 
-56. § (1) Elektronikus hírközlő berendezést, nagyfrekvenciás berendezést, valamint minden olyan berendezést amely működése közben nagyfrekvenciás jelet vagy mellékhatást kelt, továbbá azokat a villamos vagy elektronikus alkatrészeket tartalmazó berendezéseket (a továbbiakban együtt: villamos vagy elektronikus berendezés), amelyek alkalmasak arra, hogy elektromágneses zavart okozzanak, vagy amelyek működésére ilyen zavar hatással lehet, úgy kell üzemben tartani, hogy az más, zavarérzékenység szempontjából egyébként megfelelő villamos vagy elektronikus berendezés működésében zavart ne okozzon.
+56. § (1) Elektronikus hírközlő berendezést, nagyfrekvenciás villamos berendezést, valamint minden olyan berendezést amely működése közben nagyfrekvenciás jelet vagy mellékhatást kelt, továbbá azokat a villamos vagy elektronikus alkatrészeket tartalmazó berendezéseket (a továbbiakban együtt: villamos vagy elektronikus berendezés), amelyek alkalmasak arra, hogy elektromágneses zavart okozzanak, vagy amelyek működésére ilyen zavar hatással lehet, úgy kell üzemben tartani, hogy az más, zavarérzékenység szempontjából egyébként megfelelő villamos vagy elektronikus berendezés működésében zavart ne okozzon.
 
 (2) A hírközlő berendezés működésében zavart okozó berendezés üzemben tartója köteles a zavart megelőzni, a keletkezett zavart megszüntetni.
 

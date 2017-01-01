@@ -2,7 +2,7 @@
 
 137. § (1) Az előfizetői szolgáltatás igénybevételének korlátozására, így különösen az előfizető által indított vagy az előfizetőnél végződtetett (az előfizető hozzáférési pontjára irányuló) forgalom korlátozására, az előfizetői szolgáltatás minőségi vagy más jellemzőinek csökkentésére a szolgáltató az előfizető értesítésével a következő esetekben jogosult:
 
-a) az előfizető akadályozza vagy veszélyezteti a szolgáltató hálózatának rendeltetésszerű működését, így különösen, ha az előfizető az előfizetői hozzáférési ponthoz megfelelőség-tanúsítással nem rendelkező végberendezést vagy nem megfelelő interfésszel rendelkező végberendezést csatlakoztatott;
+a) az előfizető akadályozza vagy veszélyezteti a szolgáltató hálózatának rendeltetésszerű működését, így különösen, ha az előfizető az előfizetői hozzáférési ponthoz nem megfelelő interfésszel rendelkező végberendezést csatlakoztatott;
 
 b) a szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást a szolgáltató hozzájárulása nélkül harmadik személy részére továbbértékesíti, vagy azt hálózati szolgáltatás céljára használja;
 

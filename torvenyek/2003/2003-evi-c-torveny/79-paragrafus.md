@@ -1,7 +1,5 @@
-## Az elektronikus hírközlő berendezések forgalmazásának feltételei
+## A rádióberendezések forgalmazására, valamint az elektromágneses összeférhetőségre vonatkozó szabályok
 
-79. § (1) Elektronikus hírközlő berendezés akkor forgalmazható, ha az megfelel a 80. §-ban meghatározott alapvető követelményeknek és az Elnök rendeletében meghatározott feltételeknek.
+79. § (1) Rádióberendezés, valamint az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák esetén a rádióberendezés és a rendeltetésszerű használatot lehetővé tevő szoftverek együttese akkor hozható forgalomba, forgalmazható, vagy helyezhető üzembe, ha megfelel az Elnök rendeletében meghatározott követelményeknek, valamint a gyártó, a meghatalmazott képviselő, az importőr és a forgalmazó az Elnök rendeletében meghatározott kötelezettségeinek eleget tett.
 
-(2) A nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozatali szándékát az Elnök rendeletében meghatározottak szerint a gyártónak, a gyártó Európai Gazdasági Térségben letelepedett meghatalmazott képviselőjének, az importőrnek vagy a rádióberendezés belföldi forgalomba hozataláért felelős személynek be kell jelentenie a Hatóságnak.
-
-(3) A nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezés forgalmazásának feltételeit az e törvény felhatalmazása alapján kiadott külön jogszabály állapítja meg.
+(2) Az e törvényben, valamint az Elnök rendeletében meghatározott, a rádióberendezések forgalomba hozatalára, forgalmazására és üzembe helyezésére vonatkozó előírások betartását a Hivatal felügyeli.

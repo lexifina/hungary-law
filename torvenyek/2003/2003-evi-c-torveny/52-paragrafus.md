@@ -18,7 +18,7 @@ f) a Hatósághoz benyújtott referenciaajánlatokról és hálózati szerződé
 
 g) a nem azonosítható hívószámokról;
 
-h) a nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozataláról;
+h)
 
 i) az engedéllyel rendelkező, valamint a bejelentés alapján nyilvántartásba vett elektronikus hírközlési építményekről.
 

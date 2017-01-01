@@ -16,7 +16,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a törvény
 
-a) a rádióberendezésekről és a távközlő végberendezésekről, valamint a megfelelőségük kölcsönös elismeréséről szóló, 1999. március 9-i 1999/5/EK európai parlamenti és tanácsi irányelv, 2. cikk a)–e) és i) pontjának, 3. és 4. cikk, 6. cikk (1) és (4) bekezdésének, 7. cikk (2) és (4) bekezdésének,
+a) a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról és az 1999/5/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 2014/53/EU európai parlamenti és tanácsi irányelvnek
 
 b) az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról („Hozzáférési irányelv”) szóló, 2002. március 7-i 2002/19/EK európai parlamenti és a tanácsi irányelvnek,
 
@@ -40,6 +40,8 @@ k) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolg�
 
 l) a nagy sebességű elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről szóló, 2014. május 15-i 2014/61/EU európai parlamenti és a tanácsi irányelv 2. cikk 1–4; 7–9. valamint 11. pontja, 3. cikk., 4. cikk , 5. cikk, 6. cikk, 7. cikk, 8.cikk és a 9. cikk (1)–(4) bekezdésének, valamint
 
-m) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak
+m) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak,
+
+n) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.

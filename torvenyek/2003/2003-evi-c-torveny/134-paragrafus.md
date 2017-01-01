@@ -2,7 +2,17 @@
 
 134. § (1) Az előfizető a határozatlan idejű előfizetői szerződést legfeljebb 8 napos felmondási határidővel bármikor jogosult további jogkövetkezmények nélkül felmondani. Az előfizetői szerződés bármely ezzel ellentétes kikötése semmis.
 
-(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje a (6)–(7), illetve a (13) bekezdésben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
+(1a) A szolgáltató köteles az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződést azonnali hatállyal felmondani:
+
+a) ha az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetését továbbértékesíti,
+
+b) ha a 129. § (2b) bekezdés szerinti ellenőrzéskor megállapításra kerül az okmány érvénytelensége,
+
+c) ha a 127. § (2d) bekezdésben meghatározott szerv nemzetbiztonsági vagy közbiztonsági okból jelzéssel élt,
+
+d) ha az előfizető a 129. § (2b) bekezdés szerinti adategyeztetési kötelezettségét a szerződés évfordulójának napját követő ötödik napig nem teljesítette.
+
+(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje az (la), a (6)–(7), illetve a (13) bekezdésben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
 
 (3) A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben, vagy amennyiben az előfizetői szerződésben az előfizető hozzájárult, olyan elektronikus dokumentumban vagy elektronikus levélben köteles megküldeni, amelynek kézbesítése hitelt érdemlően igazolható, kivéve, ha az előfizetőt a felmondásról azért nem tudja így értesíteni, mert a szolgáltatás sajátosságai következtében a szolgáltató nem rendelkezik az előfizető ilyen módon történő értesítéséhez szükséges adatokkal. Ez utóbbi esetben a szolgáltató az előfizetőt a szerződés felmondásáról a 144. § (4) bekezdésében meghatározott egyéb módon is értesítheti.
 
@@ -25,6 +35,8 @@ b) az előfizető a jogkövetkezményekre figyelmeztető értesítését követ�
 c) az egyetemes szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást a jogkövetkezményekre figyelmeztető értesítését követően is harmadik személy részére továbbértékesíti,
 
 d) az előfizető a szolgáltatást törvénybe ütköző módon vagy célokra használja.
+
+(6a) A szolgáltató az előfizetői szerződés megszegése esetén az előfizetői szerződést a (3)–(5) bekezdésben meghatározott feltételek szerint 5 napos határidővel felmondja, ha az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetői szolgáltatás igénybevételét lehetővé tevő SIM kártyát a SIM kártya átadását megelőzően a 129. § (2) bekezdés szerinti azonosításhoz szükséges adatokról az elektronikus hírközlési szolgáltató tájékoztatása nélkül harmadik személy részére átadja.
 
 (7) A szolgáltató az előfizetői szerződést 30 napos felmondási idővel mondhatja fel, amennyiben az előfizető az esedékes díjat a jogkövetkezményekre figyelmeztető első értesítés elküldését legalább 15 nappal követő második értesítés megtörténtét követően sem egyenlítette ki. Nem jogosult a szolgáltató felmondani a szerződést,
 

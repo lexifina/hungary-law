@@ -14,7 +14,9 @@ e) az e törvény szerinti egyablakos információs pontot működtető szervet,
 
 f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
 
-g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat.
+g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
+
+g) a 127. § (2d) bekezdésében meghatározott szervet.
 
 (2)
 
@@ -89,5 +91,7 @@ g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történ�
 34.
 
 35. a 83/A. § (1) bekezdés szerinti írásbeli ajánlat kötelező tartalmi elemeit, valamint a Hatóság 83/B. § (1) bekezdése, 90. § (7) bekezdése, 93/A. § (8) bekezdése, 93/B. § (6) bekezdése, 94. § (2f) bekezdése és 99/C. § (2) bekezdése szerinti jogvitás eljárásának eljárási szabályait, a kérelem tartalmi követelményeit, a tényállás tisztázására vonatkozó szabályokat, a hatósági döntés tartalmát, a költségek megállapításának szabályait, az alkalmazandó költségszámítási vagy díjképzési módszer szabályait.
+
+36. a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter véleményének kikérésével az egyazon egyéni előfizető, illetve egyazon üzleti előfizető által megköthető, előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződések számát.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
