@@ -8,7 +8,7 @@ c) az egészségügyi minőségbiztosítási és minőségfejlesztési módszere
 
 ## rendelkezik.
 
-(2)[^26] Az OBDK az (1) bekezdésben meghatározott feltételeken túlmenően a 17. § szerinti pályázati kiírásban további, a pályázó minőségügyi és szakmai tapasztalataira, nyelvismeretére, a pályázatra kidolgozott szakterületi minőségfejlesztési koncepcióra vonatkozó feltételeket is megszabhat.
+(2)[^32] Az egészségügyért felelős miniszter az (1) bekezdésben meghatározott feltételeken túlmenően a 17. § szerinti pályázati kiírásban további, a pályázó minőségügyi és szakmai tapasztalataira, nyelvismeretére, a pályázatra kidolgozott szakterületi minőségfejlesztési koncepcióra vonatkozó feltételeket is megszabhat.
 
 (3) Minőségügyi szakfőorvosi, illetve szakterületi vezetői tevékenységet nem végezhet, aki
 
@@ -26,4 +26,4 @@ f) egészségügyi-szakmai képviseletet ellátó vagy betegjogi szervezet vezet
 
 g) országos módszertani, illetve gyógyintézet főigazgatója, orvos-igazgatója vagy ápolási igazgatója.
 
-[^26]: A 16. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 149. § b) pontja szerint módosított szöveg.
+[^32]: A 16. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés f) pontja szerint módosított szöveg.

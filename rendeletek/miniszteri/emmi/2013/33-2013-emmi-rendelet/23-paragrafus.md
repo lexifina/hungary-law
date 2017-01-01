@@ -2,8 +2,9 @@
 
 23. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2) Az e rendelet hatálybalépésekor folyamatban lévő szakfelügyeleti eljárásokat, vizsgálatokat a vonatkozó dokumentumok megküldésével az e rendelet hatálybalépését követő 8 napon belül át kell adni az OTH részére.
+(2)[^49]
 
-(3)[^43]
+(3)[^50]
 
-[^43]: A 23. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 23. § (2) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 91. § (2) bekezdése hatályon kívül helyezte.
+[^50]: A 23. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

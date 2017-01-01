@@ -14,12 +14,12 @@ e) minőségügyi vezető védőnő,
 
 f) minőségügyi vezető gyógytornász,
 
-g)[^21] minőségügyi vezető kórházhigiénikus,
+g)[^27] minőségügyi vezető kórházhigiénikus,
 
-h)[^22] minőségügyi vezető menedzser.
+h)[^28] minőségügyi vezető menedzser.
 
-(3)[^23] A minőségügyi szakfőorvost, illetve szakterületi vezetőt a szakágára utaló minőségügyi szakfőorvosi, illetve nem orvosi szakterületek esetén minőségügyi vezető szakgyógyszerészi, minőségügyi vezető szakpszichológusi, minőségügyi vezető dietetikusi, minőségügyi vezető gyógytornászi, minőségügyi vezető ápolói, minőségügyi vezető védőnői, minőségügyi vezető menedzser, minőségügyi vezető kórház-higiénikusi cím illeti meg.
+(3)[^29] A minőségügyi szakfőorvost, illetve szakterületi vezetőt a szakágára utaló minőségügyi szakfőorvosi, illetve nem orvosi szakterületek esetén minőségügyi vezető szakgyógyszerészi, minőségügyi vezető szakpszichológusi, minőségügyi vezető dietetikusi, minőségügyi vezető gyógytornászi, minőségügyi vezető ápolói, minőségügyi vezető védőnői, minőségügyi vezető menedzser, minőségügyi vezető kórház-higiénikusi cím illeti meg.
 
-[^21]: A 13. § (2) bekezdés g) pontját a 31/2016. (X. 12.) EMMI rendelet 5. §-a iktatta be.
-[^22]: A 13. § (2) bekezdés h) pontját a 31/2016. (X. 12.) EMMI rendelet 5. §-a iktatta be.
-[^23]: A 13. § (3) bekezdése a 31/2016. (X. 12.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^27]: A 13. § (2) bekezdés g) pontját a 31/2016. (X. 12.) EMMI rendelet 5. §-a iktatta be.
+[^28]: A 13. § (2) bekezdés h) pontját a 31/2016. (X. 12.) EMMI rendelet 5. §-a iktatta be.
+[^29]: A 13. § (3) bekezdése a 31/2016. (X. 12.) EMMI rendelet 8. §-a szerint módosított szöveg.

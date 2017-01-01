@@ -6,6 +6,6 @@
 
 (3) A gyógyszertárak szakfelügyeletére vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény tartalmazza.
 
-(4)[^1] A szakfelügyeleti tevékenység kiterjed valamennyi egészségügyi szolgáltató egészségügyi szolgáltatásának, valamint a szociális és gyermekvédelmi intézményekben végzett egészségügyi tevékenység felügyeletére.
+(4)[^2] A szakfelügyeleti tevékenység kiterjed valamennyi egészségügyi szolgáltató egészségügyi szolgáltatásának, valamint a szociális és gyermekvédelmi intézményekben végzett egészségügyi tevékenység felügyeletére.
 
-[^1]: A 2. § (4) bekezdését a 11/2014. (II. 24.) EMMI rendelet 49. §-a iktatta be.
+[^2]: A 2. § (4) bekezdését a 11/2014. (II. 24.) EMMI rendelet 49. §-a iktatta be.

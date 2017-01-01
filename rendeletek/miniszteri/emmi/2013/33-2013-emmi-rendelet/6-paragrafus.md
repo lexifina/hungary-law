@@ -14,11 +14,11 @@ e) gondoskodik a szakfelügyelők továbbképzéséről,
 
 f) a szakfelügyelő feladatának ellátásához a szükséges információkat rendelkezésére bocsátja,
 
-g)[^6] véleményezi a népegészségügyi feladatkörükben eljáró fővárosi, megyei kormányhivatalok szakfelügyeleti rendszer működésével kapcsolatos szabályzatát.
+g)[^8] véleményezi a népegészségügyi feladatkörükben eljáró fővárosi, megyei kormányhivatalok szakfelügyeleti rendszer működésével kapcsolatos szabályzatát.
 
-(2)[^7] A népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal a szakfelügyeleti rendszerrel kapcsolatosan:
+(2)[^9] A népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal a szakfelügyeleti rendszerrel kapcsolatosan:
 
-a)[^8] a 4. § (1) bekezdése szerinti szakfelügyelővel eseti megbízási szerződést köt, illetve kezdeményezi az eseti megbízási szerződés megkötését az adott feladat ellátására,
+a)[^10] a 4. § (1) bekezdése szerinti szakfelügyelővel eseti megbízási szerződést köt, illetve kezdeményezi az eseti megbízási szerződés megkötését az adott feladat ellátására,
 
 b) irányítja és koordinálja az általa felkért szakfelügyelő tevékenységét,
 
@@ -28,9 +28,9 @@ d) javaslatot tesz a szakfelügyelő névjegyzékbe történő felvételéhez,
 
 e) kidolgozza a szakfelügyelethez kapcsolódó feladatai ellátásához szükséges eljárásrendet.
 
-(3)[^9] A népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal a (2) bekezdés e) pontja szerinti eljárásrendet véleményezés céljából megküldi az országos tisztifőorvos részére.
+(3)[^11] A népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal a (2) bekezdés e) pontja szerinti eljárásrendet véleményezés céljából megküldi az országos tisztifőorvos részére.
 
-[^6]: A 6. § (1) bekezdés g) pontja a 23/2015. (IV. 28.) EMMI rendelet 148. § c) pontja szerint módosított szöveg.
-[^7]: A 6. § (2) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 148. § d) pontja szerint módosított szöveg.
-[^8]: A 6. § (2) bekezdés a) pontja a 11/2014. (II. 24.) EMMI rendelet 53. § b) pontja szerint módosított szöveg.
-[^9]: A 6. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 148. § e) pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés g) pontja a 23/2015. (IV. 28.) EMMI rendelet 148. § c) pontja szerint módosított szöveg.
+[^9]: A 6. § (2) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 148. § d) pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdés a) pontja a 11/2014. (II. 24.) EMMI rendelet 53. § b) pontja szerint módosított szöveg.
+[^11]: A 6. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 148. § e) pontja szerint módosított szöveg.

@@ -6,29 +6,29 @@
 
 a) képviseli és közvetíti szakterületének képviselői felé a minőségügyi alapelveket és követelményeket,
 
-b)[^33] részt vesz a szakmai irányelvek előkészítésével kapcsolatos feladatok ellátásában, szakmai véleményével segíti az OBDK-t ezzel kapcsolatos feladatainak ellátásában,
+b)[^39] részt vesz a szakmai irányelvek előkészítésével kapcsolatos feladatok ellátásában, szakmai véleményével segíti az egészségügyért felelős minisztert az ezzel kapcsolatos feladatainak ellátásában,
 
-c)[^34] közreműködik az OBDK által végzett, az egészségügyi ellátási folyamatok szakmai irányelveknek és más szakmai előírásoknak való megfelelőségének, eredményességének, hozzáférhetőségének, időszerűségének és a betegbiztonsági szempontok teljesülésének értékelésében,
+c)[^40] közreműködik az egészségügyért felelős miniszter által végzett, az egészségügyi ellátási folyamatok szakmai irányelveknek és más szakmai előírásoknak való megfelelőségének, eredményességének, hozzáférhetőségének, időszerűségének és a betegbiztonsági szempontok teljesülésének értékelésében,
 
 d) kockázatelemzési tevékenységet végez,
 
 e) közreműködik a betegbiztonsági, illetve egészségügyi ellátási problémák vizsgálatában,
 
-f)[^35] közreműködik adatgyűjtésekben, klinikai auditokban és helyszíni minőségügyi értékelésekben, az auditok és értékelések során szerzett tapasztalatokat az OBDK felé visszajelzi, továbbá javaslatokat tesz ezek témakörére és gyakoriságára,
+f)[^41] közreműködik adatgyűjtésekben, klinikai auditokban és helyszíni minőségügyi értékelésekben, az auditok és értékelések során szerzett tapasztalatokat az egészségügyért felelős miniszter felé visszajelzi, továbbá javaslatokat tesz ezek témakörére és gyakoriságára,
 
 g) együttműködik a szakterülete szerint illetékes szakmai kollégiumi tagozattal,
 
-h)[^36] a tudomására jutott vagy tapasztalt, az egészségügyi ellátás szakmai minőségét és a betegbiztonságot érintő problémákat, beavatkozást igénylő ügyeket az OBDK felé – szükség szerint megoldási javaslattal – jelzi, valamint
+h)[^42] a tudomására jutott vagy tapasztalt, az egészségügyi ellátás szakmai minőségét és a betegbiztonságot érintő problémákat, beavatkozást igénylő ügyeket az egészségügyért felelős miniszter felé – szükség szerint megoldási javaslattal – jelzi, valamint
 
 i) ellátja a jogszabályban részére meghatározott további feladatokat.
 
-(3)[^37] A minőségügyi szakfőorvos, illetve szakterületi vezető eseti feladatairól jelentést, állandó feladatairól évente beszámolót készít az OBDK részére.
+(3)[^43] A minőségügyi szakfőorvos, illetve szakterületi vezető eseti feladatairól jelentést, állandó feladatairól évente beszámolót készít az egészségügyért felelős miniszter részére.
 
-(4)[^38] Amennyiben a minőségügyi szakfőorvos, illetve szakterületi vezető feladatainak ellátása során a betegbiztonságot vagy az ellátás szakmai minőségét súlyosan veszélyeztető gyakorlatot vagy hiányosságot észlel, köteles azt közvetlenül jelezni az OBDK-nak.
+(4)[^44] Amennyiben a minőségügyi szakfőorvos, illetve szakterületi vezető feladatainak ellátása során a betegbiztonságot vagy az ellátás szakmai minőségét súlyosan veszélyeztető gyakorlatot vagy hiányosságot észlel, köteles azt közvetlenül jelezni az egészségügyért felelős miniszternek.
 
-[^33]: A 19. § (2) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 149. § d) pontja szerint módosított szöveg.
-[^34]: A 19. § (2) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 149. § c) pontja szerint módosított szöveg.
-[^35]: A 19. § (2) bekezdés f) pontja a 23/2015. (IV. 28.) EMMI rendelet 149. § c) pontja szerint módosított szöveg.
-[^36]: A 19. § (2) bekezdés h) pontja a 23/2015. (IV. 28.) EMMI rendelet 149. § c) pontja szerint módosított szöveg.
-[^37]: A 19. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 149. § c) pontja szerint módosított szöveg.
-[^38]: A 19. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 149. § e) pontja szerint módosított szöveg.
+[^39]: A 19. § (2) bekezdés b) pontja az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^40]: A 19. § (2) bekezdés c) pontja az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^41]: A 19. § (2) bekezdés f) pontja az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^42]: A 19. § (2) bekezdés h) pontja az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^43]: A 19. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^44]: A 19. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés h) pontja szerint módosított szöveg.

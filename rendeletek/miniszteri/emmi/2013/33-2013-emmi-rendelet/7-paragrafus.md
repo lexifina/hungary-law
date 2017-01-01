@@ -18,7 +18,7 @@ g) országos módszertani intézet főigazgatója, orvosigazgatója, ápolási i
 
 (3) A szakfelügyelő a megbízás alapján végzett tevékenységét személyesen köteles ellátni.
 
-(4) A megbízások alapján végzett tevékenységről a megbízó köteles nyilvántartást vezetni és azt évente egyszer az OTH részére összesítve, az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló kormányrendelet szerinti jelentés részeként megküldeni.
+(4)[^12] A megbízások alapján végzett tevékenységről a megbízó köteles nyilvántartást vezetni és azt évente egyszer országos tisztifőorvos részére megküldeni.
 
 (5) A szakfelügyelő köteles a névjegyzékben szereplő adatainak megváltozását a változást követő 15 napon belül a névjegyzéket vezető szervnél bejelenteni.
 
@@ -31,3 +31,5 @@ b) a felkérés feltételei nem állnak fenn, vagy utóbb megszűnnek,
 c) az egyedi megbízásnak ismételten – felhívást követően – nem tesz eleget, vagy neki felróható okból ismételten elmulasztja annak határidejét,
 
 d) törlik a működési nyilvántartásból.
+
+[^12]: A 7. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 91. § (1) bekezdés c) pontja szerint módosított szöveg.
