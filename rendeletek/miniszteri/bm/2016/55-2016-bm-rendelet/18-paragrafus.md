@@ -1,0 +1,5 @@
+## 17. § A belügyminiszter irányítása alatt álló rendvédelmi szervek szolgálati jelvényeinek rendszeresítésével, valamint az ilyen szerveknél szolgálati jogviszonyban álló személyek szolgálati jelvénnyel történő ellátásának rendjével összefüggő szabályokról szóló 32/2015. (VI. 16.) BM rendelet 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A szolgálati jelvény elvesztését, eltulajdonítását a hivatásos állomány tagja – körözésének elrendelése érdekében – a szolgálati jelvény eltűnésének észlelését követően haladéktalanul köteles bejelenteni az általános rendőrségi feladatok ellátására létrehozott szervnek az eltűnés helye szerint illetékes helyi szervénél. A hivatásos állomány tagja a bejelentésről készült irat másolatát köteles a közvetlen szolgálati elöljáró útján a helyi személyügyi szervhez eljuttatni.”
+
+## 8. A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet módosítása
