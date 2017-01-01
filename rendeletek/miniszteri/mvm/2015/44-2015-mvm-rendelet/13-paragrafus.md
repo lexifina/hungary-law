@@ -1,4 +1,4 @@
-## 4. Az ellenőrzési díj és a közzétételi pót igazgatási szolgáltatási díj
+## 4. [^8] Az ellenőrzési díj, a közzétételi költségtérítés és a rendszerhasználati díj
 
 13. § (1) Amennyiben a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri, a hirdetmények, illetve erre irányuló kérelem esetén a közbeszerzési dokumentumok ellenőrzéséért – a (6)–(7) bekezdés szerinti ajánlatkérők kivételével – ellenőrzési díjat kell fizetni.
 
@@ -23,3 +23,5 @@ e) az a) és c)–d) pontok alá nem tartozó hirdetmények esetében: 50 000 fo
 (6) Az ellenőrzési díj megfizetése alól mentesség illeti meg az ezer fő lakosnál kevesebb lélekszámú települések esetében a Kbt. 5. § (1) bekezdés c) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
 
 (7) Az ellenőrzési díj megfizetése alól mentesség illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 5. § (1) bekezdés c) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
+
+[^8]: A 4. alcím címe a 43/2016. (XII. 30.) MvM rendelet 11. § 5. pontjával megállapított szöveg.

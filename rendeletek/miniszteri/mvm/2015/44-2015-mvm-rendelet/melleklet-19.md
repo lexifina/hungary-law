@@ -32,7 +32,7 @@
 
 ## 2 adott esetben
 
-19. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+19. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^28]
 
 KÖZBESZERZÉSI ADATBÁZIS
 
@@ -62,24 +62,36 @@ II. szakasz: Tárgy
 
 ## II.1) Meghatározás
 
-| II.1.1) A szerződés típusa ○Építési beruházás ○Árubeszerzés ○Szolgáltatásmegrendelés |
+| II.1.1) A szerződés típusa ○ Építési beruházás ○ Árubeszerzés ○ Szolgáltatásmegrendelés |
 
 | II.1.2) A szerződés tárgya: |
 
-| II.1.3) A szerződés időtartama, vagy a teljesítés határideje Időtartam hónapban: [ ] vagy napban: [ ] vagy a teljesítés határideje: (éééé/hh/nn) |
+| II.1.3) A közbeszerzés mennyisége: (az építési beruházás, árubeszerzés vagy szolgáltatás jellegének megfelelően) |
 
-| II.1.4) A teljesítés helye: |
+| II.1.4) A szerződés időtartama, vagy a teljesítés határideje Időtartam hónapban: [ ] vagy napban: [ ] vagy a teljesítés határideje: (éééé/hh/nn) |
 
-III. szakasz: Jogi információ
+| II.1.5) A teljesítés helye: |
 
-## III.1) Részvételi feltételek
+| III. szakasz: Értékelési szempontok |
 
-| III.1.1) Fenntartott szerződésekre vonatkozó információk 2 ⬜A szerződés a Kbt. 114. § (11) bekezdése szerint fenntartott |
+| III.1) Értékelési szempontok: o Az alábbi értékelési szempontok o Minőségi szempont - Megnevezés: / Súlyszám:1 2 3 o Költség szempont - Megnevezés: / Súlyszám:1 3 o Ár szempont - Megnevezés: / Súlyszám:4 |
 
-IV. szakasz: Eljárás
+IV. szakasz: Jogi információ
 
-## IV.1) Adminisztratív információk
+## IV.1) Részvételi feltételek
 
-| IV.1.1) Az eljárás iránti érdeklődés jelzésének határideje Dátum: (éééé/hh/nn) Helyi idő: (óó:pp) |
+| IV.1.1) Alkalmassági minimumkövetelmény(ek):2 |
+
+| IV.1.2) Fenntartott szerződésekre vonatkozó információk 2 □ A szerződés a Kbt. 114. § (11) bekezdése szerint fenntartott |
+
+| IV.1.3) A Kbt. 75. § (2) bekezdés e) pontjának alkalmazására vonatkozó információk: |
+
+V. szakasz: Eljárás
+
+## V.1) Adminisztratív információk
+
+| V.1.1) Az eljárás iránti érdeklődés jelzésének határideje Dátum: (éééé/hh/nn) Helyi idő: (óó:pp) |
 
 VI. szakasz: Kiegészítő információk
+
+[^28]: A 19. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (7) bekezdésével megállapított szöveg.

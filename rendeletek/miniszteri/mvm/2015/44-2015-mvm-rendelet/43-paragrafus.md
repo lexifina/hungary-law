@@ -4,12 +4,14 @@
 
 (2) A 2015. november 1. napját megelőzően megkezdett közbeszerzésekkel kapcsolatban megküldött kérelmekre és hirdetményekre a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 92/2011. (XII. 30.) NFM rendelet alkalmazandó.
 
-(3) Az uniós hirdetményminta rendelet kihirdetéséig, illetve mindaddig, amíg a Kiadóhivatal nem biztosítja a 26–32. §-ok szerinti hirdetmények közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól szóló kormányrendeletben meghatározott elektronikus úton történő fogadását, az adott hirdetménynek a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és az 1564/2005/EK rendelet hatályon kívül helyezéséről szóló 842/2011/EU rendelet szerinti megfelelő hirdetménymintát kell alkalmazni.
+(3)–(4)[^16]
 
-(4) A Hatóság honlapján tájékoztatást tesz közzé, ha az uniós hirdetményminta rendelet kihirdetésre került és a Kiadóhivatal biztosítja a 26–32. §-ok szerinti hirdetmények közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól szóló kormányrendeletben meghatározott elektronikus úton történő fogadását. E tájékoztatás közzétételét követően a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és az 1564/2005/EK rendelet hatályon kívül helyezéséről szóló 842/2011/EU rendelet szerinti hirdetményminták a 2015. november 1-jét követően indult közbeszerzési eljárásokban nem alkalmazhatók.
+(5)[^17] Ahol jogszabály egységes európai közbeszerzési dokumentumot említ, abban az esetben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendelet szerinti formanyomtatványt kell alkalmazni.
 
-(5) Ahol jogszabály egységes európai közbeszerzési dokumentumot említ, az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló európai bizottsági végrehajtási rendelet kihirdetéséig az e rendelet 21. melléklete szerinti formanyomtatványt kell alkalmazni.
-
-(6) A Hatóság honlapján tájékoztatást tesz közzé, ha az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló európai bizottsági végrehajtási rendelet kihirdetésre került. Az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló európai bizottsági végrehajtási rendelet kihirdetését követően e rendelet 21. melléklete szerinti formanyomtatvány nem alkalmazható.
+(6)[^18]
 
 (7) Amennyiben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló európai bizottsági végrehajtási rendelet szerinti dokumentum elektronikusan is kitölthető az Európai Bizottság által rendelkezésre bocsátott elektronikus felületen, ennek elérhetőségéről a Hatóság honlapján tájékoztatást tesz közzé.
+
+[^16]: A 43. § (3)–(4) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^17]: A 43. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 9. §-ával megállapított szöveg.
+[^18]: A 43. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.

@@ -10,4 +10,6 @@
 
 (5) A hirdetménymintákban feltüntetett közszolgáltató ajánlatkérő megjelölés alatt a Kbt. 6–7. §-ában meghatározott ajánlatkérőket kell érteni.
 
-(6) A Kbt. 9. § (1) bekezdés a) pontja szerinti védelmi és biztonsági beszerzések esetén az e beszerzésekre vonatkozó külön törvény alapján a Kiadóhivatalnak megküldendő hirdetmények esetében az 1. § (4) bekezdése, a 2. §, az 5. § (1) bekezdése, a 6. §, a 7. § (1)–(3) bekezdése, a 8. §, a 14. § d) pontja, a 19. §, a 20. §, a 23. § és a 30. § (1) bekezdése megfelelően alkalmazandó; a 9. § (1)–(4) bekezdései nem alkalmazhatóak.
+(6)[^10]
+
+[^10]: A 25. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 1. pontja hatályon kívül helyezte.

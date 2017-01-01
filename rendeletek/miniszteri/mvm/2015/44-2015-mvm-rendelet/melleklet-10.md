@@ -10,7 +10,7 @@
 
 ## 2 adott esetben
 
-10. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^24]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -36,19 +36,19 @@ I. szakasz: Ajánlatkérő
 
 ## I.2) Közös közbeszerzés
 
-| ⬜A tervpályázat közös eljárás formájában valósul meg. ○Meghatalmazott ajánlatkérő nélkül. ○Az I.1) pontban feltüntetett ajánlatkérők közül meghatalmazott ajánlatkérő: (adja meg ajánlatkérő nevét) ○Ajánlatkérőnek minősülő meghatalmazott szervezet, mely az I.1) pontban nem került feltüntetésre: (adja meg a tervpályázatért nem felelős ajánlatkérőnek minősülő szervezet nevét, címét és azonosítószámát) ⬜Több ország részvételével megvalósuló közös tervpályázat. ⬜A tervpályázatot központi beszerző szerv bírálja el. |
+| □ A tervpályázat közös eljárás formájában valósul meg. ○ Meghatalmazott ajánlatkérő nélkül. ○ Az I.1) pontban feltüntetett ajánlatkérők közül meghatalmazott ajánlatkérő: (adja meg ajánlatkérő nevét) ○ Ajánlatkérőnek minősülő meghatalmazott szervezet, mely az I.1) pontban nem került feltüntetésre: (adja meg a tervpályázatért nem felelős ajánlatkérőnek minősülő szervezet nevét, címét és azonosítószámát) □ Több ország részvételével megvalósuló közös tervpályázat. □ A tervpályázatot központi beszerző szerv bírálja el. |
 
 ## I.3) Az ajánlatkérő típusa
 
-| ⬜Központi szintű ⬜Regionális/helyi szintű ⬜Közjogi szervezet | ⬜Közszolgáltató ⬜Támogatott szervezet [Kbt. 5. § (2)-(3) bekezdés] ⬜Egyéb: |
+| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2)-(3) bekezdés] □ Egyéb: |
 
 ## I.4) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
-| ⬜Általános közszolgáltatások ⬜Honvédelem ⬜Közrend és biztonság ⬜Környezetvédelem ⬜Gazdasági és pénzügyek ⬜Egészségügy | ⬜Lakásszolgáltatás és közösségi rekreáció ⬜Szociális védelem ⬜Szabadidő, kultúra és vallás ⬜Oktatás ⬜Egyéb tevékenység: |
+| □ Általános közszolgáltatások □ Honvédelem □ Közrend és biztonság □ Környezetvédelem □ Gazdasági és pénzügyek □ Egészségügy | □ Lakásszolgáltatás és közösségi rekreáció □ Szociális védelem □ Szabadidő, kultúra és vallás □ Oktatás □ Egyéb tevékenység: |
 
 ## I.5) Fő tevékenység (közszolgáltató ajánlatkérők esetében)
 
-| ⬜Gáz- és hőenergia termelése, szállítása és elosztása ⬜Villamos energia ⬜Földgáz és kőolaj kitermelése ⬜Szén és más szilárd tüzelőanyag feltárása és kitermelése ⬜Víz ⬜Postai szolgáltatások | ⬜Vasúti szolgáltatások ⬜Városi vasúti, villamos-, trolibusz- és autóbusz-szolgáltatások ⬜Kikötői tevékenységek ⬜Repülőtéri tevékenységek ⬜Egyéb tevékenység: |
+| □ Gáz- és hőenergia termelése, szállítása és elosztása □ Villamos energia □ Földgáz és kőolaj kitermelése □ Szén és más szilárd tüzelőanyag feltárása és kitermelése □ Víz □ Postai szolgáltatások | □ Vasúti szolgáltatások □ Városi vasúti, villamos-, trolibusz- és autóbusz-szolgáltatások □ Kikötői tevékenységek □ Repülőtéri tevékenységek □ Egyéb tevékenység: |
 
 II. szakasz: Tárgy
 
@@ -64,13 +64,13 @@ II. szakasz: Tárgy
 
 | II.2.2) A tervpályázat leírása: |
 
-| II.2.3) Európai uniós alapokra vonatkozó információk A tervpályázat európai uniós alapokból finanszírozott projekttel és/vagy programmal kapcsolatos ○igen ○nem Projekt száma vagy hivatkozási száma: |
+| II.2.3) Európai uniós alapokra vonatkozó információk A tervpályázat európai uniós alapokból finanszírozott projekttel és/vagy programmal kapcsolatos ○ igen ○ nem Projekt száma vagy hivatkozási száma: |
 
 IV. szakasz: Eljárás
 
 ## IV.1) Meghatározás
 
-| IV.1.1) Az eljárás fajtája ○Nyílt eljárás ○Meghívásos eljárás ○Egyszerű tervpályázati eljárás ○Nyílt eljárás ○Meghívásos eljárás |
+| IV.1.1) Az eljárás fajtája ○ Nyílt eljárás ○ Meghívásos eljárás ○ Egyszerű tervpályázati eljárás ○ Nyílt eljárás ○ Meghívásos eljárás |
 
 | IV.1.2) A pályaművek értékelésének szempontjai: |
 
@@ -80,11 +80,11 @@ IV. szakasz: Eljárás
 
 V. szakasz: Az eljárás eredménye
 
-## A tervpályázati eljárás eredményes volt ◯・ igen ◯・ nem
+## A tervpályázati eljárás eredményes volt ○ igen ○ nem
 
 ## V.1 Befejezetlen eljárással kapcsolatos információ
 
-| A befejezetlen eljárás oka ⬜A tervpályázati eljárást eredménytelennek minősítették |
+| A befejezetlen eljárás oka □ A tervpályázati eljárást eredménytelennek minősítették Az eredménytelenség indoka: |
 
 ## V.2 Az eljárás eredménye
 
@@ -104,7 +104,7 @@ V. szakasz: Az eljárás eredménye
 
 | Internetcím: (URL) | Fax: |
 
-| A nyertes pályázó Kkv ○igen ○nem |
+| A nyertes pályázó Kkv ○ igen ○ nem |
 
 | Az odaítélt díj(ak) értéke ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] |
 
@@ -120,8 +120,10 @@ V. szakasz: Az eljárás eredménye
 
 | Internetcím: (URL) | Fax: |
 
-| A pályázó Kkv ○igen ○nem |
+| A pályázó Kkv ○ igen ○ nem |
 
 | A megvételben részesített pályázat értéke ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] |
 
 VI. szakasz: Kiegészítő információk
+
+[^24]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított szöveg.

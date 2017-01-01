@@ -20,13 +20,13 @@
 
 | VI.1.10) További információk: 2 |
 
-## _________________________________________________________________________________________________________
+## ____________________________________________________________________________________________________________________________
 
 ## 1 szükség szerinti számban ismételje meg
 
 ## 2 adott esetben
 
-15. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^27]
 
 KÖZBESZERZÉSI ADATBÁZIS
 
@@ -60,11 +60,17 @@ IV. szakasz: Eljárás
 
 | IV.1.2) Az eljárás fajtája: |
 
+| IV.1.3) Tárgyalásos eljárás vagy versenypárbeszéd esetén az eljárás alkalmazását megalapozó körülmények ismertetése: |
+
 ## IV.2) Adminisztratív információk
 
 | IV.2.1) Az adott eljárásra vonatkozó korábbi közzététel 2 A hirdetmény száma a Hivatalos Lapban: 1 [ ][ ][ ][ ]/S [ ][ ][ ]–[ ][ ][ ][ ][ ][ ][ ] A hirdetmény száma a Közbeszerzési Értesítőben: 1 [ ][ ][ ][ ][ ]/[ ][ ][ ][ ] (KÉ-szám/évszám) |
 
 | IV.2.2) A közvetlen részvételi felhívás megküldésének napja: 2 (éééé/hh/nn) |
+
+| IV.2.3) Az előzetes piaci konzultációk eredményének ismertetése érdekében tett intézkedések ismertetése: 2 |
+
+| IV.2.4) Elektronikustól eltérő kommunikációs eszközök alkalmazásának indoka: 2 Közbeszerzési dokumentumok elektronikustól eltérő módon történő rendelkezésre bocsátásának indoka: |
 
 V. szakasz: Az eljárás, illetve részvételi szakasz eredménye 1
 
@@ -74,22 +80,28 @@ V. szakasz: Az eljárás, illetve részvételi szakasz eredménye 1
 
 ## V.1 Eredménytelen eljárással kapcsolatos információ 2
 
-| V.1.1) A befejezetlen eljárás oka ⬜A közbeszerzési eljárást eredménytelennek minősítették. Az eredménytelenség indoka: |
+| V.1.1) A befejezetlen eljárás oka □ A közbeszerzési eljárást eredménytelennek minősítették. Az eredménytelenség indoka: |
 
-| V.1.2) A befejezetlen eljárást követően indul-e új eljárás ○igen ○nem |
+| V.1.2) A befejezetlen eljárást követően indul-e új eljárás ○ igen ○ nem |
 
-| V.1.3) Az érvényes részvételi jelentkezést benyújtók 2 Részvételre jelentkezők neve és címe alkalmasságuk indokolása és ajánlatuknak az értékelési szempont szerinti tartalmi eleme(i): |
+| V.1.3) Az érvényes részvételi jelentkezést benyújtók 2 Részvételre jelentkezők neve, címe, adószáma és alkalmasságuk indokolása és ajánlatuknak az értékelési szempont szerinti tartalmi eleme(i): |
 
-| V.1.4) Az érvénytelen részvételi jelentkezést benyújtók 2 Az érvénytelen részvételre jelentkezők neve, címe és az érvénytelenség indoka: |
+| V.1.4) Az érvénytelen részvételi jelentkezést benyújtók 2 Az érvénytelen részvételre jelentkezők neve, címe, adószáma és az érvénytelenség indoka: |
+
+| V.1.5) Az összeférhetetlenségi helyzet elhárítása érdekében a részvételre jelentkező(k) által tett intézkedések ismertetése: 2 |
 
 ## V.2 A részvételi szakasz eredménye 2
 
 | V.2.1) Részvételi jelentkezésekre vonatkozó információk A beérkezett jelentkezések száma: [ ] |
 
-| V.2.2) Az alkalmas és érvényes részvételi jelentkezést benyújtók Részvételre jelentkezők neve és címe alkalmasságuk és minősítésük indoka: |
+| V.2.2) Az alkalmas és érvényes részvételi jelentkezést benyújtók Részvételre jelentkezők neve, címe, adószáma, alkalmasságuk és minősítésük indoka: |
 
-| V.2.3) Az alkalmatlan és érvénytelen részvételi jelentkezést benyújtók Alkalmatlan és egyéb okból érvénytelen részvételre jelentkezők neve és címe és minősítésük indoka: |
+| V.2.3) Az alkalmatlan és érvénytelen részvételi jelentkezést benyújtók Alkalmatlan és egyéb okból érvénytelen részvételre jelentkezők neve, címe, adószáma és minősítésük indoka: |
 
-| V.2.4) Ajánlattételre felhívni kívánt jelentkezők neve és címe: |
+| V.2.4) Ajánlattételre felhívni kívánt jelentkezők neve, címe és adószáma: |
+
+| V.2.5) Az összeférhetetlenségi helyzet elhárítása érdekében az ajánlatételre felhívni kívánt jelentkező(k) által tett intézkedések ismertetése: 2 |
 
 VI. szakasz: Kiegészítő információk
+
+[^27]: A 15. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (6) bekezdésével megállapított szöveg.

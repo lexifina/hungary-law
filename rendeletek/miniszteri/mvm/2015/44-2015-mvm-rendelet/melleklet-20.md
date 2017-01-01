@@ -1,16 +1,20 @@
 ## VI.1) További információk:
 
-| VI.1.1) Ajánlatkérő felhívja a gazdasági szereplők figyelmét, hogy érdeklődésüket az eljárás iránt az I.2) pontban megadott címen a IV.1.1) pontban meghatározott időpontig jelezzék. |
+| VI.1.1) Ajánlatkérő felhívja a gazdasági szereplők figyelmét, hogy érdeklődésüket az eljárás iránt az I.2) pontban megadott címen a IV.2.1) pontban meghatározott időpontig jelezzék. |
 
 | VI.1.2) További információk: 2 |
 
 ## VI.2) Az összefoglaló tájékoztatás megküldésének dátuma: (éééé/hh/nn/)
 
-## _________________________________________________________________________________________________________
+## __________________________________________________________________________________________________________________
 
 ## 1 szükség szerinti számban ismételje meg
 
 ## 2 adott esetben
+
+## 3 súlyszám helyett fontosság is megadható
+
+## 4 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
 20. melléklet a 44/2015. (XI. 2.) MvM rendelethez
 

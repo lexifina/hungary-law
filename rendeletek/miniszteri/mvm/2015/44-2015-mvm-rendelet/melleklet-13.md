@@ -4,7 +4,7 @@
 
 ## Az európai uniós, a Kbt., annak végrehajtási rendeletei és más alkalmazandó jog előírásainak történő megfelelés biztosítása az ajánlatkérő felelőssége.
 
-## _________________________________________________________________________________________________________
+## _______________________________________________________________________________________________________________________
 
 ## 1 szükség szerinti számban ismételje meg
 

@@ -12,4 +12,11 @@ d) a koncessziós szerződésekről szóló, az Európai Parlament és a Tanács
 
 e) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. február 26-ai 2014/24/EU irányelv 48-52. cikkeinek, 75. cikkének és 79. cikkének;
 
-f) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. február 26-ai 2014/25/EU irányelv 67–72. cikkeinek, 92. cikkének és 96. cikkének való megfelelést szolgálja.
+f) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. február 26-ai 2014/25/EU irányelv 67–72. cikkeinek, 92. cikkének és 96. cikkének való megfelelést szolgálja;
+
+g)[^19] a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és a 842/2011/EK végrehajtási rendelet hatályon kívül helyezéséről szóló 2015. november 11-i 2015/1986 végrehajtási rendeletnek;
+
+h)[^20] az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendeletnek
+
+[^19]: A 44. § g) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
+[^20]: A 44. § h) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.

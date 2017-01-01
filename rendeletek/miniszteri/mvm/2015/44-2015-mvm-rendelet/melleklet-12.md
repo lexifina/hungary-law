@@ -10,7 +10,7 @@
 
 ## 2 adott esetben
 
-12. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+12. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^25]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -44,9 +44,9 @@ II. szakasz: Tárgy
 
 | II.1.2) Fő CPV-kód: [ ][ ] . [ ][ ] . [ ][ ] . [ ][ ] - [ ] Kiegészítő CPV-kód: 1 2 [ ][ ][ ][ ] |
 
-| II.1.3) A szerződés típusa ○Építési beruházás ○Árubeszerzés ○Szolgáltatásmegrendelés |
+| II.1.3) A szerződés típusa ○ Építési beruházás ○ Árubeszerzés ○ Szolgáltatásmegrendelés |
 
-| II.1.4) Koncessziós beszerzési eljárásra vonatkozó információk ⬜A szerződés megkötésére koncessziós beszerzési eljárás lefolytatásával került sor |
+| II.1.4) Koncessziós beszerzési eljárásra vonatkozó információk □ A szerződés megkötésére koncessziós beszerzési eljárás lefolytatásával került sor |
 
 ## II.2) A közbeszerzés ismertetése 1
 
@@ -60,7 +60,7 @@ II. szakasz: Tárgy
 
 | II.2.5) A szerződés, keretmegállapodás vagy dinamikus beszerzési rendszer időtartama Időtartam hónapban: [ ] vagy napban: [ ] vagy Kezdés: (éééé/hh/nn) / Befejezés: (éééé/hh/nn) Keretmegállapodások esetén – klasszikus ajánlatkérők esetében a négy évet meghaladó időtartam indokolása: Keretmegállapodások esetén – közszolgáltató ajánlatkérők esetében a nyolc évet meghaladó időtartam indokolása: |
 
-| II.2.6) Európai uniós alapokra vonatkozó információk A közbeszerzés európai uniós alapokból finanszírozott projekttel és/vagy programmal kapcsolatos ○igen ○nem Projekt száma vagy hivatkozási száma: |
+| II.2.6) Európai uniós alapokra vonatkozó információk A közbeszerzés európai uniós alapokból finanszírozott projekttel és/vagy programmal kapcsolatos ○ igen ○ nem Projekt száma vagy hivatkozási száma: |
 
 IV. szakasz: Eljárás
 
@@ -76,7 +76,7 @@ V. szakasz: Az eljárás eredménye 1
 
 | V.1.1) A szerződés megkötésének dátuma: (éééé/hh/nn) |
 
-| V.1.2) Ajánlatokra vonatkozó információk A szerződést közös ajánlattevők csoportja nyerte el ○igen ○nem |
+| V.1.2) Ajánlatokra vonatkozó információk A szerződést közös ajánlattevők csoportja nyerte el ○ igen ○ nem |
 
 | V.1.3) A nyertes ajánlattevő neve és címe 1 |
 
@@ -90,7 +90,7 @@ V. szakasz: Az eljárás eredménye 1
 
 | Internetcím: (URL) | Fax: |
 
-| A nyertes ajánlattevő Kkv ○igen ○nem |
+| A nyertes ajánlattevő Kkv ○ igen ○ nem |
 
 | V.1.4) A szerződés értékére vonatkozó információk (a szerződéskötés megkötésekor; ÁFA nélkül) A szerződés végleges összértéke: [ ] Pénznem: [ ][ ][ ] |
 
@@ -110,7 +110,7 @@ VI. szakasz: A szerződés módosításai
 
 | VI.1.6) A szerződés értékére vonatkozó információk (ÁFA nélkül) A szerződés végleges összértéke: [ ] Pénznem: [ ][ ][ ] |
 
-| A szerződést közös ajánlattevők csoportja nyerte el ◯・igen ◯・nem VI.1.7) A nyertes ajánlattevő neve és címe 1 |
+| A szerződést közös ajánlattevők csoportja nyerte el ○ igen ○ nem VI.1.7) A nyertes ajánlattevő neve és címe 1 |
 
 | Hivatalos név: | Nemzeti azonosítószám: 2 |
 
@@ -122,14 +122,18 @@ VI. szakasz: A szerződés módosításai
 
 | Internetcím: (URL) | Fax: |
 
-| A nyertes ajánlattevő Kkv ○igen ○nem |
+| A nyertes ajánlattevő Kkv ○ igen ○ nem |
 
 ## VI.2) Információ a módosításokról
 
-| VI.2.1) A módosítások ismertetése A módosítások jellege és mértéke (a szerződés esetleges korábbi módosításainak feltüntetésével együtt): |
+| VI.2.1) A módosítások ismertetése A módosítás dátuma: A módosítások jellege és mértéke (a szerződés esetleges korábbi módosításainak feltüntetésével együtt): |
 
-| VI.2.2) A módosítás okai ○Igény az eredeti nyertes ajánlattevő/koncessziós jogosult által teljesítendő további építési beruházásra, szolgáltatásnyújtásra vagy árubeszerzésre Azon gazdasági vagy technikai okok, illetve hátrányok vagy többletköltségek ismertetése, amelyek miatt a szerződő fél személye nem változhat: ○Módosítási igény olyan körülmények miatt, amelyet a kellő gondossággal eljáró ajánlatkérő nem láthatott előre A módosítás szükségességét indokoló körülmények ismertetése, és e körülmények előre nem látható jellegének magyarázata: |
+| VI.2.2) A módosítás okai ○ Igény az eredeti nyertes ajánlattevő/koncessziós jogosult által teljesítendő további építési beruházásra, szolgáltatásnyújtásra vagy árubeszerzésre Azon gazdasági vagy technikai okok, illetve hátrányok vagy többletköltségek ismertetése, amelyek miatt a szerződő fél személye nem változhat: ○ Módosítási igény olyan körülmények miatt, amelyet a kellő gondossággal eljáró ajánlatkérő nem láthatott előre A módosítás szükségességét indokoló körülmények ismertetése, és e körülmények előre nem látható jellegének magyarázata: |
+
+| A módosítás jogszabályi alapja: □ Kbt. 141. § (2) bekezdés □ Kbt. 141. § (4) bekezdés □ Kbt. 141. § (4) bekezdés a) pont □ Kbt. 141. § (4) bekezdés b) pont □ Kbt. 141. § (4) bekezdés c) pont □ Kbt. 141. § (6) bekezdés |
 
 | VI.2.3) Áremelkedés A módosításokat megelőző aktualizált teljes szerződéses érték (figyelembe véve az esetleges korábbi szerződésmódosításokat és árkiigazításokat, valamint – a koncessziós beszerzési eljárás lefolytatásával megkötött szerződések esetében – az érintett tagállamban érvényesülő átlagos inflációt) Érték ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] Teljes szerződéses érték a módosítást követően Érték ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] |
 
 VII. szakasz: Kiegészítő információk
+
+[^25]: A 12. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (4) bekezdésével megállapított szöveg.

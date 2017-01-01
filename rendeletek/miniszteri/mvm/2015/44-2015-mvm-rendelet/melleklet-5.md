@@ -2,11 +2,11 @@
 
 | VI.1.1) Hirdetmény közzététele nélkül induló eljárás esetén az eljárást megindító felhívás megküldésének, illetőleg a Közbeszerzési Hatóság tájékoztatásának napja: 2 (éééé/hh/nn) |
 
-| VI.1.2) Az eljárás során figyelembe vett környezetvédelmi szempontok: 2 ⬜Szerződéses feltételként ⬜Értékelési szempontként ⬜Műszaki leírásrészeként ⬜Alkalmassági feltételek körében meghatározott környezetvédelmi intézkedések ⬜Alkalmassági feltételek körében meghatározott környezetvédelmi vezetési rendszereknek való megfelelés |
+| VI.1.2) Az eljárás során figyelembe vett környezetvédelmi szempontok: 2 □ Szerződéses feltételként □ Értékelési szempontként □ Műszaki leírásrészeként □ Alkalmassági feltételek körében meghatározott környezetvédelmi intézkedések □ Alkalmassági feltételek körében meghatározott környezetvédelmi vezetési rendszereknek való megfelelés |
 
-| VI.1.3) Az eljárás során figyelembe vett szociális szempontok: 2 ⬜Szerződéses feltételként ⬜Értékelési szempontként ⬜Műszaki leírás részeként ⬜Alkalmassági feltételként ⬜Védett foglalkoztatók számára fenntartott közbeszerzés |
+| VI.1.3) Az eljárás során figyelembe vett szociális szempontok: 2 □ Szerződéses feltételként □ Értékelési szempontként □ Műszaki leírás részeként □ Alkalmassági feltételként □ Védett foglalkoztatók számára fenntartott közbeszerzés |
 
-| VI.1.4) Fenntartott szerződés: 2 ⬜A szerződés a Kbt. 114. § (11) bekezdése szerint fenntartott |
+| VI.1.4) Fenntartott szerződés: 2 □ A szerződés a Kbt. 114. § (11) bekezdése szerint fenntartott |
 
 | VI.1.5) További információk: 2 |
 
@@ -14,7 +14,7 @@
 
 ## Az európai uniós, a Kbt., annak végrehajtási rendeletei és más alkalmazandó jog előírásainak történő megfelelés biztosítása az ajánlatkérő felelőssége.
 
-## _________________________________________________________________________________________________________
+## _______________________________________________________________________________________________________________________________
 
 ## 1 szükség szerinti számban ismételje meg
 

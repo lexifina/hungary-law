@@ -2,9 +2,9 @@
 
 | VI.1.1) Hirdetmény közzététele nélkül induló eljárás esetén az eljárást megindító felhívás megküldésének napja: 2 (éééé/hh/nn) |
 
-| VI.1.2) Az eljárás során figyelembe vett környezetvédelmi szempontok: 2 ⬜Szerződéses feltételként ⬜Értékelési szempontként ⬜Műszaki leírás részeként ⬜Alkalmassági feltételek körében meghatározott környezetvédelmi intézkedések ⬜Alkalmassági feltételek körében meghatározott környezetvédelmi vezetési rendszereknek való megfelelés |
+| VI.1.2) Az eljárás során figyelembe vett környezetvédelmi szempontok: 2 □ Szerződéses feltételként □ Értékelési szempontként □ Műszaki leírás részeként □ Alkalmassági feltételek körében meghatározott környezetvédelmi intézkedések □ Alkalmassági feltételek körében meghatározott környezetvédelmi vezetési rendszereknek való megfelelés |
 
-| VI.1.3) Az eljárás során figyelembe vett szociális szempontok: 2 ⬜Szerződéses feltételként ⬜Értékelési szempontként ⬜Műszaki leírás részeként ⬜Alkalmassági feltételként ⬜Védett foglalkoztatók számára fenntartott közbeszerzés |
+| VI.1.3) Az eljárás során figyelembe vett szociális szempontok: 2 □ Szerződéses feltételként □ Értékelési szempontként □ Műszaki leírás részeként □ Alkalmassági feltételként □ Védett foglalkoztatók számára fenntartott közbeszerzés |
 
 | VI.1.4) További információk: 2 |
 
@@ -12,7 +12,7 @@
 
 ## Az európai uniós, a Kbt., annak végrehajtási rendeletei és más alkalmazandó jog előírásainak történő megfelelés biztosítása az ajánlatkérő felelőssége.
 
-## _________________________________________________________________________________________________________
+## ______________________________________________________________________________________________________________________
 
 ## 1 szükség szerinti számban ismételje meg
 
