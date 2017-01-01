@@ -14,9 +14,7 @@ c)[^3]
 
 d) az M60 autópályának a Pécs délnyugati elkerülő szakasza az 58. és 5826. számú utak között,
 
-e)[^4] M85 autóútnak a Csorna-kelet csomópontja és az M85-M86 elválási csomópontja közötti szakasza,
-
-f) az M86 autóút,
+e)–f)[^4]
 
 g) az M8 autópálya,
 
@@ -28,4 +26,4 @@ j) az M4 autóútnak (4. számú autóút jelzés) Vecsés–Budapest Liszt Fere
 
 [^2]: A 2. §-t a 25/2013. (V. 31.) NFM rendelet 14. § (2) bekezdése hatályon kívül helyezte, újonnan az 57/2014. (XII. 30.) NFM rendelet 8. §-a iktatta be, szövege a 42/2015. (VII. 10.) NFM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § c) pontját a 42/2015. (VII. 10.) NFM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^4]: A 2. § e) pontja a 75/2015. (XII. 29.) NFM rendelet 20. §-ával megállapított szöveg.
+[^4]: A 2. § e)–f) pontját a 49/2016. (XII. 1.) NFM rendelet 3. §-a hatályon kívül helyezte.
