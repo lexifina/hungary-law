@@ -22,7 +22,7 @@ i) az Alkotmányvédelmi Hivatal vezetője vagy az általa kijelölt helyettese,
 
 j) a BM Országos Katasztrófavédelmi Főigazgatóság vezetője vagy általa kijelölt helyettese,
 
-k) a Bevándorlási és Állampolgársági Hivatal vezetője vagy az általa kijelölt helyettese,
+k)[^1] a Bevándorlási és Menekültügyi Hivatal vezetője vagy az általa kijelölt helyettese,
 
 l) a Nemzeti Adó- és Vámhivatal vezetője vagy az általa kijelölt helyettese,
 
@@ -53,3 +53,5 @@ g) javaslattevő, véleményező szervként segíti a költségvetési tervezés
 7. A Munkacsoport működési feltételeiről a belügyminiszter gondoskodik. A Munkacsoport tagjai díjazásban nem részesülnek.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont k) alpontja az 1853/2016. (XII. 27.) Korm. határozat 49. pontja szerint módosított szöveg.
