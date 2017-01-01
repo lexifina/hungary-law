@@ -1,5 +1,5 @@
-## 6. A Testület működése
+## 10. §
 
-11. § (1) A Testület működésének szabályait az alapszabály tartalmazza. Az alapszabály elfogadásához és módosításához a Testület egyhangú döntése szükséges.
+## 6.[^7]
 
-(2) A Testület megállapítja a működésével kapcsolatos további részletes szabályokat. A szabályzatok eredeti példányának megőrzéséről az Iroda gondoskodik.
+[^7]: A 6. alcímet (11–12. §) a 414/2016. (XII. 14.) Korm. rendelet 1. § b) pontja hatályon kívül helyezte.
