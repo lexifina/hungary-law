@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-143-20-
 | 2014-05-01 | 2014-143-20-22.1 | 143/2014. (IV. 30.) Korm. rendelet |
 | 2015-04-01 | 2014-143-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-09-09 | 2014-143-20-22.3 | 271/2016. (IX. 1.) Korm. rendelet |
+| 2017-01-01 | 2014-143-20-22.4 | 380/2016. (XII. 2.) Korm. rendelet |
