@@ -1,21 +1,36 @@
-4. § (1)[^13] Az egészségügyi szolgáltató munkáltató a támogatás iránti igényét az OEP által meghatározott, elektronikusan kitölthető kérelem formájában nyújthatja be legkésőbb 2016. szeptember 9-éig. Az igénylést követően az egészségügyi szolgáltató munkáltató jogosult korrekciós igényt benyújtani minden hónap 5. napjáig az OEP által meghatározott adatszolgáltatási formátumban. Az OEP a támogatási összeget a 2016. szeptember 1-je és 2016. december 31-e közötti időszakra vonatkozóan a munkáltatói foglalkoztatási adatok alapján állapítja meg.
+4. § (1)[^20]
 
-(1a)[^14] Az egészségügyi szolgáltató munkáltató a 3. § (5) bekezdése szerinti támogatás iránti igényét az OEP által meghatározott, elektronikusan kitölthető kérelem formájában nyújthatja be legkésőbb 2016. szeptember 20-áig. Az igénylést követően az egészségügyi szolgáltató munkáltató jogosult korrekciós igényt benyújtani minden hónap 5. napjáig az OEP által meghatározott adatszolgáltatási formátumban. Az egészségügyi szolgáltató munkáltató a támogatási összeget a 2016. szeptember 1-je és 2016. december 31-e közötti időszakra vonatkozóan a munkáltatói foglalkoztatási adatok alapján állapítja meg.
+(1a)[^21]
 
-(2)[^15] Az (1) és (1a) bekezdés alapján megállapított támogatási összeget az OEP havonta utalványozza a munkáltatónak. A támogatás fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete szerinti Egészségügyi dolgozók 2016. évi béremelésének fedezete előirányzat szolgál.
+(2)[^22]
 
-(3)[^16]
+(3)[^23]
 
-(4)[^17] A támogatás kizárólag a 2016. szeptember–december havi foglalkoztatással összefüggésben kifizetett bérkiegészítésre, továbbá az arra tekintettel ténylegesen megfizetett szociális hozzájárulási adóhoz használható fel. A támogatás terhére az e rendeletben foglalt jogcímeken túl más jogcímen kifizetés nem teljesíthető.
+(4)[^24] A támogatás kizárólag a 2016. szeptember–december havi foglalkoztatással összefüggésben kifizetett bérkiegészítésre, továbbá az arra tekintettel ténylegesen megfizetett szociális hozzájárulási adóhoz használható fel. A támogatás terhére az e rendeletben foglalt jogcímeken túl más jogcímen kifizetés nem teljesíthető.
 
-(5) A támogatás felhasználásának határideje: 2017. február 15.
+(5)[^25] A támogatás felhasználásának határideje: 2017. április 15.
 
-(6) A munkáltató a ténylegesen kifizetett összegekről 2017. február 28-áig köteles elszámolni az OEP által meghatározott módon. Az elszámolás módját az OEP legkésőbb 2017. január 1-jéig a honlapján közzéteszi.
+(6)[^26] A munkáltató a ténylegesen kifizetett összegekről 2017. április 30-áig köteles elszámolni az egészségügyért felelős miniszter (a továbbiakban: miniszter) által meghatározott módon. Az elszámolás módját a miniszter legkésőbb 2017. február 28-áig a honlapján közzéteszi.
 
-(7) A Magyar Államkincstár a (6) bekezdésben foglalt elszámolás érdekében legkésőbb 2017. január 31-éig az OEP részére megküldi havi és intézményi bontásban a rendelkezésére álló foglalkoztatási, bérszámfejtési adatokat 2016. január 1-jéig visszamenőleg.
+(7)[^27] A Magyar Államkincstár a (6) bekezdésben foglalt elszámolás érdekében legkésőbb 2017. március 31-éig a miniszter részére megküldi a 9. melléklet 3. pontja szerinti adatokat.
 
-[^13]: A 4. § (1) bekezdése a 359/2016. (XI. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^14]: A 4. § (1a) bekezdését a 276/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be.
-[^15]: A 4. § (2) bekezdése a 276/2016. (IX. 15.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^16]: A 4. § (3) bekezdését a 276/2016. (IX. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^17]: A 4. § (4) bekezdése a 276/2016. (IX. 15.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+(8)[^28] A 2015. október hónaptól 2016. szeptember hónapjáig tartó időszakra utalványozott bérkiegészítés – ideértve a mozgóbér elemekre nyújtott támogatást is – felhasználásáról a munkáltató 2017. április 15-éig köteles elszámolni a miniszter által meghatározott módon.
+
+(9)[^29] A Magyar Államkincstár a (8) bekezdésben foglalt elszámolás érdekében legkésőbb 2017. március 15-éig a munkáltató és a miniszter rendelkezésére bocsátja a 9. melléklet 1. és 2. pontja szerinti adatokat.
+
+(10)[^30] A Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) a miniszter tájékoztatása alapján a munkáltató által igényelt, de a bérnövekedés biztosítására fel nem használt támogatási összeget a (8) bekezdés szerinti elszámolási időpontot követően a munkáltató teljesítményfinanszírozásából egy vagy több részletben levonja. Ha a munkáltató teljesítményfinanszírozása a jogosulatlanul igénybe vett vagy felhasznált támogatás összegének levonására fedezetet nem nyújt, azt a munkáltató az egészségbiztosító felszólítására köteles visszafizetni.
+
+(11)[^31] A NEAK a munkáltatónál keletkezett többletigényre utólagosan bérkiegészítés támogatást nem utalványoz.
+
+[^20]: A 4. § (1) bekezdését a 461/2016. (XII. 23.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^21]: A 4. § (1a) bekezdését a 276/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 461/2016. (XII. 23.) Korm. rendelet 15. § c) pontja.
+[^22]: A 4. § (2) bekezdését a 461/2016. (XII. 23.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^23]: A 4. § (3) bekezdését a 276/2016. (IX. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^24]: A 4. § (4) bekezdése a 276/2016. (IX. 15.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^25]: A 4. § (5) bekezdése a 461/2016. (XII. 23.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^26]: A 4. § (6) bekezdése a 461/2016. (XII. 23.) Korm. rendelet 14. § g) és h) pontja szerint módosított szöveg.
+[^27]: A 4. § (7) bekezdése a 461/2016. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^28]: A 4. § (8) bekezdését a 461/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^29]: A 4. § (9) bekezdését a 461/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^30]: A 4. § (10) bekezdését a 461/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^31]: A 4. § (11) bekezdését a 461/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
