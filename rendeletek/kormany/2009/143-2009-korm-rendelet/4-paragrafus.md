@@ -42,7 +42,7 @@ c) az Evt. 108. § (3) bekezdés c) pontjában meghatározottak esetén: a káro
 
 ## erdővédelmi bírságot köteles fizetni.
 
-(4)[^1] A faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az erdővédelmi bírság mértéke – mérlegeléssel megállapítható mérték esetében az Evt. 108. § (7) bekezdésében foglalt szempontok figyelembevételével
+(4)[^2] A faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az erdővédelmi bírság mértéke – mérlegeléssel megállapítható mérték esetében az Evt. 108. § (7) bekezdésében foglalt szempontok figyelembevételével
 
 a) az Evt. 108. § (5) bekezdés a) és b) pontjában meghatározott esetben alkalmanként 5,0 EJA – 75,0 EJA;
 
@@ -60,7 +60,7 @@ cd) 6. cikk (1) bekezdés a) pontja és a fát és fatermékeket piaci forgalomb
 
 ce) 6. cikk (1) bekezdés b) és c) pontja, valamint a 607/2012/EU bizottsági végrehajtási rendelet 4. cikke szerinti kötelezettség elmulasztása, vagy nem megfelelő teljesítése esetén, alkalmanként 1,0 EJA – 15,0 EJA.
 
-(5)[^2] Ha egy eljárás keretében több, a (4) bekezdés hatálya alá tartozó erdővédelmi bírsággal sújtható tényállás állapítható meg, a bírság teljes összegét az egyes bírságtételek összegének figyelembevételével úgy kell megállapítani, hogy annak együttes összege legfeljebb 150,0 EJA lehet.
+(5)[^3] Ha egy eljárás keretében több, a (4) bekezdés hatálya alá tartozó erdővédelmi bírsággal sújtható tényállás állapítható meg, a bírság teljes összegét az egyes bírságtételek összegének figyelembevételével úgy kell megállapítani, hogy annak együttes összege legfeljebb 150,0 EJA lehet.
 
-[^1]: A 4. § (4) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
-[^2]: A 4. § (5) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 4. § (4) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 4. § (5) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
