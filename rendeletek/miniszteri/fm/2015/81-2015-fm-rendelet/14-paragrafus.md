@@ -4,8 +4,6 @@
 
 (3) A 2012. július 31-ig kiadott érvényes fajtaváltási engedélyek (a továbbiakban: fajtaváltási engedély), valamint telepítési és pótlási engedélyek – a szőlőfajta megnevezése, a hektáronkénti tőszám, a sortávolság, és a művelésmód kivételével – nem módosíthatóak.
 
-(4) Kérelemre a hegybíró visszavonja
+(4)[^2] Kérelemre a hegybíró visszavonja a kiadott érvényes telepítési, pótlási engedélyeket.
 
-a) a Mezőgazdasági és Vidékfejlesztési Hivatal által kiadott érvényes telepítési, pótlási, fajtaváltási engedélyeket, és
-
-b) a hegybíró által kiadott érvényes telepítési, pótlási engedélyeket.
+[^2]: A 14. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 103. §-ával megállapított szöveg.

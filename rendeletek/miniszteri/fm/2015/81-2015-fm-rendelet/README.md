@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-81-20-1
 | --- | --- | --- |
 | 2016-01-01 | 2015-81-20-11.1 | 81/2015. (XII. 16.) FM rendelet |
 | 2016-01-02 | 2015-81-20-11.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2015-81-20-11.3 | 9/2017. (III. 6.) FM rendelet |
