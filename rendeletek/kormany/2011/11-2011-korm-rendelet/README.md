@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-11-20-2
 | 2013-07-01 | 2011-11-20-22.5 | 161/2011. (VIII. 18.) Korm. rendelet |
 | 2013-07-20 | 2011-11-20-22.6 | 255/2013. (VII. 5.) Korm. rendelet |
 | 2014-09-05 | 2011-11-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2017-01-01 | 2011-11-20-22.8 | 161/2011. (VIII. 18.) Korm. rendelet |
