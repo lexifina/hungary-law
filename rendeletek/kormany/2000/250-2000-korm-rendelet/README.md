@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-250-20-
 | 2015-03-13 | 2000-250-20-22.29 | 46/2015. (III. 12.) Korm. rendelet |
 | 2016-01-01 | 2000-250-20-22.30 | 484/2015. (XII. 29.) Korm. rendelet |
 | 2016-03-23 | 2000-250-20-22.31 | 53/2016. (III. 22.) Korm. rendelet |
+| 2017-01-01 | 2000-250-20-22.32 | 480/2016. (XII. 28.) Korm. rendelet |
