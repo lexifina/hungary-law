@@ -1,10 +1,9 @@
-## 16. §[^18] Az egyes földügyi tárgyú kormányrendeletek módosításáról szóló 341/2016. (XI. 17.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 2. § (1) és (1a) bekezdését, 3. § (4) és (4a) bekezdését, 5. § (1), (1a) és (1b) bekezdését, 6. § (1) és (2) bekezdését, 11. § (1), (2) és (2a) bekezdését a MódR. hatálybalépésének[^19] napján vagy azt követően közzétett vagy közölt adásvételi és haszonbérleti szerződésekre kell alkalmazni.
+## 16. §[^21] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-17. § (1)[^20]
+17. § (1)[^22]
 
-(2)–(3)[^21]
+(2)–(3)[^23]
 
-[^18]: A 16. §-t a 14. § (3) bekezdése hatályon kívül helyezte, újonnan a 341/2016. (XI. 17.) Korm. rendelet 12. §-a iktatta be.
-[^19]: A hatálybalépés napja 2016. december 2.
-[^20]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 17. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az újabb 16. §-t a 477/2016. (XII. 27.) Korm. rendelet 72. § (2) bekezdése iktatta be.
+[^22]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 17. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

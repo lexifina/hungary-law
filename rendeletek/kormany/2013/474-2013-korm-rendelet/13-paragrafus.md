@@ -12,13 +12,13 @@ c) annak megjelölése, hogy a szerződés föld adás-vételére vagy haszonbé
 
 d) a szerződésben szereplő
 
-da)[^16] földrészlet (földrészletek) adatai: település, helyrajzi szám, művelési ág, területnagyság, tulajdoni hányad,
+da)[^17] földrészlet (földrészletek) adatai: település, helyrajzi szám, művelési ág, területnagyság, tulajdoni hányad,
 
 db) ellenszolgáltatásként megjelölt vételár vagy haszonbér megjelölése,
 
 e) figyelemfelhívás arra, hogy a tájékoztató nem minősül a szerződés közlésének.
 
-(3)[^17] A tájékoztatónak a kormányzati portálon való közzététele céljából a jegyző a (2) bekezdésben foglalt adatokat – a földügyért felelős miniszter által erre a célra rendszeresített, a kormányzati portálon elérhető elektronikus űrlapon, jogszabályban meghatározott biztonságos elektronikus dokumentumtovábbító szolgáltatás segítségével – az (1) bekezdésben meghatározott napon megküldi a kormányzati portált üzemeltető szervezetnek (a továbbiakban: működtető szervezet). Az elektronikus tájékoztató mellékleteként a hirdetményi úton közölt szerződés nem küldhető meg, illetve az a tájékoztatóval együtt nem tehető közzé.
+(3)[^18] A tájékoztatónak a kormányzati portálon való közzététele céljából a jegyző a (2) bekezdésben foglalt adatokat – a földügyért felelős miniszter által erre a célra rendszeresített, a kormányzati portálon elérhető elektronikus űrlapon, jogszabályban meghatározott biztonságos elektronikus dokumentumtovábbító szolgáltatás segítségével – az (1) bekezdésben meghatározott napon megküldi a kormányzati portált üzemeltető szervezetnek (a továbbiakban: működtető szervezet). Az elektronikus tájékoztató mellékleteként a hirdetményi úton közölt szerződés nem küldhető meg, illetve az a tájékoztatóval együtt nem tehető közzé.
 
 (4) A működtető szervezet haladéktalanul köteles a tájékoztatót a kormányzati portálon közzétenni. A jegyző köteles meggyőződni arról, hogy a tájékoztató a kormányzati portálon közzétételre került. Ennek elmaradását haladéktalanul, igazolt módon jeleznie kell a működtető szervezetnek.
 
@@ -26,5 +26,5 @@ e) figyelemfelhívás arra, hogy a tájékoztató nem minősül a szerződés k�
 
 (6) A tájékoztató közzétételéhez szükséges elektronikus űrlap kitöltéséért a jegyző, a tájékoztató közzétételéért a működtető szervezet felelős.
 
-[^16]: A 13. § (2) bekezdés d) pont da) alpontja a 341/2016. (XI. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^17]: A 13. § (3) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^17]: A 13. § (2) bekezdés d) pont da) alpontja a 341/2016. (XI. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^18]: A 13. § (3) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

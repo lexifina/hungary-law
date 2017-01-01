@@ -6,7 +6,8 @@
 
 (2) A Földforgalmi tv. 19. § (5) bekezdésében meghatározott esetben az eladó az adás-vételi szerződésben szereplő földek fekvése szerinti bármelyik illetékes települési önkormányzat jegyzője részére benyújthatja a közzétételi kérelmet.
 
-(3) A közzétételi kérelmet a jegyző részére postai úton kell megküldeni, vagy személyesen kell átadni. A kérelemhez a Fétv.-ben meghatározott példányszámban és formában csatolni kell az egységes okiratba foglalt adás-vételi szerződést.
+(3)[^5] A közzétételi kérelmet a jegyző részére kell megküldeni, és csatolni kell az egységes okiratba foglalt adás-vételi szerződést.
 
 [^3]: A 2. § (1) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1a) bekezdésát a 341/2016. (XI. 17.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^5]: A 2. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.

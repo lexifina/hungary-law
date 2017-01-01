@@ -1,4 +1,4 @@
-2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^23]
+2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^25]
 
 ## A haszonbérleti szerződés hirdetményi úton történő közlésére irányuló közzétételi kérelem tartalma
 
@@ -52,10 +52,10 @@ bb) 3. mellékletben meghatározott adattartalmú, a kérelmező tulajdonostárs
 
 II. A jegyző által feltüntetendő tartalmi elemek:
 
-1. A postai úton érkező közzétételi kérelem esetén a kérelem érkezési ideje.
+1. A postai vagy elektronikus úton érkező közzétételi kérelem esetén a kérelem érkezési ideje.
 
 2. Személyesen átvett közzétételi kérelem esetén az átvétel időpontja.
 
 3. A jegyző aláírása, bélyegzője és az aláírás dátuma.
 
-[^23]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 72. § (3) bekezdése szerint módosított szöveg.
