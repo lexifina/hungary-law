@@ -1,3 +1,5 @@
+## nyújthatja be az arcképelemző tevékenységet végző szervnek.
+
 ## 3. § A személyazonosság ellenőrzésének és az ismeretlen személy azonosításának elemzői támogatása iránti kérelemben meg kell jelölni
 
 a) az igénybevétel célját,
