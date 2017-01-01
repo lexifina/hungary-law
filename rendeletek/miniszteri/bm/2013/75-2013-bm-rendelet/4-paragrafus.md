@@ -6,9 +6,9 @@ a) a belügyi szervvel foglalkoztatási jogviszonyban áll, és
 
 b) foglalkoztatási helyén önálló lakással nem rendelkezik, kivéve, ha az általa használt lakás nem éri el lakásigénye mértékének a lakáscélú állami támogatásokról szóló kormányrendelet által meghatározott méltányolható lakásigény alsó határát és e lakást a belügyi szerv hasznosíthatja, és
 
-c)[^7] az 1. § (2) bekezdés a)–c) pontjában szereplő belügyi szerv vagyonkezelésében lévő lakás esetében hozzájárul a lakásbérleti díj (lakáshasználati díj) és a külön szolgáltatások díjának foglalkoztatási jogviszony alapján járó juttatásból történő levonásához.
+c)[^9] az 1. § (2) bekezdés a)–c) pontjában szereplő belügyi szerv vagyonkezelésében lévő lakás esetében hozzájárul a lakásbérleti díj (lakáshasználati díj) és a külön szolgáltatások díjának foglalkoztatási jogviszony alapján járó juttatásból történő levonásához.
 
-(2)[^8] A már fennálló bérleti jogviszony változatlan feltételekkel fenntartható, ha a foglalkoztatási jogviszonyban álló az Országgyűlési Őrség állományába kerül át.
+(2)[^10] A már fennálló bérleti jogviszony változatlan feltételekkel fenntartható, ha a foglalkoztatási jogviszonyban álló az Országgyűlési Őrség állományába kerül át.
 
 (3) Amennyiben a belügyi szervvel foglalkoztatási jogviszonyban álló személynek állandó jelleggel a foglalkoztatási helyén kell tartózkodnia, részére a munkaköri szolgálati lakás abban az esetben is bérbe adható, ha a munkahelyén, foglalkoztatási helyén önálló lakással rendelkezik.
 
@@ -30,8 +30,8 @@ g) aki foglalkoztatási helyén lakásépítéshez vagy -vásárláshoz 5 éven 
 
 h) aki korábban belügyi rendelkezésű lakásban jogcím nélküli lakáshasználót hagyott vissza.
 
-(5)[^9] A belügyminiszter az (1) bekezdés a) pontjában, valamint a (4) bekezdés a)–g) pontjában foglaltaktól eltérést engedélyezhet, ha azt kivételes foglalkoztatási érdek, vagy rendkívüli egyéni körülmények indokolják.
+(5)[^11] A belügyminiszter az (1) bekezdés a) pontjában, valamint a (4) bekezdés a)–g) pontjában foglaltaktól eltérést engedélyezhet, ha azt kivételes foglalkoztatási érdek, vagy rendkívüli egyéni körülmények indokolják.
 
-[^7]: A 4. § (1) bekezdés c) pontja a 15/2016. (V. 11.) BM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^8]: A 4. § (2) bekezdése a 15/2016. (V. 11.) BM rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^9]: A 4. § (5) bekezdése a 15/2016. (V. 11.) BM rendelet 16. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^9]: A 4. § (1) bekezdés c) pontja a 15/2016. (V. 11.) BM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^10]: A 4. § (2) bekezdése a 15/2016. (V. 11.) BM rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^11]: A 4. § (5) bekezdése a 15/2016. (V. 11.) BM rendelet 16. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
