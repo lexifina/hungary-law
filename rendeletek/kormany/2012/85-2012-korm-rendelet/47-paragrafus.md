@@ -1,1 +1,0 @@
-## 14. Hatósági bizonyítvány

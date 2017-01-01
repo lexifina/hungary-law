@@ -1,1 +1,0 @@
-## 18. § A hatóság köteles elfogadni az állam által kötelezően nyújtandó azonosítási szolgáltatással történő azonosítást, feltéve, hogy azt az ügyfél az ügyintézési rendelkezésben nem zárta ki. A hatóság az általa elfogadott további azonosítási szolgáltatásokat köteles az elektronikus ügytájékoztatóban közzétenni.

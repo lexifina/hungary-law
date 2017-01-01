@@ -1,1 +1,0 @@
-## 20. § Az elektronikus ügyintézést biztosító hatóság köteles a jogszabályban kijelölt szervezet által nyújtott azonosítási szolgáltatás központi azonosítási ügynök rész-szolgáltatásán keresztül történő azonosíthatóságot ügyfelei számára lehetővé tenni.

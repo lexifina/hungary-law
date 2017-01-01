@@ -1,3 +1,0 @@
-11. § (1) A hangkapcsolatot biztosító elektronikus út több ügyfél egyidejű részvételével akkor alkalmazható, ha a hangkapcsolat során egyértelműen elkülöníthetőek és azonosíthatóak az ügyfelek és az általuk tett jog- és egyéb nyilatkozatok, valamint minden ügyfél tekintetében teljesülnek a jelen §-ban és az egyébként jogszabályban előírt tájékoztatási és egyéb követelmények.
-
-(2) A hangkapcsolatot biztosító elektronikus úton lefolytatott eljárási cselekmények tényét az ügyfél elektronikus ügyintézési cselekményekre vonatkozó időszaki értesítése az ügyfél ilyen irányú kérése esetén tartalmazza.

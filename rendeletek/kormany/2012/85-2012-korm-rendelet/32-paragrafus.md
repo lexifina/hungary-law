@@ -1,3 +1,0 @@
-32. § (1) A hatóság az általa készített és az ügyfél vagy más szerv számára továbbított elektronikus dokumentumoknál a felügyelet által a hatóság által alkalmazható dokumentumformátumokról közzétett formátumlistán szereplő formátumok közül a hatóságra irányadó jogszabályok figyelembevételével bármelyiket alkalmazhatja.
-
-(2) Az ügyfél és a címzett hatóság kérheti az irat (1) bekezdésben szereplő listán nem szereplő más elektronikus formátumban történő megküldését. Ez esetben a hatóság jogosult az ügyfél vagy a címzett hatóság költségére az ügyfél által igényelt eltérő formátumú elektronikus másolatot készíteni vagy készíttetni.
