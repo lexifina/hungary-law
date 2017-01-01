@@ -28,4 +28,6 @@ b) a (2) bekezdés szerinti átvevő- és kezelőhálózaton keresztül
 
 átvett és kezelt hulladékra vonatkozó éves adatokról a telephelyén nyilvántartást vezet (nyilvántartási kötelezettség).
 
-(7) A gyártó az e rendeletben foglaltak szerint az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: OKTF) részére adatot szolgáltat (adatszolgáltatási kötelezettség).
+(7)[^2] A gyártó az e rendeletben foglaltak szerint az a környezetvédelmi hatáskörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: országos környezetvédelmi hatóság) részére adatot szolgáltat (adatszolgáltatási kötelezettség).
+
+[^2]: A 4. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés a) pontja szerint módosított szöveg.

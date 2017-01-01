@@ -2,7 +2,7 @@
 
 8. § (1) A gyártó a 4. és az 5. §-ban meghatározott kötelezettségeinek átvállalására és teljesítésére közvetítő szervezetet hozhat létre vagy bízhat meg.
 
-(2) Ha a gyártó a 4. és az 5. §-ban meghatározott kötelezettségeinek átvállalására és teljesítésére közvetítő szervezetet hozott létre vagy bízott meg, a közvetítő szervezet az átvevő- és kezelőhálózat kialakítását az 1. mellékletben meghatározott tartalommal az OKTF részére papír alapon bejelenti.
+(2)[^6] Ha a gyártó a 4. és az 5. §-ban meghatározott kötelezettségeinek átvállalására és teljesítésére közvetítő szervezetet hozott létre vagy bízott meg, a közvetítő szervezet az átvevő- és kezelőhálózat kialakítását az 1. mellékletben meghatározott tartalommal az országos környezetvédelmi hatóság részére papír alapon bejelenti.
 
 (3) A bejelentéshez a közvetítő szervezet a következő adatokat adja meg, valamint igazolásokat, okiratokat csatolja:
 
@@ -26,6 +26,10 @@ a) minden csatlakozott gyártó átvételi, újrahasználatra előkészítési �
 
 b) biztosítani tudja a csatlakozott gyártók, valamint a hulladék újrahasználatra előkészítésének és kezelésének olyan nyilvántartását, amely alapján megállapítható az e rendelet szerinti hasznosítási arányok teljesítése.
 
-(5) A közvetítő szervezetet az OKTF akkor veszi nyilvántartásba, ha a (3) bekezdésben meghatározott valamennyi feltételt teljesíti.
+(5)[^7] A közvetítő szervezetet az országos környezetvédelmi hatóság akkor veszi nyilvántartásba, ha a (3) bekezdésben meghatározott valamennyi feltételt teljesíti.
 
-(6) A közvetítő szervezetnek a (3) bekezdésben meghatározott adatokkal kapcsolatos minden változást a változást követő 15 napon belül – a változás tényét igazoló dokumentum csatolásával – az OKTF részére be kell jelentenie.
+(6)[^8] A közvetítő szervezetnek a (3) bekezdésben meghatározott adatokkal kapcsolatos minden változást a változást követő 15 napon belül – a változás tényét igazoló dokumentum csatolásával – az országos környezetvédelmi hatóság részére be kell jelentenie.
+
+[^6]: A 8. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 8. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 8. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja szerint módosított szöveg.
