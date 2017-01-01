@@ -14,7 +14,7 @@ c) azon, az egészségügyi szolgáltató által nyújtott egészségügyi ellá
 
 d) az a) pont szerinti éles vagy hegyes eszközök közül azok felsorolását, amelyek alternatív, illetve biztonságosabb eszközökkel helyettesíthetők, továbbá ha helyettesítésük nem lehetséges, annak indokolását.
 
-(4)[^2] Amennyiben a kockázatértékelés a munkavállaló biztonságát vagy egészségét veszélyeztető kockázat jelenlétét állapítja meg, az egészségügyi szolgáltató – a telephelye szerint illetékes – munkavédelmi hatóság hatáskörében eljáró fővárosi és megyei kormányhivatalnak elektronikus vagy egyéb úton megküldi a kockázatértékelést, valamint ezzel egyidejűleg bejelenti:
+(4)[^2] Amennyiben a kockázatértékelés a munkavállaló biztonságát vagy egészségét veszélyeztető kockázat jelenlétét állapítja meg, az egészségügyi szolgáltató – a telephelye szerint illetékes – fővárosi és megyei kormányhivatal munkavédelmi hatósági és munkaügyi hatósági feladatkörében eljáró járási (fővárosi kerületi) hivatalának elektronikus vagy egyéb úton megküldi a kockázatértékelést, valamint ezzel egyidejűleg bejelenti:
 
 a) az egészségügyi szolgáltató nevét, székhelyét, a bejelentéssel érintett telephelyét, az adószámát, illetve adóazonosító jelét, a munkáltató és az érintett telephely TEÁOR számát;
 
@@ -26,4 +26,4 @@ d) a munkavállalók biztonsági és egészségvédelmi képviselőjének nevét
 
 e) a megtett megelőző intézkedéseket.
 
-[^2]: A 4. § (4) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 152. §-a szerint módosított szöveg.
+[^2]: A 4. § (4) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 152. §-a, az 54/2016. (XII. 30.) EMMI rendelet 92. §-a szerint módosított szöveg.
