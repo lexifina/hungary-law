@@ -18,7 +18,7 @@
 
 ## j) a Kormány által normatív határozatban meghatározott egyéb, a tevékenységi körébe tartozó feladatot végez.
 
-## (2) Az Intézet az igazságügyért felelős miniszter és az Igazságügyi Hivatal kárpótlási hatósági feladatköréhez kapcsolódó ügyekben keletkezett iratanyag irattárazási feladatait látja el.
+## (2)[^6] Az Intézet a kárpótlási hatóság hatósági feladatköréhez kapcsolódó ügyekben keletkezett iratanyag irattárazási feladatait látja el.
 
 ## (3) Az Intézet a (2) bekezdés szerinti iratanyag maradandó értékű iratainak kezelésére a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvényben meghatározott állami szaklevéltárat működtet.
 
@@ -29,3 +29,5 @@
 ## 3. Záró rendelkezések
 
 5. § Ez a rendelet 2014. január 2-án lép hatályba.
+
+[^6]: A 4. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 249. §-a szerint módosított szöveg.
