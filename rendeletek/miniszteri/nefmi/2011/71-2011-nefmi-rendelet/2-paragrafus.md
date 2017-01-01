@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya kiterjed az Országos Egészségbiztosítási Pénztárra, valamint az Egészségbiztosítási Alapból finanszírozott egészségügyi szolgáltatás nyújtására szerződött egészségügyi szolgáltatókra.
+## 1. §[^1] E rendelet hatálya kiterjed a Nemzeti Egészségbiztosítási Alapkezelőre, valamint az Egészségbiztosítási Alapból finanszírozott egészségügyi szolgáltatás nyújtására szerződött egészségügyi szolgáltatókra.
 
 ## 2. Általános elvek
 
@@ -11,3 +11,5 @@
 a) valamely dokumentum hiányának okát az orvosi dokumentációban rögzíteni kell, és
 
 b) a dokumentációban kötelező rögzíteni minden elvégzett beavatkozást alátámasztó diagnózist (BNO kód), röntgenfelvételt, egyéb vizsgálati eredményt, továbbá az alkalmazott gyógyszer nevét és mennyiségét.
+
+[^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 81. §-a szerint módosított szöveg.
