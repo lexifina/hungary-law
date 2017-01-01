@@ -4,6 +4,8 @@
 
 ## HAGYOMÁNYOS KIFEJEZÉSEK OLTALMA
 
-17. § (1) A Hegyközségek Nemzeti Tanácsa kezdeményezheti a hagyományos kifejezések oltalma iránti bejelentést. A Bizottsághoz való benyújtást megelőzően a 13. §-ban foglaltak megfelelő alkalmazásával vizsgálni kell, hogy a hagyományos kifejezés megfelel-e az 1234/2007/EK rendelet 118u. cikkében foglaltaknak. A hagyományos kifejezések oltalma iránti kérelmet a 607/2009/EK rendelet 29–31. cikkeiben foglaltaknak megfelelően a 607/2009/EK rendelet VII. mellékletében lévő minta szerint a miniszter nyújtja be a Bizottságnak.
+17. § (1)[^13] A Hegyközségek Nemzeti Tanácsa kezdeményezheti a hagyományos kifejezések oltalma iránti bejelentést. A Bizottsághoz való benyújtást megelőzően a 13. §-ban foglaltak megfelelő alkalmazásával vizsgálni kell, hogy a hagyományos kifejezés megfelel-e az 1308/2013/EU európai parlamenti és tanácsi rendelet 112. cikkében foglaltaknak. A hagyományos kifejezések oltalma iránti kérelmet a 607/2009/EK rendelet 29–31. cikkeiben foglaltaknak megfelelően a 607/2009/EK rendelet VII. mellékletében lévő minta szerint a miniszter nyújtja be a Bizottságnak.
 
 (2) A hagyományos kifejezések törlése iránti kérelmet a 607/2009/EK rendelet 45. cikkében és IX. mellékletében foglaltak szerint a miniszterhez kell benyújtani. A törlés iránti kérelmet a miniszter nyújtja be a Bizottságnak. A benyújtást megelőzően a 12–13. §-ban foglaltak megfelelő alkalmazásával vizsgálni kell, hogy a törlés iránti kérelem megfelel-e az előírt követelményeknek.
+
+[^13]: A 17. § (1) bekezdése a 484/2016. (XII. 28.) Korm. rendelet 12. § (4) bekezdés g) pontja szerint módosított szöveg.

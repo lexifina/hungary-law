@@ -1,4 +1,4 @@
-13. § (1)[^3] A miniszter a Vt. 116/A. § (8) bekezdésének megfelelően az általa vezetett minisztérium hivatalos lapjában és honlapján közzéteszi a kérelmet, ha a részletes vizsgálat során megállapítást nyer, hogy azt az arra jogosult nyújtotta be, és a termékleírás, valamint az egységes dokumentum megfelel a jogszabályokban előírt feltételeknek.
+13. § (1)[^10] A miniszter a Vt. 116/A. § (8) bekezdésének megfelelően az általa vezetett minisztérium hivatalos lapjában és honlapján közzéteszi a kérelmet, ha a részletes vizsgálat során megállapítást nyer, hogy azt az arra jogosult nyújtotta be, és a termékleírás, valamint az egységes dokumentum megfelel a jogszabályokban előírt feltételeknek.
 
 (2) Az arra jogosult személyek a kérelemmel szemben a Vt. 116/A. § (8) bekezdése szerint a közzétételtől számított két hónapon belül kifogást nyújthatnak be a miniszterhez.
 
@@ -6,4 +6,4 @@
 
 (4) Ha az előírt határidőn belül kifogás nem érkezik, a miniszter a Vt. 116/A. §-ának (9) bekezdésében foglaltaknak megfelelően jár el.
 
-[^3]: A 13. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 450. § b) pontja szerint módosított szöveg.
+[^10]: A 13. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 450. § b) pontja szerint módosított szöveg.

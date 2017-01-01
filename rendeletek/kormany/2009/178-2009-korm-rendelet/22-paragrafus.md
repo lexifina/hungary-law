@@ -4,7 +4,7 @@
 
 ## ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK
 
-22. § (1)[^5] Az 1234/2007/EK rendelet 118s. cikkének (1) bekezdése szerint oltalom alatt álló eredetmegjelölés, illetve oltalom alatt álló földrajzi jelzés esetében a 2–10. §-ban foglaltaknak megfelelő termékleírást a miniszterhez kell benyújtani legkésőbb 2011. május 31. napjáig.
+22. § (1)[^16] Az 1308/2013/EU európai parlamenti és tanácsi rendelet 107. cikk (1) bekezdése szerint oltalom alatt álló eredetmegjelölés, illetve oltalom alatt álló földrajzi jelzés esetében a 2–10. §-ban foglaltaknak megfelelő termékleírást a miniszterhez kell benyújtani legkésőbb 2011. május 31. napjáig.
 
 (2) A kérelemhez csatolni kell annak igazolását, hogy a termékleírást a hegyközségi tagok, illetve több hegyközséget érintő bejelentés esetén az érintett hegyközségek tagjai megismerték, és azt szabályszerűen összehívott közgyűlésen véleményezték. A kérelemhez csatolni kell a kisebbségi véleményt is tartalmazó közgyűlési jegyzőkönyveket.
 
@@ -26,4 +26,4 @@ d) az érintett hegyközség vagy a hegyközségek együttesen a borvidéken bel
 
 (7) A miniszter a termékleírást és a nemzeti jóváhagyásról szóló határozatot, valamint a (4) bekezdés szerinti átalakítás iránti kérelmet 8 munkanapon belül a Bizottsághoz továbbítja.
 
-[^5]: A 22. § (1) bekezdése a 272/2010. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 22. § (1) bekezdése a 272/2010. (XII. 8.) Korm. rendelet 1. §-ával megállapított, a 484/2016. (XII. 28.) Korm. rendelet 12. § (4) bekezdés i) pontja szerint módosított szöveg.
