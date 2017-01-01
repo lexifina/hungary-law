@@ -1,3 +1,3 @@
-41/B. §[^233] A jegyző az Nytv. 28/A. § (2) bekezdés f) és g) pontját érintő adatjavításokat és adatváltozásokat a vonatkozó döntés jogerőre emelkedését követően átvezeti a címnyilvántartásban, a cím központi címregiszterbe történő bejegyzésével egyidejűleg.
+41/B. §[^234] A jegyző az Nytv. 28/A. § (2) bekezdés f) és g) pontját érintő adatjavításokat és adatváltozásokat a vonatkozó döntés jogerőre emelkedését követően átvezeti a címnyilvántartásban, a cím központi címregiszterbe történő bejegyzésével egyidejűleg.
 
-[^233]: Az R. 41/B. §-át a 417/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be, szövege a 345/2014. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^234]: Az R. 41/B. §-át a 417/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be, szövege a 345/2014. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.

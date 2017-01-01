@@ -8,7 +8,7 @@
 
 ## Címzett:
 
-## Én[^254]
+## Én[^257]
 
 ## – családi neve:
 
@@ -16,9 +16,7 @@
 
 ## – anyja születési családi neve:
 
-## – születési utóneve(i):
-
-## – a személyazonosító igazolványban szereplő
+## – születési neve:
 
 ## = lakóhelye (állandó lakcím):
 
@@ -28,7 +26,7 @@
 
 ## a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 2. §-ának (1) bekezdése alapján a rólam nyilvántartott adatok kiadását megtiltom.
 
-## Tudomásul veszem, hogy a járási hivatal vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának megkeresésére – eseti engedélyem alapján – az adatszolgáltatási tilalmat feloldhatom.
+## Tudomásul veszem, hogy a járási hivatal, Budapest Főváros Kormányhivatala vagy a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett minisztérium megkeresésére – eseti engedélyem alapján – az adatszolgáltatási tilalmat feloldhatom.
 
 ## A nyilatkozat nem érinti a törvényben kötelezően előírt adatszolgáltatások teljesítését (pl. adóigazgatás, honvédelmi nyilvántartás, ingatlan-nyilvántartás), továbbá a törvény 20. §-a alapján engedélyezett adatszolgáltatásokat.
 
@@ -36,7 +34,7 @@
 
 ## Aláírás / Elektronikus aláírás
 
-2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^255]
+2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^258]
 
-[^254]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
-[^255]: Az R. 2. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés a) pontjával megállapított szöveg.
+[^257]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
+[^258]: Az R. 2. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés a) pontjával megállapított szöveg.
