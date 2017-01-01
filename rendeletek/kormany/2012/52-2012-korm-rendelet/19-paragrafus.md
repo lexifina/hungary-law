@@ -1,4 +1,4 @@
-## 19. §[^2] Ez a rendelet
+## 19. §[^15] Ez a rendelet
 
 a) a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 27-i 329/2007/EK tanácsi rendelet,
 
@@ -8,7 +8,7 @@ c) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendele
 
 d) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet
 
-e)[^3] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
+e)[^16] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
 
-[^2]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 209/2012. (VII. 27.) Korm. rendelet 17. §-a iktatta be.
-[^3]: A 19. § e) pontját a 78/2013. (III. 13.) Korm. rednelet 21. §-a iktatta be.
+[^15]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 209/2012. (VII. 27.) Korm. rendelet 17. §-a iktatta be.
+[^16]: A 19. § e) pontját a 78/2013. (III. 13.) Korm. rednelet 21. §-a iktatta be.
