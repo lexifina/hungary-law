@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-50-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2002-50-20-0L.13 | 50/2002. (XII. 29.) GKM rendelet |
+| 2017-01-01 | 2002-50-20-0L.14 | 66/2016. (XII. 29.) NFM rendelet |

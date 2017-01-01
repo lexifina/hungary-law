@@ -64,7 +64,7 @@
 
 ## b) a rögzítés, megközelítés módját és a közlekedésre szolgáló eszközöket tartalmazó tervet,
 
-## c) annak bemutatását, hogy az úszóműállás nem korlátozza, akadályozza a víziközlekedést, illetve az ahhoz kapcsolódó hajózási létesítmények biztonságos használatát, valamint megfelel a Hajózási Szabályzat[^111] (a továbbiakban: HSZ) előírásainak,
+## c) annak bemutatását, hogy az úszóműállás nem korlátozza, akadályozza a víziközlekedést, illetve az ahhoz kapcsolódó hajózási létesítmények biztonságos használatát, valamint megfelel a Hajózási Szabályzat[^112] (a továbbiakban: HSZ) előírásainak,
 
 ## d) a használt víz- (és ha parthoz csatlakozik a part) parti terület tulajdonosának (kezelőjének) hozzájárulását,
 
@@ -108,7 +108,7 @@
 
 ## .1.3 vízi repülőtér mellett a biztonsági sáv szélessége legalább 100 m legyen.
 
-## .2 A pálya határait 50 méterenként (vagy indokolt esetben kisebb távolságonként) legalább 0,4 x 0,25 méter méretű, a HSZ szerinti A.1. jellel[^112], és az ezeket összekapcsoló kötélre felfűzött sárga színű műanyag bójákkal kell megjelölni; a hajóút felől legalább 3 db radarreflektorral meg kell jelölni; folyón, tavon és duzzasztott bögén, valamint kijelölt pálya esetén a hajóút felőli határvonal mindkét végpontját, illetőleg körülhajózható pálya esetében minden sarokpontját, az A.1. jellel meg kell jelölni és az A.1 jelet éjszakai jelzéssel együtt kell üzemeltetni.
+## .2 A pálya határait 50 méterenként (vagy indokolt esetben kisebb távolságonként) legalább 0,4 x 0,25 méter méretű, a HSZ szerinti A.1. jellel[^113], és az ezeket összekapcsoló kötélre felfűzött sárga színű műanyag bójákkal kell megjelölni; a hajóút felől legalább 3 db radarreflektorral meg kell jelölni; folyón, tavon és duzzasztott bögén, valamint kijelölt pálya esetén a hajóút felőli határvonal mindkét végpontját, illetőleg körülhajózható pálya esetében minden sarokpontját, az A.1. jellel meg kell jelölni és az A.1 jelet éjszakai jelzéssel együtt kell üzemeltetni.
 
 ## .3 Folyón kijelölt pályánál:
 
@@ -118,7 +118,7 @@
 
 ## .4 A pályához vezető utat mindkét oldalán 10 m-enként sárga műanyag bójákkal kell megjelölni.
 
-## .5 A pálya határait a parton fürdést tiltó táblákkal is meg kell jelölni[^113].
+## .5 A pálya határait a parton fürdést tiltó táblákkal is meg kell jelölni[^114].
 
 ## .6 Vízijárművenként legalább 2500 m2 vízterületet kell kialakítani.
 
@@ -138,9 +138,9 @@
 
 ## 2.5 Vízi repülőtérrel kpcsolatos előírások
 
-## 2.5.1[^114] A vízi repülőtér sarokpontjait jól azonosító radarreflektorral és tetőjelként a Hajózási Szabályzat szerinti A.1 nappali és éjszakai jelzéssel felszerelt bójával kell jelölni.
+## 2.5.1[^115] A vízi repülőtér sarokpontjait jól azonosító radarreflektorral és tetőjelként a Hajózási Szabályzat szerinti A.1 nappali és éjszakai jelzéssel felszerelt bójával kell jelölni.
 
-## 2.5.2[^115] Olyan vízterületen, ahol egyéb közlekedési, munkavégzési vagy fürdési tevékenység nem folytatható, az A.1 nappali és éjszakai jelzés elhagyható.
+## 2.5.2[^116] Olyan vízterületen, ahol egyéb közlekedési, munkavégzési vagy fürdési tevékenység nem folytatható, az A.1 nappali és éjszakai jelzés elhagyható.
 
 ## 2.5.3 A közlekedés korlátozásának minimális szintjére kell törekedni, illetve azt lehetőleg ki kell küszöbölni.
 
@@ -180,13 +180,13 @@
 
 ## d) megszüntetés.
 
-## 5.[^116]
+## 5.[^117]
 
 3. számú melléklet az 50/2002. (XII. 29.) GKM rendelethez
 
-[^111]: 27/1993. (IX. 23.) KHVM rendelet a víziközlekedés rendjéről, melléklet.
-[^112]: A Hajózási Szabályzat 7. melléklete.
-[^113]: 46/2000. (XII. 27.) BM rendelet a szabad vizeken való tartózkodás szabályairól.
-[^114]: A 2. számú melléklet 2. pontjának 2.5.1 alpontja a 80/2007. (IX. 19.) GKM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
-[^115]: A 2. számú melléklet 2. pontjának 2.5.2 alpontja a 80/2007. (IX. 19.) GKM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
-[^116]: A 2. számú melléklet 5. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^112]: 27/1993. (IX. 23.) KHVM rendelet a víziközlekedés rendjéről, melléklet.
+[^113]: A Hajózási Szabályzat 7. melléklete.
+[^114]: 46/2000. (XII. 27.) BM rendelet a szabad vizeken való tartózkodás szabályairól.
+[^115]: A 2. számú melléklet 2. pontjának 2.5.1 alpontja a 80/2007. (IX. 19.) GKM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
+[^116]: A 2. számú melléklet 2. pontjának 2.5.2 alpontja a 80/2007. (IX. 19.) GKM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
+[^117]: A 2. számú melléklet 5. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
