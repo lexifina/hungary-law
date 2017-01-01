@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-36-00-00
 | 2015-06-21 | 2015. évi LXX. törvény | 2007-36-00-00.10 |
 | 2015-07-01 | 2015. évi XXXV. törvény | 2007-36-00-00.11 |
 | 2016-01-01 | 2015. évi CCII. törvény | 2007-36-00-00.12 |
+| 2017-01-01 | 2016. évi CIV. törvény | 2007-36-00-00.13 |

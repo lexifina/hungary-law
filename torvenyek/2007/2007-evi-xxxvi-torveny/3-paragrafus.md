@@ -10,4 +10,4 @@ a) az eljárási jogsegély külföldi hatóság részére történő nyújtás�
 
 b) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, valamint átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
 
-c) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a központi közúti közlekedési nyilvántartó szerv.
+c) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a közúti közlekedési nyilvántartó szerv.

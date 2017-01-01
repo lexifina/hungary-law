@@ -1,4 +1,4 @@
-12. § (1) Külföldi hatóság megkeresésére a szabálysértési hatóság vagy a bíróság, illetve a központi közúti közlekedési nyilvántartó szerv eljárási jogsegélyt nyújt.
+12. § (1) Külföldi hatóság megkeresésére a szabálysértési hatóság vagy a bíróság, illetve a közúti közlekedési nyilvántartó szerv eljárási jogsegélyt nyújt.
 
 (2) Az eljárási jogsegély kiterjedhet a tanú, a szakértő és az eljárás alá vont személy meghallgatására, okirat vagy a szabálysértési eljárás iratainak a külföldi hatóság részére történő megküldésére, a szabálysértési eljárás iratainak a kézbesítésére, és a szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatásra.
 
