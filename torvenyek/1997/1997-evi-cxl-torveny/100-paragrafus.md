@@ -2,7 +2,7 @@
 
 100. § (1) Felhatalmazást kap a Kormány, hogy a törvény végrehajtásaként rendeletben szabályozza
 
-a) a könyvtári intézet, valamint a közművelődési szakmai szolgáltató szerv vagy szervek kijelölését,
+a) a könyvtári intézet kijelölését,
 
 b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillető kedvezményeket,
 

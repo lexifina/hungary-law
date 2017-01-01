@@ -34,6 +34,8 @@ k) a miniszter által megállapított további feladatok végzése,
 
 l) a Magyar Országos Közös Katalógus adatbázis működtetése és fejlesztése,
 
-m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos Könyvtári Digitalizálási Stratégia szerint.
+m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos Könyvtári Digitalizálási Stratégia szerint,
+
+n) részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.

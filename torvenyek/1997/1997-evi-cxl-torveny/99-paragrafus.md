@@ -1,1 +1,5 @@
-99. §
+99. § (1) A közművelődési szakmai szolgáltató szervezet feladatait ellátó költségvetési szerv jogutód nélküli megszűnése, valamint a 85. § és a 87. § szerinti feladatainak államháztartáson kívüli szervezet részére a 87/A. § alapján történő átadása esetén az átvevő szervezetet a közművelődési szakmai szolgáltató szervezet feladatait ellátó költségvetési szerv jogutódjának kell tekinteni azzal, hogy a megszűnő költségvetési szerv közfeladata ellátásával összefüggő magánjogi jogviszonyaiból eredő valamennyi joga és kötelezettsége e törvény erejénél fogva a közfeladat ellátását átvevő új közművelődési szakmai szolgáltató szervezetre száll át.
+
+(2) Az (1) bekezdés szerinti feladatátadás a megszűnő közművelődési szakmai szolgáltató szervezet feladatait ellátó költségvetési szervvel szemben fennálló követeléseket nem teszi lejárttá, ez okból szerződésszegésre hivatkozásnak vagy biztosíték nyújtására vonatkozó igény érvényesítésének nincs helye, az átszállás szerzői jogdíjfizetési igényt nem keletkeztet.
+
+(3) Az (1) bekezdés szerinti feladatátadást a megszűnő költségvetési szerv tekintetében az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 17. § (3) bekezdés h) pontjában meghatározottaknak felel meg.

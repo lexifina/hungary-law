@@ -14,12 +14,12 @@ e) az Országgyűlési Könyvtár,
 
 f) az Országos Idegen nyelvű Könyvtár,
 
-g) az Oktatáskutató és Fejlesztő Intézet Pedagógiai Könyvtár és Múzeum,
+g) Országos Pedagógiai Könyvtár és Múzeum,
 
 h) a Fővárosi Szabó Ervin Könyvtár,
 
 i) a Központi Statisztikai Hivatal Könyvtár,
 
-j) a Magyar Nemzeti Digitális Archívum és Filmintézet Könyvtára,
+j) Magyar Nemzeti Filmarchívum Könyvtára,
 
 k) a HM Hadtörténeti Intézet és Múzeum Hadtörténeti Könyvtár.

@@ -10,7 +10,7 @@ b) a könyvtári dokumentumok lelőhely-nyilvántartását együttesen megvalós
 
 c) a könyvtárak gyűjteményéből kivont dokumentumok hasznosítását a könyvtári rendszer számára.
 
-(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, törvényben, illetve kormányrendeletben meghatározott módon.
+(2) A kiadványokból hat kötelespéldányt kell szolgáltatni az országos könyvtári rendszer számára. Archiválásra alkalmas kötelespéldányt kell szolgáltatni a nyomtatott formában megjelenő kiadványok elektronikus formában létrehozott, a kiadvánnyal szövegében és megjelenésében megegyező változatából is. Elektronikus formában létrehozott kiadványokból és az egyéb kiadványok elektronikus változatából kormányrendeletben meghatározott formátumban kell kötelespéldányt szolgáltatni.
 
 (2a) Kormányrendelet a kötelespéldányok számát a (2) bekezdésben meghatározottnál kisebb számban is megállapíthatja, valamint meghatározhatja a kötelespéldány-szolgáltatás teljesítése alóli mentességek eseteit.
 
@@ -40,6 +40,6 @@ h) a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítés
 
 (5) A miniszter működteti a Neumann János Multimédia Központ és Digitális Könyvtárt, amely a multimédia és elektronikus dokumentumok nemzeti szolgáltató központja. Az informatikáért felelős miniszter külön jogszabályban meghatározottak szerint működteti a Nemzeti Audiovizuális Archívumot (a továbbiakban: NAVA). A NAVA szakmai felügyeletét az informatikáért felelős miniszter, valamint a miniszter közösen látja el.
 
-(6) A Magyar Nemzeti Digitális Archívum és Filmintézet a mozgóképről szóló törvényben meghatározott közgyűjteményi feladatain túl részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében.
+(6)
 
 (7)
