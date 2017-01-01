@@ -1,0 +1,1 @@
+19/C. § Az Mt.-nek a Módtv2.-vel megállapított 104. §-át a 2017. január 1-jét követően kezdődő munkaidőkeret, elszámolási időszak vagy közölt munkaidő-beosztás tekintetében kell alkalmazni.
