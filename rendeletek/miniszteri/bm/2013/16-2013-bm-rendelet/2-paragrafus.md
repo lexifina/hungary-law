@@ -1,4 +1,4 @@
-2. § (1) A belügyminiszter által irányított rendvédelmi szerv (a továbbiakban: rendvédelmi szerv), valamint a Bevándorlási és Állampolgársági Hivatal felkészül a NATO Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedések Gyűjteményében meghatározott honvédelmi feladatai teljesítésére.
+2. § (1)[^1] A belügyminiszter által irányított rendvédelmi szerv (a továbbiakban: rendvédelmi szerv), valamint a Bevándorlási és Menekültügyi Hivatal felkészül a NATO Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedések Gyűjteményében meghatározott honvédelmi feladatai teljesítésére.
 
 (2) Az (1) bekezdésben meghatározott feladat teljesítése mellett a rendvédelmi szerv
 
@@ -11,3 +11,5 @@ c) részt vesz a fegyveres összeütközések időszakában végrehajtandó polg
 d) együttműködik a védelmi igazgatás szerveivel a honvédelmi feladatok ellátásában, továbbá
 
 e) honvédelmi intézkedési tervet készít.
+
+[^1]: A 2. § (1) bekezdése az 58/2016. (XII. 22.) BM rendelet 37. § (2) bekezdés a) pontja szerint módosított szöveg.
