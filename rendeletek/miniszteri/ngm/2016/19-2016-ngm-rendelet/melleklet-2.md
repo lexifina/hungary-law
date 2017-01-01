@@ -260,7 +260,7 @@
 
 ## Az árfeliratozó (címkéző) mérlegeknek a vásárlóközönség közvetlen kiszolgálására szolgáló árkijelző mérlegek követelményeit olyan mértékben kell kielégíteniük, amilyen mértékig ezek a szóban forgó mérlegekre alkalmazhatók. Az árfelirat nyomtatása az alsó méréshatár alatt nincs megengedve.
 
-2. melléklet a 19/2016. (VI. 17.) NGM rendelethez
+2. melléklet a 19/2016. (VI. 17.) NGM rendelethez[^18]
 
 ## A MEGFELELŐSÉG ÉRTÉKELÉSÉRE VONATKOZÓ ELJÁRÁSOK
 
@@ -274,13 +274,13 @@
 
 |  | 1.4. | A bejelentett szervezet köteles: a nem automatikus működésű mérleg tekintetében: 1.4.1. megvizsgálni a nem automatikus működésű mérleg műszaki dokumentációját és a műszaki tervezés megfelelőségének értékelésére szolgáló bizonyítékot; a mintadarab(ok) esetében:1.4.2. ellenőrizni, hogy a mintadarab(ok) gyártása a műszaki dokumentációban leírtak szerint történt-e, továbbá megállapítani, melyek azok az összetevők, amelyeket a vonatkozó harmonizált szabványok alkalmazandó rendelkezéseinek megfelelően terveztek meg, és melyek azok az összetevők, amelyeket az egyéb vonatkozó műszaki előírásokkal összhangban terveztek meg; 1.4.3. elvégzi vagy elvégezteti azokat a megfelelő vizsgálatokat és teszteket, amelyekkel ellenőrzi, hogy ahol a gyártó úgy döntött, hogy alkalmazza a vonatkozó harmonizált szabványok szerinti megoldásokat, azokat megfelelően alkalmazta; 1.4.4. elvégzi a megfelelő ellenőrzéseket és vizsgálatokat annak ellenőrzése érdekében, hogy amennyiben nem a vonatkozó harmonizált szabványokban szereplő megoldásokat alkalmazták, a gyártó által elfogadott egyéb vonatkozó műszaki előírásokban alkalmazott megoldások teljesítik-e e rendelet megfelelő alapvető követelményeit; 1.4.5. megállapodik a gyártóval az ellenőrzések és vizsgálatok elvégzésének helyszínéről. |
 
-|  | 1.5. | A bejelentett szervezet elkészíti a 1.4. ponttal összhangban elvégzett tevékenységeket és azok eredményeit rögzítő értékelő jelentést. Az MKEH-val szembeni kötelezettségeinek sérelme nélkül a bejelentett szervezet e jelentés – részleges vagy teljes – tartalmát kizárólag a gyártó hozzájárulásával teszi közzé. |
+|  | 1.5. | A bejelentett szervezet elkészíti a 1.4. ponttal összhangban elvégzett tevékenységeket és azok eredményeit rögzítő értékelő jelentést. Az Kormányhivatallal szembeni kötelezettségeinek sérelme nélkül a bejelentett szervezet e jelentés – részleges vagy teljes – tartalmát kizárólag a gyártó hozzájárulásával teszi közzé. |
 
 |  | 1.6. | Amennyiben a típus megfelel e rendelet az érintett nem automatikus működésű mérlegre alkalmazandó követelményeinek, a bejelentett szervezet EU-típusvizsgálati tanúsítványt állít ki a gyártó számára. Ez a tanúsítvány tartalmazza a gyártó nevét és címét, a vizsgálat eredményeit, érvényességének (esetleges) feltételeit és a jóváhagyott típus azonosításához szükséges adatokat. Az EU-típusvizsgálati tanúsítványnak egy vagy több melléklete is lehet. Az EU-típusvizsgálati tanúsítvány és mellékletei minden olyan vonatkozó információt tartalmaznak, amelyek alapján értékelni lehet, hogy a gyártott nem automatikus működésű mérleg megfelel-e a vizsgált típusnak, továbbá amelyek lehetővé teszik az üzemelés közbeni ellenőrzést. Az EU-típusvizsgálati tanúsítvány érvényességi ideje a kiadás napjától számított tíz év és megújítható egymást követő, további tízéves időszakokra. A nem automatikus működésű mérleg konstrukciójában történt alapvető változások esetén, például új eljárások alkalmazása eredményeként, az EU-típusvizsgálati tanúsítvány érvényességét két évre lehet korlátozni és meg lehet hosszabbítani három évvel. Amennyiben a típus nem felel meg e rendelet alkalmazandó követelményeinek, a bejelentett szervezet visszautasítja az EU-típusvizsgálati tanúsítvány kiállítását, és a visszautasítás részletes indoklása mellett tájékoztatja erről a kérelmezőt. |
 
 |  | 1.7. | A bejelentett szervezet a tudomány általánosan elismert jelenlegi állásának valamennyi olyan változásáról tájékozódik, amely azt jelzi, hogy a jóváhagyott típus a továbbiakban nem felelhet meg e rendelet alkalmazandó követelményeinek, és meghatározza, hogy ezek a változások további vizsgálatot igényelnek-e. Amennyiben igen, a bejelentett szervezet tájékoztatja erről a gyártót. A gyártó értesíti az EU-típusvizsgálati tanúsítvánnyal kapcsolatos műszaki dokumentációt őrző bejelentett szervezetet a jóváhagyott típus minden olyan módosításáról, amely befolyásolhatja a nem automatikus működésű mérlegnek az e rendeletben szereplő alapvető követelményeknek való megfelelőségét vagy e tanúsítvány érvényességének feltételeit. Az ilyen módosítások az eredeti EU-típusvizsgálati tanúsítvány kiegészítésének formájában további jóváhagyást igényelnek. |
 
-|  | 1.8. | Mindegyik bejelentett szervezet tájékoztatja az MKEH-t az általa kibocsátott vagy visszavont EU-típusvizsgálati tanúsítványokról és/vagy ezek kiegészítéseiről, továbbá – rendszeres időközönként vagy kérésre – az MKEH rendelkezésére bocsátja az ilyen visszautasított, felfüggesztett vagy más módon korlátozott tanúsítványok és/vagy kiegészítések jegyzékét. Minden bejelentett szervezet tájékoztatja az MKEH-t az ilyen, általa visszautasított, visszavont, felfüggesztett vagy más módon korlátozott EU-típusvizsgálati tanúsítványokról és/vagy kiegészítésekről, továbbá kérésre az általa kiadott tanúsítványokról és/vagy kiegészítésekről. Kérésre a Bizottság, a tagállamok és a többi bejelentett szervezet rendelkezésére bocsátható az EU-típusvizsgálati tanúsítványok és/vagy kiegészítéseik egy példánya. Kérésre a Bizottság és a tagállamok megkaphatják a műszaki dokumentáció és a bejelentett szervezet által végzett vizsgálatok eredményeinek egy példányát. A bejelentett szervezet e tanúsítvány érvényességének végéig megőrzi az EU-típusvizsgálati tanúsítvány, illetve az ilyen tanúsítvány mellékleteinek és kiegészítéseinek másolatát, valamint a gyártó által benyújtott dokumentációt tartalmazó műszaki dokumentációt. |
+|  | 1.8. | Mindegyik bejelentett szervezet tájékoztatja az Kormányhivatalt az általa kibocsátott vagy visszavont EU-típusvizsgálati tanúsítványokról és/vagy ezek kiegészítéseiről, továbbá – rendszeres időközönként vagy kérésre – az Kormányhivatal rendelkezésére bocsátja az ilyen visszautasított, felfüggesztett vagy más módon korlátozott tanúsítványok és/vagy kiegészítések jegyzékét. Minden bejelentett szervezet tájékoztatja az Kormányhivatalt az ilyen, általa visszautasított, visszavont, felfüggesztett vagy más módon korlátozott EU-típusvizsgálati tanúsítványokról és/vagy kiegészítésekről, továbbá kérésre az általa kiadott tanúsítványokról és/vagy kiegészítésekről. Kérésre a Bizottság, a tagállamok és a többi bejelentett szervezet rendelkezésére bocsátható az EU-típusvizsgálati tanúsítványok és/vagy kiegészítéseik egy példánya. Kérésre a Bizottság és a tagállamok megkaphatják a műszaki dokumentáció és a bejelentett szervezet által végzett vizsgálatok eredményeinek egy példányát. A bejelentett szervezet e tanúsítvány érvényességének végéig megőrzi az EU-típusvizsgálati tanúsítvány, illetve az ilyen tanúsítvány mellékleteinek és kiegészítéseinek másolatát, valamint a gyártó által benyújtott dokumentációt tartalmazó műszaki dokumentációt. |
 
 |  | 1.9. | A gyártó a nem automatikus működésű mérleg forgalomba hozatalát követő tíz éven keresztül elérhetővé teszi a nemzeti hatóság számára az EU-típusvizsgálati tanúsítványnak a tanúsítvány mellékleteit és kiegészítéseit is tartalmazó példányát, valamint a műszaki dokumentációt. |
 
@@ -330,7 +330,7 @@
 
 |  | c) | a bejelentett szervezetnek a 2.3.5., 2.4.3. és 2.4.4. pontban meghatározott határozatai és jelentései. |
 
-| 2.7. Mindegyik bejelentett szervezet tájékoztatja az MKEH-t a minőségbiztosítási rendszerek kiadott és visszavont jóváhagyásairól, továbbá kérésre elérhetővé teszi az MKEH számára a minőségbiztosítási rendszerek visszautasított, felfüggesztett vagy más módon korlátozott jóváhagyásainak jegyzékét. |
+| 2.7. Mindegyik bejelentett szervezet tájékoztatja az Kormányhivatalt a minőségbiztosítási rendszerek kiadott és visszavont jóváhagyásairól, továbbá kérésre elérhetővé teszi az Kormányhivatal számára a minőségbiztosítási rendszerek visszautasított, felfüggesztett vagy más módon korlátozott jóváhagyásainak jegyzékét. |
 
 | 2.8. Meghatalmazott képviselő |
 
@@ -398,7 +398,7 @@
 
 | c) | a bejelentett szervezetnek a 3.5.5., a 3.6.3. és a 3.6.4. pont szerintihatározatai és jelentései. |
 
-| 3.9. Mindegyik bejelentett szervezet tájékoztatja az MKEH-t a minőségbiztosítási rendszerek kiadott és visszavont jóváhagyásairól, továbbá kérésre elérhetővé teszi az MKEH számára a minőségbiztosítási rendszerek visszautasított, felfüggesztett vagy más módon korlátozott jóváhagyásainak jegyzékét. |
+| 3.9. Mindegyik bejelentett szervezet tájékoztatja az Kormányhivatalt a minőségbiztosítási rendszerek kiadott és visszavont jóváhagyásairól, továbbá kérésre elérhetővé teszi az Kormányhivatal számára a minőségbiztosítási rendszerek visszautasított, felfüggesztett vagy más módon korlátozott jóváhagyásainak jegyzékét. |
 
 | 3.10. Meghatalmazott képviselő |
 
@@ -517,3 +517,5 @@
 |  | 7.2.3. | Az a gyártó, amely az első szakaszban a D. vagy D1. modult választotta, ugyanezt az eljárást használhatja a második szakaszban, vagy dönthet úgy, hogy a második szakaszban szükség szerint az F. vagy F1. modullal folytatja. |
 
 |  | 7.2.4. | A CE-jelölést és a kiegészítő metrológiai jelölést a második szakasz befejezése után, a második szakaszban részt vevő bejelentett szervezet azonosító számával együtt kell a mérlegen feltüntetni. |
+
+[^18]: A 2. melléklet a 62/2016. (XII. 29.) NGM rendelet 34. § c)–d) és h)–i) pontja szerint módosított szöveg.
