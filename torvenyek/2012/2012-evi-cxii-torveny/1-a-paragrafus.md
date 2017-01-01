@@ -1,0 +1,1 @@
+1/A. § Ha jogszabály másként nem rendelkezik, a nyugdíjbiztosítási átutalással és a nyugdíjbiztosítási visszautalással kapcsolatos eljárásokban a társadalombiztosítási nyugellátásra vonatkozó szabályokat kell alkalmazni.

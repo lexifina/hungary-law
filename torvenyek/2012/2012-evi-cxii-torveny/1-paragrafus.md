@@ -1,4 +1,4 @@
-## 1. Értelmező rendelkezések
+## 1. Általános rendelkezések
 
 1. § E törvény alkalmazásában
 
