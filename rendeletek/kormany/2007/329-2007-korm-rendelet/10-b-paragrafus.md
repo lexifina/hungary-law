@@ -1,3 +1,5 @@
+## 10/A. §[^80]
+
 ## 10/B. §[^81] A Nemzetközi Bűnügyi Együttműködési Központ országos illetékességgel végzi a hatáskörébe utalt alábbi feladatokat:
 
 a) nemzetközi szerződések és viszonosság alapján kapcsolatot tart és együttműködik a külföldi, valamint a nemzetközi bűnüldözési szervezetekkel;
@@ -16,4 +18,5 @@ g) a körözési nyilvántartási rendszer üzemzavara esetén országos illeté
 
 h) a körözési nyilvántartási rendszerbe bejegyzett adatok közhitelességének a biztosítása érdekében együttműködik a körözés elrendelésére jogosult szervekkel, a feltárt adathibák megszüntetésére – az érintett szerv útján vagy saját hatáskörben – intézkedik a nyilvántartás adatainak javítására.
 
+[^80]: A 10/A. §-t a 276/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése.
 [^81]: A 10/B. §-t a 8/2012. (II. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 157/2015. (VI. 25.) Korm. rendelet 14. §-ával megállapított, nyitó szövegrésze a 164/2015. (VI. 30.) Korm. rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.

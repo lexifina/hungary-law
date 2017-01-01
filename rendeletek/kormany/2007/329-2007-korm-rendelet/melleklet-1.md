@@ -14,13 +14,13 @@
 
 2.2. a Repülőtéri Rendőr Igazgatóság, Budapest
 
-2.3. a Bűnügyi Szakértői és Kutatóintézet, Budapest
+2.3.[^148]
 
 2.4. a Nemzetközi Bűnügyi Együttműködési Központ, Budapest
 
 2.5. a Rendőrségi Oktatási és Kiképző Központ, Budapest
 
-2.6.[^148] a Nemzetközi Oktatási Központ, Budapest
+2.6.[^149] a Nemzetközi Oktatási Központ, Budapest
 
 3. A rendőr-főkapitányságok elnevezése és székhelye
 
@@ -69,4 +69,5 @@
 [^145]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
 [^146]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^147]: Az 1. melléklet 2. pontja a 157/2015. (VI. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^148]: Az 1. melléklet 2. pont 2.6. alpontját a 227/2016. (VII. 29.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^148]: Az 1. melléklet 2. pont 2.3. alpontját a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^149]: Az 1. melléklet 2. pont 2.6. alpontját a 227/2016. (VII. 29.) Korm. rendelet 1. § (6) bekezdése iktatta be.
