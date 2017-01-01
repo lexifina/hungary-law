@@ -6,13 +6,14 @@
 
 1. § (1)[^1]
 
-(2)[^2]
+(2) A KÁT Kr. 4. § (11) bekezdése helyébe a következő rendelkezés lép:
 
-(3)[^3]
+## „(11) Az erőműegység értékesítése esetén a Hivatal – ha a jogszabályi feltételek fennállnak – az erőműegységre korábban meghatározott kötelező átvételi időtartamból és kötelező átvétel alá eső villamosenergia-mennyiségből fennmaradó részt állapítja meg az új tulajdonos számára.”
 
-(4)–(5)[^4]
+(3)[^2]
+
+(4)–(5)[^3]
 
 [^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (2) bekezdése a 12. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^3]: Az 1. § (3) bekezdése a 393/2016. (XII. 5.) Korm. rendelet 31. §-a alapján nem lép hatályba.
-[^4]: Az 1. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (3) bekezdése a 393/2016. (XII. 5.) Korm. rendelet 31. §-a alapján nem lép hatályba.
+[^3]: Az 1. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
