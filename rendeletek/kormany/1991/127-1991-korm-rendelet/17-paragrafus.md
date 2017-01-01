@@ -1,18 +1,17 @@
 17. §[^76] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 90/384/EGK irányelve (1990. június 20.) a nem automatikus működésű mérlegekre vonatkozó tagállami jogszabályok összehangolásáról;
+a) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről és a 71/354/EGK irányelv hatályon kívül helyezéséről szóló, 1979. december 20-i 80/181/EGK tanácsi irányelv;
 
-b) a Tanács 80/181/EGK irányelve (1979. december 20.) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről és a 71/354/EGK irányelv hatályon kívül helyezéséről;
+b) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK irányelv módosításáról szóló, 1984. december 18-i 85/1/EGK tanácsi irányelv;
 
-c) a Tanács 85/1/EGK irányelve (1984. december 18.) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK irányelv módosításáról;
+c) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK irányelv módosításáról szóló, 1989. november 27-i 89/617/EGK tanácsi irányelv;
 
-d) a Tanács 89/617/EGK irányelve (1989. november 27.) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK irányelv módosításáról;
+d) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK tanácsi irányelv módosításáról szóló, 2000. január 24-i 1999/103/EK európai parlamenti és tanácsi irányelv;
 
-e) az Európai Parlament és a Tanács 1999/103/EK irányelve (2000. január 24.) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK tanácsi irányelv módosításáról;
+e) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK tanácsi irányelv módosításáról szóló, 2009. március 11-i 2009/3/EK európai parlamenti és tanácsi irányelv;
 
-f) az Európai Parlament és a Tanács 2004/22/EK irányelve (2004. március 31.) a mérőműszerekről, 18. cikk (4) bekezdés;
+f) a nem automatikus működésű mérlegek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/31/EU európai parlamenti és tanácsi irányelv;
 
-g)[^77] Az Európai Parlament és a Tanács 2009/3/EK irányelve (2009. március 11.) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK tanácsi irányelv módosításáról.
+g) a mérőműszerek forgalmazására vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/32/EU európai parlamenti és tanácsi irányelv.
 
-[^76]: A Vhr. 17. §-át a 196/1997. (XI. 12.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, szövege a 309/2005. (XII. 25.) Korm. rendelet 11. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a 2006. október 30. napja után indult mérésügyi eljárásokra kell alkalmazni.
-[^77]: A Vhr. 17. §-ának g) pontját a 182/2009. (IX. 10.) Korm. rendelet 24. § (5) bekezdése iktatta be.
+[^76]: A Vhr. 17. §-át a 196/1997. (XI. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

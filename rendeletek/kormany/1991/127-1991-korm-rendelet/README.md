@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-127-20-
 | 2016-07-23 | 1991-127-20-22.21 | 68/2000. (V. 19.) Korm. rendelet |
 | 2016-11-18 | 1991-127-20-22.22 | 344/2016. (XI. 17.) Korm. rendelet |
 | 2016-12-15 | 1991-127-20-22.23 | 294/2001. (XII. 26.) Korm. rendelet |
+| 2017-01-01 | 1991-127-20-22.24 | 379/2016. (XII. 2.) Korm. rendelet |
