@@ -30,9 +30,9 @@ m) a tartozásátvállalás során – ellentételezés nélkül – átvállalt
 
 n) a visszafizetési kötelezettség nélkül átadott, pénzügyileg rendezett, a c) pont alá nem tartozó támogatás, véglegesen átadott pénzeszközök összegét;
 
-o) a fejlesztési célra kapott támogatás visszafizetendő összegét;
+o) a 77. § (2) bekezdés d) pontja és (4) bekezdés b) pontja alapján az előző üzleti év(ek)ben kapott, bevételként elszámolt támogatás, juttatás visszafizetendő összegét;
 
-p) a térítés nélkül átadott, részesedésnek vagy értékpapírnak nem minősülő eszközök nyilvántartás szerinti értékét, valamint a nyújtott szolgáltatások bekerülési értékét a felszámított, az átvevő által meg nem térített általános forgalmi adóval növelt összegben.
+p) a térítés nélkül átadott eszközök – a részesedések, az értékpapírok, a befektetett pénzügyi eszközök között kimutatott kölcsönök és a vásárolt követelések kivételével – nyilvántartás szerinti értékét, valamint a térítés nélkül nyújtott szolgáltatások bekerülési értékét a felszámított, az átvevő által meg nem térített általános forgalmi adóval növelt összegben.
 
 (3) Az egyéb ráfordítások között kell kimutatni:
 

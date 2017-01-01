@@ -46,9 +46,17 @@ d) a pénzügyi intézménnyel kötött valódi penziós ügylet esetén az azon
 
 e) a valódi penziós ügyletek és az óvadéki repóügyletek esetén a határidős viszonteladási kötelezettség mellett vásárolt eszköz követelésként kimutatott vételára és kötelezettségként kimutatott viszonteladási ára közötti különbözet összegében, valamint a kölcsönbe adott értékpapír után járó kölcsönzési díj összegében elszámolt kamatbevételt;
 
-f) kamatjellegű bevételként a kamatfedezeti ügyletek (határidős, opciós, swap és azonnali ügyletek) teljes nyereségét, ha az ügylet az üzleti év mérlegfordulónapjáig lezárult, továbbá a mérleg fordulónapjáig még le nem zárt ügyletek (kivéve az opciós ügyleteket) időarányos nyereségét, legfeljebb a fedezett alapügylet időarányos veszteségének összegéig,
+f) kamat swap ügyletek esetén, ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést:
 
-g) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása esetén, kamatjellegű bevételt csökkentő tételként a kamatfedezeti ügyletek veszteségét, ha az ügylet az üzleti év mérlegfordulónapjáig lezárult, legfeljebb a fedezett alapügylet nyereségének összegéig, továbbá a mérleg fordulónapjáig még le nem zárt ügyletek várható veszteségét a kamatfedezeti célú piaci érték (valós érték) fedezeti ügyletek esetében az 59/E. § (5) bekezdése szerint meghatározott összegben, illetve a kamatfedezeti célú cash-flow fedezeti ügyletnek minősülő kamat-swap ügyletek esetében a változó kamatláb és a fix kamatláb névleges tőkeösszegre vetített, az adott elszámolási időszakra jutó, a mérleg fordulónapjáig időarányosan számított összegének különbözetében,
+fa) amennyiben az elszámolás az üzleti év mérlegfordulónapjáig lezárult, az ügylet realizált nyereségét, valamint az ügylethez kapcsolódóan a 32. § (5) bekezdés a) és e) pontja vagy a 44. § (5) bekezdés a) és e) pontja szerint kimutatott elhatárolás megszüntetését;
+
+fb) amennyiben az elszámolás a mérleg fordulónapjáig nem zárult le, az utolsó kamatfixálás időpontja és a fordulónap közötti időszakra az ügylet alapján járó kamatkülönbözet 32. § (5) bekezdés b) pontja szerinti elhatárolásának összegét, és az előző időszakokban így kimutatott elhatárolás megszüntetését;
+
+fc) piaci érték (valós érték) fedezeti célú kamat swap ügyletek esetén azok fordulónapi valós értéke vagy belső értéke alapján a 32. § (5) bekezdés c) pontja szerinti elhatárolás összegét, és az előző időszakokban így kimutatott elhatárolás megszüntetését;
+
+fd) cash-flow fedezeti célú kamat swap ügyletek esetén a 32. § (5) bekezdés e) pontja szerinti elhatárolás összegét;
+
+g) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása esetén, kamatjellegű bevételt csökkentő tételként a kamatfedezeti ügyletek veszteségét, ha az ügylet az üzleti év mérlegfordulónapjáig lezárult, legfeljebb a fedezett alapügylet nyereségének összegéig, továbbá a mérleg fordulónapjáig még le nem zárt ügyletek várható veszteségét a kamatfedezeti célú piaci érték (valós érték) fedezeti ügyletek esetében az 59/E. § (5) bekezdése szerint meghatározott összegben, illetve a kamatfedezeti célú cash-flow fedezeti ügyletnek minősülő kamat swap ügyletek esetében a változó kamatláb és a fix kamatláb névleges tőkeösszegre vetített, az adott elszámolási időszakra jutó, a mérleg fordulónapjáig időarányosan számított összegének különbözetében,
 
 függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszemély fizeti.
 
@@ -66,7 +74,7 @@ d) a diszkont értékpapír beváltásakor a (3) bekezdés d), illetve az (5) be
 
 e) a hitelviszonyt megtestesítő értékpapír évente történő tőketörlesztése esetén a törlesztő rész, valamint a könyv szerinti értéknek a törlesztő rész és a törlesztő részt is magában foglaló hátralévő törlesztő részek arányában meghatározott összege közötti – nyereségjellegű – különbözetet;
 
-f) a deviza- és valutakészletek forintra átváltásával kapcsolatos árfolyamnyereséget, valamint a külföldi pénzértékre szóló követeléshez, befektetett pénzügyi eszközhöz, értékpapírhoz és kötelezettséghez kapcsolódó, az üzleti évben pénzügyileg realizált árfolyamnyereséget;
+f) a deviza- és valutakészletek forintra átváltásával kapcsolatos árfolyamnyereséget, valamint a külföldi pénzértékre szóló követeléshez, kötelezettséghez kapcsolódó, az üzleti évben pénzügyileg realizált árfolyamnyereséget;
 
 g) a valutakészlet, a deviza, a külföldi pénzértékre szóló követelés, befektetett pénzügyi eszköz, értékpapír és kötelezettség mérlegfordulónapi értékelésekor – a 60. § (3) bekezdése szerint – összevontan elszámolt árfolyamnyereséget;
 
@@ -74,9 +82,9 @@ h) a névérték alatt vásárolt, hitelviszonyt megtestesítő kamatozó érté
 
 i) a névérték alatt vásárolt, hitelviszonyt megtestesítő kamatozó értékpapír bekerülési értéke és névértéke közötti – nyereségjellegű – különbözet korábban időbelileg elhatárolt összegének megszüntetését;
 
-j) a nem fedezeti célú elszámolási határidős, opciós ügyletek és swap ügyletek határidős része esetén, az ügylet zárása (lejárata, ellenügylet kötése, lejárat előtti megszüntetése) időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet teljes összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, illetve a pénzügyileg is realizált nyereségjellegű különbözetnek a tárgyévre időarányosan jutó összegét, amennyiben az ügylet zárása a mérleg fordulónapja és a mérlegkészítés időpontja között megtörtént;
+j) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést és az ügylet zárása a mérleg fordulónapjáig megtörtént, a kamat swap ügyletek kivételével a származékos ügyletek zárása időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet teljes összegét, valamint az ügylethez kapcsolódóan a 32. § (5) bekezdés a) pontja vagy a 44. § (5) bekezdés a) pontja szerint kimutatott elhatárolás megszüntetését;
 
-k) a nem kamatfedezeti célú, egyéb fedezeti ügyletek (határidős, opciós, swap és azonnali ügyletek) nyereségének teljes összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, illetve a nyereség tárgyévre jutó időarányos összegét, legfeljebb a fedezett alapügylet időarányos vesztesége összegéig, ha az ügylet (kivéve az opciós ügyletet) a mérleg fordulónapjáig nem zárult le;
+k) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést, a nem kamatfedezeti célú, egyéb piaci érték (valós érték) fedezeti ügyletek fordulónapi valós értéke vagy belső értéke alapján a 32. § (5) bekezdés c) pontja szerinti elhatárolás összegét, és az előző időszakokban így kimutatott elhatárolás megszüntetését, valamint a nem kamatfedezeti célú, egyéb cash-flow fedezeti célú ügyletek esetén a 32. § (5) bekezdés e) pontja szerinti elhatárolás összegét és annak megszüntetését;
 
 l) a kiírt opcióért kapott opciós díjat;
 
@@ -90,7 +98,7 @@ p) közös tevékenység, közös üzemeltetés esetén a közös költségeknek
 
 r) egyesülésnél a működés költségeinek – tárgyévvel kapcsolatosan – az egyesülés tagjaira átterhelt összegét,
 
-s) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása során, a kereskedési célú származékos ügyletek esetén, az ügylet zárása (lejárata, ellenügylet kötése, lejárat előtti megszüntetése) időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet teljes összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, valamint a mérleg fordulónapján érvényes piaci árfolyam és a kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet összegét, ha az ügylet a mérleg fordulónapjáig nem zárult le, ideértve a 85. § (2) bekezdésének f) pontja és (3) bekezdésének t) pontja szerinti fedezeti ügyletnek az alapügylet veszteségét meghaladó összegét is;
+s) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása során, a kereskedési célú származékos ügyletek esetén, az ügylet zárása időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet teljes összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, valamint a mérleg fordulónapján érvényes piaci árfolyam és a kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet összegét, ha az ügylet a mérleg fordulónapjáig nem zárult le, ideértve a 85. § (2) bekezdésének f) pontja és (3) bekezdésének t) pontja szerinti fedezeti ügyletnek az alapügylet veszteségét meghaladó összegét is;
 
 t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása során bevételt csökkentő tételként a nem kamatfedezeti célú fedezeti ügyletek veszteségének összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, illetve a nem kamatfedezeti célú piaci érték (valós érték) fedezeti ügyletek várható veszteségének összegét, a mérlegfordulónapi piaci ár, árfolyam és a kötési (határidős) árfolyam közötti – veszteségjellegű – különbözet összegében, ha az ügylet a mérleg fordulónapjáig nem zárult le, legfeljebb a fedezett alapügylet tárgyévben elszámolt nyereségének összegében;
 

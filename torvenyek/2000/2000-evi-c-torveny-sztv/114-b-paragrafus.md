@@ -29,3 +29,5 @@ h) lekötött tartalék: a kapott pótbefizetés IFRS-ek szerint kötelezettség
 a) a cégbíróságon bejegyzett tőke összegének és az IFRS-ek szerinti jegyzett tőke összegének egyeztetését;
 
 b) az osztalékfizetésre rendelkezésre álló szabad eredménytartalékot, amely az utolsó beszámolóval lezárt üzleti év tárgyévi adózott eredményét is magában foglaló eredménytartalék összegének az IAS 40 Befektetési célú ingatlanok című standard szerinti befektetési célú ingatlanok valós érték növekedése miatti elszámolt – halmozott – nem realizált nyereség összegével csökkentett és a kapcsolódó IAS 12 Nyereségadók című standard alapján elszámolt nyereségadó halmozott összegével növelt összege.
+
+(6) Ha a gazdálkodó az IFRS 11 Közös megállapodások című standard szerinti olyan közös tevékenységgel rendelkezik, amelyet e törvény szerint részesedésként mutatna ki, a (4) és (5) bekezdés alkalmazása során, az IFRS-ek szerinti saját tőke egyes elemeiből levezetett saját tőke elemek nyitó és záró adatait úgy állapítja meg, mintha az ilyen közös tevékenység számviteli elszámolása tekintetében az IFRS-ek szerinti éves beszámoló készítésére nem tért volna át.

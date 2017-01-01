@@ -22,13 +22,15 @@ a) kereskedési célú pénzügyi kötelezettségek,
 
 b) egyéb pénzügyi kötelezettségek.
 
-(6) A pénzügyi instrumentumok bekerülésekor – a könyvekbe bekerülési (beszerzési) értéken történő felvételt követően –, valamint a mérleg fordulónapjára vonatkozó értékelésekor a (7) bekezdésben foglaltak figyelembevételével
+(6) A pénzügyi instrumentumok bekerülésekor – a könyvekbe bekerülési (beszerzési) értéken történő felvételt követően –, valamint a mérleg fordulónapjára vonatkozó értékelésekor a (7) bekezdésben foglaltak figyelembevételével a bekerülés időpontjában érvényes, illetve mérlegfordulónapi értékelés esetén a mérleg fordulónapján érvényes
 
-a) a bekerülés időpontjában érvényes, illetve mérlegfordulónapi értékelés esetén a mérleg fordulónapján érvényes valós értéken kell értékelni a kereskedési célú pénzügyi instrumentumokat,
+a) valós értéken vagy belső értéken kell értékelni a kereskedési célú és a fedezeti célú származékos ügyleteket,
 
-b) a bekerülés időpontjában érvényes, illetve mérlegfordulónapi értékelés esetén a mérlegkészítéskor ismert valós értéken lehet értékelni az értékesíthető pénzügyi eszközöket,
+b) valós értéken kell értékelni a származékos ügyletnek nem minősülő kereskedési célú pénzügyi instrumentumokat,
 
-amennyiben valós értékük megbízható módon meghatározható.
+c) valós értéken lehet értékelni az értékesíthető pénzügyi eszközöket.
+
+A pénzügyi instrumentumok valós értékükön csak akkor értékelhetők, ha azok valós értéke megbízható módon meghatározható.
 
 (7) Nem alkalmazható a valós értéken történő értékelés:
 
@@ -42,7 +44,7 @@ d) a visszavásárolt saját kibocsátású hitelviszonyt megtestesítő érték
 
 e) az egyedi jellemzőkkel rendelkező pénzügyi instrumentumra,
 
-f) az árura vonatkozó leszállítási határidős és opciós ügyletre (nem származékos ügylet),
+f) a nem pénzügyi eszközre vonatkozó leszállítási határidős és opciós ügyletre, ha az nem minősül származékos ügyletnek,
 
 g) a klimatikus, geológiai vagy egyéb fizikai változókhoz kapcsolódó határidős és opciós ügyletre,
 

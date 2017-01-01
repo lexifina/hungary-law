@@ -1,6 +1,6 @@
-59/D. § (1) A határidős és opciós ügyletek, valamint a swap ügyletek határidős ügyletrésze az ügylet zárásáig mérlegen kívüli tételként kerülnek nyilvántartásra a szerződés szerinti kötelezettség összegében, a kötési (határidős) árfolyamon.
+59/D. § (1) A származékos ügyletek az ügylet zárásáig mérlegen kívüli tételként kerülnek nyilvántartásra a szerződés szerinti kötelezettség összegében, a kötési (határidős) árfolyamon.
 
-(2) Az ügylet tárgyát képező áru leszállításával záruló határidős ügyletek és opciós ügyletek esetében nem alkalmazható a valós értéken történő értékelés, az ügylet zárását az azonnali adásvétel szabályai szerint kell elszámolni.
+(2) A származékos ügyletnek nem minősülő határidős ügyletek és opciós ügyletek esetében nem alkalmazható a valós értéken történő értékelés, az ügylet zárását az azonnali adásvétel szabályai szerint kell elszámolni.
 
 (3) A valós értéken történő értékelés alkalmazása esetén a nem fedezeti céllal kötött származékos ügyletek kizárólag kereskedési célúnak minősíthetők.
 
@@ -24,7 +24,7 @@ c) a cash-flow fedezeti ügyleteknél, valamint a külföldi gazdálkodó szerve
 
 elszámolva.
 
-(10) A valós értéken történő értékelés esetén a származékos ügyletek (ideértve a fedezeti és a nem fedezeti ügyleteket egyaránt) jövőben várható eredményét nem lehet a mérleg fordulónapján időbeli elhatárolásként vagy céltartalék képzésként elszámolni.
+(10) A valós értéken történő értékelés esetén a 32. § (5) bekezdés és a 44. § (5) bekezdés szerinti időbeli elhatárolás nem mutatható ki.
 
 (11) A valós értéken történő értékelés esetén a mérlegben a követelések, illetve a kötelezettségek között, valamint a befektetett pénzügyi eszközök és az értékpapírok között külön soron kell bemutatni a követelések, a kötelezettségek, a származékos ügyletek, valamint a befektetett pénzügyi eszközök és az értékpapírok értékelési különbözetét, továbbá a saját tőkén belül az értékelési tartalék részletezéseként az értékhelyesbítés értékelési tartalékát és a valós értékelés értékelési tartalékát.
 

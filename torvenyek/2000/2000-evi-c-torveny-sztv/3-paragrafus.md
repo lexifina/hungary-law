@@ -10,25 +10,25 @@
 
 4. egyéb szervezet:
 
-a) a lakásszövetkezet,
+a) az egyesület, az alapítvány,
 
-b) a társasház,
+b) a köztestület, a közalapítvány,
 
-c) az egyesület, a köztestület,
+c) a lakásszövetkezet, a társasház,
 
-d) az egyházi jogi személy,
+d) az ügyvédi iroda, a szabadalmi ügyvivő iroda, a végrehajtói iroda, a közjegyzői iroda,
 
-e) az alapítvány, ideértve a közalapítványt is,
+e) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 
-f) az ügyvédi iroda, a szabadalmi ügyvivő iroda, a végrehajtói iroda, a közjegyzői iroda,
+f) a Szövetkezeti Hitelintézetek Integrációs Szervezete,
 
-g)
+g) a közös jogkezelő szervezet,
 
-h) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
+h) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezet,
 
-i) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezet,
+i) a víziközmű társulat,
 
-j) a víziközmű társulat,
+j) az egyházi jogi személy,
 
 k) a befektetési alap, az egyéb alapok,
 
@@ -40,9 +40,9 @@ n) az önkéntes nyugdíjpénztár,
 
 o) az önkéntes kölcsönös egészség- és önsegélyező pénztár,
 
-p) a közraktár,
+p) a közraktár, valamint
 
-r) külön jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet.
+q) a külön jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet.
 
 (2) E törvény alkalmazásában
 
@@ -182,13 +182,17 @@ A behajthatatlanság tényét és mértékét bizonyítani kell.
 
 9. tőzsdén kívüli azonnali ügylet: az ügyletkötést követő legfeljebb 8 munkanapon belül, devizaügylet esetén 2 munkanapon belül teljesített, értékpapír adásvételi, illetve csereügylet;
 
-10. fedezeti ügylet: olyan kockázatfedezeti céllal kötött származékos, illetve valutára, devizára vonatkozó azonnali ügylet, amelynek várható árfolyamnyeresége, illetve kamatbevétele egy másik ügyletből vagy ügyletek sorozatából (fedezett ügyletek, tételek) adódó nyitott pozíció, várható árfolyamveszteség, illetve kamatveszteség kockázatának fedezetére szolgál, vagy amelynek várható jövőbeni pénzáramlása, illetve az abban bekövetkező változások egy vagy több fedezett ügylet (tétel vagy tételek) jövőbeni pénzáramlásában bekövetkező változások kockázatának fedezetére szolgál. A fedezeti ügylet és a fedezett ügylet vagy ügyletek (tétel vagy tételek) eredménye nagyságrendileg azonos vagy megközelítőleg azonos, ellenkező előjelű, nagy valószínűséggel realizálódó, egymással szoros korrelációt mutató, egymást ellentételező nyereség és veszteség, vagy jövőbeni pénzáramlása, illetve az abban bekövetkező változások egymást ellentételező pénzkiadások és pénzbevételek. A fedezeti ügylet rendeltetése szerint lehet:
+10. fedezeti ügylet: olyan származékos ügylet (a kiírt opciók kivételével), vagy kizárólag a devizakockázat tekintetében olyan nem származékos pénzügyi eszköz vagy pénzügyi kötelezettség, amelyet egy megjelölt fedezeti kapcsolatba bevontak, és amelynek valós értéke vagy pénzáramlásai egy fedezett ügyletből adódó valós értékben vagy pénzáramlásokban bekövetkező változásokat várhatóan ellentételezi. A fedezeti ügylet lehet:
 
-a) piaci érték (valós érték) fedezeti ügylet: valamely fedezett ügyletből vagy ügyletekből eredő, a mérlegben szereplő eszköz, illetve kötelezettség egésze vagy meghatározott része piaci értékében bekövetkező változás, vagy valamely származékos ügylet jövőben várható eredményében (piaciértékében) bekövetkező változás miatt fennálló kockázat fedezetére szolgáló ügylet. A fedezett kockázat valamilyen konkrét kockázat, amely befolyásolja a beszámolóban szereplő eredményt;
+a) piaci érték (valós érték) fedezeti ügylet: valamely fedezett ügyletből eredő, a mérlegben szereplő eszköz, illetve kötelezettség egészének vagy meghatározott részének piaci értékében (valósértékében) bekövetkező változás miatt fennálló kockázat fedezetére szolgáló ügylet;
 
-b) cash-flow fedezeti ügylet: valamely fedezett ügyletből eredő mérlegbeni eszközhöz vagy kötelezettséghez (ideértve az azokkal összefüggő kamatfizetéseket is), illetve áru vagy pénzügyi eszköz leszállításával teljesülő (leszállítási) határidős, opciós ügylethez vagy swap ügylethez, továbbá előrejelzett ügylethez kapcsolódó jövőbeni pénzáramlásokban bekövetkező változás miatt fennálló kockázat fedezetére szolgáló ügylet. A fedezett kockázat valamely konkrét pénzáramlásban bekövetkező kockázat, amely befolyásolja a beszámolóban szereplő eredményt is;
+b) cash-flow fedezeti ügylet: mérlegben szereplő eszközhöz vagy kötelezettséghez (ideértve az azokkal összefüggő kamatfizetéseket is), előrejelzett ügylethez, vagy a mérlegben meg nem jelenített, biztos elkötelezettséghez kapcsolódó jövőbeni pénzáramlásokban bekövetkező változás miatt fennálló kockázat fedezésére szolgáló ügylet;
 
 c) külföldi gazdálkodó szervezetben lévő nettó befektetés fedezeti ügylete: a külföldi pénznemben fennálló, kapcsolt vállalkozásnak minősülő külföldi gazdálkodó szervezetben lévő tulajdoni részesedést jelentő, nem kereskedési célra tartott befektetés (részvény, üzletrész, egyéb részesedés), valamint az ezen gazdálkodó szervezettel szemben fennálló hosszú lejáratú követelés vagy kötelezettség devizaárfolyam-változásból adódó kockázatának fedezetére kötött ügylet;
+
+10/a. fedezett ügylet: egy olyan eszköz, kötelezettség, biztos elkötelezettség, előrejelzett ügylet vagy külföldi gazdálkodó szervezetben lévő nettó befektetés, amely a gazdálkodót a valós értékben vagy a jövőbeni pénzáramlásokban bekövetkező változások kockázatának teszi ki, és amelyet egy megjelölt fedezeti kapcsolatba bevontak. Hasonló eszközöket vagy hasonló kötelezettségeket kizárólag akkor lehet összevonni és egy csoportként fedezni, ha az azonos csoportba tartozó egyedi eszközök és kötelezettségek osztoznak abban a kockázati kitettségben, amelyet fedezett kockázatként megjelöltek;
+
+10/b. megjelölt fedezeti kapcsolat: az 59/A–59/F. § szerinti valós értékelés alkalmazásától függetlenül az 59/E. § (1) és (2) bekezdése szerint dokumentált, és az 59/E. § (3) bekezdésének megfelelő fedezeti kapcsolat;
 
 11. penziós (elhelyezési) ügylet: olyan ügylet, amelyben az egyik fél (,,penzióba adó'') a mérlegében szereplő, tulajdonában lévő pénzügyi eszközöket (a valuta, a deviza és a saját kibocsátású hitelviszonyt megtestesítő értékpapír, illetve saját kibocsátású tulajdoni részesedést jelentő befektetés kivételével) ruház át a másik félre (,,penzió átvevője''), olyan megállapodás mellett, hogy ugyanezeket a pénzügyi eszközöket – sorozatban kibocsátott értékpapírok esetén az azonos sorozathoz tartozó, azonos mennyiségű és névértékű értékpapírokat – a penzió átvevője a megállapodásban rögzítettek szerinti későbbi időpontban (időpontig), meghatározott áron visszaszármaztatja az a), illetve a b) pontban foglaltak szerint a penzióba adónak;
 
@@ -220,7 +224,7 @@ b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben
 
 a) a pénzeszköz,
 
-b) a szerződéses megállapodáson alapuló követelés pénzeszközök vagy egyéb pénzügyi eszközök más felektől való átvételére (ideértve a mérlegben szereplő követeléseket, hitelviszonyt megtestesítő értékpapírokat, valamint a határidős, opciós ügyletek, illetve a swap ügyletek határidős ügyletrésze miatt fennálló mérlegen kívüli követeléseket is),
+b) a szerződéses megállapodáson alapuló követelés pénzeszközök vagy egyéb pénzügyi eszközök más felektől való átvételére (ideértve a mérlegben szereplő követeléseket, hitelviszonyt megtestesítő értékpapírokat, valamint a származékos ügyleteket is),
 
 c) a szerződéses megállapodás alapján biztosított jog pénzügyi instrumentumoknak potenciálisan kedvező feltételek mellett történő cseréjére más felekkel (ideértve az opciós jog vevőjénél az opciós jog értékét),
 
@@ -228,7 +232,7 @@ d) a más vállalkozó saját tőkéjét megtestesítő instrumentum (más váll
 
 2. pénzügyi kötelezettség:
 
-a) a szerződéses megállapodáson alapuló kötelezettség pénzeszközök vagy egyéb pénzügyi eszközök más felek részére történő átadására (ideértve a mérlegben szereplő kötelezettségeket, valamint a határidős, opciós ügyletek, illetve a swap ügyletek határidős ügyletrésze miatt fennálló mérlegen kívüli kötelezettségeket is),
+a) a szerződéses megállapodáson alapuló kötelezettség pénzeszközök vagy egyéb pénzügyi eszközök más felek részére történő átadására (ideértve a mérlegben szereplő kötelezettségeket, valamint a származékos ügyleteket is),
 
 b) a szerződéses megállapodáson alapuló kötelezettség pénzügyi instrumentumoknak potenciálisan kedvezőtlen feltételek mellett történő cseréjére más felekkel (ideértve az opciós jog kiírójának egyoldalú kötelezettségvállalását is pénzügyi elszámolással teljesülő ügyleteknél a záráskori piaci ár és a határidős kötési ár különbözetében, illetve áru vagy pénzügyi eszköz leszállításával teljesülő ügyletnél a határidős kötési ár összegében);
 
@@ -252,13 +256,15 @@ b) a szerződéses megállapodáson alapuló kötelezettség pénzügyi instrume
 
 a) teljesítése pénzben vagy más pénzügyi instrumentummal történik,
 
-b) értéke egy meghatározott kamatláb, hitelviszonyt megtestesítő értékpapír, illetve tulajdoni részesedést jelentő befektetés árfolyama, áru vagy pénzügyi eszköz ára, devizaárfolyam, árindex, árfolyamindex, kamatindex, hitelmérték (bonitás) vagy hitelindex, illetve egyéb hasonló tényezők (mögöttesek) függvényében változik,
+b) értéke egy meghatározott kamatláb, pénzügyi instrumentum ára, tőzsdei áru ára, devizaárfolyam, árindex, árfolyamindex, kamatindex, hitelbesorolás (bonitás) vagy hitelindex, illetve egyéb hasonló tényezők (mögöttesek) függvényében változik, feltéve, hogy egy nem pénzügyi változó esetében a változó egyik szerződő félre sem jellemző,
 
 c) a keletkezéskor nem vagy csak csekély mértékben igényelnek nettó befektetést más, hasonlóan a piaci tényezők függvényében változó ügyletekhez (szerződésekhez) viszonyítva,
 
 d) pénzügyi rendezésükre előre meghatározott későbbi időpontban, illetve időpontig (a jövőben) kerül sor.
 
-Nem minősül származékos ügyletnek az olyan határidős és opciós ügylet, amely kezdeményezésének, megkötésének és fenntartásának célja az ügylet tárgyát képező áru beszerzése, értékesítése vagy használata, és amely várhatóan az ügylet tárgyát képező áru átadásával (leszállításával) teljesül az ügylet zárásakor (ide nem értve azt, amikor a pénzügyi rendezés – a záráskori piaci ár és a határidős kötési árfolyam közötti különbözet, illetve a pénzáramlások pénzügyi elszámolása – a felek közötti megállapodás alapján, pénzeszköztől eltérő pénzügyi instrumentum átadásával, rendelkezésre bocsátásával teljesül, pénzmozgás helyett);
+Származékos ügyletnek minősül különösen a nem pénzügyi eszköz adásvételére vonatkozó szerződés, ha annak rendezése nettó módon, pénzeszköz vagy egyéb pénzügyi eszköz átadásával történhet. E tekintetben nettó módon rendezhető szerződésnek minősülhet a tőzsdei árura vonatkozó leszállítási ügylet is. Nem minősül származékos ügyletnek azonban az olyan nem pénzügyi eszköz adásvételére vonatkozó ügylet, amely kezdeményezésének, megkötésének és fenntartásának célja az ügylet tárgyát képező nem pénzügyi eszköznek a gazdálkodó várható vételi, eladási vagy felhasználási igényeinek megfelelő átvétele vagy átadása, és amely várhatóan az ügylet tárgyát képező nem pénzügyi eszköz átadásával (leszállításával) teljesül az ügylet zárásakor;
+
+11/a. származékos ügylet zárása: a származékos ügylet lejárata, eladása, lehívása, a származékos ügyletből eredő kockázati pozíció megszüntetésére vagy mérséklésére irányuló ellenügylet zárásként dokumentált kötése vagy a származékos ügylet lejárat előtti megszüntetése;
 
 12. valós érték: az az összeg, amelyért egy eszköz elcserélhető (eladható, illetve megvásárolható), vagy egy kötelezettség rendezhető megfelelően tájékozott, az üzletkötési szándékukat kinyilvánító felek között, a szokásos piaci feltételeknek megfelelően kötött (köthető) ügylet (szerződés) keretében. Valós érték a piaci megítélésről rendelkezésre álló információk alapján lehet:
 
@@ -272,19 +278,17 @@ ac) az előzőek hiányában a pénzügyi instrumentum összetevőinek, vagy has
 
 b) az általános értékelési eljárásokkal meghatározott, a piaci árat elfogadhatóan közelítő érték;
 
+12/a. belső érték: az ügylet tárgyát képező eszköz aktuális piaci értékének (valós értékének), valamint a kötési áron számított értékének a különbözete. Kamat swap ügylet esetén belső érték az aktuális változó kamatláb és a fix kamatláb alapján a névleges tőkeösszegre számított, a hátralévő lejárati időre jutó kamatkülönbözet;
+
 13. előrejelzett ügylet: olyan ügylet, amelyre vonatkozóan a felek a szerződést még nem kötötték meg, de amelynek bekövetkezése nagy valószínűséggel várható és számszerűsíthető az ügylet fajtája, tárgya, nagyságrendje, időpontja, időtartama, illetve egyéb feltételei tekintetében;
 
-14. fedezeti hatékonyság: annak kifejezésére szolgál, hogy a fedezeti ügylet valós értékének vagy pénzáramlásainak változása az ügylet kezdetekor és annak teljes lejárati ideje alatt mennyiben ellensúlyozza a fedezett ügylet vagy ügyletek (tétel vagy tételek) valós értékében vagy pénzáramlásaiban bekövetkező változásokat. A hatékony fedezet alapvető feltételei:
+13/a. biztos elkötelezettség: meghatározott mennyiségű eszköznek meghatározott jövőbeli időpontban vagy időpontokban, meghatározott áron történő cseréjéről szóló, kötelező érvényű megállapodás;
 
-a) a fedezeti ügylet valós értékének vagy pénzáramlásainak változása az ügylet kezdetekor és annak teljes lejárati ideje alatt csaknem teljes egészében ellensúlyozza a fedezett ügylet (tétel) valós értékében vagy pénzáramlásaiban bekövetkező változásokat,
+14. fedezeti hatékonyság: azt mutatja meg, hogy a fedezeti ügylet valós értékének vagy pénzáramlásainak változása az ügylet kezdetekor és annak teljes lejárati ideje alatt mennyiben ellensúlyozza a fedezett ügylet vagy ügyletek valós értékében vagy pénzáramlásaiban a fedezett kockázatból eredően bekövetkező változásokat. Egy fedezeti ügylet akkor hatékony, ha a fedezeti hatékonyság a 80 és 125 százalék közötti sávban van.
 
-b) a fedezeti ügylet és a fedezett ügylet (tétel) valós értékében vagy pénzáramlásaiban bekövetkezett változások egymáshoz viszonyított aránya 80 és 125 százalék közötti sávban van,
+Egy fedezeti ügylet hatékonynak tekinthető – és így az 59/E. § (3) bekezdésének a fedezeti hatékonyság mérésére vonatkozó követelményét nem kell alkalmazni –, ha a fedezeti ügylet és a fedezett ügylet (tétel) fő feltételei azonosak (így különösen az ügylet jellegétől függően: az ügylet tárgyának mennyisége és névértéke, a lejárati idő, a kamatfeltételek, az átárazási, a kamatfizetési, a tőketörlesztési időpontok, a kamatok mérésének alapja).
 
-c) a fedezeti ügylet és a fedezett ügylet (tétel) fő feltételei azonosak (így különösen az ügylet jellegétől függően: az ügylet tárgya, annak mennyisége és névértéke, a lejárati idő, a kamatfeltételek, az átárazási, a kamatfizetési, a tőketörlesztési időpontok, a kamatok mérésének alapja, a devizanem, a szerződéskötés időpontja és helye stb.),
-
-d) a fedezeti ügylet lejárati ideje ugyanolyan vagy legfeljebb olyan hosszú, mint a fedezett ügylet (tétel) lejárati ideje.
-
-A fedezeti hatékonyság mérésének (vizsgálatának) módszerét és időpontjait a kockázatkezelési és fedezeti politikával összhangban a számviteli politika részeként rögzíteni kell.
+A fedezeti hatékonyság mérésének (vizsgálatának) módszerét és időpontjait a kockázatkezelési és fedezeti politikával összhangban a számviteli politika részeként kell meghatározni.
 
 (10) E törvény alkalmazásában:
 

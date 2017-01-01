@@ -24,11 +24,11 @@ d) a lekötött tartalékot jogcímek szerint megbontva.
 
 (4) A kiegészítő mellékletben kell bemutatni:
 
-a) mérlegen kívüli tételként a függő és a biztos (jövőbeni) kötelezettségvállalások összegét fajtánkénti részletezésben. Ezeken belül külön kell bemutatni ügyletfajtánként (az ügylet tárgya szerint) a mérleg fordulónapjáig le nem zárt határidős, opciós ügyletek, valamint a swap ügyletek határidős részének lejárati idejét, szerződés szerinti értékét (kötési árát, árfolyamát), az eredményre gyakorolt várható hatását (valós értékét, ha az megállapítható), a cash-flowra gyakorolt várható hatását, külön feltüntetve az üzleti év eredményében már figyelembe vett hatásukat, elszámolási ügylet (származékos ügylet) és leszállítási ügylet, fedezeti és nem fedezeti célú, tőzsdén, illetve tőzsdén kívül kötött ügylet részletezésben;
+a) mérlegen kívüli tételként a függő és a biztos (jövőbeni) kötelezettségvállalások összegét fajtánkénti részletezésben. Ezeken belül külön kell bemutatni ügyletfajtánként (az ügylet tárgya szerint) a mérleg fordulónapjáig le nem zárt származékos ügyletek lejárati idejét, szerződés szerinti értékét (kötési árát, árfolyamát), az eredményre gyakorolt várható hatását (valós értékét, ha az megállapítható), a cash-flowra gyakorolt várható hatását, külön feltüntetve az üzleti év eredményében már figyelembe vett hatásukat, fedezeti és nem fedezeti célú, tőzsdén, illetve tőzsdén kívül kötött ügylet részletezésben;
 
 b) a bekerülési értéken értékelt befektetett pénzügyi eszközök könyv szerinti értékének a valós értéket jelentősen meghaladó összege esetén azok könyv szerinti értékét és valós értékét, valamint annak indoklását, hogy miért nem számolták el az értékvesztést, ideértve a bizonyítékot annak a feltételezésnek az igazolására, hogy legalább a könyv szerinti érték meg fog térülni;
 
-c) a tárgyévben lezárt határidős, opciós ügyletek, valamint swap ügyletek eredményét és cash-flowra gyakorolt hatását ügyletfajtánként, elszámolási ügylet (származékos ügylet) és leszállítási ügylet, fedezeti és nem fedezeti ügylet, tőzsdén, illetve tőzsdén kívül kötött ügylet részletezésben.
+c) a tárgyévben lezárt származékos ügyletek eredményét és cash-flowra gyakorolt hatását ügyletfajtánként, fedezeti és nem fedezeti ügylet, tőzsdén, illetve tőzsdén kívül kötött ügylet részletezésben.
 
 (5) A kiegészítő mellékletben be kell mutatni a hátrasorolt eszközök értékét jogcímek szerinti részletezésben.
 
