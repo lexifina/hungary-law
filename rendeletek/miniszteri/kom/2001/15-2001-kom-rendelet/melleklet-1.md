@@ -6,7 +6,7 @@
 
 2. A kibocsátási határérték származtatása
 
-2.1.[^26] Alapösszefüggés:
+2.1.[^27] Alapösszefüggés:
 
 ahol
 
@@ -32,4 +32,4 @@ Rij: az i radionuklid, illetve radionuklid csoport j kibocsátási módra vonatk
 
 4. A kibocsátási határérték az ellenőrzés, illetve mérés lehetőségei által indokolt kivételes esetekben alkalmasan megválasztott radionuklid csoportokra (pl. radiojód) is megállapítható. Ebben az esetben az egész csoportra az egységnyi kibocsátáshoz tartozó legnagyobb sugárterhelést eredményező radionuklidra érvényes határértéket kell figyelembe venni.
 
-[^26]: Az 1. számú melléklet 2. pont 2.1. pontja a 15/2015. (III. 31.) FM rendelet 7. § m) pontja szerint módosított szöveg.
+[^27]: Az 1. számú melléklet 2. pont 2.1. pontja a 15/2015. (III. 31.) FM rendelet 7. § m) pontja szerint módosított szöveg.

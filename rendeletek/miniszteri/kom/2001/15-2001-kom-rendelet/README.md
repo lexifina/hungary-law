@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-15-20-6
 | --- | --- | --- |
 | 2009-03-01 | 2001-15-20-66.5 | 15/2001. (VI. 6.) KöM rendelet |
 | 2015-04-01 | 2001-15-20-66.6 | 15/2015. (III. 31.) FM rendelet |
+| 2017-01-01 | 2001-15-20-66.7 | 89/2016. (XII. 29.) FM rendelet |
