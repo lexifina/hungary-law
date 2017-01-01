@@ -106,7 +106,7 @@ ld) tartalmi leírását.
 
 (7) A nyilvántartó a (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomon követése céljából – a (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
 
-a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal,
+a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
 
 b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal.
 

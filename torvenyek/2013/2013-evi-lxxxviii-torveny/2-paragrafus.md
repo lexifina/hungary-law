@@ -4,7 +4,7 @@
 
 ## 2. A körözési nyilvántartási rendszer felépítése
 
-2. § (1) A körözési nyilvántartási rendszer (a továbbiakban: nyilvántartás) – a nyilvántartás használatára jogosultak nyilvántartása kivételével – közhiteles, hatósági nyilvántartás. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény nyilvántartás vezetésével kapcsolatos hatósági eljárásra vonatkozó rendelkezéseit az e törvényben meghatározott, az elektronikus kapcsolattartás formájára és módjára vonatkozó rendelkezéseit az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott eltéréssel kell alkalmazni.
+2. § (1) A körözési nyilvántartási rendszer (a továbbiakban: nyilvántartás) – a nyilvántartás használatára jogosultak nyilvántartása kivételével – közhiteles, hatósági nyilvántartás.
 
 (2) A nyilvántartás
 
