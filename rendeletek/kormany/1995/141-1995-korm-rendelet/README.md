@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-141-20-
 | 2015-09-01 | 1995-141-20-22.27 | 218/2015. (VIII. 6.) Korm. rendelet |
 | 2016-08-20 | 1995-141-20-22.28 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2016-10-01 | 1995-141-20-22.29 | 180/2016. (VII. 1.) Korm. rendelet |
+| 2017-01-01 | 1995-141-20-22.30 | 242/2005. (X. 28.) Korm. rendelet |
