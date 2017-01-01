@@ -1,3 +1,3 @@
-## 5. §[^10]
+## 5. §[^17]
 
-[^10]: Az 5. §-t a 221/2014. (IX. 4.) Korm. rendelet 753. §-a hatályon kívül helyezte.
+[^17]: Az 5. §-t a 221/2014. (IX. 4.) Korm. rendelet 753. §-a hatályon kívül helyezte.
