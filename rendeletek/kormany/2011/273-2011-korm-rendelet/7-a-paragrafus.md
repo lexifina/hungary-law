@@ -2,7 +2,7 @@
 
 7/A. § (1) A munkavédelmi információs rendszer (a továbbiakban: MIR) keretében történő információnyújtás és tanácsadás célja az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos jogosultságoknak és kötelezettségeknek elsősorban a szervezett munkát végző munkavállalók és munkáltatók, valamint az érdekképviseletüket ellátó szervek információs igényét kielégítő megismertetése.
 
-(2) A MIR szolgáltatásait a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) és Magyar Bányászati és Földtani Hivatal – mint munkavédelmi hatóságok – szervezeti keretében önállóan létrehozott, de a hatósági tevékenységtől elkülönülő munkavédelmi információs és tanácsadó szolgálatok (a továbbiakban: szolgálat) végzik.
+(2)[^2] A MIR szolgáltatásait a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) és a Magyar Bányászati és Földtani Hivatal (a továbbiakban: fenntartó szervezetek) szervezeti keretében önállóan létrehozott, de a hatósági tevékenységtől elkülönülő munkavédelmi információs és tanácsadó szolgálatok (a továbbiakban: szolgálat) végzik.
 
 (3) A Munkavédelmi Bizottság saját adataival, megállapításaival segíti a szolgálat működését.
 
@@ -23,3 +23,4 @@ f) a szolgálat működésével kapcsolatos kommunikációs feladatokról.
 (5) A szolgálat működésének részletes szabályait tartalmazó ügyrendjét a miniszter a honlapján közzéteszi.
 
 [^1]: A 4/A. alcímet (7/A. §) a 318/2014. (XII. 13.) Korm. rendelet 17. §-a iktatta be.
+[^2]: A 7/A. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 182. § (1) bekezdésével megállapított szöveg.

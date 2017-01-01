@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-273-20-
 | --- | --- | --- |
 | 2012-01-01 | 2011-273-20-22.1 | 273/2011. (XII. 20.) Korm. rendelet |
 | 2015-01-01 | 2011-273-20-22.2 | 318/2014. (XII. 13.) Korm. rendelet |
+| 2017-01-01 | 2011-273-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |
