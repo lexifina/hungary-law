@@ -1,5 +1,5 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 277/2014. (XI. 14.) Korm. rendelethez[^5]
+1. melléklet a 277/2014. (XI. 14.) Korm. rendelethez[^6]
 
-[^5]: Az 1. mellékelt a 193/2016. (VII. 13.) Korm. rendelet 29. §-a és 30. § b)–f) pontja szerint módosított szöveg.
+[^6]: Az 1. mellékelt a 193/2016. (VII. 13.) Korm. rendelet 29. §-a és 30. § b)–f) pontja szerint módosított szöveg.
