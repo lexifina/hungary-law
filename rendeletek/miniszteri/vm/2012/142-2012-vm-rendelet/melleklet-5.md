@@ -14,7 +14,7 @@
 
 | anyja születési neve: ..........................................................................................................................., |
 
-| ................................................................................................................. (cím) alatti lakos (MVH ügyfél-azonosító: .....................................), - aki a földterület használója - a fentebb meghatározott területen a szerkezetátalakítást végrehajtsa, valamint a szerkezetátalakítási támogatást igénybe vegye, valamint az ingatlant a művelésben tartási kötelezettsége lejártáig használhatja. |
+| ................................................................................................................. (cím) alatti lakos (ügyfél-azonosító: .....................................), - aki a földterület használója - a fentebb meghatározott területen a szerkezetátalakítást végrehajtsa, valamint a szerkezetátalakítási támogatást igénybe vegye, valamint az ingatlant a művelésben tartási kötelezettsége lejártáig használhatja. |
 
 | Kelt: ....................................... (helység, dátum) |
 
@@ -34,6 +34,6 @@
 
 | (sz. ig. sz.) | (sz. ig. sz.) |
 
-5. melléklet a 142/2012. (XII. 27.) VM rendelethez[^44]
+5. melléklet a 142/2012. (XII. 27.) VM rendelethez[^63]
 
-[^44]: Az 5. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^63]: Az 5. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.

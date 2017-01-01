@@ -1,6 +1,6 @@
-## és a 30/2014. (IV. 3.) VM rendelet hatálybalépésekor[^40] folyamatban lévő, művelési kötelezettség átadásával kapcsolatos ügyekben is alkalmazni kell.
+## és a 30/2014. (IV. 3.) VM rendelet hatálybalépésekor[^59] folyamatban lévő, művelési kötelezettség átadásával kapcsolatos ügyekben is alkalmazni kell.
 
-1. melléklet a 142/2012. (XII. 27.) VM rendelethez[^41]
+1. melléklet a 142/2012. (XII. 27.) VM rendelethez[^60]
 
 ## Szőlőültetvény szerkezetátalakítás és -átállítás esetén a beruházással kapcsolatban felmerülő költségek tekintetében támogatható összegek
 
@@ -264,5 +264,5 @@ VII. Az I–VI. pontokban megjelölt támogatások esetén:
 
 3. a házi szőlőiskolából származó szaporítóanyag telepítése esetén a táblázatban megjelölt összeg az ültetési munka műveletből kerül levonásra.
 
-[^40]: A hatálybalépés időpontja 2014. április 4.
-[^41]: Az 1. melléklet az 57/2016. (VIII. 24.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^59]: A hatálybalépés időpontja 2014. április 4.
+[^60]: Az 1. melléklet az 57/2016. (VIII. 24.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.

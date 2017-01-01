@@ -14,6 +14,6 @@
 
 | 6 | 20 000 ha és a felett | Kunsági | 13 fajta |
 
-7. melléklet a 142/2012. (XII. 27.) VM rendelethez[^45]
+7. melléklet a 142/2012. (XII. 27.) VM rendelethez[^64]
 
-[^45]: A 7. mellékletet az 57/2016. (VIII. 24.) FM rendelet 10. § (2) bekezdése iktatta be.
+[^64]: A 7. mellékletet az 57/2016. (VIII. 24.) FM rendelet 10. § (2) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 56. § f) és g) pontja szerint módosított szöveg.
