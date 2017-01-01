@@ -1,1 +1,0 @@
-## 19. § Az ügyfél köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés napjától számított tíz évig megőrizni abban az esetben is, ha a Tv. 36. § (3) bekezdése alapján a megőrzési kötelezettség ennél rövidebb ideig állna fenn.
