@@ -230,6 +230,8 @@
 
 ## 1412 Váci Járásbíróság
 
+## 1413 Szigetszentmiklósi Járásbíróság
+
 ## 1499 Pest Megyei Közigazgatási és Munkaügyi Bíróság
 
 ## 1500 Kaposvári Törvényszék
@@ -316,6 +318,6 @@
 
 ## 2099 Zalaegerszegi Közigazgatási és Munkaügyi Bíróság
 
-2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^154]
+2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^160]
 
-[^154]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.
+[^160]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.

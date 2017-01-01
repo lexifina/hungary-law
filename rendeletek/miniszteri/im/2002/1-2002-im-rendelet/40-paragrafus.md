@@ -2,13 +2,13 @@
 
 ## Felvilágosítás adás végrehajtási ügyről
 
-40. § (1)[^94] A végrehajtási ügyről a feleknek, képviselőiknek és annak lehet felvilágosítást adni, aki a jogi érdekét az ügyben igazolta. Ha jogszabály a végrehajtási ügy irataiban szereplő adatok megismerhetőségét korlátozza, ezekről csak a jogszabályban meghatározott személy vagy szervezet részére adható felvilágosítás.
+40. § (1)[^99] A végrehajtási ügyről a feleknek, képviselőiknek és annak lehet felvilágosítást adni, aki a jogi érdekét az ügyben igazolta. Ha jogszabály a végrehajtási ügy irataiban szereplő adatok megismerhetőségét korlátozza, ezekről csak a jogszabályban meghatározott személy vagy szervezet részére adható felvilágosítás.
 
 (2) A felvilágosítást kérő személy köteles igazolni személyazonosságát és képviseleti jogosultságát.
 
 (3) A felvilágosításra jogosult személy – a költségek megtérítése fejében és az átvétel igazolása mellett – az iratokból másolatot kérhet.
 
-(4)[^95] Felvilágosításra nem jogosult személynek, illetve a személyazonosság, képviseleti jogosultság igazolására, ellenőrzésére nem alkalmas úton – így különösen telefonon – egyedi végrehajtási ügyben felvilágosítás nem adható, azonban a felvilágosítást kérőt a végrehajtási eljárással kapcsolatos általános tájékoztatással – kérelmére – el kell látni.
+(4)[^100] Felvilágosításra nem jogosult személynek, illetve a személyazonosság, képviseleti jogosultság igazolására, ellenőrzésére nem alkalmas úton – így különösen telefonon – egyedi végrehajtási ügyben felvilágosítás nem adható, azonban a felvilágosítást kérőt a végrehajtási eljárással kapcsolatos általános tájékoztatással – kérelmére – el kell látni.
 
-[^94]: A 40. § (1) bekezdése a 28/2008. (XII. 10.) IRM rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^95]: A 40. § (4) bekezdését a 12/2014. (II. 28.) KIM rendelet 4. § (3) bekezdése iktatta be.
+[^99]: A 40. § (1) bekezdése a 28/2008. (XII. 10.) IRM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^100]: A 40. § (4) bekezdését a 12/2014. (II. 28.) KIM rendelet 4. § (3) bekezdése iktatta be.
