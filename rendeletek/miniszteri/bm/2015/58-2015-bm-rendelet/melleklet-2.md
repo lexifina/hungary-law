@@ -1,4 +1,4 @@
-2. melléklet az 58/2015. (X. 27.) BM rendelethez[^8]
+2. melléklet az 58/2015. (X. 27.) BM rendelethez[^9]
 
 ## A rendvédelmi szerv által üzemben tartott kényszerszállító járművekre vonatkozó eltérő rendelkezésekről
 
@@ -50,4 +50,4 @@ b) a fogvatartotti utasülés az ENSZ–EGB 107. számú Előírás figyelmen k�
 
 c) a fogvatartotti utasteret határoló rácsos szerkezetek anyagait úgy kell megválasztani, hogy veszélyhelyzet bekövetkezése esetén tegye lehetővé a műszaki mentés gyors végrehajtását.
 
-[^8]: A 2. melléklet a 9/2016. (III. 17.) BM rendelet 6. §-ával megállapított szöveg.
+[^9]: A 2. melléklet a 9/2016. (III. 17.) BM rendelet 6. §-ával megállapított szöveg.
