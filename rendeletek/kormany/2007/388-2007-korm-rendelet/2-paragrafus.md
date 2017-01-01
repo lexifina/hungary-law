@@ -1,4 +1,4 @@
-2. §[^2] (1) A szolgáltató központ elektronikus rendszert és honlapot működtet a közalkalmazotti pályázatok interneten történő megjelenítése céljából.
+2. §[^3] (1) A szolgáltató központ elektronikus rendszert és honlapot működtet a közalkalmazotti pályázatok interneten történő megjelenítése céljából.
 
 (2) Az egyedi azonosítóval rendelkező munkáltató a pályázat útján betölteni kívánt közalkalmazotti állásról az 1. számú. mellékletében szereplő pályázati adatok alapján – a szolgáltató központ által működtetett elektronikus rendszeren keresztül – elektronikusan kitölti a közzétételi adatlapot (a továbbiakban: adatlap), és azt megküldi a szolgáltató központ részére.
 
@@ -14,7 +14,7 @@ c) ha az 1. § (2) bekezdésében meghatározott jogszabály a közzététel hel
 
 (5) Az adatlap beérkezésétől számított két munkanapon belül a szolgáltató központ megjeleníti a honlapján az adatlap tartalmán alapuló, az elektronikus rendszer által generált pályázat felhívást. A közzététel időpontjáról elektronikusan értesíti a munkáltatót.
 
-(6)[^3] A pályázati eljárásban megállapított határidőket a szolgáltató központ honlapján történő közzétételtől kell számítani.
+(6)[^4] A pályázati eljárásban megállapított határidőket a szolgáltató központ honlapján történő közzétételtől kell számítani.
 
-[^2]: A 2. § e rendelet 4. § (2) bekezdésének a) pontja alapján 2008. január 1. napján lépett hatályba.
-[^3]: A 2. § (6) bekezdése e rendelet 10. §-ával megállapított szöveg. A rendelkezés e rendelet 4. § (2) bekezdésének b) pontja alapján 2008. április 1. napján lépett hatályba.
+[^3]: A 2. § e rendelet 4. § (2) bekezdésének a) pontja alapján 2008. január 1. napján lépett hatályba.
+[^4]: A 2. § (6) bekezdése e rendelet 10. §-ával megállapított szöveg. A rendelkezés e rendelet 4. § (2) bekezdésének b) pontja alapján 2008. április 1. napján lépett hatályba.

@@ -1,3 +1,3 @@
-## 5–6. §[^8]
+## 5–6. §[^10]
 
-[^8]: Az 5–6. §-t a 167/2008. (VI. 27.) Korm. rendelet 4. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^10]: Az 5–6. §-t a 167/2008. (VI. 27.) Korm. rendelet 4. § (3) bekezdésének c) pontja hatályon kívül helyezte.

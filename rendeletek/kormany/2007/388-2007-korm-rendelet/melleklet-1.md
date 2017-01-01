@@ -1,5 +1,5 @@
-## 9–10. §[^14]
+## 11. §[^17] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 3. § (3) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 1. számú melléklet a 388/2007. (XII. 23.) Korm. rendelethez
 
-[^14]: A 9–10. § e rendelet – 167/2008. (VI. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított – 4. § (4) bekezdése alapján 2008. július 2-án hatályát vesztette.
+[^17]: A 11. §-t a 477/2016. (XII. 27.) Korm. rendelet 41. § (2) bekezdése iktatta be.
