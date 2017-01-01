@@ -4,7 +4,7 @@
 
 a) a postai piaci versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, továbbá az egységes jogalkalmazás előmozdítása érdekében a Gazdasági Versenyhivatallal,
 
-b) a postai szolgáltatások piacával kapcsolatos, felhasználókat érintő ügyekben a külön törvényekben meghatározott hatásköri szabályoknak megfelelően a Nemzeti Fogyasztóvédelmi Hatósággal és a Gazdasági Versenyhivatallal,
+b) a postai szolgáltatások piacával kapcsolatos, felhasználókat érintő ügyekben a külön törvényekben meghatározott hatásköri szabályoknak megfelelően a fogyasztóvédelmi hatósággal és a Gazdasági Versenyhivatallal,
 
 c) a postai szolgáltatások piacával kapcsolatos, a személyes adatok védelmét érintő ügyekben a Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
