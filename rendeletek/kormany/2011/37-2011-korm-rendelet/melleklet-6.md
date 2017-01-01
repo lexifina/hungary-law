@@ -132,9 +132,9 @@
 
 | Kérjük, jelölje és indokolja, hogy miért került sor állami támogatási program létrehozására vagy egyedi támogatás odaítélésére az Európai Tengerügyi és Halászati Alap keretében nyújtott támogatás igénybevétele helyett. | □ A nemzeti operatív program nem tartalmazza a fenti intézkedést □ A nemzeti operatív program keretében rendelkezésre álló pénzeszközök elosztása során alkalmazott fontossági sorrend miatt □ Az Európai Tengerügyi és Halászati Alap keretében már nem állnak rendelkezésre pénzeszközök □ Egyéb (kérjük, nevezze meg): ………… |
 
-6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^182]
+6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^191]
 
-1.[^183] A kedvezményezett neve, székhelye továbbá – ha a csoportmentességi rendeletek, a Bizottság határozata vagy a 2015/1589/EU tanácsi rendelet 22. cikke szerinti, megfelelő intézkedésről szóló javaslatból ez következik – közösségi adószáma és adószáma (adóazonosító jele),
+1.[^192] A kedvezményezett neve, székhelye továbbá – ha a csoportmentességi rendeletek, a Bizottság határozata vagy a 2015/1589/EU tanácsi rendelet 22. cikke szerinti, megfelelő intézkedésről szóló javaslatból ez következik – közösségi adószáma és adószáma (adóazonosító jele),
 
 2. a kedvezményezett típusa a vonatkozó csoportmentességi rendelet I. melléklete szerint,
 
@@ -154,5 +154,5 @@
 
 10. a támogatás európai bizottsági hivatkozási száma.
 
-[^182]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^183]: A 6. melléklet 1. pontja a 409/2016. (XII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^191]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^192]: A 6. melléklet 1. pontja a 409/2016. (XII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.

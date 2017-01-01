@@ -72,8 +72,8 @@ e) kis- és középvállalkozások kivételével olyan vállalkozás, amely eset
 [^55]: A 6. § (5) bekezdését a 381/2012. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
 [^56]: A 6. § (6) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (2) bekezdése iktatta be, szövege a 38/2016. (III. 3.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^57]: A 6. § (7) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (2) bekezdése iktatta be, nyitó szövegrésze a 38/2016. (III. 3.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
-[^58]: A 6. § (7) bekezdés a) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^59]: A 6. § (7) bekezdés b) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^60]: A 6. § (7) bekezdés c) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^58]: A 6. § (7) bekezdés a) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^59]: A 6. § (7) bekezdés b) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^60]: A 6. § (7) bekezdés c) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^61]: A 6. § (7) bekezdés d) pontját a 38/2016. (III. 3.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
 [^62]: A 6. § (8) bekezdését a 38/2016. (III. 3.) Korm. rendelet 3. § (4) bekezdése iktatta be.

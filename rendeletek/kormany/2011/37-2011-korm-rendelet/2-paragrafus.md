@@ -54,7 +54,7 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 10a.[^21] mezőgazdasági állami támogatás: az EUMSz I. mellékletében szereplő mezőgazdasági termékek elsődleges előállítására, a mezőgazdasági termékek feldolgozására vagy a mezőgazdasági termékek forgalmazására irányuló tevékenységekre nyújtott állami támogatás,
 
-10b.[^22] mezőgazdasági és vidékfejlesztési támogatási szerv: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: 2007. évi XVII. törvény) meghatározottak szerinti szerv,
+10b.[^22] kifizető ügynökség: a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 7. cikke alapján kijelölt Magyar Államkincstár,
 
 10c.[^23] mezőgazdasági termék: az EUMSz I. mellékletében felsorolt termékek az 1379/2013/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó halászati és akvakultúra-termékek kivételével,
 
@@ -108,7 +108,7 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 [^19]: A 2. § 9d. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^20]: A 2. § 10. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.
 [^21]: A 2. § 10a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
-[^22]: A 2. § 10b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
+[^22]: A 2. § 10b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 328/2016. (X. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^23]: A 2. § 10c. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 38/2016. (III. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^24]: A 2. § 10d. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, hatályon kívül helyezte a 38/2016. (III. 3.) Korm. rendelet 13. § c) pontja.
 [^25]: A 2. § 10e. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.

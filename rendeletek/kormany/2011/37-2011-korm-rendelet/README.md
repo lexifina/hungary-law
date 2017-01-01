@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2016-07-01 | 2011-37-20-22.16 | 177/2016. (VII. 1.) Korm. rendelet |
 | 2016-10-14 | 2011-37-20-22.17 | 305/2016. (X. 13.) Korm. rendelet |
 | 2016-12-14 | 2011-37-20-22.18 | 409/2016. (XII. 13.) Korm. rendelet |
+| 2017-01-01 | 2011-37-20-22.19 | 328/2016. (X. 28.) Korm. rendelet |
