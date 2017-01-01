@@ -1,10 +1,10 @@
-211. § (1)[^215] Lakbértámogatás az arra jogosult, szolgálati érdekből áthelyezett hivatásos és szerződéses tiszt, altiszt részére akkor állapítható meg, ha
+211. § (1)[^217] Lakbértámogatás az arra jogosult, szolgálati érdekből áthelyezett hivatásos és szerződéses tiszt, altiszt részére akkor állapítható meg, ha
 
 a) önkormányzati tulajdonú lakásban bérlőként (bérlőtársként), a bérlő házastársaként, továbbá az 5. § (1) bekezdés c) pontja szerinti feltételeknek megfelelő élettársaként lakik, és
 
-b)[^216] a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 81. § (1) bekezdésben meghatározott lakbér mértékét.
+b)[^218] a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 81. § (1) bekezdésben meghatározott lakbér mértékét.
 
-(2)[^217]
+(2)[^219]
 
 (3) Nem kaphat lakbértámogatást, aki
 
@@ -36,12 +36,12 @@ nem haladhatja meg.
 
 (6) A lakbértámogatás iránti kérelmet a lakásbérleti szerződés csatolásával az illetékes helyi lakásgazdálkodási szervhez lehet benyújtani. A helyi lakásgazdálkodási szerv a kérelmet érdemben megvizsgálja, és az (1) bekezdésben megállapított feltételek fennállása esetén a (4)–(5) bekezdés szerint megállapított lakbértámogatás összegének közlésével megküldi a folyósító szervnek.
 
-(7)[^218] A lakbértámogatásra való jogosultság a kérelem benyújtásának időpontját megelőző hatállyal nem állapítható meg, illetőleg nem igazolható. A lakbértámogatás folyósítása számla, elektronikus számla vagy fizetési értesítő benyújtása ellenében történik.
+(7)[^220] A lakbértámogatásra való jogosultság a kérelem benyújtásának időpontját megelőző hatállyal nem állapítható meg, illetőleg nem igazolható. A lakbértámogatás folyósítása számla, elektronikus számla vagy fizetési értesítő benyújtása ellenében történik.
 
-(8)[^219] A helyi lakásgazdálkodási szerv lakbértámogatással kapcsolatos érdemi döntése ellen panaszt a HM központi lakásgazdálkodási szervhez lehet benyújtani.
+(8)[^221] A helyi lakásgazdálkodási szerv lakbértámogatással kapcsolatos érdemi döntése ellen panaszt a HM központi lakásgazdálkodási szervhez lehet benyújtani.
 
-[^215]: A 211. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^216]: A 211. § (1) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 16. pontja szerint módosított szöveg.
-[^217]: A 211. § (2) bekezdését a 22/2013. (X. 7.) HM rendelet 27. § d) pontja hatályon kívül helyezte.
-[^218]: A 211. § (7) bekezdése a 15/2015. (XII. 21.) HM rendelet 29. § e) pontja szerint módosított szöveg.
-[^219]: A 211. § (8) bekezdését a 10/2014. (VII. 25.) HM rendelet 44. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^217]: A 211. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^218]: A 211. § (1) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 16. pontja szerint módosított szöveg.
+[^219]: A 211. § (2) bekezdését a 22/2013. (X. 7.) HM rendelet 27. § d) pontja hatályon kívül helyezte.
+[^220]: A 211. § (7) bekezdése a 15/2015. (XII. 21.) HM rendelet 29. § e) pontja szerint módosított szöveg.
+[^221]: A 211. § (8) bekezdését a 10/2014. (VII. 25.) HM rendelet 44. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.

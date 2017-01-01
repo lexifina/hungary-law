@@ -1,13 +1,19 @@
-215/A. §[^233] (1) Nem kell alkalmazni a 215. § (2) bekezdés a) pontját akkor, ha az albérleti díj hozzájárulásra való jogosultság egyéb feltételeivel rendelkező személy lakás lízingjéhez történő támogatás megállapítását
+215/A. §[^245] (1) Nem kell alkalmazni a 215. § (2) bekezdés a) pontját akkor, ha az albérleti díj hozzájárulásra való jogosultság egyéb feltételeivel rendelkező személy lakás lízingjéhez történő támogatás megállapítását
 
-a) a Ptk. szerinti közeli és vele együttköltöző hozzátartozók létszámában bekövetkezett változás miatt az albérleti díj hozzájárulással lízingelt lakáshoz képest másik, a méltányolható lakásigénynek megfelelő, a szolgálati hely szerinti településen vagy annak vonzáskörzetében lévő lakásra kéri,
+a)[^246] a Ptk. szerinti közeli és vele együttköltöző hozzátartozók létszámában bekövetkezett változás miatt az albérleti díj hozzájárulással lízingelt lakáshoz képest másik, legalább a méltányolható lakásigény alsó határának megfelelő szobaszámú és beköltözhető, a szolgálati hely szerinti településen vagy annak vonzáskörzetében lévő lakásra kéri,
 
 b) házasságának felbontását vagy élettársi kapcsolatának megszűnését követően, a volt házastárs, élettárs által albérleti díj hozzájárulással lízingelt lakás lízingjének folytatásához kéri, ha a volt házastárs, élettárs részére ugyanarra a lakásra a folyósítás megszűnt,
 
-c) az albérleti díj hozzájárulásban részesült házastársának, élettársának a támogatásra való igényjogosultsága megszűnése esetén a lízingelt lakás lízingjének folytatásához kéri, vagy
+c)[^247] az albérleti díj hozzájárulásban részesült házastársának, élettársának a támogatásra való igényjogosultsága megszűnése esetén a lízingelt lakás lízingjének folytatásához kéri,
 
-d) az albérleti díj hozzájárulásban részesült házastársának, élettársának halála miatt az elhunyt által lízingelt lakás lízingjének folytatásához kéri.
+d)[^248] az albérleti díj hozzájárulásban részesült házastársának, élettársának halála miatt az elhunyt által lízingelt lakás lízingjének folytatásához kéri, vagy
+
+e)[^249] a méltányolható lakásigény alsó határát el nem érő szobaszámú lakás helyett a méltányolható lakásigény alsó határát elérő vagy azt meghaladó, a szolgálati hely szerinti településen vagy annak vonzáskörzetében lévő, beköltözhető lakásra kéri.
 
 (2) Az (1) bekezdés b)–d) pontja élettárs esetében csak akkor alkalmazható, ha az együttélés folyamatosan, legalább öt évig tartott, vagy az élettársi kapcsolatból közös gyermek született.
 
-[^233]: A 215/A. §-t a 15/2015. (XII. 21.) HM rendelet 22. §-a iktatta be.
+[^245]: A 215/A. §-t a 15/2015. (XII. 21.) HM rendelet 22. §-a iktatta be.
+[^246]: A 215/A. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^247]: A 215/A. § (1) bekezdés c) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^248]: A 215/A. § (1) bekezdés d) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^249]: A 215/A. § (1) bekezdés e) pontját a 26/2016. (XII. 22.) HM rendelet 4. §-a iktatta be.

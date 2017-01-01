@@ -36,13 +36,14 @@ c) cselekvőképtelen elmebeteg.
 
 (6) A (2) bekezdés alkalmazásában figyelembe vehető beosztás, illetőleg munkavégzés
 
-a) a hivatásos szolgálati viszonyban, az állománytábla szerint I. besorolási osztályba VII. vagy annál magasabb beosztási kategóriába besorolt beosztás,
+a)[^30] a hivatásos szolgálati viszonyban, az állománytáblában dandártábornoki vagy annál magasabb rendfokozattal rendszeresített beosztás,
 
-b)[^30] kormánytisztviselői jogviszony alapján főosztályvezetői vagy ennél magasabb beosztás,
+b)[^31] kormánytisztviselői jogviszony alapján főosztályvezetői vagy ennél magasabb beosztás,
 
-c)[^31] hivatásos szolgálati viszony, kormánytisztviselői vagy közalkalmazotti jogviszony alapján végzett rendszeres kutatómunka, tudományos és publicisztikai tevékenység a jogszabályban meghatározott tudományos minősítés esetén.
+c)[^32] hivatásos szolgálati viszony, kormánytisztviselői vagy közalkalmazotti jogviszony alapján végzett rendszeres kutatómunka, tudományos és publicisztikai tevékenység a jogszabályban meghatározott tudományos minősítés esetén.
 
 (7) Vezetői lakás tekintetében az igény mértékét nem kell figyelembe venni.
 
-[^30]: A 10. § (6) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^31]: A 10. § (6) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 10. § (6) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 1. §-ával megállapított szöveg.
+[^31]: A 10. § (6) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^32]: A 10. § (6) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.

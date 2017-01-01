@@ -1,4 +1,4 @@
-25. §[^44] (1) A központi keretbe a lakáselosztási terv elkészítésekor felhasználható lakások legfeljebb 5%-a helyezhető azzal, hogy a már keretben lévő és az újonnan keretbe helyezett lakások száma nem haladhatja meg a fővárosi HM rendelkezésű lakások 5%-át.
+25. §[^45] (1) A központi keretbe a lakáselosztási terv elkészítésekor felhasználható lakások legfeljebb 5%-a helyezhető azzal, hogy a már keretben lévő és az újonnan keretbe helyezett lakások száma nem haladhatja meg a fővárosi HM rendelkezésű lakások 5%-át.
 
 (2) A központi keret rendeltetése a HM Központi Lakásbizottság hatáskörébe tartozó lakásügyek megoldása. A keretben lévő lakásoknak a bizottság ülései közötti felhasználásáról – a szervezeti és működési szabályzatban kapott felhatalmazás esetén, utólagos beszámolási kötelezettséggel – az elnök dönt.
 
@@ -16,4 +16,4 @@
 
 (9) A műszaki vagy egyéb okból bérbe nem adható lakásokat nem lehet a 22. § (2) bekezdésében megjelölt keretekbe helyezni, azokat külön kell nyilvántartani.
 
-[^44]: A 25. § a 10/2014. (VII. 25.) HM rendelet 29. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^45]: A 25. § a 10/2014. (VII. 25.) HM rendelet 29. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
