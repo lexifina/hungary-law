@@ -1,4 +1,4 @@
-## 12. §[^4] Ez a rendelet
+## 12. §[^5] Ez a rendelet
 
 a) az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és szabványos termékismertetővel történő jelöléséről szóló, 2010. május 19-i 2010/30/EU európai parlamenti és tanácsi irányelvnek, továbbá
 
@@ -6,4 +6,4 @@ b) a 92/75/EGK tanácsi irányelvnek a háztartási villamos sütők energiafogy
 
 való megfelelést szolgálja.
 
-[^4]: A 12. § a 40/2011. (X. 14.) NGM rendelet 4. §-ával megállapított szöveg.
+[^5]: A 12. § a 40/2011. (X. 14.) NGM rendelet 4. §-ával megállapított szöveg.

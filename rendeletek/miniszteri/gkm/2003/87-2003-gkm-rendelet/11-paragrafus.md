@@ -1,4 +1,4 @@
-## 10. §[^3] Az e rendeletben foglaltak teljesítését a Nemzeti Fogyasztóvédelmi Hatóság és a fogyasztóvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal ellenőrzi, feltéve, hogy a felhasználó a Fgytv. szerint fogyasztónak minősül.
+## 10. §[^4] Az e rendeletben foglaltak teljesítését a fogyasztóvédelmi hatóság ellenőrzi, feltéve, hogy a felhasználó a Fgytv. szerint fogyasztónak minősül.
 
 ## Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A rendeletben foglaltak nem vonatkoznak azokra a háztartási sütőkre, amelyek gyártását a rendelet hatálybalépése előtt megszüntették.
 
-[^3]: A 10. § a 9/2015. (III. 31.) NGM rendelet 33. §-a szerint módosított szöveg.
+[^4]: A 10. § a 62/2016. (XII. 29.) NGM rendelet 12. §-a szerint módosított szöveg.
