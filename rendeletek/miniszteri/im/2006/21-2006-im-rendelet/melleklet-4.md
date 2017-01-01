@@ -358,7 +358,7 @@ Ellenjegyezte/közokiratba foglalta:[^61.]
 
 ...........................................................................................................................................
 
-[^45]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^45]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § a) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nincs szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -399,14 +399,14 @@ Ellenjegyezte/közokiratba foglalta:[^61.]
 [^38.]: Több ügyvezetésre és képviseletre jogosult tag esetén bővíthető.
 [^39.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja el, e jogi személy tag cégnevét kell megjelölni.
 [^40.]: Szükség esetén kitöltendő.
-[^41.]: Aláhúzással jelölendő.
+[^41.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^42.]: Legfeljebb 5 évig (Ptk. 3:114. §)
-[^43.]: Aláhúzással jelölendő.
+[^43.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^44.]: Legfeljebb 5 évig (Ptk. 3:114. §)
 [^45.]: Több ügyvezetésre és képviseletre jogosult tag esetén bővíthető.
 [^46.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja el, e jogi személy tag cégnevét kell megjelölni.
 [^47.]: Szükség esetén kitöltendő.
-[^48.]: Aláhúzással jelölendő.
+[^48.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^49.]: 45 Aláhúzással jelölendő
 [^50.]: 46 A 11.1. b) pont esetében kitöltendő.
 [^51.]: Szükség esetén bővíthető.

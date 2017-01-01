@@ -198,4 +198,4 @@
 [^20.]: Természetes személy esetén kell kitölteni.
 [^21.]: Szervezet esetén kell kitölteni.
 [^22.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^52]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be.
+[^52]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § i) pontja szerint módosított szöveg.

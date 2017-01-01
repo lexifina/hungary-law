@@ -122,7 +122,7 @@
 
 ## 6. A nyereség felosztása
 
-## 6.1. A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára tekintettel kifizetést a társaság fennállása alatt a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (Ptk.) meghatározott esetekben és a tárgyévi adózott eredményből, illetve szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. A felosztható és a közgyűlés által felosztani rendelt eredményből a részvényest a részvénye névértékével arányos osztalék illeti meg.
+## 6.1. A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára tekintettel kifizetést a társaság fennállása alatt a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (Ptk.) meghatározott esetekben és az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. A felosztható és a közgyűlés által felosztani rendelt eredményből a részvényest a részvénye névértékével arányos osztalék illeti meg.
 
 ## 6.2. Az ügyvezetés jogosult / nem jogosult[^26.] osztalékelőleg fizetéséről határozni.
 

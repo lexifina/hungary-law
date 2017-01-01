@@ -212,7 +212,7 @@ b) a részvénytársaság beleegyezésére van szükség a Polgári Törvénykö
 
 8. A nyereség felosztása
 
-8.1. A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára tekintettel kifizetést a társaság fennállása alatt a Ptk.-ban meghatározott esetekben és a tárgyévi adózott eredményből, illetve szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. A felosztható és a közgyűlés által felosztani rendelt eredményből a részvényest a részvénye névértékével arányos osztalék illeti meg.
+8.1. A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára tekintettel kifizetést a társaság fennállása alatt a Ptk.-ban meghatározott esetekben és az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. A felosztható és a közgyűlés által felosztani rendelt eredményből a részvényest a részvénye névértékével arányos osztalék illeti meg.
 
 8.2. Osztalékra az a részvényes jogosult, aki az osztalékfizetésről döntő közgyűlés időpontjában a részvénykönyvben szerepel. A részvényes az osztalékra csak a már teljesített vagyoni hozzájárulása arányában jogosult.
 
@@ -254,7 +254,7 @@ határozhat.
 
 9.6. A közgyűlés határozatképes, ha azon a szavazásra jogosító részvények által megtestesített szavazatok több mint felét képviselő részvényes jelen van. Ha a közgyűlés nem határozatképes, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a jelenlévők által képviselt szavazati jog mértékétől függetlenül határozatképes. A nem határozatképes és a megismételt közgyűlés között legalább három napnak kell eltelnie, de ez az időtartam nem lehet hosszabb, mint huszonegy nap.
 
-9.8. A közgyűlés határozatait egyszerű többségével hozza, amennyiben a Ptk. másként nem rendelkezik.[^53.]
+9.7. A közgyűlés határozatait egyszerű többségével hozza, amennyiben a Ptk. másként nem rendelkezik.[^53.]
 
 10. Az igazgatóság, a vezérigazgató, a képviselet
 
@@ -504,7 +504,7 @@ Ellenjegyezte/közokiratba foglalta:[^89.]
 
 ….................................................................................................................................
 
-[^49]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja szerint módosított szöveg.
+[^49]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § e)–g) pontja szerint módosított szöveg.
 [^1.]: Az alapszabály szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség esetén kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -564,7 +564,7 @@ Ellenjegyezte/közokiratba foglalta:[^89.]
 [^57.]: Aláhúzással jelölendő.
 [^58.]: Legfeljebb 5 évig (Ptk. 3:114. §).
 [^59.]: Az a) pont választása esetén kitöltendő.
-[^60.]: Aláhúzással jelölendő.
+[^60.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^61.]: Aláhúzással jelölendő.
 [^62Név:]: További igazgatósági tag esetén, bővíthető.
 [^63.]: Aláhúzással jelölendő.

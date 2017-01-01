@@ -388,7 +388,7 @@ Ellenjegyezte/közokiratba foglalta:[^71.]
 
 …...........................................................................................................................................
 
-[^46]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (7) bekezdése és (11) bekezdés d) pontja szerint módosított szöveg.
+[^46]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (7) bekezdése és (11) bekezdés d) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § b) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerinti kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -438,15 +438,15 @@ Ellenjegyezte/közokiratba foglalta:[^71.]
 [^47.]: Több ügyvezetésre és képviseletre jogosult tag esetén bővíthető.
 [^48.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja e, e jogi személy tag nevét kell megjelölni.
 [^49.]: Szükség esetén kitöltendő.
-[^50.]: Aláhúzással jelölendő.
+[^50.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^51.]: Legfeljebb 5 évig (Ptk. 3:114. §)
-[^52.]: Aláhúzással jelölendő.
+[^52.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^53.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja e, e jogi személy tag nevét kell megjelölni.
 [^54.]: Szükség esetén kitöltendő.
-[^55.]: Aláhúzással jelölendő.
+[^55.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^56.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja e, e jogi személy tag nevét kell megjelölni.
 [^57.]: Szükség esetén kitöltendő.
-[^58.]: Aláhúzással jelölendő.
+[^58.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^59.]: Aláhúzással jelölendő.
 [^60.]: Kizárólag a 12.1 a) pont aláhúzása esetén tölthető ki.
 [^61.]: Szükség esetén bővíthető.

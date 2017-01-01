@@ -194,7 +194,7 @@
 
 ## 10. A nyereség felosztása
 
-## 10.1. A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása alatt kizárólag a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.
+## 10.1. A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása alatt kizárólag az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.
 
 ## A tagot a társaságnak a tag javára történő kifizetések céljából felosztható és a taggyűlés által felosztani rendelt saját tőkéjéből meghatározott összeg illeti meg.
 
@@ -568,7 +568,7 @@ A törzsbetéthez kapcsolódó tagsági jogok és kötelezettségek összessége
 
 9. A nyereség felosztása
 
-9.1. A társaság saját tőkéjéből a tag javára, annak tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása alatt kizárólag a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.
+9.1. A társaság saját tőkéjéből a tag javára, annak tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása alatt kizárólag az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.
 
 9.2. Az ügyvezető jogosult / nem jogosult[^18.] osztalékelőleg fizetéséről határozni.
 
@@ -856,7 +856,7 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^84.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
 [^85Név:]: Bővíthető.
 [^86.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^48]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^48]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés f) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § d) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.

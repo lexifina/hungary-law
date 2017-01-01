@@ -178,7 +178,7 @@
 
 ## 10. A nyereség felosztása
 
-## 10.1. A végrehajtói iroda saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést az iroda fennállása alatt kizárólag a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha az iroda helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el az iroda törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné az iroda fizetőképességét.
+## 10.1. A végrehajtói iroda saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést az iroda fennállása alatt kizárólag az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha az iroda helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el az iroda törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné az iroda fizetőképességét.
 
 ## A tagot az irodának a tag javára történő kifizetések céljából felosztható és a taggyűlés által felosztani rendelt saját tőkéjéből meghatározott összeg illeti meg.
 
@@ -524,7 +524,7 @@ A törzsbetéthez kapcsolódó tagsági jogok és kötelezettségek összessége
 
 9. A nyereség felosztása
 
-9.1. Az iroda a saját tőkéjéből a tag javára, annak tagsági jogviszonyára figyelemmel kifizetést az iroda fennállása alatt kizárólag a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha az iroda helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el az iroda törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné az iroda fizetőképességét.
+9.1. Az iroda a saját tőkéjéből a tag javára, annak tagsági jogviszonyára figyelemmel kifizetést az iroda fennállása alatt kizárólag az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha az iroda helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el az iroda törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné az iroda fizetőképességét.
 
 9.2. Az irodavezető jogosult / nem jogosult[^85.] osztalékelőleg fizetéséről határozni.
 
@@ -762,7 +762,7 @@ Ellenjegyezte/közokiratba foglalta:[^107.]
 [^70.]: Szervezet esetén kell kitölteni.
 [^71Név:]: Bővíthető.
 [^72.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^53]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be.
+[^53]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § j) pontja szerint módosított szöveg.
 [^73.]: Az alapító okirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott végrehajtói iroda esetében nem volt szükség.
 [^74.]: Aláhúzással jelölendő.
 [^75:]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
