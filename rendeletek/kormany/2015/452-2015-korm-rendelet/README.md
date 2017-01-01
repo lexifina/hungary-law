@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-452-20-
 | 2015-12-30 | 2015-452-20-22.2 | 2010: CXXX. törvény |
 | 2016-06-25 | 2015-452-20-22.3 | 163/2016. (VI. 17.) Korm. rendelet |
 | 2016-09-09 | 2015-452-20-22.4 | 163/2016. (VI. 17.) Korm. rendelet |
+| 2017-01-01 | 2015-452-20-22.5 | 380/2016. (XII. 2.) Korm. rendelet |
