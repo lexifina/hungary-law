@@ -1,6 +1,6 @@
 ## 15. Az önálló diszpécserszolgálati tevékenység engedélyezése
 
-17. § (1)[^7] Önálló diszpécserszolgálati tevékenységet vállalkozás a közlekedési hatóság által kiadott engedély birtokában végezhet. Az engedélyt a közlekedési hatóság – erre irányuló kérelemre – annak a kérelmezőnek adja meg, amely megfelel a 6. §-ban és a 7. §-ban a személyszállító szolgáltatást végző vállalkozásra meghatározott személyes megbízhatósági és szakmai alkalmassági feltételeknek, továbbá a (3) és (4) bekezdésben meghatározott pénzügyi teljesítőképességi feltételeknek. Az engedély iránti kérelem elektronikus úton is benyújtható. Az engedély iránti kérelemhez mellékelni kell a feltételeknek történő megfelelést igazoló okiratokat.
+17. § (1)[^7] Önálló diszpécserszolgálati tevékenységet vállalkozás a közlekedési hatóság által kiadott engedély birtokában végezhet. Az engedélyt a közlekedési hatóság – erre irányuló kérelemre – annak a kérelmezőnek adja meg, amely megfelel a 6 és 7. §-ban a személyszállító szolgáltatást végző vállalkozásra meghatározott személyes megbízhatósági és szakmai alkalmassági feltételeknek, továbbá a (3) és (4) bekezdésben meghatározott pénzügyi teljesítőképességi feltételeknek. Az engedély iránti kérelemhez mellékelni kell a feltételeknek történő megfelelést igazoló okiratokat.
 
 (2) A közlekedési hatóság által kiadott engedélyeket a hatóság a honlapján közzéteszi, és azokat negyedévente aktualizálja.
 
@@ -38,6 +38,6 @@ b) az önálló diszpécserszolgálati tevékenységet végző vállalkozásokna
 
 e szakasz rendelkezéseit az eltérő feltételek figyelembevétele mellett kell alkalmazni.
 
-[^7]: A 17. § (1) bekezdése a 8/2016. (II. 9.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^7]: A 17. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
 [^8]: A 17. § (3) bekezdése a 8/2016. (II. 9.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^9]: A 17. § (7) bekezdését a 8/2016. (II. 9.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
