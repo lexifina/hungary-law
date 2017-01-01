@@ -4,7 +4,7 @@ a) az OBH elnökhelyettese és egyéb alkalmazottai tekintetében az OBH elnöke
 
 b)
 
-c) az igazságügyi szakértők, az egyéb igazságügyi szerv vezetője és helyettese tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter),
+c) az egyéb igazságügyi szerv vezetője, vezetőjének helyettese, valamint az egyéb igazságügyi szerv igazságügyi alkalmazottai tekintetében – a 8/A. § (1) bekezdésében meghatározott kivétellel – jogszabályban meghatározott személy
 
 d)
 

@@ -4,6 +4,8 @@
 
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
+(2b) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerv vezetője, vezetőjének helyettese, valamint az egyéb igazságügyi szerv igazságügyi alkalmazottai tekintetében – e törvényben nem szabályozott – munkáltatói jogkört gyakorló személyt rendeletben határozza meg.
+
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 a) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével –,
@@ -14,7 +16,7 @@ c) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételé
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a rendészetért felelős miniszter, hogy az 1. § (1) bekezdés d) pontjában meghatározott igazságügyi alkalmazottak tekintetében
+(4) Felhatalmazást kap az igazságügyi miniszterrel egyetértésben a miniszter, hogy az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében
 
 a) rendeletben határozza meg
 

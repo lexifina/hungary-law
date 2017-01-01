@@ -1,1 +1,1 @@
-123. § Az e törvény alapján adható juttatások, kedvezmények és elismerések részletes szabályait, valamint e törvény keretei között azok mértékét az érdekképviseleti szervekkel együttműködve az OBH elnöke, illetve a miniszter állapítja meg.
+123. § Az e törvény alapján adható juttatások, kedvezmények és elismerések részletes szabályait, valamint e törvény keretei között azok mértékét az érdekképviseleti szervekkel együttműködve az OBH elnöke, illetve az igazságügyért felelős miniszter, valamint a miniszter állapítja meg.

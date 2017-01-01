@@ -10,4 +10,4 @@
 
 (5) Az igazságügyi szerv az elektronikus aláírás hitelesítése céljából kiállított tanúsítvány visszavonását, illetve felfüggesztését az igazságügyi alkalmazott beosztásának megváltozása, szolgálati viszonyának megszűnése, illetve egyéb ok esetén a Bizalmi szolgáltatónál kezdeményezi. A Bizalmi szolgáltató köteles az igazságügyi szerv megkeresésére a tanúsítványt haladéktalanul visszavonni, illetve felfüggeszteni.
 
-(6) Az igazságügyi alkalmazottak elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
+(6) Az OBH és a bíróságok igazságügyi alkalmazottainak elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.

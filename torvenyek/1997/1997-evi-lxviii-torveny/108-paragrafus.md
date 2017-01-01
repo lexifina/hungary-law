@@ -4,4 +4,4 @@
 
 (2) A veszélyességi pótlék mértéke az illetményalap 5–10 százaléka.
 
-(3) A veszélyességi pótlékra jogosító munkaköröket a miniszter rendeletben állapítja meg.
+(3) A veszélyességi pótlékra jogosító munkaköröket az igazságügyért felelős miniszter, valamint a miniszter rendeletben állapítja meg.

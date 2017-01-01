@@ -1,16 +1,16 @@
-2. § (1) A szolgálati viszony alanyai egyrészről az igazságügyi szerv vagy a rendőrség szakértői szerve, másrészről az igazságügyi alkalmazott.
+2. § (1) A szolgálati jogviszony alanya egyrészről az igazságügyi szerv, másrészről az igazságügyi alkalmazott.
 
 (2) Igazságügyi alkalmazott:
 
 a) a bírósági fogalmazó és a bírósági titkár,
 
-b) a rendőrség szakértői szervénél foglalkoztatott technikus,
+b) a technikus,
 
 c) az igazságügyi szakértő és a szakértőjelölt,
 
 d) a tisztviselő,
 
-e) az írnok,
+e) az írnok, valamint
 
 f) a fizikai dolgozó.
 
