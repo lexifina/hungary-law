@@ -14,6 +14,6 @@ b) a munkavállalót nyugdíjjárulék (tagdíj), egészségbiztosítási és mu
 
 a) a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és
 
-b) a 11. § (4) bekezdés szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
+b) a 11. § (3) bekezdése szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
 
 a munkáltató közterhet nem fizet.

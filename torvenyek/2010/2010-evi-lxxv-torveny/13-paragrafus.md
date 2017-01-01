@@ -4,4 +4,4 @@
 
 (3) A (2) bekezdésben meghatározott átutalást naponta, ettől eltérően a magánnyugdíjpénztárnak történő átutalás esetén a bevallás feldolgozását követően haladéktalanul kell teljesíteni.
 
-(4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag után fizetendő közteher összegéből – a (2) bekezdés a) pontjától eltérően – a Nyugdíjbiztosítási Alapot 91,8% illeti meg, és a (2) bekezdés b) pontja nem alkalmazható.
+(4)

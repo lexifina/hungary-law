@@ -4,7 +4,7 @@ a) mezőgazdasági, továbbá turisztikai idénymunkára vagy
 
 b) alkalmi munkára.
 
-(1a) E törvény szabályait kell alkalmazni továbbá abban az esetben, ha foglalkoztatási szövetkezet a tagjait munkaerő-kölcsönzés keretében a 2. § 1. és 2. pontjában meghatározott idénymunkára kölcsönzi ki azzal, hogy munkáltató alatt a foglalkoztatási szövetkezetet kell érteni.
+(1a)
 
 (2) Az alkalmi munkára irányuló egyszerűsített foglalkoztatás esetén az egyszerűsített munkaviszonyban egy naptári napon legfeljebb foglalkoztatott munkavállalók létszáma – a munkáltatónak a tárgyév első, illetve hetedik hónapját megelőző hat havi, ha a munkáltató ennél rövidebb ideje működik, működésének egész hónapjaira eső átlagos statisztikai létszámát alapul véve – nem haladhatja meg
 
