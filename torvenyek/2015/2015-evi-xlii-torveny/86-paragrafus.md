@@ -8,11 +8,11 @@ b) átszervezés következtében szolgálati beosztása megszűnt, és a számá
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát – az (5) és (6) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel meg kell szüntetni, ha
 
-a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján
+a) minősítése, pszichikai, fizikai vagy – a 82/A. §-ban foglalt személyi kör kivételével – egészségi állapota alapján
 
 aa) a hivatásos szolgálatra alkalmatlanná vált, vagy
 
-ab) szolgálati beosztásának ellátására alkalmatlanná vált,
+ab) szolgálati beosztásának ellátására alkalmatlanná vált
 
 és részére a rendvédelmi szervnél megfelelő szolgálati beosztás, munkakör nem biztosítható,
 

@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti soron kívüli fizetési fokozatban előresorolásra viselt rendfokozatonként legfeljebb egy alkalommal kerülhet sor.
 
-(3) A hivatásos állomány tagja soron kívül eggyel magasabb rendfokozatba kinevezhető, előléptethető, ha a rendfokozatban történő előléptetés, kinevezés legfeljebb egy fizetési fokozatban történő előresorolással jár együtt, és a magasabb rendfokozathoz szükséges képzettséggel, továbbá az előző négy év átlagában jó vagy kivételes teljesítményfokozattal rendelkezik. Ebben az esetben a hivatásos állomány tagjának a rendfokozati vizsgát utólag teljesítenie kell.
+(3) A hivatásos állomány tagja soron kívül eggyel magasabb rendfokozatba kinevezhető, előléptethető, ha a rendfokozatban történő előléptetés, kinevezés legfeljebb egy fizetési fokozatban történő előresorolással jár együtt, és a magasabb rendfokozathoz szükséges képzettséggel, továbbá az előző négy év átlagában jó vagy kivételes teljesítményfokozattal rendelkezik. Ebben az esetben a hivatásos állomány tagjának a rendfokozati vizsgát – ha a rendfokozati vizsga teljesítésének kötelezettsége alól nem mentesült – utólag teljesítenie kell.
 
 (4) A (3) bekezdés szerinti magasabb rendfokozatba kinevezésére, előléptetésre a besorolási kategórián belül legfeljebb egy alkalommal kerülhet sor.
 

@@ -16,7 +16,7 @@
 
 6. megállapítsa a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást,
 
-7. megállapítsa a diplomáciai és az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat,
+7. megállapítsa az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat,
 
 8. meghatározza a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét,
 
@@ -36,4 +36,6 @@
 
 16. meghatározza a hivatásos állomány tagja által felvett kölcsönhöz nyújtott, az állami készfizető kezességvállalásra vonatkozó további szabályokat,
 
-17. megállapítsa az országos parancsnok és helyettese, valamint az országos főigazgató és helyettese számára adható, valamint őket megillető juttatások fajtáit, mértékét, a jogosultság feltételeit, a megállapítás és a kifizetés részletes rendjét.
+17. megállapítsa az országos parancsnok és helyettese, valamint az országos főigazgató és helyettese számára adható, valamint őket megillető juttatások fajtáit, mértékét, a jogosultság feltételeit, a megállapítás és a kifizetés részletes rendjét,
+
+18. meghatározza a személyi állomány kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos további feladatokat.

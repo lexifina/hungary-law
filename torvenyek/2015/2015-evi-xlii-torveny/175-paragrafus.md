@@ -12,4 +12,4 @@
 
 (6) A ruházati utánpótlási ellátmányt a jogosultság évében kell kiadni. Ellátmányként csak rendszeresített egyenruházati termék szolgáltatható ki.
 
-(7) A természetbeni ellátás és a hivatásos állomány egyéb, ruházati utánpótlással kapcsolatos vásárlásának biztosítása érdekében a ruházatot biztosító szerv jogosult a hivatásos állomány tagjának az ellátás, vásárlás szempontjából szükséges adatait kezelni.
+(7) A természetbeni ellátás és a hivatásos állomány egyéb, ruházati ellátással kapcsolatos vásárlásának biztosítása érdekében a rendvédelmi szerv és a ruházatot biztosító szerv jogosult a hivatásos állomány tagjának az ellátás, vásárlás szempontjából szükséges adatait kezelni. A ruházati ellátással kapcsolatos adatokat a rendvédelmi szerv és a ruházatot biztosító szerv a szolgálati viszony megszűnését követő öt évig kezeli.

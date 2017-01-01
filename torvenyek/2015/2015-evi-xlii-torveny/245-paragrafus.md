@@ -7,3 +7,5 @@
 (4) Meg kell téríteni azt a kárt is, amelyet a hivatásos állomány tagja a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárított el.
 
 (5) Nem kell megtéríteni az olyan szolgáltatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén járó összeget.
+
+(6) Az egészségi alkalmatlanság kialakulásával összefüggésben a rendvédelmi szerv kártérítési felelősségének megállapítása esetén a hivatásos állomány tagját, volt tagját megillető elmaradt jövedelem mértékének megállapításakor az egészségkárosodási ellátást is figyelembe kell venni.

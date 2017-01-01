@@ -1,6 +1,6 @@
 ## 93. Választható juttatások
 
-176. § (1) A hivatásos állomány tagja természetbeni juttatásként, választása szerint – az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A miniszter közjogi szervezetszabályozó eszközben további választható juttatásokat is meghatározhat, valamint az egyes juttatások választható mértékét magasabban is meghatározhatja.
+176. § (1) A hivatásos állomány tagja természetbeni juttatásként – választása szerint – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdésében meghatározott juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
 
 (2) Nem jogosult természetbeni juttatásra a hivatásos állomány tartós külszolgálaton lévő vagy nemzeti szakértőként foglalkoztatott tagja, továbbá a hivatásos állomány tagja azon időtartamra, amely során illetményre vagy távolléti díjra nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 

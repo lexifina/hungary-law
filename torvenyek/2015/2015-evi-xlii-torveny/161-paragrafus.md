@@ -6,7 +6,7 @@ b) a preferált településen szolgálatot teljesítők pótléka havonta a rend
 
 c) az éjszakai pótlék teljesített óránként a rendvédelmi illetményalap 0,5%-a, valamint
 
-d) a készenléti pótlék teljesített óránként a rendvédelmi illetményalap 0,25%-a.
+d) a készenléti pótlék teljesített óránként a rendvédelmi illetményalap 0,25%-a, kiemelt készenlét esetén 1%-a.
 
 (2) Az (1) bekezdés a) és b) pontja szerinti pótlék a szolgálati beosztás betöltésének idejére, az (1) bekezdés c) és d) pontja szerinti pótlék a hivatásos állomány tagjának a pótlékkal elismert tevékenység tényleges kifejtésének idejére jár.
 

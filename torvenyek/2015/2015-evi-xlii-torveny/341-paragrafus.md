@@ -28,7 +28,7 @@ a) a szolgálati igazolvány rendszeresítésével, érvényességével és a sz
 
 b) a szolgálati jelvény rendszeresítésével és a szolgálati jelvénnyel történő ellátás rendjével összefüggő szabályokat,
 
-5. meghatározza, hogy a hivatásos állomány tagja mely vagyontárgyak, magáncélú telekommunikációs eszközök esetében, valamint a készpénz, készpénzt helyettesítő eszköz vonatkozásában mely értékhatárt meghaladóan korlátozható abban, hogy azokat a szolgálatban magánál tartsa, valamint a korlátozás feltételeit, továbbá, hogy megállapítsa a magáncélú telekommunikációs eszközök szolgálatellátás során történő használatának korlátozására vonatkozó szabályokat,
+5. meghatározza, hogy a hivatásos állomány tagja mely vagyontárgyak, magáncélú telekommunikációs eszközök esetében, valamint a készpénz, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszköz vonatkozásában mely értékhatárt meghaladóan korlátozható abban, hogy azokat a szolgálatban magánál tartsa, valamint a korlátozás feltételeit, továbbá, hogy megállapítsa a magáncélú telekommunikációs eszközök szolgálatellátás során történő használatának korlátozására vonatkozó szabályokat,
 
 6. megállapítsa
 
@@ -84,7 +84,7 @@ b) a szervezeti teljesítményértékelés szabályait,
 
 18. meghatározza
 
-a) a rendfokozati vizsgával kapcsolatos részletes szabályokat,
+a) a rendfokozati vizsgával kapcsolatos részletes szabályokat, valamint a rendfokozati vizsga teljesítésének kötelezettsége alóli mentességek eseteit,
 
 b) a vezetővé képzéssel és magasabb vezetővé képzéssel kapcsolatos részletes szabályokat, a rendvédelmi szerv hivatásos állományát érintő vezetőképzési rendszert,
 
@@ -147,3 +147,5 @@ c) a Becsületbíróságra és annak működésére, eljárására vonatkozó sz
 (3) Felhatalmazást kap a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott, a rendészeti felsőoktatás felügyeletét gyakorló miniszter, hogy a Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztásokat, továbbá azok besorolási kategóriába sorolását rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter – az Országgyűlési Őrség hivatásos állománya vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában meghatározza az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
+
+(5) Felhatalmazást kap a miniszter az általa irányított rendvédelmi szerv tekintetében – az Országgyűlési Őrség vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető szolgálati beosztások és nem hivatásos munkakörök meghatározásának rendjét rendeletben állapítsa meg.

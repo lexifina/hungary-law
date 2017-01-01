@@ -4,7 +4,7 @@
 
 a) a rendvédelmi szerv hivatásos állományának tagja és közeli hozzátartozója,
 
-b) a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjas és közeli hozzátartozója,
+b) a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjas és egészségkárosodási ellátásra jogosult, valamint közeli hozzátartozóik,
 
 c) a hivatásos állomány elhunyt tagjának és a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjasnak az özvegye, árvája, amíg ellátást folyósítanak számára, továbbá az özvegy akkor is, ha saját jogú nyugdíjat kap, valamint
 

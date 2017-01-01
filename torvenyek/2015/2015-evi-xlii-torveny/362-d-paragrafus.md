@@ -1,0 +1,1 @@
+362/D. § A 255/A. §-t a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosításáról szóló 2016. évi CLIX. törvény hatálybalépésekor el nem évült követelésekre is alkalmazni kell.

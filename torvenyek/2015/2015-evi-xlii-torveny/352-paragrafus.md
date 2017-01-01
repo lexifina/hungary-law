@@ -1,4 +1,4 @@
-352. § A 351. §, a 353. § és a 353/A. § alkalmazásában:
+352. § A 351. § és a 353–353/C. § alkalmazásában:
 
 a) illetményemelkedés: a korábbi rendszeres díjazás és a hatályos rendszeres díjazás különbözete,
 
@@ -56,4 +56,8 @@ feladatok ellátására irányul, ezen szolgálati beosztások körét a miniszt
 
 e) 2016-os illetménykülönbözet: a korábbi rendszeres díjazás és a 2016-os rendszeres díjazás közötti emelkedés százalékos mértékben kifejezve,
 
-f) 2016-os rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2016. január 1. napján számított együttes összege.
+f) 2016-os rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2016. január 1. napján számított együttes összege,
+
+g) 2017-es illetménykülönbözet: a korábbi rendszeres díjazás és a 2017-es rendszeres díjazás közötti emelkedés százalékos mértékben kifejezve,
+
+h) 2017-es rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2017. január 1. napján számított együttes összege.

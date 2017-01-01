@@ -4,6 +4,8 @@
 
 (2) A tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
 
+(2a) A tisztjelölt vonatkozásában a 192. § nem alkalmazandó, a fegyelmi jogkör gyakorlójának személyét miniszteri rendelet határozza meg. A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
+
 (3) A tisztjelölt kártérítési felelőssége kiterjed a tisztjelölti jogviszonyából és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
 
 (4) A fegyelmi és a kártérítési eljárás jogszabályban nem szabályozott kérdéseiben a Nemzeti Közszolgálati Egyetem fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.

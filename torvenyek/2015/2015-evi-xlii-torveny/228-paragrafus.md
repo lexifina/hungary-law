@@ -1,6 +1,6 @@
 ## XIX. Fejezet
 
-## KÁRTÉRÍTÉSI FELELŐSSÉG
+## KÁRTÉRÍTÉSI FELELŐSSÉG ÉS KÁRTALANÍTÁS
 
 ## 104. A hivatásos állomány tagjának kártérítési felelőssége
 
