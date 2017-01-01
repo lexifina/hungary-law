@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-72-20-2
 | --- | --- | --- |
 | 2013-03-09 | 2013-72-20-22.1 | 72/2013. (III. 8.) Korm. rendelet |
 | 2015-04-01 | 2013-72-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
+| 2017-01-01 | 2013-72-20-22.3 | 380/2016. (XII. 2.) Korm. rendelet |
