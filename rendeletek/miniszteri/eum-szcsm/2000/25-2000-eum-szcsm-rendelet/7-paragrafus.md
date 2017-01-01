@@ -26,7 +26,7 @@ b) a munkavállalót munkavégzés közben hormon-, hormonhatású anyag, antibi
 
 c)[^19] a külön jogszabály szerinti biztonsági adatlappal azonosítható anyagfajtákra vonatkozó nyilvántartást vezessenek a munkahelyen alkalmazott veszélyes anyagokról és veszélyes keverékekről,
 
-d)[^20] a munkavállaló munkahelyi expozíciójára vonatkozó nyilvántartott adatokat a munkaviszony megszűnését követő 10 évig, rákkeltő hatású anyagok esetében 40 évig megőrizzék, valamint ezekhez a munkavállaló, valamint képviselőik hozzáférhessenek. A munkáltató megszűnése esetén a dokumentumokat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének (a továbbiakban: járási népegészségügyi intézet) kell átadni.
+d)[^20] a munkavállaló munkahelyi expozíciójára vonatkozó nyilvántartott adatokat a munkaviszony megszűnését követő 10 évig, rákkeltő hatású anyagok esetében 40 évig megőrizzék, valamint ezekhez a munkavállaló, valamint képviselőik hozzáférhessenek. A munkáltató megszűnése esetén a dokumentumokat a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) kell átadni.
 
 (5)[^21] A veszélyes anyagokkal szennyezett munkatérben foglalkoztatott munkavállalókra az 1. számú mellékletben meghatározott határértékek 8 órás referenciaidőre vonatkoznak. Amennyiben az expozícióban töltött munkavégzés időtartama rövidebb, mint a referenciaidő, a légtérszennyezettség mértéke akkor sem haladhatja meg az ÁK értéket.
 
@@ -50,7 +50,7 @@ d) gondoskodni a munkahely, a berendezések és a gépek kielégítő irányít�
 
 [^18]: A 7. § (3) bekezdésének d) pontja a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 3. §-ával megállapított szöveg.
 [^19]: A 7. § (4) bekezdés c) pontja a 21/2015. (VIII. 28.) NGM rendelet 7. §-ával megállapított szöveg.
-[^20]: A 7. § (4) bekezdés d) pontja a 48/2012. (XII. 28.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
+[^20]: A 7. § (4) bekezdés d) pontja a 62/2016. (XII. 29.) NGM rendelet 53. § a) pontja szerint módosított szöveg.
 [^21]: A 7. § (5) bekezdése a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 4. §-ával megállapított szöveg.
 [^22]: A vizsgálati módszereknek meg kell felelnie az MSZ EN 482 követelményeinek.
 [^23]: MSZ EN 689:1999.
