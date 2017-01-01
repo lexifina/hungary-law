@@ -2,7 +2,7 @@
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott tudományok főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
+1.
 
 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
 
@@ -118,6 +118,6 @@ b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzés
 
 c) a szakirányú továbbképzés szervezésének általános feltételeit,
 
-d) az államilag elismert nyelvvizsgáztatáshoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, valamint a felsőoktatási hatósági eljárási díjakat és azok mértékét.
+d) az államilag elismert nyelvvizsgáztatáshoz, a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról kiállított hatósági bizonyítványokhoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjak mértékét, a felsőoktatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (4) A miniszter a (3) bekezdés d) pontjában kapott szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
