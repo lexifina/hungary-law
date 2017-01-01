@@ -2,15 +2,15 @@
 
 a) a pénzforgalmi szolgáltatásból, valamint külön a kapcsolódó pénzügyi szolgáltatásból származó(an)
 
-aa)[^14] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint az Fsztv. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
+aa)[^15] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint az Fsztv. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
 
 ab) kötelezettségeit, külön kiemelten bemutatva a fizetési számla kapcsán az ügyféllel szemben fennálló tartozást, a céltartalékokat és a passzív időbeli elhatárolásokat,
 
-ac)[^15] bevételeit, értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei – külön kiemelve abból a kapott (járó) kamatok és kamatjellegű bevételeket – bontásban,
+ac)[^16] bevételeit, értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei – külön kiemelve abból a kapott (járó) kamatok és kamatjellegű bevételeket – bontásban,
 
 ad) ráfordításai közül a költségeket, külön kiemelve az értékesítés közvetlen önköltségét, az értékesítés közvetett költségét, továbbá bemutatva azokat – költségnemenként is – anyagjellegű ráfordítások, személyi jellegű ráfordítások és értékcsökkenés részletezésben,
 
-ae)[^16] további ráfordításait egyéb ráfordítások, pénzügyi műveletek ráfordítása, ebből fizetett (fizetendő) kamatok, kamatjellegű ráfordítások bontásban,
+ae)[^17] további ráfordításait egyéb ráfordítások, pénzügyi műveletek ráfordítása, ebből fizetett (fizetendő) kamatok, kamatjellegű ráfordítások bontásban,
 
 af) mérlegen kívüli függő és jövőbeni (biztos) kötelezettségeit,
 
@@ -24,6 +24,6 @@ b) a 6. § (3) bekezdés a) pontja szerinti számbavételnél figyelembe vett á
 
 c) a Hitkr. 25. §-ának 7., 28., 40., 42., és 43. pontjai szerinti adatokat a pénzforgalmi szolgáltató vonatkozásában, továbbá, ha az a nemzetközi számviteli standardok szerinti konszolidált beszámolót készítő anyavállalatnak minősül, akkor a Hitkr. 26. §-ának (10) bekezdése szerinti adatokat a pénzforgalmi szolgáltatóra vonatkozóan.
 
-[^14]: A 7. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 61. §-ával megállapított, a 362/2014. (XII. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.
-[^15]: A 7. § a) pont ac) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 1. pontja szerint módosított szöveg.
-[^16]: A 7. § a) pont ae) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 2. pontja szerint módosított szöveg.
+[^15]: A 7. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 61. §-ával megállapított, a 362/2014. (XII. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^16]: A 7. § a) pont ac) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 1. pontja szerint módosított szöveg.
+[^17]: A 7. § a) pont ae) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 2. pontja szerint módosított szöveg.
