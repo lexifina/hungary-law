@@ -1,3 +1,3 @@
 1. számú melléklet a 192/2008. (VII. 30.) Korm. rendelethez[^15]
 
-[^15]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 8. § (2) bekezdés a) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^15]: Az 1. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 7. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
