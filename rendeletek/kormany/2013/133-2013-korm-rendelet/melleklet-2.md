@@ -4,25 +4,25 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárás | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése | Az 1. § (1) bekezdése szerinti területek | általános építésügyi hatósági eljárások | Kecskeméti Járási Hivatal | Bács-Kiskun Megyei Kormányhivatal |
+| 2. | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése | Az 1. § (1) bekezdése szerinti területek | általános építésügyi hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárás | Csongrád Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 4. | természetvédelmi hatósági engedélyezési eljárás | Csongrád Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | természetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | vízjogi engedélyezési eljárás | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal | Nemzeti Közlekedési Hatósági Központja |
+| 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 7. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Csongrád Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 8. | művelési ágból történő kivétel hatósági eljárás | Kecskeméti Járási Hivatal | Bács-Kiskun Megyei Kormányhivatal |
+| 8. | művelési ágból történő kivétel hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 9. | ingatlan-nyilvántartási hatósági eljárás | Kecskeméti Járási Hivatal | Bács-Kiskun Megyei Kormányhivatal |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Kecskeméti Járási Hivatal | Bács-Kiskun Megyei Kormányhivatal |
+| 10. | telekalakítási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Kecskeméti Járási Hivatal | Bács-Kiskun Megyei Kormányhivatal |
+| 11. | földmérési hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -34,7 +34,7 @@
 
 | 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 17. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^10]
 
@@ -46,15 +46,15 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 2. | telekalakítás településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelősége | Lakitelek Önkormányzat jegyzője | Bács-Kiskun Megyei Kormányhivatal |
 
-| 3. | építésügy | Kecskeméti Járási Hivatal | Bács-Kiskun Megyei Kormányhivatal |
+| 3. | építésügy | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 4. | örökségvédelem | Kecskeméti Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 4. | örökségvédelem | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 5. | környezetvédelem, természetvédelem | Csongrád Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 5. | környezetvédelem, természetvédelem | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 6. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. | közúti közlekedés | Bács-Kiskun Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 7. | közúti közlekedés | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
 | 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
@@ -64,14 +64,12 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. |  |  |  |
+| 12. | talajvédelem | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 13. | talajvédelem | Bács-Kiskun Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 13. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 14. | egészségügy | Bács-Kiskun Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 14. | hírközlés | Nemzeti Média- és Hírközlési Hatósági Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 15. | hírközlés | Nemzeti Média- és Hírközlési Hatósági Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 15. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 16. | műszaki biztonság | Csongrád Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
-
-[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 45. § (2) bekezdés b) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 34. § (3)–(4) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 42. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
