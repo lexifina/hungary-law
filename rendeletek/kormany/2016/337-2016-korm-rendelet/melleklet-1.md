@@ -1,4 +1,4 @@
-## 6. §[^1]
+## 6. §[^11]
 
 1. melléklet a 337/2016. (XI. 17.) Korm. rendelethez
 
@@ -142,4 +142,4 @@ V. Nevezetes pontok mezői
 
 | 12. | Az információ forrása |
 
-[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
