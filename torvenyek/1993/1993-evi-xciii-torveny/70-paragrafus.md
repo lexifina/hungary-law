@@ -17,3 +17,5 @@ c) a munkavédelmi oktatás (55. §) megtervezése és megszervezése.
 (3) A tanácskozás során biztosítani kell a kiegyensúlyozott részvételt, a munkavállalók, illetve munkavédelmi képviselőik javaslattételi jogát.
 
 (4) A kiegyensúlyozott részvétel érdekében a munkáltató köteles a munkavédelmi kérdésben intézkedési jogkörrel bíró személlyel képviseltetni magát a tanácskozáson.
+
+(5) A munkavédelmi érdekképviseletre, érdekegyeztetésre vonatkozó részletes előírásokat a 9. § (4) bekezdés hatálya alá tartozó honvédségi szervezetek és a Katonai Nemzetbiztonsági Szolgálat esetében más jogszabályban foglalt – így különösen a honvédek jogállásáról szóló 2012. évi CCV. törvény – előírásokkal összhangban kell meghatározni és alkalmazni.

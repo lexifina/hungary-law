@@ -20,13 +20,13 @@ a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvéde
 
 b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
 
-c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 
 a) rendeletben határozza meg
 
-aa) az egyéni védőeszköz egyéni védőeszköz EK-megfelelőségi nyilatkozata, egyéni védőeszköz EK típustanúsítványa kiadásának, valamint az egyéni védőeszközök minőségét biztosító rendszer, továbbá a gyártás minőségirányítási rendszere ellenőrzésének;
+aa) az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének;
 
 ab) a munkahelyi biztonsági és egészségvédelmi jelzések alkalmazásának;
 
@@ -126,6 +126,8 @@ d) az Európai Parlament és a Tanács 2007/30/EK irányelve a gyakorlati végre
 
 e) a munkavállalók által a munkájuk során használt munkaeszközök biztonsági és egészségvédelmi minimumkövetelményeiről [második egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében] szóló 89/655/EGK tanácsi irányelv,
 
-f) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlament és tanács irányelv.
+f) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlament és tanács irányelv,
+
+g) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet.
 
 (7)–(8)
