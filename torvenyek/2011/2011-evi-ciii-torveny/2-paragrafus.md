@@ -30,10 +30,10 @@ d) a c) pont hatálya alá nem tartozó 1905, 2005 20 20, 2008 VTSZ szám alá t
 
 e) a 2103, 2104 VTSZ szám alá tartozó – gyermektápszernek, fogyasztásra kész levesnek vagy mártásnak nem minősülő – termék, ha sótartalma meghaladja az 5 gramm só/100 gramm mennyiséget (a továbbiakban: ételízesítő), kivéve a mustár, a ketchup és az olyan, nem szárított, aprított vagy pépesített, sózott ételízesítő zöldség készítményt, amelynek sótartalma nem haladja meg a 15 gramm só/100 gramm mennyiséget;
 
-f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott cukrot tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: ízesített sör);
+f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott cukrot, illetve édesítőszert tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert, feltéve, hogy a termék cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: ízesített sör);
 
-g) a 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt tartalmaz, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
+g) a legfeljebb 5 térfogatszázalék alkoholtartalommal rendelkező, 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt vagy adalékanyagot tartalmaz, feltéve, hogy a termék hozzáadott cukrot, illetve édesítőszert tartalmaz és a cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
 
 h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz);
 
-i) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő ital, ide nem értve a gyümölcspárlatot, a Jöt. 68. § (1) bekezdése hatálya alá tartozó italokat, továbbá az adalékanyagot nem tartalmazó, legalább hét különböző gyógynövény felhasználásával előállított italokat (a továbbiakban: alkoholos ital).
+i) a Jöt. szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt, a gyümölcspárlatot, a gyógynövényes italt és a Jöt. 68. § (1) bekezdése hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).
