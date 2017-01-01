@@ -1,4 +1,4 @@
-9/A. §[^60] (1) A vagyonkezelő köteles a vagyonkezelésében lévő állami vagyonnal összefüggő terheket viselni, valamint – az Nvtv. 11. § (15) bekezdésére figyelemmel – a szükséges felújítási munkákat elvégezni, elvégeztetni. Ha jogszabály vagy a vagyonkezelési szerződés eltérően nem rendelkezik, a tulajdonosi joggyakorló előzetes, írásbeli engedélyét köteles kérni
+9/A. §[^61] (1) A vagyonkezelő köteles a vagyonkezelésében lévő állami vagyonnal összefüggő terheket viselni, valamint – az Nvtv. 11. § (15) bekezdésére figyelemmel – a szükséges felújítási munkákat elvégezni, elvégeztetni. Ha jogszabály vagy a vagyonkezelési szerződés eltérően nem rendelkezik, a tulajdonosi joggyakorló előzetes, írásbeli engedélyét köteles kérni
 
 a) a központi költségvetési szerv vagyonkezelő a vagyonkezelt eszközön elszámolt értékcsökkenését meghaladó, annak értékét növelő beruházáshoz, felújításhoz,
 
@@ -20,4 +20,4 @@ b) a központi költségvetési szervnek nem minősülő vagyonkezelő (a továb
 
 (9) Ha a (6) bekezdés szerinti eljárásban hozott döntésében a miniszter a beruházás, felújítás megvalósítását nem támogatja, a beruházás, felújítás megvalósítására kizárólag abban az esetben kerülhet sor, ha az egyéb vagyonkezelő a vagyonkezelt eszközön elszámolni tervezett beruházáshoz, felújításhoz kapcsolódó valamennyi megtérítési igényéről írásban lemond.
 
-[^60]: A 9/A. §-t a 244/2015. (IX. 8.) Korm. rendelet 3. §-a iktatta be.
+[^61]: A 9/A. §-t a 244/2015. (IX. 8.) Korm. rendelet 3. §-a iktatta be.

@@ -4,6 +4,6 @@
 
 52. § (1) A központi költségvetési szervek elhelyezésének biztosítása és koordinálása az MNV Zrt. feladata.
 
-(2)[^197] A kormányzati elhelyezés megszervezése érdekében a központi költségvetési szervek által használt ingatlanok használatának, hasznosításának, haszonélvezetének, vagyonkezelésének gazdaságosságát, célszerűségét az MNV Zrt. jogosult ellenőrizni.
+(2)[^199] A kormányzati elhelyezés megszervezése érdekében a központi költségvetési szervek által használt ingatlanok használatának, hasznosításának, haszonélvezetének, vagyonkezelésének gazdaságosságát, célszerűségét az MNV Zrt. jogosult ellenőrizni.
 
-[^197]: A 52. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^199]: A 52. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
