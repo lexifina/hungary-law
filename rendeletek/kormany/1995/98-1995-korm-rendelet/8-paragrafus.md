@@ -1,4 +1,4 @@
-8. § (1)[^19] Az értékpapírok fizikai megsemmisítése – égetéssel, bezúzással vagy ezekkel biztonságilag egyenértékű más módszerrel – bizottság jelenlétében történik, a megsemmisítés megtörténtét pedig – a 8/A. §-ban foglalt esetkör kivételével – közjegyző tanúsítja.
+8. § (1)[^20] Az értékpapírok fizikai megsemmisítése – égetéssel, bezúzással vagy ezekkel biztonságilag egyenértékű más módszerrel – bizottság jelenlétében történik, a megsemmisítés megtörténtét pedig – a 8/A. §-ban foglalt esetkör kivételével – közjegyző tanúsítja.
 
 A bizottság tagjai:
 
@@ -10,7 +10,7 @@ c) a megsemmisítést végrehajtó szervezet képviselője;
 
 d) az engedéllyel rendelkező letéti hely képviselője, ha a kibocsátó az értékpapírt vagy értékpapírszerű okiratot letétben tartja.
 
-(2)[^20] A megsemmisítési eljárásról a közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 144. § (1) bekezdése alapján jegyzőkönyvet készít, amely tartalmazza az alábbiakat:
+(2)[^21] A megsemmisítési eljárásról a közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 144. § (1) bekezdése alapján jegyzőkönyvet készít, amely tartalmazza az alábbiakat:
 
 a) a megsemmisített értékpapírok megnevezése, darabszáma, névértéke, sorozat- és sorszáma, névértékének összesítése, a kibocsátó neve,
 
@@ -26,5 +26,5 @@ f) a megsemmisített értékpapírok ISIN azonosítója.
 
 (3) A közjegyző (2) bekezdés szerinti eljárásáért járó munkadíjat a közjegyzői díjszabásról szóló 14/1991. (XI. 26.) IM rendelet 15. §-a alapján kell megállapítani.
 
-[^19]: A 8. § (1) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^20]: A 8. § (2) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: A 8. § (1) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: A 8. § (2) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
