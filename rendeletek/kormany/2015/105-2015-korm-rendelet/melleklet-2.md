@@ -8,7 +8,7 @@
 
 ## Vándorlási különbözet ezer lakosra (az utolsó öt év átlaga), fő
 
-## Tízezer 0–2 éves állandó lakosra jutó bölcsődei és családi napközis férőhelyek száma, db
+## Tízezer 0–2 éves állandó lakosra jutó bölcsődei ellátást és napközbeni gyermekfelügyelet szolgáltatást nyújtó férőhelyek száma, db
 
 ## Rendszeres gyermekvédelmi kedvezményben részesítettek aránya a 0–24 éves állandó népességből, %
 
