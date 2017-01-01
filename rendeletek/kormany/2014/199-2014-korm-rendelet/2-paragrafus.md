@@ -1,1 +1,0 @@
-## 1. § A Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ (a továbbiakban: Központ) a kulturális örökség védelméért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
