@@ -1,1 +1,1 @@
-### 67. §
+67. § Hatályát veszti a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 30. § (2) bekezdés b) pontjában a „valamint a törvény végrehajtására kiadott kormányrendelet szerinti vagyoni biztosítékkal,” szövegrész.
