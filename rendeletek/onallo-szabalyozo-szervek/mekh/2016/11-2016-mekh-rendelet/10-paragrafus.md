@@ -1,0 +1,9 @@
+10. § (1) Ha a szabad kapacitást egy adott átadási-átvételi ponton a rendszerhasználók teljes mértékben lekötötték, vagy egy adott átadási-átvételi ponton a rendszerhasználók 2015. október 1-jétől kezdődően egy adott szerződési időszakra felkínált szabványos kapacitástermék legalább 95%-át lekötötték, vagy amennyiben műszaki okokból indokolt, akkor a szállítási rendszerüzemeltető megszakítható kapacitást ajánlhat fel. Ennek alapján a rendszerhasználó a megszakítható szállítási kapacitást a szállítási rendszerüzemeltetővel kötött szerződésben meghatározott feltételekkel és mértékben veheti igénybe.
+
+(2) A megszakítható kapacitással rendelkező rendszerhasználó köteles a kapacitás-lekötési szerződésben szabályozott folyamatos és azonnali információt biztosítani az aktuális és várható gázátvételi szintjéről a szállítási rendszerüzemeltető számára.
+
+(3) A megszakítási helyzet fennállásáról kapott értesítést követően a rendszerhasználó a megszakítási joggal rendelkező szállítási rendszerüzemeltető felszólítására, a szerződésben meghatározott időn belül megkezdi a megjelölt átadási-átvételi ponton a megszakítható vételezés előírt szintre való beállítását, és azt a szerződésben meghatározott időn belül befejezi.
+
+(4)[^5] Amennyiben az érintett rendszerhasználó az (1) bekezdés szerinti szerződésben megjelölt határidőn belül az elrendelt kapacitás-beállítás végre nem hajtásával megszakítási hibát követ el, a szállítási rendszerüzemeltető jogosult megszakítási pótdíjként az érintett rendszerhasználó terhére az előírt kapacitásszintjétől eltérő kapacitása alapján számított éves szállítási kapacitásdíjának 1/365-öd részének 1,5-szeresét minden, a megjelölt határidő után megkezdett órára felszámítani.
+
+[^5]: A 10. § (4) bekezdése a 14/2016. (XII. 20.) MEKH rendelet 11. § c) pontja szerint módosított szöveg.
