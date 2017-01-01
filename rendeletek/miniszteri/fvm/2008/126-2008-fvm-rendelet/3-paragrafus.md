@@ -1,1 +1,0 @@
-## „(11) A termelői szervezet a működési program tárgyévi végrehajtásáról a tárgyévet követő május 31-éig – figyelemmel a bizottsági rendeletben foglaltakra – az 5/f. számú melléklet 3–6. táblázatainak kitöltésével és szöveges értékeléssel éves jelentést nyújt be a minisztériumnak.”
