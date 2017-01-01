@@ -1,4 +1,4 @@
-15. § (1) Az állampolgársági kérelmet a cselekvőképes kérelmező személyesen, a korlátozottan cselekvőképes, illetve a cselekvőképtelen személy nevében a törvényes képviselője terjesztheti elő.
+15. § (1) Az állampolgársági kérelmet meghatalmazott nem terjesztheti elő. A kérelmet a cselekvőképes kérelmező személyesen, a korlátozottan cselekvőképes, illetve a cselekvőképtelen személy nevében a törvényes képviselője terjesztheti elő.
 
 (2) A honosítási és visszahonosítási kérelem, valamint a lemondási nyilatkozat benyújtásakor a korlátozottan cselekvőképes személyt is meg kell hallgatni.
 

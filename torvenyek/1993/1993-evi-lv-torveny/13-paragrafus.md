@@ -12,7 +12,7 @@ d) az állampolgársági ügyekben eljáró szervhez
 
 lehet benyújtani.
 
-(2) Az állampolgársági kérelmet jogszabályban meghatározott adattartalommal, továbbá – az állampolgársági bizonyítvány kiadása iránti kérelem kivételével – magyar nyelven kell benyújtani. A kérelmet saját kezűleg alá kell írni. A kérelem benyújtásakor a kérelmező személyazonosságát ellenőrizni, továbbá a kérelem adatait a csatolt okmányok adataival egyeztetni kell.
+(2) Az állampolgársági kérelmet jogszabályban meghatározott adattartalommal, továbbá – az állampolgársági bizonyítvány kiadása iránti kérelem kivételével – magyar nyelven kell benyújtani. A kérelmet alá kell írni. A kérelem benyújtásakor a kérelmező személyazonosságát ellenőrizni, továbbá a kérelem adatait a csatolt okmányok adataival egyeztetni kell.
 
 (3) Más személy állampolgárságának igazolására irányuló bizonyítvány iránti kérelmet benyújthat az, aki erre vonatkozó jogos érdekét igazolja.
 

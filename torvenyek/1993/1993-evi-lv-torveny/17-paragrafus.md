@@ -25,3 +25,5 @@ d) az állampolgárságot érintő adat vagy okirat beszerzése érdekében más
 (8) Ha az állampolgársági ügy eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, az állampolgársági ügyekben eljáró szerv az eljárást felfüggeszti. Ha a más szerv előtti eljárás megindítására a kérelmező jogosult, erre megfelelő határidő kitűzése mellett az állampolgársági ügyekben eljáró szerv felhívja. Ha a kérelmező a felhívásnak nem tesz eleget, az állampolgársági ügyekben eljáró szerv az eljárást megszünteti vagy a rendelkezésre álló adatok alapján dönt, illetve tesz javaslatot a miniszternek a köztársasági elnök részére történő előterjesztésre.
 
 (9) Az állampolgársági bizonyítvány kiadása iránti kérelem esetén az állampolgársági ügyekben eljáró szerv a kérelem érdemi vizsgálat nélküli elutasításáról, az eljárás megszüntetéséről és felfüggesztéséről, valamint az eljárási költség viselése tekintetében végzéssel dönt.
+
+(10) Az állampolgársági ügyekben eljáró szerv döntésével szemben nincs helye fellebbezésnek.
