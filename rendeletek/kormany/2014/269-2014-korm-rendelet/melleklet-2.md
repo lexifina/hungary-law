@@ -6,11 +6,11 @@
 
 | 2. | Sporttelep, stadion és környezete fejlesztésére irányuló beruházás, a kapcsolódó infrastruktúra- és közmű-fejlesztésekkel | Budapest XIV. kerület közigazgatási területén fekvő, 31267/91 helyrajzi számú, a Budapest VIII. kerület közigazgatási területén fekvő, 38852/6 helyrajzi számú, a Budapest VIII. kerület közigazgatási területén fekvő, 38821/4/6 helyrajzi számú ingatlan, illetve az ezen földrészletekből telekalakítási eljárás jogerős befejezését követően kialakított földrészleteken megvalósuló beruházást érintő ingatlanok | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 5. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
 | 6. | vízügyi és vízvédelmi hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -18,9 +18,9 @@
 
 | 8. | telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | a Budapest VIII. kerületében megvalósuló beruházások tekintetében a Budapest Főváros Kormányhivatala XI. Kerületi Hivatala, a Budapest XIV. kerületében megvalósuló beruházások tekintetében a Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 10. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 269/2014. (XI. 4.) Korm. rendelethez[^2]
 
@@ -32,11 +32,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 2. | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 3. | Környezetvédelem és természetvédelem | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | Környezetvédelem és természetvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
 | 4. | Vízügy és vízvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | Közlekedés: közút | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
+| 5. | Közlekedés: közút | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
 | 6. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | a Budapest VIII. kerületében megvalósuló beruházások tekintetében a VIII. Kerületi Rendőrkapitányság, a Budapest XIV. kerületében megvalósuló beruházások tekintetében a XIV. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
@@ -44,14 +44,14 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | Talajvédelem | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 9. | Talajvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
 | 10. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 11. | Műszaki biztonság | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 11. | Műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 12. | Egészségügy | Budapest Főváros Kormányhivatala | Országos Tisztifőorvosi Hivatal |
+| 12. | Egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
 
 | 13. | Műemlékvédelem és régészet | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-[^2]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 98. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^2]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 88. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
