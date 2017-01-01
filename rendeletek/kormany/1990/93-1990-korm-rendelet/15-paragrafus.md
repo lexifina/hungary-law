@@ -8,7 +8,7 @@
 
 (3)[^29] Ha a 65/1990. (III. 28.) MT rendelet hatálya alá tartozó személy hatósági bizonyítvány kiállítása iránti kérelmét 1990. június 30-ig benyújtotta, úgy részére a 65/1990. (III. 28.) MT rendeletben biztosított jogosultság 1989. augusztus 1-jétől jár. Az 1990. július 1-jét követően beérkező kérelmek elbírálásakor a jogosultság kezdő napját a Tbny. 64. § (2) bekezdés alkalmazásával kell megállapítani.
 
-(4)[^30] A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.
+(4)[^30]
 
 (5) Az e rendelet hatálya alá nem tartozó 1938—1945 közötti időszakban faji vagy nemzetiségi hovatartozás vagy a nácizmus elleni magatartásuk miatt deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása alatt állt személyek kárpótlásáról külön jogszabály rendelkezik.
 
@@ -20,7 +20,7 @@
 
 [^28]: A 15. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1498. pontja hatályon kívül helyezte.
 [^29]: A 15. § (3) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 1. § (4) bekezdés g) pontja szerint módosított szöveg.
-[^30]: A 15. § (4) bekezdését az 1991: XXVI. törvény 15. § (4) bekezdése hatályon kívül helyezte, újonnan a 349/2011. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^30]: A 15. § (4) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 1. § (2) bekezdése hatályon kívül helyezte.
 [^31]: A 15. § (6) bekezdését a 349/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^32]: A 15. § (7) bekezdését a 305/2013. (VII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^33]: A 15. § (8) bekezdését a 316/2014. (XII. 12.) Korm. rendelet 1. § (4) bekezdése iktatta be.
