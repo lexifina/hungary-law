@@ -6,7 +6,7 @@
 
 (2) A minisztert az (1) bekezdés szerinti feladatainak ellátásában egy döntés-előkészítő bizottság (a továbbiakban: Bizottság) segíti.
 
-(3) A Bizottság az elnökből és – az (5) és a (6) bekezdés szerinti – 10 tagból áll, azzal, hogy a Bizottság elnöke és tagja csak olyan személy lehet, aki már elvégezte vagy vállalja, hogy a kijelölést, illetve a felkérés elfogadását követő egy éven belül elvégzi a biztonsági összekötői tanfolyamot.
+(3)[^3] A Bizottság az elnökből és – az (5) és a (6) bekezdés szerinti – 10 tagból áll, azzal, hogy a Bizottság tagja csak olyan személy lehet, aki már elvégezte vagy vállalja, hogy a kijelölést, illetve a felkérés elfogadását követő egy éven belül elvégzi a biztonsági összekötői tanfolyamot.
 
 (4) A Bizottság elnökét a miniszter kéri fel.
 
@@ -39,3 +39,5 @@ g) a gyógyszer-nagykereskedelem
 (10) A Bizottság a működési rendjét ügyrendjében határozza meg. A Bizottság a tényállás tisztázása érdekében, javaslata kialakításához adatokat kérhet be a javaslattevő hatóságtól és a kijelölésre javasolt létfontosságú rendszerelem üzemeltetőjétől.
 
 (11) A Bizottság elnöke és tagjai a feladataik ellátása során és azzal összefüggésben nem utasíthatóak.
+
+[^3]: A 3. § (3) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 13. §-a szerint módosított szöveg.

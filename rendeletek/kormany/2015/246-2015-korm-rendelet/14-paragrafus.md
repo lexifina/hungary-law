@@ -1,4 +1,4 @@
-## minősül a Vhr. 6. § (1) bekezdése szerinti szakirányú végzettségnek, azzal, hogy a b) pont szerinti esetben csak akkor, ha az ott említett végzettségek bármelyikének megszerzője gyógyszer-kereskedelmi, illetve egyéb gyógyszeripari tevékenységet végző gazdasági társaságnál, vállalkozásnál vagy ilyen területen működő hatóságnál, intézetnél vagy más szervezetnél legalább 3 év gyakorlatot szerzett a végzettségének megfelelő tevékenységet végezve foglalkoztatásra irányuló vagy megbízási jogviszony keretében.
+## 13/A. §[^9] Az aktív fekvőbeteg-ellátás alágazatba tartozó létfontosságú rendszerelemek közös fenntartója egy vagy több közös biztonsági összekötő személy foglalkoztatásával is gondoskodhat a fenntartásába tartozó rendszerelemek tekintetében az Lrtv. 6. § (7) bekezdésében előírt kötelezettségnek.
 
 ## 8. A létfontosságú rendszerelemek Üzemeltetői Biztonsági Terveire vonatkozó különleges szabályok
 
@@ -33,3 +33,5 @@ c) az alternatív logisztikai tervet (igénybe vehető járművek),
 d) a gyógyszerek utánpótlási tervét és
 
 e) a kommunikációs tervet.
+
+[^9]: A 13/A. §-t a 368/2016. (XI. 29.) Korm. rendelet 11. §-a iktatta be.

@@ -8,12 +8,15 @@ b) 13. pontjában meghatározott egészségügyi alágazat, a mentésirányítá
 
 c) 14. pontjában meghatározott egészségügyi alágazat esetében
 
-ca) az egészségügyi tartalékok vonatkozásában az Egészségügyi Készletgazdálkodási Intézet,
+ca)[^1] az egészségügyi tartalékok vonatkozásában az Állami Egészségügyi Ellátó Központ,
 
 cb) a vérkészletek vonatkozásában az Országos Vérellátó Szolgálat,
 
 d) 15. pontjában meghatározott egészségügyi alágazat, a magas biztonsági szintű biológiai laboratóriumok esetében az Országos Tisztifőorvosi Hivatal,
 
-e) 16. pontjában meghatározott egészségügyi alágazat, az egészségbiztosítás informatikai rendszere esetében az Országos Egészségbiztosítási Pénztár,
+e)[^2] 16. pontjában meghatározott egészségügyi alágazat, az egészségbiztosítás informatikai rendszere esetében a Nemzeti Egészségbiztosítási Alapkezelő,
 
 f) 16a. pontjában meghatározott egészségügyi alágazat, a gyógyszer-nagykereskedelem esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
+
+[^1]: A 2. § c) pont ca) alpontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § e) pontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (2) bekezdés b) pontja szerint módosított szöveg.

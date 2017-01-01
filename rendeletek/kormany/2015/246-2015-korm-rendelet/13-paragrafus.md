@@ -1,23 +1,23 @@
 ## 7. Biztonsági összekötő személyre vonatkozó szabályok
 
-13. § (1) A Vhr. 6. § (1) bekezdése szerinti, az adott ágazatnak megfelelő szakirányú végzettségnek minősül – a (2) és (3) bekezdésben meghatározott kivétellel –
+13. §[^8] (1) A Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek minősül az orvosi végzettség.
 
-a) az orvos végzettség vagy
+(2) Laboratóriumban történő foglalkoztatás esetén az (1) bekezdésben foglaltakon túl
 
-b) egyéb – az a) pontban foglaltaktól eltérő – felsőfokú végzettség esetén az egészségügyi igazgatási feladatkörben szerzett legalább 5 éves szakmai tapasztalat.
+a) a biológus végzettség, illetve
 
-(2) Laboratóriumban történő foglalkoztatás esetén
+b) a mikrobiológus végzettség
 
-a) a biológus végzettség,
+## minősül a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek.
 
-b) a mikrobiológus végzettség vagy
+(3) Gyógyszer-nagykereskedelemben történő foglalkoztatás esetén az (1) bekezdésben foglaltak helyett
 
-c) az orvos végzettség
-
-minősül a Vhr. 6. § (1) bekezdése szerinti szakirányú végzettségnek.
-
-(3) Gyógyszer-nagykereskedelemben történő foglalkoztatás esetén
-
-a) a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy képesítési feltételeiről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő végzettség vagy
+a) a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy képesítési feltételeiről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő végzettség, illetve
 
 b) bármely műszaki, mérnöki, logisztikus, gépész, gyógyszerész, vegyész vagy informatikus szakon szerzett felsőfokú végzettség
+
+minősül a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek, azzal, hogy a b) pont szerinti esetben csak akkor, ha az ott meghatározott végzettséggel rendelkező gyógyszer-kereskedelmi, illetve egyéb gyógyszeripari tevékenységet végző gazdasági társaságnál, vállalkozásnál vagy ilyen területen működő hatóságnál, intézetnél vagy más szervezetnél legalább 3 év gyakorlatot szerzett a végzettségének megfelelő tevékenységet végezve foglalkoztatásra irányuló vagy megbízási jogviszony keretében.
+
+(4) A gyógyszer-nagykereskedelemben történő foglalkoztatás kivételével az (1) és (2) bekezdésben foglaltakon túl a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek minősül minden egyéb – az (1) és (2) bekezdésben foglaltaktól eltérő – felsőfokú végzettség, ha a felsőfokú végzettséggel rendelkező egészségügyi igazgatási feladatkörben legalább 3 éves szakmai gyakorlatot szerzett foglalkoztatásra irányuló vagy megbízási jogviszony keretében.
+
+[^8]: A 13. § a 368/2016. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
