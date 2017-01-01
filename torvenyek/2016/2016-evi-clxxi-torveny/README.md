@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-171-00-00
 | 2016-12-20 | 2016. évi CLXXI. törvény | 2016-171-00-00.0 (közlönyállapot) |
 | 2016-12-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-171-00-00.1 |
 | 2016-12-21 | 2010. évi CXXX. törvény | 2016-171-00-00.2 |
+| 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-171-00-00.3 |
