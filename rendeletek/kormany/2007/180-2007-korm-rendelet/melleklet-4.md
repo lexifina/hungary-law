@@ -1,4 +1,4 @@
-4. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^22]
+4. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^26]
 
 A hulladékszállítmányok számára kijelölt magyar határkirendeltségek
 
@@ -24,4 +24,4 @@ A hulladékszállítmányok számára kijelölt magyar határkirendeltségek
 
 | 1. | Budapest–Liszt Ferenc Nemzetközi Repülőtér |  | NAV Repülőtéri Igazgatóság Budapest, Liszt Ferenc Nemzetközi Repülőtér 1675 Budapest, Pf. 40. Fax:+36-1-296-8761 e-mail: repig_1@nav.gov.hu |
 
-[^22]: A 4. számú melléklet a 370/2014. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^26]: A 4. számú melléklet a 370/2014. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.

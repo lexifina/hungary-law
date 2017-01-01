@@ -240,7 +240,7 @@
 
 ## Further information, in particular related to waste identification (block 14), i.e. on Basel Annexes VIII and IX codes, OECD codes and Y-codes, can be found in a Guidance/Instruction Manual available from the OECD and the Secretariat of the Basel Convention.
 
-3. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^21]
+3. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^25]
 
 ## A HULLADÉKSZÁLLÍTMÁNYOKAT KÍSÉRŐ INFORMÁCIÓK AZ R. 3. CIKK (2) ÉS (4) BEKEZDÉSEIBEN FOGLALTAK SZERINT
 
@@ -282,4 +282,4 @@ Sorszám: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ /HU
 
 (5) Az 1013/2006/EK rendelet III B. mellékletében felsorolt BEU-kódokat kell alkalmazni.
 
-[^21]: A 3. számú melléklet a 370/2014. (XII. 30.) Korm. rendelet 1. § (2) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.
+[^25]: A 3. számú melléklet a 370/2014. (XII. 30.) Korm. rendelet 1. § (2) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.
