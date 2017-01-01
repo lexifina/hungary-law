@@ -6,7 +6,7 @@ a) a foglalkoztató által megállapított és folyósított társadalombiztosí
 
 b)
 
-c) a jövedelmet pótló kártérítés (keresetpótló járadék),
+c) a jövedelmet pótló kártérítés, keresetpótló járadék (a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés, honvédelmi egészségkárosodási járadék),
 
 d) a szerzői jogi védelem, találmányi szabadalmi oltalom, védjegyoltalom, földrajzi árujelzők oltalma, mintaoltalom alatt álló mű, alkotás, valamint az újítás hasznosítására irányuló felhasználási, hasznosítási, használati szerződés alapján a vagyoni jog (védelem alatt álló jog, oltalmi jog) felhasználásának ellenértékeként kifizetett díj,
 

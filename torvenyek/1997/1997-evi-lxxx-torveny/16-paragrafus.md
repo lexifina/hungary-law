@@ -2,7 +2,7 @@
 
 Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény szerint biztosított, illetőleg a 13. § szerint egészségügyi szolgáltatásra jogosult személyeken túl – az, aki
 
-a) csecsemőgondozási díjban, gyermekgondozási díjban, baleseti táppénzben, baleseti járadékban,
+a) csecsemőgondozási díjban, gyermekgondozási díjban, baleseti táppénzben, baleseti táppénzben, baleseti járadékban,
 
 b) a 14. § (3) bekezdése alapján saját jogán nyugdíjban, hozzátartozói nyugellátásban, rehabilitációs járadékban,
 
@@ -38,19 +38,19 @@ p) egészségügyi szolgáltatás megszerzése érdekében kötött megállapod�
 
 r) a 39. § (2) bekezdése szerint egészségügyi szolgáltatási járulék fizetésére kötelezett,
 
-s)
+s) rendvédelmi egészségkárosodási járadékban vagy honvédelmi egészségkárosodási járadékban részesül,
 
 t) hajléktalan,
 
 u) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény alapján korhatár előtti ellátásban vagy szolgálati járandóságban részesül,
 
-v) az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradékban részesül,
+v) az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott táncművészeti életjáradékban részesül,
 
 w) a szociális szövetkezetben tagi munkavégzési jogviszonyban áll, kivéve e jogviszony szünetelésének időtartamát.
 
 (2) A 13. § hatálya alá tartozó külföldi személy az ugyanott hivatkozott külön jogszabály, illetőleg nemzetközi egyezmény szerint jogosult egészségügyi ellátásra.
 
-(3) Az (1) bekezdés a)–k), továbbá o), u) és v) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas és a szomszédos államokban élő magyarokról szóló törvény hatálya alatt álló, nappali rendszerű oktatás keretében államilag támogatott vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában résztvevő hallgató kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
+(3) Az (1) bekezdés a)–k), továbbá o), s), u) és v) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas és a szomszédos államokban élő magyarokról szóló törvény hatálya alatt álló, nappali rendszerű oktatás keretében államilag támogatott vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában résztvevő hallgató kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
 
 (4) Az egészségügyi szolgáltatásokra vonatkozó igényjogosultságot egyszerre csak egy jogcímre tekintettel lehet megállapítani. Amennyiben a jogosultság egyszerre több jogcím alapján is megállapítható, akkor a jogcímek (1) bekezdésben foglalt felsorolása jogosultsági sorrendet jelent azzal, hogy a (2) bekezdésben meghatározott jogcím az (1) bekezdésben felsorolt jogcímeket megelőzi.
 
