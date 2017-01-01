@@ -1,4 +1,4 @@
-20. § (1) A kötelezettektől átvett borászati melléktermékekből, illetve borokból lepárlással előállított ipari célú nyers alkohol azon mennyiségére, amelyre vonatkozóan a lepárlóüzem támogatásban részesült, a támogatási feltételek maradéktalan teljesülését az MVH utólagosan is ellenőrizheti. Az utólagos ellenőrzés kiterjedhet:
+20. § (1)[^36] A kötelezettektől átvett borászati melléktermékekből, illetve borokból lepárlással előállított ipari célú nyers alkohol azon mennyiségére, amelyre vonatkozóan a lepárlóüzem támogatásban részesült, a támogatási feltételek maradéktalan teljesülését a Kicstár utólagosan is ellenőrizheti. Az utólagos ellenőrzés kiterjedhet:
 
 a) a készleten lévő, hasznosításra még át nem adott ipari célú nyers alkoholra, annak mennyisége, illetve alkoholtartalma megállapítására,
 
@@ -9,3 +9,5 @@ c) a 10. § (5) bekezdése, valamint 12. § (4) bekezdése alapján benyújtott 
 d) a Jöt. által előírt nyilvántartások, szállítási okmányok, valamint a hasznosításra vonatkozó számlák és azok kifizetését igazoló bizonylatok ellenőrzésére, a jóváhagyott támogatási kérelmek adataival való összevetésére.
 
 (2) Az utólagos ellenőrzések során felvett készlet-adatok meghatározásakor a jövedéki termékek veszteségnormáiról szóló miniszteri rendelet rendelkezései tekintendők irányadónak.
+
+[^36]: A 20. § (1) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja szerint módosított szöveg.

@@ -22,11 +22,12 @@ d) a támogatott lepárlással előállított nyersalkoholt kizárólag ipari, i
 
 e) biztosítja a borászati melléktermékből származó ipari célú nyers alkoholnak az üzemben keletkezett többi alkoholfajtától történő elkülönített tárolását,
 
-f) a feltételekkel kapcsolatos bármely változást az eseménytől számított 15 napon belül bejelenti az MVH-nak, és egyidejűleg csatolja a változást alátámasztó dokumentumokat.
+f)[^13] a feltételekkel kapcsolatos bármely változást az eseménytől számított 15 napon belül bejelenti a Kincstárnak, és egyidejűleg csatolja a változást alátámasztó dokumentumokat.
 
-(4)[^8] A lepárlóüzem borpiaci évenként a támogatott lepárlással érintett borászati melléktermékekről kötelezettenként tételes kimutatást vezet.
+(4)[^14] A lepárlóüzem borpiaci évenként a támogatott lepárlással érintett borászati melléktermékekről kötelezettenként tételes kimutatást vezet.
 
-(5)[^9] A (4) bekezdés szerinti kimutatásnak tartalmaznia kell a 10. § (5) bekezdésében foglaltakon túl a borászati melléktermék lepárlása során előállított alkoholmennyiség hektoliterben kifejezett térfogatszázalékát.
+(5)[^15] A (4) bekezdés szerinti kimutatásnak tartalmaznia kell a 10. § (5) bekezdésében foglaltakon túl a borászati melléktermék lepárlása során előállított alkoholmennyiség hektoliterben kifejezett térfogatszázalékát.
 
-[^8]: A 12. § (4) bekezdése a 44/2014. (XII. 30.) FM rendelet 3. §-ával megállapított szöveg.
-[^9]: A 12. § (5) bekezdése a 44/2014. (XII. 30.) FM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 12. § (3) bekezdés f) pontja a 88/2016. (XII. 29.) FM rendelet 52. § d) pontja szerint módosított szöveg.
+[^14]: A 12. § (4) bekezdése a 44/2014. (XII. 30.) FM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 12. § (5) bekezdése a 44/2014. (XII. 30.) FM rendelet 3. §-ával megállapított szöveg.

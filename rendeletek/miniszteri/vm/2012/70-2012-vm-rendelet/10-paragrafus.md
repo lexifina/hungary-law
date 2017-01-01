@@ -1,6 +1,6 @@
 10. § (1) A lepárlóüzem az átvétel napján köteles sorszámozott átvételi elismervényt kiállítani, amelynek tartalmaznia kell
 
-a)[^5] az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), ügyfél-azonosítóját, adóazonosító jelét vagy adószámát,
+a)[^9] az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), ügyfél-azonosítóját, adóazonosító jelét vagy adószámát,
 
 b) a leadott borászati melléktermék típusát,
 
@@ -18,9 +18,9 @@ f) az átvétel helyét (a lepárlóüzem telephelyén/begyűjtőhelyén vagy a 
 
 (4) Amennyiben a borászati melléktermékek támogatott lepárlás céljából történő leadásakor a kötelezett az átvevő lepárlóüzem által megállapítottakat vitatja, abban az esetben a kötelezett és az átvevő lepárlóüzem együttes jelenlétében ismételt vizsgálatokat kell végezni. Alkoholtartalom megállapítására vonatkozó analitikai vizsgálatok vitatása esetében a kötelezett és az átvevő lepárlóüzem együttes jelenlétében, közösen vett minták alapján a borászati hatóság a mintavételtől számított 8 napon belül végzi el az ismételt vizsgálatokat, amelyről határozatot hoz, és azt közli a kötelezettel és a lepárlóüzemmel.
 
-(5)[^6] A lepárlóüzem borpiaci évenként az átvételi elismervényekben szereplő adatokról kötelezettenként tételes kimutatást vezet. A kimutatásnak tartalmaznia kell
+(5)[^10] A lepárlóüzem borpiaci évenként az átvételi elismervényekben szereplő adatokról kötelezettenként tételes kimutatást vezet. A kimutatásnak tartalmaznia kell
 
-a)[^7] az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), ügyfél-azonosítóját, adóazonosító jelét vagy adószámát,
+a)[^11] az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), ügyfél-azonosítóját, adóazonosító jelét vagy adószámát,
 
 b) a borászati melléktermék szállításához kapcsolódó kísérő okmány számát,
 
@@ -38,6 +38,6 @@ h) a borászati melléktermék alkoholtartalmát térfogatszázalékban kifejezv
 
 i) a borászati melléktermék számított alkoholtartalmát térfogatszázalék/hektoliterben kifejezve.
 
-[^5]: A 10. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § a) pontja szerint módosított szöveg.
-[^6]: A 10. § (5) bekezdés nyitó szövegrésze a 44/2014. (XII. 30.) FM rendelet 2. §-ával megállapított szöveg.
-[^7]: A 10. § (5) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^9]: A 10. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § a) pontja szerint módosított szöveg.
+[^10]: A 10. § (5) bekezdés nyitó szövegrésze a 44/2014. (XII. 30.) FM rendelet 2. §-ával megállapított szöveg.
+[^11]: A 10. § (5) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § b) pontja szerint módosított szöveg.
