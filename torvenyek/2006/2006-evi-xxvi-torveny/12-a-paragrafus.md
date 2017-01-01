@@ -1,1 +1,3 @@
-12/A. § E törvénynek a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 4. § (7) bekezdését 2013. július 1-jétől kell alkalmazni.
+12/A. § (1) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2016. évi CXLIII. törvény (a továbbiakban: Mód. tv.) 21. § (1) bekezdésével megállapított 8. § (4) bekezdését a 2017. január 1-jével kezdődő elszámolási időszakra kell először alkalmazni.
+
+(2) E törvénynek a Mód. tv. 21. § (2) bekezdésével megállapított 8. § (8) bekezdés b) pontját a folyamatban lévő visszaigénylésekre is alkalmazni kell.

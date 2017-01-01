@@ -10,4 +10,4 @@
 
 (5) A Szövetség e törvény hatálybalépése napjától haladéktalanul intézkedik a névváltozás bírósági bejelentéséről, valamint a földgáz biztonsági készletezéssel foglalkozó munkaszervezet kialakításáról.
 
-(6) A Szövetség jogállására, szervezetére, gazdálkodására, a követeléseinek behajtására és elszámolására, a felügyeletére, az ellenőrzésre, valamint a tagok jogaira és kötelezettségeire vonatkozóan a Kt. rendelkezéseit az e törvényben foglalt kiegészítéssel kell alkalmazni.
+(6)

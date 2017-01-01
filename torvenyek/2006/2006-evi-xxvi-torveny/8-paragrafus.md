@@ -16,7 +16,7 @@ f) a felhasználó a szervezett piacon földgázt vásárol.
 
 (3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében a földgáz egyetemes szolgáltatót, b) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) pontjai esetében a felhasználót terheli.
 
-(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontja esetén az értékesített földgáz hőmennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz hőmennyisége gigajoule-ban mérve.
+(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége kilowattórában mérve.
 
 (4a) A 4. § (5) bekezdés szerinti készletértékesítés esetén a tagi hozzájárulás mértékének a (4) bekezdés szerint történő megállapítása során az értékesített földgáz ellenértékeként befolyt pénzösszeget csökkentő tételként kell figyelembe venni.
 
@@ -32,22 +32,16 @@ vonatkozik.
 
 (7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
-(8) Visszaigényelhető
+(8) Az Alapszabályban meghatározott feltételekkel visszaigényelhető
 
-a) a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett,
+a) a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott és
 
-b) azon földgáz mennyiség után megfizetett tagi hozzájárulás, amelyet igazoltan nem energetikai célra, hanem vegyipari célra, vegyipari alapanyagként hoznak be, használnak fel vagy értékesítenek.
+b) azon földgázmennyiség után bevallott tagi hozzájárulás, amelyet igazoltan nem energetikai célra, hanem vegyipari alapanyagként hoznak be, használnak fel vagy értékesítenek.
 
-(8a) Az a lakossági fogyasztót ellátó, egyetemes szolgáltatónak nem minősülő földgázkereskedő, amely az általa ellátott lakossági fogyasztó számára
+(8a)–(8b)
 
-a) a földgáz-kereskedelmi szolgáltatást a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló miniszteri rendelet szerinti árszabásokhoz kötötten, az adott felhasználási helyre vonatkozó díjelemekkel azonos, de legalább egy díjelem tekintetében alacsonyabb árakon nyújtja, és
+(9) A (8) bekezdés szerinti visszaigénylésre a tag a tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül jogosult. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, valamint a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, és a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
 
-b) az egyetemes szolgáltatás keretében ellátott lakossági fogyasztó által igénybe vehető, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott szolgáltatásokat biztosítja,
+(10) A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni.
 
-visszaigényelheti a 8. § (2) bekezdés b) pontja szerinti tagi hozzájárulásnak azt a részét, amelyet az a)–b) pont szerint ellátott lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett.
-
-(8b) A (8a) bekezdés a) pontja szerinti alacsonyabb ár díjkedvezmény nyújtásával is biztosítható.
-
-(9) A (8) és (8a) bekezdés szerinti visszaigénylésre az egyetemes szolgáltató, valamint a földgázkereskedő a tagi hozzájárulás befizetésétől számított 90 napon belül jogosult. A Szövetség a visszautalást az igénylésnek és az értékesítés könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül teljesíti.
-
-(10) A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni. Az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
+(11) A tagi hozzájárulás fizetésre, az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
