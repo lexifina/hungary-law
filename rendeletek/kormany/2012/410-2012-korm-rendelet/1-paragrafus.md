@@ -2,7 +2,7 @@
 
 1. § (1) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) szerinti kibocsátási engedély iránti kérelem részletes tartalmi követelményeit az 1. melléklet állapítja meg.
 
-(2)[^1] A kibocsátási engedély iránti kérelmet az üzemeltető a környezetvédelmi hatóság (a továbbiakban: hatóság) honlapján közzétett nyomtatványok alkalmazásával cégszerű aláírással ellátva a hatóság központi e-mail címére elektronikusan, a hatóság külön felhívására írásban postai úton nyújtja be a hatósághoz. A nyomtatványok kitöltését segítő útmutatókat a hatóság a honlapján közzéteszi. A hatóság a kibocsátási engedélyezési eljárás lefolytatásához és a vonatkozó hazai és európai uniós jogszabályokban foglalt követelmények teljesítéséhez jogosult önálló elektronikus rendszert létrehozni az üzemeltetők erre irányuló tájékoztatása mellett. A hatóság minden év december 31. napjáig köteles a honlapján közzétenni a kibocsátási engedélyezési eljárás jogszabályi követelményeit a következő évre vonatkozóan.
+(2)[^1] A kibocsátási engedély iránti kérelmet az üzemeltető a Nemzeti Klímavédelmi Hatóság (a továbbiakban: hatóság) honlapján közzétett nyomtatványok alkalmazásával cégszerű aláírással ellátva a hatóság központi e-mail címére elektronikusan, a hatóság külön felhívására írásban postai úton nyújtja be a hatósághoz. A nyomtatványok kitöltését segítő útmutatókat a hatóság a honlapján közzéteszi. A hatóság a kibocsátási engedélyezési eljárás lefolytatásához és a vonatkozó hazai és európai uniós jogszabályokban foglalt követelmények teljesítéséhez jogosult önálló elektronikus rendszert létrehozni az üzemeltetők erre irányuló tájékoztatása mellett. A hatóság minden év december 31. napjáig köteles a honlapján közzétenni a kibocsátási engedélyezési eljárás jogszabályi követelményeit a következő évre vonatkozóan.
 
 (3) Az Ügkr. tv. 4. § (4) bekezdése szerinti esetben az adatokat valamennyi, technológiailag nem egybetartozó – a 2. melléklet szerinti – tevékenységre külön-külön kell megadni.
 
@@ -22,7 +22,7 @@ b) a 127/1991. Korm. rendelet szerint szükséges, etalonra visszavezethető mé
 
 (9)[^8]
 
-[^1]: Az 1. § (2) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (2) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 216. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (4) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (5) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^4]: Az 1. § (6) bekezdése a 178/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.

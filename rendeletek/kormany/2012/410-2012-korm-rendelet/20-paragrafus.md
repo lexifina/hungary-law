@@ -1,4 +1,4 @@
-20. §[^83] (1) Ha a 2. mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenységet az üzemeltető kibocsátási engedély, vagy a légi jármű üzembentartó nyomon követési terv nélkül folytatja, a hatóság – az Ügkr. tv. 32. § és 33. §-ában rögzítetteket figyelembe véve – az üzemeltetőt a kibocsátási engedély megszerzése iránti, a légi jármű üzembentartót a nyomon követési terv jóváhagyása iránti kérelem beadásáig terjedő időszakra napi 20 000-től 100 000 forintig terjedő bírság megfizetésére kötelezi.
+20. §[^85] (1) Ha a 2. mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenységet az üzemeltető kibocsátási engedély, vagy a légi jármű üzembentartó nyomon követési terv nélkül folytatja, a hatóság – az Ügkr. tv. 32. § és 33. §-ában rögzítetteket figyelembe véve – az üzemeltetőt a kibocsátási engedély megszerzése iránti, a légi jármű üzembentartót a nyomon követési terv jóváhagyása iránti kérelem beadásáig terjedő időszakra napi 20 000-től 100 000 forintig terjedő bírság megfizetésére kötelezi.
 
 (2) Az (1) bekezdés szerinti jogkövetkezményt kell alkalmazni akkor is, ha az üzemeltető a 2. § (4) és (5) bekezdésében foglalt bejelentési kötelezettségét elmulasztva, a tevékenységet módosított kibocsátási engedély nélkül folytatja tovább.
 
@@ -10,10 +10,10 @@
 
 (6) Ha az üzemeltető vagy a légi jármű üzembentartó a kibocsátási egységmennyiség (5) bekezdés szerinti visszautalására irányuló kötelezettségének határidőre nem tesz eleget, a hatóság az üzemeltetőt vagy a légi jármű üzembentartót minden egyes jóváírt kibocsátási egységmennyiség után 100 eurónak megfelelő forintösszegű bírság egyszeri megfizetésére kötelezi. A bírság mindenkori összege az Eurostat által meghatározott európai fogyasztói árindexszel összhangban növekszik.
 
-(7)[^84] A hatóság a miniszter részére minden év május 31-ig elküldi azon létesítmények listáját, amelyek április 30-ig nem tettek eleget a visszaadásra irányuló kötelezettségüknek.
+(7)[^86] A hatóság a miniszter részére minden év május 31-ig elküldi azon létesítmények listáját, amelyek április 30-ig nem tettek eleget a visszaadásra irányuló kötelezettségüknek.
 
-(8)[^85] A hatóság az (1), (3), (4) és (6) bekezdésekben és az Ügkr. tv.-ben szabályozott bírságok megfizetéséről szóló határozat másolatát tájékoztatásul továbbítja a miniszter részére, és a kiszabott bírság megfizetésének tényéről tájékoztatja a minisztert.
+(8)[^87] A hatóság az (1), (3), (4) és (6) bekezdésekben és az Ügkr. tv.-ben szabályozott bírságok megfizetéséről szóló határozat másolatát tájékoztatásul továbbítja a miniszter részére, és a kiszabott bírság megfizetésének tényéről tájékoztatja a minisztert.
 
-[^83]: A 20. § a 101/2015. (IV. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^84]: A 20. § (7) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 13. §-a iktatta be.
-[^85]: A 20. § (8) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 13. §-a iktatta be.
+[^85]: A 20. § a 101/2015. (IV. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^86]: A 20. § (7) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 13. §-a iktatta be.
+[^87]: A 20. § (8) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 13. §-a iktatta be.
