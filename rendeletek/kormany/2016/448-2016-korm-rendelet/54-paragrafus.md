@@ -1,9 +1,8 @@
-## 52–53. §[^20]
+## 52–53. §[^9]
 
-54. § (1)[^21]
+54. § (1) Az Sznyr. 1. melléklete a 3. melléklet szerint módosul.
 
-(2)–(3)[^22]
+(2)–(3)[^10]
 
-[^20]: Az 52–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: Az 54. § (1) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^22]: Az 54. § (2)–(3) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^9]: Az 52–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 54. § (2)–(3) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

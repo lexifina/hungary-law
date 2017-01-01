@@ -1,3 +1,3 @@
-## 60. §[^30]
+## 59–60. §[^15]
 
-[^30]: Az 58–60. § a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^15]: Az 59–60. § a 64. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

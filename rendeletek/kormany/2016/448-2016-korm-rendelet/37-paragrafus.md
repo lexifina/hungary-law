@@ -1,3 +1,1 @@
-## 36. §[^10]
-
-[^10]: A 36. § a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## „(10) A felfüggesztési ok bekövetkezéséről és megszűnéséről a működést engedélyező szerv és az ellenőrző igazgatóság haladéktalanul értesíti a Főigazgatóságot.

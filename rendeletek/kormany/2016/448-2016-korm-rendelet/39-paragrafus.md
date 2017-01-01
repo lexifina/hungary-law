@@ -1,9 +1,8 @@
-## 37–38. §[^11]
+## 37–38. §[^4]
 
-39. § (1)[^12]
+39. § (1)[^5]
 
-(2)[^13]
+(2) A Tkr. 16. § (5) bekezdésében, 16. § (8) bekezdésében a „folyósító igazgatóság” szövegrész helyébe a „Főigazgatóság” szöveg lép.
 
-[^11]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 39. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 39. § (2) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^4]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 39. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
