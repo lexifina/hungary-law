@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-282-20-
 | 2014-12-30 | 2009-282-20-22.13 | 342/2014. (XII. 19.) Korm. rendelet |
 | 2015-04-01 | 2009-282-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2009-282-20-22.15 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2017-01-01 | 2009-282-20-22.16 | 477/2016. (XII. 27.) Korm. rendelet |

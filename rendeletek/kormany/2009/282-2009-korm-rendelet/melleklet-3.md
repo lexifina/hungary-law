@@ -1,85 +1,85 @@
 ## A Balaton-törvény hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | 1 | Térségi övezetek | A Balaton-törvény hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
+| 1. | Térségi övezetek | A Balaton-törvény hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
-|  | 2 | 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú szántóterület | Földmérési és Távérzékelési Intézet |
+| 2. | 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú szántóterület | Budapest Főváros Kormányhivatala |
 
-|  | 3 | b) jó termőhelyi adottságú szántóterület | Földmérési és Távérzékelési Intézet |
+| 3. | b) jó termőhelyi adottságú szántóterület | Budapest Főváros Kormányhivatala |
 
-|  | 4 | c) kiváló termőhelyi adottságú erdőterület | erdészeti hatósági hatáskörben eljáró megyei kormányhivatal |
+| 4. | c) kiváló termőhelyi adottságú erdőterület | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
 
-|  | 5 | d) tájképvédelmi szempontból kiemelten kezelendő terület | nemzeti park igazgatóság |
+| 5. | d) tájképvédelmi szempontból kiemelten kezelendő terület | nemzeti park igazgatóság |
 
-|  | 6 | e) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
+| 6. | e) világörökségi és világörökségi várományos terület | kulturális örökség védelméért felelős miniszter |
 
-|  | 7 | f) országos vízminőség-védelmi terület | Országos Vízügyi Főigazgatóság |
+| 7. | f) országos vízminőség-védelmi terület | területi vízügyi igazgatóság |
 
-|  | 8 | g) kiemelt fontosságú honvédelmi terület | Honvédelmi Minisztérium Hatósági Hivatal |
+| 8. | g) kiemelt fontosságú honvédelmi terület | honvédelemért felelős miniszter |
 
-|  | 9 | 2. Az Országos Területrendezési Tervről szóló törvény szerinti kiemelt térségi övezetek | a) magterület | nemzeti park igazgatóság |
+| 9. | 2. Az Országos Területrendezési Tervről szóló törvény szerinti kiemelt térségi övezetek | a) magterület | nemzeti park igazgatóság |
 
-|  | 10 | b) ökológiai folyosó | nemzeti park igazgatóság |
+| 10. | b) ökológiai folyosó | nemzeti park igazgatóság |
 
-|  | 11 | c) pufferterület | nemzeti park igazgatóság |
+| 11. | c) pufferterület | nemzeti park igazgatóság |
 
-|  | 12 | d) erdőtelepítésre javasolt terület | Földmérési és Távérzékelési Intézet |
+| 12. | d) erdőtelepítésre javasolt terület | Budapest Főváros Kormányhivatala |
 
-|  | 13 | e) ásványi nyersanyagvagyon terület | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |
+| 13. | e) ásványi nyersanyagvagyon terület | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
 
-|  | 14 | f) rendszeresen belvízjárta terület | Országos Vízügyi Főigazgatóság |
+| 14. | f) rendszeresen belvízjárta terület | területi vízügyi igazgatóság |
 
-|  | 15 | g) földtani veszélyforrás területe | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |
+| 15. | g) földtani veszélyforrás területe | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
 
-|  | 16 | h) honvédelmi terület | Honvédelmi Minisztérium Hatósági Hivatal |
+| 16. | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-|  | 17 | 3. A Balaton-törvény által egyedileg meghatározott övezetek | a) ökológiai rehabilitációt igénylő terület | nemzeti park igazgatóság |
+| 17. | 3. A Balaton-törvény által egyedileg meghatározott övezetek | a) ökológiai rehabilitációt igénylő terület | nemzeti park igazgatóság |
 
-|  | 18 | b) felszíni szennyezésre fokozottan érzékeny terület | megyei (fővárosi) katasztrófavédelmi igazgatóság |
+| 18. | b) felszíni szennyezésre fokozottan érzékeny terület | megyei (fővárosi) katasztrófavédelmi igazgatóság |
 
-|  | 19 | c) felszíni vízminőség-védelmi terület | megyei (fővárosi) katasztrófavédelmi igazgatóság |
+| 19. | c) felszíni vízminőség-védelmi terület | megyei (fővárosi) katasztrófavédelmi igazgatóság |
 
-|  | 20 | d) tómeder | Országos Vízügyi Főigazgatóság |
+| 20. | d) tómeder | területi vízügyi igazgatóság |
 
-3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^33]
+3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^35]
 
 Az Agglomerációs törvény hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
-|  |  |  | A | B |  | C |
+|  | A | B | C |
 
-|  | 1 | Térségi övezetek | Az Agglomerációs törvény hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
+| 1. | Térségi övezetek | Az Agglomerációs törvény hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
-|  | 2 | 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú szántóterület | Földmérési és Távérzékelési Intézet |
+| 2. | 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú szántóterület | Budapest Főváros Kormányhivatala |
 
-|  | 3 | b) jó termőhelyi adottságú szántóterület | Földmérési és Távérzékelési Intézet |
+| 3. | b) jó termőhelyi adottságú szántóterület | Budapest Főváros Kormányhivatala |
 
-|  | 4 | c) kiváló termőhelyi adottságú erdőterület | erdészeti hatósági hatáskörben eljáró megyei kormányhivatal |
+| 4. | c) kiváló termőhelyi adottságú erdőterület | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
 
-|  | 5 | d) tájképvédelmi szempontból kiemelten kezelendő terület | nemzeti park igazgatóság |
+| 5. | d) tájképvédelmi szempontból kiemelten kezelendő terület | nemzeti park igazgatóság |
 
-|  | 6 | e) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
+| 6. | e) világörökségi és világörökségi várományos terület | kulturális örökség védelméért felelős miniszter |
 
-|  | 7 | f) országos vízminőség-védelmi terület | Országos Vízügyi Főigazgatóság |
+| 7. | f) országos vízminőség-védelmi terület | területi vízügyi igazgatóság |
 
-|  | 8 | g) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló szükségtározók területe | Országos Vízügyi Főigazgatóság |
+| 8. | g) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló szükségtározók területe | területi vízügyi igazgatóság |
 
-|  | 9 | h) kiemelt fontosságú honvédelmi terület | Honvédelmi Minisztérium Hatósági Hivatal |
+| 9. | h) kiemelt fontosságú honvédelmi terület | honvédelemért felelős miniszter |
 
-|  | 10 | 2. Az Országos Területrendezési Tervről szóló törvény szerinti kiemelt térségi övezetek | a) magterület | nemzeti park igazgatóság |
+| 10. | 2. Az Országos Területrendezési Tervről szóló törvény szerinti kiemelt térségi övezetek | a) magterület | nemzeti park igazgatóság |
 
-|  | 11 | b) ökológiai folyosó | nemzeti park igazgatóság |
+| 11. | b) ökológiai folyosó | nemzeti park igazgatóság |
 
-|  | 12 | c) puffer terület | nemzeti park igazgatóság |
+| 12. | c) puffer terület | nemzeti park igazgatóság |
 
-|  | 13 | d) erdőtelepítésre javasolt terület | Földmérési és Távérzékelési Intézet |
+| 13. | d) erdőtelepítésre javasolt terület | Budapest Főváros Kormányhivatala |
 
-|  | 14 | e) ásványi nyersanyag-vagyon terület | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |
+| 14. | e) ásványi nyersanyag-vagyon terület | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
 
-|  | 15 | f) rendszeresen belvízjárta terület | Országos Vízügyi Főigazgatóság |
+| 15. | f) rendszeresen belvízjárta terület | területi vízügyi igazgatóság |
 
-|  | 16 | g) földtani veszélyforrás területe | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |
+| 16. | g) földtani veszélyforrás területe | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
 
-|  | 17 | h) honvédelmi terület | Honvédelmi Minisztérium Hatósági Hivatal |
+| 17. | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-[^33]: A 3. melléklet a 70/2015. (III. 30.) Korm. rendelet 148. § c) pontjával megállapított szöveg.
+[^35]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 148. § c) pontjával megállapított szöveg.
