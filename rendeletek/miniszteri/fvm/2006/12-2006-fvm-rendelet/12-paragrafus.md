@@ -1,1 +1,0 @@
-## A szőlőtermés minősítése
