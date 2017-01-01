@@ -6,4 +6,6 @@
 
 (3) A Kincstár központi szerve a beérkezett adatokból országos összesítőt készít és azt tárgyév május 31-éig az adópolitikáért felelős miniszter részére elektronikus úton megküldi.
 
-(4) Az adatszolgáltatást a 15. melléklet alapján kell elvégezni.
+(4)[^11]
+
+[^11]: A 16. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § g) pontja hatályon kívül helyezte.

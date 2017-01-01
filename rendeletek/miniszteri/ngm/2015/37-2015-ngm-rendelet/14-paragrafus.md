@@ -1,5 +1,3 @@
-## alapján településsorosan, nemzetgazdasági ágak szerint, illetőleg hitelintézet és pénzügyi vállalkozás, biztosító, befektetési vállalkozás, és minden egyéb vállalkozás szerinti bontásban kell elvégezni.
-
 ## 13. Adatszolgáltatás az állandó jellegű helyi iparűzési adóról
 
 14. § (1) Az önkormányzati adóhatóság az adózóknak a tárgyévben benyújtott, az állandó jellegű helyi iparűzési adóról szóló, a tárgyévet követő év május 31-éig beérkezett bevallásainak adatairól összesítőt készít, és azt a tárgyévet követő év július 31-éig a Kincstár területileg illetékes megyei igazgatóságának megküldi.

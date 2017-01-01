@@ -6,12 +6,6 @@
 
 (3) A Kincstár központi szerve a beérkezett adatokból országos összesítőt készít, és azt a tárgyév április 30-áig az adópolitikáért felelős miniszter részére elektronikus úton megküldi.
 
-(4) Az e §-ban foglalt adatszolgáltatást
+(4)[^6]
 
-a) a hasznos alapterület és a korrigált forgalmi érték alapján megállapított építményadó esetében a 3. melléklet,
-
-b) a telekadó esetében a 4. melléklet,
-
-c) a magánszemély kommunális adója esetében az 5. melléklet,
-
-d) a gépjárműadó esetében a 12., a 13. és a 14. melléklet
+[^6]: A 9. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § c) pontja hatályon kívül helyezte.

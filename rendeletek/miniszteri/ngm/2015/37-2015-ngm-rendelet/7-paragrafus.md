@@ -8,4 +8,6 @@
 
 (4) A Kincstár központi szerve a (3) bekezdés szerint összesített adatokat a honlapján is közzéteszi.
 
-(5) Az adatszolgáltatást a 1. melléklet alapján kell elvégezni.
+(5)[^3]
+
+[^3]: A 7. § (5) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § a) pontja hatályon kívül helyezte.

@@ -6,12 +6,6 @@
 
 (3) Az adóalap egyszerűsített meghatározási módját – ezen belül a személyi jövedelemadóban átalányadózást – választó adózók, valamint az egyszerűsített vállalkozói adó hatálya alá tartozó adózók iparűzési adóbevallásait külön is fel kell dolgozni.
 
-(4) Az adatszolgáltatásokat
+(4)[^10]
 
-a) az állandó jelleggel végzett iparűzési adóbevallásai tekintetében a 8. melléklet,
-
-b) az IFRS-re áttért adózó esetében az állandó jelleggel végzett iparűzési tevékenységről szóló bevallások tekintetében a 9. melléklet,
-
-c) ideiglenes jelleggel végzett iparűzési tevékenységről szóló bevallások tekintetében a 10. melléklet,
-
-d) az állandó jellegű helyi iparűzési adóelőleg-kiegészítés bevallásainak feldolgozásáról a 11. melléklet
+[^10]: A 13. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § f) pontja hatályon kívül helyezte.
