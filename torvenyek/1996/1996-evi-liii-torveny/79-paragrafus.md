@@ -8,4 +8,6 @@ a) az érintett terület természeti értékeinek, azok helyzetének a felméré
 
 b) a természeti értékeket – beleértve a védett természeti értékeket – jelentősen befolyásoló, veszélyeztető, károsító tevékenységek bemutatását;
 
-c) a tervezett tevékenységek megvalósítása és a gazdálkodás nyomán a várható változásokat, továbbá a természeti értékek megóvására, elkerülhetetlen károsodásuk csökkentésére vonatkozó intézkedéseket is.
+c) a tervezett tevékenységek megvalósítása és a gazdálkodás nyomán a várható változásokat, továbbá a természeti értékek megóvására, elkerülhetetlen károsodásuk csökkentésére vonatkozó intézkedéseket;
+
+d) az ökoszisztéma-szolgáltatás felmérésének eredményét.

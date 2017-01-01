@@ -6,7 +6,7 @@
 
 (3) Behurcoltak vagy betelepítettek azok az élő szervezetek, amelyek az ember nem tudatos (behurcolás) vagy tudatos (betelepítés) tevékenysége folytán váltak a hazai élővilág részévé.
 
-(4) Tájidegen fajok azok az élő szervezetek, melyek növény- és állatföldrajzi szempontból nem minősülnek őshonosnak, és megtelepedésük, alkalmazkodásuk esetén a hazai életközösségekben a természetes folyamatokat az őshonos fajok rovására károsan módosíthatják.
+(4)
 
 (5) Visszatelepülők azok az őshonos élő szervezetek, amelyek hazánk területéről eltűntek (kipusztultak), de természetes elterjedésük folytán ismét megjelennek hazánk természetes élővilágának részeként.
 

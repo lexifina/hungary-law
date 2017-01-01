@@ -24,7 +24,11 @@
 
 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
 
-13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket.
+13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket;
+
+14. az idegenhonos inváziós fajok körének meghatározására vonatkozó eljárással, egyedének az országba történő behozatalával, átszállításával, kivitelével, tartásával, szaporításával, termesztésbe, tenyésztésbe vonásával, keresztezésével, természetbe kijuttatásával, forgalomba hozatalával, értékesítésével, felhasználásával, kiirtásával, kezelésével, a vészhelyzeti intézkedésekkel, a korai észlelés és az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó eljárással, a velük kapcsolatos felügyeleti és monitorozó rendszer felállításával és működtetésével, a bekerülési és terjedési útvonalaikra vonatkozó cselekvési tervek készítésével, elfogadásával és végrehajtásával, valamint a sérült ökológiai rendszerek helyreállításával kapcsolatos szabályokat;
+
+15. az inváziós bírság kiszabására, a kötelező intézkedések meghatározására vonatkozó eljárási szabályokat, a bírság mértékét és megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletszabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
@@ -66,7 +70,7 @@
 
 19. barlang, illetve védetté nyilvánított mesterséges üreg védelmének, fokozott védelmének feloldását;
 
-20. barlang védőövezetének kijelölését és a védőövezetre irányadó korlátozásokat;
+20. barlang és a védett mesterséges üreg védőövezetének kijelölését és a védőövezetre irányadó korlátozásokat;
 
 21. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, a nyilvántartás tartalmát és vezetésének módját, a nyilvántartásból történő adatszolgáltatást, valamint a barlangok természeti állapotfelvételének és kezelési tervük készítésének szabályait;
 
@@ -86,7 +90,11 @@
 
 29. a védett élő szervezetek, életközösségek, ásványi képződmények pénzben kifejezett értékét;
 
-30. az elkobzott védett természeti értékek felhasználását.
+30. az elkobzott védett természeti értékek felhasználását;
+
+31. a Magyarországon, illetve a regionális szinten veszélyt jelentő idegenhonos inváziós fajok körét;
+
+32. az Európai Unió számára, valamint a tagállami, illetve regionális szinten veszélyt jelentő idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzésével és kezelésével összefüggő részletszabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben
 

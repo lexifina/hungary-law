@@ -1,0 +1,1 @@
+79/A. § A biológiai sokféleség megőrzése érdekében szükséges, az ökoszisztémák és ökoszisztéma-szolgáltatások állapotfelmérésének, térképezésének és értékelésének eredményét az egyes szakpolitikai stratégiai tervdokumentumok előkészítése, valamint megvalósítása során figyelembe kell venni.

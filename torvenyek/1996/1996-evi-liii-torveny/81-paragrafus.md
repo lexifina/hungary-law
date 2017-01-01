@@ -16,4 +16,4 @@ e) a társadalom, annak csoportjai vagy az egyének életkörülményeinek roml�
 
 (3) Károkozás esetén elsősorban a természetbeni helyreállítást kell megkísérelni, és a kár ebben az esetben – hacsak a helyreállítást nem a károkozó végzi – magában foglalja az eredeti állapot helyreállításának költségeit is.
 
-(4) A (2) bekezdés e) pontja alapján a társadalom vagy csoportjainak életkörülményei romlásából fakadó nem vagyoni kár megtérítése iránt keresetet az ügyész indíthat [60. § (2) bekezdés], és a megítélt kártérítést a Környezetvédelmi alap célfeladat fejezeti kezelésű előirányzat részére kell megfizetni.
+(4) A (2) bekezdés e) pontja alapján a társadalom vagy csoportjainak életkörülményei romlásából fakadó nem vagyoni kár megtérítése iránt keresetet az ügyész indíthat [60. § (2) bekezdés] és a megítélt kártérítést a miniszter által vezetett minisztériumnak a természetvédelmi kártérítések megfizetésére létrehozott folyószámlájára kell megfizetni. A befolyt kártérítés összege kizárólag természetvédelmi célok, feladatok megvalósítására, támogatására használható fel.

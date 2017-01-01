@@ -2,7 +2,7 @@
 
 (2) A vadászható és halászható vad- és halfajok vadászata, halászata és horgászata csak olyan mértékű lehet, amely a faj természetes állományának sokféleségét, fennmaradását nem veszélyezteti.
 
-(3) A nem halászható (horgászható) fajokról, a halászati (horgászati) tilalmakról és fajok szerinti tilalmi időkről a halgazdálkodásért felelős miniszter a természetvédelemért felelős miniszter (a továbbiakban: miniszter) egyetértésével kiadott rendeletben rendelkezik.
+(3) A nem halászható (horgászható) fajokról, a halászati (horgászati) tilalmakról és fajok szerinti tilalmi időkről a halgazdálkodásért felelős miniszter a miniszter egyetértésével kiadott rendeletben rendelkezik.
 
 (4) A vadászható állatfajok (vad) körének meghatározására, vadászati idény és vadászati tilalom megállapítására a vad védelméről, a vadgazdálkodásról valamint a vadászatról szóló törvény rendelkezései az irányadóak.
 

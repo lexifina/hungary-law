@@ -7,3 +7,5 @@
 (4) A jogellenesen szerzett, birtokban tartott védett természeti értéket – ha az nem áll állami tulajdonban – a természetvédelmi hatóság birtokát ideiglenesen elvonja (a továbbiakban: lefoglalás), vagy birtokát véglegesen elvonja és azt állami tulajdonba veszi (a továbbiakban: elkobzás). Ha a védett természeti érték állami tulajdonban áll, akkor azt a természetvédelmi hatóság lefoglalja és az állam tulajdonosi jogait gyakorló szerv döntéséig az igazgatóság gondoskodik a megőrzéséről.
 
 (5) Az elkobzott védett természeti értékek csak a miniszter által meghatározottak szerint használhatók fel.
+
+(6) Az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírások megsértése esetén az idegenhonos inváziós fajok élő egyede kormányrendeletben meghatározottak szerint elkobozható vagy lefoglalható.
