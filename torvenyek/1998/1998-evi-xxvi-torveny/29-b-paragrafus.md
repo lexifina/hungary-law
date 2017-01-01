@@ -1,1 +1,1 @@
-29/B. §
+29/B. § Felhatalmazást kap a Kormány, hogy a fogyatékossági támogatás ügyében első- és másodfokon eljáró fogyatékossági támogatási szervet, a fogyatékossági támogatást folyósító szervet, valamint a nyilvántartást vezető szervet rendeletben jelölje ki.

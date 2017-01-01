@@ -1,8 +1,8 @@
 ## Hatásköri, eljárási szabályok
 
-23/B. § (1) A fogyatékossági támogatás megállapítására irányuló eljárás kérelemre indul. A fogyatékossági támogatás megállapítása a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
+23/B. § (1) A fogyatékossági támogatás megállapítására irányuló eljárás kérelemre indul. A fogyatékossági támogatás megállapítása a fogyatékossági támogatási szerv hatáskörébe tartozik.
 
-(2) A 23. § (2) bekezdésében meghatározott személy vonatkozásában a fogyatékossági támogatás megállapítása a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
+(2)
 
 (3)
 

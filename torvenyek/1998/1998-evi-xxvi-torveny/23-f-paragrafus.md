@@ -1,6 +1,6 @@
 ## A nyilvántartásra, adatvédelemre vonatkozó rendelkezések
 
-23/F. § (1) A fővárosi és megyei kormányhivatal, valamint a fogyatékossági támogatás ügyében másodfokon eljáró hatóság (a továbbiakban együtt: nyilvántartást vezető szerv) a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+23/F. § (1) A Kormány által a nyilvántartás vezetésére kijelölt szerv (a továbbiakban: nyilvántartást vezető szerv) a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 a) a jogosult természetes személyazonosító adatait;
 
