@@ -16,7 +16,9 @@ d) a befektetési vállalkozás és az árutőzsdei szolgáltató informatikai r
 
 e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
 
-f)–g)
+f) a befektetési vállalkozás panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára vonatkozó részletes szabályokat,
+
+g)
 
 h) a javadalmazási politikának az érintett befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására vonatkozó részletes szabályokat
 
