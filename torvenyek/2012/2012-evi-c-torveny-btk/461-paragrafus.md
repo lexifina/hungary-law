@@ -45,3 +45,5 @@ mértékét meghaladja.
 a) csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának hétszeres mértékét nem haladja meg,
 
 b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának száznegyvenszeres mértékét meghaladja,
+
+c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.
