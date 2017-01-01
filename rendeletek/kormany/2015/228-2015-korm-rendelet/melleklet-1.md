@@ -24,7 +24,7 @@
 
 10. útügyi hatósági eljárások,
 
-11. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi hatósági engedélyezési eljárásai,
+11.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -49,3 +49,4 @@
 [^4]: A 6. §-t a 21/2016. (II. 15.) Korm. rendelet 3. §-a iktatta be.
 [^5]: A hatálybalépés napja 2016. február 16.
 [^6]: Az 1. melléklet a 21/2016. (II. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 102. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
