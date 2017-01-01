@@ -22,6 +22,8 @@
 
 10. közvetett hatás: azon termékek hatása, amelyek nem fogyasztanak energiát, de hozzájárulnak a használat közbeni energia-megtakarításhoz;
 
-11. piacfelügyeleti hatóság: a fogyasztóvédelmi hatóság, illetve a Magyar Kereskedelmi Engedélyezési Hivatal;
+11.[^1] piacfelügyeleti hatóság: a fogyasztóvédelmi hatóság, illetve a piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala;
 
 12. beszállító: az a gyártó vagy annak feljogosított képviselője az Európai Unióban, vagy az az importőr, aki a terméket az európai uniós piacon forgalomba hozza vagy üzembe helyezi, továbbá – ilyenek hiányában – bármely olyan természetes vagy jogi személy, aki az ezen rendelet hatálya alá tartozó termékeket forgalomba hoz vagy üzembe helyez.
+
+[^1]: A 2. § 11. pontja a 379/2016. (XII. 2.) Korm. rendelet 180. § a) pontja szerint módosított szöveg.
