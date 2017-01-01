@@ -24,7 +24,7 @@ d) az adatszolgáltatásban közölt személyi vagy lakcímadatok megegyeznek az
 
 (7)[^3] A fellebbezés díja 5000 Ft. A díj megfizetését, ha az ügyben első fokon
 
-a)[^4] a személyiadat- és lakcímnyilvántartás központi szerve járt el, a KIM-nek a Magyar Államkincstárnál vezetett 10032000-01397136 számú előirányzat-felhasználási keretszámlájára,
+a)[^4]
 
 b)[^5] települési (fővárosi kerületi) önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járt el, a fővárosi és megyei kormányhivatal a Magyar Államkincstárnál vezetett – az eljárt szerv által megjelölt – előirányzat-felhasználási keretszámlájára
 
@@ -33,5 +33,5 @@ b)[^5] települési (fővárosi kerületi) önkormányzat jegyzője, a Főváros
 [^1]: A 4. § (1) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 2. §-ával megállapított szöveg.
 [^2]: A 4. § (6) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 3. §-ával megállapított szöveg.
 [^3]: A 4. § (7) bekezdését a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 1. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
-[^4]: A 4. § (7) bekezdés a) pontja a 17/2010. (XII. 17.) KIM rendelet 2. § (8) bekezdése szerint módosított szöveg. E módosító rendelet 4. §-a alapján a 2011. január 1-jét követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (7) bekezdés a) pontját az 58/2016. (XII. 22.) BM rendelet 18. §-a hatályon kívül helyezte.
 [^5]: A 4. § (7) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 23. §-a, a 19/2013. (VII. 23.) KIM rendelet 2. §-a szerint módosított szöveg.
