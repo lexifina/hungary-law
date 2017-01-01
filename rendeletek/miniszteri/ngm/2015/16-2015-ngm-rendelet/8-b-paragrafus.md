@@ -1,4 +1,4 @@
-## 4/B. [^52] A halászati csekély összegű támogatás
+## 4/B. [^61] A halászati csekély összegű támogatás
 
 8/B. § (1) A 717/2014/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti, egy és ugyanazon halászati és akvakultúra-ágazati vállalkozás részére a 717/2014/EU bizottsági rendelet, a folyó pénzügyi évben, valamint az azt megelőző két pénzügyi év során a 717/2014/EU bizottsági rendelet alapján Magyarországon odaítélt halászati csekély összegű támogatás támogatástartalma nem haladhatja meg a 30 000 eurónak megfelelő forintösszeget, figyelembe véve a rendelet 3. cikke (3) bekezdésében foglalt felső határt.
 
@@ -14,6 +14,7 @@
 
 (7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(8) A támogatást nyújtó a 717/2014/EU bizottsági rendelet 5. cikk (1) bekezdésében meghatározott feltételek teljesülését a Mezőgazdasági és Vidékfejlesztési Hivatal által vezetett mezőgazdasági csekély összegű (de minimis) támogatások nyilvántartása alapján ellenőrzi.
+(8)[^62] A támogatást nyújtó a 717/2014/EU bizottsági rendelet 5. cikk (1) bekezdésében meghatározott feltételek teljesülését a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett mezőgazdasági csekély összegű (de minimis) támogatások nyilvántartása alapján ellenőrzi.
 
-[^52]: A 4/B. alcímet (8/B. §) a 42/2016. (XI. 17.) NGM rendelet 7. §-a iktatta be.
+[^61]: A 4/B. alcímet (8/B. §) a 42/2016. (XI. 17.) NGM rendelet 7. §-a iktatta be.
+[^62]: A 8/B. § (8) bekezdése a 67/2016. (XII. 30.) NGM rendelet 7. § c) pontja szerint módosított szöveg.
