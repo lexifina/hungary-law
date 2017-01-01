@@ -32,6 +32,6 @@ a) a vagyonszerző, illetve – magánszemély vagyonszerző esetén – annak h
 
 b) az a) pontban felsoroltak – önálló vagy együttes – többségi tulajdonában álló gazdálkodó szervezet,
 
-c) az a) és b) pontban felsoroltakkal a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszonyban lévő gazdálkodó szervezet,
+c) az a) és b) pontban felsoroltakkal a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszonyban lévő személy,
 
 tulajdonában álló vagyoni betétek aránya önállóan vagy együttesen eléri vagy meghaladja az összes vagyoni betét 75%-át.

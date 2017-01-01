@@ -92,7 +92,9 @@ b) a lakástulajdon magánszemély bérlő vagy annak magánszemély örököse 
 
 c) a lakástulajdon megszerzése, ha azt a vagyonszerző a lakásvásárlásról szóló adásvételi szerződésben határozott időre, de legalább 5 évre a vételár 7 százalékát meg nem haladó éves bérleti díj ellenében bérbe adja a lakás korábbi magánszemély tulajdonosának, feltéve, hogy a bérlő vagy annak magánszemély örököse számára a vagyonszerző a lakásvásárlásról szóló adásvételi szerződés hatályának beálltától számított 5 éven belül gyakorolható visszavásárlási jogot létesít, legfeljebb a bérbeadó által fizetett vételár 105 százalékának megfelelő vételáron;
 
-d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelelő rész, ha a telek tulajdonosával kötött megállapodásból és az építés költségeit, körülményeit tanúsító egyéb okiratokból egyértelműen kitűnik, hogy az épületet a vagyonszerző hozta létre.
+d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelelő rész, ha a telek tulajdonosával kötött megállapodásból és az építés költségeit, körülményeit tanúsító egyéb okiratokból egyértelműen kitűnik, hogy az épületet a vagyonszerző hozta létre;
+
+e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -114,7 +116,7 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
-(4) Az (1) bekezdés k) pontjában említett vevő a kisajátítási eljárás lefolytatására jogosult szerv nyilatkozatával köteles igazolni legkésőbb a fizetési meghagyás jogerőre emelkedéséig, hogy helye lett volna kisajátításnak arra a célra, amelynek megvalósítása érdekében az ingatlant tőle megvásárolták.
+(4) Az (1) bekezdés k) pontjában említett vevő a kisajátítási eljárás lefolytatására jogosult szerv nyilatkozatával köteles igazolni, hogy helye lett volna kisajátításnak arra a célra, amelynek megvalósítása érdekében az ingatlant tőle megvásárolták.
 
 (5) A vagyonszerző az (1) bekezdés q) pontjában említett feltételekről a fizetési meghagyás jogerőre emelkedéséig nyilatkozhat az adóhatóságnál. Amennyiben a vagyonszerző az (1) bekezdés qb–qd) pontjai szerinti feltételek tekintetében valótlan nyilatkozatot tesz, illetőleg vállalását nem teljesíti, az adóhatóság a 19. § (1) bekezdése alapján megállapított illeték kétszeresét a vagyonszerző terhére pótlólag előírja.
 
@@ -186,6 +188,6 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 
 (20) Az (1) bekezdés g), h), q) és t) pontja szerinti mentesség a 17. § (4) bekezdésében említett feltételek fennállásakor vehető igénybe.
 
-(21) Az (1) bekezdés w) pontja szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+(21)
 
 (22) Az (1a) bekezdés c) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a felfüggesztett illetéket törli, ha az (1a) bekezdés c) pontja szerinti bérlő vagy annak magánszemély örököse az (1a) bekezdés c) pontja szerinti szerződés hatályának beálltától számított 5 éven belül a szerződés aláírását közvetlenül megelőző tulajdoni hányadának megfelelő tulajdoni hányadot visszavásárolja.

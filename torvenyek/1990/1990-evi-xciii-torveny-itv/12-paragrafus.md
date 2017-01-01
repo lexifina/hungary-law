@@ -10,4 +10,4 @@
 
 (5)
 
-(6) Abban az esetben, ha az általános mértékű öröklési vagy ajándékozási illeték alá eső vagyontárgyak között termőföld is van, akkor a termőföld után egyébként fizetendő illeték megállapítása során az általános mérték alá tartozó összes vagyont kedvezmény nélkül terhelő illetékből olyan arányt kell figyelembe venni, mint amilyen arányt az általános mértékű illeték alá tartozó összes vagyon értékében a termőföld értéke képez.
+(6)

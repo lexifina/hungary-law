@@ -14,7 +14,7 @@ f) az alapítvány, ideértve a közalapítványt is,
 
 g) a vízgazdálkodási társulat,
 
-h) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+h) az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv,
 
 i) a Magyar Nemzeti Bank,
 

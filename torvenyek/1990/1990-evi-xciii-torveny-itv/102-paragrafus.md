@@ -80,6 +80,6 @@ c) külön jogszabály értelmében menekültnek minősül.
 
 (3) Az (1) bekezdés alkalmazásakor a vagyontárgy minősítése tekintetében az illetékkötelezettség keletkezésekor fennálló állapot az irányadó.
 
-(4) A 26. § (1) bekezdésének f) pontja alkalmazásában új lakásnak minősül a lakástulajdon a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követő első – illetve, ha a lakást a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követően a vállalkozótól a 23/A. § (1), (2) és (4) bekezdésében meghatározott ingatlanforgalmazó vásárolja meg akkor második – megvásárlásáig.
+(4) A 26. § (1) bekezdésének f) pontja alkalmazásában új lakásnak minősül a lakástulajdon a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követő első – illetve, ha a lakást a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követően az (5) bekezdés szerinti vállalkozótól a 23/A. § (1a) bekezdése szerinti vállalkozó, a 23/A. § (2) bekezdése szerinti ingatlanalap és a 23/A. § (4) bekezdése szerinti gazdálkodó szervezet vásárolja meg akkor második – megvásárlásáig.
 
 (5) A 26. § (1) bekezdés f) pontjának alkalmazásában vállalkozónak kell tekinteni a gazdálkodó szervezetet, illetve a vállalkozói tevékenység végzésére jogosult egyéb szervezetet.

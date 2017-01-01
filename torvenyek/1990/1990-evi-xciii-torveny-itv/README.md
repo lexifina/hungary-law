@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2015-11-01 | 2015. évi CLI. törvény | 1990-93-00-00.151 |
 | 2016-01-01 | 2015. évi CXCIV. törvény | 1990-93-00-00.152 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 1990-93-00-00.153 |
+| 2017-01-01 | 2016. évi CXXV. törvény | 1990-93-00-00.154 |

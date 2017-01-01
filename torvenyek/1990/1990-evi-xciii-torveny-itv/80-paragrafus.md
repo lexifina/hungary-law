@@ -4,7 +4,7 @@ a) ha az illeték jogerős megállapítása után olyan körülmény állott be,
 
 b) ha a jogügyletet a bíróság módosítja, megszünteti, felbontja, vagy a jogügylet érvénytelenségét megállapítja, és emiatt a jogügylet után kevesebb illeték jár, vagy illeték nem jár;
 
-c) ha a jogügyletet a felek közös megegyezéssel megszüntetik vagy felbontják, továbbá ha a szerződés valamelyik fél elállása vagy felmondása folytán szűnik meg, és ingatlan esetén a szerződés megszűnésével az eredeti ingatlan-nyilvántartási állapot helyreáll, más esetben a jogügylet megszűnését a kérelmező okirattal igazolja;
+c) ha a jogügyletet a felek közös megegyezéssel megszüntetik vagy felbontják, továbbá ha a szerződés valamelyik fél elállása vagy felmondása folytán szűnik meg, és ingatlan esetén a szerződés megszűnésével az eredeti ingatlan-nyilvántartási állapot helyreáll, más esetben a jogügylet megszűnését a kérelmező okirattal vagy annak hiteles másolatával igazolja;
 
 d) ha a vagyoni értékű jog valamely személy életének, házasságának vagy özvegységének idejére terjed, de e jogosultság a 72. § (4) bekezdésében megállapított szorzókkal vélelmezett évek felénél rövidebb idő elteltével megszűnik;
 

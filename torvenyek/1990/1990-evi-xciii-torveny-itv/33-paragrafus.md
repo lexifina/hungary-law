@@ -66,7 +66,7 @@ történik a kiállítása;
 
 14. a munkaviszony, szövetkezeti tagsági viszony létesítéséhez, igazolásához szükséges irat ;
 
-15. foglalkoztatáspolitika körébe tartozó juttatások (munkanélküli segély, járadék, átképzési támogatás stb.) , a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti bányászjáradék igénybevételével, nyugdíjazással kapcsolatos eljárások és az eljáráshoz szükséges iratok;
+15. foglalkoztatáspolitika körébe tartozó juttatások (munkanélküli segély, járadék, átképzési támogatás stb.) , a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék és az átmeneti bányászjáradék igénybevételével, nyugdíjazással kapcsolatos eljárások és az eljáráshoz szükséges iratok;
 
 16. a kitüntetés adományozásával, viselésének engedélyezésével kapcsolatos eljárás;
 

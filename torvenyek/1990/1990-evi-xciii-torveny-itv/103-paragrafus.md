@@ -28,7 +28,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5) Az 57. § (2) bekezdés f) pontja a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
 
-(5) E törvény 26. § (1) bekezdés w) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
+(5)
 
 ## Melléklet
 
