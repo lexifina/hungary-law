@@ -20,7 +20,7 @@
 
 | 9 | a NAV bűnügyi informatikai szervezeti egységének vezetője, vezetőjének helyettese és osztályvezetője (rendszerfejlesztés, -felügyelet) | országos hozzáférési jog | X | X | X | X | X |  | X | X |
 
-| 10 | a Központi Irányítás állományába tartozó felhatalmazott személy | országos hozzáférési jog | X | X |  |  |  |  | X | X |
+| 10 | a Központi Irányítás állományába tartozó felhatalmazott személy | országos illetékesség | X | X | X |  | X |  | X | X |
 
 | 11 | a Bűnügyi Főigazgatóság állományába tartozó, vezetője által kijelölt személy | országos hozzáférési jog | X | X |  |  |  |  | X | X |
 
@@ -34,7 +34,7 @@
 
 | 16 | a NAV nyomozóhatósági feladatait ellátó területi szerveinek osztályvezetői, pénzügyi nyomozók, az állomány e szerv vezetője által kijelölt tagja | országos hozzáférési jog |  |  |  |  |  |  | X | X |
 
-| 17 | a NAV vámhatósági feladatokat ellátó szerve vezetői, azok helyettesei, az állomány e szerv vezetője által kijelölt tagja | helyi hozzáférési jog | X |  | X |  | X |  | X | X |
+| 17 | a NAV adó- és vámhatósági feladatokat ellátó szerve vezetői, azok helyettesei, az állomány e szerv vezetője által kijelölt tagja | helyi hozzáférési jog | X |  | X |  | X |  | X | X |
 
 | 18 | a NAV pénzügyi információs szervezeti egység kijelölt tagjai | országos hozzáférési jog |  |  |  |  |  |  | X | X |
 
