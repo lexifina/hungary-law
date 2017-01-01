@@ -34,11 +34,11 @@ ab) közreműködik – a gyermekjóléti szolgálattal együttműködve – a k
 
 b) kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében legfeljebb öt év időtartamra félutasház-szolgáltatást nyújthat.
 
-(7) A félutasház-szolgáltatás keretében a krízisközpontból, illetve a családok átmenti otthonából kikerült bántalmazott család számára lakhatást és az életvezetéshez szükség szerinti segítséget kell biztosítani.
+(7) A félutasház-szolgáltatás keretében a krízisközpontból, titkos menedékházból, illetve a családok átmenti otthonából kikerült bántalmazott család számára lakhatást és az életvezetéshez szükség szerinti segítséget kell biztosítani.
 
 (8) A félutasház-szolgáltatás igénybevételének feltétele, hogy
 
-a) a bántalmazottat biztosítással járó jogviszony keretében foglalkoztassák,
+a)
 
 b) a bántalmazott vállalja a külön jogszabályban meghatározott előtakarékossági programban való részvételt, és
 
@@ -48,10 +48,14 @@ c) a bántalmazott vállalja a külön jogszabályban meghatározott társadalmi
 
 (10) A titkos menedékház befogadja a kapcsolati erőszak miatt krízishelyzetbe került, illetve otthontalanná vált bántalmazottat és gyermekét, valamint az (5) bekezdés szerinti bántalmazott családot.
 
-(11) A titkos menedékház a (10) bekezdésben foglalt személy számára legfeljebb hat hónap időtartamra
+(11) A titkos menedékház a (10) bekezdésben foglalt személy számára
 
-a) lakhatást biztosít, és szükség esetén biztosítja az étkeztetést, a ruházattal való ellátást, a mentálhigiénés ellátást, valamint segítséget nyújt az egészségügyi ellátáshoz való hozzáféréshez,
+a) legfeljebb hat hónap időtartamra
 
-b) közreműködik – a gyermekjóléti szolgálattal együttműködve – a titkos menedékház szolgáltatást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
+aa) lakhatást biztosít, és szükség esetén biztosítja az étkeztetést, a ruházattal való ellátást, a mentálhigiénés ellátást, valamint segítséget nyújt az egészségügyi ellátáshoz való hozzáféréshez,
 
-c) segítséget nyújt a bántalmazás következtében kialakult pszichés sérülések kezelésében és jogi tanácsadással segíti a (10) bekezdésben foglalt személy érdekeinek védelmét.
+ab) közreműködik – a gyermekjóléti szolgálattal együttműködve – a titkos menedékház szolgáltatást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
+
+ac) segítséget nyújt a bántalmazás következtében kialakult pszichés sérülések kezelésében és jogi tanácsadással segíti érdekeinek védelmét,
+
+b) legfeljebb öt év időtartamra kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében félutasház-szolgáltatást nyújthat.

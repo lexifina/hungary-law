@@ -10,9 +10,13 @@ kell figyelembe venni.
 
 (3) A személyi térítési díj összege igénybe vevőnként nem haladhatja meg az (1) bekezdésben meghatározott jövedelem
 
-a) 50%-át családi napközi és családi gyermekfelügyelet esetén,
+a) 50%-át munkahelyi bölcsődében és családi bölcsődében nyújtott bölcsődei ellátás esetén,
 
-b) 25%-át bölcsőde esetén, ha a fenntartó a bölcsődei ellátás keretében biztosított gyermekétkeztetés mellett a bölcsődei ellátás keretében nyújtott gondozásra is megállapít személyi térítési díjat,
+b) – bölcsődében és mini bölcsődében nyújtott bölcsődei ellátás esetén, ha a fenntartó a bölcsődei ellátás keretében biztosított gyermekétkeztetés mellett a bölcsődei ellátás keretében nyújtott gondozásra is megállapít személyi térítési díjat, és a gyermek
+
+ba) nem részesül ingyenes intézményi gyermekétkeztetésben –, 25%-át,
+
+bb) ingyenes intézményi gyermekétkeztetésben részesül –, 20%-át,
 
 c) 20%-át az a) és b) pont, valamint a 21. § alá nem tartozó egyéb gyermekek napközbeni ellátása esetén,
 
@@ -24,7 +28,7 @@ e) 30%-át a fiatal felnőtt utógondozói ellátása esetén.
 
 (5) Ingyenes ellátásban kell részesíteni a jogosultat, ha a térítési díj fizetésére kötelezett jövedelemmel nem rendelkezik.
 
-(6) Bölcsőde esetében
+(6) Bölcsődében, mini bölcsődében nyújtott bölcsődei ellátás esetén
 
 a) a rendszeres gyermekvédelmi kedvezményben részesülő gyermek,
 
@@ -32,6 +36,8 @@ b) a tartósan beteg vagy fogyatékos gyermek,
 
 c) a három- vagy többgyermekes család gyermekének,
 
-d) az átmeneti gondozásban lévő, az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, a nevelésbe vett gyermek
+d) az átmeneti gondozásban lévő, az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, a nevelésbe vett gyermek,
+
+e) a védelembe vett gyermek
 
 gondozását térítésmentesen kell biztosítani. Ezekben az esetekben személyi térítési díj – a 21/B. § (1) bekezdésében foglaltak figyelembevételével – csak az étkezésért kérhető. A c) pont szerinti gyermekszámot a 21/B. § (3) bekezdésében foglaltak szerint kell meghatározni.

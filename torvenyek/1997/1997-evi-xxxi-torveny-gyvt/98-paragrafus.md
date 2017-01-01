@@ -74,15 +74,17 @@ b) a szakhatóság eljárásának és a szakértői vélemény elkészítéséne
 
 (10b) Ha a működést engedélyező szerv az ellenőrzés során a módszertani feladatokat ellátó szervet vagy a kijelölt egyházi módszertani intézményt szakértőként rendeli ki, a szakértő a szakvéleményét a kirendelő végzés vele való közlésétől számított negyvenöt napon belül készíti el, és küldi meg a működést engedélyező szervnek.
 
+(10c) A működést engedélyező szerv döntése ellen nincs helye fellebbezésnek.
+
 (11) A Szociális Ágazati Portálon – a (12) és (13) bekezdésben meghatározottak szerint – közzé kell tenni
 
-a) a működést engedélyező szervnek a szolgáltató, intézmény, hálózat (székhely, telephely) ellenőrzése során hozott, fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát,
+a)
 
 b) a működést engedélyező szerv jogerős határozatát, fenntartóval kötött hatósági szerződését és hatósági szerződésben foglalt kötelezettség megszegését megállapító végzését, ha a szolgáltató, intézmény, hálózat (székhely, telephely) személyi vagy tárgyi feltételeinek hiánya miatt jogkövetkezményt állapított meg vagy a fenntartóval hatósági szerződést kötött,
 
 c) a működést engedélyező szerv jogerős határozatát, fenntartóval kötött hatósági szerződését és hatósági szerződésben foglalt kötelezettség megszegését megállapító végzését, ha a 100/A. § (1) bekezdés a), b) vagy e) pontjában meghatározott jogsértés miatt jogkövetkezményt állapított meg vagy a fenntartóval hatósági szerződést kötött,
 
-d) az a)–c) pont szerinti ügyben a jogorvoslat vagy megismételt eljárás során hozott és a közzétett döntés érdemében változást eredményező hatósági döntést vagy bírósági határozatot.
+d) a b) és c) pont szerinti ügyben a jogorvoslat vagy megismételt eljárás során hozott és a közzétett döntés érdemében változást eredményező hatósági döntést vagy bírósági határozatot.
 
 (12) A hatósági döntésről és a hatósági szerződésről közzétett dokumentumnak tartalmaznia kell
 
@@ -116,7 +118,7 @@ ee) a megsértett jogszabályi rendelkezések megjelölését, és
 
 ef) a hatósági döntésben megállapított jogkövetkezményeket, illetve a fenntartó által a hatósági szerződésben vállalt kötelezettségeket, és az azok megszegésének esetére kikötött jogkövetkezményeket,
 
-f) a jogerő beálltára vagy annak hiányára történő utalást,
+f) a jogerő beálltára történő utalást,
 
 g) a döntéssel szembeni jogorvoslati eljárás tényét, valamint
 

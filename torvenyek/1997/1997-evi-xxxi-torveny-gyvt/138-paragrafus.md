@@ -30,4 +30,4 @@ d) a hatósági intézkedés felülvizsgálatának időpontját és eredményét
 
 (3) A gyámhatóság nyilvántartást vezet a szülő adatai nélkül anyakönyvezett gyermekekről az (1) bekezdés a) pontjában meghatározott adatok mellett a hatósági eljárásra vonatkozó döntésről.
 
-(4) A gyámhatóság nyilvántartást vezet az általa engedélyezett gyermekjóléti szolgáltató tevékenységről és az ellenőrzéssel kapcsolatos döntésről.
+(4)

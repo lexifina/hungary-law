@@ -4,7 +4,31 @@
 
 (2) Ha jogszabály a gyermek személyi ügyeiben a törvényes képviselő eljárását vagy nyilatkozatát írja elő, a szülői felügyeletet együttesen gyakorló mindkét szülőnek személyesen kell eljárnia, illetőleg személyesen kell nyilatkoznia.
 
-(3) A kapcsolattartással, a kiskorú házasságkötésének engedélyezésével, az örökbefogadással, a származás megismerésével, a terhességét eltitkoló válsághelyzetben lévő várandós anya születendő gyermeke lakóhelyének megállapításával, a családi jogállással, a szülői ház elhagyásával, a családbafogadással és a gyámsággal, gondnoksággal kapcsolatos jognyilatkozatokat csak személyesen lehet megtenni, valamint, ha a tényállás tisztázása érdekében a gyámhatóság tárgyalást tart, azon személyesen kell megjelenni.
+(3) A gyámhatósági eljárás során a jognyilatkozatokat csak személyesen lehet megtenni, valamint, ha a tényállás tisztázása érdekében a gyámhatóság tárgyalást tart, azon személyesen kell megjelenni
+
+a) a gyámhatósági eljárás megindítására irányuló kérelem és a jogorvoslati kérelem kivételével,
+
+aa) a kiskorú házasságkötésének engedélyezésével,
+
+ab) a terhességét eltitkoló, válsághelyzetben lévő várandós anya születendő gyermeke lakóhelyének megállapításával,
+
+ac) a szülői felügyeleti jog gyakorlásával,
+
+ad) a családbafogadással,
+
+ae) a gyámsággal, a gondnoksággal és a támogatott döntéshozatallal,
+
+af) a b) pontban foglalt kivétellel a családi jogállással,
+
+b) a jogorvoslati kérelem kivételével az örökbefogadással, a származás megismerésével és a teljes hatályú apai elismeréssel,
+
+c) az eljárás megindítására irányuló kérelem, a jogorvoslati kérelem és a kapcsolattartás végrehajtása során a kapcsolattartás megvalósulására vonatkozó nyilatkozatok kivételével a kapcsolattartással
+
+összefüggő gyámhatósági eljárásban.
+
+(3a) A (3) bekezdésben meghatározott, személyes megjelenéshez nem kötött jognyilatkozatokat postai úton, elektronikus úton, személyesen átadott irat útján, kézbesítési meghatalmazott útján vagy személyesen lehet előterjeszteni.
+
+(3b) Életvitelszerűen külföldön tartózkodó ügyfél esetén személyesen megtett jognyilatkozatnak kell tekinteni a kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton megtett jognyilatkozatot.
 
 (4) A gyámhatósági eljárásban a támogató (hivatásos támogató)
 

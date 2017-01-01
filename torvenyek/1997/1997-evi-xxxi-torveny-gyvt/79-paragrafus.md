@@ -24,7 +24,7 @@ f) a 141. § (1) bekezdés a) és b) pontja szerinti nyilvántartások alapján 
 
 a) a gyermek gondozási helyéről,
 
-b) a gyermekvédelmi gyám személyéről,
+b) a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám személyéről,
 
 c) a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásról,
 

@@ -1,7 +1,9 @@
+## VI/A. Fejezet
+
 ## Biztos Kezdet Gyerekház
 
-38/A. § (1) A Biztos Kezdet Gyerekház (a továbbiakban: Gyerekház) célja a szocio-kulturális hátrányokkal küzdő, elsősorban a hátrányos helyzetű, vagy halmozottan hátrányos helyzetű gyermekek egészséges fejlődésének biztosítását támogató, fejlődési lemaradását kompenzáló, a szülői kompetenciákat erősítő, a szülő és különösen az óvodáskort még el nem ért gyermek számára együttesen biztosított társadalmi felzárkózást segítő prevenciós szolgáltatás biztosítása.
+38/A. § (1) A Biztos Kezdet Gyerekház célja a szociokulturális hátrányokkal küzdő, elsősorban a rendszeres gyermekvédelmi kedvezményben részesülő gyermekek egészséges fejlődésének biztosítását támogató, fejlődési lemaradását kompenzáló, a szülői kompetenciákat erősítő, a szülő és az óvodába még nem járó gyermek számára együttesen nyújtott társadalmi felzárkózást segítő prevenciós szolgáltatás biztosítása.
 
-(2) A Gyerekház a gyermek és család sikeres társadalmi integrációja érdekében együttműködik különösen a gyermekjóléti szolgáltatást nyújtó szolgáltatóval, a védőnői szolgálattal, az óvodával, egyéb gyermekintézménnyel, valamint szükség esetén a jelzőrendszer egyéb tagjaival.
+(2) A Biztos Kezdet Gyerekház a gyermek sikeres óvodai beilleszkedése, valamint a gyermek és a család sikeres társadalmi integrációja érdekében együttműködik különösen a család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal, a védőnői szolgálattal, az óvodával, a helyben elérhető egyéb, a gyermekek és a gyermekes családok számára szolgáltatást nyújtó intézménnyel, valamint szükség esetén a gyermekvédelmi jelzőrendszer egyéb tagjaival.
 
-(3)
+(3) A fenntartó a Biztos Kezdet Gyerekházat szolgáltatóként vagy más intézmény szervezeti és szakmai tekintetben önálló egységeként működteti.

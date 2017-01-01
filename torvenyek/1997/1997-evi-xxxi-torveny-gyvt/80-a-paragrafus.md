@@ -30,7 +30,7 @@ a) a gyermekvédelmi gyám kérelmére,
 
 b) hivatalból, ha
 
-ba) a gyermek szüleinek a szülői felügyeleti jogát a bíróság megszüntette vagy a szülők elhaláloztak,
+ba) a gyermek szüleinek a szülői felügyeleti jogát a bíróság megszüntette, a szülők elhaláloztak vagy a korábbi örökbefogadást felbontották.
 
 bb) a felülvizsgálatot indokoló egyéb körülmény jut a tudomására.
 

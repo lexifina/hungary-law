@@ -1,4 +1,4 @@
-68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
+68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a családtámogatási feladatokat ellátó hatóságnál a családi pótlék szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
 
 (2) A gyámhatóság
 
@@ -12,8 +12,10 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 a) mulasztott, egyidejűleg megállapítja, hogy a családi pótlék szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
 
-b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését.
+b) nem mulasztott, kezdeményezi a családtámogatási feladatokat ellátó hatóságnál a családi pótlék szüneteltetésének megszüntetését.
 
-(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését, ha a gyermeket (fiatal felnőttet) nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyezték el, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
+(3a) A (3) bekezdés b) pontja szerinti esetben az eljárás során a 128. § (1) bekezdése szerinti meghallgatás mellőzhető.
+
+(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a családtámogatási feladatokat ellátó hatóságnál a családi pótlék szüneteltetésének megszüntetését, ha a gyermeket (fiatal felnőttet) nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyezték el, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
 
 (5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.

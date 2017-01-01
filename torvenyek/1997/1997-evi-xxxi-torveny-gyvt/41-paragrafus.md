@@ -1,25 +1,23 @@
+## VI/C. Fejezet
+
 ## Gyermekek napközbeni ellátása
 
-41. § (1) A gyermekek napközbeni ellátásaként a családban élő gyermekek életkorának megfelelő nappali felügyeletét, gondozását, nevelését, foglalkoztatását és étkeztetését kell megszervezni azon gyermekek számára, akiknek szülei, nevelői, gondozói munkavégzésük – ideértve a gyermekgondozási díj folyósítása melletti munkavégzést is –, munkaerő-piaci részvételt elősegítő programban, képzésben való részvételük, betegségük vagy egyéb ok miatt napközbeni ellátásukról nem tudnak gondoskodni. A napközbeni ellátás keretében biztosított szolgáltatások időtartama lehetőleg a szülő munkarendjéhez igazodik.
+## Általános rendelkezések
 
-(2) A gyermekek napközbeni ellátását különösen az olyan gyermek számára kell biztosítani,
+41. § (1) A gyermekek napközbeni ellátásaként az életkornak megfelelő nappali felügyeletet, gondozást, nevelést, foglalkoztatást és étkeztetést kell megszervezni azon gyermekek számára, akiknek szülei, törvényes képviselői munkavégzésük – ideértve a gyermekgondozási díj, a gyermekgondozást segítő ellátás és a gyermeknevelési támogatás folyósítása melletti munkavégzést is –, munkaerő-piaci részvételt elősegítő programban, képzésben való részvételük, nappali rendszerű iskolai oktatásban, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, felsőoktatási intézményben nappali képzésben való részvételük, betegségük vagy egyéb ok miatt napközbeni ellátásukról nem tudnak gondoskodni. A napközbeni ellátás keretében biztosított szolgáltatások időtartama lehetőleg a szülő, törvényes képviselő munkarendjéhez igazodik. Gyermekek napközbeni ellátásának igénybevételére jogosult az átmeneti gondozásban és az otthont nyújtó ellátásban részesülő gyermek is.
+
+(2) Az (1) bekezdés szerinti egyéb ok miatt a gyermekek napközbeni ellátását különösen az olyan gyermek számára kell biztosítani,
 
 a) akinek fejlődése érdekében állandó napközbeni ellátásra van szüksége,
 
 b) akit egyedülálló vagy időskorú személy nevel,
 
-c) akinek a szülője, gondozója szociális helyzete miatt az ellátásról nem tud gondoskodni.
+c) akinek a szülője, törvényes képviselője szociális helyzete miatt az ellátásáról nem tud gondoskodni.
 
-(3) A gyermekjóléti alapellátás keretében biztosított gyermekek napközbeni ellátásának formái – a gyermekek életkorának megfelelően –
+(3) A gyermekek napközbeni ellátásának formái – a gyermekek életkorának megfelelően –
 
-a) a bölcsőde, a hetes bölcsőde,
+a) a bölcsődei ellátás,
 
-b) a családi napközi,
+b) a napközbeni gyermekfelügyelet, és
 
-c) a családi gyermekfelügyelet,
-
-d) a házi gyermekfelügyelet,
-
-e) az alternatív napközbeni ellátás.
-
-(4)
+c) az alternatív napközbeni ellátás.

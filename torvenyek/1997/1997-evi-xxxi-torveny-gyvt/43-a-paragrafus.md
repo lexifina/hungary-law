@@ -1,15 +1,15 @@
-## Családi gyermekfelügyelet
+## Mini bölcsőde
 
-43/A. § (1) A gyermekek napközbeni ellátásaként családi gyermekfelügyelet biztosítható az ellátást nyújtó saját otthonában.
+43/A. § (1) A mini bölcsőde olyan bölcsődei ellátást nyújtó intézmény, amely a gyermekek napközbeni ellátása keretében, a Bölcsődei nevelés-gondozás országos alapprogramja szerint, jogszabályban meghatározott szakirányú végzettséggel rendelkező személy által akár több, a 43. § szerinti bölcsődei intézményhez képest kisebb létszámú csoportban, valamint egyszerűbb személyi, tárgyi és működtetési feltételek mellett nyújt szakszerű gondozást és nevelést.
 
-(2) A családi gyermekfelügyelet a családban nevelkedő gyermekek számára nyújt életkoruknak megfelelő nappali felügyeletet, gondozást, nevelést és étkeztetést.
+(2) A mini bölcsőde szervezetileg működhet
 
-(3) A családi gyermekfelügyelet keretében két évestől négy éves korig gondozható gyermek.
+a) önálló bölcsődeként, annak tagintézményeként,
 
-(4) A családi gyermekfelügyelet ellátása során – a saját, napközbeni ellátást máshol igénybe nem vevő gyermeket is beszámítva – legfeljebb három gyermek gondozható.
+b) bölcsődei igazgatóság, illetve egyesített bölcsőde szervezeti formában, annak tagintézményeként,
 
-(5) A családi gyermekfelügyelet keretében gondozott saját gyermek után központi költségvetésről szóló törvényben biztosított támogatást nem lehet igénybe venni.
+c) többcélú óvoda-bölcsődeként, vagy
 
-(6) Családi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (4) bekezdésében foglaltaknak.
+d) többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egységeként, feltéve, hogy többcélú óvoda-bölcsődeként való működtetésére nincs lehetőség.
 
-(7) A családi gyermekfelügyelet esetében a 32. § (5) bekezdése szerint megkötött megállapodások száma – a szolgáltatás eltérő időpontokban történő igénybevétele esetén – túllépheti a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyek számát. A szolgáltatást azonos időben igénybe vevő gyermekek száma ebben az esetben sem haladhatja meg a szolgáltatói nyilvántartásba jogerősen bejegyzett meghatározott férőhelyszámot.
+(3) A mini bölcsőde működtetésére a 43. § (3)–(5) bekezdésében foglaltakat alkalmazni kell.

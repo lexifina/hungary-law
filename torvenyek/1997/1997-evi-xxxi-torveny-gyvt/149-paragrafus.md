@@ -1,1 +1,1 @@
-149. § Térítésmentesen kell biztosítani a 40. § (1)–(3) bekezdés szerinti gyermekjóléti szolgáltatást, amely esetben intézményi térítési díjat sem kell megállapítani.
+149. § Térítésmentesen kell biztosítani a Biztos Kezdet Gyerekház, a gyermekjóléti szolgálat és a gyermekjóléti központ e törvényben meghatározott szolgáltatásait, amely esetekben intézményi térítési díjat sem kell megállapítani.

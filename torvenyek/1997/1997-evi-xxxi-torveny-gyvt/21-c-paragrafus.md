@@ -8,7 +8,7 @@ b) az a) pontban foglalt gyermekeken kívül további gyermekek, így különös
 
 (2) A települési önkormányzat a szünidei gyermekétkeztetést az (1) bekezdés a) pontja szerinti esetben
 
-a) a bölcsődei ellátásban, óvodai nevelésben részesülő gyermekek számára a bölcsődei ellátást nyújtó intézmény és az óvoda zárva tartásának időtartama alatt valamennyi munkanapon,
+a) a bölcsődében, mini bölcsődében bölcsődei ellátásban, óvodai nevelésben részesülő gyermekek számára a bölcsődei ellátást nyújtó intézmény és az óvoda zárva tartásának időtartama alatt valamennyi munkanapon,
 
 b) az a) pont alá nem tartozó gyermekek számára
 

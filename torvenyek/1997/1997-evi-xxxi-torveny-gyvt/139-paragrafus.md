@@ -8,6 +8,8 @@ c) a térítési díj fizetési kötelezettség teljesítésére, elmaradására
 
 (1a) Az állami fenntartó nyilvántartást vezet a gondozásidíj-fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokról.
 
+(1b) Biztos Kezdet Gyerekház szolgáltatás esetén az (1) bekezdés szerinti nyilvántartás kizárólag a 138. § (1) bekezdés a)–c) és f) pontjában foglaltakat tartalmazza.
+
 (2) A Kormány által kijelölt szerv a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 a) a személyes gondoskodásban részesülő személy
@@ -44,17 +46,19 @@ fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtés
 
 (3) Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat
 
-a) a alternatív napközbeni ellátás esetén,
+a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül,
 
-b) házi gyermekfelügyelet esetén,
+b)
 
 c)
 
 d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén,
 
-e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–65. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén.
+e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–63. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén.
 
 (3a) Gyermekjóléti szolgáltatás esetében csak a (2) bekezdés a) pont aa) és ac) alpontja szerinti adatokat kell nyilvántartásba venni, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható.
+
+(3b) Biztos Kezdet Gyerekház szolgáltatás esetében csak a (2) bekezdés a), c) és d) pontja szerinti adatokat kell nyilvántartásba venni.
 
 (4) A (2) bekezdés szerinti nyilvántartásból a személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás igénybevételének megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A nyilvántartásból – ha törvény eltérően nem rendelkezik – adat nem továbbítható.
 
@@ -63,3 +67,5 @@ e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban
 (6) A (2) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
 
 (7) A (2) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
+
+(8) Az ellenőrzésre jogosult szerv a 145/C. § szerinti finanszírozás ellenőrzése céljából betekinthet a (2) bekezdés szerinti nyilvántartásba, és kezelheti annak a 145/C. § szerinti szolgáltató tevékenységekkel kapcsolatos adatait.

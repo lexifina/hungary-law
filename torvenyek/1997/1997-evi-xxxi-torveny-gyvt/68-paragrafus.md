@@ -10,7 +10,7 @@ b) a nyomozó hatóság nyomozást megtagadó határozata alapján a tizennegyed
 
 c) a rendőrség, az ügyészség, illetve a bíróság jelzése alapján a bűncselekmény elkövetésével gyanúsított, vádolt fiatalkorút.
 
-(3) A védelembe vétellel egyidejűleg a gyermek gondozásának folyamatos segítése és ellátásának megszervezése, a szülői nevelés támogatása érdekében a gyámhatóság a gyermek részére a gyermekjóléti központ családsegítést és gyermekjóléti szolgáltatást végző munkatársát rendeli ki és a veszélyeztetettség okának megszüntetése érdekében intézkedést tesz, így különösen
+(3) A védelembe vétellel egyidejűleg a gyermek gondozásának folyamatos segítése és ellátásának megszervezése, a szülői nevelés támogatása érdekében a gyámhatóság felhívja a gyermekjóléti központot a védelembe vételhez kapcsolódó gyermekjóléti szolgáltatási feladatok esetmenedzselésének ellátására és a veszélyeztetettség okának megszüntetése érdekében intézkedést tesz, így különösen
 
 a) kötelezi a szülőt, hogy folyamatosan vegye igénybe a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, az Nktv. hatálya alá tartozó iskolaotthonos nevelést-oktatást, illetve kollégiumi ellátást,
 
@@ -28,7 +28,7 @@ g) figyelmezteti a szülőt helytelen életvezetésének, magatartásának köve
 
 h) kötelezheti a szülőt és a gyermeket, illetve felkérheti a konfliktusban érintett más személyt arra, hogy a nevelési-oktatási intézményben előforduló erőszak miatt kialakult helyzet vagy más súlyos konfliktushelyzet kezelése érdekében jelenjen meg iskolapszichológusi vizsgálaton, illetve vegye igénybe a konfliktuskezelést segítő szolgáltatást.
 
-(4) A kirendelt családsegítést és gyermekjóléti szolgáltatást végző munkatárs a védelembe vételt elrendelő határozat jogerőre emelkedésétől számított tizenöt napon belül a gyermekre, illetve a (2) bekezdés szerinti fiatalkorúra vonatkozóan egyéni gondozási-nevelési tervet készít, melyhez szükség szerint a 132. § (1) bekezdésében meghatározott szerveket vagy személyeket kereshet meg.
+(4) A gyermekjóléti központ munkatársa a védelembe vételt elrendelő határozat jogerőre emelkedésétől számított tizenöt napon belül a gyermekre, illetve a (2) bekezdés szerinti fiatalkorúra vonatkozóan egyéni gondozási-nevelési tervet készít, melyhez szükség szerint a 132. § (1) bekezdésében meghatározott szerveket vagy személyeket kereshet meg.
 
 (5) A gyámhatóság – kérelemre bármikor, hivatalból legalább évente – felülvizsgálja a védelembe vétel indokoltságát. A gyámhatóság haladéktalanul megteszi a szükséges intézkedést, ha
 

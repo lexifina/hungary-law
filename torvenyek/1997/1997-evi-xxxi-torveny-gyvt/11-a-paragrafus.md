@@ -8,7 +8,7 @@ b) segíti a gyermeket az állapotának megfelelő ellátáshoz való hozzájut�
 
 c) a 36. § (2) bekezdése szerinti esetben eljár a gyermek szülője vagy más törvényes képviselője, a gyermek, illetve fiatal felnőtt, valamint a gyermek-önkormányzat felkérése alapján,
 
-d) eljár az érdekképviseleti fórum 35. § (4) bekezdése szerint tett megkeresése alapján,
+d) eljár az érdekképviseleti fórum megkeresése alapján,
 
 e) a gyámhatóság kirendelése alapján képviseli a gyermeket a nevelési felügyelettel kapcsolatos eljárásban,
 
@@ -22,7 +22,7 @@ fc) a jogsértő személy továbbképzésére a fenntartónak, működtetőnek.
 
 (3) A gyermekjogi képviselő jogosult a gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző működési területén tájékoztatást, iratokat, információkat kérni és a helyszínen tájékozódni. A gyermekjogi képviselő köteles a gyermek személyes adatait az adatvédelmi jogszabályoknak megfelelően kezelni.
 
-(4) A gyermekjogi képviselő e célra létrehozott szervezet keretében működik. A gyermekjogi képviselő jogállására és eljárására vonatkozó részletes szabályokat külön jogszabály rendezi.
+(4) A gyermekjogi képviselőt a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) foglalkoztatja. A gyermekjogi képviselő jogállására és eljárására vonatkozó részletes szabályokat külön jogszabály rendezi.
 
 (5) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző biztosítja, hogy a gyermek és hozzátartozói a gyermekjogi képviselő személyét és a vele való kapcsolat felvételének módját megismerhessék.
 

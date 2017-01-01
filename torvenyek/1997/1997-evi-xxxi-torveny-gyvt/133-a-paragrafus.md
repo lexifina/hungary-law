@@ -22,7 +22,9 @@ b) a területi gyermekvédelmi szakszolgálat által biztosított támogatott k�
 
 (5) Ha az eljárásban közreműködők hibájából merültek fel költségek, azokat az viseli, akinek a költségek felmerülése felróható.
 
-(6) A más szerv eljárásában történő képviseletre kirendelt ügygondnok, eseti gondnok, eseti gyám munkadíját és költségeit – a (11) bekezdésben foglaltak kivételével – a kirendelést kérelmező szerv fizeti meg.
+(6) A más szerv eljárásában történő képviseletre kirendelt eseti gondnok, eseti gyám munkadíját és költségeit – a (11) bekezdésben foglaltak kivételével – a kirendelést kérelmező szerv fizeti meg.
+
+(6a) A közigazgatási hatósági eljárásban kirendelt ügygondnok kivételével a (6) bekezdést megfelelően kell alkalmazni az ügygondnok kirendelésére is.
 
 (7) A gyámhatóság által kiszabott, illetve megállapított eljárási költség és a kapcsolattartás meghiúsítása folytán keletkezett igazolt költségek meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
 

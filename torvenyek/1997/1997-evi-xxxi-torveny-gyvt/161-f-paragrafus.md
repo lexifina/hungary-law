@@ -1,1 +1,1 @@
-161/F. § E törvénynek a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel megállapított 146–151. §-át azok esetében, akik 2011. december 31-én gyermekek napközbeni ellátásában, gyermekek átmeneti gondozásában vagy utógondozói ellátásban részesülnek, a személyi térítési díj soron következő felülvizsgálatakor kell alkalmazni.
+161/F. §

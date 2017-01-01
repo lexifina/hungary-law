@@ -2,7 +2,7 @@
 
 21/B. § (1) Az intézményi gyermekétkeztetést ingyenesen kell biztosítani
 
-a) a bölcsődei ellátásban vagy óvodai nevelésben részesülő gyermek számára, ha
+a) a bölcsődében, mini bölcsődében nyújtott bölcsődei ellátásban vagy óvodai nevelésben részesülő gyermek számára, ha
 
 aa) rendszeres gyermekvédelmi kedvezményben részesül,
 

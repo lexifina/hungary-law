@@ -4,4 +4,4 @@ a) megállapítja a különélő másik szülő szülői felügyeleti jogának f
 
 b) a gyermek családbafogadó gyámjául rendeli azt a hozzátartozót vagy más személyt, akinél a gyermeket ideiglenes hatállyal elhelyezték,
 
-c) gyermekvédelmi gyámot rendel, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el.
+c) gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot rendel, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el.

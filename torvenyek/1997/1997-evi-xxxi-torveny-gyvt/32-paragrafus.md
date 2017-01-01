@@ -1,4 +1,4 @@
-32. § (1) A személyes gondoskodást nyújtó ellátásra irányuló jogviszony keletkezését
+32. § (1) A Biztos Kezdet Gyerekház kivételével a személyes gondoskodást nyújtó ellátásra irányuló jogviszony keletkezését
 
 a) a helyi önkormányzat képviselő-testületének határozata,
 
@@ -30,9 +30,11 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
 
 (6) Nem kell az (5) bekezdés szerint megállapodást kötni
 
-a) gyermekjóléti szolgáltatás esetén,
+a) gyermekjóléti szolgáltatás,
 
-b) – ha a fenntartó döntése alapján a szolgáltatás jellegére tekintettel az nem indokolt – alternatív napközbeni ellátás
+b) – ha a fenntartó döntése alapján a szolgáltatás jellegére tekintettel az nem indokolt – alternatív napközbeni ellátás,
+
+c) Biztos Kezdet Gyerekház
 
 esetén.
 
@@ -58,7 +60,7 @@ a) a gyermekkel együtt ellátásban részesülő személy gyermekgondozással k
 
 b) a szülő nyilatkozatát arról, hogy a gyermekjóléti szolgáltatást nyújtó szolgáltatóval, illetve intézménnyel együttműködik.
 
-(7b) Hálózatba szervezett családi napközi esetén a megállapodás – a (7) bekezdésben foglaltakon túl – tartalmazza, hogy a gyermek a hálózat melyik családi napközijében részesül ellátásban.
+(7b) Hálózatba szervezett családi bölcsőde, napközbeni gyermekfelügyelet esetén a megállapodás – a (7) bekezdésben foglaltakon túl – tartalmazza, hogy a gyermek a hálózat melyik családi bölcsődéjében, napközbeni gyermekfelügyeletében részesül ellátásban.
 
 (7c) Ha a gyermek törvényes képviselője a nevelés-gondozás nélküli munkanapra, illetve a bölcsődei szünet teljes idejére vagy annak egy részére is igényli a bölcsődei ellátást, erre az időszakra az ügyeletet biztosító intézmény az (5) bekezdésben foglaltak szerint megállapodást köt a törvényes képviselővel. Az ügyeletet biztosító intézménnyel kötött megállapodás nem érinti az ügyeleti időszakon kívül bölcsődei ellátást nyújtó intézménnyel kötött megállapodást.
 

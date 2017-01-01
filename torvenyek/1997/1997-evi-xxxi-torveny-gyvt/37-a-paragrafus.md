@@ -1,6 +1,6 @@
 ## Az ellátás megszüntetésének módja
 
-37/A. § (1) Ha e törvény másképp nem rendelkezik, a személyes gondoskodást nyújtó ellátás megszűnik
+37/A. § (1) Ha e törvény másképp nem rendelkezik, a Biztos Kezdet Gyerekház kivételével a személyes gondoskodást nyújtó ellátás megszűnik
 
 a) a határozott idejű elhelyezés esetén a megjelölt időtartam – illetve a meghosszabbított időtartam – leteltével,
 

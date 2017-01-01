@@ -4,7 +4,7 @@
 
 (2a) A speciális, különleges vagy kettős szükségletű gyermeket fogadó lakásotthon speciális vagy különleges lakásotthonként működik.
 
-(3) A különleges, speciális vagy kettős szükségletű gyermek különleges és speciális ellátását, gondozását, habilitációját és rehabilitációját biztosító gyermekotthon eltérő csoportlétszámát a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet határozza meg.
+(3)
 
 (4) Ha a gyermekotthon kizárólag a fiatal felnőttek teljes körű utógondozói ellátását biztosítja, a gyermekotthon utógondozó otthonként működik.
 

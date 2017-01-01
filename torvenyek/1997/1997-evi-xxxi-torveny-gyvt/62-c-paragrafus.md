@@ -4,7 +4,11 @@
 
 (2) Az örökbefogadást a területi gyermekvédelmi szakszolgálat a gyámhatóság által meghatározott időpontig, de legfeljebb öt évig követi után.
 
-(3) Az örökbefogadás utánkövetésére első alkalommal az örökbefogadás engedélyezésének jogerőre emelkedését követő két hónapon belül, azt követően pedig – a rokoni, házastársi örökbefogadás kivételével – az örökbefogadás engedélyezésének jogerőre emelkedését követő egy év múlva kerül sor. Az örökbe fogadó szülő kérelmére a területi gyermekvédelmi szakszolgálat további négy évig biztosíthatja az örökbefogadás utánkövetését.
+(3) Az örökbefogadás utánkövetésére kötelező utánkövetés keretében első alkalommal az örökbefogadás engedélyezésének jogerőre emelkedését követően hat hónap múlva, azt követően pedig – a rokoni, házastársi örökbefogadás kivételével – az örökbefogadás engedélyezésének jogerőre emelkedését követően másfél év múlva kerül sor.
+
+(3a) A területi gyermekvédelmi szakszolgálat az örökbe fogadó szülő kérelmére a kötelező utánkövetés időtartama alatt a (3) bekezdésben meghatározott alkalmakon kívül is bármikor biztosítja az utánkövetést.
+
+(3b) Önkéntes utánkövetés keretében a területi gyermekvédelmi szakszolgálat az örökbe fogadó szülő kérelmére utánkövetést biztosít a kötelező utánkövetés időtartamának letelte után három és fél évig.
 
 (4) A gyermekvédelmi szakszolgáltatás feladata az örökbefogadás utánkövetése keretében
 

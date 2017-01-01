@@ -2,7 +2,7 @@
 
 21/A. § (1) Ha a szülő, törvényes képviselő eltérően nem rendelkezik, az intézményi gyermekétkeztetés keretében a nem bentlakásos intézményben
 
-a) a bölcsődei ellátásban részesülő gyermekek részére az ellátási napokon a reggeli főétkezést, a déli meleg főétkezést, valamint tízórai és uzsonna formájában két kisétkezést,
+a) a bölcsődében, mini bölcsődében bölcsődei ellátásban részesülő gyermekek részére az ellátási napokon a reggeli főétkezést, a déli meleg főétkezést, valamint tízórai és uzsonna formájában két kisétkezést,
 
 b) a gyermekek és a tanulók számára az óvodai nevelési napokon, valamint az iskolai tanítási napokon az óvodában és a nem bentlakásos nevelési-oktatási intézményben a déli meleg főétkezést, valamint tízórai és uzsonna formájában két kisétkezést
 
@@ -14,9 +14,9 @@ kell biztosítani.
 
 a) a települési önkormányzat
 
-aa) az általa fenntartott bölcsődében és óvodában, továbbá
+aa) az általa fenntartott bölcsődében, mini bölcsődében és óvodában, továbbá
 
-ab) a közigazgatási területén az állami intézményfenntartó központ, valamint az állami szakképzési és felnőttképzési szerv (e § alkalmazásában a továbbiakban együtt: köznevelési fenntartó) által fenntartott nem bentlakásos nevelési-oktatási intézményben,
+ab) a közigazgatási területén a tankerületi központ, valamint az állami szakképzési és felnőttképzési szerv (e § alkalmazásában a továbbiakban együtt: köznevelési fenntartó) által fenntartott nem bentlakásos nevelési-oktatási intézményben,
 
 b) az egyházi és a nem állami fenntartó az általa fenntartott nem bentlakásos intézményben,
 

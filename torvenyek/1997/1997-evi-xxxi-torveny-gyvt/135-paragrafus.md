@@ -12,7 +12,7 @@ e) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezet,
 
 f) a gyermekvédelmi szakértői bizottság,
 
-g) a gyermekvédelmi gyám,
+g) a gyermekvédelmi gyám, a helyettes gyermekvédelmi gyám,
 
 h) a pártfogó felügyelői szolgálat, a megelőző pártfogó felügyelő,
 
@@ -38,7 +38,11 @@ ag) büntetlen előéletére, illetve a vele kapcsolatos hatósági, bírósági
 
 ah) kóros szenvedélyére vonatkozó,
 
-ai) áldozattá válásának körülményeire vonatkozó, a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 16. § (2) bekezdés a)–c) pontjában meghatározott;
+ai) áldozattá válásának körülményeire vonatkozó, a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 16. § (2) bekezdés a)–c) pontjában meghatározott,
+
+aj) fényképére, a róla készített mozgóképre vonatkozó,
+
+ak) hátrányos vagy halmozottan hátrányos helyzetére vonatkozó;
 
 b) a szülő, törvényes képviselő, befogadó szülő
 

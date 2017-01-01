@@ -1,6 +1,6 @@
 66. § (1) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekvédelmi szakszolgáltatás
 
-a) 60. § a) pontjában meghatározott feladatait – az elhelyezési javaslat kivételével – a megyei, fővárosi gyermekvédelmi szakértői bizottság útján biztosítja,
+a) 60. § (3) bekezdés a) pontjában meghatározott feladatait a megyei, fővárosi gyermekvédelmi szakértői bizottság útján,
 
 b) a) pontban nem említett feladatait, gyermekvédő intézet vagy más szakszolgáltatást nyújtó intézmény (a továbbiakban együtt: területi gyermekvédelmi szakszolgálat) működtetésével
 
@@ -8,7 +8,7 @@ biztosítja.
 
 (2) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a területi gyermekvédelmi szakszolgáltatás biztosítása érdekében együttműködik a gyermek gondozási helyét fenntartó egyházi, nem állami fenntartóval és az ellátást nyújtó intézménnyel.
 
-(3) A területi gyermekvédelmi szakszolgálat szolgáltatási, szervezési, tanácsadói és szakértői feladatokat végez. Tevékenysége körében a 60–65. §-okban foglaltakon túl
+(3) A területi gyermekvédelmi szakszolgálat szolgáltatási, szervezési, tanácsadói és szakértői feladatokat végez. Tevékenysége körében a 60–63. §-ban foglaltakon túl
 
 a) gyermekvédelmi gyámi, eseti gyámi hálózatot működtet,
 

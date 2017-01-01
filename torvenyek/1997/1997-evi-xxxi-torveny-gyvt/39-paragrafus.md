@@ -1,4 +1,8 @@
+## VI/B. Fejezet
+
 ## Gyermekjóléti szolgáltatás
+
+## A szolgáltatás tartalma
 
 39. § (1) A gyermekjóléti szolgáltatás olyan, a gyermek érdekeit védő speciális személyes szociális szolgáltatás, amely a szociális munka módszereinek és eszközeinek felhasználásával szolgálja a gyermek testi és lelki egészségének, családban történő nevelkedésének elősegítését, a gyermek veszélyeztetettségének megelőzését, a kialakult veszélyeztetettség megszüntetését, illetve a családjából kiemelt gyermek visszahelyezését.
 
@@ -34,7 +38,7 @@ b) a családi konfliktusok megoldásának elősegítése, különösen a válás
 
 c) kezdeményezni
 
-ca) egyéb gyermekjóléti alapellátások igénybevételét,
+ca) egyéb gyermekjóléti alapellátások önkéntes igénybevételét és azt szükség esetén személyes közreműködéssel is segíteni,
 
 cb) szociális alapszolgáltatások igénybevételét,
 

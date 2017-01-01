@@ -1,6 +1,6 @@
 103/B. § (1) A Kormány által erre kijelölt szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről névjegyzéket vezet. A névjegyzékből az e törvény szerint nyilvános adatokon túli adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható.
 
-(2) A névjegyzék tartalmazza – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 26. § (2) bekezdésében, valamint 29. §-ában meghatározottakon túl – a szakértő
+(2) A névjegyzék tartalmazza – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 27. § (2) bekezdésében, valamint 29. §-ában meghatározottakon túl – a szakértő
 
 a) további természetes személyazonosító adatait, értesítési címét, valamint – ha a szakértő hozzájárult a névjegyzékben való szerepeltetéséhez – egyéb elérhetőségét (telefonszám, e-mail cím),
 
@@ -22,7 +22,7 @@ i) szakértői tevékenysége szüneteltetésének, felfüggesztésének időtar
 
 (2a) Az (1) bekezdés szerinti névjegyzék a (2) bekezdés e)–g) és i) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A névjegyzékben szereplő adatokból – szakterületenkénti tagolásban – a Kormány által erre kijelölt szerv a Szolg. tv. 30. § (2) bekezdésében meghatározottakon túl a honlapján közzéteszi a szakértő
+(3) A névjegyzékben szereplő adatokból – szakterületenkénti tagolásban – a Kormány által erre kijelölt szerv a Szolg. tv. 30. § (2) bekezdésében meghatározottakon túl a Szociális Ágazati Portálon közzéteszi a szakértő
 
 a) értesítési címét,
 

@@ -28,7 +28,7 @@ ac) fogyatékosok vagy pszichiátriai betegek otthonát
 
 jelöli ki,
 
-b) a gyermek számára gyermekvédelmi gyámot rendel,
+b) a gyermek számára gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot rendel,
 
 c) hivatalból dönt a szülővel vagy más hozzátartozóval való kapcsolattartás szabályozásáról, vagy arról, hogy a szülő vagy más hozzátartozó nem jogosult kapcsolattartásra,
 

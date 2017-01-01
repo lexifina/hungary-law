@@ -6,7 +6,7 @@ b) az ideiglenes hatállyal elhelyezett gyermek ellátását biztosító nevelő
 
 c)
 
-d) az általa kijelölt, eseti gyámi és gyermekvédelmi gyámi feladatokra kirendelhető személyekről,
+d) az általa kijelölt, eseti gyámi és gyermekvédelmi gyámi, helyettes gyermekvédelmi gyámi feladatokra kirendelhető személyekről,
 
 e) az állami és nem állami fenntartó által működtetett intézményben, illetve nevelőszülőnél ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek, továbbá az utógondozói ellátásban, illetve utógondozásban részesülő fiatal felnőtt gondozási napjairól.
 

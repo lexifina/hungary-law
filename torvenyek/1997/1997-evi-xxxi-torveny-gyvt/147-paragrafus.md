@@ -1,6 +1,6 @@
-147. § (1) A fenntartó megállapítja a 146. § (1) bekezdése szerinti ellátások intézményi térítési díját, ami – a gyermekétkeztetés kivételével – a szolgáltatási önköltség és a központi költségvetésről szóló törvényben biztosított támogatás különbözete. Az intézményi térítési díjat több szolgáltatás és ellátás nyújtása esetében is szolgáltatásonként (ellátásonként) kell meghatározni, a közös költségelemek szolgáltatásonkénti (ellátásonkénti) közvetlen költségeinek arányában történő megosztásával.
+147. § (1) A fenntartó jogszabályban meghatározottak szerint megállapítja a 146. § (1) bekezdése szerinti ellátások intézményi térítési díját, amely – a gyermekétkeztetés kivételével – a szolgáltatási önköltség és a központi költségvetésről szóló törvényben biztosított támogatás különbözete.
 
-(2) A bölcsőde esetében az intézményi térítési díjat külön meg kell határozni a gyermek gondozására, nevelésére, nappali felügyeletére és a vele történő foglalkozásra (a továbbiakban együtt: gondozására), valamint a 151. § (3) bekezdésében foglaltak szerint a gyermekétkeztetésre vonatkozóan.
+(2) A bölcsőde, mini bölcsőde esetében az intézményi térítési díjat külön meg kell határozni a gyermek gondozására, nevelésére, nappali felügyeletére és a vele történő foglalkozásra (a továbbiakban együtt: gondozására), valamint a 151. § (3) bekezdésében foglaltak szerint a gyermekétkeztetésre vonatkozóan.
 
 (3) A szolgáltatási önköltséget a tárgyévre tervezett adatok alapján a tárgyév április elsejéig kell megállapítani. A szolgáltatási önköltség év közben egy alkalommal korrigálható, ha azt a tárgyidőszaki folyamatok indokolják.
 

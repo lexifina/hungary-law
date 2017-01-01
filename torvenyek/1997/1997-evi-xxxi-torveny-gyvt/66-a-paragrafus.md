@@ -4,7 +4,7 @@
 
 66/A. § (1) A nevelőszülői foglalkoztatási jogviszony egyrészről a működtető, másrészről a nevelőszülő, a speciális nevelőszülő vagy a különleges nevelőszülő (a továbbiakban együtt: nevelőszülő) között az ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek otthont nyújtó ellátásának biztosítása céljából, a 66/B. § (1) bekezdése szerinti írásbeli keretmegállapodás alapján, a 66/B. § (3) bekezdésében foglalt időponttól létrejövő foglalkoztatási jogviszony.
 
-(2) A nevelőszülői foglalkoztatási jogviszonyra a munka törvénykönyvéről szóló 2012. évi I. törvényt (a továbbiakban: Mt.) akkor kell alkalmazni, ha azt e törvény előírja.
+(2) A nevelőszülői foglalkoztatási jogviszonyra az Mt.-t akkor kell alkalmazni, ha azt e törvény előírja.
 
 (3) Az Mt. rendelkezéseinek alkalmazása során
 

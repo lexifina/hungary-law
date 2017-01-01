@@ -1,1 +1,1 @@
-161/D. § E törvénynek a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel megállapított 24. § (3) bekezdés b) és c) pontjában és 24. § (4) bekezdésében foglaltakat a 2011. december 31-ét követően indult eljárásokban kell alkalmazni.
+161/D. §

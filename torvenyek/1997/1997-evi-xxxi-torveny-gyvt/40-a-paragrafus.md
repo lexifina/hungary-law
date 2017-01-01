@@ -37,3 +37,13 @@ c) szakmai támogatást nyújt az ellátási területén működő gyermekjólé
 (3) A gyermekjóléti központ a (2) bekezdés a) pont ad) alpontja, valamint a (2) bekezdés b) és c) pontja szerinti feladatainak ellátására a települési önkormányzat egyházi fenntartóval és nem állami fenntartóval ellátási szerződést nem köthet.
 
 (4) A gyermekjóléti központ a (2) bekezdés a) pont aa)–ac) és ae)–af) alpontja szerinti feladata, valamint a szupervízió az Szt. 122/A. §-a szerinti, szolgáltatások intézményen kívüli szervezet által történő ellátásának szabályai szerint is biztosítható.
+
+(5) A család- és gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ a szolgáltatással érintett
+
+a) gyermek tekintetében a Gyvt. 139. § (1) bekezdése szerinti nyilvántartást,
+
+b) nagykorú személy tekintetében az Szt. 20. §-a szerinti nyilvántartást
+
+vezeti.
+
+(6) A 139. § (1) bekezdés szerinti adattartalmú nyilvántartás a változások nyomon követhetőségét biztosító elektronikus úton is vezethető.
