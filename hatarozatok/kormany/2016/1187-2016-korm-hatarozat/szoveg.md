@@ -56,16 +56,20 @@ i) a társadalmi felelősségvállalás területén aktív szerepet vállaló pi
 
 7. A Tanács elnöke, ha valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, a tagokon túl tanácskozási joggal további személyeket hívhat meg.
 
-8. A Tanács működésével kapcsolatos titkársági teendőket a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: Hivatal) látja el.
+8.[^1] A Tanács működésével kapcsolatos titkársági teendőket a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság) látja el.
 
 9. A Tanács szükség szerint, de évente legalább kétszer ülésezik.
 
-10. A Tanács működésének részletes szabályait a tagjai véleményének kikérését követően a Hivatal által előkészített és a Tanács elnöke által elfogadott ügyrend tartalmazza.
+10.[^2] A Tanács működésének részletes szabályait a tagjai véleményének kikérését követően a Főigazgatóság által előkészített és a Tanács elnöke által elfogadott ügyrend tartalmazza.
 
 11. A Tanács tagjai a feladatuk ellátásáért díjazásban nem részesülnek, de jogosultak a tevékenységük során felmerült, számlával igazolt és indokolt szállás-, illetve útiköltségük megtérítésére.
 
-12. A Tanács működésének költségeit a Hivatal költségvetése biztosítja.
+12.[^3] A Tanács működésének költségeit a Főigazgatóság költségvetése biztosítja.
 
 13. Az 5. pont b) alpontja szerinti Kollégiumok a Tanács munkáját segítő, legfeljebb 12-12 tagból álló testületek. A Kollégiumok tagjai az adott szakterületen tevékenykedő, államigazgatáson kívüli szakértő személyek, akiket a miniszter kér fel. A tagok megbízatása visszavonásig szól. A miniszter a tagok megbízatását bármikor, indokolás nélkül visszavonhatja. A Kollégiumok működésének részletes szabályait a Tanács elnöke által elfogadott ügyrend tartalmazza.
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 8. pont az 1853/2016. (XII. 27.) Korm. határozat 76. pontjával megállapított szöveg.
+[^2]: A 10. pont az 1853/2016. (XII. 27.) Korm. határozat 77. pontja szerint módosított szöveg.
+[^3]: A 12. pont az 1853/2016. (XII. 27.) Korm. határozat 77. pontja szerint módosított szöveg.
