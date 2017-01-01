@@ -1,8 +1,0 @@
-## 6. A fás szárú energetikai ültetvények védett természeti területen és Natura 2000 területen történő engedélyezésére és a kötelező növényvédelmi technológia – zárlati károsító elterjedésének megelőzése érdekében, országos jelentőségű védett természeti területen történő – alkalmazásának elrendelésére irányuló eljárásban közreműködő szakhatóságok
-
-23. § (1)[^68] A Kormány a fás szárú energetikai ültetvények védett természeti területen és Natura 2000 területen történő engedélyezése iránti másodfokú eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
-
-(2)[^69] A Kormány a kötelező növényvédelmi technológia – zárlati károsító elterjedésének megelőzése érdekében, országos jelentőségű védett természeti területen történő – alkalmazásának elrendelésére irányuló másodfokú eljárásban, annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki. A szakhatóság állásfoglalását – az eljáró hatóság kérésére – haladéktalanul, de legkésőbb egy munkanapon belül adja meg.
-
-[^68]: A 23. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^69]: A 23. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.

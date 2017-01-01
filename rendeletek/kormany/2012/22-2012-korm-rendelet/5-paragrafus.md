@@ -1,30 +1,5 @@
 ## 5. Kijelölő rendelkezések
 
-5. § (1)[^12] A NÉBIH-et a Kormány
+5–7. §[^16]
 
-a) növénytermesztési hatóságként,
-
-b) talajvédelmi hatóságként,
-
-c) élelmiszerlánc-felügyeleti szervként,
-
-d) tenyésztési hatóságként,
-
-e) erdészeti hatóságként,
-
-f) vadászati hatóságként,
-
-g)[^13] halgazdálkodási hatóságként
-
-h) borászati hatóságként,
-
-i) mezőgazdasági igazgatási szervként,
-
-j) pálinkaellenőrző hatóságként
-
-## jelöli ki.
-
-(2) Az (1) bekezdésben megjelölt egyes hatósági feladatkörökbe tartozó hatáskörök ellátására a Kormány rendelete más szervet is kijelölhet.
-
-[^12]: [Az 5. § (1) bekezdésének a 42/2014. (II. 24.) Korm. rendelet 19. § (5) bekezdés c) pontjával elrendelt módosítása, amely szerint hatályát veszti az „önállóan működő és gazdálkodó” szövegrész, nem vezethető át.]
-[^13]: Az 5. § (1) bekezdés g) pontja a 323/2013. (VIII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^16]: Az 5–7. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés b) pontja hatályon kívül helyezte.
