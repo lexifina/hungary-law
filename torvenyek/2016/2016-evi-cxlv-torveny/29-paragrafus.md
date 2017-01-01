@@ -12,6 +12,6 @@ e) 11. § (2) bekezdésében az „az (1) bekezdés” szövegrész helyébe az 
 
 f) 13. § (1) bekezdésében a „11. § (1) bekezdés szerinti” szövegrész helyébe a „11. § szerinti” szöveg, valamint a „11. § (1) bekezdésben” szövegrész helyébe a „11. §-ban” szöveg,
 
-g) 13. § (3) bekezdésében a „11. § (1) bekezdése szerinti” szövegrész helyébe a „11. § (1) és (1a) bekezdése szerinti” szöveg
+g)
 
 lép.
