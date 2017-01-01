@@ -1,15 +1,25 @@
-## 2. §[^3] A Hivatal első fokú hatósági jogkörében eljárva:
+2. §[^2] (1) Az elbíráló hatóság elsőfokú hatósági jogkörében eljárva:
 
-a) dönt az igazolvány kiadásáról, cseréjéről, pótlásáról, kiadásának megtagadásáról, valamint az igazolvány visszavonásáról,
+a) dönt az igazolvány kiállításáról, cseréjéről, kicseréléséről, pótlásáról, kiállításának megtagadásáról, az igazolvány visszavonásáról és gondoskodik ezen tények nyilvántartásban történő feltüntetéséről,
 
-b) dönt a talált igazolvány visszaadásáról,
+b) dönt a talált igazolvány visszaadásáról és gondoskodik ezen tény nyilvántartásban történő feltüntetéséről,
 
-c) vezeti az igazolvány-nyilvántartást (a továbbiakban: nyilvántartás),
+c) gondoskodik az át nem vett igazolványok őrzéséről, az őrzési idő lejártát követő érvénytelenítéséről és megsemmisítéséről, továbbá ezen tények nyilvántartásban történő átvezetéséről,
 
-d) adatszolgáltatást teljesít a nyilvántartásból,
+d) gondoskodik a tulajdonosának birtokából kikerült (eltulajdonított, elveszett, megsemmisült), illetve a használhatatlanná vált igazolvány, valamint pótfüzet nyilvántartásban történő érvénytelenítéséről,
 
-e) gondoskodik a tulajdonosának birtokából kikerült (eltulajdonított, elveszett, megsemmisült), illetve a használhatatlanná vált igazolvány és/vagy pótfüzet nyilvántartásban történő érvénytelenítéséről,
+e) gondoskodik a tulajdonosának halála miatt érvénytelenné vált igazolvány esetén az okmány érvénytelenítéséről és e tény nyilvántartásban történő feltüntetéséről,
 
-f) őrzi az a)–b) és d)–e) pontokban foglalt eljárások alapiratait.
+f) gondoskodik az érvénytelen igazolványok megsemmisítéséről és ezen ténynek a nyilvántartásban történő feltüntetéséről,
 
-[^3]: A 2. § a 130/2007. (VI. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+g) őrzi az a)–f) pontban foglalt eljárások alapiratait.
+
+(2) A nyilvántartó szerv:
+
+a) vezeti a nyilvántartást,
+
+b) adatszolgáltatást teljesít a nyilvántartásból,
+
+c) őrzi a b) pontban foglalt eljárás alapiratait.
+
+[^2]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 48. § (2) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-17. §[^49]
+17. §[^53]
 
-[^49]: A 17. §-t a 203/2013. (VI. 14.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^53]: A 17. §-t a 203/2013. (VI. 14.) Korm. rendelet 4. §-a hatályon kívül helyezte.

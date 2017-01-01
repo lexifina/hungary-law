@@ -1,6 +1,8 @@
-23. §[^54] E rendeletnek a magyar igazolvány és a magyar hozzátartozói igazolvány kiadásával kapcsolatos eljárásról szóló 318/2001. (XII. 29.) Korm. rendelet módosításáról szóló 373/2012. (XII. 18.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit – az R. hatálybalépését[^55] követően indult eljárásokban kell alkalmazni.
+## 23. §[^59] E rendeletnek a magyar igazolvány és a magyar hozzátartozói igazolvány kiadásával kapcsolatos eljárásról szóló 318/2001. (XII. 29.) Korm. rendelet módosításáról szóló 373/2012. (XII. 18.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit – az R. hatálybalépését[^60] követően indult eljárásokban kell alkalmazni.
 
-Melléklet a 318/2001. (XII. 29.) Korm. rendelethez[^56]
+24. §[^61] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 10/A. § (1) és (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+Melléklet a 318/2001. (XII. 29.) Korm. rendelethez[^62]
 
 A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” kézbesítésében közreműködő fővárosi és megyei kormányhivatalok
 
@@ -34,6 +36,7 @@ A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” 
 
 | 14 | Budapest Főváros Kormányhivatala | Budapest | Jogosultak, a lakóhelyüktől függetlenül |
 
-[^54]: A 23. §-t a 373/2012. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
-[^55]: A hatálybalépés napja: 2013. január 1.
-[^56]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja szerint módosított szöveg.
+[^59]: A 23. §-t a 373/2012. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
+[^60]: A hatálybalépés napja: 2013. január 1.
+[^61]: A 24. §-t a 477/2016. (XII. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^62]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja szerint módosított szöveg.

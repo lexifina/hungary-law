@@ -1,6 +1,5 @@
-1. § (1)[^1] A „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” (a továbbiakban együtt: igazolvány) kiadásával, cseréjével, visszavonásával és nyilvántartásával összefüggő hatósági ügyben, az erre jogosult központi közigazgatási szervként a Kormány a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: Hivatal) jelöli ki.
+1. §[^1] (1) A „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány”, továbbá önálló mellékletei (a továbbiakban együtt: igazolvány) kiállításával, cseréjével, visszavonásával összefüggő hatósági ügyben központi közigazgatási szervként a Kormány Budapest Főváros Kormányhivatalát (a továbbiakban: elbíráló hatóság) jelöli ki.
 
-(2)[^2]
+(2) Az igazolvány nyilvántartásával (a továbbiakban: nyilvántartás) összefüggő hatósági ügyben központi közigazgatási szervként a Kormány az e-közigazgatásért felelős minisztert (a továbbiakban: nyilvántartó szerv) jelöli ki.
 
-[^1]: Az 1. § (1) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének a) pontja, a 130/2007. (VI. 12.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdését a 276/2006. (XII. 23.) Korm. rendelet 18. § (1) bekezdésének g) pontja hatályon kívül helyezte.
+[^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
