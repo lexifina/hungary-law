@@ -1,4 +1,4 @@
-3. §[^1] (1) Az adatszolgáltató az adatszolgáltatások teljesítésében való technikai akadályoztatásával kapcsolatos bejelentését elektronikus formában, az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül nyújtja be az MNB részére.
+3. §[^2] (1) Az adatszolgáltató az adatszolgáltatások teljesítésében való technikai akadályoztatásával kapcsolatos bejelentését elektronikus formában, az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül nyújtja be az MNB részére.
 
 (2) Az akadályoztatás technikai oka lehet különösen
 
@@ -26,4 +26,4 @@ c) felhasználó: az adatszolgáltató nevében eljáró természetes személy;
 
 d) üzemzavar: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 172. § n) pontjában meghatározott fogalom.
 
-[^1]: A 3. § a 46/2016. (XI. 25.) MNB rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § a 46/2016. (XI. 25.) MNB rendelet 1. §-ával megállapított szöveg.
