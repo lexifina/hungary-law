@@ -16,4 +16,8 @@ f) a beruházásnak a régiós munkaerőpiacra gyakorolt pozitív hatása,
 
 g) a beruházás milyen arányban igényel szakképzett és felsőfokú végzettségű munkavállalókat, valamint
 
-h) a beruházó közvetlenül vagy kapcsolt vállalkozása útján, szerződés alapján együttműködik a kezelő szervvel egy hatékony, erős, versenyképes, világpiaci igényeknek megfelelni képes magyarországi beszállítói háttéripar kifejlesztésében.
+h) a beruházó közvetlenül vagy kapcsolt vállalkozása útján, szerződés alapján együttműködik a kezelő szervvel egy hatékony, erős, versenyképes, világpiaci igényeknek megfelelni képes magyarországi beszállítói háttéripar kifejlesztésében,
+
+i)[^26] K+F projektek esetén a vállalkozás eddigi magyarországi kutatás-fejlesztési és innovációs tevékenységét, továbbá a meglévő valamint a beruházás kapcsán létesíteni vállalt, a hazai kutatás-fejlesztési intézményekkel, illetve felsőoktatási intézményekkel megvalósuló együttműködéseit.
+
+[^26]: A 10. § i) pontját a 426/2016. (XII. 15.) Korm. rendelet 7. §-a iktatta be.

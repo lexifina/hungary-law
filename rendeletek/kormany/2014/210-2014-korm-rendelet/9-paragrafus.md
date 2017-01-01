@@ -1,10 +1,10 @@
 ## 7. A támogatás célja
 
-9. § (1)[^8] A támogatás a következő célokra vehető igénybe:
+9. § (1)[^24] A 2 . § (1) bekezdés a) és c) pontjában meghatározott támogatás a következő célokra vehető igénybe:
 
 a) induló beruházás megvalósítása – a beruházó méretétől függetlenül –,
 
-aa) ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a Fejér, Komárom-Esztergom és Győr-Moson-Sopron megyében a 20 millió eurónak megfelelő forintösszeget,
+aa) ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a Fejér, Komárom- Esztergom és Győr-Moson-Sopron megyében a 20 millió eurónak megfelelő forintösszeget,
 
 ab) ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri az Észak-Magyarország, Észak-Alföld, Dél-Alföld és Dél-Dunántúl tervezési-statisztikai régióban, valamint Vas, Veszprém és Zala megyében a 10 millió eurónak megfelelő forintösszeget,
 
@@ -20,10 +20,15 @@ e) munkahelyteremtési célú induló beruházás kis- és középvállalkozás 
 
 f) munkahelyteremtési célú, új gazdasági tevékenység végzésére irányuló induló beruházás nagyvállalkozás által történő megvalósítása az Atr. 25. § (1) bekezdés d) pont da)–db) alpontjában meghatározott területen, ha a beruházás 20. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a 10 millió eurónak megfelelő forintösszeget vagy ha a beruházás – az elszámolható költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai állományi létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő mértékben a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más támogatási szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri az 50-et, feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;
 
-g) ha az új gazdasági tevékenység végzésére irányuló induló beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri az Észak-Magyarország, az Észak-Alföld, a Dél-Alföld és a Dél-Dunántúl tervezési-statisztikai régióban, valamint Vas, Veszprém és Zala megyében az 5 millió eurónak megfelelő forintösszeget, és az újonnan létesített munkahelyek száma eléri a 100-at.
+g) ha az induló beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a Békés, a Nógrád és a Szabolcs-Szatmár-Bereg megyékben az 5 millió eurónak megfelelő forintösszeget, és az újonnan létesített munkahelyek száma eléri az 50-et;
+
+h) új létesítmény létrehozatalára vagy létesítmény felvásárlására irányuló induló beruházás kivételével olyan induló beruházás Magyarországon a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszáma alapján legalább kettőszázötven főt foglalkoztató nagyvállalkozásnak minősülő egyetlen jogi személy által történő megvalósítása az Atr. 25. § (1) bekezdés a)–c) pontjaiban, valamint új gazdasági tevékenység végzésére irányuló induló beruházás az Atr. 25. § (1) bekezdés d) pont da)–db) alpontjában meghatározott területen, amelynek 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a 30 millió eurónak megfelelő forintösszeget a beruházás megkezdésétől számított legfeljebb három éven belül (technológia-intenzív beruházás).
+
+(1a)[^25] A nagyvállalkozásnak minősülő beruházó kutatás-fejlesztési projektje vagy projektjei esetén támogatás abban az esetben vehető igénybe, ha a beruházó kutatás-fejlesztési projektje vagy projektjei 17. § (3) bekezdés szerinti elszámolható költségeinek összege folyó áron számolva eléri a 3 millió eurónak megfelelő forintösszeget, és az újonnan létesített kutatás-fejlesztési munkahelyek száma eléri a 25-öt, azzal, hogy az újonnan létesített kutatás-fejlesztési munkahelyek számának legalább hetvenöt százaléka felsőfokú végzettséggel rendelkezik.
 
 (2) Az elszámolható költségek e §-ban meghatározott nagysága a támogatási kérelem benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett devizaárfolyam alapján számítandó.
 
 (3) Egy vállalkozásban történő részesedésszerzés önmagában nem minősül beruházásnak.
 
-[^8]: A 9. § (1) bekezdése a 477/2015. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 9. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^25]: A 9. § (1a) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 5. § (2) bekezdése iktatta be.

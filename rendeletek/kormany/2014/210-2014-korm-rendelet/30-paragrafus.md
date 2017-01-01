@@ -1,9 +1,14 @@
-## 29. § E rendelet alapján támogatási döntést az általános csoportmentességi rendelet 59. cikkének második mondatában meghatározott időpontig lehet hozni.
+## 29/A. §[^56] E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 426/2016. (XII. 15.) Korm. rendelettel megállapított rendelkezéseit a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 426/2016. (XII. 15.) Korm. rendelet hatálybalépését követően benyújtott támogatási kérelemmel indult eljárásokban kell alkalmazni.
 
 ## 18. Az Európai Unió jogának való megfelelés
 
-## 30. § E rendelet
+## 30. §[^57] E rendelet
 
-a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 06. 26., 1. o.) 14. cikke szerinti, továbbá
+a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 06. 26., 1. o.) 14. és 25. cikke szerinti, továbbá
 
 b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzetes egyedi bejelentési kötelezettség alá eső, a Szerződés 107. cikk (3) bekezdés a) és c) pontja szerinti
+
+regionális beruházási, illetve kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
+
+[^56]: A 29/A. §-t a 426/2016. (XII. 15.) Korm. rendelet 24. §-a iktatta be.
+[^57]: A 30. § a 426/2016. (XII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.

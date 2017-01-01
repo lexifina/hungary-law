@@ -1,4 +1,4 @@
-8. § (1)[^7] Az Ávr. 81. §-ában meghatározottakon kívül e rendelet alapján nem nyújtható támogatás
+8. § (1)[^22] Az Ávr. 81. §-ában meghatározottakon kívül e rendelet alapján nem nyújtható támogatás
 
 a) acélipari tevékenységhez;
 
@@ -12,35 +12,37 @@ e) az ellenszolgáltatás fejében végzett légi, tengeri, közúti, vasúti é
 
 f) elsődleges mezőgazdasági termeléshez;
 
-g) a mezőgazdasági termékek nem élelmiszer célú feldolgozásához;
+g) mezőgazdasági termék feldolgozásához, ha
 
-h) élelmiszer feldolgozáshoz, ha az mezőgazdasági termék feldolgozásának is minősül és
+ga) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre,
 
-ha) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre,
+gb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ;
 
-hb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ;
+h) az 1379/2013/EU rendelet hatálya alá tartozó halászati és akvakultúra-ágazatban történő beruházáshoz;
 
-i) az 1379/2013/EU rendelet hatálya alá tartozó halászati és akvakultúra-ágazatban történő beruházáshoz;
+i) energiatermelést, energiaszolgáltatást, valamint az energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz;
 
-j) energiatermelést, energiaszolgáltatást, valamint az energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz;
+j) kereskedelmi tevékenységhez;
 
-k) kereskedelmi tevékenységhez;
+k) koncesszióköteles körbe tartozó tevékenységet megvalósító beruházáshoz;
 
-l) koncesszióköteles körbe tartozó tevékenységet megvalósító beruházáshoz;
+l) turisztikai tevékenységre irányuló beruházáshoz;
 
-m) turisztikai tevékenységre irányuló beruházáshoz;
+m) szélessávú infrastruktúra kiépítését szolgáló beruházáshoz;
 
-n) szélessávú internetszolgáltatást szolgáló beruházáshoz;
+n) kutatási infrastruktúrához;
 
-o) kutatási infrastruktúrához;
+o) exporttal kapcsolatos tevékenységekhez, nevezetesen az exportált mennyiségekhez közvetlenül kapcsolódóan; értékesítési hálózat kialakításával és működtetésével, vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokkal kapcsolatban;
 
-p) exporttal kapcsolatos tevékenységekhez, nevezetesen az exportált mennyiségekhez közvetlenül kapcsolódóan; értékesítési hálózat kialakításával és működtetésével, vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokkal kapcsolatban;
+p) az import áruk és szolgáltatások helyett hazai áru vagy szolgáltatás használatától függő támogatásként;
 
-q) az import áruk és szolgáltatások helyett hazai áru vagy szolgáltatás használatától függő támogatásként;
+q) olyan támogatásként, amelynek feltétele, hogy a kedvezményezett belföldön előállított termékeket, illetve belföldi szolgáltatásokat vegyen igénybe;
 
-r) olyan támogatásként, amelynek feltétele, hogy a kedvezményezett belföldön előállított termékeket, illetve belföldi szolgáltatásokat vegyen igénybe;
+r) olyan támogatásként, amely korlátozza a kedvezményezett azon lehetőségét, hogy a kutatás-fejlesztés és innováció eredményeit más tagállamokban hasznosítsa;
 
-s) olyan támogatásként, amely korlátozza a kedvezményezett azon lehetőségét, hogy a kutatás-fejlesztés és innováció eredményeit más tagállamokban hasznosítsa.
+s) alapkutatáshoz;
+
+t) az általános csoportmentességi rendelet 1. cikke (3) bekezdésének d) pontjában kizárt ágazathoz, és olyan feltétellel amely az általános csoportmentességi rendelet 1. cikkének (5) bekezdésébe ütközik.
 
 (2) E rendelet alapján nem nyújtható továbbá támogatás
 
@@ -50,7 +52,7 @@ b) azon vállalkozás részére, amelynek lejárt esedékességű, 60 napot megh
 
 c) azon vállalkozás részére, amely esetében a közigazgatási hatóság határozatával vagy annak bírósági felülvizsgálata esetén a bíróság munkavállalók bejelentés nélküli vagy munkavállalási engedély nélküli foglalkoztatását a támogatási kérelem benyújtását megelőző 2 naptári éven belül jogerősen megállapította vagy annak megállapítására irányuló eljárás a támogatási kérelem benyújtásakor folyamatban van,
 
-d) annak a vállalkozásnak, amelyik a beruházást, vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a támogatás odaítélésének időpontjában nem per- és igénymentes, kivéve, ha a támogatást kérelmező az igényjogosultja, vagy az igény a beruházás érdekében jött létre, továbbá kivéve, ha az ingatlant a helyi önkormányzat javára bejegyzett vételi jog vagy visszavásárlási jog terheli, ha azok gyakorlására a helyi önkormányzat csak azzal a feltétellel jogosult, ha a beruházás meghiúsult,
+d)[^23] annak a vállalkozásnak, amelyik a beruházást, vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a támogatás odaítélésének időpontjában nem per- és igénymentes, kivéve, ha a támogatást kérelmező, vagy valamely állami támogatás okán a támogatást nyújtó költségvetési szerv az igény jogosultja, vagy az igény a beruházás érdekében jött létre, továbbá kivéve, ha az ingatlant a helyi önkormányzat javára bejegyzett vételi jog vagy visszavásárlási jog terheli, ha azok gyakorlására a helyi önkormányzat csak azzal a feltétellel jogosult, ha a beruházás meghiúsult, minden esetben azzal, hogy a támogató az igény fennállásához a támogatási szerződésben vagy annak hatálya alatt előzetesen hozzájárul. Ez utóbbi hozzájárulás esetén az Ávr. 102. §-ának foglalkoztatási, szolgáltatási és egyéb kötelezettségek átvállalására, átruházására vonatkozó rendelkezések nem alkalmazandók.
 
 e) annak a vállalkozásnak, amelyik a beruházást vagy a fejlesztést olyan bérelt vagy lízingelt ingatlanon kívánja megvalósítani, amely esetében a bérleti, illetve a lízing szerződés kizárólagos joggal nem biztosítja a támogatással megvalósuló létesítmény üzemeltetésének lehetőségét legalább a kötelező üzemeltetési időszak idejére, vagy a befektető nem vállalja, hogy bérleti, illetve a lízing szerződés lejárta előtt a fenti feltételeknek megfelelő helyszín rendelkezésre állását igazolja,
 
@@ -58,4 +60,5 @@ f) olyan vállalkozásnak, vagy olyan vállalkozás kapcsolt vállalkozásának,
 
 g) olyan beruházáshoz, amely bármely más vissza nem térítendő pénzbeli támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
 
-[^7]: A 8. § (1) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 82. § 1. pontja szerint módosított szöveg.
+[^22]: A 8. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^23]: A 8. § (2) bekezdés d) pontja a 426/2016. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

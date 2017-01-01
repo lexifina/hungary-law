@@ -1,4 +1,4 @@
-26. § (1) Ha a beruházás nem, vagy csak részben a támogatási szerződésben foglaltak szerint valósul meg, a támogató e rendeletben vagy a támogatási szerződésben meghatározottak szerint jogosult a támogatási szerződéstől elállni vagy a támogatás részleges vagy teljes visszafizetését elrendelni, és szükség esetén, a beruházó visszafizetésre irányuló eredménytelen felszólítását követően a támogatási szerződés szerinti biztosítékokat érvényesíteni.
+26. § (1)[^52] Ha a beruházás nem, vagy csak részben a támogatási szerződésben foglaltak szerint valósul meg, illetve ha a kutatás-fejlesztési projektek elszámolható költsége az első támogatásban részesülő kutatás-fejlesztési projekt megkezdését követő – a beruházó választása szerint – legalább egy, de legfeljebb három év alatt nem éri el a 9. § (1a) bekezdésében foglalt legkisebb mértéket, vagy az újonnan létesített kutatás-fejlesztési munkahelyek legkisebb számát, a támogató e rendeletben vagy a támogatási szerződésben meghatározottak szerint jogosult a támogatási szerződéstől elállni vagy a támogatás részleges vagy teljes visszafizetését elrendelni, és szükség esetén, a beruházó visszafizetésre irányuló eredménytelen felszólítását követően a támogatási szerződés szerinti biztosítékokat érvényesíteni.
 
 (2) A támogató eláll a támogatási szerződéstől, ha
 
@@ -16,6 +16,7 @@ e) a beruházó a támogatási szerződésben számszerűen rögzített, a 14. �
 
 (4) A beruházó a támogatási szerződéstől annak hatálya alatt bármikor indokolás nélkül elállhat, azonban köteles ebben az esetben visszafizetni a támogatónak a számára folyósított támogatás összegét a jogszabályban vagy a támogatási szerződésben meghatározott kamattal növelve.
 
-(5)[^25]
+(5)[^53]
 
-[^25]: A 26. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 83. §-a hatályon kívül helyezte.
+[^52]: A 26. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^53]: A 26. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 83. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-18. § (1)[^15] A 9. § (1) bekezdés a)–c) és g) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
+18. § (1)[^39] A 9. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
 
-(2) Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén
+(2)[^40] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe
 
 a) a beruházó saját maga által előállított, forgalmazott eszköz, szoftver, saját maga által nyújtott szolgáltatás, saját maga által forgalmazott rendszer bevezetésének költségei, kivéve, ha ilyen eszköz előállítására kizárólag a beruházó képes és az eszköz elszámolása során olyan értéket alkalmaz, amely megfelel annak a piaci vételárnak, amelyet független harmadik felek egymás között alkalmaznának,
 
@@ -16,7 +16,7 @@ f) eszközök leszerelési költsége,
 
 g) olyan tárgyi eszköz bekerülési értéke, amelyet a beruházó csődeljárás vagy felszámolás alatt álló társaságtól, vagy végrehajtási eljárás alatt álló magánszemélytől szerzett be,
 
-h)[^16] azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak, továbbá a százezer forint, vagy annál kisebb bekerülési értékű tárgyi eszközök,
+h) azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak, továbbá a százezer forint, vagy annál kisebb bekerülési értékű tárgyi eszközök,
 
 i) készletek beszerzésének költségei,
 
@@ -32,25 +32,25 @@ n) az elhasználódott tárgyi eszköz eredeti állaga helyreállítását szolg
 
 o) azok az eszközök, amelyek a beruházó által már használt tárgyi eszközöket, támogatható immateriális javakat váltják ki anélkül, hogy a kiváltás a meglévő létesítmény kapacitásának bővítését, a létesítmény termékpalettájának a létesítményben addig nem gyártott termékekkel, szolgáltatással történő bővítését, vagy a termelési, szolgáltatási folyamat alapvető változását eredményezi,
 
-p) garanciavállalási díj,
+p) vissz-lízingelt eszközök költségei,
 
-q) franchise díj,
+q) hitelfelvétellel kapcsolatos díjak, garanciavállalási díj, jelzálog, egyéb biztosítéknyújtáshoz kapcsolódó költségek,
 
-r) adótanácsadás és könyvelés díja,
+r) franchise díj,
 
-s) biztosítéknyújtáshoz kapcsolódó költségek,
+s) adótanácsadás és könyvelés díja,
 
-t) jelzálog, banki garancia költségei,
+t) adók, illetékek, egyéb hatósági, közigazgatási díjak,
 
-u)[^17] kamatráfordítások, valamint árfolyamveszteségek,
+u) kamatráfordítások, valamint árfolyamveszteségek,
 
-v)[^18] működési költségek, ide nem értve a fedezetkezelői bankszámla vezetésének díját,
+v) működési költségek, ide nem értve a fedezetkezelői bankszámla vezetésének díját,
 
-x) reprezentációs költségek,
+w) reprezentációs költségek,
 
-y) jogszabály frissítési díj,
+x) jogszabály frissítési díj,
 
-z) fordítási költségek.
+y) fordítási költségek.
 
 (3) A földterület, a telek, az épületek és az egyéb eszközök lízingbe vételével kapcsolatos költségek abban az esetben számolhatóak el, ha a lízingügylet zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízing időtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, amely határidő azonban nem lehet későbbi, mint a beruházás befejezésének dátuma.
 
@@ -72,13 +72,21 @@ d) a nagyvállalkozások részére nyújtott támogatás esetén legalább 5 év
 
 e) nagyvállalkozások esetén az immateriális javak az elszámolható költségek maximum 50%-át tehetik ki.
 
-(6) A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
+(6)[^41] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
-a) a beruházó a támogatásban részesült telephelyen vagy ugyanazon régióban lévő telephelyen működő vállalkozásnál a beruházóval kötött beszállítói szerződés birtokában használhatja fel,
+a) a beruházó a támogatásban részesült telephelyen működő vállalkozásnál a beruházóval kötött beszállítói szerződés birtokában használhatja fel,
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet.
 
-[^15]: A 18. § (1) bekezdése a 477/2015. (XII. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^16]: A 18. § (2) bekezdés h) pontja a 477/2015. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^17]: A 18. § (2) bekezdés u) pontja a 477/2015. (XII. 29.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^18]: A 18. § (2) bekezdés v) pontja a 477/2015. (XII. 29.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+(7)[^42] Technológia-intenzív beruházás támogatása esetén
+
+a) a földterület, a telek és az épület költsége, valamint a földterület, a telek vagy az épület bérleti díja együttesen az elszámolható költségek maximum 25%-át,
+
+b) az immateriális javak az elszámolható költségek maximum 15%-át
+
+tehetik ki.
+
+[^39]: A 18. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^40]: A 18. § (2) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^41]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^42]: A 18. § (7) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 16. § (4) bekezdése iktatta be.
