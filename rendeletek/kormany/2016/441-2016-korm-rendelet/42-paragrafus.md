@@ -1,0 +1,3 @@
+## 41. § A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet (a továbbiakban: Var.) 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A veszélyességi övezetben a 7. melléklet 2.2. pontjához tartozó táblázatban szereplő fejlesztések esetében az engedélyezési eljárás során az állásfoglalás kialakítására a polgármester kezdeményezésére a hatóság bizottságot hoz létre a környezetvédelmi, természetvédelmi, népegészségügyi, valamint bányászati hatáskörében eljáró fővárosi és megyei kormányhivatal, vízvédelmi hatóság, vízügyi hatóság, továbbá a fejlesztéssel érintett települési önkormányzat képviselőiből. A veszélyes anyagokkal foglalkozó üzem és a fejlesztő képviselője a bizottság ülésén részt vehet.”

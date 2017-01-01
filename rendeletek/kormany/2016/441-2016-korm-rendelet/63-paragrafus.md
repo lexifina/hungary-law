@@ -1,4 +1,4 @@
-## 62. §[^22]
+## 62. §[^17]
 
 ## 23. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1–6. §, a 24–45. §, a 47–50. § és az 1–3. melléklet, az 5. és 6. melléklet 2017. január 1-jén lép hatályba.
 
-[^22]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

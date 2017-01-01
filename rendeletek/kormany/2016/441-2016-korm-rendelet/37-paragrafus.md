@@ -1,0 +1,1 @@
+## „(6) A telephely biztonsági tanúsítvány, az egyszerűsített telephely biztonsági tanúsítvány, valamint egyéni vállalkozó esetén a személyi biztonsági tanúsítvány meglétéről a minősített adatot átadó szerv vezetője a minősített adat átadása előtt igazolás kiállítását kéri az NBF-től.”

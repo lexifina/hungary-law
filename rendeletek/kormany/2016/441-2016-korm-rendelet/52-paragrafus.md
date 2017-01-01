@@ -1,4 +1,4 @@
-## 51. §[^17]
+## 51. §[^12]
 
 ## 18. Az egyes európai uniós jogi aktusokban rögzített bűnügyi, illetve rendészeti
 
@@ -6,4 +6,4 @@
 
 ## 113/2014. (IV. 3.) Korm. rendelet módosítása
 
-[^17]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,0 +1,3 @@
+## 48. § A Hvkr. 38. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha kormányrendelet ettől eltérően nem rendelkezik, a boncolás helyéről a holttest temetőbe, temetkezési emlékhelynek minősülő helyre, hamvasztóüzembe, valamint a temetkezési szolgáltató telephelyére történő szállításának, továbbá – az (1) bekezdésben foglalt időpontot követően – tárolásának és hűtésének költségeit az eltemettetésre kötelezett viseli. Az egészségügyi intézményben az (1) bekezdésben foglalt időponttól történő hűtés költségeit az egészségügyi szolgáltató az eltemettetésre kötelezett személytől és a nevében eljáró temetkezési szolgáltatótól egyetemlegesen követelheti.”
