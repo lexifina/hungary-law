@@ -22,6 +22,6 @@ h) egyéb bevételek, ideértve a kezelő szerv által beszedett nevezési díj 
 
 (4) Költségvetési támogatás felhasználását a miniszter e törvényben foglaltaktól eltérően szabályozhatja.
 
-(5) Az Alap, valamint a kezelő szervének bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+(5) Az Alap bevétele és év végi maradványa, valamint kezelő szervének az Alap kezelésével összefüggő bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
 
 (6)
