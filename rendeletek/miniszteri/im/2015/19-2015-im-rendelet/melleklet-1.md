@@ -4,16 +4,19 @@
 
 1. Az ARE nyilvántartásból az Are. tv. 16. § (5) bekezdés szerinti adatigénylés díja 5000 Ft.
 
-2. Az Are. tv. 16. § (7) bekezdés szerinti papír alapú tanúsítvány díja
+2.[^11] Az Are. tv. 16. § (7) bekezdés a) pontja szerinti tanúsítvány díja
 
-a) egyedi adatokat tartalmazó tanúsítvány esetén: 6600 Ft/db,
+a) elektronikus dokumentumként szolgáltatott hiteles tanúsítványként 3600 Ft,
 
-b) teljes adatigénylést tartalmazó tanúsítvány esetén: 10 000 Ft/db.
+b) papíralapú dokumentumként szolgáltatott hiteles tanúsítványként 6600 Ft.
 
-3. Az Are. tv. 16. § (7) bekezdés szerinti elektronikus dokumentumként szolgáltatott hiteles tanúsítvány díja
+3.[^12] Az Are. tv. 16. § (7) bekezdés b) pontja szerinti tanúsítvány díja
 
-a) egyedi adatokat tartalmazó tanúsítvány esetén: 3600 Ft/db,
+a) elektronikus dokumentumként szolgáltatott hiteles tanúsítványként 6000 Ft,
 
-b) teljes adatigénylést tartalmazó tanúsítvány esetén: 6000 Ft/db.
+b) papíralapú dokumentumként szolgáltatott hiteles tanúsítványként 10 000 Ft.
 
 4. Az Are. tv. 16. § (8) bekezdés szerinti okiratmásolat díja 120 Ft/oldal.
+
+[^11]: Az 1. melléklet 2. pontja a 26/2016. (XII. 27.) IM rendelet 23. § (6) bekezdésével megállapított szöveg.
+[^12]: Az 1. melléklet 3. pontja a 26/2016. (XII. 27.) IM rendelet 23. § (6) bekezdésével megállapított szöveg.
