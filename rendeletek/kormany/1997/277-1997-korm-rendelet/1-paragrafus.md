@@ -28,16 +28,17 @@ a) a továbbképzési program és a beiskolázási terv, valamint a pedagógiai 
 
 b) a továbbképzési program és a beiskolázási terv végrehajtásának törvényességét és
 
-c) ha a nevelési-oktatási intézményt nem az állami intézményfenntartó központ (a továbbiakban: központ) tartja fenn, a költségvetés terhére vonatkozó kötelezettségvállalás szabályainak megtartását.
+c)[^6] ha a nevelési-oktatási intézményt nem a tankerületi központ tartja fenn, a költségvetés terhére vonatkozó kötelezettségvállalás szabályainak megtartását.
 
-(9)[^6]
+(9)[^7]
 
-(10)[^7] A nevelési-oktatási intézmény nevelőtestülete az új továbbképzési program elkészítése előtt értékeli az előző továbbképzési időszakot, a továbbképzési programjának időarányos végrehajtását. Az értékelést megküldi a fenntartónak.
+(10)[^8] A nevelési-oktatási intézmény nevelőtestülete az új továbbképzési program elkészítése előtt értékeli az előző továbbképzési időszakot, a továbbképzési programjának időarányos végrehajtását. Az értékelést megküldi a fenntartónak.
 
 [^1]: Az 1. § (1) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
 [^4]: Az 1. § (7) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (8) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (9) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
-[^7]: Az 1. § (10) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: Az 1. § (8) bekezdés c) pontja a 486/2016. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (9) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (10) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
