@@ -1,3 +1,3 @@
-## 15–21. §[^9]
+## 21. § Az R3. a következő 19/B. §-sal egészül ki:
 
-[^9]: A 15–21. § a 2. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## „19/B. § A Mezőkovácsházai járás mint feladatellátási terület 2017. február 1-jével a Gyulai Tankerületi Központtól a Békéscsabai Tankerületi Központhoz kerül.”

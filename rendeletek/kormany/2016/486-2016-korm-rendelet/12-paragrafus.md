@@ -1,3 +1,3 @@
-## 11. §[^3]
+## 11. §[^1]
 
-[^3]: A 11. § a 2. § (3) bekezdése alapján 2017. január 2-án lép hatályba.
+[^1]: A 11. § a 2. § (3) bekezdése alapján 2017. január 2-án lép hatályba.
