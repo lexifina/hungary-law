@@ -1,4 +1,4 @@
-## 1. § A 2012. január 1-jét megelőzően létrehozott fogyasztói csoportot (a továbbiakban: fogyasztói csoport) működtető vállalkozás köteles tevékenységének folytatását a Nemzeti Fogyasztóvédelmi Hatóságnak (a továbbiakban: hatóság) – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény rendelkezéseinek megfelelően – 2014. január 31. napjáig bejelenteni.
+## 1. §[^1] A 2012. január 1-jét megelőzően létrehozott fogyasztói csoportot (a továbbiakban: fogyasztói csoport) működtető vállalkozás köteles tevékenységének folytatását a fogyasztóvédelmi hatóságnak (a továbbiakban: hatóság) – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény rendelkezéseinek megfelelően – 2014. január 31. napjáig bejelenteni.
 
 2. § (1) A fogyasztói csoportot működtető vállalkozás az 1. § szerinti bejelentéssel egyidejűleg a hatóság részére elektronikus úton megküldi
 
@@ -15,3 +15,5 @@ e) a fogyasztói csoport megalakulása óta a meghatározott dolog tulajdonjogá
 f) a szerződés megszüntetésére irányuló felmondások számát.
 
 (2) A fogyasztói csoportot működtető vállalkozás az (1) bekezdésben meghatározott adatokban bekövetkezett változásokról a változást követő harminc napon belül elektronikus úton tájékoztatja a hatóságot.
+
+[^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 260. §-a szerint módosított szöveg.
