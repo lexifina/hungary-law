@@ -56,7 +56,7 @@
 
 ## j) Amennyiben a betárolás fogadógarat segítségével történik, úgy a fogadógaratot csapadék ellen megfelelő védelemmel kell ellátni.
 
-5. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^31]
+5. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^54]
 
 A tárolásra feljogosító hatósági szerződéskötés feltételei
 
@@ -66,17 +66,17 @@ a) A tárolásra felajánlott létesítményeknek raktár-regisztrációs igazol
 
 b) A raktározó nem állhat csőd-, felszámolási, végelszámolási eljárás – természetes személy esetében végrehajtási eljárás – alatt.
 
-c) A kérelem benyújtását megelőzően indított – korábbi intervenciós tároláshoz kapcsolódó – veszteségkezelési eljárás kapcsán az MVH-val szemben fennálló kötelezettségeinek eleget tett.
+c)[^55] A kérelem benyújtását megelőzően indított – korábbi intervenciós tároláshoz kapcsolódó – veszteségkezelési eljárás kapcsán a Kincstárral szemben fennálló kötelezettségeinek eleget tett.
 
 d) A kérelem benyújtásának időszakában az ingatlan az üzemeltető saját tulajdonát képezze, per- és igénymentes legyen vagy bérbeadás esetén legalább egy éves felmondási időt biztosító bérleti szerződéssel rendelkezzen az üzemeltető.
 
-e) A hatósági szerződés megkötéséhez az alábbi dokumentumokat mellékeli (amennyiben az az MVH-nál nem áll rendelkezésre):
+e)[^56] A hatósági szerződés megkötéséhez az alábbi dokumentumokat mellékeli (amennyiben az a Kincstárnál nem áll rendelkezésre):
 
 ea) gazdasági társaság esetében 30 napnál nem régebbi keltezésű cégkivonatot vagy annak másolatát, egyéni vállalkozók esetében a vállalkozói igazolvány másolatát;
 
 eb) az ingatlan 30 napnál nem régebbi tulajdoni lapjának másolatát;
 
-ec)[^32] a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
+ec)[^57] a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
 
 ed) a részvételi kérelmet aláíró cégképviseletre jogosult személy aláírási címpéldányának másolati példányát;
 
@@ -92,7 +92,7 @@ f) Az üzemeltető vállalkozás utolsó két évre vonatkozó beszámolói alap
 
 g) Nem rendelkezik a kérelem benyújtását megelőző három naptári éven belül kötött azonnali hatályú felmondással megszüntetett intervenciós raktárszerződéssel.
 
-h)[^33] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+h)[^58] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
 
 II. Raktár túlkínálat esetén a kiválasztás során előnyt jelent, ha:
 
@@ -116,6 +116,8 @@ i) a törzstőke és az alaptőke mértéke fedezi az összes tárolható készl
 
 j) a hídmérleg a telepen belül saját tulajdonban van.
 
-[^31]: Az 5. számú mellékletet a 100/2011. (XI. 5.) VM rendelet 9. § (3) bekezdése iktatta be.
-[^32]: Az 5. melléklet I. cím e) pont ec) alpontja a 151/2012. (XII. 29.) VM rendelet 36. §-a szerint módosított szöveg.
-[^33]: Az 5. számú melléklet I. fejezet h) pontját a 22/2014. (III. 14.) VM rendelet 72. § (1) bekezdése iktatta be.
+[^54]: Az 5. számú mellékletet a 100/2011. (XI. 5.) VM rendelet 9. § (3) bekezdése iktatta be.
+[^55]: Az 5. számú melléklet I. rész c) pontja a 88/2016. (XII. 29.) FM rendelet 40. § g) pontja szerint módosított szöveg.
+[^56]: Az 5. számú melléklet I. rész e) pont nyitó szövgerésze a 88/2016. (XII. 29.) FM rendelet 40. § n) pontja szerint módosított szöveg.
+[^57]: Az 5. melléklet I. cím e) pont ec) alpontja a 151/2012. (XII. 29.) VM rendelet 36. §-a szerint módosított szöveg.
+[^58]: Az 5. számú melléklet I. fejezet h) pontját a 22/2014. (III. 14.) VM rendelet 72. § (1) bekezdése iktatta be.

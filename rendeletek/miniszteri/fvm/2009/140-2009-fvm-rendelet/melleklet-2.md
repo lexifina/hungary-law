@@ -28,9 +28,9 @@
 
 ## * Amennyiben történt ilyen.
 
-## b) Ha ismételt, döntő érvényű laboratóriumi vizsgálatra kerül sor és annak eredménye megerősíti az áru átvétele során az MVH ellenőre által vett reprezentatív mintára vonatkozó laboratóriumi vizsgálat eredményét, akkor az a) pont szerinti költségeket kell számítani;
+## b) Ha ismételt, döntő érvényű laboratóriumi vizsgálatra kerül sor és annak eredménye megerősíti az áru átvétele során az a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőre által vett reprezentatív mintára vonatkozó laboratóriumi vizsgálat eredményét, akkor az a) pont szerinti költségeket kell számítani;
 
-## c) Ha tételcserére vagy a tétel minőségének javítására kerül sor, akkor – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – az MVH-nak okozott többletköltségek a raktározó és az MVH közötti tárolási szerződésnek megfelelően kerülnek meghatározásra;
+## c) Ha tételcserére vagy a tétel minőségének javítására kerül sor, akkor – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a Kincstárnak okozott többletköltségek a raktározó és a Kincstár közötti tárolási szerződésnek megfelelően kerülnek meghatározásra;
 
 ## d) Vételárat módosító egyéb díjtétel:
 
@@ -42,6 +42,6 @@
 
 ## ** Adott év október 1-jétől szeptember 30-ig terjedő időszaka tekintendő.
 
-2. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^28]
+2. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^51]
 
-[^28]: A 2. számú melléklet a 100/2011. (XI. 5.) VM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^51]: A 2. számú melléklet a 100/2011. (XI. 5.) VM rendelet 9. § (1) bekezdése szerint módosított szöveg.
