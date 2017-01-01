@@ -1,8 +1,8 @@
-5. §[^16] (1)[^17] A földhasználónak vagy a szennyvíztisztító mű, szennyvízkezelő berendezés üzemeltetőjének a mezőgazdasági felhasználási engedély kiadásához szükséges kérelmet a szennyvíz, szennyvíziszap felhasználására tervezett mezőgazdasági terület fekvése szerint illetékes talajvédelmi hatósághoz kell – három példányban – benyújtani.
+5. §[^16] (1)[^17] A földhasználónak vagy a szennyvíztisztító mű, szennyvízkezelő berendezés üzemeltetőjének a mezőgazdasági felhasználási engedély kiadásához szükséges kérelmet a szennyvíz, szennyvíziszap felhasználására tervezett mezőgazdasági terület fekvése szerint illetékes talajvédelmi hatósághoz kell – természetes személy nem elektronikus úton történő kapcsolattartása esetén három példányban – benyújtani.
 
 (2)[^18] A kérelemhez mellékelni kell a talajvédelmi tervet.
 
-(3)[^19] A földhasználónak vagy a komposztáló telep üzemeltetőjének a mezőgazdasági felhasználási engedély kiadásához szükséges kérelmet a mezőgazdasági terület fekvése szerint illetékes talajvédelmi hatósághoz kell – egy példányban – benyújtani. Az engedélykérelemhez mellékelni kell a 4. § (5) bekezdése szerinti egyszerűsített talajvédelmi tervet, továbbá a komposztáló telep hulladékkezelési engedélyét.
+(3)[^19] A földhasználónak vagy a komposztáló telep üzemeltetőjének a mezőgazdasági felhasználási engedély kiadásához szükséges kérelmet a mezőgazdasági terület fekvése szerint illetékes talajvédelmi hatósághoz kell benyújtani. Az engedélykérelemhez mellékelni kell a 4. § (5) bekezdése szerinti egyszerűsített talajvédelmi tervet, továbbá a komposztáló telep hulladékkezelési engedélyét.
 
 (4) Az (1)–(3) bekezdés szerinti engedélykérelem tartalmi követelményei:
 
@@ -15,7 +15,7 @@ b) a szennyvíztisztító mű, szennyvízkezelő berendezés, a komposztálótel
 (6)[^20] Ha a kérelmező a (3) bekezdésben meghatározott hulladékkezelési engedélyre vonatkozó adatokat nem igazolja, a talajvédelmi hatóság a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
 
 [^16]: Az 5. § a 40/2008. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^17]: Az 5. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 226. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: Az 5. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 226. §-a, a 477/2016. (XII. 27.) Korm. rendelet 20. § (2) bekezdése szerint módosított szöveg.
 [^18]: Az 5. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 53. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^19]: Az 5. § (3) bekezdésének második mondata a 99/2008. (IV. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^19]: Az 5. § (3) bekezdése a 99/2008. (IV. 29.) Korm. rendelet 1. § (2) bekezdése, a 477/2016. (XII. 27.) Korm. rendelet 20. § (3) bekezdése szerint módosított szöveg.
 [^20]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 225. §-a iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
