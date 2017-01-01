@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 1997-159-00-00.25 |
 | 2015-12-12 | 2015. évi CXCVII. törvény | 1997-159-00-00.26 |
 | 2016-01-01 | 2015. évi CLXXIX. törvény | 1997-159-00-00.27 |
+| 2017-01-01 | 2016. évi CXVI. törvény | 1997-159-00-00.28 |

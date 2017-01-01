@@ -12,7 +12,7 @@ c) az a)–b) pont szerint igazoltatott, visszatartott vagy előállított szem�
 
 a) testi erővel cselekvésre vagy cselekvés abbahagyására kényszerítést, illetve pórázon vagy anélkül, szájkosárral ellátott szolgálati kutyát,
 
-b) az (1) bekezdés b) pontja szerint visszatartott személy szökésének megakadályozására bilincset,
+b) az (1) bekezdés b) pontja szerint visszatartott személy szökésének, illetve személyőrzési vagy kísérési feladat végrehajtása során a személyes szabadságában korlátozott személy szökésének, önkárosításának megakadályozására bilincset,
 
 c) a támadás megakadályozására vagy az ellenszegülés megtörésére vegyi vagy elektromos sokkoló eszközt, rendőrbotot, illetve pórázon vezetett szájkosár nélküli szolgálati kutyát,
 
