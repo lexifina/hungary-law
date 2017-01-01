@@ -1,28 +1,18 @@
-## A nyilvántartásba vételhez kötött közvetítési és kereskedelmi tevékenység bejelentése
+## A hulladékszállítás nyilvántartásba vételéhez kötött tevékenység bejelentése
 
 | E nyomtatvány kitöltését a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló 439/2012. (XII. 29. ) Korm. rendelet írja elő |
 
-| Bejelentés □ Nyilvántartásba-vétel hosszabbítás: □ Módosítás □ Törlés □ | A NYILVÁNTARTÁSBA VÉTELHEZ KÖTÖTT KÖZVETÍTÉS/KERESKEDELEM BEJELENTÉSE | Mellékletek: □db |
-
-| Közvetítés □ | Kereskedelem □ |
+| Bejelentés □ Nyilvántartásba-vétel hosszabbítás: □ Módosítás □ Törlés □ | A NYILVÁNTARTÁSBA VÉTELHEZ KÖTÖTT HULLADÉKSZÁLLÍTÁS BEJELENTÉSE | Mellékletek: □ db |
 
 | Gazdálkodó szervezet: |
 
-| Neve: |  |
+| Neve: |
 
 | KÜJ-azonosító: | KSH-statisztikai számjel: |
 
-| □□□□□□□□□ | □□□□□□□□-□□□□-□□□ |
+| □ □ □ □ □ □ □ □ □ | □□□□□□□□-□□□□-□□□ |
 
-| Székhely: |  |  |  |
-
-|  | .............................................................................................................................. |
-
-| Irányítószám: | város, község □□□□ |  |
-
-| .............................................................................................................................................................................................................................................................................. | ................................. |
-
-| utca, út, tér |  | házszám (vagy helyrajzi szám) |
+| Székhely: ................................................................................................................................................ város, község Irányítószám: □ □ □ □ utca, út, tér; házszám (vagy helyrajzi szám) |
 
 | Cégjegyzékszám: □□.□□.□□□□□□ |
 
@@ -30,25 +20,13 @@
 
 | Telephely: |  |
 
-| KTJ-azonosító: |  |
+| KTJ-azonosító: |
 
-| Cím: |  |  |  |
+| Cím: ................................................................................................................................................. város, község Irányítószám: □□□□ utca, út, tér; házszám (vagy helyrajzi szám) |
 
-|  | .............................................................................................................................. |
+| A tevékenységre vonatkozó információk: |
 
-| Irányítószám: | város, község □□□□ |  |
-
-| .................................................................................................................................................................................................................................................................................. | ................................ |
-
-| utca, út, tér |  | házszám (vagy helyrajzi szám) |
-
-| Adatszolgáltatás formája (nyomtatvány/számítógépes adathordozó/Internet): | □(N/S/I) |
-
-| A tevékenységre vonatkozó információk: |  |
-
-| 1.Az érintett hulladék - hulladékjegyzék szerinti azonosító kódja: - típus szerinti elnevezése: - jellege: - mennyisége: |  |
-
-| 2. A tevékenység részletes leírása: 3. A tervezett hulladékgazdálkodási tevékenységgel érintett terület megnevezése: |  |  |
+| 1. Az érintett hulladék - hulladékjegyzék szerinti azonosító kódja: - típus szerinti elnevezése: - jellege: - mennyisége: 2. A tevékenység részletes leírása: 3. A tervezett hulladékgazdálkodási tevékenységgel érintett terület megnevezése: (megye megnevezése vagy országos) |
 
 | A bejelentésért felelős: |  |  |
 
@@ -56,15 +34,15 @@
 
 | Telefonszám: | Faxszám: | E-mail: |
 
-| A kitöltés dátuma: | □□□□. □□. □□. |
+|  | A kitöltés dátuma: □□□□. □□. □□. |
 
-## P. H.
+## P. H
 
 ## .....................................
 
 ## cégszerű aláírás
 
-2. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^52]
+2. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^56]
 
 ## Az ártalmatlanítást és a hasznosítást megelőző előkészítő műveletek azonosító kódjai
 
@@ -170,4 +148,4 @@ m) E04 – 13 fizikai beágyazás (pl. azbeszt-por, szálak cementbe való beág
 
 n) E04 – 99 egyéb.
 
-[^52]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^56]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 12. § (4) bekezdése iktatta be.

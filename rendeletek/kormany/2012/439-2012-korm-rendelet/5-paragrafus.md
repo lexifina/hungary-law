@@ -6,6 +6,8 @@
 
 (4) Ha a környezetvédelmi hatóság tudomására jut, hogy a nyilvántartásba vett közvetítő, kereskedő jogutód nélkül megszűnt, a kereskedőt, a közvetítőt a nyilvántartásból hivatalból törli.
 
-(5) A közvetítőnek, a kereskedőnek az adataiban bekövetkezett változásokat, hulladékgazdálkodási tevékenységének tervezett módosítását, valamint az e rendelet szerinti hulladékgazdálkodási tevékenységének megszüntetését az 1. melléklet szerinti formanyomtatvány útján kell bejelentenie.
+(5)[^7] A közvetítőnek, a kereskedőnek a hulladékgazdálkodási tevékenységének tervezett módosítását, valamint az e rendelet szerinti hulladékgazdálkodási tevékenységének megszüntetését az 1. melléklet szerinti formanyomtatvány útján kell bejelentenie.
 
 (6) A közvetítő, a kereskedő a korábban nyilvántartott hulladékgazdálkodási tevékenységéhez képest módosított tevékenységét az új adatok nyilvántartásba vételét követően kezdheti meg.
+
+[^7]: Az 5. § (5) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 26. §-a szerint módosított szöveg.
