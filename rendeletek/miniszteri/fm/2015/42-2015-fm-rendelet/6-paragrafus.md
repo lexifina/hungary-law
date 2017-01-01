@@ -62,4 +62,6 @@ c) ágazati szakmai preferenciák.
 
 (9) Ha a termelői csoport az üzleti tervben vállalt kötelezettségeit nem teljesíti, úgy a miniszter legfeljebb három hónapos határidő kitűzésével felszólítja a kötelezettségek teljesítésére és figyelmezteti a nem teljesítés jogkövetkezményeire. Ha előre látható, hogy a jogszerű működés helyreállítása három hónap alatt nem lehetséges, akkor a miniszter azonnal, egyéb esetben a három hónapos teljesítési határidő eredménytelen letelte után vonja vissza az elismerést.
 
-(10) A miniszter a termelői csoport elismeréséről, valamint az elismerés visszavonásáról szóló döntését a minisztérium honlapján közzéteszi, valamint a döntésről – annak másolata megküldésével – tájékoztatja a Mezőgazdasági és Vidékfejlesztési Hivatalt.
+(10)[^1] A miniszter a termelői csoport elismeréséről, valamint az elismerés visszavonásáról szóló döntését a minisztérium honlapján közzéteszi, valamint a döntésről – annak másolata megküldésével – tájékoztatja a Magyar Államkincstárt.
+
+[^1]: A 6. § (10) bekezdése a 88/2016. (XII. 29.) FM rendelet 89. §-a szerint módosított szöveg.

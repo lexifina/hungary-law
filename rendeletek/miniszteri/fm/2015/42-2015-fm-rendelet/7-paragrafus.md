@@ -4,7 +4,7 @@
 
 (2) A beszámoló jelentés termelői csoport általi benyújtásának elmulasztása esetén a termelői csoport elismerését a miniszter visszavonja.
 
-(3)[^1] Ha a termelői csoport tárgyévi árbevétele a termelő tagnál bekövetkezett és
+(3)[^2] Ha a termelői csoport tárgyévi árbevétele a termelő tagnál bekövetkezett és
 
 a) az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról és a vis maiorral összefüggő egyes miniszteri rendeletek módosításáról szóló miniszteri rendelet, illetve
 
@@ -18,4 +18,4 @@ alapján elismert elháríthatatlan külső ok következtében jelentős mérté
 
 (6) A termelői csoport köteles a cégadatokban bekövetkezett változásokról azok bekövetkezésétől számított tizenöt napon belül elektronikus úton – a minisztérium honlapján megadott elektronikus levélcímen – tájékoztatni a minisztert.
 
-[^1]: A 7. § (3) bekezdése a 94/2015. (XII. 23.) FM rendelet 10. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 8. § (1) bekezdését.
+[^2]: A 7. § (3) bekezdése a 94/2015. (XII. 23.) FM rendelet 10. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 8. § (1) bekezdését.
