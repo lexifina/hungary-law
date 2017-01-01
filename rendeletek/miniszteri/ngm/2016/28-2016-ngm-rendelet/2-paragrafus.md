@@ -50,10 +50,12 @@ c) kizárólag teher, feltéve, hogy a fülkébe legalább egy személy be tud s
 
 20. piacfelügyeleti hatóság: a 765/2008/EK rendelet 2. cikk 18. pontjában meghatározott fogalom;
 
-21. tanúsító szervezet: a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH) által – külön jogszabály előírásai szerint – a felvonók és a felvonó biztonsági berendezések megfelelőségének értékelésére, a biztonsági berendezés gyártója vagy a felvonószerelő vállalkozás minőségbiztosítási rendszerének tanúsítására és ellenőrzésére kijelölt, az Európai Bizottságnak és a tagállamoknak bejelentett szervezet;
+21.[^1] tanúsító szervezet: a kijelölési feladatkörében eljáró Budapest Főváros Kormányhivatala által – külön jogszabály előírásai szerint – a felvonók és a felvonó biztonsági berendezések megfelelőségének értékelésére, a biztonsági berendezés gyártója vagy a felvonószerelő vállalkozás minőségbiztosítási rendszerének tanúsítására és ellenőrzésére kijelölt, az Európai Bizottságnak és a tagállamoknak bejelentett szervezet;
 
 22. típusvizsgálati tanúsítvány: a tanúsító szervezet állítja ki akkor, ha a biztonsági berendezés típusmintája és a típusfelvonó megfelel az e rendeletben előírt biztonsági követelményeknek;
 
 23. uniós harmonizációs jogszabály: minden, a termékek forgalmazásának feltételeit harmonizáló uniós jogszabály;
 
 24. visszahívás: felvonó esetében minden olyan intézkedés, amelynek célja a felvonó szétszerelése és biztonságos ártalmatlanítása, a felvonókhoz készült biztonsági berendezések esetében pedig a felvonószerelő vállalkozások vagy a felhasználók számára már hozzáférhetővé tett, felvonókhoz készült biztonsági berendezés visszavétele.
+
+[^1]: A 2. § 21. pontja a 62/2016. (XII. 29.) NGM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
