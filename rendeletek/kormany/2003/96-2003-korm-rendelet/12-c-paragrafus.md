@@ -1,4 +1,4 @@
-12/C. §[^73] (1) Az egészségügyi államigazgatási szerv a személyes közreműködőt törli a hatósági nyilvántartásból, ha
+12/C. §[^77] (1) Az egészségügyi államigazgatási szerv a személyes közreműködőt törli a hatósági nyilvántartásból, ha
 
 a) a személyes közreműködő bejelenti a tevékenységének megszüntetését,
 
@@ -12,9 +12,12 @@ d) az egyéni vállalkozót törölték az orvosok vagy az egészségügyi szakd
 
 a) a személyes közreműködést igénybe vevő egészségügyi szolgáltató bejelentése szerint a személyes közreműködővel kötött személyes közreműködői szerződés megszűnt, vagy
 
-b) a személyes közreműködést igénybe vevő egészségügyi szolgáltató vagy annak – a személyes közreműködéssel érintett – szervezeti egysége megszűnik.
+b) a személyes közreműködést igénybe vevő egészségügyi szolgáltató vagy annak – a személyes közreműködéssel érintett – szervezeti egysége megszűnik,
 
-(3)[^74] A hatósági nyilvántartásból történő törlésről a törlés időpontjában a személyes közreműködőt igénybe vevő szolgáltató működési engedélyének kiadására a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A hatósági nyilvántartásból történő törlésről az egészségügyi államigazgatási szerv a személyes közreműködőt értesíti.
+c)[^78] a személyes közreműködő az e tevékenységének hatósági nyilvántartásba vételéhez szükséges feltételekkel – ide nem értve a személyes közreműködői szerződést – már nem rendelkezik, és az egészségügyi államigazgatási szerv erre irányuló kötelezése ellenére a hiányosságot a kitűzött határidőre nem szünteti meg, valamint nem kéri a határidő meghosszabbítását.
 
-[^73]: A 12/C. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
-[^74]: A 12/C. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 48. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+(3)[^79] A hatósági nyilvántartásból történő törlésről a törlés időpontjában a személyes közreműködőt igénybe vevő szolgáltató működési engedélyének kiadására a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A hatósági nyilvántartásból történő törlésről az egészségügyi államigazgatási szerv a személyes közreműködőt értesíti.
+
+[^77]: A 12/C. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
+[^78]: A 12/C. § (2) bekezdés c) pontját a 464/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^79]: A 12/C. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 48. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2016-01-01 | 2003-96-20-22.38 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-07-01 | 2003-96-20-22.39 | 172/2016. (VII. 1.) Korm. rendelet |
 | 2016-09-01 | 2003-96-20-22.40 | 172/2016. (VII. 1.) Korm. rendelet |
+| 2017-01-01 | 2003-96-20-22.41 | 464/2016. (XII. 23.) Korm. rendelet |
