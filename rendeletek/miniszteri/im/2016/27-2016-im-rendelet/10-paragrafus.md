@@ -1,0 +1,1 @@
+## 9. § Az igazságügyi miniszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 9/2015. (IV. 30.) IM rendelet 1. § c) pontjában a „helyzet vagy” szövegrész helyébe a „helyzet, a terrorveszélyhelyzet vagy” szöveg lép.
