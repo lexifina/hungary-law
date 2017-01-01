@@ -26,37 +26,23 @@ h)
 
 (2a) Az állam 88. § (1) bekezdése szerinti ellátási kötelezettsége esetében az (1) bekezdésben és a (2) bekezdés b)–g) pontjában foglaltakat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv határozza meg.
 
-(3) A legalább kétezer lakosú települési önkormányzat a településen, fővárosban élő szociálisan rászorult személyek részére biztosítandó szolgáltatási feladatok meghatározása érdekében szolgáltatástervezési koncepciót készít. Amennyiben a települések egyes szociális feladataikat társulás keretében látják el, e szolgáltatások tekintetében a szolgáltatástervezési koncepciót a társulás készíti el. A szolgáltatástervezési koncepció tartalmát az önkormányzat, illetve a társulás kétévente felülvizsgálja és aktualizálja.
+(3) A legalább kétezer lakosú települési önkormányzat a településen, fővárosban élő szociálisan rászorult személyek részére biztosítandó szolgáltatási feladatok meghatározása érdekében – jogszabályban meghatározottak szerint – szolgáltatástervezési koncepciót készít. Amennyiben a települések egyes szociális feladataikat társulás keretében látják el, e szolgáltatások tekintetében a szolgáltatástervezési koncepciót a társulás készíti el.
 
-(4) A koncepció tartalmazza különösen
-
-a) a lakosságszám alakulását, a korösszetételt, a szolgáltatások iránti igényeket,
-
-b) az ellátási kötelezettség teljesítésének helyzetét, az ütemtervet a szolgáltatások biztosításáról,
-
-c) a szolgáltatások működtetési, finanszírozási, fejlesztési feladatait, az esetleges együttműködés kereteit,
-
-d) az egyes ellátotti csoportok (idősek, fogyatékos személyek, hajléktalan személyek, pszichiátriai betegek, szenvedélybetegek) sajátosságaihoz kapcsolódóan a speciális ellátási formák, szolgáltatások biztosításának szükségességét.
+(4)
 
 (5)
 
-(6) A megyei jogú város és a főváros koncepciója – a (4) bekezdésben foglaltakon túl tartalmazza különösen –
-
-a) a megye, főváros területén működő szolgáltatási rendszer struktúráját, legfontosabb jellemzőit,
-
-b) a szolgáltatások iránti igények alakulását, a várakozók számát, korösszetételét, legfontosabb szociális jellemzőit,
-
-c) a szolgáltatások iránt jelentkező szükségletek alapján az intézményrendszer korszerűsítésének irányait.
+(6)
 
 (6a) A megye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
 
-(7) A szolgáltatástervezési koncepciót az önkormányzat az elfogadást megelőzően véleményezteti az intézményvezetőkkel és a nemzetiségi önkormányzattal. A koncepció végleges változatának elfogadása során a kialakított véleményeket az önkormányzat lehetőség szerint figyelembe veszi.
+(7)
 
 (8)
 
 (9)
 
-(10) A megyei jogú városi önkormányzat a jóváhagyott szolgáltatástervezési koncepciót megküldi a szociál- és nyugdíjpolitikáért felelős miniszternek.
+(10)
 
 V. CÍM
 

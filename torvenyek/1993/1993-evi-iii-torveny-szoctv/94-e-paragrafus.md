@@ -10,7 +10,7 @@ a) az intézmény működési költségének összesítését,
 
 b) a 115/A. § (1) bekezdése szerinti, térítésmentesen biztosított szolgáltatások kivételével az intézményi térítési díj havi összegét,
 
-c) az egy ellátottra jutó havi önköltség összegét.
+c) az egy ellátottra, támogatott lakhatás keretében nyújtott lakhatási szolgáltatás esetében az egy férőhelyre jutó havi önköltség összegét.
 
 (4) A személyes gondoskodást nyújtó szociális intézmény az általa biztosított szolgáltatást olyan módon végzi, hogy figyelemmel legyen az ellátást igénybevevőket megillető alkotmányos jogok maradéktalan és teljes körű tiszteletben tartására, különös figyelemmel
 

@@ -10,7 +10,7 @@ c) a kérelmező állampolgársága, bevándorolt, letelepedett vagy menekült, 
 
 d) a kérelmező cselekvőképességére vonatkozó adat,
 
-e) a kérelmező törvényes képviselője, továbbá a kérelmező megnevezett hozzátartozója neve, születési neve, telefonszáma, lakó- és tartózkodási helye vagy értesítési címe,
+e) a kérelmező törvényes képviselőjének, a kérelmező megnevezett hozzátartozójának, továbbá tartós bentlakásos intézményi ellátás esetében a kérelmező nagykorú gyermekének neve, születési neve, telefonszáma, lakó- és tartózkodási helye vagy értesítési címe,
 
 f) a kérelem előterjesztésének vagy a beutaló határozat megküldésének időpontja,
 

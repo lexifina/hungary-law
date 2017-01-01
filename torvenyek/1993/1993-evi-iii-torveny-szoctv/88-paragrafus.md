@@ -4,7 +4,9 @@ a) a harmincezer főnél nagyobb állandó lakosságszámú településeken a fo
 
 b) a fővárosban a pszichiátriai betegek, a szenvedélybetegek, fogyatékos személyek szakosított ellátásának a megszervezéséről és fenntartásáról,
 
-c) a megye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles.
+c) a megye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles,
+
+d) a megye területén a támogatott lakhatás megszervezéséről és fenntartásáról.
 
 (2) A fővárosi önkormányzat köteles gondoskodni
 

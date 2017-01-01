@@ -1,1 +1,1 @@
-140. § Az egyes egészségügyi és szociális tárgyú törvények módosításáról szóló 2010. évi LXXXIX. törvénnyel megállapított 127/A. § (6) bekezdésének rendelkezéseit abban az esetben is alkalmazni kell, ha a fenntartóváltozás vagy az egyházi fenntartású szolgáltató, intézmény engedélyezése iránti kérelmet 2010. augusztus 1-jét megelőzően nyújtották be, azzal, hogy az eddig az időpontig a központi költségvetésnek megtérített egyházi kiegészítő támogatás nem követelhető vissza.
+140. §

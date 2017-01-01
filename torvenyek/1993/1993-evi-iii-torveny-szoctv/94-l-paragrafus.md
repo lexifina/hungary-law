@@ -18,7 +18,7 @@ f) az intézményi ellátásban foglalkoztatott ápoló, intézményvezető ápo
 
 g) a falu- és a tanyagondnok,
 
-h) a támogatott lakhatásban foglalkoztatott esetfelelős és kísérő támogatást biztosító munkatárs.
+h) a támogatott lakhatásban foglalkoztatott esetfelelős munkatárs.
 
 (3) A bentlakásos intézménynek rendelkeznie kell – a szolgáltatásban foglalkoztatottak védelme érdekében – az ellátást igénybevevők részéről esetlegesen felmerülő veszélyhelyzet kezelésére vonatkozó belső utasítással.
 

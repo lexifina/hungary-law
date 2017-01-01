@@ -42,4 +42,4 @@ b) az időskorúak járadéka, az aktív korúak ellátása vagy az ápolási d�
 
 (9) A (7) bekezdés b) pontja, valamint a (8) bekezdés szerinti esetben a bejelentést a más rendszeres pénzellátás megállapítására irányuló eljárás megindításától, illetve az állami foglalkoztatási szervnél való jelentkezés napjától számított 8 napon belül kell megtenni.
 
-(10) A más rendszeres pénzellátásra való jogosultság fennállásának időtartama alatt igénybe vett időskorúak járadéka, aktív korúak ellátása és ápolási díj jogosulatlanul, de – a (7)–(9) bekezdés szerinti bejelentési kötelezettség teljesítése esetén – nem rosszhiszeműen igénybevett ellátásnak minősül, amelynek megtérítéséről a szociális hatóság az (1) bekezdése alapján rendelkezik.
+(10) A más rendszeres pénzellátásra való jogosultság fennállásának időtartama alatt igénybe vett időskorúak járadéka, aktív korúak ellátása és ápolási díj jogosulatlanul, de – a (7)–(9) bekezdés szerinti bejelentési kötelezettség teljesítése esetén – nem rosszhiszeműen igénybevett ellátásnak minősül, amelynek megtérítéséről a szociális hatáskört gyakorló szerv az (1) bekezdése alapján rendelkezik.

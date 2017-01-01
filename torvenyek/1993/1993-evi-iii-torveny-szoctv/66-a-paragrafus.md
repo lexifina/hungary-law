@@ -1,4 +1,4 @@
-66/A. § (1) Fogyatékos, pszichiátriai vagy szenvedélybeteg személyek számára a 67. § szerinti ellátást
+66/A. § (1) Fogyatékos, pszichiátriai vagy szenvedélybeteg személyek számára a 67. § és a 85/A. § (3) bekezdés a) pont ab) alpontja szerinti ellátást
 
 a) nagy létszámú intézmény átalakítása esetén támogatott lakhatás,
 

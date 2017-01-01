@@ -22,7 +22,7 @@ h) amennyiben az ellátottak meghatározott körét érintő jogsértés fennál
 
 i) a korlátozó intézkedésekre, eljárásokra vonatkozó dokumentációt megvizsgálhatja.
 
-(3) Az ellátottjogi képviselő e célra létrehozott szervezet keretében működik.
+(3) Az ellátottjogi képviselőt a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium foglalkoztatja.
 
 (4) A személyes gondoskodást nyújtó szociális intézmény vezetője az ellátottakat tájékoztatja az ellátottjogi képviselő által nyújtható segítségadás lehetőségéről, az ellátottjogi képviselő elérhetőségéről.
 

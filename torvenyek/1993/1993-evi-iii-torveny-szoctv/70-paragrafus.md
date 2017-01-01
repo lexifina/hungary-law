@@ -7,3 +7,5 @@
 (4) A fogyatékos személyek otthonában elkülönítetten rehabilitációs részleg is működtethető, feltéve, hogy az a külön jogszabályban meghatározott tárgyi és személyi feltételeknek egyébként megfelel.
 
 (5) A nagykorú fogyatékos személy fogyatékos személyek otthonában történő elhelyezésének feltétele a benyújtott orvosi dokumentáció felhasználásával lefolytatott alapvizsgálat elvégzése.
+
+(5a) Az alapvizsgálat elvégzésével egyidejűleg a komplex szükségletfelmérést is el kell végezni. A fogyatékos személyek bentlakásos intézményének vezetője tájékoztatja az ellátást igénylőt a támogatott lakhatás igénybevételének lehetőségéről.

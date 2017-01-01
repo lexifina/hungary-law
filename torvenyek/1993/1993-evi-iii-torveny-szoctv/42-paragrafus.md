@@ -30,16 +30,18 @@ f) azt az ápolást végző személy kérte,
 
 g) az ápolást végző személy az ápolási díjra való jogosultság feltételeinek felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza.
 
-(3) Az ápolt személy halála esetén az ápolási díj folyósítását a halál időpontját követő második hónap utolsó napjával kell megszüntetni.
+(3) Az ápolt személy halála esetén az ápolási díjra való jogosultságot a halál időpontját követő második hónap utolsó napjával kell megszüntetni.
 
 (3a) A (2) bekezdés f) pontja szerinti esetben az ápolási díjra való jogosultságot a kérelemben megjelölt időponttól, vagy – időpont megjelölésének hiányában – a kérelem benyújtását követő hónap utolsó napjával kell megszüntetni.
 
 (4) A 41. § (1) bekezdés a) pontja szerinti, valamint a kiemelt ápolási díjra való jogosultság továbbra is fennáll, ha az ápolási díjban részesülő személy
 
-a) a Tny. szerint saját jogú nyugdíjnak minősülő ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 33. § (1) bekezdése alapján, a törvény erejénél fogva rehabilitációs ellátásban részesül,
+a) a Tny. szerint saját jogú nyugdíjnak minősülő ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 33. § (1) bekezdése alapján, a törvény erejénél fogva rehabilitációs ellátásban részesül,
 
 b) az a) pont szerinti ellátásra való jogosultság keletkezését megelőző napon a 41. § (1) bekezdés a) pontja szerinti vagy kiemelt ápolási díjra volt jogosult, és
 
 c) az a) pont szerinti ellátásra való jogosultság kezdő napját megelőző húsz éven belül a 41. § (1) bekezdés a) pontja szerinti vagy a kiemelt ápolási díjra való jogosultsága legalább tíz évig fennállt.
 
 (5) A (4) bekezdés alkalmazása során a 41. § (1) bekezdés a) pontja szerinti, valamint kiemelt ápolási díjra való jogosultság időtartamát össze kell számítani.
+
+(6) Amennyiben az ápolási díjra jogosultság a (2) bekezdés g) pontja alapján került megszüntetésre, a döntés jogerőre emelkedésétől számított hat hónapon belül ismételten nem állapítható meg.

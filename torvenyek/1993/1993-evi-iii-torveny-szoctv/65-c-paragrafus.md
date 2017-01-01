@@ -24,12 +24,6 @@ h) a fogyatékos személy munkavégzését, munkavállalását segítő szolgál
 
 (4) A támogató szolgáltatás igénybevétele során szociálisan rászorultnak minősül a súlyosan fogyatékos személy.
 
-(5) A (4) bekezdés alkalmazásában súlyosan fogyatékos a külön jogszabály szerinti fogyatékossági támogatásban, vakok személyi járadékában, illetve magasabb összegű családi pótlékban részesülő személy.
+(5) A (4) bekezdés alkalmazásában súlyosan fogyatékos a külön jogszabály szerinti fogyatékossági támogatásban, vakok személyi járadékában, illetve magasabb összegű családi pótlékban részesülő – ezt jogszabályban meghatározottak szerint igazoló – személy.
 
-(6) A súlyos fogyatékosságot igazolni lehet
-
-a) az ellátás megállapítását, illetve folyósítását igazoló határozattal vagy más okirattal,
-
-b) az ellátás megállapításának alapjául szolgáló, a fogyatékosság fennállását igazoló szakvéleménnyel.
-
-(7) Ha a szakvélemény a következő felülvizsgálat (ellenőrző vizsgálat) időpontját, illetve az állapot fennállásának várható idejét tartalmazza, a jogosultság eddig az időpontig áll fenn.
+(6)–(7)

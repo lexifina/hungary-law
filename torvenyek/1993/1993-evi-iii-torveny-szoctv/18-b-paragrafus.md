@@ -18,7 +18,7 @@ c) a 18/A. § szerinti adatokat,
 
 d) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdése szerinti adatokat.
 
-(3) Az országos nyilvántartásba az adatokat a jegyző, a járási hivatal, valamint a járási hivatal gyermekvédelmi és gyámügyi feladatokat ellátó szakigazgatási szerve rögzíti. A jegyző rögzíti a települési önkormányzat hatáskörébe tartozó ellátásokkal összefüggő azon adatokat, amelyeket érintően a 18. § szerinti nyilvántartás vezetésének kötelezettsége őt terheli.
+(3) Az országos nyilvántartásba az adatokat a jegyző és a járási hivatal rögzíti. A jegyző rögzíti a települési önkormányzat hatáskörébe tartozó ellátásokkal összefüggő azon adatokat, amelyeket érintően a 18. § szerinti nyilvántartás vezetésének kötelezettsége őt terheli.
 
 (4) A hatóság a folyamatban lévő eljárás során figyelembe vett, a nyilvántartásban nem szereplő személyt az ugyanazon eljárásban figyelembevett, a nyilvántartásban szereplő személyhez kapcsolva rögzíti a nyilvántartásban.
 

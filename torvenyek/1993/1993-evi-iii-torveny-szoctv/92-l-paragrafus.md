@@ -22,7 +22,7 @@ j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociá
 
 k) a fenntartóval és a nevében vagyoni előnyt kérő személlyel szemben, valamint azzal a személlyel, szervezettel szemben, amelynek a vagyoni előnyt nyújtották, ha a 119/A. § szerinti tilalmat megsértik.
 
-l) az intézményvezetővel, ennek hiányában a gondozási szükséglet vizsgálatát tényleges végző személlyel szemben, ha házi segítségnyújtás esetén nem a valóságnak megfelelően állapította meg, hogy az ellátott számára szociális segítés vagy személyi gondozás indokolt-e, vagy nem a valóságnak megfelelően állapította meg a napi gondozási szükséglet mértékét.
+l) az intézményvezetővel, ennek hiányában a gondozási szükséglet vizsgálatát tényleges végző személlyel szemben, ha házi segítségnyújtás esetén nem a valóságnak megfelelően állapította meg, hogy az ellátott számára szociális segítés vagy személyi gondozás indokolt-e, vagy nem a valóságnak megfelelően állapította meg a gondozási szükséglet – az értékelő adatlap szerinti – fokozatát.
 
 (2) A szociális foglalkoztatást engedélyező szerv bírságot szabhat ki
 

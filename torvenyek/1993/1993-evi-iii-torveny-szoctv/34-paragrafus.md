@@ -26,13 +26,15 @@ a) akire vonatkozóan az (1) bekezdés a)–g), valamint i) pontja szerinti kör
 
 b) aki az aktív korúak ellátására való jogosultság feltételeinek vagy az annak keretében megállapított pénzbeli ellátás összegének felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza,
 
-c) aki keresőtevékenységet folytat, a keresőtevékenység 91. napjától,
+c) aki keresőtevékenységet folytat, a keresőtevékenység 121. napjától,
 
 d) akire vonatkozóan az aktív korúak ellátására való jogosultság fennállása alatt a munkaügyi hatóság a jogellenes munkavégzés tényét két éven belül ismételten jogerősen megállapította, vagy
 
 e) akinek a 36. § (2) bekezdése alapján a foglalkoztatást helyettesítő támogatásra való jogosultságát meg kell szüntetni,
 
-f) aki a jogosultságának megszüntetését kéri.
+f) aki a jogosultságának megszüntetését kéri,
+
+g) aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte, a nyugdíjkorhatár betöltése hónapjának utolsó napjával.
 
 (3) Az aktív korú személy részére az aktív korúak ellátására való jogosultság a megszüntetéstől számított harminchat hónapon belül – ide nem értve a (2) bekezdés b), d) és e) pontja szerinti megszüntetési eseteket – az előzetes együttműködési kötelezettség teljesítése nélkül ismételten megállapítható, amennyiben a jogosultsági feltételek egyébként fennállnak.
 

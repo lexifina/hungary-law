@@ -14,10 +14,4 @@ e) a jogosult tartására bíróság által kötelezett személy [a c)–e) pont
 
 köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: kötelezett].
 
-(3) A fenntartó ingyenes ellátásban részesíti azt az ellátottat,
-
-a) aki jövedelemmel nem rendelkezik,
-
-b)
-
-és bentlakásos ellátás esetében a 119. § (2) bekezdése szerinti jelzálog alapjául szolgáló vagyona nincs.
+(3) A fenntartó ingyenes ellátásban részesíti azt az ellátottat, aki jövedelemmel nem rendelkezik. Tartós bentlakásos intézményi ellátás esetében az ingyenes ellátás további feltétele, hogy az ellátottnak a 119. § (2) bekezdése szerinti jelzálog alapjául szolgáló vagyona és a 117/D. § (3) bekezdése szerinti eljárásban jogerősen térítési díj fizetésére kötelezett nagykorú, vér szerinti vagy örökbe fogadott gyermeke nincs.

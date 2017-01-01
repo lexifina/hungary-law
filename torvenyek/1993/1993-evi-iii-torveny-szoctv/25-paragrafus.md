@@ -34,7 +34,7 @@ b) csökkent, akkor az új összeget az öregségi nyugdíj legkisebb összege e
 
 kell folyósítani.
 
-(5a) Az (5) bekezdésben foglaltakat az ápolási díj alapösszegének változása esetén megfelelően alkalmazni kell.
+(5a) Az (5) bekezdésben foglaltakat az ápolási díj alapösszegének, az időskorúak járadéka havi összegeinek, valamint a foglalkoztatást helyettesítő támogatás törvényben meghatározott összegének változása esetén megfelelően alkalmazni kell.
 
 (6) A havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
 
@@ -64,7 +64,7 @@ b) csökkent, akkor az új összeget az ellátásra való jogosultság feltétel
 
 kell folyósítani.
 
-(10) A szociális rászorultságtól függő pénzbeli ellátásra való jogosultság megszűnik, ha a jogosultság megállapításának alapjául szolgáló feltételek már nem állnak fenn.
+(10) Ha e törvény eltérően nem rendelkezik, a szociális rászorultságtól függő pénzbeli ellátásra való jogosultság megszűnik, ha a jogosultság megállapításának alapjául szolgáló feltételek már nem állnak fenn.
 
 (10a) A havi rendszeres szociális ellátásra vagy foglalkoztatást helyettesítő támogatásra való jogosultság megszűnése esetén a jogosultat a megszűnés napja szerinti hónapra jutó ellátás teljes havi összege megilleti.
 

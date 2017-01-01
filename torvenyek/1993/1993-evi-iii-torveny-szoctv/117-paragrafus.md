@@ -8,6 +8,12 @@ c) 60%-át az átmeneti elhelyezést
 
 nyújtó intézmények esetén.
 
+(1a) Hajléktalan személyek átmeneti szállása esetén
+
+a) a személyi térítési díj nem haladhatja meg az (1) bekezdés c) pontja szerinti mértéket, ha az ellátott számára esetvitelt (szociális munkát) is nyújtanak,
+
+b) az a) pontban nem említett esetben lakhatási költséget kell meghatározni személyi térítési díjként.
+
 (2) Tartós bentlakásos intézményi ellátás esetén az intézményi ellátásért fizetendő személyi térítési díj meghatározása során meg kell állapítani az ellátást igénylőre vonatkozó jövedelemhányadot. A jövedelemhányad nem haladhatja meg az ellátott havi jövedelmének
 
 a) 50%-át a rehabilitációs célú lakóotthoni elhelyezést,
@@ -16,13 +22,15 @@ b) 80%-át az a) pont alá nem tartozó egyéb tartós elhelyezést
 
 nyújtó intézmények esetén.
 
-(2a) Támogatott lakhatás esetén
+(2a) Támogatott lakhatás esetén a személyi térítési díj
 
-a) a személyi térítési díj nem haladhatja meg az ellátott havi jövedelmének 80%-át,
+a) a 75. § (1) bekezdés a) pontja szerinti lakhatási szolgáltatás intézményi térítési díjának, és
 
-b) a térítési díjra – a (2b) bekezdés szerinti kivétellel – a tartós bentlakásos intézmények térítési díjára vonatkozó szabályokat kell alkalmazni.
+b) az ellátott által az előző hónapban ténylegesen igénybe vett, a 75. § (1) bekezdés d) pontja szerinti szolgáltatások intézményi térítési díjának az összege azzal, hogy a személyi térítési díj nem haladhatja meg az ellátott havi jövedelmének 80%-át. A támogatott lakhatás térítési díjára egyebekben – ha e törvény vagy kormányrendelet másként nem rendelkezik – a tartós bentlakásos intézmények térítési díjára vonatkozó szabályokat kell alkalmazni.
 
 (2b) A 117/C. § szabályait nem lehet alkalmazni arra az igénybevevőre, aki fogyatékos személyek, pszichiátriai vagy szenvedélybetegek ápoló-gondozó otthonában rendelkezik intézményi jogviszonnyal a támogatott lakhatás igénybevételét megelőzően.
+
+(2c) Támogatott lakhatás esetén az intézményvezető az együttélés szabályaiban meghatározott összegben és elszámolási szabályok mellett havi ellátmányt biztosít az ellátott részére a szükségleteinek egyéni vásárlás keretében történő fedezésére, ha az ellátott jövedelemmel nem rendelkezik, vagy a személyi térítési díj eléri az ellátott havi jövedelmének 80%-át.
 
 (3) Tartós bentlakásos intézményi ellátás esetén a személyi térítési díj az intézményi térítési díjjal megegyező összeg, ha a jövedelemhányad eléri vagy meghaladja az intézményi térítési díj összegét.
 
