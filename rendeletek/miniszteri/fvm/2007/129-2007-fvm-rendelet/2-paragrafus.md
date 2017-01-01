@@ -10,8 +10,10 @@
 
 (6) A kvóta kvótajogosultak közötti átruházásához a miniszter jóváhagyása szükséges.
 
-(7) A Tanácsi Rendelet 14. cikkének megfelelően, ha egy kvótajogosult az általa kvótán felül termelt cukor egészének vagy egy részének következő évre való átviteléről dönt, arról az adott gazdasági év április 15-éig – izoglükóz átviteléről a következő gazdasági év október 31-éig – értesíti az MVH-t.
+(7)[^5] A Tanácsi Rendelet 14. cikkének megfelelően, ha egy kvótajogosult az általa kvótán felül termelt cukor egészének vagy egy részének következő évre való átviteléről dönt, arról az adott gazdasági év április 15-éig – izoglükóz átviteléről a következő gazdasági év október 31-éig – értesíti a Kincstárt.
 
-(8) A cukor és izoglükóz kvótarendszerhez kapcsolódóan a Tanácsi Rendeletben meghatározott – e rendelet alapján nem a miniszter hatáskörébe utalt – hatósági feladatokat (vállalkozások elismerése, díjak meghatározása, nyilvántartás vezetése, jelentések elkészítése) az MVH végzi.
+(8)[^6] A cukor és izoglükóz kvótarendszerhez kapcsolódóan a Tanácsi Rendeletben meghatározott – e rendelet alapján nem a miniszter hatáskörébe utalt – hatósági feladatokat (vállalkozások elismerése, díjak meghatározása, nyilvántartás vezetése, jelentések elkészítése) a Kincstár végzi.
 
 [^4]: A 2. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 33. §-a szerint módosított szöveg.
+[^5]: A 2. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 20. § c) pontja szerint módosított szöveg.
+[^6]: A 2. § (8) bekezdése a 88/2016. (XII. 29.) FM rendelet 20. § b) pontja szerint módosított szöveg.
