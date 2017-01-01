@@ -50,7 +50,7 @@ Határidő: azonnal, illetve ezt követően folyamatosan
 
 a) a szakmaközi szervezetek aktív bevonásával növénytermesztési, technológiai, parlagfű mentesítési és prevenciós ismereteket kell átadni a gazdálkodóknak,
 
-b) fejleszteni kell a hatósági felderítési és szankcionálási eljárást előre bejelentett, kommunikált légi felderítés alkalmazásával, az érintett megyei kormányhivatalok feladat- és hatáskörrel rendelkező szakigazgatási szervei számára rendelkezésre álló 2011. évi előirányzatból származó, kötelezettségvállalással terhelt maradvány forrás felhasználásával,
+b)[^1] fejleszteni kell a hatósági felderítési és szankcionálási eljárást előre bejelentett, kommunikált légi felderítés alkalmazásával, a megyei kormányhivatalok számára rendelkezésre álló 2011. évi előirányzatból származó, kötelezettségvállalással terhelt maradvány forrás felhasználásával,
 
 c) meg kell vizsgálni a kötelező növényorvos szakirányító alkalmazásának lehetőségét adott területnagyságot meghaladó gazdálkodók esetén.
 
@@ -123,3 +123,5 @@ Határidő: 2012. november 30., illetve ezt követően adott év november 30-ig
 Határidő: 2013. január 31., illetve ezt követően adott év január 31-ig
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont 1.1.6. alpont b) pontja az 1853/2016. (XII. 27.) Korm. határozat 15. pont b) alpontja szerint módosított szöveg.
