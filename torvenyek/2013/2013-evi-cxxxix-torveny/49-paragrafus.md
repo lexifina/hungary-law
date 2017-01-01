@@ -2,7 +2,7 @@
 
 (1a) Az MNB a hatósági eljárása során a hiánypótlás teljesítésére negyvenöt napnál hosszabb határidőt is megállapíthat.
 
-(2) Az MNB hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.
+(2)
 
 (3) Az MNB eljárásaiban – e törvény eltérő rendelkezése hiányában – az ügyintézési határidő harminc nap.
 

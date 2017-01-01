@@ -64,7 +64,7 @@ t) a 35/A. § (1) bekezdésében, a Hpt. 92. § (1) bekezdésében és a Bszt. 1
 
 u) a Bszt. 110/A. § (4) bekezdése és 110/B. § (8) bekezdése szerinti mentesítést,
 
-v) a Bit. 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
+v) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
 
 (4) Az MNB tájékoztatja
 
@@ -140,7 +140,7 @@ by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mente
 
 bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról,
 
-bzs) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 327. § (9) bekezdése szerinti határozatokról.
+bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról;
 
 c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 
@@ -154,11 +154,11 @@ cd) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyze
 
 ce) azokról az általános problémákról, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
 
-cf) a Bit. 327. § (9) bekezdése, 337. § (7) bekezdése, 342. § (4)–(5) bekezdése, 343. § (9) bekezdése, 344. § (11) bekezdése, 351. § (5) bekezdése és 363. § (3) bekezdése szerinti határozatról,
+cf) a Bit. 279. § (5) bekezdésében és 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról,
 
-cg) a Bit. 310. § (4)–(5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
+cg) a Bit. 310. § (4) és (5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról;
 
-ch) a Bit. 335. § (8)–(9) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
+ch) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti információkról, vizsgálatokról és határozatokról;
 
 ci)–cj)
 
