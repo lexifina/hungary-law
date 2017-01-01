@@ -1,6 +1,6 @@
 175. § (1) A kártérítés összegének kiszámításánál a kár összegéből le kell vonni
 
-a) a társadalombiztosítás vagy az önkéntes kölcsönös biztosító pénztár által nyújtott ellátást, és
+a) a társadalombiztosítás vagy az önkéntes kölcsönös biztosító pénztár által nyújtott, valamint a honvédelmi egészségkárosodási ellátást, és
 
 b) azt a pénzösszeget,
 
@@ -8,9 +8,11 @@ ba) amelyet a károsult a munkaereje hasznosításával megkeresett, vagy az ado
 
 bb) amelyhez a károsult a megrongálódott dolog hasznosításával hozzájutott,
 
-bc) amelyhez a károsult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá, és
+bc) amelyhez a károsult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá,
 
-bd) amelyhez a károsult a Honvédség által, a javára megkötött biztosítás révén jut.
+bd) amelyhez a károsult a Honvédség által, a javára megkötött biztosítás révén jut és
+
+be) amelyhez a károsult a 173/A. § és a 177. § (1b) bekezdése alapján jutott.
 
 (2) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani akkor, ha a kártérítés a károsult vagy a vele szemben tartásra jogosult közeli hozzátartozója vagy élettársa tartását, vagy tartásának kiegészítését hivatott szolgálni.
 

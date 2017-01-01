@@ -1,0 +1,1 @@
+247/P. § Az állomány elhunyt tagjának, valamint az elhunyt nyugállományú katonának a 2017. január 1-jén árvaellátásban részesülő árvája vonatkozásában az árvák kiegészítő támogatásának megállapításáról szóló határozatokat 2017. június 30-ig kell meghozni.

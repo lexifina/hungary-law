@@ -18,4 +18,6 @@ távolléti díjnak megfelelő összeg.
 
 (2) A jubileumi jutalmat az arra jogosító szolgálati viszonyban töltött idő elérésének napján érvényes, a 122. § (4) bekezdése szerinti illetmény figyelembevételével számított távolléti díj, illetve a 47. § (1a) bekezdése szerinti esetben az ott meghatározott összeg alapján kell megállapítani és a jubileumi jutalomra jogosító szolgálati viszonyban töltött idő elérését követő hónap 5. napjáig kell folyósítani.
 
+(2a) A (2) bekezdést az állomány azon tagja esetében, aki a jubileumi jutalomra jogosító szolgálati viszonyban töltött idő elérésének napján illetmény nélküli szabadságát tölti, azzal az eltéréssel kell alkalmazni, hogy részére a jubileumi jutalmat az illetmény nélküli szabadság utolsó napját követő második hónap ötödik napjáig kell folyósítani.
+
 (3) Az állomány azon tagja részére, aki alapilletményre az 5. melléklet VII. besorolási osztály alapján jogosult, és a tartós külföldi szolgálata alatt válik jogosulttá jubileumi jutalomra, a jubileumi jutalmat a külföldi szolgálatot megelőző napon érvényes illetménye figyelembevételével számított távolléti díj alapján kell megállapítani.

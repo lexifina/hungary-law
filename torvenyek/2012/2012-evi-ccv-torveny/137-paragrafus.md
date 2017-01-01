@@ -22,7 +22,7 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 
 (3) A lakhatási támogatások formáját és mértékét, az igényjogosultság feltételeit, a miniszter által vezetett minisztérium által bérbe adott lakások és szállóférőhelyek bérleti díját miniszteri rendelet a szolgálati viszony jellegére, az állománycsoportra, a rendfokozati csoportra, a szolgálati beosztásra, valamint a szociális és családi körülményekre tekintettel differenciáltan határozhatja meg.
 
-(4) A hősi halottá nyilvánított részére nyújtott kamatmentes kölcsönből fennálló tartozást a miniszter kérelemre elengedheti. A kérelmet a túlélő házastársa, élettársa, örököse miniszteri rendeletben meghatározott eljárási rendben, a hősi halottá nyilvánítástól számított 1 éves jogvesztő határidőn belül terjesztheti elő.
+(4)
 
 (5) A központi támogatáson felül, a (2) bekezdés g) pontja szerinti támogatás forrása
 

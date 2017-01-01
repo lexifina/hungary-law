@@ -1,3 +1,11 @@
-144. § (1) A kiegészítő rokkantsági támogatásra és a kiegészítő hozzátartozói támogatásra (a továbbiakban együtt: kiegészítő támogatás) való jogosultságról a miniszter által kijelölt honvédségi szervezet hivatalból eljárva határozatban dönt, és a megállapított kiegészítő támogatást a nyugdíjfolyósító szerv folyósítja.
+144. § (1) Kiegészítő rokkantsági támogatásra jogosult az a megváltozott munkaképességű személy, akinek egészségi állapota a 30%-ot nem éri el, feltéve, hogy
 
-(2) A kiegészítő támogatás összegét a Tny. tv. 62. §-ában foglaltak szerint kell emelni.
+a) az állomány tagjaként a katonai szolgálatra alkalmatlanná vált,
+
+b) legalább 15 év tényleges szolgálati viszonyban töltött idővel rendelkezik,
+
+c) az egészségi állapotának kialakulása túlnyomórészt szolgálati kötelmekkel összefüggő baleset vagy szolgálati eredetű megbetegedés következménye, és
+
+d) részére rokkantsági ellátás került megállapításra.
+
+(2) Az (1) bekezdés szerinti kiegészítő rokkantsági támogatás mértéke a rokkantsági ellátás alapjául szolgáló havi átlagjövedelem 10%-ának megfelelő összeg.

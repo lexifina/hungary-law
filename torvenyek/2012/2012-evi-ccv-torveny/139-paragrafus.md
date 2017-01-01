@@ -9,3 +9,5 @@
 (4) A kegyelet hivatalos kifejezéseként az elhunytat a minősítéstől függően a végtisztesség megadásaként katonai tiszteletadással, és – az intézkedésre jogosult közeli hozzátartozó vagy élettárs kérésének megfelelően – vallási közösség által végzett szertartással vagy polgári szertartással kell eltemetni.
 
 (5) A kegyeleti minősítés szempontjait és feltételeit, a (4) bekezdés szerinti katonai temetés feltételeit, és a Honvédség által a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit miniszteri rendelet határozza meg.
+
+(6) A miniszter az (1) bekezdés szerint minősített elhunyt esetében posztumusz elismerésként az elhunytat – a 4/A. § (1) bekezdése szerinti eset kivételével – eggyel magasabb rendfokozatba előléptetheti, kinevezheti, vagy hadnagy rendfokozatba kinevezheti.

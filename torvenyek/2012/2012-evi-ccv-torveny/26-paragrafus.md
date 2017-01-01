@@ -4,7 +4,7 @@
 
 ## 15. Közös rendelkezések
 
-26. § (1) A szociális és gazdasági érdekek védelme, továbbá a szolgálati rend és fegyelem fenntartása érdekében e törvény szabályozza az érdekképviseleti szervezetek, ezen belül különösen a szakszervezet és a Honvédség kapcsolatrendszerét.
+26. § (1) A szociális és gazdasági érdekek védelme, továbbá a szolgálati rend és fegyelem fenntartása érdekében e törvény szabályozza az érdekképviseleti szervezetek, ezen belül különösen a szakszervezet és a Honvédség kapcsolatrendszerét, azzal, hogy a munkavédelmi érdekképviseleti választásra és a munkavédelmi érdekképviselet működésére e fejezet rendelkezéseit megfelelően alkalmazni kell.
 
 (2) Az állomány tagja szociális és gazdasági érdekei előmozdítása és védelme érdekében másokkal együtt érdekképviseleti szervezetet alakíthat, az általa választott érdekképviseleti szervezetbe, annak szabályaitól függően beléphet, vagy az érdekképviseleti szervezetektől távol maradhat.
 

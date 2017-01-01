@@ -22,7 +22,7 @@ f) az alapilletményt az állomány speciális beosztást betöltő tagja eseté
 
 kell megállapítani.
 
-(5) Az (1)–(4) bekezdéstől eltérően az állomány 46. § (1) bekezdés f)–s) pontja, valamint – ha az állomány tagjának illetményére a más szerv foglalkoztatottjaira vonatkozó szabályok irányadóak – b) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét
+(5) Az (1)–(4) bekezdéstől eltérően az állomány 46. § (1) bekezdés f)–s) és v) pontja, valamint – ha az állomány tagjának illetményére a más szerv foglalkoztatottjaira vonatkozó szabályok irányadóak – b) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét
 
 a) a 46. § (1) bekezdés adott pontja alapján történő rendelkezési állományba helyezést megelőző napon érvényes
 

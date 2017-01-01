@@ -22,7 +22,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 5. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet az állomány tagja szolgálati beosztásához kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni,
 
-6. előmenetel: szervezeti hierarchiában történő előrehaladás, amely szolgálati beosztásba történő kinevezéssel, illetve rendfokozati kinevezéssel, előléptetéssel valósul meg,
+6. előmenetel: szervezeti hierarchiában történő előrehaladás, amely szolgálati beosztásba történő kinevezéssel, illetve – a 139. § (6) bekezdése szerinti posztumusz elismerést ide nem értve – rendfokozati kinevezéssel, előléptetéssel valósul meg,
 
 7. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 
@@ -70,7 +70,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 25. Magyarországon települő katonai szervezet: nemzetközi szervezet döntése vagy nemzetközi megállapodás alapján létrehozott, Magyarországon települő olyan szervezet vagy alakulat, amely a létrehozó szervezet tagállamai vagy a részes államok érdekében katonai feladatot hajt végre,
 
-26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a minisztériumok, a kormányhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, rendvédelmi szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló vállalkozások, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédségi szervezetnek minősülő szervezeteket, a minisztériumok védelmi igazgatással foglalkozó szervezeti elemeit, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
+26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a minisztériumok, a kormányhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, rendvédelmi szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló vállalkozások, a Honvédelmi Sportszövetségről szóló törvény alapján létesült köztestület, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédségi szervezetnek minősülő szervezeteket, a minisztériumok védelmi igazgatással foglalkozó szervezeti elemeit, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
 
 27. megfelelő szolgálati beosztásba helyezés: az az azonos beosztásba áthelyezés vagy magasabb beosztásba kinevezés, amelynek betöltésére az állomány tagja iskolai végzettsége, szakképzettsége, szakképesítése, egyéb felkészültsége, valamint egészségi, pszichikai és fizikai állapota szerint, továbbá nemzetbiztonsági szempontból alkalmas,
 
@@ -94,7 +94,7 @@ b) aki öregségi nyugdíjban, más olyan pénzbeli ellátásban részesül, ame
 
 kivéve, ha a szolgálati viszonya lefokozás vagy szolgálati viszony megszüntetése fenyítés kiszabásával, büntetőeljárás keretében szolgálati viszony megszüntetése, lefokozás, szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, vagy méltatlanná válás, kifogástalan életvitel követelményének való meg nem felelés, nemzetbiztonsági szempontból katonai szolgálatra alkalmatlanság miatt szűnt meg,
 
-31. önkéntes tartalékos katona: az a katona, aki önkéntes műveleti tartalékosként vagy önkéntes védelmi tartalékosként szerződésben vállalja a katonai szolgálatot,
+31. önkéntes tartalékos katona: az a katona, aki szerződésben vállalja az e törvényben meghatározott feltételrendszer szerint a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 41. § (5) bekezdésében foglaltakat,
 
 32. rendszeres illetménypótlék: a havi mértékben megállapított illetménypótlék,
 

@@ -10,4 +10,4 @@ a) laktanyán kívüli készenléti szolgálat, ha a rendelkezésre állás idő
 
 b) laktanyai készenléti szolgálat, ha a rendelkezésre állás időtartamát és helyét a szolgálatvezénylésben a munkáltatói jogkört gyakorló határozza meg, vagy
 
-c) fegyveres vagy nemzetközi kötelezettségen alapuló készenléti szolgálat, ha a szolgálatvezénylésben meghatározott ideig, pihentetés biztosítása mellett, a készenléti szolgálat rendeltetése fegyveres szolgálatra vagy nemzetközi kötelezettségből fakadó feladatra történő felkészülés és feladatvégzés.
+c) fegyveres vagy nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölésen alapuló készenléti szolgálat, ha a szolgálatvezénylésben meghatározott ideig, pihentetés biztosítása mellett, a készenléti szolgálat rendeltetése fegyveres szolgálatra vagy nemzetközi kötelezettségből fakadó feladatra történő felkészülés és feladatvégzés.

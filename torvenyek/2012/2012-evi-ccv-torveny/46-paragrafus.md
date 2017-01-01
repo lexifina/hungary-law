@@ -42,7 +42,9 @@ s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban t�
 
 t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
 
-u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes vagy tábornoki rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.
+u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes vagy tábornoki rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig,
+
+v) a hivatásos állomány azon tagja, aki a KNBSZ-nél szolgálati beosztásra tervezett és a beosztás betöltése érdekében tanulmányokat folytat, az állományba vétel napjától a képzési idő tartamára, de legfeljebb egy évig, azzal, hogy e rendelkezési állomány tartama alatt a próbaidő szabályait kell alkalmazni.
 
 (2) Meg kell szüntetni az (1) bekezdés f)–i), k)–m), p) és u) pontja szerinti rendelkezési állományt, ha az állomány tagjának megfelelő szolgálati beosztásba helyezésére nincs lehetőség.
 
@@ -56,4 +58,10 @@ b) az állomány tagját más rendelkezési állományba áthelyezi, ha az a) po
 
 c) az eset összes körülményére tekintettel a 62. § szerint jár el, ha az a) és a b) pont nem alkalmazható.
 
-(5) A (4) bekezdés a) pontja szerinti beosztásba helyezés során a kinevezés vagy az áthelyezés szabályait kell alkalmazni azzal, hogy a beosztás szintjének meghatározása során szolgálati beosztás hiányában az utolsó betöltött beosztást kell figyelembe venni, ha pedig ilyen nem volt, akkor a viselt rendfokozatot.
+(5) A (4) bekezdés a) pontja szerinti beosztásba helyezés során a kinevezés vagy az áthelyezés szabályait kell alkalmazni, amely során
+
+a) a rendelkezési állományba helyezést megelőzően betöltött utolsó beosztást kell figyelembe venni, ha pedig ilyen nem volt, akkor a viselt rendfokozatot,
+
+b) az a) ponttól eltérően az (1) bekezdés b)–e) pontjába tartozó állomány esetén a rendelkezési állomány ideje alatt betöltött utolsó beosztásához rendszeresített rendfokozatot kell figyelembe venni, ha pedig ilyen nem volt, akkor a viselt rendfokozatot,
+
+c) az (1) bekezdés f) pontjába tartozó állomány esetén az a) vagy a b) pont szerinti szabályokat kell alkalmazni annak függvényében, hogy az állomány tagja az (1) bekezdés f) pontja szerinti rendelkezési állományba helyezését megelőzően mely jogcímen tartozott rendelkezési állományba.

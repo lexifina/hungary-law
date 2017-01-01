@@ -16,6 +16,6 @@ b) a 60 napot meghaladja, akkor a 60 napot meghaladó időtartamra az önkéntes
 
 (3) Az önkéntes tartalékos katona illetményéről, szerződéskötési díjáról és rendelkezésre állási díjáról írásban lemondhat.
 
-(4) A szolgálati járandóságban nem részesülő önkéntes védelmi tartalékos katona egyszeri alkalommal a honvédelmi illetményalap 45%-ában megállapított szerződéskötési díjra jogosult.
+(4) A szolgálati járandóságban nem részesülő önkéntes tartalékos katona miniszteri rendeletben meghatározottak szerint szerződéskötési díjra vagy rendelkezésre állási díjra jogosult.
 
-(5) A szolgálati járandóságban nem részesülő önkéntes műveleti tartalékos katona teljesített szolgálati évenként utólag rendelkezésre állási díjra jogosult, melynek összege a minimálbér 50%-a.
+(5)

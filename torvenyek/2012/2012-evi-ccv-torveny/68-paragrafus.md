@@ -28,9 +28,11 @@ l) a 162. § (1) bekezdés a) vagy b) pontja szerinti bírósági ítélet joger
 
 m) a 162. § (1) bekezdés c) pontja szerinti katonai szolgálatra méltatlanság megállapítása esetén,
 
-n) az a)–m) pontban nevesített eseteken kívül, ha e törvény azt kifejezetten elrendeli.
+n) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően honvédelmi egészségkárosodási járadékra való jogosultságát állapítják meg,
 
-o)
+o) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően a honvédségi szervezetnél történő munkaviszony létesítésére tekintettel részére honvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
+
+p) az a)–o) pontban nevesített eseteken kívül, ha e törvény azt kifejezetten elrendeli.
 
 (2) A szolgálat felső korhatára megegyezik a társadalombiztosítási szabályok szerinti öregségi nyugdíjkorhatárral.
 

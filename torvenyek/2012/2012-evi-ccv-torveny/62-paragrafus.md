@@ -28,6 +28,8 @@ f) az állomány tagja rendelkezési állományba nem helyezhető át, vagy abba
 
 g) az állománynak a Tny. tv. 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő tagja kérelmezi.
 
+(2a) A (2) bekezdés b) pontját nem kell alkalmazni, ha a 46. § (1) bekezdés t) pontja szerinti rendelkezési állomány időtartama alatt kerül sor az állomány tagja egészségi alkalmatlanságának megállapítására.
+
 (3) Az (1) bekezdés c)–e) pontja alapján akkor szüntethető meg a szolgálati viszony, ha
 
 a) az állomány tagja a 43. § (2) bekezdése szerinti kérelmet nem nyújtott be,

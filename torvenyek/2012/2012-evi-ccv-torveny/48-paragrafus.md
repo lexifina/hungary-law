@@ -8,6 +8,8 @@ c) a szolgálatba hívása tartamára a ténylegesen betöltendő szolgálati be
 
 d) szabadságra nem jogosult, kivéve, ha szolgálatba hívják, amelynek tartamára tekintettel az éves szabadság időarányosan illeti meg.
 
+(1a) Az (1) bekezdés a) pontját nem kell alkalmazni, ha a 46. § (1) bekezdés t) pontja szerinti rendelkezési állomány időtartama alatt kerül sor az állomány tagja egészségi alkalmatlanságának megállapítására.
+
 (2) Az (1) bekezdés b) pontja szerinti összeg megállapítása során alkalmazni kell a Kenytv. 20. §-át.
 
 (3) A nyugdíj előtti rendelkezési állományba helyezett illetményét a központi költségvetés a Honvédségnek megtéríti.

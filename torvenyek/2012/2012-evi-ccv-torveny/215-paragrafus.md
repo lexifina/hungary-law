@@ -2,9 +2,9 @@
 
 215. § (1) Megszűnik az önkéntes tartalékos szolgálati viszony akkor is, ha
 
-a) az önkéntes védelmi tartalékos katona hivatásos, szerződéses, honvéd tisztjelölt, honvéd altiszt-jelölt vagy önkéntes műveleti tartalékos szolgálati viszonyt létesít,
+a) az önkéntes tartalékos katona hivatásos, szerződéses, honvéd tisztjelölt vagy honvéd altiszt-jelölt szolgálati viszonyt létesít,
 
-b) az önkéntes műveleti tartalékos katona hivatásos, szerződéses, honvéd tisztjelölt, honvéd altiszt-jelölt vagy önkéntes védelmi tartalékos szolgálati viszonyt létesít,
+b) az önkéntes tartalékos katona miniszteri rendeletben meghatározott más típusú önkéntes tartalékos szolgálati viszonyt létesít,
 
 c) az önkéntes tartalékos katona meghagyásban részesülő munkakörbe kerül, kivéve, ha a miniszter kormányrendeletben meghatározottak szerint hozzájárulását adja az önkéntes tartalékos szolgálati viszonyának fenntartásához, vagy
 
@@ -24,4 +24,4 @@ b) a szolgálathalasztás időtartamára, és
 
 c) ha az önkéntes tartalékos katona szolgálati viszonyát a Honvédség a próbaidő alatt szünteti meg.
 
-(6) Az önkéntes tartalékos katona köteles visszafizetni a részére korábbi, szerződéses legénységi szolgálati viszonya alapján folyósított visszailleszkedési támogatás 74. § (3) bekezdése szerinti részét, ha önkéntes tartalékos szolgálati viszonya a vállalt szolgálati idő letöltése előtt a (3) bekezdés, az 59. § (1) bekezdés c) pontja, a 68. § (1) bekezdés c), e)–g), i)–n) pontja alapján szűnik meg, vagy ha a vállalt szolgálati idő letöltése előtt az önkéntes tartalékos katona a (2) bekezdés szerinti egyoldalú nyilatkozatot tett.
+(6) Az önkéntes tartalékos katona köteles visszafizetni a részére korábbi, szerződéses legénységi szolgálati viszonya alapján folyósított visszailleszkedési támogatás 74. § (3) bekezdése szerinti részét, ha önkéntes tartalékos szolgálati viszonya a vállalt szolgálati idő letöltése előtt a (3) bekezdés, az 59. § (1) bekezdés c) pontja, a 68. § (1) bekezdés c), e)–g), i)–m) vagy p) pontja alapján szűnik meg, vagy ha a vállalt szolgálati idő letöltése előtt az önkéntes tartalékos katona a (2) bekezdés szerinti egyoldalú nyilatkozatot tett.

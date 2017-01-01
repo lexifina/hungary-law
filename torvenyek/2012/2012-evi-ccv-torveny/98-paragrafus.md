@@ -1,4 +1,4 @@
-98. § (1) Az alapkiképzés időszakában a szolgálatteljesítési idő e törvény rendelkezéseitől eltérően is meghatározható azzal, hogy
+98. § (1) Az alapkiképzésben érintett személyi állományra irányadó szolgálatteljesítési idő e törvény rendelkezéseitől eltérően is meghatározható azzal, hogy
 
 a) a heti szolgálatteljesítési idő legfeljebb heti 70 óra lehet,
 

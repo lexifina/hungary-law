@@ -14,9 +14,9 @@ e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 (3) Szerződéses szolgálati viszony azzal létesíthető, aki első alkalommal
 
-a) tiszti vagy altiszti rendfokozattal rendszeresített beosztás esetén 5 év,
+a) tiszti vagy altiszti rendfokozattal rendszeresített beosztás esetén legalább öt év, de legfeljebb tíz év,
 
-b) tisztesi rendfokozattal rendszeresített beosztás esetén 3 év
+b) tisztesi rendfokozattal rendszeresített beosztás esetén legalább három év, de legfeljebb tíz év
 
 időtartamra vállalja a szolgálatot.
 

@@ -6,7 +6,7 @@ a) a szolgálati érdekből történő áthelyezéssel vagy vezényléssel kapcs
 
 b) a szolgálati feladat ellátásával összefüggésben váratlanul felmerült költségeit,
 
-c) a szabadságról, a munkaszüneti és a pihenőnapról történő visszarendeléssel összefüggő költséget, és
+c) a szabadságról, a munkaszüneti napról, a pihenőnapról és a szolgálatteljesítés alóli mentesülésről történő visszarendeléssel összefüggő költséget, és
 
 d) a munkába járás helyközi utazási költségeit.
 

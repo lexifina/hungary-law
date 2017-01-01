@@ -10,4 +10,8 @@ a) az (1) bekezdés a) pontja esetén legfeljebb az akadály megszűnéséig,
 
 b) az (1) bekezdés b) pontja esetén legfeljebb az eljárás jogerős befejezéséig vagy a szakvélemény elkészítéséig
 
-tart. Az eljárás felfüggesztésének időtartama a fegyelmi eljárás lefolytatására miniszteri rendeletben előírt határidőbe nem számít be.
+tart.
+
+(3) A munkáltatói jogkört gyakorló a fegyelmi eljárást határozattal felfüggesztheti az állomány tagjának a Hvt. 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban való részvételének időtartamára.
+
+(4) Az eljárás felfüggesztésének időtartama a fegyelmi eljárás lefolytatására miniszteri rendeletben előírt határidőbe nem számít be.

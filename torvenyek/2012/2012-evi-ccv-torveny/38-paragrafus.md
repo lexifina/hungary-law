@@ -10,7 +10,7 @@ próbaidőt kell kikötni.
 
 (2) Az (1) bekezdéstől eltérően, ha a szolgálati viszony
 
-a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból történő áthelyezéssel jön létre, próbaidőt nem kell kikötni,
+a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból történő áthelyezéssel jön létre, próbaidő nem köthető ki,
 
 b) kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, közszolgálati, közalkalmazotti jogviszonyból vagy igazságügyi alkalmazotti szolgálati jogviszonyból történő áthelyezéssel jön létre, legfeljebb hat hónapig terjedő próbaidő köthető ki.
 
@@ -25,3 +25,7 @@ b) kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, 
 (7) Ha az állomány tagjával a 32. § (1) bekezdés e) pontja alapján vagy a 32. § (2) bekezdése alapján létesítettek hivatásos szolgálati viszonyt, az alapkiképzést a kinevezését követő egy éven belül kell teljesítenie.
 
 (8) Az alapkiképzés határidőben történő teljesítése hiányában a szolgálati viszony e törvény erejénél fogva megszűnik.
+
+(9) Az alapkiképzés teljesítésére – ha azt az állomány tagja miniszteri rendeletben meghatározott, önhibáján kívüli okból a próbaidő alatt nem teljesíti – legfeljebb a szerződéskötés napjától számított egy évig terjedő határidő-halasztás engedélyezhető.
+
+(10) A munkáltatói jogkört gyakorló az állomány alapkiképzésre kötelezett tagját az alapkiképzés végrehajtása alól miniszteri rendeletben meghatározottak szerint mentesítheti.

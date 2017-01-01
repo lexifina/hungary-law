@@ -4,6 +4,6 @@
 
 (2)
 
-(3) A Közszolgálati Tisztviselők Napja munkaszüneti nap azon honvédségi szervezetnél, ahol az állomány tagja mellett kormánytisztviselők foglalkoztatására kerül sor.
+(3)
 
 (4) A foglalkoztatáspolitikáért felelős miniszter által évenként kiadott, az általános munkarendben foglalkoztatott munkavállalók munkaidő-beosztásának a munkaszüneti napok miatti változtatását szabályozó rendeletet az állomány tagjára is alkalmazni kell.
