@@ -10,7 +10,7 @@
 
 | Sportesemény neve: | Ideje: | Helyszíne: | Korosztály: | Helyezés: | Sportszakember neve: | A versenyző neve: | A versenyző sportszakmai felkészítésében végzett feladatköre: | Jutalom/ eredményességi támogatás összege: |
 
-4. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^34]
+4. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^38]
 
 Az eredményességi támogatásra jogosult utánpótlás korosztály
 
@@ -122,4 +122,4 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 53. | Vízilabda | U19 | U20 |  |
 
-[^34]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^38]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be.

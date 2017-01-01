@@ -1,4 +1,4 @@
-## 11. §[^29] A módosító rendelet hatálybalépésekor folyamatban lévő ügyekben az 5. § (6) bekezdés szerinti javaslatok elbírálása során a 6. § (4) bekezdésnek a módosító rendelet hatálybalépését[^30] megelőző napon hatályos rendelkezéseit nem kell alkalmazni.
+## 11. §[^33] A módosító rendelet hatálybalépésekor folyamatban lévő ügyekben az 5. § (6) bekezdés szerinti javaslatok elbírálása során a 6. § (4) bekezdésnek a módosító rendelet hatálybalépését[^34] megelőző napon hatályos rendelkezéseit nem kell alkalmazni.
 
-[^29]: A 11. §-t a 294/2015. (X. 8.) Korm. rendelet 10. §-a iktatta be.
-[^30]: A hatálybalépés időpontja 2015. október 16.
+[^33]: A 11. §-t a 294/2015. (X. 8.) Korm. rendelet 10. §-a iktatta be.
+[^34]: A hatálybalépés időpontja 2015. október 16.

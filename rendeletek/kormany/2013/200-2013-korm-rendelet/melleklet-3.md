@@ -70,6 +70,6 @@
 
 | III. | 225 000 | 180 000 | 135 000 | 450 000 | 360 000 | 270 000 |
 
-3. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^33]
+3. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^37]
 
-[^33]: A 3. mellékletet a 294/2015. (X. 8.) Korm. rendelet 12. §-a iktatta be.
+[^37]: A 3. mellékletet a 294/2015. (X. 8.) Korm. rendelet 12. §-a iktatta be.
