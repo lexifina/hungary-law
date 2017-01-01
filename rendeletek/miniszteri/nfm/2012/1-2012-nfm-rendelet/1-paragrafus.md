@@ -8,7 +8,7 @@
 
 3. harmadik állammal történő közös beruházás: Magyarország és nem EGT-állam (a továbbiakban: harmadik állam) közötti együttműködés, amelynek tárgya megújuló forrásból származó villamos energia termelésére irányuló közös beruházás megvalósítása a nemzeti célértékek teljesítése érdekében;
 
-3a.[^1] hatásfok: az energiatermelő rendszer által előállított hasznos, közvetlenül hasznosítható energia, és az energiatermelő rendszerben az energiatermeléshez felhasznált energia hányadosa;
+3a.[^1]
 
 4. hidrotermikus energia: a felszíni vizekben hő formájában tárolt energia;
 
@@ -36,7 +36,7 @@
 
 (2)[^4] Az (1) bekezdésben meg nem határozott fogalmakat a bányászatról szóló 1993. évi XLVIII. törvényben, a távhőszolgáltatásról szóló 2005. évi XVIII. törvényben, a VET-ben, a Büat.-ban és ezek végrehajtási rendeleteiben meghatározottak szerint kell értelmezni.
 
-[^1]: Az 1. § (1) bekezdés 3a. pontját az 50/2013. (VIII. 27.) NFM rendelet 1. § (1) bekezdése iktatta be.
+[^1]: Az 1. § (1) bekezdés 3a. pontját az 50/2013. (VIII. 27.) NFM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte az 55/2016. (XII. 21.) NFM rendelet 8. §-a.
 [^2]: Az 1. § (1) bekezdés 8a. pontját az 50/2013. (VIII. 27.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^3]: Az 1. § (1) bekezdés 8b. pontját az 50/2013. (VIII. 27.) NFM rendelet 1. § (3) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdése az 50/2013. (VIII. 27.) NFM rendelet 1. § (4) bekezdésével megállapított szöveg.
