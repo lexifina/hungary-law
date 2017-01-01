@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy 2016–2017. évben magyar kulturális évad megrendezésére kerüljön sor Lengyelországban;
 
-2. felhívja a külgazdasági és külügyminisztert, hogy a Balassi Intézet közreműködésével gondoskodjon az eseménysorozathoz kapcsolódó rendezvények megszervezéséről;
+2.[^1] felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon az eseménysorozathoz kapcsolódó rendezvények megszervezéséről;
 
 Felelős: külgazdasági és külügyminiszter
 
@@ -20,7 +20,7 @@ Határidő: a 2015–2016. évek tekintetében azonnal
 
 a 2017. év tekintetében a 2017. évi központi költségvetés tervezésekor
 
-4. felhívja a külgazdasági és külügyminisztert, hogy a lengyelországi magyar kulturális évadhoz kapcsolódó egyes események megrendezéséről a programok lebonyolítóival külön megállapodást kössön a Balassi Intézet közreműködésével;
+4.[^2] felhívja a külgazdasági és külügyminisztert, hogy a lengyelországi magyar kulturális évadhoz kapcsolódó egyes események megrendezéséről a programok lebonyolítóival külön megállapodást kössön;
 
 Felelős: külgazdasági és külügyminiszter
 
@@ -31,3 +31,6 @@ Határidő: folyamatos
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: folyamatos
+
+[^1]: A 2. pont az 1853/2016. (XII. 27.) Korm. határozat 59. pont a) pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 59. pont b) pontja szerint módosított szöveg.
