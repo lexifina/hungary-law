@@ -1,1 +1,0 @@
-58. § Az 57. §-tól eltérően az e törvény 2. mellékletében foglalt rendelkezést azokban az esetekben kell alkalmazni először, amelyekben az Áfa tv. 84. §-a szerint megállapított időpont a 2. melléklet hatálybalépésének napjára esik, vagy azt követi.

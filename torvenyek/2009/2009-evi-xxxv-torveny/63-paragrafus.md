@@ -1,1 +1,0 @@
-63. § Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 2. §-a (4)–(5) bekezdésének alkalmazásakor az adóalanyiság feltételeként előírt bevételi értékhatár a 2009. adóévre vonatkozóan 26 millió forint.

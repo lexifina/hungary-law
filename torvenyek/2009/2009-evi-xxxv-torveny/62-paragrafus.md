@@ -1,1 +1,0 @@
-62. § A Tao. 7. §-a (1) bekezdése cs) pontjának e törvénnyel módosított, valamint 7. §-a (2) bekezdésének és 1. számú melléklete 10/a. pontjának e törvénnyel megállapított rendelkezéseit a 2008-ban kezdődő adóév adóalapjának megállapításánál is alkalmazni lehet.
