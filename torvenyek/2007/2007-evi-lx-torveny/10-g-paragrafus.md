@@ -1,4 +1,4 @@
-10/G. § (1) A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendeletben kijelölt klímavédelemért felelős hatóság a kormányrendeletben meghatározott tevékenységet végző vállalkozásokról – vállalkozásonként F-Gáz ügyfélazonosító alkalmazásával – a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a végzett tevékenység megszűnésének, megszüntetésének időpontjáig az e törvény végrehajtására kiadott kormányrendeletben meghatározott adatbázis részeként az alábbi célok érdekében:
+10/G. § (1) A kormányrendeletben kijelölt klímavédelemért felelős hatóság a kormányrendeletben meghatározott tevékenységet végző vállalkozásokról – vállalkozásonként F-Gáz ügyfélazonosító alkalmazásával – a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a végzett tevékenység megszűnésének, megszüntetésének időpontjáig az e törvény végrehajtására kiadott kormányrendeletben meghatározott adatbázis részeként az alábbi célok érdekében:
 
 a) a fluortartalmú üvegházhatású gázokkal végzett tevékenységekre vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
 

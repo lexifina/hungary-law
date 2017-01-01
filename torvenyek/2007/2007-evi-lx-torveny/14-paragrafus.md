@@ -40,7 +40,7 @@ n) a fluortartalmú üvegházhatású gázokat tartalmazó termékek és berende
 
 o) a klímavédelmi bírság mértékét;
 
-p) a fluortartalmú üvegházhatású gázokkal végzett tevékenységek ellenőrzésével, felügyeletével és valamennyi hatósági feladat ellátásával kapcsolatban eljáró hatóság kijelölését.
+p) a klímavédelemért felelős hatóság kijelölését.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
