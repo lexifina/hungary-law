@@ -4,11 +4,11 @@
 
 | 1002/09 | Jelentés az iskola-egészségügyi munkáról | évenkénti | valamennyi iskolai (óvodai) egészségügyi feladatot ellátó orvos, védőnő | Nemzeti Egészségfejlesztési Intézet | iskolaévet követő szeptember 15. |
 
-|  |  |  | Nemzeti Egészségfejlesztési Intézet | Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, egészségügyért felelős miniszter által vezetett minisztérium, Országos Tisztifőorvosi Hivatal, Országos Egészségbiztosítási Pénztár | december 20. |
+|  |  |  | Nemzeti Egészségfejlesztési Intézet | Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, egészségügyért felelős miniszter által vezetett minisztérium, Országos Tisztifőorvosi Hivatal, Nemzeti Egészségbiztosítási Alapkezelő | december 20. |
 
 | 1003/09 | Védőnői jelentés összesítője | havonkénti/ évenkénti | valamennyi területi védőnő | Országos Tisztifőorvosi Hivatal | a tárgyhót követő 15. nap |
 
-|  |  |  | Országos Tisztifőorvosi Hivatal | Központi Statisztikai Hivatal, egészségügyért felelős miniszter által vezetett minisztérium, Nemzeti Egészségfejlesztési Intézet, Országos Egészségbiztosítási Pénztár | a tárgyévet követő február 15. |
+|  |  |  | Országos Tisztifőorvosi Hivatal | Központi Statisztikai Hivatal, egészségügyért felelős miniszter által vezetett minisztérium, Nemzeti Egészségfejlesztési Intézet, Nemzeti Egészségbiztosítási Alapkezelő | a tárgyévet követő február 15. |
 
 | 1205/04 | Tüdőbeteg-gondozók éves jelentése | évenkénti | valamennyi tüdőbeteg-gondozó intézet | területért felelős minőségügyi szakfőorvos 3 példányban, | a tárgyévet követő február 15. |
 
@@ -60,13 +60,13 @@
 
 |  |  |  | Országos Orvosi Rehabilitációs Intézet | egészségügyért felelős miniszter által vezetett minisztérium, Országos Tisztifőorvosi Hivatal | a tárgyévet követő április 30. |
 
-| 3026/1/09 | Az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló 33/2013. (V. 10.) EMMI rendelet szerinti kötelező klinikai audit jelentések | folyamatos/ évenkénti | szakterület szerinti valamennyi egészségügyi szolgáltató | Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ | folyamatos |
+| 3026/1/09 | Az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló 33/2013. (V. 10.) EMMI rendelet szerinti kötelező klinikai audit jelentések | folyamatos/ évenkénti | szakterület szerinti valamennyi egészségügyi szolgáltató | Egészségügyért felelős miniszter által vezetett minisztérium | folyamatos |
 
-|  |  |  | Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ | egészségügyért felelős miniszter által vezetett minisztérium, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
+|  |  |  | Egészségügyért felelős miniszter által vezetett minisztérium | egészségügyért felelős miniszter által vezetett minisztérium, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
 
-| 3026/2/09 | Minőségügyi szakfőorvosok és szakterületi vezetők éves klinikai audit beszámolója | évenkénti | valamennyi minőségügyi szakfőorvos és szakterületi vezető | Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ | a tárgyévet követő április 30. |
+| 3026/2/09 | Minőségügyi szakfőorvosok és szakterületi vezetők éves klinikai audit beszámolója | évenkénti | valamennyi minőségügyi szakfőorvos és szakterületi vezető | Egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő április 30. |
 
-|  |  |  | Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ | egészségügyért felelős miniszter által vezetett minisztérium, Központi Statisztikai Hivatal | a tárgyévet követő június 30. |
+|  |  |  | Egészségügyért felelős miniszter által vezetett minisztérium | egészségügyért felelős miniszter által vezetett minisztérium, Központi Statisztikai Hivatal | a tárgyévet követő június 30. |
 
 | 3027/06 | Összesítő jelentés a veleszületett rendellenességgel sújtott magzatokról, újszülöttekről, csecsemőkről (Veleszületett Rendellenességek Országos Nyilvántartása) | évenkénti | Országos Tisztifőorvosi Hivatal | egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő április 30. |
 
@@ -74,7 +74,7 @@
 
 |  |  |  |  | Központi Statisztikai Hivatal |  |
 
-| 4029/09 | Jelentés az egészségügyi szakképzésről | eseményhez kötődő | egészségügyi szakképzést folytató intézmények (a szakképzésről szóló 2011. évi CLXXXVII. törvény alapján) | Egészségügyi Nyilvántartási és Képzési Központ | az eseményt követő 15. nap |
+| 4029/09 | Jelentés az egészségügyi szakképzésről | eseményhez kötődő | egészségügyi szakképzést folytató intézmények (a szakképzésről szóló 2011. évi CLXXXVII. törvény alapján) | Állami Egészségügyi Ellátó Központ | az eseményt követő 15. nap |
 
 |  |  |  |  | egészségügyi szakképzést folytató intézmény fenntartója |  |
 
@@ -96,13 +96,13 @@
 
 ## * Az adatszolgáltatás beérkezési határideje: ha a megjelölt dátum munkaszüneti nap vagy heti pihenőnap, a határidő a következő munkanap.
 
-2. számú melléklet a 76/2004. (VIII. 19.) ESZCSM rendelethez[^10]
+2. számú melléklet a 76/2004. (VIII. 19.) ESZCSM rendelethez[^12]
 
-Az OEP adatközlése a finanszírozási adatokról
+A NEAK adatközlése a finanszírozási adatokról[^13]
 
-1. Tételes jelentési kötelezettség az egészségügyért felelős miniszter által vezetett minisztérium és az Állami Egészségügyi Ellátó Központ részére:
+1.[^14] Tételes jelentési kötelezettség az egészségügyért felelős miniszter által vezetett minisztérium és az Állami Egészségügyi Ellátó Központ részére:
 
-Az OEP az adatokat személyazonosításra alkalmatlan módon kapcsolati kóddal ellátva szolgáltatja, amely biztosítja az ellátott betegek megkülönböztetését, az egyes ellátási események összefűzését. Az OEP a gyógyszerforgalmi (vény) adatokat személy, gyógyszertár, orvos azonosítására alkalmatlan módon kapcsolati kóddal ellátva, a gyógyszertár irányítószámával kiegészített formában szolgáltatja. Az OEP valamennyi jelentésre vonatkozóan átadja a jelentési rekordszerkezet pontos technikai leírását, az egyes mezőkben szereplő kódok (ide nem értve az OEP honlapján jogszabály szerint közzéteendő törzseket) pontos értelmezését, valamint ezek módosulását. Az adatokat az OEP adattárába kerülő rekordokkal megegyező részletezettséggel kell átadni.
+A NEAK az adatokat személyazonosításra alkalmatlan módon kapcsolati kóddal ellátva szolgáltatja, amely biztosítja az ellátott betegek megkülönböztetését, az egyes ellátási események összefűzését. A NEAK a gyógyszerforgalmi (vény) adatokat személy, gyógyszertár, orvos azonosítására alkalmatlan módon kapcsolati kóddal ellátva, a gyógyszertár irányítószámával kiegészített formában szolgáltatja. A NEAK valamennyi jelentésre vonatkozóan átadja a jelentési rekordszerkezet pontos technikai leírását, az egyes mezőkben szereplő kódok (ide nem értve a NEAK honlapján jogszabály szerint közzéteendő törzseket) pontos értelmezését, valamint ezek módosulását. Az adatokat a NEAK adattárába kerülő rekordokkal megegyező részletezettséggel kell átadni.
 
 1.1. A fekvő- és járóbeteg- (gondozói) szakellátás teljesítmény elszámolás jelentési, besorolási és finanszírozási eljárás utáni rekordképeinek megfelelően részletezett adatok.
 
@@ -154,4 +154,6 @@ Az OEP az adatokat személyazonosításra alkalmatlan módon kapcsolati kóddal 
 
 2.3.4. gyógyszertárak azonosítóját helyettesítő kapcsolati kódlista, mely tartalmazza a gyógyszertár irányítószámát.
 
-[^10]: A 2. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 69. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 69. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. melléklet címe az 54/2016. (XII. 30.) EMMI rendelet 42. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 2. melléklet 1. pontja az 54/2016. (XII. 30.) EMMI rendelet 42. § (3) bekezdés e)–f) pontja szerint módosított szöveg.
