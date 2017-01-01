@@ -1,6 +1,6 @@
-## 6–7. §[^1]
+## 6–7. §[^2]
 
-1. melléklet az 57/2013. (VIII. 7.) EMMI rendelethez
+1. melléklet az 57/2013. (VIII. 7.) EMMI rendelethez[^3]
 
 A kulturális javak védetté nyilvánítási eljárásában szakértőként közreműködő intézmények
 
@@ -58,8 +58,9 @@ A kulturális javak védetté nyilvánítási eljárásában szakértőként kö
 
 | 26. | Vízügytörténeti és környezetvédelmi emlékek | Magyar Környezetvédelmi és Vízügyi Múzeum | 2500 Esztergom, Kölcsey Ferenc u. 2. |
 
-| 27. | Mozgófilmek, videofelvételek | Magyar Nemzeti Digitális Archívum és Filmintézet | 1021 Budapest, Budakeszi út 51/B. |
+| 27. | Mozgófilmek, videofelvételek | Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 1021 Budapest, Budakeszi út 51/E. |
 
 | 28. | Egyház- és vallástörténeti emlékek, kegytárgyak, műalkotások | A tárgy jellegének megfelelő fenti közgyűjtemények, az alábbi illetékes felekezeti intézmények bevonásával: Országos Katolikus Gyűjteményi Központ Evangélikus Országos Múzeum Országos Református Gyűjteményi Központ MAZSIHISZ – Magyar Zsidó Múzeum | 1068 Budapest, Városligeti fasor 42. 1052 Budapest, Deák tér 4. 1146 Budapest, Abonyi u. 21. 1077 Budapest, Dohány u. 2. |
 
-[^1]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 37/2016. (XII. 29.) MvM rendelet 6. §-a szerint módosított szöveg.
