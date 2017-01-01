@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-106-20-
 | 2015-09-08 | 2007-106-20-82.15 | 52/2015. (IX. 7.) FM rendelet |
 | 2015-09-17 | 2007-106-20-82.16 | 54/2015. (IX. 16.) FM rendelet |
 | 2016-04-12 | 2007-106-20-82.17 | 25/2016. (IV. 11.) FM rendelet |
+| 2017-01-01 | 2007-106-20-82.18 | 115/2009. (VIII. 29.) FVM rendelet |
