@@ -26,7 +26,7 @@
 
 ## * Ha a javasolt személy nem magyar állampolgár, kérem a javaslati laphoz csatolni az adott ország illetékesének hozzájárulását!
 
-9.[^38] melléklet a 15/2013. (VIII. 22.) HM rendelethez
+9.[^40] melléklet a 15/2013. (VIII. 22.) HM rendelethez
 
 ## Nyilatkozat
 
@@ -50,4 +50,4 @@ Kelt
 
 elismerésre javasolt aláírása
 
-[^38]: A 9. melléklet a 14/2015. (XII. 17.) HM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^40]: A 9. melléklet a 14/2015. (XII. 17.) HM rendelet 11. § (3) bekezdésével megállapított szöveg.
