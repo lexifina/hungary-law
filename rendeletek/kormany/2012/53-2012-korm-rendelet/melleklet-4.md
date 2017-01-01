@@ -1,3 +1,3 @@
-4. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^43]
+4. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^46]
 
-[^43]: A 4. melléklet az 559/2013. (XII. 31.) Korm. rendelet 68. § (3) bekezdésével megállapított szöveg.
+[^46]: A 4. melléklet az 559/2013. (XII. 31.) Korm. rendelet 68. § (3) bekezdésével megállapított szöveg.

@@ -6,7 +6,7 @@
 
 1.1. A szénhidrogén termelésben, továbbfeldolgozásban vagy továbbfelhasználásban használt technológiai építményi csővezeték, a szénhidrogén szállító-, a földgáz elosztó- és célvezeték, valamint az egyéb gázok és gáztermékek szállítóvezetékeinek és ezek tartozékainak a meglévő biztonsági övezeten belüli, többlet szolgalmi jogot vagy vezetékjogot nem igénylő azonos vagy alacsonyabb nyomásfokozatúra történő kiváltása, ha az engedélyezettel azonos vagy korszerűbb műszaki jellemzőkkel és paraméterekkel bír.
 
-1.2.[^42] A 400 méter mélységet meg nem haladó mélyfúrás, az 5 méter mélységet meg nem haladó kutatóakna és a 2 méter mélységet meg nem haladó kutatóárok létesítése, ha
+1.2.[^43] A 400 méter mélységet meg nem haladó mélyfúrás, az 5 méter mélységet meg nem haladó kutatóakna és a 2 méter mélységet meg nem haladó kutatóárok létesítése, ha
 
 1.2.1. a szilárdásvány bányászat és a földtani kutatás területén a kutatást a hatóság engedélyezte, vagy
 
@@ -20,6 +20,10 @@
 
 1.5. A szénhidrogén termelésben, továbbfeldolgozásban vagy továbbfelhasználásban, szállításban használt technológiai rendszeren történő olyan felújítás, átalakítás, módosítás, amely a rendszer rendeltetésszerű működésében változással nem jár, annak a folyamatokra hatása nincs, a rendszer biztonsági szintje nem csökken és a használatba vételi engedélyben rögzített területen belül megvalósíthatók.
 
+1.6.[^44] A geotermikus energia felszín alatti víz kitermelését nem igénylő, 20 métert meg nem haladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével.
+
+1.7.[^45] Az 1. melléklet 1.3.3–1.3.5. pontokban foglalt építmény bontása, illetve a földalatti bányatérségben elhelyezkedő, 1. melléklet 1.3.7. és 4.3. pontokban foglalt építmény bontása.
+
 2. A 34. § alapján összevont bejelentéshez kötött építési tevékenység:
 
 2.1. A kisnyomású gázelosztó-vezeték belterületen történő építése.
@@ -28,4 +32,6 @@
 
 2.3. Nyomásszabályozó állomások főelemeinek – fő gázáramlásba épített elzáró szerelvények, nyomásszabályozó berendezés és tartozékai, biztonsági lefúvató és gyorszár – cseréje, ha az új elem az eredetivel megegyező funkciójú, nyomásfokozatú, illetve teljesítményű.
 
-[^42]: A 3. melléklet 1.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^43]: A 3. melléklet 1.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^44]: A 3. melléklet 1. pont 1.6. alpontját a 458/2016. (XII. 23.) Korm. rendelet 27. §-a iktatta be.
+[^45]: A 3. melléklet 1. pont 1.7. alpontját a 458/2016. (XII. 23.) Korm. rendelet 27. §-a iktatta be.
