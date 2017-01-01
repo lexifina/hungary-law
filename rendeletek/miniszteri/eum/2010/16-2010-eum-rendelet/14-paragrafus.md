@@ -2,7 +2,7 @@
 
 14. § (1) A szakvizsga gyakorlati és elméleti részből áll.
 
-(2)[^59] A gyakorlati vizsga időtartama 2–5 munkanap. A jelölt az eredményes gyakorlati vizsgát követően bocsátható elméleti vizsgára.
+(2)[^72] A gyakorlati vizsga időtartama 2–5 munkanap. A jelölt az eredményes gyakorlati vizsgát követően bocsátható elméleti vizsgára.
 
 (3) A szakvizsga elméleti része nyilvános.
 
@@ -10,7 +10,7 @@
 
 (5) Az ismétlővizsgára történő jelentkezésre a 13. §-ban foglalt szabályok irányadók.
 
-(6)[^60] Mind a gyakorlati, mind az elméleti vizsga sikertelenség esetén legfeljebb két ízben ismételhető. A második sikertelen ismétlővizsga után az egyetem által meghatározott elméleti és egy éves gyakorlati képzésben való részvétel után lehet ismét szakvizsgára jelentkezni.
+(6)[^73] Mind a gyakorlati, mind az elméleti vizsga sikertelenség esetén legfeljebb két ízben ismételhető. A második sikertelen ismétlővizsga után az egyetem által meghatározott elméleti és egy éves gyakorlati képzésben való részvétel után lehet ismét szakvizsgára jelentkezni.
 
-[^59]: A 14. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 22. §-a szerint módosított szöveg.
-[^60]: A 14. § (6) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg.
+[^72]: A 14. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 22. §-a szerint módosított szöveg.
+[^73]: A 14. § (6) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg.

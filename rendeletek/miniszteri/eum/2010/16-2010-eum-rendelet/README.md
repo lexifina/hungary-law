@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-0
 | 2015-07-01 | 2010-16-20-0B.14 | 34/2015. (VI. 30.) EMMI rendelet |
 | 2016-01-01 | 2010-16-20-0B.15 | 34/2015. (VI. 30.) EMMI rendelet |
 | 2016-09-30 | 2010-16-20-0B.16 | 28/2016. (IX. 29.) EMMI rendelet |
+| 2017-01-01 | 2010-16-20-0B.17 | 54/2016. (XII. 30.) EMMI rendelet |
