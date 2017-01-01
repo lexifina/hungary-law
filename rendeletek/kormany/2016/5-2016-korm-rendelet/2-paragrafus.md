@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 22. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## „(3) A gimnázium legalább két, a szakgimnázium az ágazati és ágazaton kívüli szakmai vizsgatárgyon kívül legalább egy vizsgatárgyból a helyi tantervében meghatározottak szerint teszi lehetővé az emelt szintű érettségi vizsgára történő felkészülést. E döntéséhez kikéri az iskolai diákönkormányzat véleményét. Az emelt szintre történő felkészítés mellett a kötelező érettségi vizsgatárgyakon kívül gimnáziumban legalább három, szakgimnáziumban legalább kettő vizsgatárgyból lehetővé kell tenni a középszintű vizsgára történő felkészülést. A (2) és (3) bekezdés alkalmazásában az idegen nyelv vizsgatárgyak egy vizsgatárgynak minősülnek.”

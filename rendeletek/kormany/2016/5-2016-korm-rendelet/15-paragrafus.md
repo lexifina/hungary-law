@@ -1,0 +1,1 @@
+## „c) ha az érettségi bizonyítvány az Nkt. 6. § (1) bekezdése értelmében a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti munkakör betöltésére képesít, az erre vonatkozó kötelező záradékot.
