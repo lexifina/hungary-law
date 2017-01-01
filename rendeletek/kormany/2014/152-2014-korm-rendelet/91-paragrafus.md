@@ -1,4 +1,4 @@
-## 90/B. §[^95] A Kormány a Nemzeti Adó- és Vámhivatal vezetője feladat- és hatáskörének gyakorlójaként a miniszter által vezetett minisztérium parlamenti és adóügyekért felelős államtitkárát jelöli ki.
+## 90/B. §[^111] A Kormány a Nemzeti Adó- és Vámhivatal vezetője feladat- és hatáskörének gyakorlójaként a miniszter által vezetett minisztérium parlamenti és adóügyekért felelős államtitkárát jelöli ki.
 
 91. § (1) A miniszter az adópolitikáért való felelőssége keretében előkészíti az államháztartás alrendszereit illető befizetési kötelezettségekre, az adózás rendjére, a vámjog és vámeljárás szabályozására, a Nemzeti Adó- és Vámhivatalra, valamint a szerencsejátékra vonatkozó jogszabályokat.
 
@@ -12,7 +12,7 @@ c) felelős az Európai Unió tagállamai között vámunióval kapcsolatos fela
 
 d) gondoskodik az adótanácsadók, adószakértők, okleveles adószakértők nyilvántartásának vezetéséről,
 
-e)[^96] gondoskodik a vámjogi szakértői hatósági képzést lebonyolító képző szervek, a vámjogi szakértői hatósági vizsgán közreműködő vizsgabiztosok, valamint a vámtanácsadók és a vámügynökök nyilvántartásának vezetéséről.
+e)[^112] gondoskodik a vámjogi szakértői hatósági képzést lebonyolító képző szervek, a vámjogi szakértői hatósági vizsgán közreműködő vizsgabiztosok, valamint a vámtanácsadók és a vámügynökök nyilvántartásának vezetéséről.
 
-[^95]: A 90/B. §-t a 486/2015. (XII. 29.) Korm. rendelet 46. § (1) bekezdése iktatta be.
-[^96]: A 91. § (2) bekezdés e) pontját a 88/2016. (IV. 29.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^111]: A 90/B. §-t a 486/2015. (XII. 29.) Korm. rendelet 46. § (1) bekezdése iktatta be.
+[^112]: A 91. § (2) bekezdés e) pontját a 88/2016. (IV. 29.) Korm. rendelet 32. § (2) bekezdése iktatta be.

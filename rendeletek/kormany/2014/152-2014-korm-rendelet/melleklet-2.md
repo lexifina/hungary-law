@@ -10,7 +10,7 @@
 
 |  | 2 | fővárosi és megyei kormányhivatalok | irányítás |
 
-|  | 3 | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ | irányítás |
+|  | 3 |  |  |
 
 |  | 4 | Információs Hivatal | irányítás |
 
@@ -30,7 +30,7 @@
 
 |  | 11 | Magyar Nyelvstratégiai Intézet | irányítás |
 
-|  | 12 | Mezőgazdasági és Vidékfejlesztési Hivatal | irányítás |
+|  | 12 |  |  |
 
 ## AA) Miniszterelnök kabinetfőnöke
 
@@ -50,11 +50,11 @@
 
 |  | 3 | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek | irányítás |
 
-|  | 4 | Bevándorlási és Állampolgársági Hivatal | irányítás |
+|  | 4 | Bevándorlási és Menekültügyi Hivatal | irányítás |
 
 |  | 5 | Büntetés-végrehajtás Országos Parancsnoksága és az irányítása alá tartozó szervek | irányítás |
 
-|  | 6 | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | irányítás |
+|  | 6 |  |  |
 
 |  | 7 | Nemzetbiztonsági Szakszolgálat | irányítás |
 
@@ -74,21 +74,21 @@
 
 |  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-|  | 2 | Egészségügyi Nyilvántartási és Képzési Központ | irányítás |
+|  | 2 |  |  |
 
 |  | 3 | Emberi Erőforrás Támogatáskezelő | irányítás |
 
 |  | 4 | Állami Egészségügyi Ellátó Központ | irányítás |
 
-|  | 5 | Klebelsberg Intézményfenntartó Központ | irányítás |
+|  | 5 | Klebelsberg Központ | irányítás |
 
-|  | 6 | Nemzeti Rehabilitációs és Szociális Hivatal | irányítás |
+|  | 6 |  |  |
 
 |  | 7 | Oktatási Hivatal | irányítás |
 
-|  | 8 | Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ | irányítás |
+|  | 8 |  |  |
 
-|  | 9 | Országos Egészségbiztosítási Pénztár | irányítás |
+|  | 9 | Nemzeti Egészségbiztosítási Alapkezelő | irányítás |
 
 |  | 10 | Országos Nyugdíjbiztosítási Főigazgatóság | irányítás |
 
@@ -104,7 +104,7 @@
 
 |  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-|  | 2 | Földmérési és Távérzékelési Intézet | irányítás |
+|  | 2 |  |  |
 
 |  | 3 |  |  |
 
@@ -112,7 +112,7 @@
 
 |  | 5 | Nemzeti park igazgatóságok | irányítás |
 
-|  | 6 | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | irányítás |
+|  | 6 |  |  |
 
 |  | 7 | Országos Meteorológiai Szolgálat | irányítás |
 
@@ -128,15 +128,7 @@
 
 |  | 4 |  |  |
 
-## F) Igazságügyi miniszter
-
-|  |  | A | B |
-
-|  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
-
-|  | 2 |  |  |
-
-|  | 3 | Igazságügyi Hivatal | irányítás |
+## F)
 
 ## G) Külgazdasági és külügyminiszter
 
@@ -146,7 +138,7 @@
 
 |  | 2 |  |  |
 
-|  | 3 | Külügyi és Külgazdasági Intézet | irányítás |
+|  | 3 |  |  |
 
 |  | 4 | Nemzeti Befektetési Ügynökség | irányítás |
 
@@ -160,13 +152,13 @@
 
 |  | 3 | Magyar Államkincstár | irányítás |
 
-|  | 4 | Magyar Kereskedelmi Engedélyezési Hivatal | irányítás |
+|  | 4 |  |  |
 
 |  | 5 | Nemzeti Adó- és Vámhivatal | irányítás |
 
 |  | 6 |  |  |
 
-|  | 7 | Nemzeti Szakképzési és Felnőttképzési Hivatal | irányítás |
+|  | 7 |  |  |
 
 |  | 8. | Szellemi Tulajdon Nemzeti Hivatala | felügyelet |
 
@@ -178,13 +170,13 @@
 
 |  | 2 |  |  |
 
-|  | 3 | Közlekedésfejlesztési Koordinációs Központ | irányítás |
+|  | 3 |  |  |
 
 |  | 4 | Magyar Bányászati és Földtani Hivatal | irányítás |
 
-|  | 5 | Nemzeti Fogyasztóvédelmi Hatóság | irányítás |
+|  | 5 |  |  |
 
-|  | 6 | Nemzeti Közlekedési Hatóság | irányítás |
+|  | 6 |  |  |
 
 |  | 7 | Országos Atomenergia Hivatal | felügyelet |
 

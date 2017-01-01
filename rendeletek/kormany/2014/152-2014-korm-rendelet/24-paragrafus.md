@@ -1,1 +1,3 @@
-## 23. § A miniszter az állampolgársági ügyekért való felelőssége keretében előkészíti a magyar állampolgárságra vonatkozó jogszabályokat.
+24. §[^42]
+
+[^42]: A 24. §-t a 379/2016. (XII. 2.) Korm. rendelet 272. § (10) bekezdés b) pontja hatályon kívül helyezte.

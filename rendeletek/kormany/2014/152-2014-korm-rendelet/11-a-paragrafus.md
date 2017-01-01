@@ -1,4 +1,4 @@
-11/A. §[^19] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
+11/A. §[^20] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
 
 (2) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében felel az Európai Unió politikáiból eredő és az európai uniós tagsághoz kapcsolódó kormányzati feladatok tárcaközi összehangolásáért, ennek keretében
 
@@ -22,13 +22,13 @@ f) részt vesz az uniós tagságból fakadó kötelezettségek végrehajtásána
 
 g) összehangolja a Kormány és az Országgyűlés európai uniós ügyekkel kapcsolatos együttműködésével összefüggő kormányzati feladatokat,
 
-h)[^20] ellátja a Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: Állandó Képviselet) irányítását, kialakítja az Állandó Képviselet működésére vonatkozó szabályokat,
+h)[^21] ellátja a Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: Állandó Képviselet) irányítását, kialakítja az Állandó Képviselet működésére vonatkozó szabályokat,
 
-i)[^21] javaslatot tesz az Állandó Képviselet vezetőjének és az Állandó Képviseleten működő nagykövetek kinevezésére és felmentésére,
+i)[^22] javaslatot tesz az Állandó Képviselet vezetőjének és az Állandó Képviseleten működő nagykövetek kinevezésére és felmentésére,
 
-j)[^22]
+j)[^23]
 
-[^19]: A 11/A. §-t a 303/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^20]: A 11/A. § (2) bekezdés h) pontja a 245/2016. (VIII. 17.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 9. §-át.
-[^21]: A 11/A. § (2) bekezdés i) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^22]: A 11/A. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 245/2016. (VIII. 17.) Korm. rendelet 7. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 9. §-át.
+[^20]: A 11/A. §-t a 303/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^21]: A 11/A. § (2) bekezdés h) pontja a 245/2016. (VIII. 17.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 9. §-át.
+[^22]: A 11/A. § (2) bekezdés i) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^23]: A 11/A. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 245/2016. (VIII. 17.) Korm. rendelet 7. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 9. §-át.

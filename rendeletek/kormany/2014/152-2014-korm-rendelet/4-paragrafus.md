@@ -24,7 +24,7 @@
 
 7. agrár-vidékfejlesztésért,
 
-8.[^3]
+8.[^3] – az 1. § (4) bekezdésében meghatározott kivétellel – állampolgársági ügyekért,
 
 9. közbeszerzésekért,
 
@@ -46,10 +46,13 @@
 
 16. kormányzati társadalmi kapcsolatok összehangolásáért
 
+17.[^6] anyakönyvi ügyekért
+
 felelős tagja.
 
 [^1]: A 4. § 1. pontja a 236/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 4. § 5a. pontját a 303/2014. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 4. § 8. pontját a 381/2014. (XII. 31.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^3]: A 4. § 8. pontját a 381/2014. (XII. 31.) Korm. rendelet 29. §-a hatályon kívül helyezte, újonnan a 379/2016. (XII. 2.) Korm. rendelet 272. § (1) bekezdése iktatta be.
 [^4]: A 4. § 12a. pontját a 221/2014. (IX. 4.) Korm. rendelet 817. §-a iktatta be.
 [^5]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § a) pontja.
+[^6]: A 4. § 17. pontját a 379/2016. (XII. 2.) Korm. rendelet 272. § (2) bekezdése iktatta be.

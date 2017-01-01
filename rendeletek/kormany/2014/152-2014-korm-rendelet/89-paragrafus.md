@@ -8,15 +8,15 @@ c) a diplomáciai kiváltságokkal és mentességekkel kapcsolatos eljárásra, 
 
 d) a konzuli védelemre, valamint a tiszteletbeli konzulok megbízásának és fogadásának rendjére,
 
-e)[^79] a nemzetközi fejlesztési együttműködésre,
+e)[^92] a nemzetközi fejlesztési együttműködésre,
 
-f)[^80] a nemzetközi humanitárius segítségnyújtásra
+f)[^93] a nemzetközi humanitárius segítségnyújtásra
 
 vonatkozó jogszabályokat.
 
 (2) A miniszter a külpolitikáért való felelőssége keretében
 
-a)[^81] felel a kül-, biztonság- és védelempolitikáért, e tekintetben
+a)[^94] felel a kül-, biztonság- és védelempolitikáért, e tekintetben
 
 aa) javaslatot készít a Kormány kül-, biztonság és védelempolitikai tevékenységére és irányítja az ebből eredő kormányzati feladatok előkészítését, koordinálja és ellenőrzi annak végrehajtását,
 
@@ -32,11 +32,11 @@ af) tájékoztatja a Kormányt a nemzetközi és biztonságpolitikai helyzetről
 
 ag) előmozdítja a külpolitika civil kapcsolatainak erősítését,
 
-ah)[^82]
+ah)[^95]
 
 b) felel az egységes kormányzati külpolitika koordinálásáért, e tekintetben
 
-ba)[^83] a Kormány feladatkörében érintett tagjával együttműködve irányítja az egységes külképviseleti rendszert, valamint a szakdiplomata hálózatot,
+ba)[^96] a Kormány feladatkörében érintett tagjával együttműködve irányítja az egységes külképviseleti rendszert, valamint a szakdiplomata hálózatot,
 
 bb) a Kormány feladatkörében érintett tagjával együttműködve kidolgozza a nemzetközi politikai, biztonságpolitikai és kollektív védelmi, kulturális, tudományos, gazdasági és pénzügyi szervezetekben, illetve intézményekben való részvétel alapelveit, ellenőrzi azok megvalósulását, és kezdeményezi a két- és többoldalú együttműködést,
 
@@ -52,7 +52,7 @@ cc) javaslatot tesz az államok elismerésére, a diplomáciai és konzuli kapcs
 
 cd) javaslatot tesz a diplomáciai és hivatásos konzuli képviselet létesítésére, illetve megszüntetésére, gondoskodik a tiszteletbeli konzuli képviselet létesítéséről, illetve megszüntetéséről,
 
-ce)[^84] – az Állandó Képviselet kivételével – javaslatot tesz a magyar külképviseletek vezetőinek kinevezésére és felmentésére, kinevezi és felmenti a főkonzulokat, kinevezi a tiszteletbeli konzuli képviselet vezetőjét és dönt a kinevezés visszavonásáról, kinevezi és felmenti a diplomáciai és konzuli személyzetet,
+ce)[^97] – az Állandó Képviselet kivételével – javaslatot tesz a magyar külképviseletek vezetőinek kinevezésére és felmentésére, kinevezi és felmenti a főkonzulokat, kinevezi a tiszteletbeli konzuli képviselet vezetőjét és dönt a kinevezés visszavonásáról, kinevezi és felmenti a diplomáciai és konzuli személyzetet,
 
 cf) együttműködik a diplomáciai és konzuli képviseletekkel, továbbá más államoknak és nemzetközi szervezeteknek Magyarországon hivatalosan tartózkodó képviselőivel, valamint
 
@@ -66,7 +66,7 @@ db) javaslatot tesz a Kormánynak a magyar állampolgárok hazatérésének elő
 
 dc) felhatalmazást ad a konzuli tisztviselőknek egyes közjegyzői feladatok végzésére, gondoskodik e konzuli tisztviselők jegyzékének közzétételéről,
 
-e)[^85] felel a külföldre utazásról, valamint a külföldiek beutazásáról és tartózkodásáról szóló jogszabályokban meghatározott egyes feladatok, továbbá az ehhez kapcsolódó egyes európai uniós feladatok ellátásáért, e tekintetben
+e)[^98] felel a külföldre utazásról, valamint a külföldiek beutazásáról és tartózkodásáról szóló jogszabályokban meghatározott egyes feladatok, továbbá az ehhez kapcsolódó egyes európai uniós feladatok ellátásáért, e tekintetben
 
 ea) ellátja a hatáskörébe utalt feladatokat a diplomata- és a külügyi szolgálati útlevelek vonatkozásában, valamint a magánútlevelek tekintetében a konzuli szolgálat, mint útlevélhatóság által hatáskörébe utalt feladatokat,
 
@@ -94,7 +94,7 @@ ff) megállapítja a nemzetközi szerződések hatálybalépésének, valamint m
 
 fg) működteti Magyarország szerződéstárát,
 
-g)[^86] felel a diplomáciai protokollért, valamint a külföldi államfők és kormányfők fogadásáért,
+g)[^99] felel a diplomáciai protokollért, valamint a külföldi államfők és kormányfők fogadásáért,
 
 h) felel a nemzetközi jogon alapuló viszonosság megállapításáért, valamint egyes jogsegélyügyekért, e tekintetben állást foglal a nemzetközi viszonosság fennállásának kérdésében,
 
@@ -106,19 +106,19 @@ ib) gondoskodik a közigazgatási szervek határon átnyúló együttműködéss
 
 ic) ellátja a közigazgatási szervek nemzetközi együttműködésének koordinálását, részt vesz a közigazgatási szervek nemzetközi képviseletében, elősegíti azok fejlesztését,
 
-id)[^87]
+id)[^100]
 
-j)[^88] koordinálja és irányítja a kormányzati nemzetközi humanitárius segítségnyújtást,
+j)[^101] koordinálja és irányítja a kormányzati nemzetközi humanitárius segítségnyújtást,
 
-k)[^89]
+k)[^102]
 
-l)[^90] felel a nemzetközi fejlesztési együttműködésért, ennek keretében
+l)[^103] felel a nemzetközi fejlesztési együttműködésért, ennek keretében
 
 la) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműködési politikáját, meghatározza a partnerországok körét a szakpolitikai stratégia alapján, valamint
 
 lb) koordinálja és irányítja a kormányzati nemzetközi fejlesztési együttműködési tevékenységet,
 
-m)[^91] a Kormány feladatkörében érintett tagjával együttműködve irányítja a kulturális és tudománydiplomáciai tevékenységet, e tekintetben
+m)[^104] a Kormány feladatkörében érintett tagjával együttműködve irányítja a kulturális és tudománydiplomáciai tevékenységet, e tekintetben
 
 ma) népszerűsíti a magyar kultúra, oktatás és tudomány eredményeit, beleértve a határon túli magyar kultúrát, oktatást és tudományt, ezáltal közreműködik a Magyarország- és magyarságkép pozitív formálásában külföldön,
 
@@ -128,16 +128,25 @@ mc) közreműködik a határon túli magyarok és az anyaország közötti kultu
 
 md) elősegíti a magyar nyelv és a magyarság megismertetését a külföldi állampolgárok körében,
 
-[^79]: A 89. § (1) bekezdés e) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 353/2015. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^80]: A 89. § (1) bekezdés f) pontját a 353/2015. (XI. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^81]: A 89. § (2) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^82]: A 89. § (2) bekezdés a) pont ah) alpontját a 245/2016. (VIII. 17.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 9. §-át.
-[^83]: A 89. § (2) bekezdés b) pont ba) alpontja a 240/2016. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^84]: A 89. § (2) bekezdés c) pont ce) alpontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^85]: A 89. § (2) bekezdés e) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^86]: A 89. § (2) bekezdés g) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^87]: A 89. § (2) bekezdés i) pont id) alpontját a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^88]: A 89. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (6) bekezdése iktatta be, szövege a 353/2015. (XI. 26.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^89]: A 89. § (2) bekezdés k) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (7) bekezdése iktatta be, hatályon kívül helyezte a 245/2016. (VIII. 17.) Korm. rendelet 7. § c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 9. §-át.
-[^90]: A 89. § (2) bekezdés l) pontját a 353/2015. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^91]: A 89. § (2) bekezdés m) pontját a 240/2016. (VIII. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+n)[^105] felelős a külügyi és külgazdasági területen foglalkoztatottaknak a minisztériumban és a külképviseleteken ellátandó munkakörök betöltéséhez és munkatevékenység végzéséhez szükséges szakmai felkészítő képzésével kapcsolatos feladatokért,
+
+o)[^106] felelős a külpolitikát érintő kutatási és elemző tevékenységért, ennek keretben biztosítja a külügyi és külgazdasági folyamatok és azok eredményeinek szélesebb nyilvánossággal való megismertetését,
+
+p)[^107] közreműködik a magyar külügyi képzési rendszernek, különösen a diplomata képzések rendszerének a megalapozásában.
+
+[^92]: A 89. § (1) bekezdés e) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 353/2015. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^93]: A 89. § (1) bekezdés f) pontját a 353/2015. (XI. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^94]: A 89. § (2) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^95]: A 89. § (2) bekezdés a) pont ah) alpontját a 245/2016. (VIII. 17.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 9. §-át.
+[^96]: A 89. § (2) bekezdés b) pont ba) alpontja a 240/2016. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^97]: A 89. § (2) bekezdés c) pont ce) alpontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^98]: A 89. § (2) bekezdés e) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^99]: A 89. § (2) bekezdés g) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^100]: A 89. § (2) bekezdés i) pont id) alpontját a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^101]: A 89. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (6) bekezdése iktatta be, szövege a 353/2015. (XI. 26.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^102]: A 89. § (2) bekezdés k) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (7) bekezdése iktatta be, hatályon kívül helyezte a 245/2016. (VIII. 17.) Korm. rendelet 7. § c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 9. §-át.
+[^103]: A 89. § (2) bekezdés l) pontját a 353/2015. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^104]: A 89. § (2) bekezdés m) pontját a 240/2016. (VIII. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^105]: A 89. § (2) bekezdés n) pontját a 240/2016. (VIII. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^106]: A 89. § (2) bekezdés o) pontját a 240/2016. (VIII. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^107]: A 89. § (2) bekezdés p) pontját a 240/2016. (VIII. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be.

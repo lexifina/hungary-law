@@ -6,24 +6,24 @@
 
 a) alakítja és végrehajtja a Kormány vagyongazdálkodási politikáját, valamint vizsgálja és ellenőrzi az állami vagyont érintő szerződéseket, a privatizációs, koncessziós, PPP és egyéb, az állami vagyont közvetlenül vagy közvetetten érintő, gazdálkodó szervezetekkel kötött szerződéseket,
 
-b)[^109] gondoskodik a PPP beruházás keretében megvalósult és folyamatban lévő kulturális, infrastrukturális és sportlétesítményekkel összefüggő fejlesztési feladatokról, továbbá e PPP szerződésekben meghatározott, az államot érintő jogokból és kötelezettségekből fakadó feladatokról, valamint e PPP projektek és szerződések kezeléséről,
+b)[^126] gondoskodik a PPP beruházás keretében megvalósult és folyamatban lévő kulturális, infrastrukturális és sportlétesítményekkel összefüggő fejlesztési feladatokról, továbbá e PPP szerződésekben meghatározott, az államot érintő jogokból és kötelezettségekből fakadó feladatokról, valamint e PPP projektek és szerződések kezeléséről,
 
-c)[^110] ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával, működtetésével és üzemeltetésével kapcsolatos feladatokat,
+c)[^127] ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával, működtetésével és üzemeltetésével kapcsolatos feladatokat,
 
-d)[^111] gondoskodik az állami támogatásból megvalósuló sportlétesítményekkel, sportingatlanokkal kapcsolatos fejlesztési, rekonstrukciós programok végrehajtásáról,
+d)[^128] gondoskodik az állami támogatásból megvalósuló sportlétesítményekkel, sportingatlanokkal kapcsolatos fejlesztési, rekonstrukciós programok végrehajtásáról,
 
-e)[^112] gondoskodik az állami vagyonba tartozó sportlétesítmények, sportingatlanok működtetési és üzemeltetési feladatairól; e körben ellátja a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program során létrejövő tanuszodák működtetésével, üzemeltetésével összefüggő feladatokat is,
+e)[^129] gondoskodik az állami vagyonba tartozó sportlétesítmények, sportingatlanok működtetési és üzemeltetési feladatairól; e körben ellátja a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program során létrejövő tanuszodák működtetésével, üzemeltetésével összefüggő feladatokat is,
 
-f)[^113] ellátja a 16 kiemelt sportághoz kapcsolódó sportlétesítmény-fejlesztések támogatásával kapcsolatos feladatokat, valamint a kiemelt sportegyesületekhez kapcsolódó sportlétesítmény-fejlesztésekkel összefüggő támogatási és üzemeltetés-támogatási feladatokat, továbbá létesítmény-fejlesztési és üzemeltetési szempontból felügyeli e támogatási koncepciók végrehajtását,
+f)[^130] ellátja a 16 kiemelt sportághoz kapcsolódó sportlétesítmény-fejlesztések támogatásával kapcsolatos feladatokat, valamint a kiemelt sportegyesületekhez kapcsolódó sportlétesítmény-fejlesztésekkel összefüggő támogatási és üzemeltetés-támogatási feladatokat, továbbá létesítmény-fejlesztési és üzemeltetési szempontból felügyeli e támogatási koncepciók végrehajtását,
 
-g)[^114] a d) pontban foglalt feladatokkal összefüggésben a Nemzeti Köznevelési Infrastruktúra Fejlesztési Programhoz kapcsolódó tanterem, tornaterem, tanuszoda és iskola fejlesztési kérdések vonatkozásában előzetesen megkéri az oktatásért felelős miniszter egyetértését,
+g)[^131] a d) pontban foglalt feladatokkal összefüggésben a Nemzeti Köznevelési Infrastruktúra Fejlesztési Programhoz kapcsolódó tanterem, tornaterem, tanuszoda és iskola fejlesztési kérdések vonatkozásában előzetesen megkéri az oktatásért felelős miniszter egyetértését,
 
-h)[^115] az e) pontban foglalt feladatokkal összefüggésben az olimpiai sportközpontok sportcélú használata vonatkozásában – a sportági fejlesztési programokkal való összhang érvényre juttatása érdekében – egyeztet a sportpolitikáért felelős miniszterrel.
+h)[^132] az e) pontban foglalt feladatokkal összefüggésben az olimpiai sportközpontok sportcélú használata vonatkozásában – a sportági fejlesztési programokkal való összhang érvényre juttatása érdekében – egyeztet a sportpolitikáért felelős miniszterrel.
 
-[^109]: A 112. § (2) bekezdés b) pontja a 6/2015. (I. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^110]: A 112. § (2) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 833. §-a iktatta be.
-[^111]: A 112. § (2) bekezdés d) pontját a 6/2015. (I. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 464/2015. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^112]: A 112. § (2) bekezdés e) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^113]: A 112. § (2) bekezdés f) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^114]: A 112. § (2) bekezdés g) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^115]: A 112. § (2) bekezdés h) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^126]: A 112. § (2) bekezdés b) pontja a 6/2015. (I. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^127]: A 112. § (2) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 833. §-a iktatta be.
+[^128]: A 112. § (2) bekezdés d) pontját a 6/2015. (I. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 464/2015. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^129]: A 112. § (2) bekezdés e) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^130]: A 112. § (2) bekezdés f) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^131]: A 112. § (2) bekezdés g) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^132]: A 112. § (2) bekezdés h) pontját a 464/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.

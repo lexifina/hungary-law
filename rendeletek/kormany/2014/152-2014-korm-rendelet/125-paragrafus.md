@@ -1,6 +1,6 @@
 ## 13. A miniszterek jogszabályban alkalmazandó rövid megjelölése és helyettesítésük rendje
 
-## 125. §[^124] Jogszabály megjelölésében
+## 125. §[^141] Jogszabály megjelölésében
 
 a) a miniszterelnök általános helyettese esetében a TNM,
 
@@ -26,4 +26,4 @@ k) a nemzeti fejlesztési miniszter esetében az NFM
 
 rövid megjelölést kell alkalmazni.
 
-[^124]: A 125. § a 306/2015. (X. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^141]: A 125. § a 306/2015. (X. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
