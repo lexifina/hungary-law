@@ -1,4 +1,4 @@
-14. § (1) Mentorrá a kormányhivatal olyan kormánytisztviselője nevezhető ki, aki a mentori pályázaton eredményesen részt vett, valamint felsőfokú iskolai végzettséggel és legalább két éves közigazgatási gyakorlattal rendelkezik.
+14. § (1)[^13] Mentorrá a kormányhivatal olyan állami tisztviselője nevezhető ki, aki a mentori pályázaton eredményesen részt vett, valamint felsőfokú iskolai végzettséggel és legalább két éves közigazgatási gyakorlattal rendelkezik.
 
 (2) A mentor mentori felkészítésen köteles részt venni, kivéve, ha korábban már részt vett Kormány által alapított közigazgatási ösztöndíjprogram mentori felkészítésén.
 
@@ -15,3 +15,5 @@ c) az ösztöndíjast utasításokkal ellátni,
 d) az ösztöndíjas tevékenységét szakmailag felügyelni,
 
 e) az ösztöndíjas program közbeni és programvégi értékelését a programszabályzatban foglaltak szerint elvégezni.
+
+[^13]: A 14. § (1) bekezdése a 315/2016. (X. 20.) Korm. rendelet 10. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.

@@ -4,7 +4,7 @@ A kompetencia-vizsgálat elektronikus formában is elvégezhető.
 
 (2) A kompetencia-vizsgálaton megfelelő pályázókat a kormányhivatal legalább öt munkanappal korábban elektronikus úton értesíti a személyes interjú helyéről és időpontjáról.
 
-(3) A kéttagú kiválasztási bizottság tagjait a kormányhivatalt vezető kormánymegbízott jelöli ki a kormányhivatal felsőfokú végzettséggel rendelkező kormánytisztviselői közül, úgy, hogy az egyik tagnak a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 2. melléklet II. pont 1. alpontjában meghatározott felsőfokú iskolai végzettségek valamelyikével kell rendelkeznie. A kiválasztási bizottság munkájában tanácskozási joggal a minisztérium megbízottja is részt vehet.
+(3)[^4] A kéttagú kiválasztási bizottság tagjait a kormányhivatalt vezető kormánymegbízott jelöli ki a kormányhivatal felsőfokú végzettséggel rendelkező állami tisztviselői közül, úgy, hogy az egyik tagnak az állami tisztviselők képesítési előírásairól szóló kormányrendelet 1. melléklete szerinti humánpolitikai feladatkörben meghatározott felsőfokú iskolai végzettségek valamelyikével kell rendelkeznie. A kiválasztási bizottság munkájában tanácskozási joggal a minisztérium megbízottja is részt vehet.
 
 (4) A kiválasztási bizottság tagja, illetve a minisztérium megbízottja nem lehet
 
@@ -23,3 +23,5 @@ a) a személyes interjún és a kompetencia-vizsgálaton elért eredmény alapj�
 b) rangsorolt listát készít a kiválasztási eljáráson megfelelt pályázókról.
 
 (7) A kormányhivatal a kiválasztási eljárás eredménye alapján javaslatot küld a minisztérium részére a felvételre javasolt pályázókról.
+
+[^4]: A 8. § (3) bekezdése a 315/2016. (X. 20.) Korm. rendelet 10. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
