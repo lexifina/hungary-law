@@ -50,16 +50,6 @@ f) a növényfajta-oltalom felélesztése.
 
 (8) E törvény eltérő rendelkezése hiányában a (7) bekezdés c)–e) pontjaiban említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-(9) A növényfajta-oltalmi eljárások általános szabályaira az (1)–(8) bekezdésben nem szabályozott kérdésekben a VII. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy növényfajta-oltalmi ügyekben az ügyfél – a (10) és (11) bekezdésben meghatározott esetek kivételével – nem jogosult elektronikus úton írásban kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles elektronikus úton írásban kapcsolatot tartani az ügyféllel.
+(9) A növényfajta-oltalmi eljárások általános szabályaira az (1)–(8) bekezdésben nem szabályozott kérdésekben a VII. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(10) Elektronikus úton is be lehet nyújtani
-
-a) az 54. § (2) bekezdés d)–f) pontjában meghatározott tényekben bekövetkezett változásoknak a növényfajta-oltalmi lajstromban való feltüntetésére irányuló kérelmet,
-
-b) a lajstromkivonat igénylésére vonatkozó kérelmet,
-
-c) az iratbetekintésre vonatkozó kérelmet.
-
-(11) Ha az ügyfél a (10) bekezdés alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli az eljárás során hozott döntéseket, illetve küldi meg a hiteles elektronikus lajstromkivonatot.
-
-(12) A (10) bekezdésben meghatározott beadványok elektronikus úton való benyújtására az 53/D. § (4)–(9) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(10)–(12)

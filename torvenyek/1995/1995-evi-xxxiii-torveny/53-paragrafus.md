@@ -2,6 +2,8 @@
 
 53. § (1) A szabadalmi bejelentés közzétételéig csak a bejelentő, a képviselő, a szakértő, illetve a szakvélemény adására felkért szerv, valamint – ha ez törvényben meghatározott feladataik ellátásához szükséges – a bíróság, az ügyész vagy a nyomozó hatóság tekintheti meg az iratokat. A feltaláló az iratokat megtekintheti akkor is, ha nem ő az igényjogosult. A közzétételt követően a szabadalmi bejelentés iratait – a (2) bekezdésben foglalt kivételekkel – bárki megtekintheti.
 
+(1a) A kérelemre megtekinthető iratokba való betekintést a Szellemi Tulajdon Nemzeti Hivatala személyes megjelenéshez kötötten biztosítja.
+
 (2) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben szabályozott eseteken kívül a közzétételt követően sem tekinthetők meg
 
 a) a döntéseket és a szakértői véleményeket előkészítő, a felekkel nem közölt iratok,

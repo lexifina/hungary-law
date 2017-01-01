@@ -15,3 +15,5 @@ b) a meghatalmazott képviselővel nem rendelkező külföldi ügyfél részére
 (5) Ha a (3) bekezdés b) pontjában, illetve a (4) bekezdésben foglaltak alkalmazásának nincs helye, és a külföldi személy nem tett eleget az (1) bekezdésben foglalt előírásnak, a Szellemi Tulajdon Nemzeti Hivatala a szabadalmi eljárásban megfelelően alkalmazza a 68. § (2)–(4) bekezdéseinek rendelkezéseit, azzal az eltéréssel, hogy a kérelmet viszont a rendelkezésre álló adatok alapján bírálja el, ha az eljárásban ellenérdekű félként részt vevő külföldi személy nem tett eleget az (1) bekezdésben foglalt előírásnak.
 
 (6) Az ügygondnok költségének és munkadíjának előlegezésére azt kell kötelezni, aki a kirendelést kérte.
+
+(7) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény, valamint e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában szabadalmi ügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
