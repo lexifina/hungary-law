@@ -10,7 +10,7 @@ a) a 22. § (4) bekezdése szerinti mérlegeket és kimutatásokat, az államhá
 
 b) az államháztartás központi alrendszerében a finanszírozási bevételekről és kiadásokról készített összegzést,
 
-c) a Gst. 2. § (2)–(4) bekezdése szerinti bontásban az államadósságot, és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor adósságával,
+c) a Gst. 2. § (2)–(4) bekezdése szerinti bontásban az államadósságot és az államadósság állományának változását bemutató összegzést, valamint az államadósság kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor adósságával,
 
 d) az állami kezességek, állami garanciák és állami viszontgaranciák állományát,
 

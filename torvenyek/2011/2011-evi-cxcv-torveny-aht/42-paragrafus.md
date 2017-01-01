@@ -2,4 +2,6 @@
 
 (2) A beszedett bírság tekintetében keletkező visszafizetési kötelezettséget a bírságot felhasználó költségvetési szerv vagy – az (1) bekezdés szerinti esetben – a 14. § (4) bekezdés d) pontja szerinti fejezet terhére kell teljesíteni.
 
+(2a) A költségvetési szerv által fel nem használható bírságot, valamint más olyan bevételt, amely jogszabály alapján a központi költségvetés központosított bevételét képezi, kizárólag a kincstár által e célra létrehozott központosított beszedési számlára lehet beszedni. A központosított beszedési számla felett a bevételt beszedő költségvetési szerv a Kormány rendeletében foglaltak szerint korlátozottan rendelkezik.
+
 (3) Törvény eltérő rendelkezése hiányában – a bíróság, ügyészség által kiszabott eljárási bírság és rendbírság kivételével – a jogerősen kiszabott és meg nem fizetett bírság, valamint a meg nem fizetett bírság miatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék köztartozásnak minősül, és adók módjára kell behajtani.

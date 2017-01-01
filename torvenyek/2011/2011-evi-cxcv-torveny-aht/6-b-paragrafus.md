@@ -8,10 +8,10 @@ ba) a központi kezelésű előirányzatok tekintetében a Kormány rendeletébe
 
 bb) az elkülönített állami pénzalap tekintetében az elkülönített állami pénzalapért felelős személy, testület,
 
-bc) a társadalombiztosítás pénzügyi alapjai tekintetében a törvényben kijelölt kezelő szerv
+bc)
 
 látja el.
 
 (2) A fejezetet irányító szervnek címzett hatásköröket a fejezetet irányító szerv vezetője gyakorolja.
 
-(3) A központi kezelésű előirányzat, a fejezeti kezelésű előirányzat és az elkülönített állami pénzalapok előirányzata esetében jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai ellátására – a tervezéssel, az előirányzatok módosításával, átcsoportosításával és az éves költségvetési beszámoló jóváhagyásával kapcsolatos feladatok kivételével – kezelő szervet jelölhet ki. Ha e törvény központi kezelésű előirányzat, fejezeti kezelésű előirányzat vagy elkülönített állami pénzalapok előirányzata kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.
+(3) A központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai előirányzata esetében jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai ellátására – a tervezéssel, az előirányzatok módosításával, átcsoportosításával és az éves költségvetési beszámoló jóváhagyásával kapcsolatos feladatok kivételével – kezelő szervet jelölhet ki. Ha e törvény központi kezelésű előirányzat, fejezeti kezelésű előirányzat vagy elkülönített állami pénzalapok előirányzata kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.

@@ -14,7 +14,7 @@
 
 4. az elfogadott központi költségvetésről szóló törvény alapján fejezetenként a fejezetet irányító szervet, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervét, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok esetén a kezelő szerv kijelölésének módját, feltételeit, a kezelő szerv által ellátható feladatokat, a központi és fejezeti kezelésű előirányzat, elkülönített állami pénzalap nem költségvetési szervi formában működő kezelő szervének szabályzataira, szervezeti felépítésére, pénzügyi feladatokat ellátó alkalmazottaira vonatkozó sajátos követelményeket, az államháztartás önkormányzati alrendszerében az irányító szervet,
 
-5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásának rendjét,
+5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék és a fejezeti stabilitási tartalék felhasználásának rendjét,
 
 6.
 
@@ -58,9 +58,9 @@ részletes szabályait,
 
 17. a kormányzati ellenőrzéssel, a belső kontrollrendszerrel, a belső ellenőrzéssel, a belső ellenőrzési tevékenységre vonatkozó jogosultsággal rendelkezőkről vezetett nyilvántartáshoz kapcsolódó bizonyítási eszközökkel, a belső kontrolrendszerrel és a belső ellenőrzéssel kapcsolatos kötelező továbbképzésekkel, a kormányzati szektorba sorolt egyéb szervezetek belső kontrollrendszerével, az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat,
 
-18. a 81. § szerinti előirányzat-felhasználási keret tervezésének, megállapításának, megnyitásának, előrehozásának, köztartozás fennállása esetén zárolásának, az államháztartás központi alrendszerébe tartozó költségvetési szerv fizetési számlája – a költségvetési szervet terhelő közterhek megfizetése céljából történő – megterhelésének, továbbá a költségvetési szerv által beszedett központosított bevételek befizetésének szabályait,
+18. a 81. § szerinti előirányzat-felhasználási keret tervezésének, megállapításának, megnyitásának, előrehozásának, köztartozás fennállása esetén zárolásának, az államháztartás központi alrendszerébe tartozó költségvetési szerv fizetési számlája – a költségvetési szervet terhelő közterhek megfizetése céljából történő – megterhelésének, továbbá a költségvetési szerv által beszedett központosított bevételek befizetésének, valamint a központosított beszedési számla feletti rendelkezés szabályait,
 
-19. a fejezeti kezelésű előirányzatok finanszírozási terve elkészítésének szabályait, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozási, elszámolási rendjét, az államháztartás önkormányzati alrendszere finanszírozási rendjének részletes szabályait,
+19. a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozási, elszámolási rendjét, az államháztartás önkormányzati alrendszere finanszírozási rendjének részletes szabályait,
 
 20. a 78. § (2) bekezdése szerinti likviditási tervek tartalmát, elkészítésének, aktualizálásának, valamint a 78. § (4) bekezdése szerinti finanszírozási igényeket és azok megelőlegezése feltételeinek, a megelőlegezett összeg visszapótlásának szabályait,
 
@@ -68,7 +68,7 @@ részletes szabályait,
 
 22. az államháztartás alrendszereiben a készpénzhasználat és a házipénztár működtetésének részletes szabályait,
 
-23. a költségvetési maradvány megállapításának, felhasználhatóságának, jóváhagyásának részletes szabályait,
+23. a maradvány megállapításának, felhasználhatóságának, jóváhagyásának részletes szabályait,
 
 24. a költségvetési beszámolás, az irányító szerv és a beszámolást készítő feladatait, a zárszámadáshoz kapcsolódó adatszolgáltatási feladatokat,
 
@@ -76,7 +76,7 @@ részletes szabályait,
 
 26. a külföldi követelések értékesítésének szabályait,
 
-27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, valamint a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat,
+27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat, valamint a 108/A. § (2) bekezdése szerinti intézkedések körét és végrehajtásának szabályait,
 
 28. a honvédelemért felelős miniszter által vezetett minisztérium, az irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, adatszolgáltatásainak, könyvvezetési és beszámoló készítési kötelezettségének a kincstári rendszer, illetve az államháztartási számvitel általános előírásaitól eltérő sajátos szabályait,
 
@@ -136,7 +136,7 @@ c) az európai támogatásokat auditáló szervet
 
 5.
 
-6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait, a szakfeladatrendet, a szakfeladatok tartalmi meghatározását és azok mutatószámait,
+6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait,
 
 7. a 103. § (3) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét, és
 
@@ -144,7 +144,7 @@ c) az európai támogatásokat auditáló szervet
 
 rendeletben szabályozza.
 
-(4)
+(4) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az ár- és belvízvédelmi kártalanítás céljából létrehozott fejezeti kezelésű előirányzat felhasználási szabályait, valamint a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapból 2016. december 31-én kártalanításra jogosult személy befizetési kötelezettségére és a kártalanításra való jogosultságára vonatkozó szabályokat.
 
 (5) Felhatalmazást kap a Kormány tagja, hogy – ha azt törvény, kormányrendelet vagy a Kormány egyedi határozata nem állapítja meg, az államháztartás központi alrendszerébe tartozó költségvetési szervek költségvetési kiadási előirányzata és a társadalombiztosítás pénzügyi alapjai előirányzatai kivételével – az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az általa irányított fejezetbe sorolt
 

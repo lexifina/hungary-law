@@ -8,4 +8,4 @@
 
 (4) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv fizetési számláját a költségvetési szervet terhelő közterhek megfizetése céljából megterhelni.
 
-(5) A fejezeti kezelésű előirányzatok költségvetési kiadásai teljesítéséhez szükséges központi támogatás biztosítása, valamint a fejezeti kezelésű előirányzatok felhasználása finanszírozási terv alapján történik.
+(5) A fejezeti kezelésű előirányzatok költségvetési kiadásai teljesítéséhez szükséges központi támogatás biztosítása, valamint a fejezeti kezelésű előirányzatok felhasználása a Kormány rendeletében megállapított eljárásrendben történik.

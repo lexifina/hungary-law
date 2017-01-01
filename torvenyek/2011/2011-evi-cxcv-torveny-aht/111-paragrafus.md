@@ -36,18 +36,16 @@
 
 (24)
 
-(25) A helyi nemzetiségi önkormányzat által 2013. évben a 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és kincstári felülvizsgálatára e törvény 2013. december 31-én hatályos 57/A. §-ában, 57/B. §-ában, 60. §-ában, 83. § (4)–(6) bekezdésében, 106. § (10) bekezdésében foglaltakat kell alkalmazni.
+(25)
 
 (26) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 8/A. § (2) bekezdése nem érinti a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor már megalapított költségvetési szervek alapításának érvényességét, azonban a költségvetési szerv alapító okiratának a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépését követő módosításánál az alapító okiratot a kincstár által közzétett formanyomtatványnak megfelelően módosítani kell.
 
-(27) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 10. § (4a) bekezdésének a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor a törzskönyvi nyilvántartásban szereplő költségvetési szerv legkésőbb 2015. április 1-jén kell, hogy megfeleljen.
-
-(28) A honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek kincstár útján történő központosított illetményszámfejtése 2016. január 1-jétől valósul meg. E határnapot megelőzően a honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek a központosított illetményszámfejtéshez a kincstárral kötött megállapodás alapján csatlakozhatnak.
+(27)–(28)
 
 (29) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 105. § (4) bekezdésének a költségvetési szerv által megkötött szerződés érvénytelenségére vonatkozó rendelkezését a 2015. február 28-át követően megkötött szerződések tekintetében kell alkalmazni. Az irányító szerv e határidőt megelőzően köteles gondoskodni a költségvetési szerv alapító okiratának a törzskönyvi nyilvántartásba elmulasztott bejegyzésének pótlásáról.
 
-(30) A kincstár által működtetett monitoringrendszer keretében a pályázati kiírásra vonatkozó adatok közzétételét és a monitoringrendszerben nyilvántartott adatok csoportosított lekérdezhetőségét 2016. január 1-től kell biztosítani. A helyi önkormányzat által nyújtott támogatás esetén az 56/B. § (2) bekezdését és az 56/C. § (1) bekezdését 2016. március 1-jétől kell alkalmazni azzal, hogy a támogatónak a 2016. január 1-je és 2016. február 29-e közötti támogatási döntéseknek az e célra rendszeresített honlapon való közzétételéről 2016. április 15-éig kell a monitoringrendszerbe történő adatátadással gondoskodnia.
+(30)
 
-(31) A Magyar Művészeti Akadémia a törzskönyvi nyilvántartásba vételét az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvény hatálybalépését követő 45 napon belül kérheti. A törzskönyvi nyilvántartásba vételre vonatkozó határozatot a kincstár a Magyar Művészeti Akadémiát bírósági nyilvántartásba vevő bírósággal közli. A bíróság a kincstár határozata alapján a Magyar Művészeti Akadémiát hivatalból törli a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásából. A törlésről nem kell végzést hozni.
+(31)
 
 (32) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 79. § (3a) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésekor meglévő értékpapírszámláikat legkésőbb 2016. december 31-éig kötelesek megszüntetni.

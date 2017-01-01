@@ -4,7 +4,7 @@
 
 ## 59. Maradványelszámolás
 
-86. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat bevételi és kiadási előirányzatai a költségvetési évet megelőző év maradványának összegével a Kormány rendeletében meghatározott esetben és módon megnövelhetőek.
+86. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kezelő szerve a költségvetési szerv és a fejezeti kezelésű előirányzat bevételi és kiadási előirányzatait a költségvetési évet megelőző év maradványának összegével megnöveli.
 
 (2) A központi kezelésű előirányzatok szabad előirányzatai a költségvetési év utolsó napján törlésre kerülnek, költségvetési maradvánnyal nem rendelkeznek.
 

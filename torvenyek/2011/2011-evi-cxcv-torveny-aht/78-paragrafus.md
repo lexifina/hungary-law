@@ -2,7 +2,7 @@
 
 78. § (1) A kincstár a likvidásmenedzsment keretében folyamatosan figyelemmel kíséri a bevételek alakulását s ennek figyelembevételével biztosítja a kiadások rendelkezésre állását.
 
-(2) A költségvetési szerv, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács a bevételek beérkezésének és a kiadások teljesítésének ütemezéséről likviditási tervet készít.
+(2) A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, a térségi fejlesztési tanács, és az általuk irányított költségvetési szerv a bevételek beérkezésének és a kiadások teljesítésének ütemezéséről likviditási tervet készít.
 
 (3) A központi kezelésű előirányzatokból a kincstár által folyósított ellátási kiadásokat havi bontású finanszírozási terv alapján kell folyósítani.
 
