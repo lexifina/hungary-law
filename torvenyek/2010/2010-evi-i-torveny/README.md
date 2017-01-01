@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2010-1-00-00.5 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2010-1-00-00.6 |
 | 2016-11-12 | 2016. évi CIX. törvény | 2010-1-00-00.7 |
+| 2017-01-01 | 2016. évi CIV. törvény | 2010-1-00-00.8 |

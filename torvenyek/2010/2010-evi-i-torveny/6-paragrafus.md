@@ -1,1 +1,1 @@
-6. § A központi nyilvántartó szerv működteti az elektronikus anyakönyvi nyilvántartást és ellátja az e törvényben meghatározott adatkezelési műveleteket.
+6. § A Kormány által kijelölt nyilvántartó szerv (a továbbiakban: nyilvántartó szerv) működteti az elektronikus anyakönyvi nyilvántartást és ellátja az e törvényben meghatározott adatkezelési műveleteket.

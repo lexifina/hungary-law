@@ -26,7 +26,7 @@ e) a kiállító nevét és aláírását,
 
 f) az anyakönyvi bejegyzés egyedi elektronikus anyakönyvi azonosítóját, az elektronikus anyakönyvbe be nem jegyezhető adatról kiállított anyakönyvi okirat esetén az anyakönyvi bejegyzés folyószámát, évszámát, az anyakönyv megkülönböztető betűjelét.
 
-(5) Az anyakönyvi okirat kiállítása iránti kérelmet bármelyik anyakönyvvezetőnél vagy hivatásos konzuli tisztviselőnél elő lehet terjeszteni. A hazai anyakönyvezést végző hatóságnál anyakönyvi okirat kiállítása iránti kérelmet a hazai anyakönyvezés során lehet előterjeszteni.
+(5) Az anyakönyvi okirat kiállítása iránti kérelmet bármelyik anyakönyvvezetőnél vagy hivatásos konzuli tisztviselőnél elő lehet terjeszteni. A hazai anyakönyvezés végzésére kijelölt anyakönyvi szervnél anyakönyvi okirat kiállítása iránti kérelmet a hazai anyakönyvezés során lehet előterjeszteni.
 
 (6) Az anyakönyvi okirat adatainak kijavítása kicseréléssel történik. A hibás adattartalmú, hamis vagy meghamisított anyakönyvi okiratot be kell vonni.
 

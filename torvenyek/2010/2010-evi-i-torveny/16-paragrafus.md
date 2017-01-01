@@ -2,7 +2,7 @@
 
 16. § (1) Az anyakönyvi eljárásban az állampolgárságot vizsgálni kell.
 
-(2) Ha az ügyfél a magyar állampolgárságát nem tudja igazolni, az anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság a magyar állampolgárság megállapítása céljából megkeresi az állampolgársági ügyekben eljáró szervet.
+(2) Ha az ügyfél a magyar állampolgárságát nem tudja igazolni, az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv a magyar állampolgárság megállapítása céljából megkeresi az állampolgársági ügyekben eljáró szervet.
 
 (3) A nem magyar állampolgárság érvényes külföldi úti okmánnyal, a más állam által kiállított állampolgársági okirattal, valamint a magyar hatóság által kiállított érvényes személyazonosító igazolvánnyal vagy úti okmánnyal igazolható.
 

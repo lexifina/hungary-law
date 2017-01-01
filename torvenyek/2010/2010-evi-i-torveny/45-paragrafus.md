@@ -4,4 +4,4 @@
 
 (3) Elhalt magyar állampolgár esetén, ha a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, az elhalt személy 1953. január 1-je után kötött házassága anyakönyvi bejegyzését, ennek hiányában a személyazonosság igazolására alkalmas hatósági igazolványban szereplő utóneveket kell a viselt utónevek tekintetében alapul venni. Amennyiben az elhalt személy személyazonosság igazolására alkalmas hatósági igazolványa kizárólag egy utónevet tartalmaz, a haláleset anyakönyvezésekor az elhalt személy születési anyakönyvi bejegyzésben szereplő első két utónevet kell anyakönyvezni.
 
-(4) Az (1) bekezdésben meghatározott esetekben a születési – és 1953. január 1. előtti házassági bejegyzés esetében a házassági – anyakönyvben az elhalt utónevének bejegyzését a halálesetet nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesítése alapján kell elvégezni.
+(4) Az (1) bekezdésben meghatározott esetekben a születési – és 1953. január 1. előtti házassági bejegyzés esetében a házassági – anyakönyvben az elhalt utónevének bejegyzését a halálesetet nyilvántartó anyakönyvvezető értesítése alapján kell elvégezni.

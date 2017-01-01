@@ -64,6 +64,6 @@ hc) telefon- és telefaxszámát, elektronikus levélcímét és
 
 hd) hozzáférési jogosultsága terjedelmét, keletkezésének és megszűnésének időpontját.
 
-(4) Az anyakönyvvezető (2) bekezdésben meghatározott adatait, valamint azok változását a fővárosi és megyei kormányhivatal, az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosult egyéb személyek (2) bekezdésben meghatározott adatait, valamint azok változását, továbbá a közvetlen hozzáférésre jogosult személy (3) bekezdésben meghatározott adatait a központi nyilvántartó szerv jegyzi be a jogosultsági nyilvántartásba.
+(4) Az anyakönyvvezető (2) bekezdésben meghatározott adatait, valamint azok változását a 4. § (5) bekezdés f) pontja szerinti anyakönyvi szerv, az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosult egyéb személyek (2) bekezdésben meghatározott adatait, valamint azok változását, továbbá a közvetlen hozzáférésre jogosult személy (3) bekezdésben meghatározott adatait a nyilvántartó szerv jegyzi be a jogosultsági nyilvántartásba.
 
 (5) Az (1) bekezdésben foglalt személyek (2) és (3) bekezdésben meghatározott adatait a jogosultsági nyilvántartás a jogosultság megszűnésétől számított öt évig tartja nyilván.

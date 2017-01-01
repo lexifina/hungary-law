@@ -1,4 +1,4 @@
-78. § (1) Az anyakönyvből a kizárólag a papír alapú anyakönyvben nyilvántartott adat, valamint az anyakönyvi alapirat tekintetében az anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság
+78. § (1) Az anyakönyvből a kizárólag a papír alapú anyakönyvben nyilvántartott adat, valamint az anyakönyvi alapirat tekintetében az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv
 
 a) az arra jogosult részére engedélyezi a betekintést,
 

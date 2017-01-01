@@ -1,6 +1,6 @@
 ## A névváltoztatás
 
-49. § (1) Magyar állampolgár születési családi és utónevének megváltoztatását – kérelmére – a központi anyakönyvi szerv engedélyezheti.
+49. § (1) Magyar állampolgár születési családi és utónevének megváltoztatását – kérelmére – az anyakönyvi szerv engedélyezheti.
 
 (2) A szülő családi nevének megváltoztatása a szülők erre irányuló kérelmére kiterjed a szülő családi nevét viselő cselekvőképtelen kiskorú gyermek családi nevére is. A szülő családi nevének megváltoztatása a szülők erre irányuló kérelme és a korlátozottan cselekvőképes kiskorú hozzájárulása esetén terjed ki a korlátozottan cselekvőképes kiskorúra.
 

@@ -1,6 +1,6 @@
 ## Adattovábbítási nyilvántartás
 
-92. § (1) Az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbításokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a központi nyilvántartó szerv adattovábbítási nyilvántartást vezet.
+92. § (1) Az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbításokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a nyilvántartó szerv adattovábbítási nyilvántartást vezet.
 
 (2) Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatokon kívül tartalmazza
 

@@ -4,12 +4,8 @@ a) az anyakönyvvezető,
 
 b) a képviselő-testület hivatalának jegyzője,
 
-c) a hazai anyakönyvezést végző hatóság,
+c) az anyakönyvi szerv,
 
-d) a fővárosi és megyei kormányhivatal,
+d) a nyilvántartó szerv,
 
-e) a központi anyakönyvi szerv,
-
-f) a központi nyilvántartó szerv és
-
-g) a külpolitikáért felelős miniszter.
+e) a külpolitikáért felelős miniszter.

@@ -12,6 +12,6 @@ e) az anyakönyvi nyilvántartások rendszeréből teljesítendő adattovábbít
 
 részletes szabályait rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap az anyakönyvi ügyekért felelős miniszter, hogy rendeletben jelölje ki a hazai anyakönyvezést végző hatóságot.
+(2)
 
 (3)

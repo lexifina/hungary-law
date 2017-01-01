@@ -6,7 +6,7 @@ b) az apaság megállapítása iránti perben az érintett személy apaságát m
 
 c) az anyasági perben megállapítja, hogy a gyermek anyja nem a születési anyakönyvbe anyaként bejegyzett személy,
 
-a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot.
+a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt.
 
 (2) Az (1) bekezdés szerinti értesítés tartalmazza
 

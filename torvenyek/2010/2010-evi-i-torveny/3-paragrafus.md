@@ -12,7 +12,7 @@ d) anyakönyvi alapirat: az anyakönyvi okirat kivételével az olyan elektronik
 
 e) családi állapot: hajadon, nőtlen, nős, férjes, bejegyzett élettárs, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt vagy bejegyzett élettársi kapcsolata megszűnt,
 
-f) egyedi elektronikus anyakönyvi azonosító: a központi nyilvántartó szerv által képzett alfanumerikus azonosító, amelynek célja az elektronikus anyakönyvben kezelt adatoknak az érintett személyhez történő hozzárendelése,
+f) egyedi elektronikus anyakönyvi azonosító: a nyilvántartó szerv által képzett alfanumerikus azonosító, amelynek célja az elektronikus anyakönyvben kezelt adatoknak az érintett személyhez történő hozzárendelése,
 
 g) elektronikus anyakönyv: az anyakönyvi bejegyzéseket elektronikus formában tartalmazó központi nyilvántartás,
 
@@ -20,7 +20,7 @@ h) hazai anyakönyvezés: a magyar állampolgár külföldön történt anyakön
 
 i) munkaszüneti nap: január 1., március 15., húsvét, május 1., pünkösd, július 1., augusztus 20., október 23., november 1. és december 24–26.,
 
-j) nyilvántartó anyakönyvvezető: az az anyakönyvvezető, aki a bejegyzés alapjául szolgáló anyakönyvi alapiratot őrzi,
+j) nyilvántartó anyakönyvvezető: az az anyakönyvvezető, aki, illetve az anyakönyvi szerv, amely a bejegyzés alapjául szolgáló anyakönyvi alapiratot őrzi,
 
 k) személyazonosításra alkalmas adat: az érintett születési családi és utóneve, házassági neve, neme, születési helye és ideje, anyja születési családi és utóneve, az érintett személyi azonosítója, előző születési családi és utóneve vagy házassági neve, állampolgársága, előző állampolgársága, valamint lakcíme,
 

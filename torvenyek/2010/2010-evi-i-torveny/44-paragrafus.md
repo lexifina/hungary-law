@@ -8,14 +8,14 @@
 
 (3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek nemének megfelelő utónevet lehet a Magyar Tudományos Akadémia (a továbbiakban: MTA) által összeállított utónévjegyzékből. Az utónévjegyzéket az MTA a honlapján teszi közzé.
 
-(4) Ha a szülők által választott utónév nem szerepel az utónévjegyzékben, az MTA a központi anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik a kért utónév anyakönyvezhetőségéről. Ha az MTA nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
+(4) Ha a szülők által választott utónév nem szerepel az utónévjegyzékben, az MTA az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik a kért utónév anyakönyvezhetőségéről. Ha az MTA nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
 
 (5) Az ugyanattól az anyától származó, ugyanazon a napon született gyermekek nem viselhetnek megegyező utónevet.
 
-(6) Élve született, de a születés anyakönyvezése előtt meghalt gyermek utóneve helyett – ha a szülők a gyermek utónevéről nem nyilatkoztak – az erre történő utalást jegyzi be az anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság.
+(6) Élve született, de a születés anyakönyvezése előtt meghalt gyermek utóneve helyett – ha a szülők a gyermek utónevéről nem nyilatkoztak – az erre történő utalást jegyzi be az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv.
 
 (7) Ha valamelyik szülő nem magyar állampolgár, az anyakönyvvezető a szülők kérelmére a gyermek utónevét az anyakönyvbe az érintett nem magyar állampolgárra irányadó szabályok szerint is bejegyezheti. Azt a tényt, hogy az adott utónév az adott országban anyakönyvezhető, igazolni kell, kivéve ha az anyakönyvvezetőnek hivatalos tudomása van arról, hogy az adott külföldi országban bármilyen utónév anyakönyvezhető.
 
-(8) A anyakönyvben és az ennek alapján kiadott okiratokban a családi név az utónevet megelőzi.
+(8) Az anyakönyvben és az ennek alapján kiadott okiratokban a családi név az utónevet megelőzi.
 
 (9) Az (1)–(4) bekezdésben meghatározottak nem alkalmazhatók, ha az érintett kérelmére az Nmjt. 10. §-a alapján a születés anyakönyvezése során más állam jogát kell alkalmazni.

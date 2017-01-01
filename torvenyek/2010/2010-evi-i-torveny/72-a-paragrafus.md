@@ -18,4 +18,4 @@ d) a papír alapú anyakönyvbe tett első és utolsó bejegyzés sorszámát é
 
 e) a papír alapú anyakönyvbe tett első és utolsó bejegyzés időpontját.
 
-(2) Az (1) bekezdésben foglalt adatokat az őrizetében levő anyakönyvek tekintetében az anyakönyvvezető, vagy a hazai anyakönyvezést végző hatóság jegyzi be a papír alapú anyakönyvek nyilvántartásába.
+(2) Az (1) bekezdésben foglalt adatokat az őrizetében levő anyakönyvek tekintetében a nyilvántartó anyakönyvvezető jegyzi be a papír alapú anyakönyvek nyilvántartásába.

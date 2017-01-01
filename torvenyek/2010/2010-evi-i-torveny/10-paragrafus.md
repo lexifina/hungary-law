@@ -1,4 +1,4 @@
-10. § A hazai anyakönyvezést végző hatóság anyakönyvezi
+10. § A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezi
 
 a) a magyar állampolgár külföldön történt születését, házasságkötését, bejegyzett élettársi kapcsolatának létesítését és halálesetét,
 

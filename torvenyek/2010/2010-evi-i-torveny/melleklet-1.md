@@ -42,7 +42,15 @@
 
 ## 4.7. menekült vagy oltalmazott jogállása,
 
-## 4.8. nyilatkozata arról, hogy a 46. § (1) bekezdés d) pontja alapján kérik a gyermek születési családi és utónevének nemzetiségi nyelven is történő bejegyzését.
+## 4.8. a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 11. §-a, 16. §-a és 1. melléklete, valamint e törvény 46. § (1) bekezdés a) és d) pontja alapján tett nyilatkozata arról, hogy gyermekük melyik elismert nemzetiséghez tartozik, valamint, hogy
+
+## a) a gyermeknek mely nemzetiségi utónevet vagy utóneveket kívánják anyakönyveztetni;
+
+## b) a gyermek családi nevét az adott nemzetiség anyanyelvi szabályai szerint kérik anyakönyveztetni;
+
+## c) a gyermek nevét az adott nemzetiségi nyelven vagy nemzetiségi nyelven is kívánják anyakönyveztetni;
+
+## d) a gyermek részére az adatokat nemzetiségi nyelven is tartalmazó anyakönyvi kivonatot kívánnak kiállíttatni.
 
 ## 5. Az anya 69/B. § (1) bekezdés b) pont bj) alpontja szerinti adata.
 
@@ -324,4 +332,8 @@
 
 ## 14. A kiállítás kelte.
 
-## 15. A halálesetet bejelentő intézmény neve és címe, képviselőjének neve és aláírása, az intézmény bélyegzőjének lenyomata.
+## 15. A haláleset jegyzőkönyvezésében közreműködő
+
+## a) eltemettetésre kötelezett neve és aláírása, vagy
+
+## b) temetkezési szolgáltató neve, a szolgáltató nevében eljáró személy neve és aláírása.

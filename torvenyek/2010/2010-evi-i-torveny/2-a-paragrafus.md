@@ -1,1 +1,1 @@
-2/A. § Ha e törvény rendelkezései alapján a hazai anyakönyvezést végző hatóság jár el, eljárására a „Hazai anyakönyvezés” alcím eltérő rendelkezése hiányában az anyakönyvvezető eljárására vonatkozó szabályokat kell alkalmazni.
+2/A. § A hazai anyakönyvezés végzésére Kormány által kijelölt szerv eljárására a „Hazai anyakönyvezés” alcím eltérő rendelkezése hiányában az anyakönyvvezető eljárására vonatkozó szabályokat kell alkalmazni.
