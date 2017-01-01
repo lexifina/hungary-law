@@ -1,1 +1,0 @@
-## Záró és átmeneti rendelkezések
