@@ -2,9 +2,9 @@
 
 ## 24. A közérdekű munka végrehajtásának előkészítése
 
-65. § (1)[^28] A járásbíróság által a közérdekű munkáról részjegyzékkel küldött értesítőlapok érkezését követően a kormányhivatal ellenőrzi, hogy a részjegyzékeken megjelölt valamennyi értesítőlap, határozatkiadmány és egyéb irat megérkezett-e. A kormányhivatal az észlelt hiányok pótlására a járásbíróságot három napon belül felhívja.
+65. § (1)[^29] A járásbíróság által a közérdekű munkáról részjegyzékkel küldött értesítőlapok érkezését követően a kormányhivatal ellenőrzi, hogy a részjegyzékeken megjelölt valamennyi értesítőlap, határozatkiadmány és egyéb irat megérkezett-e. A kormányhivatal az észlelt hiányok pótlására a járásbíróságot három napon belül felhívja.
 
-(2)[^29] A kormányhivatal a részjegyzéken feljegyzi azokat az előírási tételszámokat, amelyek alatt az ügyeket előírta, majd a részjegyzék egyik példányát az első fokon eljárt bíróságnak visszaküldi.
+(2)[^30] A kormányhivatal a részjegyzéken feljegyzi azokat az előírási tételszámokat, amelyek alatt az ügyeket előírta, majd a részjegyzék egyik példányát az első fokon eljárt bíróságnak visszaküldi.
 
-[^28]: A 65. § (1) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § j) pontja szerint módosított szöveg.
-[^29]: A 65. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § d) pontja szerint módosított szöveg.
+[^29]: A 65. § (1) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § j) pontja szerint módosított szöveg.
+[^30]: A 65. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § d) pontja szerint módosított szöveg.

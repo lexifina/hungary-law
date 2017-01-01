@@ -39,3 +39,9 @@
 | 321. | Az elítélt felhívása a szabadságvesztés megkezdésére. |
 
 38. melléklet a 11/2014. (XII. 13.) IM rendelethez
+
+Büntetés-végrehajtás Országos Parancsnoksága
+
+Jegyzék a szabadságvesztés végrehajtására behívott elítéltekről
+
+a szabadságvesztés végrehajtására 20..... év ...................... hó ....... napjáig behívott elítéltekről

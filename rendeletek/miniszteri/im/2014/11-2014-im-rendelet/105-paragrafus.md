@@ -8,4 +8,6 @@ b) felfüggesztett szabadságvesztés, vagy más büntetés mellett alkalmazta,
 
 c) önálló büntetésként alkalmazta.
 
-(2) A bíróság a kiutasításról kiállított értesítőlapot megküldi – a jogerős és végrehajthatósági záradékkal, eredeti bírói aláírással ellátott határozatának két példányát egyidejűleg mellékelve – a Bevándorlási és Állampolgársági Hivatal, bíróság székhelye szerint illetékes területi szervének (a továbbiakban: területi idegenrendészeti hatóság).
+(2)[^53] A bíróság a kiutasításról kiállított értesítőlapot megküldi – a jogerős és végrehajthatósági záradékkal, eredeti bírói aláírással ellátott határozatának két példányát egyidejűleg mellékelve – a Bevándorlási és Menekültügyi Hivatal, bíróság székhelye szerint illetékes területi szervének (a továbbiakban: területi idegenrendészeti hatóság).
+
+[^53]: A 105. § (2) bekezdése a 28/2016. (XII. 27.) IM rendelet 9. §-a szerint módosított szöveg.

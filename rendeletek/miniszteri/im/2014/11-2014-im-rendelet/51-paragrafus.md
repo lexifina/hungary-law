@@ -22,11 +22,11 @@ c) ha az elítélt visszaeső, különös visszaeső, többszörös visszaeső v
 
 d) ha olyan terheltet ítélt elzárásra, aki szabadságvesztést vagy elzárást tölt, a szabadságvesztést, valamint az elzárást kiszabó bíróság megnevezését és a határozat számát,
 
-e)[^12] ha olyan terheltet ítélt elzárásra, akivel szemben közérdekű munkát hajtanak végre (Btk. 47. §), annak közlésével, hogy a közérdekű munkát melyik kormányhivatal hajtja végre,
+e)[^13] ha olyan terheltet ítélt elzárásra, akivel szemben közérdekű munkát hajtanak végre (Btk. 47. §), annak közlésével, hogy a közérdekű munkát melyik kormányhivatal hajtja végre,
 
 f) az elzárás mellett kiszabott foglalkozástól eltiltást, járművezetéstől eltiltást, kitiltást, sportrendezvények látogatásától való eltiltást vagy kiutasítást,
 
-g)[^13] ha olyan terheltet ítélt elzárásra, aki pártfogó felügyelet alatt áll (Btk. 69. §, 119. §), annak közlésével, hogy a pártfogó felügyeletet melyik kormányhivatal hajtja végre,
+g)[^14] ha olyan terheltet ítélt elzárásra, aki pártfogó felügyelet alatt áll (Btk. 69. §, 119. §), annak közlésével, hogy a pártfogó felügyeletet melyik kormányhivatal hajtja végre,
 
 h) ha a bíróság olyan terheltet ítélt elzárásra, akivel szemben javítóintézeti nevelést hajtanak végre, a javítóintézeti nevelést elrendelő bíróság megnevezését és a határozat számát, valamint a végrehajtást foganatosító javítóintézetet, annak közlésével, hogy a bíróság a javítóintézetet felhívta arra, hogy a javítóintézetből való elbocsátás, illetve ideiglenes elbocsátás esedékességével intézkedjen az elítélt átszállítása iránt,
 
@@ -42,5 +42,5 @@ j) ha a büntetőeljárásban – amelyben az elzárást kiszabták – óvadék
 
 (6) A bírói rendelvénnyel ellátott értesítőlapot a határozat jogerőre emelkedésekor kell a fogvatartást foganatosító bv. intézetnek megküldeni, vagy a terheltet előállító bv. őrnek átadni. A bv. őr az értesítőlap átvételét, az átvétel időpontjának feltüntetésével, aláírásával elismeri. A bíróság az értesítőlap átadását a bv. csoporttal az erre rendszeresített értesítőlapon közli.
 
-[^12]: Az 51. § (2) bekezdés e) pontja a 8/2015. (IV. 14.) IM rendelet 22. § d) pontja szerint módosított szöveg.
-[^13]: Az 51. § (2) bekezdés g) pontja a 8/2015. (IV. 14.) IM rendelet 22. § d) pontja szerint módosított szöveg.
+[^13]: Az 51. § (2) bekezdés e) pontja a 8/2015. (IV. 14.) IM rendelet 22. § d) pontja szerint módosított szöveg.
+[^14]: Az 51. § (2) bekezdés g) pontja a 8/2015. (IV. 14.) IM rendelet 22. § d) pontja szerint módosított szöveg.

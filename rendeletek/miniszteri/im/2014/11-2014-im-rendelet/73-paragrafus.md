@@ -16,7 +16,7 @@ d) az államot illető bűnügyi költségről,
 
 e) a rendbírságról, a polgári ügyben eljárt bíróság által kiszabott rendbírságról, vagy pénzbírságról,
 
-f)[^37] a polgári eljárásban elrendelt elővezetés költségéről.
+f)[^38] a polgári eljárásban elrendelt elővezetés költségéről.
 
 (2) Az (1) bekezdésben írt egységes értesítőlapot akkor is ki kell állítani, ha a bíróság más büntetésről vagy intézkedésről már állított ki értesítőlapot.
 
@@ -28,4 +28,4 @@ f)[^37] a polgári eljárásban elrendelt elővezetés költségéről.
 
 (6) Ha a rendkívüli jogorvoslat folytán hozott határozat a pénzbüntetést vagy a bűnügyi költség megfizetésére kötelezést, a vagyonelkobzást vagy az elkobzást mellőzi, vagy ilyen kötelezést alacsonyabb mértékben állapít meg, a visszatérítésről történő (Be. 585. §) rendelkezés végrehajtása iránt azt a BGH-t, bűnjelkezelőt, vagy törvényszéki bírósági végrehajtói irodát kell megkeresni, amelynek az egységes értesítőlapot, vagy a (3) bekezdés szerinti határozatot megküldték.
 
-[^37]: A 73. § (1) bekezdés f) pontja a 6/2015. (III. 30.) IM rendelet 6. §-ával megállapított szöveg.
+[^38]: A 73. § (1) bekezdés f) pontja a 6/2015. (III. 30.) IM rendelet 6. §-ával megállapított szöveg.

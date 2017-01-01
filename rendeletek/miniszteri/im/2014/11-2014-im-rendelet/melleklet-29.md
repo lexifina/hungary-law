@@ -74,6 +74,6 @@
 
 | 317. | Egységes értesítés |
 
-29. melléklet a 11/2014. (XII. 13.) IM rendelethez[^75]
+29. melléklet a 11/2014. (XII. 13.) IM rendelethez[^80]
 
-[^75]: A 29. melléklet a 33/2015. (XI. 6.) IM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^80]: A 29. melléklet a 33/2015. (XI. 6.) IM rendelet 16. § (1) bekezdésével megállapított szöveg.

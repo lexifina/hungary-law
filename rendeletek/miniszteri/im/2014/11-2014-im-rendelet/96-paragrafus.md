@@ -28,6 +28,6 @@ c) foglalkozástól eltiltás esetén az eltiltással érintett tevékenység me
 
 (5) Ha a bíróság az egészségügyről szóló törvény szerinti egészségügyi dolgozót egy évet meghaladó végrehajtandó szabadságvesztésre, vagy akár a szabadságvesztés mellett, akár önállóan az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásra ítélte, a bíróság jogerős határozatáról – a terhelt működési nyilvántartásból, illetve a kamarai tagságának felfüggesztése vagy a kamarai névjegyzékből való törlése végett – két példányban értesítőlapot állít ki. A bv. bíró az értesítőlap egy-egy példányának megküldésével értesíti az egészségügyi dolgozók működési nyilvántartását vezető szervet, valamint az illetékes egészségügyi szakmai kamarát.
 
-(6)[^42]
+(6)[^44]
 
-[^42]: A 96. § (6) bekezdését a 33/2015. (XI. 6.) IM rendelet 18. §-a hatályon kívül helyezte.
+[^44]: A 96. § (6) bekezdését a 33/2015. (XI. 6.) IM rendelet 18. §-a hatályon kívül helyezte.
