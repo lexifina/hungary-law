@@ -18,7 +18,7 @@ d) a műemléki védelem alatt álló építmény esetén a beavatkozás készü
 
 (2c)[^20] A műemlék képző- vagy iparművészeti, illetve más különleges alkotórésze vagy tartozéka esetében a műemlékvédelem adott területén szakértői jogosultsággal rendelkező szakértő bevonásával kell meghatározni a (2) bekezdés d) pontja szerinti számított építményértéket.
 
-(2d)[^21] A (2) bekezdés a)–c) pontjában foglaltak megállapításához a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben kijelölt kulturális örökségvédelmi hatóság (a továbbiakban: örökségvédelmi hatóság) a műemléki érték és a régészeti örökség védelmével kapcsolatos eljárásában a jogszabályban meghatározott örökségvédelmi tanácsadó testületek véleményét kikérheti.
+(2d)[^21] A (2) bekezdés a)–c) pontjában foglaltak megállapításához a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben kijelölt kulturális örökségvédelmi hatóság (a továbbiakban: örökségvédelmi hatóság) a műemléki érték és a régészeti örökség védelmével kapcsolatos eljárásában a jogszabályban meghatározott örökségvédelmi tanácsadó testületek véleményét kikérheti.
 
 (2e)[^22] A védett műemléki értéken a (2) bekezdés d) pontja szerint számított építményértéket
 
@@ -49,7 +49,7 @@ d) a IV. kategóriába tartozó kulturális örökségi elem sérelme esetén 25
 [^18]: Az 5/A. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
 [^19]: Az 5/A. § (2b) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.
 [^20]: Az 5/A. § (2c) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.
-[^21]: Az 5/A. § (2d) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be, szövege a 306/2016. (X. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: Az 5/A. § (2d) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be, szövege a 306/2016. (X. 13.) Korm. rendelet 1. §-ával megállapított, a 497/2016. (XII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^22]: Az 5/A. § (2e) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.
 [^23]: Az 5/A. § (2f) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (7) bekezdése iktatta be.
 [^24]: Az 5/A. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.

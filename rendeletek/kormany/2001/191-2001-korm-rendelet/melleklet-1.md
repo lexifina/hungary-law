@@ -1,4 +1,4 @@
-1. melléklet a 191/2001. (X. 18.) Korm. rendelethez[^39]
+1. melléklet a 191/2001. (X. 18.) Korm. rendelethez[^40]
 
 ## A műemlékvédelem sajátos tárgyai érték számításának alapjául szolgáló értékek
 
@@ -82,4 +82,4 @@
 
 | 4. | erősen csonkult | 0,4 |
 
-[^39]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^40]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 2. § (12) bekezdésével megállapított szöveg.
