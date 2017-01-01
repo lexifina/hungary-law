@@ -1,6 +1,6 @@
-## 22. §[^2]
+## 22. §[^12] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-1. melléklet a 225/2015. (VIII. 7.) Korm. rendelethez
+1. melléklet a 225/2015. (VIII. 7.) Korm. rendelethez[^13]
 
 ## Szállítási lapok
 
@@ -42,7 +42,7 @@
 
 | 18. Adószám vagy adóazonosító jel: | 19. A fuvarlevél száma: | 20. Külön lap csatolva: Igen: □ Nem: □ |
 
-| 21. A szállításra vonatkozó hulladékgazdálkodási engedély száma: |
+| 21. A szállításra vonatkozó hulladékgazdálkodási engedély vagy nyilvántartásba vétel száma: |
 
 | 22. A szállítás módja: | 23. A szállítás megkezdése: | 24. A szállító jármű rendszáma: |
 
@@ -214,4 +214,5 @@ e) a ”Gy” lap száma;
 
 f) a bizonylat kiállításának helye, időpontja, az eljáró felek aláírása.
 
-[^2]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 82. § (1) bekezdése iktatta be.
+[^13]: Az 1. melléklet a 440/2016. (XII. 16.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
