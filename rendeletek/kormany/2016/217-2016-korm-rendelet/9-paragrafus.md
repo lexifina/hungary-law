@@ -1,7 +1,7 @@
-## 8. §[^9]
+## 8. §[^8]
 
 ## 9. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló
 
 ## 203/1998. (XII. 19.) Korm. rendelet módosítása
 
-[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

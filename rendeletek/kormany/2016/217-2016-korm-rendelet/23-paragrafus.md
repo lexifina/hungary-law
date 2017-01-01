@@ -1,7 +1,7 @@
-## 22. §[^21]
+## 22. §[^20]
 
 ## 21. Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló
 
 ## 323/2010. (XII. 27.) Korm. rendelet módosítása
 
-[^21]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
