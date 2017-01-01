@@ -1,6 +1,6 @@
-4/A. §[^13] (1) A befogadó központ vezetőjét a Hivatal főigazgatója nevezi ki.
+4/A. §[^15] (1) A befogadó központ vezetőjét a Hivatal főigazgatója nevezi ki.
 
-(2) A befogadó központban foglalkoztatottak kormánytisztviselők és közalkalmazottak.
+(2)[^16] A befogadó központ foglalkoztatotti állománya közalkalmazottakból áll.
 
 (3) A befogadó központ napi huszonnégy órában folyamatosan működik.
 
@@ -14,4 +14,5 @@ c) élelmezési szolgálat, valamint
 
 d) fegyveres biztonsági őrség
 
-[^13]: A 4/A. §-t a 33/2013. (VI. 28.) BM rendelet 6. §-a iktatta be.
+[^15]: A 4/A. §-t a 33/2013. (VI. 28.) BM rendelet 6. §-a iktatta be.
+[^16]: A 4/A. § (2) bekezdése az 58/2016. (XII. 22.) BM rendelet 22. § (3) bekezdésével megállapított szöveg.

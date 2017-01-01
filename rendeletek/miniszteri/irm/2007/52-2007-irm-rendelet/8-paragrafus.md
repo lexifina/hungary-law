@@ -1,28 +1,28 @@
-8. § (1)[^17] E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelettel együtt – a következő közösségi jogi aktusoknak történő megfelelést szolgálja:
+8. § (1)[^21] E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelettel együtt – a következő közösségi jogi aktusoknak történő megfelelést szolgálja:
 
 a) a lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimumkövetelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről szóló, 2001. július 20-i 2001/55/EK tanácsi irányelv 27. cikke;
 
-b)[^18] a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelv;
+b)[^22] a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelv;
 
 c) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelv 36. és 37. cikke;
 
-d)[^19] a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló 2013. június 26-i 2013/33/EU európai parlamenti és tanácsi irányelv.
+d)[^23] a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló 2013. június 26-i 2013/33/EU európai parlamenti és tanácsi irányelv.
 
 (2) E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelettel együtt – a következő közösségi jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
-a)[^20] a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló 2013. június 26-i 603/2013/EU európai parlamenti és tanácsi rendelet.
+a)[^24] a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló 2013. június 26-i 603/2013/EU európai parlamenti és tanácsi rendelet.
 
-b)[^21]
+b)[^25]
 
-c)[^22] az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet);
+c)[^26] az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet);
 
-d)[^23] az Európai parlament és a Tanács 439/2010/EU (2010. május 19.) rendelete az Európai Menekültügyi Támogatási hivatal létrehozásáról 19. cikk.
+d)[^27] az Európai parlament és a Tanács 439/2010/EU (2010. május 19.) rendelete az Európai Menekültügyi Támogatási hivatal létrehozásáról 19. cikk.
 
-Melléklet az 52/2007. (XII. 11.) IRM rendelethez[^24]
+Melléklet az 52/2007. (XII. 11.) IRM rendelethez[^28]
 
 A befogadó állomás házirendje
 
-1. E házirend szerinti befogadó állomás: a Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske valamennyi telephelye azok összes helyiségeivel és mellékhelyiségeivel együtt, valamint a hozzájuk tartozó udvar.
+1. E házirend szerinti befogadó állomás: a Bevándorlási és Menekültügyi Hivatal Befogadó Állomás, Bicske valamennyi telephelye azok összes helyiségeivel és mellékhelyiségeivel együtt, valamint a hozzájuk tartozó udvar.
 
 2. A házirendben foglalt magatartási szabályokat a befogadó állomáson elhelyezett személy (a továbbiakban: az elhelyezett) köteles megtartani, és a befogadó állomás munkatársai jogszerű utasításainak eleget tenni. Az elhelyezett köteles továbbá olyan magatartást tanúsítani, amely a többi elhelyezett jogait nem sérti, nyugalmát nem zavarja.
 
@@ -102,11 +102,11 @@ A letétbe helyezett dolgok kivételével sem a befogadó állomás, sem a befog
 
 Kérjük a házirend betartását!
 
-[^17]: A 8. § (1) bekezdése a 33/2013. (VI. 28.) BM rendelet 8. §-ával megállapított szöveg.
-[^18]: A 8. § (1) bekezdés b) pontja a 23/2016. (VI. 29.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^19]: A 8. § (1) bekezdés d) pontját a 23/2016. (VI. 29.) BM rendelet 16. § (2) bekezdése iktatta be.
-[^20]: A 8. § (2) bekezdés a) pontja a 23/2016. (VI. 29.) BM rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^21]: A 8. § (2) bekezdés b) pontját a 33/2013. (VI. 28.) BM rendelet 9. §-a hatályon kívül helyezte.
-[^22]: A 8. § (2) bekezdés c) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (2) bekezdése iktatta be.
-[^23]: A 8. § (2) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 23. §-a iktatta be, szövege a 23/2011. (VII. 21.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^24]: A melléklet a 23/2016. (VI. 29.) BM rendelet 18. §-ával megállapított szöveg.
+[^21]: A 8. § (1) bekezdése a 33/2013. (VI. 28.) BM rendelet 8. §-ával megállapított szöveg.
+[^22]: A 8. § (1) bekezdés b) pontja a 23/2016. (VI. 29.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^23]: A 8. § (1) bekezdés d) pontját a 23/2016. (VI. 29.) BM rendelet 16. § (2) bekezdése iktatta be.
+[^24]: A 8. § (2) bekezdés a) pontja a 23/2016. (VI. 29.) BM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^25]: A 8. § (2) bekezdés b) pontját a 33/2013. (VI. 28.) BM rendelet 9. §-a hatályon kívül helyezte.
+[^26]: A 8. § (2) bekezdés c) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (2) bekezdése iktatta be.
+[^27]: A 8. § (2) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 23. §-a iktatta be, szövege a 23/2011. (VII. 21.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^28]: A melléklet a 23/2016. (VI. 29.) BM rendelet 18. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 22. § (4) bekezdés a) pontja szerint módosított szöveg.

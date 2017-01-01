@@ -1,4 +1,4 @@
-3. § (1)[^11] A befogadó állomáson elhelyezett számára biztosítani kell különösen
+3. § (1)[^13] A befogadó állomáson elhelyezett számára biztosítani kell különösen
 
 a) fekvőhelyet, ágyfelszerelést és ágyneműt;
 
@@ -14,9 +14,9 @@ f) a befogadó állomáson rendelkezésre álló művelődési és sportolási l
 
 g) napi háromszori – 14 év alatti kiskorúak esetében napi ötszöri – étkezést vagy ennek megfelelő étkezési hozzájárulást.
 
-(1a)[^12] Természetben biztosított étkezés esetén naponta legalább 10 900 joule energiatartalmú élelmet kell biztosítani. Az élelmezésnél az elhelyezett egészségi állapotát, korát, és vallásának étkezési előírásait figyelembe kell venni. Terhes és kisgyermekes anyának, valamint 14 év alatti kiskorúnak naponta tejterméket és gyümölcsöt, illetve – ha az egészségügyi okból indokolt – ezekkel egyenértékű más élelmiszert kell biztosítani.
+(1a)[^14] Természetben biztosított étkezés esetén naponta legalább 10 900 joule energiatartalmú élelmet kell biztosítani. Az élelmezésnél az elhelyezett egészségi állapotát, korát, és vallásának étkezési előírásait figyelembe kell venni. Terhes és kisgyermekes anyának, valamint 14 év alatti kiskorúnak naponta tejterméket és gyümölcsöt, illetve – ha az egészségügyi okból indokolt – ezekkel egyenértékű más élelmiszert kell biztosítani.
 
 (2) A tömegtájékoztatási és távközlési eszközök használatát, valamint a művelődési és sportolási lehetőségek igénybevételét legalább napi tíz órában lehetővé kell tenni.
 
-[^11]: A 3. § (1) bekezdése a 69/2013. (XII. 11.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (1a) bekezdését a 69/2013. (XII. 11.) BM rendelet 5. § (2) bekezdése iktatta be.
+[^13]: A 3. § (1) bekezdése a 69/2013. (XII. 11.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^14]: A 3. § (1a) bekezdését a 69/2013. (XII. 11.) BM rendelet 5. § (2) bekezdése iktatta be.
