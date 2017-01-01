@@ -10,4 +10,4 @@ b) a társasági adó alanya által a társasági adóról és az osztalékadór
 
 2. CÍM
 
-Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság
+A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság jogállása, szervezete, bevételi forrásai és támogatási tevékenysége

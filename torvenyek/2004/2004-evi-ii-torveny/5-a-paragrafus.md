@@ -20,4 +20,4 @@ alkotják.
 
 2. CÍM
 
-A Magyar Nemzeti Digitális Archívum és Filmintézet
+A Magyar Nemzeti Filmarchívum

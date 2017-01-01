@@ -4,7 +4,7 @@
 
 (3) Az (1) bekezdésben meghatározott alkalmazások működtetésével összefüggő, a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvény hatálybalépésekor fennálló szerződéses jogviszonyokból eredő jogok és kötelezettségek a maguk egészében és változatlan feltételekkel szállnak át az államra, az alanyváltozás nem érinti a szerződő felek eredeti jogait és kötelezettségeit. A szerződéses jogviszonyokban megvalósuló alanyváltozás tekintetében a közbeszerzésekről szóló törvény szerződésmódosításra vonatkozó szabályai nem alkalmazandók.
 
-(4) Az (1) bekezdésben meghatározott alkalmazások fenntartásával és működtetésével közvetlenül összefüggő jogviszonyokban a Társaság jogutódja a MaNDA.
+(4) Az (1) bekezdésben meghatározott alkalmazások fenntartásával és működtetésével közvetlenül összefüggő jogviszonyokban a Társaság jogutódja a Magyar Nemzeti Digitális Archívum és Filmintézet (a továbbiakban: MaNDA).
 
 (5) Az (1) és (2) bekezdés szerinti vagyon tekintetében a vagyonkezelői jogot a MaNDA gyakorolja.
 

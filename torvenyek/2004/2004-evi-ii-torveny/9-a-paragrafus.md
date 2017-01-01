@@ -1,6 +1,6 @@
 9/A. § (1) Az MNF bevételi forrásait a központi költségvetési támogatás és az MNF egyéb bevételei alkotják.
 
-(2) A hatoslottó szerencsejáték játékadójának 80 százalékát az MNF e törvény szerinti feladatai ellátására kell fordítani, és ezt a kiadást az állami vagyonnal kapcsolatos bevételek és kiadások költségvetési fejezetében kell megtervezni.
+(2) A hatoslottó szerencsejáték játékadójának 80%-át az MNF a II. Fejezet szerinti feladatai ellátására fordítja. Ezt a kiadást az állami vagyonnal kapcsolatos bevételek és kiadások költségvetési fejezetében kell megtervezni. Az MNF az I/A. Fejezet szerinti feladatainak ellátásával összefüggő kiadásait központi költségvetési támogatásból, és az 5/D. § (1) bekezdése szerinti bevételből fedezi.
 
 (3) Az MNF működése során keletkezett egyéb bevételeit is az e törvény szerinti mozgóképszakmai célokra fordítja.
 

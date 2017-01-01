@@ -1,9 +1,23 @@
-26. § (1) A filmalkotások „art” minősítésére irányuló eljárásban a szakhatóságként eljáró miniszter részére az általa működtetett öttagú Filmszakmai Bizottság tesz javaslatot az „art” minősítés tárgyában. A Filmszakmai Bizottság tagjait a miniszter nyílt pályázati eljárást követően nevezi ki. A Bizottság tagjainak filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal kell rendelkezniük. A tagok megbízatása három évre szól.
+26. § (1) A filmalkotások „art” minősítésére a Hivatal által felállított és működtetett Art Bizottság tesz javaslatot.
 
-(2) A szakhatóságként eljáró miniszter „art” minősítésűnek jelöl minden olyan terjesztésre kerülő filmalkotást,
+(2) Az Art Bizottság hat tagját a Nemzeti Filmiroda igazgatójának a javaslatára az Elnök nevezi ki három évre.
 
-a) amely művészeti értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúra fejlődéséhez, vagy
+(3) Az Art Bizottság tagjai:
 
-b) amelyet a Filmszakmai Bizottság oktatási vagy kulturális szempontból jelentősnek és magas művészi színvonalúnak ítél.
+a) egy, a Magyar Művészeti Akadémia elnöke által a filmművészet képviselőjeként delegált személy,
 
-(3) A Hivatal a filmalkotás előállítójának vagy terjesztőjének kérelmére – szakhatóság közreműködésének mellőzésével – „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hivatal által évente közzétett jegyzékben meghatározott fesztiváldíjban részesült.
+b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a filmművészet területén tapasztalattal rendelkező személy,
+
+c) egy, a miniszter által delegált, a filmművészet területén tapasztalattal rendelkező személy,
+
+d) három, filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal rendelkező személy.
+
+(4) A (3) bekezdés b) pontjában meghatározott tag ellátja az Art Bizottság koordinációjával kapcsolatos feladatokat és a Bizottság elnökeként vezeti annak üléseit.
+
+(5) A Hivatal az Art Bizottság javaslata alapján „art” minősítést ad minden olyan terjesztésre kerülő filmalkotásnak,
+
+a) amely művészi értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúra fejlődéséhez, vagy
+
+b) amelyet az Art Bizottság oktatási vagy kulturális szempontból jelentősnek és magas művészi színvonalúnak ítél.
+
+(6) A Hivatal a filmalkotás előállítójának vagy terjesztőjének kérelmére „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hivatal által évente közzétett jegyzékben meghatározott fesztivál díjában részesült.

@@ -20,6 +20,8 @@ c) a 2015. évben a 12 000,0 millió forintot,
 
 d) a 2016. évben a 14 000,0 millió forintot
 
+e) a 2017. évben a 14 000,0 millió forintot
+
 nem haladhatja meg.
 
 (8) A letéti számlát a társadalompolitika összehangolásáért felelős miniszter nyitja meg. A letéti számlán lévő pénzeszközökkel pénzügyi művelet az e törvényben meghatározott esetekben és módon az MNF rendelkezése alapján végezhető.
