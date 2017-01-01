@@ -2,7 +2,7 @@
 
 (2) A beszámolót az elektronikus cégbejegyzési eljárás és cégnyilvántartás egyes kérdéseiről szóló 24/2006. (V. 18.) igazságügyi miniszteri rendelet (a továbbiakban: Ecvhr.) 1. §-ának (2) bekezdésében meghatározott informatikai feltételeknek megfelelően kell megküldeni.
 
-(3)[^2] A beszámoló benyújtására – a cég választása szerint – a céginformációs szolgálat honlapján közzétett beküldési eljárások egyikével, elektronikus űrlap segítségével kerülhet sor. Az elektronikus űrlap a kormányzati portálról is elérhető.
+(3)[^2] A beszámoló benyújtására a céginformációs szolgálat honlapján közzétett beküldési eljárás útján, elektronikus űrlap segítségével kerülhet sor.
 
 [^1]: Az 1. § (1) bekezdése a 29/2013. (XI. 26.) KIM rendelet 1. § (1) bekezdésével megállapított, a 39/2015. (XII. 21.) IM rendelet 6. § (4) bekezés a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (3) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (1) bekezése iktatta be.
+[^2]: Az 1. § (3) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (1) bekezése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 11. §-ával megállapított szöveg.
