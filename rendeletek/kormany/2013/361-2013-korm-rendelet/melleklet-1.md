@@ -12,23 +12,23 @@
 
 5. Büntetés-végrehajtás Országos Parancsnoksága,
 
-6. Bevándorlási és Állampolgársági Hivatal,
+6.[^2] Bevándorlási és Menekültügyi Hivatal,
 
 7. Országos Vízügyi Főigazgatóság,
 
-8.[^2] területi vízügyi igazgatóságok,
+8.[^3] területi vízügyi igazgatóságok,
 
-9.[^3] Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség,
+9.[^4] Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség,
 
-9a.[^4] Országos Vízügyi Főigazgatóság,
+9a.[^5] Országos Vízügyi Főigazgatóság,
 
-10.[^5] környezetvédelmi és természetvédelmi feladatkörükben eljáró megyei kormányhivatalok,
+10.[^6] környezetvédelmi és természetvédelmi feladatkörükben eljáró megyei kormányhivatalok,
 
-10a.[^6]
+10a.[^7]
 
 11. nemzeti park igazgatóságok,
 
-12. Állami Népegészségügyi és Tisztiorvosi Szolgálat,
+12.[^8]
 
 13. Országos Vérellátó Szolgálat,
 
@@ -38,7 +38,7 @@
 
 16. MTA Csillagászati és Földtudományi Kutatóközpont Geodéziai és Geofizikai Intézet,
 
-17.[^7] közlekedésbiztonsági szerv,
+17.[^9] közlekedésbiztonsági szerv,
 
 18. Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság, Útinform,
 
@@ -63,9 +63,11 @@
 28. távközlési szolgáltatók (vezetékes telefon, mobiltelefon, internet).
 
 [^1]: Az 1. melléklet 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § a) pontjával megállapított szöveg.
-[^2]: Az 1. melléklet 8. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. melléklet 9. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 757. § c) pontja szerint módosított szöveg.
-[^5]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 233. §-a szerint módosított szöveg.
-[^6]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 758. §-a.
-[^7]: Az 1. melléklet 17. pontja a 230/2016. (VII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet 6. pontja a 379/2016. (XII. 2.) Korm. rendelet 247. § (1) bekezdése szerint módosított szöveg.
+[^3]: Az 1. melléklet 8. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 9. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 757. § c) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 233. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 758. §-a.
+[^8]: Az 1. melléklet 12. pontját a 379/2016. (XII. 2.) Korm. rendelet 247. § (2) bekezdése hatályon kívül helyezte.
+[^9]: Az 1. melléklet 17. pontja a 230/2016. (VII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

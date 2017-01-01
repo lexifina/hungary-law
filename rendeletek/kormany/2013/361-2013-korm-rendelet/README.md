@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-361-20-
 | 2014-09-05 | 2013-361-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2013-361-20-22.4 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2016-09-01 | 2013-361-20-22.5 | 230/2016. (VII. 29.) Korm. rendelet |
+| 2017-01-01 | 2013-361-20-22.6 | 379/2016. (XII. 2.) Korm. rendelet |
