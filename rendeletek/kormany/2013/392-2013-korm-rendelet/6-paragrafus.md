@@ -1,8 +1,8 @@
-6. § (1)[^4] Az eljáró hatóság a Nyilvántartásban rögzített
+6. § (1)[^13] Az eljáró hatóság a Nyilvántartásban rögzített
 
-a) természetes személyazonosító és lakcímadatokat a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának nyilvántartásából,
+a)[^14] természetes személyazonosító és lakcímadatokat a személyi adat- és lakcímnyilvántartásért felelős miniszter által vezetett nyilvántartásból,
 
-b) Társadalombiztosítási Azonosító Jelet az Országos Egészségbiztosítási Pénztár nyilvántartásából
+b)[^15] Társadalombiztosítási Azonosító Jelet a Nemzeti Egészségbiztosítási Alapkezelő nyilvántartásából
 
 ## való adatigénylés útján ellenőrzi.
 
@@ -10,4 +10,6 @@ b) Társadalombiztosítási Azonosító Jelet az Országos Egészségbiztosítá
 
 (3) A Nyilvántartásban szereplő személyre vonatkozó, az Szt. 18. § a), b) és g) pontja, 18/A. § a), b) és g) pontja, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 138. § (1) bekezdés a) és b) pontja szerinti adatokat akkor kell törölni a nyilvántartásból, amikor az Szt. 23. §-a szerint minden olyan ellátás Nyilvántartásból való törlésére sor került, amelyre való jogosultság vizsgálatánál a személyt figyelembe vették. A törlést az utolsóként törölt ellátással összefüggő adatok törlésével egyidejűleg kell elvégezni.
 
-[^4]: A 6. § (1) bekezdése a 21. §-al megállapított szöveg.
+[^13]: A 6. § (1) bekezdése a 21. §-al megállapított szöveg.
+[^14]: A 6. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés e) pontja szerint módosított szöveg.

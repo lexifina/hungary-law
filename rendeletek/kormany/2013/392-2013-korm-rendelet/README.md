@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-392-20-
 | 2014-07-02 | 2013-392-20-22.5 | 2010: CXXX. törvény |
 | 2015-03-01 | 2013-392-20-22.6 | 24/2015. (II. 20.) Korm. rendelet |
 | 2016-07-23 | 2013-392-20-22.7 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2017-01-01 | 2013-392-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |

@@ -1,7 +1,9 @@
 5. § (1) Az adatszolgáltatásra jogosult személy az Szt. 18/B. § (2) bekezdése szerinti adatokat – a döntés jogerőre emelkedésének időpontját kivéve – legkésőbb az ellátással összefüggő döntés meghozatalát követő öt munkanapon belül rögzíti a Nyilvántartás működtetésének alapjául szolgáló adatrögzítő felületen. A rögzített adatok akkor válnak a Nyilvántartás részévé, amikor az ellátással kapcsolatos döntés jogerőre emelkedésére vonatkozó adatot az adatszolgáltatásra jogosult személy rögzíti. A jogerőre emelkedés időpontját legkésőbb a jogerőre emelkedésről való tudomásszerzést követő munkanapon kell rögzíteni.
 
-(2) Az (1) bekezdésben meghatározott határidőn túl akkor lehet adatot rögzíteni, ha az adatszolgáltatásra jogosult személy számára a Nyilvántartás – a Hivatal informatikai rendszerében, az elektronikus hírközlési szolgáltatónál vagy a hatóság informatikai eszközében fellépő üzemzavar miatt – az adatrögzítési határidőn belül munkaidőben legalább két egymást követő munkanapon keresztül nem volt elérhető.
+(2)[^12] Az (1) bekezdésben meghatározott határidőn túl akkor lehet adatot rögzíteni, ha az adatszolgáltatásra jogosult személy számára a Nyilvántartás – a Központ informatikai rendszerében, az elektronikus hírközlési szolgáltatónál vagy a hatóság informatikai eszközében fellépő üzemzavar miatt – az adatrögzítési határidőn belül munkaidőben legalább két egymást követő munkanapon keresztül nem volt elérhető.
 
 (3) Ha az Szt. 18/B. § (1) bekezdése szerinti ellátás megállapítása során figyelembe vett személy Társadalombiztosítási Azonosító Jellel nem rendelkezik vagy a Társadalombiztosítási Azonosító Jele nem ismert, a Nyilvántartás a részére – a Társadalombiztosítási Azonosító Jele rögzítéséig – ideiglenes azonosítót képez.
 
 (4) Ha a Nyilvántartásban rögzített adat akként változik meg, hogy azzal összefüggésben hatósági döntéshozatalra nem kerül sor, az adatot az adatszolgáltatásra jogosult személy legkésőbb az adatváltozásról való tudomásszerzést követő munkanapon módosítja.
+
+[^12]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
