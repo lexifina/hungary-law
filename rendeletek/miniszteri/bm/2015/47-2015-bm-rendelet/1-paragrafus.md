@@ -14,6 +14,7 @@
 
 6. menekültügyi hatóság: az IRM rendelet 1. § (1) bekezdése szerinti hatóság;
 
-7. nemzeti hozzáférési pont: az Eurodac II. rendelet 2. cikk (1) bekezdés e) pontja alapján a Bűnügyi Szakértői és Kutatóintézet.
+7.[^2] nemzeti hozzáférési pont: az Eurodac II. rendelet 2. cikk (1) bekezdés e) pontja alapján a Nemzeti Szakértői és Kutató Központ.
 
 [^1]: Az 1. § 5. pontja a 40/2016. (X. 12.) BM rendelet 6. §-a szerint módosított szöveg.
+[^2]: Az 1. § 7. pontja az 58/2016. (XII. 22.) BM rendelet 54. §-a szerint módosított szöveg.
