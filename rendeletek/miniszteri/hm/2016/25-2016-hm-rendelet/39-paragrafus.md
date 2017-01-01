@@ -1,0 +1,1 @@
+## „(2a) Az önkéntes műveleti tartalékos és az önkéntes területvédelmi tartalékos szolgálati viszony határozott, az önkéntes védelmi tartalékos szolgálati viszony határozatlan időre létesíthető. A határozott idejű önkéntes tartalékos szolgálati viszony a vállalt szolgálati idő lejártával a szerződés módosításával meghosszabbítható.”

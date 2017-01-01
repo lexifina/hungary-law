@@ -1,0 +1,3 @@
+## 72. § Az R9. 32. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az (1) bekezdés szerinti külszolgálati ellátmány előleglevonással nem terhelhető. A kiküldött halála esetén – ide nem értve a Hjt. 141/A. § szerinti esetet – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 40/A. §-a vagy a Hjt. 141/B. §-a szerinti miniszteri döntés hiányában, az illetményelőlegnek, az ellátmányelőlegnek és az utazási előlegnek az elhalálozást követően esedékes, még törlesztetlen részéből adódó tartozás miatt fennálló visszafizetési kötelezettség törvényben meghatározott értékhatárt el nem érő kis összegű követelésnek minősülő része törlésre kerül.”
