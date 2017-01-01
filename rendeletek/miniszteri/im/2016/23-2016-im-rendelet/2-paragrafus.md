@@ -1,0 +1,7 @@
+## 1. § A bíróságon kezelt letétekről szóló 27/2003. (VII. 2.) IM rendelet 12. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(2) Ha a letétbe helyezés összefügg bíróság előtt folyamatban lévő vagy folyamatban volt üggyel, a letét elfogadása tárgyában az első fokon eljáró vagy eljárt bíróság, egyéb esetben a járásbíróság jár el. Törvényszéki végrehajtó által lefolytatott eljárás során letéti ügyben a törvényszék jár el.
+
+## (3) Az önálló bírósági végrehajtó vagy a közjegyző előtt folyamatban lévő eljárással összefüggő letéti ügyben az önálló bírósági végrehajtó vagy a közjegyző székhelye szerinti járásbíróság jár el, egyébként pedig az a bíróság, amelynek eljárásával a letétbe helyezés összefügg, ha pedig nincs ilyen eljárás, a teljesítés helye vagy a letevő lakóhelye, székhelye szerinti járásbíróság jár el. Az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanítási összeggel kapcsolatos letéti ügyben az ingatlan fekvése szerinti törvényszék székhelye szerinti járásbíróság jár el.”
+
+## 2. Az országgyűlési képviselők és az Európai Parlament tagjainak választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eljárásban használandó nyomtatványokról, valamint a választási eredmény országosan összesített adatai körének megállapításáról szóló 28/2013. (XI. 15.) KIM rendelet módosítása

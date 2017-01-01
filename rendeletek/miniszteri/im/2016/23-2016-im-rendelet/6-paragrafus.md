@@ -1,0 +1,3 @@
+## 5. § A természetes személyek bírósági adósságrendezési eljárásában a családi vagyonfelügyelő és a felek közötti együttműködés szabályairól, valamint az adós fizetési számláiról szóló 29/2015. (X. 30.) IM rendelet 5. § (1) bekezdésében a „vezető beosztású kormánytisztviselő” szövegrész helyébe a „vezetői munkakört betöltő állami tisztviselő” szöveg lép.
+
+## 6. Az országos népszavazáson a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eljárásban használandó nyomtatványokról, valamint a népszavazási eredmény országosan összesített adatainak köréről szóló 9/2016. (VI. 28.) IM rendelet módosítása
