@@ -1,1 +1,0 @@
-A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény (a továbbiakban: Tv.) 10. §-a (5) bekezdésének a)–d) pontjaiban kapott felhatalmazás alapján – az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletben foglaltakkal összhangban – a következőket rendelem el:
