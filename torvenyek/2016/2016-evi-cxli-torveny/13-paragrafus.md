@@ -5,11 +5,3 @@ a) 4. pont 4.5. alpontjában az „a Magyar Corvin-lánc kitüntetés alapítás
 b) 4. pont 4.6. alpontjában a „formája, továbbá a kultúráért felelős” szövegrész helyébe a „formája, a Magyar Corvin-lánc kitüntetés tárgyiasult formája, továbbá a kultúráért felelős” szöveg
 
 lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
