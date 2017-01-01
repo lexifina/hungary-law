@@ -38,15 +38,15 @@ h)[^12] Földművelésügyi Minisztérium;
 
 i) Büntetés-végrehajtás Országos Parancsnoksága;
 
-j)[^13] Egészségügyi Nyilvántartási és Képzési Központ;
+j)[^13] Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet;
 
-k) Magyar Kereskedelmi és Engedélyezési Hivatal;
+k)[^14] Budapest Főváros Kormányhivatala;
 
 l) Központi Statisztikai Hivatal;
 
 m) Nemzeti Bűnmegelőzési Tanács;
 
-n) Országos Egészségbiztosítási Pénztár;
+n)[^15] Nemzeti Egészségbiztosítási Alapkezelő;
 
 o) Országos Mentőszolgálat Főigazgatósága;
 
@@ -54,15 +54,17 @@ p) Országos Tisztifőorvosi Hivatal;
 
 q) Országos Rendőr-főkapitányság;
 
-r)[^14] Nemzeti Adó- és Vámhivatal Központi Irányítása;
+r)[^16] Nemzeti Adó- és Vámhivatal Központi Irányítása;
 
-s)[^15] Miniszterelnökség.
+s)[^17] Miniszterelnökség.
 
 [^8]: A 2. számú melléklet a 94/2011. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-a alapján a 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
 [^9]: A 2. számú melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § d) pontjával megállapított szöveg.
 [^10]: A 2. számú melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § e) pontjával megállapított szöveg.
 [^11]: A 2. számú melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § f) pontjával megállapított szöveg.
 [^12]: A 2. számú melléklet h) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § g) pontjával megállapított szöveg.
-[^13]: A 2. számú melléklet j) pontja a 30/2015. (II. 25.) Korm. rendelet 15. §-a szerint módosított szöveg.
-[^14]: A 2. számú melléklet r) pontja a 486/2015. (XII. 29.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^15]: A 2. számú melléklet s) pontját a 221/2014. (IX. 4.) Korm. rendelet 259. §-a iktatta be.
+[^13]: A 2. számú melléklet j) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés a) pontjával megállapított szöveg.
+[^14]: A 2. számú melléklet k) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés b) pontjával megállapított szöveg.
+[^15]: A 2. számú melléklet n) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés c) pontjával megállapított szöveg.
+[^16]: A 2. számú melléklet r) pontja a 486/2015. (XII. 29.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^17]: A 2. számú melléklet s) pontját a 221/2014. (IX. 4.) Korm. rendelet 259. §-a iktatta be.
