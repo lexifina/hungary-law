@@ -2,9 +2,9 @@
 
 (2) A Vtv. 30. §-ának (2) bekezdése alapján róka, dolmányos varjú, szarka és szajkó elpusztítására védett állatot nem veszélyeztető szelektív hatású vegyszer is alkalmazható.
 
-(3)[^101] Vadászterületnek minősülő állattartó telepen, illetve mezőgazdasági létesítmény területén és azok környezetében a tulajdonos vagy használó felkérése alapján a vadászatra jogosult részére a vadászati hatóság kérelemre engedélyezheti az elvadult házi galamb riasztását és gyérítését.
+(3)[^102] Vadászterületnek minősülő állattartó telepen, illetve mezőgazdasági létesítmény területén és azok környezetében a tulajdonos vagy használó felkérése alapján a vadászatra jogosult részére a vadászati hatóság kérelemre engedélyezheti az elvadult házi galamb riasztását és gyérítését.
 
-(4)[^102] A vadászati hatóság a vadászatra jogosult kérelmére a vadpulyka állományszabályozásának céljából engedélyezheti a vadpulyka gyérítését.
+(4)[^103] A vadászati hatóság a vadászatra jogosult kérelmére a vadpulyka állományszabályozásának céljából engedélyezheti a vadpulyka gyérítését.
 
-[^101]: A Vhr. 60. § (3) bekezdését a 74/2013. (VIII. 30.) VM rendelet 14. §-a iktatta be.
-[^102]: A Vhr. 60. § (4) bekezdését a 19/2014. (III. 12.) VM rendelet 14. §-a iktatta be.
+[^102]: A Vhr. 60. § (3) bekezdését a 74/2013. (VIII. 30.) VM rendelet 14. §-a iktatta be.
+[^103]: A Vhr. 60. § (4) bekezdését a 19/2014. (III. 12.) VM rendelet 14. §-a iktatta be.

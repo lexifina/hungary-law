@@ -1,4 +1,4 @@
-34. §[^57] (1) A vadászati hatóság a vadászatra jogosult kérelmére az e rendeletben meghatározott feltételeknek megfelelő hivatásos vadász jelöltet a 9. számú melléklet szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vett hivatásos vadász, valamint a vadászatra jogosult számára igazolást állít ki.
+34. §[^58] (1) A vadászati hatóság a vadászatra jogosult kérelmére az e rendeletben meghatározott feltételeknek megfelelő hivatásos vadász jelöltet a 9. számú melléklet szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vett hivatásos vadász, valamint a vadászatra jogosult számára igazolást állít ki.
 
 (2) A vadászatra jogosult az (1) bekezdés szerinti igazolás birtokában kezdeményezheti a rendőrségnél a szolgálati igazolvány és szolgálati jelvény kiállítását.
 
@@ -14,4 +14,4 @@
 
 (8) A vadászatra jogosult köteles a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – 15 napon belül – tájékoztatni a működési helye szerinti rendőrhatóságot, valamint a hivatásos vadász lakóhelye szerint illetékes vadászkamarát.
 
-[^57]: A Vhr. 34. §-a a 45/2013. (VI. 3.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^58]: A Vhr. 34. §-a a 45/2013. (VI. 3.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.

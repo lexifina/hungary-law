@@ -1,4 +1,4 @@
-2/A. §[^6] (1)[^7] A haszonbérleti szerződés megkötését követően a vadászatra jogosult az 1. számú mellékletben meghatározott adattartalommal, a NÉBIH honlapján közzétett formanyomtatványon nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a vadászatra jogosultat az 1. számú melléklet B. pontja szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vétellel egyidejűleg a vadászterület azonosító kódszámát kiegészíti a vadászterület fekvése szerinti vadgazdálkodási tájegység kódszámával.
+2/A. §[^7] (1)[^8] A haszonbérleti szerződés megkötését követően a vadászatra jogosult az 1. számú mellékletben meghatározott adattartalommal, a Pest Megyei Kormányhivatal honlapján közzétett formanyomtatványon nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a vadászatra jogosultat az 1. számú melléklet B. pontja szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vétellel egyidejűleg a vadászterület azonosító kódszámát kiegészíti a vadászterület fekvése szerinti vadgazdálkodási tájegység kódszámával.
 
 (2) A kérelemhez mellékelni kell:
 
@@ -26,7 +26,7 @@ b) a haszonbérlőt a haszonbérlő bejegyzésére jogosult bíróság vagy cég
 
 c) a vadászatra jogosult felszámolását elrendelő végzés jogerőre emelkedett,
 
-d)[^8] a vadászatra jogosult elmulasztja a 15/A. §-ban meghatározott határidőn belül a vadgazdálkodási üzemterv benyújtását, vagy a vadászati hatóság a 15/A. § szerinti vadgazdálkodási üzemtervet nem hagyja jóvá.
+d)[^9] a vadászatra jogosult elmulasztja a 15/A. §-ban meghatározott határidőn belül a vadgazdálkodási üzemterv benyújtását, vagy a vadászati hatóság a 15/A. § szerinti vadgazdálkodási üzemtervet nem hagyja jóvá.
 
 (5) A vadászatra jogosult
 
@@ -40,6 +40,6 @@ a vadászati hatóságnak írásban bejelenti.
 
 (7) Ha a magyar állam önálló vadászati joga vagyonkezelési szerződéssel kerül hasznosításra, akkor a vagyonkezelő nyilvántartásba vételére, illetve a nyilvántartásból való törlésére az (1)–(6) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni.
 
-[^6]: A Vhr. 2/A. §-át a 14/2016. (III. 2.) FM rendelet 1. §-a iktatta be.
-[^7]: A Vhr. 2/A. § (1) bekezdése a 73/2016. (XI. 17.) FM rendelet 1. §-ával megállapított szöveg.
-[^8]: A Vhr. 2/A. § (4) bekezdés d) pontját a 73/2016. (XI. 17.) FM rendelet 2. §-a iktatta be.
+[^7]: A Vhr. 2/A. §-át a 14/2016. (III. 2.) FM rendelet 1. §-a iktatta be.
+[^8]: A Vhr. 2/A. § (1) bekezdése a 73/2016. (XI. 17.) FM rendelet 1. §-ával megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § b) pontja szerint módosított szöveg.
+[^9]: A Vhr. 2/A. § (4) bekezdés d) pontját a 73/2016. (XI. 17.) FM rendelet 2. §-a iktatta be.

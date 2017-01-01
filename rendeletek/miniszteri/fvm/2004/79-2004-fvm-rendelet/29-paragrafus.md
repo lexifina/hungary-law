@@ -2,12 +2,12 @@
 
 29. § (1) Az éves vadgazdálkodási tervet legalább középfokú vadgazdálkodási képesítéssel, valamint ötéves szakmai gyakorlattal rendelkező személy készíthet.
 
-(2)[^46] Az éves vadállománybecslést és vadgazdálkodási tervet a 7. számú melléklet szerinti adattartalommal minden év február 15. napjáig kell a vadászati hatóságnak megküldeni.
+(2)[^47] Az éves vadállománybecslést és vadgazdálkodási tervet a 7. számú melléklet szerinti adattartalommal minden év február 15. napjáig kell a vadászati hatóságnak megküldeni.
 
-(3)[^47]
+(3)[^48]
 
-(4)[^48] Az éves vadgazdálkodási terv mezei nyúl és fácán hasznosítására vonatkozó részét a vadászati hatóság a tárgyév szeptember 30-ig hivatalból felülvizsgálja, és amennyiben a terv elkészítésekor nem ismert változás következett be a mezei nyúl és a fácán hasznosítható állományában vagy az élőhely állapotában, akkor az éves vadgazdálkodási tervet hivatalból módosítja.
+(4)[^49] Az éves vadgazdálkodási terv mezei nyúl és fácán hasznosítására vonatkozó részét a vadászati hatóság a tárgyév szeptember 30-ig hivatalból felülvizsgálja, és amennyiben a terv elkészítésekor nem ismert változás következett be a mezei nyúl és a fácán hasznosítható állományában vagy az élőhely állapotában, akkor az éves vadgazdálkodási tervet hivatalból módosítja.
 
-[^46]: A Vhr. 29. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 19. §-ával megállapított szöveg.
-[^47]: A Vhr. 29. § (3) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^48]: A Vhr. 29. § (4) bekezdését az 56/2005. (VI. 25.) FVM rendelet 6. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^47]: A Vhr. 29. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 19. §-ával megállapított szöveg.
+[^48]: A Vhr. 29. § (3) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^49]: A Vhr. 29. § (4) bekezdését az 56/2005. (VI. 25.) FVM rendelet 6. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.

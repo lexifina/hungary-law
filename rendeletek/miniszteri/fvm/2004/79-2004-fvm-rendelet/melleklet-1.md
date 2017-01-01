@@ -1,3 +1,3 @@
-1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^168]
+1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^169]
 
-[^168]: A Vhr. 1. számú melléklete a 14/2016. (III. 2.) FM rendelet 7. §-ával megállapított szöveg.
+[^169]: A Vhr. 1. számú melléklete a 14/2016. (III. 2.) FM rendelet 7. §-ával megállapított szöveg.

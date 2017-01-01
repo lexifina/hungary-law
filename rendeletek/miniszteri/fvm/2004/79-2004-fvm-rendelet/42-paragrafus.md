@@ -1,3 +1,3 @@
-42. §[^67]
+42. §[^68]
 
-[^67]: A Vhr. 42. §-át a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
+[^68]: A Vhr. 42. §-át a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.

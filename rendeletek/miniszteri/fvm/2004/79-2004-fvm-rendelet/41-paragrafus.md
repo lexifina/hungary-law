@@ -1,4 +1,4 @@
-41. §[^66] (1) A hivatásos vadászt a szolgálati feladata teljesítése során elejtett, elfogott vad után lődíjként a szolgálati lőfegyvere és annak öbnagysága figyelembevételével
+41. §[^67] (1) A hivatásos vadászt a szolgálati feladata teljesítése során elejtett, elfogott vad után lődíjként a szolgálati lőfegyvere és annak öbnagysága figyelembevételével
 
 a) az elejtett, elfogott szarkáért, szajkóért és dolmányos varjúért tíz darab sörétes lőszer,
 
@@ -12,4 +12,4 @@ illeti meg a jogosult költségére.
 
 (2) A lődíj elszámolásának rendjét a jogosult állapítja meg, melyet köteles a vadgazdálkodási jelentéssel együtt a vadászati hatóság részére megküldeni.
 
-[^66]: A Vhr. 41. §-a a 7/2010. (II. 2.) FVM rendelet 25. §-ával megállapított szöveg.
+[^67]: A Vhr. 41. §-a a 7/2010. (II. 2.) FVM rendelet 25. §-ával megállapított szöveg.

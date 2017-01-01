@@ -2,7 +2,7 @@
 
 2. §[^5] (1) A vadászterület határának megállapításával egyidejűleg a vadászati hatóság a tulajdonosi közösséget a hozzá tartozó vadászterület azonosító kódszámának megjelölésével nyilvántartásba veszi. A tulajdonosi közösség nyilvántartásba vételekor a vadászterület azonosító kódszáma a vadászterület sorszámát és a vadászterület fekvése szerinti megye kódját tartalmazza.
 
-(2) Megválasztását követően a tulajdonosi közösség képviselője az 1. számú mellékletben meghatározott adattartalmú és a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) honlapján közzétett formanyomtatványon nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a tulajdonosi közösség képviselőjét az 1. számú melléklet A. pontja szerinti adattartalommal nyilvántartásba veszi.
+(2)[^6] Megválasztását követően a tulajdonosi közösség képviselője az 1. számú mellékletben meghatározott adattartalmú és a Pest Megyei Kormányhivatal honlapján közzétett formanyomtatványon nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a tulajdonosi közösség képviselőjét az 1. számú melléklet A. pontja szerinti adattartalommal nyilvántartásba veszi.
 
 (3) A kérelemhez mellékelni kell:
 
@@ -27,3 +27,4 @@ b) a képviselő személyével szemben a Vtv. 12. § (5) vagy (7) bekezdésében
 (6) A tulajdonosi közösség képviselője a (2)–(5) bekezdésben meghatározott adatokban, tényekben bekövetkezett változást a változás bekövetkezésének napjától számított tizenöt napon belül a vadászati hatóságnak írásban bejelenti.
 
 [^5]: A Vhr. 2. §-a a 14/2016. (III. 2.) FM rendelet 1. §-ával megállapított szöveg.
+[^6]: A Vhr. 2. § (2) bekezdése a 89/2016. (XII. 29.) FM rendelet 8. § a) pontja szerint módosított szöveg.

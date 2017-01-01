@@ -1,6 +1,6 @@
 ## (A Vtv. 22–24. §-aihoz)
 
-17. §[^32] (1) Vadaskert, vadaspark, vadfarm létesítésének engedélyezéséről, illetve az engedélyben foglaltak felülvizsgálatáról az országos hatáskörű vadászati hatóság a Vtv.-ben előírt eljárás szerinti döntés meghozatalához a vadaspark, vadaskert, vadfarm fekvése szerint illetékes vadászati hatóság véleményét kikéri.
+17. §[^33] (1) Vadaskert, vadaspark, vadfarm létesítésének engedélyezéséről, illetve az engedélyben foglaltak felülvizsgálatáról az országos hatáskörű vadászati hatóság a Vtv.-ben előírt eljárás szerinti döntés meghozatalához a vadaspark, vadaskert, vadfarm fekvése szerint illetékes vadászati hatóság véleményét kikéri.
 
 (2) A vadászati célú vadaskert legkisebb kiterjedése
 
@@ -20,4 +20,4 @@ b) a létesítendő vadfarm legfontosabb adatait (terület, külső kerítéshos
 
 c) a 3/II. számú melléklet szerinti dokumentumokat.
 
-[^32]: A Vhr. 17. §-a a 7/2010. (II. 2.) FVM rendelet 13. §-ával megállapított szöveg.
+[^33]: A Vhr. 17. §-a a 7/2010. (II. 2.) FVM rendelet 13. §-ával megállapított szöveg.

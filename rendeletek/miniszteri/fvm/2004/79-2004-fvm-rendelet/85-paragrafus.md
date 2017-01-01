@@ -1,5 +1,5 @@
 ## (A Vtv. 82. §-ához)
 
-85. §[^148]
+85. §[^149]
 
-[^148]: A Vhr. 85. §-át a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^149]: A Vhr. 85. §-át a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés f) pontja hatályon kívül helyezte.

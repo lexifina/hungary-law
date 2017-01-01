@@ -18,9 +18,9 @@
 
 ## III. A hivatásos vadász szolgálati naplója
 
-## 3K54252B_0
+## 6K86116P_0
 
-|  | Szolgálat kezdete hó, nap, óra, perc | Esemény, intézkedés (területellenőrzés, vadvédelmi, vadkárelhárírási és vadászattal kapcsolatos bejegyzés) | Szolgálat vége hó, nap, óra, perc |  | …………… MEGYEI VADÁSZHATÓSÁG |
+|  | Szolgálat kezdete hó, nap, óra, perc | Esemény, intézkedés (területellenőrzés, vadvédelmi, vadkárelhárírási és vadászattal kapcsolatos bejegyzés) | Szolgálat vége hó, nap, óra, perc |  | ……….. TERÜLETI VADÁSZHATÓSÁG |
 
 |  |  |  |  |  | HIVATÁSOS VADÁSZ SZOLGÁLATI NAPLÓJA (Érvényes visszavonásig!) Igazolom, hogy e szolgálati napló vezetésére ………………………………………………….….. (név) ……………………….……. (születési hely, idő) jogosult A szolgálati napló 100 számozott oldalt tartalmaz. Kelt: 20… ………………… hó ….. napján ……………………………. vadászati hatóság |
 

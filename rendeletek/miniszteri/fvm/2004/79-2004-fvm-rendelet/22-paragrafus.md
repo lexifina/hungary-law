@@ -4,10 +4,10 @@
 
 (2) A vad elfogásánál kíméletesen kell eljárni, annak testi épségét és egészségét nem veszélyeztető eszközt kell alkalmazni.
 
-(3)[^38]
+(3)[^39]
 
 (4) Élő vad befogása esetén az alkalmazott befogót a jogosult köteles legalább huszonnégy óránként ellenőrizni. Éjszakai működés esetén az első ellenőrzést legkésőbb napkeltekor el kell végezni. A vadat a befogóból az észleléstől számított lehető legrövidebb időn belül el kell távolítani.
 
 (5) A vad mozgásképtelenségét okozó befogás esetén haladéktalanul gondoskodni kell annak állat-egészségügyi ellátásáról.
 
-[^38]: A Vhr. 22. § (3) bekezdését az 56/2005. (VI. 25.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
+[^39]: A Vhr. 22. § (3) bekezdését az 56/2005. (VI. 25.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.

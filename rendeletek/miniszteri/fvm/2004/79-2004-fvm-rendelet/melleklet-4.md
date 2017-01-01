@@ -1,4 +1,4 @@
-## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^170]
+## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^171]
 
 ## A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -34,11 +34,11 @@
 
 ## i) ábrák, táblázatok;
 
-## 3.[^171] Az állategészségügyért felelős hatóság véleményét.
+## 3.[^172] Az állategészségügyért felelős hatóság véleményét.
 
 ## 4. A védett természeti terület esetében a területileg illetékes környezetvédelmi hatóságnál külön jogszabály szerint kezdeményezett környezeti hatásvizsgálat eredményeként kiadott környezetvédelmi engedélyt.
 
-## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^172]
+## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^173]
 
 ## A VADFARM LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -70,9 +70,9 @@
 
 ## l) belterület esetén az illetékes jegyző nyilatkozata, hogy a helyi állattartási rendeletben foglaltakkal nem ütközik.
 
-4. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^173]
+4. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^174]
 
-[^170]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
-[^171]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
-[^172]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.
-[^173]: A Vhr. 4. számú melléklete a 73/2016. (XI. 17.) FM rendelet 6. §-ával megállapított szöveg.
+[^171]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
+[^172]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
+[^173]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.
+[^174]: A Vhr. 4. számú melléklete a 73/2016. (XI. 17.) FM rendelet 6. §-ával megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § c) pontja szerint módosított szöveg.

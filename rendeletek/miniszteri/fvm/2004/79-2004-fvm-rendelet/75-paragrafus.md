@@ -6,6 +6,6 @@
 
 (4) A rendőrhatóság megérkezése után a helyszínen bekövetkezett esetleges változásról, valamint az eredeti helyzetről a balesetet előidéző, illetőleg a helyszín biztosítását ellátó személy köteles tájékoztatást adni.
 
-(5)[^134] Minden vadász- és szolgálati lőfegyverrel okozott személyi sérüléssel járó balesetet haladéktalanul be kell jelenteni a rendőr- és vadászati hatóságnak. A jelentésnek tartalmaznia kell a baleset előidézésében vagy körülményeinek tisztázásában jelen levők személyi azonosító adatait, valamint az esemény helyét, időpontját, a sérülés jellegét és a megtett, illetőleg tervezett intézkedéseket.
+(5)[^135] Minden vadász- és szolgálati lőfegyverrel okozott személyi sérüléssel járó balesetet haladéktalanul be kell jelenteni a rendőr- és vadászati hatóságnak. A jelentésnek tartalmaznia kell a baleset előidézésében vagy körülményeinek tisztázásában jelen levők személyi azonosító adatait, valamint az esemény helyét, időpontját, a sérülés jellegét és a megtett, illetőleg tervezett intézkedéseket.
 
-[^134]: A Vhr. 75. § (5) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^135]: A Vhr. 75. § (5) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (1) bekezdés d) pontja szerint módosított szöveg.

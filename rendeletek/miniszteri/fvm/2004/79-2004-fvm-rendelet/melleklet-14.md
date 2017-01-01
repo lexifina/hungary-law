@@ -1,4 +1,4 @@
-## I.[^182]
+## I.[^183]
 
 ## TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS TARTALMA
 
@@ -6,9 +6,9 @@
 
 ## TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS TARTALMA
 
-## 5M04440_0
+## 6K86116S_0
 
-| ........................... MEGYEI Nyilvántartási szám: ........................... VADÁSZATI HATÓSÁG Vadászatra jogosult neve: kódja: ⬜⬜–⬜⬜⬜⬜⬜⬜–⬜–⬜–⬜ TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS (Érvényes visszavonásig!) Ezen napló 100 számozott lapot tartalmaz. Kelt: .............................., 20.......... év ........................................ hó .......... nap. P. H. ............................................................ vadászati hatóság |
+| ........................... TERÜLETI Nyilvántartási szám: ........................... VADÁSZATI HATÓSÁG Vadászatra jogosult neve: kódja: ⬜⬜–⬜⬜⬜⬜⬜⬜–⬜–⬜–⬜ TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS (Érvényes visszavonásig!) Ezen napló 100 számozott lapot tartalmaz. Kelt: .............................., 20.......... év ........................................ hó .......... nap. P. H. ............................................................ vadászati hatóság |
 
 ## Társasvadászati napló és terítéknyilvántartás vezetésre jogosultak
 
@@ -84,7 +84,7 @@
 
 ## Vadászatvezető: ..............................................................
 
-## II.
+## II.[^184]
 
 ## EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉK-NYILVÁNTARTÁS TARTALMA
 
@@ -92,9 +92,9 @@
 
 ## EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉK-NYILVÁNTARTÁS TARTALMA
 
-## 4M06492_0
+## 6K86116T_0
 
-| ………………… MEGYEI Nyilvántartási szám: ……………… VADÁSZATI HATÓSÁG Vadászatra jogosult neve: ………………………………………………………………………….. Kódja: □□–□□□□□□–□–□–□ EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS Ezen napló 100 számozott lapot tartalmaz. Kelt: …………………………., 20………. év …………………………….. hó …….. nap. P. H. ………………………………… vadászati hatóság |
+| ………………… TERÜLETI Nyilvántartási szám: ……………… VADÁSZATI HATÓSÁG Vadászatra jogosult neve: ………………………………………………………………………….. Kódja: □□–□□□□□□–□–□–□ EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS Ezen napló 100 számozott lapot tartalmaz. Kelt: …………………………., 20………. év …………………………….. hó …….. nap. P. H. ………………………………… vadászati hatóság |
 
 ## Kivonat a …./2004. (…. …..) FVM rendeletből:
 
@@ -120,4 +120,5 @@
 
 14. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
 
-[^182]: A Vhr. 13. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^183]: A Vhr. 13. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdésével megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § f) pontja szerint módosított szöveg.
+[^184]: A Vhr. 13. számú melléklet II. része a 89/2016. (XII. 29.) FM rendelet 8. § f) pontja szerint módosított szöveg.
