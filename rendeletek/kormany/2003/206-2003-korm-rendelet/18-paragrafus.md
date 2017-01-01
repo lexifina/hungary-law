@@ -1,6 +1,6 @@
 18. §[^20] (1)[^21]
 
-(2)[^22] A pedagógus- és oktatói kedvezményekre való jogosultság megállapítására irányuló eljárás kérelemre indul. A kérelmet a határon túli pedagógus, oktató személyesen, postai úton vagy meghatalmazott útján, a külképviseleten vagy a kormányhivatalnál nyújthatja be.
+(2)[^22] A pedagógus- és oktatói kedvezményekre való jogosultság megállapítására irányuló eljárás kérelemre indul. A kérelmet a határon túli pedagógus, oktató személyesen, postai úton, valamint elektronikus úton vagy meghatalmazott útján, a külképviseleten vagy a kormányhivatalnál nyújthatja be.
 
 (3)–(5)[^23]
 
@@ -34,7 +34,7 @@ c) a kedvezményre való jogosultság bejegyzését tartalmazó „Magyar igazol
 
 [^20]: A 18. § a 131/2007. (VI. 12.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 10. § (5) bekezdése alapján a rendelkezést a 2007. július 12. napja után megindult ügyekben kell alkalmazni. A folyamatban lévő, pedagógusigazolvány, illetve oktatói kártya iránti kérelmeket a Hivatal a járulékos igazolvány kiállításával, illetve meghosszabbításával teljesíti.
 [^21]: A 18. § (1) bekezdését a 136/2016. (VI. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja hatályon kívül helyezte.
-[^22]: A 18. § (2) bekezdése a 294/2012. (X. 16.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 136/2016. (VI. 13.) Korm. rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^22]: A 18. § (2) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^23]: A 18. § (3)–(5) bekezdését a 136/2016. (VI. 13.) Korm. rendelet 2. § (7) bekezdés d) pontja hatályon kívül helyezte.
 [^24]: A 18. § (7) bekezdése a 294/2012. (X. 16.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^25]: A 18. § (8) bekezdése a 294/2012. (X. 16.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
