@@ -1,3 +1,3 @@
 6/C. § (1) Ha az adósnak, aki ellen a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió más tagállamában főeljárás indult, Magyarországon ingatlan vagyona vagy egyéb, közhitelű nyilvántartásba bejegyzett vagyona vagy telephelye van, a főeljárás során kijelölt felszámoló köteles kérni, hogy a bíróság rendelje el a főeljárást megindító határozat tényének bejegyzését az ingatlan-nyilvántartásba, illetve egyéb közhitelű nyilvántartásba. A felszámoló felel az ennek elmulasztásával okozott kárért.
 
-(2) A kérelemhez az eredeti okiraton túl csatolni kell annak hiteles magyar fordítását is.
+(2) A kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is.

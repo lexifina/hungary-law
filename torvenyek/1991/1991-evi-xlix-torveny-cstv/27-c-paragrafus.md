@@ -18,7 +18,7 @@ f) írásban vállalja, hogy az a)–e) pontokban és a (4) bekezdésben meghat�
 
 g) igazolja, hogy a gazdasági társaság legalább két-két felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyt, továbbá közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót foglalkoztat. Az említettek közül – a könyvvizsgálót kivéve – legalább egy-egy főnek munkaviszonyban kell állnia a gazdasági társasággal.
 
-(2a) A (2) bekezdés g) pontja szerinti személyek esetében a 27/B. § (9) bekezdés szerinti hatósági bizonyítvány eredeti példányával kell igazolni, hogy velük szemben nem áll fenn a 27/B. § (8) bekezdésében meghatározott körülmény.
+(2a) A (2) bekezdés g) pontja szerinti személyek esetében a 27/B. § (9) bekezdés szerinti hatósági bizonyítvány eredeti vagy hiteles másolati példányával kell igazolni, hogy velük szemben nem áll fenn a 27/B. § (8) bekezdésében meghatározott körülmény.
 
 (3) A felszámoló addig, amíg a felszámolói névjegyzékben szerepel:
 

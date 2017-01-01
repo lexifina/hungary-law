@@ -16,7 +16,7 @@ f) a határidők tekintetében megállapított jogkövetkezmények,
 
 g) a hitelezői igények elfogadására jogosult testület vagy hatóság megjelölése.
 
-(3) A kérelemhez az eredeti okiraton túl csatolni kell annak hiteles magyar fordítását is, valamint mellékelni kell a közzétételi költségtérítés megfizetésének igazolását.
+(3) A kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is, valamint mellékelni kell a közzétételi költségtérítés megfizetésének igazolását.
 
 (4) Ha az adósnak, aki ellen a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió más tagállamában főeljárás indult, Magyarországon telephelye van, a főeljárásban kijelölt felszámoló köteles kérni a főeljárást megindító határozat, illetve a felszámolót kijelölő határozat lényeges tartalmának közzétételét. A felszámoló felel az ennek elmulasztásával okozott kárért.
 
