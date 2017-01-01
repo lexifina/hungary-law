@@ -6,13 +6,13 @@
 
 | 2. | A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem megvalósítására irányuló beruházás | Fertőd 323/1 helyrajzi számon nyilvántartott földrészlet | általános építésügyi hatósági engedélyezési eljárások | Soproni Járási Hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győri Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | útügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | útügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 6. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
 | 7. | vízügyi és vízvédelmi hatósági eljárások | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -20,7 +20,7 @@
 
 | 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Soproni Járási Hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 10. | talajvédelmi hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 10. | talajvédelmi hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -36,17 +36,17 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
+| 1. | Szakhatósági közreműködés tárgyköre | Első fokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
 
 | 2. | építésügy | Soproni Járási Hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 3. | a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Sopron Megyei Jogú Város Önkormányzatának jegyzője | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 4. | környezetvédelem, természetvédelem | Vas Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Pest Megyei Kormányhivatal |
 
 | 5. | vízügy és vízvédelem | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | közlekedés: közút | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | közlekedés: közút | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 7. | rendészet: gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -54,18 +54,16 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 10. |  |  |  |
+| 10. | talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 11. | talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 11. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 12. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 12. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 13. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 13. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 14. | egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 14. | örökségvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 15. | örökségvédelem | Győri Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 15. | régészet | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 16. | régészet | Győri Járási Hivatal | Budapest Főváros Kormányhivatala |
-
-[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 99. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át. A melléklet a 271/2016. (IX. 1.) Korm rendelet 66. § (3)–(4) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 89. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
