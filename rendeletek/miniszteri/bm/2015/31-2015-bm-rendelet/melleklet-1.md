@@ -1,4 +1,4 @@
-## 97. §[^24]
+## 97. §[^31]
 
 1. melléklet a 31/2015. (VI. 16.) BM rendelethez
 
@@ -30,4 +30,4 @@ A személyi anyaggyűjtőből selejtezendő iratok köre és selejtezési ideje
 
 | 12. | kártérítési eljárás iratai | eljárás megszűnését követő 3 év |
 
-[^24]: A 97. § a 95. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^31]: A 97. § a 95. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
