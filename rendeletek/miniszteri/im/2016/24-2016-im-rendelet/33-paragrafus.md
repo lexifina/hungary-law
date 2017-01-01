@@ -1,0 +1,3 @@
+## 32. § A 16/2014. (XII. 19.) IM rendelet 136/D. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a reintegrációs őrizet végrehajtására kijelölt lakás utóbb válik alkalmatlanná az elektronikus távfelügyeleti eszköz alkalmazására, vagy ha a befogadó nyilatkozatot tevő a nyilatkozatát utóbb visszavonja, és az elítélt ezzel egyidejűleg a reintegrációs őrizet végrehajtására alkalmas másik lakást jelöl meg, a bv. intézet – az alkalmasság felmérését követően – haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónak a reintegrációs őrizet végrehajtási helyének megváltoztatására. Ellenkező esetben a bv. intézet parancsnoka a Bv. tv. 187/E. § (1) bekezdés c) pontjában foglaltak szerint jár el.”
