@@ -28,4 +28,6 @@ ed) az eljáró szerv hatáskörét és illetékességét megállapító jogszab
 
 f) a határozathozatal helyét és idejét,
 
-g) a határozat kiadmányozójának nevét, aláírását, és az eljáró szerv bélyegzőlenyomatát.
+g)[^4] a határozat kiadmányozójának nevét, aláírását vagy elektronikus aláírását és az eljáró szerv bélyegzőlenyomatát vagy elektronikus bélyegzőjét.
+
+[^4]: A 19. § g) pontja a 477/2016. (XII. 27.) Korm. rendelet 78. § (4) bekezdésével megállapított szöveg.
