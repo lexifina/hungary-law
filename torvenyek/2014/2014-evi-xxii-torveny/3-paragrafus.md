@@ -8,7 +8,7 @@ c) a sajtótermék a) pont alá nem tartozó kiadója,
 
 d) a szabadtéri reklámhordozót, valamint a reklám elhelyezésére szolgáló bármely járművet, nyomtatott anyagot, ingatlant reklám céljára hasznosító személy vagy szervezet,
 
-e) az interneten közzétett reklám esetén a reklám közzétevője.
+e) az interneten közzétett reklám esetén a reklám közzétevője (a reklámfelülettel rendelkezni jogosult személy vagy szervezet).
 
 (2) A 2. § (2) bekezdés szerinti adókötelezettség esetén az adó alanya – illetőségétől függetlenül – a reklám közzétételének megrendelője, ide nem értve az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemélyt.
 

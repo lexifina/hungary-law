@@ -8,4 +8,4 @@ a) az adóalap és a (2) bekezdés szerinti adóalaprész különbözete 12 hón
 
 b) a (2) bekezdés szerinti adóalaprész 12 hónapos időszakra számított összegének alapulvételével a Mód. törvénnyel megállapított 5. § (1) bekezdés szerint meghatározott adóösszegnek az adóév Mód. törvény hatálybalépése napjától kezdődő időszak naptári napjaival arányos részével.
 
-(4) A 3. § (1) bekezdés szerinti adóalany a Mód. törvénnyel megállapított 6. § (6) bekezdésének rendelkezését a Mód. törvény hatálybalépése napját megelőző napig kezdődő adóéveiben fennálló adókötelezettsége megállapítása során is alkalmazhatja.
+(4)

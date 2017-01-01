@@ -1,13 +1,3 @@
-## 5. Kapcsolt vállalkozás adó- és adóelőlegfizetési kötelezettségének megállapítása
+## 5.
 
-6. § (1) A társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásnak minősülő adóalanyok adóját úgy kell megállapítani, hogy az egymással kapcsolt vállalkozási viszonyban álló adóalanyok adóalapját össze kell adni, és az eredmény alapulvételével az 5. § szerinti adómértékkel kiszámított összeget az egyes adóalanyok között olyan arányban kell megosztani, mint amilyen arányt az adóalany adóalapja az egymással kapcsolt vállalkozási viszonyban álló adóalanyok által elért összes adóalapban képvisel.
-
-(2) Az (1) bekezdésben foglalt adószámítási mód szerint – a 7. §-ban foglaltakra is figyelemmel – kell megállapítani az adóelőleget is.
-
-(3) Az (1)–(2) bekezdés szerinti számítások végrehajtása érdekében az egymással kapcsolt vállalkozási viszonyban álló adóalanyok kötelesek együttműködni. A számítások dokumentálását (ideértve az elkészítést és a megőrzést is) az egymással kapcsolt vállalkozási viszonyban álló adóalanyok mindegyike köteles elvégezni. A számítások dokumentációját az adóhatóság kérésére be kell mutatni.
-
-(4) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, az (1)–(2) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – a 4. § (1) bekezdése szerint megállapított adóalapot kell figyelembe venni.
-
-(5) Az (1)–(4) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.
-
-(6) Az (1)–(4) bekezdésben foglaltakat csak akkor kell alkalmazni, ha a kapcsolt vállalkozási viszony 2014. augusztus 15-ét követően, szétválással jött létre.
+### 6. §

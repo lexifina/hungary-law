@@ -22,6 +22,6 @@ e) ha az adóalany megszűnik,
 
 f) ha az adóalany ellen felszámolási, végelszámolási vagy kényszertörlési eljárás indult,
 
-g) ha az adóalany adótartozása a – naptári hónap 1. napján – 100 000 forintot meghaladja.
+g) ha az adóalany adótartozása nettó módon számítva – a naptári hónap 1. napján – a 100 000 forintot meghaladja.
 
 (5) Az állami adóhatóság az adatváltozást az adatváltozásról való tudomásszerzés napján átvezeti az (1) bekezdés szerinti nyilvántartáson, és azt az átvezetést követő hónap első napján a honlapján közzéteszi.

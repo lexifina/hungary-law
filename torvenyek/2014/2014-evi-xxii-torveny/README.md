@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-22-00-00
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2014-22-00-00.3 |
 | 2015-07-05 | 2015. évi LXII. törvény | 2014-22-00-00.4 |
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 2014-22-00-00.5 |
+| 2017-01-01 | 2016. évi LXVI. törvény | 2014-22-00-00.6 |
