@@ -1,4 +1,4 @@
-## 21. § Az engedélyező hatóság elektronikus úton tájékoztatja a Nemzeti Adó- és Vámhivatalt (a továbbiakban: NAV) a forgalmazási engedély kiadásáról, a forgalmazási engedély módosításáról, kiterjesztéséről és visszavonásáról a 17. § (2) szerinti adatok, továbbá a határozat keltére és jogerőre emelkedésének időpontjára vonatkozó adatok átadásával. A tájékoztatással egyidejűleg az engedélyező hatóság elektronikus úton megküldi a forgalmazó által az engedély kiadása iránti kérelemhez benyújtott, a 6. § (5) bekezdése szerinti, elektronikus adathordozón benyújtott dokumentációt.
+## 21. §[^18] A Kormányhivatal elektronikus úton tájékoztatja a Nemzeti Adó- és Vámhivatalt (a továbbiakban: NAV) a forgalmazási engedély kiadásáról, a forgalmazási engedély módosításáról, kiterjesztéséről és visszavonásáról a 17. § (2) szerinti adatok, továbbá a határozat keltére és jogerőre emelkedésének időpontjára vonatkozó adatok átadásával. A tájékoztatással egyidejűleg a Kormányhivatal elektronikus úton megküldi a forgalmazó által az engedély kiadása iránti kérelemhez benyújtott, a 6. § (5) bekezdése szerinti, elektronikus adathordozón benyújtott dokumentációt.
 
 ## 5. A forgalmazási engedély módosítása, kiterjesztése
 
@@ -13,3 +13,5 @@ iránti kérelmet kell benyújtani.
 (2) Az (1) bekezdés szerinti kérelem benyújtására és elbírálására a jelen fejezetben meghatározottakat kell megfelelően alkalmazni azzal, hogy a módosítás, kiterjesztés tárgyát, és a módosítás, kiterjesztés indokát a kérelemben egyértelműen meg kell jelölni.
 
 (3) A módosított forgalmazási engedély jogerőre emelkedésétől számított 3 hónapon belül, illetve amennyiben a forgalmazó a módosításra a forgalmazási engedély módosítása iránti kérelmében 3 hónapnál hosszabb idő biztosítását kéri, az engedélyben meghatározott határidőn belül a korábban üzembe helyezett és a módosításkor is üzemelő valamennyi taxaméter szoftverét le kell cserélni az újonnan engedélyezettre.
+
+[^18]: A 21. § a 63/2016. (XII. 29.) NGM rendelet 14. § a) és c) pontja szerint módosított szöveg.

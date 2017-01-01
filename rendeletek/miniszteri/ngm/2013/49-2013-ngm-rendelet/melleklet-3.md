@@ -8,7 +8,7 @@
 
 ## 3. A taxaméternek szerkezetében és kialakításában olyannak kell lennie, hogy az üzembe helyezés utáni lezárást és plombálást követően a plomba megbontása nélkül, a működőképesség megtartása mellett rendellenes vagy illetéktelen beavatkozást, programozást, adattörlést ne tegyen lehetővé, a megbontás felismerhető legyen. A taxaméter burkolatát úgy kell kialakítani, hogy a készülék nyílásain keresztül se legyen lehetőség a tárolt adatok módosítására. A plombálással biztosítani kell, hogy a készülék a gépkocsiból a plomba megsértése nélkül ne legyen kivehető.
 
-## 4. A plombával történő lezárást az MKEH által kiadott Hitelesítési Előírásban meghatározottak szerint kell elvégezni. A taxaméter lezárására kizárólag a NAV által biztosított pecsétnyomó használható. A pecsétnyomó anyaga acél. A pecsétnyomó mérete 8 mm, a pecsétanyag ólom. A lenyomat homorú.
+## 4.[^24] A plombával történő lezárást a Kormányhivatal által kiadott Hitelesítési Előírásban meghatározottak szerint kell elvégezni. A taxaméter lezárására kizárólag a NAV által biztosított pecsétnyomó használható. A pecsétnyomó anyaga acél. A pecsétnyomó mérete 8 mm, a pecsétanyag ólom. A lenyomat homorú.
 
 ## A plomba helyét úgy kell meghatározni, hogy felbontása nélkül a készüléken illetéktelen beavatkozás, adattörlés ne legyen végrehajtható.
 
@@ -594,11 +594,11 @@
 
 ## A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok
 
-## 1. A taxaméter üzembe helyezésekor a szerviz elvégzi a taxaméter inicializálását, beszereli és az előírt helyeken leplombálja a taxamétert. Az ilyen módon előkészített berendezés a mérőeszközökre vonatkozó egyedi előírásokról szóló 8/2006. (II.27.) GKM rendelet szerinti megfelőségértékelési eljárás lefolytatását követően, vagy a mérésügyi hatóság hitelesítését követően helyezhető üzembe.
+## 1.[^25] A taxaméter üzembe helyezésekor a szerviz elvégzi a taxaméter inicializálását, beszereli és az előírt helyeken leplombálja a taxamétert. Az ilyen módon előkészített berendezés a mérőeszközökre vonatkozó egyedi előírásokról szóló 43/2016. (XI. 23.) NGM rendelet szerinti megfelelőségértékelési eljárás lefolytatását követően helyezhető üzembe.
 
 ## 2. A szerviznek az üzembe helyezéskor a B) pont Adómemória alcím 7. a) alpontja szerinti Azonosító rekordot, a B) pont Adómemória alcím 7. c) alpontja szerinti Áfa rekordot, a Fejléc rekordot és az Euró bevezetésének kelte rekordot kell a taxaméteren beállítania.
 
-## 3. A taxaméter mérésügyi hitelesítéséhez a szerviz megfelelő helyiséget és olyan vizsgálóberendezést köteles biztosítani, amely a taxaméter beépített állapotú hitelesítésére alkalmas. A vizsgálóberendezés akkor felel meg ezen követelményeknek, ha típusát az MKEH használati etalonnak minősítette.
+## 3.[^26] A taxaméter mérésügyi hitelesítéséhez a szerviz megfelelő helyiséget és olyan vizsgálóberendezést köteles biztosítani, amely a taxaméter beépített állapotú hitelesítésére alkalmas. A vizsgálóberendezés akkor felel meg ezen követelményeknek, ha típusát a Kormányhivatal használati etalonnak minősítette.
 
 ## 4. Az üzembe helyezéskor a szerviz köteles a taxaméternaplóban rögzíteni az adómemória azonosító adatait, és a taxaméter adómemóriájának induló állását.
 
@@ -623,3 +623,7 @@ A taxaméterek típusvizsgálata különösen az alábbiakra terjed ki
 A) Műszaki vizsgálat
 
 Biztonság
+
+[^24]: A 2. melléklet A) A taxaméterekre vonatkozó műszaki követelmények rész 4. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § g) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet E) A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok rész 1. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § h) pontja szerint módosított szöveg.
+[^26]: A 2. melléklet E) A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok rész 3. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § g) pontja szerint módosított szöveg.

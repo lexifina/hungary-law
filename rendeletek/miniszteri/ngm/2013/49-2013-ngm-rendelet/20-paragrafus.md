@@ -1,4 +1,4 @@
-## 20. § Az engedélyező hatóság a forgalmazási engedélyt visszavonja, ha a forgalmazó
+## 20. §[^17] A Kormányhivatal a forgalmazási engedélyt visszavonja, ha a forgalmazó
 
 a) meg nem engedett funkcióval rendelkező taxamétert forgalmaz vagy meg nem engedett funkció kialakításában közreműködik,
 
@@ -9,3 +9,5 @@ c) nem tesz eleget a 22. § (3) bekezdésében foglaltaknak,
 d) a taxamétert nem vagy nem az e rendeletnek megfelelő AP-számmal látja el,
 
 e) nem tesz eleget az etalon példány megőrzésére vonatkozó kötelezettségének.
+
+[^17]: A 20. § nyitó szövegrésze a 63/2016. (XII. 29.) NGM rendelet 14. § c) pontja szerint módosított szöveg.

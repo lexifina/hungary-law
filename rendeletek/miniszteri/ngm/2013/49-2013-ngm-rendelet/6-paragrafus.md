@@ -2,7 +2,7 @@
 
 ## 2. Forgalmazási engedély megadására irányuló eljárás kezdeményezése
 
-6. § (1) A taxaméter forgalmazási engedélyének megadására irányuló eljárás a Hatósághoz benyújtott írásbeli kérelemmel kezdeményezhető.
+6. § (1)[^3] A taxaméter forgalmazási engedélyének megadására irányuló eljárás a Kormányhivatalhoz benyújtott írásbeli kérelemmel kezdeményezhető.
 
 (2) A kérelemnek tartalmaznia kell:
 
@@ -67,3 +67,5 @@ bc) az AVAM MCU vezérlőprogramjának dokumentációja – magyarázatokkal ell
 bd) hardver-szoftver eszköz, amely alkalmas az AVAM MCU vezérlőprogramjának ellenőrzésére.
 
 (5) A (4) bekezdés szerinti dokumentációt, valamint a 7. § szerinti kezelői leírást elektronikus adathordozón kell benyújtani.
+
+[^3]: A 6. § (1) bekezdése a 63/2016. (XII. 29.) NGM rendelet 14. § b) pontja szerint módosított szöveg.
