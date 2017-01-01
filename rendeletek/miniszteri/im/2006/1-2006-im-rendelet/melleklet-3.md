@@ -62,7 +62,7 @@
 
 ## Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak.
 
-## Aláírásommal hozzájárulok ahhoz, hogy az általam közölt adatokat a fővárosi és megyei kormányhivatal és az Igazságügyi Hivatal kezelje.
+## Aláírásommal hozzájárulok ahhoz, hogy az általam közölt adatokat a járási (fővárosi kerületi) hivatal, a fővárosi és megyei kormányhivatal és az Igazságügyi Minisztérium kezelje.
 
 ## Kelt: ……….………………………………..
 
@@ -70,6 +70,6 @@
 
 ## kérelmező aláírása
 
-3–4. melléklet az 1/2006. (I. 6.) IM rendelethez[^48]
+3–4. melléklet az 1/2006. (I. 6.) IM rendelethez[^50]
 
-[^48]: A 3–4. mellékletet a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 16. pontja hatályon kívül helyezte.
+[^50]: A 3–4. mellékletet a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 16. pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## Intézkedés az azonnali pénzügyi segély kifizetése iránt
 
-17. §[^31] (1) A területi áldozatsegítő szolgálat – az (5) bekezdésben foglalt kivétellel – az azonnali pénzügyi segély iránti kérelem ügyében hozott határozat jogerőre emelkedésének napján, a nyilvántartásba történő bejegyzést követően intézkedik az azonnali pénzügyi segély kifizetése, illetve átutalása iránt.
+17. §[^35] (1) A területi áldozatsegítő szolgálat – az (5) bekezdésben foglalt kivétellel – az azonnali pénzügyi segély iránti kérelem ügyében hozott határozat jogerőre emelkedésének napján, a nyilvántartásba történő bejegyzést követően intézkedik az azonnali pénzügyi segély kifizetése, illetve átutalása iránt.
 
 (2) A kérelem személyes előterjesztése és azonnali határozathozatal esetén a jogerős határozat átadásával egyidejűleg kell a megjelent áldozatnak az azonnali pénzügyi segélyt vagy annak egy részét készpénzben kifizetni.
 
@@ -10,4 +10,4 @@
 
 (5) A határozatban nem kell összegszerűen meghatározni a készpénzben ki nem fizetett azonnali pénzügyi segély azon részét, ami az áldozat érdekében eljáró harmadik fél szolgáltatásának igénybe vételére jogosítja az áldozatot, ebben az esetben az áldozatsegítő szolgálat a határozatában az igénybe vehető szolgáltatásról és a szolgáltatás legmagasabb ellenértékéről rendelkezik. Az áldozat érdekében eljáró harmadik fél – az áldozat által ténylegesen igénybe vett – szolgáltatásának ellenértékét az áldozatsegítő szolgálat a harmadik fél által a fejezeti kezelésű előirányzat kezelője részére kiállított számla alapján utólag téríti meg.
 
-[^31]: A 17. § a 30/2015. (X. 30.) IM rendelet 10. §-ával megállapított szöveg.
+[^35]: A 17. § a 30/2015. (X. 30.) IM rendelet 10. §-ával megállapított szöveg.

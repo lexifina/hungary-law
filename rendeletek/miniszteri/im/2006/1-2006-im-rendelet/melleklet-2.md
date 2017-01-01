@@ -1,4 +1,4 @@
-| Kérelem-nyomtatvány a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény szerinti azonnali pénzügyi segély és/vagy állami kárenyhítés iránti kérelem előterjesztéséhez | A fővárosi és megyei kormányhivatal érkeztető bélyegzője |
+| Kérelem-nyomtatvány a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény szerinti azonnali pénzügyi segély és/vagy állami kárenyhítés iránti kérelem előterjesztéséhez | A járási (fővárosi kerületi) hivatal érkeztető bélyegzője |
 
 ## A) RÉSZ
 
@@ -92,7 +92,7 @@
 
 | Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak. |
 
-| A kérelmező a nyomtatvány aláírásával hozzájárul ahhoz, hogy az általa közölt adatokat a fővárosi és megyei kormányhivatal és az Igazságügyi Hivatal az azonnali pénzügyi segély, illetve az állami kárenyhítés iránti kérelem elbírálása és kifizetése céljából, az azokhoz szükséges mértékben kezelje. |
+| A kérelmező a nyomtatvány aláírásával hozzájárul ahhoz, hogy az általa közölt adatokat a járási (fővárosi kerületi) hivatal, a fővárosi és megyei kormányhivatal és az Igazságügyi Minisztérium az azonnali pénzügyi segély, illetve az állami kárenyhítés iránti kérelem elbírálása és kifizetése céljából, az azokhoz szükséges mértékben kezelje. |
 
 | Kelt: ...................................., ......... év ............................. hó ............... nap. |
 
@@ -242,6 +242,6 @@
 
 ## kérelmező aláírása
 
-2. melléklet az 1/2006. (I. 6.) IM rendelethez[^47]
+2. melléklet az 1/2006. (I. 6.) IM rendelethez[^49]
 
-[^47]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte, újonnan a 30/2015. (X. 30.) IM rendelet 15. §-a iktatta be.
+[^49]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte, újonnan a 30/2015. (X. 30.) IM rendelet 15. §-a iktatta be, szövege a 26/2016. (XII. 27.) IM rendelet 10. § (2) bekezdés g) pontja szerint módosított szöveg.
