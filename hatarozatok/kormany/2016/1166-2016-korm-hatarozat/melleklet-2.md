@@ -114,7 +114,7 @@
 
 ## Határidő: 2016. december 31., ezt követően igény szerint
 
-2. melléklet az 1166/2016. (IV. 6.) Korm. határozathoz
+2. melléklet az 1166/2016. (IV. 6.) Korm. határozathoz[^1]
 
 1. Településbiztonság
 
@@ -348,7 +348,7 @@
 
 | Felelős: | NBT |
 
-| Partner: | Közigazgatási és Igazságügyi Hivatal |
+| Partner: | Miniszterelnökség |
 
 | Forrás: | évente 130 millió forint, NBT költségvetés |
 
@@ -395,3 +395,5 @@
 | Indikátor: | mobil applikáció és letöltések száma |
 
 | NBS kapcsolódás: | 8.5. Horizontális intézkedések |
+
+[^1]: A 2. melléklet az 1853/2016. (XII. 27.) Korm. határozat 75. pontja szerint módosított szöveg.
