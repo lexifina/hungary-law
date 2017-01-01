@@ -4,27 +4,27 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Nyugat- magyarországi utánpótlás-nevelési centrum | A Szombathely közigazgatási területén fekvő, 0975/5 és 4066 helyrajzi számon nyilvántartott földrészlet, illetve az ezekből a földrészletekből telekalakítási eljárás jogerős befejezését követően kialakított földrészletek | általános építésügyi hatósági engedélyezési eljárások | Szombathelyi Járási Hivatal | Vas Megyei Kormányhivatal |
+| 2. | Nyugat- magyarországi utánpótlás-nevelési centrum | A Szombathely közigazgatási területén fekvő, 0975/5 és 4066 helyrajzi számon nyilvántartott földrészlet, illetve az ezekből a földrészletekből telekalakítási eljárás jogerős befejezését követően kialakított földrészletek | általános építésügyi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Vas Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Szombathelyi Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | útügyi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | útügyi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Vas Megyei Kormányhivatal |
 
-| 6. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
 | 7. | vízügyi és vízvédelmi hatósági eljárások | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Szombathelyi Járási Hivatal | Vas Megyei Kormányhivatal |
+| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Vas Megyei Kormányhivatal |
 
-| 10. | talajvédelmi hatósági eljárások | Vas Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 10. | talajvédelmi hatósági eljárások | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Vas Megyei Kormányhivatal |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 239/2014. (IX. 18.) Korm. rendelethez[^5]
 
@@ -34,15 +34,15 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
 
-| 2. | Építésügy | Szombathelyi Járási Hivatal | Vas Megyei Kormányhivatal |
+| 2. | Építésügy | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Vas Megyei Kormányhivatal |
 
 | 3. | A településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Szombathely Megyei Jogú Város Önkormányzatának jegyzője | Vas Megyei Kormányhivatal |
 
-| 4. | Környezetvédelem, természetvédelem | Vas Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | Környezetvédelem, természetvédelem | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Pest Megyei Kormányhivatal |
 
 | 5. | Vízügy és vízvédelem | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | Közlekedés: közút | Vas Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | Közlekedés: közút | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Vas Megyei Kormányhivatal |
 
 | 7. | Rendészet: gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -50,12 +50,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 10. |  |  |  |
+| 10. | Talajvédelem | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Vas Megyei Kormányhivatal |
 
-| 11. | Talajvédelem | Vas Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 11. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 12. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 12. | Műszaki biztonság | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 13. | Műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
-
-[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet a 93. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át. A melléklet a 271/2016. (IX. 1.) Korm. rendelet 62. § (3)–(4) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 84. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
