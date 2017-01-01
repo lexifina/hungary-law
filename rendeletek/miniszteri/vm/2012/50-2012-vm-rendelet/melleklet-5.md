@@ -218,7 +218,7 @@
 
 ## 5. selejtezési jegyzőkönyvet vezetni azon termékekről, amelyek a köznevelési intézményben történő tárolás alatt romlottak meg;
 
-## 6. a termék átvételekor emelt minőségi kifogást jegyzőkönyvben rögzíteni, és minőségi kifogásról a fenntartón keresztül az MVH-t értesíteni;
+## 6. a termék átvételekor emelt minőségi kifogást jegyzőkönyvben rögzíteni, és minőségi kifogásról a fenntartón keresztül a Kincstárt értesíteni;
 
 ## 7. az iskolagyümölcs-programot népszerűsítő plakátot a program teljes időtartama alatt a főbejáratánál elhelyezni.
 
@@ -228,12 +228,12 @@
 
 ## A jelen megállapodást a Felek az alul megjelölt napon írták alá azzal a kikötéssel, hogy a megállapodás az azt jóváhagyó határozat közlését követő napon lép hatályba, és a határozatban jóváhagyott termékekre és termékmennyiségekre vonatkozik, valamint a megállapodás teljesítése során az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 4., 5., 6., 10., és 11. §-ában foglaltak szerint járnak el.
 
-## Jelen megállapodás 3 eredeti példányban készült, amelyből 1 példány a szállítót, 1 példány a fenntartót, továbbá 1 példány az MVH-t illeti meg. A fenntartó az átvevő részére másolati példányt ad át.
+## Jelen megállapodás 3 eredeti példányban készült, amelyből 1 példány a szállítót, 1 példány a fenntartót, továbbá 1 példány a Kincstárt illeti meg. A fenntartó az átvevő részére másolati példányt ad át.
 
 ## ......................................................, 2014. ………………………..
 
 | ............................................. szállító | ............................................. fenntartó |
 
-5. melléklet az 50/2012. (V. 25.) VM rendelethez[^85]
+5. melléklet az 50/2012. (V. 25.) VM rendelethez[^104]
 
-[^85]: Az 5. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.
+[^104]: Az 5. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.

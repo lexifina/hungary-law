@@ -84,6 +84,6 @@
 
 ## 5. A kóstoltatás keretében tanulók zöldség-, gyümölcsfogyasztásának és egészséges életmódjának ösztönzése érdekében verseny, pályázat, jutalom szervezhető.
 
-4. melléklet az 50/2012. (V. 25.) VM rendelethez[^84]
+4. melléklet az 50/2012. (V. 25.) VM rendelethez[^103]
 
-[^84]: A 4. melléklet az 55/2014. (IV. 29.) VM rendeet 12. § (2) bekezdésével megállapított, a 31/2014. (XII. 9.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^103]: A 4. melléklet az 55/2014. (IV. 29.) VM rendeet 12. § (2) bekezdésével megállapított, a 31/2014. (XII. 9.) FM rendelet 23. § (2) bekezdése, a 88/2016. (XII. 29.) FM rendelet 50. § i) pontja szerint módosított szöveg.

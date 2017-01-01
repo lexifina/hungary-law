@@ -24,11 +24,11 @@
 
 ## 5.1. A teljesítési időszakban kiszállított összes támogatott termékről kiállított, havi vagy teljesítési időszakonkénti elszámoló vagy gyűjtőszámlák másolata.
 
-## 5.2[^86] A megvalósított kísérő intézkedések elvégzésének a köznevelési intézmény vezetője által kiállított igazolás, amelyben a részt vevő tanulók száma, a megvalósítás időpontja, a kóstoltatott termékek felsorolása, valamint a megvalósított intézkedés leírása kerül feltüntetésre
+## 5.2[^105] A megvalósított kísérő intézkedések elvégzésének a köznevelési intézmény vezetője által kiállított igazolás, amelyben a részt vevő tanulók száma, a megvalósítás időpontja, a kóstoltatott termékek felsorolása, valamint a megvalósított intézkedés leírása kerül feltüntetésre
 
 ## 6. Keltezés, a kérelmező cégszerű aláírása.
 
-9. melléklet az 50/2012. (V. 25.) VM rendelethez[^87]
+9. melléklet az 50/2012. (V. 25.) VM rendelethez[^106]
 
 MEGÁLLAPODÁS-MÓDOSÍTÁS
 
@@ -140,11 +140,11 @@ Hatályát veszti a megállapodás 9. pontja.
 
 A jelen megállapodás-módosítást a Felek az alul megjelölt napon írták alá azzal a kikötéssel, hogy a megállapodás-módosítás az azt jóváhagyó határozat közlését követő napon lép hatályba, és a határozatban jóváhagyott termékekre és termékmennyiségekre vonatkozik, valamint a megállapodás teljesítése során az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 4., 5., 6., 10., és 11. §-ában foglaltak szerint járnak el.
 
-Jelen megállapodás-módosítás 3 eredeti példányban készült, amelyből 1 példány a szállítót, 1 példány a fenntartót, továbbá 1 eredeti példány az MVH-t illeti meg. A fenntartó az átvevő részére másolati példányt ad át.
+Jelen megállapodás-módosítás 3 eredeti példányban készült, amelyből 1 példány a szállítót, 1 példány a fenntartót, továbbá 1 eredeti példány a Kincstárt illeti meg. A fenntartó az átvevő részére másolati példányt ad át.
 
 ......................................................, 2014. ………………………..
 
 | ............................................. szállító | ............................................. fenntartó |
 
-[^86]: A 8. melléklet 5. pont 5.2 alpontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte. Újonnan a 31/2014. (XII. 9.) FM rendelet 23. § (3) bekezdése szerint módosított szöveg.
-[^87]: A 9. mellékletet az 55/2014. (IV. 29.) VM rendelet 12. § (3) bekezdése iktatta be.
+[^105]: A 8. melléklet 5. pont 5.2 alpontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte. Újonnan a 31/2014. (XII. 9.) FM rendelet 23. § (3) bekezdése szerint módosított szöveg.
+[^106]: A 9. mellékletet az 55/2014. (IV. 29.) VM rendelet 12. § (3) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 50. § i) pontja szerint módosított szöveg.

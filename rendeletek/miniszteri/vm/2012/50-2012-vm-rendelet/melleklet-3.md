@@ -14,16 +14,19 @@
 
 ## 4.2. vállalja, hogy amennyiben megállapítást nyer, hogy a terméket nem a 4–6. § szerinti megállapodásban foglaltaknak megfelelően szállította le, vagy, hogy a támogatást olyan termékre vette igénybe, amely a rendelet értelmében nem jogosult támogatásra, az érintett mennyiségre jogosulatlanul kapott támogatást visszafizeti;
 
-## 4.3. vállalja, hogy csalás vagy súlyos gondatlanság esetén az eredetileg kiutalt összeg és a jogosult összeg közötti különbség szankciókkal növelt összegét visszafizeti, és tudomásul veszi, hogy csalás vagy súlyos gondatlanság gyanúja esetén az MVH büntetőeljárást kezdeményez ellene az arra jogosult nyomozóhatóságoknál;
+## 4.3.[^99] vállalja, hogy csalás vagy súlyos gondatlanság esetén az eredetileg kiutalt összeg és a jogosult összeg közötti különbség szankciókkal növelt összegét visszafizeti, és tudomásul veszi, hogy csalás vagy súlyos gondatlanság gyanúja esetén a Kincstár büntetőeljárást kezdeményez ellene az arra jogosult nyomozóhatóságoknál;
 
-## 4.4. vállalja, hogy a programban való részvételt alátámasztó okmányokat felszólításra az MVH rendelkezésére bocsátja;
+## 4.4.[^100] vállalja, hogy a programban való részvételt alátámasztó okmányokat felszólításra a Kincstár rendelkezésére bocsátja;
 
 ## 4.5. kijelenti, hogy a köznevelési intézmények vonatkozásában a fenntartóval kötött megállapodások végrehajtásáról nyilvántartást vezet, amelyben feltünteti a köznevelési intézmények nevét, OM azonosítóját és címét, valamint az ezen intézmények számára leszállított termék mennyiségét;
 
-## 4.6. aláveti magát az MVH által végzett ellenőrzésnek, ideértve a nyilvántartások részletes vizsgálatára, valamint a nyilvántartások adatait alátámasztó dokumentumok vizsgálatára és a fizikai ellenőrzésre.
+## 4.6.[^101] aláveti magát a Kincstár által végzett ellenőrzésnek, ideértve a nyilvántartások részletes vizsgálatára, valamint a nyilvántartások adatait alátámasztó dokumentumok vizsgálatára és a fizikai ellenőrzésre.
 
 ## 5. Keltezés, a kérelmező cégszerű aláírása.
 
-3. melléklet az 50/2012. (V. 25.) VM rendelethez[^83]
+3. melléklet az 50/2012. (V. 25.) VM rendelethez[^102]
 
-[^83]: A 3. melléklet a 31/2014. (XII. 9.) FM rendelet 23. § (1) bekezdésével megállapított, a 26/2015. (V. 27.) FM rendelet 5. § c) pontja, az 52/2016. (VII. 21.) FM rendelet 13. §-a szerint módosított szöveg.
+[^99]: A 2. melléklet 4. pont 4.3. alpontja a 88/2016. (XII. 29.) FM rendelet 50. § c) pontja szerint módosított szöveg.
+[^100]: A 2. melléklet 4. pont 4.4. alpontja a 88/2016. (XII. 29.) FM rendelet 50. § c) pontja szerint módosított szöveg.
+[^101]: A 2. melléklet 4. pont 4.6. alpontja a 88/2016. (XII. 29.) FM rendelet 50. § c) pontja szerint módosított szöveg.
+[^102]: A 3. melléklet a 31/2014. (XII. 9.) FM rendelet 23. § (1) bekezdésével megállapított, a 26/2015. (V. 27.) FM rendelet 5. § c) pontja, az 52/2016. (VII. 21.) FM rendelet 13. §-a szerint módosított szöveg.

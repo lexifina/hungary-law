@@ -36,6 +36,6 @@
 
 | 2.4. | karalábé | 10 dkg | 25 | – | – | 25 |
 
-2. melléklet az 50/2012. (V. 25.) VM rendelethez[^82]
+2. melléklet az 50/2012. (V. 25.) VM rendelethez[^98]
 
-[^82]: A 2. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^98]: A 2. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
