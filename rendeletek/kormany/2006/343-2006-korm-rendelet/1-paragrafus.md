@@ -36,7 +36,7 @@ f) a közigazgatási hatósági eljárás és szolgáltatás általános szabál
 
 (5)[^6] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként, – a sajátos építményfajták, valamint a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben, az OAH r.-ben meghatározottak, valamint a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott építmények hatósági ügyeinek, továbbá az (5a) és a (6) bekezdés kivételével – az építésügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt (a továbbiakban: másodfokú építésügyi hatóság) jelöli ki.
 
-(5a)[^7] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként a 7. melléklet szerinti fővárosi és megyei kormányhivatalt jelöli ki, ha a fővárosi és megyei kormányhivatal szakhatóságként az első fokú építésügyi hatóság eljárásában eljárt.
+(5a)[^7] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként a 7. melléklet szerinti fővárosi és megyei kormányhivatalt jelöli ki, ha a fővárosi és megyei kormányhivatal az elsőfokú építésügyi hatóság eljárásában részt vett.
 
 (6)[^8] A Kormány a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott műemléki értéket, műemléket, továbbá műemlék telkét érintő ügyekben másodfokú építésügyi hatóságként Budapest Főváros Kormányhivatalát építésügyi és örökségvédelmi feladatkörében, országos illetékességgel jelöli ki.
 
@@ -62,7 +62,7 @@ e) települési önkormányzati egyéb műszaki, üzemeltetési feladatok.
 [^4]: Az 1. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 91. § (1) bekezdésével megállapított, a 306/2016. (X. 13.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (4) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.
 [^6]: Az 1. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 91. § (2) bekezdésével megállapított, a 207/2015. (VII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^7]: Az 1. § (5a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 91. § (3) bekezdése iktatta be.
+[^7]: Az 1. § (5a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 91. § (3) bekezdése iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (6) újonnan a 38/2015. (III. 11.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 91. § (2) bekezdésével megállapított, a 306/2016. (X. 13.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^9]: Az 1. § (8) bekezdése a 358/2013. (X. 9.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
 [^10]: Az 1. § (9) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
