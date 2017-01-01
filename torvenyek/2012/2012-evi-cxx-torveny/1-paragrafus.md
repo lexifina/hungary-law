@@ -12,7 +12,7 @@ b) az alkalmazási feltételek, az intézkedéssel, kényszerítő eszközzel sz
 
 c) a természetvédelmi őrre,
 
-d) az erdővédelmi szolgálat tagjára,
+d) az erdészeti hatóság rendészeti feladatokat ellátó tagjára,
 
 e) a hegyőrre,
 

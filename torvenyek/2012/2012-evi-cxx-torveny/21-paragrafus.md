@@ -14,7 +14,7 @@ tarthat magánál.
 
 a) a mezőőr, valamint a hegyőr, a halászati őr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
 
-b) az erdővédelmi szolgálat tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
+b) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
 
 c) a hivatásos vadász – a sérült vagy sebzett nagyvad elejtése érdekében – vadászlőfegyvert
 

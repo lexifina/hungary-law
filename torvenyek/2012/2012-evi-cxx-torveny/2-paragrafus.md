@@ -14,7 +14,7 @@ ad) közterület-felügyelő esetében a közterület-felügyeletről szóló t�
 
 ae) a halászati őr esetében a halászatról és a horgászatról szóló törvényben,
 
-af) az erdővédelmi szolgálat tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet esetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben
+af) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet esetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben
 
 meghatározott közigazgatási bírsággal sújtható cselekményeket,
 
@@ -34,6 +34,6 @@ bf) a halászati őr tekintetében a halászati vízterületet, halastavat, vala
 
 bg) rendészeti feladatokat ellátó erdészeti szakszemélyzet és rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet tekintetében az erdőt, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet és az erdészeti magánutat,
 
-bh) az erdővédelmi szolgálat tekintetében az erdészeti hatóság illetékességi területét
+bh) az erdészeti hatóság rendészeti feladatokat ellátó tagja tekintetében az erdészeti hatóság illetékességi területét
 
 kell érteni.
