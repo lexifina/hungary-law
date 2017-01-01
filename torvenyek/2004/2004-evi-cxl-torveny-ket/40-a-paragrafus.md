@@ -1,6 +1,6 @@
-40/A. § (1) A meghatalmazást írásba kell foglalni vagy jegyzőkönyvbe kell mondani. Írásbeli meghatalmazás esetében a meghatalmazott köteles eredeti meghatalmazását vagy annak hitelesített másolatát az első kapcsolatfelvétel alkalmával az iratokhoz csatolni.
+40/A. § (1) A meghatalmazást írásba kell foglalni vagy jegyzőkönyvbe kell mondani. Írásbeli meghatalmazás esetében – ha azt a rendelkezési nyilvántartás nem tartalmazza – a meghatalmazott köteles eredeti meghatalmazását vagy annak hitelesített másolatát az első kapcsolatfelvétel alkalmával az iratokhoz csatolni.
 
-(2) Az írásbeli meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni, vagy a meghatalmazást ügyintézési rendelkezésben kell megtenni. Az ügyvédnek adott meghatalmazáshoz, ha azt az ügyfél saját kezűleg írta alá, tanúk alkalmazása nem szükséges; az ügyvédi meghatalmazásra egyebekben az erre vonatkozó külön jogszabályok irányadók. Az ügyintézési rendelkezésben adott meghatalmazás esetén a meghatalmazott a képviseleti jogosultságát az ügyintézési rendelkezésre irányadó szabályok szerint igazolja.
+(2) Az írásbeli meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
 
 (3) A külföldön kiállított meghatalmazást közokiratba vagy hitelesített magánokiratba kell foglalni, és felülhitelesítéssel kell ellátni.
 

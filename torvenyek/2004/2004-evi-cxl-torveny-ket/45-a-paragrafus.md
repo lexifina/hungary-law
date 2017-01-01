@@ -21,3 +21,5 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 (5) Ha a szakhatóság megállapítja, hogy változatlan tényállás és jogi szabályozás mellett a megkeresés szerinti ugyanazon jog érvényesítésére irányuló kérelemről – az előzetes szakhatósági hozzájárulás kivételével – korábban szakhatósági állásfoglalást adott ki, haladéktalanul megküldi a hatóságnak a korábbi szakhatósági állásfoglalását, és megszünteti a szakhatósági eljárást. Nincs lehetőség a megkeresésnek a korábbi szakhatósági állásfoglalás megküldésével történő teljesítésére újrafelvételi eljárásban.
 
 (6) A szakhatóság szükség esetén a 37. §-nak megfelelően hiánypótlásra hívhatja fel az ügyfelet, amiről a hatóságot haladéktalanul értesíti. Ha az ügyfél a kérelemre indult eljárásban a hiánypótlásra való felhívásnak nem tesz eleget, a szakhatóság a hiánypótlás elmulasztásáról értesíti a hatóságot, amely – ha az eljárás hivatalbóli folytatásának nincs helye – az eljárást megszünteti.
+
+(7) A hatóság és a szakhatóság elektronikus levél útján vagy egyéb elektronikus úton tart kapcsolatot egymással, amely tekintetében biztosítják a kézhezvétel visszaigazolását.

@@ -6,4 +6,4 @@
 
 (3) A szakhatóságot – ha az a feladat- és hatáskörét érinti – a tanú és a szakértő meghallgatásáról, a szemléről, a tárgyalásról és a közmeghallgatásról legalább öt nappal korábban értesíteni kell.
 
-(4) Ha jogszabály lehetővé teszi, az ügyfél személyesen vagy telefonon is értesíthető.
+(4) Ha jogszabály lehetővé teszi, az ügyfél személyesen is értesíthető.

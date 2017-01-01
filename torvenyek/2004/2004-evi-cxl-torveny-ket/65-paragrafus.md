@@ -8,7 +8,7 @@
 
 (4) A postán küldött beadvány és megkeresés előterjesztési ideje a postára adás napja.
 
-(5) Az elektronikus irat előterjesztésének időpontja az irat elküldésének napja, de az ügyintézési határidő a következő munkanapon kezdődik.
+(5)
 
 (6) A határozott naphoz kötött jogszerzés a nap kezdetén következik be. A határidő elmulasztása vagy a késedelem jogkövetkezményei a határidő utolsó napjának elteltével állnak be.
 

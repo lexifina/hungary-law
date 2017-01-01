@@ -18,6 +18,18 @@ c) az eljárásra irányadó ügyintézési határidő nem éri el a két hónap
 
 (1c) Ha a hatóság megállapítja, hogy az (1b) bekezdésben meghatározott bármely feltétel nem áll fenn, a sommás eljárás szabályait mellőzi, és függő hatályú döntést vagy a 71/A. § (6) bekezdés a) pontjában meghatározott határidőben az ott meghatározott valamely döntést hoz.
 
+(1d) Automatikus döntéshozatalnak van helye, ha
+
+a) azt törvény vagy kormányrendelet megengedi,
+
+b) a hatóság részére a kérelem benyújtásakor minden adat rendelkezésére áll,
+
+c) a döntés meghozatala mérlegelést nem igényel, és
+
+d) nincs ellenérdekű ügyfél.
+
+(1e) Automatikus döntéshozatalnak hivatalbóli eljárásban is helye van. Nincs helye az automatikus döntéshozatalnak másodfokú eljárásban vagy a határozat saját hatáskörben történő módosítása vagy visszavonása esetén.
+
 (2) A hatóság köteles a hatáskörébe tartozó ügyben illetékességi területén hivatalból megindítani az eljárást, ha
 
 a) ezt jogszabály előírja,

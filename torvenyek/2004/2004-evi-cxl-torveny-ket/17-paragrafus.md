@@ -24,7 +24,7 @@ kezelésére.
 
 (4) A hatóság az eljárása, illetve szolgáltatása nyújtása során – jogszabályban meghatározott módon és körben – jogosult az eljárás lefolytatásához szükséges védett adat megismerésére.
 
-(5) A hatóság az eljárás, illetve szolgáltatás nyújtása során a személyes adatot és a védett adatot – az ugyanazon ügyben folyó, e törvényben szabályozott eljárások kivételével – csak akkor továbbíthatja más szervhez, ha azt törvény megengedi, vagy ha az érintett ehhez hozzájárult. A hozzájárulást az érintett az ügyintézési rendelkezésben, továbbá – ha jogszabály lehetővé teszi, – az érintett elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett telefonon is megadhatja.
+(5) A hatóság az eljárás, illetve szolgáltatás nyújtása során a személyes adatot és a védett adatot – az ugyanazon ügyben folyó, e törvényben szabályozott eljárások kivételével – csak akkor továbbíthatja más szervhez, ha azt törvény megengedi, vagy ha az érintett ehhez hozzájárult.
 
 (6) Az adat védelmére vonatkozó szabályok megtartása nem vezethet a jogorvoslathoz való jog korlátozásához.
 

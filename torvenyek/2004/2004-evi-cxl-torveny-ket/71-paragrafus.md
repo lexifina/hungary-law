@@ -20,4 +20,4 @@ b) a szakhatóság hozzájárulását megadottnak kell tekinteni, ha a szakható
 
 (6) A hatóság mellőzi a határozathozatalt, ha jogszabályban biztosított jogosultság gyakorlásának kizárólag az ügyfél erre irányuló kérelmének benyújtása a feltétele. A hatóság az ügyfél kérelmére igazolja, hogy az ügyfél a kérelem benyújtásától a jogszabályban biztosított jogát jogszerűen gyakorolja.
 
-(7) Ha a technikai lehetőségek adottak, a hatóság papír alapú kapcsolattartás esetén is elektronikusan hozza meg döntését.
+(7)

@@ -8,7 +8,7 @@ c) jogszabály eltérő rendelkezése hiányában valamely adatnak, ténynek vag
 
 d) ha az elsőfokú döntést miniszter, autonóm államigazgatási szerv, önálló szabályozó szerv vagy kormányhivatal vezetője hozta,
 
-e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta,
+e) törvény eltérő rendelkezése hiányában, ha az elsőfokú döntést központi államigazgatási szerv vagy a fővárosi és megyei kormányhivatal vezetője hozta,
 
 f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen,
 

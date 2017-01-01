@@ -24,7 +24,7 @@ c) a tanú médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavé
 
 (4c) A cselekvőképtelen és a korlátozottan cselekvőképes tanú meghallgatását csak a tanú törvényes képviselőjének jelenlétében lehet lefolytatni.
 
-(4d) Ha a tanú és a törvényes képviselő között érdekellentét van, a (4a)–(4c) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja. A gyámhatóság a cselekvőképtelen vagy korlátozottan cselekvőképes tanút törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen vagy korlátozottan cselekvőképes tanú érdekében áll.
+(4d) Ha a tanú és a törvényes képviselő között érdekellentét van, a gyámhatóság eseti gondnokot vagy eseti gyámot rendel ki.
 
 (5) Nem használható fel bizonyítékként a (3), valamint a (4a)–(4d) bekezdésben, továbbá az 54. § (5) és (6) bekezdésében foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
 

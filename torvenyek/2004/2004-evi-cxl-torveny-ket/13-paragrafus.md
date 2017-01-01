@@ -20,7 +20,7 @@ ga)
 
 h) a veszélyes létesítményekkel kapcsolatos eljárásban, valamint
 
-i) a társadalombiztosítás ellátásaival, a korhatár előtti ellátással, a szolgálati járandósággal, a balettművészeti életjáradékkal és az átmeneti bányászjáradékkal kapcsolatos eljárásban,
+i) a társadalombiztosítás ellátásaival, a korhatár előtti ellátással, a szolgálati járandósággal, a táncművészeti életjáradékkal és az átmeneti bányászjáradékkal kapcsolatos eljárásban,
 
 j) az adatvédelmi és titokfelügyeleti hatósági eljárásban,
 

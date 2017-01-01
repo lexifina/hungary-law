@@ -10,7 +10,7 @@
 
 (2c) A nyilatkozat megtételére cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél esetén csak a törvényes képviselő jelenlétében kerülhet sor. Írásbeli nyilatkozat esetén a törvényes képviselő a nyilatkozatot aláírja.
 
-(2d) Ha az ügyfél és törvényes képviselője között érdekellentét van, a törvényes képviselőnek a (2a)–(2c) bekezdésben meghatározott jogait a gyámhatóság gyakorolja. Ha az ügyfél a törvényes képviselőjével szemben terjeszt elő kérelmet, az érdekellentét fennállását meg kell állapítani. A gyámhatóság a cselekvőképtelen vagy korlátozottan cselekvőképes személyt törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen vagy korlátozottan cselekvőképes személy érdekében áll.
+(2d) Ha az ügyfél és törvényes képviselője között érdekellentét van, a gyámhatóság eseti gondnokot vagy eseti gyámot rendel ki az ügyfél részére. Ha az ügyfél a törvényes képviselőjével szemben terjeszt elő kérelmet, az érdekellentét fennállását meg kell állapítani.
 
 (3) Törvény vagy kormányrendelet kötelezővé teheti, hogy a hivatalból folytatott eljárásban az ügyfél, a kérelemre indult eljárásban az ellenérdekű ügyfél a hatóság erre irányuló felhívására közölje az érdemi döntéshez szükséges adatokat, és jogkövetkezményeket állapíthat meg az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetére.
 
@@ -30,4 +30,4 @@ c) az ügyfél, illetve az ellenérdekű ügyfél médiatartalom-szolgáltató, 
 
 (6) A hatóság köteles az ügyfelet a nyilatkozattétellel, illetve adatszolgáltatási kötelezettséggel kapcsolatos jogairól tájékoztatni és kötelességeire, valamint a kötelezettségek elmulasztásának jogkövetkezményeire figyelmeztetni.
 
-(7) Ha jogszabály lehetővé teszi, az ügyfél az (1) bekezdés szerinti nyilatkozatot és a (3)–(4) bekezdés szerinti adatszolgáltatást – az ügyfél elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett – telefonon is megteheti, illetve teljesítheti, továbbá a nyilatkozattételt, adatszolgáltatást telefonon is megtagadhatja.
+(7)

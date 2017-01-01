@@ -34,6 +34,6 @@ kell teljesíteni.
 
 (8) A megkeresés teljesítésének (7) bekezdés szerinti elmaradásából eredő többletköltségeket a megkeresett szerv téríti meg.
 
-(9) Az (1) bekezdés a)–b) pontja szerinti esetekben a belföldi jogsegély iránti megkeresést kizárólag írásbelinek minősülő elektronikus úton vagy elektronikus levél útján lehet megküldeni.
+(9) Az (1) bekezdés a)–b) pontja szerinti esetekben a belföldi jogsegély iránti megkeresést kizárólag elektronikus levél útján vagy egyéb elektronikus úton lehet megküldeni, amely tekintetében biztosítják a kézhezvétel visszaigazolását.
 
-(10) A hatóságok az (1) bekezdés c) pontja szerinti esetben a belföldi jogsegély során kizárólag írásbelinek minősülő elektronikus úton vagy elektronikus levél útján tartanak kapcsolatot egymással.
+(10) A hatóságok az (1) bekezdés c) pontja szerinti esetben a belföldi jogsegély során elektronikus levél útján vagy egyéb elektronikus úton tartanak kapcsolatot egymással, amely tekintetében biztosítják a kézhezvétel visszaigazolását.

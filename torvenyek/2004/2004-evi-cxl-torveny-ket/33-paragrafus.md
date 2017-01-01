@@ -4,6 +4,8 @@
 
 (1a) A hatóság a sommás eljárásban az (5) bekezdésben meghatározott időpontot követően a határozatot azonnal, de legfeljebb nyolc napon belül meghozza, és gondoskodik a döntés közléséről.
 
+(1b) Automatikus döntéshozatal esetén az ügyintézési határidő egy nap.
+
 (2) Kiskorú ügyfél érdekeinek veszélyeztetettsége esetében, továbbá ha életveszéllyel vagy súlyos kárral fenyegető helyzet elhárítása indokolja, vagy ha a hatóság ideiglenes biztosítási intézkedést rendelt el, vagy ha a közbiztonság érdekében egyébként szükséges, az ügyet soron kívül kell elintézni.
 
 (3) Ha jogszabály ezt nem zárja ki, az ügyintézési határidőbe nem számít be:

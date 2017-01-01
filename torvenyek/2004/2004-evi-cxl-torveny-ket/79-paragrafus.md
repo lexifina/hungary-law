@@ -1,6 +1,14 @@
 79. § (1) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy a küldeményt nem veszi át, az iratot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
 
-(2) Ha az irat a hatósághoz „nem kereste” jelzéssel érkezik vissza, az iratot – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+(2) Ha a kézbesítés azért volt sikertelen, mert a küldemény a címzett személyiadat- és lakcímnyilvántartásban szereplő lakcíméről vagy a hatósági eljárásban bejelentett tartózkodási helyéről, szálláshelyéről, illetve a székhelyéről a hatósághoz
+
+a) „nem kereste”,
+
+b) „ismeretlen” vagy
+
+c) „elköltözött”
+
+jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az a) pont szerinti esetben a kézbesítés második megkísérlésének napját követő ötödik munkanapon, a b)–c) pont szerinti esetben a kézbesítés megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
 (3)
 

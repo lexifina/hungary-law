@@ -4,9 +4,9 @@
 
 a) – a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének kikérésével – a nemzetbiztonsági szolgálatok által közzéteendő adatok körét,
 
-b) az elektronikus kapcsolattartás részletes eljárási szabályait,
+b)
 
-c) a hatósági közvetítők tevékenységére, a hatósági közvetítővé válás feltételeire és a hatósági közvetítő kiválasztására vonatkozó szabályokat,
+c) a hatósági közvetítők és a hatósági eljárásban kirendelt ügygondnokok tevékenységére, a hatósági közvetítővé és az ügygondnokká válás feltételeire, az ügygondnok kirendelésére és a hatósági közvetítő kiválasztására vonatkozó szabályokat,
 
 d) a költségmentesség megállapításának szabályait,
 
@@ -36,4 +36,4 @@ f) az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg a ha
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter arra, hogy a közérdekű munka végrehajtásának, a közérdekű munka foglalkoztatói nyilvántartás részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének, a közérdekű munka foglalkoztatói nyilvántartását vezető szerv által teljesített adatszolgáltatás rendjének részletes szabályait – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben – állapítsa meg.
 
-(6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy – a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, az igazságügyért felelős miniszterrel, az informatikáért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások használatával, igénybevételével, működtetésével kapcsolatos díjak mértékét, valamint a díjak viselésével, megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat.
+(6)

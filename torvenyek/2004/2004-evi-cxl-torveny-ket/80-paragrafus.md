@@ -1,6 +1,6 @@
 80. § (1) Ha jogszabály másként nem rendelkezik, hirdetményi úton történő közlésnek van helye, feltéve, hogy
 
-a) az ügyfél lakcíme, illetve székhelye ismeretlen, vagy a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a címzett ismeretlen helyre költözött, és a személyiadat- és lakcímnyilvántartást vezető hatóság vagy más állami szerv megkeresése nem járt eredménnyel,
+a) az ügyfél ismeretlen helyen tartózkodik,
 
 b) a jogutód nem ismert,
 
@@ -36,7 +36,7 @@ f) azt a figyelemfelhívást, hogy a hatóság az ügyben döntést hozott, amel
 
 g) a jogorvoslat lehetőségéről és benyújtásának határidejéről való tájékoztatást.
 
-(4) A hirdetményt a hatóság hirdetőtáblájára és az ügyfél lakcíme, az ügy tárgyát képező ingatlan vagy tevékenység gyakorlásának vagy a jogellenes magatartás elkövetésének helye szerinti, valamint a hatásterületen lévő önkormányzat hirdetőtábláján ki kell függeszteni, a központi rendszeren és a hatóság elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni, ezenkívül az önkormányzat hivatalos lapjában – ennek hiányában a helyi lapban –, valamint a hatóság hivatalos lapjában is közzétehető. Ha a hatóság kijelölés alapján jár el, a hirdetményt a hatáskörrel és illetékességgel rendelkező, valamint a kijelölés alapján eljáró hatóság is kifüggeszti és közzéteszi.
+(4) A hirdetményt a hatóság hirdetőtáblájára ki kell függeszteni, és a hatóság elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni.
 
 (5) A hirdetmény hatóság hirdetőtábláján való kifüggesztésének és elektronikus tájékoztatásra szolgáló honlapján való megjelentetésének azonos napon kell megtörténnie. A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a hatóság hirdetőtábláján való kifüggesztését kell alapul venni. Hirdetményi közlés esetén a hirdetmény hatóság hirdetőtábláján való kifüggesztésének és levételének napját az iraton meg kell jelölni, az internetes honlapon történő közzététel idejét pedig visszakereshető módon dokumentálni kell.
 

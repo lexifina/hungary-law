@@ -2,7 +2,7 @@
 
 (2) Ha az idézett személy az idézésnek nem tesz eleget, vagy meghallgatása előtt az eljárás helyéről engedély nélkül eltávozik, és távolmaradását előzetesen alapos okkal nem menti ki vagy nyolc napon belül megfelelően nem igazolja, továbbá ha az idézésre meghallgatásra nem alkalmas állapotban jelenik meg, és ezt a körülményt nem menti ki, eljárási bírsággal sújtható. Nem sújtható bírsággal az idézett személy, ha az idézés nem volt szabályszerű.
 
-(3) Ha az idézett személy ismételt idézésre sem jelenik meg, és távolmaradását nem menti ki, a rendőrség útján elővezettethető. Az elővezetés foganatosításához – ha jogszabály másként nem rendelkezik – az ügyésznek a hatóság vezetője által kért jóváhagyása szükséges.
+(3) Ha az idézett személy az idézésre nem jelent meg, és távolmaradását nem mentette ki, a rendőrség útján elővezettethető. Az elővezetés foganatosításához az ügyésznek a hatóság vezetője által kért előzetes hozzájárulása szükséges.
 
 (4) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot kell megkeresni.
 

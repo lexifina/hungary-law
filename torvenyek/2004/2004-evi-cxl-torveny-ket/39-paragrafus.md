@@ -52,6 +52,6 @@ g) az eljárási cselekményben érintett személy, az eljárási képességgel 
 
 (9) A hatóság az ügy megítélése szempontjából fontos vagy egyébként az ügy természetére tekintettel lényeges minden egyéb eljárási cselekményről hivatalos feljegyzést vehet fel, vagy az eljárási cselekményt az iratra történő rávezetéssel rögzítheti. A hivatalos feljegyzés az eljárási cselekmény rövid összefoglalását, a készítés dátumát, valamint a feljegyzést készítő nevét és aláírását tartalmazza.
 
-(10) A hivatalos feljegyzés számítógépes programmal, automatikusan is elkészíthető, ebben az esetben a feljegyzést készítő aláírása helyett a hatóság gépi aláírása is alkalmazható.
+(10)
 
-(11) Hivatalos feljegyzés készítése alkalmazható az írásbelinek nem minősülő elektronikus kapcsolattartás során közölt információk írásba foglalására.
+(11)

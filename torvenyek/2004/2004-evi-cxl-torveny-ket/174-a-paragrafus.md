@@ -14,6 +14,6 @@ c) meghatározza a szakhatósági közreműködésre, az ügyben érdemi dönté
 
 (3) Felhatalmazást kap a Kormány, hogy a kormányablakot vagy kormányablakokat rendeletben jelölje ki, valamint meghatározza feladat- és hatáskörüket.
 
-(4) Felhatalmazást kap a Kormány, hogy a 169/A. § (3) bekezdése szerinti szervezetet kijelölje, valamint az általa biztosított hatósági szolgáltatások nyújtásának szabályait rendeletben állapítsa meg.
+(4) Felhatalmazást kap a Kormány, hogy a hatósági szolgáltatás nyújtására jogosult hatóságot vagy hatóságokat kijelölje, valamint a hatósági szolgáltatások nyújtásának szabályait rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg azokat az ügyeket, amelyekben a kormányablak az ügyre vonatkozó jogszabályban meghatározott hatóság mellett első fokon jogosult eljárni, valamint a kormányablak eljárásának részletes szabályait.

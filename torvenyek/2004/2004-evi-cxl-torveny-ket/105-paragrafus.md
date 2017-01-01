@@ -12,4 +12,4 @@
 
 (6)
 
-(7) A másodfokú döntést hozó hatóság a fellebbezés elbírálása érdekében megküldött iratokat az (1)–(3) bekezdés szerinti döntés meghozatalát követően visszaküldi a döntéssel együtt az első fokú döntést hozó hatósághoz, amely intézkedik a döntés kézbesítése iránt.
+(7) A másodfokú döntést hozó hatóság a fellebbezés elbírálása érdekében megküldött iratokat az (1)–(3) bekezdés szerinti döntés meghozatalát követően visszaküldi a döntéssel együtt az első fokú döntést hozó hatósághoz.

@@ -20,7 +20,9 @@ h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási 
 
 i) a kötelezett az eljárás tárgyát képező kötelezettséget teljesítette,
 
-j) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
+j) a végrehajtást kérő a végrehajtás költségeit – bár köteles rá – nem előlegezte,
+
+k) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
 
 (2) A végrehajtást foganatosító szerv a tudomására jutott megszüntetési okokról és a végrehajtás befejezéséről a végrehajtást megindító hatóságot értesíti.
 

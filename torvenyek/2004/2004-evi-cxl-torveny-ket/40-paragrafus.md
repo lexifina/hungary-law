@@ -8,7 +8,13 @@
 
 (4) A hatóság visszautasítja a meghatalmazott eljárását, ha az nem alkalmas az ügyben a képviselet ellátására, vagy ha képviseleti jogosultságát az erre irányuló hiánypótlási felhívás ellenére sem igazolja. A meghatalmazott visszautasítása esetén a hatóság felhívja az ügyfelet, hogy járjon el személyesen, vagy gondoskodjék a képviselet ellátására alkalmas képviselőről.
 
-(5) A természetes személy ügyfél részére, ha ismeretlen helyen tartózkodik vagy nem tud az ügyben eljárni és nincs törvényes képviselője vagy meghatalmazottja, az eljáró hatóság az erre vonatkozó iratok csatolásával a gyámhatóságnál ügygondnok kötelező kirendelését kezdeményezi vagy ha törvény vagy kormányrendelet lehetővé teszi – az ügygondnok kirendelésére vonatkozó részletes szabályok meghatározásával – maga gondoskodik az ügygondnok kirendeléséről.
+(5) A természetes személy ügyfél részére, akinek nincs képviselője és
+
+a) ismeretlen helyen tartózkodik, vagy
+
+b) nem tud az ügyben eljárni,
+
+az eljáró hatóság ügygondnokot rendel ki.
 
 (6) Jogszabály a képviselet egyéb módját is meghatározhatja, és a képviseleti jogosultság igazolását meghatározott formához kötheti.
 
