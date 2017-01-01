@@ -1,0 +1,1 @@
+## 17. § Ha a kötelezett vagy a 18. § szerinti esetben a kezdeményező az adatokban történt változás bejelentésére az e rendeletben előírt határidőt elmulasztja, a bejelentésében az akadályoztatás okát is meg kell jelölnie.
