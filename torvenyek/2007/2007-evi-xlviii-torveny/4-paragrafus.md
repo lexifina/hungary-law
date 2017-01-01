@@ -4,7 +4,7 @@
 
 (2a) A pénzügyi információs egységként működő hatóság törvényben meghatározott feladatainak teljesítése érdekében a vámhatóság által nyilvántartásba vett adatot – ha a technikai feltételek mindkét félnél adottak – közvetlen elektronikus adatkapcsolat útján is beszerezheti.
 
-(3) Amennyiben a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására utal, a vámhatóság köteles azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani.
+(3) Amennyiben a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására utal, a vámhatóság köteles azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani és a hatóság visszajelzéséig az adat alapjául szolgáló készpénz teljes összegét visszatartani.
 
 (4) A Rendelet 5. cikk (2) bekezdésének végrehajtása esetén a vámhatóság a Rendelet 5. cikk (2) bekezdésében meghatározott adatokat nyilvántartásba veszi, a nyilvántartásba vételtől számított 2 évig kezeli, és a (3) bekezdés szerint továbbítja.
 
