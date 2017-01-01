@@ -48,6 +48,8 @@ Az érintett szervezetnek az alábbi lehetséges eltérésekkel és helyettesít
 
 1.2.7.1.4. nem befolyásolja a biztonsági szempontból fontos információkat az elektronikus információs rendszeren belül.
 
+1.2.7.2.[^2] Az elektronikus információs rendszer dokumentáltan elkülönített, informatikai biztonsági szempontból önállóan értékelhető elemei tekintetében a biztonsági intézkedések a szervezet által elfogadott kockázatelemzési és kockázatkezelési eljárásrendben rögzített vizsgálatot követően, külön-külön egyedi eltérésekkel is alkalmazhatóak, ha az elkülönített elemek közötti határvédelemről gondoskodtak. A határvédelem megfelelőségét, valamint az egyedi eltérések okát és mértékét dokumentálni és meghatározott gyakorisággal felülvizsgálni szükséges.
+
 2. HELYETTESÍTŐ BIZTONSÁGI INTÉZKEDÉSEK
 
 2.1. A helyettesítő biztonsági intézkedés olyan eljárás, amelyet az érintett szervezet az adott biztonsági osztályhoz tartozó biztonsági intézkedés helyett alkalmazni kíván, és egyenértékű vagy összemérhető védelmet nyújt az adott elektronikus információs rendszerre valós fenyegetést jelentő veszélyforrások ellen, és a helyettesített intézkedéssel egyenértékű módon biztosít minden külső vagy belső követelménynek (például törvényeknek vagy szervezeti szintű szabályzóknak) való megfelelést.
@@ -2515,3 +2517,5 @@ Az elektronikus információs rendszer védi az érintett szervezet által megha
 3.3.13.22. A folyamatok elkülönítése
 
 Az elektronikus információs rendszer elkülönített végrehajtási tartományt tart fenn minden végrehajtó folyamat számára.
+
+[^2]: A 4. melléklet 1.2.7. pont 1.2.7.2. alpontját az 58/2016. (XII. 22.) BM rendelet 52. §-a iktatta be.
