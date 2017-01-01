@@ -22,7 +22,7 @@
 
 ## 11. Egyéni vállalkozói igazolvány leadása (szünetelés, adatváltozás, megszűnés miatt)
 
-## 12. Új személyi azonosítóról és lakcímről szóló hatósági igazolvány kiállítása iránti kérelem, költözéssel nem járó lakcímváltozás (házszám, épület, lépcsőház, ajtó, emelet) esetén
+## 12.[^25]
 
 ## 13. Forgalmi engedély cseréjére irányuló kérelem
 
@@ -76,23 +76,54 @@
 
 ## 38. Ingatlan-nyilvántartási térképi adatbázisból kiadott hiteles térképmásolat iránti kérelem
 
-## 39.[^25] az állandó személyazonosító igazolvány tároló eleme adattartalmának ellenőrzése
+## 39.[^26] az állandó személyazonosító igazolvány tároló eleme adattartalmának ellenőrzése
 
-## 40.[^26] a személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás felvételezés szabályairól szóló kormányrendelet (a továbbiakban: Szig. R.) szerinti állandó személyazonosító igazolványhoz tartozó PIN kód, az elektronikus aláíráshoz tartozó PIN kód létrehozása és cseréje, a visszavonási jelszó cseréje, valamint a blokkolódott PUK kód feloldása
+## 40.[^27] a személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás felvételezés szabályairól szóló kormányrendelet (a továbbiakban: Szig. R.) szerinti állandó személyazonosító igazolványhoz tartozó PIN kód, az elektronikus aláíráshoz tartozó PIN kód létrehozása és cseréje, a visszavonási jelszó cseréje, valamint a blokkolódott PUK kód feloldása
 
-## 41.[^27] a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (3) bekezdése szerinti e-aláírási funkcióhoz és időbélyegzés szolgáltatáshoz tartozó szolgáltatási szerződés megkötésével, új tanúsítvány igényléssel és tanúsítvány visszavonással kapcsolatos, a Szig. R.-ben előírt feladatok
+## 41.[^28] a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (3) bekezdése szerinti e-aláírási funkcióhoz és időbélyegzés szolgáltatáshoz tartozó szolgáltatási szerződés megkötésével, új tanúsítvány igényléssel és tanúsítvány visszavonással kapcsolatos, a Szig. R.-ben előírt feladatok
 
-## 42.[^28] Papír alapú hiteles földhasználati lap másolat kiadása iránti kérelem
+## 42.[^29] Papír alapú hiteles földhasználati lap másolat kiadása iránti kérelem
 
-## 43.[^29] Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejelentés
+## 43.[^30] Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejelentés
 
-## 44.[^30] Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejegyzésekről való tájékoztatás kérése
+## 44.[^31] Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejegyzésekről való tájékoztatás kérése
+
+## 45.[^32] A vészhelyzet esetén értesítendő telefonszáma rögzítése, cseréje és törlése
+
+## 46.[^33] Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában a jogosult járművek kérelem alapján történő rögzítése, módosítása
+
+## 47.[^34] Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában a jogosult járművek kérelem alapján történő törlése
+
+## 48.[^35] Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásából történő adatszolgáltatás iránti kérelem
+
+## 49.[^36] Új jármű első forgalomba helyezése iránti kérelem (törzskönyv, forgalmi engedély és rendszámtábla kiadásával)
+
+## 50.[^37] Használt jármű forgalomba helyezése iránti kérelem (törzskönyv, forgalmi engedély és rendszámtábla kiadásával)
+
+## 51.[^38] Jármű ideiglenes forgalomban tartásának engedélyezése iránti kérelem (ideiglenes forgalmi engedély, ideiglenes rendszámtábla és szükség esetén indítási napló kiadása – a rendszám jellegétől függően)
+
+## 52.[^39] Gépjármű átírása iránti kérelem (a járművek tulajdonjog-változásának nyilvántartásba vétele, törzskönyv és forgalmi engedély kiadásával)
+
+## 53.[^40] Különleges rendszámtábla kiadása iránti kérelem (világoszöld alapszínű rendszámtáblák esetében)
+
+## 54.[^41] Földműves nyilvántartásból papíralapú hiteles adatlap másolat kiadása iránti kérelem
 
 2. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^25]: Az 1. melléklet 39. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
-[^26]: Az 1. melléklet 40. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
-[^27]: Az 1. melléklet 41. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be, szövege a 93/2016. (V. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^28]: Az 1. melléklet 42. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^29]: Az 1. melléklet 43. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^30]: Az 1. melléklet 44. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^25]: Az 1. melléklet 12. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (7) bekezdés d) pontja hatályon kívül helyezte.
+[^26]: Az 1. melléklet 39. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^27]: Az 1. melléklet 40. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^28]: Az 1. melléklet 41. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be, szövege a 93/2016. (V. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^29]: Az 1. melléklet 42. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^30]: Az 1. melléklet 43. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^31]: Az 1. melléklet 44. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^32]: Az 1. melléklet 45. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^33]: Az 1. melléklet 46. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^34]: Az 1. melléklet 47. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^35]: Az 1. melléklet 48. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^36]: Az 1. melléklet 49. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^37]: Az 1. melléklet 50. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^38]: Az 1. melléklet 51. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^39]: Az 1. melléklet 52. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^40]: Az 1. melléklet 53. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (3) bekezdése iktatta be.
+[^41]: Az 1. melléklet 54. pontját a 420/2016. (XII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.

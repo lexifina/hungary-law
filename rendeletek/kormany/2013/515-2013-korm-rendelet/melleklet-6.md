@@ -20,23 +20,23 @@
 
 ## 10. Cégbejegyzési és változásbejegyzési eljárásról tájékoztatás
 
-## 11.[^1316] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
+## 11.[^1397] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
 
-## 12.[^1317] Ügyintézési rendelkezés tétele
+## 12.[^1398] Ügyintézési rendelkezés tétele
 
-## 13.[^1318] Megtett ügyintézési rendelkezésről szóló igazolás kiadásának kérése
+## 13.[^1399] Megtett ügyintézési rendelkezésről szóló igazolás kiadásának kérése
 
-## 14.[^1319] Ügyfélkapu-regisztráció birtokában internethasználat biztosítása a személyiadat- és lakcímnyilvántartás tekintetében adatszolgáltatások alanyára vonatkozó tájékoztatás iránti kérelem elektronikus úton történő benyújtásához
+## 14.[^1400] Ügyfélkapu-regisztráció birtokában internethasználat biztosítása a személyiadat- és lakcímnyilvántartás tekintetében adatszolgáltatások alanyára vonatkozó tájékoztatás iránti kérelem elektronikus úton történő benyújtásához
 
-## 15.[^1320] Internethasználat és elérés biztosítása a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásához
+## 15.[^1401] Internethasználat és elérés biztosítása a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásához
 
-## 16.[^1321] Kormány által biztosított elektronikus azonosítási szolgáltatás, illetve részleges kódú telefonos azonosítás (RKTA) birtokában a hatósági erkölcsi bizonyítvány elektronikus úton történő benyújtásának biztosítása
+## 16.[^1402] Kormány által biztosított elektronikus azonosítási szolgáltatás, illetve részleges kódú telefonos azonosítás (RKTA) birtokában a hatósági erkölcsi bizonyítvány elektronikus úton történő benyújtásának biztosítása
 
 6. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^1316]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^1317]: Az 5. melléklet 12. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^1318]: Az 5. melléklet 13. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^1319]: Az 5. melléklet 14. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^1320]: Az 5. melléklet 15. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^1321]: Az 5. melléklet 16. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^1397]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^1398]: Az 5. melléklet 12. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^1399]: Az 5. melléklet 13. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^1400]: Az 5. melléklet 14. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^1401]: Az 5. melléklet 15. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^1402]: Az 5. melléklet 16. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.

@@ -290,7 +290,7 @@
 
 ## 4.1. A kormányablak az építésügyi és építésfelügyeleti hatósági és a szakhatósági eljárásokkal összefüggésben iratbetekintési és iratmásolati szolgáltatási lehetőséget biztosít az ügyfél azonosítását követően az egyedi ügy irataiba, amelyben az ezt kérelmező ügyféli jogállással rendelkezik, és amely iratra iratbetekintési joga van.
 
-8. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^1323]
+8. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^1405]
 
 Azon ügykörök, amelyekre a benyújtott kérelem ügyintézési állapotára vonatkozó tájékoztatás a kormányablakban biztosítható
 
@@ -298,4 +298,4 @@ Azon ügykörök, amelyekre a benyújtott kérelem ügyintézési állapotára v
 
 2. Gyermeknevelési támogatásra való jogosultság megállapítása iránti kérelem.
 
-[^1323]: A 8. mellékletet a 417/2015. (XII. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^1405]: A 8. mellékletet a 417/2015. (XII. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.
