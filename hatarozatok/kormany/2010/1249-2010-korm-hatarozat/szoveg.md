@@ -18,7 +18,7 @@ Felelős: belügyminiszter
 
 Határidő: folyamatosan
 
-4. a) A Kormány felhívja a belügyminisztert, a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert, a közigazgatási és igazságügyi minisztert és a honvédelmi minisztert, hogy az Alkotmányvédelmi Hivatal, a Magyar Energia Hivatal, a Magyar Kereskedelmi és Engedélyezési Hivatal, a Nemzeti Biztonsági Felügyelet, a Nemzeti Közlekedési Hatóság, az Országos Katasztrófavédelmi Főigazgatóság, az Országos Rendőr-főkapitányság és a Terrorelhárítási Központ bevonásával hozzanak létre és működtessenek szakmai munkacsoportot (a továbbiakban: munkacsoport).
+4. a)[^1] A Kormány felhívja a belügyminisztert, a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert, a közigazgatási és igazságügyi minisztert és a honvédelmi minisztert, hogy az Alkotmányvédelmi Hivatal, a Magyar Energia Hivatal, a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala, a Nemzeti Biztonsági Felügyelet, az Országos Katasztrófavédelmi Főigazgatóság, az Országos Rendőr-főkapitányság és a Terrorelhárítási Központ bevonásával hozzanak létre és működtessenek szakmai munkacsoportot (a továbbiakban: munkacsoport).
 
 Felelős: belügyminiszter
 
@@ -117,3 +117,5 @@ Felelős: nemzeti fejlesztési miniszter
 Határidő: folyamatosan
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont a) alpontja az 1853/2016. (XII. 27.) Korm. határozat 5. és 6. pontja szerint módosított szöveg.
