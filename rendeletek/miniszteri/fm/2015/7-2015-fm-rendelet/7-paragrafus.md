@@ -4,6 +4,6 @@
 
 (2) A támogatás mértéke állategységenként, tárgynegyedévente ezerkilencszáz forint.
 
-(3)[^29] A kifizetési kérelemhez csatolni kell a szén-dioxid és ammónia méréséről tárgynegyedévente készült, a sertéságazati területi felelős által aláírt jegyzőkönyv másolatát. Az adott támogatási év első tárgynegyedévére vonatkozó jegyzőkönyv kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+(3)[^32] A kifizetési kérelemhez csatolni kell a szén-dioxid és ammónia méréséről tárgynegyedévente készült, a sertéságazati területi felelős által aláírt jegyzőkönyv másolatát. Az adott támogatási év első tárgynegyedévére vonatkozó jegyzőkönyv kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
 
-[^29]: A 7. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § i) pontja szerint módosított szöveg.
+[^32]: A 7. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § i) pontja szerint módosított szöveg.

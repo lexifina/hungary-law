@@ -1,6 +1,6 @@
 ## 4. A támogatási kérelem benyújtása
 
-4. § (1)[^15] A támogatási kérelmet a támogatási évet közvetlenül megelőző március 16-ától március 31-éig a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és a honlapján közzétett, az 1. melléklet szerinti adattartalmú nyomtatványon kell benyújtani. Egy támogatási évre kizárólag egy támogatási kérelem nyújtható be. Határidőn túl benyújtott támogatási kérelem esetén az adott támogatási évben nem vehető igénybe támogatás.
+4. § (1)[^15] A támogatási kérelmet a támogatási évet közvetlenül megelőző március 16-ától március 31-éig a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett, az 1. melléklet szerinti adattartalmú nyomtatványon kell benyújtani. Egy támogatási évre kizárólag egy támogatási kérelem nyújtható be. Határidőn túl benyújtott támogatási kérelem esetén az adott támogatási évben nem vehető igénybe támogatás.
 
 (2) A támogatási kérelemhez mellékelni kell
 
@@ -14,11 +14,11 @@ b) a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazo
 
 (5)[^19]
 
-(6)[^20] Az MVH a támogatási kérelemről az abban megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan hoz döntést.
+(6)[^20] A Kincstár a támogatási kérelemről az abban megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan hoz döntést.
 
-[^15]: A 4. § (1) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § c) pontja szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § c) pontja, a 88/2016. (XII. 29.) FM rendelet 78. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (2) bekezdés a) pontja a 92/2015. (XII. 23.) FM rendelet 7. § d) pontja, a 25/2016. (IV. 11.) FM rendelet 39. § a) pontja, az 51/2016. (VII. 21.) FM rendelet 20. § c) pontja szerint módosított szöveg.
 [^17]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^18]: A 4. § (4) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.
 [^19]: A 4. § (5) bekezdését az 51/2016. (VII. 21.) FM rendelet 21. §-a hatályon kívül helyezte.
-[^20]: A 4. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^20]: A 4. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 78. § b) pontja szerint módosított szöveg.
