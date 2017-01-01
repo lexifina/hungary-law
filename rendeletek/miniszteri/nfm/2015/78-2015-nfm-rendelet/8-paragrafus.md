@@ -8,9 +8,9 @@
 
 (3) A 6. § (5) és (6) bekezdése 2017. január 1-jén lép hatályba.
 
-(4)[^2]
+(4)[^1]
 
-(5)[^3]
+(5)[^2]
 
-[^2]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

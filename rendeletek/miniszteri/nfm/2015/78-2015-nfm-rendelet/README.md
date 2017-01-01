@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-78-20-2
 | 2016-01-02 | 2015-78-20-2W.2 | 2010: CXXX. törvény |
 | 2016-01-30 | 2015-78-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-01-31 | 2015-78-20-2W.4 | 2010: CXXX. törvény |
+| 2017-01-01 | 2015-78-20-2W.5 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -14,6 +14,6 @@ b) a földgáztárolói, -szállítói és elosztói, PB-gáz forgalmazói enged
 
 (4) Az MBFH a befizetett felügyeleti díjról számviteli bizonylatot bocsát ki.
 
-(5)–(6)[^1]
+(5) A kormányhivatal március 1-jéig adatot szolgáltat az MBFH-nak a Bt. 43. § (9) bekezdése szerinti bányavállalkozó, illetve engedélyes által befizetett a tárgyévet megelőző igazgatási szolgáltatási díjak összegéről.
 
-[^1]: A 6. § (5)–(6) bekezdése a 8. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+(6) Az MBFH a (2) bekezdés a) pontja esetében befizetett felügyeleti díjból március 20-ig, a (2) bekezdés b) pontja esetében július 20-ig gondoskodik a Bt. 43. § (9c) bekezdése szerinti igazgatási szolgáltatási díjak összegének visszafizetéséről.
