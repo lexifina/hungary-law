@@ -1,6 +1,6 @@
 1. § (1)[^2] A keresőképtelenség elbírálásának célja, hogy a betegszabadság, illetőleg táppénz igénybevételéhez megállapítsa és igazolja, hogy a munkavállaló (biztosított) a munkáját betegsége vagy beteg gyermeke ápolása miatt ellátni nem tudja.
 
-(2)[^3] A keresőképtelenség elbírálása a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 44. §-ában felsorolt esetekben történik.
+(2)[^3] A keresőképtelenség elbírálása a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 434. §-ában felsorolt esetekben történik.
 
 (3)[^4] A keresőképtelenség és keresőképesség orvosi elbírálását a mindenkor érvényes szakmai irányelvek szerint kell végezni.
 

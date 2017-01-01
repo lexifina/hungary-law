@@ -4,17 +4,17 @@
 
 (2) A keresőképtelen biztosított köteles
 
-a)[^12] betartani az orvos utasításait, így különösen a gyógyulását elősegítő, meghatározott idejű ágynyugalomra, valamint a tartózkodási helyről való kijárás korlátozására vonatkozóan,
+a)[^14] betartani az orvos utasításait, így különösen a gyógyulását elősegítő, meghatározott idejű ágynyugalomra, valamint a tartózkodási helyről való kijárás korlátozására vonatkozóan,
 
 b) az elrendelt vizsgálatokon megjelenni,
 
 c) ha a keresőképtelensége alatt más orvos is kezeli, erről a keresőképtelen állományban tartó orvost tájékoztatni.
 
-(3)[^13] A betegszabadság, illetve a táppénz igénybevétele alatt
+(3)[^15] A betegszabadság, illetve a táppénz igénybevétele alatt
 
 a) a munkavállaló esetén a munkáltató,
 
 b) közfoglalkoztatott esetén a közfoglalkoztató, illetve az állami foglalkoztatási szerv
 
-[^12]: A 6. § (2) bekezdésének a) pontja a 252/2003. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^13]: A 6. § (3) bekezdése a 171/2011. (VIII. 24.) Korm. rendelet 1. §-ával megállapított, záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 6. § (2) bekezdésének a) pontja a 252/2003. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: A 6. § (3) bekezdése a 171/2011. (VIII. 24.) Korm. rendelet 1. §-ával megállapított, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés e) pontja szerint módosított szöveg.
