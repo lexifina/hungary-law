@@ -48,7 +48,7 @@ b) atomerőmű esetén,
 
 c) olyan létesítmény esetén, amelynek geológiai tárolóhelyhez közel kell elhelyezkednie, ha
 
-ca) rendelkezik az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség igazolásával arról, hogy megfelelő elkülönített helyet biztosítanak a szén-dioxid leválasztásához és sűrítéséhez szükséges berendezések telepítéséhez,
+ca)[^55] rendelkezik a Pest Megyei Kormányhivatal igazolásával arról, hogy megfelelő elkülönített helyet biztosítanak a szén-dioxid leválasztásához és sűrítéséhez szükséges berendezések telepítéséhez,
 
 cb) 10 km-nél közelebb fekszik a szén-dioxidot befogadó geológiai tárolóhelyhez, és
 
@@ -56,7 +56,7 @@ cc) a szén-dioxidot befogadó geológiai tárolóhely érvényes és hatályos 
 
 d) ha a létesítményt nagy hatásfokú kapcsolt energiatermelésre alkalmasnak tervezik.
 
-(8)[^55] A MEKH az erőmű kérelme alapján mentesítheti a költség-haszon elemzés elkészítése alól azt az erőművet, amelyet egy ötéves időszak alatti mozgóátlag alapján kevesebb, mint 1500 óra üzemelésre terveztek.
+(8)[^56] A MEKH az erőmű kérelme alapján mentesítheti a költség-haszon elemzés elkészítése alól azt az erőművet, amelyet egy ötéves időszak alatti mozgóátlag alapján kevesebb, mint 1500 óra üzemelésre terveztek.
 
 [^43]: A 22. § a 182/2009. (IX. 10.) Korm. rendelet 607–608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^44]: A 23. § (1) bekezdése a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének c) pontja, a 245/2012. (VIII. 31.) Korm. rendelet 12. § a) pont aa) alpontja szerint módosított szöveg.
@@ -70,4 +70,5 @@ d) ha a létesítményt nagy hatásfokú kapcsolt energiatermelésre alkalmasnak
 [^52]: A 23. § (5) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (2) bekezdése iktatta be.
 [^53]: A 23. § (6) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (2) bekezdése iktatta be.
 [^54]: A 23. § (7) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (2) bekezdése iktatta be.
-[^55]: A 23. § (8) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^55]: A 23. § (7) bekezdés c) pont ca) alpontja a 379/2016. (XII. 2.) Korm. rendelet 111. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^56]: A 23. § (8) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (2) bekezdése iktatta be.
