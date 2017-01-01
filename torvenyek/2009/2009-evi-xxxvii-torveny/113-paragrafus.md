@@ -32,4 +32,8 @@
 
 (16) Az erdészeti hatóság (15) bekezdés szerinti eljárásához szükséges adatokat valamennyi hatóság, valamint állami és önkormányzati szervezet köteles az erdészeti hatóság rendelkezésére bocsátani.
 
-(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártakor az e törvény szerinti körzeti erdőterv alapján kiadott erdőterv nem áll rendelkezésre, az e törvény szerinti körzeti erdőterv alapján kiadott erdőterv jogerőre emelkedéséig az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőtervben az erdőgazdálkodó kérelmére állapítja meg.
+(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig
+
+a) a korábbi erdőterv érvényessége fennmarad, vagy
+
+b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság az erdőgazdálkodó kérelmére erdőtervben állapítja meg.

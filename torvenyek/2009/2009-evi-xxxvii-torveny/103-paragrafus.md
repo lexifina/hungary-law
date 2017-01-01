@@ -12,9 +12,9 @@ b) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtl
 
 c) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
 
-(3) Az állam az erdő védelme, károsításának megelőzése, valamint az erdészeti hatósági tevékenységhez kapcsolódó ellenőrzés érdekében az erdészeti hatóság szervezetében – a bejelentések fogadására és kezelésére 24 órában alkalmas – erdővédelmi szolgálatot működtet.
+(3)
 
-(4) Az erdővédelmi szolgálat tagja az erdészeti hatóság illetékességi területén jogosult és köteles
+(4) Az erdészeti hatóság rendészeti feladatokat ellátó tagja az erdészeti hatóság illetékességi területén jogosult és köteles
 
 a) az erdők védelmére vonatkozó előírások betartásának ellenőrzése során,
 
@@ -28,4 +28,4 @@ e) a bűncselekmény elkövetésén tetten ért vagy az intézkedésének ellens
 
 az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
-(5) Az erdővédelmi szolgálat tagja szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+(5) Az erdészeti hatóság rendészeti feladatokat ellátó tagja szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.

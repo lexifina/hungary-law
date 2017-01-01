@@ -1,6 +1,6 @@
 90/M. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági eljárása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel köteles alkalmazni.
 
-(2) Az erdészeti hatóságnak a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárásában az ügyintézési határidő 90 nap, amelyet az eljáró hatóság vezetője annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
+(2) Az erdészeti hatóságnak a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárásában az ügyintézési határidő 90 nap.
 
 (3) Ha a hatósági ellenőrzés keretében a vizsgálati eredmény alapján nem állapítható meg jogsértés, a hatóság a vizsgálati jegyzőkönyvet nem küldi meg az ügyfél részére.
 

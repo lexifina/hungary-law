@@ -28,7 +28,7 @@ f) az út, a vasút, töltés, árok, csatorna, valamint az egyéb vonalas műsz
 
 g) folyó, patak, csatorna medrére vagy a mederben keletkezett zátonyra;
 
-h) az energetikai célból termesztett, fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényre;
+h) az energetikai, valamint ipari célból termesztett, fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényre;
 
 i) földalatti gomba termesztését szolgáló, külön jogszabály szerint létesített ültetvényre.
 
