@@ -10,7 +10,7 @@ b) a pályázati kiírást kezdeményező szerv az első pályázati kiírás ke
 
 c) a pályázatot kiíró szerv az első pályázata kért közzétételi időpontja előtt 10 munkanappal.
 
-(3) A (2) bekezdés szerinti, a hivatali szervezet vezetőjének aláírásával ellátott regisztrációs bejelentő lapot a szolgáltató központnak kell postai úton megküldeni. A szolgáltató központ a közigazgatási szervnek a rendszerhasználathoz szükséges egyedi adatait a (2) bekezdés szerinti regisztrációs bejelentő lap megérkezésétől számított 5 munkanapon belül, postai úton, tértivevényes küldeményként küldi meg.
+(3)[^23] A (2) bekezdés szerinti, a hivatali szervezet vezetőjének elektronikus aláírásával ellátott regisztrációs bejelentő lapot a szolgáltató központnak kell elektronikus úton megküldeni. A szolgáltató központ a közigazgatási szervnek a rendszerhasználathoz szükséges egyedi adatait a (2) bekezdés szerinti regisztrációs bejelentő lap megérkezésétől számított 5 munkanapon belül, elektronikus úton küldi meg.
 
 (4) A szolgáltató központ a közigazgatási szerv által meghatalmazott köztisztviselőnek – legfeljebb 6 fő, melytől eltérni a szolgáltató központ vezetőjének engedélyével lehet – különböző jogosultági szinteken – közzétételi, kiválasztó, kereső funkció – biztosít hozzáférést a toborzási és pályázati elektronikus rendszerhez. Egy köztisztviselő egyszerre több funkciót is elláthat.
 
@@ -23,3 +23,5 @@ c) a pályázatot kiíró szerv az első pályázata kért közzétételi időpo
 (8) Az elektronikus úton pályázó pályázata megküldésével egyidejűleg, vagy a pályázat lezárását követően hozzájárulhat adatainak a toborzási adatbázisban történő nyilvántartásához. Ebben az esetben a pályázati adatbázisban nyilvántartott adatai – ideértve a munka-alkalmassági teszt adatait is – a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 7. számú mellékletében meghatározott adattartalommal továbbításra kerülnek a toborzási adatbázisba.
 
 (9) Amennyiben a toborzási adatbázisban szereplő személy elektronikus úton pályázni kíván, hozzájárulhat a toborzási adatbázisban szereplő adatainak a pályázati adatbázisban történő nyilvántartásához. Ebben az esetben a toborzási adatbázisban nyilvántartott adatai – ideértve a munka-alkalmassági teszt adatait is – a szükséges mértékben továbbításra kerülnek a pályázati adatbázisba.
+
+[^23]: A 12. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.

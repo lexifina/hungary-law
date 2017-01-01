@@ -8,7 +8,7 @@ b) nem a szolgáltató központhoz kerültek benyújtásra.
 
 (3) A (2) bekezdésben foglaltakon túl érvénytelen a pályázat, ha
 
-a)[^11]
+a)[^12]
 
 b) a pályázó a pályázati kiírásban meghatározott egyéb feltételeknek nem felel meg.
 
@@ -16,4 +16,4 @@ b) a pályázó a pályázati kiírásban meghatározott egyéb feltételeknek n
 
 (5) A szolgáltató központ az előszűrés eredménye alapján összeállítja azon pályázók körét, akiket kompetencia-vizsgálatra javasol.
 
-[^11]: A 6. § (3) bekezdés a) pontját a 207/2010. (VI. 30.) Korm. rendelet 10. § a) pont ae) alpontja hatályon kívül helyezte.
+[^12]: A 6. § (3) bekezdés a) pontját a 207/2010. (VI. 30.) Korm. rendelet 10. § a) pont ae) alpontja hatályon kívül helyezte.

@@ -24,6 +24,6 @@ j) közigazgatási szerv: a köztisztviselők jogállásról szóló törvény 1
 
 k) motivációs levél: olyan kísérő dokumentum, amely a pályázó legfontosabb motivációs tényezőire és korábbi munkatapasztalataira hivatkozva alátámasztja alkalmasságát a pozíció betöltésére,
 
-l)[^22] az közigazgatási szerv által javasolt szakértő: a közigazgatási szerv felkérése alapján az értékelő központban részt vevő személy, aki a betölteni kívánt munkakör szakterületén, vagy a közigazgatás területén kiemelkedő szakértelemmel, szakmai tapasztalattal rendelkezik.
+l)[^24] az közigazgatási szerv által javasolt szakértő: a közigazgatási szerv felkérése alapján az értékelő központban részt vevő személy, aki a betölteni kívánt munkakör szakterületén, vagy a közigazgatás területén kiemelkedő szakértelemmel, szakmai tapasztalattal rendelkezik.
 
-[^22]: A 17. § l) pontja a 207/2010. (VI. 30.) Korm. rendelet 9. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^24]: A 17. § l) pontja a 207/2010. (VI. 30.) Korm. rendelet 9. § (1) bekezdés e) pontja szerint módosított szöveg.
