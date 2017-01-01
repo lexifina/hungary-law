@@ -4,6 +4,8 @@
 
 2. § (1) A termesztési engedély beszerzése érdekében az 1. számú melléklet szerinti kérelmet (a továbbiakban: kérelem) kell a termesztési hatósághoz benyújtani.
 
-(2) A kérelemhez mellékletként csatolni kell a Mezőgazdasági és Vidékfejlesztési Hivatal által kiállított külön jogszabály szerinti egyedi blokktérképeket.
+(2)[^1] A kérelemhez mellékletként csatolni kell a Magyar Államkincstár által kiállított külön jogszabály szerinti egyedi blokktérképeket.
 
 (3) Ha a Törvény 21/B. § (3) bekezdése szerint több termelő közösen kíván kérelmet benyújtani a termesztési hatósághoz, akkor az 1. számú melléklet szerinti kérelmet mindegyiküknek külön-külön kell kitölteni a saját használatban lévő földterületük vonatkozásában, és az így kitöltött kérelmeket együttesen nyújtják be.
+
+[^1]: A 2. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 11. §-a szerint módosított szöveg.
