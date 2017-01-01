@@ -1,4 +1,4 @@
-## 3/C. §[^18] Az önkormányzati főépítész tartalmat meghatározó feljegyzése, valamint az elhagyott tartalmi elemek indokolása a készülő megalapozó vizsgálat, alátámasztó javaslat mellékletének részét képezi.
+## 3/D. §[^19] A településfejlesztési koncepciót módosítani szükséges, ha a helyi építési szabályzat előkészítése során végzett terepbejárás olyan régészeti lelőhelyet derít fel, melyet a kulturális örökség védelmével kapcsolatos szabályokról szóló 496/2016. (XII. 28.) Korm. rendelet 5. § (3) bekezdése szerint el kell kerülni.
 
 ## 3. A településfejlesztés és a területfejlesztés, valamint a településrendezés és a területrendezés összefüggései
 
@@ -6,4 +6,4 @@
 
 (2) A településrendezési eszközök a területrendezési tervek rendelkezéseivel összhangban készülnek.
 
-[^18]: A 3/C. §-t a 400/2016. (XII. 5.) Korm. rendelet 6. §-a iktatta be.
+[^19]: A 3/D. §-t a 497/2016. (XII. 28.) Korm. rendelet 6. §-a iktatta be.

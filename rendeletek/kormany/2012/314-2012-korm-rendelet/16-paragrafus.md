@@ -14,11 +14,11 @@ c) újat készít.
 
 (4) A településszerkezeti terv módosítását igénylő helyi építési szabályzat készítése vagy módosítása esetén a településrendezési eszközök közös megalapozó vizsgálatra alapozva, együtt készíthetők és közös alátámasztó javaslatot is tartalmazhatnak.
 
-(5)[^39] A településszerkezeti terv és a helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat – módosítása esetén a tervezési feladatnak megfelelő tartalommal kell elkészíteni a megalapozó vizsgálatot és az alátámasztó javaslatot. A módosítások esetén a korábbi megalapozó vizsgálat és alátámasztó javaslat felhasználására, tartalmi elemeire és azok részletezettségére a 3/A. §, a 9. § (4) és (6) bekezdése, valamint a 11. § (4)–(6) bekezdése az irányadó.
+(5)[^40] A településszerkezeti terv és a helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat – módosítása esetén a tervezési feladatnak megfelelő tartalommal kell elkészíteni a megalapozó vizsgálatot és az alátámasztó javaslatot. A módosítások esetén a korábbi megalapozó vizsgálat és alátámasztó javaslat felhasználására, tartalmi elemeire és azok részletezettségére a 3/A. §, a 9. § (4) és (6) bekezdése, valamint a 11. § (4)–(6) bekezdése az irányadó.
 
-(6)[^40] Amennyiben a településrendezési eszköz módosítása nem a település egészére készül, úgy a megalapozó vizsgálatot a településfejlesztés és településrendezés várható hatása szerinti területre kell elvégezni, a szerkezeti összefüggések bemutatásával.
+(6)[^41] Amennyiben a településrendezési eszköz módosítása nem a település egészére készül, úgy a megalapozó vizsgálatot a településfejlesztés és településrendezés várható hatása szerinti területre kell elvégezni, a szerkezeti összefüggések bemutatásával.
 
 (7) Amennyiben a (3) bekezdés szerint a módosítások egységbe foglalása során összeállított jelmagyarázat alkalmazása tartalmi módosítást eredményezne, a településszerkezeti tervet módosítani kell.
 
-[^39]: A 16. § (5) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^40]: A 16. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^40]: A 16. § (5) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^41]: A 16. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés d) pontja szerint módosított szöveg.

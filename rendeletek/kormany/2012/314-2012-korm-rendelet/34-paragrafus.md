@@ -6,8 +6,8 @@ a) az eljárás során az eljárási szabályokban meghatározott határidőn be
 
 b) az egyeztető tárgyaláson szabályos meghívás ellenére nem vett részt, vagy
 
-c)[^62] aki az egyeztető tárgyaláson nem képviselteti magát és levelében véleményének fenntartását jelzi,
+c)[^63] aki az egyeztető tárgyaláson nem képviselteti magát és levelében véleményének fenntartását jelzi,
 
 az adott eljárási szakaszban kifogást nem emelő véleményezőnek kell tekinteni.
 
-[^62]: A 34. § (2) bekezdés c) pontja a 400/2016. (XII. 5.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
+[^63]: A 34. § (2) bekezdés c) pontja a 400/2016. (XII. 5.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 31/A. [^89] A településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának szabályai
+## 31/A. [^90] A településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának szabályai
 
 43/A. § (1) Az új kézikönyv és településképi rendelet készítése, valamint módosítása során a 28. §-t és 29. §-t, valamint a (2)–(10) bekezdést kell alkalmazni.
 
@@ -30,4 +30,4 @@ c) a településképi rendeletet véleményezésre megküldi az állami főépí
 
 (10) A véleményezésre jogosult szervek véleményének digitális egyeztető felületre történő feltöltéséről a véleményező szerv gondoskodik, a feltöltésre kerülő szöveges dokumentumokat pdf vagy odt formátumban kell biztosítani.
 
-[^89]: A 31/A. alcímet (43/A–43/B. §) a 400/2016. (XII. 5.) Korm. rendelet 23. §-a iktatta be.
+[^90]: A 31/A. alcímet (43/A–43/B. §) a 400/2016. (XII. 5.) Korm. rendelet 23. §-a iktatta be.

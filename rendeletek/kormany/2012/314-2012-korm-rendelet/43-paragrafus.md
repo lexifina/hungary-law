@@ -6,11 +6,11 @@ a) teljes eljárás esetén a településrendezési eszköz (2) bekezdés szerin
 
 b) az egyszerűsített eljárás esetén a településrendezési eszköz (2) bekezdés szerinti közlését követő 5. napon, de leghamarabb az elfogadástól számított 15. napon,
 
-c)[^85] a tárgyalásos eljárás és az állami főépítészi eljárás esetén az elfogadást követő napon
+c)[^86] a tárgyalásos eljárás és az állami főépítészi eljárás esetén az elfogadást követő napon
 
 ## lép hatályba.
 
-(2)[^86] A polgármester gondoskodik a településrendezési eszköz Étv. 8. § (4) bekezdése szerinti nyilvánosságáról, továbbá az elfogadott településrendezési eszközt vagy módosítását az elfogadást követő 15 napon belül
+(2)[^87] A polgármester gondoskodik a településrendezési eszköz Étv. 8. § (4) bekezdése szerinti nyilvánosságáról, továbbá az elfogadott településrendezési eszközt vagy módosítását az elfogadást követő 15 napon belül
 
 a) rövid, közérthető összefoglaló kíséretében közzéteszi
 
@@ -28,11 +28,11 @@ bc) az eljárásban részt vevő összes államigazgatási szervnek vagy
 
 c) a megküldés helyett digitális formátumban a jegyzőkönyvvel együtt mint elektronikus úton hitelesített dokumentumot elérhetővé teszi a b) pont ba)–bc) alpontja szerinti szerveknek.
 
-(3)[^87] Amennyiben az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal vagy az eljárásban részt vevő államigazgatási szerv jogszabályi ütközést észlel, haladéktalanul kezdeményezi a fővárosi és megyei kormányhivatalnál – a polgármester egyidejű tájékoztatása mellett – a településrendezési döntés jogszerűségével kapcsolatos törvényességi felügyeleti eljárás lefolytatását.
+(3)[^88] Amennyiben az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal vagy az eljárásban részt vevő államigazgatási szerv jogszabályi ütközést észlel, haladéktalanul kezdeményezi a fővárosi és megyei kormányhivatalnál – a polgármester egyidejű tájékoztatása mellett – a településrendezési döntés jogszerűségével kapcsolatos törvényességi felügyeleti eljárás lefolytatását.
 
-(4)[^88]
+(4)[^89]
 
-[^85]: A 43. § (1) bekezdés c) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § o) pontja szerint módosított szöveg.
-[^86]: A 43. § (2) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^87]: A 43. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^88]: A 43. § (4) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.
+[^86]: A 43. § (1) bekezdés c) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § o) pontja szerint módosított szöveg.
+[^87]: A 43. § (2) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^88]: A 43. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^89]: A 43. § (4) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.
