@@ -1,0 +1,1 @@
+## által kiadott okirattal igazolható.

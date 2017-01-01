@@ -2,12 +2,15 @@
 
 6. § (1) E rendelet hatálybalépését megelőzően hatályos jogszabályok alapján elismert szakképesítéseket, illetve szakirányú felsőfokú végzettségeket vagy honosított bizonyítványokat az e rendelet hatálybalépését követően szerzett szakképesítésekkel, végzettségekkel és oklevelekkel egyenrangúnak kell tekinteni, amennyiben a releváns végzettség szakmai követelményei megfelelnek az 1–3. mellékletben foglalt feltételeknek.
 
-(2) Az élelmiszer-vállalkozó felelősége, hogy az élelmiszerlánc-felügyeleti szerv kérésére igazolja az (1) bekezdésben foglalgatnak való megfelelést. Az erről szóló igazolást
+(2)[^2] Az élelmiszer-vállalkozó felelőssége, hogy az élelmiszerlánc-felügyeleti szerv kérésére igazolja az (1) bekezdésben foglaltaknak való megfelelést.
 
-a) kiadott szakképesítések megfelelősségéről a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet,
+(3)[^3] Az (1) bekezdésben foglalt egyenértékűség
 
-b) megszerzett szakirányú felsőfokú végzettségek megfelelősségéről az oklevelet kiállító intézmény vagy annak jogutódja,
+a) kiadott szakképesítés tekintetében a Herman Ottó Intézet Nonprofit Kft.,
 
-c) a külföldön megszerzett képesítések vagy végzettségek megfelelősségéről annak elismerésére vagy honosítására jogosult intézmény
+b) megszerzett szakirányú felsőfokú végzettség tekintetében az oklevelet kiállító intézmény vagy annak jogutódja,
 
-adja ki, melyet az élelmiszerlánc-felügyeleti szerv köteles elfogadni.
+c) a külföldön megszerzett képesítések vagy végzettségek tekintetében az annak elismerésére vagy honosítására jogosult intézmény
+
+[^2]: A 6. § (2) bekezdése a 89/2016. (XII. 29.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^3]: A 6. § (3) bekezdését a 89/2016. (XII. 29.) FM rendelet 15. § (2) bekezdése iktatta be.
