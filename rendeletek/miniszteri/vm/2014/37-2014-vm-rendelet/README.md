@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-37-20-2
 | 2015-03-12 | 2014-37-20-2Y.2 | 7/2015. (III. 11.) FM rendelet |
 | 2015-07-14 | 2014-37-20-2Y.3 | 40/2015. (VII. 13.) FM rendelet |
 | 2016-01-21 | 2014-37-20-2Y.4 | 4/2016. (I. 20.) FM rendelet |
+| 2017-01-01 | 2014-37-20-2Y.5 | 40/2015. (VII. 13.) FM rendelet |
