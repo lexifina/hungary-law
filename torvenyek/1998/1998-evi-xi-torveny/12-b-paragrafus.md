@@ -10,7 +10,7 @@ b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos ér
 
 (3) A bizalmi szolgáltató értesíti a területi ügyvédi kamarát a tanúsítvány kibocsátásáról.
 
-(4) Az ügyvéd az elektronikus aláírásról szóló 2001. évi XXXV. törvény 13. §-a szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a területi ügyvédi kamarát is.
+(4) Az ügyvéd az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a területi ügyvédi kamarát is.
 
 (5) Az ügyvéd nem használhatja az elektronikus aláírást, ha
 

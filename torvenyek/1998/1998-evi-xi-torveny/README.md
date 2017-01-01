@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-11-00-00
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 1998-11-00-00.41 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1998-11-00-00.42 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 1998-11-00-00.43 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 1998-11-00-00.44 |

@@ -56,7 +56,9 @@ e) irodavezető neve,
 
 f) tagjainak neve,
 
-g) tagjainak lakcíme.
+g) tagjainak lakcíme,
+
+h) az ügyvédi irodának az E-ügyintézési tv. szerinti hivatalos elérhetőségét.
 
 (3a) A (3) bekezdés szerinti nyilvántartás – a (3) bekezdés c)–g) pontja kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -87,3 +89,7 @@ g) az ügyvédi iroda névjegyzékből való törlésének időpontjáról.
 (9) A területi kamara az ügyvédi irodának a (3) bekezdés a)–f) pontjában, valamint a (8) bekezdés d)–g) pontjában foglalt adatait a honlapján közzéteszi.
 
 (10) A Magyar Ügyvédi Kamara az (1), (2) és (3) bekezdésben felsorolt adatokról központi nyilvántartást vezet.
+
+(11) A kamara a (3) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az ügyvédi iroda oda jelentette be.
+
+(12) Ha az ügyvédi iroda a (3) bekezdés h) pontja szerinti adatot a kamara felé jelentette be, a kamara azt a (11) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
