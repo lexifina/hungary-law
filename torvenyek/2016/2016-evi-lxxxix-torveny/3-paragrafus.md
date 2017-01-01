@@ -2,12 +2,12 @@
 
 a)
 
-b)
+b) 5. melléklete.
 
 (2) Hatályát veszti a Ht.
 
 a)–c)
 
-d)
+d) 68. § (5) bekezdés b) pontjában a „fajtájára,” szövegrész,
 
 e)
