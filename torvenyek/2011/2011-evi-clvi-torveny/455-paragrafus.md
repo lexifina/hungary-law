@@ -8,7 +8,7 @@ b) a kifizetőnek a természetes személlyel fennálló, adófizetési köteleze
 
 c) a tanulószerződés alapján ténylegesen kifizetett díj;
 
-d)
+d) a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási járadék;
 
 e) az a)–b) pont hatálya alá tartozó juttatás hiányában a munkaszerződésben meghatározott alapbér vagy – ha a munkát munkavégzésre irányuló egyéb jogviszonyban végzik – a szerződésben meghatározott díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér.
 
@@ -34,7 +34,7 @@ f) az egyházi jogi személy és az egyházi szolgálati viszonyban álló egyh�
 
 g) állami projektértékelői jogviszony;
 
-h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–f) pont hatálya alá nem tartozó olyan jogviszony, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
+h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–g) pont hatálya alá nem tartozó olyan jogviszony, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 
 (3) Nem eredményez adófizetési kötelezettséget
 
@@ -62,7 +62,7 @@ f) a szerzői jogi védelem, találmányi szabadalmi oltalom, védjegyoltalom, f
 
 g) a késedelmes teljesítéshez kapcsolódó kamat;
 
-h) az olyan személynek juttatott bevétel, akire a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény 11. §-a és 13. §-a szerint a biztosítási kötelezettség nem terjed ki,
+h) az olyan személynek juttatott bevétel, akire a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény 11. §-a, 11/B. §-a, és 13. §-a szerint a biztosítási kötelezettség nem terjed ki,
 
 i) az ingatlan bérbeadásából származó jövedelem;
 

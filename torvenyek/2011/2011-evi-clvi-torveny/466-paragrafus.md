@@ -44,7 +44,9 @@ m) a nemzeti felsőoktatásról szóló törvényben meghatározott hallgatói m
 
 n) a Független Rendészeti Panasztestület tagjának e jogviszonya,
 
-o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik;
+o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
+
+p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama.
 
 8. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy.
 
@@ -57,3 +59,5 @@ b) nappali rendszerű oktatás keretében a nemzeti felsőoktatásról szóló t
 c) az a) vagy b) pont szerinti jogviszonya megszűnését követően diákigazolványra jogosult, a diákigazolványra való jogosultsága lejártáig.
 
 10. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül.
+
+11. a tanulói, hallgatói jogviszony szünetelésének időtartama alatt azt az időtartamot kell érteni, amíg a tanulói, hallgatói jogviszony szünetel, valamint a szünetelést közvetlenül követő 3 hónapot.

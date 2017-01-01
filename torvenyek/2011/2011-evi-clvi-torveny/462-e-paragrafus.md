@@ -2,7 +2,7 @@
 
 462/E. § (1) A szabad vállalkozási zóna területén belül működő kifizető (ide nem értve a munkaerő-kölcsönzést folytató munkáltatót) az őt az adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló kedvezménnyel érintett munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő az új munkavállalóval létesített, adófizetési kötelezettséget eredményező munkaviszony alapján a munkavállalót az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében, 14,5 százalékával a foglalkoztatás harmadik évében.
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló kedvezménnyel érintett munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő az új munkavállalóval létesített, adófizetési kötelezettséget eredményező munkaviszony alapján a munkavállalót az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint után a 459. § (1) bekezdés szerinti adómértékkel megállapított összeggel a foglalkoztatás első két évében, 100 ezer forint után a 459. § (1) bekezdés szerinti adómérték 50 százalékával megállapított összeggel a foglalkoztatás harmadik évében.
 
 (3) A részkedvezményre való jogosultság feltétele, hogy
 

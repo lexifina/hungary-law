@@ -2,7 +2,7 @@
 
 462/H. § (1) Az a kifizető, amelynek a saját tevékenységi körben végzett kutatás-fejlesztési tevékenység közvetlen költségére tekintettel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 7. § (1) bekezdés t) pontja alapján érvényesített adóalap-csökkentés eredményeként negatív adóalapja keletkezik, a társasági adóbevallás benyújtását követő hónaptól az adófizetési kötelezettséget eredményező munkaviszonyban foglalkoztatott természetes személyekre tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) Az adókedvezmény egyenlő a Tao. törvény 7. § (1) bekezdés t) pontja alapján érvényesített adóalap-csökkentés eredményeként keletkező negatív adóalap 50 százalékának 19 százalékos adókulccsal számított összegével, de havonta legfeljebb a kutatás-fejlesztési tevékenység közvetlen költségei között megjelenő, munkaviszonyban foglalkoztatott természetes személyek vonatkozásában, az e fejezet alapján érvényesített kedvezmények után fennmaradó, az e § szerinti adókedvezmény nélkül számított adókötelezettség összegével.
+(2) Az adókedvezmény egyenlő a Tao. törvény 7. § (1) bekezdés t) pontja alapján érvényesített adóalap-csökkentés eredményeként keletkező negatív adóalap 50 százalékának a Tao. törvény 19. §-a szerinti adókulccsal számított összegével, de havonta legfeljebb a kutatás-fejlesztési tevékenység közvetlen költségei között megjelenő, munkaviszonyban foglalkoztatott természetes személyek vonatkozásában, az e fejezet alapján érvényesített kedvezmények után fennmaradó, az e § szerinti adókedvezmény nélkül számított adókötelezettség összegével.
 
 (3) Az adókedvezmény az érvényesítésének első hónapjától számított 12 hónapig vehető igénybe.
 
