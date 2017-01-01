@@ -1,10 +1,10 @@
 37. § (1) Az MKIK
 
-a)[^285] megtiltja a vállalkozó kivitelezőnek a kivitelezői tevékenység folytatását és ezzel egyidejűleg – a nyilvántartási szám hatálytalanítása mellett – törli a vállalkozó kivitelezőt a nyilvántartásból, ha
+a)[^299] megtiltja a vállalkozó kivitelezőnek a kivitelezői tevékenység folytatását és ezzel egyidejűleg – a nyilvántartási szám hatálytalanítása mellett – törli a vállalkozó kivitelezőt a nyilvántartásból, ha
 
 aa) a vállalkozó kivitelezői tevékenység bejelentésére előírt feltételeket nem teljesíti, vagy
 
-ab)[^286] a vállalkozó kivitelezői tevékenység folytatására előírt szabályok megsértése miatt az építésfelügyeleti hatóság az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt három éven belül két alkalommal jogerősen építésfelügyeleti bírsággal sújtotta,
+ab)[^300] a vállalkozó kivitelezői tevékenység folytatására előírt szabályok megsértése miatt az építésfelügyeleti hatóság az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt három éven belül két alkalommal jogerősen építésfelügyeleti bírsággal sújtotta,
 
 b) a nyilvántartási szám hatálytalanítása mellett törli a kivitelezőt a nyilvántartásból, ha
 
@@ -14,7 +14,7 @@ bb) határozott időre szóló bejelentés esetén a bejelentés hatálya megsz�
 
 bc) a vállalkozó kivitelező megszűnik, a megszűnés időpontjával.
 
-(1a)[^287] Az MKIK a nyilvántartási szám hatálytalanítása mellett törli a vállalkozó kivitelezőt a nyilvántartásból, ha
+(1a)[^301] Az MKIK a nyilvántartási szám hatálytalanítása mellett törli a vállalkozó kivitelezőt a nyilvántartásból, ha
 
 a) az Étv. 58. § (11) bekezdése szerinti bírósági értesítés, vagy
 
@@ -22,11 +22,11 @@ b) nemfizetési jelzés
 
 alapján megállapított fizetési kötelezettségének teljesítését a 40/B. § (3) vagy (5) bekezdése szerint nem igazolta.
 
-(1b)[^288] Az (1) bekezdés a) pont ab) alpontja és az (1a) bekezdés szerinti törlés jogkövetkezményei nem érintik a törlési határozat jogerőssé válása előtt megkötött szerződésekből eredő jogokat és kötelezettségeket.
+(1b)[^302] Az (1) bekezdés a) pont ab) alpontja és az (1a) bekezdés szerinti törlés jogkövetkezményei nem érintik a törlési határozat jogerőssé válása előtt megkötött szerződésekből eredő jogokat és kötelezettségeket.
 
 (2) A Szolgtv. III. Fejezetében foglalt követelmények betartásának ellenőrzése tekintetében szolgáltatás felügyeletét ellátó hatóságként az MKIK jár el.
 
-[^285]: A 37. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (15) bekezdésével megállapított szöveg.
-[^286]: A 37. § (1) bekezdés a) pont ab) alpontja a 156/2016. (VI. 13.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
-[^287]: A 37. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.
-[^288]: A 37. § (1b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.
+[^299]: A 37. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (15) bekezdésével megállapított szöveg.
+[^300]: A 37. § (1) bekezdés a) pont ab) alpontja a 156/2016. (VI. 13.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
+[^301]: A 37. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.
+[^302]: A 37. § (1b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.

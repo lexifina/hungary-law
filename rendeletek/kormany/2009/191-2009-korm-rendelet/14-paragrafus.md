@@ -1,14 +1,14 @@
-## 14. §[^101] Az építésügyi hatósági engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építőipari kivitelezési tevékenységek befejezését követően a fővállalkozó kivitelező az építési napló összesítő lapján arról nyilatkozik, hogy
+## 14. §[^105] Az építésügyi hatósági engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építőipari kivitelezési tevékenységek befejezését követően a fővállalkozó kivitelező az építési napló összesítő lapján arról nyilatkozik, hogy
 
-a)[^102] az építőipari kivitelezési tevékenységet a jogerős építési engedélynek és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint
+a)[^106] az építőipari kivitelezési tevékenységet a jogerős építési engedélynek és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint
 
-b)[^103] az 1. melléklet szerinti tartalmú és rendelkezésre álló kivitelezési (megvalósulási) tervdokumentációnak megfelelően,
+b)[^107] a 22. § (2) bekezdés és az 1. melléklet szerinti tartalmú és rendelkezésre álló kivitelezési (megvalósulási) tervdokumentációnak megfelelően,
 
 c) az építőipari kivitelezési tevékenységre vonatkozó jogszabályok, általános érvényű és eseti előírások, így különösen a statikai és az épületenergetikai követelmények, szakmai, minőségi, környezetvédelmi és biztonsági előírások megtartásával szakszerűen végezték,
 
-d)[^104] az építmény kivitelezése során alkalmazott műszaki megoldás az Étv. 31. § (2) bekezdésében meghatározott követelményeknek megfelel,
+d)[^108] az építmény kivitelezése során alkalmazott műszaki megoldás az Étv. 31. § (2) bekezdésében meghatározott követelményeknek megfelel,
 
-e)[^105] a jogerős építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól, valamint az 1. melléklet szerinti kivitelezési dokumentációtól való eltérés esetén az eltérés felsorolásával és szükségességének ismertetésével,
+e)[^109] a 22. § (2) bekezdése és az 1. melléklet szerinti kivitelezési dokumentációtól eltérés történt-e, és ha igen, azt ismerteti,
 
 f) a külön jogszabályban előírt egyeztetés eredményeképpen a közműellátás szakszerűen biztosított,
 
@@ -16,8 +16,8 @@ g) az építési munkaterületen keletkezett építési-bontási hulladék menny
 
 h) az építmény rendeltetésszerű és biztonságos használatra alkalmas.
 
-[^101]: A 14. § nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § g) pontja, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 8. pont 8.1. alpontja, a 156/2016. (VI. 13.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^102]: A 14. § a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 8. pont 8.2. alpontja szerint módosított szöveg.
-[^103]: A 14. § b) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 8. pont 8.3. alpontja szerint módosított szöveg.
-[^104]: A 14. § d) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § h) pontja szerint módosított szöveg.
-[^105]: A 14. § e) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^105]: A 14. § nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § g) pontja, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 8. pont 8.1. alpontja, a 156/2016. (VI. 13.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^106]: A 14. § a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 8. pont 8.2. alpontja szerint módosított szöveg.
+[^107]: A 14. § b) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 8. pont 8.3. alpontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
+[^108]: A 14. § d) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § h) pontja szerint módosított szöveg.
+[^109]: A 14. § e) pontja a 482/2016. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.

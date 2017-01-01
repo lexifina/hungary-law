@@ -14,7 +14,7 @@ ae) a nyilvántartásból való törlés tényét az alapul szolgáló ok megjel
 
 b) az Étv. 39. § (4) bekezdésének hatálya alá tartozó kivitelező esetén – a Szolgtv. 27. § (2) bekezdés b) pontjában meghatározott adatokon kívül – az a) pont ab)–ae) alpontjában foglaltakat.
 
-c)[^284] az a) és b) pont körébe tartozó vállalkozó kivitelezők 40/A. § szerinti teljesítésre való alkalmasságának megállapítását segítő dokumentumokat és nyilatkozatokat.
+c)[^298] az a) és b) pont körébe tartozó vállalkozó kivitelezők 40/A. § szerinti teljesítésre való alkalmasságának megállapítását segítő dokumentumokat és nyilatkozatokat.
 
 (2) A vállalkozó kivitelezők nyilvántartása részét képezi azoknak a szolgáltatóknak a névjegyzéke, amelyeknek az építésfelügyeleti hatóság vagy a nyilvántartásból való törlésével az MKIK a 37. § (1) bekezdés a) pontjában foglaltak alapján jogerősen megtiltotta a vállalkozó kivitelezői tevékenység folytatását.
 
@@ -24,4 +24,4 @@ c)[^284] az a) és b) pont körébe tartozó vállalkozó kivitelezők 40/A. § 
 
 (5) A vállalkozó kivitelezők nyilvántartásában szereplő adatok hitelességéért a vállalkozó kivitelező felelős.
 
-[^284]: A 36. § (1) bekezdés c) pontját a 322/2012. (XI. 16.) Korm. rendelet 87. §-a iktatta be.
+[^298]: A 36. § (1) bekezdés c) pontját a 322/2012. (XI. 16.) Korm. rendelet 87. §-a iktatta be.
