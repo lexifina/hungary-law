@@ -1,157 +1,127 @@
-2. melléklet a 65/2013. (III. 8.) Korm. rendelethez
+2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^27]
 
-## AZ ÜZEMELTETŐI BIZTONSÁGI TERV LEHETSÉGES KÖVETELMÉNYEI
+## AZ ÜZEMELTETŐI BIZTONSÁGI TERV FELÉPÍTÉSE
 
-1. Tartalmi követelmények
+I. Tartalmi követelmények
 
-1.1. Általános bemutatás
+1. Általános bemutatás
 
-Az üzemeltető az Üzemeltetői Biztonsági Tervben megadja a létfontosságú rendszerelemek védelmével kapcsolatos fő célkitűzéseit, továbbá összefoglaló jelleggel ismerteti az alábbi területeken bevezetett, működtetett intézkedéseit, szervezetét, irányítási rendszereit:
+Az üzemeltető megadja a kijelölt rendszerelem adatait: megnevezése, üzemeltetető neve, székhelye, lakcíme, levelezési címe, cégjegyzékszáma vagy az egyéni vállalkozói nyilvántartási száma, adóazonosító száma, képviselőjének neve, telefon- és telefaxszáma, e-mail-címe, pontos cím hiányában a kijelölt rendszerelem elhelyezkedésére vonatkozó más azonosító adat és földrajzi koordináta, a biztonsági összekötő neve, elérhetőségei.
 
-a) szervezet és személyzet,
+Az üzemeltető általánosságban bemutatja a szervezetét, tevékenységét, irányítási rendszerét, a kijelölt rendszerelem védelmével kapcsolatos fő célkitűzéseit, a horizontális és ágazati kritériumok teljesülését, indokoltságát:
 
-b) a rendszer és létesítményelemeinek azonosítása és értékelése,
+a) szervezeti struktúra és üzemvezetés;
 
-c) üzemvezetés,
+b) személyzet (saját munkavállalók, külső, szerződéses munkavállalók);
 
-d) a változtatások kezelése,
+c) kijelölt rendszerelem tevékenységének/működésének általános bemutatása, az elvárt, normális működés paraméterei;
 
-e) védelmi tervezés,
+d) kijelölt rendszerelem elemeinek azonosítása és értékelése a teljesült ágazati és horizontális kritériumok alapján;
 
-f) belső audit és vezetőségi átvizsgálás,
+e) belső audit és vezetőségi átvizsgálás;
 
-g) még elégséges szolgáltatás sztrájk esetén.
+f) a változtatások kezelése és annak követése.
 
-1.2. A létfontosságú rendszerelemek környezetének bemutatása
+2. A kijelölt rendszerelem környezetének bemutatása
 
-1.2.1. A bemutatás legalább az alábbi adatokat tartalmazza:
+Az üzemeltető bemutatja a kijelölt rendszerelem környezetét a következők szerint:
 
-a) az érintett lakott területek jellemzése,
+a) a környező területek jellemzése;
 
-b) a lakosság által leginkább látogatott létesítmények (állandó, ideiglenes), közintézmények (iskolák, kórházak, templomok, rendőrség, tűzoltóság stb.),
+b) a működést biztosító közműszolgáltatások, szolgáltatók bemutatása:
 
-c) a különleges természeti értéket képviselő területek, műemlékek és turisztikai nevezetességek,
+ba) elektromos áramellátás biztosítása,
 
-d) rendkívüli esemény által potenciálisan érintett – különösen a lakosság és a gazdasági társaságok ellátását érintő – más közművek, szolgáltatások,
+bb) vezetékes gázellátás biztosítása,
 
-e) működő gazdálkodó szervezetek, ipari és mezőgazdasági tevékenységek jellemzése, ismertetése, az ezekkel való esetleges kapcsolatok ismertetése (technológiai, közmű-szolgáltatási kapcsolat stb.).
+bc) közüzemi ivóvízellátás, közüzemi szennyvízelvezetés és -tisztítás biztosítása,
 
-1.2.2. A létfontosságú rendszerelemek kihasználtsága, forgalmi adatok.
+bd) infokommunikációs hálózati ellátás,
 
-1.2.3. A létfontosságú rendszerelemek környezetében más üzemeltetők által folytatott tevékenységek ismerete, a lehetséges hatások figyelembevétele.
+be) egyéb;
 
-1.2.4. A természeti környezetre vonatkozó legfontosabb információk:
+c) a kijelölt rendszerelem környezetében található, a működésére befolyással bíró veszélyes üzemek, gyárak, erőművek megnevezése, címe, tevékenységi köre;
 
-a) a területre jellemző, a létfontosságú rendszerelemek sérülését eredményező és a következmények alakulására hatást gyakorló meteorológiai jellemzők,
+d) a természeti környezetre vonatkozó legfontosabb információk:
 
-b) a helyszínt jellemző, a létfontosságú rendszerelemek biztonságos tevékenységére, üzemeltetésére, működésére hatást gyakorló legfontosabb geológiai és hidrológiai jellemzők.
+da) a területre jellemző, a kijelölt rendszerelem sérülését eredményező és a következmények alakulására hatást gyakorló meteorológiai jellemzők,
 
-1.3. A létfontosságú rendszerelemek bemutatása
+db) a helyszínt jellemző, a kijelölt rendszerelem biztonságos tevékenységére, üzemeltetésére, működésére hatást gyakorló legfontosabb geológiai és hidrológiai jellemzők.
 
-Tartalmazza:
+3. A kijelölt rendszerelem bemutatása
 
-a) a rendkívüli esemény forrásaira, azok körülményeire vonatkozó információt,
+Az üzemeltető ismerteti a kijelölt rendszerelem felépítését, elemeit, azok részletes tevékenységi körét, továbbá ezen részekről mellékel egy méretarányos ábrát, helyszínrajzot, valamint hozzátartozó útmutatót, magyarázatot. A bemutatás kiemelten tartalmazza a kijelölt rendszerelem működését releváns módon befolyásoló informatikai rendszerek, eszközök, hálózatok ismertetését és a működésben betöltött szerepük leírását.
 
-b) helyszínrajzot, amely bemutatja az elemeket, és vázlatosan feltünteti a létfontosságú elemet,
+A kijelölt rendszerelem felépítésének, elemeinek, részletes tevékenységének, termelési, működési folyamatainak bemutatását az alábbi szempontok alapján kell elvégezni:
 
-c) a lehetséges veszélyt jelentő anyagok, berendezések megjelölését, mennyiségét, tárolási adatait,
+a) a kijelölt rendszerelem felépítése, elemei (helyszínrajz, amely bemutatja az elemeket, és vázlatosan feltünteti a létfontosságú elemet a hozzá tartozó útmutatóval, magyarázattal);
 
-d) a használat, igénybevétel folyamatát, idejét,
+b) kiszolgáló infrastruktúra (közműhálózatok, technikai berendezések, szolgáltatást végző partnerek);
 
-e) a tevékenységekre vonatkozó legfontosabb technológiai és karbantartási folyamatokat, műveleteket,
+c) részletes tevékenység, a tevékenységekre vonatkozó legfontosabb technológiai és karbantartási folyamatok, műveletek;
 
-f) a főbb fenyegetettségek elemzését és az egyes elemek sebezhetőségén, valamint a lehetséges hatásokon alapuló kockázatelemzést.
+d) tartalék rendszerelemek;
 
-1.4. Rendszer és létesítmény bemutatása
+e) a lehetséges veszélyt jelentő anyagok, berendezések megjelölése, mennyisége, tárolási adatai;
 
-Be kell mutatni az infrastruktúrát, elkülönítetten az egyes létesítményekhez tartozó külön, és az egész infrastruktúrához tartozó elemeket, amelyek az alábbiakra terjednek ki:
+f) a működésben releváns informatikai rendszerek, alkalmazások, hálózatok, azok funkciója;
 
-a) tartalék rendszerelemek megléte,
+g) a normál működési rend során a kijelölt rendszerelem működését garantáló eszközök, berendezések, technológiai és karbantartási folyamatok, műveletek menete, naplózása, ütemezése;
 
-b) sérülés esetén a helyreállítás módja, az ahhoz szükséges anyagok tárolásának helye, a helyszínre juttatás biztosításának ideje és módja,
+h) belső és külső tájékoztatási rendszerek;
 
-c) javító és karbantartó tevékenység,
+i) felügyeleti és biztonsági szervezetek, eszközrendszerük, működésük (biztonsági szolgálat, elsősegélynyújtó és mentőszervezetek, munka-, tűz- és környezetvédelmi szolgálat, műszaki biztonsági szolgálat, katasztrófaelhárítási szervezet, távfelügyeleti és monitoringhálózatok, laboratóriumi hálózat, beléptető és az idegen behatolást érzékelő rendszerek stb.).
 
-d) alternatív megoldások,
+4. Kockázatok azonosítása, értékelése
 
-e) javíthatóság, helyreállítás megvalósíthatósága,
+Az üzemeltető azonosítja és értékeli a kijelölt rendszerelemmel összefüggő kockázatokat a következők szerint:
 
-f) belső és külső tájékoztatási rendszerek,
+a) kockázati lista [milyen releváns belső, külső kockázatok veszélyeztetik a kijelölt rendszerelem működését: gazdasági, technológiai, infrastrukturális (közműszolgáltatások kiesése, belső infrastruktúrák kiesése), humán, fizikai, információs technológiai, természeti, civilizációs katasztrófák, terrorizmus, egészségügyi, környezeti, társadalmi, logikai, földrajzi stb.];
 
-g) munkavédelem,
+b) a kijelölt rendszerelem kölcsönösen függő (interdependens) kapcsolódásai és az azokból adódó kockázatok felmérése (a kijelölt rendszerelem kiesése milyen más ágazatokra, szervezetekre, személyekre van hatással);
 
-h) vezetési pontok és a kimenekítéshez kapcsolódó létesítmények,
+c) a kockázatok valószínűsíthető okainak feltárása, a bekövetkezéskor prognosztizálható negatív hatások meghatározása;
 
-i) elsősegélynyújtó és mentő szervezetek,
+d) a felmerült kockázatok értékelése a bekövetkezési valószínűség és az okozott káros hatások meghatározásával.
 
-j) környezetvédelmi szolgálat,
+5. Kockázatkezelés
 
-k) műszaki biztonsági szolgálat,
+Az üzemeltető meghatározza a szükséges beavatkozás szintjeit a kockázati értékek szerint. Az üzemeltető bemutatja a feltárt kockázatok kezelésére vonatkozó szabványok, intézkedések, belső utasítások, eljárások, szabályok rendszerét, szükség szerint röviden ismerteti tartalmát.
 
-l) katasztrófa elhárítási szervezet,
+6. A kijelölt rendszerelem védelmének eszközrendszere
 
-m) fix és mobil laboratóriumi hálózat,
+Az üzemeltető megjelöli azokat a biztonsági intézkedéseket, amelyek kialakítása és működtetése biztosítja a kijelölt rendszerelem védelmét, továbbá meghatározza azokat az ideiglenes intézkedéseket, amelyeket a rendkívüli esemény okozta veszélyhelyzeti működés során a különböző kockázati és veszélyszinteknek megfelelően foganatosít. Ezen belül meghatározza a veszélyhelyzeti működés, rendkívüli esemény kritériumait (a normális működéssel történő összevetésben).
 
-n) kézi mérőműszerek és monitoring hálózatok,
+Rendkívüli eseménynek tekintendő olyan külső vagy belső behatás, amely a kijelölt rendszerelem rendeltetésszerű működését jelentős mértékben veszélyezteti, akadályozza. Jelentősnek minősül az az esemény, melyet az üzemeltető saját erőforrásaival, külső segítség nélkül nem képes kezelni, elhárítani.
 
-o) biztonsági szolgálat,
+Az üzemeltető bemutatja a kijelölt rendszerelem elemeinek és egészének védelmére rendszeresített felszereléseket és a vezetéshez, a döntés-előkészítéshez szükséges infrastruktúrát a következők szerint:
 
-p) beléptető és az idegen behatolást érzékelő rendszerek.
+a) a veszélyhelyzeti vezetési létesítmények;
 
-1.5. A részletes elemzéssel vizsgált lehetséges rendkívüli események bemutatása
+b) a vezetői állomány veszélyhelyzeti értesítésének eszközrendszere;
 
-Az üzemeltető ismerteti a valós viszonyokra épülő rendkívüli eseménysorokat. Alapkövetelmény, hogy az önmagában legyen alkalmas a folyamatok, körülmények kellően részletes megismerésére
+c) a dolgozók veszélyhelyzeti riasztásának eszközrendszere;
 
-a) szöveges leíró és folyamatábrán (sérülés lehetséges fajtái, érintett környezet és lakosság meghatározása),
+d) a veszélyhelyzeti híradás eszközei és rendszerei;
 
-b) rajzi megjelenítésen,
+e) a veszélyhelyzet értékelését és a döntések előkészítését segítő informatikai rendszerek;
 
-c) méretarányos összeállítási jellegű vázlaton, metszetrajzon, fényképen.
+f) a veszélyhelyzet kezelésének eljárásrendje;
 
-1.6. A létfontosságú rendszerelemek védelmének eszközrendszere
+g) a riasztást, a védekezést és a következmények csökkentését végző végrehajtó szervezetek rendszeresített egyéni védőeszközei és szaktechnikai eszközei;
 
-Az üzemeltető megjelöli azokat a biztonsági intézkedéseket, amelyek kialakítása és működtetése biztosítja a létfontosságú rendszerelemek védelmét, továbbá meghatározza azokat az ideiglenes intézkedéseket, amelyeket a különböző kockázati és veszélyszinteknek megfelelően foganatosít. Bemutatja az infrastruktúra elemeinek és egészének védelmére rendszeresített felszereléseket és a vezetéshez, a döntés-előkészítéshez szükséges infrastruktúrát:
+h) a védekezésbe bevonható (nem közvetlenül erre a célra létrehozott) belső és a külső erők és eszközök;
 
-a) a veszélyhelyzeti vezetési létesítményeket,
+i) a kijelölt rendszerelem kiesése következtében alkalmazható vagy rendelkezésre álló alternatív megoldások;
 
-b) a vezetőállomány veszélyhelyzeti értesítésének eszközrendszerét,
+j) rendkívüli eseménykor értesítendők köre.
 
-c) a dolgozók veszélyhelyzeti riasztásának eszközrendszerét,
+7. Az üzemeltetői biztonsági terv elkészítésébe bevont személyek, szervezetek megjelölése
 
-d) a veszélyhelyzeti híradás eszközeit és rendszereit,
+Az üzemeltető megjelöli az üzemeltetői biztonsági terv elkészítésébe bevont személyeket, szervezeteket.
 
-e) a távérzékelő rendszereket,
+II. Formai követelmények
 
-f) a helyzet értékelését és a döntések előkészítését segítő informatikai rendszereket,
+Az üzemeltetői biztonsági tervet írásban kell elkészíteni és a nyilvántartó, valamint a kijelölő hatóság részére egy-egy eredeti – az üzemeltető és a biztonsági összekötő személy által aláírt – példányban papíralapon, továbbá elektronikus adathordozón is be kell nyújtani. A térképeket, a rajtuk szereplő méretaránynak megfelelően, nyomtatott formában is be lehet nyújtani. A térképvázlat vagy helyszínrajz tartalmazza a kijelölt rendszerelem egészét, és olyan méretarányú legyen, amely a megfelelő eligazodást biztosítja.
 
-g) a riasztást, a védekezést és a következmények csökkentését végző végrehajtó szervezetek rendszeresített egyéni védőeszközeit és szaktechnikai eszközeit,
-
-h) a védekezésbe bevonható (nem közvetlenül erre a célra létrehozott) belső és a külső erőket és eszközöket,
-
-i) a létfontosságú rendszerelemek kiesése következtében alkalmazható vagy rendelkezésre álló alternatív megoldásokat.
-
-1.7. A létfontosságú rendszerelemek irányítási rendszere
-
-Az adott elem sérülési, megsemmisülési kockázatának elemzése alapján be kell mutatni a létfontosságú rendszerelemek védelmét szolgáló biztonsági intézkedéseket, azok alkalmazott módszereit. Az irányítási rendszer az alábbi adatokat tartalmazza:
-
-a) a biztonsági irányítási rendszer szervezeti felépítése,
-
-b) a szervezet minden szintjén megjelölt, az infrastruktúra védelmének irányításába, végrehajtásába bevont személyek, azok feladat- és hatásköre, felkészítésükhöz szükséges követelmények és erőforrások,
-
-c) a veszélyazonosítás és kockázatelemzés eredményei alapján az üzemeltető által kialakított biztonsági irányítási rendszer normái, és a biztonságos üzemeltetésre vonatkozó technológiai leírások, utasítások és egyéb szabályozók,
-
-d) a létfontosságú rendszereket vagy azok elemeit érintő, a biztonságra vonatkozó változások/változtatások,
-
-e) a megelőzéssel és felkészüléssel kapcsolatos feladatok végrehajtási helyzetének értékelése,
-
-f) az üzemeltetőnek a létfontosságú rendszert, vagy egyes elemét ért eseményekről adandó tájékoztatási, jelentési rendszere.
-
-1.8. A terv elkészítésébe bevont személyek, szervezetek megjelölése.
-
-2. Formai követelmények
-
-2.1. Az üzemeltetői biztonsági tervet írásban kell elkészíteni és a nyilvántartó, valamint a kijelölő hatóság részére két eredeti – az üzemeltető és a biztonsági összekötő személy által aláírt – példányban papír alapon, továbbá elektronikus adathordozón is be kell nyújtani. A térképeket, a rajtuk szereplő méretaránynak megfelelően, nyomtatott formában is be lehet nyújtani.
-
-2.2. A térképvázlat vagy helyszínrajz olyan méretarányú legyen, amely a megfelelő eligazodást biztosítja.
-
-2.3. Az alaprajz, a vázlat vagy a helyszínrajz tartalmazza a létfontosságú rendszerelemek egészét, a veszélyeztetett területeket és a létesítményeket.
+[^27]: A 2. melléklet a 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

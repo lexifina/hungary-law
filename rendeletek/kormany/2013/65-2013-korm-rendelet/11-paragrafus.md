@@ -1,12 +1,12 @@
 ## 10. Együttműködés
 
-11. § (1)[^5] A 4. § (2) bekezdése szerinti szakhatósági eljárásban vagy a 4. § (2a) bekezdése szerinti hatósági eljárásban a pénz- és adóügyi biztonság vonatkozásában a Nemzeti Adó- és Vámhivatal területi, illetve központi szerve, a közrend, a közbiztonság, a lakosságvédelem, az alkotmányvédelem, a nemzetbiztonság, a terrorelhárítás vonatkozásában az általános rendőrségi feladatok ellátására létrehozott szerv területi, illetve központi szerve, az Alkotmányvédelmi Hivatal területi, illetve központi szerve, valamint a Terrorelhárítási Központ véleményt nyilvánít.
+11. § (1)[^15] A 4. § (2) bekezdése szerinti szakhatósági eljárásban vagy a 4. § (2a) bekezdése szerinti hatósági eljárásban a pénz- és adóügyi biztonság vonatkozásában a Nemzeti Adó- és Vámhivatal területi, illetve központi szerve, a közrend, a közbiztonság, a lakosságvédelem, az alkotmányvédelem, a nemzetbiztonság, a terrorelhárítás vonatkozásában az általános rendőrségi feladatok ellátására létrehozott szerv területi, illetve központi szerve, az Alkotmányvédelmi Hivatal területi, illetve központi szerve, valamint a Terrorelhárítási Központ véleményt nyilvánít.
 
-(2)[^6] Az 1. melléklet szerinti politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott, a környezeti hatás kérdésében a környezetvédelmi feladatkörében eljáró megyei kormányhivatal, és az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség véleményt nyilvánít.
+(2)[^16] Az 1. melléklet szerinti politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott, a környezeti hatás kérdésében a területi környezetvédelmi hatóság, és az országos természetvédelmi és környezetvédelmi hatóság véleményt nyilvánít.
 
 (3) Az (1) bekezdésben meghatározott szervek ellenőrzési tevékenységük során a kijelölés alapjául szolgáló körülmények változatlan fennállásán kívül vizsgálják a létfontosságú rendszerelemek, az azokhoz tartozó közterületek, valamint az azokat felügyelő, működtető személyek azon fizikai, humán és informatikai biztonsági feltételeinek meglétét, amelyek garantálják az azonosított kockázatokkal szembeni védelmet, a rendeltetésszerű működést, a szándékos és nem szándékos károkozás elkerülését.
 
-(4) A 8. § (1) bekezdésében meghatározott ellenőrzési terv elkészítése érdekében az érintett hatóságok az együttműködés keretében, minden évben legkésőbb február 15. napjáig megküldik a hivatásos katasztrófavédelmi szerv központi szerve részére az ellenőrzési terv elkészítéséhez szükséges javaslataikat, melyeket egyúttal a saját ellenőrzési rendszerükben is megjelenítenek.
+(4)[^17] A 8. § (1) bekezdésében meghatározott ellenőrzési terv elkészítése érdekében az érintett hatóságok az együttműködés keretében, minden évben legkésőbb a tárgyévet megelőző év október 15. napjáig megküldik a hivatásos katasztrófavédelmi szerv központi szerve részére az ellenőrzési terv elkészítéséhez szükséges javaslataikat, melyeket egyúttal a saját ellenőrzési rendszerükben is megjelenítenek.
 
 (5) Az üzemeltető az együttműködés keretében katasztrófaveszély vagy katasztrófa esetén haladéktalanul köteles a kijelölő hatóságot és a hivatásos katasztrófavédelmi szerv központi szervét értesíteni.
 
@@ -22,5 +22,6 @@ d) a szükséges erők, eszközök bevonására az érintett kijelölő hatósá
 
 e) a kiváltó okok azonosításában, a tett intézkedések értékelésében, az érintett kijelölő hatóság, a beavatkozást végző szervek és a biztonsági összekötő személy együtt vesz részt.
 
-[^5]: A 11. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 723. § b) pontja szerint módosított szöveg.
-[^6]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 140. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 224. §-a szerint módosított szöveg.
+[^15]: A 11. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 723. § b) pontja szerint módosított szöveg.
+[^16]: A 11. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 228. §-ával megállapított szöveg.
+[^17]: A 8. § (4) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
