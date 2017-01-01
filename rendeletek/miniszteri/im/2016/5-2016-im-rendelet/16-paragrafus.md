@@ -1,3 +1,1 @@
-## 15. §[^12]
-
-[^12]: A 15. § a – 18/2016. (VIII. 30.) IM rendelet 10. §-ával megállapított – 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## „(3) E rendeletnek a Magyar Bírósági Végrehajtói Kar egyes feladatairól, valamint egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 5/2016. (III. 8.) IM rendelettel megállapított rendelkezéseit a 2016. szeptember 1. napját követően elrendelt végrehajtási ügyek vonatkozásában kell alkalmazni.”
