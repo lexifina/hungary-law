@@ -16,7 +16,7 @@
 
 23.
 
-24.
+24. 161. § (1) bekezdésében a „15 nap elteltével megkeresi” szövegrész helyébe a „15 nap elteltével elektronikus úton megkeresi” szöveg,
 
 25–29.
 

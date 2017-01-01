@@ -1,1 +1,11 @@
-36. §
+36. § A Katv. 32. §-a a következő (6)–(10) bekezdéssel egészül ki:
+
+„(6) Az állami adó- és vámhatóság a nyilvántartásában szereplő adatok alapján megállapítja az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontja szerinti csökkentő tétel összegét és arról, valamint annak levezetéséről 2017. december 31-ig tájékoztatást küld az érintett adózónak.
+
+(7) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontját az adózó abban az adóévben alkalmazhatja, melynek első napja 2017-ben van.
+
+(8) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (3) bekezdés b) pontját és 20. § (4) bekezdés b) pontját a 2017. adóévi adókötelezettség megállapításakor a kisvállalati adóalanyiság időszaka alatt jóváhagyott, de még be nem folyt vagy ki nem fizetett osztalék összegére is alkalmazni kell.
+
+(9) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (3) bekezdés b) pontja szerint meghatározott módosító tétel összegét csökkenti a 2017. adóévi adókötelezettség megállapításakor a 2017. adóévben jóváhagyott osztalékra tekintettel a kisvállalati adóalanyiság időszaka alatt, 2016. december 31-ig kifizetett osztalékelőleg összege.
+
+(10) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés b) pontja szerint meghatározott módosító tétel összegét növeli a 2017. adóévi adókötelezettség megállapításakor a 2017. adóévben jóváhagyott osztalékra tekintettel kisvállalati adóalanyiság időszaka alatt, 2016. december 31-ig kapott osztalékelőleg összege.”
