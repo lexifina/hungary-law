@@ -1,0 +1,1 @@
+## 10. § Az állami adó- és vámhatóság vezetője a Hszt. 82/D. § (3) bekezdése szerinti határozatát az iratok alapján hozza meg, a Hszt. 82/A. § (1) bekezdésében foglalt feltételek vizsgálatát követően.

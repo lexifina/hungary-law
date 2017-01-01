@@ -1,0 +1,7 @@
+## 13. § Az egészségkárosodási ellátásra jogosult köteles a központi humánigazgatási szervezeti egységet a rehabilitációs hatóság által megállapított felülvizsgálat időpontját követően annak eredményéről és az újabb felülvizsgálat időpontjáról a rehabilitációs hatóság által kiadott szakvélemény eredeti példányának bemutatásával és másolatának csatolásával vagy az eredeti komplex minősítésről szóló bizottsági vélemény hiteles másolatának rendelkezésre bocsátásával tájékoztatni.
+
+14. § (1) A központi humánigazgatási szervezeti egység az egészségkárosodási ellátásra jogosultság lejártát megelőző 90 nappal megküldi a FÜV Bizottságnak az érintett személy egészségkárosodási ellátásának megállapításával kapcsolatos iratokat, és a FÜV Bizottság intézkedik a Hszt. 82/E. § (3) bekezdés b) pontjának vizsgálata iránt. A FÜV Bizottság vagy a rendelkezésére álló iratok alapján ad állásfoglalást, vagy további, az egészségi állapotra vonatkozó iratokat kérhet be az egészségkárosodási ellátásra jogosulttól, valamint személyes meghallgatásra is behívhatja őt.
+
+(2) A FÜV Bizottság az (1) bekezdés szerinti állásfoglalását és az iratokat legkésőbb az egészségkárosodási ellátásra jogosultság lejártát megelőző 30 nappal megküldi a központi humánigazgatási szervezeti egység részére.
+
+(3) Ha a FÜV Bizottság állásfoglalása alapján az egészségi alkalmasság ismételten megállapítható, a központi humánigazgatási szervezeti egység megvizsgálja, hogy van-e a Hszt. 82/J. § (1) bekezdés e) pontja szerinti, felajánlható álláshely.

@@ -1,0 +1,1 @@
+## 12. § Az egészségkárosodási ellátásra jogosultságot megállapító határozat közlését követően a központi humánigazgatási szervezeti egység gondoskodik a határidők nyilvántartásáról és figyelemmel kíséréséről annak érdekében, hogy a Hszt. 82/E. § (1)–(3) bekezdése szerint az egészségkárosodási ellátásra való jogosultság meghosszabbítása időben végrehajtható legyen.

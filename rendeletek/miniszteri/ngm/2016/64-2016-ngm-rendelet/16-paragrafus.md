@@ -1,0 +1,1 @@
+## 15. § Az egészségkárosodási ellátásra jogosultság időtartamát meghosszabbító határozat meghozatalához szükséges adatokat a központi humánigazgatási szervezeti egység hivatalból bocsátja a FÜV Bizottság rendelkezésére.

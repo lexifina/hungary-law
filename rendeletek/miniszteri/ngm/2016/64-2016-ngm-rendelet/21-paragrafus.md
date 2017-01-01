@@ -1,0 +1,1 @@
+## 20. § Az egészségkárosodási ellátásra való jogosultság megszűnése esetén a központi humánigazgatási szervezeti egység az egészségkárosodási ellátásra való jogosultság időtartamának leteltét követően haladéktalanul intézkedik az egészségkárosodási ellátás folyósításának megszüntetése iránt.

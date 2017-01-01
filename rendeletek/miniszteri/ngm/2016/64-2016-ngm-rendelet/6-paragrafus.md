@@ -1,0 +1,1 @@
+## 5. § A Hszt. 82/A. § (1) bekezdés c) pontjában meghatározott feltétel fennállását, a Hszt. 82/A. § (5) bekezdésében meghatározott kizáró ok hiányát, valamint a 82/A. § (3) bekezdésében meghatározott esetben a tényleges szolgálati idő tartamát az illetékes humánigazgatási feladatokat ellátó szervezeti egység ellenőrzi a személyügyi nyilvántartásban.
