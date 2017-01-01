@@ -1,3 +1,3 @@
-32. §[^24]
+## 31. §[^20]
 
-[^24]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 31. §-t a 345/2015. (XI. 19.) Korm. rendelet 52. § 3. pontja hatályon kívül helyezte.
