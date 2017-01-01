@@ -14,7 +14,7 @@
 
 (5) Ugyanarra a bejelentett táblára csak egy egységes területalapú támogatási kérelem alapján fizethető ki támogatás.
 
-(6) A támogathatóság tekintetében a nem mezőgazdasági célra ideiglenesen használt területnél a mezőgazdasági célokon kívül eső hasznosítás időszakát úgy kell megválasztani, hogy ne veszélyeztesse a mezőgazdasági főtevékenységet, és időtartama ne haladja meg az évi hatvan napot. Az adott terület vonatkozásában jogszerű földhasználó mezőgazdasági termelőnek a nem mezőgazdasági tevékenység időtartamát és jellegét a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részére a tevékenység megkezdését követően tíz napon belül, az MVH által rendszeresített elektronikus nyomtatványon kell bejelentenie.
+(6)[^4] A támogathatóság tekintetében a nem mezőgazdasági célra ideiglenesen használt területnél a mezőgazdasági célokon kívül eső hasznosítás időszakát úgy kell megválasztani, hogy ne veszélyeztesse a mezőgazdasági főtevékenységet, és időtartama ne haladja meg az évi hatvan napot. Az adott terület vonatkozásában jogszerű földhasználó mezőgazdasági termelőnek a nem mezőgazdasági tevékenység időtartamát és jellegét a Magyar Államkincstár (a továbbiakban: Kincstár) részére a tevékenység megkezdését követően tíz napon belül, a Kincstár által rendszeresített elektronikus nyomtatványon kell bejelentenie.
 
 (7) Szántóterületet csak az egységes kérelemben jelzett, bejelentett kultúrák vegetációs időszakán kívül lehet – a (6) bekezdés szerint – ideiglenesen más célra használni. Nem minősül nem mezőgazdasági célra ideiglenesen használt területnek
 
@@ -25,3 +25,5 @@ b) a honvédelmi gyakorló terület,
 c) a szabadidős célra használt terület.
 
 (8) Egységes területalapú támogatást igényelhet az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet, amely, vagy aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll.
+
+[^4]: A 2. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 77. § a)–b) pontja szerint módosított szöveg.
