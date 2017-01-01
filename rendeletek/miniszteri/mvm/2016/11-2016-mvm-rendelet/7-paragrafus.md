@@ -1,4 +1,4 @@
-## 7. § Az Állandó Titkárság az MNVH operatív szerve, amely az IH önálló szervezeti egységeként működik, és az alábbi feladatokat látja el:
+## 7. §[^2] Az Állandó Titkárság az MNVH operatív szerve, az alábbi feladatokat a Széchenyi Programiroda Nonprofit Kft. útján látja el:
 
 a) előkészíti a cselekvési tervre vonatkozó javaslatot,
 
@@ -19,3 +19,5 @@ h) ellátja az MNVH napi működésével, valamint a vidékfejlesztési szerepl�
 i) részt vesz a LEADER program végrehajtását támogató feladatellátásban,
 
 j) gondoskodik az EVH és az EIP-hálózat keretében folyó szakértői munka, és szakmai eseményeken elérhető, a regisztráltak számára hasznosítható információ terjesztéséről.
+
+[^2]: A 7. § nyitó szövegrésze a 34/2016. (XII. 19.) MvM rendelet 1. § b) pontja szerint módosított szöveg.
