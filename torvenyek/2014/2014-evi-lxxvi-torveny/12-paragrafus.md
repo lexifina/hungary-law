@@ -14,4 +14,4 @@ e) nemzetközi szervezetektől, intézményektől származó támogatások,
 
 f) egyéb bevételek.
 
-(2) Az NKFI Alap hosszútávú és éves részletes programstratégiáját az NKFI Hivatal elnökének előterjesztésére a Kormány nyilvános határozatban hagyja jóvá, illetve módosíthatja. Az NKFI Hivatal elnöke ennek megfelelően készíti el, illetve módosítja az NKFI Hivatal előirányzat-felhasználási tervét.
+(2) Az NKFI Alap éves részletes programstratégiáját az NKFI Hivatal elnökének előterjesztésére a Kormány nyilvános határozatban hagyja jóvá, illetve módosíthatja. Az NKFI Hivatal elnöke ennek megfelelően készíti el, illetve módosítja az NKFI Hivatal előirányzat-felhasználási tervét.

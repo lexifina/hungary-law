@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-76-00-00
 | 2015-01-02 | 2010. évi CXXX. törvény | 2014-76-00-00.3 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2014-76-00-00.4 |
 | 2016-11-26 | 2016. évi CXXV. törvény | 2014-76-00-00.5 |
+| 2017-01-01 | 2016. évi CLXXV. törvény | 2014-76-00-00.6 |

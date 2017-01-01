@@ -10,11 +10,13 @@ d) nem alkalmazhatók a Ket.-nek a közvetítő igénybevételére, a határozat
 
 e) nincs helye tárgyalás tartásának és közmeghallgatásnak,
 
-f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak,
+f) az eljárásban – tájékoztatás kérése és annak teljesítése kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján,
 
-g) elektronikus úton írásban csak a 41. §-ban meghatározott esetben, a b) pont szerinti elektronikus űrlap benyújtásakor van helye kapcsolattartásnak,
+g)
 
-h) a minősítési eljárás ügyintézési határideje harminc nap.
+h) a projektminősítési eljárás ügyintézési határideje harminc nap,
+
+i) a projektcsoport-minősítési eljárásban az egyes kijelölt projektek vizsgálatára és ezzel egyidejűleg a projektcsoport minősítésére vonatkozó ügyintézési határidő az egyes kijelölt projektekre vonatkozó külön kérelem benyújtását követő hatvan nap.
 
 (2) Az SZTNH döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak, az SZTNH-nak a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott határozatait a Fővárosi Törvényszék – a 40. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
 
@@ -22,7 +24,7 @@ h) a minősítési eljárás ügyintézési határideje harminc nap.
 
 (4) A 36. § (1) bekezdése és a 38. § (1) bekezdése szerinti kérelem benyújtása esetén jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(5) A kutatás-fejlesztési minősítési eljárások tekintetében a Ket. nyelvhasználatra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven folyik, a kérelmet magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, az SZTNH azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
+(5) A minősítési eljárások tekintetében a Ket. nyelvhasználatra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven folyik, a kérelmet magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, az SZTNH azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
 
 (6) Az (1) bekezdés a) pontjától eltérően, ha a minősítési eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezését követő naptól számított nyolc napon belül az SZTNH a Ket.-ben meghatározott szabályok szerint értesíti
 

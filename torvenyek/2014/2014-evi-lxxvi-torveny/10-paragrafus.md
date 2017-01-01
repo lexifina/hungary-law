@@ -40,7 +40,7 @@ fi) a követelések nyilvántartásában és kezelésében,
 
 g) ellátja a kutatás-fejlesztés és innováció területén folyó nemzetközi, illetve európai integrációs együttműködés szakmai feladatait,
 
-h) részt vesz a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában és koordinálásában, együttműködik az e célra létrehozott központi hivatallal a kutatás-fejlesztés területén megvalósuló magyarországi befektetések elősegítésében,
+h) részt vesz a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában és koordinálásában, együttműködik az e célra létrehozott szervvel a kutatás-fejlesztés területén megvalósuló magyarországi befektetések elősegítésében,
 
 i) közreműködik az EUROPA 2020 Stratégia „Innovatív Unió” programjának végrehajtásában,
 

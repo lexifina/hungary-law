@@ -10,7 +10,7 @@ c) európai uniós együttműködés keretében megvalósuló – a Kormány ál
 
 d) a Kormány által jóváhagyott, az NKFI Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a kutatás-fejlesztési és innovációs kapacitásnövekedést elősegítő projektek támogatása,
 
-e) az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség,
+e) a kutatás-fejlesztés és innováció területén működő nemzetközi szervezetekben, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel tagdíjának és egyéb tagdíj jellegű befizetéseinek a finanszírozása,
 
 f) a tudomány-, a kutatás-fejlesztési és az innovációpolitika megalapozását szolgáló elemzések és adatbázisok létrehozása és kezelése,
 
@@ -18,4 +18,4 @@ g) az országos kutatás-fejlesztési és innovációs támogatási programok te
 
 h) az Elektronikus Információszolgáltatás Nemzeti Program keretében beszerzett tudományos tartalmak, folyóiratok, leíró és egyéb adatbázisok előfizetési díja, valamint az Elektronikus Információszolgáltatás Nemzeti Program működési költsége.
 
-(3) A (2) bekezdés szerinti – a (2) bekezdés b) és c) pontja esetén visszafizetési kötelezettséggel vagy arra tekintet nélkül nyújtandó – közfinanszírozású támogatás, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel egyszeri vagy éves tagdíjának az NKFI Alap terhére történő biztosítására az NKFI Hivatal éves programstratégiája és előirányzat-felhasználási terve a 12. § (2) bekezdésében foglaltak szerint módosítható.
+(3) A (2) bekezdés szerinti – a (2) bekezdés b) és c) pontja esetén visszafizetési kötelezettséggel vagy arra tekintet nélkül nyújtandó – közfinanszírozású támogatás, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel egyszeri vagy éves tagdíjának az NKFI Alap terhére történő biztosítására az NKFI Alap éves programstratégiája és előirányzat-felhasználási terve a 12. § (2) bekezdésében foglaltak szerint módosítható. Az NKFI Hivatal a nemzetközi tagdíjakkal kapcsolatos fizetési kötelezettségét az NKFI Hivatal fejezeti kezelésű előirányzatából vagy az NKFI Alapból teljesíti, az NKFI Alapból megvalósuló kifizetés esetén közvetlen utalással vagy az NKFI Hivatal fejezeti kezelésű előirányzatán keresztül, az NKFI Alapból történő pénzeszközátadás végrehajtásával.

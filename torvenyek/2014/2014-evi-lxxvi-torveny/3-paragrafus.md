@@ -64,6 +64,8 @@ f) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatk
 
 19. projekt: meghatározott kutatás-fejlesztési feladat vagy innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján,
 
+19a. projektcsoport: a kérelmező által egy adóévben megvalósított és a kérelemben megjelölt azon projektek vagy projektrészek összessége, amelyeket a minősítés szempontjából egy egységnek kell tekinteni,
+
 20. szellemi tulajdon: a szellemi alkotások és egyes teljesítmények, az árujelzők (védjegyek és földrajzi árujelzők), valamint a nyilvánosságra még nem jutott ismeretek tekintetében a vonatkozó törvények, az Európai Unió közvetlenül alkalmazandó jogi aktusai és nemzetközi egyezmények által biztosított jogi oltalom,
 
 21. szellemi alkotás: az az alkotás, műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve azt is, amikor a hasznosítási célok, lehetőségek függvényében a megfelelő oltalom megszerzése helyett e megoldás titokban tartása célszerű,
