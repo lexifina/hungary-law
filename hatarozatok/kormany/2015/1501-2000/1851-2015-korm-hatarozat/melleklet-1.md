@@ -14,10 +14,12 @@
 
 ## Határidő: 2015. december 10.
 
-1. melléklet az 1851/2015. (XI. 24.) Korm. határozathoz
+1. melléklet az 1851/2015. (XI. 24.) Korm. határozathoz[^2]
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt összköltsége (Ft) | Elszámolható közkiadás összege (Ft) | Elszámolható közkiadás növekménye (Ft) | Az 1. pont c) alpontjában meghatározott forrás (Ft) | Megnövelt összköltség (Ft) | Megnövelt elszámolható közkiadás (Ft) | Projekt rövid bemutatása |
 
-| 2. | TIOP-1.2.1.B-12/1- 2013-0001 | Kulturális GPS – Kulturális Oktatási Központ Nemzeti Kulturális Térinformációs Rendszer Szolgáltató és Tanácsadó Multifunkcionális Módszertani Központ | Magyar Nemzeti Digitális Archívum és Filmintézet | 1 927 700 000 | 1 599 991 000 | 267 077 292 | 54 702 579 | 2 249 479 871 | 1 867 068 292 | A projekt keretében az ózdi ipari parkbeli „Erőmű” épületének átalakításával kialakítják 1. a digitalizált kulturális értékekkel és a digitális oktatással kapcsolatos gyakorló és bemutató központ infrastrukturális hátterét, 2. a városi és kistérségi kulturális igények kiszolgálására, kulturális kiállítások, rendezvények megtartására alkalmas közösségi tereket, 3. a TÁMOP-3.2.14-12/1-2013-0001 azonosító számú, „Egységes Nemzeti Oktatási és Kulturális Térinformációs Rendszer létrehozása” című kiemelt projekt keretében létrehozott tartalmak működtetéséhez szükséges infrastruktúrát. |
+| 2. | TIOP-1.2.1.B-12/1- 2013-0001 | Kulturális GPS – Kulturális Oktatási Központ Nemzeti Kulturális Térinformációs Rendszer Szolgáltató és Tanácsadó Multifunkcionális Módszertani Központ | Forum Hungaricum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 1 927 700 000 | 1 599 991 000 | 267 077 292 | 54 702 579 | 2 249 479 871 | 1 867 068 292 | A projekt keretében az ózdi ipari parkbeli „Erőmű” épületének átalakításával kialakítják 1. a digitalizált kulturális értékekkel és a digitális oktatással kapcsolatos gyakorló és bemutató központ infrastrukturális hátterét, 2. a városi és kistérségi kulturális igények kiszolgálására, kulturális kiállítások, rendezvények megtartására alkalmas közösségi tereket, 3. a TÁMOP-3.2.14-12/1-2013-0001 azonosító számú, „Egységes Nemzeti Oktatási és Kulturális Térinformációs Rendszer létrehozása” című kiemelt projekt keretében létrehozott tartalmak működtetéséhez szükséges infrastruktúrát. |
+
+[^2]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 62. pontja szerint módosított szöveg.
