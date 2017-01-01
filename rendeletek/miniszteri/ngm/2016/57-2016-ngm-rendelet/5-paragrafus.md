@@ -1,3 +1,1 @@
-## 3–4. §[^3]
-
-[^3]: A 3–4. § a 7. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## 4. § A Rendelet 1. §-ában a „Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény” szövegrész helyébe a „Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény” szöveg lép.
