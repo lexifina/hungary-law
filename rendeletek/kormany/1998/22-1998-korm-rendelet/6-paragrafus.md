@@ -1,8 +1,8 @@
 6. § (1) A minősítés alapján a nádas fogalmára való tekintettel, valamint a gazdasági és az ökológiai szempontokat figyelembe véve, az 5. § (2) bekezdése szerinti nádasokat az e rendelet melléklete szerinti minőségi osztályokba kell sorolni.
 
-(2)[^6] A minőségi osztályba sorolásról a természetvédelmi hatáskörében eljáró megyei kormányhivatal dönt.
+(2)[^6] A minőségi osztályba sorolásról a területi természetvédelmi hatóság dönt.
 
-(3)[^7] A minősítések részletes leírását, továbbá a nádasok 1:10 000 méretarányú térképlapon történt ábrázolását a természetvédelmi hatáskörében eljáró megyei kormányhivatal okirattárában kell elhelyezni.
+(3)[^7] A minősítések részletes leírását, továbbá a nádasok 1:10 000 méretarányú térképlapon történt ábrázolását a területi természetvédelmi hatóság okirattárában kell elhelyezni.
 
 (4) Az egyes nádasok minősítésének alapjául szolgáló leírás, a minősítés, továbbá 1:10 000 méretarányú térképlapon történő ábrázolása hatósági nyilvántartásnak minősül.
 
@@ -10,6 +10,6 @@
 
 (6)[^8]
 
-[^6]: A 6. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^7]: A 6. § (3) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 30. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 6. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^7]: A 6. § (3) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^8]: A 6. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 137. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
