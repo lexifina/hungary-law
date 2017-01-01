@@ -6,6 +6,8 @@
 
 ## b) a Prümi Szerződés 19. Cikkében és 22. Cikkében említett nemzeti kapcsolattartó pont az Országos Rendőr-főkapitányság;
 
-## c) a Prümi Szerződés 23. Cikk (3) bekezdésében említett nemzeti kapcsolattartó pont a Bevándorlási és Állampolgársági Hivatal;
+## c)[^1] a Prümi Szerződés 23. Cikk (3) bekezdésében említett nemzeti kapcsolattartó pont a Bevándorlási és Menekültügyi Hivatal;
 
 ## d) a Prümi Szerződés 25. Cikkében említett rendőrtisztviselők alatt a rendőrség és a Nemzeti Adó- és Vámhivatal állományába tartozó személyeket kell érteni.”
+
+[^1]: Az 1. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 269. §-a szerint módosított szöveg.
