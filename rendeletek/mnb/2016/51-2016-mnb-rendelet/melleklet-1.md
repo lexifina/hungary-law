@@ -1,3 +1,5 @@
-## 17. § Hatályát veszti a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 51/2015. (XII. 9.) MNB rendelet.
+## 17. §[^1]
 
 1. melléklet az 51/2016. (XII. 12.) MNB rendelethez
+
+[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
