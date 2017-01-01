@@ -10,7 +10,7 @@ b) meglevő létesítmény, munkaeszköz átalakításakor, új helyre telepít�
 
 c) munkakör kialakításakor;
 
-d)[^1] foglalkozási eredetű egészségkárosodás vagy annak gyanúja, panaszbejelentés, másodfokú eljárás vagy az Országos Egészségbiztosítási Pénztár, az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal, továbbá bíróság megkeresése esetén, valamint ha jogerős hatósági határozat írja elő.
+d)[^1] foglalkozási eredetű egészségkárosodás vagy annak gyanúja, panaszbejelentés, másodfokú eljárás vagy az egészségbiztosítási pénztári feladatkörében eljáró illetékes fővárosi és megyei kormányhivatal, továbbá bíróság megkeresése esetén, valamint ha jogerős hatósági határozat írja elő.
 
 (4) A (3) bekezdés d) pontja szerinti esetben – arra akkreditált szervezet (laboratórium) bevonásával – rezgésvizsgálatot is kell végezni.
 
@@ -40,5 +40,5 @@ i)[^2] a munkavédelmi hatóságtól, illetve a foglalkozás-egészségügyi szo
 
 (8) A kockázatértékelést évenként aktualizálni kell, soron kívül akkor kell felülvizsgálni, ha olyan változás következett be, amely azt szükségessé teszi, vagy ha az egészségügyi vizsgálat eredménye azt indokolja.
 
-[^1]: A 4. § (3) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 45. §-ával megállapított, a 9/2015. (III. 31.) NGM rendelet 35. § a) pontja szerint módosított szöveg.
+[^1]: A 4. § (3) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 45. §-ával megállapított, a 9/2015. (III. 31.) NGM rendelet 35. § a) pontja, a 62/2016. (XII. 29.) NGM rendelet 58. § (1) bekezdése szerint módosított szöveg.
 [^2]: A 4. § (6) bekezdés i) pontja a 9/2015. (III. 31.) NGM rendelet 35. § b) pontja szerint módosított szöveg.
