@@ -24,17 +24,17 @@ g) ellenőrzi a minősítők minősítési gyakorlatát, ennek eredményeként e
 
 h) ellátja a minősített adatot kezelő szervnél a minősített adat kezelésének hatósági felügyeletét, ellenőrzi a minősített adat védelmére vonatkozó jogszabályok, valamint a személyi, fizikai, adminisztratív és elektronikus biztonsági szabályok betartását,
 
-i) az arra jogosult gazdálkodó szervezetek részére telephely biztonsági tanúsítványt ad ki, jogosult a telephely biztonsági tanúsítvány módosítására vagy a már kiadott tanúsítvány visszavonására,
+i) az arra jogosult gazdálkodó szervezetek részére telephely biztonsági tanúsítványt, vagy egyszerűsített telephely biztonsági tanúsítványt ad ki, jogosult a telephely biztonsági tanúsítvány és az egyszerűsített telephely biztonsági tanúsítvány módosítására vagy a már kiadott tanúsítvány visszavonására,
 
-j) kivizsgálja a minősített adatok védelmét érintő bejelentéseket,
+j) kivizsgálja a minősített adatok védelmét érintő, a 19. § (1) bekezdésében meghatározott eseményeket,
 
 k) a minősített adatot kezelő szervnél kivizsgálja a minősített adatok elvesztésével, illetéktelen személy tudomására jutásával, valamint a biztonság megsértésével kapcsolatos eseményeket,
 
 l) gondoskodik a jogutód nélkül megszűnt szervek által keletkeztetett minősített adatok felülvizsgálatának elvégzéséről,
 
-m) ellátja az Európai Unió Tanácsa, az Európai Bizottság, az EURATOM, az EUROPOL, az EUROJUST (a továbbiakban együtt: EU), a NATO, a NYEU, valamint vonatkozó szabályzataiban és a minősített adatok védelme tárgyában kötött nemzetközi szerződésekben a nemzeti biztonsági hatóságok számára előírt feladatokat,
+m) ellátja az EU, a NATO, a NYEU, az ESA, valamint vonatkozó szabályzataiban és a minősített adatok védelme tárgyában kötött nemzetközi szerződésekben a nemzeti biztonsági hatóságok számára előírt feladatokat,
 
-n) kapcsolatot tart a NATO, a NYEU, az EU és a tagállamok illetékes szervezeteivel, és tevékenységéről – a szükséges mértékben – tájékoztatja azokat,
+n) kapcsolatot tart a NATO, az EU, az ESA és a tagállamok illetékes szervezeteivel, és tevékenységéről – a szükséges mértékben – tájékoztatja azokat,
 
 o) ellátja a nemzeti érdekérvényesítést a minősített adatok védelmét érintő nemzetközi bizottságokban és munkacsoportokban,
 
