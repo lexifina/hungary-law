@@ -38,11 +38,13 @@ p)[^184] a Bizottság 2014/20/EU végrehajtási irányelve (2014. február 6.) a
 
 q)[^185] a Bizottság 2014/21/EU végrehajtási irányelve (2014. február 6.) a szuperelit vetőburgonyára vonatkozó minimális feltételek és uniós osztályok meghatározásáról,
 
-r)[^186] a Bizottság 2015/1955/EU végrehajtási irányelve (2015. október 29.) a gabonavetőmagok forgalmazásáról szóló 66/402/EGK tanács irányelv I. és II. mellékletének módosításáról.
+r)[^186] a Bizottság 2015/1955/EU végrehajtási irányelve (2015. október 29.) a gabonavetőmagok forgalmazásáról szóló 66/402/EGK tanács irányelv I. és II. mellékletének módosításáról,
 
-(3)[^187] Ez a rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+s)[^187] a Bizottság 2016/11/EU végrehajtási irányelve (2016. január 5.) az olaj- és rostnövények vetőmagjának forgalmazásáról szóló 2002/57/EK tanácsi irányelv II. mellékletének módosításáról.
 
-(4)[^188] Ez a rendelet a 2002/56/EK tanácsi irányelvnek a harmadik országokból származó vetőburgonya egyenértékűségére vonatkozó határozatok időbeli hatályának kiterjesztésére a tagállamoknak engedélyezett, a 21. cikk (3) bekezdésében megállapított határidő tekintetében történő módosításáról szóló, 2011. december 7-i 2011/820/EU bizottsági végrehajtási határozatnak való megfelelést szolgálja.
+(3)[^188] Ez a rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(4)[^189] Ez a rendelet a 2002/56/EK tanácsi irányelvnek a harmadik országokból származó vetőburgonya egyenértékűségére vonatkozó határozatok időbeli hatályának kiterjesztésére a tagállamoknak engedélyezett, a 21. cikk (3) bekezdésében megállapított határidő tekintetében történő módosításáról szóló, 2011. december 7-i 2011/820/EU bizottsági végrehajtási határozatnak való megfelelést szolgálja.
 
 [^173]: Az 58. § a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 24. § u) pontja szerint módosított szöveg.
 [^174]: Az 59. § (2) bekezdése a 21/2005. (III. 22.) FVM rendelet 1. §-ával megállapított szöveg.
@@ -58,5 +60,6 @@ r)[^186] a Bizottság 2015/1955/EU végrehajtási irányelve (2015. október 29.
 [^184]: A 59. § (2) bekezdés p) pontját a 24/2016. (IV. 8.) FM rendelet 22. §-a iktatta be.
 [^185]: A 59. § (2) bekezdés q) pontját a 24/2016. (IV. 8.) FM rendelet 22. §-a iktatta be.
 [^186]: Az 59. § (2) bekezdés r) pontját a 47/2016. (VII. 15.) FM rendelet 5. § (1) bekezdése iktatta be.
-[^187]: Az 59. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 5. §-a iktatta be.
-[^188]: Az 59. § (4) bekezdését a 23/2012. (III. 19.) VM rendelet 4. §-a iktatta be.
+[^187]: Az 59. § (2) bekezdés s) pontját a 47/2016. (VII. 15.) FM rendelet 5. § (2) bekezdése iktatta be.
+[^188]: Az 59. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 5. §-a iktatta be.
+[^189]: Az 59. § (4) bekezdését a 23/2012. (III. 19.) VM rendelet 4. §-a iktatta be.
