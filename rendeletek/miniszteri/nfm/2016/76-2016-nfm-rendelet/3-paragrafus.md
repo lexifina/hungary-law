@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-3. § Hatályát veszti az országos közutak használatáért fizetendő útdíjak beszedésére alkalmas elektronikus díjszedési rendszer eszközei felett az államot megillető tulajdonosi jogokat gyakorló és kötelezettségeket teljesítő szervezet kijelöléséről szóló 19/2013. (V. 9.) NFM rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
