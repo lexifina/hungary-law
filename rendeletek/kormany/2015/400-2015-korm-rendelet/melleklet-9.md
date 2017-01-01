@@ -12,7 +12,7 @@
 
 | adószáma: |  |
 
-| OEP finanszírozási kód / OM azonosító: |  |
+| NEAK finanszírozási kód / OM azonosító: |  |
 
 | bankszámla száma: |  |
 
@@ -26,7 +26,7 @@
 
 | adószáma: |  |
 
-| OEP finanszírozási kód / OM azonosító: |  |
+| NEAK finanszírozási kód / OM azonosító: |  |
 
 | bankszámla száma: |  |
 
@@ -62,4 +62,6 @@
 
 ## Az adatlap kitöltéséért felelős neve: ...................................., telefonszáma: ........................
 
-9. melléklet a 400/2015. (XII. 15.) Korm. rendelethez
+9. melléklet a 400/2015. (XII. 15.) Korm. rendelethez[^10]
+
+[^10]: A 9. melléklet a 379/2016. (XII. 2.) Korm. rendelet 310. § (2) bekezdés a) pontja szerint módosított szöveg.

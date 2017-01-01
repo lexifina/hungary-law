@@ -112,4 +112,6 @@
 
 ## Átvétel kelte:
 
-6. melléklet a 400/2015. (XII. 15.) Korm. rendelethez
+6. melléklet a 400/2015. (XII. 15.) Korm. rendelethez[^7]
+
+[^7]: A 6. melléklet a 379/2016. (XII. 2.) Korm. rendelet 310. § (2) bekezdés a) pontja szerint módosított szöveg.

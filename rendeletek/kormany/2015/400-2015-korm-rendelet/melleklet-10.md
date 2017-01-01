@@ -12,7 +12,7 @@
 
 |  | adószáma: |  |  |  |  |  |  |  |  |
 
-|  | OM azonosító/OEP finanszírozási kód: |  |  |  |  |  |  |  |  |
+|  | OM azonosító/NEAK finanszírozási kód: |  |  |  |  |  |  |  |  |
 
 |  | bankszámla száma: |  |  |  |  |  |  |  |  |
 

@@ -1,6 +1,6 @@
 7. § (1) A helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar Államkincstár a helyi önkormányzat részére – a IX. Helyi önkormányzatok támogatásai fejezet terhére – a nettó finanszírozás keretében a kifizetés hónapjában elszámolja a kifizetett havi kompenzációnak a munkáltatót terhelő, közterheket magában foglaló bruttó összegét
 
-a) az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) által finanszírozott helyi önkormányzati költségvetési szervek,
+a)[^6] a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) által finanszírozott helyi önkormányzati költségvetési szervek,
 
 b) az a) pontba nem tartozó helyi önkormányzati költségvetési szervek
 
@@ -15,3 +15,5 @@ b) az a) pontba nem tartozó helyi önkormányzati költségvetési szervek
 (5) A helyi önkormányzat által fenntartott költségvetési szervére és munkavállalóira vonatkozóan a központosított illetmény-számfejtési rendszer szolgáltat adatot a helyi önkormányzatokért felelős miniszter részére a (2) bekezdés szerinti előleg és az 5. § (1) bekezdése szerinti támogatás kifizetéséhez.
 
 (6) A Magyar Államkincstárnak a helyi önkormányzat székhelye szerint illetékes területi szerve a kifizetés hónapjának 5-éig a helyi önkormányzatokért felelős miniszter részére a 6. melléklet szerint, az (1) bekezdés szerinti elszámoláshoz – a nettó finanszírozással egyidejűleg – a helyi önkormányzat részére a 7. melléklet szerint szolgáltat adatot.
+
+[^6]: A 7. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 310. § (1) bekezdése szerint módosított szöveg.

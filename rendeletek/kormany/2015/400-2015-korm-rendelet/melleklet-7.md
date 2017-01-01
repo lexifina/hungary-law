@@ -8,7 +8,7 @@
 
 | neve: |  |
 
-| Önkormányzat/ kistérségi társulás | Központi költségvetésből finanszírozott kör esetében | OEP kör esetében | a 2016. évi kompenzációs havi részletének |
+| Önkormányzat/ kistérségi társulás | Központi költségvetésből finanszírozott kör esetében | NEAK kör esetében | a 2016. évi kompenzációs havi részletének |
 
 |  | a 2016. évi kompenzációs havi részletének | a 2016. évi kompenzációs havi részletének |  |
 
@@ -26,4 +26,6 @@
 
 ## igazgató
 
-7. melléklet a 400/2015. (XII. 15.) Korm. rendelethez
+7. melléklet a 400/2015. (XII. 15.) Korm. rendelethez[^8]
+
+[^8]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 310. § (2) bekezdés a) pontja szerint módosított szöveg.
