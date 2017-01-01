@@ -4,37 +4,37 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt beruházásként passzív biztonsági rendszereket gyártó üzem, illetve logisztikai központ, és az ezekhez tartozó építmények | Miskolc város területén fekvő, az ingatlan-nyilvántartás szerinti 47511/8, 47511/9 és 47511/10 helyrajzi számú földrészletek, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | általános építésügyi hatósági és építésfelügyeleti hatósági eljárások | Miskolci Járási Hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
+| 2. | Kiemelt beruházásként passzív biztonsági rendszereket gyártó üzem, illetve logisztikai központ, és az ezekhez tartozó építmények | Miskolc város területén fekvő, az ingatlan-nyilvántartás szerinti 47511/8, 47511/9 és 47511/10 helyrajzi számú földrészletek, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Miskolci Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | útügyi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 7. | vízjogi engedélyezési eljárás | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 8. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 9. | ingatlan-nyilvántartási hatósági eljárás | Miskolci Járási Hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
+| 9. | ingatlan-nyilvántartási hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Miskolci Járási Hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
+| 10. | telekalakítási hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Miskolci Járási Hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
+| 11. | földmérési hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | bányahatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 15. | talajvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 15. | talajvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 16. | élelmiszerlánc-felügyeleti eljárás | Borsod-Abaúj Zemplén Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 16. | élelmiszerlánc- felügyeleti eljárás | illetékes járási hivatal | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 17. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 17. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter | nincs |
 
 | 18. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -54,19 +54,19 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
 
-| 2. | építésügy | Miskolci Járási Hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
+| 2. | építésügy | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 3. | örökségvédelem és régészet | Miskolci Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelem és régészet | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelem, természetvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | közúti közlekedés | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | közúti közlekedés | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 7. | vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 7. | vasúti közlekedés | közlekedésért felelős miniszter | nincs |
 
-| 8. | légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
+| 8. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
 | 9. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
@@ -78,18 +78,16 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 14. |  |  |  |
+| 14. | talajvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 15. | talajvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 15. | erdővédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 16. | erdővédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 16. | élelmiszerlánc-biztonság | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 17. | élelmiszerlánc-biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 17. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 18. | egészségügy | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 19. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 20. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
-
-[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 32. §-a, a 271/2016. (IX. 1.) Korm. rendelet 43. § (3)–(4) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 54. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
