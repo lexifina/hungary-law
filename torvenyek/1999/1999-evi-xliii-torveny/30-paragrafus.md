@@ -4,7 +4,7 @@
 
 a) aki büntetlen előéletű, és nem áll a temetkezési szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 
-b) aki rendelkezik e törvény szerinti megfelelő pénzügyi teljesítőképességgel, valamint a törvény végrehajtására kiadott kormányrendelet szerinti vagyoni biztosítékkal,
+b) aki rendelkezik e törvény szerinti megfelelő pénzügyi teljesítőképességgel,
 
 c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégzésre vonatkozó előírásoknak megfelelő, a tevékenység méltóságát nem sértő, a környezetben élők egészségét és a környezetet nem veszélyeztető telephellyel,
 
@@ -14,11 +14,11 @@ e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékeny
 
 f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.
 
-(3) A (2) bekezdésben meghatározott követelményeket – a (4) bekezdésben meghatározottakra figyelemmel –
+(3) A (2) bekezdésben meghatározott követelményeket – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben (a továbbiakban: Bnytv.) meghatározottakra figyelemmel –
 
 a) egyéni vállalkozás esetén az egyéni vállalkozónak,
 
-b) a gazdasági társaság vezetőjének,
+b) a gazdasági társaság vezető tisztségviselőjének,
 
 c) az egyéni cég tagjának
 
@@ -30,7 +30,7 @@ kell igazolnia.
 
 (6)
 
-(7) A (4) és (6) bekezdés alapján megismert személyes adatokat a temetkezési szolgáltatásokat engedélyező hatóság
+(7) A (2) bekezdés a) pontjában meghatározott feltételt igazolására szolgáló személyes adatokat a temetkezési szolgáltatásokat engedélyező hatóság
 
 a) a temetkezési szolgáltatási tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
 

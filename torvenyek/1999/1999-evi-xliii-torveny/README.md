@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-43-00-00
 | 2015-10-22 | 2015. évi CLV. törvény | 1999-43-00-00.22 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 1999-43-00-00.23 |
 | 2016-09-01 | 2016. évi LXVII. törvény | 1999-43-00-00.24 |
+| 2017-01-01 | 2016. évi LXVII. törvény | 1999-43-00-00.25 |

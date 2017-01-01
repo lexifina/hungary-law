@@ -24,7 +24,15 @@ j) a szociális temetési helyekre vonatkozó eltérő szabályok, a szociális 
 
 k) a szociális temetés esetén a holttest egészségügyi intézményben történő hűtésének részletes szabályait.
 
-(2)
+(2) Felhatalmazást kap a Kormány, hogy
+
+a) a temetkezési szolgáltatásért kiállítható számla tartalmát és formátumát,
+
+b) a temetkezéssel összefüggésben a temetkezési szolgáltató által végezhető egyéb tevékenységek és termékek körét,
+
+c) a 25. § (4) bekezdésében meghatározott, az elhalálozással kapcsolatos ügyeket
+
+rendeletben állapítsa meg.
 
 (3) A települési önkormányzat, fővárosban a közgyűlés rendeletben állapítja meg – a köztemetőre vonatkozóan – különösen
 
