@@ -38,6 +38,6 @@ a) az adó különös szabályok szerinti megállapítása alá tartozó gépjá
 
 b) azonos gépjármű vagy arra vonatkozó adatok hiányában az adó különös szabályok szerinti megállapítása alá tartozó gépjárműhöz az a) pontban felsorolt ismérveket tekintve hasonló gépjármű.
 
-14. elektronikus eljárás: a vámhatóság által üzemeltetett informatikai rendszeren vagy a központi elektronikus szolgáltató rendszeren (ügyfélkapun) keresztül kezdeményezett, az adó megállapítására irányuló elsőfokú adóigazgatási eljárás.
+14.
 
 15. gépjárműflotta-üzemeltető: az az Európai Gazdasági Térségben székhellyel rendelkező, gépjármű-bérbeadással foglalkozó személy, szervezet, amely tárgyév január 1-jén legalább 50 darab, külföldi hatósági jelzéssel ellátott személygépkocsi tulajdonosa, üzembentartója és a bérbeadást megelőző utolsó lezárt üzleti éve árbevételének legalább 75% -a gépjármű bérbeadásból, lízingbeadásból származik.

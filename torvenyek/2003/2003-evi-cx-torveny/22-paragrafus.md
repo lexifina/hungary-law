@@ -1,4 +1,4 @@
-22. § A Melléklet I. rész 1. pontja alatti táblázat szerinti 8. adókategória az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
+22. §
 
 ## Melléklet a 2003. évi CX. törvényhez
 
@@ -390,7 +390,7 @@ figyelembevételével
 
 Az adó összegét a vámhatóság az alábbi táblázat és képlet együttes alkalmazásával állapítja meg. A számításnál minden megkezdett hónap egész hónapnak minősül. E melléklet alkalmazásában forgalomba helyezés alatt a közlekedési hatóság által lefolytatott eljárásban, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon vagy az egyedi forgalomba helyezési engedélyen rögzített első forgalomba helyezés vagy az első hazai nyilvántartásba vétel időpontja értendő. Ezen adatok hiányában a gépjármű esetében e melléklet I. részében meghatározott adótételek e melléklet II. részében található előírások figyelembevétele nélkül alkalmazandók.
 
-Elektronikus eljárás esetén a Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi.
+A Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi.
 
 |
 
