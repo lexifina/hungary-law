@@ -2,7 +2,7 @@
 
 (2) Az egyszerűsített erdőtelepítési-kivitelezési tervnek a 25. § (1) bekezdésében felsorolt tervrészek közül a földterület erdészeti azonosítójának megnevezése kivételével az a), az erdő tervezett rendeltetéséhez és üzemmódjához adott hozzájáruló nyilatkozat kivételével a b), c), e), i), n) és s) pontokban foglaltakat kell tartalmaznia.
 
-(3) Fásítás telepítését az erdészeti hatóság központi szerve által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell előzetesen bejelenteni az erdészeti hatósághoz:
+(3)[^42] Fásítás telepítését a NÉBIH által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell előzetesen bejelenteni az erdészeti hatósághoz:
 
 a) a telepítő neve, lakóhelye (székhelye),
 
@@ -21,3 +21,5 @@ e) a telepítő aláírása.
 (6) A tudomásul vett bejelentés szerinti telepítés a benyújtás évét követő év végéig hajtható végre.
 
 (7) Amennyiben az erdőgazdálkodó a szabad rendelkezésű erdő véghasználata után a területen, vagy annak egy részén más célállománytípusú szabad rendelkezésű erdőt kíván fenntartani, akkor azt az Evt. 47. § (1) bekezdése szerint be kell jelentenie az erdészeti hatósághoz.
+
+[^42]: A 26. § (3) bekezdés nyitó szövegrésze a 89/2016. (XII. 29.) FM rendelet 11. § c) pontja szerint módosított szöveg.

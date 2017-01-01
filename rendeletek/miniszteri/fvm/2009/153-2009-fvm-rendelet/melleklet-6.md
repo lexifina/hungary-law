@@ -226,7 +226,7 @@
 
 ## A tölgy főfafajú célállománytípusok esetében a természetes úton megjelenő bükk egyedek, a bükk főfafajú célállománytípusok esetében a kocsányos és kocsánytalan tölgy egyedek főfafajként vehetők figyelembe.
 
-6. számú melléklet a 153/ 2009. (XI. 13.) FVM rendelethez[^69]
+6. számú melléklet a 153/ 2009. (XI. 13.) FVM rendelethez[^78]
 
 A közjóléti berendezések jegyzéke
 
@@ -270,4 +270,4 @@ A közjóléti berendezések jegyzéke
 
 | 19. | védőház | Fedett, oldalt nyitott kialakítású, felületkezelt fából készült épület, 6–50 m2 közötti alapterülettel, legalább 4 rögzített ülőhellyel. |
 
-[^69]: A 6. számú mellékletet a 82/2016. (XII. 15.) FM rendelet 3. §-a iktatta be.
+[^78]: A 6. számú mellékletet a 82/2016. (XII. 15.) FM rendelet 3. §-a iktatta be.

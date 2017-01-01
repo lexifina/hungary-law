@@ -34,7 +34,7 @@ kc) első kivitel, és
 
 kd) pótlás.
 
-(3) A bejelentést az erdészeti hatóság központi szerve által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell benyújtani:
+(3)[^29] A bejelentést a NÉBIH által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell benyújtani:
 
 a) az erdőgazdálkodó neve, erdőgazdálkodói kódszáma,
 
@@ -50,11 +50,11 @@ f) a választott erdőtervi erdősítési előírás,
 
 g) egyéb szöveges megjegyzések,
 
-h)[^25] dátum,
+h)[^30] dátum,
 
-i)[^26] az erdőgazdálkodó aláírása, valamint
+i)[^31] az erdőgazdálkodó aláírása, valamint
 
-j)[^27] a jogosult erdészeti szakszemélyzet ellenjegyzése.
+j)[^32] a jogosult erdészeti szakszemélyzet ellenjegyzése.
 
 (4) Amennyiben a bejelentett tevékenység nem a teljes erdőrészletet érinti, a bejelentéshez csatolni kell a tervezett tevékenységgel érintett részterületet ábrázoló erdészeti nyilvántartási térkép 1:10 000 méretarányú másolatát.
 
@@ -62,7 +62,7 @@ j)[^27] a jogosult erdészeti szakszemélyzet ellenjegyzése.
 
 (6) A bejelentés időpontjának az erdészeti hatósághoz történő beérkezés napja számít.
 
-(7)[^28] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével a jogosult erdészeti szakszemélyzet igazolja, hogy
+(7)[^33] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével a jogosult erdészeti szakszemélyzet igazolja, hogy
 
 a) a bejelentést aláíró erdőgazdálkodó a bejelentésben foglalt erdőrészletek erdőgazdálkodója,
 
@@ -82,7 +82,8 @@ h) a tervezett tarvágás az Evt. 74. § (1) és (2) bekezdésében meghatározo
 
 i) természetvédelmi területen található erdő esetén a bejelentés megfelel a természet védelméről szóló 1996. LIII törvény 33. § (4), (5) és (6) bekezdésében foglalt térbeli korlátozásoknak.
 
-[^25]: A 23. § (3) bekezdés h) pontja a 27/2016. (IV. 11.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^26]: A 23. § (3) bekezdés i) pontja a 27/2016. (IV. 11.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^27]: A 23. § (3) bekezdés j) pontját a 27/2016. (IV. 11.) FM rendelet 1. § (1) bekezdése iktatta be.
-[^28]: A 23. § (7) bekezdését a 27/2016. (IV. 11.) FM rendelet 1. § (2) bekezdése iktatta be.
+[^29]: A 23. § (3) bekezdés nyitó szövegrésze a 89/2016. (XII. 29.) FM rendelet 11. § c) pontja szerint módosított szöveg.
+[^30]: A 23. § (3) bekezdés h) pontja a 27/2016. (IV. 11.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^31]: A 23. § (3) bekezdés i) pontja a 27/2016. (IV. 11.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^32]: A 23. § (3) bekezdés j) pontját a 27/2016. (IV. 11.) FM rendelet 1. § (1) bekezdése iktatta be.
+[^33]: A 23. § (7) bekezdését a 27/2016. (IV. 11.) FM rendelet 1. § (2) bekezdése iktatta be.

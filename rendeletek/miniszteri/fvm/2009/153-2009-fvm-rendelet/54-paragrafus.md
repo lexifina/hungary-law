@@ -12,9 +12,9 @@ d) az erdőtalaj 400 m2-t meghaladó beépítése esetén a humuszos termőréte
 
 e) az időleges valamint a rendeltetésszerű használatot akadályozó igénybevétel esetében a terület újraerdősítésre való alkalmassá tétele érdekében tervezett tevékenységek leírását,
 
-f)[^47]
+f)[^55]
 
-g)[^48] a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
+g)[^56] a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
 
 (2) A kérelemben az Evt. 78. § (1) bekezdésének megfelelően pontosan meg kell határozni a tervezett igénybevétel közérdekkel való összhangját, és alá kell támasztani annak indokoltságát.
 
@@ -22,8 +22,8 @@ g)[^48] a környezeti hatások jelentőségének vizsgálatára szolgáló – a
 
 (4) Az (1)–(3) bekezdésben foglaltakat az Evt. 85. § (2) bekezdése szerinti fennmaradási engedély kérelem esetében is alkalmazni kell.
 
-(5)[^49] A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő, a Kormány által rendeletben meghatározott erdő igénybevételi ügyek esetében a csereerdősítést, ha az adott térségben az erdő csökkenésének tilalmáról jogszabály kifejezetten nem rendelkezik, az ország területén belül bármely, arra alkalmas földterületen végre lehet hajtani.
+(5)[^57] A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő, a Kormány által rendeletben meghatározott erdő igénybevételi ügyek esetében a csereerdősítést, ha az adott térségben az erdő csökkenésének tilalmáról jogszabály kifejezetten nem rendelkezik, az ország területén belül bármely, arra alkalmas földterületen végre lehet hajtani.
 
-[^47]: Az 54. § (1) bekezdés f) pontját a 75/2015. (XI. 24.) FM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^48]: Az 54. § (1) bekezdés g) pontját a 38/2011. (V. 18.) VM rendelet 5. §-a iktatta be.
-[^49]: Az 54. § (5) bekezdését a 24/2012. (III. 19.) VM rendelet 10. § (3) bekezdése iktatta be, szövege a 75/2015. (XI. 24.) FM rendelet 2. §-ával megállapított szöveg.
+[^55]: Az 54. § (1) bekezdés f) pontját a 75/2015. (XI. 24.) FM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^56]: Az 54. § (1) bekezdés g) pontját a 38/2011. (V. 18.) VM rendelet 5. §-a iktatta be.
+[^57]: Az 54. § (5) bekezdését a 24/2012. (III. 19.) VM rendelet 10. § (3) bekezdése iktatta be, szövege a 75/2015. (XI. 24.) FM rendelet 2. §-ával megállapított szöveg.

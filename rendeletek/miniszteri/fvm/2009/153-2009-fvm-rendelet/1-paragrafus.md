@@ -26,25 +26,25 @@ k) őshonos fa- és cserjefaj: az a fa-, illetve cserjefaj, amely Magyarország 
 
 l) síkvidék: erdő vonatkozásában azon erdőrészletek területe, melyek Adattárban rögzített jellemző tengerszintfeletti magassága legfeljebb 250 méter, illetve, amelyek az árterek hullámterében vagy külterében helyezkednek el;
 
-m)[^1] közjóléti berendezés: erdőben vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen elhelyezett, a pihenés, a közjóléti célú közlekedés, a sport, a játék és az ismeretszerzés célját szolgáló, ingyenesen használható erdei építmény, amely erdészeti létesítménynek minősül;
+m)[^2] közjóléti berendezés: erdőben vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen elhelyezett, a pihenés, a közjóléti célú közlekedés, a sport, a játék és az ismeretszerzés célját szolgáló, ingyenesen használható erdei építmény, amely erdészeti létesítménynek minősül;
 
-n)[^2] közjóléti létesítmény: a közjóléti berendezések funkcionális egysége, amely hozzájárul az erdőt látogatók egészségének megőrzéséhez, tudásuk gyarapításához, a sportolás és rendszeres testedzés lehetőségének biztosításához;
+n)[^3] közjóléti létesítmény: a közjóléti berendezések funkcionális egysége, amely hozzájárul az erdőt látogatók egészségének megőrzéséhez, tudásuk gyarapításához, a sportolás és rendszeres testedzés lehetőségének biztosításához;
 
-o)[^3]
+o)[^4]
 
-p)[^4]
+p)[^5]
 
-q)[^5]
+q)[^6]
 
-r)[^6]
+r)[^7]
 
-s)[^7]
+s)[^8]
 
-t)[^8]
+t)[^9]
 
-u)[^9] erdei épület: erdőben vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen elhelyezett épület;
+u)[^10] erdei épület: erdőben vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen elhelyezett épület;
 
-v)[^10]
+v)[^11]
 
 (2) Az erdőt és a fásítást alkotó fafajok és cserjefajok jegyzékét az 1. számú melléklet tartalmazza.
 
@@ -52,16 +52,16 @@ v)[^10]
 
 (4) Az idegenhonos, valamint az intenzíven terjedő fa- és cserjefajok jegyzékét a 3. számú melléklet tartalmazza.
 
-(5)[^11] A közjóléti berendezések jegyzékét a 6. számú melléklet tartalmazza.
+(5)[^12] A közjóléti berendezések jegyzékét a 6. számú melléklet tartalmazza.
 
-[^1]: Az 1. § (1) bekezdés m) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be.
-[^2]: Az 1. § (1) bekezdés n) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (1) bekezdés o) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
-[^4]: Az 1. § (1) bekezdés p) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kÍvül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
-[^5]: Az 1. § (1) bekezdés q) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kÍvül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
-[^6]: Az 1. § (1) bekezdés r) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
-[^7]: Az 1. § (1) bekezdés s) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
-[^8]: Az 1. § (1) bekezdés t) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
-[^9]: Az 1. § (1) bekezdés u) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be.
-[^10]: Az 1. § (1) bekezdés v) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
-[^11]: Az 1. § (5) bekezdését a 82/2016. (XII. 15.) FM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés m) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (1) bekezdés n) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (1) bekezdés o) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
+[^5]: Az 1. § (1) bekezdés p) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kÍvül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
+[^6]: Az 1. § (1) bekezdés q) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kÍvül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
+[^7]: Az 1. § (1) bekezdés r) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
+[^8]: Az 1. § (1) bekezdés s) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
+[^9]: Az 1. § (1) bekezdés t) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
+[^10]: Az 1. § (1) bekezdés u) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be.
+[^11]: Az 1. § (1) bekezdés v) pontját a 30/2013. (IV. 30.) VM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 82/2016. (XII. 15.) FM rendelet 4. §-a.
+[^12]: Az 1. § (5) bekezdését a 82/2016. (XII. 15.) FM rendelet 1. §-a iktatta be.

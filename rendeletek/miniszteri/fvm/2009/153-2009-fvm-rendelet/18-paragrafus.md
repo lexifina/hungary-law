@@ -1,4 +1,4 @@
-## 18. § Az erdőgazdálkodói nyilvántartásból másolat kiadása iránti kérelmet az erdészeti hatóság központi szerve által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell benyújtani:
+## 18. §[^23] Az erdőgazdálkodói nyilvántartásból másolat kiadása iránti kérelmet a NÉBIH által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell benyújtani:
 
 a) adatszolgáltatást kérő természetes személyazonosító adatai,
 
@@ -13,3 +13,5 @@ e) igényelt példányszám,
 f) dátum, valamint
 
 g) adatszolgáltatást kérő személy aláírása.
+
+[^23]: A 18. § nyitó szövegrésze a 89/2016. (XII. 29.) FM rendelet 11. § c) pontja szerint módosított szöveg.

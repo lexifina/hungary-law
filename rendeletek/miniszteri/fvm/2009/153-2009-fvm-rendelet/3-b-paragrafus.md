@@ -1,4 +1,4 @@
-## 3/B. §[^13] A közjóléti berendezés létesítési engedélyezési tervének tartalmaznia kell:
+## 3/B. §[^15] A közjóléti berendezés létesítési engedélyezési tervének tartalmaznia kell:
 
 a) a létesítés helyének bemutatását (lehatárolás, földrajzi elhelyezkedés, megközelítés, meglévő infrastruktúra, meglévő közjóléti berendezések);
 
@@ -12,4 +12,4 @@ e) a közjóléti berendezés műszaki vázrajzát;
 
 f) ha a kérelmet nem az erdőgazdálkodó nyújtotta be, az erdőgazdálkodó hozzájáruló nyilatkozatát.
 
-[^13]: A 3/B. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^15]: A 3/B. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.

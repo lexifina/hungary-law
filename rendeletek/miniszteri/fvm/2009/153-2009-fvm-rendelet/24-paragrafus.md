@@ -6,7 +6,7 @@ b) a tárgyév első felében befejezett fakitermeléseket tárgyév július 31-
 
 köteles bejelenteni.
 
-(2) A bejelentést az erdészeti hatóság központi szerve által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell teljesíteni:
+(2)[^34] A bejelentést a NÉBIH által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell teljesíteni:
 
 a) az erdőgazdálkodó neve, erdőgazdálkodói kódszáma,
 
@@ -22,19 +22,19 @@ f) a keletkező erdőfelújítási kötelezettség mértéke,
 
 g) a választott erdőtervi erdősítési előírás,
 
-h)[^29] dátum,
+h)[^35] dátum,
 
-i)[^30] az erdőgazdálkodó aláírása, valamint
+i)[^36] az erdőgazdálkodó aláírása, valamint
 
-j)[^31] a jogosult erdészeti szakszemélyzet ellenjegyzése.
+j)[^37] a jogosult erdészeti szakszemélyzet ellenjegyzése.
 
 (3) Az (1) bekezdés a) pontja szerinti bejelentéshez csatolni kell a mesterséges erdősítések elvégzése során felhasznált erdészeti szaporítóanyagra vonatkozó, az erdészeti szaporítóanyag előállításáról és forgalomba hozataláról szóló külön jogszabály szerinti erdészeti szaporítóanyag származási igazolvány másolatát, melyen az egyes mennyiségek tételes levezetésével fel kell tüntetni a bizonylaton szereplő szaporítóanyag felhasználási helyét.
 
 (4) Amennyiben a végrehajtott tevékenység nem a teljes erdőrészletet érinti, a bejelentéshez csatolni kell a végrehajtással érintett részterületet – a töréspontok legalább 5 m pontosságú EOV koordinátáin alapuló vonalakkal – ábrázoló erdészeti nyilvántartási térkép 1:10 000 méretarányú másolatát.
 
-(5)[^32] A fakitermelés mértékét hengeres fa, sarangolt választék és egyéb faválaszték esetén nettó köbméterben, apríték esetén köbméterben vagy megfelelő tömegegységben kell megadni.
+(5)[^38] A fakitermelés mértékét hengeres fa, sarangolt választék és egyéb faválaszték esetén nettó köbméterben, apríték esetén köbméterben vagy megfelelő tömegegységben kell megadni.
 
-(6)[^33] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével a jogosult erdészeti szakszemélyzet igazolja, hogy
+(6)[^39] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével a jogosult erdészeti szakszemélyzet igazolja, hogy
 
 a) a végrehajtással érintett erdőrészletekben a 23. § (1) bekezdésében meghatározott bejelentésben szereplő mértékben (vagy részterületesen) kerültek végrehajtásra a jogszerűen végezhető erdőgazdálkodási tevékenységek, valamint a bejelentett adatok a valóságnak megfelelnek,
 
@@ -44,11 +44,12 @@ c) a jogszerűen végezhető erdőgazdálkodási tevékenységek szakszerű vég
 
 d) a jogszerűtlenül végrehajtott erdőgazdálkodási tevékenység típusát és mértékét a végrehajtás utáni valós állapotnak megfelelően feltüntették.
 
-(7)[^34] Ha a fakitermelés a 23. § (1) bekezdésében meghatározott bejelentésben szereplő lehetőségnél kisebb mértékben, vagy a (6) bekezdés d) pontja szerint került végrehajtásra, a bejelentésben a végrehajtás fafajonkénti mértékét is meg kell jelölni.
+(7)[^40] Ha a fakitermelés a 23. § (1) bekezdésében meghatározott bejelentésben szereplő lehetőségnél kisebb mértékben, vagy a (6) bekezdés d) pontja szerint került végrehajtásra, a bejelentésben a végrehajtás fafajonkénti mértékét is meg kell jelölni.
 
-[^29]: A 24. § (2) bekezdés h) pontja a 27/2016. (IV. 11.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^30]: A 24. § (2) bekezdés i) pontja a 27/2016. (IV. 11.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^31]: A 24. § (2) bekezdés j) pontját a 27/2016. (IV. 11.) FM rendelet 2. § (1) bekezdése iktatta be.
-[^32]: A 24. § (5) bekezdését a 27/2016. (IV. 11.) FM rendelet 2. § (2) bekezdése iktatta be.
-[^33]: A 24. § (6) bekezdését a 27/2016. (IV. 11.) FM rendelet 2. § (2) bekezdése iktatta be.
-[^34]: A 24. § (7) bekezdését a 27/2016. (IV. 11.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^34]: A 24. § (2) bekezdés nyitó szövegrésze a 89/2016. (XII. 29.) FM rendelet 11. § c) pontja szerint módosított szöveg.
+[^35]: A 24. § (2) bekezdés h) pontja a 27/2016. (IV. 11.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^36]: A 24. § (2) bekezdés i) pontja a 27/2016. (IV. 11.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^37]: A 24. § (2) bekezdés j) pontját a 27/2016. (IV. 11.) FM rendelet 2. § (1) bekezdése iktatta be.
+[^38]: A 24. § (5) bekezdését a 27/2016. (IV. 11.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^39]: A 24. § (6) bekezdését a 27/2016. (IV. 11.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^40]: A 24. § (7) bekezdését a 27/2016. (IV. 11.) FM rendelet 2. § (2) bekezdése iktatta be.

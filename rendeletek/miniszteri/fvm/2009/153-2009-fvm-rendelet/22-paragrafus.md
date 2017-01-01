@@ -4,7 +4,7 @@
 
 (3) A szemle másolat az erdőrészlet aktuális adatait tartalmazza. Szemle másolatként meghatározott erdőrészletek körére vonatkozó, feldolgozott adat, illetőleg erdészeti nyilvántartási térképmásolat is kérelmezhető. Szemle másolat korlátozás nélkül kiadható.
 
-(4)[^24] Teljes másolat kizárólag
+(4)[^27] Teljes másolat kizárólag
 
 a) az erdőgazdálkodó,
 
@@ -16,7 +16,7 @@ d) az ingatlanügyi hatóság
 
 ## részére adható ki.
 
-(5) Adattári másolat kiadása iránti kérelmet az erdészeti hatóság központi szerve által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell benyújtani:
+(5)[^28] Adattári másolat kiadása iránti kérelmet a NÉBIH által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon kell benyújtani:
 
 a) adatszolgáltatást kérő természetes személyazonosító adatai,
 
@@ -34,4 +34,5 @@ g) dátum, valamint
 
 h) adatszolgáltatást kérő személy aláírása.
 
-[^24]: A 22. § (4) bekezdése a 85/2012. (VIII. 6.) VM rendelet 13. §-ával megállapított szöveg.
+[^27]: A 22. § (4) bekezdése a 85/2012. (VIII. 6.) VM rendelet 13. §-ával megállapított szöveg.
+[^28]: A 22. § (5) bekezdés nyitó szövegrésze a 89/2016. (XII. 29.) FM rendelet 11. § c) pontja szerint módosított szöveg.

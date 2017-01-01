@@ -1,6 +1,6 @@
-## 3/D. §[^15] A közjóléti berendezés és létesítmény használatbavételét az erdészeti hatóság központi szerve által rendszeresített és honlapján közzétett, 20/A. § szerinti adatokat tartalmazó formanyomtatványon kell bejelenteni.
+## 3/D. §[^17] A közjóléti berendezés és létesítmény használatbavételét a NÉBIH által rendszeresített és honlapján közzétett, 20/A. § szerinti adatokat tartalmazó formanyomtatványon kell bejelenteni.
 
-3/E. §[^16] (1) Nem helyezhető el közjóléti berendezésként meghatározóan reklám célú irányító- és tájékoztató tábla.
+3/E. §[^18] (1) Nem helyezhető el közjóléti berendezésként meghatározóan reklám célú irányító- és tájékoztató tábla.
 
 (2) Fokozottan tűzveszélyes állományban nem létesíthető tűzrakóhely.
 
@@ -12,8 +12,8 @@
 
 (6) Erdőben csak az erdő rendeltetéseivel, közjóléti szerepével és a fenntartható erdőgazdálkodással összhangban álló, rendeltetésszerű használatra alkalmas közjóléti berendezés és létesítmény helyezhető el és tartható fenn.
 
-(7)[^17] Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 93. § (1) bekezdés b) pontja szerint kijelölt turistaútvonal 20/A. § (4) bekezdés szerinti adatait az erdőgazdálkodó a létesítést követő 30 napon belül köteles bejelenteni az erdészeti hatóságnak.
+(7)[^19] Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 93. § (1) bekezdés b) pontja szerint kijelölt turistaútvonal 20/A. § (4) bekezdés szerinti adatait az erdőgazdálkodó a létesítést követő 30 napon belül köteles bejelenteni az erdészeti hatóságnak.
 
-[^15]: A 3/D. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^16]: A 3/E. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^17]: A 3/E. § (7) bekezdése a 27/2016. (IV. 11.) FM rendelet 5. § a) pontja szerint módosított szöveg.
+[^17]: A 3/D. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be, szövege a 89/2016. (XII. 29.) FM rendelet 11. § c) pontja szerint módosított szöveg.
+[^18]: A 3/E. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^19]: A 3/E. § (7) bekezdése a 27/2016. (IV. 11.) FM rendelet 5. § a) pontja szerint módosított szöveg.

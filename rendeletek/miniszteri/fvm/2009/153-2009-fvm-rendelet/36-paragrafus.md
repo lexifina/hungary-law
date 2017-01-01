@@ -8,7 +8,7 @@ b) az a) pont szerinti adatok feldolgozásáról, és kiértékeléséről.
 
 (3) Az erdővédelmi mérő- és megfigyelőrendszer működtetése során az erdészeti hatóság gondoskodik:
 
-a)[^36] a 35. § (2) bekezdésének d)–h) pontjai szerinti alrendszerekben folyó adatgyűjtésről, továbbá
+a)[^43] a 35. § (2) bekezdésének d)–h) pontjai szerinti alrendszerekben folyó adatgyűjtésről, továbbá
 
 b) az a) pont szerint adatok feldolgozásáról, és kiértékeléséről.
 
@@ -28,4 +28,4 @@ f) az adatok tárolásáról.
 
 (5) A vizsgálati adatokat és eredményeket tartalmazó adatállományok az Adattár önálló alrendszereit képezik.
 
-[^36]: A 36. § (3) bekezdés a) pontja a 24/2012. (III. 19.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^43]: A 36. § (3) bekezdés a) pontja a 24/2012. (III. 19.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
