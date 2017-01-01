@@ -40,7 +40,7 @@ g) kilométerszámláló műszere által jelzett értéket (kilométeróra-áll�
 
 (5) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsiból, vontatóból, pótkocsiból és autóbuszból
 
-a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
+a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Kormány által rendeletben kijelölt szerv által vezetett egyéni vállalkozók nyilvántartása tartalmaz,
 
 b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését is kérheti, amely alkalmasságát a települési önkormányzat jegyzője igazolja,
 

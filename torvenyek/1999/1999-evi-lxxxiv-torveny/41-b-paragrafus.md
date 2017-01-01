@@ -1,0 +1,1 @@
+41/B. § Felhatalmazást kap a Kormány, hogy kijelölje azokat az e törvény szerint adatigénylésre jogosult szerveket, amelyek eseti jellegű megkeresése esetén a nyilvántartó egyedi adatszolgáltatást végez a nyilvántartásból.

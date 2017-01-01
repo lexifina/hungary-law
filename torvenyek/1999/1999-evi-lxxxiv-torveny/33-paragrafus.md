@@ -20,7 +20,7 @@ b)
 
 (3) A jármű üzemben tartója (tulajdonosa), ha törvény eltérően nem rendelkezik, köteles a rendőrhatóság – adatkérés célját tartalmazó – felhívására a szabályszegés elkövetésekor a járművet vezető személyről adatot szolgáltatni. Az adatszolgáltatási kötelezettség legfeljebb az adatkérést megelőző hat hónap időtartamra terjed ki.
 
-(4) Ha a jármű új tulajdonosa az (1) bekezdés b) pontjában meghatározott kötelezettségének önhibájából nem tett eleget, és a késedelmes teljesítéssel egyidejűleg a mulasztást nem igazolja, a járművet az illetékes hatóság a külön jogszabályban meghatározott időtartamra kivonja a forgalomból.
+(4) Ha a jármű új tulajdonosa az (1) bekezdés b) pontjában meghatározott kötelezettségének nem tett eleget, a járművet az illetékes hatóság a külön jogszabályban meghatározott időtartamra kivonja a forgalomból.
 
 (5) A jármű tulajdonosa (üzembentartója) a járműokmány és a jármű hatósági jelzése, a jogosított – parkolási igazolvány esetében a jogosított vagy annak törvényes képviselője – a járművezetésre jogosító okmány, illetve a parkolási igazolvány elvesztését, megsemmisülését, eltulajdonítását a közlekedési igazgatási hatóságnál köteles haladéktalanul, de legkésőbb a tudomására jutástól számított három munkanapon belül bejelenteni.
 

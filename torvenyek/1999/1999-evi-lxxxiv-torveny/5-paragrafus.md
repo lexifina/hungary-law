@@ -24,4 +24,16 @@ j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak szá
 
 k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
 
-(2)
+(2) A Kormány által rendeletben kijelölt közlekedési igazgatási hatóság
+
+a) végzi a járművek előzetes eredetiségvizsgálatát;
+
+b) lefolytatja a járművek azonosító jellel történő utólagos ellátásának engedélyezési eljárását;
+
+c) a külföldről behozott használt jármű származásellenőrzési nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően a jármű származását ellenőrzi, és ennek érdekében
+
+ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS II-ből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
+
+cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása számára a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
+
+cc) a ca) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, és a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
