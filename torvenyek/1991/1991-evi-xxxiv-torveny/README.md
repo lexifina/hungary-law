@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2016-10-05 | 2016. évi XCVII. törvény | 1991-34-00-00.72 |
 | 2016-10-20 | 2016. évi XCVII. törvény | 1991-34-00-00.73 |
 | 2016-11-26 | 2016. évi CXXV. törvény | 1991-34-00-00.74 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 1991-34-00-00.75 |
