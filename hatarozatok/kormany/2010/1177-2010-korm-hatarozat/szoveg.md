@@ -18,7 +18,7 @@ a) az NPTB elnöke útján javaslatot tesz kormányzati intézkedés megtételé
 
 b) évente jelentést készít a Kormány részére a feladatkörébe tartozó ügyek aktuális helyzetéről, és a megtett intézkedésekről.
 
-4. Az NPTB elnöke a miniszterelnök általános helyettese, alelnöke a Külügyminisztérium parlamenti államtitkára. Az NPTB titkára a Közigazgatási és Igazságügyi Minisztérium nemzetpolitikáért felelős helyettes államtitkára.
+4.[^2] Az NPTB elnöke a miniszterelnök általános helyettese, alelnöke a Külgazdasági és Külügyminisztérium Magyarország szomszédságpolitikájának fejlesztéséért felelős miniszteri biztosa. Az NPTB titkára a Közigazgatási és Igazságügyi Minisztérium nemzetpolitikáért felelős helyettes államtitkára.
 
 5. Az NPTB további tagjai (a továbbiakban: bizottsági tag):
 
@@ -26,13 +26,13 @@ a) a Belügyminisztérium parlamenti államtitkára,
 
 b) a Közigazgatási és Igazságügyi Minisztérium parlamenti államtitkára, a társadalmi felzárkózásért felelős államtitkára, a kormányzati kommunikációért felelős államtitkára, a területi közigazgatásért és választásokért felelős államtitkára, valamint az egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
 
-c) a Külügyminisztérium európai uniós ügyekért felelős államtitkára,
+c)[^3] Külgazdasági és Külügyminisztérium külföldi magyar intézetekért és nemzetközi oktatási kapcsolatokért felelős helyettes államtitkára,
 
 d) a Nemzeti Erőforrás Minisztérium oktatásért felelős államtitkára, a szociális, család- és ifjúságügyért felelős államtitkára, az egészségügyért felelős államtitkára, a sportpolitikáért felelős államtitkára, valamint a kultúráért felelős államtitkára,
 
 e) a Nemzeti Fejlesztési Minisztérium parlamenti államtitkára, a fejlesztéspolitikai koordinációért felelős államtitkára, valamint az infokommunikációért felelős államtitkára,
 
-f)[^1] a Nemzetgazdasági Minisztérium parlamenti és gazdaságstratégiáért felelős államtitkára, valamint a gazdaságszabályozásért felelős államtitkára,
+f)[^4] a Nemzetgazdasági Minisztérium parlamenti és gazdaságstratégiáért felelős államtitkára, valamint a gazdaságszabályozásért felelős államtitkára,
 
 g) a Vidékfejlesztési Minisztérium parlamenti államtitkára, a környezetügyért felelős államtitkára, valamint a vidékfejlesztésért felelős államtitkára, és
 
@@ -44,7 +44,7 @@ h) a Központi Statisztikai Hivatal elnöke.
 
 8. Az NPTB ülésére az NPTB elnöke a bizottsági tagokon kívül szakértőként más személyt is meghívhat.
 
-9.[^2] A Kormány
+9.[^5] A Kormány
 
 a) felkéri
 
@@ -62,17 +62,11 @@ af) a Nemzetpolitikai Kutatóintézet igazgatóját,
 
 az NPTB munkájában állandó meghívottként, személyes vagy delegáltja útján történő részvételre,
 
-b) felhívja
+b)[^6]
 
-ba) az emberi erőforrások miniszterét, hogy a Kulturális Örökségvédelmi Hivatal elnökének,
+10.[^7] Az NPTB teljes ülésére, az NPTB elnökének vezetésével, a 4., 5. és 6. pontban felsorolt valamennyi tag részvételével szükség szerint, de legalább félévente kerül sor. Az NPTB teljes ülését az NPTB elnöke – az NPTB Titkársága útján – hívja össze.
 
-bb) a közigazgatási és igazságügyi minisztert, hogy a Balassi Intézet főigazgatójának
-
-az NPTB munkájában állandó meghívottként, személyesen vagy delegáltja útján történő részvételéről gondoskodjon.
-
-10.[^3] Az NPTB teljes ülésére, az NPTB elnökének vezetésével, a 4., 5. és 6. pontban felsorolt valamennyi tag részvételével szükség szerint, de legalább félévente kerül sor. Az NPTB teljes ülését az NPTB elnöke – az NPTB Titkársága útján – hívja össze.
-
-11.[^4] Az NPTB munkacsoporti ülésére, az NPTB Titkárának vezetésével, a 6. pontban meghatározott tagok részvételével szükség szerint, de legalább negyedévente kerül sor. A munkacsoporti ülést az NPTB Titkára hívja össze.
+11.[^8] Az NPTB munkacsoporti ülésére, az NPTB Titkárának vezetésével, a 6. pontban meghatározott tagok részvételével szükség szerint, de legalább negyedévente kerül sor. A munkacsoporti ülést az NPTB Titkára hívja össze.
 
 12. Az NPTB rendkívüli ülésének összehívását bármely bizottsági tag, az indok egyidejű megjelölésével kezdeményezheti az NPTB elnökénél.
 
@@ -82,14 +76,17 @@ az NPTB munkájában állandó meghívottként, személyesen vagy delegáltja ú
 
 15. Az NPTB Titkársága gondoskodik az NPTB ülésének napirendjéhez kapcsolódó dokumentumok bizottsági tagok részére történő megküldéséről.
 
-16.[^5] Az NPTB üléseiről emlékeztető készül. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a bizottsági tagok részére történő megküldéséről – az ülést követő tizenöt munkanapon belül – az NPTB Titkársága gondoskodik.
+16.[^9] Az NPTB üléseiről emlékeztető készül. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a bizottsági tagok részére történő megküldéséről – az ülést követő tizenöt munkanapon belül – az NPTB Titkársága gondoskodik.
 
 17. Az NPTB működésének részletes szabályait ügyrendjében állapítja meg.
 
 18. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
 
-[^1]: Az 5. pont f) alpontja az 1446/2011. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
-[^2]: A 9. pont az 1149/2012. (V. 15.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 10. pont az 1446/2011. (XII. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: A 11. pont az 1446/2011. (XII. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^5]: A 16. pont az 1149/2012. (V. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: Az 5. pont c) alpontja az 1853/2016. (XII. 27.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 5. pont f) alpontja az 1446/2011. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 9. pont az 1149/2012. (V. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 9. pont b) alpontját az 1853/2016. (XII. 27.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^7]: A 10. pont az 1446/2011. (XII. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^8]: A 11. pont az 1446/2011. (XII. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^9]: A 16. pont az 1149/2012. (V. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
