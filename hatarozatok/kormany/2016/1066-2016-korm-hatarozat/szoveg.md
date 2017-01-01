@@ -2,7 +2,7 @@ A Kormány a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhel
 
 1. egyetért azzal, hogy az egykori Pénzügyminisztérium épületéből kiköltöző szervezetek és intézményi részegységek a Budapest I. kerület, Táncsics Mihály utca 1. és Táncsics Mihály utca 9., valamint a Budapest XI. kerület, Daróczi út 3. szám alatti ingatlanokban kerüljenek elhelyezésre;
 
-2. felhívja a Miniszterelnökséget vezető minisztert, hogy a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ útján (a továbbiakban: Forster Központ) gondoskodjon
+2.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Korlátolt Felelősségű Társaság útján (a továbbiakban: Budavári Nonprofit Kft.) gondoskodjon
 
 a) a Budapest I. kerület, Szentháromság tér 6. szám alatti, egykori pénzügyminisztériumi épület rekonstrukciójához szükséges részletes költség- és ütemterv kidolgozásáról,
 
@@ -12,10 +12,13 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. február 29.
 
-3. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Szentháromság tér 6. szám alatti, illetve az 1. pontban megjelölt ingatlanokkal kapcsolatos beruházások előkészítési és tervezési munkálatainak lefolytatása érdekében 1500,0 millió forint forrás biztosításáról a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezetben a Forster Központ javára.
+3.[^2] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Szentháromság tér 6. szám alatti, illetve az 1. pontban megjelölt ingatlanokkal kapcsolatos beruházások előkészítési és tervezési munkálatainak lefolytatása érdekében 1500,0 millió forint forrás biztosításáról a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezetben a Budavári Nonprofit Kft. javára.
 
 Felelős: nemzetgazdasági miniszter
 
 Határidő: 500,0 millió forint tekintetében 2016. február 29.
 
 1000,0 millió forint tekintetében 2016. április 30.
+
+[^1]: A 2. pont nyitó szövegrésze az 1853/2016. (XII. 27.) Korm. határozat 71. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1853/2016. (XII. 27.) Korm. határozat 71. pont b) alpontja szerint módosított szöveg.
