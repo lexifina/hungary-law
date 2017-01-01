@@ -28,4 +28,6 @@ g) a b)–e) pontok szerinti ellátások esetében betegszállítás, ha egészs
 
 (4) A felsoroltakat meghaladó ellátás térítési díjához a Szolgálat nem nyújt támogatást.
 
-(5) A térítés részletes szabályait a Szolgálat és az Országos Egészségbiztosítási Pénztár által kötött együttműködési megállapodás tartalmazza.
+(5)[^1] A térítés részletes szabályait a Szolgálat és a Nemzeti Egészségbiztosítási Alapkezelő által kötött együttműködési megállapodás tartalmazza.
+
+[^1]: A 8. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 51. §-a szerint módosított szöveg.
