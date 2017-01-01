@@ -8,15 +8,17 @@
 
 (2) Az egészségbiztosítási pénzbeli ellátás iránti igény az igénybejelentés napjától visszamenőleg legfeljebb hat hónapra érvényesíthető. Az ellátást legkorábban az igénybejelentés napját megelőző 6. hónap első napjától lehet megállapítani.
 
+(2a) Ha a pénzbeli ellátás, illetve a baleseti táppénz iránti kérelem elbírálására indított eljárás a Ket. 31. § (1) bekezdés l) pontja alapján megszüntetésre került, úgy az ugyanazon ügyben az (1) bekezdésben meghatározott határidőn túl, de az előzetes kérdés elbírálásában hozott döntés jogerőre emelkedésének a napjától számított hat hónapon belül ismételten benyújtott pénzbeli ellátás, baleseti táppénz iránti igényt határidőben benyújtottnak kell tekinteni és érdemben el kell bírálni. Az ismételten benyújtott kérelem érdemi elbírálásának az első kérelem alapján indult eljárásban hozott megszüntető végzés jogerőre emelkedését követő öt éven belül van helye. E határidő elmulasztása miatt igazolásnak helye nincs.
+
 (3) Az igénybejelentés napja a kérelem benyújtásának – vagy ha a kérelmet posta útján terjesztették elő a kérelem postára adásának – igazolt napja.
 
 (4) Ha a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, és ezért az egészségbiztosítás ellátásai közül a pénzbeli ellátás vagy a baleseti táppénz összege magasabb összegben kerül megállapításra, úgy a különbözet kiutalására akkor kerülhet sor, ha az meghaladja az ezer forintot.
 
 (5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az OEP honlapján közzétett számítógépes program segítségével töltheti ki és állíthatja elő.
 
-(5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmekhez, továbbá a kifizetőhelyi feladatellátás során az OEP által rendszeresített, az OEP honlapján közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
+(5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmekhez, továbbá a kifizetőhelyi feladatellátás során az egészségbiztosító által rendszeresített, az egészségbiztosító honlapján közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
 
-(5b) Az igénylő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet az OEP által rendszeresített és az OEP honlapján közzétett nyomtatványon nyújthatja be.
+(5b) Az igénylő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet az egészségbiztosító által rendszeresített és az egészségbiztosító honlapján közzétett nyomtatványon nyújthatja be.
 
 (6) Az igényelbíráló szerv az ügyfelet személyes megjelenésre is felhívhatja az igény elbírálása érdekében. Ha az ellátásban részesülő az orvosi vizsgálaton vagy a kórházban a jogkövetkezményekről való tájékoztatást tartalmazó ismételt felhívásra sem jelenik meg, vagy az orvosi felülvizsgálatnak, kórházi megfigyelésnek elfogadható indok nélkül nem veti magát alá és emiatt a kérelmet elbírálni nem lehet, az eljárást meg kell szüntetni.
 

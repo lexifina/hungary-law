@@ -6,7 +6,7 @@ b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló
 
 c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
 
-d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, családi napközi, házi gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
+d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
 
 e) a jogosult előzetes letartóztatásban van vagy szabadságvesztés-, elzárásbüntetését tölti;
 

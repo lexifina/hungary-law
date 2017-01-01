@@ -16,7 +16,13 @@
 
 (9) A határon átnyúló egészségügyi szolgáltatói és szolgáltatási együttműködések finanszírozásának részletes szabályait a kormány rendeletben állapítja meg. A határon átnyúló egészségügyi szolgáltatásokra vonatkozó együttműködési megállapodásokat az egészségbiztosításért felelős miniszter tájékoztatóban teszi közzé.
 
-(10) Amennyiben a biztosított valamely EGT tagállam területén ellátást vesz igénybe, az egészségbiztosító engedélyezheti a magyarországi egészségügyi szolgáltatóhoz történő szállítás megtérítését.
+(9a) Az egészségbiztosító döntése ellen fellebbezésnek van helye, ha
+
+a) az egészségbiztosító azzal az indokkal utasítja el a külföldi gyógykezelésre irányuló kérelmet, hogy a biztosítottat Magyarországon közfinanszírozott egészségügyi szolgáltató el tudja látni a kérelemben megjelölt orvosilag indokolt időn belül, vagy
+
+b) az egészségbiztosító a külföldi gyógykezelésre jogosult személy által választott külföldi egészségügyi szolgáltató helyett a jogosultság-igazolásban az EGT tagállamban vagy Svájcban letelepedett másik külföldi egészségügyi szolgáltatóra tesz javaslatot.
+
+(10) Ha a biztosított valamely EGT tagállam területén ellátást vesz igénybe, az egészségbiztosító engedélyezheti a magyarországi egészségügyi szolgáltatóhoz történő szállítás megtérítését. Az engedély tárgyában hozott döntés ellen fellebbezésnek van helye.
 
 (11) A biztosított által valamely EGT tagállam területén történő ideiglenes tartózkodása során igénybe vett egészségügyi szolgáltatásra – az uniós rendeletek szerint – jogosító, az egészségbiztosító által kibocsátott Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya), illetve az azt helyettesítő nyomtatványt az egészségbiztosító a biztosított kérelmére, a (12) bekezdésben foglaltak kivételével díjmentesen, a külön jogszabályban foglaltak figyelembevételével bocsátja a biztosított rendelkezésére.
 

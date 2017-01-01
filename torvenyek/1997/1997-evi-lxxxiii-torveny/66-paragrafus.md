@@ -4,9 +4,9 @@
 
 ## Visszafizetési és megtérítési kötelezettség
 
-66. § (1) Az, aki egészségbiztosítás ellátásai közül pénzbeli ellátást, baleseti járadékot, baleseti táppénzt, vagy utazási költséghez nyújtott támogatást (e szakasz alkalmazásában együtt: ellátás) jogalap nélkül vett fel, köteles azt visszafizetni, ha erre a felvételtől számított kilencven napon belül írásban kötelezték.
+66. § (1) Az, aki egészségbiztosítás ellátásai közül pénzbeli ellátást, baleseti táppénzt, vagy utazási költséghez nyújtott támogatást (e szakasz alkalmazásában együtt: ellátás) jogalap nélkül vett fel, köteles azt visszafizetni, ha erre a felvételtől számított kilencven napon belül írásban kötelezték.
 
-(1a) Az, aki az egészségbiztosítás pénzbeli ellátását vagy baleseti táppénzt azért vett fel jogalap nélkül, mert az ellátásban részesülő biztosítottra vonatkozóan a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, felróhatóságra való tekintet nélkül köteles azt visszafizetni.
+(1a) Az, aki az egészségbiztosítás pénzbeli ellátását vagy baleseti táppénzt azért vett fel jogalap nélkül, mert az ellátásban részesülő biztosítottra vonatkozóan a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, vagy a biztosított jövedelméről a bevallás pótlólag került benyújtásra, felróhatóságra való tekintet nélkül köteles a jogalap nélkül felvett ellátást visszafizetni.
 
 (1b) Ha a szülők egyike jogalap nélkül vette fel a gyermekük után járó pénzbeli ellátást vagy gyermekgondozási támogatást, mindkét szülő erre irányuló egybehangzó nyilatkozata alapján a jogalap nélkül felvett ellátás a másik szülőnek – a közös háztartásban nevelt gyermekükre tekintettel – megállapított pénzbeli ellátás összegéből levonható. Ha a szülők nem járulnak hozzá egybehangzó nyilatkozattal a levonáshoz, a jogalap nélkül felvett ellátást – felróhatóságra tekintet nélkül – az a szülő köteles visszafizetni, aki az ellátást felvette.
 

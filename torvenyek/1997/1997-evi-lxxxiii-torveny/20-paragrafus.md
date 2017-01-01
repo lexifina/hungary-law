@@ -28,7 +28,9 @@ c) a (4) bekezdés szerinti esetben,
 
 d) az azonnali ellátásnak a biztosított állapota miatti indokoltsága esetén,
 
-e) a biztosított hátrányára a biztosított kérése alapján
+e) a biztosított hátrányára a biztosított kérése alapján,
+
+f) a szűréssel érintett, abból eredő ellátások esetében az állam által szervezett, nem kötelező szűrővizsgálaton való részvételnek a szűrővizsgálatot végző egészségügyi szolgáltató általi írásbeli igazolása alapján
 
 lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségbiztosításért felelős miniszter rendeletben határozza meg.
 

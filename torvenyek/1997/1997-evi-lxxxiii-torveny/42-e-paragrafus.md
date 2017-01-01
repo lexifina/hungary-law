@@ -10,7 +10,7 @@ d) a gyermeket saját háztartásában neveli,
 
 e) magyar állampolgár vagy másik EGT tagállam állampolgára, és
 
-f) a szülés időpontjában rendelkezik magyarországi bejelentett lakóhellyel.
+f) a gyermek születésének napján rendelkezik magyarországi bejelentett lakóhellyel.
 
 (2) Az (1) bekezdés alapján megállapított gyermekgondozási díj a gyermek születésének napjától a gyermek 1 éves koráig jár.
 
@@ -32,7 +32,7 @@ b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésbe
 
 70 százaléka.
 
-(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a szülés napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
+(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a gyermek születésének napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
 
 (7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított a számítási időszakban nem rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás naptári napi alapját a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része alapján kell megállapítani azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni. Az így megállapított gyermekgondozási díj összege nem lehet alacsonyabb az (5) bekezdésben meghatározott összegnél.
 

@@ -1,6 +1,6 @@
 19/A. § (1) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadása külön jogszabály szerinti eljárásban történik.
 
-(1a) Az (1) bekezdés szerinti eljárásban a kérelmet – az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendeletben meghatározott adattartalmú nyomtatvány vagy elektronikus űrlap kitöltésével – papír alapon és elektronikus adathordozón is be kell nyújtani.
+(1a) Az (1) bekezdés szerinti eljárásban a kérelmet – az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendeletben meghatározott adattartalmú elektronikus űrlap kitöltésével elektronikusan kell benyújtani.
 
 (1b) Ha a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelem új eszközt igénylő, illetve új eszközt nem igénylő új orvosi eljárásra vagy korábban befogadott eszköz, orvosi eljárás új indikációban való alkalmazására irányul, az ügyintézési határidő hatvan nap.
 

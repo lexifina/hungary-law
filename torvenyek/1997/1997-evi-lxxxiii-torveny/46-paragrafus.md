@@ -1,10 +1,10 @@
-46. § (1) Táppénz a keresőképtelenség tartamára jár, legfeljebb azonban
+46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 5. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
 
-a) a biztosítási jogviszony fennállásának időtartama alatt egy éven át;
+a) de legfeljebb egy éven át;
 
-b) egyévesnél fiatalabb gyermek szoptatása, illetőleg otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén a gyermek egyéves koráig;
+b) egyévesnél fiatalabb gyermek szoptatása, illetve otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén a gyermek egyéves koráig;
 
-c) egyévesnél idősebb, de háromévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként nyolcvannégy naptári napon át;
+c) egyévesnél idősebb, de háromévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek nyolcvannégy naptári napon át;
 
 d) háromévesnél idősebb, de hatévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek negyvenkettő, egyedülálló szülőnek nyolcvannégy naptári napon át;
 
@@ -14,7 +14,7 @@ e) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek otthoni ápol
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a biztosított, ha részére külön törvény rendelkezése szerint betegszabadság jár, a 44. § a) és f) pontjában említett keresőképtelenség esetében táppénzre legkorábban a betegszabadságra való jogosultság lejártát követő naptól jogosult.
 
-(3) Az, aki a keresőképtelensége első napját közvetlenül megelőző egy évnél rövidebb ideig volt folyamatosan biztosított, táppénzt csak a folyamatos biztosításának megfelelő ideig kaphat.
+(3)
 
 (4) Biztosításának a tartamára tekintet nélkül jár a táppénz annak, aki
 

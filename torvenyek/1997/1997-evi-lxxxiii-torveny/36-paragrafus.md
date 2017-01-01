@@ -18,4 +18,4 @@
 
 (8a) Az egészségügyi szolgáltató az ellenőrzési eljárás során köteles együttműködni az egészségbiztosítóval. Ha az egészségügyi szolgáltató vagy annak közreműködője az egészségbiztosító ellenőrzése során együttműködési, illetve adatszolgáltatási kötelezettségének felhívás ellenére sem tesz eleget vagy az ellenőrzés lefolytatását akadályozza, akkor az egészségbiztosító jogosult a finanszírozási összeget vagy annak az ellenőrzés tárgyára elkülöníthető részét mindaddig visszatartani, ameddig az egészségügyi szolgáltató vagy annak közreműködője kötelezettségének eleget nem tesz.
 
-(9) Az egészségbiztosító az (1)–(7) bekezdésekben foglalt ellenőrzések során a 30. § és a 31–33/A. §-ok szerinti szerződések alapján, mint szerződő fél jár el.
+(9) Az egészségbiztosító az (1), (2), (4)–(7) bekezdésben foglalt ellenőrzések során a 30. § és a 31–33/A. §-ok szerinti szerződések alapján, mint szerződő fél jár el.

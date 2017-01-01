@@ -12,7 +12,7 @@ b) a kiszolgáltató, forgalmazó nyilatkozata arról, hogy van-e a 30. § (2) b
 
 c) a kiszolgáltató, a forgalmazó, továbbá a 30. § (3) bekezdés szerinti szervezet, illetve a 30. § (3a) bekezdése szerinti gyártó nyilatkozata, amelyben vállalja, hogy a társadalombiztosítási támogatással történő kiszolgáltatás, forgalmazás, javítás és gyártás jogszabályban és szerződésben előírt feltételeit folyamatosan biztosítja.
 
-(3) A gyógyszer kiszolgáltatójának és a gyógyászati segédeszköz forgalmazójának tekintetében a 31. § (6)–(7) bekezdésében foglaltakat értelemszerűen kell alkalmazni.
+(3) A gyógyszer kiszolgáltatójának és a gyógyászati segédeszköz forgalmazójának tekintetében a 31. § (7) és (8) bekezdésében foglaltakat értelemszerűen kell alkalmazni.
 
 (4) A gyógyszer kiszolgáltatója és a gyógyászati segédeszköz forgalmazója köteles bejelenteni
 

@@ -6,10 +6,18 @@
 
 (4) Ha a biztosított a táppénzre való jogosultság első napját megelőzően nem rendelkezik 180 napnyi – a 48/A. § (2) bekezdése szerinti – folyamatos biztosítási jogviszonnyal, a táppénz naptári napi alapját a jogosultság kezdő napján érvényes minimálbér alapulvételével kell megállapítani, kivéve ha a tényleges vagy a szerződés szerinti jövedelme a minimálbért nem éri el. Ez esetben a táppénz naptári napi alapja a tényleges, ennek hiányában a szerződés szerinti jövedelem.
 
-(5) Ha a biztosított a táppénzre jogosultság kezdő napját közvetlenül megelőző harmadik hónap utolsó napjától a táppénzre jogosultságot közvetlenül megelőző év első napjáig terjedő időszakban azért nem rendelkezik legalább 180 naptári napi jövedelemmel, mert legalább 180 napig táppénzben, baleseti táppénzben, csecsemőgondozási díjban vagy gyermekgondozási díjban – kivéve a méltányosságból megállapított ellátásokat – részesült, a táppénz naptári napi összegét az utolsóként megállapított ellátás alapjának figyelembevételével kell megállapítani, ha az a szerződés szerinti jövedelménél kedvezőbb. Az ellátások idejének összeszámításánál csak azt az időszakot lehet figyelembe venni, ameddig a biztosítási idő a 48/A. § (1) bekezdése szerint folyamatos.
+(5) Ha a biztosított a táppénzre jogosultság kezdő napját közvetlenül megelőző harmadik hónap utolsó napjától a táppénzre jogosultságot közvetlenül megelőző év első napjáig terjedő időszakban azért nem rendelkezik legalább 180 naptári napi jövedelemmel, mert legalább 180 napig táppénzben, baleseti táppénzben, csecsemőgondozási díjban vagy gyermekgondozási díjban – kivéve a méltányosságból megállapított ellátásokat – részesült, a táppénz naptári napi összegét az utolsóként megállapított ellátás alapjának figyelembevételével kell megállapítani, ha a tényleges, ennek hiányában a szerződés szerinti jövedelménél kedvezőbb.
 
 (6) A táppénz alapjának kiszámítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
-(7) A táppénz összege a 48/A. § (1) bekezdése szerint folyamatos, legalább kétévi biztosítási idő esetében a táppénz alapjának 60%-a, ennél rövidebb biztosítási idő esetében, a fekvőbeteg-gyógyintézeti ellátás tartama alatt, valamint a 44. § d) pontjában meghatározott esetben 50%-a azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét.
+(7) A táppénz összege
+
+a) a táppénz alapjának 60%-a, ha a biztosított a 48/A. § (1) bekezdése szerinti folyamatos biztosítási időszak alatt rendelkezik legalább 730 – a Tbj. 5. §-a szerinti – biztosításban töltött nappal;
+
+b) a táppénz alapjának 50%-a, ha a biztosított az a) pontban meghatározottnál kevesebb – a Tbj. 5. §-a szerinti – biztosításban töltött nappal rendelkezik;
+
+c) a táppénz alapjának 50%-a a fekvőbeteg-gyógyintézeti ellátás tartama alatt, illetve a 44. § d) pontjában meghatározott esetben,
+
+azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét.
 
 (8) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
