@@ -1,14 +1,11 @@
-## 1. §[^1] E rendeletet a honvédelmi és katonai célú építmények építésügyi hatósági eljárásaiban, valamint a honvédelmi és katonai célú ingatlanokat érintő telekalakítási eljárásokban (a továbbiakban: eljárás) kell alkalmazni.
+## 2. §[^2] E rendelet alkalmazásában
 
-## 2. § E rendelet alkalmazásában:
+1. eljárás: az 1. § (1) és (2) bekezdésében meghatározott eljárások,
 
-1.[^2] Honvédelmi és katonai célú építmény, építményrész, építményegyüttes, ideértve az ezekhez az ingatlanokhoz közvetlenül tartozó nyomvonal jellegű építményeket is (a továbbiakban együtt: építmény): az az építmény, amely sajátos honvédelmi vagy katonai rendeltetésére tekintettel – beleértve a nemzetközi katonai szerződésekből eredő kötelezettséget is –honvédségi szolgálati viszonyon kívüli használata korlátozott, kivéve, ha az kizárólag sport, üdülési, lakás, kulturális, művelődési, oktatási, igazgatási célra szolgál, vagy abban szociális, illetve egészségügyi tevékenységet végeznek.
+2. honvédelmi és katonai célú építmény: az az építmény, építményrész, építmény-együttes, és annak rendeltetésszerű működéséhez szükséges vonalas és nem vonalas műtárgyak, amelyek létrehozása során a honvédelmi és katonai rendeltetés – ideértve a nemzetközi katonai szerződésekből eredő kötelezettséget is – sajátosságából adódóan különös funkcionális, építészeti-műszaki, technológiai, valamint minősítettadat-védelmi és információvédelmi követelmények megállapítására és teljesítésére, illetve az építmény használata során ezek fenntartására van szükség,
 
-2.[^3] Építtető: a honvédelemért felelős miniszter által építtetői feladatra feljogosított szervezet.
+3. honvédelmi és katonai célú ingatlan: az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet,
 
-3.[^4] Honvédelmi és katonai célú ingatlan: az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet.
+4. honvédelmi és katonai célú ingatlant érintő telekalakítási eljárás: olyan telekalakítási engedélyezési eljárás, amelyben a telekcsoport újraosztása, a telekfelosztás, a telekegyesítés vagy a telek-határrendezés honvédelmi és katonai célú ingatlan telekhatárának megváltozásával jár.
 
-[^1]: Az 1. § a 129/2010. (IV. 21.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 1. pontja a 260/2015. (IX. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^3]: A 2. § 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 235. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § 3. pontját a 129/2010. (IV. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 235. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
