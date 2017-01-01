@@ -1,4 +1,4 @@
-8/A. § (1) 2012. január 1-je és 2012. március 31-e között az egészségvédelmi bírság kiszabását az egészségügyi államigazgatási szerv mellőzi abban az esetben, ha a hatósági ellenőrzés során megállapított, e törvénybe ütköző jogsértést megvalósító cselekmény miatt e törvény 2011. december 31-én hatályos rendelkezései alapján bírság kiszabásának nem lett volna helye.
+8/A. § (1)
 
 (2) Az egészségügyi államigazgatási szerv (1) bekezdés szerinti eljárására a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak, azzal, hogy
 

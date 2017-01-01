@@ -16,9 +16,17 @@ b) annak megvizsgálásra vonatkozó díjakat, hogy az adott dohánytermék tart
 
 rendeletben határozza meg.
 
-(4b) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a cigaretta kátránykibocsátásának, nikotinkibocsátásának, szén-monoxid-kibocsátásának mérésére vonatkozó díjakat és a mérés szabályait rendeletben határozza meg.
+(4b) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a dohánytermékek nyilvántartásba vételére és vizsgálatára, valamint a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó díjakat rendeletben határozza meg.
 
-(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel és a kormányzati tevékenység összehangolásáért felelős miniszterrel egyetértésben
+
+a) az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalára, nyilvántartására és az ezzel kapcsolatos változások bejelentésére, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
+
+b) az új dohánytermék-kategóriák bejelentésére, nyilvántartására, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
+
+c) a dohánytermékek gyártása során felhasznált adalékanyagok bejelentésére, nyilvántartására, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos
+
+részletes szabályokat rendeletben határozza meg.
 
 (4d) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a módosított hatású terméknek történő minősítésre irányuló eljárás igazgatási szolgáltatási díját, valamint a Bizottság véleményére vonatkozó díj mértékét, továbbá a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
@@ -26,7 +34,7 @@ rendeletben határozza meg.
 
 a) a kombinált figyelmeztetéseket, egészségvédő figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohánytermékek fogyasztói csomagolási egységeire és az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz csomagolási egységeire vonatkozó részletes szabályokat, a dohányzási korlátozásra, valamint a dohányzóhelyek és elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatának kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek, valamint az elektronikus cigaretta,utántöltő flakon és dohányzást imitáló elektronikus eszköz előállításának, forgalmazásának és ellenőrzésének a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szabályozási körébe nem tartozó egyéb feltételeit,
 
-b) az egészségvédelmi bírság befizetésének, nyilvántartásának részletes szabályait,
+b) az egészségvédelmi bírság mértékének, befizetésének, nyilvántartásának részletes szabályait és a bírság megállapításának szempontrendszerét,
 
 c) a dohánytermékek összetevőire vonatkozó részletes szabályokat,
 

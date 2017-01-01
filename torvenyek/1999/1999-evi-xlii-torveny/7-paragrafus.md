@@ -6,17 +6,7 @@
 
 (3) Egészségvédelmi bírság csak azon természetes személy ellen szabható ki, aki a cselekmény elkövetésekor 14. életévét betöltötte.
 
-(4) Az egészségvédelmi bírság összege
-
-a) a dohányzással összefüggő tilalmak, korlátozások megsértése esetén legalább 20 000, legfeljebb 50 000 Ft;
-
-b) a dohányzóhelyek kijelölésére vonatkozó kötelezettség nem vagy nem megfelelő teljesítése, valamint a dohányzást érintő tilalmak, korlátozások megtartására vonatkozó ellenőrzési kötelezettség elmulasztása esetén, továbbá a dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeken, helyiségekben, valamint közterületeken nem, vagy nem megfelelő felirat vagy más egyértelmű jelzés alkalmazása esetén, illetve annak nem szembetűnő módon történő megjelölése esetén
-
-ba) legalább 100 000 Ft, legfeljebb 250 000 Ft az ezen kötelezettségek betartásáért felelős személy tekintetében, illetve
-
-bb) legalább 1 000 000, legfeljebb 2 500 000 Ft az intézmény, szervezet, üzemeltető vagy gazdasági társaság tekintetében.
-
-(5) A kiszabott egészségvédelmi bírság összegét úgy kell meghatározni, hogy az igazodjék a cselekmény súlyához és az elkövető személyi körülményeihez. Az eljáró hatóság a (4) bekezdés a) pontja szerinti esetben – az ott meghatározott összeghatártól eltérően – a törvénysértőt 30 000 Ft-ig terjedő helyszínen kiszabott egészségvédelmi bírsággal sújthatja. A helyszínen kiszabott bírság 30 napon belül történő meg nem fizetése esetén a (4) bekezdést kell alkalmazni.
+(4)–(5)
 
 (6)
 
