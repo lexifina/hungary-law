@@ -4,6 +4,6 @@
 
 (2) A fogyatkozás, illetve a halál hadi eredetének megállapításánál kizárólag a Hdt. 2. §-ában felsorolt események vehetők figyelembe.
 
-(3)[^1] Az (1) bekezdés szerinti kérelem benyújtásának feltétele a magyar állampolgárság igazolása.
+(3)[^1] Az (1) bekezdés szerinti kérelem benyújtásának feltétele – a Hdt. 1. § (1a) bekezdésében meghatározott eset kivételével – a magyar állampolgárság igazolása.
 
-[^1]: Az R. 1. § (3) bekezdését a 479/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^1]: Az R. 1. § (3) bekezdését a 479/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 489/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

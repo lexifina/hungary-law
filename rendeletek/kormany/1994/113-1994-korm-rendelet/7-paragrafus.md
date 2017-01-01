@@ -6,9 +6,9 @@
 
 (3)[^16] Az ápolási pótlék megállapításához szükséges szakvélemény kiadására a 2. §-ban foglaltak az irányadók azzal, hogy a szakvélemény kiadásánál a kérelmező általános egészségi állapotát kell figyelembe venni.
 
-(4)[^17] A volt hadiárva, a volt hadigondozott családtag és volt hadigyámolt járadéka iránti kérelem az 5/A. melléklet szerinti formanyomtatványon terjeszthető elő.
+(4)[^17] A volt hadiárva, a volt hadigondozott családtag és a volt hadigyámolt járadéka iránti kérelem az 5/A., az 5/B. vagy az 5/C. melléklet szerinti formanyomtatványon terjeszthető elő.
 
 [^14]: Az R. 7. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 479/2015. (XII. 29.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^15]: Az R. 7. § (2) bekezdése az 58/2008. (III. 26.) Korm. rendelet 5. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 479/2015. (XII. 29.) Korm. rendelet 6. § a) pontja és 7. §-a szerint módosított szöveg.
 [^16]: Az R. 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 332/2010. (XII. 27.) Korm. rendelet 4. § f) pontja, a 70/2015. (III. 30.) Korm. rendelet 12. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^17]: Az R. 7. § (4) bekezdését a 200/2015. (VII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^17]: Az R. 7. § (4) bekezdését a 200/2015. (VII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 489/2016. (XII. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

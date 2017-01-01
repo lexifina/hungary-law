@@ -1,10 +1,17 @@
 ## (A Hdt. 26. §-ához)
 
-14. § (1) A hadigondozási igény visszamenőlegesen nem érvényesíthető.
+14. §[^33] (1) A hadigondozotti ügyekben
 
-(2)[^31] A hadigondozási igazolvány a 6. számú melléklet szerinti, nyomdailag sorszámozott, szigorú számadású nyomtatvány. Az igazolványt a hadigondozásba vétellel egy időben kell kiadni. Az igazolványt a járási hivatal a Közalapítványtól ingyenesen igényelheti.
+a) az elsőfokú hadigondozási hatóság a fővárosi és megyei kormányhivatal hadigondozott lakóhelye vagy tartózkodási helye szerint illetékes járási (fővárosi kerületi) hivatala,
 
-(3)[^32] Az elsőfokú hadigondozási hatóság megszünteti a hadigondozási igényjogosultságot, ha a Hdt. 8. § (3) bekezdésében meghatározott megszüntető okokról tudomást szerez.
+b) a másodfokú hadigondozási hatóság a hadigondozott lakóhelye vagy tartózkodási helye szerint illetékes fővárosi vagy megyei kormányhivatal.
 
-[^31]: Az R. 14. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 59. §-a, a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^32]: Az R. 14. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 479/2015. (XII. 29.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+(2) Az (1) bekezdésben foglaltaktól eltérően
+
+a) a külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében az elsőfokú hadigondozási hatóság Budapest Főváros Kormányhivatala,
+
+b) a Hdt. 1. § (1a) bekezdésében meghatározott esetben az elsőfokú hadigondozási hatóság Budapest Főváros Kormányhivatala, és
+
+c) az a) és b) pontban meghatározott esetben a másodfokú hadigondozási hatóság a honvédelemért felelős miniszter.
+
+[^33]: Az R. 14. §-a a 489/2016. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

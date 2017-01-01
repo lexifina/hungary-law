@@ -40,6 +40,6 @@
 
 ## hatóság vezetőjének aláírása
 
-3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^46]
+3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^48]
 
-[^46]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 103. § b) és c) pontja szerint módosított szöveg.
+[^48]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 103. § b) és c) pontja szerint módosított szöveg.

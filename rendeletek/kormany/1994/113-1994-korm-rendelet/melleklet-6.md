@@ -1,88 +1,82 @@
 ## KÉRELEM
 
-## Igénybejelentés külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár esetében, a volt hadiárva, a volt hadigondozott családtag, és volt hadigyámolt rendszeres havi járadékának megállapításához.
+## Igénybejelentés a Hdt. 1. § (1a) bekezdésében foglalt esetben a volt hadiárva, a volt hadigondozott családtag és a volt hadigyámolt rendszeres havi járadékának megállapításához.
 
 ## Az igénylő:
+
+## állampolgársága:
 
 ## családi és utóneve:
 
 ## születési neve:
 
-## születési helye, ideje: ____________________________ ________év __________hó _______nap
+## születési helye, ideje: .................................................................., .................. év ............................................... hó .................. nap
 
-## lakóhelye: _____________ország _________________helység ___________________utca
+## lakóhelye: ................................................ ország ............................................... helység .................................................. utca
 
-## _______hsz. ______em. _______ajtó ________ir.sz.
+## .................. hsz. .................. em. .................. ajtó .................. ir.sz.
 
-## tartózkodási helye: _____________ország __________________helység ___________________utca
+## tartózkodási helye: ............................................ ország ................................................ helység ....................................... utca
 
-## _______hsz. ______em. _______ajtó ________ir.sz.
+## .................. hsz. .................. em. .................. ajtó .................. ir.sz.
 
-## anyja születési neve és házassági neve:
+## anyja születési neve és házassági neve: ...........................................................................................
 
-## anyja születési ideje, születési helye:
+## anyja születési ideje, születési helye: ...........................................................................................
 
-## anyja utolsó ismert lakcíme:
+## anyja utolsó ismert lakcíme: ...........................................................................................
 
-## TAJ száma*:
+## TAJ száma*: ...........................................................................................
 
 ## *(kitöltése csak abban az esetben szükséges, amennyiben rendelkezik magyar társadalombiztosítási azonosító jellel)
 
-## nyugdíjfolyósítási törzsszáma*:
+## nyugdíjfolyósítási törzsszáma*: ...........................................................................................
 
 ## *(kitöltése csak abban az esetben szükséges, amennyiben rendelkezik magyar nyugdíjfolyósítási törzsszámmal)
 
-## telefonszáma, levelezési címe (ha eltérő):
+## telefonszáma, levelezési címe (ha eltérő): ...........................................................................................
 
 ## Az elesett, hadifogságban elhunyt szülő (volt hadigondozott családtag esetén unoka, gyermek vagy testvér, továbbá volt hadigyámolt esetén a veszteséget szenvedett szülő) neve, akinek jogán a volt hadiárva, volt hadigyámolt, volt hadigondozott családtag a havi rendszeres járadékot igényli:
 
-## ____________________________________________________________________________________________________
+## .....................................................................................................................................................................................
 
 ## Az elesett, eltűnt, hadifogságban elhunyt személy elhalálozásának (volt hadigyámolt esetén a szülő által elszenvedett veszteség) ideje, helye, ezen személy utolsó ismert lakóhelye vagy tartózkodási helye:
 
 ## (elhalálozás hadi eredetének igazolása szükséges)
 
-## ____________________________________________________________________________________________________
+## .....................................................................................................................................................................................
 
 ## Az elesett, eltűnt, hadifogságban elhunyt személy (volt hadigyámolt esetén a veszteséget szenvedett szülő) adatai:
 
-## Neve: ……………………………………………….
+## Neve: ...........................................................................................
 
-## Születési helye, ideje: ……………………………..
+## Születési helye, ideje: ...........................................................................................
 
-## Anyja neve:………………………………………….
+## Anyja neve: ...........................................................................................
 
 ## Kérem, szíveskedjék részemre megállapítani a hadigondozásról szóló 1994. évi XLV. törvény 14/A. §-ában vagy 15/A. §-ában meghatározott havi rendszeres járadékot.
 
 ## A havi rendszeres járadékot mint:
 
-## - volt hadiárva
+## – volt hadiárva
 
-## - volt hadigyámolt
+## – volt hadigyámolt
 
-## - volt hadigondozott családtag
+## – volt hadigondozott családtag
 
-## igénylem. *
+## igénylem.*
 
-## (*A megfelelő rész aláhúzandó.)
+## (* A megfelelő rész aláhúzandó.)
 
 ## Az eljárás megindításáról kérelmére értesítjük.
 
 ## Nyilatkozatok: (Kérjük, húzza alá a megfelelő részt!)
 
-## 1. Nyilatkozom, hogy magyar állampolgársággal rendelkezem, melynek igazolására csatolom:
-
-## a) érvényes magyar személyazonosító igazolványom másolatát
-
-## b) érvényes magyar útlevelem másolatát
-
-## c) érvényes állampolgársági bizonyítványom másolatát
-
-## d) honosítási okiratom másolatát
+## 1. Nyilatkozom, hogy a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény alapján kiadott „Magyar igazolvány”-nyal vagy „Magyar hozzátartozói igazolvány”-nyal rendelkezem, amelynek másolatát csatolom.
 
 ## 2. Nyilatkozom, hogy igényem 1949. január 1-je előtt bekövetkezett veszteségen alapul, de
 
-## a) pénzellátásomat a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6.§ h) és i) pontja alapján megszüntették
+## a) pénzellátásomat a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6. § h) és i) pontja alapján megszüntették
 
 ## b) pénzellátásomat politikai okból megszüntették vagy szüneteltették
 
@@ -96,19 +90,21 @@
 
 ## b) iratokkal nem rendelkezem
 
-## 4. Folyósítási adatok:
-
-## (Akkor kell kitölteni, ha a Nyugdíjfolyósító Igazgatóságtól ellátásban nem részesül. Tájékoztatjuk, hogy a hadigondozotti ellátást folyósító szerv kizárólag olyan számlára teljesíthet utalást, mely felett Önnek rendelkezési joga van. Amennyiben a Nyugdíjfolyósító Igazgatóság más címen is folyósít ellátást az ön részére, a hadigondozási ellátást csak az egyéb ellátásával együtt, a már bejelentett lakcímre, illetve bankszámlára tudja folyósítani.)
+## 4. Folyósítási adatok: (Akkor kell kitölteni, ha a Nyugdíjfolyósító Igazgatóságtól ellátásban nem részesül. Tájékoztatjuk, hogy a hadigondozotti ellátást folyósító szerv kizárólag olyan számlára teljesíthet utalást, mely felett Önnek rendelkezési joga van. Amennyiben a Nyugdíjfolyósító Igazgatóság más címen is folyósít ellátást az ön részére, a hadigondozási ellátást csak az egyéb ellátásával együtt, a már bejelentett lakcímre, illetve bankszámlára tudja folyósítani.)
 
 ## Kérem, hogy a megállapított járadékot részemre az alábbi pénzintézetnél vezetett számlaszámra szíveskedjenek folyósítani.
 
 ## Pénzforgalmi szolgáltató neve és pontos címe:
 
-## _________________________________________________________________
+## ...........................................................................................
 
-## A pénzforgalmi szolgáltató SWIFT azonosítója/(BIC) kódja: _________________________________________________________
+## A pénzforgalmi szolgáltató SWIFT azonosítója/(BIC) kódja:
 
-## Nemzetközi bankszámlaszám (IBAN): __________________________________________________________________________
+## ...........................................................................................
+
+## Nemzetközi bankszámlaszám (IBAN):
+
+## ...........................................................................................
 
 ## A megjelölt fizetési számla feletti rendelkezési joga önálló? Igen Nem
 
@@ -116,13 +112,13 @@
 
 ## Hozzájárulok, hogy személyes adataimat kizárólag a hadigondozás céljából a hadigondozási hatóság kezelje.
 
-## Kelt: ____________________________ ________év _________________hó _______nap
+## Kelt: ..........................................................................................., ....................... év ................................... hó ....................... nap
 
-## ________________________________________
+## ...........................................................................................
 
-## igénylő
+## igénylő aláírása
 
-6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^51]
+6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^54]
 
 Igazolvány száma: nyomdai szám
 
@@ -186,4 +182,4 @@ Figyelmeztetés:
 
 3. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.
 
-[^51]: Az R. 6. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^54]: Az R. 6. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
