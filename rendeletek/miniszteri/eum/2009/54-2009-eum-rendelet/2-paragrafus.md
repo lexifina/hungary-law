@@ -1,6 +1,6 @@
 ## a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. §-a hatálya alá tartozó hatósági ellenőrzésére.
 
-## 2. §[^2] Ha a hatósági ellenőrzés során megállapítást nyer, hogy a következő jogszabályhelyeket olyan módon sértették meg, hogy a jogsértés az életet, a testi épséget, közteherviselési kötelezettség teljesítését vagy harmadik személy alapvető jogát közvetlenül veszélyezteti, és a veszélyeztető állapot más alkalmas eszközzel nem hárítható el, a Ket. 94. § (2) bekezdés b) pontja alapján kell eljárni a következő jogkövetkezmények alkalmazásakor:
+## 2. §[^5] Ha a hatósági ellenőrzés során megállapítást nyer, hogy a következő jogszabályhelyeket olyan módon sértették meg, hogy a jogsértés az életet, a testi épséget, közteherviselési kötelezettség teljesítését vagy harmadik személy alapvető jogát közvetlenül veszélyezteti, és a veszélyeztető állapot más alkalmas eszközzel nem hárítható el, a Ket. 94. § (2) bekezdés b) pontja alapján kell eljárni a következő jogkövetkezmények alkalmazásakor:
 
 a) a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. § (2) bekezdés b) pontja szerinti jogkövetkezmény,
 
@@ -12,4 +12,4 @@ d) az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III.
 
 e) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 44. § (1) és (5) bekezdése megsértése esetén a törvény 44/A. § (7)–(9) bekezdése szerinti jogkövetkezmény.
 
-[^2]: A 2. § a 67/2011. (XII. 13.) NEFMI rendelet 13. §-ával megállapított szöveg.
+[^5]: A 2. § a 67/2011. (XII. 13.) NEFMI rendelet 13. §-ával megállapított szöveg.

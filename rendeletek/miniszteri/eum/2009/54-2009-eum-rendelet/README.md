@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-54-20-0
 | 2010-09-16 | 2009-54-20-0B.4 | 4/2010. (VIII. 12.) NEFMI rendelet |
 | 2011-12-28 | 2009-54-20-0B.5 | 67/2011. (XII. 13.) NEFMI rendelet |
 | 2015-04-29 | 2009-54-20-0B.6 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2017-01-01 | 2009-54-20-0B.7 | 54/2016. (XII. 30.) EMMI rendelet |
