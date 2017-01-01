@@ -18,7 +18,7 @@ d) megállapított térítési díjtól a b) pontban foglaltaknak megfelelően t
 
 (3) A gyógyszerek, tápszerek és gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának részletes szabályait külön jogszabály tartalmazza.
 
-(4) A Ket. 28/B. §-a szerinti elektronikus kapcsolattartás a gyógyszerek, gyógyászati segédeszközök társadalombiztosítási támogatásával kapcsolatos eljárása során az egészségbiztosító által működtetett informatikai rendszeren keresztül valósul meg.
+(4) Az elektronikus kapcsolattartás a gyógyszerek, gyógyászati segédeszközök társadalombiztosítási támogatásával kapcsolatos eljárása során az egészségbiztosító által működtetett informatikai rendszeren keresztül valósul meg.
 
 (5) A 29. § (4) bekezdésben megjelölt adatok változását az egészségbiztosítási szerv honlapján kell bejelenteni.
 

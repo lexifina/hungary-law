@@ -1,1 +1,1 @@
-87/F. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvény hatálybalépéséig engedélyezett fiókgyógyszertár áthelyezések tekintetében az áthelyezésnek 2015. július 1-jéig kell megtörténnie.
+87/F. §

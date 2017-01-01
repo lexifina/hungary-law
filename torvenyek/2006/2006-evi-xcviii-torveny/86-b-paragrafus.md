@@ -1,1 +1,1 @@
-86/B. § A közforgalmú gyógyszertárak létesítésére, a gyógyszerek forgalomba hozatalára, a gyógyszernek nem minősülő gyógyhatású készítményekre vonatkozó szabályok gyakorlati megvalósulásáról, a szabályozás elvárt és tényleges hatásainak összevetése alapján a 2011. január 1. és 2014. július 1. közötti időszakra vonatkozóan a Kormány 2014. október 1. napjáig jelentést terjeszt az Országgyűlés elé.
+86/B. §

@@ -16,4 +16,4 @@ lép hatályba.
 
 (7)
 
-(8) A közforgalmú gyógyszertárak létesítésére vonatkozó szabályok gyakorlati megvalósulásáról, a szabályozás elvárt és tényleges hatásainak összevetése alapján a Kormány 2010. október 1. napjáig jelentést terjeszt az Országgyűlés elé.
+(8)

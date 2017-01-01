@@ -4,7 +4,7 @@ a) a kérelemre indult eljárás esetén a kérelem a forgalomba hozatalra enged
 
 b) a bejelentésre indult eljárás esetén a bejelentés a 29. § (4) bekezdésében jelölt adatok változásának bejelentésére,
 
-c) a hivatalból indult eljárás esetén az egészségbiztosítási szerv által lefolytatandó eljárás a támogatott gyógyszerek, tápszerek körének teljes vagy részleges, a (7)–(8) bekezdés szerinti felülvizsgálatára
+c) a hivatalból indult eljárás esetén az egészségbiztosítási szerv által lefolytatandó eljárás a támogatott gyógyszerek, tápszerek körének teljes vagy részleges, a (7) és (8) bekezdés szerinti felülvizsgálatára, vagy a 22/A. § szerinti társadalombiztosítási támogatásba történő befogadására
 
 irányulhat.
 
@@ -43,6 +43,8 @@ e) a 21. § szerinti támogatással való forgalmazásra és készletben tartás
 f) a kiemelt és emelt indikációhoz kötött támogatási kategóriában meghatározott feltételeknek a készítmény nem felel meg.
 
 (8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, kedvezményezetti státuszának megszüntetéséről illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
+
+(8a) A 22/A. § szerinti esetben az egészségbiztosítási szerv 30 napon belül dönt a gyógyszer társadalombiztosítási támogatásba történő befogadásáról.
 
 (9) Az egészségbiztosítási szerv az (1) bekezdés a) pontja szerinti eljárások során a külön jogszabályban foglalt normál és egyszerűsített eljárásrendet alkalmazza.
 

@@ -8,11 +8,9 @@
 
 (4) A fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben és a rendeletben meghatározott szabályai betartásának hatósági ellenőrzésére
 
-a) gyógyszer és gyógyszernek nem minősülő gyógyhatású készítmények tekintetében a gyógyszerészeti államigazgatási szerv,
+a) gyógyszer, gyógyszernek nem minősülő gyógyhatású készítmények és gyógyászati segédeszköz tekintetében a gyógyszerészeti államigazgatási szerv,
 
-b) gyógyászati segédeszköz esetén az egészségügyi államigazgatási szerv,
-
-c) tápszer esetén az egészségügyi államigazgatási szerv
+b) tápszer esetén az egészségügyi államigazgatási szerv
 
 is jogosult.
 

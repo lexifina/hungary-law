@@ -20,4 +20,4 @@ b) támogatásának mértékéről, összegéről
 
 közhiteles hatósági nyilvántartást vezet.
 
-(7) Az egészségbiztosítási szervnek a 23. § (3)–(4) és (6)–(8) bekezdése szerinti eljárásban hozott döntése ellen nincs helye fellebbezésnek.
+(7) Az egészségbiztosítási szervnek a 23. § (3)–(4) és (6)–(8a) bekezdése szerinti eljárásban hozott döntése ellen nincs helye fellebbezésnek.

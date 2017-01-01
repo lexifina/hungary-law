@@ -1,7 +1,1 @@
-84. § (1) A 36. § (1)–(4) bekezdésének alkalmazása során a 2007. évben tárgyéven a 2007. január 15-étől 2007. december 31-éig terjedő időszakot kell érteni. A 36. § (4) bekezdésében meghatározott fizetési kötelezettséget a 2007. évben legfeljebb a 2007. január 15-étől 2007. december 31-éig terjedő időszakra vetített időarányos rész után kell teljesíteni.
-
-(2) A 37. § (1)–(2) bekezdésének alkalmazása során a 2007. évben január tárgyhónapon a 2007. január 15-étől 2007. január 31-éig terjedő időszakot kell érteni.
-
-(3) A 37. § (3) bekezdésének alkalmazása során a 2007. évben január tárgyhónapon a 2007. január 15-étől 2007. január 31-éig terjedő időszakot kell érteni azzal, hogy ezen időszak tekintetében előleg fizetésére akkor kötelezett a közforgalmú gyógyszertár működtetésére jogosult, ha a közfinanszírozott gyógyszerek forgalmazásából származó árréstömege a 39. § (1) bekezdésében meghatározott összeg egyhuszonnegyed részét meghaladja, és az előleg fizetése során a 39. § (2) bekezdésében meghatározott sávhatárok egyhuszonnegyed részének megfelelő összegeket kell alkalmazni.
-
-(4) A 42. § (6) bekezdésének alkalmazása során a 2007. évben január tárgyhónapon a 2007. január 15-étől 2007. január 31-éig terjedő időszakot kell érteni azzal, hogy ezen időszak tekintetében előleg fizetésére akkor kötelezett a forgalomba hozatali engedély jogosultja, ha a támogatott gyógyszerek után kifizetett tárgyhavi támogatás – a különkeretes gyógyszerekre és a különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra fordítható összeget nem tartalmazó – összege meghaladja a 287 milliárd forint egyhuszonnegyed részét.
+84. §

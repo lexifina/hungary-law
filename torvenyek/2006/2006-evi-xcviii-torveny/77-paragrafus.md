@@ -14,7 +14,9 @@ f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat,
 
 g) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógussal kapcsolatos bírság összegét és befizetésének szabályait,
 
-h) a gyógyszertárak részére nyújtandó szolgáltatási díj folyósítására és mértékére vonatkozó részletes szabályokat
+h) a gyógyszertárak részére nyújtandó szolgáltatási díj folyósítására és mértékére vonatkozó részletes szabályokat,
+
+i) gyógyszertár-létesítési és működési engedélyezési eljárásra, új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására, pályázat elbírálására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -38,7 +40,7 @@ h) a gyógyszerészek nyilvántartásának szabályait,
 
 i) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének szabályait,
 
-j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer és gyógyászati segédeszköz ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a gyógyszerrel, gyógyászati segédeszközzel, valamint a gyógyszernek nem minősülő gyógyhatású készítménnyel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat,
+j) a gyógyszer, gyógyászati segédeszköz, illetve tápszer ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer, gyógyászati segédeszköz és a tápszer ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, a gyógyszerrel, gyógyászati segédeszközzel, valamint a gyógyszernek nem minősülő gyógyhatású készítménnyel, illetve tápszerrel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat, továbbá az ismertetési tevékenységet folytató által szervezett rendezvénnyel, tanfolyammal összefüggésben bejelenteni köteles adatokat,
 
 k) az egészségügyi szolgáltatók gyógyszerrendelése értékelésének alapjául szolgáló ATC-csoportokat, az értékelésre kerülő hatóanyagokat, a preferált megoszlási mutatókat, a célértékeket, és a felírt gyógyszerek mennyiségére vagy volumenére vonatkozó azon feltételeket, amelyek alapján a gyógyszerrendelés nem kerül értékelésre,
 

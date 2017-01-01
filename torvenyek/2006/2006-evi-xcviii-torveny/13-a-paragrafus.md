@@ -2,6 +2,6 @@
 
 (1a) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül, mely közhiteles adatként tartalmazza az ismertetői igazolvány számát és az ismertetési tevékenység időtartamát.
 
-(2) A gyógyszerészeti államigazgatási szerv az ismertető személy részére a nyilvántartásba vétellel egyidejűleg a bejelentésben megjelölt időtartamra, ennek hiányában határozatlan időre érvényes ismertetői igazolványt állít ki, amely tartalmazza az ismertető személy családi és utónevét, fényképét, a nyilvántartásba vételi számát, az érvényesség idejét, és az ismertetési tevékenységet folytató nevét, akivel az ismertető személy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
+(2)
 
 (3) A 12. § szerinti bejelentésre és az ismertetési tevékenységet folytatók, illetve az ismertető személyek nyilvántartására az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény bejelentésre, a bejelentéshez kötött tevékenység folytatásának ellenőrzésére és a bejelentéshez kötött tevékenységet folytató szolgáltatók nyilvántartására vonatkozó rendelkezéseit abban az esetben is, ha az ismertetési tevékenységet folytató tevékenysége nem minősül szolgáltatási tevékenységnek.

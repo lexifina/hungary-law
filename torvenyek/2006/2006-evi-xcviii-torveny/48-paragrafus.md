@@ -8,17 +8,7 @@
 
 48. § (1) Új gyógyszertár – az ideiglenesen telepített fiókgyógyszertár kivételével – csak létesítési engedély és működési engedély alapján működtethető. Új gyógyszertár létesítéséről – a közforgalmú gyógyszertárak kivételével – az egészségügyi államigazgatási szerv a gyógyszertár létesítésére irányuló kérelem beérkezését követő naptól számított huszonegy napon belül dönt. Az új gyógyszertár létesítéséről szóló jogerős határozatot a létesítés helye szerint illetékes települési önkormányzattal, a gyógyszertárak létesítésére és működtetésére vonatkozó határozatokat a Magyar Gyógyszerészi Kamarával is közli a hatóság.
 
-(2) Az írásban benyújtott kérelemnek tartalmaznia kell:
-
-a) az új gyógyszertár típusát,
-
-b) az új gyógyszertár pontos címét,
-
-c) az új gyógyszertár megnyitásának tervezett időpontját,
-
-d) az új gyógyszertár tervezett szolgálati rendjét,
-
-e) az új gyógyszertár forgalmazási körét.
+(2)
 
 (3) A kérelemhez csatolni kell
 

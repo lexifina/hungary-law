@@ -1,6 +1,6 @@
 31. § (1) Az egészségbiztosítási szerv kizárja a társadalombiztosítási támogatásból a gyógyszert, ha:
 
-a) érvényes forgalomba hozatali engedéllyel nem rendelkezik,
+a) a 22/A. §-ban foglalt eset kivételével érvényes forgalomba hozatali engedéllyel nem rendelkezik,
 
 b) költséghatékonyságával kapcsolatban igazoltan kétség merült fel,
 
