@@ -1,8 +1,8 @@
 ## 7. Ellenőrzések és jogkövetkezmények
 
-49. § (1)[^39] Az élelmiszerlánc-biztonsági és állategészségügyi hatóság a tenyésztőket, beszállítókat, felhasználókat és ezek létesítményeit rendszeresen ellenőrzi.
+49. § (1)[^41] Az élelmiszerlánc-biztonsági és állategészségügyi hatóság a tenyésztőket, beszállítókat, felhasználókat és ezek létesítményeit rendszeresen ellenőrzi.
 
-(2)[^40] Az ellenőrzések gyakoriságát az élelmiszerlánc-biztonsági és állategészségügyi hatóság az egyes létesítményekről készült kockázatelemzések alapján határozza meg, figyelembe véve:
+(2)[^42] Az ellenőrzések gyakoriságát az élelmiszerlánc-biztonsági és állategészségügyi hatóság az egyes létesítményekről készült kockázatelemzések alapján határozza meg, figyelembe véve:
 
 a) a létesítményben tartott állatok számát és faját;
 
@@ -18,8 +18,8 @@ d) az e rendeletnek való megfelelés hiányára utaló bármely információt.
 
 (5) Az ellenőrzésekről készült jegyzőkönyveket 5 évig meg kell őrizni.
 
-(6)[^41] Az élelmiszerlánc-biztonsági és állategészségügyi hatóságnak az ellenőrzés során tekintettel kell lennie az ellenőrzött egység higiéniai, üzemelési és biztonsági előírásaira.
+(6)[^43] Az élelmiszerlánc-biztonsági és állategészségügyi hatóságnak az ellenőrzés során tekintettel kell lennie az ellenőrzött egység higiéniai, üzemelési és biztonsági előírásaira.
 
-[^39]: A 49. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
-[^40]: A 49. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
-[^41]: A 49. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § c) pontja szerint módosított szöveg.
+[^41]: A 49. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
+[^42]: A 49. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
+[^43]: A 49. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § c) pontja szerint módosított szöveg.

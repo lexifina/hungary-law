@@ -34,7 +34,7 @@
 
 ## 16. Csak terepen, lövészetben járatos személy által végezhető, abban az esetben, ha más módszerre nincs lehetőség.
 
-5. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^55]
+5. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^56]
 
 ## Oktatási és képzési minimumkövetelmények
 
@@ -94,4 +94,4 @@ a) mesterképzésnek megfelelő diploma agrár, orvosi, gyógyszerész, állator
 
 b) Ph.D. fokozat a fenti tudományterületeken.
 
-[^55]: Az 5. melléklet a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés f) pontja, (12) bekezdés b) pontja szerint módosított szöveg.
+[^56]: Az 5. melléklet a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés f) pontja, (12) bekezdés b) pontja szerint módosított szöveg.

@@ -8,6 +8,6 @@ b) a helyettesítésre, csökkentésre és tökéletesítésre vonatkozó előí
 
 (3) A nem szakmai jellegű projekt-összefoglalók nem tartalmazzák a felhasználónak és személyzetének nevét és címét.
 
-(4)[^33] A NÉBIH közzéteszi az engedélyezett projektek nem szakmai jellegű összefoglalóit és azok módosításait.
+(4)[^35] Az országos illetékességgel eljáró kormányhivatal közzéteszi az engedélyezett projektek nem szakmai jellegű összefoglalóit és azok módosításait.
 
-[^33]: A 45. § (4) bekezdése a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^35]: A 45. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 225. § (2) bekezdés b) pontja szerint módosított szöveg.
