@@ -6,6 +6,6 @@
 
 187. § (1) Ez a rendelet 2003. július 1-jén lép hatályba, rendelkezéseit a folyamatban lévő büntetőügyekben is alkalmazni kell.
 
-(2)[^120]
+(2)[^121]
 
-[^120]: A 187. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 104. pontja hatályon kívül helyezte.
+[^121]: A 187. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 104. pontja hatályon kívül helyezte.

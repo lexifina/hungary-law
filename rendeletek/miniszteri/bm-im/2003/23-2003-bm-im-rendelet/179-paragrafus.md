@@ -6,7 +6,8 @@
 
 (3)[^117]
 
-(4) A nyomozó szerv a nyomozás befejezéséről köteles értesíteni a BÁH területileg illetékes hatóságát. Biztosíték adása vagy a kiutazási korlátozás okának megszűnése esetén a nyomozó szerv az ügyésznél, illetve a bíróságnál kezdeményi az úti okmány visszatartásának megszüntetését.
+(4)[^118] A nyomozó szerv a nyomozás befejezéséről köteles értesíteni a Bevándorlási és Menekültügyi Hivatal területileg illetékes hatóságát. Biztosíték adása vagy a kiutazási korlátozás okának megszűnése esetén a nyomozó szerv az ügyésznél, illetve a bíróságnál kezdeményi az úti okmány visszatartásának megszüntetését.
 
 [^116]: A 179. § (1) bekezdése a 24/2007. (V. 24.) IRM rendelet 12. §-ával megállapított szöveg.
 [^117]: A 179. § (3) bekezdését a 82/2012. (XII. 28.) BM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^118]: A 179. § (4) bekezdése az 58/2016. (XII. 22.) BM rendelet 12. § b) pontja szerint módosított szöveg.

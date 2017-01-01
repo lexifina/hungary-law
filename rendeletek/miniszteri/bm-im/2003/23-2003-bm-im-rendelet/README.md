@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-23-20-0
 | 2013-01-01 | 2003-23-20-0A.15 | 82/2012. (XII. 28.) BM rendelet |
 | 2013-07-01 | 2003-23-20-0A.16 | 34/2013. (VI. 30.) BM rendelet |
 | 2015-12-13 | 2003-23-20-0A.17 | 65/2015. (XII. 12.) BM rendelet |
+| 2017-01-01 | 2003-23-20-0A.18 | 8/2007. (III. 6.) IRM rendelet |
