@@ -1,5 +1,0 @@
-## 4. §
-
-(1) A kijelölt intézmény vezetője felméri és meghatározza azokat a munkaköröket, amelyek nélkül az intézmény rendkívüli állapot idején feladatát nem tudja ellátni.
-
-(2) Amennyiben ezeket a munkaköröket tartalékos hadköteles tölti be, és a meghatározott időszakban helyettesítése a hadkötelezettség körébe nem sorolható férfi vagy női munkavállalóval nem lehetséges, úgy a tartalékosok lakóhelye szerinti megyei (fővárosi) bontásban készített két példányos névjegyzéket a kijelölt intézmény vezetője megküldi a területileg illetékes megyei hadkiegészítő parancsnokságnak. (A névjegyzék tartalmazza a tartalékos nevét, munkakörét, születési évét, anyja nevét és lakóhelyét.)
