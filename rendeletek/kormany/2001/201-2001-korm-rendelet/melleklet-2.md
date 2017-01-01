@@ -94,7 +94,7 @@
 
 ## 4. Törekedni kell minél kisebb érték elérésére anélkül, hogy a fertőtlenítés biztonsága csökkenne. Csak ott kell mérni, ahol a vizet ózonnal kezelik.
 
-## 5. A határérték a megfelelő mintavételi módszerrel – 1 L (egy liter) kifolyatás nélkül vett vízminta egy részének felhasználásával – a fogyasztói csapnál vett vízmintára vonatkozik és jellemző kell hogy legyen a fogyasztó szervezetébe jutó heti átlagos mennyiségre. Ahol kivitelezhető, az 5. § (6) bekezdésével összhangban megállapított egységes mintavételi és vizsgálati módszereket kell alkalmazni. Az illetékes népegészségügyi szakigazgatási szerv köteles figyelembe venni, hogy az előfordulási csúcsértékek okozhatnak káros egészségügyi hatást.
+## 5. A határérték a megfelelő mintavételi módszerrel – 1 L (egy liter) kifolyatás nélkül vett vízminta egy részének felhasználásával – a fogyasztói csapnál vett vízmintára vonatkozik és jellemző kell hogy legyen a fogyasztó szervezetébe jutó heti átlagos mennyiségre. Ahol kivitelezhető, az 5. § (6) bekezdésével összhangban megállapított egységes mintavételi és vizsgálati módszereket kell alkalmazni. Az illetékes kormányhivatal köteles figyelembe venni, hogy az előfordulási csúcsértékek okozhatnak káros egészségügyi hatást.
 
 ## 6. A nitrát és nitrit együttes koncentrációjára a következő feltételeknek teljesülnie kell:
 
@@ -128,7 +128,7 @@
 
 ## – egyéb hasonló termékek (többek között növekedésszabályozók), valamint metabolitjaik, bomlási és reakció termékeik.
 
-## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az OTH, de a helyi információk (területi vízügyi hatóságok, megyei kormányhivatalok, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
+## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az OTH, de a helyi információk (területi vízügyi hatóságok, kormányhivatalok, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
 
 ## 9. A határérték az egyes peszticidekre külön-külön vonatkozik. Aldrin, dieldrin, heptaklór és heptaklór-epoxid esetében a határérték 0,030 μg/l.
 
@@ -210,7 +210,7 @@
 
 ## 2. A víz nem lehet agresszív.
 
-## 3. Ezt a vízminőségi jellemzőt csak akkor kell mérni, ha a víz felszíni vízből származik vagy felszíni víz által befolyásolt. Amennyiben Clostridiumot kimutatnak, az illetékes népegészségügyi szakigazgatási szerv köteles megvizsgálni, hogy a vízellátás kórokozó mikroorganizmus például Cryptosporidium jelenléte miatt nem jelenthet-e veszélyt az emberi egészségre. Az illetékes népegészségügyi szakigazgatási szerv köteles a vizsgálat eredményéről beszámolni a 9. § szerinti jelentésében.
+## 3. Ezt a vízminőségi jellemzőt csak akkor kell mérni, ha a víz felszíni vízből származik vagy felszíni víz által befolyásolt. Amennyiben Clostridiumot kimutatnak, az illetékes népegészségügyi szakigazgatási szerv köteles megvizsgálni, hogy a vízellátás kórokozó mikroorganizmus például Cryptosporidium jelenléte miatt nem jelenthet-e veszélyt az emberi egészségre. Az illetékes kormányhivatal köteles a vizsgálat eredményéről beszámolni a 9. § szerinti jelentésében.
 
 ## 4. Tartályokban forgalmazott vízben a minimális pH érték 4,5; szénsavval dúsított vízben még alacsonyabb lehet.
 

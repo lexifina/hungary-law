@@ -22,9 +22,9 @@
 
 (8)[^51] Az illetékes népegészségügyi szerv vagy – a 178/2002/EK rendelet szerinti ivóvíz élelmiszeripari vállalkozásoknál történő felhasználása esetén azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – az élelmiszerlánc- felügyeleti szerv bármely olyan vízminőségi jellemző vizsgálatát is elrendelheti, amelyről feltételezhető, hogy olyan mennyiségben vagy koncentrációban van jelen az ivóvízben, amely egészségügyi vagy élelmiszerbiztonsági szempontból kockázatot jelenthet, vagy a 2. melléklet B) részében foglalt táblázatban meghatározottnál nagyobb gyakoriságú vizsgálatot írhat elő a helyben fennálló kockázatok vagy az ivóvízellátórendszer jóváhagyott ivóvízbiztonsági terve szerint.
 
-(9)[^52] A hatósági vízminőség-ellenőrző vizsgálatok költségét a megyei kormányhivatal, illetve azon megfelelőségi ponttól történő ellenőrzés vizsgálati költségeit, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják az élelmiszerlánc-felügyeleti szerv viseli.
+(9)[^52] A hatósági vízminőség-ellenőrző vizsgálatok költségét a kormányhivatal, illetve azon megfelelőségi ponttól történő ellenőrzés vizsgálati költségeit, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják az élelmiszerlánc-felügyeleti szerv viseli.
 
-(10)[^53] Az élelmiszerlánc-felügyeleti szerv és a megyei kormányhivatal kölcsönösen tájékoztatják egymást azokról az eltérésekről, illetve adatokról, amelyek egészségügyi vagy élelmiszer-biztonsági kockázattal vannak összefüggésben.
+(10)[^53] Az élelmiszerlánc-felügyeleti szerv és a kormányhivatal kölcsönösen tájékoztatják egymást azokról az eltérésekről, illetve adatokról, amelyek egészségügyi vagy élelmiszer-biztonsági kockázattal vannak összefüggésben.
 
 [^41]: Az 5. § (1) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 5. §-ával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
 [^42]: Az 5. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 44. §-a iktatta be.
@@ -37,5 +37,5 @@
 [^49]: Az 5. § (6) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^50]: Az 5. § (7) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 5. §-ával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 49. § d) pontja, a 30/2015. (II. 25.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^51]: Az 5. § (8) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^52]: Az 5. § (9) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 5. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 52. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^53]: Az 5. § (10) bekezdését a 138/2007. (VI. 18.) Korm. rendelet 9. § (5) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 84. § (9) bekezdésével megállapított, a 430/2013. (XI. 15.) Korm. rendelet 13. § d) pontja és 14. § (2) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 52. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^52]: Az 5. § (9) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^53]: Az 5. § (10) bekezdését a 138/2007. (VI. 18.) Korm. rendelet 9. § (5) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 84. § (9) bekezdésével megállapított, a 430/2013. (XI. 15.) Korm. rendelet 13. § d) pontja és 14. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 3. pontja szerint módosított szöveg.

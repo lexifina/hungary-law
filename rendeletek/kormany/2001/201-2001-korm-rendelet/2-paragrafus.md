@@ -6,9 +6,9 @@ a) élelmiszer: az élelmiszerjog általános elveiről és követelményeiről,
 
 b) élelmiszeripari vállalkozás: a 178/2002/EK rendelet 3. cikk 2. pontjában meghatározott fogalom,
 
-c)[^7] hatósági vízminőség-ellenőrző vizsgálat: a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal), illetve az f) pont fb) alpontja szerinti ivóvíz élelmiszeripari vállalkozásoknál történő felhasználása esetén azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják, a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatal, illetve járási hivatal (a továbbiakban együtt: élelmiszerlánc-felügyeleti szerv) által vagy a megyei kormányhivatal, illetve az élelmiszerlánc-felügyeleti szerv megbízásából végzett vízminőség vizsgálat,
+c)[^7] hatósági vízminőség-ellenőrző vizsgálat: a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), illetve az f) pont fb) alpontja szerinti ivóvíz élelmiszeripari vállalkozásoknál történő felhasználása esetén azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják, a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal (a továbbiakban: élelmiszerlánc-felügyeleti szerv) által vagy a megyei kormányhivatal, illetve az élelmiszerlánc-felügyeleti szerv megbízásából végzett vízminőség vizsgálat,
 
-d)[^8] hatósági vízminta: a megyei kormányhivatal, illetve az f) pont fb) alpontja szerinti ivóvíz élelmiszeripari vállalkozásoknál történő felhasználása esetén azon megfelelőségi ponttól, ahol az f) pont fb) alpontja szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják, az élelmiszerlánc-felügyeleti szerv által vagy megbízásából vett, megjelölt és kísérőirattal ellátott vízminta,
+d)[^8] hatósági vízminta: a kormányhivatal, illetve az f) pont fb) alpontja szerinti ivóvíz élelmiszeripari vállalkozásoknál történő felhasználása esetén azon megfelelőségi ponttól, ahol az f) pont fb) alpontja szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják, az élelmiszerlánc-felügyeleti szerv által vagy megbízásából vett, megjelölt és kísérőirattal ellátott vízminta,
 
 e) házi vízelosztó rendszer: a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.) 2. § 3. és 9. pontjában meghatározott csatlakozó ivóvízhálózat és házi ivóvízhálózat,
 
@@ -16,7 +16,7 @@ f) ivóvíz:
 
 fa) eredétől függetlenül minden, eredeti állapotában vagy kezelés utáni állapotban levő, ivásra, ételkészítésre és egyéb háztartási célokra szánt víz, függetlenül attól, hogy szolgáltatása hálózatról, tartálykocsiból történik vagy kereskedelmi forgalomba kerülő edénybe (palack, tartály, ballon) töltésre kerül,
 
-fb)[^9] valamennyi víz, amelyet a 178/2002/EK rendelet 2. cikke szerint az élelmiszeripari vállalkozások élelmiszer előállításához használnak fel, beleértve mindazon anyagoknak és termékeknek a gyártását, feldolgozását, konzerválását és forgalmazását, amelyek emberi fogyasztásra szolgálnak (a továbbiakban: 178/2002/EK rendelet szerinti ivóvíz), kivéve ha a megyei kormányhivatal, illetve az élelmiszerlánc-felügyeleti szerv azt állapítja meg, hogy a víz minősége nem befolyásolja a késztermék (élelmiszer) minőségét,
+fb)[^9] valamennyi víz, amelyet a 178/2002/EK rendelet 2. cikke szerint az élelmiszeripari vállalkozások élelmiszer előállításához használnak fel, beleértve mindazon anyagoknak és termékeknek a gyártását, feldolgozását, konzerválását és forgalmazását, amelyek emberi fogyasztásra szolgálnak (a továbbiakban: 178/2002/EK rendelet szerinti ivóvíz), kivéve ha a kormányhivatal, illetve az élelmiszerlánc-felügyeleti szerv azt állapítja meg, hogy a víz minősége nem befolyásolja a késztermék (élelmiszer) minőségét,
 
 g) ivóvízbiztonság: az ivóvízfogyasztáshoz, illetve -használathoz kapcsolódó, ivóvíznyerésre szolgáló, vízkezelő és ellátó rendszerben, házi ivóvízhálózatban és vízvételre szolgáló helyeken elérhető legkisebb egészségkockázatot jelentő minőségi és működési jellemző,
 
@@ -39,9 +39,9 @@ o)[^14] parametrikus érték: az ivóvízben jelen lévő kémiai, biológiai é
 p)[^15] határérték: az a parametrikus érték, amely felett mérlegelés nélkül korrekciós intézkedést kell tenni.
 
 [^6]: A 2. § a 430/2013. (XI. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: A 2. § c) pontja a 70/2015. (III. 30.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § d) pontja a 70/2015. (III. 30.) Korm. rendelet 52. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A 2. § f) pont fb) alpontja a 70/2015. (III. 30.) Korm. rendelet 52. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 2. § c) pontja a 70/2015. (III. 30.) Korm. rendelet 52. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 1. és 2. pontja szerint módosított szöveg.
+[^8]: A 2. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^9]: A 2. § f) pont fb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 3. pontja szerint módosított szöveg.
 [^10]: A 2. § i) pontja a 364/2014. (XII. 30.) Korm. rendelet 42. §-ával megállapított szöveg.
 [^11]: A 2. § k) pontja a 364/2014. (XII. 30.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
 [^12]: A 2. § m) pontját a 313/2015. (X. 28.) Korm. rendelet 1. §-a iktatta be.
