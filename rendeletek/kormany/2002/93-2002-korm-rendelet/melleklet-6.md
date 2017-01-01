@@ -1,3 +1,3 @@
-6. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^173]
+6. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^194]
 
-[^173]: A 6. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 362/2014. (XII. 30.) Korm. rendelet 49. § (5) bekezdésével megállapított szöveg.
+[^194]: A 6. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 84. § 4. pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-| Intézmény, kar | Szak | Évfolyam |
+| Intézmény, kar | Szak | Oklevél megszerzésének éve |
 
 | Kőrös Főiskola (Tessedik Sámuel Főiskola) | Közgazdász, Pénzügyi szak, vállalkozási pénz- ügyek szakirány | 1997-től |
 
@@ -46,6 +46,6 @@
 
 ## ** Budapesti Közgazdaságtudományi és Államigazgatási Egyetem.
 
-3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^156]
+3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^176]
 
-[^156]: A 3. számú melléklet a 357/2012. (XII. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 49. § (2) bekezdése szerint módosított szöveg.
+[^176]: A 3. számú melléklet a 357/2012. (XII. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 49. § (2) bekezdése szerint módosított szöveg.

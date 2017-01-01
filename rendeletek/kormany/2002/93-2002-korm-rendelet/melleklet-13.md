@@ -1,4 +1,4 @@
-13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^182]
+13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^203]
 
 ADATLAP
 
@@ -32,7 +32,13 @@ i) a kiadvány megjelenési formája,
 
 j) a kiadvány megjelenésének dátuma,
 
-k) a kiadvány terjedelme (ív, oldalszám).
+k) a kiadvány terjedelme (ív, oldalszám),
+
+l) a kiadvány hozzáférése elektronikus megjelenési mód esetén
+
+m) a kiadvány elszámolhatóságának kérelmezett időszaka,
+
+n) a kiadó által a kérelemmel összefüggő kapcsolattartásra kijelölt személy neve, beosztása, elérhetősége.
 
 2. Nyilatkozat:
 
@@ -44,4 +50,4 @@ k) a kiadvány terjedelme (ív, oldalszám).
 
 5. Cégszerű aláírás
 
-[^182]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 85. § (5) bekezdése szerint módosított szöveg.
+[^203]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 85. § (5) bekezdése, a 480/2016. (XII. 28.) Korm. rendelet 84. § 5. pontja szerint módosított szöveg.

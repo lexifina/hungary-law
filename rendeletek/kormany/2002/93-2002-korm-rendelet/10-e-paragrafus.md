@@ -1,18 +1,27 @@
-10/E. §[^134] (1)[^135] Amennyiben a kreditpont-minősítési eljárás iránti kérelemben foglalt képzés elektronikus képzési formában valósul meg, a továbbképzési program akkor minősíthető kreditpontra, továbbá a megvalósított képzésért akkor adható ki a meghatározott kreditpont, ha a továbbképző szervezet elektronikus képzési rendszere által biztosítottan az elektronikus naplóban rögzíthető, valamint a továbbképzésen való részvételkor és azt követő 5 évig ellenőrizhető, hogy a továbbképzésre kötelezett személy
+10/E. §[^144] (1) A továbbképzési programok megvalósíthatók kontakt vagy elektronikus képzés formájában.
 
-a) az elektronikus felületre bejelentkezve a továbbképzési programot (több oktatási egység, modul esetén az egyes egységeket, modulokat) megkezdte és a továbbképzési program (több oktatási egység, modul esetén az egyes egységek, modulok) befejezéséig a képzésben kijelentkezés nélkül részt vett (ideértve a program kezdeti és befejezési idejének óra/perc pontosságú rögzítését, valamint a jelenlét ellenőrzését),
+(2) Kontakt képzésnek minősül az a továbbképzés, amelynek teljes időtartama alatt a képzés helyszínén a résztvevő személyesen jelen van.
 
-b) a továbbképzés oktatási programjának pályázatban megadott teljes időtartama alatt jelen volt, ezáltal a továbbképzés oktatási programjának egészét (annak valamennyi oktatási egységét, modulját) teljesítette,
+(3) Elektronikus képzésnek minősül minden olyan képzés, továbbképzés, amelynek tananyaga elektronikus közvetítő felületen keresztül jut el a képzésben részt vevőhöz, akinek a képzésben való részvétele során kifejtett tevékenysége ezen elektronikus közvetítő felületen keresztül valósul meg. Az elektronikus képzés formája e-learning vagy online képzés lehet.
 
-c) ugyanazon időtartam alatt csak egy továbbképzési programot kezdett meg, és annak befejezéséig újabb továbbképzési programot nem kezdett meg,
+(4) Az akkreditált szervezet a továbbképzési programot akkor szervezheti és bonyolíthatja elektronikus képzési formában, valamint az elektronikus továbbképzési program akkor minősíthető kreditpontra, ha az akkreditált szervezet
 
-d) részére a továbbképzés teljesítéséről szóló igazolás a továbbképzési program teljes egészének teljesítése esetén, a teljesítést követően, de legkésőbb 10 napon belül kiállításra került.
+a) elektronikus képzési rendszere által biztosított a résztvevő által teljesített továbbképzési program kezdeti és befejezési időpontjának perc pontosságú rögzítése, valamint a képzésben való folyamatos jelenlétének ellenőrzése,
 
-(2)[^136] Az (1) bekezdés szerinti elektronikus képzés esetén a 10/D. § (1) bekezdés szerinti kérelemhez mellékelni kell az elektronikus képzési formában lebonyolításra kerülő továbbképzés oktatási programját, valamint az elektronikus képzési rendszer működésének bemutatását, ide értve az igazolás kiállítását, a résztvevők nyilvántartását és az ellenőrzés módszerét is.
+b) az akkreditált szervezet elektronikus képzési rendszerének elektronikus naplójában rögzíthető, valamint a továbbképzésen való részvételkor és azt követő 8 évig ellenőrizhető, hogy a továbbképzésre kötelezett személy,
 
-(3)[^137] Az (1) bekezdés szerinti elektronikus képzés formája e-learning vagy online képzés lehet.
+ba) az elektronikus felületre bejelentkezve a továbbképzési programot – több oktatási egység, modul esetén az egyes egységeket, modulokat – megkezdte és a továbbképzési program – több oktatási egység, modul esetén az egyes egységek, modulok – befejezéséig a képzésben kijelentkezés nélkül részt vett,
 
-[^134]: A 10/E. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^135]: A 10/E. § (1) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^136]: A 10/E. § (2) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 48. § 3. pontja szerint módosított szöveg.
-[^137]: A 10/E. § (3) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+bb) a továbbképzés oktatási programjának kreditpont-minősítési kérelemben megadott teljes időtartama alatt jelen volt, ezáltal a továbbképzés oktatási programjának egészét, annak valamennyi oktatási egységét, modulját teljesítette,
+
+bc) ugyanazon időtartam – az adott továbbképzési program kezdete és befejezése közötti időszak – alatt csak egy továbbképzési programot kezdett meg, és annak befejezéséig újabb továbbképzési programot nem kezdett meg,
+
+bd) a megkezdett továbbképzési programot legkésőbb a kezdéstől számított 60 napon belül teljesítette, legkésőbb az adott továbbképzési év utolsó napjáig,
+
+c) a résztvevő részére a továbbképzés teljesítéséről szóló igazolást a továbbképzési program teljes egészének teljesítése esetén, a teljesítés b) pontban foglalt feltételeinek ellenőrzését követően, legkésőbb 10 napon belül kiállítja.
+
+(5) A megvalósított elektronikus képzésért az akkreditált szervezet a továbbképzésben részt vevő személy számára csak akkor állíthat ki kreditpont-igazolást, ha a továbbképzés teljesítése a (4) bekezdés b) pontjában foglalt feltételeknek megfelel.
+
+(6) A továbbképzésben részt vevő személy adott évi továbbképzésének teljesítésébe csak akkor számítható be az elektronikus képzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést a (4) bekezdés b) pontjában foglalt szabályok szerint az adott továbbképzési évben teljesíti.
+
+[^144]: A 10/E. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 80. §-ával megállapított szöveg.

@@ -44,7 +44,7 @@
 
 ## f) lakcím (irányítószám, helység, utca, házszám),
 
-## g) levelezési cím (irányítószám, helység, utca, házszám),
+## g) levelezési cím (irányítószám, helység, utca, házszám), telefonszám, elektronikus elérhetőség,
 
 ## h) regisztrálási szám,[^5.]
 
@@ -58,9 +58,9 @@
 
 ## 3. Nem kötelező, a kérelmező önkéntes adatszolgáltatása alapján (amennyiben azokat az adatlapon feltünteti) kerülnek a nyilvántartásba a következő adatok:
 
-## a) telefonszám,
+## a)
 
-## b) elektronikus elérhetőség,
+## b)
 
 ## c) egyéb szakmai képesítés megnevezése (oklevél, bizonyítvány száma, kiállító intézmény neve, kiállítás kelte),
 
@@ -106,7 +106,7 @@
 
 ## – a szakképesítést, a képesítést igazoló oklevél, bizonyítvány másolatát,
 
-## – 1 db 6 hónapnál nem régebbi 2,5×3,2 cm méretű, jó minőségű igazolványképet,
+## – 1 db 6 hónapnál nem régebbi 2,5×3,2 cm méretű igazolványképet,
 
 ## – a szakképesítés megszerzését követően megszerzett, legalább 3 éves számviteli, pénzügyi, vagy ellenőrzési gyakorlatot igazoló dokumentumokat,
 
@@ -114,13 +114,15 @@
 
 ## – az adatváltozást igazoló dokumentumokat,
 
-## – eredeti, fényképes igazolványt.”
+## – eredeti, fényképes igazolványt,
+
+## – a számviteli törvény 151. § (5) bekezdés b) pont bc) alpontjában előírt feltételeket igazoló dokumentum (hatósági erkölcsi bizonyítvány), vagy kitöltött, aláírt hatósági erkölcsi bizonyítványt kérő lap.”
 
 ## 5. Dátum[^8.]
 
 ## 6. A kérelmező aláírása8
 
-2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^155]
+2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^175]
 
 [^1.]: Az adatlap letölthető az egységes Kormányzati Portálról.
 [^2.]: Nyilvántartásba történő felvétel kérelmezése esetén – a 3. pontban foglaltak kivétel – az adatlap valamennyi adatát kötelező megadni. A 3. pontban szereplő adatok önkéntes adatszolgáltatás alapján kerülnek a nyilvántartásba.
@@ -129,4 +131,4 @@
 [^5.]: Akkor kötelező megadni, amennyiben a kérelmező a nyilvántartásban már szerepel/szerepelt.
 [^6.]: Hozzájárulás esetén a megfelelő személyes adatok külön-külön egyértelműen megjelölendők.
 [^8.]: Akkor kötelező kitölteni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^155]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek.
+[^175]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek. A 2. számú melléklet a 480/2016. (XII. 28.) Korm. rendelet 84. § 2. pontja szerint módosított szöveg.
