@@ -1,4 +1,4 @@
-## A beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások és az eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
+## A beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások és az eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
 
 |  | A | B | C | D | E |
 
@@ -8,11 +8,11 @@
 
 | 3. | örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
+| 5. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatal |
 
-| 6. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
 | 7. | vízügyi és vízvédelmi hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -20,7 +20,7 @@
 
 | 9. | földmérési, ingatlan- nyilvántartási hatósági eljárások, telekalakítási eljárások | Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
@@ -28,7 +28,7 @@
 
 | 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | villamospálya átépítésének engedélyezési eljárása | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 14. | villamospálya átépítésének engedélyezési eljárása | közlekedésért felelős miniszter | nincs |
 
 | 15. | üzletek (kávézó) működési engedélye | Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
@@ -42,36 +42,36 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
 | 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
 | 3. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezet- és természetvédelem | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezet- és természetvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 6. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 8. | közlekedés: közút | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
+| 8. | közlekedés: közút | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 9. | közlekedés: vasút | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 9. | közlekedés: vasút | közlekedésért felelős miniszter | nincs |
 
-| 10. | egészségügy | Budapest Főváros Kormányhivatala | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 11. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 11. | élelmiszer-egészségügy | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
 | 12. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | műszaki biztonság | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 13. | műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | rendészet | V. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
+| 14. | rendészet | V. kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
 | 15. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
 | 16. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^27]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 27. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^27]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 26. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
