@@ -1,4 +1,4 @@
-## 11. §[^7] Az ügyfélnek a kifizetési kérelmét a támogatási döntésben jóváhagyott beruházás megvalósítását követően, de legkésőbb a támogatási döntés kézhezvételétől számított kettőszáztíz napon belül kell az MVH által rendszeresített és a honlapján közzétett nyomtatványon az MVH részére benyújtania.
+## 11. §[^14] Az ügyfélnek a kifizetési kérelmét a támogatási döntésben jóváhagyott beruházás megvalósítását követően, de legkésőbb a támogatási döntés kézhezvételétől számított kettőszáztíz napon belül kell a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a Kincstár részére benyújtania.
 
 12. § (1) A kifizetési kérelemhez mellékelni kell
 
@@ -40,4 +40,4 @@ h) idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói 
 
 (7) A beruházás megvalósítása az üzembe helyezés feltételeként külön jogszabály által előírt közokirattal vagy magánokirattal, továbbá a gazdasági eseményről kiállított, igazoltan teljesített és pénzügyileg is rendezett számviteli bizonylattal igazolható.
 
-[^7]: A 11. § a 44/2016. (VI. 29.) FM rendelet 5. §-a szerint módosított szöveg.
+[^14]: A 11. § a 44/2016. (VI. 29.) FM rendelet 5. §-a, a 88/2016. (XII. 29.) FM rendelet 96. § e) pontja szerint módosított szöveg.

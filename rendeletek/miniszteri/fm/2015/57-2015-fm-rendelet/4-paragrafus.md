@@ -2,8 +2,9 @@
 
 4. § (1) A támogatás forrása a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény XII. Földművelésügyi Minisztérium fejezet 20/05/04 törvényi során szereplő „A sertéságazat helyzetét javító stratégiai intézkedések támogatása” című fejezeti kezelésű előirányzat.
 
-(2)[^5] A 2015. évben rendelkezésre álló forrás összege legfeljebb 581,4 millió forint.
+(2)[^7] A 2015. évben rendelkezésre álló forrás összege legfeljebb 581,4 millió forint.
 
-(3) A támogatási keret kimerüléséről az MVH tájékoztatása alapján az agrárpolitikáért felelős miniszter közleményt ad ki.
+(3)[^8] A támogatási keret kimerüléséről a Kincstár tájékoztatása alapján az agrárpolitikáért felelős miniszter közleményt ad ki.
 
-[^5]: A 4. § (2) bekezdése a 95/2015. (XII. 23.) FM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 95/2015. (XII. 23.) FM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 96. § c) pontja szerint módosított szöveg.

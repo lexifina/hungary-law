@@ -1,4 +1,4 @@
-## 13. § Az MVH a támogatást – a forrás rendelkezésre állása esetén – a kifizetési döntés meghozatalát követő harminc napon belül folyósítja az ügyfél részére.
+## 13. §[^15] A Kincstár a támogatást – a forrás rendelkezésre állása esetén – a kifizetési döntés meghozatalát követő harminc napon belül folyósítja az ügyfél részére.
 
 ## 7. Üzemeltetési kötelezettség
 
@@ -6,11 +6,11 @@
 
 (2) Az üzemeltetési kötelezettség ideje alatt a gép, technológiai berendezés, valamint a hűtőtérrel rendelkező tehergépjármű nem adható bérbe és nem idegeníthető el. Ha jótállás alapján felmerülő csereigény, lopás, egyéb működésképtelenné, használhatatlanná válás miatt felmerül a pótlás vagy csereigény (a továbbiakban: csere), akkor a (3)–(6) bekezdésben meghatározott módon kell eljárni.
 
-(3) A (2) bekezdésben foglalt esetekben a kiesett gépet, technológiai berendezést, hűtőtérrel rendelkező tehergépjárművet a (4)–(6) bekezdésben foglaltaknak megfelelően az MVH-hoz történő bejelentést követően, saját forrás terhére – a 2. § (3) bekezdés a)–c) pontja esetében a hatályos gépkatalógusban szereplő –, azonos rendeltetésű, azonos vagy jobb paraméterekkel rendelkező gépre, technológiai berendezésre, hűtőtérrel rendelkező tehergépjárműre kell lecserélni. A csere esetén az (1) bekezdés szerinti üzemeltetési kötelezettség időtartama az üzemen kívül helyezés és az új gép, technológiai berendezés, valamint hűtőtérrel rendelkező tehergépjármű üzembe helyezése között eltelt idővel meghosszabbodik.
+(3)[^16] A (2) bekezdésben foglalt esetekben a kiesett gépet, technológiai berendezést, hűtőtérrel rendelkező tehergépjárművet a (4)–(6) bekezdésben foglaltaknak megfelelően a Kincstárhoz történő bejelentést követően, saját forrás terhére – a 2. § (3) bekezdés a)–c) pontja esetében a hatályos gépkatalógusban szereplő –, azonos rendeltetésű, azonos vagy jobb paraméterekkel rendelkező gépre, technológiai berendezésre, hűtőtérrel rendelkező tehergépjárműre kell lecserélni. A csere esetén az (1) bekezdés szerinti üzemeltetési kötelezettség időtartama az üzemen kívül helyezés és az új gép, technológiai berendezés, valamint hűtőtérrel rendelkező tehergépjármű üzembe helyezése között eltelt idővel meghosszabbodik.
 
-(4) Csereigény esetén az ügyfélnek az MVH által rendszeresített és a honlapján közzétett nyomtatványon kell a cserére vonatkozó szándékát az MVH-hoz bejelenteni a bejelentés alapjául szolgáló dokumentumok csatolásával.
+(4)[^17] Csereigény esetén az ügyfélnek a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon kell a cserére vonatkozó szándékát a Kincstárhoz bejelenteni a bejelentés alapjául szolgáló dokumentumok csatolásával.
 
-(5) A cserét, annak megvalósítását követő öt napon belül az MVH-hoz be kell jelenteni az MVH által rendszeresített és a honlapján közzétett nyomtatványon. A bejelentésnek tartalmaznia kell:
+(5)[^18] A cserét, annak megvalósítását követő öt napon belül a Kincstárhoz be kell jelenteni a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon. A bejelentésnek tartalmaznia kell:
 
 a) az ügyfél ügyfél-azonosítóját,
 
@@ -75,3 +75,8 @@ c) az új gép, technológiai berendezés, valamint hűtőtérrel rendelkező te
 d) az ügyfélnek rendelkeznie kell az új gép, technológiai berendezés, valamint hűtőtérrel rendelkező tehergépjármű vásárlásához kapcsolódó számla teljesítésének időpontjában kezdődő jótállási jogának érvényesítéséhez szükséges okirattal; és
 
 e) az új gép, technológiai berendezés üzemeltetésének helye, a hűtőtérrel rendelkező tehergépjármű tárolási helye kizárólag Magyarország területe lehet.
+
+[^15]: A 13. § a 88/2016. (XII. 29.) FM rendelet 96. § d) pontja szerint módosított szöveg.
+[^16]: A 14. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 96. § b) pontja szerint módosított szöveg.
+[^17]: A 14. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 96. § b)–c) pontja szerint módosított szöveg.
+[^18]: A 14. § (5) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 96. § b)–c) pontja szerint módosított szöveg.

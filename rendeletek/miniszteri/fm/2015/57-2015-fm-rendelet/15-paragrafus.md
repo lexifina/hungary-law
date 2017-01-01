@@ -1,6 +1,6 @@
-15. § (1) Az üzemeltetési kötelezettség időtartama alatt a gép, technológiai berendezés üzemeltetési helye vagy a hűtőtérrel rendelkező tehergépjármű tárolási helye az MVH által rendszeresített, és a honlapján közzétett nyomtatványon történő bejelentést követően változtatható meg.
+15. § (1)[^19] Az üzemeltetési kötelezettség időtartama alatt a gép, technológiai berendezés üzemeltetési helye vagy a hűtőtérrel rendelkező tehergépjármű tárolási helye a Kincstár által rendszeresített, és a honlapján közzétett nyomtatványon történő bejelentést követően változtatható meg.
 
-(2) Az üzemeltetési vagy tárolási hely változtatásának bejelentőlapját az MVH által rendszeresített és a honlapján közzétett nyomtatványon, az MVH részére kell benyújtani legalább tíz nappal a gép, technológiai berendezés, vagy hűtőtérrel rendelkező tehergépjármű tervezett átszállításának megkezdése előtt. A nyomtatványon az ügyfélnek meg kell adnia
+(2)[^20] Az üzemeltetési vagy tárolási hely változtatásának bejelentőlapját a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon, a Kincstár részére kell benyújtani legalább tíz nappal a gép, technológiai berendezés, vagy hűtőtérrel rendelkező tehergépjármű tervezett átszállításának megkezdése előtt. A nyomtatványon az ügyfélnek meg kell adnia
 
 a) az ügyfél-azonosítóját,
 
@@ -19,3 +19,6 @@ cd) új üzemeltetési, tárolási helyét,
 d) az üzemeltetési, tárolási hely változtatásának indokolását, és
 
 e) az üzemeltetési, tárolási hely változtatásának tervezett időpontját.
+
+[^19]: A 15. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 96. § c) pontja szerint módosított szöveg.
+[^20]: A 15. § (2) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 96. § e) pontja szerint módosított szöveg.

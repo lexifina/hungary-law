@@ -22,7 +22,7 @@ b) amelyhez kapcsolódóan az ügyfél rendelkezik a teljesítés időpontjában
 
 c) amelynek gyártásától a támogatási kérelem benyújtásáig két évnél több nem telt el;
 
-8. gépkatalógus: a Földművelésügyi Minisztérium és a Nemzeti Agrárkutatási és Innovációs Központ Mezőgazdasági Gépesítési Intézet közreműködésével készült, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által közzétett, a gépek műszaki és technológiai adatait tartalmazó gyűjtemény, amely tartalmazza a referenciaárakat is;
+8.[^1] gépkatalógus: a Földművelésügyi Minisztérium és a Nemzeti Agrárkutatási és Innovációs Központ Mezőgazdasági Gépesítési Intézet közreműködésével készült, a Magyar Államkincstár (a továbbiakban: Kincstár) által közzétett, a gépek műszaki és technológiai adatait tartalmazó gyűjtemény, amely tartalmazza a referenciaárakat is;
 
 9. hűtőtérrel rendelkező tehergépjármű: első forgalomba helyezésű, hűtő vagy fagyasztóval felszerelt, beépített erőgéppel hajtott olyan gépjármű,
 
@@ -36,8 +36,10 @@ c) amelynek gyártásától a támogatási kérelem benyújtásáig két évnél
 
 11. üzembe helyezés: a gépekről és az 1995/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelv 2. cikk k) pontjának megfelelő üzembe helyezés;
 
-12. üzemeltetési hely: a gép, technológiai berendezés üzemeltetési, vagy hűtőtérrel rendelkező tehergépjármű tárolási helye, amelyet az MVH-hoz bejelentettek;
+12.[^2] üzemeltetési hely: a gép, technológiai berendezés üzemeltetési, vagy hűtőtérrel rendelkező tehergépjármű tárolási helye, amelyet a Kincstárhoz bejelentettek;
 
-13.[^1] mezőgazdasági termék feldolgozása: mezőgazdasági terméken végrehajtott bármely olyan művelet, amelynek eredményeként keletkező termék szintén mezőgazdasági termék, kivéve a mezőgazdasági üzem által végzett, az állati vagy növényi eredetű termék első eladásának előkészítéséhez szükséges tevékenységeket.
+13.[^3] mezőgazdasági termék feldolgozása: mezőgazdasági terméken végrehajtott bármely olyan művelet, amelynek eredményeként keletkező termék szintén mezőgazdasági termék, kivéve a mezőgazdasági üzem által végzett, az állati vagy növényi eredetű termék első eladásának előkészítéséhez szükséges tevékenységeket.
 
-[^1]: Az 1. § 13. pontját a 44/2016. (VI. 29.) FM rendelet 1. §-a iktatta be.
+[^1]: Az 1. § 8. pontja a 88/2016. (XII. 29.) FM rendelet 96. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 12. pontja a 88/2016. (XII. 29.) FM rendelet 96. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § 13. pontját a 44/2016. (VI. 29.) FM rendelet 1. §-a iktatta be.
