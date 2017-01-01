@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-9-20-85
 | 2015-09-01 | 2000-9-20-85.17 | 39/2015. (VIII. 28.) EMMI rendelet |
 | 2015-10-29 | 2000-9-20-85.18 | 12/2006. (XII. 27.) SZMM rendelet |
 | 2016-07-13 | 2000-9-20-85.19 | 14/2016. (VII. 12.) EMMI rendelet |
+| 2017-01-01 | 2000-9-20-85.20 | 43/2016. (XII. 27.) EMMI rendelet |
