@@ -1,3 +1,7 @@
-## 2–4. §[^2]
+## 4. § A Rendelet 5. § (10) bekezdése a következő f) ponttal egészül ki:
 
-[^2]: A 2–4. § a 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## (E rendelet alapján)
+
+## „f) a 4. § i) pontja szerinti támogatás esetén 2021. június 30-ig”
+
+## (lehet támogatási döntést hozni.)
