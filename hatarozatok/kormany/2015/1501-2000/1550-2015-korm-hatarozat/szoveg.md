@@ -16,7 +16,7 @@ c) a külgazdasági és külügyminiszter által,
 
 d) a Teleki László Alapítvány elnöke által,
 
-e) a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ elnöke által
+e)[^1]
 
 delegált egy-egy tag.
 
@@ -33,3 +33,5 @@ delegált egy-egy tag.
 9. A Bizottság működésével kapcsolatos szervezési és adminisztratív feladatokat a Miniszterelnökség megállapodás alapján a Teleki László Alapítvány útján látja el.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont e) alpontját az 1853/2016. (XII. 27) Korm. határozat 55. pontja hatályon kívül helyezte.
