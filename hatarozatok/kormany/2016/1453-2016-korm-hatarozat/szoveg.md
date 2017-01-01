@@ -8,7 +8,7 @@ Fazekas Ferenc fazekasnak,
 
 Füstös János táncosnak,
 
-Galánfiné Smidt Teréz szövőnek,
+Galánfiné Schmidt Teréz szövőnek,
 
 Hodorog András furulyásnak,
 
@@ -20,4 +20,6 @@ Mónus Béla fafaragónak,
 
 Szilágyi Ferenc énekesnek
 
-a Népművészet Mestere díjat adományozza.
+a Népművészet Mestere díjat adományozza.[^1]
+
+[^1]: A határozat az 1853/2016. (XII. 27.) Korm. határozat 81. pontja szerint módosított szöveg.
