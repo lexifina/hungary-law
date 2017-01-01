@@ -1,4 +1,4 @@
-## 19. §[^52]
+## 19. §[^60]
 
 20. § (1) E rendeletben meghatározott feladatok átadás-átvétele során a központi költségvetés központosított bevételeire vonatkozó követelés- és teljesítésadatokról vezetett részletező nyilvántartásokat a bevételt korábban beszedő szervezet átadja a beszedő feladatokat e rendelet alapján ellátó szervnek.
 
@@ -6,4 +6,4 @@
 
 (3) Az átadás-átvételt követően a központi költségvetés központosított bevételeit e rendelet szerint beszedő szerv szolgáltat adatot a kincstár részére, kivéve ha a kötelezett tévesen a korábban beszedő szervezet számára teljesíti az őt terhelő fizetési kötelezettséget. Ilyen esetben a bevételt korábban beszedő szervezet a számára megfizetett összeget a központi költségvetés központosított bevételeit beszedő szervezetekre vonatkozó szabályok szerint utalja át a kincstárnak, és erről a kincstárt és a beszedő szervezetet tájékoztatja.
 
-[^52]: A 19. §-t a 147/2015. (VI. 12.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^60]: A 19. §-t a 147/2015. (VI. 12.) Korm. rendelet 10. §-a hatályon kívül helyezte.

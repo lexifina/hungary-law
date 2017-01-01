@@ -38,4 +38,13 @@
 
 (5) A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény alapján megvalósuló vízilétesítmények és vízimunkák engedélyezése esetén vízügyi hatóságként első fokon az (1) bekezdés 10. pontja szerinti szerv jár el.
 
+(6)[^11] A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendeletben (a továbbiakban: R.) meghatározott építmények és ingatlanok esetében területi vízügyi hatóságként és szakhatóságként, valamint területi vízvédelmi hatóságként és szakhatóságként – országos illetékességgel – első fokon az (1) bekezdés 10. pontja szerinti hatóság jár el.
+
+Ezekben az eljárásokban
+
+a) csak olyan ügyintéző vehet részt, aki a biztonsági vezető által a nemzeti minősített adatra kiállított személyi biztonsági tanúsítvánnyal vagy a külföldi minősített adatra a Nemzeti Biztonsági Felügyelet által kiállított személyi biztonsági tanúsítvánnyal rendelkezik,
+
+b) – e rendeletben meghatározottaktól eltérően, érintettségük esetén – az R. 1. melléklete szerinti szakhatóságok működnek közre.
+
 [^10]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (2) bekezdésével megállapított szöveg.
+[^11]: A 10. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 278. § (1) bekezdése iktatta be.
