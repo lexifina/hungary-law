@@ -1,38 +1,33 @@
 ## 4. A panaszügy iratainak és a panasz adatainak kezelése
 
-7. § (1)[^20] A Kar a panaszügy iratai között kezeli a benyújtott panaszt, a panasz rövid, szakszerű összefoglalását, a panaszelbírálás során megtett intézkedéseket és panaszolti nyilatkozatokat és szükség szerint a panaszolt intézkedés iratának vagy a panaszolt ügyiratnak a másolatát. A Kar a panaszügy iratait rendszerezetten, 5 évig köteles őrizni.
+7. §[^25] (1) A Kar panaszügy iratai között kezeli a benyújtott panaszt, a panaszelbírálás során megtett intézkedéseket és panaszolti nyilatkozatokat, továbbá szükség szerint a panaszolt intézkedés iratának vagy a panaszolt ügyiratainak a másolatát. A Kar a panaszügy iratait rendszerezetten és 5 évig köteles őrizni.
 
-(2)[^21] A panaszügy iratait úgy kell kezelni, hogy abból a válaszadási határidő és annak betartása egyértelműen megállapítható legyen. A Kar a benyújtott panaszokról legalább az alábbi adatokkal vezet nyilvántartást:
+(2) A panaszügy iratait úgy kell kezelni, hogy abból a válaszadási határidő és annak betartása egyértelműen megállapítható legyen. A Kar a benyújtott panaszokról legalább az alábbi adatokkal vezet nyilvántartást:
 
 a) a panaszt benyújtó személy neve,
 
-b) a panaszolt ügy száma,
+b) a panasszal érintett végrehajtási ügy száma,
 
-c) a panaszolt neve (azonosító száma),
+c) a panaszolt neve (azonosító szám),
 
-d)[^22] a beérkezés dátuma, a benyújtás módja (szóban, írásban), a beérkezés forrása (közvetlenül a Karhoz benyújtott, más szervtől érkezett),
+d) a beérkezés dátuma, a benyújtás módja (szóban, írásban),
 
-e) az előzetes vizsgálat ideje, eredménye,
+e) a beérkezés forrása (közvetlenül a Karhoz benyújtott, más szervtől érkezett),
 
-f) a panasz tárgyának megjelölése, a panaszolt intézkedés Vht. szerinti szabályának megjelölése,
+f) az előzetes vizsgálat eredménye,
 
-g) a felfüggesztés kezdete és vége,
+g) a panasz tárgyának megjelölése, a panasszal érintett intézkedés Vht., illetve a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet szerinti szabályának megjelölése,
 
-h)[^23] a panaszt kivizsgáló kari ügyintéző neve,
+h) a vizsgálat felfüggesztése,
 
-i) szükséges-e intézkedés, a javasolt intézkedés rövid leírása,
+i) a panaszt kivizsgáló kari ügyintéző neve,
 
-j)[^24] a panasz elbírálására jogosult kari szerv értesítésének tartalma,
+j) szükséges-e intézkedés, a javasolt intézkedés rövid leírása,
 
 k) az értesítés megküldésének időpontja,
 
-l) a kifogás benyújtásának időpontja,
+l) a felülbírálati kérelem benyújtásának időpontja,
 
-m)[^25] a Kar Hivatali szervének vezetője által megküldött értesítés időpontja.
+m) a Kar Hivatali szerve panaszügyeket elbíráló hivatali szervezeti egységének vezetője által megküldött értesítés időpontja.
 
-[^20]: A 7. § (1) bekezdése az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^21]: A 7. § (2) bekezdés nyitó szövegrésze az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^22]: A 7. § (2) bekezdés d) pontja az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^23]: A 7. § (2) bekezdés h) pontja az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 10. pontja szerint módosított szöveg.
-[^24]: A 7. § (2) bekezdés j) pontja az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 10. pontja szerint módosított szöveg.
-[^25]: A 7. § (2) bekezdés m) pontja az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^25]: A 7. § a 26/2016. (XII. 27.) IM rendelet 19. § (10) bekezdésével megállapított szöveg.

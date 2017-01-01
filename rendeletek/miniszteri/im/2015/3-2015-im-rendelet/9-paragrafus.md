@@ -1,6 +1,6 @@
 ## 6. A fegyelmi eljárások nyilvántartásának szabályai
 
-9. § (1)[^34] A Kar a folyamatban lévő fegyelmi eljárásokról legalább az alábbi adatokkal vezet nyilvántartást:
+9. § (1)[^35] A Kar a folyamatban lévő fegyelmi eljárásokról legalább az alábbi adatokkal vezet nyilvántartást:
 
 a) a fegyelmi eljárás megindítását indítványozó személy vagy szerv neve,
 
@@ -12,13 +12,13 @@ d) az eljárás megindításának dátuma,
 
 e) a fegyelmi eljárás előzménye, annak ügyszáma (iroda vizsgálat, panasz, egyéb),
 
-f) a fegyelmi vétség tárgyának megjelölése, a megsértett Vht. vagy más jogszabály szabályának megjelölése,
+f) a fegyelmi vétség tárgyának megjelölése, a megsértett Vht. vagy más jogszabály rendelkezésének megjelölése,
 
-g) a végrehajtó felfüggesztésének kezdete, a felfüggesztés vége,
+g) a végrehajtó hivatalából történő felfüggesztésének kezdete, a felfüggesztés vége,
 
-h)[^35] helyettes neve,
+h) állandó helyettes neve,
 
-i)[^36] a helyettesítésre vonatkozó megállapodás kari ügyszáma,
+i) a helyettesítésre vonatkozó bejelentés kari ügyszáma,
 
 j) a fegyelmi bíróság megnevezése,
 
@@ -32,12 +32,10 @@ n) jogerős fegyelmi határozat ideje és
 
 o) a jogerős fegyelmi határozat rövid ismertetése.
 
-(2)[^37] A Kar az (1) bekezdés szerinti nyilvántartást negyedévente utólag, a tárgynegyedévet követő hónap 15-éig megküldi az Igazságügyi Hivatalnak. A kimutatást elektronikus úton, szerkeszthető formában, valamint a papír alapú kimutatást képi formátumú elektronikus okirattá alakítva kell megküldeni.
+(2)[^36] A Kar az (1) bekezdés szerinti nyilvántartást negyedévente utólag, a tárgynegyedévet követő hónap 15-éig megküldi a minisztériumnak. A kimutatást elektronikus úton, szerkeszthető formában, valamint a papír alapú kimutatást képi formátumú elektronikus okirattá alakítva kell megküldeni.
 
-(3)[^38] Az Igazságügyi Hivatal a minisztert, a Kar hivatali szervének vezetője a közgyűlést évente tájékoztatja a folyamatban lévő és lezárt fegyelmi eljárásokról.
+(3)[^37] A Kar hivatali szervének vezetője a közgyűlést évente tájékoztatja a folyamatban lévő és lezárt fegyelmi eljárásokról.
 
-[^34]: A 9. § (1) bekezdés nyitó szövegrésze az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^35]: A 9. § (1) bekezdés h) pontja az 5/2016. (III. 8.) IM rendelet 22. § (2) bekezdése szerint módosított szöveg.
-[^36]: A 9. § (1) bekezdés i) pontja az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 10. pontja és (2) bekezdése szerint módosított szöveg.
-[^37]: A 9. § (2) bekezdése az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^38]: A 9. § (3) bekezdése az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^35]: A 9. § (1) bekezdése a 26/2016. (XII. 27.) IM rendelet 19. § (13) bekezdésével megállapított szöveg.
+[^36]: A 9. § (2) bekezdése az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 2. pontja, a 26/2016. (XII. 27.) IM rendelet 19. § (14) bekezdés f) pontja szerint módosított szöveg.
+[^37]: A 9. § (3) bekezdése az 5/2016. (III. 8.) IM rendelet 22. § (1) bekezdés 14. pontja, a 26/2016. (XII. 27.) IM rendelet 19. § (14) bekezdés g) pontja szerint módosított szöveg.
