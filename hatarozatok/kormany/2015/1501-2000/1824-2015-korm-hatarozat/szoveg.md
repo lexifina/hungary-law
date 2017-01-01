@@ -24,9 +24,9 @@ i) a BM Országos Katasztrófavédelmi Főigazgatóságra,
 
 j) a Nemzeti Adó- és Vámhivatalra,
 
-k) a Szervezett Bűnözés Elleni Koordinációs Központra,
+k)[^1] a Terrorelhárítási Információs és Bűnügyi Elemző Központra,
 
-l) a Bevándorlási és Állampolgársági Hivatalra,
+l)[^2] a Bevándorlási és Menekültügyi Hivatalra,
 
 m) a Büntetés-végrehajtás Országos Parancsnokságára, valamint
 
@@ -196,6 +196,8 @@ Határidő: a határozat hatálybalépését követő 120 napon belül
 
 49. Ez a határozat a közzétételét követő napon lép hatályba.
 
-50.[^1]
+50.[^3]
 
-[^1]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont k) alpontja az 1853/2016. (XII. 27.) Korm. határozat 60. pont a) alpontjával megállapított szöveg.
+[^2]: Az 1. pont l) alpontja az 1853/2016. (XII. 27.) Korm. határozat 60. pont b) alpontjával megállapított szöveg.
+[^3]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
