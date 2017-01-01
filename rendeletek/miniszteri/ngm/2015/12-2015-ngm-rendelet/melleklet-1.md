@@ -50,31 +50,21 @@ A) Nemzetgazdasági Minisztérium hivatali szervezete
 
 1.21. a minősített beszerzési eljárásban döntés-előkészítő vagy döntéshozó munkakör.
 
-B)[^1]
+B)[^1] Kormányhivatalok
 
-C) Központi hivatal
-
-1. A Magyar Kereskedelmi Engedélyezési Hivatalnál
+1. A Szellemi Tulajdon Nemzeti Hivatalánál
 
 1.1. a gazdasági vezető,
 
-1.2. a haditechnikai és exportellenőrzési hatósági feladatot ellátó szervezeti egység valamennyi munkaköre,
+1.2. a szabadalmi ügyekért, a hatósági ügyvitelért felelős szervezeti egység vezetője, az iparjogvédelmi lajstromvezetésért felelős szervezeti egység vezetője,
 
-1.3. az informatikai feladatot ellátó szervezeti egység vezetője,
+1.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör,
 
-1.4. a koordinációs és a humánpolitikai feladatot ellátó szervezeti egység vezetője és helyettese,
+1.4. a nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízotti, ügyintézői, adminisztratív feladatokat ellátó munkakör.
 
-1.5. az informatikai biztonsági vezető,
+C) Központi hivatal
 
-1.6. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör,
-
-1.7. a biztonsági vezető,
-
-1.8. a belső ellenőr,
-
-1.9. az integritás tanácsadó,
-
-1.10. a titkos ügykezelő.
+1.[^2]
 
 2. Az Európai Támogatásokat Auditáló Főigazgatóságnál
 
@@ -128,7 +118,7 @@ C) Központi hivatal
 
 4.7. a titkos ügykezelő.
 
-5.[^2] A Nemzeti Adó- és Vámhivatalnál
+5.[^3] A Nemzeti Adó- és Vámhivatalnál
 
 5.1. a gazdasági vezető,
 
@@ -186,7 +176,7 @@ C) Központi hivatal
 
 5.28. a Nemzeti Adó- és Vámhivatal azon foglalkoztatottja, akinek a munkaköri feladatainak ellátásához Személyi Biztonsági Tanúsítvány megléte szükséges.
 
-6.[^3] A Nemzeti Akkreditáló Hatóságnál
+6.[^4] A Nemzeti Akkreditáló Hatóságnál
 
 6.1. a főosztályvezető, a főosztályvezető-helyettes, az osztályvezető,
 
@@ -230,6 +220,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
 1.12. a titkos ügykezelő.
 
-[^1]: Az 1. melléklet B) részét a 47/2015. (XII. 30.) NGM rendelet 27. §-a hatályon kívül helyezte.
-[^2]: Az 1. melléklet C) rész 5. pontját a 47/2015. (XII. 30.) NGM rendelet 27. §-a iktatta be.
-[^3]: Az 1. melléklet C) Központi hivatal rész 6. pontját a 15/2016. (V. 24.) NGM rendelet 1. §-a iktatta be.
+[^1]: Az 1. melléklet B) részét a 47/2015. (XII. 30.) NGM rendelet 27. §-a hatályon kívül helyezte, újonnan a 62/2016. (XII. 29.) NGM rendelet 31. §-a iktatta be.
+[^2]: Az 1. melléklet C) rész 1. pontját a 62/2016. (XII. 29.) NGM rendelet 31. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet C) rész 5. pontját a 47/2015. (XII. 30.) NGM rendelet 27. §-a iktatta be.
+[^4]: Az 1. melléklet C) Központi hivatal rész 6. pontját a 15/2016. (V. 24.) NGM rendelet 1. §-a iktatta be.
