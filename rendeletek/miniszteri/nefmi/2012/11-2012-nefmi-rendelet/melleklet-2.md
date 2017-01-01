@@ -1470,7 +1470,7 @@
 
 | 79981 | Kemoterápia, KAB protokoll szerint (01. fázis) |
 
-2. melléklet a 11/2012. (II. 28.) NEFMI rendelethez[^4]
+2. melléklet a 11/2012. (II. 28.) NEFMI rendelethez[^7]
 
 A daganatellenes terápiák protokolljai
 
@@ -6092,4 +6092,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.

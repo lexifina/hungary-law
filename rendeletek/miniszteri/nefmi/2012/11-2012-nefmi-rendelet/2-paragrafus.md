@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya kiterjed az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP), valamint a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra.
+## 1. §[^1] E rendelet hatálya kiterjed a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK), valamint a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra.
 
 ## 2. Értelmező rendelkezések
 
@@ -41,3 +41,5 @@ q) szinonima kód: a fázisokban alkalmazható gyógyszernevek rövidített form
 r) indikáción túli gyógyszer alkalmazása: indokolt esetben, ha az indikáción túli gyógyszer mással nem helyettesíthető, az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendeletben foglaltaknak megfelelő indikáción túli gyógyszeres kezelés, figyelembe véve a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben foglaltakat;
 
 s) tételes elszámolás alá eső gyógyszer: azon gyógyszerkészítmények, amelyek hatóanyaga megjelölt OENO kóddal az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 1/A. számú mellékletében szerepel.
+
+[^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 84. § a) pontja szerint módosított szöveg.
