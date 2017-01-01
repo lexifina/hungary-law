@@ -34,7 +34,7 @@ o) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;
 
 p) a közúti közlekedési nyilvántartást vezető szerv a nyilvántartási eljáráshoz;
 
-q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, fővárosi és megyei kormányhivatal, valamint lakásgazdálkodásért és lakáspolitikáért felelős miniszter feladatai ellátásához;
+q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint lakásgazdálkodásért és lakáspolitikáért felelős miniszter feladatai ellátásához;
 
 r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 
@@ -43,3 +43,5 @@ s) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. 
 t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához;
 
 u) a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez.
+
+v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben.

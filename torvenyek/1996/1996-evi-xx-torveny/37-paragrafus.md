@@ -10,13 +10,15 @@ c) a társadalombiztosítási szervnek a nyugdíj-biztosítási nyilvántartás�
 
 d) az egészségügyi dolgozók alap- és működési nyilvántartását vezető egészségügyi államigazgatási szervnek az alap- és működési nyilvántartásban szereplő egészségügyi dolgozó természetes személyazonosító adatainak, lakóhelyének és tartózkodási helyének, valamint állampolgárságának a változásáról, valamint az egészségügyi dolgozó elhalálozásának tényéről és időpontjáról;
 
-e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
+e) a családtámogatások és a fogyatékossági támogatás ügyében eljáró szerv részére az ellátásban részesülő személy és a családok támogatásáról szóló 1998. évi LXXXIV. törvény 49/B. §-a szerinti egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 
 f) a társadalombiztosítási szervnek a megváltozott munkaképességű személyek nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
 
-g) az ügyfél-regisztrációs szerv részére az adatbázisban szereplő adatok változásainak folyamatos követése érdekében az ügyfél-regisztrációs adatbázisban szereplő személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, valamint az érintett elhalálozásáról;
+g) a központi ügyfél-regisztrációs szerv részére az adatbázisban szereplő adatok változásainak folyamatos követése érdekében az ügyfél-regisztrációs adatbázisban szereplő személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, valamint az érintett elhalálozásáról;
 
-g) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról.
+g)
+
+h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
@@ -34,7 +36,7 @@ b) az idegenrendészeti hatóságnak a bevándorolt és a letelepedett polgár c
 
 c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
 
-d) a központi közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
+d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
 
 e) a központi menekültügyi szervnek a menekült és oltalmazott jogállású személyek családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről.
 
@@ -42,4 +44,4 @@ f) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető s
 
 g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szervnek a választójoggal nem rendelkező polgárok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
-(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
+(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek – az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

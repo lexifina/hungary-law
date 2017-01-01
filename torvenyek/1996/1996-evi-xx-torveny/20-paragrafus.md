@@ -16,13 +16,13 @@ d) a nyomozó hatóság, az ügyész által jóváhagyott megkeresés alapján, 
 
 e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
-f) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
+f) az egyéni vállalkozók nyilvántartását vezető szerv, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti szerv az egyéni vállalkozóról és az egyéni cégről szóló törvényben meghatározott hatósági feladatai ellátásához;
 
-g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, a családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, a hozzájárulások, támogatások, ellátások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
+g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, továbbá a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, valamint a családtámogatások és a bányászati keresetkiegészítések ügyében eljáró szerv a családtámogatási ellátásokkal és a bányászati keresetkiegészítéssel kapcsolatos feladatai teljesítéséhez, az ellátások megállapításával, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 
-h)
+h) a lakáscélú támogatási hatáskörében eljáró hatóság a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez a hozzájárulások, támogatások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 
-i) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a rehabilitációs hatóság a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben, továbbá a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvényben meghatározott feladatai ellátásához;
+i) az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a rehabilitációs hatóság a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben, továbbá a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvényben meghatározott feladatai ellátásához;
 
 j) a Diákhitel Központ a hallgatói hitelek folyósításával, nyilvántartásával és törlesztésével összefüggésben;
 
@@ -32,4 +32,6 @@ l) a mezőgazdasági igazgatási szerv a mezőgazdasági és vidékfejlesztési 
 
 m) az élelmiszerlánc-felügyeleti szerv az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti felügyeleti díj bevallásának, illetve megfizetésének ellenőrzésével, továbbá az élelmiszerlánc szereplőinek nyilvántartásával összefüggésben;
 
-n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési korlátozások hatósági ellenőrzésével, továbbá a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba vételével kapcsolatos eljárással összefüggésben.
+n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési korlátozások hatósági ellenőrzésével, továbbá a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba vételével kapcsolatos eljárással összefüggésben;
+
+o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben.

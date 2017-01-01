@@ -16,7 +16,7 @@ g) a fogva tartó szerv, a fogvatartott egészségügyi szolgáltatásra jogosul
 
 h) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
 
-i) a kincstár, a családtámogatási kifizetőhely a családtámogatási ellátások, illetőleg a fogyatékossági támogatás megállapítása feladatkörében a külön törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettség teljesítése során.
+i) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv a családtámogatási ellátások, a fogyatékossági támogatás, a vakok személyi járadéka, a bányászati keresetkiegészítés megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során, továbbá a nagycsaládos gázdíjkedvezmény ügyében eljáró szerv a nagycsaládos gázdíjkedvezmény megállapításával, érvényesítésével és a jogszerű igénybevétel ellenőrzésével összefüggésben;
 
 j) a kincstár a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűsége megállapításához, valamint a nem állami intézmények fenntartói részére folyósított humánszolgáltatások normatív támogatási előirányzataival kapcsolatos adatszolgáltatási, folyósítási és ellenőrzési feladatai ellátása érdekében.
 
@@ -28,4 +28,6 @@ k) az Elektronikus Egészségügyi Szolgáltatási Tér működtetője az Egész
 
 l) az Eüak. 35/H. §-a szerinti elektronikus önrendelkezési nyilvántartást vezető szerv az érintettek önrendelkezési nyilatkozatainak érvényesítése és nyilvántartása céljából,
 
-m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából.
+m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából,
+
+n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során.

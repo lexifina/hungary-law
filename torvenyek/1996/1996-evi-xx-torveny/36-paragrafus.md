@@ -26,7 +26,7 @@ k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározo
 
 l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
 
-m) a központi nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
+m) a nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 
 n)
 
@@ -42,4 +42,6 @@ t) feladatai ellátásához a választási szerv és a választási munkacsoport
 
 u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 
-v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához.
+v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához;
+
+x) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.

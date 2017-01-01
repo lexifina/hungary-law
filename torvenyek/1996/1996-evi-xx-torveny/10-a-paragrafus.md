@@ -1,6 +1,6 @@
 ## Összerendelési nyilvántartás
 
-10/A. § (1) Az összerendelési nyilvántartás olyan szabályozott elektronikus ügyintézési szolgáltatás, amelynek célja a (2) bekezdésben meghatározott azonosító kódok és azonosító adatok (jelen alcím alkalmazásában a továbbiakban: azonosító) kezelésére feljogosított nyilvántartások együttműködési képességének biztosítása, az azonosítóhoz tartozó titkosított kapcsolati kódon alapuló adatcsere útján.
+10/A. § (1) Az összerendelési nyilvántartás olyan központi elektronikus ügyintézési szolgáltatás, amelynek célja a (2) bekezdésben meghatározott azonosító kódok és azonosító adatok (ezen alcím alkalmazásában a továbbiakban együtt: azonosító) kezelésére feljogosított nyilvántartások együttműködési képességének biztosítása, az azonosítóhoz tartozó titkosított kapcsolati kódon alapuló adatcsere útján.
 
 (2) Az összerendelési nyilvántartásban az alábbi azonosítók alapján képzett összerendelési kapcsolati kódok titkosított változatát (a továbbiakban: titkosított összerendelési kapcsolati kód) kell tárolni:
 
@@ -18,15 +18,21 @@ f) az útlevél okmányszáma,
 
 g) kártya formátumú vezetői engedély (a továbbiakban: vezetői engedély) okmányszáma,
 
-h) a Ket. szerint a Kormány által kötelezően biztosított azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
+h) a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
 
-i) a Ket. szerinti személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító,
+i) a személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító,
 
 j) az ügyfél ügyintézési rendelkezésének nyilvántartási azonosítója,
 
 k) az elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásának nyilvántartási azonosítója,
 
 l) az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerinti, törvény alapján személyazonosság közhiteles igazolására alkalmas kártya egyedi sorszáma.
+
+m) az oktatási igazolvány egyedi azonosítója,
+
+n) a fővárosi és megyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
+
+o) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód.
 
 (3) A természetes személyhez tartozó új összerendelési bejegyzés felvételét a (2) bekezdés a), b) és k) pontja szerinti azonosító képzésére jogosult nyilvántartás adatkezelője kezdeményezi.
 
@@ -52,7 +58,7 @@ g) a társadalombiztosítási azonosító jelet tartalmazó hatósági nyilvánt
 
 h) az adóazonosító jelről szóló hatósági igazolvány nyilvántartást vezető szerv a hatósági igazolványra való jogosultság megszüntetéséről;
 
-i) a Ket. szerinti, a Kormány által kötelezően biztosított azonosítási szolgáltatáshoz kapcsolódó egyedi azonosítót nyilvántartó szerv az egyedi azonosító jogosultjához tartozó adatok kezelésének nyilvántartásban történt megszüntetéséről;
+i) a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosítót nyilvántartó szerv az egyedi azonosító jogosultjához tartozó adatok kezelésének nyilvántartásban történt megszüntetéséről;
 
 j) a Nemzeti Egységes Kártyarendszer központi nyilvántartás működtetője a törvény alapján személyazonosításra alkalmas elsődleges kártya adatainak törléséről.
 
