@@ -4,19 +4,19 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt beruházásként kipufogó rendszerekhez kapcsolódó újgenerációs termékek gyártását eredményező gyártóüzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági eljárások | Érdi Járási Hivatal | Pest Megyei Kormányhivatal |
+| 2. | Kiemelt beruházásként kipufogó rendszerekhez kapcsolódó újgenerációs termékek gyártását eredményező gyártóüzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások | Érdi Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | útügyi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 7. | vízjogi engedélyezési eljárás | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 8. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
 | 9. | ingatlan- nyilvántartási hatósági eljárás | Ráckevei Járási Hivatal | Pest Megyei Kormányhivatal |
 
@@ -28,9 +28,9 @@
 
 | 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | talajvédelmi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 14. | talajvédelmi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 15. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 15. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter | nincs |
 
 | 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -38,9 +38,9 @@
 
 | 18. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 18a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 19. | Erdő igénybevételi eljárások | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 20. | erdő igénybevételi eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
 2. melléklet a 31/2013. (II. 13.) Korm. rendelethez[^11]
 
@@ -48,21 +48,21 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Érdi Járási Hivatal | Pest Megyei Kormányhivatal |
+| 2. | építésügy | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 3. | műemlékvédelem és régészet | Érdi Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | műemlékvédelem és régészet | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelem, természetvédelem | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | közúti közlekedés | Pest Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | közúti közlekedés | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 7. | vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 7. | vasúti közlekedés | közlekedésért felelős miniszter | nincs |
 
-| 8. | légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
+| 8. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
 | 9. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
@@ -74,18 +74,16 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 14. |  |  |  |
+| 14. | talajvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 15. | talajvédelem | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 15. | erdővédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 16. | erdővédelem | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 16. | egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 17. | egészségügy | Budapest Főváros Kormányhivatala | Országos Tisztifőorvosi Hivatal |
+| 17. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 18. | műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatal | Budapest Főváros Kormányhivatala |
 
-| 19. | műszaki biztonság | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 19. | területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-| 20. | területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal | területrendezésért felelős miniszter |
-
-[^11]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 42. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 23. §-a, a 271/2016. (IX. 1.) Korm. rendelet 32. § (3)–(4) bekezdése szerint módosított szöveg.
+[^11]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 39. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
