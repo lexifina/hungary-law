@@ -1,4 +1,4 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^150]
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^172]
 
 Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működést engedélyező szervnek bemutatandó iratok
 
@@ -70,17 +70,17 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.4.2. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte,
 
-2.4.3. csatolni kell a használatbavételi engedély, illetve a fennmaradási engedély másolatát az Szt. 75. § (2) bekezdés c) pontja szerinti lakhatási szolgáltatást biztosító ingatlan esetén, valamint olyan ingatlan esetén, amelyben az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat a támogatott lakhatást nyújtó engedélyes maga nyújtja, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki,
+2.4.3. csatolni kell a használatbavételi engedély, illetve a fennmaradási engedély másolatát az Szt. 75. § (5) bekezdés c) pontja szerinti lakhatási szolgáltatást biztosító ingatlan esetén, valamint olyan ingatlan esetén, amelyben az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat a támogatott lakhatást nyújtó engedélyes maga nyújtja, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki,
 
-2.4.4. ha az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat az Szt. 75. § (3) bekezdése alapján biztosítják, csatolni kell az erről szóló megállapodást.
+2.4.4. ha az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat az Szt. 75. § (2) bekezdés a) és d) pontja alapján biztosítják, csatolni kell az erről szóló megállapodást.
 
-2.5. Nappali szociális ellátás és – a rehabilitációs szociális intézményi ellátás kivételével – bentlakásos szociális intézményi ellátás esetén a 2.1. pontban foglaltakon túl
+2.5. Nappali szociális ellátás és – a hajléktalan személyek átmeneti szállása és a rehabilitációs szociális intézményi ellátás kivételével – bentlakásos szociális intézményi ellátás esetén a 2.1. pontban foglaltakon túl
 
 2.5.1. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte,
 
 2.5.2. csatolni kell a használatbavételi engedély, illetve a fennmaradási engedély másolatát, ha az engedélyes címe szerinti ingatlanra vonatkozóan, azonos rendeltetésre használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki.
 
-2.6. Rehabilitációs szociális intézményi ellátás esetén a 2.1. pontban foglaltakon túl
+2.6. Hajléktalan személyek átmeneti szállása és rehabilitáció szociális intézményi ellátás esetén a 2.1. pontban foglaltakon túl
 
 2.6.1. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte,
 
@@ -88,7 +88,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.6.3. csatolni kell a külső férőhelyek elhelyezésére szolgáló ingatlan tulajdoni lapjának másolatát, továbbá – ha a tulajdoni lap a használat jogcímét nem igazolja – a használati jogcímet bizonyító egyéb okirat másolatát.
 
-2.7. Családi napközi esetén a 2.1. pontban foglaltakon túl
+2.7. Családi bölcsőde és napközbeni gyermekfelügyelet esetén a 2.1. pontban foglaltakon túl
 
 2.7.1.
 
@@ -96,19 +96,17 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.7.3. csatolni kell a szolgáltatást nyújtó személynek és helyettesének a jogszabályban meghatározott Egészségügyi Nyilatkozatát,
 
-2.7.4. csatolni kell a háziorvos igazolását arra vonatkozóan, hogy a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
+2.7.4. csatolni kell a háziorvos igazolását arra vonatkozóan, hogy a gondozás helyén – ide nem értve a Gyvt. 44/B. § (3) bekezdés d) pontja szerinti helyet – élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
 
 2.7.5. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte.
 
-2.8. Családi gyermekfelügyelet esetén a 2.1. pontban foglaltakon túl
+2.8. Munkahelyi bölcsőde esetén a 2.1. pontban foglaltakon túl
 
-2.8.1.
+2.8.1. csatolni kell a szolgáltatást nyújtó személynek és helyettesének, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személyeknek a nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok,
 
-2.8.2. csatolni kell a szolgáltatást nyújtó személynek és helyettesének, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személyeknek a nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok,
+2.8.2. csatolni kell a szolgáltatást nyújtó személynek és helyettesének a jogszabályban meghatározott Egészségügyi Nyilatkozatát,
 
-2.8.3. csatolni kell a szolgáltatást nyújtó személynek és helyettesének a jogszabályban meghatározott Egészségügyi Nyilatkozatát,
-
-2.8.4. csatolni kell a háziorvos igazolását arra vonatkozóan, hogy a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket.
+2.8.3. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte.
 
 2.9. Alternatív napközbeni ellátás és Biztos Kezdet Gyerekház esetén a 2.1. pontban foglaltakon túl
 
@@ -116,9 +114,9 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.9.2. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte.
 
-2.10. Családsegítés és gyermekjóléti szolgáltatás, házi gyermekfelügyelet, gyermekek átmeneti házi gondozása, valamint területi gyermekvédelmi szakszolgáltatás esetén a 2.1. pontban foglaltakon túl csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok.
+2.10. Családsegítés és gyermekjóléti szolgáltatás, gyermekek átmeneti házi gondozása, valamint területi gyermekvédelmi szakszolgáltatás esetén a 2.1. pontban foglaltakon túl csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok.
 
-2.11. Bölcsőde, hetes bölcsőde, gyermekek átmeneti otthona és utógondozó otthon esetén a 2.1. pontban foglaltakon túl
+2.11. Bölcsőde, mini bölcsőde, gyermekek átmeneti otthona és utógondozó otthon esetén a 2.1. pontban foglaltakon túl
 
 2.11.1. csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok,
 
@@ -178,11 +176,11 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.16.4. csatolni kell az ideiglenes befogadó férőhely címe szerinti ingatlan tulajdoni lapjának másolatát, továbbá – ha a tulajdoni lap a használat jogcímét nem igazolja – a használati jogcímet bizonyító egyéb okirat másolatát, ha az ideiglenes befogadó férőhelyet az engedélyes helyrajzi számától az ingatlan-nyilvántartásban különböző helyrajzi számon feltüntetett ingatlanon alakítják ki.
 
-2.17. Csatolni kell a Hivatal előzetes szakhatósági hozzájárulását, ha a fenntartó az engedélyest költségvetési támogatással kívánja működtetni, az Szt. vagy a Gyvt. a befogadást előírja, és a fenntartó az előzetes szakhatósági hozzájárulást beszerezte. Ha a fenntartó az előzetes szakhatósági hozzájárulást nem szerezte be, de az Szt. 58/A. § (2c) bekezdés b) pontja, illetve a Gyvt. 145. § (2c) bekezdés b) pontja szerinti feltételek fennállnak, csatolni kell a pályázat elnyerését igazoló dokumentumot.
+2.17. Csatolni kell a miniszter előzetes szakhatósági hozzájárulását, ha a fenntartó az engedélyest költségvetési támogatással kívánja működtetni, az Szt. vagy a Gyvt. a befogadást előírja, és a fenntartó az előzetes szakhatósági hozzájárulást beszerezte. Ha a fenntartó az előzetes szakhatósági hozzájárulást nem szerezte be, de az Szt. 58/A. § (2c) bekezdés b) pontja, illetve a Gyvt. 145. § (2c) bekezdés b) pontja szerinti feltételek fennállnak, csatolni kell a pályázat elnyerését igazoló dokumentumot.
 
 3. Kiegészítő szabályok:
 
-3.1. Az 1.1.1., az 1.1.2., az 1.2.1., az 1.2.2., az 1.2.3., az 1.3.1., az 1.3.2. és az 1.3.3. pont szerinti iratokat nem kell ismételten csatolni, illetve bemutatni, ha az első fokon eljáró működést engedélyező szervnek azt korábban már megküldték, illetve bemutatták, és azokban változás nem következett be.
+3.1. Az 1.1.1., az 1.1.2., az 1.2.1., az 1.2.2., az 1.2.3., az 1.3.1., az 1.3.2. és az 1.3.3. pont szerinti iratokat nem kell ismételten csatolni, illetve bemutatni, ha az eljáró működést engedélyező szervnek azt korábban már megküldték, illetve bemutatták, és azokban változás nem következett be.
 
 3.2. A 2.1.3. pont szerinti nyilatkozatot nem kell csatolni, ha a szociális szolgáltatást az egyéni vállalkozó fenntartó maga nyújtja.
 
@@ -198,4 +196,4 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 3.3.5. a 2.5. pont szerinti iratokat abban az esetben kell csatolni, ha az időszakos férőhelyeket nem az engedélyes épületében alakítják ki, vagy adatmódosítás esetén a szakhatóságok bevonása a 31. § (4) bekezdése alapján szükséges.
 
-[^150]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (12) bekezdése, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (2) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (2) bekezdése, a 419/2015. (XII. 23.) Korm. rendelet 40. § o)–p) pontja, a 441/2015. (XII. 28.) Korm. rendelet 209. § e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^172]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (12) bekezdése, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (2) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (2) bekezdése, a 419/2015. (XII. 23.) Korm. rendelet 40. § o)–p) pontja, a 441/2015. (XII. 28.) Korm. rendelet 209. § e) pontja, a 191/2016. (VII. 13.) Korm. rendelet 18. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés q) pontja, a 448/2016. (XII. 19.) Korm. rendelet 55. § (2) bekezdés b), e)–g) pontja szerint módosított szöveg.

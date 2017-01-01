@@ -24,14 +24,14 @@ c) az engedélyes a szolgáltatás nyújtásával felhagyna.
 
 (5) Az engedélyes nem törölhető a szolgáltatói nyilvántartásból
 
-a)[^92] a fenntartó egyéni vállalkozó halála miatt, ha az özvegy, illetve az örökös határidőben benyújtott kérelmére a fenntartóváltozást bejegyzik,
+a)[^112] a fenntartó egyéni vállalkozó halála miatt, ha az özvegy, illetve az örökös határidőben benyújtott kérelmére a fenntartóváltozást bejegyzik,
 
-b)[^93] a fenntartó egyéni vállalkozó cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezése miatt, ha a gondnok az ok bekövetkeztétől számított egy hónapon belül bejelenti, hogy az egyéni vállalkozói tevékenységet az egyéni vállalkozó nevében és javára folytatja,
+b)[^113] a fenntartó egyéni vállalkozó cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezése miatt, ha a gondnok az ok bekövetkeztétől számított egy hónapon belül bejelenti, hogy az egyéni vállalkozói tevékenységet az egyéni vállalkozó nevében és javára folytatja,
 
-c)[^94] az (1) bekezdés b) pontjában foglaltak miatt, ha a fenntartó egyéni vállalkozó egyéni céget alapított, vagy átruházással megszerezte az egyéni cég vagyoni betétjét, és határidőben benyújtott kérelmére a fenntartóváltozást bejegyzik.
+c)[^114] az (1) bekezdés b) pontjában foglaltak miatt, ha a fenntartó egyéni vállalkozó egyéni céget alapított, vagy átruházással megszerezte az egyéni cég vagyoni betétjét, és határidőben benyújtott kérelmére a fenntartóváltozást bejegyzik.
 
 (6) Az engedélyesnek a szolgáltatói nyilvántartásból történő törlése esetén a VI. Fejezetben foglaltakat megfelelően alkalmazni kell.
 
-[^92]: A 35. § (5) bekezdés a) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
-[^93]: A 35. § (5) bekezdés b) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
-[^94]: A 35. § (5) bekezdés c) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
+[^112]: A 35. § (5) bekezdés a) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
+[^113]: A 35. § (5) bekezdés b) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
+[^114]: A 35. § (5) bekezdés c) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.

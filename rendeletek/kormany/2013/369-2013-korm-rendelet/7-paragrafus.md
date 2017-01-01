@@ -4,13 +4,13 @@
 
 (2) Az ágazati azonosítót engedélyesenként kell kiadni. Szociális, gyermekjóléti és gyermekvédelmi szolgáltatást egyaránt nyújtó engedélyesnek egy ágazati azonosítót kell kiadni.
 
-(3) Az ágazati azonosítót a Hivatal az engedélyes bejegyzése során, a 2. melléklet szerint képzi és adja ki a működést engedélyező szerv erre irányuló jelzését követő öt napon belül.
+(3)[^22] Az ágazati azonosítót a Központ az engedélyes bejegyzése során, a 2. melléklet szerint képzi és adja ki a működést engedélyező szerv erre irányuló jelzését követő öt napon belül.
 
 (4) Ha a szolgáltató székhelyét nem használják szolgáltatás nyújtására, önálló ágazati azonosítót kell kiadni a szolgáltató székhelye részére a telephely, több telephely esetén az elsőként bejegyzett telephely bejegyzése során.
 
 (5) Adatmódosítás esetén új ágazati azonosító nem adható ki és az ágazati azonosító nem módosítható, ideértve a fenntartóváltozást, további szolgáltatás bejegyzését, az engedélyes elköltöztetését, valamint a telephely önálló szolgáltatóvá szervezését, illetve önálló szolgáltató telephellyé szervezését. A szolgáltatói nyilvántartásból törölt engedélyes ágazati azonosítója másik engedélyesnek nem adható ki.
 
-(6)[^18] Az ágazati azonosítót
+(6)[^23] Az ágazati azonosítót
 
 a) a szociális foglalkoztatási engedélyezéssel, valamint a szolgáltatások után járó és a központi költségvetésről szóló törvényben biztosított támogatással (a továbbiakban: költségvetési támogatás) kapcsolatos hatósági ügyekben a kérelmen, más beadványokon és a hatósági döntésben,
 
@@ -22,4 +22,5 @@ d) a szolgáltató honlapján
 
 fel kell tüntetni. Az a)–c) pont szerinti iratokon a telephely ágazati azonosítóját megelőzően a székhely ágazati azonosítóját is fel kell tüntetni.
 
-[^18]: A 7. § (6) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^22]: A 7. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^23]: A 7. § (6) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.

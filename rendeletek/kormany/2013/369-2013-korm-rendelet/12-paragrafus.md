@@ -2,6 +2,6 @@
 
 (2) Ha a fenntartó azelőtt kérelmezi a határozott idejű bejegyzés vagy az ideiglenes hatályú bejegyzés hatályának módosítását, mielőtt az hatályát veszítené, a kérelem elbírálásáig a bejegyzés hatálya meghosszabbodik. A határozott idejű bejegyzés és az ideiglenes hatályú bejegyzés hatályának meghosszabbítása során az (1) bekezdésben foglaltakat alkalmazni kell.
 
-(3)[^22] Ha a határozott idejű bejegyzés vagy az ideiglenes hatályú bejegyzés hatálya megszűnik, a szolgáltatás, illetve a lakhatási szolgáltatást biztosító ingatlan törlődik a szolgáltatói nyilvántartásból. Ha valamennyi lakhatási szolgáltatást biztosító ingatlan törlődik a szolgáltatói nyilvántartásból, a támogatott lakhatás is törlődik a szolgáltatói nyilvántartásból. Ha valamennyi szolgáltatás törlődik a szolgáltatói nyilvántartásból, az engedélyes is törlődik a szolgáltatói nyilvántartásból.
+(3)[^28] Ha a határozott idejű bejegyzés vagy az ideiglenes hatályú bejegyzés hatálya megszűnik, a szolgáltatás, illetve a lakhatási szolgáltatást biztosító ingatlan törlődik a szolgáltatói nyilvántartásból. Ha valamennyi lakhatási szolgáltatást biztosító ingatlan törlődik a szolgáltatói nyilvántartásból, a támogatott lakhatás is törlődik a szolgáltatói nyilvántartásból. Ha valamennyi szolgáltatás törlődik a szolgáltatói nyilvántartásból, az engedélyes is törlődik a szolgáltatói nyilvántartásból.
 
-[^22]: A 12. § (3) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 28. §-a iktatta be.
+[^28]: A 12. § (3) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 28. §-a iktatta be.

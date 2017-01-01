@@ -4,4 +4,6 @@
 
 ## 1. A szolgáltatói nyilvántartást vezető szerv
 
-2. § A Kormány a szolgáltatói nyilvántartást vezető szervnek a Nemzeti Rehabilitációs és Szociális Hivatalt (a továbbiakban: Hivatal) jelöli ki.
+2. §[^7] A Kormány a szolgáltatói nyilvántartást vezető szervnek és a szolgáltatói nyilvántartás elektronikus adatfeldolgozójának az Országos Nyugdíjbiztosítási Főigazgatóság Központját (a továbbiakban: Központ) jelöli ki.
+
+[^7]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 248. § (1) bekezdésével megállapított szöveg.

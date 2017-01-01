@@ -4,8 +4,9 @@
 
 (2) Adatmódosítás esetén az engedélyes – ha a működést engedélyező szerv későbbi időpontot nem állapít meg – az adatmódosítás végrehajthatóvá válásának időpontjától kezdődően működtethető az adatmódosításnak megfelelően. A működést engedélyező szerv a 28. § (1) bekezdése szerinti adatokat a módosítási ok bekövetkezésének időpontjára visszamenőleges hatállyal módosítja.
 
-(3) Ha a fenntartó kizárólag a befogadás kérdésében fellebbez, kérelmére az engedélyes bejegyzése, illetve az adatmódosítás az egyéb adatok tekintetében jogerőre emelkedik.
+(3)[^24]
 
-(4)[^19] Az engedélyes – ha a működést engedélyező szerv későbbi időpontot nem állapít meg – az erről szóló döntés végrehajthatóvá válásának időpontjától törölhető a szolgáltatói nyilvántartásból.
+(4)[^25] Az engedélyes – ha a működést engedélyező szerv későbbi időpontot nem állapít meg – az erről szóló döntés végrehajthatóvá válásának időpontjától törlődik a szolgáltatói nyilvántartásból.
 
-[^19]: A 8. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 234. § (3) bekezdése iktatta be.
+[^24]: A 8. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés f) pontja hatályon kívül helyezte.
+[^25]: A 8. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 234. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés b) pontja szerint módosított szöveg.

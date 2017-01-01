@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^147]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^168]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -100,6 +100,8 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.11.6.2. időszakos férőhelybővítés esetén ez a tény, az érintett férőhelyek száma és az az időszak, amelyre az időszakos férőhelybővítést bejegyezték,
 
+3.1.11.6.3. a külső férőhelyek címe és címenkénti száma,
+
 3.1.12. ápolást, gondozást nyújtó intézményi ellátás:
 
 3.1.12.1. idősek otthona: férőhelyszám,
@@ -140,13 +142,13 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.15.3. a fenntartó által biztosított, az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatások felsorolása,
 
-3.1.15.4. az Szt. 75. § (3) bekezdésének alkalmazása esetén az érintett szolgáltatások és az azokat biztosító szervezet megjelölése, a megállapodás időtartamának feltüntetésével,
+3.1.15.4. az Szt. 75. § (2) bekezdés a) és d) pontjának alkalmazása esetén az érintett szolgáltatások és az azokat biztosító szervezet megjelölése, a megállapodás időtartamának feltüntetésével,
 
-3.1.15.5. támogatott lakhatás fogyatékos személyek részére az Szt. 75. § (2) bekezdése szerinti forma megjelölésével: férőhelyszám,
+3.1.15.5. támogatott lakhatás fogyatékos személyek részére az Szt. 75. § (5) bekezdése szerinti forma megjelölésével: férőhelyszám,
 
-3.1.15.6. támogatott lakhatás pszichiátriai betegek részére az Szt. 75. § (2) bekezdése szerinti forma megjelölésével: férőhelyszám,
+3.1.15.6. támogatott lakhatás pszichiátriai betegek részére az Szt. 75. § (5) bekezdése szerinti forma megjelölésével: férőhelyszám,
 
-3.1.15.7. támogatott lakhatás szenvedélybetegek részére az Szt. 75. § (2) bekezdése szerinti forma megjelölésével: férőhelyszám,
+3.1.15.7. támogatott lakhatás szenvedélybetegek részére az Szt. 75. § (5) bekezdése szerinti forma megjelölésével: férőhelyszám,
 
 3.1.15.8.
 
@@ -160,25 +162,31 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.18. bölcsőde: férőhelyszám,
 
-3.1.19. hetes bölcsőde: férőhelyszám,
+3.1.19. mini bölcsőde: férőhelyszám,
 
-3.1.20. családi napközi:
+3.1.20. munkahelyi bölcsőde: férőhelyszám,
 
-3.1.20.1. önálló családi napközi:
+3.1.21. családi bölcsőde:
 
-3.1.20.1.1. az ellátotti csoport a Gyvt. 43. § (6a) bekezdése alapján,
+3.1.21.1. férőhelyszám,
 
-3.1.20.1.2. férőhelyszám,
+3.1.21.2. a szolgáltatás megszervezésének módja az alábbiak szerint:
 
-3.1.20.2. hálózatban működtetett családi napközi:
+3.1.21.2.1. önálló családi bölcsőde,
 
-3.1.20.2.1. az ellátotti csoport a Gyvt. 43. § (6a) bekezdése alapján,
+3.1.21.2.2. hálózatban működtetett családi bölcsőde,
 
-3.1.20.2.2. férőhelyszám,
+3.1.22. napközbeni gyermekfelügyelet:
 
-3.1.21. családi gyermekfelügyelet,
+3.1.22.1. férőhelyszám,
 
-3.1.22. házi gyermekfelügyelet,
+3.1.22.2. a szolgáltatás megszervezésének módja az alábbiak szerint:
+
+3.1.22.2.1. önálló napközbeni gyermekfelügyelet,
+
+3.1.22.2.2. hálózatban működtetett napközbeni gyermekfelügyelet,
+
+3.1.22.3. ha kizárólag a Gyvt. 44/B. § (3) bekezdés d) pontja szerinti szolgáltatást nyújtanak, az erre vonatkozó adat,
 
 3.1.23. alternatív napközbeni ellátás,
 
@@ -216,7 +224,11 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.27.2.2. a félutas ház címe,
 
-3.1.27.3. ha a családok átmeneti otthona titkos menedékházként működik, az erre vonatkozó adat,
+3.1.27.3. ha a családok átmeneti otthona titkos menedékházként működik,
+
+3.1.27.3.1. az erre vonatkozó adat,
+
+3.1.27.3.2. a félutas ház címe,
 
 3.1.28. nevelőszülői hálózat:
 
@@ -348,16 +360,16 @@ A szolgáltatói nyilvántartás adatai
 
 6. Kiegészítő szabályok:
 
-6.1. A szolgáltató és az engedélyes nevének – például a nyújtott szolgáltatások egyikének feltüntetésével vagy általában a szolgáltatásokra történő utalással – a szolgáltatói minőségére utalnia kell. Hálózatban működtetett családi napközi esetén az engedélyes neveként a hálózat nevét és az adott engedélyes megkülönböztető elnevezését kell feltüntetni. Ha a szolgáltatást az egyéni vállalkozó fenntartó egyszemélyes szolgáltatóként saját maga nyújtja, az engedélyes nevét a szolgáltatói nyilvántartásban nem kell feltüntetni.
+6.1. A szolgáltató és az engedélyes nevének – például a nyújtott szolgáltatások egyikének feltüntetésével vagy általában a szolgáltatásokra történő utalással – a szolgáltatói minőségére utalnia kell. Hálózatban működtetett családi bölcsőde és napközbeni gyermekfelügyelet esetén az engedélyes neveként a hálózat nevét és az adott engedélyes megkülönböztető elnevezését kell feltüntetni. Ha a szolgáltatást az egyéni vállalkozó fenntartó egyszemélyes szolgáltatóként saját maga nyújtja, az engedélyes nevét a szolgáltatói nyilvántartásban nem kell feltüntetni.
 
 6.2. A 2008. január 1-jét megelőzően hatályos jogszabályok szerinti emelt szintű férőhelyek számát külön fel kell tüntetni.
 
 6.3. Az ellátási terület megjelölhető
 
-6.3.1. falugondnoki szolgáltatás és tanyagondnoki szolgáltatás esetén település vagy településrész megnevezésével,
+6.3.1. falugondnoki szolgáltatás esetén a település, tanyagondnoki szolgáltatás esetén a településrész vagy az önkormányzati rendeletben meghatározott ellátási körzet megnevezésével,
 
 6.3.2. szociális étkeztetés, házi segítségnyújtás, támogató szolgáltatás, közösségi ellátások, utcai szociális munka, valamint családsegítés és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület vagy járás megnevezésével,
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^147]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 448/2016. (XII. 19.) Korm. rendelet 55. § (1) bekezdése szerint módosított szöveg.
+[^168]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1) bekezdése és 55. § (1) bekezdése szerint módosított szöveg.
