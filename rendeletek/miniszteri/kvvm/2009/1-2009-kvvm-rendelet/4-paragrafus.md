@@ -2,7 +2,7 @@
 
 ## Hitelesítői névjegyzék
 
-4. § (1) A Főfelügyelőség a hitelesítők nyilvántartása céljából együttes végrehajtás hitelesítői névjegyzéket és külföldi együttes végrehajtás hitelesítői névjegyzéket vezet.
+4. § (1)[^3] A Hatóság a hitelesítők nyilvántartása céljából együttes végrehajtás hitelesítői névjegyzéket és külföldi együttes végrehajtás hitelesítői névjegyzéket vezet.
 
 (2) A hitelesítői névjegyzék a következő adatokat tartalmazza:
 
@@ -16,4 +16,7 @@ d) a hitelesítő ágazati besorolása;
 
 e) a felfüggesztésre és a törlésre vonatkozó bejegyzések.
 
-(3) A hitelesítői névjegyzéket a Főfelügyelőség saját honlapján folyamatosan közzéteszi.
+(3)[^4] A hitelesítői névjegyzéket a Hatóság saját honlapján folyamatosan közzéteszi.
+
+[^3]: A 4. § (1) bekezdése a 73/2016. (XII. 29.) NFM rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (3) bekezdése a 73/2016. (XII. 29.) NFM rendelet 6. § b) pontja szerint módosított szöveg.

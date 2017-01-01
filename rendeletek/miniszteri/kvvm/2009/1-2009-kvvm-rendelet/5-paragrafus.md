@@ -8,6 +8,9 @@ b) legalább három, a 11. § szerinti követelményeknek megfelelő szakértőv
 
 c) rendelkezik a 27. § szerinti biztosítékkal.
 
-(2) A bejegyzés iránti kérelmet az 1. mellékletben meghatározott tartalommal kell a Főfelügyelőséghez benyújtani.
+(2)[^5] A bejegyzés iránti kérelmet az 1. mellékletben meghatározott tartalommal kell a Hatósághoz benyújtani.
 
-(3) A kérelem elbírálása során a Főfelügyelőség szükség esetén helyszíni vizsgálatot tarthat. A helyszíni vizsgálat során a Főfelügyelőség részéről ellenőrzésre kijelölt személy egyebek között meggyőződik a hitelesítő szakértők 11. § szerinti szaktudásáról és szakmai gyakorlatáról, vizsgálja a kérelmező szervezeti struktúráját, és a kérelmezővel együtt áttekinti a hitelesítési tevékenységgel kapcsolatos felelősségi, adatkezelési, minőségirányítási és képzési rendet meghatározó szabályzatokat.
+(3)[^6] A kérelem elbírálása során a Hatóság szükség esetén helyszíni vizsgálatot tarthat. A helyszíni vizsgálat során a Hatóság részéről ellenőrzésre kijelölt személy egyebek között meggyőződik a hitelesítő szakértők 11. § szerinti szaktudásáról és szakmai gyakorlatáról, vizsgálja a kérelmező szervezeti struktúráját, és a kérelmezővel együtt áttekinti a hitelesítési tevékenységgel kapcsolatos felelősségi, adatkezelési, minőségirányítási és képzési rendet meghatározó szabályzatokat.
+
+[^5]: Az 5. § (2) bekezdése a 73/2016. (XII. 29.) NFM rendelet 6. § c) pontja szerint módosított szöveg.
+[^6]: Az 5. § (3) bekezdése a 73/2016. (XII. 29.) NFM rendelet 6. § d) pontja szerint módosított szöveg.
