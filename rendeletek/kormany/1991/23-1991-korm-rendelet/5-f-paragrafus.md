@@ -1,6 +1,6 @@
-## Bányászok egészségkárosodási járadéka[^27]
+## Bányászok egészségkárosodási járadéka[^29]
 
-5/F. §[^28] (1) A bányászok egészségkárosodási járadékára (a továbbiakban: járadék) az a személy jogosult, akinek egészségkárosodása legalább 29%-os mértékű,
+5/F. §[^30] (1) A bányászok egészségkárosodási járadékára (a továbbiakban: járadék) az a személy jogosult, akinek egészségkárosodása legalább 29%-os mértékű,
 
 a) saját jogú nyugellátásra nem jogosult,
 
@@ -20,5 +20,5 @@ c) 2011. december 31-én rokkantsági, baleseti rokkantsági nyugdíjban, 2012. 
 
 d) az (1) bekezdés a) és b) pontjában foglalt feltételeknek megfelel.
 
-[^27]: Az 5/F. §-t megelőző alcímet a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
-[^28]: Az 5/F. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be, szövege a 426/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^29]: Az 5/F. §-t megelőző alcímet a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
+[^30]: Az 5/F. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be, szövege a 426/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

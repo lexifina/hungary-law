@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-23-20-2
 | 2013-04-01 | 1991-23-20-22.13 | 426/2012. (XII. 29.) Korm. rendelet |
 | 2015-04-01 | 1991-23-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 1991-23-20-22.15 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2017-01-01 | 1991-23-20-22.16 | 379/2016. (XII. 2.) Korm. rendelet |
