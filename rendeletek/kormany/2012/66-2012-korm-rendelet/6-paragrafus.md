@@ -28,7 +28,7 @@ e) a d) pontban megjelölt tervrajzokhoz mellékletként annak leírását, hogy
 
 f)[^34] az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyag- és a személyforgalom útjának leírását az érintett helyiségek, raktárak között.
 
-(2a)[^35] Ha a gazdálkodó szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az ENKK az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2a)[^35] Ha a gazdálkodó szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az OGYÉI az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (3) Kábítószer-felelősnek és helyettesének csak orvosi, állatorvosi, gyógyszerészi, vegyész- vagy biológus-mérnöki, vegyészi, biológusi, vagy kémia, biológia szakos tanári, valamint a kábítószerek és pszichotróp anyagok előállítására alkalmas növények termesztése, és a velük kapcsolatos kutatási és oktatási tevékenység esetén agrármérnöki vagy kertészmérnöki szakképzettséggel rendelkező személy jelölhető ki.
 
@@ -44,5 +44,5 @@ f)[^34] az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokr
 [^32]: A 6. § (2) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 44. c) pontja szerint módosított szöveg.
 [^33]: A 6. § (2) bekezdés c) pontja a 413/2015. (XII. 23.) Korm. rendelet 44. d) pontja szerint módosított szöveg.
 [^34]: A 6. § (2) bekezdés f) pontja a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^35]: A 6. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 48. § (2) bekezdése iktatta be, a 30/2015. (II. 25.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.
+[^35]: A 6. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 48. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja szerint módosított szöveg.
 [^36]: A 6. § (5) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

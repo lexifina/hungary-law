@@ -1,4 +1,4 @@
-## Egészségügyi Nyilvántartási és Képzési Központ
+## Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 ## 9/a táblázat: Kábítószer becslés a 20... évre
 

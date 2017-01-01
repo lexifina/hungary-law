@@ -1,8 +1,8 @@
-## Egészségügyi Nyilvántartási és Képzési Központ
+## Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 ## KÁBÍTÓSZER (K1, K2) / PSZICHOTRÓP ANYAG (P1, P2, P3, P4) IMPORT adatlap
 
-## Külforgalmi engedély kiadását kérem az ENKK-nak a mellékelt adatlap(ok)ban felsorolt, nemzetközi egyezmények és hatályos jogszabályok szerint ellenőrzött anyagokra, illetve készítményekre.
+## Külforgalmi engedély kiadását kérem az OGYÉI-nek a mellékelt adatlap(ok)ban felsorolt, nemzetközi egyezmények és hatályos jogszabályok szerint ellenőrzött anyagokra, illetve készítményekre.
 
 ## Nyilatkozom, hogy az alábbi adatok nyilvántartásunkkal és a valósággal megegyeznek.
 
@@ -68,6 +68,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum, a kábítószerfelelős ellenjegyzése:
 
-9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^123]
+9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^129]
 
-[^123]: A 9. melléklet a 137/2012. (VI. 29.) Korm. rendelet 89. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 53. § (2) bekezdése, a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja szerint módosított szöveg.
+[^129]: A 9. melléklet a 137/2012. (VI. 29.) Korm. rendelet 89. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 53. § (2) bekezdése, a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja szerint módosított szöveg.
