@@ -46,15 +46,17 @@ d) a független értékelőként nyilvántartásba vett személy meghalt vagy a 
 
 e) a független értékelőként nyilvántartásba vett személy vagy szervezet gazdasági vagy szakmai tevékenységével kapcsolatban olyan magatartásról szerez tudomást, amely jogszabályba, szakmai vagy etikai szabályba ütközik, vagy amely alkalmas arra, hogy a független értékelői feladatok ellátásához szükséges közbizalmat sértse vagy veszélyeztesse.
 
-(7) A független értékelők névjegyzékébe az a természetes személy vehető fel, aki rendelkezik
+(7) A független értékelők névjegyzékébe az a természetes személy vehető fel, aki
 
-a) közgazdasági felsőoktatásban szerzett egyetemi vagy főiskolai szintű végzettséggel vagy a gazdaságtudományok képzési területen alapképzésben vagy mesterképzésben szerzett közgazdász szakképzettséggel vagy
+a) közgazdasági felsőoktatásban szerzett egyetemi vagy főiskolai szintű végzettséget, vagy a gazdaságtudományok képzési területen alapképzésben vagy mesterképzésben szerzett közgazdász szakképzettséget, vagy
 
-b) jogász szakképzettséggel,
+b) jogász szakképzettségű,
 
-c) könyvvizsgálói szakképesítéssel és ennek pénzügyi intézményi vagy befektetési vállalkozási minősítésével, valamint
+c) rendelkezik könyvvizsgálói szakképesítéssel és ennek pénzügyi intézményi vagy befektetési vállalkozási minősítésével, valamint
 
-d) a büntetlen előéletről, a köztartozás-mentességről igazolással.
+d) büntetlen előéletű, és
+
+e) adóigazolás vagy a köztartozásmentes adózói adatbázis alapján nincs köztartozása.
 
 (7a) Nem vehető fel a független értékelők névjegyzékébe olyan személy vagy szervezet, akinek vagy amelynek gazdasági vagy szakmai tevékenységével kapcsolatban a szanálási feladatkörében eljáró MNB olyan magatartásról szerez tudomást, amely jogszabályba, szakmai vagy etikai szabályba ütközik, vagy amely alkalmas arra, hogy a független értékelői feladatok ellátásához szükséges közbizalmat sértse vagy veszélyeztesse, továbbá, ha a szanálási feladatkörében eljáró MNB a független értékelőként nyilvántartásba vett személyt vagy szervezetet a (6) bekezdés e) pontja szerint törölte a névjegyzékből, a törlés napjától számított öt évig.
 
