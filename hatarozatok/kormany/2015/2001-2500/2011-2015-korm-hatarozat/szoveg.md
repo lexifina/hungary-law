@@ -62,7 +62,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2016. június 30.
 
-1.10. felhívja a nemzeti fejlesztési minisztert a fogyasztói bizalom fokozása céljából, valamint a vállalkozások jogkövető magatartásának az elősegítése érdekében a Nemzeti Fogyasztóvédelmi Hatóság által elindított preventív és alternatív ösztönző eszközök (pozitív lista, Fogyasztóbarát Tanúsítási Rendszer) továbbfejlesztésére;
+1.10.[^1] felhívja a nemzeti fejlesztési minisztert a fogyasztói bizalom fokozása céljából, valamint a vállalkozások jogkövető magatartásának az elősegítése érdekében a fogyasztóvédelmi hatóság által elindított preventív és alternatív ösztönző eszközök (pozitív lista, Fogyasztóbarát Tanúsítási Rendszer) továbbfejlesztésére;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -80,7 +80,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-1.13. felhívja a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert a fogyasztóvédelmi hatóság által lefolytatott ellenőrzések és vizsgálatok alapján fogyasztóvédelmi szempontból kritikus területek folyamatos nyomon követésére és a Nemzeti Fogyasztóvédelmi Hatóság éves Ellenőrzési és Vizsgálati Programjában történő hangsúlyos megjelenítésére, szoros együttműködésben a fogyasztóvédelmi és piacfelügyeleti feladatkörben eljáró fővárosi és megyei kormányhivatalokkal;
+1.13.[^2] felhívja a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert a fogyasztóvédelmi hatóság által lefolytatott ellenőrzések és vizsgálatok alapján fogyasztóvédelmi szempontból kritikus területek folyamatos nyomon követésére és a fogyasztóvédelmi hatóság éves Ellenőrzési és Vizsgálati Programjában történő hangsúlyos megjelenítésére, szoros együttműködésben a fogyasztóvédelmi és piacfelügyeleti feladatkörben eljáró fővárosi és megyei kormányhivatalokkal;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -177,3 +177,6 @@ Felelős: nemzeti fejlesztési miniszter
 Határidő: folyamatos
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1.10. pont az 1853/2016. (XII. 27.) Korm. határozat 66. pontja szerint módosított szöveg.
+[^2]: Az 1.13. pont az 1853/2016. (XII. 27.) Korm. határozat 66. pontja szerint módosított szöveg.
