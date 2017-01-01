@@ -12,9 +12,9 @@ A halottvizsgálati bizonyítvány a következő adatokat tartalmazza:
 
 5. Az elhalt bejelentett tartózkodási helyének címe, irányítószáma
 
-6. Hozzátartozó (temetést intéző) neve
+6.[^20] Eltemettetésre kötelezett személy (temetést intéző) neve
 
-7. Hozzátartozó (temetést intéző) értesítési címe
+7.[^21] Eltemettetésre kötelezett személy (temetést intéző) értesítési címe
 
 8. Temetést intéző közelebbi megjelölése
 
@@ -75,3 +75,6 @@ b) Ha történt boncolás, abból várhatóak-e további eredmények
 32. Kiállítás időpontja
 
 33. Haláleset anyakönyvezésének igazolása
+
+[^20]: Az 1. melléklet 6. pontja a 441/2016. (XII. 16.) Korm. rendelet 50. § c) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 7. pontja a 441/2016. (XII. 16.) Korm. rendelet 50. § c) pontja szerint módosított szöveg.
