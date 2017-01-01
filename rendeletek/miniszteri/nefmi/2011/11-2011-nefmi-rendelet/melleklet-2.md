@@ -1408,7 +1408,7 @@
 
 ## 9.6. Pontszám: 2
 
-2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^16]
+2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^18]
 
 I.
 
@@ -1560,4 +1560,4 @@ II.
 
 4.3. DOT korlát: 2000/negyedév
 
-[^16]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a, az 56/2013. (VII. 31.) EMMI rendelet 44. §-a, a 76/2013. (XII. 10.) EMMI rendelet 7. §-a, a 41/2014. (VI. 30.) EMMI rendelet 20. §-a, a 47/2015. (X. 19.) EMMI rendelet 37. §-a, a 7/2016. (III. 30.) EMMI rendelet 29. §-a, a 13/2016. (VII. 8.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^18]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a, az 56/2013. (VII. 31.) EMMI rendelet 44. §-a, a 76/2013. (XII. 10.) EMMI rendelet 7. §-a, a 41/2014. (VI. 30.) EMMI rendelet 20. §-a, a 47/2015. (X. 19.) EMMI rendelet 37. §-a, a 7/2016. (III. 30.) EMMI rendelet 29. §-a, a 13/2016. (VII. 8.) EMMI rendelet 1. §-a szerint módosított szöveg.
