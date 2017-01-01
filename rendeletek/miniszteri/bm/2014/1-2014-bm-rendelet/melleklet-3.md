@@ -1,4 +1,4 @@
-3. melléklet az 1/2014. (I. 10.) BM rendelethez
+3. melléklet az 1/2014. (I. 10.) BM rendelethez[^9]
 
 A rendvédelmi szervnél rendszeresített szolgálati beosztások, ahol védőoltás elrendelésének van helye
 
@@ -8,7 +8,7 @@ A rendvédelmi szervnél rendszeresített szolgálati beosztások, ahol védőol
 
 | 2. | Általános rendőrségi feladatok ellátására létrehozott szerv | lőtérvezető |
 
-| 3. | bűnügyi technikus és szakértő |
+| 3. | bűnügyi technikus |
 
 | 4. | bűnügyi nyomozó |
 
@@ -95,3 +95,5 @@ A rendvédelmi szervnél rendszeresített szolgálati beosztások, ahol védőol
 | 45. | Büntetés-végrehajtási szervezetek | aktuális feladattól függően |
 
 | 46. | Nemzetbiztonsági Szakszolgálat | az állomány állandó vagy fokozott kockázatnak kitett tagja |
+
+[^9]: A 3. melléklet az 58/2016. (XII. 22.) BM rendelet 41. § (2) bekezdése szerint módosított szöveg.
