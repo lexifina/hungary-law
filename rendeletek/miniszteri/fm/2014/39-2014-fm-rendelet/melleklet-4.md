@@ -14,7 +14,7 @@
 
 | 5 | 05. | Digitális ortofotó és légifelvételek és előállításával kapcsolatos munkarészek | Nem selejtezhető | 10 |
 
-| 6 | 06. | Az MVH által fizikai ellenőrzésre kiválasztott támogatási kérelmek táblánkénti távérzékeléses ellenőrzése és annak dokumentálása | Nem selejtezhető | 10 |
+| 6 | 06. | A Magyar Államkincstár által fizikai ellenőrzésre kiválasztott támogatási kérelmek táblánkénti távérzékeléses ellenőrzése és annak dokumentálása | Nem selejtezhető | 10 |
 
 | 7 | 07. | MePAR éves változásvezetése és részleges felújítása | Nem selejtezhető | 10 |
 
