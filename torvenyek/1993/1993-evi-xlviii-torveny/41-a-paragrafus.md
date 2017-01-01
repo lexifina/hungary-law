@@ -41,3 +41,21 @@ d) munkáltatóként a munkavédelmi képviselőt a munkavédelemre vonatkozó s
 (7) A bányafelügyelet bírsággal sújtja azt a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásának szabályairól és hatósági felügyeletéről szóló rendelet szerinti gázforgalmazói engedélyest, aki a nyomástartó berendezés használatbavételére vonatkozó bejelentési kötelezettségét elmulasztja.
 
 (8) A bányafelügyelet bírsággal sújtja azt, a 3. § (1a) bekezdésében meghatározott személyt, aki a 25. § (2a) bekezdésében meghatározott adatszolgáltatási kötelezettségét nem teljesíti.
+
+(9) A bányafelügyelet bírsággal sújtja azt
+
+a) a hites bányamérőt,
+
+b) a nyomástartó berendezést vizsgáló szakembert vagy felügyeleti személyt és
+
+c) a földtani szakértőt,
+
+aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányatérképre is vonatkozó, az e törvény végrehajtására szolgáló jogszabályokban meghatározott követelményeket megsértette.
+
+(10) Amennyiben a hites bányamérő, a nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, valamint a földtani szakértő a (9) bekezdés szerinti követelményeket, továbbá a bányaüzemi felelős műszaki vezető az (5) bekezdés szerinti követelményeket
+
+a) ismételten megszegte, vagy
+
+b) úgy sértette meg, hogy ezzel a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésének és vizsgálatának rendjéről szóló jogszabályban meghatározott súlyos üzemzavart, súlyos balesetet vagy harmadik személynek kárt okozott
+
+a bányafelügyelet bírság kiszabása mellett két évre eltiltja a tevékenység folytatásától.

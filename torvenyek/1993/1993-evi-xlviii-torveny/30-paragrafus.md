@@ -1,6 +1,6 @@
 ## A kitermelés szüneteltetése
 
-30. § (1) A bányavállalkozó a kitermelésre jóváhagyott műszaki üzemi terv időtartama alatt, legfeljebb 6 hónapig a kitermelést szüneteltetheti. A kitermelést 6 hónapot meghaladóan szüneteltetni a bányafelügyelet engedélyével, a jóváhagyott szüneteltetési műszaki üzemi terv alapján lehet.
+30. § (1) A bányavállalkozó a kitermelésre jóváhagyott műszaki üzemi terv időtartama alatt, legfeljebb 12 hónapig a kitermelést szüneteltetheti. A kitermelést 12 hónapot meghaladóan szüneteltetni a bányafelügyelet engedélyével, a jóváhagyott szüneteltetési műszaki üzemi terv alapján lehet.
 
 (2) A szüneteltetés időtartamára a miniszter a koncessziós szerződésben, más bányavállalkozó esetében a bányafelügyelet a szüneteltetésre készült műszaki üzemi tervet jóváhagyó határozatban a kieső bányajáradék pótlására díjfizetési kötelezettséget állapít meg. A bányajáradék pótlására díj nem állapítható meg, ha a kitermelés szüneteltetését elemi csapás vagy bányaveszély tette szükségessé.
 

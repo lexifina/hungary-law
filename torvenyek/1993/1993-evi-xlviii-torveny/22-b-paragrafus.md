@@ -12,4 +12,4 @@
 
 (7) Nyílt területen geotermikus energia nem vízjogi engedély alapján végzett kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó külön jogszabály rendelkezéseit kell alkalmazni.
 
-(8) A természetes felszíntől mért 20 méteres mélységet el nem érő földkéreg részből történő geotermikus energia kinyerés és hasznosítás nem engedélyköteles. E rendelkezés nem mentesíti a tevékenységet végzőt a más jogszabályban előírt engedély megszerzése alól.
+(8)

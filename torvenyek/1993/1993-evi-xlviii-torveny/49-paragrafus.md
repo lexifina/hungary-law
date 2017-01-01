@@ -188,6 +188,6 @@ c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartoz�
 
 52. „Föld alatti szénelgázosítás”: olyan bányaművelési technológia, amely a felszín alatt feltárt széntelep fúrólyukon keresztül végzett részleges oxidációja során képződő szintézisgáz fúrólyukon való, szabályozott kitermelésével történik.
 
-53. „Kitermelés szüneteltetése”: amikor a bányában 6 hónapot meghaladóan nem folytatnak kitermelést.
+53. „Kitermelés szüneteltetése”: amikor a bányában 12 hónapot meghaladóan nem folytatnak kitermelést.
 
 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.

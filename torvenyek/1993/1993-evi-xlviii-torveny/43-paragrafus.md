@@ -10,7 +10,7 @@
 
 (3) A bányafelügyelet a hatósági felügyelete keretében – az e törvényben és a külön jogszabályokban meghatározott – műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, ásványvagyon-gazdálkodási, piacfelügyeleti és földtani hatásköröket gyakorol. A bányafelügyelet tűzvédelmi hatósági jogköre a bányák föld alatti, valamint ezzel egy tekintet alá eső külszíni részére terjed ki.
 
-(4) A bányafelügyelet és az állami földtani feladatokat ellátó szerv központi szervének döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+(4) Hatósági ügyekben országos illetékességgel eljáró bányafelügyeleti és állami földtani feladatokat ellátó szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
 (5)–(6)
 

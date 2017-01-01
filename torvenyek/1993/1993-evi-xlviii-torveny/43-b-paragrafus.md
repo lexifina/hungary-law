@@ -16,6 +16,8 @@ c) a kutatás engedélyezésére vonatkozó eljárás során 20 nap.
 
 (3) A bányafelügyelet eljárásaiban hozott döntésekkel szembeni fellebbezést indokolni kell. Fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet.
 
+(3a) A bányafelügyelet bányászati szakigazgatási hatósági elsőfokú műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, bányászati tevékenység engedélyezésével és felügyeletével kapcsolatos, piacfelügyeleti és földtani hatáskörében, valamint a 44. § (1) bekezdés b)–o), q), s) és t) pontjában meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek van helye.
+
 (4) A műszaki üzemi tervek jóváhagyására indított eljárásban e törvény alapján iratbetekintésre jogosult a műszaki üzemi tervben körülhatárolt terület 500 méteres környezetében lévő ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
 (5) Hivatalból indított eljárásban az ügyfél, a kérelemre indított eljárásban az ellenérdekű ügyfél a bányafelügyelet felhívására köteles közölni az érdemi döntéshez szükséges adatokat. Ha a teljesítés elmaradása a kötelezettnek felróható, a bányafelügyelet a kötelezettel szemben vagyoni helyzete és jövedelmi viszonyai vizsgálata nélkül eljárási bírságot szabhat ki.

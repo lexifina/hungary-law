@@ -1,6 +1,6 @@
 ## A felelősség átadása
 
-42/T. § (1) A bányafelügyelet a tárolóhely 42/S. § (1) bekezdése szerinti bezárását követően a tárolóhellyel kapcsolatos valamennyi kötelezettség teljesítéséért fennálló felelősséget átveszi, ha a következő feltételek teljesülnek:
+42/T. § (1) A bányafelügyelet a tárolóhely 42/S. § (1) bekezdése szerinti bezárását követően a tárolóhellyel kapcsolatos valamennyi kötelezettség teljesítéséért fennálló felelősséget – saját kezdeményezésére vagy üzemeltetői kérelemre – átveszi, ha a következő feltételek teljesülnek:
 
 a) az üzemeltető által készített biztonságos tárolási jelentés igazolja, hogy a tárolt szén-dioxid teljes egészében és tartósan a tárolóhelyen belül marad,
 

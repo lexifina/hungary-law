@@ -16,4 +16,4 @@ f) az anyagnyerő helyről kitermelhető ásványi nyersanyag mennyiségét m3-b
 
 g) a tevékenységet végző megnevezését, székhelyét,
 
-h) az engedélyező bányászati hatáskörében eljáró illetékes kormányhivatal megnevezését.
+h) az engedélyező bányafelügyelet megnevezését.
