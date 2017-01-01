@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-175-00-00
 | 2015-09-01 | 2015. évi CV. törvény | 2013-175-00-00.3 |
 | 2016-01-15 | 2015. évi CCXIX. törvény | 2013-175-00-00.4 |
 | 2016-06-01 | 2015. évi CCXIX. törvény | 2013-175-00-00.5 |
+| 2017-01-01 | 2016. évi CIV. törvény | 2013-175-00-00.6 |
