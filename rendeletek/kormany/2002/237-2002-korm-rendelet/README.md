@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-237-20-
 | 2015-01-31 | 2002-237-20-22.18 | 383/2014. (XII. 31.) Korm. rendelet |
 | 2015-05-01 | 2002-237-20-22.19 | 37/2015. (III. 6.) Korm. rendelet |
 | 2016-01-01 | 2002-237-20-22.20 | 227/2005. (X. 13.) Korm. rendelet |
+| 2017-01-01 | 2002-237-20-22.21 | 227/2005. (X. 13.) Korm. rendelet |
