@@ -12,4 +12,6 @@ c) a kihallgatás időpontját,
 
 d) a meghallgatott személy életkorát, a büntetőeljárásban betöltött szerepét, valamint annak megjelölését, hogy milyen körülmények alapozzák meg a különleges bánásmódot igénylő sértetti minőségét.
 
-(3) A nyilvántartás adatairól az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve havonta, a sértettek nevét nem tartalmazó, országos statisztikai kimutatást készít, amelyet félévente megküld a Belügyminisztérium, az Igazságügyi Minisztérium és az Igazságügyi Hivatal számára.
+(3)[^3] A nyilvántartás adatairól az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve havonta, a sértettek nevét nem tartalmazó, országos statisztikai kimutatást készít, amelyet félévente megküld a rendészetért felelős miniszter által vezetett minisztérium (a továbbiakban: Belügyminisztérium) és az Igazságügyi Minisztérium számára.
+
+[^3]: A 4. § (3) bekezdése a 26/2016. (XII. 27.) IM rendelet 27. § (3) bekezdés a) pontja szerint módosított szöveg.

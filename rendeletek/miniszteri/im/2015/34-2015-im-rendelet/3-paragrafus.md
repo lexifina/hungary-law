@@ -2,4 +2,9 @@
 
 3. § (1) A különleges meghallgató szoba az alkalmasságot megállapító tanúsítvány kiadását követően használható. Az alkalmasságot megállapító tanúsítvány akkor adható ki, ha a különleges meghallgató szoba megfelel az 1. § (2)–(5) bekezdésében meghatározott követelményeknek.
 
-(2) Az alkalmasságot megállapító tanúsítványt az országos rendőrfőkapitány javaslatára az igazságügyért felelős miniszter az Igazságügyi Hivatal véleményének figyelembevételével a rendészetért felelős miniszterrel egyetértésben adja ki.
+(2)[^1] Az alkalmasságot megállapító tanúsítványt az országos rendőrfőkapitány javaslatára az igazságügyért felelős miniszter a rendészetért felelős miniszterrel egyetértésben adja ki.
+
+(3)[^2] Az 1. § (2)–(5) bekezdésében meghatározott követelményeknek való megfelelést az igazságügyért felelős miniszter által vezetett minisztérium (a továbbiakban: Igazságügyi Minisztérium) a (2) bekezdés szerinti tanúsítvány kiadását megelőzően a helyszínen megvizsgálja.
+
+[^1]: A 3. § (2) bekezdése a 26/2016. (XII. 27.) IM rendelet 27. § (4) bekezdése szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdését a 26/2016. (XII. 27.) IM rendelet 27. § (1) bekezdése iktatta be.
