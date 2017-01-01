@@ -8,8 +8,12 @@ a) a találás helye szerint illetékes jegyzőnek, aki azt – a találásról 
 
 b) a találás helye szerint illetékes járási hivatalnak, vagy
 
-c) a központi szervnek.
+c)[^57] a kijelölt kormányhivatalnak.
 
-(2) A járási hivatal, illetve a központi szerv visszaadja a talált személyazonosító igazolványt, ha az az Nytv. 29/F. §-a szerint nem tekinthető érvénytelennek, és a polgár új állandó személyazonosító igazolványt még nem kapott.
+(2)[^58] A járási hivatal, illetve a kijelölt kormányhivatal visszaadja a talált személyazonosító igazolványt, ha az az Nytv. 29/F. §-a szerint nem tekinthető érvénytelennek, és a polgár új állandó személyazonosító igazolványt még nem kapott.
 
-(3) A talált személyazonosító igazolványt a járási hivatal vagy a központi szerv belföldön postai úton, könyvelt küldeményként küldi meg az arra jogosultnak. Ha a polgár a személyazonosító igazolványt postai úton vagy felhívásra személyesen, törvényes képviselője vagy meghatalmazottja útján sem veszi át, a járási hivatal vagy a központi szerv az igazolványt a találástól számított egy év eltelte után átvétel hiányában érvényteleníti, és gondoskodik e ténynek a személyazonosító igazolvány nyilvántartásban való feltüntetéséről.
+(3)[^59] A talált személyazonosító igazolványt a járási hivatal vagy a kijelölt kormányhivatal belföldön postai úton, könyvelt küldeményként küldi meg az arra jogosultnak. Ha a polgár a személyazonosító igazolványt postai úton vagy felhívásra személyesen, törvényes képviselője vagy meghatalmazottja útján sem veszi át, a járási hivatal vagy a kijelölt kormányhivatal az igazolványt a találástól számított egy év eltelte után átvétel hiányában érvényteleníti, és gondoskodik e ténynek a személyazonosító igazolvány nyilvántartásban való feltüntetéséről.
+
+[^57]: A 38. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 2. pontjával megállapított szöveg.
+[^58]: A 38. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^59]: A 38. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 11. pontja szerint módosított szöveg.

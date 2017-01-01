@@ -22,6 +22,8 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 
 10. Annak ténye, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel a kiállítás időpontjában rendelkezik-e
 
+10a.[^131] A 16. § (3) bekezdése szerinti esetben a nyilatkozata, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak megfelelően került rögzítésre.
+
 11. Okmány belföldi kézbesítési címe
 
 12. Arcképmása
@@ -47,3 +49,8 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 22. A regisztrációs kód, az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód és a PUK kód átvételének ténye, vagy átvételének megtagadása, valamint a kódokat tartalmazó boríték azonosítója
 
 23. Az elektronikus aláíráshoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód és a visszavonási jelszó átvételének ténye és a kódokat tartalmazó boríték azonosítója, ha e-aláírás funkciót igényelt
+
+24.[^132] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
+
+[^131]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be.
+[^132]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.

@@ -6,12 +6,16 @@ b) a PUK kódot.
 
 (2) A 12. § (2) bekezdésében foglalt esetekben az eljáró hatóság az (1) bekezdésben meghatározott kódokat átadás céljából a kérelmező meghatalmazottjának adja át.
 
-(3) A 11. § (3) bekezdésében foglalt esetekben az eljáró hatóság a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmezőnek, törvényes képviselőjének vagy meghatalmazottjának.
+(3)[^24] A 11. § (3) bekezdésében foglalt esetekben a járási hivatal a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmezőnek, törvényes képviselőjének vagy meghatalmazottjának.
 
-(4) A 11. § (4) bekezdésében foglalt esetben a központi szerv átadás céljából a bv. szervnek a személyazonosító igazolványtól elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat.
+(4)[^25] A 11. § (4) bekezdésében foglalt esetben a kijelölt kormányhivatal átadás céljából a bv. szervnek a személyazonosító igazolványtól elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat.
 
-(5) A 13. §-ban foglalt esetben – ha a személyazonosító igazolvány postai úton történő továbbítására kerül sor – az eljáró hatóság a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmező törvényes képviselőjének.
+(5)[^26] A 13. §-ban foglalt esetben – ha a személyazonosító igazolvány postai úton történő továbbítására kerül sor – a járási hivatal a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmező törvényes képviselőjének.
 
 (6) Az állandó személyazonosító igazolvány iránti kérelemnek az eljáró hatóság általi átvételét a kérelem másolati példányával igazolni kell.
 
 (7) Az (1) bekezdés szerinti kódok kérelmező általi átvételét, illetve az átvétel kérelmező általi megtagadását igazolni kell.
+
+[^24]: A 23. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 6. pontja szerint módosított szöveg.
+[^25]: A 23. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^26]: A 23. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 6. pontja szerint módosított szöveg.

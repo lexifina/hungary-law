@@ -1,5 +1,3 @@
-## 17. § A polgár által személyesen előterjesztett állandó személyazonosító igazolvány iránti kérelmen az 51. § (2) bekezdés a) pontja szerinti esetben fel kell tüntetni, ha a polgár elektronikus aláírás funkcióhoz szükséges szolgáltatást igényelt.
-
 18. § (1) Ha a kérelmező a kérelem benyújtásakor rendelkezik vagy a kérelem benyújtását megelőző évben rendelkezett érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal, azt a kérelemhez be kell mutatnia.
 
 (2) Ha a kérelmező érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, illetve ha a menekült vagy az oltalmazott jogállású kérelmező az útlevélen kívül más, személyazonosságot igazoló érvényes okmánnyal nem rendelkezik, és a kérelmező a kérelem benyújtását megelőző évben sem rendelkezett ilyen érvényes okmánnyal, a kérelmezőnek a kérelemhez be kell mutatnia:
