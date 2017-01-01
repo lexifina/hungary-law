@@ -1,6 +1,22 @@
 ## 62. Átmeneti rendelkezések
 
-108. § (1)–(6)
+108. § (1) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2018. január 1. napjától kötelesek az ügyek elektronikus intézését az e törvényben meghatározottak szerint biztosítani.
+
+(2) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok – a (2b) és (2c) bekezdésben foglalt ügyek kivételével – 2017. január 1-jétől az (1) bekezdés szerinti határidőig a Felügyeletnél az elektronikus ügyintézési szolgáltatás megkezdését megelőzően, a 17. alcím szerinti adatszolgáltatás teljesítésével bejelenthetik, hogy a feladat- és hatáskörükbe tartozó egyes ügyek vagy valamennyi ügy tekintetében az (1) bekezdés szerinti határidőt megelőzően is vállalják az e törvény szabályainak megfelelő elektronikus ügyintézés biztosítását.
+
+(2a) A Felügyelet a (2) bekezdés szerinti jogalanynak a Kormány rendeletében meghatározott adatait, valamint (2) bekezdés szerint a bejelentéssel érintett ügyeket – ha a jogalany valamennyi feladat- és hatáskörébe tartozó ügy tekintetében vállalta, akkor ennek megjelölését – a Hivatalos Értesítőben a bejelentést követő 8 napon belül közzéteszi.
+
+(2b) 2017. december 31-ig a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) hatálya alá tartozó ügyekben e törvény Második, Harmadik és Ötödik Részének rendelkezései közül csak azokat kell alkalmazni, amelyet a Pp. megjelöl.
+
+(2c) 2017. december 31-ig a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) hatálya alá tartozó ügyekben e törvény Második, Harmadik és Ötödik Részének rendelkezései közül csak azokat kell alkalmazni, amelyet a Be. megjelöl.
+
+(3) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. június 30-ig ütemtervet készítenek és küldenek a Felügyelet számára az (1) bekezdésből fakadó feladataik teljesítésére vonatkozóan.
+
+(4) Az elektronikus ügyintézést 2017. január 1-jén már biztosító, az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. április 30-ig a Kormány által rendeletben meghatározott adatokat elektronikus úton, a Felügyelet által rendszeresített elektronikus űrlapon a Felügyelet számára bejelentik.
+
+(5) A 9. § (1) bekezdése szerinti kötelezettségének az ügyfél vagy jogi képviselő – ha törvény eltérően nem rendelkezik – 2018. január 1. napjától köteles eleget tenni.
+
+(6) A 14. § (1) bekezdés szerinti kötelezettséget a Második Rész hatálybalépésekor már létező gazdálkodó szervezet 2017. augusztus 30-ig köteles teljesíteni.
 
 (7) E törvény hatálybalépését követően elektronikus ügyintézés céljából az elektronikus ügyintézést biztosító szervek kizárólag olyan új informatikai rendszereket állíthatnak működésbe, amelyek e törvény szerinti elektronikus ügyintézésre alkalmasak.
 

@@ -1,0 +1,1 @@
+21/B. § Közlekedési sajátos építményfajtákkal kapcsolatos ügyekben jogszabály előírhatja, hogy jogszabályban meghatározott iratokat elektronikus kapcsolattartás esetén is papír alapon kell benyújtani.

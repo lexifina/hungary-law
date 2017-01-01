@@ -1,0 +1,5 @@
+62. § (1) A 61. § (2) bekezdés a) pontja szerinti információval rendelkező együttműködő szerv az információnak az elsődleges információforrásból rendelkezésre álló információval való egyezőségét – törvény eltérő rendelkezése hiányában – annak felhasználása vagy továbbítása előtt ellenőrzi, kivéve ha a másodlagos információforrásból rendelkezésre álló információ egyezősége az elsődleges információforrásból elérhető információval automatikus információátadás útján biztosított.
+
+(2) Az elsődleges és másodlagos információforrásból rendelkezésre álló információt az együttműködő szerv az erre irányuló elektronikus úton előterjesztett információátadás iránti megkeresés beérkezésétől számított 3 napon belül elektronikus úton továbbítja, vagy ha az információ továbbításának jogszabályi feltételei nem állnak fenn, azt megtagadja, és erről a kezdeményező együttműködő szervet az indokok megjelölésével tájékoztatja.
+
+(3) Ha az információ továbbítását igénylő együttműködő szerv az információ továbbításának a (2) bekezdés szerinti megtagadásával nem ért egyet, az együttműködő szervek kötelesek egymással 3 napon belül egyeztetni.

@@ -1,0 +1,7 @@
+37. § (1) A szabályozott elektronikus ügyintézési szolgáltató a szabályozott elektronikus ügyintézési szolgáltatás alkalmazásával elektronikus ügyintézést biztosító szerv megkeresésére – a szolgáltatás igénybe vevője azonosító adatainak ellenőrzése céljából – adategyeztetést végez, és az adatok egyezéséről vagy az eltérés tényéről a megkereső elektronikus ügyintézést biztosító szervet tájékoztatja.
+
+(2) A szabályozott elektronikus ügyintézési szolgáltatónak biztosítania kell, hogy az igénybe vevő a szolgáltatás igénybevétele előtt és az igénybevétel során bármikor megismerhesse, hogy a szabályozott elektronikus ügyintézési szolgáltató mely adatkezelési célokból mely adatfajtákat kezel.
+
+(3) A szabályozott elektronikus ügyintézési szolgáltató a szabályozott elektronikus ügyintézési szolgáltatás nyújtása során kezelt személyes adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, orvosi titkot és más hivatás gyakorlásához kötött titkot kizárólag továbbított információként, közbenső és átmeneti jelleggel tárolhatja. A szolgáltatás teljesítését követően az adatokat köteles az elektronikus információs rendszereiből és adathordozóiról haladéktalanul törölni.
+
+(4) A szabályozott elektronikus ügyintézési szolgáltató alkalmazottait az (1) bekezdés szerint megismert adatok tekintetében titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követően is fennmarad.

@@ -64,7 +64,7 @@ b) a helyi önkormányzat,
 
 c) a törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb jogalanyok,
 
-d) az Országos Bírósági Hivatal és a bíróságok, választottbíróságok,
+d) az Országos Bírósági Hivatal és a bíróságok,
 
 e) az alapvető jogok biztosa,
 
