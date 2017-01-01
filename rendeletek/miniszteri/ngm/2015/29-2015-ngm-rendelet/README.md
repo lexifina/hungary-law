@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-29-20-2
 | --- | --- | --- |
 | 2016-01-01 | 2015-29-20-2X.1 | 29/2015. (X. 21.) NGM rendelet |
 | 2016-01-02 | 2015-29-20-2X.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2015-29-20-2X.3 | 2010: CXXX. törvény |
