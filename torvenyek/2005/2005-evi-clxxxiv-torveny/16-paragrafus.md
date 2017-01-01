@@ -10,7 +10,7 @@
 
 (5) A zárójelentésben meg kell jelölni az eljárt vizsgálóbizottság vezetőjének, tagjainak, valamint a vizsgálóbizottság munkáját segítő meghatalmazott képviselőknek, tanácsadóknak és az EU rendelet 21. cikk (4) bekezdése szerinti szakértőknek a nevét. A zárójelentést a vizsgálóbizottság tagjai írják alá. Az esetleges véleményeltérésre a zárójelentés aláírásakor utalni kell, és az eltérő véleményt a zárójelentéshez csatolni kell.
 
-(6) A vasúti és víziközlekedési balesetek és események, valamint a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények vagy repülőesemények kapcsán készült zárójelentést a közlekedésbiztonsági szerv köteles megküldeni a közlekedési balesetben vagy egyéb közlekedési eseményben érintetteknek, a biztonsági ajánlás címzettjeinek, valamint minden olyan szervezetnek, amely abból biztonsági szempontból hasznos következtetéseket vonhat le. A zárójelentést meg kell küldeni az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott nemzetközi szervezeteknek, az Európai Bizottságnak és az Európai Vasúti Ügynökségnek.
+(6) A vasúti és víziközlekedési balesetek és események kapcsán készült zárójelentést a közlekedésbiztonsági szerv köteles megküldeni a közlekedési balesetben vagy egyéb közlekedési eseményben érintetteknek, a biztonsági ajánlás címzettjeinek, valamint minden olyan szervezetnek, amely abból, biztonsági szempontból hasznos következtetéseket vonhat le. A zárójelentést meg kell küldeni az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott nemzetközi szervezeteknek, az Európai Bizottságnak és az Európai Vasúti Ügynökségnek.
 
 (7) A közlekedésbiztonsági szerv a zárójelentést a honlapján közzéteszi.
 
@@ -20,12 +20,18 @@
 
 (10) A vasúti és víziközlekedési balesetek és események kapcsán kibocsátott zárójelentés közzétételének határideje a szakmai vizsgálat megindításától számított egy év, kivéve, ha a közlekedésbiztonsági szerven kívül álló okok miatt a közlekedési baleset vagy az egyéb közlekedési esemény vizsgálata ezen az időtartamon belül nem zárható le, ebben az esetben a vizsgálat állásáról a vizsgálat megindításától számított 12 hónapon belül, ezt követően 12 havonta időközi jelentést kell közzétenni a közlekedésbiztonsági szerv honlapján.
 
-(11) A kizárólag állami légijárművel bekövetkezett légiközlekedési baleset, súlyos repülőesemény és repülőesemény kapcsán elkészített zárójelentés kibocsátásának határideje a szakmai vizsgálat megindításától számított 12 hónap, kivéve, ha a közlekedésbiztonsági szerven kívül álló okok miatt a légiközlekedési baleset, súlyos repülőesemény vagy repülőesemény vizsgálata ezen az időtartamon belül nem zárható le.
+(11)
 
 (12) A zárójelentés kijavítására és kiegészítésére a hatósági döntés kijavítására és kiegészítésére vonatkozó szabályokat kell alkalmazni.
 
 (13) Amennyiben a szakmai vizsgálat lezárását követően olyan új tények vagy bizonyítékok jutnak a közlekedésbiztonsági szerv tudomására, amelyek a közlekedési baleset, súlyos repülőesemény vagy egyéb közlekedési esemény bekövetkezése körülményeinek vagy okának alapvetően új megítélését teszik szükségessé, a közlekedésbiztonsági szerv vezetője új szakmai vizsgálatot rendel el.
 
-(14) A kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel és repülőeseménnyel összefüggő zárójelentést a közlekedésbiztonsági szerv köteles megküldeni az érintett üzemben tartónak és üzemeltetőnek, továbbá az állami légijárművel összefüggő biztonsági ajánlást – érintettségük esetén – a NATO-tagországok repülésbiztonsági szervezeteinek.
+(14)
 
 (15) Amennyiben a közlekedési baleset vagy az egyéb közlekedési esemény tárgyában indított szakmai vizsgálat lefolytatása a vizsgálat során felmerült objektív akadály miatt ellehetetlenül, a közlekedésbiztonsági szerv vezetője a zárójelentést zárójelentés-tervezet készítése nélkül adja ki.
+
+(16) Az állami közlekedésbiztonsági szerv vizsgálóbizottságának zárójelentésére a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatának részletes szabályairól, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályairól szóló miniszteri rendeletben meghatározottak az irányadók.
+
+(17) A kizárólag állami légijárművel bekövetkezett légiközlekedési baleset, súlyos repülőesemény és repülőesemény kapcsán elkészített zárójelentés kibocsátásának határideje a szakmai vizsgálat megindításától számított tizenkét hónap, kivéve, ha az állami közlekedésbiztonsági szerven kívül álló okok miatt a légiközlekedési baleset, súlyos repülőesemény vagy repülőesemény vizsgálata ezen az időtartamon belül nem zárható le.
+
+(18) A kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel és repülőeseménnyel összefüggő zárójelentést az állami közlekedésbiztonsági szerv köteles megküldeni az érintett üzemben tartónak és üzemeltetőnek, továbbá az állami légijárművel összefüggő biztonsági ajánlást – érintettségük esetén – a NATO-tagországok repülésbiztonsági szervezeteinek.

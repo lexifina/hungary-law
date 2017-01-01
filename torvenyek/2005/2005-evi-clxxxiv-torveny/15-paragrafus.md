@@ -14,7 +14,13 @@ e) kezelő személyzet jogosításait kiadó
 
 állam kivizsgáló szerve a közlekedési baleset és az egyéb közlekedési esemény vizsgálóbizottsága mellé meghatalmazott képviselőt delegálhat.
 
-(2a) A (2) bekezdés szerinti meghatalmazott képviselők a vizsgálóbizottság vezetőjének felügyelete alatt a szakmai vizsgálat során jogosultak:
+(2a) A (2) bekezdésben foglaltakon kívül meghatalmazott képviselőt delegálhat továbbá
+
+a) az állami légiközlekedési infrastruktúrát érintő légiközlekedési baleset, súlyos repülőesemény, repülőesemény szakmai vizsgálatában – a közlekedésbiztonsági szerv vizsgálóbizottsága mellé – az állami közlekedésbiztonsági szerv,
+
+b) légiközlekedési infrastruktúrát érintő légiközlekedési baleset, súlyos repülőesemény, repülőesemény szakmai vizsgálatában – az állami közlekedésbiztonsági szerv vizsgálóbizottsága mellé – a közlekedésbiztonsági szerv.
+
+(2b) A (2) és (2a) bekezdés szerinti meghatalmazott képviselő a vizsgálóbizottság vezetőjének felügyelete alatt a szakmai vizsgálat során jogosult
 
 a) megtekinteni a baleset helyszínét és megvizsgálni a roncsokat,
 
@@ -26,7 +32,7 @@ d) jelen lenni az adatrögzítő kiolvasásánál,
 
 e) részt venni a helyszínen kívüli vizsgálati tevékenységekben, például az egyes alkatrészek vizsgálatában, műszaki megbeszéléseken, a tesztekben és szimulációkban,
 
-f) részt venni a kivizsgálás előre haladásáról tartott, az elemzéseket, a megállapításokat, az okokat és a biztonsági ajánlásokat vizsgáló értekezleten,
+f) részt venni a kivizsgálás előre haladásáról tartott, az elemzéseket, megállapításokat, okokat és biztonsági ajánlásokat vizsgáló értekezleten, és
 
 g) előterjesztést tenni a kivizsgálás különböző elemeire.
 
@@ -52,7 +58,7 @@ e) légijármű és úszólétesítmény esetén a lajstromozó, vasúti jármű
 
 (7) A meghatalmazott képviselő és a tanácsadó a vizsgálóbizottság vezetőjének hozzájárulása nélkül a szakmai vizsgálat előrehaladásáról és a feltárt adatokról információt senki részére nem adhat.
 
-(8) A kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel érintett járművet, infrastruktúrát tervező, gyártó, üzemben tartó, üzemeltető, lajstromozó állam katonai szakmai kivizsgáló szerve a közlekedésbiztonsági szerv felhívására a vizsgálóbizottság mellé, vagy amennyiben a közlekedésbiztonsági szerv meghatalmazott képviselő küldésére jogosult, az ő munkájának segítésére, tanácsadót delegálhat.
+(8) A kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel érintett járművet, infrastruktúrát tervező, gyártó, üzemben tartó, üzemeltető, lajstromozó állam katonai szakmai kivizsgáló szerve az állami közlekedésbiztonsági szerv felhívására a vizsgálóbizottság mellé, vagy amennyiben az állami közlekedésbiztonsági szerv meghatalmazott képviselő küldésére jogosult, az ő munkájának segítésére, tanácsadót delegálhat.
 
 (9) A (8) bekezdésben megjelölt tanácsadó az EU-rendelet 8. cikk (2) bekezdésében meghatározott jogokat gyakorolhatja, továbbá biztosítja a vizsgálóbizottság által kért információkat, adatokat és felszereléseket, valamint köteles betartani az EU rendelet 14. cikkének érzékeny biztonsági információk védelmére vonatkozó rendelkezéseit.
 

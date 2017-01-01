@@ -6,9 +6,17 @@
 
 (3) A 376/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében meghatározott eseményeket
 
-a) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű és az állami légijármű parancsnoka, vagy amennyiben a parancsnoknak nem áll módjában, a személyzet egyéb tagja,
+a) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű – az állami légijármű kivételével – parancsnoka, vagy ha a parancsnoknak nem áll módjában, a személyzet egyéb tagja,
 
-b) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű és az állami légijármű, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy,
+b) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű – az állami légijármű kivételével –, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy
+
+köteles a tudomásszerzést követően haladéktalanul személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján jelenteni a közlekedésbiztonsági szervnek a 376/2014/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott adattartalommal.
+
+(3a) A 376/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében meghatározott eseményeket
+
+a) az állami légijármű parancsnoka, akadályoztatása esetén a személyzet más tagja,
+
+b) az állami légijármű, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy,
 
 c) az a személy, aki állami repülések céljára szolgáló repülőtér üzemben tartásával kapcsolatos feladatokat lát el,
 
@@ -16,8 +24,10 @@ d) az a személy, aki olyan állami léginavigációs szolgáltatásokkal kapcso
 
 e) az a személy, aki állami léginavigációs berendezések telepítésével, módosításával, karbantartásával, javításával, nagyjavításával, repülési próbájával vagy ellenőrzésével kapcsolatos feladatot lát el,
 
-f) az a személy, aki állami légijármű földi kiszolgálásával, beleértve a tüzelőanyag-feltöltést, a terhelési adatlap-kitöltést, a berakodást, a jégtelenítést és a légijármű vontatást, valamint egyéb földi üzemeltetésével kapcsolatos feladatot lát el,
+f) az a személy, aki állami légijármű földi kiszolgálásával, beleértve a tüzelőanyag-feltöltést, a terhelési adatlap kitöltést, a berakodást, a jégtelenítést és a légijármű vontatást, valamint egyéb földi üzemeltetésével kapcsolatos feladatot lát el,
 
-köteles a tudomásszerzést követően haladéktalanul személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján jelenteni a közlekedésbiztonsági szervnek a 376/2014/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott adattartalommal.
+g) pilóta nélküli állami légijármű tekintetében annak vezetője vagy segítő személyzete
 
-(4) A 376/2014/EU európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdése szerint összegyűjtött eseményekre vonatkozó adatokat és biztonsági vonatkozású egyéb információkat az 5. cikk (6) bekezdésében meghatározott letelepedett szervezet köteles haladéktalanul jelenteni a közlekedésbiztonsági szervnek.
+köteles a tudomásszerzést követően haladéktalanul személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján jelenteni az állami közlekedésbiztonsági szervnek a 376/2014/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott adattartalommal.
+
+(4) A 376/2014/EU európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdése szerint összegyűjtött eseményekre vonatkozó adatokat és biztonsági vonatkozású egyéb információkat az 5. cikk (6) bekezdésében meghatározott letelepedett szervezet – állami légijármű tekintetében az üzembentartói baleseti ügyeleti szolgálat – köteles haladéktalanul jelenteni a közlekedésbiztonsági szervnek.

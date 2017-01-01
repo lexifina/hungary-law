@@ -1,6 +1,6 @@
 ## IV. Fejezet
 
-## A KÖZLEKEDÉSBIZTONSÁGI SZERV ADATKEZELÉSE
+## A KÖZLEKEDÉSBIZTONSÁGI SZERVEK ADATKEZELÉSE
 
 17. § A közlekedésbiztonsági szerv a 7. § (1) bekezdésében és az EU-rendeletben foglalt feladatának ellátása céljából a közlekedési baleset és az egyéb közlekedési esemény szakmai vizsgálatához elengedhetetlenül szükséges mértékben az alábbi adatok kezelésére jogosult:
 

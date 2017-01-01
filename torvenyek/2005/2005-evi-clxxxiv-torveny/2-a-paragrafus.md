@@ -1,0 +1,1 @@
+2/A. § E törvény alkalmazásában az üzemben tartóra vonatkozó rendelkezéseket kell alkalmazni azon személy tekintetében is, akinek tevékenysége üzemben tartói engedélyhez nem kötött, üzemben tartói engedélyének érvényessége lejárt, illetve jogsértő módon vagy engedély nélkül folytatta tevékenységét.

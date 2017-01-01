@@ -1,18 +1,18 @@
-## A közlekedésbiztonsági szerv hatásköre és feladatai
+## A közlekedésbiztonsági szervek hatásköre és feladatai
 
 7. § (1) A közlekedésbiztonsági szerv:
 
 a) kivizsgálja
 
-aa) a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári és állami légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
+aa) a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
 
 ab) a lajstromozásra kötelezett úszólétesítményekkel bekövetkezett nagyon súlyos víziközlekedési baleseteket és a lajstromozásra nem kötelezett úszólétesítményekkel bekövetkezett halált okozó nagyon súlyos víziközlekedési baleseteket,
 
 ac) a súlyos vasúti baleseteket,
 
-ad) az 1. § (2) bekezdésben meghatározott, a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári és állami légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
+ad) az 1. § (2) bekezdésben meghatározott, a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
 
-b) kivizsgálhatja azokat a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, és az egyéb közlekedési eseményeket, amelyek megítélése szerint
+b) kivizsgálhatja – az állami légijármű kivételével – azokat a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletének hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, valamint az egyéb közlekedési eseményeket, amelyek megítélése szerint
 
 ba) más körülmények között közlekedési balesethez vezethettek volna,
 
@@ -32,13 +32,13 @@ f) a közlekedési balesetek és az egyéb közlekedési események megelőzése
 
 fa) a közlekedési társaságnak,
 
-fb) a közlekedési infrastruktúra üzemeltetőinek, a járművet üzemeltetőnek, állami légijármű esetében az üzemeltetésért felelős állományilletékes parancsnoknak (a továbbiakban együtt: üzemeltető),
+fb) a közlekedési infrastruktúra üzemeltetőinek, a járművet üzemeltetőnek, (a továbbiakban együtt: üzemeltető),
 
-fc) állami légijármű esetén a légi jármű üzemben tartójának, továbbá a katonai állami légijármű esetén a honvédelemért felelős miniszternek,
+fc) állami légijármű érintettsége esetén a légijármű üzemben tartójának, továbbá a katonai légijármű érintettsége esetén a honvédelemért felelős miniszternek,
 
 fd) a közlekedési hatóságnak, és az eljárásban érintett más hatóságnak;
 
-g) a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eseményjelentések, elemzések, és a légiközlekedési balesetekre, súlyos repülőeseményekre, repülőeseményekre vonatkozó adatok, információk nyilvántartására, nyomon követésére és feldolgozására adatbázist hoz létre és működtet;
+g) a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eseményjelentések, elemzések, és a légiközlekedési balesetekre, súlyos repülőeseményekre, repülőeseményekre – ide nem értve a kizárólag állami légijárművel bekövetkezett légiközlekedési baleseteket, súlyos repülőeseményeket, repülőeseményeket – vonatkozó adatok, információk nyilvántartására, nyomon követésére és feldolgozására adatbázist hoz létre és működtet;
 
 h) folyamatos vélemény- és tapasztalatcserét folytat más országok szervezeteivel, a nemzetközi szervezetekkel a műszaki és tudományos fejlődéssel összhangban lévő közös vizsgálati módszerek kidolgozása, a biztonsági ajánlások végrehajtásának figyelemmel kísérésére szolgáló közös elvek megfogalmazása céljából;
 
@@ -48,7 +48,7 @@ j) a víziközlekedési balesetekre és víziközlekedési eseményekre vonatkoz
 
 k) a közlekedési baleset és az egyéb közlekedési esemény súlyosságának és jellegének megfelelő formában zárójelentést készít;
 
-l) a 376/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (3) bekezdésében meghatározottak szerint a bejelentett adatokat gyűjti, feldolgozza, tárolja;
+l) a 376/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (3) bekezdésében meghatározottak szerint – kivéve az állami légijárműre vonatkozó – bejelentett adatokat gyűjti, feldolgozza, tárolja
 
 m) ellátja a 376/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (3) bekezdésében meghatározott kapcsolattartási pont feladatait;
 

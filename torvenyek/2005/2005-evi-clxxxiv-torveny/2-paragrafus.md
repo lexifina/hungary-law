@@ -86,11 +86,15 @@ pe) vezető nélküli repülésre alkalmas légijármű esetén az irányítóre
 
 q) biztonsági ajánlás: a közlekedésbiztonsági szerv által a szakmai vizsgálat során szerzett adatok alapján, a súlyos vasúti baleset, a vasúti baleset, a váratlan vasúti esemény, a nagyon súlyos víziközlekedési baleset, a víziközlekedési baleset, a víziközlekedési esemény (a továbbiakban együtt: vasúti és víziközlekedési balesetek és események) megelőzése céljából tett javaslat, biztonsági ajánlás, továbbá az Európai Bizottság által kiadott biztonsági ajánlás és az EU-rendelet szerinti biztonsági ajánlás is;
 
-r) üzemben tartó: a jármű, illetve az infrastruktúra működését szervező, fenntartó természetes vagy jogi személy, honvédelmi légijármű esetében a légijármű üzemeltetéséért felelős szervezet közvetlen szolgálati elöljárója. E törvény alkalmazásában az üzemben tartóra vonatkozó rendelkezéseket kell alkalmazni azon személy tekintetében is, akinek tevékenysége üzemben tartói engedélyhez nem kötött, illetve üzemben tartói engedélyének érvényessége lejárt, jogsértő módon vagy engedély nélkül folytatta tevékenységét.
+r) üzemben tartó:
+
+ra) a jármű, illetve az infrastruktúra működését szervező, fenntartó természetes vagy jogi személy,
+
+rb) az állami légijármű, a pilóta nélküli állami légijármű és rendszer esetén az üzemeltető szervezet szolgálati elöljárója, amely a honvédelmi szervek céljára szolgáló légijármű, pilóta nélküli légijármű és rendszer tekintetében a Magyar Honvédség középszintű vezető szerve.
 
 s) adatrögzítő: az úszólétesítményeken vagy vasúti járműveken lévő vagy az infrastruktúrához kapcsolódó minden olyan berendezés, amely kiolvasás után információt szolgáltathat a bekövetkezett közlekedési balesetről vagy egyéb közlekedési eseményről;
 
-t)
+t) közlekedésbiztonsági szervek: a közlekedésbiztonsági szerv és az állami közlekedésbiztonsági szerv;
 
 u) nagyon súlyos víziközlekedési baleset: olyan víziközlekedési baleset, amely során
 

@@ -2,7 +2,7 @@
 
 12. § (1) Amennyiben további vizsgálat szükséges, a vizsgálóbizottság vezetőjének az érintett hatósággal egyeztetett döntése alapján, a közlekedésbiztonsági szerv az üzemben tartó (üzemeltető) – annak hiányában a tulajdonos – közreműködésével és költségére az érintett járművet, berendezést, roncsot és tartozékait, valamint az egyéb bizonyítékokat a vizsgálat lefolytatására alkalmas helyre szállíttatja, és további őrzéséről intézkedik. Az őrzés megszüntetéséről a vizsgálóbizottság vezetője és az esemény vizsgálatában részt vevő hatóságok közösen döntenek.
 
-(2) A közlekedésbiztonsági szerv az őrizetébe került bizonyítékokat erre alkalmas módon berendezett, elkülönített és az illetéktelenek elől elzárt helyen őrzi meg. A megőrzés során a közlekedésbiztonsági szerv gondoskodik a bizonyítékok azonosíthatóságáról és megváltoztathatatlanságáról.
+(2) A közlekedésbiztonsági szerv az őrizetébe került bizonyítékokat erre alkalmas módon berendezett, elkülönített és az illetéktelenek elől elzárt helyen őrzi meg, és a megőrzés során gondoskodik a bizonyítékok azonosíthatóságáról és megváltoztathatatlanságáról.
 
 (3) A nyomozó hatóság és a szabálysértési hatóság által lefoglalt bizonyítékoknak a vizsgálóbizottság által szükségesnek ítélt vizsgálata iránt – az érintett hatóságokkal egyeztetett módon – a vizsgálóbizottság vezetője intézkedik.
 

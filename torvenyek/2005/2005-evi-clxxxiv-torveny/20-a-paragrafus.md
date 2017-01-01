@@ -2,7 +2,7 @@
 
 ## BÍRSÁG
 
-20/A. § (1) Aki az EU-rendelet, a 376/2014/EU európai parlamenti és tanácsi rendelet, valamint e törvény rendelkezéseit megszegve – a katonai célú állami légiközlekedés kivételével –
+20/A. § (1) Aki az EU-rendelet, a 376/2014/EU európai parlamenti és tanácsi rendelet, valamint e törvény rendelkezéseit megszegve – a honvédelmi célú állami légiközlekedés kivételével –
 
 a) az EU-rendelet 14. cikke szerinti védelem alatt álló információt közzétesz,
 

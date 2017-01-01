@@ -10,8 +10,8 @@ d) az üzembentartói vizsgálat részletes szabályait
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait.
+(2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter és a rendészetért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait.
 
 (3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter, a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag a honvédség, illetve a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
 
-(4) Felhatalmazást kap a Kormány, hogy a közlekedésbiztonsági szervet vagy szerveket rendeletben jelölje ki.
+(4) Felhatalmazást kap a Kormány, hogy a közlekedésbiztonsági szervet és az állami közlekedésbiztonsági szervet rendeletben jelölje ki.

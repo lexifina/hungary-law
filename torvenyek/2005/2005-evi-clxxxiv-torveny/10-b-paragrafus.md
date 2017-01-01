@@ -4,7 +4,11 @@
 
 (3) A vizsgálóbizottság munkájában való részvételre a közlekedésbiztonsági szerv kormánytisztviselőin kívül más, a szakmai vizsgálat lefolytatására – a 22. § (1) bekezdés a)–c) pontja szerinti felhatalmazás alapján kiadott miniszteri rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető.
 
+(3a) A vizsgálóbizottság munkájában történő részvételre az állami közlekedésbiztonsági szerv hivatásos, szerződéses szolgálati jogviszonyban álló tagján, kormánytisztviselőjén kívül más, a szakmai vizsgálat lefolytatására – a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatának részletes szabályairól, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályairól szóló miniszteri rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető.
+
 (4) A szakmai vizsgálat vezetője a közlekedésbiztonsági szerv kormánytisztviselője. A súlyos repülőesemény kivételével az egyéb közlekedési esemény vizsgálatára a közlekedésbiztonsági szerv kormánytisztviselői közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
+
+(4a) A kizárólag állami légijárművel bekövetkezett légiközlekedési baleset, súlyos repülőesemény és repülőesemény szakmai vizsgálatának vezetője az állami közlekedésbiztonsági szervnél hivatásos vagy szerződéses szolgálati jogviszonyban álló személy.
 
 (5) A vizsgálóbizottság a kijelölést követően a szakmai vizsgálat 8. §-ban rögzített alapelvei szerint, a szakmai vizsgálatra vonatkozó általános szabályok figyelembevételével határozza meg a vizsgálat körét és a vizsgálatok során követendő eljárást, valamint haladéktalanul megkezdi a szakmai vizsgálatot. Amennyiben a közlekedési balesetben és egyéb közlekedési eseményben több jármű érintett, azt egy esetnek kell tekinteni. Az esetet a legsúlyosabb következménye alapján kell minősíteni.
 
