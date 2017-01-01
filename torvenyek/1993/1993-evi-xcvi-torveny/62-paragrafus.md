@@ -24,7 +24,7 @@ e)
 
 f) az egészségpénztáraknak, amennyiben kötöttek, az egészségbiztosítási szervvel, illetve a helyi önkormányzattal (önkormányzatokkal) kötött szerződést;
 
-g) a nyugdíjpénztáraknak, amennyiben kötöttek, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervvel kötött szerződést;
+g) a nyugdíjpénztáraknak, amennyiben kötöttek, a központi nyugdíjbiztosítási szervvel kötött szerződést;
 
 h) a bírósági nyilvántartásba vétel iránti kérelem benyújtását igazoló iratot.
 
