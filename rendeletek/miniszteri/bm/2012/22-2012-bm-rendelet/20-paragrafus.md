@@ -10,19 +10,19 @@ a) az eljárás alá vont személy családi nevét, utónevét, születési hely
 
 b) személyazonosításra alkalmas igazolványának, vagy engedélyhez kötött járművezetés szabályainak megszegésével elkövetett szabálysértés esetén a vezetői engedély számát és típusát,
 
-c)[^28] az elkövetés helyét, idejét, az elkövetett cselekmény leírását, az elkövetett szabálysértés megnevezését, gépjárművel elkövetett szabálysértés esetén a forgalmi rendszámot, valamint jogszabályban meghatározott, a közúti közlekedés biztonságát fokozottan veszélyeztető szabálysértés esetén a közlekedési előéleti pont számát,
+c)[^24] az elkövetés helyét, idejét, az elkövetett cselekmény leírását, az elkövetett szabálysértés megnevezését, gépjárművel elkövetett szabálysértés esetén a forgalmi rendszámot, valamint jogszabályban meghatározott, a közúti közlekedés biztonságát fokozottan veszélyeztető szabálysértés esetén a közlekedési előéleti pont számát,
 
 d) a kiszabott helyszíni bírság összegét,
 
-e)[^29] tájékoztatást arról, hogy – a gépjárművezető távollétében kiszabott helyszíni bírság kivételével – a meg nem fizetett helyszíni bírságot 5000 forintonként 6 óra közérdekű munkával válthatja meg, amelynek érdekében az állami foglalkoztatási szervnél a bírság megfizetésére nyitva álló határidő lejártát követő három munkanapon belül jelentkezhet, valamint azt, hogy a bíróság a meg nem fizetett és közérdekű munkával meg nem váltott helyszíni bírságot 5000 forintonként egy napi szabálysértési elzárásra változtatja át,
+e)[^25] tájékoztatást arról, hogy – a gépjárművezető távollétében kiszabott helyszíni bírság kivételével – a meg nem fizetett helyszíni bírságot 5000 forintonként 6 óra közérdekű munkával válthatja meg, amelynek érdekében az állami foglalkoztatási szervnél a bírság megfizetésére nyitva álló határidő lejártát követő három munkanapon belül jelentkezhet, valamint azt, hogy a bíróság a meg nem fizetett és közérdekű munkával meg nem váltott helyszíni bírságot 5000 forintonként egy napi szabálysértési elzárásra változtatja át,
 
 f) a helyszíni bírság kiszabására jogosult szerv nevét, az intézkedő személy azonosító számát, vagy nevét,
 
-g)[^30] a fiatalkorú eljárás alá vont személy nyilatkozatát, hogy a helyszíni bírság megfizetését vállalja és aláírását,
+g)[^26] a fiatalkorú eljárás alá vont személy nyilatkozatát, hogy a helyszíni bírság megfizetését vállalja és aláírását,
 
-h)[^31] a fiatalkorú eljárás alá vont személy törvényes képviselőjének aláírását.
+h)[^27] a fiatalkorú eljárás alá vont személy törvényes képviselőjének aláírását.
 
-[^28]: A 20. § (3) bekezdés c) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^29]: A 20. § (3) bekezdés e) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^30]: A 20. § (3) bekezdés g) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.
-[^31]: A 20. § (3) bekezdés h) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.
+[^24]: A 20. § (3) bekezdés c) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^25]: A 20. § (3) bekezdés e) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^26]: A 20. § (3) bekezdés g) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.
+[^27]: A 20. § (3) bekezdés h) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.
