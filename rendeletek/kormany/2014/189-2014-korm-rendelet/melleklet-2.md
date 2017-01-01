@@ -1,4 +1,4 @@
-2. melléklet a 189/2014. (VII. 25.) Korm. rendelethez[^6]
+2. melléklet a 189/2014. (VII. 25.) Korm. rendelethez[^7]
 
 A kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottak
 
@@ -46,4 +46,4 @@ A kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánym
 
 | 21. | Zala megye területén megvalósuló beruházások | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 87. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 87. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
