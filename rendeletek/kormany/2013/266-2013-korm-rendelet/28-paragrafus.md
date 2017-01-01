@@ -32,6 +32,6 @@ e) tájékoztatást az engedély hatályának meghosszabbításának módjáról
 
 (6) A kérelem elutasításáról hozott döntés a Ket. 72. § (1) bekezdésében foglaltakon túlmenően tartalmazza a területi kamara elnöksége véleményének indokolását.
 
-(7)[^35] Jogorvoslati eljárásban az országos kamara főtitkára kikéri a szakterület szerinti szakmai tagozat véleményét a szakmai gyakorlat szakirányúságának megállapítása céljából.
+(7)[^37] Jogorvoslati eljárásban az országos kamara főtitkára kikéri a szakterület szerinti szakmai tagozat véleményét a szakmai gyakorlat szakirányúságának megállapítása céljából.
 
-[^35]: A 28. § (7) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 9. pontja szerint módosított szöveg.
+[^37]: A 28. § (7) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 9. pontja szerint módosított szöveg.
