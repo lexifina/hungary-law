@@ -1,3 +1,11 @@
-9. § (1)
+9. § (1) A Dohánytörvény 15/E. § (2)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) A dohánytermék-nagykereskedő köteles – a cigaretta kivételével – minden olyan dohánytermékre, amelyet a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedőtől szerez be, a dohánytermék dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának tizenöt százalékát elérő kiskereskedelmi árrést biztosítani. Ennek megfelelően a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátótól – a cigaretta kivételével – a dohánytermék után legfeljebb olyan árat követelhet, amely nem nagyobb a dohánytermék dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának 0,85-szoros szorzatával kiszámolt összegnél.
+
+(3) A (2) bekezdés rendelkezéseit cigaretta esetében is megfelelően alkalmazni kell azzal, hogy a dohány-kiskereskedelmi ellátó részére biztosítandó kiskereskedelmi árrés mértéke a cigaretta dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának tizenhárom százaléka.
+
+(4) A dohány-kiskereskedelmi ellátó köteles – a cigaretta kivételével – minden olyan dohánytermékre, amelyet a dohánytermék-kiskereskedő a dohány-kiskereskedelmi ellátótól szerez be, a dohánytermék dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának legalább tíz, legfeljebb tizenhárom százalékát elérő kiskereskedelmi árrést biztosítani. A kiskereskedelmi árrés mértékét a dohánytermék-ellátó az általános szerződési feltételeiben sávosan határozza meg; a sávok alapján nyújtott kereskedelmi árrés kizárólag a dohánytermék-kiskereskedő által az adott időszakban a dohány-kiskereskedelmi ellátótól vásárolt dohánytermékek összértékétől tehető – fordítottan arányosan – függővé.
+
+(5) A (4) bekezdés rendelkezéseit cigaretta esetében is megfelelően alkalmazni kell azzal, hogy a dohánytermék-kiskereskedő részére biztosítandó kiskereskedelmi árrés mértéke a cigaretta dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának legalább tíz, legfeljebb tizenegy és fél százaléka.”
 
 (2)
