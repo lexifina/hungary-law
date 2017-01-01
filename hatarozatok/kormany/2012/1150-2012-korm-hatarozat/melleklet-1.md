@@ -40,9 +40,9 @@ f) a KKB adminisztratív feladatait ellátó szervezeti egység vezetője,
 
 g)[^4] a Belügyminisztérium rendészeti államtitkára által kijelölt, a Belügyminisztérium állományába tartozó vezetői munkakört betöltő személy.
 
-6. A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt
+6.[^5] A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt
 
-a) a Bevándorlási és Állampolgársági Hivatal főigazgatója,
+a) a Bevándorlási és Menekültügyi Hivatal főigazgatója,
 
 b) a büntetés-végrehajtás országos parancsnoka,
 
@@ -50,31 +50,29 @@ c) a polgári nemzetbiztonsági szolgálatok főigazgatói,
 
 d) a KKB NVK-vezető szakmai helyettese,
 
-e) a Nemzeti Közlekedési Hatóság elnöke,
+e) az Országos Atomenergia Hivatal (a továbbiakban: OAH) főigazgatója,
 
-f) az Országos Atomenergia Hivatal (a továbbiakban: OAH) főigazgatója,
+f) az országos főállatorvos,
 
-g) az országos főállatorvos,
+g) az Országos Meteorológiai Szolgálat elnöke,
 
-h) az Országos Meteorológiai Szolgálat elnöke,
+h) az Országos Mentőszolgálat főigazgatója,
 
-i) az Országos Mentőszolgálat főigazgatója,
+i) az országos tisztifőorvos,
 
-j) az országos tisztifőorvos,
+j) a Nemzeti Adó- és Vámhivatal elnöke,
 
-k) a Nemzeti Adó- és Vámhivatal elnöke,
+k) a Herman Ottó Intézet Nonprofit Kft. ügyvezetője,
 
-l)[^5] a Herman Ottó Intézet főigazgatója,
+l) az Országos Vízügyi Főigazgatóság főigazgatója,
 
-m) az Országos Vízügyi Főigazgatóság főigazgatója,
+m) a Pest Megyei Kormányhivatal kormánymegbízottja,
 
-n)[^6] az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség főigazgatója,
+n) azon megyei, fővárosi védelmi bizottság elnöke, akit a KKB napirendjén szereplő kérdés érint,
 
-o)[^7] azon megyei, fővárosi védelmi bizottság elnöke, akit a KKB napirendjén szereplő kérdés érint,
+o) a Nemzeti Média- és Hírközlési Hatóság elnöke, valamint
 
-p)[^8] a Nemzeti Média- és Hírközlési Hatóság elnöke, valamint
-
-q)[^9] az Egészségügyi Készletgazdálkodási Intézet főigazgatója.
+p) az Állami Egészségügyi Ellátó Központ főigazgatója.
 
 7. A KKB elnöke a KKB ülésére más személyt is meghívhat. A 6. és e pont szerinti meghívásra a napirend által érintett KKB-tag kezdeményezése alapján is sor kerülhet.
 
@@ -94,7 +92,7 @@ Operatív munkaszerv
 
 12. A KKB, a katasztrófák elleni védekezéssel kapcsolatos feladatok összehangolt végrehajtásának támogatása érdekében operatív munkaszervként KKB NVK-t működtet. A KKB NVK ügyrendjét a BM OKF főigazgatójának javaslatára a KKB hagyja jóvá.
 
-13.[^10] A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek állományából a KKB elnöke, illetve a KKB tagjai által kijelölt szakemberekkel, valamint meghívott szakértőkkel látja el feladatát. A kijelölés feltételei:
+13.[^6] A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek állományából a KKB elnöke, illetve a KKB tagjai által kijelölt szakemberekkel, valamint meghívott szakértőkkel látja el feladatát. A kijelölés feltételei:
 
 a) a KKB tagja által képviselt szervezet részéről a KKB NVK ügyrendjében meghatározott beosztási, képesítési, valamint általános és szakmai kompetenciák megléte, és
 
@@ -138,7 +136,7 @@ f) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módos
 
 g) a Kat. 3. § 28. pontja hatálya alá nem tartozó ipari üzemekkel kapcsolatos, szénhidrogén-kitermelés során bekövetkező, veszélyhelyzeti szintet elérő esemény következményei felszámolásának irányítására a bányászati ügyekért,
 
-h)[^11] humán járványok, határon átnyúló egészségügyi veszélyek megelőzésének és felszámolásának irányítására az egészségügyért,
+h)[^7] humán járványok, határon átnyúló egészségügyi veszélyek megelőzésének és felszámolásának irányítására az egészségügyért,
 
 i) a veszélyhelyzeti szintű hőhullám időszakára az egészségügyért,
 
@@ -150,7 +148,7 @@ l) a kormányzati, közigazgatási és lakosságellátási informatikai rendszer
 
 m) az elektronikus hírközlési infrastruktúrát ért károk felszámolására az elektronikus hírközlésért, valamint
 
-n)[^12] a külföldiek tömeges méretű migrációja miatt bekövetkező események kezelésére az idegenrendészetért és menekültügyért
+n)[^8] a külföldiek tömeges méretű migrációja miatt bekövetkező események kezelésére az idegenrendészetért és menekültügyért
 
 felelős központi államigazgatási szervet képviselő KKB-tag által kijelölt személy, aki egyben ellátja a 22. pontban meghatározott védekezési munkabizottság vezetői feladatait.
 
@@ -178,11 +176,7 @@ A KKB összehívásának és működésének rendje
 [^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: Az 1. melléklet 4. pontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: Az 1. melléklet 5. pont g) alpontját az 1019/2016. (I. 22.) Korm. határozat 1. pontja iktatta be.
-[^5]: Az 1. melléklet 6. pont l) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^6]: Az 1. melléklet 6. pont n) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^7]: Az 1. melléklet 6. pont o) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^8]: Az 1. melléklet 6. pont p) alpontját az 1019/2016. (I. 22.) Korm. határozat 1. pontja iktatta be.
-[^9]: Az 1. melléklet 6. pont q) alpontját az 1019/2016. (I. 22.) Korm. határozat 1. pontja iktatta be.
-[^10]: Az 1. melléklet 13. pontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^11]: Az 1. melléklet 21. pont h) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^12]: Az 1. melléklet 21. pont n) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 6. pontja az 1853/2016. (XII. 27.) Korm. határozat 14. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 13. pontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 21. pont h) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: Az 1. melléklet 21. pont n) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
