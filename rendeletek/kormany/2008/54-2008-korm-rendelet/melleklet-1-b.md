@@ -222,6 +222,6 @@
 
 | 110 | 2. Kevert ásványi nyersanyag II. | Azon ásványi nyersanyag, amely földtani szakértő szakvéleménye alapján a mellékletben szereplő valamelyik nyersanyagot 60%-nál kisebb mennyiségben tartalmazza. | 2312 | 660 | Ft/m3 | 0000 Vegyes, kevert és meddő-hányóból nyert nyersanyagok |
 
-1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^49]
+1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^50]
 
-[^49]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.
+[^50]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.

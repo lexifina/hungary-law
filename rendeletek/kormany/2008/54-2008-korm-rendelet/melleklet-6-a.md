@@ -1,3 +1,3 @@
-6/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^57]
+6/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^58]
 
-[^57]: A 6/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^58]: A 6/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.

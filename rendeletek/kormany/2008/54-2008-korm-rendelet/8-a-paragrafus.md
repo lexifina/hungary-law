@@ -1,4 +1,4 @@
-8/A. §[^39] (1) A bányajáradék önbevallás tartalmazza:
+8/A. §[^40] (1) A bányajáradék önbevallás tartalmazza:
 
 a) a bányavállalkozó, illetve az engedélyes nevét, címét és MBFH azonosító számát,
 
@@ -18,7 +18,7 @@ h) a 2. melléklet 1.1. pontja szerinti képlettel megállapított bányajárad�
 
 i) a bányajáradék százalékos mértékét,
 
-j)[^40] a 2. melléklet 1.2. pontja szerinti képlettel megállapított bányajáradék értékét ezer forintra kerekítve,
+j)[^41] a 2. melléklet 1.2. pontja szerinti képlettel megállapított bányajáradék értékét ezer forintra kerekítve,
 
 k) a bányavállalkozó vagy az engedélyes pénzforgalmi jelzőszámát,
 
@@ -46,8 +46,8 @@ e) a 2. melléklet 2.2. pontja szerinti képlettel megállapított kinyert energ
 
 (4) Hőközvetítő anyag recirkuláltatása esetén az (1) és a (3) bekezdésben foglaltakon túlmenően az önbevallás tartalmazza a fajhőt GJ/m3 × °C-ban kifejezve.
 
-(5)[^41] A Bt. 30. § (3) bekezdése alapján a kitermelés szüneteltetése idejére, a kiesett bányajáradék pótlására fizetendő díjra vonatkozó önbevallás az (1) bekezdés a)–e) és j)–m) pontja, valamint a (2) bekezdés a) pontja szerinti adatokat tartalmazza.
+(5)[^42] A Bt. 30. § (3) bekezdése alapján a kitermelés szüneteltetése idejére, a kiesett bányajáradék pótlására fizetendő díjra vonatkozó önbevallás az (1) bekezdés a)–e) és j)–m) pontja, valamint a (2) bekezdés a) pontja szerinti adatokat tartalmazza.
 
-[^39]: A 8/A. §-t a 64/2013. (III. 4.) Korm. rendelet 8. §-a iktatta be.
-[^40]: A 8/A. § (1) bekezdés j) pontja az 559/2013. (XII. 31.) Korm. rendelet 53. § 2. pontja szerint módosított szöveg.
-[^41]: A 8/A. § (5) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 53. § 3. pontja szerint módosított szöveg.
+[^40]: A 8/A. §-t a 64/2013. (III. 4.) Korm. rendelet 8. §-a iktatta be.
+[^41]: A 8/A. § (1) bekezdés j) pontja az 559/2013. (XII. 31.) Korm. rendelet 53. § 2. pontja szerint módosított szöveg.
+[^42]: A 8/A. § (5) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 53. § 3. pontja szerint módosított szöveg.
