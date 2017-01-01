@@ -1,5 +1,3 @@
-## 25. § E rendelet rendelkezéseit a hatálybalépése után megkezdett, közszolgáltatói szerződés megkötésére irányuló közbeszerzési eljárásokra kell alkalmazni.
-
 ## 26. § Ez a rendelet a Kbt.-vel együtt
 
 a) a koncessziós szerződésekről szóló 2014. február 26-i 2014/23/EU európai parlamenti és tanácsi irányelvnek,
