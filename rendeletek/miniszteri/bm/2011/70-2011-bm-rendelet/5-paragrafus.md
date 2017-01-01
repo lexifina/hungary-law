@@ -20,7 +20,7 @@ i) részt vesz a műszaki átadásokon,
 
 j) elkészíti a rendvédelmi objektumok terveihez szükséges szakvéleményt, továbbá
 
-k)[^7]
+k)[^9]
 
 (2) A munkavédelmi felügyelő
 
@@ -44,4 +44,4 @@ i) ha az érintett szervnél nincs munkavédelmi főfelügyelő, elemzi és ért
 
 j) figyelemmel kíséri a beruházási és felújítási munkálatok előkészítésekor, valamint átadásakor a munkavédelmi előírások megtartását.
 
-[^7]: Az 5. § (1) bekezdés k) pontját a 71/2013. (XII. 16.) BM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^9]: Az 5. § (1) bekezdés k) pontját a 71/2013. (XII. 16.) BM rendelet 12. § a) pontja hatályon kívül helyezte.

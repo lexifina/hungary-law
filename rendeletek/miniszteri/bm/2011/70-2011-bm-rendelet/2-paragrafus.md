@@ -28,7 +28,7 @@ m) nem rendvédelmi célú egyéni védőeszköz: a rendvédelmi szerv kiképzé
 
 n) szervezett tevékenység: a munkavédelemről szóló törvényben meghatározott szervezett munkavégzés, valamint a rendkívüli munkavégzés és szolgálati feladat ellátása; a munkaidőn, szolgálati időn kívüli tevékenység akkor tekinthető szervezettnek – tekintettel az o) pont ob) és oc) alpontjára –, amennyiben azt az állományilletékes parancsnok vagy az általa megbízott vezető elrendeli, és azt a tevékenység meghatározásával, valamint az időpont és az érintett személyek megjelölésével írásban rögzítik,
 
-o) szolgálati kötelmekkel összefüggő baleset: a munkavédelemről szóló törvényben meghatározott munkabaleseten túl az a baleset, amely a hivatásos állomány tagját
+o)[^4] szolgálati kötelmekkel összefüggő baleset, betegség: a munkavédelemről szóló törvényben meghatározott munkabaleseten, illetve a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló 27/1996. (VIII. 28.) NM rendeletben [a továbbiakban: 27/1996. (VIII. 28.) NM rendelet] meghatározott foglalkozási megbetegedéseken túl az a baleset, illetve betegség, amely a hivatásos állomány tagját
 
 oa) azonnali szolgálatba, munkába rendelés esetén a rendelkező szóbeli vagy írásbeli parancs vagy utasítás vételétől számított időtől a szolgálatteljesítés, munkavégzés helyére történő megérkezéséig, valamint onnan lakóhelyére menet közben,
 
@@ -36,4 +36,9 @@ ob) kiképzési terv, napirend szerint előírt gyakorlati foglalkozásokon, a f
 
 oc) a rendvédelmi szervek tömegkapcsolatainak erősítése céljából a rendvédelmi szerv által szervezett sportversenyeken, speciális rendezvényeken, bemutatókon
 
-érte.
+## érte, illetve azzal összefüggésben keletkezett vagy jelentősen súlyosbodott,
+
+p)[^5] tényleges szolgálatellátás során bekövetkezett baleset, betegség: az o) pont oa) alpontjában szereplő esetek kivételével az o) pont szerinti baleset, betegség.
+
+[^4]: A 2. § o) pontja az 55/2016. (XII. 22.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § p) pontját az 55/2016. (XII. 22.) BM rendelet 4. § (2) bekezdése iktatta be.

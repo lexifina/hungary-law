@@ -1,4 +1,4 @@
-## 16/A. §[^18] Az állományilletékes parancsnok az alapellátó orvos, a pszichológus, a munkavédelmi felügyelő és ahol rendelkezésre áll, ott a közegészségügy-járványügyi felügyelő részvételével köteles a személyi állományra vonatkozóan a rendvédelmi szervet irányító miniszter által kiadott módszertani útmutatóban meghatározott szakmai elvek figyelembevételével kockázatértékelést készíteni.
+## 16/A. §[^20] Az állományilletékes parancsnok az alapellátó orvos, a pszichológus, a munkavédelmi felügyelő és ahol rendelkezésre áll, ott a közegészségügy-járványügyi felügyelő részvételével köteles a személyi állományra vonatkozóan a rendvédelmi szervet irányító miniszter által kiadott módszertani útmutatóban meghatározott szakmai elvek figyelembevételével kockázatértékelést készíteni.
 
 ## [Az Mvt. 57. § (1) bekezdéséhez]
 
@@ -10,4 +10,4 @@ b) II. veszélyességi osztály: hivatásos katasztrófavédelmi szerv központi
 
 (2) A szerv II. veszélyességi osztályba sorolása esetén az érintett szerv vezetője a szerv szervezeti egységét az ott végzett tevékenység és az adott munkakörre vonatkozó kockázatértékelés alapján I. veszélyességi osztályba sorolhatja.
 
-[^18]: A 16/A. §-t a 71/2013. (XII. 16.) BM rendelet 4. §-a iktatta be.
+[^20]: A 16/A. §-t a 71/2013. (XII. 16.) BM rendelet 4. §-a iktatta be.
