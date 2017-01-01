@@ -38,7 +38,7 @@ b) a jelölt hozzátartozója, vagy
 
 c) akitől a jelölt teljesítményének tárgyilagos megítélése egyéb okból nem várható el.
 
-(8)[^30] A (7) bekezdés szerinti összeférhetetlenség fennállásáról a jelölt vagy a vizsgabizottság érintett tagjának kérelmére az ENKK elnöke dönt. Ha az ENKK elnöke megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (4) bekezdés szerinti módon gondoskodik.
+(8)[^30] A (7) bekezdés szerinti összeférhetetlenség fennállásáról a jelölt vagy a vizsgabizottság érintett tagjának kérelmére az ÁEEK főigazgatója dönt. Ha az ÁEEK főigazgatója megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (4) bekezdés szerinti módon gondoskodik.
 
 [^22]: A 8. § (1) bekezdése a 2/2013. (I. 2.) EMMI rendelet 41. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 141. § a) pontja szerint módosított szöveg.
 [^23]: A 8. § (2) bekezdését a 2/2013. (I. 2.) EMMI rendelet 43. § c) pontja hatályon kívül helyezte.
@@ -48,4 +48,4 @@ c) akitől a jelölt teljesítményének tárgyilagos megítélése egyéb okbó
 [^27]: A 8. § (5b) bekezdését a 14/2014. (III. 10.) EMMI rendelet 27. §-a iktatta be.
 [^28]: A 8. § (5c) bekezdését a 14/2014. (III. 10.) EMMI rendelet 27. §-a iktatta be.
 [^29]: A 8. § (5d) bekezdését a 14/2014. (III. 10.) EMMI rendelet 27. §-a iktatta be.
-[^30]: A 8. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 141. § c) pontja szerint módosított szöveg.
+[^30]: A 8. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 141. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 87. § e) pontja szerint módosított szöveg.
