@@ -1,4 +1,4 @@
-## 4. §[^4] Az MVH a Nemzeti Agrárkutatási és Innovációs Központ szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
+## 4. §[^5] A Kincstár a Nemzeti Agrárkutatási és Innovációs Központ szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
 
 a) a szárított takarmány kvótával szabályozott támogatása kapcsán:
 
@@ -32,4 +32,4 @@ f) az Európai Unió környezetvédelmi, állatjóléti és -higiéniai előír�
 
 g) az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó támogatások keretében a kérelmek elbírálásához kapcsolódó műszaki-technológiai segédletek kidolgozása, eseti szakvélemény nyújtása, valamint helyszíni ellenőrzések elvégzése.
 
-[^4]: A 4. § nyitó szövegrésze a 264/2015. (IX. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 4. § nyitó szövegrésze a 264/2015. (IX. 14.) Korm. rendelet 3. §-a, a 328/2016. (X. 28.) Korm. rendelet – 379/2016. (XII. 2.) Korm. rendelet 326. § (1) bekezdésével megállapított – 20. § (2) bekezdés c) pontja szerint módosított szöveg.

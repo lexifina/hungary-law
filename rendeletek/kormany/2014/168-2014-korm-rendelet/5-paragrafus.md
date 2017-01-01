@@ -1,4 +1,4 @@
-## 5. § Az MVH a NÉBIH szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
+## 5. §[^6] A Kincstár a NÉBIH szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
 
 a) a feldolgozóipari támogatások feltételei teljesítésének helyszíni ellenőrzése, valamint a helyszíni ellenőrzés során vett minták laboratóriumi vizsgálata;
 
@@ -45,3 +45,5 @@ u) a területalapú támogatásokhoz kapcsolódó adategyeztetés és helyszíni
 v) a támogatások igénybevételéhez kapcsolódó ügyfélszolgálat és tájékoztatás;
 
 x) az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó egyes támogatások keretében a kérelmek elbírálásához kapcsolódó, eseti szakvélemény nyújtása, valamint helyszíni ellenőrzések elvégzése.
+
+[^6]: Az 5. § nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet – 379/2016. (XII. 2.) Korm. rendelet 326. § (1) bekezdésével megállapított – 20. § (2) bekezdés c) pontja szerint módosított szöveg.
