@@ -4,4 +4,4 @@
 
 [^6]: A 6. §-t a 133/2015. (V. 27.) Korm. rendelet 2. §-a iktatta be.
 [^7]: A hatálybalépés időpontja 2015. május 28.
-[^8]: Az 1. melléklet a 133/2015. (V. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 57. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
