@@ -1,24 +1,24 @@
 ## 21. § A közigazgatási hatósági eljárásban felmerülő mintavételi, laboratóriumi, illetve az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázásakor felmerült személyi és dologi költségek – külön jogszabály eltérő rendelkezése hiányában – egyéb eljárási költségnek minősülnek. A felszámítható költségek mértékét külön jogszabály határozza meg.
 
-22. § (1)[^90] Az Eü.kamara tv. 21. § (4) bekezdésének alkalmazásában az egészségügyi államigazgatási szervként a Kormány az egészségügyi szolgáltatás nyújtásának helye szerint illetékes kormányhivatalt jelöli ki.
+22. § (1)[^91] Az Eü.kamara tv. 21. § (4) bekezdésének alkalmazásában az egészségügyi államigazgatási szervként a Kormány az egészségügyi szolgáltatás nyújtásának helye szerint illetékes kormányhivatalt jelöli ki.
 
 (2) Az Eütv.
 
-a)[^91] 140/A. § (9) bekezdésének a) pontja szerinti három személyt a megyei tisztifőorvos a kormányhivatal alkalmazottai közül jelöli ki,
+a)[^92] 140/A. § (9) bekezdésének a) pontja szerinti három személyt a megyei tisztifőorvos a kormányhivatal alkalmazottai közül jelöli ki,
 
-b)[^92] 140/E. § (5) bekezdésének b) pontja szerinti feladatok ellátása során egészségügyi államigazgatási szervként az egészségügyi szolgáltató működési engedélye szerint illetékes kormányhivatal jár el.
+b)[^93] 140/E. § (5) bekezdésének b) pontja szerinti feladatok ellátása során egészségügyi államigazgatási szervként az egészségügyi szolgáltató működési engedélye szerint illetékes kormányhivatal jár el.
 
-(3)[^93] Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. § (1) bekezdésének alkalmazása során egészségügyi államigazgatási szervként az egészségügyi dolgozó lakóhelye vagy az egészségügyi szolgáltató telephelye szerint illetékes kormányhivatal jár el.
+(3)[^94] Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. § (1) bekezdésének alkalmazása során egészségügyi államigazgatási szervként az egészségügyi dolgozó lakóhelye vagy az egészségügyi szolgáltató telephelye szerint illetékes kormányhivatal jár el.
 
 (4) Egészségügyi államigazgatási szervként a Kormány az Eüak.
 
-a)[^94] 15. § (1)–(3a), (7) és (8a) bekezdése alkalmazásában az érintett lakóhelye, tartózkodási helye, munkahelye vagy a megbetegedés helye szerint illetékes járási hivatalt,
+a)[^95] 15. § (1)–(3a), (7) és (8a) bekezdése alkalmazásában az érintett lakóhelye, tartózkodási helye, munkahelye vagy a megbetegedés helye szerint illetékes járási hivatalt,
 
-b)[^95]
+b)[^96]
 
 ## jelöli ki.
 
-(5)[^96] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási hivatalt jelöli ki a Kbtv.
+(5)[^97] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási hivatalt jelöli ki a Kbtv.
 
 a) 29. § (1) bekezdésének,
 
@@ -26,19 +26,19 @@ b) 32. § (1) bekezdés a) pontjának
 
 ## alkalmazásában.
 
-(6)[^97]
+(6)[^98]
 
-(7)[^98]
+(7)[^99]
 
-(8)[^99] A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter külön jogszabály szerint, a Szolgálat és a kormányhivatal útján látja el.
+(8)[^100] A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter külön jogszabály szerint, a Szolgálat és a kormányhivatal útján látja el.
 
-[^90]: A 22. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés d) pontja szerint módosított szöveg.
-[^91]: A 22. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.
-[^92]: A 22. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.
-[^93]: A 22. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.
-[^94]: A 22. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 78. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja, a 192/2015. (VII. 21.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
-[^95]: A 22. § (4) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 62. §-a hatályon kívül helyezte.
-[^96]: A 22. § (5) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja szerint módosított szöveg.
-[^97]: A 22. § (6) bekezdését a 39/2013. (II. 14.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^98]: A 22. § (7) bekezdését a 30/2015. (II. 25.) Korm. rendelet 56. § f) pontja hatályon kívül helyezte.
-[^99]: A 22. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^91]: A 22. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés d) pontja szerint módosított szöveg.
+[^92]: A 22. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^93]: A 22. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^94]: A 22. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^95]: A 22. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 78. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja, a 192/2015. (VII. 21.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^96]: A 22. § (4) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 62. §-a hatályon kívül helyezte.
+[^97]: A 22. § (5) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^98]: A 22. § (6) bekezdését a 39/2013. (II. 14.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^99]: A 22. § (7) bekezdését a 30/2015. (II. 25.) Korm. rendelet 56. § f) pontja hatályon kívül helyezte.
+[^100]: A 22. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.

@@ -778,6 +778,6 @@
 
 | 8. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye |
 
-4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^140]
+4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^143]
 
-[^140]: A 4. mellékletet a 473/2016. (XII. 27.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^143]: A 4. mellékletet a 473/2016. (XII. 27.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
