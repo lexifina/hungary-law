@@ -4,7 +4,7 @@
 
 a) az üzleti évet terhelő költségeknek a 9. § (5) és (6) bekezdésében meghatározott jogcímenkénti részletezését;
 
-b)[^46] az értékpapírok értékelési különbözetének értékpapír-sorozatonkénti részletezését;
+b)[^71] az értékpapírok értékelési különbözetének értékpapír-sorozatonkénti részletezését;
 
 c) értékpapíralapnál az alap tárcájában szereplő értékpapírok fajtánként, típusonként és kibocsátónként történő részletezését, azok beszerzési értékén és a mérleg fordulónapján kimutatott piaci értékén;
 
@@ -12,19 +12,19 @@ d) ingatlanalapnál az alap tárcájában szereplő ingatlanok részletezését 
 
 e) a 3. számú melléklet szerinti portfolió jelentést;
 
-f)[^47] a származtatott ügyletek ügylettípusonkénti szerződés szerinti értékét (kötési árfolyamát), várható eredményét (értékelési különbözetét, azaz piaci értékét), tárgyévben realizált eredményét, várható, illetve tényleges pénzáramlását;
+f)[^72] a származékos ügyletek ügylettípusonkénti szerződés szerinti értékét (kötési árfolyamát), várható eredményét (értékelési különbözetét, azaz piaci értékét), tárgyévben realizált eredményét, várható, illetve tényleges pénzáramlását;
 
-g)[^48] a kölcsönbe adott, illetve kölcsönbe vett értékpapírok szerződés szerinti értékét, a másodlagos értékpapírok beszerzési és piaci értékét, az óvadéki repoba adott és repoba vett értékpapírok miatt fennálló kötelezettség és követelés értékét;
+g)[^73] a kölcsönbe adott, illetve kölcsönbe vett értékpapírok szerződés szerinti értékét, a másodlagos értékpapírok beszerzési és piaci értékét, az óvadéki repoba adott és repoba vett értékpapírok miatt fennálló kötelezettség és követelés értékét;
 
-h)[^49] az alapkezelő által a befektetési alap befektetési jegyei után, a hozamra és a tőke megóvására tett ígéret értékét;
+h)[^74] az alapkezelő által a befektetési alap befektetési jegyei után, a hozamra és a tőke megóvására tett ígéret értékét;
 
-i)[^50] a 4. számú melléklet szerinti cash-flow kimutatást;
+i)[^75] a 4. számú melléklet szerinti cash-flow kimutatást;
 
-j)[^51] a kapott, illetve adott fedezetek, biztosítékok, óvadékok, garancia- és kezességvállalások összegét.
+j)[^76] a kapott, illetve adott fedezetek, biztosítékok, óvadékok, garancia- és kezességvállalások összegét.
 
-[^46]: A 10. § b) pontja a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^47]: A 10. § f) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^48]: A 10. § g) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^49]: A 10. § h) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^50]: A 10. § i) pontját a 325/2009. (XII. 29.) Korm. rendelet 40. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^51]: A 10. § j) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^71]: A 10. § b) pontja a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^72]: A 10. § f) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
+[^73]: A 10. § g) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^74]: A 10. § h) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^75]: A 10. § i) pontját a 325/2009. (XII. 29.) Korm. rendelet 40. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^76]: A 10. § j) pontját a 289/2001. (XII. 26.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
