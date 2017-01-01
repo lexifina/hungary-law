@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-53-20-2
 | --- | --- | --- |
 | 2016-12-22 | 2016-53-20-2C.1 | 53/2016. (XII. 21.) MNB rendelet |
 | 2016-12-23 | 2016-53-20-2C.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-53-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
