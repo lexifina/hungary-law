@@ -1,3 +1,3 @@
 ## Működési költségvetés
 
-10. § Az Alapok működtetésével kapcsolatos költségeket az Alapok kezelő szerveinek és igazgatási szerveinek költségvetésében kell biztosítani, amelyek forrása az Alapok pénzeszközei és a kezelő szervek, igazgatási szervek egyéb bevételei. A fővárosi és megyei kormányhivatalok kiadásai nem az Alapokat terhelik.
+10. § A Nyugdíjbiztosítási Alap működtetésével kapcsolatos költségeket a nyugdíjbiztosítási költségvetési szerv költségvetésében kell biztosítani, amelyek forrása a Nyugdíjbiztosítási Alap pénzeszközei és a nyugdíjbiztosítási költségvetési szerv egyéb bevételei. Az Egészségbiztosítási Alap működtetésével kapcsolatos költségeket az Egészségbiztosítási Alap költségvetésében kell meghatározni, amelyek forrása az Egészségbiztosítási Alap pénzeszközei és az Egészségbiztosítási Alap kezelőjének egyéb – az Egészségbiztosítási Alaphoz kapcsolódó – bevételei. A fővárosi és megyei kormányhivatalok kiadásai nem az Alapokat terhelik.

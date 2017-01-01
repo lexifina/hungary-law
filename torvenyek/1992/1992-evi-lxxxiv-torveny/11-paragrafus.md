@@ -4,13 +4,13 @@
 
 (2) Az Alapok kezelésével kapcsolatos kérdésekben
 
-a) a Nyugdíjbiztosítási Alap tekintetében a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+a) a Nyugdíjbiztosítási Alap tekintetében a központi nyugdíjbiztosítási szerv,
 
-b) az Egészségbiztosítási Alap tekintetében az egészségbiztosítási szerv
+b) az Egészségbiztosítási Alap tekintetében az egészségbiztosításért felelős miniszter,
 
 mint a vonatkozó pénzügyi alap kezelője dönt.
 
-(3) A Kormány az Alapokkal való gazdálkodást érintő, az egészségbiztosítási szerv és a nyugdíjbiztosítási igazgatási szerv jogkörébe utalt hatáskörök gyakorlására elveket és szabályokat állapíthat meg. Így különösen a Kormány határozza meg:
+(3) A Kormány az Alapokkal való gazdálkodást érintő, az Alapok kezelőinek jogkörébe utalt hatáskörök gyakorlására elveket és szabályokat állapíthat meg. Így különösen a Kormány határozza meg:
 
 a)–b)
 
@@ -20,7 +20,11 @@ d) a szakmai-pénzügyi ellenőrzés átfogó szempontjait.
 
 Az a)–c) pontokban foglaltakat nyilvánosságra kell hozni.
 
-(4) Az Alapok és kezelő szervezeteik – az e törvényben meghatározott eltérésekkel – a költségvetési szervezetekre vonatkozó gazdálkodási, pénzügyi, elszámolási és számviteli rendet alkalmazzák. A társadalombiztosítás pénzügyi rendszerének sajátosságaiból adódó további eltérő szabályokról külön törvény rendelkezhet.
+(3a) Az államháztartásról szóló 2011. évi CXCV. törvény 6/B. § (3) bekezdése alapján jogszabályban kijelölt kezelő szerv ellátja az Egészségbiztosítási Alap kezelésével kapcsolatban a kijelölő jogszabályban meghatározott feladatokat.
+
+(3b) E törvény alkalmazása során az Egészségbiztosítási Alap kezelője alatt a (3a) bekezdés szerinti esetben a jogszabályban kijelölt kezelő szervet, egyéb esetekben a (2) bekezdés b) pontja szerinti irányító szervet kell érteni.
+
+(4) Az Alapok és kezelőik – az e törvényben meghatározott eltérésekkel – a költségvetési szervezetekre vonatkozó gazdálkodási, pénzügyi, elszámolási és számviteli rendet alkalmazzák. A társadalombiztosítás pénzügyi rendszerének sajátosságaiból adódó további eltérő szabályokról külön törvény rendelkezhet.
 
 (5)
 
@@ -34,6 +38,6 @@ Az a)–c) pontokban foglaltakat nyilvánosságra kell hozni.
 
 (10)–(11)
 
-(12) Az E. Alap kezelője köteles a Kormány részére negyedévente a keresőképesség elbírálásával, a munkaképesség csökkenés megállapításával és a gyógyszerfelhasználással kapcsolatos ellenőrzésekről készült jelentést, az ellenőrzés megállapításaihoz kapcsolódó intézkedések tervezetét megküldeni.
+(12)
 
 (13)
