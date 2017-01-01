@@ -2,8 +2,9 @@
 
 4. § (1) Ez a rendelet 2003. január 1-jén lép hatályba.
 
-(2)[^7] A Megállapodásban hivatkozott ,,illetékes hatóság'' kifejezés alatt hazánk tekintetében a Nemzeti Közlekedési Hatóság Közúti Gépjármű-közlekedési Hivatalát kell érteni.
+(2)[^7] A Megállapodásban hivatkozott ,,illetékes hatóság'' kifejezés alatt hazánk tekintetében a közlekedésért felelős miniszter által vezetett minisztériumot kell érteni.
 
-(3) Ezen rendelet végrehajtásának részletes szabályairól a gazdasági és közlekedési miniszter rendeletben gondoskodik.
+(3)[^8] Ezen rendelet végrehajtásának részletes szabályairól a közlekedésért felelős miniszter rendeletben gondoskodik.
 
-[^7]: A 4. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 100. §-a szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 54. § b) pontja szerint módosított szöveg.
