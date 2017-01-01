@@ -10,7 +10,7 @@
 
 (5)[^5]
 
-Melléklet az 55/2009. (X. 16.) IRM rendelethez
+Melléklet az 55/2009. (X. 16.) IRM rendelethez[^6]
 
 A kerékbilincs alkalmazásával és a jármű elszállításával kapcsolatos költségek
 
@@ -36,6 +36,7 @@ A kerékbilincs alkalmazásával és a jármű elszállításával kapcsolatos k
 
 | 6. | Az 1–5. pontban foglalt költségek általános forgalmi adót nem tartalmaznak. |
 
-| 7. | A település lakosságszámának 1. pont szerinti meghatározása esetén a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának az adott év január 1-jei állapot szerint közzétett adatai az irányadók. |
+| 7. | A település lakosságszámának 1. pont szerinti meghatározása esetén a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervnek az adott év január 1-jei állapot szerint közzétett adatai az irányadók. |
 
 [^5]: A 20. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^6]: A Melléklet az 58/2016. (XII. 22.) BM rendelet 23. §-a szerint módosított szöveg.
