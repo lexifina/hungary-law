@@ -4,4 +4,6 @@ a) a hitel, valamint a kezességvállalás támogatástartalmát is figyelembe v
 
 b) a támogatás nem haladhatja meg az egyedi vállalkozásoknak a mezőgazdasági csoportmentességi rendelet 4. cikkének (9) bekezdése alapján nyújtható legmagasabb összeget.
 
-(2) Az MVH a fejlesztési pályázat elbírálásánál az (1) bekezdésben előírtak szerint jár el.
+(2)[^37] A Kincstár a fejlesztési pályázat elbírálásánál az (1) bekezdésben előírtak szerint jár el.
+
+[^37]: A 9. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 15. § c) pontja szerint módosított szöveg.
