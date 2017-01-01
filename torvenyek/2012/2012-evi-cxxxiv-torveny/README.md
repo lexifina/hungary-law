@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-134-00-00
 | 2016-01-01 | 2014. évi XCV. törvény | 2012-134-00-00.15 |
 | 2016-05-20 | 2015. évi CCXXIV. törvény | 2012-134-00-00.16 |
 | 2016-12-21 | 2016. évi CXXXV. törvény | 2012-134-00-00.17 |
+| 2017-01-01 | 2016. évi CXXXV. törvény | 2012-134-00-00.18 |
