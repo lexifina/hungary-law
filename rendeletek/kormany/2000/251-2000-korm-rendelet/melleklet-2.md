@@ -98,6 +98,6 @@
 
 ## 15. Származékos ügyletek negatív értékelési különbözete
 
-2. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^155]
+2. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^137]
 
-[^155]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
+[^137]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.

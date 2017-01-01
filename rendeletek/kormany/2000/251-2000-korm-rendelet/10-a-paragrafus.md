@@ -1,6 +1,6 @@
-## Sajátos szállításos repo ügyletek elszámolása[^94]
+## Sajátos szállításos repo ügyletek elszámolása[^86]
 
-10/A. §[^95] (1) Sajátos szállításos repo ügyletnek minősül az olyan szállításos repo ügylet, amely megfelel az alábbi feltételeknek:
+10/A. §[^87] (1) Sajátos szállításos repo ügyletnek minősül az olyan szállításos repo ügylet, amely megfelel az alábbi feltételeknek:
 
 a) az értékpapír eladási ára a piaci értékével összhangban kerül meghatározásra,
 
@@ -28,5 +28,5 @@ b) valamely fél nem teljesíti a szerződésből adódóan fennálló köteleze
 
 (7) A (6) bekezdés esetében a futamidő végén történő visszaszolgáltatás érdekében beszerzett értékpapírt a repoba adóval szembeni kötelezettség csökkentésével egyidejűleg kell a könyvekből kivezetni és azok értéke között fennálló különbözetet a kamatbevételek, illetve a kamatráfordítások között kell elszámolni, jellegétől függően.
 
-[^94]: A 10/A. §-t megelőző alcímet a 246/2008. (X. 10.) Korm. rendelet 2. §-a iktatta be.
-[^95]: A 10/A. §-t a 246/2008. (X. 10.) Korm. rendelet 2. §-a iktatta be.
+[^86]: A 10/A. §-t megelőző alcímet a 246/2008. (X. 10.) Korm. rendelet 2. §-a iktatta be.
+[^87]: A 10/A. §-t a 246/2008. (X. 10.) Korm. rendelet 2. §-a iktatta be.
