@@ -12,7 +12,7 @@ céljából 1 naptári évre adható ki. A halászati engedélyben meg kell jel�
 
 (3) A halászati engedély kiadásának feltétele, hogy a kérelmező rendelkezzen az érintett nyilvántartott halgazdálkodási vízterület halgazdálkodásra jogosultjával kötött, a halászati tevékenység végzésének részletes feltételeit tartalmazó szerződéssel (a továbbiakban: halászati szerződés). A halászati szerződés megszűnése esetén a halászati engedélyt a halgazdálkodási hatóság visszavonja.
 
-(4)[^33] A halászati szerződésben a halgazdálkodásra jogosult meghatározza a Hhvtv. és e rendelet előírásainak keretében azokat a fogási eszközöket és módokat, amelyeket a halászati engedélyes használhat, továbbá meghatározza a kifogható halak mennyiségét, valamint azt az ellenértéket, amellyel a halászati engedélyesnek évenként hozzá kell járulnia a nyilvántartott halgazdálkodási vízterület halgazdálkodási tevékenységéhez, a haltelepítésekhez.
+(4)[^30] A halászati szerződésben a halgazdálkodásra jogosult meghatározza a Hhvtv. és e rendelet előírásainak keretében azokat a fogási eszközöket és módokat, amelyeket a halászati engedélyes használhat, továbbá meghatározza a kifogható halak mennyiségét, valamint azt az ellenértéket, amellyel a halászati engedélyesnek évenként hozzá kell járulnia a nyilvántartott halgazdálkodási vízterület halgazdálkodási tevékenységéhez, a haltelepítésekhez.
 
 (5) A halászati engedély iránti kérelemhez mellékelni kell
 
@@ -40,9 +40,9 @@ ca) varsa esetén legfeljebb 2 m első karika-átmérőjű,
 
 cb) egyéb eszköz esetén pedig legfeljebb 21 m2 hálóterületű halászeszköz lehet.
 
-(11)[^34] A kereskedelmi célú halászati engedéllyel rendelkező az általa használt valamennyi passzív halászeszközt úgy köteles megjelölni, hogy abból az engedélyes egyértelműen azonosítható legyen. A használni tervezett megjelölést a halászati engedély iránti kérelemhez mellékelni kell.
+(11)[^31] A kereskedelmi célú halászati engedéllyel rendelkező az általa használt valamennyi passzív halászeszközt úgy köteles megjelölni, hogy abból az engedélyes egyértelműen azonosítható legyen. A használni tervezett megjelölést a halászati engedély iránti kérelemhez mellékelni kell.
 
-(11a)[^35] A halgazdálkodási hatóság a (11) bekezdés szerinti jelölésről bárki számára térítésmentesen felvilágosítást nyújt.
+(11a)[^32] A halgazdálkodási hatóság a (11) bekezdés szerinti jelölésről bárki számára térítésmentesen felvilágosítást nyújt.
 
 (12) A kereskedelmi célú halászati engedélyes köteles bejelenteni a halgazdálkodásra jogosultnak
 
@@ -52,30 +52,30 @@ b) a fogási zsákmány GPS koordinátákkal meghatározott kirakodási helyét,
 
 (13) A halászati engedélyes kizárólag a (12) bekezdés szerint bejelentett helyen és időben rakodhatja ki a fogási zsákmányt.
 
-(14)[^36] A kereskedelmi célú halászati engedély jogosultja által használt passzív halászeszközök csak úgy helyezhetők ki, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott eszköz teljes hosszának tízszeresénél, de legalább 50 méternél.
+(14)[^33] A kereskedelmi célú halászati engedély jogosultja által használt passzív halászeszközök csak úgy helyezhetők ki, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott eszköz teljes hosszának tízszeresénél, de legalább 50 méternél.
 
 (15) A halászati szerződésben a halgazdálkodásra jogosult kereskedelmi célú halászati engedély esetében a (9)–(14) bekezdésben meghatározottaktól szigorúbb korlátozásokat írhat elő, ha ezt halgazdálkodási tervében rögzíti.
 
-(15a)[^37] Az ökológiai célú, szelektív halászatra vonatkozó halászati engedély kiadásának feltétele, hogy a jóváhagyott halgazdálkodási terv tartalmazza az ökológiai célú, szelektív halászat e rendeletben meghatározott feltételeit.
+(15a)[^34] Az ökológiai célú, szelektív halászatra vonatkozó halászati engedély kiadásának feltétele, hogy a jóváhagyott halgazdálkodási terv tartalmazza az ökológiai célú, szelektív halászat e rendeletben meghatározott feltételeit.
 
 (16) Más hasznos víziállat gyűjtése során a halgazdálkodásra jogosult a halászati szerződésben köteles meghatározni a gyűjthető hasznos víziállat megnevezését, a használható gyűjtőeszközt és módszert, valamint a gyűjtés engedélyezett időszakát és a más hasznos víziállat gyűjthető mennyiségét.
 
-(17)[^38] Nyilvántartott halgazdálkodási vízterületenként legfeljebb 10 db vagy 2000 hektárnál nagyobb nyilvántartott halgazdálkodási vízterület esetén legfeljebb 200 hektáronként 1 db kereskedelmi célú halászatra jogosító halászati engedély adható ki, ide nem értve a más hasznos víziállat gyűjtésére kiadott halászati engedélyt.
+(17)[^35] Nyilvántartott halgazdálkodási vízterületenként legfeljebb 10 db vagy 2000 hektárnál nagyobb nyilvántartott halgazdálkodási vízterület esetén legfeljebb 200 hektáronként 1 db kereskedelmi célú halászatra jogosító halászati engedély adható ki, ide nem értve a más hasznos víziállat gyűjtésére kiadott halászati engedélyt.
 
-(18)[^39] Nem jogi személy számára kiadott halászati engedéllyel a halászati szerződésben meghatározott mennyiségű hal fogható, amely őshonos halakból nem haladhatja meg a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló miniszteri rendelet szerint értékesíthető éves mennyiséget.
+(18)[^36] Nem jogi személy számára kiadott halászati engedéllyel a halászati szerződésben meghatározott mennyiségű hal fogható, amely őshonos halakból nem haladhatja meg a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló miniszteri rendelet szerint értékesíthető éves mennyiséget.
 
 (19) Jogi személy számára kiadott halászati engedélyben legfeljebb hektáronként 20 kg őshonos hal kifogása engedélyezhető évente.
 
-(20)[^40] Ha adott halászati engedélyes az (1) bekezdés a) és b) pontjában foglalt halászati engedéllyel is rendelkezik, egyidejűleg csak az egyik halászati engedélye alapján végezhet halászati tevékenységet.
+(20)[^37] Ha adott halászati engedélyes az (1) bekezdés a) és b) pontjában foglalt halászati engedéllyel is rendelkezik, egyidejűleg csak az egyik halászati engedélye alapján végezhet halászati tevékenységet.
 
-(21)[^41] Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.
+(21)[^38] Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.
 
-[^33]: A 17. § (4) bekezdése a 44/2014. (IV. 14.) VM rendelet 26. §-a szerint módosított szöveg.
-[^34]: A 17. § (11) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^35]: A 17. § (11a) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (1) bekezdése iktatta be.
-[^36]: A 17. § (14) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^37]: A 17. § (15a) bekezdését az 56/2015. (IX. 24.) FM rendelet 4. § (2) bekezdése iktatta be.
-[^38]: A 17. § (17) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^39]: A 17. § (18) bekezdése az 56/2015. (IX. 24) FM rendelet 22. § 15. pontja szerint módosított szöveg.
-[^40]: A 17. § (20) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be.
-[^41]: A 17. § (21) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be.
+[^30]: A 17. § (4) bekezdése a 44/2014. (IV. 14.) VM rendelet 26. §-a szerint módosított szöveg.
+[^31]: A 17. § (11) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^32]: A 17. § (11a) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (1) bekezdése iktatta be.
+[^33]: A 17. § (14) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^34]: A 17. § (15a) bekezdését az 56/2015. (IX. 24.) FM rendelet 4. § (2) bekezdése iktatta be.
+[^35]: A 17. § (17) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^36]: A 17. § (18) bekezdése az 56/2015. (IX. 24) FM rendelet 22. § 15. pontja szerint módosított szöveg.
+[^37]: A 17. § (20) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be.
+[^38]: A 17. § (21) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be.

@@ -1,22 +1,13 @@
-11. § (1)[^26] Tömeges halpusztulás esetén – a vízvédelmi hatóság értesítése mellett – a halgazdálkodási hatóság a vízszennyezés, illetve vízminőség romlás körülményeinek vizsgálata érdekében önállóan is jogosult vízmintavételre.
+11. §[^26] (1) Tömeges hal-, illetve más hasznos víziállat-pusztulás (a továbbiakban együtt: halpusztulás) észlelése esetén a halgazdálkodási hatóság értesíti a növény- és talajvédelmi hatáskörében eljáró járási hivatalt (a továbbiakban: növény- és talajvédelmi hatóság). A tömeges halpusztulásról a vízvédelmi hatóságot is tájékoztatni kell.
 
-(2) Az (1) bekezdés szerinti vízmintavételt a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben foglaltak szerint kell elvégezni.
+(2) A növény- és talajvédelmi hatóság vízmintavételt végez. Ha a halpusztulás feltételezhető oka felszíni vízbe való szennyvízbevezetés, a szennyvízből, illetve a befogadó vízből a szennyvíz betorkollása alatt és felett 3-3 hatósági vízmintát kell gyűjteni a halgazdálkodási hatóság képviselőjének jelenlétében. Egy-egy sorozat vízminta a halgazdálkodásra jogosultnál, illetve a feltételezett károkozónál marad, a minta harmadik sorozata a vizsgálatok elvégzésére szolgál.
 
-(3) A vízszennyezés vizsgálata érdekében vett vízminta, valamint a halpusztulás kivizsgálása körében felmerült költségek egyéb eljárási költségnek minősülnek.
+(3) A Hhvtv. 18. § (3) bekezdése szerinti vízélettani laboratórium feladatait a NÉBIH vízélettani laboratóriuma, valamint a Nemzeti Agrárkutatási és Innovációs Központ szarvasi telephelyének laboratóriuma látja el.
 
-(4) A Hhvtv. 18. § (3) bekezdése szerinti vízélettani laboratórium feladatait
+(4) A vízszennyezés vizsgálata érdekében végzett mintavételezés és laborvizsgálat, valamint a halpusztulás kivizsgálása körében felmerült további költségek egyéb eljárási költségnek minősülnek.
 
-a)[^27] területi illetékességgel a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: növény- és talajvédelmi hatóság),
+(5) Fertőző halbetegség gyanúja esetén a halgazdálkodásra jogosult köteles értesíteni az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalt (a továbbiakban: állategészségügyi hatóság), amely megteszi a szükséges intézkedéseket.
 
-b) több megyét érintő illetékességgel a Nemzeti Élelmiszerlánc-biztonsági Hivatal Gödöllői Vízélettani Laboratóriuma, valamint a Nemzeti Agrárkutatási és Innovációs Központ Halászati Kutató Intézet Akkreditált Környezetanalitikai Laboratóriuma
+(6) Az állategészségügyi hatóság az (5) bekezdés szerinti esetben a vízből, a haltetemből és szükség szerint a takarmányból mintát vesz. A minták laboratóriumi vizsgálatát a NÉBIH állategészségügyi diagnosztikai laboratóriuma végzi.
 
-látja el.
-
-(5)[^28] A szennyvízből, valamint a befogadó vízből a szennyvíz betorkollása alatt és felett 3-3 hatósági vízmintát kell gyűjteni a növény- és talajvédelmi hatóság, illetve a halgazdálkodási hatóság képviselőjének jelenlétében. Egy-egy sorozat vízminta a halgazdálkodásra jogosultnál, illetve a feltételezett károkozónál marad, a minta harmadik sorozata a vizsgálatok elvégzésére szolgál.
-
-(6)[^29] Halbetegség gyanúja esetén a halgazdálkodásra jogosult köteles értesíteni az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatalt (a továbbiakban: állategészségügyi hatóság), amely megteszi a szükséges intézkedéseket. A beteg halat vagy a friss haltetemet a halgazdálkodásra jogosult az állatorvos vizsgálati megrendelésével juttatja el az állategészségügyi hatóságnak.
-
-[^26]: A 11. § (1) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
-[^27]: A 11. § (4) bekezdés a) pontja az 56/2015. (IX. 24.) FM rendelet 22. § 8. pontja szerint módosított szöveg.
-[^28]: A 11. § (5) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 9. pontja szerint módosított szöveg.
-[^29]: A 11. § (6) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 10. és 11. pontja szerint módosított szöveg.
+[^26]: A 11. § a 89/2016. (XII. 29.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.

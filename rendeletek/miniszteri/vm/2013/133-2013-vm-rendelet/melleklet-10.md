@@ -38,11 +38,11 @@
 
 A halász, illetve horgász fogási napló kötelező adattartalma:
 
-1.[^172] Kiállító halgazdálkodási hatóság, illetve a kiállító hatósággal szerződő, a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet, illetve a forgalmazással megbízott neve, címe
+1.[^174] Kiállító halgazdálkodási hatóság, illetve a kiállító hatósággal szerződő, a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet, illetve a forgalmazással megbízott neve, címe
 
-2.[^173]
+2.[^175]
 
-3.[^174] Fogási napló halfogások összesítéséhez a kiállítás évének feltüntetésével, valamint annak jelzése, hogy a kiállítás napjától a következő év január 31-ig érvényes
+3.[^176] Fogási napló halfogások összesítéséhez a kiállítás évének feltüntetésével, valamint annak jelzése, hogy a kiállítás napjától a következő év január 31-ig érvényes
 
 4. Állami horgászjegy, állami halászjegy, vagy halászati engedély száma
 
@@ -52,19 +52,19 @@ A halász, illetve horgász fogási napló kötelező adattartalma:
 
 7. Kiállítás helye, ideje
 
-8.[^175] Kiállító halgazdálkodási hatóság, vagy a forgalmazással megbízott aláírása, bélyegzője
+8.[^177] Kiállító halgazdálkodási hatóság, vagy a forgalmazással megbízott aláírása, bélyegzője
 
 9. Tájékoztató a fogási napló vezetésének szabályairól
 
-10.[^176] Éves, illetve 13 hónapra kiterjedő, a tárgyév január 1-jétől a következő év január 31-ig terjedő naptár a horgászat, illetve a halászat időpontjának megjelöléséhez
+10.[^178] Éves, illetve 13 hónapra kiterjedő, a tárgyév január 1-jétől a következő év január 31-ig terjedő naptár a horgászat, illetve a halászat időpontjának megjelöléséhez
 
 11. Horgászattal vagy halászattal eltöltött napok száma, melyet az engedélyes összesít a fogási napló leadása előtt
 
 12. Fogásösszesítő táblázat a fogási napló tárgyévére, mely tartalmazza
 
-a)[^177] A halgazdálkodási vízterület megnevezését, víztérkódját;
+a)[^179] A halgazdálkodási vízterület megnevezését, víztérkódját;
 
-b)[^178] A fogás időpontját (hónap, nap, emellett a napi darabszám-korlátozás alá eső halak rovatainál óra, perc feltüntetésével);
+b)[^180] A fogás időpontját (hónap, nap, emellett a napi darabszám-korlátozás alá eső halak rovatainál óra, perc feltüntetésével);
 
 c) Kifogott halak mennyiségi adatait
 
@@ -74,13 +74,13 @@ cb) Az alábbi halfajokat faj szerinti bontásban, kilogramm szerint kell megadn
 
 cc) ezenkívül az egyéb őshonos halfajokat együttesen kilogrammban, valamint az egyéb idegenhonos halfajokat együttesen szintén kilogrammban kell megadni;
 
-d)[^179] Az alábbi iránymutatásokat tartalmazó szöveget: „A fogási naplóba a hal becsült testtömegadatait 0,5 kg pontossággal kell beírni. A napi darabszám-korlátozás alá tartozó halfajok testtömegadatait egyedenként (darabonként) kell rögzíteni. A nem nyilvántartott halgazdálkodási vízterületeken kifogott (idegenhonos halfajok egyedeiből álló) zsákmányt is be kell írni dátummal és a nem nyilvántartott halgazdálkodási vízterület megnevezésével, a víztérkód rovat kihúzásával.”
+d)[^181] Az alábbi iránymutatásokat tartalmazó szöveget: „A fogási naplóba a hal becsült testtömegadatait 0,5 kg pontossággal kell beírni. A napi darabszám-korlátozás alá tartozó halfajok testtömegadatait egyedenként (darabonként) kell rögzíteni. A nem nyilvántartott halgazdálkodási vízterületeken kifogott (idegenhonos halfajok egyedeiből álló) zsákmányt is be kell írni dátummal és a nem nyilvántartott halgazdálkodási vízterület megnevezésével, a víztérkód rovat kihúzásával.”
 
 13. Tájékoztatás a védett és fokozottan védett fajokról, a fogható és a nem fogható őshonos halfajokról, valamint a vizeinkben rendszeresen előforduló idegenhonos halfajokról, továbbá ezen fajokra vonatkozó legfontosabb tudnivalókról
 
 14. Tájékoztatás az őshonos, fogható halfajok fajlagos tilalmi idejéről, kifogható mérettartományáról, valamint a horgászatra és a rekreációs célú halászatra vonatkozó napi kifogható darabszámokról
 
-15.[^180] Éves, illetve 13 hónapra kiterjedő fogásösszesítő táblázat, amely tartalmazza:
+15.[^182] Éves, illetve 13 hónapra kiterjedő fogásösszesítő táblázat, amely tartalmazza:
 
 a) a halgazdálkodási vízterület megnevezését, víztérkódját;
 
@@ -88,21 +88,21 @@ b) az év, illetve a 13 hónap során kifogott halak mennyiségi adatait halgazd
 
 c) az év, illetve a 13 hónap során összesen kifogott halak mennyiségi adatait a 12. c) pontban szereplő bontásban.
 
-16.[^181] Az okmányról leválasztható igazoló szelvény, amellyel forgalmazásra megbízott igazolhatja, hogy az engedélyes a fogási naplót szabályszerűen leadta
+16.[^183] Az okmányról leválasztható igazoló szelvény, amellyel forgalmazásra megbízott igazolhatja, hogy az engedélyes a fogási naplót szabályszerűen leadta
 
-17.[^182] A halászati őrök, társadalmi halőrök hivatalos ellenőrzési bejegyzései rovat
+17.[^184] A halászati őrök, társadalmi halőrök hivatalos ellenőrzési bejegyzései rovat
 
-18.[^183] A kiállító halgazdálkodási hatóság, valamint a kiállító hatósággal szerződő, a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet honlapja, elektronikus elérhetősége, valamint hivatalos logója
+18.[^185] A kiállító halgazdálkodási hatóság, valamint a kiállító hatósággal szerződő, a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet honlapja, elektronikus elérhetősége, valamint hivatalos logója
 
-[^172]: A 10. melléklet 1. pontja a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^173]: A 10. melléklet 2. pontját a 87/2015. (XII. 21.) FM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^174]: A 10. melléklet 3. pontja a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^175]: A 10. melléklet 8. pontja a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^176]: A 10. melléklet 10. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^177]: A 10. melléklet 12. a) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^178]: A 10. melléklet 12. b) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^179]: A 10. melléklet 12. d) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^180]: A 10. melléklet 15. pontját az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdése iktatta be.
-[^181]: A 10. melléklet 16. pontját a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
-[^182]: A 10. melléklet 17. pontját a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
-[^183]: A 10. melléklet 18. pontját a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
+[^174]: A 10. melléklet 1. pontja a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^175]: A 10. melléklet 2. pontját a 87/2015. (XII. 21.) FM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^176]: A 10. melléklet 3. pontja a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^177]: A 10. melléklet 8. pontja a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^178]: A 10. melléklet 10. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^179]: A 10. melléklet 12. a) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^180]: A 10. melléklet 12. b) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^181]: A 10. melléklet 12. d) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^182]: A 10. melléklet 15. pontját az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdése iktatta be.
+[^183]: A 10. melléklet 16. pontját a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
+[^184]: A 10. melléklet 17. pontját a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
+[^185]: A 10. melléklet 18. pontját a 87/2015. (XII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.

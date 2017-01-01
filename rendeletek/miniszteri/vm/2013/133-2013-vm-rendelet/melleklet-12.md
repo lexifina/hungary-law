@@ -1,4 +1,4 @@
-## I. rész[^184]
+## I. rész[^186]
 
 ## Halászati őr és társadalmi halőr esküjének letételéről szóló esküokmány adattartalmáról
 
@@ -34,7 +34,7 @@
 
 ## Esküvevő aláírása
 
-## II. rész[^185]
+## II. rész[^187]
 
 ## Halászati őri vizsga és továbbképzési vizsga bizonyítványának adattartalma
 
@@ -76,7 +76,7 @@
 
 ## 3. Egyedi logó: Sötétkék kör alakú mezőben a ponty faj (Cyprinus carpio) fehér színű, jobbra néző sematikus ábrázolása helyezkedik el, alatta fekete színű „HALÁSZATI ŐR” félkör felirat található.
 
-## IV/A. RÉSZ[^186]
+## IV/A. RÉSZ[^188]
 
 ## AZ ÁLLAMI HALÁSZATI ŐR SZOLGÁLATI JELVÉNYE
 
@@ -92,7 +92,7 @@
 
 ## 1. „Halászati őr / Társadalmi halőr szolgálati naplója” felirat
 
-## 2.[^187] Kiállító halgazdálkodási hatóság megnevezése
+## 2.[^189] Kiállító halgazdálkodási hatóság megnevezése
 
 ## 3. Sorszám
 
@@ -114,7 +114,7 @@
 
 ## 9. Kiállítás helye, időpontja
 
-## 10.[^188] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
+## 10.[^190] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
 ## 11. A napló belső oldalainak tartalma:
 
@@ -128,7 +128,7 @@
 
 ## e) Megjegyzés (ellenőrzés vagy egyéb bejegyzés)
 
-## VI. rész[^189]
+## VI. rész[^191]
 
 ## Társadalmi halőr szolgálati igazolványának adattartalma
 
@@ -158,14 +158,14 @@
 
 ## Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
-12. melléklet a 133/2013. (XII. 29.) VM rendelethez[^190]
+12. melléklet a 133/2013. (XII. 29.) VM rendelethez[^192]
 
 Horgászati, halászati és halászati őrzési tevékenységekhez kapcsolódó díjak
 
-[^184]: A 11. melléklet I. része az 56/2015. (IX. 24) FM rendelet 22. § 19. és 41. pontja szerint módosított szöveg.
-[^185]: A 11. melléklet II. része az 56/2015. (IX. 24.) FM rendelet 22. § 45. pontja szerint módosított szöveg.
-[^186]: A 11. melléklet IV/A. részét az 56/2015. (IX. 24.) FM rendelet 21. § (4) bekezdése iktatta be.
-[^187]: A 11. melléklet V. rész 2. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
-[^188]: A 11. melléklet V. rész 10. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
-[^189]: A 11. melléklet VI. része az 56/2015. (IX. 24.) FM rendelet 22. § 45. pontja szerint módosított szöveg.
-[^190]: A 12. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (1) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 18. pontja, a 87/2015. (XII. 21.) FM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^186]: A 11. melléklet I. része az 56/2015. (IX. 24) FM rendelet 22. § 19. és 41. pontja szerint módosított szöveg.
+[^187]: A 11. melléklet II. része az 56/2015. (IX. 24.) FM rendelet 22. § 45. pontja szerint módosított szöveg.
+[^188]: A 11. melléklet IV/A. részét az 56/2015. (IX. 24.) FM rendelet 21. § (4) bekezdése iktatta be.
+[^189]: A 11. melléklet V. rész 2. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^190]: A 11. melléklet V. rész 10. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^191]: A 11. melléklet VI. része az 56/2015. (IX. 24.) FM rendelet 22. § 45. pontja szerint módosított szöveg.
+[^192]: A 12. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (1) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 18. pontja, a 87/2015. (XII. 21.) FM rendelet 6. § (3) bekezdése szerint módosított szöveg.
