@@ -1,8 +1,8 @@
 3. § (1) Ez a rendelet 2008. július 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően kezdeményezett eljárásokra kell alkalmazni.
 
-(2)[^4]
+(2)[^6]
 
-Melléklet a 9/2008. (VI. 30.) KHEM rendelethez[^5]
+Melléklet a 9/2008. (VI. 30.) KHEM rendelethez[^7]
 
 A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
@@ -90,5 +90,5 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | 7. Gazdasági egyensúly veszélyeztetettségének vizsgálata | 358 000 |
 
-[^4]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^5]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 11–12. §-a, az 59/2015. (IX. 30.) NFM rendelet 15. §-a, a 33/2016. (VIII. 2.) NFM rendelet 7. § b)–d) pontja és 8. §-a szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^7]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 11–12. §-a, az 59/2015. (IX. 30.) NFM rendelet 15. §-a, a 33/2016. (VIII. 2.) NFM rendelet 7. § b)–d) pontja és 8. §-a szerint módosított szöveg.
