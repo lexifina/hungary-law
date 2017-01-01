@@ -16,7 +16,11 @@ d)–e)
 
 f) olyan, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat, amelyben a dohányrészecskék tömegének több mint 25 százaléka kisebb mint 1,5 milliméter szélességűre vágott (a továbbiakban: finomra vágott fogyasztási dohány),
 
-g) az f) pont alá nem tartozó, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat (a továbbiakban: egyéb fogyasztási dohány) [a továbbiakban: az f) és g) pont együtt: fogyasztási dohány].
+g) az f) pont alá nem tartozó, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat (a továbbiakban: egyéb fogyasztási dohány) [a továbbiakban: az f) és g) pont együtt: fogyasztási dohány],
+
+h) a töltőfolyadék,
+
+i) az új dohánytermék-kategóriák.
 
 (2) Kész dohányvágat alatt olyan dohánygyártmányt kell érteni, amely pipadohány esetében pipában történő elszívásra, cigaretta dohány esetében kézi töltésű cigaretta elkészítésére szolgál, beleértve a dohányzásra alkalmas, ilyenkénti értékesítésre felkínált dohánytörmeléket is. Dohánytörmeléknek kell tekinteni a dohány feldolgozása és a dohánytermékek előállítása során keletkező dohánylevél-maradványokat és melléktermékeket.
 

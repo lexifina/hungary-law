@@ -126,7 +126,7 @@ b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. októb
 
 27. jövedéki ügy: a jövedéki termékkel, az adójeggyel, a zárjeggyel összefüggő adó- és egyéb kötelezettségek teljesítése, hatósági felügyelete, jövedéki ellenőrzése és az ezekkel kapcsolatos eljárás;
 
-28. jövedéki adóügy: az olyan jövedéki ügy, amely a jövedéki adóztatási feladat ellátásával függ össze – ideértve az adójeggyel megfizetett általános forgalmi adó bevallását és az egyéb adókötelezettségek teljesítését, ellenőrzését is –, valamint az ezekkel kapcsolatos eljárás;
+28. jövedéki adóügy: az olyan jövedéki ügy, amely a jövedéki adóztatási feladat ellátásával függ össze – ideértve az egyéb adókötelezettségek teljesítését, ellenőrzését is –, valamint az ezekkel kapcsolatos eljárás;
 
 29. importáló: az a személy, aki először szerez jogot arra, hogy az importált termék felett saját nevében rendelkezzen, illetve ilyen személy hiányában az, aki az adófizetési kötelezettség keletkezésének időpontjában az importált jövedéki terméket birtokolja;
 
@@ -204,4 +204,8 @@ használnak fel.
 
 57. fermentált dohány: az a dohány, amelyben a megfelelő eljárások mellett olyan változások játszódtak le, amelyek következtében a dohány élvezeti célra alkalmassá vált;
 
-58. dohánylevél-töltő: az a kizárólag emberi erővel – így különösen nem elemmel, akkumulátorral, vagy elektromos áramforrásról – működtethető eszköz, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére szolgál.
+58. dohánylevél-töltő: az a kizárólag emberi erővel – így különösen nem elemmel, akkumulátorral, vagy elektromos áramforrásról – működtethető eszköz, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére szolgál;
+
+59. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak vagy olyan folyadéknak, amely az elektronikus cigarettába a gyártási folyamat során kerül betöltésre, ideértve az elektronikus cigaretta utántöltésére szolgáló folyadékot is (a továbbiakban: töltőfolyadék) nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermékek;
+
+60. elektronikus cigaretta: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerinti elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz.

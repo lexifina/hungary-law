@@ -10,7 +10,7 @@
 
 a) a kereskedő üzelethelyiségének, a kereskedelmi raktárának, az üzemanyagtöltő állomásnak, a kiskereskedelmi tárolótelepnek az árukészletét ellenőrizheti, abból szakértői vizsgálat céljára mintát vehet, az e törvényben előírt, külön vezetett nyilvántartásokat, továbbá az üzleti könyveket vizsgálhatja, az árukészlet mennyiségét, eredetét, adózott vagy adózatlan voltát megállapíthatja;
 
-b) ellenőrizheti, hogy a nem jövedéki engedélyes kereskedő a jövedéki termékek tekintetében az áfatörvény szerinti nyugtakibocsátási kötelezettségének, illetve az e törvényben előírt számlaadásra vonatkozó kötelezettségének eleget tesz-e, a dohánygyártmányok adójegyén feltüntetett ártól eltérő árat érvényesít-e;
+b) ellenőrizheti, hogy a nem jövedéki engedélyes kereskedő a jövedéki termékek tekintetében az áfatörvény szerinti nyugtakibocsátási kötelezettségének, illetve az e törvényben előírt számlaadásra vonatkozó kötelezettségének eleget tesz-e, a dohánygyártmányok értékesítése során a 101. §-ban meghatározott kiskereskedelmi eladási ártól eltérő árat érvényesít-e;
 
 c) ellenőrizheti az e törvényben és a végrehajtási rendeletekben előírt, az a)–b) pontban nem említett egyéb kötelezettségek megtartását.
 

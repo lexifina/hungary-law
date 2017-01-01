@@ -18,23 +18,15 @@ a) a dohánygyártmány megnevezését (cigaretta, szivar, szivarka, finomra vá
 
 b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm) – darabonként csomagolt szivar kivételével –,
 
-c) a fogyasztói csomag kiskereskedelmi eladási árát,
+c)
 
 d) az adójegy sorszámát (vonalkód formájában is), valamint
 
-e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adó- és általánosforgalmiadó-mérték alapján került meghatározásra.
+e) annak – jogszabályban meghatározott módon történő – megjelölését, hogy a dohánygyártmány milyen időpontban hatályba lépett (lépő) adó- és általánosforgalmiadó-mérték alapján került szabadforgalomba bocsátásra.
 
-(4) Az adójegyet a Magyar Állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, az ügyfélkapun keresztül benyújtott megrendelés alapján és elszámolási kötelezettség mellett – a 98. § (3) bekezdésében megjelöltek rendelkezésére.
+(4) A dohánygyártmány adójegyet a Magyar Állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, ügyfélkapun keresztül benyújtott megrendelés alapján, elszámolási kötelezettség mellett és az adójegy előállítási költségének a megfizetése ellenében – a 98. § (3) bekezdésében megjelöltek rendelkezésére.
 
-(5) A vámhatósághoz visszaküldött adójegy 98. § (2) bekezdése szerinti értékével
-
-a) a hibás, sérült, továbbá a vámhatóság felügyelete mellett megsemmisített, az adójegy igénylőjének tevékenységi körén kívül eső elháríthatatlan ok miatt – ide nem értve a lopás esetét –, illetve jogszabályban meghatározott egyéb módon megsemmisült adójegyek esetében a tárgyhót követő hóban esedékes,
-
-b) a sértetlen állapotú adójegy esetén az arra adott fizetési halasztás lejártának hónapjában vagy azt követően esedékes,
-
-a 98. § (6) bekezdése szerint halasztott fizetési kötelezettség csökkenthető vagy annak értéke visszatéríthető a külön jogszabályban meghatározott feltételek mellett.
-
-(6) A halasztott fizetési kötelezettség csökken azon dohánygyártmányra felragasztott adójegy adó és általános forgalmi adó értékével, amely utáni felfüggesztett adófizetési kötelezettség alól a 13. § (3) bekezdés b)–f) pontja, valamint (9)–(10) bekezdése alapján az adóraktár engedélyese véglegesen mentesül.
+(5)–(6)
 
 (7) A dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló a szabadforgalomból visszaszállított (visszáru) dohánygyártmány adóját és általános forgalmi adóját visszaigényelheti (levonhatja), amennyiben
 
@@ -42,7 +34,9 @@ a) a dohánygyártmányt a dohánygyártmány-adóraktár engedélyese az adóra
 
 b) a cigarettán kívüli dohánygyártmányok esetében a dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló az adójegyet eltávolítja, valamint a bejegyzett kereskedő és az importáló egyúttal új adójegyet helyez fel.
 
-(8) A dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló a (7) bekezdés b) pontja szerint eltávolított és megsemmisített adójegyek után darabonként 6 Ft átalány-költségtérítést köteles fizetni a vámhatóság által megjelölt bankszámlára.
+(7a) A (7) bekezdés szerinti adó-visszaigénylés esetén a cigaretta, szivar, szivarka kiskereskedelmi eladási áraként a (10) bekezdés szerinti adatszolgáltatás tárgynapja és az adó-visszaigénylés vámhatósághoz történő benyújtásának napja közötti időszakban az adott dohánygyártmányra vonatkozóan a vámhatóság által a 97. § (5) bekezdés szerint közzétett legalacsonyabb kiskereskedelmi eladási ár vehető figyelembe.
+
+(8)
 
 (9) Az adó- és általánosforgalmiadó-visszaigénylés (levonás) joga
 

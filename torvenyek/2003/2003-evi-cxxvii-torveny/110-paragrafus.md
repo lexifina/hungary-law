@@ -22,7 +22,11 @@ f) a köztes alkoholtermék 20 litert,
 
 g) az alkoholtermék 10 litert,
 
-h) a bor és pezsgő együttesen 90 litert (ebből pezsgő legfeljebb 60 liter)
+h) a bor és pezsgő együttesen 90 litert (ebből pezsgő legfeljebb 60 liter),
+
+i) az új dohánytermék-kategóriák 800 darabot,
+
+j) a töltőfolyadék 300 millilitert
 
 meghaladó mennyisége minősül.
 

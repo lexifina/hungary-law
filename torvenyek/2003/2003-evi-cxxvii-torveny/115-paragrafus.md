@@ -6,7 +6,7 @@ b) a hivatalos zár esetében darabonként 600 forinttal számított összeg öt
 
 büntetendő.
 
-(2) Az adójegy hamisítása, a hamis, a hamisított vagy a jogtalanul megszerzett adójegy birtokolása, továbbadása, értékesítése, átvétele, felhasználása a megtalált adójegy által képviselt adóösszeg ötszörösével azonos összegű, de legalább 200 ezer forint bírsággal büntetendő.
+(2) Az adójegy hamisítása, a hamis, a hamisított vagy a jogtalanul megszerzett adójegy darabszámával és a 98. § (2) bekezdésében meghatározott értékkel büntetendő.
 
 (3) Cukorcefre, illetve a cukorcefréből alkoholtermék vagy a 2204, 2205, 2206 vámtarifaszám alá tartozó termék jogosulatlan előállítása, értékesítése, megvásárlása, birtoklása, továbbá – amennyiben külön jogszabály szerint minőségvédelmi bírság kiszabásának nincs helye – a bor külön jogszabályban meghatározott eljárástól eltérő előállítása vagy kezelése, illetve az így előállított vagy kezelt bor értékesítése, birtoklása, valamint – a szőlőtörköly kivételével – a borászati melléktermék jogosulatlan értékesítése, megvásárlása, birtoklása esetén literenként, illetve kilogrammonként 3000 forint, de legalább 100 ezer forint, a szőlőtörköly jogosulatlan értékesítése, megvásárlása, birtokolása esetén 100 kilogrammonként 3000 forint jövedéki bírságot kell kivetni.
 

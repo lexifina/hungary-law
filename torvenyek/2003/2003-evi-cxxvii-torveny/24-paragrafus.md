@@ -12,7 +12,7 @@ d) megfelel a 35. § (1) bekezdésének b)–c) és – a 35. § (2) bekezdésé
 
 e)
 
-f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő
+f) – a (6) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő
 
 fa) egyéb ellenőrzött ásványolaj – kivéve a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént – mennyiségére az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó,
 
@@ -32,7 +32,7 @@ c) – az a) és b) pontokban nem említett – jövedéki termék mennyiségér
 
 számított adónak megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén.
 
-(3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege – a (7) bekezdésben foglalt eltéréssel – 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot legalább a nem teljesített adófizetési kötelezettség összegére ki kell egészíteni. A jövedéki biztosíték megemelésének elmaradása esetén a vámhatóság a bejegyzett kereskedői engedélyt az eset összes körülményeinek figyelembevételével, különös tekintettel a nem teljesített adófizetési kötelezettség összegére, legfeljebb 30 napra felfüggesztheti. Ha a bejegyzett kereskedő a felfüggesztés elrendelésétől számított 30 nap elteltével jövedéki biztosítékát nem emeli meg, a vámhatóság a bejegyzett kereskedői engedélyt visszavonja.
+(3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot legalább a nem teljesített adófizetési kötelezettség összegére ki kell egészíteni. A jövedéki biztosíték megemelésének elmaradása esetén a vámhatóság a bejegyzett kereskedői engedélyt az eset összes körülményeinek figyelembevételével, különös tekintettel a nem teljesített adófizetési kötelezettség összegére, legfeljebb 30 napra felfüggesztheti. Ha a bejegyzett kereskedő a felfüggesztés elrendelésétől számított 30 nap elteltével jövedéki biztosítékát nem emeli meg, a vámhatóság a bejegyzett kereskedői engedélyt visszavonja.
 
 (4) Az e § szerinti jövedéki biztosítékra a 19. § (5) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a vámhatóság akkor hagyja jóvá, illetve engedi meg a pénzügyi biztosítékban, illetve a készpénzben nyújtott jövedéki biztosíték visszavonását, ha a bejegyzett kereskedő a 25. § szerinti adófizetési kötelezettségét teljesítette.
 
@@ -46,9 +46,7 @@ b) felhasználói engedéllyel
 
 is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélyes tevékenységi körében beszerezhető jövedéki termékekre kéri az engedélyt, részére azt a külön jogszabály szerinti egyszerűsített eljárásban kell kiadni, és az e § szerinti jövedéki biztosítékot nem kell külön megkövetelni.
 
-(7) Ha a bejegyzett kereskedő dohánygyártmány beszerzését végzi, a jövedéki biztosíték nem lehet kevesebb az egy hónap alatt ténylegesen átvételre kerülő adójegyek utáni fizetési kötelezettség összegénél.
-
-(8) Ha az eseti bejegyzett kereskedő dohánygyártmányt szerez be, a jövedéki biztosítékot az átvett adójegyek értékének [98. § (2) bekezdés] megfelelő összegben kell nyújtani.
+(7)–(8)
 
 (9) Az (1) és (2) bekezdés szerinti engedély iránti kérelmet írásban, a külön jogszabály rendelkezése szerint kell benyújtani. A vámhatóság az (1) bekezdés szerinti bejegyzett kereskedő esetében harmincöt napon belül, az eseti bejegyzett kereskedő esetében tizenöt napon belül bírálja el a kérelmet.
 
