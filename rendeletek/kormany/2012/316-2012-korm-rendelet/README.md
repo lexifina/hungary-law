@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-316-20-
 | 2015-09-01 | 2012-316-20-22.9 | 221/2015. (VIII. 7) Korm. rendelet |
 | 2015-10-02 | 2012-316-20-22.10 | 284/2015. (IX. 29.) Korm. rendelet |
 | 2016-09-01 | 2012-316-20-22.11 | 253/2016. (VIII. 24.) Korm. rendelet |
+| 2017-01-01 | 2012-316-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |

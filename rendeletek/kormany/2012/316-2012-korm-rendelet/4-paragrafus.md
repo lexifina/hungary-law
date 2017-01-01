@@ -24,7 +24,7 @@ b) egységesen meghatározza és honlapján közzéteszi az Szt. 92. § (2) beke
 
 c) javaslatot tesz a fenntartott költségvetési szervek éves költségvetésére, meghatározza a gazdálkodásuk részletes rendjét,
 
-d) az Szt. 90/A. §-a, 92/B. § (3) bekezdése és 92/L. §-a szerinti, illetve a Gyvt. 100/A–100/B. §-a szerinti esetben – a kirendeltség előterjesztése alapján – intézkedik a jogszabálysértés megszüntetéséről,
+d)[^8] az Szt. 90/A. §-a, 92/B. § (3) bekezdése és 92/L. §-a szerinti, illetve a Gyvt. 100/A. §-a szerinti esetben – a kirendeltség előterjesztése alapján – intézkedik a jogszabálysértés megszüntetéséről,
 
 e) ellátja – a kirendeltségek előterjesztése alapján – az Szt. 122/A–122/C. §-a szerinti fenntartói feladatokat.
 
@@ -47,3 +47,4 @@ f) összegyűjti, ellenőrzi a fenntartott intézmények gazdálkodására vonat
 [^5]: A 2. alcím címe a 221/2015. (VIII. 7) Korm. rendelet 11. §-ával megállapított szöveg.
 [^6]: A 4. § (1) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 65. §-ával megállapított szöveg.
 [^7]: A 4. § (1) bekezdés b) pontja a 448/2013. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 211. § (4) bekezdése szerint módosított szöveg.
