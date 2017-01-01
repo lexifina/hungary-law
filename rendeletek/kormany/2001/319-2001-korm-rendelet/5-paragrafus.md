@@ -1,6 +1,6 @@
 ## 4. §[^9]
 
-5. §[^10] (1)[^11] A diákkedvezményekre való jogosultság megállapítására irányuló eljárás kérelemre indul. A kérelmet a határon túli tanuló, hallgató személyesen, postai úton vagy meghatalmazott útján, a külképviseleten vagy a kormányhivatalnál nyújthatja be.
+5. §[^10] (1)[^11] A diákkedvezményekre való jogosultság megállapítására irányuló eljárás kérelemre indul. A kérelmet a határon túli tanuló, hallgató személyesen, postai úton, valamint elektronikus úton vagy meghatalmazott útján, a külképviseleten vagy a kormányhivatalnál nyújthatja be.
 
 (2)–(4)[^12]
 
@@ -34,7 +34,7 @@ c) a kedvezményre való jogosultság bejegyzését tartalmazó „Magyar igazol
 
 [^9]: A 4. §-t a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés a) pontja hatályon kívül helyezte.
 [^10]: Az 5. § a 132/2007. (VI. 12.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 19. § (5) bekezdése alapján a rendelkezést a 2007. július 12. napja után indult ügyekben kell alkalmazni. A folyamatban lévő, diákigazolvány iránti kérelmeket a Hivatal a diákigazolvány kiállításával, illetve meghosszabításával teljesíti.
-[^11]: Az 5. § (1) bekezdése a 294/2012. (X. 16.) Korm. rendelet 2. §-ával megállapított, a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 5. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^12]: Az 5. § (2)–(4) bekezdését a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés c) pontja hatályon kívül helyezte.
 [^13]: Az 5. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 262. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^14]: Az 5. § (7) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 262. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
