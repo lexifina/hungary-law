@@ -1,4 +1,4 @@
-## 7. §[^4] E rendeletnek a Budapest I. kerület, Nándor utca 5–7. szám alatti irodaépület felújításával, átalakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról, valamint a Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 410/2015. (XII. 15.) Korm. rendelet módosításáról szóló 336/2016. (XI. 11.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 2/A. §-át és 2/B. §-át a Módr1. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
+## 7. §[^5] E rendeletnek a Budapest I. kerület, Nándor utca 5–7. szám alatti irodaépület felújításával, átalakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról, valamint a Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 410/2015. (XII. 15.) Korm. rendelet módosításáról szóló 336/2016. (XI. 11.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 2/A. §-át és 2/B. §-át a Módr1. hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 410/2015. (XII. 15.) Korm. rendelethez
 
@@ -28,7 +28,7 @@
 
 12. bányahatósági engedélyezési eljárások,
 
-13.[^6] tűzvédelmi hatósági eljárások,
+13.[^7] tűzvédelmi hatósági eljárások,
 
 14. élelmiszerlánc-felügyeleti eljárás,
 
@@ -38,6 +38,6 @@
 
 17. az 1–16. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 7. §-t a 336/2016. (XI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^5]: A hatálybalépés napja 2016. november 12.
-[^6]: Az 1. melléklet 13. pontja a 271/2016. (IX. 1.) Korm. rendelet 76. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 7. §-t a 336/2016. (XI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^6]: A hatálybalépés napja 2016. november 12.
+[^7]: Az 1. melléklet 13. pontja a 271/2016. (IX. 1.) Korm. rendelet 76. § (2) bekezdése szerint módosított szöveg.
