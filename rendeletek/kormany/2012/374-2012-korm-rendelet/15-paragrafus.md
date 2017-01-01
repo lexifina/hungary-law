@@ -4,17 +4,17 @@
 
 (2) A 3. § (1) bekezdésében előírt forgalmazási korlátozást
 
-a)[^5] a 2014. július 22-től forgalomba hozott orvostechnikai eszközre, ellenőrző és vezérlő eszközre,
+a)[^6] a 2014. július 22-től forgalomba hozott orvostechnikai eszközre, ellenőrző és vezérlő eszközre,
 
 b) a 2016. július 22-től forgalomba hozott in vitro diagnosztikai orvostechnikai eszközre és
 
-c)[^6] a 2017. július 22-től forgalomba hozott ipari ellenőrző és vezérlő eszközre
+c)[^7] a 2017. július 22-től forgalomba hozott ipari ellenőrző és vezérlő eszközre
 
 kell alkalmazni.
 
-(2a)[^7] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések bisz(2-etilhexil)-ftalát (DEHP), benzil-butil-ftalát (BBP), dibutil-ftalát (DBP) és DIBP (diizobutil-ftalát) tartalmára vonatkozó forgalmazási korlátozást – a (2b) és a (3a) bekezdésekben foglaltak, valamint azon játékok kivételével, amelyek DEHP-, BBP- és DBP-tartalma tekintetében a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklet 51. pontja alapján korlátozás áll fent – 2019. július 22-től kell alkalmazni.
+(2a)[^8] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések bisz(2-etilhexil)-ftalát (DEHP), benzil-butil-ftalát (BBP), dibutil-ftalát (DBP) és DIBP (diizobutil-ftalát) tartalmára vonatkozó forgalmazási korlátozást – a (2b) és a (3a) bekezdésekben foglaltak, valamint azon játékok kivételével, amelyek DEHP-, BBP- és DBP-tartalma tekintetében a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklet 51. pontja alapján korlátozás áll fent – 2019. július 22-től kell alkalmazni.
 
-(2b)[^8] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozást
+(2b)[^9] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozást
 
 a) az orvostechnikai eszközök – ideértve az in vitro diagnosztikai orvostechnikai eszközöket is –,
 
@@ -28,15 +28,15 @@ a) a 2006. június 30-ig forgalomba hozott elektromos és elektronikus berendez�
 
 b) a 2014. július 21-ig forgalomba hozott orvostechnikai eszköz,
 
-c)[^9] a 2014. július 21-ig forgalomba hozott ellenőrző és vezérlő eszköz,
+c)[^10] a 2014. július 21-ig forgalomba hozott ellenőrző és vezérlő eszköz,
 
-d)[^10] a 2016. július 21-ig forgalomba hozott in vitro diagnosztikai orvostechnikai eszköz, a 2017. július 21-ig forgalomba hozott ipari ellenőrző és vezérlő eszköz és
+d)[^11] a 2016. július 21-ig forgalomba hozott in vitro diagnosztikai orvostechnikai eszköz, a 2017. július 21-ig forgalomba hozott ipari ellenőrző és vezérlő eszköz és
 
 e) az egyes veszélyes anyagok elektromos és elektronikai berendezésekben való alkalmazásának korlátozásáról szóló 16/2004. (X. 8.) KvVM rendelet által biztosított forgalomba hozatali mentesség hatálya alá tartozó elektromos és elektronikus berendezés
 
 javításához, újrahasználatához, működésének megújításához vagy teljesítménye javításához felhasznált kábelekre vagy cserealkatrészekre nem alkalmazható.
 
-(3a)[^11] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozás nem alkalmazandó
+(3a)[^12] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozás nem alkalmazandó
 
 a) a 2019. július 22. előtt forgalomba hozott elektromos vagy elektronikus berendezések,
 
@@ -50,10 +50,10 @@ c) a 2021. július 22. előtt forgalomba hozott ellenőrző és vezérlő eszkö
 
 (5) A 3. § (1) bekezdése szerinti forgalmazási korlátozás azon elektromos és elektronikus berendezések esetében, amelyek nem tartoztak az egyes veszélyes anyagok elektromos és elektronikai berendezésekben való alkalmazásának korlátozásáról szóló 16/2004. (X. 8.) KvVM rendelet hatálya alá, 2019. július 23-tól alkalmazandó.
 
-[^5]: A 15. § (2) bekezdés a) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^6]: A 15. § (2) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^7]: A 15. § (2a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^8]: A 15. § (2b) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^9]: A 15. § (3) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^10]: A 15. § (3) bekezdés d) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^11]: A 15. § (3a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 15. § (2) bekezdés a) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^7]: A 15. § (2) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^8]: A 15. § (2a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^9]: A 15. § (2b) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^10]: A 15. § (3) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^11]: A 15. § (3) bekezdés d) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^12]: A 15. § (3a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.

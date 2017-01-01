@@ -224,7 +224,7 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^20]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^21]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -384,4 +384,4 @@ lejár.
 
 46. A magas frekvenciájú (>50MHz) működési módokra képes intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben lévő higany – a mentesség 2019. június 30-án lejár.
 
-[^20]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^21]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.

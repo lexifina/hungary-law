@@ -1,4 +1,4 @@
-## 16. §[^12] Ez a rendelet
+## 16. §[^13] Ez a rendelet
 
 1. az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló, 2011. június 8-i 2011/65/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -54,18 +54,18 @@
 
 27. a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a reklámokban, a dekorációkban, az épületmegvilágításban, a speciális megvilágításban és a művészeti alkotásokban használt, kézzel előállított, cső alakú kisülőlámpákban lévő higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2014. március 13-i 2014/76/EU bizottsági irányelvnek
 
-28.[^13] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az in vitro diagnosztikai orvostechnikai eszközök polivinilklorid érzékelőiben használt ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/573/EU bizottsági irányelvnek,
+28.[^14] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az in vitro diagnosztikai orvostechnikai eszközök polivinilklorid érzékelőiben használt ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/573/EU bizottsági irányelvnek,
 
-29.[^14] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az intravaszkuláris ultrahangos képalkotó rendszerekben használt higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/574/EU bizottsági irányelvnek
+29.[^15] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az intravaszkuláris ultrahangos képalkotó rendszerekben használt higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/574/EU bizottsági irányelvnek
 
-30.[^15] a 2011/65/EU európai parlamenti és tanácsi irányelv II. mellékletének a korlátozott anyagok jegyzéke tekintetében történő módosításáról szóló, 2015. március 31-i 2015/863/EU bizottsági irányelvnek,
+30.[^16] a 2011/65/EU európai parlamenti és tanácsi irányelv II. mellékletének a korlátozott anyagok jegyzéke tekintetében történő módosításáról szóló, 2015. március 31-i 2015/863/EU bizottsági irányelvnek,
 
-31.[^16] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az orvostechnikai eszközökből származó és orvostechnikai eszközök vagy elektronmikroszkópok javítására vagy felújítására felhasználandó cserealkatrészekben található ólom, kadmium, hat vegyértékű króm és polibrómozott difenil-éterek (PBDE) mentesítése tekintetében a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. február 12-i 2016/585/EU bizottsági irányelvnek
+31.[^17] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az orvostechnikai eszközökből származó és orvostechnikai eszközök vagy elektronmikroszkópok javítására vagy felújítására felhasználandó cserealkatrészekben található ólom, kadmium, hat vegyértékű króm és polibrómozott difenil-éterek (PBDE) mentesítése tekintetében a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. február 12-i 2016/585/EU bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
-[^12]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^13]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^14]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^15]: A 16. § 30. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
-[^16]: A 16. § 31. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 16. § 30. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 16. § 31. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.

@@ -1,6 +1,6 @@
-## 17. §[^17]
+## 17. §[^18]
 
-1. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^18]
+1. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^19]
 
-[^17]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: Az 1. melléklet a 307/2016. (X. 13.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 1. melléklet a 307/2016. (X. 13.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
