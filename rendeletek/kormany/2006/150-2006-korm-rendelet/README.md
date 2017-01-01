@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-150-20-
 | 2015-04-01 | 2006-150-20-22.17 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-09-01 | 2006-150-20-22.18 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-09-09 | 2006-150-20-22.19 | 271/2016. (IX. 1.) Korm. rendelet |
+| 2017-01-01 | 2006-150-20-22.20 | 380/2016. (XII. 2.) Korm. rendelet |
