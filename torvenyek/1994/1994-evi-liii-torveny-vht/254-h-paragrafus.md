@@ -26,4 +26,4 @@ c) végrehajtó-helyettes és végrehajtójelölt névjegyzékbe vétele esetén
 
 d) a végrehajtói irodák nyilvántartásába történő felvétel esetén a végrehajtói iroda nevét, székhelyét, cégjegyzékszámát, tagjainak nevét és személyazonosító adatait.
 
-(6) Az (1) bekezdés szerinti hatósági eljárásban az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton írásban kapcsolatot tartani.
+(6)

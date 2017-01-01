@@ -66,7 +66,9 @@
 
 32. elkészíti a Kar etikai szabályzatát;
 
-33. a Kar tagjaira kötelező iránymutatást adhat ki, különösen a végrehajtó irodájának kialakításáról, felszereltségéről.
+33. a Kar tagjaira kötelező iránymutatást adhat ki, különösen a végrehajtó irodájának kialakításáról, felszereltségéről,
+
+34. ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét és pénzkezelését ellenőrizni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni.
 
 (3) A Kar a 251. § (1) bekezdés c) pontja szerinti hivatali szerve útján gyakorolja a (2) bekezdésben meghatározott jogokat és teljesíti a (2) bekezdésben meghatározott kötelezettségeket. E jogok gyakorlása és kötelezettségek teljesítése során a hivatali szerv együttműködik a Kar elnökségével, a Kart a hivatali szerv vezetője képviseli.
 

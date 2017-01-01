@@ -2,7 +2,7 @@
 
 57/A. § (1) A végrehajtó hivatali elektronikus aláírásaként – ha jogszabály a végrehajtó számára az elektronikus aláírás használatát előírja – csak olyan minősített elektronikus aláírás használható, amely megfelel a következő feltételeknek:
 
-a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó, törvényszéki végrehajtó, önálló bírósági végrehajtó-helyettes vagy megyei bírósági végrehajtó-helyettes;
+a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó, törvényszéki végrehajtó, önálló bírósági végrehajtó-helyettes vagy törvényszéki végrehajtó-helyettes;
 
 b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 

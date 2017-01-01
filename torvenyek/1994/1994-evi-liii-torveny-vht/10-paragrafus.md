@@ -12,7 +12,7 @@ b) az olyan okirat, amelyet a bíróság vagy a közjegyző végrehajtási zára
 
 c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
 
-d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
+d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
 
 e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
 

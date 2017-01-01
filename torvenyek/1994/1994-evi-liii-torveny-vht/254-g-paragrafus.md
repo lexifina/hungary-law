@@ -12,10 +12,16 @@ e) a cégjegyzékbe történő bejegyzés időpontja, cégjegyzékszám,
 
 f) a névjegyzékbe történő felvétel időpontja,
 
-g) a névjegyzékből történő törlés időpontja.
+g) a névjegyzékből történő törlés időpontja,
+
+h) a végrehajtói irodának az E-ügyintézési tv. szerinti hivatalos elérhetősége.
 
 (2) A végrehajtói iroda a nyilvántartásban szereplő adatainak megváltozásáról köteles a Kar hivatali szervét a változástól számított 15 napon belül tájékoztatni.
 
 (3) A nyilvántartásból történő törlést követően a végrehajtói iroda adatait a Kar hivatali szerve 10 évig köteles megőrizni.
 
 (4) Ha a végrehajtói iroda az (1) bekezdés szerinti adatokat a bejelentésben nem közli, a Kar hivatali szerve az adatok közlése iránt megkeresi a végrehajtói iroda bejegyzését végző cégbíróságot.
+
+(5) A Kar hivatali szerve az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt a végrehajtói iroda oda jelentette be.
+
+(6) Ha a végrehajtói iroda az (1) bekezdés h) pontja szerinti adatot a Kar hivatali szerve felé jelentette be, a Kar hivatali szerve azt az (5) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.

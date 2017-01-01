@@ -12,6 +12,6 @@ b) a polgári ügyben az állam által előlegezett költség,
 
 c) a bíróság által előlegezett gyermektartásdíj,
 
-d) egyéb jogcímen illeti meg a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a miniszter által vezetett minisztériumot (a továbbiakban: minisztérium), az igazságügyi szakértői intézményt vagy az államot,
+d) egyéb jogcímen illeti meg a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a minisztériumot, az igazságügyi szakértői intézményt vagy az államot,
 
 e) a büntetés-végrehajtási szervezetet a fogvatartottal — illetőleg a volt fogvatartottal — szemben illeti meg.

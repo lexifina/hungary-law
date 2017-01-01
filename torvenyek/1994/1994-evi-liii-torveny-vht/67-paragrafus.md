@@ -1,6 +1,6 @@
 ## Levonás a nyugdíjból
 
-67. § (1) Az adós társadalombiztosítási nyugellátásából, korhatár előtti ellátásából, szolgálati járandóságából, balettművészeti életjáradékából és átmeneti bányászjáradékából (a továbbiakban együtt: nyugellátás) legfeljebb 33 százalékot lehet levonni.
+67. § (1) Az adós társadalombiztosítási nyugellátásából, korhatár előtti ellátásából, szolgálati járandóságából, táncművészeti életjáradékából és átmeneti bányászjáradékából (a továbbiakban együtt: nyugellátás) legfeljebb 33 százalékot lehet levonni.
 
 (2) A levonás a nyugellátásnak legfeljebb 50%-áig terjedhet az alábbi követelések fejében:
 
