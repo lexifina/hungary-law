@@ -1,4 +1,4 @@
-## 12. §[^2]
+## 12. § Hatályát veszti a 10. §.
 
 1. melléklet a 12/2016. (IV. 29.) MVM rendelethez
 
@@ -15,5 +15,3 @@ III. Egyéb hatások:
 Budapest, .......... év ............................. hónap ........... nap
 
 Készítette: Látta: Jóváhagyta:
-
-[^2]: A 12. § a 9. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

@@ -1,1 +1,3 @@
-## 10. § Az előterjesztések tervezetének előzetes és utólagos hatásvizsgálata során – a szabályozás előkészítője döntése alapján – a 2016. évben az előzetes és utólagos hatásvizsgálatról szóló 24/2011. (VIII. 9.) KIM rendelet 1. melléklete is alkalmazható.
+## 10. §[^1]
+
+[^1]: A 10. §-t a 12. § hatályon kívül helyezte.
