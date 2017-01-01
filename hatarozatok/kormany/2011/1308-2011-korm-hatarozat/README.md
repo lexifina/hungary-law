@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1308-30
 | 2015-11-20 | 2011-1308-30-22.6 | 1825/2015. (XI. 19.) Korm. határozat |
 | 2016-06-09 | 2011-1308-30-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-07-17 | 2011-1308-30-22.8 | 1501/2012. (XI. 16.) Korm. határozat |
+| 2017-01-01 | 2011-1308-30-22.9 | 1853/2016. (XII. 27.) Korm. határozat |

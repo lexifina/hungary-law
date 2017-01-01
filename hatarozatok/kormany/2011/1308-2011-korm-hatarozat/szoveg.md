@@ -32,7 +32,7 @@ d) a Miniszterelnökséget vezető miniszter.
 
 a) javaslatot tesz a Kabinetnek a közbiztonság és a nemzetbiztonság védelme, továbbá az élet- és vagyonvédelem érdekében szükséges feladatokra és intézkedésekre, valamint figyelemmel kíséri azok végrehajtását;
 
-b)[^4] biztosítja az összehangolt, késedelem nélküli és szükséges intézkedések és a végrehajtásért felelős szerv gyors megállapítását lehetővé tevő információcserét a közbiztonság és a nemzetbiztonság védelmével, valamint a haza védelmével és a szövetségi kötelezettségek teljesítésével összefüggésben az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Információs Hivatal, az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Bevándorlási és Állampolgársági Hivatal, a BM Országos Katasztrófavédelmi Főigazgatóság, a Nemzeti Adó- és Vámhivatal, a Honvéd Vezérkar, a Miniszterelnökség, valamint az érintett minisztériumok között;
+b)[^4] biztosítja az összehangolt, késedelem nélküli és szükséges intézkedések és a végrehajtásért felelős szerv gyors megállapítását lehetővé tevő információcserét a közbiztonság és a nemzetbiztonság védelmével, valamint a haza védelmével és a szövetségi kötelezettségek teljesítésével összefüggésben az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Információs Hivatal, az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Bevándorlási és Menekültügyi Hivatal, a BM Országos Katasztrófavédelmi Főigazgatóság, a Nemzeti Adó- és Vámhivatal, a Honvéd Vezérkar, a Miniszterelnökség, valamint az érintett minisztériumok között;
 
 c) javaslatot tesz a b) pontban felsorolt szervek tevékenységével kapcsolatos szakfeladatok ellátására, azok összehangolására, a felelősség rendjére;
 
@@ -72,29 +72,29 @@ k) a Terrorelhárítási Központ főigazgatója,
 
 l) a Nemzeti Védelmi Szolgálat főigazgatója,
 
-m) a Szervezett Bűnözés Elleni Koordinációs Központ főigazgatója,
+m)[^10] a Terrorelhárítási Információs és Bűnügyi Elemző Központ főigazgatója,
 
 n) a BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója,
 
-o)[^10] az állami adó- és vámhatóság vezetője,
+o)[^11] az állami adó- és vámhatóság vezetője,
 
-p) a Bevándorlási és Állampolgársági Hivatal főigazgatója.
+p)[^12] a Bevándorlási és Menekültügyi Hivatal főigazgatója.
 
-9.[^11] A Munkacsoportot a belügyminiszter és a honvédelmi miniszter együttesen, azonos jogkörrel vezeti. A Munkacsoport tagját akadályoztatása esetén az általa kijelölt személy helyettesíti. A Munkacsoport vezetői az ülésre tanácskozási joggal más személyeket is meghívhatnak.
+9.[^13] A Munkacsoportot a belügyminiszter és a honvédelmi miniszter együttesen, azonos jogkörrel vezeti. A Munkacsoport tagját akadályoztatása esetén az általa kijelölt személy helyettesíti. A Munkacsoport vezetői az ülésre tanácskozási joggal más személyeket is meghívhatnak.
 
-9a.[^12] A Munkacsoport vezetői – akár valamelyik tag kérésére is – elrendelhetik, hogy bizonyos napirendi kérdések megtárgyalásakor – a minősített adatok védelme, a szükséges konspiráció fenntartása érdekében vagy bizonyos munkacsoporti tagok által irányított szervek hatáskörét nem érintő kérdések esetén – a Munkacsoport valamely tagja ne legyen jelen a Munkacsoport ülésén.
+9a.[^14] A Munkacsoport vezetői – akár valamelyik tag kérésére is – elrendelhetik, hogy bizonyos napirendi kérdések megtárgyalásakor – a minősített adatok védelme, a szükséges konspiráció fenntartása érdekében vagy bizonyos munkacsoporti tagok által irányított szervek hatáskörét nem érintő kérdések esetén – a Munkacsoport valamely tagja ne legyen jelen a Munkacsoport ülésén.
 
-10.[^13] A Munkacsoport szükség szerint, de legalább havonta ülésezik, ülését a Munkacsoport vezetői hívják össze. Rendkívüli ülés összehívását bármely tag az indok és a napirend megjelölésével kezdeményezheti a Munkacsoport bármely vezetőjénél, akik együttesen döntenek az összehívás kérdésében.
+10.[^15] A Munkacsoport szükség szerint, de legalább havonta ülésezik, ülését a Munkacsoport vezetői hívják össze. Rendkívüli ülés összehívását bármely tag az indok és a napirend megjelölésével kezdeményezheti a Munkacsoport bármely vezetőjénél, akik együttesen döntenek az összehívás kérdésében.
 
-11.[^14] A Munkacsoport álláspontjával egyet nem értő tagja a Munkacsoport bármely vezetőjénél, vagy a 8. pontban meghatározott szervet irányító vagy felügyelő miniszternél kezdeményezheti a Kabinet ülésének összehívását.
+11.[^16] A Munkacsoport álláspontjával egyet nem értő tagja a Munkacsoport bármely vezetőjénél, vagy a 8. pontban meghatározott szervet irányító vagy felügyelő miniszternél kezdeményezheti a Kabinet ülésének összehívását.
 
 12. A Munkacsoport a Kabinetet rendszeresen, de legalább félévente a rendes üléseket megelőzően, illetve szükség szerint soron kívül tájékoztatja tevékenységéről.
 
 13. A Kabinet és a Munkacsoport üléseiről emlékeztető készül.
 
-14.[^15] A Kabinet és a Munkacsoport titkársági feladatait a Belügyminisztérium látja el.
+14.[^17] A Kabinet és a Munkacsoport titkársági feladatait a Belügyminisztérium látja el.
 
-15.[^16] A Kabinet, a Munkacsoport és az eseti munkacsoport működésének részletes szabályait a Kabinet elnöke által megállapított ügyrend határozza meg.
+15.[^18] A Kabinet, a Munkacsoport és az eseti munkacsoport működésének részletes szabályait a Kabinet elnöke által megállapított ügyrend határozza meg.
 
 16. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -107,16 +107,18 @@ p) a Bevándorlási és Állampolgársági Hivatal főigazgatója.
 [^1]: A 3. pont d) alpontját az 1825/2015. (XI. 19.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 5. pont az 1194/2015. (III. 31.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: A 6a. pontot az 1825/2015. (XI. 19.) Korm. határozat 2. pontja iktatta be.
-[^4]: A 7. pont b) alpontja az 1501/2012. (XI. 16.) Korm. határozat 1. pontjával megállapított, az 1359/2016. (VII. 13.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^4]: A 7. pont b) alpontja az 1501/2012. (XI. 16.) Korm. határozat 1. pontjával megállapított, az 1359/2016. (VII. 13.) Korm. határozat 1. pontja, az 1853/2016. (XII. 27.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
 [^5]: A 7. pont g) alpontját az 1288/2016. Korm. határozat 1. pontja iktatta be.
 [^6]: A 7a. pontot az 1442/2011. (XII. 20.) Korm. határozat 1. pontja iktatta be.
 [^7]: A 8. pont az 1501/2012. (XI. 16.) Korm. határozat 2. pontjával megállapított szöveg.
 [^8]: A 8. pont c) alpontja az 1194/2015. (III. 31.) Korm. határozat 2. pontjával megállapított szöveg.
 [^9]: A 8. pont d) alpontja az 1194/2015. (III. 31.) Korm. határozat 2. pontjával megállapított szöveg.
-[^10]: A 8. pont o) alpontja az 1359/2016. (VII. 13.) Korm. határozat 2. pontjával megállapított szöveg.
-[^11]: A 9. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^12]: A 9a. pontot az 1194/2015. (III. 31.) Korm. határozat 3. pontja iktatta be.
-[^13]: A 10. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^14]: A 11. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^15]: A 14. pont az 1404/2011. (XI. 25.) Korm. határozat 2. pontjával megállapított szöveg.
-[^16]: A 15. pont az 1442/2011. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^10]: A 8. pont m) alpontja az 1853/2016. (XII. 27.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
+[^11]: A 8. pont o) alpontja az 1359/2016. (VII. 13.) Korm. határozat 2. pontjával megállapított szöveg.
+[^12]: A 8. pont p) alpontja az 1853/2016. (XII. 27.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
+[^13]: A 9. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^14]: A 9a. pontot az 1194/2015. (III. 31.) Korm. határozat 3. pontja iktatta be.
+[^15]: A 10. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^16]: A 11. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^17]: A 14. pont az 1404/2011. (XI. 25.) Korm. határozat 2. pontjával megállapított szöveg.
+[^18]: A 15. pont az 1442/2011. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
