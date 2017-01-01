@@ -1,4 +1,4 @@
-43. § (1) Ha a jogi szolgáltatás legfeljebb két óra időtartamú, vagy a félnek a legfeljebb négy óra időtartamban nyújtott jogi szolgáltatást haladéktalanul igénybe kell vennie, a fél a jogi szolgáltatás igénybevétele érdekében közvetlenül a jogi segítőhöz fordulhat (jogi szolgáltatás igénybevétele a támogatás utólagos engedélyezésével).
+43. § (1) Ha a félnek a legfeljebb négy óra időtartamban nyújtott jogi szolgáltatást haladéktalanul igénybe kell vennie, a fél a jogi szolgáltatás igénybevétele érdekében közvetlenül a jogi segítőhöz fordulhat (jogi szolgáltatás igénybevétele a támogatás utólagos engedélyezésével).
 
 (2) A félnek a jogi szolgáltatás igénybevétele érdekében a támogatás engedélyezésére vonatkozó szabályok szerint kell eljárnia, és a támogatás igénybevételének feltételeit igazoló okiratokat a jogi segítőnek át kell adnia. Ha a jogi segítő a támogatás igénybevételének feltételeit igazoló okiratok és a fél nyilatkozata alapján a feltételeket biztosítottnak látja, a fél részére a 3. §-ban meghatározott jogi szolgáltatást nyújtja.
 

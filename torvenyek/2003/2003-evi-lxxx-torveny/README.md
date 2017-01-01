@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2015-11-01 | 2015. évi CLI. törvény | 2003-80-00-00.25 |
 | 2016-07-01 | 2016. évi XXXII. törvény | 2003-80-00-00.26 |
 | 2016-12-23 | 2016. évi CLVIII. törvény | 2003-80-00-00.27 |
+| 2017-01-01 | 2016. évi CXXVII. törvény | 2003-80-00-00.28 |

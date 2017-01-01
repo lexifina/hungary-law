@@ -16,7 +16,7 @@ e) által megjelölt azt a nyelvet, amelyen a jogi szolgáltatás nyújtását v
 
 f) azoknak az ügyeknek a számát, amelyekben a jogi segítő ténylegesen jogi szolgáltatást nyújtott,
 
-g) névjegyzékbe való felvételéről szóló határozat számát,
+g)
 
 h) szolgáltatási szerződése lejáratának időpontját.
 
