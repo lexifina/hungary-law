@@ -36,4 +36,4 @@ c) az Országos Gyűjtési és Hasznosítási Terv részletes tartalmi követelm
 
 d) az állami hulladékgazdálkodást közvetítő szervezet által a válogatott, illetve szelektív települési szilárd hulladékkezelési közszolgáltatást ellátó szervezetekkel kötendő szerződések feltételeit,
 
-e) a Termékdíj Bizottság működésével kapcsolatos részletszabályokat.
+e)

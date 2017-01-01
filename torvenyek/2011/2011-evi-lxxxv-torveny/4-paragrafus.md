@@ -28,7 +28,7 @@ f) az újrahasználható csomagolószerek nyilvántartásába a felhasználó k�
 
 g) a termékdíjköteles termék nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzletben, végső úti céllal külföldre utazó utasok részére történő értékesítése esetén; vagy
 
-h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó szervezet részére történő átruházása esetén, ha külföldi rendeletetési helyre fuvarozásra vagy küldeményként feladott termékdíjköteles termék igazolt módon külföldre kiszállításra került.
+h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó szervezet részére első alkalommal történő átruházása esetén, ha külföldi rendeletetési helyre fuvarozásra vagy küldeményként feladott termékdíjköteles termék igazolt módon külföldre kiszállításra került.
 
 (2a) A 4. § (2) bekezdés d) pontjában meghatározott feltételek teljesítésének hiányában a 366. napon saját célú felhasználással termékdíj kötelezettség keletkezik.
 

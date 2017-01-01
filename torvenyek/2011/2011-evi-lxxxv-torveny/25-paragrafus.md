@@ -16,7 +16,7 @@ e) a termékdíjköteles termék gyártásához közvetlen anyagként (alapanyag
 
 f) a 4. § (2) bekezdés d) pontjában meghatározott csomagolószer termékdíj-megállapítási időszakon túli külföldre történő igazolt visszaszállítása;
 
-g) egyéb csomagolószer esetében, annak – a továbbforgalmazás kivételével – nem csomagolás előállítására való felhasználása;
+g) a csomagolóanyag vagy csomagolási segédanyag esetében, annak – a továbbforgalmazás kivételével – nem csomagolás előállítására való felhasználása;
 
 h) a csomagolás alkotórészeként forgalomba hozott záróelem kereskedelmi csomagolószerként megfizetett termékdíja
 

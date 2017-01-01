@@ -28,13 +28,13 @@ aa) első belföldi vevője, vagy
 
 ab) a d) pont szerinti értékesítés belföldi vevője,
 
-ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
+ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
 
 b) a bérgyártó,
 
 c) a 1234/2007/EK rendelet szerinti mezőgazdasági termelői szerveződésen keresztül forgalomba hozott termékdíjköteles termék esetén a termelői szerveződés,
 
-d) csomagolószer esetében az azt változatlan formában és állapotban vagy más kiszerelésben továbbértékesítő első belföldi vevő,
+d) csomagolószer esetében – ide nem értve a csomagolást alkotó csomagolószert– az azt változatlan formában és állapotban vagy más kiszerelésben továbbértékesítő vagy saját célra felhasználó első belföldi vevő,
 
 e) a csomagolószer
 
@@ -58,7 +58,7 @@ gb) a d) pont szerinti értékesítés belföldi vevője
 
 átvállalhatja.
 
-(6) Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor vagy saját célú felhasználáskor keletkezik.
+(6) Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor, saját célú felhasználáskor, vagy készletre vételkor keletkezik.
 
 (7) Szerződés alapján legfeljebb 3 év időtartamra vállalható át a kötelezettség.
 

@@ -16,4 +16,4 @@ d) a termékdíj raktárba a termékdíj visszaigénylésével történő beszá
 
 (3) Az (1) bekezdés b) pontja alapján a visszaigénylésre jogosult vevő igénye alapján a kötelezettnek, illetve a kötelezett vevőinek a számlán fel kell tüntetni a termékdíjköteles termék környezetvédelmi termékkódját (a továbbiakban: KT kód), csomagolószer esetében a csomagolószer-katalógus kódját (a továbbiakban: CsK kód), a termékdíj mértékét és összegét, továbbá a termékdíj megfizetését (bevallását) igazoló dokumentumok adatait. Megfizetést igazoló dokumentumok adatai közül – legalább a termék első belföldi forgalombahozatalakor – a kötelezett által kibocsátott számla számát, keltét, a kötelezett nevét, címét, adószámát a számlának tartalmaznia kell.
 
-(4) Nem kell a számlán záradékot feltüntetni – a 3. § (6) bekezdés c) pont ca) alpontjában foglaltak alkalmazása kivétellel – a csomagolószer kiskereskedelmi értékesítése esetén.
+(4)

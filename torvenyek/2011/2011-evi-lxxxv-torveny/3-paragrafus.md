@@ -94,10 +94,14 @@ f) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemelte
 
 (8) Amennyiben a (6) bekezdés szerinti nyilatkozó nem, vagy nem a nyilatkozat tartalma szerint jár el vagy ezt nem tudja igazolni, a termékdíjköteles termék termékdíját és a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot a nyilatkozó köteles megfizetni. E bekezdés szerinti jogkövetkezmény a hulladékhasznosítási teljesítménybe el nem számolható gyártási selejt vagy hulladék esetén nem alkalmazható.
 
-(9) A termékdíjat
+(9) A termékdíjköteles termék termékdíját nem kell megfizetni, ha a kötelezett
 
-a) az egyéb kőolajtermék alapanyagként történő felhasználása, vagy
+a) az egyéb kőolajterméket alapanyagként használja fel;
 
-b) a Magyarországon hulladékká vált egyéb kőolajtermékből a Ht.-ben meghatározott R9 eljárással előállított termékdíjköteles termék belföldi forgalomba hozatala vagy első saját célú felhasználása,
+b) a Magyarországon hulladékká vált egyéb kőolajtermékből újrafinomítás vagy más célra történő újrahasználat eljárással előállított termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
 
-esetén nem kell megfizetni.
+c) a belföldön hulladékká vált termék az újrafelhasználásra előkészítését vagy a használt termék újbóli felhasználásra történő előkészítését követően létrejött terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi, a termékbe beépített új termékdíjköteles alkotórészek, tartozékok kivételével;
+
+d) az elkülönített hulladék gyűjtésére szolgáló műanyag zsákot belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
+
+e) a teljes egészében megújuló forrásból származó alapanyagból, – az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően – biológiai úton lebomló műanyagból készült termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi.

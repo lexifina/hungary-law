@@ -12,7 +12,7 @@
 
 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
 
-5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
+5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása, amely során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított 50%-os mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez;
 
 6. csekély mennyiségű kibocsátó: a tárgyévben
 
@@ -102,15 +102,15 @@ d) a csomagolásba beépülő egyes alkotóelem és kiegészítő elem, amelyet 
 
 10. csomagolási segédanyag: a csomagolás kiegészítő vagy járulékos részeként felhasználható – így különösen záró, rögzítő, párnázó, díszítő – elemek, valamint kellékek, így különösen címke, páralekötő anyag, hordfogantyú, ragasztó gyűjtőfogalma;
 
-11. egyéb csomagolószer: csomagolóanyag, csomagolási segédanyag;
+11. csomagolószer: a csomagolóanyag, a csomagolóeszköz és a csomagolási segédanyag;
 
 12. egyéni hulladékkezelés: az 1. § (3) bekezdés a) és b), valamint d) és e) pontja szerinti termékdíjköteles termék termék- és anyagáramából keletkezett hulladék
 
-a) végfelhasználó vevőtől a kötelezett telephelyén történő saját gyűjtése, ideértve a kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen, az értékesítés helyén történő gyűjtését,
+a) a kötelezett telephelyén történő gyűjtése, ideértve a kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen, az értékesítés helyén történő gyűjtését,
 
 b) saját célú felhasználás esetén a kötelezett telephelyén történő gyűjtése, vagy
 
-c) végfelhasználó vevőtől csomagolószer hulladékának hajléktalan-ellátó szervezettel vagy intézménnyel ténylegesen, közösen a szervezet, intézmény épületében elhelyezett gyűjtőautomatával történő gyűjtése
+c) csomagolószer hulladékának hajléktalan-ellátó szervezettel vagy intézménnyel ténylegesen, közösen a szervezet, intézmény épületében elhelyezett gyűjtőautomatával történő gyűjtése
 
 és az a)–c) pont szerint gyűjtött hulladék hasznosítása vagy hasznosíttatása;
 
@@ -128,7 +128,15 @@ ideértve a tulajdonjog más termék tartozékaként vagy alkotórészeként val
 
 14a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
-14b. gépjármű: a 8703 vtsz. – kivéve a 8703 10 alszám alá tartozó termékek – és a 8711 vtsz. alá tartozó termék, kivéve a segédmotorral felszerelt kerékpárt és az oldalkocsit;
+14b. gépjármű:
+
+a) a 8702 vtsz. alá tartozó termék,
+
+b) a 8703 vtsz. alá tartozó termékek,
+
+c) a 8704 vtsz. alá tartozó termék,
+
+d) a 8711 vtsz. alá tartozó termék, kivéve a kerékpár segédmotorral felszerelve.
 
 15. harmadik ország: az Európai Közösségen kívüli állam;
 
@@ -172,7 +180,7 @@ termékek kizárólag fémből készült fogyasztói (elsődleges) közvetlen cs
 
 24. külföld: az Európai Közösség Magyarországon kívüli állama és a harmadik ország;
 
-25. műanyag bevásárló-reklám táska: a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló jogszabály szerinti fogyasztói (elsődleges) vagy gyűjtőcsomagolt, illetve csomagolatlanul forgalmazott termékek, áruk, reklámanyagok szállítására szolgáló, hajlékonyfalú műanyag hordtasak vagy hordtáska;
+25. műanyag bevásárló-reklám táska: a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló jogszabály szerinti fogyasztói (elsődleges) vagy gyűjtőcsomagolt, illetve csomagolatlanul forgalmazott termékek, áruk, reklámanyagok szállítására szolgáló, hajlékonyfalú műanyag hordtasak vagy hordtáska, a hajlékonyfalú műanyag hűtőtasak vagy hűtőtáska kivételével;
 
 25a. nagyméretű rögzített ipari szerszám: gépek, berendezések, illetve azok alkatrészeinek nagyméretű összessége, amelyek egy adott alkalmazás céljából működnek együtt, és amelyeket szakemberek állandó jelleggel egy adott helyen beüzemelnek, leszerelnek, használnak, illetve karbantartanak valamely ipari gyártó létesítményben vagy kutatási és fejlesztési létesítményben;
 

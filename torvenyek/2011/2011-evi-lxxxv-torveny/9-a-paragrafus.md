@@ -52,17 +52,7 @@ bűncselekmény elkövetése miatt jogerősen elítélték vagy még nem mentes�
 
 c) a termékdíj raktár engedélyezésének feltételei már nem állnak fenn.
 
-(8) A termékdíj raktár üzemeltetésének engedélyezése iránti kérelem benyújtásával egyidejűleg a vezető, vezető tisztségviselő vagy egyéni vállalkozó hatósági bizonyítvánnyal igazolja az (1) bekezdés g) pontjában meghatározott feltételek fennállását, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az állami adóhatóság részére – a termékdíj raktár üzemeltetéséhez szükséges engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az állami adóhatóság az (1) bekezdés g) pontjában meghatározott feltételek fennállására vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől.
-
-(9) Az állami adóhatóság a termékdíj raktár üzemeltetésének időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vezető, vezető tisztségviselő vagy egyéni vállalkozó tekintetében fennáll-e a (7) bekezdés b) pontjában meghatározott körülmény. A hatósági ellenőrzés céljából az állami adóhatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azt tartalmazhatja, hogy a (7) bekezdés b) pontjában meghatározott feltétel fennáll-e.
-
-(10) A (8) és (9) bekezdés alapján megismert személyes adatokat az állami adóhatóság
-
-a) a termékdíj raktár üzemeltetésének engedélyezése iránti eljárás jogerős befejezéséig, vagy
-
-b) a termékdíj raktár üzemeltetésének engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(8)–(10)
 
 (11) Az engedélyesnek a (2) bekezdésben meghatározott határidő lejártát vagy az engedély visszavonását követő napon saját célú felhasználással termékdíj kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
 

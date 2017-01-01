@@ -12,7 +12,7 @@
 
 a) az akkumulátor;
 
-b) a csomagolóeszköz, az egyéb csomagolószer (a továbbiakban együtt: csomagolószer);
+b) a csomagolószer;
 
 c) az egyéb kőolajtermék;
 
