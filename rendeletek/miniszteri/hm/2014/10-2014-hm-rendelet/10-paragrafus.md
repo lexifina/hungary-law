@@ -34,6 +34,6 @@ b) az igénylő vagy az igénylő házastársa, élettársa a házasság fennál
 
 c) az igénylő vagy az igénylő házastársa, élettársa, az igénylő háztartásában eltartott gyermeke a kizárólagos vagy a felsorolt személyek közös tulajdonában lévő lakás tulajdonjogát a támogatás benyújtását megelőző öt éven belül ingyenesen átruházta.
 
-(5)[^9] Az egyszeri pénzbeli támogatásra vonatkozó igénylés már abban az évben benyújtható és nyilvántartásba vehető, amikor a hivatásos katona az 51. életévét betöltötte, de az csak az 52. életév betöltését követően teljesíthető.
+(5)[^13] Az egyszeri pénzbeli támogatásra vonatkozó igénylés már abban az évben benyújtható és nyilvántartásba vehető, amikor a hivatásos katona az 51. életévét betöltötte, de az csak az 52. életév betöltését követően teljesíthető.
 
-[^9]: A 10. § (5) bekezdését a 15/2015. (XII. 21.) HM rendelet 35. §-a iktatta be.
+[^13]: A 10. § (5) bekezdését a 15/2015. (XII. 21.) HM rendelet 35. §-a iktatta be.

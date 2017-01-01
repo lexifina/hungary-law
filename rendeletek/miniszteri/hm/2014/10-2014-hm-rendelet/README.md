@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-10-20-1
 | 2014-08-01 | 2014-10-20-15.1 | 10/2014. (VII. 25.) HM rendelet |
 | 2014-08-02 | 2014-10-20-15.2 | 2010: CXXX. törvény |
 | 2015-12-29 | 2014-10-20-15.3 | 15/2015. (XII. 21.) HM rendelet |
+| 2017-01-01 | 2014-10-20-15.4 | 26/2016. (XII. 22.) HM rendelet |

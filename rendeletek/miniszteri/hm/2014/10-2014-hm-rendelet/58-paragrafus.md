@@ -1,3 +1,3 @@
-## 55–57. §[^15]
+## 56–57. §[^20]
 
-[^15]: Az 55–57. § a 16. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^20]: Az 56–57. § a 16. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
