@@ -2,7 +2,7 @@
 
 ## rendelkezések
 
-13. § (1)[^88] A 2008. július 1. előtt kiadott tengerész, illetve tengeri kedvtelési célú hajózási képesítésre kiadott képesítő okmányok érvényességi idejük lejártáig érvényesek.
+13. § (1)[^85] A 2008. július 1. előtt kiadott tengerész, illetve tengeri kedvtelési célú hajózási képesítésre kiadott képesítő okmányok érvényességi idejük lejártáig érvényesek.
 
 (2) A rendelet hatálybalépése előtt megszerzett tengerész képesítések közül a rendelet hatálybalépését követően
 
@@ -18,7 +18,7 @@ e) a fedélzeti tiszti képesítés navigációs őrszolgálatért felelős fed�
 
 f) az I. osztályú géptiszti képesítés korlátlan főgépteljesítményre szóló gépüzemvezetői képesítésnek,
 
-g)[^89] a II. osztályú géptiszti képesítés korlátozott (750 és 3000 kW között) főgépteljesítményre szóló gépüzemvezetői képesítésnek,
+g)[^86] a II. osztályú géptiszti képesítés korlátozott (750 és 3000 kW között) főgépteljesítményre szóló gépüzemvezetői képesítésnek,
 
 h) a géptéri őrszolgálatért felelős géptiszti képesítés, 3000 kW feletti teljesítményű gépüzemben teljesített 24 havi géptiszti szolgálat igazolása és teljesítménykorlátozás nélküli gépüzem kezelésére jogosító másodgéptiszti képzés elvégzése után, vizsga letételével korlátlan másodgéptiszti képesítésnek,
 
@@ -28,9 +28,9 @@ j) navigációs és géptéri őrszolgálat tagja képesítés a navigációs é
 
 ## felel meg.
 
-(3)[^90] A megszűnő tengerész fedélzeti képesítéseket igazoló okmányok kicserélése során azoknak a tiszteknek a képesítő okmányát, akik nem rendelkeznek ,,automatikus radar-céltárgy értékelő rendszer'' kezelői képesítéssel, a hajózási hatóság erre vonatkozó bejegyzéssel látja el.
+(3)[^87] A megszűnő tengerész fedélzeti képesítéseket igazoló okmányok kicserélése során azoknak a tiszteknek a képesítő okmányát, akik nem rendelkeznek ,,automatikus radar-céltárgy értékelő rendszer'' kezelői képesítéssel, a hajózási hatóság erre vonatkozó bejegyzéssel látja el.
 
-(4)[^91] A hajózási hatóság 2008. július 1. előtt kiadott tengeri kedvtelési célú,
+(4)[^88] A hajózási hatóság 2008. július 1. előtt kiadott tengeri kedvtelési célú,
 
 a) a parttól 5 tengeri mérföldnyi távolságra való eltávolodásra jogosító kishajó-vezetői képesítést IV. osztályú okmányra,
 
@@ -42,28 +42,28 @@ d) a korlátlan tengeri mérföldnyi távolságra való eltávolodásra jogosít
 
 ## cseréli ki.
 
-(5)[^92] A (4) bekezdés szerinti okmánycserék további feltétele a cserére kerülő okmányban érvényes egészségi alkalmassági bejegyzés megléte vagy a tengerész-orvosi vizsgálatokra jogosult orvos által kiállított érvényes egészségi alkalmassági igazolás bemutatása.
+(5)[^89] A (4) bekezdés szerinti okmánycserék további feltétele a cserére kerülő okmányban érvényes egészségi alkalmassági bejegyzés megléte vagy a tengerész-orvosi vizsgálatokra jogosult orvos által kiállított érvényes egészségi alkalmassági igazolás bemutatása.
 
-(6)[^93] A tengerészkapitányok és a fedélzeti tisztek STCW Egyezmény szerinti II/1, II/2 és II/3 képesítő bizonyítványának (CoC) 2016. december 31. utáni érvényesítéséhez az ECDIS szimulátorkezelői képesítés bemutatása szükséges. Ennek hiányában a bizonyítványt a hajózási hatóság a „Nem érvényes ECDIS rendszerrel felszerelt hajóra – Not valid for service on ships fitted with ECDIS” bejegyzéssel látja el.
+(6)[^90] A tengerészkapitányok és a fedélzeti tisztek STCW Egyezmény szerinti II/1, II/2 és II/3 képesítő bizonyítványának (CoC) 2016. december 31. utáni érvényesítéséhez az ECDIS szimulátorkezelői képesítés bemutatása szükséges. Ennek hiányában a bizonyítványt a hajózási hatóság a „Nem érvényes ECDIS rendszerrel felszerelt hajóra – Not valid for service on ships fitted with ECDIS” bejegyzéssel látja el.
 
-(7)[^94] A tengerész gépüzemvezetők és géptisztek STCW Egyezmény szerinti III/1, III/2 és III/3 képesítő bizonyítványának (CoC) 2016. december 31. utáni érvényesítéséhez a „Magas feszültségű (1000 V feletti) rendszerek – High Voltage – over 1000 V” kezelői képesítés bemutatása szükséges. Ennek hiányában a bizonyítványt a hajózási hatóság a „Nem érvényes magas feszültségű (1000 V feletti) rendszerrel felszerelt hajóra – Not valid for service on ships fitted with High Voltage (over 1000 V) systems” bejegyzéssel látja el.
+(7)[^91] A tengerész gépüzemvezetők és géptisztek STCW Egyezmény szerinti III/1, III/2 és III/3 képesítő bizonyítványának (CoC) 2016. december 31. utáni érvényesítéséhez a „Magas feszültségű (1000 V feletti) rendszerek – High Voltage – over 1000 V” kezelői képesítés bemutatása szükséges. Ennek hiányában a bizonyítványt a hajózási hatóság a „Nem érvényes magas feszültségű (1000 V feletti) rendszerrel felszerelt hajóra – Not valid for service on ships fitted with High Voltage (over 1000 V) systems” bejegyzéssel látja el.
 
-(8)[^95] A (6) és (7) bekezdés szerinti bizonyítványok 2016. december 31. utáni érvényesítését célzó kérelemhez csatolni kell a 3. számú melléklet I. 9. pontjában meghatározott képesítések meglétét igazoló bizonyítványt.
+(8)[^92] A (6) és (7) bekezdés szerinti bizonyítványok 2016. december 31. utáni érvényesítését célzó kérelemhez csatolni kell a 3. számú melléklet I. 9. pontjában meghatározott képesítések meglétét igazoló bizonyítványt.
 
-(9)[^96] A 2013. július 1. előtt megkezdett tengeri szolgálat alapján érvényes képesítő okmány 2016. december 31-éig állítható ki.
+(9)[^93] A 2013. július 1. előtt megkezdett tengeri szolgálat alapján érvényes képesítő okmány 2016. december 31-éig állítható ki.
 
-(10)[^97] 2017. január 1-éig vagy azt követő időpontig érvényes képesítő okmány csak az STCW Egyezménynek megfelelően jóváhagyott képzés, vizsga vagy tengeri szolgálat alapján állítható ki.
+(10)[^94] 2017. január 1-éig vagy azt követő időpontig érvényes képesítő okmány csak az STCW Egyezménynek megfelelően jóváhagyott képzés, vizsga vagy tengeri szolgálat alapján állítható ki.
 
-(11)[^98] Az STCW Egyezmény szerinti képesítések érvényességének meghosszabbítása iránti kérelmet a bizonyítvány érvényességének lejáratát megelőző hat hónapon belül kell benyújtani.
+(11)[^95] Az STCW Egyezmény szerinti képesítések érvényességének meghosszabbítása iránti kérelmet a bizonyítvány érvényességének lejáratát megelőző hat hónapon belül kell benyújtani.
 
-[^88]: A 13. § (1) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^89]: A 13. § (2) bekezdésének g) pontja a 3/2008. (VI. 3.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^90]: A 13. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének a) pontja szerint módosított szöveg.
-[^91]: A 13. § (4) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^92]: A 13. § (5) bekezdését a 3/2008. (VI. 3.) KHEM rendelet 9. § (4) bekezdése iktatta be, szövege a 23/2015. (V. 8.) NFM rendelet 6. § c) pontja szerint módosított szöveg.
-[^93]: A 13. § (6) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
-[^94]: A 13. § (7) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
-[^95]: A 13. § (8) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
-[^96]: A 13. § (9) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
-[^97]: A 13. § (10) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
-[^98]: A 13. § (11) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
+[^85]: A 13. § (1) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^86]: A 13. § (2) bekezdésének g) pontja a 3/2008. (VI. 3.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^87]: A 13. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének a) pontja szerint módosított szöveg.
+[^88]: A 13. § (4) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^89]: A 13. § (5) bekezdését a 3/2008. (VI. 3.) KHEM rendelet 9. § (4) bekezdése iktatta be, szövege a 23/2015. (V. 8.) NFM rendelet 6. § c) pontja szerint módosított szöveg.
+[^90]: A 13. § (6) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
+[^91]: A 13. § (7) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
+[^92]: A 13. § (8) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
+[^93]: A 13. § (9) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
+[^94]: A 13. § (10) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.
+[^95]: A 13. § (11) bekezdését a 23/2015. (V. 8.) NFM rendelet 3. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## fedélzeti szolgálatban
 
-## A.[^279]
+## A.[^276]
 
 ## Belvízi hajózás
 
@@ -62,7 +62,7 @@
 
 ## szolgálatok elláthatók, valamint a 3. pont 3.1–3.5 alpontban meghatározott sorszámú képesítésekkel ellátható szolgálatok közül az alacsonyabb sorszámú képesítésekkel a magasabb sorszámú szolgálatok elláthatók.
 
-## 4.[^280] A gépkezelő és géptiszt képesítésekkel a 3. pont 3.3-3.5 alpontjában meghatározott sorszámú szolgálatok (egészségi alkalmasság igazolása esetén) elláthatók.
+## 4.[^277] A gépkezelő és géptiszt képesítésekkel a 3. pont 3.3-3.5 alpontjában meghatározott sorszámú szolgálatok (egészségi alkalmasság igazolása esetén) elláthatók.
 
 ## 5. Belvízi vitorlás képesítések:
 
@@ -98,8 +98,8 @@
 
 ## 5. 500 BT vagy annál nagyobb hajóra képesített navigációs őrszolgálatért felelős fedélzeti tiszt
 
-6. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^281]
+6. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^278]
 
-[^279]: Az 5. számú melléklet A. része a 9/2009. (III. 6.) KHEM rendelet 6. §-ával megállapított szöveg.
-[^280]: Az 5. számú melléklet A. Belvízi hajózás alcím 4. pontja a 29/2014. (V. 5.) NFM rendelet 18. § (4) bekezdésével megállapított szöveg.
-[^281]: A 6. számú melléklet a 3/2008. (VI. 3.) KHEM rendelet 10. § (5) bekezdésével megállapított, a 9/2009. (III. 6.) KHEM rendelet 7. §-a, a 42/2013. (VII. 19.) NFM rendelet 2. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 18. § (5) bekezdése és 20. § e) pontja, a 66/2015. (XI. 18.) NFM rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^276]: Az 5. számú melléklet A. része a 9/2009. (III. 6.) KHEM rendelet 6. §-ával megállapított szöveg.
+[^277]: Az 5. számú melléklet A. Belvízi hajózás alcím 4. pontja a 29/2014. (V. 5.) NFM rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^278]: A 6. számú melléklet a 3/2008. (VI. 3.) KHEM rendelet 10. § (5) bekezdésével megállapított, a 9/2009. (III. 6.) KHEM rendelet 7. §-a, a 42/2013. (VII. 19.) NFM rendelet 2. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 18. § (5) bekezdése és 20. § e) pontja, a 66/2015. (XI. 18.) NFM rendelet 11. § (3) bekezdése szerint módosított szöveg.
