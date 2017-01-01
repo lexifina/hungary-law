@@ -1,0 +1,1 @@
+3. § A Ctv. 2. számú melléklet II. 2. d) pont db) alpontjában a „szükséges tájékoztató” szövegrész helyébe a „szükséges tájékoztató (összefoglaló)” szöveg, az „idegen nyelvű tájékoztató” szövegrész helyébe az „idegen nyelvű tájékoztató (összefoglaló)” szöveg lép.
