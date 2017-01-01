@@ -6,6 +6,8 @@ a) a feljelentésről készített jegyzőkönyvről, illetve a feljelentés megt
 
 b) egyes áldozatsegítő szolgáltatások igénybevétele feltételhez kötött; továbbá
 
-c) ha adott támogatás igénybevételéhez igazolás szükséges, akkor azt a rendőrség a kérelmére díjmentesen kiállítja, ugyanakkor az igazolás a fővárosi és megyei kormányhivatal mint áldozatsegítő szolgálat útján is beszerezhető.
+c)[^2] ha adott támogatás igénybevételéhez igazolás szükséges, akkor azt a rendőrség a kérelmére díjmentesen kiállítja, ugyanakkor az igazolás a fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal mint áldozatsegítő szolgálat útján is beszerezhető.
 
 (3) A szóbeli figyelemfelhívást és a tájékoztató átadását, valamint a jegyzőkönyvről készült másolat kérésének igényét a sértett a jegyzőkönyv felvételekor aláírásával igazolja.
+
+[^2]: Az 1. § (2) bekezdés c) pontja az 58/2016. (XII. 22.) BM rendelet 56. § a) pontja szerint módosított szöveg.

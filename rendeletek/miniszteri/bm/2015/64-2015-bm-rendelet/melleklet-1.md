@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. §[^5]
 
 1. melléklet a 64/2015. (XII. 12.) BM rendelethez
 
@@ -98,4 +98,4 @@ _____________________
 
 * A büntetőeljárásról szóló 1998. évi XIX. törvény 62/C. § (2) bekezdése alapján a sértettet különleges bánásmódot igénylő sértettnek kell tekinteni, amennyiben a büntetőeljárás megindításakor a 18. életévét nem töltötte be.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
