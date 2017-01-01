@@ -5846,4 +5846,34 @@ A 26. SORSZÁMÚ KÖZSZOLGÁLATI ÜGYINTÉZŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZA
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakörök, foglalkozások
 
-[^6]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított szöveg.
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
+
+| 3.1.2. | 4229 | Egyéb ügyfélkapcsolati foglalkozású | Ügyfélszolgálati ügyintéző |
+
+| 3.1.3. | 4136 | Iratkezelő, irattáros | Ügykezelő, Irattáros |
+
+| 3.1.4. | 4112 | Általános irodai adminisztrátor | Adminisztrációs ügyintéző, Dokumentációs ügyintéző |
+
+| 3.1.5 | 3654 | Hatósági engedélyek kiadásával foglalkozó ügyintéző | Földhivatali hatósági ügyintéző, hatósági ügyintéző (szociális terület, okmányirodai feladatok) |
+
+3.2. A szakképesítés munkaterületének rövid leírása
+
+A Közszolgálati ügyintéző munkája során személyesen, írásban, telefonon vagy elektronikus kommunikációs csatornákon fogadja az ügyfelek megkereséseit. Kezeli a felmerült problémákat, felvilágosítást, tájékoztatást nyújt az ügyfelek részére, válaszol a szolgáltatásokkal vagy eljárásokkal kapcsolatos kérdésekre. Közigazgatási eljárás keretén belül ügyeket kezel, jogkörében meghatározott eljárásokat folytat le. Gépírás, szövegszerkesztés tudás birtokában adminisztratív és dokumentációs feladatokat lát el. Ügyviteli feladatokat lát el.
+
+A szakképesítéssel rendelkező képes
+
+− külső és belső kapcsolattartást és kapcsolat lezárását szolgáló iratokat, leveleket, egyéb dokumentumokat készíteni, szerkeszteni, sokszorosítani, kezelni, tárolni
+
+− számítógépes ügyviteli és iktató programcsomagokat alkalmazni
+
+− ellátni a feladatkörébe tartozó irodai készletgazdálkodási, adminisztrációs feladatokat, közigazgatási eljárás keretén belül jogkörében hivatalból vagy kérelemre hatósági eljárást, vagy hatósági ellenőrzést lefolytatni, végezni
+
+− ügyviteli munkafolyamatokat szervezni és irányítani
+
+− irodatechnikai, információs és kommunikációs eszközöket, berendezéseket kezelni, használni
+
+− ügyintézői feladatokat ellátni
+
+[^6]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 38. §-a szerint módosított szöveg.
