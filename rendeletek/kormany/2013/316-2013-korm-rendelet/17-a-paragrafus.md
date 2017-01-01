@@ -1,6 +1,6 @@
-## 17. § Az OTH 4–16. § és 19. § szerinti eljárásában a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) szakértőként vesz részt az 528/2012/EU európai parlamenti és tanácsi rendelet V. melléklete szerinti 3., 5., 18. és 19. terméktípusban állategészségügyi érintettség esetén az állatgyógyászati termékekről szóló miniszteri rendeletben meghatározott, állategészségügyi biocid termékekkel összefüggő feladatkörében.
+## 17. §[^14] Az OTH 4–16. § és 19. § szerinti eljárásában az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: Pest Megyei Kormányhivatal) szakértőként vesz részt az 528/2012/EU európai parlamenti és tanácsi rendelet V. melléklete szerinti 3., 5., 18. és 19. terméktípusban állategészségügyi érintettség esetén az állatgyógyászati termékekről szóló miniszteri rendeletben meghatározott, állategészségügyi biocid termékekkel összefüggő feladatkörében.
 
-17/A. §[^13] (1) A biocid terméket az átvevő vagy értékelő hatóság a biocid termékek forgalomba hozatalának és felhasználásának engedélyezésére irányuló eljárása során felhasználás szempontjából a következő kategóriák szerint besorolja:
+17/A. §[^15] (1) A biocid terméket az átvevő vagy értékelő hatóság a biocid termékek forgalomba hozatalának és felhasználásának engedélyezésére irányuló eljárása során felhasználás szempontjából a következő kategóriák szerint besorolja:
 
 a) ipari felhasználó,
 
@@ -24,4 +24,5 @@ c) III. forgalmazási kategória.
 
 (5) III. forgalmazási kategóriába kell besorolni az I. és a II. forgalmazási kategóriába nem sorolható szereket.
 
-[^13]: A 17/A. §-t a 413/2015. (XII. 23.) Korm. rendelet 65. §-a iktatta be.
+[^14]: A 17. § a 379/2016. (XII. 2.) Korm. rendelet 240. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^15]: A 17/A. §-t a 413/2015. (XII. 23.) Korm. rendelet 65. §-a iktatta be.

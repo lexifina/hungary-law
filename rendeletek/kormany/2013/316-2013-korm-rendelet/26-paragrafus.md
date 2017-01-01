@@ -4,20 +4,20 @@
 
 a) a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és a tanácsi rendelet,
 
-b)[^31]
+b)[^34]
 
-c)[^32] az 528/2012/EU európai parlamenti és tanácsi rendeletnek a kölcsönös elismerési eljárás tárgyát képező engedélyek megújítására vonatkozó szabályok tekintetében történő kiegészítéséről szóló 2014. március 7-i 492/2014/EU felhatalmazáson alapuló bizottsági rendelet,
+c)[^35] az 528/2012/EU európai parlamenti és tanácsi rendeletnek a kölcsönös elismerési eljárás tárgyát képező engedélyek megújítására vonatkozó szabályok tekintetében történő kiegészítéséről szóló 2014. március 7-i 492/2014/EU felhatalmazáson alapuló bizottsági rendelet,
 
-d)[^33] az 528/2012/EU európai parlamenti és tanácsi rendeletnek megfelelően az azonos biocid termékek engedélyezésére szolgáló eljárás meghatározásáról szóló 2013. május 6-i 414/2013/EU bizottsági végrehajtási rendelet
+d)[^36] az 528/2012/EU európai parlamenti és tanácsi rendeletnek megfelelően az azonos biocid termékek engedélyezésére szolgáló eljárás meghatározásáról szóló 2013. május 6-i 414/2013/EU bizottsági végrehajtási rendelet
 
-e)[^34] a biocid termékek forgalmazásáról és felhasználásáról szóló 528/2012/EU rendeletnek a piacra jutás bizonyos feltételei tekintetében történő módosításáról szóló, 2014. március 11-i 334/2014/EU európai parlamenti és tanácsi rendelet,
+e)[^37] a biocid termékek forgalmazásáról és felhasználásáról szóló 528/2012/EU rendeletnek a piacra jutás bizonyos feltételei tekintetében történő módosításáról szóló, 2014. március 11-i 334/2014/EU európai parlamenti és tanácsi rendelet,
 
-f)[^35] a biocid termékekben található valamennyi létező hatóanyag szisztematikus vizsgálatára irányuló, az 528/2012/EU európai parlamenti és tanácsi rendeletben említett munkaprogramról szóló, 2014. augusztus 4-i 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet
+f)[^38] a biocid termékekben található valamennyi létező hatóanyag szisztematikus vizsgálatára irányuló, az 528/2012/EU európai parlamenti és tanácsi rendeletben említett munkaprogramról szóló, 2014. augusztus 4-i 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^31]: A 26. § b) pontját a 364/2014. (XII. 30.) Korm. rendelet 113. § c) pontja hatályon kívül helyezte.
-[^32]: A 26. § c) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
-[^33]: A 26. § d) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
-[^34]: A 26. § e) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
-[^35]: A 26. § f) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
+[^34]: A 26. § b) pontját a 364/2014. (XII. 30.) Korm. rendelet 113. § c) pontja hatályon kívül helyezte.
+[^35]: A 26. § c) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
+[^36]: A 26. § d) pontját a 169/2014. (VII. 18.) Korm. rendelet 19. §-a iktatta be.
+[^37]: A 26. § e) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
+[^38]: A 26. § f) pontját a 364/2014. (XII. 30.) Korm. rendelet 111. §-a iktatta be.
