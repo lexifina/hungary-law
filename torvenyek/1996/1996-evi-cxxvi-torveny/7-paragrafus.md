@@ -20,15 +20,15 @@ b) a 4. § (1) bekezdés b)–i) pontja szerinti kedvezményezett a létesítő 
 
 (9) A kedvezményezett fenntartásával, működésével kapcsolatos költségek – a 6/C. § (1) bekezdése szerinti tartalékolás esetén, ideértve a tartalékolást követő években felmerült, ilyen jellegű költségeket is – együttes összege a felhasználás évében nem haladhatja meg a felhasznált összeg huszonöt százalékát, de legfeljebb 25 millió forintot. A kedvezményezett reklám és marketing célú tevékenységére fordított költségek együttes összege a felhasználás évében nem haladhatja meg a felhasznált összeg tíz százalékát, de legfeljebb 10 millió forintot.
 
-(10) Működési költségként a következők vehetők figyelembe:
+(10) Működési költségként különösen a következők vehetők figyelembe:
 
 a) a számvitelről szóló 2000. évi C. törvény
 
 aa) 79. §-a szerinti személyi jellegű ráfordítások,
 
-ab) 83. § (3) bekezdése szerinti fizetendő kamatok és kamatjellegű ráfordítások, a pénzügyi műveletek egyéb ráfordításai, valamint
+ab) 83. § (3) bekezdése szerinti fizetendő kamatok és kamatjellegű ráfordítások, a pénzügyi műveletek egyéb ráfordításai,
 
-ac) 86. § (7) bekezdés c) pontja szerint a visszafizetési kötelezettség nélkül átadott, pénzügyileg rendezett, véglegesen átadott pénzeszközök összege,
+ac)
 
 b) székhely, működési hely – kivéve, ha az valamely alapító, tag, vezető tisztségviselő, alkalmazott vagy ezek hozzátartozója által bármely jogcímen lakás céljára használt ingatlana is egyben – fenntartásával és működtetésével kapcsolatos költségek, így különösen az ingatlan bérleti díja és a kedvezményezettet terhelő közműdíjak,
 

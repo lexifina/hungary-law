@@ -10,7 +10,7 @@ c) a felajánlásokból történő részesedésből kizárt kedvezményezettek n
 
 (2a) Az adóhatóság az (1) bekezdésben meghatározott adatok tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
-(3) A jogszabályi feltételeknek megfelelő azon kedvezményezettekről, akik számára az átutalás megtörtént, a (2) bekezdés szerinti közzétételre a rendelkező nyilatkozat évének utolsó napját követően kerül sor.
+(3) A jogszabályi feltételeknek megfelelő azon kedvezményezettekről, akik számára az átutalás, vagy a köztartozásra levonás megtörtént, a (2) bekezdés szerinti közzétételre a rendelkező nyilatkozat évének utolsó napját követően kerül sor.
 
 (3a) Az adóhatóság a (3) bekezdésben meghatározott adatok tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
@@ -18,4 +18,4 @@ c) a felajánlásokból történő részesedésből kizárt kedvezményezettek n
 
 (5) A kedvezményezettet kérelmére az adóhatóság térítésmentesen tájékoztatja a javára rendelkező – az adatszolgáltatás időpontjában – érvényes és érvénytelen, valamint el nem bírált nyilatkozatot tevők számáról, régiónkénti, megyénkénti, korcsoportonkénti megoszlásáról, az érvénytelenséget okozó – az 5/A. § (1) bekezdés a)–d) pontjának megfelelően részletezett – okokról és azok arányáról.
 
-(6) Az állami adóhatóság a 6. § (1) bekezdés szerinti határidőt követő 30 napon belül egy alkalommal elektronikus úton tájékoztatja az 1. § (6) bekezdése szerinti adatokról azokat a 4. § (1) bekezdése szerinti kedvezményezetteket, akik elektronikus úton szeptember 30-áig benyújtott nyilatkozatuk alapján igényt tartanak ezen adatszolgáltatásra. A tájékoztatás a magánszemély adott rendelkező évi érvényes nyilatkozata alapján történik. A kedvezményezett az ily módon rendelkezésre álló adatokat kizárólag a közhasznú tevékenységével kapcsolatban a magánszeméllyel történő kapcsolatfelvételre, tájékoztatás nyújtására használhatja fel, és az adatokat kizárólag az adatszolgáltatást követő 5 évig kezelheti.
+(6) Az állami adóhatóság a kérelem benyújtását követő 30 napon belül, de legkorábban október 15-től elektronikus úton tájékoztatja az 1. § (6) bekezdése szerinti adatokról azokat a 4. § (1) bekezdése szerinti kedvezményezetteket, akik elektronikus úton benyújtott nyilatkozatuk alapján igényt tartanak ezen adatszolgáltatásra. A tájékoztatás a magánszemély adott rendelkező évi érvényes nyilatkozata alapján történik. A kedvezményezett az ily módon rendelkezésre álló adatokat kizárólag a közhasznú tevékenységével kapcsolatban a magánszeméllyel történő kapcsolatfelvételre, tájékoztatás nyújtására használhatja fel, és az adatokat kizárólag az adatszolgáltatást követő 5 évig kezelheti.

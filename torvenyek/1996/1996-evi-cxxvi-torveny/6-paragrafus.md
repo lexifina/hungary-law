@@ -2,7 +2,7 @@
 
 6. § (1) Az adóhatóság a 3. §-ban meghatározott összeget a 4. § (1) bekezdésében meghatározott kedvezményezett részére legkésőbb a rendelkező nyilatkozat évének szeptember 30. napjáig utalja át, figyelemmel a (2) bekezdésre is.
 
-(2) Ha az adóbevallás, az egyszerűsített bevallás, az adónyilatkozat vagy a munkáltatói adómegállapítás az átutaláshoz szükséges adatfeldolgozásra alkalmatlan, az utalást akkor kell teljesíteni, ha
+(2) Ha az adóbevallás vagy a munkáltatói adómegállapítás az átutaláshoz szükséges adatfeldolgozásra alkalmatlan, az utalást akkor kell teljesíteni, ha
 
 a) a rendelkező nyilatkozat évének utolsó napját követő egy éven belül az adóbevallás, az egyszerűsített bevallás, az adónyilatkozat vagy a munkáltatói adómegállapítás helyesbítése alapján az lehetséges, vagy
 

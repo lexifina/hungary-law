@@ -4,9 +4,9 @@ a) a rendelkező nyilatkozatot tartalmazó borítékot és a benne elhelyezett r
 
 b) a rendelkező nyilatkozatnak az adózó nevét és adóazonosító jelét, ennek hiányában adószámát tartalmazó részét és a kedvezményezettek megjelölését tartalmazó perforált részét
 
-a rendelkező nyilatkozatot tartalmazó boríték, illetve az adóbevallást, egyszerűsített bevallást tartalmazó boríték felbontásakor egymással megegyező azonosító kódjellel látja el, és azokat egymástól elkülönítve – ugyanazon személynek egyidejűleg hozzá nem férhető módon – dolgozza fel, ellenőrzi és őrzi.
+a rendelkező nyilatkozatot tartalmazó boríték, illetve az adóbevallást tartalmazó boríték felbontásakor egymással megegyező azonosító kódjellel látja el, és azokat egymástól elkülönítve – ugyanazon személynek egyidejűleg hozzá nem férhető módon – dolgozza fel, ellenőrzi és őrzi.
 
-(2) Az adóhatóság az elektronikus űrlapon beérkezett rendelkező nyilatkozat adatait az adóbevallástól, egyszerűsített bevallástól elválasztja és azonosító kódjellel látja el. Az adóhatóság az elektronikus űrlap feldolgozása során elkülönülten kezeli a rendelkező magánszemély és a kedvezményezett adatait.
+(2) Az adóhatóság az elektronikus űrlapon beérkezett rendelkező nyilatkozat adatait az adóbevallástól elválasztja és azonosító kódjellel látja el. Az adóhatóság az elektronikus űrlap feldolgozása során elkülönülten kezeli a rendelkező magánszemély és a kedvezményezett adatait.
 
 (3) Az adóhatóság csak
 

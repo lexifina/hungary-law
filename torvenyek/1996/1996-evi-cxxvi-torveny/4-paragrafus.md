@@ -50,6 +50,8 @@ i) a Magyar Művészeti Akadémia.
 
 (7) Amennyiben a regisztrációt követően bekövetkezett változás miatt a szervezet már nem felel meg a 4. § (1) bekezdése szerinti feltételeknek, azt a változás bekövetkeztétől számított 15 napon belül köteles bejelenteni az adóhatóságnak. Az adóhatóság a bejelentést követően törli a szervezetet a kedvezményezettek hatósági nyilvántartásából. Az adóhatóság a szervezetet akkor is törli a nyilvántartásból, ha tudomást szerez a kedvezményezett törléséről vagy közhasznú tevékenységet nem folytató szervezetté történő átalakulásáról, továbbá arról, hogy nem felel meg a 4. § (1) bekezdése szerinti feltételeknek.
 
+(7a) Az adóhatóság a szervezetet abban az esetben is törli a nyilvántartásból, ha a szervezet a (6) bekezdés szerinti kiutaláshoz szükséges adatokra vonatkozó bejelentési kötelezettségének hiánypótlásra történő felszólítás ellenére sem tesz eleget.
+
 (8) Az adóhatóság minden év január 1-jén a honlapján teszi közzé az adott rendelkező évben felajánlásra jogosult kedvezményezettek adószámát, nevét, székhelyét. A közzétett listát az adóhatóság a (7) bekezdés szerinti bejelentések alapján folyamatosan frissíti. Az adóhatóság biztosítja a közzétett listát tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére a Civil Információs Portálon történő közzététel, adatfeldolgozás és rendszerezés céljából.
 
 (9) Köztartozás fennállása esetén az adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései alapján intézkedik a kedvezményezett javára felajánlott adóösszegnek az általa nyilvántartott köztartozásra történő átvezetéséről. A kedvezményezett részére a köztartozások kiegyenlítését követően fennmaradó összeg utalható.
