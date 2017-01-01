@@ -2,8 +2,8 @@
 
 a) a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 1. § (1) bekezdés c) pontjában meghatározott jogalanyra (a továbbiakban: kérelmező),
 
-b)[^1] a Nemzeti Szakképzési és Felnőttképzési Hivatalra (a továbbiakban: NSZFH),
+b)[^1] a Pest Megyei Kormányhivatalra (a továbbiakban: kormányhivatal),
 
 c) a felnőttképzési szakértőkre, felnőttképzési programszakértőkre.
 
-[^1]: Az 1. § b) pontja az 55/2014. (XII. 31.) NGM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § b) pontja a 62/2016. (XII. 29.) NGM rendelet 64. § (1) bekezdésével megállapított szöveg.

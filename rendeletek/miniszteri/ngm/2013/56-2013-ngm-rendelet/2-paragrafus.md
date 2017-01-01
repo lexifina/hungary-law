@@ -28,12 +28,12 @@ b) az (1) bekezdés b) pont bb) alpontja, valamint a (2) bekezdés szerinti dön
 
 c)[^2] az Fktv. szerinti felnőttképzést folytató intézmények ellenőrzése során meghozott döntés ellen benyújtott jogorvoslati kérelem esetén 33 600 forint.
 
-(5)[^3] A díjat a kérelmezőnek az NSZFH Magyar Államkincstárnál vezetett 10032000-00334789-00000000 számú számlájára, a jogorvoslati díjat a Nemzetgazdasági Minisztérium Magyar Államkincstárnál vezetett 10032000-01460658-00000000 számú számlájára az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni, az elektronikus ügyintézés részletes szabályairól szóló kormányrendelet és az elektronikus aláírás közigazgatási használatához kapcsolódó követelményekről és az elektronikus kapcsolattartás egyes szabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését.
+(5)[^3] A díjat a kérelmezőnek a kormányhivatal Magyar Államkincstárnál vezetett 10023002-00299671-00000000 számú számlájára, a jogorvoslati díjat a Nemzetgazdasági Minisztérium Magyar Államkincstárnál vezetett 10032000-01460658-00000000 számú számlájára az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni, az elektronikus ügyintézés részletes szabályairól szóló kormányrendelet és az elektronikus aláírás közigazgatási használatához kapcsolódó követelményekről és az elektronikus kapcsolattartás egyes szabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését.
 
 (6) A díj, a jogorvoslati díj átutalással történő megfizetésének igazolására a kérelemhez, bejelentéshez vagy a jogorvoslati kérelemhez – az elektronikus ügyintézés részletes szabályairól szóló jogszabály szerint – mellékelni kell az átutalás tényét igazoló, a bank által kiadott igazolás eredeti példányát vagy az átutalást igazoló bizonylat másolatát.
 
-(7)[^4] Az NSZFH túlfizetés esetén a díjtöbbletet hivatalból, annak észlelésétől számított tizenöt napon belül visszatéríti, ha a kérelem és a befizetést igazoló iratok alapján megállapítható, hogy a kérelmező az e rendeletben meghatározott mértéket meghaladó összegű díjat fizetett.
+(7)[^4] A kormányhivatal túlfizetés esetén a díjtöbbletet hivatalból, annak észlelésétől számított tizenöt napon belül visszatéríti, ha a kérelem és a befizetést igazoló iratok alapján megállapítható, hogy a kérelmező az e rendeletben meghatározott mértéket meghaladó összegű díjat fizetett.
 
 [^2]: A 2. § (4) bekezdés c) pontját a 14/2014. (III. 31.) NGM rendelet 13. §-a iktatta be.
-[^3]: A 2. § (5) bekezdése az 55/2014. (XII. 31.) NGM rendelet 15. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
-[^4]: A 2. § (7) bekezdése az 55/2014. (XII. 31.) NGM rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 64. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § (7) bekezdése a 62/2016. (XII. 29.) NGM rendelet 64. § (2) bekezdés b) pontja szerint módosított szöveg.
