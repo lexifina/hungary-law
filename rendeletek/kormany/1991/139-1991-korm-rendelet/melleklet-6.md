@@ -36,10 +36,10 @@ b) gyakorlati (II.) program esetében a megfelelő járműkategóriára vonatkoz
 
 4.[^24] Az utánképzés díját a közlekedési hatóság számlájára, a feltárás eredményeként meghatározott programnak megfelelően, a foglalkozások megkezdése előtt kell befizetni.
 
-5.[^25] A regionális igazgatóságok az utánképzés bruttó bevételének 5%-át kötelesek – a Központ által meghatározott feltételek szerint – elkülöníteni és az utánképzési rendszer szakmai irányítására és fejlesztésére fordítani.
+5.[^25] A közlekedésért felelős miniszter az utánképzés bruttó bevételének 5%-át kötelesek elkülöníteni és az utánképzési rendszer szakmai irányítására és fejlesztésére fordítani.
 
 6. Az utánképzési foglalkozások díját — külön jogszabályban meghatározott díjtétel szerint — hatályba lépésének napján érvényes díjak szerint kell alkalmazni.
 
 [^23]: Lásd a 26/1992.(XII.22.) KHVM rendelet 4. számú mellékletét.
 [^24]: A 6. számú melléklet 4. pontja a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^25]: A 6. számú melléklet 5. pontja a 182/2009. (IX. 10.) Korm. rendelet 28. §-a, a 351/2010. (XII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^25]: A 6. számú melléklet 5. pontja a 379/2016. (XII. 2.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
