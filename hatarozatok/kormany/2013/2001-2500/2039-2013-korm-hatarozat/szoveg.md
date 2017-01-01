@@ -490,7 +490,7 @@ A kormányablak-tudástárban szereplő ügykörök
 
 234. Gyermek és a szülő, illetve más kapcsolattartásra jogosult személy kapcsolattartásának szabályozása iránti kérelem
 
-235. Bíróság, valamint a járási gyámhivatal által szabályozott kapcsolattartás végrehajtása iránti kérelem
+235.[^1] Bíróság, valamint a gyámügyi hatáskörében eljáró járási hivatal által szabályozott kapcsolattartás végrehajtása iránti kérelem
 
 236. Kérelem a gyermeket megillető tartásról lemondó nyilatkozat jóváhagyására
 
@@ -2178,7 +2178,7 @@ A kormányablak-tudástárban szereplő ügykörök
 
 1078. Vizsga nélküli „Megfelelőségi nyilatkozat” alapján történő forgalomba helyezési engedély iránti kérelem
 
-1079. A Nemzeti Közlekedési Hatósággal hatósági szerződést kötött típusvizsgálót, illetve elfogadott szakértőt alkalmazó autóbusz fenntartó emelt sebességhatárú autóbuszok vizsgálatára való feljogosítása iránti kérelme
+1079.[^2] A Budapest Főváros Kormányhivatalával hatósági szerződést kötött típusvizsgálót, illetve elfogadott szakértőt alkalmazó autóbusz fenntartó emelt sebességhatárú autóbuszok vizsgálatára való feljogosítása iránti kérelme
 
 1080. Gépjárműfenntartó szervezet sorozat átalakítási engedély iránti kérelme
 
@@ -2218,7 +2218,7 @@ A kormányablak-tudástárban szereplő ügykörök
 
 1098. Az országos közúthálózatba tartozó autópályák, autóutak és a közúti határátkelőhelyek közlekedési építményei és műtárgyai, továbbá útépítési engedélyezési eljáráshoz nem köthető, önálló beruházásként megvalósuló 30 m szabadnyílást meghaladó híd építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának, megszüntetésének (elbontásának) engedélyezése
 
-1099. Nemzeti Közlekedési Hatóság engedélyezési hatáskörébe tartozó utak építéséhez szükséges ideiglenes forgalomszabályozási tervek jóváhagyása iránti kérelem
+1099.[^3] Budapest Főváros Kormányhivatala engedélyezési hatáskörébe tartozó utak építéséhez szükséges ideiglenes forgalomszabályozási tervek jóváhagyása iránti kérelem
 
 1100. Az ideiglenesen létesített vasúti átjáró kivételével vasúti átjáró létesítésének, áthelyezésének és megszüntetésének, valamint a létesítés és az áthelyezés során a vasúti átjáró biztosítási módjának és forgalmi rendjének engedélyezése iránti kérelem
 
@@ -4678,17 +4678,17 @@ A kormányablak-tudástárban szereplő ügykörök
 
 2328. ADR, illetve RID (veszélyes anyagok közúti, illetve vasúti szállítása) során a csomagolóeszközök, nagycsomagolások gyártására, felújítására és vizsgálatára vonatkozó minőségbiztosítási program megfelelőségének elfogadása iránti kérelem
 
-2329. Elvi építési keretengedély iránti kérelem a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2329.[^4] Elvi építési keretengedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2330. Építési engedély iránti kérelem a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2330.[^5] Építési engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2331. Használatbavételi engedély iránti kérelem a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2331.[^6] Használatbavételi engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2332. Rendeltetés megváltoztatása iránti kérelem a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2332.[^7] Rendeltetés megváltoztatása iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2333. Megszüntetési engedély iránti kérelem a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2333.[^8] Megszüntetési engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2334. Fennmaradási engedély iránti kérelem a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2334.[^9] Fennmaradási engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
 2335. Autógáz töltőállomás elvi építési engedélye iránti kérelem
 
@@ -4789,3 +4789,13 @@ A kormányablak-tudástárban szereplő ügykörök
 2383. Állampolgársági eskü letételét követően az okmányok átadása, megsemmisítése a jogszabályban meghatározott esetekben
 
 2384. Az elhunyt személyek okmányaival kapcsolatos intézkedések megtétele
+
+[^1]: A Melléklet 235. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont a) alpontja szerint módosított szöveg.
+[^2]: A Melléklet 1079. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont b) alpontja szerint módosított szöveg.
+[^3]: A Melléklet 1099. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont c) alpontja szerint módosított szöveg.
+[^4]: A Melléklet 2329. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^5]: A Melléklet 2330. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^6]: A Melléklet 2331. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^7]: A Melléklet 2332. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^8]: A Melléklet 2333. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^9]: A Melléklet 2334. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
