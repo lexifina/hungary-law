@@ -1,3 +1,3 @@
-35. §[^35]
+35. §[^36]
 
-[^35]: A 34–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 34–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
