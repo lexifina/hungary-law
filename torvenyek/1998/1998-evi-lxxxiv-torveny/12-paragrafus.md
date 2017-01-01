@@ -26,7 +26,7 @@ b) vakok személyi járadékában vagy fogyatékossági támogatásban részesü
 
 c) megváltozott munkaképességű személyek ellátásában részesül és egyéb jövedelme nincs,
 
-d) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül, feltéve, ha nyugdíjának, ellátásának összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
+d) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül, feltéve, ha nyugdíjának, ellátásának összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
 
 e) időskorúak járadékában, rokkantsági járadékban, hadigondozási járadékban részesül, és egyéb jövedelme nincs, illetve az aktív korúak ellátására való jogosultságát megállapították,
 

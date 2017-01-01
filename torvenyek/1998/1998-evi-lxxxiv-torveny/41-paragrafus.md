@@ -16,8 +16,10 @@ a) az ellátásban részesülő tudta, hogy az ellátás őt nem illeti meg, de 
 
 b) az ellátásban részesülő a saját gondatlanságából fakadóan nem tudta, hogy az ellátás őt nem illeti meg, de a körülményekből az következik, hogy ezt tudnia kellett volna.
 
+(4a) Ha a szülők egyike jogalap nélkül vett fel a gyermekük után járó gyermekgondozási támogatást vagy a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti, az egészségbiztosítás pénzbeli ellátásának minősülő ellátást, mindkét szülő erre irányuló egybehangzó nyilatkozata alapján a jogalap nélkül felvett ellátás a másik szülőnek – a közös háztartásban nevelt gyermekükre tekintettel – megállapított gyermekgondozási támogatás összegéből levonható. Ha a szülők nem járulnak hozzá egybehangzó nyilatkozattal a levonáshoz, a jogalap nélkül felvett ellátást – felróhatóságra tekintet nélkül – az a szülő köteles visszafizetni, aki az ellátást felvette.
+
 (5) Az igényelbíráló szerv, illetve az egyéb szerv köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást a (2) bekezdés alapján visszakövetelni nem lehet.
 
-(6) Ha az ellátás jogalap nélküli megállapításáért, illetőleg felvételéért az igényelbíráló vagy egyéb szervet és az ellátásban részesülőt is felelősség terheli, úgy a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatásuk aránya nem állapítható meg, akkor a felelősöket egyenlő arányban kell megtérítésre, visszafizetésre kötelezni.
+(6) Ha az ellátás jogalap nélküli megállapításáért vagy felvételéért az igényelbíráló vagy egyéb szervet és az ellátásban részesülőt is felelősség terheli, úgy a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni vagy visszafizetni. Ha a közrehatásuk aránya nem állapítható meg, akkor a felelősöket egyenlő arányban kell megtérítésre, visszafizetésre kötelezni.
 
 (7) Ha az ellátás jogalap nélküli megállapításáért, felvételéért az igényelbíráló szervet és az egyéb szervet is felelősség terheli, úgy a jogalap nélkül felvett ellátás megtérítéséért egyetemlegesen felelnek.

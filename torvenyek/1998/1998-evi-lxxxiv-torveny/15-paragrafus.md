@@ -4,7 +4,7 @@
 
 a) az adott nevelési évben igazolatlanul mulasztott ötödik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja a családi pótlék jogosultját a b) pontban meghatározott jogkövetkezményre,
 
-b) az adott nevelési évben igazolatlanul mulasztott huszadik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a fővárosi és megyei kormányhivatalnál az ellátás szüneteltetését.
+b) az adott nevelési évben igazolatlanul mulasztott huszadik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a családtámogatási ügyben eljáró hatóságnál az ellátás szüneteltetését.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha az óvodai nevelésben való részvételi kötelezettséget olyan gyermek szegi meg, illetve a kötelező tanórai foglalkozások tekintetében olyan gyermek mulaszt igazolatlanul,
 
@@ -12,7 +12,7 @@ a) akit nevelőszülőnél, gyermekotthonban vagy szociális intézményben hely
 
 b) aki gyermekvédelmi gondoskodás alatt áll és javítóintézetben vagy büntetés-végrehajtási intézetben helyezték el.
 
-(3) A fővárosi és megyei kormányhivatal a gyámhatóság kezdeményezésére megszünteti a családi pótlék szüneteltetését, ha
+(3) A családtámogatási ügyben eljáró hatóság a gyámhatóság kezdeményezésére megszünteti a családi pótlék szüneteltetését, ha
 
 a) a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban
 
