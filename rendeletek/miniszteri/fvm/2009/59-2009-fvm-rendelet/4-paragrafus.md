@@ -26,7 +26,7 @@ i) a c)–e) pontban foglaltakról a j) pont szerinti meghatalmazásban nyilatko
 
 j) meghatalmazást ad a jégeső-elhárító szervezetnek arra vonatkozóan, hogy a jégeső-elhárító szervezet helyette és nevében az e rendelet szerinti
 
-ja) díjtámogatás igénybevételére vonatkozó kérelmet (a továbbiakban: díjtámogatási kérelem) benyújtsa a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH), valamint
+ja)[^11] díjtámogatás igénybevételére vonatkozó kérelmet (a továbbiakban: díjtámogatási kérelem) benyújtsa a Magyar Államkincstár (a továbbiakban: Kincstár), valamint
 
 jb) díjtámogatás kifizetésére irányuló kérelmet (a továbbiakban: kifizetési kérelem) nyújtson be a jégeső-elhárító szervezet székhelye szerint illetékes földművelésügyi igazgatási hatáskörében eljáró megyei kormányhivatal (a továbbiakban: földművelésügyi hatóság)
 
@@ -38,8 +38,11 @@ a) a jégeső-elhárító szervezet által nyújtott jégeső-elhárítási szol
 
 b) megismerte a díjtámogatás igénybevételére vonatkozó feltételeket.
 
-(3) A díjtámogatási kérelmet a jégeső-elhárító szervezetnek a kedvezményezett (1) bekezdés j) pont ja) alpontja szerinti meghatalmazása alapján tárgyév április 30-ig – az 1. számú melléklet szerinti adattartalommal – az MVH által rendszeresített és a honlapján közzétett nyomtatványon, kedvezményezettenkénti bontásban kell benyújtania az MVH-hoz.
+(3)[^12] A díjtámogatási kérelmet a jégeső-elhárító szervezetnek a kedvezményezett (1) bekezdés j) pont ja) alpontja szerinti meghatalmazása alapján tárgyév április 30-ig – az 1. számú melléklet szerinti adattartalommal – a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon, kedvezményezettenkénti bontásban kell benyújtania a Kincstárhoz.
 
-(4) A hiányosan vagy nem megfelelően kitöltött díjtámogatási kérelem vonatkozásában az MVH egy alkalommal, nyolc napos határidő tűzésével hiánypótlásra hívja fel a jégeső-elhárító szervezetet.
+(4)[^13] A hiányosan vagy nem megfelelően kitöltött díjtámogatási kérelem vonatkozásában a Kincstár egy alkalommal, nyolc napos határidő tűzésével hiánypótlásra hívja fel a jégeső-elhárító szervezetet.
 
 [^10]: A 4. § a 68/2015. (XI. 2.) FM rendelet 4. §-ával megállapított szöveg.
+[^11]: A 4. § (1) bekezdés j) pont ja) alpontja a 88/2016. (XII. 29.) FM rendelet 36. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 36. § b) és c) pontja szerint módosított szöveg.
+[^13]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 36. § c) pontja szerint módosított szöveg.
