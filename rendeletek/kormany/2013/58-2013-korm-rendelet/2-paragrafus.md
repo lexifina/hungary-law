@@ -18,8 +18,8 @@ d) a 9. § (1) bekezdése szerinti Értékelő Bizottság létrehozásának rend
 
 e) a pályázati kiírás tartalmáért és a pályázati eljárás lebonyolításáért való egyetemleges felelősségvállalást.
 
-(3)[^26]
+(3)[^27]
 
 (4) A pályázati kiírási dokumentáció jóváhagyása során a Hivatal a pályázati kiírás tartalmi követelményeire vonatkozó, a 3. §-ban meghatározott feltételek teljesülését vizsgálja.
 
-[^26]: A 2. § (3) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 40. § b) pontja hatályon kívül helyezte.
+[^27]: A 2. § (3) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 40. § b) pontja hatályon kívül helyezte.

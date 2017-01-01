@@ -1,4 +1,4 @@
-## V. Fejezet[^120]
+## V. Fejezet[^121]
 
 ## A VÍZIKÖZMŰ TÉRKÉPI NYILVÁNTARTÁS KÖZHITELES ADATTARTALMA
 
@@ -32,4 +32,4 @@ bf) a kényszeráramoltatású szennyvízhálózat vezetékei;
 
 c) az egyéb víziközmű létesítmények felületszerű, vonalszerű és pontszerű egységei.
 
-[^120]: Az V. Fejezetet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 5. pontja hatályon kívül helyezte, újonnan (52. §) a 370/2016. (XI. 29.) Korm. rendelet 5. §-a iktatta be.
+[^121]: Az V. Fejezetet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 5. pontja hatályon kívül helyezte, újonnan (52. §) a 370/2016. (XI. 29.) Korm. rendelet 5. §-a iktatta be.

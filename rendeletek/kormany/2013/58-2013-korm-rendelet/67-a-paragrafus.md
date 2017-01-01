@@ -1,4 +1,4 @@
-67/A. §[^193] (1) Házi, illetve csatlakozó ivóvíz- és szennyvízhálózat meghibásodása esetén, ha a hibára utaló jelet
+67/A. §[^195] (1) Házi, illetve csatlakozó ivóvíz- és szennyvízhálózat meghibásodása esetén, ha a hibára utaló jelet
 
 a) a víziközmű-szolgáltató a fogyasztásmérő leolvasásakor, cseréje vagy a felhasználási helyen tartott ellenőrzés során észlelte, lehetőleg a helyszínen vagy ha a helyszíni tájékoztatás akadályba ütközik, haladéktalanul, írásban igazolható módon vagy rögzített telefonbeszélgetés útján köteles tájékoztatni a felhasználót a tapasztaltakról és a felhasználó feladatairól,
 
@@ -16,4 +16,4 @@ b) a felhasználó észlelte, köteles a víziközmű-szolgáltatónak az aktuá
 
 (7) A felek a helyszíni ellenőrzés lezárását követő 15 napon belül kötelesek egymással elszámolni.
 
-[^193]: A 67/A. §-t a 342/2016. (XI. 17.) Korm. rendelet 28. §-a iktatta be.
+[^195]: A 67/A. §-t a 342/2016. (XI. 17.) Korm. rendelet 28. §-a iktatta be.

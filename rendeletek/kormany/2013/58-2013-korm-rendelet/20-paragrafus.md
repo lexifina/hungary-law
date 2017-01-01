@@ -2,7 +2,7 @@
 
 ## Az ENGEDÉLYEZÉS ÉS HOZZÁJÁRULÁS SZABÁLYAI
 
-## 9. [^82] A víziközmű-szolgáltatói engedély
+## 9. [^83] A víziközmű-szolgáltatói engedély
 
 20. § (1) A víziközmű-szolgáltatói engedély tartalmazza
 
@@ -18,4 +18,4 @@ a) üzletszabályzata,
 
 b) beszerzési szabályzata.
 
-[^82]: A 9. alcím (20–22. §) a 342/2016. (XI. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^83]: A 9. alcím (20–22. §) a 342/2016. (XI. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

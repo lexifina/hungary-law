@@ -80,6 +80,6 @@
 
 ## A locsolási vízmérő telepítése során nem követelmény az önálló mérőakna kialakítása. A mérőeszköz állagának megóvása és a fagyvédelem biztosítása a felhasználó kötelessége.
 
-6. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^304]
+6. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^308]
 
-[^304]: A 6. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 25. pontja hatályon kívül helyezte.
+[^308]: A 6. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 25. pontja hatályon kívül helyezte.

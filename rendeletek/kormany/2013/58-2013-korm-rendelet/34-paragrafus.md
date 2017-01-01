@@ -1,6 +1,6 @@
-## 33. §[^91]
+## 33. §[^92]
 
-34. § (1)[^92] A Hivatal a víziközmű-szolgáltatói és működési engedélyezési eljárás során – a Vksztv.-ben és az e rendeletben foglalt követelményeken túlmenően – figyelembe veszi a víziközmű-szolgáltatás körében okszerűen felmerülő tevékenységre is kihatással bíró módon kötelezettséget rögzítő, és ezáltal a víziközmű-szolgáltatást végző gazdasági társaságokra is vonatkozó jogszabályi rendelkezéseket.
+34. § (1)[^93] A Hivatal a víziközmű-szolgáltatói és működési engedélyezési eljárás során – a Vksztv.-ben és az e rendeletben foglalt követelményeken túlmenően – figyelembe veszi a víziközmű-szolgáltatás körében okszerűen felmerülő tevékenységre is kihatással bíró módon kötelezettséget rögzítő, és ezáltal a víziközmű-szolgáltatást végző gazdasági társaságokra is vonatkozó jogszabályi rendelkezéseket.
 
 (2) Az (1) bekezdés szerinti körbe tartoznak különösen:
 
@@ -26,8 +26,8 @@ j) az adat- és iratkezelés
 
 ## tárgykörét szabályozó jogszabályok.
 
-(3)[^93] Amennyiben más jogszabály előírásainak csak más hatóság engedélyének megszerzése útján lehet eleget tenni, vagy az annak való megfelelést más szerv által kiadott okirat igazolja, az engedély iránti kérelemben a 3. mellékletben meghatározott tartalommal nyilatkozni kell az engedély vagy az okirat meglétéről.
+(3)[^94] Amennyiben más jogszabály előírásainak csak más hatóság engedélyének megszerzése útján lehet eleget tenni, vagy az annak való megfelelést más szerv által kiadott okirat igazolja, az engedély iránti kérelemben a 3. mellékletben meghatározott tartalommal nyilatkozni kell az engedély vagy az okirat meglétéről.
 
-[^91]: A 33. §-t a 342/2016. (XI. 17.) Korm. rendelet 40. § e) pontja hatályon kívül helyezte.
-[^92]: A 34. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 14. pontja szerint módosított szöveg.
-[^93]: A 34. § (3) bekezdésében a 342/2016. (XI. 17.) Korm. rendelet 39. § 15. pontjával elrendelt módosítás nem vezethető át.
+[^92]: A 33. §-t a 342/2016. (XI. 17.) Korm. rendelet 40. § e) pontja hatályon kívül helyezte.
+[^93]: A 34. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 14. pontja szerint módosított szöveg.
+[^94]: A 34. § (3) bekezdésében a 342/2016. (XI. 17.) Korm. rendelet 39. § 15. pontjával elrendelt módosítás nem vezethető át.

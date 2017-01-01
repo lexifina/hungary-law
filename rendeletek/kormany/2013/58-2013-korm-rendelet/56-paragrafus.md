@@ -1,4 +1,4 @@
-56. § (1)[^129] Az új bekötés megvalósítását követően vagy a felhasználó személyében történt változás esetén a víziközmű-szolgáltatásra a víziközmű-szolgáltató és a felhasználó közszolgáltatási szerződést köt, amely tartalmazza:
+56. § (1)[^131] Az új bekötés megvalósítását követően vagy a felhasználó személyében történt változás esetén a víziközmű-szolgáltatásra a víziközmű-szolgáltató és a felhasználó közszolgáltatási szerződést köt, amely tartalmazza:
 
 a) a szerződő felek és azonosító adatai körében természetes személy esetén annak nevét, lakcímét, anyja nevét, születési helyét és idejét, jogi személy, jogi személyiséggel nem rendelkező szervezet esetén annak székhelyét, cégjegyzékszámát, adószámát, képviselőjének nevét és adatait (lakcíme, anyja neve),
 
@@ -8,24 +8,24 @@ c) a szerződés időbeli hatályát, a víziközmű-szolgáltatás megkezdésé
 
 d) a felhasználási helyet, illetve a teljesítés helyét, a szolgáltatási pontot,
 
-e)[^130] a mérésnek, a fogyasztásmérő hitelesítésének, kalibrálásának, leolvasásának, a számlázásnak és a számla kiegyenlítésének, valamint a szolgáltatási díj visszatérítésének a módját,
+e)[^132] a mérésnek, a fogyasztásmérő hitelesítésének, kalibrálásának, leolvasásának, a számlázásnak és a számla kiegyenlítésének, valamint a szolgáltatási díj visszatérítésének a módját,
 
-f)[^131] a szerződésszegés következményeit, különösen a hibás és a késedelmes teljesítéssel kapcsolatos szabályokat,
+f)[^133] a szerződésszegés következményeit, különösen a hibás és a késedelmes teljesítéssel kapcsolatos szabályokat,
 
-g)[^132] a felhasználó személyében bekövetkezett változás bejelentésének kötelezettségét,
+g)[^134] a felhasználó személyében bekövetkezett változás bejelentésének kötelezettségét,
 
 h) egyéb, a szerződő felek által lényegesnek tartott feltételeket.
 
-(2)[^133] A víziközmű-szolgáltatási jogviszony a lakossági felhasználó esetében a közszolgáltatási szerződés megkötésével vagy a víziközmű-szolgáltatás igénybevételével, a nem lakossági felhasználó esetében kizárólag a közszolgáltatási szerződés megkötésével jön létre.
+(2)[^135] A víziközmű-szolgáltatási jogviszony a lakossági felhasználó esetében a közszolgáltatási szerződés megkötésével vagy a víziközmű-szolgáltatás igénybevételével, a nem lakossági felhasználó esetében kizárólag a közszolgáltatási szerződés megkötésével jön létre.
 
-(3)[^134] A közszolgáltatási szerződést közműves ivóvízellátás, valamint közműves szennyvízelvezetés és -tisztítás esetén a felhasználó – amennyiben a felhasználási hely megfelel a Vksztv. 55. § (6) bekezdésében foglalt feltételeknek – 30 napos határidővel felmondhatja. Ha a szerződést az ingatlant egyéb jogcímen használó mondja fel, előzetesen a tulajdonos írásbeli hozzájárulását is be kell szereznie. A közszolgáltatási szerződés felmondása nem érintheti hátrányosan az ingatlanon más felhasználó által igénybe vett víziközmű-szolgáltatást.
+(3)[^136] A közszolgáltatási szerződést közműves ivóvízellátás, valamint közműves szennyvízelvezetés és -tisztítás esetén a felhasználó – amennyiben a felhasználási hely megfelel a Vksztv. 55. § (6) bekezdésében foglalt feltételeknek – 30 napos határidővel felmondhatja. Ha a szerződést az ingatlant egyéb jogcímen használó mondja fel, előzetesen a tulajdonos írásbeli hozzájárulását is be kell szereznie. A közszolgáltatási szerződés felmondása nem érintheti hátrányosan az ingatlanon más felhasználó által igénybe vett víziközmű-szolgáltatást.
 
-(4)[^135] Abban az esetben, ha közműves szennyvízelvezetésre és -tisztításra irányuló igény a Szennyezőanyag listában meghatározott anyagokat felhasználó üzem részéről merül fel, a közszolgáltatási szerződés hatályosságához az illetékes vízügyi hatóság jóváhagyása szükséges.
+(4)[^137] Abban az esetben, ha közműves szennyvízelvezetésre és -tisztításra irányuló igény a Szennyezőanyag listában meghatározott anyagokat felhasználó üzem részéről merül fel, a közszolgáltatási szerződés hatályosságához az illetékes vízügyi hatóság jóváhagyása szükséges.
 
-[^129]: Az 56. § (1) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 16. pontja szerint módosított szöveg.
-[^130]: Az 56. § (1) bekezdés e) pontja a 292/2014. (XI. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^131]: Az 56. § (1) bekezdés f) pontja a 292/2014. (XI. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^132]: Az 56. § (1) bekezdés g) pontja a 292/2014. (XI. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^133]: Az 56. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^134]: Az 56. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^135]: Az 56. § (4) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^131]: Az 56. § (1) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 16. pontja szerint módosított szöveg.
+[^132]: Az 56. § (1) bekezdés e) pontja a 292/2014. (XI. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^133]: Az 56. § (1) bekezdés f) pontja a 292/2014. (XI. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^134]: Az 56. § (1) bekezdés g) pontja a 292/2014. (XI. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^135]: Az 56. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^136]: Az 56. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^137]: Az 56. § (4) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.

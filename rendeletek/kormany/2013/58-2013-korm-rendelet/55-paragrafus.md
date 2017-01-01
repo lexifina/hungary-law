@@ -1,12 +1,12 @@
 ## 53–54. §
 
-## VI. Fejezet[^121]
+## VI. Fejezet[^122]
 
 ## A közszolgáltatási SZERZŐDÉS RÉSZLETES SZABÁLYAI
 
-## 16. [^122] A bekötés feltételei és a közszolgáltatási szerződés létrejötte
+## 16. [^123] A bekötés feltételei és a közszolgáltatási szerződés létrejötte
 
-55. §[^123] (1) A víziközmű-törzshálózat mentén fekvő ingatlanoknak a víziközmű-hálózatba történő bekötését a víziközmű-szolgáltatónál az ingatlan tulajdonosa vagy egyéb jogcímen használója az ingatlan tulajdonosának írásbeli hozzájárulásának birtokában kezdeményezheti (a továbbiakban: igénybejelentés). Az igénybejelentésben a bejelentő közli:
+55. §[^124] (1) A víziközmű-törzshálózat mentén fekvő ingatlanoknak a víziközmű-hálózatba történő bekötését a víziközmű-szolgáltatónál az ingatlan tulajdonosa vagy egyéb jogcímen használója az ingatlan tulajdonosának írásbeli hozzájárulásának birtokában kezdeményezheti (a továbbiakban: igénybejelentés). Az igénybejelentésben a bejelentő közli:
 
 a) a felhasználási célt, az igénybe venni tervezett ivóvíz mennyiségét,
 
@@ -26,7 +26,7 @@ c) a műszakilag elérhető szolgáltatás rendelkezésre állását,
 
 d) a bekötővezeték és a vízmérési hely létesítésének műszaki feltételeit,
 
-e)[^124]
+e)[^125]
 
 f) üzem esetén a szennyvíz előzetes tisztítását szolgáló berendezés meglétét és a törzshálózatba vezetett szennyvíz minőségi paramétereit.
 
@@ -38,13 +38,13 @@ b) bekötővezeték kiépítése vagy átépítése szükséges, és annak költ
 
 c) a víziközmű-fejlesztési hozzájárulás fizetésére kötelezett felhasználó a hozzájárulás fizetési kötelezettségének nem tesz eleget,
 
-d)[^125] a bekötővezeték kialakításának nincsenek meg a műszaki feltételei,
+d)[^126] a bekötővezeték kialakításának nincsenek meg a műszaki feltételei,
 
 e) az adott felhasználási helyen lejárt határidejű vagy vitatott díjtartozás áll fenn.
 
 (4) Az ivóvíz-törzshálózathoz csatlakozó tűzoltásra szolgáló külön ivóvíz-bekötővezeték létesítéséhez a víziközmű-szolgáltató – a katasztrófavédelmi jogszabályok megtartásával – köteles hozzájárulni, ha a tűzoltáshoz szükséges vízmennyiség a házi ivóvízhálózatból és a vízművel össze nem függő más vízvételi helyről nem szerezhető be. A tűzoltásra szolgáló bekötővezetéket külön bekötési vízmérővel kell ellátni.
 
-(5)[^126] Az (1) bekezdés szerinti hiánytalan igénybejelentést követő 15 napon belül a víziközmű-szolgáltató tájékoztatja a bejelentőt arról, hogy a (2) bekezdés szerinti feltételek maradéktalan teljesítéséhez milyen további feladatokat és fizetési kötelezettségeket kell teljesítenie. E tájékoztatás keretében a víziközmű-szolgáltató:
+(5)[^127] Az (1) bekezdés szerinti hiánytalan igénybejelentést követő 15 napon belül a víziközmű-szolgáltató tájékoztatja a bejelentőt arról, hogy a (2) bekezdés szerinti feltételek maradéktalan teljesítéséhez milyen további feladatokat és fizetési kötelezettségeket kell teljesítenie. E tájékoztatás keretében a víziközmű-szolgáltató:
 
 a) megállapítja a víziközmű-fejlesztési hozzájárulás összegét,
 
@@ -52,9 +52,9 @@ b) megadja a bekötővezeték tervezéshez szükséges, törzshálózatra vonatk
 
 c) meghatározza vízmérési hely kialakításának műszaki feltételeit.
 
-[^121]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^122]: A 16. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^123]: Az 55. § a 292/2014. (XI. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^124]: Az 55. § (2) bekezdés e) pontját a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 4. pontja hatályon kívül helyezte.
-[^125]: Az 55. § (3) bekezdés d) pontja a 342/2016. (XI. 17.) Korm. rendelet 39. § 20. pontja szerint módosított szöveg.
-[^126]: Az 55. § (5) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 21. pontja szerint módosított szöveg.
+[^122]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^123]: A 16. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^124]: Az 55. § a 292/2014. (XI. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^125]: Az 55. § (2) bekezdés e) pontját a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^126]: Az 55. § (3) bekezdés d) pontja a 342/2016. (XI. 17.) Korm. rendelet 39. § 20. pontja szerint módosított szöveg.
+[^127]: Az 55. § (5) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 21. pontja szerint módosított szöveg.

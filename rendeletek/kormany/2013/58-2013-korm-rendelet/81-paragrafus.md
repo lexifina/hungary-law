@@ -2,15 +2,15 @@
 
 (2) A víziközmű-szolgáltató és a helyi önkormányzat képviselőtestületének hozzájárulása szükséges a közkifolyóknak nem háztartási célú vízhasználatra (így különösen építkezés, gépkocsi mosás, locsolás) történő rendszeres igénybevételéhez.
 
-(3)[^232] Az (1) bekezdés szerinti vízhasználat mennyiségét bekötési vízmérő hiányában arányosítással vagy műszaki számítással kell megállapítani. A megállapított fogyasztás után a szolgáltatató és az önkormányzat által kötött szerződés szerint a települési önkormányzat fizeti a díjat a víziközmű-szolgáltató részére.
+(3)[^234] Az (1) bekezdés szerinti vízhasználat mennyiségét bekötési vízmérő hiányában arányosítással vagy műszaki számítással kell megállapítani. A megállapított fogyasztás után a szolgáltatató és az önkormányzat által kötött szerződés szerint a települési önkormányzat fizeti a díjat a víziközmű-szolgáltató részére.
 
-(4)[^233] A víziközmű-szolgáltató a közterületi vízvételi helyet az ellátásért felelős állami tulajdonosi joggyakorló vagy a helyi önkormányzat képviselő testülete és az illetékes közegészségügyi szakhatóság, a közterületi tűzcsapot az ellátásért felelős és az illetékes katasztrófavédelmi kirendeltség előzetes hozzájárulásával helyezheti át vagy szüntetheti meg.
+(4)[^235] A víziközmű-szolgáltató a közterületi vízvételi helyet az ellátásért felelős állami tulajdonosi joggyakorló vagy a helyi önkormányzat képviselő testülete és az illetékes közegészségügyi szakhatóság, a közterületi tűzcsapot az ellátásért felelős és az illetékes katasztrófavédelmi kirendeltség előzetes hozzájárulásával helyezheti át vagy szüntetheti meg.
 
-(5)[^234] A víziközmű-szolgáltató közszolgáltatási feladatai ellátásához a közterületen lévő tűzcsapról vizet vételezhet.
+(5)[^236] A víziközmű-szolgáltató közszolgáltatási feladatai ellátásához a közterületen lévő tűzcsapról vizet vételezhet.
 
-(6)[^235]
+(6)[^237]
 
-[^232]: A 81. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^233]: A 81. § (4) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 43. pontja szerint módosított szöveg.
-[^234]: A 81. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^235]: A 81. § (6) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 18. pontja hatályon kívül helyezte.
+[^234]: A 81. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^235]: A 81. § (4) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 43. pontja szerint módosított szöveg.
+[^236]: A 81. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^237]: A 81. § (6) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 18. pontja hatályon kívül helyezte.

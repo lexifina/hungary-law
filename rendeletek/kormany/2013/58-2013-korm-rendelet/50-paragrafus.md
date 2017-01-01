@@ -1,4 +1,4 @@
-50. §[^112] (1) A Hivatalt a szerződés létrejöttét követő 30 napon belül, a szerződés másolatának megküldésével tájékoztatni kell az ellátási területre vonatkozó víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséről:
+50. §[^113] (1) A Hivatalt a szerződés létrejöttét követő 30 napon belül, a szerződés másolatának megküldésével tájékoztatni kell az ellátási területre vonatkozó víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséről:
 
 1. számlakészítés, számlafeldolgozás,
 
@@ -16,4 +16,4 @@
 
 8. energiaellátás, vezérlés és adattovábbítás speciális tárgyi eszközeinek, gépeinek és berendezéseinek, ezen belül transzformátoroknak, aggregátoroknak, kapcsolószekrényeknek, frekvenciaváltóknak, irányítástechnikai berendezéseknek, adattovábbítást és vezérlést biztosító berendezéseknek a szervizelése, felújítása és javítása.
 
-[^112]: Az 50. § a 342/2016. (XI. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^113]: Az 50. § a 342/2016. (XI. 17.) Korm. rendelet 16. §-ával megállapított szöveg.

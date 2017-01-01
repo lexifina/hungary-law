@@ -1,6 +1,6 @@
-## 1. Az üzletszabályzatra vonatkozó előírások
+## 1.[^310] Az üzletszabályzatra vonatkozó előírások
 
-## Az üzletszabályzatot nyomdai úton előállítottan, fűzve vagy kötve, két oldalasra nyomtatva kell elkészíteni. Az üzletszabályzatokat rendelkezéseiben egyértelműen kell elkészíteni. Az oldalakat folyamatos számozással kell ellátni. A mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik víziközmű-szolgáltató szabályzatáról van szó. Az üzletszabályzatot 2 példányban kell jóváhagyásra benyújtani. Egy példány a vízközmű-szolgáltató, egy példány a fogyasztóvédelmi hatóság példánya. Az üzletszabályzatokat elektronikusan szerkeszthető formában is be kell nyújtani tartós adathordozón. Azokban az esetekben, amikor az üzletszabályzatok módosítását kéri a vízközmű-szolgáltató, szükséges egy példányban a korrektúrás változat benyújtása is, melyből egyértelműen megállapíthatók (például színeltéréssel) a módosítások. A korrektúrás változatot a vízközmű-szolgáltató elektronikusan szerkeszthető formában is köteles mellékelni tartós adathordozón. A benyújtott üzletszabályzathoz mellékelni szükséges a jóváhagyásra vonatkozó kérelmet, és az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
+## Az üzletszabályzatot elektronikus úton, szerkeszthető formában kell jóváhagyásra benyújtani. Az oldalakat folyamatos számozással kell ellátni, a mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik víziközmű-szolgáltató üzletszabályzatáról van szó. Az üzletszabályzat módosításának kérelmezése esetében szükséges korrektúrás változatot is csatolni, melyből egyértelműen megállapíthatók a módosítások. A benyújtott üzletszabályzathoz mellékelni kell a jóváhagyásra vonatkozó kérelmet és az igazgatási szolgáltatási díj átutalását igazoló dokumentumot. Ha az üzletszabályzat mérete a megjelölt méretkorlátot meghaladja, elektronikus a kapcsolattartás akkor is, ha az engedélyes a nyilatkozatát tartós adathordozón nyújtja be. Az eljárás során véglegezett, jóváhagyásra kerülő üzletszabályzatot két, cégszerű aláírással ellátott példányban is be kell nyújtani a Hivatal számára.
 
 ## 2. Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása
 
@@ -124,7 +124,7 @@
 
 ## 4. A bekötővezeték, a fogyasztásmérő, illetve a mérőhely kialakításának, a mellékvízmérő üzembe helyezésének, valamint bélyegzéssel és zárral való ellátásának részletes szabályai.
 
-## 4a.[^306] A bekötési vízmérő hitelesítési hatályán belüli cseréjére vonatkozó szabályok.
+## 4a.[^311] A bekötési vízmérő hitelesítési hatályán belüli cseréjére vonatkozó szabályok.
 
 ## 5. Víziközmű-szolgáltatás szüneteltetése iránti kérelem részletes szabályai.
 
@@ -134,7 +134,8 @@
 
 ## 8. E rendeletben meghatározott más követelmények.
 
-8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^307]
+8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^312]
 
-[^306]: A 7. melléklet 3. pont 4a. alpontját a 342/2016. (XI. 17.) Korm. rendelet 38. §-a iktatta be.
-[^307]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
+[^310]: A 7. melléklet 1. alcíme a 477/2016. (XII. 27.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^311]: A 7. melléklet 3. pont 4a. alpontját a 342/2016. (XI. 17.) Korm. rendelet 38. §-a iktatta be.
+[^312]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
