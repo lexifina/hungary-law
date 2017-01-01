@@ -1,4 +1,4 @@
-## 3. § Az MVH a mesterséges feltételteremtés tényét a mesterséges feltételteremtés vizsgálatára irányuló eljárás keretében beszerezhető, rendelkezésére álló adatok felhasználásával vizsgálja.
+## 3. §[^2] A Kincstár a mesterséges feltételteremtés tényét a mesterséges feltételteremtés vizsgálatára irányuló eljárás keretében beszerezhető, rendelkezésére álló adatok felhasználásával vizsgálja.
 
 4. § (1) Releváns feltételnek az alábbiak együttes megvalósulása minősül:
 
@@ -13,3 +13,5 @@ c) a korábbi jogi személy és a kiválás vagy különválás eredményeként 
 a) ügyfél igazolja, hogy a 2011. október 18-át követő szétválást a támogatási feltételektől független jogi, gazdasági környezet, vagy a tulajdonosi kör élethelyzetét érintő, a vállalkozás irányítását befolyásoló körülmény változása tette indokolttá, és a szétválás előkészületei tényszerűen igazolhatóak, vagy
 
 b) a szétválásról az adott jogi személy ezen döntés meghozatalára jogosult szerve 2014. november 1-jét megelőzően dokumentumokkal igazolhatóan döntést hozott, és a szétválással érintett jogelőd, illetve jogutód ügyfelek nyilatkoznak a szétválás valós okairól és arról, hogy a szétválás nem a támogatás kötelező elvonásából eredő hatások elkerülésére irányult.
+
+[^2]: A 3. § a 88/2016. (XII. 29.) FM rendelet 88. § b) pontja szerint módosított szöveg.
