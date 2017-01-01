@@ -12,7 +12,7 @@
 
 ## Az AJKP célja, hogy a középiskolai kollégiumok által alkalmazható eszközrendszer segítségével biztosítani lehessen, hogy a jelenleginél lényegesen nagyobb arányban tanulhassanak eredményesen nappali tagozatos, érettségit adó középiskolai osztályokban és ennek eredményeképpen minél nagyobb arányban folytathassák iskolai pályafutásukat a felsőoktatásban azoknak a szülőknek a gyermekei, akik megfelelnek a programba bekerülés jogszabályi feltételeinek.
 
-## Az AJKP-ban középiskolai kollégiumok vállalnak felelősséget azért, hogy az AJKP-ba bekerülő tanulókat – AJKP előkészítő év esetén egyéves felkészítő munkát követően – szakközépiskolába vagy gimnáziumba beiskolázzák, és a program keretében nappali tagozatos osztályokban érettségi bizonyítványhoz segítsék őket, valamint közösen készített karriertervvel támogassák az érettségi utáni továbbtanulást valamely felsőoktatási intézménybe, vagy szakmaszerzést (technikusi vizsgát), illetve a sikeres belépést a munka világába.
+## Az AJKP-ban középiskolai kollégiumok vállalnak felelősséget azért, hogy az AJKP-ba bekerülő tanulókat – AJKP előkészítő év esetén egyéves felkészítő munkát követően – szakgimnáziumba vagy gimnáziumba beiskolázzák, és a program keretében nappali tagozatos osztályokban érettségi bizonyítványhoz segítsék őket, valamint közösen készített karriertervvel támogassák az érettségi utáni továbbtanulást valamely felsőoktatási intézménybe, vagy szakmaszerzést (technikusi vizsgát), illetve a sikeres belépést a munka világába.
 
 ## Az AJKP-ban részt vevő intézményeknek fokozott erőfeszítést kell tenniük annak érdekében, hogy az AJKP jelentős mértékben hozzájáruljon a halmozottan hátrányos helyzetű, illetve rászoruló gyermekek társadalmi felemelkedéséhez.
 
@@ -392,13 +392,13 @@
 
 | A programban keletkező adatok visszacsatolása a programfejlesztés folyamatába. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-6. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez
+6. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez[^7]
 
-Az Arany János Kollégiumi-Szakiskolai Program
+Az Arany János Kollégiumi-Szakközépiskolai Program
 
 1. Bevezetés
 
-Az Arany János Kollégiumi-Szakiskolai Programban (a továbbiakban: AJKSZP) részt vevő kollégiumoknak az alapprogramban megfogalmazott célkitűzések teljesítése mellett további, az e mellékletben meghatározott követelményeknek kell megfelelniük.
+Az Arany János Kollégiumi-Szakközépiskolai Programban (a továbbiakban: AJKSZP) részt vevő kollégiumoknak az alapprogramban megfogalmazott célkitűzések teljesítése mellett további, az e mellékletben meghatározott követelményeknek kell megfelelniük.
 
 Az AJKSZP-ben részt vevő kollégiumok az e mellékletben meghatározottaknak megfelelően és a feladattervező alkalmazásával elkészítik a saját éves munkatervüket az AJKSZP-ben érintett tanulókra, kollégiumi csoportokra, nevelői tevékenységekre, intézményszervezésre és vezetésre, valamint az intézmény fejlesztésére vonatkozóan.
 
@@ -468,7 +468,7 @@ a) együttműködés a fejlesztésben részt vevők között,
 
 b) együttműködés a családdal,
 
-c) együttműködés a programot alapvetően megvalósító kollégiumi nevelőtanárok és szakiskolai tanárok között,
+c) együttműködés a programot alapvetően megvalósító kollégiumi nevelőtanárok és szakközépiskolai tanárok között,
 
 d) együttműködés az intézményi önkormányzatiság szintjein – tanulók, pedagógusok, dolgozók közvetlen részvétele,
 
@@ -526,11 +526,11 @@ f) kapcsolattartás a fenntartóval.
 
 3.2. A felkészítés folyamata az AJKSZP programban való részvételre
 
-Cél: részvétel a szakiskolai életre való felkészítésben, olyan tevékenységek tervezése és megvalósítása, amelyek a tanuló családjával és általános iskolájával, valamint szakiskolákkal együttműködve a szakiskola 9. évfolyamára készít fel az általános iskola befejező szakaszában.
+Cél: részvétel a szakközépiskolai életre való felkészítésben, olyan tevékenységek tervezése és megvalósítása, amelyek a tanuló családjával és általános iskolájával, valamint szakközépiskolákkal együttműködve a szakközépiskola 9. évfolyamára készít fel az általános iskola befejező szakaszában.
 
-Célindikátor: Valamennyi, a programba felvételt nyert tanuló beiratkozik a szakiskola 9. évfolyamára és a kollégiumba. A megelőző évekhez képest alaposabb ismeretekkel rendelkeznek a tanulók és családjaik a programban történő részvétel feltételeiről, a programban résztvevő 9. évfolyamos tanulók iskolai sikerességét jelző folyamatokban pozitív irányú változás tapasztalható.
+Célindikátor: Valamennyi, a programba felvételt nyert tanuló beiratkozik a szakközépiskola 9. évfolyamára és a kollégiumba. A megelőző évekhez képest alaposabb ismeretekkel rendelkeznek a tanulók és családjaik a programban történő részvétel feltételeiről, a programban résztvevő 9. évfolyamos tanulók iskolai sikerességét jelző folyamatokban pozitív irányú változás tapasztalható.
 
-A szakiskola életre való felkészítés támogatása érdekében végzett tevékenységek:
+A szakközépiskolai életre való felkészítés támogatása érdekében végzett tevékenységek:
 
 a) az általános iskolai tanulmányok időszakában a tanuló felkészítése, pedagógiailag tervezett foglalkozások, ill. egyéb más formák keretében a családokkal együttműködve,
 
@@ -556,7 +556,7 @@ Cél: Olyan folyamat kialakítása, amely során a tanuló egyéni szükséglete
 
 Célindikátor: A tanulók egyéni fejlesztési terveiben megfogalmazott összes cél a csoportra vetítetten legalább 80%-ban teljesül.
 
-Az egyéni fejlesztési terv készítése és végrehajtása a kollégiumi csoportvezető nevelőtanár koordinációjával, a tervezett fejlesztésbe bevont partnerek közreműködésével, valamint további kollégiumi nevelőtanárok, szakiskolai tanárok, szükség esetén további szakemberek, pszichológus és fejlesztőpedagógus, továbbá a tanuló és a szülők bevonásával történik. Az így kialakított terv alapján az egyéni fejlesztés megvalósítása és értékelése érdekében végzett tevékenységek:
+Az egyéni fejlesztési terv készítése és végrehajtása a kollégiumi csoportvezető nevelőtanár koordinációjával, a tervezett fejlesztésbe bevont partnerek közreműködésével, valamint további kollégiumi nevelőtanárok, szakközépiskolai tanárok, szükség esetén további szakemberek, pszichológus és fejlesztőpedagógus, továbbá a tanuló és a szülők bevonásával történik. Az így kialakított terv alapján az egyéni fejlesztés megvalósítása és értékelése érdekében végzett tevékenységek:
 
 a) az egyéni fejlesztés eljárásrendjének megalkotása és működtetése,
 
@@ -644,9 +644,9 @@ e) a tanulók és családjaik bevonásával a mérésekkel összefüggő visszaj
 
 Cél: Olyan folyamat kialakítása és működtetése, amely a tanuló irányultságának megfelelő életpálya sikeres építését szolgálja.
 
-Célindikátor: A programban tanulók a szakiskola 9. évfolyamának végén rendelkeznek karriertervvel, célokkal, azok elérését szolgáló tevékenységekkel.
+Célindikátor: A programban tanulók a szakközépiskola 9. évfolyamának végén rendelkeznek karriertervvel, célokkal, azok elérését szolgáló tevékenységekkel.
 
-A munkavállalási célok kijelölése érdekében a programban tanulók a szakiskola 10. évfolyamának végén az egyéni fejlesztési terv keretei között karriertervet készítenek a nevelésükben érintettekkel közösen. A karriertervben a célokat, részcélokat és ezek megvalósítását szolgáló tevékenységeket rögzítik. A karrierterv sikeres megvalósítása érdekében megvalósítandó tevékenységek:
+A munkavállalási célok kijelölése érdekében a programban tanulók a szakközépiskola 10. évfolyamának végén az egyéni fejlesztési terv keretei között karriertervet készítenek a nevelésükben érintettekkel közösen. A karriertervben a célokat, részcélokat és ezek megvalósítását szolgáló tevékenységeket rögzítik. A karrierterv sikeres megvalósítása érdekében megvalósítandó tevékenységek:
 
 a) munkaerő-piaci helyzetfelmérés,
 
@@ -696,7 +696,7 @@ AJKSZP Feladattervező
 
 | Az intézmény sokoldalú bemutatása az érintett tanulóknak, családjaiknak. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A felkészítés folyamata az AJSZKP programban való részvételre | Olyan tevékenységek tervezése és megvalósítása, amelyek a tanuló családjával és általános iskolájával, valamint szakiskolákkal együttműködve a szakiskola 9. évfolyamára készít fel az általános iskola befejező szakaszában. | Valamennyi programba felvételt nyert tanuló beiratkozik a szakiskola 9. évfolyamra és a kollégiumba A megelőző évekhez képest alaposabb ismeretekkel rendelkeznek a tanulók és családjaik a programban történő részvétel feltételeiről, a programban résztvevő 9. évfolyamos tanulók iskolai sikerességét jelző folyamatokban pozitív irányú változás tapasztalható. | Az általános iskolai tanulmányok időszakában a tanuló felkészítése, pedagógiailag tervezett foglalkozások, ill. egyéb más formák keretében a családokkal együttműködve. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A felkészítés folyamata az AJSZKP programban való részvételre | Olyan tevékenységek tervezése és megvalósítása, amelyek a tanuló családjával és általános iskolájával, valamint szakközépiskolákkal együttműködve a szakközépiskola 9. évfolyamára készít fel az általános iskola befejező szakaszában. | Valamennyi programba felvételt nyert tanuló beiratkozik a szakközépiskola 9. évfolyamra és a kollégiumba A megelőző évekhez képest alaposabb ismeretekkel rendelkeznek a tanulók és családjaik a programban történő részvétel feltételeiről, a programban résztvevő 9. évfolyamos tanulók iskolai sikerességét jelző folyamatokban pozitív irányú változás tapasztalható. | Az általános iskolai tanulmányok időszakában a tanuló felkészítése, pedagógiailag tervezett foglalkozások, ill. egyéb más formák keretében a családokkal együttműködve. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az AJKSZP első évében stabil élet- és napirend kialakítása. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -762,7 +762,7 @@ AJKSZP Feladattervező
 
 | A tanulók és családjaik bevonásával a mérésekkel összefüggő visszajelzési rendszer kialakítása, fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Pályaorientáció | Olyan folyamat kialakítása és működtetése, amely a tanuló irányultságának megfelelő életpályája sikeres építését szolgálja. | A programban tanulók a szakiskola 9. évfolyamának végén rendelkeznek karriertervvel, célokkal, azok elérését szolgáló tevékenységekkel. | Munkaerő-piaci helyzetfelmérés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pályaorientáció | Olyan folyamat kialakítása és működtetése, amely a tanuló irányultságának megfelelő életpályája sikeres építését szolgálja. | A programban tanulók a szakközépiskola 9. évfolyamának végén rendelkeznek karriertervvel, célokkal, azok elérését szolgáló tevékenységekkel. | Munkaerő-piaci helyzetfelmérés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Pályaorientációs vizsgálat a munkaügyi központ bevonásával |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -785,3 +785,5 @@ AJKSZP Feladattervező
 | A horizontális tanulás működtetése a programban résztvevő intézmények között és az intézményben futó programon belül az intézményfejlesztés érdekében (többek között a jó gyakorlatok leírása, adaptálása, fejlesztő csoportok működtetése a programban résztvevő intézményen belül és intézmények között) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | A programban keletkező adatok visszacsatolása a programfejlesztés folyamatába |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^7]: A 6. melléklet az 53/2016. (XII. 29.) EMMI rendelet 49. § 4. pontja szerint módosított szöveg.

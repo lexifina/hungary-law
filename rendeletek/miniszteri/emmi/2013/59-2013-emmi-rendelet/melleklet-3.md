@@ -62,4 +62,6 @@
 
 ## A 13-14. évfolyamra vonatkozó óraszámok és követelmények a szakképzésben résztvevő pedagógiai foglalkozások alapját jelentik, amelyek ezekben a feladatokban résztvevő és nem tanköteles tanulók számára kollégiumi ellátást biztosító kollégiumok számára csak szakmai ajánlást jelentenek.
 
-3. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez
+3. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez[^4]
+
+[^4]: A 3. melléklet az 53/2016. (XII. 29.) EMMI rendelet 49. § 1. pontja szerint módosított szöveg.

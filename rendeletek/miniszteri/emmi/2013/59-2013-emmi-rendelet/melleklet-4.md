@@ -10,7 +10,7 @@
 
 ## A foglalkozások olyan kompetenciákat is fejlesztenek, melyek révén a tanulókban kialakul az alkalmazkodóképesség, a tolerancia, a konfliktuskezelő képesség.
 
-## A kollégiumi foglalkozások kiegészítik az iskolák nevelő-oktató munkáját. A középiskolai szakaszban a pályaválasztáshoz, a továbbtanuláshoz, a munkavállalói szerephez, a szakközépiskolában az ágazathoz tartozó szakképesítések megszerzéséhez szükséges képességek, készségek, attitűdök együttes fejlesztése a cél.
+## A kollégiumi foglalkozások kiegészítik az iskolák nevelő-oktató munkáját. A középiskolai szakaszban a pályaválasztáshoz, a továbbtanuláshoz, a munkavállalói szerephez, a szakgimnáziumban az ágazathoz tartozó szakképesítések megszerzéséhez szükséges képességek, készségek, attitűdök együttes fejlesztése a cél.
 
 ## A csoportfoglalkozások keretprogramterve nevelési területenként, az adott témakör legfontosabb tartalmi elemei alapján határozza meg a kollégiumi nevelés-oktatás pedagógiai tartalmát. A foglalkozások számát, éves elosztását, tartalmi felépítését úgy kell meghatározni, hogy alkalmazkodjon a tanulók életkorához, a választott iskolájuk típusához.
 
@@ -470,4 +470,6 @@
 
 | - a média társadalmi szerepe - a reklám és a fogyasztás összefüggése - a médiatartalmak és a valóság összefüggése - az internet használatának szabályai, a helyes etikai magatartás és felelősség - a számítógép, az internetfüggőség veszélyei | - Ismerkedés a hagyományos médiával a különféle folyóiratokon, kiadványokon keresztül. - Az elektronikus médiák (internetes ismeretterjesztő oldalak, e-book stb.) használatának gyakorlása. - Reklámok céljainak, hatásainak bemutatása különféle (pozitív és negatív) példákon keresztül. - Jogszabályok, etikai előírások ismertetése a hagyományos média és az internet használat esetében. - Gyakoroltassuk különféle ismeretek hozzájutásának módjait az internetes keresők segítségével. - Az adatbiztonság szabályainak, megteremtési lehetőségeinek ismertetése. - Az internet- és játékfüggőség kóros hatásainak bemutatása. |
 
-4. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez
+4. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez[^5]
+
+[^5]: A 4. melléklet az 53/2016. (XII. 29.) EMMI rendelet 49. § 2. pontja szerint módosított szöveg.

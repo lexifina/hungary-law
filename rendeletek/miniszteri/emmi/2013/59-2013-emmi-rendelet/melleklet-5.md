@@ -12,7 +12,7 @@
 
 ## 2.2. Az AJTP-ban résztvevő minden tanuló számára kötelező a kollégiumi jogviszony létesítése abban a kollégiumban, ahol a program megvalósul.
 
-## 2.3. Az AJTP-ban részt vevő intézmények együttműködnek a fenntartóval, a program Szakmai Tanácsadó Testületével, a méréseket és továbbképzéseket végző felsőoktatási intézményekkel, az Arany János Kollégiumi és az Arany János Kollégiumi-Szakiskolai Programmal.
+## 2.3. Az AJTP-ban részt vevő intézmények együttműködnek a fenntartóval, a program Szakmai Tanácsadó Testületével, a méréseket és továbbképzéseket végző felsőoktatási intézményekkel, az Arany János Kollégiumi és az Arany János Kollégiumi-Szakközépiskolai Programmal.
 
 ## 2.4. Az AJTP-ban részt vevő kollégiumoknak az alapprogramban megfogalmazott célkitűzések teljesítése mellett további, az e mellékletben megfogalmazott követelményeknek kell megfelelniük.
 
@@ -150,4 +150,6 @@
 
 | 4. Országos versenyek | Tantárgyi versenyek | Egyéni, csoportos felkészülés | Pályaorientáció Tehetséggondozás Verseny | Újszerű, változatos feladatokkal felkészítés a versenyekre, ismeretátadás, probléma-felismerési és -megoldási képesség fejlesztése |
 
-5. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez
+5. melléklet az 59/2013. (VIII. 9.) EMMI rendelethez[^6]
+
+[^6]: Az 5. melléklet az 53/2016. (XII. 29.) EMMI rendelet 49. § 3. pontja szerint módosított szöveg.

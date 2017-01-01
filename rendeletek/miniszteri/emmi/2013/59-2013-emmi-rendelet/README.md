@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-59-20-5
 | 2013-08-10 | 2013-59-20-5H.1 | 59/2013. (VIII. 9.) EMMI rendelet |
 | 2013-08-31 | 2013-59-20-5H.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-09-01 | 2013-59-20-5H.3 | 2010: CXXX. törvény |
+| 2017-01-01 | 2013-59-20-5H.4 | 53/2016. (XII. 29.) EMMI rendelet |
