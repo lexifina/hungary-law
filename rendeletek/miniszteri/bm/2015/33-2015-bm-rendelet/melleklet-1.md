@@ -48,7 +48,9 @@ III. A büntetés-végrehajtási szervezetnél
 
 9. szakorvos,
 
-10. osztályvezető (egészségügyi).
+10. osztályvezető (egészségügyi),
+
+ha szolgálati feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Központi Kórház és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásokban látja el.
 
 [^11]: A 49. § a 46. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^12]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a szerint módosított szöveg.
