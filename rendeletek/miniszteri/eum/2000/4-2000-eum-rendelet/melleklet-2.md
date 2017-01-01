@@ -36,7 +36,7 @@
 
 ## Orvosi beutalás – javaslat – igazolás A.3510–64
 
-## Országos Egészségbiztosítási Pénztár vénye
+## Nemzeti Egészségbiztosítási Alapkezelő vénye
 
 ## Beutaló szakrendelésre (konzílium) felülvéleményezésre A.3510–65
 
@@ -78,7 +78,7 @@
 
 ## Alkalmassági vélemény a gépjárművezető-jelölt gépjárművezető egészségi alkalmasságról A.3510–265/N
 
-## Orvosi beutaló a Nemzeti Rehabilitációs és Szociális Hivatalhoz, a munkaképesség-változás, a fogyatékosság véleményezése és a keresőképesség felülbírálata céljából A. 3510–90
+## Orvosi beutaló az orvosszakértői szervhez és a rehabilitációs szakértői szervhez, a munkaképesség-változás, a fogyatékosság véleményezése és a keresőképesség felülbírálata céljából A. 3510–90
 
 ## Külön jogszabály szerinti adatlap a fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére
 
