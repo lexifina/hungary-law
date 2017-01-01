@@ -1,7 +1,5 @@
-## 34. §[^4]
+## 34. § Hatályát veszti az Ávr. 12. § (3) bekezdése.
 
 ## 4. A Szervezetátalakítási alap jogcímcsoport előirányzat-felhasználásának szabályairól szóló
 
 ## 20/2011. (III. 2.) Korm. rendelet hatályon kívül helyezése
-
-[^4]: A 34. § a 36. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
