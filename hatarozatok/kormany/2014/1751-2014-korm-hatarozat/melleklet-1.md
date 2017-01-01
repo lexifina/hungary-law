@@ -4,7 +4,7 @@
 
 ## 3. egyetért azzal, hogy a Hitelprogram kapcsán igénybe vehető támogatás – amely kedvezményes kamatból, költségvetési kamattámogatásból, kedvezményes díjú intézményi készfizető kezességvállalásból, illetve költségvetési kezesi díjtámogatásból állhat – az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelettel és az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelettel összhangban kerüljön nyújtásra;
 
-## 4. egyetért azzal, hogy a kedvezményes kamatból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást az MFB Zrt., a kedvezményes díjú intézményi készfizető kezességvállalásból és a költségvetési kezesi díjtámogatásból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást a kezességvállaló intézmény, a költségvetési kamattámogatásból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást a Mezőgazdasági és Vidékfejlesztési Hivatal adja ki;
+## 4.[^1] egyetért azzal, hogy a kedvezményes kamatból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást az MFB Zrt., a kedvezményes díjú intézményi készfizető kezességvállalásból és a költségvetési kezesi díjtámogatásból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást a kezességvállaló intézmény, a költségvetési kamattámogatásból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást a Magyar Államkincstár adja ki;
 
 ## 5. felhívja a nemzetgazdasági minisztert, hogy a Hitelprogram finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 6 milliárd forint mértékig az MFB törvény 5. § (2) bekezdése alapján az MFB Zrt.-vel árfolyam-fedezeti megállapodást kössön, azzal, hogy a Hitelprogram futamideje az árfolyam-fedezeti megállapodás szempontjából 7 év, lejárata 2027. december 31. és az árfolyam-fedezeti megállapodás e határozat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
 
@@ -51,3 +51,5 @@ A Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere (TEÁOR
 12. 1084 Fűszer, ételízesítő gyártása keretében kizárólag fűszerpaprika gyártás;
 
 13. 1102 Szőlőbor termelése.
+
+[^1]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 46. pontja szerint módosított szöveg.
