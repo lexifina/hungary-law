@@ -1,0 +1,1 @@
+## 2. § Ha a helyi nemzetiségi önkormányzatok működési és feladatalapú költségvetési támogatásáról szóló támogatói okiratok közzétételét követő nyolc napon belül a helyi nemzetiségi önkormányzat nem tesz észrevételt, a támogatói okiratban foglalt nyilatkozatok a helyi nemzetiségi önkormányzat által megtettnek minősülnek.
