@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-23-20-1
 | --- | --- | --- |
 | 2016-04-06 | 2016-23-20-11.1 | 23/2016. (IV. 5.) FM rendelet |
 | 2016-04-07 | 2016-23-20-11.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-23-20-11.3 | 88/2016. (XII. 29.) FM rendelet |

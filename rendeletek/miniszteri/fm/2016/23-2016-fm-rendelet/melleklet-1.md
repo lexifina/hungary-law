@@ -1,4 +1,4 @@
-## 9. §[^1]
+## 9. §[^4]
 
 1. melléklet a 23/2016. (IV. 5.) FM rendelethez
 
@@ -24,4 +24,4 @@ Tenyészetkód:
 
 5. Keltezés és aláírás
 
-[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
