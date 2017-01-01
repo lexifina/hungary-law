@@ -2,9 +2,9 @@
 
 ## 20. Hatályon kívül helyező rendelkezések
 
-27. § (1)[^31]
+27. § (1)[^40]
 
-(2)[^32]
+(2)[^41]
 
-[^31]: A 27. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 27. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 27. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 27. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

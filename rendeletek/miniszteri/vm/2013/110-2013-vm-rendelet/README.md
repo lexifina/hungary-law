@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-110-20-
 | 2015-04-01 | 2013-110-20-2Y.6 | 15/2015. (III. 31.) FM rendelet |
 | 2016-01-01 | 2013-110-20-2Y.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-01-02 | 2013-110-20-2Y.8 | 2010: CXXX. törvény |
+| 2017-01-01 | 2013-110-20-2Y.9 | 89/2016. (XII. 29.) FM rendelet |

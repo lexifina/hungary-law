@@ -1,4 +1,4 @@
-8. melléklet a 110/2013. (XII. 4.) VM rendelethez[^33]
+8. melléklet a 110/2013. (XII. 4.) VM rendelethez[^42]
 
 ## A folyamatos kibocsátásmérés eredményeinek értékelése
 
@@ -34,4 +34,4 @@ A 95%-os konfidencia-intervallum az a határértéknek megfelelő mértékegysé
 
 6. Az átlagos kibocsátási határértékek kiszámításakor nem kell figyelembe venni a 9. § (1) és (2) bekezdésében, valamint a 16. §-ban foglalt időszakok alatt, valamint az indítási és a leállítási időszakban végzett méréseket.
 
-[^33]: A 8. melléklet a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
+[^42]: A 8. melléklet a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
