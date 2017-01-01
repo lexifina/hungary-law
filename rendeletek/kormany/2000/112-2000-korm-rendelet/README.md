@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-112-20-
 | --- | --- | --- |
 | 2008-05-16 | 2000-112-20-22.5 | 112/2000. (VI. 29.) Korm. rendelet |
 | 2014-03-15 | 2000-112-20-22.6 | 46/2014. (II. 26.) Korm. rendelet |
+| 2017-01-01 | 2000-112-20-22.7 | 91/2004. (IV. 26.) Korm. rendelet |

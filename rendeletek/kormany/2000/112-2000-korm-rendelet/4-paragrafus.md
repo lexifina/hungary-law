@@ -6,4 +6,6 @@
 
 (4) A TÁTB üléseiről jegyzőkönyvet kell felvenni, amelynek egy-egy példányát az ülést követő 8 napon belül a tagoknak, valamint az előterjesztőnek meg kell küldeni.
 
-(5) A TÁTB működési költségeit és a működés koordinálásához szükséges adminisztratív hátteret az Országos Egészségbiztosítási Pénztár biztosítja.
+(5)[^7] A TÁTB működési költségeit és a működés koordinálásához szükséges adminisztratív hátteret a Nemzeti Egészségbiztosítási Alapkezelő biztosítja.
+
+[^7]: A 4. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 38. §-a szerint módosított szöveg.
