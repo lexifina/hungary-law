@@ -1,12 +1,12 @@
 ## Illékony szerves oldószer tartalmú termékek forgalmazása[^4]
 
-3. §[^5] (1) A kötelezett az 1. számú mellékletben meghatározott kategóriákba tartozó terméket akkor forgalmazhat, ha rendelkezik a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) engedélyével.
+3. §[^5] (1)[^6] A kötelezett az 1. számú mellékletben meghatározott kategóriákba tartozó terméket akkor forgalmazhat, ha rendelkezik a kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) engedélyével.
 
-(2) Az (1) bekezdés szerinti engedéllyel rendelkezőkről a Hivatal nyilvántartást vezet a következő tartalommal: a kötelezett megnevezése, székhelyének és telephelyének elérhetősége (postai cím, telefon, fax, elektronikus levelezési cím), nyilvántartási száma. A nyilvántartást a Hivatal a honlapján bárki számára ingyenesen és korlátozás nélkül elérhető módon folyamatosan közzéteszi.
+(2)[^7] Az (1) bekezdés szerinti engedéllyel rendelkezőkről a Kormányhivatal nyilvántartást vezet a következő tartalommal: a kötelezett megnevezése, székhelyének és telephelyének elérhetősége (postai cím, telefon, fax, elektronikus levelezési cím), nyilvántartási száma. A nyilvántartást a Kormányhivatal a honlapján bárki számára ingyenesen és korlátozás nélkül elérhető módon folyamatosan közzéteszi.
 
-(2a)[^6] A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2a)[^8] A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A Hivatal a kötelezettnek akkor ad engedélyt, ha
+(3)[^9] A Kormányhivatal a kötelezettnek akkor ad engedélyt, ha
 
 a) a kötelezett vagy annak alkalmazottja rendelkezik a jogszabályban meghatározott szakképesítéssel,
 
@@ -14,20 +14,27 @@ b) a kötelezett rendelkezik 30 napnál nem régebben kiállított közokirati i
 
 c) a kötelezettet nem nevesítették az Európai Unió jogi aktusában mint terrorista személyt vagy szervezetet vagy mint a terrorizmust támogató személyt vagy szervezetet, és nem írták elő ellene az Európai Unió jogi aktusában gazdasági korlátozó intézkedések bevezetését.
 
-(4) A nyilvántartásban szereplő adatokban bekövetkezett változásokat harminc napon belül a Hivatalhoz be kell jelenteni.
+(4)[^10] A nyilvántartásban szereplő adatokban bekövetkezett változásokat harminc napon belül a Kormányhivatalhoz be kell jelenteni.
 
 (5) Az engedély iránti kérelmet a 6. számú melléklet szerinti adattartalommal kell benyújtani. A kérelemhez csatolni kell a (3) bekezdés a) és b) pontja szerinti feltételek fennállását igazoló okiratokat vagy azoknak a kiadmányozó vagy közjegyző által hitelesített másolatát.
 
-(6) A Hivatal a kötelezett engedélyét visszavonja, és ezzel egyidejűleg törli a kötelezettet a nyilvántartásból, ha
+(6)[^11] A Kormányhivatal a kötelezett engedélyét visszavonja, és ezzel egyidejűleg törli a kötelezettet a nyilvántartásból, ha
 
 a) az e rendeletben előírt feltételeknek már nem felel meg,
 
 b) az e rendelet alapján ellenőrzésre jogosult hatóságok megállapítása szerint tevékenységét az e rendeletben előírt kötelezettségeinek megsértésével folytatja.
 
-(7) A Hivatal a határozatát és annak módosítását, visszavonását közli a kötelezett üzlete vagy telephelye szerint illetékes jegyzővel.
+(7)[^12] A Kormányhivatal a határozatát és annak módosítását, visszavonását közli a kötelezett üzlete vagy telephelye szerint illetékes jegyzővel.
 
-(8) Az a kötelezett, amelynek az engedélyét a Hivatal a (6) bekezdés b) pontja alapján visszavonta, az engedély visszavonásának napjától számított egy éven belül nem kaphat engedélyt.
+(8)[^13] Az a kötelezett, amelynek az engedélyét a Kormányhivatal a (6) bekezdés b) pontja alapján visszavonta, az engedély visszavonásának napjától számított egy éven belül nem kaphat engedélyt.
 
 [^4]: A 3. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: A 3. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 7. §-a iktatta be.
+[^6]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 7. §-a iktatta be.
+[^9]: A 3. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § d) pontja szerint módosított szöveg.
+[^11]: A 3. § (6) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^12]: A 3. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^13]: A 3. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
