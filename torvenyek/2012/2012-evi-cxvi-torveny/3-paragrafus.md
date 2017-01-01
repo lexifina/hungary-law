@@ -1,6 +1,6 @@
 ## 3. A pénzügyi tranzakciós illeték tárgya
 
-3. § (1) Illetékköteles a pénzforgalmi szolgáltató által az ügyféllel kötött, Pft. szerinti keretszerződés alapján nyújtott pénzforgalmi szolgáltatás keretében végrehajtott fizetési műveletek közül az átutalás, a beszedés, a fizető fél által a kedvezményezett útján kezdeményezett fizetés, a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés, a készpénzkifizetés fizetési számláról, a készpénzátutalás, az okmányos meghitelezés (akkreditív), a készpénzfizetésre szóló csekk beváltása, továbbá a pénzváltási tevékenység végzésére jogosult hitelintézet, vagy a pénzváltás közvetítésére jogosult kiemelt közvetítő útján kezdeményezett fizetőeszköz útján történő eladás, a kölcsöntörlesztés, valamint a jutalék- és díjbevételek felszámítása. Illetékköteles továbbá a készpénzkifizetés készpénz-helyettesítő fizetési eszköz útján akkor is, ha az nem fizetési számla terhére történik.
+3. § (1) Illetékköteles a pénzforgalmi szolgáltató által az ügyféllel kötött, Pft. szerinti keretszerződés alapján nyújtott pénzforgalmi szolgáltatás keretében végrehajtott fizetési műveletek közül az átutalás, a beszedés, a fizető fél által a kedvezményezett útján kezdeményezett fizetés, a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés, a készpénzkifizetés fizetési számláról, a készpénzátutalás, az okmányos meghitelezés (akkreditív), a készpénzfizetésre szóló csekk beváltása, továbbá a pénzváltási tevékenység végzésére jogosult hitelintézet, vagy a pénzváltás közvetítésére jogosult kiemelt közvetítő útján kezdeményezett, fizetőeszköz útján történő eladás, a kölcsöntörlesztés (ideértve a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménnyel fennálló kölcsönszerződés alapján készpénzben történő törlesztést is), valamint a jutalék- és díjbevételek felszámítása. Illetékköteles továbbá a készpénzkifizetés készpénz-helyettesítő fizetési eszköz útján akkor is, ha az nem fizetési számla terhére történik.
 
 (2) E törvény eltérő rendelkezése hiányában pénzügyi tranzakciós illetéket kell fizetni továbbá minden olyan, az (1) bekezdésben meghatározott fizetési műveletekkel egy tekintet alá eső olyan pénzforgalmi szolgáltatásnak minősülő fizetési művelet esetén, amelynek eredményeképpen a pénzforgalmi szolgáltató az általa a fizető fél részére vezetett fizetési számlán nyilvántartott követelést a fizetési megbízás szerinti összeggel csökkenti.
 
@@ -8,7 +8,7 @@
 
 (4) Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget
 
-a) az (5) bekezdésben foglaltak kivételével az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik, vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
+a) az (5) bekezdésben foglaltak kivételével az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik (ideértve többek között, ha a fizetési műveletre a magánszemély egyéni vállalkozói és magánszemélykénti számlája között kerül sor), vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
 
 b) az ügyfélszámlán vagy a befektetési szolgáltatással kapcsolatban egyéb számlán végrehajtott fizetési művelet, ideértve a fizetési számla és az ügyfélszámla között végrehajtott fizetési műveletet abban az esetben, ha
 
@@ -42,7 +42,9 @@ m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanit
 
 n) a kincstár által, a köznevelési, a szociális, gyermekjóléti és gyermekvédelmi humánszolgáltatások után nem állami intézmény fenntartójának biztosított hozzájárulás, a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres házi segítségnyújtás, a szociális foglalkoztatás, az utcai szociális munka és a krízisközpontok támogatásának folyósítására vezetett lebonyolítási számlán megvalósuló fizetési művelet,
 
-o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinanszírozás lebonyolítására vezetett számlán megvalósuló fizetési művelet.
+o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinanszírozás lebonyolítására vezetett számlán megvalósuló fizetési művelet,
+
+p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya – ide nem értve a Magyar Honvédséget – részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet.
 
 (5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
 

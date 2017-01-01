@@ -8,7 +8,7 @@ b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzöss
 
 c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a kedvezményezett pénzforgalmi szolgáltatójának átutalt, ennek hiányában a kedvezményezett részére fizetett összeg,
 
-d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli,
+d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli, illetve amelyet az ügyfél a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménynek készpénzben megfizet,
 
 e) készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén a kifizetett összeg,
 
@@ -18,7 +18,7 @@ g) jutalék- és díjbevételek esetén az az összeg, amellyel a pénzforgalmi 
 
 h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei.
 
-(2) Külföldi pénznemre szóló fizetési megbízás, kölcsöntörlesztés, jutalék és díjbevétel felszámítás és pénzváltási tevékenység esetén az (1) bekezdés szerinti összeget a teljesítési napon érvényes hivatalos MNB devizaárfolyamon kell forintra átszámítani.
+(2) Külföldi pénznemre szóló fizetési megbízás, kölcsöntörlesztés, jutalék és díjbevétel felszámítás és pénzváltási tevékenység esetén az (1) bekezdés szerinti összeget a teljesítési napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
 
 (3) Az (1) bekezdés h) pontjának alkalmazásában ugyanazon készpénz-helyettesítő fizetési eszköznek minősül a pénzügyi tranzakciós illeték kiszámításának alapjául szolgáló naptári évben a fizető fél számára kibocsátott olyan készpénz-helyettesítő fizetési eszköz, amely az alábbi okok valamelyikére tekintettel kerül kibocsátásra:
 

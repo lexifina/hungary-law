@@ -14,7 +14,7 @@ e) a készpénzfizetésre szóló csekk beváltása esetén a kibocsátó száml
 
 f) a 3. § (2) bekezdésében meghatározott esetben a fizető fél pénzforgalmi szolgáltatója,
 
-g) kölcsöntörlesztés esetén a fizetési számlát vezető pénzforgalmi szolgáltató,
+g) kölcsöntörlesztés esetén a fizetési számlát vezető pénzforgalmi szolgáltató, illetve a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézmény,
 
 h) az a) pont hatálya alá nem tartozó készpénzkifizetés esetén az a pénzforgalmi szolgáltató, amely a készpénz-helyettesítő fizetési eszköz fedezetéül szolgáló hitelkeretet rendelkezésre tartja,
 
