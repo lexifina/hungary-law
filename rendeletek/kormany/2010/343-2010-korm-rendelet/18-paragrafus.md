@@ -10,7 +10,7 @@
 
 (6) Fenntarthatósági igazolás – a BÜHG nyilvántartásba történő felvételről szóló döntés jogerőre emelkedésére való tekintet nélkül – 2011. január 1. és január 31. között kiállítható, ha a kérelmező a BÜHG nyilvántartásba vételi kérelmet benyújtotta és rendelkezik érvényes regisztrációs számmal.
 
-(7)[^82] Az 5. § (1)–(2) bekezdésének rendelkezései a 2011. január 1. és az e rendelet hatálybalépésének[^83] napja közötti időszakban forgalomba hozott, a kötelező bioüzemanyag-részaránynak megfelelő mennyiséget meghaladó bioüzemanyag-mennyiségre is alkalmazandók e rendelet hatálybalépését követően.
+(7)[^84] Az 5. § (1)–(2) bekezdésének rendelkezései a 2011. január 1. és az e rendelet hatálybalépésének[^85] napja közötti időszakban forgalomba hozott, a kötelező bioüzemanyag-részaránynak megfelelő mennyiséget meghaladó bioüzemanyag-mennyiségre is alkalmazandók e rendelet hatálybalépését követően.
 
-[^82]: A 18. § (7) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 12. §-a iktatta be.
-[^83]: A hatálybalépés időpontja 2011. augusztus 25.
+[^84]: A 18. § (7) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 12. §-a iktatta be.
+[^85]: A hatálybalépés időpontja 2011. augusztus 25.

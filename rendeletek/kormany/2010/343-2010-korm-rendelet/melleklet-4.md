@@ -1,4 +1,4 @@
-## A fenntarthatósági igazolás minimális adattartalma[^96]
+## A fenntarthatósági igazolás minimális adattartalma[^99]
 
 ## 1. A termesztett biomasszára vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
@@ -18,13 +18,13 @@
 
 ## h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás kiszámításakor;
 
-## i)[^97]
+## i)[^100]
 
 ## 2. A nem termesztett biomasszára vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
 ## a) az igazolás kiállítójának adatai, adószáma, adóazonosító jele;
 
-## b)[^98] a biomassza megvásárlójának, bérfeldolgozójának neve, címe, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
+## b)[^101] a biomassza megvásárlójának, bérfeldolgozójának neve, címe, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
 
 ## c) a biomassza megnevezése és KN-kódja;
 
@@ -32,13 +32,13 @@
 
 ## e) az igazolás azonosítószáma;
 
-## f)[^99] az igazolásban szereplő biomassza mennyiségéhez tartozó kibocsátási komponensek értéke.
+## f)[^102] az igazolásban szereplő biomassza mennyiségéhez tartozó kibocsátási komponensek értéke.
 
 ## 3. A köztes termékre vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
 ## a) az igazolás kiállítójának adatai, regisztrációs száma;
 
-## b)[^100] a köztes termék megvásárlójának, bérfeldolgozójának neve, címe, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
+## b)[^103] a köztes termék megvásárlójának, bérfeldolgozójának neve, címe, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
 
 ## c) a köztes termék megnevezése és KN-kódja;
 
@@ -52,7 +52,7 @@
 
 ## h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás kiszámításakor;
 
-## i)[^101]
+## i)[^104]
 
 ## 4. A bioüzemanyagra vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
@@ -72,14 +72,14 @@
 
 ## h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás kiszámításakor.
 
-## 5.[^102] Ha az 1–4. pont szerinti termékek esetében a kibocsátási komponensek megállapítása tényleges érték kiszámításával történt, a fenntarthatósági igazolás tartalmazza az auditor nevét, regisztrációs számát, valamint az auditori nyilatkozat azonosító számát.
+## 5.[^105] Ha az 1–4. pont szerinti termékek esetében a kibocsátási komponensek megállapítása tényleges érték kiszámításával történt, a fenntarthatósági igazolás tartalmazza az auditor nevét, regisztrációs számát, valamint az auditori nyilatkozat azonosító számát.
 
 4. melléklet a 343/2010. (XII. 28.) Korm. rendelethez
 
-[^96]: A 3. melléklet címe a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^97]: A 3. melléklet 1. pont i) alpontját a 348/2013. (IX. 30.) Korm. rendelet 16. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^98]: A 3. melléklet 2. pont b) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^99]: A 3. melléklet 2. pont f) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^100]: A 3. melléklet 3. pont b) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^101]: A 3. melléklet 3. pont i) alpontját a 348/2013. (IX. 30.) Korm. rendelet 16. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^102]: A 3. melléklet 5. pontját a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^99]: A 3. melléklet címe a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^100]: A 3. melléklet 1. pont i) alpontját a 348/2013. (IX. 30.) Korm. rendelet 16. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^101]: A 3. melléklet 2. pont b) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^102]: A 3. melléklet 2. pont f) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^103]: A 3. melléklet 3. pont b) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^104]: A 3. melléklet 3. pont i) alpontját a 348/2013. (IX. 30.) Korm. rendelet 16. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^105]: A 3. melléklet 5. pontját a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdése iktatta be.

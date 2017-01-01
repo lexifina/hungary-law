@@ -8,6 +8,8 @@
 
 a) a bioüzemanyag alapanyagaként felhasznált biomassza igazoltan fenntarthatóan kerül megtermelésre, és
 
-b) a bioüzemanyag használatából eredő üvegházhatású gázkibocsátás elkerülés mértéke legalább 35%.
+b)[^17] a bioüzemanyag használatából eredő üvegházhatású gázkibocsátás elkerülés mértéke legalább 50%.
 
 (4) A (3) bekezdés b) pontjában foglalt követelményt 2013. április 1-jétől kell alkalmazni arra a bioüzemanyagra, amelyet olyan létesítményben állították elő, amely 2008. január 23-án vagy azt megelőzően kezdte meg működését.
+
+[^17]: A 2. § (3) bekezdés b) pontja a 21. §-sal megállapított szöveg.
