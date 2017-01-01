@@ -1,0 +1,3 @@
+## 14. § Az R5. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A TUE Bizottság elnökét és tagjait nyilvános pályáztatás útján a HUNADO választja ki. A kiválasztásban az Országos Sportegészségügyi Intézetnek és a Sportegészségügyi Szakmai Kollégiumnak javaslattételi joga van. A TUE Bizottság elnökét és tagjait a HUNADO vezetője kéri fel a tisztség ellátására. A TUE Bizottság belgyógyász, pulmonológus és sebész szakorvosokból áll. A TUE Bizottság legalább egy tagjának rendelkeznie kell a fogyatékos versenyzők speciális egészségügyi ellátására, kezelésére vonatkozó ismeretekkel.”
