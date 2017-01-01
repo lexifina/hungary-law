@@ -36,7 +36,7 @@
 
 | P. H. P. H. ......................................... ......................................... |
 
-| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi feladatkörében) |  |
+| A közlekedésért felelős miniszter által vezetett minisztérium részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi feladatkörében) |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -134,6 +134,6 @@
 
 | E-mail: |  |
 
-4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^144]
+4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^156]
 
-[^144]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § s) pontja szerint módosított szöveg.
+[^156]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § s) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (1) bekezdés d) pontja szerint módosított szöveg.

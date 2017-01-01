@@ -1,6 +1,6 @@
 ## Igénylésazonosító:
 
-## Közlekedésfejlesztési Koordinációs Központ szakmai véleménye
+## A közlekedésért felelős miniszter szakmai véleménye
 
 | Az ellenőrzés tárgya: |  |
 
@@ -18,7 +18,7 @@
 
 | P. H. | ................................................ |
 
-| Közlekedésfejlesztési Koordinációs Központ részéről: |  |
+| A közlekedésért felelős miniszter által vezetett minisztérium részéről: |  |
 
 | Beosztás: |  |
 
@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^145]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^157]
 
 Igénylésazonosító:
 
@@ -172,4 +172,4 @@ P. H.
 
 | polgármester/elnök | jegyző |
 
-[^145]: Az 5. melléklet a 383/2015. (XII. 8.) Korm. rendelet második 15. § a) pontjával megállapított szöveg.
+[^157]: Az 5. melléklet a 383/2015. (XII. 8.) Korm. rendelet második 15. § a) pontjával megállapított szöveg.

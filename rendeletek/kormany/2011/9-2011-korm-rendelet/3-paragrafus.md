@@ -20,7 +20,7 @@ a helyi önkormányzatokért felelős miniszter (a továbbiakban: miniszter) ál
 
 a) ár- vagy belvíz elleni védekezés, ár- és belvízvédelmi vízi létesítmény károsodása esetén a helyi önkormányzat székhelye szerint illetékes vízügyi igazgatóság,
 
-b)[^30] utakban, komp- és révátkelőhelyekben, hidakban keletkezett károk esetében a Közlekedésfejlesztési Koordinációs Központ,
+b)[^30] utakban, komp- és révátkelőhelyekben, hidakban keletkezett károk esetében a közlekedésért felelős miniszter,
 
 c) kulturális örökség védett elemei esetén az örökségvédelmi feladatkörben érintett illetékes elsőfokú hatóság
 
@@ -30,7 +30,7 @@ c) kulturális örökség védett elemei esetén az örökségvédelmi feladatk�
 
 (7)[^32] Az előzetes helyszíni vizsgálat lefolytatásáról a 3. melléklet A) része szerinti jegyzőkönyvet elektronikusan – az ebr42 rendszerben – kell kiállítani. A rendkívüli időjárás által közvetlenül okozott károk (5) és (6) bekezdés szerinti vizsgálata esetében az OMSZ a Katasztrófavédelmi Igazgatóság kérésére – térítésmentesen – tájékoztatást küld.
 
-(8)[^33] Pince-, partfalomlás vagy földcsuszamlás esetében a miniszter által kinevezett Pince- és Partfalveszély-Elhárítási Szakértői Bizottság a bejelentéstől számított 20 napon belül a káreseményt a helyszínen megvizsgálja, veszélyességi kategóriába sorolja és megállapításait a 3. melléklet B) része szerinti adatlapon az ebr42 rendszerben elektronikusan rögzíti, majd erről faxon tájékoztatja a helyi önkormányzatot.
+(8)[^33] Pince-, partfalomlás vagy földcsuszamlás esetében a miniszter által kinevezett Pince- és Partfalveszély-Elhárítási Szakértői Bizottság a bejelentéstől számított 20 napon belül a káreseményt a helyszínen megvizsgálja, veszélyességi kategóriába sorolja és megállapításait a 3. melléklet B) része szerinti adatlapon az ebr42 rendszerben elektronikusan rögzíti.
 
 (8a)[^34] Katasztrófavédelmi szúnyoggyérítés esetében a bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a helyi önkormányzat székhelye szerint illetékes népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal – az ebr42 rendszerben – kiállítja a 9. melléklet B) része szerinti nyilatkozatot.
 
@@ -55,10 +55,10 @@ c) kulturális örökség védett elemei esetén az örökségvédelmi feladatk�
 [^27]: A 3. § (4) bekezdése a 92/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^28]: A 3. § (5) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 8. pontja, a 342/2013. (IX. 25.) Korm. rendelet 1. § (5) bekezdése, a 129/2014. (IV. 10.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
 [^29]: A 3. § (6) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^30]: A 3. § (6) bekezdés b) pontja a 383/2015. (XII. 8.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^30]: A 3. § (6) bekezdés b) pontja a 383/2015. (XII. 8.) Korm. rendelet 15. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^31]: A 3. § (6a) bekezdését a 342/2013. (IX. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 383/2015. (XII. 8.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
 [^32]: A 3. § (7) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
-[^33]: A 3. § (8) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 10. pontja, a 280/2014. (XI. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^33]: A 3. § (8) bekezdése a 280/2014. (XI. 14.) Korm. rendelet 3. §-a, a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés a) pontja szerint módosított szöveg.
 [^34]: A 3. § (8a) bekezdését a 92/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 12. § 6. pontja, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^35]: A 3. § (9) bekezdését a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^36]: A 3. § (10) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 11–12. pontja, a 129/2014. (IV. 10.) Korm. rendelet 13. § (2) bekezdés a) pontja, a 383/2015. (XII.8.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
