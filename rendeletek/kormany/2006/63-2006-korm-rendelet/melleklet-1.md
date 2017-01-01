@@ -1,6 +1,6 @@
-## 68. §[^226] A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+## 68. §[^233] A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^227]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^234]
 
 ## Vagyonnyilatkozat
 
@@ -202,5 +202,5 @@ Kelt: .......... év .............................. hó ............ nap
 
 | ................................................ aláírás |
 
-[^226]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
-[^227]: Az 1. számú melléklet a 116/2016. (VI. 6.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^233]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
+[^234]: Az 1. számú melléklet a 116/2016. (VI. 6.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.

@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2016-01-01 | 2006-63-20-22.42 | 392/2013. (XI. 12.) Korm. rendelet |
 | 2016-06-09 | 2006-63-20-22.43 | 116/2016. (VI. 6.) Korm. rendelet |
 | 2016-07-23 | 2006-63-20-22.44 | 392/2013. (XI. 12.) Korm. rendelet |
+| 2017-01-01 | 2006-63-20-22.45 | 379/2016. (XII. 2.) Korm. rendelet |

@@ -1,13 +1,14 @@
-43. §[^180] (1) Az OEP folyamatos elektronikus adatkapcsolat keretében biztosítja a gyógyszertár számára a közgyógyellátásra való jogosultság és a rendelkezésre álló gyógyszerkeret megállapítása céljából a nyilvántartásba történő betekintést.
+43. §[^188] (1)[^189] A NEAK folyamatos elektronikus adatkapcsolat keretében biztosítja a gyógyszertár számára a közgyógyellátásra való jogosultság és a rendelkezésre álló gyógyszerkeret megállapítása céljából a nyilvántartásba történő betekintést.
 
-(2)[^181] A 2006. július 1-jét követően hatályos rendelkezések alapján az a gyógyszertár szolgáltathat ki közgyógyellátás keretében gyógyszert, ahol az OEP a 61. § (6) bekezdése[^182] szerint biztosítja a nyilvántartáshoz elektronikus úton történő folyamatos hozzáférés távközlési műszaki feltételeit és a gyógyszertár tulajdonosa az OEP által biztosított távközlési rendszert a szolgálati idő alatt folyamatosan üzemelteti.
+(2)[^190] A 2006. július 1-jét követően hatályos rendelkezések alapján az a gyógyszertár szolgáltathat ki közgyógyellátás keretében gyógyszert, ahol a NEAK a 61. § (6) bekezdése[^191] szerint biztosítja a nyilvántartáshoz elektronikus úton történő folyamatos hozzáférés távközlési műszaki feltételeit és a gyógyszertár tulajdonosa a NEAK által biztosított távközlési rendszert a szolgálati idő alatt folyamatosan üzemelteti.
 
-(3)[^183] A (2) bekezdésben a gyógyszertár tulajdonosára meghatározottak teljesítését az OEP hatósági ellenőrzés keretében megvizsgálja és igazolja. A közgyógyellátás keretében történő gyógyszer kiszolgáltatásra való jogosultságot tanúsító iratot a gyógyszertárban jól látható helyre ki kell függeszteni. Az ellenőrzés elősegítése érdekében az OEP a Magyar Gyógyszerész Kamarával közös ajánlást dolgoz ki, amelyet az OEP, illetve a Magyar Gyógyszerész Kamara a honlapján közzétesz.
+(3)[^192] A (2) bekezdésben a gyógyszertár tulajdonosára meghatározottak teljesítését hatósági ellenőrzés keretében megvizsgálja és igazolja. A közgyógyellátás keretében történő gyógyszer kiszolgáltatásra való jogosultságot tanúsító iratot a gyógyszertárban jól látható helyre ki kell függeszteni. Az ellenőrzés elősegítése érdekében a NEAK a Magyar Gyógyszerész Kamarával közös ajánlást dolgoz ki, amelyet a NEAK, illetve a Magyar Gyógyszerész Kamara a honlapján közzétesz.
 
-(4)[^184] A közgyógyellátás keretében a kézigyógyszertárban történő gyógyszer kiszolgáltatást külön jogszabály határozza meg.
+(4)[^193] A közgyógyellátás keretében a kézigyógyszertárban történő gyógyszer kiszolgáltatást külön jogszabály határozza meg.
 
-[^180]: A 43. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^181]: A 43. § (2) bekezdése a 83/2006. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^182]: A 61. § eredeti (6) bekezdését a 193/2006. (IX. 25.) Korm. rendelet 1. §-a átszámozta (7) bekezdésre.
-[^183]: A 43. § (3) bekezdése a 83/2006. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^184]: A 43. § (4) bekezdése a 83/2006. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^188]: A 43. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^189]: A 43. § (1) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^190]: A 43. § (2) bekezdése a 83/2006. (IV. 7.) Korm. rendelet 1. §-ával megállapított, a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^191]: A 61. § eredeti (6) bekezdését a 193/2006. (IX. 25.) Korm. rendelet 1. §-a átszámozta (7) bekezdésre.
+[^192]: A 43. § (3) bekezdése a 83/2006. (IV. 7.) Korm. rendelet 1. §-ával megállapított, a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^193]: A 43. § (4) bekezdése a 83/2006. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.

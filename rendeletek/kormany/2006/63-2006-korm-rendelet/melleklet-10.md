@@ -158,7 +158,7 @@
 
 ## címre kérem.
 
-## 4.2.2. ⬜ A közgyógyellátási igazolványt személyesen veszem át az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatalnál.
+## 4.2.2. ⬜ A közgyógyellátási igazolványt személyesen veszem át a fővárosi és megyei kormányhivatal egészségbiztosítási feladatkörében eljáró megyeszékhely szerinti járási hivatalnál (a fővárosban, illetve Pest megye tekintetében Budapest Főváros Kormányhivatala XIII. Kerületi Hivatalánál).
 
 ## 4.3. Kijelentem, hogy
 
@@ -272,7 +272,7 @@
 
 ## 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
-## 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
+## 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék, átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
 ## 5.2.8.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, az egészségkárosodási és gyermekfelügyeleti támogatás, a foglalkoztatást helyettesítő támogatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
@@ -280,7 +280,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^237]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^244]
 
 ## Háziorvosi igazolás
 
@@ -338,4 +338,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^237]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^244]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

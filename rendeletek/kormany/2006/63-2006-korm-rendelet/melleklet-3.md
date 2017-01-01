@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^230]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^237]
 
 ## KÉRELEM
 
@@ -284,7 +284,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
-5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
+5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a táncművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
 5.2.8.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, az egészségkárosodási és gyermekfelügyeleti támogatás, a foglalkoztatást helyettesítő támogatás, az ápolási díj; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
@@ -304,7 +304,7 @@ c) fogyatékossági támogatásban részesül.
 
 5.3.2. A kérelemhez
 
-5.3.2.1. az 5.3.1. pont a) alpontjában meghatározott esetben mellékelni kell a Nemzeti Rehabilitációs és Szociális Hivatalnak vagy a rehabilitációs szakigazgatási szervnek a munkaképesség legalább 67%-os mértékű csökkenéséről, illetve a legalább 50%-os mértékű egészségkárosodásról készült érvényes és hatályos szakvéleményét, előzetes szakhatósági állásfoglalását vagy szakhatósági állásfoglalását;
+5.3.2.1. az 5.3.1. pont a) alpontjában meghatározott esetben mellékelni kell a rehabilitációs hatóságnak a munkaképesség legalább 67%-os mértékű csökkenéséről, illetve a legalább 50%-os mértékű egészségkárosodásról készült érvényes és hatályos szakvéleményét, előzetes szakhatósági állásfoglalását vagy szakhatósági állásfoglalását;
 
 5.3.2.2. az 5.3.1. pont b) alpontjában meghatározott esetben
 
@@ -342,4 +342,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 a törvényes képviselője jogosult az aláírásra.
 
-[^230]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés c) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^237]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés c) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 18. pontja, a 440/2016. (XII. 16.) Korm. rendelet 9. §-a szerint módosított szöveg.

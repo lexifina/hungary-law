@@ -38,7 +38,7 @@
 
 ## A jogosult aláírása
 
-14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^242]
+14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^249]
 
 ## KÉRELEM szociális rászorultság megállapítása iránt egészségügyi szolgáltatásra való jogosultság igénybevétele céljából
 
@@ -180,7 +180,7 @@ Kelt: ................................................
 
 4.5.9. Jövedelem típusai:
 
-4.5.9.1. „Nyugdíj vagy nyugdíjszerű ellátásként” kell feltüntetni az öregségi nyugdíjat, az özvegyi nyugdíjat, a baleseti hozzátartozói nyugellátást, a mezőgazdasági járadékot, a korhatár előtti ellátást, a szolgálati járandóságot, a balettművészeti életjáradékot, az átmeneti bányászjáradékot, a rokkantsági ellátást, a rehabilitációs ellátást, a bányászok egészségkárosodási járadékát, a rokkantsági járadékot, a rehabilitációs járadékot, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásait.
+4.5.9.1. „Nyugdíj vagy nyugdíjszerű ellátásként” kell feltüntetni az öregségi nyugdíjat, az özvegyi nyugdíjat, a baleseti hozzátartozói nyugellátást, a mezőgazdasági járadékot, a korhatár előtti ellátást, a szolgálati járandóságot, a táncművészeti életjáradékot, az átmeneti bányászjáradékot, a rokkantsági ellátást, a rehabilitációs ellátást, a bányászok egészségkárosodási járadékát, a rokkantsági járadékot, a rehabilitációs járadékot, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásait.
 
 4.5.9.2. „Keresőtevékenységből származó jövedelemnek” minősül minden olyan bevétel, amely munkavégzésből származik (például: munkabér, megbízási díj, vállalkozásból származó jövedelem).
 
@@ -188,5 +188,5 @@ Kelt: ................................................
 
 4.5.10. A jövedelemről a jövedelem típusának megfelelő iratot vagy annak másolatát a kérelemhez mellékelni szükséges.
 
-[^242]: A 14. számú mellékletet újonnan a 116/2016. (VI. 6.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^249]: A 14. számú mellékletet újonnan a 116/2016. (VI. 6.) Korm. rendelet 23. § (3) bekezdése iktatta be, szövege a 440/2016. (XII. 16.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^*]: Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha bejelentett lakó- és tartózkodási hellyel is rendelkezik.
