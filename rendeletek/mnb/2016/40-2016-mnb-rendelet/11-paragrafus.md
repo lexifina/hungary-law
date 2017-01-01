@@ -1,0 +1,1 @@
+## 10. § Az újonnan alakult vagy könyvvezetési kötelezettsége tekintetében a számvitelről szóló 2000. évi C. törvény hatálya alá nem tartozó ügyfél, partner vonatkozásában az intézmény az általánostól eltérő minősítési elveket is alkalmazhat.

@@ -1,0 +1,3 @@
+13. § (1) Az intézmény a 6. § szerinti minősítést a szerződés futamideje alatt évente legalább egyszer, illetve ha az intézmény belső politikájában ettől eltérő gyakoriságú minősítési gyakorlatot rögzített, vagy az ügyfél, partner kedvezőtlen minősítése gyakoribb értékelést indokol, évente több alkalommal is felülvizsgálja.
+
+(2) Az intézmény a 6. § szerinti minősítést soron kívül felülvizsgálja a kockázati tényezők jelentős megváltozásakor (például az ügyfél helyzetének romlása vagy fizetési hajlandóságának megváltozása), valamint abban az esetben, ha olyan információ birtokába jut, amely feltételezhetően a besorolási kategória változtatását vonja maga után (például csődeljárás, felszámolási eljárás megindításának közzététele).
