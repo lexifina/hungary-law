@@ -1,0 +1,1 @@
+A Kormány a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. § (6) bekezdésében és 101. § (1) bekezdés n) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
