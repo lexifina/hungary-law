@@ -14,7 +14,7 @@ d) a Kbt. 62. § (1) bekezdés f) pontja tekintetében a kizáró ok hiányát a
 
 e) a Kbt. 62. § (1) bekezdés g) pontja tekintetében a kizáró ok hiányát a Hatóság honlapján elérhető nyilvántartásból, valamint a céginformációs szolgálattól ingyenesen, elektronikusan kérhető cégjegyzék-adatok alapján az ajánlatkérő ellenőrzi;
 
-f) a Kbt. 62. § (1) bekezdés h) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
+f)[^7] a Kbt. 62. § (1) bekezdés h) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot, a Közbeszerzési Döntőbizottság vagy a bíróság döntésére vonatkozóan a kizáró ok hiányát a Hatóság honlapján közzétett adatokból az ajánlatkérő ellenőrzi;
 
 g) a Kbt. 62. § (1) bekezdés i) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -28,7 +28,7 @@ ib) a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az ajánlatte
 
 ic) a Kbt. 62. § (1) bekezdés k) pont kc) alpontjára vonatkozóan az ajánlattevő vagy részvételre jelentkező nyilatkozata arról, hogy van-e olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik; ha van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező azt nyilatkozatban megnevezi (cégnév, székhely), továbbá nyilatkozik, hogy annak vonatkozásában a Kbt. 62. § (1) bekezdés k) pont kc) alpontjában hivatkozott kizáró feltétel nem áll fenn;
 
-j) a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Állampolgársági Hivatal honlapján közzétett adatokból;
+j)[^8] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Menekültügyi Hivatal honlapján közzétett adatokból;
 
 k) a Kbt. 62. § (1) bekezdés m) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -36,4 +36,10 @@ l) a Kbt. 62. § (1) bekezdés n) pontja tekintetében a Gazdasági Versenyhivat
 
 m) a Kbt. 62. § (1) bekezdés o) pontja tekintetében az ajánlatkérő köteles elfogadni igazolásként az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
 
-n) a Kbt. 62. § (1) bekezdés p) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot.
+n) a Kbt. 62. § (1) bekezdés p) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
+
+o)[^9] a Kbt. 62. § (1) bekezdés q) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a jogsértés megtörténtét vagy annak hiányát a Hatóság honlapján közzétett adatokból az ajánlatkérő ellenőrzi.
+
+[^7]: A 8. § f) pontja a 487/2016. (XII. 28.) Korm. rendelet 7. § (7) bekezdésével megállapított szöveg.
+[^8]: A 8. § j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^9]: A 8. § o) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (8) bekezdése iktatta be.

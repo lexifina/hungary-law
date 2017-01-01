@@ -10,7 +10,7 @@ d) a Kbt. 62. § (1) bekezdés b) pontjára vonatkozóan a formanyomtatvány III
 
 e) a Kbt. 62. § (1) bekezdés c), d), h)–j) és m) pontjára vonatkozóan a formanyomtatvány III. része „C” szakaszának vonatkozó pontjai kitöltésével nyilatkozik,
 
-f) a Kbt. 62. § (1) bekezdés e)–g), k), l) és p) pontjára vonatkozóan a formanyomtatvány III. részének „D” szakaszában a vonatkozó pontok kitöltésével nyilatkozik,
+f)[^4] a Kbt. 62. § (1) bekezdés e)–g), k), l), p) és q) pontjára vonatkozóan a formanyomtatvány III. részének „D” szakaszában a vonatkozó pontok kitöltésével nyilatkozik,
 
 g) a Kbt. 62. § (1) bekezdés n)–o) pontjára vonatkozóan a formanyomtatvány III. része „C” szakaszának vonatkozó pontja kitöltésével azzal, hogy ha a gazdasági szereplő bírságelengedésben részesült, vagy az ajánlat benyújtását megelőzően a jogsértést a Gazdasági Versenyhivatalnak bejelentette, ezt a tényt a formanyomtatványban feltünteti.
 
@@ -20,6 +20,9 @@ a) a Kbt. 63. § (1) bekezdés a)–c) pontjára vonatkozóan a formanyomtatván
 
 b) a Kbt. 63. § (1) bekezdés d) pontjára vonatkozó nyilatkozatot a gazdasági szereplő a formanyomtatvány III. részének „D” pontjában teszi meg.
 
-(3) Ha az érintett gazdasági szereplő a Kbt. 62. § (1) bekezdése a), c)–e), g)–p) pontjai, a Kbt. 62. § (2) bekezdése, valamint a Kbt. 63. § (1) bekezdése alapján kizáró ok hatálya alá esik, azonban olyan intézkedéseket hozott, amelyek a Kbt. 64. §-a alapján igazolják megbízhatóságát és ezt a Közbeszerzési Hatóság (a továbbiakban: Hatóság) Kbt. 188. § (4) bekezdése szerinti – vagy bírósági felülvizsgálat esetén a bíróság Kbt. 188. § (5) bekezdése szerinti – jogerős határozatával igazolni tudja, köteles mind a kizáró ok fennállását, mind a megtett intézkedések rövid leírását feltüntetni a formanyomtatványon. A formanyomtatványhoz a Hatóság Kbt. 188. § (4) bekezdése szerinti – vagy bírósági felülvizsgálat esetén a bíróság Kbt. 188. § (5) bekezdése szerinti – jogerős határozatát is csatolni kell.
+(3)[^5] Ha az érintett gazdasági szereplő a Kbt. 62. § (1) bekezdése a), c)–e), g)–q) pontjai, a Kbt. 62. § (2) bekezdése, valamint a Kbt. 63. § (1) bekezdése alapján kizáró ok hatálya alá esik, azonban olyan intézkedéseket hozott, amelyek a Kbt. 64. §-a alapján igazolják megbízhatóságát, és ezt a Közbeszerzési Hatóság (a továbbiakban: Hatóság) Kbt. 188. § (4) bekezdése szerinti – vagy bírósági felülvizsgálat esetén a bíróság Kbt. 188. § (5) bekezdése szerinti – jogerős határozatával igazolni tudja, köteles mind a kizáró ok fennállását, mind a megtett intézkedések rövid leírását feltüntetni a formanyomtatványon. A formanyomtatványhoz a Hatóság Kbt. 188. § (4) bekezdése szerinti – vagy bírósági felülvizsgálat esetén a bíróság Kbt. 188. § (5) bekezdése szerinti – jogerős határozatát is csatolni kell.
 
 (4) Az (1) bekezdés a)–c) pontja alapján megtett nyilatkozat a Kbt. 62. § (2) bekezdésében említett személyekre is vonatkozik.
+
+[^4]: A 4. § (1) bekezdés f) pontja a 487/2016. (XII. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^5]: A 4. § (3) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
