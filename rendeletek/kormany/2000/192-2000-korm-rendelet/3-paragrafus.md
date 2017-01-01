@@ -4,7 +4,7 @@
 
 (2) A biztosító egyesület egyszerűsített éves beszámolójának mérlege az 1. számú melléklet szerinti mérleg nagybetűvel és római számmal jelölt tételeit tartalmazza azzal, hogy a C. Biztosítástechnikai tartalékok mérlegsort az 1. számú melléklet szerinti részletezésben kell bemutatni.
 
-(3)[^13] A biztosító az éves beszámoló mérlegében a tárgyévet megelőző üzleti év adatait összevontan (egy oszlopban),
+(3)[^14] A biztosító az éves beszámoló mérlegében a tárgyévet megelőző üzleti év adatait összevontan (egy oszlopban),
 
 a) a tárgyévi adatokat négy oszlopban, életbiztosítás, nem életbiztosítás, nem biztosítási tevékenység és összesen bontásban köteles elkészíteni, ha az élet- és nem-életbiztosítási ágat egyaránt műveli,
 
@@ -16,4 +16,4 @@ A nem biztosítási tevékenység oszlopban a biztosítási tevékenységnek nem
 
 (5) A mérleg tartalmára vonatkozó Tv. szerinti előírásokat e rendelet 4–6. §-ai figyelembevételével kell alkalmazni.
 
-[^13]: A 3. § (3) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 22. §-ával megállapított, záró szövegrésze a 397/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdése, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 22. §-ával megállapított, záró szövegrésze a 397/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdése, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés d) pontja szerint módosított szöveg.
