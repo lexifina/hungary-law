@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-39-20-5
 | --- | --- | --- |
 | 2009-10-01 | 2006-39-20-53.2 | 39/2006. (XII. 25.) PM rendelet |
 | 2010-05-01 | 2006-39-20-53.3 | 17/2009. (IX. 29.) PM rendelet |
+| 2017-01-01 | 2006-39-20-53.4 | 63/2016. (XII. 29.) NGM rendelet |

@@ -1,3 +1,3 @@
-## 9. §[^2] A kérelem elbírálásáról – az adó feltételes megállapításáról vagy elutasításáról – a miniszter dönt. A határozattervezetet a főfelelős szervezeti egység – az ügykörében érintett szervezeti egység (egységek) álláspontját figyelembe véve – készíti el, és azt eljárásjogi kontroll és a kiadmányozás előkészítése érdekében megküldi az adóigazgatásért felelős szervezeti egységnek.
+## 9. §[^11] A határozattervezetet a főfelelős szervezeti egység – az ügykörében érintett szervezeti egység (egységek) álláspontját figyelembe véve – készíti elő. A határozattervezet eljárásjogi szempontú vizsgálatát a minisztérium adóigazgatásért felelős szervezeti egysége végzi el.
 
-[^2]: A 9. § első mondata a 17/2009. (IX. 29.) PM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^11]: A 9. § a 63/2016. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.

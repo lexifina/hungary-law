@@ -1,1 +1,3 @@
-## 1. § Az Art. 132. § (1) bekezdésében meghatározott kétfokú eljárásban első fokon az adóbevételekért felelős szakállamtitkár jár el.
+## 1. §[^2]
+
+[^2]: Az 1. §-t a 63/2016. (XII. 29.) NGM rendelet 9. § a) pontja hatályon kívül helyezte.
