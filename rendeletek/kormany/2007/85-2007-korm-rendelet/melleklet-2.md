@@ -70,9 +70,9 @@
 
 | 34. | Menekültkénti vagy oltalmazottkénti elismerését kérő, a menedékeskénti elismerését kérő személyek, valamint a menekültek és a menedékesek utazási kedvezményei |
 
-| 35. | tartózkodási engedéllyel, valamint a Bevándorlási és Állampolgársági Hivatal által kiállított igazolással rendelkező, menekültkénti vagy oltalmazottkénti elismerését kérő, valamint a menedékeskénti elismerését kérő személy | 6. § a) pontja | 100% | – | – |
+| 35. | tartózkodási engedéllyel, valamint a Bevándorlási és Menekültügyi Hivatal által kiállított igazolással rendelkező, menekültkénti vagy oltalmazottkénti elismerését kérő, valamint a menedékeskénti elismerését kérő személy | 6. § a) pontja | 100% | – | – |
 
-| 36. | a Bevándorlási és Állampolgársági Hivatal által kiállított igazolással rendelkező menekült és menedékes | 6. § b) pontja | 100% | – | – |
+| 36. | a Bevándorlási és Menekültügyi Hivatal által kiállított igazolással rendelkező menekült és menedékes | 6. § b) pontja | 100% | – | – |
 
 | 37. | Alkalmazásban állók utazási kedvezményei |
 

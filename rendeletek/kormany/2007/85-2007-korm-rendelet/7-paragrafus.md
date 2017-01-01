@@ -1,4 +1,4 @@
-## a Bevándorlási és Állampolgársági Hivatal által kiállított igazolás alapján az igazolásban meghatározott viszonylatra és alkalommal.
+## a Bevándorlási és Menekültügyi Hivatal által kiállított igazolás alapján az igazolásban meghatározott viszonylatra és alkalommal.
 
 7. § (1) „Utazási utalvány” alapján évente 12 alkalommal, az 1. mellékletben meghatározott kedvezményű menettérti utazásra jogosult:
 
