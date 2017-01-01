@@ -8,29 +8,29 @@
 
 a)[^1] az
 
-aa) EMVA tekintetében az agrár-vidékfejlesztésért felelős miniszterre, mint irányító hatóságra, forrásgazdára és felügyeleti szervre és az agrárpolitikáért felelős miniszterre, mint illetékes hatóságra,
+aa) EMVA tekintetében az agrár-vidékfejlesztésért felelős miniszterre, mint irányító hatóságra, forrásgazdára és felügyeleti szervre, valamint az illetékes hatóságra,
 
-ab) EHA tekintetében az agrár-vidékfejlesztésért felelős miniszterre, mint irányító hatóságra, forrásgazdára és felügyeleti szervre és az agrárpolitikáért felelős miniszterre, mint ellenőrző és igazoló hatóságra,
+ab) EHA tekintetében az agrár-vidékfejlesztésért felelős miniszterre, mint irányító hatóságra, forrásgazdára és felügyeleti szervre, valamint az agrárpolitikáért felelős miniszterre, mint ellenőrző és igazoló hatóságra,
 
-ac) EMGA tekintetében az agrárpolitikáért felelős miniszterre, mint forrásgazdára, felügyeleti szervre és illetékes hatóságra,
+ac) EMGA tekintetében az agrárpolitikáért felelős miniszterre, mint forrásgazdára, felügyeleti szervre és az agrár-vidékfejlesztésért felelős miniszterre, mint illetékes hatóságra;
 
-b) a Mezőgazdasági és Vidékfejlesztési Hivatalra (a továbbiakban: MVH) mint mezőgazdasági és vidékfejlesztési támogatási szervre,
+b)[^2] a Magyar Államkincstárra, mint mezőgazdasági és vidékfejlesztési támogatási szervre (e feladatkörében a továbbiakban: mezőgazdasági és vidékfejlesztési támogatási szerv);
 
-c) a Magyar Államkincstárra (a továbbiakban: Kincstár) mint a lebonyolításban közreműködő szervre,
+c)[^3] a Magyar Államkincstárra, mint a lebonyolításban közreműködő szervre (e feladatkörében a továbbiakban: Kincstár),
 
-d)[^2] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) OLAF Koordinációs Irodájára mint a szabálytalanságok kezelésében közreműködő szervre,
+d)[^4] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) OLAF Koordinációs Irodájára mint a szabálytalanságok kezelésében közreműködő szervre,
 
-e)[^3] a NAV adóztatási szerveire (a továbbiakban: állami adóhatóság) mint az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettség beszedésére irányuló végrehajtási eljárást lefolytató adóhatóságra,
+e)[^5] a NAV adóztatási szerveire (a továbbiakban: állami adóhatóság) mint az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettség beszedésére irányuló végrehajtási eljárást lefolytató adóhatóságra,
 
 f) a törvény 11. §-a (3) bekezdésének b)–f) pontjaiban meghatározott végrehajtási feladatot ellátó szervekre, illetve szervezetekre,
 
-g)[^4] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfelekre, valamint ezek számláit vezető pénzforgalmi szolgáltatókra.
+g)[^6] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfelekre, valamint ezek számláit vezető pénzforgalmi szolgáltatókra.
 
 (2) E rendelet hatálya kiterjed továbbá:
 
 a) az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott Nemzeti Vidékfejlesztési Terv egyes intézkedései keretében támogatott kérelmek azon kifizetéseire, amelyek az 1320/2006/EK bizottsági rendelet rendelkezéseivel összhangban EMVA terhére áthúzódó tételek,
 
-b)[^5]
+b)[^7]
 
 c) az (1) bekezdésben meghatározott alapok és az a) pontban meghatározott intézkedések finanszírozásához kapcsolódó további, kizárólag a fejezeti költségvetést terhelő kiadásokra, amely tételekre a fejezeti költségvetésben céltartalékot kell képezni, úgy mint:
 
@@ -54,8 +54,10 @@ da) árfolyamnyereségek,
 
 db) a központi intervenciós intézkedések költségei és az EU átalány közötti különbség.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 381. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés d) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés e) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdés b) pontját a 45/2016. (III. 10.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^1]: Az 1. § (1) bekezdés a) pontja a 328/2016. (X. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 328/2016. (X. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés c) pontja a 328/2016. (X. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés d) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés e) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdés b) pontját a 45/2016. (III. 10.) Korm. rendelet 1. §-a hatályon kívül helyezte.
