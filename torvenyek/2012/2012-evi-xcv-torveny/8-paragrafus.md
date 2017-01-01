@@ -4,4 +4,4 @@ a) az eljárás megindításáról honlapján és hirdetőtábláján történő
 
 b) a tanúsítványt a különleges védelem időtartama alatt honlapján és hirdetőtábláján közzéteszi,
 
-c) határozatával szemben fellebbezésnek nincs helye.
+c)
