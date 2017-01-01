@@ -12,7 +12,7 @@
 
 ## szakvizsga
 
-## 1.2. Képzési idő: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
+## 1.2. Képzési idõ: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
@@ -36,19 +36,19 @@
 
 ## b) belgyógyászat,
 
-## c) csecsemő- és gyermekgyógyászat,
+## c) csecsemõ- és gyermekgyógyászat,
 
 ## d) háziorvostan,
 
 ## e) neurológia,
 
-## f) oxyológia és sürgősségi orvostan vagy
+## f) oxyológia és sürgõsségi orvostan vagy
 
-## g) tüdőgyógyászat
+## g) tüdõgyógyászat
 
 ## szakvizsga
 
-## 2.2. Képzési idő: 63-85 hó: 38-60 hó alapképzés + 25 hó ráépített képzés
+## 2.2. Képzési idõ: 63-85 hó: 38-60 hó alapképzés + 25 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
@@ -70,9 +70,9 @@
 
 ## a) belgyógyászat,
 
-## b) bőrgyógyászat,
+## b) bõrgyógyászat,
 
-## c) csecsemő- és gyermekgyógyászat,
+## c) csecsemõ- és gyermekgyógyászat,
 
 ## d) fül-orr-gégegyógyászat,
 
@@ -86,15 +86,15 @@
 
 ## i) szemészet,
 
-## j) szülészet-nőgyógyászat,
+## j) szülészet-nõgyógyászat,
 
 ## k) transzfúziológia vagy
 
-## l) tüdőgyógyászat
+## l) tüdõgyógyászat
 
 ## szakvizsga
 
-## 2. Képzési idő: 72-96 hó: 48-72 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 72-96 hó: 48-72 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -102,11 +102,11 @@
 
 ## b) 2 hó immunológiai laboratóriumi gyakorlat
 
-## c) 3 hó bőrgyógyászat, venerológia, kozmetológia
+## c) 3 hó bõrgyógyászat, venerológia, kozmetológia
 
 ## d) 3 hó gyermekgyógyászati immunológia és allergológia
 
-## e) 3 hó tüdőgyógyászat, allergológia
+## e) 3 hó tüdõgyógyászat, allergológia
 
 ## f) 2 hó reumatológia
 
@@ -126,19 +126,19 @@
 
 ## 1.1. Képzés belépési feltétele: urológia szakvizsga
 
-## 1.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 1.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
-## a) 12 hó elméleti és gyakorlati képzés szakképző hellyé minősített képzőhelyen
+## a) 12 hó elméleti és gyakorlati képzés szakképzõ hellyé minõsített képzõhelyen
 
-## b) 6 hó kiegészítő képzés, benne: akkreditált szakvizsga-előkészítő andrológiai tanfolyam
+## b) 6 hó kiegészítõ képzés, benne: akkreditált szakvizsga-elõkészítõ andrológiai tanfolyam
 
-## c) 6 hó andrológiai sebészet akkreditált képzőhelyen
+## c) 6 hó andrológiai sebészet akkreditált képzõhelyen
 
 ## 1.4. Szakvizsgára bocsátás egyéb feltételei
 
-## Előírt számú és típusú sebészi beavatkozás teljesítése
+## Elõírt számú és típusú sebészi beavatkozás teljesítése
 
 ## 2. ANDROLÓGIA II.
 
@@ -146,25 +146,25 @@
 
 ## a) belgyógyászat,
 
-## b) bőrgyógyászat, venerológia, kozmetológia,
+## b) bõrgyógyászat, venerológia, kozmetológia,
 
-## c) csecsemő- és gyermekgyógyászat vagy
+## c) csecsemõ- és gyermekgyógyászat vagy
 
-## d) szülészet-nőgyógyászat
+## d) szülészet-nõgyógyászat
 
 ## szakképesítés
 
-## 2.2. Képzési idő: 108 hó: 60 hó alapképzés + 48 hó ráépített képzés
+## 2.2. Képzési idõ: 108 hó: 60 hó alapképzés + 48 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
 ## a) 24 hó urológiai képzés
 
-## b) 12 hó elméleti és gyakorlati képzés szakképző hellyé minősített képzőhelyen
+## b) 12 hó elméleti és gyakorlati képzés szakképzõ hellyé minõsített képzõhelyen
 
-## c) 6 hó kiegészítő képzés, benne: akkreditált szakvizsga-előkészítő andrológiai tanfolyam
+## c) 6 hó kiegészítõ képzés, benne: akkreditált szakvizsga-elõkészítõ andrológiai tanfolyam
 
-## d) 6 hó andrológiai sebészet akkreditált képzőhelyen
+## d) 6 hó andrológiai sebészet akkreditált képzõhelyen
 
 ## 2.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -174,7 +174,7 @@
 
 ## 1. Képzés belépési feltétele: fül-orr-gégegyógyászat szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program: 24 hó kórházi vagy klinikai audiológiai állomáson, ebben:
 
@@ -188,13 +188,13 @@
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
-## Audiológiai témájú kötelező szintentartó továbbképzési tanfolyamon történő részvétel és sikeres vizsga.
+## Audiológiai témájú kötelezõ szintentartó továbbképzési tanfolyamon történõ részvétel és sikeres vizsga.
 
 ## 3/B. BELGYÓGYÁSZATI ANGIOLÓGIA
 
 ## 1. Képzés belépési feltétele: belgyógyászat szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -208,7 +208,7 @@
 
 ## e) 1 hó non-invazív érdiagnosztikai vizsgálatok (CT/MR angiographia, kapillármikroszkópia, TCPo2, plethysmographia, laser doppler, CW Doppler)
 
-## f) 1 hó bőrgyógyászati gyakorlat, sebkezelés
+## f) 1 hó bõrgyógyászati gyakorlat, sebkezelés
 
 ## g) 12 hó angiológia osztályos gyakorlat (ezen belül hemorheológiai és haemostaseológiai labordiagnosztika)
 
@@ -218,11 +218,11 @@
 
 ## Klinikai angiológiai tanfolyam végzése.
 
-## 4. CSECSEMŐ- ÉS GYERMEK FÜL-ORR-GÉGEGYÓGYÁSZAT
+## 4. CSECSEMÕ- ÉS GYERMEK FÜL-ORR-GÉGEGYÓGYÁSZAT
 
 ## 1. Képzés belépési feltétele: fül-orr-gégegyógyászat szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -234,15 +234,15 @@
 
 ## Meghatározott számú és típusú beavatkozás teljesítése.
 
-## 5. CSECSEMŐ- ÉS GYERMEKGYÓGYÁSZATI INTENZÍV TERÁPIA
+## 5. CSECSEMÕ- ÉS GYERMEKGYÓGYÁSZATI INTENZÍV TERÁPIA
 
 ## 1. Képzés belépési feltétele:
 
 ## a) aneszteziológia és intenzív terápia vagy
 
-## b) csecsemő- és gyermekgyógyászat szakvizsga
+## b) csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 2. Képzési idő: 83 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 83 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -272,17 +272,17 @@
 
 ## -
 
-## 6. CSECSEMŐ- ÉS GYERMEK-KARDIOLÓGIA
+## 6. CSECSEMÕ- ÉS GYERMEK-KARDIOLÓGIA
 
-## 1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 2. Képzési idő: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
+## 2. Képzési idõ: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
 
 ## 3. Képzési program:
 
-## a) 24 hó III. szintű gyermek-kardiológiai centrumban
+## a) 24 hó III. szintû gyermek-kardiológiai centrumban
 
-## b) 6 hó mátrix rendszerű fekvőbeteg ellátás gyermekkardiológus mellett
+## b) 6 hó mátrix rendszerû fekvõbeteg ellátás gyermekkardiológus mellett
 
 ## c) 6 hó járóbeteg rendelési gyakorlat gyermek-ambulancián
 
@@ -294,7 +294,7 @@
 
 ## 1. Képzés belépési feltétele: patológia szakvizsga
 
-## 2. Képzési idő: 82 hó: 58 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 82 hó: 58 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program
 
@@ -304,13 +304,13 @@
 
 ## c) 2 hó klinikai ambuláns gyakorlat
 
-## d) 8 hó nőgyógyászati cytológiai gyakorlat
+## d) 8 hó nõgyógyászati cytológiai gyakorlat
 
 ## e) 8 hó aspirációs cytológiai gyakorlat
 
-## f) 2 hét citológiai alapképző tanfolyam
+## f) 2 hét citológiai alapképzõ tanfolyam
 
-## g) 2 hét szakvizsga előkészítő tanfolyam
+## g) 2 hét szakvizsga elõkészítõ tanfolyam
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -320,19 +320,19 @@
 
 ## 1. Képzés belépési feltétele: bármely alap szakképesítés
 
-## 2. Képzési idő: 62-96 hó: 38-72 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 62-96 hó: 38-72 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
-## 24 hó akkreditált biztosítási gyakorlatot végző egészségügyi szolgáltatónál, ebből:
+## 24 hó akkreditált biztosítási gyakorlatot végzõ egészségügyi szolgáltatónál, ebbõl:
 
-## a) 3 hó a Nemzeti Rehabilitációs és Szociális Hivatal orvosszakértői mellett, irányításuk alatt
+## a) 3 hó a Nemzeti Rehabilitációs és Szociális Hivatal, 2016. december 31-ét követõen a Budapest Fõváros Kormányhivatala orvosszakértõi mellett, irányításuk alatt
 
 ## b) 2 hó igazságügyi orvostani intézetben
 
 ## c) 1 hó üzleti biztosítónál
 
-## 1 hó Országos Egészségbiztosítási Pénztár központi szervénél vagy valamelyik területi hivatalnál
+## 1 hó Nemzeti Egészségbiztosítási Alapkezelõnél
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -344,15 +344,15 @@
 
 ## 1.1. Képzés belépési feltétele: belgyógyászat szakvizsga
 
-## 1.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 1.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
-## a) 16 hó belgyógyászati endokrinológia, ebből: 4 hó diabetológia
+## a) 16 hó belgyógyászati endokrinológia, ebbõl: 4 hó diabetológia
 
 ## b) 3 hó gyermekgyógyászati endokrinológia
 
-## c) 3 hó nőgyógyászati endokrinológia
+## c) 3 hó nõgyógyászati endokrinológia
 
 ## d) 1 hó endokrinológiai laboratóriumi gyakorlat
 
@@ -364,17 +364,17 @@
 
 ## 2. ENDOKRINOLÓGIA ÉS ANYAGCSERE-BETEGSÉGEK II.
 
-## 2.1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 2.1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 2.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
 ## a) 6 hó belgyógyászati endokrinológia
 
-## b) 13 hó gyermekgyógyászati endokrinológia, ebből: 4 hó diabetológia
+## b) 13 hó gyermekgyógyászati endokrinológia, ebbõl: 4 hó diabetológia
 
-## c) 3 hó nőgyógyászati endokrinológia
+## c) 3 hó nõgyógyászati endokrinológia
 
 ## d) 1 hó endokrinológiai laboratóriumi gyakorlat
 
@@ -386,9 +386,9 @@
 
 ## 3. ENDOKRINOLÓGIA ÉS ANYAGCSERE-BETEGSÉGEK III.
 
-## 3.1. Képzés belépési feltétele: szülészet-nőgyógyászat szakvizsga
+## 3.1. Képzés belépési feltétele: szülészet-nõgyógyászat szakvizsga
 
-## 3.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 3.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3.3. Képzési program:
 
@@ -396,7 +396,7 @@
 
 ## b) 3 hó gyermekgyógyászati endokrinológia
 
-## c) 13 hó nőgyógyászati endokrinológia, ebből: 4 hó diabetológia
+## c) 13 hó nõgyógyászati endokrinológia, ebbõl: 4 hó diabetológia
 
 ## d) 1 hó endokrinológiai laboratóriumi gyakorlat
 
@@ -408,13 +408,13 @@
 
 ## 10. GYERMEK GASZTROENTEROLÓGIA
 
-## 1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
-## a) 6 hó felnőtt gasztroenterológia
+## a) 6 hó felnõtt gasztroenterológia
 
 ## b) 18 hó gyermekgyógyászati gasztroenterológia
 
@@ -428,25 +428,25 @@
 
 ## 11. GYERMEK HEMATO-ONKOLÓGIA
 
-## 1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 2. Képzési idő: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
+## 2. Képzési idõ: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
 
 ## 3. Képzési program:
 
-## a) 30 hónapos képzés gyermek hemato-onkológiai osztályon/részlegen III. szintű centrumban, ezen belül:
+## a) 30 hónapos képzés gyermek hemato-onkológiai osztályon/részlegen III. szintû centrumban, ezen belül:
 
 ## aa) 3 hó hemosztázis és hemofília betegellátást is folytató részlegen
 
 ## ab) 3 hó szakambulancia, kommunikáció
 
-## b) 3 hó vérképző őssejt-transzplantációt végző részlegen
+## b) 3 hó vérképzõ õssejt-transzplantációt végzõ részlegen
 
 ## c) 1 hó komplex hemato-onkopatológia kurzus és gyakorlat
 
 ## d) 1 hó klinikai transzfúziológiai kurzus és gyakorlat
 
-## 1 hó teljes körű gyermek haemato-onkológia előkészítő tanfolyam, beleértve a nosokomiális infekciók és a neutropéniás szepszis ellátását
+## 1 hó teljes körû gyermek haemato-onkológia elõkészítõ tanfolyam, beleértve a nosokomiális infekciók és a neutropéniás szepszis ellátását
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -456,23 +456,23 @@
 
 ## 1. GYERMEK-NEUROLÓGIA I.
 
-## 1.1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 1.1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 1.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 1.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
-## a) 6 hó felnőtt neurológiai osztályos gyakorlat
+## a) 6 hó felnõtt neurológiai osztályos gyakorlat
 
 ## b) 18 hó gyermek-neurológiai osztályos gyakorlat, ebben:
 
 ## ba) 1 hó idegsebészeti gyakorlat
 
-## bb) 1 hó fejlődésneurológiai gyakorlat
+## bb) 1 hó fejlõdésneurológiai gyakorlat
 
-## bc) 1 hó csecsemő- és gyermek rehabilitációs gyakorlat: 1 hét Pető Intézetben, 1 hét Korai Fejlesztő Központban, 2 hét gyermek rehabilitációs osztályon
+## bc) 1 hó csecsemõ- és gyermek rehabilitációs gyakorlat: 1 hét Petõ Intézetben, 1 hét Korai Fejlesztõ Központban, 2 hét gyermek rehabilitációs osztályon
 
-## bd) 1 hó epilepszia műtét előtti kivizsgálás gyakorlat
+## bd) 1 hó epilepszia mûtét elõtti kivizsgálás gyakorlat
 
 ## be) 1 hó EEG laboratóriumi gyakorlat
 
@@ -492,7 +492,7 @@
 
 ## 2.1. Képzés belépési feltétele: neurológia szakvizsga
 
-## 2.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
@@ -502,11 +502,11 @@
 
 ## ab) 1 hó idegsebészeti gyakorlat
 
-## ac) 1 hó csecsemő- és gyermekrehabilitációs gyakorlat: 1 hét Pető Intézetben, 1 hét Korai Fejlesztő Központban, 2 hét gyermek rehabilitációs osztályon
+## ac) 1 hó csecsemõ- és gyermekrehabilitációs gyakorlat: 1 hét Petõ Intézetben, 1 hét Korai Fejlesztõ Központban, 2 hét gyermek rehabilitációs osztályon
 
-## ad) 1 hó epilepszia műtét előtti kivizsgálás
+## ad) 1 hó epilepszia mûtét elõtti kivizsgálás
 
-## ae) 1 hó fejlődésneurológiai gyakorlat
+## ae) 1 hó fejlõdésneurológiai gyakorlat
 
 ## af) 2 hét egyéb elektrofiziológiai gyakorlat (EMG, ENG, kiváltott válaszok, polysomnographia)
 
@@ -526,19 +526,19 @@
 
 ## –
 
-## 13. GYERMEK-NŐGYÓGYÁSZAT
+## 13. GYERMEK-NÕGYÓGYÁSZAT
 
-## 1. Képzés belépési feltétele: szülészet-nőgyógyászat szakvizsga
+## 1. Képzés belépési feltétele: szülészet-nõgyógyászat szakvizsga
 
-## 2. Képzési idő: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
+## 2. Képzési idõ: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
 
 ## 3. Képzési program:
 
-## a) 6 hó csecsemő- és gyermekgyógyászat gyakorlat (fekvő- és járóbeteg ellátás)
+## a) 6 hó csecsemõ- és gyermekgyógyászat gyakorlat (fekvõ- és járóbeteg ellátás)
 
 ## b) 3 hó endokrinológia és anyagcsere betegségek
 
-## c) 20 hó gyermeknőgyógyászat gyakorlat
+## c) 20 hó gyermeknõgyógyászat gyakorlat
 
 ## d) 3 hó gyermeksebészet gyakorlat
 
@@ -548,7 +548,7 @@
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
-## Kötelező szintentartó továbbképzésként meghirdetett gyermeknőgyógyászati tanfolyam elvégzése (2,5 nap, amely a képzési program ideje alatt teljesítendő), amely tartalmazza a reanimációra és a tartós fájdalomcsillapításra vonatkozó ismereteket.
+## Kötelezõ szintentartó továbbképzésként meghirdetett gyermeknõgyógyászati tanfolyam elvégzése (2,5 nap, amely a képzési program ideje alatt teljesítendõ), amely tartalmazza a reanimációra és a tartós fájdalomcsillapításra vonatkozó ismereteket.
 
 ## 14. GYERMEK-RADIOLÓGIA
 
@@ -556,7 +556,7 @@
 
 ## 1.1. Képzés belépési feltétele: radiológia szakvizsga
 
-## 1.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 1.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
@@ -568,13 +568,13 @@
 
 ## 1.4. Szakvizsgára bocsátás egyéb feltételei
 
-## Kötelező gyermek-radiológiai tanfolyam teljesítése
+## Kötelezõ gyermek-radiológiai tanfolyam teljesítése
 
 ## 2. GYERMEK-RADIOLÓGIA II.
 
-## 2.1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászati szakvizsga
+## 2.1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászati szakvizsga
 
-## 2.2. Képzési idő: 90 hó: 60 hó alapképzés + 30 hó ráépített képzés
+## 2.2. Képzési idõ: 90 hó: 60 hó alapképzés + 30 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
@@ -590,25 +590,25 @@
 
 ## 2.4. Szakvizsgára bocsátás egyéb feltételei
 
-## Kötelező gyermek-radiológiai tanfolyam teljesítése
+## Kötelezõ gyermek-radiológiai tanfolyam teljesítése
 
-## 15. GYERMEK-TÜDŐGYÓGYÁSZAT
+## 15. GYERMEK-TÜDÕGYÓGYÁSZAT
 
-## 1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 2. Képzési idő: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
+## 2. Képzési idõ: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
 
 ## 3. Képzési program:
 
-## a) 8 hó gyermek-tüdőgyógyászati osztályos gyakorlat
+## a) 8 hó gyermek-tüdõgyógyászati osztályos gyakorlat
 
-## b) 3 hó felnőtt tüdőgyógyászati osztályos gyakorlat
+## b) 3 hó felnõtt tüdõgyógyászati osztályos gyakorlat
 
 ## c) 4 hó allergológiai gyakorlat
 
 ## d) 3 hó gyermek-bronchológiai gyakorlat
 
-## e) 3 hó gyermek-tüdőgyógyászati járóbeteg szakrendelés
+## e) 3 hó gyermek-tüdõgyógyászati járóbeteg szakrendelés
 
 ## f) 1 hó TBC osztályos gyakorlat
 
@@ -618,7 +618,7 @@
 
 ## ha) klinikai immunológiai és allergológiai tanfolyam (2x1 hét) teljesítése
 
-## hb) gyermek-tüdőgyógyászati szakvizsga-előkészítő tanfolyam (1 hét), ennek keretében gyermek-tüdőgyógyászati radiológiai tanfolyam teljesítése
+## hb) gyermek-tüdõgyógyászati szakvizsga-elõkészítõ tanfolyam (1 hét), ennek keretében gyermek-tüdõgyógyászati radiológiai tanfolyam teljesítése
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -632,25 +632,25 @@
 
 ## b) 24 hó szakorvosi gyakorlat
 
-## ba) területi ellátást végző felnőtt pszichiátriai osztályos ellátásban vagy
+## ba) területi ellátást végzõ felnõtt pszichiátriai osztályos ellátásban vagy
 
-## bb) kényszergyógykezelést végző felnőtt pszichiátriai osztályos ellátásban.
+## bb) kényszergyógykezelést végzõ felnõtt pszichiátriai osztályos ellátásban.
 
 ## 2. Képzési idő: 108 hó: 60 hó alapképzés + 24 hó szakorvosi gyakorlat az 1. b) pont szerint + 24 hó ráépített képzés
 
 ## 3. Képzési program: 24 hó igazságügyi pszichiátriai tevékenység igazságügyi pszichiátria oktatására akkreditált képzőhelyen, benne:
 
-## a) 1 hó gyakorlat kényszergyógykezelést végző intézetben az 1. b) pont ba) alpontja szerint letöltött szakorvosi gyakorlat esetén, illetve
+## a) 1 hó gyakorlat kényszergyógykezelést végzõ intézetben az 1. b) pont ba) alpontja szerint letöltött szakorvosi gyakorlat esetén, illetve
 
-## b) 1 hó gyakorlat felnőtt pszichiátriai ellátást végző egyetemi akkreditált képzőhelyen az 1. b) pont bb) alpontja szerint letöltött szakorvosi gyakorlat esetén
+## b) 1 hó gyakorlat felnõtt pszichiátriai ellátást végzõ egyetemi akkreditált képzõhelyen az 1. b) pont bb) alpontja szerint letöltött szakorvosi gyakorlat esetén
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
-## a) 47 igazságügyi pszichiátriai szakértői vélemény elkészítésében közreműködés:
+## a) 47 igazságügyi pszichiátriai szakértõi vélemény elkészítésében közremûködés:
 
-## aa) személyes vizsgálat és véleményadás büntetőeljárásban (25 eset),
+## aa) személyes vizsgálat és véleményadás büntetõeljárásban (25 eset),
 
-## ab) személyes vizsgálat és véleményadás polgári peres eljárásban, illetve iratok alapján (gondnokság, szerződés érvénytelensége, végrendelet érvénytelensége, kártérítés), (20 eset), valamint
+## ab) személyes vizsgálat és véleményadás polgári peres eljárásban, illetve iratok alapján (gondnokság, szerzõdés érvénytelensége, végrendelet érvénytelensége, kártérítés), (20 eset), valamint
 
 ## ac) kényszergyógykezelés szükségességének felülvizsgálata (2 eset),
 
@@ -662,7 +662,7 @@
 
 ## da) igazságügyi pszichiátria tanfolyam (40 óra) és
 
-## db) igazságügyi pszichiátria – szakértői és jogi ismeretek tanfolyam (24 óra)
+## db) igazságügyi pszichiátria – szakértõi és jogi ismeretek tanfolyam (24 óra)
 
 ## 17. INTENZÍV TERÁPIA
 
@@ -674,11 +674,11 @@
 
 ## c) neurológia vagy
 
-## d) tüdőgyógyászat
+## d) tüdõgyógyászat
 
 ## szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -692,9 +692,9 @@
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
-## 4.1. Az illetékes szakmai grémium által rendezett speciális intenzív ellátás című szakképzési tanfolyamon való részvétel (2x5 nap)
+## 4.1. Az illetékes szakmai grémium által rendezett speciális intenzív ellátás címû szakképzési tanfolyamon való részvétel (2x5 nap)
 
-## 4.2. Magashűségű intenzív terápiás szimulációs tanfolyam (1 nap)
+## 4.2. Magashûségû intenzív terápiás szimulációs tanfolyam (1 nap)
 
 ## 4.3. ALS tanfolyam (2 nap)
 
@@ -710,23 +710,23 @@
 
 ## szakvizsga
 
-## 1.2. Képzési idő: 81-93 hó: 48-60 hó alapképzés + 33 hó ráépített képzés
+## 1.2. Képzési idõ: 81-93 hó: 48-60 hó alapképzés + 33 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
-## a) 9 hó csecsemő- és gyermekgyógyászati intézetben töltött szakgyakorlat
+## a) 9 hó csecsemõ- és gyermekgyógyászati intézetben töltött szakgyakorlat
 
-## b) 24 hó iskolaorvosi munkakörben töltött gyakorlat (amely részfoglalkozás keretében is teljesíthető), ebben:
+## b) 24 hó iskolaorvosi munkakörben töltött gyakorlat (amely részfoglalkozás keretében is teljesíthetõ), ebben:
 
 ## ba) 1 hó ortopédiai gyakorlat járóbeteg szakrendelésen
 
 ## bb) 1 hó sportorvosi szakrendelésen
 
-## bc) 2 hét foglalkozás-egészségügyi gyakorlat a tanulók másodfokú alkalmasságát országosan végző munkahigiénés és foglalkozás-egészségügyi intézmény szakrendelésén
+## bc) 2 hét foglalkozás-egészségügyi gyakorlat a tanulók másodfokú alkalmasságát országosan végzõ munkahigiénés és foglalkozás-egészségügyi intézmény szakrendelésén
 
 ## bd) 1 hó gyermek- és ifjúságpszichiátriai gyakorlat járóbeteg szakrendelésen
 
-## be) 2 hét gyakorlati képzés főfoglalkozású iskolaorvosi praxisban tutor irányítása mellett
+## be) 2 hét gyakorlati képzés fõfoglalkozású iskolaorvosi praxisban tutor irányítása mellett
 
 ## 1.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -738,27 +738,27 @@
 
 ## 2.1. Képzés belépési feltétele:
 
-## a) csecsemő- és gyermekgyógyászat vagy
+## a) csecsemõ- és gyermekgyógyászat vagy
 
 ## b) háziorvostan
 
 ## szakvizsga
 
-## 2.2. Képzési idő: 62-84 hó: 38-60 hó alapképzés + 24 hó ráépített képzés
+## 2.2. Képzési idõ: 62-84 hó: 38-60 hó alapképzés + 24 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
-## 24 hó iskolaorvosi munkakörben töltött (részfoglalkozásban is teljesíthető) gyakorlat, ebben:
+## 24 hó iskolaorvosi munkakörben töltött (részfoglalkozásban is teljesíthetõ) gyakorlat, ebben:
 
 ## a) 1 hó ortopédiai gyakorlat járóbeteg szakrendelésen
 
 ## b) 1 hó sportorvosi szakrendelésen
 
-## c) 2 hét foglalkozás-egészségügyi gyakorlat a tanulók másodfokú alkalmasságát országosan végző munkahigiénés és foglalkozás-egészségügyi intézmény szakrendelésén
+## c) 2 hét foglalkozás-egészségügyi gyakorlat a tanulók másodfokú alkalmasságát országosan végzõ munkahigiénés és foglalkozás-egészségügyi intézmény szakrendelésén
 
 ## d) 1 hó gyermek- és ifjúságpszichiátriai gyakorlat járóbeteg szakrendelésen
 
-## e) 2 hét gyakorlati képzés főfoglalkozású iskolaorvosi praxisban tutor irányítása mellett
+## e) 2 hét gyakorlati képzés fõfoglalkozású iskolaorvosi praxisban tutor irányítása mellett
 
 ## 2.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -770,7 +770,7 @@
 
 ## 1. Képzés belépési feltétele: ortopédia és traumatológia (ortopédia, traumatológia) szakvizsga
 
-## 2. Képzési idő: 96 hó: 72 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 96 hó: 72 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -780,23 +780,23 @@
 
 ## 4.1. Kézsebészeti alaptanfolyam és mikrosebészeti tanfolyam elvégzése.
 
-## 4.2. Előírt számú és típusú műtéti beavatkozás elvégzése.
+## 4.2. Elõírt számú és típusú mûtéti beavatkozás elvégzése.
 
 ## 20. KLINIKAI FARMAKOLÓGIA
 
-## 1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésből
+## 1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésbõl
 
-## 2. Képzési idő: 63-97 hó: 38-72 hó alapképzés + 25 hó ráépített képzés
+## 2. Képzési idõ: 63-97 hó: 38-72 hó alapképzés + 25 hó ráépített képzés
 
 ## 3. Képzési program:
 
 ## a) 2 hó gyakorlat klinikai fázis I. gyógyszervizsgálatok végzésére kijelölt, klinikai farmakológiai ellátóhelyen
 
-## b) 22 hó gyakorlat klinikán, kórházban működő vizsgálóhelyen (humán fázis II., III. és IV. vizsgálatok)
+## b) 22 hó gyakorlat klinikán, kórházban mûködõ vizsgálóhelyen (humán fázis II., III. és IV. vizsgálatok)
 
 ## c) egyetemi akkreditált GCP tanfolyam elvégzése
 
-## d) Minimálisan 4 napos szakvizsga felkészítő tanfolyam. A kontakt-oktatást egészítik ki az oktatók által kijelölt, az interneten elérhető EMA útmutatók, irányelvek, valamint a hazai vonatkozó jogi szabályozás személyes felkészülés keretében történő elsajátítása. Az oktató egyetemek ennél hosszabb tanfolyamok elvégzését saját hatáskörükben javasolhatják.
+## d) Minimálisan 4 napos szakvizsga felkészítõ tanfolyam. A kontakt-oktatást egészítik ki az oktatók által kijelölt, az interneten elérhetõ EMA útmutatók, irányelvek, valamint a hazai vonatkozó jogi szabályozás személyes felkészülés keretében történõ elsajátítása. Az oktató egyetemek ennél hosszabb tanfolyamok elvégzését saját hatáskörükben javasolhatják.
 
 ## 4.) Szakvizsgára bocsátás egyéb feltételei
 
@@ -808,7 +808,7 @@
 
 ## a) aneszteziológia és intenzív terápia,
 
-## b) csecsemő- és gyermekgyógyászat,
+## b) csecsemõ- és gyermekgyógyászat,
 
 ## c) gyermek- és ifjúságpszichiátria,
 
@@ -820,13 +820,13 @@
 
 ## szakvizsga
 
-## 2. Képzési idő: 84-96 hó: 60-72 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84-96 hó: 60-72 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program: 24 hó klinikai neurofiziológiai laboratóriumban eltöltött gyakorlat, ebben:
 
-## a) 4 hét elektroencephalographia (2 hét felnőtt és 2 hét gyermek képzőhelyen)
+## a) 4 hét elektroencephalographia (2 hét felnõtt és 2 hét gyermek képzõhelyen)
 
-## b) 4 hét video-EEG (2 hét felnőtt és 2 hét gyermek képzőhelyen)
+## b) 4 hét video-EEG (2 hét felnõtt és 2 hét gyermek képzõhelyen)
 
 ## c) 4 hét kiváltott válaszvizsgálatok
 
@@ -836,13 +836,13 @@
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
-## a) Szakvizsga-előkészítő tanfolyam teljesítése.
+## a) Szakvizsga-elõkészítõ tanfolyam teljesítése.
 
 ## b) Celluláris neurofiziológia gyakorlat teljesítése.
 
 ## c) Kognitív neurofiziológiai gyakorlat teljesítése.
 
-## d) Előírt számú és típusú vizsgálat elvégzése.
+## d) Elõírt számú és típusú vizsgálat elvégzése.
 
 ## 22. LABORATÓRIUMI HEMATOLÓGIA ÉS IMMUNOLÓGIA
 
@@ -850,7 +850,7 @@
 
 ## 1.1. Képzés belépési feltétele: orvosi laboratóriumi diagnosztika szakvizsga
 
-## 1.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 1.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
@@ -874,7 +874,7 @@
 
 ## 2.1. Képzés belépési feltétele: transzfúziológia szakvizsga
 
-## 2.2. Képzési idő: 72 hó: 48 hó alapképzés + 24 hó ráépített képzés
+## 2.2. Képzési idõ: 72 hó: 48 hó alapképzés + 24 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
@@ -908,7 +908,7 @@
 
 ## szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -918,7 +918,7 @@
 
 ## c) 3 hó öröklött genetikai megbetegedések molekuláris genetikai diagnosztikája
 
-## d) 3 hó molekuláris genetikai polimorfizmusok, genetikai tényezők diagnosztikája, farmakogenetika
+## d) 3 hó molekuláris genetikai polimorfizmusok, genetikai tényezõk diagnosztikája, farmakogenetika
 
 ## e) 4 hó bioinformatika, genetikai adatbázisok az interneten és nemzetközi hálózatok
 
@@ -934,11 +934,11 @@
 
 ## a) foglalkozás orvostan vagy
 
-## b) megelőző orvostan és népegészségtan
+## b) megelõzõ orvostan és népegészségtan
 
 ## szakvizsga
 
-## 2. Képzési idő: 72 hó: 48 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 72 hó: 48 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -952,21 +952,21 @@
 
 ## 25. NEONATOLÓGIA
 
-## 1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
 ## a) 12 hó újszülött és patológiás újszülött osztályos gyakorlat
 
-## b) 12 hó III. szintű neonatológiai intenzív centrumban eltöltött gyakorlat, benne:
+## b) 12 hó III. szintû neonatológiai intenzív centrumban eltöltött gyakorlat, benne:
 
-## ba) 1 hó koraszülött mentő gyakorlat
+## ba) 1 hó koraszülött mentõ gyakorlat
 
 ## bb) 1 hó koraszülött kardiológiai osztályos gyakorlat
 
-## bc) 2 hét fejlődésneurológiai képzés
+## bc) 2 hét fejlõdésneurológiai képzés
 
 ## bd) 2 hét klinikai genetikai képzés
 
@@ -978,9 +978,9 @@
 
 ## 1. Képzés belépési feltétele: radiológia szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
-## 3. Képzési program: 24 hó neuroradiológiai program, ebből:
+## 3. Képzési program: 24 hó neuroradiológiai program, ebbõl:
 
 ## a) 1 hó intervenciós neuroradiológia
 
@@ -1000,17 +1000,17 @@
 
 ## Meghatározott számú és típusú vizsgálat, beavatkozás elvégzése
 
-## 27. NŐGYÓGYÁSZATI DAGANATSEBÉSZET
+## 27. NÕGYÓGYÁSZATI DAGANATSEBÉSZET
 
-## 1. Képzés belépési feltétele: szülészet-nőgyógyászat szakvizsga
+## 1. Képzés belépési feltétele: szülészet-nõgyógyászat szakvizsga
 
-## 2. Képzési idő: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
+## 2. Képzési idõ: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
 
 ## 3. Képzési program:
 
-## a) 20 hó sebészeti gyakorlat nőorvosi daganatgyógyászati központban
+## a) 20 hó sebészeti gyakorlat nõorvosi daganatgyógyászati központban
 
-## b) 10 hó általános sebészeti gyakorlat daganatsebészeti osztályon (emlősebészetre is kiterjedő gyakorlat elvárás)
+## b) 10 hó általános sebészeti gyakorlat daganatsebészeti osztályon (emlõsebészetre is kiterjedõ gyakorlat elvárás)
 
 ## c) 1 hó urológiai gyakorlat
 
@@ -1032,9 +1032,9 @@
 
 ## 1. ORVOSI REHABILITÁCIÓ MOZGÁSSZERVI TERÜLETEN
 
-## 1.1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésből
+## 1.1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésbõl
 
-## 1.2. Képzési idő: 62-96 hó: 38-72 hó alapképzés + 24 hó ráépített képzés
+## 1.2. Képzési idõ: 62-96 hó: 38-72 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
@@ -1066,7 +1066,7 @@
 
 ## 2.1. Képzés belépési feltétele: kardiológia szakvizsga
 
-## 2.2. Képzési idő: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
+## 2.2. Képzési idõ: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
 
 ## 2.3. Képzési program:
 
@@ -1090,9 +1090,9 @@
 
 ## 3. ORVOSI REHABILITÁCIÓ A GYERMEKGYÓGYÁSZAT TERÜLETÉN
 
-## 3.1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
+## 3.1. Képzés belépési feltétele: csecsemõ- és gyermekgyógyászat szakvizsga
 
-## 3.2. Képzési idő: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
+## 3.2. Képzési idõ: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
 
 ## 3.3. Képzési program:
 
@@ -1124,7 +1124,7 @@
 
 ## szakvizsga
 
-## 4.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 4.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 4.3. Képzési program:
 
@@ -1148,9 +1148,9 @@
 
 ## 5. ORVOSI REHABILITÁCIÓ A PULMONOLÓGIA TERÜLETÉN
 
-## 5.1. Képzés belépési feltétele: tüdőgyógyászat szakvizsga
+## 5.1. Képzés belépési feltétele: tüdõgyógyászat szakvizsga
 
-## 5.2. Képzési idő: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
+## 5.2. Képzési idõ: 85 hó: 60 hó alapképzés + 25 hó ráépített képzés
 
 ## 5.3. Képzési program:
 
@@ -1166,7 +1166,7 @@
 
 ## db) fizikoterápia I–II. (2 hét)
 
-## dc) tüdőgyógyászati rehabilitációs szakmaspecifikus tanfolyam (1 hét)
+## dc) tüdõgyógyászati rehabilitációs szakmaspecifikus tanfolyam (1 hét)
 
 ## 5.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1184,13 +1184,13 @@
 
 ## szakvizsga
 
-## 1.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 1.2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program: 24 hó
 
-## a) klinikai pszichoterápiás képzőhelyen (klinikai fázis), valamint
+## a) klinikai pszichoterápiás képzõhelyen (klinikai fázis), valamint
 
-## b) módszerspecifikus képzőhelyeken (módszerspecifikus fázis, az első fázissal párhuzamosan)
+## b) módszerspecifikus képzõhelyeken (módszerspecifikus fázis, az elsõ fázissal párhuzamosan)
 
 ## 1.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1200,17 +1200,17 @@
 
 ## 2.1. Képzés belépési feltétele:
 
-## a) szakvizsga bármely alap szakképesítésből vagy
+## a) szakvizsga bármely alap szakképesítésbõl vagy
 
 ## b) szakfogorvosi szakképesítés
 
-## 2.2. Képzési idő: 82-114 hó: 46-78 hó alapképzés + 36 hó ráépített képzés
+## 2.2. Képzési idõ: 82-114 hó: 46-78 hó alapképzés + 36 hó ráépített képzés
 
 ## 2.3. Képzési program: 36 hó
 
-## a) klinikai pszichoterápiás képzőhelyen (klinikai fázis), valamint
+## a) klinikai pszichoterápiás képzõhelyen (klinikai fázis), valamint
 
-## b) módszerspecifikus képzőhelyeken (módszerspecifikus fázis, az első fázissal párhuzamosan)
+## b) módszerspecifikus képzõhelyeken (módszerspecifikus fázis, az elsõ fázissal párhuzamosan)
 
 ## 2.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1218,9 +1218,9 @@
 
 ## 30. SPORTORVOSTAN
 
-## 1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésből
+## 1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésbõl
 
-## 2. Képzési idő: 62-96 hó: 38-72 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 62-96 hó: 38-72 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 
@@ -1236,13 +1236,13 @@
 
 ## f) 12 hó sportorvosi gyakorlat (szakrendelésen, válogatottnál)
 
-## g) 1 hó kötelező tanfolyamok, ebben:
+## g) 1 hó kötelezõ tanfolyamok, ebben:
 
 ## ga) 2 hét sportorvosi ismeretek
 
 ## gb) 1 hét oxyológia
 
-## h) 2 hó kötelező konzultáció az Országos Sportegészségügyi Intézetben (4x2 hét)
+## h) 2 hó kötelezõ konzultáció az Országos Sportegészségügyi Intézetben (4x2 hét)
 
 ## 4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1258,7 +1258,7 @@
 
 ## szakvizsga
 
-## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+## 2. Képzési idõ: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 3. Képzési program:
 

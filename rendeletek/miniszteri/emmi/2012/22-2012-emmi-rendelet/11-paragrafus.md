@@ -1,4 +1,4 @@
-## 10. §[^10] Az 1. mellékletben meghatározott szakképesítések megszerzése az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló miniszteri rendelet előírásai szerint történik. A szakképesítést az Egészségügyi Nyilvántartási és Képzési Központnak a szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egységeként működő Nemzeti Vizsgabizottság által kiállított bizonyítvány tanúsítja. A bizonyítványban a szakképesítést az 1. mellékletben meghatározott megnevezéssel megegyezően kell feltüntetni.
+## 10. §[^10] Az 1. mellékletben meghatározott szakképesítések megszerzése az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló miniszteri rendelet előírásai szerint történik. A szakképesítést az Állami Egészségügyi Ellátó Központnak a szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egységeként működő Nemzeti Vizsgabizottság által kiállított bizonyítvány tanúsítja. A bizonyítványban a szakképesítést az 1. mellékletben meghatározott megnevezéssel megegyezően kell feltüntetni.
 
 11. § (1) A szakképzési idő igazolásához szükséges feltételeket a jelölt – a (2) bekezdésben foglalt kivétellel – abban az esetben teljesíti, ha a szakképzési idő teljes időtartamában
 
@@ -20,6 +20,6 @@ c) újabb alap, vagy ráépített szakképesítés teljesítésének ideje alatt
 
 (4) Egy jelölt a szakképzésben egyidejűleg egy, a (2) bekezdés szerinti esetben – a (3) bekezdés a) és b) pontja kivételével – legfeljebb két szakma vonatkozásában vehet részt.
 
-[^10]: A 10. § a 23/2015. (IV. 28.) EMMI rendelet 137. §-ával megállapított szöveg.
+[^10]: A 10. § a 23/2015. (IV. 28.) EMMI rendelet 137. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 86. § a) pontja szerint módosított szöveg.
 [^11]: A 11. § (2) bekezdése a 69/2013. (XI. 19.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^12]: A 11. § (3) bekezdés a) pontja a 14/2014. (III. 10.) EMMI rendelet 23. §-ával megállapított szöveg.
