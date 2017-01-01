@@ -2,11 +2,11 @@
 
 ## 3. Az adókedvezmény igénylése
 
-3. § (1) Az adózó a beruházás bejelentésben megjelölt tervezett kezdőnapja előtt az 1. mellékletben előírt tartalommal, két példányban, papír alapon bejelenti az adópolitikáért felelős miniszternek az 1. mellékletben szereplő adatokat. Nagyberuházás esetén az adózó az 1. melléklet szerinti adatok mellett bejelenti a 3. mellékletben előírt adatokat is.
+3. § (1)[^1] Az adózó a beruházás bejelentésben megjelölt tervezett kezdőnapja előtt az 1. mellékletben előírt tartalommal, elektronikus úton bejelenti az adópolitikáért felelős miniszternek az 1. mellékletben szereplő adatokat. Nagyberuházás esetén az adózó az 1. melléklet szerinti adatok mellett bejelenti a 3. mellékletben előírt adatokat is.
 
 (2) Az adópolitikáért felelős miniszter a fejlesztési adókedvezmény érvényesítésére irányuló bejelentést annak kézhezvételét követő 60 napon belül megvizsgálja, és a hiányos vagy a jogosulatlan bejelentésről tájékoztatja az adózót. Az adópolitikáért felelős miniszter – a hiányos vagy a jogosulatlan bejelentés kivételével – a bejelentést nyilvántartásba veszi, amennyiben a bejelentés megfelel a Tao. törvény és az e rendelet szerinti feltételeknek.
 
-(3) Az adózó a Tao. törvény 22/B. § (2a) bekezdésében meghatározott esetekben az adókedvezmény iránti kérelmet a fejlesztési program kérelemben megjelölt tervezett kezdőnapja előtt, a 2. mellékletben előírt tartalommal, két példányban, papír alapon nyújthatja be az adópolitikáért felelős miniszterhez. Nagyberuházás esetén az adózó a 2. melléklet szerinti adatok mellett bejelenti a 3. mellékletben előírt adatokat is.
+(3)[^2] Az adózó a Tao. törvény 22/B. § (2a) bekezdésében meghatározott esetekben az adókedvezmény iránti kérelmet a fejlesztési program kérelemben megjelölt tervezett kezdőnapja előtt, a 2. mellékletben előírt tartalommal, elektronikus úton nyújthatja be az adópolitikáért felelős miniszterhez. Nagyberuházás esetén az adózó a 2. melléklet szerinti adatok mellett bejelenti a 3. mellékletben előírt adatokat is.
 
 (4) Új kérelemnek minősül, ha az adózó a kérelem benyújtása és elbírálása közötti időszakban megváltoztatja a beruházás tárgyát, helyszínét vagy az elszámolható költség összegét (jelenértéken) legalább 20 százalékkal módosítja.
 
@@ -57,3 +57,6 @@ l) a szerencsejátékkal és fogadással összefüggő tevékenységhez;
 m) a bérmunkában vagy díjazás ellenében végzett légi, tengeri, közúti, vasúti és belvízi úton történő személyszállítási vagy áruszállítási szolgáltatáshoz;
 
 n) ha az adózó nem tett eleget az Európai Bizottság valamely korábbi támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánító, és annak visszatérítését elrendelő határozatának.
+
+[^1]: A 3. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 75. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 75. § (2) bekezdése szerint módosított szöveg.
