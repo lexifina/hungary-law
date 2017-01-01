@@ -138,9 +138,7 @@ Az építmény jellege
 
 |
 
-Leírási kulcs
-
-%
+Leírási kulcs%
 
 |
 
@@ -232,7 +230,7 @@ Kőolaj- és földgázvezeték, gázvezeték
 
 |
 
-Gőz-, forróvíz- és termálvízvezeték, földgáz távvezeték, termálkút
+Gőz-, forróvíz- és termálvízvezeték, földgáztávvezeték, termálkút
 
 |
 
@@ -256,6 +254,14 @@ Egyéb, minden más vezeték
 
 |
 
+ebből: víziközmű-vezeték
+
+|
+
+2,0
+
+|
+
 Alagút és földalatti építmény (a bányászati építmény kivételével)
 
 |
@@ -272,14 +278,6 @@ Idegen (bérelt) ingatlanon végzett beruházás
 
 |
 
-Hulladéktároló
-
-|
-
-20,0
-
-|
-
 Kizárólag film- és videogyártást szolgáló építmény
 
 |
@@ -293,14 +291,6 @@ Minden egyéb építmény
 |
 
 2,0
-
-|
-
-ebből: a hulladékhasznosító létesítmény
-
-|
-
-15,0
 
 Hulladéktároló: a hulladékgazdálkodásról szóló törvény előírásának megfelelő tárolásra, ártalmatlanításra szolgáló épület, építmény; a hulladéktároló létesítése miatt igénybe vett földterületre értékcsökkenési leírást a hulladéktárolóval azonos leírási kulccsal kell számolni.
 
@@ -342,13 +332,13 @@ a) 33 százalékos kulcs alá tartozó tárgyi eszközök
 
 4. A HR 9012, 9014–9017, 9024–9032 vtsz.-okból az átviteltechnikai, az ipari különleges vizsgálóműszerek és a komplex elven működő különleges mérő- és vizsgáló berendezések.
 
-5. A HR 8469, 8470, 8472, 9009 vtsz.-ok, valamint a HR 8443 5100 00 vtsz.-alszám.
+5. A HR 8469, 8470, 8472 vtsz.-ok.
 
-6. A HR 8419 11 00 00, 8541 40 90 00 vtsz.-alszámok.
+6. A HR 8419 11, 8541 40 vtsz.-alszámok.
 
 7. A HR 8402, 8403, 8416, 8417 vtsz.-okból a fluidágyas szénportüzelésű berendezések, valamint a mezőgazdasági és erdőgazdasági nedves melléktermékek elégetésével üzemelő hőfejlesztő berendezések.
 
-8. A HR 8417 80 10 00 vtsz.-alszám, valamint a HR 8514 vtsz.-ból a hulladékmegsemmisítő, -feldolgozó, -hatástalanító és -hasznosító berendezések.
+8. A HR 8418 80 vsz.-alszám, valamint a 8514 vtsz.-ból a hulladékmegsemmisítő, -feldolgozó, -hatástalanító és -hasznosító berendezések.
 
 9. A HR 8421 21 vtsz.-alszámok.
 
@@ -356,7 +346,7 @@ a) 33 százalékos kulcs alá tartozó tárgyi eszközök
 
 11. A HR 8421 31, 8421 39 vtsz.-alszámok.
 
-12. A HR 8419 20 00 00 vtsz.-alszám, továbbá a HR 9018–9022 vtsz.-okból az orvosi gyógyászati laboratóriumi eszközök.
+12. A HR 8419 20 vtsz.-alszám, továbbá a HR 9018-9022 vtsz.-okból az orvosi gyógyászati laboratóriumi eszközök.
 
 b) 20 százalékos kulcs alá tartozó tárgyi eszközök
 
@@ -364,4 +354,12 @@ A HR 8701 vtsz.-ból a járművek, valamint a HR 8702–8705, 8710, 8711 vtsz.-o
 
 c) 14,5 százalékos kulcs alá tartozó tárgyi eszközök
 
-Minden egyéb – az a)–b) pontban fel nem sorolt – tárgyi eszköz.
+Minden egyéb – az a)–b) pontban és d)–e) pontban fel nem sorolt – tárgyi eszköz.
+
+d) 10%-os kulcs alá tartozó tárgyi eszközök
+
+Hulladék ágazat gépei, berendezései, felszerelései, járművei.
+
+e) 7%-os kulcs alá tartozó tárgyi eszközök
+
+A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.) szerinti víziközmű alkotórészét, tartozékát képező gépek, berendezések, felszerelések, a Vksztv.-ben meghatározott rendszerfüggetlen víziközmű-elemek kivételével.

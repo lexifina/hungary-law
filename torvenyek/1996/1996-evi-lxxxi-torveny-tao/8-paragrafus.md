@@ -20,7 +20,7 @@ e) a jogerős határozatban megállapított bírság, továbbá az adózás rend
 
 f) az ellenőrzött külföldi társaság adóévének (üzleti évének) utolsó napján kimutatott – az adózónak az adóéve utolsó napján az ellenőrzött külföldi társaságban fennálló közvetlen részesedésére jutó – pozitív adózott eredmény felosztott osztalékkal csökkentett része, feltéve, hogy az adózó az ellenőrzött külföldi társaságban a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával vagy – a Ptk. rendelkezéseinek megfelelő alkalmazásával – meghatározó befolyással rendelkezik, és az adózóban tényleges tulajdonosként nem rendelkezik részesedéssel a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
 
-g)
+g) az adózás előtti eredmény csökkentéseként a 7. § (1) bekezdés m) pontja alapján elszámolt összeg kétszerese a kivezetés adóévében, ha a részesedésszerzés adóévét követő harmadik adóév végéig a szerzett részesedést bármilyen jogcímen – az átalakulás, egyesülés, szétválás miatti kivezetést kivéve – az adózó kivezeti, részben kivezeti,
 
 gy) az adóévben követelésre (kivéve hitelintézetnél és pénzügyi vállalkozásnál a pénzügyi szolgáltatásból, befektetési szolgáltatási tevékenységből származó és befektetési vállalkozásnál a befektetési szolgáltatási tevékenységből származó követelést) elszámolt értékvesztés összege,
 
@@ -30,7 +30,7 @@ h) a behajthatatlan követelésnek nem minősülő, adóévben elengedett követ
 
 2. ha az adózó olyan külföldi személlyel vagy magánszemélynek nem minősülő belföldi személlyel szemben fennálló követelését engedi el, amellyel kapcsolt vállalkozási viszonyban nem áll,
 
-i)
+i) a 7. § (1) bekezdés m) pontjában foglaltak alkalmazása esetén a korai fázisú vállalkozásban szerzett részesedésre (kivéve a bejelentett részesedést) elszámolt értékvesztés összege, de legfeljebb a 7. § (1) bekezdés m) pontja szerint érvényesített összeg,
 
 j) az (5) bekezdés a) pontja szerinti kötelezettség (kivéve a pénzügyi intézménnyel szemben fennálló kötelezettséget) – az adóévben ráfordításként, eszköz bekerülési értéke részeként elszámolt – kamatának és az (5) bekezdés a) pontja szerinti kötelezettség (kivéve a pénzügyi intézménnyel szemben fennálló kötelezettséget) alapján a 18. § (1) bekezdés a) pontja alapján az adózás előtti eredmény csökkentéseként figyelembe vett összegének az (5) bekezdés b) pontja szerinti saját tőke háromszorosát meghaladó kötelezettségrészre jutó arányos része,
 
@@ -49,6 +49,8 @@ n) a bejelentett immateriális jószág bármely jogcímen történő kivezetés
 o) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
 p) az adóellenőrzés, önellenőrzés során megállapított, adóévi költségként, ráfordításként (egyszeres könyvvitelt vezetőnél ideértve a kifizetett vásárolt készletek csökkenését is) vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg,
+
+q) a kisvállalati adóalanyiság időszakában a tőkebevonásra (különösen a jegyzett tőke emelésre) tekintettel, a kisvállalati adóalap megállapítása során alkalmazott csökkentés összege a tőke kivonásakor,
 
 r) a 7. § (1) bekezdésének gy) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 

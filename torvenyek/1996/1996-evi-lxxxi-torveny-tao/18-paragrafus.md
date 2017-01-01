@@ -4,11 +4,13 @@
 
 a) csökkenti, feltéve, hogy
 
-aa) az alkalmazott ellenérték következtében adózás előtti eredménye nagyobb, mint a szokásos piaci ár alkalmazása mellett lett volna, és
+aa) az alkalmazott ellenérték következtében adózás előtti eredménye nagyobb, mint a szokásos piaci ár alkalmazása mellett lett volna,
 
-ab) a vele szerződő kapcsolt vállalkozás belföldi illetőségű adózó, vagy olyan külföldi személy (az ellenőrzött külföldi társaság kivételével), amely az illetősége szerinti állam jogszabályai szerint társasági adónak megfelelő adó alanya, valamint
+ab) a vele szerződő kapcsolt vállalkozás belföldi illetőségű adózó, vagy olyan külföldi személy (az ellenőrzött külföldi társaság kivételével), amely az illetősége szerinti állam jogszabályai szerint társasági adónak megfelelő adó alanya,
 
-ac) rendelkezik a másik fél által is aláírt okirattal, amely tartalmazza a különbözet összegét;
+ac) rendelkezik a másik fél által is aláírt okirattal, amely tartalmazza a különbözet összegét; és
+
+ad) rendelkezik a másik fél nyilatkozatával, amely szerint a másik fél a különbözet összegét (a másik félre vonatkozó jog szerinti szokásos piaci ár elve alapján meghatározott összeget) figyelembe veszi (vette) a társasági adó vagy annak megfelelő adó alapjának meghatározása során;
 
 b) növeli (kivéve, ha vele magánszemély nem egyéni vállalkozóként kötött szerződést), ha az alkalmazott ellenérték következtében adózás előtti eredménye kisebb, mint a szokásos piaci ár mellett lett volna.
 
@@ -41,5 +43,7 @@ b) az adózónak az állam vagy helyi önkormányzat részére történő, jogsz
 (7) Az (1)–(6) bekezdésben foglaltakat megfelelően alkalmazni kell a külföldi vállalkozó és belföldi telephelye, illetve az adózó és külföldi telephelye közötti ügyletekre is.
 
 (8) Az (1), továbbá az (5) bekezdésben foglalt rendelkezést nem kell alkalmazni a belföldi illetőségű adózó külföldi telephelye és kapcsolt vállalkozása közötti ügyletre, ide nem értve a (7) bekezdés szerinti ügyletet, ha a belföldi illetőségű adózó nemzetközi szerződés rendelkezése alapján a társasági adóalapját úgy módosítja, hogy az ne tartalmazza a külföldön adóztatható jövedelmet.
+
+(8a) A (7) bekezdéstől eltérően az (5) bekezdést nem kell alkalmazni a külföldi vállalkozó és belföldi telephelye közötti ügyletre, ha a belföldi telephelye ezen ügylete nemzetközi szerződés rendelkezése alapján nem keletkeztet magyar társasági adófizetési kötelezettséget.
 
 (9) Amennyiben a (2) bekezdésben meghatározott módszerek alkalmazása során indokolt (különös tekintettel a funkcióelemzésre, a minta elemszámára vagy a szélsőértékekre), az adózó azon középső tartomány alkalmazásával, amelybe a minta elemeinek fele esik (interkvartilis tartomány) további szűkítést végez, figyelembe véve az e törvény felhatalmazása alapján kiadott, a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló miniszteri rendelet előírásait.

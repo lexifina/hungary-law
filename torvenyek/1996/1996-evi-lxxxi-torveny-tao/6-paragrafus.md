@@ -32,7 +32,7 @@ d) ha a 2. § (6) bekezdése alapján adóalany.
 
 a)
 
-b) a jogelőd tagjánál, részvényesénél az adóévben elszámolt bevétel;
+b) a jogelőd tagjánál, részvényesénél a kedvezményezett átalakulással létrejött adózóban szerzett részesedés nyilvántartásba vétele következtében az adóévben elszámolt bevétel, árfolyamnyereség;
 
 c) az átruházó társaságnál kedvezményezett eszközátruházás esetén az önálló szervezeti egységének átruházása alapján az adóévben elszámolt bevétel;
 

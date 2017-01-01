@@ -4,7 +4,7 @@
 
 30. § (1) Ez a törvény 1997. január 1. napján lép hatályba. Rendelkezéseit – a (2) bekezdésben foglaltak kivételével – első ízben az 1997. évi adóalap megállapítására és az 1997. évi társasági és osztalékadó kötelezettségre kell alkalmazni.
 
-(2)
+(2) Ha az adópolitikáért felelős miniszter az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 (3) A miniszter a Magyar Közlönyben közzéteszi azoknak az államoknak a nevét, amelyekben jellemzően az ellenőrzött külföldi társaság székhelye található.
 

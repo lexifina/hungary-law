@@ -11,27 +11,3 @@ A társasági adóalanynak nem minősülő szervezetek
 4. a Tartalék Gazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
 
 5. a Közlekedési, Hírközlési és Vízügyi Tartalékgazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
-
-6. a Magyar Nemzeti Vagyonkezelő Zrt.,
-
-7. a jogszabályban meghatározott közszolgálati médiaszolgáltatók,
-
-8. a felszámolás kezdő napjától a felszámolási eljárás alatt állók, a kényszertörlési eljárás kezdő napjától a kényszertörlési eljárás alatt állók;
-
-9. a pártok,
-
-10. a Magyar Távirati Iroda Részvénytársaság,
-
-11. a külön törvényben és annak felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelően működő, kizárólag készfizetőkezesség-vállalást folytató részvénytársaság,
-
-12. az a jogi személy, amely az adóévben az egyszerűsített vállalkozói adó alanyának minősül.
-
-13. a költségvetési szervként működő felsőoktatási intézmény (ideértve az általa létrehozott intézményt is) és diákotthon,
-
-14. a Nemzeti Eszközkezelő Zrt.
-
-15. az az adózó, aki az adóévben a kisadózó vállalkozások tételes adójának alanya vagy a kisvállalati adó alanya.
-
-16. az Országos Betétbiztosítási Alap, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben meghatározott Szanálási Alap, a Befektető-védelmi Alap és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alap.
-
-17. a nemzeti otthonteremtési közösségek.

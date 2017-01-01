@@ -2,15 +2,11 @@
 
 22/A. § (1) A hitelszerződés (ideértve a pénzügyi lízinget is) megkötése adóévének utolsó napján kis- és középvállalkozásnak minősülő adózó a hitelszerződés alapján tárgyi eszköz beszerzéséhez, előállításához pénzügyi intézménytől igénybe vett, és kizárólag e célra felhasznált hitel (ideértve a felhasznált hitel visszafizetésére igazoltan felvett más hitelt) kamata után adókedvezményt vehet igénybe.
 
-(2) Az adókedvezmény mértéke
-
-a) a 2000. december 31-ét követően és 2013. december 31-éig megkötött szerződés alapján igénybe vett (1) bekezdés szerinti hitelre az adóévben fizetett kamat 40 százaléka,
-
-b) a 2013. december 31-ét követően megkötött szerződés alapján igénybe vett (1) bekezdés szerinti hitelre az adóévben fizetett kamat 60 százaléka.
+(2) Az adókedvezmény mértéke az (1) bekezdés szerinti hitelre az adóévben fizetett kamat.
 
 (3) Az adózó az adókedvezményt abban az adóévben – utoljára abban az adóévben, amelyben a hitelt az eredeti szerződés szerint vissza kell fizetnie – veheti igénybe, amelynek utolsó napján a tárgyi eszköz nyilvántartásában szerepel.
 
-(4) Az e § alapján igénybe vett adókedvezmény adóévenként nem haladhatja meg a 6 millió forintot. Az adózó által igénybe vett adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában,
+(4) Az adózó által igénybe vett adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában,
 
 a) ha a beruházás elsődleges mezőgazdasági termelést szolgál, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló rendeletben foglalt támogatásnak minősül,
 

@@ -10,7 +10,7 @@ d)
 
 e) a Tanács 2005/19/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról,
 
-f) a Tanács 2003/48/EK irányelve a megtakarításokból származó kamatjövedelem adóztatásáról,
+f)
 
 g) a Tanács 2006/98/EK irányelve (2006. november 20.) az adózás területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról.
 

@@ -66,13 +66,17 @@ a) csökkentette az adózás előtti eredményét a bevallás benyújtásáig ho
 
 b) 2016. január 1-je és 2016. június 30-a közötti időszakban jogosult lett volna az adózás előtti eredményét csökkenteni,
 
-e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pontjának, (16) bekezdésének 2016. június 30-án hatályos szövege szerint meghatározott kedvezményt utoljára a 2021. június 30-ig lezáruló adóévi adóalapból veheti igénybe, figyelemmel a (30) és (31) bekezdésben foglaltakra.
+e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pontjának, (16) bekezdésének, 8. § (1) bekezdésének n) pontjának 2016. június 30-án hatályos szövege szerint meghatározott kedvezményt utoljára a 2021. június 30-ig lezáruló adóévi adóalapból veheti igénybe, figyelemmel a (30) és (31) bekezdésben foglaltakra.
 
 (30) A (29) bekezdés szerinti adózó a (29) bekezdés szerinti kedvezményt a 2016. június 30-ig szerzett, előállított, e törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jószág vagy a 2016. június 30-ig bejelentett immateriális jószág vonatkozásában alkalmazhatja abban az esetben is, ha az érintett jószággal kapcsolatban az adózónak 2016. június 30-át követően költsége, ráfordítása merül fel.
 
 (31) A 2016. június 30-án hatályos 7. § (1) bekezdés c), e) és s) pontja alapján az adózás előtti eredmény utoljára a 2016. december 31-ével végződő adóévben csökkenthető a 2016. január 1-je és 2016. június 30-a között kapcsolt vállalkozástól beszerzett, a 2016. június 30-án hatályos 4. § 20. pontja szerinti jószágra tekintettel szerzett bevétel alapján, ha e jószág a kapcsolt vállalkozást nem jogosította a 7. § (1) bekezdés c), e), s) pontja szerinti vagy annak megfelelő kedvezményre az átruházáskor.
 
 (32) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 8. § (1) bekezdés c) és n) pontját kizárólag a 2016. június 30-át követően szerzett, előállított jogdíjra jogosító immateriális jószág vagy 2016. június 30-át követően bejelentett immateriális jószág vonatkozásában kell alkalmazni.
+
+(33) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel módosított 7. § (12) bekezdését, 22/A. § (2) és (4) bekezdését első alkalommal a 2017. adóévi adókötelezettségre kell alkalmazni.
+
+(34) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel módosított 18. § (1) bekezdés a) pont ad) alpontját első alkalommal a 2018. évben kezdődő adóévi adókötelezettség megállapítása során kell alkalmazni.
 
 (35) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 18/A. § (5) bekezdését és 18/C. § (4a)–(4g) bekezdését a 2016. adóév vonatkozásában az adózó választása szerint alkalmazza.
 
@@ -85,3 +89,27 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (39) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 29/ZS. § (1), (4), (10) bekezdés rendelkezései a 2015. évi és a 2016. évi adókötelezettség megállapításakor is alkalmazhatóak.
 
 (40) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 1. számú melléklet 5/b. pontja a 2016. évi adókötelezettség megállapításakor is alkalmazható.
+
+(41) Az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel módosított 4. § 23/b. pontját és 16. § (12) bekezdését, továbbá e törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 16. § (12a) bekezdését első alkalommal a 2017. január 1-jén vagy az azt követően bekövetkező kedvezményezett eszközátruházásra kell alkalmazni.
+
+(42) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 24/A. § (1) bekezdését első alkalommal az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvény hatálybalépését követően esedékes adó-, adóelőleg-kötelezettség felajánlásával összefüggésben kell alkalmazni.
+
+(43) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 22/B. § (9) és (14) bekezdését első alkalommal az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvény hatálybalépését követően benyújtott fejlesztési adókedvezmény iránti bejelentésekben és kérelmekben szereplő beruházások vonatkozásában lehet alkalmazni.
+
+(44) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 4. § 11a. pontját, 34b. pontját és 22/E. §-át első alkalommal az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvény hatálybalépését követően megkezdett, energiahatékonysági célokat szolgáló beruházások tekintetében lehet alkalmazni.
+
+(45) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 2. számú melléklet II. ÉPÍTMÉNYEK alcíme alatti táblázat szerinti értékcsökkenési leírási kulcsokat, továbbá az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 2. számú melléklet IV. GÉPEK, BERENDEZÉSEK, FELSZERELÉSEK, JÁRMŰVEK, TENYÉSZÁLLATOK alcíme d) és e) pontja szerinti értékcsökkenési leírási kulcsokat az adózó a 2017. évben kezdődő adóévi vonatkozásában választása szerint alkalmazhatja.
+
+(46) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 2. számú melléklet II. ÉPÍTMÉNYEK alcíme alatti táblázat szerinti értékcsökkenési leírási kulcsokat, továbbá az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 2. számú melléklet IV. GÉPEK, BERENDEZÉSEK, FELSZERELÉSEK, JÁRMŰVEK, TENYÉSZÁLLATOK alcíme d) és e) pontja szerinti értékcsökkenési leírási kulcsokat az adózónak első alkalommal a 2018. évben kezdődő adóévi adókötelezettségre kell alkalmazni.
+
+(47) A 18/D. § (1) és (7) bekezdésének alkalmazásában az áttérést megelőző adóév fizetendő adóját az adózó a 19. § áttérés adóévének első napján hatályos rendelkezései szerint előírt mértékkel számítottan veszi figyelembe.
+
+(48) Az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2016. évi CLXXXII. törvénnyel megállapított 22/B. § (6) bekezdését első alkalommal a 2016. december 31-ét követően benyújtott fejlesztési adókedvezmény iránti bejelentésekben és kérelmekben szereplő beruházások vonatkozásában lehet alkalmazni.
+
+(49) Az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2016. évi CLXXXII. törvénnyel megállapított 22/C. § (2) bekezdését első alkalommal a 2011–2012-es támogatási időszakra nyújtott támogatások kapcsán lehet alkalmazni.
+
+(50) Az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2016. évi CLXXXII. törvénnyel hatályon kívül helyezett 22. § (7) bekezdését és 22/C. § (3b) bekezdését a 2016. adóévi adózás előtti eredmény terhére nyújtott támogatásokra is alkalmazni kell.
+
+(51) Annak az adózónak, amely a 2015. adóévi társasági adókötelezettség megállapítása során a 2015. adóévben hatályos 19. § (1) bekezdése szerinti mértéket alkalmazta, a 26. §-ban foglaltaktól eltérően a 2017. adóév első félévében fizetendő adóelőlege a 2015. adóévre fizetendő adója kilenc tizenkilenced részének 20 millió forinttal növelt összegének 50 százaléka, de legfeljebb a 2015. adóévre fizetendő adója összegének fele. A 2017. adóév első félévében fizetendő adóelőleg összegéről az állami adó- és vámhatóság 2017. adóév első hónapjának 15. napjáig határozatban dönt.
+
+(52) A 26. §-ban foglaltaktól eltérően a 2017. adóév második félévében, és a 2018. adóév első félévében fizetendő adóelőleget a 19. § 2017. január 1-jétől hatályos rendelkezései szerint előírt mértékkel számítottan (ideértve különösen az adókedvezmények összegét) kell megállapítani.

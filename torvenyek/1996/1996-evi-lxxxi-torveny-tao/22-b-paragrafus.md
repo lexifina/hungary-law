@@ -56,7 +56,7 @@ b) a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kére
 
 (5) Az adókedvezmény a környezeti elemek védelme, valamint a környezetet veszélyeztető hatások elleni védelem érdekében, a beruházás üzembe helyezését követő 5 év során abban az adóévben nem vehető igénybe, amelyben az adózó a jogszabályban vagy hatósági határozatban megállapított kibocsátási határértéket jogerős határozattal megállapított módon túllépi.
 
-(6) Az adózó az adókedvezményt a beruházás üzembe helyezését követő adóévben – vagy döntése szerint a beruházás üzembe helyezésének adóévében – és az azt követő kilenc adóévben, legfeljebb a bejelentés, illetve a kérelem benyújtásának adóévét követő tizennegyedik adóévben veheti igénybe.
+(6) Az adózó az adókedvezményt a beruházás üzembe helyezését követő adóévben – vagy döntése szerint a beruházás üzembe helyezésének adóévében – és az azt követő tizenkét adóévben, legfeljebb a bejelentés, illetve a kérelem benyújtásának adóévét követő tizenhatodik adóévben veheti igénybe.
 
 (7) Az adózó által igénybe vett adókedvezmény, valamint a kormányrendeletben meghatározott más állami támogatás együttes összege jelenértéken nem haladhatja meg a bejelentett, határozat esetén a megállapított, de legfeljebb jelenértéken a ténylegesen felmerült, elszámolható költség összegére vetített, a kormányrendeletben meghatározott aránnyal számított értéket.
 
@@ -64,9 +64,9 @@ b) a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kére
 
 (9) Az (1) bekezdés a)–b) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
 
-a) az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) legalább 150 fővel, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább 75 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
+a) az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) legalább 50 fővel, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább 25 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
 
-b) az adózónál elszámolt, évesített bérköltség (a külföldi telephelyen foglalkoztatottak bérköltségének figyelmen kívül hagyásával) legalább az adóév első napján érvényes minimálbér adóévre számított összegének hatszázszorosával, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább háromszázszorosával meghaladja a beruházás megkezdését megelőző adóév évesített vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő bérköltségét.
+b) az adózónál elszámolt, évesített bérköltség (a külföldi telephelyen foglalkoztatottak bérköltségének figyelmen kívül hagyásával) legalább az adóév első napján érvényes minimálbér adóévre számított összegének háromszázszorosával, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább százötvenszeresével meghaladja a beruházás megkezdését megelőző adóév évesített vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő bérköltségét.
 
 (10) Kizárólag film- és videogyártást szolgáló beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adózó a beruházás üzembe helyezését követő öt évben az üzembe helyezett tárgyi eszköz igénybevételével nem állít elő olyan filmet, amelyet a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 9. §-a alapján a VI. kategóriába kellene sorolni.
 
@@ -86,9 +86,9 @@ d) a szabályozott piacra bevezetett részvények tekintetében a kérelem, a be
 
 (14) Az (1) bekezdés i) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
 
-a) a foglalkoztatottak átlagos állományi létszáma kisvállalkozásnál legalább 10 fővel, középvállalkozásnál legalább 25 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
+a) a foglalkoztatottak átlagos állományi létszáma kisvállalkozásnál legalább 5 fővel, középvállalkozásnál legalább 10 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
 
-b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az adóév első napján érvényes minimálbér adóévre számított összegének huszonötszörösével, középvállalkozásnál ötvenszeresével meghaladja a beruházás megkezdését megelőző adóév vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő évesített bérköltségét.
+b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az adóév első napján érvényes minimálbér adóévre számított összegének tízszeresével, középvállalkozásnál huszonötszörösével meghaladja a beruházás megkezdését megelőző adóév vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő évesített bérköltségét.
 
 (15) A kormányrendelet az e törvényben foglaltakon kívüli feltételeket is megállapíthat, vagy rendelkezhet az adókedvezmény igénybevételének tilalmáról.
 
@@ -100,6 +100,6 @@ b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az ad
 
 (19) A fejlesztési adókedvezmény a kérelem, bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe.
 
-(20) Az e § alapján folyó valamennyi eljárás tekintetében a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai nem alkalmazhatók.
+(20)
 
 (21) Az adópolitikáért felelős miniszter a kormányrendeletben meghatározott módon közzéteszi a fejlesztési adókedvezményben részesült adózó kormányrendeletben meghatározott adatait.

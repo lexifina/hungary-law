@@ -18,4 +18,4 @@ d) jegyzett tőke kivonás útján történő leszállításakor a bevont része
 
 (5) E rendelkezések alkalmazásában szerzési érték a szerződés szerinti érték.
 
-(6) Az adót a 19. § (1) bekezdése szerinti mértékkel kell megállapítani.
+(6) Az adót a 19. § szerinti adókulccsal kell megállapítani.

@@ -12,9 +12,9 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 1.
 
-2. a kisvállalati adó hatálya alá tartozó adózó részére visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó;
+2.
 
-3.
+3. az élőzenei szolgáltatásra tekintettel költségként, ráfordításként elszámolt ellenérték (díj) összege, a 22/F. § szerinti adókedvezmény érvényesítése esetén;
 
 4. az általános forgalmi adó nélkül 200 ezer forintot meghaladó szolgáltatás ellenértéke (vagy annak egy része), ha a körülmények (így különösen az adózó vállalkozási tevékenysége, árbevétele, a szolgáltatás jellege, a szolgáltatás ellenértéke) alapján egyértelműen megállapítható, hogy a szolgáltatás igénybevétele ellentétes az ésszerű gazdálkodás követelményeivel; az adóévben ugyanazon személytől ugyanazon jogcímen igénybe vett szolgáltatások ellenértékét együttesen kell figyelembe venni;
 
@@ -38,9 +38,9 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 11. a Ptk. gazdasági társaságokra vonatkozó rendelkezései szerint előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés;
 
-12. a 22. § (6)–(8) bekezdésében meghatározott kiegészítő támogatás és a 22/C. § (3a)–(3b) bekezdésében meghatározott kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
+12. a 22. § (6) és (8) bekezdésében meghatározott kiegészítő támogatás és a 22/C. § (3a) bekezdésében meghatározott kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
 
-13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából, visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke (ide nem értve az általános forgalmi adóról szóló törvény szerinti árumintát), az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredményében bevételként elszámolta és az eredménye e juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámoló elkészítését követően nyilatkozat útján igazol;
+13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából, visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke (ide nem értve az általános forgalmi adóról szóló törvény szerinti árumintát), az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik, vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében a juttatást az eredményében bevételként elszámolta és az adózás előtti eredménye, adóalapja e juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, továbbá az e bevételre jutó társasági adót megfizeti, amelyet a társasági adóbevallás elkészítését követően nyilatkozat útján igazol; amennyiben a juttatásban részesülő vállalkozási tevékenységet nem végez, a nyilatkozatra vonatkozó feltételt teljesítettnek kell tekinteni, amennyiben a juttatásban részesülő arról nyilatkozik, hogy a juttatás adóévében vállalkozási tevékenységet nem végzett;
 
 14. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére az adózó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
 
@@ -102,7 +102,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 19. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy annak átadása, nyújtása jogszabályon alapul.
 
-20.
+20. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti munkahelyi bölcsőde üzemeltetésével kapcsolatosan felmerült adóévi költség, ráfordítás;
 
 21. éttermi szolgáltatás igénybevétele esetén a bankkártyával, hitelkártyával történő fizetésre tekintettel kapott nyugta alapján elszámolt költség, ráfordítás, feltéve, hogy a szolgáltatás igénybevétele a személyi jövedelemadóról szóló törvény szerinti reprezentáció céljából történik.
 

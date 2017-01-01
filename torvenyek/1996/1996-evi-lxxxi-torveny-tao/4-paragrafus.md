@@ -8,7 +8,9 @@
 
 2. adózó: a 2. § (2)–(4), valamint (6) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
 
-3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör;
+3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR-08) szerint azonosnak minősülő munkakör;
+
+3a. állami támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás;
 
 4. árbevétel:
 
@@ -52,13 +54,13 @@ b) működését, a kereskedési rendszerhez való hozzáférést, a tőzsdei be
 
 c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügyletekre napi letét-elhelyezési követelmény vonatkozik és ez a székhely szerinti állam hatáskörrel rendelkező felügyeleti hatóságának értékelése szerint megfelelő biztonságot nyújt;
 
-11. ellenőrzött külföldi társaság: az a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű (a továbbiakban együtt: külföldi társaság), amelyben a külföldi társaság adóéve napjainak többségében a személyi jövedelemadóról szóló törvény szerint belföldi illetőségű tényleges tulajdonos (a továbbiakban: részesedéssel rendelkező) van, valamint az a külföldi társaság, amelynek az adóévben elért bevételei többségében magyarországi forrásból származnak, bármely esetben akkor, ha a külföldi társaság által az adóévre fizetett (fizetendő), adóvisszatérítéssel csökkentett társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 10 százalékot vagy a külföldi társaság nulla vagy negatív adóalap miatt nem fizet társasági adónak megfelelő adót, bár eredménye pozitív; nem kell e rendelkezést alkalmazni, ha a külföldi társaság székhelye, illetősége az Európai Unió tagállamában, az OECD tagállamában vagy olyan államban van, amellyel Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére és amely államban valódi gazdasági jelenléttel bír, azzal, hogy
+11. ellenőrzött külföldi társaság: az a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű (a továbbiakban együtt: külföldi társaság), amelyben a külföldi társaság adóéve napjainak többségében a személyi jövedelemadóról szóló törvény szerint belföldi illetőségű tényleges tulajdonos (a továbbiakban: részesedéssel rendelkező) van, valamint az a külföldi társaság, amelynek az adóévben elért bevételei többségében magyarországi forrásból származnak, bármely esetben akkor, ha a külföldi társaság által az adóévre fizetett (fizetendő), adóvisszatérítéssel csökkentett társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 9 százalékot vagy a külföldi társaság nulla vagy negatív adóalap miatt nem fizet társasági adónak megfelelő adót, bár eredménye pozitív; nem kell e rendelkezést alkalmazni, ha a külföldi társaság székhelye, illetősége az Európai Unió tagállamában, az OECD tagállamában vagy olyan államban van, amellyel Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére és amely államban valódi gazdasági jelenléttel bír, azzal, hogy
 
 a) valódi gazdasági jelenlétnek minősül a külföldi társaság és az adott államban lévő kapcsolt vállalkozásai által együttesen saját eszközzel és munkaviszonyban foglalkoztatott munkavállalókkal végzett termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői, valamint kereskedelmi tevékenység, ha az ebből származó bevételük eléri az összes bevételük legalább 50 százalékát;
 
 b) befektetői tevékenységnek minősül a tulajdoni részesedést jelentő tartós befektetés, a hitelviszonyt megtestesítő értékpapír megszerzése, tartása és elidegenítése, valamint az adott államban az értékpapírokra, befektetési szolgáltatásokra vonatkozó jogszabályok által szabályozott illetve a pénzügyi szolgáltatási, befektetési szolgáltatási tevékenység felügyeletét ellátó hatóság által felügyelt illetve engedélyezett alap, társaság vagy egyéb szervezet, továbbá az adott állam illetékes hatóságának engedélyével rendelkező alapkezelő által kezelt, ugyanazon országban alapított vagy bejegyzett alap, társaság vagy egyéb szervezet befektetése, illetve tevékenysége;
 
-c) nulla vagy negatív eredmény és adóalap esetén a külföldi állam által jogszabályban előírt társasági adónak megfelelő adó mértékének (amennyiben a külföldi állam az adóalap összegétől függően több társasági adónak megfelelő adómértéket alkalmaz, akkor a legkisebb mértéknek) kell elérnie a 10 százalékot;
+c) nulla vagy negatív eredmény és adóalap esetén a külföldi állam által jogszabályban előírt társasági adónak megfelelő adó mértékének (amennyiben a külföldi állam az adóalap összegétől függően több társasági adónak megfelelő adómértéket alkalmaz, akkor a legkisebb mértéknek) kell elérnie a 9 százalékot;
 
 d) a külföldi társaság adóéve alatt a részesedéssel rendelkező adóévének utolsó napján vagy napjáig lezárult utolsó adóévet kell érteni;
 
@@ -70,7 +72,11 @@ g) nem minősül ellenőrzött külföldi társaságnak a külföldi társaság,
 
 h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi jogállás közvetett fennállásának kivételével – az adózó köteles bizonyítani;
 
+11a. energiahatékonysági célokat szolgáló beruházás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
+
 12. előkészítő vagy kisegítő jellegű tevékenység: kizárólag a külföldi személy részére végzett olyan tevékenység, amely nem tartozik a külföldi személy társasági szerződésben meghatározott tevékenységi körébe, de az abban meghatározott tevékenységek végzését segíti, készíti elő;
+
+12a. élőzenei szolgáltatás: a FEOR-08 szerinti zenész, énekes személyes közreműködésével – rendszeresen vagy meghatározott időpontban, nyilvános, a vendégek számára ingyenes előadás útján – nyújtott zeneszolgáltatás;
 
 13. vagyonrendelő: az a személy, amely a Ptk. bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonrendelőnek minősül;
 
@@ -142,15 +148,17 @@ e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephe
 
 f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg;
 
-23/a. kedvezményezett átalakulás: az olyan átalakulás (a továbbiakban ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak társaság (32/a. pont) vesz részt, ha
+23a. kedvezményezett átalakulás: az olyan átalakulás (a továbbiakban ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak a 32/a. pont szerinti társaság vesz részt, ha
 
-a) a jogügylet révén a jogelőd tagja, részvényese az átalakulás, egyesülés, szétválás keretében a jogutódban részesedést és legfeljebb a megszerzett részesedés együttes névértéke (névérték hiányában a jegyzett tőke arányában meghatározott értéke) 10 százalékának megfelelő pénzeszközt szerez, valamint
+a) a jogügylet révén a jogelőd tagja, részvényese az átalakulás, egyesülés, szétválás keretében a jogutódban részesedést és legfeljebb a megszerzett részesedés együttes névértéke (névérték hiányában a jegyzett tőke arányában meghatározott értéke) 10 százalékának megfelelő pénzeszközt szerez,
 
 b) szétválás esetén a jogelőd tagjai, részvényesei – egymáshoz viszonyítva – arányos részesedést szereznek a jogutódokban,
 
-c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
+c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be,
 
-23/b. kedvezményezett eszközátruházás: az a jogügylet, amelynek alapján egy társaság (az átruházó társaság) – megszűnése nélkül – legalább egy önálló szervezeti egységét átruházza egy másik társaságra (az átvevő társaságra) annak jegyzett tőkéjét megtestesítő részesedés ellenében; önálló szervezeti egység: egy társaság olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez;
+feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák meg, azzal, hogy a valós gazdasági, kereskedelmi okok fennállását az adózó köteles bizonyítani;
+
+23b. kedvezményezett eszközátruházás: az a jogügylet, amelynek alapján egy társaság (az átruházó társaság) – megszűnése nélkül – legalább egy önálló szervezeti egységét átruházza egy másik társaságra (az átvevő társaságra) annak jegyzett tőkéjét megtestesítő részesedés ellenében, feltéve, hogy a jogügyletet valós gazdasági, kereskedelmi okok alapozzák meg, azzal, hogy a valós gazdasági, kereskedelmi okok fennállását az adózó köteles bizonyítani;
 
 23/c. kedvezményezett részesedéscsere: az a jogügylet, amelynek alapján egy társaság (a megszerző társaság) a szavazati jogok többségét biztosító vagy azt tovább növelő részesedést szerez egy másik társaság (a megszerzett társaság) jegyzett tőkéjében annak ellenében, hogy a megszerzett társaság tagja (tagjai), részvényese (részvényesei) a megszerző társaságban részesedést, valamint – szükség esetén – a részesedés névértékének (névérték hiányában arányos könyv szerinti értékének) a 10 százalékát meg nem haladó pénzeszközt szerez, feltéve, hogy a részesedéscserét valós gazdasági, kereskedelmi okok alapozzák meg, azzal, hogy a valós gazdasági, kereskedelmi okok fennállását az adózó köteles bizonyítani, ha a megszerző társaság ellenőrzött külföldi társaságnak minősül;
 
@@ -174,9 +182,15 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja az adózás előtti eredmény terhére ráfordításként;
 
+28c. önálló szervezeti egység: egy társaság olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez;
+
 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek és pénzügyi műveletek bevételei, továbbá az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az adóévre vonatkozó beszámolóban az adózás előtti eredmény javára (bevételként, nyereségjellegű különbözetként) elszámolt összeg, ideértve a megszűnt tevékenységek eredmény javára elszámolt összegét is;
 
-30.
+30. korai fázisú vállalkozás: a korai fázisú vállalkozások nyilvántartásba vételéről szóló kormányrendelet szerint nyilvántartásba vett jogi személy, feltéve, hogy megfelel a nyilvántartásba vételéről szóló kormányrendeletben foglaltaknak és azon túlmenően
+
+a) a korai fázisú vállalkozásban a foglalkoztatottak átlagos állományi létszáma a 7. § (1) bekezdés m) pontja szerinti kedvezmény igénybevételének adóéveiben eléri vagy meghaladja a két főt, és abból legalább egy fő a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutató-fejlesztőnek minősül,
+
+b) a korai fázisú vállalkozás nem minősül a 7. § (1) bekezdés m) pontja szerinti kedvezmény igénybevételére jogosult adózó kapcsolt vállalkozásának a kedvezmény igénybevételének adóéveiben;
 
 30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
 
@@ -232,6 +246,12 @@ h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fiókte
 
 34/a. üzemkörön kívüli ingatlan: az az ingatlan, amely nincs az adózó vállalkozási tevékenységével közvetlen összefüggésben; ilyennek minősül különösen az üzemen belüli lakóépület, valamint az elsődlegesen jóléti célt szolgáló épület, építmény;
 
+34b. uniós szabvány:
+
+a) olyan kötelező uniós szabvány, amely az egyes vállalkozások által elérendő szinteket ír elő a környezeti mutatókra nézve; vagy
+
+b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) szóló 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelvben rögzített, az elérhető legjobb technikák használatára és annak biztosítására vonatkozó kötelezettség, hogy a szennyező anyagok kibocsátási szintje ne haladja meg az elérhető legjobb technikák alkalmazásával elérhető szintet; azokban az esetekben, amelyeknél az elérhető legjobb technikák szerinti kibocsátási szinteket az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) szóló 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelv értelmében elfogadott végrehajtási jogi aktusokban határozták meg, akkor azok a szintek alkalmazandók; amennyiben az említett szinteket tartományban állapítják meg, az a korlát alkalmazandó, amelynél az elérhető legjobb technikákat elérték;
+
 35. üzletvezetés helye: az a hely, ahol az ügyvezetés az irányításra berendezkedett;
 
 36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményezi, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
@@ -270,4 +290,6 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 47. olimpiai pályázat: a sportról szóló 2004. évi I. törvény 77. § v) pontjában meghatározott olimpiai pályázat;
 
-48. olimpiai pályázat lebonyolításáért felelős nonprofit társaság: a sportról szóló 2004. évi I. törvény 77. § w) pontjában meghatározott zártkörűen működő nonprofit részvénytársaság.
+48. olimpiai pályázat lebonyolításáért felelős nonprofit társaság: a sportról szóló 2004. évi I. törvény 77. § w) pontjában meghatározott zártkörűen működő nonprofit részvénytársaság;
+
+49. vendéglátóhely: olyan, a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet rendelkezései szerinti melegkonyhás vendéglátóhely, továbbá borospince, amelynek adóévi árbevételéből legalább 75 százalék a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet rendelkezései szerinti melegkonyhás vendéglátóhelyen, továbbá borospincében nyújtott étel- és italforgalomból, illetve szálláshely-szolgáltatás nyújtásából származik.
