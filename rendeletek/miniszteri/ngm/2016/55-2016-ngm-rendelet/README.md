@@ -1,0 +1,9 @@
+# 55/2016. (XII. 21.) NGM rendelet
+
+a nemzetgazdasági miniszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-55-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-01-01 | 2016-55-20-2X.1 | 55/2016. (XII. 21.) NGM rendelet |
