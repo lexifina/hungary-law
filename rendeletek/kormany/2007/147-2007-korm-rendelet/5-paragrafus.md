@@ -1,16 +1,13 @@
-## 4. §[^12] A Kormány által biztosított azonosítási szolgáltatás rendszerében azonosítóval rendelkező ügyfél, illetve képviselő az iparjogvédelmi beadványt elektronikus úton a Kormány által biztosított azonosítási szolgáltatás igénybevételével történő bejelentkezést követően is benyújthatja a Szellemi Tulajdon Nemzeti Hivatalának elektronikus ügyintézési rendszerén keresztül.
+## 4. §[^6]
 
 ## Az elektronikus úton benyújtott iparjogvédelmi beadvány kellékei
 
-5. § (1) Az e rendeletben meghatározott eltérésekkel az elektronikus úton benyújtott iparjogvédelmi beadványnak tartalmaznia kell az egyes iparjogvédelmi beadványokra megállapított részletes alaki szabályokról szóló külön jogszabályokban meghatározott kellékeket, és annak ki kell elégítenie az egyes iparjogvédelmi beadványokkal szemben az említett külön jogszabályokban támasztott követelményeket.
+5. § (1)[^7] Az e rendeletben meghatározott eltérésekkel az elektronikus úton benyújtott iparjogvédelmi beadványnak tartalmaznia kell az egyes iparjogvédelmi beadványokra megállapított részletes alaki szabályokról szóló külön jogszabályokban meghatározott kellékeket, és annak ki kell elégítenie az egyes iparjogvédelmi beadványokkal szemben az említett külön jogszabályokban támasztott követelményeket, azzal az eltéréssel, hogy e külön jogszabályoknak azon rendelkezései, amelyek az ügyfélnek, illetve a képviselőnek az iparjogvédelmi beadvány aláírására vonatkoznak, nem alkalmazandók.
 
-(2) Ha az (1) bekezdésben említett külön jogszabály megköveteli, hogy az ügyfél, illetve a képviselő az iparjogvédelmi beadványt aláírja, e külön jogszabályt a következő eltérésekkel kell alkalmazni:
-
-a) ha az ügyfél vagy képviselője elektronikus aláírással rendelkezik, az elektronikus űrlapot az ügyfél, illetve az ügyfelek mindegyike vagy a képviselő a 3. § szerinti elektronikus aláírással látja el;
-
-b)[^13] mellőzhető az ügyfélnek, illetve az ügyfelek mindegyikének vagy a képviselőnek az aláírása, ha az iparjogvédelmi beadványt a Kormány által biztosított azonosítási szolgáltatás igénybevételével nyújtották be.
+(2)[^8]
 
 (3) A használati mintaoltalmi bejelentés elektronikus úton való benyújtása esetén mellőzhető a leírás és az igénypontok, valamint a rajzok utolsó oldalának az ügyfél vagy a képviselő általi aláírása.
 
-[^12]: A 4. § a 272/2011. (XII. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^13]: Az 5. § (2) bekezdés b) pontja a 272/2011. (XII. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^6]: A 4. §-t a 477/2016. (XII. 27.) Korm. rendelet 39. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (2) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 39. § (5) bekezdés b) pontja hatályon kívül helyezte.

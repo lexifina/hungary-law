@@ -1,3 +1,5 @@
-## 2. § Az elektronikus ügyintézési eljárásban alkalmazható dokumentumok részletes technikai szabályairól szóló külön jogszabály alkalmazásában az e rendelet mellékletében meghatározott szabványoknak és műszaki előírásoknak megfelelő adatmegjelenítési formátumokat kell úgy tekinteni, hogy azok kielégítik az említett külön jogszabályban meghatározott feltételeket.
+## 2. §[^3]
 
 ## Az iparjogvédelmi beadvány elektronikus úton való benyújtása elektronikus aláírással
+
+[^3]: A 2. §-t a 477/2016. (XII. 27.) Korm. rendelet 39. § (5) bekezdés a) pontja hatályon kívül helyezte.
