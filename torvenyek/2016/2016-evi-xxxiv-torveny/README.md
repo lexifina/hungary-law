@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-34-00-00
 | 2016-07-02 | 2010. évi CXXX. törvény | 2016-34-00-00.7 |
 | 2016-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-34-00-00.8 |
 | 2016-09-02 | 2010. évi CXXX. törvény | 2016-34-00-00.9 |
+| 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-34-00-00.10 |
