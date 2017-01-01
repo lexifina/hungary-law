@@ -4,7 +4,7 @@
 
 a) a vevőnek,
 
-b) a (3) bekezdésben felsorolt jogok és tények bejegyzése érdekében a lakás fekvése szerint illetékes földhivatalnak,
+b)[^6] a (3) bekezdésben felsorolt jogok és tények bejegyzése érdekében a lakás fekvése szerint illetékes ingatlan-nyilvántartási hatóságnak,
 
 c) a lakás fekvése szerint illetékes helyi lakásgazdálkodási és helyi lakóházkezelő szervnek, valamint
 
@@ -19,3 +19,4 @@ b) a haszonélvezeti jogot, ha a tulajdonjog átruházással egyidejűleg a vev�
 c) a HM javára a követelést biztosító jelzálogjogot, valamint elidegenítési és terhelési tilalmat, ha a tulajdonjog-átruházásra részletvétel útján került sor, vagy a szolgálati idő elismerés megelőlegezése a 8. § (4) bekezdésében meghatározott módon történt.
 
 [^5]: A 21. § (1) bekezdése a 15/2015. (XII. 21.) HM rendelet 31. §-ával megállapított szöveg.
+[^6]: A 21. § (2) bekezdés b) pontja a 27/2016. (XII. 23.) HM rendelet 11. §-a szerint módosított szöveg.
