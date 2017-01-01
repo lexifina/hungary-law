@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-5-20-22
 | 2015-06-20 | 2011-5-20-22.9 | 148/2015. (VI. 12.) Korm. rendelet |
 | 2015-09-01 | 2011-5-20-22.10 | 148/2015. (VI. 12.) Korm. rendelet |
 | 2016-09-01 | 2011-5-20-22.11 | 229/2016. (VII. 29.) Korm. rendelet |
+| 2017-01-01 | 2011-5-20-22.12 | 486/2016. (XII. 28.) Korm. rendelet |
