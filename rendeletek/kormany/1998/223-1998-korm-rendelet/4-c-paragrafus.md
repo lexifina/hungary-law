@@ -1,10 +1,26 @@
-4/C. §[^58] (1)[^59] Ha a fővárosi és megyei kormányhivatal által folyósított családi pótlék, gyermekgondozást segítő ellátás vagy gyermeknevelési támogatás jogosultjának lakcíme változik, fővárosi és megyei kormányhivatal hivatalból gondoskodik az új illetékességnek megfelelő folyósításról.
+## A CSALÁDTÁMOGATÁSI ELLÁTÁSOK FOLYÓSÍTÁSÁVAL ÖSSZEFÜGGŐ RENDELKEZÉSEK[^59]
 
-(2)[^60] A családtámogatási kifizetőhely hatáskörének megszűnése esetén a kifizetőhely a családtámogatási eljárásban korábban nála keletkezett iratot öt napon belül megküldi az ONYF Központnak, amely azt annak kézhezvételétől számított további öt napon belül továbbítja a családtámogatási ellátás folyósítására hatáskörrel rendelkező szervhez.
+4/C. §[^60] (1) A jogerős határozattal megállapított családtámogatási ellátást a Nyugdíjfolyósító Igazgatóság (a továbbiakban: folyósító szerv) folyósítja.
 
-(3)[^61]
+(2) A folyósító szerv az ellátást – ide nem értve a természetbeni formában nyújtott családi pótlékot –
 
-[^58]: A 4/C. §-t a 236/2012. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
-[^59]: A 4/C. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés j) pontja, a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^60]: A 4/C. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés k) pontja szerint módosított szöveg.
-[^61]: A 4/C. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+a) a jogosult, vagy
+
+b) ha a jogosult nevében az ellátás megállapítása iránti kérelmet a törvényes képviseletét ellátó személy nyújtotta be, a jogosult 16. életévének betöltéséig a törvényes képviselő
+
+## pénzforgalmi szolgáltatónál vezetett fizetési számlájára utalja, vagy kifizetési utalványon kiutalja.
+
+(3) A családtámogatási kifizetőhely a családtámogatási ellátás jogosult részére történő kifizetéséről – ide nem értve az anyasági támogatást és a természetbeni formában nyújtott családi pótlékot – a munkabér kifizetésével megegyező módon gondoskodik.
+
+(4) A családtámogatási ellátást – az (5) és (6) bekezdésben szabályozott eltéréssel – utólag, a tárgyhónapot követő hónap 10. napjáig, fizetési számlára utalás esetében 3. napjáig kell folyósítani. A kiutalt és át nem vett ellátás ismételt folyósítását a folyósító szerv a jogosult járási hivatalhoz benyújtott kérelme alapján teljesíti. Ha a kiutalt és át nem vett ellátás folyósításának sikertelensége a jogosult érdekkörében fennálló okra vezethető vissza, a folyósító szerv az ellátás ismételt folyósításával kapcsolatos tényleges, de legfeljebb 1000 forintban megállapított költségeit az ellátásból vonja le.
+
+(5) Az anyasági támogatás iránti kérelmet az igényelbíráló szerv a kérelem megérkezését követő naptól számított nyolc napon belül bírálja el.
+
+(6) A folyósító szerv az augusztus hónapra járó ellátást a tárgyhónapban,
+
+a) kifizetési utalvánnyal történő kifizetés esetén augusztus 24-éig,
+
+b) fizetési számlára utalás esetén augusztus 26-áig
+
+[^59]: A 4/C. §-t megelőző alcímet a 379/2016. (XII. 2.) Korm. rendelet 33. § (5) bekezdése iktatta be.
+[^60]: A 4/C. §-t a 236/2012. (VIII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 33. § (7) bekezdésével megállapított szöveg.

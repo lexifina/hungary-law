@@ -7,4 +7,4 @@ a) a tanulmányokat folytatók, vagy
 b) a fennálló hallgatói jogviszonnyal rendelkezők
 
 [^84]: A 7. § a 176/2009. (VIII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^85]: A 7. § (2) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^85]: A 7. § (2) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 13. §-ával megállapított, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 6. pontja szerint módosított szöveg.
