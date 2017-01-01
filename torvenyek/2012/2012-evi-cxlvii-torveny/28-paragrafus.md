@@ -4,7 +4,11 @@
 
 (3) A Tao. tv. 22/A. § (5) bekezdésében meghatározott esetben az e törvényben meghatározott adóalany a visszafizetendő társasági adókedvezményt az adókötelezettség keletkezését kiváltó esemény évéről benyújtott bevallásában vallja be.
 
-(4) Az e törvény szerint meghatározott adóalanyiság időszaka alatt megszerzett immateriális jószág, tárgyi eszköz alapján az adózó az adóalanyiság megszűnése után a társasági adó alapjánál értékcsökkenési leírást nem érvényesíthet.
+(4) Az e törvény szerint meghatározott adóalanyiság időszaka alatt megszerzett, előállított immateriális jószág, tárgyi eszköz alapján az adózó az adóalanyiság megszűnése után a társasági adó alapjánál értékcsökkenési leírást nem érvényesíthet.
+
+(4a) Amennyiben a kisvállalati adóalanyiság időszaka alatt keletkezett eredménytartaléknak a kisvállalati adóalanyiság időszaka alatt bevételként elszámolt osztalék összegével, a kisvállalati adóalanyiság időszaka alatt megszerzett, előállított immateriális jószág, tárgyi eszköz könyv szerinti értékével csökkentett értéke pozitív, akkor az adózó a kisvállalati adóalanyiság megszűnésére tekintettel az eredménytartalékból ezzel az értékkel azonos összegű lekötött tartalékot képez. Az így keletkező lekötött tartalék felhasználásával és feloldásával összefüggésben – a társasági adóalanyiság időszaka alatt – a fejlesztési tartalékra vonatkozó szabályokat kell alkalmazni, azzal, hogy a szóban forgó összeggel az adózás előtti eredmény nem csökkenthető, továbbá, hogy a nem beruházási célra történő feloldás esetén késedelmi pótlékot nem kell érvényesíteni.
+
+(4b) A kisvállalati adóalanyiság időszaka alatt keletkezett elhatárolt veszteségnek a kisvállalati adóalanyiság időszakában az adóalap csökkentéseként fel nem használt részét a kisvállalati adóalanyiság megszűnését követően a társasági adó alanya – a visszatérést követő 5 adóéven belül – elhatárolt veszteségként figyelembe veheti. Amennyiben a (4a) bekezdés szerint meghatározott érték negatív, annak abszolút értéke az elhatárolt veszteséget növeli.
 
 (5) Az adózó választása szerint nem alkalmazza a Tao. tv. 16. § (1) bekezdés c) pont ca) alpontjában foglaltakat.
 
@@ -12,7 +16,7 @@
 
 (7) Az e törvény szerint meghatározott adóalanyiság időszakában lezárt adóévet figyelembe kell venni az olyan adókedvezmény tekintetében, amelyet az adózó a Tao. tv. rendelkezései szerint meghatározott számú adóévben vehet igénybe.
 
-(8) A kisvállalati adóalanyiság előtt megszerzett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) számított nyilvántartási értéke az e törvény szerinti adóalanyiságot megelőző utolsó adóévben meghatározott Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási érték, csökkentve a kisvállalati adóalanyiság időszakában a 20. § (16) bekezdése alapján a pénzforgalmi szemléletű eredmény csökkentéseként figyelembe vett összeggel.
+(8) A kisvállalati adóalanyiság előtt megszerzett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) számított nyilvántartási értéke az e törvény szerinti adóalanyiságot megelőző utolsó adóévben meghatározott Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási érték, csökkentve a kisvállalati adóalanyiság időszakában elszámolt számviteli értékcsökkenés összegével.
 
 (9) E törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 19. § (3) bekezdését az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvény hatálybalépésekor folyamatban lévő bejelentésekre is alkalmazni kell.
 

@@ -10,7 +10,7 @@
 
 (5) A kisvállalati adóalanyiság megszűnik
 
-a) az adóalanyiság választására jogosító bevételi értékhatár negyedév első napján történő meghaladása esetén, a túllépést megelőző nappal;
+a) az 1 milliárd forintos bevételi értékhatár negyedév első napján történő meghaladása esetén, a túllépést megelőző nappal;
 
 b) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 
@@ -22,9 +22,9 @@ e) az adóhatósági határozat jogerőre emelkedésének napját megelőző hó
 
 f) az adóalany adószámának alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének hónapját megelőző hónap utolsó napjával;
 
-g) a naptári negyedév utolsó napjával, ha az adóalany az állami adó- és vámhatóságnál nyilvántartott, végrehajtható adó- és vámtartozása a naptári negyedév utolsó napján meghaladja az 1 millió forintot;
+g) az adóalanyiság megszűnéséről rendelkező határozat jogerőre emelkedésének napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot;
 
-h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta az 50 főt.
+h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 100 főt.
 
 (6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az adóhatóságnak.
 
@@ -32,4 +32,4 @@ h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnöveked�
 
 (8) Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
 
-(9) Az (1) bekezdéstől eltérően az adóévben újonnan alakuló adózó adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön, feltéve, hogy a kisvállalati adó szerinti adóalanyiság választását a létesítő okirata közokiratba foglalásának, ellenjegyzésének, az első jognyilatkozat megtételének, illetve az alapítását szabályozó jogszabály szerinti létrejövetelének napjától számított 30 napon belül bejelenti az állami adóhatóságnak. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+(9) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesíti. Az (1) bekezdéstől eltérően a tevékenységét év közben kezdő vállalkozás adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben az állami adóhatósághoz történő bejelentkezése napjával. Amennyiben a tevékenységét év közben kezdő vállalkozás az állami adóhatósághoz való bejelentkezését nem elektronikus úton teljesíti, úgy az (1) bekezdés szerinti bejelentését is azonos formában teheti meg.

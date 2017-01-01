@@ -30,7 +30,7 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 (2) Az (1) bekezdésben meghatározott személy az adóévre akkor választhatja a kisvállalati adó szerinti adózást, ha
 
-a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg a 25 főt;
+a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg az 50 főt;
 
 b) az adóévet megelőző adóévben elszámolandó bevétele várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét;
 
@@ -38,6 +38,6 @@ c) az adóévet megelőző két naptári évben adószámát az állami adóhat�
 
 d) üzleti évének mérlegforduló napja december 31.;
 
-e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét.
+e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot.
 
 (3) A (2) bekezdésben meghatározott állományi létszám és bevételi határok számítása során a kapcsolt vállalkozások átlagos statisztikai állományi létszámát és bevételét együttesen, az utolsó beszámolóval lezárt üzleti év adatai alapján kell figyelembe venni.

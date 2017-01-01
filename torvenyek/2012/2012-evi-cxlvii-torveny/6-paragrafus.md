@@ -1,1 +1,1 @@
-6. § Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
+6. § Az adóalanyiság megszűnésének évében és az azt követő 12 hónapban az adóalanyiság ismételten nem választható.

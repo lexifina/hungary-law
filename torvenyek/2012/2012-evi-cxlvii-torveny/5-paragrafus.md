@@ -26,4 +26,6 @@ l) a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszer
 
 m) az átalakulást, egyesülést, szétválást megelőző nappal, ha az átalakulás, egyesülés, szétválás következtében a vállalkozás már nem felel meg a 3. §-ban foglalt feltételeknek.
 
+(1a) A kisadózó vállalkozás a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszerzését követő 15 napon belül köteles az állami adóhatósághoz bejelenteni ezen bevétel megszerzésének időpontját.
+
 (2) Az adóalanyiság megszűnéséről – az (1) bekezdés a)–d) pontjában meghatározott okok kivételével – az adóhatóság határozatot hoz.

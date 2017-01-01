@@ -12,7 +12,7 @@
 
 (5) A kisadózó vállalkozások tételes adóját a kisadózó vállalkozás a tárgyhónapot követő hónap 12. napjáig megfizeti.
 
-(6) Azon kisadózó vállalkozás, mely a naptári év minden hónapjára köteles az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a kisadózó vállalkozás bevételének naptári évben elért összegéből a 6 millió forintot meghaladó rész után 40 százalékos mértékű adót fizet. Ha a kisadózó vállalkozás nem köteles a naptári év minden hónapjára az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a 40 százalékos mértékű adót a kisadózó vállalkozás bevételének a kisadózó vállalkozási jogállás fennállásának az (1)–(2), valamint a (4a) bekezdés szerinti adófizetési kötelezettséggel érintett hónapjai és 500 ezer forint szorzatát meghaladó része után fizeti meg.
+(6) Azon kisadózó vállalkozás, amely a naptári év minden hónapjára köteles az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a kisadózó vállalkozás bevételének naptári évben elért összegéből a 12 millió forintot meghaladó rész után 40 százalékos mértékű adót fizet. Ha a kisadózó vállalkozás nem köteles a naptári év minden hónapjára az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a 40 százalékos mértékű adót a kisadózó vállalkozás bevételének a kisadózó vállalkozási jogállás fennállásának az (1)–(2), valamint a (4a) bekezdés szerinti adófizetési kötelezettséggel érintett hónapjai és 1 millió forint szorzatát meghaladó része után fizeti meg.
 
 (7) Amennyiben a kisadózó vállalkozás az általa kiállított számlán nem tünteti fel a „Kisadózó” szöveget, az Art. 172. § (1) bekezdése szerinti mulasztási bírsággal sújtható.
 
@@ -27,6 +27,8 @@ b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 c) fogvatartott,
 
 d) egyéni vállalkozói tevékenységét szüneteltette,
+
+e) a Tbj. szerinti kiegészítő tevékenységet folytatóként keresőképtelen
 
 kivéve ha a kisadózóként folytatott tevékenységébe tartozó munkát végez.
 

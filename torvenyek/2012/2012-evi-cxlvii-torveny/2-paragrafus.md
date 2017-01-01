@@ -28,7 +28,9 @@ e) olyan magánszemély, aki 2011. december 31-én – a társadalombiztosítás
 
 f) rokkantsági ellátásban részesül és egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50 százalékos vagy kisebb mértékű,
 
-g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő tevékenységet folytató egyéni vállalkozónak vagy társas vállalkozónak minősül, ideértve más kisadózó vállalkozásban fennálló főállású kisadózó jogállást is;
+g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő tevékenységet folytató egyéni vállalkozónak vagy társas vállalkozónak minősül, ideértve más kisadózó vállalkozásban fennálló főállású kisadózó jogállást is,
+
+h) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszonyban áll;
 
 9. kapcsolt vállalkozás: a Tao. tv. 4. § 23. pontja szerinti vállalkozás;
 
@@ -62,6 +64,8 @@ c) jog esetében az a nap, amelytől kezdődően az adóalany a jog gyakorlásá
 
 d) elengedett követelés és átvállalt tartozás esetében az a nap, amelyen az adóalany kötelezettsége, illetve tartozása megszűnik;
 
+e) az adóalanyiság megszűnésének napja, amennyiben az általa kiállított bizonylat ellenértékét az adóalanyiság utolsó napjáig nem szerezte meg.
+
 14. külföldi személy: a Tao. tv. 4. § 27. pontja szerinti személy;
 
 15. külföldi vállalkozó: a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű személy vagy szervezet, ha belföldi telephelyen végez vállalkozási tevékenységet, feltéve, hogy az üzletvezetésének helyére tekintettel nem tekinthető belföldi illetőségű adózónak;
@@ -80,12 +84,14 @@ b) az Eat. 461. §-a és 462/B. § (3) bekezdése szerinti személy;
 
 20. kedvezményezett foglalkoztatott munkabére után érvényesíthető kedvezmény: kedvezményezett foglalkoztatottanként a bruttó munkabér havi összege, de havonta legfeljebb
 
-a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 100 ezer forint a foglalkoztatás első két évében;
+a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 100 ezer forint a foglalkoztatás első két évében, továbbá személyenként 50 ezer forint – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – a foglalkoztatás harmadik évében;
 
-b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 50 ezer forint és a foglalkoztatás harmadik évében a 19. pont a) alpontja szerinti foglalkoztatott esetében – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – személyenként 50 ezer forint.
+b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 50 ezer forint,
 
-A kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az a) pont szerinti esetben 100 ezer, a b) pont szerinti esetben 50 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető;
+azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az a) pont szerinti esetben a foglalkoztatás első két évében 100 ezer, a foglalkoztatás harmadik évében – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – 50 ezer, a b) pont szerinti esetben 50 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető;
 
 21. részmunkaidős foglalkoztatás: az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
 22. költségek fedezetére vagy fejlesztési célra folyósított támogatás: a költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet az adózó kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett kap, ideértve az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló miniszteri rendelet szerinti támogatást is.
+
+23. pénztár mentesített értéke: a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy az adóalanyiság első évének nyitó mérlegében a pénztár kimutatott értéke; a kisvállalati adózásra 2016. december 31-ig áttért adózónál a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy a 2017. év nyitó mérlegében a pénztár kimutatott értéke.
