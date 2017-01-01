@@ -1,6 +1,6 @@
 ## 49. §[^9]
 
-1. melléklet a 10/2013. (VIII. 12.) HM rendelethez
+1. melléklet a 10/2013. (VIII. 12.) HM rendelethez[^10]
 
 ## KÖTELEZVÉNY
 
@@ -14,9 +14,7 @@ Tárgy: ................................ kárügye
 
 KÖTELEZVÉNY
 
-Alulírott, .............................................................................................................. (név, szül. év, szül. hely, anyja neve, lakóhelye) rendfokozata ...................................................... elismerem, hogy ......................................................... (szervezet megnevezése)
-
-................................... forint, azaz ............................................................................................... forint kárt okoztam.
+Alulírott, ......................................................... (név, szül. év, szül. hely, anyja neve, lakóhelye) rendfokozata ................................... elismerem, hogy ......................... (szervezet megnevezése) ................................... forint, azaz ................................................................. forint kárt okoztam.
 
 1. A kár leírása (keletkezése, a megrongált vagy hiányzó anyag, eszköz megnevezése, mennyisége, egységára és forintértéke):
 
@@ -28,30 +26,29 @@ Alulírott, ....................................................................
 
 *b) egy összegben levonja.
 
-4. Hozzájárulok ahhoz, hogy amennyiben a szolgálati viszonyom bármely okból megszűnik, a fennmaradó kártérítés összegét a pénzügyi szolgálat a járandóságaimból – a levonásra vonatkozó egyéb jogszabályok betartásával – egy összegben levonja.
+4. Hozzájárulok ahhoz, hogy
+
+a) a havonta esedékes részletek a futamidő kezdetekor irányadó törvényes késedelmi kamattal növelten kerüljenek levonásra, a futamidő lejártáig a kamatokkal történő elszámolás mellett,
+
+b) amennyiben a szolgálati viszonyom bármely okból megszűnik, a fennmaradó kártérítés összegét a pénzügyi szolgálat a járandóságaimból - a levonásra vonatkozó egyéb jogszabályok betartásával - egy összegben levonja.
 
 Kelt: .............................., ........ év ................... hónap ........ nap.
 
-.................................................................
-
-nyilatkozattevő olvasható aláírása
+|  | …………………………………………… nyilatkozattevő olvasható aláírása |
 
 Parancsnoki záradék:
 
-.................................................
+.............................................................................................................................................
 
-parancsnok aláírása
+.............................................................................................................................................
 
-P. H.
+|  |  | ………….……………………….. parancsnok aláírása P. H. |
 
 Előjegyezve a .......................... tsz. alatt.
 
-..............................................................
+|  |  | ………………………………… pénzügyi vezető, referens |
 
-pénzügyi vezető, referens
-
-___________
-
-* A megfelelő rész aláhúzandó.
+__________* A megfelelő rész aláhúzandó.
 
 [^9]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 25/2016. (XII. 22.) HM rendelet 51. §-ával megállapított szöveg.
