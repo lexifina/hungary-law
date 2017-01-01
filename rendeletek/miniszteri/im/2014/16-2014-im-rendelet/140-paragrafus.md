@@ -14,10 +14,10 @@ e) akinek ügyében a Kúria felülvizsgálati eljárás, illetve a törvényess
 
 ## szabadon kell bocsátani.
 
-(2)[^11] Az (1) bekezdésben meghatározott esetekben sem szabadítható az elítélt, a félbeszakítás engedélyezése kivételével, ha további szabadságvesztés, elzárás, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztés, előzetes letartóztatás, kiadatási letartóztatás, ideiglenes kiadatási letartóztatás átadási letartóztatás, ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, szabálysértési elzárás vagy idegenrendészeti őrizet vár végrehajtásra.
+(2)[^54] Az (1) bekezdésben meghatározott esetekben sem szabadítható az elítélt, a félbeszakítás engedélyezése kivételével, ha további szabadságvesztés, elzárás, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztés, előzetes letartóztatás, kiadatási letartóztatás, ideiglenes kiadatási letartóztatás átadási letartóztatás, ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, szabálysértési elzárás vagy idegenrendészeti őrizet vár végrehajtásra.
 
 (3) A szabadon bocsátást megelőző szabadítási eljárás legfeljebb két munkanapig tarthat.
 
 (4) Az elítéltet olyan időpontban kell szabadítani, hogy – az utazási körülményeket figyelembe véve – lehetőleg még ugyanazon a napon a lakó- vagy tartózkodási helyére megérkezzék.
 
-[^11]: A 140. § (2) bekezdése a 6/2015. (III. 30.) IM rendelet 12. § b) pontja szerint módosított szöveg.
+[^54]: A 140. § (2) bekezdése a 6/2015. (III. 30.) IM rendelet 12. § b) pontja szerint módosított szöveg.

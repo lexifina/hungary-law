@@ -1,6 +1,6 @@
 ## 25. § A dohányzó, illetve a dohányfüstmentes zárkában vagy lakóhelyiségben való elhelyezés érdekében az elítéltnek befogadáskor írásban nyilatkoznia kell dohányzási szokásairól.
 
-25/A. §[^7] (1) A bv. intézet az elítélt befogadásáról – a várható szabadulás időpontjának közlésével – tíz napon belül értesíti
+25/A. §[^9] (1) A bv. intézet az elítélt befogadásáról – a várható szabadulás időpontjának közlésével – tíz napon belül értesíti
 
 a) az elítélt lakó- vagy tartózkodási helye szerint illetékes rendőrkapitányságot;
 
@@ -14,4 +14,4 @@ c) gondnokság alá helyezett elítélt esetében a gondnokot.
 
 (4) A Magyar Honvédség és a rendvédelmi szervek volt hivatásos (szerződéses) állományú tagjának szolgálati igazolványát a kiállító szervnek kell megküldeni.
 
-[^7]: A 25/A. §-t a 33/2015. (XI. 6.) IM rendelet 19. §-a iktatta be.
+[^9]: A 25/A. §-t a 33/2015. (XI. 6.) IM rendelet 19. §-a iktatta be.

@@ -25,3 +25,7 @@ a) átmeneti részlegben van,
 b) várható szabadulása négy hónapon belül esedékes, vagy
 
 c) személyi vagy családi körülményei a kimaradást, eltávozást különösen indokolják.
+
+(4)[^38] A rezsimszabályok alapján meghatározott kimaradás, illetve eltávozás időtartamába nem számítható be a jutalomként engedélyezett kimaradás és eltávozás időtartama. A Bv. tv. 165. § (2) bekezdés i) és j) pontjában meghatározott jutalmazási formák mértéke nem haladhatja meg az egyes végrehajtási fokozatokon belüli rezsimkategóriákban meghatározott kimaradás és eltávozás mértékét.
+
+[^38]: A 106. § (4) bekezdését a 24/2016. (XII. 23.) IM rendelet 25. §-a iktatta be.

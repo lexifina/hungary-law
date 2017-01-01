@@ -1,10 +1,10 @@
 207. § (1) E rendelet előírásait a szabadságvesztés és az előzetes letartóztatás végrehajtásáról szóló 6/1996. (VII. 12.) IM rendelet szerint folyamatban lévő kérelmek és panaszok esetében is alkalmazni kell.
 
-(2) A szabadságvesztés és az előzetes letartóztatás végrehajtásáról szóló 6/1996. (VII. 12.) IM rendelet által meghatározott
+(2)[^72] A szabadságvesztés és az előzetes letartóztatás végrehajtásáról szóló 6/1996. (VII. 12.) IM rendelet által meghatározott
 
-a) I. biztonsági csoport az e rendelet szerinti alacsony,
+a) I. és II. biztonsági csoport az e rendelet szerinti alacsony,
 
-b) II. és III. biztonsági csoport az e rendelet szerinti közepes,
+b) III. biztonsági csoport az e rendelet szerinti közepes,
 
 c) IV. biztonsági csoport az e rendelet szerinti magas
 
@@ -14,6 +14,7 @@ c) IV. biztonsági csoport az e rendelet szerinti magas
 
 (4) Ha a (3) bekezdés szerinti számítás alapján az elítélt feltételes szabadságra bocsátása esedékes, a bv. intézet haladéktalanul előterjesztést tesz a bv. bírónak a feltételes szabadságra bocsátás tárgyában.
 
-(5)[^23]
+(5)[^73]
 
-[^23]: A 207. § (5) bekezdését a 209. § (2) bekezdése hatályon kívül helyezte.
+[^72]: A 207. § (2) bekezdése a 24/2016. (XII. 23.) IM rendelet 38. §-ával megállapított szöveg.
+[^73]: A 207. § (5) bekezdését a 209. § (2) bekezdése hatályon kívül helyezte.

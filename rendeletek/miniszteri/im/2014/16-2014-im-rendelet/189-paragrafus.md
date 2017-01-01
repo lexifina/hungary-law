@@ -2,7 +2,7 @@
 
 a) látogatót alkalmanként hatvan percben fogadhat,
 
-b) kapcsolattartójával naponta tíz percet telefonálhat,
+b)[^69] kapcsolattartójával hetente hetven percet telefonálhat,
 
 c) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 70%-os mértékig elköltheti,
 
@@ -10,4 +10,7 @@ d) birtokában tartható tárgyainak köre az 1. melléklet 2.2., 3.4–3.5., 5.
 
 e) kérésére részt vehet a bv. intézeten belüli munkáltatásban, oktatásban.
 
-(2) Ha a rendelkezési jogkör gyakorlója az előzetesen letartóztatott fokozott őrzését rendelte el, a BFB az érintettet a szigorúbb rezsimbe és magas biztonsági kockázati szintre sorolja.
+(2)[^70] Ha a rendelkezési jogkör gyakorlója az előzetesen letartóztatott fokozott őrzését rendelte el, a BFB az érintettet magas biztonsági kockázati szintre sorolja.
+
+[^69]: A 189. § (1) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 36. §-ával megállapított szöveg.
+[^70]: A 189. § (2) bekezdése a 24/2016. (XII. 23.) IM rendelet 37. §-ával megállapított szöveg.

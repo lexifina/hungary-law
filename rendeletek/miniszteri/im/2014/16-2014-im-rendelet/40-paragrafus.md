@@ -2,7 +2,7 @@
 
 a) látogatót havonta egy alkalommal, hetvenöt perc időtartamban fogadhat,
 
-b) kapcsolattartójával hetente két alkalommal, alkalmanként tíz perc időtartamban telefonálhat,
+b)[^18] kapcsolattartójával hetente húsz perc időtartamban telefonálhat,
 
 c) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 60%-os mértékig elköltheti,
 
@@ -16,30 +16,39 @@ f) birtokában tartható tárgyak köre a Bv. tv. 101. § f) pontjában foglalt 
 
 a) látogatót havonta egy alkalommal, kilencven perc időtartamban fogadhat a bv. intézeten belül,
 
-b) számára látogató bv. intézeten kívüli fogadása évente két alkalommal, alkalmanként két óra időtartamban engedélyezhető,
+b)[^19] számára látogató bv. intézeten kívüli fogadása évente két alkalommal, alkalmanként legalább két óra, legfeljebb hat óra időtartamban engedélyezhető,
 
-c) kapcsolattartójával hetente 3 alkalommal, alkalmanként tíz perc időtartamban telefonálhat,
+c)[^20] kapcsolattartójával hetente negyven perc időtartamban telefonálhat,
 
 d) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 80%-os mértékig elköltheti,
 
 e) kimaradása évente egy alkalommal, huszonnégy óra időtartamban engedélyezhető,
 
-f) eltávozásra évente egy alkalommal, összesen négy nap időtartamra kivételesen engedhető,
+f)[^21] eltávozásra évente összesen négy nap időtartamra kivételesen engedhető,
 
 g) birtokában tartható tárgyak köre kizárólag az e rendeletben meghatározottakra terjedhet ki.
 
 (3) A börtön végrehajtási fokozaton belül az enyhébb rezsimbe sorolt elítélt
 
-a) látogatót havonta két alkalommal, alkalmanként hetvenöt perc időtartamban fogadhat,
+a)[^22] látogatót havonta két alkalommal, alkalmanként kilencven perc időtartamban fogadhat,
 
-b) számára látogató bv. intézeten kívüli fogadása évente három alkalommal, alkalmanként két óra időtartamban engedélyezhető,
+b)[^23] számára látogató bv. intézeten kívüli fogadása évente három alkalommal, alkalmanként legalább két óra, legfeljebb hat óra időtartamban engedélyezhető,
 
-c) kapcsolattartójával hetente öt alkalommal, alkalmanként tíz perc időtartamban telefonálhat,
+c)[^24] kapcsolattartójával hetente ötven perc időtartamban telefonálhat,
 
 d) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 100%-os mértékig elköltheti,
 
 e) kimaradása évente három alkalommal, alkalmanként huszonnégy óra időtartamban engedélyezhető,
 
-f) eltávozásra évente két alkalommal, összesen tíz nap időtartamra kivételesen engedhető,
+f)[^25] eltávozásra évente összesen tíz nap időtartamra kivételesen engedhető,
 
 g) birtokában tartható tárgyak köre és mennyisége bővíthető.
+
+[^18]: A 40. § (1) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 16. §-ával megállapított szöveg.
+[^19]: A 40. § (2) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^20]: A 40. § (2) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^21]: A 40. § (2) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^22]: A 40. § (3) bekezdés a) pontja a 24/2016. (XII. 23.) IM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^23]: A 40. § (3) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^24]: A 40. § (3) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^25]: A 40. § (3) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 18. § (2) bekezdésével megállapított szöveg.
