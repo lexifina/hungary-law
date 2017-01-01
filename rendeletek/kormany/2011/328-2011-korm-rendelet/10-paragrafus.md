@@ -1,7 +1,12 @@
-10. § (1) A családi napközi és a családi gyermekfelügyelet intézményi térítési díja nem haladhatja meg az egy ellátottra jutó szolgáltatási önköltség és a tárgyévi normatív állami hozzájárulás különbségének az egy napra jutó összegét.
+10. § (1)[^23] A munkahelyi bölcsőde és a családi bölcsőde intézményi térítési díja nem haladhatja meg az egy ellátottra jutó szolgáltatási önköltség és a tárgyévi normatív állami hozzájárulás különbségének az egy napra jutó összegét.
 
-(2) A családi napközi és a családi gyermekfelügyelet személyi térítési díját a 9. § (3) bekezdés szerint kell megállapítani.
+(2)[^24] A munkahelyi bölcsőde és a családi bölcsőde személyi térítési díját a 9. § (3) bekezdés szerint kell megállapítani.
 
-(3) A családi napközi alapellátáson túli szolgáltatásaiért a 9. § (4) bekezdésben foglalt mértékű térítés kérhető.
+(3)[^25]
 
-(4) Ha a családi napközit a szolgáltatás igénybevételére vonatkozó megállapodásban foglaltak szerint a gyermek a csak a hét bizonyos napjain veszi igénybe, jelen- vagy távollétét a 2. mellékletben kizárólag ezeken a napokon kell dokumentálni.
+(4)[^26] Ha a munkahelyi bölcsődét és a családi bölcsődét a szolgáltatás igénybevételére vonatkozó megállapodásban foglaltak szerint a gyermek a csak a hét bizonyos napjain veszi igénybe, jelen- vagy távollétét a 2. mellékletben kizárólag ezeken a napokon kell dokumentálni.
+
+[^23]: A 10. § (1) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^24]: A 10. § (2) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^25]: A 10. § (3) bekezdését a 191/2016. (VII. 13.) korm. rendelet 15. §-a hatályon kívül helyezte.
+[^26]: A 10. § (4) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés j) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-13/B. §[^24] (1) A települési önkormányzat jegyzője írásban tájékoztatja azon hátrányos helyzetű és rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermek szülőjét vagy más törvényes képviselőjét (a 13/B. § alkalmazásában a továbbiakban együtt: jogosult), akinek gyermeke tekintetében a hátrányos vagy halmozottan hátrányos helyzet az adott év
+13/B. §[^38] (1) A települési önkormányzat jegyzője írásban tájékoztatja azon hátrányos helyzetű és rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermek szülőjét vagy más törvényes képviselőjét (a 13/B. § alkalmazásában a továbbiakban együtt: jogosult), akinek gyermeke tekintetében a hátrányos vagy halmozottan hátrányos helyzet az adott év
 
 a) szeptember 1-jén fennáll, az évközi szünet időtartamára eső szünidei gyermekétkeztetés igénybevételének lehetőségéről, az igénybevétel módjáról, valamint a szünidei gyermekétkeztetés biztosításának időtartamáról, helyszínéről és módjáról minden év szeptember 15-éig,
 
@@ -24,4 +24,4 @@ b) az adott év május 1-je és augusztus 15-e között állapította meg, a há
 
 (9) Ha a települési önkormányzat jegyzője azt állapítja meg, hogy a gyermek nem jogosult a szünidei gyermekétkeztetésre, erről írásban értesíti a szünidei gyermekétkeztetést igénylő szülőt, más törvényes képviselőt.
 
-[^24]: A 13/B. §-t a 431/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^38]: A 13/B. §-t a 431/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be.

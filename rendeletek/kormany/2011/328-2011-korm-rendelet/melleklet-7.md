@@ -1,6 +1,6 @@
 ## NYILATKOZAT
 
-## a Gyvt. 21/B. § (1) bekezdés a) pontja szerinti ingyenes bölcsődei és óvodai gyermekétkeztetés igénybevételéhez
+## a Gyvt. 21/B. § (1) bekezdés a) pontja szerinti ingyenes bölcsődei, mini bölcsődei és óvodai gyermekétkeztetés igénybevételéhez
 
 ## 1. Alulírott ____________________________ (születési név: _________________, születési hely, idő _____________, ___.___.___. anyja neve: _______________) ______________________ szám alatti lakos, mint a
 
@@ -34,11 +34,7 @@
 
 ## □ a déli meleg főétkezés mellett két kisétkezés, vagy
 
-## □ bölcsőde esetében
-
-## □ a déli meleg főétkezés mellett a reggeli főétkezés és két kisétkezés, vagy
-
-## □ a következő étkezések: …………………………………………………
+## □ bölcsőde, mini bölcsőde esetében a déli meleg főétkezés mellett a reggeli főétkezés és két kisétkezés
 
 ## vonatkozásában kérem.
 
@@ -106,7 +102,7 @@
 
 ## 9. A családban az egy főre jutó havi jövedelem összegének kiszámítása: a család összes nettó jövedelme [a 2. pont szerinti személyek 3. pont szerinti jövedelmének együttes összege] csökkentve a fizetett gyermektartásdíj összegével, majd osztva a jövedelemszámításnál figyelembe veendő személyek számával [2. pont].
 
-7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^50]
+7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^67]
 
 NYILATKOZAT a Gyvt. 21/C. §-a szerinti szünidei gyermekétkeztetés igénybevételéhez
 
@@ -114,7 +110,7 @@ NYILATKOZAT a Gyvt. 21/C. §-a szerinti szünidei gyermekétkeztetés igénybev�
 
 |  | A | B | C |
 
-| 1 | Iskolai szünet, bölcsődei, óvodai zárva tartás2 | A szünidei gyermekétkeztetést a szünet, zárva tartás időtartamára eső a) őszi, téli, tavaszi szünet esetén valamennyi munkanapon kérem, b) nyári szünet esetén az önkormányzat által meghatározott számú valamennyi munkanapon kérem3 | A szünidei gyermekétkeztetést a szünet, zárva tartás időtartamára eső, alábbi munkanapokon kérem4 |
+| 1 | Iskolai szünet, bölcsődei, mini bölcsődei, óvodai zárva tartás2 | A szünidei gyermekétkeztetést a szünet, zárva tartás időtartamára eső a) őszi, téli, tavaszi szünet esetén valamennyi munkanapon kérem, b) nyári szünet esetén az önkormányzat által meghatározott számú valamennyi munkanapon kérem3 | A szünidei gyermekétkeztetést a szünet, zárva tartás időtartamára eső, alábbi munkanapokon kérem4 |
 
 | 2 | őszi | Igen / Nem |  |
 
@@ -142,4 +138,4 @@ más törvényes képviselő) aláírása
 
 4 Kizárólag abban az esetben töltendő, amennyiben a jogosult az adott szünet, zárva tartás vonatkozásában az előző oszlopban nemmel nyilatkozott. Ez esetben azon munkanapok felsorolása szükséges, amelyek tekintetében – az adott szünidei gyermekétkeztetés időtartamán belül – a jogosult kéri az étkeztetés biztosítását.
 
-[^50]: A 7. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be.
+[^67]: A 7. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés p) pontja szerint módosított szöveg.

@@ -8,4 +8,6 @@ c) az átmeneti gondozást nyújtó intézmény, valamint az utógondozói ellá
 
 kell megfizetni.
 
-(2) Ha a bölcsődei gondozás, a családi napközi, a családi gyermekfelügyelet, a gyermekek átmeneti gondozása vagy az utógondozói ellátás igénybevétele nem a hónap első napján kezdődik (tört havi ellátás), akkor az adott hónapra fizetendő személyi térítési díj a napi személyi térítési díj és az ellátási napok szorzata.
+(2)[^16] Ha a bölcsődei ellátás, a napközbeni gyermekfelügyelet, a gyermekek átmeneti gondozása vagy az utógondozói ellátás igénybevétele nem a hónap első napján kezdődik (tört havi ellátás), akkor az adott hónapra fizetendő személyi térítési díj a napi személyi térítési díj és az ellátási napok szorzata.
+
+[^16]: A 7. § (2) bekezdése a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés c) pontja szerint módosított szöveg.

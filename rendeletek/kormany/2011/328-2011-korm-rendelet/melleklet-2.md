@@ -2,7 +2,7 @@
 
 | Beutaló határozat száma, kelte:...................................... Az ellátás kezdete: |
 
-| Bölcsőde esetében | Az intézményi térítési díj | A személyi térítési díj |
+| Bölcsőde, mini bölcsőde esetében | Az intézményi térítési díj | A személyi térítési díj |
 
 |  | havi összege | napi összege | dátum | havi összege | napi összege | dátum |
 
@@ -10,7 +10,7 @@
 
 | Gondozás |  |  |  |  |  |  |
 
-| Bölcsőde kivételével gyermekek napközbeni ellátása, gyermekek átmeneti gondozása, utógondozói ellátás esetén | Az intézményi térítési díj | A személyi térítési díj |
+| Bölcsőde, mini bölcsőde kivételével gyermekek napközbeni ellátása, gyermekek átmeneti gondozása, utógondozói ellátás esetén | Az intézményi térítési díj | A személyi térítési díj |
 
 |  | havi összege | napi összege | dátum | havi összege | napi összege | dátum |
 

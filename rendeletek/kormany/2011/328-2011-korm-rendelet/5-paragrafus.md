@@ -1,6 +1,6 @@
-5. § (1) Az intézményi térítési díjat és a személyi térítési díjat – a bölcsőde és a családi napközi alapellátáson túli szolgáltatásai kivételével –
+5. § (1)[^14] Az intézményi térítési díjat és a személyi térítési díjat – a bölcsődei ellátást nyújtó intézmény, szolgáltató alapellátáson túli szolgáltatásai kivételével –
 
-a) házi gyermekfelügyelet esetében gondozási órára,
+a)[^15] a Gyvt. 44/C. §-a szerinti napközbeni gyermekfelügyelet keretében biztosított gondozó tevékenység esetében gondozási órára,
 
 b) az a) pontban nem említett napközbeni ellátások esetében ellátási napra,
 
@@ -9,3 +9,6 @@ c) az átmeneti gondozás és az utógondozói ellátás esetében ellátási na
 vetítve kell megállapítani.
 
 (2) A intézményi térítési díjat és a személyi térítési díjat az 1 és 2 forintos címletű érmék bevonása következtében szükséges kerekítés szabályairól szóló 2008. évi III. törvény 2. §-ának megfelelő módon kerekítve kell meghatározni.
+
+[^14]: Az 5. § (1) bekezdés nyitó szövegrésze a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^15]: Az 5. § (1) bekezdés a) pontja a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés b) pontja szerint módosított szöveg.
