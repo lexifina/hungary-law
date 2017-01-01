@@ -10,4 +10,6 @@ d) a kezdeményezővel szemben a kezdeményezés benyújtását megelőző háro
 
 e) a kezdeményezővel szemben az államot megillető halgazdálkodási jog gyakorlásával összefüggésben a kezdeményezés benyújtását megelőző öt évben – ideértve a d) pont szerinti bírságokat kiszabó határozatokat is – legalább három kötelezettséget megállapító, jogerős hatósági döntést hoztak;
 
-f) a kezdeményezőnek a minisztériummal vagy a halgazdálkodási hatóság megyei vagy országos illetékességű szervével szemben 120 napot meghaladó lejárt tartozása van.
+f)[^1] a kezdeményezőnek a minisztériummal, az országos illetékességű halgazdálkodási hatósággal, a területi halgazdálkodási hatósággal vagy a Nemzeti Élelmiszerlánc-biztonsági Hivatallal szemben 120 napot meghaladó, lejárt tartozása van.
+
+[^1]: A 4. § f) pontja a 89/2016. (XII. 29.) FM rendelet 26. §-ával megállapított szöveg.
