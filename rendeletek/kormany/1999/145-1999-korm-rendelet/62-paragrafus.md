@@ -1,6 +1,3 @@
-## 61/A. §[^119] A 2013. november 1-jén a temetkezési szolgáltatás végzésére engedéllyel rendelkező szolgáltatónak az 53. § (2) bekezdésében meghatározott vagyoni biztosítékkal 2014. július 1-jétől kell rendelkeznie.
+## 61/B. §[^129] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 46. § (3) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-62. §[^120] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-[^119]: A 61/A. §-t a 379/2013. (X. 25.) Korm. rendelet 30. §-a iktatta be.
-[^120]: A 62. §-t a 303/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be.
+[^129]: Az újabb 61/B. §-t a 477/2016. (XII. 27.) Korm. rendelet 15. § (2) bekezdése iktatta be.

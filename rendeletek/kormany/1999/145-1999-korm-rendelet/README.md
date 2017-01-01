@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-145-20-
 | 2015-03-12 | 1999-145-20-22.20 | 38/2015. (III. 11.) Korm. rendelet |
 | 2015-04-01 | 1999-145-20-22.21 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2016-01-01 | 1999-145-20-22.22 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2017-01-01 | 1999-145-20-22.23 | 441/2016. (XII. 16.) Korm. rendelet |

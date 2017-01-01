@@ -2,10 +2,20 @@
 
 24. § (1)[^38] A halottat koporsós temetés esetén – ha jogszabály másként nem rendelkezik – a halottvizsgálati bizonyítvány kiállításától számított 96 órán belül, ha a holttest folyamatos hűtése biztosított, 15 napon belül el kell temetni, kivéve
 
-a) ha a halottvizsgálatot végző orvos vagy az ügyben eljáró hatóság a halottvizsgálatra vonatkozó rendelkezések alapján ettől eltérő engedélyt adott,
+a)[^39] ha a halottvizsgálatot végző orvos vagy az ügyben eljáró hatóság ettől eltérő engedélyt adott,
 
-b) a 17/B. § (3) bekezdésében meghatározott esetet.
+b) a 17/B. § (3) bekezdésében meghatározott esetet,
+
+c)[^40] ha a holttestnek az eltemetésig történő hűtése folyamatosan biztosított, és az eltemettető kérelmére a temetés helye szerint illetékes népegészségügyi feladatkörében eljáró járási hivatal 15 napon túli koporsós temetést engedélyez.
+
+(1a)[^41] Az (1) bekezdés c) pontja szerinti esetben a járási hivatal engedélye legfeljebb a halottvizsgálati bizonyítvány kiállításától számított 45. napig szólhat.
 
 (2) A halottat – hamvasztásos temetés esetén – a halottvizsgálati bizonyítvány kiállításától számított 15 napon belül el kell hamvasztani. A holttestet a hamvasztásig hűteni kell.
 
+(3)[^42] A hamvakat a hamvasztást követő 90 napon belül el kell temetni vagy az eltemetésre kötelezett részére ki kell adni. Ha az eltemetésre kötelezett a hamvak elhelyezéséről nem gondosodik, a hamvak birtokosa kezdeményezi az önkormányzatnál az eltemettetésre kötelezett költségére az urna temetési helyre történő elhelyezését.
+
 [^38]: A 24. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^39]: A 24. § (1) bekezdés a) pontja a 441/2016. (XII. 16.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^40]: A 24. § (1) bekezdés c) pontját a 441/2016. (XII. 16.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^41]: A 24. § (1a) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^42]: A 24. § (3) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 3. § (3) bekezdése iktatta be.

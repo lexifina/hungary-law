@@ -6,6 +6,6 @@
 
 (4) A hamvakat temetőn kívüli ingatlanon a tulajdonos (kezelő) előzetes hozzájárulása után lehet szétszórni.
 
-(5)[^48] A hamvak légijárműről történő szétszórásához a légiközlekedési hatóság engedélye szükséges, amelyben meg kell határozni a hamvak szétszórásának módját is.
+(5)[^53] A hamvak légijárműről történő szétszórásához a légiközlekedési hatóság engedélye szükséges, amelyben meg kell határozni a hamvak szétszórásának módját is.
 
-[^48]: A 34. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^53]: A 34. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

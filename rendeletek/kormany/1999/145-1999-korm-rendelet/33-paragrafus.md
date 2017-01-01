@@ -4,10 +4,10 @@
 
 (2) Urnát urnatartóban a sír felületére is el lehet helyezni. Az egy urnafülkébe vagy urnasírba elhelyezhető, valamint a sírhelybe (sírboltba) temethető urnák számát a temető tulajdonosa (üzemeltetője) a szabályzatban határozza meg.
 
-(3)[^47] A Tv. 21. §-ában foglaltaknak megfelelően kiadott urna bármely olyan ingatlanon vagy temetkezési emlékhelyen elhelyezhető vagy eltemethető, ahol a tulajdonos (kezelő), továbbá az ingatlan jogszerű használója ehhez hozzájárult és a kegyeleti igények biztosíthatók. Ezek a rendelkezések a korábban temetőben elhelyezett urnára is alkalmazhatóak.
+(3)[^52] A Tv. 21. §-ában foglaltaknak megfelelően kiadott urna bármely olyan ingatlanon vagy temetkezési emlékhelyen elhelyezhető vagy eltemethető, ahol a tulajdonos (kezelő), továbbá az ingatlan jogszerű használója ehhez hozzájárult és a kegyeleti igények biztosíthatók. Ezek a rendelkezések a korábban temetőben elhelyezett urnára is alkalmazhatóak.
 
 (4) Közös tulajdonú ingatlanon való urnaelhelyezéshez a tulajdonostársak hozzájárulása szükséges.
 
 (5) Az ingatlanon elhelyezett urnát az eltemettető (örököse) kívánságára – a halottvizsgálati bizonyítvánnyal vagy a halotti anyakönyvi kivonattal való igazolás mellett – az ingatlan helye szerinti köztemető tulajdonosa (üzemeltetője) az irányadó használati időig köteles visszafogadni és elhelyezni, illetve a hamvak bármely más temetőben elhelyezhetők.
 
-[^47]: A 33. § (3) bekezdése a 379/2013. (X. 25.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^52]: A 33. § (3) bekezdése a 379/2013. (X. 25.) Korm. rendelet 15. §-ával megállapított szöveg.

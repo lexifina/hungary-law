@@ -1,6 +1,6 @@
-## A temetkezési szolgáltatás engedélyezése[^104]
+## A temetkezési szolgáltatás engedélyezése[^112]
 
-59. §[^105] (1)[^106] A Kormány a temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
+59. §[^113] (1)[^114] A Kormány a temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
 
 a) a temetkezési szolgáltatás tekintetében – a c) pontban foglaltak kivételével – a temetkezési szolgáltató telephelye, ennek hiányában székhelye,
 
@@ -18,7 +18,7 @@ a) a szolgáltatás nyújtására szolgáló telephely, illetve telephelyek cím
 
 b) az adott telephely tekintetében az ott folytatni kívánt temetkezési szolgáltatási, illetve az azzal összefüggő hűtésre, illetőleg a halottszállító jármű tárolására vonatkozó tevékenységet és
 
-c)[^107] a Tv. 30. § (2) bekezdés b) és e) pontja szerinti szakképesítéssel rendelkező személyek nevét és azt, hogy tevékenységüket milyen jogviszonyban látják el.
+c)[^115] a Tv. 30. § (2) bekezdés b) és e) pontja szerinti szakképesítéssel rendelkező személyek nevét és azt, hogy tevékenységüket milyen jogviszonyban látják el.
 
 (4) A kérelemhez csatolni kell:
 
@@ -44,13 +44,13 @@ d) az ivóvízellátás, a szennyvízgyűjtés módját és a szennyvíz-elhelye
 
 (6) A szennyvízgyűjtés és -elhelyezés módját a kérelemben akkor is meg kell jelölni, ha a telephelyen halottszállító jármű fertőtlenítésénél szennyvíz nem keletkezik.
 
-(7)[^108] Ha a kérelmező a (4) bekezdés a) vagy b) pontjában meghatározott okiratot nem csatolja, a járási hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(7)[^116] Ha a kérelmező a (4) bekezdés a) vagy b) pontjában meghatározott okiratot nem csatolja, a járási hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-(8)[^109] Amennyiben a temetkezési szolgáltató rendelkezik érvényes temetkezési szolgáltatásra vonatkozó engedéllyel, újabb telephely vagy a temetkezési szolgáltatás megváltoztatásának engedélyezésére irányuló kérelem esetén a temetkezési szolgáltatási tevékenységeket engedélyező hatóságnak nem kell vizsgálnia a büntetlen előéletre, a szakképesítésre, a vagyoni biztosítékra, valamint az összeférhetetlenségre vonatkozó előírásokat, továbbá a (4) bekezdés c)–e) pontjaiban meghatározott dokumentumokat sem kell csatolnia a kérelemhez.
+(8)[^117] Amennyiben a temetkezési szolgáltató rendelkezik érvényes temetkezési szolgáltatásra vonatkozó engedéllyel, újabb telephely vagy a temetkezési szolgáltatás megváltoztatásának engedélyezésére irányuló kérelem esetén a temetkezési szolgáltatási tevékenységeket engedélyező hatóságnak nem kell vizsgálnia a büntetlen előéletre, a szakképesítésre, a vagyoni biztosítékra, valamint az összeférhetetlenségre vonatkozó előírásokat, továbbá a (4) bekezdés c)–e) pontjaiban meghatározott dokumentumokat sem kell csatolnia a kérelemhez.
 
-[^104]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
-[^105]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^106]: Az 59. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^107]: Az 59. § (3) bekezdés c) pontja a 379/2013. (X. 25.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^108]: Az 59. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^109]: Az 59. § (8) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^112]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
+[^113]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^114]: Az 59. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^115]: Az 59. § (3) bekezdés c) pontja a 379/2013. (X. 25.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^116]: Az 59. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^117]: Az 59. § (8) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
