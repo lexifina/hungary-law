@@ -536,7 +536,7 @@
 
 ## (2)[^53]
 
-## (3)[^54] A szolgálati igazolványt az Fbő. törvény 7. § (1) bekezdés b) pontja szerinti eredményes szakmai vizsga alapján a vizsgáztatásban részt vevő – más szerv által végzett vizsgáztatás esetén az őrséget fenntartó szerv székhelye szerint illetékes – megyei (fővárosi) rendőr-főkapitányságtól az őrséget fenntartó szerv igényli a rendőrség által rendszeresített igénylőlapon. Az igénylőlapot két példányban kell kitölteni és a rendőrségre eljuttatni.
+## (3)[^54] A szolgálati igazolványt az Fbő. törvény 7. § (1) bekezdés b) pontja szerinti eredményes szakmai vizsga alapján a vizsgáztatásban részt vevő – más szerv által végzett vizsgáztatás esetén az őrséget fenntartó szerv székhelye szerint illetékes – megyei (fővárosi) rendőr-főkapitányságtól az őrséget fenntartó szerv igényli a rendőrség által rendszeresített igénylőlapon. Az igénylőlapot a rendőrségre kell eljuttatni.
 
 ## (4) Az igénylőlapon szereplő adatok hitelességének ellenőrzése a felügyeletet ellátó szerv felelősségi körébe tartozik.
 
@@ -1363,7 +1363,7 @@ aláírás
 [^51]: A 33., 34. és 35. § a 31/1998. (VII. 10.) BM rendelet 1. §-ával megállapított szöveg.
 [^52]: A melléklet 33. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^53]: A melléklet 33. § (2) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
-[^54]: A melléklet 33. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 7. §-ával megállapított szöveg.
+[^54]: A melléklet 33. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 7. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 3. §-a szerint módosított szöveg.
 [^55]: A 33/A. §-t az 50/2012. (X. 11.) BM rendelet 2. § (1) bekezdése iktatta be.
 [^56]: A melléklet 35. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
 [^57]: A melléklet 35. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja, a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
