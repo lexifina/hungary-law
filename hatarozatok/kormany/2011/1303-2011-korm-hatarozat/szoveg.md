@@ -4,7 +4,7 @@ Felelős: az akciótervben megjelölt miniszterek
 
 Határidő: az akciótervben megjelölt határidők
 
-Melléklet az 1303/2011. (IX. 2.) Korm. határozathoz
+Melléklet az 1303/2011. (IX. 2.) Korm. határozathoz[^1]
 
 A Moneyval országjelentésben megfogalmazott ajánlások végrehajtásáról készült akcióterv
 
@@ -148,12 +148,14 @@ A Moneyval országjelentésben megfogalmazott ajánlások végrehajtásáról k�
 
 | III/1 | A nyomozóhatóságok részére szakmai képzés tartása a pénzmosási és terrorizmus-finanszírozási ügyek hatékonyabb felderítése és vádemelése érdekében | NGM (NAV), BM (Országos Rendőrfőkapitány) | folyamatos | A Kormány felkéri a legfőbb ügyészt a jelzett feladat ellátásában való közreműködésre. |
 
-| III/2 | A szolgáltatók (különös tekintettel a nem banki szolgáltatást nyújtó pénzügyi szolgáltatók és a nem pénzügyi szolgáltatók) számára fokozottabb útmutatás nyújtása a felügyeletet ellátó szervek által a nemzetközi előírásokból következő pénzügyi és vagyoni korlátozó intézkedések végrehajtásával kapcsolatosan | NGM (NAV, Magyar Kereskedelmi Engedélyezési Hivatal főigazgatója) | folyamatos | A Kormány felkéri a Magyar Könyvvizsgálói Kamara elnökét, a Magyar Ügyvédi Kamara elnökét és a Magyar Országos Közjegyzői Kamara elnökét a Pmt. alapján általuk felügyelt szolgáltatók vonatkozásában a jelzett feladat ellátására. |
+| III/2 | A szolgáltatók (különös tekintettel a nem banki szolgáltatást nyújtó pénzügyi szolgáltatók és a nem pénzügyi szolgáltatók) számára fokozottabb útmutatás nyújtása a felügyeletet ellátó szervek által a nemzetközi előírásokból következő pénzügyi és vagyoni korlátozó intézkedések végrehajtásával kapcsolatosan | NGM (NAV), Miniszterelnökség (Budapest Főváros Kormányhivatalának kormánymegbízottja) | folyamatos | A Kormány felkéri a Magyar Könyvvizsgálói Kamara elnökét, a Magyar Ügyvédi Kamara elnökét és a Magyar Országos Közjegyzői Kamara elnökét a Pmt. alapján általuk felügyelt szolgáltatók vonatkozásában a jelzett feladat ellátására. |
 
 | III/3 | A IX. speciális ajánlás végrehajtásával kapcsolatban speciális képzés biztosítása a vámhatóság munkatársai részére | NGM (NAV) | folyamatos |  |
 
-| III/4 | A szolgáltatók számára fokozottabb figyelemfelhívás és iránymutatás nyújtása a pénzügyi információs egység és a felügyeletet ellátó szervek által a bejelentések számának növelése érdekében | NGM (NAV, Magyar Kereskedelmi Engedélyezési Hivatal főigazgatója) | folyamatos | A Kormány felkéri a Magyar Könyvvizsgálói Kamara elnökét, a Magyar Ügyvédi Kamara elnökét és a Magyar Országos Közjegyzői Kamara elnökét a Pmt. alapján általuk felügyelt szolgáltatók vonatkozásában a jelzett feladat ellátására. |
+| III/4 | A szolgáltatók számára fokozottabb figyelemfelhívás és iránymutatás nyújtása a pénzügyi információs egység és a felügyeletet ellátó szervek által a bejelentések számának növelése érdekében | NGM (NAV), Miniszterelnökség (Budapest Főváros Kormányhivatalának kormánymegbízottja) | folyamatos | A Kormány felkéri a Magyar Könyvvizsgálói Kamara elnökét, a Magyar Ügyvédi Kamara elnökét és a Magyar Országos Közjegyzői Kamara elnökét a Pmt. alapján általuk felügyelt szolgáltatók vonatkozásában a jelzett feladat ellátására. |
 
 | III/5 | Az ingatlanügylettel kapcsolatos tevékenységet folytató szolgáltatók számára fokozottabb figyelemfelhívás és iránymutatás nyújtása az ügyfél-átvilágítási intézkedések hatékonyabb alkalmazása érdekében | NGM (NAV) | folyamatos |  |
 
-| III/6 | Az árukereskedelmi tevékenysége folytatása során 3,6 millió forintot elérő vagy meghaladó összegű készpénzfizetést elfogadó szolgáltatók számára fokozottabb figyelemfelhívás és iránymutatás nyújtása az ügyfél-átvilágítási intézkedések hatékonyabb alkalmazása érdekében | NGM (Magyar Kereskedelmi Engedélyezési Hivatal főigazgatója) | folyamatos |  |
+| III/6 | Az árukereskedelmi tevékenysége folytatása során 3,6 millió forintot elérő vagy meghaladó összegű készpénzfizetést elfogadó szolgáltatók számára fokozottabb figyelemfelhívás és iránymutatás nyújtása az ügyfél-átvilágítási intézkedések hatékonyabb alkalmazása érdekében | Miniszterelnökség (Budapest Főváros Kormányhivatalának kormánymegbízottja) | folyamatos | A Kormány felkéri a Magyar Könyvvizsgálói Kamara elnökét, a Magyar Ügyvédi Kamara elnökét és a Magyar Országos Közjegyzői Kamara elnökét a Pmt. alapján általuk felügyelt szolgáltatók vonatkozásában a jelzett feladat ellátására. |
+
+[^1]: A Melléklet az 1853/2016. (XII. 27.) Korm. határozat 9. pontja szerint módosított szöveg.
