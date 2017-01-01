@@ -1,4 +1,4 @@
-15. §[^195] (1) A TBB az üléséig beérkezett hiánytalan kérelmek alapján – a (2)–(5) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
+15. §[^215] (1) A TBB az üléséig beérkezett hiánytalan kérelmek alapján – a (2)–(5) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
 
 (2) A TBB a befogadási javaslatának elkészítése során
 
@@ -20,7 +20,7 @@ bf) a finanszírozás várható összegét,
 
 bg) a 13. § (6) bekezdése alapján készített összefoglalót.
 
-(3) A befogadási javaslat elkészítése során előnyben kell részesíteni az olyan kérelmet, melynek eredményeként az egészségügyi szolgáltató
+(3)[^216] A befogadási javaslat elkészítése során előnyben kell részesíteni az olyan kérelmet, melynek eredményeként az egészségügyi szolgáltató
 
 a) országos, illetve regionális ellátási területtel működik,
 
@@ -32,7 +32,7 @@ d) az ellátott terület népegészségügyi mutatóihoz szakmai összetételéb
 
 e) segíti az egészségügyi rendszerhez való hozzáférési esélyek kiegyenlítését.
 
-(3a)[^196] A befogadási javaslat elkészítése során nem részesíthető előnyben az a 12. § (1) bekezdése szerinti többletkapacitás igény a fejlesztés fizikai megvalósításától számított 3 éven belül, amely esetében a fejlesztést megelőzően az egészségügyi szolgáltató vagy fenntartója nyilatkozott arról, hogy nincsen többletkapacitásra vonatkozó igénye.
+(3a)[^217] A befogadási javaslat elkészítése során nem részesíthető előnyben az a 12. § (1) bekezdése szerinti többletkapacitás igény a fejlesztés fizikai megvalósításától számított 3 éven belül, amely esetében a fejlesztést megelőzően az egészségügyi szolgáltató vagy fenntartója nyilatkozott arról, hogy nincsen többletkapacitásra vonatkozó igénye.
 
 (4) A befogadási javaslat elkészítése során figyelembe kell venni, hogy a befogadásra kerülő kapacitás várható éves teljesítményének finanszírozott összege nem haladhatja meg a központi költségvetésről szóló törvényben erre a célra rendelkezésre álló források összegét.
 
@@ -50,5 +50,6 @@ d) a finanszírozás javasolt kezdési időpontját.
 
 (7) A TBB a befogadási javaslatában csak azon szolgáltatók rehabilitációs osztályain nyújtott ellátások esetében javasolhatja a szorzó emelkedését, illetve befogadását, amelyek – az OTH állásfoglalása szerint – megfelelnek a jogszabályban meghatározott szakmai szempontoknak, vagy ennek hiányában a szakmai minimumfeltételekről szóló rendeletben meghatározott feltételeknek.
 
-[^195]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^196]: A 15. § (3a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 70. §-a iktatta be.
+[^215]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^216]: [A 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 8. pontjával elrendelt módosítás, amely szerint az „az OEP” szövegrész helyébe az „a NEAK” szöveg lép, nem vezethető át.]
+[^217]: A 15. § (3a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 70. §-a iktatta be.

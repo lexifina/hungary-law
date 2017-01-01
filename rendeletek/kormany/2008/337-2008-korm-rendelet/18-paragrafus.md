@@ -1,14 +1,14 @@
-## 17/J. §[^237] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 192/2015. (VII. 21.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított 5/A. § (6) bekezdését és 12/C. § (3a) bekezdését a Módr10. hatálybalépésekor[^238] folyamatban lévő ügyekben is alkalmazni kell.
+## 17/J. §[^265] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 192/2015. (VII. 21.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított 5/A. § (6) bekezdését és 12/C. § (3a) bekezdését a Módr10. hatálybalépésekor[^266] folyamatban lévő ügyekben is alkalmazni kell.
 
 18. § (1) Ez a rendelet 2009. január 1-jén lép hatályba.
 
-(2)[^239]
+(2)[^267]
 
 (3) A 12. § rendelkezéseit az e rendelet hatálybalépését követően kiírt pályázatok esetén kell alkalmazni.
 
-(4)–(5)[^240]
+(4)–(5)[^268]
 
-[^237]: A 17/J. §-t a 192/2015. (VII. 21.) Korm. rendelet 42. §-a iktatta be.
-[^238]: A hatálybalépés időpontja 2015. július 22.
-[^239]: A 18. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^240]: A 18. § (4)–(5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^265]: A 17/J. §-t a 192/2015. (VII. 21.) Korm. rendelet 42. §-a iktatta be.
+[^266]: A hatálybalépés időpontja 2015. július 22.
+[^267]: A 18. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^268]: A 18. § (4)–(5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,8 +1,8 @@
-## Az egészségügyi szakellátási kötelezettség nem teljesítése esetén alkalmazandó szabályok[^26]
+## Az egészségügyi szakellátási kötelezettség nem teljesítése esetén alkalmazandó szabályok[^28]
 
-1/A. §[^27] (1)[^28] A Tv. 1/A. § (2) bekezdése szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve az egészségügyi szakellátási feladat nem teljesítéséről szóló – a Tv. 1/A. § (3) bekezdése szerinti – bejelentést (a továbbiakban: bejelentés) az OTH részére kell megküldeni, melyben – a Tv. 1/A. § (3) bekezdésében foglaltakon túl – meg kell jelölni a kötelezettség, illetve a szakellátási feladat nem teljesítésének kezdő időpontját azzal, hogy azt a bejelentés lehetőség szerint legalább 15 nappal meg kell hogy előzze.
+1/A. §[^29] (1)[^30] A Tv. 1/A. § (2) bekezdése szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve az egészségügyi szakellátási feladat nem teljesítéséről szóló – a Tv. 1/A. § (3) bekezdése szerinti – bejelentést (a továbbiakban: bejelentés) az OTH részére kell megküldeni, melyben – a Tv. 1/A. § (3) bekezdésében foglaltakon túl – meg kell jelölni a kötelezettség, illetve a szakellátási feladat nem teljesítésének kezdő időpontját azzal, hogy azt a bejelentés lehetőség szerint legalább 15 nappal meg kell hogy előzze.
 
-(2)[^29] Az OTH a bejelentést követően haladéktalanul tájékoztatja ennek tényéről az egészségügyért felelős minisztert, az OEP-et és az Állami Egészségügyi Ellátó Központot (a továbbiakban: ÁEEK).
+(2)[^31] Az OTH a bejelentést követően haladéktalanul tájékoztatja ennek tényéről az egészségügyért felelős minisztert, a NEAK-ot és az Állami Egészségügyi Ellátó Központot (a továbbiakban: ÁEEK).
 
 (3) Az OTH
 
@@ -14,14 +14,16 @@ megteszi a Tv. 1/A. § (4) és (5) bekezdésében meghatározottak közül a fol
 
 (4) A Tv. 1/A. § (4) bekezdés a) pontja szerinti intézkedésről szóló határozatban a Tv. 1/A. § (11) bekezdése szerinti időpont figyelembevételével kell meghatározni a hiányzó személyi, illetve tárgyi feltételek biztosításának határidejét.
 
-(5)[^30] Az OTH a Tv. 1/A. § (4) és (5) bekezdése alapján hozott határozatot, valamint a működési engedélyt – legkésőbb a határozathozatalt követő napon – megküldi az ÁEEK-nak és az OEP-nek, valamint tájékoztatja az egészségügyért felelős minisztert.
+(5)[^32] Az OTH a Tv. 1/A. § (4) és (5) bekezdése alapján hozott határozatot, valamint a működési engedélyt – legkésőbb a határozathozatalt követő napon – megküldi az ÁEEK-nak és a NEAK-nak, valamint tájékoztatja az egészségügyért felelős minisztert.
 
-(6) Az OEP a határozat és a működési engedély szükséges módosításának kézhezvételét követően a (3) bekezdés a) pontja szerinti esetben 5 napon belül, a (3) bekezdés b) pontja szerinti esetben haladéktalanul gondoskodik az érintett egészségügyi szolgáltatók finanszírozási szerződésének – a Tv. 1/A. § (6) bekezdésében foglaltak figyelembevételével történő – módosításáról, illetve új finanszírozási szerződés megkötéséről.
+(6)[^33] A NEAK a határozat és a működési engedély szükséges módosításának kézhezvételét követően a (3) bekezdés a) pontja szerinti esetben 5 napon belül, a (3) bekezdés b) pontja szerinti esetben haladéktalanul gondoskodik az érintett egészségügyi szolgáltatók finanszírozási szerződésének – a Tv. 1/A. § (6) bekezdésében foglaltak figyelembevételével történő – módosításáról, illetve új finanszírozási szerződés megkötéséről.
 
-(7) A Tv. 1/A. § (4) bekezdés b) pontja alapján kijelölt szolgáltató által az átmeneti időszak alatt végzett feladat ellátása után járó finanszírozás a (6) bekezdés alapján megkötött szerződés alapján az egészségügyi szakellátások finanszírozására vonatkozó jogszabályok szerint történik, azzal, hogy a kijelölt szolgáltató csak azok után a teljesítmények után jogosult finanszírozásra, amelyeket a (3) bekezdés alapján hozott kijelölő határozatban megjelölt időszak alatt ténylegesen nyújtott. A teljesítmények elszámolása a kijelölő határozatban megállapított határidő szerint időarányosan kerül az OEP által megállapításra.
+(7)[^34] A Tv. 1/A. § (4) bekezdés b) pontja alapján kijelölt szolgáltató által az átmeneti időszak alatt végzett feladat ellátása után járó finanszírozás a (6) bekezdés alapján megkötött szerződés alapján az egészségügyi szakellátások finanszírozására vonatkozó jogszabályok szerint történik, azzal, hogy a kijelölt szolgáltató csak azok után a teljesítmények után jogosult finanszírozásra, amelyeket a (3) bekezdés alapján hozott kijelölő határozatban megjelölt időszak alatt ténylegesen nyújtott. A teljesítmények elszámolása a kijelölő határozatban megállapított határidő szerint időarányosan kerül a NEAK által megállapításra.
 
-[^26]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^27]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^28]: Az 1/A. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^29]: Az 1/A. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^30]: Az 1/A. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^28]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^30]: Az 1/A. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^31]: Az 1/A. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 31. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^32]: Az 1/A. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^33]: Az 1/A. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^34]: Az 1/A. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 8. pontja szerint módosított szöveg.
