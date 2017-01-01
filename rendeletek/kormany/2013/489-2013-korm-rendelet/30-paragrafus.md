@@ -1,4 +1,4 @@
-## 29. §[^26]
+## 29. §[^28]
 
 ## 10. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 32. § (2) bekezdése 2015. január 1-jén lép hatályba.
 
-[^26]: A 29. §-t a 419/2015. (XII. 23.) Korm. rendelet 48. § c) pontja hatályon kívül helyezte.
+[^28]: A 29. §-t a 419/2015. (XII. 23.) Korm. rendelet 48. § c) pontja hatályon kívül helyezte.

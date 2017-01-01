@@ -4,10 +4,11 @@
 
 (3) Ha a fenntartó a támogatás iránti kérelmet, a kérelem módosítását, a pótigényt, a lemondást vagy az elszámolást hibásan nyújtja be, az igazgatóság a felhívás közlésétől számított nyolc napos határidővel nyilatkozattételre hívja fel.
 
-(4) Az igazgatóság a támogatás ügyében hozott jogerős határozat és a lefolytatott ellenőrzésről készített jegyzőkönyv másolatát elektronikus levélben megküldi a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alapján az engedélyes ügyeiben általános illetékességgel rendelkező első fokú működést engedélyező szervnek.
+(4)[^1] Az igazgatóság a támogatás ügyében hozott jogerős határozat és a lefolytatott ellenőrzésről készített jegyzőkönyv másolatát elektronikus levélben megküldi a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alapján az engedélyes ügyeiben általános illetékességgel rendelkező működést engedélyező szervnek.
 
 (5) Az e rendelet szerinti, hivatalból indult eljárásokban a fenntartó, a szolgáltató és az engedélyes köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat az igazgatóságnak.
 
-(6)[^1]
+(6)[^2]
 
-[^1]: A 4. § (6) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 78. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 220. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^1]: A 4. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 254. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 4. § (6) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 78. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 220. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

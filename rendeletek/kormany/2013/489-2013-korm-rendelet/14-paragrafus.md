@@ -1,9 +1,9 @@
 ## 4. Folyósítás
 
-14. § (1)[^7] Az igazgatóságok az összesített igényeket a miniszter által meghatározott módon, a tárgyhónapot megelőző hónap 23-áig, januárban 12-éig küldik meg a miniszternek. A miniszter által vezetett minisztérium (a továbbiakban: minisztérium) az igényelt támogatást minden hónap 5-éig, januárban 16-áig utalja át az igazgatóságoknak.
+14. § (1)[^8] Az igazgatóságok az összesített igényeket a miniszter által meghatározott módon, a tárgyhónapot megelőző hónap 23-áig, januárban 12-éig küldik meg a miniszternek. A miniszter által vezetett minisztérium (a továbbiakban: minisztérium) az igényelt támogatást minden hónap 5-éig, januárban 16-áig biztosítja az igazgatóságoknak.
 
 (2) A támogatás megállapítására illetékes igazgatóság a támogatást a fenntartónak havi ütemezésben, a tárgyhó 10-éig, januárban 20-áig, a kérelemben megjelölt és a fenntartó nevére szóló – magyarországi vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező pénzforgalmi szolgáltatónál vezetett – fizetési számlára folyósítja.
 
 (3) Az igazgatóság a fenntartó kérelmére felfüggeszti a támogatás folyósítását. A kérelemre történt felfüggesztés alapján visszatartott támogatás akkor folyósítható újból, ha a fenntartó ezt kéri, és a folyósítás feltételei fennállnak.
 
-[^7]: A 14. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 788. § a)–b) pontja, a 419/2015. (XII. 23.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
+[^8]: A 14. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 788. § a)–b) pontja, a 419/2015. (XII. 23.) Korm. rendelet 47. § b) pontja, a 499/2016. (XII. 28.) Korm. rendelet 30. § 1. pontja szerint módosított szöveg.
