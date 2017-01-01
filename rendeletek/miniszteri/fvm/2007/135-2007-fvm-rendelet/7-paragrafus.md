@@ -1,5 +1,5 @@
 7. § (1) A kamattámogatást a mezőgazdasági termelő a pénzügyi intézményi kamatterhelés gyakoriságának megfelelően az esedékes kamat megfizetéséről szóló igazolás – első igényléskor a hitelszerződés és a záradékolt hitelkérelem – egyidejű csatolásával igényelheti az Adó- és Pénzügyi Ellenőrzési Hivataltól (a továbbiakban: APEH). A támogatás kifizetését a forrás rendelkezésre állását követő harminc napon belül az APEH a 10032000-01905616 számú „Agrárfinanszírozás támogatása” folyósítási számláról teljesíti.
 
-(2)[^1] A kamattámogatás igényléséhez a mezőgazdasági termelőnek mellékelnie kell a pénzügyi intézmény kamat megfizetéséről szóló igazolását, valamint első igényléskor a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) támogatástartalom meghatározásáról szóló határozatát, a záradékkal ellátott hitelkérelmet és a hitelszerződést.
+(2)[^1] A kamattámogatás igényléséhez a mezőgazdasági termelőnek mellékelnie kell a pénzügyi intézmény kamat megfizetéséről szóló igazolását, valamint első igényléskor a Magyar Államkincstár (a továbbiakban: Kincstár) támogatástartalom meghatározásáról szóló határozatát, a záradékkal ellátott hitelkérelmet és a hitelszerződést.
 
-[^1]: A 7. § (2) bekezdése a 18/2008. (II. 19.) FVM rendelet 1. §-ával megállapított szöveg.
+[^1]: A 7. § (2) bekezdése a 18/2008. (II. 19.) FVM rendelet 1. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 22. § a) pontja szerint módosított szöveg.

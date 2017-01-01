@@ -28,7 +28,7 @@
 
 ## aláírás
 
-4. sz. melléklet a 135/2007. (XI. 14.) FVM rendelethez[^2]
+4. sz. melléklet a 135/2007. (XI. 14.) FVM rendelethez[^7]
 
 ## Igazolás
 
@@ -72,4 +72,4 @@ Kelt: ......................................
 
 hitelt folyósító pénzintézet
 
-[^2]: A 4. számú melléklet a 18/2008. (II. 19.) FVM rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 4. számú melléklet a 18/2008. (II. 19.) FVM rendelet 2. §-a szerint módosított szöveg.
