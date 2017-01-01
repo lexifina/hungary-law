@@ -4,7 +4,7 @@ a) a származási helyet,
 
 b) a borszőlőtermés, illetve a bor mennyiségét,
 
-c)
+c) az édesítés tényét,
 
 d) a borszőlő és a bor alkoholtartalmát, valamint az alkoholtartalom módosítására vonatkozó tényt,
 

@@ -10,7 +10,7 @@ b) a borvidékeket és a hozzájuk tartozó települések listáját, a borrégi
 
 c) a borkészítésre alkalmas szőlőfajtákat és a borkészítésre alkalmas szőlőfajták osztályba sorolásának rendjét;
 
-d) a termelési potenciálra, valamint a kivágási engedély feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat;
+d) a termelési potenciálra vonatkozó részletes szabályokat;
 
 e) a borászati termékek, valamint a bortípusok meghatározását, az előállításukra és kezelésükre, kiszerelésükre, minősítésükre, jelölésükre, forgalomba hozatalukra és ellenőrzésükre vonatkozó előírásokat, a borászati termékek megsemmisítésének rendjét;
 
@@ -30,7 +30,7 @@ l)
 
 m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
 
-n)
+n) a borversenyekre vonatkozó részletes szabályokat;
 
 o) a szőlő- és borágazat szakmaközi szervezetének elismerési rendjét.
 
@@ -38,7 +38,9 @@ o) a szőlő- és borágazat szakmaközi szervezetének elismerési rendjét.
 
 a) a borászati termékek kötelező egységes bizonylatolási, nyilvántartási és elszámolási rendjét,
 
-b) a gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását
+b) a gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását,
+
+c) a kisüzemi bortermelő által vezetett nyilvántartás tartalmát
 
 szabályozza.
 

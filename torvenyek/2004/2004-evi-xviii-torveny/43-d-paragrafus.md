@@ -1,4 +1,4 @@
-43/D. § (1) A növénytermesztési hatóság a használót az ültetvény kivágására kötelezi, ha az ellenőrzése során megállapítja, hogy a használó telepítési engedély nélkül telepített.
+43/D. § (1) A növénytermesztési hatóság a 8. § szerinti hegybírói ellenőrzésről megküldött jegyzőkönyv megállapításai alapján a használót az ültetvény kivágására kötelezi, ha a használó telepítési engedély nélkül telepített.
 
 (2) A növénytermesztési hatóság a telepítési engedély nélkül telepített ültetvény telepítőjét az alábbi összegű bírság megfizetésére kötelezi:
 

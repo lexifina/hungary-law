@@ -1,13 +1,9 @@
 ## A művelésre vonatkozó előírások
 
-13. § (1) A borszőlőültetvény használója köteles az ültetvényt rendeltetésének megfelelően művelni.
+13. § (1) A borszőlőültetvényt az ültetvény rendeltetésének megfelelően kell megművelni.
 
-(2) Amennyiben az ültetvény használója az ültetvényét egy éven keresztül nem műveli, a hegybíró felszólítja az ültetvény rendeltetésszerű művelésére.
+(2) Amennyiben a borszőlőültetvény egy éven keresztül nem áll művelés alatt, a hegybíró felszólítja a borszőlőültetvény tulajdonosát a borszőlőültetvény rendeltetésszerű művelésére. A felszólítás alapján a tulajdonosnak harminc napon belül nyilatkoznia kell arról, hogy az ültetvény rendeltetésszerű művelését megkezdte. Az ültetvény tulajdonosa a nyilatkozattétel helyett bemutathatja az ültetvény megfelelő hasznosítását biztosító szerződést.
 
-(3) Ha az ültetvény használója a (2) bekezdés szerinti felszólítás ellenére továbbra sem műveli az ültetvényét, a hegybíró kezdeményezi a növénytermesztési hatóságnál az ültetvény növény-egészségügyi szemléjét. Amennyiben a növénytermesztési hatóság szemléje azt állapítja meg, hogy az ültetvény kivágása növény-egészségügyi okok miatt indokolt, felszólítja az ültetvény használóját az ültetvény 45 napon belül történő kivágására. A kivágásra vonatkozó döntés egy példányát meg kell küldeni a hegybíró részére. Amennyiben a növénytermesztési hatóság szemléje során növény-egészségügyi kockázatot nem állapít meg, abban az esetben a művelés elmulasztása miatt hektáronként kétszázezer forint bírságot szab ki.
+(3) Ha a borszőlőültetvény tulajdonosa a (2) bekezdésben foglalt kötelezettségének nem tesz eleget, a hegybíró a művelés elmulasztása miatt hektáronként kétszázezer forint bírságot szab ki. A művelés elmulasztása miatt kiszabott bírság az ültetvény fekvési helye szerinti hegyközség bevétele.
 
-(4)–(6)
-
-(7) Amennyiben az ültetvény használója kivágási kötelezettségének nem tesz eleget a hegybíró az ültetvény használójának a költségére az ültetvényt kivágattatja.
-
-(8)
+(4) A hegybíró a felszólítást követő év május 1. napjának hatályával a tulajdonos költségére az ültetvény kivágását rendeli el, ha a borszőlőültetvény tulajdonosa a (2) bekezdésben foglalt kötelezettségének a (3) bekezdés alapján kiszabott bírság ellenére sem tesz eleget.

@@ -26,7 +26,7 @@
 
 12. kivágás: a borszőlőültetvény felszámolása, amelynek során a tőkéket és a támrendszert a földterületről eltávolítják.
 
-13. VINGIS: a szőlőágazati kataszterek közösségi szabályozásnak megfelelő térinformatikai rendszere, amely a borszőlő termőhelyi kataszterének, a kivágási, szerkezetátalakítási és -átállítási támogatások kifizetésének, valamint az oltalom alatt álló földrajzi jelzést, illetve az oltalom alatt álló eredetmegjelölést viselő borok termőhelyei földrajzi lehatárolásának térképi ellenőrzési alapja, és amelynek adatbázisa az ellenkező bizonyításáig hitelesen tanúsítja az abban rögzített adattartalom fennállását.
+13. VINGIS: a szőlőágazati kataszterek közösségi szabályozásnak megfelelő térinformatikai rendszere, amely a borszőlő termőhelyi kataszterének, a kivágási, szerkezetátalakítási és -átállítási támogatások kifizetésének, valamint az oltalom alatt álló földrajzi jelzést, illetve az oltalom alatt álló eredetmegjelölést viselő borok termőhelyei földrajzi lehatárolásának térképi ellenőrzési alapja.
 
 14. borászati üzem: borászati termékek előállítására, kiszerelésére és tárolására vonatkozó működési engedéllyel rendelkező üzem.
 
