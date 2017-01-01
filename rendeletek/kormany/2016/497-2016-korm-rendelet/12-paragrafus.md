@@ -1,0 +1,3 @@
+## 11. § A környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségekről és szakértői díjakról szóló 78/2015. (III. 31.) Korm. rendelet 1. mellékletében foglalt táblázat A:7 mezőjében az „A régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet 43. § (2) bekezdése” szövegrész helyébe az „A kulturális örökség védelmével kapcsolatos szabályokról szóló 496/2016. (XII. 28.) Korm. rendelet 33. § (2) bekezdése” szöveg lép.
+
+## 12. Az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet módosítása
