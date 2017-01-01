@@ -1,4 +1,4 @@
-2. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^20]
+2. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^27]
 
 ## Az okmányirodák üzemeltetéséhez biztosított eszközök
 
@@ -56,4 +56,4 @@ II. Konfiguráció (Munkaállomás 1.)
 
 III. Konfiguráció (Munkaállomás 2.)
 
-[^20]: A 2. számú melléklet a 75/2015. (XII. 22.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. számú melléklet a 75/2015. (XII. 22.) BM rendelet 2. § (2) bekezdésével megállapított szöveg. [A 2. számú mellékletnek az 58/2016. (XII. 22.) BM rendelet 7. § (2) bekezdés b) pontjával elrendelt módosítása, amely szerint az „(MLLN bérelt vonalon a fővárosi és megyei kormányhivatal, illetve Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala Balázs B. utca irányában)” szövegrész hatályát veszti, nem vezethető át.]
