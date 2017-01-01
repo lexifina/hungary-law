@@ -6,18 +6,21 @@ b) az Európai Bizottságtól az uniós vívmányokban meghatározott, uniós fe
 
 2. A Bizottság
 
-a) elnöke: a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának elnöke,
+a)[^1] elnöke: a belügyminiszter,
 
-b) tagjai: a belügyminiszter, a közigazgatási és igazságügyi miniszter, a külügyminiszter, a nemzetgazdasági miniszter, továbbá a nemzeti fejlesztési miniszter által kijelölt egy-egy személy,
+b)[^2] tagjai: az igazságügy miniszter, a külgazdasági és külügyminiszter, a nemzetgazdasági miniszter, továbbá a nemzeti fejlesztési miniszter által kijelölt egy-egy személy,
 
 c) meghívottak: a Bizottság bármely tagjának javaslatára, a Bizottság egyhangúlag meghozott döntése alapján a Bizottság tevékenységébe szükség szerint bevont személyek.
 
 3. A Bizottság működési rendjét maga határozza meg.
 
-4. A Bizottság igazgatási és adminisztratív feladatait a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala látja el.
+4.[^3] A Bizottság igazgatási és adminisztratív feladatait a belügyminiszter által vezetett minisztérium látja el.
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6.[^1]
+6.[^4]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a) alpontja az 1853/2016. (XII. 27.) Korm. határozat 7. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 7. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 7. pont c) alpontja szerint módosított szöveg.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
