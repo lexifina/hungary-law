@@ -1,4 +1,4 @@
-4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^35]
+4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^38]
 
 | Jóváhagyta: ............................. miniszter Kifizetési terv (20... . február … -i állapot szerint, forintban) Keltezés: … . |
 
@@ -40,9 +40,9 @@
 
 | 2.8. | Adott kárenyhítési év kárenyhítő juttatásainak kifizetésére a tárgyévet követő évben, a kifizetési terv elkészítése időpontjában felhasználható forrás összesen |  |
 
-| 2.9. | Az MVH kárenyhítési lebonyolítási számlán az adott kárenyhítési év kárenyhítő juttatása fedezetéül biztosítandó forrás (az 1.8., 2.8., 3.1. és 3.2. pontok figyelembevételével) |  |
+| 2.9. | A Magyar Államkincstár kárenyhítési lebonyolítási számlán az adott kárenyhítési év kárenyhítő juttatása fedezetéül biztosítandó forrás (az 1.8., 2.8., 3.1. és 3.2. pontok figyelembevételével) |  |
 
-| 2.10. | Az MVH kárenyhítési lebonyolítási számlán a 2.7. pont szerinti jogorvoslati és egyéb folyamatban lévő eljárások fedezetéül biztosítandó forrás* |  |
+| 2.10. | A Magyar Államkincstár kárenyhítési lebonyolítási számlán a 2.7. pont szerinti jogorvoslati és egyéb folyamatban lévő eljárások fedezetéül biztosítandó forrás* |  |
 
 | 3. Az 1.8. pont szerint kifizetésre javasolt kárenyhítő juttatásra vonatkozó egyéb információk |
 
@@ -112,4 +112,4 @@
 
 **** A kifizetéssel érintett területek nagyságát az egyes növénycsoportok szerinti bontásban a kérelmen belüli arányosítással kell kimutatni.
 
-[^35]: A 4. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^38]: A 4. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 72. § d) pontja szerint módosított szöveg.

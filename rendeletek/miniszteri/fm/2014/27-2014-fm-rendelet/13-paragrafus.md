@@ -12,9 +12,9 @@
 
 (6) A (2) bekezdés szerinti éves elszámoláson túl az agrárkár-enyhítési szerv a miniszter és az agrárkár-enyhítési szerv közötti külön megállapodás szerinti adattartalommal a miniszter részére megküldi
 
-a) tárgyév április 30-ig az MVH kárenyhítési lebonyolítási számla felhasználásának tárgyév március 31-i állapotát, és
+a)[^31] tárgyév április 30-ig a Magyar Államkincstár kárenyhítési lebonyolítási számla felhasználásának tárgyév március 31-i állapotát, és
 
-b) tárgyév október 15-ig az MVH kárenyhítési lebonyolítási számla felhasználásának tárgyév szeptember 15-i állapotát
+b)[^32] tárgyév október 15-ig a Magyar Államkincstár kárenyhítési lebonyolítási számla felhasználásának tárgyév szeptember 15-i állapotát
 
 tükröző évközi elszámolásokat is.
 
@@ -25,3 +25,5 @@ tükröző évközi elszámolásokat is.
 (9) A mezőgazdasági árvíz vonatkozásában védműnek minősül az OVF által belföldi jogsegély keretében kiadott igazolás alapján az árvizek kártételei elleni védekezéshez szükséges vízilétesítmény is.
 
 [^30]: A 13. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § d) pontja szerint módosított szöveg.
+[^31]: A 13. § (6) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja szerint módosított szöveg.
+[^32]: A 13. § (6) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja szerint módosított szöveg.

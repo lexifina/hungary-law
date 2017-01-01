@@ -86,7 +86,7 @@
 
 ## 15. A mezőgazdasági termelő nyilatkozata arról, hogy
 
-## 15.1. az érintett káresemény által okozott kárra a biztosítóval kötött szerződés alapján a biztosító által megállapított összeget az Mkk. tv. által előírt kötelezettség szerint tüntette fel, és tudomásul veszi, hogy a kötelezettség elmulasztásával a kárenyhítő juttatásra való jogosultságot a teljes kárenyhítő juttatás összegére vonatkozóan elveszíti, és kötelezettséget vállal arra, hogy ilyen esetben a felvett összeget a Mezőgazdasági és Vidékfejlesztési Hivatal felszólító határozata szerint visszafizeti;
+## 15.1. az érintett káresemény által okozott kárra a biztosítóval kötött szerződés alapján a biztosító által megállapított összeget az Mkk. tv. által előírt kötelezettség szerint tüntette fel, és tudomásul veszi, hogy a kötelezettség elmulasztásával a kárenyhítő juttatásra való jogosultságot a teljes kárenyhítő juttatás összegére vonatkozóan elveszíti, és kötelezettséget vállal arra, hogy ilyen esetben a felvett összeget a Magyar Államkincstár felszólító határozata szerint visszafizeti;
 
 ## 15.2. a kárenyhítő juttatás iránti kérelem benyújtásakor az Mkk. tv. 2. § 7. pont szerinti elemi káreseményen – ide nem értve az üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó mezőgazdasági árvízkárt – alapuló okokon kívüli okokból a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak minősül-e.
 
@@ -94,7 +94,7 @@
 
 ## 1 Újravetés, újratelepítés, vagy másodvetés esetén meg kell adni az újravetett, újratelepített, vagy másodvetett növénykultúrát is.
 
-3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^34]
+3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^37]
 
 ## A kárenyhítő juttatás meghatározásának számítási módszere
 
@@ -240,4 +240,4 @@ c) Földbérlet esetén a 12. § (3) bekezdésben meghatározott bérleti díjcs
 
 | Bérleti díjcsökkenés összege (Ft) | = | növénykultúra tárgyévi vetésterülete (ha) | x | [piaci bérleti díj (Ft/ha) – kedvezményes bérleti díj (Ft/ha)] ” |
 
-[^34]: A 3. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^37]: A 3. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
