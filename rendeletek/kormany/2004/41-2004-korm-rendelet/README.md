@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-41-20-2
 | 2009-12-31 | 2004-41-20-22.8 | 41/2004. (III. 12.) Korm. rendelet |
 | 2011-01-01 | 2004-41-20-22.9 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2014-09-05 | 2004-41-20-22.10 | 19/2008. (II. 5.) Korm. rendelet |
+| 2017-01-01 | 2004-41-20-22.11 | 475/2016. (XII. 27.) Korm. rendelet |

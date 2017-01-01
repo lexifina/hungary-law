@@ -1,4 +1,4 @@
-3. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^20]
+3. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^24]
 
 ## KÉRELEM a sportról szóló 2004. évi I. törvény alapján folyósítandó edzői járadékhoz
 
@@ -16,7 +16,7 @@
 
 7. Adóazonosító jele:
 
-8. Olimpiai, Paralimpiai Játékokon, a Siketek Világjátékain vagy 1984. évi „A” kategóriás nemzetközi versenyen elért helyezés megszerzésének ideje (több első helyezés esetén azok megszerzésének időpontját külön feltüntetve):
+8. Olimpiai Játékokon, Paralimpiai Játékokon, Siketlimpián, Sakkolimpián vagy 1984. évi „A” kategóriás nemzetközi versenyen elért helyezés megszerzésének ideje (több első helyezés esetén azok megszerzésének időpontját külön feltüntetve):
 
 9. Az érmes neve:
 
@@ -50,7 +50,7 @@ Tudomásul veszem, hogy az 1., 5., 6., 7. pontokban rögzített adatokban beköv
 
 (A következő részt az érmes és az edző írja alá.)
 
-Hozzájárulok, hogy a sportpolitikáért felelős miniszter által vezetett minisztérium – a járadék megállapítása és folyósítása céljából – a kérelemben feltüntetett személyes adataimat az adatkezelésre vonatkozó jogszabályok szerint kezelje, az adatokat a Magyar Olimpiai Bizottsággal, a Magyar Paralimpiai Bizottsággal, illetve a Fogyatékosok Nemzeti Sportszövetségével, valamint az adatokban bekövetkezett esetleges változásokat a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervénél ellenőrizze.
+Hozzájárulok, hogy a sportpolitikáért felelős miniszter által vezetett minisztérium – a járadék megállapítása és folyósítása céljából – a kérelemben feltüntetett személyes adataimat az adatkezelésre vonatkozó jogszabályok szerint kezelje, az adatokat a Magyar Olimpiai Bizottsággal, a Magyar Paralimpiai Bizottsággal, illetve a Nemzeti Versenysport Szövetséggel, valamint az adatokban bekövetkezett esetleges változásokat a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervénél ellenőrizze.
 
 (A következő részt csak az edző tölti ki.)
 
@@ -78,4 +78,4 @@ Kelt: ........... év .............................. hó .............. 
 
 2 A szövetség elnöke a nyomtatvány aláírásával igazolja az edző kérelmének támogatását.
 
-[^20]: A 3. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a, a 221/2014. (IX. 4.) Korm. rendelet 261. §-a szerint módosított szöveg.
+[^24]: A 3. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a, a 221/2014. (IX. 4.) Korm. rendelet 261. §-a, a 475/2016. (XII. 27.) Korm. rendelet 8. § g) és h) pontja szerint módosított szöveg.
