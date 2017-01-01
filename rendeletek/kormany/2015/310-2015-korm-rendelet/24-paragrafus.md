@@ -25,3 +25,7 @@ c) a titkosságot sértő pályaműveket, valamint
 d) azt a pályaművet, amelynek szerzőivel szemben a 17. § (3) bekezdése és a 18. § értelmében kizáró ok áll fenn.
 
 (9) A bírálóbizottság az eljárásból kizárhatja a formai követelményeket nem teljesítő vagy a hiányos pályaműveket, feltéve, hogy a formai hiba a pályamű bírálatát ellehetetleníti.
+
+(10)[^3] A bírálóbizottság a pályaművek bírálata során tisztázó kérdéseket tehet fel a pályázóknak az általuk benyújtott pályaművekkel kapcsolatban. A tisztázó kérdéseket és az arra adott válaszokat a folyamatos jegyzőkönyvben rögzíteni kell.
+
+[^3]: A 24. § (10) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.

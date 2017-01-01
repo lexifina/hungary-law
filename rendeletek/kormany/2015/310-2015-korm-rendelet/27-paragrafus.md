@@ -14,4 +14,6 @@
 
 (7) A (6) bekezdés szerinti hirdetményben nem kell megadni azokat az információkat, amelyek közzététele akadályozná a jogérvényesítést, ellentétes lenne a közérdekkel, sértené valamely gazdálkodó szervezet üzleti érdekeit vagy a szolgáltatók közötti tisztességes versenyt.
 
-(8) Állami tulajdonban lévő műemlékeket érintő pályázati dokumentációk eredeti vagy másolati példányait az (1) és (5) bekezdésben meghatározott esetben a Forster Központ számára meg kell küldeni.
+(8)[^4] Állami tulajdonban lévő műemlékeket érintő pályázati dokumentációk eredeti vagy másolati példányait az (1) és (5) bekezdésben meghatározott esetben a kulturális örökség védett elemeinek központi nyilvántartása feladatkörében eljáró kulturális örökség védelméért felelős miniszter számára meg kell küldeni.
+
+[^4]: A 27. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § b) pontja szerint módosított szöveg.

@@ -6,6 +6,6 @@
 
 (3) Tervpályázati eljárás lefolytatható abban az esetben is, ha az a tervezési feladatok koncepciójának szakmai megalapozására, az igények előzetes tisztázására, a tervezési program vagy a tervkoncepció előkészítésére szolgál, és a tervpályázati eljárásnak nem célja tervezési szolgáltatás megrendelése (a továbbiakban: ötletpályázat).
 
-(4) Ötletpályázat esetén az ajánlatkérő az eljárást megindító felhívásban előírja, hogy az ötletpályázatot követően a nyertessel szolgáltatás megrendelésére irányuló szerződés megkötésére nem kerül sor.
+(4)–(5)[^1]
 
-(5) Ötletpályázatot követően az ajánlatkérő nem folytathat le hirdetmény nélküli tárgyalásos eljárást.
+[^1]: A 9. § (4)–(5) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (7) bekezdése hatályon kívül helyezte.
