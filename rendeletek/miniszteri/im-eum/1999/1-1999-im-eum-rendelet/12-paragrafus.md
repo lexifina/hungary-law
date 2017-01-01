@@ -1,3 +1,3 @@
-## 11. §[^29]
+## 11. §[^30]
 
-[^29]: A 11. §-t a 8/2011. (III. 4.) KIM rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^30]: A 11. §-t a 8/2011. (III. 4.) KIM rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
