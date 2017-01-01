@@ -12,6 +12,7 @@
 
 5. Műszaki Biztonsági Szabályzat: az e rendelet 2. mellékletét képező, az e rendeletben meghatározott követelmények teljesítését elősegítő, a csatlakozóvezetékek, telephelyi vezetékek és felhasználói berendezések létesítésének, használatbavételének, üzemeltetésének, átalakításának, javításának, áthelyezésének, felülvizsgálatának, megszüntetésének műszaki biztonsági feltételeit és módját tartalmazó műszaki előírások gyűjteménye.
 
-6. Rendkívüli esemény: a műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.) Korm. rendeletben meghatározottakon felül a felhasználói helyen a gázfelhasználással kapcsolatos szénmonoxid mérgezés.
+6.[^3] Rendkívüli esemény: a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló kormányrendeletben meghatározottakon felül a felhasználói helyen a gázfelhasználással kapcsolatos szénmonoxid mérgezés.
 
 [^2]: A 2. § 2. pontja a 7/2016. (II. 22.) NGM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 6. pontja a 62/2016. (XII. 29.) NGM rendelet 27. § (1) bekezdésével megállapított szöveg.
