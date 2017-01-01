@@ -10,7 +10,7 @@ d) bírság megállapítása,
 
 e) a névjegyzéket vezető kamaránál eljárás kezdeményezése.
 
-(2) A névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval, valamint a vállalkozó kivitelezővel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
+(2) Ha e törvény másként nem rendelkezik, a névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval, valamint a vállalkozó kivitelezővel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
 
 a) figyelmeztetés,
 

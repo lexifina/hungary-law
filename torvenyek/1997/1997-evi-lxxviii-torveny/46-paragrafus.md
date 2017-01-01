@@ -56,7 +56,7 @@ ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
 
 eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
 
-(4) Az építésfelügyeleti hatóság az ellenőrzés során feltárt szabálytalan tevékenységről való tudomásszerzésétől számított 90 napon belül indítja meg a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
+(4) Az építésfelügyeleti hatóság a hatósági ellenőrzést a megindításától számított 60 napon belül lefolytatja. Szabálytalanság észlelése esetén haladéktalanul megindítja a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 
 a) a (2) bekezdés a)–c) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
 

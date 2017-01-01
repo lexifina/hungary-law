@@ -10,7 +10,7 @@
 
 (5) Az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői tevékenységet folytató személy csak olyan szakterületen végezhet tervezési vagy szakértői munkát, amelyhez e törvény szerint megfelelő tervezői vagy szakértői jogosultsággal rendelkezik.
 
-(6) A 33/A. § szerinti lakóépületre vonatkozó építészeti-műszaki tervezői tevékenység végzéséhez kormányrendelet felelősségbiztosítást írhat elő.
+(6) A 33/A. § szerinti építési tevékenységre vonatkozó építészeti-műszaki tervezői tevékenység végzéséhez kormányrendelet felelősségbiztosítást írhat elő.
 
 (7) Az építészeti-műszaki tervpályázat a (8) bekezdésben meghatározott tervezési feladatok előkészítésére szolgáló sajátos tervezési versenyforma, és az építészeti-műszaki pályamű alapján a tervező kiválasztásának egyik módja.
 

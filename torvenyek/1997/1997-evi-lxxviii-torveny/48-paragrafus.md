@@ -26,7 +26,7 @@ b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenysé
 
 ba) bejelentés nélkül, vagy
 
-bb) a bejelentett és a kormányrendeletben meghatározott mértékű változás bejelentésétől eltérően;
+bb) bejelentéssel, de a 300 négyzetméter összes hasznos alapterületet meghaladva,
 
 c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tevékenységet építési napló hiányában
 

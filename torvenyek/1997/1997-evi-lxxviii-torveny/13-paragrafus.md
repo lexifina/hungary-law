@@ -2,7 +2,7 @@
 
 13. § (1) Az építés helyi rendjének biztosítása érdekében a települési önkormányzatnak az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi építési szabályzatban kell megállapítania.
 
-(2) A 33/A. § (1) bekezdésében meghatározott lakóépület létesítésekor a helyi építési szabályzatban meghatározott
+(2) A 33/A. § (1) bekezdésében meghatározott építési tevékenység esetén a helyi építési szabályzatban meghatározott
 
 a) övezet, építési övezet területi lehatárolását;
 
@@ -12,7 +12,7 @@ ba) a védelemmel és korlátozásokkal érintett területeken a szennyvízelvez
 
 bb) a megengedett legnagyobb beépítettséget,
 
-bc) a telken, az építési telken elhelyezhető épület, valamint az önálló rendeltetési egység számát,
+bc) a telken, az építési telken elhelyezhető épület, valamint az önálló rendeltetési egység számát és a megengedett vagy kizárt rendeltetését,
 
 bd) a megengedett legnagyobb beépítési magasságot vagy építménymagasságot,
 
