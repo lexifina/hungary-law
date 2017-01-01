@@ -1,4 +1,4 @@
-## 24. §[^7] Az NVI a magyarországi lakcímmel nem rendelkező választópolgárokat a központi névjegyzékbe vétel iránti kérelem, illetve az adatmódosítási, törlési kérelem benyújtásával kapcsolatos tudnivalókról – a 6. § (2a) bekezdésében meghatározott módon – első alkalommal 2015 októberében tájékoztatja.
+## 24. §[^10] Az NVI a magyarországi lakcímmel nem rendelkező választópolgárokat a központi névjegyzékbe vétel iránti kérelem, illetve az adatmódosítási, törlési kérelem benyújtásával kapcsolatos tudnivalókról – a 6. § (2a) bekezdésében meghatározott módon – első alkalommal 2015 októberében tájékoztatja.
 
 1. melléklet a 17/2013. (VII. 17.) KIM rendelethez
 
@@ -6,7 +6,7 @@
 
 1. A Ve. 277. § (2) bekezdés b) pontja alapján a szavazási levélcsomagot a magyarországi lakcímmel nem rendelkező választópolgár a következő településeken veheti át:
 
-a.[^8]
+a.[^11]
 
 b. Battonya (Békés Megye)
 
@@ -18,11 +18,11 @@ e. Bódvaszilas (Borsod-Abaúj-Zemplén Megye)
 
 f. Csengersima (Szabolcs-Szatmár-Bereg Megye)
 
-g.[^9]
+g.[^12]
 
 h. Fehérgyarmat (Szabolcs-Szatmár-Bereg Megye)
 
-i.[^10]
+i.[^13]
 
 j. Kőszeg (Vas Megye)
 
@@ -36,7 +36,7 @@ n. Makó (Csongrád Megye)
 
 o. Nagylak (Csongrád Megye)
 
-p.[^11] Nyírábrány (Hajdú-Bihar Megye)
+p.[^14] Nyírábrány (Hajdú-Bihar Megye)
 
 q. Nyírlugos (Szabolcs-Szatmár-Bereg Megye)
 
@@ -46,7 +46,7 @@ s. Rajka (Győr-Moson-Sopron Megye)
 
 t. Rédics (Zala Megye)
 
-u.[^12]
+u.[^15]
 
 v. Tiszabecs (Szabolcs-Szatmár-Bereg Megye)
 
@@ -78,18 +78,18 @@ h. Magyarország Főkonzulátusa, Szabadka
 
 i. Magyarország Főkonzulátusa, Ungvár
 
-j.[^13] Magyarország Főkonzulátusa, Eszék
+j.[^16] Magyarország Főkonzulátusa, Eszék
 
-k.[^14] Magyarország Nagykövetsége, Kijev
+k.[^17] Magyarország Nagykövetsége, Kijev
 
-l.[^15] Magyarország Főkonzulátusa, Lendva
+l.[^18] Magyarország Főkonzulátusa, Lendva
 
-[^7]: A 24. §-t a 27/2015. (X. 16.) IM rendelet 2. §-a iktatta be.
-[^8]: Az 1. melléklet 1. pont a. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^9]: Az 1. melléklet 1. pont g. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^10]: Az 1. melléklet 1. pont i. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^11]: Az 1. melléklet 1. pont p. alpontja a 38/2013. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. be.
-[^12]: Az 1. melléklet 1. pont u. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^13]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^14]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
-[^15]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^10]: A 24. §-t a 27/2015. (X. 16.) IM rendelet 2. §-a iktatta be.
+[^11]: Az 1. melléklet 1. pont a. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^12]: Az 1. melléklet 1. pont g. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^13]: Az 1. melléklet 1. pont i. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^14]: Az 1. melléklet 1. pont p. alpontja a 38/2013. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. be.
+[^15]: Az 1. melléklet 1. pont u. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^16]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^17]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^18]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
