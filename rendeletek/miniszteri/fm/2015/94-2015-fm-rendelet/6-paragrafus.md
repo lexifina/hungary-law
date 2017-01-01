@@ -1,4 +1,4 @@
-## 5. § A dohány szerkezetátalakítási nemzeti programról és az azzal összefüggésben igényelhető csekély összegű támogatások feltételeinek megállapításáról szóló miniszteri rendelet vonatkozásában a dohánylevél 3. § (1) bekezdés e) pontja szerinti esemény miatti jelentős mértékű minőségromlását vis maiorként az MVH akkor ismeri el, ha az ügyfél azt az elsődleges feldolgozó által kiállított igazolással vagy más hitelt érdemlő módon bizonyítja.
+## 5. §[^11] A dohány szerkezetátalakítási nemzeti programról és az azzal összefüggésben igényelhető csekély összegű támogatások feltételeinek megállapításáról szóló miniszteri rendelet vonatkozásában a dohánylevél 3. § (1) bekezdés e) pontja szerinti esemény miatti jelentős mértékű minőségromlását vis maiorként a Kincstár akkor ismeri el, ha az ügyfél azt az elsődleges feldolgozó által kiállított igazolással vagy más hitelt érdemlő módon bizonyítja.
 
 ## 3. A vis maior bejelentés benyújtása
 
@@ -33,3 +33,5 @@ a) az esemény bekövetkezését tanúsító hatósági bizonyítvány vagy egy�
 b) az a) pont szerinti okirat kiállítására hatáskörrel rendelkező hatóság vagy egyéb szerv által kiadott – az okirat kiállítása iránti kérelem benyújtásának tényét tanúsító – nyilatkozatot.
 
 (5) A (4) bekezdés b) pontja szerinti esetben az esemény bekövetkezését tanúsító igazolás másolatát annak közlésétől számított tizenöt napon belül elektronikus úton, ügyfélkapun keresztül kell benyújtani.
+
+[^11]: Az 5. § a 88/2016. (XII. 29.) FM rendelet 104. § c) pontja szerint módosított szöveg.
