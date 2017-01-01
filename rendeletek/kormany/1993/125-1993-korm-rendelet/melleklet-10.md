@@ -66,7 +66,7 @@
 
 ## A jegyzőkönyv első példányát 5 napon belül az állampolgársági ügyekben eljáró szervnek kell megküldeni, másodpéldányát pedig a polgármesteri hivatal/külképviselet irattározza. A jegyzőkönyv nem selejtezhető!”
 
-10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^101]
+10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^102]
 
 A köztársasági elnöknek
 
@@ -676,4 +676,4 @@ Megjegyzéseim: ................................................................
 
 |  | .......................................................................... a kérelmet átvevő aláírása |
 
-[^101]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^102]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (8) bekezdésével megállapított szöveg.

@@ -788,6 +788,6 @@
 
 ## kérelmező aláírása
 
-2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^84]
+2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^85]
 
-[^84]: A 2. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^85]: A 2. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

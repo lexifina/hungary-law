@@ -136,7 +136,7 @@
 
 ## a kérelmet átvevő aláírása
 
-4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^86]
+4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^87]
 
 A köztársasági elnöknek
 
@@ -408,4 +408,4 @@ Megjegyzéseim: ................................................................
 
 a kérelmező aláírása
 
-[^86]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^87]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.

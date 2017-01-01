@@ -1,6 +1,6 @@
 ## 13/B. §[^81]
 
-## A Kormány állampolgársági ügyekben eljáró szervként a Bevándorlási és Állampolgársági Hivatalt jelöli ki.
+## A Kormány állampolgársági ügyekben eljáró szervként Budapest Főváros Kormányhivatalát jelöli ki.
 
 ## Átmeneti és záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (2) Az Ápt. hatálybalépésekor még el nem bírált elbocsátási ügyekben a törvény 8. §-ának (2) bekezdése előírásai szerint kell eljárni.
 
-[^81]: A 13/B. §-t a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 1. §-ával megállapított és a 417/2012. (XII. 29.) Korm. rendelet 10. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^81]: A 13/B. §-t a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.

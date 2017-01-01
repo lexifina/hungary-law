@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-125-20-
 | 2015-07-31 | 1993-125-20-22.23 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2016-01-01 | 1993-125-20-22.24 | 414/2015. (XII. 23.) Korm. rendelet |
 | 2016-07-23 | 1993-125-20-22.25 | 417/2012. (XII. 29.) Korm. rendelet |
+| 2017-01-01 | 1993-125-20-22.26 | 417/2012. (XII. 29.) Korm. rendelet |

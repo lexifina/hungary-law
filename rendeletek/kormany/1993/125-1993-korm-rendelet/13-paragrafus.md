@@ -2,7 +2,7 @@
 
 ## 13. §[^55]
 
-(1)[^56] Az Ápt. 4. § (1) bekezdés e) pontjában meghatározott vizsgára a kérelmező a fővárosi kormányhivatalnál jelentkezhet a jelentkezési lap kitöltésével személyesen vagy postai úton.
+(1)[^56] Az Ápt. 4. § (1) bekezdés e) pontjában meghatározott vizsgára a kérelmező a fővárosi kormányhivatalnál a jelentkezési lap kitöltésével személyesen vagy postai úton, valamint elektronikusan jelentkezhet.
 
 (2)[^57] A vizsga megszervezése a fővárosi kormányhivatalnak a feladata, amely
 
@@ -38,7 +38,7 @@ b) az a felsőfokú képesítéssel rendelkező tanár, aki általános iskoláb
 
 [^54]: Az alcímet a 103/2001. (VI. 21.) Korm. rendelet 8. §-ának (1) bekezdése iktatta a szövegbe.
 [^55]: A 13. § az 1994: LXIII. törvény 62. §-a (4) bekezdésének megfelelően módosított szöveg.
-[^56]: A 13. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^56]: A 13. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 477/2016. (XII. 27.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^57]: A 13. § (2) bekezdés nyitó szövegrésze a 366/2006. (XII. 28.) Korm. rendelet 5. § (5) bekezdése, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 51. pontja, a 174/2012. (VII. 26.) Korm. rendelet 4. § b) pontja, a 417/2012. (XII. 29.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^58]: A 13. § (2) bekezdésének a) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
 [^59]: A 13. § (2) bekezdésének d) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
