@@ -4,7 +4,7 @@
 
 (3) A 8. § (1) bekezdése és a 10. § (1) bekezdése szerinti támogatási küszöbértékek vizsgálata során a kezességi díjtámogatásban foglalt támogatástartalom összegének euróban történő meghatározásánál a kezesség elbírálásáról szóló döntés meghozatalának napját megelőző hónap utolsó napján érvényes, Európai Központi Bank által közzétett, két tizedes jegy pontossággal meghatározott forint/euró deviza árfolyamot kell figyelembe venni.
 
-(4) A kezességi díjtámogatás forintban és – a (3) bekezdés szerint számított forint/euró deviza árfolyamon figyelembe vett – euróban kifejezett támogatástartalmáról szóló igazolást a kezességvállaló intézmény állítja ki, majd megküldi a kedvezményezett és – elektronikus úton – a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részére.
+(4)[^1] A kezességi díjtámogatás forintban és – a (3) bekezdés szerint számított forint/euró deviza árfolyamon figyelembe vett – euróban kifejezett támogatástartalmáról szóló igazolást a kezességvállaló intézmény állítja ki, majd megküldi a kedvezményezett és – elektronikus úton – a Magyar Államkincstár (a továbbiakban: Kincstár) részére.
 
 (5) A kezességvállaló intézmény a kiadott támogatástartalomról szóló igazolások adatairól nyilvántartást vezet.
 
@@ -17,3 +17,5 @@ a) a kedvezményes díjú kezességvállalás támogatástartalmával kapcsolato
 b) az európai uniós források felhasználásáért felelős miniszter felhívására az Atr. 22. §-a szerinti adatszolgáltatásra köteles.
 
 (8) A kezességvállaló intézmény a kedvezményes díjú kezességvállalási programról az Atr. 34. § (1) bekezdése szerint beszámolót készít.
+
+[^1]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 101. § a) pontja szerint módosított szöveg.
