@@ -38,17 +38,7 @@ A) Az Emberi Erőforrások Minisztériuma hivatali szervezete
 
 B) Központi hivatalok
 
-1.[^1] Az Egészségügyi Nyilvántartási és Képzési Központnál
-
-1.1. a gazdasági vezető
-
-1.2. a főosztályvezető
-
-1.3. a kábítószerügyi feladatokat ellátó szervezeti egység valamennyi munkaköre
-
-1.4. a közbeszerzési eljárásban résztvevő munkakör
-
-1.5. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+1.[^1]
 
 2. Az Emberi Erőforrás Támogatáskezelőnél
 
@@ -58,11 +48,11 @@ B) Központi hivatalok
 
 2.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-3.[^2] A Klebelsberg Intézményfenntartó Központnál
+3.[^2] A Klebelsberg Központnál
 
 3.1. a főosztályvezető
 
-3.2. a tankerületi igazgató
+3.2.[^3]
 
 3.3. a kiadmányozási joggal rendelkező főosztályvezető-helyettes és osztályvezető
 
@@ -70,21 +60,15 @@ B) Központi hivatalok
 
 3.5. a belső adatvédelmi felelős
 
-3.6. a központi szerv, valamint a megyeközponti és a fővárosi tankerület jogi, személyügyi, pénzügyi, számviteli, fejlesztési, vagyongazdálkodási, üzemeltetési, beszerzési és közbeszerzési feladatokat ellátó szervezeti egységének valamennyi munkaköre
+3.6.[^4] a jogi, személyügyi, pénzügyi, számviteli, fejlesztési, vagyongazdálkodási, üzemeltetési, beszerzési és közbeszerzési feladatokat ellátó szervezeti egység valamennyi munkaköre
 
-3.7. a központi szerv, valamint a megyeközponti és a fővárosi tankerület pályázatkezelő feladatokat ellátó szervezeti egységének projektmenedzseri, projektasszisztensi, modulvezetői munkaköre
+3.7.[^5] a pályázatkezelő feladatokat ellátó szervezeti egység projektmenedzseri, projektasszisztensi, modulvezetői munkaköre
 
 3.8. a biztonságszervezési, védelmi feladatokat ellátó, az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-3.9. a járási és a budapesti kerületi tankerület személyügyi, gazdálkodási, pénzügyi és számviteli feladatokat ellátó munkaköre
+3.9.[^6]
 
-4. A Nemzeti Rehabilitációs és Szociális Hivatalnál
-
-4.1.[^3] a gazdasági igazgató
-
-4.2. a közbeszerzési eljárásban résztvevő munkakör
-
-4.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+4.[^7]
 
 5. Az Oktatási Hivatalnál
 
@@ -96,15 +80,9 @@ B) Központi hivatalok
 
 5.4. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-6. Az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központnál
+6.[^8]
 
-6.1. a gazdasági vezető
-
-6.2. a közbeszerzési eljárásban résztvevő munkakör
-
-6.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-7.[^4] Az Országos Egészségbiztosítási Pénztárnál
+7.[^9] A Nemzeti Egészségbiztosítási Alapkezelőnél
 
 7.1. a gazdasági vezető
 
@@ -114,11 +92,11 @@ B) Központi hivatalok
 
 7.4. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-8.[^5] Az Országos Nyugdíjbiztosítási Főigazgatóságnál
+8.[^10] Az Országos Nyugdíjbiztosítási Főigazgatóságnál
 
-8.1. az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben az Országos Nyugdíjbiztosítási Főigazgatóság Nyugdíjfolyósító Igazgatóságánál első fokon eljáró ügyintéző és ügykezelő, valamint a döntést kiadmányozó vezető
+8.1.[^11]
 
-8.2. az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben másodfokon vagy felügyeleti hatáskörben eljáró ügyintéző és ügykezelő, valamint a döntést kiadmányozó vezető
+8.2.[^12] az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben felügyeleti hatáskörben eljáró ügyintéző és ügykezelő, valamint a döntést kiadmányozó vezető
 
 8.3. az Országos Nyugdíjbiztosítási Főigazgatóság Nyugdíjfolyósító Igazgatóságának igazgatója és helyettese
 
@@ -130,7 +108,7 @@ B) Központi hivatalok
 
 9.1. a közbeszerzési eljárásban résztvevő munkakör
 
-9.2.[^6] a gyorsreagálási, a humánpolitikai, az igazgatási és a járványügyi feladatokat ellátó szervezeti egység vezetője
+9.2.[^13] a gyorsreagálási, a humánpolitikai, az igazgatási és a járványügyi feladatokat ellátó szervezeti egység vezetője
 
 9.3. a gazdasági vezető
 
@@ -146,7 +124,7 @@ B) Központi hivatalok
 
 10.4. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-11.[^7] Az Állami Egészségügyi Ellátó Központnál
+11.[^14] Az Állami Egészségügyi Ellátó Központnál
 
 11.1. a gazdasági vezető
 
@@ -160,27 +138,23 @@ B) Központi hivatalok
 
 11.6. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-12.[^8] Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél
+12.[^15] Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél
 
 12.1. a közbeszerzési eljárásban résztvevő munkakör
 
 12.2. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-C)[^9] Központi államigazgatási szervnek nem minősülő költségvetési szerv
+13.[^16] A tankerületi központnál
 
-1. Az Egészségügyi Készletgazdálkodási Intézetnél
+13.1. a tankerületi igazgató
 
-1.1. a főigazgató és helyettese
+13.2. a gazdasági vezető
 
-1.2. a gazdasági vezető
+C)[^17] Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
-1.3. az osztályvezető
+1.[^18]
 
-1.4. a közbeszerzési eljárásban résztvevő munkakör
-
-1.5. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-2. Az Oktatáskutató és Fejlesztő Intézetnél
+2.[^19]
 
 2.1. a főigazgató és helyettese
 
@@ -248,12 +222,22 @@ C)[^9] Központi államigazgatási szervnek nem minősülő költségvetési sze
 
 7.5. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-[^1]: Az 1. melléklet B) alcím 1. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet B) alcím 3. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. melléklet B) alcím 4. pont 4.1. alpontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet B) alcím 7. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. melléklet B) alcím 8. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet B) alcím 9. pont 9.2. alpontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^7]: Az 1. melléklet B) alcím 11. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^8]: Az 1. melléklet B) alcím 12. pontját a 4/2016. (II. 22.) EMMI rendelet 1. §-a iktatta be.
-[^9]: Az 1. melléklet C) alcíme a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet B) alcím 1. pontját az 54/2016. (XII. 30.) EMMI rendelet 98. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: Az 1. melléklet B) alcím 3. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított, a 46/2016. (XII. 28.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet B) alcím 3.2. pontját a 46/2016. (XII. 28.) EMMI rendelet 8. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. melléklet B) alcím 3.6. pontja a 46/2016. (XII. 28.) EMMI rendelet 7. § b) pontja és 8. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet B) alcím 3.7. pontja a 46/2016. (XII. 28.) EMMI rendelet 7. § b) pontja és 8. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet B) alcím 3.9. pontját a 46/2016. (XII. 28.) EMMI rendelet 8. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1. melléklet B) pont 4. pontját a 43/2016. (XII. 27.) EMMI rendelet 38. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. melléklet B) alcím 6. pontját az 54/2016. (XII. 30.) EMMI rendelet 98. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^9]: Az 1. melléklet B) alcím 7. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával, nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 98. § (1) bekezdés a) pontjával megállapított szöveg.
+[^10]: Az 1. melléklet B) alcím 8. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet B) pont 8. pont 8.1. alpontját a 43/2016. (XII. 27.) EMMI rendelet 38. § a) pontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet B) pont 8. pont 8.2. alpontja a 43/2016. (XII. 27.) EMMI rendelet 38. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet B) alcím 9. pont 9.2. alpontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet B) alcím 11. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^15]: Az 1. melléklet B) alcím 12. pontját a 4/2016. (II. 22.) EMMI rendelet 1. §-a iktatta be.
+[^16]: Az 1. melléklet B) alcím 13. pontját a 46/2016. (XII. 28.) EMMI rendelet 6. §-a iktatta be.
+[^17]: Az 1. melléklet C) alcíme a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet C) alcím 1. pontját az 54/2016. (XII. 30.) EMMI rendelet 98. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^19]: Az 1. melléklet C) rész 2. pontját a 45/2016. (XII. 28.) EMMI rendelet 11. §-a hatályon kívül helyezte.
