@@ -4,10 +4,10 @@
 
 (2)[^18] Ha a pénzügyi intézmény a támogatás jogosulatlan igénybevételre utaló bizonyíték birtokába jut, a támogatottat írásban felszólítja a támogatás összegének az igénybevétel napjától számított, a Ptk. szerinti késedelmi kamattal növelten történő visszatérítése iránt. A visszatérítés iránti felhívást – annak eredménytelensége esetén – a pénzügyi intézmény legfeljebb egy alkalommal köteles megismételni. A felhívást oly módon kell közölni, hogy annak megtörténte bizonyítható legyen.
 
-(3)[^19] Ha a támogatott a pénzügyi intézmény kétszeri visszafizetési felszólításában foglaltaknak nem tesz eleget, és így a jogosulatlanul igénybevett támogatást részben vagy egészben nem fizeti vissza, a pénzügyi intézmény a támogatott támogatás iránti kérelmét, támogatásra való jogosultságáról szóló 10. § (1) bekezdése szerinti nyilatkozatát, a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésének másolatát, valamint az eredménytelen visszafizetési felszólítást igazoló iratokat megküldi a kormányhivatalnak.
+(3)[^19] Ha a támogatott a pénzügyi intézmény kétszeri visszafizetési felszólításában foglaltaknak nem tesz eleget, és így a jogosulatlanul igénybevett támogatást részben vagy egészben nem fizeti vissza, a pénzügyi intézmény a támogatott támogatás iránti kérelmét, támogatásra való jogosultságáról szóló 10. § (1) bekezdése szerinti nyilatkozatát, a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésének másolatát, valamint az eredménytelen visszafizetési felszólítást igazoló iratokat megküldi a járási hivatalnak.
 
-(4)[^20] A (3) bekezdés szerinti esetben a kormányhivatal a 13. § (2) bekezdésben foglaltak szerint intézkedik a jogosulatlanul igénybe vett támogatás visszafizetése érdekében.
+(4)[^20] A (3) bekezdés szerinti esetben a járási hivatal a 13. § (2) bekezdésben foglaltak szerint intézkedik a jogosulatlanul igénybe vett támogatás visszafizetése érdekében.
 
 [^18]: A 12. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
-[^19]: A 12. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés g) pontja szerint módosított szöveg.
-[^20]: A 12. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^19]: A 12. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 198. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^20]: A 12. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 198. § (3) bekezdés a) pontja szerint módosított szöveg.
