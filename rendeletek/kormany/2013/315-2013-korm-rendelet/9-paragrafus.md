@@ -1,12 +1,12 @@
-9. § (1) A vizsgaszervező a vizsgabizottság kijelölése és a központi kiadású feladatlapok biztosítása érdekében
+9. § (1)[^3] A vizsgaszervező a vizsgabizottság kijelölése és a központi kiadású feladatlapok biztosítása érdekében
 
 a) az iskolai rendszerű szakképzést követő vizsgára történő jelentkezések határidejét követő tizenöt napon belül, az október–novemberi vizsgaidőszak esetén öt napon belül,
 
 b) az iskolarendszeren kívüli szakképzést követő vizsga esetén a vizsga első vizsgatevékenységét megelőzően negyven naptári nappal
 
-## a vizsgát vizsgacsoportonként az állami szakképzési és felnőttképzési szervnek az erre a célra kialakított elektronikus felületén (a továbbiakban: elektronikus felület) jelenti be.
+## a vizsgát vizsgacsoportonként a szakképzési feladatot ellátó hatóságnak az erre a célra kialakított elektronikus felületén (a továbbiakban: elektronikus felület) jelenti be.
 
-(2) Az állami szakképzési és felnőttképzési szerv a vizsgaszervezési jogosultsággal vagy engedéllyel rendelkező vizsgaszervezők számára e rendelet hatálybalépését követő harminc napon belül biztosítja a vizsgabejelentéshez és az elektronikus adatközléshez szükséges jogosultságokat.
+(2)[^4] A szakképzési feladatot ellátó hatóság a vizsgaszervezési jogosultsággal vagy engedéllyel rendelkező vizsgaszervezők számára e rendelet hatálybalépését követő harminc napon belül biztosítja a vizsgabejelentéshez és az elektronikus adatközléshez szükséges jogosultságokat.
 
 (3) A vizsgabejelentésnek tartalmaznia kell:
 
@@ -41,3 +41,6 @@ f) a képzés megkezdésének időpontját és a képzés alapjául szolgáló s
 (6) Ha a képző intézmény által delegált vizsgabizottsági tag nem szerepel az országos szakképzési névjegyzéken, úgy a vizsgabejelentésben meg kell jelölni a végzettségét és a képzésben végzett szerepét.
 
 (7) A (4) bekezdés b) pontja szerinti létszámadatok a vizsga első vizsgatevékenységének időpontját megelőző tizenötödik napig egy alkalommal módosíthatók.
+
+[^3]: A 9. § (1) bekezdés záró szövegrésze a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 9. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.

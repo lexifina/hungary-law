@@ -1,4 +1,4 @@
-## tartalmazó összesítést küld az állami szakképzési és felnőttképzési szervnek.
+## tartalmazó összesítést küld a szakképzési feladatot ellátó hatóságnak.
 
 53. § (1) A megbízó legalább három nappal az ellenőrzés előtt értesítést küld a tervezett ellenőrzésről a vizsgaszervezőnek, kivéve, ha az veszélyezteti az eredményes ellenőrzést.
 

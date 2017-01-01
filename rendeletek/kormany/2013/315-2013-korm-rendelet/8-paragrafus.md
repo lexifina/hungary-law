@@ -1,8 +1,8 @@
 ## 5. A vizsga előkészítése
 
-8. § (1) A vizsgaszervező a vizsgacsoportokat részszakképesítésenként, szakképesítésenként vagy szakképesítés-ráépülésenként alakítja ki. Az iskolai rendszerű és az iskolarendszeren kívüli szakképzésben kialakított vizsgacsoport létszáma nem haladhatja meg a nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. mellékletében meghatározott szakközépiskolai maximális osztálylétszámot.
+8. § (1)[^1] A vizsgaszervező a vizsgacsoportokat részszakképesítésenként, szakképesítésenként vagy szakképesítés-ráépülésenként alakítja ki. Az iskolai rendszerű és az iskolarendszeren kívüli szakképzésben kialakított vizsgacsoport létszáma nem haladhatja meg a nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. mellékletében meghatározott szakgimnáziumi maximális osztálylétszámot.
 
-(2) Ha a vizsgaszervező a szakmai és vizsgakövetelményben meghatározottak szerinti kapcsolódó szakképesítések vagy az OKJ szerint azonos szakközépiskolai ágazatba sorolt szakképesítések tekintetében alakít ki vizsgacsoportokat, amelyek esetén teljesülnek a (3) bekezdésben foglalt további feltételek, úgy dönthet arról, hogy e vizsgacsoportok azonos vizsgaidőpontokban, egyetlen vizsgabizottság előtt tegyenek vizsgát (a továbbiakban: összevont vizsga).
+(2)[^2] Ha a vizsgaszervező a szakmai és vizsgakövetelményben meghatározottak szerinti kapcsolódó szakképesítések vagy az OKJ szerint azonos szakgimnáziumi ágazatba sorolt szakképesítések tekintetében alakít ki vizsgacsoportokat, amelyek esetén teljesülnek a (3) bekezdésben foglalt további feltételek, úgy dönthet arról, hogy e vizsgacsoportok azonos vizsgaidőpontokban, egyetlen vizsgabizottság előtt tegyenek vizsgát (a továbbiakban: összevont vizsga).
 
 (3) Összevont vizsga esetén
 
@@ -15,3 +15,6 @@ c) az összevonásban érintett szakképesítések nem szerepelhetnek a szakkép
 (4) Az összevont vizsga szervezésének igényét a vizsgabejelentésben külön fel kell tüntetni.
 
 (5) Az összevont vizsgának csak az időpontja és helyszíne lehet azonos, a vizsgatevékenységek végrehajtását, a vizsgadokumentumok vezetését az összevont vizsga esetén is elkülönülten, vizsgacsoportonként kell végezni.
+
+[^1]: A 8. § (1) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 8. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.

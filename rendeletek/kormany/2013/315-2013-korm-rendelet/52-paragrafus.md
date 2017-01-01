@@ -18,7 +18,7 @@ b) a vizsgaszervező által biztosított tárgyi feltételek minőségének, meg
 
 (5) A szakmai ellenőrzésre felkért személyt (a továbbiakban: ellenőrzést végző szakértő) a szakképesítésért felelős miniszter, vagy – felhatalmazása alapján – az általa irányított költségvetési szerv vezetője (a továbbiakban: megbízó) írásban bízza meg.
 
-(6) Az ellenőrzést végző szerv a vizsgák szakmai ellenőrzéséről évente
+(6)[^31] Az ellenőrzést végző szerv a vizsgák szakmai ellenőrzéséről évente
 
 a) az ellenőrzés helyszínét, időpontját,
 
@@ -27,3 +27,5 @@ b) az ellenőrzött vizsgán megszerezhető szakképesítést,
 c) a vizsgaszervező, a vizsgaelnök és a vizsgabizottság tagjainak nevét, valamint
 
 d) az ellenőrzés eredményének rövid, lényegi megállapítását
+
+[^31]: Az 52. § (6) bekezdés záró szövegrésze a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.

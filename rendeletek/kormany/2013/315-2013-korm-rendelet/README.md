@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-315-20-
 | 2014-12-15 | 2013-315-20-22.5 | 318/2014. (XII. 13.) Korm. rendelet |
 | 2015-07-01 | 2013-315-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-07-02 | 2013-315-20-22.7 | 2010: CXXX. törvény |
+| 2017-01-01 | 2013-315-20-22.8 | 473/2016. (XII. 27.) Korm. rendelet |

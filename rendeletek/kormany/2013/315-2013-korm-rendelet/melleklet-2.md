@@ -1,4 +1,4 @@
-## Állami szakképzési és felnőttképzési szerv vizsgaazonosító: ………../……..
+## Szakképzési feladatot ellátó hatóság vizsgaazonosító: ………../……..
 
 ## TÖRZSLAP
 
@@ -30,7 +30,7 @@
 
 | A vizsga jegyzője | A vizsgaszervező intézmény vezetője |
 
-## A törzslap az állami szakképzési és felnőttképzési szerv Országos Törzslapnyilvántartó Rendszeréből került kinyomtatásra. A törzslap a fentiek szerinti vizsgán a vizsgabizottság előtt vizsgázók vizsgaszervező intézmény által rögzített adatait és eredményeit tartalmazza. A törzslap adatai a kinyomtatott és hitelesített példány elküldését követően nem módosíthatók.
+## A törzslap a szakképzési feladatot ellátó hatóság Országos Törzslapnyilvántartó Rendszeréből került kinyomtatásra. A törzslap a fentiek szerinti vizsgán a vizsgabizottság előtt vizsgázók vizsgaszervező intézmény által rögzített adatait és eredményeit tartalmazza. A törzslap adatai a kinyomtatott és hitelesített példány elküldését követően nem módosíthatók.
 
 ## Hitelesítve:
 
