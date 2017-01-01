@@ -2,7 +2,7 @@
 
 1.
 
-2. a minisztériumban és – a Központi Statisztikai Hivatal területi szervezeti egységei és a Nemzeti Adó- és Vámhivatal kivételével – a költségvetési fejezetet irányító más szervnél,
+2. a minisztériumban és – a Nemzeti Adó- és Vámhivatal kivételével – a költségvetési fejezetet irányító más szervnél,
 
 3. az államháztartásról szóló törvény alapján kijelölt kormányzati ellenőrzési szervnél,
 
@@ -12,9 +12,9 @@
 
 6. a Nemzeti Földalapkezelő Szervezetnél,
 
-7. – a területi szervezeti egységei kivételével – a mezőgazdasági és vidékfejlesztési támogatási szervnél,
+7.
 
-8. a földmérési és térinformatikai államigazgatási szervnél,
+8.
 
 9. az államháztartásért felelős miniszter irányítása alatt álló, egyes európai támogatásokat auditáló szervnél,
 
@@ -24,18 +24,18 @@
 
 12. jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél,
 
-13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatalnál,
+13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a központi nyugdíjbiztosítási szervnél,
 
 14.
 
 15.
 
-16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál
+16.
 
 foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a nyugdíjfolyósító szervnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(3) A központi államigazgatási szerv legalább megyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségügyről szóló törvény szerinti egészségbiztosítási szerv legalább megyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a érettségi végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+(3) A központi államigazgatási szerv legalább megyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségbiztosítási szerv legalább megyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a érettségi végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
-(4) A (3) bekezdésben felsorolt államigazgatási szerv, továbbá a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) szintű, valamint az egészségügyről szóló törvény szerinti egészségbiztosítási szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal legalább helyi szintű belső szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+(4) A (3) bekezdésben felsorolt államigazgatási szerv, továbbá a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) szintű szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.

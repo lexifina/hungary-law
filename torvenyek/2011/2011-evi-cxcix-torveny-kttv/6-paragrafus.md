@@ -2,7 +2,7 @@
 
 1. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, áthelyezés, fegyelmi és kártérítési eljárás, valamint sérelemdíj megfizetésére irányuló eljárás megindítása, fegyelmi büntetés, kártérítés, sérelemdíj, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
 
-1a. állami tisztviselő: a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál az állami tisztviselőkről szóló törvény szerinti jogviszonyban álló személy;
+1a. állami tisztviselő: a fővárosi és megyei kormányhivatalnál az állami tisztviselőkről szóló törvény szerinti jogviszonyban álló személy;
 
 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 
@@ -40,7 +40,7 @@
 
 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés b) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
 
-17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek;
+17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és megyei kormányhivatal;
 
 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 

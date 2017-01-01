@@ -1,1 +1,1 @@
-138. § Integrált ügyfélszolgálati pótlékra jogosult az a kormánytisztviselő, aki a fővárosi és megyei kormányhivatalban, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalán belül működő integrált ügyfélszolgálati feladatok ellátásával összefüggő munkakört tölt be. A pótlék mértéke az alapilletmény 20%-a.
+### 138. §

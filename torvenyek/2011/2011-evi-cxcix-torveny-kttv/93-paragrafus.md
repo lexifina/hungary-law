@@ -2,7 +2,7 @@
 
 93. § (1) Munkaszüneti nap: január 1., március 15., húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
 
-(2) A Közszolgálati Tisztviselők Napja július 1-je, amely az (1) bekezdésben foglaltakon túl szintén munkaszüneti nap.
+(2) A helyi önkormányzat képviselő-testülete a 232/A. §-ban foglaltak szerint egy további munkaszüneti napot állapíthat meg.
 
 (3) Munkaszüneti napra rendes munkaidő
 

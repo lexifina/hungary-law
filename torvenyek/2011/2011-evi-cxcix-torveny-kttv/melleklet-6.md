@@ -27,3 +27,17 @@
 ## 3. anyja születési családi és utóneve
 
 ## 4. fényképe
+
+## II.
+
+## 1. a kormánytisztviselő lakóhelye, lakáscíme, tartózkodási helye, telefonszáma
+
+## 2. az alkalmazó államigazgatási szerv neve, székhelye, statisztikai számjele
+
+## 3. e szervnél a kormányzati szolgálati jogviszony kezdete
+
+## 4. a kormánytisztviselő jelenlegi munkaköre (pártfogó felügyelői, jogi segítségnyújtási, vagy áldozatsegítési szakreferens)
+
+## 5. a kormánytisztviselő munkából való távollétének jogcíme és időtartama
+
+## 6. a kormányzati szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja

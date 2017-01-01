@@ -6,7 +6,7 @@ a) a cím adományozását megelőző tíz évben folyamatosan jegyzői tisztsé
 
 b) legmagasabb fokozatú minősítést kap.
 
-A cím adományozására minden évben a Közszolgálati Tisztviselők Napja alkalmából kerül sor.
+A cím adományozására minden évben július 1-je alkalmából kerül sor.
 
 (2) A címzetes főjegyzői cím adományozását a képviselő-testület a megyei, illetve a fővárosi kormányhivatal útján kezdeményezheti, amely a javaslatot köteles a saját és a jegyzői szakmai érdek-képviseleti szerv véleményével ellátva a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterhez felterjeszteni. Ha a cím adományozását a megyei, illetve a fővárosi kormányhivatal kezdeményezi, ki kell kérnie a képviselő-testület, illetve a jegyzői szakmai érdek-képviseleti szerv véleményét. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a beérkezett javaslatokról kikéri a helyi önkormányzatokért felelős miniszter véleményét. Ezt követően a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter terjeszti fel a miniszterelnöknek a javaslatokat a címzetes főjegyzői cím adományozására.
 

@@ -20,7 +20,7 @@ a) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII
 
 b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 
-c) a hivatásos szolgálati jogviszony időtartamát, továbbá
+c) a hivatásos szolgálati jogviszony, tiszti és altiszti katonai szolgálati jogviszony időtartamát, továbbá
 
 d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
 
