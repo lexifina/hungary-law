@@ -28,10 +28,12 @@ l) a szakmai kamarákra,
 
 m) a személyi adat- és lakcímnyilvántartást vezető szervekre,
 
-n) az elhalálozás tényét bejelentő népegészségügyi szakigazgatási szervre és
+n)[^4] az elhalálozás tényét bejelentő fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalára és
 
-o) az Országos Egészségbiztosítási Pénztárra
+o)[^5] a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK)
 
 [^1]: Az 1. §-t megelőző alcím az 51/2008. (XII. 31.) EüM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § az 57/2011. (IX. 29.) NEFMI rendelet 4. §-ával megállapított szöveg.
 [^3]: Az 1. § g) pontját a 2/2013. (I. 2.) EMMI rendelet 9. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § n) pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § o) pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (1) bekezdésével megállapított szöveg.
