@@ -32,6 +32,6 @@ d) a felülvizsgált ajánlások megerősítése.
 
 (7) Ha az egészségügyi szakmai irányelv az érvényességi idő lejártáig nem kerül felülvizsgálatra, automatikusan érvényét veszti.
 
-(8)[^15] Az egészségügyi szakmai irányelv érvénytelenné válásáról az OBDK tájékoztatja az OEP-et.
+(8)[^17] Az egészségügyi szakmai irányelv érvénytelenné válásáról a miniszter tájékoztatja a NEAK-ot.
 
-[^15]: A 10. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 147. § a) pontja szerint módosított szöveg.
+[^17]: A 10. § (8) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 90. § (2) bekezdés g) pontja szerint módosított szöveg.
