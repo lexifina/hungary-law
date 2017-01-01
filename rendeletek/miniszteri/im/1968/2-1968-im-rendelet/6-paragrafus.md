@@ -1,8 +1,8 @@
-6. § (1)[^20]
+6. § (1)[^21]
 
-(2)[^21] A nyomtatványt a fél a bíróságnál szerezheti be.
+(2)[^22] A nyomtatványt a fél a bíróságnál szerezheti be vagy a bíróságok központi internetes honlapjáról töltheti le.
 
 (3) A nyomtatványon kiállított nyilatkozatot és igazolásokat az első igazolás kiállításától számított hat hónapon belül lehet felhasználni.
 
-[^20]: A 6. § (1) bekezdését a 6/1986. (VI. 26.) IM rendelet 18. §-ának (2) bekezdése hatályon kívül helyezte.
-[^21]: A 6. § (2) bekezdése a 16/1995. (VII. 25.) IM rendelet 6. §-a (2) bekezdésének b) pontja szerint módosított szöveg, e módosító rendelet 6. § (1) bekezdése alapján a rendelkezést az 1995. szeptember 1-jét követően előterjesztett költségmentesség vagy illetékfeljegyzési jog engedélyezése iránti kérelem esetében kell alkalmazni.
+[^21]: A 6. § (1) bekezdését a 6/1986. (VI. 26.) IM rendelet 18. §-ának (2) bekezdése hatályon kívül helyezte.
+[^22]: A 6. § (2) bekezdése a 29/2016. (XII. 27.) IM rendelet 1. §-ával megállapított szöveg.

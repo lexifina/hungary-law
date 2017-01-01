@@ -32,6 +32,6 @@
 
 ## * A megfelelő szót alá kell húzni!
 
-3. számú melléklet a 2/1968. (I. 24.) IM rendelethez[^29]
+3. számú melléklet a 2/1968. (I. 24.) IM rendelethez[^30]
 
-[^29]: A 3. számú melléklet a 16/1995. (VII. 25.) IM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit az 1995. szeptember 1-jét követően előterjesztett költségmentesség vagy illetékfeljegyzési jog engedélyezése iránti kérelem esetében kell alkalmazni.
+[^30]: A 3. számú melléklet a 16/1995. (VII. 25.) IM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit az 1995. szeptember 1-jét követően előterjesztett költségmentesség vagy illetékfeljegyzési jog engedélyezése iránti kérelem esetében kell alkalmazni.
