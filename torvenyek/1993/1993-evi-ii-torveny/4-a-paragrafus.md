@@ -1,6 +1,6 @@
-4/A. § (1) Ha a mezőgazdasági igazgatási szerv tudomására jut, hogy a földkiadó bizottság feladatai ellátását a törvényben meghatározott határidőben nem kezdi meg, vagy nem e törvény rendelkezései szerint jár el, illetőleg bármely más okból nem működik, haladéktalanul a részarány-földtulajdonosok közgyűlésének összehívását kezdeményezi a járási hivatalnál.
+4/A. § (1) Ha a mezőgazdasági igazgatási szerv tudomására jut, hogy a földkiadó bizottság feladatai ellátását a törvényben meghatározott határidőben nem kezdi meg, vagy nem e törvény rendelkezései szerint jár el, illetőleg bármely más okból nem működik, haladéktalanul a részarány-földtulajdonosok közgyűlésének összehívását kezdeményezi az ingatlanügyi hatóságnál.
 
-(2) A járási hivatal a részarány-földtulajdonosok közgyűlését a mezőgazdasági igazgatási szerv megkeresésétől számított 15 napon belül a 3. §-ban meghatározott módon összehívja. Az így összehívott közgyűlés a megjelentek számára tekintet nélkül határozatképes. Határozatait szótöbbséggel hozza.
+(2) Az ingatlanügyi hatóság a részarány-földtulajdonosok közgyűlését a mezőgazdasági igazgatási szerv megkeresésétől számított 15 napon belül a 3. §-ban meghatározott módon összehívja. Az így összehívott közgyűlés a megjelentek számára tekintet nélkül határozatképes. Határozatait szótöbbséggel hozza.
 
 (3) A (2) bekezdés szerinti közgyűlés
 
