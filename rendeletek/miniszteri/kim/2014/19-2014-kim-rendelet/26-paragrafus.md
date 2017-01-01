@@ -1,6 +1,6 @@
 ## 25. § A letét őrzésének megszüntetését követően a letét a MOKK-ot illeti.
 
-26. § (1)[^2] A letét őrzésének megszüntetését követően a 11. §-ban megjelölt tárgyletét végleges elhelyezéséről az Iroda intézkedik.
+26. § (1)[^2] A letét őrzésének megszüntetését követően a 11. §-ban megjelölt tárgyletét végleges elhelyezéséről a kulturális javak hatósága intézkedik.
 
 (2) Az (1) bekezdés alá nem eső tárgyak közül:
 
@@ -16,4 +16,4 @@ bc) egyéb tárgyakat a tárgyak forgalomba hozatalával, feldolgozásával, ill
 
 (3) A közjegyzői levéltárban elhelyezett okirat 100 év elteltével selejtezhető.
 
-[^2]: A 26. § (1) bekezdése a 28/2014. (IV. 24.) KIM rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^2]: A 26. § (1) bekezdése a 26/2016. (XII. 27.) IM rendelet 18. § b) pontja szerint módosított szöveg.
