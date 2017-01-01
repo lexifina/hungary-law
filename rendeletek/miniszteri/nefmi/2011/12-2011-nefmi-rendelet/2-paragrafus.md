@@ -6,10 +6,10 @@
 
 (3a)[^7] A (3) bekezdés szerinti ülések személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével is megtarthatók, ha az ülésen részt vevők azonosítása és közöttük a kölcsönös és korlátozásmentes kommunikáció biztosítható. Az elektronikus hírközlő eszköz közvetítésével tartott ülésen elhangzottakat és a meghozott döntéseket úgy kell rögzíteni, hogy azok a keletkezésüktől számított legalább 4 évig ellenőrizhetőek legyenek.
 
-(4)[^8] A tagozatok és a tanácsok évente, minden év február 1-jéig szakmai beszámolót készítenek, amelyet a szakmai kollégium honlapján a szakmai kollégium, a tagozatok és a tanácsok tagjai, valamint a miniszter, az ÁEEK és az Országos Egészségbiztosítási Pénztár részére hozzáférhetővé tesznek. A szakmai kollégium évente, minden év március 1-jéig összesített szakmai beszámolót készít a miniszter részére.
+(4)[^8] A tagozatok és a tanácsok évente, minden év február 1-jéig szakmai beszámolót készítenek, amelyet a szakmai kollégium honlapján a szakmai kollégium, a tagozatok és a tanácsok tagjai, valamint a miniszter, az ÁEEK és a Nemzeti Egészségbiztosítási Alapkezelő részére hozzáférhetővé tesznek. A szakmai kollégium évente, minden év március 1-jéig összesített szakmai beszámolót készít a miniszter részére.
 
 [^4]: A 2. § (1) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 38. §-ával megállapított szöveg.
 [^5]: A 2. § (2) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 44. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (3) bekezdése a 44/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 123. § c) pontja, az 54/2015. (XI. 24.) EMMI rendelet 44. § c) pontja szerint módosított szöveg.
 [^7]: A 2. § (3a) bekezdését a 44/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^8]: A 2. § (4) bekezdése a 44/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 123. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdése a 44/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 123. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 77. §-a szerint módosított szöveg.
