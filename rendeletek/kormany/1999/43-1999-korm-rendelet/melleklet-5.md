@@ -4,7 +4,7 @@
 
 ## (199... év …………………......... hótól 199... év ……………….......... hóig)
 
-## Szolgáltató OEP kódja: ⬜⬜⬜⬜
+## Szolgáltató NEAK kódja: ⬜⬜⬜⬜
 
 ## Szolgáltató neve:
 
@@ -28,6 +28,6 @@
 
 | szolgáltató (működtető) | háziorvos |
 
-5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^577]
+5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^598]
 
-[^577]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 329/2016. (X. 28.) Korm. rendelet 1. §-ával megállapított, a 388/2016. (XII. 2.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^598]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 464/2016. (XII. 23.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

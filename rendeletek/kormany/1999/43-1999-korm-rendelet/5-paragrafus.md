@@ -1,4 +1,4 @@
-## 4/B. §[^40] Az OEP a szolgáltatók által az országos várólista nyilvántartásban – a várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet szerint – regisztrált adatok és a fekvőbeteg szakellátás teljesítmény-elszámolási adatai között minden tárgyhónapot követő 20. napig (a továbbiakban: egyeztetési időpont) elszámolási egyeztetést végez. Ennek során az OEP a várólista nyilvántartási tételeket a tárgyhónap utolsó napjának vége szerinti státusz alapján vizsgálja, azzal, hogy az adatokban a tárgyhónapot követő 20. nap végéig elvégzett adathiba javításokat és adathiány pótlásokat is figyelembe kell venni az 5/A. § szerinti eljárások során.
+## 4/B. §[^40] A NEAK a szolgáltatók által az országos várólista nyilvántartásban – a várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet szerint – regisztrált adatok és a fekvőbeteg szakellátás teljesítmény-elszámolási adatai között minden tárgyhónapot követő 20. napig (a továbbiakban: egyeztetési időpont) elszámolási egyeztetést végez. Ennek során a NEAK a várólista nyilvántartási tételeket a tárgyhónap utolsó napjának vége szerinti státusz alapján vizsgálja, azzal, hogy az adatokban a tárgyhónapot követő 20. nap végéig elvégzett adathiba javításokat és adathiány pótlásokat is figyelembe kell venni az 5/A. § szerinti eljárások során.
 
 5. §[^41] (1) A szolgáltató a finanszírozó által formailag és tartalmilag hibátlannak talált teljesítményjelentésére vonatkozó javított elszámolási igényét – javító jelentésként – legfeljebb a teljesítés hónapját követő második hónap 5. munkanapjáig küldheti meg.
 
@@ -20,7 +20,8 @@ b) a fekvőbeteg-szakellátást igénybe vevő adatai azonos ellátási napon eg
 
 (8) Az (1)–(3) és a (6) bekezdés szerinti ellátások finanszírozása az ellátás elszámolásakor érvényben lévő díj szerint történik.
 
-(9) Ha a szolgáltató a teljesítményét nem számolta el határidőre, az OEP évente legfeljebb két ízben – utólagos elszámolás mellett – előleget folyósít a szolgáltató kérelmére, amelynek összege legfeljebb a tárgyévet megelőző évi teljesítménydíj egyhavi átlagának egyharmada lehet.
+(9)[^42] Ha a szolgáltató a teljesítményét nem számolta el határidőre, a NEAK évente legfeljebb két ízben – utólagos elszámolás mellett – előleget folyósít a szolgáltató kérelmére, amelynek összege legfeljebb a tárgyévet megelőző évi teljesítménydíj egyhavi átlagának egyharmada lehet.
 
-[^40]: A 4/B. §-t újonnan a 254/2013. (VII. 5.) Korm. rendelet 21. §-a iktatta be.
+[^40]: A 4/B. §-t újonnan a 254/2013. (VII. 5.) Korm. rendelet 21. §-a iktatta be, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. és 5. pontja szerint módosított szöveg.
 [^41]: Az 5. § a 172/2016. (VII. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^42]: Az 5. § (9) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-## A)[^573]
+## A)[^593]
 
 ## VÁLTOZÁSJELENTÉS A BEJELENTKEZETT BIZTOSÍTOTTAK NYILVÁNTARTÁSÁRÓL
 
 | Jelentési időszak: 199... év ................................... hó |  |
 
-| Szolgáltató OEP kódja: ⬜⬜⬜⬜ |  |
+| Szolgáltató NEAK kódja: ⬜⬜⬜⬜ |  |
 
 | Szolgáltató neve: |  |
 
@@ -48,13 +48,13 @@
 
 |  | szolgáltató (működtető) | háziorvos |
 
-## B)[^574]
+## B)[^594]
 
-3. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^575]
+3. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^595]
 
 ## Degresszió alkalmazása a teljesítménydíj-fizetés alapjául szolgáló pontszám megállapításánál
 
-A)[^576] Háziorvosi ellátás
+A)[^596] Háziorvosi ellátás
 
 Amennyiben a tárgyhónapban készített összesítő jelentés szerinti biztosítottak utáni korcsoportonkénti pontszám összege a 2400 (vegyes praxisnál a 2600) pontot meghaladja, a díjfizetés alapjául szolgáló pontszámot az alábbi képlet, illetve táblázat alapján kell meghatározni:
 
@@ -310,7 +310,7 @@ DEGRESSZIÓS TÁBLÁZAT
 
 | 5900 | 3916,6 | 3919,9 | 3923,3 | 3926,6 | 3929,9 | 3933,2 | 3936,5 | 3939,8 | 3943,1 | 3946,4 | 0,3 |
 
-[^573]: A 2. számú melléklet A) pontja a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének e) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
-[^574]: A 2. számú melléklet B) pontját a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte.
-[^575]: A 3. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdése, illetve 1. számú melléklete szerint kiegészített szöveg.
-[^576]: A 3. számú melléklet A) részének felvezető mondata a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése és a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^593]: A 2. számú melléklet A) pontja a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének e) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
+[^594]: A 2. számú melléklet B) pontját a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte.
+[^595]: A 3. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdése, illetve 1. számú melléklete szerint kiegészített szöveg.
+[^596]: A 3. számú melléklet A) részének felvezető mondata a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése és a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.

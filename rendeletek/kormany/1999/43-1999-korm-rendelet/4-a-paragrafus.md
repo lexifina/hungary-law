@@ -18,7 +18,7 @@ d)[^36] a fogászati alapellátást nyújtó szolgáltató díjazásából az ad
 
 (5)[^38] A járóbeteg-szakellátást, illetve fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a Vhr. 12/B. §-ában előírt ellenőrzési kötelezettség teljesítése esetén ellátási esetenként 50 forint ellenőrzési díjra jogosult. A díjazás szempontjából egy ellátási esetnek minősül járóbeteg-szakellátás esetében egy biztosított egy egészségügyi szolgáltatónál egy napon történt ellátása, fekvőbeteg-szakellátás esetében ápolási esetenként az ellenőrzés elvégzésére a Vhr. 12/B. §-ában meghatározott nap.
 
-(6)[^39] Az OEP a (4) és (5) bekezdésben meghatározott ellenőrzési díjat a 6. § (3) bekezdése szerint utalványozza.
+(6)[^39] A NEAK a (4) és (5) bekezdésben meghatározott ellenőrzési díjat a 6. § (3) bekezdése szerint utalványozza.
 
 [^33]: A 4/A. §-t a 35/2007. (III. 7.) Korm. rendelet 2. §-a iktatta be. A § eredeti szövegének számozását a 312/2007. (XI. 17.) Korm. rendelet 1. §-a (1) bekezdésre változtatta, szövege a 365/2010. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^34]: A 4/A. § újabb (2) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
@@ -26,4 +26,4 @@ d)[^36] a fogászati alapellátást nyújtó szolgáltató díjazásából az ad
 [^36]: A 4/A. § (3) bekezdés d) pontja a 365/2010. (XII. 30.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
 [^37]: A 4/A. § (4) bekezdését a 151/2008. (V. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 11. § (3) bekezdése alapján a 4/A. § (4) bekezdésében meghatározott jogviszony-ellenőrzési díjra a szolgáltató 2008. január 1-jétől jogosult, amelyet az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) első alkalommal 2008 júniusában utalványoz. Lásd még e módosító rendelet 11. § (6) bekezdését.
 [^38]: A 4/A. § (5) bekezdését a 193/2008. (VII. 31.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 10. § – 283/2008. (XI. 28.) Korm. rendelet 8. § (6) bekezdés a) pontja szerint módosított – (6) bekezdése alapján a rendelkezést a 2008. szeptemberben esedékes kifizetésektől kell alkalmazni.
-[^39]: A 4/A. § (6) bekezdését a 193/2008. (VII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A 4/A. § (6) bekezdését a 193/2008. (VII. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 1. §[^2] E rendelet hatálya az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP) mint finanszírozóra, valamint a finanszírozóval az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott egészségügyi szolgáltatás nyújtására szerződött egészségügyi szolgáltatókra terjed ki.
+## 1. §[^2] E rendelet hatálya a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK) mint finanszírozóra, valamint a finanszírozóval az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott egészségügyi szolgáltatás nyújtására szerződött egészségügyi szolgáltatókra terjed ki.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -42,7 +42,7 @@ q)[^17] rehabilitációs ellátási program: az Egészségügyi Szakmai Kollégi
 
 r)[^18] rehabilitációs ellátási program szerinti nappali ellátás: rehabilitációs ellátási program alapján végzett olyan nappali ellátás, amelyet az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendeletben (a továbbiakban: R.) meghatározott finanszírozási paraméterek és elszámolhatósági szabályok szerint végeznek.
 
-[^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § b) pontja a 293/2002. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § c) pontja a 137/2012. (VI. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^5]: A 2. § d) pontja a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (4) bekezdése szerint módosított szöveg.

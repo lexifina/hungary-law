@@ -1,26 +1,26 @@
 ## Fekvőbeteg-szakellátás finanszírozása
 
-36. § (1)[^415] Fekvőbeteg-szakellátás klinikán, kórházban, szakápolási intézményben, valamint fekvőbeteg-ellátást nyújtó országos intézetben (a továbbiakban együtt: intézmény) végzett minden ellátási esemény, amelynek során a biztosítottat az intézménybe felvették, és ott legalább 24 órán keresztül – nappali kórházi ellátás esetén legalább 6 órán keresztül – tartózkodik.
+36. § (1)[^430] Fekvőbeteg-szakellátás klinikán, kórházban, szakápolási intézményben, valamint fekvőbeteg-ellátást nyújtó országos intézetben (a továbbiakban együtt: intézmény) végzett minden ellátási esemény, amelynek során a biztosítottat az intézménybe felvették, és ott legalább 24 órán keresztül – nappali kórházi ellátás esetén legalább 6 órán keresztül – tartózkodik.
 
-(2)[^416] Az (1) bekezdésben foglaltakon túl, jelentés és finanszírozás szempontjából fekvőbeteg-ellátási esetnek minősül a fekvőbeteg-intézményben ellátott biztosított részére
+(2)[^431] Az (1) bekezdésben foglaltakon túl, jelentés és finanszírozás szempontjából fekvőbeteg-ellátási esetnek minősül a fekvőbeteg-intézményben ellátott biztosított részére
 
 a) a 0 alsó határnapú HBCs szerinti ellátás,
 
 b) a sürgősségi betegellátásra vonatkozó szabályok szerint nyújtott, 6–24 órás ellátás,
 
-c)[^417] az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátás keretében végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálata,
+c)[^432] az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátás keretében végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálata,
 
 d) a 24 órán belül más intézetbe áthelyezett újszülöttek, továbbá
 
 e) az osztályra történő felvételt követően 24 órán belül meghalt személyek részére nyújtott ellátás is.
 
-(3)[^418] Az (1)–(2) bekezdésben foglaltakon túl jelentés és finanszírozás szempontjából fekvőbeteg-ellátási esetnek minősül
+(3)[^433] Az (1)–(2) bekezdésben foglaltakon túl jelentés és finanszírozás szempontjából fekvőbeteg-ellátási esetnek minősül
 
 a) a biztosított részére az R.-ben meghatározott intézményben nyújtott – az R. 9. számú mellékletében meghatározott – beavatkozás, amennyiben a beteget a felvétel napján, de legkésőbb 24 órán belül hazabocsátották (egynapos beavatkozás), valamint
 
 b) az R.-ben meghatározott rehabilitációs ellátási program szerinti nappali ellátás.
 
-(4)[^419] Fekvőbeteg-szakellátás esetén minden osztályos ápolási esetről a 14. számú melléklet szerinti Adatlapot kell felvenni. Az Adatlapon – a zárójelentéssel azonos adattartalommal – kell feltüntetni
+(4)[^434] Fekvőbeteg-szakellátás esetén minden osztályos ápolási esetről a 14. számú melléklet szerinti Adatlapot kell felvenni. Az Adatlapon – a zárójelentéssel azonos adattartalommal – kell feltüntetni
 
 a) az intézmény és az ellátó osztály, valamint a beküldő kódját;
 
@@ -38,7 +38,7 @@ g) a kórházból történő távozás módját;
 
 h) a tételes elszámolás alá eső eszközök megnevezését és kódját, továbbá az Adatlapon feltüntetett kiegészítő adatokat.
 
-(5)[^420] Az ápolást indokoló fődiagnózisnak azt a diagnózist kell feltüntetni, amely az intézményi (osztályos) kezelést meghatározta, amelyhez az ellátási eset kapcsán nyújtott szolgáltatások tartoznak. Nem tüntethető fel olyan diagnózis ápolást indokló fődiagnózisként
+(5)[^435] Az ápolást indokoló fődiagnózisnak azt a diagnózist kell feltüntetni, amely az intézményi (osztályos) kezelést meghatározta, amelyhez az ellátási eset kapcsán nyújtott szolgáltatások tartoznak. Nem tüntethető fel olyan diagnózis ápolást indokló fődiagnózisként
 
 a) amelyet a betegnél nem állapítottak meg,
 
@@ -46,12 +46,12 @@ b) amely kezeléséhez szükséges feltételekkel az egészségügyi szolgálat 
 
 c) amelyet megállapítottak, de a kezelést alapvetően nem ez határozta meg.
 
-(6)[^421] A rehabilitációs ellátást végző szervezeti egységek által nyújtott ellátásokat – ide nem értve a rehabilitációs ellátási program szerinti nappali ellátásokat – az OEP honlapján közzétett kitöltési útmutató szerint kell jelenteni.
+(6)[^436] A rehabilitációs ellátást végző szervezeti egységek által nyújtott ellátásokat – ide nem értve a rehabilitációs ellátási program szerinti nappali ellátásokat – a NEAK honlapján közzétett kitöltési útmutató szerint kell jelenteni.
 
-[^415]: A 36. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 29. § e) pontja szerint módosított szöveg.
-[^416]: A 36. § (2) bekezdése a 21/2000. (III. 3.) Korm. rendelet 21. §-ának (1) bekezdésével megállapított szöveg.
-[^417]: A 36. § (2) bekezdésének c) pontját a 29/2001. (III. 2.) Korm. rendelet 22. §-a (6) bekezdésének f) pontja hatályon kívül helyezte, újonnan a 73/2011. (IV. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^418]: A 36. § új (3) bekezdését a 29/2001. (III. 2.) Korm. rendelet 15. §-a iktatta be, szövege a 227/2011. (X. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^419]: A 36. § eredeti (3) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (4) bekezdésre változtatta.
-[^420]: A 36. § eredeti (4) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (5) bekezdésre változtatta.
-[^421]: A 36. § eredeti (5) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (6) bekezdésre változtatta. A 36. § (6) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 25. § (5) bekezdése hatályon kívül helyezte, újonnan a 364/2014. (XII. 30.) Korm. rendelet 33. §-a iktatta be.
+[^430]: A 36. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 29. § e) pontja szerint módosított szöveg.
+[^431]: A 36. § (2) bekezdése a 21/2000. (III. 3.) Korm. rendelet 21. §-ának (1) bekezdésével megállapított szöveg.
+[^432]: A 36. § (2) bekezdésének c) pontját a 29/2001. (III. 2.) Korm. rendelet 22. §-a (6) bekezdésének f) pontja hatályon kívül helyezte, újonnan a 73/2011. (IV. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^433]: A 36. § új (3) bekezdését a 29/2001. (III. 2.) Korm. rendelet 15. §-a iktatta be, szövege a 227/2011. (X. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^434]: A 36. § eredeti (3) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (4) bekezdésre változtatta.
+[^435]: A 36. § eredeti (4) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (5) bekezdésre változtatta.
+[^436]: A 36. § (6) bekezdését újonnan a 364/2014. (XII. 30.) Korm. rendelet 33. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.

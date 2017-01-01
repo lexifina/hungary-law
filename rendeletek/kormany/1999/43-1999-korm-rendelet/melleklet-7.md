@@ -66,7 +66,7 @@
 
 ## 0 = élsportoló speciális ellátása
 
-| Szolgáltató OEP kódja: ....................................................................... | Szolgáltató neve: ....................................................................... |
+| Szolgáltató NEAK kódja: ....................................................................... | Szolgáltató neve: ....................................................................... |
 
 ## Havi jelentés a fogászati rendelés teljesítményeiről
 
@@ -122,13 +122,13 @@
 
 ## 23 keresőképtelenség (kezdete-vége) dátuma
 
-## 24 az OEP hibaszűrése miatt kizárt hiba kódja
+## 24 a NEAK hibaszűrése miatt kizárt hiba kódja
 
 ## A file nevét az alábbi szabályok szerint kell képezni:
 
 ## 1 „F”
 
-## 2–5 „a működtető négyjegyű OEP kódja”
+## 2–5 „a működtető négyjegyű NEAK kódja”
 
 ## 6–7 „a hónap sorszáma”
 
@@ -150,9 +150,9 @@ A finanszírozás módja szerint aktív ellátásnak minősül az az ellátás, 
 
 A finanszírozás módja szerint krónikus ellátásnak minősül az, amelynek célja az egészségi állapot stabilizálása, fenntartása, illetve helyreállítása. Az ellátás időtartama, illetve befejezése általában nem tervezhető, és jellemzően hosszú időtartamú.
 
-3.[^580] Mátrix kórházi ellátás
+3.[^601] Mátrix kórházi ellátás
 
-A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^581]
+A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^602]
 
-[^580]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^581]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
+[^601]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^602]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
