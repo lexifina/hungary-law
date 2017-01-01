@@ -1,16 +1,14 @@
-## 3. § A kockázati biztosítási szolgáltatás kizárólag a szerződési feltételek szerinti kötelezően választandó biztosítási kockázatokra terjed ki. Minden olyan kockázat opcionálisnak tekintendő, és így a biztosítónak nem kell beszámítania a TKM értékébe, melyet a feltétel és az ajánlat nem tesz kötelezővé, azaz amely nélkül az ajánlat felvehető.
-
 4. § (1) A biztosítási díj:
 
 a) a rendszeres díjas életbiztosítások esetében
 
-aa) az 1. és 2. melléklet vonatkozásában évi 210 000 forint,
+aa)[^4]
 
 ab) a 3. melléklet vonatkozásában havi 25 000 forint,
 
 b) az egyszeri díjas életbiztosítások esetében
 
-ba) az 1. és 2. melléklet vonatkozásában 2 200 000 forint,
+ba)[^5]
 
 bb) a 3. melléklet vonatkozásában 4 500 000 forint,
 
@@ -20,7 +18,7 @@ c) amennyiben az adott termékhez tartozó minimális díj az a), illetve a b) p
 
 (3) A díjfizetés gyakorisága:
 
-a) az 1. és 2. melléklet vonatkozásában éves (vagy egyszeri),
+a)[^6]
 
 b) a 3. melléklet vonatkozásában havi (vagy egyszeri),
 
@@ -28,6 +26,11 @@ c) amennyiben rendszeres díjas termék esetén a havi díjfizetés nem megenged
 
 (4) A díjfizetés módja:
 
-a) az 1. és 2. melléklet vonatkozásában csoportos beszedés,
+a)[^7]
 
 b) a 3. melléklet vonatkozásában átutalás.
+
+[^4]: A 4. § (1) bekezdés a) pont aa) alpontját a 12. § (4) bekezdése hatályon kívül helyezte.
+[^5]: A 4. § (1) bekezdés b) pont ba) alpontját a 12. § (4) bekezdése hatályon kívül helyezte.
+[^6]: A 4. § (3) bekezdés a) pontját a 12. § (4) bekezdése hatályon kívül helyezte.
+[^7]: A 4. § (4) bekezdés a) pontját a 12. § (4) bekezdése hatályon kívül helyezte.

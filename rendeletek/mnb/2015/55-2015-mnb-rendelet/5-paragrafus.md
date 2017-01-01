@@ -9,3 +9,7 @@ b) az egyszeri díjas biztosítás esetében 5, 10 és 20 év.
 (3) A bemutatott tartamoknak összhangban kell lennie a termék feltételeiben meghatározott minimális tartammal.
 
 (4) Amennyiben a köthető minimális tartam hosszabb, mint az adott biztosítás típushoz [egyszeri vagy rendszeres díjas, illetve a visszavásárlás tekintetében az élethosszig tartó (whole life)] tartozó legrövidebb tartam, és az nem esik egybe az (1) bekezdésben meghatározott egyéb kötelező tartamokkal, akkor a biztosító a TKM értékét erre a (köthető minimális) tartamra számítja ki.
+
+(5)[^8] Amennyiben a köthető maximális tartam rövidebb, mint az adott biztosítás típushoz [egyszeri vagy rendszeres díjas, illetve a visszavásárlás tekintetében az élethosszig tartó (whole life)] tartozó leghosszabb tartam, és az nem esik egybe az (1) bekezdésben meghatározott egyéb kötelező tartamokkal, akkor a biztosító a TKM értékét erre a (köthető maximális) tartamra és az (1) bekezdésben meghatározott, a biztosítónál elérhető ennél rövidebb tartamokra számítja ki.
+
+[^8]: Az 5. § (5) bekezdését az 53/2016. (XII. 21.) MNB rendelet 3. §-a iktatta be.

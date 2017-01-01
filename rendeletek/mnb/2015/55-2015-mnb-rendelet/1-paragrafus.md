@@ -1,12 +1,10 @@
-1. § (1) A biztosító a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 4. § (1) bekezdés 75. pontja szerinti teljes költségmutató (a továbbiakban: TKM) értékét
+1. § (1)[^1] A biztosító a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 4. § (1) bekezdés 97. pontja szerinti teljes költségmutató (a továbbiakban: TKM) értékét
 
-a) 2016. december 31-ig
+a)[^2]
 
-aa) a befektetési egységekhez kötött megtakarítási jellegű életbiztosítási termékek esetében az 1. mellékletben,
+b) 2017. január 1-jétől a 3. mellékletben
 
-ab) a nem befektetési egységekhez kötött (hagyományos) megtakarítási jellegű életbiztosítási termékek esetében a 2. mellékletben,
-
-b)[^1]
+foglalt módszertan szerint számítja ki.
 
 (2) A biztosító a TKM értékét egy típuspéldára határozza meg, és a számítást a 2–9. §-ban foglalt feltételek alkalmazásával végzi el.
 
@@ -18,4 +16,5 @@ b)[^1]
 
 (6) A TKM értékének számításához szükséges, a biztosítási díj pénznemétől eltérő pénznemű értékeknek a biztosítási díj pénznemére való átváltására a biztosító a TKM értékének számítását megelőző év december 31-én érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos devizaárfolyamot alkalmazza.
 
-[^1]: Az 1. § (1) bekezdés b) pontja az 55/2015. (XII. 22.) MNB rendelet 12. § (4) bekezdése alapján 2017. január 1. napján lép hatályba.
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 21.) MNB rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés a) pontját a 12. § (4) bekezdése hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-4. melléklet az 55/2015. (XII. 22.) MNB rendelethez
+4. melléklet az 55/2015. (XII. 22.) MNB rendelethez[^19]
 
 A TKM értékekre vonatkozó adatszolgáltatás táblái
 
@@ -12,11 +12,11 @@ A TKM értékekre vonatkozó adatszolgáltatás táblái
 
 | a | b | c | d | e | f | g | h | i | j | z |
 
-| 001 | 46TKMA1001 | Termék |  |  |  |  |  |  |  |  |  |  |  |
+| 001 | 46TKMA10001 | Termék |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | ... | ... |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 46TKMA1999 | Termék |  |  |  |  |  |  |  |  |  |  |  |
+|  | 46TKMA19999 | Termék |  |  |  |  |  |  |  |  |  |  |  |
 
 | 46TKMB |
 
@@ -28,11 +28,11 @@ A TKM értékekre vonatkozó adatszolgáltatás táblái
 
 | a | b | c | d | e | f | g | h | i | z |
 
-| 001 | 46TKMB1001 | Termék |  |  |  |  |  |  |  |  |  |  |
+| 001 | 46TKMB10001 | Termék |  |  |  |  |  |  |  |  |  |  |
 
 |  | ... | ... |  |  |  |  |  |  |  |  |  |  |
 
-|  | 46TKMB1999 | Termék |  |  |  |  |  |  |  |  |  |  |
+|  | 46TKMB19999 | Termék |  |  |  |  |  |  |  |  |  |  |
 
 | 46TKMC |
 
@@ -44,11 +44,11 @@ A TKM értékekre vonatkozó adatszolgáltatás táblái
 
 | a | b | c | d | e | f | g | h | i | j | z |
 
-| 001 | 46TKMC1001 | Termék |  |  |  |  |  |  |  |  |  |  |  |
+| 001 | 46TKMC10001 | Termék |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | ... | ... |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 46TKMC1999 | Termék |  |  |  |  |  |  |  |  |  |  |  |
+|  | 46TKMC19999 | Termék |  |  |  |  |  |  |  |  |  |  |  |
 
 | 46TKMD |
 
@@ -60,8 +60,10 @@ A TKM értékekre vonatkozó adatszolgáltatás táblái
 
 | a | b | c | d | e | f | g | h | i | z |
 
-| 001 | 46TKMD1001 | Termék |  |  |  |  |  |  |  |  |  |  |
+| 001 | 46TKMD10001 | Termék |  |  |  |  |  |  |  |  |  |  |
 
 |  | ... | ... |  |  |  |  |  |  |  |  |  |  |
 
-|  | 46TKMD1999 | Termék |  |  |  |  |  |  |  |  |  |  |
+|  | 46TKMD19999 | Termék |  |  |  |  |  |  |  |  |  |  |
+
+[^19]: A 4. melléklet az 53/2016. (XII. 21.) MNB rendelet 7. §-a szerint módosított szöveg.
