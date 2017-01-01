@@ -1,0 +1,1 @@
+Az Országgyűlés abból a célból, hogy Magyarország állampolgárainak a haza védelme iránti hazafias elkötelezettségét és áldozatkészségét az önkéntesség figyelembevételével Magyarország nemzeti védelmi képességének fenntartásába és fejlesztésébe minél szélesebb körben bevonja, valamint a társadalom és a honvédelem kapcsolatát erősítse, a következő törvényt alkotja:

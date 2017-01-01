@@ -1,0 +1,1 @@
+10. § A Honvédelmi Sportszövetség gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés az 5. § (2) bekezdés c) és d) pontja szerinti beszámolókról nem dönthet.
