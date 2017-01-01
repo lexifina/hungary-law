@@ -20,7 +20,7 @@ b) legalább két osztállyal gyengébb, akkor az ingatlan-nyilvántartásban sz
 
 2.5. összege a 24. § (1) bekezdés f) pontjában foglalt esetben
 
-a) a más célú hasznosítás utólagos engedélyezése esetén az 1. melléklet 4.1. pontjában,
+a) a más célú hasznosításhoz való utólagos hozzájárulás esetén az 1. melléklet 4.1. pontjában,
 
 b) az elrendelt eredeti állapot helyreállításának elfogadása esetén az 1. melléklet 4.2. pontjában meghatározott módon számított földvédelmi járulék háromszorosa;
 

@@ -10,7 +10,7 @@ b) 10 000–50 000 m2 közötti területnagyság esetén 30 000 Ft,
 
 c) 50 001–100 000 m2 közötti területnagyság esetén 36 000 Ft,
 
-d) 100 000 m2 feletti területnagyság esetén 36 000 Ft, valamint minden további 100 000 m2 területnagyság esetén további 20 000 Ft.
+d) minden további megkezdett 100 000 m2 területnagyság esetén további 20 000 Ft.
 
 (3) A földminősítési eljárásban igénybe vehető valamennyi jogorvoslati eljárásért az (1) bekezdésben foglaltak szerint, a (2) bekezdésben meghatározott összegű díjat kell fizetni.
 

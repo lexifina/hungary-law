@@ -100,6 +100,6 @@ VIII.
 
 4. A termőföld engedély nélküli más célú hasznosításakor
 
-4.1. a más célú hasznosítás utólagos engedélyezése esetén a járulék számításánál az 1. pontban foglaltakat kell alkalmazni;
+4.1. a más célú hasznosításhoz való utólagos hozzájárulás esetén a járulék számításánál az 1. pontban foglaltakat kell alkalmazni;
 
 4.2. az elrendelt eredeti állapot helyreállításának elfogadása esetén a járulék számításánál a 2. pontban foglaltakat kell alkalmazni.
