@@ -240,15 +240,17 @@
 
 ## Középiskolai végzettség.
 
-## 25. Anyakönyvi feladatkör
+## 25. Anyakönyvi feladatkör:
 
-## Az I. besorolási osztályban:
+## I. besorolási osztályban:
 
-## Felsőoktatásban szerzett közszolgálati vagy jogi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és anyakönyvi szakvizsga.
+## a) felsőoktatásban szerzett igazgatásszervező, közigazgatás-szervező szakképzettség és anyakönyvi szakvizsga; vagy
 
-## A II. besorolási osztályban:
+## b) felsőoktatásban szerzett közszolgálati szakképzettség, valamint az állam- és jogtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga.
 
-## Középiskolai végzettség és anyakönyvi szakvizsga.
+## II. besorolási osztályban:
+
+## érettségi végzettség és anyakönyvi szakvizsga.
 
 ## 26. Környezetvédelmi és vízügyi feladatkör
 
@@ -320,6 +322,6 @@
 
 ## Műszaki középiskolai végzettség; vagy középiskolai végzettség és műszaki, agrár, kertészeti, közgazdasági, környezetgazdálkodási szakképesítés.
 
-2. melléklet a 29/2012. (III. 7.) Korm. rendelethez[^20]
+2. melléklet a 29/2012. (III. 7.) Korm. rendelethez[^22]
 
-[^20]: A 2. mellékletet a 70/2015. (III. 30.) Korm. rendelet 192. § (6) bekezdése hatályon kívül helyezte.
+[^22]: A 2. mellékletet a 70/2015. (III. 30.) Korm. rendelet 192. § (6) bekezdése hatályon kívül helyezte.
