@@ -10,7 +10,7 @@
 
 ## 1.1. Név
 
-## 1.2. MVH ügyfél-azonosító
+## 1.2. ügyfél-azonosító
 
 ## 2. Az igényelt pénzügyi hozzájárulás megjelölése az alábbi táblázat szerint:
 
@@ -170,13 +170,13 @@
 
 ## 4.1. Nyilatkozat arról, hogy tudomásul veszi, hogy
 
-## a) az MVH-val a kapcsolattartás az MVH eljárási törvény 28. § (1) bekezdése szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett adatok alapján történik;
+## a) a Kincstárral a kapcsolattartás a Kincstár Eljárási törvény 28. § (1) bekezdése szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett adatok alapján történik;
 
-## b) az adatok megváltozása esetében az MVH eljárási törvény 29. § (1) bekezdése alapján a változást köteles az MVH felé tizenöt napon belül bejelenteni, és amennyiben ezen bejelentési kötelezettséget elmulasztja, az ebből adódó – az MVH eljárási törvény 29. § (5) bekezdésében, valamint 30/A. §-ában foglalt – jogkövetkezmények terhelik;
+## b) az adatok megváltozása esetében az Eljárási törvény 29. § (1) bekezdése alapján a változást köteles a Kincstár felé tizenöt napon belül bejelenteni, és amennyiben ezen bejelentési kötelezettséget elmulasztja, az ebből adódó – az Eljárási törvény 29. § (5) bekezdésében, valamint 30/A. §-ában foglalt – jogkövetkezmények terhelik;
 
 ## c) a jogosulatlanul igénybe vett támogatás és az egyéb fizetési kötelezettség adók módjára behajtandó köztartozásnak minősül, melyet az állami adóhatóság hajt be;
 
-## d) amennyiben az intézkedésekkel kapcsolatban lejárt tartozása áll fenn, az MVH eljárási törvény 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató végrehajtható okirat csatolása nélkül köteles teljesíteni, továbbá e nyilatkozat hiányában a kérelem az MVH eljárási törvény alapján érdemi vizsgálat nélkül elutasításra kerül.
+## d) amennyiben az intézkedésekkel kapcsolatban lejárt tartozása áll fenn, az Eljárási törvény 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató végrehajtható okirat csatolása nélkül köteles teljesíteni, továbbá e nyilatkozat hiányában a kérelem az Eljárási törvény alapján érdemi vizsgálat nélkül elutasításra kerül.
 
 ## 4.2. Nyilatkozat arról, hogy:
 

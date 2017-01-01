@@ -10,7 +10,7 @@
 
 ## 1.1. Név
 
-## 1.2. MVH ügyfél-azonosító
+## 1.2.[^13] ügyfél-azonosító
 
 ## 2. Az állatállomány adatai
 
@@ -73,3 +73,5 @@ Tárgyidőszak: …… év …… félév …… negyedév/hónap**
 *** A „szalmonellózis elleni védekezés – oltóanyagok beszerzési költségei” alcélterületek esetében a számlák teljesítési dátuma a vakcina beadásának, illetve felhasználásának időpontja, a „szalmonellózis elleni védekezés – felszámolás miatt keletkezett kár enyhítése” alcélterületek tekintetében pedig a felszámolás, illetve ártalmatlanítás időpontja.
 
 Keltezés, igénylő (cégszerű) aláírása
+
+[^13]: A 2. melléklet 1. pont 1.2. alpontja a 88/2016. (XII. 29.) FM rendelet 119. § k) pontjával megállapított szöveg.
