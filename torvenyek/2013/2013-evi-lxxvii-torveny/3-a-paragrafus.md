@@ -1,0 +1,1 @@
+3/A. § A központi költségvetési szerv megszűnésének időpontjában folyamatban lévő, engedélyezett képzéseit jogutódja, vagy – jogutód hiányában – a felnőttképzéssel kapcsolatos feladatait átvevő szerv a megszűnt szerv számára kiadott engedély alapján – e törvény rendelkezései szerint – folytathatja le.

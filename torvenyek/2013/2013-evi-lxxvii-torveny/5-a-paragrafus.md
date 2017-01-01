@@ -1,0 +1,1 @@
+5/A. § A hatóságnak a felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásban, valamint a felnőttképzést folytató intézmények ellenőrzése során meghozott döntése ellen a szakképzésért és felnőttképzésért felelős miniszterhez lehet fellebbezést benyújtani.

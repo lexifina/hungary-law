@@ -14,12 +14,12 @@
 
 (4) A (2) bekezdésben foglalt kérelem vagy bejelentés benyújtásával egyidejűleg a képző intézmény a szakképzésért és felnőttképzésért felelős miniszter (a továbbiakban: miniszter) rendeletében meghatározott mértékű igazgatási szolgáltatási díjat köteles fizetni.
 
-(5) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetén a (2) bekezdés szerinti kérelmet és bejelentést az intézmény nyújtja be a hatósághoz.
+(5) A tankerületi központ által fenntartott köznevelési intézmény esetén a (2) bekezdés szerinti kérelmet és bejelentést az intézmény nyújtja be a hatósághoz.
 
 (6) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok közül – a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti gazdasági társaság, egyesülés és szövetkezet, valamint a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó jogalanyok kivételével – nem kaphat engedélyt az az intézmény, amelynek képviselője olyan más felnőttképzést folytató intézmény képviselője vagy volt képviselője, amely intézmény engedélyét a hatóság– a képviselet időtartama alatt elkövetett jogsértés miatt – teljesen visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
 
 (7) Nem kaphat engedélyt az a Ptk. szerinti gazdasági társaság, egyesülés és szövetkezet, amelynek vezető tisztségviselője olyan Ptk. szerinti gazdasági társaság, egyesülés és szövetkezet vezető tisztségviselője vagy volt vezető tisztségviselője, amelynek engedélyét a hatóság – a vezető tisztség viselésének időtartama alatt elkövetett jogsértés miatt – teljesen visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
 
-(8) A (6) bekezdésben foglalt rendelkezést alkalmazni kell az engedély visszavonásával érintett intézmény alapítójának, vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának képviselője – kivéve az állami intézményfenntartó központ képviselőjét – esetében is azzal, hogy a hatóság teljesen visszavonja az engedélyét annak a felnőttképzést folytató intézménynek, amelynek esetében az alapító vagy fenntartó képviselőjének személye az eltiltással érintett időszak alatt változatlan.
+(8) A (6) bekezdésben foglalt rendelkezést alkalmazni kell az engedély visszavonásával érintett intézmény alapítójának, vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának képviselője – kivéve a tankerület képviselőjét – esetében is azzal, hogy a hatóság teljesen visszavonja az engedélyét annak a felnőttképzést folytató intézménynek, amelynek esetében az alapító vagy fenntartó képviselőjének személye az eltiltással érintett időszak alatt változatlan.
 
 (9) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok az engedélyezési eljárás, valamint az engedélyezési eljáráshoz kapcsolódó fellebbezési eljárás során kizárólag elektronikus úton kötelesek a hatósággal kapcsolatot tartani.

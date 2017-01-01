@@ -1,4 +1,4 @@
-9. § (1) A hatóság felnőttképzési szakértőkkel kapcsolatos feladatai megoldásának támogatása, valamint a felnőttképzést folytató intézmények által alkalmazható minőségbiztosítási rendszerek kialakításának elősegítése céljából legalább négy fő felnőttképzési szakértő, továbbá felnőttképzési programszakértő tagokból álló, hattagú Felnőttképzési Szakértői Bizottságot (a továbbiakban: FSZB) működtet.
+9. § (1) A hatóság felnőttképzési szakértőkkel kapcsolatos feladatainak megoldását, valamint a felnőttképzést folytató intézmények által alkalmazható minőségbiztosítási rendszerek kialakításának elősegítését legalább négy fő felnőttképzési szakértő, továbbá felnőttképzési programszakértő tagokból álló, hattagú Felnőttképzési Szakértői Bizottság (a továbbiakban: FSZB) támogatja. Az FSZB-t az állami szakképzési és felnőttképzési szerv működteti.
 
 (2) Az FSZB a hatóságnak a felnőttképzési szakértőkkel és felnőttképzési programszakértőkkel kapcsolatos feladatai ellátásával összefüggésben javaslattevő, véleményező, tanácsadó testületeként működik.
 

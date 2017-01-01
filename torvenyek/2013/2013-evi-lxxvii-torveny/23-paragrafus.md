@@ -22,7 +22,7 @@ b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 c) a menedékjogról szóló törvény alapján menekült, oltalmazott vagy menedékes jogállású.
 
-(4) Az (1) bekezdésben meghatározott forrásokból támogatott, a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzések, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetekben történő foglalkoztatásra felkészítő képzések közül a miniszter rendeletben – a társadalmi felzárkózásért felelős miniszter, valamint a közfoglalkoztatásért felelős miniszter egyetértésével – meghatározhatja azokat a képzéseket, amelyeket kizárólag az állami felnőttképzési intézmény végezhet.
+(4)
 
 (5) Az (1) bekezdésben meghatározott forrásokból támogatott képzések közül – az 1. § (5) bekezdésében meghatározott képzések kivételével – a Kormány rendeletben meghatározhatja azokat a képzéseket, amelyeket a legfeljebb harminc tanóra terjedelmű, a Kormány rendeletében meghatározott tartalmú, a digitális írástudás megszerzését szolgáló képzéssel együtt kell megvalósítani.
 

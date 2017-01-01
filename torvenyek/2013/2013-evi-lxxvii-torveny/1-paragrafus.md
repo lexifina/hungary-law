@@ -20,7 +20,7 @@ f) a támogatást nyújtóra,
 
 g) a gyakorlati képzést szervező és a gyakorlati képzést folytató szervezetre,
 
-h) az állami szakképzési és felnőttképzési szervre (a továbbiakban: hatóság),
+h) a felnőttképzési hatósági feladatokat ellátó szervre (a továbbiakban: hatóság),
 
 i) az Oktatási Hivatal Nyelvvizsgáztatási Akkreditációs Központjára (a továbbiakban: NYAK),
 
@@ -30,7 +30,9 @@ ja) a 17/B. §-ban meghatározott hirdetésre és tájékoztatásra, valamint
 
 jb) a 21. § (4) bekezdése szerinti adatszolgáltatásra
 
-irányuló tevékenységére.
+irányuló tevékenységére,
+
+k) az állami szakképzési és felnőttképzési szervre.
 
 (2) E törvény alkalmazásában felnőttképzési tevékenység az (1) bekezdés c) pontjában meghatározott jogalanyoknak az (1) bekezdés a) és b) pontjában meghatározott természetes személyek iskolarendszeren kívüli képzésére irányuló tevékenysége, amely az (5)–(6) bekezdésben foglaltak kivételével
 
@@ -70,7 +72,7 @@ g) a kultúráért felelős miniszter által akkreditált, tanfolyam jellegű sz
 
 h) a hatósági jellegű képzésekre,
 
-i) az állami felnőttképzési intézmény jogszabályban meghatározott kötelező állami feladatai ellátásának keretében – a 3. § (1a) bekezdésében foglaltaknak megfelelően – szervezett képzéseire,
+i) a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzésekért, a hátrányos helyzetűek humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzésekért, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetben történő foglalkoztatásra felkészítő képzésekért felelős szerv által – e felelőssége keretében a 3. § (1a) bekezdésben foglaltaknak megfelelően – szervezett képzésekre, továbbá a társadalmi felzárkózást szolgáló és a közfoglalkoztatottak alapkompetencia-fejlesztő, a szakképzettséggel nem rendelkezők kompetenciafejlesztő képzéseire, valamint a helyi, járási esélyegyenlőségi szakemberek és esélyegyenlőségi mentorok egyéb képzéseire.
 
 j) a Magyar Igazságügyi Akadémia által bírák, igazságügyi alkalmazottak, valamint az igazságszolgáltatásban közreműködő más személyek részére szervezett jogi tárgyú és az ítélkezési tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre,
 

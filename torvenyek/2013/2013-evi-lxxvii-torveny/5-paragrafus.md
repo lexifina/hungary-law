@@ -6,7 +6,7 @@ aa) megnevezését, cégjegyzékét vagy nyilvántartását vezető bíróság, 
 
 ab) székhelyét, a felnőttképzési tevékenység végzésének telephelyét, levelezési címét, telefon és faxszámát, elektronikus levelezési címét, képviselőjének, vagy a Ptk. szerinti jogi személyek esetén vezető tisztségviselőjének nevét, anyja nevét, születési helyét és idejét, állampolgárságát, képviselői, vezető tisztségviselői jogviszonya kezdetének időpontját,
 
-ac) adószámát vagy a nemzeti köznevelésről szóló törvény szerinti állami intézményfenntartó központ által fenntartott köznevelési intézmény OM-azonosítóját,
+ac) adószámát vagy a nemzeti köznevelésről szóló törvény szerinti tankerületi központ által fenntartott köznevelési intézmény OM-azonosítóját,
 
 ad) adataiban bekövetkezett változást a változás időpontjának megjelölésével,
 
