@@ -1,14 +1,3 @@
-## 29/A. §[^63] E rendeletben szabályozott támogatások nyújtásával kapcsolatos mérlegelés során a kormányhivatal figyelembe veszi
+## 29. §[^65]
 
-a) a munkaerő-kereslet és -kínálat helyi jellemzőit,
-
-b) a térség foglalkoztatási helyzetét és munkanélküliségi mutatóit,
-
-c)[^64] a kormányhivatallal való korábbi együttműködés tapasztalatait,
-
-d) a nyújtott szolgáltatások színvonalát, eredményességét, valamint
-
-e) a szolgáltatásokhoz kapcsolódó keresetpótló juttatás megállapítása esetén az igénybe vett szolgáltatás formáját, időtartamát.
-
-[^63]: A 29/A. §-t a 20/2005. (X. 27.) FMM rendelet 24. §-a iktatta be, nyitó szövegrésze a 9/2015. (III. 31.) NGM rendelet 22. § d) pontja szerint módosított szöveg.
-[^64]: A 29/A. § c) pontja a 9/2015. (III. 31.) NGM rendelet 22. § m) pontja szerint módosított szöveg.
+[^65]: A 29. §-t az 56/2016. (XII. 22.) NGM rendelet 1. § (7) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 22. §[^48] A 21. § (1) bekezdésében meghatározott támogatás nyújtása esetén a támogatásban részesülő szervezet vagy egyéni vállalkozó által nyújtott szolgáltatás szakmai és módszertani ellenőrzését a kormányhivatal látja el.
+## 22. §[^50] A 21. § (1) bekezdésében meghatározott támogatás nyújtása esetén a támogatásban részesülő szervezet vagy egyéni vállalkozó által nyújtott szolgáltatás szakmai és módszertani ellenőrzését a kormányhivatal látja el.
 
 ## 23. § A 21. § (1) bekezdésében meghatározott támogatásokra meghirdetett pályázati felhívásnak tartalmaznia kell
 
@@ -12,10 +12,10 @@ d) a pályázat keretében nyújtható támogatás forrását, mértékét,
 
 e) a pályázat tartalmára vonatkozó előírásokat és az esetleges szükséges mellékleteket, továbbá
 
-f)[^49] a támogatásra vonatkozóan a más jogszabályokban, valamint az Európai Unió jogszabályaiban meghatározott feltételeket,
+f)[^51] a támogatásra vonatkozóan a más jogszabályokban, valamint az Európai Unió jogszabályaiban meghatározott feltételeket,
 
-g)[^50] a pályázat benyújtásának helyét és határidejét, a pályázatot elbíráló szerv megnevezését, valamint a pályázat elbírálásának határidejét.
+g)[^52] a pályázat benyújtásának helyét és határidejét, a pályázatot elbíráló szerv megnevezését, valamint a pályázat elbírálásának határidejét.
 
-[^48]: A 22. § a 6/2008. (IV. 23.) SZMM rendelet 5. §-ával megállapított, a 9/2015. (III. 31.) NGM rendelet 22. § d) pontja szerint módosított szöveg.
-[^49]: A 23. § új f) pontját a 31/2004. (XII. 21.) FMM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti f) pont jelölését g) pontra változtatta.
-[^50]: A 23. § eredeti f) pontjának jelölését a 31/2004. (XII. 21.) FMM rendelet 2. §-ának (1) bekezdése g) pontra változtatta.
+[^50]: A 22. § a 6/2008. (IV. 23.) SZMM rendelet 5. §-ával megállapított, a 9/2015. (III. 31.) NGM rendelet 22. § d) pontja szerint módosított szöveg.
+[^51]: A 23. § új f) pontját a 31/2004. (XII. 21.) FMM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti f) pont jelölését g) pontra változtatta.
+[^52]: A 23. § eredeti f) pontjának jelölését a 31/2004. (XII. 21.) FMM rendelet 2. §-ának (1) bekezdése g) pontra változtatta.

@@ -8,6 +8,6 @@ b) álláskeresési technikák oktatása,
 
 c) álláskereső klub.
 
-(3)[^9] Az álláskereső klub az (1) bekezdésben meghatározott célból, álláskeresők részvételével rendszeresen tartott csoportos foglalkozás.
+(3)[^11] Az álláskereső klub az (1) bekezdésben meghatározott célból, álláskeresők részvételével rendszeresen tartott csoportos foglalkozás.
 
-[^9]: A 7. § (3) bekezdése a 20/2005. (X. 27.) FMM rendelet 29. § (7) szerint módosított szöveg.
+[^11]: A 7. § (3) bekezdése a 20/2005. (X. 27.) FMM rendelet 29. § (7) szerint módosított szöveg.

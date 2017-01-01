@@ -2,7 +2,7 @@
 
 ## helyi (térségi) foglalkoztatási tanácsadás
 
-## 4. §[^8] A munka-, pálya-, álláskeresési, rehabilitációs, helyi (térségi) foglalkoztatási tanácsadás szolgáltatás
+## 4. §[^10] A munka-, pálya-, álláskeresési, rehabilitációs, helyi (térségi) foglalkoztatási tanácsadás szolgáltatás
 
 a) a munkatanácsadást,
 
@@ -16,4 +16,4 @@ e) az a)–d) pont alatti tanácsadó tevékenységhez, valamint a munkaerőpiac
 
 f) helyi (térségi) foglalkoztatási tanácsadást
 
-[^8]: A 4. § nyitó szövegrésze a 32/2016. (IX. 8.) NGM rendelet 7. § c) pontjával megállapított szöveg.
+[^10]: A 4. § nyitó szövegrésze a 32/2016. (IX. 8.) NGM rendelet 7. § c) pontjával megállapított szöveg.
