@@ -1,10 +1,10 @@
 7. § (1) A felszámoló a támogatási igény meghatározása során a támogatásra jogosult gazdálkodó szervezetnek a jogosultakkal szemben, a bérfizetési napon fennálló bértartozását, de egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének (a továbbiakban: bruttó átlagkereset) ötszörösét veheti figyelembe. Ha a gazdálkodó szervezet a támogatást ugyanazon jogosult tekintetében egy felszámolási eljáráson belül több részletben veszi igénybe, és a felszámolási eljárás egyes naptári éveiben a bruttó átlagkereset mértéke eltérő, – a támogatás következő évben történő igénybevétele esetén – a jogosultság szempontjából a magasabb bruttó átlagkereset alapján számított támogatási mértéket kell figyelembe venni.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően,
+(2) Az (1) bekezdésben foglaltaktól eltérően, függetlenül attól, hogy a támogatás megállapítására a 2/B. § (1) vagy (3) bekezdése alapján került sor,
 
 a) ha a felszámolási eljárás kezdetétől egy év eltelt,
 
-b) azon jogosultak esetében, akikre vonatkozóan az addig igénybevett összeg kimerítette az (1) bekezdésben meghatározott ötszörös mértéket,
+b) azon jogosultak esetében, akikre vonatkozóan az addig igénybe vett összeg kimerítette az (1) bekezdésben meghatározott ötszörös mértéket,
 
 jogosultanként további, legfeljebb kettő havi bruttó átlagkeresetnek megfelelő támogatást igényelhet a felszámoló, ha annak e törvényben meghatározott egyéb feltételei fennállnak.
 

@@ -20,7 +20,7 @@ b) kényszertörlési eljárás: a cégnyilvánosságról, a bírósági cégelj
 
 c) gazdálkodó szervezet: a Cstv. 3. §-a (1) bekezdésének a) pontjában felsorolt minden gazdálkodó szervezet, továbbá minden olyan, valamely EGT tagállam joga szerint alakult egyéb szervezet, amely az a) vagy b) pontokban írottak alapján felszámolás vagy kényszertörlési eljárás alatt állhat;
 
-d) bértartozás: a felszámolás vagy kényszertörlési eljárás alatt álló gazdálkodó szervezetet – mint munkáltatót – terhelő minden munkabértartozás, ideértve a betegszabadság időtartamára járó térítést is, és a munkaviszony megszűnésével összefüggésben járó, a Cstv. 57. §-ának (3) bekezdése szerint elszámolható végkielégítés tartozás;
+d) bértartozás: a felszámolás vagy kényszertörlési eljárás alatt álló gazdálkodó szervezetet – mint munkáltatót – terhelő, a Cstv. szerint felszámolási költségnek minősülő minden munkabértartozás, ideértve a betegszabadság időtartamára járó térítést is, és a munkaviszony megszűnésével összefüggésben járó, a Cstv. 57. § (3) bekezdése szerint elszámolható végkielégítés tartozás;
 
 e) kölcsönbeadó: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 214. § (1) bekezdés b) pontjában és 215. § (1) bekezdés b) pontjában meghatározott munkáltató;
 
@@ -28,7 +28,17 @@ f) kölcsönvevő: az Mt. 214. § (1) bekezdés c) pontjában meghatározott mun
 
 g) felszámolási eljárás: a Cstv. szerinti felszámolási eljárás;
 
-h) Bérgarancia biztos: a Ctv. 117/A. § (4) bekezdés szerinti személy.
+h) Bérgarancia biztos: a Ctv. 117/A. § (4) bekezdés szerinti személy;
+
+i) díj: az iskolaszövetkezetet terhelő azon díj, illetve egyéb bérjellegű juttatás, amely az iskolaszövetkezeti tagot a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyes közreműködésének időtartamára tekintettel megilleti vagy megillette;
+
+j) kölcsönzési díj: az az ellenérték, amelynek fejében a kölcsönbeadó a vele kölcsönzés céljából munkaviszonyban álló munkavállalót munkavégzésre a kölcsönvevőnek ideiglenesen átengedi vagy átengedte;
+
+k) szolgáltatási díj: az az ellenérték, amelynek fejében az iskolaszövetkezet a szolgáltatását igénybe vevő részére – a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tag által történő teljesítés útján – szolgáltatást nyújt vagy nyújtott;
+
+l) személyesen közreműködő iskolaszövetkezeti tag: az iskolaszövetkezetnek a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tagja.
+
+(2a) A (2) bekezdés d) pontjában, valamint i)–k) pontjaiban foglaltak alkalmazása szempontjából csak el nem évült követelés vehető figyelembe.
 
 (3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás vagy kényszertörlési eljárás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
 

@@ -14,13 +14,15 @@ b) A gazdálkodó szervezet vezető tisztségviselője,
 
 c) Az Mt. 208. § (1) bekezdése szerinti vezető állású munkavállaló,
 
-d) Az előző pontokban [a)–c)] említett személyek közeli hozzátartozója {Ptk. 685. § b) pont}, élettársa,
+d) Az előző pontokban [a) - c)] említett személyek közeli hozzátartozója {Ptk. 8:1. § (1) bekezdés 1. pont}, élettársa,
 
 e) Az adós ingyenes szerződései alapján kedvezményezett személy
 
 igen □ nem □ részben □
 
-Amennyiben igen/részben a válasz, akkor azon személyek felsorolása a szempont megjelölésével:
+Ha igen/részben a válasz, akkor azon személyek felsorolása a szempont megjelölésével:
+
+|
 
 |
 
@@ -54,13 +56,19 @@ Szempont megjelölése
 
 |
 
+|
+
+|
+
+|
+
 A) Munkavállaló azonosító adatai:
 
 |
 
 1.
 
-Sor- szám1
+Sorszám
 
 |
 
@@ -96,7 +104,9 @@ Születési ideje
 
 7.
 
-Társadalom-biztosítási azonosító jele
+Társadalom-
+
+biztosítási azonosító jele
 
 |
 
@@ -115,6 +125,12 @@ Bankszámlaszáma
 10.
 
 Lakcíme
+
+|
+
+11.
+
+A munkaviszony kezdete
 
 |
 
@@ -162,7 +178,11 @@ Számlaszám
 
 |
 
+|
+
 2.
+
+|
 
 |
 
@@ -214,7 +234,11 @@ Számlaszám
 
 |
 
+|
+
 4.
+
+|
 
 |
 
@@ -266,6 +290,8 @@ Számlaszám
 
 |
 
+|
+
 6.
 
 |
@@ -290,7 +316,7 @@ Számlaszám
 
 |
 
-1 A sorszámozás a B) és C) táblázatban az Adatlapon az A) táblázatban azonosított munkavállalóra vonatkozik.
+|
 
 B) Munkavállaló elmaradt bérére vonatkozó adatok (a munkavállaló bruttó bérének összegén a bér- és végkielégítés-tartozás együttes összegét kell érteni):
 
@@ -352,11 +378,19 @@ A munkavállaló bruttó bérét terhelő munkaerő piaci járulék összege
 
 8.
 
-Munkavállaló bruttó bérét terhelő letiltások
+A munkavállaló bruttó bérét terhelő egyszerűsített közteherviselési hozzájárulás összege
+
+(Ft)
 
 |
 
 9.
+
+Munkavállaló bruttó bérét terhelő letiltások
+
+|
+
+10.
 
 Munkavállaló nettó bére
 
@@ -364,31 +398,33 @@ Munkavállaló nettó bére
 
 |
 
-8.1
+9.1
 
 Kedvezményezett neve
 
 |
 
-8.2
+9.2
 
 Kedvezményezett bankszámla- száma
 
 |
 
-8.3
+9.3
 
 Letiltás jogcíme
 
 |
 
-8.4.
+9.4.
 
 Letiltás összege
 
 |
 
 1.
+
+|
 
 |
 
@@ -440,7 +476,11 @@ Letiltás összege
 
 |
 
+|
+
 3.
+
+|
 
 |
 
@@ -492,7 +532,11 @@ Letiltás összege
 
 |
 
+|
+
 5.
+
+|
 
 |
 
@@ -541,6 +585,58 @@ Letiltás összege
 |
 
 |
+
+|
+
+|
+
+Összesen
+
+|
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
 
 C) Munkavállaló elmaradt bérének a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegére vonatkozó adatok:
 
@@ -632,7 +728,7 @@ járulék
 
 |
 
-4.2
+4.3
 
 természetbeni egészség-
 
@@ -646,7 +742,7 @@ járulék
 
 |
 
-4.3
+4.4
 
 pénzbeli
 
@@ -662,7 +758,7 @@ járulék
 
 |
 
-4.4
+4.5
 
 munkaerő-
 
@@ -674,19 +770,27 @@ piaci járulék
 
 |
 
-4.5
+4.6
+
+egyszerűsített közteherviselési hozzájárulás összege
+
+(Ft)
+
+|
+
+4.7
 
 letiltásokra vonatkozó adatok
 
 |
 
-4.6
+4.8
 
 Munkavállaló
 
 nettó bére
 
-(FT)
+(Ft)
 
 |
 
@@ -714,7 +818,7 @@ alapján
 
 |
 
-4.5.1
+4.7.1
 
 Kedvez-
 
@@ -724,7 +828,7 @@ neve
 
 |
 
-4.5.2
+4.7.2
 
 Kedvez-
 
@@ -736,7 +840,7 @@ száma
 
 |
 
-4.5.3
+4.7.3
 
 Letiltás
 
@@ -744,17 +848,19 @@ jogcíme
 
 |
 
-4.5.4
+4.7.4
 
 Letiltás
 
 összege
 
-(FT)
+(Ft)
 
 |
 
 1.
+
+|
 
 |
 
@@ -814,7 +920,11 @@ Letiltás
 
 |
 
+|
+
 3.
+
+|
 
 |
 
@@ -874,7 +984,11 @@ Letiltás
 
 |
 
+|
+
 5.
+
+|
 
 |
 
@@ -934,7 +1048,61 @@ Letiltás
 
 |
 
+|
+
 7.
+
+|
+
+|
+
+|
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
 
 Ösz-
 
@@ -950,55 +1118,33 @@ sen:
 
 |
 
--
+|
 
 |
 
--
+|
 
 |
 
--
+|
 
 |
 
--
+|
 
 |
 
--
-
 |
 
--
-
 |
-
--
-
-|
-
--
-
-|
-
--
-
-|
-
--
 
 Megjegyzés:
 
-– a törvény 7. §-a (1) bekezdése alapján benyújtott kérelem esetén a törvény 2. melléklet C) táblázatának 2.1. és 3. oszlopában feltüntetett összeg együttesen, munkavállalónként nem haladhatja meg a tárgyévet
+– a törvény 7. §-a (1) bekezdése alapján benyújtott kérelem esetén a törvény 2. melléklet C) táblázatának 2.1. és 3. oszlopában feltüntetett összeg együttesen, munkavállalónként nem haladhatja meg a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének ötszörösét,
 
-megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének ötszörösét,
+– a törvény 7. §-a (2) bekezdése alapján benyújtott kérelem esetén a törvény 2. melléklet C) táblázatának 2.2. és 3. oszlopában feltüntetett összeg együttesen, munkavállalónként nem haladhatja meg a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének kétszeresét,
 
-– a törvény 7. §-a (2) bekezdése alapján benyújtott kérelem esetén a törvény 2. melléklet C) táblázatának 2.2. és 3. oszlopában feltüntetett összeg együttesen, munkavállalónként nem haladhatja meg a tárgyévet
-
-megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének kétszeresét,
-
-– az 3. oszlop „Összesen” sorának adata szerepelhet az 1. melléklet 8. sorában.
+– a C) táblázat 3. oszlop „Összesen” sorának adata szerepelhet az 1. melléklet 11. sorában.
 
 Oldalszám összesen: ......................
 

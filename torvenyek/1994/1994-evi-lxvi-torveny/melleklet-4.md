@@ -2,9 +2,11 @@
 
 ADATLAP
 
-a Bérgarancia Alapból a munkaerő-kölcsönzés díja megfizetésének elmaradása miatt igényelhető támogatás számításához
+a Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatás számításához
 
-(A ........... év ........................ hó .........-i bérfizetési napon – a kölcsönbeadónál – fennálló adatok alapján)
+(A ........... év ........................ hó .........-i bérfizetési díjfizetési napon – a kölcsönbeadónál/az iskolaszövetkezetnél – fennálló adatok alapján)
+
+A) A munkavállalók/az iskolaszövetkezet tagjának adatai:
 
 |
 
@@ -16,47 +18,19 @@ szám
 
 1.
 
-Kölcsönzött munkavállaló neve
+Kölcsönzött munkavállaló/Tag neve
 
 |
 
 2.
 
-A kölcsönzés időszaka
-
-|
-
-2.
-
-Társadalombiztosítási azonosító jel
+Társadalombiztosítási azonosító jele
 
 |
 
 3.
 
-A szolgáltatási
-
-díjnak a bértartozás
-
-fedezésére szolgáló
-
-összege
-
-|
-
-4.
-
-A támogatásnak
-
-a Nemzeti
-
-Foglalkoztatási
-
-Alap bérgarancia
-
-alaprészéből
-
-igényelhető összege
+A kölcsönzés/szolgáltatás nyújtás időszaka
 
 |
 
@@ -70,15 +44,7 @@ igényelhető összege
 
 |
 
-|
-
-|
-
 2.
-
-|
-
-|
 
 |
 
@@ -96,59 +62,31 @@ igényelhető összege
 
 |
 
-|
+B) Az elmaradt kölcsönzési díjra/szolgáltatási díjra vonatkozó adatok (Valamennyi az A) pontban feltüntetett munkavállaló/tag vonatkozásában külön táblázat kitöltése szükséges. A táblázat sorait a munkavállaló/tag kölcsönzési díjának/szolgáltatási díjának esedékességéhez igazodva kell kitölteni.)
 
 |
 
-|
-
-4.
+A kölcsönzött munkavállaló/tag sorszáma és neve:
 
 |
 
-|
+1.
+
+Az elmaradt kölcsönzési díj/szolgáltatási díj esedékességének napja
 
 |
 
-|
+2.
+
+A kölcsönzési díjnak/szolgáltatási díjnak a bértartozás/díjtartozás fedezésére szolgáló összege
+
+(Ft)
 
 |
 
-|
+3.
 
-5.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-6.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-7.
-
-|
-
-|
+A támogatásnak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összege (Ft)
 
 |
 
@@ -170,14 +108,10 @@ igényelhető összege
 
 |
 
+C) Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelt támogatás összege (A B) táblázatok 3. oszlopa összesen sorának összesítése): ………………… Ft
+
 Kelt: .............................. hely, ....... év ................... hó .... nap
 
 .......................................................................
 
-(a kölcsönbeadó cégszerű aláírása)
-
-Melléklet:
-
-- A felszámoló 12. § (1) bekezdése szerinti tájékoztatása.
-
-- A felszámoló 11. § (1) bekezdése szerinti tartozás elismerése.
+(a kölcsönbeadó/az iskolaszövetkezet cégszerű aláírása)

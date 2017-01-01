@@ -1,3 +1,9 @@
 2/A. § (1) A külföldi gazdálkodó szervezet felszámolása esetén a 2. § (1) bekezdése szerinti kötelezettség a külföldi gazdálkodó szervezet felszámolóját terheli.
 
 (2) A külföldi gazdálkodó szervezet fióktelepe ellen Magyarországon indult felszámolási eljárás esetén a fenti kötelezettség a fióktelep munkavállalói tekintetében a fióktelep felszámolóját terheli.
+
+(3) A támogatást forintban kell megállapítani és kifizetni, tekintet nélkül arra, hogy a munkabér forintban vagy más pénznemben került megállapításra. A forinttól eltérő pénznemben megállapított bértartozás esetében a támogatás igényléséhez az átváltás irányadó árfolyamának a Magyar Nemzeti Bank által közzétett – az elmaradt bérfizetés napján érvényes – középárfolyamát kell tekinteni. A Magyar Nemzeti Bank által nem jegyzett pénznemben megállapított bértartozás esetében az összeget először az Európai Központi Bank által közzétett középárfolyamon kell euróra átváltani. Eltérő esedékességű bértartozásokat magába foglaló bértartozás esetében az átváltást az adott bérre irányadó bérfizetési nap adatai szerint kell átváltani és a kérelmezett támogatási összeget ezen összegek figyelembevételével kell meghatározni.
+
+(4) A bértartozás forintra történő átváltása esetén az átváltásról kimutatást kell készíteni, amely munkavállalónként tartalmazza az átváltott bér összegét és pénznemét, az adott bérre irányadó bérfizetési napot, az átváltás során alkalmazott árfolyamot, valamint a bér forintban meghatározott összegét. A kimutatást a kérelemhez csatolni kell.
+
+(5) Külföldi gazdálkodó szervezet felszámolása esetén a támogatás megállapításának feltétele a támogatással érintett munkavállalók magyar nyelvű munkaszerződésének vagy nem magyar nyelvű munkaszerződés esetén, a munkaszerződés hiteles fordításának benyújtása. Az állami foglalkoztatási szerv a tényállás megalapozottságához további dokumentumokat, illetve azok magyar nyelvű fordítását is kérheti.
