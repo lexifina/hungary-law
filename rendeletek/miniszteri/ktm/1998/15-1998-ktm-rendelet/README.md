@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-6
 | --- | --- | --- |
 | 2001-11-23 | 1998-15-20-6D.2 | 15/1998. (VI. 3.) KTM rendelet |
 | 2015-04-01 | 1998-15-20-6D.3 | 15/2015. (III. 31.) FM rendelet |
+| 2017-01-01 | 1998-15-20-6D.4 | 89/2016. (XII. 29.) FM rendelet |
