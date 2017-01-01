@@ -1,6 +1,6 @@
 58. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) a balatoni vízpart-rehabilitációs szabályozási követelményeket,
+a) a balatoni vízpart-rehabilitációs szabályozási, valamint a partvonal-szabályozási követelményeket,
 
 b) a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területeken lévő állami tulajdonú ingatlanok vagyonkezelésére, hasznosítására, valamint értékesítésére vonatkozó követelményeket, és
 
@@ -14,7 +14,7 @@ a) a vízpart-rehabilitációs szabályozási követelményekkel érintett terü
 
 b) a vízpart-rehabilitációs szabályozási követelmények alapján a településrendezési eszközök felülvizsgálatához szükséges tanulmányterveket rendelettel fogadja el.
 
-(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a partvonal-szabályozási terveket rendelettel fogadja el.
+(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének első felülvizsgálatát megelőzően a környezetvédelemért és a természetvédelemért, valamint a településrendezésért és területrendezésért felelős miniszter egyetértésével a partvonal-szabályozási terveket rendelettel fogadja el.
 
 (4)
 

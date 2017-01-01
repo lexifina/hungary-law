@@ -1,4 +1,4 @@
-59. § (1) A Balaton kiemelt üdülőkörzet parti településein a településrendezési eszközöket a vízpart-rehabilitációs szabályozási követelményeknek megfelelően, a vízpart-rehabilitációval érintett területekre készülő vízpart-rehabilitációs tanulmánytervekkel, első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervekkel összhangban kell felülvizsgálni és módosítani.
+59. § (1) A Balaton kiemelt üdülőkörzet parti településein a településrendezési eszközöket a vízpart-rehabilitációs szabályozási követelményeknek megfelelően, a vízpart-rehabilitációval érintett területekre készülő vízpart-rehabilitációs tanulmánytervekkel összhangban kell felülvizsgálni és módosítani.
 
 (2)
 
