@@ -10,7 +10,7 @@ b) részegység: a biztonsági, ellenőrző és szabályozó berendezés, valami
 
 c) gáz halmazállapotú tüzelőanyag: minden olyan tüzelőanyag, amely 15 °C hőmérsékleten és 1 bar abszolút nyomáson gáz halmazállapotban van;
 
-d)[^3] tanúsító szervezet: a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: kijelölő hatóság) által külön jogszabály előírásai szerint a gázfogyasztó készülékek vagy részegység vizsgálatára, ellenőrzésére és tanúsítására kijelölt, az Európai Bizottságnak és a tagállamoknak a 90/396/EGK tanácsi irányelv 9. cikke szerint bejelentett szervezet;
+d)[^3] tanúsító szervezet: a kijelölési feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: kijelölő hatóság) által külön jogszabály előírásai szerint a gázfogyasztó készülékek vagy részegység vizsgálatára, ellenőrzésére és tanúsítására kijelölt, az Európai Bizottságnak és a tagállamoknak a 90/396/EGK tanácsi irányelv 9. cikke szerint bejelentett szervezet;
 
 e)[^4] EK megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy a készülék vagy részegység a típusmintának és e rendelet előírásainak megfelel;
 
@@ -26,7 +26,7 @@ j)[^8]
 
 [^1]: Az 1. § a 31/2004. (III. 16.) GKM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja a 67/1999. (XII. 15.) GM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § d) pontja a 31/2004. (III. 16.) GKM rendelet 2. §-ával megállapított, a 10/2012. (V. 18.) NGM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. § d) pontja a 31/2004. (III. 16.) GKM rendelet 2. §-ával megállapított, a 10/2012. (V. 18.) NGM rendelet 1. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 6. §-a szerint módosított szöveg.
 [^4]: A 2. § e) pontja a 31/2004. (III. 16.) GKM rendelet 6. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^5]: A 2. § f) pontja a 31/2004. (III. 16.) GKM rendelet 6. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^6]: A 2. § g) pontja a 31/2004. (III. 16.) GKM rendelet 6. § (2) bekezdésének b) pontja szerint módosított szöveg.
