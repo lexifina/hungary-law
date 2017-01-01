@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-54-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2004-54-20-0A.4 | 54/2004. (IX. 22.) BM rendelet |
+| 2017-01-01 | 2004-54-20-0A.5 | 58/2016. (XII. 22.) BM rendelet |
