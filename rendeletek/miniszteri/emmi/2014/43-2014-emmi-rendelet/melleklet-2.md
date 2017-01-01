@@ -90,7 +90,7 @@
 
 2.5.4. a nem feltétlenül kórházi kezelésre és átszállításra szoruló azon betegek elbocsátására vonatkozó rendet, akiknek a hazatérése lehetséges,
 
-2.5.5. az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelését, annak rendszerét, és erről a mentőszolgálat és a fővárosi és megyei kormányhivatal illetékes népegészségügyi szakigazgatási szerve (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) értesítésének rendszerét,
+2.5.5. az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelését, annak rendszerét, és erről a mentőszolgálat és a területileg illetékes, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) értesítésének rendszerét,
 
 2.5.6. a betegek és a személyzet átszállításának sorrendjét és eszközeit,
 
@@ -126,7 +126,7 @@
 
 3.4.2. az OMSZ vezetésével való azonnali kapcsolatfelvételt és a szállítási kapacitások igénylésének rendjét, módját,
 
-3.4.3. az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelésének és erről az illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve értesítésének rendjét, módját,
+3.4.3. az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelésének és erről az illetékes megyei kormányhivatal értesítésének rendjét, módját,
 
 3.4.4. a betegek és a személyzet kimenekítésének sorrendjét,
 
@@ -256,7 +256,7 @@
 
 7.1. A Többletfeladatok ellátásának tervét 1–3 napra és 4–14 napra kell elkészíteni.
 
-7.2. A rendkívüli esemény, egészségügyi válsághelyzet, katasztrófa következtében tömegesen jelentkező sérültek ellátását minden, akut ellátást végző egészségügyi szolgáltatónak terveznie kell. A megyei népegészségügyi szakigazgatási szerv általi a szakmai átprofilírozásra való felkészülés során figyelembe kell venni a régióban lévő ismert jelentősebb veszélyforrásokat is.
+7.2. A rendkívüli esemény, egészségügyi válsághelyzet, katasztrófa következtében tömegesen jelentkező sérültek ellátását minden, akut ellátást végző egészségügyi szolgáltatónak terveznie kell. A megyei kormányhivatal általi a szakmai átprofilírozásra való felkészülés során figyelembe kell venni a régióban lévő ismert jelentősebb veszélyforrásokat is.
 
 7.3. A Többletfeladatok ellátásának terve tartalmazza:
 
@@ -288,7 +288,7 @@
 
 7.3.9. a lehetőleg azonos szakmai színvonalú váltócsoportok összeállítását;
 
-7.3.10. a betegfelvétel korlátozására vonatkozó rendet (a megyei népegészségügyi szakigazgatási szerv rendelkezése esetén);
+7.3.10. a betegfelvétel korlátozására vonatkozó rendet (a megyei kormányhivatal rendelkezése esetén);
 
 7.3.11. a betegfelvétel rendjének módosítására, a belső betegáramlás szabályozására vonatkozó szabályokat;
 
@@ -320,7 +320,7 @@
 
 8.2.3. a rendelkezésre álló, munkavégzésre alkalmas dolgozók átcsoportosítását,
 
-8.2.4. egyes, az adott helyzetben nélkülözhető szakmai profilok szüneteltetését és erről a megyei népegészségügyi szakigazgatási szerv tájékoztatását,
+8.2.4. egyes, az adott helyzetben nélkülözhető szakmai profilok szüneteltetését és erről a megyei kormányhivatal tájékoztatását,
 
 8.2.5. áramkimaradás esetére tartalék áramforrás biztosítását, karbantartását, a hozzá való hajtóanyag készletben tartását, az azonnali működtetés személyi feltételeit,
 
@@ -336,7 +336,7 @@
 
 9.2.1. vér és vérpótló szerek biztosítását, infúziós oldatok előállítását, az intézeti gyógyszertár feladatait,
 
-9.2.2. szűkített választékú gyógyszerkészlet használatának bevezetését az Állami Egészségügyi Tartaléknak a megyei népegészségügyi szakigazgatási szervnél rendelkezésre álló gyógyszernormájának figyelembevételével,
+9.2.2. szűkített választékú gyógyszerkészlet használatának bevezetését az Állami Egészségügyi Tartaléknak a megyei kormányhivatalnál rendelkezésre álló gyógyszernormájának figyelembevételével,
 
 9.2.3. gyógyszerek, kötszerek és a folyamatos működéshez szükséges egyéb anyagok beszerzését,
 
@@ -410,7 +410,7 @@
 
 12.1.3. a dolgozók, odavezényeltek és önkéntes segítők folyamatos tájékoztatásának módját a kialakult helyzetről és a várható feladatokról,
 
-12.1.4. a megyei népegészségügyi szakigazgatási szervvel, a mentőszolgálattal, a katasztrófavédelem területi és helyi szerveivel, a terület, régió társintézeteivel és a médiával való kapcsolattartás felelősét,
+12.1.4. a megyei kormányhivatallal, a mentőszolgálattal, a katasztrófavédelem területi és helyi szerveivel, a terület, régió társintézeteivel és a médiával való kapcsolattartás felelősét,
 
 12.1.5. egyszerűsített dokumentáció és betegnyilvántartás kidolgozását, valamint
 
@@ -456,4 +456,4 @@
 
 14.3. Kapcsolódó tervek: Riasztási, berendelési Terv, Szállítási terv, Többletfeladatok ellátásának terve.
 
-[^24]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.
+[^24]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a, az 54/2016. (XII. 30.) EMMI rendelet 97. §-a szerint módosított szöveg.
