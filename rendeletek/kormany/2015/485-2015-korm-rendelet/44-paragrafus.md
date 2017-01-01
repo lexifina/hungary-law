@@ -1,4 +1,4 @@
-## 43. §[^18]
+## 43. §[^39]
 
 44. § (1) A jövedéki adóügynek nem minősülő jövedéki ügyben – az engedélyezés és a nyilvántartásba vétel kivételével –, továbbá a hatósági felügyelet keretében végzett adóztatási feladatokkal – ide nem értve az adó-visszaigénylési (adó-visszatérítési) kérelem elbírálása során végzett, a Jöt. 49. § (5) bekezdése szerinti kiutalás előtti ellenőrzést –, illetve a Jöt. 15. § (1) és (2) bekezdése és a Jöt. 65. § (1) bekezdés d) pontja szerinti adófizetési kötelezettséggel kapcsolatos jövedéki adóügyekben az eljárást
 
@@ -32,4 +32,4 @@ l) a Jöt. 62/A. § (1) bekezdése szerinti bejelentés esetén a belföldre tö
 
 (3) A dohánytermék-kiskereskedelmi piac felügyelete körében végzett ellenőrzést a dohánybolt vagy elkülönített hely fekvése, illetve a jogosulatlan tevékenység végzésének helye szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
 
-[^18]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
+[^39]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.

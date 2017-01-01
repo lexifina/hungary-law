@@ -1,3 +1,5 @@
+## 10/C. § Az általános adójogi tájékoztatásra irányuló, ügyfélazonosítást nem igénylő tájékoztatási tevékenység keretében a benyújtott kérelmek vonatkozásában a Központi Irányítás jár el.
+
 ## III. Fejezet
 
 ## FELLEBBVITELI IGAZGATÓSÁG HATÁSKÖRE

@@ -4,7 +4,7 @@
 
 54. § (1) A Rega. tv.-ben meghatározott adóztatási feladatok végrehajtására elsőfokú adóhatósági jogkörben a következők szervek járnak el
 
-a) a megyei igazgatóságok;
+a)[^42] a megyei (fővárosi) igazgatóságok, illetve azon kiemelt adózók tekintetében, amelyeknek a székhelye Budapest, illetve Pest megye közigazgatási területén található a KAVIG,
 
 b) a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországain kívüli állampolgárok tekintetében a Veszprém Megyei Adó- és Vámigazgatóság;
 
@@ -12,10 +12,13 @@ c) a regisztrációs adónak a Rega. tv. 10/A–10/G. §-ában foglalt különö
 
 ca) ha a kérelmező lakóhelye vagy székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye vagy Szabolcs-Szatmár-Bereg megye területén található, a Békés Megyei Adó- és Vámigazgatóság,
 
-cb) ha a kérelmező lakóhelye vagy székhelye Budapest, Baranya megye, Fejér megye, Heves megye, Komárom-Esztergom megye, Nógrád megye, Pest megye vagy Tolna megye területén található, a Komárom-Esztergom Megyei Adó- és Vámigazgatóság, a 70. §-ban foglalt adózók kivételével,
+cb)[^43] ha a kérelmező lakóhelye vagy székhelye Budapest, Baranya megye, Fejér megye, Heves megye, Komárom-Esztergom megye, Nógrád megye, Pest megye vagy Tolna megye területén található, a Komárom-Esztergom Megyei Adó- és Vámigazgatóság, a
 
 cc) ha a kérelmező lakóhelye vagy székhelye Győr-Moson-Sopron megye, Somogy megye, Vas megye, Veszprém megye vagy Zala megye területén található, a Vas Megyei Adó- és Vámigazgatóság.
 
 (2) Az (1) bekezdéstől eltérően a regisztrációs adó-visszatérítési eljárásban a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv jár el.
 
 (3) Az (1) bekezdés a) és b) pontja szerinti esetben a regisztrációs adóval kapcsolatos utólagos ellenőrzés lefolytatását a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv végzi.
+
+[^42]: Az 54. § (1) bekezdés a) pontja a 481/2016. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^43]: Az 54. § (1) bekezdés c) pont cb) alpontja a 481/2016. (XII. 28.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.

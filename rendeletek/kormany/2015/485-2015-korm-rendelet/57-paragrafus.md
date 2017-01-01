@@ -1,5 +1,3 @@
-## 56. § A felelős játékszervezés részletes szabályairól szóló 329/2015. (XI. 10.) Korm. rendeletben meghatározott egyes feladatok tekintetében a megyei igazgatóságok is eljárhatnak.
-
 ## V. Fejezet
 
 ## A KAVIG HATÁSKÖRE

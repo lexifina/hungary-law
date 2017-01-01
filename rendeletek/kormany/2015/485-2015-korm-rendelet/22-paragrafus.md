@@ -6,9 +6,9 @@
 
 a) az Art. 85/A. §-a szerinti adóhatósági igazolásokkal kapcsolatos ügyintézés;
 
-b)[^7] a magánszemély részére az adóazonosító jel kiadása, a vámazonosító szám kiadása és érvénytelenítése, valamint az adóigazolvánnyal kapcsolatos ügyintézés;
+b)[^19] a magánszemély részére az adóazonosító jel kiadása, a vámazonosító szám kiadása és érvénytelenítése, valamint az adóigazolvánnyal kapcsolatos ügyintézés;
 
-c)[^8] az adószám kiadása, vámazonosító szám kiadása és érvénytelenítése közvetlenül az állami adó- és vámhatóságnál bejelentésre kötelezett személyek, illetve szervezetek részére;
+c)[^20] az adószám kiadása, vámazonosító szám kiadása és érvénytelenítése közvetlenül az állami adó- és vámhatóságnál bejelentésre kötelezett személyek, illetve szervezetek részére;
 
 d) az egészségügyi szolgáltatási járulék fizetési kötelezettség bejelentéssel kapcsolatos ügyintézés;
 
@@ -36,5 +36,5 @@ o) az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)
 
 (2) Az (1) bekezdésben meghatározott ügyekben a 63. § (1) bekezdés e) és h) pontjában megjelölt adózó – az állami adó- és vámhatóság vezetője által kijelölt ügyfélszolgálatokon személyesen benyújtott – beadványa alapján bármelyik megyei igazgatóság eljárhat.
 
-[^7]: A 22. § (1) bekezdés b) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^8]: A 22. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^19]: A 22. § (1) bekezdés b) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^20]: A 22. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

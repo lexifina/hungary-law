@@ -1,8 +1,8 @@
-## 62. §[^27] A KAVIG végzi a 61. § a)–b), l) és n) pontja szerinti feladatok ellátásával összefüggő vámellenőrzést, ideértve az áruátengedést követő ellenőrzést is.
+## 62. §[^53] A KAVIG végzi a 61. § a)–b), l) és n) pontja szerinti feladatok ellátásával összefüggő vámellenőrzést, ideértve az áruátengedést követő ellenőrzést is.
 
 ## 24. A KAVIG különös hatásköri szabályai egyes adózók vonatkozásában
 
-63. § (1) Kizárólag a KAVIG jár el az állami adó- és vámhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében az illetékügyek kivételével, ide nem értve a soron kívüli adómegállapítás során kiszabott, valamint az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét, illetve ha jogszabály másként nem rendelkezik
+63. § (1)[^54] Kizárólag a KAVIG jár el az állami adó- és vámhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében a regisztrációs adó, illetve az illetékügyek kivételével, ide nem értve a soron kívüli adómegállapítás során kiszabott, valamint az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét, illetve ha jogszabály másként nem rendelkezik
 
 a) az alábbi, az Áfa törvény alapján adó-visszatérítésre jogosult személyek, illetve szervek adó-visszatérítés iránti kérelmének elbírálása során
 
@@ -30,7 +30,7 @@ f) a honvédelemért felelős miniszter közvetlen alárendeltségébe és közv
 
 g) a rendészetért felelős miniszter, illetve a Büntetés-végrehajtás Országos Parancsnoksága felügyelete és irányítása alá tartozó gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója a rendészetért felelős miniszter, illetve a Büntetés-végrehajtás Országos Parancsnoksága;
 
-h) a NAV alkalmazottainak adóügyében;
+h)[^55] a NAV vezetőjének, szakmai helyetteseinek valamint alkalmazottainak adóügyében;
 
 i) az Art. 4. és 10. számú mellékletében meghatározott külföldi illetőségű adózók adóügyeiben és az Art. 9. számú melléklet II. pontjában meghatározott adóügyekben.
 
@@ -42,4 +42,6 @@ i) az Art. 4. és 10. számú mellékletében meghatározott külföldi illetős
 
 (5) Ha a KAVIG által folytatott ellenőrzés megalapozott lefolytatásához az Art. 87. § (1) bekezdés c) és d) pontja szerinti ellenőrzés kapcsolódó vizsgálatként való lefolytatására van szükség olyan adózónál, amely (aki) nem tartozik a KAVIG különös hatáskörébe, a kapcsolódó vizsgálatot, valamint az azt követő hatósági eljárást a KAVIG folytatja le, vagy – ha célszerűségi, szakmai szempontból indokolt – a KAVIG az ellenőrzés és szükség szerint a hatósági eljárás lefolytatása céljából megkeresi az általános szabályok szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóságot.
 
-[^27]: A 62. § a 88/2016. (IV. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^53]: A 62. § a 88/2016. (IV. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^54]: A 63. § (1) bekezdése a 481/2016. (XII. 28.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^55]: A 63. § (1) bekezdés h) pontja a 481/2016. (XII. 28.) Korm. rendelet 17. §-ával megállapított szöveg.

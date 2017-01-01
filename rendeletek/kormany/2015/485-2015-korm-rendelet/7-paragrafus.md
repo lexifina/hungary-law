@@ -6,8 +6,15 @@ a) a hozzáadottérték-adó területén történő közigazgatási együttműk�
 
 b) az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 4. § (3) bekezdés 8. pontjában megjelölt központi kapcsolattartó iroda részére meghatározott,
 
-c) az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 7. számú melléklet 18. pontjában meghatározott, a haszonhúzó illetősége szerinti tagállam részére teljesítendő adattovábbítási,
+c)[^7]
 
-d) a NAV szervezetén belül az Aktv. 43. § (1) bekezdésében megjelölt illetékes hatóság részére meghatározott, valamint
+d)[^8] a NAV szervezetén belül az Aktv. 43. § (1) bekezdésében megjelölt illetékes hatóság részére meghatározott,
 
-e) a jövedéki adók területén való közigazgatási együttműködésről és a 2073/2004/EK rendelet hatályon kívül helyezéséről szóló, 2012. május 2-ai 389/2012/EU tanácsi rendeletben szabályozott illetékes hatóság és központi jövedéki kapcsolattartó hivatal részére meghatározott
+e)[^9] a jövedéki adók területén való közigazgatási együttműködésről és a 2073/2004/EK rendelet hatályon kívül helyezéséről szóló, 2012. május 2-ai 389/2012/EU tanácsi rendeletben szabályozott illetékes hatóság és központi jövedéki kapcsolattartó hivatal részére meghatározott, valamint,
+
+f)[^10] a Magyarország által a kettős adóztatás elkerülése tárgyában más állammal kötött kétoldalú nemzetközi szerződéseken alapuló, a transzferárak kiigazításával kapcsolatos kölcsönös egyeztetési eljárások lefolytatásával összefüggő, továbbá a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezmény alapján a kölcsönös egyeztetési eljárások lefolytatásával, illetve a választottbírósági eljárással kapcsolatos
+
+[^7]: A 7. § c) pontját a 481/2016. (XII. 28.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^8]: A 7. § d) pontja a 481/2016. (XII. 28.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^9]: A 7. § e) pontja a 481/2016. (XII. 28.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^10]: A 7. § f) pontját a 481/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
