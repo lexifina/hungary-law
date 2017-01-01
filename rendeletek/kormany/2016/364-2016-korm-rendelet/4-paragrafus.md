@@ -1,0 +1,1 @@
+## 3. § A bírságot a hatóság jogerős határozatában megjelölt számlaszámra, fizetési számlák közötti átutalásra szóló megbízás (a továbbiakban: átutalási megbízás) útján vagy készpénz-átutalási megbízással kell megfizetni. Az átutalási megbízás vagy készpénz-átutalási megbízás közlemény rovatában a „bírság” szó feltüntetése mellett a határozat számára kell hivatkozni.

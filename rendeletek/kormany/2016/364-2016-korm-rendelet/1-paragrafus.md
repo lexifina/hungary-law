@@ -1,0 +1,3 @@
+1. § (1) E rendelet rendelkezéseit kell alkalmazni a kereskedelmi hatósági feladatkörben eljáró Budapest Főváros Kormányhivatala (a továbbiakban: hatóság) által a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 9. § (1) bekezdése szerinti eljárásban a Kertv. 9. § (4) bekezdés f) pontja szerint, valamint – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a hatóság külkereskedelmi államigazgatási és egyéb hatósági eljárására vonatkozóan jogszabályban előírtak szerint kiszabható bírságra.
+
+(2) A hatóság a bírságot – szükség szerint – jogszabályban meghatározott jogkövetkezményekkel együttesen is alkalmazhatja.
