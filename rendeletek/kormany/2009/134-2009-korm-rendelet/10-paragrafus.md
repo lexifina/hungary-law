@@ -16,9 +16,9 @@
 
 (9) A hitelintézet a támogatások folyósításáról és az azokkal való elszámolás rendjéről, valamint a pénzügyi ellenőrzéshez szükséges adatszolgáltatásról a miniszterrel és a Kincstárral szerződést köt.
 
-(9a)[^75] A 2015. április 1-jét megelőzően kötött (9) bekezdés szerinti szerződésekben a szerződésből eredő jogok és kötelezettségeknek a Kincstár, mint szerződő fél mellett – a felek polgári jogi együttműködési kötelezettsége tekintetében – a kormányhivatal is alanya.
+(9a)[^75] A 2015. április 1-jét megelőzően kötött (9) bekezdés szerinti szerződésekben a szerződésből eredő jogok és kötelezettségeknek a Kincstár, mint szerződő fél mellett – a felek polgári jogi együttműködési kötelezettsége tekintetében – a járási hivatal is alanya.
 
-(9b)[^76] A 2015. április 1-jét megelőzően kötött (9) bekezdés szerinti szerződésekben – a szerződésből eredő jogok és kötelezettségek jogutódjaként – a Kincstár, mint szerződő fél helyébe a lakástámogatási hatóságok által folytatott közigazgatási hatósági eljárások tekintetében a kormányhivatal lép.
+(9b)[^76] A (9a) bekezdés szerinti szerződésekben – a szerződésből eredő jogok és kötelezettségek jogutódjaként – a fővárosi és megyei kormányhivatal helyébe a lakástámogatási hatóságok által folytatott közigazgatási hatósági eljárások tekintetében a járási hivatal lép.
 
 (10) E rendelet szerint támogatott kölcsönök kamattámogatásának számításánál az osztószám 360 nap.
 
@@ -49,8 +49,8 @@ bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiód
 [^72]: A 10. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 50. §-ával megállapított szöveg.
 [^73]: A 10. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 448. § b) pontja szerint módosított szöveg.
 [^74]: A 10. § (8) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 448. § b) pontja szerint módosított szöveg.
-[^75]: A 10. § (9a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (4) bekezdése iktatta be.
-[^76]: A 10. § (9b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (4) bekezdése iktatta be.
+[^75]: A 10. § (9a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 135. § (5) bekezdés 1. pontja szerint módosított szöveg.
+[^76]: A 10. § (9b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 135. § (2) bekezdésével megállapított szöveg.
 [^77]: A 10. § (11) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
 [^78]: A 10. § (12) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
 [^79]: A 10. § (13) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-134-20-
 | 2015-02-01 | 2009-134-20-22.13 | 4/2015. (I. 29.) Korm. rendelet |
 | 2015-04-01 | 2009-134-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2009-134-20-22.15 | 455/2015. (XII. 29.) Korm. rendelet |
+| 2017-01-01 | 2009-134-20-22.16 | 379/2016. (XII. 2.) Korm. rendelet |
