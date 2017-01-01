@@ -1,19 +1,3 @@
 ## 12. §[^7]
 
-13. § (1)[^8] A 9. § (2) bekezdés szerinti kötelezettség alapján teljesített bejelentések adatairól az OKTF 2013. szeptember 27-ig összesített elemzést készít.
-
-(2) Az (1) bekezdés szerinti elemzés
-
-a)[^9] a környezetvédelmi hatóság illetékességi területén 2001. március 1-je és 2013. március 29-e közötti időszakban bejelentett, használt, továbbá üzemben tartott PCB-t tartalmazó berendezésekre,
-
-b) a 2001. március 1-je és 2013. március 29-e közötti időszakban bejelentett, továbbá üzemben tartott PCB-t tartalmazó berendezések megtisztítására, hasznosítására vagy ártalmatlanítására, az eltávolított, hasznosított vagy ártalmatlanított PCB mennyiségére, valamint
-
-c) a 2010. június 30. után lefolytatott ellenőrzések és intézkedések eredményére
-
-vonatkozó adatokat tartalmazza.
-
-(3) A (2) bekezdés szerinti elemzést az OKTVF a környezetvédelemért felelős miniszter által vezetett minisztérium részére 2013. november 1-jéig megküldi.
-
 [^7]: A 12. §-t a 40/2013. (V. 24.) VM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
-[^8]: A 13. § (1) bekezdése a 132/2013. (XII. 23.) VM rendelet 34. § c) pontja szerint módosított szöveg.
-[^9]: A 13. § (2) bekezdés a) pontja a 15/2015. (III. 31.) FM rendelet 31. § b) pontja szerint módosított szöveg.
