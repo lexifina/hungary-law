@@ -26,7 +26,7 @@
 
 (11) Ahol jogszabály az Önkéntes Kölcsönös Biztosító Pénztárak Felügyeletét említi, azon az e törvény szerinti Állami Pénztárfelügyeletet kell érteni.
 
-(12) A Felügyelet az érintettek írásbeli tájékoztatása céljából a pénztártagi azonosításhoz szükséges adatokat (pénztártag neve, lakcíme, valamint a pénztártag társadalombiztosítási azonosító jele) átadja a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
+(12) A Felügyelet az érintettek írásbeli tájékoztatása céljából a pénztártagi azonosításhoz szükséges adatokat (pénztártag neve, lakcíme, valamint a pénztártag társadalombiztosítási azonosító jele) átadja a központi nyugdíjbiztosítási szerv részére.
 
 (13)
 

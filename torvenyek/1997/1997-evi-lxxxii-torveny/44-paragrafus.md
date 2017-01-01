@@ -26,7 +26,7 @@ alkalmazni, illetőleg foglalkoztatni. Az a), b), c) és g) pontokban felsorolt 
 
 (5) A pénztár a nevében, székhelyében, a bevételek tartalékok közötti megosztásának arányában, vezető tisztségviselőiben, és a (2) bekezdésben meghatározott személyekben bekövetkező változást annak időpontját követő 30 napon belül a Felügyeletnek bejelenti. A pénztár a megalakulásakor és a vezető tisztségviselők, illetve a kötelező alkalmazottak, megbízottak változása esetén – ideértve azok újraválasztását vagy újbóli kinevezését is – figyelemmel a (6) bekezdésben foglaltakra csatolja az érintett személy
 
-a) vonatkozásában a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának eredeti példányát,
+a) vonatkozásában a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának eredeti vagy hiteles másolati példányát,
 
 b) nyilatkozatát arról, hogy vele szemben jogszabályban meghatározott összeférhetetlenségi ok nem áll fenn,
 
