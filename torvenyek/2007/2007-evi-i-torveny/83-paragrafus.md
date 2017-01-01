@@ -1,4 +1,4 @@
-83. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv értesíti a központi adatkezelő szervet az EGT-állampolgár és a családtag
+83. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv értesíti a központi adatkezelő szervet az EGT-állampolgár és a családtag
 
 a) Magyarországon bekövetkezett haláláról, nevének megváltoztatásáról,
 
@@ -6,7 +6,7 @@ b) bejelentett lakóhelyének megszűnéséről,
 
 c) adatai nyilvántartásának megszüntetéséről.
 
-(2) Az eljáró hatóság tájékoztatja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet
+(2) Az eljáró hatóság tájékoztatja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet
 
 a) a tartózkodási jog megszűnéséről és a tartózkodási jog gyakorlásával való felhagyás megállapításáról,
 
