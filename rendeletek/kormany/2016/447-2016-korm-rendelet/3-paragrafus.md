@@ -1,0 +1,1 @@
+## „3. védett várakozási övezet: a kiemelt nemzeti emlékhelynek a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 14. § (1) bekezdés n) pontjában meghatározott módon kijelölt olyan területe, ahová a behajtás, továbbá ahol a várakozás feltételekhez kötött.”
