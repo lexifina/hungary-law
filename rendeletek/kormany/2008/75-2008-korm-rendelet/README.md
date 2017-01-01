@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-75-20-2
 | 2013-10-26 | 2008-75-20-22.8 | 377/2013. (X. 25.) Korm. rendelet |
 | 2014-01-01 | 2008-75-20-22.9 | 377/2013. (X. 25.) Korm. rendelet |
 | 2015-04-01 | 2008-75-20-22.10 | 72/2015. (III. 30.) Korm. rendelet |
+| 2017-01-01 | 2008-75-20-22.11 | 380/2016. (XII. 2.) Korm. rendelet |
