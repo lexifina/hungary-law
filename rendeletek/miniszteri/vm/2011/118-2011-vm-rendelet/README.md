@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-118-20-
 | 2015-01-01 | 2011-118-20-2Y.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-04-01 | 2011-118-20-2Y.7 | 15/2015. (III. 31.) FM rendelet |
 | 2016-07-28 | 2011-118-20-2Y.8 | 50/2016. (VII. 20.) FM rendelet |
+| 2017-01-01 | 2011-118-20-2Y.9 | 15/2015. (III. 31.) FM rendelet |
