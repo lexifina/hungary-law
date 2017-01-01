@@ -10,9 +10,9 @@ c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyil
 
 (2) A kamarai hatósági eljárásban ügyfélnek minősül a közjegyzőjelölt, a közjegyzőhelyettes, illetőleg az őket foglalkoztató vagy foglalkoztatni kívánó közjegyző, valamint a közjegyzői iroda tagja és volt tagja.
 
-(3) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a területi kamaránál, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni. Kamarai hatósági eljárásban a kérelem telefaxon nem nyújtható be.
+(3) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a területi kamaránál, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni.
 
-(4) A kamarai hatósági eljárást első fokon a területi kamara elnöksége folytatja le, az elnökség döntése elleni fellebbezést az országos kamara bírálja el. A kamarai hatósági eljárásban az ügyfél nem jogosult elektronikus úton írásban kapcsolatot tartani a hatósággal.
+(4) A kamarai hatósági eljárást első fokon a területi kamara elnöksége folytatja le, az elnökség döntése elleni fellebbezést az országos kamara bírálja el.
 
 (5)
 
@@ -32,4 +32,4 @@ c) közjegyzőhelyettes és közjegyzőjelölt névjegyzékbe vétele esetén ne
 
 d) szükség esetén a közjegyzői iroda nevét, székhelyét, cégjegyzékszámát, tagjainak nevét és személyazonosító adatait.
 
-(10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+(10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül közigazgatási hatósági ügynek.

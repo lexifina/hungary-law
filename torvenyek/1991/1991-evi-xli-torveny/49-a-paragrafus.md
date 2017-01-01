@@ -66,7 +66,9 @@ e) a cégjegyzékbe történő bejegyzés időpontja, cégjegyzékszám,
 
 f) a nyilvántartásba történő bejegyzés időpontja,
 
-g) a nyilvántartásból történő törlés időpontja.
+g) a nyilvántartásból történő törlés időpontja,
+
+h) a közjegyzői iroda E-ügyintézési tv. szerinti hivatalos elérhetősége.
 
 (6) A területi elnökség a közjegyzőjelöltet, illetve a közjegyzőhelyettest törli a kamarai névjegyzékből, ha
 
@@ -91,3 +93,7 @@ h) a közjegyző működésének vizsgálata során a területi elnökség megá
 (8) Ha a közjegyzői iroda a (2) bekezdés szerinti adatokat a bejelentésben nem közli, a kamara az adatok közlése iránt megkeresi a közjegyzői iroda bejegyzését végző cégbíróságot.
 
 (9) A (2) és a (4) bekezdés szerinti névjegyzék – a (2) bekezdés a), d) és e) pontjában foglalt adatok kivételével –, valamint az (5) bekezdés szerinti nyilvántartás – az (5) bekezdés a)–c) és e) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(10) A kamara az (5) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt a közjegyzői iroda oda jelentette be.
+
+(11) Ha a közjegyzői iroda az (5) bekezdés h) pontja szerinti adatot a kamara felé jelentette be, a cégbíróság azt a (10) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
