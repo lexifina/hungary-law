@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-55-20-2
 | 2013-03-01 | 2012-55-20-2T.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-03-02 | 2012-55-20-2T.3 | 2010: CXXX. törvény |
 | 2013-06-29 | 2012-55-20-2T.4 | 6/2013. (V. 30.) KIM rendelet |
+| 2017-01-01 | 2012-55-20-2T.5 | 58/2016. (XII. 22.) BM rendelet |
