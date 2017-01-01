@@ -30,6 +30,6 @@
 
 12. települési szintű lakóhely: olyan lakóhely, amely esetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartás a bejelentett település neve mellett a „lakcím nélküli” bejegyzést tartalmazza,
 
-13. ügyfélkapu: a magyar kormányzat elektronikus ügyfélbeléptető és azonosító rendszere,
+13.
 
 14. választási szerv: a választási bizottság és a választási iroda.

@@ -4,7 +4,7 @@
 
 a) személyesen a lakóhelye vagy tartózkodási helye szerinti helyi választási irodához vagy
 
-b) levélben, az ügyfélkapun vagy a választások hivatalos honlapján keresztül a lakcíme szerinti helyi választási irodához
+b) levélben, elektronikus azonosítását követően elektronikusan vagy anélkül elektronikusan a lakcíme szerinti helyi választási irodához
 
 nyújthatja be.
 
@@ -12,9 +12,9 @@ nyújthatja be.
 
 a) levélben,
 
-b) az ügyfélkapun keresztül,
+b) elektronikus azonosítását követően elektronikusan,
 
-c) a választások hivatalos honlapján keresztül
+c) elektronikusan azonosítás nélkül elektronikusan
 
 nyújthatja be a Nemzeti Választási Irodához.
 
