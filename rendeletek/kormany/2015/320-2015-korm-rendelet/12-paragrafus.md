@@ -1,7 +1,15 @@
-12. § (1) Az érintett szervezet az 5. melléklet szerinti előterjesztés benyújtásával kezdeményezi az általa lefolytatott közbeszerzési eljárás részvételi szakaszában a részvételi szakasz eredményének megállapítását megelőzően, az ajánlati szakaszában az eljárás eredményéről szóló írásbeli összegezés ajánlattevők részére történő megküldését megelőzően legalább tíz munkanappal a részvételi szakasz vagy az eljárás eredményére vonatkozó szabályossági tanúsítvány kiállítását.
+12. § (1)[^27] Az érintett szervezet – a közbeszerzési eljárást lezáró döntéséről, illetve több szakaszból álló eljárás esetén az eljárás részvételi szakaszát lezáró döntéséről haladéktalanul, de legkésőbb a döntés meghozatalát követő munkanapon – a döntés és az összegezés-tervezet megküldésével kezdeményezi az általa lefolytatott közbeszerzési eljárásban a részvételi szakasz vagy az eljárás eredményére vonatkozó záró tanúsítvány kiállítását.
 
-(2) A 6. § (1)–(2) és (4) bekezdése szerinti közbeszerzési eljárás esetén az érintett szervezet köteles megküldeni a miniszter részére a bírálóbizottság üléseiről készített jegyzőkönyvet, a kiegészítő tájékoztatásokat, a részvételi jelentkezéseket vagy ajánlatokat – különösen a közbeszerzési törvény 69. § (4)–(8) bekezdése szerinti dokumentumokat –, a hiánypótlási felhívásokat, a hiánypótlásokat, a felvilágosítás- és indokoláskéréseket, az ezekre adott válaszokat, az összegezést és adott esetben a tárgyalási jegyzőkönyvet.
+(2)[^28]
 
-(3) Az ellenőrző szervezet a benyújtott iratokkal kapcsolatos vizsgálata során további adatok kérése céljából, vagy hiányosságok pótlása érdekében hiánypótlási felhívást készíthet. Az ellenőrző szervezet bármely, az eljárás lefolytatása során, vagy azzal kapcsolatban keletkezett irat benyújtását kérheti.
+(3)[^29] Az ellenőrző szervezet a benyújtott iratokkal kapcsolatos vizsgálata során – a benyújtást követő három munkanapon belül – további adatok kérése céljából, vagy hiányosságok pótlása érdekében hiánypótlási felhívást készíthet. Az ellenőrző szervezet bármely, az eljárás lefolytatása során, vagy azzal kapcsolatban keletkezett irat benyújtását kérheti.
 
-(4) Az érintett szervezet öt munkanapon belül köteles a (3) bekezdés szerinti adatok, dokumentumok és hiányosságok pótlására, valamint a hibák javítására (a továbbiakban együttesen: hiánypótlás). A hiánypótlás teljesítésének időtartama az ellenőrző szervezet határidejébe nem számít bele.
+(4)[^30] Az érintett szervezet három munkanapon belül köteles a (3) bekezdés szerinti adatok, dokumentumok és hiányosságok pótlására, valamint a hibák javítására (a továbbiakban együttesen: hiánypótlás). A hiánypótlás teljesítésének időtartama az ellenőrző szervezet határidejébe nem számít bele.
+
+(5)[^31] A hiánypótlás (4) bekezdés szerinti teljesítését követően az összegezés a részvételre jelentkezők, illetve ajánlattevők részére megküldhető, azzal, hogy kétszakaszos eljárás esetén az ajánlattételi szakaszt megindító felhívás csak a 13. § (1) bekezdés a) vagy b) pontja szerinti záró tanúsítvány kiállítása esetén küldhető meg, egyszakaszos eljárás esetén a szerződéskötési moratórium leteltét követően a szerződés megköthető, hatályba azonban kizárólag az ellenőrző szervezet által a 13. § (1) bekezdés a) vagy b) pontja szerinti záró tanúsítvány kiállítása esetén lép. A 13. § (1) bekezdés b) pontja szerinti záró tanúsítvány kiállítása esetén az összegezés javítása, módosítása szükséges.
+
+[^27]: A 12. § (1) bekezdése a 478/2016. (XII. 27.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^28]: A 12. § (2) bekezdését a 478/2016. (XII. 27.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^29]: A 12. § (3) bekezdése a 478/2016. (XII. 27.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
+[^30]: A 12. § (4) bekezdése a 478/2016. (XII. 27.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^31]: A 12. § (5) bekezdését a 478/2016. (XII. 27.) Korm. rendelet 18. § (2) bekezdése iktatta be.

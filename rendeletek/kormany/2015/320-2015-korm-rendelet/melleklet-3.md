@@ -1,8 +1,6 @@
 ## Előterjesztés
 
-## a nettó 18 millió forintot elérő becsült értékű árubeszerzések, vagy szolgáltatás megrendelések, továbbá a nettó
-
-## 100 millió forintot elérő becsült értékű építési beruházások ellenőrzéséhez és engedélyezéséhez
+## az árubeszerzések, vagy szolgáltatás megrendelések, továbbá az építési beruházások ellenőrzéséhez és engedélyezéséhez
 
 ## AJÁNLATKÉRŐ ADATAI
 
@@ -26,7 +24,7 @@
 
 | 2.2. A közbeszerzési eljárás/szerződés tárgyának pontos leírása (ha rész-ajánlattétel engedélyezett, akkor a részek pontos megnevezése): |  |
 
-| 2.3. A közbeszerzés szükségességét és indokoltságát megalapozó tényezők részletes ismertetése: |  |
+| 2.3. A közbeszerzés szükségességét megalapozó tényezők részletes ismertetése: |  |
 
 | 3.1. A beszerzés/szerződés nettó becsült értéke (forintban meghatározva, részenként külön-külön és összesen, beleértve az opciót és a pozitív irányú mennyiségi eltérést): |  |
 
@@ -42,7 +40,9 @@
 
 | meghívásos | innovációs partnerség | előzetes tájékoztatóval meghirdetett tárgyalásos |
 
-| tárgyalásos | hirdetmény nélküli tárgyalásos eljárás |  |
+| tárgyalásos | hirdetmény nélküli tárgyalásos eljárás | Kbt. 105. § (1) bek. b) pontja szerinti versenyújranyitás vagy c) pontja szerinti írásbeli konzultáció |
+
+|  |  | Kbt. 105. § (2) bek. b) pontja szerinti versenyújranyitás vagy c) pontja szerinti írásbeli konzultáció |
 
 | 4.1.2.Nemzeti eljárásrend |
 
@@ -52,7 +52,7 @@
 
 | tárgyalásos [Kbt. 113. § (1) bek] | tárgyalásos | hirdetmény nélküli tárgyalásos | elektronikus licit |
 
-| saját beszerzési szabályok [Kbt. 117. §] |  |  |  |
+| saját beszerzési szabályok [Kbt. 117. §] | Kbt. 105. § (1) bek. b) pontja szerinti versenyújranyitás vagy c) pontja szerinti írásbeli konzultáció | Kbt. 105. § (2) bek. b) pontja szerinti versenyújranyitás vagy c) pontja szerinti írásbeli konzultáció |  |
 
 | 4.1.3. Az eljárás keretmegállapodás megkötésére irányul? | igen/nem Amennyiben igen, a Kbt. mely pontja alapján? [Kbt. 105. § (1) bekezdés a), b) vagy c), vagy Kbt. 105. § (2) bekezdés a), b) vagy c) pont] |
 
@@ -160,6 +160,8 @@
 
 | 15.6. Az előterjesztés szerinti közbeszerzés alapján kötött szerződés előterjesztő utólagosan el kívánja-e számolni európai uniós forrás terhére? | igen/nem |
 
+| 16. A Korm. rendelet 5. § (1a) bekezdése alapján a közbeszerzési eljárás az ellenőrzés kezdeményezésével egyidejűleg megindul? | igen/nem |
+
 ## Mellékletek:
 
 ## a) eljárást megindító vagy meghirdető felhívás és az eljárás megindításához szükséges közbeszerzési dokumentumok,
@@ -188,4 +190,6 @@
 
 ## P. H.
 
-3. melléklet a 320/2015. (X. 30.) Korm. rendelethez
+3–5. melléklet a 320/2015. (X. 30.) Korm. rendelethez[^49]
+
+[^49]: A 3–5. mellékletet a 478/2016. (XII. 27.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.

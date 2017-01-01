@@ -1,8 +1,6 @@
 ## Adatszolgáltatás
 
-## a nettó 8 millió forint becsült értéket el nem érő, keretmegállapodások alapján lefolytatott konzultációval vagy
-
-## versenyújranyitással kapcsolatban
+## a nettó 15 millió forint becsült értéket el nem érő árubeszerzés és szolgáltatás megrendelés tárgyú, valamint a nettó 25 millió forint becsült értéket el nem érő építési beruházás tárgyú, keretmegállapodások alapján lefolytatott konzultációval vagy versenyújranyitással kapcsolatban
 
 ## AJÁNLATKÉRŐ ADATAI
 
@@ -24,19 +22,19 @@
 
 | 2.1 Az adatszolgáltatással érintett időtartam (megfelelő aláhúzandó): |  |
 
-| 1. negyedév | 2. negyedév |
+| 1. | negyedév | 2. | negyedév |
 
-| 3. negyedév | 4. negyedév |
+| 3. | negyedév | 4. | negyedév |
 
-| 3. A beszerzés(ek) részletezése1: |
+| 3. A beszerzés(ek) részletezése51: |
 
-| A keret- meg- állapodás azonosító- ja: | A keretmeg- állapodás hatálya: | konzul- táció vagy verseny- újra- nyitás | A beszer- zés tárgya: | A beszer- zés nettó becsült értéke (forint- ban)2: | A rendelke- zésre álló fedezet (nettó, forint- ban)3: | Beérke- zett ajánla- tok száma (db): | Nyertes ajánlat- tevő: | Nyertes ajánlati ár (nettó, forint- ban): |
+| A keret- megállapodás azonosítója: | A keret- megállapodás hatálya: | konzultáció vagy verseny- újranyitás | A beszerzés tárgya: | A beszerzés nettó becsült értéke (forintban)52: | A rendelkezésre álló fedezet (nettó, forintban)53: | Beérkezett ajánlatok száma (db): | Nyertes ajánlat- tevő: | Nyertes ajánlati ár (nettó, forintban): |
 
-## 1 megfelelő számú sor beszúrásával
+## 51 megfelelő számú sor beszúrásával
 
-## 2 amennyiben részajánlat-tétel engedélyezett, az egyes részeket külön soron szükséges feltüntetni
+## 52 amennyiben részajánlat-tétel engedélyezett, az egyes részeket külön soron szükséges feltüntetni
 
-## 3 amennyiben részajánlat-tétel engedélyezett, az egyes részeket külön soron szükséges feltüntetni
+## 53 amennyiben részajánlat-tétel engedélyezett, az egyes részeket külön soron szükséges feltüntetni
 
 ## Keltezés
 

@@ -9,3 +9,8 @@
 (3) E rendelet rendelkezéseit a hatálybalépést követően megkezdett ellenőrzésekre kell alkalmazni.
 
 (4) A 2015. november 1-jét megelőzően megkezdett ellenőrzésekre a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendeletet kell alkalmazni.
+
+(5)[^34] E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet és a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015 (X. 30.) Korm. rendelet módosításáról szóló 478/2016. (XII. 27.) Korm. rendelet [a továbbiakban: 478/2016. (XII. 27.) Korm. rendelet] által módosított rendelkezéseit a 478/2016. (XII. 27.) Korm. rendelet hatálybalépését[^35] követően kezdeményezett ellenőrzésekre és adatszolgáltatásokra kell alkalmazni.
+
+[^34]: A 26. § (5) bekezdését a 478/2016. (XII. 27.) Korm. rendelet 20. §-a iktatta be.
+[^35]: A hatálybalépés időpontja 2017. január 1.
