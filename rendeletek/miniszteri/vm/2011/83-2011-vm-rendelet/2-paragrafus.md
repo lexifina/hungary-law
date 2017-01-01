@@ -1,6 +1,6 @@
 ## 2. A támogatás jellege, mértéke
 
-2. §[^9] (1) Támogatást borászati üzem (a továbbiakban: kérelmező) igényelhet.
+2. §[^10] (1) Támogatást borászati üzem (a továbbiakban: kérelmező) igényelhet.
 
 (2) Támogatás kizárólag olyan új, első üzembehelyezésű gép vásárlásához nyújtható,
 
@@ -10,6 +10,7 @@ b) amelynek célja a mezőgazdasági piacok közös szervezésének létrehozás
 
 c) amely szerepel a benyújtási időszak naptári évének augusztus 1-jén hatályos gépkatalógusban.
 
-(3) A gépkatalógust a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) hivatalos honlapján közzéteszi.
+(3)[^11] A gépkatalógust a Magyar Államkincstár (a továbbiakban: Kincstár) hivatalos honlapján közzéteszi.
 
-[^9]: A 2. § a 101/2013. (XI. 4.) VM rendelet 4. §-ával megállapított szöveg.
+[^10]: A 2. § a 101/2013. (XI. 4.) VM rendelet 4. §-ával megállapított szöveg.
+[^11]: A 2. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 46. § a) pontja szerint módosított szöveg.
