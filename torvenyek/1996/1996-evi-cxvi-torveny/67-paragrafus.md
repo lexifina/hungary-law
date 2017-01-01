@@ -20,9 +20,11 @@ dd) a tervezést, létesítést, építést, gyártást, üzembe helyezést, üz
 
 de) a munkavállalók foglalkoztatási előírásait,
 
-df) a nukleáris biztonsági és műszaki sugárvédelmi hatósági tevékenység szabályait,
+df) a nukleáris biztonsági hatósági tevékenység szabályait,
 
-dg) a nukleáris létesítményekkel összefüggő építmények körét, a nukleáris létesítményekkel, valamint a nukleáris létesítményekkel összefüggő építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, a műszaki dokumentáció részletes tartalmi követelményeit, az építésfelügyeleti ellenőrzés építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit;
+dg) a nukleáris létesítményekkel összefüggő építmények körét, a nukleáris létesítményekkel, valamint a nukleáris létesítményekkel összefüggő építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, a műszaki dokumentáció részletes tartalmi követelményeit, az építésfelügyeleti ellenőrzés építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit,
+
+dh) a hatósági engedélyektől való eltérés lehetséges módjait és feltételeit a létesítés alatt álló nukleáris létesítményben;
 
 e) az atomenergia alkalmazóinak, valamint az illetékes hatóságoknak, az érintett ágazati és területi szerveknek mind a nukleáris veszélyhelyzetre való felkészüléssel és tervezéssel, mind a nukleáris veszélyhelyzet elhárításával, továbbá a lakosság hiteles és időben történő tájékoztatásával összefüggő feladatait és kötelezettségeit;
 
@@ -72,7 +74,7 @@ ve) által lefolytatandó, a 18/D. § szerinti szakmagyakorlásra alkalmasság i
 
 v)
 
-w) a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait.
+w) a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tárolóban az engedélyektől való eltérés lehetséges módjait és feltételeit;
 
 x) az atomenergia alkalmazása körében a sugárvédelem érvényesítése érdekében:
 
@@ -104,6 +106,6 @@ xm) a sugárterhelésnek kitett munkavállalók kategóriákba sorolása szabál
 
 xn) a sugárzás elleni védőeszköz forgalomba hozatalnak engedélyezési és sugárvédelmi minősítési rendjét;
 
-xo) az xj) és xk) pontok szerinti létesítmény, berendezés tulajdonjoga megszerzésének, átadásának, a használat bármilyen jogcímen való átengedésének engedélyezését;
+xo) az xj) és xk) pontok szerinti létesítmény, berendezés alkalmazásának vagy üzemeltetésének megkezdésére, alkalmazásának vagy üzemeltetésének megszüntetésére, tulajdonjoga megszerzésére, illetve használata bármilyen jogcímen történő átengedésére irányuló bejelentés tudomásulvételét.
 
 y) az Országos Személyi Dozimetriai Nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi szakértői tevékenység folytatásának részletes feltételeit, e tevékenység folytatására jogosító engedély kiadásának rendjét, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi képzésre és továbbképzésre vonatkozó részletes szabályokat valamint a sugárvédelmi képzettség nyilvántartásának vezetésére vonatkozó részletes szabályokat.

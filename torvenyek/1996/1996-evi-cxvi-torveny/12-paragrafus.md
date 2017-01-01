@@ -18,13 +18,13 @@ a Kormány rendeletben állapítja meg.
 
 (5) A nemzetközi szervezetekkel kötött szerződésekben vállalt kötelezettségekből eredő ellenőrzések esetében az ellenőrzések jegyzőkönyve a nemzetközi szervezet hivatalos nyelvén készül.
 
-(6) A nukleáris létesítmény létesítési eljárásában a szabványhasználat kötelező.
+(6) A nukleáris létesítmény és radioaktívhulladék-tároló engedélykérelmeinek megalapozásához a szabványhasználat kötelező.
 
-(7) A nukleáris létesítmény létesítési engedélyezési eljárása és az atomfelügyeleti szerv által lefolytatott építési engedélyezési eljárás – külön jogszabály szerint – egyidejűleg is lefolytatható. A külön jogszabályban meghatározott hosszú gyártási idejű berendezések (nukleáris rendszerek és rendszerelemek) gyártására irányuló engedélykérelem – az engedélyes döntésétől függően – a külön jogszabályban meghatározott feltételek fennállása esetén a létesítési engedélyezési eljárás alatt is benyújtható, azonban az ebből eredő minden kockázat, a legyártott termék felhasználásra alkalmassága az engedélyest terheli.
+(7) A nukleáris létesítmény és radioaktívhulladék-tároló olyan építményei esetében, amelyeknek nincs szerepük a létesítmény üzemeltetésében az építési engedélyezés iránti kérelmet a létesítési engedélyezési eljárás megindítását megelőzően is be lehet nyújtani. A nukleáris létesítmény és radioaktívhulladék-tároló olyan építményei esetében, amelyek szükségesek az üzemeltetéshez az atomenergia-felügyeleti szerv által lefolytatott építési engedélyezési eljárás – a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló kormányrendelet (a továbbiakban: NBSZ. Kr.) szerint – a létesítési engedélyezési eljárással egyidejűleg is lefolytatható. Az NBSZ. Kr.-ben meghatározott hosszú gyártási idejű berendezések (nukleáris rendszerek és rendszerelemek) gyártására irányuló engedélykérelem – az engedélyes döntésétől függően – az NBSZ. Kr.-ben meghatározott feltételek fennállása esetén a létesítési engedélyezési eljárás alatt is benyújtható, azonban az ebből eredő minden kockázat, a legyártott termék felhasználásra alkalmassága az engedélyest terheli.
 
 (8) Amennyiben az engedélyes a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatót nyújt be, az ügyintézés határideje a 17. § (2) bekezdés 1. pont b) alpontjában foglalt létesítés, bővítés engedélyezése esetében
 
-a) tizenkét hónap abban az esetben, ha az engedélyes a 17. § (8) bekezdése szerinti előzetes tájékoztatót nyújt be,
+a) tizenkét hónap,
 
 b) tizennyolc hónap akkor, ha az engedélyes nem nyújt be a 17. § (8) bekezdése szerinti előzetes tájékoztatót.
 

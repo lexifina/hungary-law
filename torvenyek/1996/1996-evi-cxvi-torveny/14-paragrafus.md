@@ -16,7 +16,7 @@ b) a nukleáris berendezés, illetve a nukleáris létesítmény az engedélyeze
 
 (4b) A bíróság a (4), a (4a) bekezdés szerinti határozatok, valamint az atomerőmű tervezett üzemidején túli üzemeltetéséhez kiadott engedélyt tartalmazó határozat végrehajtását nem függesztheti fel.
 
-(5) Az engedélyes mindaddig felelős a nukleáris létesítmény nukleáris biztonságáért, amíg ez a felelősség okafogyottá nem vált vagy más engedélyesre át nem szállt. A felelősség a létesítmény telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez vagy megszüntetéséhez megszerzett engedélyek hatályának megszűnése esetén is fennáll.
+(5) Az engedélyes mindaddig felelős a nukleáris létesítmény vagy a radioaktívhulladék-tárolók nukleáris biztonságáért, amíg ez a felelősség az atomenergia-felügyeleti szerv által kiadott 17. § (2) bekezdés 1. pont b) alpontja szerinti határozata alapján nem szűnt meg, vagy más engedélyesre át nem szállt. A felelősség a nukleáris létesítmény és radioaktívhulladék-tároló telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez megszerzett engedélyek hatályának megszűnése esetén is fennáll.
 
 (5a) Az engedélyes felelőssége az (5) bekezdésben foglaltaktól függetlenül
 

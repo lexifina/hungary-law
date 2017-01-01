@@ -16,11 +16,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 3. a nukleáris létesítménnyel és a radioaktív-hulladék tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése;
 
-4. a nukleáris létesítmény rendszere, rendszereleme tekintetében az átalakítással, tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktív-hulladék tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek műszaki sugárvédelmi szempontokra is kiterjedő engedélyezése és ellenőrzése;
+4. a nukleáris létesítmény rendszere, rendszereleme tekintetében az átalakítással, tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktív-hulladék tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
 
-5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges műszaki sugárvédelmi szempontokra is kiterjedő engedélyezés és ellenőrzés;
+5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges engedélyezés és ellenőrzés;
 
-6. a nukleáris létesítmény és a radioaktívhulladék-tároló rendszerének, rendszerelemének az engedélyes szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumainak átalakításához szükséges műszaki sugárvédelmi szempontokra is kiterjedő engedélyezése és ellenőrzése;
+6. a nukleáris létesítmény és a radioaktívhulladék-tároló rendszerének, rendszerelemének az engedélyes szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumai átalakításának engedélyezése és ellenőrzése;
 
 7. az atomerőmű blokkjainak főjavítását követő újraindításához szükséges nukleáris biztonsági engedélyezés;
 
@@ -64,11 +64,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 27. a 26. pont alatt felsorolt tevékenységet szolgáló, nem nukleáris létesítmény, berendezés létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
 
-28. a radioaktív anyagot nem tartalmazó, ionizáló sugárzást létrehozó berendezés előállításának, forgalomba hozatalának, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
+28. a radioaktív anyagot nem tartalmazó, ionizáló sugárzást létrehozó berendezés előállításának, forgalomba hozatalának, üzemeltetésének, átalakításának, karbantartásának engedélyezése, az üzemeltetés megszüntetéséről szóló bejelentés tudomásulvétele;
 
 29. a 28. pont szerinti berendezés előállítását, üzemeltetését szolgáló nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
 
-30. a 26–29. pont szerinti anyag, berendezés és létesítmény tulajdonjoga megszerzésének, átadásának, a használat bármilyen jogcímen való átengedésének engedélyezése;
+30. a 26–29. pont szerinti anyag, berendezés és létesítmény tulajdonjoga megszerzésére, átadására, a használat bármilyen jogcímen való átengedésére irányuló bejelentés tudomásulvétele;
 
 31. az ionizáló sugárzás elleni védőeszköz forgalomba hozatalának engedélyezése és sugárvédelmi minősítése;
 
@@ -98,9 +98,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (2a) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez szükséges földtani kutatás célját szolgáló kutatólétesítményekkel kapcsolatos engedélyezési eljárásokra a bányászatról szóló törvényt és annak végrehajtására kiadott kormányrendeletet kell alkalmazni.
 
-(2b) A nukleáris létesítménnyel és a radioaktívhulladék-tárolóval összefüggő, kormányrendeletben meghatározott építési engedélyezési eljárásokban építésügyi hatóságként az atomenergia-felügyeleti szerv jár el, eljárására az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2b) A nukleáris létesítménnyel és a radioaktívhulladék-tárolóval összefüggő, kormányrendeletben meghatározott építési engedélyezési eljárásokban építésügyi hatóságként az atomenergia-felügyeleti szerv jár el, eljárására az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény, valamint a végrehajtására kiadott jogszabály és önkormányzati rendelet rendelkezéseit az e törvényben, valamint a végrehajtására kiadott jogszabályban foglalt eltérésekkel kell alkalmazni.
 
-(3) A tervezett, hatósági engedélyköteles tevékenység és az arra irányuló engedély iránti kérelem megalapozásának értékelésére, a műszaki, nukleáris biztonsági, sugárvédelmi, védettségi és biztosítéki követelmények teljesülésének, továbbá a hatósági engedélyek feltételeinek vizsgálatára az atomenergia-felügyeleti szerv – szakértői közreműködés érdekében – más intézményt is igénybe vehet. Az atomenergia-felügyeleti szerv a leggyakrabban igénybe vett intézetekkel, intézményekkel együttműködési megállapodást köt.
+(2c) A végleges üzemen kívül helyezési engedély jogerőre emelkedése után a létesítmény üzemeltetésére vonatkozó kérelmet előterjeszteni nem lehet.
+
+(3) A tervezett, hatósági engedélyköteles tevékenység és az arra irányuló engedély iránti kérelem megalapozásának értékelésére, a műszaki, nukleáris biztonsági, sugárvédelmi, védettségi és biztosítéki követelmények teljesülésének, továbbá a hatósági engedélyek feltételeinek vizsgálatára az atomenergia-felügyeleti szerv – szakértői közreműködés érdekében – más intézményt vagy szakértőt is igénybe vehet. Az atomenergia-felügyeleti szerv a leggyakrabban igénybe vett intézetekkel, intézményekkel együttműködési megállapodást köt.
 
 (4) Az atomenergia-felügyeleti szerv jogosult bármely atomenergiát alkalmazónál – hatáskörében – ellenőrzést folytatni.
 
@@ -108,9 +110,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell az atomenergia-felügyeleti szervnél a nukleáris létesítmény és a radioaktív-hulladék tároló üzemeltetési engedélyének módosítását.
 
-(7) A (2) bekezdés 1., 3–10., 12. és 15. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve – a nukleáris létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban kell benyújtani. A kérelmet megalapozó dokumentációt elektronikus adathordozón is mellékelni kell.
+(7) A (2) bekezdés 1., 3–10., 12. és 15. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve – a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban kell benyújtani. A kérelmet megalapozó dokumentációt elektronikus adathordozón is mellékelni kell. A műszaki sajátosságokat figyelembe véve, az A3 méretűnél nagyobb dokumentumokat papír alapon is be kell nyújtani.
 
 (8) A nukleáris létesítmény létesítési engedélyezési eljárásának tervezett megindítását megelőzően, a nukleáris létesítmény engedélyese kormányrendeletben foglaltak szerint előzetes biztonsági tájékoztató benyújtásával tájékoztathatja az atomenergia-felügyeleti szervet a tervezett nukleáris létesítmény biztonsági követelményeknek való előzetes megfeleléséről (előzetes biztonsági tájékoztató).
+
+(8a) Létesítés alatt álló nukleáris létesítmény és radioaktívhulladék-tároló hatósági engedélyeitől eltérni csak jogszabályban meghatározott módon és feltételekkel lehet.
 
 (9) A nukleáris létesítménnyel, valamint annak építményeivel összefüggő valamennyi, az engedélyezési eljárásban felmerült adat nyilvánosságra hozatalát az eljáró hatóság megtagadhatja, amennyiben az adat nyilvánosságra hozatala nemzetbiztonsági vagy honvédelmi érdeket, a közbiztonságot, Magyarország külügyi tevékenységét, külügyi kapcsolatait, nemzetközi szervezetekkel való kapcsolatait sérti vagy veszélyezteti, szellemi tulajdonhoz való jogot sért, vagy ha az adat nyilvánosságra hozatala a hatásterületet érintően a környezet védelmi szintjének csökkenésével járna. A nyilvánosságra hozatal megtagadható továbbá abban az esetben is, ha az bírósági, illetve más hatósági eljárás lefolytatását veszélyezteti, kivéve, ha az eljáró bíróság, hatóság engedélyezi az adat nyilvánosságra hozatalát.
 

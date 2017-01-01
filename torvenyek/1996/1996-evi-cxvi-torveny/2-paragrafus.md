@@ -10,7 +10,7 @@ b) az ionizáló sugárzást létrehozó, valamint az a) pont szerinti alkalmaz�
 
 2. atomenergia alkalmazója: aki az 1. pontban meghatározott tevékenységet végez;
 
-3. radioaktív anyag: a természetben előforduló vagy mesterségesen előállított anyag, amelynek egy vagy több összetevője ionizáló sugárzást bocsát ki;
+3. radioaktív anyag: a természetben előforduló vagy mesterségesen előállított olyan ionizáló sugárzást kibocsátó anyag, amely egy vagy több olyan radionuklidot tartalmaz, amelynek aktivitása vagy aktivitáskoncentrációja sugárvédelmi szempontból nem elhanyagolható;
 
 4. nukleáris anyag: az a radioaktív anyag, amely önfenntartó nukleáris láncreakcióra képes vagy képessé tehető, különösen az urán, a tórium, a plutónium és bármilyen anyag, amely az előbbiek közül egyet vagy többet gazdaságosan kinyerhető koncentrációban tartalmaz, a bányászat és az ércfeldolgozás körébe tartozó ércek és érchulladékok kivételével;
 
@@ -108,7 +108,7 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 
 45. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
-46. nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény és radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez vagy megszüntetéséhez szükséges engedély;
+46. nukleáris létesítmény és radioaktívhulladék-tároló létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény telephelye vizsgálatának és értékelésének, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez, valamint a radioaktívhulladék-tároló telephelye vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív intézményes és passzív intézményes ellenőrzéséhez szükséges engedély;
 
 47. felszín alatti kutatólaboratórium: kutatólétesítmény, a nagy aktivitású radioaktív hulladék végleges elhelyezését előkészítő tevékenység részeként a felszín alatt tetszőleges mélységben és geometriával kialakított földalatti térség és az ott működtetett kísérleti, kutató-fejlesztő és megfigyelő berendezések együttese, amelynek rendeltetése a földtani környezet és azon belül a befogadó kőzet részletes megismerése, a végleges elhelyezés műszaki megoldásainak optimalizálása, a földtani (természetes) és műszaki (épített) gátrendszer kölcsönhatásainak vizsgálata, és mindezek bemutatása a nyilvánosság számára;
 
@@ -119,3 +119,7 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 50. lefoglalt anyag: olyan nukleáris, vagy más radioaktív anyag, amelyet a vámhatóság azért foglalt le, mert annak a vámhatósági ellenőrzése során a vámáru nyilatkozat és a szállítmány között ellentmondás merült fel, vagy amelyet a hatóság az engedély nélküli birtoklással összefüggésben, büntetőeljárás során vagy egyéb kényszerintézkedés foganatosítása érdekében lefoglalt;
 
 51. fokozatosság elve: a rendszerek, folyamatok és módszerek terén az irányítás alóli kikerülés kockázatával, valószínűségével és lehetséges következményeivel arányos mértékű intézkedések és feltételek alkalmazása.
+
+52. atomenergia alkalmazására szolgáló építmény: a nukleáris létesítmény és a radioaktívhulladék-tároló, valamint az ezekkel összefüggő építmény;
+
+53. nukleáris létesítménnyel és radioaktívhulladék-tárolóval összefüggő építmény: a nukleáris biztonság szempontjából fontos, így különösen a radioaktív anyagok környezetbe jutását megakadályozó, és a sugárterhelés csökkentésére szolgáló, továbbá a biztonsági funkciók megvalósulásához közvetlenül szükséges építmények, a nukleáris biztonság szempontjából fontos gépészeti, villamos és irányítástechnikai rendszereket és rendszerelemeket tartalmazó épületek, a nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre közvetlen hatást gyakorolni képes építmények, a nukleáris létesítmény és a radioaktívhulladék-tároló fizikai védelmében szerepet játszó építmények és építményrészek, továbbá a telephelyi nukleárisbaleset-elhárítási tevékenység végrehajtását közvetlenül kiszolgáló épületek, és azon építmények, amelyek a nukleáris létesítmény és radioaktívhulladék-tároló létesítéséhez szükségesek és nincs szerepük a létesítmény üzemeltetésében, valamint azon építmények, amelyek vagy amelyeknek egyes részei a biztonsági övezethez tartoznak.

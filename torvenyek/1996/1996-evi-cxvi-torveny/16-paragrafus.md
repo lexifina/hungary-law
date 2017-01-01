@@ -62,24 +62,4 @@ g) a létesítményi biztosítéki felügyelő neve és elérhetősége.
 
 (8) A radioaktív anyagok – és ezen belül elkülönítetten a nukleáris anyagok – nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás részletes szabályait jogszabály állapítja meg.
 
-(9) Nagy aktivitású zárt sugárforrást felhasználó munkahelyen sugárvédelmi megbízott csak büntetlen előéletű, és olyan személy lehet, aki nem áll sugárvédelmi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
-
-(10) Azt a tényt, hogy a sugárvédelmi megbízott büntetlen előéletű és nem áll sugárvédelmi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt
-
-a) a megbízás létrejötte előtt a megbízást sugárvédelmi megbízottként létesíteni kívánó személy a megbízó részére, illetve
-
-b) a megbízás fennállása alatt a sugárvédelmi megbízott a megbízó írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a megbízott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul
-
-hatósági bizonyítvánnyal igazolja.
-
-(11) A megbízó a megbízás időtartama alatt a mulasztás jogkövetkezményének ismertetésével felhívhatja a sugárvédelmi megbízottat annak igazolására, hogy megfelel a (9) bekezdésben meghatározott feltételeknek.
-
-(12) Ha a (11) bekezdésben meghatározott felhívásra a sugárvédelmi megbízott igazolja, hogy a (9) bekezdés szerinti feltételek vele szemben fennállnak, a megbízó az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
-
-(13) A megbízást a megbízó azonnali hatállyal megszünteti, ha
-
-a) a sugárvédelmi megbízott a (10) bekezdés b) pontjában meghatározott kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
-
-b) a megbízó az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja, hogy a sugárvédelmi megbízott nem felel meg a (9) bekezdésben meghatározott feltételeknek.
-
-(14) A megbízó a sugárvédelmi megbízott (10) bekezdés a) pontja alapján megismert személyes adatait a sugárvédelmi megbízott megbízatásáról hozott döntésig, a (10) bekezdés b) pontja alapján megismert személyes adatait a megbízatás megszűnéséig kezeli.
+(9)–(14)
