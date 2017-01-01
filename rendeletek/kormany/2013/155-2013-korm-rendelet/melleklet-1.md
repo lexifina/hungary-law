@@ -14,7 +14,7 @@
 
 5. A 4. pontban meghatározottakon kívüli egyéb bányászati engedélyezésre irányuló hatósági eljárások
 
-6.[^3] Az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások
+6.[^3] Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások
 
 7. Tűzvédelmi hatósági eljárások
 
@@ -48,4 +48,4 @@
 
 22. Az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
 
-[^3]: Az 1. melléklet 6. pontja a 72/2015. (III. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^3]: Az 1. melléklet 6. pontja a 380/2016. (XII. 2.) Korm. rendelet 44. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
