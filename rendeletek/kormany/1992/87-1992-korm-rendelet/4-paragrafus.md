@@ -8,8 +8,10 @@
 
 (4) Az Étv. 5. §-a (2) bekezdésében meghatározott átruházás során az igazgatóság az OTF nevében jár el.
 
-(5) Az életjáradék folyósítása a Nyugdíjfolyósító Igazgatóság feladata.
+(5)[^10] Az életjáradék folyósítása a nyugdíjfolyósító szerv feladata.
 
-(6) Az életjáradékot a Nyugdíjfolyósító Igazgatóság a nyugdíjak folyósításával egyidejűleg, megkülönböztetett módon, havonta utólag folyósítja.
+(6)[^11] Az életjáradékot a nyugdíjfolyósító szerv a nyugdíjak folyósításával egyidejűleg, megkülönböztetett módon, havonta utólag folyósítja.
 
 [^9]: Lásd a 91/1993. (VI. 9.) Korm. rendelet 1.§-ának (1) bekezdését: Országos Nyugdíjbiztosítási Főigazgatóság (ONYF) .
+[^10]: A Vhr. 4. § (5) bekezdése a 379/2016. (XII. 2) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^11]: A Vhr. 4. § (6) bekezdése a 379/2016. (XII. 2) Korm. rendelet 7. §-a szerint módosított szöveg.
