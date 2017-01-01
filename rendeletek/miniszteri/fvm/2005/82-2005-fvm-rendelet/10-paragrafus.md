@@ -1,16 +1,16 @@
-## 9. § A termelő támogatási jogosultságáról vagy annak egy részéről az országos tartalék javára az MVH-nak eljuttatott bejelentésével lemondhat.
+## 9. §[^21] A termelő támogatási jogosultságáról vagy annak egy részéről az országos tartalék javára a Kincstárnak eljuttatott bejelentésével lemondhat.
 
-10. § (1) Az egyéni támogatási felső határ kihasználását jelenti, ha adott támogatási évben a termelő az 1. § (1) bekezdésében megjelölt támogatás szerinti támogatható állattal rendelkezik. A kihasználás mértékét a támogatásra jogosult állatlétszám és az egyéni támogatási felsőhatár hányadosa alapján az MVH állapítja meg.
+10. § (1)[^22] Az egyéni támogatási felső határ kihasználását jelenti, ha adott támogatási évben a termelő az 1. § (1) bekezdésében megjelölt támogatás szerinti támogatható állattal rendelkezik. A kihasználás mértékét a támogatásra jogosult állatlétszám és az egyéni támogatási felsőhatár hányadosa alapján a Kincstár állapítja meg.
 
-(2)[^19] Az országos támogatási felső határt, annak előző évi kihasználtságának szintjét és az adott évre vonatkozó országos tartalék mértékét az MVH az egységes területalapú támogatásokhoz kapcsolódó nemzeti kiegészítő támogatások (top up) igénybevételének feltételeit szabályozó miniszteri rendeletben az adott jogcímre, adott támogatási évre, a támogatási döntések meghozatalára megállapított határidő lejártát követő harminc napon belül honlapján közzéteszi.
+(2)[^23] Az országos támogatási felső határt, annak előző évi kihasználtságának szintjét és az adott évre vonatkozó országos tartalék mértékét a Kincstár az egységes területalapú támogatásokhoz kapcsolódó nemzeti kiegészítő támogatások (top up) igénybevételének feltételeit szabályozó miniszteri rendeletben az adott jogcímre, adott támogatási évre, a támogatási döntések meghozatalára megállapított határidő lejártát követő harminc napon belül honlapján közzéteszi.
 
-(3)[^20] Ha a termelő adott támogatási évben az egyéni támogatási felsőhatár száz százaléka alatt használja ki támogatási jogosultságát, akkor az összes ki nem használt egyéni támogatási jogosultság az országos tartalék javára ellenérték nélkül megvonásra kerül, függetlenül attól, hogy a termelő saját vagy használatba vett támogatási jogosultságát érinti.
+(3)[^24] Ha a termelő adott támogatási évben az egyéni támogatási felsőhatár száz százaléka alatt használja ki támogatási jogosultságát, akkor az összes ki nem használt egyéni támogatási jogosultság az országos tartalék javára ellenérték nélkül megvonásra kerül, függetlenül attól, hogy a termelő saját vagy használatba vett támogatási jogosultságát érinti.
 
-(4)[^21] Ha a termelő támogatási jogosultságának száma nem több, mint
+(4)[^25] Ha a termelő támogatási jogosultságának száma nem több, mint
 
 a) anyajuhtartás esetén 20 támogatási jogosultság,
 
-b)[^22] anyatehéntartás esetén 7 támogatási jogosultság,
+b)[^26] anyatehéntartás esetén 7 támogatási jogosultság,
 
 ## akkor a (3) bekezdés szerinti megvonás csak a támogatási jogosultságnak két egymást követő évben való 100% alatt történő kihasználása esetén alkalmazandó a második évben.
 
@@ -20,10 +20,12 @@ a) anyajuhtartás támogatási jogosultság esetén egész számra történő ke
 
 b) anyatehéntartás támogatási jogosultság esetén csak az első tizedesjegyet kell figyelembe venni.
 
-(6)[^23]
+(6)[^27]
 
-[^19]: A 10. § (2) bekezdése a 117/2011. (XII. 15.) VM rendelet 5. §-ával megállapított szöveg.
-[^20]: A 10. § (3) bekezdése a 16/2015. (IV. 9.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^21]: A 10. § (4) bekezdés záró szövegrésze a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított, a 16/2015. (IV. 9.) FM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^22]: A 10. § (4) bekezdésének b) pontja a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^23]: A 10. § (6) bekezdését a 84/2006. (XII. 12.) FVM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 117/2011. (XII. 15.) VM rendelet 10. §-a.
+[^21]: A 9. § a 88/2016. (XII. 29.) FM rendelet 8. § c) pontja szerint módosított szöveg.
+[^22]: A 10. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 8. § b) pontja szerint módosított szöveg.
+[^23]: A 10. § (2) bekezdése a 117/2011. (XII. 15.) VM rendelet 5. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 8. § b) pontja szerint módosított szöveg.
+[^24]: A 10. § (3) bekezdése a 16/2015. (IV. 9.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^25]: A 10. § (4) bekezdés záró szövegrésze a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított, a 16/2015. (IV. 9.) FM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 10. § (4) bekezdésének b) pontja a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^27]: A 10. § (6) bekezdését a 84/2006. (XII. 12.) FVM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 117/2011. (XII. 15.) VM rendelet 10. §-a.

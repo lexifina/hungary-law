@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-82-20-8
 | 2011-12-16 | 2005-82-20-82.9 | 117/2011. (XII. 15.) VM rendelet |
 | 2012-02-11 | 2005-82-20-82.10 | 5/2012. (II. 10.) VM rendelet |
 | 2015-04-10 | 2005-82-20-82.11 | 16/2015. (IV. 9.) FM rendelet |
+| 2017-01-01 | 2005-82-20-82.12 | 88/2016. (XII. 29.) FM rendelet |
