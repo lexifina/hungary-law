@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-21-20-2
 | 2013-01-01 | 2011-21-20-2X.4 | 36/2012. (XII. 14.) NGM rendelet |
 | 2014-02-01 | 2011-21-20-2X.5 | 40/2013. (IX. 30.) NGM rendelet |
 | 2014-03-15 | 2011-21-20-2X.6 | 12/2014. (III. 12.) NGM rendelet |
+| 2017-01-01 | 2011-21-20-2X.7 | 21/2016. (VI. 29.) NGM rendelet |
