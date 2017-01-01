@@ -10,13 +10,19 @@
 
 (2c)[^43] A nem kötelező minősítési eljárásban a jelentkezést a pedagógus legalább két hónapja folyamatosan fennálló keresőképtelenségére, vagy az Mt. 294. § (1) bekezdés b) pontjában meghatározott hozzátartozója tartós otthoni ápolására hivatkozással az OH-hoz intézett írásbeli nyilatkozatával – amelyhez mellékelni kell az ápolásra szoruló személy kezelőorvosa által kiadott igazolást – a portfólióvédés, vagy a pályázat védése időpontjáig vonhatja vissza.
 
-(3) Az (1) és (2) bekezdés szerinti rögzítést a minősítés évét megelőző év május 10-ig kell végrehajtani, amelyről a pedagógus az OH-tól elektronikus úton visszajelzést kap.
+(3)[^44] Az intézményvezető a rögzítést a minősítés évét megelőző év április 15-ig hajtja végre. Ettől eltérően, a kötelező minősítés esetén a rögzítést
+
+a) a foglalkoztatási jogviszony létesítésekor, vagy
+
+b) a közalkalmazotti besorolás alól a pedagógus besorolás hatálya alá történő átkerülés esedékességének időpontjában
+
+## is végre kell hajtani. A rögzítés megtörténtéről a pedagógus az OH-tól elektronikus úton visszajelzést kap.
 
 (4) Ha
 
 a) a pedagógus minősítésére a 2. § (2) vagy (3) bekezdése szerint kerül sor, vagy kötelező minősítési eljárás rögzítése szükséges, a foglalkoztatási jogviszony létesítésekor, vagy
 
-b)[^44] a már megkezdett minősítő vizsga, minősítési eljárás a foglalkoztatási jogviszony tartós szünetelésére tekintettel oly módon szakad meg, hogy folytatására csak a minősítés évét követő év eltelte után kerülhet sor, a szünetelés megszűnését követően öt napon belül
+b)[^45] a már megkezdett minősítő vizsga, minősítési eljárás a foglalkoztatási jogviszony tartós szünetelésére tekintettel oly módon szakad meg, hogy folytatására csak a minősítés évét követő év eltelte után kerülhet sor, a szünetelés megszűnését követően öt napon belül
 
 ## kell a rögzítést elvégezni.
 
@@ -24,14 +30,15 @@ b)[^44] a már megkezdett minősítő vizsga, minősítési eljárás a foglalko
 
 (6) Ha a minősítő vizsga vagy a minősítési eljárás lefolytatásának kötelezettsége megszűnt, vagy a minősítés évében nem kerülhet rá sor, az intézményvezető a rögzített adatot – a kinevezés, illetve a munkaszerződés megszűnését, módosítását, vagy a foglalkoztatási jogviszony szünetelésének kezdetét követő öt munkanapon belül – köteles módosíttatni vagy töröltetni az OH-nak megküldött kérelem útján.
 
-(7)[^45] Az intézményvezető a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak 8. § (1b) bekezdése szerinti minősítő vizsgája eredményét vagy eredménytelenségét a vizsga időpontjától számított öt munkanapon belül rögzíti az informatikai rendszerben. A minősítő vizsgával összefüggő iratokat – közalkalmazott esetén a közalkalmazotti alapnyilvántartás részeként – a munkáltató köteles megőrizni.
+(7)[^46] Az intézményvezető a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak 8. § (1b) bekezdése szerinti minősítő vizsgája eredményét vagy eredménytelenségét a vizsga időpontjától számított öt munkanapon belül rögzíti az informatikai rendszerben. A minősítő vizsgával összefüggő iratokat – közalkalmazott esetén a közalkalmazotti alapnyilvántartás részeként – a munkáltató köteles megőrizni.
 
-(8)[^46] Az intézményvezető haladéktalanul rögzíti az informatikai rendszerben, ha a minősítő vizsga vagy minősítési eljárás felfüggesztésére alapot adó körülmény bekövetkezik, vagy megszűnik, kivéve a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott gyakornok minősítő vizsgájának felfüggesztését.
+(8)[^47] Az intézményvezető haladéktalanul rögzíti az informatikai rendszerben, ha a minősítő vizsga vagy minősítési eljárás felfüggesztésére alapot adó körülmény bekövetkezik, vagy megszűnik, kivéve a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott gyakornok minősítő vizsgájának felfüggesztését.
 
 [^40]: A 10/A. § (2) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^41]: A 10/A. § (2a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^42]: A 10/A. § (2b) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^43]: A 10/A. § (2c) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^44]: A 10/A. § (4) bekezdés b) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 4. pontja szerint módosított szöveg.
-[^45]: A 10/A. § (7) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^46]: A 10/A. § (8) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^44]: A 10/A. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^45]: A 10/A. § (4) bekezdés b) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 4. pontja szerint módosított szöveg.
+[^46]: A 10/A. § (7) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^47]: A 10/A. § (8) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 11. § (3) bekezdése iktatta be.
