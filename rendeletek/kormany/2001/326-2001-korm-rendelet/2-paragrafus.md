@@ -1,6 +1,6 @@
 ## A családi gazdaságok létrehozásáról, nyilvántartásba vételéről és működtetéséről
 
-2. §[^3] (1)[^4] A családi gazdaság nyilvántartásba vételével összefüggő feladatokat a családi gazdaság központja szerint illetékes földművelésügyi feladatkörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) látja el.
+2. §[^3] (1)[^4] A családi gazdaság nyilvántartásba vételével összefüggő feladatokat azon járási hivatal – a főváros vonatkozásában a Pest Megyei Kormányhivatal Érdi Járási Hivatala – (a továbbiakban együtt: járási hivatal) látja el, amelynek illetékességi területén található a családi gazdaság központja.
 
 (2) A családi gazdaságok nyilvántartása a következő adatokat tartalmazza:
 
@@ -27,4 +27,4 @@ f) a módosítási kérelem benyújtásának és a nyilvántartásba vételének
 (3) A családi gazdaságok nyilvántartása – a (2) bekezdés a) és b) pontjában foglalt természetes személyazonosító és lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 [^3]: A 2. § a 203/2013. (VI. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
