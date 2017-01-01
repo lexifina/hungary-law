@@ -14,10 +14,10 @@ c) ideiglenes tárolóhelyen, ahol az egy időben tárolt pirotechnikai terméke
 
 d) kézi tárolóhelyen, ahol az egy időben tárolt pirotechnikai termékek összes nettó hatóanyag-tartalma nem haladja meg a 200 kg-ot, vagy
 
-e)[^32] átmeneti tárolóhelyen vagy fémlemez-szekrényben, ahol az egy időben tárolt pirotechnikai termékek összes nettó hatóanyag-tartalma nem haladja meg a 20 kg-ot.
+e)[^34] átmeneti tárolóhelyen vagy fémlemez-szekrényben, ahol az egy időben tárolt pirotechnikai termékek összes nettó hatóanyag-tartalma nem haladja meg a 20 kg-ot.
 
 (2) Az (1) bekezdés b)–e) pontja szerinti tárolóhely fűtése csak zárt rendszerű lehet, ahol az energiahordozó hőmérséklete legfeljebb 60 °C lehet.
 
 (3) A pirotechnikai tárolóhely őrzésére vonatkozó előírásokat a tárolási engedély tartalmazza.
 
-[^32]: A 16. § (1) bekezdés e) pontja a 100/2015. (IV. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 16. § (1) bekezdés e) pontja a 100/2015. (IV. 20.) Korm. rendelet 8. §-ával megállapított szöveg.

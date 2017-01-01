@@ -2,8 +2,10 @@
 
 (2) A pirotechnikai termék üzletben történő forgalmazása – kivéve e termékek év végi, konténerből történő ideiglenes forgalmazását – kizárólag bolti működési engedély birtokában kezdhető meg, és folytatható.
 
-(3) Tilos a pirotechnikai termék postai vagy csomagküldő szolgálat útján történő értékesítése.
+(3)[^82] Tilos a pirotechnikai termék postai szolgáltatás vagy csomagküldő kereskedelem keretében történő továbbítása, illetve értékesítése.
 
 (4) Az engedélyező hatóság által kiadott forgalmazási engedély visszavonásig hatályos.
 
 (5) Az 1–3. pirotechnikai osztályba tartozó tűzijáték termék év végi forgalmazása, és ehhez kapcsolódó tárolása forgalmazási engedéllyel rendelkező részére ideiglenes tárolóhelyre is engedélyezhető legfeljebb két hónap időtartamra.
+
+[^82]: A 94. § (3) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.

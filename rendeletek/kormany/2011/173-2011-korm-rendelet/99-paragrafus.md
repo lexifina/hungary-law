@@ -1,6 +1,6 @@
 ## 25. Pirotechnikai termék felhasználásának engedélyezése, bejelentése
 
-99. § (1) A felhasználási engedély iránti kérelmet a felhasználás megkezdését megelőzően tizennégy nappal a 3. melléklet 8. pontjában meghatározott formanyomtatványon kell benyújtani.
+99. § (1)[^99] A felhasználási engedély iránti kérelmet a felhasználás megkezdését megelőzően legalább tizennégy, de legfeljebb 30 nappal – a 3. melléklet 8. pontjában meghatározott tartalommal – kell benyújtani.
 
 (2) A felhasználási engedély iránti kérelemhez mellékelni kell
 
@@ -10,22 +10,27 @@ b) a pirotechnikai termék felhasználása során igénybe vehető terület, mű
 
 c) a pirotechnikai termék szállítási módjának megfelelő veszélyes áru szállítási jogszabály által az adott szállításra vonatkozó feltételek meglétére vonatkozó nyilatkozatot, és
 
-d)[^81] a pirotechnikai termék felhasználásáért felelős pirotechnikus nyilatkozatát arra vonatkozóan, hogy a kérelemben megjelölt napon és időtartamban tervezett felhasználáshoz képest öt óra eltérésen belül egyéb felhasználásra vonatkozó kérelmet vagy bejelentést mely helyszínekre és hatóságokhoz, milyen időpontra nyújtott be,
+d)[^100] a pirotechnikai termék felhasználásáért felelős pirotechnikus nyilatkozatát arra vonatkozóan, hogy a kérelemben megjelölt napon és időtartamban tervezett felhasználáshoz képest öt óra eltérésen belül egyéb felhasználásra vonatkozó kérelmet vagy bejelentést mely helyszínekre és hatóságokhoz, milyen időpontra nyújtott be,
 
 e) pirotechnikusi bizonyítvány másolatát,
 
 f) tűzvédelmi szakvizsga bizonyítvány másolatát.
 
+(2a)[^101] A felhasználás végrehajtását legfeljebb 2 óra időtartamban kell meghatározni.
+
 (3) A (2) bekezdés c) pontja esetében, ha a kérelemben megjelölt összes nettó hatóanyag-tartalom meghaladja a veszélyes áruk szállításáról szóló külön jogszabályban meghatározott az egy szállítóegységben szállított mennyiségből adódó mentesség szerinti határértékeket, a felhasználási engedély iránti kérelemhez mellékelni kell a szükséges okmányok (jármű-jóváhagyási igazolás, ADR oktatási bizonyítvány, írásbeli utasítás, veszélyes áru szállítási biztonsági tanácsadó bejelentés) másolatát is.
 
 (4) A (2) bekezdés d) pontjára figyelemmel több helyszín esetében a felhasználás csak akkor engedélyezhető, ha a lebonyolítást a többi helyszínen történő tevékenység nem akadályozza vagy veszélyezteti.
 
-(5)[^82] Az 1–3. pirotechnikai osztályba tartozó tűzijáték terméket a felhasználási engedély benyújtására jogosult vállalkozás felelős pirotechnikusa – maximum 20 kg összes nettó hatóanyag-tartalomig – engedély nélkül, előzetes bejelentési kötelezettség mellett felhasználhat.
+(5)[^102] Az 1–3. pirotechnikai osztályba tartozó tűzijáték terméket a lőfegyverekről és lőszerekről szóló törvényben és az e rendeletben meghatározott feltételeknek megfelelő, a felhasználási engedély benyújtására jogosult vállalkozás felelős pirotechnikusa – maximum 20 kg összes nettó hatóanyag-tartalomig – engedély nélkül, előzetes bejelentési kötelezettség mellett felhasználhatja.
 
-(6)[^83] A bejelentést – a felhasználás megkezdését megelőzően legalább nyolc, de maximum 30 nappal – a felhasználás helye szerint illetékes rendőrkapitányságon kell megtenni a 3. melléklet 9. pontjában meghatározott formanyomtatványon a (2) bekezdésben előírt mellékletekkel.
+(6)[^103] Az (5) bekezdés szerinti bejelentést – a felhasználás megkezdését megelőzően legalább nyolc, de legfeljebb 30 nappal – a felhasználás helye szerint illetékes rendőrkapitányságon, az erre a célra rendszeresített elektronikus űrlap benyújtása útján a 3. melléklet 9. pontjában meghatározott tartalommal kell megtenni. A bejelentéshez a (2) bekezdésben előírt mellékleteket is csatolni kell.
 
-(7) Ha a bejelentés alapján a jogszabályok előírásainak megfelelő, biztonságos felhasználás és tárolás feltételei nem biztosítottak, a felhasználás megkezdése előtt legalább két nappal a tevékenység végzését a (6) bekezdés szerinti rendőrkapitányság megtiltja.
+(7)[^104] Ha az (5) bekezdés szerinti bejelentés alapján a jogszabályok előírásainak megfelelő, biztonságos felhasználás és tárolás feltételei nem biztosítottak, a felhasználás megkezdése előtt legalább két nappal a tevékenység végzését a (6) bekezdés szerinti rendőrkapitányság megtiltja.
 
-[^81]: A 99. § (2) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^82]: A 99. § (5) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^83]: A 99. § (6) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^99]: A 99. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^100]: A 99. § (2) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^101]: A 99. § (2a) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^102]: A 99. § (5) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^103]: A 99. § (6) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^104]: A 99. § (7) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

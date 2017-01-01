@@ -8,6 +8,6 @@ b) az engedélyes az e rendeletben előírt, illetve az engedélyben meghatároz
 
 c) az engedélyes a 4. mellékletben meghatározott, a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzatban meghatározott rendelkezéseket – a hatóság figyelmeztetése ellenére – ismételten megsérti.
 
-(3)[^67] Az engedélyező hatóság a pirotechnikai termék gyártására, és állandó vagy ideiglenes tárolóhelyen történő tárolására vonatkozó engedélyeket a tevékenység helye szerint illetékes helyi önkormányzat (Budapesten a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) jegyzőjének tájékoztatás céljából megküldi.
+(3)[^69] Az engedélyező hatóság a pirotechnikai termék gyártására, és állandó vagy ideiglenes tárolóhelyen történő tárolására vonatkozó engedélyeket a tevékenység helye szerint illetékes helyi önkormányzat (Budapesten a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) jegyzőjének tájékoztatás céljából megküldi.
 
-[^67]: A 84. § (3) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^69]: A 84. § (3) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 37. §-a szerint módosított szöveg.

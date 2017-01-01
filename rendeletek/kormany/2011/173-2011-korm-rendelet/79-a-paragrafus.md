@@ -1,10 +1,10 @@
-79/A. §[^62] (1) A gazdasági szereplő a rendőrséget, annak megkeresését követő 3 napon belül tájékoztatja arról, hogy
+79/A. §[^64] (1) A gazdasági szereplő a rendőrséget, annak megkeresését követő 3 napon belül tájékoztatja arról, hogy
 
 a) mely gazdasági szereplő mely pirotechnikai terméket szállított a részére, valamint
 
 b) mely gazdasági szereplő részére mely pirotechnikai terméket szállította.
 
-(2)[^63] Az (1) bekezdés szerinti tájékoztatás tartalmazza
+(2)[^65] Az (1) bekezdés szerinti tájékoztatás tartalmazza
 
 a) a gazdasági szereplő nevét, ha van, cégjegyzékszámát,
 
@@ -12,5 +12,5 @@ b) a pirotechnikai termék nevét, nyilvántartási számát, típusát, ha van,
 
 (3) Az (1) bekezdés szerinti adatokat a szállítástól számított 10 évig kell a gazdasági szereplőnek megőriznie.
 
-[^62]: A 79/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^63]: A 79/A. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^64]: A 79/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^65]: A 79/A. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

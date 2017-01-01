@@ -6,7 +6,7 @@
 
 35. § (1) A pirotechnikai termék megfelelőségének tanúsítására alkalmazandó eljárások a következők:
 
-a)[^37] az EU-típusvizsgálati eljárás, és – a gyártó választása szerint –
+a)[^39] az EU-típusvizsgálati eljárás, és – a gyártó választása szerint –
 
 aa) a típus-megfelelőségi eljárás,
 
@@ -24,4 +24,4 @@ c) a termék teljes minőségbiztosítása.
 
 (4) A bejelentett szervezeteknek termékcsaládonként kell minősíteniük a pirotechnikai termékek azon csoportjait, amelyek megjelenésüket, funkciójukat vagy működésüket tekintve hasonlóak.
 
-[^37]: A 35. § (1) bekezdés a) pont nyitó szövegrésze a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^39]: A 35. § (1) bekezdés a) pont nyitó szövegrésze a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 6. pontja szerint módosított szöveg.

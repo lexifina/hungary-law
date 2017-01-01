@@ -42,6 +42,6 @@
 
 | 21. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-7. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^107]
+7. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^135]
 
-[^107]: A 7. mellékletet a 100/2015. (IV. 20.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^135]: A 7. mellékletet a 100/2015. (IV. 20.) Korm. rendelet 27. § (1) bekezdése iktatta be.
