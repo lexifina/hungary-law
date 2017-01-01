@@ -10,7 +10,7 @@
 
 | 2.2. | Használatbavételi engedélyezési eljárás | 8 500 |
 
-| 3. | Erdészeti, vadászati, halászati, talajvédelmi hatósági eljárások [a megyei kormányhivatalok mezőgazdasági feladatainak meghatározásáról szóló 68/2015. (III. 30.) Korm. rendelet] |  |
+| 3. | a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet |  |
 
 | 3.1. | Talajvédelmi hatósági eljárás | 14 000 |
 
@@ -24,17 +24,17 @@
 
 | 3.6. | Egyéb, a 3.1–3.5. pontba nem tartozó eljárás | 7 000 |
 
-| 4. | Közlekedési hatósági eljárások [a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rend. (a továbbiakban: 263/2006. (XII. 20.) Korm. rend.)] |  |
+| 4. | a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet |  |
 
-| 4.1. | Közlekedési hatósági engedélyezési eljárás (a légiközlekedési hatósági engedélyezési eljárás, a hajózási hatósági engedélyezési eljárás, a vasúti közlekedési hatósági engedélyezési eljárás, valamint a 4.2. pontban foglalt eljárás kivételével) [263/2006. (XII. 20.) Korm. rendelet 3. melléklet 3.2. táblázat] | 14 000 |
+| 4.1. | Közlekedési hatósági engedélyezési eljárás (a légiközlekedési hatósági engedélyezési eljárás, a hajózási hatósági engedélyezési eljárás, a vasúti közlekedési hatósági engedélyezési eljárás, valamint a 4.2. pontban foglalt eljárás kivételével) | 14 000 |
 
-| 4.2. | Sajátos építményfajták engedélyezési eljárása, az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 15. § (5) bekezdése szerinti eljárás [263/2006. (XII. 20.) Korm. rendelet 8. § (3a) bekezdés] | 14 000 |
+| 4.2. | Sajátos építményfajták engedélyezési eljárása, az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 15. § (5) bekezdése szerinti eljárás | 14 000 |
 
-| 5. | Ingatlanügyi engedélyezési eljárások [A földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet (a továbbiakban: 373/2014. (XII. 31.) Korm. rend.)] |  |
+| 5. | Ingatlanügyi engedélyezési eljárások |  |
 
-| 5.1. | Művelés alól kivett terület újrahasznosítására készített terv ingatlanügyi hatóság által történő jóváhagyására vonatkozó eljárás [373/2014. (XII. 31.) Korm. rendelet 2. melléklet a) táblázat I. pont] | 8 000 |
+| 5.1. | Művelés alól kivett terület újrahasznosítására készített terv ingatlanügyi hatóság által történő jóváhagyására vonatkozó eljárás | 8 000 |
 
-| 5.2. | Termőföld időleges és végleges más célú hasznosítására vonatkozó engedélyezési eljárás, engedély nélküli más célú hasznosítás esetén a más célú hasznosításhoz való hozzájárulás megadására irányuló eljárás [373/2014. (XII. 31.) Korm. rendelet 2. melléklet a) táblázat II–IV. pont] | 12 000 |
+| 5.2. | Termőföld időleges és végleges más célú hasznosítására vonatkozó engedélyezési eljárás, engedély nélküli más célú hasznosítás esetén a más célú hasznosításhoz való hozzájárulás megadására irányuló eljárás | 12 000 |
 
 | 6. | Bányászati hatósági eljárás [a Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet] |  |
 
@@ -42,11 +42,11 @@
 
 | 6.2. | A bányászati szakigazgatással kapcsolatos eljárások | 28 000 |
 
-| 7. | Régészeti feltárások engedélyezési eljárása [A régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet 43. § (2) bekezdése] | 8 500 |
+| 7. | Régészeti feltárások engedélyezési eljárása [A kulturális örökség védelmével kapcsolatos szabályokról szóló 496/2016. (XII. 28.) Korm. rendelet 33. § (2) bekezdése] | 8 500 |
 
-| 8. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti eljárások |  |
+| 8. | Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet szerinti eljárások |  |
 
-| 8.1. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdése szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárások | 14 000 |
+| 8.1. | Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 21. § (2) bekezdése szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárások | 14 000 |
 
 | 8.2. | Villamosenergia-ipari építésügyi engedélyezési eljárás [a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet] | 10 000 |
 
@@ -56,7 +56,7 @@
 
 | 10. | Környezeti hatások jelentőségének vizsgálata (Ha a 2–9. pontban meghatározott eljárás során a környezeti hatások jelentőségének vizsgálatára is sor kerül, az egyéb eljárási költség mértéke a 2–9. pontban meghatározott egyéb eljárási költség megfizetése mellett) | 133 000 |
 
-2. melléklet a 78/2015. (III. 31.) Korm. rendelethez[^1]
+2. melléklet a 78/2015. (III. 31.) Korm. rendelethez[^3]
 
 Az eljáró közigazgatási szerv fizetési számlája
 
@@ -104,4 +104,4 @@ Az eljáró közigazgatási szerv fizetési számlája
 
 | 21. | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
 
-[^1]: A 2. melléklet a 264/2015. (IX. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 264/2015. (IX. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.
