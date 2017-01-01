@@ -1,3 +1,3 @@
 1. melléklet a 302/2012. (X. 26.) Korm. rendelethez[^7]
 
-[^7]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 33. § a) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^7]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 32. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

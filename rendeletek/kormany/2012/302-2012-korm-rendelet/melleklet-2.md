@@ -4,33 +4,33 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt beruházásként citromsav előállító üzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági engedélyezési eljárás | Szolnoki Járási Hivatal | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
+| 2. | Kiemelt beruházásként citromsav előállító üzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 4. | természetvédelmi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | természetvédelmi hatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | útügyi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | útügyi hatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
 
-| 6. | vízjogi engedélyezési eljárás | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 8. | ingatlan-nyilván- tartási hatósági eljárás | Szolnoki Járási Hivatal | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
+| 8. | ingatlan-nyilván- tartási hatósági eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
 
-| 9. | telekalakítási hatósági eljárás | Szolnoki Járási Hivatal | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
+| 9. | telekalakítási hatósági eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
 
-| 10. | földmérési hatósági eljárás | Szolnoki Járási Hivatal | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
+| 10. | földmérési hatósági eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
 
-| 11. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 11. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Elnöke |
 
 | 12. | bányahatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 13. | talajvédelmi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 13. | talajvédelmi hatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
-| 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Szolnoki Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 15. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 15. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter | nincs |
 
 | 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -38,7 +38,7 @@
 
 | 18. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 19. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 302/2012. (X. 26.) Korm. rendelethez[^8]
 
@@ -46,19 +46,19 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Szolnoki Járási Hivatal | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
+| 2. | építésügy | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
-| 3. | környezet- és természetvédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezet- és természetvédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 4. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | közlekedés: közúti | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | közlekedés: közúti | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
-| 6. | közlekedés: vasúti | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 6. | közlekedés: vasúti | közlekedésért felelős miniszter | nincs |
 
-| 7. | közlekedés: légi | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
+| 7. | közlekedés: légi | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
 | 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
@@ -72,22 +72,20 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 14. |  |  |  |
+| 14. | földművelésügy: talajvédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
-| 15. | földművelésügy: talajvédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 15. | földművelésügy: erdővédelem | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 16. | földművelésügy: erdővédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 16. | régészet és műemlékvédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 17. | régészet és műemlékvédelem | Szolnoki Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 17. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 18. | egészségügy | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Elnöke |
 
-| 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 19. | műszaki biztonság | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 20. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 20. | élelmiszer-egészségügy | illetékes járási hivatal | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
-| 21. | élelmiszer-egészségügy | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 21. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-| 22. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
-
-[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 33. § b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 42. §-a, a 271/2016. (IX. 1.) Korm. rendelet 26. § (3)–(4) bekezdése szerint módosított szöveg.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 32. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
