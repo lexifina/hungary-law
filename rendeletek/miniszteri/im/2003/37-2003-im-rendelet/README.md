@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-37-20-0
 | 2015-08-17 | 2003-37-20-06.14 | 12/2015. (VII. 23.) IM rendelet |
 | 2015-09-22 | 2003-37-20-06.15 | 24/2015. (IX. 21.) IM rendelet |
 | 2016-01-01 | 2003-37-20-06.16 | 40/2015. (XII. 22.) IM rendelet |
+| 2017-01-01 | 2003-37-20-06.17 | 5/2016. (III. 8.) IM rendelet |

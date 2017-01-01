@@ -6,9 +6,9 @@
 
 (3) A fél értesítése a jogerősítési záradékkal ellátott végzés kiadmányának kézbesítésével történik. A záradékkal ellátott végzés kiadmányát meg kell küldeni a hagyatéki eljárásról szóló jogszabályban és a más jogszabályban megjelölt szerveknek is.
 
-(4)[^85] Ha több személy részvételével vagy több tárgyban folyó eljárásban a közjegyző határozatának csak egyes személyekre vonatkozó vagy csak egyes rendelkezései emelkednek jogerőre, erről a határozatban rendelkezni kell. Ilyenkor a záradékban fel kell tüntetni azt a napot, amelyen a határozat részben jogerőre emelkedett, valamint azt, hogy mely részben hajtható végre.
+(4)[^87] Ha több személy részvételével vagy több tárgyban folyó eljárásban a közjegyző határozatának csak egyes személyekre vonatkozó vagy csak egyes rendelkezései emelkednek jogerőre, erről a határozatban rendelkezni kell. Ilyenkor a záradékban fel kell tüntetni azt a napot, amelyen a határozat részben jogerőre emelkedett, valamint azt, hogy mely részben hajtható végre.
 
-(5)[^86] A végrehajtható okirat kérelemtől eltérő kiállítása tárgyában hozott végzés tekintetében az e §-ban foglalt rendelkezések nem alkalmazhatóak.
+(5)[^88] A végrehajtható okirat kérelemtől eltérő kiállítása tárgyában hozott végzés tekintetében az e §-ban foglalt rendelkezések nem alkalmazhatóak.
 
-[^85]: Az 54. § (4) bekezdését a 33/2008. (XII. 31.) IRM rendelet 17. §-a iktatta be.
-[^86]: Az 54. § (5) bekezdését a 28/2010. (XII. 31.) KIM rendelet 3. § (4) bekezdése iktatta be.
+[^87]: Az 54. § (4) bekezdését a 33/2008. (XII. 31.) IRM rendelet 17. §-a iktatta be.
+[^88]: Az 54. § (5) bekezdését a 28/2010. (XII. 31.) KIM rendelet 3. § (4) bekezdése iktatta be.
