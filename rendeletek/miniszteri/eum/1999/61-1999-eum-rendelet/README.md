@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-61-20-0
 | 2011-01-01 | 1999-61-20-0B.5 | 27/2010. (XII. 30.) NGM rendelet |
 | 2013-01-01 | 1999-61-20-0B.6 | 27/2010. (XII. 30.) NGM rendelet |
 | 2015-04-01 | 1999-61-20-0B.7 | 9/2015. (III. 31.) NGM rendelet |
+| 2017-01-01 | 1999-61-20-0B.8 | 62/2016. (XII. 29.) NGM rendelet |

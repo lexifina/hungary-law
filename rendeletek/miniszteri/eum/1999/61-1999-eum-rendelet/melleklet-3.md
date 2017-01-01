@@ -4,7 +4,7 @@
 
 ## [Lásd: 2/1998. (I. 16.) MüM rendelet a munkahelyi egészségvédelmi és biztonsági jelzésekről]
 
-3. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^24]
+3. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^25]
 
 ## Biológiai tényezők csoportba való sorolása
 
@@ -886,4 +886,4 @@ GOMBÁK
 
 | Trichophyton spp. | 2 |  |
 
-[^24]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^25]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (3) bekezdésével megállapított szöveg.

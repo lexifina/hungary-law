@@ -10,7 +10,7 @@
 
 a) a biológia tényezők 2. § (2) bekezdése alapján történő csoportba sorolása a 3. számú mellékletnek megfele- lően,
 
-b)[^3] a fővárosi és megyei kormányhivatalnak mint munkavédelmi hatóságnak (a továbbiakban: munkavédelmi hatóság) a bejelentés során tett ajánlásai,
+b)[^3] a fővárosi és megyei kormányhivatal járási hivatalának mint munkavédelmi hatóságnak (a továbbiakban: munkavédelmi hatóság) a bejelentés során tett ajánlásai,
 
 c) a foglalkozási, illetve a foglalkozással összefüggésbe hozható megbetegedésekre vonatkozó információk,
 
@@ -19,4 +19,4 @@ d) a munkavállaló munkahelyi tevékenységéből adódó lehetséges allergiz�
 e) a munkavállaló tényleges foglalkozási, illetve foglalkozással összefüggésbe hozható megbetegedései.
 
 [^2]: A 3. § (1) bekezdése a 18/2007. (V. 10.) SZMM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^3]: A 3. § (4) bekezdés b) pontja a 27/2010. (XII. 30.) NGM rendelet 19. § (1) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 15. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (4) bekezdés b) pontja a 27/2010. (XII. 30.) NGM rendelet 19. § (1) bekezdésével megállapított, a 62/2016. (XII. 29.) NGM rendelet 51. § (3) bekezdése szerint módosított szöveg.
