@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotó hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, valamint az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény (a továbbiakban: Ávt.) 49. §-a (3) bekezdésének b) pontjában kapott felhatalmazás alapján a következőket rendeli el:

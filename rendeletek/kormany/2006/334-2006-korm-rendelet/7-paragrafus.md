@@ -1,3 +1,0 @@
-## 6/A. §[^25] A Kormány a kísérlet során felhasznált vagy ilyen felhasználásra szánt állat természetes élőhelyre vagy állatkertbe történő kihelyezésére irányuló engedélyezési eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek az akciótervben foglaltak szerint vagy további feltételek mellett megfelel-e – a környezetvédelmi és természetvédelmi feladatkörében eljáró megyei kormányhivatalt szakhatóságként jelöli ki.
-
-[^25]: A 6/A. §-t a 40/2013. (II. 14.) Korm. rendelet 59. § (4) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 42. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 90. § (2) bekezdés g) pontja szerint módosított szöveg.
