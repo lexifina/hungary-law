@@ -12,7 +12,7 @@
 
 1.4. a villamos energiáról szóló törvény szerinti villamosenergia-kereskedelmi engedélyes,
 
-1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, azzal, hogy a villamos energia kötelező átvételi rendszerében értékesítő termelők közül kizárólag az 50 MW beépített teljesítőképességet meghaladó teljesítőképességű erőmű termelői engedélyese,
+1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, azzal, hogy a villamos energia kötelező átvételi rendszerében értékesítő termelők, továbbá a prémium típusú támogatásban részesülő termelők (ideértve mindkét esetben a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energiát csak részben a kötelező átvételi rendszerben értékesítő termelőt, a prémium típusú támogatási rendszerben részesülő termelőt) közül kizárólag az 50 MW beépített teljesítőképességet meghaladó teljesítőképességű erőmű termelői engedélyese,
 
 1.6. a villamos energiáról szóló törvény szerinti egyetemes szolgáltató,
 
