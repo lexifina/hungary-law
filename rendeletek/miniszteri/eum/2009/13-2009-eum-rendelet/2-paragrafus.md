@@ -1,4 +1,4 @@
-2. § (1)[^2] Az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) – a (2) bekezdésben foglaltak figyelembevételével – minden év április 1. napjáig összeállítja az azt követő félévben elkészítendő és felülvizsgálandó finanszírozási eljárásrendekről szóló munkatervet.
+2. § (1)[^2] Az egészségügyért felelős miniszter (a továbbiakban: miniszter) – a (2) bekezdésben foglaltak figyelembevételével – minden év április 1. napjáig megállapítja az azt követő félévben elkészítendő és felülvizsgálandó finanszírozási eljárásrendekről szóló munkatervet.
 
 (2) A munkaterv összeállítása során előnyben kell részesíteni azt a betegséget, illetve betegségcsoportot,
 
@@ -14,14 +14,17 @@ e) amely vonatkozásában magas a megbetegedési és a halálozási arány, vagy
 
 f) amely esetében a finanszírozási eljárásrend bevezetésével az ellátás költséghatékonysága javítható.
 
-(3) Az OEP főigazgatója az (1) bekezdésben megállapított határidőt követő 5 napon belül dönt a munkaterv jóváhagyásáról.
+(3)[^3]
 
-(4) A munkatervet a főigazgató a jóváhagyást követő 5 napon belül tájékoztatás céljából megküldi az egészségügyi miniszternek.
+(4)[^4] A munkatervet a miniszter a jóváhagyást követő 5 napon belül tájékoztatás céljából megküldi a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) főigazgatójának (a továbbiakban: főigazgató).
 
-(5) Az (1) bekezdésben meghatározottól eltérő időpontban
+(5)[^5] A miniszter az (1) bekezdésben meghatározottól eltérő időpontban
 
-a) a miniszter a munkatervben nem szereplő finanszírozási eljárásrend elkészítését kezdeményezheti,
+a) a munkatervben nem szereplő finanszírozási eljárásrend elkészítését kezdeményezheti,
 
-b) a főigazgató – különösen fontos ellátási érdekből – a (3) bekezdés alapján jóváhagyott munkatervet módosíthatja.
+b) különösen fontos ellátási érdekből az (1) és (2) bekezdés alapján megállapított munkatervet módosíthatja.
 
-[^2]: A 2. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 66. §-a, a 18/2013. (III. 5.) EMMI rendelet 14. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 64. § (7) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 64. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 64. § (2) bekezdésével megállapított szöveg.
