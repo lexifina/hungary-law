@@ -8,13 +8,13 @@
 
 (4) A különadó alapja
 
-1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított módosított mérlegfőösszeg;
+1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított módosított mérlegfőösszeg;
 
 2.
 
 3. egyéb pénzügyi szervezetnél:
 
-a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból előjelhelyesen számított
+a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból előjelhelyesen számított
 
 aa) kamateredmény, valamint
 
@@ -22,19 +22,17 @@ ab) díj- és jutalékeredmény
 
 összevont összege;
 
-b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
+b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel;
 
-c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
+c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel;
 
-d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél a 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
-
-e)
+d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel.
 
 (5)
 
 (6) A különadó mértéke
 
-a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,24 százalék 2016-ban,
+a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,21 százalék 2017-ben és 2018-ban;
 
 b)
 
@@ -52,9 +50,9 @@ ce)
 
 (7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(37) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
-(8) A jogutód a jogutódlással 2011. január 1-jét követően megszűnő adózó – a jogutódlással történő megszűnés adóévében hatályos rendelkezések szerint megállapított – különadó fizetési kötelezettségét – első ízben a jogutódlást követő adóévben – március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(8) A jogutód a jogutódlással megszűnő adózóra tekintettel a különadó fizetési kötelezettséget a jogutódlást követő adóévben a jogutódlással történő megszűnés adóévében hatályos rendelkezések (adóalap, adókulcs) szerint, a jogutódlással történő megszűnés adóévére vonatkozóan megállapított összegben állapítja meg, vallja be és fizeti meg.
 
-(8a) A hitelintézet a (8) bekezdést a (11) bekezdésben foglaltakra figyelemmel alkalmazza.
+(8a)
 
 (9) A megszűnő, vagy a különadó hatálya alól bármely más okból kikerülő pénzügyi szervezet a különadóval összefüggő minden olyan adókötelezettségét, amelynek teljesítésére előírt határidő korábban nem telt le, a megszűnését, illetőleg a különadó hatálya alól történő kikerülését követő 30. napig teljesíti.
 
@@ -70,7 +68,7 @@ d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szol
 
 e)
 
-(11) Az a hitelintézet, amely az adóévben befektetési szolgáltatási tevékenységet végez, vagy kiegészítő szolgáltatást nyújt, ezen tevékenységek vonatkozásában külön adókötelezettséget állapít meg a (4) bekezdés 3. pontjának és a (6) bekezdés c) pontjának megfelelő alkalmazásával az adóévi beszámoló adataira figyelemmel. Ezen tevékenységek vonatkozásában a különadót a hitelintézet az adóévet követő adóév szeptember 10-ig állapítja meg, vallja be és két egyenlő részletben – szeptember 10-ig és december 10-ig – megfizeti.
+(11)
 
 (12) Az a hitelintézet, amely a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet végez, az e § szerinti adókötelezettségét ezen tevékenysége vonatkozásában a pénzügyi vállalkozásokra vonatkozó rendelkezések megfelelő alkalmazásával, az adóévet megelőző második adóévi éves beszámoló adatai alapján állapítja meg. Az a hitelintézet, amely a Hpt. 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet jogutódlásra tekintettel végzi, e bekezdés szerinti adókötelezettségét a (8) bekezdésre figyelemmel állapítja meg.
 

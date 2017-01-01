@@ -2,9 +2,9 @@
 
 7. § E törvény alkalmazásában
 
-1. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon az állammal elszámolja;
+1.
 
-2. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít;
+2.
 
 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 
