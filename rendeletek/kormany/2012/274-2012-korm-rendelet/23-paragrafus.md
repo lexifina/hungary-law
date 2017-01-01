@@ -52,7 +52,7 @@ c)[^24] az az állami vezető, kormánytisztviselő vagy köztisztviselő, aki a
 
 d) a Nemzeti Közszolgálati Egyetem oktatója, aki közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült, vagy a mentesülés feltételeivel rendelkezik,
 
-e) a Bevándorlási és Állampolgársági Hivatal kormánytisztviselője, aki közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült, vagy a mentesülés feltételeivel rendelkezik.
+e)[^25] a Bevándorlási és Menekültügyi Hivatal kormánytisztviselője, aki közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült, vagy a mentesülés feltételeivel rendelkezik.
 
 (5) A pályázaton való részvétel feltétele
 
@@ -77,3 +77,4 @@ e) munkáltatói igazolást a szolgálati viszony vagy más foglalkoztatási jog
 [^22]: A 23. § (4) bekezdés a) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b)–c) pontja szerint módosított szöveg.
 [^23]: A 23. § (4) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) és d) pontja szerint módosított szöveg.
 [^24]: A 23. § (4) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^25]: A 23. § (4) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 204. § a) pontja szerint módosított szöveg.

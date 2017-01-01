@@ -1,4 +1,4 @@
-2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^34]
+2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^35]
 
 ## A RENDÉSZETI SZAKVIZSGA KÖVETELMÉNYRENDSZERE
 
@@ -208,11 +208,11 @@ III. Tűzoltó szolgálati ismeretek
 
 IV. A tűzoltás, a műszaki mentés eszközei
 
-## II.8. MIGRÁCIÓS IGAZGATÁS
+## II.8.[^36] MIGRÁCIÓS IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
-## A tantárgy rendeltetése, hogy a hatályos jogszabályok alapján megismertesse a vizsgázóval Magyarország idegenrendészeti, menekültügyi rendszerét és állampolgársági szabályait. A vizsgázó szerezzen ismereteket a magyar menekültügyi befogadó rendszerről, a Bevándorlási és Állampolgársági Hivatal, valamint a Rendőrség idegenrendészeti, menekültügyi feladatairól, a schengeni vízumkiadás szabályairól, az illegális migráció kezelésének lehetőségeiről, a közös európai menekültügyi rendszer kihívásairól, az uniós szabályokról. A vizsgázó mélyítse el ismereteit elsősorban a Bevándorlási és Állampolgársági Hivatal szerveinek – de tágabb értelemben – a migráció szabályozott mederben tartásában érintett szervek feladatai terén.
+## A tantárgy rendeltetése, hogy a hatályos jogszabályok alapján megismertesse a vizsgázóval Magyarország idegenrendészeti, menekültügyi rendszerét és állampolgársági szabályait. A vizsgázó szerezzen ismereteket a magyar menekültügyi befogadó rendszerről, a Bevándorlási és Menekültügyi Hivatal, valamint a Rendőrség idegenrendészeti, menekültügyi feladatairól, a schengeni vízumkiadás szabályairól, az illegális migráció kezelésének lehetőségeiről, a közös európai menekültügyi rendszer kihívásairól, az uniós szabályokról. A vizsgázó mélyítse el ismereteit elsősorban a Bevándorlási és Menekültügyi Hivatal szerveinek – de tágabb értelemben – a migráció szabályozott mederben tartásában érintett szervek feladatai terén.
 
 ## A tantárgy elemei:
 
@@ -256,7 +256,7 @@ III. Nemzetbiztonsági Szakszolgálat
 
 IV. Nemzeti Védelmi Szolgálat
 
-## V.[^35] Terrorelhárítási Információs és Bűnügyi Elemző Központ
+## V.[^37] Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 ## II.11. RENDŐRSÉGI IGAZGATÁS
 
@@ -300,5 +300,6 @@ IV. Áruosztályozás és áruismereti feladatok
 
 V. Büntető- és szabálysértési jogi feladatok
 
-[^34]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^35]: A 2. melléklet II. 10. NEMZETBIZTONSÁGI IGAZGATÁS cím V. pontja a 186/2016. (VII. 13.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^35]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^36]: A 2. melléklet II. pont II.8. alpontja a 379/2016. (XII. 2.) Korm. rendelet 204. § b) pontja szerint módosított szöveg.
+[^37]: A 2. melléklet II. 10. NEMZETBIZTONSÁGI IGAZGATÁS cím V. pontja a 186/2016. (VII. 13.) Korm. rendelet 7. §-a szerint módosított szöveg.
