@@ -1,6 +1,6 @@
-19. §[^35] (1) A 18. § (1) bekezdése szerinti hitelintézetnek és a postának azonosítania kell a készpénzforgalmazását és az ahhoz szükséges erőforrások rendelkezésre állását veszélyeztető valamennyi működési kockázatot, és rendelkeznie kell az azonosított működési kockázatokból és a kapcsolódó erőforrás-kiesésekből eredő, a készpénzforgalmazásában bekövetkező rendkívüli helyzetek kezelésére, így különösen a kritikus hitelintézeti, illetve postai fiókok, valamint a fióki ATM-ek működtetésére vonatkozó intézkedési tervvel.
+19. §[^33] (1) A 18. § (1) bekezdése szerinti hitelintézetnek és a postának azonosítania kell a készpénzforgalmazását és az ahhoz szükséges erőforrások rendelkezésre állását veszélyeztető valamennyi működési kockázatot, és rendelkeznie kell az azonosított működési kockázatokból és a kapcsolódó erőforrás-kiesésekből eredő, a készpénzforgalmazásában bekövetkező rendkívüli helyzetek kezelésére, így különösen a kritikus hitelintézeti, illetve postai fiókok, valamint a fióki ATM-ek működtetésére vonatkozó intézkedési tervvel.
 
-(2)[^36] Az (1) bekezdésben meghatározott intézkedési terv kötelező tartalmi elemei:
+(2)[^34] Az (1) bekezdésben meghatározott intézkedési terv kötelező tartalmi elemei:
 
 a) a készpénzforgalmazást – így különösen a kritikus hitelintézeti és postai fiókok, valamint a fióki ATM-ek működtetését – és az ahhoz szükséges erőforrások rendelkezésre állását veszélyeztető, azonosított működési kockázatok,
 
@@ -22,5 +22,5 @@ g) a fióki ATM-eknek az egyes működési kockázatok bekövetkezéséből ered
 
 (5) A 18. § (1) bekezdése szerinti, az MNB által ki nem jelölt hitelintézet az (1)–(3) bekezdés szerinti intézkedési tervét háromévente, a felülvizsgálat évének június 30. napjáig köteles felülvizsgálni.
 
-[^35]: A 19. § a 2/2014. (II. 14.) MNB rendelet 3. §-ával megállapított szöveg.
-[^36]: A 19. § (2) bekezdése a 34/2014. (IX. 25.) MNB rendelet 7. §-ával megállapított szöveg.
+[^33]: A 19. § a 2/2014. (II. 14.) MNB rendelet 3. §-ával megállapított szöveg.
+[^34]: A 19. § (2) bekezdése a 34/2014. (IX. 25.) MNB rendelet 7. §-ával megállapított szöveg.

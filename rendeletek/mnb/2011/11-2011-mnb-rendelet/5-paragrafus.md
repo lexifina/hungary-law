@@ -1,4 +1,4 @@
-5. §[^24] (1) Forintbankjegy forgalmazása céljából bankjegyvizsgáló gép kizárólag abban az esetben helyezhető üzembe, ha a bankjegyvizsgáló gép az MNB jegyzékben szereplő típusú, és az ott meghatározott hardver- és szoftver-verzióval rendelkezik.
+5. §[^23] (1) Forintbankjegy forgalmazása céljából bankjegyvizsgáló gép kizárólag abban az esetben helyezhető üzembe, ha a bankjegyvizsgáló gép az MNB jegyzékben szereplő típusú, és az ott meghatározott hardver- és szoftver-verzióval rendelkezik.
 
 (2) Az (1) bekezdés szerinti üzembe helyezést a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő köteles, más üzemeltető jogosult előzetesen – legkésőbb a tervezett üzembe helyezést 5 munkanappal megelőzően –, az alábbi adattartalommal bejelenteni az MNB-nek:
 
@@ -32,4 +32,4 @@ d) kapcsolattartó szervezeti egység megnevezése, elérhetősége.
 
 (7) A gyártó és a forgalmazó már üzembe helyezett bankjegyvizsgáló gépen a forintbankjegyek valódiságvizsgálatára szolgáló szoftver frissítését csak az MNB jegyzékben szereplő, a 13. § (3) bekezdése szerinti záradék nélküli szoftver-verzióval hajthatja végre, és arról köteles – legkésőbb a szoftverfrissítés végrehajtását követő 5 munkanapon belül – értesíteni az MNB-t.
 
-[^24]: Az 5. § a 34/2014. (IX. 25.) MNB rendelet 3. §-ával megállapított szöveg.
+[^23]: Az 5. § a 34/2014. (IX. 25.) MNB rendelet 3. §-ával megállapított szöveg.

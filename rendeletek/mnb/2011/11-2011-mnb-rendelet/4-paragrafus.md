@@ -4,7 +4,7 @@
 
 (3)[^22] A pénzfeldolgozó a forintbankjegyek – ide nem értve a fizikai állapotuk alapján bankjegyvizsgáló géppel nem vizsgálható, valamint a forgalomból bevont forintbankjegyeket – valódiság- és forgalomképességi vizsgálatát kizárólag az MNB jegyzékben szereplő típusú, az ott meghatározott hardver- és szoftver-verzióval rendelkező bankjegyvizsgáló géppel végezheti el.
 
-(4)[^23]
+(4) A tárgyévet megelőző naptári évben 40 millió forintot meghaladó átlagos napi forint kifizetési forgalmat lebonyolító hitelintézeti és postai fiók az ellátmányként vagy ellátmány-kiegészítésként kapott forintbankjegyeket a pénztári kifizetési forgalomban kizárólag abban az esetben forgathatja vissza, ha éves szinten az ellátmányként és ellátmány-kiegészítésként kapott forintbankjegyek legalább 90%-ának valódiságát és forgalomképességét az MNB jegyzékben szereplő típusú, az ott meghatározott hardver- és szoftver-verzióval rendelkező bankjegyvizsgáló géppel végzett vizsgálattal állapították meg.
 
 (5) A hitelintézeti és a postai fiók az ügyfél által az adott fiókban befizetett forintbankjegyet a pénztári kifizetési forgalomban kézi ellenőrzést követően is visszaforgathatja.
 
@@ -15,4 +15,3 @@ a) haladéktalanul tájékoztatni a vis maior helyzet beálltáról és annak v�
 b) utólag, a vis maior helyzet megszűnését követő hónap utolsó munkanapjáig írásban tájékoztatni az elvégzett kézi ellenőrzésről, ismertetve a vis maior helyzetet, továbbá megjelölve a kézi ellenőrzés tényleges időtartamát.
 
 [^22]: A 4. § (3) bekezdése a 34/2014. (IX. 25.) MNB rendelet 2. §-ával megállapított szöveg.
-[^23]: A 4. § (4) bekezdése a 24. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
