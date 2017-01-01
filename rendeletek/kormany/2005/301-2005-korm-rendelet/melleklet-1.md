@@ -1,3 +1,3 @@
-1. melléklet a 301/2005. (XII. 23.) Korm. rendelethez[^41]
+1. melléklet a 301/2005. (XII. 23.) Korm. rendelethez[^43]
 
-[^41]: Az 1. mellékletet a 78/2013. (III. 13.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^43]: Az 1. mellékletet a 78/2013. (III. 13.) Korm. rendelet 19. §-a hatályon kívül helyezte.

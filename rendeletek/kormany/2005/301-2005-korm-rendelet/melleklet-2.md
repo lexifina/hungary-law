@@ -1,4 +1,4 @@
-2. melléklet a 301/2005. (XII. 23.) Korm. rendelethez[^42]
+2. melléklet a 301/2005. (XII. 23.) Korm. rendelethez[^44]
 
 Szakterületenként előírt szakképzettség és szakmai gyakorlati idő
 
@@ -82,4 +82,4 @@ Megjegyzések:
 
 (16) Speciális szakmai képzettség: lőszerfeltáró tanfolyam 2. szint és a Magyar Honvédségnél, vagy a BM tűzszerész szervezeténél szerzett tűzszerész vizsga és szakmai vezetői gyakorlat.
 
-[^42]: A 2. mellékletet a 292/2011. (XII. 22.) Korm rendelet 10. §-a iktatta be.
+[^44]: A 2. mellékletet a 292/2011. (XII. 22.) Korm rendelet 10. §-a iktatta be.
