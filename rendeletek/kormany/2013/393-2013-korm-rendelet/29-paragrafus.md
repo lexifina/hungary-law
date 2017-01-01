@@ -1,4 +1,4 @@
-29. §[^93] (1) Az NSZFH az Fktv. 20. § (5) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
+29. §[^98] (1)[^99] A kormányhivatal az Fktv. 20. § (5) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
 1. határidőben nem tett eleget a 11. § (6) bekezdése szerinti bejelentési kötelezettségének,
 
@@ -30,7 +30,7 @@ d) d) pontja szerinti képzés esetén az érintett képzés kompetenciái megsz
 
 11. nem működtet ügyfélszolgálati és panaszkezelési rendszert,
 
-12. nem rendelkezik a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerint működtetett minőségbiztosítási rendszer dokumentumaival vagy nem végeztette el tevékenységének kétévente kötelező külső értékelését,
+12.[^100] nem rendelkezik a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerint működtetett minőségbiztosítási rendszer dokumentumaival,
 
 13. nem rendelkezik az e rendeletben meghatározott vagyoni biztosítékkal vagy határidőben nem tett eleget a 19. § (2) bekezdésében foglalt kötelezettségeinek,
 
@@ -42,6 +42,9 @@ d) d) pontja szerinti képzés esetén az érintett képzés kompetenciái megsz
 
 17. nem tett eleget a módosított képzési programok megküldésére vonatkozó – e rendelet szerinti – kötelezettségének.
 
-(2) Az NSZFH az Fktv. 20. § (6a) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói nem felelnek meg az Fktv.-ben foglalt rendelkezéseknek.
+(2)[^101] A kormányhivatal az Fktv. 20. § (6a) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói nem felelnek meg az Fktv.-ben foglalt rendelkezéseknek.
 
-[^93]: A 29. § a 360/2015. (XII. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^98]: A 29. § a 360/2015. (XII. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^99]: A 29. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^100]: A 29. § (1) bekezdés 12. pontja a 379/2016. (XII. 2.) Korm. rendelet 251. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^101]: A 29. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.

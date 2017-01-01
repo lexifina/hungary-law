@@ -1,8 +1,8 @@
-26. § (1)[^79]
+26. § (1)[^84]
 
-(2)[^80] A szakértői bizottság az ellenőrzési eljárás során a felnőttképzést folytató intézménynél helyszíni szemlét tart. A helyszíni szemle időpontjáról szóló értesítésben a felnőttképzést folytató intézményt fel kell hívni a szakértői bizottsággal való együttműködés kötelezettségére, valamint az együttműködés hiányának jogkövetkezményeire, kivéve, ha – a Ket. 57. § (2) bekezdésének alkalmazása esetén – a helyszíni szemlét előzetes értesítés nélkül kell lefolytatni.
+(2)[^85] A szakértői bizottság az ellenőrzési eljárás során a felnőttképzést folytató intézménynél helyszíni szemlét tart. A helyszíni szemle időpontjáról szóló értesítésben a felnőttképzést folytató intézményt fel kell hívni a szakértői bizottsággal való együttműködés kötelezettségére, valamint az együttműködés hiányának jogkövetkezményeire, kivéve, ha – a Ket. 57. § (2) bekezdésének alkalmazása esetén – a helyszíni szemlét előzetes értesítés nélkül kell lefolytatni.
 
-(3)[^81] A szakértői bizottság a helyszíni szemlén – az Fktv.-nek a felnőttképzést folytató intézmények ellenőrzésére vonatkozó rendelkezései szerint – vizsgálja, hogy az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
+(3)[^86] A szakértői bizottság a helyszíni szemlén – az Fktv.-nek a felnőttképzést folytató intézmények ellenőrzésére vonatkozó rendelkezései szerint – vizsgálja, hogy az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
 a) engedélyezett képzéseinek képzési programjai a vonatkozó jogszabályi előírásoknak megfelelnek-e,
 
@@ -26,20 +26,20 @@ j) az Fktv.-ben foglalt rendelkezéseknek megfelelően működteti-e a felnőttk
 
 k) működtet-e ügyfélszolgálati és panaszkezelési rendszert,
 
-l)[^82] rendelkezik-e a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerint működtetett minőségbiztosítási rendszer dokumentumaival, és kétévente elvégeztette-e a kötelező külső értékelést,
+l)[^87] rendelkezik-e a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerint működtetett minőségbiztosítási rendszer dokumentumaival,
 
 m) rendelkezik-e az e rendeletben foglaltak szerinti vagyoni biztosítékkal,
 
-n)[^83] az Fktv.-ben foglalt rendelkezéseknek megfelelően alakítja-e ki a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját, valamint
+n)[^88] az Fktv.-ben foglalt rendelkezéseknek megfelelően alakítja-e ki a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját, valamint
 
-o)[^84] eleget tett-e a módosított képzési programok megküldésére vonatkozó – e rendelet szerinti – kötelezettségének.
+o)[^89] eleget tett-e a módosított képzési programok megküldésére vonatkozó – e rendelet szerinti – kötelezettségének.
 
-(4)[^85] Az NSZFH az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény ellenőrzése során vizsgálja, hogy az intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói megfelelnek-e az Fktv.-ben foglalt rendelkezéseknek. Ebben az esetben szakértői bizottság ellenőrzési eljárásba történő bevonása nem kötelező.
+(4)[^90] A kormányhivatal az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény ellenőrzése során vizsgálja, hogy az intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói megfelelnek-e az Fktv.-ben foglalt rendelkezéseknek. Ebben az esetben szakértői bizottság ellenőrzési eljárásba történő bevonása nem kötelező.
 
-[^79]: A 26. § (1) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 21. § c) pontja hatályon kívül helyezte.
-[^80]: A 26. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^81]: A 26. § (3) bekezdés nyitó szövegrésze a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^82]: A 26. § (3) bekezdés l) pontja a 360/2015. (XII. 2.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^83]: A 26. § (3) bekezdés n) pontját a 360/2015. (XII. 2.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^84]: A 26. § (3) bekezdés o) pontját a 360/2015. (XII. 2.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^85]: A 26. § (4) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^84]: A 26. § (1) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 21. § c) pontja hatályon kívül helyezte.
+[^85]: A 26. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^86]: A 26. § (3) bekezdés nyitó szövegrésze a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^87]: A 26. § (3) bekezdés l) pontja a 360/2015. (XII. 2.) Korm. rendelet 15. § (1) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 251. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^88]: A 26. § (3) bekezdés n) pontját a 360/2015. (XII. 2.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^89]: A 26. § (3) bekezdés o) pontját a 360/2015. (XII. 2.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^90]: A 26. § (4) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 12. §[^32] Az NSZFH az engedéllyel rendelkező képző intézmény Fktv. 1. § (2) bekezdés b)–d) pontja szerinti nem támogatott képzési tevékenységének Fktv. alapján történő szervezéséről az intézménynek az Fktv. 15. §-a szerinti adatszolgáltatási kötelezettségének első alkalommal történő teljesítésével értesül.
+## 12. §[^35] A kormányhivatal az engedéllyel rendelkező képző intézmény Fktv. 1. § (2) bekezdés b)–d) pontja szerinti nem támogatott képzési tevékenységének Fktv. alapján történő szervezéséről az intézménynek az Fktv. 15. §-a szerinti adatszolgáltatási kötelezettségének első alkalommal történő teljesítésével értesül.
 
 ## III. Fejezet
 
@@ -16,4 +16,4 @@ c) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó ké
 
 (2) A képzési programban az Fktv. 12. § (1) bekezdés e) pontjában meghatározott képzési formák közül – az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés képzési programjának kivételével – csak egy szerepelhet.
 
-[^32]: A 12. § a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^35]: A 12. § a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
