@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-19-20-0
 | 2012-02-11 | 2006-19-20-0N.3 | 5/2012. (II. 10.) VM rendelet |
 | 2014-01-01 | 2006-19-20-0N.4 | 132/2013. (XII. 23.) VM rendelet |
 | 2015-04-01 | 2006-19-20-0N.5 | 15/2015. (III. 31.) FM rendelet |
+| 2017-01-01 | 2006-19-20-0N.6 | 89/2016. (XII. 29.) FM rendelet |
