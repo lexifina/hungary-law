@@ -1,3 +1,1 @@
-## 6. §[^3]
-
-[^3]: A 6. § a 9. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## 6. § Az R2. 1. melléklete a 3. melléklet szerint módosul.
