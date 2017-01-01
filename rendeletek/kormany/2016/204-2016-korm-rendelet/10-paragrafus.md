@@ -1,4 +1,4 @@
-## 9. §[^9]
+## 9. §[^10]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 6. §, a 8. § b) pontja és a 9. § 2017. január 1-jén lép hatályba.
 
-[^9]: A 9. § a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^10]: A 9. § a 464/2016. (XII. 23.) Korm. rendelet 48. § (2) bekezdés a) pontja alapján nem lép hatályba.
