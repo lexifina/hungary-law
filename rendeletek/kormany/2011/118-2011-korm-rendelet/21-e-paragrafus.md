@@ -1,6 +1,6 @@
-## 21/D. §[^40] Az atomenergia-felügyeleti szerv a közmeghallgatás helyéről és időpontjáról a közmeghallgatást megelőzően legalább tizenöt nappal értesíti az Atv. 11/A. § (5) bekezdésében meghatározott személyeket és szerveket.
+## 21/D. §[^41] Az atomenergia-felügyeleti szerv a közmeghallgatás helyéről és időpontjáról a közmeghallgatást megelőzően legalább tizenöt nappal értesíti az Atv. 11/A. § (5) bekezdésében meghatározott személyeket és szerveket.
 
-## 11/A. [^41] Előzetes biztonsági tájékoztató
+## 11/A. [^42] Előzetes biztonsági tájékoztató
 
 21/E. § (1) Az előzetes biztonsági tájékoztatás célja atomerőművek esetében, hogy a nukleáris biztonsági hatóság megfelelő terjedelmű felkészülési információhoz jusson a tervezett atomerőmű biztonsági követelményeknek való előzetes megfelelése tekintetében.
 
@@ -18,5 +18,5 @@ b) legkésőbb hatvan hónapon belül
 
 (5) A létesítési engedélyezési eljárás lefolytatására abban az esetben is az Atv. 12. § (8) bekezdés b) pontja szerinti ügyintézési határidő vonatkozik, ha az engedélyes a létesítési engedély iránti kérelmét a (4) bekezdés b) pontja szerinti határidőt túllépve nyújtja be.
 
-[^40]: A 21/D. §-t a 139/2014. (IV. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^41]: A 11/A. alcímet (21/E. §) a 207/2015. (VII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^41]: A 21/D. §-t a 139/2014. (IV. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^42]: A 11/A. alcímet (21/E. §) a 207/2015. (VII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
