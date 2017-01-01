@@ -234,6 +234,6 @@
 
 ## b) a közösen használt helyiségek takarítása mindennap.
 
-2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^42]
+2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^46]
 
-[^42]: A 2. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 121. § f) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^46]: A 2. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 121. § f) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
