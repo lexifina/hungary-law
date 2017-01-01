@@ -1,0 +1,3 @@
+13. § A Hszt. 121. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A hivatásos állomány tagja a magasabb rendfokozatba és az ahhoz rendelt fizetési fokozatba az (1) bekezdésben meghatározott feltételeken felül akkor léptethető elő, ha a magasabb rendfokozathoz előírt rendfokozati vizsgát teljesítette vagy a rendfokozati vizsga teljesítésének kötelezettsége alól mentesült. A rendfokozati vizsga alóli mentességi okokat a miniszter rendeletben – a polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében közjogi szervezetszabályozó eszközben – állapítja meg, a hivatásos állomány tagjának rendvédelmi szakmai képesítésére, szolgálati tapasztalatára, valamint korábbi szakmai életútjára figyelemmel.”
