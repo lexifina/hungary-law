@@ -6,10 +6,10 @@ b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek eset
 
 által kezelt adatokkal.
 
-(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a központi anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
+(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a Kormány által rendeletben kijelölt anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
 
 (2) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul gondoskodik a személyazonosító adatokban bekövetkező változásoknak a személyazonosító adatok és fényképek nyilvántartásában történő átvezetéséről.
 
-(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a központi anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.
+(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.
 
 (4) Ha a bűnügyi nyilvántartó szerv EGT-állam, harmadik ország vagy nemzetközi szervezet tájékoztatása alapján arról értesül, hogy a személyiadat- és lakcímnyilvántartás hatálya alá nem tartozó érintett személyazonosító adatai a személyazonosító adatok és fényképek nyilvántartásában szereplő adatoktól eltérnek, akkor a személyazonosító adatok változását haladéktalanul átvezeti a személyazonosító adatok és fényképek nyilvántartásában.

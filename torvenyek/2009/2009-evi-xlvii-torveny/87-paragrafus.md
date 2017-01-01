@@ -4,7 +4,7 @@
 
 ## Az érintett tájékoztatása
 
-87. § (1) Az érintett az e törvény hatálya alá tartozó nyilvántartásokban szereplő adatai kezelésére vonatkozó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatásra, valamint az adatok törlésére, helyesbítésére irányuló kérelmét ügyfélkapun keresztül elektronikus úton is előterjesztheti.
+87. § (1)
 
 (2) Az adatkezelő az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint megillető tájékoztatásból az adatai továbbítására vonatkozó tájékoztatását mellőzi, ha az e törvény szerint az adatok átvételére jogosult az adatok átvételével egyidejűleg jelzi, hogy az adattovábbításra vonatkozó adatok közlésének teljesítése
 
