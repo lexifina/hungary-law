@@ -12,10 +12,12 @@
 
 ## Határidő: az Európai Bizottság döntését követően azonnal
 
-1. melléklet az 1098/2015. (III. 5.) Korm. határozathoz
+1. melléklet az 1098/2015. (III. 5.) Korm. határozathoz[^1]
 
 |  | A | B | C | D | E | F | G |
 
 | 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Projektjavaslat megvalósítója | Projektjavaslat tervezett összköltsége (Ft) | Európai Hálózatfinanszírozási Eszköz terhére biztosítandó támogatás tervezett összege (Ft) | Hazai költségvetési támogatás tervezett összege (Ft) | Projektjavaslat rövid bemutatása |
 
-| 2. | Európai Hálózatfinanszírozási Eszköz | Vízi úti információs rendszer kiépítése | Nemzeti Közlekedési Hatóság és Rádiós Segélyhívó és Infokommunikációs Országos Egyesület | 4 830 815 000 | 2 415 407 500 | 2 415 407 500 | A projektjavaslat keretében a jelenleg is működő RIS (folyami információs szolgáltatások) rendszer üzembiztonsága és funkcionális kiterjesztése valósul meg. A szolgáltatások bővítése lehetővé teszi, hogy a biztonsági és hatósági funkciókon túl olyan szolgáltatásokat is kínáljon a rendszer, amelyek a hajózásban érdekeltek számára is pontos információkat szolgáltatnak. Továbbá a projektjavaslat a vízi utak jobb kihasználásához, a környezet védelméhez és a hatékony katasztrófa-megelőzéshez is hozzájárul. |
+| 2. | Európai Hálózatfinanszírozási Eszköz | Vízi úti információs rendszer kiépítése | Nemzeti Fejlesztési Minisztérium és Rádiós Segélyhívó és Infokommunikációs Országos Egyesület | 4 830 815 000 | 2 415 407 500 | 2 415 407 500 | A projektjavaslat keretében a jelenleg is működő RIS (folyami információs szolgáltatások) rendszer üzembiztonsága és funkcionális kiterjesztése valósul meg. A szolgáltatások bővítése lehetővé teszi, hogy a biztonsági és hatósági funkciókon túl olyan szolgáltatásokat is kínáljon a rendszer, amelyek a hajózásban érdekeltek számára is pontos információkat szolgáltatnak. Továbbá a projektjavaslat a vízi utak jobb kihasználásához, a környezet védelméhez és a hatékony katasztrófa-megelőzéshez is hozzájárul. |
+
+[^1]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 50. pontja szerint módosított szöveg.
