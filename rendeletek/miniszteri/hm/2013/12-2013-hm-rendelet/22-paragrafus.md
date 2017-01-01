@@ -1,28 +1,28 @@
-22. § (1) A költségvetésben külön meghatározott előirányzat, valamint jóváhagyott segélykeret terhére a HM VGHÁT mérlegelés alapján engedélyezheti segély kifizetését
+22. § (1)[^33] A költségvetésben külön meghatározott előirányzat, valamint jóváhagyott segélykeret terhére a HM VGHÁT mérlegelés alapján engedélyezheti segély kifizetését
 
-a)[^22] a nyugállományú katonának, valamint elhalálozása esetén a közeli hozzátartozóinak, élettársának,
+a) a nyugállományú katonának, nyugdíjas közalkalmazottnak, elhalálozása esetén a közeli hozzátartozóinak, élettársának,
 
-b) az állomány elhunyt tagja özvegyének,
+b) az állomány elhunyt tagja, valamint az elhunyt közalkalmazott özvegyének, élettársának,
 
-c) az állomány elhunyt tagja árvájának, amíg az állomány elhunyt tagjára tekintettel társadalombiztosítási ellátást folyósítanak számára, valamint
+c) az állomány elhunyt tagja, valamint az elhunyt közalkalmazott árvájának, amíg az állomány elhunyt tagjára, illetve az elhunyt közalkalmazottra tekintettel társadalombiztosítási ellátást folyósítanak számára, továbbá
 
-d) annak, akinek a szolgálati viszonya a szolgálati kötelmekkel összefüggő baleset, betegség miatt szűnt meg.
+d) annak, akinek a szolgálati viszonya a szolgálati kötelmekkel, közalkalmazotti jogviszonya munkahelyi kötelmekkel összefüggő baleset, betegség miatt szűnt meg.
 
-(2)[^23] A nyugállományú katona részére nem engedélyezhető az (1) bekezdés szerinti segély kifizetése, ha szolgálati viszonya
+(2)[^34] A nyugállományú katona, illetve nyugdíjas közalkalmazott részére nem engedélyezhető az (1) bekezdés szerinti segély kifizetése, ha szolgálati viszonya, közalkalmazotti jogviszonya
 
-a) jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése miatt,
+a) jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése,
 
-b) a magyar állampolgárság megszűnése miatt,
+b) a magyar állampolgárság megszűnése,
 
-c) az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező eset miatt,
+c) az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező eset,
 
-d) tábori lelkész esetében az egyház visszahívása és más megfelelő szolgálati beosztásban történő foglalkoztatás hiánya miatt,
+d) tábori lelkész esetében az egyház visszahívása és más megfelelő szolgálati beosztásban történő foglalkoztatás hiánya,
 
-e) a jogviszony létesítéséhez szükséges követelmények igazolásának ismételt szabályszerű felhívást követő elmulasztása miatt,
+e) a jogviszony létesítéséhez szükséges követelmények igazolásának ismételt szabályszerű felhívást követő elmulasztása, vagy
 
-f) a katonai szolgálatra történő, fizikai okból eredő alkalmatlansága miatt
+f) nyugállományú katona esetében a katonai szolgálatra történő, fizikai okból eredő alkalmatlansága
 
-## szűnt meg.
+## miatt szűnt meg.
 
 (3) Az (1) bekezdés szerinti segély iránti kérelmet az MH hadkiegészítésért és központi nyilvántartásért felelős szervéhez, a HM VGHÁT-nak címezve kell benyújtani az erre rendszeresített formanyomtatvány alkalmazásával.
 
@@ -40,5 +40,5 @@ e) a kérelmező aláírása,
 
 f) az MH hadkiegészítésért és központi nyilvántartásért felelős szervének környezettanulmánya, valamint a kérelem benyújtását megelőző 12 hónapban esetlegesen nyújtott segélyekre vonatkozó adatok.
 
-[^22]: A 22. § (1) bekezdés a) pontja a 24/2013. (XII. 20.) HM rendelet 20. § b) pontja szerint módosított szöveg.
-[^23]: A 22. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 17. § b) pontja szerint módosított szöveg.
+[^33]: A 22. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg.
+[^34]: A 22. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg.

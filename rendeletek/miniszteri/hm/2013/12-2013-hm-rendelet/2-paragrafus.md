@@ -1,4 +1,4 @@
-2. § (1)[^2] E rendelet alkalmazásában
+2. § (1)[^3] E rendelet alkalmazásában
 
 1. felszámítási alap: a juttatások számításának alapját képező bázisösszeg,
 
@@ -22,7 +22,7 @@ b) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) a Honvéd Vezérkar és 
 
 c) a KNBSZ főigazgatója a KNBSZ állománya tekintetében.
 
-(3)[^3] A felszámítási alap összege 38 650 Ft.
+(3)[^4] A felszámítási alap összege 38 650 Ft.
 
-[^2]: A 2. § (1) bekezdése a 6/2015. (VI. 22.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (3) bekezdését a 6/2015. (VI. 22.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § (1) bekezdése a 6/2015. (VI. 22.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (3) bekezdését a 6/2015. (VI. 22.) HM rendelet 1. § (2) bekezdése iktatta be.

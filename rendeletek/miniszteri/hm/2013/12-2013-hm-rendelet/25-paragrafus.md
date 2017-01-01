@@ -6,7 +6,7 @@
 
 (2) A támogatásként nyújtott szolgáltatások
 
-a)[^26] a szervezeti élettel összefüggő rendezvények elhelyezési és irodatechnikai eszköz feltételeinek biztosítására,
+a)[^37] a szervezeti élettel összefüggő rendezvények elhelyezési és irodatechnikai eszköz feltételeinek biztosítására,
 
 b) a szervezeti működéssel összefüggő egyéb szolgáltatások, így különösen telefonvonal, levelezés biztosítására, és
 
@@ -16,4 +16,4 @@ terjedhetnek ki.
 
 (3) A szolgáltatások köre és igénybevételének módja egyedi megállapodásban kerül rögzítésre.
 
-[^26]: A 25. § (2) bekezdés a) pontja a 6/2014. (IV. 14.) HM rendelet 15. §-ával megállapított szöveg.
+[^37]: A 25. § (2) bekezdés a) pontja a 6/2014. (IV. 14.) HM rendelet 15. §-ával megállapított szöveg.
