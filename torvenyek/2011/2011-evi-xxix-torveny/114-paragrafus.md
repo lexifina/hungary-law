@@ -42,13 +42,7 @@
 
 [rendeletben állapítsa meg.]
 
-(6) A VET. 170. § (1) bekezdés 29. pontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazást kap a Kormány, hogy]
-
-„29. a megújuló energiaforrásból, valamint a hulladékból nyert energiával, továbbá a jogszabályban meghatározott egyéb módon termelt villamos energia felhasználását elősegítő kötelező átvételi rendszer részletes szabályait – különösen az átvételi kötelezettség alá eső villamos energia átvételi árát, a kötelező átvétel időtartamát és az egy erőműre vonatkozó kötelező átvétel alá eső maximális villamos energia mennyiséget – a kötelező átvételi rendszer keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez szükséges minimális hatásfokot,”
-
-[rendeletben állapítsa meg.]
+(6)
 
 (7) A VET. 170. § (1) bekezdés 31. pontja helyébe a következő rendelkezés lép:
 

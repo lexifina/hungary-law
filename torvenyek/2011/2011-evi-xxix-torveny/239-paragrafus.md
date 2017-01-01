@@ -1,3 +1,0 @@
-239. § A Get. 123. § (6a) bekezdése helyébe a következő rendelkezés lép:
-
-„(6a) A Hivatal megtagadja a (4) bekezdésben meghatározott részesedésszerzés jóváhagyását, ha az nem felel meg az ott rögzített követelményeknek. A Hivatal megtagadja az (5) bekezdésben meghatározott jogügylet jóváhagyását, ha a 128. § szerinti eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként a szállítási rendszerüzemeltető nem felelne meg a rá vonatkozó szétválasztási követelményeknek, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország, vagy más tagállam energiaellátásának biztonságát.”
