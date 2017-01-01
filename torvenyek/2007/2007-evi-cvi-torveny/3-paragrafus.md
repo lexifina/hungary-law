@@ -6,13 +6,11 @@
 
 (2) A tulajdonosi jogokat
 
-a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar Posta Zártkörűen Működő Részvénytársaság, az ENKSZ Első Nemzeti Közműszolgáltató Zártkörűen Működő Részvénytársaság és a KAF Központi Adatgyűjtő és Feldolgozó Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – a kormányzati tevékenység összehangolásáért felelős miniszter,
+a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar Posta Zártkörűen Működő Részvénytársaság, az ENKSZ Első Nemzeti Közműszolgáltató Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – a kormányzati tevékenység összehangolásáért felelős miniszter,
 
 b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
 
-c) az Egészségbiztosítási Alap ellátási vagyona tekintetében az egészségbiztosításért felelős miniszter,
-
-d) a Nyugdíjbiztosítási Alap ellátási vagyona tekintetében a nyugdíjpolitikáért felelős miniszter
+c)–d)
 
 gyakorolja.
 
