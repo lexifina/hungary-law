@@ -1,4 +1,4 @@
-## meghatározott mértéket meghaladta, a Hivatal haladéktalanul, de legkésőbb a bejelentést követő munkanap 24 óráig kötelezi a földgázkereskedőt arra, hogy állítsa vissza a következő gáznapra a vele szerződött felhasználók földgázigényei és a fizikailag rendelkezésre álló forrásai között lévő kereskedelmi egyensúlyt, és igazolja a Hivatal részére, hogy rendelkezik a vele szerződött felhasználók ellátásához szükséges földgázforrásokkal, és az azok beszerzéséhez szükséges pénzügyi forrásokkal, valamint tájékoztatja a földgázkereskedőt, hogy engedélyét a 10. § (1) bekezdése szerint felfüggesztheti.
+## meghatározott mértéket meghaladta, a Hivatal haladéktalanul, de legkésőbb a bejelentést követő munkanap 24 óráig kötelezi a földgázkereskedőt arra, hogy állítsa vissza a következő gáznapra a vele szerződött felhasználók földgázigényei és a fizikailag rendelkezésre álló forrásai között lévő kereskedelmi egyensúlyt, és igazolja a Hivatal részére, hogy rendelkezik a vele szerződött felhasználók ellátásához szükséges földgázforrásokkal és az azok beszerzéséhez szükséges pénzügyi forrásokkal, valamint tájékoztatja a földgázkereskedőt, hogy engedélyét a 10. § (1) bekezdése szerint felfüggesztheti.
 
 ## 4. A földgázkereskedő engedélyének felfüggesztése
 
@@ -16,7 +16,7 @@ ba) a bejelentést megelőző egy éven belül legalább kétszer 4 egymást kö
 
 bb) a bejelentést megelőző egy éven belül legalább kétszer 2 egymást követő gáznapon meghaladta a 6. § (4) bekezdés b) pontjában meghatározott mértéket,
 
-bc) a bejelentést megelőző egy éven belül legalább 2 egymást követő gáznapon meghaladta a 6. § (4) bekezdés c) pontjában meghatározott mértéket,
+bc)[^3]
 
 bd) az adott gázhónapban legalább 10 gáznapon meghaladta a 6. § (4) bekezdés a) pontjában meghatározott mértéket, vagy
 
@@ -37,3 +37,5 @@ c) a szállítási rendszerüzemeltető vagy a földgázelosztó rendszerhaszná
 (7) Ha az (1) bekezdés b) pontja szerinti többletfogyasztás a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti rendszerszintű szolgáltatások teljesítésére igénybe vett villamos energia termelés miatt következett be, a Hivatal az esetet 72 órán belül kivizsgálja és annak eredménye alapján dönt a felfüggesztésről.
 
 (8) Amennyiben az (1) bekezdés b) pontja szerinti felfüggesztésre okot adó körülmény a fogyasztói profil alapján történő allokálás miatt következett be, a Hivatal 72 órán belül az esetet kivizsgálja és annak eredménye alapján dönt a felfüggesztésről.
+
+[^3]: A 10. § (1) bekezdés b) pont bc) alpontját a 458/2016. (XII. 23.) Korm. rendelet 30. §-a hatályon kívül helyezte.

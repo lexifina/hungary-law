@@ -6,14 +6,14 @@
 
 (3) A szervezett földgázpiac engedélyes bejelenti az (1) bekezdésben részletezett szabályok figyelembevételével a szállítási rendszerüzemeltetőnek, ha az általa üzemeltetett kereskedési platformon a földgázkereskedő tagsága megszűnik.
 
-(4) A kiegyensúlyozási szolgáltatást nyújtó szállítási rendszerüzemeltető a gáznapi allokálást követően haladéktalanul, de legkésőbb 24 órán belül közli a Hivatallal, ha a földgázkereskedő által a földgázszállítási rendszerből vételezett földgáz mennyisége az adott gáznapon több mint
+(4)[^1] A kiegyensúlyozási szolgáltatást nyújtó szállítási rendszerüzemeltető a gáznapi allokálást követően haladéktalanul, de legkésőbb 24 órán belül közli a Hivatallal, ha a földgázkereskedő által a földgázszállítási rendszerből vételezett földgáz mennyisége az adott gáznapon több mint
 
-a) 20%-kal,
+a) 20%-kal vagy
 
-b) 75%-kal, vagy
+b) 75%-kal
 
-c) 10,8 millió kWh-val
-
-## meghaladta a földgázkereskedő által a gáznapon a földgázszállítási rendszerbe betáplált földgáz mennyiségét, amelybe beleértendő a földgázkereskedő által az adott gáznapra felajánlott és a szállítási rendszerüzemeltető által az allokáció során igénybe vett pozitív hidraulikai kiegyensúlyozó földgáz mennyisége is.
+## meghaladta a földgázkereskedő által a gáznapon a földgázszállítási rendszerbe betáplált földgáz mennyiségét, amelybe beleértendő a földgázkereskedő által az adott gáznapra a rendszeregyensúlyért felelős szállítási rendszerüzemeltető által kötelezően használt, a kiegyensúlyozó földgáz beszerzésére szolgáló platformokon az adott gáznapot megelőző gáznapon vagy az adott gáznapon belül értékesítésre felajánlott földgáz mennyisége is.
 
 (5) A szállítási rendszerüzemeltető az adott gázhónapra vonatkozó végleges allokációt a gázhónapot követően, annak rendelkezésre állásakor haladéktalanul, de legkésőbb 24 órán belül megküldi a Hivatal részére.
+
+[^1]: A 6. § (4) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 28. §-ával megállapított szöveg.
