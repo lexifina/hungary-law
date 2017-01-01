@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-57-20-2
 | 2015-03-12 | 2013-57-20-22.8 | 38/2015. (III. 11.) Korm. rendelet |
 | 2015-04-01 | 2013-57-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2013-57-20-22.10 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2017-01-01 | 2013-57-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
