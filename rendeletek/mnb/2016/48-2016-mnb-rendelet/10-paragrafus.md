@@ -1,5 +1,3 @@
-## 7–9. §[^3]
-
 10. § (1) Az adatszolgáltató a felügyeleti jelentést és az (EU) 2015/35 felhatalmazáson alapuló bizottsági rendelet, illetve az (EU) 2015/2450 bizottsági végrehajtási rendelet szerinti adatszolgáltatásokat az MNB által meghatározott elektronikus formában, fokozott biztonságú vagy minősített elektronikus aláírással ellátva az MNB „Kihelyezett Adatküldő Program” megnevezésű jelentésfogadó rendszerén (a továbbiakban: KAP rendszer) keresztül teljesíti. A KAP rendszer használatát segítő útmutatást a KAP rendszer MNB honlapján közzétett Felhasználói kézikönyve tartalmazza.
 
 (2) A felügyeleti jelentés formáját, szerkezetét megváltoztatni nem lehet.
@@ -11,5 +9,3 @@
 (5) Az adatszolgáltatást az MNB akkor tekinti teljesítettnek, ha az adatszolgáltató elektronikus úton megküldött felügyeleti jelentése a KAP rendszerben „feldolgozott” státuszról szóló üzenetet kapott.
 
 (6) Ha a felügyeleti jelentés valamely táblájának adattartalma nemleges, az adott tábla első sorát nulla („0”) értékkel feltöltve küldi meg az adatszolgáltató.
-
-[^3]: A 7–9. § a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
