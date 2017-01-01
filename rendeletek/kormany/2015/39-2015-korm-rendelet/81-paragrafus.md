@@ -1,1 +1,0 @@
-## 80. § A 68. § (1)–(3) és (5) bekezdés és a 69. § rendelkezéseit nem kell alkalmazni az e rendelet hatálybalépése előtt megkötött tervezési szerződéssel rendelkező településfejlesztési koncepció vagy településrendezési eszköz készítésénél.
