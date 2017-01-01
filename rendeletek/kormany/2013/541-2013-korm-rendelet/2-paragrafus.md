@@ -1,10 +1,10 @@
-2. § (1) Ivóvíz-szolgáltatás területén nemzeti létfontosságú rendszerelemként kell azonosítani
+2. § (1)[^1] Az ivóvíz-szolgáltatás területén nemzeti létfontosságú rendszerelemként kell azonosítani
 
-a) a felszíni vízbázisra telepített víztisztító művet, ha a vízjogi üzemeltetési engedélyben rögzített kapacitása meghaladja a 40 000 m3/d szolgáltatott ivóvízmennyiséget;
+a) a felszíni ivóvízbázisként üzemeltetett tározót 2,5 millió m3 összes tározó térfogat felett, a felszíni és felszín alatti vízbázisra telepített víztisztító művet, ha a vízjogi üzemeltetési engedélyben rögzített kapacitása meghaladja a 25 000 m3/d szolgáltatott ivóvízmennyiséget;
 
-b) az ivóvíztároló medencét, ha a névleges tárolókapacitása meghaladja az 50 000 m3 értéket.
+b) az ivóvíztároló medencét, ha térfogata meghaladja a 25 000 m3 értéket.
 
-(2) Szennyvízelvezetés és -tisztítás területén nemzeti létfontosságú rendszerelemként kell azonosítani azt a szennyvíztisztító telepet, amelynek kapacitása meghaladja az egymillió lakosegyenérték szennyezőanyag-terhelést, és amelynek működésképtelenné válása közvetlenül veszélyeztetné az adott térség lakosságának közüzemi ivóvízellátását, a környezetet vagy az emberi egészséget.
+(2)[^2] A szennyvízelvezetés és -tisztítás területén nemzeti létfontosságú rendszerelemként kell azonosítani azt a szennyvíztisztító telepet, amelynek kapacitása meghaladja a 250 000 lakosegyenérték szennyezőanyag-terhelést, és működésképtelenné válása a felszíni víz jelentősen kedvezőtlen állapotát eredményezi.
 
 (3) Vízkárelhárítás területén nemzeti létfontosságú rendszerelemként kell azonosítani
 
@@ -20,6 +20,10 @@ ad) működésképtelensége a hazai vízrendszerek közötti vízátvezetés hi
 
 b) az elsőrendű árvízvédelmi vízilétesítményt, ha
 
-ba) legalább 2000 m3/sec éves középvízhozamú folyók mentén olyan öblözetet véd, amelyben a kitört víz lokalizálására nincs lehetőség és a védvonal nincs az előírt méretre kiépítve,
+ba)[^3] legalább 2000 m3/sec éves középvízhozamú vagy államhatárt is alkotó folyók mentén olyan öblözetet véd, amelyben a kitört víz lokalizálására nincs lehetőség, és a védvonal nincs az előírt méretre kiépítve,
 
 bb) annak hossza és a védett öblözet területének aránya kisebb mint 1:10 km/km2.
+
+[^1]: A 2. § (1) bekezdése a 9. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 9. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdés b) pont ba) alpontja a 9. § (2) bekezdésével megállapított szöveg.
