@@ -1,6 +1,6 @@
-2. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^28]
+2. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^30]
 
-1. Az OEP adatszolgáltatása az országos antimikrobiális szerek felhasználásának adatbázisához
+1. A NEAK adatszolgáltatása az országos antimikrobiális szerek felhasználásának adatbázisához
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L |
 
@@ -32,7 +32,7 @@
 
 ** kóddal kezdődő készítmények
 
-2. Az OEP adatszolgáltatása az egészségügyi szolgáltatók által jelentett septicaemia BNO kódokhoz tartozó esetszámokról
+2. A NEAK adatszolgáltatása az egészségügyi szolgáltatók által jelentett septicaemia BNO kódokhoz tartozó esetszámokról
 
 |  | A | B | C | D | E | F | G |
 
@@ -108,4 +108,4 @@ K – kísérő betegség
 
 Sz – szövődmény
 
-[^28]: A 2. mellékletet a 12/2012. (III. 6.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
+[^30]: A 2. mellékletet a 12/2012. (III. 6.) NEFMI rendelet 10. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 65. § k) pontja szerint módosított szöveg.
