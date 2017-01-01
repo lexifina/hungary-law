@@ -14,7 +14,7 @@ d) aki az alapszabályban meghatározott időközönként, valamint az ott megha
 
 (3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági viszonyt a vezetőség a tag kérelmére állítja helyre, a b)–d) pontok alapján felfüggesztett tagsági viszony pedig az ott megállapított időtartam lejártát követő napon áll helyre, amelyet a tagnak írásban be kell jelentenie.
 
-(4) Az (1) bekezdés d) pontja szerinti esetben a tagsági viszony felfüggesztése helyett legfeljebb hat hónapra bevonható a vadászjegy, a hivatásos vadász szolgálati igazolványa, valamint jelvénye.
+(4)
 
 (5) Az (1) bekezdés c) pontja szerinti jogerős ítéletről az eljáró bíróság az illetékes területi szervezetet tájékoztatja.
 
