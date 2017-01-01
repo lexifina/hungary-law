@@ -4,7 +4,7 @@
 
 a) az épület, épületrész hasznos alapterületével egyező nagyságú telekrész,
 
-b) a belterületen fekvő, az ingatlan-nyilvántartásban művelés alól kivett területként nyilvántartott, 1 hektárt meg nem haladó nagyságú földterület, feltéve, ha az adóévben annak teljes területe tényleges mezőgazdasági művelés alatt áll és e tényt a telek fekvése szerint illetékes mezőgazdasági igazgatási szerv az adóévben igazolja, azzal, hogy nem minősül mezőgazdasági művelésnek, ha a földterületen kizárólag a gyomnövények megtelepedésének és terjedésének megakadályozására alkalmas munkát (pl. gyommentesítés, kaszálás) végeznek,
+b) a mezőgazdasági művelés alatt álló belterületi telek,
 
 c) az építési tilalom alatt álló telek adóköteles területének 50 %-a,
 

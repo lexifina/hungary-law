@@ -1,1 +1,1 @@
-50. § Az e törvény alapján bevezetésre kerülő adókkal egyidejűleg hatályukat vesztett rendeletek alapján korábban jogerős határozattal engedélyezett adó, díj és hozzájárulás fizetésének kötelezettsége alóli mentességek, illetőleg kedvezmények a kötelezettségekkel együtt vesztik hatályukat az új adók hatálybalépése napján.
+### 50. §

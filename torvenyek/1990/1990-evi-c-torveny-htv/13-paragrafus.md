@@ -6,7 +6,13 @@ a) a szükséglakás,
 
 b) a kizárólag az önálló orvosi tevékenységről szóló törvény szerinti háziorvos által nyújtott egészségügyi ellátás céljára szolgáló helyiség
 
-c)
+c) az atomenergiáról szóló törvény szerint kizárólag
+
+ca) a radioaktív hulladék elhelyezésére,
+
+cb) a kiégett nukleáris üzemanyag tárolására
+
+használt építmény,
 
 d)
 

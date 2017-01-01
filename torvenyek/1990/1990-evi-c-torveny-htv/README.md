@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2015-11-01 | 2014. évi XCV. törvény | 1990-100-00-00.59 |
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 1990-100-00-00.60 |
 | 2016-07-01 | 2016. évi LXVI. törvény | 1990-100-00-00.61 |
+| 2017-01-01 | 2016. évi CXXV. törvény | 1990-100-00-00.62 |

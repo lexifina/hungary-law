@@ -35,3 +35,5 @@ vonható le.
 (8) Az e § szerinti számításokat – a kerekítés általános szabályai alapulvételével – tizedestörtben kifejezve, hat tizedesjegy pontossággal kell elvégezni.
 
 (9) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, a (6) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – nettó árbevételt és nettó árbevétel-csökkentő költségeket, ráfordításokat kell figyelembe venni.
+
+(10) A (6) bekezdésben foglaltakat akkor kell alkalmazni, ha a kapcsolt vállalkozási viszony 2016. október 1-jét követően, szétválással jött létre.

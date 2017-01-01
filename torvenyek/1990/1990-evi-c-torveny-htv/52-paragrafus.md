@@ -16,7 +16,7 @@
 
 6. épületrész: az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
 
-7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni. Újonnan létrehozott építmény tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
+7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni, kivéve, ha a tulajdonjog bejegyzése iránti kérelmet az ingatlanügyi hatóság jogerősen elutasította vagy azt visszavonták vagy a bíróság megállapította a szerződés érvénytelenségét. Újonnan létrehozott építmény tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
 
 8. lakás: a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. §-a 1–6. pontjában foglaltak alapján ilyennek minősülő és az ingatlan-nyilvántartásban lakóház, lakóépület, lakás, kastély, villa, udvarház megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró ingatlan;
 
@@ -32,7 +32,17 @@
 
 14. erdő: az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földterület, továbbá az a földterület, amelyet az Országos Erdőállomány Adattárban erdőként tartanak nyilván;
 
-15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
+15. mezőgazdasági művelés alatt álló belterületi telek:
+
+az az ingatlan,
+
+a) amely az ingatlan-nyilvántartásban, 1 hektárt meg nem haladó nagyságú, művelés alól kivett területként szerepel, és
+
+b) amelynek a teljes területét – a közüzemi szolgáltató által létesített, nem kizárólag a földterület közüzemi ellátását szolgáló vagy a növénytermesztést szolgáló műtárgy (pl. fúrt/ásott kút, üvegház, fóliasátor, szőlőkordon) által lefedett terület kivételével – az adóalany a naptári év egészében szántó, szőlő, kert vagy gyümölcsös művelési ágnak megfelelően műveli, és
+
+c) amelyre nézve a b) pont szerinti feltétel teljesülését a telek fekvése szerint illetékes mezőgazdasági igazgatási szerv az adóalany naptári év június 9. és szeptember 30. között benyújtott kérelmére indult eljárás keretében megtartott helyszíni szemle alapján kiadott okirattal igazolja, és
+
+d) amellyel határos területen létesített ivóvízvezetékre, szennyvízcsatorna-vezetékre és villamosenergia-vezetékre való csatlakozásra nincs lehetőség, vagy amelynek az adóalany – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény szerinti – jogszerű földhasználója és azt a tárgyévben az 1306/2013/EU európai parlamenti és tanácsi rendelet 72. cikk (1) bekezdése alapján, a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 11. cikke szerint benyújtott támogatási kérelmében kérelmezett, vagy nem kérelmezett mezőgazdasági területként jelöli meg;
 
 16. telek: az épülettel, épületrésszel be nem épített földterület, ide nem értve
 
@@ -48,7 +58,7 @@ e) a vasúti pályát, a vasúti pálya tartozékai által lefedett földterüle
 
 f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet,
 
-g) a halgazdálkodásról és a hal védelméről szóló törvény szerinti víztározó területét,
+g) a halgazdálkodásról és a hal védelméről szóló törvény szerinti víztározó, bányató területét,
 
 h) az erdőt,
 
@@ -68,7 +78,7 @@ i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
 
 a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével, feltéve, ha az így elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)-h) alpontokban foglalt eltérésekkel,
 
-b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
+b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, továbbá, ha a vásárolt követelés értékesítésekor az eladási ár összegét egyéb pénzügyi szolgáltatás bevételeként számolják el, akkor a vásárolt követelés könyv szerinti értékének egyéb pénzügyi szolgáltatás ráfordításaként elszámolt összegével, és növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
 
 c) biztosítóknál: a biztosítástechnikai eredmény növelve a nettó működési költségekkel, a befektetésekből származó biztosítástechnikai ráfordításokkal (csak életbiztosítási ágnál), az egyéb biztosítástechnikai ráfordításokkal, a kapott kamatokkal és kamatjellegű bevételekkel, a biztosítási állományhoz kapcsolódó tárgyi eszközök bevételeivel, a befektetések értékesítésének árfolyamnyereségével és az egyéb befektetési bevételekkel (nem életbiztosítási ágnál), az életbiztosításból allokált befektetési bevétellel, valamint a nem biztosítási tevékenység bevételeivel, valamint csökkentve a Kártalanítási Számlával és a Kártalanítási Alappal szemben ráfordításként elszámolt összeggel, a tűzvédelmi hozzájárulásként elszámolt összeggel és a biztosítottaknak visszajuttatandó befektetési eredménnyel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
 
@@ -82,11 +92,11 @@ g) a személyi jövedelemadóról szóló törvény hatálya alá tartozó, a 26
 
 h) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás esetén, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás bevétele;
 
-23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az Országos Egészségbiztosítási Pénztárral kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
+23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az egészségbiztosítási szervvel kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
 
 24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2008. január 1-jétől hatályos (TEÁOR'08) besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
 
-25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 4. § 32. pontja szerinti saját tevékenységi körben megvalósított K+F tevékenység közvetlen költsége;
+25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja szerint az adózás előtti eredményt csökkentő összeg, azzal, hogy a helyi iparűzési adóalap megállapítása során a felmerült költséget csak egyszer lehet figyelembe venni;
 
 26. vállalkozó: a gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végző
 
@@ -136,7 +146,7 @@ d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó ha
 
 38. anyag, áru: a számvitelről szóló törvény szerinti vásárolt készletekből az anyagok, az áruk,
 
-39. az egyszerűsített vállalkozói adónak a számviteli törvény hatálya alá nem tartozó alanya esetében nettó árbevétel: a 22. pont i) alpontja szerinti nettó árbevétel, eladott áruk beszerzési értéke és anyagköltség: a 36. és a 37. pontokban foglalt, pénzforgalmi nyilvántartást vezető vállalkozókra meghatározott eladott áruk beszerzési értéke és anyagköltség,
+39. az egyszerűsített vállalkozói adónak a számviteli törvény hatálya alá nem tartozó alanya esetében nettó árbevétel: a 22. pont g) alpontja szerinti nettó árbevétel, eladott áruk beszerzési értéke és anyagköltség: a 36. és a 37. pontokban foglalt, pénzforgalmi nyilvántartást vezető vállalkozókra meghatározott eladott áruk beszerzési értéke és anyagköltség,
 
 40. közvetített szolgáltatások értéke: az adóalany által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) írásban kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás értéke. Közvetített szolgáltatásnál az adóalany vevője és nyújtója is a szolgáltatásnak, az adóalany a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy az adóalany nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 22. pont a) alpontja szerint jogdíjként, a 36. pont szerint eladott áruk beszerzési értékeként, a 37. pont szerint anyagköltségként vagy a 32. pont szerint alvállalkozói teljesítések értékeként nettó árbevételét nem csökkentette;
 
@@ -156,7 +166,7 @@ d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó ha
 
 48. a lakáshoz, üdülőhöz tartozó gépjárműtároló: a lakóépületben lévő épületrész, vagy a lakóépület elhelyezésére szolgáló telken álló épület, amely kialakításánál fogva gépjármű tárolására alkalmas, függetlenül attól, hogy az épület vagy az épületrész az ingatlan-nyilvántartásban önálló ingatlanként szerepel;
 
-49. vagyoni értékű jog jogosítottja: az ingatlanon fennálló vagyoni értékű jog jogosítottja az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban a vagyoni értékű jog jogosítottjaként feltüntetésre került. Amennyiben az ingatlant terhelő vagyoni értékű jog alapításáról szóló okiratot az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, az okiratban megjelölt, jogszerzésre feljogosított személyt vagy szervezetet kell a vagyoni értékű jog jogosítottjának tekinteni;
+49. vagyoni értékű jog jogosítottja: az ingatlanon fennálló vagyoni értékű jog jogosítottja az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban a vagyoni értékű jog jogosítottjaként feltüntetésre került. Amennyiben az ingatlant terhelő vagyoni értékű jog alapításáról szóló okiratot az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, az okiratban megjelölt, jogszerzésre feljogosított személyt vagy szervezetet kell a vagyoni értékű jog jogosítottjának tekinteni, kivéve, ha a vagyoni értékű jog bejegyzése iránti kérelmet az ingatlanügyi hatóság jogerősen elutasította vagy azt visszavonták vagy a bíróság megállapította a szerződés érvénytelenségét;
 
 50. melléképület, melléképületrész: a lakás, az üdülő elhelyezésére szolgáló telken lévő és a lakás, üdülő szokásos használatához szükséges, de huzamos emberi tartózkodásra részben és ideiglenesen sem szolgáló, tüzelő, lom, szerszám, kerékpár, babakocsi tárolására szolgáló épület vagy épületrész, ide nem értve a gépjárműtárolót. A többlakásos lakóépületben lévő lakás esetén a lakástulajdonhoz tartozó, 5 m2 hasznos alapterületet meg nem haladó, lomok, szerszámok, tüzelő tárolására szolgáló helyiség, feltéve, hogy az az épületen belül, de a lakástól elkülönítve helyezkedik el, valamint lakóépületben az osztatlan közös tulajdonban lévő közlekedő és tároló-helyiség, akkor, ha azt a tulajdonközösség közösen használja;
 
@@ -190,4 +200,8 @@ származó ellenérték (bevétel);
 
 66. IFRS-ek: a számvitelről szóló törvény szerinti azonos elnevezésű fogalom;
 
-67. anyag az IFRS-ek szerint beszámolót készítő vállalkozó esetén: IAS 2 Készletek című standard 6. bekezdés c) pontja szerinti készlet.
+67. anyag az IFRS-ek szerint beszámolót készítő vállalkozó esetén: IAS 2 Készletek című standard 6. bekezdés c) pontja szerinti készlet;
+
+68. átmeneti adóév: az IFRS-t alkalmazó vállalkozó esetén az áttérés adóéve, valamint az azt követő adóév;
+
+69. áttérési különbözet: a 40/J. § (1) bekezdés szerinti adóalap-növelő és -csökkentő tételek együttes összege (előjellel ellátva).

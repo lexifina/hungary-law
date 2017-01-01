@@ -10,4 +10,4 @@ a) annak az önkormányzatnak az elnevezését, amelynek adóhatóságához beva
 
 b) a helyi iparűzési adóról szóló bevallási nyomtatványon azt az adóévet, amelyre a bevallás vonatkozik és az önkormányzat rendeletében meghatározott, az adott adóévre vonatkozó adómértéket.
 
-(4) Az (1)–(2) bekezdésben említett nyomtatványt elektronikus úton csak akkor lehet benyújtani, ha azt az önkormányzat rendelete lehetővé teszi.
+(4) Az (1)–(2) bekezdésben említett nyomtatványt az önkormányzati adóhatósághoz elektronikus úton csak akkor lehet benyújtani, ha azt az önkormányzat rendelete lehetővé teszi.
