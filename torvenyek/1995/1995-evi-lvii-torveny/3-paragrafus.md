@@ -10,7 +10,7 @@ b) az állami tulajdonban lévő vízilétesítmények üzemeltetését, fenntar
 
 a) vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy
 
-b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő a Nemzeti Földalapkezelő Szervezet, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, megyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
+b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő Nemzeti Földalap kezelésére kijelölt szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, megyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
 
 e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
 

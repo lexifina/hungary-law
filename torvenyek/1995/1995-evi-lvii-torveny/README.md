@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-57-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 1995-57-00-00.48 |
 | 2016-06-04 | 2016. évi XLI. törvény | 1995-57-00-00.49 |
 | 2016-10-01 | 2016. évi XLI. törvény | 1995-57-00-00.50 |
+| 2017-01-01 | 2016. évi CIV. törvény | 1995-57-00-00.51 |
