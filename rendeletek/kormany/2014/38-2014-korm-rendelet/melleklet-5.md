@@ -34,9 +34,9 @@
 
 ## 4. A kérelmező aláírása.
 
-## II.[^72] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
+## II.[^70] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
 
-## 1.[^73] A járási hivatal bélyegzője.
+## 1.[^71] A járási hivatal bélyegzője.
 
 ## 2. A kérelem érkezési ideje.
 
@@ -44,8 +44,8 @@
 
 ## 4. Az ügyintéző aláírása.
 
-5. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^74]
+5. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^72]
 
-[^72]: A 4. melléklet II. pont nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^73]: A 4. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^74]: Az 5. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § a) pontja iktatta be.
+[^70]: A 4. melléklet II. pont nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^71]: A 4. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^72]: Az 5. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § a) pontja iktatta be.

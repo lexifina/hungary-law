@@ -56,7 +56,7 @@
 
 ## 6. Az ügyintéző aláírása.
 
-6. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^75]
+6. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^73]
 
 A nyilvántartásból való törlés iránti kérelem tartalma
 
@@ -106,4 +106,4 @@ II. A kérelem benyújtására szolgáló nyomtatványon a járási hivatal ált
 
 6. Az ügyintéző aláírása.
 
-[^75]: A 6. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § b) pontja iktatta be.
+[^73]: A 6. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § b) pontja iktatta be.
