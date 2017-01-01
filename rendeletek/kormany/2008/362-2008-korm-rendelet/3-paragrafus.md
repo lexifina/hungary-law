@@ -1,5 +1,5 @@
-## 2. §[^4]
+## 2. §[^9]
 
 ## A gyermekjóléti és gyermekvédelmi szolgáltatótevékenység engedélyezéséről, valamint a gyermekjóléti és gyermekvédelmi vállalkozói engedélyről szóló 259/2002. (XII. 18.) Korm. rendelet módosítása
 
-[^4]: A 2. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^9]: A 2. § a 45. § (4) bekezdése alapján hatályát vesztette.

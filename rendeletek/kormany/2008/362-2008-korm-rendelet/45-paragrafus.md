@@ -1,4 +1,4 @@
-## 44. §[^46]
+## 44. §[^51]
 
 ## Záró rendelkezések
 
@@ -6,10 +6,10 @@
 
 (2) Az 5. § (2) bekezdésének a Kulturális Örökségvédelmi Hivatalról szóló 308/2006. (XII. 23.) Korm. rendelet 1. § (6) bekezdését megállapító rendelkezése 2009. április 1-jén lép hatályba.
 
-(3)[^47]
+(3)[^52]
 
-(4)[^48]
+(4)[^53]
 
-[^46]: A 44. § a 45. § (4) bekezdése alapján hatályát vesztette.
-[^47]: A 45. § (3) bekezdése a (4) bekezdés alapján hatályát vesztette.
-[^48]: A 45. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^51]: A 44. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^52]: A 45. § (3) bekezdése a (4) bekezdés alapján hatályát vesztette.
+[^53]: A 45. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

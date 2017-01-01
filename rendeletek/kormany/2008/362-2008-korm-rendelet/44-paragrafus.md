@@ -1,5 +1,5 @@
-## 43. §[^45]
+## 43. §[^50]
 
 ## Hatályon kívül helyező rendelkezések
 
-[^45]: A 43. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^50]: A 43. § a 45. § (4) bekezdése alapján hatályát vesztette.

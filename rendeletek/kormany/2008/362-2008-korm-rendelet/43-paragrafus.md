@@ -1,5 +1,5 @@
-## 42. §[^44]
+## 42. §[^49]
 
 ## Módosuló rendelkezések
 
-[^44]: A 42. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^49]: A 42. § a 45. § (4) bekezdése alapján hatályát vesztette.
