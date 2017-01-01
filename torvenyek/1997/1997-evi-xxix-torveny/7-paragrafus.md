@@ -14,4 +14,4 @@
 
 (7) A hivatalból indult eljárás ügyintézési határideje azonos a kérelemre indult eljáráséval, a határidő kezdete e törvény hatálybalépésének napja.
 
-(8) A KKI határozatának felülvizsgálata során eljáró bíróság illetékességére a Tv. 14. §-ának d) pontját kell alkalmazni.
+(8)
