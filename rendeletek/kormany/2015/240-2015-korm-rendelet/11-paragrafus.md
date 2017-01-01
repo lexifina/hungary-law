@@ -1,6 +1,6 @@
 ## 6. Az adósságrendezés iránti kérelem és mellékleteinek a Családi Csődvédelmi Szolgálat általi megvizsgálása
 
-11. § (1)[^6]
+11. § (1)[^8]
 
 (2) Az adósságrendezés iránti kérelem és mellékletei Are. tv. 22. § (3) bekezdés, és Are. tv. 23. § szerinti megvizsgálását a CsSz illetékes területi szerve végzi, és ő teljesíti az Are. tv. 23. § (2) bekezdése szerinti értesítést a főhitelező pénzügyi intézmény részére – postai úton és egyidejűleg faxon vagy elektronikus úton szkennelve is – továbbá postai úton az adósnak is megküldi a vizsgálatok lefolytatásáról szóló igazolást.
 
@@ -12,4 +12,4 @@
 
 (6) A (4) és (5) bekezdés, továbbá az Are. tv. 25. § (1) bekezdése szerinti esetekben a környezettanulmány elkészítése iránt csak akkor kell intézkedni, ha a bíróság az adósságrendezési eljárás kezdeményezése iránti kérelmet nem utasította el vagy az eljárást megszüntette.
 
-[^6]: A 11. § (1) bekezdését a 471/2015. (XII. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^8]: A 11. § (1) bekezdését a 471/2015. (XII. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
