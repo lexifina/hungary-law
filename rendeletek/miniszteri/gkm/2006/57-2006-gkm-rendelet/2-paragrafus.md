@@ -1,14 +1,10 @@
-## kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
-
 2. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba. Rendelkezéseit a hatálybalépését követően kezdeményezett eljárásokra kell alkalmazni.
 
-(2)[^3]
+(2)[^8]
 
-Melléklet az 57/2006. (VIII. 3.) GKM rendelethez[^4]
+Melléklet az 57/2006. (VIII. 3.) GKM rendelethez[^9]
 
-Fémjelzési, nemesfémtartalom-vizsgálati
-
-és -hitelesítési, valamint nyilvántartásba vételi igazgatási szolgáltatási díjak
+Fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, valamint bejelentési, engedélyezési és nyilvántartásba vételi igazgatási szolgáltatási díjak
 
 I. Fémjelzési díjak:
 
@@ -34,7 +30,7 @@ e) sürgősségi díj:
 
 A fémjelzési díj a grammsúly szerinti finomságvizsgálati díj és a darabszám szerinti beütési díj összege. Az óráknál a fémjelzési díj a röntgenfluorescens spektrometriás vizsgálat költsége darabonként, valamint a darabszám szerinti beütések díjának összege. A finomságvizsgálati díj tömeg szerinti megállapításánál minden megkezdett grammot egész grammnak kell tekinteni.
 
-II. A nemesfémtárgyak és termékek vizsgálatának, hitelesítésének és nemesfémtartalmuk tanúsításának részletes szabályairól szóló 74/2004. (IV. 29.) GKM rendeletben meghatározott kötelező nemesfémtartalom-vizsgálati és -hitelesítési díjak:
+II. A nemesfém tárgyakkal kapcsolatos hatósági tevékenységekről szóló 35/2011. (IX. 14.) NGM rendeletben meghatározott kötelező nemesfémtartalom-vizsgálati és -hitelesítési díjak:
 
 a) ékszerötvözetek, nemesfémtartalmú tömbök, félkész gyártmányok, fémhulladékok:
 
@@ -92,7 +88,7 @@ Hitelesítő beütés esetén a beütési díj a hiteles tömegmérés díját i
 
 k) tájékoztató jellegű elővizsgálat díja a hivatalos vizsgálati díj fele
 
-l) sürgősséggel megrendelt munkálatokat a Hivatal:
+l) sürgősséggel megrendelt munkálatokat a Kormányhivatal:
 
 1. 72 órán belül végzi el: a sürgősségi díj mértéke az alapdíj 100%-a,
 
@@ -100,7 +96,7 @@ l) sürgősséggel megrendelt munkálatokat a Hivatal:
 
 III. Egyéb díjak:
 
-a) a nemesfémből készült ékszer, díszműáru és egyéb tárgy készítését, javítását, árverését folytató, illetve kereskedelmi tevékenység keretében forgalmazó vállalkozás tevékenysége engedélyezésének díja 9 200,00 Ft
+a) a nemesfémből készült ékszer, díszműáru és egyéb tárgy készítését, javítását, árverését folytató, illetve kereskedelmi tevékenység keretében forgalmazó vállalkozás tevékenysége bejelentésének és nyilvántartásba vételének díja 9 200,00 Ft
 
 b) a nyilvántartási adatok módosításának díja 6 800,00 Ft
 
@@ -116,5 +112,5 @@ g) egyenértékűség megállapítását célzó eljárás díja 565 000,00 Ft
 
 h) nyilvántartásból készített kivonat díja (az illetéktörvény szerint), oldalanként 100,00 Ft
 
-[^3]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 53. pontja hatályon kívül helyezte.
-[^4]: A melléklet a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 53. pontja hatályon kívül helyezte.
+[^9]: A melléklet a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés a) pontja, a 62/2016. (XII. 29.) NGM rendelet 15. § (5) bekezdése szerint módosított szöveg.
