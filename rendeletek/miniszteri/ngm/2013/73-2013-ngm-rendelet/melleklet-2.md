@@ -38,6 +38,6 @@
 
 ## s) munkafeladatokból adódóan gyakori konfliktushelyzetek kezelése.
 
-2. melléklet a 73/2013. (XII. 30.) NGM rendelethez[^22]
+2. melléklet a 73/2013. (XII. 30.) NGM rendelethez[^34]
 
-[^22]: A 2. melléklet a 14/2015. (V. 4.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^34]: A 2. melléklet a 14/2015. (V. 4.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.

@@ -24,10 +24,12 @@ j) fizikai felmérés,
 
 k) fegyverviselés.
 
-(2) Az egészségügyi felmentésről a NAV KEKI foglalkozás-orvostan szakorvosának orvosi szakvéleménye alapján a munkáltatói jogkör gyakorlója parancsban intézkedik.
+(2)[^31] Az egészségügyi felmentésről a NAV KEKI foglalkozás-egészségügyi orvosának orvosi szakvéleménye alapján a munkáltatói jogkör gyakorlója parancsban intézkedik.
 
 (3) Az egészségügyi felmentés időtartamát az orvosi szakvéleményben kell meghatározni, amelynek ideje legfeljebb 365 naptári napban állapítható meg.
 
 (4) A felmentések végrehajtásáért a munkáltatói jogkör gyakorlója felelős. A munkáltatói jogkör gyakorlója parancsában az időtartam megjelölésével határozza meg a pénzügyőr egyes szolgálati kötelezettségek alóli felmentését, illetve a csökkentett szolgálati időt.
 
 (5) A gyógyulás bekövetkezésekor, ha a felmentés további alkalmazása már nem indokolt, a NAV KEKI szakorvosának az egészségügyi felmentés megszüntetésére vonatkozó orvosi szakvéleménye alapján a munkáltatói jogkör gyakorlója intézkedik az egészségügyi felmentés megszüntetéséről.
+
+[^31]: A 29. § (2) bekezdése a 63/2016. (XII. 29.) NGM rendelet 24. § b) pontja szerint módosított szöveg.

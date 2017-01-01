@@ -2,7 +2,7 @@
 
 9. § (1) Soron kívüli alkalmassági vizsgálatot kell végezni:
 
-a)[^9] a pénzügyőrnél, civil pénzügyi nyomozónál az alkalmassági kategória megváltoztatása előtt;
+a)[^12] a pénzügyőrnél, civil pénzügyi nyomozónál az alkalmassági kategória megváltoztatása előtt;
 
 b) a munkakörülmények lényeges változása esetén, ha a megváltozott kockázati tényezők alapján – az érintettet foglalkoztató szervezeti egység vezetőjének (a továbbiakban: közvetlen vezető) a javaslatára – a munkáltatói jogkör gyakorlója kezdeményezi;
 
@@ -26,7 +26,7 @@ k) ha a jelölt az előzetes alkalmassági vizsgálat során az alkalmassága me
 
 (2) Soron kívüli alkalmassági vizsgálat kezdeményezésére jogosult:
 
-a) a foglalkozás-orvostan szakorvos;
+a)[^13] a foglalkozás-egészségügyi orvos;
 
 b) a munkáltatói jogkör gyakorlója;
 
@@ -34,9 +34,10 @@ c) a foglalkoztatott.
 
 (3) A munkáltatói jogkör gyakorlója köteles a soron kívüli alkalmassági vizsgálat kezdeményezéséhez írásbeli indokolást csatolni.
 
-(4)[^10] Az állami adó- és vámhatóság vezetője elrendelheti az egyes munkakörökben foglalkoztatottak soron kívüli alkalmassági vizsgálatát vagy egyes alkalmassági vizsgálatoknak a foglalkoztatottak egészére vagy meghatározott részére történő elvégzését.
+(4)[^14] Az állami adó- és vámhatóság vezetője elrendelheti az egyes munkakörökben foglalkoztatottak soron kívüli alkalmassági vizsgálatát vagy egyes alkalmassági vizsgálatoknak a foglalkoztatottak egészére vagy meghatározott részére történő elvégzését.
 
 (5) A soron kívüli alkalmassági vizsgálat esetén az egészségi, pszichikai és fizikai vizsgálatok közül a soron kívüli alkalmassági vizsgálatot megalapozó körülmények által indokolt vizsgálatokat kell elvégezni.
 
-[^9]: A 9. § (1) bekezdés a) pontja a 14/2015. (V. 4.) NGM rendelet 5. §-ával megállapított szöveg.
-[^10]: A 9. § (4) bekezdése a 47/2015. (XII. 30.) NGM rendelet 21. § c) pontja szerint módosított szöveg.
+[^12]: A 9. § (1) bekezdés a) pontja a 14/2015. (V. 4.) NGM rendelet 5. §-ával megállapított szöveg.
+[^13]: A 9. § (2) bekezdés a) pontja a 63/2016. (XII. 29.) NGM rendelet 24. § a) pontjával megállapított szöveg.
+[^14]: A 9. § (4) bekezdése a 47/2015. (XII. 30.) NGM rendelet 21. § c) pontja szerint módosított szöveg.

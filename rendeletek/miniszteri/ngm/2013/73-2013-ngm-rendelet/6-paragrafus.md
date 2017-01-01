@@ -1,10 +1,10 @@
-6. §[^3] (1) Első fokon kizárólag a NAV KEKI végzi
+6. §[^5] (1) Első fokon kizárólag a NAV KEKI végzi
 
 a) a pénzügyőrök, civil pénzügyi nyomozók és a hivatásos szolgálati jogviszonyba jelentkezők egészségi alkalmassági vizsgálatát, valamint
 
 b) a pszichikai alkalmassági vizsgálatokat.
 
-(2)[^4] A fizikai alkalmasság felmérését a NAV Bevetési Igazgatósága, továbbá a Repülőtéri Igazgatóság, valamint a megyei (fővárosi) adó- és vámigazgatóságok végzik.
+(2)[^6] A fizikai alkalmassági vizsgálat a NAV KEKI szervezésében kerül lefolytatásra.
 
-[^3]: A 6. § a 14/2015. (V. 4.) NGM rendelet 2. §-ával megállapított szöveg.
-[^4]: A 6. § (2) bekezdése a 47/2015. (XII. 30.) NGM rendelet 21. § b) pontja szerint módosított szöveg.
+[^5]: A 6. § a 14/2015. (V. 4.) NGM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 6. § (2) bekezdése a 63/2016. (XII. 29.) NGM rendelet 18. §-ával megállapított szöveg.

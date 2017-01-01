@@ -14,4 +14,6 @@ e) valamennyi rendelkezésre álló, de különösen az egy éven belüli kórh�
 
 f) baleset, foglalkozási megbetegedés, fokozott expozíciós eset és baleset esetén a baleseti jegyzőkönyv.
 
-(2) Egészségkárosodás mértékének megállapítása céljából a pénzügyőrt Budapest Főváros Kormányhivatala Rehabilitációs Szakigazgatási Szervéhez kell beutalni.
+(2)[^27] Egészségkárosodás mértékének megállapítása céljából a pénzügyőrt Budapest Főváros Kormányhivatala III. Kerületi Hivatalához kell beutalni.
+
+[^27]: A 23. § (2) bekezdése a 62/2016. (XII. 29.) NGM rendelet 41. § a) pontja szerint módosított szöveg.

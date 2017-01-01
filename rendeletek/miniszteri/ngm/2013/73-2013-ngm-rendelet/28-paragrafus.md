@@ -34,7 +34,7 @@ a) a vizsgált személy vizsgálatára, a kezelőorvos jelenlétében a vizsgál
 
 b) a betegdokumentációba történő betekintésre,
 
-c) szükség szerint a vizsgált személy további – az Országos Egészségbiztosítási Pénztárral kötött beutalási szerződés szerinti – szakorvosi vizsgálatra utalására,
+c)[^29] szükség szerint a vizsgált személy további – a Nemzeti Egészségbiztosítási Alapkezelővel kötött beutalási szerződés szerinti – szakorvosi vizsgálatra utalására,
 
 d) az a)–c) pont szerinti megállapításainak az egészségügyi dokumentációban történő rögzítésére.
 
@@ -58,6 +58,9 @@ f) a (11) bekezdésben meghatározott esetekben az egészségügyi szabadság al
 
 (13) Ha a szolgálatképtelenség, illetve az egészségügyi szabadság időtartama a 30 naptári napot meghaladja, havonta, rövidebb időtartam esetén a szolgálattételre jelentkezéskor a pénzügyőr az orvosi igazolást a közvetlen vezetőjének köteles leadni.
 
-(14) A pénzügyőrt 365 napot meghaladó szolgálatképtelensége esetén egészségügyi szabadság nem illeti meg. A szolgálati baleset vagy betegség miatt a szolgálatképtelenség 365 napon túli meghosszabbítását a Nemzeti Rehabilitációs és Szociális Hivatal véleményezi.
+(14)[^30] A pénzügyőrt 365 napot meghaladó szolgálatképtelensége esetén egészségügyi szabadság nem illeti meg. A szolgálati baleset vagy betegség miatt a szolgálatképtelenség 365 napon túli meghosszabbítását Budapest Főváros Kormányhivatala véleményezi.
 
 (15) Az egészségügyi szabadság a pénzügyőr szolgálatképtelensége esetén a felgyógyulásig, illetve a végső fogyatékosság kialakulásáig, de legfeljebb 365 napig engedélyezhető. Ha a pénzügyőr a szolgálatképtelensége első napját megelőző 365 napon belül már egészségügyi szabadságban részesült, ennek időtartamát az újabb szolgálatképtelenség miatt engedélyezett egészségügyi szabadság időtartamába be kell számítani.
+
+[^29]: A 28. § (9) bekezdés c) pontja a 62/2016. (XII. 29.) NGM rendelet 41. § b) pontja szerint módosított szöveg.
+[^30]: A 28. § (14) bekezdése a 62/2016. (XII. 29.) NGM rendelet 41. § c) pontja szerint módosított szöveg.

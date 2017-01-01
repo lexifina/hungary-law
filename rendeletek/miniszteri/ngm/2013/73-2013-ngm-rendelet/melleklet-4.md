@@ -60,7 +60,7 @@
 
 ## 8. Értékelhetetlen teszteredmény.
 
-4. melléklet a 73/2013. (XII. 30.) NGM rendelethez[^23]
+4. melléklet a 73/2013. (XII. 30.) NGM rendelethez[^35]
 
 I.
 
@@ -310,7 +310,7 @@ a) a speciális bevetési egységhez jelentkezők esetében meghatározott min
 
 Teljesítendő feladatok
 
-|  |  | 29 éves korig | 30–35 év között | 36–40 év között | 41–49 év között |
+|  |  | 29 éves korig | 30–35 év között | 36–40 év között | 41 év felett |
 
 | 1. | Húzódzkodás 2 perc időtartam alatt | 20 db | 18 db | 16 db | 14 db |
 
@@ -334,7 +334,7 @@ Teljesítendő feladatok
 
 b) a speciális bevetési egységnél foglalkoztatottak esetében meghatározott minimum követelmények:
 
-|  |  | 29 éves korig | 30-35 év között | 36-40 év között | 41-49 év között |
+|  |  | 29 éves korig | 30-35 év között | 36-40 év között | 41 év felett |
 
 | 1. | Húzódzkodás 1 perc időtartam alatt | 20 db | 18 db | 16 db | 14 db |
 
@@ -460,4 +460,4 @@ d) értékelés: a célvonalon való áthaladás zárja az időmérést (perc, m
 
 e) eszközfelhasználás: futópálya vagy kijelölt sík terep, minimum 60 memóriás stopperóra, rajtszámok, síp
 
-[^23]: A 4. melléklet a 14/2015. (V. 4.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^35]: A 4. melléklet a 14/2015. (V. 4.) NGM rendelet 10. § (2) bekezdésével megállapított, a 63/2016. (XII. 29.) NGM rendelet 24. § d) pontja szerint módosított szöveg.
