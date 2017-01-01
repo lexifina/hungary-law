@@ -1,4 +1,4 @@
-124/A. §[^561] (1) Az elkobzott ásványolajtermékek valamint az ásványolajtermékekből vett, vámhatóság által tárolt és megsemmisítésre váró minták a Jöt. 120. § (8) bekezdése szerinti átadását a vámhatóság felügyelete mellett, hatósági tanú jelenlétében kell elvégezni.
+124/A. §[^565] (1) Az elkobzott ásványolajtermékek valamint az ásványolajtermékekből vett, vámhatóság által tárolt és megsemmisítésre váró minták a Jöt. 120. § (8) bekezdése szerinti átadását a vámhatóság felügyelete mellett, hatósági tanú jelenlétében kell elvégezni.
 
 (2) Az átadás-átvételről jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell
 
@@ -16,4 +16,4 @@ f) a felmerült költséget.
 
 (3) A Jöt. 120. § (8) bekezdésében foglalt elszámolás módját az állami adó- és vámhatóság vezetője egyedileg határozza meg, illetve a vámhatóság egyes szerveinek történő átadás esetére belső rendelkezésben szabályozza.
 
-[^561]: A 124/A. §-t a 20/2006. (VIII. 30.) PM rendelet 4. §-a iktatta be, szövege a 41/2015. (XII. 30.) NGM rendelet 118. §-ával megállapított szöveg.
+[^565]: A 124/A. §-t a 20/2006. (VIII. 30.) PM rendelet 4. §-a iktatta be, szövege a 41/2015. (XII. 30.) NGM rendelet 118. §-ával megállapított szöveg.

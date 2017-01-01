@@ -1,4 +1,4 @@
-48. §[^244] (1) A szeszgyártására alkalmas desztillálóberendezést – ha a Jöt. másként nem rendelkezik – csak
+48. §[^248] (1) A szeszgyártására alkalmas desztillálóberendezést – ha a Jöt. másként nem rendelkezik – csak
 
 a) olyan személy állíthat elő, aki (amely) annak gyártására a vámhatóságtól engedélyt kapott,
 
@@ -10,4 +10,4 @@ c) a b) pontban megjelölt személy részére lehet belföldön értékesíteni,
 
 (3) Rendeltetésszerűen szesz előállítására használt desztillálóberendezést – kivéve a magánfőző bejelentett desztillálóberendezését, valamint a kizárólag tudományos és oktatási célra használt nem üveg desztillálóberendezést – csak szeszüzem, szeszfőzde, alkoholregeneráló és -denaturáló üzem, valamint alkoholtermék regenerálását végző adómentes felhasználó tarthat birtokában. Azok a szeszgyártásra alkalmas desztillálóberendezések, amelyeket rendeltetésszerűen nem szesz előállítására használnak, a vámhatóság ellenőrzése mellett működtethetők.
 
-[^244]: A 48. § a 41/2015. (XII. 30.) NGM rendelet 61. §-ával megállapított szöveg.
+[^248]: A 48. § a 41/2015. (XII. 30.) NGM rendelet 61. §-ával megállapított szöveg.

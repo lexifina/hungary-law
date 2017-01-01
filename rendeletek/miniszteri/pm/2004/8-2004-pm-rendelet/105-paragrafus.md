@@ -1,4 +1,4 @@
-105. §[^457] (1) Az adóraktár engedélyesének és az adómentes felhasználónak a jövedéki termék megsemmisítését a vámhatósághoz írásban előzetesen kell bejelentenie.
+105. §[^461] (1) Az adóraktár engedélyesének és az adómentes felhasználónak a jövedéki termék megsemmisítését a vámhatósághoz írásban előzetesen kell bejelentenie.
 
 (2) A vámhatóságnak – ha a megsemmisítés feltételei fennállnak – a megsemmisítésről jegyzőkönyvet kell készítenie.
 
@@ -16,4 +16,4 @@ e) a jelenlévők aláírását, bélyegzőlenyomatát.
 
 (4) A megsemmisítési jegyzőkönyvet 2 példányban kell elkészíteni, melynek eredeti példánya a termékmérleg nyilvántartás mellékletét képezi, másodpéldánya a vámhatóság példánya. A megsemmisítési jegyzőkönyv a Jöt. 13. § (6) bekezdés szerinti vizsgálati jegyzőkönyvnek minősül.
 
-[^457]: A 105. § a 41/2015. (XII. 30.) NGM rendelet 104. §-ával megállapított szöveg.
+[^461]: A 105. § a 41/2015. (XII. 30.) NGM rendelet 104. §-ával megállapított szöveg.

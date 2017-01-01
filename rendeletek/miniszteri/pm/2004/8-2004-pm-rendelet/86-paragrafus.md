@@ -1,4 +1,4 @@
-86. §[^410] (1) Az adózatlan jövedéki terméknek a gyártás, tárolás és szállítás során bekövetkezett megsemmisülését az adómentes felhasználó haladéktalanul köteles bejelenteni a vámhatósághoz. Az igazolt megsemmisülést az elszámoláskor figyelembe kell venni.
+86. §[^414] (1) Az adózatlan jövedéki terméknek a gyártás, tárolás és szállítás során bekövetkezett megsemmisülését az adómentes felhasználó haladéktalanul köteles bejelenteni a vámhatósághoz. Az igazolt megsemmisülést az elszámoláskor figyelembe kell venni.
 
 (2) Az adómentes felhasználó a terméke előállításához beszerzett, közvetlen anyagként felhasznált jövedéki termék származását, eredetét számlával és termékkísérő okmánnyal, import jövedéki termék esetén vámokmánnyal is köteles igazolni.
 
@@ -12,4 +12,4 @@
 
 (7) A Jöt. 68. § (1) bekezdésének a) pontja szerinti adómentes felhasználás esetében a keretengedélyben szereplő felhasználási arányszám helyett a technológiai változtatás miatt módosuló, a vámhatósághoz bejelentett felhasználási arányszám szerinti elszámolás alkalmazható, ha a vámhatóság az új arányszám elfogadását a bejelentéstől számított 5 munkanapon belül nem utasította el. A módosuló felhasználási arányszámot az alkalmazása előtt 5 munkanappal korábban kell bejelenteni.
 
-[^410]: A 86. § a 41/2015. (XII. 30.) NGM rendelet 87. §-ával megállapított szöveg.
+[^414]: A 86. § a 41/2015. (XII. 30.) NGM rendelet 87. §-ával megállapított szöveg.

@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-8-20-53
 | 2015-07-29 | 2004-8-20-53.39 | 20/2015. (VII. 28.) NGM rendelet |
 | 2016-01-01 | 2004-8-20-53.40 | 41/2015. (XII. 30.) NGM rendelet |
 | 2016-06-08 | 2004-8-20-53.41 | 45/2016. (XI. 29.) NGM rendelet |
+| 2017-01-01 | 2004-8-20-53.42 | 62/2016. (XII. 29.) NGM rendelet |
