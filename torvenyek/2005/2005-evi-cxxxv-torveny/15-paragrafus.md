@@ -24,4 +24,6 @@ b) ha a cselekmény tulajdon elleni szabálysértés és ezt az erre hatáskörr
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb hat hónap halasztást vagy részletfizetést engedélyezhet.
 
+(4a) Az áldozatsegítő szolgálat visszatérítés tárgyában hozott döntése ellen fellebbezésnek van helye.
+
 (5) A vissza nem térített támogatás adók módjára behajtandó köztartozásnak minősül, a teljesítés elmulasztása esetén az áldozatsegítő szolgálat megkeresi a tartozás összegének behajtására hatáskörrel rendelkező szervet.

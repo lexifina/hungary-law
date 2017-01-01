@@ -4,4 +4,4 @@
 
 (2) A méltányosság iránti kérelemhez csatolni kell az áldozat és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
 
-(3) A méltányossági kérelem tárgyában hozott döntés ellen fellebbezésnek helye nincs.
+(3)
