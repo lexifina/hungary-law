@@ -1,10 +1,14 @@
-| Figyelem! Ezt a részt az NKA Igazgatósága tölti ki! A kérelem érkezésének napja: A kérelem iktatószáma: Ügyintéző neve: |
+| Figyelem! Ezt a részt a Pest Megyei Kormányhivatal tölti ki! |
+
+|  | A kérelem érkezésének napja: |
+
+|  | A kérelem iktatószáma: Ügyintéző neve: |
 
 ## KÉRELEM
 
 ## a Tao. tv. 24/A. §-a szerinti adófelajánláshoz kapcsolódó igazolás kiállítása iránt
 
-## A kérelem az adózó (Támogató) és a felajánlás igénybevételére jogosult előadó-művészeti szervezet (Támogatott) által együttesen nyújtható be tárgyév február 15-étől a Nemzeti Kulturális Alap Igazgatóságához (levelezési cím: NKA Igazgatósága Előadó-művészeti Iroda, 1388 Budapest, Pf. 82)
+| A kérelem az adózó (Támogató) és a felajánlás igénybevételére jogosult előadó-művészeti szervezet (Támogatott) által együttesen nyújtható be tárgyév február 15-étől a Pest Megyei Kormányhivatalhoz) |
 
 | I. A Támogató szervezet adatai |
 
@@ -42,8 +46,12 @@
 
 | 4. A felajánláshoz kapcsolódó adóbevallás (éve) időszaka: | ............ év ........................ hó ......... napjától ............ év ........................ hó ......... napjáig |
 
-| Dátum: ........................... A Támogató szervezet képviselőjének cégszerű aláírása | A Támogatott szervezet képviselőjének cégszerű aláírása |
+| Dátum: ........................... |
 
-## Melléklet: Az előadó-művészeti államigazgatási szerv által végzett egyes közigazgatási hatósági eljárásokért fizetendő igazgatási szolgáltatási díjról szóló 13/2012. (III. 6.) NEFMI rendelet szerint meghatározott igazgatási szolgáltatási díj megfizetését igazoló banki bizonylat vagy a fizetési számlára történő készpénzbefizetés feladóvevénye másolati példánya
+| A Támogató szervezet képviselőjének cégszerű aláírása | A Támogatott szervezet képviselőjének cégszerű aláírása |
 
-2. melléklet a 440/2015. (XII. 28.) Korm. rendelethez
+| Melléklet: A jogszabályban meghatározott igazgatási szolgáltatási díj megfizetését igazoló banki bizonylat másolati példánya |
+
+2. melléklet a 440/2015. (XII. 28.) Korm. rendelethez[^8]
+
+[^8]: A 2. melléklet a 379/2016. (XII. 2.) Korm. rendelet 315. § (1) bekezdés b) pontjával megállapított szöveg.

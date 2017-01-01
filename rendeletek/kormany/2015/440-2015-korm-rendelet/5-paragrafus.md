@@ -26,8 +26,8 @@ e) az igazolás felhasználhatóságának időszakát, valamint
 
 f) az előadó-művészeti szervezethez kapcsolódóan a kijelölt szerv által az igazolás kiállításának napjáig kiadott támogatási igazolások, továbbá hatósági igazolások összértékét.
 
-g) a felajánlott támogatási összeg alapját képező, a c) pont szerinti jegybevétel évét, valamint
-
-h) az igazolás felhasználhatóságának időszakát.
+g)–h)[^1]
 
 (6) Az (5) bekezdés szerinti igazolás módosításáról, visszavonásáról a kijelölt szerv az állami adóhatóságot a döntés megküldésével egyidejűleg értesíti.
+
+[^1]: Az 5. § (5) bekezdés g)–h) pontját a 379/2016. (XII. 2.) Korm. rendelet 315. § (3) bekezdése hatályon kívül helyezte.

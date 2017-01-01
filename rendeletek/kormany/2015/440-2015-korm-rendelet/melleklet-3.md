@@ -1,10 +1,18 @@
-| Figyelem! Ezt a részt az NKA Igazgatósága tölti ki! A módosító kérelem érkezésének napja: A módosító kérelem iktatószáma: Ügyintéző neve: |
+| Figyelem! Ezt a részt a Pest Megyei Kormányhivatal tölti ki! |
+
+|  | A módosító kérelem érkezésének napja: |
+
+|  | A módosító kérelem iktatószáma: |
+
+|  | Ügyintéző neve: |
 
 ## KÉRELEM
 
-## a Tao. tv. 24/A. §-a szerinti adófelajánláshoz kapcsolódóan kiállított IGAZOLÁS MÓDOSÍTÁSA vagy VISSZAVONÁSA iránt
+## a Tao. tv. 24/A. §-a szerinti adófelajánláshoz kapcsolódóan kiállított
 
-## A kérelem az adózó (Támogató) és a felajánlás igénybevételére jogosult előadó-művészeti szervezet (Támogatott) által együttesen nyújtható be tárgyév február 15-étől a Nemzeti Kulturális Alap Igazgatóságához (levelezési cím: NKA Igazgatósága Előadó-művészeti Iroda, 1388 Budapest, Pf. 82)
+## IGAZOLÁS MÓDOSÍTÁSA vagy VISSZAVONÁSA iránt
+
+| A kérelem az adózó (Támogató) és a felajánlás igénybevételére jogosult előadó-művészeti szervezet (Támogatott) által együttesen nyújtható be tárgyév február 15-étől a Pest Megyei Kormányhivatalhoz. |
 
 | I. A Támogató szervezet adatai |
 
@@ -30,7 +38,7 @@
 
 | 4. A kapcsolattartó neve, telefonszáma és elektronikus levelezési címe: |  |
 
-| 5. Levelezési cím (Az igazolás postázási címe) |  |
+| 6. Levelezési cím (Az igazolás postázási címe) |  |
 
 | III. Egyéb adatok |
 
@@ -40,19 +48,17 @@
 
 | 3. A felajánlás módosított összege, számmal és betűvel kiírva (igazolás visszavonása iránti kérelem esetén: 0): |  |
 
-| 4. Módosítani kérelmezett igazolás iktatószáma (NKA Igazgatósága által kiadott, felajánláshoz kapcsolódó igazolás iktatószáma): |  |
+| 4. Módosítani kérelmezett, a felajánláshoz kapcsolódó igazolás iktatószáma: |  |
 
-| 5. Visszavonni kérelmezett igazolás iktatószáma (NKA Igazgatóság által kiadott, felajánláshoz kapcsolódó igazolás iktatószáma): |  |
+| 5. Visszavonni kérelmezett, a felajánláshoz kapcsolódó igazolás iktatószáma: |  |
 
 | 6. A kapcsolódó eljárás típusa (A megfelelő típus betűjelét szíveskedjék bekarikázni!): | a) adóelőleg-fizetési kötelezettség teljesítéséhez kapcsolódó igazolás módosítása b) adóelőleg-fizetési kötelezettség teljesítéséhez kapcsolódó igazolás visszavonása c) adóelőleg-kiegészítési kötelezettségről szóló bevalláshoz kapcsolódó igazolás visszavonása d) társasági adóbevalláshoz kapcsolódó igazolás visszavonása |
 
 | 7. A felajánláshoz kapcsolódó adóbevallás (éve) időszaka: | ............ év ........................ hó ......... napjától ............ év ........................ hó ......... napjáig |
 
-## Dátum: ...........................
+| Dátum: ........................... |
 
-| A Támogató szervezet képviselőjének | A Támogatott szervezet képviselőjének |
-
-| cégszerű aláírása | cégszerű aláírása |
+| A Támogató szervezet képviselőjének cégszerű aláírása | A Támogatott szervezet képviselőjének cégszerű aláírása” |
 
 3. melléklet a 440/2015. (XII. 28.) Korm. rendelethez
 
