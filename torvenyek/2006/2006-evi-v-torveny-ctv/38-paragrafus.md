@@ -2,4 +2,4 @@
 
 (2) A céginformációs szolgálat a kérelem megérkezéséről, és arról, hogy azt továbbította a cégbírósághoz, a kérelem cégbírósághoz való sikeres továbbításával egyidejűleg elektronikus igazolást küld a jogi képviselőnek. A céginformációs szolgálat abban az esetben is igazolást küld a jogi képviselő számára, amennyiben az iratokat nem továbbítja a cégbíróság számára. Az elektronikus igazolást fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátni.
 
-(3) Ha a céginformációs szolgálatnál, illetve a kormányzati portálnál felmerült üzemzavar akadályozta a kérelem határidőben történő benyújtását, erre hivatkozással – a jogvesztő határidő esetét is ideértve – akkor is van helye igazolásnak, ha azt egyébként törvény kizárja.
+(3) Ha a céginformációs szolgálatnál, illetve a személyre szabott ügyintézési felület működése során felmerült üzemzavar akadályozta a kérelem határidőben történő benyújtását, erre hivatkozással – a jogvesztő határidő esetét is ideértve – akkor is van helye igazolásnak, ha azt egyébként törvény kizárja.

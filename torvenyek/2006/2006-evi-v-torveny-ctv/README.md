@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2016-06-16 | 2016. évi LXVI. törvény | 2006-5-00-00.51 |
 | 2016-07-01 | 2016. évi XXXII. törvény | 2006-5-00-00.52 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 2006-5-00-00.53 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 2006-5-00-00.54 |

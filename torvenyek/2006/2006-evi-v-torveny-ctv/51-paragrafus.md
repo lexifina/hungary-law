@@ -9,3 +9,5 @@
 (4) Ha a cégbíróság a céget a 23/A. §-a alapján az Európai Unió valamely hivatalos nyelvén is nyilvántartja, a változásbejegyzési kérelemhez csatolni kell a megváltozott cégjegyzékadatok hiteles fordítását, a létesítő okirat tartalmának változása esetén a létesítő okirat módosításának, illetve a létesítőokirat-változásokkal egységes szerkezetbe foglalt szövegének hiteles fordítását is.
 
 12. CÍM
+
+A zártkörűen működő részvénytársaság működési formája megváltoztatásának – a cég részvényeinek tőzsdei bevezetése előtti – bejegyzésére irányuló eljárás

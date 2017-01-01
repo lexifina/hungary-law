@@ -1,4 +1,4 @@
-19. § (1) A kormányzati portál a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével elektronikus igazolást küld a beszámolót benyújtó személynek. A beszámoló megküldésére vonatkozó határidők tekintetében a céginformációs szolgálathoz történő – az informatikai szempontból szabályszerű – érkezés időpontja irányadó.
+19. § (1) A személyre szabott ügyintézési felület a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével elektronikus igazolást küld a beszámolót benyújtó személynek. A beszámoló megküldésére vonatkozó határidők tekintetében a céginformációs szolgálathoz történő – az informatikai szempontból szabályszerű – érkezés időpontja irányadó.
 
 (2) Az állami adóhatóság az elektronikus űrlap adatai alapján ellenőrzi a beszámoló megküldésének tényét és időpontját. Amennyiben az állami adóhatóság azt állapítja meg, hogy a cég a letétbe helyezésre és közzétételre előírt törvényi határidőig nem küldte meg a beszámolót, az adózás rendjéről szóló törvényben meghatározottak szerint jár el.
 

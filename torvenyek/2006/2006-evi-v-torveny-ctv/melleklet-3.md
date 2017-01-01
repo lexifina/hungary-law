@@ -110,7 +110,7 @@
 
 ## da) a tőzsde igazolása a részvények tőzsdei bevezetéséről, és idegen nyelvű igazolás esetén annak hiteles magyar nyelvű fordítása;
 
-## db) a kibocsátás helye szerint illetékes hatóság által jóváhagyott, az értékpapír nyilvános kibocsátásához szükséges tájékoztató és idegen nyelvű tájékoztató és jóváhagyás esetén azok hiteles magyar nyelvű fordítása;
+## db) a kibocsátás helye szerint illetékes hatóság által jóváhagyott, az értékpapír nyilvános kibocsátásához szükséges tájékoztató (összefoglaló) és idegen nyelvű tájékoztató (összefoglaló) és jóváhagyás esetén azok hiteles magyar nyelvű fordítása;
 
 ## dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azon kedvezményekről, amelyeket a társaság a működési forma változására tekintettel biztosít;
 

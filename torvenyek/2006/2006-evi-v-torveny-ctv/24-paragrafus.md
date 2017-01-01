@@ -24,7 +24,9 @@ k) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontj�
 
 l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel – a cégjegyzékadatok, illetve azok törlése bejegyzésének Cégközlönyben történő közzétételének napját,
 
-m) a cég elektronikus kézbesítési címét.
+m) a cég elektronikus kézbesítési címét,
+
+n) a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét
 
 (2)
 
@@ -43,3 +45,7 @@ m) a cég elektronikus kézbesítési címét.
 (7) Ha a cég felszámolás alatt áll, az (1) bekezdés h) pontja szerinti adatok között a felszámolóbiztos lakóhelye helyett a személyi adat- és lakcímnyilvántartásban szereplő értesítési címe is feltüntethető.
 
 (8) Az (1) bekezdés m) pontja szerinti kézbesítési címen a cég a részére elektronikus úton megküldött hivatalos iratok átvételét biztosítja. A cégbíróság e címre a 39/A. § alkalmazásával kézbesít.
+
+(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be, ha azt a cég oda jelentette be.
+
+(10) Ha a cég az (1) bekezdés n) pontja szerinti adatot a cégbíróság felé jelentette be, a cégbíróság a bejegyzésről a (9) bekezdés szerinti nyilvántartást vezető szervet elektronikus úton értesíti.

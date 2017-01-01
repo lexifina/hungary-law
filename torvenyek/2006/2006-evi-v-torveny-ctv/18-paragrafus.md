@@ -1,4 +1,4 @@
-18. § (1) A cégnek a számviteli törvény szerinti beszámolót elektronikus úton, a kormányzati portál útján kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni.
+18. § (1) A cégnek a számviteli törvény szerinti beszámolót elektronikus úton, személyre szabott ügyintézési felület útján kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni.
 
 (2) Az elektronikus űrlapot a céginformációs szolgálat továbbítja – az érkezést követően haladéktalanul – az állami adóhatóság részére.
 

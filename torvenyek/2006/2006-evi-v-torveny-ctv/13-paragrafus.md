@@ -6,7 +6,7 @@
 
 a) a céginformációs szolgálat honlapjáról, illetve
 
-b) a kormányzati portál útján is
+b) a személyre szabott ügyintézési felület útján is
 
 megismerhetők.
 
