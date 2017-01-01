@@ -40,7 +40,7 @@ bd) az adósságtörlesztési határozatban meghatározott kötelezettségeit sz
 
 7. aktív korú: a 18 év feletti, a rá irányadó öregségi nyugdíjkorhatárt még be nem töltött természetes személy, aki nem minősül fogyatékkal élőnek vagy a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti megváltozott munkaképességű személynek,
 
-8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles hatósági nyilvántartás,
+8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles országos központi nyilvántartás,
 
 9. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
 
@@ -58,9 +58,9 @@ c) az adós mint kötelezett vagyontárgyán vagy vagyoni értékű jogán bizto
 
 13. bírósági adósságrendezés időtartama: a bírósági adósságrendezés kezdő időpontjától a bírósági adósságrendezés záró időpontjáig tartó időszak, e két időpontot is beleértve,
 
-14. Családi Csődvédelmi Szolgálat: az Igazságügyi Hivatalnál és a fővárosi és megyei kormányhivataloknál (a továbbiakban: kormányhivatal) az e törvényben és végrehajtási rendeleteiben meghatározott feladatokat ellátó szervezeti egység,
+14. Családi Csődvédelmi Szolgálat: a Kormány által rendeletben kijelölt, az e törvényben és végrehajtási rendeleteiben meghatározott feladatokat ellátó szerv,
 
-15. családi vagyonfelügyelő: az adósságrendezési eljárásban közreműködő fizetésképtelenségi szakértő, aki a Családi Csődvédelmi Szolgálatot magában foglaló kormányhivatallal áll munkavégzésre irányuló tartós jogviszonyban,
+15. családi vagyonfelügyelő: a bírósági adósságrendezési eljárásban közreműködő fizetésképtelenségi szakértő, aki a területi Családi Csődvédelmi Szolgálattal áll munkavégzésre irányuló tartós jogviszonyban,
 
 16. egyedül élő: egyszemélyes háztartásban élő személy,
 

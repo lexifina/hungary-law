@@ -12,7 +12,7 @@ c) a bírósági adósságrendezés elrendelését,
 
 d) az adós, adóstárs természetes személyazonosító adatait, lakcímadatait,
 
-e) az illetékes területi Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan az illetékes területi Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő 31. § (6) bekezdésében meghatározott adatait.
+e) a Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan a Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő 31. § (6) bekezdésében meghatározott adatait.
 
 (3) A bírósági adósságrendezést elrendelő végzés ellen csak a hitelező nyújthat be fellebbezést, a végzés kézbesítésétől számított 15 napon belül.
 

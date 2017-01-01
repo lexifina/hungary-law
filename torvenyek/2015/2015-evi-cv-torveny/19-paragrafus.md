@@ -30,7 +30,7 @@ d) előzetesen hozzájárul ahhoz, hogy az adósságrendezés érdekében a jelz
 
 (5) Az adós és az adóstárs kötelezettséget vállal arra, hogy ha a személyi, családi, vagyoni, jövedelmi helyzetében, illetve a lakóhelyével összefüggésben vagy a (6) bekezdés szerinti adatokban változás következik be, az azzal összefüggésben újonnan kitöltött űrlapokat és dokumentumokat öt napon belül benyújtja.
 
-(5a) Az (5) bekezdés szerinti adatváltozás bejelentése azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az adós vagy az adóstárs kéri – az (5) bekezdés szerinti határidőben értesíti a területi Családi Csődvédelmi Szolgálatot.
+(5a) Az (5) bekezdés szerinti adatváltozás bejelentése azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az adós vagy az adóstárs kéri – az (5) bekezdés szerinti határidőben értesíti a Családi Csődvédelmi Szolgálatot.
 
 (6) Az adósságrendezés kezdeményezésekor adós és az adóstárs írásban hozzájárul ahhoz, hogy az adósságrendezésbe vonandó vagyonával, jövedelmével és az adósságállományával és az ellene indított igényérvényesítésekkel összefüggő adatokat a hitelezők, az egyéb kötelezettek, a hatáskörükben eljáró hatóságok, ügyészség és bíróság, a családi vagyonfelügyelő és a Családi Csődvédelmi Szolgálat, valamint a külön törvényben az ilyen adat megismerésére feljogosított szervek – a jogaik gyakorlásához, kötelezettségeik teljesítéséhez szükséges körben – megismerjék.
 

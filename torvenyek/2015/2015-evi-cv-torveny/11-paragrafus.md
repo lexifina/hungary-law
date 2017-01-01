@@ -1,6 +1,6 @@
 ## 6. Családi Csődvédelmi Szolgálat, családi vagyonfelügyelő
 
-11. § (1) A Családi Csődvédelmi Szolgálat központi szerve az Igazságügyi Hivatal szervezeti egysége, a Családi Csődvédelmi Szolgálat területi szervei a kormányhivatalok.
+11. § (1)
 
 (2) A Családi Csődvédelmi Szolgálat
 

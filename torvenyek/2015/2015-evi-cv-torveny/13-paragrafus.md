@@ -1,4 +1,4 @@
-13. § (1) A területi Családi Csődvédelmi Szolgálat által a bírósági adósságrendezési eljárásra történő családi vagyonfelügyelői kijelölés részletes szabályait e törvény végrehajtási rendelete tartalmazza.
+13. § (1) A Családi Csődvédelmi Szolgálat által a bírósági adósságrendezési eljárásra történő családi vagyonfelügyelői kijelölés részletes szabályait e törvény végrehajtási rendelete tartalmazza.
 
 (2) A kijelölés csak az e törvény szerinti kizárási ok esetén utasítható vissza.
 

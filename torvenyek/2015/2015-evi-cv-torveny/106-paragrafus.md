@@ -18,7 +18,7 @@ g) a bíróságon kívüli adósságrendezési eljárásban kötött megállapod
 
 h) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő közreműködésének részletes feladatait a bíróságon kívüli adósságrendezési eljárásban,
 
-i) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatait, ideértve az eljárásban részt vevő személyek, szervezetek közötti kapcsolattartás szabályait és az együttműködési megállapodások megkötésével, kötelező tartami elemeivel összefüggő szabályokat is,
+i) a Családi Csődvédelmi Szolgálatként eljáró szervek kijelölését, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatait, az adósságrendezési eljárásban részt vevő személyek, szervezetek közötti kapcsolattartás szabályait és az együttműködési megállapodások megkötésével, kötelező tartalmi elemeivel összefüggő szabályokat,
 
 j) a Családi Csődvédelmi Szolgálatnál a családi vagyonfelügyelők feletti szakmai felügyelettel összefüggő szabályokat.
 

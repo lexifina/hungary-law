@@ -1,6 +1,6 @@
 ## 7. Adósságrendezési nyilvántartás
 
-16. § (1) Az adósságrendezés kezdeményezésére, az adósságrendezés kezdeményezésének, illetve lefolytatásának sikertelenségére, a bírósági adósságrendezés elrendelésére, az adósságrendezési eljárás szakaszaira, a bírósági adósságrendezés elrendelésének elutasítására, a bírósági adósságrendezési eljárás megszüntetésére, az eljárás során hozott érdemi határozatokra, valamint az eljárás hatálya alá tartozó személyekre vonatkozóan a Családi Csődvédelmi Szolgálat központi szerve közhiteles országos központi nyilvántartást vezet (ARE nyilvántartás), amely nyilvántartáshoz a területi Családi Csődvédelmi Szolgálatok hozzákapcsolódnak. Az ARE nyilvántartásba a területi Családi Csődvédelmi Szolgálatok jegyzik be az őket érintő ügyekben az e törvényben meghatározott adatokat, adatváltozásokat, és töltik fel a dokumentumtárba az e törvényben meghatározott okiratokat digitalizált formában. A Családi Csődvédelmi Szolgálat központi szerve mint adatkezelő az ARE nyilvántartással összefüggő, a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott elektronikus adatfeldolgozás ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+16. § (1) Az adósságrendezés kezdeményezésére, az adósságrendezés kezdeményezésének, illetve lefolytatásának sikertelenségére, a bírósági adósságrendezés elrendelésére, az adósságrendezési eljárás szakaszaira, a bírósági adósságrendezés elrendelésének elutasítására, a bírósági adósságrendezési eljárás megszüntetésére, az eljárás során hozott érdemi határozatokra, valamint az eljárás hatálya alá tartozó személyekre vonatkozóan a Családi Csődvédelmi Szolgálat közhiteles országos központi nyilvántartást vezet (ARE nyilvántartás). Az ARE nyilvántartásba a Családi Csődvédelmi Szolgálat jegyzi be az e törvényben meghatározott adatokat, adatváltozásokat, és tölti fel a dokumentumtárba az e törvényben meghatározott okiratokat digitalizált formában. A Családi Csődvédelmi Szolgálat mint adatkezelő az ARE nyilvántartással összefüggő, a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott elektronikus adatfeldolgozás ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (2) Az ARE nyilvántartás tartalmazza:
 
@@ -30,7 +30,7 @@ ge) az adósságrendezési eljárásban az adós mellett kötelezettségvállal�
 
 gf) az adósságrendezési eljárásban be nem kapcsolódó egyéb kötelezett természetes személyazonosító adatait és lakcímadatait,
 
-gg) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a területi Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
+gg) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
 
 h) a bírósági adósságrendezés elrendelésének időpontjában azon hitelezők adósságrendezési eljárásba való bejelentkezésével összefüggő határidőt, akik pénzbeli vagy pénzben kifejezett követelésének esedékessége már lejárt vagy a bírósági adósságrendezés elrendelését követő öt éven belül jár le,
 
@@ -46,7 +46,7 @@ m) az adósságtörlesztésről szóló jogerős végzés ügyszámát, keltét,
 
 n) az adósságtörlesztésről szóló bírósági végzést módosító jogerős végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 
-o) a bírósági adósságrendezési eljárás lezárásához készített jegyzőkönyv ügyszámát, keltét, az azt készítő családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a területi Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő foglalkoztatásra irányuló jogviszonyban áll,
+o) a bírósági adósságrendezési eljárás lezárásához készített jegyzőkönyv ügyszámát, keltét, az azt készítő családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő foglalkoztatásra irányuló jogviszonyban áll,
 
 p) a bírósági adósságrendezési eljárás lezárásakor a jogerős mentesítő bírósági végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 
@@ -58,7 +58,7 @@ t) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűn�
 
 u) a bírósági adósságrendezési egyezség hatálya megszűnésének bírósági megállapítása esetén ezt a tényt, a bíróság nevét, székhelyét, a jogerős bírósági végzés keltét, ügyszámát, a jogerőre emelkedés napját, az adós természetes személyazonosító adatait, lakcímét, az érintett hitelező nevét, székhelyét (lakóhelyét) jogi személy hitelező esetén a bírósági vagy hatósági nyilvántartási számát.
 
-(3) A családi vagyonfelügyelő, az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett az ARE nyilvántartásnak arra az adósságrendezési ügyre vonatkozó adataiba tekinthet be, amelyben részt vesz vagy részt vett. A betekintés az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett részéről személyesen történhet, bármelyik területi Családi Csődvédelmi Szolgálatnál. A betekintés ingyenes.
+(3) A családi vagyonfelügyelő, az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett az ARE nyilvántartásnak arra az adósságrendezési ügyre vonatkozó adataiba tekinthet be, amelyben részt vesz vagy részt vett. A betekintés az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett részéről személyesen történhet, bármelyik Családi Csődvédelmi Szolgálatnál. A betekintés ingyenes.
 
 (4) Az ARE nyilvántartásból annak a bíróságnak, közjegyzőnek, ügyésznek, nyomozó hatóságnak, közigazgatási szervnek, nemzetbiztonsági szolgálatnak, végrehajtást elrendelő hatóságnak, a végrehajtónak és szociális hatóságnak továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével megjelöli, hogy az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adat megismerésére és kezelésére jogosult. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére jogosult. Az adat igénylése és továbbítása elektronikus úton történik. Az ilyen adatigénylés ingyenes.
 
@@ -66,13 +66,13 @@ u) a bírósági adósságrendezési egyezség hatálya megszűnésének bírós
 
 (6) Az ARE nyilvántartás összesített adatai egyedi azonosításra nem alkalmas módon statisztikai célra, továbbá a hatóságok, bíróságok, minisztériumok számára hatásvizsgálati célból adhatók át.
 
-(7) A Családi Csődvédelmi Szolgálat központi szerve kérelemre, igazgatási szolgáltatási díj megfizetése ellenében tanúsítványt állít ki a belföldi természetes személyek részére arról, hogy
+(7) A Családi Csődvédelmi Szolgálat kérelemre, igazgatási szolgáltatási díj megfizetése ellenében tanúsítványt állít ki a belföldi természetes személyek részére arról, hogy
 
 a) a kérelmező természetes személy nem szerepel az ARE nyilvántartásban adósként, vagy
 
 b) az ARE nyilvántartásban a kérelmező természetes személy szerepel, valamint az általa a tanúsítványba foglalni kért, az ARE nyilvántartásban nyilvántartott adatokról.
 
-(8) A Családi Csődvédelmi Szolgálat központi szerve kérelemre, igazgatási szolgáltatási díj megfizetése ellenében hiteles vagy nem hiteles másolatot állít ki a belföldi természetes személyek részére a kérelmező természetes személy adósságrendezési eljárásában nyilvántartott okiratokról.
+(8) A Családi Csődvédelmi Szolgálat kérelemre, igazgatási szolgáltatási díj megfizetése ellenében hiteles vagy nem hiteles másolatot állít ki a belföldi természetes személyek részére a kérelmező természetes személy adósságrendezési eljárásában nyilvántartott okiratokról.
 
 (9) Az ARE nyilvántartásban
 
@@ -90,4 +90,4 @@ db) a bíróságon kívüli adósságrendezési megállapodás hatályának megs
 
 dc) a bírósági adósságrendezési egyezség hatályának megszűnését a bíróság megállapította, az erről szóló jogerős végzés bejegyzésének napjától,
 
-számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követően az adatokat a Családi Csődvédelmi Szolgálat központi szerve törli.
+számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követően az adatokat a Családi Csődvédelmi Szolgálat törli.

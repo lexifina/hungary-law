@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-105-00-00
 | 2016-04-12 | 2016. évi XVI. törvény | 2015-105-00-00.5 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2015-105-00-00.6 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 2015-105-00-00.7 |
+| 2017-01-01 | 2016. évi CIV. törvény | 2015-105-00-00.8 |
