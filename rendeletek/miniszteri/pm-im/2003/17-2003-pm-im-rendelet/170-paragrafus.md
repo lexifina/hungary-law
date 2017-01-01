@@ -1,3 +1,3 @@
-## X. Fejezet[^116]
+## X. Fejezet[^117]
 
-[^116]: A X. Fejezetet (170–173. §) a 23/2015. (IX. 4.) NGM rendelet 7. § 5. pontja hatályon kívül helyezte.
+[^117]: A X. Fejezetet (170–173. §) a 23/2015. (IX. 4.) NGM rendelet 7. § 5. pontja hatályon kívül helyezte.

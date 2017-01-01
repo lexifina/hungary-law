@@ -2,9 +2,9 @@
 
 ## A Be. 158/B. §–158/D. §-ához
 
-## (Elektronikus adat ideiglenes hozzáférhetetlenné tétele)[^67]
+## (Elektronikus adat ideiglenes hozzáférhetetlenné tétele)[^68]
 
-88/A. §[^68] (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésére a nyomozó szerv vezetője tesz előterjesztést az ügyészhez.
+88/A. §[^69] (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésére a nyomozó szerv vezetője tesz előterjesztést az ügyészhez.
 
 (2) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele indítványozása iránti előterjesztésnek tartalmaznia kell:
 
@@ -50,5 +50,5 @@ g) az elektronikus adatot tároló tárhelyszolgáltató nevének és címének,
 
 5. URL cím: egységes erőforrás azonosító, amely egyetlen címben foglalja össze az interneten megtalálható elektronikus adat azonosításához szükséges legfontosabb információkat, mint a protokoll, a domain név vagy IP cím, a portszám és az elérési út a célszerveren.
 
-[^67]: A 88/A. §-t megelőző alcímet a 23/2015. (IX. 4.) NGM rendelet 3. §-a iktatta be.
-[^68]: A 88/A. §-t a 23/2015. (IX. 4.) NGM rendelet 3. §-a iktatta be.
+[^68]: A 88/A. §-t megelőző alcímet a 23/2015. (IX. 4.) NGM rendelet 3. §-a iktatta be.
+[^69]: A 88/A. §-t a 23/2015. (IX. 4.) NGM rendelet 3. §-a iktatta be.

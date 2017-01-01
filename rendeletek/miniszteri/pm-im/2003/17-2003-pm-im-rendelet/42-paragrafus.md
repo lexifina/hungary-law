@@ -1,3 +1,3 @@
-## 41. §[^47]
+## 41. §[^48]
 
-[^47]: A 41. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 45. § (2) bekezdése hatályon kívül helyezte.
+[^48]: A 41. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 45. § (2) bekezdése hatályon kívül helyezte.

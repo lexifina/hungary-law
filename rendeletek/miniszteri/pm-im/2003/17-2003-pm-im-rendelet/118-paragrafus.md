@@ -4,7 +4,7 @@
 
 a) a nyomozó hatóság megnevezését, az ügyszámot, a nyomozás elrendelésének időpontját,
 
-b)[^86] a bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti megnevezését, a bűncselekmény gyanúját megalapozó adatokat,
+b)[^87] a bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti megnevezését, a bűncselekmény gyanúját megalapozó adatokat,
 
 c) az üggyel összefüggő titkos információgyűjtés, illetve titkos adatszerzés során beszerezett adatokat,
 
@@ -14,4 +14,4 @@ e) a fedett nyomozó működési körét.
 
 (2) Az előterjesztéshez csatolni kell az előterjesztésben foglaltakat megalapozó iratokat.
 
-[^86]: A 118. § (1) bekezdés b) pontja a 23/2015. (IX. 4.) NGM rendelet 6. § 7. pontja szerint módosított szöveg.
+[^87]: A 118. § (1) bekezdés b) pontja a 23/2015. (IX. 4.) NGM rendelet 6. § 7. pontja szerint módosított szöveg.

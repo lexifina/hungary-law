@@ -1,4 +1,4 @@
-## 136. §[^96] A nyomozás során a panaszt a határozatot hozó, az intézkedést foganatosító, illetőleg az intézkedést elmulasztó nyomozó szervnél célszerű előterjeszteni.
+## 136. §[^97] A nyomozás során a panaszt a határozatot hozó, az intézkedést foganatosító, illetőleg az intézkedést elmulasztó nyomozó szervnél célszerű előterjeszteni.
 
 ## A Be. 200. §-ához
 
@@ -22,4 +22,4 @@
 
 (9) Az (1) és (6) bekezdésben meghatározott esetben az értesítés, illetőleg a (2) és (4) bekezdés szerinti előterjesztés megtételére, továbbá a titkos adatszerzés végrehajtásáról a Be. 204. §-ának (5) bekezdése alapján készített jelentés aláírására az adatszerzést végző nyomozóhatóság vezetője jogosult.
 
-[^96]: A 136. § a 9/2007. (V. 31.) PM–IRM rendelet 8. §-ával megállapított szöveg.
+[^97]: A 136. § a 9/2007. (V. 31.) PM–IRM rendelet 8. §-ával megállapított szöveg.

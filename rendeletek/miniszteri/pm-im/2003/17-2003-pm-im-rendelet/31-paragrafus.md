@@ -1,4 +1,4 @@
-## 30. §[^43]
+## 30. §[^44]
 
 ## A Be. 97. §-ához
 
@@ -10,4 +10,4 @@
 
 (3) A különösen védetté nyilvánított tanú közreműködésével történő helyszíni kihallgatás, bizonyítási kísérlet elrendelése esetén, valamint ha felismerésre bemutatás megtartását rendelik el, és a bíró a felismerésre bemutatás megtartásához a nyomozó hatóságot veszi igénybe, a helyszíni kihallgatást, a bizonyítási kísérletet, a felismerésre bemutatást a nyomozási bíró rendelkezései szerint kell megtartani.
 
-[^43]: A 30. §-t a 23/2015. (IX. 4.) NGM rendelet 7. § 2. pontja hatályon kívül helyezte.
+[^44]: A 30. §-t a 23/2015. (IX. 4.) NGM rendelet 7. § 2. pontja hatályon kívül helyezte.

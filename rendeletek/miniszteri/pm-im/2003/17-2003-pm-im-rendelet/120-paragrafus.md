@@ -4,8 +4,8 @@
 
 ## (A gyanúsított kihallgatása)
 
-120. § (1)[^87] A gyanúsítottal a bizonyítékok ismertetése nélkül közölni kell a terhére rótt bűncselekményt megvalósító magatartásának lényegét, és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését. Ha a gyanúsítottat több bűncselekmény elkövetésével gyanúsítják, minden egyes bűncselekményt illetően külön-külön kell közölni a terhére rótt tényeket és ezeknek az 1978. évi IV. törvény vagy a Btk. szerinti minősítését.
+120. § (1)[^88] A gyanúsítottal a bizonyítékok ismertetése nélkül közölni kell a terhére rótt bűncselekményt megvalósító magatartásának lényegét, és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését. Ha a gyanúsítottat több bűncselekmény elkövetésével gyanúsítják, minden egyes bűncselekményt illetően külön-külön kell közölni a terhére rótt tényeket és ezeknek az 1978. évi IV. törvény vagy a Btk. szerinti minősítését.
 
 (2) Ha a gyanúsítás közlését követően a nyomozás során a gyanúsítottal szemben újabb bűncselekmény megalapozott gyanúja állapítható meg, valamint ha a gyanúsításban közölt bűncselekmény minősítése megváltozik, azt vele a kihallgatásánál közölni kell.
 
-[^87]: A 120. § (1) bekezdése a 23/2015. (IX. 4.) NGM rendelet 6. § 8. pontja szerint módosított szöveg.
+[^88]: A 120. § (1) bekezdése a 23/2015. (IX. 4.) NGM rendelet 6. § 8. pontja szerint módosított szöveg.

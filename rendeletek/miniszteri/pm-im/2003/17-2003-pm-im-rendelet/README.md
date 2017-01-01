@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-17-20-5
 | 2013-01-01 | 2003-17-20-53.10 | 48/2012. (XII. 28.) NGM rendelet |
 | 2015-09-05 | 2003-17-20-53.11 | 23/2015. (IX. 4.) NGM rendelet |
 | 2016-01-01 | 2003-17-20-53.12 | 19/2011. (V. 6.) NGM rendelet |
+| 2017-01-01 | 2003-17-20-53.13 | 62/2016. (XII. 29.) NGM rendelet |

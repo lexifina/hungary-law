@@ -2,10 +2,10 @@
 
 ## (A nyomozó hatóság egyéb adatszerző tevékenysége)
 
-## 117. §[^85] Ha az indokolt, a nyomozás során – függetlenül keletkezésük idejétől – be kell szerezni különösen:
+## 117. §[^86] Ha az indokolt, a nyomozás során – függetlenül keletkezésük idejétől – be kell szerezni különösen:
 
 a) az ügy történeti tényállásához kapcsolódó közigazgatási hatósági eljárás,
 
 b) a NAV tv. vagy a Rendőrségről szóló törvény alapján végzett intézkedés
 
-[^85]: A 117. § a 19/2011. (V. 6.) NGM rendelet 11. §-ával megállapított szöveg.
+[^86]: A 117. § a 19/2011. (V. 6.) NGM rendelet 11. §-ával megállapított szöveg.

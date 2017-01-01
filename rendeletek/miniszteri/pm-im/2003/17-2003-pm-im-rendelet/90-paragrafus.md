@@ -1,4 +1,4 @@
-## 89. §[^70] Ha az ügyész a nyomozó hatóság által elrendelt zár alá vételt feloldja, a nyomozó hatóság vezetője haladéktalanul intézkedik annak végrehajtásáról.
+## 89. §[^71] Ha az ügyész a nyomozó hatóság által elrendelt zár alá vételt feloldja, a nyomozó hatóság vezetője haladéktalanul intézkedik annak végrehajtásáról.
 
 ## A Be. 161. §-ához
 
@@ -8,4 +8,4 @@
 
 (2) Ha a nyomozó hatóság vezetője rendbírság kiszabását tartja szükségesnek, azt írásban kezdeményezi az ügyésznél. A kezdeményezésben a rendbírság kiszabásának alapjául szolgáló okokat kellő részletességgel ismertetni kell.
 
-[^70]: A 89. § a 23/2015. (IX. 4.) NGM rendelet 6. § 6. pontja szerint módosított szöveg.
+[^71]: A 89. § a 23/2015. (IX. 4.) NGM rendelet 6. § 6. pontja szerint módosított szöveg.

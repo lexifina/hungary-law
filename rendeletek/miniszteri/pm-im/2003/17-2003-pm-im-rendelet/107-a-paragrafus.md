@@ -1,8 +1,8 @@
 ## A Be. 172/A. §-ához
 
-## (A feljelentés kiegészítése)[^76]
+## (A feljelentés kiegészítése)[^77]
 
-107/A. §[^77] (1) Ha a feljelentés alapján nem állapítható meg, hogy fennáll-e a bűncselekmény gyanúja, illetve az, hogy az eljárásnak van-e törvényi akadálya, feljelentés kiegészítése rendelhető el. Ennek keretében a nyomozó hatóság a Be. 172/A. §-ának (2) bekezdése szerinti adatszerző tevékenységet folytathat.
+107/A. §[^78] (1) Ha a feljelentés alapján nem állapítható meg, hogy fennáll-e a bűncselekmény gyanúja, illetve az, hogy az eljárásnak van-e törvényi akadálya, feljelentés kiegészítése rendelhető el. Ennek keretében a nyomozó hatóság a Be. 172/A. §-ának (2) bekezdése szerinti adatszerző tevékenységet folytathat.
 
 (2) Ha a feljelentésben több bűncselekmény került megjelölésre és ezek között van olyan cselekmény, mely tekintetében – a feljelentés adatai alapján – fennáll a bűncselekmény gyanúja, nem rendelhető el feljelentés kiegészítés annak megállapítására, hogy a további cselekmények vonatkozásában is fennáll-e bűncselekmény elkövetésének gyanúja.
 
@@ -10,10 +10,10 @@
 
 (4) A nyomozó hatóság a feljelentés kiegészítése során tett megállapításait – ha ezzel kapcsolatban egyéb iratok nem keletkeztek – jelentésbe köteles foglalni.
 
-(5)[^78] A feljelentés kiegészítése során – a feljelentéskiegészítés határideje alatt – dönteni kell arról, hogy a bűncselekmény elkövetésének gyanúja megállapítható-e. Ha a bűncselekmény gyanúja megállapítható, a nyomozást el kell rendelni, ellenkező esetben a feljelentést el kell utasítani.
+(5)[^79] A feljelentés kiegészítése során – a feljelentéskiegészítés határideje alatt – dönteni kell arról, hogy a bűncselekmény elkövetésének gyanúja megállapítható-e. Ha a bűncselekmény gyanúja megállapítható, a nyomozást el kell rendelni, ellenkező esetben a feljelentést el kell utasítani.
 
 (6) Ha az ügyész a feljelentés kiegészítését a Be. 35. §-ának (2) bekezdése alapján a nyomozó szerv hatáskörébe utalta, a feljelentés esetleges elutasításáról a nyomozó szerv – a Be. 174. § (2) bekezdésében foglalt esetekben – dönt.
 
-[^76]: A 107/A. §-t megelőző alcímet a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.
-[^77]: A 107/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.
-[^78]: Az 107/A. § (5) bekezdése a 23/2015. (IX. 4.) NGM rendelet 5. §-ával megállapított szöveg.
+[^77]: A 107/A. §-t megelőző alcímet a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.
+[^78]: A 107/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.
+[^79]: Az 107/A. § (5) bekezdése a 23/2015. (IX. 4.) NGM rendelet 5. §-ával megállapított szöveg.

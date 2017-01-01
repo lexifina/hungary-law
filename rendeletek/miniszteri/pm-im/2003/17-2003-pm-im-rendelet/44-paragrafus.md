@@ -1,4 +1,4 @@
-44. § (1)[^48] A helyszíni kihallgatásról készült jegyzőkönyv a Be. 166. §-ában meghatározottak mellett tartalmazza:
+44. § (1)[^49] A helyszíni kihallgatásról készült jegyzőkönyv a Be. 166. §-ában meghatározottak mellett tartalmazza:
 
 a) a nyomozási cselekmény foganatosítása idején fennálló időjárási, megvilágítási, környezeti és forgalmi viszonyok, illetve az ügy szempontjából lényeges egyéb körülmény leírását,
 
@@ -16,4 +16,4 @@ g) a helyszíni kihallgatás kezdetének és befejezésének időpontját.
 
 (2) A helyszíni kihallgatás során készített helyszínrajzot, vázlatot, fénykép-, videó- vagy hangfelvételt a jegyzőkönyvhöz kell csatolni.
 
-[^48]: A 44. § (1) bekezdésének bevezető szövege a 9/2007. (V. 31.) PM–IRM rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^49]: A 44. § (1) bekezdésének bevezető szövege a 9/2007. (V. 31.) PM–IRM rendelet 13. § (3) bekezdése szerint módosított szöveg.
