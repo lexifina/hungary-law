@@ -1,4 +1,4 @@
-## 5/A. [^27] A miniszter, mint kapcsolattartó feladatai és hatásköre
+## 5/A. [^29] A miniszter, mint kapcsolattartó feladatai és hatásköre
 
 ## 7/A. § A miniszter, mint a 7. § (1) bekezdés b) pontja szerinti kapcsolattartó – a kijelölt kapcsolattartó személy útján –
 
@@ -10,4 +10,4 @@ c) egységes hivatalos nemzeti honlapot működtet, összefoglaló kiadványokat
 
 d) a nemzetközi együttműködés keretében, megkeresésre a munkaügyi hatóság hatáskörébe tartozó feladatokat érintően tájékoztatást nyújt az elvégzett munkaügyi ellenőrzések megállapításairól, valamint a munkaügyi jogszabályok tartalmáról.
 
-[^27]: Az 5/A. alcímet (7/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (8) bekezdése iktatta be.
+[^29]: Az 5/A. alcímet (7/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (8) bekezdése iktatta be.

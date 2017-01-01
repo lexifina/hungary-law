@@ -1,6 +1,6 @@
-## 8. [^33] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
+## 8. [^37] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
 
-11. §[^34] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
+11. §[^38] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
 
 a) ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, szüneteltetésével, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe,
 
@@ -26,7 +26,9 @@ k) munkaerő-piaci programokat kezdeményez, szervezi azok végrehajtását, ell
 
 l) kapcsolatot tart a megye (főváros), a járás gazdasági életében részt vevő munkaadókkal, a helyi önkormányzatokkal és a megyében működő más szervezetekkel, közreműködik a gazdasági szerkezet átalakítását, valamint a foglalkoztatási helyzet javítását célzó programokban,
 
-m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek végrehajtásával összefüggő feladatokat.
+m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek végrehajtásával összefüggő feladatokat,
+
+n)[^39] a saját hatáskörben nyújtott álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol.
 
 (2) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatási feladatai körében
 
@@ -62,5 +64,6 @@ i) feltárja a közfoglalkoztatási munkalehetőségeket,
 
 j) szervezi a közfoglalkoztatást.
 
-[^33]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
-[^34]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
+[^37]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
+[^38]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
+[^39]: A 11. § (1) bekezdés n) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (2) bekezdése iktatta be.

@@ -24,8 +24,10 @@ b) foglalkoztatásra irányuló jogviszonyt nem létesíthet.
 
 (10) Az NMH megszűnésével a KEK KH-hoz kerülő személyi állomány munkavégzéséhez szükséges informatikai-telekommunikációs eszközökhöz kapcsolódó vagyonkezelői jogok és kötelezettségek az NMH megszűnését követően a KEK KH-t illetik meg.
 
-(11) A KEK KH az informatikai szakmai rendszerekből és adatbázisokból térítésmentesen szolgáltat adatot a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium részére.
+(11)[^57] A NISZ Zrt. az informatikai szakmai rendszerekből és adatbázisokból térítésmentesen szolgáltat adatot a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium részére.
 
 (12) A foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium és a közfoglalkoztatásért felelős miniszter által vezetett minisztérium a munkaügyi és munkavédelmi ellenőrzési, valamint a szak- és felnőttképzési szakterületet támogató, e területek munkavégzéséhez szükséges informatikai szakmai rendszerek, adatbázisok leválasztásáról, az ezekhez kapcsolódó vagyonkezelői jogokról és kötelezettségekről 2015. március 31. napjáig külön megállapodásban rendelkezik.
 
 (13) Az NMH munkaegészségügyi szakterülete munkavégzéséhez szükséges eszközeihez, műszereihez kapcsolódó vagyonkezelői jogok és kötelezettségek 2014. december 15. napjától az OTH-t illetik meg.
+
+[^57]: A 18. § (11) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés g) pontja szerint módosított szöveg.

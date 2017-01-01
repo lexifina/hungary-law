@@ -1,6 +1,6 @@
-## 9. §[^31]
+## 9. §[^34]
 
-10. §[^32] (1) Az állami foglalkoztatási szervként eljáró kormányhivatal
+10. §[^35] (1) Az állami foglalkoztatási szervként eljáró kormányhivatal
 
 a) szakmailag irányítja és ellenőrzi az állami foglalkoztatási szervként eljáró járási hivatal tevékenységét, ennek keretében közreműködik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú feladatait ellátó kormánytisztviselőinek szakmai képzésében, valamint szakmai ajánlások készítésével segíti az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú hatósági és szolgáltató tevékenységét,
 
@@ -24,7 +24,7 @@ j) ellátja az EURES-sel kapcsolatos szervezési, tanácsadási és koordináci�
 
 k) illetékességi területén ellátja a munkaerő-piaci ellenőrzéssel kapcsolatos feladatokat,
 
-l) az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol,
+l)[^36]
 
 m) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben befogadja a foglalkoztató által benyújtott munkaerőigényeket,
 
@@ -108,5 +108,6 @@ a) gondoskodik a munkaerőpiaci szolgáltatási rendszer szakmai működtetésé
 
 b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal lát el.
 
-[^31]: A 9. §-t a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés a) pontja hatályon kívül helyezte.
-[^32]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.
+[^34]: A 9. §-t a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés a) pontja hatályon kívül helyezte.
+[^35]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.
+[^36]: A 10. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés b) pontja hatályon kívül helyezte.

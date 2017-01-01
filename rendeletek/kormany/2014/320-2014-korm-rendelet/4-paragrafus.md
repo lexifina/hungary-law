@@ -38,7 +38,7 @@ la) dönt a munkahelyteremtő beruházáshoz pályázati eljárás keretében ny
 
 lb) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről szóló nemzetközi szerződések végrehajtásával kapcsolatos feladatokat,
 
-lc)[^14] elbírálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal által hozott határozat ellen benyújtott fellebbezést,
+lc)[^14]
 
 ld) ellátja az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alá tartozó tartózkodási engedélyhez szükséges szakhatósági állásfoglalással kapcsolatos másodfokú hatósági feladatot,
 
@@ -106,7 +106,7 @@ d) egyéb szervezetekkel.
 [^11]: A 4. § (1) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
 [^12]: A 4. § (1) bekezdés j) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
 [^13]: A 4. § (1) bekezdés k) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
-[^14]: A 4. § (1) bekezdés l) pont lc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (6) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdés l) pont lc) alpontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés a) pontja hatályon kívül helyezte.
 [^15]: A 4. § (1) bekezdés n) pont na) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (7) bekezdésével megállapított szöveg.
 [^16]: A 4. § (1) bekezdés n) pont nc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (8) bekezdésével megállapított szöveg.
 [^17]: A 4. § (1) bekezdés n) pont nd) alpontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 6. A közfoglalkoztatásért felelős miniszter feladatai
 
-8. §[^28] (1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
+8. §[^30] (1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
 
 a) követelményeket határoz meg a közfoglalkoztatással kapcsolatos számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
 
@@ -68,7 +68,7 @@ s) koordinálja a közfoglalkoztatáshoz kapcsolódóan az állami foglalkoztat�
 
 t) ellátja a jogszabályban meghatározott egyéb feladatokat.
 
-(2) A közfoglalkoztatásért felelős miniszter a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala útján
+(2)[^31] A közfoglalkoztatásért felelős miniszter a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) útján
 
 a) a 4. § (1) bekezdés g) pontjával összhangban a miniszterrel egyeztetve fejleszti a miniszter, az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal tevékenységét támogató programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
 
@@ -80,4 +80,5 @@ d) a c) pontban meghatározott informatikai rendszerekkel összefüggésben telj
 
 (3) A közfoglalkoztatásért felelős miniszter közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok megvalósításának tervezésében és szervezésében.
 
-[^28]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
+[^30]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
+[^31]: A 8. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés f) pontja szerint módosított szöveg.

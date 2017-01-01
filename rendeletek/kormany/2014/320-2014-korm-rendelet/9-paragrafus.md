@@ -1,6 +1,6 @@
-## [^29] III. AZ ÁLLAMI FOGLALKOZTATÁSI SZERV HATÁSKÖRÉBEN ELJÁRÓ KORMÁNYHIVATAL ÉS A JÁRÁSI HIVATAL FELADAT- ÉS HATÁSKÖRE
+## [^32] III. AZ ÁLLAMI FOGLALKOZTATÁSI SZERV HATÁSKÖRÉBEN ELJÁRÓ KORMÁNYHIVATAL ÉS A JÁRÁSI HIVATAL FELADAT- ÉS HATÁSKÖRE
 
-## 7. [^30] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal feladat- és hatásköre
+## 7. [^33] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal feladat- és hatásköre
 
-[^29]: A III. fejezet címe a 70/2015. (III. 30.) Korm. rendelet 258. § (14) bekezdésével megállapított szöveg.
-[^30]: A 7. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (15) bekezdésével megállapított szöveg.
+[^32]: A III. fejezet címe a 70/2015. (III. 30.) Korm. rendelet 258. § (14) bekezdésével megállapított szöveg.
+[^33]: A 7. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (15) bekezdésével megállapított szöveg.

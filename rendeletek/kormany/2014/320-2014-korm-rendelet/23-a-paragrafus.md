@@ -1,4 +1,4 @@
-## 14/A. [^53] Az Európai Unió jogának való megfelelés
+## 14/A. [^61] Az Európai Unió jogának való megfelelés
 
 23/A. § (1) Ez a rendelet
 
@@ -10,4 +10,4 @@ b) a munkavállalók szabad mozgásával összefüggésben a munkavállalóknak 
 
 (2) Ez a rendelet a foglalkoztatási szolgálatok európai hálózatáról (EURES), a munkavállalók mobilitási szolgáltatásokhoz való hozzáféréséről és a munkaerőpiacok további integrációjáról, valamint a 492/2011/EU és az 1296/2013/EU rendeletek módosításáról szóló, 2016. április 13-i (EU) 2016/589 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^53]: A 14/A. alcímet (23/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (10) bekezdése iktatta be.
+[^61]: A 14/A. alcímet (23/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (10) bekezdése iktatta be.
