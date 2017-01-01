@@ -1,4 +1,4 @@
-## 8. §[^7]
+## 8. §[^8]
 
 ## 6. Az építésügyi hatósági engedély időbeli hatálya
 
@@ -12,4 +12,4 @@ b) az építési tevékenységet a hatályossága alatt megkezdték és az épí
 
 (3) A bontási engedély a jogerőssé válás napjától számított két évig hatályos.
 
-[^7]: A 8. §-t a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés a) pontja hatályon kívül helyezte.
+[^8]: A 8. §-t a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés a) pontja hatályon kívül helyezte.
