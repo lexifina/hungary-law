@@ -12,12 +12,12 @@
 
 | 4. | Fekvőbeteg- gyógyintézeti étkeztetés | 1000–1200 | 1200–1500 | 1550–1850 | 1800–2200 | 1800–2200 | 1800–2200 | 1800–2200 |
 
-| 5. | Bölcsődei étkeztetés | 800–950 |  |  |  |  |  |  |
+| 5. | Bölcsődei, mini bölcsődei étkeztetés | 800-950 |  |  |  |  |  |  |
 
 | 6. | Napi háromszori étkezés szolgáltatása |  | 900–1100 | 1100–1320 | 1300–1550 | 1300–1700 | 1300–1650 | 1300–1550 |
 
 | 7. | Napi egyszeri étkezés szolgáltatása |  | 450–600 | 600–750 | 700– 850 | 700–900 | 700–900 | 700– 850 |
 
-4. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^45]
+4. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^55]
 
-[^45]: A 4. melléklet a 36/2016. (XII. 8.) EMMI rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^55]: A 4. melléklet a 36/2016. (XII. 8.) EMMI rendelet 13. § (3) bekezdése szerint módosított szöveg.

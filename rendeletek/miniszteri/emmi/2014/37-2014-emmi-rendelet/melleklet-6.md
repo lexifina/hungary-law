@@ -10,7 +10,7 @@
 
 | 3. | Egész napos étkeztetés | 2 (leg- feljebb: 5) | 3 (leg- feljebb: 7) | 5 (legfeljebb: 10) | 5 (legfeljebb: 10) | 5 (legfeljebb: 12) | 5 (legfeljebb: 12) | 5 (legfeljebb: 12) |
 
-| 4. | Bölcsődei étkeztetés | 1,5 (leg- feljebb: 4) | - | - | - | - | - | - |
+| 4. | Bölcsődei, mini bölcsődei étkeztetés | 1,5 (leg- feljebb: 4) | - | - | - | - | - | - |
 
 | 5. | Napi háromszori étkezés szolgáltatása | - | 2 (leg- feljebb: 5,5) | 3,5 (legfeljebb: 6,6) | 3,5 (legfeljebb: 6,6) | 3,5 (legfeljebb: 7,9) | 3,5 (legfeljebb: 7,9) | 3,5 (legfeljebb: 7,9) |
 
@@ -18,7 +18,7 @@
 
 ## ∗ Beleértve az alapanyagok sótartalmát is, nem csak az ételkészítés során felhasznált sómennyiséget.
 
-6. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^47]
+6. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^57]
 
 Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élelmezési napra, egy főre számítva*
 
@@ -26,7 +26,7 @@ Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élel
 
 | 1. | Élelmiszer, élelmiszercsoport | Étkeztetés típusa |
 
-| 2. | Egész napos étkeztetés | Bölcsődei étkeztetés | Napi háromszori étkezés szolgáltatása | Napi egyszeri étkezés szolgáltatása |
+| 2. | Egész napos étkeztetés | Bölcsődei, mini bölcsődei étkeztetés | Napi háromszori étkezés szolgáltatása | Napi egyszeri étkezés szolgáltatása |
 
 | 3. | Hús | legalább hat, legfeljebb tíz alkalommal | legalább hat, legfeljebb nyolc alkalommal | legalább hat, legfeljebb tíz alkalommal | legalább hat, legfeljebb tíz alkalommal |
 
@@ -78,4 +78,4 @@ Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élel
 
 3 Óvodás korosztályban nem adható.
 
-[^47]: A 6. melléklet az 54/2014. (XII. 29.) EMMI rendelet 11. §-a, a 36/2016. (XII. 8.) EMMI rendelet 13. § (5) bekezdése szerint módosított szöveg.
+[^57]: A 6. melléklet az 54/2014. (XII. 29.) EMMI rendelet 11. §-a, a 36/2016. (XII. 8.) EMMI rendelet 13. § (5) bekezdése szerint módosított szöveg.

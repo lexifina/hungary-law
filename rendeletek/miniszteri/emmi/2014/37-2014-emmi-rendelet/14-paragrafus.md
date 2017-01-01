@@ -1,12 +1,12 @@
-## 13. § Az egész napos étkeztetés, a bölcsődei étkeztetés, a napi háromszori és a napi egyszeri étkezés szolgáltatása esetén a felhasznált élelmiszerek, élelmiszercsoportok a 6. mellékletben foglalt táblázat szerinti gyakorisággal, tíz élelmezési napra számítva alkalmazandóak.
+## 13. §[^34] Az egész napos étkeztetés, a bölcsődei, mini bölcsődei étkeztetés, a napi háromszori és a napi egyszeri étkezés szolgáltatása esetén a felhasznált élelmiszerek, élelmiszercsoportok a 6. mellékletben foglalt táblázat szerinti gyakorisággal, tíz élelmezési napra számítva alkalmazandóak.
 
-14. § (1)[^27] Közétkeztetésben a következő élelmiszereket nem lehet felhasználni:
+14. § (1)[^35] Közétkeztetésben a következő élelmiszereket nem lehet felhasználni:
 
 a) sótartalmú ételport, sótartalmú leveskockát, sótartalmú ételízesítő krémeket, pasztákat állományjavításon vagy ételízesítésen kívüli célra,
 
 b) 30%-nál magasabb zsírtartalmú húst,
 
-c) 23%-nál magasabb zsírtartalmú húskészítményt bölcsődei étkeztetés esetén,
+c)[^36] 23%-nál magasabb zsírtartalmú húskészítményt bölcsődei, mini bölcsődei étkeztetés esetén,
 
 d) 18 év alatti korcsoport számára koffeintartalmú italt, a 10. § (2) bekezdése szerinti tea, illetve a kakaó kivételével,
 
@@ -28,7 +28,9 @@ k) kókusz- és pálmazsírt sütéshez, főzéshez.
 
 (3) Édesség önállóan ebédként nem adható. Egyéb étkezésként kizárólag a legalább 1/3 rész gyümölcsöt vagy 1/3 rész tejet vagy tejterméket tartalmazó édesség adható.
 
-(4)[^28] Édesítőszer ételkészítéshez – a diétás étkezést igénylő szénhidrátanyagcsere-zavarban szenvedők kivételével – nem használható.
+(4)[^37] Édesítőszer ételkészítéshez – a diétás étkezést igénylő szénhidrátanyagcsere-zavarban szenvedők kivételével – nem használható.
 
-[^27]: A 14. § (1) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^28]: A 14. § (4) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^34]: A 13. § a 36/2016. (XII. 8.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^35]: A 14. § (1) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^36]: A 14. § (1) bekezdés c) pontja a 36/2016. (XII. 8.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^37]: A 14. § (4) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 7. §-ával megállapított szöveg.

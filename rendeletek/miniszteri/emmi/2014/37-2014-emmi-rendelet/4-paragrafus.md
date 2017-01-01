@@ -8,7 +8,7 @@ b) az egymást követő kétszer tíz élelmezési nap főétkezéseiben egy ét
 
 (1a)[^10] Nem kell alkalmazni az (1) bekezdésben foglaltakat a fekvőbeteg-gyógyintézeti étkeztetés során, ha az alkalmazott diéta nem teszi lehetővé. Egyéb intézményben alkalmazott speciális diéta esetén az étrend összeállítása során az (1) bekezdésben foglalt rendelkezéseknek tíz élelmezési nap vonatkozásában kell megfelelni.
 
-(2) Állati eredetű fehérjeforrást minden főétkezésnek, bölcsődei étkeztetés esetén az egyik kisétkezésnek is tartalmaznia kell.
+(2)[^11] Állati eredetű fehérjeforrást minden főétkezésnek, bölcsődei, mini bölcsődei étkeztetés esetén az egyik kisétkezésnek is tartalmaznia kell.
 
 (3) A receptúrák kidolgozását és az étrend összeállítását, valamint az ételek elkészítését a nyersanyag-kiszabati előírásban foglaltak szerint kell végezni.
 
@@ -17,3 +17,4 @@ b) az egymást követő kétszer tíz élelmezési nap főétkezéseiben egy ét
 (5) A tápanyagszámítás során alkalmazott program vagy adatbázis megnevezését a Közétkeztető a nyersanyag-kiszabati íven köteles feltüntetni.
 
 [^10]: A 4. § (1a) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 3. §-a iktatta be.
+[^11]: A 4. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
