@@ -34,7 +34,7 @@ g) az adós és az adóstárs adóazonosító jelét a főhitelező számára be
 
 h) az adós és az adóstárs hozzájárul ahhoz, hogy a 14. § (1) bekezdése szerinti adatait, valamint a törlesztési támogatásra vonatkozó információkat a törlesztési támogatás szabályszerű igénybevételének ellenőrzése céljából a főhitelező átadja
 
-ha) a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakóingatlan fekvése szerint illetékes megyei kormányhivatal, Pest megye vagy a főváros területén fekvő támogatott lakóingatlan esetén Budapest Főváros Kormányhivatala (a továbbiakban együtt: kormányhivatal),
+ha)[^1] a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakóingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal megyeszékhely szerinti járási (fővárosi kerületi) hivatala, Pest megye vagy a főváros területén fekvő támogatott lakóingatlan esetében Budapest Főváros Kormányhivatalának XIII. Kerületi Hivatala (a továbbiakban együtt: járási hivatal),
 
 hb) a Magyar Államkincstár központja (a továbbiakban: kincstár), valamint
 
@@ -53,3 +53,5 @@ i) az adós és az adóstárs nyilatkozik arról, hogy jelen rendelet szerinti t
 (5) A törlesztési támogatásra a támogatott az egyezség hatályának fennállása alatt – ideértve az Are. tv. 56. §-a szerinti fizetési haladék időtartamát és az azt követő törlesztési időszakot is – de legfeljebb 5 évig jogosult.
 
 (6) Amennyiben a támogatott az egyezségben foglalt fizetési kötelezettségeinek 60 napot meghaladóan felszólítás ellenére nem tesz eleget, az ezt követő hónap első napjától részére a törlesztési támogatás nem nyújtható. Erről az adóst és az adóstársat a törlesztési támogatás igénybevételéről szóló szerződés megkötésekor igazoltan tájékoztatni kell.
+
+[^1]: A 2. § (1) bekezdés h) pont ha) alpontja a 379/2016. (XII. 2.) 304. § (1) bekezdésével megállapított szöveg.
