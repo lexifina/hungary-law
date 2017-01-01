@@ -28,7 +28,7 @@
 
 | 11. | hagyatéki leltár rendszer | Kincstár | Kincstár | Kincstár |
 
-2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez
+2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^3]
 
 ## Az ö nkormányzati ASP rendszer szakrendszereinek használatához szükséges felhasználói (önkormányzati) munkaállomásokkal szembeni minimális elvárások
 
@@ -90,6 +90,8 @@
 
 | - PDF olvasó: Adobe Reader vagy Sumatra PDF |
 
+| - Tűzfal és vírusvédelem |
+
 3. Az önkormányzati laptopokra vonatkozóan MS Windows környezetben
 
 | Laptopok MS Windows környezetben | Szükséges darabszám |
@@ -120,6 +122,8 @@
 
 | - PDF olvasó: Adobe Reader vagy Sumatra PDF |
 
+| - Tűzfal és vírusvédelem |
+
 4. Az önkormányzati laptopokra vonatkozóan Linux környezetben
 
 | Laptop alapkonfiguráció II. | Szükséges darabszám |
@@ -149,6 +153,8 @@
 | - Levelező: Mozilla Thunderbird utolsó stabil verzió |
 
 | - PDF olvasó: Adobe Reader vagy Sumatra PDF |
+
+| - Tűzfal és vírusvédelem |
 
 5. Az önkormányzati monitorokra vonatkozó alapkonfiguráció
 
@@ -185,3 +191,5 @@
 |  | 10000 feletti | 30/ Mbit/sec névleges sávszélesség |  |
 
 | Ajánlott feltételek: A kormányzati hálózatfejlesztési koncepciókkal összhangban valamennyi településtípus ajánlott sávszélessége minimum 30/30 Mbit/sec szimmetrikus sávszélesség. |
+
+[^3]: A 2. melléklet a 477/2016. (XII. 27.) Korm. rendelet 88. § (1) bekezdése szerint módosított szöveg.
