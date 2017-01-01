@@ -1,4 +1,4 @@
-8. § (1)[^15] A járási hivatal a biztonsági okmányt kezelő jogi képviselőnél és annál a szervezetnél, amelynél a jogtanácsos működik ellenőrzi
+8. § (1)[^16] A járási hivatal a biztonsági okmányt kezelő jogi képviselőnél és annál a szervezetnél, amelynél a jogtanácsos működik ellenőrzi
 
 a) a biztonsági okmányok
 
@@ -18,4 +18,4 @@ b) a biztonsági okmányokra vonatkozó megőrzési, átadás-átvételi és vis
 
 (4) A bírságot az annak kiszabásáról rendelkező határozat jogerőre emelkedésétől számított tizenötödik napig kell megfizetni.
 
-[^15]: A 8. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 245. § c) pontja szerint módosított szöveg.
+[^16]: A 8. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 245. § c) pontja szerint módosított szöveg.
