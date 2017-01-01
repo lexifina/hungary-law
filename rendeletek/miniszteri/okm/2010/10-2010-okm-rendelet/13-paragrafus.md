@@ -1,4 +1,4 @@
-## 12. §[^4] A Nemzeti Művelődési Intézet (a továbbiakban: Intézet) a Címmel és Díjjal kapcsolatos ügyviteli, koordinációs, szervezési, lebonyolítási, nyilvántartási feladatokat lát el, fejleszti a közművelődés minőségbiztosítási és -fejlesztési rendszerét, továbbá ellátja a szakmai minősítő testület titkársági feladatait.
+## 12. §[^7] A Címmel és Díjjal kapcsolatos ügyviteli, koordinációs, szervezési, lebonyolítási és nyilvántartási feladatok ellátását, valamint a közművelődés minőségbiztosítási rendszerének folyamatos fejlesztését a miniszter közszolgáltatási szerződés megkötése útján biztosítja.
 
 ## 4. A minősítési eljárásért fizetendő díj
 
@@ -8,11 +8,11 @@
 
 (3) Az (1)–(2) bekezdésben foglalt díjak az általános forgalmi adót tartalmazzák.
 
-(4)[^5] A minősítési díjat a pályázat benyújtásával egyidejűleg az Intézet pályázati kiírásban megjelölt számlájára be kell fizetni.
+(4)[^8] A minősítési díjat a pályázat benyújtásával egyidejűleg a pályázati kiírásban megjelölt számlára be kell fizetni.
 
 (5) Ha a pályázó a pályázatát a helyszíni szemle megkezdése előtt 30 nappal visszavonja, a minősítési díj 75%-át részére vissza kell fizetni.
 
 (6) A minősítési díjat külön számlán kell kezelni és a pályázatok lebonyolításával kapcsolatos költségekre kell fordítani.
 
-[^4]: A 12. § az 5/2015. (I. 22.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^5]: A 13. § (4) bekezdése az 5/2015. (I. 22.) EMMI rendelet 14. § c) pontja szerint módosított szöveg.
+[^7]: A 12. § az 50/2016. (XII. 28.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^8]: A 13. § (4) bekezdése az 50/2016. (XII. 28.) EMMI rendelet 12. § c) pontja szerint módosított szöveg.
