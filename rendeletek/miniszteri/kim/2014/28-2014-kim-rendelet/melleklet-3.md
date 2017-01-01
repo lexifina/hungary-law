@@ -214,9 +214,7 @@
 
 ## Büntetlen előéletet igazoló erkölcsi bizonyítvány
 
-## 7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
-
-## Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
+## 7.2.
 
 ## A 2. sorszámú Statisztikai és gazdasági ügyintéző megnevezésű szakképesítés szakmai és vizsgakövetelménye
 

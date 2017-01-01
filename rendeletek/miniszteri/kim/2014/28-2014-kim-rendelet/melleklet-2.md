@@ -8,4 +8,6 @@
 
 | 3. | 2. | 52 | 462 | 01 | Statisztikai és gazdasági ügyintéző | Közgazdaság |
 
-2. melléklet a 28/2014. (IV. 24.) KIM rendelethez
+2. melléklet a 28/2014. (IV. 24.) KIM rendelethez[^4]
+
+[^4]: A 2. melléklet a 37/2016. (XII. 29.) MvM rendelet 7. §-a szerint módosított szöveg.
