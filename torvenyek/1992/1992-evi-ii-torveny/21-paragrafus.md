@@ -14,6 +14,6 @@ b) megállapítja, hogy a tervezet sérti a Kpt. és e törvény földkijelölé
 
 (6)
 
-(7) A határozat ellen a szövetkezet, illetve a fórum vagy a részarány-földtulajdonosok képviselője nyújthat be fellebbezést az igazságügyért felelős miniszterhez. Ha az igazságügyért felelős miniszter jogerős határozatának bírósági felülvizsgálását kérik, a bíróság a határozatot megváltoztathatja.
+(7) A határozat felülvizsgálata iránti pert a szövetkezet, a fórum vagy a részarány-földtulajdonosok képviselője kezdeményezheti. A perben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel jár el.
 
 (8) Ha a szövetkezet a jogerős határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére az ingatlanügyi hatóság végzi el.
