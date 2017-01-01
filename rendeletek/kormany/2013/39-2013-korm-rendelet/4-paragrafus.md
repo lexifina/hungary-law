@@ -10,7 +10,7 @@ a) az Európai Gazdasági Térségről szóló megállapodásban részes állam 
 
 b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét rögzítő jegyzőkönyvet.
 
-(5) Az ÁNTSZ-OTH a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e a 4. melléklet szerinti tiltott adalékanyagok listáján, azzal, hogy ha az nem szerepel a listán és annak a listára való felvétele nem indokolt, a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. Az ÁNTSZ-OTH a bejelentésről tájékoztatja az NFH-t és a NEFI DF-et. Ha az ÁNTSZ-OTH a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
+(5)[^11] Az ÁNTSZ-OTH a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e a 4. melléklet szerinti tiltott adalékanyagok listáján, azzal, hogy ha az nem szerepel a listán és annak a listára való felvétele nem indokolt, a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. Az ÁNTSZ-OTH a bejelentésről tájékoztatja a fogyasztóvédelemért felelős minisztert és a NEFI DF-et. Ha az ÁNTSZ-OTH a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
 
 (6) A (3) bekezdés szerint bejelentett adalékanyagokra vonatkozó tanulmányokat a felhasználás megkezdésétől számított 2 év elteltével a bejelentőnek meg kell küldenie az ÁNTSZ-OTH részére. Az ÁNTSZ-OTH a benyújtott dokumentáció alapján a benyújtástól számított 6 hónapon belül megvizsgálja, hogy a dokumentáció nem indokolja-e az adalékanyagnak a 4. melléklet szerinti tiltott adalékanyagok listáján történő szerepeltetését.
 
@@ -24,3 +24,4 @@ b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét r�
 
 [^9]: A 4. § a 239/2016. (VIII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^10]: A 4. § (3) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: A 4. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés e) pontja szerint módosított szöveg.

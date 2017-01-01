@@ -1,3 +1,3 @@
-8. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^76]
+8. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^80]
 
-[^76]: A 8. melléklet a 70/2015. (III. 30.) Korm. rendelet 220. § (3) bekezdésével megállapított szöveg.
+[^80]: A 8. melléklet a 70/2015. (III. 30.) Korm. rendelet 220. § (3) bekezdésével megállapított szöveg.

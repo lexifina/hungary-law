@@ -1,4 +1,4 @@
-6/D. §[^17] (1) A 2. § 3. pont a), e) és g) alpontjában meghatározott dohánytermékektől eltérő dohányzásra szánt dohánytermék esetében a 6/A. § rendelkezéseit a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni.
+6/D. §[^18] (1) A 2. § 3. pont a), e) és g) alpontjában meghatározott dohánytermékektől eltérő dohányzásra szánt dohánytermék esetében a 6/A. § rendelkezéseit a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) A 2. § 3. pont a), e) és g) alpontjában meghatározott dohánytermékektől eltérő dohányzásra szánt dohánytermékek esetében a 6/A. § (1) bekezdése szerinti egészségvédő figyelmeztetések közül kizárólag
 
@@ -22,4 +22,4 @@ b) a 6/A. § (1) bekezdés c) pontja szerinti kombinált egészségvédő figyel
 
 (10) A 2. § 3. pont f) alpontjában meghatározott dohánytermék esetén az általános figyelmeztetés és a kombinált egészségvédő figyelmeztetés – ha a dohánytermék hátsó főoldalán kerül feltüntetésre – a főoldal felső részén, a csomagon található többi információval azonos irányban is felhelyezhető.
 
-[^17]: A 6/D. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be, szövege a 421/2016. (XII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: A 6/D. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be, szövege a 421/2016. (XII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
