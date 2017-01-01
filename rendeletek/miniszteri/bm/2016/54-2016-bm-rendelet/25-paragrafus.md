@@ -1,0 +1,1 @@
+## 24. § Az egészségkárosodási ellátásra jogosultság megszűnése esetén a központi humánigazgatási szakszolgálat az egészségkárosodási ellátásra jogosultság időtartamának leteltét követően haladéktalanul intézkedik az egészségkárosodási ellátás folyósításának megszüntetésére.
