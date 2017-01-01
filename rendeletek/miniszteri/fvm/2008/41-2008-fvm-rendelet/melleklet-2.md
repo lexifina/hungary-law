@@ -1,18 +1,18 @@
 ## Kérelem adattartalma a termeltetői bejegyzésre
 
-## I.[^37] Azonosító adatok:
+## I.[^38] Azonosító adatok:
 
 ## Az ügyfél adószáma, adóazonosító jele, ügyfél-azonosítója.
 
 ## II. A termeltetői bejegyzést kérelmező nyilatkozatai:
 
-## 1.1.[^38] A termeltető büntetőjogi felelőssége tudatában kijelenti, hogy
+## 1.1.[^39] A termeltető büntetőjogi felelőssége tudatában kijelenti, hogy
 
 ## a) kereskedelmi tevékenységet, állati termékfeldolgozói tevékenységet végez, illetve termelői csoportként működik, és
 
 ## b) a termeltetői tevékenység végzéséhez szükséges személyi és tárgyi feltételekkel rendelkezik;
 
-## 1.2.[^39] Az alábbiakról történő tájékoztatás:
+## 1.2.[^40] Az alábbiakról történő tájékoztatás:
 
 ## a) a termeltetői tevékenység és a finanszírozási háttér leírása,
 
@@ -22,7 +22,7 @@
 
 ## 2. A termeltető tudomásul veszi, hogy
 
-## a) a támogatási feltételek megszegése vagy részleges teljesítése, továbbá a támogatás rendeltetéstől eltérő felhasználása esetén a jogosulatlanul igénybe vett támogatást a Mezőgazdasági Vidékfejlesztési Hivatal határozata alapján a határozatban meghatározott módon, az ott megadott számlára kamattal növelten kell visszafizetnie;
+## a)[^41] a támogatási feltételek megszegése vagy részleges teljesítése, továbbá a támogatás rendeltetéstől eltérő felhasználása esetén a jogosulatlanul igénybe vett támogatást a Magyar Államkincstár határozata alapján a határozatban meghatározott módon, az ott megadott számlára kamattal növelten kell visszafizetnie;
 
 ## b) a termeltetési tevékenysége kapcsán kapott támogatások rendeltetésszerű felhasználásának ellenőrzését lehetővé teszi, és az ellenőrzéshez szükséges adatokat rendelkezésre bocsátja.
 
@@ -30,7 +30,7 @@
 
 ## 4. Keltezés és a kérelmező (cégszerű) aláírása.
 
-2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^40]
+2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^42]
 
 ## Támogatási kérelem adattartalma
 
@@ -48,7 +48,7 @@ Az ügyfél ügyfél-azonosítója.
 
 2.1.3. a de minimis támogatásokkal kapcsolatos jogosultságokat, kötelezettségeket megismerte,
 
-2.1.4. tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni és e nyilatkozat hiányában a kérelmet az MVH a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasítja,
+2.1.4. tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni és e nyilatkozat hiányában a kérelmet a Kincstár a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasítja,
 
 2.1.5. megfelel a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ban meghatározott feltételeknek.
 
@@ -108,7 +108,8 @@ c) termelőknél vagy állattartóknál kint lévő előleg összesen;
 
 8. Keltezés és a Nemzeti Élelmiszerlánc-biztonsági Hivatal Elnökének aláírása és bélyegzője.
 
-[^37]: Az 1. számú melléklet I. pontja a 36/2014. (IV. 4.) VM rendelet 28. § b) pontja szerint módosított szöveg.
-[^38]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.1. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
-[^39]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.2. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
-[^40]: A 2. számú melléklet a 36/2014. (IV. 4.) VM rendelet 27. §-ával megállapított, a 4/2016. (I. 20.) FM rendelet 10. § b) pontja szerint módosított szöveg.
+[^38]: Az 1. számú melléklet I. pontja a 36/2014. (IV. 4.) VM rendelet 28. § b) pontja szerint módosított szöveg.
+[^39]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.1. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
+[^40]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.2. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
+[^41]: Az 1. számú melléklet II. rész 2. pont a) alpontja a 88/2016. (XII. 29.) FM rendelet 28. § f) pontja szerint módosított szöveg.
+[^42]: A 2. számú melléklet a 36/2014. (IV. 4.) VM rendelet 27. §-ával megállapított, a 4/2016. (I. 20.) FM rendelet 10. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 28. § e) pontja szerint módosított szöveg.
