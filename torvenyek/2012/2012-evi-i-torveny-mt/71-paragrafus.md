@@ -14,4 +14,4 @@ munkaviszonyát kívánja – figyelemmel a (3) bekezdésben foglaltakra – har
 
 (3) Ha a munkáltatónak több telephelye van, az (1) bekezdésben foglalt feltételek fennállását telephelyenként kell megállapítani azzal, hogy az azonos megyében (fővárosban) található telephelyek esetében a munkavállalók létszámát össze kell számítani. A munkavállalót azon a telephelyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
 
-(4) A csoportos létszámcsökkentésre vonatkozó szabályokat a tengerjáró hajók legénységére nem kell alkalmazni.
+(4) A tengeri hajó személyzetének tagjait érintő csoportos létszámcsökkentés esetén, a munkáltató előzetesen értesíti annak az államnak az illetékes hatóságát, amelynek lobogója alatt a hajó közlekedik.
