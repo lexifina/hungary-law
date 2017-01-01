@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-467-20-
 | 2016-04-01 | 2015-467-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-07-01 | 2015-467-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-07-02 | 2015-467-20-22.5 | 2010: CXXX. törvény |
+| 2017-01-01 | 2015-467-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
