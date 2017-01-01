@@ -18,7 +18,9 @@ g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-�
 
 h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
 
-i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára
+i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
+
+j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára
 
 vonatkozó részletes szabályokat.
 
