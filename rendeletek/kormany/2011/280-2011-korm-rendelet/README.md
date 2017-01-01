@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-280-20-
 | 2016-01-01 | 2011-280-20-22.8 | 257/2015. (IX. 10.) Korm. rendelet |
 | 2016-08-31 | 2011-280-20-22.9 | 331/2012. (XI. 28.) Korm. rendelet |
 | 2016-11-18 | 2011-280-20-22.10 | 340/2016. (XI. 17.) Korm. rendelet |
+| 2017-01-01 | 2011-280-20-22.11 | 340/2016. (XI. 17.) Korm. rendelet |
