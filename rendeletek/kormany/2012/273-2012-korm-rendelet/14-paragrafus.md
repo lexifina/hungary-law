@@ -1,6 +1,6 @@
 ## A továbbképzési programok minősítése
 
-14. §[^44] (1)[^45] A közszolgálati továbbképzési program, illetve a 7. § (5) bekezdése szerinti belső továbbképzési program programminősítési eljárás alapján kerül a programjegyzékben nyilvántartásba vételre – az NKE által – a beérkezéstől számított 60 napon belül.
+14. §[^45] (1)[^46] A közszolgálati továbbképzési program, illetve a 7. § (5) bekezdése szerinti belső továbbképzési program programminősítési eljárás alapján kerül a programjegyzékben nyilvántartásba vételre – az NKE által – a beérkezéstől számított 60 napon belül.
 
 (2) Az e rendelet szerinti szakértő a KTK-nak javaslatot tesz a program minősítésére és ennek részeként a továbbképzési programmal teljesíthető tanulmányi pontértékre vonatkozóan.
 
@@ -12,5 +12,5 @@
 
 (6) A KTK jogosult a továbbképzési program programjegyzékről való törlésére, amennyiben a továbbképzési program nem felel meg a minőségirányítási szabályzatban előírt feltételeknek.
 
-[^44]: A 14. § a 378/2014. (XII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^45]: A 14. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 178. §-ával megállapított szöveg.
+[^45]: A 14. § a 378/2014. (XII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^46]: A 14. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 178. §-ával megállapított szöveg.
