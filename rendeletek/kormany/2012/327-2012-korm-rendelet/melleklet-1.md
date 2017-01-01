@@ -1,4 +1,4 @@
-## 56–58. §[^131]
+## 56–58. §[^173]
 
 1. melléklet a 327/2012. (XI. 16.) Korm. rendelethez
 
@@ -8,7 +8,7 @@
 
 a) Alap- és mesterképzésben szerzett végzettség
 
-aa)[^132] humán szervező, humánerőforrás-menedzser, személyügyi, személyügyi szervezői, igazgatásszervezői, közigazgatás-szervezői, közigazgatási mesterképzési, szociális igazgatási, munka- és pályatanácsadói, munkavállalói tanácsadó, szociálpolitikai, szociális munkás, szociálpedagógus, szociológia és pszichológia szakon szerzett végzettség,
+aa)[^174] humán szervező, humánerőforrás-menedzser, személyügyi, személyügyi szervezői, igazgatásszervezői, közigazgatás-szervezői, közigazgatási mesterképzési, szociális igazgatási, munka- és pályatanácsadói, munkavállalói tanácsadó, szociálpolitikai, szociális munkás, szociálpedagógus, szociológia és pszichológia szakon szerzett végzettség,
 
 ab) pedagógus, gyógypedagógus, konduktor végzettség,
 
@@ -56,18 +56,18 @@ cl) tanácsadás pszichológia,
 
 cm) tanulási és pályatanácsadás,
 
-cn)[^133] okleveles rehabilitációs szakember,
+cn)[^175] okleveles rehabilitációs szakember,
 
-co)[^134] rehabilitációs gazdasági menedzser.
+co)[^176] rehabilitációs gazdasági menedzser.
 
 d) Az a)–c) pontban meg nem jelölt, de ugyanazon szakterületeken az e mellékletben felsorolt végzettséggel, képzettséggel egyenértékű végzettség, képzettség, illetve szakképesítés.
 
-2.[^135] Gyakorlati idő:
+2.[^177] Gyakorlati idő:
 
 Az 1. pont a) alpont ad) alpontja szerinti képesítés esetén további feltétel megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatónál humánpolitikai vagy foglalkozási rehabilitációs területen eltöltött, rehabilitációs tanácsadó esetén három év, rehabilitációs mentor esetén egy év szakmai gyakorlat.
 
-[^131]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^132]: Az 1. melléklet 1. Képesítési előírások pont a) pont aa) alpontja a 347/2013. (IX. 30.) Korm. rendelet 8. §-a, a 205/2015. (VII. 23.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^133]: Az 1. melléklet 1. pont cn) alpontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^134]: Az 1. melléklet 1. pont co) alpontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^135]: Az 1. melléklet 2. pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^173]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^174]: Az 1. melléklet 1. Képesítési előírások pont a) pont aa) alpontja a 347/2013. (IX. 30.) Korm. rendelet 8. §-a, a 205/2015. (VII. 23.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^175]: Az 1. melléklet 1. pont cn) alpontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^176]: Az 1. melléklet 1. pont co) alpontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^177]: Az 1. melléklet 2. pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.

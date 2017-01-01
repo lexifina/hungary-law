@@ -1,12 +1,12 @@
 ## III. Fejezet
 
-## A KÖLTSÉGVETÉSI TÁMOGATÁSOK ÁLTALÁNOS SZABÁLYAI[^41]
+## A KÖLTSÉGVETÉSI TÁMOGATÁSOK ÁLTALÁNOS SZABÁLYAI[^53]
 
 ## 14. A támogatás általános szabályai
 
-17. §[^42] (1) Az e rendelet szerinti támogatás kizárólag
+17. §[^54] (1) Az e rendelet szerinti támogatás kizárólag
 
-a)[^43] a megváltozott munkaképességű munkavállalók rehabilitációs foglalkoztatásához (egyéni támogatás) és
+a)[^55] a megváltozott munkaképességű munkavállalók rehabilitációs foglalkoztatásához (egyéni támogatás) és
 
 b) munkahely rehabilitációs célú átalakításához (munkahely-teremtési támogatás)
 
@@ -16,9 +16,9 @@ b) munkahely rehabilitációs célú átalakításához (munkahely-teremtési t�
 
 (3) Egy munkavállaló után egyszerre csak egy munkáltató részesülhet az e rendelet szerinti támogatásban.
 
-(4)[^44] E rendelet alkalmazása során az általános csoportmentességi rendelet 34. cikk (2) bekezdés f) pontja szerinti védett foglalkoztatás alatt az 1. § 12. pontjában meghatározott védett foglalkoztatást kell érteni.
+(4)[^56] E rendelet alkalmazása során az általános csoportmentességi rendelet 34. cikk (2) bekezdés f) pontja szerinti védett foglalkoztatás alatt az 1. § 12. pontjában meghatározott védett foglalkoztatást kell érteni.
 
-[^41]: A III. Fejezet címe a 335/2013. (IX. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^42]: A 17. § a 335/2013. (IX. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^43]: A 17. § (1) bekezdés a) pontja az 500/2013. (XII. 29.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^44]: A 17. § (4) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^53]: A III. Fejezet címe a 335/2013. (IX. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^54]: A 17. § a 335/2013. (IX. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^55]: A 17. § (1) bekezdés a) pontja az 500/2013. (XII. 29.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^56]: A 17. § (4) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

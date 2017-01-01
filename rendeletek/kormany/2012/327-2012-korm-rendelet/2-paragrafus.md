@@ -1,14 +1,10 @@
-## II. Fejezet
-
-## A REHABILITÁCIÓS AKKREDITÁCIÓ SZABÁLYAI
-
-## 2. A munkáltatók akkreditálása
+## 1/A. §[^9] A megváltozott munkaképességű munkavállalókat foglalkoztatók akkreditációjával, az akkreditált munkáltatók nyilvántartásával és az akkreditált munkáltatók ellenőrzésével összefüggő hatósági feladatokat rehabilitációs hatóságként Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) látja el.
 
 2. § (1) A munkáltató részére rehabilitációs akkreditációs tanúsítvány akkor adható, ha
 
 a) cégjegyzékbe vagy – ha a működés feltétele más bírósági vagy hatósági nyilvántartásba vétel – az előírt nyilvántartásba történő bejegyzése megtörtént,
 
-b)[^9] a munkaviszonyban foglalkoztatott megváltozott munkaképességű munkavállalóinak a Központi Statisztikai Hivatal létszámszámításra vonatkozó előírásai szerint számított havi átlagos statisztikai állományi létszáma a 30 főt eléri vagy aránya az összes munkavállalóhoz képest a 25%-ot meghaladja,
+b)[^10] a munkaviszonyban foglalkoztatott megváltozott munkaképességű munkavállalóinak a Központi Statisztikai Hivatal létszámszámításra vonatkozó előírásai szerint számított havi átlagos statisztikai állományi létszáma a 30 főt eléri vagy aránya az összes munkavállalóhoz képest a 25%-ot meghaladja,
 
 c) a megváltozott munkaképességű munkavállalók foglalkoztatását olyan rehabilitációs foglalkoztatás keretében biztosítja, amelyet a létesítő okiratában rögzítettek, és amely a hatósági vagy bírósági nyilvántartásba vett tevékenységének kifejtéséhez kapcsolódik,
 
@@ -26,7 +22,7 @@ i) a betanított és segédmunka végzésének lehetősége mellett képesítés
 
 j) az eredményes rehabilitációhoz – valamint tranzitfoglalkoztatás esetén a nyílt munkaerőpiacra történő sikeres kihelyezéshez – szükséges képzési lehetőségeket saját maga vagy felnőttképzést megvalósító intézmény bevonásával biztosítja és
 
-k)[^10]
+k)[^11]
 
 (2) Az (1) bekezdésben meghatározott feltételek fennállása esetén sem adható rehabilitációs akkreditációs tanúsítvány, ha
 
@@ -42,5 +38,6 @@ c) a munkáltató végelszámolás, csődeljárás, felszámolási eljárás, k�
 
 (3) Költségvetési szerv részére rehabilitációs akkreditációs tanúsítvány nem adható.
 
-[^9]: A 2. § (1) bekezdés b) pontja a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés k) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^9]: Az 1/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 212. § (1) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés b) pontja a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés k) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.

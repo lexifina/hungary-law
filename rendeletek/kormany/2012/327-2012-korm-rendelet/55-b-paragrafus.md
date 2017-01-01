@@ -1,6 +1,6 @@
 ## az éves támogatási szerződés alatt az (1) bekezdés szerinti támogatási szerződést kell érteni.
 
-55/B. §[^129] (1)[^130] Az az akkreditált munkáltató, amely a tárgyévre vonatkozó éves támogatási szerződéssel rendelkezik, a tárgyév decemberében – pályázati eljárás lefolytatása, valamint a keretszerződés és az éves támogatási szerződés módosítása nélkül – a rendelkezésre álló szabad előirányzat mértékéig egyszeri támogatásban (a továbbiakban: egyszeri támogatás) részesíthető, kivéve, ha az akkreditált munkáltató
+55/B. §[^167] (1)[^168] Az az akkreditált munkáltató, amely a tárgyévre vonatkozó éves támogatási szerződéssel rendelkezik, a tárgyév decemberében – pályázati eljárás lefolytatása, valamint a keretszerződés és az éves támogatási szerződés módosítása nélkül – a rendelkezésre álló szabad előirányzat mértékéig egyszeri támogatásban (a továbbiakban: egyszeri támogatás) részesíthető, kivéve, ha az akkreditált munkáltató
 
 a) felszámolási eljárás vagy végelszámolás alatt áll, vagy
 
@@ -12,15 +12,15 @@ b) az egyszeri támogatás folyósításának időpontjában az egyéni támogat
 
 (4) Az akkreditált munkáltató az egyszeri támogatást a tárgyévet követő év november 30-áig felmerült elszámolható költségeire használhatja fel. Az egyszeri támogatás keretében nem számolhatóak el az azon időszakban felmerült költségek, amelyben az akkreditált munkáltató az akkreditáció 2. §-ban és a 3. §-ban foglalt feltételeit nem teljesíti.
 
-(5) Az az akkreditált munkáltató, amely az egyszeri támogatásra való jogosultságának tárgyévi megállapítását követő évre nem rendelkezik keretszerződéssel és éves támogatási szerződéssel, a tárgyévet követő év február 20-áig az egyszeri támogatás összegét kamat felszámítása nélkül köteles a Hivatal részére visszafizetni.
+(5)[^169] Az az akkreditált munkáltató, amely az egyszeri támogatásra való jogosultságának tárgyévi megállapítását követő évre nem rendelkezik keretszerződéssel és éves támogatási szerződéssel, a tárgyévet követő év február 20-áig az egyszeri támogatás összegét kamat felszámítása nélkül köteles a Kormányhivatal részére visszafizetni.
 
-(6) A Hivatal az egyszeri támogatás folyósításáról, annak megállapítása évének december 31-éig gondoskodik.
+(6)[^170] A Kormányhivatal az egyszeri támogatás folyósításáról, annak megállapítása évének december 31-éig gondoskodik.
 
-(7) Az akkreditált munkáltató az egyszeri támogatásról az egyszeri támogatásra való jogosultság tárgyévi megállapítását követő év február 15-éig kamatmentesen lemondhat, ebben az esetben köteles a támogatást az egyszeri támogatásra való jogosultság tárgyévi megállapítását követő év február 20-áig a Hivatal részére visszafizetni.
+(7)[^171] Az akkreditált munkáltató az egyszeri támogatásról az egyszeri támogatásra való jogosultság tárgyévi megállapítását követő év február 15-éig kamatmentesen lemondhat, ebben az esetben köteles a támogatást az egyszeri támogatásra való jogosultság tárgyévi megállapítását követő év február 20-áig a Kormányhivatal részére visszafizetni.
 
 (8) Az akkreditált munkáltató az egyszeri támogatás elfogadásával az egyszeri támogatás tekintetében is vállalja a tárgyévre, illetve az azt követő évre kötött keretszerződésben és éves támogatási szerződésben meghatározott, az akkreditált munkáltatót terhelő kötelezettségeket feltéve, hogy az (5) bekezdésben foglalt visszafizetési kötelezettség nem áll fenn, és az akkreditált munkáltató a (7) bekezdésben foglalt határidőig lemondási jogával nem él.
 
-(9) Az akkreditált munkáltató az egyszeri támogatással a tárgyévet követő év december 10-éig – a Hivatal által meghatározott módon – számol el.
+(9)[^172] Az akkreditált munkáltató az egyszeri támogatással a tárgyévet követő év december 10-éig – a Kormányhivatal által meghatározott módon – számol el.
 
 (10) Az egyszeri támogatás pénzügyi ellenőrzése a 40. § szerint történik.
 
@@ -34,5 +34,9 @@ b) a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltat
 
 c) a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosításáról szóló 430/2015. (XII. 23.) Korm. rendelet hatálybalépését megelőző napon hatályos 55/B. § (3)–(5) bekezdését
 
-[^129]: Az 55/B. §-t a 340/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 430/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^130]: Az 55/B. § (1) bekezdése a 457/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^167]: Az 55/B. §-t a 340/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 430/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^168]: Az 55/B. § (1) bekezdése a 457/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^169]: Az 55/B. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^170]: Az 55/B. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^171]: Az 55/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^172]: Az 55/B. § (9) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
