@@ -2,6 +2,6 @@
 
 8. § (1) Tilos a háztartási fényforrásokon olyan, az energiafelhasználásra vonatkozó címkét, jelzést, szimbólumot vagy feliratot elhelyezni, amely az e rendeletben foglaltaknak nem felel meg és alkalmas a fogyasztók megtévesztésére.
 
-(2) Környezetbarát, környezetkímélő megkülönböztető jelzést a külön jogszabályban[^4] meghatározott módon kell a háztartási fényforrásokon elhelyezni.
+(2) Környezetbarát, környezetkímélő megkülönböztető jelzést a külön jogszabályban[^5] meghatározott módon kell a háztartási fényforrásokon elhelyezni.
 
-[^4]: A környezetbarát, környezetkímélő megkülönböztető jelzés használatának feltételrendszeréről szóló 29/1997. (VIII. 29.) KTM rendelet.
+[^5]: A környezetbarát, környezetkímélő megkülönböztető jelzés használatának feltételrendszeréről szóló 29/1997. (VIII. 29.) KTM rendelet.
