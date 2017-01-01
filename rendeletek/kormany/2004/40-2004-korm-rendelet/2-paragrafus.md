@@ -12,12 +12,14 @@ bb) az ülést megelőzően a sportpolitikáért felelős miniszternek (a továb
 
 teszik meg.
 
-(3) A Nemzet Sportolói által a miniszter képviselőjének közreműködésével összehívott ülésen a Nemzet Sportolói vesznek részt. Az ülésen jelen van a miniszter képviselője és a Magyar Olimpiai Bizottság (a továbbiakban: MOB) képviselője. Az ülésen a miniszter képviselője ismerteti a (2) bekezdés b) pont bb) alpontja alapján, írásban tett új javaslatokat. Az ülés megtartásával kapcsolatos adminisztratív feladatokat a miniszter képviselője végzi.
+(3)[^2] A Nemzet Sportolói által a miniszter képviselőjének közreműködésével összehívott ülésen a Nemzet Sportolói vesznek részt. Az ülésen jelen van a miniszter képviselője. Az ülésen a miniszter képviselője ismerteti a (2) bekezdés b) pont bb) alpontja alapján, írásban tett új javaslatokat. Az ülés megtartásával kapcsolatos adminisztratív feladatokat a miniszter képviselője végzi.
 
 (4) Az új javaslatok megtételére a Nemzet Sportolójának
 
 a) halála napjától, vagy
 
-b) az érdemtelenségét megállapító jogerős bírósági határozat MOB-nak való bejelentésétől
+b)[^3] az érdemtelenségét megállapító jogerős bírósági határozat miniszternek való bejelentésétől
 
 [^1]: A 2. § a 22/2015. (II. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdés b) pontja a 475/2016. (XII. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
