@@ -24,7 +24,7 @@ e) a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) 1 főt,
 
 f) a Nemzeti Élelmiszerlánc-biztonsági Hivatal 3 főt, valamint
 
-g) a Nemzeti Fogyasztóvédelmi Hatóság 1 főt jelöl.
+g)[^1] a fogyasztóvédelemért felelős miniszter 1 főt jelöl.
 
 5. A MET tagjait a miniszter nevezi ki.
 
@@ -35,3 +35,5 @@ g) a Nemzeti Fogyasztóvédelmi Hatóság 1 főt jelöl.
 8. A MET működésének feltételeiről, valamint a titkársági feladatok ellátásáról a Minisztérium gondoskodik.
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont g) alpontja az 1853/2016. (XII. 27.) Korm. határozat 27. pontja szerint módosított szöveg.
