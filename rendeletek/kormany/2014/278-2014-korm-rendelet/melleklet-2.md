@@ -10,7 +10,7 @@
 
 | 4. | Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara | Szántóföldi növénykultúrákra vonatkozó adatok | betakarítási adatok, termésbecslés, aratási adatok |  |  |
 
-| 5. | Mezőgazdasági és Vidékfejlesztési Hivatal | Szántóföldi- és legelőgazdálkodással kapcsolatos adatok | Területi adatok |  |  |
+| 5. |  |  |  |  |  |
 
 | 6. | Környezet- védelemért felelős miniszter | Légszennyező pont- és diffúz források kibocsátási és technológiai és engedélyezési adatai. | - A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet szerint bejelentett adatok (LAL és LM). - az Európai Szennyezőanyag- kibocsátási és -szállítási nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló 66/2006/EK európai parlamenti és tanácsi rendelet szerinti nemzeti jelentés elkészítéséhez a tárgyévet megelőző évekről összegyűjtött adatok | Az OKIR-ban rendelkezésre álló adatok |  |
 
@@ -22,7 +22,7 @@
 
 |  |  |  | Nyers szennyvíz minőségi paraméterei (OSAP 1376 és 1378 kérdőívek adatai). |  |  |
 
-| 10. | Főfelügyelőség | Európai Közösség kibocsátási egységkereskedelmi rendszerének (EU ETS) hatálya alá tartozó kibocsátási adatok. | - a 2012. évi CCXVII. törvény szerinti (EU ETS) kibocsátási engedélyek és jelentések adatai. - az 525/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdés k) pontja szerinti adatok CRF kód szerinti összesítésben az 525/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdése szerinti jelentés esetében x-2 évre vonatkozóan, - az 525/2013/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti jelentés esetében x-1 évre vonatkozóan. | 2005-ig visszamenőleg. |  |
+| 10. | Hatóság | Európai Közösség kibocsátási egységkereskedelmi rendszerének (EU ETS) hatálya alá tartozó kibocsátási adatok. | - a 2012. évi CCXVII. törvény szerinti (EU ETS) kibocsátási engedélyek és jelentések adatai. - az 525/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdés k) pontja szerinti adatok CRF kód szerinti összesítésben az 525/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdése szerinti jelentés esetében x-2 évre vonatkozóan, - az 525/2013/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti jelentés esetében x-1 évre vonatkozóan. | 2005-ig visszamenőleg. |  |
 
 | 11. | nemzeti fejlesztési miniszter (Közlekedés- tudományi Intézet) | Közlekedés-statisztikai és kibocsátási adatok. | Közlekedési kibocsátásokra vonatkozó számítások (CH4, N2O, NOx, CO, NMVOC, SO2 stb. kibocsátott mennyisége az inputadatokkal együtt modellezés/számítás alapján). | A rendelkezésre álló adatsorok és COPERT adatbázisok. |  |
 
@@ -54,7 +54,7 @@
 
 | 24. | Magyar Energetikai és Közmű- szabályozási Hivatal | Villamos energiatermelő létesítmények tüzelőberendezéseiről szükséges adatok. | Villamosenergia- termelés technológiájának típusa (például gáztüzelésű gázturbina), felhasznált energiahordozó mennyisége, első üzembe helyezés időpontja (vagy becsült kora), beépített hő és/vagy villamos teljesítmény, távozó füstgázban lévő direkt és indirekt üvegházhatású gázkibocsátások csökkentésére vonatkozó adatok (például kéntelenítő beszerelésének időpontja). - Indirekt üvegházhatású gáz kibocsátások (NOx, SO2, CO). | 1994-ig visszamenően a rendelkezésre álló adatsor. | Változás esetén eseti adatszolgáltatás. |
 
-| 25. | Nemzeti Közlekedési Hatóság | Országos gépjármű- nyilvántartás adatai. | A közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló 77/2009. (XII. 15.) KHEM-IRM-KvVM együttes rendeletben szereplő kategóriákban a darabszám, az átlagos kilométeróra- állás. | 1985-ig visszamenően a rendelkezésre álló adatsor. |  |
+| 25. | közlekedésért felelős miniszter | Országos gépjármű- nyilvántartás adatai. | A közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló 77/2009. (XII. 15.) KHEM-IRM-KvVM együttes rendeletben szereplő kategóriákban a darabszám, az átlagos kilométeróra- állás. | 1985-ig visszamenően a rendelkezésre álló adatsor. |  |
 
 | 26. | Központi Statisztikai Hivatal | Gazdaságstatisztikai (termelési és fogyasztási) adatok. | Termelési adatok BTO vagy ITO kód szerint. - Gazdasági mutatók (GDP, hozzáadott érték szektoronként az 525/2013/EU európai parlamenti és tanácsi rendelet III. melléklete szerint). - Élelmezési adatok (lakosság fehérjefogyasztása). - Közműadatok (közcsatornára kötött lakosság aránya). | Az adatok rendelkezésre állásának függvényében. | A rendelkezésre állás függvényében, lehetőség szerint a 4. § (4) bekezdésében megjelölt határidőkre. |
 

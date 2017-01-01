@@ -12,10 +12,12 @@
 
 a) az erdészeti ágazatra vonatkozó részének tartalmára, ideértve a Jegyzőkönyv 3. cikk (3) és (4) bekezdése, valamint 6. cikke szerinti jelentési kötelezettséget, a Nemzeti Agrárkutatási és Innovációs Központ, Erdészeti Tudományos Intézet (a továbbiakban: NAIK ERTI) közreműködésével a Nemzeti Élelmiszerlánc-biztonsági Hivatal a 14. §-ban foglalt jelentéssel összhangban javaslatot tesz a Szolgálat részére,
 
-b) a földhasználati, földhasználat-változtatási ágazatra vonatkozó részének tartalmára a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, valamint a Mezőgazdasági és Vidékfejlesztési Hivatal a 14. §-ban foglalt jelentéssel összhangban javaslatot tesz a Szolgálat részére,
+b)[^1] a földhasználati, földhasználat-változtatási ágazatra vonatkozó részének tartalmára a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara a 14. §-ban foglalt jelentéssel összhangban javaslatot tesz a Szolgálat részére,
 
 c) a forgalmi jegyzékre vonatkozó részének tartalmára az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: 2012. évi CCXVII. törvény) szerinti forgalmi jegyzék kezelője tesz javaslatot a Szolgálat részére.
 
 (4) A Nemzeti Kibocsátási Leltárt és a kapcsolódó leltárjelentést a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, az államháztartásért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a miniszter jóváhagyásával a Szolgálat nyújtja be minden év április 15. napjáig a Keretegyezmény Titkárságának.
 
 (5) A miniszter a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, az államháztartásért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a földügyért felelős miniszter közreműködésével gondoskodik a (2)–(4) bekezdés szerinti jelentés összeállításáról.
+
+[^1]: A 2. § (3) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 281. § (3) bekezdés a) pontja szerint módosított szöveg.
