@@ -52,11 +52,11 @@
 
 ## cégszerű aláírás
 
-5. számú melléklet a 123/2007. (V. 31.) Korm. rendelethez
+5. számú melléklet a 123/2007. (V. 31.) Korm. rendelethez[^33]
 
 A fogyatékosság igazolása
 
-A rendelet alapján a fogyatékkal élő felnőttek képzéséhez nyújtható normatív támogatás jogszerű igénybevételéhez szükséges, a fogyatékosság megállapítását, annak mértékét, illetve végleges vagy időszakos voltát igazoló szakvélemény kiadására – az Országos Orvosszakértői Intézet illetékes szakértő bizottsága mellett – az alábbi szervek jogosultak:
+A rendelet alapján a fogyatékkal élő felnőttek képzéséhez nyújtható normatív támogatás jogszerű igénybevételéhez szükséges, a fogyatékosság megállapítását, annak mértékét, illetve végleges vagy időszakos voltát igazoló szakvélemény kiadására – az orvosszakértői szerv mellett – az alábbi szervek jogosultak:
 
 – hallássérültek esetében a területileg illetékes audiológiai állomás szakorvosa/szakfőorvosa,
 
@@ -65,3 +65,5 @@ A rendelet alapján a fogyatékkal élő felnőttek képzéséhez nyújtható no
 – mozgássérültek esetében a területileg illetékes klinikák, kórházak, szakrendelők szakorvosa/szakfőorvosa,
 
 – beszéd- és más fogyatékkal élő felnőttek esetében a területileg illetékes szakintézet szakorvosa/szakfőorvosa.
+
+[^33]: Az 5. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 97. §-a szerint módosított szöveg.
