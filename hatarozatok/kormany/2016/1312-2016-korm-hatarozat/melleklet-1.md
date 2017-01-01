@@ -128,13 +128,11 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. január 1.
 
-e)[^4] Magyar Nemzeti Digitális Archívum és Filmintézet megszűnik, azzal, hogy
+e)[^4] Magyar Nemzeti Digitális Archívum és Filmintézet az Országos Széchényi Könyvtárba történő beolvadással megszűnik azzal, hogy
 
-ea) a könyvtári dokumentumok digitalizálásával kapcsolatos közfeladatait az Országos Széchényi Könyvtár,
+ea) a Filmintézet és Filmarchívum feladatait (beleértve a korábban a Magyar Nemzeti Filmarchívum által őrzött filmekkel kapcsolatos digitalizálási feladatokat, valamint a Filmintézeti Szakkönyvtár és Médiatár feladatait) – az ÉMOP-2.1.1/A-14-2014-0001 projekt keretében létrehozott Nemzeti Filmtörténeti Élménypark kivételével – a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság,
 
-eb) a Filmintézet és Filmarchívum feladatait (beleértve a korábban a Magyar Nemzeti Filmarchívum által őrzött filmekkel kapcsolatos digitalizálási feladatokat is, valamint a Filmintézeti Szakkönyvtár és Médiatár feladatait) – az ÉMOP-2.1.1/A-14-2014-0001 projekt keretében létrehozott Nemzeti Filmtörténeti Élménypark kivételével – a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság,
-
-ec) az ea) és eb) pontban meghatározottakon túli közfeladatait, az európai uniós pályázatok fenntartási kötelezettségét, valamint az országos digitalizációs közfoglalkoztatási programmal kapcsolatos feladatait állami tulajdonú gazdasági társaság
+eb) a könyvtári dokumentumok digitalizálásával kapcsolatos, az Országos Széchényi Könyvtár által ellátott, valamint az ea) alpontban meghatározottakon túli közfeladatait, az európai uniós pályázatok fenntartási kötelezettségét, továbbá az országos digitalizációs közfoglalkoztatási programmal kapcsolatos feladatait a Forum Hungaricum Közhasznú Nonprofit Korlátolt Felelősségű Társaság
 
 lássa el;
 
@@ -537,7 +535,7 @@ Határidő: 2017. január 1.
 [^1]: A 4. pont d) alpontja az 1700/2016. (XII. 2.) Korm. határozat 4. pontjával megállapított szöveg.
 [^2]: A 10a. pontot az 1700/2016. (XII. 2.) Korm. határozat 5. pontja iktatta be.
 [^3]: A 12. pontot az 1700/2016. (XII. 2.) Korm. határozat 6. pontja iktatta be.
-[^4]: Az 1. melléklet 1. pont e) alpontja az 1700/2016. (XII. 2.) Korm. határozat 7. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet 1. pont e) alpontja az 1853/2016. (XII. 27.) Korm. határozat 78. pontjával megállapított szöveg.
 [^5]: Az 1. melléklet 1. pont f) alpontja az 1700/2016. (XII. 2.) Korm. határozat 17. pont a) alpontja szerint módosított szöveg.
 [^6]: Az 1. melléklet 1. pont g) alpontja az 1700/2016. (XII. 2.) Korm. határozat 18. pont a) alpontja szerint módosított szöveg.
 [^7]: Az 1. melléklet 1. pont h) alpontja az 1700/2016. (XII. 2.) Korm. határozat 18. pont b) alpontja szerint módosított szöveg.
