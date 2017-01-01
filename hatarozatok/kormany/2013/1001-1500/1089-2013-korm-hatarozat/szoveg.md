@@ -64,23 +64,21 @@ f) a Büntetés-végrehajtás Országos Parancsnokságának képviselője, valam
 
 g) a Nemzeti Adó- és Vámhivatal képviselője.
 
-9. A KKB állandó meghívottai:
+9.[^1] A KKB állandó meghívottai:
 
 a) az Országos Rendőr-főkapitányság képviselője,
 
-b) a Magyar Kereskedelmi Engedélyezési Hivatal képviselője,
+b) piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatalának képviselője,
 
-c) az Egészségügyi Engedélyezési és Közigazgatási Hivatal képviselője,
+c) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet képviselője,
 
-d) az Országos Egészségfejlesztési Intézet – Országos Addiktológiai Centrum képviselője,
+d) az egészségügyért felelős miniszter által vezetett minisztérium szervezeti keretén belül működő Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ képviselője,
 
-e) az Országos Epidemiológiai Központ – Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ képviselője,
+e) a Szociális és Gyermekvédelmi Főigazgatóság drogpolitikai feladatokért felelős szervezeti egységének képviselője,
 
-f) a Nemzeti Család- és Szociálpolitikai Intézet – Nemzeti Drogmegelőzési Iroda képviselője,
+f) a Nemzeti Szakértői Kutató Központ képviselője, valamint
 
-g) az Igazságügyi Szakértői és Kutató Intézetek – Országos Toxikológiai Intézetének képviselője, valamint
-
-h) a Nemzeti Bűnmegelőzési Tanács képviselője.
+g) a Nemzeti Bűnmegelőzési Tanács képviselője.
 
 10. A KKB elnöke, ha valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, további szakértőket hívhat meg, akik tanácskozási joggal vesznek részt a KKB ülésén.
 
@@ -97,3 +95,5 @@ h) a Nemzeti Bűnmegelőzési Tanács képviselője.
 16. A KKB tagjai tevékenységükért tiszteletdíjban nem részesülnek.
 
 17. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
+
+[^1]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 20. pontjával megállapított szöveg.
