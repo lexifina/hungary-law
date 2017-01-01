@@ -1,6 +1,6 @@
 14. § (1)[^29] Az Egységes Nyilvántartási és Azonosítási Rendszer (a továbbiakban: ENAR) működtetése keretében a NÉBIH
 
-a)[^30] ellátja az ENAR működtetésével és fejlesztésével kapcsolatos feladatokat, melynek során együttműködik az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal, a Mezőgazdasági és Vidékfejlesztési Hivatallal (a továbbiakban: MVH) és az MJKSz-szel;
+a)[^30] ellátja az ENAR működtetésével és fejlesztésével kapcsolatos feladatokat, melynek során együttműködik az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal, a Magyar Államkincstárral (a továbbiakban: Kincstár) és az MJKSz-szel;
 
 b) működteti a 21/2004/EK rendelet 7. és 8. cikk szerinti országos számítógépes adatbázist;
 
@@ -19,6 +19,6 @@ g) az MJKSz közreműködésével elkészíti az útmutatót.
 (3)[^32] A NÉBIH köteles a hozzá megküldött adatokat tíz napon belül a nyilvántartásban rögzíteni.
 
 [^29]: A 14. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
-[^30]: A 14. § (1) bekezdés a) pontja a 88/2013. (X. 2.) VM rendelet 61. § 5. pontja szerint módosított szöveg.
+[^30]: A 14. § (1) bekezdés a) pontja a 88/2013. (X. 2.) VM rendelet 61. § 5. pontja, a 88/2016. (XII. 29.) FM rendelet 41. § a) pontja szerint módosított szöveg.
 [^31]: A 14. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § e) pontja szerint módosított szöveg.
 [^32]: A 14. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése szerint, a 70/2013. (VII. 31.) VM rendelet 118. § e) pontja szerint módosított szöveg.
