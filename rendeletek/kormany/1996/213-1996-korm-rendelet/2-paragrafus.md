@@ -1,4 +1,4 @@
-2. §[^3] (1)[^4] Utazásszervezői vagy utazásközvetítői tevékenységet Magyarországon csak az az utazási vállalkozó folytathat, aki a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.), valamint az e §-ban előírt feltételeknek megfelel, és e tevékenységét a Magyar Kereskedelmi Engedélyezési Hivatalnál (a továbbiakban: Hivatal) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) foglaltak szerint bejelentette.
+2. §[^3] (1)[^4] Utazásszervezői vagy utazásközvetítői tevékenységet Magyarországon csak az az utazási vállalkozó folytathat, aki a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.), valamint az e §-ban előírt feltételeknek megfelel, és e tevékenységét a kereskedelmi hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalánál (a továbbiakban: Kormányhivatal) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) foglaltak szerint bejelentette.
 
 (2)[^5] A bejelentésnek a Szolgtv. 22. §-ában meghatározott adatokon túlmenően tartalmaznia kell
 
@@ -37,7 +37,7 @@ h)[^14] utazási vállalkozó nyilvántartásból történt törlésének és te
 (8)[^15] A (7) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 [^3]: A 2. § a 182/2009. (IX. 10.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^4]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (2) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 18. § a) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^6]: A 2. § (2) bekezdés b) pontja a 140/2015. (VI. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 18. § b) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

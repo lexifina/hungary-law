@@ -1,4 +1,4 @@
-5. §[^24] (1) A tevékenységért felelős személynek:
+5. §[^25] (1) A tevékenységért felelős személynek:
 
 a) turisztikai szervező, értékesítő szakképesítéssel,
 
@@ -74,14 +74,17 @@ vehető figyelembe.
 
 (5) Az utazási vállalkozó köteles a tevékenységért felelős személyt oly módon foglalkoztatni, hogy hetente legalább húsz órában a munkakörébe tartozó vagy a foglalkoztatásra irányuló egyéb jogviszony alapján meghatározott, az utazásszervezői, illetve utazásközvetítői tevékenységgel kapcsolatos feladatot lásson el.
 
-(6) A tevékenységért felelős személy köteles a Hivatal e rendelet szerinti ellenőrzési és más hatósági eljárásaival összefüggésben az utazási vállalkozó vezető tisztségviselőjének akadályoztatása, vagy elérhetetlensége esetén az utazási vállalkozó utazásszervezői, illetve utazásközvetítői tevékenységével összefüggő naprakész adatokról a Hivatalt teljes körűen tájékoztatni.
+(6)[^26] A tevékenységért felelős személy köteles a Kormányhivatal e rendelet szerinti ellenőrzési és más hatósági eljárásaival összefüggésben az utazási vállalkozó vezető tisztségviselőjének akadályoztatása, vagy elérhetetlensége esetén az utazási vállalkozó utazásszervezői, illetve utazásközvetítői tevékenységével összefüggő naprakész adatokról a Kormányhivatalt teljes körűen tájékoztatni.
 
-(7) A Hivatal törli a hatósági nyilvántartásból azt a tevékenységért felelős személyt, aki
+(7)[^27] A Kormányhivatal törli a hatósági nyilvántartásból azt a tevékenységért felelős személyt, aki
 
 a) a (4) bekezdés szerinti feltételt megsérti, vagy
 
 b) a (6) bekezdéssel összefüggő kötelezettségét nem teljesíti.
 
-(8) Az a tevékenységért felelős személy, akit a Hivatal a (7) bekezdés a) vagy b) pontjában meghatározott okok valamelyike miatt jogerősen törölt a hatósági nyilvántartásból, öt évig nem láthatja el utazási vállalkozásnál a tevékenységért felelős tisztséget.
+(8)[^28] Az a tevékenységért felelős személy, akit a Kormányhivatal a (7) bekezdés a) vagy b) pontjában meghatározott okok valamelyike miatt jogerősen törölt a hatósági nyilvántartásból, öt évig nem láthatja el utazási vállalkozásnál a tevékenységért felelős tisztséget.
 
-[^24]: Az 5. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte, újonnan a 140/2015. (VI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^25]: Az 5. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte, újonnan a 140/2015. (VI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^26]: Az 5. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) és d) pontja szerint módosított szöveg.
+[^27]: Az 5. § (7) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^28]: Az 5. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
