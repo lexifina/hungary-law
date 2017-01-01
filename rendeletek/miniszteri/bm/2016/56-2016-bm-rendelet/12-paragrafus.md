@@ -1,0 +1,23 @@
+## 11. § Ha a hivatásos állomány tagja a Hszt. 82/A. § (6) bekezdése szerint az egészségkárosodási ellátásra jogosultság megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését kéri, e kérelmet az Országgyűlési Őrség parancsnokának címezve a humánigazgatási szakszolgálathoz kell benyújtani. Ebben az esetben a 9. § (2) bekezdése szerinti döntéssel egyidejűleg a humánigazgatási szakszolgálat intézkedik a hivatásos állomány tagjának felmentése érdekében.
+
+## 12. § A Hszt. 82/D. § (1) bekezdése alapján a humánigazgatási szakszolgálat az eljárás lefolytatásához az alábbi iratok beszerzésével készíti elő az Országgyűlési Őrség parancsnokának döntését:
+
+a) a FÜV Bizottság által folytatott eljárás során beszerzett, a rehabilitációs hatóság által kiállított szakvélemény,
+
+b) a FÜV határozat,
+
+c) a szolgálati kötelmekkel összefüggés tárgyában hozott minősítő határozat,
+
+d) a tényleges szolgálati idő igazolásához szükséges iratok,
+
+e) a felajánlott álláshely elfogadására vagy visszautasítására vonatkozó nyilatkozat, valamint az egyeztető megbeszélésről készült jegyzőkönyv, vagy az Országgyűlés elnökének mentesítésével kapcsolatos iratok,
+
+f) a hivatásos állomány tagját az egészségi alkalmatlanság megállapítását közvetlenül megelőző egy hónapra a szolgálati beosztása alapján megillető távolléti díj összegére vonatkozó adatok,
+
+g) az álláshely elfogadása esetén az új illetményre vonatkozó adatok,
+
+h) ha az Országgyűlési Őrség rendelkezésére áll ilyen irat, a hivatásos állomány tagjának baleseti járadékra vagy baleseti táppénzre (a továbbiakban együtt: baleseti ellátás), rokkantsági ellátásra vagy rehabilitációs ellátásra való jogosultságáról, továbbá az ezen ellátás összegéről szóló tájékoztatás,
+
+i) a döntéshozatalhoz szükséges egyéb személyügyi adatok, és
+
+j) a szolgálati viszony megszüntetéséről szóló állományparancs vagy határozat tervezete.
