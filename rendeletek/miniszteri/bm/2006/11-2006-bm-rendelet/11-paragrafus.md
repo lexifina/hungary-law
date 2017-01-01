@@ -1,6 +1,6 @@
 ## A fegyelmi eljárás
 
-11. § (1)[^24] Fegyelemsértés megalapozott gyanúja akkor áll fenn, ha a rendelkezésre álló adatok alapján alapos okkal lehet következtetni arra, hogy a hivatásos állományú kötelezettségszegésnek minősülő cselekményt követett el és annak elkövetésében vétkesség terheli.
+11. § (1)[^25] Fegyelemsértés megalapozott gyanúja akkor áll fenn, ha a rendelkezésre álló adatok alapján alapos okkal lehet következtetni arra, hogy a hivatásos állományú kötelezettségszegésnek minősülő cselekményt követett el és annak elkövetésében vétkesség terheli.
 
 (2) Minden elöljárónak kötelessége, hogy a tudomására jutott fegyelemsértésről vagy a fegyelemsértés gyanújáról haladéktalanul tájékoztassa a fegyelmi jogkör gyakorlóját és annak intézkedéséig gondoskodjon a vétkes kötelezettségszegés bizonyítékainak megőrzéséről, a tanúk adatainak rögzítéséről, szükség esetén a helyszín biztosításáról.
 
@@ -10,7 +10,7 @@
 
 (5) A fegyelmi eljárás lefolytatásához szükséges tárgyi és személyi feltételekről, valamint költségek biztosításáról a fegyelmi jogkör gyakorlója gondoskodik.
 
-(6)[^25] A fegyelmi eljárás elrendeléséről szóló határozatnak a Tv. 195. § (2) bekezdésében meghatározottakon felül tartalmaznia kell az eljárás alá vont kioktatását a képviselő igénybevételére, és az eljárás iratainak megismerésére vonatkozó, a bizonyítással és a vizsgáló személyével kapcsolatos észrevételezési és indítványozási jogára.
+(6)[^26] A fegyelmi eljárás elrendeléséről szóló határozatnak a Tv. 195. § (2) bekezdésében meghatározottakon felül tartalmaznia kell az eljárás alá vont kioktatását a képviselő igénybevételére, és az eljárás iratainak megismerésére vonatkozó, a bizonyítással és a vizsgáló személyével kapcsolatos észrevételezési és indítványozási jogára.
 
-[^24]: A 11. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 27. §-ával megállapított szöveg.
-[^25]: A 11. § (6) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^25]: A 11. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 27. §-ával megállapított szöveg.
+[^26]: A 11. § (6) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 14. pontja szerint módosított szöveg.
