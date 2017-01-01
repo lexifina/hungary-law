@@ -1,1 +1,0 @@
-## Térállás és tőkeszám szabályozása
