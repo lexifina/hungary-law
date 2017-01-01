@@ -1398,7 +1398,7 @@ A szakmai gyakorlat elvégzéséről szóló igazolást a szakmai vizsgára jele
 
 A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek szerint.
 
-3. A szakmai vizsga részei
+3.[^29] A szakmai vizsga részei
 
 3.1. Szakmai gyakorlati vizsga
 
@@ -1470,11 +1470,11 @@ A szóbeli vizsga során a fenti témakörökben kérdéseket kell megválaszoln
 
 – kínai masszázs alapjai és használata.
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-4. A vizsgázók teljesítményének értékelése
+4.[^30] A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 ALTERNATÍV
 
@@ -1800,9 +1800,9 @@ A szóbeli vizsga során az alábbi témakörökben kell kérdéseket megválasz
 
 – titoktartási kötelezettség a gyakorlatban.
 
-4. A vizsgázók teljesítményének értékelése
+4.[^31] A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 ÉLETMÓD-TANÁCSADÓ ÉS TERÁPEUTA
 
@@ -2058,7 +2058,7 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1.[^29] Iskolai végzettség:
+1.1.[^32] Iskolai végzettség:
 
 – felsőoktatási intézményben megszerzett oklevél az alábbi szakterületen: egészségügyi, pedagógiai, pszichológiai, szociális, népművelői, teológiai, agrártudományi.
 
@@ -2090,9 +2090,9 @@ A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek
 
 4. A szakmai vizsga részei
 
-4.1. Szakmai gyakorlati vizsga
+4.1.[^33] Szakmai gyakorlati vizsga
 
-A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ENKK jelöli ki.
+A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ÁEEK jelöli ki.
 
 A gyakorlati vizsga az alábbi vizsgafeladatokból tevődik össze:
 
@@ -2238,9 +2238,9 @@ Egészségnevelés és klasszikus természetgyógyászat:
 
 – ellenőrzés, értékelés.
 
-5. A vizsgázók teljesítményének értékelése
+5.[^34] A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 REFLEXOLÓGUS
 
@@ -2398,11 +2398,11 @@ A szakmai gyakorlat elvégzéséről szóló igazolást a szakmai vizsgára jele
 
 A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek szerint.
 
-3. A szakmai vizsga részei
+3.[^35] A szakmai vizsga részei
 
-3.1. Szakmai gyakorlati vizsga
+3.1.[^36] Szakmai gyakorlati vizsga
 
-A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ENKK jelöli ki.
+A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ÁEEK jelöli ki.
 
 A gyakorlati vizsga feladatai:
 
@@ -2542,11 +2542,11 @@ A szóbeli vizsga során a fenti témakörökben kérdéseket kell megválaszoln
 
 – az egyes kórképek reflexzónákra gyakorolt hatásai.
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-4. A vizsgázók teljesítményének értékelése
+4.[^37] A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 ALTERNATÍV
 
@@ -2610,7 +2610,7 @@ A hallgató legyen képes:
 
 – elkülöníteni az alternatív fizioterápiás módszereket, kiemelni a fizioterápiás módszerek lényegét, javallatait, ellenjavallatait, technikáját.
 
-A vizsga részei
+A vizsga részei[^38]
 
 Gyakorlati vizsga
 
@@ -2756,11 +2756,11 @@ Masszázs élettani szerepe.
 
 Frissítő masszázs.
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-A vizsgázók teljesítményének értékelése
+A vizsgázók teljesítményének értékelése[^39]
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 BIOENERGETIKUS TOVÁBBKÉPZÉS
 
@@ -2818,7 +2818,7 @@ A hallgató legyen képes:
 
 – ismertetni a geopatikus, strukturális és anyagszerkezeti sugárzások lényegét, a sugárhatások csökkentésének lehetőségeit és korlátait.
 
-Szakmai vizsga részei
+Szakmai vizsga részei[^40]
 
 Gyakorlat:
 
@@ -2892,11 +2892,11 @@ Mesterséges tárgyak: csövek, vízvezeték, padlófűtés stb. mint negatív f
 
 – A különböző tradicionális bioenergetikai iskolák tanításának összevetése.
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-A vizsgázók teljesítményének értékelése
+A vizsgázók teljesítményének értékelése[^41]
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 FITOTERÁPIA TOVÁBBKÉPZÉS
 
@@ -2942,7 +2942,7 @@ A hallgató legyen képes:
 
 – információs, dokumentációs feladatot ellátni.
 
-A vizsga részei
+A vizsga részei[^42]
 
 Gyakorlati vizsga:
 
@@ -3028,11 +3028,11 @@ Elméleti szóbeli vizsga témakörei:
 
 – Apiterápia.
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-A vizsgázók teljesítményének értékelése
+A vizsgázók teljesítményének értékelése[^43]
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS
 
@@ -3106,7 +3106,7 @@ Egyéb követelmények:
 
 – A kezelés eszköze: a fenti méreteknek megfelelő akupunktúrás tűk. Az akupunktúrás tűk újrafelhasználása esetén hőlégsterilizátor használata kötelező, így biztosított, hogy a tűk a sterilitás elveinek figyelembevételével mindig ugyanahhoz a kezelt személyhez tartozzanak (üvegfóliában tárolva, névazonosítóval ellátva, és papírvatta dugóval lezárva).
 
-A vizsga részei
+A vizsga részei[^44]
 
 Gyakorlati vizsga
 
@@ -3154,11 +3154,11 @@ III. Kínai pulzusdiagnózis alapjai
 
 A kezelési program megtervezése
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-A vizsgázók teljesítményének értékelése
+A vizsgázók teljesítményének értékelése[^45]
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 KINEZIOLÓGIAI TOVÁBBKÉPZÉS
 
@@ -3182,7 +3182,7 @@ EGÉSZSÉGÜGYI MODUL: megegyezik az akupresszőr szakképesítés egészségüg
 
 TERMÉSZETGYÓGYÁSZATI MODUL: megegyezik az akupresszőr szakképesítés természetgyógyászati moduljával.
 
-A vizsga részei
+A vizsga részei[^46]
 
 Gyakorlati vizsga
 
@@ -3240,11 +3240,11 @@ Szakmai elméleti vizsga témakörei
 
 – Képességfejlesztés.
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-A vizsgázók teljesítményének értékelése
+A vizsgázók teljesítményének értékelése[^47]
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 SZEMTRÉNING TOVÁBBKÉPZÉS
 
@@ -3306,7 +3306,7 @@ A hallgató legyen képes:
 
 – alkalmazni relaxációs ismereteit.
 
-A vizsga részei
+A vizsga részei[^48]
 
 Gyakorlati vizsga
 
@@ -3352,11 +3352,31 @@ Elméleti-szóbeli vizsga témakörei
 
 – Életmód tanácsadás.
 
-A konkrét szakmai tételeket az ENKK adja ki.
+A konkrét szakmai tételeket az ÁEEK adja ki.
 
-A vizsgázók teljesítményének értékelése
+A vizsgázók teljesítményének értékelése[^49]
 
-A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ÁEEK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 [^28]: A 4. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
-[^29]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.
+[^29]: A 4. számú melléklet „AKUPRESSZŐR” szakképesítés IV. rész 3. pont záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ea) alpontja szerint módosított szöveg.
+[^30]: A 4. számú melléklet „AKUPRESSZŐR” szakképesítés IV. rész 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont eb) alpontja szerint módosított szöveg.
+[^31]: A 4. számú melléklet „ALTERNATÍV MOZGÁS- ÉS MASSZÁZSTERÁPEUTA” szakképesítés IV. rész 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ec) alpontja szerint módosított szöveg.
+[^32]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.
+[^33]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 4. pont 4.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ed) alpontja szerint módosított szöveg.
+[^34]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 5. pontja az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ee) alpontja szerint módosított szöveg.
+[^35]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 3. pont záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont eg) alpontja szerint módosított szöveg.
+[^36]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 3. pont 3.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ef) alpontja szerint módosított szöveg.
+[^37]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont eh) alpontja szerint módosított szöveg.
+[^38]: A 4. számú melléklet „ALTERNATÍV FIZIOTERÁPIÁS TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ei) alpontja szerint módosított szöveg.
+[^39]: A 4. számú melléklet „ALTERNATÍV FIZIOTERÁPIÁS TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ej) alpontja szerint módosított szöveg.
+[^40]: A 4. számú melléklet „BIOENERGETIKUS TOVÁBBKÉPZÉS” rész „Szakmai vizsga részei” alcím záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ek) alpontja szerint módosított szöveg.
+[^41]: A 4. számú melléklet „BIOENERGETIKUS TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont el) alpontja szerint módosított szöveg.
+[^42]: A 4. számú melléklet „FITOTERÁPIA TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont em) alpontja szerint módosított szöveg.
+[^43]: A 4. számú melléklet „FITOTERÁPIA TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont en) alpontja szerint módosított szöveg.
+[^44]: A 4. számú melléklet „FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont eo) alpontja szerint módosított szöveg.
+[^45]: A 4. számú melléklet „FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ep) alpontja szerint módosított szöveg.
+[^46]: A 4. számú melléklet „KINEZIOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont eq) alpontja szerint módosított szöveg.
+[^47]: A 4. számú melléklet „KINEZIOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont er) alpontja szerint módosított szöveg.
+[^48]: A 4. számú melléklet „SZEMTRÉNING TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont es) alpontja szerint módosított szöveg.
+[^49]: A 4. számú melléklet „SZEMTRÉNING TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont et) alpontja szerint módosított szöveg.
