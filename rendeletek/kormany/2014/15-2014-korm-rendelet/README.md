@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-15-20-2
 | 2016-02-10 | 2014-15-20-22.8 | 15/2016. (II. 9.) Korm. rendelet |
 | 2016-07-14 | 2014-15-20-22.9 | 105/2014. (III. 26.) Korm. rendelet |
 | 2016-09-09 | 2014-15-20-22.10 | 271/2016. (IX. 1.) Korm. rendelet |
+| 2017-01-01 | 2014-15-20-22.11 | 380/2016. (XII. 2.) Korm. rendelet |

@@ -56,7 +56,7 @@
 
 10. útügyi hatósági eljárások,
 
-11.[^14] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+11.[^14] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -81,5 +81,5 @@
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
 [^13]: A 2. melléklet 8. pontját a 271/2016. (IX. 1.) Korm. rendelet 50. § (3) bekezdése hatályon kívül helyezte.
-[^14]: A 2. melléklet 11. pontja a 72/2015. (III. 30.) Korm. rendelet 74. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^14]: A 2. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 66. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
 [^15]: A 2. melléklet 20a. pontját a 15/2016. (II. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
