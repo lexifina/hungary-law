@@ -1,6 +1,0 @@
-5. § (1)[^3] Az igénylő az 1. számú melléklet szerinti igazolási kérelmet négy példányban a székhelye, illetve a lakóhelye szerint illetékes megyei Mezőgazdasági Szakigazgatási Hivatalhoz (a továbbiakban: MgSzH) nyújthatja be.
-
-(2)[^4] Az illetékes megyei MgSzH a benyújtott, 1. számú melléklet szerinti igazolási kérelmen a támogatási jogosultságot igazolja, és azt három eredeti példányban legkésőbb nyolc napon belül megküldi az igénylő részére.
-
-[^3]: [Az 5. § (1) bekezdésének a 70/2013. (VII. 31.) VM rendelet 71. § a) pontjával elrendelt módosítása, amely szerint a „a megyei Mezőgazdasági Szakigazgatási Hivatalhoz (a továbbiakban: MgSzH)” szövegrész helyébe a „a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságához (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság)” szöveg lép, nem vezethető át.]
-[^4]: Az 5. § (2) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (17) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni. [Az 5. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 71. § b) pontjával elrendelt módosítása, amely szerint a „a megyei MgSzH” szövegrész helyébe az „az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
