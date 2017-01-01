@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-25-20-2
 | 2013-12-01 | 2013-25-20-2W.5 | 65/2013. (X. 31.) NFM rendelet |
 | 2015-01-01 | 2013-25-20-2W.6 | 57/2014. (XII. 30.) NFM rendelet |
 | 2015-09-15 | 2013-25-20-2W.7 | 47/2015. (VIII. 31.) NFM rendelet |
+| 2017-01-01 | 2013-25-20-2W.8 | 47/2015. (VIII. 31.) NFM rendelet |
