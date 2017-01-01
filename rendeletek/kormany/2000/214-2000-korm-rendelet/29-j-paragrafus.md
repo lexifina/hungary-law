@@ -2,16 +2,21 @@
 
 29/J. § (1) Az eredménykimutatás előírt tagolását a 9. számú melléklet tartalmazza.
 
-(2) A kártalanításból származó bevételek között elkülönítetten kell kimutatni a Befektető-védelmi Alap tagjai által teljesítendő (a Befektető-védelmi Alap tagjaitól igényelt) éves befizetés összegét.
+(2)[^37] A kárrendezésből származó bevételek között elkülönítetten kell kimutatni a Befektető-védelmi Alap tagjai által teljesítendő (a Befektető-védelmi Alap tagjaitól igényelt) éves befizetés összegét.
 
-(3) A kártalanításból származó ráfordítások között elkülönítetten kell kimutatni:
+(3)[^38] A kárrendezésből származó ráfordítások között elkülönítetten kell kimutatni:
 
-a) a kártalanítás kifizetésével megbízott hitelintézetnek fizetett lebonyolítási díj összegét;
+a)[^39] a kárrendezés kifizetésével megbízott hitelintézetnek fizetett lebonyolítási díj összegét;
 
-b) a kártalanítás kifizetésével kapcsolatban felmerült egyéb költségek összegét.
+b)[^40] a kárrendezés kifizetésével kapcsolatban felmerült egyéb költségek összegét.
 
 (4) A tárgyévi költségeket a 9. számú melléklet szerinti bontásban kell kimutatni.
 
 (5) A Kárrendezési Alap tárgyévi eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
 
 (6) Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
+
+[^37]: A 29/J. § (2) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^38]: A 29/J. § (3) bekezdés nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^39]: A 29/J. § (3) bekezdés a) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^40]: A 29/J. § (3) bekezdés b) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

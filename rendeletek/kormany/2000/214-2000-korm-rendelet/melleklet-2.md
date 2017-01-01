@@ -1,4 +1,4 @@
-2. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^36]
+2. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^47]
 
 ## Az Országos Betétbiztosítási Alap eredménykimutatásának előírt tagolása
 
@@ -44,4 +44,4 @@ VIII. Pénzügyi műveletek ráfordításai
 
 IX. Működési költségek (10+11+12)
 
-[^36]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^47]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

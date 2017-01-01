@@ -1,13 +1,18 @@
-29/I. § (1) A Kárrendezési Alap saját tőkéje a jegyzett tőkét, a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+29/I. § (1)[^33] A Kárrendezési Alap saját tőkéje a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
 
-(2) Jegyzett tőkeként kell kimutatni a létesítő okiratban ekként meghatározott összeget.
+(2)[^34]
 
-(3) Tartalékként kell kimutatni a 29/H. § (4) bekezdés szerinti követelések és a Kárrendezési Alap által a károsultak részére fizetendő kártalanítás miatti kötelezettségek összegének különbözetét. A tartalékot módosítja az előző üzleti év eredménye is.
+(3)[^35] Tartalékként kell kimutatni a 29/H. § (4) bekezdés szerinti követelések és a Kárrendezési Alap által a károsultak részére fizetendő kárrendezés miatti kötelezettségek összegének különbözetét. A tartalékot módosítja az előző üzleti év eredménye is.
 
 (4) A hosszú lejáratú kötelezettségek között külön kell kimutatni a Kárrendezési Alap által kibocsátott kötvények miatt fennálló kötelezettségek éven túli összegeit.
 
 (5) A rövid lejáratú kötelezettségek között külön kell kimutatni a Kárrendezési Alap által kibocsátott kötvények, a Magyar Nemzeti Banktól felvett áthidaló kölcsön és a Befektető-védelmi Alaptól a működési költségek átmeneti biztosítása érdekében kapott kölcsön éven belül lejáró összegét.
 
-(6) A károsult ügyfelekkel szembeni kötelezettségek között kell kimutatni a részükre fizetendő kártalanítás még ki nem fizetett összegét.
+(6)[^36] A károsult ügyfelekkel szembeni kötelezettségek között kell kimutatni a részükre fizetendő kárrendezés még ki nem fizetett összegét.
 
 (7) Az egyéb rövid lejáratú kötelezettségek között kell kimutatni minden olyan rövid lejáratú kötelezettséget, amelyet a 8. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+[^33]: A 29/I. § (1) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
+[^34]: A 29/I. § (2) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^35]: A 29/I. § (3) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^36]: A 29/I. § (6) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

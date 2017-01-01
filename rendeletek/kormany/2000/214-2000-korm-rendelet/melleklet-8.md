@@ -1,6 +1,6 @@
 ## A. Tárgyévi eredmény (I+II+III-IV-V-VI-VII)
 
-8. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^43]
+8. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^54]
 
 ## A Kárrendezési Alap mérlegének előírt tagolása
 
@@ -74,13 +74,11 @@ FORRÁSOK (PASSZÍVÁK)
 
 D. Saját tőke
 
-I. Jegyzett tőke
+I. Tartalék
 
-II. Tartalék
+II. Értékelési tartalék
 
-III. Értékelési tartalék
-
-IV. Tárgyévi eredmény
+III. Tárgyévi eredmény
 
 ## E. Céltartalék
 
@@ -106,4 +104,4 @@ II. Rövid lejáratú kötelezettségek
 
 G. Passzív időbeli elhatárolások
 
-[^43]: A 8. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 16. § (8) bekezdése iktatta be.
+[^54]: A 8. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 16. § (8) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
