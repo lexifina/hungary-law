@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2-20-06
 | 2015-03-02 | 2015-2-20-06.2 | 2010: CXXX. törvény |
 | 2016-01-01 | 2015-2-20-06.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-08-03 | 2015-2-20-06.4 | 17/2016. (VIII. 2.) IM rendelet |
+| 2017-01-01 | 2015-2-20-06.5 | 23/2016. (XII. 21.) IM rendelet |
