@@ -1,1 +1,0 @@
-## naplózni kell.

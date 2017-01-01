@@ -1,3 +1,0 @@
-64. § (1) A biztonságos kézbesítési szolgáltatás igénybevételével kézbesített iratnál az átvételre, a visszaigazolás megtételére jogszabály eltérő rendelkezése hiányában legalább 5 napot kell biztosítani. Amennyiben a címzett a küldeményt a határidőn belül nem veszi át, s az átvételt nem tagadja meg, akkor a kézbesítést ismételten meg kell kísérelni.
-
-(2) Jogszabály egyes hivatalos iratok benyújtását, így különösen az adó- és járulék bevallásokkal kapcsolatos bevallások megküldését biztonságos kézbesítési szolgáltatásnak nem minősülő elektronikus kézbesítési szolgáltatás alkalmazása esetén is lehetővé teheti, az átvétel tényének és idejének külön szabályozott módon történő igazolásával.

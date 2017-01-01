@@ -1,1 +1,0 @@
-## 155/H. § A félnek a küldemény átvételére jogosult meghatalmazottjának kell tekinteni azt a dokumentumot vagy tértivevényt (küldeményt) fogadó személyt, aki részére a fél vagy a perkapu-megbízott az adott perkapuhoz hozzáférést biztosított.

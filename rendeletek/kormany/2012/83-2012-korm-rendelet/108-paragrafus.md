@@ -1,3 +1,0 @@
-## 107. §[^69] Papír alapú ügyintézés esetén az elektronikus űrlapon adott meghatalmazásról a SZEÜSZ szolgáltató az ügyfél vagy meghatalmazottja kérelmére az eljáró hatóság számára a meghatalmazás érvényességének az elektronikus ügyintézés részletes szabályairól szóló kormányrendeletben előírt, a rendelkezési nyilvántartásban történő lekérdezése céljából képi formátumú elektronikus, valamint papír alapú hiteles vagy nem hiteles másolat készítését biztosítja. A papír alapú másolaton a meghatalmazás nyilvántartási azonosítóját is fel kell tüntetni.
-
-[^69]: A 107. § a 169/2015. (VI. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

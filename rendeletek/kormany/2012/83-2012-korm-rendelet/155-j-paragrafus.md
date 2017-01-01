@@ -1,1 +1,0 @@
-## 155/I. § Ha a perkapu szolgáltatást a fél nem böngészőn keresztül, hanem erre szolgáló, automatizált célrendszerrel használja, a 155/G. § (1) bekezdés szerinti postafiókhoz hozzáférést biztosító azonosító bizalmas kezelése a fél felelősségébe tartozik.

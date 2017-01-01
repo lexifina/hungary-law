@@ -1,5 +1,0 @@
-25. § (1) Ha az ügyfél az ügyintézési rendelkezéseket nyilvántartó szerv által nyújtott időszaki értesítés szolgáltatás általi rendszeres értesítését igényelte, a 23. § szerinti tájékoztatást az ügyintézési rendelkezéseket nyilvántartó szerv a hatóságok nevében, a (2) bekezdés szerinti tájékoztatások alapján egységes formában adja meg az ügyfélnek. Az értesítés tartalmazza az arra vonatkozó utalást, hogy az értesítés csak a 24. § (1) bekezdés szerinti hatóságok adataira terjed ki.
-
-(2) Ha az ügyfél a SZEÜSZ szolgáltató általi értesítést igényelte, az értesítéshez szükséges adatokat az (1) bekezdés szerinti szolgáltatás szolgáltatója kéri le a hatóságoktól és az érintett más SZEÜSZ-ök nyújtóitól. A hatóságok és SZEÜSZ szolgáltatók kötelesek az adott időszakban történt, a 23. § szerinti eseményekről az ügyintézési rendelkezéseket nyilvántartó szerv általi időszaki értesítés szolgáltatás nyújtóját elektronikus úton tájékoztatni.
-
-(3) A (2) bekezdés szerinti adatszolgáltatást megelőzően a hatóság a rendelkezési nyilvántartásban ellenőrzi az adatközléshez a hozzájárulást.
