@@ -1,0 +1,5 @@
+## 42. § Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működéséről szóló 5/2015. (II. 27.) NGM rendelet 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha a terméket a termelő külön jogszabály szerint elismert termelői csoporton, termelői szervezeten keresztül értékesíti, vagy a terméket a megyei kormányhivatal földművelésügyi feladatkörében eljáró megyeszékhely szerinti járási hivatala nyilvántartásában szereplő Integrátor szervezet részére értékesíti, az (1) bekezdés c) pontját a termelői csoport, termelői szervezet, vagy a megyei kormányhivatal földművelésügyi feladatkörében eljáró megyeszékhely szerinti járási hivatala nyilvántartásában szereplő Integrátor szervezet által történő termékértékesítésre kell alkalmazni.”
+
+## 43. Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet módosítása

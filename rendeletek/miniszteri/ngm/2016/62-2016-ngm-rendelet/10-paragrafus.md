@@ -1,0 +1,3 @@
+## 9. § A háztartási villamos hűtőszekrényekre, fagyasztószekrényekre és ezek kombinációira vonatkozó energia-hatásfok követelményekről és megfelelőségük tanúsításáról szóló 5/2002. (II. 15.) GM rendelet 2. § c) pontjában a „Nemzeti Fogyasztóvédelmi Hatóság és a fogyasztóvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal” szövegrész helyébe a „fogyasztóvédelmi hatóság kijelöléséről szóló kormányrendeletben meghatározott hatóság” szöveg lép.
+
+## 10. A háztartási kombinált mosó-szárítógépek energiafelhasználásának ismérveiről való tájékoztatásról szóló 6/2002. (II. 15.) GM rendelet módosítása
