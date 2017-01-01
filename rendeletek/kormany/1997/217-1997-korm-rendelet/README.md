@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2016-07-23 | 1997-217-20-22.122 | 232/1998. (XII. 30.) Korm. rendelet |
 | 2016-09-01 | 1997-217-20-22.123 | 204/2016. (VII. 21.) Korm. rendelet |
 | 2016-12-24 | 1997-217-20-22.124 | 151/2010. (IV. 30.) Korm. rendelet |
+| 2017-01-01 | 1997-217-20-22.125 | 379/2016. (XII. 2.) Korm. rendelet |

@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. § (1)[^1] E rendelet hatálya kiterjed a biztosítottakra, az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP), az egészségbiztosítási pénztári feladatkörükben eljáró fővárosi és megyei kormányhivatalokra (a továbbiakban: kormányhivatal), továbbá a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra, gyógyszert és gyógyászati segédeszközt forgalmazó, illetve kiszolgáltató, gyógyászati ellátást nyújtó egészségügyi szolgáltatókra, a gyógyászati segédeszközt egyedi méretvétel alapján gyártó – egészségügyi szolgáltatónak nem minősülő – személyekre, továbbá a biztosított foglalkoztatójára, és annak társadalombiztosítási kifizetőhelyére (a továbbiakban: kifizetőhely).
+1. § (1)[^1] E rendelet hatálya kiterjed a biztosítottakra, az egészségügyért felelős miniszter által vezetett minisztériumra (a továbbiakban: minisztérium), a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK), az egészségbiztosítási pénztári feladatkörében eljáró Országos Nyugdíjbiztosítási Főigazgatóságra (a továbbiakban: ONYF), az egészségbiztosítási pénztári feladatkörükben eljáró fővárosi és megyei kormányhivatalra (a továbbiakban: kormányhivatal), a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró járási (fővárosi kerületi) hivatalára, továbbá a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra, gyógyszert és gyógyászati segédeszközt forgalmazó, illetve kiszolgáltató, gyógyászati ellátást nyújtó egészségügyi szolgáltatókra, a gyógyászati segédeszközt egyedi méretvétel alapján gyártó – egészségügyi szolgáltatónak nem minősülő – személyekre, továbbá a biztosított foglalkoztatójára, és annak társadalombiztosítási kifizetőhelyére (a továbbiakban: kifizetőhely).
 
 (2)[^2] E rendelet alkalmazásában
 
@@ -22,7 +22,7 @@ f)[^8] funkcionális csoport: az MSZ EN ISO 9999 szabvány szerinti ötödik szi
 
 g)[^9] funkcionális elv szerinti fixcsoport: funkcionális csoport vagy funkcionális alcsoport szintjén megképzett támogatási csoport,
 
-h)[^10] közfinanszírozás alapjául elfogadott ár: az OEP által az árhoz nyújtott támogatás számításához figyelembe vett nettó összeg,
+h)[^10] közfinanszírozás alapjául elfogadott ár: a NEAK által az árhoz nyújtott támogatás számításához figyelembe vett nettó összeg,
 
 i)[^11] rendeltetés szerinti fixcsoport: rendeltetési csoport szintjén megképzett támogatási csoport,
 
@@ -30,7 +30,7 @@ j)[^12] rendeltetési csoport: az MSZ EN ISO 9999 szabvány szerinti negyedik sz
 
 k)[^13] rövid használati idejű eszköz: hat hónapnál nem hosszabb kihordási idejű, egyszer használatos eszköznek nem minősülő gyógyászati segédeszköz,
 
-l)[^14] kombinált kiszerelés: olyan gyógyászati segédeszköz, amely úgy jön létre, hogy a forgalomba hozó kettő vagy több, általa forgalomba hozott, azonos kihordási idejű, egyszer használatos vagy rövid használati idejű eszközt – az eszközök csomagolására vonatkozó szabályok betartásával – gyárilag egy kiszerelésbe helyez, és e kiszerelésre vonatkozóan a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 32. §-a szerinti külön kérelmet nyújt be az OEP-hez,
+l)[^14] kombinált kiszerelés: olyan gyógyászati segédeszköz, amely úgy jön létre, hogy a forgalomba hozó kettő vagy több, általa forgalomba hozott, azonos kihordási idejű, egyszer használatos vagy rövid használati idejű eszközt – az eszközök csomagolására vonatkozó szabályok betartásával – gyárilag egy kiszerelésbe helyez, és e kiszerelésre vonatkozóan a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 32. §-a szerinti külön kérelmet nyújt be a NEAK-hoz,
 
 m)[^15] baleset: balesetnek minősül az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy rövid idő alatt következik be, és sérülést, mérgezést, más (testi, lelki) egészségkárosodást vagy halált okoz,
 
@@ -42,21 +42,43 @@ p)[^18] keresőtevékenység: a társadalombiztosítás ellátásaira és a mag�
 
 (3)[^19] A (2) bekezdésben foglaltakon túl e rendelet alkalmazásában az Ebtv. 5/B. §-ában foglalt fogalommeghatározásokat kell figyelembe venni.
 
-(4)[^20] A Kormány egészségbiztosítóként – ha kormányrendelet ettől eltérően nem rendelkezik – az OEP-et jelöli ki az Ebtv. 5/B. § n) pontjában, 9. §-ában, 20. § (1) bekezdésében, 20/A. § (3), (8) és (10) bekezdésében, 21. § (1) bekezdés a) pont aa) alpontjában, b) és e) pontjában, 26. § (1) és (2) bekezdésében, 27. § (6) és (10) bekezdésében, 30. §-ában, 30/A. §-ában, 31. § (2) és (7) bekezdésében, 32. §-ában, 35. § (4)–(5) és (7) bekezdésében, 36. § (1)–(2) és (6)–(9) bekezdésében, 38. § (1)–(2) és (4)–(6) bekezdésében, 38/A. §-ában, 38/C. §-ában, 65. § (2) bekezdésében, 70. § (1) bekezdés c) pontjában és (5) bekezdésében,, 79/A. §-ában, 80. § (1) bekezdésében, 82. § (2) bekezdésében foglalt feladatok ellátására.
+(4)[^20] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként – ha kormányrendelet ettől eltérően nem rendelkezik – a NEAK-ot jelöli ki az Ebtv. 5/B. § n) pontjában, 9. §-ában, 19/A. § (4) bekezdésében, 20. § (1) bekezdésében, 20/A. § (3) és (10) bekezdésében, 21. § (1) bekezdés a) pont aa) alpontjában, b), d), e) és f) pontjában, 21/A. § (1) bekezdésében, 26. § (1) és (2)–(2b) bekezdésében, 27. § (6) és (10) bekezdésében, 30. §-ában, 30/A. §-ában, 31. § (2) és (7) bekezdésében, 32. §-ában, 35. § (4), (7) és (8) bekezdésében, 36. § (1)–(2), (4) és (6)–(9) bekezdésében, 38. § (1), (2) és (4)–(6) bekezdésében, 37. §-ában, 38/A. §-ában, 38/B. §-ában, 38/C. §-ában, 65. § (2) bekezdésében, 70. § (5) bekezdésében, 79/A. §-ában, 81. § (1) bekezdésében, 82. § (2) bekezdésében foglalt feladatok ellátására.
 
-(5)[^21] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a kormányhivatalt jelöli ki az Ebtv. 27. § (1) és (2) bekezdésében a 12. § (4) bekezdésében meghatározott feladatok kivételével, 27. § (5) és (7) bekezdésében, 39/B. § (1a) bekezdésében, 50. § (1)–(5) bekezdésében, 62. § (1a) bekezdésében és (2) bekezdés c) pontjában, 63. § (1) bekezdésében, 65. § (2) bekezdésében, 68/A. § (4) bekezdésében, 69. §-ában, 70. § (1) bekezdés b) pontjában, 70. § (4) bekezdésében, 72. § (1) bekezdésében, 80. § (4) és (5) bekezdésében, 81. § (1) bekezdésében foglalt feladatok ellátására.
+(5
 
-(6)[^22] A Kormány egészségbiztosítóként az OEP-et és a kormányhivatalt együtt jelöli ki az Ebtv. 5. §-ában, 27. § (11) bekezdésében, 70. § (1) bekezdés a) pontjában, 70. § (3) bekezdésében, 72. § (2) bekezdésében, 79. § (1) és (3) bekezdésében, 80. § (2) bekezdésében foglalt feladatok ellátására.
+(4a)[^21] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a minisztériumot jelöli ki az Ebtv. 36. § (3) bekezdésében foglalt feladatok ellátására.
 
-(7)[^23] A Kormány vasutas egészségbiztosítási szervként az egészségbiztosítási pénztári feladatkörében eljáró Budapest Főváros Kormányhivatalát (a továbbiakban: fővárosi kormányhivatal) jelöli ki az Ebtv. 70. § (3) és (4) bekezdésében foglalt feladatok ellátására.
+(5)[^22] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a kormányhivatalt jelöli ki a 12. § (4) bekezdésben meghatározott feladatok kivételével az Ebtv. 27. § (1), (2), (5) és (7) bekezdésében, 35. § (5) bekezdésében 50. § (1)–(5) bekezdésében, 68/A. § (4) bekezdésében, 69. §-ában, 70. § (1) bekezdés a) és b) pontjában, 70. § (3) és (4) bekezdésében, 72. § (1) és (2) bekezdésében, 81. § (1) bekezdésében foglalt feladatok ellátására.
 
-(8)[^24] A 38/A. § (1) és (3) bekezdésében, a 40. § (2) bekezdésében, a 49. § (2) bekezdésében, a 49/A. §-ban és a 49/B. §-ban, valamint az Ebtv. 81. § (1) bekezdésében foglalt esetekben a kormányhivatalok mint kifizetőhelyek tekintetében az OEP jár el.
+(5a)[^23] A Kormány egészségbiztosítóként és egészségbiztosítási szervként Budapest Főváros Kormányhivatalát jelöli ki az Ebtv. 70. § (1) bekezdés c) pontjában foglalt feladatok ellátására.
 
-(9)[^25] A kifizetőhelyek eljárására – az Ebtv.-ben foglalt eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(6)[^24] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a NEAK-ot, az ONYF Központját, a kormányhivatalt és a (7) bekezdés szerinti járási hivatalt együtt jelöli ki az Ebtv. 5. §-a, 79. § (1) és (3) bekezdésében, 80. § (1) és (2) bekezdésében foglalt feladatok ellátására.
 
-(10)[^26]
+(7)[^25] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatalát, illetve a fővárosban XIII. Kerületi Hivatalt (a továbbiakban együtt: járási hivatal) jelöli ki az Ebtv. 39/B. § (1a) bekezdésében, 62. § (1a) bekezdésében, 63. § (1) bekezdésében, 65. § (2) bekezdésében, 80. § (3)–(6) bekezdésében foglalt feladatok ellátására, azzal, hogy a járási hivatal ezen feladatait a megye, illetve a főváros egész területére kiterjedő illetékességi területen látja el.
 
-[^1]: A Vhr. 1. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 254/2013. (VII. 5.) Korm. rendelet 17. § a) pontja, a 192/2015. (VII. 21.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+(7a)[^26] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként az Ebtv. 62. § (2) bekezdés c) pontja szerinti
+
+a) folyósítási feladatok ellátására a kormányhivatalt,
+
+b) elbírálási feladatok ellátásra a járási hivatalt
+
+jelöli ki.
+
+(7b)[^27] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a járási hivatalt jelöli ki az Ebtv. 27. § (11) bekezdésében foglalt feladatok ellátására.
+
+(7c)[^28] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a kormányhivatalt és a járási hivatalt együtt jelöli ki az Ebtv. 81. § (2) bekezdésében foglalt feladatok ellátására.
+
+(7d)[^29] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a NEAK-ot és a kormányhivatalt együtt jelöli ki az Ebtv. 71. § (1) és (2) bekezdésében, 72. § (2) bekezdésében foglalt feladatok ellátására.
+
+(7e)[^30] A Kormány vasutas egészségbiztosítási szervként az Ebtv. 70. § (3) és (4) bekezdésében foglalt feladatok ellátására Budapest Főváros Kormányhivatala egészségbiztosítási pénztári feladatkörében eljáró XIII. Kerületi Hivatalát jelöli ki.
+
+(8)[^31] A 38/A. § (1) és (3) bekezdésében, a 40. § (2) bekezdésében, a 49. § (2) bekezdésében, a 49/A. §-ban és a 49/B. §-ban, valamint az Ebtv. 81. § (1) bekezdésében foglalt esetekben a kormányhivatalok mint kifizetőhelyek tekintetében az ONYF Központja jár el.
+
+(9)[^32] A kifizetőhelyek eljárására – az Ebtv.-ben foglalt eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+(10)[^33]
+
+[^1]: A Vhr. 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^2]: A Vhr. 1. §-ának (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A Vhr. 1. § (2) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^4]: A Vhr 1. § (2) bekezdés b) pont ba) alpontját a 254/2013. (VII. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
@@ -65,20 +87,27 @@ p)[^18] keresőtevékenység: a társadalombiztosítás ellátásaira és a mag�
 [^7]: A Vhr. 1. § (2) bekezdés e) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^8]: A Vhr. 1. § (2) bekezdés f) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^9]: A Vhr. 1. § (2) bekezdés g) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
-[^10]: A Vhr. 1. § (2) bekezdés h) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A Vhr. 1. § (2) bekezdés h) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^11]: A Vhr. 1. § (2) bekezdés i) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A Vhr. 1. § (2) bekezdés j) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^13]: A Vhr. 1. § (2) bekezdés k) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
-[^14]: A Vhr. 1. § (2) bekezdés l) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 464/2016. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^14]: A Vhr. 1. § (2) bekezdés l) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés b) pontja, a 464/2016. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^15]: A Vhr. 1. § (2) bekezdés m) pontját a 254/2013. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^16]: A Vhr. 1. § (2) bekezdés n) pontját az 520/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^17]: A Vhr. 1. § (2) bekezdés o) pontját az 520/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^18]: A Vhr. 1. § (2) bekezdés p) pontját a 364/2014. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^19]: A Vhr. 1. §-ának (3) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^20]: A Vhr. 1. § (4) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 111/2011. (VII. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 254/2013. (VII. 5.) Korm. rendelet 17. § c) pontja, a 339/2013. (IX. 25.) Korm. rendelet 5. § a) pontja, az 520/2013. (XII. 30.) Korm. rendelet 19. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés a) pontja, (11) bekezdés a) pontja szerint módosított szöveg.
-[^21]: A Vhr. 1. § (5) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^22]: A Vhr. 1. § (6) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^23]: A Vhr. 1. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg. [A 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés c) pontjával elrendelet módosítás, amely szerint „a fővárosi kormányhivatal egészségbiztosítási szakigazgatási szervét” szövegrész helyébe az „a fővárosi kormányhivatalt” szöveg lép, nem vezethető át.]
-[^24]: A Vhr. 1. § új (8) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatta, szövege a 366/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 254/2013. (VII. 5.) Korm. rendelet 17. § e) pontja, a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés d) pontja szerint módosított szöveg.
-[^25]: A Vhr. 1. §-ának (8) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (9) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 130. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^26]: A Vhr. 1. §-ának (9) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (10) bekezdésre változtatta. A Vhr. 1. §-ának (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte; ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A Vhr. 1. § (4) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^21]: A Vhr. 1. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^22]: A Vhr. 1. § (5) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^23]: A Vhr. 1. § (5a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^24]: A Vhr. 1. § (6) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^25]: A Vhr. 1. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^26]: A Vhr. 1. § (7a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^27]: A Vhr. 1. § (7b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^28]: A Vhr. 1. § (7c) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^29]: A Vhr. 1. § (7d) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^30]: A Vhr. 1. § (7e) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^31]: A Vhr. 1. § új (8) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatta, szövege a 366/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 254/2013. (VII. 5.) Korm. rendelet 17. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A Vhr. 1. §-ának (8) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (9) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 130. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A Vhr. 1. §-ának (9) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (10) bekezdésre változtatta. A Vhr. 1. §-ának (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte; ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

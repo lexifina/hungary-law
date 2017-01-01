@@ -1,4 +1,4 @@
-47. § (1)[^527] A táppénzre jogosult biztosítottnak az üzemi balesetnek nem minősülő balesetéről – az előírt nyomtatványon – nyilatkoznia kell. A nyilatkozatnak a következő adatokat kell tartalmaznia:
+47. § (1)[^565] A táppénzre jogosult biztosítottnak az üzemi balesetnek nem minősülő balesetéről – az előírt nyomtatványon – nyilatkoznia kell. A nyilatkozatnak a következő adatokat kell tartalmaznia:
 
 a) a sérült nevét, természetes személyazonosító adatait, lakcímét,
 
@@ -12,10 +12,10 @@ volt vagy van-e folyamatban a balesettel kapcsolatban hatósági (rendőrségi, 
 
 e) a balesetből eredő betegsége, sérülése miatt hol látták el, illetőleg kezelték (egészségügyi szolgáltató neve, címe).
 
-(2)[^528] Az (1) bekezdésben említett nyilatkozatot a táppénzfolyósító szerv megkeresésére a táppénzben részesülő személy kiállítja és tizenöt napon belül visszajuttatja a folyósító szervhez. Ha a táppénzt folyósító a nyilatkozatban foglaltak alapján azt állapítja meg, hogy a balesetet nem a biztosított, hanem más személy okozta, a nyilatkozatot további intézkedésre a foglalkoztató székhelye szerint illetékes kormányhivatalnak küldi meg, a baleset miatt folyósított táppénzre vonatkozó adatok közlésével együtt.
+(2)[^566] Az (1) bekezdésben említett nyilatkozatot a táppénzfolyósító szerv megkeresésére a táppénzben részesülő személy kiállítja és tizenöt napon belül visszajuttatja a folyósító szervhez. Ha a táppénzt folyósító a nyilatkozatban foglaltak alapján azt állapítja meg, hogy a balesetet nem a biztosított, hanem más személy okozta, a nyilatkozatot további intézkedésre a foglalkoztató székhelye szerint illetékes kormányhivatalnak küldi meg, a baleset miatt folyósított táppénzre vonatkozó adatok közlésével együtt.
 
-(3)[^529]
+(3)[^567]
 
-[^527]: A Vhr. 47. § (1) bkezdés nyitó szövegrésze a 192/2015. (VII. 21.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
-[^528]: A Vhr. 47. § (2) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 3. § (6) bekezdésével megállapított, a 172/2016. (VII. 1.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^529]: A Vhr. 47. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § b) pontja.
+[^565]: A Vhr. 47. § (1) bkezdés nyitó szövegrésze a 192/2015. (VII. 21.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^566]: A Vhr. 47. § (2) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 3. § (6) bekezdésével megállapított, a 172/2016. (VII. 1.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^567]: A Vhr. 47. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § b) pontja.
