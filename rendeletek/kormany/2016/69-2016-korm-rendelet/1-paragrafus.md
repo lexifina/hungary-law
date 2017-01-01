@@ -13,3 +13,7 @@ d) a települési önkormányzatok társulására,
 e) a hulladékgazdálkodási létesítmény tulajdonosára, valamint
 
 f) az ingatlanhasználóra
+
+g)[^1] az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény (a továbbiakban: 2013. évi CXXXIV. törvény) alapján ideiglenes ellátást végző közérdekű szolgáltatóra
+
+[^1]: Az 1. § g) pontját a 330/2016. (XI. 4.) Korm. rendelet 9. §-a iktatta be.
