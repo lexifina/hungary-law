@@ -1,12 +1,14 @@
 67. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat, továbbá
+a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat,
 
-b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették.
+b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették, továbbá
+
+c) határozza meg az elismerési és honosítási eljárásban a kérelemmel benyújtandó dokumentumok körét, e dokumentumok hiteles fordítására és hiteles másolatára vonatkozó szabályokat, a külföldön kiállított okiratok felhasználására, a nemzetközi jogsegélyre vonatkozó szabályokat,
 
 (2) Felhatalmazást kap az oktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
-a)
+a) az adópolitikáért felelős miniszterrel egyetértésben a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról szóló hatósági bizonyítványok kiállításához kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 
 b) azon hazai szakmai képesítések felsorolását, amelyek esetében az eljáró hatóság maga dönthet arról, hogy a kérelmezőnek alkalmassági vizsgát vagy alkalmazkodási időszakot kell-e teljesítenie,
 
