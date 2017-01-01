@@ -1,5 +1,3 @@
-131. § (1)[^416] A költségvetési szerv az általa beszedett központosított bevételt – ha jogszabály eltérően nem rendelkezik – köteles minden hónap 20-áig a Kincstár által megjelölt fizetési számlára átutalni.
+131. §[^438]
 
-(2) A Kincstár a beszedett központosított bevételek halmozott forgalmáról havonta tájékoztatja a beszedésért felelős fejezetet irányító szervet.
-
-[^416]: Az Ávr. 131. §-a a 397/2014. (XII. 31.) Korm. rendelet 44. § 41. pontja szerint módosított szöveg.
+[^438]: Az Ávr. 131. §-át a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 7. pontja hatályon kívül helyezte.

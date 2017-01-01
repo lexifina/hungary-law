@@ -1,6 +1,6 @@
 76. § (1) A támogatási szerződésben meg kell határozni az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, ha azokról jogszabály nem rendelkezik, így különösen
 
-a)[^281] a támogatott tevékenységet,
+a)[^300] a támogatott tevékenységet,
 
 b) a költségvetési támogatás összegét, a támogatási intenzitást, az elszámolható költségeket,
 
@@ -24,7 +24,7 @@ k) a támogatási szerződés felmondásának, illetve az attól történő elá
 
 (2) A támogatási szerződésben – az európai uniós forrásból finanszírozott eszközbeszerzések kivételével – szerepeltetni kell, hogy a kedvezményezett a támogatott tevékenység megvalósítása során a költségvetési támogatás és – saját forrás jogszabály, pályázati kiírás vagy a támogató által történő előírása esetén – a saját forrás terhére a százezer forint értékhatárt meghaladó értékű, áru beszerzésére vagy szolgáltatás megrendelésére irányuló szerződést kizárólag írásban köthet. E bekezdés alkalmazásában írásban kötött szerződésnek minősül az elküldött és visszaigazolt megrendelés is. Az írásbeli alak megsértésével kötött szerződés teljesítése érdekében történt kifizetés összege a támogatott tevékenység költségei között nem vehető figyelembe.
 
-(3)[^282] A (2) bekezdést nem kell alkalmazni a Kormány által kihirdetett, tömeges bevándorlás okozta válsághelyzet kapcsán végzett humanitárius tevékenységgel összefüggésben nyújtott költségvetési támogatásokra.
+(3)[^301] A (2) bekezdést nem kell alkalmazni a Kormány által kihirdetett, tömeges bevándorlás okozta válsághelyzet kapcsán végzett humanitárius tevékenységgel összefüggésben nyújtott költségvetési támogatásokra.
 
-[^281]: Az Ávr. 76. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^282]: Az Ávr. 76. § (3) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^300]: Az Ávr. 76. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^301]: Az Ávr. 76. § (3) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 10. §-a iktatta be.

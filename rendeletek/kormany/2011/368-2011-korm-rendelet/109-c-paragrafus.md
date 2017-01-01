@@ -1,4 +1,4 @@
-109/C. §[^334] (1) Az ellenőrzés vezetője felelős
+109/C. §[^360] (1) Az ellenőrzés vezetője felelős
 
 a) a helyszíni ellenőrzés előkészítéséért, a helyszíni ellenőrzés megszervezéséért,
 
@@ -46,4 +46,4 @@ c) az ellenőrökkel együttműködni és velük folyamatosan kapcsolatot tartan
 
 d) a rendelkezésre bocsátott dokumentáció (iratok, okiratok, adatok) teljességéről felhívásra nyilatkozni.
 
-[^334]: Az Ávr. 109/C. §-át a 175/2015. (VII. 7.) Korm. rendelet 19. §-a iktatta be.
+[^360]: Az Ávr. 109/C. §-át a 175/2015. (VII. 7.) Korm. rendelet 19. §-a iktatta be.

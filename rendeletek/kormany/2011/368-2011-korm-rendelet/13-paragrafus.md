@@ -52,6 +52,10 @@ sajátos tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolg�
 
 (4) Ha a költségvetési szerv számára a (2) bekezdés b)–h) pontjában felsorolt tevékenységeket jogszabály alapján más költségvetési szerv alapfeladatként látja el vagy nyújtja, az adott tevékenységre vonatkozó szabályozást a feladatot ellátó költségvetési szervvel egyeztetett módon kell kiadni.
 
+(4a)[^62] Törvény vagy kormányrendelet eltérő rendelkezése hiányában az újonnan alapított költségvetési szerv, helyi nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács az (1)–(4) bekezdés szerinti szabályzatokat a megalakulás időpontjától számított harminc napon belül köteles elkészíteni. Jogszabály-módosítás esetén a szükséges változásokat a jogszabály hatálybalépését követő harminc napon belül kell a szabályzatokon átvezetni.
+
+(4b)[^63] Az (1)–(4) bekezdés szerinti szabályzatokat oly módon kell elkészíteni, hogy azokból megállapíthatóak legyenek a felelősségi körök, a javaslattételi, engedélyezési, jóváhagyási, kontroll és beszámoltatási eljárások.
+
 (5) A költségvetési szerv szervezeti egységei által ellátott feladatok munkafolyamatainak leírását, a szervezeti egység vezetőinek és alkalmazottainak feladat- és hatáskörét, a helyettesítés rendjét, továbbá a szervezeti egység költségvetési szerven belüli belső és azon kívüli külső kapcsolattartásának módját, szabályait – ha azokról a szervezeti és működési szabályzat vagy a költségvetési szerv más szabályzata nem rendelkezik – a szervezeti egységek ügyrendje tartalmazza.
 
 [^52]: Az Ávr. 13. § (1) bekezdés b) pontja a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 1. pontja szerint módosított szöveg.
@@ -64,3 +68,5 @@ sajátos tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolg�
 [^59]: Az Ávr. 13. § (2) bekezdés g) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
 [^60]: Az Ávr. 13. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^61]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^62]: Az Ávr. 13. § (4a) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^63]: Az Ávr. 13. § (4b) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 2. §-a iktatta be.

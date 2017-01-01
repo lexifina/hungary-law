@@ -12,7 +12,7 @@ d) – ha a költségvetési támogatás összege nem haladja meg a húszmillió
 
 e) – ha a pályázati kiírás ekként rendelkezik – a működési célú vagy kutatásra, fejlesztésre vagy innovációra irányuló költségvetési támogatásban részesülő bármely kedvezményezett részére,
 
-f)[^292] az Európai Hálózatfinanszírozási Eszközből származó forrás terhére megvalósuló projektek esetében végrehajtó szervként eljáró, a Polgári Törvénykönyv szerint többségi állami befolyás alatt álló gazdasági társaság esetében, ha az alábbi feltételek egyike teljesül:
+f)[^311] az Európai Hálózatfinanszírozási Eszközből származó forrás terhére megvalósuló projektek esetében végrehajtó szervként eljáró, a Polgári Törvénykönyv szerint többségi állami befolyás alatt álló gazdasági társaság esetében, ha az alábbi feltételek egyike teljesül:
 
 fa) a támogatásból létrejövő vagyon ingyenesen az állam, helyi önkormányzat vagy nemzetiségi önkormányzat kizárólagos tulajdonába, vasúti pályahálózat működtetője vagy közszolgáltatást ellátó gazdasági társaság kizárólagos tulajdonába kerül,
 
@@ -28,4 +28,4 @@ a) a kedvezményezett valamennyi – jogszabály alapján beszedési megbízáss
 
 b) bármely olyan eszköz – így különösen zálogjog kikötése, garancia, kezesség, óvadék –, amely biztosítja, hogy a támogató a költségvetési támogatás visszafizetésére vonatkozó igényét maradéktalanul, a lehető legrövidebb időn belül eredményesen tudja érvényesíteni.
 
-[^292]: Az Ávr. 84. § (1) bekezdés f) pontját a 264/2016. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.
+[^311]: Az Ávr. 84. § (1) bekezdés f) pontját a 264/2016. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.

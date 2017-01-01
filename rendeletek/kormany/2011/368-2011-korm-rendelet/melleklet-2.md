@@ -32,29 +32,29 @@
 
 ## 8. a központi költségvetés IX. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja,
 
-## 9. a központi költségvetés X. fejezeténél az Igazságügyi Minisztérium és a Kormánynak a Ktfr. 79. §-a szerinti tagja, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke,
+## 9.[^657] a központi költségvetés X. fejezeténél az Igazságügyi Minisztérium és a Kormánynak a Ktfr. 79. §-a szerinti tagja,
 
 ## 10. a központi költségvetés XI. fejezeténél – az a) és b) alpontban meghatározott kivétellel – a Miniszterelnökség és a Kormánynak a Ktfr. 4. §-a szerinti tagja,
 
 ## a) a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke,
 
-## b) a 32–34. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## b)[^658] a 32. cím 1–3. alcím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
 ## 11. a központi költségvetés XII. fejezeténél a Földművelésügyi Minisztérium és a Kormánynak a Ktfr. 65. §-a szerinti tagja,
 
 ## 12. a központi költségvetés XIII. fejezeténél a Honvédelmi Minisztérium és a Kormánynak a Ktfr. 77. §-a szerinti tagja,
 
-## 13. a központi költségvetés XIV. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja, a 21. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## 13.[^659] a központi költségvetés XIV. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja, a 21. cím 1. alcím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 14. a központi költségvetés XV. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## 14.[^660] a központi költségvetés XV. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke,
 
-## 15.[^618] a központi költségvetés XVI. fejezeténél a Nemzeti Adó- és Vámhivatal és az állami adó- és vámhatóság vezetője,
+## 15.[^661] a központi költségvetés XVI. fejezeténél a Nemzeti Adó- és Vámhivatal és az állami adó- és vámhatóság vezetője,
 
 ## 16. a központi költségvetés XVII. fejezeténél – az a) és b) alpontban meghatározott kivétellel – a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
 ## a) az Országos Atomenergia Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója,
 
-## b) a 21. és 25. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## b)[^662] a 21. cím 1. és 2. alcím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
 ## 17. a központi költségvetés XVIII. fejezeténél a Külgazdasági és Külügyminisztérium és a Kormánynak a Ktfr. 85. §-a szerinti tagja,
 
@@ -62,11 +62,11 @@
 
 ## 19. a központi költségvetés XX. fejezeténél – az a) és b) alpontban meghatározott kivétellel – az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja,
 
-## a) a 21. és 22. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## a)[^663] a 21. cím 1. és 2. alcím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## b) a 26. és 27. cím tekintetében az Országos Egészségbiztosítási Pénztár és annak vezetője,
+## b)[^664] a 21. cím 3. és 4. alcím tekintetében az egészségbiztosításért felelős miniszter,
 
-## 19a.[^619] a központi költségvetés XXI. fejezeténél a Miniszterelnöki Kabinetiroda és a Kormánynak a Ktfr. 19/B. §-a szerinti tagja,
+## 19a.[^665] a központi költségvetés XXI. fejezeténél a Miniszterelnöki Kabinetiroda és a Kormánynak a Ktfr. 19/B. §-a szerinti tagja,
 
 ## 20. a központi költségvetés XXX. fejezeténél a Gazdasági Versenyhivatal és annak elnöke,
 
@@ -90,19 +90,19 @@
 
 ## 30. a központi költségvetés LXIII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 30a.[^620] a központi költségvetés LXIV. fejezeténél a Kormánynak a Ktfr. 4. §-a szerinti tagja,
+## 30a.[^666]
 
-## 31.[^621] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
+## 31.[^667] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
 
 ## 32. a központi költségvetés LXVI. fejezeténél a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
 ## 33. a központi költségvetés LXVII. fejezeténél az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja,
 
-## 34. a központi költségvetés LXVIII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## 34.[^668]
 
 ## 35. a központi költségvetés LXXI. fejezeténél a Nyugdíjbiztosítási Alap tekintetében az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja, az 5. cím tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság és annak vezetője,
 
-## 36. a központi költségvetés LXXII. fejezeténél az Egészségbiztosítási Alap tekintetében az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja, az 5. cím tekintetében az Országos Egészségbiztosítási Pénztár és annak vezetője.
+## 36.[^669] a központi költségvetés LXXII. fejezeténél az Egészségbiztosítási Alap tekintetében az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja.
 
 ## II. Az államháztartás önkormányzati alrendszerében
 
@@ -122,7 +122,7 @@
 
 ## b) az országos nemzetiségi önkormányzat esetében az országos nemzetiségi önkormányzat képviselő-testülete és a képviselő-testület elnöke.
 
-2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^622]
+2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^670]
 
 Fejezetek megnevezése:
 
@@ -130,8 +130,17 @@ ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 
 Költségvetési év: ........
 
-[^618]: Az Ávr. 1. melléklet I. pont 15. alpontja a 486/2015. (XII. 29.) Korm. rendelet 34. §-a szerint módosított szöveg.
-[^619]: Az Ávr. 1. melléklet I. alcím 19a. pontját a 306/2015. (X. 26.) Korm. rendelet 3. §-a iktatta be.
-[^620]: Az 1. melléklet I. pont 30a. alpontját a 175/2015. (VII. 7.) Korm. rendelet 27. §-a iktatta be.
-[^621]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
-[^622]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított, a 465/2015. (XII. 29.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^657]: Az Ávr. 1. melléklet I. pont 9. alpontja a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^658]: Az Ávr. 1. melléklet I. pont 10. alpont b) pontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 26. pontja szerint módosított szöveg.
+[^659]: Az Ávr. 1. melléklet I. pont 13. alpontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 27. pontja szerint módosított szöveg.
+[^660]: Az Ávr. 1. melléklet I. pont 14. alpontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 28. pontja szerint módosított szöveg.
+[^661]: Az Ávr. 1. melléklet I. pont 15. alpontja a 486/2015. (XII. 29.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^662]: Az Ávr. 1. melléklet I. pont 16. alpont b) pontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 29. pontja szerint módosított szöveg.
+[^663]: Az Ávr. 1. melléklet I. pont 19. alpont a) pontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 30. pontja szerint módosított szöveg.
+[^664]: Az Ávr. 1. melléklet I. rész 19. pont b) alpontja a 379/2016. (XII. 2.) Korm. rendelet 192. § a) pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 31. pontja szerint módosított szöveg.
+[^665]: Az Ávr. 1. melléklet I. alcím 19a. pontját a 306/2015. (X. 26.) Korm. rendelet 3. §-a iktatta be.
+[^666]: Az 1. melléklet I. pont 30a. alpontját a 175/2015. (VII. 7.) Korm. rendelet 27. §-a iktatta be, hatályon kívül helyezte a 264/2016. (VIII. 31.) Korm. rendelet 26. § (1) bekezdés 6. pontja.
+[^667]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
+[^668]: Az 1. melléklet I. pont 34. alpontját a 264/2016. (VIII. 31.) Korm. rendelet 26. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^669]: Az Ávr. 1. melléklet I. pont 36. alpontja a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^670]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított, a 465/2015. (XII. 29.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.

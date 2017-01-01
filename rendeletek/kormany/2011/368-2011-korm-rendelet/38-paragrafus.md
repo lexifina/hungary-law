@@ -1,6 +1,6 @@
-## [Az Áht. 33. §-ához][^129]
+## [Az Áht. 33. §-ához][^136]
 
-38. §[^130] A fejezetet irányító szerv új fejezeti kezelésű előirányzatot vagy elkülönített állami pénzalap előirányzataként új előirányzatot hozhat létre, ha
+38. §[^137] A fejezetet irányító szerv új fejezeti kezelésű előirányzatot vagy elkülönített állami pénzalap előirányzataként új előirányzatot hozhat létre, ha
 
 a) év közben előre nem tervezett, az egységes rovatrend B1. Működési célú támogatások államháztartáson belülről, B2. Felhalmozási célú támogatások államháztartáson belülről, B6. Működési célú átvett pénzeszközök és B7. Felhalmozási célú átvett pénzeszközök rovatain elszámolandó bevételhez jut, vagy
 
@@ -8,5 +8,5 @@ b) más fejezeti kezelésű előirányzaton, elkülönített állami pénzalap e
 
 és a fejezeti kezelésű előirányzatok, elkülönített állami pénzalap előirányzatai között a tervezett új fejezeti kezelésű előirányzattal, elkülönített állami pénzalap előirányzatával azonos kiadási cél nem került jóváhagyásra.
 
-[^129]: Az Ávr. 38. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
-[^130]: Az Ávr. 38. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
+[^136]: Az Ávr. 38. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
+[^137]: Az Ávr. 38. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.

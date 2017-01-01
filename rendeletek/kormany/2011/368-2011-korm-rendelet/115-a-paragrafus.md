@@ -2,9 +2,11 @@
 
 ## AZ ÁLLAMHÁZTARTÁS ELLENŐRZÉSI RENDSZERE
 
-## [Az Áht. 68/B. §-ához][^354]
+## [Az Áht. 68/B. §-ához][^380]
 
-115/A. §[^355] A Kincstár a kincstári ellenőrzést az államháztartásért felelős miniszter által jóváhagyott éves ellenőrzési terv alapján végzi. A Kincstár az éves ellenőrzési tervet a tárgyévet megelőző év november 30-áig nyújtja be az államháztartásért felelős miniszternek.
+115/A. §[^381] (1) Az Áht. 68/B. §-a szerinti kincstári ellenőrzés során a Kincstár szabályszerűségi pénzügyi ellenőrzést végez.
 
-[^354]: Az Ávr. 115/A. §-át megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be, szövege a 175/2015. (VII. 7.) Korm. rendelet 28. § 19. pontja szerint módosított szöveg.
-[^355]: Az Ávr. 115/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
+(2) A Kincstár a kincstári ellenőrzést az államháztartásért felelős miniszter által jóváhagyott éves ellenőrzési terv alapján végzi. A Kincstár az éves ellenőrzési tervet a tárgyév március 31-éig nyújtja be az államháztartásért felelős miniszternek.
+
+[^380]: Az Ávr. 115/A. §-át megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be, szövege a 175/2015. (VII. 7.) Korm. rendelet 28. § 19. pontja szerint módosított szöveg.
+[^381]: Az Ávr. 115/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be, szövege a 499/2016. (XII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## [Az Áht. 49. §-ához][^261]
+## [Az Áht. 49. §-ához][^280]
 
-65/C. §[^262] (1) Az Áht. 49. §-a szerinti lebonyolító szervvel a fejezetet irányító szerv megállapodást köt. A megállapodásban rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, így különösen a feladat konkrét meghatározását, a felhasználás határidejét, valamint az elszámolással kapcsolatos szabályokat.
+65/C. §[^281] (1) Az Áht. 49. §-a szerinti lebonyolító szervvel a fejezetet irányító szerv megállapodást köt. A megállapodásban rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, így különösen a feladat konkrét meghatározását, a felhasználás határidejét, valamint az elszámolással kapcsolatos szabályokat.
 
 (2) A fejezetet irányító szerv a lebonyolítás céljából a Kincstárnál vezetett lebonyolítási számlára átutalja a megállapodásban meghatározott feladatok ellátásához szükséges összeget, amely felett a lebonyolító szerv rendelkezik. A lebonyolítási számla kizárólag a költségvetési támogatások kifizetésére vehető igénybe.
 
@@ -10,5 +10,5 @@
 
 (5) A feladat elvégzésének határidejét követően a lebonyolító szerv a lebonyolítás céljából rendelkezésére bocsátott összeggel elszámol. Az elszámolás során a lebonyolítási számla egyenlegét, továbbá a lebonyolítás céljából rendelkezésre bocsátott, nem rendeltetésszerűen felhasznált összeget vissza kell utalni a forrást biztosító fizetési számlára.
 
-[^261]: Az Ávr. 65/C. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^262]: Az Ávr. 65/C. §-át a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^280]: Az Ávr. 65/C. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^281]: Az Ávr. 65/C. §-át a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.

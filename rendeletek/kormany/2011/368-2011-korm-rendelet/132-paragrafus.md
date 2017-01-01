@@ -1,9 +1,9 @@
-132. §[^417] (1)[^418] A fejezetet irányító szerv az Áht. 81. § (5) bekezdése szerinti finanszírozási tervet a költségvetési év január 15-éig, majd ezt követően havonta a tárgyhónapot megelőző hónap 20-áig, fejezeti kezelésű előirányzatonként, havi, a tárgyhónapon belül dekádonkénti részletezésben nyújtja be a Kincstárnak.
+132. §[^439] (1)[^440] A fejezetet irányító szerv fejezeti kezelésű előirányzatonként finanszírozási tervet nyújt be a Kincstárnak a költségvetési év január 15-éig, majd ezt követően havonta a tárgyhónapot megelőző hónap 20-áig. A finanszírozási terv havi, a tárgyhónapon belül dekádonkénti részletezésben készül.
 
-(1a)[^419] A kifizetési ütem a tárgyhónapon belül az irányító szerv kérelmére módosítható. A módosításra irányuló kérelmet a kiadás várható teljesítés időpontját megelőző 10. napig kell benyújtani, amit a Kincstár elbírál. Az európai uniós forrásokból finanszírozott programok előirányzatainál a Kincstár a módosítást elbírálás nélkül végrehajtja.
+(1a)[^441] A kifizetési ütem a tárgyhónapon belül az irányító szerv kérelmére módosítható. A módosításra irányuló kérelmet a kiadás várható teljesítés időpontját megelőző 10. napig kell benyújtani, amit a Kincstár elbírál. Az európai uniós forrásokból finanszírozott programok előirányzatainál a Kincstár a módosítást elbírálás nélkül végrehajtja.
 
 (2) A Kincstár a finanszírozási terv feldolgozásáról vagy visszautasításáról visszaigazolást küld a fejezetet irányító szervnek. Kötelező a finanszírozási terv módosítása az előirányzatok módosítása, átcsoportosítása – kivéve, ha az előirányzat-átcsoportosítás a kiemelt előirányzatok közötti átcsoportosítására vonatkozik –, továbbá a finanszírozási tervben bejelentett kifizetési ütem módosítása esetén.
 
-[^417]: Az Ávr. 132. §-t megelőző alcím címet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 16. pontja hatályon kívül helyezte.
-[^418]: Az Ávr. 132. § (1) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 26. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^419]: Az Ávr. 132. § (1a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 11. §-a iktatta be.
+[^439]: Az Ávr. 132. §-t megelőző alcím címet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 16. pontja hatályon kívül helyezte.
+[^440]: Az Ávr. 132. § (1) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^441]: Az Ávr. 132. § (1a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 11. §-a iktatta be.
