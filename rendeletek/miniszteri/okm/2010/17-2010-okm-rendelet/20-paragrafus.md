@@ -1,3 +1,0 @@
-## 19. § Amennyiben a 17. § (3) bekezdésben foglalt foglalkoztatott közalkalmazotti jogviszonya vagy munkaviszonya a támogatási igény benyújtását követően megszűnik azzal a közoktatási intézménnyel, amellyel a pályázat benyújtásakor jogviszonyban volt, a fenntartó a 2010 szeptemberében induló felsőoktatási tanévben folytatódó tanulmányokra tekintettel megítélt támogatási összeget köteles visszafizetni, kivéve, ha a fenntartó által fenntartott másik – a pályázattal érintett – közoktatási intézményben létesít közalkalmazotti jogviszonyt vagy munkaviszonyt az érintett foglalkoztatott.
-
-## 10. Az esélyegyenlőséget szolgáló intézkedések
