@@ -72,7 +72,9 @@ o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légt�
 
 15. szolgálati beosztás: az állomány tagja és az önkéntes tartalékos katona által betöltött munkakör,
 
-16. tanulmányi támogatás: a Honvédség által az állomány tagja részére vezénylés vagy tanulmányi szerződés alapján, tanulmányai folytatásához nyújtott támogatás.
+15a.[^10] tandíj: a képző intézmény által a honvédelmi szervezet részére a tandíjról, illetve a vizsgadíjról kiállított számla szerinti összeg vagy – ennek hiányában – a HM képzési katalógusban a képzés leírásához rendelt belső vagy külső ár,
+
+16.[^11] tanulmányi támogatás: a vezénylésben vagy a tanulmányi szerződésben rögzített, a Honvédség által az állomány tagjának a tanulmányai folytatásához jogszabályban meghatározottak szerint nyújtott juttatás.
 
 [^1]: Az 1. § 6. pontja a 4/2015. (VI. 22.) HM rendelet 27. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § 7. pontja a 24/2013. (XII. 20.) HM rendelet 6. §-ával megállapított szöveg.
@@ -83,3 +85,5 @@ o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légt�
 [^7]: Az 1. § 11. pontja a 10/2015. (VII. 30.) HM rendelet 82. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
 [^8]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
 [^9]: Az 1. § 14a. pontját a 10/2016. (VI. 29.) HM rendelet 1. §-a iktatta be.
+[^10]: Az 1. § 15a. pontját a 25/2016. (XII. 22.) HM rendelet 16. § (1) bekezdése iktatta be.
+[^11]: Az 1. § 16. pontja a 25/2016. (XII. 22.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.

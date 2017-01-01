@@ -1,4 +1,4 @@
-266. § (1) A honvéd tisztjelölt a Hjt. 228. § (6) bekezdése szerinti a Honvédség által a részére jogszabály vagy ösztöndíjszerződés alapján nyújtott képzési támogatást köteles megtéríteni. A képzési támogatás megtérítésére, visszakövetelésére, a fizetési könnyítésre és a mentesítésre a 114–117. §-t megfelelően alkalmazni kell.
+266. § (1)[^246] A honvéd tisztjelölt a Hjt. 228. § (6) bekezdése szerint a Honvédség által a részére jogszabály vagy ösztöndíjszerződés alapján nyújtott képzési támogatást köteles megtéríteni. A képzési támogatás megtérítésére, visszakövetelésére, a fizetési könnyítésre és a mentesítésre a 115–117. §-t megfelelően alkalmazni kell. A Hjt. 228. § (6) bekezdése szerinti felróható oknak minősül, ha a tisztjelölti szolgálati viszony a Hjt. 59. § (1) bekezdés c) pontja, a Hjt. 59. § (2) bekezdés e) pontja, a Hjt. 68. § (1) bekezdés e)–g), i)–m) és p) pontja, 228. § (2) és (3) bekezdése, (4) bekezdés a) pontja szerint szűnik meg. Ha a honvéd tisztjelölt szolgálati viszonya a Hjt. 228. § (4) bekezdés b) pontja alapján szűnik meg, a felróhatóság megállapíthatóságáról a hallgatói jogviszony megszűnésének okára figyelemmel az állományilletékes parancsnok dönt.
 
 (2) Ha a megtérítésre kötelezett a tisztjelölti szolgálati viszonyának megszűnését követő 2 éven belül szolgálati viszonyt létesít, köteles az állományilletékes parancsnokot tájékoztatni a képzési támogatás tekintetében még fennálló tartozásáról.
 
@@ -7,3 +7,5 @@
 (4) A kiegészítő megállapodást közjegyzői okiratba kell foglaltatni. A közjegyzői okirat elkészítésével kapcsolatos költségek a megtérítésre kötelezettet terhelik. Ha a szolgálati viszony hónap közben szűnik meg, a megkezdett hónap teljes hónapnak minősül.
 
 (5) A (4) bekezdéstől eltérően a megtérítésre kötelezett az időarányosan fennálló tartozás megfizetésére köteles, ha a szolgálati viszonya az előírt időtartamból még fennálló idő előtt szűnik meg. A tartozás a szolgálati viszony megszűnését követő naptól esedékes.
+
+[^246]: A 266. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 42. §-ával megállapított szöveg.

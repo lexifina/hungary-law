@@ -8,23 +8,25 @@ b) a honvédségi szervezet más helyőrségben települő, oda kikülönített 
 
 c) a szerződéses pályakezdő tekintetében a Hjt. 36. § (1) bekezdése szerint az első szolgálati beosztásba történő kinevezésig a tervezett szolgálati beosztás szerinti honvédségi szervezet vezetője,
 
-d)[^15] az állomány Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a HVKF által kijelölt szolgálati elöljáró,
+d)[^17] az állomány Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a HVKF által kijelölt szolgálati elöljáró,
 
-e)[^16] az állomány Hjt. 46. § (1) bekezdés b), f)–p) és r)–u) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a központi személyügyi szerv vezetője,
+e)[^18] az állomány Hjt. 46. § (1) bekezdés b), f)–p) és r)–u) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a központi személyügyi szerv vezetője,
 
 f) az állomány Hjt. 46. § (1) bekezdés c) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a szolgálati viszony létesítése, módosítása, megszüntetése és az illetmény-megállapítás tekintetében a központi személyügyi szerv vezetője, egyéb állományilletékes parancsnoki döntés tekintetében a kijelölt szolgálati elöljáró,
 
 g) az állomány Hjt. 46. § (1) bekezdés q) pontja szerinti rendelkezési állományba tartozó tagja tekintetében az MH Egészségügyi Központ (a továbbiakban: MH EK) parancsnoka,
 
-h) az állományilletékes parancsnok tekintetében az elöljáró parancsnok, és
+h)[^19] az állomány Hjt. 46. § (1) bekezdés v) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a KNBSZ főigazgatója,
 
-i) a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya, a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője, továbbá Honvéd Vezérkar főnöke (a továbbiakban: HVKF) közvetlen alárendeltségébe tartozó szervezet parancsnoka tekintetében a HVKF.
+i)[^20] az állományilletékes parancsnok tekintetében az elöljáró parancsnok, és
 
-(2a)[^17] A Hvt. 36. § (1) bekezdés h) pontja szerinti feladatban a Hjt. 42. § (2) bekezdés a) pontja szerinti vezényléssel részt vevő állomány tekintetében a Hjt. 237/A. § (2) bekezdése szerinti belső rendelkezésben a szolgálatteljesítésére vonatkozó szabályokkal összefüggő egyes állományilletékes parancsnoki jogköröket a HVKF által kijelölt parancsnok gyakorolja.
+j)[^21] a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya, a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője, továbbá Honvéd Vezérkar főnöke (a továbbiakban: HVKF) közvetlen alárendeltségébe tartozó szervezet parancsnoka tekintetében a HVKF.
 
-(3)[^18] A (2) bekezdés d) pontja esetén, továbbá a (2) bekezdés f) pontja esetén az állományilletékes parancsnoki jogkört gyakorló szolgálati elöljárót a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) esetén a HVKF, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetén a miniszter jelöli ki.
+(2a)[^22] A Hvt. 36. § (1) bekezdés h) pontja szerinti feladatban a Hjt. 42. § (2) bekezdés a) pontja szerinti vezényléssel részt vevő állomány tekintetében a Hjt. 237/A. § (2) bekezdése szerinti belső rendelkezésben a szolgálatteljesítésére vonatkozó szabályokkal összefüggő egyes állományilletékes parancsnoki jogköröket a HVKF által kijelölt parancsnok gyakorolja.
 
-(3a)[^19] Ha a Hjt. 52/A. § (3) bekezdése szerinti megállapodásban a felek a Hjt. 51. § (6) bekezdésétől, illetve 52. § (1) bekezdésétől eltérően rendelkeznek, az e megállapodás alapján a nem a más szerv vezetője által gyakorolt munkáltatói jogkörök tekintetében – a (2) bekezdés e) pontjától eltérően – az állomány tagja felett
+(3)[^23] A (2) bekezdés d) pontja esetén, továbbá a (2) bekezdés f) pontja esetén az állományilletékes parancsnoki jogkört gyakorló szolgálati elöljárót a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) esetén a HVKF, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetén a miniszter jelöli ki.
+
+(3a)[^24] Ha a Hjt. 52/A. § (3) bekezdése szerinti megállapodásban a felek a Hjt. 51. § (6) bekezdésétől, illetve 52. § (1) bekezdésétől eltérően rendelkeznek, az e megállapodás alapján a nem a más szerv vezetője által gyakorolt munkáltatói jogkörök tekintetében – a (2) bekezdés e) pontjától eltérően – az állomány tagja felett
 
 a) a szolgálati viszony létesítése, módosítása, megszüntetése és az illetmény-megállapítás tekintetében a központi személyügyi szerv vezetője,
 
@@ -36,11 +38,14 @@ gyakorolja az állományilletékes parancsnoki jogkört.
 
 (5) Ha miniszteri rendelet eltérően nem rendelkezik, az állományilletékes parancsnok munkáltatói jogköre az általa vezetett honvédelmi szervezet állományára, valamint a közvetlen alárendeltségében lévő honvédségi szervezet vezetőjére terjed ki.
 
-(6)[^20] Az állományilletékes parancsnoknak, az elöljáró parancsnoknak, a Magyar Honvédség Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) parancsnokának, a központi személyügyi szerv vezetőjének és a HVKF-nek a munkáltatói jogköreit a miniszter, az állományilletékes parancsnoknak, az elöljáró parancsnoknak, az MH ÖHP parancsnokának és a központi személyügyi szerv vezetőjének a munkáltatói jogköreit a HVKF, az állományilletékes honvédelmi szervezet személyügyi szerve vezetőjének a munkáltatói jogköreit az állományilletékes parancsnok bármikor magához vonhatja.
+(6)[^25] Az állományilletékes parancsnoknak, az elöljáró parancsnoknak, a Magyar Honvédség Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) parancsnokának, a központi személyügyi szerv vezetőjének és a HVKF-nek a munkáltatói jogköreit a miniszter, az állományilletékes parancsnoknak, az elöljáró parancsnoknak, az MH ÖHP parancsnokának és a központi személyügyi szerv vezetőjének a munkáltatói jogköreit a HVKF, az állományilletékes honvédelmi szervezet személyügyi szerve vezetőjének a munkáltatói jogköreit az állományilletékes parancsnok bármikor magához vonhatja.
 
-[^15]: A 3. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 5. pontja szerint módosított szöveg.
-[^16]: A 3. § (2) bekezdés e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 6. pontja szerint módosított szöveg.
-[^17]: A 3. § (2a) bekezdését a 10/2016. (VI. 29.) HM rendelet 3. § (1) bekezdése iktatta be.
-[^18]: A 3. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 7–8. pontja szerint módosított szöveg.
-[^19]: A 3. § (3a) bekezdését a 15/2016. (VIII. 31.) HM rendelet 1. §-a iktatta be.
-[^20]: A 3. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 3. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 5. pontja szerint módosított szöveg.
+[^18]: A 3. § (2) bekezdés e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 6. pontja szerint módosított szöveg.
+[^19]: A 3. § (2) bekezdés h) pontja a 25/2016. (XII. 22.) HM rendelet 17. §-ával megállapított szöveg.
+[^20]: A 3. § (2) bekezdés i) pontja a 25/2016. (XII. 22.) HM rendelet 17. §-ával megállapított szöveg.
+[^21]: A 3. § (2) bekezdés j) pontját a 25/2016. (XII. 22.) HM rendelet 17. §-a iktatta be.
+[^22]: A 3. § (2a) bekezdését a 10/2016. (VI. 29.) HM rendelet 3. § (1) bekezdése iktatta be.
+[^23]: A 3. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 7–8. pontja szerint módosított szöveg.
+[^24]: A 3. § (3a) bekezdését a 15/2016. (VIII. 31.) HM rendelet 1. §-a iktatta be.
+[^25]: A 3. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.

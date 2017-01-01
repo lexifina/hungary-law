@@ -1,4 +1,4 @@
-101. § (1)[^125] Az állomány 92. § (1) bekezdésében foglaltaknak megfelelő tagjairól minden évben előmeneteli rangsor készül.
+101. § (1)[^142] Az állomány 92. § (1) bekezdésében foglaltaknak megfelelő tagjairól minden évben előmeneteli rangsor készül.
 
 (2) Az előmeneteli rangsort a központi személyügyi szerv állítja össze a tárgyévi – vagy ha ilyen nincs, akkor a tárgyévet megelőző évi – teljesítményértékelés, valamint az azt megelőző két teljesítményértékelés, továbbá – az állomány törzszászlós, alezredes, ezredes és tábornoki rendfokozatú tagja kivételével – a sikeres és érvényes minősítő vizsga eredményeként megállapított előmeneteli minősítés alapján.
 
@@ -12,4 +12,4 @@ c) a b) pontban szereplő teljesítményértékelést közvetlenül megelőző t
 
 kell beszámítani.
 
-[^125]: A 101. § (1) bekezdése a 18/2015. (XII. 22.) HM rendelet 22. § c) pontja szerint módosított szöveg.
+[^142]: A 101. § (1) bekezdése a 18/2015. (XII. 22.) HM rendelet 22. § c) pontja szerint módosított szöveg.

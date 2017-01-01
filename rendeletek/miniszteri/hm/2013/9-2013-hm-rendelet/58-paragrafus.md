@@ -23,3 +23,13 @@ szűnik meg.
 a) a szerződéses szolgálati viszony a hivatásos állományba vétel napját megelőző napon szűnik meg, és
 
 b) a megszűnést a hivatásos állományba vételről szóló munkáltatói döntésben rögzíteni kell.
+
+(3)[^87] A Hjt. 68. § (1) bekezdés n) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a mentesítést megállapító döntés kiadmányozásától számított 30. nap.
+
+(4)[^88] A Hjt. 68. § (1) bekezdés o) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a munkaszerződés megkötését követő 30. nap.
+
+(5)[^89] A Hjt. 68/B. § (4) bekezdés b) pontja szerinti munkaszerződésben a munkaviszony kezdeteként a szolgálati viszony megszűnését követő napot kell meghatározni.
+
+[^87]: Az 58. § (3) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
+[^88]: Az 58. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
+[^89]: Az 58. § (5) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 258. §[^197] Az önkéntes tartalékos katonák által betölthető szolgálati beosztásokat a KNBSZ vonatkozásában a honvédelmi miniszter, az MH vonatkozásában a HVKF által jóváhagyott hadi állománytáblák tartalmazzák.
+## 258. §[^244] Az önkéntes tartalékos katonák által betölthető szolgálati beosztásokat a KNBSZ vonatkozásában a honvédelmi miniszter, az MH vonatkozásában a HVKF által jóváhagyott hadi állománytáblák tartalmazzák.
 
 259. § (1) Értékelő vezető az önkéntes tartalékos katona legalább tiszti rendfokozati csoportba tartozó, hivatásos vagy szerződéses állományú szolgálati elöljárója.
 
@@ -6,4 +6,4 @@
 
 (3) Az önkéntes tartalékos katona teljesítményértékelésének formai és tartalmi elemeit a 12. melléklet határozza meg.
 
-[^197]: A 258. § a 19/2015. (XII. 22.) HM rendelet 6. §-ával megállapított szöveg.
+[^244]: A 258. § a 19/2015. (XII. 22.) HM rendelet 6. §-ával megállapított szöveg.
