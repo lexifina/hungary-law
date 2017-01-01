@@ -22,7 +22,7 @@ i) a polgár értesítési címének bejelentése;
 
 j) a polgár adatai letiltására vagy helyesbítésére vonatkozó kérelme;
 
-k) a jegyző, a járási hivatal, a fővárosi és megyei kormányhivatal, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
+k) a nyilvántartás illetékes szerve, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
 
 l) a külföldön élő magyar állampolgár kérelme;
 
@@ -56,7 +56,7 @@ nb) a honosított okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy haja
 
 o) a konzuli tisztviselő értesítése a magyar állampolgárság megszerzéséről és annak időpontjáról,
 
-p) a hazai anyakönyvezést végző hatóság értesítése
+p) a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv értesítése
 
 pa) a 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgár esetében a természetes személyazonosító és külföldi lakóhely adatokról, a családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről és a neméről,
 

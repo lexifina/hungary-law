@@ -1,6 +1,6 @@
-9. § (1) A nyilvántartás adatkezelője a központi szerv.
+9. § (1) A nyilvántartás adatkezelője a nyilvántartást kezelő szerv.
 
-(2) A központi szerv
+(2) A nyilvántartást kezelő szerv
 
 a) gondoskodik a személyi azonosító képzéséről;
 
@@ -28,21 +28,25 @@ ge) a tulajdonos halálát;
 
 h) kezeli a Központi Okmánytárat;
 
-m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
+i) ellátja a Schengeni Információs Rendszerben elhelyezendő vagy elhelyezett figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat;
 
-n) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat;
+j) ellátja a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar állampolgár személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
-o) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat;
+m)
 
-p) ellátja a Schengeni Információs Rendszerben elhelyezendő vagy elhelyezett figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat;
+n)
 
-q) ellátja az értesítési cím tudomásul vételével összefüggő – jogszabályban meghatározott – hatósági feladatokat;
+o)
 
-r) ellátja a Magyarország területén élő, a 4. § (2c) bekezdése szerinti magyar állampolgárok nyilvántartásba vételével kapcsolatos feladatokat;
+p)
 
-s) ellátja a Magyarország területén élő, a 4. § (2d) bekezdése szerinti magyar állampolgárok nyilvántartásba vételével kapcsolatos feladatokat.
+q)
 
-(3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
+r)
+
+s)
+
+(3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
 a) az állandó személyazonosító igazolvány adatlapokat és fényképeket, a lakcímbejelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat, valamint az értesítésicím-bejelentőlapot;
 

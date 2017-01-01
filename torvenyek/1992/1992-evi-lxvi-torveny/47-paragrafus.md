@@ -2,11 +2,11 @@
 
 a) a személyiadat- és lakcímnyilvántartási, lakcím-megállapítási és lakcímbejelentési eljárásnak, az értesítési cím bejelentési eljárásnak, a nyilvántartás vezetésének és az adatszolgáltatásnak részletes szabályait, a személyazonosító igazolvány adattartalma megjelenítésének, kiadásának, bevonásának, elvételének, birtokban tartásának, nyilvántartásának és a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásának és nyilvántartásának szabályait, továbbá az egységes arcképmás- és aláírás-felvételezés szabályait;
 
-b)
+b) a 8/A. § szerinti kijelölt kormányhivatalt.
 
 c) a nyilvántartásból kiadott okiratok, valamint a nyilvántartás adatforrásául szolgáló alapiratok kezelésének szabályait;
 
-d) a központi szerv kijelölését;
+d) a nyilvántartást kezelő szerv kijelölését;
 
 e) a 29/B. § (4) bekezdése szerinti hatóságot,
 
@@ -14,7 +14,9 @@ f) a 29/D. § alapján az állandó személyazonosító igazolványhoz rendelhet
 
 g) a 29/C. § (2) bekezdés a) pontja szerinti szervet, a 29/C. § (2) bekezdés b) és c) pontja szerinti szolgáltatót, valamint az e-aláírás funkcióra és az ahhoz kapcsolódó bizalmi szolgáltatásokra vonatkozó részletes szabályokat,
 
-h) a 29/J. § (1) bekezdése szerinti, a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását vezető szervet.
+h) a 29/J. § (1) bekezdése szerinti, a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását vezető szervet,
+
+i) azon eljárásokat és feltételeket, amelyek esetén a nyilvántartás szerve az eljárást az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatal útján folytatja le;
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben a nyilvántartás vezetésével összefüggésben feladat- és hatáskört telepítsen a települési önkormányzat jegyzőjére, valamint meghatározza a feladat- és hatáskör ellátásához szükséges, azzal összefüggő szabályokat.
 

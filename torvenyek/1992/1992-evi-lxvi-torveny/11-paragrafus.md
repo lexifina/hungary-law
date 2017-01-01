@@ -34,7 +34,7 @@ n) személyazonosító igazolványa kiadásának, érvényességének, cseréjé
 
 o) személyazonosító igazolványa tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat;
 
-p) értesítési címét, ha azt a polgár bejelentette a nyilvántartás helyi vagy központi szervének;
+p) értesítési címét, ha azt a polgár bejelentette;
 
 q) arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 

@@ -30,7 +30,7 @@ c) a bevándorolt, letelepedett jogállású polgár megszerzi a szabad mozgás 
 
 d) a nem magyar állampolgár Magyarország területét a külföldön történő letelepedés szándékával elhagyja.
 
-(6) A polgár lakóhelye szerint illetékes járási hivatal vagy a központi szerv a személyazonosító igazolványt visszavonja, ha
+(6) A polgár lakóhelye szerint illetékes járási hivatal vagy a kijelölt kormányhivatal a személyazonosító igazolványt visszavonja, ha
 
 a) hamis vagy meghamisították, és az okmány nincs a hatóság birtokában,
 

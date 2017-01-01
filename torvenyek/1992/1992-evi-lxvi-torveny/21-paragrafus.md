@@ -20,9 +20,9 @@ i) a polgári védelmi kötelezettség érvényesítése céljából a hivatáso
 
 j) az egyes fontos tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvény 5. §-ában meghatározott bizottság, az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
 
-k) a nyugdíjfolyósító szerv a jogszabályban meghatározott feladatai ellátásához a központi szervtől;
+k) a nyugdíjfolyósító szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
 
-l) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához, a központi szervtől;
+l) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához, a nyilvántartást kezelő szervtől;
 
 m) a bejegyzett élettársi kapcsolat megszüntetésére irányuló polgári nemperes eljáráshoz a közjegyző,
 
@@ -46,4 +46,4 @@ v) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bej
 
 w) – az a)–v) pont eltérő rendelkezése hiányában – a közigazgatási hatóság az általa vezetett közhiteles hatósági nyilvántartás törvényben meghatározott adattartalmának részét képező adatok és a nyilvántartásból való, elhalálozás miatti kikerülés ideje tekintetében;
 
-z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a központi szervtől.
+z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől.

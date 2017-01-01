@@ -14,4 +14,4 @@ miatt a külföldre utazásról szóló törvényben meghatározott okból külf
 
 (3) Ha az abban foglalt érvényességi ideje még nem telt el, a polgár (1) bekezdés szerinti személyazonosító igazolványa ismét érvényes, ha az (1) bekezdésben foglalt feltétel már nem áll fent.
 
-(4) Az (1) bekezdésben szereplő adatokat a központi szerv kizárólag a személyazonosító igazolvány érvényességének vizsgálata, valamint a személyazonosító igazolvány kiállítása céljából kezeli. A központi szerv az adatokat a külföldre utazási korlátozás megszűnésétől számított hat évig kezeli.
+(4) Az (1) bekezdésben szereplő adatokat a kijelölt kormányhivatal kizárólag a személyazonosító igazolvány érvényességének vizsgálata, valamint a személyazonosító igazolvány kiállítása céljából kezeli. A kijelölt kormányhivatal az adatokat a külföldre utazási korlátozás megszűnésétől számított hat évig kezeli.

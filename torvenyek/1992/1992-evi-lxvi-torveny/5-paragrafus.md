@@ -51,3 +51,5 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 (21) Állandó személyazonosító igazolvány: a törvényben meghatározott érvényességi idővel és – a 29/E. § (2) bekezdésében meghatározott kivétellel – tároló elemmel rendelkező személyazonosító igazolvány.
 
 (22) Ideiglenes személyazonosító igazolvány: a törvényben meghatározott érvényességi idővel rendelkező, az állandó személyazonosító igazolvány kiadásáig a Kormány rendeletében meghatározott feltételek esetén kiállított személyazonosító igazolvány.
+
+(23) Vészhelyzet esetén értesítendő telefonszám: azon személynek a polgár kérelmére az állandó személyazonosító igazolvány tároló elemén rögzített telefonszáma, akit a polgár a halála vagy egészségi állapotában bekövetkező olyan változás esetén, amikor állapotáról történő tájékoztatásra nem képes, értesíteni kíván.

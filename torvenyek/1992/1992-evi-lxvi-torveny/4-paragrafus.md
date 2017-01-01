@@ -24,19 +24,19 @@ d) a Magyarország területén kívül élő polgár a magyar állampolgárságr
 
 e) a Magyarország területén kívül élő magyar állampolgár kérelmére a magyar állampolgárságról szóló 1993. évi LV. törvény alapján az állampolgársági ügyekben eljáró szerv a magyar állampolgársága fennállását igazolja, vagy
 
-f) a Magyarország területén kívül élő magyar állampolgár külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezést végző hatóság anyakönyvezi,
+f) a Magyarország területén kívül élő magyar állampolgár külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezi,
 
 g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi.
 
 (2b) A 29/J. § hatálya kiterjed arra a külföldön élő magyar állampolgárra, aki nem szerepel a nyilvántartásban és érvényes magyar útlevéllel rendelkezik.
 
-(2c) Az állampolgársági ügyekben eljáró szerv értesítése alapján – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba
+(2c) Az állampolgársági ügyekben eljáró szerv eljárását követően – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba
 
 a) a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a alapján magyar állampolgárságot nyilatkozattal szerzett polgár adatai, és
 
 b) azon magyar állampolgár adatai, akinek a kérelmére az állampolgársági ügyekben eljáró szerv a magyar állampolgárságról szóló 1993. évi LV. törvény alapján a magyar állampolgárság fennállását igazolja.
 
-(2d) A hazai anyakönyvezést végző hatóság értesítése alapján – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba a Magyarország területén kívül született, házasságot kötött vagy bejegyzett élettársi kapcsolatot létesített magyar állampolgár adatai, ha a külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezést végző hatóság anyakönyvezte.
+(2d) A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv eljárását követően – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba a Magyarország területén kívül született, házasságot kötött vagy bejegyzett élettársi kapcsolatot létesített magyar állampolgár adatai, ha a külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezte.
 
 (3) E törvény hatálya kiterjed:
 

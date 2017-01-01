@@ -2,6 +2,6 @@
 
 (2) Az ellenőrzés a 28/A. § (2) bekezdés a)–e) pontjaiban meghatározott adatok teljes körűségére, pontosságára és valóságtartalmának ellenőrzésére terjed ki.
 
-(3) Az ellenőrzés végrehajtásához szükséges elektronikus adatállományt a központi szerv bocsátja a jegyző rendelkezésére.
+(3) Az ellenőrzés végrehajtásához szükséges elektronikus adatállományt a nyilvántartást kezelő szerv bocsátja a jegyző rendelkezésére.
 
-(4) Az ellenőrzött adatállományt a jegyző legkésőbb 2014. november 15-ig visszajuttatja a központi szervnek.
+(4) Az ellenőrzött adatállományt a jegyző legkésőbb 2014. november 15-ig visszajuttatja a nyilvántartást kezelő szervnek.

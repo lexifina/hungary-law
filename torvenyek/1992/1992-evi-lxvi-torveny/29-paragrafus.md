@@ -56,7 +56,9 @@ d) a polgár társadalombiztosítási azonosító jelét,
 
 e) a polgár adóazonosító jelét,
 
-f) a személyazonosító igazolvány elektronikus egyedi azonosítóját.
+f) a személyazonosító igazolvány elektronikus egyedi azonosítóját,
+
+g) a polgár kérelmére legfeljebb kettő, vészhelyzet esetén értesítendő telefonszámot.
 
 (8) A tároló elem az ujjnyomatot abból a célból tartalmazza, hogy az állandó személyazonosító igazolvány és a polgár közti kapcsolat kétséget kizáróan megállapítható legyen.
 
@@ -76,9 +78,9 @@ b) a polgár annak rögzítését visszautasította, vagy annak adására fizika
 
 (14) A polgár köteles a személyazonosító igazolvány kiadását igényelni, ha nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal. A cselekvőképtelen kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár törvényes képviselője köteles biztosítani azt, hogy a kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár személyazonosságot igazoló hatósági igazolvánnyal rendelkezzen.
 
-(15) A személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló kérelem – jogszabályban meghatározott kivétellel – csak személyesen terjeszthető elő.
+(15) A személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló kérelem – jogszabályban meghatározott kivétellel – csak személyes megjelenéssel terjeszthető elő.
 
-(16) A polgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus úton történő kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye pótlását, ha az adataiban nem következett be változás, és ideiglenes okmány kiadására nincs szükség. Ezen, és jogszabályban meghatározott más eseteket kivéve a személyazonosság igazolására alkalmas hatósági igazolványok kiadásával összefüggő eljárásokban a hatóság nem tart elektronikusan kapcsolatot az ügyféllel.
+(16) A polgár az elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye, illetve magánútlevele, második magánútlevele, szolgálati útlevele, hajós szolgálati útlevele pótlását, ha az adataiban nem következett be változás, ideiglenes okmány kiadására nincs szükség, és a magánútlevél, a második magánútlevél, illetve hajós szolgálati útlevél esetében az érintett hozzájárulása alapján az útiokmány-nyilvántartás tartalmazza az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát.
 
 (17)
 

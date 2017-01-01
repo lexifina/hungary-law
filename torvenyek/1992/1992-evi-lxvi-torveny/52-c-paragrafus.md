@@ -1,0 +1,1 @@
+52/C. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 29/E. § (1) és (3a) bekezdését a 2017. január 1-jétől igényelt személyazonosító igazolványokra kell alkalmazni.

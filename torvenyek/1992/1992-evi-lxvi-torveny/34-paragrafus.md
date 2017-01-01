@@ -2,12 +2,10 @@
 
 ## Egyéb rendelkezések
 
-34. § (1) A nyilvántartásba vételre, a nyilvántartás alapján történő okirat kiadására és a nyilvántartott adatokon alapuló adatszolgáltatásokra irányuló ügyekben – a (2)–(5) bekezdésben foglalt kivételekkel – a hatóság az ügyféllel nem tart elektronikusan írásban kapcsolatot.
+34. § (1) Az érintett az elektronikus azonosítást követően elektronikus kapcsolattartás keretében is igényelhet tájékoztatást saját nyilvántartott adatairól és arról, hogy milyen adatszolgáltatások alanya volt, igényelheti továbbá a személyi azonosítóról és lakcímről szóló hatósági igazolvány kiadását, valamint a birtokából kikerült személyi azonosítóról és lakcímről szóló hatósági igazolványa pótlását. A polgár a személyi azonosítóról és lakcímről szóló hatósági igazolvány pótlását akkor igényelheti, ha adataiban nem következett be változás. A személyi azonosítóról és lakcímről szóló hatósági igazolványt pótlás esetén az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni azzal, hogy a hatósági igazolvány pótlás esetén a telefonszámot nem tartalmazza.
 
-(2) Az érintett elektronikus kapcsolattartás keretében is igényelhet tájékoztatást saját nyilvántartott adatairól és arról, hogy milyen adatszolgáltatások alanya volt, kezdeményezheti nyilvántartott adatainak javítását, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadását, valamint a birtokából kikerült hatósági igazolványa pótlását.
+(2) A 4. § (2a) bekezdés a) pontja szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló kérelmét – elektronikus azonosítási szolgáltatás használata nélkül – elektronikus úton is bejelentheti.
 
-(3) A nyilvántartás szerve a 17. § (4) bekezdésében, a 26. § (3) bekezdés b) pontjában meghatározott ügyfajtákban tart elektronikusan kapcsolatot az ügyféllel.
+(3) A külföldön élő magyar állampolgár – elektronikus azonosítási szolgáltatás használata nélkül – elektronikus úton is bejelentheti külföldi lakóhelyének változását.
 
-(4) A polgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás útján is bejelentheti értesítési címét.
-
-(5) A külföldön élő magyar állampolgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás útján is bejelentheti külföldi lakóhelyének változását.
+(4) A Kormány rendeletében meghatározott esetekben és feltételekkel a nyilvántartás szerve az eljárást az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatal útján folytatja le.

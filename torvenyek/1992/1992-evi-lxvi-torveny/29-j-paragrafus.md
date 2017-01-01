@@ -20,7 +20,7 @@ b) személyazonosság igazolására alkalmas érvényes hatósági igazolványá
 
 (5) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása automatikus adatátadás útján átveszi a (4) bekezdésben meghatározott adatokat a polgárok személyi adatainak és lakcímének nyilvántartásából, az útiokmány-nyilvántartásból és a közúti közlekedési nyilvántartás engedély-nyilvántartásából.
 
-(6) A személyazonosság igazolására alkalmas hatósági igazolvány érvénytelenné válása tényéről és időpontjáról a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, az útiokmány-nyilvántartás központi adatkezelő szerve és közúti közlekedési nyilvántartás engedély-nyilvántartása központi közúti közlekedési nyilvántartó szerve haladéktalanul értesíti a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását.
+(6) A személyazonosság igazolására alkalmas hatósági igazolvány érvénytelenné válása tényéről és időpontjáról a polgárok személyi adatainak és lakcímének a nyilvántartását kezelő szerv, az útiokmány-nyilvántartás központi adatkezelő szerve és közúti közlekedési nyilvántartás engedély-nyilvántartása központi közúti közlekedési nyilvántartó szerve haladéktalanul értesíti a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását.
 
 (7) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában a (4) bekezdésben meghatározott adatokat az okmánynyilvántartó szerv a személyazonosság igazolására alkalmas hatósági igazolvány érvénytelenné válása időpontjáig kezeli, a (6) bekezdés szerinti értesítés alapján azokat haladéktalanul törli.
 

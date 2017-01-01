@@ -18,6 +18,8 @@ h) ellenőrzi a személyazonosító igazolvány iránti kérelem adatait, intéz
 
 i) végzi a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kitöltésével, nyilvántartásával és a polgár részére történő kézbesítésével kapcsolatos feladatokat;
 
-j) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
+j) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat;
+
+k) ellátja a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar állampolgár személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
 (2) A települési önkormányzat jegyzője a polgár egészségügyi okból történő akadályoztatása esetén átveszi a polgár személyazonosító igazolvány iránti kérelmét, ellenőrzi a kérelmező jogosultságát és személyazonosságát, ellátja a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat.

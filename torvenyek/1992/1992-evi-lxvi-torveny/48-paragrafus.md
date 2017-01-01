@@ -1,4 +1,4 @@
-48. § (1) A központi szerv a letelepedett polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosult igényelni az érintettek
+48. § (1) A nyilvántartás szervei a letelepedett polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosultak igényelni az érintettek
 
 a) természetes személyazonosító és állampolgársági adatait,
 
@@ -8,4 +8,4 @@ c) tartózkodási jogosultságát igazoló okmány számát és érvényességi 
 
 (2)
 
-(3) A központi szerv a bevándorolt polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosult igényelni az érintettek állampolgársági adatait.
+(3) A nyilvántartás szervei a bevándorolt polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosultak igényelni az érintettek állampolgársági adatait.

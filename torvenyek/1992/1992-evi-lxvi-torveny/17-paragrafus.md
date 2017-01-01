@@ -18,11 +18,11 @@ e) természetes személyazonosító adatok és állampolgárság.
 
 (3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat — a 2. § (5) bekezdésében foglalt feltételekkel — statisztikai célra felhasználhatják és azokat nyilvánosságra hozhatják.
 
-(4) A központi szerv a személyazonosító igazolvány, továbbá a személyi azonosítóról és lakcímről szóló hatósági igazolvány okmányazonosítóját megjelölő kérelmező részére a felhasználás céljának és jogalapjának igazolása nélkül is adatszolgáltatást teljesít az okmányok kiadásáról, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, megkerülésének tényéről.
+(4)
 
 (5)
 
-(6) A központi szerv a 29. § (2) bekezdésében meghatározott adatokról és a lakcímről, valamint a 11. § (1) bekezdés n) pontjában meghatározott adatokról törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a személyazonosító igazolvány adatainak, valamint az érintett lakcímének ellenőrzése, az érintett személy azonosítása céljából adatot szolgáltathat. Az érintett arcképmását és saját kezű aláírását a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
+(6) A nyilvántartást kezelő szerv a 29. § (2) bekezdésében meghatározott adatokról és a lakcímről, valamint a 11. § (1) bekezdés n) pontjában meghatározott adatokról törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a személyazonosító igazolvány adatainak, valamint az érintett lakcímének ellenőrzése, az érintett személy azonosítása céljából adatot szolgáltathat. Az érintett arcképmását és saját kezű aláírását a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
 
 (7) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosító igazolvány adattartalmának és érvényességének a személyazonosítás során történő ellenőrzése céljából a személyazonosító igazolvány nyilvántartásból – közvetlen adathozzáféréssel – adatokat vehet át. Az átvett adatokat a személyazonosítást követően az adatkérőnek haladéktalanul törölnie kell.
 

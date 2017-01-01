@@ -4,9 +4,9 @@
 
 (3) Érvényes személyazonosító igazolvánnyal rendelkező polgár az állandó személyazonosító igazolvány kiadását adatváltozás hiányában is igényelheti, ha az állandó személyazonosító igazolványát 2016. január 1-jét megelőzően állították ki.
 
-(4) A 2016. január 1-jén kezelt ideiglenes személyazonosító igazolvány adatlapokat a központi szerv a 2016. január 1-je előtt hatályos szabályok szerint kezeli.
+(4) A 2016. január 1-jén kezelt ideiglenes személyazonosító igazolvány adatlapokat a nyilvántartást kezelő szerv a 2016. január 1-je előtt hatályos szabályok szerint kezeli.
 
-(5) A 2016. január 1-jén nyilvántartás adattartalmát képező, a személyazonosító igazolvány bevonásának indokaként magyar állampolgár által Magyarország területének külföldi letelepedés szándékával történő elhagyására vonatkozó adatot a központi szerv a 2016. január 1-je előtt hatályos szabályok szerint kezeli.
+(5) A 2016. január 1-jén nyilvántartás adattartalmát képező, a személyazonosító igazolvány bevonásának indokaként magyar állampolgár által Magyarország területének külföldi letelepedés szándékával történő elhagyására vonatkozó adatot a nyilvántartást kezelő szerv a 2016. január 1-je előtt hatályos szabályok szerint kezeli.
 
 (6) 2016. január 1-jén folyamatban lévő jogorvoslati eljárásokat követően kiállított állandó személyazonosító igazolványra a Módtv1. szabályait kell alkalmazni.
 
