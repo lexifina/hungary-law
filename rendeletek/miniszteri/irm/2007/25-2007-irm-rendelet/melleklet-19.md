@@ -268,7 +268,7 @@
 
 | A döntés indoka (röviden): |
 
-19. melléklet a 25/2007. (V. 31.) IRM rendelethez
+19. melléklet a 25/2007. (V. 31.) IRM rendelethez[^76]
 
 7M04685_0
 
@@ -305,3 +305,5 @@ Az okmány adattartalma:
 13. az okmány érvényességi ideje;
 
 14. hátoldalon tudnivalók, hivatalos bejegyzések.
+
+[^76]: A 19. melléklet az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## ADATLAP AZ EGT-ÁLLAMPOLGÁR HARMADIK ORSZÁG ÁLLAMPOLGÁRSÁGÁVAL RENDELKEZŐ CSALÁDTAGJA TARTÓZKODÁSI KÁRTYÁJÁNAK KIÁLLÍTÁSÁHOZ, MEGHOSSZABBÍTÁSÁHOZ ÉS A LAKÓHELY BEJELENTÉSÉHEZ
 
-## 6K07473_0
+## 6K83207N_0
 
 | Az okmánykiadás/hosszabbítás kezdeményezésének dátuma: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
@@ -176,7 +176,7 @@
 
 ## ADATLAP A MAGYAR ÁLLAMPOLGÁR HARMADIK ORSZÁG ÁLLAMPOLGÁRSÁGÁVAL RENDELKEZŐ CSALÁDTAGJA TARTÓZKODÁSI KÁRTYÁJÁNAK KIÁLLÍTÁSÁHOZ, MEGHOSSZABBÍTÁSÁHOZ ÉS A LAKÓHELY BEJELENTÉSÉHEZ
 
-## 6K07473_1
+## 6K83207N_1
 
 | Az okmánykiadás/hosszabbítás kezdeményezésének dátuma: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
@@ -354,6 +354,6 @@
 
 | A döntés indoka röviden: |
 
-3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^59]
+3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^60]
 
-[^59]: A 3. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés c) pontjával megállapított szöveg.
+[^60]: A 3. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés c) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.

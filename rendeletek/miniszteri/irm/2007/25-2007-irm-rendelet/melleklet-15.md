@@ -284,6 +284,6 @@
 
 | A döntés indoka (röviden): |
 
-15. melléklet a 25/2007. (V. 31.) IRM rendelethez[^71]
+15. melléklet a 25/2007. (V. 31.) IRM rendelethez[^72]
 
-[^71]: A 15. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés i) pontjával megállapított szöveg.
+[^72]: A 15. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés i) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.

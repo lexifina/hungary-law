@@ -1,6 +1,6 @@
 ## ADATLAP AZ ÁLLANDÓ TARTÓZKODÁSI KÁRTYA KIÁLLÍTÁSÁHOZ, MEGHOSSZABBÍTÁSÁHOZ
 
-## 6K07481_0
+## 6K83207O_0
 
 | Az okmánykiadás/hosszabbítás kezdeményezésének dátuma: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
@@ -150,6 +150,6 @@
 
 | A döntés indoka (röviden): |
 
-4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^60]
+4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^61]
 
-[^60]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^61]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.

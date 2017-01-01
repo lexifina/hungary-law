@@ -1,6 +1,6 @@
 ## Tartózkodási engedély kérelem családi együttélés biztosítása céljából
 
-## 6K07497_0
+## 6K83207U_0
 
 | Kérelmet átvevő hatóság: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
@@ -324,6 +324,6 @@
 
 | A döntés indoka (röviden): |
 
-12. melléklet a 25/2007. (V. 31.) IRM rendelethez[^68]
+12. melléklet a 25/2007. (V. 31.) IRM rendelethez[^69]
 
-[^68]: A 12. mellékletet a 23/2016. (VI. 29.) BM rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^69]: A 12. mellékletet a 23/2016. (VI. 29.) BM rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,8 +1,8 @@
-20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^75]
+20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^77]
 
 Letelepedési kérelem
 
-6K07550_0
+6K83207C_0
 
 | A hatóság tölti ki! | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
@@ -644,4 +644,4 @@ Letelepedési kérelem
 
 |  | (a kérelmező aláírása) |
 
-[^75]: A 20. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés m) pontjával megállapított szöveg.
+[^77]: A 20. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés m) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.

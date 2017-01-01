@@ -1,3 +1,3 @@
-14. §[^13]
+14. §[^14]
 
-[^13]: A 13–14. §-t a 12/2010. (IV. 2.) IRM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A 13–14. §-t a 12/2010. (IV. 2.) IRM rendelet 3. § (2) bekezdése hatályon kívül helyezte.

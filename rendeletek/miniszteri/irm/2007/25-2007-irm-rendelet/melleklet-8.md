@@ -6,17 +6,17 @@
 
 ## Kelt
 
-## 1M40933O_2
+## 6K83207R_2
 
 |  | nyilatkozattevő aláírása |
 
 ## Előttünk mint tanúk előtt:
 
-## 1M40933O_3
+## 6K83207R_3
 
 | (név, lakcím) | (név, lakcím) |
 
-8. melléklet a 25/2007. (V. 31.) IRM rendelethez[^64]
+8. melléklet a 25/2007. (V. 31.) IRM rendelethez[^65]
 
 | Magyarország La Hongrie / Hungary |  | Sorszám: Numéro/Number |
 
@@ -246,4 +246,4 @@ P. H. / Cachet / Stamp
 
 |  | ............................................................. Aláírás vagy cégszerű aláírás / Signature / Signature |
 
-[^64]: A 8. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés e) pontjával megállapított szöveg.
+[^65]: A 8. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés e) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.

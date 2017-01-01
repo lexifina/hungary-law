@@ -46,7 +46,7 @@
 
 | Épület: ____ | Lépcsőház: ____ | Emelet: __ | Ajtó: ____ |
 
-## 1M26352_1
+## 6K83207P_1
 
 | II. Milyen adatváltozást kíván bejelenteni? (Több válasz is megjelölhető!) |
 
@@ -96,6 +96,6 @@
 
 | Az illetékbélyeg helye: |
 
-5. melléklet a 25/2007. (V. 31.) IRM rendelethez[^61]
+5. melléklet a 25/2007. (V. 31.) IRM rendelethez[^62]
 
-[^61]: Az 5. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^62]: Az 5. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (5) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.
