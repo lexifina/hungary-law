@@ -1,0 +1,1 @@
+## 25. § Az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet 2. § (8) bekezdésében a „10032000-00294896-51000008 számú célelszámolási” szövegrész helyébe az „építésügyi és építésfelügyeleti bírság bevételek beszedési” szöveg lép.

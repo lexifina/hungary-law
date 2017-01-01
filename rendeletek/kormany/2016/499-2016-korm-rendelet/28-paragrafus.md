@@ -1,5 +1,3 @@
-## 24–27. §[^13]
+## 27. § A fogyasztóvédelmi hatóság által kiszabott egyes bírságokról szóló 307/2012. (X. 29.) Korm. rendelet 1. §-ában a „Nemzeti Fogyasztóvédelmi Hatóság (a továbbiakban: NFH) Magyar Államkincstárnál – a 10032000-01494879-00000000 számlaszámon – vezetett előirányzat-felhasználási keretszámlájára kell befizetni, amelyet az NFH havonta a Magyar Államkincstárnál a 10032000-00510004-60000006 számlaszámon vezetett fejezeti befizetési számlára utal” szövegrész helyébe a „Magyar Államkincstárnál vezetett bírság befizetési számlára kell befizetni” szöveg lép.
 
 ## 4. Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet módosítása
-
-[^13]: A 24–27. § a 33. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

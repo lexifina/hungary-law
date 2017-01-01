@@ -1,0 +1,3 @@
+## 5. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 52. §-a a következő (9) bekezdéssel egészül ki:
+
+## „(9) Ha a kötelezettségvállalásra egyébként irányadó jogszabályok lehetővé teszik, írásos formának a felek által legalább fokozott biztonságú elektronikus aláírással – ha jogszabály előírja minősített elektronikus aláírással – ellátott elektronikus dokumentum is megfelel. A kötelezettséget vállaló szerv vezetője által az e § szerint adott írásos meghatalmazás legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentumban is történhet.”

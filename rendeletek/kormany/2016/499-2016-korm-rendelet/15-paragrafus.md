@@ -1,3 +1,5 @@
-## 5–14. §[^4]
+## 14. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 140. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^4]: Az 5–14. § a 33. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## [Az Áht. 83. § (1) bekezdése szerinti egyéb kötelezettségnek minősül:]
+
+## „b) a szolidaritási hozzájárulás,”

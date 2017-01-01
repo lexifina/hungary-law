@@ -1,3 +1,5 @@
-## 2–3. §[^2]
+## 3. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 23. § (2) bekezdése a következő e) ponttal egészül ki:
 
-[^2]: A 2–3. § a 33. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## (A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználására vonatkozó előterjesztésben a rendkívüli kormányzati intézkedésekre szolgáló tartalék terhére átcsoportosítandó előirányzat mértéke nem lehet kevesebb, mint 50 millió forint. Az előterjesztésben)
+
+## „e) be kell mutatni a tartalék biztosításának célját.”
