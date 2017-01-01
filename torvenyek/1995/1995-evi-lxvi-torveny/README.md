@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2015-01-01 | 2014. évi CVI. törvény | 1995-66-00-00.36 |
 | 2015-10-15 | 2015. évi CLIV. törvény | 1995-66-00-00.37 |
 | 2016-07-10 | 2016. évi XCII. törvény | 1995-66-00-00.38 |
+| 2017-01-01 | 2016. évi CIV. törvény | 1995-66-00-00.39 |
