@@ -1,1 +1,3 @@
-## 5. § A közraktáraknak a Krt. 12. §-ának (2) bekezdésében meghatározott felügyeleti eljárási díj (a továbbiakban: felügyeleti díj) nyolcvan százalékát az 1. § (3) bekezdésében megjelölt bankszámlára való átutalással, ,,felügyeleti eljárási díj'' jogcím megjelöléssel, húsz százalékát az Állami Pénz- és Tőkepiaci Felügyelet 10032000-01456318-00000000 számú számlájára, 310 Kincstári Tranzakciós Kód megjelöléssel kell megfizetnie. Az erről szóló hitelt érdemlő igazolást a befizetést követően 8 napon belül meg kell küldeni a Felügyeletnek.
+## 5. §[^5] A közraktár a Krt. 12/A. §-ában meghatározott felügyeleti díjat (a továbbiakban: felügyeleti díj) az 1. § (3) bekezdésében megjelölt bankszámlára való átutalással, „felügyeleti díj” jogcím megjelöléssel fizeti meg. A közraktár az erről szóló igazolást a befizetést követően 8 napon belül megküldi a Felügyeletnek.
+
+[^5]: Az 5. § a 62/2016. (XII. 29.) NGM rendelet 5. § (3) bekezdésével megállapított szöveg.

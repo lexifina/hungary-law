@@ -6,6 +6,6 @@
 
 (2) A rendelet díjra vonatkozó rendelkezéseit a hatálybalépést követően kezdeményezett eljárásoknál kell alkalmazni.
 
-(3)[^2]
+(3)[^8]
 
-[^2]: A 10. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 11. §-ának 42. pontja hatályon kívül helyezte.
+[^8]: A 10. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 11. §-ának 42. pontja hatályon kívül helyezte.
