@@ -38,9 +38,9 @@ n) az értékesítés utáni ügyfélszolgálati és egyéb szolgáltatások, va
 
 o) arról, hogy rendelkezésre áll-e a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti magatartási kódex, illetve a magatartási kódexről történő másolatkérés módjáról;
 
-p) határozott időre szóló szerződés esetén a szerződés időtartamáról, határozatlan időre szóló szerződés esetén a szerződés megszüntetésének feltételeiről;
+p)[^3] adott esetben a szerződés időtartamáról, és ha a szerződés határozatlan időre szól vagy a szerződés a határozott idő elteltét követően határozott időre meghosszabbodik vagy határozatlan idejűvé alakul át, a szerződés felmondásának feltételeiről;
 
-q) a határozott időre szóló olyan szerződés esetén, amely határozatlan időtartamúvá alakulhat át, az átalakulás feltételeiről, és az így határozatlan időtartamúvá átalakult szerződés megszüntetésének feltételeiről;
+q)[^4]
 
 r) a fogyasztó kötelezettségeinek szerződés szerinti legrövidebb időtartamáról;
 
@@ -65,3 +65,6 @@ w) a békéltető testülethez fordulás lehetőségéről, a vállalkozás szé
 (6) Az (1) bekezdés szerinti tájékoztatás a szerződés részét képezi és nem módosítható, kivéve, ha a szerződő felek erről kifejezetten megállapodnak.
 
 (7) Az e §-ban meghatározott tájékoztatási kötelezettség teljesítésének bizonyítása a vállalkozást terheli.
+
+[^3]: A 11. § (1) bekezdés p) pontja a 453/2016. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^4]: A 11. § (1) bekezdés q) pontját a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte.
