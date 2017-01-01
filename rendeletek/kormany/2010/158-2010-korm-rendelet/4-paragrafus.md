@@ -1,3 +1,6 @@
-4. § (1) Az MVH nyilvántartásában elektronikus felhasználási móddal szereplő exportbizonyítvány használata esetén az ügyfél nem köteles papír alapú engedély bemutatására a kiviteli irányú vámkezelés során.
+4. § (1)[^6] A Kincstár nyilvántartásában elektronikus felhasználási móddal szereplő exportbizonyítvány használata esetén az ügyfél nem köteles papír alapú engedély bemutatására a kiviteli irányú vámkezelés során.
 
-(2) Az exportbizonyítvány hatálya alatt az exportengedély tulajdonosának kérelmére az MVH dönt a korábban kiállított engedély felhasználási módjának megváltoztatásáról.
+(2)[^7] Az exportbizonyítvány hatálya alatt az exportengedély tulajdonosának kérelmére a Kincstár dönt a korábban kiállított engedély felhasználási módjának megváltoztatásáról.
+
+[^6]: A 4. § (1) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 328/2016. (X. 28.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

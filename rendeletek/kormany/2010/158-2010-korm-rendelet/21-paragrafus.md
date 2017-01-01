@@ -1,3 +1,3 @@
-## 20. §[^13]
+## 20. §[^30]
 
-[^13]: A 20. §-t a 22. § (1) bekezdése hatályon kívül helyezte.
+[^30]: A 20. §-t a 22. § (1) bekezdése hatályon kívül helyezte.

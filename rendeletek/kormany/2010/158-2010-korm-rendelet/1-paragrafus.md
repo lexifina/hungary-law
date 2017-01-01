@@ -10,4 +10,6 @@
 
 5. non-Annex I. termékek: az Európai Közösséget létrehozó Szerződés 1. számú mellékletében nem szereplő, egyes feldolgozott mezőgazdasági és élelmiszer-ipari termékek;
 
-6. recept: az ügyfél Non-Annex I. termékek vonatkozásában a feldolgozott termék gyártásakor használt, export-visszatérítésben részesíthető alaptermékek mennyiségéről szóló nyilatkozata alapján, a Mezőgazdasági és Vidékfejlesztési Hivatal által elfogadott és nyilvántartásba vett termékösszetétel-igazolás.
+6.[^1] recept: az ügyfél Non-Annex I. termékek vonatkozásában a feldolgozott termék gyártásakor használt, export-visszatérítésben részesíthető alaptermékek mennyiségéről szóló nyilatkozata alapján, a Magyar Államkincstár (a továbbiakban: Kincstár) által elfogadott és nyilvántartásba vett termékösszetétel-igazolás.
+
+[^1]: Az 1. § 6. pontja a 328/2016. (X. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
