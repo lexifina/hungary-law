@@ -1,1 +1,0 @@
-A Kormány a tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény 29. §-ában, továbbá a tőkepiacról szóló 2001. évi CXX. törvény 451. § (1) bekezdés e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
