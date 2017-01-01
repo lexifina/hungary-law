@@ -1,0 +1,1 @@
+## „(3) A miniszter által kiadott (2) bekezdés a) vagy b) pontja szerinti tanúsítvány hiányában – a 6. § (5) bekezdésben és a 13/A. §-ban meghatározott esetektől eltekintve – a közbeszerzési eljárás nem kezdhető meg, vagy az 5. § (1a) bekezdésében foglaltak szerint nem folytatható.”
