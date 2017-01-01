@@ -16,7 +16,7 @@ f) a célkitermelőhelyről kitermelhető töltésanyag mennyiségét m3-ben,
 
 g) a tevékenységet végző megnevezését, székhelyét,
 
-h) a célkitermelőhellyel érintett illetékes bányászati hatáskörében eljáró illetékes kormányhivatal megnevezését.
+h) a célkitermelőhellyel érintett illetékes bányafelügyelet megnevezését.
 
 (3) Cél-kitermelőhely létesítése nem engedélyezhető külszíni művelésre megállapított bányatelek területén, illetve vízbázisok védőterületén, védett természeti területeken és védetté nyilvánított régészeti lelőhelyeken.
 

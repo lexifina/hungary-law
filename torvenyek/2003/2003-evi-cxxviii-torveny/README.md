@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-128-00-00
 | 2015-07-03 | 2015. évi LXXIX. törvény | 2003-128-00-00.27 |
 | 2016-01-07 | 2015. évi CCXXV. törvény | 2003-128-00-00.28 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 2003-128-00-00.29 |
+| 2017-01-01 | 2016. évi CIV. törvény | 2003-128-00-00.30 |
