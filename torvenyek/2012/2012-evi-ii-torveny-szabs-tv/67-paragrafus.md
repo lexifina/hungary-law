@@ -6,7 +6,7 @@
 
 (3) Az e §-ban nem szabályozott kérdésekben a tolmácsra e törvénynek a szakértőre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a külön jogszabályban meghatározott feltételeknek megfelelő személy vehető igénybe tolmácsként; ha ez nem lehetséges, a kellő nyelvismerettel rendelkező más személy (eseti tolmács) is kirendelhető. Tolmácson – az (5) bekezdés kivételével – a szakfordítót is érteni kell.
 
-(4) A tolmács díját és költségeit az állam viseli.
+(4)
 
 (5) Ha a bírósági eljárásban, illetve a rendőrség 117. § szerinti előkészítő eljárásában kirendelt tolmács fordításának minősége sérti az eljárás alá vont személy jogát vagy jogos érdekét, a bíróság hivatalból, vagy az eljárás alá vont személynek vagy képviselőjének a tárgyaláson előterjesztett kérelmére, a rendőrség pedig hivatalból, vagy az eljárás alá vont személynek vagy képviselőjének az eljárási cselekményen előterjesztett kérelmére másik tolmácsot rendelhet ki.
 

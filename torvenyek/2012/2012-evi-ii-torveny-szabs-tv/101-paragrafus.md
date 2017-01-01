@@ -2,6 +2,8 @@
 
 101. § (1) Az e törvény szerint helyszíni bírság kiszabására, illetve jogszabály alapján ellenőrzésre jogosult szerv vagy személy a szabálysértési elzárással nem büntethető szabálysértés tetten ért elkövetőjét, ha a helyszíni bírság kiszabását nem veszi tudomásul, vagy ha a helyszíni bírság kiszabása e törvény szerint kizárt, a szabálysértési eljárás azonnali lefolytatása érdekében az elkövetés helye szerint illetékes szabálysértési hatósággal egyeztetett, de legkésőbb öt napon belüli időpontra a helyszínen a szabálysértési hatóság elé idézheti.
 
+(1a) Az (1) bekezdés szerinti helyszíni idézés a XXVII. és XXVIII. Fejezet szerinti szabálysértések esetén akkor is alkalmazható, ha a cselekmény elkövetése miatt eljárás alá vonható személy az e törvény szerint helyszíni bírság kiszabására, illetve jogszabály alapján ellenőrzésre jogosult szerv vagy személy helyszínen tett helyszíni intézkedése során válik ismertté.
+
 (2) A helyszíni bírság kiszabására jogosult szerv vagy személy beszerzi a helyszínen fellelhető, az eljárás lefolytatásához szükséges bizonyítékokat és a helyszínen tartózkodó tanúkat idézi. A beszerzett bizonyítékokról és a tanúkutatás eredményéről feljegyzést készít, amelyben a szabálysértési hatóság által történő döntéshozatalhoz szükséges mértékben részletezi a szabálysértést.
 
 (3) Az idézést az idézett személy személyi adatainak, a szabálysértési hatóság megnevezésének, a meghallgatás helyének és idejének, az idézés kézbesítője nevének, valamint a szabálysértés megnevezésének, továbbá a megjelenés elmulasztása következményeinek a megjelölésével a (2) bekezdésben írt feljegyzésbe kell foglalni.

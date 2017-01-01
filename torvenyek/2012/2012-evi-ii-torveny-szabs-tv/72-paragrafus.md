@@ -8,7 +8,7 @@
 
 (2) A szabálysértési hatóság elővezetését rendeli el annak az elkövetőnek, aki a szabályszerűen kézbesített felhívás ellenére a büntetésként kiszabott szabálysértési elzárás vagy a nem teljesített közérdekű munka, a meg nem fizetett pénzbírság, illetve helyszíni bírság helyébe lépő szabálysértési elzárás végrehajtására kijelölt büntetés-végrehajtási intézetben a megadott határnapon nem jelenik meg.
 
-(3) Az elővezetést határozattal kell elrendelni. A nem teljesített közérdekű munka, a meg nem fizetett pénzbírság, illetve helyszíni bírság helyébe lépő szabálysértési elzárás végrehajtása esetében esetben a határozatnak azt is tartalmaznia kell, hogy az eljárás alá vont személy mentesül az elővezetés foganatosítása, illetve a szabálysértési elzárás végrehajtása alól, ha az eljárás alá vont személy vagy más személy a pénzbírságot az elővezetés megkezdésekor vagy annak foganatosítása alatt hiánytalanul megfizeti és ezt igazolja.
+(3) Az elővezetést határozattal kell elrendelni. A nem teljesített közérdekű munka, a meg nem fizetett pénzbírság, illetve helyszíni bírság helyébe lépő szabálysértési elzárás végrehajtása esetében a határozatnak azt is tartalmaznia kell, hogy az eljárás alá vont személy mentesül az elővezetés foganatosítása, illetve a szabálysértési elzárás végrehajtása alól, ha az eljárás alá vont személy vagy más személy a pénzbírságot az elővezetés megkezdésekor vagy annak foganatosítása alatt hiánytalanul megfizeti és ezt igazolja.
 
 (4) A szabálysértési hatóság által elrendelt elővezetés esetén az elrendelés és az elővezetés között negyvennyolc órának el kell telnie.
 

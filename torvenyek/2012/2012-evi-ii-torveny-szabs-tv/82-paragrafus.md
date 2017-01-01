@@ -6,7 +6,9 @@ a) az ügy érdemi elbírálása olyan előzetes kérdés eldöntésétől függ
 
 b) az eljárás alá vont személy ismeretlen helyen vagy külföldön tartózkodik és távollétében az ügy érdemi elbírálása nem lehetséges,
 
-c) a szabálysértési hatóság vagy a bíróság az ügyet közvetítői eljárásra utalja.
+c) a szabálysértési hatóság vagy a bíróság az ügyet közvetítői eljárásra utalja,
+
+d) az eljárás alá vont személy tartós, súlyos betegsége vagy a szabálysértés elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt.
 
 (2) A bíróság az eljárást hivatalból vagy indítványra felfüggeszti és az Alkotmánybíróság eljárását kezdeményezi, ha az ügy elbírálása során olyan jogszabályt vagy közjogi szervezetszabályozó eszközt, illetve jogegységi határozatot kell alkalmazni, amelynek alaptörvény-ellenességét vagy nemzetközi szerződésbe ütközését észleli.
 
@@ -17,3 +19,5 @@ c) a szabálysértési hatóság vagy a bíróság az ügyet közvetítői eljá
 (3b) Ha az eljárásnak az (1) bekezdés c) pontja alapján elrendelt felfüggesztése során a közvetítő a közvetítői eljárás eredménytelen lezárásáról tájékoztatja a szabálysértési hatóságot vagy a bíróságot, az eljárást folytatni kell.
 
 (4) Az eljárás felfüggesztésének ideje az elévülés tartamába nem számít be, azonban a cselekmény elkövetésétől számított két év elteltével a rendelkezésre álló adatok alapján be kell fejezni az eljárást.
+
+(5) A szabálysértési eljárást felfüggesztő határozat ellen nincs helye jogorvoslatnak.

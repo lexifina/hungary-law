@@ -10,7 +10,7 @@
 
 138. § (1) A határozat, illetve a végzés jogerős
 
-a) a közlése napján, ha ellene nincs helye jogorvoslatnak,
+a) a meghozatala napján, ha ellene nincs helye jogorvoslatnak,
 
 b) a jogorvoslat benyújtására nyitva álló határidő leteltét követő napon, ha ellene határidőben nem terjesztettek elő jogorvoslatot,
 

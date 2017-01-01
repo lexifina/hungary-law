@@ -10,7 +10,9 @@ a)
 
 b) kijelölje a szabálysértési nyilvántartási rendszer tekintetében az adatkezelői feladatokat ellátó szervet,
 
-c) meghatározza a XXVII. és a XXVIII. Fejezetben foglalt egyes szabálysértések esetén a pénzbírság, illetve a helyszíni bírság kötelező mértékét.
+c) meghatározza a XXVII. és a XXVIII. Fejezetben foglalt egyes szabálysértések esetén a pénzbírság, illetve a helyszíni bírság kötelező mértékét,
+
+d) meghatározza a bírósági ügyintézők által szabálysértési eljárásban ellátható feladatokat.
 
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy
 

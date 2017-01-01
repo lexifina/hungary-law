@@ -6,7 +6,7 @@
 
 (3) Ha a szabálysértési hatóság vagy a bíróság az elsőfokú érdemi döntés meghozataláig a (4) bekezdés a) és c) pontjában foglalt feltételek fennállását megállapítja és az eljárás más okból történő felfüggesztésének vagy megszüntetésének nincs helye, továbbá a közvetítői eljárást kizáró ok nem áll fenn, haladéktalanul, 8 napos határidő tűzése mellett nyilatkozattételre hívja fel az eljárás alá vont személyt és a sértettet, feltéve, hogy a nyilatkozatok nem állnak rendelkezésre. A felhívásban tájékoztatást ad a közvetítői eljárás lehetőségéről, annak szabályairól és feltételeiről, a lehetséges költségekről, valamint a pártfogó felügyelői szolgálat vezető közvetítőjének elérhetőségéről.
 
-(4) A szabálysértési hatóság vagy a bíróság az eljárás alá vont személy vagy a sértett indítványára a szabálysértési elzárással is büntethető szabálysértés, valamint a fiatalkorú által elkövetett szabálysértés miatt indult eljárást legfeljebb 30 napi időtartamra felfüggeszti és az ügyet közvetítői eljárásra utalja, ha
+(4) A szabálysértési hatóság vagy a bíróság az eljárás alá vont személy vagy a sértett indítványára a szabálysértési elzárással is büntethető szabálysértés, a XXVII. és XXVIII. Fejezetben meghatározott szabálysértések, valamint a fiatalkorú által elkövetett szabálysértés miatt indult eljárást legfeljebb 30 napi időtartamra felfüggeszti és az ügyet közvetítői eljárásra utalja, ha
 
 a) az eljárás alá vont személy a szabálysértés elkövetéséért való felelősségét elismerte, valamint vállalja a szabálysértéssel okozott sérelmet a sértett által elfogadott módon és mértékben jóvátenni,
 

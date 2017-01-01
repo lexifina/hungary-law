@@ -12,6 +12,6 @@
 
 (6) A tizennyolcadik életévét be nem töltött tanú meghallgatásán törvényes képviselője is részt vehet.
 
-(7) A még meg nem hallgatott tanú nem lehet jelen az eljárás alá vont személy, más tanú és a szakértő meghallgatásakor. A tanú meghallgatásán nem lehet jelen az eljárás alá vont személy és az eljárás egyéb résztvevője, ha a tanú minősített adatról tesz vallomást. Ha elrendelték a tanú adatainak zártan kezelését, az eljárás alá vont személy a tanú meghallgatásán csak akkor lehet jelen, ha a tanú ehhez hozzájárul.
+(7) A még meg nem hallgatott tanú nem lehet jelen az eljárás alá vont személy, más tanú és a szakértő meghallgatásakor. A tanú meghallgatásán nem lehet jelen az eljárás alá vont személy és az eljárás egyéb résztvevője, ha a tanú minősített adatról tesz vallomást. Ha elrendelték a tanú adatainak zártan kezelését, az eljárás alá vont személy a tanú meghallgatásán csak akkor lehet jelen, ha a tanú ehhez hozzájárul. Az így kizárt eljárás alá vont személyt a meghallgatást követően értesíteni kell arról, hogy a meghallgatás során távollétében történteket megismerheti.
 
 (8) A kiskorút a törvényes képviselője útján kell idézni, illetve értesíteni, idézés esetén azzal a felhívással, hogy a törvényes képviselő a megjelenéséről gondoskodjék.

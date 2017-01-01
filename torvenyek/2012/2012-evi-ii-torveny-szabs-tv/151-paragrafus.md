@@ -32,7 +32,7 @@ c) a nyilvántartott elhalálozásának tényét és időpontját.
 
 (5) A szabálysértési nyilvántartó szerv a személyazonosító adatok nyilvántartásában szereplő adatokat – azok változásának nyomon követése céljából – az adatok bejegyzésekor, módosításakor vagy javításakor, valamint az adatigénylés alapján vagy a kérelmező saját adatairól történő adattovábbítást megelőzően, elektronikus úton összehasonlítja
 
-a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal,
+a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
 
 b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal.
 

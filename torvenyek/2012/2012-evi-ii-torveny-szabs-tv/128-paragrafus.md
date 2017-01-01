@@ -14,6 +14,6 @@ d) az ügyész, a 127. § (1a) bekezdésében meghatározott esetben.
 
 (3) Az ügyész terjeszthet elő perújítási kérelmet, ha az elkövető által elkövetett bűncselekményt e törvény szerinti eljárásban, szabálysértésként bírálták el.
 
-(4) A szabálysértési elzárással is büntethető szabálysértés miatt az előkészítő eljárást lefolytató szerv az ügyész jóváhagyásával terjeszthet elő perújítási kérelmet az elkövető terhére.
+(4)
 
 (5) A perújítási kérelmet az előterjesztő mindaddig visszavonhatja, amíg a bíróság a perújítás megengedhetősége kérdésében határozatot nem hozott.

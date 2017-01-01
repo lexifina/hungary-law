@@ -12,12 +12,12 @@
 
 (4) A (3) bekezdés rendelkezése alapján nem kutatható át közjegyzői és ügyvédi iroda, valamint egészségügyi intézmény.
 
-(4a) Ha az előkészítő eljárás során mind a sértett, mind az elkövető kiléte megállapítható és a közvetítői eljárással összefüggő, a 82/A. § (5) bekezdésében meghatározott kizáró feltétel nem áll fenn, a rendőrség a sértettet és az eljárás alá vont személyt tájékoztatja a szabálysértési eljárásban alkalmazható közvetítői eljárás szabályairól, valamint arról, hogy a közvetítői eljárásra utaláshoz szükséges jognyilatkozatok az előkészítő eljárásban is előterjeszthetők.
+(4a) Ha az előkészítő eljárás során mind a sértett, mind az elkövető kiléte megállapítható és a közvetítői eljárással összefüggő, a 82/A. § (5) bekezdésében meghatározott kizáró feltétel nem áll fenn, a rendőrség a sértettet és az eljárás alá vont személyt tájékoztatja a szabálysértési eljárásban alkalmazható közvetítői eljárás szabályairól, valamint arról, hogy a közvetítői eljárásra utaláshoz szükséges jognyilatkozatok az előkészítő eljárásban is előterjeszthetők. Az előkészítő eljárás során a közvetítői eljárással összefüggésben a szabálysértési hatóság alatt az előkészítő eljárást lefolytató szervet is érteni kell.
 
 (5) Az előkészítő eljárás befejezését követően a rendőrség az előkészítő eljárás során keletkezett iratokat, adatokat, megállapításokat tartalmazó jelentését – a (7) bekezdésben foglalt eseten kívül – haladéktalanul megküldi a bíróságnak.
 
 (6) A rendőrség az (5) bekezdésben foglalt jelentésnek a bírósághoz történő megküldését megelőzően – az érték-egybefoglalás megállapíthatósága érdekében – ellenőrzi, hogy az eljárás alá vont személlyel szemben tulajdon elleni szabálysértés elkövetése miatt folyik-e másik előkészítő eljárás.
 
-(7) Az előkészítő eljárás során az eljárás megszüntetésére a 83. §-ban, valamint a panasszal kapcsolatban a 98. §-ban foglaltakat kell alkalmazni.
+(7) Az előkészítő eljárás során az eljárás felfüggesztésére a 82. §-ban, az eljárás megszüntetésére a 83. §-ban, valamint a panasszal kapcsolatban a 98. §-ban foglaltakat kell alkalmazni.
 
 (8) Ha a szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy lakóhelye, illetve tartózkodási helye ismeretlen, lakóhelyének, illetve tartózkodási helyének megállapítása, valamint előállítása érdekében a bíróság vagy az előkészítő eljárást folytató szerv a körözését rendelheti el. A körözést vissza kell vonni, ha az elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.

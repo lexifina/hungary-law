@@ -10,6 +10,4 @@ szabálysértést követ el.
 
 (2) Aki települési hulladékot a közterületen engedély nélkül lerak, elhelyez, vagy nem a kijelölt lerakóhelyen rak le vagy helyez el, szabálysértést követ el.
 
-(3)
-
-(4) Az (1) és (3) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
+(3) Az (1) és (2) bekezdésekben meghatározott szabálysértés miatt a közterület-felügyelő, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr, az önkormányzat közigazgatási területéhez tartozó termőföldeken a mezőőr is szabhat ki helyszíni bírságot.

@@ -6,4 +6,4 @@
 
 (4) Az igazolási kérelemnek sem az eljárás folytatására, sem a határozat végrehajtására nincs halasztó hatálya; indokolt esetben azonban a szabálysértési hatóság, illetve a bíróság a határozat végrehajtását felfüggesztheti.
 
-(5) Az igazolási kérelemnek helyt adó határozat vagy végzés ellen nincs helye jogorvoslatnak.
+(5) Az igazolási kérelemnek helyt adó határozat vagy végzés ellen, valamint a határozat végrehajtását felfüggesztő rendelkezés ellen nincs helye jogorvoslatnak.

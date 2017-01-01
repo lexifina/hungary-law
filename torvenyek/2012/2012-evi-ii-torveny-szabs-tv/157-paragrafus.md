@@ -62,21 +62,7 @@ c) a kitiltással érintett kereskedelmi létesítmény megnevezésére vagy egy
 
 a kitiltással érintett kereskedelmi létesítmény, illetve kereskedelmi tevékenység helyéül szolgáló egyéb helyszín ellenőrzésére jogosult szerv részére átadhatja.
 
-(3a) Az általános rendőrségi feladatokat ellátó szerv központi szerve a 141. § (2d) bekezdésében meghatározott feladat- és hatáskörében közvetlen hozzáféréssel jogosult átvenni
-
-a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés aa), ab), ad), ae) és ah) pontjában szereplő, az érintett személyre vonatkozó,
-
-b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából
-
-ba) a 153. § (2) bekezdés c) pontjából az eljárt szabálysértési hatóság megnevezésére, határozatának számára, a határozat jogerőre emelkedésének napjára vonatkozó,
-
-bb) a 153. § (2) bekezdés d) pontjában szereplő adatokból a pénzbírság összegére vonatkozó,
-
-bc) a 153. § (2) bekezdés f) pontjában szereplő,
-
-bd) a 153. § (2) bekezdés o) pontjából az oa)–od) alpontban szereplő
-
-adatokat.
+(3a)
 
 (4) Az (1)–(3) bekezdésben felsoroltakon kívül a szabálysértési nyilvántartásokból adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít a szabálysértési nyilvántartások adatainak megismerésére.
 

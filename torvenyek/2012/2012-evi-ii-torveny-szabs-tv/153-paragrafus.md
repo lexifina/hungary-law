@@ -60,7 +60,7 @@ f) a (2) bekezdés o) pontja esetén az a szerv vagy személy, amelyik vagy aki 
 
 g) a (2) bekezdés g), h) és m) pontja esetén az állami foglalkoztatási szerv.
 
-h) a 141. § (2d) bekezdés szerinti esetben a (2) bekezdés f) pontja és a (2) bekezdés o) pont od) alpontja szerinti adatokat az általános rendőrségi feladatokat ellátó szerv központi szerve.
+h)
 
 (3a) A (2) bekezdés l) pontjában az elzárás felfüggesztésének tényére és a próbaidő tartamára vonatkozó adatot a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában – jogszabályban meghatározott módon és formában – a bíróság rögzíti.
 

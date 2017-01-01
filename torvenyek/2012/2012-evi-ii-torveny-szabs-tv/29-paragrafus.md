@@ -37,3 +37,11 @@ c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysért�
 d) médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
 
 e) nyilvános rendezvény a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett látogatható.
+
+(3) E törvény
+
+a) 132/B. alcímének alkalmazásában korlátozott robbanóanyag-prekurzor a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: EU Rendelet) I. és II. MELLÉKLETÉBEN,
+
+b) 136/A. alcímének alkalmazásában korlátozott robbanóanyag-prekurzor az EU Rendelet I. MELLÉKLETÉBEN
+
+foglalt – az ott meghatározott határértéket meghaladó koncentrációjú – anyag vagy keverék.

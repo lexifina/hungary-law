@@ -2,6 +2,8 @@
 
 141. § (1) A pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni. A pénzbírság, a helyszíni bírság, a rendbírság, valamint a szabálysértési költség befizetéséből származó bevétel az államháztartás központi alrendszerének bevételét képezi.
 
+(1a) A bíróság és az általános szabálysértési hatóság feladat- és hatáskörébe tartozó eljárások vonatkozásában a pénzbírságból, szabálysértési költségből, rendbírságból, helyszíni bírságból származó bevételt az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a kincstárnál vezetett egységes szabálysértési célelszámolási számlán kezeli.
+
 (2) Az általános szabálysértési hatóság által kiszabott helyszíni bírság, valamint pénzbírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
 (2a) A szabálysértési hatóság jogkörében eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv szabálysértési hatósága által kiszabott pénzbírság, valamint helyszíni bírság végrehajtásáról a szabálysértési jogkörben eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott szabálysértési hatósági jogkörben eljáró rendőri szerv gondoskodik.
@@ -20,17 +22,31 @@ d) a felderítés helye
 
 szerint illetékes.
 
-(2d) Ha a pénzbírság vagy a helyszíni bírság végrehajtására az általános szabálysértési hatóság rendelkezik feladat- és hatáskörrel, azok befizetésének ellenőrzésére az általános rendőrségi feladatokat ellátó szerv központi szerve is feladat- és hatáskörrel rendelkezik.
+(2d) A bíróság és az általános szabálysértési hatóság által kiszabott pénzbírság, rendbírság, megállapított szabálysértési költség, valamint az általános szabálysértési hatóság által kiszabott helyszíni bírság befizetésének ellenőrzésére és azonosítására, továbbá a 39. § (2) bekezdés c)–i) pontjában felsorolt szervek, illetve személyek által kiszabott és a végrehajtási eljárás során befizetett helyszíni bírság azonosítására az általános rendőrségi feladatokat ellátó szerv központi szerve is feladat- és hatáskörrel rendelkezik.
 
-(2e) A (2d) bekezdésben meghatározott feladat ellátása érdekében az általános szabálysértési hatóság elektronikus hozzáférést biztosít a beszedési számláinak kivonatához az általános rendőrségi feladatokat ellátó szerv központi szerve részére.
+(2e) A (2d) bekezdésben meghatározott feladat ellátása érdekében a beszedési számla tulajdonosa az általános szabálysértési hatóság által használt beszedési számla kivonatát és adatait elektronikus úton az általános rendőrségi feladatokat ellátó szerv központi szerve rendelkezésére bocsátja.
 
-(2f) Az általános szabálysértési hatóság az általános rendőrségi feladatokat ellátó szerv központi szerve részére a (2d) bekezdésben meghatározott feladat ellátása érdekében a 157. § (3a) bekezdése szerinti adatkörből rendelkezésére álló adatokat továbbítja. Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2g) bekezdés szerinti feladatok ellátását követően ezeket az adatokat törli.
+(2f) Az általános szabálysértési hatóság az általános rendőrségi feladatokat ellátó szerv központi szerve részére a (2d) bekezdésben meghatározott feladat ellátása érdekében a rendelkezésére álló, a
 
-(2g) Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2d) bekezdésben meghatározott feladat ellátása során összeveti a feladatellátásával összefüggésben rendelkezésre álló adatokat, és az összevetés eredményeképpen elvégzi a 153. § (3) bekezdés h) pontja szerinti feladatokat.
+a) 151. § (2) bekezdés a) pont aa), ab), ad), ae) és ah) alpontja szerinti,
+
+b) 153. § (2) bekezdés c) pontjában szereplő adatokból az eljárt szabálysértési hatóság vagy bíróság megnevezésére, határozatának számára, a határozat jogerőre emelkedésének napjára vonatkozó,
+
+c) 153. § (2) bekezdés d) pontjában szereplő adatokból a pénzbírság összegére vonatkozó,
+
+d) 153. § (2) bekezdés f) pontjában szereplő,
+
+e) 153. § (2) bekezdés o) pont oa)–od) alpontban szereplő
+
+adatokat elektronikus formában automatikusan továbbítja.
+
+(2g) Az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a (2f) bekezdésében meghatározott adatokról a bevételekkel kapcsolatos követelésekkel és kötelezettségekkel összefüggő jelentési kötelezettség teljesítése érdekében nyilvántartást vezet. Az általános rendőrségi feladatokat ellátó szerv központi szerve a nyilvántartásban az adatokat a nyilvántartásba vételüktől számított nyolc évig kezeli. Az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a nyilvántartásban szereplő adatokat a beszedési számlatulajdonos részére havonta továbbítja, a nyilvántartásból törvény eltérő rendelkezése hiányában további adattovábbításnak nincs helye.
+
+(2h) Az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a (2d) bekezdésben meghatározott feladat elvégzése során összeveti a feladatellátásával összefüggésben rendelkezésére álló adatokat, és az összevetés eredményeként kapott adatokat a szabálysértési nyilvántartásokba történő rögzítés, illetve annak kezdeményezése érdekében elektronikus formában automatikusan megküldi az általános szabálysértési hatóságnak.
 
 (3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
-(4) A bíróság az alkalmazott joghátrányokról, a jogerős határozat kiadmányának megküldésével értesíti a (3) bekezdésben meghatározott általános szabálysértési hatóságot.
+(4) A bíróság a kiszabott pénzbírságról, rendbírságról, megállapított szabálysértési költségről – a jogerős határozat kiadmányának megküldésével – értesíti a (3) bekezdésben meghatározott általános szabálysértési hatóságot azzal, hogy a jogerős határozat kiadmányának megküldésével egyidejűleg tájékoztatást nyújt a kötelezett részére megküldött és az ügy azonosítóival kitöltött készpénz-átutalási megbízás azonosítójáról is. Amennyiben a technikai feltételei rendelkezésre állnak, úgy a bíróság e tájékoztatási kötelezettségének elektronikus úton tesz eleget.
 
 (5) A 39. § (2) bekezdés c)–i) pontjában meghatározott helyszíni bírságot kiszabó személy a nála keletkezett iratok megküldésével – a (2) bekezdésben meghatározottak kivételével – akkor értesíti az elkövető lakóhelye szerinti általános szabálysértési hatóságot, ha a helyszíni bírság a kiszabását követő harmincötödik napon sem folyt be.
 

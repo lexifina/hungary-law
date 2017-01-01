@@ -26,4 +26,4 @@ b) az eljárás alá vont személy képviselőjét, ha a bíróság megítélés
 
 (7a) A (3) bekezdés b) pontja szerint idézett képviselő jelenlétének hiánya csak abban az esetben akadálya a tárgyalás megtartásának, ha a tárgyaláson az eljárás alá vont személy sem jelenik meg, így a kifogás tárgyában megalapozott döntés nem hozható.
 
-(8) A bíróság a tárgyalásról értesíti a szabálysértési hatóságot, az eljárás alá vont személy képviselőjét és a sértettet. Ha a szabálysértési hatóság képviselője a részvételi szándékát bejelentette, távollétében a tárgyalás nem tartható meg.
+(8) A bíróság a tárgyalásról értesíti az eljárás alá vont személy képviselőjét és a sértettet, valamint – amennyiben a szabálysértési hatóság a felterjesztés során részvételi szándékát kifejezetten jelezte – a szabálysértési hatóságot. Ha a szabálysértési hatóság képviselője a részvételi szándékát bejelentette, távollétében a tárgyalás nem tartható meg.

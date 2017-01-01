@@ -4,7 +4,7 @@
 
 ## 201. Az óvodai nevelésben való részvételi kötelezettség és a tankötelezettség megszegése
 
-247. § Az a szülő vagy törvényes képviselő
+247. § (1) Az a szülő vagy törvényes képviselő
 
 a) aki a szülői felügyelete vagy gyámsága alatt álló gyermeket kellő időben az óvodába, illetve az iskolába nem íratja be,
 
