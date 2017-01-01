@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-49-20-1
 | 2016-04-12 | 2015-49-20-11.4 | 77/2015. (XII. 1.) FM rendelet |
 | 2016-07-22 | 2015-49-20-11.5 | 77/2015. (XII. 1.) FM rendelet |
 | 2016-12-13 | 2015-49-20-11.6 | 78/2016. (XII. 12.) FM rendelet |
+| 2017-01-01 | 2015-49-20-11.7 | 88/2016. (XII. 29.) FM rendelet |
