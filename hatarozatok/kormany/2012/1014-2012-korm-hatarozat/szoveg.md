@@ -18,13 +18,13 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: azonnal
 
-3. A megszűnést követően a Közalapítvány vagyonának számbavételére és a hitelezők kielégítésére – a Közalapítvány vagyona értéke erejéig –, valamint a megszűnő Közalapítvány iratainak jogszabály szerint kötelező őrzésére a Kormány a nemzeti erőforrás minisztert jelöli ki. A Közalapítvány hitelezők kielégítése után fennmaradt vagyonát – ideértve a vagyoni értékű jogokat is – a Kormány a Nemzeti Erőforrás Minisztérium támogatására fordítja, amely vagyont a Nemzeti Erőforrás Minisztérium egyéb bevételként számolja el, és köteles azt a 2. pont c) alpontja szerinti feladatokra fordítani. A Kormány egyetért azzal, hogy a Közalapítvány tulajdonában álló filmalkotásokat az Alapító nevében a nemzeti erőforrás miniszter a Magyar Nemzeti Digitális Archívum és Filmintézet támogatására fordítja.
+3.[^1] A megszűnést követően a Közalapítvány vagyonának számbavételére és a hitelezők kielégítésére – a Közalapítvány vagyona értéke erejéig –, valamint a megszűnő Közalapítvány iratainak jogszabály szerint kötelező őrzésére a Kormány a nemzeti erőforrás minisztert jelöli ki. A Közalapítvány hitelezők kielégítése után fennmaradt vagyonát – ideértve a vagyoni értékű jogokat is – a Kormány a Nemzeti Erőforrás Minisztérium támogatására fordítja, amely vagyont a Nemzeti Erőforrás Minisztérium egyéb bevételként számolja el, és köteles azt a 2. pont c) alpontja szerinti feladatokra fordítani. A Kormány egyetért azzal, hogy a Közalapítvány tulajdonában álló filmalkotásokat az Alapító nevében a nemzeti erőforrás miniszter a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar Nemzeti Filmalap) támogatására fordítja.
 
 Felelős: nemzeti erőforrás miniszter
 
 Határidő: a Közalapítvány bírósági nyilvántartásból való törlését követően azonnal
 
-4. A Kormány felhívja a nemzeti erőforrás minisztert, hogy a megszüntetésre kerülő Közalapítványnál megőrzés céljából elhelyezett filmalkotások további elhelyezéséről a Magyar Nemzeti Digitális Archívum és Filmintézeten keresztül gondoskodjon.
+4.[^2] A Kormány felhívja a nemzeti erőforrás minisztert, hogy a megszüntetésre kerülő Közalapítványnál megőrzés céljából elhelyezett filmalkotások további elhelyezéséről a Magyar Nemzeti Filmalapon keresztül gondoskodjon.
 
 Felelős: nemzeti erőforrás miniszter
 
@@ -37,3 +37,6 @@ Felelős: nemzeti erőforrás miniszter
 Határidő: a Közalapítvány bírósági nyilvántartásból való törlését követően azonnal
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont az 1853/2016. (XII. 27.) Korm. határozat 13. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 13. pont b) alpontja szerint módosított szöveg.
