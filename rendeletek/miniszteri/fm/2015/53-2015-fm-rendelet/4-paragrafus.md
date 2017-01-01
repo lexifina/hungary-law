@@ -2,19 +2,19 @@
 
 a) tárgyévente a jogosult településen található, és a 3. § (2) bekezdése szerinti támogatási jogosultságok számánál nem kevesebb hektárszámú mezőgazdasági terület vonatkozásában az EMGA-ból finanszírozott egységes területalapú támogatást kérelmezni
 
-b) 2015-ben október 7-éig az MVH által rendszeresített és a honlapján közzétett nyomtatványon, 2016. évtől kezdődően évente az egységes kérelem keretében nyilatkozni arról, hogy a tárgyévben mely településen, milyen elismert tevékenységet kíván folytatni,
+b)[^7] évente az egységes kérelem keretében nyilatkozni arról, hogy a tárgyévben mely településen, milyen elismert tevékenységet kíván folytatni,
 
 c) az elismert tevékenység keretében támogatási jogosultságonként tárgyévente 500 munkaóra elismert élőmunka ráfordítást biztosítani,
 
 d) az elismert tevékenység keretében támogatási jogosultságonként legalább 200 000 forint árbevételt teljesíteni, és
 
-e) a 2016. évtől kezdődően a tárgyévet követő év február 15-ig az MVH által rendszeresített és a honlapján közzétett nyomtatványon a személyi azonosításához szükséges adatokon túl nyilatkozni a c) és d) pontban foglalt feltételeknek a tárgyév alatti teljesítéséről, valamint arról, hogy élőmunka ráfordítási kötelezettségét a jogosult településen történő munkavégzéssel teljesítette.
+e)[^8] a 2016. évtől kezdődően a tárgyévet követő év február 15-ig a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a személyi azonosításához szükséges adatokon túl nyilatkozni a c) és d) pontban foglalt feltételeknek a tárgyév alatti teljesítéséről, valamint arról, hogy élőmunka ráfordítási kötelezettségét a jogosult településen történő munkavégzéssel teljesítette.
 
 (2) Ha a dohánytermelőt megillető támogatási jogosultságot töredék hektár figyelembevételével állapították meg, akkor az (1) bekezdés c) és d) pontjában foglalt éves kötelezettségeket is arányosan csökkentve kell a dohánytermelőnek teljesíteni.
 
 (3) Az (1) bekezdésben foglalt élőmunka ráfordítási, vagy élőmunka ráfordítási és árbevétel teljesítési kötelezettségét a dohánytermelő legfeljebb három, valamelyik jogosult településen mezőgazdasági tevékenységet folytató együttműködő termelővel megoszthatja, függetlenül attól, hogy az egységes kérelmet a családi gazdálkodó nyújtotta-e be. A megosztás legalább egy támogatási jogosultság vonatkozásában lehetséges azzal, hogy a megosztás következtében a dohánytermelőnek nem keletkezhet alacsonyabb élőmunka ráfordítási kötelezettsége, mint az együttműködő termelőknek.
 
-(4) A kötelezettség-megosztásra vonatkozó, az együttműködő termelő a (3) bekezdésben foglalt feltételek teljesítését igazoló adatait is tartalmazó bejelentőlapot és az átvállalt kötelezettségek megismerésére vonatkozó nyilatkozatát az MVH által rendszeresített és a honlapján közzétett nyomtatványon a dohánytermelőnek és az együttműködő termelőnek 2015-ben szeptember 15. és október 7., a 2016. évtől kezdődően április 1. és április 30. közötti időszakban, közösen kell benyújtani az MVH részére. A jogszabályi előírásnak nem megfelelő kötelezettség-megosztási kérelemről az MVH a dohánytermelőt végzésben értesíti.
+(4)[^9] A kötelezettség-megosztásra vonatkozó, az együttműködő termelő a (3) bekezdésben foglalt feltételek teljesítését igazoló adatait is tartalmazó bejelentőlapot és az átvállalt kötelezettségek megismerésére vonatkozó nyilatkozatát a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a dohánytermelőnek és az együttműködő termelőnek 2015-ben szeptember 15. és október 7., a 2016. évtől kezdődően április 1. és április 30. közötti időszakban, közösen kell benyújtani a Kincstár részére. A jogszabályi előírásnak nem megfelelő kötelezettség-megosztási kérelemről a Kincstár a dohánytermelőt végzésben értesíti.
 
 (5) A (3) bekezdés szerinti kötelezettség-megosztás esetén is köteles a dohánytermelő a szerkezetátalakítási program feltételeinek teljesítését igazolni, és a nem teljesítésből fakadó jogkövetkezményt viselni.
 
@@ -49,3 +49,7 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 (14) A (3) bekezdés szerinti kötelezettség-megosztás esetén a dohánytermelő és a vele együttműködő termelő együttesen köteles megtenni az (1) bekezdés e) pontja szerinti nyilatkozatot azzal, hogy a kötelezettséget a dohánytermelő és az együttműködő termelő a megosztás arányában külön-külön köteles teljesíteni és a teljesítésről nyilatkozni.
 
 (15) Az e § szempontjából az egyszerűsített foglalkoztatásról szóló törvény alapján megfizetett napi közteher csak azon órák tekintetében vehető figyelembe, amelyeket ténylegesen teljesítettek és igazoltak.
+
+[^7]: A 4. § (1) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 95. § a) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdés e) pontja a 88/2016. (XII. 29.) FM rendelet 94. § c) pontja szerint módosított szöveg.
+[^9]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § d) pontja szerint módosított szöveg.

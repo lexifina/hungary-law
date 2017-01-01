@@ -2,13 +2,13 @@
 
 (2) Az (1) bekezdésben foglalt támogatás további feltétele, hogy a dohánytermelő a dohányszárítót dohánylevél szárítás céljára tárgyévben ténylegesen működtesse, és erről a (3) bekezdés szerinti üzemnaplóval alátámasztott nyilatkozatot tegyen.
 
-(3) Az (2) bekezdésben meghatározott működtetés nyilvántartása céljából az (1) bekezdésben foglalt támogatásra jogosult dohánytermelő a saját és a bérszárított dohány termelése vonatkozásában is köteles telephelyenként üzemnaplót vezetni az MVH által rendszeresített és a honlapján közleményben közzétett nyomtatványnak megfelelően. Az üzemnaplót a számvitelről szóló törvény szerinti számviteli bizonylatként kell kezelni.
+(3)[^19] Az (2) bekezdésben meghatározott működtetés nyilvántartása céljából az (1) bekezdésben foglalt támogatásra jogosult dohánytermelő a saját és a bérszárított dohány termelése vonatkozásában is köteles telephelyenként üzemnaplót vezetni a Kincstár által rendszeresített és a honlapján közleményben közzétett nyomtatványnak megfelelően. Az üzemnaplót a számvitelről szóló törvény szerinti számviteli bizonylatként kell kezelni.
 
 (4) Bérszárítás esetén az üzemnaplót mind a bérbeadónak, mind pedig a bérbevevőnek alá kell írnia, amelyből egy példányt a bérbevevő kap meg.
 
 (5) A természetes szárítású dohány esetében az (1)–(4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a dohányszárító működési költségei alatt a felhasznált tüzelőanyag helyett a számlával igazoltan megvásárolt természetes alapanyagú fűzőzsineg felhasználását kell érteni (hektáronként 7x2 kilogrammos keresztorsó).
 
-(6)[^7] Az energiával fűtött dohányszárítónként vagy az (5) bekezdés szerinti dohányszárítók falugazdász által igazolt minden 400 légköbmétere után az igényelhető általános csekély összegű támogatás legmagasabb összege
+(6)[^20] Az energiával fűtött dohányszárítónként vagy az (5) bekezdés szerinti dohányszárítók falugazdász által igazolt minden 400 légköbmétere után az igényelhető általános csekély összegű támogatás legmagasabb összege
 
 a) 1,5 millió Ft – a 2015. évet követően benyújtott támogatási kérelmek esetében 1 559 300 Ft –,
 
@@ -30,4 +30,5 @@ c) ha a támogatás összege – a támogatáshalmozódási szabályokra is figy
 
 (13) A (6) bekezdés szerinti, támogatásra rendelkezésre álló összeg a 13. § (1) bekezdése szerint megállapított, összes mezőgazdasági csekély összegű támogatás levonása után a 12. §-ban meghatározott keretösszegből fennmaradó összeg. Ha a (6) bekezdés szerint kifizethető összes általános csekély összegű támogatás meghaladja a rendelkezésre álló összeget, akkor a támogatás mértékét minden dohánytermelő vonatkozásában arányos csökkentéssel kell megállapítani.
 
-[^7]: A 14. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 68. §-ával megállapított szöveg.
+[^19]: A 14. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) pontja szerint módosított szöveg.
+[^20]: A 14. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 68. §-ával megállapított szöveg.

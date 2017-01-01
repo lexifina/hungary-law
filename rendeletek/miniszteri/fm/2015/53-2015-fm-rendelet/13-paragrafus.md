@@ -6,10 +6,12 @@
 
 (3) A 2016. évtől kezdődően, amennyiben a dohánytermelő a jogosult területen az őt megillető támogatási jogosultságok darabszámának megfelelő hektárszámnál kisebb terület alapján vett igénybe egységes területalapú támogatást, azt úgy kell tekinteni, hogy a dohánytermelő a tárgyév január 1-jével az érintett rész vonatkozásában a jogszabály erejénél fogva véglegesen és visszavonhatatlanul kilépett a szerkezetátalakítási programból.
 
-(4) Az (1) bekezdésben foglalt termelési feltétel teljesítését az elsődleges feldolgozó által kiállított, legalább a szerződésben vállalt mennyiségű, megtermelt dohánylevélből előállított szárított dohány átvételét igazoló szigorú számadású bizonylat és a szerződés másolatának MVH-hoz történő benyújtásával kell igazolni.
+(4)[^18] Az (1) bekezdésben foglalt termelési feltétel teljesítését az elsődleges feldolgozó által kiállított, legalább a szerződésben vállalt mennyiségű, megtermelt dohánylevélből előállított szárított dohány átvételét igazoló szigorú számadású bizonylat és a szerződés másolatának a Kincstárhoz történő benyújtásával kell igazolni.
 
 (5) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU rendelet hatálya alá tartozó, a folyó pénzügyi évben, valamint az azt megelőző két pénzügyi év során Magyarországon odaítélt mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU rendelet 3. cikk (3) bekezdésében foglalt felső határt.
 
 (6) Az 1408/2013/EU rendelet szerinti mezőgazdasági csekély összegű támogatás esetén, a mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint az 1407/2013/EU rendelet hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató termelő esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU rendelet alapján nyújtott támogatások az 1407/2013/EU rendelet 3. cikk (2) bekezdésében rögzített alkalmazandó felső határig halmozhatók az utóbbi tevékenység(ek)re tekintettel nyújtott csekély összegű támogatásokkal, feltéve, hogy az elsődleges mezőgazdasági termelőtevékenység nem részesül az 1407/2013/EU rendelet alapján nyújtott általános csekély összegű támogatásban.
 
 (7) Ha a dohánytermelő és a vele együttműködő termelő által igényelt mezőgazdasági csekély összegű támogatáshoz az (1) bekezdés szerint meghatározott dohánymennyiségnél kevesebb dohány kerül megtermelésre, akkor a különbséggel elsőként az együttműködő termelő esetében kell a (2) bekezdés szerint figyelembe vehető területet a kötelezettség-megosztás arányában csökkenteni.
+
+[^18]: A 13. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § g) pontja szerint módosított szöveg.
