@@ -1,12 +1,12 @@
-## Kereskedőváltás[^118]
+## Kereskedőváltás[^120]
 
-26. §[^119] (1) Ha a villamosenergia-kereskedő a VET 47/B. § (3) bekezdés b) pontja szerinti értesítést küld a felhasználónak, a villamosenergia-kereskedő részletes tájékoztatást ad a felhasználónak a nem teljesített szerződéses feltételekről – így különösen a lejárt tartozásról –, és azok teljesítésének módjáról.
+26. §[^121] (1) Ha a villamosenergia-kereskedő a VET 47/B. § (3) bekezdés b) pontja szerinti értesítést küld a felhasználónak, a villamosenergia-kereskedő részletes tájékoztatást ad a felhasználónak a nem teljesített szerződéses feltételekről – így különösen a lejárt tartozásról –, és azok teljesítésének módjáról.
 
 (2) Ha a felhasználó a felmondáshoz szükséges szerződési feltételeket teljesítette, a villamosenergia-kereskedő a teljesítésről való tudomásszerzést követően haladéktalanul írásban visszaigazolást küld a VET 47/B. § (3) bekezdés a) pontja szerint, és ezzel egyidejűleg teljesíti a VET 47/B. § (6) bekezdése szerinti bejelentési kötelezettségét.
 
 (3) A VET 47/B. § (6) bekezdése szerinti bejelentéseket írásban az elosztói szabályzat szerinti részletes adattartalommal és formátumban kell teljesíteni a hálózati engedélyes felé.
 
-(4)[^120] A korábbi villamosenergia-kereskedő, az új villamosenergia-kereskedő és a felhasználó megegyezhetnek a záró mérőállásról. Megegyezés esetében a korábbi villamosenergia-kereskedő a hálózati engedélyest a megegyezés tényéről és a záró mérőállásról a kereskedőváltás hálózati engedélyesnél történő bejelentésével egyidejűleg értesíti. Ennek hiányában a hálózati engedélyes kereskedőváltással kapcsolatos feladatai körében a villamosenergia-vásárlási szerződés megszűnéséig gondoskodik a mérőállás leolvasásáról. A hálózati engedélyes az elszámoláshoz szükséges adatokat a leolvasást követő 3 napon belül a korábbi és az új villamosenergia-kereskedővel is közli. A hálózati engedélyes a nem távleolvasható mérővel rendelkező felhasználó esetében a záró mérőállást a leolvasás alapján arányosítással határozza meg.
+(4)[^122] A korábbi villamosenergia-kereskedő, az új villamosenergia-kereskedő és a felhasználó megegyezhetnek a záró mérőállásról. Megegyezés esetében a korábbi villamosenergia-kereskedő a hálózati engedélyest a megegyezés tényéről és a záró mérőállásról a kereskedőváltás hálózati engedélyesnél történő bejelentésével egyidejűleg értesíti. Ennek hiányában a hálózati engedélyes kereskedőváltással kapcsolatos feladatai körében a villamosenergia-vásárlási szerződés megszűnéséig gondoskodik a mérőállás leolvasásáról. A hálózati engedélyes az elszámoláshoz szükséges adatokat a leolvasást követő 3 napon belül a korábbi és az új villamosenergia-kereskedővel is közli. A hálózati engedélyes a nem távleolvasható mérővel rendelkező felhasználó esetében a záró mérőállást a leolvasás alapján arányosítással határozza meg.
 
 (5) A korábbi villamosenergia-kereskedő által kiállított végszámlán szereplő záró mérőállásnak az új villamosenergia-kereskedő által kiállított első számla kezdő mérőállásával azonosnak kell lennie.
 
@@ -16,6 +16,6 @@
 
 (8) A kereskedőváltással kapcsolatos kötelezettségeket nem teljesítő villamosenergia-kereskedő vagy hálózati engedélyes a kereskedőváltás meghiúsulása miatt köteles az érintettek kárát és költségét kamatokkal együtt megtéríteni.
 
-[^118]: A Vhr. 26. §-át megelőző alcímet a 100/2011. (VI. 29.) Korm. rendelet 12. §-a iktatta be.
-[^119]: A Vhr. 26. §-a a 100/2011. (VI. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^120]: A Vhr. 26. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^120]: A Vhr. 26. §-át megelőző alcímet a 100/2011. (VI. 29.) Korm. rendelet 12. §-a iktatta be.
+[^121]: A Vhr. 26. §-a a 100/2011. (VI. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^122]: A Vhr. 26. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.

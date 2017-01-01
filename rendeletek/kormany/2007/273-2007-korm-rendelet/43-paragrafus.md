@@ -1,3 +1,3 @@
-43. §[^187] Közcélúnak nyilvánított hálózati elem átminősítésére csak a 41. § (1) bekezdés a)–c) és e) pontjában meghatározottak és a hálózati elem átviteli-elosztói jellegének megváltozása esetén kerülhet sor.
+43. §[^190] Közcélúnak nyilvánított hálózati elem átminősítésére csak a 41. § (1) bekezdés a)–c) és e) pontjában meghatározottak és a hálózati elem átviteli-elosztói jellegének megváltozása esetén kerülhet sor.
 
-[^187]: A Vhr. 43. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^190]: A Vhr. 43. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-112/C. §[^336] (1) A VET 119/B. §-a szerinti kábelcsere az érintett épületet magában foglaló telek homlokvonalától számított legfeljebb 15 méterig elhelyezkedő VET 3. § 9. pontja szerinti – 132 kV-nál kisebb névleges feszültségű – elosztó hálózatra terjedhet ki.
+112/C. §[^342] (1) A VET 119/B. §-a szerinti kábelcsere az érintett épületet magában foglaló telek homlokvonalától számított legfeljebb 15 méterig elhelyezkedő VET 3. § 9. pontja szerinti – 132 kV-nál kisebb névleges feszültségű – elosztó hálózatra terjedhet ki.
 
 (2) Az elosztót és a kábelcserét kezdeményező
 
@@ -8,4 +8,4 @@ b) műemlék tulajdonosát
 
 a kábelcserével összefüggésben együttműködési kötelezettség terheli.
 
-[^336]: A Vhr. 112/C. §-át a 119/2013. (IV. 23.) Korm. rendelet 11. §-a iktatta be.
+[^342]: A Vhr. 112/C. §-át a 119/2013. (IV. 23.) Korm. rendelet 11. §-a iktatta be.

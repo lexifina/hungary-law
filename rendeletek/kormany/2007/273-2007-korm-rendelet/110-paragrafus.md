@@ -1,4 +1,4 @@
-110. §[^333] (1) A VET 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes (e § alkalmazásában a továbbiakban: engedélyes) a VET 111. § (1) bekezdésében meghatározott értékesítési formákat együttesen is alkalmazhatja.
+110. §[^339] (1) A VET 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes (e § alkalmazásában a továbbiakban: engedélyes) a VET 111. § (1) bekezdésében meghatározott értékesítési formákat együttesen is alkalmazhatja.
 
 (2) A Hivatal által meghatározott, értékesítésre kerülő villamos energia mennyisége naptári évekre vonatkoztatva nem lehet alacsonyabb annál, mint ami ahhoz szükséges, hogy az engedélyesnek a VET 111. § (1) bekezdés szerinti értékesítési kötelezettsége (e § alkalmazásában a továbbiakban: értékesítési kötelezettség) keretében értékesített villamos energia nélkül számított piaci részesedése a Hivatal által meghatározott mérték, de legalább 40% alá csökkenjen. Az értékesítési kötelezettség meghatározása során a Hivatal figyelembe veszi az adott piac sajátosságait.
 
@@ -14,4 +14,4 @@
 
 (8) Az értékesítési kötelezettség alapján történő villamosenergia-értékesítés nem nyújt jogalapot állami támogatás vagy kompenzáció igénybevételére.
 
-[^333]: A Vhr. 110. §-a a 281/2016. (IX. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^339]: A Vhr. 110. §-a a 281/2016. (IX. 21.) Korm. rendelet 5. §-ával megállapított szöveg.

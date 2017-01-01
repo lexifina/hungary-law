@@ -4,7 +4,7 @@
 
 91. § (1) A Hivatal a VET 96. §-ának (1) bekezdése a) és b) pontjaiban foglalt jogkövetkezményeket együttesen is alkalmazhatja.
 
-(2)[^303] A VET 96–97. §-a szerint kiszabható bírság felső határa a következő összegek közül a magasabb:
+(2)[^309] A VET 96–97. §-a szerint kiszabható bírság felső határa a következő összegek közül a magasabb:
 
 a) az engedélyes engedélyköteles tevékenységéből származó, tárgyévet megelőző évi nettó árbevételének 1%-a,
 
@@ -16,7 +16,7 @@ d) vertikálisan integrált vállalkozás esetén a tevékenységéből származ
 
 (3) A bírság ismételten is kiszabható.
 
-(4)[^304] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
+(4)[^310] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
 
-[^303]: A Vhr. 91. § (2) bekezdése a 112/2015. (IV. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^304]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^309]: A Vhr. 91. § (2) bekezdése a 112/2015. (IV. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^310]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.

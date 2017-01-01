@@ -1,4 +1,4 @@
-76. §[^255] (1) A 2011. október 1-je előtt létesített és a VET 39. § (1) bekezdés b)–c) pontja szerinti magánvezeték megszüntetésére vonatkozó engedély akkor adható ki, ha
+76. §[^261] (1) A 2011. október 1-je előtt létesített és a VET 39. § (1) bekezdés b)–c) pontja szerinti magánvezeték megszüntetésére vonatkozó engedély akkor adható ki, ha
 
 a) a magánvezetékre vételező vagy felhasználó nem kapcsolódik,
 
@@ -8,4 +8,4 @@ c) a felhasználási hely vagy a magánvezeték átruházásra került, és az �
 
 (2) Ha a magánvezeték megszüntetésére irányuló kérelem esetében az (1) bekezdés szerinti feltételek nem teljesülnek, a Hivatal a magánvezeték engedélyesével szemben a VET 39/E. §-ában foglaltak szerint járhat el.
 
-[^255]: A Vhr. 76. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^261]: A Vhr. 76. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.

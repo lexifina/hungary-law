@@ -218,7 +218,7 @@
 
 ## 15.4. tercier oldali névleges feszültség (kV).
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^472]
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^490]
 
 Kérelem szociálisan rászoruló személyként a védendő fogyasztók nyilvántartásába
 
@@ -330,62 +330,4 @@ b)1 a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
 c)1 a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban vagy a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
-d)1 a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
-
-e)1 a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményre jogosult,
-
-f)1 a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
-
-g)1 a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
-
-A fogyasztó szociális rászorultságának fennállását a(z)........... számú határozat alapján igazolom.
-
-A fogyasztó szociális rászorultságát a fentiek szerint megalapozó körülmény
-
-a)1 határozatlan ideig,
-
-b)1 határozott ideig: ............... -ig
-
-áll fenn.
-
-Ugyanazon fogyasztónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás!
-
-Kelt:
-
-P. H.
-
-......................................................................
-
-eljáró igazgatási szerv
-
-––––––––––––
-
-1 A megfelelő rész aláhúzandó!
-
-KITÖLTÉSI ÚTMUTATÓ
-
-Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
-
-A villamos energiáról szóló 2007. évi LXXXVI. törvény 64. § (1) bekezdése alapján a védendő fogyasztók nyilvántartásába történő felvétel
-
-a) szociálisan rászoruló fogyasztóként és/vagy
-
-b) fogyatékkal élő fogyasztóként
-
-kérelmezhető.
-
-A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 30. § (1) bekezdése alapján szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki vagy akinek háztartásában élő személy:
-
-a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
-
-b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
-
-c) az a személy, akinek életét vagy egészségét közvetlenül veszélyezteti a villamosenergia-szolgáltatásból való kikapcsolás vagy a villamosenergia-szolgáltatás megszakadása.
-
-d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
-
-e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
-
-f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
-
-[^472]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^490]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
