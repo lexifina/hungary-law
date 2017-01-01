@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-285-20-
 | --- | --- | --- |
 | 2016-09-29 | 2016-285-20-22.1 | 285/2016. (IX. 21.) Korm. rendelet |
 | 2016-11-19 | 2016-285-20-22.2 | 355/2016. (XI. 18.) Korm. rendelet |
+| 2017-01-01 | 2016-285-20-22.3 | 380/2016. (XII. 2.) Korm. rendelet |
