@@ -20,6 +20,6 @@ a) növeli az adóévben (üzleti évben) megszerzett összes kapott előleg;
 
 b) csökkenti az eva alapjának megállapításakor az a) pont alapján a megszerzett összes bevétel növeléseként elszámolt kapott előlegből az adóévben a teljesítésre tekintettel elszámolt vagy visszafizetett összeg.
 
-(5) Az eva alapját csökkenti jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott kártérítés, kártalanítás, sérelemdíj, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott bevétel, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott bevételként elszámolt kártérítés összege.
+(5) Az eva alapját csökkenti jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott kártérítés, kártalanítás, sérelemdíj, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott bevétel, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott bevételként elszámolt kártérítés, továbbá a költségek fedezetére vagy fejlesztési célra folyósított támogatás összege.
 
 (6)–(9)

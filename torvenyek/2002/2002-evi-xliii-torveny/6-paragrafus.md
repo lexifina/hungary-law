@@ -24,4 +24,4 @@ d) az egyéni vállalkozó adóalany esetében magánszemélyként, nem a válla
 
 (8) Ha a bevételt külföldi fizetőeszközben fejezték ki, akkor az átszámításhoz azt az utolsó, a bizonylat kibocsátásának napján – más esetben a bevétel megszerzésének a napján – érvényes, az adott külföldi pénznem valamely egységének forintban kifejezett eladási árát kell alkalmazni, amelyet belföldön pénzváltási engedéllyel rendelkező hitelintézet devizában jegyez. Abban az esetben, ha az adott külföldi pénznemnek ilyen jegyzése nincs, a forintra történő átszámításhoz azt az adott külföldi pénznem valamely egységének euróban kifejezett értékét kell alapul venni, amelyet a Magyar Nemzeti Bank a bizonylat kibocsátásának napját – más esetben a bevétel megszerzésének a napját – megelőző naptári negyedévre vonatkozóan tesz közzé.
 
-(9) A (2) bekezdés szerinti bevétel csökkenthető a jogszabályi kötelezettség alapján tárgyévben visszafizetett támogatás összegével.
+(9)
