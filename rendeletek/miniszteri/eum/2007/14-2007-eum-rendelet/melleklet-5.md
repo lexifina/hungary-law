@@ -52,7 +52,7 @@
 
 ## 3.6. Nyilatkozat arról, hogy a kérelmező országos lefedettséget tud-e biztosítani a kölcsönzési tevékenység során
 
-## 3.7. Ápolási gyógyászati segédeszköz kölcsönzése esetén a kérelmező nyilatkozata arról, hogy kötelezettséget vállal a kölcsönzési tevékenységhez szükséges, az R1. 6/A. §-ában foglalt feltételek teljesítésére, valamint arra, hogy a kölcsönzési tevékenység megkezdéséig az egészségügyi államigazgatási szerv által kiadott működési engedélyt az OEP-hez benyújtja
+## 3.7. Ápolási gyógyászati segédeszköz kölcsönzése esetén a kérelmező nyilatkozata arról, hogy kötelezettséget vállal a kölcsönzési tevékenységhez szükséges, az R1. 6/A. §-ában foglalt feltételek teljesítésére, valamint arra, hogy a kölcsönzési tevékenység megkezdéséig az egészségügyi államigazgatási szerv által kiadott működési engedélyt a NEAK-hoz benyújtja
 
 ## 4. Az eszköz azonosító adatai
 
@@ -182,6 +182,6 @@
 
 ## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^187]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^239]
 
-[^187]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^239]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése szerint módosított szöveg.

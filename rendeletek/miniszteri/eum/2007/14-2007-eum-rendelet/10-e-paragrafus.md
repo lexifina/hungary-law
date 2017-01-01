@@ -1,4 +1,4 @@
-10/E. §[^103] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
+10/E. §[^134] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
 
 a) nevét, székhelyének címét, telefonos és elektronikus elérhetőségét,
 
@@ -12,7 +12,7 @@ e) által végzett forgalomba hozatali tevékenység típusát, és
 
 f) szállítókódját.
 
-(2) A minősített forgalomba hozó az OEP részére haladéktalanul köteles bejelenteni
+(2)[^135] A minősített forgalomba hozó a NEAK részére haladéktalanul köteles bejelenteni
 
 a) a szállítójegyzékben szereplő adataiban bekövetkezett változásokat,
 
@@ -24,11 +24,11 @@ d) bármely gyógyászati segédeszköz forgalomba hozatali jogának másik forg
 
 e) az ellene indult csődeljárást vagy felszámolási eljárást, vagy ha saját maga végelszámolást kezdeményez.
 
-(3) Ha az OEP megállapítja, hogy a minősített forgalomba hozó a (2) bekezdés szerinti kötelezettségének nem tett eleget, úgy felszólítja, hogy azt 15 napon belül pótolja.
+(3)[^136] Ha a NEAK megállapítja, hogy a minősített forgalomba hozó a (2) bekezdés szerinti kötelezettségének nem tett eleget, úgy felszólítja, hogy azt 15 napon belül pótolja.
 
-(4) Az OEP a minősített forgalomba hozót kérelmére törli a szállítójegyzékből.
+(4)[^137] A NEAK a minősített forgalomba hozót kérelmére törli a szállítójegyzékből.
 
-(5) Az OEP hivatalból törli a szállítójegyzékből a minősített forgalomba hozót, ha
+(5)[^138] A NEAK hivatalból törli a szállítójegyzékből a minősített forgalomba hozót, ha
 
 a) ellenőrzési tevékenysége során megállapítja, hogy a minősített forgalomba hozó árubeszerzéseit vagy az általa forgalomba hozott eszközök továbbértékesítését számviteli bizonylatokkal igazoltan nem tudja alátámasztani,
 
@@ -38,6 +38,11 @@ c) a minősített forgalomba hozó végelszámolást kezdeményez, vagy
 
 d) a minősített forgalomba hozó tulajdonosát vagy vezető tisztségviselőjét polgári ügyekben eljáró bíróság a gyógyászati segédeszköz forgalomba hozatalára irányuló üzleti tevékenységével összefüggő okból jogerősen elmarasztalta.
 
-(6) A szállítójegyzékből való törlés napja a határozathozatalt követő 30. nap. A szállítójegyzéket az OEP elektronikus formában vezeti és honlapján folyamatosan hozzáférhetővé teszi.
+(6)[^139] A szállítójegyzékből való törlés napja a határozathozatalt követő 30. nap. A szállítójegyzéket a NEAK elektronikus formában vezeti és honlapján folyamatosan hozzáférhetővé teszi.
 
-[^103]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^134]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^135]: A 10/E. § (2) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^136]: A 10/E. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^137]: A 10/E. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^138]: A 10/E. § (5) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^139]: A 10/E. § (6) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.

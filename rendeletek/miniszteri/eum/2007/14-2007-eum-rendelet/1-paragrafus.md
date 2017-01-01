@@ -14,7 +14,7 @@
 
 7. gyógyászati segédeszköz: az Ebtv. 5/B. § e) pontja szerinti eszköz;
 
-8.[^2] kihordási idő: az az időtartam, amelyre meghatározott mennyiségű gyógyászati segédeszköz támogatással rendelhető, vagy az az időtartam, amelyre vonatkozóan a rendelt eszköz árához az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) támogatást állapít meg;
+8.[^2] kihordási idő: az az időtartam, amelyre meghatározott mennyiségű gyógyászati segédeszköz támogatással rendelhető, vagy az az időtartam, amelyre vonatkozóan a rendelt eszköz árához a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) támogatást állapít meg;
 
 9.[^3] méretváltoztatás: a közfinanszírozás alapjául elfogadott ár változatlansága mellett funkcionálisan egyenértékű, azonos termékcsaládba tartozó eszközök metrikus paramétereikben kifejezhető változtatása;
 
@@ -31,7 +31,7 @@ b) a 19. számú mellékletben felsorolt funkcionális csoportokba sorolt eszkö
 (2)[^7] Az (1) bekezdésben foglaltakon túl e rendelet alkalmazása során a Gtv.-ben, az Ebtv.-ben, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben (a továbbiakban: Korm. rendelet), az orvostechnikai eszközökről szóló EüM rendeletben (a továbbiakban: R.), valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendeletben (a továbbiakban: IVD-rendelet) és a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló 7/2004. (XI. 23.) EüM rendeletben foglalt fogalommeghatározásokat kell figyelembe venni.
 
 [^1]: Az 1. § (1) bekezdése a 34/2010. (V. 14.) EüM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés 8. pontja a 20/2010. (XII. 28.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 8. pontja az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés 9. pontja az 53/2013. (VII. 19.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés 10. pontja a 31/2012. (X. 8.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés 10. pont a) alpontja az 53/2013. (VII. 19.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.

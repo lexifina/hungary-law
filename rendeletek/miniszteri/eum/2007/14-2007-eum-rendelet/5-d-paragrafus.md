@@ -1,4 +1,4 @@
-5/D. §[^62] (1) Az OEP bármely funkcionális csoportra vonatkozóan követelményjegyzéket állíthat össze.
+5/D. §[^67] (1)[^68] A NEAK bármely funkcionális csoportra vonatkozóan követelményjegyzéket állíthat össze.
 
 (2) A követelményjegyzék az adott funkcionális csoportban ártámogatásban részesíthető gyógyászati segédeszközök
 
@@ -14,12 +14,16 @@ e) teljesítményére, élettartamára, teljesítőképességére, energiaforrá
 
 vonatkozó egészségbiztosítói követelményeket tartalmazza.
 
-(3) A követelményjegyzéket az OEP a szakmai érdekképviseleti szervezeteknek előzetes véleményezésre megküldi.
+(3)[^69] A követelményjegyzéket a NEAK a szakmai érdekképviseleti szervezeteknek előzetes véleményezésre megküldi.
 
-(4) A követelményjegyzéket az OEP honlapján elektronikus formában közzéteszi.
+(4)[^70] A követelményjegyzéket a NEAK honlapján elektronikus formában közzéteszi.
 
-(5) A 8. § szerinti, hivatalból indított eljárások során az OEP érvényesíti az eljárás megindulását legalább 1 hónappal megelőzően az OEP honlapján közzétett követelményjegyzékben foglaltakat.
+(5)[^71] A 8. § szerinti, hivatalból indított eljárások során a NEAK érvényesíti az eljárás megindulását legalább 1 hónappal megelőzően a NEAK honlapján közzétett követelményjegyzékben foglaltakat.
 
 (6) Kérelemre indult eljárásban nem fogadható be olyan gyógyászati segédeszköz, amely nem felel meg az adott gyógyászati segédeszközre vonatkozó követelményjegyzékben foglaltaknak.
 
-[^62]: Az 5/D. §-t a 34/2010. (V. 14.) EüM rendelet 4. §-a iktatta be.
+[^67]: Az 5/D. §-t a 34/2010. (V. 14.) EüM rendelet 4. §-a iktatta be.
+[^68]: Az 5/D. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^69]: Az 5/D. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^70]: Az 5/D. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^71]: Az 5/D. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés h) pontja szerint módosított szöveg.

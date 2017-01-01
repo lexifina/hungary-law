@@ -1,6 +1,6 @@
 ## értelemszerűen kell a fentiek figyelembevételével alkalmazni.
 
-10/A. §[^97] (1) A szállító-előminősítés – az egyedi méretvétel alapján egyedileg készített eszközök gyártóinak kivételével – a forgalomba hozó szállító-előminősítési kérelmére indul. A kérelmet az OEP által erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl a kérelem tartalmazza a kapcsolattartó nevét és elérhetőségét, valamint a cégszerű aláírást.
+10/A. §[^120] (1)[^121] A szállító-előminősítés – az egyedi méretvétel alapján egyedileg készített eszközök gyártóinak kivételével – a forgalomba hozó szállító-előminősítési kérelmére indul. A kérelmet a NEAK által erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl a kérelem tartalmazza a kapcsolattartó nevét és elérhetőségét, valamint a cégszerű aláírást.
 
 (2) Az (1) bekezdés szerinti szállító-előminősítési kérelemhez a forgalomba hozónak csatolnia kell
 
@@ -10,7 +10,7 @@ b) a minőségirányítási rendszerre vonatkozó dokumentumokat, ha a forgalomb
 
 c) a javítási vagy szerviz hátterére vonatkozó dokumentumokat, ha a forgalomba hozó tartós használati célú eszközöket hoz forgalomba.
 
-(3) A szállító-előminősítés során az OEP a szállító-előminősítési kérelem benyújtásának üzleti évére és az azt megelőző három üzleti évre vonatkozóan vizsgálja a forgalomba hozó
+(3)[^122] A szállító-előminősítés során a NEAK a szállító-előminősítési kérelem benyújtásának üzleti évére és az azt megelőző három üzleti évre vonatkozóan vizsgálja a forgalomba hozó
 
 a) tulajdonosi hátterét, az egészségügyi technológiákkal kapcsolatban gyártási vagy kereskedelmi tevékenységet végző, Szvt. szerinti kapcsolt vállalkozásait,
 
@@ -20,4 +20,6 @@ c) által működtetett minőségirányítási rendszert, ha a forgalomba hozó 
 
 d) által biztosított javítási vagy szervizháttér meglétét, ha a forgalomba hozó tartós használati célú eszközöket hoz forgalomba.
 
-[^97]: A 10/A. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^120]: A 10/A. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^121]: A 10/A. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^122]: A 10/A. § (3) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
