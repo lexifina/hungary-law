@@ -6,7 +6,7 @@ a) gondoskodik a RIS létrehozásáról, üzemeltetésének ellenőrzéséről, 
 
 b) értesíti az Európai Bizottságot a típusjóváhagyásért felelős hatóság kijelöléséről.
 
-(2)[^3] A RIS-t a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala működteti.
+(2)[^3] A RIS-t a közlekedésért felelős miniszter működteti.
 
 (3) A folyami információs szolgáltatások központ (a továbbiakban: RIS-központ) vagy más, a RIS működtetésébe bevont nem állami szervezet által használt állami tulajdonú eszközök kezelői jogait a miniszter gyakorolja.
 
@@ -22,4 +22,4 @@ d) gondoskodik a hajósoknak szóló hirdetmények, valamint a belvízi utak ví
 
 (5) A RIS keretében megvalósuló adatszolgáltatás, illetve adatátvitel elektronikus kapcsolaton keresztül történik.
 
-[^3]: A 3. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 186. §-a szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.

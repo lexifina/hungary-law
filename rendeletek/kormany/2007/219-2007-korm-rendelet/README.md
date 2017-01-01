@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-219-20-
 | 2014-09-05 | 2007-219-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2016-01-01 | 2007-219-20-22.8 | 486/2015. (XII. 29.) Korm. rendelet |
 | 2016-09-01 | 2007-219-20-22.9 | 230/2016. (VII. 29.) Korm. rendelet |
+| 2017-01-01 | 2007-219-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
