@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-56-20-2
 | 2014-10-10 | 2013-56-20-2Y.4 | 15/2014. (X. 9.) FM rendelet |
 | 2015-09-17 | 2013-56-20-2Y.5 | 54/2015. (IX. 16.) FM rendelet |
 | 2016-12-19 | 2013-56-20-2Y.6 | 83/2016. (XII. 16.) FM rendelet |
+| 2017-01-01 | 2013-56-20-2Y.7 | 88/2016. (XII. 29.) FM rendelet |

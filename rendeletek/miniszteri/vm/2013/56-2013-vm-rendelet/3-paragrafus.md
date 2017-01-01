@@ -36,6 +36,7 @@ a) e rendelet hatálybalépését megelőző időponttól kezdve életvitelszer�
 
 b) az ingatlan-nyilvántartásban feltüntetett tanyai lakóépület villamosenergia-ellátással nem rendelkezik.
 
-(5) A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
+(5)[^3] A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
 
 [^2]: A 3. § (1) bekezdés e) pontja a 121/2013. (XII. 16.) VM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 59. § a) pontja szerint módosított szöveg.
