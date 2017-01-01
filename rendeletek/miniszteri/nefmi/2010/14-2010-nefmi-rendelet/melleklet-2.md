@@ -74,6 +74,6 @@
 
 ## 11. Érték nemzeti fizetőeszközben (muzeális intézmény esetében biztosítási érték)
 
-2. melléklet a 14/2010. (XI. 25.) NEFMI rendelethez[^4]
+2. melléklet a 14/2010. (XI. 25.) NEFMI rendelethez[^5]
 
-[^4]: A 2. melléklet az 54/2012. (XII. 28.) EMMI rendelet 4. § b)–g) pontja szerint módosított szöveg.
+[^5]: A 2. melléklet az 54/2012. (XII. 28.) EMMI rendelet 4. § b)–g) pontja szerint módosított szöveg.
