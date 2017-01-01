@@ -32,8 +32,10 @@ i) gondoskodik a megfelelő szavazóhelyiség és a szavazáshoz szükséges egy
 
 (3) A HVI vezetője – a Ve.-ben foglalt feladatain túl –
 
-a) a szavazóköri jegyzőkönyvek, a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének nyomtatásával megbízhatja a TVI-t, amely a feladatot a polgárok személyi adatainak és lakcímének nyilvántartását vezető központi szerv vagy a kormányhivatal útján is elláthatja; a nyomtatás megtörténtéről az NVI-t haladéktalanul értesíti,
+a)[^3] a szavazóköri jegyzőkönyvek, a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének nyomtatásával megbízhatja a TVI-t, amely a feladatot a kormányhivatal útján is elláthatja; a nyomtatás megtörténtéről az NVI-t haladéktalanul értesíti,
 
 b) a kinyomtatott névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti, és erről tájékoztatja az NVI-t.
 
 (4) Az R. 1. melléklet 1. pontjában meghatározott település HVI-je a személyazonosság ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
+
+[^3]: A 10. § (3) bekezdés a) pontja a 28/2016. (XII. 27.) IM rendelet 13. §-a szerint módosított szöveg.
