@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-306-20-
 | 2016-10-14 | 2016-306-20-22.1 | 306/2016. (X. 13.) Korm. rendelet |
 | 2016-10-15 | 2016-306-20-22.2 | 2010: CXXX. törvény |
 | 2016-12-29 | 2016-306-20-22.3 | 496/2016. (XII. 28.) Korm. rendelet |
+| 2017-01-01 | 2016-306-20-22.4 | 2010: CXXX. törvény |

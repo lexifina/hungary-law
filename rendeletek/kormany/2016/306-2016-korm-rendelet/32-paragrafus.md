@@ -1,3 +1,3 @@
-## 31. §[^14]
+## 31. §[^11]
 
-[^14]: A 31. § a 496/2016. (XII. 28.) Korm. rendelet 86. § (1) bekezdés a) pontja alapján nem lép hatályba.
+[^11]: A 31. § a 496/2016. (XII. 28.) Korm. rendelet 86. § (1) bekezdés a) pontja alapján nem lép hatályba.
