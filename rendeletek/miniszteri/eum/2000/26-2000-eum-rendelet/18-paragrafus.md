@@ -22,7 +22,7 @@ d)[^37] az 5. § (8) bekezdése szerinti rendkívüli munkavégzés elrendelés�
 
 (4)[^39] A munkahigiénés és foglalkozás-egészségügyi szerv az e §, valamint a 3. számú melléklet alapján bejelentett és a munkavédelmi hatóság által nyilvántartott rákkeltőkről, rákkeltőkkel végzett tevékenységről, és a rákkeltőkkel exponált munkavállalókról foglalkozási rák regisztert vezet.
 
-(5)[^40] A munkahigiénés és foglalkozás-egészségügyi szerv a (4) bekezdés szerinti adatokat a tárgyévet követő március 31-ig regisztrálja, elemzi és értékeli, és az erről készült tájékoztatót megküldi az egészségügyért felelős miniszter által vezetett minisztérium, valamint az Országos Tisztifőorvosi Hivatal részére, továbbá a HM által szolgáltatott adatokról készült tájékoztatót a HM részére is megküldi.
+(5)[^40] A munkahigiénés és foglalkozás-egészségügyi szerv a (4) bekezdés szerinti adatokat a tárgyévet követő március 31-ig regisztrálja, elemzi és értékeli, és az erről készült tájékoztatót megküldi az egészségügyért felelős miniszter által vezetett minisztérium részére, továbbá a HM által szolgáltatott adatokról készült tájékoztatót a HM részére is megküldi.
 
 [^32]: A 17. § a 12/2006. (III. 23.) EüM rendelet 20. § (3) bekezdésének b) pontja, a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
 [^33]: A 18. §-t megelőző alcím a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
@@ -32,4 +32,4 @@ d)[^37] az 5. § (8) bekezdése szerinti rendkívüli munkavégzés elrendelés�
 [^37]: A 18. § (2) bekezdésének d) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 6. §-ának (2) bekezdése iktatta a szövegbe.
 [^38]: A 18. § (3) bekezdése az 51/2011. (XII. 23.) NGM rendelet 7. § (1) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
 [^39]: A 18. § (4) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
-[^40]: A 18. § (5) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (3) bekezdése iktatta be.
+[^40]: A 18. § (5) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (3) bekezdése iktatta be, szövege a 62/2016. (XII. 29.) NGM rendelet 54. § (1) bekezdésével megállapított szöveg.
