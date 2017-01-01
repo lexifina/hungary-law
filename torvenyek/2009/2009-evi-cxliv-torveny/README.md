@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-144-00-00
 | 2014-10-01 | 2013. évi CCXLIX. törvény | 2009-144-00-00.8 |
 | 2015-04-01 | 2015. évi VI. törvény | 2009-144-00-00.9 |
 | 2016-10-01 | 2016. évi LXVII. törvény | 2009-144-00-00.10 |
+| 2017-01-01 | 2016. évi CXVI. törvény | 2009-144-00-00.11 |
