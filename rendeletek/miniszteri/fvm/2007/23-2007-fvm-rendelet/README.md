@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-23-20-8
 | 2015-11-03 | 2007-23-20-82.42 | 48/2015. (XI. 2.) MvM rendelet |
 | 2015-12-01 | 2007-23-20-82.43 | 53/2015. (XII. 1.) MvM rendelet |
 | 2015-12-23 | 2007-23-20-82.44 | 56/2015. (XII. 23.) MvM rendelet |
+| 2017-01-01 | 2007-23-20-82.45 | 37/2016. (XII. 29.) MvM rendelet |
