@@ -1,4 +1,4 @@
-8. §[^79] (1)[^80] A kutatási zárójelentést két példányban kell benyújtani, amelyet földtani szakértőnek kell ellenjegyezni.
+8. §[^79] (1)[^80] A kutatási zárójelentést földtani szakértőnek kell ellenjegyezni.
 
 (2) A kutatási zárójelentésnek tartalmaznia kell:
 
@@ -41,7 +41,7 @@ c)[^86] azon ásványi nyersanyagok megnevezését, besorolási kódját és vag
 (6)[^87] A Bt. 26/A. § (2) bekezdés b) pontja szerinti, archív adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett felszíni előkutatás adatai alapján elkészített készletszámítási jelentés szakmai tartalmának meg kell felelnie a (2) és (3) bekezdésben meghatározott szakmai és mellékleti követelményeknek. A készletszámítási jelentést földtani szakértőnek kell ellenjegyeznie.
 
 [^79]: A Vhr. 8. §-a a 106/2005. (VI. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^80]: A Vhr. 8. § (1) bekezdése a 411/2012. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^80]: A Vhr. 8. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^81]: A Vhr. 8. §-a (2) bekezdésének a) pontja a 268/2006. (XII. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
 [^82]: A Vhr. 8. §-a (2) bekezdésének f) pontja az 57/2008. (III. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
 [^83]: A Vhr. 8. § (3) bekezdés d) pontja a 311/2014. (XII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
