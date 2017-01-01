@@ -24,7 +24,7 @@ c) a Nemzeti Foglalkoztatási Alap 39. § (3) bekezdésének c) és e) pontjába
 
 (11) A Nemzeti Foglalkoztatási Alapot – ha az egyes alaprészek tekintetében törvény eltérően nem rendelkezik – a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) kezeli.
 
-(12) A minisztérium az (1) bekezdésben meghatározott tevékenysége keretében ellátja az államháztartásról szóló 2011. évi CXCV. törvény 18. § (1) bekezdésében meghatározott feladatokat, továbbá
+(12) A minisztérium az (1) bekezdésben meghatározott tevékenysége keretében ellátja az államháztartásról szóló 2011. évi CXCV. törvény 6/B. §-ában meghatározott feladatokat, továbbá
 
 a) gondoskodik a Nemzeti Foglalkoztatási Alapra mint elkülönített állami pénzalapra vonatkozó jogszabályok végrehajtásáról,
 

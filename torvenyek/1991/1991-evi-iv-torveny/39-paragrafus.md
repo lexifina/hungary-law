@@ -32,7 +32,7 @@ a) szolidaritási alaprészt az álláskeresési járadék, a nyugdíj előtti �
 
 b)
 
-c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által az alap- és középfokú oktatási intézményben pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
+c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
 
 d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás, valamint annak folyósításával kapcsolatos postaköltség finanszírozására;
 
@@ -44,9 +44,9 @@ h)
 
 (4) Az egyes alaprészek terhére elszámolhatók a Nemzeti Foglalkoztatási Alap beszámolóját megalapozó informatikai szolgáltatás és könyvvizsgálati ellenőrzés díja arányosan, az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével és ellenőrzésével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek, elszámolható továbbá az alaprészből finanszírozott ellátásokkal, támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költsége.
 
-(5) A (6) bekezdés kivételével a Nemzeti Foglalkoztatási Alap külön előirányzataiból finanszírozott támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadásokra, szakértői díjakra az alaprészekből finanszírozott támogatásokkal kapcsolatos ilyen jellegű kiadásokra vonatkozó szabályokat kell megfelelően alkalmazni.
+(5) A (6) bekezdés kivételével a Nemzeti Foglalkoztatási Alap külön előirányzataiból finanszírozott támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadások, szakértői díjak, valamint a pénzeszközök visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek az adott előirányzatból elszámolhatók.
 
-(6) A (12) bekezdés d) pontjában meghatározott előirányzatból elszámolhatóak a támogatások nyújtásával, ellenőrzésével kapcsolatos kiadások, szakértői díjak, valamint a pénzeszközök visszakövetelésével, behajtásával, kapcsolatban felmerülő díjak és költségek, továbbá a támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költségei.
+(6) A (12) bekezdés d) pontjában meghatározott előirányzatból elszámolhatóak a támogatások nyújtásával, ellenőrzésével kapcsolatos kiadások, szakértői díjak, valamint a pénzeszközök visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek, a közfoglalkoztatási kiállítások rendezésével kapcsolatos kiadások, a közfoglalkoztatással összefüggő kutatások költségei, továbbá a támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költségei.
 
 (7)
 

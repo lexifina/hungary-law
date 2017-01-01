@@ -50,7 +50,7 @@ g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
 a) a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi álláskereső esetében a két órát meghaladja, és a munkavégzés helyére és onnan a közfoglalkoztatott lakóhelyére történő térítésmentes szállításról, vagy
 
-b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-es távolságon belül a népegészségügyi feladatkörében eljáró illetékes fővárosi és megyei kormányhivatal által kiadott engedélynek megfelelő térítésmentes elhelyezésről, tisztálkodási és étkezési lehetőségről
+b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-es távolságon belül a népegészségügyi feladatokat ellátó szerv által kiadott engedélynek megfelelő térítésmentes elhelyezésről, tisztálkodási és étkezési lehetőségről
 
 a foglalkoztató gondoskodik.
 
@@ -66,7 +66,7 @@ együttműködik.
 
 (12) Az állami foglalkoztatási szerv a gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesülő személyt – kérelmére – a (11) bekezdésben meghatározott feltételek fennállása esetén, akkor veszi álláskeresőként nyilvántartásba, ha annak folyósítása alatt, a családok támogatásáról szóló törvény szerint keresőtevékenységet folytathat.
 
-(13) A közfoglalkoztatott a közfoglalkoztatás időtartama alatt köteles elfogadni az állami foglalkoztatási szerv által részére felajánlott, 25. § (2) bekezdése szerinti megfelelő munkahelyet.
+(13) A közfoglalkoztatott a közfoglalkoztatás időtartama alatt köteles elfogadni az állami foglalkoztatási szerv által részére felajánlott, 25. § (2) bekezdése szerinti megfelelő munkahelyet, valamint a részére felajánlott, 14. § (1) bekezdése szerinti képzést.
 
 (14) Az állami foglalkoztatási szerv – külön jogszabályban meghatározott időponttól – törli az álláskeresők nyilvántartásából az álláskeresőt, ha
 
@@ -90,7 +90,7 @@ i)
 
 (14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
-a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési intézmény által szervezett képzésben vesz részt,
+a) az állami foglalkoztatási szerv által támogatott képzésben vesz részt,
 
 b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
 

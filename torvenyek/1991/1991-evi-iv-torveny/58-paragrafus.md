@@ -60,9 +60,9 @@ ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátáso
 
 j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
 
-k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki
+k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha álláskeresési járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki
 
-1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesül,
+1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban részesül,
 
 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti,
 

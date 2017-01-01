@@ -4,7 +4,7 @@
 
 (2) A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi kerete felhasználható
 
-a) központi foglalkoztatási, képzési és munkaerőpiaci integrációs programok és kutatások támogatására;
+a) központi foglalkoztatási, képzési és munkaerőpiaci integrációs programok, kutatások és a foglalkoztatási, munkaügyi szakkiadvány kiadásának támogatására;
 
 b) a 18. §-ban meghatározott munkahely-teremtési támogatásra;
 

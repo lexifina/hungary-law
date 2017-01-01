@@ -6,7 +6,7 @@ b) az Szt. 18/B. § szerinti nyilvántartást vezető hatóság számára az 57/
 
 c) a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatátvételhez, és
 
-d) az állami felnőttképzési intézmény számára a (4) bekezdésben meghatározott adatátvételhez
+d)
 
 szükséges hozzáférést.
 
@@ -16,7 +16,7 @@ szükséges hozzáférést.
 
 (3a) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése és a rehabilitációs szolgáltatások nyújtása céljából az 57/B. § (3) bekezdés 1. pont a) pont aa) és ac)–af) alpontjában, 1. pont b) és c) pontjában, valamint 2. és 3. pontjában szereplő adatokat közvetlen hozzáféréssel átveheti.
 
-(4) Az állami felnőttképzési intézmény a képzési igények felmérése és a képzések szervezésének területi összehangolása, valamint a közfoglalkoztatás szervezése érdekében az adatbázisnak az 57/B. § (3) bekezdés 2. pont a) és b) alpontjában és 3. pont a)–e) alpontjában meghatározott adatokat közvetlen hozzáféréssel átveheti.
+(4)
 
 (5) A közfoglalkoztatott bérének a központi költségvetés által finanszírozott része folyósítása feltételeinek ellenőrzése érdekében a Magyar Államkincstár az adatbázisnak az 57/B. § (3) bekezdés 2. pont ab), ba), bb), bd) és bf) alpontjában, továbbá a 3. pont a) alpontjában szereplő adataiba tekinthet be.
 

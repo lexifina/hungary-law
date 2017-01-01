@@ -10,7 +10,7 @@ c) az álláskeresési járadék folyósításának kimerítését, vagy a b) po
 
 d) rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idővel, és,
 
-e) korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban és átmeneti bányászjáradékban nem részesül.
+e) korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesül.
 
 (2) Az álláskeresési segély összegét a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér összege 40 százalékának alapulvételével kell megállapítani. Ha a 26. § (1)–(3) bekezdésében meghatározott járadékalap az előbbi összegnél alacsonyabb volt, az álláskeresési segély összegét a járadékalap alapulvételével kell megállapítani. Az egy napra járó álláskeresési segély összege az előzőekben foglaltak szerint meghatározott segélyalap harmincad része.
 
