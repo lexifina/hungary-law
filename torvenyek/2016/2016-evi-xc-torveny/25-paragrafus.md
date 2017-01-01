@@ -1,0 +1,3 @@
+25. § (1) A XV. Nemzetgazdasági Minisztérium fejezetet irányító szerv vezetője a XV. Nemzetgazdasági Minisztérium fejezet, 25. cím, 4. alcím, 1. Területfejlesztéssel összefüggő feladatok jogcímcsoport terhére átcsoportosíthat a XV. Nemzetgazdasági Minisztérium fejezet, 8. Magyar Államkincstár cím javára.
+
+(2) A XV. Nemzetgazdasági Minisztérium fejezet, 25. cím, 2. alcím, 8. Felelős játékszervezési tevékenység támogatása jogcímcsoport kiadási előirányzata biztosítja a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 35. § (4) bekezdésében meghatározott célok teljesítését.
