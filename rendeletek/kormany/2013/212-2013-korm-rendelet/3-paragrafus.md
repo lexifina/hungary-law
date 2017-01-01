@@ -1,6 +1,6 @@
 ## 3. § A kedvezményes hitel vagy kölcsön és a kamattámogatás igénybevételére az a gyógyszerész jogosult, aki
 
-a)[^9] tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban annak érdekében, hogy a Gyftv. 74. § (1) bekezdésében és 83/A. § (1) bekezdésében foglalt feltétel az 50%-ot el nem érő gyógyszerészi tulajdoni hányad esetén, a gyógyszertárat működtető gazdasági társaságban tulajdoni hányaddal rendelkező más gyógyszerészek tulajdoni hányadával együttesen legalább 50% tulajdoni arányt meghaladóan teljesüljön;
+a)[^9] tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban a Gyftv. 83/A. § (7) bekezdésében foglaltak szerinti, a nem gyógyszerészi tulajdonban lévő tulajdoni hányad megvásárlásához érvényesített elővásárlási jog gyakorlásával;
 
 b) nyilatkozik arról, hogy
 
@@ -14,7 +14,7 @@ bd) tudomásul veszi, hogy amennyiben a ba) és bb) alpont alapján tett nyilatk
 
 c)[^10] csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
 
-d)[^11] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Egészségügyi Nyilvántartási és Képzési Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
+d)[^11] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Állami Egészségügyi Ellátó Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
 
 e) csatolja a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságnak a legfőbb szerve ülésének jegyzőkönyvében rögzített döntéséről készült másolatot a tulajdonosi szerkezet megváltoztatásáról, amely döntés legalább a következőket tartalmazza:
 
@@ -38,7 +38,7 @@ g) kötelezettséget vállal arra, hogy a Patika Hitelprogram keretében felvett
 
 h) csatolja nyilatkozatát arról, hogy a gyógyszerészi foglalkozás gyakorlását kizáró ok vele szemben nem áll fenn.
 
-[^9]: A 3. § a) pontja a 172/2016. (VII. 1.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § a) pontja a 172/2016. (VII. 1.) Korm. rendelet 61. §-ával megállapított szöveg.
 [^10]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^11]: A 3. § d) pontja a 30/2015. (II. 25.) Korm. rendelet 81. §-a szerint módosított szöveg.
+[^11]: A 3. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 233. §-a szerint módosított szöveg.
 [^12]: A 3. § e) pont ee) alpontját a 172/2016. (VII. 1.) Korm. rendelet 60. § (2) bekezdése iktatta be.

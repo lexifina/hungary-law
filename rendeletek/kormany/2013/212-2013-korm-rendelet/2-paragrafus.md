@@ -20,11 +20,11 @@ d) esetében a tőketörlesztés megkezdésének esedékessége a türelmi időt
 
 e) a tőketörlesztési módja: negyedévente egyenlő tőketörlesztő részletekben.
 
-(4)[^7] A kedvezményes hitelhez vagy kölcsönhöz nyújtott kamattámogatás mértéke a Patika Hitelprogram keretében felvett hitel vagy kölcsön ügyleti kamatának 1,5%-ra történő csökkentéséhez szükséges összeg, de legfeljebb 4,5%.
+(4)[^7] A kedvezményes hitelhez vagy kölcsönhöz nyújtott kamattámogatás mértéke a Patika Hitelprogram keretében felvett hitel vagy kölcsön ügyleti kamatának 3%-ra történő csökkentéséhez szükséges összeg, de legfeljebb 3,7%.
 
 (5)[^8] A kamattámogatás forrása a központi költségvetésről szóló törvényben az egészségügyért felelős miniszter által vezetett minisztérium költségvetési fejezetében e célra megállapított előirányzat.
 
 [^5]: A 2. § (2a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 58. § (1) bekezdése iktatta be.
 [^6]: A 2. § (3) bekezdés a) pont ab) alpontja a 172/2016. (VII. 1.) Korm. rendelet 58. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 58. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 59. §-ával megállapított szöveg.
 [^8]: A 2. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 739. §-ával megállapított szöveg.
