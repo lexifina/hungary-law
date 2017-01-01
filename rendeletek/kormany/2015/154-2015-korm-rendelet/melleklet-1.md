@@ -1,4 +1,4 @@
-1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^25]
+1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^26]
 
 ## A rendvédelmi szervnek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szempontjából központi, területi vagy helyi szervnek minősülő szervei
 
@@ -10,7 +10,7 @@ I. Az általános rendőrségi feladatok ellátására létrehozott szerv
 
 | 2. | Országos Rendőr-főkapitányság | Készenléti Rendőrség | rendőrkapitányság |
 
-| 3. |  | Bűnügyi Szakértői és Kutatóintézet | határrendészeti kirendeltség |
+| 3. |  |  | határrendészeti kirendeltség |
 
 | 4. |  | Repülőtéri Rendőr Igazgatóság |  |
 
@@ -132,4 +132,4 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-[^25]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja szerint módosított szöveg.
