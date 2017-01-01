@@ -822,7 +822,7 @@
 
 ## V/A. számú adatlap
 
-## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^47]
+## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^52]
 
 ## (Gyámhivatal tölti ki)
 
@@ -1364,143 +1364,131 @@
 
 ## IX. számú adatlap
 
-## A gyermekek napközbeni ellátásában és a gyermekek átmeneti gondozásában részesülő gyermekről
-
-## (Gyvt. 139. §)
+## A gyermekek átmeneti gondozásában részesülő gyermekről
 
 ## (Az ellátó személy vagy az intézmény vezetője tölti ki.)
 
-| A nyilvántartásba vétel időpontja: |  |
+|  | A nyilvántartásba vétel időpontja: | ....................................................................................................... |
 
-| 1. | A személyes gondoskodás formája: |
+|  | 1. | A gyermek személyi adatai: |  |
 
-|  | – gyermekek napközbeni ellátása |
+|  |  | Név: | ....................................................................................................... |
 
-|  | – gyermekek átmeneti gondozása |
+|  |  | Születési hely, idő: | ....................................................................................................... |
 
-| 2. | A gyermek személyi adatai: |
+|  |  | Állampolgárság (menekült, bevándorolt, letelepedett): | ....................................................................................................... |
 
-|  | Név: |  |
+|  |  | Anyja neve: | ....................................................................................................... |
 
-|  | Születési hely, idő: |  |
+|  |  | Lakóhely: | ....................................................................................................... |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  |  | Tartózkodási hely: | ....................................................................................................... |
 
-|  | Anyja neve: |  |
+|  | 2. | A törvényes képviselő személyi adatai: |  |
 
-|  | Lakóhely: |  |
+|  |  | Név: | ....................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+|  |  | Születési hely, idő: | ....................................................................................................... |
 
-| 3. | A törvényes képviselő személyi adatai: |
+|  |  | Állampolgárság (menekült, bevándorolt, letelepedett): | ....................................................................................................... |
 
-|  | Név: |  |
+|  |  | Anyja neve: | ....................................................................................................... |
 
-|  | Születési hely, idő: |  |
+|  |  | Lakóhely: | ....................................................................................................... |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  |  | Tartózkodási hely: | ....................................................................................................... |
 
-|  | Anyja neve: |  |
+|  | 3. | A szülők személyi adatai: |  |
 
-|  | Lakóhely: |  |
+|  |  | Anya neve: | ....................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+|  |  | Születési hely, idő: | ....................................................................................................... |
 
-| 4. | A szülők személyi adatai: |
+|  |  | Állampolgárság (menekült, bevándorolt, letelepedett): | ....................................................................................................... |
 
-|  | Anya neve: |  |
+|  |  | Anyja neve: | ....................................................................................................... |
 
-|  | Születési hely, idő: |  |
+|  |  | Lakóhely: | ....................................................................................................... |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  |  | Tartózkodási hely: | ....................................................................................................... |
 
-|  | Anyja neve: |  |
+|  |  | Apa neve: | ....................................................................................................... |
 
-|  | Lakóhely: |  |
+|  |  | Születési hely, idő: | ....................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+|  |  | Anyja neve: | ....................................................................................................... |
 
-|  | Apa neve: |  |
+|  |  | Lakóhely: | ....................................................................................................... |
 
-|  | Születési hely, idő: |  |
+|  |  | Tartózkodási hely: | ....................................................................................................... |
 
-|  | Anyja neve: |  |
+|  | 4. | Határozat: |  |
 
-|  | Lakóhely: |  |
+|  |  | Határozatot hozó szerv neve: | ....................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+|  |  | Határozat száma: | ....................................................................................................... |
 
-| 5. | Határozat: |
+|  |  | Kelte: | ....................................................................................................... |
 
-|  | Határozatot hozó szerv neve: |  |
+|  |  | Jogerős: | ....................................................................................................... |
 
-|  | Határozat száma: |  |
+|  | 5. | A térítési díj adatai: |  |
 
-|  | Kelte: |  |
+|  |  | Fizetésre kötelezett neve: | ....................................................................................................... |
 
-|  | Jogerős: |  |
+|  |  | A díj összege: | .................................................................................................. Ft |
 
-| 6. | A gondozási/térítési díj adatai: |
+|  |  | Díjfizetés kezdete: | ....................................................................................................... |
 
-|  | Fizetésre kötelezett neve: |  |
+|  |  | Vége: | ....................................................................................................... |
 
-|  | A díj összege: |  | Ft |
+|  |  | A hátralék összege: | ....................................................................................................... |
 
-|  | Díjfizetés kezdete: |  |
+|  |  | Végrehajtási intézkedés időpontja: | ....................................................................................................... |
 
-|  | Vége: |  |
+|  | 6. | A felülvizsgálat adatai: |  |
 
-|  | A hátralék összege: |  |
+|  |  | A felülvizsgálatot végző |  |
 
-|  | Végrehajtási intézkedés időpontja: |  |
+|  |  | szerv neve: | ....................................................................................................... |
 
-| 7. | Normatív étkezési kedvezményit igénybe vett |
+|  |  | Ideje: | ....................................................................................................... |
 
-|  | – 50% |
+|  |  | Eredménye: | ....................................................................................................... |
 
-|  | – ingyenes |
+|  |  | Ideje: | ....................................................................................................... |
 
-| 8. | A felülvizsgálat adatai: |
+|  |  | Eredménye: | ....................................................................................................... |
 
-|  | A felülvizsgálatot végző szerv neve: |  |
+|  |  | Ideje: | ....................................................................................................... |
 
-|  | Ideje: |  |
+|  |  | Eredménye: | ....................................................................................................... |
 
-|  | Eredménye: |  |
+|  |  | Ideje: | ....................................................................................................... |
 
-|  | Ideje: |  |
+|  |  | Eredménye: | ....................................................................................................... |
 
-|  | Eredménye: |  |
+|  |  | Ideje: | ....................................................................................................... |
 
-|  | Ideje: |  |
+|  |  | Eredménye: | ....................................................................................................... |
 
-|  | Eredménye: |  |
+|  |  | Ideje: | ....................................................................................................... |
 
-|  | Ideje: |  |
+|  |  | Eredménye: | ....................................................................................................... |
 
-|  | Eredménye: |  |
+|  | 7. | A megszűnés adatai: |  |
 
-|  | Ideje: |  |
+|  |  | Határozat száma: | ....................................................................................................... |
 
-|  | Eredménye: |  |
+|  |  | Kelte: | ....................................................................................................... |
 
-|  | Ideje: |  |
+|  |  | Jogerős: | ....................................................................................................... |
 
-|  | Eredménye: |  |
+|  | 8. | Hatósági kötelezés nélkül igénybe vett szolgáltatás megszűnésének |  |
 
-| 9. | A megszűnés adatai: |
+|  |  | Időpontja: | ....................................................................................................... |
 
-|  | Határozat száma: |  |
-
-|  | Kelte: |  |
-
-|  | Jogerős: |  |
-
-| 10. | Hatósági kötelezés nélkül igénybe vett szolgáltatás megszűnésének |
-
-|  | Időpontja: |  |
-
-|  | Oka: |  |
+|  |  | Oka: | ....................................................................................................... |
 
 ## X. számú adatlap
 
@@ -1882,7 +1870,7 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^48]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^53]
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -1892,7 +1880,7 @@ A „Gyermekeink védelmében” elnevezésű adatlaprendszerben szereplő rövi
 
 „T” = Törzslap
 
-„GYSZ” = Család- és gyermekjóléti szolgálat” (a továbbiakban: gyermekjóléti szolgálat)
+„GYSZ” = Család- és gyermekjóléti szolgálat
 
 „ÁTG” = Átmeneti gondozás
 
@@ -1906,7 +1894,7 @@ I. számú adatlap
 
 „T” – Törzslap
 
-(A gyermek személyes adatlapja, amelyet gyermekenként külön vezet a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó intézmény)
+(A gyermek személyes adatlapja, amelyet gyermekenként külön vezet a család- és gyermekjóléti szolgáltatást nyújtó, átmeneti gondozást, valamint otthont nyújtó intézmény)
 
 | A nyilvántartásba vétel időpontja (az az időpont, amikor a gyermek bekerült a gyermekvédelem rendszerébe): |
 
@@ -1930,7 +1918,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely49 | Változás1: |
+| Bejelentett tartózkodási hely54 | Változás1: |
 
 |  | Változás2: |
 
@@ -1942,7 +1930,7 @@ I. számú adatlap
 
 | Beszélt nyelve: | Van-e szüksége tolmácsra? igen – milyenre: nem |
 
-49 Korábban „ideiglenes”.
+54 Korábban „ideiglenes”.
 
 | A szülők/törvényes képviselő személyi adatai |
 
@@ -1958,7 +1946,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely50: | Változás1: |
+| Bejelentett tartózkodási hely55: | Változás1: |
 
 |  | Változás2: |
 
@@ -1986,7 +1974,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely51: | Változás1: |
+| Bejelentett tartózkodási hely56: | Változás1: |
 
 |  | Változás2: |
 
@@ -2012,7 +2000,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely52: | Változás1: |
+| Bejelentett tartózkodási hely57: | Változás1: |
 
 |  | Változás2: |
 
@@ -2026,11 +2014,11 @@ I. számú adatlap
 
 | Jogcím/rokonsági fok: |
 
-50 Korábban „ideiglenes”.
+55 Korábban „ideiglenes”.
 
-51 Korábban „ideiglenes”.
+56 Korábban „ideiglenes”.
 
-52 Korábban „ideiglenes”.
+57 Korábban „ideiglenes”.
 
 | Nevelésbe vett gyermek esetében |
 
@@ -2058,29 +2046,29 @@ I. számú adatlap
 
 „T-lap”
 
-1. Az adatlap funkciója:
+1. Az adatlap funkciója:
 
-a) a gyermek alapvető adatainak regisztrálása,
+a) a gyermek alapvető adatainak regisztrálása,
 
-b) a későbbi ellátások során a hatóságok, intézmények, ellátók kölcsönös tájékoztatásakor a gyermek azonosítása.
+b) a későbbi ellátások során a hatóságok, intézmények, ellátók kölcsönös tájékoztatásakor a gyermek azonosítása.
 
-2. Az adatlap kitöltője: az a család- és gyermekjóléti szolgáltató vagy átmeneti gondozást nyújtó, illetve szakellátó intézmény, amelynél az eset indul. A változások a gondozási folyamat során értelemszerűen időponttal rögzítendők.
+2. Az adatlap kitöltője: az a család- és gyermekjóléti szolgáltatást nyújtó (lehet szolgálat és központ is) vagy átmeneti gondozást nyújtó, illetve szakellátó intézmény, amelynél az eset indul. A változások a gondozási folyamat során értelemszerűen időponttal rögzítendők.
 
-3. A kitöltés ideje: a gyermek ellátórendszerbe való bekerülésekor, illetve a gyermekjóléti szolgálat gyermekvédelmi gondoskodás körébe tartozó javaslata elkészítésekor, amennyiben előzőleg nem került sor az esetnapló betétlapjának kitöltésére.
+3. A kitöltés ideje: a gyermek ellátórendszerbe való bekerülésekor. A család- és gyermekjóléti szolgáltatásban csak a gyermek veszélyeztetettségének felmerülése esetén.
 
-4. Az adatlap továbbítása: a gondozási folyamat során az első kitöltött példány megfelelő módosításokkal ellátott másolatai követik a gyermek útját az esetleges további hatóságokhoz, szolgáltatókhoz, akiknek már nem kell újra felvenniük ezt az adatlapot.
+4. Az adatlap továbbítása: a gondozási folyamat során az első kitöltött példány megfelelő módosításokkal ellátott példányai követik a gyermek útját az esetleges további hatóságokhoz, szolgáltatókhoz, akiknek már nem kell újra felvenniük ezt az adatlapot.
 
 II. számú adatlap
 
-„GYSZ-1” – Esetfelvételi lap
+„GYSZ-1”
 
-Környezettanulmány
+Egyszerű Környezettanulmány
 
-(A gyermekjóléti szolgálat tölti ki!)
+(A család- és gyermekjóléti szolgáltatást nyújtó tölti ki!)
 
-| Gyermekjóléti szolgálattal való kapcsolat |
+| Család- és gyermekjóléti szolgáltatást nyújtóval való kapcsolat |
 
-| Milyen okból és hogyan került a család (a gyermek/gyermekek) a gyermekjóléti szolgálathoz? Ki küldte a jelzést – amennyiben nem tartozik a Gyvt. 17. § (2a) bekezdése szerinti körbe? [A jelzés csatolandó, kivéve azt az esetet, ha a jelzés a Gyvt. 17. § (2a) bekezdése alapján zártan kezelendő! Zártan kezelendő adatok esetén a jelzést küldő nem tüntethető fel! Ebben az esetben a jelzés a gyámhatóságnak, illetve a gyermek veszélyeztetettségének megszüntetése érdekében eljáró szervnek külön borítékban csatolandó!] |
+| Milyen okból és hogyan került a család (a gyermek/gyermekek) a család- és gyermekjóléti szolgáltatást nyújtóhoz? Ki küldte a jelzést – amennyiben nem tartozik a Gyvt. 17. § (2a) bekezdése szerinti körbe? [A jelzés csatolandó, kivéve azt az esetet, ha a jelzés a Gyvt. 17. § (2a) bekezdése alapján zártan kezelendő! Zártan kezelendő adatok esetén a jelzést küldő nem tüntethető fel! Ebben az esetben a jelzés a gyámhatóságnak, illetve a gyermek veszélyeztetettségének megszüntetése érdekében eljáró szervnek külön borítékban csatolandó!] |
 
 | A jelzést küldő vagy más személy tett-e valamit az ügyben? [Ha az adatok a Gyvt. 17. § (2a) bekezdése értelmében zártan kezelendők, a válasz az adatlapon nem tüntethető fel, hanem az külön borítékban a jelzés mellé csatolandó.] |
 
@@ -2090,9 +2078,9 @@ Környezettanulmány
 
 | Mikor, milyen módon vette fel a gyermekjóléti szolgálat a kapcsolatot a családdal (dátummal)? |
 
-| Milyen lépéseket tett a gyermekjóléti szolgálat az ügyben (dátummal)? |
+| Milyen lépéseket tett a család- és gyermekjóléti szolgáltatást nyújtó az ügyben (dátummal)? |
 
-| Korábban volt-e kapcsolatban a család a gyermekjóléti szolgálattal? |
+| Korábban volt-e kapcsolatban a család a család- és gyermekjóléti szolgáltatást nyújtóval? |
 
 | Igen: milyen probléma miatt, mettől meddig? |
 
@@ -2110,17 +2098,23 @@ Környezettanulmány
 
 „GYSZ-1”
 
-1. Az adatlap funkciója:
+1. Az adatlap funkciója:
 
-a) egyszerű környezettanulmány, gyermekvédelmi gondoskodásra vonatkozó javaslattétel, illetve javaslat a család- és gyermekjóléti központnak a gyermek ellátására irányuló speciális szolgáltatásra. A családsegítő az adatlap „Következtetések, további tennivalók” részében indokolja javaslatát a hatóságnak;
+a) környezettanulmány egyszerűsített adattartalommal;
 
-b) az adatlapot családonként egy példányban kell kitölteni, amennyiben azonban a családban több gyermek van, a rájuk vonatkozó következtetéseket, javaslatokat az adatlap végén gyermekenként kell részletezni.
+b) gyermekvédelmi gondoskodásra vonatkozó javaslattétel készítése során, amennyiben megelőzően nem folyt szociális segítő tevékenység;
 
-2. Az adatlap kitöltője: a gyermekjóléti szolgálat.
+c) az adatlapot családonként egy példányban kell kitölteni, amennyiben a családban több gyermek van, a rájuk vonatkozó következtetéseket, javaslatokat az adatlap végén gyermekenként kell részletezni. Az adatlap „Tapasztalatok” részében foglaltaknak meg kell felelnie a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 9. §-ában foglaltaknak. A családsegítő az adatlap „Következtetések, további tennivalók” részében indokolja javaslatát a hatóságnak.
 
-3. A kitöltés kezdete: a gyermekvédelmi gondoskodás kezdeményezésekor, illetve a gyámhivatal vagy a család- és gyermekjóléti központ környezettanulmány elkészítésére való felkérésének beérkezésekor.
+2. Az adatlap kitöltője:
 
-4. Az adatlap továbbítása: a Törzslappal együtt, amennyiben a hatóság számára környezettanulmányként, javaslattételként készült.
+a) környezettanulmány esetén a család- és gyermekjóléti szolgáltatást nyújtó;
+
+b) gyermekvédelmi gondoskodás körébe tartozó hatósági intézkedéshez kapcsolódóan a család- és gyermekjóléti központ, amely elkészítésébe bevonhatja a család- és gyermekjóléti szolgálatot is.
+
+3. A kitöltés kezdete: a gyámhivatal vagy a család- és gyermekjóléti központ környezettanulmány elkészítésére való felkérésének beérkezésekor, illetve a gyermekvédelmi gondoskodás kezdeményezésekor.
+
+4. Az adatlap továbbítása: a Törzslappal együtt, amennyiben a hatóság számára környezettanulmányként, javaslattételként készült.
 
 III. számú adatlap
 
@@ -2162,7 +2156,7 @@ III. számú adatlap
 
 | Gyermek- védelmi felelős neve: |  |  |  |  |
 
-| Egyéb jelentős intézmény (szakember), pl. más gyermekjóléti szolgálat, tanulási képességeket vizsgáló szakértői bizottság, pszichológus, pszichiáter, nevelési tanácsadó, logopédus, szakorvos (Aláhúzandó!) |  |  |  |  |
+| Egyéb jelentős intézmény (szakember), pl. más család- és gyermekjóléti szolgáltatást nyújtó tanulási képességeket vizsgáló szakértői bizottság, pszichológus, pszichiáter, nevelési tanácsadó, logopédus, szakorvos (Aláhúzandó!) |  |  |  |  |
 
 | Dátum: |  |  |  |  |
 
@@ -2176,29 +2170,25 @@ III. számú adatlap
 
 „GYSZ-2”
 
-1. Az adatlap funkciója:
+1. Az adatlap funkciója:
 
-a) a gyermekkel kapcsolatos sürgős tudnivalók rögzítése és továbbadása abban az esetben, ha a gyermek gyermekjóléti szolgáltatási előzmény nélkül kerül helyettes szülőhöz, gyermekek átmeneti otthonába vagy ideiglenes hatályú elhelyezésre,
+a) a gyermekkel kapcsolatos sürgős tudnivalók rögzítése és továbbadása abban az esetben, ha a gyermek gyermekjóléti szolgáltatási előzmény nélkül kerül helyettes szülőhöz, gyermekek átmeneti otthonába vagy ideiglenes hatályú elhelyezésre,
 
-b) a szociális segítőmunkához szükséges feltárás segítése, dokumentálása,
+b) veszélyeztetettség felmerülése esetén a szociális segítőmunkához szükséges feltárás segítése, dokumentálása,
 
-c) a gyámhivatal, a területi gyermekvédelmi szakszolgálat és a gondozóhely tájékoztatása abban az esetben, ha a gyermek nevelésbe vételét javasolják, illetve, ha otthont nyújtó ellátásba kerül.
+c) a gyámhivatal, a területi gyermekvédelmi szakszolgálat és a gondozóhely tájékoztatása abban az esetben, ha a gyermek nevelésbe vételét javasolják, illetve ha otthont nyújtó ellátásba kerül.
 
-2. Az adatlap kitöltője: a gyermekjóléti szolgálat.
+2. Az adatlap kitöltője: az a család- és gyermekjóléti szolgáltatást nyújtó vagy átmeneti gondozást nyújtó, illetve szakellátó intézmény, amelynél az eset indul. A változások a gondozási folyamat során értelemszerűen időponttal rögzítendők.
 
-3. A kitöltés ideje:
+3. A kitöltés ideje:
 
-a) a gyermek átmeneti gondozásba kerüléséről, ideiglenes hatályú elhelyezéséről szóló értesítés kézhezvétele, vagy
+a) a gyermek átmeneti gondozásba kerülése, ideiglenes hatályú elhelyezése,
 
-b) a szociális segítőmunka során a gyermek veszélyeztetettsége felmerül,
+b) a család- és gyermekjóléti szolgáltatásban a gyermek veszélyeztetettségének felmerülése esetén (T-Törzslappal együtt),
 
-c) amennyiben a gyermekjóléti szolgálat maga intézkedik a gyermek elhelyezésével kapcsolatban, az intézkedés ideje.
+c) amennyiben a gyermekjóléti szolgáltatást nyújtó maga intézkedik a gyermek elhelyezésével kapcsolatban, az intézkedés ideje.
 
-4. Az adatlap továbbítása:
-
-a) a Törzslappal együtt a gondozási helyre, amennyiben a gyermek előzmény nélkül helyettes szülőhöz, gyermekek átmeneti otthonába vagy ideiglenes hatályú elhelyezésre kerül,
-
-b) a területi gyermekvédelmi szakszolgálathoz, továbbá az összes adatlappal együtt a gyámhivatalba. (Azon keresztül a gondozási helyre, amennyiben a gyermek számára a gyermekjóléti szolgálat, a család- és gyermekjóléti központ szociális segítőmunkája után nevelésbe vételt javasolnak.)
+4. Az adatlap továbbítása: a gondozási folyamat során az első kitöltött példány megfelelő módosításokkal ellátott példányai követik a gyermek útját az esetleges további hatóságokhoz, szolgáltatókhoz, akik szükség szerint aktualizálják az adatlapot.
 
 IV. számú adatlap
 
@@ -2352,43 +2342,43 @@ A gyermekkel kapcsolatos információk
 
 | – Javaslat – indokolással |
 
-|  | Dátum: | Aláírások A család részéről: Megjegyzések: A gyermekjóléti szolgálat részéről: |
+|  | Dátum: | Aláírások A család részéről: Megjegyzések: A gyermekjóléti szolgáltatást nyújtó részéről: |
 
 Útmutató a kitöltéshez
 
 „GYSZ-3”
 
-1. Az adatlap funkciója:
+1. Az adatlap funkciója:
 
-a) a gyermek 15 napot meghaladó átmeneti gondozása és gyermekvédelmi gondoskodás keretébe tartozó intézkedés kezdeményezése esetén:
+a) a gyermek 15 napot meghaladó átmeneti gondozása és gyermekvédelmi gondoskodás keretébe tartozó intézkedés kezdeményezése esetén:
 
-aa) a család, gyermek helyzetének, a problémák okainak feltárása,
+aa) a család, gyermek helyzetének, a problémák okainak feltárása,
 
-ab) a szociális segítőmunka dokumentálása;
+ab) a szociális segítőmunka tevékenységeinek összegzése;
 
-b) a javaslattételi lap a gyermekvédelmi gondoskodásra vonatkozó javaslattételre szolgál;
+b) a javaslattételi lap a gyermekvédelmi gondoskodásra vonatkozó javaslattételre szolgál;
 
-c) környezettanulmány készítése, amelyet a gyámhivatal vagy a család- és gyermekjóléti központ felkérésére készít a gyermekjóléti szolgálat.
+c) előzménnyel rendelkező ügyek esetében környezettanulmány készítése:
 
-2. Az adatlap kitöltője: a gyermekjóléti szolgálat (a gyermek 15 napot meghaladó átmeneti gondozása esetén is), valamint amennyiben a gyermek hatósági intézkedésben érintett, a család- és gyermekjóléti központ.
+ca) a gyámhivatal vagy a család- és gyermekjóléti központ felkérésére a család- és gyermekjóléti szolgálat készíti el,
 
-3. Az adatlap kitöltése:
+cb) gyermekvédelmi gondoskodás alatt álló gyermek esetében környezettanulmány készítésére érkezett felkéréskor a család- és gyermekjóléti központ készíti el.
 
-a) a javaslattételi lap kivételével
+2. Az adatlap kitöltője: a család- és gyermekjóléti szolgálat (a gyermek 15 napot meghaladó átmeneti gondozása esetén is), amennyiben a gyermek hatósági intézkedésben érintett, a család- és gyermekjóléti központ.
 
-aa) az Esetfelvételi lap „következtetése” alapján, a gondozási folyamat során, a gondozás megkezdésétől kezdve folyamatosan,
+3. Az adatlap kitöltése:
 
-ab) ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a gyámhivatal felkérése szerint történik;
+a) a gyámhivatal felkérése szerint,
 
-b) a javaslattételi lap szükség esetén töltendő ki.
+b) a javaslattétel során töltendő ki.
 
-4. Az adatlap továbbítása:
+4. Az adatlap továbbítása:
 
-a) az átmeneti gondozást nyújtónak a javaslattételi lap kivételével az első kitöltés után azonnal, a módosításokról folyamatosan konzultálnak,
+a) az átmeneti gondozást nyújtónak a javaslattételi lap kivételével az első kitöltés után azonnal, a módosításokról folyamatosan konzultálnak,
 
-b) amennyiben a gyermekjóléti szolgálat tesz javaslatot a család- és gyermekjóléti központon keresztül gyermekvédelmi intézkedés alkalmazására, úgy a javaslat részeként továbbítja az adatlapot az illetékes hatóságnak, amely nevelésbe vétel esetén azt továbbküldi a területi gyermekvédelmi szakszolgálatnak, aki az elhelyezési értekezlet előtt továbbítja majd a lehetséges gyermekvédelmi gyámnak,
+b) amennyiben a család- és gyermekjóléti szolgálat kezdeményezi a család- és gyermekjóléti központon keresztül gyermekvédelmi intézkedés alkalmazását, úgy a központ a javaslat részeként továbbítja az adatlapot az illetékes hatóságnak, amely nevelésbe vétel esetén továbbküldi azt a területi gyermekvédelmi szakszolgálatnak, aki az elhelyezési értekezlet előtt továbbítja majd a lehetséges gyermekvédelmi gyámnak,
 
-c) ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a gyámhivatal felkérése szerint a gyermekjóléti szolgálat a család- és gyermekjóléti központon keresztül továbbítja az adatlapot (a gondozási terv és a gondozási folyamat összegzése nélkül) a gyámhivatalnak, és azon keresztül a területi gyermekvédelmi szakszolgálatnak, aki továbbítja majd a gyermekvédelmi gyámnak. A pártfogói felügyelői szolgálatként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: pártfogó felügyelői szolgálat) részére akkor kell továbbítani, ha a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a család- és gyermekjóléti központot.
+c) ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a gyámhivatal felkérése a GYSZ-1 kiegészítéseként 30 napon belül a család- és gyermekjóléti szolgálat a család- és gyermekjóléti központon keresztül továbbítja az adatlapot (a gondozási terv és a gondozási folyamat összegzése nélkül) a gyámhivatalnak, és azon keresztül a területi gyermekvédelmi szakszolgálatnak, aki továbbítja majd a gyermekvédelmi gyámnak. A pártfogói felügyelői szolgálatként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: pártfogó felügyelői szolgálat) részére akkor kell továbbítani, ha a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a család- és gyermekjóléti központot.
 
 V. számú adatlap
 
@@ -2400,7 +2390,7 @@ VI. számú adatlap
 
 valamint szakellátásba kerülése esetén töltendő ki.
 
-Kitöltő: a gyermekjóléti szolgálat, szakellátó vagy átmeneti gondozást nyújtó intézmény felkérésére a gyermek
+Kitöltő: a család- és gyermekjóléti szolgáltatást nyújtó, szakellátó vagy átmeneti gondozást nyújtó intézmény felkérésére a gyermek
 
 háziorvosa.)
 
@@ -2440,17 +2430,17 @@ Kitöltés kezdete:
 
 „GYSZ-4”
 
-1. Az adatlap funkciója:
+1. Az adatlap funkciója:
 
-a) a gyermek egészségügyi adatainak rögzítésével a veszélyeztetett gyermek alapellátási gondozásának elősegítése,
+a) a gyermek egészségügyi adatainak rögzítésével a veszélyeztetett gyermek alapellátási gondozásának elősegítése,
 
-b) átmeneti gondozás, otthont nyújtó ellátás esetén az ellátó tájékoztatása.
+b) átmeneti gondozás, otthont nyújtó ellátás esetén az ellátó tájékoztatása.
 
-2. Az adatlap kitöltője: a gyermek védelembe vétele, előreláthatólag 15 napot meghaladó átmeneti gondozása, nevelésbe vétele esetén a gyermekjóléti szolgálat, illetve a család- és gyermekjóléti központ felkérésére a gyermek háziorvosa.
+2. Az adatlap kitöltője: a gyermek védelembe vétele, előreláthatólag 15 napot meghaladó átmeneti gondozása, nevelésbe vétele esetén a család- és gyermekjóléti szolgáltatást nyújtó, illetve – előzmény nélküli elhelyezés esetén – szakellátást vagy az átmeneti gondozást nyújtó szolgáltató felkérésére a gyermek háziorvosa.
 
-3. A kitöltés ideje: a külön jogszabályban meghatározott idő.
+3. A kitöltés ideje: a gyermek védelembe vételekor, előreláthatólag 15 napot meghaladó átmeneti gondozásakor, nevelésbe vételekor, vagy ideiglenes hatályú elhelyezésekor.
 
-4. Az adatlap továbbítása: a gyermekjóléti szolgálat, illetve gyermekvédelmi gondoskodás esetén a család- és gyermekjóléti központ feladata az adatlap továbbküldése a gyermek gondozását ellátó helyettes szülőhöz, gyermekek átmeneti otthonába vagy a szakellátást nyújtó intézménybe az elhelyezéstől számított 8 napon belül.
+4. Az adatlap továbbítása: a család- és gyermekjóléti szolgálat, illetve gyermekvédelmi gondoskodás esetén a család- és gyermekjóléti központ feladata az adatlap továbbküldése a gyermek gondozását ellátó helyettes szülőhöz, gyermekek átmeneti otthonába vagy a szakellátást nyújtó intézménybe az elhelyezéstől számított 8 napon belül.
 
 VII. számú adatlap
 
@@ -2496,7 +2486,7 @@ I. A védelembe vétel megszüntetésére irányuló munka részletezése az al�
 
 „GYSZ-5”
 
-1. Az adatlap funkciója: a védelembe vett gyermekek családi/egyéni gondozási-nevelési tervének rögzítése. Azokra a gyermekekre, akiket azonos határozattal vettek védelembe, elegendő egy közös adatlap kitöltése a személyre szóló feladatok pontos megjelölésével.
+1. Az adatlap funkciója: a védelembe vett gyermekek családi/egyéni gondozási-nevelési tervének rögzítése. Azokra a gyermekekre, akiket azonos határozattal vettek védelembe, mérlegelhető egy közös adatlap kitöltése a személyre szóló feladatok és felelősök pontos megjelölésével.
 
 2. Az adatlap kitöltője: a család- és gyermekjóléti központ.
 
@@ -2507,6 +2497,8 @@ I. A védelembe vétel megszüntetésére irányuló munka részletezése az al�
 a) védelembe vétel során a határozatot hozó gyámhivatalnak,
 
 b) a pártfogó felügyelői szolgálat részére, amennyiben a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a család- és gyermekjóléti központot.
+
+c) minden szakember felé, akire nézve a családi/egyéni gondozási-nevelési tervben feladat kerül meghatározásra. A család- és gyermekjóléti szolgálatnak függetlenül attól, hogy a családsegítőre nézve meghatároz-e feladatokat.
 
 VIII. számú adatlap
 
@@ -2630,9 +2622,9 @@ IX. számú adatlap
 
 | A tervet készítő esetmenedzser neve: | A családot korábban gondozó intézmény, személy neve: |
 
-| A szakellátás részéről együttműködő esetmenedzser neve, elérhetősége: |
+| A szakellátás részéről együttműködő szakember neve, elérhetősége: |
 
-| A család- és gyermekjóléti központ esetmenedzsere első látogatásának időpontja a gyermek gondozási helyén: | A szakellátás családgondozója első látogatásának időpontja az illetékes család- és gyermekjóléti központnál: |
+| A család- és gyermekjóléti központ esetmenedzsere első látogatásának időpontja a gyermek gondozási helyén: | A szakellátás családgondozója első látogatásának időpontja az illetékes család- és család- és gyermekjóléti szolgáltatást nyújtónál: |
 
 | I. Szakmai munka – kapcsolatok: |
 
@@ -2680,13 +2672,13 @@ IX. számú adatlap
 
 „GYSZ-7”
 
-1. Az adatlap funkciója: a családgondozás és a kapcsolattartás segítésének tervezése a gyermek visszafogadása érdekében.
+1. Az adatlap funkciója: a szociális segítő munka és a gyermek és vér szerinti családja közötti kapcsolattartás segítésének tervezése a gyermek családjába történő visszakerülése érdekében. Azokra a gyermekekre, akiket azonos határozattal vettek nevelésbe, mérlegelhető egy közös adatlap kitöltése a személyre vonatkozó különbségek pontos megjelölésével
 
-2. Az adatlap kitöltője: a család- és gyermekjóléti központ.
+2. Az adatlap kitöltője: a család- és gyermekjóléti központ.
 
-3. A kitöltés ideje: a nevelésbe vételi határozatot követő 30 nap. Módosítására a felülvizsgálati határozat jogerőre emelkedését követő 30 napon belül, illetve szükség szerint kerülhet sor, ezen az adatlapon vagy pótlapok betoldásával.
+3. A kitöltés ideje: a nevelésbe vételi határozatot követő 30 napon belül. Módosítására a felülvizsgálati határozat jogerőre emelkedését követő 30 napon belül, illetve szükség szerint kerülhet sor, ezen az adatlapon vagy pótlapok betoldásával.
 
-4. Az adatlap továbbítása: a területi gyermekvédelmi szakszolgálat részére.
+4. Az adatlap továbbítása: gyámhivatalnak, a területi gyermekvédelmi szakszolgálatnak és a gyermekvédelmi gyámnak.
 
 X. számú adatlap
 
@@ -2808,7 +2800,7 @@ XI. számú adatlap
 
 | A gondozás helye: | A terv készítőjének neve: |
 
-| Család- és gyermekjóléti központ esetmenedzserének neve: | A terv készítésében közreműködő egyéb szakemberek: |
+| Család- és gyermekjóléti szolgáltatást nyújtó szakember neve: | A terv készítésében közreműködő egyéb szakemberek: |
 
 | Részt vett-e a szülő/törvényes képviselő a gyermek egyéni, gondozási-nevelési tervének elkészítésében? Ha nem, próbálták-e bevonni és miért nem sikerült |
 
@@ -2818,7 +2810,7 @@ XI. számú adatlap
 
 | 3. A gyermek gondozóhelyre történő lehetőleg zökkenőmentes beilleszkedésének elősegítése |
 
-| a) A gyermek életvitele, szokásai, a gyermektől, szülőtől, törvényes képviselőtől, család- és gyermekjóléti központtól szerzett információk alapján, az alábbi szempontok figyelembevételével: |
+| a) A gyermek életvitele, szokásai, a gyermektől, szülőtől, törvényes képviselőtől, család- és gyermekjóléti szolgáltatást nyújtótól szerzett információk alapján, az alábbi szempontok figyelembevételével: |
 
 | napirendje; fekvés-ébredés; étkezések ideje; részvétele a házi munkában; tanulási szokások; kedvenc tevékenységei, játékai, tárgyai, ételei; megszokottól eltérően használt szavai, kifejezései; elalvási, étkezési, tisztálkodási, egyéb szokásai; dohányzás, a gyermek pénzhez való viszonya |
 
@@ -2878,11 +2870,11 @@ XI. számú adatlap
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
-| f) Etnikai, nyelvi szempontok:53 |
+| f) Etnikai, nyelvi szempontok:58 |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: | Igény: |
 
-53A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+58A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2890,7 +2882,7 @@ XI. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-| g) Vallás – pl.: vallási ünnepek, szokások:54 |
+| g) Vallás – pl.: vallási ünnepek, szokások:59 |
 
 | Igény: | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2912,7 +2904,7 @@ XI. számú adatlap
 
 | Célok, megállapodások: |
 
-54 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+59 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | j) A szülő/törvényes képviselő és a gyermek kapcsolatának jellemzése: |
 
@@ -2994,11 +2986,11 @@ XI. számú adatlap
 
 Az adatlap funkciója: a gyermekek átmeneti otthonába vagy helyettes szülőhöz került gyermek egyéni gondozási-nevelési tervének rögzítése.
 
-Az adatlap kitöltője: a helyettes szülő, gyermekek átmeneti otthona
+Az adatlap kitöltője: a helyettes szülő, a gyermekek átmeneti otthona vezetője/családgondozója
 
 A kitöltés ideje: várhatóan 30 napot meghaladó elhelyezés esetén az elhelyezést követő 15 nap. Amennyiben előre nem látott okból a gondozás meghaladja a 30 napot, úgy az ok ismertté válásától számított 15 nap. A módosításokat ezután folyamatosan ezen a lapon vagy pótlapon kell vezetni.
 
-Az adatlap továbbítása: a család- és gyermekjóléti központnak.
+Az adatlap továbbítása: a család- és gyermekjóléti szolgáltatást nyújtó felé.
 
 XII. számú adatlap
 
@@ -3042,7 +3034,7 @@ XII. számú adatlap
 
 | Milyen feladatokat ad a gyermek esetleges munkába állásának elősegítése? | Milyen segítséget nyújt az intézmény a szülőnek a feladatok ellátásához? |
 
-| Etnikai, nyelvi, kulturális szempontok55 |
+| Etnikai, nyelvi, kulturális szempontok60 |
 
 | Amennyiben etnikai hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok megnevezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3052,9 +3044,9 @@ XII. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-55 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+60 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások56 |
+| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások61 |
 
 | Amennyiben vallási hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok részletezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3080,7 +3072,7 @@ XII. számú adatlap
 
 | Igényel-e az intézménytől segítséget a kapcsolattartás biztosítása? |
 
-56 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+61 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | 3. Van-e hatályban a gyermekre vonatkozó/gyermekkel kapcsolatos gyermekvédelmi hatósági intézkedés, illetve büntetőeljárás? Ha igen, ismertesse! |
 
@@ -3104,11 +3096,11 @@ XII. számú adatlap
 
 Az adatlap funkciója: az átmeneti gondozásra a családok átmeneti otthonába került gyermek egyéni gondozási-nevelési tervének rögzítése.
 
-Az adatlap kitöltője: a családok átmeneti otthona.
+Az adatlap kitöltője: a családok átmeneti otthona vezetője/családgondozója.
 
 A kitöltés ideje: várhatóan 30 napot meghaladó elhelyezés esetén az elhelyezést követő 15 napon belül. A módosításokat ezután folyamatosan ezen a lapon vagy pótlapon kell vezetni.
 
-Az adatlap továbbítása: a gyermekjóléti szolgálatnak.
+Az adatlap továbbítása: a család- és gyermekjóléti szolgáltatást nyújtónak.
 
 XIII. számú adatlap
 
@@ -3136,7 +3128,7 @@ XIII. számú adatlap
 
 | Az átmeneti gondozás várható időtartama: |
 
-| Mely más intézmények – gyermekjóléti szolgálat, családsegítő szolgálat stb. (szakember neve, intézmény, elérhetőség) – vesznek részt a család segítésében? |
+| Mely más intézmények – család- és gyermekjóléti szolgáltatást nyújtó stb. (szakember neve, intézmény, elérhetőség) – vesznek részt a család segítésében? |
 
 | Aláírások: |
 
@@ -3152,11 +3144,11 @@ XIII. számú adatlap
 
 Az adatlap funkciója: a családok átmeneti otthonába került család gondozási tervének rögzítése.
 
-Az adatlap kitöltője: a családok átmeneti otthona.
+Az adatlap kitöltője: a családok átmeneti otthona vezetője/családgondozója.
 
 A kitöltés ideje: várhatóan 30 napot meghaladó elhelyezés esetén az elhelyezést követő 15 napon belül.
 
-Az adatlap továbbítása: az adatlapot védelembe vétel esetén kell továbbítani a gyermekjóléti szolgálatnak.
+Az adatlap továbbítása: az adatlapot védelembe vétel esetén kell továbbítani a család- és gyermekjóléti szolgáltatást nyújtónak.
 
 XIV. számú adatlap
 
@@ -3216,7 +3208,7 @@ A kitöltés ideje:
 
 Az adatlap továbbítása:
 
-1. a gyermekjóléti szolgálatnak a gondozás befejezését követő 15 napon belül,
+1. a család- és gyermekjóléti szolgálatnak – védelembe vett gyermek esetében a család- és gyermekjóléti központnak – a gondozás befejezését követő 15 napon belül,
 
 2. a gyámhivatal részére a megkeresés szerint, vagy az azt követő 15 napon belül.
 
@@ -3558,7 +3550,7 @@ Az adatlap kitöltője a területi gyermekvédelmi szakszolgálat, az alábbiak 
 
 A kitöltés ideje: a gyámhivatali tárgyalást megelőzően, illetve a terv módosításakor.
 
-Az adatlap továbbítása: a gyámhivatalnak, majd a gyámhivatali tárgyalás és döntés után a gyámhivatal felhívására a gyermekjóléti szolgálatnak és az újonnan kijelölt gondozási helynek.
+Az adatlap továbbítása: a gyámhivatalnak, majd a gyámhivatali tárgyalás és döntés után a gyámhivatal felhívására a család- és gyermekjóléti központnak és az újonnan kijelölt gondozási helynek.
 
 XVI. számú adatlap
 
@@ -3802,7 +3794,7 @@ XIX. számú adatlap
 
 | 1. A gyermek gondozóhelyre történő beilleszkedésének elősegítése |
 
-| a) A gyermek életvitele és szokásai a szülőtől, gyermektől, korábbi gondozótól, gyermekjóléti szolgálattól szerzett információk alapján, az alábbi szempontok figyelembevételével: |
+| a) A gyermek életvitele és szokásai a szülőtől, gyermektől, korábbi gondozótól, család- és gyermekjóléti központtól szerzett információk alapján, az alábbi szempontok figyelembevételével: |
 
 | − napirendje (fekvés-ébredés, étkezések ideje) − részvétele a házi munkában − tanulási szokásai − kedvenc tevékenységei, játékai, tárgyai, ételei − megszokottól eltérően használt szavai, kifejezései − elalvási, étkezési, tisztálkodási, egyéb szokásai − alkohol- és drogfogyasztás, dohányzás − bűnelkövetés − iskolakerülés − a gyermek pénzhez való viszonya |
 
@@ -4012,9 +4004,9 @@ Az adatlap funkciója: a nevelésbe vett gyermek egyéni gondozási-nevelési te
 
 Az adatlap kitöltője: a nevelőszülő és nevelőszülői tanácsadó vagy a gondozó intézmény/gyám.
 
-A kitöltés ideje: az adatlap a gyermekjóléti szolgálat által töltött adatlapok és a gyámhivatal által jóváhagyott elhelyezési javaslat és elhelyezési terv kézhezvételétől számított 30 napon belül kitöltendő, azt követően pedig – szükség szerint pótlapon – folyamatosan bővíthető, módosítható.
+A kitöltés ideje: az adatlap a család- és gyermekjóléti szolgáltatást nyújtó által töltött adatlapok és a gyámhivatal által jóváhagyott elhelyezési javaslat és elhelyezési terv kézhezvételétől számított 30 napon belül kitöltendő, azt követően pedig – szükség szerint pótlapon – folyamatosan bővíthető, módosítható.
 
-Az adatlap továbbítása: a területi gyermekvédelmi szakszolgálat és a gyermekjóléti szolgálat részére.
+Az adatlap továbbítása: a területi gyermekvédelmi szakszolgálat és a a család- és gyermekjóléti központ részére.
 
 XX. számú adatlap
 
@@ -4152,5 +4144,5 @@ Az adatlap továbbítása: felülvizsgálat esetén a gyámhivatal és a család
 
 XXII. számú adatlap
 
-[^47]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
-[^48]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja, a 353/2014. (XII. 29.) Korm. rendelet 29. § b) pontja, a 419/2015. (XII. 23.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^52]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
+[^53]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja, a 353/2014. (XII. 29.) Korm. rendelet 29. § b) pontja, a 419/2015. (XII. 23.) Korm. rendelet 17. § (2) bekezdése, a 448/2016. (XII. 19.) Korm. rendelet 17. §-a szerint módosított szöveg.
