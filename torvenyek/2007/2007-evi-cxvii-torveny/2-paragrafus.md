@@ -54,7 +54,7 @@
 
 a) az az életkor, melyet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény az öregségi nyugdíjra való jogosultság feltételeként meghatároz,
 
-b) az az időpont, amelytől a tag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
+b) az az időpont, amelytől a tag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 
 c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szerinti állam irányadó szociális és munkajoga alapján a tagra irányadó öregségi nyugdíjkorhatár;
 

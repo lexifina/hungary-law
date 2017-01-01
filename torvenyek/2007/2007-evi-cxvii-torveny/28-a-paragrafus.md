@@ -12,7 +12,7 @@ c) elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetősé
 
 fogadja.
 
-(3) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
+(3) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A foglalkoztatói nyugdíjszolgáltató intézmény az ügyintézőjének – a foglalkoztatói nyugdíjszolgáltató intézmény felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
 
 (4) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény és a tag közötti telefonos kommunikációt a foglalkoztatói nyugdíjszolgáltató intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről a tagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A tag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
