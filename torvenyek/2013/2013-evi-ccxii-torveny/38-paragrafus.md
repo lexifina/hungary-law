@@ -1,1 +1,1 @@
-38. § A mezőgazdasági igazgatási szerv jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi és felügyeleti eljárás iránti kérelem.
+38. § A mezőgazdasági igazgatási szerv elsőfokú határozatával szemben nincs helye fellebbezésnek, felügyeleti jogkör gyakorlásának, továbbá nem nyújtható be újrafelvételi kérelem.

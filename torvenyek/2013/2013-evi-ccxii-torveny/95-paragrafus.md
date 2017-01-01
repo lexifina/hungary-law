@@ -1,4 +1,4 @@
-95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásbavétel céljából bejelenteni. Ha a használat részesművelési szerződés alapján jött létre, a bejelentési kötelezettség a részesművelési szerződésben meghatározott, a szerződő felek közül kijelölt képviselőt terheli.
+95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásba vétel céljából bejelenteni, kivéve, ha a földhasználati nyilvántartásba vételi eljárás a 95/A. § (1) bekezdése szerint hivatalból indul meg. Ha a használat részesművelési szerződés alapján jött létre, a bejelentési kötelezettség a részesművelési szerződésben meghatározott, a szerződő felek közül kijelölt képviselőt terheli.
 
 (2) Az (1) bekezdésben meghatározott földhasználati bejelentést az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) kell teljesíteni, amelyhez a (3) bekezdésben meghatározott okiratot kell csatolni, kivéve, ha a tulajdonos vagy a tulajdonosi joggyakorló szervezet, illetve az ingatlan-nyilvántartásba bejegyzett haszonélvezet vagy vagyonkezelői jog fennállása esetén a haszonélvező vagy a vagyonkezelő a földhasználó.
 
@@ -16,9 +16,9 @@ c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatároz
 
 (5a) Az (5) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a földhasználó kéri – az (5) bekezdés szerinti határidőben értesíti az ingatlanügyi hatóságot.
 
-(6) A földhasználati nyilvántartási eljárás a (2) és az (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
+(6) A földhasználati nyilvántartási eljárás – a 95/A. § (1) bekezdése szerinti eljárás kivételével – a (2) és (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
 
-(7) A Ket.-ben meghatározott közreműködő hatóság az eljárásban nem vehet részt.
+(7)
 
 (8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás legkisebb összegénél.
 
