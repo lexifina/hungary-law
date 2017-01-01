@@ -1,14 +1,8 @@
 1. § (1) Komplex szakmai vizsga szervezésére az emberi erőforrások minisztere irányítása alá tartozó, az emberi erőforrások minisztere felügyelete alá tartozó szerv által irányított (2)–(7) bekezdés szerinti intézményeket jelölöm ki.
 
-(2) Az Oktatáskutató és Fejlesztő Intézet jogosult az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendeletben (a továbbiakban: R1.) és az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendeletben (a továbbiakban: R2.) az oktatásért és a kultúráért felelős miniszter hatáskörébe tartozó szakképesítések tekintetében szakmai vizsga szervezésére.
+(2)[^2] Az Eszterházy Károly Egyetem jogosult az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendeletben (a továbbiakban: R1.) és az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendeletben (a továbbiakban: R2.) az oktatásért és a kultúráért felelős miniszter hatáskörébe tartozó szakképesítések tekintetében szakmai vizsga szervezésére.
 
-(3) A Nemzeti Közművelődési és Közgyűjteményi Intézet jogosult szakmai vizsga szervezésére
-
-a) az R1. szerinti 4. Művészet, közművelődés, kommunikáció szakmacsoportba tartozó szakképesítések, valamint
-
-b) az R2. szerinti 4. Művészet, közművelődés, kommunikáció szakmacsoportba tartozó szakképesítések
-
-tekintetében.
+(3)[^3]
 
 (4) A Magyar Nemzeti Múzeum jogosult szakmai vizsga szervezésére
 
@@ -24,14 +18,17 @@ b) az R2. szerinti 52 322 01 OKJ számú Segédkönyvtáros, az 53 211 01 OKJ sz
 
 tekintetében.
 
-(6)[^1] A Nemzeti Rehabilitációs és Szociális Hivatal az R1.-ben és az R2.-ben meghatározott, a szociál- és nyugdíjpolitikáért, a gyermekek és az ifjúság védelméért, a társadalmi felzárkózásért, valamint a gyermek- és ifjúságpolitikáért felelős miniszter hatáskörébe tartozó valamennyi, a szociális szolgáltatások szakmacsoportba tartozó szakképesítés tekintetében jogosult szakmai vizsga szervezésére.
+(6)[^4] A Szociális és Gyermekvédelmi Főigazgatóság az R1.-ben és az R2.-ben meghatározott, a szociál- és nyugdíjpolitikáért, a gyermekek és az ifjúság védelméért, a társadalmi felzárkózásért, valamint a gyermek- és ifjúságpolitikáért felelős miniszter hatáskörébe tartozó valamennyi, a szociális szolgáltatások szakmacsoportba tartozó szakképesítés tekintetében jogosult szakmai vizsga szervezésére.
 
-(7) A Semmelweis Egyetem Testnevelési és Sporttudományi Kar a sportpolitikáért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés tekintetében jogosult szakmai vizsgák megszervezésére.
+(7)[^5] A Testnevelési Egyetem a sportpolitikáért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés tekintetében jogosult szakmai vizsgák megszervezésére.
 
-(8)[^2] A Szociális és Gyermekvédelmi Főigazgatóság jogosult az R2.-ben meghatározott az oktatásért, a kultúráért, a szociál- és nyugdíjpolitikáért, a gyermekek és az ifjúság védelméért, a társadalmi felzárkózásért, valamint a gyermek- és ifjúságpolitikáért felelős miniszter hatáskörébe tartozó szakképesítések tekintetében szakmai vizsga szervezésére.
+(8)[^6] A Szociális és Gyermekvédelmi Főigazgatóság jogosult az R2.-ben meghatározott az oktatásért, a kultúráért, a szociál- és nyugdíjpolitikáért, a gyermekek és az ifjúság védelméért, a társadalmi felzárkózásért, valamint a gyermek- és ifjúságpolitikáért felelős miniszter hatáskörébe tartozó szakképesítések tekintetében szakmai vizsga szervezésére.
 
-(9)[^3] Az Egészségügyi Nyilvántartási és Képzési Központ az R1.-ben és az R2.-ben meghatározott, az egészségügyért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés tekintetében jogosult szakmai vizsga szervezésére.
+(9)[^7] Az Állami Egészségügyi Ellátó Központ az R1.-ben és az R2.-ben meghatározott, az egészségügyért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés tekintetében jogosult szakmai vizsga szervezésére.
 
-[^1]: Az 1. § (6) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (8) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 12. § b) pontja, a 25/2016. (IX. 1.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^3]: Az 1. § (9) bekezdését a 14/2014. (III. 10.) EMMI rendelet 31. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 144. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 45/2016. (XII. 28.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdését az 50/2016. (XII. 28.) EMMI rendelet 16. §-a hatályon kívül helyezte.
+[^4]: Az 1. § (6) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 36. §-a szerint módosított szöveg.
+[^5]: Az 1. § (7) bekezdése a 45/2016. (XII. 28.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. § (8) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 12. § b) pontja, a 25/2016. (IX. 1.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^7]: Az 1. § (9) bekezdését a 14/2014. (III. 10.) EMMI rendelet 31. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 89. §-a szerint módosított szöveg.
