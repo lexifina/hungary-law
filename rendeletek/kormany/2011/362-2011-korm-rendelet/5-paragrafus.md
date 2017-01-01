@@ -4,23 +4,23 @@
 
 a)[^7]
 
-b)[^8] az oktatási igazolványok megszemélyesítésével, a megszemélyesítéshez szükséges jogosulti arckép (a továbbiakban: fénykép) és aláírás nyilvántartásával, a gyártás és előállítás koordinációjával, terjesztéssel és logisztikával összefüggésben felmerülő adatfeldolgozói feladatokat a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEK KH) látja el,
+b)[^8] az oktatási igazolványok megszemélyesítésével, a megszemélyesítéshez szükséges jogosulti arckép (a továbbiakban: fénykép) és aláírás nyilvántartásával, a gyártás és előállítás koordinációjával, terjesztéssel és logisztikával összefüggésben felmerülő adatfeldolgozói feladatokat a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) látja el,
 
 c) az oktatási igazolványok és érvényesítő matricák fizikai előállításával kapcsolatos adatfeldolgozói feladatokat a Pénzjegynyomda Zártkörűen Működő Részvénytársaság (a továbbiakban: Pénzjegynyomda Zrt.) látja el,
 
-d)[^9] az igazolványok megszemélyesítéséhez szükséges fénykép és aláírás felvételezésével, valamint azoknak a polgárok személyi adatainak és lakcímének nyilvántartása szerinti hitelességének ellenőrzésével kapcsolatos feladatokat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) adatfeldolgozóként látja el.
+d)[^9] az igazolványok megszemélyesítéséhez szükséges fénykép és aláírás felvételezésével, valamint azoknak a polgárok személyi adatainak és lakcímének nyilvántartása szerinti hitelességének ellenőrzésével kapcsolatos feladatokat az általános illetékességgel eljáró járási hivatal adatfeldolgozóként látja el.
 
-(2a)[^10] A járási hivatal a (2) bekezdés d) pontjában meghatározott feladatot országos hatáskörrel, díjmentesen végzi, mely feladat ellátását követően a járási hivatal a jogosult részére adatlapot állít ki.
+(2a)[^10] Az általános illetékességgel eljáró járási hivatal a (2) bekezdés d) pontjában meghatározott feladatot országos hatáskörrel, díjmentesen végzi, mely feladat ellátását követően az általános illetékességgel eljáró járási hivatal a jogosult részére adatlapot állít ki.
 
-(3)[^11] Az adatkezelő és a KEK KH az oktatási igazolványok előállítási, megszemélyesítési folyamatának nyomon követését elektronikus rendszerben folyamatosan és teljes körűen biztosítják egymás és a közreműködő intézmények számára.
+(3)[^11] Az adatkezelő és a NISZ Zrt. az oktatási igazolványok előállítási, megszemélyesítési folyamatának nyomon követését elektronikus rendszerben folyamatosan és teljes körűen biztosítják egymás és a közreműködő intézmények számára.
 
 (4)[^12] Az e rendeletben felsorolt, a diákigazolványhoz kapcsolódó szolgáltatások körének meghatározását, továbbá az állam által nem garantált belföldi és nemzetközi kereskedelmi kedvezmények szervezését, kiépítését és az ehhez kapcsolódó jogok teljes körű hasznosítását, valamint kommunikációját az adatkezelő kizárólagos joggal látja el.
 
 [^5]: Az 5. § (1) bekezdése az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 5. § (2) bekezdése az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 5. § (2) bekezdés a) pontját a 210/2015. (VII. 23.) Korm. rendelet 9. §-a hatályon kívül helyezte.
-[^8]: Az 5. § (2) bekezdés b) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^9]: Az 5. § (2) bekezdés d) pontja a 255/2013. (VII. 5.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
-[^10]: Az 5. § (2a) bekezdését az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 255/2013. (VII. 5.) Korm. rendelet 38. § b) és c) pontja szerint módosított szöveg.
-[^11]: Az 5. § (3) bekezdése a 210/2015. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: Az 5. § (2) bekezdés b) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 191. § (1) bekezdése szerint módosított szöveg.
+[^9]: Az 5. § (2) bekezdés d) pontja a 255/2013. (VII. 5.) Korm. rendelet 38. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (2a) bekezdését az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 255/2013. (VII. 5.) Korm. rendelet 38. § b) és c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdése a 210/2015. (VII. 23.) Korm. rendelet 4. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^12]: Az 5. § (4) bekezdése a 299/2013. (VII. 29.) Korm. rendelet 1. §-ával megállapított, a 169/2016. (VII. 1.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

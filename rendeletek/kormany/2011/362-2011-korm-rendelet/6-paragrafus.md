@@ -8,8 +8,8 @@ c) a nem magyar oktatási intézménnyel tanulói, hallgatói jogviszonyban áll
 
 d) a 19. § (1) bekezdésében meghatározott jogosultak esetében a fogadó intézmény,
 
-e)[^15] a 23. § b) és c) pontjában meghatározott személyek oktatási igazolványának cseréje, pótlása és az Nktv. 96. § (1) bekezdés szerinti intézményben pedagógus munkakörben foglalkoztatott személyek oktatási igazolványainak kiadása esetében a köznevelési feladatkörében eljáró fővárosi és megyei kormányhivatal.
+e)[^15] a 23. § b) és c) pontjában meghatározott személyek oktatási igazolványának cseréje, pótlása és az Nktv. 96. § (1) bekezdés szerinti intézményben pedagógus munkakörben foglalkoztatott személyek oktatási igazolványainak kiadása esetében a fővárosi és megyei kormányhivatal köznevelési feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala.
 
 [^13]: A 6. § a) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § b)–c) pontja szerint módosított szöveg.
 [^14]: A 6. § b) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § d) pontja, a 169/2016. (VII. 1.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^15]: A 6. § e) pontja a 74/2014. (III. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 6. § e) pontja a 74/2014. (III. 13.) Korm. rendelet 2. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés d) pontja szerint módosított szöveg.

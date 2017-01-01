@@ -18,10 +18,10 @@ g) az oktatási igazolvány bevonásának okát, tényét és idejét,
 
 h) az oktatási igazolvány egyedi adatchip azonosítóját,
 
-i)[^27]
+i)[^27] az oktatási igazolvány jogosult által történő átvételének dátumát,
 
 j) a 12. § szerinti igazolás adatait
 
 [^25]: A 9. § a) pontját a 442/2016. (XII. 16.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
 [^26]: A 9. § c) pontja a 210/2015. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^27]: A 9. § i) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte.
+[^27]: A 9. § i) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte, újonnan a 440/2016. (XII. 16.) Korm. rendelet 22. § (2) bekezdése iktatta be.
