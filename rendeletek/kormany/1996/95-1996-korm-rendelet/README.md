@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-95-20-2
 | 2012-09-01 | 1996-95-20-22.6 | 243/2012. (VIII. 31.) Korm. rendelet |
 | 2013-01-01 | 1996-95-20-22.7 | 243/2012. (VIII. 31.) Korm. rendelet |
 | 2013-02-01 | 1996-95-20-22.8 | 355/2012. (XII. 13.) Korm. rendelet |
+| 2017-01-01 | 1996-95-20-22.9 | 97/2008. (IV. 29.) Korm. rendelet |
