@@ -12,7 +12,7 @@
 
 5. igazságügyi szakértői intézet: olyan – jellemzően egyetem mellett működő – állami szerv, amely kizárólagosan, illetve törvényben vagy az alapszabályában meghatározott alaptevékenységén, így különösen tudományos, oktatói vagy kutatói tevékenységén kívül igazságügyi szakértői tevékenységet is végez,
 
-6. igazságügyi szakértői intézmény: az igazságügyért felelős miniszter (a továbbiakban: miniszter) vagy vele egyetértésben más miniszter által alapított központi költségvetési szerv, amelynek alaptevékenysége jogszabályban meghatározott igazságügyi szakértői kirendelés teljesítése,
+6. igazságügyi szakértői intézmény: a Kormány által jogszabályban alapított, az igazságügyért felelős miniszter (a továbbiakban: miniszter) által alapított, a miniszter és a Kormány más tagja által közösen alapított vagy a miniszterrel egyetértésben a Kormány más tagja által alapított központi költségvetési szerv, amelynek feladata jogszabályban meghatározott igazságügyi szakértői kirendelés teljesítése,
 
 7. igazságügyi szakértői testület: a miniszter rendeletében vagy más jogszabályban létrehozott, a létrehozó jogszabályban meghatározott szakkérdésben, bizottságként eljárva véleménynyilvánításra jogosult, jellemzően jogi személy,
 

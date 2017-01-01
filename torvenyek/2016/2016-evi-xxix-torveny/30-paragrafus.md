@@ -4,19 +4,27 @@
 
 ## 14. Az igazságügyi szakértői intézmények
 
-30. § (1) Igazságügyi szakértői intézményt a miniszter vagy vele egyetértésben más miniszter alapíthat és szüntethet meg.
+30. § (1) Igazságügyi szakértői intézményt a Kormány, a miniszter, a miniszter és a Kormány más tagja közösen vagy a miniszterrel egyetértésben a Kormány más tagja alapíthat és szüntethet meg.
 
-(2) Az igazságügyi szakértői intézmény központi költségvetési szerv.
+(2) Az igazságügyi szakértői intézmény központi költségvetési szerv. Az igazságügyi szakértői intézmény
+
+a) irányításával kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 9/A. § (3) bekezdésében meghatározott hatáskörök középirányító szervre, illetve
+
+b) irányításával kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 9. § b)–i) pontja szerinti hatáskörök más központi költségvetési szervre
+
+átruházhatók.
 
 (3) Az igazságügyi szakértői intézmény alaptevékenységének minősül
 
 a) olyan ügyben történő hatósági kirendelés teljesítése, amelyben jogszabály lehetővé vagy kötelezővé teszi a bizonyítási eljárás hivatalból való lefolytatását,
 
-b) a külön jogszabályban meghatározott ügyekben való kirendelés teljesítése, és
+b) jogszabályban meghatározott ügyekben való kirendelés teljesítése,
 
-c) az a) és b) pontban felsorolt alaptevékenység ellátása érdekében külön jogszabályban megjelölt igazgatási, gazdálkodási, munkaügyi és nyilvántartási feladatok ellátása, valamint a működési feltételek biztosítása.
+c) az a) és b) pontban meghatározott alaptevékenység ellátása érdekében jogszabályban megjelölt igazgatási, gazdálkodási, munkaügyi, és nyilvántartási feladatok ellátása, valamint a működési feltételek biztosítása, és
 
-(4) Az igazságügyi szakértői intézmény az alaptevékenysége körébe tartozó kirendelésnek más tevékenységét megelőzően köteles eleget tenni.
+d) jogszabályban megjelölt egyéb feladatok ellátása.
+
+(4) Az igazságügyi szakértői intézmény az alaptevékenysége körébe tartozó kirendelésnek – jogszabályban előírt nyilvántartási feladatain kívül – a más tevékenységét megelőzően köteles eleget tenni.
 
 (5) Az igazságügyi szakértői intézmény a (3) bekezdésben foglaltakon túlmenően csak olyan kirendelést, illetve szakvélemény készítésére irányuló megbízást fogadhat el, amely alaptevékenységéből fakadó kötelezettségeinek teljesítését nem veszélyezteti.
 

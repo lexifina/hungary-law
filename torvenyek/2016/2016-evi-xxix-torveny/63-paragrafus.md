@@ -18,4 +18,4 @@ e) a kamarai tagság 69. § (1) bekezdésében meghatározott okból történő 
 
 (4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Kamara a kérelem beérkezésétől számított tizenöt napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
-(5) A Kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását.
+(5) A Kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül a közigazgatási hatósági ügynek.

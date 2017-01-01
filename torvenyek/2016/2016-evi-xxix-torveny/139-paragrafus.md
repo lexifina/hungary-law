@@ -18,7 +18,9 @@ d) a névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó
 
 e) az igazságügyi névjegyzéket vezető hatóság kijelölését és
 
-f) az igazságügyi szakértők részére szükséges jogi ismeretek oktatására kijelölt vizsgaszervező szervet
+f) az igazságügyi szakértők részére szükséges jogi ismeretek oktatására kijelölt vizsgaszervező szervet,
+
+g) az igazságügyi szakértői intézmény irányításával kapcsolatos, a középirányító szervre átruházható hatásköröket, a középirányító kijelölését, a 30. § (2) bekezdés b) pontja szerinti hatáskör-átruházás szabályait, valamint az igazságügyi szakértői intézmény igazságügyi szakértői tevékenységnek nem minősülő egyes feladatait
 
 rendeletben határozza meg.
 
