@@ -1,4 +1,4 @@
-2. melléklet a 120/2012. (XI. 23.) VM rendelethez[^32]
+2. melléklet a 120/2012. (XI. 23.) VM rendelethez[^47]
 
 A hitelhez kapcsolódó kamattámogatásból származó támogatástartalom képlete
 
@@ -26,4 +26,4 @@ n – évek száma,
 
 r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-[^32]: A 2. melléklet a 47/2015. (VIII. 12.) FM rendelet 15. § (13) bekezdése szerint módosított szöveg.
+[^47]: A 2. melléklet a 47/2015. (VIII. 12.) FM rendelet 15. § (13) bekezdése szerint módosított szöveg.

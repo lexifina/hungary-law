@@ -12,7 +12,7 @@ c)[^3] az Európai Unió működéséről szóló szerződés 107. és 108. cikk
 
 3. hitelkérelemhez kapcsolódó kamattámogatási kérelem: e rendelet hatályba lépését követően benyújtott új hitelkérelemhez vagy hitelszerződést módosító kérelemhez kapcsolódó kamattámogatási kérelem, amely a hitel teljes futamidejére vonatkozik;
 
-4.[^4] költségátalány: a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6%-a;
+4.[^4] költségátalány: a Magyar Államkincstárhoz (a továbbiakban: Kincstár) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6%-a;
 
 5. kezességvállaló intézmény: Agrár- Vállalkozási Hitelgarancia Alapítvány;
 
@@ -24,16 +24,17 @@ c)[^3] az Európai Unió működéséről szóló szerződés 107. és 108. cikk
 
 9. támogatástartalom: a vállalkozás számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-10. támogatástartalomról szóló igazolás: a kamattámogatás támogatástartalmáról szóló, az MVH által kiállított igazolás, amely a hitelcél szerint megállapított támogatás „de minimis” jellegét is megjelöli;
+10.[^7] támogatástartalomról szóló igazolás: a kamattámogatás támogatástartalmáról szóló, a Kincstár által kiállított igazolás, amely a hitelcél szerint megállapított támogatás „de minimis” jellegét is megjelöli;
 
 11. vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő egyéni vállalkozás, gazdasági társaság, szövetkezet, európai részvénytársaság, mezőgazdasági őstermelő;
 
-12.[^7] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely legfeljebb a kiegészítő kamattámogatási kérelem beadásának naptári negyédévét megelőző második negyedév első napjától a hitel hátralévő futamidejére vonatkozik;
+12.[^8] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely legfeljebb a kiegészítő kamattámogatási kérelem beadásának naptári negyédévét megelőző második negyedév első napjától a hitel hátralévő futamidejére vonatkozik;
 
 [^1]: Az 1. § 1. pont a) alpontja a 36/2014. (IV. 4.) VM rendelet 76. §-ával megállapított szöveg.
 [^2]: Az 1. § 1. pont b) alpontja a 36/2014. (IV. 4.) VM rendelet 76. §-ával megállapított szöveg.
 [^3]: Az 1. § 1. pont c) alpontja a 18/2014. (X. 29.) FM rendelet 32. §-ával megállapított szöveg.
-[^4]: Az 1. § 4. pontja a 47/2015. (VIII. 12.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 4. pontja a 47/2015. (VIII. 12.) FM rendelet 15. § (1) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 54. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 82. §-a hatályon kívül helyezte.
 [^6]: Az 1. § 7. pontja a 47/2015. (VIII. 12.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § 12. pontját a 47/2015. (VIII. 12.) FM rendelet 15. § (3) bekezdése iktatta be.
+[^7]: Az 1. § 10. pontja a 88/2016. (XII. 29.) FM rendelet 54. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. § 12. pontját a 47/2015. (VIII. 12.) FM rendelet 15. § (3) bekezdése iktatta be.
