@@ -8,11 +8,7 @@
 
 | 3. | E.ON Energiaszolgáltató Kft. | 0,986 |
 
-| 4. | ELMŰ Nyrt. | 0,986 |
-
-| 5. | ÉMÁSZ Nyrt. | 0,986 |
-
-| 6. | ELMŰ-ÉMÁSZ Energiaszolgáltató Zrt. | 0,986 |
+| 4. | ELMŰ-ÉMÁSZ Energiaszolgáltató Zrt. | 0,986 |
 
 4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^20]
 

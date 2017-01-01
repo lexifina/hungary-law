@@ -1,33 +1,49 @@
-## A minden egyetemes szolgáltató által alkalmazandó árszabások legmagasabb egyetemes szolgáltatási árai elosztói területenként (Ft/kWh)
+## Az egyetemes szolgáltatók által alkalmazandó árszabások legmagasabb egyetemes szolgáltatási árai (Ft/kWh)
 
 |  | A | B | C | D | E |
 
-| 1 | Árszabások | EDF DÉMÁSZ Hálózati Elosztó Kft. elosztói működési területén | E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., E.ON Tiszántúli Áramhálózati Zrt. elosztói működési területén | ELMŰ Hálózati Kft. elosztói működési területén | ÉMÁSZ Hálózati Kft. elosztói működési területén |
+| 1. | Árszabások | EDF DÉMÁSZ Hálózati Elosztó Kft. elosztói működési területén | E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., E.ON Tiszántúli Áramhálózati Zrt. elosztói működési területén | ELMŰ Hálózati Kft. elosztói működési területén | ÉMÁSZ Hálózati Kft. elosztói működési területén |
 
-| 2 | A1 |  |  |  |  |
+| 2. | A1 |  |  |  |  |
 
-| 3 | - lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 15,20 | 14,34 | 15,06 | 14,89 |
+| 3. | – lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 14,70 | 13,84 | 14,56 | 14,39 |
 
-| 4 | - lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 16,08 | 16,26 | 16,10 | 15,92 |
+| 4. | – lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 15,58 | 15,76 | 15,60 | 15,42 |
 
-| 5 | - nem lakossági felhasználók esetében | 21,77 | 22,02 | 21,80 | 21,56 |
+| 5. | – nem lakossági felhasználók esetében | 21,31 | 21,56 | 21,34 | 21,10 |
 
-| 6 | A2 |  |  |  |  |
+| 6. | A2 |  |  |  |  |
 
-| 7 8 | - lakossági felhasználók esetében - csúcsidőszak | 18,90 | 20,73 | 19,98 | 18,44 |
+| 7. | – lakossági felhasználók esetében |  |  |  |  |
 
-| 9 10 11 12 | - völgyidőszak - nem lakossági felhasználók esetében - csúcsidőszak - völgyidőszak | 11,00 25,48 15,01 | 12,35 27,92 16,80 | 11,88 26,91 16,18 | 10,95 24,88 14,94 |
+| 8. | – csúcsidőszak | 18,40 | 20,23 | 19,48 | 17,94 |
 
-| 13 | A3 |  |  |  |  |
+| 9. | – völgyidőszak | 10,50 | 11,85 | 11,38 | 10,45 |
 
-| 14 | - csúcsidőszak | 25,69 | 30,26 | 26,86 | 24,83 |
+| 10. | – nem lakossági felhasználók esetében |  |  |  |  |
 
-| 15 | - völgyidőszak | 15,13 | 19,02 | 16,13 | 14,89 |
+| 11. | – csúcsidőszak | 25,02 | 27,46 | 26,45 | 24,42 |
 
-| 16 17 18 | B Alap - lakossági felhasználók esetében - nem lakossági felhasználók esetében | 11,13 12,69 | 11,54 13,08 | 11,25 12,74 | 10,88 12,30 |
+| 12. | – völgyidőszak | 14,55 | 16,34 | 15,72 | 14,48 |
 
-| 19 20 21 | H - lakossági felhasználók esetében - nem lakossági felhasználók esetében | 11,13 12,69 | 11,54 13,08 | 11,25 12,74 | 10,88 12,30 |
+| 13. | A3 |  |  |  |  |
+
+| 14. | – csúcsidőszak | 25,69 | 30,26 | 26,86 | 24,83 |
+
+| 15. | – völgyidőszak | 15,13 | 19,02 | 16,13 | 14,89 |
+
+| 16. | B Alap |  |  |  |  |
+
+| 17. | – lakossági felhasználók esetében | 10,83 | 11,24 | 10,95 | 10,58 |
+
+| 18. | – nem lakossági felhasználók esetében | 12,44 | 12,83 | 12,49 | 12,05 |
+
+| 19. | H |  |  |  |  |
+
+| 20. | – lakossági felhasználók esetében | 10,83 | 11,24 | 10,95 | 10,58 |
+
+| 21. | – nem lakossági felhasználók esetében | 12,44 | 12,83 | 12,49 | 12,05 |
 
 3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^19]
 
-[^19]: A 3. melléklet a 69/2015. (XI. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. melléklet a 68/2016. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
