@@ -176,9 +176,9 @@ tartalmazhat.
 
 | 15. |  |  |
 
-| 16. | 4-benzylpiperidine | 4-(phenylmethyl)piperidine |
+| 16. |  |  |
 
-| 17. | 3,4-dichloromethylphenidate/ 3,4-CTMP | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
+| 17. |  |  |
 
 | 18. |  |  |
 
@@ -188,19 +188,19 @@ tartalmazhat.
 
 | 21. |  |  |
 
-| 22. | A-836,339 | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]- 2,2,3,3-tetramethylcyclopropane-carboxamide |
+| 22. |  |  |
 
 | 23. |  |  |
 
-| 24. |  | N-(2-methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3- yl)-4-thiazol-methanamine |
+| 24. |  |  |
 
-| 25. |  | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
+| 25. |  |  |
 
 | 26. |  |  |
 
-| 27. | MXP, methoxyphenidine, 2- MeO-diphenidine | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
+| 27. |  |  |
 
-| 28. | 3F-phenmetrazine, meta-fluoro- phenmetrazine, meta-F-phenmetrazine | 2-(3-fluorophenyl)-3-methylmorpholine |
+| 28. |  |  |
 
 | 29. |  |  |
 
@@ -208,21 +208,21 @@ tartalmazhat.
 
 | 31. |  |  |
 
-| 32. | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
+| 32. |  |  |
 
-| 33. | Diclazepam, 2-Chlorodiazepam, Ro 5-3448 | 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-1,4- benzodiazepin-2-one |
+| 33. |  |  |
 
-| 34. | Diphenidine, 1,2-diphenylethylpiperidine; DPD; 1,2-DEP; DIPH | 1-(1,2-Diphenylethyl)piperidine |
+| 34. |  |  |
 
 | 35. |  |  |
 
 | 36. | MEOP; Methoxypiperamide; metoxipiperamid; MEXP; 1(4methoxybenzoyl)-4-methylpiperazine | (4-Methoxyphenyl)(4-methylpiperazin-1-yl)methanone |
 
-| 37. | TTA; MTA; Mephtetramine | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
+| 37. |  |  |
 
-| 38. | Nitracaine | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
+| 38. |  |  |
 
-| 39. | MT-45 | 1-cyclohexyl-4-(1,2-diphenylethyl)-piperazine |
+| 39. |  |  |
 
 | 40. |  |  |
 
@@ -234,7 +234,7 @@ tartalmazhat.
 
 | 44. |  |  |
 
-| 45. | EG-018 | (naphthalen-1-yl)(9-pentyl-9H-carbazol-3-yl)-methanone |
+| 45. |  |  |
 
 | 46. | bk-2-C-B | 2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone |
 
@@ -260,13 +260,13 @@ tartalmazhat.
 
 | 57. | flubromazolam | 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo [4,3-a][1,4]benzodiazepine |
 
-| 58. | CUMYL-5F-P7AICA; CUMYL-5F-PAICA; SGT-263 | 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo [2,3-b]pyridine-3-carboxamide |
+| 58. | CUMYL-5F-P7AICA; CUMYL-5F- PAICA; SGT-263 | 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo [2,3-b]pyridine-3-carboxamide |
 
 | 59. | (Iso)butyryl-F-fentanyl N-benzyl analogue | 2-Methyl-N-(1-benzylpiperidin-4-yl)-N- (4-fluorophenyl)propanamide |
 
-| 60. | 2-fluorofentanyl, ortho-fluorofentanyl, 1-phenethyl-4-(N- propionyl-2-fluoroanilino)piperidine, 2-FF, o-FF | N-(2-fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]-propanamide |
+| 60. | 2-fluorofentanyl, ortho-fluorofentanyl, 1-phenethyl-4-(N-propionyl-2- fluoroanilino)piperidine, 2-FF, o-FF | N-(2-fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]-propanamide |
 
-| 61. | 3-fluorofentanyl, 1-phenethyl-4-(N- propionyl-3-fluoroanilino)piperidine, meta-fluorofentanyl, m-fluorofentanyl, 3-FF, m-FF | N-(3-fluorophenyl)-N-[1-(2-phenylethyl)- 4-piperidyl]propanamide |
+| 61. | 3-fluorofentanyl, 1-phenethyl-4- (N-propionyl-3-fluoroanilino)piperidine, meta- fluorofentanyl, m-fluorofentanyl, 3-FF, m-FF | N-(3-fluorophenyl)-N-[1-(2-phenylethyl)- 4-piperidyl]propanamide |
 
 | 62. | 4-fluoro-butyrfentanyl, 4F-BF | N-(4-fluorophenyl)-N-[(1-(2-phenylethyl)- 4-piperidinyl)]butanamide |
 
@@ -292,4 +292,4 @@ tartalmazhat.
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
-[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a szerint módosított szöveg.
