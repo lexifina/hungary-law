@@ -26,7 +26,7 @@ d) előrecsomagolt termék negatív eltérése: az a mennyiség, amennyivel az e
 
 e) EK-jelölés: egy, az 1. melléklet szerinti legalább 3 mm magasságú kis „e” betű a névleges tömeggel vagy a névleges térfogattal azonos látómezőben elhelyezve, amely a csomagoló vagy az importőr garanciájának tekintendő arra vonatkozóan, hogy az előrecsomagolt termék megfelel az e rendeletben foglalt követelményeknek;
 
-f)[^2] ellenőrző hatóság: a fogyasztóvédelmi hatóság és a Mezőgazdasági Szakigazgatási Hivatal.
+f)[^2] ellenőrző hatóság: a fogyasztóvédelmi hatóság és a Nemzeti Élelmiszerlánc-biztonsági Hivatal.
 
 [^1]: A 2. § a) pont aa) alpontja a 2/2009. (I. 23.) NFGM–FVM együttes rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § f) pontja a 27/2010. (XII. 31.) NGM rendelet 62. § szerint módosított szöveg.
+[^2]: A 2. § f) pontja a 27/2010. (XII. 31.) NGM rendelet 62. §-a, a 62/2016. (XII. 29.) NGM rendelet 20. §-a szerint módosított szöveg.
