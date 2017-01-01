@@ -12,6 +12,8 @@
 
 (6) A gyakorlati képzéshez kapcsolódó, a felsőoktatási intézmény által meghatározott szakmai feltételeket az iskolaszövetkezet és a szolgáltatás fogadója együttesen biztosítja.
 
+(6a) Az iskolaszövetkezet útján megszervezett gyakorlati képzés esetén a szakmai gyakorlatot az (1) bekezdés szerinti hallgató – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdésétől eltérően – a 10/B. § (2) bekezdése szerinti külső szolgáltatásra vonatkozó tagsági megállapodás alapján is elláthatja.
+
 (7) Az iskolaszövetkezet útján megszervezett gyakorlati képzés esetén a szakmai gyakorlatot – a szolgáltatás fogadójának nyilatkozata alapján – az iskolaszövetkezet igazolhatja, feltéve, hogy a gyakorlati képzés az iskolaszövetkezet hallgató tagjának felsőoktatási képzésben megszerzett elméleti ismereteinek felhasználását igényli, továbbá a szolgáltatás fogadója megfelel a szakmai gyakorlóhellyel, a gyakorlati képzés tartalma pedig a szakmai gyakorlattal szemben jogszabály által támasztott követelményeknek.
 
 (8) Az iskolaszövetkezet a szolgáltatás fogadójával kötött megállapodást köteles az Oktatási Hivatalnak annak megkötésétől számított öt munkanapon belül megküldeni. Az Oktatási Hivatal a szakmai gyakorlattal kapcsolatos követelmények teljesülését a szolgáltatás fogadójánál is ellenőrizheti.

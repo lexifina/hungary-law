@@ -1,3 +1,1 @@
-17. § (1) A foglalkoztatási szövetkezet olyan szociális szövetkezet, amelynek legalább ötszáz természetes személy és legalább egy országos nemzetiségi önkormányzat a tagja.
-
-(2) A foglalkoztatási szövetkezet a hátrányos helyzetben lévő tagjai számára a munkafeltételek megteremtését elsősorban munkaerő-kölcsönzés, valamint munkaközvetítő tevékenység útján valósítja meg, amelyre a munkaerő-kölcsönzésre, a közhasznú kölcsönzőre vonatkozó, valamint a magán-munkaközvetítői tevékenység folytatásának feltételeit szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját tagjai tekintetében munkaerő-kölcsönzési tevékenységet láthat el.
+17. §
