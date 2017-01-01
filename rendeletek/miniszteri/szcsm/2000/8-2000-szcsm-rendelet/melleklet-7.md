@@ -4,7 +4,7 @@
 
 | Igazolás a személyes gondoskodást végző munkavállalók nyilvántartásba vételéről |
 
-| A személyes gondoskodást végző személyek működési nyilvántartását vezető Nemzeti Rehabilitációs és Szociális Hivatal nevében igazolom, hogy az alább felsorolt munkavállalóikat, a feltüntetett nyilvántartási számokon felvettük a személyes gondoskodást végző személyek működési nyilvántartásába. |
+|  | A személyes gondoskodást végző személyek működési nyilvántartását vezető Szociális és Gyermekvédelmi Főigazgatóság nevében igazolom, hogy az alább felsorolt munkavállalóikat, a feltüntetett nyilvántartási számokon felvettük a személyes gondoskodást végző személyek működési nyilvántartásába. |
 
 | Név | Születési idő | Nyilvántartási szám |
 
