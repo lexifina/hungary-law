@@ -18,7 +18,7 @@
 
 | A daganat morfológiai kódja a BNO-10 Daganatok Morfológiája fejezete szerint |
 
-5. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^17]
+5. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^21]
 
 Jelentés a 0-18 év közötti leukémiás és daganatos betegekről
 
@@ -112,4 +112,4 @@ aláírás, p.h.
 
 Beküldendő a Magyar Gyermekonkológiai Hálózat részére
 
-[^17]: Az 5. mellékletet a 11/2014. (II. 24.) EMMI rendelet 12. § (3) bekezdése iktatta be.
+[^21]: Az 5. mellékletet a 11/2014. (II. 24.) EMMI rendelet 12. § (3) bekezdése iktatta be.

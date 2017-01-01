@@ -8,6 +8,6 @@
 
 | A beteg halála esetén: A halál ideje A halál közvetlen oka A halálhoz vezető alapbetegség BNO-10 szerinti klinikai diagnózisának kódja |
 
-2. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^14]
+2. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^18]
 
-[^14]: A 2. melléklet a 11/2014. (II. 24.) EMMI rendelet 12. § (1) bekezdés b) pontjával megállapított szöveg.
+[^18]: A 2. melléklet a 11/2014. (II. 24.) EMMI rendelet 12. § (1) bekezdés b) pontjával megállapított szöveg.
