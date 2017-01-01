@@ -2,11 +2,11 @@
 
 | Sorszám | Szabályozott szakma megnevezése | Előzetes ellenőrzést végző elsőfokú hatóság | Előzetes ellenőrzést végző másodfokú hatóság |
 
-| 1. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | népegészégügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 1. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | Állami Egészségügyi Ellátó Központ | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
 | 2. | Tűzvédelmi szakértő | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 3. | Gázszerelő | mérésügyi és műszaki biztonsági hatáskörében eljáró fővárosi és megyei kormányhivatal | Magyar Kereskedelmi és Engedélyezési Hivatal központi szerve |
+| 3. | Gázszerelő | mérésügyi és műszaki biztonsági hatáskörében eljáró fővárosi és megyei kormányhivatal |  |
 
 | 4. | Növényvédelmi tevékenység | Magyar Növényvédő Mérnöki és Növényorvosi Kamara területileg illetékes szerve | Magyar Növényvédő Mérnöki és Növényorvosi Kamara |
 
@@ -28,8 +28,8 @@
 
 | 13. | Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői tevékenység | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 13. | Ebek viselkedésének megítélésében jártas szakértő | Nemzeti Élelmiszerlánc-biztonsági Hivatal | élelmiszerlánc-felügyeletért felelős miniszter |
+| 13. | Ebek viselkedésének megítélésében jártas szakértő | Pest Megyei Kormányhivatal |  |
 
-3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^42]
+3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^44]
 
-[^42]: A 3. számú mellékletet újonnan a 198/2015. (VII. 23.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
+[^44]: A 3. számú mellékletet újonnan a 198/2015. (VII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (10) bekezdés a) pontjával megállapított szöveg.

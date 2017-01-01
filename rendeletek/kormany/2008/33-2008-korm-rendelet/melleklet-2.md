@@ -14,7 +14,7 @@
 
 | 6. | Energetikai tanúsítói tevékenység | 2. § (5) bekezdése szerint |
 
-| 7. | Környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 7. | Környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység | környezetvédelemért és a természetvédelemért felelős miniszter |
 
 | 8. | Jövedéki ügyintézői tevékenység | Nemzeti Adó- és Vámhivatal |
 
@@ -22,9 +22,9 @@
 
 | 10. | Vámügyintéző | Nemzeti Adó- és Vámhivatal |
 
-| 11. | Idegenvezetői tevékenység | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 11. | Idegenvezetői tevékenység | Budapest Főváros Kormányhivatala |
 
-| 12. | Lovastúra-vezető tevékenység | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 12. | Lovastúra-vezető tevékenység | Budapest Főváros Kormányhivatala |
 
 | 13. | Tűzvédelmi tevékenység | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -48,7 +48,7 @@
 
 | 23. | Fegyveres biztonsági őr | Országos Rendőr-főkapitányság |
 
-| 24. | Az állattenyésztéshez kapcsolódó mesterséges termékenyítési szolgáltatások | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 24. | Az állattenyésztéshez kapcsolódó mesterséges termékenyítési szolgáltatások | Pest Megyei Kormányhivatal |
 
 | 25. | Magán-állatorvosi tevékenység | Magyar Állatorvosi Kamara |
 
@@ -70,12 +70,12 @@
 
 | 34. | Ingatlanvagyon-értékelő és közvetítő | az ingatlan fekvése szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
-| 35. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások nyújtására irányuló tevékenység az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák esetén | Egészségügyi Nyilvántartási és Képzési Központ |
+| 35. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások nyújtására irányuló tevékenység az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák esetén | Állami Egészségügyi Ellátó Központ |
 
 | 36. | A régészeti örökség és a műemléki érték védelmével kapcsolatos területeken végzett szakértői tevékenység | a kulturális örökség védelméért felelős miniszter |
 
 | 37. | Energetikai auditor | Magyar Energetikai és Közmű-szabályozási Hivatal |
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^41]
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^43]
 
-[^41]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja, a 70/2015. (III. 30.) Korm. rendelet 118. §-a, a 345/2015. (XI. 19.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.
+[^43]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja, a 70/2015. (III. 30.) Korm. rendelet 118. §-a, a 345/2015. (XI. 19.) Korm. rendelet 5. § 5. pontja, a 379/2016. (XII. 2.) Korm. rendelet 112. § (9) bekezdés d) és f) pontja valamint (11) bekezdés b)–c) pontja szerint módosított szöveg.
