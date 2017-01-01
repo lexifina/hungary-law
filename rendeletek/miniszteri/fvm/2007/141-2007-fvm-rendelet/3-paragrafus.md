@@ -20,7 +20,7 @@ d) nyilatkozik a 4. §-ban foglalt kötelezettségek vállalásáról;
 
 e) teljesíti az 1973/2004/EK rendelet 37–38. cikkében foglaltakat.
 
-(3) Az MVH az elsődleges feldolgozó ügyfél elismerését telephelyenként és energiatermékenként folytatja le. Az elsődleges feldolgozókra vonatkozó nyilvántartás tartalmazza különösen:
+(3)[^3] A Kincstár az elsődleges feldolgozó ügyfél elismerését telephelyenként és energiatermékenként folytatja le. Az elsődleges feldolgozókra vonatkozó nyilvántartás tartalmazza különösen:
 
 a) az előállított energiatermék, köztes termék típusát, feldolgozható energianövények körét;
 
@@ -47,3 +47,5 @@ e) teljesíti az 1973/2004/EK rendelet 37–38. cikkében foglaltakat.
 (5) Felvásárlóként való elismerésre vonatkozó kérelem beadható abban az esetben is, ha a (4) bekezdés ca) pontja szerinti elsődleges feldolgozó elismerése még folyamatban van.
 
 (6) Az 5. § szerinti kérelmet nem kell benyújtania az ügyfélnek, ha a földművelésügyi és vidékfejlesztési miniszter „az 1973/2004/EK rendelet 37. cikke alapján energianövény feldolgozó, felvásárlóként történő elismerésre” vonatkozó pályázati felhívása alapján 2007. évben piaci szereplőként történő elismerése már megtörtént.
+
+[^3]: A 3. § (3) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 25. § c) pontja szerint módosított szöveg.

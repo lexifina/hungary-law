@@ -14,9 +14,9 @@ e) felvásárló: az 1973/2004/EK rendelet 23. cikk e) pontja szerinti felvásá
 
 f) elsődleges feldolgozó: az 1973/2004/EK rendelet 23. cikk d) pontja szerinti felvásárló;
 
-g) együttműködő szervezet: a Tv. 18. §-ában foglaltak figyelembevételével, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által megbízott olyan szervezet, amely a rendeletben foglalt feltételek műszaki-technikai jellegű ellenőrzése során közreműködik;
+g)[^1] együttműködő szervezet: a Tv. 18. §-ában foglaltak figyelembevételével, a Magyar Államkincstár (a továbbiakban: Kincstár) által megbízott olyan szervezet, amely a rendeletben foglalt feltételek műszaki-technikai jellegű ellenőrzése során közreműködik;
 
-h) elismerési nyilvántartás: a piaci szereplőkről az MVH által folyamatosan vezetett nyilvántartás;
+h)[^2] elismerési nyilvántartás: a piaci szereplőkről a Kincstár által folyamatosan vezetett nyilvántartás;
 
 i) közzétett adat: a Tv. 24. § (2) bekezdésében közérdekből nyilvánosnak minősülő adat, továbbá, ha az ügyfél nyilatkozatában hozzájárul az elérhetősége, valamint a feldolgozható/felvásárolni tervezett energianövény típusa közzétételéhez;
 
@@ -29,3 +29,6 @@ l) technikai együttható: a gyártási folyamathoz tartozó olyan átváltási 
 m) elismert veszteség: az alapanyag tárolása, tisztítása, szárítása során keletkező szokásos mennyiségcsökkenés;
 
 n) köztes termék: napraforgóból, őszi káposztarepcéből előállított növényi olaj, valamint szójaliszt, lucerna pellet és brikett.
+
+[^1]: A 2. § g) pontja a 88/2016. (XII. 29.) FM rendelet 25. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § h) pontja a 88/2016. (XII. 29.) FM rendelet 25. § b) pontja szerint módosított szöveg.

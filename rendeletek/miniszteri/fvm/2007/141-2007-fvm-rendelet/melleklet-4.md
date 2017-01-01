@@ -4,6 +4,6 @@
 
 ## * A 01–13. típusba nem tartozó 14. típus megjelölése esetén az ügyfélnek meg kell határoznia az energianövényt.
 
-4. számú melléklet a 141/2007. (XI. 28.) FVM rendelethez[^10]
+4. számú melléklet a 141/2007. (XI. 28.) FVM rendelethez[^22]
 
-[^10]: A 4. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 28. § a) pontja hatályon kívül helyezte.
+[^22]: A 4. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 28. § a) pontja hatályon kívül helyezte.
