@@ -1,0 +1,3 @@
+8. § A KFItv. 40. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 39. § (2) bekezdése szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül az SZTNH-nál kell benyújtani vagy részére a feladás utólagos igazolását lehetővé tevő postai szolgáltatás igénybevételével megküldeni. Az SZTNH a kérelmet az ügy irataival együtt tizenöt napon belül továbbítja a Fővárosi Törvényszékhez kivéve, ha a megtámadott döntést a kérelemben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja vagy visszavonja, valamint, ha a kérelmet a Fővárosi Törvényszékhez való továbbítást megelőzően a kérelmező visszavonta.”
