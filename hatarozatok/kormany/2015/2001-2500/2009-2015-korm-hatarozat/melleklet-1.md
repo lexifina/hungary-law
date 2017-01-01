@@ -74,13 +74,13 @@
 
 1.30. Nemzeti Védelmi Szolgálat,
 
-1.31. Szervezett Bűnözés Elleni Koordinációs Központ,
+1.31.[^2] Terrorelhárítási Információs és Bűnügyi Elemző Központ,
 
 1.32. BM Országos Katasztrófavédelmi Főigazgatóság, megyei katasztrófavédelmi igazgatóságok, Fővárosi Katasztrófavédelmi Igazgatóság,
 
-1.33. Bevándorlási és Állampolgársági Hivatal,
+1.33.[^3] Bevándorlási és Menekültügyi Hivatal,
 
-1.34. Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala,
+1.34.[^4]
 
 1.35. polgármesteri hivatalok, megyei önkormányzati hivatalok,
 
@@ -88,7 +88,7 @@
 
 1.37. fővárosi és megyei védelmi bizottságok,
 
-1.38. Igazságügyi Hivatal,
+1.38.[^5]
 
 1.39. igazságügyi szakértői intézetek,
 
@@ -96,21 +96,21 @@
 
 1.41. Kormányzati Ellenőrzési Hivatal,
 
-1.42. Országos Környezetvédelmi, és Természetvédelmi Főfelügyelőség,
+1.42.[^6]
 
 1.43. Nemzeti Média- és Hírközlési Hatóság,
 
-1.44. Nemzeti Közlekedési Hatóság,
+1.44.[^7]
 
-1.45. Nemzeti Fogyasztóvédelmi Hatóság,
+1.45.[^8]
 
 1.46. a hazai és közösségi forrásokból származó támogatások elosztásában közreműködő szervezetek,
 
 1.47. Magyar Energetikai és Közműszabályozási Hivatal,
 
-1.48. Magyar Kereskedelmi Engedélyezési Hivatal,
+1.48.[^9]
 
-1.49. Mezőgazdasági és Vidékfejlesztési Hivatal,
+1.49.[^10]
 
 1.50. Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
@@ -118,7 +118,7 @@
 
 1.52. Állami Egészségügyi Ellátó Központ,
 
-1.53. Egészségügyi Nyilvántartási és Képzési Központ,
+1.53.[^11]
 
 1.54. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet:
 
@@ -126,7 +126,7 @@
 
 1.56. Országos Mentőszolgálat,
 
-1.57. Országos Egészségbiztosítási Pénztár,
+1.57.[^12] Nemzeti Egészségbiztosítási Alapkezelő,
 
 1.58. Országos Nyugdíjbiztosítási Főigazgatóság,
 
@@ -142,7 +142,7 @@
 
 1.64. Nemzeti Földalapkezelő Szervezet,
 
-1.65. Földmérési és Távérzékelési Intézet,
+1.65.[^13]
 
 1.66. Európai Támogatásokat Auditáló Főigazgatóság,
 
@@ -273,3 +273,15 @@
 2.60. ÉMI Építésügyi Minőségellenőrzési Innovációs Nonprofit Kft.
 
 [^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
+[^2]: Az 1. melléklet 1. pont 1.31. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont a) alpontjával megállapított szöveg.
+[^3]: Az 1. melléklet 1. pont 1.33. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont b) alpontjával megállapított szöveg.
+[^4]: Az 1. melléklet 1. pont 1.34. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont a) alpontja hatályon kívül helyezte.
+[^5]: Az 1. melléklet 1. pont 1.38. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont b) alpontja hatályon kívül helyezte.
+[^6]: Az 1. melléklet 1. pont 1.42. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont c) alpontja hatályon kívül helyezte.
+[^7]: Az 1. melléklet 1. pont 1.44. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont d) alpontja hatályon kívül helyezte.
+[^8]: Az 1. melléklet 1. pont 1.45. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont e) alpontja hatályon kívül helyezte.
+[^9]: Az 1. melléklet 1. pont 1.48. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont f) alpontja hatályon kívül helyezte.
+[^10]: Az 1. melléklet 1. pont 1.49. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont g) alpontja hatályon kívül helyezte.
+[^11]: Az 1. melléklet 1. pont 1.53. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont h) alpontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet 1.57. pontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont d) alpontjával megállapított szöveg.
+[^13]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
