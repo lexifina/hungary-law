@@ -1,4 +1,4 @@
-## 13. §[^1]
+## 13. §[^16]
 
 1. melléklet az 1/2016. (I. 13.) EMMI rendelethez
 
@@ -38,4 +38,4 @@ A tartalék normaelemei
 
 * Önálló normaelemet nem alkotnak.
 
-[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
