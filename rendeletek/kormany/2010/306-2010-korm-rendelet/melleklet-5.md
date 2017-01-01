@@ -26,11 +26,11 @@
 
 12. annak bemutatása, hogy az alkalmazott technológia, termelési eljárás megfelel az elérhető legjobb technikának,
 
-13.[^85] a hatásterület lehatárolása, előzetes vizsgálati eljárás, környezeti hatásvizsgálati eljárás, EKHE-eljárás, környezetvédelmi felülvizsgálati eljárás, hulladékégetés esetén az érvényes szabvány szerinti vagy azzal egyenértékű számítással, egyéb esetben egyszerűsített számítással,
+13.[^91] a hatásterület lehatárolása, előzetes vizsgálati eljárás, környezeti hatásvizsgálati eljárás, EKHE-eljárás, környezetvédelmi felülvizsgálati eljárás, hulladékégetés esetén az érvényes szabvány szerinti vagy azzal egyenértékű számítással, egyéb esetben egyszerűsített számítással,
 
 14. az 1–12. pontokban részletezettek közérthető összefoglalása.
 
-15.[^86] a dokumentációt elkészítő szakértő engedélyének a száma.
+15.[^92] a dokumentációt elkészítő szakértő engedélyének a száma.
 
-[^85]: Az 5. melléklet 13. pontja a 292/2015. (X. 8.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^86]: Az 5. melléklet 15. pontját a 292/2015. (X. 8.) Korm. rendelet 29. §-a iktatta be.
+[^91]: Az 5. melléklet 13. pontja a 292/2015. (X. 8.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^92]: Az 5. melléklet 15. pontját a 292/2015. (X. 8.) Korm. rendelet 29. §-a iktatta be.

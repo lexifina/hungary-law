@@ -1,5 +1,5 @@
 ## 27. Hatályon kívül helyező rendelkezések
 
-45. §[^81]
+45. §[^87]
 
-[^81]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

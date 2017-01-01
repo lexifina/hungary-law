@@ -8,7 +8,7 @@
 
 (3) A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló jogszabály hatálya alá tartozó tevékenységek esetében a költséghatékony és arányos intézkedésnek, a rendelet által meghatározott elérhető legjobb technika alkalmazása minősül.
 
-(4)[^26] A levegőminőségi tervet a környezetvédelmi, népegészségügyi, valamint közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatal az érintett útkezelő, vasút üzembentartó nyilatkozata alapján, valamint a vonalforrás hatásterületével érintett települési önkormányzatok véleményének figyelembevételével, az érintett légszennyezők bevonásával, valamint az érintett nyilvánosság véleményének figyelembevételével készíti el. A levegőminőségi tervek tartalmi követelményeit az 1. melléklet tartalmazza.
+(4)[^26] A levegőminőségi tervet a területi környezetvédelmi hatóság a népegészségügyi és a közlekedési hatósággal együttműködve az érintett útkezelő, vasút üzembentartó nyilatkozata alapján, valamint a vonalforrás hatásterületével érintett települési önkormányzatok véleményének figyelembevételével, az érintett légszennyezők bevonásával, valamint az érintett nyilvánosság véleményének figyelembevételével készíti el. A levegőminőségi tervek tartalmi követelményeit az 1. melléklet tartalmazza.
 
 [^25]: A 14. § (1) bekezdése a 118/2015. (V. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^26]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés c) pontja, a 118/2015. (V. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^26]: A 14. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § c) pontja szerint módosított szöveg.

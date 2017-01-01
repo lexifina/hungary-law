@@ -1,4 +1,4 @@
-1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^82]
+1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^88]
 
 ## A levegőminőségi terv tartalmi követelményei
 
@@ -126,4 +126,4 @@
 
 14.2.3. alacsony kibocsátású tüzelőanyagok mozgó források számára.
 
-[^82]: Az 1. melléklet a 292/2015. (X. 8.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^88]: Az 1. melléklet a 292/2015. (X. 8.) Korm. rendelet 28. §-ával megállapított szöveg.
