@@ -1,4 +1,4 @@
-## 67. [^214] Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
+## 67. [^215] Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
 
 103/R. § (1) Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a beruházásnak az alábbi célkitűzések egyikéhez kapcsolódnia kell:
 
@@ -24,4 +24,4 @@ b) a támogatás odaítéléséről szóló döntés időpontját megelőzően a
 
 (4) A támogatás nyújtása nem korlátozódhat meghatározott mezőgazdasági termékekre irányuló beruházásra azzal, hogy a belső piacon jelentkező túlkínálat miatt vagy felvevőpiac hiányában egyes mezőgazdasági termékek kizárhatók a támogatás alkalmazási köréből.
 
-[^214]: A 67. alcímet (103/R–103/U. §) a 127/2016. (VI. 7.) Korm. rendelet 15. §-a iktatta be.
+[^215]: A 67. alcímet (103/R–103/U. §) a 127/2016. (VI. 7.) Korm. rendelet 15. §-a iktatta be.

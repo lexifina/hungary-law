@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-255-20-
 | 2016-07-01 | 2014-255-20-22.5 | 271/2015. (IX. 18.) Korm. rendelet |
 | 2016-10-14 | 2014-255-20-22.6 | 305/2016. (X. 13.) Korm. rendelet |
 | 2016-12-14 | 2014-255-20-22.7 | 409/2016. (XII. 13.) Korm. rendelet |
+| 2017-01-01 | 2014-255-20-22.8 | 328/2016. (X. 28.) Korm. rendelet |

@@ -14,9 +14,10 @@
 
 (7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(8) A támogatást nyújtó az 1408/2013/EU bizottsági rendelet 5. cikk (1) bekezdésében meghatározott feltételek teljesülését a Mezőgazdasági és Vidékfejlesztési Hivatal által vezetett mezőgazdasági csekély összegű (de minimis) támogatások nyilvántartása alapján ellenőrzi.
+(8)[^175] A támogatást nyújtó az 1408/2013/EU bizottsági rendelet 5. cikk (1) bekezdésében meghatározott feltételek teljesülését a Magyar Államkincstár által vezetett mezőgazdasági csekély összegű (de minimis) támogatások nyilvántartása alapján ellenőrzi.
 
 [^171]: Az 50. alcímet (103/A. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be, szövege a 127/2016. (VI. 7.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^172]: A 103/A. § (1) bekezdése a 305/2016. (X. 13.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
 [^173]: A 103/A. § (4) bekezdése a 305/2016. (X. 13.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.
 [^174]: A 103/A. § (6) bekezdése a 305/2016. (X. 13.) Korm. rendelet 18. § 12. pontja szerint módosított szöveg.
+[^175]: A 103/A. § (8) bekezdése a 328/2016. (X. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.
