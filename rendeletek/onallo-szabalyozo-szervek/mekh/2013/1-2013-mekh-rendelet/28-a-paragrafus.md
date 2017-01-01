@@ -1,3 +1,0 @@
-## 28. §[^136] Az elosztóvezeték átszállítási céllal történő igénybevételének tekintendő, ha a földgáz elosztóvezetéken keresztül történő továbbítása esetén a földgáz nem a 2. § (1) bekezdés a) pont ab) alpont aba)–abd) alpontja szerinti átadási-átvételi ponton lép ki az elosztóvezetékből. Az elosztási átszállítási díjat a 2. § (1) bekezdés a) pont ab) alpont abe) alpontja szerinti átadási-átvételi ponton mért földgázmennyiség alapján számított energiamennyiségre kell megfizetni.
-
-[^136]: A 28. § a 6/2015. (IX. 14.) MEKH rendelet 12. §-ával megállapított, a 13/2015. (XII. 11.) MEKH rendelet 11. § j) pontja, az 5/2016. (VIII. 16.) MEKH rendelet 4. § c) pontja szerint módosított szöveg.
