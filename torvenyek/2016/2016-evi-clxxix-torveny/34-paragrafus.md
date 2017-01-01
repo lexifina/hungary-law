@@ -145,3 +145,5 @@ c) az egyesület céljainak elérése veszélybe került.
 (1) Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz főt meghaladja. Az alapszabály ettől eltérő rendelkezése semmis
 
 (2) A felügyelőbizottság feladata az egyesületi szervek, valamint a jogszabályok, az alapszabály és az egyesületi határozatok végrehajtásának, betartásának ellenőrzése.”
+
+5. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
