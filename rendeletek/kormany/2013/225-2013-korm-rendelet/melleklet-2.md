@@ -4,37 +4,37 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | A Szegedi Tudományos Park kialakítása | a Szegedi Tudományos Parknak a szegedi 01392/2, 01392/3, 01392/4, 01392/6, 01392/15, 01392/16, 01392/17, 01392/18 és 01392/21 helyrajzi számú ingatlanokon történő megvalósításával összefüggő beruházások | általános építésügyi és építésfelügyeleti hatósági eljárások | Szegedi Járási Hivatal | Csongrád Megyei Kormányhivatal |
+| 2. | a Szegedi Tudományos Park kialakítása | a Szegedi Tudományos Parknak a szegedi 01392/2, 01392/3, 01392/4, 01392/6, 01392/15, 01392/16, 01392/17, 01392/18 és 01392/21 helyrajzi számú ingatlanokon történő megvalósításával összefüggő beruházások | általános építésügyi és építésfelügyeleti hatósági eljárások | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Szegedi Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Csongrád Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | útügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | útügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
-| 6. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 6. | vasúti hatósági engedélyek | közlekedésért felelős miniszter | nincs |
 
-| 7. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Csongrád Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 8. | vízjogi hatósági eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 9. | földvédelmi, földmérési, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | Szegedi Járási Hivatal | Csongrád Megyei Kormányhivatal |
+| 9. | földvédelmi, földmérési, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
 | 10. | területrendezési hatósági eljárások | Csongrád Megyei Kormányhivatal | nincs |
 
-| 11. | erdészeti hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 11. | erdészeti hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Pest Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | bányahatósági engedélyek | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyek | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | talajvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 14. | talajvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
 | 15. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 17. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 225/2013. (VI. 24.) Korm. rendelethez[^11]
 
@@ -42,37 +42,37 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Szegedi Járási Hivatal | Csongrád Megyei Kormányhivatal |
+| 2. | építésügy | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
-| 3. | műemlékvédelem, régészet | Szegedi Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | műemlékvédelem, régészet | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
 | 4. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | közlekedés: közút | Csongrád Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | közlekedés: közút | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
-| 6. | közlekedés: vasút | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 6. | közlekedés: vasút | közlekedésért felelős miniszter | nincs |
 
-| 7. | közlekedés: légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
+| 7. | közlekedés: légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 8. | egészségügy | Szegedi Járási Hivatal | Csongrád Megyei Kormányhivatal |
+| 8. | egészségügy | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
-| 9. | élelmiszer-egészségügy | Csongrád Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 9. | élelmiszer-egészségügy | illetékes járási hivatal | Csongrád Megyei Kormányhivatal |
 
-| 10. | termőföldvédelem | Szegedi Járási Hivatal | Csongrád Megyei Kormányhivatal |
+| 10. | termőföldvédelem | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
-| 11. | talajvédelem | Csongrád Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 11. | talajvédelem | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
-| 12. | erdővédelem | Bács-Kiskun Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 12. | erdővédelem | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Pest Megyei Kormányhivatal |
 
 | 13. | területrendezés | Csongrád Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-| 14. | műszaki biztonság | Csongrád Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 14. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 15. | környezetvédelem, természetvédelem és tájvédelem | Csongrád Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 15. | környezetvédelem, természetvédelem és tájvédelem | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 16. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 16. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 17. | rendészet gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -84,4 +84,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^11]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 49. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 25. §-a, a 271/2016. (IX. 1.) Korm. rendelet 36. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 46. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
