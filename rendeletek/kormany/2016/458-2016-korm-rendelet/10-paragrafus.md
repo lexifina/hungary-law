@@ -1,0 +1,3 @@
+## 9. § A Vet. Vhr. 51. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) Az engedélyes az üzletszabályzatát legalább félévente felülvizsgálja. Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és az engedélyes által alkalmazott működési gyakorlatból eredő változásokra és szerződéses rendszerekre. Ha az engedélyes a felülvizsgálat során megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát érinti, a módosítást átvezeti, és a változásokkal egységes szerkezetbe foglalt üzletszabályzat tervezetét haladéktalanul benyújtja a Hivatalhoz jóváhagyásra.”
