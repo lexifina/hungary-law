@@ -1,4 +1,4 @@
-## az engedélyhez kötött tevékenység tervezett megkezdése előtt kell írásban a hajózási hatósághoz benyújtani.
+## az engedélyhez kötött tevékenység tervezett megkezdése előtt kell írásban vagy elektronikus úton a hajózási hatósághoz benyújtani.
 
 13. § (1) A kabotázs-engedély iránti kérelemben – a 12. § (3) bekezdésében meghatározottakon túlmenően – fel kell tüntetni:
 
@@ -64,7 +64,7 @@ c) a hajózási kísérlet lefolytatásáról szóló nyilatkozatot,
 
 d) a hajózási kísérlet műszaki leírását.
 
-(6)[^31] A munkavégzési engedély iránti kérelemben – a 12. § (3) bekezdésében meghatározottakon túlmenően – fel kell tüntetni a munkavégzés megnevezését, időtartamát és helyszínét (folyamkilométer, azonosítási pontok, azonosítási koordináták), továbbá a kérelemhez csatolni kell:
+(6)[^33] A munkavégzési engedély iránti kérelemben – a 12. § (3) bekezdésében meghatározottakon túlmenően – fel kell tüntetni a munkavégzés megnevezését, időtartamát és helyszínét (folyamkilométer, azonosítási pontok, azonosítási koordináták), továbbá a kérelemhez csatolni kell:
 
 a) a kérelmező megbízási nyilatkozatát, ha a munkát végző nem azonos a kérelmezővel,
 
@@ -72,14 +72,14 @@ b) a munkavégzés helyszínéről készített 1:5000 méretarányú rajzot, ame
 
 c) a vízimunka tervét (például híd hosszszelvénye, kotrási keresztszelvények),
 
-d)[^32] a beavatkozáshoz szükséges egyéb jogerős engedély másolatát,
+d)[^34] a beavatkozáshoz szükséges egyéb jogerős engedély másolatát,
 
-e)[^33] a környezetvédelmi igazgatási szerv által jóváhagyott ideiglenes kitűzési tervet, ha a tervezett munkavégzés a hajóút szélességének csökkenésével jár,
+e)[^35] a környezetvédelmi igazgatási szerv által jóváhagyott ideiglenes kitűzési tervet, ha a tervezett munkavégzés a hajóút szélességének csökkenésével jár,
 
 f) kikötőn kívüli ideiglenes rakodás esetében a kirakandó áru megnevezését és mennyiségét (tonnában vagy köbméterben) és a kirakóhely tulajdonosának (kezelőjének) hozzájárulását,
 
 g) az eljárási díj befizetésének igazolását.
 
-[^31]: A 13. § (6) bekezdését a 39/2003. (VI. 13.) GKM rendelet 6. § (4) bekezdése iktatta a szövegbe.
-[^32]: A 13. § (6) bekezdés d) pontja a 48/2009. (IX. 30.) KHEM rendelet 15. § (4) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: A 13. § (6) bekezdés e) pontja a 48/2009. (IX. 30.) KHEM rendelet 15. § (6) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 13. § (6) bekezdését a 39/2003. (VI. 13.) GKM rendelet 6. § (4) bekezdése iktatta a szövegbe.
+[^34]: A 13. § (6) bekezdés d) pontja a 48/2009. (IX. 30.) KHEM rendelet 15. § (4) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^35]: A 13. § (6) bekezdés e) pontja a 48/2009. (IX. 30.) KHEM rendelet 15. § (6) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,4 +1,4 @@
-## 14. §[^34]
+## 14. §[^36]
 
 ## A hajózási engedély visszavonása
 
@@ -16,4 +16,4 @@ d) az engedélyes a hajózási tevékenységet a hajózási engedélyben foglalt
 
 (3) A hatóság a hajózási engedélyt nem vonhatja vissza a 4. § (3) bekezdésében említett felmentés ideje alatt arra az okra hivatkozással, amelyre a felmentést megadta.
 
-[^34]: A 14. §-t a 261/2008. (XI. 3.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^36]: A 14. §-t a 261/2008. (XI. 3.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.

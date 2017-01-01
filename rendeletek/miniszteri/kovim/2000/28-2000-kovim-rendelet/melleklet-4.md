@@ -40,6 +40,6 @@
 
 | NEMZETI KÖZLEKEDÉSI HATÓSÁG KÖZÉP-MAGYARORSZÁGI REGIONÁLIS IGAZGATÓSÁGA |  |  |  |  |  |
 
-4. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^43]
+4. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^45]
 
-[^43]: A 4. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának h)–j) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+[^45]: A 4. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának h)–j) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
