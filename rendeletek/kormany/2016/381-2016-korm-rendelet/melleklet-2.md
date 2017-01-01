@@ -1,0 +1,209 @@
+## A jogvédelmi képviselői tanfolyam szakmai követelményei és a követelmények teljesítéséhez szükséges ismeretek
+
+## I. Szakmai követelmények
+
+## I.1. A tanfolyamot elvégző személyekkel szemben általános követelmény, hogy megszerzett jogi, továbbá egyéni, csoportos, közösségi kommunikációs, illetve pszichológiai és konfliktuskezelési ismereteik révén képesek legyenek
+
+## a) eligazodni a szolgáltatási rendszerekben,
+
+## b) tájékoztatást nyújtani a szolgáltatásokat igénybe vevők részére,
+
+## c) segíteni a szolgáltatásokat igénybe vevőket a problémáik megoldásában.
+
+## I.2. A tanfolyamot elvégző személyeknek az elsajátított speciális ismeretek révén képessé kell válniuk arra, hogy szakterületükön
+
+## a) eljárjanak a hozzájuk fordulók jogainak védelmében,
+
+## b) elősegítsék e jogok érvényesülését a szolgáltatást biztosítók körében,
+
+## c) együttműködjenek a szolgáltatásokat fenntartókkal, valamint az azokat igénybe vevőkkel.
+
+## II. A szakmai követelmények teljesítéséhez szükséges ismeretek
+
+## II.1. Általános ismeretek
+
+## II.1.1. Jogi ismeretek
+
+## a) Polgári jogi ismeretek
+
+## b) Közigazgatási hatósági eljárási ismeretek
+
+## c) Családjogi ismeretek
+
+## d) Alapvető jogok biztosára vonatkozó szabályozás
+
+## e) Adatkezelésre vonatkozó jogszabályok, közvetítői tevékenység
+
+## f) Fogyatékosságügyi ismeretek, esélyegyenlőség
+
+## g) Az emberi jogok európai védelme
+
+## h) Az egyenlő bánásmódra vonatkozó szabályozás
+
+## II.1.2. Pszichológiai ismeretek
+
+## a) Pszichológiai fogalmak és módszerek
+
+## b) Személyiség-lélektan, mentálhigiéné
+
+## c) Gyermeklélektani ismeretek
+
+## d) Kommunikációs ismeretek, készségfejlesztés
+
+## e) Konfliktuskezelési ismeretek, készségfejlesztés
+
+## II.2. Speciális ismeretek szakterületenként
+
+## II.2.1. A betegjogi képviselői feladatok ellátásához szükséges speciális ismeretanyag
+
+## a) Az egészségügyi törvény és végrehajtási rendeletei
+
+## b) Az egészségügyi igazgatás szervezete, irányítási és ellenőrzési rendszere
+
+## c) Járványügyi, egészségügyi hatóságok és az eljárásukra vonatkozó szabályok
+
+## d) Egészségügyi felelősségi rendszerek, permegelőzési eljárások, panaszkivizsgálási lehetőségek
+
+## e) Az egészségügyi intézmények működésének szakmai elvei és szervezése
+
+## f) Egészségbiztosítás és finanszírozási rendszerek
+
+## g) Minőségi követelmények az egészségügyben, minőségbiztosítás
+
+## h) Az egészségügyi adatkezelés, nyilvántartások, dokumentációk
+
+## i) Az egészségügyi dolgozók jogai és kötelezettségei
+
+## j) A betegek jogai és kötelezettségei
+
+## k) A speciális betegcsoportok jogai
+
+## l) A betegjogi képviselő feladat- és hatásköre
+
+## m) Esetfeldolgozások, a betegek jogsérelmeinek kezelése
+
+## II.2.2. Az ellátottjogi képviselői feladatok ellátásához szükséges speciális ismeretanyag
+
+## a) A szociális törvény és végrehajtási rendeletei
+
+## b) A szociális szolgáltatások működési rendszere
+
+## c) Az ellátás igénybevételének és megszüntetésének módjai
+
+## d) Tájékoztatási kötelezettség, a panaszkivizsgálás fórumai
+
+## e) Korlátozó intézkedések alkalmazásának lehetőségei
+
+## f) A házirendre vonatkozó előírások
+
+## g) Az érdekvédelmi rendszer és működése
+
+## h) A szociális szolgáltatást végzők jogai, kötelezettségei
+
+## i) Az ellátottak jogai, az egyes ellátotti csoportok speciális jogai
+
+## j) Az ellátottjogi képviselő feladat- és hatásköre
+
+## k) Esetfeldolgozások, az ellátottak jogsérelmeinek kezelése
+
+## II.2.3. A gyermekjogi képviselői feladatok ellátásához szükséges speciális ismeretanyag
+
+## a) A gyermekvédelmi törvény és végrehajtási rendeletei
+
+## b) A gyermekjóléti és gyermekvédelmi rendszer működése
+
+## c) A gyermek jogairól szóló New York-i Egyezmény
+
+## d) A gyermek- és diákjogok védelme
+
+## e) Gyermekvédelmi feladatok a köznevelési törvényben és az egészségügyi jogszabályokban
+
+## f) A gyermek- és fiatalkorú bűnelkövetőkre, illetve sértettekre vonatkozó büntetőjogi szabályok
+
+## g) A gyermekvédelem területén dolgozók jogai és kötelezettségei
+
+## h) A gyermekek jogai és kötelezettségei
+
+## i) A gyermekjogi képviselő feladat- és hatásköre
+
+## j) Esetfeldolgozások, a gyermekek jogsérelmeinek kezelése
+
+2. melléklet a 381/2016. (XII. 2.) Korm. rendelethez
+
+## A kérelem adattartalma
+
+I. Kérelem arra vonatkozóan, hogy a Szolgálat a kérelemben, valamint a mellékelt okiratokban foglaltak alapján
+
+1. a kérelmezőt jogvédelmi képviselőként nyilvántartásba vegye, a nyilvántartáson az adatainak változását átvezesse vagy
+
+2. a kérelmezőt a nyilvántartásból törölje vagy
+
+3. a nyilvántartásban a továbbképzési kötelezettség teljesítését regisztrálja.
+
+II. Személyes adatok
+
+1. családi és utónév
+
+2. születési név
+
+3. születési hely, idő
+
+4. anyja születési neve
+
+5. állampolgárság
+
+6. lakóhely
+
+7. tartózkodási hely (ha eltér)
+
+8. levelezési cím
+
+9. telefonszám
+
+10. e-mail cím
+
+A 8–10. pontokba foglalt adattartalom megadása nem kötelező, kitöltése esetén a kérelmező egyidejűleg hozzájárulását adja ezen adatoknak az Eütv. 33/A. § (3) bekezdés szerinti kezeléséhez.
+
+III. A szakképesítésre vonatkozó adatok
+
+1. a szakképesítés megnevezése
+
+2. oklevél, bizonyítvány száma, kelte, kiállító intézmény
+
+3. elismerés, honosítás esetén az elismerő, honosító okirat száma, kelte, az elismerő vagy a honosító hatóság megnevezése
+
+IV. A kérelmező nyilatkozata a megfelelő szakmai gyakorlatra vonatkozó adatokról
+
+1. munkahely/munkáltató megnevezése, címe
+
+2. munkakör megnevezése
+
+3. jogviszony jellege
+
+4. jogviszony kezdete
+
+5. jogviszony vége
+
+V. Egyéb
+
+1. Változásjelentés esetén a megváltozott adatok
+
+2. Továbbképzési kötelezettség teljesítése esetén a képzőhely megnevezése, a továbbképzés teljesítését igazoló dokumentum száma, kelte, a teljesített órák száma
+
+VI. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek
+
+VII. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett adatainak a Szolgálat általi ellenőrzéséhez
+
+## VIII. A kérelemhez az alábbi dokumentumokat kell csatolni:
+
+1. A nyilvántartásba vételi kérelemhez:
+
+a) a szakképesítést igazoló dokumentum(ok) másolatát,
+
+b) a jogvédelmi képviselői tanfolyam sikeres elvégzését igazoló tanúsítvány másolatát.
+
+2. A változás bejelentésére vonatkozó kérelemhez az adatváltozást igazoló eredeti okiratot vagy annak hiteles másolatát a Ket.-ben meghatározott kivételek figyelembevételével.
+
+3. Törlésre irányuló kérelemhez a jogvédelmi képviselő nyilvántartási igazolványát, ha rendelkezett ilyennel.
+
+4. A továbbképzés teljesítésének regisztrálására vonatkozó kérelemhez a továbbképzés teljesítéséről szóló okirat másolatát.
