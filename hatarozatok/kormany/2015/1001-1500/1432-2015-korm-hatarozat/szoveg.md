@@ -78,6 +78,8 @@ ag) az informatikáért és
 
 ah) a közlekedésért
 
+ai)[^1] a sportpolitikáért
+
 felelős miniszter által vezetett minisztérium képviseletében, továbbá
 
 b) az alábbi szervek egy-egy képviselője:
@@ -110,7 +112,7 @@ b) az Alapvető Jogok Biztosának Hivatala,
 
 c) a Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Kft.,
 
-d) a Nemzeti Család- és Szociálpolitikai Intézet, valamint
+d)[^2]
 
 e) a Nemzeti Hírközlési és Informatikai Tanács
 
@@ -122,7 +124,27 @@ egy-egy képviselője.
 
 a) a szervezettel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban álló személy,
 
-b) vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban álló személy vagy
+b)[^3] az alábbi szervek egy-egy képviselője:
+
+ba) Központi Statisztikai Hivatal,
+
+bb) rehabilitációs és szociális hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala,
+
+bc) Szociális és Gyermekvédelmi Főigazgatóság,
+
+bd) Integrált Jogvédelmi Szolgálat,
+
+be) Állami Egészségügyi Ellátó Központ,
+
+bf) országos tisztifőorvos,
+
+bg) Nemzeti Egészségbiztosítási Alapkezelő,
+
+bh) Oktatási Hivatal,
+
+bi) Klebelsberg Központ és
+
+bj) Nemzeti Szakképzési és Felnőttképzési Hivatal.
 
 c) gazdasági társaság esetén a társaság vezető tisztségviselője vagy munkavállalója
 
@@ -141,3 +163,7 @@ jelölhető ki.
 18. A Bizottság tagjai tevékenységükért tiszteletdíjban nem részesülnek.
 
 19. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
+
+[^1]: A 9. pont a) alpont ai) pontját az 1853/2016. (XII. 27.) Korm. határozat 51. pontja iktatta be.
+[^2]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
+[^3]: A 12. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 52. pontjával megállapított szöveg.
