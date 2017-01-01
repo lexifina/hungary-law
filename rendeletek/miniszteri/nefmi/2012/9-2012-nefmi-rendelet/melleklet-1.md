@@ -1,6 +1,6 @@
-## 16. §[^8] Az egyes egészségbiztosítási, egészségügyi és szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2015. (II. 2.) EMMI rendelettel megállapított 2. és 3. mellékletben foglaltakat a 2015. január havi teljesítésektől kell alkalmazni.
+## 16. §[^9] Az egyes egészségbiztosítási, egészségügyi és szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2015. (II. 2.) EMMI rendelettel megállapított 2. és 3. mellékletben foglaltakat a 2015. január havi teljesítésektől kell alkalmazni.
 
-1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^9]
+1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^10]
 
 ## Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
@@ -490,7 +490,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 6.3.3. A laboratóriumi kérésnek tartalmilag meg kell felelni annak a követelménynek, hogy a vizsgálatot kérő egészségügyi szolgáltató szakorvosa és az igényelt vizsgálatok egyértelműen azonosíthatók legyenek.
 
-6.3.4. Az Országos Egészségbiztosítási Pénztár részére megküldendő teljesítmény elszámolási adatokban a „megjelenés” időpontjának a mintavétel időpontját kell tekinteni.
+6.3.4. A Nemzeti Egészségbiztosítási Alapkezelő részére megküldendő teljesítmény elszámolási adatokban a „megjelenés” időpontjának a mintavétel időpontját kell tekinteni.
 
 6.3.5. Ha egy laboratóriumi vizsgálatot a megnevezésben, definícióban nem szereplő, de a megjelölt eljárásoknál pontosabb eredményt adó, szakmai irányelveknek megfelelő vizsgálati módszerrel végezték, az adott eljárás kódján az elvégzett teljesítmény elszámolható.
 
@@ -562,5 +562,5 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
-[^8]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
-[^9]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^9]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
+[^10]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja szerint módosított szöveg.
