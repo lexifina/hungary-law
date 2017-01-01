@@ -1,4 +1,4 @@
-2. melléklet a 432/2012. (XII. 29.) Korm. rendelethez[^2]
+2. melléklet a 432/2012. (XII. 29.) Korm. rendelethez[^4]
 
 A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet játszó főútvonalak
 
@@ -2646,4 +2646,4 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 1273 | Zománc utca | Wekerle Sándor utca – Könyves utca |
 
-[^2]: A 2. melléklet a 104/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 104/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
