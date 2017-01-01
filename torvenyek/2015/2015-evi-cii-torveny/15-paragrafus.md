@@ -6,7 +6,7 @@
 
 a) a műszaki engedély kiadása,
 
-b) a képzési engedély kiadása, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy az egyéb kötöttpályás közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
+b) az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy az egyéb kötöttpályás közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 
 c) a siklók, sífelvonók, a függővasutak, az egyéb kötöttpályás üzemi létesítmények, a turisztikai hajtányok, az egyéb kötöttpályás közlekedési tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben foglaltaknak,
 
