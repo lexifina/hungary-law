@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-155-20-
 | --- | --- | --- |
 | 2016-07-01 | 2016-155-20-22.1 | 155/2016. (VI. 13.) Korm. rendelet |
 | 2016-07-02 | 2016-155-20-22.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-155-20-22.3 | 482/2016. (XII. 28.) Korm. rendelet |

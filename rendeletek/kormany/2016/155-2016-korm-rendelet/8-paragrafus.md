@@ -1,5 +1,7 @@
-## 7. § Ez a rendelet 2016. július 1-jén lép hatályba.
+## a Módr1. hatálybalépésekor[^25] folyamatban lévő eljárásokban is alkalmazni kell.
 
 8. § (1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) A 3. § (3) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+[^25]: A hatálybalépés időpontja 2016. december 29.
