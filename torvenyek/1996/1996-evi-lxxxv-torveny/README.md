@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2015-02-01 | 2014. évi LXXVII. törvény | 1996-85-00-00.28 |
 | 2015-05-02 | 2015. évi XLIV. törvény | 1996-85-00-00.29 |
 | 2016-01-01 | 2015. évi CXCIV. törvény | 1996-85-00-00.30 |
+| 2017-01-01 | 2016. évi CXXVII. törvény | 1996-85-00-00.31 |

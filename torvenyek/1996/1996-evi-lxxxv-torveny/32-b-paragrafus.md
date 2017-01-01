@@ -2,7 +2,9 @@
 
 a) a Magyar Állam,
 
-b)–d)
+b) a fővárosi és megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
+
+c)–d)
 
 e) az egyházi jogi személy,
 
