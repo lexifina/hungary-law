@@ -1,23 +1,34 @@
-31. § (1) A támogatás igénylése az OEP által a 30. § (1) bekezdése szerinti feltételeknek megfelelő fiatal szakorvost vagy kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatók rendelkezésére bocsátott, az 1. melléklet szerinti tartalmú, elektronikusan kitöltendő kérelemnek az OEP részére elektronikus úton való benyújtásával történik.
+31. § (1)[^77] A támogatás igénylése a miniszter által a 30. § (1) bekezdése szerinti feltételeknek megfelelő fiatal szakorvost vagy kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatók rendelkezésére bocsátott, az 1. melléklet szerinti tartalmú, elektronikusan kitöltendő kérelemnek a miniszter részére elektronikus úton való benyújtásával történik.
 
-(2)[^31] Az (1) bekezdés szerint benyújtott igénybejelentés alapján az OEP az egészségügyi szolgáltató részére folyósítandó támogatási összeget
+(2)[^78] Az (1) bekezdés szerint benyújtott igénybejelentés alapján a miniszter az egészségügyi szolgáltató részére folyósítandó támogatási összeget
 
 a) az adott év március 1-je és augusztus 31-e közötti időszakra vonatkozóan az adott év január 1-jei egészségügyi szolgáltatói foglalkoztatási adatok alapján,
 
 b) az adott év szeptember 1-je és az adott évet követő év február 29-e közötti időszakra vonatkozóan az adott év július 1-jei egészségügyi szolgáltatói foglalkoztatási adatok alapján
 
-## állapítja meg, azzal, hogy az igénybejelentési időszakok között az OEP korrekciós lehetőséget biztosíthat a foglalkoztató egészségügyi szolgáltató részére a jogosultak adataiban időközben bekövetkezett változások érvényesítésére.
+## állapítja meg, azzal, hogy az igénybejelentési időszakok között a miniszter korrekciós lehetőséget biztosíthat a foglalkoztató egészségügyi szolgáltató részére a jogosultak adataiban időközben bekövetkezett változások érvényesítésére.
 
-(3) A támogatás összegét az OEP havonta utalványozza a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatónak, amelyet az egészségügyi szolgáltató az érintett fiatal szakorvosnak, szakgyógyszerésznek továbbfolyósítani köteles.
+(2a)[^79] A havonta utalványozandó támogatási összegekre vonatkozó adatokat szolgáltatónkénti bontásban a miniszter továbbítja a NEAK részére.
 
-(4)[^32] A fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató a tárgyév január hónapjától a tárgyév december hónapjáig tartó időszakra kifizetett támogatási összegekkel a tárgyévet követő február 15-éig a 2. melléklet szerinti tartalommal elszámol az OEP felé.
+(3)[^80] A támogatás összegét a NEAK havonta utalványozza a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatónak, amelyet az egészségügyi szolgáltató az érintett fiatal szakorvosnak, szakgyógyszerésznek továbbfolyósítani köteles.
 
-(5) Az OEP a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató által igényelt, de a támogatás biztosítására fel nem használt támogatási összeget a (4) bekezdés szerinti elszámolási időpontot követő hónapban esedékes támogatási összegből levonja.
+(4)[^81] A fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató a tárgyév január hónapjától a tárgyév december hónapjáig tartó időszakra kifizetett támogatási összegekkel a tárgyévet követő február 15-éig a 2. melléklet szerinti tartalommal elszámol a NEAK felé.
 
-(6) Az OEP a támogatás iránti igényt – az igénylés adattartalmát is ide értve –, valamint az ezen jogcímen kiutalt támogatási összeg felhasználását folyamatosan ellenőrzi. Az OEP az ellenőrzés keretében az igénylés adattartalmát érintően kiegészítő adatokat kérhet a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatótól. (7) Ha az OEP ellenőrzése során megállapítja, hogy a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató jogosulatlanul vette igénybe vagy használta fel a kiutalt támogatási összeget, a jogosulatlanul igénybe vett vagy felhasznált támogatást a tárgyhónapot követő hónapban esedékes, a jövedelem-kiegészítéssel összefüggő támogatási összegből levonja.
+(5)[^82] A NEAK a miniszter tájékoztatása alapján a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató által igényelt, de a támogatás biztosítására fel nem használt támogatási összeget a (4) bekezdés szerinti elszámolási időpontot követő hónapban esedékes támogatási összegből levonja.
 
-(7)[^33] Ha az OEP ellenőrzése során megállapítja, hogy a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató jogosulatlanul vette igénybe vagy használta fel a kiutalt támogatási összeget, a jogosulatlanul igénybe vett vagy felhasznált támogatást a tárgyhónapot követő hónapban esedékes támogatási összegből levonja.
+(6)[^83] A miniszter a támogatás iránti igényt – az igénylés adattartalmát is ideértve –, valamint az ezen jogcímen kiutalt támogatási összeg felhasználását folyamatosan ellenőrzi. A miniszter az ellenőrzés keretében az igénylés adattartalmát érintően kiegészítő adatokat kérhet a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatótól.
 
-[^31]: A 31. § (2) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
-[^32]: A 31. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 75. § (2) bekezdésével megállapított szöveg.
-[^33]: A 31. § (7) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 75. § (3) bekezdése iktatta be.
+(7)[^84] Ha a miniszter ellenőrzése során megállapítja, hogy a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató jogosulatlanul vette igénybe vagy használta fel a kiutalt támogatási összeget, akkor a jogosulatlan igénybevételről vagy felhasználásról értesíti a NEAK-ot. A NEAK a jogosulatlanul igénybe vett vagy felhasznált támogatást
+
+a) ha az értesítés az adott hónap 20-áig beérkezik, a tárgyhónapot követő hónapban,
+
+b) ha az értesítés az adott hónap 20-át követően érkezik be, a tárgyhónapot követő második hónapban
+
+[^77]: A 31. § (1) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 45. § g) pontja szerint módosított szöveg.
+[^78]: A 31. § (2) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 75. § (1) bekezdésével megállapított, a 464/2016. (XII. 23.) Korm. rendelet 45. § g) pontja szerint módosított szöveg.
+[^79]: A 31. § (2a) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 42. §-a iktatta be.
+[^80]: A 31. § (3) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 45. § f) pontja szerint módosított szöveg.
+[^81]: A 31. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 75. § (2) bekezdésével megállapított, a 464/2016. (XII. 23.) Korm. rendelet 45. § f) pontja szerint módosított szöveg.
+[^82]: A 31. § (5) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 45. § h) pontja szerint módosított szöveg.
+[^83]: A 31. § (6) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^84]: A 31. § (7) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 75. § (3) bekezdése iktatta be, szövege a 464/2016. (XII. 23.) Korm. rendelet 43. §-ával megállapított szöveg.

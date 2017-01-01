@@ -14,9 +14,9 @@ b) az RTP ösztöndíjaiban részesülő és 2015. augusztus 31-éig első szako
 
 ## az (1) bekezdés szerinti feltételeknek a támogatási időszak alatti folyamatos fennállása esetén.
 
-(2a)[^27] Az (1) bekezdés szerinti támogatásban az a fiatal szakorvos részesülhet, aki erre vonatkozó igényét 2017. október 31-éig bejelenti.
+(2a)[^71] Az (1) bekezdés szerinti támogatásban az a fiatal szakorvos részesülhet, aki erre vonatkozó igényét 2017. október 31-éig bejelenti.
 
-(3)[^28] A (2) bekezdésben foglalt ötéves jogosultsági időtartam szüneteltethető
+(3)[^72] A (2) bekezdésben foglalt ötéves jogosultsági időtartam szüneteltethető
 
 a) a szülési szabadság, a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás időtartamára, ha a jogosult nem végez ezen időtartam alatt egészségügyi tevékenységet,
 
@@ -24,17 +24,19 @@ b) a betegség miatt 30 napot meghaladó keresőképtelenség időtartamára, é
 
 c) az egy hónapot meghaladó fizetés nélküli szabadság időtartamára.
 
-(4)[^29] Az (1) bekezdésben foglaltaktól eltérően a gyermekgondozási díjban vagy a gyermekgondozást segítő ellátásban részesülő és egészségügyi tevékenységet részmunkaidős foglalkoztatás keretében végző fiatal szakorvosok és kórházi, klinikai szakgyógyszerészek is jogosultak a fiatal szakorvosok támogatására.
+(4)[^73] Az (1) bekezdésben foglaltaktól eltérően a gyermekgondozási díjban vagy a gyermekgondozást segítő ellátásban részesülő és egészségügyi tevékenységet részmunkaidős foglalkoztatás keretében végző fiatal szakorvosok és kórházi, klinikai szakgyógyszerészek is jogosultak a fiatal szakorvosok támogatására.
 
-(5)[^30] A támogatás összege szakorvosonként havi bruttó 151 000 forint. A támogatás biztosítása érdekében igényelhető költségvetési forrás kifizetésére a számított munkáltatói járulékot és szociális hozzájárulási adót is magába foglalva kerül sor. A tárgyhónapban ténylegesen munkában töltött napok számától függetlenül – a (3) bekezdésben foglaltak kivételével – a támogatás teljes összegben megilleti a foglalkoztatottat, ha a tárgyhónap első munkanapján foglalkoztatásban áll. A támogatás utalványozása azon egészségügyi szolgáltató részére történik, ahol a jogosult a tárgyhónap első munkanapján foglalkoztatásban áll.
+(5)[^74] A támogatás összege szakorvosonként havi bruttó 151 000 forint. A támogatás biztosítása érdekében igényelhető költségvetési forrás kifizetésére a számított munkáltatói járulékot és szociális hozzájárulási adót is magába foglalva kerül sor. A tárgyhónapban ténylegesen munkában töltött napok számától függetlenül – a (3) bekezdésben foglaltak kivételével – a támogatás teljes összegben megilleti a foglalkoztatottat, ha a tárgyhónap első munkanapján foglalkoztatásban áll. A támogatás utalványozása azon egészségügyi szolgáltató részére történik, ahol a jogosult a tárgyhónap első munkanapján foglalkoztatásban áll.
 
-(6) Az (1) bekezdés szerinti támogatással kapcsolatos adminisztrációs és költségvetési feladatokat az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) látja el. Az OEP a Fiatal Szakorvosok Támogatási Programjának megvalósulásáról évente beszámolót készít a miniszter részére.
+(6)[^75] Az (1) bekezdés szerinti támogatással kapcsolatos adminisztrációs és költségvetési feladatokat a miniszter és a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) látja el.
 
 (7) Az (1) bekezdés szerinti támogatás biztosításának pénzügyi fedezetét az Egészségbiztosítási Alap fejezetében kell tervezni.
 
-(8) Az (1) bekezdés szerinti támogatást a támogatásban részesülőt foglalkoztató egészségügyi szolgáltató részére folyósítja az OEP, a szolgáltatónak az OEP-pel fennálló finanszírozási szerződése alapján.
+(8)[^76] Az (1) bekezdés szerinti támogatást – a miniszter tájékoztatása alapján – a támogatásban részesülőt foglalkoztató egészségügyi szolgáltató részére folyósítja a NEAK, a szolgáltatónak a NEAK-kal fennálló finanszírozási szerződése alapján.
 
-[^27]: A 30. § (2a) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 4. §-a iktatta be.
-[^28]: A 30. § (3) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
-[^29]: A 30. § (4) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
-[^30]: A 30. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 74. § (2) bekezdésével megállapított szöveg.
+[^71]: A 30. § (2a) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 4. §-a iktatta be.
+[^72]: A 30. § (3) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
+[^73]: A 30. § (4) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
+[^74]: A 30. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 74. § (2) bekezdésével megállapított szöveg.
+[^75]: A 30. § (6) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^76]: A 30. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § l) pontja, a 464/2016. (XII. 23.) Korm. rendelet 45. § e) és f) pontja szerint módosított szöveg.

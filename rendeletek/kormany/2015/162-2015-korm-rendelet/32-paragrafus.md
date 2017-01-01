@@ -1,3 +1,5 @@
+## esedékes támogatási összegből levonja.
+
 ## VI. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
