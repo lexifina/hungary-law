@@ -1,4 +1,4 @@
-## 12. § Építési beruházás során a 14. § (1) bekezdés a) pontja szerinti esetben – amennyiben az építési beruházás értéke meghaladja az uniós értékhatárt – az Étv. 33. § (4) bekezdése szerinti tervezői művezetés igénybevétele kötelező.
+## 12. §[^4] Építési beruházás során a 14. § (1) bekezdés a) pontja szerinti esetben – ha az építési beruházás értéke eléri vagy meghaladja az uniós értékhatárt – az Étv. 33. § (4) bekezdése szerinti tervezői művezetés igénybevétele kötelező.
 
 ## 10. Az építési beruházás becsült értéke
 
@@ -7,3 +7,5 @@
 (2) A Kbt. 19. § (3) bekezdése alkalmazásában ugyanazon építési beruházásnak tekintendő az építési engedélyben több megvalósulási szakaszra bontott építési beruházás is (az egyes megvalósulási szakaszokban megépített építmények, építményrészek együttesen).
 
 (3) Az ajánlatkérő a közbeszerzés becsült értékébe a tartalékkeretet is köteles beszámítani.
+
+[^4]: A 12. § a 487/2016. (XII. 28.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

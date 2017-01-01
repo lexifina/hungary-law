@@ -6,7 +6,7 @@
 
 1.1. építéstörténeti tudományos dokumentáció,
 
-1.2. a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendelet szerinti állapotdokumentáció,
+1.2.[^14] a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendelet szerinti állapotdokumentáció,
 
 1.3. kutatási dokumentáció (műemléki épületkutatási dokumentációk, épületdiagnosztikai vizsgálatok).
 
@@ -21,3 +21,5 @@
 2.4. az esztétikai helyreállítási javaslat,
 
 2.5. a kezelések várható eredményei és kockázata.
+
+[^14]: A 2. melléklet 1. pont 1.2. alpontja a 497/2016. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
