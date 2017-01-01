@@ -1,5 +1,0 @@
-## 21. § A programok, projektek államháztartási támogatásait az Áht. és a végrehajtásáról rendelkező jogszabályok, a mindenkori költségvetési törvény, illetve a tervezési körirat előírásai szerint kell megtervezni.
-
-22. § (1) A Nemzeti Programengedélyező a programok előkészítése, valamint végrehajtása folyamán meggyőződik arról, hogy a programok, projektek finanszírozását szolgáló hazai források (központi költségvetési támogatás, célelőirányzat, önkormányzati hozzájárulás, hitel, illetve saját forrás) e rendeletben, valamint a finanszírozási és a támogatási szerződésekben meghatározott időpontokban rendelkezésre fognak állni.
-
-(2) A Nemzeti Programengedélyező a Nemzeti Koordinátor, a végrehajtó szervezetek, valamint az MVH bevonásával jogosult bármikor, már a programok előkészítése során, illetve a tervezés szakaszában is nyilatkozatot kérni az (1) bekezdésben felsorolt források felett rendelkezőktől arra vonatkozóan, hogy az adott forrást az e rendeletben, valamint a finanszírozási és támogatási szerződésekben meghatározott esedékességekor rendelkezésre bocsátják, illetőleg, hogy a pénzügyi lebonyolítás egyéb feltételei is adottak.

@@ -1,3 +1,0 @@
-## SAPARD INTÉZMÉNYEK
-
-## Irányító hatóság
