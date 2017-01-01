@@ -1,3 +1,1 @@
-## 1–13.[^1]
-
-[^1]: Az 1–13. alcím (1–25. §) a 29. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## 1. A nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet módosítása
