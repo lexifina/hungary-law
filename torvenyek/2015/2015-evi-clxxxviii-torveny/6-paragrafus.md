@@ -32,7 +32,7 @@ bf) egyedi azonosítóját.
 
 (2) A jogosultság nyilvántartás az arcképelemző rendszer kezelésére jogosultak tekintetében az alábbi adatokat tartalmazza:
 
-a) a központi szerv
+a) az arcképelemző tevékenységet végző szerv
 
 aa) megnevezését,
 
@@ -64,11 +64,7 @@ bf) hozzáférési jogosultságához rendelt felhasználói azonosítóját.
 
 (4) A jogosultság nyilvántartásban kezelt adatok teljes körét megismerheti
 
-a) az adatkezelés jogszerűségének ellenőrzése céljából
-
-aa) a központi szerv irányításáért felelős szerv,
-
-ab) a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
+a) az adatkezelés jogszerűségének ellenőrzése céljából a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
 
 b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság,
 
