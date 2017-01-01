@@ -1,6 +1,6 @@
 ## 11. Az eltűnt személyekre vonatkozó figyelmeztető jelzéssel kapcsolatos eljárás
 
-19. § (1)[^9] A jelzéskezelőnek az eltűnt személy megtalálásakor foganatosítandó intézkedés érdekében a körözési nyilvántartási rendszer útján
+19. § (1)[^11] A jelzéskezelőnek az eltűnt személy megtalálásakor foganatosítandó intézkedés érdekében a körözési nyilvántartási rendszer útján
 
 a) a SIS II tv. 8. § (2) bekezdés a) pontja szerinti védelem alá helyezést jelezni kell különösen kiskorú, cselekvőképességet kizáró gondnokság alatt álló, továbbá olyan személy eltűnése esetén, aki magáról gondoskodni vagy magát megvédeni képtelen kora, betegsége vagy fogyatékossága miatt,
 
@@ -12,4 +12,4 @@ c) ha védelem alá helyezésre nincs szükség, az eltűnt személy megtalálá
 
 (3) Amennyiben a megtalált cselekvőképes személy védelem alá helyezése nem szükséges, nyilatkoztatni kell őt arról, hogy az eljárás során megállapított lakcíme, illetve tartózkodási helye a bejelentővel közölhető-e.
 
-[^9]: A 19. § (1) bekezdés nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 19. § (1) bekezdés nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
