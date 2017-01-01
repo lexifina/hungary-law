@@ -1,3 +1,3 @@
 1. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^7]
 
-[^7]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 15. § a) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^7]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 14. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
