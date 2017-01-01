@@ -32,7 +32,7 @@
 
 .................... sorszám
 
-Nemzeti Közlekedési Hatóság
+Budapest Főváros Kormányhivatala
 
 Engedély
 
@@ -42,4 +42,4 @@ a nehéz tehergépkocsik közlekedésének korlátozásáról szóló
 
 meghatározott közlekedési korlátozás alóli felmentésre
 
-[^6]: A 2. melléklet a 297/2014. (XII. 3.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. melléklet a 297/2014. (XII. 3.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 116. §-a szerint módosított szöveg.
