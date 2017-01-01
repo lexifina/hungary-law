@@ -10,7 +10,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 3. Környezetvédelmi hatósági eljárások
 
-4.[^7] Az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások
+4.[^7] Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások
 
 5. Vízügyi hatósági eljárások
 
@@ -21,5 +21,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 8. Azok a további hatósági engedélyezési eljárások, amelyek a beruházás megvalósításhoz közvetlenül szükségesek
 
 [^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet 4. pontja a 72/2015. (III. 30.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: Az 1. melléklet 4. pontja a 380/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
 [^8]: Az 1. melléklet 6. sorát a 271/2016. (IX. 1.) Korm. rendelet 42. § (3) bekezdése hatályon kívül helyezte.
