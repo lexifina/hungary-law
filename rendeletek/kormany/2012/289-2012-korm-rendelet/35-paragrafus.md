@@ -12,8 +12,8 @@ b) a kivitelező rendelkezik-e valamennyi, a vasúti forgalom biztonságos lebon
 
 c) a vasúti építményekre vonatkozó átjárhatósági műszaki előírások követelményeit a kivitelezési tevékenység végzése során megtartották-e,
 
-d)[^14] a felhasznált beépített anyagok, szerkezetek, vasúti rendszerelemek, berendezések, rendelkeznek-e érvényes teljesítménynyilatkozattal vagy megfelelőség-igazolással, a megfelelőség-igazolást az arra jogosult szervezet állította-e ki,
+d)[^17] a felhasznált beépített anyagok, szerkezetek, vasúti rendszerelemek, berendezések, rendelkeznek-e érvényes teljesítménynyilatkozattal vagy megfelelőség-igazolással, a megfelelőség-igazolást az arra jogosult szervezet állította-e ki,
 
 e) a bejelentés alapján végezhető tevékenysége megfelel-e a bejelentés tartalmának.
 
-[^14]: A 35. § d) pontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^17]: A 35. § d) pontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.

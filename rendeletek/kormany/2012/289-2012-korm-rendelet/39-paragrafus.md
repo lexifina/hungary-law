@@ -16,11 +16,11 @@ ideiglenes használatbavételi engedély iránti kérelmet 2014. december 31-ig 
 
 (5) A vasútbiztonsági engedély megszerzésére nem kötelezett vasúti pályahálózatra vonatkozóan a vasúti építmény üzembentartója köteles 2014. december 31-ig a műszaki paramétereket tartalmazó adatokat szolgáltatni a kezelésében álló vasúti építményekről a vasúti közlekedési hatóság részére. Az adatszolgáltatáshoz szükséges űrlapot a vasúti közlekedési hatóság az elektronikus tájékoztatás szabályai szerint teszi közzé.
 
-(6)[^15] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) és (3) bekezdését, 2. § 8. pontját, 6. § (2) bekezdés f) pontját, 6. § (4) bekezdését a Módr. hatálybalépésekor[^16] folyamatban lévő eljárásokban is alkalmazni kell.
+(6)[^18] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) és (3) bekezdését, 2. § 8. pontját, 6. § (2) bekezdés f) pontját, 6. § (4) bekezdését a Módr. hatálybalépésekor[^19] folyamatban lévő eljárásokban is alkalmazni kell.
 
-(7)[^17] A Módr. hatálybalépésekor[^18] folyamatban lévő hatósági eljárásokban a Módr. hatálybalépése előtt már megkezdett eljárási cselekmények hatályát a Módr. nem érinti.
+(7)[^20] A Módr. hatálybalépésekor[^21] folyamatban lévő hatósági eljárásokban a Módr. hatálybalépése előtt már megkezdett eljárási cselekmények hatályát a Módr. nem érinti.
 
-[^15]: A 39. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^16]: A hatálybalépés időpontja 2013. október 14.
-[^17]: A 39. § (7) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^18]: A hatálybalépés időpontja 2013. október 14.
+[^18]: A 39. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^19]: A hatálybalépés időpontja 2013. október 14.
+[^20]: A 39. § (7) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^21]: A hatálybalépés időpontja 2013. október 14.
