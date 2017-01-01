@@ -1,0 +1,5 @@
+## 3. §[^1]
+
+## 2. A ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosítása
+
+[^1]: A 3. § a 7. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
