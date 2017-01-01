@@ -10,6 +10,6 @@ c) bizonyos anyagok természetes úton a felszíni vízben történő feldúsul�
 
 d) a sekély tavakban és állóvíz jellegű felszíni vizek esetében, az 1. számú mellékletben (*)-gal jelölt minőségi jellemzők tekintetében;
 
-(2) A vízszennyezettségi határértékek figyelmen kívül hagyása nem érinti a külön jogszabály[^11] szerinti ivóvízminőségi előírások teljesítésének kötelezettségét.
+(2) A vízszennyezettségi határértékek figyelmen kívül hagyása nem érinti a külön jogszabály[^12] szerinti ivóvízminőségi előírások teljesítésének kötelezettségét.
 
-[^11]: Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet.
+[^12]: Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet.

@@ -1,6 +1,6 @@
-9. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^49]
+9. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^50]
 
-## Adatszolgáltatási lap a halas vizekről
+Adatszolgáltatási lap a halas vizekről
 
 1. Az adatszolgáltató és az adatszolgáltatásra vonatkozó információk
 
@@ -98,4 +98,4 @@
 
 | A felszíni víz szennyezését okozta: |  |
 
-[^49]: A 9. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés h) és j) pontja szerint módosított szöveg. [A 9. számú mellékletben az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés k) pontjával elrendelt módosítás nem vezethető át.]
+[^50]: A 9. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés h) és j) pontja szerint módosított szöveg. [A 9. számú mellékletben az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés k) pontjával elrendelt módosítás nem vezethető át.]

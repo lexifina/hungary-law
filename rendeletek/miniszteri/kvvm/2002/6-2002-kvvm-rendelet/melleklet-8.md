@@ -16,9 +16,9 @@
 
 | Hármas-Körös | 42+000–90+270 | a vízvédelmi hatóság illetékességi területen teljes hosszban | Dévéres víz | KV3 | Békés Megyei Katasztrófavédelmi Igazgatóság |
 
-8. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^48]
+8. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^49]
 
-## Adatszolgáltatási lap(ok) a felszíni ivóvízbázisokról
+Adatszolgáltatási lap(ok) a felszíni ivóvízbázisokról
 
 1. Az adatszolgáltató és az adatszolgáltatásra vonatkozó információk
 
@@ -144,4 +144,4 @@
 
 | A felszíni víz szennyezését okozta: |  |
 
-[^48]: A 8. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés h) pontja szerint módosított szöveg. [A 8. számú mellékletben az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés i) pontjával elrendelt módosítás nem vezethető át.]
+[^49]: A 8. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés h) pontja szerint módosított szöveg. [A 8. számú mellékletben az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés i) pontjával elrendelt módosítás nem vezethető át.]

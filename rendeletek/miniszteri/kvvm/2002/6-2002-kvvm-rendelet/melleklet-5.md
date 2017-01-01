@@ -1,6 +1,6 @@
-## A halas vizek vízszennyezettségi határértékei és mérésükkel szemben támasztott követelmények[^42]
+## A halas vizek vízszennyezettségi határértékei és mérésükkel szemben támasztott követelmények[^43]
 
-## I. táblázat[^43]
+## I. táblázat[^44]
 
 ## I. táblázat
 
@@ -112,9 +112,9 @@
 
 5. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez
 
-## Irányelvek a halas vizek, vagy a vízszennyezettség csökkentésére szoruló felszíni vizek kijelöléséhez[^44]
+Irányelvek a halas vizek, vagy a vízszennyezettség csökkentésére szoruló felszíni vizek kijelöléséhez[^45]
 
-1.[^45] A halas vizeket vagy a vízszennyezettség csökkentésére szoruló felszíni vizeket a következő kategóriákba sorolás alapján kell kijelölni.
+1.[^46] A halas vizeket vagy a vízszennyezettség csökkentésére szoruló felszíni vizeket a következő kategóriákba sorolás alapján kell kijelölni.
 
 a) KV1 kategóriába tartozó felszíni vizek közé kell sorolni azokat a víztesteket, melyek vízkémiai és vízfizikai minőségi jellemzői megfelelnek a 4. számú melléklet szerinti vízszennyezettségi határértékeiknek, és természetes vagy természetközeli halközösséget tartanak fenn.
 
@@ -124,7 +124,7 @@ c) KV3 kategóriába tartozó felszíni vizek közé kell sorolni azokat a vízt
 
 2. A halas vizeket a 2. § b) pontjában meghatározott jellemzők alapján az 1. ponttal összhangban pisztrángos, márnás vagy dévéres víz kategóriába kell sorolni.
 
-[^42]: A 4. számú melléklet címe a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának b) pontjával megállapított szöveg.
-[^43]: A 4. számú melléklet I. táblázata a 17/2007. (V. 10.) KvVM rendelet 7. §-ával megállapított szöveg.
-[^44]: Az 5. számú melléklet címe a 24/2004. (XII. 18.) KvVM rendelet 7. §-ának a) pontja szerint módosított szöveg.
-[^45]: Az 5. számú melléklet 1. pontja a 24/2004. (XII. 18.) KvVM rendelet 7. §-ának a) pontja szerint módosított szöveg.
+[^43]: A 4. számú melléklet címe a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának b) pontjával megállapított szöveg.
+[^44]: A 4. számú melléklet I. táblázata a 17/2007. (V. 10.) KvVM rendelet 7. §-ával megállapított szöveg.
+[^45]: Az 5. számú melléklet címe a 24/2004. (XII. 18.) KvVM rendelet 7. §-ának a) pontja szerint módosított szöveg.
+[^46]: Az 5. számú melléklet 1. pontja a 24/2004. (XII. 18.) KvVM rendelet 7. §-ának a) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## Az e rendelet 1. számú mellékletében meghatározott minőségi jellemzők értékeinek mérésével szemben támasztott követelmények
-
 | Minőségi jellemző | Pontosság/ precizitás* (%) | Méréstartomány kategóriák a pontosság, precizitás követelményekhez | Kimutatási határ* (%) | Referencia módszer |
 
 | pH | 0,2 pH |  |  | MSZ 448–22:1985 |

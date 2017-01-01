@@ -36,6 +36,6 @@
 
 | Komra-völgyi tározó, Komra-patak | 1+094 | A2 | Fővárosi Katasztrófavédelmi Igazgatóság |
 
-7. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^47]
+7. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^48]
 
-[^47]: A 7. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (1) bekezdés b) pontjával megállapított szöveg.
+[^48]: A 7. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (1) bekezdés b) pontjával megállapított szöveg.

@@ -91,3 +91,5 @@
 ## A3 = Intenzív fizikai és kémiai kezelés, majd további kezelés és fertőtlenítés.
 
 2. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez
+
+Az e rendelet 1. számú mellékletében meghatározott minőségi jellemzők értékeinek mérésével szemben támasztott követelmények
