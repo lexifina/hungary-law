@@ -10,17 +10,21 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^286]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^292]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
-1. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátások kiadásai cím, 1. Nyugellátások alcím, 1. Öregségi nyugdíj jogcímcsoport tekintetében a kifizetett ellátások közül:
+1. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások cím, 1. Nyugellátások alcím, 1. Öregségi nyugdíj jogcímcsoport tekintetében a kifizetett ellátások közül:
 
-- öregségi nyugdíjként megállapított nyugdíjak,
+– öregségi nyugdíjként megállapított nyugdíjak,
 
-- rokkantsági nyugdíjként megállapított, átsorolt öregségi nyugdíj.
+– ebből: nők korhatár alatti nyugellátásaként megállapított, korbetöltött öregségi nyugdíj
 
-2. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátások kiadásai cím, 1. Nyugellátások alcím, 3. Hozzátartozói nyugellátás jogcímcsoport, 2. Özvegyi nyugellátás jogcím tekintetében a kifizetett ellátások közül:
+– rokkantsági nyugdíjként megállapított, átsorolt öregségi nyugdíj,
+
+– nők korhatár alatti nyugellátása.
+
+2. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások cím, 1. Nyugellátások alcím, 3. Hozzátartozói nyugellátás jogcímcsoport, 2. Özvegyi nyugellátás jogcím tekintetében a kifizetett ellátások közül:
 
 - özvegyi, szülői nyugellátás főellátásként: ideiglenes özvegyi nyugdíj főellátásként,
 
@@ -92,4 +96,4 @@
 
 – várólista csökkentés és egyéb szakmapolitikai célok fedezete.
 
-[^286]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1. pontja és 11. § 14. pontja szerint módosított szöveg.
+[^292]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja szerint módosított szöveg.

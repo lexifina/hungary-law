@@ -2,27 +2,12 @@
 
 (2) Az eredménykimutatás elkészítéséhez, a mérleg szerinti eredmény megállapításához szükséges adatokat az 5. és a 8. és a 9. számlaosztály könyvviteli számlái tartalmazzák.
 
-(3)[^216] A költségekről és megtérült költségekről szóló kimutatás elkészítéséhez szükséges adatokat a 7. számlaosztály és a (6) bekezdés szerinti bevételek könyvviteli számlái tartalmazzák. A 7. számlaosztályt a tevékenység során használt szakfeladatok szerint tovább kell tagolni.
+(3)[^219] A 6–7. számlaosztály vezetői információs igények kielégítésére, ezen belül elsősorban a szervezeti egységek elszámoltatására, a költséggazdálkodás, az önköltségszámítás sajátos rendszerének kialakítására használható.
 
-(4) A szakfeladathoz közvetlenül nem hozzárendelhető költségek évközi elszámolására a 6. számlaosztály használható. A 6. számlaosztályban a költségeket a következők szerint kell elszámolni:
+(4)–(6)[^220]
 
-a) a 61. Javító-karbantartó műhelyek költségei számlacsoportban kell kimutatni a tárgyi eszközök saját vállalkozásban megvalósított felújítási, javítási költségeit,
+(7)[^221]
 
-b) a 62. Egyéb kisegítő részlegek költségei számlacsoportban kell kimutatni azoknak az üzemeknek, műhelyeknek – például mosoda, energiaüzem, élelmezési üzem – a költségeit, amelyek nem közvetlenül szolgálják a tevékenységet,
-
-c) a 63. Szakmai egységek költségei számlacsoport tartalmazza a sajátos, az alaptevékenység részeként működő szakmai részlegek – például laboratóriumok, dokumentációs tárak, szertárak – költségeit,
-
-d) a 64. Szakágazatok általános költségei számlacsoport azoknak a költségeknek a kimutatására szolgál, amelyek több, azonos szakágazathoz tartozó szakfeladatot terhelnek,
-
-e) a 65. Vállalkozói részlegek költségei számlacsoportban kell kimutatni az önálló termelő, szolgáltató üzemek költségeit, ha azok kizárólag a vállalkozási tevékenység érdekében merülnek fel, és
-
-f) a 66. Központi irányítás költségei számlacsoport tartalmazza a szervezet egészére kiterjedő költségeket, ha azok nem a kisegítő vagy szakmai részlegekben merülnek fel.
-
-(5) A pénzügyi könyvvezetés során a költségeket elsődlegesen az 5. számlaosztályban költségnemek szerint, másodlagosan az 591. Költségnem átvezetési számla használatával a 6. vagy 7. számlaosztály könyvviteli számláin kell könyvelni.
-
-(6) Az eszközök és szolgáltatások értékesítése nettó eredményszemléletű bevételei, az egyéb működési célú támogatások eredményszemléletű bevételei és a felhalmozási célú támogatások eredményszemléletű bevételei elszámolására szolgáló könyvviteli számlákat a tevékenység során használt szakfeladatok szerint tovább kell tagolni.
-
-(7)[^217] Nem kötelező a 6. és 7. számlaosztály használata, és a (6) bekezdés szerinti tagolás elvégzése, ha a tevékenység egy szakfeladatot sem vagy kizárólag egy szakfeladatot érint.
-
-[^216]: A 46. § (3) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 27. pontja szerint módosított szöveg.
-[^217]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be.
+[^219]: A 46. § (3) bekezdése a 351/2016. (XI. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^220]: A 46. § (4)–(6) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^221]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be, hatályon kívül helyezte a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 4. pontja.

@@ -1,6 +1,6 @@
-49. § (1)–(3)[^243]
+49. § (1)–(3)[^247]
 
-(4)[^244] A Kincstár által vezetett lebonyolítási, fejezeti elszámolási, technikai számlák végleges felhasználását, azok visszatérítéseit, továbbá a költségvetési számvitel szerint bevételként elszámolandó növekedéseit az elszámolási, lebonyolítási, technikai feladathoz kapcsolódó központi kezelésű előirányzat, fejezeti kezelésű előirányzat költségvetési vagy finanszírozási bevételeként vagy kiadásaként, más pénzforgalmát a 48. § (3) bekezdése szerint kell elszámolni. A számlák felett rendelkezni jogosult költségvetési szerv a számlák pénzforgalmát a saját nyilvántartási számláin bevételként vagy kiadásként nem számolhatja el.
+(4)[^248] A Kincstár által vezetett lebonyolítási, fejezeti elszámolási, technikai számlák végleges felhasználását, azok visszatérítéseit, továbbá a költségvetési számvitel szerint bevételként elszámolandó növekedéseit az elszámolási, lebonyolítási, technikai feladathoz kapcsolódó központi kezelésű előirányzat, fejezeti kezelésű előirányzat költségvetési vagy finanszírozási bevételeként vagy kiadásaként, más pénzforgalmát a 48. § (3) bekezdése szerint kell elszámolni. A számlák felett rendelkezni jogosult költségvetési szerv a számlák pénzforgalmát a saját nyilvántartási számláin bevételként vagy kiadásként nem számolhatja el.
 
-[^243]: A 49. § (1)–(3) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
-[^244]: A 49. § (4) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^247]: A 49. § (1)–(3) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^248]: A 49. § (4) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 32. pontja szerint módosított szöveg.

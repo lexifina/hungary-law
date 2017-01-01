@@ -20,7 +20,7 @@
 
 (10a)[^114] Az egyéb ráfordítások között kell elszámolni az immateriális jószág, a tárgyi eszköz értékesítésekor azok könyv szerinti értékét, a hiányzó, megsemmisült, állományból kivezetett – részesedésnek vagy értékpapírnak nem minősülő – eszközök könyv szerinti értékét, és a (11) bekezdés szerinti különféle egyéb ráfordításokat.
 
-(11)[^115] A különféle egyéb ráfordítások között kell elszámolni az anyagok, áruk veszteségjellegű leltárértékelési különbözetének összegét, a kötelezett megszűnése és a más okból behajthatatlan – vásárolt követelésnek nem minősülő – követelés leírt összegét, a térítés nélkül átadott részesedésnek vagy értékpapírnak nem minősülő eszközök nyilvántartás szerinti értékét, valamint a (11a) bekezdés szerinti más különféle egyéb ráfordításokat.
+(11)[^115] A különféle egyéb ráfordítások között kell elszámolni az anyagok, áruk veszteségjellegű leltárértékelési különbözetének összegét, a kötelezett megszűnése és a más okból behajthatatlan – vásárolt követelésnek nem minősülő – követelés leírt összegét, a térítés nélkül átadott részesedésnek, értékpapírnak vagy vásárolt követelésnek nem minősülő – eszközök nyilvántartás szerinti értékét, valamint a (11a) bekezdés szerinti más különféle egyéb ráfordításokat.
 
 (11a)[^116] A más különféle egyéb ráfordítások között kell elszámolni
 
@@ -41,7 +41,7 @@ g)[^120] az Szt. 81. § (2) bekezdés k)–m) pontjában meghatározott gazdasá
 [^112]: A 26. § (4) bekezdése a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
 [^113]: A 26. § (10) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 22. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^114]: A 26. § (10a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 95. §-a iktatta be, szövege a 351/2016. (XI. 18.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
-[^115]: A 26. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 402/2015. (XII. 15.) Korm. rendelet 22. § 9. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
+[^115]: A 26. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 402/2015. (XII. 15.) Korm. rendelet 22. § 9. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 3–4. pontja szerint módosított szöveg.
 [^116]: A 26. § (11a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^117]: A 26. § (11a) bekezdés a) pontja a 402/2015. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^118]: A 26. § (11a) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
