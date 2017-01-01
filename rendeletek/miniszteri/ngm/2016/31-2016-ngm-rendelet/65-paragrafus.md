@@ -1,0 +1,3 @@
+65. § (1) A gyártói tesztelés, illetve tanúsítás céljából üzembe állított AFE-k tekintetében az AP számot a felügyeleti szolgáltató kérésére a NAV adja. Az AP szám meghatározásakor a 64. § (2) bekezdés a) pontjában meghatározott karakterként gyártói teszt illetve tanúsítás esetén „Y”. Az így rendszerbe állított AFE-k kizárólag tesztelési célra használhatók.
+
+(2) A felügyeleti szolgáltató az (1) bekezdés szerinti AFE rendszerbe állításáról, üzemeltetési helyéről és üzemeltetésének megszüntetéséről elektronikus úton adatot szolgáltat a NAV részére az adatszolgáltatásra okot adó körülmény bekövetkezését követő 5 napon belül.

@@ -1,0 +1,7 @@
+34. § (1) Az üzemeltetőt e rendelet alapján megillető kötbér az arra okot adó szerződésszegő magatartás bekövetkezésének napjától a szerződésszegés megszűnésének napjáig jár.
+
+(2) A felügyeleti szolgáltatót terhelő kötbérfizetési kötelezettségnek a felügyeleti szolgáltató a szerződésszegő magatartás megszűnésétől számított 30 napon belül – az üzemeltetőt megillető kötbér mértékéről, a kötbérfizetésre okot adó szerződésszegő magatartásról és a kötbérfizetési kötelezettség teljesítésének módjáról szóló kifejezett tájékoztatással együtt – köteles eleget tenni. A felügyeleti szolgáltató köteles továbbá a kötbér összegének meghatározására általa alkalmazott számítást a tájékoztatásban olyan módon feltüntetni, hogy az üzemeltető számára lehetővé váljon a számítás helyességének ellenőrzése. A kötbérfizetési kötelezettség teljesítését a felügyeleti szolgáltató nem kötheti az üzemeltető kötbérre vonatkozó igényének bejelentéséhez. A felügyeleti szolgáltató a kötbérfizetési kötelezettségének úgy köteles eleget tenni, hogy
+
+a) a kötbért a havi számlán, vagy előre fizetett szolgáltatás esetén az üzemeltető egyenlegén jóváírja, vagy
+
+b) az üzemeltetői szerződés megszűnése esetében a kötbért vagy annak meg nem fizetett részét az üzemeltető részére egy összegben, jelenlévők esetében az ügyfélszolgálaton, távollévők esetében – amennyiben a felügyeleti szolgáltató az üzemeltető szükséges adataival rendelkezik – banki átutalással, egyébként postai úton fizeti meg.

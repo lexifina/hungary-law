@@ -1,0 +1,3 @@
+12. § (1) A 7–8. §-ban, valamint a 11. §-ban foglalt feltételek teljesülését az engedélyező hatóság rendszeresen ellenőrzi. Amennyiben az engedélyező hatóság megállapítja, hogy a nyilvántartásba vett felügyeleti szolgáltató tekintetében a nyilvántartásba vételhez szükséges valamely feltétel nem áll fenn, az engedélyező hatóság 30 napos határidő tűzésével felszólítja a felügyeleti szolgáltatót a feltétel teljesítésére, és a jogszerű működés helyreállítására.
+
+(2) Az (1) bekezdésben előírt határidő eredménytelen elteltét követően az engedélyező hatóság határozatával a felügyeleti szolgáltatót a nyilvántartásból törli.
