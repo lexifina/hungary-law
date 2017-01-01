@@ -1,1 +1,0 @@
-## 27. § A fás szárú energetikai ültetvények védett természeti területen és Natura 2000 területen történő engedélyezése során szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint és a további feltételek mellett megfelel-e.

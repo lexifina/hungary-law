@@ -1,1 +1,0 @@
-## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a tájvédelem nemzeti és közösségi jogi követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.

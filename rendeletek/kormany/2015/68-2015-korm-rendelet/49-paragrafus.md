@@ -1,1 +1,0 @@
-## 48. § Az erdőterületen található védett növénytársulásokkal kapcsolatos erdészeti hatósági eljárásban szakkérdésként kell vizsgálni a védett és fokozottan védett életközösségekre vonatkozó korlátozásokról és tilalmakról szóló jogszabályban foglalt előírásoknak való megfelelést.

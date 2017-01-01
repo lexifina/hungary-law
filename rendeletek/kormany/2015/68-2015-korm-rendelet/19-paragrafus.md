@@ -1,5 +1,0 @@
-19. § (1) A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény (a továbbiakban: Fkbt.) 4/A. § (1) és (2) bekezdésében, valamint (3) bekezdés c) pontjában, 4/B. § (2), (5) és (6) bekezdésében, 6. § (2) bekezdésében, 7/A. § (4) bekezdésében, 9/A. § (2) bekezdésében, (3) bekezdés b) pontjában és (4) bekezdésében, 9/B. § (1)–(3) bekezdésében, valamint (5) és (6) bekezdésében, 9/C. § (1), (4) és (7) bekezdésében, 9/D. § (1)–(5) bekezdésében, 10. § (1) és (2) bekezdésében, 11/B. § (2) bekezdésében, 12/B. § (1) és (3) bekezdésében, 12/C. § (1) bekezdésében, valamint 13. § (4) bekezdésében foglaltak tekintetében a Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási jogkörében eljáró megyei kormányhivatalt jelöli ki.
-
-(2) Az Fkbt. 9/C. § (3) bekezdése szerinti kifogás a megyei kormányhivatal útján, a NÉBIH-nek címezve nyújtható be.
-
-(3) A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25/A. §-a tekintetében a Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási jogkörében eljáró megyei kormányhivatalt jelöli ki.

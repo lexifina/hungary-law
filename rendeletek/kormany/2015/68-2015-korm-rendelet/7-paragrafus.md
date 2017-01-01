@@ -1,5 +1,0 @@
-## 6. § Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 40. § (6) bekezdésének alkalmazásában a Kormány kereskedelmi hatóságként az élelmiszerlánc-biztonsági és állat-egészségügyi hatóságként eljáró járási hivatalt jelöli ki.
-
-7. § (1) A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény 4. § (6) bekezdés i) pontjában, 4. § (7) bekezdésében és 47. § (1) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként az élelmiszerlánc-biztonsági és állat-egészségügyi hatóságként eljáró megyei kormányhivatalt jelöli ki.
-
-(2) A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény 15. § (2) bekezdés a) pontjában és 43. § (3) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként az élelmiszerlánc-biztonsági és állat-egészségügyi hatóságként eljáró megyei kormányhivatalt és az élelmiszerlánc-biztonsági és állat-egészségügyi hatóságként eljáró járási hivatalt jelöli ki.

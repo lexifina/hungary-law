@@ -1,1 +1,0 @@
-## 39. § A védett természeti területre vonatkozó vadgazdálkodási üzemterv jóváhagyására irányuló eljárásban szakkérdésként kell vizsgálni, hogy a vadgazdálkodási üzemterv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.
