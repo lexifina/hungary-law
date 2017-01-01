@@ -16,12 +16,13 @@ a) a vészjelző- és riasztórendszerben (beleértve a vészvilágítást is),
 
 b)[^4] az orvosi felszerelésben, és
 
-c) a vezeték nélküli elektromos kézi szerszámban
+c)[^5]
 
 használt hordozható elemre és akkumulátorra nem vonatkozik.
 
-(4)[^5] Azok az elemek és akkumulátorok, amelyek nem felelnek meg az (1) bekezdésben előírt követelményeknek, azonban azokat az előírt forgalomba hozatali tilalom alkalmazási időpontját megelőzően jogszerűen hozták forgalomba, a készletek kimerüléséig forgalmazhatók.
+(4)[^6] Azok az elemek és akkumulátorok, amelyek nem felelnek meg az (1) bekezdésben előírt követelményeknek, azonban azokat az előírt forgalomba hozatali tilalom alkalmazási időpontját megelőzően jogszerűen hozták forgalomba, a készletek kimerüléséig forgalmazhatók.
 
 [^3]: A 3. § (2) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 26. § (1) bekezdése hatályon kívül helyezte.
 [^4]: A 3. § (3) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 25. § 1. pontja szerint módosított szöveg.
-[^5]: A 3. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^5]: A 3. § (3) bekezdés c) pontját a 370/2014. (XII. 30.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 3. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
