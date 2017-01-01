@@ -1729,4 +1729,4 @@
 2. számú melléklet a 147/1992. (XI. 6.) Korm. rendelethez[^10]
 
 [^9]: A 48/2001. (III. 27.) Korm. rendelet 3. §-ának (3) bekezdése alapján a helyi önkormányzatok kötelesek 2003. január 1-jéig ingatlanaikat értékelni, és az 1. számú mellékletben szerepeltetni.
-[^10]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 9. §-a szerint módosított szöveg.
