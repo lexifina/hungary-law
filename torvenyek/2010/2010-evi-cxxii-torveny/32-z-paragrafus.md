@@ -16,18 +16,8 @@ ab) hivatásos szolgálati jogviszonya a Hszt. 80. § (1) bekezdés f)–g) pont
 
 a továbbképzés befejezésétől számított 2 éven belül, vagy a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony NAV-val történt létesítésétől számított 6 éven belül megszűnik. A 4 évet meghaladó NAV-val fennálló jogviszony esetén a költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
 
-(5) A (4) bekezdés alapján a kormánytisztviselő, a pénzügyőr, az ügykezelő köteles megtéríteni a munkáltató által előírt
+(5) A (4) bekezdés alapján a kormánytisztviselő, a pénzügyőr, az ügykezelő köteles megtéríteni a munkáltató által előírt, nem a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által biztosított képzés költségeit, ha a képzés költségei meghaladják az állami adó- és vámhatóság vezetője által a foglalkoztatási szabályzatban meghatározott összeget.
 
-a) nyelvi képzés, valamint
+(5a)
 
-b) nem a NAV állományába tartozó oktató igénybevételével biztosított képzés
-
-költségeit.
-
-(5a) Az (5) bekezdés b) pontja szerinti költséget akkor kell megtéríteni, ha a képzés költségei meghaladják az állami adó- és vámhatóság vezetője által a foglalkoztatási szabályzatban meghatározott összeget.
-
-(6) A (4) bekezdés szerinti megtérítési kötelezettség alapja:
-
-a) a NAV által szervezett nyelvi továbbképzés esetén a képzésnek a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által az érintettel megkötött képzési szerződésben megállapított költségei,
-
-b) egyéb esetben az az összeg, amelyet a NAV a továbbképzésért megfizetett.
+(6) A (4) bekezdés szerinti megtérítési kötelezettség alapja az az összeg, amelyet a NAV a továbbképzésért megfizetett.

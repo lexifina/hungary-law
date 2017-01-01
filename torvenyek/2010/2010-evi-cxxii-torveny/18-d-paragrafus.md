@@ -4,7 +4,7 @@
 
 (2) Átirányítás esetén az érintettet helyettesítési díj illeti meg, kivéve, ha az (1) bekezdésben meghatározott feladatot eredeti munkaköre helyett látja el.
 
-(3) Ha az érintett eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan magasabb besorolású munkakört lát el, az átirányítás idejére az átirányítás szerinti munkakörre irányadó illetményre jogosult, kivéve, ha az kevesebb az eredeti illetményénél. Az átirányítás a pénzügyőr rendfokozatát nem érinti.
+(3) Ha az érintett eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan magasabb besorolású vagy magasabb mértékű közszolgálati pótlékra jogosító munkakört lát el, az átirányítás idejére az átirányítás szerinti munkakörre irányadó illetményre, illetve magasabb mértékű közszolgálati pótlékra jogosult, kivéve, ha az kevesebb az eredeti illetményénél. Az átirányítás a pénzügyőr rendfokozatát nem érinti.
 
 (4) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő, pénzügyőr, ügykezelő illetményének 10–50%-áig terjedhet. A helyettesítési díj mértékét a munkáltatói jogkör gyakorlója állapítja meg a foglalkoztatási szabályzatban meghatározottak figyelembevételével. A helyettesítési díj a helyettesítés első napjától jár.
 

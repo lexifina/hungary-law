@@ -12,6 +12,8 @@ fegyelmi büntetés szabható ki.
 
 (3) A tisztjelölt esetében a fegyelmi jogkör gyakorlója a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Vám- és Pénzügyőri Tanszékének tanszékvezetője, aki, illetve a vezetése alatt álló fegyelmi tanács csak az (1) bekezdés a)–b) pontja szerinti fegyelmi büntetést szabhatja ki. Ha a fegyelmi tanács szerint az (1) bekezdés c) pontja szerinti kizárás fegyelmi büntetés lenne indokolt, a fegyelmi jogkör gyakorlója az állami adó- és vámhatóság vezetője. Ilyen esetben a fegyelmi ügyet 8 napon belül fel kell terjeszteni az állami adó- és vámhatóság vezetőjéhez, aki – újabb fegyelmi tanács felállítása nélkül – 30 napon belül dönt az ügyben. Ilyen esetben akkor is az állami adó- és vámhatóság vezetője dönt az ügyben, ha álláspontja szerint nem a javasolt fegyelmi büntetés indokolt.
 
+(3a) A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
+
 (4) Ha a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Vám- és Pénzügyőri Tanszékének tanszékvezetőjével szemben a 33/Z. § (9) bekezdés szerinti valamely összeférhetetlenségi ok áll fenn, a fegyelmi jogkör gyakorlójaként az állami adó- és vámhatóság vezetője által kijelölt, a Központi Irányítás állományába tartozó, vezetői munkakört betöltő pénzügyőr jár el.
 
 (5) A 33/Y. § (3) bekezdés a) pontját tisztjelölt esetében az (1) bekezdés a)–b) pontja szerinti fegyelmi büntetés tekintetében kell alkalmazni.

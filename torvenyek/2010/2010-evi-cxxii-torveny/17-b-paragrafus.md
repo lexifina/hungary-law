@@ -2,7 +2,7 @@
 
 (2) A Hszt. 29. § b) pontját azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr más keresőfoglalkozást e törvénynek az összeférhetetlenségről szóló 33/B–33/F. §-a figyelembevételével folytathat.
 
-(3) Hivatásos állományba visszavétel esetén a pénzügyőrt a 20. §-nak megfelelően kell besorolni.
+(3) Hivatásos állományba visszavétel esetén a pénzügyőrt a 20/A. § (1)–(3) bekezdésének megfelelően kell besorolni.
 
 (4) A hivatásos szolgálati jogviszony létesítésekor 12 hónap próbaidőt kell kikötni, ami nem hosszabbítható meg.
 
@@ -16,7 +16,7 @@ b) a munkakör az e törvény szerinti előmenetel alapján a NAV-val kormányza
 
 (7) A Hszt. 63. § (3) bekezdés d) pontját és (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr az e törvény szerinti közszolgálati pótlékra jogosult.
 
-(8) meghatározott szervhez hivatásos munkakör betöltésére vezényelt pénzügyőr illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, minősítésére, pihenőidejére, a fegyelmi felelősségre vonásra, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni.
+(8) A Hszt. 66. § (1) bekezdés a) és b) pontját azzal az eltéréssel kell alkalmazni, hogy a Hszt. 51. § (2) bekezdésében meghatározott szervhez hivatásos munkakör betöltésére vezényelt pénzügyőr illetményére és illetmény jellegű juttatásaira, teljesítményértékelésére, minősítésére, pihenőidejére, a fegyelmi felelősségre vonásra, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni.
 
 (9) A Hszt. 68. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Közszolgálati Egyetemre vezényelt pénzügyőr az e törvény szerinti illetményre, pótlékokra, juttatásokra, támogatásokra és költségtérítésre jogosult. Egyebekben a Hszt. 68. § (3) bekezdése az irányadó.
 
@@ -36,8 +36,10 @@ b) a tartalékos-nyilvántartás kezelésével kapcsolatos részletszabályokat.
 
 (15) A Hszt. 147. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezés azon pénzügyőr tekintetében alkalmazandó, akit az állásából e törvény rendelkezései alapján felfüggesztettek.
 
-(16) A Hszt. 168. § (1) bekezdés alkalmazásában rendszeres illetménypótlék az idegennyelv-tudási pótlék.
+(16) A Hszt. 165. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Hszt. 165. § (1) bekezdés b)–d) pontjában meghatározott okból visszatartott távolléti díjat a kamataival utólag akkor kell kifizetni, ha a büntetőeljárás felmentéssel zárul.
 
-(17) A Hszt. 168. § (1) bekezdés alkalmazásában rendszeres illetménypótlék a vezetői pótlék, az idegennyelv-tudási pótlék és a veszélyességi pótlék.
+(17) A Hszt. 168. § (1) bekezdése alkalmazásában rendszeres illetménypótlék az időpótlék, a közszolgálati pótlék és az idegennyelv-tudási pótlék.
 
 (18) A Hszt. 123. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a NAV tv. 20. §-ában meghatározott feltételek teljesülése ellenére sem léptethető elő a pénzügyőr a Hszt. 123. § (1) bekezdésében meghatározott esetekben.
+
+(19) A Hszt. 126. §-át azzal az eltéréssel kell alkalmazni, hogy ha a pénzügyőrt alacsonyabb besorolású munkakörbe nevezik ki, és az új munkakör besorolási kategóriájához rendelt fizetési fokozata szerinti rendfokozata alacsonyabb a viselt rendfokozatánál, a pénzügyőr továbbra is a magasabb rendfokozat viselésére jogosult, ha hivatásos szolgálati jogviszonya 2016. július 1-je előtt a NAV-nál fennállt.

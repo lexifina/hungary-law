@@ -14,6 +14,8 @@ c) kormányzati ügykezelőkből (a továbbiakban: ügykezelő) és
 
 d) munkavállalókból
 
+e) tisztjelöltekből
+
 áll.
 
 (1a) Az (1) bekezdés a)–d) pontjaiba tartozó személyek a továbbiakban együtt foglalkoztatottak.
@@ -22,7 +24,7 @@ d) munkavállalókból
 
 a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.),
 
-b) pénzügyőrökre a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.),
+b) pénzügyőrökre és tisztjelöltekre a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.),
 
 c) munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.)
 

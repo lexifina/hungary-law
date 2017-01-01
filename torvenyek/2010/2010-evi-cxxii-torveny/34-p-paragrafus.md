@@ -13,3 +13,5 @@
 (7) A munkáltató köteles megtéríteni a foglalkoztatott hozzátartozójának a károkozással összefüggésben felmerült kárát is.
 
 (8) Amennyiben a foglalkoztatott meghal, az eltartott hozzátartozó a (7) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségletének – a tényleges vagy az elvárhatóan elérhető illetményét, munkabérét, jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
+
+(9) Az egészségi alkalmatlanság kialakulásával összefüggésben a rendvédelmi szerv kártérítési felelősségének megállapítása esetén a hivatásos állomány tagját, volt tagját megillető elmaradt jövedelem mértékének megállapításakor az egészségkárosodási ellátást is figyelembe kell venni.

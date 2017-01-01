@@ -1,4 +1,4 @@
-99/N. § (1) A kormánytisztviselő, pénzügyőr 2018. január 1-jét követően az e törvény szerinti illetményre jogosult.
+99/N. § (1) A kormánytisztviselő, pénzügyőr 2018. január 1-jét követően az e törvény szerinti illetményre jogosult azzal, hogy az nem lehet kevesebb, mint a 2017. december 31-én folyósított illetménye.
 
 (2) A kormánytisztviselő és a pénzügyőr részére megállapított kompenzációs díj összegét 2018. január 1-jétől megfelelően csökkenteni kell
 
@@ -12,7 +12,11 @@ d) 31/A. § szerinti címadományozás,
 
 e) magasabb mértékű közszolgálati pótlékra jogosító munkakörbe történő kinevezés,
 
-f) fizetési fokozatban történő előresorolás
+f) fizetési fokozatban történő előresorolás,
+
+g) magasabb mértékű időpótlékra való jogosultság megszerzése, valamint
+
+h) idegennyelv-tudási pótlék összegének megváltozása
 
 esetén.
 

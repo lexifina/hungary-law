@@ -8,7 +8,7 @@ a) a fizetési fokozatban történő előresorolásakor, illetményének e törv
 
 b) az érintett előmeneteléhez előírt vizsgakötelezettség törvény szerinti megállapításakor,
 
-c) a kormánytisztviselő, ügykezelő munkavégzési helyének kizárólag a település területén belüli megváltoztatásakor,
+c) a kormánytisztviselő, ügykezelő munkavégzési helyének kizárólag a település területén belüli megváltoztatásakor, továbbá a pénzügyőr szolgálatteljesítési helyének az adott NAV szerven belüli módosításakor,
 
 d) azonos besorolású más munkakörbe helyezéskor, kivéve, ha a nem hivatásos munkakörbe helyezés a pénzügyőr hivatásos szolgálati jogviszonyának kormányzati szolgálati jogviszonnyá alakulásával járna,
 

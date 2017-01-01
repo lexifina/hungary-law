@@ -8,4 +8,4 @@
 
 (5) Az (1) és (3) bekezdés szerinti esetben a pénzügyőr mindaddig nem léphet magasabb fizetési fokozatba, illetve egyidejűleg magasabb rendfokozatba, ameddig a jogviszonyban töltött ideje, vagy a munkáltatói intézkedés alapján arra jogosultságot nem szerez.
 
-(6) Ha a pénzügyőrt alacsonyabb besorolású munkakörbe nevezik ki, és az új munkakör besorolási kategóriájához rendelt fizetési fokozata szerinti rendfokozata alacsonyabb a viselt rendfokozatánál, a pénzügyőr továbbra is a magasabb rendfokozat viselésére jogosult.
+(6)

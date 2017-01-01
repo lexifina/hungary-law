@@ -6,9 +6,9 @@
 
 (4) NAV-on belüli vezénylés esetén a vezénylés időtartama alatt a munkáltatói jogkört a vezénylés helye szerinti szerv munkáltatói jogkör gyakorlója gyakorolja azzal, hogy a hivatásos szolgálati jogviszony megszüntetésére, módosítására, valamint – amennyiben az nem a kijelölt miniszter hatáskörébe tartozik – a méltatlansági eljárás megindítására és lefolytatására az eredeti munkáltatói jogkör gyakorlója jogosult, továbbá a vezénylés helye szerinti munkáltatói jogkör gyakorlója a fegyelmi jogkört csak az e törvény szerinti korlátozással, a kártérítési jogkört csak az e törvény szerinti esetben gyakorolja.
 
-(5)
+(5) A 30 napot meghaladó vezénylés esetén a pénzügyőr a vezénylés ideje alatt ellátott munkaköri feladatoknak megfelelő közszolgálati pótlékra jogosult a vezénylés idejére.
 
-(6) NAV-on belüli vezénylés esetén a vezénylés időtartamára járó illetményt és egyéb járandóságot az a szerv biztosítja, amelytől a vezénylés történt.
+(6)
 
 (7) A NAV állományából külföldre vezényelt pénzügyőr a vezénylés időtartama alatt a más szerv foglalkoztatottjaira vonatkozó szabályok szerint jogosult szabadságra.
 

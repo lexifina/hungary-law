@@ -1,6 +1,6 @@
 17/C. § (1) A Hszt. 86. § (2) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr hivatásos szolgálati jogviszonyát – az a) pont tekintetében az (1a) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel meg kell szüntetni, ha
 
-a) egészségi, pszichikai vagy fizikai állapota alapján
+a) pszichikai, fizikai vagy – a Hszt. 82/A. §-ban foglalt személyi kör kivételével – egészségi állapota alapján
 
 aa) a hivatásos szolgálatra alkalmatlanná vált, vagy
 
@@ -23,3 +23,13 @@ c) a megváltozott munkaképességű személyek ellátására jogosultságot sze
 (2) A pénzügyőr a részére felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított 5 munkanapon belül köteles írásban nyilatkozni. A nyilatkozat elmulasztását úgy kell tekintetni, mintha a felajánlott munkakört elutasította volna.
 
 (3) Amennyiben a pénzügyőr a részére felajánlott nem hivatásos munkakört elfogadja, hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá alakul.
+
+(4) A Hszt. 82/B. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr részére az (1a) bekezdésében meghatározott eljárásrend megfelelő alkalmazásával kell felajánlható hivatásos vagy nem hivatásos munkakört keresni.
+
+(5) A Hszt. 82/D. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az állami adó- és vámhatóság vezetője az egészségügyi, a humánigazgatási szakterület, valamint a hivatásos állományú tagok érdekképviseletét ellátó szervek képviselőiből álló bizottságot hoz létre, amely bizottság a döntését az ügy átvételét követő tizenöt napon belül hozza meg.
+
+(6) A Hszt. 82/D. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a NAV vezetője az (5) bekezdés szerinti bizottság döntésének kézhezvételét követő harminc napon belül dönt.
+
+(7) A Hszt. 82/H. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha az illetményalap emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell.
+
+(8) Az egészségkárosodási ellátásra jogosultsággal kapcsolatban meghozott döntéssel szemben, annak kézhezvételétől számított 15 napon belül szolgálati panaszt lehet benyújtani.
