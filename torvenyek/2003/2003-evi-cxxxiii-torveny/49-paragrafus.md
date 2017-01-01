@@ -20,7 +20,7 @@ a közgyűlés által erre kijelölt szerv (a továbbiakban: kijelölt szerv) r�
 
 (4) A kijelölt szerv a kizáró ok fennállásának megállapítása céljából kezeli a tisztségviselőként, társasházkezelőként, ingatlankezelőként jogviszonyt létesíteni szándékozó személy, illetve a tisztségviselő, a társasházkezelő, az ingatlankezelő azon személyes adatait, amelyeket a kizáró ok fennállásának megállapítása céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz. A személyes adatokat a tisztségviselő megbízatásának, a társasház-kezelői, az ingatlankezelői tevékenység megkezdésének időpontjáig, vagy – a megbízatás elfogadása, a tevékenység megkezdése esetén – a tisztségviselői megbízatás, a társasház-kezelői, az ingatlankezelői tevékenység megszűnéséig lehet kezelni.
 
-(5) A tisztségviselői, társasház-kezelői, ingatlankezelői jogviszonyt létesíteni kívánó személy, illetve a közgyűlés felhívására a tisztségviselő, társasházkezelő, ingatlankezelő a megbízásának időtartama alatt a tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást a kijelölt szerv részére köteles bemutatni.
+(5) A tisztségviselői, társasház-kezelői, ingatlankezelői jogviszonyt létesíteni kívánó személy, illetve a közgyűlés felhívására a tisztségviselő, társasházkezelő, ingatlankezelő a megbízásának időtartama alatt a tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást – amennyiben a köztartozásmentes adózói adatbázisban nem szerepel – a kijelölt szerv részére köteles bemutatni.
 
 (6) A közgyűlés azonnali hatállyal felmenti a tisztségviselőt, visszavonja a társasház-kezelői, az ingatlankezelői tevékenység végzésére vonatkozó megbízatást, ha
 

@@ -2,6 +2,6 @@
 
 (2) Az építtető tulajdonostárs a többi tulajdonostárs hozzájáruló nyilatkozatának beszerzése nélkül jogosult a lakásában tervezett olyan építkezés elvégzésére, amely miatt az alapító okiratot nem kell módosítani és az (1) bekezdésben említett körülmények nem állnak fenn.
 
-(3) Ha a (2) bekezdésben említett – az építésügyi hatóság jogerős és végrehajtható építési engedélye alapján elvégzett – munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
+(3) Ha a (2) bekezdésben említett munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
 
-(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni. A változás ingatlan-nyilvántartásba történő bejegyzésének feltétele, hogy az építtető tulajdonostárs az építésügyi hatóság jogerős és végrehajtható használatbavételi engedélyét az ingatlan-nyilvántartási iratokhoz csatolja.
+(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.

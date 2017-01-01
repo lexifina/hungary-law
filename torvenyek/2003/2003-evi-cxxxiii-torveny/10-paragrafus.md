@@ -10,4 +10,4 @@
 
 (5) A (2)–(3) bekezdések szerinti határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
 
-(6) A közgyűlés határozata alapján – ha az (1)–(3) bekezdésekben meghatározott feltételek egyike sem áll fenn – bármely tulajdonostárs kérheti a bíróságtól, hogy a közös tulajdonban álló olyan épületrészre, amely önálló ingatlanként kialakítható, vagy amellyel a meglevő külön tulajdon tárgya bővíthető, megszüntesse a közös tulajdont, ha az a kisebbség méltányos érdekét nem sérti. A kereseti kérelemhez mellékelni kell az önálló ingatlan kialakítására vonatkozó, az építésügyi hatóság által engedélyezett építési tervet.
+(6) A közgyűlés határozata alapján – ha az (1)–(3) bekezdésekben meghatározott feltételek egyike sem áll fenn – bármely tulajdonostárs kérheti a bíróságtól, hogy a közös tulajdonban álló olyan épületrészre, amely önálló ingatlanként kialakítható, vagy amellyel a meglevő külön tulajdon tárgya bővíthető, megszüntesse a közös tulajdont, ha az a kisebbség méltányos érdekét nem sérti.

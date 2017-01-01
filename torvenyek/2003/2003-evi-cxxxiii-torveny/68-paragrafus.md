@@ -1,0 +1,1 @@
+68. § Felhatalmazást kap az ingatlan-nyilvántartásért felelős miniszter, hogy a társasház alapítással, valamint az alapító okirat módosításával összefüggésben az ingatlan-nyilvántartási eljáráshoz benyújtandó dokumentumokat rendeletben szabályozza.
