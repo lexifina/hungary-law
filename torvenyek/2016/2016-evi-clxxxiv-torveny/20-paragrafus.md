@@ -1,0 +1,1 @@
+20. § A Hdt. 28. § d) pontjában a „segédeszköz ellátásának” szövegrész helyébe a „segédeszközzel történő ellátásának, valamint a 18. § (1) bekezdés c) pontja szerinti eszközök körének és a támogatás mértékének” szöveg lép.
