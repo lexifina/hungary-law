@@ -8,9 +8,9 @@ b) a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézked�
 
 c) légitámadás esetére a légiriasztási rendszer szabályait,
 
-d) a miniszterek honvédelmi igazgatási feladatait,
+d) az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a központi államigazgatási szervek honvédelmi tevékenységét, az azzal kapcsolatos irányítási és vezetési rendet, valamint honvédelmi igazgatási feladat- és hatáskörét,
 
-e) a helyi védelmi igazgatási szervek szakmai felügyeleti, ellenőrzési rendszerét és rendjét, továbbá a katonai igazgatás területi szervei illetékességi területeit,
+e) a területi és helyi védelmi igazgatási szervek működését, jogkörét, felügyeleti és ellenőrzési rendszerét, a területi védelmi igazgatási szervek vezetőinek feladat- és hatáskörét, a katonai igazgatási szervek kijelölését, feladat- és hatáskörét, illetékességi területét,
 
 f) a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítását szolgáló szabályokat,
 
@@ -34,7 +34,11 @@ o) a fegyveres összeütközések időszakában végrehajtandó polgári védelm
 
 p) a tűzszerészeti mentesítési feladatok ellátásával összefüggő szabályokat,
 
-q) a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait és az eljáró hatóságot.
+q) a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait és az eljáró hatóságot,
+
+r) a határátlépéssel járó csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány hatáskörébe tartozó határátlépéssel járó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat,
+
+s) a Honvédség személyi állományának kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos további feladatokat.
 
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 
@@ -46,11 +50,19 @@ c) a katonai futárszolgálat feladatait,
 
 d) a Szolgálati Szabályzat részeként
 
-da) a szolgálati tevékenység, a készenléti és ügyeleti szolgálati rendszer működéseinek részleteit,
+da) a Honvédség szervezeteinek rendeltetésére vonatkozó alapvető szabályokat,
 
-db) az önkéntes tartalékos őrzésvédelmi és a katonai rendészeti tevékenység teljesítését,
+db) a katonai függelemre, szolgálati rendre, szolgálati érintkezésre és a katonai udvariasságra vonatkozó szabályokat, a honvédek napi tevékenységét,
 
-dc) a személyi szabadság korlátozásának eljárási szabályait és a végrehajtásának módját, a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,
+dc) az egyes szolgálati személyek kötelmeit,
+
+dd) az ügyeleti és készenléti szolgálati rendszer, valamint a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölés rendeltetését, működését,
+
+de) az őrzés-védelem rendeltetését, szervezését, az őrségek feladatait, alárendeltségét, az őrök kötelességeit,
+
+df) a katonai rendészeti tevékenységet,
+
+dg) az intézkedések végrehajtásának eljárási szabályait, módját, a kényszerítő eszközök alkalmazásának szabályait, a kényszerítő eszközök alkalmazása kivizsgálásának eljárási szabályait,
 
 e) a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe, irányítása, fenntartói irányítása és felügyelete alá tartozó, valamint a Honvédség hadrendje szerinti szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
 
@@ -62,7 +74,7 @@ h) a meg nem térülő károk leírással vagy törléssel történő rendezés�
 
 i) az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 
-j) a Honvédségnél rendszeresített igazolványok fajtáit, az igazolványok kezelését és kiadását,
+j)
 
 k) a behívásra tervezhető létszámot, a katonai szolgálat időtartamát, a katonai szolgálatra való behívás időpontját,
 
@@ -86,4 +98,10 @@ a) a Honvédség által a Köztársasági Elnöki Hivatalnál foglalkoztatottak 
 
 b) a nyugállományú katonák és a honvédelmi szervezettől nyugdíjba vonult közalkalmazottak segítését célul kitűző civil szervezetek természetbeni támogatásával összefüggő szabályokat.
 
-(3) Felhatalmazást kapnak a miniszterek, hogy feladatkörükben eljárva a honvédelemért felelős miniszterrel egyetértésben, rendeletben határozzák meg ágazatuk honvédelmi feladatait, valamint az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.
+(3) Felhatalmazást kapnak a miniszterek, hogy a honvédelemért felelős miniszterrel egyetértésben rendeletben
+
+a) határozzák meg ágazatuk honvédelmi feladatait,
+
+b) a feladat- és hatáskörüket érintően honvédelemben közreműködő szerveket jelöljenek ki, részükre honvédelmi kötelezettség teljesítésében való közreműködés kötelezettségét állapítsák meg,
+
+c) határozzák meg az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.

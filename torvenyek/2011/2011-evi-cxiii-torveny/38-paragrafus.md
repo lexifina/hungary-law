@@ -10,11 +10,9 @@
 
 (3) A Honvédséget a szárazföldi csapatok, a légierő csapatai, a logisztikai és támogató erők, valamint a Honvédség feladatainak végrehajtása érdekében egyéb szaktevékenységet folytató szervezetek alkotják. A szárazföldi csapatok és a légierő csapatai haderőnemet képeznek. A haderőnemek fegyvernemekből és szakcsapatokból tevődnek össze. A katonai igazgatás szervei a Honvéd Vezérkar főnöke alárendeltségébe tartoznak.
 
-(4) A honvéd tisztjelölt a Honvédség önálló állománytáblával rendelkező, a Honvéd Vezérkar főnöke közvetlen alárendeltségébe tartozó Ludovika Zászlóalj állományába tartozik, emellett a Nemzeti Közszolgálati Egyetemmel (a továbbiakban: NKE) hallgatói jogviszonyban áll.
+(4)–(5)
 
-(5) A Ludovika Zászlóalj az NKE-n folyó képzés céljainak megvalósítását biztosítva látja el katonai feladatait. A Ludovika Zászlóalj – az NKE-vel együttműködésben – a honvéd tisztjelöltek kiképzésének gyakorlati részét haditechnikai eszközeinek és anyagainak felhasználásával, állami tulajdonú és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló ingatlanok igénybevételével biztosítja.
-
-(6) A honvéd altiszt-jelölt a Honvédség önálló állománytáblával rendelkező, a Honvéd Vezérkar főnöke közvetlen alárendeltségébe tartozó Altiszti Akadémia állományába tartozik, emellett az Altiszti Akadémiával tanulói jogviszonyban áll.
+(6)
 
 (7) A Honvédség szervezeti felépítésére, működésére, haditechnikai eszközeire és anyagaira, valamint hadfelszerelésére vonatkozó adatok a keletkezésüktől számított 30 évig honvédelmi és nemzetbiztonsági érdekből nem nyilvánosak. Ezen adatok megismerését a honvédelmi és a nemzetbiztonsági érdek mérlegelésével a Honvéd Vezérkar főnöke engedélyezheti.
 

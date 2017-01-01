@@ -8,14 +8,16 @@
 
 (4) Nincs helye kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört, vagy az intézkedés eredményessége e nélkül is biztosítható.
 
-(5) E törvény alkalmazásában – súlyosságuk sorrendjében – a lőfegyveren kívül kényszerítő eszközök a következők:
+(5) E törvény alkalmazásában a lőfegyveren kívüli kényszerítő eszközök a következők:
 
 a) testi kényszer,
 
 b) könnygázszóró készülék,
 
-c) gumibot,
+c) elektromos sokkoló eszköz,
 
-d) bilincs,
+d) gumibot,
 
-e) szolgálati kutya.
+e) bilincs,
+
+f) szolgálati kutya.

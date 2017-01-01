@@ -10,7 +10,7 @@ a) fegyveres szolgálat ellátása során a maga vagy társa, az őrzött, véde
 
 b) fogoly őrzésére, kísérésére irányuló szolgálatban, ha a fogva tartott vagy bárki az őrt megtámadja,
 
-c) katonai rendészeti szolgálatban a katona vagy polgári személy részéről a katonai rendészt ért támadás elhárítására, és a jogszerű intézkedéssel szembeni tettleges ellenállás leküzdésére.
+c) a szolgálatban lévő katonai rendész a katona vagy a polgári személy általi támadás elhárítására, és a jogszerű intézkedéssel szembeni tettleges ellenállás leküzdésére.
 
 (4) A támadás az a tevékenység, amely a támadó részéről közvetlenül:
 

@@ -12,7 +12,7 @@ d) irányítja az illetékességi területe honvédelmi feladataihoz szükséges
 
 e) közreműködik a különleges jogrendben hozott rendkívüli intézkedésekből adódó feladatok végrehajtásában,
 
-f) béke, rendkívüli állapot, szükségállapot, megelőző védelmi helyzet és váratlan támadás idején szervezi és összehangolja a lakosság polgári védelmével és ellátásával kapcsolatos feladatokat.
+f) béke, rendkívüli állapot, szükségállapot, megelőző védelmi helyzet, terrorveszélyhelyzet és váratlan támadás idején szervezi és összehangolja a lakosság polgári védelmével és ellátásával kapcsolatos feladatokat.
 
 (3) A helyi védelmi bizottság kiadásainak és működési költségeinek fedezetét a járási hivatal részére az egyes honvédelmi feladatokra biztosított költségvetési összegből és céltámogatásból, továbbá a helyi védelmi bizottság illetékességi területéhez tartozó településekre háruló honvédelmi feladatok és a lakosság létszámának arányában meghatározott normatív állami támogatásból kell biztosítani.
 

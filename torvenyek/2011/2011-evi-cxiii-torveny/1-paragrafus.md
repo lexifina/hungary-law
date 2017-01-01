@@ -13,3 +13,5 @@
 (3) A honvédelemre való felkészülésben és a honvédelmi feladatok végrehajtásában e törvényben meghatározott keretek között a törvény alapján létrehozott jogalanyok és minden Magyarországon tartózkodó ember a szolgáltatások, az állampolgárok pedig a személyes szolgálat teljesítésével vesznek részt.
 
 (4) A honvédelmi kötelezettségek teljesítése az érintettek számára békében nem okozhat aránytalan megterhelést vagy hátrányt.
+
+(5) Az állampolgárok honvédelmi feladatokra való felkészülése békében az önkéntes vállaláson alapszik, melyhez az állam biztosítja – különösen a honvédelmi nevelés keretein belül – a szükséges felkészítő ismeretek elsajátításának szervezett feltételeit.

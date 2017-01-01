@@ -1,3 +1,3 @@
 ## 52. Átmeneti rendelkezések
 
-84. § E törvény 25. § (3) és (4) bekezdése, valamint a 27. § (4) bekezdése szerinti honvédelmi elnökhelyettesi funkciót 2013. december 31-ig kormánytisztviselő is elláthatja.
+84. § A 22. § (4) bekezdését a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosításáról szóló 2016. évi CXXXIII. törvény hatálybalépésekor el nem évült követelésekre is alkalmazni kell.

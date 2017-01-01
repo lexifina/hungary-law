@@ -4,7 +4,7 @@
 
 (2) A megyei védelmi bizottság elnöke a honvédelmi igazgatási feladatok vonatkozásában hatósági jogkört gyakorol.
 
-(3) A honvédelmi feladatok végrehajtásakor a rendkívüli állapot, megelőző védelmi helyzet, szükségállapot és váratlan támadás idején bevezetett intézkedések végrehajtása során a megyei védelmi bizottság teljes jogkörét annak elnöke a Honvédség állományába tartozó elnökhelyettessel egyetértésben gyakorolja.
+(3) A honvédelmi feladatok végrehajtásakor a rendkívüli állapot, megelőző védelmi helyzet, szükségállapot, terrorveszélyhelyzet és váratlan támadás idején bevezetett intézkedések végrehajtása során a megyei védelmi bizottság teljes jogkörét annak elnöke a Honvédség állományába tartozó elnökhelyettessel egyetértésben gyakorolja.
 
 (4) A megyei védelmi bizottság elnöke a kormánymegbízott, elnökhelyettesei a honvédelmi feladatok tekintetében a Honvédség állományába tartozó tényleges állományú katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője. Tagjai az elnökön és az elnökhelyettesen kívül
 

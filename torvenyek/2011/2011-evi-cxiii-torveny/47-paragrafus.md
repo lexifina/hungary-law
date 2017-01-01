@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti parancsnokok irányítói hatáskörét a Honvédség irányításának és felső szintű vezetésének rendjéről szóló kormányrendeletnek megfelelően a honvédelemért felelős miniszter határozza meg.
 
-(3) Külföldi szolgálatot teljesítő egyes katonai szervezetek, valamint egyéni beosztást betöltő katonák a szövetséges fegyveres erők közös parancsnoksága vagy más nemzetközi parancsnokság élén álló parancsnok hadműveleti irányítása és vezetése alá helyezhetők.
+(3) Egyes katonai szervezetek – ideértve az ideiglenes alkalmi kötelékeket is –, valamint egyéni beosztást betöltő katonák a szövetséges fegyveres erők közös parancsnoksága, más nemzetközi parancsnokság vagy szövetséges nemzeti fegyveres erő élén álló parancsnok műveleti irányítása és vezetése alá helyezhetők, az átvevő parancsnokságra vagy parancsnokra vonatkozó szabályok figyelembevételével.
 
-(4) A katonai szervezetek hadműveleti irányítására és vezetésére vonatkozó előírásokat a szövetséges fegyveres erők közös parancsnokságának alárendeltségébe kerülő magyar katonai szervezetek vezetése során a szövetséges fegyveres erőkre vonatkozó szabályok figyelembevételével kell alkalmazni.
+(4)

@@ -10,8 +10,4 @@ A honvédelemért felelős miniszter és az MNV Zrt. a 22/A. § alapján az áll
 
 4. HM ArmCom Kommunikációtechnikai Zártkörűen Működő Részvénytársaság,
 
-5. HM Térképészeti Közhasznú Nonprofit Kft.,
-
-6. HM Zrínyi Kommunikációs Szolgáltató Nonprofit Közhasznú Kft.
-
-7. HM Bessenyei György Kulturális és Üdültetési Közhasznú Nonprofit Kft.
+5. HM Zrínyi Térképészeti és Kommunikációs Szolgáltató Közhasznú Nonprofit Korlátolt Felelősségű Társaság.

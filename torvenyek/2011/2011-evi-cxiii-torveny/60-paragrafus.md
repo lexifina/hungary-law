@@ -1,6 +1,6 @@
 60. § (1) A katona testi erővel a támadás elhárítására, valamely cselekvés kikényszerítésére vagy abbahagyására, valamint a jogszerű intézkedéssel szembeni ellenszegülés megtörésére testi kényszert alkalmazhat.
 
-(2) Ha a testi kényszer a célját nem érte el vagy alkalmazására nincs lehetőség, a cél elérésére könnygázszóró készülék vagy gumibot használható.
+(2) Ha a testi kényszer a célját nem érte el vagy alkalmazására nincs lehetőség, a cél elérésére könnygázszóró készülék, elektromos sokkoló eszköz vagy gumibot használható.
 
 (3) Bilincs alkalmazható a személyi szabadságában korlátozott vagy korlátozni szükséges katona, vagy polgári személy
 

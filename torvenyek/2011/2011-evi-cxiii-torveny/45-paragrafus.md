@@ -8,7 +8,7 @@ a) rendszeresen ellenőrzi a jogszabályok betartását,
 
 b) jogszabálysértő gyakorlat észlelése esetén törvényes eljárásra utasítja a jogszabálysértőt,
 
-c) megsemmisíti, vagy megváltoztatja a jogszabálysértő intézkedéseket, belső rendelkezéseket,
+c) megsemmisíti, vagy megváltoztatja a jogszabálysértő belső rendelkezéseket,
 
 d) megsemmisíti, vagy megváltoztatja az egyedi ügyben hozott jogszabálysértő döntéseket.
 
