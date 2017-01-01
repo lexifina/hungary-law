@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-121-00-00
 | 2015-12-23 | 2015. évi CCXVIII. törvény | 1999-121-00-00.25 |
 | 2016-05-01 | 2016. évi XIII. törvény | 1999-121-00-00.26 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1999-121-00-00.27 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 1999-121-00-00.28 |
