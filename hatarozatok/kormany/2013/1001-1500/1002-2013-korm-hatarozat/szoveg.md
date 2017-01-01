@@ -64,7 +64,7 @@ d) a 4. pont f) alpontja szerinti tagra a felsőoktatási intézmények szakpszi
 
 e) a 4. pont g) alpontja szerinti tagokra a felsőoktatási intézmények orvos- és egészségtudományi területen BSc képzést folytató karai,
 
-f) a 4. pont h) alpontja szerinti tagokra a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI),
+f)[^1] a 4. pont h) alpontja szerinti tagokra az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK),
 
 g) a 4. pont i)–k) alpontja szerinti tagokra az ott meghatározott szervezetek.
 
@@ -98,7 +98,7 @@ a) a megbízatásra méltatlanná válik, vagy
 
 b) a megbízatásából adódó feladatokat nem látja el vagy nem képes ellátni.
 
-12. A Tanács működtetésével kapcsolatos titkársági teendőket a GYEMSZI látja el.
+12.[^2] A Tanács működtetésével kapcsolatos titkársági teendőket az ÁEEK látja el.
 
 13. A Tanács az általa meghatározott és a miniszter által jóváhagyott ügyrend és munkaterv szerint, de legalább negyedévente ülésezik.
 
@@ -107,3 +107,6 @@ b) a megbízatásából adódó feladatokat nem látja el vagy nem képes ellát
 15. A Tanács ülései nem nyilvánosak. A Tanács üléseiről emlékeztető készül, amelyben a Tanács tagjainak javaslatait, véleményeit minden esetben a többségi és a kisebbségi vélemények azonos súlyú és részletességű bemutatásával kell rögzíteni.
 
 16. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 6. pont f) pontja az 1853/2016. (XII. 27.) Korm. határozat 18. pontja szerint módosított szöveg.
+[^2]: A 12. pont az 1853/2016. (XII. 27.) Korm. határozat 17. pontjával megállapított szöveg.
