@@ -18,9 +18,9 @@
 
 ## 5.3. üzleten kívüli kereskedés és csomagküldő kereskedelem esetében a működési terület jegyzéke, a működési területével érintett települések, vagy – ha a tevékenység egy egész megyére vagy az ország egészére kiterjed – a megye, illetve az országos jelleg megjelölése,
 
-## 5.4.[^59] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet folytatnak;
+## 5.4.[^61] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet folytatnak;
 
-## 5a.[^60] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
+## 5a.[^62] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
 
 ## 6. a kereskedelmi tevékenység helye szerinti bontásban a kereskedelmi tevékenység formája a Kertv. 3. § (4) bekezdése szerint;
 
@@ -36,7 +36,7 @@
 
 ## 7.5. a 25. § (4) bekezdés szerinti vásárlók könyve használatba vételének időpontja;
 
-## 7.6.[^61] napi fogyasztási cikket értékesítő üzlet esetén az árusítótér nettó alapterülete, az üzlethez létesített gépjármű-várakozóhelyek száma, azok telekhatártól mért távolsága és elhelyezése (saját telken vagy más telken parkolóban, parkolóházban, vagy közterületek közlekedésre szánt területe egy részén, illetve a közforgalom céljára átadott magánút egy részén);
+## 7.6.[^63] napi fogyasztási cikket értékesítő üzlet esetén az árusítótér nettó alapterülete, az üzlethez létesített gépjármű-várakozóhelyek száma, azok telekhatártól mért távolsága és elhelyezése (saját telken vagy más telken parkolóban, parkolóházban, vagy közterületek közlekedésre szánt területe egy részén, illetve a közforgalom céljára átadott magánút egy részén);
 
 ## 8. az egyes kereskedelmi formák és helyek szerinti bontásban
 
@@ -104,26 +104,26 @@
 
 ## A kizárólag üzletben forgalmazható termékek
 
-1.[^62]
+1.[^64]
 
-2.[^63] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
+2.[^65] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
 
 3. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló kormányrendelet hatálya alá tartozó termékek;
 
 4. állatgyógyászati készítmények és hatóanyagaik;
 
-5.[^64] fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti 1., 2. és 3. pirotechnikai osztályba tartozó termékek, az ott meghatározott kivételekkel;
+5.[^66] fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti 1., 2. és 3. pirotechnikai osztályba tartozó termékek, az ott meghatározott kivételekkel;
 
 6. növényvédő szerek és hatóanyagaik;
 
 7. nem veszélyes hulladék;
 
-8.[^65] az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyag, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag.
+8.[^67] az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyag, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag.
 
-[^59]: A 2. melléklet A) cím 5. pont 5.4. alpontja az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^60]: A 2. melléklet A) cím 5a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^61]: A 2. melléklet A) cím 7. pont 7.6. alpontját az 524/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^62]: A 3. melléklet 1. pontját a 8/2013. (I. 18.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
-[^63]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^64]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.
-[^65]: A 3. melléklet 8. pontja a 300/2014. (XII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^61]: A 2. melléklet A) cím 5. pont 5.4. alpontja az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^62]: A 2. melléklet A) cím 5a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^63]: A 2. melléklet A) cím 7. pont 7.6. alpontját az 524/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^64]: A 3. melléklet 1. pontját a 8/2013. (I. 18.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
+[^65]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^66]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.
+[^67]: A 3. melléklet 8. pontja a 300/2014. (XII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.

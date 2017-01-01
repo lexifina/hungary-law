@@ -1,4 +1,4 @@
-## 7/A. §[^24] A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól 2004. évi CXL. törvény 42. § (2) bekezdésében foglalt kizárási szabály alkalmazása esetén a működés kiadása iránti eljárásban másodfokú hatóságként a 3/a. melléklet szerinti fővárosi és megyei kormányhivatal jár el.
+## 7/A. §[^26] A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól 2004. évi CXL. törvény 42. § (2) bekezdésében foglalt kizárási szabály alkalmazása esetén a működés kiadása iránti eljárásban másodfokú hatóságként a 3/a. melléklet szerinti fővárosi és megyei kormányhivatal jár el.
 
 8. § (1) A jegyző a kereskedő kérelmére a szakhatóságokkal közös helyszíni szemle megtartásáról intézkedik.
 
@@ -8,4 +8,4 @@
 
 (4) A helyszíni szemlén részt vevő szakhatóságok szakhatósági állásfoglalásukat a szemle megállapításairól felvett jegyzőkönyvbe mondhatják.
 
-[^24]: A 7/A. §-t a 70/2015. (III. 30.) Korm. rendelet 142. § (7) bekezdése iktatta be.
+[^26]: A 7/A. §-t a 70/2015. (III. 30.) Korm. rendelet 142. § (7) bekezdése iktatta be.

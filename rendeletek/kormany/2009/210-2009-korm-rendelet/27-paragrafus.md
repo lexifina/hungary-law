@@ -12,6 +12,6 @@ d) a kereskedő a külön jogszabályban meghatározott veszélyes mértékű k�
 
 (3) Amennyiben az ellenőrzés során megállapítást nyer, hogy a kereskedő működési engedéllyel nem rendelkező üzletben folytat kizárólag üzlethez kötött kereskedelmi tevékenységet, a jegyző köteles az üzletet azonnal bezáratni.
 
-(4)[^46] A jegyző az (1)–(3) bekezdés alapján hozott határozatát elektronikus úton közli a 6. § (2) bekezdésében és a 7. § (4) bekezdésének c) pontjában megjelölt hatóságokkal, valamint a külön engedélyt kiadó hatósággal, továbbá az egyéni vállalkozót nyilvántartásba vevő járási (fővárosi kerületi) hivatallal, gazdasági társaság esetén az illetékes cégbírósággal.
+(4)[^48] A jegyző az (1)–(3) bekezdés alapján hozott határozatát elektronikus úton közli a 6. § (2) bekezdésében és a 7. § (4) bekezdésének c) pontjában megjelölt hatóságokkal, valamint a külön engedélyt kiadó hatósággal, továbbá az egyéni vállalkozót nyilvántartásba vevő járási (fővárosi kerületi) hivatallal, gazdasági társaság esetén az illetékes cégbírósággal.
 
-[^46]: A 27. § (4) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 3. § d) pontja, a 441/2015. (XII. 28.) Korm. rendelet 116. § d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^48]: A 27. § (4) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 3. § d) pontja, a 441/2015. (XII. 28.) Korm. rendelet 116. § d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

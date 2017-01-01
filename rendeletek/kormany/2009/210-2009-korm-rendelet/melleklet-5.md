@@ -26,10 +26,10 @@
 
 12. ásványvíz, üdítőital, kávéital, nyers tej;
 
-13.[^68] büfétermék;
+13.[^70] büfétermék;
 
 14. sütőipari termékek;
 
 15. előrecsomagolt sütemények, édességek.
 
-[^68]: Az 5. melléklet 13. pontja a 41/2010. (II. 26.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^70]: Az 5. melléklet 13. pontja a 41/2010. (II. 26.) Korm. rendelet 23. §-a szerint módosított szöveg.
