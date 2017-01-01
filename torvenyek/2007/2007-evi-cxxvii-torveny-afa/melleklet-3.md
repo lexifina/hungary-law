@@ -674,6 +674,44 @@ A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylak�
 
 |
 
+|
+
+52.
+
+|
+
+A 0105 vtsz. alá tartozó baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva
+
+|
+
+0207
+
+|
+
+53.
+
+|
+
+Madártojás héjában, frissen
+
+|
+
+0407-ből
+
+|
+
+54.
+
+|
+
+Tej (kivéve az anyatejet, az ultramagas hőmérsékleten hőkezelt tejet és az ESL tejet)
+
+|
+
+0401 10-ből
+
+0401 20-ból
+
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
 |

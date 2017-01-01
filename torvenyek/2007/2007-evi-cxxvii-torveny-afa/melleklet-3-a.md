@@ -22,7 +22,9 @@ vtsz.
 
 |
 
-Tej és tejtermékek (kivéve az anyatejet)
+Tej és tejtermékek (kivéve az anyatejet, továbbá
+
+a 3. számú melléklet I. rész 54. pontja szerinti termékeket)
 
 |
 
@@ -34,7 +36,9 @@ Tej és tejtermékek (kivéve az anyatejet)
 
 0404 10
 
-0405-től 0406-ig
+0405-től
+
+0406-ig
 
 |
 
@@ -117,3 +121,21 @@ A zenés, táncos rendezvények működésének biztonságosabbá tételéről s
 Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri
 
 rendezvényre történő, kizárólag belépést biztosító szolgáltatás.
+
+|
+
+3.
+
+|
+
+Internet-hozzáférési szolgáltatás
+
+|
+
+4.
+
+|
+
+Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom
+
+(SZJ 55.30.1-ből)

@@ -14,7 +14,7 @@ da) adószáma, amely alatt mint adófizetésre kötelezettnek a termék érték
 
 db) adószáma, amely alatt a 89. §-ban meghatározott termékértékesítést részére teljesítették, vagy
 
-dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegye, amely alatt, mint belföldön nyilvántartásba vett adóalany részére a termékértékesítést, szolgáltatásnyújtást teljesítették, feltéve, hogy a terméket beszerző, szolgáltatást igénybevevő adóalanyra a k) pont szerinti áthárított adó az 1 000 000 forintot eléri vagy meghaladja és a termék értékesítője, szolgáltatás nyújtója gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön;
+dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegye, amely alatt, mint belföldön nyilvántartásba vett adóalany részére a termékértékesítést, szolgáltatásnyújtást teljesítették, feltéve, hogy a terméket beszerző, szolgáltatást igénybevevő adóalanyra a k) pont szerinti áthárított adó a 100 000 forintot eléri vagy meghaladja és a termék értékesítője, szolgáltatás nyújtója gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön;
 
 e) a termék értékesítőjének, szolgáltatás nyújtójának, valamint a termék beszerzőjének, szolgáltatás igénybevevőjének neve és címe;
 

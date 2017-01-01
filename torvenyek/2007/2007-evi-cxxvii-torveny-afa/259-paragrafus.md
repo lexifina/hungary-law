@@ -28,6 +28,8 @@ b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelye
 
 7/A. halottszállító személygépkocsi: az olyan személygépkocsi, amelyet a közúti járművek műszaki megvizsgálásáról szóló rendelet szerinti halottszállító kocsiként tüntetnek fel a járműnyilvántartásban.
 
+7/B. internet-hozzáférési szolgáltatás: csomagkapcsolt módon felépülő, a nyílt internet-hozzáférés megteremtéséhez szükséges intézkedések meghozataláról, továbbá az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelv és az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló 531/2012/EU rendelet módosításáról szóló 2015/2120/EU európai parlament és tanácsi rendelet 2. cikk 2. pontja szerinti internet-hozzáférési szolgáltatás;
+
 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz;
 
 8/A. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása és felhasználása új, módosított vagy javított termékek, eljárások vagy szolgáltatások terveinek és szabályainak létrehozása vagy megtervezése céljából;
