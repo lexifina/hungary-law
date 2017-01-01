@@ -24,7 +24,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: folyamatos
 
-d) a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy gondoskodjon a Gyűjtemény elhelyezésül szolgáló, a budavári Dísz téren található De la Motte palota felújításához szükséges 500 millió forint összegű forrásnak a központi költségvetés XI. Miniszterelnökség fejezetében történő biztosításáról, azzal, hogy a felújítást a De la Motte palota vagyonkezelője, a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ végzi el;
+d)[^1] a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy gondoskodjon a Gyűjtemény elhelyezésül szolgáló, a budavári Dísz téren található De la Motte palota felújításához szükséges 500 millió forint összegű forrásnak a központi költségvetés XI. Miniszterelnökség fejezetében történő biztosításáról, azzal, hogy a felújítást a De la Motte palota vagyonkezelője, a Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Korlátolt Felelősségű Társaság végzi el;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -39,3 +39,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 nemzetgazdasági miniszter
 
 Határidő: folyamatos
+
+[^1]: A 2. pont d) alpontja az 1853/2016. (XII. 27.) Korm. határozat 57. pontja szerint módosított szöveg.
