@@ -14,7 +14,7 @@
 
 ## Határidő: a 2017. évi központi költségvetés tervezésével egyidejűleg
 
-1. melléklet az 1934/2015. (XII. 12.) Korm. határozathoz
+1. melléklet az 1934/2015. (XII. 12.) Korm. határozathoz[^1]
 
 1. A projekt alapvető adatai és forrásszerkezete:
 
@@ -22,7 +22,7 @@
 
 | 1. | Projekt megnevezése | Projekt megvalósítója | Projekt költsége (nettó, Ft) | Projekt összköltsége (bruttó, Ft) | Európai Hálózatfinanszírozási Eszköz révén finanszírozott támogatás (nettó, Ft) | Hazai költségvetési támogatás összege (Ft) | Projekt rövid bemutatása |
 
-| 2. | Vízi úti információs rendszer kiépítése | Nemzeti Közlekedési Hatóság és a Rádiós Segélyhívó és Infokommunikációs Országos Egyesület | 4 003 791 346 | 5 084 815 009 | 2 001 895 673 | 3 082 919 336 | A projekt megvalósítása során a jelenleg is működő RIS (Folyami Információs Szolgáltatások) rendszer üzembiztonsága és funkcionális kiterjesztése valósulhat meg. A szolgáltatások bővítése lehetővé teszi, hogy a biztonsági és hatósági funkciókon túl olyan szolgáltatásokat is kínáljon a rendszer, amelyek a hajózásban érdekeltek számára is pontos információkat szolgáltatnak. Mindezeken túl a víziutak jobb kihasználásához, a környezet védelméhez és a hatékony katasztrófamegelőzéshez is hozzájárul. |
+| 2. | Vízi úti információs rendszer kiépítése | Nemzeti Fejlesztési Minisztérium és a Rádiós Segélyhívó és Infokommunikációs Országos Egyesület | 4 003 791 346 | 5 084 815 009 | 2 001 895 673 | 3 082 919 336 | A projekt megvalósítása során a jelenleg is működő RIS (Folyami Információs Szolgáltatások) rendszer üzembiztonsága és funkcionális kiterjesztése valósulhat meg. A szolgáltatások bővítése lehetővé teszi, hogy a biztonsági és hatósági funkciókon túl olyan szolgáltatásokat is kínáljon a rendszer, amelyek a hajózásban érdekeltek számára is pontos információkat szolgáltatnak. Mindezeken túl a víziutak jobb kihasználásához, a környezet védelméhez és a hatékony katasztrófamegelőzéshez is hozzájárul. |
 
 2. A projekt költségeinek tervezett ütemezése:
 
@@ -35,3 +35,5 @@
 | 3. | 2016 | 3 026 992 176 | 1 191 729 203 | 1 835 262 973 |
 
 | 4. | 2017 | 1 994 499 000 | 785 235 827 | 1 209 263 173 |
+
+[^1]: Az 1. melléklet az 1853/2016. (XII. 27.) Korm. határozat 63. pontja szerint módosított szöveg.
