@@ -32,7 +32,7 @@
 
 7.[^51] Adminisztratív előírások
 
-A gyártó vagy meghatalmazott képviselője az utolsó termék gyártását követően legalább 5 évig – kérésre – az ENKK rendelkezésére bocsátja a következőket:
+A gyártó vagy meghatalmazott képviselője az utolsó termék gyártását követően legalább 5 évig – kérésre – az OGYÉI rendelkezésére bocsátja a következőket:
 
 a) a megfelelőségi nyilatkozatot;
 
@@ -42,4 +42,4 @@ c) az 5.2. és 6.4. alpontokban hivatkozott tanúsítványokat;
 
 d) ahol az indokolt, az 5. számú mellékletben hivatkozott típusvizsgálati tanúsítványt.
 
-[^51]: A 6. számú melléklet 7. pontja a 23/2015. (IV. 28.) EMMI rendelet 42. § b) pontja szerint módosított szöveg.
+[^51]: A 6. számú melléklet 7. pontja az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.

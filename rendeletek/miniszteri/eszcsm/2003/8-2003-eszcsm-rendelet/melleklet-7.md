@@ -62,7 +62,7 @@ c) a minőségügyi rendszer gyártásra vonatkozó részében számításba vet
 
 6.[^52] Adminisztratív előírások
 
-A gyártó az utolsó termék gyártását követően legalább 5 évig – kérésre – az ENKK rendelkezésére bocsátja a következőket:
+A gyártó az utolsó termék gyártását követően legalább 5 évig – kérésre – az OGYÉI rendelkezésére bocsátja a következőket:
 
 a) a megfelelőségi nyilatkozatot;
 
@@ -76,4 +76,4 @@ e) a kijelölt szervezetnek a 4.3. és 4.4. alpontokban hivatkozott döntéseit 
 
 f) ahol az indokolt, az 5. számú mellékletben hivatkozott típusvizsgálati tanúsítványt.
 
-[^52]: A 7. számú melléklet 6. pontja a 23/2015. (IV. 28.) EMMI rendelet 42. § b) pontja szerint módosított szöveg.
+[^52]: A 7. számú melléklet 6. pontja az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.

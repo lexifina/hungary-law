@@ -1,4 +1,4 @@
-## 2/A. §[^9] Az Egészségügyi Nyilvántartási és Képzési Központ (a továbbiakban: ENKK) kellően megalapozott kérelmet nyújt be a Bizottsághoz a szükséges intézkedések megtételére, ha úgy véli, hogy határozatot kell hozni arról, hogy egy adott termék in vitro diagnosztikai eszköznek minősül-e.
+## 2/A. §[^9] Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) kellően megalapozott kérelmet nyújt be a Bizottsághoz a szükséges intézkedések megtételére, ha úgy véli, hogy határozatot kell hozni arról, hogy egy adott termék in vitro diagnosztikai eszköznek minősül-e.
 
 ## Alapvető rendelkezések
 
@@ -8,5 +8,5 @@
 
 (3)[^10] Magyarország területén nem minősül első forgalomba hozatalnak, illetve használatbavételnek az eszköz forgalomba hozatala vagy használatbavétele, ha azt az EK valamely tagállamában már forgalomba hozták, vagy használatba vették.
 
-[^9]: A 2/A. §-t a 4/2009. (III. 17.) EüM rendelet 29. § (7) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 42. § a) pontja szerint módosított szöveg.
+[^9]: A 2/A. §-t a 4/2009. (III. 17.) EüM rendelet 29. § (7) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 29. § a) pontja szerint módosított szöveg.
 [^10]: A 3. § (3) bekezdése a 3/2012. (I. 3.) NEFMI rendelet 8. § (5) bekezdése szerint módosított szöveg.
