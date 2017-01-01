@@ -6,9 +6,9 @@
 
 2. esztétikai helyreállítás: a restaurálás körébe tartozó azon kutatáson alapuló, konzerváló kezelésen túlmutató, a kulturális örökség védett elemei eredeti értékeinek, illetve ezek érvényesülése szempontjából a legkedvezőbb állapotának helyreállítását biztosító hozzátételek, kiegészítések vagy egyéb beavatkozások összessége, amelyek célja az értékek zavartalan megjelenésének biztosításával az értelmezhetővé, bemutathatóvá tétele;
 
-3. építéstörténeti tudományos dokumentáció: a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet (a továbbiakban: Övr.) 9. melléklet II. rész D. pontjában meghatározottak összessége; többszintű megismerési folyamat eredménye, a műemléki érték engedélyhez nem kötött tudományos vizsgálatára, leltárba vételére, elemzésére, dokumentálására, a hozzá kapcsolódó források és szakirodalmi megállapítások feltárására, a műemléki érték történeti összefüggésbe helyezésére, valamint azon információk összegyűjtésére terjed ki, amelyek alapján meghatározhatók a műemléki érték megőrzését és érvényre juttatását biztosító beavatkozások és korlátozó tényezők;
+3.[^5] építéstörténeti tudományos dokumentáció: a kulturális örökség védelmével kapcsolatos szabályokról szóló 496/2016. (XII. 28.) Korm. rendelet (a továbbiakban: Övr.) 9. melléklet II. rész D. pontjában meghatározottak összessége; többszintű megismerési folyamat eredménye, a műemléki érték engedélyhez nem kötött tudományos vizsgálatára, leltárba vételére, elemzésére, dokumentálására, a hozzá kapcsolódó források és szakirodalmi megállapítások feltárására, a műemléki érték történeti összefüggésbe helyezésére, valamint azon információk összegyűjtésére terjed ki, amelyek alapján meghatározhatók a műemléki érték megőrzését és érvényre juttatását biztosító beavatkozások és korlátozó tényezők;
 
-4.[^5] épületdiagnosztika: olyan roncsolásmentes vagy fizikai beavatkozással járó vizsgálat – különösen a faldiagnosztika, faanyagvédelmi vizsgálat –, amely a tartó- és egyéb épületszerkezetek műszaki állapotának elsősorban a nedvesség és sószennyezés, a biológiai károsodás, a szilárdság és anyagszerkezeti tulajdonságainak felderítésére, elemzésére és értékelésére szolgál;
+4.[^6] épületdiagnosztika: olyan roncsolásmentes vagy fizikai beavatkozással járó vizsgálat – különösen a faldiagnosztika, faanyagvédelmi vizsgálat –, amely a tartó- és egyéb épületszerkezetek műszaki állapotának elsősorban a nedvesség és sószennyezés, a biológiai károsodás, a szilárdság és anyagszerkezeti tulajdonságainak felderítésére, elemzésére és értékelésére szolgál;
 
 5. épületkutatás: az építéstörténeti tudományos dokumentáció módszereivel nem megismerhető, fizikai beavatkozással is járó komplex vizsgálat: az épületszerkezetek feltárása és elemzése, különösen a falkutatás; célja az építési periódusok és azok egymáshoz való viszonyának, a kutatott műemlék rejtett értékeinek megismerése és datálása, a kutatott műemlék használatának, funkciójának tisztázása, tudományos igényű dokumentálása; a kutatás irányulhat falazat, padló, födém vagy egyéb épületszerkezet feltárására is;
 
@@ -42,4 +42,5 @@
 
 [^3]: Az 1/A. §-t a 323/2016. (X. 27.) Korm. rendelet 2. §-a iktatta be.
 [^4]: A 2. § a 38/2015. (III. 11.) Korm. rendelet 23. § (1) bkezdésével megállapított szöveg.
-[^5]: A 2. § 4. pontja a 323/2016. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 2. § 3. pontja a 497/2016. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^6]: A 2. § 4. pontja a 323/2016. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.

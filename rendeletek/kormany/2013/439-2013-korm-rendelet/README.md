@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-439-20-
 | 2015-03-12 | 2013-439-20-22.6 | 38/2015. (III. 11.) Korm. rendelet |
 | 2016-01-01 | 2013-439-20-22.7 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-11-04 | 2013-439-20-22.8 | 323/2016. (X. 27.) Korm. rendelet |
+| 2017-01-01 | 2013-439-20-22.9 | 497/2016. (XII. 28.) Korm. rendelet |
