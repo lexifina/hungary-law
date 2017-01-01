@@ -1,4 +1,4 @@
-## 9. §[^14]
+## 9. §[^12]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. § (4) bekezdése, az 5. § (4) és (6) bekezdése, a 4. melléklet, a 18. melléklet és a 20. melléklet 2017. január 1-jén lép hatályba.
 
-[^14]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
