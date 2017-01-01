@@ -10,7 +10,9 @@
 
 a) az ÁÉKBV-alapkezelőre vonatkozó szervezeti, összeférhetetlenségi, üzletviteli és kockázatkezelési követelményekről szóló szabályokat;
 
-b) a kollektív befektetési formák befektetési és hitelfelvételi szabályait.
+b) a kollektív befektetési formák befektetési és hitelfelvételi szabályait;
+
+c) az ÁÉKBV-alapkezelő panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
