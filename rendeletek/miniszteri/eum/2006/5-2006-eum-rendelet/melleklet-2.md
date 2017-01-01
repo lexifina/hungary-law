@@ -846,7 +846,7 @@
 
 ## – az Eütv. 94. § (5) bekezdés a) és b) pontja szerinti mentéshez a tevékenységet végző orvos, illetve munkacsoport szállítására, valamint az életmentő orvosi eszköz és gyógyszer, valamint átültetésre kerülő szerv sürgős szállítására alkalmas gépjármű.
 
-2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^49]
+2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^51]
 
 ## Rendezvények egészségügyi biztosításának formái, szintjei és módja
 
@@ -1030,4 +1030,4 @@ A felszereléseket a gyalogőrséget ellátó személy a beavatkozási jogköré
 
 – esetlap.
 
-[^49]: A 2. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (2) bekezdésével megállapított, a 41/2014. (VI. 30.) EMMI rendelet 16. §-a, a 16/2015. (III. 30.) EMMI rendelet 28. §-a, az 54/2015. (XI. 24.) EMMI rendelet 30. § (1) bekezdése szerint módosított szöveg.
+[^51]: A 2. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (2) bekezdésével megállapított, a 41/2014. (VI. 30.) EMMI rendelet 16. §-a, a 16/2015. (III. 30.) EMMI rendelet 28. §-a, az 54/2015. (XI. 24.) EMMI rendelet 30. § (1) bekezdése szerint módosított szöveg.
