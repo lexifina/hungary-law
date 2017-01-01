@@ -1,4 +1,4 @@
-## 20. §[^12]
+## 20. §[^44]
 
 1. melléklet a 301/2009. (XII. 22.) Korm. rendelethez
 
@@ -72,7 +72,7 @@ Ismernie kell:
 
 – az iratkezelés, irattározás szabályait,
 
-–[^13] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+–[^45] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
 
 – az okmányokkal kapcsolatos jogosultságokat.
 
@@ -120,7 +120,7 @@ A vizsga tantárgyai:
 
 – Informatikai ismeretek
 
-3. A vizsga értékelése
+3.[^46] A vizsga értékelése
 
 Az írásbeli vizsgarészt a feladatlaphoz kiadott útmutató alapján kell értékelni.
 
@@ -136,7 +136,7 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | Sorszám: |
 
-| Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala |
+| Belügyminisztérium |
 
 | TANÚSÍTVÁNY |
 
@@ -154,5 +154,6 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^12]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
-[^13]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
+[^44]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
+[^45]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
+[^46]: Az 1. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.
