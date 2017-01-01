@@ -10,7 +10,7 @@ ab) a Magyar Tudományos Akadémia;
 
 b) a genetikai erőforrás vagy genetikai erőforráshoz kapcsolódó hagyományos tudás felhasználásával kifejlesztett termék engedélyezése, forgalomba hozatala, ellenőrzése területén
 
-ba) a Nemzeti Élelmiszerlánc-biztonsági Hivatal,
+ba)[^2] a növénytermesztési, élelmiszerlánc-felügyeleti, erdészeti, vadászati, halgazdálkodási hatáskörében eljáró Pest Megyei Kormányhivatal,
 
 bb) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet.
 
@@ -23,3 +23,5 @@ b) felhasználásával kifejlesztett terméket, illetve annak forgalomba hozatal
 c) felhasználásával kifejlesztett terméket, illetve annak forgalomba hozatalát engedélyezi, vagy
 
 d) felhasználásával kifejlesztett terméket, illetve annak forgalmazását ellenőrzi.
+
+[^2]: A 5. § (1) bekezdés b) pont ba) alpontja a 379/2016. (XII. 2.) Korm. rendelet 319. § b) pontjával megállapított szöveg.
