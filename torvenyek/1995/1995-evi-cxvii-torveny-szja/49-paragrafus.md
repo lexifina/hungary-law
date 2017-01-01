@@ -6,7 +6,7 @@
 
 a)
 
-b) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
+b) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
 
 (3) Az adóelőleg-levonásra kötelezett kifizető (ideértve az adóelőleget megállapító munkáltatót is) az állami adóhatósághoz bejelentett módszerrel állapítja meg az adóelőleget, ha ez által az adóévi adó megállapításánál jelentkező adókülönbözet mérsékelhető. Nem kell bejelentést tenni olyan módszer választása esetén, amelyet a számítástechnikai program kidolgozója az állami adóhatósághoz bejelentett.
 
@@ -20,7 +20,7 @@ ba) a vállalkozói bevétel alapján az egyéni vállalkozó által az adóévr
 
 bb) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat alapján – a negyedév végéig megillető kisvállalkozások adókedvezménye
 
-összegét azzal, hogy a vállalkozói személyi jövedelemadó-előleget az adóelőleg-alap 500 millió forintot meg nem haladó összegére 10 százalékkal, a meghaladó részre 19 százalékkal állapítja meg.
+összegét azzal, hogy a vállalkozói személyi jövedelemadó-előleg az adóelőleg-alap 9 százaléka.
 
 (5) Ha a magánszemély saját maga köteles az adóelőleg megállapítására és megfizetésére, az (1) bekezdés szerint megállapított összeget csökkenti a személyi kedvezmény.
 

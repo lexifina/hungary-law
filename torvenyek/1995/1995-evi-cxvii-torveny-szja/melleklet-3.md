@@ -2,7 +2,7 @@
 
 Az összevont adóalap megállapításához elszámolható költségekről
 
-E törvénynek az elismert költségekre és a költségek elszámolására vonatkozó általános rendelkezéseit is figyelembe véve, az e mellékletben foglaltakat kell alkalmazni, ha az önálló tevékenységet folytató magánszemély a jövedelmét tételes költségelszámolással állapítja meg, valamint minden olyan esetben, amikor a magánszemély kiadásainak elszámolása, megtérítése (ideértve a jogszabály alapján történő költségtérítést is) szempontjából minősíteni szükséges, hogy az beletartozik-e az elismert költségek körébe. Kizárólag üzemi célt szolgálnak azok a tárgyi eszközök és nem anyagi javak, amelyeket a magánszemély önálló tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősülhet kizárólag üzemi célt szolgáló tárgyi eszköznek a személygépkocsi. A magánszemély költségként számolhatja el a bevétel megszerzésével közvetlenül összefüggő kiadásokat, korlátozott mértékű átalányban az értékcsökkenést.
+E törvénynek az elismert költségekre és a költségek elszámolására vonatkozó általános rendelkezéseit is figyelembe véve, az e mellékletben foglaltakat kell alkalmazni, ha az önálló tevékenységet folytató magánszemély a jövedelmét tételes költségelszámolással állapítja meg, valamint minden olyan esetben, amikor a magánszemély kiadásainak elszámolása, megtérítése (ideértve a jogszabály alapján történő költségtérítést is) szempontjából minősíteni szükséges, hogy az beletartozik-e az elismert költségek körébe. Kizárólag üzemi célt szolgálnak azok a tárgyi eszközök és nem anyagi javak, amelyeket a magánszemély önálló tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősülhet kizárólag üzemi célt szolgáló tárgyi eszköznek a személygépkocsi. A magánszemély költségként számolhatja el a bevétel megszerzésével közvetlenül összefüggő kiadásokat, az adott előleget, ide nem értve a tárgyi eszközök, nem anyagi javak beszerzésekor adott előleget, korlátozott mértékű átalányban az értékcsökkenést.
 
 A több önálló tevékenységhez használt tárgyi eszközök, nem anyagi javak esetében a magánszemély választhat, hogy melyik tevékenységének bevételével szemben számolja el az e melléklet rendelkezései szerint érvényesíthető költséget. A költség (az értékcsökkenési leírás a teljes leírásig) nem osztható meg a különböző tevékenységek bevételei között.
 
@@ -76,9 +76,9 @@ d) a munkáltató székhelyétől, telephelyétől elkülönült munkavégzési 
 
 25. az európai parlamenti, az országgyűlési, a helyi önkormányzati képviselői és a nemzetiségi szószólói tevékenységgel összefüggésben megszerzett bevétel esetén, valamint a polgármester költségátalánya esetén az adott tisztséggel összefüggő feladat ellátása érdekében felmerült, a magánszemély nevére kiállított bizonylattal igazolt kiadás – ideértve különösen a lakhatási támogatásra jogosult országgyűlési képviselő vagy nemzetiségi szószóló szállásra fordított kiadását –, valamint az adott tisztséggel összefüggő feladat ellátása érdekében használt tárgyi eszközök átalány-értékcsökkenése.
 
-II. Igazolás nélkül elszámolható költségek
+II. Igazolás nélkül, költségként elszámolható tételek
 
-Az e törvényben elismert költségek esetében, ha törvény vagy kormányrendelet (a továbbiakban: jogszabály) költségtérítésről rendelkezik, akkor a ténylegesen felmerült és igazolt kiadás érvényesítése helyett a jogszabályban meghatározott mértékig igazolás nélkül számolható el az adott címen költség azzal, hogy akkor ezt a költséget teljes egészében elszámoltnak kell tekinteni. Ilyen költségnek minősül különösen
+Igazolás nélkül, költségként elszámolható tételek a következők:
 
 1. a bedolgozó részére e tevékenységével összefüggésben kifizetett évi munkabér, illetve munkadíj 30 százalékát meg nem haladó összeg, feltéve, hogy a magánszemély e jogviszonyával összefüggésben más költséget nem számol el;
 
@@ -90,7 +90,7 @@ Az e törvényben elismert költségek esetében, ha törvény vagy kormányrend
 
 5. az Európai Parlament által az európai parlamenti megfigyelő és az európai parlamenti tag számára fizetett költségtérítés;
 
-6. a kifizető által a magánszemélynek a saját személygépkocsi használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adóhatóság által közzétett üzemanyagár, valamint 9 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
+6. a kifizető által a magánszemélynek a saját személygépkocsi használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adóhatóság által közzétett üzemanyagár, valamint 15 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
 
 7. külföldi kiküldetés esetén
 
@@ -102,7 +102,7 @@ b) az a) pontban nem említett esetben a külföldi kiküldetésre tekintettel m
 
 III. Az értékcsökkenési leírás elszámolása
 
-1. Kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra csak a kormányrendeletben meghatározott regisztrált mezőgazdasági termelő, valamint a mezőgazdasági őstermelő jogosult értékcsökkenési leírást elszámolni. Ennek során a kormányrendeletben meghatározott regisztrált mezőgazdasági termelő, valamint a mezőgazdasági őstermelő az egyéni vállalkozóra vonatkozó rendelkezéseket alkalmazza, azzal az eltéréssel, hogy a kormányrendeletben meghatározott regisztrált mezőgazdasági termelő, valamint az adóév utolsó napján az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja a családi gazdaság részét képező, vagy ahhoz tartozó tárgyi eszköznek, nem anyagi javaknak az üzembe helyezés időpontjára megállapított beruházási költségét – választása szerint – az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni. Más önálló tevékenységet végző magánszemély (ide nem értve az egyéni vállalkozót) a kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra a 2. pont rendelkezéseit alkalmazza.
+1. Kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra csak a mezőgazdasági őstermelő jogosult értékcsökkenési leírást elszámolni. Ennek során a mezőgazdasági őstermelő az egyéni vállalkozóra vonatkozó rendelkezéseket alkalmazza, azzal az eltéréssel, hogy az adóév utolsó napján az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja a családi gazdaság részét képező, vagy ahhoz tartozó tárgyi eszköznek, nem anyagi javaknak az üzembe helyezés időpontjára megállapított beruházási költségét – választása szerint – az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni. Más önálló tevékenységet végző magánszemély (ide nem értve az egyéni vállalkozót) a kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra a 2. pont rendelkezéseit alkalmazza.
 
 2. A nem kizárólag üzemi célt szolgáló saját tulajdonú gép, berendezés, felszerelés esetében az önálló tevékenységet folytató magánszemély átalányban számolhat el értékcsökkenési leírást olyan nyilvántartás vezetése mellett, amely a nem kizárólagosan üzemi célt szolgáló említett tárgyi eszköz azonosításra alkalmas megnevezését, beszerzési (előállítási) árát – mint nyilvántartási értéket –, továbbá a beszerzés (előállítás) és a használatbavétel időpontját tartalmazza. Az átalány összege több ilyen eszköz használata mellett is legfeljebb az éves bevétel 1 százalékáig, ezen belül is az említett nyilvántartásban szereplő eszköz(ök) nyilvántartási értékének legfeljebb 50 százalékáig terjedhet. Egy adott nem kizárólagosan üzemi célt szolgáló eszköz értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány.
 
@@ -120,7 +120,7 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 
 2. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a III. 2. pont szerint átalányban érvényesíthető értékcsökkenési leírás. Személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: az ott említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány.
 
-3. A saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül a 2. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 9 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
+3. A saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül a 2. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 15 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
 
 4. A nem saját tulajdonú kizárólag üzemi célra használt jármű esetében elszámolható
 

@@ -64,7 +64,7 @@ n) a társasági adóról és az osztalékadóról szóló törvény szerinti in
 
 o) az a)–n) alpontokban nem említett esetben a magánszemély illetősége szerinti állam.
 
-5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték legfeljebb 10 százalék, kivéve, ha az állammal Magyarország egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
+5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték kevesebb, mint 9 százalék, kivéve, ha az állammal Magyarország egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
 6. Adóév: az az időszak, amelyre vonatkozóan az adó alapját meg kell állapítani; ez a naptári év, az e törvényben meghatározott kivételekkel.
 
@@ -158,7 +158,7 @@ d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról 
 
 e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély illetménye;
 
-f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
+f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
 
 g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása.
 
@@ -178,7 +178,7 @@ e) az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíjkiegész
 
 f) a társadalombiztosítási nyugellátásról szóló törvény hatálybalépése előtt hatályos jogszabály alapján megállapított saját jogú és hozzátartozói nyugellátások (így különösen a társadalombiztosításról szóló törvényben és a végrehajtásáról rendelkező kormányrendeletben meghatározott, mezőgazdasági szövetkezeti tagságon alapuló öregségi, munkaképtelenségi és özvegyi járadék, valamint a szakszövetkezeti tagságon alapuló növelt összegű öregségi, munkaképtelenségi és özvegyi járadék);
 
-g) a Kiváló és Érdemes Művészeket, valamint a Népművészet Mestereit és özvegyüket megillető, törvényben meghatározott járadék (nyugdíj-kiegészítés), az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradék, valamint a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátás;
+g) a Kiváló és Érdemes Művészeket, valamint a Népművészet Mestereit és özvegyüket megillető, törvényben meghatározott járadék (nyugdíj-kiegészítés), az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott táncművészeti életjáradék, valamint a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátás;
 
 h) a bányászatról szóló törvényben meghatározott átmeneti bányászjáradék, a nyugdíjas bányászok szénjárandóságának pénzbeli megváltásáról szóló kormányrendelet alapján folyósított pénzbeli szénjárandóság, valamint ugyanezen kormányrendelet szerint a pénzbeli szénjárandóságra jogosult magánszemély – a jogosult elhalálozása esetén a kormányrendeletben meghatározott közeli hozzátartozója – számára a jogosult volt munkáltatója, vagy a munkáltató jogutódja által folyósított pénzbeli szénjárandóságnak a kormányrendeletben meghatározott mértéket meg nem haladó része;
 
@@ -266,7 +266,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 52.
 
-53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás, továbbá erdő művelési ágban nyilvántartott föld hasznosításának a tulajdonos által az erdőbirtokossági társulatban fennálló tagsági viszonya alapján az erdőbirtokossági társulat részére történő átadása.
+53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, ellenérték fejében a föld használati jogosultságának mező-, erdőgazdasági, illetve halászati hasznosításra történő átengedése.
 
 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 
@@ -332,11 +332,11 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 84.
 
-85. Ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló törvény szerinti ellenőrzött külföldi társaság.
+85.
 
 86.
 
-87. Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány által papír alapon vagy elektronikus formában kibocsátott, fogyasztásra kész étel és melegkonyhás vendéglátóhelyeken étkezési szolgáltatás vásárlására felhasználható utalvány.
+87.
 
 88. Iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel tanulói vagy hallgatói jogviszonyban.
 
@@ -348,7 +348,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 92. Életbiztosítás: az olyan személybiztosítás, amely alapján a biztosító a természetes személy halála, meghatározott életkor vagy időpont elérése vagy más esemény bekövetkezése esetére a szerződésben meghatározott biztosítási összeg kifizetésére, járadék élethosszig tartó vagy meghatározott időszakra történő folyósítására vállal kötelezettséget.
 
-93. Nyugdíjbiztosítás: az olyan életbiztosítás, ahol a biztosító teljesítésére – a haláleseti szolgáltatást kivéve – a nyugdíjbiztosítási szerződés egész tartama alatt a biztosított jogosult, és a biztosítói teljesítést a biztosított
+93. Nyugdíjbiztosítás: az olyan életbiztosítás, ahol a biztosító teljesítésére – a haláleseti szolgáltatást kivéve – a nyugdíjbiztosítási szerződés egész tartama alatt a biztosított jogosult, és a biztosító szolgáltatását a biztosított
 
 a) halála,
 
@@ -358,7 +358,7 @@ c) egészségi állapotának legalább 40%-os mértéket elérő károsodása, f
 
 d) a szerződés létrejöttekor érvényes öregségi nyugdíjkorhatár biztosított általi betöltése
 
-váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől (az ajánlat vagy a szerződésmódosítás ügyfél részéről történő aláírásának napjától) a biztosító biztosítási eseményre tekintettel történő teljesítéséig (kivéve a biztosított halálát, a biztosított legalább 40%-os mértékű egészségkárosodását, valamint kivéve, ha a biztosító teljesítése nem csökkenő összegű járadékszolgáltatás és a járadékszolgáltatást a szerződés létrejöttétől számított legalább 10. év végéig vagy a biztosított haláláig nyújtják) legalább 10 év eltelik, azzal, hogy a nyugdíjbiztosítási szerződésnek az a)–d) pontokban szereplő biztosítási eseményeket – a c) pont kivételével, ha a biztosított egészségkárosodása a nyugdíjbiztosítási szerződés létrejöttekor a 40%-os mértéket már eléri – tartalmaznia kell, és az a)–d) pontokban szereplő biztosítási eseményeken kívül más biztosítási eseményt nem tartalmazhat. Amennyiben a járadékszolgáltatás egy hónapra jutó várható összege a 10 ezer forintot nem éri el, a járadékszolgáltatás – a szerződés létrejöttétől számított 10. év letelte előtt – egy összegben is teljesíthető.
+váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől (az ajánlat vagy a szerződésmódosítás ügyfél részéről történő aláírásának napjától) a biztosító biztosítási eseményre tekintettel történő teljesítéséig (kivéve a biztosított halálát, a biztosított legalább 40%-os mértékű egészségkárosodását, valamint kivéve, ha a biztosító teljesítése nem csökkenő összegű járadékszolgáltatás és a járadékszolgáltatást a szerződés létrejöttétől számított legalább 10. év végéig vagy a biztosított haláláig nyújtják) legalább 10 év eltelik, azzal, hogy a nyugdíjbiztosítási szerződésnek az a)–d) pontokban szereplő biztosítási eseményeket – a c) pont kivételével, ha a biztosított egészségkárosodása a nyugdíjbiztosítási szerződés létrejöttekor a 40%-os mértéket már eléri – tartalmaznia kell, és az a)–d) pontokban szereplő biztosítási eseményeken kívül más biztosítási eseményt nem tartalmazhat. Amennyiben a járadékszolgáltatás egy hónapra jutó várható összege az ötezer forintot nem éri el, a járadékszolgáltatás – a szerződés létrejöttétől számított 10. év letelte előtt – egy összegben is teljesíthető.
 
 94. Betegségbiztosítás (vagy egészségbiztosítás): az olyan személybiztosítás, amely alapján a biztosító a biztosított megbetegedése esetén a szerződésben meghatározott szolgáltatások teljesítésére vállal kötelezettséget, azzal, hogy betegségbiztosítás esetében a biztosító szolgáltatása kiterjedhet a szerződésben meghatározott, biztosítási eseménnyel kapcsolatban álló egészségügyi szolgáltatások miatt felmerült költségek egészségügyi szolgáltató számára történő megtérítésére is.
 
@@ -366,7 +366,7 @@ váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől
 
 96. Járadékbiztosítás: az olyan életbiztosítás – ideértve az azonnal induló, nem csökkenő összegű járadékbiztosítást is –, ahol a járadékszolgáltatást legalább a folyósítás megkezdésétől számított 10. év végéig, vagy a biztosított haláláig nyújtják, feltéve, hogy a járadék nem csökkenő összegű és legalább évente vagy annál gyakoribb kifizetéssel valósul meg.
 
-97. Nem csökkenő összegű járadékszolgáltatás: a biztosító olyan szolgáltatása, amikor a biztosító rendszeres teljesítései közül a mindenkori utolsó teljesítés – pénzben vagy más egységben kifejezett – összege nagyobb vagy egyenlő a mindenkori utolsó teljesítést közvetlenül megelőző biztosítói teljesítés összegénél, ideértve azt az esetet is, amikor a biztosítói teljesítés összege igazolhatóan kizárólag a biztosítói teljesítés gyakoriságának és/vagy a folyósítás tartamának módosulása miatt változik.
+97. Nem csökkenő összegű járadékszolgáltatás: a biztosító olyan szolgáltatása, amikor a biztosító rendszeres teljesítései közül a mindenkori utolsó teljesítés – pénzben vagy más egységben kifejezett – összege nagyobb vagy egyenlő a mindenkori utolsó teljesítést közvetlenül megelőző biztosítói teljesítés összegénél, ideértve azt az esetet is, amikor a biztosítói teljesítés összege igazolhatóan kizárólag a biztosítói teljesítés gyakoriságának és/vagy a folyósítás tartamának módosulása vagy a magánszemély rendelkezése alapján a nyugdíjbiztosítási szerződésen jóváírt adó kedvezményezett magánszemély részére történő kiutalása miatt változik.
 
 98. Biztosító teljesítése: a biztosító által a biztosítási jogviszonyra tekintettel bármilyen jogcímen kifizetett összeg, juttatott vagyoni érték, tekintettel az 1. számú melléklet rendelkezéseire is.
 

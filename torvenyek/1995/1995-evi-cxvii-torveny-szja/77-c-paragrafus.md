@@ -132,7 +132,7 @@ b) az (1) bekezdés c) pontja szerint vételi, jegyzési vagy más hasonló jog 
 
 megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezte, akkor az értékpapír megszerzésére fordított értékkel csökkentett – együttes szokásos piaci értéke meghaladja az 1 millió forintot, az adózó az (1)–(17) bekezdésben foglaltakat csak azokra az értékpapírokra alkalmazza, amelyeknek – a letétbe helyezés, illetőleg a joggyakorlás sorrendjében – összesített együttes (csökkentett) szokásos piaci értéke nem haladja meg az említett összeget. A magánszemély által program keretében megszerzett többi értékpapírra a 77/A. § rendelkezései az irányadók. Ha a magánszemély az adóévben több program keretében szerez értékpapírt, az említett összeghatár eléréséről haladéktalanul köteles tájékoztatni valamennyi program szervezőjét.
 
-(19) A program szervezője a kötelező tartási időszak kezdő napját követő hónap 20. napjáig megküldi az adóhatóságnak a program meghirdetéséről a munkavállalók, vezető tisztségviselők részére kiadott tájékoztató vagy más hasonló irat másolati példányát.
+(19) A program szervezője a kötelező tartási időszak kezdő napját követő hónap 20. napjáig, az (1) bekezdés a) és c) pontja szerinti program esetén a program elindítását követő hónap 20. napjáig megküldi az állami adóhatóságnak a program meghirdetéséről a munkavállalók, vezető tisztségviselők részére kiadott tájékoztató vagy más hasonló irat másolati példányát.
 
 (19a)
 

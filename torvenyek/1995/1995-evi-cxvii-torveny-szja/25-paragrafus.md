@@ -10,7 +10,7 @@ ba) a munkában töltött napokra a munkahely és a lakó- vagy tartózkodási h
 
 bb) hazautazásra a munkahely és a lakóhely között
 
-közforgalmi úton mért oda-vissza távolság figyelembevételével kilométerenként 9 forint értékben kap a magánszemély.
+közforgalmi úton mért oda-vissza távolság figyelembevételével kilométerenként 15 forint értékben kap a magánszemély.
 
 (3) A (2) bekezdés b) pontjában meghatározott összeget meghaladó költségtérítés – ha a törvény másként nem rendelkezik – a magánszemély (1) bekezdés szerinti jövedelme.
 

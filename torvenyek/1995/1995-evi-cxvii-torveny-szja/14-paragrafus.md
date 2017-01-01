@@ -32,7 +32,7 @@ c) nyugdíj-előtakarékossági nyilatkozat alapján adójának átutalásáról
 
 d)
 
-e) az adóévre a biztosítások kedvezménye miatt levont adó növelt összegű bevallására és megfizetésére köteles;
+e) az adóévre a nyugdíjbiztosítás miatt az adóhatóság által korábban kiutalt összeg növelt összegű bevallására és megfizetésére köteles;
 
 f) az adóévre az önkéntes kölcsönös egészségpénztári egyéni számláján lekötött összeg miatt levont, kiutalt adó növelt összegű bevallására és megfizetésére köteles;
 

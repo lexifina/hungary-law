@@ -10,7 +10,7 @@ I. Jellemzően előforduló bevételek
 
 Bevétel különösen a tevékenység keretében vagy azzal összefüggésben
 
-1. az értékesített termék, áru, szolgáltatás ellenértékeként, vagy ezek előlegeként befolyt vagy váltóval kiegyenlített összeg, természetben kapott ellenérték (valamennyi esetben a felár, az engedmény, az árkiegészítés, a fogyasztási adó figyelembevételével), továbbá az áru szállításáért vagy csomagolásáért külön felszámított összeg;
+1. az értékesített termék, áru, szolgáltatás ellenértékeként, vagy ezek előlegeként befolyt vagy váltóval kiegyenlített összeg, természetben kapott ellenérték, ide nem értve a tárgyi eszközök, nem anyagi javak értékesítésekor kapott előleget (valamennyi esetben a felár, az engedmény, az árkiegészítés, a fogyasztási adó figyelembevételével), továbbá az áru szállításáért vagy csomagolásáért külön felszámított összeg;
 
 2. a kizárólag üzemi célt szolgáló tárgyi eszköz – ideértve a selejtezett tárgyi eszközt is –, nem anyagi javak, anyag, félkész termék (a továbbiakban együtt: vagyontárgy) értékesítésekor kapott ellenérték, illetőleg a szokásos piaci érték (ha ez utóbbi a több), ha annak beszerzési, előállítási költségét az egyéni vállalkozó bármelyik évben költségei között elszámolta, vagy értékcsökkenési leírást számolt el, azzal, hogy ha olyan ingó vagyontárgyat, ingatlant, vagyoni értékű jogot idegenít el, amelyet nem kizárólag üzleti célból használt, akkor az ebből származó jövedelem adózására egészében a XI. fejezetben foglalt rendelkezéseket kell alkalmaznia;
 

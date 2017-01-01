@@ -4,7 +4,7 @@ a) a szokásos hozam, és
 
 b) a hozam a) pont szerinti összeget meghaladó részének a háromszorosa,
 
-azzal, hogy az átruházásból származó jövedelem megállapításához a 62. § (4) és (6) bekezdése nem alkalmazhatók.
+azzal, hogy az átruházásból származó jövedelem megállapításához a 62. § (4) bekezdése nem alkalmazható.
 
 (2) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti termőföldből átminősített ingatlant tulajdonában tartó társaságban részesedéssel rendelkező magánszemély tag részesedését ellenérték fejében átruházza, illetve azt a társaságból kivonja, az árfolyamnyereséget, illetve a vállalkozásból kivont jövedelmet növeli a részesedés tulajdonban tartásának időszakára kiszámított szokásos hozamot meghaladó árfolyamnyereség, vállalkozásból kivont jövedelem kétszerese.
 

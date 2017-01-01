@@ -10,7 +10,7 @@ ab) a kamatozó részvény kamata;
 
 ac) a külföldi állam joga szerint osztaléknak minősülő jövedelem;
 
-ad) a kockázatitőkealap-jegy hozama;
+ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozama;
 
 ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
 

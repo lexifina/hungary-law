@@ -6,7 +6,7 @@
 
 69. § (1) Béren kívüli juttatásnak nem minősülő egyes meghatározott juttatások [70. §], valamint a béren kívüli juttatások [71. §] után az adó a kifizetőt terheli.
 
-(2) Az (1) bekezdés hatálya alá tartozó juttatás esetében jövedelemnek minősül a juttatás értéke, ingyenesen vagy kedvezményesen juttatott termék, szolgáltatás esetén annak szokásos piaci értéke, illetőleg abból az a rész, amelyet a magánszemély nem köteles megfizetni. A kifizetőt terhelő adó alapja az előzőek szerinti jövedelem 1,19-szerese.
+(2) Az (1) bekezdés hatálya alá tartozó juttatás esetében jövedelemnek minősül a juttatás értéke, ingyenesen vagy kedvezményesen juttatott termék, szolgáltatás esetén annak szokásos piaci értéke vagy abból az a rész, amelyet a magánszemély nem köteles megfizetni. A kifizetőt terhelő adó alapja az előzőek szerinti jövedelem 1,18-szorosa.
 
 (3) Ha a juttatás utalvány, készpénz-helyettesítő fizetési eszköz, e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e § szerinti juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, továbbá ha az utalvány – a magánszemélynek ki nem osztott (nem juttatott) utalványok visszaváltása kivételével – nem visszaváltható, és egyebekben a juttatás körülményei megfelelnek a 70–71. § rendelkezéseinek.
 
@@ -22,10 +22,10 @@ a) a juttatás hónapja kötelezettségeként;
 
 b) a 70. § (2a) bekezdése szerint adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként;
 
-c) a 70. § (4) bekezdés a)–c) pontja szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
+c) a 70. § (4) bekezdés a)–b) pontja szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
 
-d) a 70. § (4) bekezdés b) és c) pontja szerinti esetben – a c) ponttól eltérően – ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben – az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan – szerzett béren kívüli juttatások együttes értéke a 70. § (4) bekezdés b) pontja esetében az éves keretösszeget, a 70. § (4) bekezdés c) pontja esetében az éves rekreációs keretösszeget meghaladja, a meghaladó rész(ek) után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész(ek) után a (2) bekezdés szerinti közteheralap szerint már teljesített közteher beszámításával
+d) a 70. § (4) bekezdés b) pontja szerinti esetben – a c) ponttól eltérően – ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben – az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan – szerzett béren kívüli juttatások együttes értéke a 70. § (4) bekezdés b) pontja esetében az éves rekreációs keretösszeget meghaladja, a meghaladó rész után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész után a (2) bekezdés szerinti közteheralap szerint már teljesített közteher beszámításával
 
-kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania, illetve megfizetnie.
+kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania és megfizetnie.
 
 (6) Ha a magánszemély a kifizetőt terhelő adó mellett nem pénzben juttatott vagyoni értéket elidegeníti, annak szerzési értéke az a jövedelem, amely után a kifizető az adót megfizette.

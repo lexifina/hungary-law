@@ -6,13 +6,13 @@
 
 11. § (1) Az adót adóévenként be kell vallani. A magánszemély bevallási kötelezettségét a (2) bekezdés szerint önadózással vagy a 14. § rendelkezései szerint munkáltatói adómegállapítás révén teljesíti, annak figyelembevételével, hogy bármely esetben jogosult az összevont adóalapja adójának külön törvény szerint meghatározott részéről rendelkező nyilatkozatot adni.
 
-(2) A magánszemély – ha nem adott nyilatkozatot munkáltatói adómegállapításra, adójának megállapítását a munkáltatója nem vállalja vagy nem tett bevallási nyilatkozatot – az adózás rendjéről szóló törvény szerint előírt módon és határidőben önadózóként
+(2) A magánszemély – ha nem adott nyilatkozatot munkáltatói adómegállapításra vagy adójának megállapítását a munkáltatója nem vállalja – az adózás rendjéről szóló törvény szerint előírt módon és határidőben önadózóként
 
-a) az adóhatóság közreműködése nélkül elkészített bevallást vagy
+a) az adóhatóság közreműködése nélkül elkészített bevallást nyújt be az adóhatósághoz vagy
 
-b) az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített bevallást
+b) az adóbevallási tervezet adatait javítja, kiegészíti, vagy az adóbevallási tervezetben feltüntetett adatokkal egyetért
 
-nyújt be az adóhatósághoz.
+azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő adatokkal való egyetértésnek kell tekinteni azt is, ha az adóbevallási tervezet az adózás rendjéről szóló törvény rendelkezése szerint a magánszemély bevallásának minősül.
 
 (3) Az (1)–(2) bekezdésben foglaltakat nem kell alkalmazni, ha a magánszemély az adóévben egyáltalán nem szerzett bevételt, vagy kizárólag olyan bevételt szerzett, amelyet nem kell bevallania. Nem kell bevallani azt a bevételt,
 

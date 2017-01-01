@@ -6,7 +6,7 @@
 
 (3) A házastársak által együttesen érvényesíthető kedvezmény jogosultsági hónaponként 33 335 forint.
 
-(4) Jogosultsági hónapként a házassági életközösség fennállása alatt a házasságkötést követő hónaptól (azt első jogosultsági hónapnak tekintve) legfeljebb 24 hónap vehető figyelembe, de az említett időtartamon belül utoljára az a hónap, amelyet követően a magánszemély magzatra vagy gyermekre (ide nem értve a nevelt gyermeket) tekintettel családi kedvezményre válik jogosulttá.
+(4) Jogosultsági hónapként a házassági életközösség fennállása alatt a házasságkötést követő hónaptól (azt első jogosultsági hónapnak tekintve) legfeljebb 24 hónap vehető figyelembe.
 
 (5) A kedvezményt a házastársak – döntésük szerint – az összeg megosztásával közösen érvényesítik, ideértve azt az esetet is, ha a kedvezményt kizárólag egyikük veszi igénybe. A kedvezmény közös igénybevétele az adóbevallásban, munkáltatói adómegállapításban független attól, hogy az adóelőleg megállapításánál mely házastársnál történt annak figyelembevétele.
 

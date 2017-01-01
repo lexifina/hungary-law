@@ -8,7 +8,7 @@ b) megállapított 11/B. §-ának rendelkezését
 
 a 2012. adóévre vonatkozó adónyilatkozat megtétele esetében is alkalmazni kell.
 
-(3) Ha a biztosító 2012. december 31-ét követően olyan teljes életre szóló kockázati élet- és balesetbiztosításra teljesít kifizetést, amelynek volt adómentes díja, úgy a 2012. december 31-éig megfizetett díjra és az ahhoz kapcsolódó biztosítói teljesítésre e törvény 2012. december 31-én hatályos rendelkezéseit lehet alkalmazni, ha az a magánszemély számára kedvezőbb.
+(3)
 
 (4) E törvény
 

@@ -28,7 +28,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.10. a menedékjogról szóló törvény végrehajtásról szóló kormányrendeletben felsorolt támogatások: az étkezési hozzájárulás, a higiénés hozzájárulás, a szabad felhasználású költőpénz, az oktatási, nevelési költségek megtérítése, a beiskolázási támogatás, a letelepedéshez nyújtott egyszeri támogatás, a rendszeres létfenntartási támogatás, lakhatási támogatás, lakáscélú támogatás és az integrációs támogatás.
 
-1.11. a honvédek jogállásáról szóló törvényben meghatározott kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás.
+1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás.
 
 2. A lakáshoz kapcsolódóan adómentes:
 
@@ -68,6 +68,18 @@ kap;
 
 2.10. a nemzeti otthonteremtési közösségekről szóló törvény alapján a tag részére nyújtott valamennyi juttatás és azok hozama, valamint a tagot megillető állami támogatás összege.
 
+2.11. az ugyanazon munkáltató által nyújtott mobilitási célú lakhatási támogatás havi értékéből
+
+a) a foglakoztatás első 24 hónapjában a minimálbér 40 százalékát,
+
+b) a foglakoztatás második 24 hónapjában a minimálbér 25 százalékát,
+
+c) a foglakoztatás b) pont szerinti időszakát követő 12 hónapban a minimálbér 15 százalékát
+
+meg nem haladó összeg, figyelemmel a 9. pont 9.7. alpont előírásaira is.
+
+2.11. a hősi halottá nyilvánított katonák hozzátartozói (katonaözvegyek és az elhunyt saját háztartásában eltartott, árván maradt gyermekek, hadiárvák) részére belső szabályzat szerint biztosított lakhatási támogatás, lakáscélra adott vissza nem térítendő támogatás.
+
 3. A közcélú juttatások körében adómentes:
 
 3.1. a közhasznú alapítványból, közalapítványból annak alapszabályban rögzített közhasznú céljával összhangban a magánszemély részére kifizetett azon összeg, amelyet az oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra (ösztöndíj címén) folyósítanak, a szociálisan rászoruló részére szociális segély címén folyósítanak, a diák- és szabadidősport résztvevőjének alkalmanként legfeljebb az 500 forintot meg nem haladóan folyósítanak;
@@ -92,7 +104,7 @@ kap;
 
 nyújt.
 
-3.3. a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
+3.3. a jótékony célú közadakozásból, a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
 
 3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
 
@@ -130,9 +142,9 @@ vállalkozási tevékenységet nem folytató alapítványtól, közalapítványt
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
-4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom, továbbá a kizárólag magánszemélyek által létrehozott, gazdasági tevékenységet nem folytató alapítvány által a tudományos kutatás, fejlesztés, utánpótlás-nevelés területén nemzetközi szinten is kimagasló eredményt elért személyek részére adott díj és az ahhoz kapcsolódó pénzjutalom (ideértve különösen a Bolyai János Alkotói Díjat);
+4.5. a Magyar Corvin-lánc Testület által megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom, továbbá a kizárólag magánszemélyek által létrehozott, gazdasági tevékenységet nem folytató alapítvány által a tudományos kutatás, fejlesztés, utánpótlás-nevelés területén nemzetközi szinten is kimagasló eredményt elért személyek részére adott díj és az ahhoz kapcsolódó pénzjutalom (ideértve különösen a Bolyai János Alkotói Díjat);
 
-4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, a Honvéd Vezérkar főnöke, valamint a büntetés-végrehajtásért, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, az Országgyűlés elnöke és a vallási közösség által adományozott emléktárgy (különösen szál- vagy lőfegyver, dísztőr, gyűrű) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
+4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, a Magyar Corvin-lánc kitüntetés tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, a Honvéd Vezérkar főnöke, valamint a büntetés-végrehajtásért, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, az Országgyűlés elnöke és a vallási közösség által adományozott emléktárgy (különösen szál- vagy lőfegyver, dísztőr, gyűrű) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
 
 4.7. a) kormányrendeletben szabályozott feltételek alapján két- és többoldalú nemzetközi oktatási együttműködési megállapodás keretében az oktatásért felelős miniszter által a Magyar Ösztöndíj Bizottság vagy a Magyar Ösztöndíj Bizottság Irodája javaslatára adományozott ösztöndíj, egyéb juttatás,
 
@@ -149,6 +161,8 @@ c) a két- és többoldalú nemzetközi megállapodások alapján, valamint eur�
 d) a határon túli magyarok részére felajánlott képzési és kutatási lehetőségek keretében ösztöndíjban részesülő külföldi oktatók, kutatók részére folyósított juttatás, nyújtott kedvezmény,
 
 e) az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan juttatás, amelyet az Európai Unió finanszíroz, melynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
+
+f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak
 
 bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének;
 
@@ -192,7 +206,7 @@ c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Öszt
 
 4.16. az „Útravaló” Ösztöndíjprogram keretében a Kormány rendeletében meghatározott feltételekkel és módon adományozott tanuló és mentori ösztöndíj, a nemzetiségpolitikáért felelős miniszter rendeletével alapított anyanyelvű és kétnyelvű nemzetiségi program szerint működő középfokú iskolák, valamint – amennyiben az adott nemzetiség ilyen intézményt nem tart fenn – nemzetiségi nyelvoktatást folytató középfokú iskolák tanulói részére adományozható ösztöndíj;
 
-4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, a Deák Ferenc Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
+4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
 
 4.18. a nemzeti felsőoktatásról szóló törvény alapján adományozott arany, gyémánt, vas, illetve rubin díszoklevélhez kapcsolódóan a felsőoktatási intézmény által a Szabályzatában meghatározott feltételek szerint kifizetett pénzbeli juttatásnak az a része, amely nem haladja meg az adóév első napján érvényes minimálbér havi összegének négyszeresét;
 
@@ -306,7 +320,7 @@ c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 
 6.8. a 6.6. pont alkalmazásában biztosító a biztosítóintézetekről és a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
-6.9. a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás - szerződőként vagy a biztosítóhoz bejelentett díjfizetőként más személy által fizetett - rendszeres díja (díjelőírása), azzal, hogy rendszeres díjnak minősül az a díj, amelyet a biztosítási szerződés alapján legalább évente egy alkalommal kell fizetni, és amelynek összege az adott biztosítási évben nem haladja meg az előző biztosítási évben fizetett rendszeres díjak együttes összegének a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét, azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj;
+6.9. a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás - szerződőként vagy a biztosítóhoz bejelentett díjfizetőként más személy által fizetett - rendszeres díja (díjelőírása), azzal, hogy rendszeres díjnak minősül az a díj, amelyet a biztosítási szerződés alapján legalább évente egy alkalommal kell fizetni, és amelynek összege az adott biztosítási évben nem haladja meg az előző biztosítási évben fizetett rendszeres díjak együttes összegének a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét (fogyasztói árcsökkenés esetén a 30 százalékpontot), azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj;
 
 6.10. az a juttatás, amelyet az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásként kap a magánszemély.
 
@@ -408,6 +422,8 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 
 7.33. az az összeg, amelyet a magánszemély mint kérelmező ügyfél, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései szerint a hatóság által hozott függő hatályú döntés alapján kap.
 
+7.34. a 17. FINA Úszó-, Vízilabda-, Műugró-, Műúszó- és Nyíltvízi Világbajnokság megrendezésével összefüggésben a FINA-tisztségviselők, a versenybírók részére kifizetett juttatás (különösen: a napidíj, valamint a szállás- és utazási költségek megtérítése), a sportolók részére kifizetett pénzdíj, a FINA-tisztségviselők, versenybírók, szervezőbizottsági tisztségviselők, a sportolók és önkéntesek részére adott formaruhák, természetben biztosított ellátás, a versenyekhez kapcsolódóan adott promóciós jellegű juttatások.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
@@ -426,15 +442,13 @@ a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről s
 
 b) a köznevelésről szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
 
-c) bölcsődei szolgáltatás;
+c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás;
 
 d) a foglalkozás-egészségügyi ellátás;
 
 e) a kegyeleti ellátás;
 
-f) a szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető tulajdonát képező vagy általa bérelt olyan szálláshely, amely lakóhelyiségenként egynél több, a kifizetővel munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, akinek nincs lakóhelye azon a településen, ahol munkahelye van; nem munkásszállás az a szálláshely, ahol a kifizető olyan magánszemélyt, illetve ennek hozzátartozóját szállásolja el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
-
-g)
+f) a szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető tulajdonát képező vagy általa bérelt olyan szálláshely, amely egy lakóhelyiséggel rendelkező önálló ingatlan esetében a lakóhelyiségben egynél több, több lakóhelyiséggel rendelkező önálló ingatlan esetében pedig lakóhelyiségenként legalább egy, a kifizetővel munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, akinek nincs lakóhelye azon a településen, ahol a munkahelye van; nem munkásszállás az a szálláshely, ahol a kifizető olyan magánszemélyt, illetve ennek hozzátartozóját szállásolja el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
 
 8.7. az a szolgáltatás, amelyet a kifizető az általa fenntartott vagy használt sportlétesítményben szervezett sportrendezvényen nyújt (kivéve az utazást, az elszállásolást), továbbá az a sportszolgáltatás, amelyet a kifizető az általa fenntartott sportlétesítmény használata útján juttat, valamint az a szolgáltatás, amelyet a sportszervezet, országos sportági szakszövetség a versenysport, diáksport érdekében szervezett edzés vagy verseny – vele munkaviszonyban, megbízási vagy vállalkozási jogviszonyban nem álló – résztvevőjének az edzési vagy versenyfeladathoz tartozó utazás, szállás és étkezési szolgáltatás révén juttat, azzal hogy a sportoló 30 napnál hosszabb folyamatos elszállásolására (így különösen szállodai elhelyezésére) csak akkor lehet e rendelkezést alkalmazni, ha az az olimpiai játékokon, a világbajnokságon, az Európa-bajnokságon, a speciális világjátékokon vagy a Heraklész program keretében való versenyzést, illetve az arra történő közvetlen felkészülést szolgálja;
 
@@ -476,7 +490,7 @@ b) üzleti forgalmának növelése érdekében valamely termék megismertetése 
 
 8.19. a)
 
-b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter által az államközi és az államok feletti szervezetekkel kapcsolatos diplomáciai esemény alkalmával nyújtott vendéglátás (étel, ital) és az ahhoz kapcsolódó szolgáltatás (utazás, szállás, szabadidőprogram stb.), adott ajándék; a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter esetében ide kell érteni azt az esetet is, amikor az előzőeket külképviselet által közvetve nyújtja;
+b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, az európai uniós ügyek koordinációjáért felelős miniszter, a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter által az államközi és az államok feletti szervezetekkel kapcsolatos diplomáciai esemény alkalmával nyújtott vendéglátás (étel, ital) és az ahhoz kapcsolódó szolgáltatás (utazás, szállás, szabadidőprogram stb.), adott ajándék; az európai uniós ügyek koordinációjáért felelős miniszter, a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter esetében ide kell érteni azt az esetet is, amikor az előzőeket külképviselet által közvetve nyújtja;
 
 8.20. a bevett egyház belső szabályában meghatározott tartási kötelezettségből adódó juttatás, ideértve az egyházi jogi személy által a kezelésében levő egyházi üdülőben egyházi személynek nyújtott ingyenes üdülést is, valamint a bejegyzett szerzetesrend közösségében élő magánszemély tagnak a rendtől – egyéni szükségleteinek fedezetére – kapott pénzbeli vagy nem pénzbeli juttatás;
 
@@ -629,3 +643,39 @@ A jövedelem megállapítására értelemszerűen e törvénynek az ingatlan, va
 9.5.4. A 9.5.1. pont d) alpontjának alkalmazásában a birtok-összevonási cél akkor valósul meg, ha az átruházás eredményeként már az ügyletet megelőzően is a vevő tulajdonában álló termőföld és az ügyletben megvásárolt termőföld – a település közigazgatási határától függetlenül – egymással szomszédossá válik. Az egy naptári éven belül megkötött és ezen időtartamon belül az ingatlanügyi hatósághoz benyújtott ingatlan adásvételi szerződések hatását együttesen kell vizsgálni. Szomszédos termőföldeknek minősülnek azok a földrészletek is, amelyeket önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna választ el.
 
 9.6. A kifizető az adózás rendjéről szóló törvény 31. § (2) bekezdése szerinti rendben, magánszemélyenkénti elkülönítésben adatot szolgáltat az állami adóhatóság részére a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás díjaként adómentesen fizetett összegről, a biztosító nevéről és székhelyéről.
+
+9.7. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok
+
+9.7.1. A lakhatási támogatás havi értékeként
+
+a) a munkavállaló által bérelt lakás bizonylattal igazolt havi bérleti díjából a munkáltató által térített rész,
+
+b) a munkáltató által bérelt lakás bizonylattal igazolt havi bérleti díjából a munkavállaló által meg nem térített rész,
+
+c) a munkáltató tulajdonában álló lakásban biztosított lakhatás szokásos piaci értékéből a munkavállaló által meg nem térített rész
+
+vehető figyelembe.
+
+9.7.2. A munkáltató által nyújtott lakhatási támogatás abban az esetben tekinthető mobilitási célú lakhatási támogatásnak, ha a munkáltató azt olyan munkavállalónak nyújtja
+
+a) akivel határozatlan időtartamra szóló és legalább heti 36 óra munkaidejű munkaviszonyt létesít, amely esetben az állandó lakóhelye és a munkavégzés helye legalább 60 km-re van egymástól, vagy a munkavégzés helye és az állandó lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje a 3 órát meghaladja,
+
+b) aki nem rendelkezett a munkaviszony létrejöttét megelőző 12 hónapban, és nem rendelkezik a támogatás nyújtásának időpontjában lakás tulajdonjogával, haszonélvezeti jogával a munkavégzés helyén, valamint olyan településen, amelynek a munkavégzés helyétől való távolsága nem éri el a 60 km-t, vagy amelytől a munkavégzési helyéig, tömegközlekedési eszközzel történő oda- és visszautazás ideje nem éri el a 3 órát.
+
+9.7.3. Amennyiben munkavállaló által bérelt ugyanazon lakás tekintetében több magánszemély is jogosult adómentes lakhatási támogatás igénybevételére, azt közülük csak – a döntésük szerinti – egyikük veheti igénybe.
+
+9.7.4. A munkavállaló a 9.7.2. és 9.7.3. alpont szerinti feltételek teljesüléséről vagy azok megszűnéséről a munkáltatónak nyilatkozatot tesz. Valótlan tartalmú nyilatkozat esetén vagy a nyilatkozat módosításának elmulasztása esetén az adókötelezettséget a munkaviszonyból származó jövedelemre vonatkozó szabályok szerint kell megállapítani azzal, hogy az adóhatóság határozatában az egyébként a munkáltatót (foglalkoztatót) terhelő közterheket és azok teljesítése elmulasztásának jogkövetkezményeit a magánszemély terhére állapítja meg.
+
+9.7.5. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok alkalmazásában
+
+a) ugyanazon munkáltatónak minősül az a személy is, aki (amely) a munkáltatónak a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozása,
+
+b) nem tekinthető munkavállalónak az a magánszemély, akivel a munkáltató a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő eset szerinti kapcsolatban áll.
+
+9.7.6. A munkáltató az adóévet követő év január 31-ig munkavállalónként adatot szolgáltat az adómentes támogatásban részesített magánszemélyek nevéről, adóazonosító jeléről, a munkavállaló által bérelt lakás címéről.
+
+9.8. Az erdőnek minősülő termőföld haszonbérbe adásából származó jövedelem adómentességére vonatkozó szabályok
+
+9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosult adóhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
+
+9.8.2. A magánszemély köteles a 9.8.1 pont szerinti mentesség alapján korábban meg nem fizetett adót késedelmi pótlékkal növelt összegben a szerződés megszűnése éve kötelezettségeként megállapítani, bevallani és megfizetni, ha a mentesség alapjául szolgáló szerződés az adómentesség feltételéül szabott időtartamon belül bármely okból (ide nem értve a szerződő feleken kívül álló okot, valamint a haszonbérleti szerződés azonnali hatályú felmondását) megszűnik.

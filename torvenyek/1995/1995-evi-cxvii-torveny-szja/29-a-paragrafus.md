@@ -36,7 +36,7 @@ c) a családi pótlékra saját jogán jogosult gyermek (személy);
 
 d) a rokkantsági járadékban részesülő magánszemély
 
-a c)–d) pont szerinti esetben azzal, hogy az ott említett jogosult és a vele közös háztartásban élő hozzátartozói közül egy – a döntésük szerinti – minősül jogosultnak.
+a c)–d) pont szerinti esetben azzal, hogy az ott említett jogosult és a vele közös háztartásban élő hozzátartozói (ideértve a gyermek szüleinek hozzátartozóit is) közül egy – a döntésük szerinti – minősül jogosultnak.
 
 (4) Kedvezményezett eltartott
 
@@ -52,7 +52,7 @@ d) a rokkantsági járadékban részesülő magánszemély.
 
 a) a kedvezményezett eltartott,
 
-b) az, aki a családok támogatásáról szóló törvény szerint a családi pótlék összegének megállapítása szempontjából figyelembe vehető.
+b) az, aki a családok támogatásáról szóló törvény szerint a családi pótlék összegének megállapítása szempontjából figyelembe vehető vagy figyelembe vehető lenne, akkor is, ha a kedvezményezett eltartott után nem családi pótlékot állapítanak meg, családi pótlékot nem állapítanak meg, vagy a családi pótlék összegét a gyermekek száma nem befolyásolja.
 
 (6) E § alkalmazásában jogosultsági hónap az a hónap,
 

@@ -42,37 +42,7 @@ vagy
 
 (3a) Ha az ingatlan értékesítése – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység [3. § 46. pont] keretében történik, az (1)–(3) bekezdés rendelkezései szerint megállapított jövedelem önálló tevékenységből származó jövedelemnek minősül.
 
-(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(3) bekezdés szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
-
-a) a hatodik évben történik, a számított összeg 10 százalékával,
-
-b) a hetedik évben történik, a számított összeg 20 százalékával,
-
-c) a nyolcadik évben történik, a számított összeg 30 százalékával,
-
-d) a kilencedik évben történik, a számított összeg 40 százalékával,
-
-e) a tizedik évben történik, a számított összeg 50 százalékával,
-
-f) a tizenegyedik évben történik, a számított összeg 60 százalékával,
-
-g) a tizenkettedik évben történik, a számított összeg 70 százalékával,
-
-h) a tizenharmadik évben történik, a számított összeg 80 százalékával,
-
-i) a tizennegyedik évben történik, a számított összeg 90 százalékával,
-
-j) a tizenötödik évben vagy később történik, a számított összeg 100 százalékával.
-
-(5)
-
-(6) A (4)–(5) bekezdés rendelkezéseitől eltérően, az ingatlanügyi hatóság nyilvántartása szerint
-
-a) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró építmény és a hozzá tartozó földrészlet (ideértve azt is, amelyet a lakáshoz tartozó földhasználati jog terhel),
-
-b) lakásra vonatkozó vagyoni értékű jog
-
-átruházása esetén a jövedelem a számított összeg
+(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(3) bekezdés szerint kiszámított összeg (e § alkalmazásában: számított összeg)
 
 1. 100 százaléka a megszerzés évében és az azt követő évben,
 
@@ -84,6 +54,10 @@ b) lakásra vonatkozó vagyoni értékű jog
 
 5. 0 százaléka a megszerzés évét követő ötödik és további évben.
 
-(7) Az Szja tv. 2008. január 1-je előtt hatályos rendelkezései szerint lakásszerzési kedvezménnyel szerzett lakás átruházása esetén a (6) bekezdés alkalmazásában számított összegbe be kell számítani a lakásszerzési kedvezmény alapjaként érvényesített összeget, ha az ilyen lakás átruházása a lakásszerzési kedvezmény érvényesítésének évében vagy azt követő negyedik naptári év utolsó napját megelőzően történt.
+(5)
+
+(6)
+
+(7)
 
 (8) Nem kell jövedelmet megállapítani az ingatlan, vagyoni értékű jog átruházására tekintettel megszerzett bevétel után, ha azt a bevételt az adózó a természetes személyek adósságrendezéséről szóló törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján teljes egészében a tartozásai megfizetésére fordítja. Abban az esetben, ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.

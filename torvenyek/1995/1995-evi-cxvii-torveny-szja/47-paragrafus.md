@@ -28,6 +28,6 @@ cb) a ca) pontban nem említett költségtérítés esetében a költségelszám
 
 (4) Nem kell adóelőleg-alapot megállapítani az őstermelői tevékenységből származó bevétel esetén, amíg annak összege az adóév elejétől összesítve az adóévben nem haladja meg a nemleges bevallási nyilatkozat megtételére jogosító összeghatárt, ha azonban meghaladta, akkor az adóelőleg-alapot az adóévben megszerzett összes őstermelői tevékenységből származó bevétel alapján kell megállapítani.
 
-(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 78 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó, a 27 százalékos mértékű egészségügyi hozzájárulás megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
+(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 82 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó, a 22 százalékos mértékű egészségügyi hozzájárulás megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
 
 (6)–(9)

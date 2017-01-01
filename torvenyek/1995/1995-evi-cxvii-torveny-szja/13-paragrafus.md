@@ -32,6 +32,6 @@ n) valamely bevételével összefüggésben egészségügyi hozzájárulásra el
 
 o) adóját e törvény külön rendelkezése szerint adóbevallásában kell (lehet) megállapítani;
 
-p) az a)–o) pontban nem említett esetben – figyelemmel a 12. §, valamint a 14. § rendelkezéseire is –, ha nem tehet vagy nem tesz egyszerűsített bevallásra vagy munkáltatói elszámolásra vonatkozó nyilatkozatot.
+p) az a)–o) pontban nem említett esetben – figyelemmel a 12. §, valamint a 14. § rendelkezéseire is –, ha nem tehet vagy nem tesz munkáltatói elszámolásra vonatkozó nyilatkozatot.
 
 (2) A magánszemély a külön adózó jövedelmei közül annak a jövedelemnek az adóját, amely nem kifizetőtől származik vagy egyébként, amely jövedelem adójának megállapítására maga köteles – ha az nem tartozik az adóelőleg megállapítására irányadó rendelkezések hatálya alá – az adóhatóság közreműködése nélkül elkészített bevallásában az adófizetési kötelezettség gyakoriságának megfelelő (havi, negyedéves) bontásban, negyedéves gyakoriságú adófizetési kötelezettség esetében a negyedév utolsó hónapjának kötelezettségeként vallja be.

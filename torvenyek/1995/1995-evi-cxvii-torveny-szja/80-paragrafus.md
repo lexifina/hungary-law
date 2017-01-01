@@ -1,6 +1,6 @@
 80. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
-a) a közműfejlesztés támogatásának rendjét;
+a)
 
 b) egyes költségtérítések formáit és a jövedelemadó szempontjából igazolás nélkül elszámolható költségek mértékeit;
 

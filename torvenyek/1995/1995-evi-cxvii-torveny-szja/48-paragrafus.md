@@ -1,6 +1,6 @@
 ## Az adóelőleg-nyilatkozat
 
-48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat adható esetenként vagy az adóéven belül visszavonásig (újabb nyilatkozattételig) érvényesen. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni.
+48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat adható esetenként vagy az adóéven belül visszavonásig (újabb nyilatkozattételig) érvényesen. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni. Nem kell új nyilatkozatot tenni, ha a magánszemély a családi kedvezményt már a magzatra tekintettel is érvényesítette.
 
 (2) Az adóelőleg-nyilatkozatban a magánszemély az adott esettől függően nyilatkozik
 
@@ -20,7 +20,7 @@ a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
 
 b) minden eltartott (kedvezményezett eltartott) nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
 
-c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát, valamint a nyilatkozatban foglaltak tudomásulvételét igazoló kijelentését, míg e munkáltató, kifizető hiányában az erre vonatkozó kijelentést.
+c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
 (3a) A magánszemély az első házasok kedvezményének érvényesítésére vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A jogosult házastársak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A jogosult házastársakat jogosultsági hónaponként együttesen megillető kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető a nyilatkozat szerint veszi figyelembe. A kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 

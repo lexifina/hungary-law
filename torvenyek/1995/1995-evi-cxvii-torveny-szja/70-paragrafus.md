@@ -54,35 +54,33 @@ d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető üzletpolitikai 
 
 azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
 
-(3a) Egyes meghatározott juttatásnak minősül az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett azon összeg, amely nem minősül béren kívüli juttatásnak.
+(3a) Egyes meghatározott juttatásnak minősül az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összeg.
 
 (4) Egyes meghatározott juttatásnak minősül
 
-a) az a juttatás, amely megfelel a 71. §-ban meghatározott béren kívüli juttatás feltételeinek, de az ott meghatározott értékhatárt meghaladja,
+a) a 71. § (1) bekezdés b) szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
 
-b) az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan biztosított béren kívüli juttatások – ide nem értve a 71. § (1) bekezdés c) pontja szerinti juttatást – adóévi együttes értékének az éves keretösszeget meghaladó része,
+b) a 71. § (1) bekezdés a) pontja szerinti pénzösszeg adóévi értékének az éves keretösszeget [71. § (6) bekezdés e) pont] meg nem haladó része és a 71. § (1) bekezdés b) pontja szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része.
 
-c) a 71. § (1) bekezdés c) pontja szerinti juttatást nem tartalmazó (az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan biztosított) béren kívüli juttatások adóévi értékének az éves keretösszeget meg nem haladó része és a 71. § (1) bekezdés c) pontja szerint (az adott juttatásra vonatkozóan meghatározott értékhatárt meg nem haladóan) az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része.
+(4a) A (4) bekezdés b) pont alkalmazásában az éves rekreációs keretösszeg
 
-(4a) A (4) bekezdés b) pont alkalmazásában az éves keretösszeg
+a) – ha a munkáltató költségvetési szerv –
 
-a) évi 200 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
+aa) évi 200 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
 
-b) a 200 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
+ab) a 200 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
 
-c) évi 200 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg,
+ac) évi 200 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg;
 
-azzal, hogy a keretösszeg számításánál a munkavállalót megillető béren kívüli juttatásnak kell tekinteni a munkavállalóra tekintettel más magánszemélynek biztosított béren kívüli juttatást is.
+b) más munkáltató esetében
 
-(4b) A (4) bekezdés c) pont alkalmazásában az éves rekreációs keretösszeg
+ba) évi 450 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
 
-a) évi 450 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
+bb) a 450 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
 
-b) a 450 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
+bc) évi 450 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
 
-c) évi 450 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg,
-
-azzal hogy a keretösszeg számításánál a munkavállalót megillető béren kívüli juttatásnak kell tekinteni a munkavállalóra tekintettel más magánszemélynek biztosított béren kívüli juttatást is.
+(4b)
 
 (5) E § alkalmazásában
 
