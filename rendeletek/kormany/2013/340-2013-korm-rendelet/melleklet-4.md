@@ -1,8 +1,8 @@
-## 3K67702_0
+## Külföldi gyógykezelés az uniós rendeletek alapján – bírálati lap
 
 | Kérelem elbírálásának adatai |
 
-| Kérelem elbírálásának azonosítója (OEP adja ki: tárgyév + sorszám): |
+| Kérelem elbírálásának azonosítója (NEAK adja ki: tárgyév + sorszám): |
 
 | A külföldi ellátás típusa a kérelem szerint: |
 
@@ -74,9 +74,9 @@
 
 | Engedélyezett ellátás igénybevételének záró időpontja: |
 
-| AZ OEP ÁLTAL JÓVÁHAGYOTT SZOLGÁLTATÓ AZ ELLÁTÁS NYÚJTÁSÁRA: |
+| A NEAK ÁLTAL JÓVÁHAGYOTT SZOLGÁLTATÓ AZ ELLÁTÁS NYÚJTÁSÁRA: |
 
-| Az OEP a következő szolgáltatót fogadta el az ellátás elvégzésére 1 = OEP által kijelölt magyar szolgáltató 2 = Beteg által megjelölt külföldi szolgáltató 3 = OEP által kijelölt külföldi szolgáltató |
+| A NEAK a következő szolgáltatót fogadta el az ellátás elvégzésére 1 = NEAK által kijelölt magyar szolgáltató 2 = Beteg által megjelölt külföldi szolgáltató 3 = NEAK által kijelölt külföldi szolgáltató |
 
 | Az ellátásra elfogadott szolgáltató megnevezése: |
 
@@ -86,6 +86,6 @@
 
 | Egyéb megjegyzés: |
 
-4. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+4. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^50]
 
-Külföldi gyógykezelés határon átnyúló egészségügyi ellátás keretében – bírálati lap
+[^50]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés l) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 3K67704_0
+## Külföldi gyógykezelés határon átnyúló egészségügyi ellátás keretében – bírálati lap
 
 | Kérelem elbírálásának adatai |
 
-| Kérelem elbírálásának azonosítója (OEP adja ki: tárgyév + sorszám): |
+| Kérelem elbírálásának azonosítója (NEAK adja ki: tárgyév + sorszám): |
 
 | A külföldi ellátás típusa a kérelem szerint: |
 
@@ -77,5 +77,3 @@
 | Egyéb megjegyzés: |
 
 5. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
-
-Tagozat véleménye külföldi gyógykezelés igénybevételére irányuló kérelemről

@@ -1,5 +1,3 @@
-## 3K67708_0
-
 | Felülvizsgálat külföldi ellátás eredményéről (a kezelőorvos tölti ki) |
 
 | I. A külföldi gyógykezelésre jogosult személyre vonatkozó adatok |
@@ -34,7 +32,7 @@
 
 | OENO és HBCs-kód (5) megnevezés mennyiség |
 
-| A felülvizsgáló orvos véleménye szerint az elvégzett külföldi ellátás az OEP által engedélyezett ellátással megegyezett nem egyezett meg |
+| A felülvizsgáló orvos véleménye szerint az elvégzett külföldi ellátás a NEAK által engedélyezett ellátással megegyezett nem egyezett meg |
 
 | A beteg további kezelésének módja: |
 

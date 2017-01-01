@@ -13,5 +13,3 @@ b) a Tbj. 16. § (1) bekezdése alapján egészségügyi szolgáltatásra jogosu
 a) érdekében külföldi donoron külföldi egészségügyi szolgáltató által végrehajtott vizsgálat, szerv-, illetve szöveteltávolítás, továbbá a szerv- és szövet magyarországi egészségügyi szolgáltatóhoz történő szállításának, valamint
 
 b) külföldi, illetve nemzetközi várólistára helyezése költségeinek
-
-a finanszírozására.
