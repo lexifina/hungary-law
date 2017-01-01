@@ -8,6 +8,8 @@ b) a díjfizetés tárgyára az Itv. 28. § (2) bekezdés a) és b) pontjában, 
 
 c) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. § (1) bekezdés első mondatában, valamint
 
-d) a díjfizetés törlésére és visszatérítésére az Itv. 79. § (1) és (2) bekezdésében, továbbá az Itv. 80. § (1) bekezdés f) és j) pontjában
+d)[^3] a díjfizetés törlésére és visszatérítésére az Itv. 79. § (1) és (2) bekezdésében, továbbá az Itv. 80. § (1) bekezdés f) és j) pontjában
 
-foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon az igazgatási szolgáltatási díjat, ahol az Itv. állami adóhatóságot említ, azon a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát kell érteni.
+foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon az igazgatási szolgáltatási díjat, ahol az Itv. állami adóhatóságot említ, azon a Belügyminisztériumot kell érteni.
+
+[^3]: A 4. § d) pontja az 58/2016. (XII. 22.) BM rendelet 59. § (2) bekezdés b) pontja szerint módosított szöveg.
