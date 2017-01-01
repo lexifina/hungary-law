@@ -1,3 +1,3 @@
-## 10. §[^7]
+## 10. §[^4]
 
-[^7]: A 10. § a 16. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.
+[^4]: A 10. § a 16. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.

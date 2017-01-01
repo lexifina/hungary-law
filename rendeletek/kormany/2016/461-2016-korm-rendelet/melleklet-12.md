@@ -1,3 +1,3 @@
-12–13. melléklet a 461/2016. (XII. 23.) Korm. rendelethez[^17]
+12–13. melléklet a 461/2016. (XII. 23.) Korm. rendelethez[^10]
 
-[^17]: A 12–13. melléklet a 16. § (4) bekezdése alapján 2018. november 1-jén lép hatályba.
+[^10]: A 12–13. melléklet a 16. § (4) bekezdése alapján 2018. november 1-jén lép hatályba.

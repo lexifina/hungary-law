@@ -1,3 +1,3 @@
-## 12. §[^9]
+## 12. §[^6]
 
-[^9]: A 12. § a 16. § (5) bekezdése alapján 2019. november 1-jén lép hatályba.
+[^6]: A 12. § a 16. § (5) bekezdése alapján 2019. november 1-jén lép hatályba.
