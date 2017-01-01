@@ -1,5 +1,7 @@
-## 10. A kezességtől és készpénzletéttől eltérő biztosíték részletes szabályai
+## 10. [^4] A banki fedezetigazolásra, garanciavállaló nyilatkozatra és a készfizető kezesi szerződésre vonatkozó részletes szabályok
 
-30. § (1) Ha az ügyfél a bankgaranciát, banki fedezetigazolást vagy a biztosítási kötelezvényt külföldi hitelintézet vagy biztosító által vállalt bankgarancia, banki fedezetigazolás vagy biztosítói kötelezvény formájában nyújtja, csatolnia kell annak hiteles magyar fordítását is. A bankgarancia, banki fedezetigazolás vagy a biztosítási kötelezvény hiteles magyar fordítása akkor is megkövetelhető, ha azt másik tagállamban kiadandó olyan egységes engedélyhez nyújtották be, melyek használatát ki kívánják terjeszteni Magyarországra.
+30. § (1) Ha a Vtv. 60. § szerinti banki fedezetigazolást, garanciavállaló nyilatkozatot vagy készfizető kezesi szerződést külföldi hitelintézet, pénzintézet vagy biztosítótársaság adja ki, akkor a hiteles magyar nyelvű fordítás megkövetelhető.
 
-(2) A bankgarancia és a biztosítói kötelezvény mintáját a NAV a honlapján teszi közzé.
+(2) A Vtv. 60. § b) pontja szerinti kötelezettségvállalás formanyomtatványait a NAV a honlapján teszi közzé.
+
+[^4]: A 10. alcím (30. §) a 63/2016. (XII. 29.) NGM rendelet 35. §-ával megállapított szöveg.

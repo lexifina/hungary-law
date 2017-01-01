@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-11-20-2
 | 2016-05-15 | 2016-11-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-05-30 | 2016-11-20-2X.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-10-13 | 2016-11-20-2X.5 | 38/2016. (X. 12.) NGM rendelet |
+| 2017-01-01 | 2016-11-20-2X.6 | 63/2016. (XII. 29.) NGM rendelet |

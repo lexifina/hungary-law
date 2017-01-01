@@ -1,4 +1,4 @@
-## 55. §[^5]
+## 55. §[^13]
 
 1. melléklet a 11/2016. (IV. 29.) NGM rendelethez
 
@@ -138,4 +138,4 @@ A KSZF-határozat iránti kérelem vagy azzal egyező adattartalmú és formátu
 
 A KSZF-határozat iránti kérelmet egy példányban kiállítva kell benyújtani a NAV Szakértői Intézetéhez.
 
-[^5]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

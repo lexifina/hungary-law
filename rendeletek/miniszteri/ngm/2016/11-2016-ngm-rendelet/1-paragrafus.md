@@ -1,13 +1,3 @@
-## 1. A gazdálkodó számítógépesített rendszerének működési zavara esetén alkalmazandó részletszabályok
+## 1. [^1] A vámhatóság és a gazdálkodó számítógépesített rendszerének működési zavara esetén alkalmazandó részletszabályok
 
-1. § (1) Ha a vámhatóság váminformatikai rendszere – hétköznapokon 8 órától 16 óráig (a továbbiakban: munkaidőben) 2 órát meghaladó, egyéb időszakban (a továbbiakban: munkaidőn kívül) 4 órát meghaladó időtartamban – nem üzemel, abban az esetben erről a vámhatóság e-mail útján tájékoztatja az ügyfeleket, egyidejűleg a NAV Internetes Portálján közzéteszi az üzemszüneti feldolgozási rend bevezetését. A vámhatóság mind az üzemszüneti eljárás kezdetéről, mind az üzemszüneti eljárás befejezéséről küld tájékoztatást.
-
-(2) Ha az üzemszünet az ügyféli oldalon jelentkezik (ügyfél okmánykitöltő rendszere vagy kommunikációs rendszere nem üzemel), és az informatikai alkalmazás munkaidőben 2 órát meghaladó, munkaidőn kívül 4 órát meghaladó időtartamban nem üzemel, abban az esetben – a rendszer üzemen kívül kerüléséről szóló bejelentés alapján – az üzemszüneti eljárást az indító/rendeltetési vámhivatal hagyja jóvá.
-
-(3) Az ügyfél rendszerének üzemen kívül kerülése esetén értesíti az indító/rendeltetési vámhivatalt. Az értesítés a „Gazdálkodó rendszerét érintő üzemszüneti eljárás bejelentése” elnevezésű nyomtatvány alkalmazásával fax útján, e-mail útján vagy személyesen, az árunyilatkozat benyújtásával egy időben is megvalósulhat.
-
-(4) Az ügyfél rendszerének üzemen kívül kerülése esetén árutovábbításnál az indító/rendeltetési vámhivatal, kivitel esetén a kiviteli vámhivatal dönt az üzemszünet bevezetéséről. Egyszerűsített eljárás esetén az indító/rendeltetési vámhivatal soron kívül hozza meg döntését. Ezen túlmenően az indító/rendeltetési, illetve a kiviteli vámhivatal – az üzemszüneti eljárás indokoltságára vonatkozóan – bizonyítékot kérhet vagy ellenőrzést végezhet. Amennyiben szükséges, az azonos hatáskörrel rendelkező, az ügyfél rendszerét üzemeltető székhely/telephely szerint illetékes vámhivatal is megkereshető ebből a célból.
-
-(5) A vámhatósági döntéssel ellátott bejelentőt az indító/rendeltetési vámhivatal fax, illetve e-mail útján visszaküldi vagy személyesen visszaadja az ügyfél részére.
-
-(6) Az üzemszünet elhárulásáról az ügyfél faxon/e-mail útján/személyesen haladéktalanul értesíti az indító/rendeltetési vámhivatalt. Az üzemszünet megszűnésének bejelentésére a (3) bekezdés szerinti nyomtatvány, vámhatósági engedéllyel ellátott bejelentő lap vagy azzal azonos tartalmú bejelentés is szolgálhat, amennyiben az indító/rendeltetési vámhivatal az üzemszünetet korábban jóváhagyta. Az ügyfélnek a bejelentőn fel kell tüntetnie – amennyiben volt – az üzemszüneti eljárás alatt felhasznált tételszámokat. Amennyiben a bejelentőn meglévő hely nem elegendő valamennyi tételszám feltüntetésére, akkor az ügyfél azt egy általa azonos adattartalommal szerkesztett táblázattal kiegészítheti. Az indító/rendeltetési, illetve a kiviteli vámhivatal a bejelentés tudomásul vételéről az ügyfelet értesíti.
+[^1]: Az 1. alcím (1–1/A. §) a 63/2016. (XII. 29.) NGM rendelet 32. §-ával megállapított szöveg.
