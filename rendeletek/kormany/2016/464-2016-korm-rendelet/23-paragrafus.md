@@ -1,3 +1,5 @@
-## 22. § Hatályát veszti a 337/2008. Korm. rendelet 1. § (1) bekezdés j) pontja.
+## 18–22. §[^18]
 
 ## 7. Az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló 180/2010. (V. 13.) Korm. rendelet módosítása
+
+[^18]: A 18–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

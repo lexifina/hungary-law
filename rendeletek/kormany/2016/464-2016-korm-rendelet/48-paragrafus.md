@@ -1,4 +1,6 @@
-## 47. §[^15]
+## 47. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A NEAK gazdálkodásával és üzemeltetésével kapcsolatos feladatok ellátásáról – jogszabály eltérő rendelkezése hiányában – a miniszter által vezetett minisztérium gondoskodik.”
 
 ## 18. Egyéb rendelkezések
 
@@ -23,5 +25,3 @@ be) 242. §-a,
 bf) 299. § h)–k) pontja,
 
 c) a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendeletnek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet 7. mellékletével megállapított 1. melléklet 29. pontja.
-
-[^15]: A 47. § a 49. § (3) bekezdése alapján 2017. január 2-án lép hatályba.
