@@ -22,11 +22,7 @@
 
 14–15.
 
-16. 44. § (1) bekezdésében az „– e törvény eltérő rendelkezése hiányában – tíz évre szóló” szövegrész helyébe a „ , húsz évre szóló” szöveg,
-
-17. 44. § (4) bekezdésében a „vadászatra jogosult a vadgazdálkodási üzemterv elkészítéséről a tájegységi” szövegrész helyébe a „tájegységi fővadász a vadgazdálkodási üzemtervre vonatkozó javaslattételről, illetve a vadászatra jogosult az üzemterv elkészítéséről a tájegységi” szöveg,
-
-18. 47. § (4) bekezdésében „A vadgazdálkodási terv” szövegrész helyébe „Az éves vadgazdálkodási terv” szöveg,
+16–18.
 
 19.
 
@@ -38,13 +34,13 @@
 
 23.
 
-24. 69. § (2) bekezdésében a „vadászati hatóság” szövegrész helyébe a „hatósági vadászat irányítója” szöveg,
+24.
 
 25–26.
 
 27–31.
 
-32. 89. § (1) bekezdésben a „személy” szövegrész helyébe a „személy, illetve a tájegységi fővadász” szöveg,
+32.
 
 33.
 
