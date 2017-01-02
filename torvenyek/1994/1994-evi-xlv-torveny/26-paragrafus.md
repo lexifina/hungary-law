@@ -12,7 +12,7 @@ a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba so
 
 b) a pénzellátások – beleértve az egyösszegű térítést és a temetési hozzájárulást is – megállapításáról és összegszerűségéről,
 
-c) a hadirokkant közgyógyellátásra jogosító igazolványa, valamint a hadirokkantat és a hadiözvegyet megillető hadigondozotti igazolvány kiadásáról, és
+c) kizárólag a hadirokkant és a hadiözvegy esetében a hadigondozotti igazolvány kiadásáról,
 
 d) a pénzellátás szüneteltetéséről, megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
