@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-53-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2006-53-00-00.26 |
 | 2016-07-01 | 2015. évi CLXXX. törvény | 2006-53-00-00.27 |
 | 2016-12-20 | 2016. évi CLXVIII. törvény | 2006-53-00-00.28 |
+| 2017-01-02 | 2016. évi CXLIV. törvény | 2006-53-00-00.29 |
