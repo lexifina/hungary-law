@@ -1,11 +1,8 @@
 ## 16. Módosító rendelkezések
 
-23. § (1) A 2. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+23. § (1)[^3]
 
-[Az Eüak. 35/B. § (1) bekezdés d) pontja szerint az EESZT-hez informatikai rendszer útján csatlakozásra köteles államigazgatási szervek:]
+(2)[^4]
 
-## „a) a Nemzeti Egészségbiztosítási Alapkezelő,”
-
-(2)[^3]
-
-[^3]: A 23. § (2) bekezdése a 21. § (3) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^3]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 23. § (2) bekezdése a 21. § (3) bekezdése alapján 2017. április 1-jén lép hatályba.
