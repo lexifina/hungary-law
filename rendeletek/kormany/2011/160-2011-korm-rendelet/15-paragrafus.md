@@ -16,6 +16,6 @@
 
 (9) A Hatóság az egyedi forgalmi engedélyben a 8. §-ban foglaltakkal összefüggésben nemzetbiztonsági, nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából, az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó eseti feltételeket határozhat meg a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
 
-(10)[^47] Ha a Hatóság az egyedi forgalmi engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
+(10)[^48] Ha a Hatóság az egyedi forgalmi engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
 
-[^47]: A 15. § (10) bekezdése a 78/2013. (III. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^48]: A 15. § (10) bekezdése a 78/2013. (III. 13.) Korm. rendelet 5. §-ával megállapított szöveg.

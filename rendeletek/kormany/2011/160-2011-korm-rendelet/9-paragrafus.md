@@ -1,4 +1,4 @@
-## 8/A. §[^40]
+## 8/A. §[^41]
 
 ## II. Fejezet
 
@@ -20,7 +20,7 @@ terjed ki.
 
 (3) A tevékenységi engedély iránti kérelmet a 3. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság részére.
 
-(3a)[^41] Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(3a)[^42] Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (4) A tevékenységi engedély 2 évig hatályos. Tevékenységi engedély hatályának lejártát követően legfeljebb 30 napon belül benyújtott kérelemre, haditechnikai eszközökkel vagy szolgáltatásokkal végzett külkereskedelmi tevékenységet folytató vállalkozások részére a tevékenységi engedély 5 évre adható.
 
@@ -28,5 +28,5 @@ terjed ki.
 
 (6) A tevékenységi engedéllyel rendelkező vállalkozás jogutóddal történő megszűnése esetén a jogutód haditechnikai eszközt és szolgáltatást csak új tevékenységi engedély birtokában forgalmazhat. A tevékenységi engedély iránti kérelemhez nem kell csatolni azokat az e rendeletben előírt mellékleteket, amelyek azon túlmenően, hogy a jogutódra vonatkoznak, megegyeznek azokkal, amelyeket a jogelőd a tevékenységi engedély iránti kérelméhez csatolt.
 
-[^40]: A 8/A. §-t a 441/2013. (XI. 20.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte. a 80/2015. (III. 31.) Korm. rendelet 11. § (1) bekezdés c) pontja.
-[^41]: A 9. § (3a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 42. § (1) bekezdése iktatta be.
+[^41]: A 8/A. §-t a 441/2013. (XI. 20.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte. a 80/2015. (III. 31.) Korm. rendelet 11. § (1) bekezdés c) pontja.
+[^42]: A 9. § (3a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 42. § (1) bekezdése iktatta be.
