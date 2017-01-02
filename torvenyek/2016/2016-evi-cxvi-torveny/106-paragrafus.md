@@ -1,3 +1,0 @@
-106. § Az Anytv. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nyilvántartásból teljesített adatigénylésekről az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is. Az arcképelemző tevékenységet végző szerv az adattovábbítási nyilvántartás vezetéséhez szükséges adatokról közvetlen adatkapcsolat útján tájékoztatja a központi szervet.”

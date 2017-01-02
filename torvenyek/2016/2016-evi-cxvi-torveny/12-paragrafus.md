@@ -1,5 +1,3 @@
 ## 3. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-12. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 40. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – eltérő törvényi rendelkezés hiányában – bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhetnek, a rendszerekbe és a nyilvántartás alapjául szolgáló iratba betekinthetnek. Az adatkérés alapján az állami szerv, a többségi állami tulajdonú gazdasági társaság, valamint a hitelintézetekről és pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény az adattovábbítást elektronikus formában, elektronikus adatkapcsolat útján, az érintett nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az adatkezelő által térítésmentesen kiépített és üzemeltetett csatlakozási felületen hajtja végre, valamint hiányos és töredékadatok tekintetében is teljesíti.”
+12–20. §
