@@ -8,6 +8,6 @@
 
 ## (4) Legalább 1 MW erőműegységben történő teljesítményű termelés, valamint a szélerőművek esetében a termelők pályázat útján nyerhetik el a prémium típusú támogatást.”
 
-(2)[^4]
+(2)[^7]
 
-[^4]: A 23. § (2) bekezdése a 35. § (4) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
+[^7]: A 23. § (2) bekezdése a 35. § (4) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
