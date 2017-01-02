@@ -10,7 +10,7 @@
 
 ## 5. Ez a határozat 2017. január 1-jén lép hatályba.
 
-## 6. Hatályát veszti a 2016. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1987/2015. (XII. 28.) Korm. határozat.
+## 6.[^1]
 
 1. melléklet az 1863/2016. (XII. 28.) Korm. határozathoz
 
@@ -295,3 +295,5 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 17. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | I–IV. n. é. | – |
 
 | 18. | Joint Combined Exchange Training szövetségesi gyakorlatok Románia/Bulgária/Görögország | I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
