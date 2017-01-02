@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet III. rész 1. pont 1.105. alpontja.
+## 5. §[^7]
 
 ## 3. A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001. (XII. 30.) Korm. rendelet módosítása
+
+[^7]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
