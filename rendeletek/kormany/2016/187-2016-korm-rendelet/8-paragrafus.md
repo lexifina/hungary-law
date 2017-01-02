@@ -1,1 +1,0 @@
-## „(9) Költségvetési szervnél belső ellenőrzési vezetőnek az nevezhető ki, aki jogszabályban meghatározott, legalább ötéves szakmai gyakorlattal rendelkezik. Az ötéves szakmai gyakorlatra vonatkozó követelmény akkor is alkalmazandó, ha a költségvetési szervnél egy fő látja el a belső ellenőrzési tevékenységet.”

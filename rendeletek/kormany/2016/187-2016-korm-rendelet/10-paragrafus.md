@@ -1,3 +1,0 @@
-## 9. § A 370/2011. (XII. 31.) Korm. rendelet 29. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) Ha a költségvetési szerv belső ellenőrzését az irányító szerve vagy az irányító szerv által kijelölt szerv látja el, a belső ellenőrzést ellátó szervnek a tervezés során elkülönítetten kell terveznie az irányító szervként, illetve a költségvetési szerv belső ellenőreként végzett ellenőrzéseket. Azon ellenőrzések tervezésébe, amelyeket belső ellenőrként végez el, be kell vonnia az irányított szervet, továbbá az ennek eredményeként elkészített stratégiai és éves ellenőrzési tervét az irányított költségvetési szerv vezetőjének kell jóváhagynia.”
