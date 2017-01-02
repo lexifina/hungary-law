@@ -1,1 +1,0 @@
-11. § Az Alapell. tv. 13. § (3) bekezdés h) pontjában és 15. § (2) bekezdés i) pontjában a „gyermekjóléti szolgálattal” szövegrész helyébe a „család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal” szöveg lép.
