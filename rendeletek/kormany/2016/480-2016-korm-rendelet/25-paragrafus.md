@@ -1,7 +1,0 @@
-## 24. § Az Mnykr. 43. § (9)–(11) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(9) A lezárt kamatfedezeti ügyletek eredményét és a le nem zárt kamatfedezeti ügyletek várható eredményét – jellegének megfelelően – a kamatbevételeket vagy a kamatráfordításokat csökkentő tételként kell elszámolni.
-
-## (10) A tőzsdei, illetve tőzsdén kívüli, a negyedév utolsó napjáig, illetve a mérleg fordulónapjáig, valamint az értékelés napjáig le nem zárt származékos ügyletek közül a határidős ügyletek várható eredményét – fedezeti ügylet esetében annak hatékony részét –, mint értékelési különbözetet bevételként vagy bevételt csökkentő tételként kell elszámolni. Ezzel egyidejűleg a ráfordításokkal szemben el kell számolni az értékelési különbözet összegében képzett céltartalékot. Ha a fedezeti ügylethez kapcsolódó alapügylet nem a befektetési portfolió része és eredménye az időbeli elhatárolásokban szerepel, akkor a fedezeti ügylet várható eredményét is az időbeli elhatárolások között kell elszámolni, nem pedig az értékelési különbözetben.
-
-## (11) A származékos ügyletek közül a határidős ügyletek piaci értékelésekor az ügylet várható eredményét kell piaci értéknek tekinteni és értékelési különbözetként elszámolni – jellegétől függően – bevételként vagy bevételt csökkentő tételként. Ezzel egyidejűleg és azonos összegben a ráfordításokkal szemben el kell számolni az értékelési különbözetből képzett céltartalékot. A határidős ügylethez kapcsolódó értékelési különbözetet és az ahhoz kapcsolódó céltartalékot az ügylet zárásakor kell megszüntetni.”

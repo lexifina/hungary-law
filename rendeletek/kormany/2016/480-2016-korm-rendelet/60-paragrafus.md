@@ -1,1 +1,0 @@
-## „17. valós érték fedezeti kamat-swap ügylet, cash-flow fedezeti kamatfedezeti célú kamat-swap ügylet, kamatlábopciós ügylet, kamatlábcap ügylet, kamatlábfloor ügylet, kamatlábcollar ügylet, devizakamat-csere ügylet (deviza kamat-swap ügylet), kamatcserével járó deviza-betétcsere ügylet (currency swap ügylet): a Hitkr.-ben meghatározott fogalom;”

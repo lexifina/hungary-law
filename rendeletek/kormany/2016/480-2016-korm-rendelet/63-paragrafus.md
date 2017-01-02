@@ -1,3 +1,0 @@
-## 62. § A Befkr. 6. § (20) bekezdése helyébe a következő rendelkezés lép:
-
-## „(20) A befektetési vállalkozás tevékenységének sajátos kockázatára tekintettel, a befektetési hitelből, a halasztott fizetésből, a repóügyletből, az értékpapírkölcsönből és a befektetési szolgáltatásokból eredő egyéb követeléseinek, a követelés fejében kapott készleteinek, a jegyzési garanciavállalásból, a hozamra és a tőke megóvására vonatkozó ígéret, valamint a hozam-, illetve tőkegarancia miatt fennálló mérlegen kívüli kötelezettségeinek értékelésére a Tv. rendelkezésein túlmenően az 5. számú melléklet előírásait alkalmazza, továbbá az ügyfél- és partnerminősítés, valamint a fedezetértékelés prudenciális követelményeiről szóló MNB rendelet előírásait is köteles figyelembe venni.”

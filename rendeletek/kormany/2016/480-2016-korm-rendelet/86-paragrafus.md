@@ -2,29 +2,24 @@
 
 ## 86. § Hatályát veszti a Knyr.
 
-1–2.[^2]
+1–2.[^14]
 
-3. 3. § (3)–(9) bekezdése,
+3.[^15]
 
-4–5.[^3]
+4–5.[^16]
 
-6. 5. § (8) bekezdése,
+6–9.[^17]
 
-7. 6. § (3) bekezdésében a „de legfeljebb” szövegrész,
+10–11.[^18]
 
-8. 10/G. §-ában az „a továbbképzés szervezésével és lebonyolításával összefüggésben” szövegrész,
+12–13.[^19]
 
-9. 10/H. §-a,
+14.[^20]
 
-10–11.[^4]
-
-12. 1. számú melléklet 3. pontjának a) és b) alpontja,
-
-13. 1. számú melléklet 4. pontjának e) alpontjában a „ , jó minőségű” szövegrész,
-
-14.[^5]
-
-[^2]: A 86. § 1–2. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^3]: A 86. § 4–5. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^4]: A 86. § 10–11. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^5]: A 86. § 14. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^14]: A 86. § 1–2. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^15]: A 86. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 86. § 4–5. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^17]: A 86. § 6–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 86. § 10–11. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^19]: A 86. § 12–13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 86. § 14. pontja a 100. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.

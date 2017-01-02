@@ -1,1 +1,0 @@
-## „(8) Az opciós díjat – a (9)–(10) bekezdésben foglaltak kivételével – annak az időszaknak az eredményében kell figyelembe venni, amelyben a határidős ügylet lezárásra kerül, azaz amikor az opciót érvényesíti az opció vevője.”
