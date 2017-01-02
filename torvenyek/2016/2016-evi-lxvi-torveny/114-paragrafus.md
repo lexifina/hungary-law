@@ -1,7 +1,5 @@
-114. § Az Itv.
+114. §
 
-1. 18. § (4) bekezdés c) pontjában a „gazdálkodó szervezet” szövegrész helyébe a „személy” szöveg,
+1.
 
 2–4.
-
-lép.

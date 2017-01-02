@@ -1,18 +1,16 @@
 27. § (1) Hatályát veszti az Szja tv.
 
-1. 3. § 87. pontja,
+1.
 
 2.
 
 3.
 
-4. 70. § (4b) bekezdés,
-
-5. 84/W. § (3) bekezdés,
+4–5.
 
 6.
 
-(2) Hatályát veszti az Szja tv.
+(2)
 
 1.
 
