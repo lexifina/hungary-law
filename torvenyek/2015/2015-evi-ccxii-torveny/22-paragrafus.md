@@ -4,6 +4,6 @@
 
 a)
 
-b) 3. §-ában a „fővárosi önkormányzatot 52,5%” szövegrész helyébe a „fővárosi önkormányzatot 54%” szöveg, a „kerületi önkormányzatokat együttesen 47,5%” szövegrész helyébe a „kerületi önkormányzatokat együttesen 46%” szöveg, a „fővárosi önkormányzat az őt megillető 52,5%-ból” szövegrész helyébe a „fővárosi önkormányzat az őt megillető 54%-ból” szöveg
+b)
 
 lép.
