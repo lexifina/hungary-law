@@ -1,5 +1,0 @@
-62. § A Hjt. 141. alcíme a következő 247/O. és 247/P. §-sal egészül ki:
-
-„247/O. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvénnyel módosított 92. § (5) bekezdése alapján az állomány tagja honvédelmi szolgálati díjában 2017. január 1-jétől valamennyi, hivatásos szolgálati jogviszonyban töltött tényleges, beszámítás és szorzószámok nélkül számított szolgálati idejét figyelembe kell venni. Ennek érdekében az állomány érintett tagjai honvédelmi szolgálati díjra jogosító szolgálati idejét 2017. március 31-ig kell ismételten megállapítani, és a 2017. január 1. és március 31. között keletkező illetménykülönbözetet legkésőbb a 2017. április havi illetménnyel együtt kell kifizetni.
-
-247/P. § Az állomány elhunyt tagjának, valamint az elhunyt nyugállományú katonának a 2017. január 1-jén árvaellátásban részesülő árvája vonatkozásában az árvák kiegészítő támogatásának megállapításáról szóló határozatokat 2017. június 30-ig kell meghozni.”
