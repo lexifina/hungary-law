@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-86-20-1
 | 2016-12-21 | 2016-86-20-11.1 | 86/2016. (XII. 20.) FM rendelet |
 | 2016-12-22 | 2016-86-20-11.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-86-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-01-02 | 2016-86-20-11.4 | 2010: CXXX. törvény |
