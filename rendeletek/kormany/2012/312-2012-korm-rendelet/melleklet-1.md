@@ -4,51 +4,23 @@
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
-1. Az építési engedéllyel építhető építmény átalakítása felújítása, helyreállítása, korszerűsítése, homlokzatának megváltoztatása, ha az építési tevékenységgel az építmény tartószerkezeti rendszerét vagy tartószerkezeti elemeit nem kell
+1. Építmény átalakítása, felújítása, helyreállítása, korszerűsítése, homlokzatának megváltoztatása, kivéve zártsorú vagy ikres beépítésű építmény esetén, ha e tevékenységek a csatlakozó építmény alapozását vagy tartószerkezetét is érintik.
 
-a) megváltoztatni,
+2. Meglévő építmény utólagos hőszigetelése, homlokzati nyílászáró cseréje, a homlokzatfelület színezése, a homlokzat felületképzésének megváltoztatása.
 
-b) átalakítani,
-
-c) elbontani,
-
-d) kicserélni,
-
-e) megerősíteni vagy
-
-f) változatlan formában újjáépíteni.
-
-2. Meglévő építmény utólagos hőszigetelése, homlokzati nyílászáró – áthidalóját nem érintő – cseréje, a homlokzatfelület színezése, a homlokzat felületképzésének megváltoztatása.
-
-3. Meglévő építményben – alapozást nem igénylő – új égéstermék-elvezető kémény létesítése, ha annak megvalósítása nem jár a meglévő építmény tartószerkezetének megbontásával, átalakításával, megerősítésével.
+3. Meglévő építményben új égéstermék-elvezető kémény létesítése.
 
 4. Új, önálló (homlokzati falhoz rögzített vagy szabadon álló) égéstermék-elvezető kémény építése melynek magassága a 6,0 m-t nem haladja meg.
 
-5. Az épület homlokzatához illesztett előtető, védőtető, ernyőszerkezet építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása, ha ehhez az épület tartószerkezetét nem kell
-
-a) megváltoztatni,
-
-b) átalakítani,
-
-c) megbontani,
-
-d) kicserélni,
-
-e) megerősíteni vagy
-
-f) újjáépíteni.
+5. Az épület homlokzatához illesztett előtető, védőtető, ernyőszerkezet építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása.
 
 6. Épületben az önálló rendeltetési egységek számának változtatása.
 
-7. A 14. pont e) alpontjában és a 30. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet.
+7. A 14. pont e) alpontjában és a 30. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet.
 
-8. Nem emberi tartózkodásra szolgáló építmény építése, átalakítása, felújítása, valamint bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 50 m3 térfogatot és 3,0 m gerincmagasságot.
+8. Nem emberi tartózkodásra szolgáló építmény építése, átalakítása, felújítása, valamint bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 100 m3 térfogatot és 4,5 m gerincmagasságot.
 
-9. Önálló reklámtartó építmény építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása, melynek mérete az építési tevékenység után sem haladja meg
-
-a) beépítésre nem szánt területen a 9,0 m magasságot,
-
-b) beépítésre szánt területen a 4,5 m magasságot.
+9. Önálló reklámtartó építmény építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása.
 
 10. Temető területén:
 
@@ -58,11 +30,11 @@ b) urnafülke, sírhely, sírjel építése, elhelyezése.
 
 11. Szobor, emlékmű, kereszt, emlékjel építése, elhelyezése, ha annak a talapzatával együtt mért magassága nem haladja meg a 6,0 m-t.
 
-12. Emlékfal építése, melynek talapzatával együtt mért magassága nem haladja meg a 3,0 m-t.
+12. Emlékfal építése, amelynek talapzatával együtt mért magassága nem haladja meg a 3,0 m-t.
 
 13. Park, játszótér, sportpálya megfelelőségi igazolással – vagy 2013. július 1-je után gyártott szerkezetek esetében teljesítménynyilatkozattal – rendelkező műtárgyainak építése, egyéb építési tevékenység végzése.
 
-14. Megfelelőség igazolással – vagy 2013. július 1-je után gyártott szerkezetek esetében teljesítménynyilatkozattal – rendelkező építményszerkezetű, tömegtartózkodás céljára nem szolgáló, és legfeljebb 180 napig fennálló
+14. Megfelelőség-igazolással – vagy 2013. július 1-je után gyártott szerkezetek esetében teljesítménynyilatkozattal – rendelkező építményszerkezetű és legfeljebb 180 napig fennálló
 
 a) rendezvényeket kiszolgáló színpad, színpadi tető, lelátó, mutatványos, szórakoztató, vendéglátó, kereskedelmi, valamint előadás tartására szolgáló építmény,
 
@@ -70,70 +42,46 @@ b) kiállítási vagy elsősegélyt nyújtó építmény,
 
 c) levegővel felfújt vagy feszített fedések (sátorszerkezetek),
 
-d) ideiglenes fedett lovarda
+d) ideiglenes fedett lovarda,
 
-e) az a) és b) alpontokban meghatározott rendeltetéssel rendelkező és legfeljebb 50 fő egyidejű tartózkodására alkalmas vagy nettó 20 m2 alapterületet meg nem meghaladó – az Országos Tűzvédelmi Szabályzat szerinti – állvány jellegű építmény
+e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzvédelmi Szabályzat szerinti – állvány jellegű építmény
 
 építése.
 
-15. Növénytermesztésre szolgáló üvegház építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása, melynek legmagasabb pontja az építési tevékenység után sem haladja meg
+15. Növénytermesztésre szolgáló üvegház építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása.
 
-a) beépítésre nem szánt területen a 9,0 m-t,
-
-b) beépítésre szánt területen a nettó 100,0 m2 alapterületet és a 4,5 m-t.
-
-16. Növénytermesztésre szolgáló fóliasátor építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása, melynek legmagasabb pontja az építési tevékenység után sem haladja meg
-
-a) beépítésre nem szánt területen a 9,0 m-t,
-
-b) beépítésre szánt területen a nettó 500,0 m2 alapterületet és a 4,5 m-t.
+16. Növénytermesztésre szolgáló fóliasátor építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása.
 
 17. A 6,0 m vagy annál kisebb magasságú, a 60 m3 vagy annál kisebb térfogatú siló, ömlesztettanyag-tároló, nem veszélyes folyadékok tárolója, nem veszélyes anyagot tartalmazó, nyomástartó edénynek nem minősülő, föld feletti vagy alatti tartály, tároló elhelyezéséhez szükséges építmény építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
 
-18. A bruttó 50,0 m3-nél nem nagyobb térfogatú vagy a 1,5 m-nél nem mélyebb magánhasználatú kerti víz-, fürdőmedence, kerti tó építése.
+18. A magánhasználatú kerti víz-, fürdőmedence, kerti tó építése.
 
-19. A telek természetes terepszintjének – építési tevékenységgel összefüggő – 1,0 m, vagy annál kisebb mértékű végleges jellegű megváltoztatása.
+19. A telek természetes terepszintjének építési tevékenységgel összefüggő, 1,0 m-nél nem nagyobb mértékű, végleges jellegű megváltoztatása.
 
-20. Támfal építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása, melynek mérete az építési tevékenységgel nem haladja meg a rendezett alsó terepszinttől számított 1,0 m magasságot.
+20. Támfal építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása, amelynek mérete az építési tevékenységgel nem haladja meg a rendezett alsó terepszinttől számított 1,5 m magasságot.
 
 21. Kerítés, kerti építmény, tereplépcső, járda és lejtő, háztartási célú kemence, húsfüstölő, jégverem, valamint zöldségverem építése, építménynek minősülő növénytámasz, növényt felfuttató rács építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
 
 22. Mobil illemhely, mobil mosdó, mobil zuhanyozó elhelyezése, árnyékszék építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
 
-23. Napenergia-kollektor, szellőző-, klíma-, riasztóberendezés, villámhárító-berendezés, áru- és pénzautomata, kerékpártartó, zászlótartó építményen vagy építményben való elhelyezése, ha ahhoz nem kell az építmény tartószerkezeti rendszerét vagy tartószerkezeti elemeit
+23. Napenergia-kollektor, szellőző-, klíma-, riasztóberendezés, villámhárító-berendezés, áru- és pénzautomata, kerékpártartó, zászlótartó építményen vagy építményben való elhelyezése.
 
-a) megváltoztatni,
-
-b) átalakítani,
-
-c) elbontani,
-
-d) kicserélni,
-
-e) megerősíteni vagy
-
-f) újjáépíteni.
-
-24. Építménynek minősülő szelektív és háztartási célú hulladékgyűjtő és -tároló, sorompó, árnyékoló elhelyezése.
+24. Építménynek minősülő, háztartási hulladék elhelyezésére szolgáló hulladékgyűjtő és -tároló, sorompó, árnyékoló elhelyezése.
 
 25. Telken belüli közmű becsatlakozási és -pótló műtárgy építése.
 
 26. Telken belüli geodéziai építmény építése.
 
-27. Utasváró fülke építése.
+27. Zászlótartó oszlop (zászlórúd) építése, amelynek terepszinttől mért magassága a 6,0 métert nem haladja meg.
 
-28. Zászlótartó oszlop (zászlórúd) építése, melynek terepszinttől mért magassága a 6,0 métert nem haladja meg.
+28. Építési tevékenység végzéséhez szükséges, annak befejezését követően elbontandó állványzat és felvonulási építmény építése.
 
-29. Építési tevékenység végzéséhez szükséges, annak befejezését követően elbontandó állványzat mérethatár nélkül, bruttó 50 m3 térfogatot meg nem haladó felvonulási építmény építése.
+29. A 7. pontban és a 14. pont e) alpontjában foglaltak figyelembevételével a magasles, vadetető, erdei építmény, kilátó építése, amelynek a terepcsatlakozástól mért legfelső pontja az 5,0 m-t nem haladja meg.
 
-30. A 7. pontban és a 14. pont e) alpontjában foglaltak figyelembevételével a magasles, vadetető, erdei építmény, kilátó építése, amelynek a terepcsatlakozástól mért legfelső pontja az 5,0 m-t nem haladja meg.
+30. Közforgalom elől elzárt, telken belüli áteresz, bejáró-, átjáró-híd építése.
 
-31.
+31. A legfeljebb 2,0 m mélységű és legfeljebb 20 m3 légterű pince építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
 
-32. Közforgalom elől elzárt, telken belüli, 3,0 m vagy annál kisebb fesztávú áteresz, bejáró-, átjáró-híd építése.
+32. Közterületen, filmforgatáshoz kapcsolódó építmény építése.
 
-33. A legfeljebb 2,0 m mélységű és legfeljebb 20 m3 légterű pince építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
-
-34. Közterületen, filmforgatáshoz kapcsolódó építmény létesítése.
-
-[^249]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 38/2015. (III. 11.) Korm. rendelet 18. § (12) bekezdés b) pontja, (13) bekezdés a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 180. § 14. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^249]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított szöveg.
