@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 50/2015. (XII. 9.) MNB rendelet.
+## 4–5. §[^1]
 
 1. melléklet az 50/2016. (XII. 12.) MNB rendelethez
+
+[^1]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
