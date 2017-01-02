@@ -1,5 +1,3 @@
-## 14. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 93. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+15. §[^19]
 
-## „(2) A kedvezményezett kizárólag a támogatott tevékenység időtartama alatt felmerült költségeket szerepeltetheti a részbeszámolóban, beszámolóban.
-
-## (3) A részbeszámolóhoz, beszámolóhoz csatolni kell a részbeszámoló, beszámoló által érintett időszakban felmerült, a támogatott tevékenység megvalósításához kapcsolódó költségeket igazoló számviteli bizonylatokról készített összesítőt. Az összesítő tartalmazza az elszámolás részét képező költséget igazoló számviteli bizonylatok sorszámát, típusát (így különösen számla, bérkifizetési összesítő, számlakivonat), a kiállításának keltét, a teljesítésének dátumát, a gazdasági esemény rövid leírását, nettó összegét, bruttó összegét, a támogatás terhére elszámolt összeget, a számviteli bizonylat kiállítójának nevét, adószámát, a pénzügyi teljesítés időpontját, valamint a kedvezményezett képviseletére jogosult vagy az általa meghatalmazott személy aláírását.”
+[^19]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
