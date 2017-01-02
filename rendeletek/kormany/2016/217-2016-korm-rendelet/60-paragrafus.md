@@ -1,3 +1,3 @@
-## 59. §[^49]
+60. §[^53]
 
-[^49]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 60. § a 486/2016. (XII. 28.) Korm. rendelet 3. § a) pontja alapján nem lép hatályba.

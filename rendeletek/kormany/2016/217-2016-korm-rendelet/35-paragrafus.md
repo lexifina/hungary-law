@@ -1,5 +1,5 @@
-## 33–34. §[^30]
-
 ## 31. A rendészeti alapvizsgáról és a rendészeti szakvizsgáról, a Rendészeti Alap- és Szakvizsga Bizottságról, valamint a rendészeti alapvizsga vizsgabiztosi és a rendészeti szakvizsga vizsgabizottsági névjegyzékről szóló 274/2012. (IX. 28.) Korm. rendelet módosítása
 
-[^30]: A 33–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+35–36. §[^34]
+
+[^34]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
