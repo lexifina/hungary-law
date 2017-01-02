@@ -1,3 +1,0 @@
-21. § A Bgtv. 5. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdéstől eltérően, ha a munkavállaló a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 56/A. § (3) bekezdése alapján a biztosításával összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget maga teljesíti, úgy az állami foglalkoztatási szerv a (2) bekezdés a) és b) pontjában meghatározott összeget a munkavállaló részére fizeti ki. Ebben az esetben a munkavállaló köteles a járulékfizetési és bevallási kötelezettség teljesítését a támogatás kifizetését követő 30 napon belül az állami foglalkoztatási szervnek igazolni.”
