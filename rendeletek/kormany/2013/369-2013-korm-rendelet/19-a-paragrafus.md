@@ -12,4 +12,7 @@ b) szolgáltatás megnevezését és ellátási területét,
 
 c) ellátotti számot, férőhelyszámot, illetve feladatmutatót.
 
+(5)[^71] Az Szt. 58/A. § (2f) bekezdése szerinti két döntési időpontot a Szociális Ágazati Portálon és a minisztérium honlapján kell közzétenni. A miniszter a döntést megelőzően a támogatásra javasolt kérelmeket ellátásszervezési szempontok szerint rangsorolva, egyszerre küldi meg az államháztartásért felelős miniszternek.
+
 [^70]: A 19/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 248. § (6) bekezdése iktatta be.
+[^71]: A 19/A. § (5) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 49. §-a iktatta be.

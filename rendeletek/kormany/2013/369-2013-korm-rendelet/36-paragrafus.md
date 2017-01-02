@@ -4,7 +4,7 @@
 
 ## 13. Az ellenőrzés lefolytatása
 
-36. § (1)[^115] A működést engedélyező szerv
+36. § (1)[^116] A működést engedélyező szerv
 
 a) otthont nyújtó ellátás, utógondozói ellátás és területi gyermekvédelmi szakszolgáltatás esetén legalább évente,
 
@@ -16,7 +16,7 @@ az a)–c) pontban nem említett esetben – a szolgáltatások jellege és a ko
 
 hivatalból ellenőrzi, hogy az engedélyes a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően működik-e (a továbbiakban: rendes ellenőrzés).
 
-(2)[^116] A működést engedélyező szerv jogszabályban foglaltak szerint éves ellenőrzési tervet készít, amelyet elektronikus levélben megküld a Főigazgatóságnak, a bölcsődei módszertani szervezetnek az igazgatóságoknak, a miniszternek, az érintett kijelölt egyházi módszertani intézménynek és a népegészségügyi feladatkörükben eljáró járási hivataloknak.
+(2)[^117] A működést engedélyező szerv jogszabályban foglaltak szerint éves ellenőrzési tervet készít, amelyet elektronikus levélben megküld a Főigazgatóságnak, a bölcsődei módszertani szervezetnek az igazgatóságoknak, a miniszternek, az érintett kijelölt egyházi módszertani intézménynek és a népegészségügyi feladatkörükben eljáró járási hivataloknak.
 
 (3) Az e rendelet szerinti hatósági ellenőrzés kérelemre nem indítható meg.
 
@@ -28,5 +28,5 @@ b) ha tudomására jut, hogy az engedélyes személyi, tárgyi feltételei vagy 
 
 c) a 23. § (1) bekezdés a) pontja szerinti bejelentést követő harminc napon belül.
 
-[^115]: A 36. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 207. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^116]: A 36. § (2) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 21. § i) pontja, a 419/2015. (XII. 23.) Korm. rendelet 40. § h) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 4. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés l) pontja szerint módosított szöveg.
+[^116]: A 36. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 207. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^117]: A 36. § (2) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 21. § i) pontja, a 419/2015. (XII. 23.) Korm. rendelet 40. § h) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 4. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés l) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## BEJEGYZÉS HIÁNYÁBAN NYÚJTOTT SZOLGÁLTATÁS
 
-45. § (1)[^157] A jegyző, más hatóság és az ellátottjogi, gyermekjogi képviselő haladéktalanul értesíti az általánosan illetékes működést engedélyező szervet, ha tudomására jut, hogy bejegyzés hiányában nyújtanak szolgáltatást.
+45. § (1)[^158] A jegyző, más hatóság és az ellátottjogi, gyermekjogi képviselő haladéktalanul értesíti az általánosan illetékes működést engedélyező szervet, ha tudomására jut, hogy bejegyzés hiányában nyújtanak szolgáltatást.
 
 (2) Ha a működést engedélyező szerv tudomására jut, hogy bejegyzés hiányában nyújtanak szolgáltatást,
 
@@ -12,4 +12,4 @@ b) – ha megállapításra kerül, hogy szolgáltatást nyújtanak – a biztos
 
 soron kívül – szükség szerint az ellenőrző társhatóságok bevonásával – helyszíni ellenőrzést tart. Az ellenőrzés magáningatlanban és abban az esetben is lefolytatható, ha az ügyfél vagy a helyszínen jelen lévő más személy úgy nyilatkozik, hogy az ellátást más jogviszony keretében nyújtják.
 
-[^157]: A 45. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontja szerint módosított szöveg.
+[^158]: A 45. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontja szerint módosított szöveg.
