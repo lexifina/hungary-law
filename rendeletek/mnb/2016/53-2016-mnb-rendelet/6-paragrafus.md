@@ -1,3 +1,3 @@
-## 5. § Az 55/2015. (XII. 22.) MNB rendelet a következő 13. §-sal egészül ki.
+## 2–5. §[^2]
 
-## „13. § A biztosító a 2017. január 1. és 2017. december 31. közötti időszakra vonatkozóan a TKM számítást a 2015. év végi hozamgörbével végzi el.”
+[^2]: A 2–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

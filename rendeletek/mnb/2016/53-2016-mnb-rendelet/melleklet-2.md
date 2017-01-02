@@ -40,44 +40,6 @@
 
 ## ”
 
-2. melléklet az 53/2016. (XII. 21.) MNB rendelethez
+2. melléklet az 53/2016. (XII. 21.) MNB rendelethez[^4]
 
-1. Az 55/2015. (XII. 22.) MNB rendelet 4. melléklet 46TKMA kódú tábla sorkódot tartalmazó mezői helyébe a következő mezők lépnek:
-
-|  | (Sorkód) |
-
-| (001) | 46TKMA10001 |
-
-|  | ... |
-
-|  | 46TKMA19999 |
-
-2. Az 55/2015. (XII. 22.) MNB rendelet 4. melléklet 46TKMB kódú tábla sorkódot tartalmazó mezői helyébe a következő mezők lépnek:
-
-|  | (Sorkód) |
-
-| (001) | 46TKMB10001 |
-
-|  | ... |
-
-|  | 46TKMB19999 |
-
-3. Az 55/2015. (XII. 22.) MNB rendelet 4. melléklet 46TKMC kódú tábla sorkódot tartalmazó mezői helyébe a következő mezők lépnek:
-
-|  | (Sorkód) |
-
-| (001) | 46TKMC10001 |
-
-|  | ... |
-
-|  | 46TKMC19999 |
-
-4. Az 55/2015. (XII. 22.) MNB rendelet 4. melléklet 46TKMD kódú tábla sorkódot tartalmazó mezői helyébe a következő mezők lépnek:
-
-|  | (Sorkód) |
-
-| (001) | 46TKMD10001 |
-
-|  | ... |
-
-|  | 46TKMD19999 |
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
