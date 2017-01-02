@@ -1,3 +1,0 @@
-## 1. § Az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az igazságügyi szakértőnek, az igazságügyi szakértői intézménynek, az orvostudományi képzést folytató egyetem igazságügyi orvostani intézetének (a továbbiakban: egyetemi intézet), a szakértői vélemény végett megkeresett egyéb szervnek, továbbá a szakértőként alkalmazott más személynek, valamint a büntetőeljárásról szóló törvény szerinti szaktanácsadónak (a továbbiakban együtt: szakértő) szakértői tevékenységéért munkadíj és költségtérítés (a továbbiakban együtt: szakértői díj) jár.”
