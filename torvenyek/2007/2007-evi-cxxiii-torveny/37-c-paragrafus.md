@@ -1,5 +1,7 @@
 37/C. § (1) Az ezen alcímben eltérően nem rendezett kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
+(1a) Az eljárásban kizárólag a kirendelés iránti kérelmet benyújtó kisajátítást kérő minősül ügyfélnek.
+
 (2) A kirendelés iránti kérelemben meg kell jelölni azt az ingatlant, amelyre vonatkozóan az előzetes szakvélemény elkészítését kérik. A kirendelésre az a kisajátítási hatóság illetékes, amely az adott ingatlan tekintetében a kisajátítási eljárásra illetékes lenne.
 
 (3) A szakértő az előzetes szakvélemény elkészítése során a kisajátítási eljárás szabályai szerint jár el.

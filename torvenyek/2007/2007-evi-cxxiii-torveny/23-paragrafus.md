@@ -10,6 +10,16 @@ d) mindaz az ingatlan-nyilvántartásból, valamint a földhasználati nyilvánt
 
 e) mindazon egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátítás érinti.
 
-(2) Az e törvény szerinti eljárásokban szükséges ügygondnokot, illetve eseti gondnokot a kisajátítási hatóság rendeli ki. Ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen.
+(2) Az e törvény szerinti eljárásokban ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen. Az ügygondnokot a kisajátítási hatóság, az eseti gondnokot a kisajátítási hatóság megkeresésére a gyámhatóság rendeli ki. A gyámhatósági eljárás ügyintézési ideje 15 nap.
 
 (3)
+
+(4) Az ügyféllel való postai úton történő kapcsolattartás esetén a kisajátítási hatóság
+
+a) a kisajátítási eljárás megindulásáról való értesítésről,
+
+b) a szakértői szemléről való értesítésről, és
+
+c) a tárgyalásról való értesítésről
+
+szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási hatóság honlapján történő közzététellel hirdetményi úton közli az ügyféllel.

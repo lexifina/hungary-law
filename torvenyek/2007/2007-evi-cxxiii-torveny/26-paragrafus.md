@@ -1,6 +1,6 @@
 26. § (1) A tárgyalásra a szakértőt meg kell idézni. A szakértő a véleményét megküldi a kisajátítási hatóság részére. A szakértői véleménynek az ügyfelek részére történő megküldéséről a kisajátítási hatóság hivatalból gondoskodik.
 
-(2) A szakértői véleménynek a kisajátítási hatóság részére történő megküldése és a tárgyalás között legalább 10, legfeljebb 15 napnak kell eltelnie.
+(2) A szakértői véleménynek a kisajátítási hatóság részére történő megküldése és a tárgyalás között legalább 5, legfeljebb 15 napnak kell eltelnie.
 
 (3) A szakértői véleménnyel kapcsolatos kérdéseket és észrevételeket az ügyfelek legkésőbb a tárgyaláson tehetik meg.
 

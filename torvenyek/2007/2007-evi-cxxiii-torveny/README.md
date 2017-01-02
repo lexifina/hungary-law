@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2016-07-01 | 2016. évi XXXII. törvény | 2007-123-00-00.25 |
 | 2016-07-10 | 2016. évi XCII. törvény | 2007-123-00-00.26 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2007-123-00-00.27 |
+| 2017-01-02 | 2016. évi CXLIV. törvény | 2007-123-00-00.28 |

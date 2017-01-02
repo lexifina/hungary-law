@@ -11,3 +11,5 @@ a) az összehasonlításra alkalmas ingatlanok helyben kialakult forgalmi érté
 b) ha az ingatlan valóságos forgalmi értéke – összehasonlításra alkalmas ingatlanok, illetve ezek forgalmának hiányában, vagy forgalmukra jogszabályban elrendelt korlátozás, illetve más ok miatt – nem állapítható meg, az ingatlan településen belüli fekvését, közművekkel való ellátottságát, ennek hiányában a közművesítés lehetőségét, földrajzi és gazdasági adottságait, termőföld esetén a művelési ágat, a földminősítés szempontjait és az ingatlan jövedelmezőségét
 
 kell figyelembe venni.
+
+(4) Ha az ingatlan övezeti besorolásának módosítására a 2. §-ban meghatározott, az adott kisajátítási eljárást is megalapozó közérdekű cél megvalósítása érdekében került sor, a kártalanítás összegének meghatározása során az összehasonlításra alkalmas ingatlanok e besorolási módosítást megelőzően helyben kialakult forgalmi értékét kell figyelembe venni.

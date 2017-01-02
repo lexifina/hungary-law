@@ -14,12 +14,12 @@ ea) a jogalap tekintetében igazságügyi szakértő kirendelése szükséges, �
 
 eb) a per ezen határidőn belül befejezhető;
 
-f) a kisajátítási határozat végrehajtásának felfüggesztését csak a kisajátítás jogalapjának vitatása esetén, és a jogalap tárgyában hozott közbenső ítélet – az e) pont eb) alpontja esetében az ítélet – jogerőre emelkedéséig terjedő időre lehet elrendelni;
+f) a kisajátítási határozat végrehajtásának felfüggesztését csak építménnyel rendelkező ingatlan esetében és csak ezen ingatlan kisajátítása jogalapjának vitatása esetén, és a jogalap tárgyában hozott közbenső ítélet – az e) pont eb) alpontja esetében az ítélet – jogerőre emelkedéséig terjedő időre lehet elrendelni;
 
 g) a bíróság ítélete ellen fellebbezésnek nincs helye.
 
 (1a) Ha a keresetlevelet benyújtó félnek az általa megjelölt címre küldött iratot azért nem lehet kézbesíteni, mert a címzett a bejelentett címen ismeretlen vagy onnan ismeretlen helyre költözött, a bíróság hivatalból hirdetményi kézbesítést rendel el. Az érintett fél részére nem kell ügygondnokot rendelni.
 
-(2) Ha kisajátítás jogalapjának vitatása miatt indított közigazgatási perben a bíróság a kisajátítási határozat végrehajtását felfüggeszti, az ingatlannal kapcsolatos közigazgatási eljárásokban (ingatlan-nyilvántartási eljárás, építésügyi eljárás) az eljáró szerv köteles az eljárását a közbenső ítélet jogerőre emelkedéséig – az (1) bekezdés e) pont eb) alpontja szerinti esetben a per jogerős befejezéséig – felfüggeszteni. Ha az ingatlannal kapcsolatos közigazgatási eljárásban már jogerős határozatot hoztak, a felfüggesztő végzés hatálya annak végrehajtására is kiterjed. A bíróság a végrehajtást felfüggesztő végzését az ingatlanügyi hatóságnak, illetve az építésügyi hatóságnak haladéktalanul megküldi.
+(2) Ha a közigazgatási perben a bíróság a kisajátítási határozat végrehajtását felfüggeszti, az ingatlannal kapcsolatos közigazgatási eljárásokban (ingatlan-nyilvántartási eljárás, építésügyi eljárás) az eljáró szerv köteles az eljárását a közbenső ítélet jogerőre emelkedéséig – az (1) bekezdés e) pont eb) alpontja szerinti esetben a per jogerős befejezéséig – felfüggeszteni. Ha az ingatlannal kapcsolatos közigazgatási eljárásban már jogerős határozatot hoztak, a felfüggesztő végzés hatálya annak végrehajtására is kiterjed. A bíróság a végrehajtást felfüggesztő végzését az ingatlanügyi hatóságnak, illetve az építésügyi hatóságnak haladéktalanul megküldi.
 
 (3) Az e §-ban foglaltak a kisajátítási hatóság e törvény szerinti egyéb határozataival szemben kezdeményezett közigazgatási perek esetében megfelelően alkalmazandók.
