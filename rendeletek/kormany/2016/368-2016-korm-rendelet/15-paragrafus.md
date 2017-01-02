@@ -1,1 +1,0 @@
-## 14. § A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015. (XII. 2.) Korm. rendelet (a továbbiakban: Honvr.) 6. §-ában az „5 éves” szövegrész helyébe a „2 éves” szöveg lép.
