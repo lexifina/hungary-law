@@ -866,6 +866,38 @@ A vizsgán használható segédeszközök
 
 | A vizsgabizottságot működtető intézmény biztosítja | Biblia (Károli); Bibliai Atlasz (Aharoni-Avi Yonah) | A II. részhez Biblia (Károli) | Biblia (Károli); Bibliai Atlasz (Aharoni-Avi Yonah) |
 
+Nyilvánosságra hozandók
+
+|  | Középszint | Emelt szint |
+
+| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| Anyag | témakörök | témakörök | témakörök |
+
+| Mikor? | jogszabály szerint | jogszabály szerint | jogszabály szerint |
+
+KÖZÉPSZINTŰ VIZSGA
+
+| Középszint |
+
+| Szóbeli vizsga |
+
+| 15 perc |
+
+| 50 pont |
+
+| A feladat: 10 perc 30 pont |
+
+| B feladat: 5 perc 10 pont |
+
+| A és B előadásmód 10 pont |
+
+Szóbeli vizsga
+
+A tételsor legalább 20 tételből áll. Évente legalább öt új, a május–júniusi vizsgaidőszakban nem szereplő tételt kell beiktatni, ugyanannyi régi helyett.
+
+A felkészüléshez a Károli Gáspár által fordított Biblia, valamint Bibliai Atlasz (Aharoni-Avi Yonah) használata megengedett.
+
 A vizsga célja annak mérése, hogy a vizsgázó képes-e a mindennapi életben előforduló, különböző fajtájú autentikus szövegeket önállóan elolvasni, és az olvasási céloknak megfelelő mélységben megérteni.
 
 A vizsgafeladatok megoldásához a vizsgázónak képesnek kell lennie a céloknak megfelelő stratégiák alkalmazására is.
@@ -1930,38 +1962,6 @@ KÖZÉPSZINTŰ VIZSGA
 
 Általános szabályok
 
-Nyilvánosságra hozandók
-
-|  | Középszint | Emelt szint |
-
-| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
-
-| Anyag | témakörök | témakörök | témakörök |
-
-| Mikor? | jogszabály szerint | jogszabály szerint | jogszabály szerint |
-
-KÖZÉPSZINTŰ VIZSGA
-
-| Középszint |
-
-| Szóbeli vizsga |
-
-| 15 perc |
-
-| 50 pont |
-
-| A feladat: 10 perc 30 pont |
-
-| B feladat: 5 perc 10 pont |
-
-| A és B előadásmód 10 pont |
-
-Szóbeli vizsga
-
-A tételsor legalább 20 tételből áll. Évente legalább öt új, az előző vizsgaidőszakban nem szereplő tételt kell beiktatni, ugyanannyi régi helyett.
-
-A felkészüléshez a Károli Gáspár által fordított Biblia, valamint Bibliai Atlasz (Aharoni-Avi Yonah) használata megengedett.
-
 A szóbeli tételsor tartalmi és formai jellemzői
 
 A tételsor összeállításáért a szaktanár a felelős. A tételsort úgy kell összeállítani, hogy a tételek 60%-a a bibliaismereti, 40%-a a kortörténeti háttér, a fundamentális teológia, a bibliai ünnepek, valamint a keresztény erkölcsi élet témaköreiből kerüljön ki. Egy tétel egy A és egy B feladatból áll. Az A feladatok egy-egy témakör átfogó anyagából jelölnek ki egy-egy témát, amelyben a vizsgázó bemutatja alapvető bibliai ismereteit, tudását. A B feladatok rövidebb témák, fogalmak bemutatását, megadott bibliai idézet értelmezését kívánják meg a vizsgázótól. A szaktanár az A feladathoz mindig más témakörből illeszt B feladatot.
@@ -3024,23 +3024,23 @@ II. A VIZSGA LEÍRÁSA
 
 A vizsga részei
 
-| Középszint | Emelt szint I. |
+| Középszint | Emelt szint |
 
-| Írásbeli vizsga (projekt) | Szóbeli vizsga (tételkifejtés és projektvédés) | Írásbeli vizsga (projekt)* | Szóbeli vizsga (tételkifejtés és projektvédés) |
+| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| – | 15 perc (10 perc és 5 perc) | – | 20 perc (10 perc és 10 perc) |
+| 15 perc | 180 perc | 20 perc |
 
-| 40 pont | 110 pont (70 pont és 40 pont) | 40 pont | 110 pont (70 pont és 40 pont) |
+| 50 pont | 70 pont | 80 pont |
 
-|  |  | Emelt szint II. |
+A vizsgán használható segédeszközök
 
-| Írásbeli vizsga | Szóbeli vizsga |
+|  | Középszint | Emelt szint |
 
-| 180 perc | 20 perc |
+| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| 90 pont | 60 pont |
+| A vizsgázó biztosítja | NINCS | NINCS | NINCS |
 
-Az írásbeli vizsgán a vizsgázóknak egy központi feladatsort kell megoldaniuk.
+| A vizsgabizottságot működtető intézmény biztosítja | Biblia (a Szent Jeromos Katolikus Bibliatársulat kiadása), a II. Vatikáni Zsinat dokumentumai, valamint a tétel kifejtéséhez szükséges szövegrészlet(ek). | Biblia (a Szent Jeromos Katolikus Bibliatársulat kiadása), valamint a II. Vatikáni Zsinat dokumentumai. | Biblia (a Szent Jeromos Katolikus Bibliatársulat kiadása), a II. Vatikáni Zsinat dokumentumai, valamint a tétel kifejtéséhez szükséges szövegrészlet(ek). |
 
 A vizsgázó a rendelkezésére álló időt tetszése szerint oszthatja meg az A), B) vizsgarész-összetevő között, illetve az egyes feladatok között. A vizsgázó a feladatok megoldásának sorrendjét is meghatározhatja.
 
@@ -3088,11 +3088,51 @@ A vizsga részei
 
 | Középszint | Emelt szint |
 
-| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+| Írásbeli vizsga (projekt) | Szóbeli vizsga (esetelemzés és projektvédés) | Írásbeli vizsga | Szóbeli vizsga |
 
-| 180 perc | 15 perc | 180 perc | 20 perc |
+|  | 15 perc (10 perc és 5 perc) | 240 perc | 20 perc |
 
-| 100 pont | 50 pont | 100 pont | 50 pont |
+| 80 pont | 70 pont (50 pont és 20 pont) | 75 pont | 75 pont |
+
+A vizsgán használható segédeszközök
+
+|  | Középszint | Emelt szint |
+
+| Írásbeli vizsga (projekt) | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| A vizsgázó biztosítja | NINCS | NINCS | NINCS | NINCS |
+
+| A vizsgabizottságot működtető intézmény biztosítja | NINCS | középiskolai földrajz és történelem atlaszok | NINCS | középiskolai földrajz és történelem atlaszok |
+
+Nyilvánosságra hozandók
+
+|  | Középszint | Emelt szint |
+
+| Írásbeli vizsga (projekt) | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| Anyag | vizsgaidőszakonként három projekttéma | NINCS | NINCS | témakörök |
+
+| Mikor? | tavaszi vizsgaidőszakra: előző év december 1. őszi vizsgaidőszakra: adott év május 1. | NINCS | NINCS | tavaszi vizsgaidőszakra: előző év december 1. őszi vizsgaidőszakra: adott év május 1. |
+
+KÖZÉPSZINTŰ VIZSGA
+
+| Középszint |
+
+| Írásbeli vizsga (projekt) | Szóbeli vizsga |
+
+|  | 15 perc |
+
+| egy téma önálló, évközi feldolgozása | esetelemzés 10 perc | projektvédés 5 perc |
+
+|  | 50 pont | 20 pont |
+
+| 80 pont | 70 pont |
+
+Írásbeli vizsga (projekt)
+
+Általános szabályok
+
+A projektmunka témáját a vizsgázó a központilag meghatározott három témakör valamelyikéből választhatja.
 
 Feleletválasztós feladatok
 
@@ -3528,45 +3568,49 @@ A vizsga részei
 
 | Középszint | Emelt szint |
 
-| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+| Írásbeli vizsga (projekt) | Szóbeli vizsga (esetelemzés és projektvédés) | Írásbeli vizsga | Szóbeli vizsga |
 
-| 180 perc | 15 perc | 240 perc | 20 perc |
+|  | 15 perc (10 perc és 5 perc) | 240 perc | 20 perc |
 
-| 100 pont | 50 pont | 100 pont | 50 pont |
+| 80 pont | 70 pont (50 pont és 20 pont) | 75 pont | 75 pont |
 
 A vizsgán használható segédeszközök
 
 |  | Középszint | Emelt szint |
 
-| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+|  | Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| A vizsgázó biztosítja | szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép, rajzeszközök, sablonok, vonalzók | NINCS | szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép, rajzeszközök, sablonok, vonalzók | NINCS |
+| A vizsgázó biztosítja | NINCS | NINCS | NINCS | NINCS |
 
-| A vizsgabizottságot működtető intézmény biztosítja | NINCS | áramköri rajzok, táblázatok, katalógus lapok csatolhatók a tételsorba építve | NINCS | áramköri rajzok, táblázatok, katalógus lapok csatolhatók a tételsorba építve |
+| A vizsgabizottságot működtető intézmény biztosítja | NINCS | középiskolai földrajz, illetve történelem atlasz | NINCS | középiskolai földrajz, illetve történelem atlasz |
 
-Nyilvánosságra hozandó anyag nincs.
+Nyilvánosságra hozandók
+
+|  | Középszint | Emelt szint |
+
+|  | Írásbeli vizsga (projekt) | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| Anyag | vizsgaidőszakonként három projekttéma | NINCS | NINCS | témakörök |
+
+| Mikor? | tavaszi vizsgaidőszakra: előző év december 1. őszi vizsgaidőszakra: adott év május 1. | NINCS | NINCS | jogszabály szerint |
 
 KÖZÉPSZINTŰ VIZSGA
 
-| Középszint |
-
 | Írásbeli vizsga | Szóbeli vizsga |
 
-| 180 perc | 15 perc |
+|  | 15 perc |
 
-| 100 pont | 50 pont |
+| egy téma önálló, évközi feldolgozása | esetelemzés 10 perc | projektvédés 5 perc |
 
-| Feladatlap | Elektronikai alapismeretek tételsor alapján témakörök bemutatása |
+|  | 50 pont | 20 pont |
 
-| 180 perc |
+| 80 pont | 70 pont |
 
-| Egyszerű, rövid feladatok | Összetett feladatok |
-
-| 40 pont | 60 pont |
-
-Írásbeli vizsga
+Írásbeli vizsga (projekt)
 
 Általános szabályok
+
+A projektmunka témáját a vizsgázó a központilag meghatározott három témakör valamelyikéből választhatja.
 
 A projekt témája a tanulmányok alatt érintett nyolc ismeretcsoport (lásd Részletes követelmények) bármelyikéből választható, melyet a vizsgázó a szóbeli vizsgán véd meg.
 
@@ -3692,47 +3736,21 @@ A vizsga részei
 
 | Középszint | Emelt szint |
 
-| Írásbeli vizsga (projekt) | Szóbeli vizsga (esetelemzés és projektvédés) | Írásbeli vizsga | Szóbeli vizsga |
+| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-|  | 15 perc (10 perc és 5 perc) | 240 perc | 20 perc |
+| 15 perc | 180 perc | 20 perc |
 
-| 80 pont | 70 pont (50 pont és 20 pont) | 75 pont | 75 pont |
+| 50 pont | 80 pont | 70 pont |
 
 A vizsgán használható segédeszközök
 
 |  | Középszint | Emelt szint |
 
-| Írásbeli vizsga (projekt) | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| A vizsgázó biztosítja | NINCS | NINCS | NINCS | NINCS |
+| A vizsgázó biztosítja | NINCS | NINCS | NINCS |
 
-| A vizsgabizottságot működtető intézmény biztosítja | NINCS | középiskolai földrajz és történelem atlaszok | NINCS | középiskolai földrajz és történelem atlaszok |
-
-Nyilvánosságra hozandók
-
-|  | Középszint | Emelt szint |
-
-| Írásbeli vizsga (projekt) | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
-
-| Anyag | vizsgaidőszakonként három projekttéma | NINCS | NINCS | témakörök |
-
-| Mikor? | tavaszi vizsgaidőszakra: előző év december 1. őszi vizsgaidőszakra: adott év május 1. | NINCS | NINCS | tavaszi vizsgaidőszakra: előző év december 1. őszi vizsgaidőszakra: adott év május 1. |
-
-KÖZÉPSZINTŰ VIZSGA
-
-| Középszint |
-
-| Írásbeli vizsga (projekt) | Szóbeli vizsga |
-
-|  | 15 perc |
-
-| egy téma önálló, évközi feldolgozása | esetelemzés 10 perc | projektvédés 5 perc |
-
-|  | 50 pont | 20 pont |
-
-| 80 pont | 70 pont |
-
-Írásbeli vizsga (projekt)
+| A vizsgabizottságot működtető intézmény biztosítja | Biblia, bibliai atlasz, Evangélikus Énekeskönyv és egyháztörténeti kérdéshez történelem atlasz. | NINCS | Biblia, bibliai atlasz, Evangélikus Énekeskönyv és egyháztörténeti kérdéshez történelem atlasz. |
 
 A vizsgázó a rendelkezésére álló időt tetszése szerint oszthatja meg az egyes feladatok között és megoldásuk sorrendjét is meghatározhatja.
 
@@ -3898,29 +3916,5 @@ A gyakorlati vizsgán a két feladattípusban összesen 60 pont szerezhető. Az 
 
 Drámajátékos improvizáció:
 
-| - A szituáció megértése | 8 pont |
-
-| - Fantázia, ötletesség | 12 pont |
-
-| - Karakterábrázolás | 10 pont |
-
-|  | 30 pont |
-
-Egyéni színpadi produkció:
-
-| - Szövegtudás vagy a dallam vagy a lépések memorizáltsága | 5 pont |
-
-| - Értelmezés, szerkesztés | 5 pont |
-
-| - Az alkalmazott technikák (beszéd, mozgás stb.) | 8 pont |
-
-| - Előadásmód (karakterábrázolás, hitelesség, hangulatteremtés, kapcsolatteremtés) | 10 pont |
-
-| - Koncentráció | 2 pont |
-
-|  | 30 pont |
-
-Közös színpadi produkció:
-
 [^7]: A 3. §-t a 19/2016. (VIII. 23.) EMMI rendelet 3. §-a iktatta be.
-[^9]: A melléklet a 14/2003. (V. 27.) OM rendelet 1. §-ával megállapított, a 25/2003. (IX. 26.) OM rendelet 1. §-a, az 1/2005. (I. 21.) OM rendelet 1–2. §-a és 4. § (2) bekezdése, a 7/2006. (III. 7.) OM rendelet 1. §-a, a 3/2007. (I. 24.) OKM rendelet 2. §-a, 3. §-a és 4. §-a (2) bekezdésének a)–e) pontja, a 20/2007. (III. 23.) OKM rendelet 3. § (2) bekezdése, a 38/2007. (XI. 13.) OKM rendelet 1–84. §-a, a 22/2009. (IV. 22.) OKM rendelet 1–58. §-a, az 1/2012. (I. 3.) NEFMI rendelet 2. §-a, a 36/2012. (XI. 14.) EMMI rendelet 2. § f) pontja és 3. §-a, a 33/2015. (VI. 24.) EMMI rendelet 1–4. §-a, a 19/2016. (VIII. 23.) EMMI rendelet 4. § (1) bekezdése, az 51/2016. (XII. 29.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^9]: A melléklet a 14/2003. (V. 27.) OM rendelet 1. §-ával megállapított, a 25/2003. (IX. 26.) OM rendelet 1. §-a, az 1/2005. (I. 21.) OM rendelet 1–2. §-a és 4. § (2) bekezdése, a 7/2006. (III. 7.) OM rendelet 1. §-a, a 3/2007. (I. 24.) OKM rendelet 2. §-a, 3. §-a és 4. §-a (2) bekezdésének a)–e) pontja, a 20/2007. (III. 23.) OKM rendelet 3. § (2) bekezdése, a 38/2007. (XI. 13.) OKM rendelet 1–84. §-a, a 22/2009. (IV. 22.) OKM rendelet 1–58. §-a, az 1/2012. (I. 3.) NEFMI rendelet 2. §-a, a 36/2012. (XI. 14.) EMMI rendelet 2. § f) pontja és 3. §-a, a 33/2015. (VI. 24.) EMMI rendelet 1–4. §-a, a 19/2016. (VIII. 23.) EMMI rendelet 4. § (1)–(2) bekezdése, az 51/2016. (XII. 29.) EMMI rendelet 1. §-a, a 48/2016. (XII. 28.) EMMI rendelet 1. §-a szerint módosított szöveg.
