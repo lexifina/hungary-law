@@ -1,5 +1,3 @@
-## 29. § Hatályát veszti
+29. §[^1]
 
-a) az előadó-művészeti szervezetek és az előadó-művészeti érdekképviseleti szervezetek működésével kapcsolatos hatósági eljárások és adatszolgáltatások részletes szabályairól szóló 14/2012. (III. 6.) NEFMI rendelet,
-
-b) az előadó-művészeti szervezeteknek nyújtott támogatások pénzügyi és beszámolási szabályairól szóló 34/2013. (V. 14.) EMMI rendelet.
+[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
