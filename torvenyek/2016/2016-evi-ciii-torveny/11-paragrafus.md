@@ -1,3 +1,0 @@
-11. § Az Nbjt. 14. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Abban az esetben, ha a kiadni kért személy menekültkénti vagy menedékeskénti elismerését kéri, illetve menedékjogi eljárás van folyamatban, a kiadni kért személlyel szemben alkalmazott kényszerintézkedés határideje – a menedékjogi eljárás jogerős befejezését figyelembe véve – oly módon hosszabbodik meg, hogy a menekültkénti vagy menedékeskénti elismerés megtagadását követően legalább negyven nap álljon rendelkezésre a kiadatás ügyében való döntésre és a kiadott személy átadására. A kényszerintézkedés együttes időtartama azonban ebben az esetben sem haladhatja meg a kényszerintézkedés kezdetétől számított huszonnégy hónapot.”
