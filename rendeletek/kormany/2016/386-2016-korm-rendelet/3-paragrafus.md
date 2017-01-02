@@ -4,4 +4,6 @@
 
 (3) A NEAK – az (1) és (2) bekezdés alá nem tartozó – foglalkoztatottai felett a munkáltatói jogokat a főigazgató gyakorolja.
 
-(4) A NEAK gazdálkodásával és üzemeltetésével kapcsolatos feladatok ellátásáról a miniszter által vezetett minisztérium gondoskodik.
+(4)[^1] A NEAK gazdálkodásával és üzemeltetésével kapcsolatos feladatok ellátásáról – jogszabály eltérő rendelkezése hiányában – a miniszter által vezetett minisztérium gondoskodik.
+
+[^1]: A 3. § (4) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 47. §-ával megállapított szöveg.
