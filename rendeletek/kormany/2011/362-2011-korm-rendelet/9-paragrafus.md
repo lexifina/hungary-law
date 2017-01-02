@@ -2,11 +2,11 @@
 
 ## 9. § A közreműködő intézmény által vezetett nyilvántartás
 
-a)[^25]
+a)[^27]
 
 b) az igénylés elküldésének tényét és idejét,
 
-c)[^26] az adatkezelő adatszolgáltatása alapján az oktatási igazolvány egyedi azonosítóját,
+c)[^28] az adatkezelő adatszolgáltatása alapján az oktatási igazolvány egyedi azonosítóját,
 
 d) az érvényesítő matricák megrendelésének tényét és idejét,
 
@@ -18,10 +18,10 @@ g) az oktatási igazolvány bevonásának okát, tényét és idejét,
 
 h) az oktatási igazolvány egyedi adatchip azonosítóját,
 
-i)[^27] az oktatási igazolvány jogosult által történő átvételének dátumát,
+i)[^29] az oktatási igazolvány jogosult által történő átvételének dátumát,
 
 j) a 12. § szerinti igazolás adatait
 
-[^25]: A 9. § a) pontját a 442/2016. (XII. 16.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
-[^26]: A 9. § c) pontja a 210/2015. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^27]: A 9. § i) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte, újonnan a 440/2016. (XII. 16.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^27]: A 9. § a) pontját a 442/2016. (XII. 16.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
+[^28]: A 9. § c) pontja a 210/2015. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^29]: A 9. § i) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte, újonnan a 440/2016. (XII. 16.) Korm. rendelet 22. § (2) bekezdése iktatta be.

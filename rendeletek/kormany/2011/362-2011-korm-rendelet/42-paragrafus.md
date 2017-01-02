@@ -6,13 +6,13 @@
 
 (4) E rendelet hatályba lépését megelőzően kiadott diákigazolványok az arra való jogosultság megszűnéséig az e rendeletben szabályozott módon érvényesíthetőek.
 
-(5)–(6)[^113]
+(5)–(6)[^111]
 
-(7)[^114] A NEK oktatási igazolványokra vonatkozó specifikációjának közzétételéig az oktatási igazolványokra vonatkozó műszaki (technikai) előírásokat a e-közigazgatásért felelős miniszter határozza meg.
+(7)[^112] A NEK oktatási igazolványokra vonatkozó specifikációjának közzétételéig az oktatási igazolványokra vonatkozó műszaki (technikai) előírásokat az e-közigazgatásért felelős miniszter határozza meg.
 
-(8)[^115] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^116] követően kibocsátott diákigazolványokra kell alkalmazni.
+(8)[^113] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^114] követően kibocsátott diákigazolványokra kell alkalmazni.
 
-[^113]: A 42. § (5)–(6) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
-[^114]: A 42. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^115]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^116]: A hatálybalépés időpontja 2013. július 30.
+[^111]: A 42. § (5)–(6) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
+[^112]: A 42. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés e) pontja, a 442/2016. (XII. 16.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^113]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^114]: A hatálybalépés időpontja 2013. július 30.

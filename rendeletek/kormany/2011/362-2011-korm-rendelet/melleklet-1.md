@@ -1,4 +1,4 @@
-1. melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^122]
+1. melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^120]
 
 ## IGAZOLÁS ADATTARTALMA
 
@@ -72,4 +72,4 @@ cb) címe.
 
 * feladatellátási hely: az intézmény alapító okiratában szereplő, azon telephely címe, ahol a tanuló vagy hallgató oktatásban részesül. Ha a tanuló vagy hallgató több feladatellátási helyen veszi igénybe az oktatást, akkor azt a telephelyet kell megadni, ahol a legmagasabb óraszámban tanul.
 
-[^122]: Az 1. melléklet a 442/2016. (XII. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^120]: Az 1. melléklet a 442/2016. (XII. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
