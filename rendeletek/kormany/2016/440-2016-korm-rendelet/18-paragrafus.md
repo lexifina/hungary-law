@@ -1,3 +1,5 @@
-## 17. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 1. számú melléklete az 1. melléklet szerint módosul.
+## 17. §[^14]
 
 ## 11. A kedvtelésből tartott állatok tartásáról és forgalmazásáról szóló 41/2010. (II. 26.) Korm. rendelet módosítása
+
+[^14]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 30. §[^8]
+## 30. §[^27]
 
 ## 19. A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet módosítása
 
-[^8]: A 30. § a 40. § (4) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^27]: A 30. § a 40. § (4) bekezdése alapján 2017. július 1-jén lép hatályba.
