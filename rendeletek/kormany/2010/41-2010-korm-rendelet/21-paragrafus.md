@@ -1,3 +1,3 @@
-## 20. §[^91]
+## 20. §[^89]
 
-[^91]: A 20. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^89]: A 20. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.
