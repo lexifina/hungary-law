@@ -1,1 +1,0 @@
-## 28. § A komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet (a továbbiakban: R2.) 4. § (1a) bekezdés b) pontjában a „Nemzeti Rehabilitációs és Szociális Hivatal” szövegrész helyébe a „szociál- és nyugdíjpolitikáért felelős miniszter” szöveg lép.

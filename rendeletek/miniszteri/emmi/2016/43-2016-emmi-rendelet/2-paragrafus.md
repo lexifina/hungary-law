@@ -1,1 +1,0 @@
-## „(3a) A Főigazgatóság a (2) bekezdés a) és b) pontja szerinti, a bölcsődei módszertani szervezet a (2a) bekezdés szerinti, a kijelölt egyházi módszertani intézmény a (3) bekezdés szerinti ellenőrzésen tapasztaltakról szakértői véleményt készít.”
