@@ -1,3 +1,0 @@
-## „(5) Az érintett szervezet a közbeszerzési törvény 105. § (1) bekezdés a) és b) pontja, valamint (2) bekezdés a) és b) pontja szerint kötött keretmegállapodásokból a miniszter előzetes hozzájárulása nélkül közvetlen megrendelést kezdeményezhet, továbbá versenyújranyitás és konzultáció esetében a miniszter előzetes hozzájárulása nélkül lefolytathatja az eljárást, azonban az érintett szervezet a 6. melléklet szerinti adatszolgáltatást köteles negyedévente – március 31-ig, június 30-ig, szeptember 30-ig, december 31-ig – teljesíteni. Az ellenőrző szervezet az adatszolgáltatással kapcsolatban további adatokat kérhet.”
-
-13. § (1) A 320/2015. (X. 30.) Korm. rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (2a) bekezdéssel egészül ki:
