@@ -88,7 +88,7 @@ j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi �
 
 k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 
-l) a köznevelési feladatokat ellátó hatóságok hatósági ellenőrzésének tárgyköreit, a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét,
+l) a kijelölje a köznevelési feladatokat ellátó hatóságot, a köznevelési feladatokat ellátó hatóság hatósági ellenőrzésének tárgyköreit, a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét,
 
 m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj alapítását,
 

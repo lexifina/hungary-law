@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2016-09-02 | 2016. évi LXXX. törvény | 2011-190-00-00.37 |
 | 2016-11-30 | 2016. évi CXXVI. törvény | 2011-190-00-00.38 |
 | 2017-01-01 | 2016. évi LXXX. törvény | 2011-190-00-00.39 |
+| 2017-01-02 | 2016. évi CXXVI. törvény | 2011-190-00-00.40 |
