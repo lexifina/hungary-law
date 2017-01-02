@@ -1,1 +1,0 @@
-## „(13) Az egyes szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló 556/2013. (XII. 31.) Korm. rendelet 1. § (2) bekezdésében és 2. § (2) bekezdésében meghatározott vámhatósági feladatokat országos illetékességgel az Észak-budapesti Adó- és Vámigazgatóság látja el.”
