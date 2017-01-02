@@ -1,3 +1,0 @@
-## 7. § Hatályát veszti az országgyűlési képviselők és az Európai Parlament tagjainak választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eljárásban használandó nyomtatványokról, valamint a választási eredmény országosan összesített adatai körének megállapításáról szóló 28/2013. (XI. 15.) KIM rendelet 9. § (3) bekezdés a) pontjában az „a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala vagy” szövegrész.
-
-## 7. A büntetés-végrehajtási intézetekben fogvatartott elítéltek és egyéb jogcímen fogvatartottak egészségügyi ellátásáról szóló 8/2014. (XII. 12.) IM rendelet módosítása

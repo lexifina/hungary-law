@@ -1,3 +1,0 @@
-## 12. § A szabadságvesztés, az elzárás, az előzetes letartóztatás és a rendbírság helyébe lépő elzárás végrehajtásának részletes szabályairól szóló 16/2014. (XII. 19.) IM rendelet 147. § (4) bekezdés c) pontjában, 183. § c) pontjában a „Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát” szövegrész helyébe a „bűnügyi nyilvántartó szervet” szöveg lép.
-
-## 11. Az országos népszavazáson a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eljárásban használandó nyomtatványokról, valamint a népszavazási eredmény országosan összesített adatainak köréről szóló 9/2016. (VI. 28.) IM rendelet módosítása

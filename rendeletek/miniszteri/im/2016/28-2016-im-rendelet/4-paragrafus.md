@@ -1,3 +1,0 @@
-## 3. § A közigazgatási hatósági eljárásban közreműködő hatósági közvetítők, tolmácsok és jelnyelvi tolmácsok díjazásának szabályairól, valamint a tanúk költségtérítéséről szóló 14/2008. (VI. 27.) IRM rendelet módosításáról szóló 42/2009. (IX. 15.) IRM rendelet 5. § (1) bekezdés c) pontjában az „az Adó- és Pénzügyi Ellenőrzési Hivatal” szövegrész helyébe az „az állami adóhatóság” szöveg lép.
-
-## 4. A bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás, valamint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás rendjéről és a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjról szóló 53/2012. (XII. 22.) KIM rendelet módosítása
