@@ -1,3 +1,5 @@
-## 17. § A gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet (a továbbiakban: Ar.) 2. számú melléklete az 1. melléklet szerint módosul.
+## 17. §[^3]
 
 ## 4. A súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet módosítása
+
+[^3]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

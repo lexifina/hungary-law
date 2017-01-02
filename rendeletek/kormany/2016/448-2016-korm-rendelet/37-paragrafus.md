@@ -1,1 +1,3 @@
-## „(10) A felfüggesztési ok bekövetkezéséről és megszűnéséről a működést engedélyező szerv és az ellenőrző igazgatóság haladéktalanul értesíti a Főigazgatóságot.
+## 36. §[^10]
+
+[^10]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
