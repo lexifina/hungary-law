@@ -1,4 +1,4 @@
-## 6. §[^2]
+## 6. §[^4]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § és a 6. § 2019. január 1-jén lép hatályba.
 
-[^2]: A 6. § a 7. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^4]: A 6. § a 7. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
