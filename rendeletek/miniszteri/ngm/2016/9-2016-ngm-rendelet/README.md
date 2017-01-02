@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-9-20-2X
 | 2016-04-03 | 2016-9-20-2X.2 | 2010: CXXX. törvény |
 | 2016-09-28 | 2016-9-20-2X.3 | 36/2016. (IX. 27.) NGM rendelet |
 | 2017-01-01 | 2016-9-20-2X.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-01-02 | 2016-9-20-2X.5 | 18/2018. (XII. 20.) PM rendelet |

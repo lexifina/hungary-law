@@ -1,3 +1,3 @@
-4. melléklet a 9/2016. (III. 25.) NGM rendelethez[^11]
+4. melléklet a 9/2016. (III. 25.) NGM rendelethez[^13]
 
-[^11]: A 4. melléklet a 39. § (4) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^13]: A 4. melléklet a 18/2018. (XII. 20.) PM rendelet 17. § b) pontja alapján nem lép hatályba.
