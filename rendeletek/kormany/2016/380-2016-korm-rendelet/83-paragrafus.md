@@ -1,13 +1,8 @@
 ## 83. A Magyar Tenisz Szövetség Nemzeti Edzésközpontjának kialakítására irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 238/2014. (IX. 18.) Korm. rendelet módosítása
 
-83. § (1) A Magyar Tenisz Szövetség Nemzeti Edzésközpontjának kialakítására irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 238/2014. (IX. 18.) Korm. rendelet (a továbbiakban: R62.)
+83. § (1)[^141]
 
-a) 1. melléklete helyébe a 128. melléklet,
+(2)[^142]
 
-b) 2. melléklete helyébe a 129. melléklet
-
-## lép.
-
-(2)[^59]
-
-[^59]: A 83. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^141]: A 83. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 83. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

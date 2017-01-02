@@ -1,7 +1,7 @@
-## 72. § A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósítandó tanuszoda, tornaterem, tanterem beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 141/2014. (IV. 30.) Korm. rendelet 2. melléklet 10. pontja helyébe a következő rendelkezés lép:
-
-## „10. műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,”
+## 72. §[^124]
 
 ## 73. A Szeged, Dorozsmai úti Labdarúgó Stadion kialakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló
 
 ## 143/2014. (IV. 30.) Korm. rendelet módosítása
+
+[^124]: A 72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

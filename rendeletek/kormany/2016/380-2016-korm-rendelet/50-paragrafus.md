@@ -1,9 +1,3 @@
 ## 50. Az Országos Rendőr-főkapitányság „Folyami határőrizeti rendszer fejlesztése Mohácson” című projektjével, továbbá a Nemzeti Adó- és Vámhivatal által megvalósítandó, Magyarország és a Szerb Köztársaság közti határforgalom ellenőrzésért, valamint vámellenőrzésért felelős hatóságok számára az ellenőrzés feltételeinek magyar államterületen, közös helyen való biztosítását célzó, Bácsszentgyörgy–Rastina (Haraszti) közúti határátkelőhelyet érintő beruházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló
 
 ## 293/2013. (VII. 26.) Korm. rendelet módosítása
-
-50. § (1) Az Országos Rendőr-főkapitányság „Folyami határőrizeti rendszer fejlesztése Mohácson” című projektjével, továbbá a Nemzeti Adó- és Vámhivatal által megvalósítandó, Magyarország és a Szerb Köztársaság közti határforgalom ellenőrzésért, valamint vámellenőrzésért felelős hatóságok számára az ellenőrzés feltételeinek magyar államterületen, közös helyen való biztosítását célzó, Bácsszentgyörgy–Rastina (Haraszti) közúti határátkelőhelyet érintő beruházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 293/2013. (VII. 26.) Korm. rendelet (a továbbiakban: R41.) 1. melléklet 8. pontja helyébe a következő rendelkezés lép:
-
-## „8. műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,”
-
-(2) Az R41. 2. melléklet 5. pontja helyébe a következő rendelkezés lép:

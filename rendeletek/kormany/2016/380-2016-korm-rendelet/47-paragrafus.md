@@ -1,15 +1,11 @@
-## lép.
+## 46. §[^82]
 
 ## 47. A Hyginett Magyar–Amerikai Higiéniai Cikkeket Gyártó Kft. Csömörön épülő gyártóüzemének megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 282/2013. (VII. 24.) Korm. rendelet módosítása
 
-47. § (1) A Hyginett Magyar–Amerikai Higiéniai Cikkeket Gyártó Kft. Csömörön épülő gyártóüzemének megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 282/2013. (VII. 24.) Korm. rendelet (a továbbiakban: R38.)
+47. § (1)[^83]
 
-a) 1. melléklete helyébe a 80. melléklet,
+(2)[^84]
 
-b) 2. melléklete helyébe a 81. melléklet
-
-## lép.
-
-(2)[^37]
-
-[^37]: A 47. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^82]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 47. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 47. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

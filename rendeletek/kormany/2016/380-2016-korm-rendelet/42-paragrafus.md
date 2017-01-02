@@ -1,13 +1,8 @@
 ## 42. A Lakitelek Népfőiskola épületeinek rekonstrukciójával és fejlesztésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 133/2013. (V. 9.) Korm. rendelet módosítása
 
-42. § (1) A Lakitelek Népfőiskola épületeinek rekonstrukciójával és fejlesztésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 133/2013. (V. 9.) Korm. rendelet (a továbbiakban: R36.)
+42. § (1)[^76]
 
-a) 1. melléklete helyébe a 74. melléklet,
+(2)[^77]
 
-b) 2. melléklete helyébe a 75. melléklet
-
-## lép.
-
-(2)[^35]
-
-[^35]: A 42. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^76]: A 42. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 42. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

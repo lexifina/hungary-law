@@ -1,17 +1,11 @@
-## 73. § A Szeged, Dorozsmai úti Labdarúgó Stadion kialakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 143/2014. (IV. 30.) Korm. rendelet 1. melléklet 10. pontja helyébe a következő rendelkezés lép:
-
-## „10. műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,”
+## 73. §[^125]
 
 ## 74. A „Miskolci Egyetem hazai és nemzetközi versenyképességének komplex megújítása” projekt komplex kivitelezési munkáival összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2014. (V. 6.) Korm. rendelet módosítása
 
-74. § (1) A „Miskolci Egyetem hazai és nemzetközi versenyképességének komplex megújítása” projekt komplex kivitelezési munkáival összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2014. (V. 6.) Korm. rendelet (a továbbiakban: R56.)
+74. § (1)[^126]
 
-a) 1. melléklete helyébe a 116. melléklet,
+(2)[^127]
 
-b) 2. melléklete helyébe a 117. melléklet
-
-## lép.
-
-(2)[^53]
-
-[^53]: A 74. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^125]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 74. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 74. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

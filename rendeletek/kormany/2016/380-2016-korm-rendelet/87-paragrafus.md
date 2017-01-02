@@ -1,17 +1,11 @@
-## 86. § Az Európai Bizottság első „NER300” finanszírozási programja keretében támogatásban részesülő GEOb Dél-magyarországi megnövelt hatékonyságú geotermikus rendszer (EGS) demonstrációs projekttel összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 263/2014. (X. 15.) Korm. rendelet 1. melléklet 6. pontja helyébe a következő rendelkezés lép:
-
-## „6. műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások”
+## 86. §[^146]
 
 ## 87. A Wuppermann Hungary Kft. Győr-Gönyűi Kikötőben megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 266/2014. (X. 21.) Korm. rendelet módosítása
 
-87. § (1) A Wuppermann Hungary Kft. Győr-Gönyűi Kikötőben megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 266/2014. (X. 21.) Korm. rendelet (a továbbiakban: R64.)
+87. § (1)[^147]
 
-a) 1. melléklete helyébe a 134. melléklet,
+(2)[^148]
 
-b) 2. melléklete helyébe a 135. melléklet
-
-## lép.
-
-(2)[^61]
-
-[^61]: A 87. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^146]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^147]: A 87. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^148]: A 87. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
