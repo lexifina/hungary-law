@@ -1,3 +1,0 @@
-9. § Az Atv. 14. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az engedélyes mindaddig felelős a nukleáris létesítmény vagy a radioaktívhulladék-tárolók nukleáris biztonságáért, amíg ez a felelősség az atomenergia-felügyeleti szerv által kiadott 17. § (2) bekezdés 1. pont b) alpontja szerinti határozata alapján nem szűnt meg, vagy más engedélyesre át nem szállt. A felelősség a nukleáris létesítmény és radioaktívhulladék-tároló telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez megszerzett engedélyek hatályának megszűnése esetén is fennáll.”
