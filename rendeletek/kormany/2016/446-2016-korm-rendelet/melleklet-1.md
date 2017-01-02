@@ -1,3 +1,0 @@
-## 7. § Ez a rendelet 2017. január 1-jén lép hatályba.
-
-1. melléklet a 446/2016. (XII. 16.) Korm. rendelethez
