@@ -6,13 +6,15 @@
 
 ## 48. § Az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet
 
-a)[^36]
+a)[^79]
 
-b) 15. § (6) bekezdésében az „az Országos Egészségbiztosítási Pénztárral (a továbbiakban: OEP)” szövegrész helyébe az „a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK)” szöveg,
+b)[^80]
 
-c)–g)[^37]
+c)–g)[^81]
 
-h) 36. § (1) bekezdés a) pontjában az „az OEP-et” szövegrész helyébe az „a NEAK-ot” szöveg
+h)[^82]
 
-[^36]: A 48. § a) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^37]: A 48. § c)–g) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^79]: A 48. § a) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^80]: A 48. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 48. § c)–g) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^82]: A 48. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

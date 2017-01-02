@@ -1,3 +1,5 @@
-## 92. § Az egészségügyi szolgáltatás keretében használt, éles vagy hegyes munkaeszközök által okozott sérülések megelőzésére, az ilyen eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményekről szóló 51/2013. (VII. 15.) EMMI rendelet 4. § (4) bekezdésében a „munkavédelmi hatóság hatáskörében eljáró fővárosi és megyei kormányhivatalnak” szövegrész helyébe a „fővárosi és megyei kormányhivatal munkavédelmi hatósági és munkaügyi hatósági feladatkörében eljáró járási (fővárosi kerületi) hivatalának” szöveg lép.
+## 92. §[^141]
 
 ## 93. A fertőző betegségek jelentésének rendjéről szóló 1/2014. (I. 16.) EMMI rendelet módosítása
+
+[^141]: A 92. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

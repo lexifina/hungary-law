@@ -4,25 +4,26 @@
 
 33. § (1) Az élelmiszer eredetű megbetegedések esetén követendő eljárásról szóló 62/2003. (X. 27.) ESZCSM rendelet (a továbbiakban: 62/2003. ESZCSM rendelet)
 
-a) 4. § (3) bekezdésében az „a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szöveg,
+a)[^51]
 
-b)–e)[^24]
+b)–e)[^52]
 
-f) 8. § (7) bekezdésében a „Nemzeti Élelmiszerlánc-biztonsági Hivatalt” szövegrész helyébe a „NÉBIH-et és a Pest Megyei Kormányhivatalt” szöveg,
+f)[^53]
 
-g)–i)[^25]
+g)–i)[^54]
 
-j) 2. számú mellékletében az „MgSzH” szövegrész helyébe a „NÉBIH” szöveg,
+j)–k)[^55]
 
-k) 2. számú mellékletében az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg,
-
-l)[^26]
+l)[^56]
 
 ## lép.
 
-(2)[^27]
+(2)[^57]
 
-[^24]: A 33. § (1) bekezdés b)–e) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^25]: A 33. § (1) bekezdés g)–i) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^26]: A 33. § (1) bekezdés l) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^27]: A 33. § (2) bekezdése a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^51]: A 33. § (1) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 33. § (1) bekezdés b)–e) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^53]: A 33. § (1) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 33. § (1) bekezdés g)–i) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^55]: A 33. § (1) bekezdés j)–k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 33. § (1) bekezdés l) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^57]: A 33. § (2) bekezdése a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

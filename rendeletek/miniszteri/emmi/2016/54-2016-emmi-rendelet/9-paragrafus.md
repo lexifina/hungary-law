@@ -1,30 +1,22 @@
-## 8. §[^5]
+## 8. §[^12]
 
 ## 9. A betegszállításról szóló 19/1998. (VI. 3.) NM rendelet módosítása
 
 ## 9. § A betegszállításról szóló 19/1998. (VI. 3.) NM rendelet
 
-a)–b)[^6]
+a)–b)[^13]
 
-c) 3. § (4) bekezdésében az „az Országos Egészségbiztosítási Pénztárral (a továbbiakban: OEP)” szövegrész helyébe az „a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK)” szöveg,
+c)–d)[^14]
 
-d) 4/A. §-ában az „az OEP-et” szövegrész helyébe az „a NEAK-ot” szöveg,
+e)–g)[^15]
 
-e)–g)[^7]
+h)–l)[^16]
 
-h) 2. számú mellékletében az „OEP” szövegrészek helyébe a „NEAK” szöveg,
+m)[^17]
 
-i) 3. számú mellékletében az „OEP” szövegrész helyébe a „NEAK” szöveg,
-
-j) 3. számú mellékletében az „ÁNTSZ kódja” szövegrészek helyébe a „működési engedély kódja” szöveg,
-
-k) 3/a. számú mellékletében az „ÁNTSZ kódja” szövegrész helyébe a „működési engedély kódja” szöveg,
-
-l) 4. számú mellékletében az „OEP” szövegrészek helyébe az „NEAK” szöveg,
-
-m)[^8]
-
-[^5]: A 8. § a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^6]: A 9. § a)–b) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^7]: A 9. § e)–g) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^8]: A 9. § m) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^12]: A 8. § a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^13]: A 9. § a)–b) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^14]: A 9. § c)–d) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 9. § e)–g) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^16]: A 9. § h)–l) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 9. § m) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

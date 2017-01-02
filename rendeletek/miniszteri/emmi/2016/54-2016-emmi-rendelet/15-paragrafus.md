@@ -1,14 +1,16 @@
-## 14. §[^10]
+## 14. §[^22]
 
 ## 15. A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet módosítása
 
 ## 15. § A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet
 
-a) 1. § (2) bekezdésében az „az Országos Egészségbiztosítási Pénztárral” szövegrész helyébe az „a Nemzeti Egészségbiztosítási Alapkezelővel” szöveg,
+a)[^23]
 
-b)–d)[^11]
+b)–d)[^24]
 
-e) 1. számú mellékletében az „Országos Egészségbiztosítási Pénztár” szövegrész helyébe a „Nemzeti Egészségbiztosítási Alapkezelő” szöveg, az „a Nemzeti Rehabilitációs és Szociális Hivatalhoz” szövegrész helyébe az „az orvosszakértői szervhez és a rehabilitációs szakértői szervhez” szöveg
+e)[^25]
 
-[^10]: A 14. § a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^11]: A 15. § b)–d) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^22]: A 14. § a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^23]: A 15. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 15. § b)–d) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^25]: A 15. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
