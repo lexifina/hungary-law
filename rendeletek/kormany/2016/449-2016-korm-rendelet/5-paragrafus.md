@@ -1,3 +1,5 @@
-## lép.
+## 3.[^4]
 
-## 3. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet módosítása
+5. §
+
+[^4]: A 3. alcím (5–11. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
