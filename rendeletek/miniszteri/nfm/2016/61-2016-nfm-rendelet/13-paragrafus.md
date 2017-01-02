@@ -1,1 +1,3 @@
-## 12. § Hatályát veszti a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló 1/2016. (I. 27.) NFM rendelet.
+## 1–12. §[^1]
+
+[^1]: Az 1–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
