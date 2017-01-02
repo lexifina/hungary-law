@@ -2,4 +2,6 @@
 
 6. § (1) Ez a rendelet 2017. január 1. napján lép hatályba.
 
-(2) Hatályát veszti a villamos energia elosztó és egyetemes szolgáltató által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló 52/2013. (IX. 13.) NFM rendelet.
+(2)[^1]
+
+[^1]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
