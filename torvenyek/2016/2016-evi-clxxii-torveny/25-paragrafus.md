@@ -1,5 +1,3 @@
 ## 7. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-25. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 5. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A gyógyszerészeti államigazgatási szerv a megújítási kérelmet 90 nap alatt bírálja el. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.”
+25–32. §
