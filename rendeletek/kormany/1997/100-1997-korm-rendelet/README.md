@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2016-01-23 | 1997-100-20-22.44 | 5/2016. (I. 22.) Korm. rendelet |
 | 2016-10-15 | 1997-100-20-22.45 | 256/2005. (XII. 7.) Korm. rendelet |
 | 2017-01-01 | 1997-100-20-22.46 | 5/2016. (I. 22.) Korm. rendelet |
+| 2017-01-02 | 1997-100-20-22.47 | 71/2003. (V. 27.) Korm. rendelet |

@@ -1,6 +1,6 @@
 4. §[^4] (1) Az érettségi vizsga egyes vizsgatárgyaiból középszinten vagy emelt szinten tehető érettségi vizsga.
 
-(2)[^5] A gimnázium és a szakgimnázium a tizenegyedik–tizenkettedik évfolyamon a kötelező közismereti vizsgatárgyból biztosítja, hogy a tanuló – választása szerint – mind a középszintű, mind az emelt szintű érettségi vizsgára fel tudjon készülni. A szakközépiskola az érettségi vizsgára felkészítő évfolyamokon a kötelező közismereti vizsgatárgyból biztosítja, hogy a tanuló a középszintű érettségi vizsgára fel tudjon készülni.
+(2)[^5] A gimnázium és a szakgimnázium a tizenegyedik–tizenkettedik évfolyamon a kötelező vizsgatárgyból biztosítja, hogy a tanuló – választása szerint – mind a középszintű, mind az emelt szintű érettségi vizsgára fel tudjon készülni. A szakközépiskola az érettségi vizsgára felkészítő évfolyamokon a kötelező közismereti vizsgatárgyból biztosítja, hogy a tanuló a középszintű érettségi vizsgára fel tudjon készülni.
 
 (2a)[^6] A szakgimnázium biztosítja, hogy a tanuló
 
@@ -15,7 +15,7 @@ b) ágazaton kívüli
 (4)[^8] A középiskolák az emelt szintű érettségi vizsgára történő felkészítés feladatait egymás közötti megállapodás alapján közösen is megoldhatják.
 
 [^4]: A 4. § a 16/2000. (II. 11.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (2) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be. A 4. § (2) bekezdése az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (2) bekezdését újonnan a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 311/2016. (X. 14.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § (2a) bekezdését az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^7]: A 4. § (3) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 5/2016. (I. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A 4. § (4) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
