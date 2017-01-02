@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-370-20-
 | 2015-10-02 | 2014-370-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-10-03 | 2014-370-20-22.6 | 2010: CXXX. törvény |
 | 2017-01-01 | 2014-370-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-01-02 | 2014-370-20-22.8 | 561/2023. (XII. 14.) Korm. rendelet |
