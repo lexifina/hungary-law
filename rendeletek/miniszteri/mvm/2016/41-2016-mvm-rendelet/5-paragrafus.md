@@ -1,1 +1,0 @@
-## „(3) Az (1) bekezdéstől eltérően a felelős akkreditált közbeszerzési szaktanácsadókra vonatkozó felelősségbiztosítás a nem független felelős akkreditált közbeszerzési szaktanácsadókénti névjegyzékbe vételnek nem feltétele.”
