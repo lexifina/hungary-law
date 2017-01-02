@@ -1,6 +1,6 @@
-## szöveg lép.
+## 9–10. §[^4]
 
-1. melléklet a 315/2016. (X. 20.) Korm. rendelethez[^3]
+1. melléklet a 315/2016. (X. 20.) Korm. rendelethez[^5]
 
 Az egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, szakirányú szakképesítések
 
@@ -852,4 +852,5 @@ a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépi
 
 b) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
 
-[^3]: Az 1. melléklet a 440/2016. (XII. 16.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^4]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 440/2016. (XII. 16.) Korm. rendelet 38. §-a szerint módosított szöveg.

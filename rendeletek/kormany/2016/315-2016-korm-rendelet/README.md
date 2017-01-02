@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-315-20-
 | 2016-10-21 | 2016-315-20-22.1 | 315/2016. (X. 20.) Korm. rendelet |
 | 2016-10-22 | 2016-315-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-315-20-22.3 | 440/2016. (XII. 16.) Korm. rendelet |
+| 2017-01-02 | 2016-315-20-22.4 | 2010: CXXX. törvény |
