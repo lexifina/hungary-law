@@ -1,3 +1,0 @@
-## 30. § Az R5. 16. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A korai fejlesztés és gondozás, továbbá a sajátos nevelési igényű gyermekek, tanulók részére az óvodai nevelés, az iskolai nevelés és oktatás, továbbá a fejlesztő nevelés és a fejlesztő nevelés-oktatás igénybevételével összefüggő utazási költség megtérítéséhez szükséges igazolást az Intézmény szakértői bizottságként eljáró székhelyintézménye vagy tagintézménye központilag kiadott nyomtatványon állítja ki. Az igénybevételt az ellátást nyújtó köznevelési intézmény vezetője vagy írásbeli meghatalmazással rendelkező megbízottja igazolja.”

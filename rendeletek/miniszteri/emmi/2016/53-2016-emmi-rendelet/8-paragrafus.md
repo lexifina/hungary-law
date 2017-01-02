@@ -1,3 +1,5 @@
-## 7. §[^1]
+## 7. § Az R1. a következő 50/A. alcímmel egészül ki:
 
-[^1]: A 7. § az 58. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+## „50/A. Az utazó gyógypedagógusi, utazó konduktori hálózatok és az együttnevelést segítő pedagógusok
+
+## 138/A. § Az utazó gyógypedagógusi, utazó konduktori hálózat az egységes szakmai eljárás érdekében munkaközösséget működtet, amelynek tagjai az utazó gyógypedagógusi, utazó konduktori hálózat működési körzetében foglalkoztatott együttnevelést segítő pedagógusok.”

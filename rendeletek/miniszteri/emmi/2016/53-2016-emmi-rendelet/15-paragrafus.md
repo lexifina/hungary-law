@@ -1,3 +1,0 @@
-## 14. § A pedagógiai-szakmai szolgáltatásokról, a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló 48/2012. (XII. 12.) EMMI rendelet (a továbbiakban: R2.) 20. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Pedagógiai szakértő és pedagógiai előadó munkakörben az foglalkoztatható, aki pedagógiai szakértő munkakör esetén mesterfokozatú tanári, gyógypedagógusi, konduktori, pedagógiai előadó munkakör esetén óvodapedagógusi, tanítói, tanári, gyógypedagógusi, konduktori végzettséggel és szakképzettséggel, továbbá – mindkét munkakörben – pedagógus-szakvizsgával rendelkezik.”

@@ -1,3 +1,3 @@
-## 26. §[^4]
+## 26. §[^12]
 
-[^4]: A 26. § az 58. § (3) bekezdése alapján 2017. március 1-jén lép hatályba.
+[^12]: A 26. § az 58. § (3) bekezdése alapján 2017. március 1-jén lép hatályba.
