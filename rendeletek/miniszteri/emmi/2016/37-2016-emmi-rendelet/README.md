@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-37-20-5
 | 2016-12-30 | 2016-37-20-5H.1 | 37/2016. (XII. 15.) EMMI rendelet |
 | 2016-12-31 | 2016-37-20-5H.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-37-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-01-02 | 2016-37-20-5H.4 | 2010: CXXX. törvény |
