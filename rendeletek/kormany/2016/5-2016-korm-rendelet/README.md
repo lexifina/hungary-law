@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-5-20-22
 | 2016-01-23 | 2016-5-20-22.1 | 5/2016. (I. 22.) Korm. rendelet |
 | 2016-01-24 | 2016-5-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-5-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-01-02 | 2016-5-20-22.4 | 2010: CXXX. törvény |
