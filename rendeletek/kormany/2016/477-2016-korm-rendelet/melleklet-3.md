@@ -1,7 +1,0 @@
-## 1. A 273/2007. (X. 19.) Korm. rendelet 21. számú melléklet „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” alcíme helyébe a következő alcím lép:
-
-## „A benyújtandó üzletszabályzat formátumára vonatkozó előírások
-
-## Az üzletszabályzatot elektronikus úton, szerkeszthető formában kell jóváhagyásra benyújtani. Az üzletszabályzat módosításának kérelmezése esetében szükséges korrektúrás változat benyújtása is, melyből egyértelműen megállapíthatók (például színeltéréssel) a módosítások. Az üzletszabályzatokat a kötelező tartalmi követelményeknek megfelelő tartalomjegyzékkel kell elkészíteni, az oldalakat folyamatos számozással kell ellátni. A mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik engedélyes szabályzatáról van szó. A benyújtott üzletszabályzathoz mellékelni szükséges a jóváhagyásra vonatkozó kérelmet és az igazgatási szolgáltatási díj átutalását igazoló dokumentumot. Ha az üzletszabályzat mérete a megjelölt méretkorlátot meghaladja, elektronikus a kapcsolattartás akkor is, ha az engedélyes a nyilatkozatát tartós adathordozón nyújtja be. Az eljárás során véglegezett, jóváhagyásra kerülő üzletszabályzatot két, cégszerű aláírással ellátott példányban papír alapon is be kell nyújtani a Hivatal számára.”
-
-3. melléklet a 477/2016. (XII. 27.) Korm. rendelethez
