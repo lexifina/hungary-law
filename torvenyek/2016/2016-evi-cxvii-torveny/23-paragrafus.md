@@ -1,3 +1,0 @@
-23. § A Hszt. 341. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Felhatalmazást kap a miniszter az általa irányított rendvédelmi szerv tekintetében – az Országgyűlési Őrség vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető szolgálati beosztások és nem hivatásos munkakörök meghatározásának rendjét rendeletben állapítsa meg.”
