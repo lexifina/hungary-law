@@ -51,3 +51,11 @@ c)
 (20) A Zsigmond Király Főiskola 2016. augusztus 1. napjától Zsigmond Király Egyetem megnevezéssel működik.
 
 (21) A (17)–(19) bekezdés alapján létesített felsőoktatási intézmény tekintetében a konzisztórium alakuló üléséig a 13/A–13/D. §-t olyan módon kell alkalmazni, hogy a konzisztórium egyetértési jogosultságait a kancellári hatáskörben eljárni jogosult személy gyakorolja.
+
+(22) 2017. február 1-jétől
+
+a) a Nyugat-magyarországi Egyetem Soproni Egyetem,
+
+b) a Magyar Táncművészeti Főiskola Magyar Táncművészeti Egyetem
+
+megnevezéssel működik.
