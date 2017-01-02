@@ -1,3 +1,0 @@
-## 9. § A sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló 215/2004. (VII. 13.) Korm. rendelet (a továbbiakban: R4.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A sportpolitikáért felelős miniszter minden év február 28-áig a tárgyévre vonatkozó támogatási szerződést köt az OSEI-vel – a sportpolitikáért felelős miniszter, a Magyar Olimpiai Bizottság, a Magyar Paralimpiai Bizottság, valamint a Nemzeti Versenysport Szövetség által meghatározott – kiemelkedő sportteljesítményt nyújtó versenyzők speciális (2) bekezdés szerinti sportegészségügyi ellátása érdekében.”
