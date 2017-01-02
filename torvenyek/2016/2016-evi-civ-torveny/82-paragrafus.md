@@ -1,3 +1,3 @@
 ## 82. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-82. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 5. § (1a) és (3) bekezdésében, 33/A. § (2) és (4) bekezdésében, 74. § (2) bekezdésében a „központi anyakönyvi szerv” szövegrész helyébe a „Kormány által rendeletben kijelölt anyakönyvi szerv” szöveg lép.
+82. §
