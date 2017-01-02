@@ -2,6 +2,6 @@
 
 a)
 
-b) az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló 2013. évi CCXX. törvény.
+b)
 
 (2)–(3)
