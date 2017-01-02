@@ -1,3 +1,3 @@
-83. §[^82]
+83. §[^83]
 
-[^82]: A 82–83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 82–83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

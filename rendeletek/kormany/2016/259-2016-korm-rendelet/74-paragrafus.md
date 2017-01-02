@@ -1,5 +1,5 @@
 ## 62. A „Tisza hullámtér projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 79/2009. (IV. 8.) Korm. rendelet módosítása
 
-74. §[^73]
+74. §[^74]
 
-[^73]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
