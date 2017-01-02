@@ -1,5 +1,5 @@
-## 115. §[^201] A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet 5. § (2) bekezdésében a „Földmérési és Távérzékelési Intézet” szövegrész helyébe a „földügyi szakigazgatás hivatalos” szöveg lép.
+## 115. §[^193]
 
 ## 116. A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet módosítása
 
-[^201]: A 115. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^193]: A 115. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

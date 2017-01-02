@@ -1,5 +1,5 @@
-## 132. §[^229] Hatályát veszti a közhasznú vagy gazdasági társasági formában működő, valamint az egyházak, alapítványok által fenntartott aktív fekvőbeteg szakellátást biztosító egészségügyi szolgáltatók létszámcsökkentésének 2009. évi költségvetési támogatásáról szóló 90/2009. (IV. 16.) Korm. rendelet.
+## 132. §[^218]
 
 ## 133. Az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló 102/2009. (V. 11.) Korm. rendelet módosítása
 
-[^229]: A 132. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^218]: A 132. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
