@@ -2,4 +2,6 @@
 
 5. § (1) Ez a rendelet 2017. január 1-jén lép hatályba.
 
-(2) Hatályát veszti a Magyar Kereskedelmi Engedélyezési Hivatal által lefolytatott egyes eljárások igazgatási szolgáltatási díjáról szóló 25/2016. (VIII. 22.) NGM rendelet.
+(2)[^1]
+
+[^1]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
