@@ -1,6 +1,6 @@
 ## 1. A rendelet hatálya
 
-## 1. § A rendelet hatálya kiterjed
+## 1. §[^1] A rendelet hatálya kiterjed
 
 a) fenntartóra való tekintet nélkül
 
@@ -12,21 +12,23 @@ ac) a szakgimnáziumokra,
 
 ad) a szakközépiskolákra [a továbbiakban az ab)–ad) pont alattiak együtt: középiskola],
 
-ae) a szakiskolákra és készségfejlesztő speciális szakiskolákra [a továbbiakban az ac)–ae) pont alattiak együtt: szakképző iskola; a továbbiakban az ab)–ae) pont alattiak együtt: középfokú iskola],
+ae) a szakiskolákra [a továbbiakban az ac)–ae) pont alattiak együtt: szakképző iskola],
 
-af) az alapfokú művészeti iskolákra [a továbbiakban az aa)–af) pont alattiak együtt: iskola],
+af) a készségfejlesztő iskolákra [a továbbiakban az ab)–af) pont alattiak együtt: középfokú iskola],
 
-ag) a gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények iskol/áira és kollégiumaira,
+ag) az alapfokú művészeti iskolákra [a továbbiakban az aa)–ag) pont alattiak együtt: iskola],
 
-ah) a kollégiumokra,
+ah) a gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények iskoláira és kollégiumaira, továbbá a fejlesztő nevelés-oktatást végző iskolaként működő gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményekre,
 
-ai) a többcélú intézmények iskoláira és kollégiumaira [a továbbiakban az a) pont alattiak együtt: nevelési-oktatási intézmény],
+ai) a kollégiumokra,
+
+aj) a többcélú intézmények iskoláira és kollégiumaira [a továbbiakban az a) pont alattiak együtt: nevelési-oktatási intézmény],
 
 b) az Oktatási Hivatalra (a továbbiakban: Hivatal),
 
 c) a fővárosi és megyei kormányhivatalokra, a járási (fővárosi kerületi) hivatalokra,
 
-d)[^1] az oktatási központra és a tankerületi központokra,
+d) az oktatási központra és a tankerületi központokra,
 
 e) a Nemzeti Szakképzési és Felnőttképzési Hivatalra,
 
@@ -38,4 +40,4 @@ h) a nevelő és oktató munkát végző más szakemberekre és a nem pedagógus
 
 i) a tanulók és a jelentkezők törvényes képviselőire.
 
-[^1]: Az 1. § d) pontja a 46/2016. (XII. 28.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § az 53/2016. (XII. 29.) EMMI rendelet 51. §-ával megállapított szöveg.
