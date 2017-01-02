@@ -20,7 +20,7 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (7)[^14] A Kormány az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 6. §-ában meghatározott előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatok ellátására a Pest Megyei Kormányhivatalt jelöli ki.
 
-(8)[^15] A Kormány az anyakönyvi eljárásról szóló 2010. évi I. törvény 94. § a) pontja alapján anyakönyvi szervként a fővárosi és megyei kormányhivatalt, a 12/A. § (2) bekezdés a) pont ab) alpontjában, 14. § (2) bekezdésében, 46. § (4) bekezdésében, 70. § (3) és (5) bekezdésében a hazai anyakönyvezési tevékenység tekintetében, a 89. § (4) bekezdésében meghatározott eljárásban, továbbá névváltoztatási eljárásban anyakönyvi szervként Budapest Főváros Kormányhivatalát jelöli ki.
+(8)[^15]
 
 (9)[^16] A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti integrált ügyintézési és tájékoztatási pont személyes ügyfélszolgálati, tájékoztatási tevékenységével összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
 
@@ -80,7 +80,7 @@ b) 7. § (5) bekezdés a), d), f) és j) pontjaiban foglalt feladatok ellátás�
 [^12]: A 25. § (5a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (2) bekezdése iktatta be.
 [^13]: A 25. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
 [^14]: A 25. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
-[^15]: A 25. § (8) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
+[^15]: A 25. § (8) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be, hatályon kívül helyezte a 415/2016. (XII. 14.) Korm. rendelet 7. § b) pontja.
 [^16]: A 25. § (9) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
 [^17]: A 25. § (10) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
 [^18]: A 25. § (11) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
