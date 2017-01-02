@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti az R. 1. § (1) bekezdés 3a. pontja, 7/B. §-a és 8. § (1a) bekezdése.
+## 8. §[^2]
 
 1. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
@@ -71,3 +71,5 @@
 2.7. 1 MW együttes kimenő névleges hőteljesítmény felett távfelügyeleti rendszerbe kapcsolás kötelező, melynek műszaki bemutatása, igazolása szükséges.
 
 2.8. 500 kW feletti kimenő névleges hőteljesítmény felett a kazán automatikus kihamuzó rendszerrel rendelkezik.
+
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

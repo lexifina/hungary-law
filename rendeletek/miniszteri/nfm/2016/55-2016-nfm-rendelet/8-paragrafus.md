@@ -1,3 +1,3 @@
-## 7. § A megújuló forrásokból előállított energia részarányának kiszámítási módszertanáról szóló 1/2012. (I. 20.) NFM rendelet (a továbbiakban: R.) 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^1]
 
-## „(2) Ez a rendelet a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és a tanácsi irányelv 2. cikk a), b), d), f) és l) pontjának, 5–11. cikkének, 14. cikk (1)–(2) és (5)–(6) bekezdésének, 22. cikkének, I., II. és VII. mellékletének való megfelelést szolgálja.”
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
