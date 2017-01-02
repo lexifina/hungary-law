@@ -32,7 +32,7 @@
 
 | 15. | azok a 2–14. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, működésének megkezdéséhez és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
 
-2. melléklet a 395/2014. (XII. 31.) Korm. rendelethez[^14]
+2. melléklet a 395/2014. (XII. 31.) Korm. rendelethez[^15]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -72,4 +72,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | II. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-[^14]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 94. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^15]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 94. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
