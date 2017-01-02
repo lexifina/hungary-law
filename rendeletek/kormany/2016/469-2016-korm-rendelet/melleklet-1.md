@@ -1,6 +1,4 @@
-## 7. § A Rendelet VI. fejezete a következő 23/A. §-sal egészül ki:
-
-## „23/A. § Az Ábk. hatálya alá tartozó beruházások egységes és folyamatos nyomon követése érdekében a miniszter az MNV Zrt. útján, szükség esetén a BMSK Beruházási, Műszaki Ellenőrzési, Sportfejlesztési és Közbeszerzési Zártkörűen Működő Részvénytársaság bevonásával ellenőrzi az állami vagyonon végzett, az Ábk. hatálya alá tartozó beruházások tekintetében az állami vagyon értéke növelésének megvalósulását, illetve a beruházási célú központi költségvetési támogatások nyújtása esetén azok vagyongazdálkodási szempontú felhasználását és hasznosulását. Az ellenőrzésre jogosult személy köteles értesíteni a megbízatásról az érintett ingatlan tulajdonosát, tulajdonosi joggyakorlóját, vagyonkezelőjét, haszonélvezőjét vagy egyéb jogcímen használóját. Az ellenőrzést végző személy jogaira a 21. §-ban, az ellenőrzöttek jogai tekintetében a 22. §-ban foglaltak alkalmazandók.”
+## 6–7. §[^1]
 
 1. melléklet a 469/2016. (XII. 23.) Korm. rendelethez
 
@@ -115,3 +113,5 @@ A KÁBER-be bejelentendő adatok köre:
 6.3. Fővállalkozó kivitelező (alvállalkozó kivitelező) adatai
 
 7. Az adatszolgáltatók adatai (név, székhely, telefon, e-mail, irányító/felügyeleti szerv vezetőinek, kapcsolattartóinak neve, beosztása, telefonszáma és e-mail címe)
+
+[^1]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
