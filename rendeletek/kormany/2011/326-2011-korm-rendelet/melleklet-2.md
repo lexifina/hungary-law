@@ -30,6 +30,6 @@
 
 | „V” kategória | – kerti traktor – állati erővel vont jármű hajtására |
 
-2. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^283]
+2. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^311]
 
-[^283]: A 2. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^311]: A 2. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

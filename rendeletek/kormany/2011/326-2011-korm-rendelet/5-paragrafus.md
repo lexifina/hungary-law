@@ -1,10 +1,10 @@
-## 4. §[^20] A vezetői engedély különböző kategóriákba és kombinált kategóriákba sorolt járművek vezetésére jogosít, amelyeket az 1. és a 2. melléklet tartalmaz.
+## 4. §[^22] A vezetői engedély különböző kategóriákba és kombinált kategóriákba sorolt járművek vezetésére jogosít, amelyeket az 1. és a 2. melléklet tartalmaz.
 
-5. § (1)[^21] A nemzetközi kategóriára, valamint a „TR” és „V” nemzeti kategóriára megszerzett vizsga a vezetői engedélybe bejegyzett kategória érvényességi idejének lejárta után is – ha a közúti járművezetők egészségi alkalmasságáról szóló miniszteri rendelet egészségi alkalmasságot nem ír elő – jogosít a 4. mellékletben meghatározott járművek vezetésére.
+5. § (1)[^23] A nemzetközi kategóriára, valamint a „TR” és „V” nemzeti kategóriára megszerzett vizsga a vezetői engedélybe bejegyzett kategória érvényességi idejének lejárta után is – ha a közúti járművezetők egészségi alkalmasságáról szóló miniszteri rendelet egészségi alkalmasságot nem ír elő – jogosít a 4. mellékletben meghatározott járművek vezetésére.
 
-(2)[^22] A közlekedési igazgatási hatóság az ügyfél kérelmére nemzeti kategóriára érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
+(2)[^24] A közlekedési igazgatási hatóság az ügyfél kérelmére nemzeti kategóriára érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
 
-(3)[^23] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
+(3)[^25] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
 
 a) a „B” kategória esetében 18. életév,
 
@@ -12,13 +12,13 @@ b) a 2013. január 18-át követően kiadott vezetői engedély esetében
 
 ba) az „AM” kategóriánál 16. életév,
 
-bb) a „C” kategóriánál – a járművezető által végezhető tevékenységre vonatkozó korlátozás megtartásával – 21. életév,
+bb)[^26] a „C” kategóriánál 21. életév,
 
-bc) a „D” kategóriánál – a járművezető által végezhető tevékenységre vonatkozó korlátozás megtartásával – 24. életév.
+bc)[^27] a „D” kategóriánál 24. életév.
 
 A nemzeti kategóriára érvényesített vezetői engedély csak belföldön történő járművezetésre jogosít.
 
-(4)[^24] A vezetői engedély a személyazonosság igazolására a kiállításától számított tíz évig, a 65. életévüket betöltöttek esetében határidő nélkül alkalmas.
+(4)[^28] A vezetői engedély a személyazonosság igazolására a kiállításától számított tíz évig, a 65. életévüket betöltöttek esetében határidő nélkül alkalmas.
 
 (5) A vezetői engedély vezetési jogosultság igazolására a következő határidőig alkalmas:
 
@@ -28,8 +28,10 @@ b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével 
 
 (6) A vezetői engedély érvényességi idejének meghosszabbítása az okmány cseréjével történik.
 
-[^20]: A 4. § a 90/2015. (IV. 9.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^21]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^22]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^23]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^24]: Az 5. § (4) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^22]: A 4. § a 90/2015. (IV. 9.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^23]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^24]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^25]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^26]: Az 5. § (3) bekezdés b) pont bb) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^27]: Az 5. § (3) bekezdés b) pont bc) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^28]: Az 5. § (4) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

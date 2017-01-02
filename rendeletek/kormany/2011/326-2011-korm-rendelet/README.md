@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2016-10-28 | 2011-326-20-22.35 | 319/2016. (X. 25.) Korm. rendelet |
 | 2016-12-31 | 2011-326-20-22.36 | 440/2016. (XII. 16.) Korm. rendelet |
 | 2017-01-01 | 2011-326-20-22.37 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-01-02 | 2011-326-20-22.38 | 468/2016. (XII. 23.) Korm. rendelet |

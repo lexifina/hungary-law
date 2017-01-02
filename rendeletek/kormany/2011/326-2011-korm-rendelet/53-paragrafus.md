@@ -1,6 +1,6 @@
 ## 12. A rendszámtábla és a regisztrációs matrica
 
-53. § (1)[^137] A rendszámtábla olyan hatósági jelzés, amely a Nyilvántartó tulajdonát képezi. A rendszámtábla gyártótól történő megrendelése és a közlekedési igazgatási hatóság azzal történő ellátása a Nyilvántartó, igazgatási szolgáltatási díj ellenében az ügyfélnek történő kiadása a közlekedési igazgatási hatóság feladatkörébe tartozik.
+53. § (1)[^150] A rendszámtábla olyan hatósági jelzés, amely a Nyilvántartó tulajdonát képezi. A rendszámtábla gyártótól történő megrendelése és a közlekedési igazgatási hatóság azzal történő ellátása a Nyilvántartó, igazgatási szolgáltatási díj ellenében az ügyfélnek történő kiadása a közlekedési igazgatási hatóság feladatkörébe tartozik.
 
 (2) A rendszámtábla állandó és ideiglenes lehet. Az állandó rendszámtábla a betűjelből és számjegyből álló kombinációkon kívül a nemzeti színeket és H jelzést (a továbbiakban: régi típusú rendszámtábla), vagy a 11. melléklet szerint az európai zászlót jelképező kék mezőben 12 sárga csillagot és fehér H jelzést (a továbbiakban: új típusú rendszámtábla), az ideiglenes rendszámtábla a betűjelből és számjegyből álló kombinációkon kívül a nemzeti színeket és H jelzést tartalmazza.
 
@@ -20,4 +20,4 @@ d) különleges
 
 (5) A sorozatban előállított rendszámtábla három betűjelet és három számjegyet tartalmaz.
 
-[^137]: Az 53. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^150]: Az 53. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés c) pontja szerint módosított szöveg.

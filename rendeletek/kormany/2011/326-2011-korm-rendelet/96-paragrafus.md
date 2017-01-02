@@ -6,9 +6,9 @@
 
 a) járművet engedély nélkül átalakították,
 
-b)[^212] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
+b)[^235] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
 
-ba)[^213]
+ba)[^236]
 
 bb) forgalmi engedélyének „H” adatmezőben szereplő érvényességi ideje vagy az ideiglenes forgalomban tartási engedélyének az érvényességi ideje lejárt vagy
 
@@ -38,8 +38,8 @@ g) az új típusú rendszámmal rendelkező járművön nincs regisztrációs ma
 
 (8) A (6) bekezdés alapján megküldött ideiglenes forgalomban tartási engedélyt és a hatósági jelzést a közlekedési igazgatási hatóság visszavonja.
 
-(9)[^214] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban, illetve a 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót, illetve az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
+(9)[^237] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és a P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – az M, az SP és a P betűjelű ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban és 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
 
-[^212]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
-[^213]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^214]: A 96. § (9) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (11) bekezdésével megállapított, az 5/2013. (I. 16.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^235]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
+[^236]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^237]: A 96. § (9) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
