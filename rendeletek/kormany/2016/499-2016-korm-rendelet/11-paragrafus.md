@@ -1,3 +1,0 @@
-## 10. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 62/D. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) A Kincstár a havi és az egyidejűleg megküldött önrevízióra vonatkozó adóbevallásokból az illetményszámfejtő programmal előállított adatszolgáltatások alapján a személyi juttatásokat terhelő és az azokkal összefüggésben felmerült közterhek befizetését az államháztartás központi alrendszerébe tartozó foglalkoztató fizetési számlájának megterhelésével, a helyi önkormányzat a nettó finanszírozás keretében teljesíti. A társulás és az általa irányított költségvetési szerv közterheit a Kincstár a társulás székhelye szerinti önkormányzat nettó finanszírozása keretében teljesíti.”
