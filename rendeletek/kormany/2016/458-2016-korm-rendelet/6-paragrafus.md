@@ -1,3 +1,3 @@
-## 5. § A Vet. Vhr. Ügyfélszolgálat alcíme a következő 23/C. §-sal egészül ki:
+## 4–5. §[^4]
 
-## „23/C. § A VET. 47. §-a alapján ügyfélszolgálat működtetésére nem kötelezett engedélyesre az ügyfélszolgálaton történő tájékoztatási kötelezettségekkel összefüggő rendelkezések nem alkalmazandók.”
+[^4]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
