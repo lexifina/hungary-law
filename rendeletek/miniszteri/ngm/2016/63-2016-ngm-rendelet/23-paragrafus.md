@@ -1,3 +1,0 @@
-## 22. § Az R4. 20. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha a pénzügyőr a fizikai alkalmassági követelményt a felmérés során nem teljesíti, az ismételt állapotfelmérésre hat hónapon belül egy alkalommal kerülhet sor, amelyre az előző felmérést követően legkorábban 30 naptári nap elteltével kerülhet sor. Ha a pénzügyőr az ismételt fizikai alkalmassági vizsgálat során sem teljesíti a fizikai felmérés követelményeit, vagy arra a 17. § (4) bekezdésben meghatározott „Egészségileg alkalmas” minősítés megszerzését követő hat hónapon belül nem került sor, „Fizikailag alkalmatlan” minősítést kap.”

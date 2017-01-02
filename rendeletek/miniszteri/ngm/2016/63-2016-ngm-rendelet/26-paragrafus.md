@@ -1,3 +1,0 @@
-## 25. § Hatályát veszti az üzemeltető részére nyújtott, az általános forgalmi adóról szóló törvény szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági áráról és a hatósági árszabályozás részletes szabályairól és egyéb adózási tárgyú NGM rendelet módosításáról szóló 74/2013. (XII. 30.) NGM rendelet 2. § (2) bekezdés a) és b) pontjában a „legfeljebb” szövegrész.
-
-## 9. A Nemzeti Adó- és Vámhivatal hivatásos szolgálati jogviszonyhoz, illetve rendészeti szakvizsgához kötött munkaköreiről, továbbá az alapfokú és középfokú szaktanfolyammal kapcsolatos egyes kérdésekről szóló 40/2014. (XII. 29.) NGM rendelet módosítása

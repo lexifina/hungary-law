@@ -1,5 +1,0 @@
-## 12. § Az Európai Unió területére belépő, vagy azt elhagyó készpénz ellenőrzésének végrehajtásáról, annak részletes szabályairól, valamint a kiszabott bírság bevételezésének rendjéről szóló 35/2013. (IX. 3.) NGM rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A vámhatóság az ideiglenes biztosítási intézkedésként, valamint a Törvény 4. § (3) bekezdése szerint visszatartott készpénzt (a továbbiakban: készpénz) az intézkedés foganatosítását követő 5 munkanapon belül köteles a Kincstár illetékes területi szerve részére beszállítani, és egyidejűleg írásban kezdeményezi a Kincstár által jegyzett és forgalmazott külföldi fizetőeszközök Kincstár deviza letéti számláján történő letétbe helyezését, valamint a Kincstár által nem jegyzett és nem forgalmazott külföldi fizetőeszközök Kincstár általi őrzését és kezelését.”
-
-## 6. A taxaméterek műszaki követelményeiről, a nyugtakibocsátásra szolgáló taxaméterek forgalmazásáról, használatáról és szervizeléséről szóló 49/2013. (XI. 15.) NGM rendelet módosítása
