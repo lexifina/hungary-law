@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-39-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-01-01 | 2016-39-20-6N.1 | 39/2016. (XII. 29.) MvM rendelet |
+| 2017-01-02 | 2016-39-20-6N.2 | 2010: CXXX. törvény |
