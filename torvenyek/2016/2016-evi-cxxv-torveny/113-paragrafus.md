@@ -1,3 +1,0 @@
-113. § A Htv. 41. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A közös őstermelői igazolvánnyal rendelkező adóalanyok az adóévi iparűzési adókötelezettségüket úgy is teljesíthetik, hogy az adószámmal rendelkező adóalany a közös őstermelői tevékenységvégzésből származó teljes iparűzési adóalap alapulvételével állapítja meg, vallja be és fizeti meg az adót. Az adómegállapítás ezen módjának választásáról a közös őstermelői igazolványban feltüntetett valamennyi adóalany az adószámmal rendelkező adóalany adóévi adóbevallásában nyilatkozik. A családi gazdálkodó a családi gazdaság tekintetében az adóévi iparűzési adókötelezettséget a közös őstermelői igazolvánnyal rendelkező adóalanyokra irányadó szabályozás szerint is teljesítheti.”

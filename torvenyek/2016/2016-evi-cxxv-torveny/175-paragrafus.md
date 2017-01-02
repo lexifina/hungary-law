@@ -1,3 +1,0 @@
-175. § Az Art. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a munkáltató vállalja a munkáltatói adómegállapítást, és a magánszemély megfelel a személyi jövedelemadóról szóló törvényben meghatározott feltételeknek, a magánszemély az adóévet követő év január 31. napjáig a munkáltatójához megtett, a jogkövetkezmények szempontjából adóbevallással egyenértékű nyilatkozata alapján a munkáltató állapítja meg a magánszemély adóját. Amennyiben a munkáltató nem vállalja a magánszemélyek adójának megállapítását, a kiadott összesített igazoláson köteles tájékoztatni a magánszemélyt arról, hogy részére az állami adó- és vámhatóság adóbevallási tervezetet készít.”
