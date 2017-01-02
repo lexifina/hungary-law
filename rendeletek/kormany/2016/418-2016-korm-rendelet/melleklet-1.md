@@ -1,4 +1,4 @@
-## 24. § Hatályát veszti a nemzetbiztonsági ellenőrzéssel összefüggő lényeges adatokról, valamint a lényeges adatok bejelentésének rendjéről szóló 97/2015. (IV. 10.) Korm. rendelet.
+## 24. §[^1]
 
 1. melléklet a 418/2016. (XII. 14.) Korm. rendelethez
 
@@ -45,3 +45,5 @@
 20. Ön, illetve házas- vagy élettársa vonatkozásában külföldi állampolgárokkal létesített új magánkapcsolat (XII/1–7.)
 
 21. Ön, illetve házas- vagy élettársa vonatkozásában külföldi hírszerző szolgálat vagy annak fedőszerve munkatársával létesített új kapcsolat (XII/8.)
+
+[^1]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

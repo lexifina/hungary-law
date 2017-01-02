@@ -1,0 +1,5 @@
+23. § (1) Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A (4) vagy (5) bekezdésben meghatározott személyek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 2. számú mellékletében szereplő biztonsági kérdőívet a nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló kormányrendeletben foglaltak szerint töltik ki azzal, hogy biztonsági megbízott alatt az NBF kijelölt munkatársát kell érteni. A nemzetbiztonsági ellenőrzést az NBF elnöke kezdeményezi.”
+
+(2) Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet 10/B. § (6) bekezdése helyébe a következő rendelkezés lép:
