@@ -1,3 +1,1 @@
-## „(4) Az (1) bekezdés a) pontja szerinti szolgáltatást nyújtó temetkezési szolgáltató az eltemettetésre kötelezett személy megbízása alapján az elhalálozással kapcsolatos, a Kormány rendeletében meghatározott ügyekben az egészségügyi intézmény, valamint az állami és önkormányzati szervek előtt az eltemettetésre kötelezett személy képviseletében eljár. E feladat ellátása céljából az eltemettetésre kötelezett által megadott, valamint a statisztikáról szóló törvényben meghatározott adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a haláleset jegyzőkönyvezéséhez és a halálesettel kapcsolatos népmozgalmi adatszolgáltatáshoz szükséges személyes adatok kezelésére a temetkezési szolgáltató jogosult.”
-
 ### 59. §

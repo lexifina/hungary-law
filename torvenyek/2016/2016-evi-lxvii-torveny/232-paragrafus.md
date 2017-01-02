@@ -1,1 +1,0 @@
-232. § A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 175. § (1) bekezdésében az „az MNBtv.” szövegrész helyébe az „a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.)” szöveg lép.
