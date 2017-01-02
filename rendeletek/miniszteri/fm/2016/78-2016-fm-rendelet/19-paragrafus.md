@@ -1,3 +1,0 @@
-## 18. § Az MFB Agrár Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 47/2015. (VIII. 12.) FM rendelet 1. § 5a. pont b) és c) alpontjában, 5b. pont bb) alpontjában, 2. § (2) bekezdés d) pont da) és db) alpontjában, 3. § (1a) bekezdés b) és c) pontjában, (3) bekezdés b) pont ba) és bb) alpontjában a „2016. november 30-áig” szövegrész helyébe a „2017. március 31-ig” szöveg lép.
-
-## 7. Az MFB TÉSZ Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 49/2015. (VIII. 12.) FM rendelet módosítása
