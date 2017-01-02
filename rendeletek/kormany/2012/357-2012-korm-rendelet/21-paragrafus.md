@@ -1,1 +1,0 @@
-## 20. § Ez a rendelet a belső piaci szolgáltatásokról szóló 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének és 17. cikk (6) bekezdésének, valamint kizárólag a továbbképzésére irányuló szolgáltatás tekintetében a 16. cikkének való megfelelést szolgálja.
