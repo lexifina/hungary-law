@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2016-10-21 | 2016. évi CIV. törvény | 1988-1-00-00.87 |
 | 2016-12-22 | 2016. évi CXLIV. törvény | 1988-1-00-00.88 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1988-1-00-00.89 |
+| 2017-01-02 | 2016. évi CXXVII. törvény | 1988-1-00-00.90 |
