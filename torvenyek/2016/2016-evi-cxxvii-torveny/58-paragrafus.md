@@ -1,1 +1,0 @@
-58. § Hatályát veszti az Evt. 90/M. § (2) bekezdésében az „ ,amelyet az eljáró hatóság vezetője annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat” szövegrész.

@@ -1,5 +1,3 @@
 ## 44. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
-74. § A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Szakmaközi törvény) 26. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a természetes személy tevékenykedhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. törvény) szerint bejelenti, és büntetlen előéletű. A szaktanácsadói tevékenység végzésére irányuló bejelentés – a Szolg. törvényben meghatározott adatokon túl – tartalmazza a bejelentő természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a bejelentő szaktanácsadói besorolását, szakterületét, illetve részszakterületét, valamint a bejelentő szakmai gyakorlatát bemutató összefoglalót.”
+74–75. §
