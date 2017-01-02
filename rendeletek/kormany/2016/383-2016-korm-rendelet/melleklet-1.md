@@ -1,3 +1,5 @@
+## 82. §[^8]
+
 1. melléklet a 383/2016. (XII. 2.) Korm. rendelethez
 
 ## A földügyi igazgatási feladatokat ellátó járási hivatalok illetékességi területe
@@ -673,3 +675,5 @@ Zalaegerszegi járás
 20.6. Zalaszentgróti Járási Hivatal (székhelye: Zalaszentgrót)
 
 Zalaszentgróti járás
+
+[^8]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
