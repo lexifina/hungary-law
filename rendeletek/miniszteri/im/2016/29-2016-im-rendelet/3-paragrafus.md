@@ -1,3 +1,0 @@
-## 2. § A költségmentesség alkalmazásáról a bírósági eljárásban című 6/1986. (VI. 26.) IM rendelet (a továbbiakban: R1.) 5. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A költségmentesség engedélyezését a felperes (kérelmező) a per megindítása előtt vagy azzal egyidejűleg, illetve az elsőfokú eljárást befejező határozat meghozataláig, az alperes (kérelmezett) legkésőbb a fellebbezés (ellentmondás) előterjesztésével egyidejűleg kérheti. A kérelemhez mellékelni kell a külön jogszabályban megjelölt igazolásokat. Ha a félnek nincs jogi képviselője, a bíróság – a Pp. 7. § (2) bekezdésének megfelelően – tájékoztatja a költségmentesség engedélyezésének feltételeiről.”
