@@ -4,7 +4,7 @@
 
 18. § (1) A hitelintézet – a szakosított hitelintézet és a hitelszövetkezet kivételével –, valamint a posta köteles felmérni és minősíteni fiókhálózatát a készpénzforgalmazásban betöltött szerepének kritikussága szerint, a fiókok napi készpénzkifizetési-forgalmának értéke és területi elhelyezkedése alapján.
 
-(2)[^32] A készpénzforgalmazás szempontjából kritikus hitelintézeti fióknak (a továbbiakban: kritikus hitelintézeti fiók) minősül:
+(2)[^33] A készpénzforgalmazás szempontjából kritikus hitelintézeti fióknak (a továbbiakban: kritikus hitelintézeti fiók) minősül:
 
 a) minden olyan hitelintézeti fiók, amely a felmérés időpontját megelőző naptári évben 30 millió forint feletti átlagos napi forint kifizetési forgalmat bonyolított le, de legalább
 
@@ -28,4 +28,4 @@ b) a megyeszékhelyen működő legalább egy
 
 (5) Az (1) bekezdés szerinti, az MNB által ki nem jelölt hitelintézet a készpénzforgalmazás szempontjából kritikus fiókjainak körét a (2) bekezdésben meghatározottak alapján háromévente, a felülvizsgálat évének június 30. napjáig köteles felülvizsgálni.
 
-[^32]: A 18. § (2) bekezdése a 34/2014. (IX. 25.) MNB rendelet 6. §-ával megállapított szöveg.
+[^33]: A 18. § (2) bekezdése a 34/2014. (IX. 25.) MNB rendelet 6. §-ával megállapított szöveg.

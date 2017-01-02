@@ -4,7 +4,7 @@
 
 (3) Ha a bevizsgálást az MNB saját létesítményében végzi, a bevizsgálás díjmentes. Ha a bevizsgálást az MNB a bevizsgálás igénylője által megjelölt más helyszínen végzi, a bevizsgálás igénylője viseli az MNB bevizsgálással összefüggő költségeit, így különösen az utazási és szállásköltséget, továbbá gondoskodik a tesztcsomag szállításáról, és viseli az azzal összefüggő költségeket, így különösen a szállítási költséget és az MNB által jóváhagyott biztosítás, bankgarancia díját.
 
-(4)[^28] A bevizsgálás eredménye kizárólag az MNB által bevizsgált bankjegyvizsgáló géptípusra és annak a bevizsgáláskor alkalmazott hardver- és szoftver-verziójára, a valódiságvizsgálatot befolyásoló paramétereinek értékeire, forgalomképességet is vizsgáló gép esetén a forgalomképességi válogatási paramétereket befolyásoló értékeire vonatkozóan, valamint a bevizsgálás során használt tesztcsomag tekintetében érvényes.
+(4)[^29] A bevizsgálás eredménye kizárólag az MNB által bevizsgált bankjegyvizsgáló géptípusra és annak a bevizsgáláskor alkalmazott hardver- és szoftver-verziójára, a valódiságvizsgálatot befolyásoló paramétereinek értékeire, forgalomképességet is vizsgáló gép esetén a forgalomképességi válogatási paramétereket befolyásoló értékeire vonatkozóan, valamint a bevizsgálás során használt tesztcsomag tekintetében érvényes.
 
 (5) A bevizsgálás eredménye nem érinti
 
@@ -12,4 +12,4 @@ a) az adott bankjegyvizsgáló géptípus gyártójának, illetve forgalmazójá
 
 b) a pénzfeldolgozónak, a pénzforgalmazónak és az egyéb gazdasági szereplőnek a forintbankjegy-visszaforgatásra vonatkozó szabályok betartásáért
 
-[^28]: A 10. § (4) bekezdése a 34/2014. (IX. 25.) MNB rendelet 5. §-ával megállapított szöveg.
+[^29]: A 10. § (4) bekezdése a 34/2014. (IX. 25.) MNB rendelet 5. §-ával megállapított szöveg.

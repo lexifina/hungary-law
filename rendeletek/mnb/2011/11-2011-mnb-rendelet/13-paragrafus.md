@@ -20,6 +20,6 @@ b) az adott bankjegyvizsgáló géptípus a 11. § (3)–(5) bekezdése szerinti
 
 c) a záradékkal ellátott bankjegyvizsgáló géptípus korlátozó záradék nélküli hardver- és szoftver verziójának – a sikeres bevizsgálást követő – MNB jegyzékbe való felvételétől számítva 60 nap telt el,
 
-d)[^29] az MNB az új MNB tv. 62. §-a szerinti ellenőrzési eljárása keretében típushibát állapít meg.
+d)[^30] az MNB az új MNB tv. 62. §-a szerinti ellenőrzési eljárása keretében típushibát állapít meg.
 
-[^29]: A 13. § (4) bekezdés d) pontja a 2/2014. (II. 14.) MNB rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^30]: A 13. § (4) bekezdés d) pontja a 2/2014. (II. 14.) MNB rendelet 5. § (3) bekezdése szerint módosított szöveg.

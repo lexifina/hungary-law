@@ -22,6 +22,6 @@ af) a bankjegy-visszaforgató gép esetében a forgalomképesség szerinti válo
 
 b) a bevizsgálandó bankjegyvizsgáló gép felhasználói kézikönyve,
 
-c)[^27] a bevizsgálandó bankjegyvizsgáló gép karbantartásának módját tartalmazó dokumentum.
+c)[^28] a bevizsgálandó bankjegyvizsgáló gép karbantartásának módját tartalmazó dokumentum.
 
-[^27]: A 9. § (3) bekezdés c) pontját a 34/2014. (IX. 25.) MNB rendelet 4. §-a iktatta be.
+[^28]: A 9. § (3) bekezdés c) pontját a 34/2014. (IX. 25.) MNB rendelet 4. §-a iktatta be.
