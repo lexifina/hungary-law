@@ -1,19 +1,24 @@
+## 1. §[^2]
+
 ## 2. A mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet módosítása
 
-2. § (1) A mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet (a továbbiakban: R2.) 3. alcíme a következő 9/A. §-sal egészül ki:
-
-## „9/A. § A kormányablakokról szóló kormányrendeletben meghatározott ügykörök esetén a kérelem előterjeszthető a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalaiban működtetett integrált ügyfélszolgálatnál (a továbbiakban: kormányablak) is.”
-
-(2) Az R2. a 4. melléklet szerinti 6. melléklettel egészül ki.
+2. § (1)–(2)[^3]
 
 (3) Az R2.
 
-a)–c)[^1]
+a) 12. § (4) bekezdésében a „járási hivatala” szövegrész helyébe a „járási hivatala és a NÉBIH (a továbbiakban együtt: ellenőrző hatóság)” szöveg,
 
-d) 3. melléklet 24. pontjában a „bortermelés” szövegrész helyébe a „bortermelés, vadon gyűjthető termékek gyűjtése” szöveg
+b) 13. § (1) bekezdés nyitó szövegrészében, 14. § (1) és (2) bekezdésében az „A megyei kormányhivatal járási hivatala” szövegrész helyébe az „Az ellenőrző hatóság” szöveg,
+
+c) 13. § (2) bekezdésében, 14. § (1) bekezdésében az „a megyei kormányhivatal járási hivatala” szövegrész helyébe az „az ellenőrző hatóság” szöveg,
+
+d)[^4]
 
 ## lép.
 
-(4) Hatályát veszti az R2. 4. melléklet 8. pont 8.1. alpontja.
+(4)[^5]
 
-[^1]: A 2. § (3) bekezdés a)–c) pontja a 3. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § (3) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
