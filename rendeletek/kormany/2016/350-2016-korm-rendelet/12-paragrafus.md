@@ -1,1 +1,0 @@
-## 11. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 30. § (4) bekezdés a) pontjában az „az Igazságügyi Szakértői és Kutatóintézetek” szövegrész helyébe az „a Nemzeti Szakértői és Kutató Központ” szöveg lép.

@@ -1,3 +1,3 @@
-## 15. §[^3]
+## 15. §[^6]
 
-[^3]: A 15. § a 379/2016. (XII. 2.) Korm. rendelet 328. § b) pontja alapján nem lép hatályba.
+[^6]: A 15. § a 379/2016. (XII. 2.) Korm. rendelet 328. § b) pontja alapján nem lép hatályba.
