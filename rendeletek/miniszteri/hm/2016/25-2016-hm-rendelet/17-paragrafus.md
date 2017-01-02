@@ -1,1 +1,0 @@
-## „16. tanulmányi támogatás: a vezénylésben vagy a tanulmányi szerződésben rögzített, a Honvédség által az állomány tagjának a tanulmányai folytatásához jogszabályban meghatározottak szerint nyújtott juttatás.”

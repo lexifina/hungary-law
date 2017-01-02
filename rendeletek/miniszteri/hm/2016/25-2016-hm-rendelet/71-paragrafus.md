@@ -1,1 +1,0 @@
-## „a) a 28. § (1) bekezdés b) pontja vagy (1a) bekezdése alapján felvett ellátmányelőleg teljes összegét, ha annak felhasználására a 28. §-ban meghatározott feltételektől eltérő módon került sor – ideértve azt is, ha a gépkocsi nem az állomáshely szerinti országban, vagy az állomáshely szerinti országgal szomszédos országban, vagy Magyarországon került beszerzésre –, és”

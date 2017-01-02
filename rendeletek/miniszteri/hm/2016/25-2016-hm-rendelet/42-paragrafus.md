@@ -1,1 +1,0 @@
-## „b) a bevonulási parancsot – a megyei, fővárosi, valamint a járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött önkéntes műveleti tartalékos katona, valamint az önkéntes területvédelmi tartalékos katona részére, ha a feladat végrehajtása megköveteli – telefonon vagy elektronikus úton a bevonulás időpontja előtt 3 nappal is közölheti.”
