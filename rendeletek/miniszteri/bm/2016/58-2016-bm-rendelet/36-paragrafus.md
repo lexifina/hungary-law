@@ -1,3 +1,0 @@
-## 35. § A központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló 7/2013. (II. 26.) NFM rendelet [a továbbiakban: 7/2013. (II. 26.) NFM rendelet] 1. melléklete az 1. melléklet szerint módosul.
-
-## 36. A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjainak, közalkalmazottainak és a hivatásos állományból nyugállományba helyezettek fogászati ellátással, valamint szemüvegkészítéssel kapcsolatos költségeinek megtérítéséről, illetve támogatásban részesítéséről szóló 11/2013. (IV. 23.) BM rendelet módosítása

@@ -1,3 +1,0 @@
-## 52. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvényben meghatározott technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre, továbbá a biztonsági osztályba és biztonsági szintbe sorolásra vonatkozó követelményekről szóló 41/2015. (VII. 15.) BM rendelet [a továbbiakban: 41/2015. (VII. 15.) BM rendelet] 4. melléklete a 4. melléklet szerint módosul.
-
-## 53. A Budapesten, 2017-ben megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges ideiglenes lelátók létesítésének és bontásának feltételeiről szóló 45/2015. (VII. 27.) BM rendelet módosítása
