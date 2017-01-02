@@ -1,3 +1,5 @@
-## 12. § A háztartási villamos sütők energiafelhasználásának ismérveiről való tájékoztatásról szóló 87/2003. (XII. 16.) GKM rendelet 10. §-ában a „Nemzeti Fogyasztóvédelmi Hatóság és a fogyasztóvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal” szövegrész helyébe a „fogyasztóvédelmi hatóság” szöveg lép.
+## 12. §[^13]
 
 ## 13. A háztartási légkondicionáló berendezések energiafelhasználásának ismérveiről való tájékoztatásról szóló 88/2003. (XII. 16.) GKM rendelet módosítása
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

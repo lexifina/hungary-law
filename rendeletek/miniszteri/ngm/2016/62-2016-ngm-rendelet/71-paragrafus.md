@@ -1,4 +1,4 @@
-## 70. § Hatályát veszti az országgyűlési képviselők választása kampányköltségeinek támogatásáról szóló 69/2013. (XII. 29.) NGM rendelet 2. § (1) bekezdése.
+## 70. §[^78]
 
 ## VI. Fejezet
 
@@ -13,3 +13,5 @@
 (4) A 45. § (3) bekezdése és a 60. § (8) bekezdése 2018. január 1-jén lép hatályba.
 
 (5) Ez a rendelet 2018. január 2-án hatályát veszti.
+
+[^78]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

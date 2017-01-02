@@ -5,7 +5,3 @@
 ## FOGLALKOZTATÁSI TÁRGYÚ MINISZTERI RENDELETEK MÓDOSÍTÁSA
 
 ## 44. A keszonmunkákról szóló 6/1987. (VI. 24.) EüM rendelet módosítása
-
-44. § (1) A keszonmunkákról szóló 6/1987. (VI. 24.) EüM rendelet (a továbbiakban: 6/1987. EüM rendelet) 3. §-ában az „a fővárosi és megyei kormányhivatal mint munkavédelmi hatóság” szövegrész helyébe az „a fővárosi és megyei kormányhivatal járási hivatala mint munkavédelmi hatóság” szöveg lép.
-
-(2) A 6/1987. EüM rendelet melléklete a 3. melléklet szerint módosul.
