@@ -1,0 +1,1 @@
+## „(2) Ha a jármű forgalomból történő végleges kivonására bontási átvételi igazolás alapján kerül sor, a jármű hatósági jelzését, forgalmi engedélyét és törzskönyvét – a közterület-felügyelet által kezdeményezett eljárás kivételével – a közlekedési igazgatási hatóságnál le kell adni.”

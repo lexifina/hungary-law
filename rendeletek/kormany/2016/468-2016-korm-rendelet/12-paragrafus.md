@@ -1,0 +1,5 @@
+## 11. § A KR. 43. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(4) A jármű származásának ellenőrzése során a közlekedési igazgatási hatóság a (2) bekezdésben meghatározott okmány és okirat elektronikus másolatát elektronikus úton, az ellenőrzés elvégzéséhez szükséges adatok beszerzése céljából a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalának megküldi.
+
+## (5) A közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala a származás-ellenőrzés elvégzése során a külföldi és nemzetközi körözési nyilvántartásokban és – a 42. § (4) bekezdésében meghatározott esetben, valamint ha a rendelkezésre álló adatok alapján a jármű származását illetően gyanús körülmények merülnek fel – a külföldi hatóság nyilvántartásaiban történő ellenőrzés alapján tisztázza a jármű származását, és ennek eredményéről hozott határozatát a közlekedési igazgatási hatóság részére elektronikus úton megküldi. A határozat a forgalomba helyezési eljárásban annak jogerőre emelkedéstől számított hat hónapig használható fel.”
