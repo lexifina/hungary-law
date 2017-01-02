@@ -1,3 +1,5 @@
+## 35. §[^1]
+
 1. melléklet a 49/2016. (XII. 28.) EMMI rendelethez
 
 1. Az emberi erőforrások minisztere által a kulturális ágazat vonatkozásában meghagyásba bevont szervek
@@ -47,3 +49,5 @@
 2. Az emberi erőforrások minisztere által az oktatási ágazat vonatkozásában meghagyásba bevont szervek
 
 1. Kello Könyvtárellátó Nonprofit Kft.
+
+[^1]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
