@@ -1,9 +1,8 @@
-## 3. § Az R. a következő 3. §-sal egészül ki:
+## 1–3. §[^2]
 
-## „3. § A 2016/2017. tanév május–júniusi vizsgaidőszakában az érettségi vizsgán az állami tankönyvfejlesztésért és kiadásért felelős szerv által kiadott, kronológiai adattáblázatot nem tartalmazó középiskolai történelmi atlasz és a 2015/2016. tanévben tankönyvjegyzékre került középiskolai történelem atlaszok is használhatóak.”
+4. § (1)[^3]
 
-4. § (1) Az R. Melléklete az 1. melléklet szerint módosul.
+(2) Az R. Melléklete a 2. melléklet szerint módosul.
 
-(2)[^1]
-
-[^1]: A 4. § (2) bekezdése a 6. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
