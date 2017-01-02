@@ -1,3 +1,0 @@
-## 8. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet [a továbbiakban: 30/2015. (VI. 16.) BM rendelet] a következő 4/A. §-sal egészül ki:
-
-## „4/A. § A 3. § (1) bekezdésében és a 4. § (1) bekezdésében foglaltaktól eltérően a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 54/2016. (XII. 22.) BM rendelet 5. § (2) bekezdésében foglalt esetben az állományilletékes parancsnok az állománytáblázatot saját hatáskörben módosítja.”

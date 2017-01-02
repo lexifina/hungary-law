@@ -1,3 +1,0 @@
-## 14. § A 31/2015. (VI. 16.) BM rendelet 64. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Hszt. 353/B. § (2) bekezdésében foglaltakra tekintettel, ha 2017. január 1. és 2017. december 31. között a hivatásos állomány tagja vonatkozásában a szolgálati időpótlék jogosultsági feltételeinek vagy a magasabb összegű szolgálati időpótlékhoz szükséges feltételeknek a megállapítására kerül sor, a szolgálati időpótlék kifizetése iránt csak a hivatásos állomány tagja szolgálati viszonyának módosulása esetén, a Hszt. 353/B. §-ában foglalt rendelkezések figyelembevételével lehet intézkedni.”
