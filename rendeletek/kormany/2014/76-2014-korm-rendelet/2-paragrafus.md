@@ -1,1 +1,0 @@
-## láthatja el.
