@@ -1,3 +1,0 @@
-6. § A Kbt. 15. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Közbeszerzési Hatóság az egyes beszerzési tárgyak esetében alkalmazandó uniós értékhatárokat, valamint nemzeti értékhatárokat, valamint a 19. § (4) bekezdés a) pontjában meghatározott értékhatárokat minden év elején közzéteszi honlapján. Ennek során az uniós értékhatárok, valamint a 19. § (4) bekezdés a) pontjában meghatározott értékhatárok forintban meghatározott összegét az Európai Bizottságnak az uniós értékhatárok nemzeti valutákban meghatározott összegére vonatkozó, az Európai Unió Hivatalos Lapjában közzétett közleményének megfelelően kell feltüntetni.”

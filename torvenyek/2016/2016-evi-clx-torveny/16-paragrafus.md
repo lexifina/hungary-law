@@ -1,5 +1,0 @@
-16. § A Kbt. 55. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Ha az ajánlatkérő olyan felhívás tartalmát (ideértve a határidők hosszabbítását is) kívánja módosítani, amelyet hirdetményben közzétettek, hirdetmény közzétételével módosíthatja a felhívásban meghatározott feltételeket. A hirdetményben utalni kell arra, ha az egyéb közbeszerzési dokumentumok is módosultak.
-
-(2) A felhívást módosító hirdetményt az ajánlattételi határidő lejártáig, több szakaszból álló közbeszerzési eljárás részvételi szakaszában a részvételi határidő lejártáig fel kell adni, és a módosítási szándékról, valamint a módosító hirdetmény feladásáról az eredeti ajánlattételi vagy részvételi határidő lejárta előtt egyidejűleg tájékoztatni kell azokat a gazdasági szereplőket, akik az ajánlatkérőnél az eljárás iránt érdeklődésüket jelezték, így különösen akik a közbeszerzési dokumentumokat elektronikusan elérték vagy kiegészítő tájékoztatást kértek. A módosító hirdetmény megjelenéséig a közbeszerzési eljárásban intézkedést tenni, döntéseket hozni, iratokat beadni nem lehet.”
