@@ -1,3 +1,0 @@
-## 19. Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény módosítása
-
-21. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 2. § (1) bekezdés a) pontjában, 2. § (3) bekezdés a) pontjában a „balettművészeti” szövegrész helyébe a „táncművészeti” szöveg lép.
