@@ -1,1 +1,0 @@
-## 4. § A Rendelet 1. §-ában a „Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény” szövegrész helyébe a „Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény” szöveg lép.
