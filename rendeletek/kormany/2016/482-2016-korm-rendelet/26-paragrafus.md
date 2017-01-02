@@ -1,3 +1,0 @@
-## 25. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R5.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az építésügyi és építésfelügyeleti hatóság képviselője a helyszíni szemlén vagy a hatósági ellenőrzésen az ellenőrzési jogosultságát az igazolványának felmutatásával igazolja. Az igazolvány tartalmazza az építésügyi vagy építésfelügyeleti hatóság képviselőjének nevét, besorolását, fényképét, aláírását, az őt foglalkoztató hivatal megnevezését, bélyegzőlenyomatát, az igazolvány kiállításának dátumát, érvényességi idejét, valamint az igazolvány sorszámát.”
