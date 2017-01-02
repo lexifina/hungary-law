@@ -1,1 +1,0 @@
-## 23. § A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklet C) pontjában foglalt táblázat A:5 mezőjében a „Klebelsberg Intézményfenntartó Központ” szövegrész helyébe a „Klebelsberg Központ” szöveg lép.
