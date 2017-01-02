@@ -1,4 +1,4 @@
-150. §[^271] (1) A köznevelési intézmény ellenőrzése esetén az érintett intézmény vezetője legkésőbb az ellenőrzési terv elkészítése évének november 30-áig feltölti a hivatal által működtetett informatikai támogató rendszerbe
+150. §[^273] (1) A köznevelési intézmény ellenőrzése esetén az érintett intézmény vezetője legkésőbb az ellenőrzési terv elkészítése évének november 30-áig feltölti a hivatal által működtetett informatikai támogató rendszerbe
 
 a) az ellenőrzést megelőző két tanév munkatervét és éves beszámolóját,
 
@@ -8,7 +8,7 @@ c) az intézményi eredményeket, ide értve az ellenőrzés évét megelőző �
 
 (2) A köznevelési intézményt egyidejűleg az intézményben nevelt, oktatott gyermekek, tanulók és az intézmény által ellátott feladatok számától függően legalább három, legfeljebb öt szakértő látogatja meg.
 
-(3)[^272] Az intézményvezető az intézményellenőrzés lezárását követő negyvenöt napon belül, az összegző szakértői dokumentuma alapján öt évre szóló intézkedési tervet készít, amelyben kijelöli az intézmény pedagógiai-szakmai munkája fejlesztésének feladatait. Az intézkedési tervet a nevelőtestület az intézményellenőrzés összegző szakértői dokumentumának 147. § (8) bekezdése szerinti rögzítésétől számított hatvan napon belül hagyja jóvá. Az intézkedési tervet az érintett intézmény vezetője a jóváhagyást követően haladéktalanul feltölti a hivatal által működtetett informatikai támogató rendszerbe, amely azt megküldi az intézmény fenntartója, valamint a hivatal számára.
+(3)[^274] Az intézményvezető az intézményellenőrzés lezárását követő negyvenöt napon belül, az összegző szakértői dokumentuma alapján öt évre szóló intézkedési tervet készít, amelyben kijelöli az intézmény pedagógiai-szakmai munkája fejlesztésének feladatait. Az intézkedési tervet a nevelőtestület az intézményellenőrzés összegző szakértői dokumentumának 147. § (8) bekezdése szerinti rögzítésétől számított hatvan napon belül hagyja jóvá. Az intézkedési tervet az érintett intézmény vezetője a jóváhagyást követően haladéktalanul feltölti a hivatal által működtetett informatikai támogató rendszerbe, amely azt megküldi az intézmény fenntartója, valamint a hivatal számára.
 
-[^271]: A 150. § a 22/2015. (IV. 21.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^272]: A 150. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 12. § 3. pontja szerint módosított szöveg.
+[^273]: A 150. § a 22/2015. (IV. 21.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^274]: A 150. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 12. § 3. pontja szerint módosított szöveg.

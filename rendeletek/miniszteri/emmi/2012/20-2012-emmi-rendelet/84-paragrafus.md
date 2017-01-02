@@ -1,6 +1,6 @@
 ## 29. Az iratkezelés és az ügyintézés szabályai
 
-84. § (1)[^168] Az iratkezelés rendjét a nevelési-oktatási intézmény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény rendelkezései, valamint a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai figyelembevételével az e rendeletben foglaltakra is tekintettel szabályozza.
+84. § (1)[^169] Az iratkezelés rendjét a nevelési-oktatási intézmény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény rendelkezései, valamint a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai figyelembevételével az e rendeletben foglaltakra is tekintettel szabályozza.
 
 (2) A nevelési-oktatási intézménybe érkezett vagy az intézményen belül keletkezett iratok kezelésének rendjét az iratkezelési szabályzatban, ha a nevelési-oktatási intézmény ennek készítésére nem kötelezett, adatkezelési szabályzatban kell meghatározni.
 
@@ -14,4 +14,4 @@
 
 (7) Ha az ügy jellege megengedi, az ügyiratban foglaltak távbeszélőn, elektronikus levélben vagy a jelenlévő érdekelt személyes tájékoztatásával is elintézhetők. Távbeszélőn vagy személyes tájékoztatás keretében történő ügyintézés esetén az iratra rá kell vezetni a tájékoztatás lényegét, az elintézés határidejét és az ügyintéző aláírását.
 
-[^168]: A 84. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 23. pontja szerint módosított szöveg.
+[^169]: A 84. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 23. pontja szerint módosított szöveg.

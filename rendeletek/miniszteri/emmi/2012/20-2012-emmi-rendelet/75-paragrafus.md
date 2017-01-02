@@ -8,7 +8,7 @@
 
 a) a beilleszkedési, tanulási nehézséggel, magatartási rendellenességgel küzdő tanuló esetén a szakvéleményt kiállító a nevelési tanácsadást ellátó intézménynek,
 
-b) sajátos nevelési igényű tanuló esetén a fővárosi, megyei utazó gyógypedagógusi hálózat keretében
+b)[^158] sajátos nevelési igényű tanuló esetén az utazó gyógypedagógusi, utazó konduktori hálózat keretében
 
 ## kell gondoskodni.
 
@@ -16,3 +16,4 @@ b) sajátos nevelési igényű tanuló esetén a fővárosi, megyei utazó gyóg
 
 [^156]: A 75. § (1) bekezdése a 22/2015. (IV. 21.) EMMI rendelet 6. §-ával megállapított szöveg.
 [^157]: A 75. § (1a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 6. §-a iktatta be.
+[^158]: A 75. § (3) bekezdés b) pontja az 53/2016. (XII. 29.) EMMI rendelet 12. § 2. pontja szerint módosított szöveg.

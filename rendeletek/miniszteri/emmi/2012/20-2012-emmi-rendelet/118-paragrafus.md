@@ -24,15 +24,15 @@ d) a tanulmányok alatti vizsga részeinek és feladatainak meghatározásához
 
 ## be kell szerezni.
 
-(4)[^190] A szakmai munkaközösség feladatainak ellátására a pedagógusok kezdeményezésére intézmények közötti munkaközösség is létrehozható. Az intézmények közötti munkaközösség jogkörét, működésének rendjét, vezetőjének kiválasztását az érdekeltek közötti megállapodás határozza meg.
+(4)[^191] A szakmai munkaközösség feladatainak ellátására a pedagógusok kezdeményezésére intézmények közötti munkaközösség is létrehozható. Az intézmények közötti munkaközösség jogkörét, működésének rendjét, vezetőjének kiválasztását az érdekeltek közötti megállapodás határozza meg.
 
-(5)[^191] A szakmai munkaközösség tagja és vezetője a belső értékelésben és ellenőrzésben akkor is részt vehet, ha köznevelési szakértőként nem járhat el. A szakmai munkaközösség – az SZMSZ-ben meghatározottak szerint – gondoskodik a pedagógus-munkakörben foglalkoztatottak nevelő-oktató munkájának szakmai segítéséről. A nevelési-oktatási intézmény SZMSZ-e a szakmai munkaközösség részére további feladatokat állapíthat meg.
+(5)[^192] A szakmai munkaközösség tagja és vezetője a belső értékelésben és ellenőrzésben akkor is részt vehet, ha köznevelési szakértőként nem járhat el. A szakmai munkaközösség – az SZMSZ-ben meghatározottak szerint – gondoskodik a pedagógus-munkakörben foglalkoztatottak nevelő-oktató munkájának szakmai segítéséről. A nevelési-oktatási intézmény SZMSZ-e a szakmai munkaközösség részére további feladatokat állapíthat meg.
 
-(6)[^192] Az óvodában, iskolában, kollégiumban az azonos feladatok ellátására egy szakmai munkaközösség hozható létre. Külön szakmai munkaközösség működhet a tagintézményben.
+(6)[^193] Az óvodában, iskolában, kollégiumban az azonos feladatok ellátására egy szakmai munkaközösség hozható létre. Külön szakmai munkaközösség működhet a tagintézményben.
 
-(7)[^193] A szakmai munkaközösséget munkaközösség-vezető irányítja, akit a munkaközösség véleményének kikérésével az intézményvezető bíz meg legfeljebb öt évre.
+(7)[^194] A szakmai munkaközösséget munkaközösség-vezető irányítja, akit a munkaközösség véleményének kikérésével az intézményvezető bíz meg legfeljebb öt évre.
 
-[^190]: A 118. § (4) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^191]: A 118. § (5) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 6. §-a iktatta be.
-[^192]: A 118. § (6) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 6. §-a iktatta be.
-[^193]: A 118. § (7) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 6. §-a iktatta be.
+[^191]: A 118. § (4) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^192]: A 118. § (5) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 6. §-a iktatta be.
+[^193]: A 118. § (6) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 6. §-a iktatta be.
+[^194]: A 118. § (7) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 6. §-a iktatta be.

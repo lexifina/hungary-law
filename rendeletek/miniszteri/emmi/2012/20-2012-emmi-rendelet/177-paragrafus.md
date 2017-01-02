@@ -4,7 +4,7 @@
 
 a) az iskola összes évfolyamán beépíti a helyi tantervébe a miniszter által a sportiskolák részére kiadott, testnevelés és sport műveltségterület tantervét,
 
-b)[^354] az iskola pedagógiai munkája, sporttevékenységeinek szervezése során tekintettel legyen az adott sportág országos sportági szakszövetsége vagy országos sportági szövetsége (a továbbiakban együtt: szakszövetség) által jóváhagyott és az iskola által szabadon választott sportágak sportági tanterveire,
+b)[^356] az iskola pedagógiai munkája, sporttevékenységeinek szervezése során tekintettel legyen az adott sportág országos sportági szakszövetsége vagy országos sportági szövetsége (a továbbiakban együtt: szakszövetség) által jóváhagyott és az iskola által szabadon választott sportágak sportági tanterveire,
 
 b) az általános iskola alsó tagozatán beépíti a helyi tantervébe a miniszter által kiadott küzdelem és játék, továbbá a sportágválasztó kerettanterveket,
 
@@ -28,4 +28,4 @@ c) a központi sportigazgatásért felelős szerv szakmai szervezetével
 
 (5) A köznevelési típusú sportiskola működéséhez szükséges – a sportegyesülettel, valamint az adott sportág szakszövetségével kötött megállapodás alapján nem fedezett – többletköltségeket a fenntartónak, állami fenntartó esetében az oktatásért felelős miniszter javaslata alapján a központi költségvetésnek kell biztosítania.
 
-[^354]: A 177. § (1) bekezdés b) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 39. pontja szerint módosított szöveg.
+[^356]: A 177. § (1) bekezdés b) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 39. pontja szerint módosított szöveg.
