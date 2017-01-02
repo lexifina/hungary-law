@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2016-12-15 | 2016. évi CXLII. törvény | 2010-43-00-00.34 |
 | 2016-12-20 | 2016. évi CLXXI. törvény | 2010-43-00-00.35 |
 | 2017-01-01 | 2016. évi CLXXXIV. törvény | 2010-43-00-00.36 |
+| 2017-01-02 | 2016. évi CLXXXII. törvény | 2010-43-00-00.37 |
