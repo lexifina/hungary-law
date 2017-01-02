@@ -1,3 +1,1 @@
-## 11. §[^6]
-
-[^6]: A 11. § a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+## „(6) A tanulmányi rendszerrel rendelkező felsőoktatási intézmények által továbbított felsőoktatási oktatási igazolvány igénylése esetén a jogosult felel az oktatási igazolvány elkészítésének alapjául szolgáló adatok valóságtartalmáért. Amennyiben a jogosult a nyilvántartott adataiban hibát észlel, úgy köteles azt haladéktalanul a közreműködő intézmény felé jelezni és a hiba kijavítását kezdeményezni.”
