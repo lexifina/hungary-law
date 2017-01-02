@@ -1,1 +1,3 @@
-## „(3) E rendeletnek a Magyar Bírósági Végrehajtói Kar egyes feladatairól, valamint egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 5/2016. (III. 8.) IM rendelettel megállapított rendelkezéseit a 2016. szeptember 1. napját követően elrendelt végrehajtási ügyek vonatkozásában kell alkalmazni.”
+## 15. §[^12]
+
+[^12]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
