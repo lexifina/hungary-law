@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-92-20-2
 | 2014-09-05 | 2010-92-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-08-08 | 2010-92-20-22.9 | 224/2015. (VIII. 7.) Korm. rendelet |
 | 2017-01-01 | 2010-92-20-22.10 | 441/2016. (XII. 16.) Korm. rendelet |
+| 2017-01-02 | 2010-92-20-22.11 | 441/2016. (XII. 16.) Korm. rendelet |

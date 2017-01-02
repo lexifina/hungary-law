@@ -1,3 +1,3 @@
-20. §[^49]
+20. §[^50]
 
-[^49]: A 20. § ugyanezen § (5) bekezdése alapján hatályát vesztette.
+[^50]: A 20. § ugyanezen § (5) bekezdése alapján hatályát vesztette.
