@@ -1,3 +1,0 @@
-## 16. § A nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény egyes rendelkezéseinek végrehajtásáról, valamint a tankönyvellátásban közreműködők kijelöléséről szóló 501/2013. (XII. 29.) Korm. rendelet (a továbbiakban: R2.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A tankönyvellátási szerződés – a 8. §-ban foglalt kivétellel – a Könyvtárellátó és az Ntt.-ben meghatározott iskola – a tankerületi központ fenntartásában álló iskola esetén a tankerületi központ – között jön létre. A tankerületi központok tekintetében a tankönyvellátási szerződés hatályosulásához az oktatási központ jóváhagyása szükséges.”
