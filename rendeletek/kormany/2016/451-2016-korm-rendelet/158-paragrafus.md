@@ -1,17 +1,16 @@
-## „(1) Az országos telefonos ügyfélszolgálat a nála létrejövő adatállományokat – beleértve a hangfelvételt is – titkosítva menti, és kizárólag védett környezetben tárolja.
-
-## (2) Az országos telefonos ügyfélszolgálat a rögzítéstől számított 5 év elteltével helyreállíthatatlanul törli a hangfelvételt és a hangfelvétel alapján rögzített adatokat.”
+## 157. §[^1]
 
 ## 41. Hatályon kívül helyező rendelkezések
 
 158. § (1) Hatályát veszti
 
-a) a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet;
+a)–b)[^2]
 
-b) az elektronikus ügyintézés részletes szabályairól szóló 85/2012. (IV. 21.) Korm. rendelet;
+c)[^3]
 
-c)[^1]
+(2)[^4]
 
-(2) Hatályát veszti a papíralapú dokumentumokról elektronikus úton történő másolat készítésének szabályairól szóló 13/2005. (X. 27.) IHM rendelet.
-
-[^1]: A 158. § (1) bekezdés c) pontja a 155. § (2) bekezdésében meghatározott időpontban lép hatályba.
+[^1]: A 157. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 158. § (1) bekezdés a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 158. § (1) bekezdés c) pontja a 155. § (2) bekezdésében meghatározott időpontban lép hatályba.
+[^4]: A 158. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
