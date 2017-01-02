@@ -2,7 +2,7 @@
 
 7. § (1) Az újonnan létesített köznevelési intézmény számára az OM azonosító kiadását, ha a köznevelési intézmény
 
-a)[^22] működéséhez engedély szükséges, az illetékes megyeszékhely szerinti járási (fővárosi kerületi) hivatal,
+a)[^22] működéséhez engedély szükséges, az illetékes megyeszékhely szerinti járási hivatal,
 
 b) törzskönyvi nyilvántartásba vétellel kezdheti meg a működését, a Magyar Államkincstár (a továbbiakban: kincstár),
 
@@ -26,6 +26,6 @@ b) a fenntartónak a köznevelési intézmény alapítására, fenntartására j
 
 (4) A kincstár a köznevelési intézmény egységes szerkezetű alapító okiratát a nyilvántartásba vételt követő öt napon belül juttatja el a KIR részére.
 
-[^22]: A 7. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^22]: A 7. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 2. pontja, a 486/2016. (XII. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^23]: A 7. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § g) pontja, a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
 [^24]: A 7. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.

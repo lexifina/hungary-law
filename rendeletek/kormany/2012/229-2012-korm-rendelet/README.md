@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2016-07-01 | 2012-229-20-22.23 | 102/2016. (V. 13.) Korm. rendelet |
 | 2016-11-19 | 2012-229-20-22.24 | 354/2016. (XI. 18.) Korm. rendelet |
 | 2017-01-01 | 2012-229-20-22.25 | 486/2016. (XII. 28.) Korm. rendelet |
+| 2017-01-02 | 2012-229-20-22.26 | 379/2016. (XII. 2.) Korm. rendelet |
