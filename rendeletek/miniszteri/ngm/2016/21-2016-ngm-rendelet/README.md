@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-21-20-2
 | 2016-08-01 | 2016-21-20-2X.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-08-02 | 2016-21-20-2X.6 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-21-20-2X.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-01-02 | 2016-21-20-2X.8 | 2010: CXXX. törvény |
