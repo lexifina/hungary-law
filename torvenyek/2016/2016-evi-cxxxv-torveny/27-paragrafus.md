@@ -1,12 +1,4 @@
-27. § (1) A Jöt. 145. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(A jövedéki adó mértéke)
-
-„f) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
-
-fa) egyszer használatos termékeire 10 forint darabonként (szálanként),
-
-fb) folyadékára 70 forint milliliterenként.”
+27. § (1)
 
 (2) A Jöt. 145. § (5) bekezdése a következő szöveggel lép hatályba:
 
