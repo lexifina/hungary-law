@@ -34,7 +34,7 @@
 
 15.
 
-16. egyes munkaügyi tárgyú törvények módosításáról szóló 2009. évi CXXVI. törvény,
+16.
 
 17.
 
