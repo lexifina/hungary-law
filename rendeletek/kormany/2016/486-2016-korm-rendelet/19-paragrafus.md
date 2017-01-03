@@ -1,4 +1,4 @@
-## 15–18. §[^6]
+## 15–18. §[^9]
 
 19. § (1) Az állami köznevelési közfeladat ellátásában fenntartóként résztvevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet (a továbbiakban: R3.) 12. § (2) bekezdése a következő szöveggel lép hatályba:
 
@@ -16,4 +16,4 @@
 
 (Szakmai elnökhelyettesnek az nevezhető ki, aki)
 
-[^6]: A 15–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 15–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

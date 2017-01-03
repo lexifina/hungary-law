@@ -1,3 +1,3 @@
-## 22. §[^8]
+## 22. §[^11]
 
-[^8]: A 22. § a 2. § (4) bekezdése alapján 2017. február 1-jén lép hatályba.
+[^11]: A 22. § a 2. § (4) bekezdése alapján 2017. február 1-jén lép hatályba.
