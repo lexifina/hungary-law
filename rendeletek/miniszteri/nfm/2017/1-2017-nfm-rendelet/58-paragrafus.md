@@ -1,0 +1,3 @@
+## 57. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (2) bekezdés b) pontjának alkalmazásáról szóló 80/2009. (XII. 29.) KHEM rendelet 2. § (6) bekezdés a) pontjában az „az NKH regionális igazgatóságánál” szövegrész helyébe az „a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (kerületi) hivatalnál” szöveg lép.
+
+## 58. A közúti járművezetők és a közúti közlekedési szakemberek képzésével, továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjakról 84/2009. (XII. 30.) KHEM rendelet módosítása

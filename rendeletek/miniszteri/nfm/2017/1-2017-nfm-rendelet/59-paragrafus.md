@@ -1,0 +1,3 @@
+## 58. § A közúti járművezetők és a közúti közlekedési szakemberek képzésével, továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjakról 84/2009. (XII. 30.) KHEM rendelet 1. § (2) bekezdésében a „Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) kincstárnál vezetett 10032000-00289926-00000000 számú előirányzat-felhasználási keretszámlájára” szövegrész helyébe a „közlekedési hatóság kincstárnál vezetett 10032000-00290713-38100004 számú számlájára” szöveg, az „az NKH-t” szövegrész helyébe az „a közlekedési hatóságot” szöveg lép.
+
+## 59. A radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló 11/2010. (III. 4.) KHEM rendelet módosítása

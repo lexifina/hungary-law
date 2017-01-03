@@ -1,0 +1,3 @@
+## 56. § A közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelet 4. § (2) bekezdésében a „Nemzeti Közlekedési Hatóság (a továbbiakban: közlekedési hatóság) elnöke, a közlekedésért felelős miniszter egyetértésével” szövegrész helyébe a „közlekedésért felelős miniszter” szöveg, a „közlekedési hatóság elnöke” szövegrész helyébe a „közlekedésért felelős miniszter” szöveg lép.
+
+## 57. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (2) bekezdés b) pontjának alkalmazásáról szóló 80/2009. (XII. 29.) KHEM rendelet módosítása

@@ -1,0 +1,1 @@
+## 69. A közlekedési infrastruktúrával összefüggő egyes állami feladatok végrehajtásáról, valamint a feladatok végrehajtásához szükséges források felhasználásának szabályairól szóló 40/2012. (VII. 10.) NFM rendelet hatályon kívül helyezése
