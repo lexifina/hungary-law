@@ -12,4 +12,6 @@ d) a mulasztási bírságra az Itv. 82. §-ában foglaltakat,
 
 e) a jogorvoslati eljárásra az Itv. 32. §-ában foglaltakat
 
+kell megfelelően alkalmazni, azzal, hogy ahol az Itv. illetéket említ, azon e rendelet tekintetében díjat kell érteni.
+
 [^7]: A 4. § a 46/2013. (VIII. 7.) NFM rendelet 3. §-ával megállapított szöveg.
