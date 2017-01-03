@@ -1,12 +1,10 @@
-## kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
-
 5. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépését követően kezdeményezett eljárásoknál kell alkalmazni.
 
-(2)[^17]
+(2)[^16]
 
-6. §[^18] Ez a rendelet a járművek és kapcsolódó termékek, alkatrészek és berendezések légialkalmassági és környezetvédelmi tanúsítása, valamint a tervező és gyártó szervezetek tanúsítása végrehajtási szabályainak megállapításáról szóló, 2012. augusztus 3-i 748/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+6. §[^17] Ez a rendelet a járművek és kapcsolódó termékek, alkatrészek és berendezések légialkalmassági és környezetvédelmi tanúsítása, valamint a tervező és gyártó szervezetek tanúsítása végrehajtási szabályainak megállapításáról szóló, 2012. augusztus 3-i 748/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^19]
+Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^18]
 
 | Sorszám | Légiközlekedési hatósági eljárások megnevezése | Díj (forint) |
 
@@ -1302,6 +1300,6 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^19]
 
 | 590. | A repülőtér üzemben tartója által készített, a légijármű által történő igénybevételért fizetendő díjak meghatározásának részletes szabályait tartalmazó szabályzat jóváhagyása, illetve e szabályzat módosításának jóváhagyása | 109 000 |
 
-[^17]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
-[^18]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^19]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^16]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
+[^17]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
+[^18]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
