@@ -1,6 +1,6 @@
-## A közlekedési hatóság eljárása és az általa végzett tevékenység[^97]
+## A közlekedési hatóság eljárása és az általa végzett tevékenység[^98]
 
-## 16. §[^98] A közlekedési hatóság
+## 16. §[^99] A közlekedési hatóság
 
 a) meghatározza:
 
@@ -20,7 +20,7 @@ ag) a vezetési kartont helyettesítő, a vezetési gyakorlat oktatása során a
 
 ah) a legalább az alapfokú iskolai végzettség igazolásával és ennek ügyvitelével kapcsolatos szabályokat,
 
-ai)[^99]
+ai)[^100]
 
 aj) a vizsga sikeres letételéhez szükséges ismereti szintet a vonatkozó jogszabályi előírások hiányában,
 
@@ -38,15 +38,15 @@ e) a szakoktatókról, az iskolavezetőkről, a vizsgabiztosokról és a képző
 
 ea) az engedélyezett tevékenységének végzése közben tanúsított magatartásával bűncselekményt vagy szabálysértést követett el,
 
-eb)[^100] olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta, vagy a vezetési kartont elveszítette,
+eb)[^101] olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta, vagy a vezetési kartont elveszítette,
 
-ec)[^101] az iskolavezető cselekménye következtében a közlekedési hatóság a képző szerv tevékenységét jogerősen legalább 60 napra felfüggesztette,
+ec)[^102] az iskolavezető cselekménye következtében a közlekedési hatóság a képző szerv tevékenységét jogerősen legalább 60 napra felfüggesztette,
 
-f)[^102] meghatározza – a 12. számú melléklet 7. pontja és 13. számú melléklet 1.1. pontja szerinti – a szaktanfolyamon való részvétel alóli mentesítés feltételeit és módját.
+f)[^103] meghatározza – a 12. számú melléklet 7. pontja és 13. számú melléklet 1.1. pontja szerinti – a szaktanfolyamon való részvétel alóli mentesítés feltételeit és módját.
 
-[^97]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
-[^98]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
-[^99]: A 16. § a) pont ai) alpontját a 45/2013. (VIII. 7.) NFM rendelet 21. § c) pontja hatályon kívül helyezte.
-[^100]: A 16. § e) pont eb) alpontja a 14/2015. (III. 31.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
-[^101]: A 16. § e) pont ec) alpontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (1) bekezdése iktatta be.
-[^102]: A 16. § f) pontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (2) bekezdése iktatta be.
+[^98]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^99]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^100]: A 16. § a) pont ai) alpontját a 45/2013. (VIII. 7.) NFM rendelet 21. § c) pontja hatályon kívül helyezte.
+[^101]: A 16. § e) pont eb) alpontja a 14/2015. (III. 31.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
+[^102]: A 16. § e) pont ec) alpontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (1) bekezdése iktatta be.
+[^103]: A 16. § f) pontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (2) bekezdése iktatta be.

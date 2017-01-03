@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-## 42. §[^206] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 42. §[^207] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelv, valamint az azt módosító 2000/56/EK bizottsági irányelv és 2008/65/EK bizottsági irányelv a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelettel együtt;
 
@@ -22,4 +22,4 @@ i) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanác
 
 j) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2014. július 1-jei 2014/85/EU bizottsági irányelv Melléklet 1. pontja.
 
-[^206]: A 42. § a 14/2015. (III. 31.) NFM rendelet 8. §-ával megállapított szöveg.
+[^207]: A 42. § a 14/2015. (III. 31.) NFM rendelet 8. §-ával megállapított szöveg.

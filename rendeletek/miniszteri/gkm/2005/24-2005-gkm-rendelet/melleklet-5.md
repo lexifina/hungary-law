@@ -1,6 +1,6 @@
-5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^243]
+5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^244]
 
-## A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
+A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
 1. A járművek követelményei kategóriánként
 
@@ -342,4 +342,4 @@ Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivé
 
 Az „AM” és „A” kategóriás, továbbá az „A1” és „A2” kategóriás gyakorlati képzés főoktatási szakaszában a kísérő szakoktatót szállító személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
-[^243]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^244]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.

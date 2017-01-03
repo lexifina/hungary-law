@@ -1,4 +1,4 @@
-## II.
+## II. Fejezet
 
 ## A KÖZÚTI JÁRMŰVEZETŐK KÉPZÉSE
 
@@ -18,9 +18,10 @@ b) azokat a képzési formákat (elméleti tantermi, elméleti e-learning, gyako
 
 (5) A képzés felelőse a képzési engedéllyel rendelkező, a tanulóval szerződéses jogviszonyban álló képző szerv iskolavezetője.
 
-(6) A képzést vagy vizsgáztatást érintő jogszabályok és a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) elnökének e rendelet alapján kiadott rendelkezéseinek változásairól a közlekedési hatóság tájékoztatást ad.
+(6)[^22] A képzést vagy vizsgáztatást érintő jogszabályokról, valamint ezek változásairól a közlekedésért felelős miniszter tájékoztatást ad.
 
 [^18]: A 3. § az 58/2011. (XI. 24.) NFM rendelet 3. §-ával megállapított szöveg.
 [^19]: A 3. § (1) bekezdése a 14/2015. (III. 31.) NFM rendelet 3. §-ával megállapított szöveg.
 [^20]: A 3. § (3) bekezdés a) pontja a 14/2015. (III. 31.) NFM rendelet 11. § a) pontja szerint módosított szöveg.
 [^21]: A 3. § (4) bekezdése a 14/2015. (III. 31.) NFM rendelet 11. § b) pontja szerint módosított szöveg.
+[^22]: A 3. § (6) bekezdése az 1/2017. (I. 3.) NFM rendelet 45. § (1) bekezdésével megállapított szöveg.

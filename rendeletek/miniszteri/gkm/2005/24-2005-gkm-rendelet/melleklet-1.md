@@ -1,6 +1,6 @@
 1. melléklet a 24/2005. (IV. 21.) GKM rendelethez
 
-## A képzési engedély tartalma
+A képzési engedély tartalma
 
 1. Az engedélyező hatóság megnevezése
 
@@ -10,9 +10,9 @@
 
 4. Az iskolavezető neve
 
-5.[^207] Engedélyes (képző szerv) azonosítója
+5.[^208] Engedélyes (képző szerv) azonosítója
 
-6.[^208]
+6.[^209]
 
 7. Az engedélyezett tevékenység meghatározása
 
@@ -26,5 +26,5 @@
 
 12. Az engedélyező hatóság bélyegzőlenyomata
 
-[^207]: Az 1. melléklet 5. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^208]: Az 1. melléklet 6. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^208]: Az 1. melléklet 5. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^209]: Az 1. melléklet 6. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
