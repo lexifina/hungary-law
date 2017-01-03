@@ -1014,7 +1014,7 @@ A fenntartási tevékenység végzése a különleges anyagokat szállító gép
 
 A tisztítás, fertőtlenítés történhet:
 
-–[^78] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervénél,
+–[^78] a népegészségügyi szervnél,
 
 – tisztítás, fertőtlenítés végzésére engedéllyel rendelkező vállalkozóval,
 
@@ -1324,7 +1324,7 @@ A Szabályzathoz kapcsolódó jogszabályok
 [^75]: 1/1990. (IX. 29.) KHVM rendelet.
 [^76]: MSZ–09–57.0033.
 [^77]: 6/1996. (II. 21.) IKM rendelet.
-[^78]: A 3. számú melléklet 9. pont 9.3. pont 9.3.1. alpont negyedik franciabekezdése a 76/2012. (XII. 22.) NFM rendelet 2. §-ával megállapított szöveg.
+[^78]: A 3. számú melléklet 9. pont 9.3. pont 9.3.1. alpont negyedik franciabekezdése az 1/2017. (I. 3.) NFM rendelet 6. §-ával megállapított szöveg.
 [^79]: 41/1997. (V. 28.) FM rendelet.
 [^80]: 47/1999. (VIII. 4.) GM rendelet.
 [^81]: 47/1999. (VIII. 4.) GM rendelet, MSZ–07–4446.
