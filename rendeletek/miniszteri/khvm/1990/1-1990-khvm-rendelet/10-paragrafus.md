@@ -8,7 +8,7 @@ c)[^44] az 1. számú melléklet 17. pontjában meghatározott gázbiztonsági s
 
 d)[^45] az 1. számú melléklet 19. pontjában meghatározott „Járművek bontása” tevékenység (a továbbiakban: járműbontó tevékenység) esetében a külön jogszabály szerinti bontási átvételi igazolás kiadásával
 
-## tanúsítani kell.
+tanúsítani kell.
 
 (2) Az (1) bekezdésben említett tanúsításnak tartalmaznia kell:
 

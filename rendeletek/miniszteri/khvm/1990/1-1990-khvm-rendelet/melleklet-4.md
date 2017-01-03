@@ -322,7 +322,7 @@
 
 4. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^158]
 
-## A tanúsítás mintája gázbiztonsági szemléről
+A tanúsítás mintája gázbiztonsági szemléről
 
 Mérete: 70x105 mm
 

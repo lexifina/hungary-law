@@ -1,6 +1,6 @@
 5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^159]
 
-## A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^160]
+A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^160]
 
 A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata
 
@@ -101,20 +101,6 @@ A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabál
 | menetíró illesztése, vizsgálata | a Tanács 3821/85/EGK rendelete, valamint az AETR Megállapodás6 szerinti követelmények ellenőrzéséhez szükséges mérési eredmények gumiabroncs nyomása a méréskor | menetíró vizsgálatára és beállítására alkalmas (a készülékgyártó által meghatározott) műszer(ek) és vizsgáló berendezések, gumiabroncsnyomás-mérő, 20 m hosszú kalibrált mérőszalag |
 
 | sebességkorlátozó vizsgálata | a sebességkorlátozó helyes működésének vizsgálata, a beállított sebesség értéke (vset) a jármű jellemző együtthatója (útimpulzus-szám w) a gumiabroncs tényleges kerülete (l) gumiabroncs nyomása a méréskor | a sebességkorlátozó vizsgálatához szükséges (a készülékgyártó által meghatározott) mérőműszerek, gumiabroncsnyomás-mérő, 20 m hosszú kalibrált mérőszalag |
-
-Megjegyzések:
-
-1 Értékelő ellenőrzést az MSZ–07–4450:1988 Gépjárművek és pótkocsik kerékfékszerkezeteinek vizsgálata, követelményei és minősítése görgős fékerőmérő berendezéssel című szabvány, illetve MSZ–07–4451:1990 Közúti járművek fékhatásának vizsgálata lassulásmérővel című szabvány szerint vagy az 5/1990. (IV. 12.) KöHÉM rendelet 5. számú melléklete 4. fejezetének 1.5. pontja szerinti előírás alapján kell végezni.
-
-2 Helyettesítő mérés a hibás fékerőmérő próbapad javításának időtartama alatt, illetve a szokványos próbapadon nem mérhető járműveknél (pl. traktor).
-
-3 3,5 t megengedett össztömeg fölötti gépjárművek javításánál nem kötelező.
-
-4 18"-nál nagyobb méretű kerekek kiegyensúlyozottságának ellenőrzése nem kötelező, de a kormányzott mellső kerekeken ajánlott.
-
-5 Alkalmazása 2004. január 1. napja után kötelező.
-
-6 A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
 
 [^159]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. §-ának (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
 [^160]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.

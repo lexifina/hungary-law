@@ -1,5 +1,7 @@
 ## A menetíró illesztési jegyzőkönyv mintája
 
+## 1M00460M_0
+
 | MAGYARORSZÁG / HUNGARY - ILLESZTÉSI JEGYZŐKÖNY | A. JEGYZŐKÖNYV SORSZÁMA A 0000000 |
 
 | B. TULAJDONOS VAGY ÜZEMBEN TARTÓ NEVE, CÍME | C. VIZSGÁLATOT VÉGZŐ SZERVEZET NEVE, CÍME |
@@ -93,6 +95,8 @@
 10. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^165]
 
 A menetíró felülvizsgálati tanúsítvány mintája
+
+9M42223O_0
 
 | MAGYARORSZÁG / HUNGARY - FELÜLVIZSGÁLATI TANÚSÍTVÁNY | A. JEGYZŐKÖNYV SORSZÁMA A 0000000 |
 

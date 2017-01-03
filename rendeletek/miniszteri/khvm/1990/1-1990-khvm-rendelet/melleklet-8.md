@@ -1,5 +1,3 @@
-## A járműfenntartó tevékenység során a közlekedésbiztonsági és környezetvédelmi követelmények ellenőrzésére használt berendezések (műszerek) és a kalibrálás időszakossága
-
 | Berendezés | Kalibrálás időszakossága (hó) |
 
 | görgős fékerőmérő | 6 |

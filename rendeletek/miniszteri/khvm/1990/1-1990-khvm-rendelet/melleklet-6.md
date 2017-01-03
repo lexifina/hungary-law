@@ -1,6 +1,20 @@
+## Megjegyzések:
+
+## 1 Értékelő ellenőrzést az MSZ–07–4450:1988 Gépjárművek és pótkocsik kerékfékszerkezeteinek vizsgálata, követelményei és minősítése görgős fékerőmérő berendezéssel című szabvány, illetve MSZ–07–4451:1990 Közúti járművek fékhatásának vizsgálata lassulásmérővel című szabvány szerint vagy az 5/1990. (IV. 12.) KöHÉM rendelet 5. számú melléklete 4. fejezetének 1.5. pontja szerinti előírás alapján kell végezni.
+
+## 2 Helyettesítő mérés a hibás fékerőmérő próbapad javításának időtartama alatt, illetve a szokványos próbapadon nem mérhető járműveknél (pl. traktor).
+
+## 3 3,5 t megengedett össztömeg fölötti gépjárművek javításánál nem kötelező.
+
+## 4 18"-nál nagyobb méretű kerekek kiegyensúlyozottságának ellenőrzése nem kötelező, de a kormányzott mellső kerekeken ajánlott.
+
+## 5 Alkalmazása 2004. január 1. napja után kötelező.
+
+## 6 A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
+
 6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^161]
 
-## A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei
+A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei
 
 | Berendezés | Eszközzel mérendő érték, műszaki jellemző | Az alkalmazott mérőeszköz legnagyobb megengedett hibája(1) |
 

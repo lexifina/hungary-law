@@ -1,6 +1,6 @@
 1. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez
 
-## A járműfenntartó tevékenységek és az azok önálló végzéséhez szükséges szakképesítések[^73]
+A járműfenntartó tevékenységek és az azok önálló végzéséhez szükséges szakképesítések[^73]
 
 1.[^74] Járműszerelő tevékenység, ideértve:
 
@@ -152,11 +152,11 @@ Előírt képesítés:
 
 – autószerelő-, autóvillamossági szerelő szakmunkás vagy autóelektronikai műszerész, illetőleg középfokú vagy ennél magasabb szakirányú képesítés,
 
-– a készülék(ek) gyártójánál vagy a készülékgyártó hazai képviseleténél, illetőleg a készülék(ek) gyártójának egyetértésével az NKH Központi Hivatala által szakmai képzés végzésére felhatalmazott szervezetnél 3 évnél nem régebben elvégzett – szerkezeti, működési, beszerelési és vizsgálati – szaktanfolyami képzésen (továbbképzésen) való eredményes részvétel igazolása,
+– a készülék(ek) gyártójánál vagy a készülékgyártó hazai képviseleténél, illetőleg a készülék(ek) gyártójának egyetértésével a közlekedésért felelős miniszter által szakmai képzés végzésére felhatalmazott szervezetnél 3 évnél nem régebben elvégzett – szerkezeti, működési, beszerelési és vizsgálati – szaktanfolyami képzésen (továbbképzésen) való eredményes részvétel igazolása,
 
 – a hitelesítést helyettesítő minősítést végző járműfenntartó szervezet (személy) esetében az e tevékenység végzésére jogosító szaktanfolyam, továbbá
 
-– a digitális tachográf esetében az a) és d) pontokban meghatározott tevékenység végzéséhez a készülékgyártó hazai képviselete által meghatározott és az NKH Központi Hivatala által jóváhagyott szakmai tartalmú, a digitális tachográfokra vonatkozó továbbképzésen való eredményes részvétel.
+– a digitális tachográf esetében az a) és d) pontokban meghatározott tevékenység végzéséhez a készülékgyártó hazai képviselete által meghatározott és a közlekedésért felelős miniszter által jóváhagyott szakmai tartalmú, a digitális tachográfokra vonatkozó továbbképzésen való eredményes részvétel.
 
 19.[^99] Járművek bontása (járműbontó tevékenység), ideértve
 
@@ -202,7 +202,7 @@ b) az irányítói munkakörben foglalkoztatott személy tekintetében: középf
 [^94]: Az 1. számú melléklet 16. pontját a 13/1993. (V. 12.) KHVM rendelet 16. §-a iktatta a szövegbe.
 [^95]: A vizsgára vonatkozó feltételeket a Közlekedési Főfelügyelet szabályzatban határozza meg.
 [^96]: Az 1. számú melléklet 17. pontját a 13/1993. (V. 12.) KHVM rendelet 16. §-a iktatta be, szövege a 37/2001. (XI. 14.) KöViM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^97]: Az 1. számú melléklet 18. pontját a 29/2004. (III. 12.) GKM rendelet 6. §-ának (1) bekezdése iktatta be, szövege a 124/2005. (XII. 29.) GKM rendelet 16. § (5) bekezdésével megállapított, záró szövegrésze a 95/2006. (XII. 27.) GKM rendelet 14. § e) pontja, 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 8. § 33. pontjával elrendelt módosítás, amely szerint az „az NKH Központi Hivatala” szövegrész helyébe az „a közlekedési hatóság” szöveg lép, nem vezethető át.]
+[^97]: Az 1. számú melléklet 18. pontját a 29/2004. (III. 12.) GKM rendelet 6. §-ának (1) bekezdése iktatta be, szövege a 124/2005. (XII. 29.) GKM rendelet 16. § (5) bekezdésével megállapított, záró szövegrésze a 95/2006. (XII. 27.) GKM rendelet 14. § e) pontja, 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, az 1/2017. (I. 3.) NFM rendelet 2. §-a szerint módosított szöveg.
 [^98]: Az 1. számú melléklet 18. pont a) alpontja a 37/2009. (VIII. 5.) KHEM rendelet 4. §-ával megállapított szöveg.
 [^99]: Az 1. számú melléklet 19. pontját a 29/2004. (III. 12.) GKM rendelet 6. §-ának (1) bekezdése iktatta be, bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. és 30. pontja szerint módosított szöveg.
 [^100]: Az 1. számú melléklet 19. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 18. pontja szerint módosított szöveg.
