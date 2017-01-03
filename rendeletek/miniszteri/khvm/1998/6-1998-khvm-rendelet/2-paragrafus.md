@@ -1,4 +1,4 @@
-## 2. §[^9] E rendelet alkalmazásában az 1. § (2) bekezdés b) pontjában meghatározott közutak tekintetében
+## 2. §[^12] E rendelet alkalmazásában az 1. § (2) bekezdés b) pontjában meghatározott közutak tekintetében
 
 1. fejlesztés: új útszakasz, új csomópont vagy új forgalmi sáv létrehozására irányuló beruházás, amely az országos közúthálózat hosszának vagy a meglévő hálózat teljesítőképességének (kapacitásának), biztonságának növelése céljából valósul meg, illetve meglévő útszakaszon vagy az út részét képező műtárgyon, azok tartozékain végrehajtott olyan beavatkozás, amely a velük szemben támasztott műszaki követelményeket a korábbi kialakítással szemben magasabb szinten képes kielégíteni;
 
@@ -14,4 +14,4 @@
 
 7. üzemeltetés: a közúti forgalom biztonságos és kulturált lebonyolítását elősegítő szolgáltatások összessége.
 
-[^9]: A 2. § a 73/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 2. § a 73/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.

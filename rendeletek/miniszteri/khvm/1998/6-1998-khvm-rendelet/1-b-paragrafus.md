@@ -1,4 +1,4 @@
-1/B. §[^7] (1) A Kkt. 29. § (1) bekezdés második mondata alapján a KKK és a közút Kkt. 33. § (1) bekezdés b) pont ba) alpontja szerinti kezelője között megkötött szerződés esetében az építtetői feladatokat az építési engedélyhez nem kötött, valamint a (2) és (3) bekezdésben meghatározott építési munkák tekintetében – beleértve az előkészítést, a területbiztosítást, a terveztetést, a közbeszerzési eljárások lefolytatását, a szerződéskötéseket, a szerződések teljesítésének igazolását – a közútkezelő végzi vagy végezteti.
+1/B. §[^9] (1)[^10] A Kkt. 29. § (1) bekezdés második mondata alapján a közlekedésért felelős miniszter és a közút Kkt. 33. § (1) bekezdés b) pont ba) alpontja szerinti kezelője között megkötött szerződés esetében az építtetői feladatokat az építési engedélyhez nem kötött, valamint a (2) és (3) bekezdésben meghatározott építési munkák tekintetében – beleértve az előkészítést, a területbiztosítást, a terveztetést, a közbeszerzési eljárások lefolytatását, a szerződéskötéseket, a szerződések teljesítésének igazolását – a közútkezelő végzi vagy végezteti.
 
 (2) A közútkezelő az (1) bekezdés figyelembevételével megkötött szerződés szerint az alábbi feladatok ellátása során járhat el építtetőként:
 
@@ -30,7 +30,7 @@
 
 14. megrongálódott műtárgyak helyreállítását célzó felújítás vagy rekonstrukció.
 
-(3)[^8] A közútkezelő az (1) bekezdés alapján megkötött, a közlekedésért felelős miniszter által jóváhagyott projektlistát tartalmazó szerződés szerint az alábbi feladatok ellátása során járhat el építtetőként:
+(3)[^11] A közútkezelő az (1) bekezdés alapján megkötött, a közlekedésért felelős miniszter által jóváhagyott projektlistát tartalmazó szerződés szerint az alábbi feladatok ellátása során járhat el építtetőként:
 
 1. a forgalmi terhelés miatt indokolt új sáv építése, sávszélesítés, ívkorrekció, csomóponti felállósáv és kanyarodó sáv kialakítása, a csomópontok építése, átépítése (ideértve új körforgalom létesítését),
 
@@ -40,5 +40,6 @@
 
 4. kerékpárutak építése.
 
-[^7]: Az 1/B. §-t a 6/2010. (II. 16.) KHEM rendelet 2. §-a iktatta be, szövege a 73/2012. (XII. 20.) NFM rendelet 2. §-ával megállapított szöveg.
-[^8]: Az 1/B. § (3) bekezdés nyitó szövegrésze a 31/2013. (VI. 18.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^9]: Az 1/B. §-t a 6/2010. (II. 16.) KHEM rendelet 2. §-a iktatta be, szövege a 73/2012. (XII. 20.) NFM rendelet 2. §-ával megállapított szöveg.
+[^10]: Az 1/B. § (1) bekezdése az 1/2017. (I. 3.) NFM rendelet 11. § c) pontja szerint módosított szöveg.
+[^11]: Az 1/B. § (3) bekezdés nyitó szövegrésze a 31/2013. (VI. 18.) NFM rendelet 2. §-a szerint módosított szöveg.

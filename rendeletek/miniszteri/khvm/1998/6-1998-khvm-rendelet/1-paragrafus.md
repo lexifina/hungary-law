@@ -8,7 +8,7 @@ b)[^3] az országos közutakra, azok tartozékaira és műtárgyaira, az ország
 
 c)[^4] a közutak kezelőinek nyilvántartási, ellenőrzési, üzemeltetési és fenntartási, valamint a közlekedést befolyásoló eseményekkel kapcsolatos információszolgáltatási feladataira, a koncessziós társaságok esetében a koncessziós szerződésben foglaltak figyelembevételével
 
-## terjed ki.
+terjed ki.
 
 (3) A rendelet hatálya nem terjed ki a közutak területén lévő közvilágítási és hírközlési berendezések üzemeltetésére és fenntartására.
 
