@@ -1,4 +1,4 @@
-## 54–60. §[^16]
+## 54–60. §[^19]
 
 ## 13. Az egyes kormányrendeleteknek a kötelező tervezői és kivitelezői felelősségbiztosítás bevezetésével összefüggő módosításáról szóló 353/2016. (XI. 18.) Korm. rendelet módosítása
 
@@ -6,4 +6,4 @@
 
 (2) Nem lép hatályba az egyes kormányrendeleteknek a kötelező tervezői és kivitelezői felelősségbiztosítás bevezetésével összefüggő módosításáról szóló 353/2016. (XI. 18.) Korm. rendelet 1. § (2) bekezdése, 5. § (2) bekezdése és 6. §-a.
 
-[^16]: Az 54–60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 54–60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
