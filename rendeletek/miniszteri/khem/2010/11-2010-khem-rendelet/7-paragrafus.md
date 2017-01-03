@@ -94,9 +94,9 @@ c) tulajdonos vagy birtokos változást igazoló okiratok,
 
 d) lezárt izotóp-nyilvántartó könyvek,
 
-## amelyek a nyilvántartás alapiratainak minősülnek.
+amelyek a nyilvántartás alapiratainak minősülnek.
 
-(10)[^11] A nyilvántartás (9) bekezdés szerinti alapiratait az Atv. 16. § (2) bekezdése szerinti határidőig meg kell őrizni, azt követően pedig a Hivatalnak kell átadni. Ezen iratokat a Hivatal az Atv. 16. § (6) bekezdése szerint kezeli és az adatkezelési idő lejártát követően az archív adatbázisba helyezi. A Hivatal az adatok átadásáról, valamint archív adatbázisba helyezéséről a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részeként működő sugár-egészségügyi decentrumot (a továbbiakban: Sugáregészségügyi Decentrum) értesíti.
+(10)[^11] A nyilvántartás (9) bekezdés szerinti alapiratait az Atv. 16. § (2) bekezdése szerinti határidőig meg kell őrizni, azt követően pedig a Hivatalnak kell átadni. Ezen iratokat a Hivatal az Atv. 16. § (6) bekezdése szerint kezeli és az adatkezelési idő lejártát követően az archív adatbázisba helyezi. A Hivatal az adatok átadásáról, valamint archív adatbázisba helyezéséről a sugáregészségügyi feladatokat ellátó kormányhivatalt értesíti.
 
 (11) A tevékenység megszűnése esetében a helyi nyilvántartást – a (12) bekezdésben foglalt kivételekkel – a 10. § (1) bekezdés c) pontja szerinti záró leltárral kell lezárni.
 
@@ -110,4 +110,4 @@ az arra jogosultnak átadásra kerül.
 
 [^9]: [A 7. § (1) bekezdés b) pontjának a 77/2015. (XII. 30.) NFM rendelet 3. § d) pontjával elrendelt módosítása, amely szerint a „nem mentes használati cikkekről” szövegrész helyébe a „nem mentes fogyasztási cikkekről” szöveg lép, nem vezethető át.]
 [^10]: A 7. § (5) bekezdés d) pontja a 13/2014. (III. 14.) NFM rendelet 2. §-ával megállapított szöveg.
-[^11]: A 7. § (10) bekezdése a 76/2012. (XII. 22.) NFM rendelet 17. §-a szerint módosított szöveg.
+[^11]: A 7. § (10) bekezdése a 76/2012. (XII. 22.) NFM rendelet 17. §-a, az 1/2017. (I. 3.) NFM rendelet 59. §-a szerint módosított szöveg.
