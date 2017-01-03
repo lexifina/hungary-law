@@ -1,5 +1,5 @@
-6. § Hatályát veszti
+6. §
 
-a) a Pp. 197. § (7) bekezdése,
+a)
 
 b)–c)
