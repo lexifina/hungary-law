@@ -1,3 +1,0 @@
-8. § (1) A 4. § szerinti bevételek felhasználhatók a koncessziós szerződés keretében vagy a KKK vagyonkezelésében nem álló, magántőke bevonásával, valamint egyéb forrásból megvalósult vagy megvalósuló országos közúti hálózati elemek és azok tartozékai, műtárgyai fejlesztéséhez szükséges – a területszerzést, minőségvizsgálatot, építtetői és szakértői tevékenységeket is magában foglaló – állami feladatok finanszírozására is.
-
-(2) A 4. § szerinti bevételek felhasználása tekintetében az országos közutak üzemeltetésére, karbantartására és felújítására vonatkozó rendelkezések az Országos Közúti Adatbankban szereplő közúthálózati elemekre, illetve az Országos Közúti Adatbankban nem szereplő, de az állam tulajdonában álló, vagyonelemekre is alkalmazhatók.

@@ -1,5 +1,0 @@
-A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 29. alpontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § e) pontjában meghatározott feladatkörömben eljárva,
-
-17. § (2) és (3) bekezdése tekintetében az államháztartásról szóló 2011. évi CXCV törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § e) pontjában meghatározott feladatkörömben eljárva, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben
-
-a következőket rendelem el:
