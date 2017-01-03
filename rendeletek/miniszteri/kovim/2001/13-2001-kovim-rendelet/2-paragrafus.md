@@ -22,7 +22,7 @@ cf) stabilitásában vagy
 
 cg) hajózási (nautikai) tulajdonságaiban
 
-## változást eredményez;
+változást eredményez;
 
 d) kereskedelmi szolgáltató úszómű: szálloda, étterem, bemutatóterem, bérelhető irodahelyiségek, szálláshely biztosítása, vagy egyéb gazdasági-szolgáltatási tevékenység céljából üzemeltetett úszómű, amelynek a befogadóképessége legalább 12 fő.
 
