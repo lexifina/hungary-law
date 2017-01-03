@@ -1,8 +1,8 @@
 ## 6. Jelentéstétel és adatszolgáltatás
 
-7. § (1) A KKK az ITS-alkalmazást alkalmazó vagy alkalmazni tervező szervezetek, gazdasági társaságok közreműködésével ötévente elkészíti a következő ötéves időszakra szóló nemzeti ITS-intézkedésekre vonatkozó terveket és azokat megküldi a közlekedésért felelős miniszter (a továbbiakban: miniszter) részére. Az ITS-intézkedésekre vonatkozó terveket a miniszter az Európai Bizottság részére megküldi.
+7. § (1)[^2] A miniszter az ITS-alkalmazást alkalmazó vagy alkalmazni tervező szervezetek, gazdasági társaságok közreműködésével ötévente elkészíti a következő ötéves időszakra szóló nemzeti ITS-intézkedésekre vonatkozó terveket. Az ITS-intézkedésekre vonatkozó terveket a miniszter az Európai Bizottság részére megküldi.
 
-(2) Az ITS bevezetésében elért haladásról a KKK az Európai Bizottság aktuális iránymutatásainak figyelembevételével háromévente jelentést készít (a továbbiakban: ITS-jelentés) a miniszter részére, amelynek tartalmaznia kell az ITS-szolgáltatások kiépítésében történt előrelépést bemutató jelentést, beleértve
+(2)[^3] Az ITS bevezetésében elért haladásról a miniszter az Európai Bizottság aktuális iránymutatásainak figyelembevételével háromévente jelentést készít (a továbbiakban: ITS-jelentés), amelynek tartalmaznia kell az ITS-szolgáltatások kiépítésében történt előrelépést bemutató jelentést, beleértve
 
 a) helyzetjelentést az aktuális nemzeti, nemzetközi és határokon átnyúló fejlesztésekről és kutatási eredményekről;
 
@@ -27,3 +27,6 @@ j) a jelentés előterjesztésének évében és az azt követő négy évben ki
 k) egy közérthető módon nyilvánosságra hozatal céljára megfogalmazott összefoglalót.
 
 (3) Az ITS-jelentést a miniszter által vezetett minisztérium honlapján közzé kell tenni.
+
+[^2]: A 7. § (1) bekezdése az 1/2017. (I. 3.) NFM rendelet 64. § b) pontja szerint módosított szöveg.
+[^3]: A 7. § (2) bekezdés nyitó szövegrésze az 1/2017. (I. 3.) NFM rendelet 64. § c) pontja szerint módosított szöveg.
