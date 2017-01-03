@@ -3434,7 +3434,7 @@ Ha az iparvágány használó belső vasútüzemét a saját mozdonyával és do
 
 Ha különleges helyi és forgalmi viszonyok indokolják, a végrehajtás helyi szabályozására az Iparvágányok Szolgálati Utasításához kiegészítő szolgálati utasítás készítését a hatóság rendelheti el. A kiegészítő szolgálati utasítást az iparvágány-engedélyes köteles összeállítani.
 
-A kiegészítő szolgálati utasítást az illetékes kiszolgáló vasút hagyja jóvá. Ha ez a vasúti vállalati utasításoktól eltérő vagy nem szabályozott eljárást vagy végrehajtási módot ír elő, akkor az illetékes vasút csak az NKH Közép-magyarországi Regionális Igazgatóságának előzetes hozzájárulása után hagyhatja azt jóvá.
+A kiegészítő szolgálati utasítást az illetékes kiszolgáló vasút hagyja jóvá. Ha ez a vasúti vállalati utasításoktól eltérő vagy nem szabályozott eljárást vagy végrehajtási módot ír elő, akkor az illetékes vasút csak a közlekedésért felelős miniszter előzetes hozzájárulása után hagyhatja azt jóvá.
 
 Felelős vasútüzem-vezetőt kell alkalmazni minden olyan iparvágányon, ahol az iparvágány használója a belső vasútüzemi tolatásokat saját dolgozóival végzi.
 
@@ -3482,7 +3482,7 @@ A vonatok tényleges sebessége nem lehet nagyobb, mint
 
 A vonatot úgy kell megfékezni, hogy a megengedett legnagyobb sebességgel haladva, a vasútvonalra megállapított általános fékúton megállítható legyen. A megállított vonat állva tartásáról gondoskodni kell.
 
-Az általános fékút hosszát – a vonal (vonalszakasz) jellegétől függően (országos közforgalmú vasútnál 400, 700 vagy 1000 m) az NKH Központi Hivatala által jóváhagyott Műszaki Táblázatokban kell meghatározni.
+Az általános fékút hosszát – a vonal (vonalszakasz) jellegétől függően (országos közforgalmú vasútnál 400, 700 vagy 1000 m) a közlekedésért felelős miniszter által jóváhagyott Műszaki Táblázatokban kell meghatározni.
 
 A vonatokat általában légfékkel kell közlekedtetni. Országos közforgalmú vasúton legfeljebb 50 km/h sebességig külön előírások alapján a vonat kézifékkel is közlekedhet.
 
@@ -5054,8 +5054,8 @@ lI. FÜGGELÉK[^30]
 [^21]: A távközlési építmények engedélyezéséről és ellenőrzéséről szóló 29/1999. (X. 6.) KHVM rendelet.
 [^22]: A hírközlésről szóló 2001. évi XL. törvény.
 [^23]: Az országos közforgalmú vasúti pálya kapacitásának elosztásáról szóló 67/2003. (X. 21.) GKM rendelet.
-[^24]: A 4. számú melléklet B. részének 4.1.7. pontja a 95/2006. (XII. 27.) GKM rendelet 53. § b) pontja szerint módosított szöveg.
-[^25]: A 4. számú melléklet B. részének 4.1.8. pontja a 95/2006. (XII. 27.) GKM rendelet 53. § c) pontja szerint módosított szöveg.
+[^24]: A 4. számú melléklet B. pont 4.1.7. pontja az 1/2017. (I. 3.) NFM rendelet 38. § a) pontja szerint módosított szöveg.
+[^25]: A 4. számú melléklet B. pont 4.1.8. pontja az 1/2017. (I. 3.) NFM rendelet 38. § b) pontja szerint módosított szöveg.
 [^26]: A vasútvállalatok működésének engedélyezéséről szóló 15/2002. (II. 27.) KöViM rendelet.
 [^27]: A vasúti járművek üzembe helyezésének engedélyezéséről és időszakos vizsgálatáról szóló 28/2003. (V. 8.) GKM rendelet.
 [^28]: A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény.
