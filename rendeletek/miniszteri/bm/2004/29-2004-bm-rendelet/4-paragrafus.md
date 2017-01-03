@@ -12,5 +12,7 @@ e) a rendelet 1. számú melléklete 2. pontjának c)–h) alpontjában meghatá
 
 f) a rendelet 2. számú mellékletének 3., 7. és 10. pontjában meghatározott szolgáltatási díjra vonatkozó személyes illetékmentességre az Itv. 6. §-át
 
+kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
+
 [^8]: A 4. § b) pontja a 75/2015. (XII. 29.) NFM rendelet 6. § b) pontja szerint módosított szöveg.
 [^9]: A 4. § d) ponjta a 15/2007. (III. 13.) IRM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (2) bekezdése alapján a rendelkezést a 2007. május 1. napja után indult eljárásokban kell alkalmazni.
