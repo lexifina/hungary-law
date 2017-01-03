@@ -1,3 +1,3 @@
-## 27–34. §[^13]
+## 27–34. §[^16]
 
-[^13]: A 27–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 27–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 35. §[^14]
+## 35. §[^17]
 
-[^14]: A 35. § az 58. § (3) bekezdése alapján 2017. március 1-jén lép hatályba.
+[^17]: A 35. § az 58. § (3) bekezdése alapján 2017. március 1-jén lép hatályba.

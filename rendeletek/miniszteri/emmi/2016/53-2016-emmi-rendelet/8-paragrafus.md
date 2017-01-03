@@ -1,5 +1,3 @@
-## 7. § Az R1. a következő 50/A. alcímmel egészül ki:
+## 7. §[^2]
 
-## „50/A. Az utazó gyógypedagógusi, utazó konduktori hálózatok és az együttnevelést segítő pedagógusok
-
-## 138/A. § Az utazó gyógypedagógusi, utazó konduktori hálózat az egységes szakmai eljárás érdekében munkaközösséget működtet, amelynek tagjai az utazó gyógypedagógusi, utazó konduktori hálózat működési körzetében foglalkoztatott együttnevelést segítő pedagógusok.”
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
