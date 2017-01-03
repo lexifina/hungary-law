@@ -12,13 +12,13 @@ ca) az építési munkát a létesítési engedélynek, az ahhoz tartozó műsza
 
 cb) a létesítmény a létesítési engedélyben megjelölt rendeltetésének megfelelő és biztonságos használatra alkalmas állapotban van-e.
 
-(2)[^51]
+(2)[^55]
 
 (3) Az engedélyező által előírt, a létesítmény rendeltetésszerű és biztonságos használatra alkalmasságának megállapításához szükséges vizsgálatok elvégeztetéséről és szakvélemények beszerzéséről saját költségén a kérelmező köteles gondoskodni.
 
 (4) A használatbavételi engedély csak akkor adható meg, ha a létesítmény a 23–24. §-ban foglalt követelményeknek megfelel.
 
-(5)[^52] A használatbavételi engedély visszavonásig, illetve a létesítmény megszüntetéséig hatályos.
+(5)[^56] A használatbavételi engedély visszavonásig, illetve a létesítmény megszüntetéséig hatályos.
 
-[^51]: A 25. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^52]: A 25. § (5) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A 25. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^56]: A 25. § (5) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

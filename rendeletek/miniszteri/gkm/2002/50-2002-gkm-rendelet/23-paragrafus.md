@@ -4,7 +4,7 @@
 
 23. § (1) A létesítési engedélyhez kötött hajózási létesítmény csak használatbavételi engedély alapján vehető használatba és üzemeltethető a továbbiakban.
 
-(2)[^47] A hajózási hatóság a használatbavételi engedélyben a hajózási létesítmény üzemben tartását az alábbi időtartamra engedélyezi:
+(2)[^51] A hajózási hatóság a használatbavételi engedélyben a hajózási létesítmény üzemben tartását az alábbi időtartamra engedélyezi:
 
 a) hajóállomásnál, egyéb úszóműves kikötőhelynél, vízisportpályánál, vízi repülőtérnél, úszóműállásnál és hajóhídnál 5 évre,
 
@@ -16,4 +16,4 @@ b) kiépített partfalú kikötőnél, komp- és révátkelőhelynél, csónakki
 
 (5) Ha a használatbavételi eljárást megelőzően a létesítmény vagy egyes berendezései, létesítményrészei műszaki átadásra kerülnek, akkor erről az engedélyező hatóságot 8 nappal azt megelőzően értesíteni kell. A hajózási hatóság a műszaki átadáson – szükség esetén – részt vesz és megállapításait közli, melyeket a használatbavételi engedély kiadásakor figyelembe kell venni.
 
-[^47]: A 23. § (2) bekezdése a 80/2007. (IX. 19.) GKM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni; 12. §-ának (3) bekezdése alapján az országos közforgalmú és saját használatú kikötők a korábban kiadott használatbavételi engedélyek alapján az engedély érvényességének lejártáig tarthatók üzemben.
+[^51]: A 23. § (2) bekezdése a 80/2007. (IX. 19.) GKM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni; 12. §-ának (3) bekezdése alapján az országos közforgalmú és saját használatú kikötők a korábban kiadott használatbavételi engedélyek alapján az engedély érvényességének lejártáig tarthatók üzemben.

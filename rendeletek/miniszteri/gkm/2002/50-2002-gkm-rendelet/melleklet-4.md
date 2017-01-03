@@ -68,13 +68,13 @@
 
 ## 2.2.10 A kikötő vendégmólóit bármely irányú dinamikus (horizontális) terhelésre méretezni kell.
 
-## 2.2.11[^118] A kikötőben egy kötéllel ellátott mentőgyűrűt, továbbá tavi és medencés kikötő esetében egy személyek mentésére szolgáló csáklyát, valamint minden egyes mólón, illetve elkülönülő partszakaszon legalább egy kötéllel ellátott mentőgyűrűt kell elhelyezni. A mentőeszközöket a partéltől 10 méter távolságon belül kell elhelyezni.
+## 2.2.11[^122] A kikötőben egy kötéllel ellátott mentőgyűrűt, továbbá tavi és medencés kikötő esetében egy személyek mentésére szolgáló csáklyát, valamint minden egyes mólón, illetve elkülönülő partszakaszon legalább egy kötéllel ellátott mentőgyűrűt kell elhelyezni. A mentőeszközöket a partéltől 10 méter távolságon belül kell elhelyezni.
 
 ## 2.2.12 A közforgalmú kikötőben, ivóvízellátást, WC-t, továbbá minden kikötőben hulladékgyűjtő ládákat kell biztosítani.
 
-## 3.[^119]
+## 3.[^123]
 
-4. számú melléklet az 50/2002. (XII. 29.) GKM rendelethez[^120]
+4. számú melléklet az 50/2002. (XII. 29.) GKM rendelethez[^124]
 
 A hajózási létesítménnyel kapcsolatos engedély iránti kérelem adattartalma
 
@@ -90,6 +90,6 @@ A hajózási létesítménnyel kapcsolatos engedély iránti kérelem adattartal
 
 6. Mellékletek felsorolása
 
-[^118]: A 3. számú melléklet 2.2.11 pontja a 81/2004. (V. 25.) GKM rendelet 2. §-ával megállapított szöveg.
-[^119]: A 3. számú melléklet 3. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^120]: A 4. számú melléklet a 49/2009. (IX. 30.) KHEM rendelet 2. § (7) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^122]: A 3. számú melléklet 2.2.11 pontja a 81/2004. (V. 25.) GKM rendelet 2. §-ával megállapított szöveg.
+[^123]: A 3. számú melléklet 3. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^124]: A 4. számú melléklet a 49/2009. (IX. 30.) KHEM rendelet 2. § (7) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

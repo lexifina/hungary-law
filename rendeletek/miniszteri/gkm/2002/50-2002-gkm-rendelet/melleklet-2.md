@@ -1,8 +1,8 @@
-## A kikötőre, valamint a komp- és révátkelőhelyre, továbbá a hajókiemelő berendezésre vonatkozó részletes szabályok[^86]
+## A kikötőre, valamint a komp- és révátkelőhelyre, továbbá a hajókiemelő berendezésre vonatkozó részletes szabályok[^90]
 
-## A kikötő, valamint komp- és révátkelőhely, továbbá a hajókiemelő berendezés létesítésére, építésére, használatbavételére, fennmaradására, átalakítására, a rendeltetéstől eltérő használatára és üzemben tartására – az általános szabályokon kívül – a következő rendelkezéseket kell alkalmazni:[^87]
+## A kikötő, valamint komp- és révátkelőhely, továbbá a hajókiemelő berendezés létesítésére, építésére, használatbavételére, fennmaradására, átalakítására, a rendeltetéstől eltérő használatára és üzemben tartására – az általános szabályokon kívül – a következő rendelkezéseket kell alkalmazni:[^91]
 
-## 1.[^88] E melléklet alkalmazásában:
+## 1.[^92] E melléklet alkalmazásában:
 
 ## a) rakpart: az úszólétesítmények kikötésére szolgáló partrész,
 
@@ -24,9 +24,9 @@
 
 ## b) átnézeti térképet (1:10 000-től 1:25 000-ig méretarányban),
 
-## c)[^89] a kikötő/átkelőhely és a hajókiemelő berendezés telepítési helyszínrajzát 1:2000–1:5000 méretarányban, amely tartalmazza a tervezett létesítményeket a meglévő és bontásra előirányzott létesítményekkel együtt, valamint 1:200–1:500 méretarányban a jellemző keresztszelvényeket,
+## c)[^93] a kikötő/átkelőhely és a hajókiemelő berendezés telepítési helyszínrajzát 1:2000–1:5000 méretarányban, amely tartalmazza a tervezett létesítményeket a meglévő és bontásra előirányzott létesítményekkel együtt, valamint 1:200–1:500 méretarányban a jellemző keresztszelvényeket,
 
-## d)[^90] a kikötő vízterületének, valamint a hozzá kapcsolódó víziút 500-500 m (az átkelés esetében annak tengelyétől mért 200-200 m, ha az átkelés jeleit ennél nagyobb távolságban kell elhelyezni, akkor az elhelyezés távolságáig) hosszú (tavon széles) szakaszának, hajókiemelő berendezés partterületét határoló (a kiemelésre szolgáló) vízterület 100 m szélességű (ha a meder ennél kisebb szélességű, akkor a teljes mederszélességre kiterjedő) mélységvonalas helyszínrajzát a hajózási kisvízszint (HKV) és a hajózási nagyvízszint (HNV), a legnagyobb vízszint (LNV) és a legmagasabb jeges vízszint megjelölésével, amelyen a mélységvonalakat a vízterületre előírt kitűzési tervnek megfelelően kell alkalmazni,
+## d)[^94] a kikötő vízterületének, valamint a hozzá kapcsolódó víziút 500-500 m (az átkelés esetében annak tengelyétől mért 200-200 m, ha az átkelés jeleit ennél nagyobb távolságban kell elhelyezni, akkor az elhelyezés távolságáig) hosszú (tavon széles) szakaszának, hajókiemelő berendezés partterületét határoló (a kiemelésre szolgáló) vízterület 100 m szélességű (ha a meder ennél kisebb szélességű, akkor a teljes mederszélességre kiterjedő) mélységvonalas helyszínrajzát a hajózási kisvízszint (HKV) és a hajózási nagyvízszint (HNV), a legnagyobb vízszint (LNV) és a legmagasabb jeges vízszint megjelölésével, amelyen a mélységvonalakat a vízterületre előírt kitűzési tervnek megfelelően kell alkalmazni,
 
 ## e) talajmechanikai szakvéleményt,
 
@@ -44,7 +44,7 @@
 
 ## l) tervezői nyilatkozatot a hajózási építményeknek a műszaki leírásban megfogalmazott tevékenységre való műszaki alkalmasságáról.
 
-## 2.2.[^91] A kikötő, illetve az átkelőhely és a hajókiemelő egyes műszaki paramétereire vonatkozó minimális követelmények, előírások:
+## 2.2.[^95] A kikötő, illetve az átkelőhely és a hajókiemelő egyes műszaki paramétereire vonatkozó minimális követelmények, előírások:
 
 ## A kikötőnek, az átkelőhelyeknek és a hajókiemelőnek az alábbi követelményeknek kell megfelelnie:
 
@@ -52,7 +52,7 @@
 
 ## .1 A medencés kikötő helyét úgy kell kiválasztani, hogy a zajló jég a medencébe ne hatolhasson be, árvízlevonuláskor a kikötő teljes védettséget nyújtson, a szél és hullámzás hatása a kikötőben közlekedő és veszteglő hajók számára a legkisebb legyen.
 
-## .2 A nagyhajók fogadására szolgáló kikötő vízterületének fenékszintjét (a továbbiakban: KFSZ) a kikötővel kapcsolódó víziútra érvényes HKV-hez – a víziút osztályának[^92] megfelelően megállapított vízmélység alatt 0,4 m-re kell megállapítani (KFSZ = HKV – előírt hajóútmélység – 0,4 m).
+## .2 A nagyhajók fogadására szolgáló kikötő vízterületének fenékszintjét (a továbbiakban: KFSZ) a kikötővel kapcsolódó víziútra érvényes HKV-hez – a víziút osztályának[^96] megfelelően megállapított vízmélység alatt 0,4 m-re kell megállapítani (KFSZ = HKV – előírt hajóútmélység – 0,4 m).
 
 ## Kishajók fogadására szolgáló kikötő vízmélységét a – hajózási hatóság által elfogadott – mértékadó kishajók merülésének figyelembevételével kell megállapítani. A hajófenék-meder távolságnak – HKV-nél – el kell érnie a 0,4 m-t.
 
@@ -72,7 +72,7 @@
 
 ## .9 A nagyhajók közlekedésére szolgáló kikötő méreteit úgy kell megállapítani, hogy a rakpart mellé egyidejűleg annyi hajó állhasson, amennyi a tervezett forgalom lebonyolításához szükséges, és a kikötőben a hajóközlekedés zavartalan legyen. A rakpart hossza a rakodóhoz egyszerre álló áru- vagy személyszállító hajók teljes hosszának legalább 1,2 szerese kell legyen.
 
-## .10 A rakpart, illetve az ipari kikötő kezelőpartjának szintmagasságát legalább a HNV felett 0,5 m magasságban – az országos közforgalmú és a nemzetközi jelentőségű belföldi kikötőknél (,,E'' kikötőknél) a mértékadó árvízszint felett legalább 0,5 m-rel – kell kialakítani.[^93] A rakpartot – a ki- és berakodásra kerülő áruk figyelembevételével – többszintesen is ki lehet alakítani, ekkor az első mondat feltételét a legmagasabb szintre kell alkalmazni.
+## .10 A rakpart, illetve az ipari kikötő kezelőpartjának szintmagasságát legalább a HNV felett 0,5 m magasságban – az országos közforgalmú és a nemzetközi jelentőségű belföldi kikötőknél (,,E'' kikötőknél) a mértékadó árvízszint felett legalább 0,5 m-rel – kell kialakítani.[^97] A rakpartot – a ki- és berakodásra kerülő áruk figyelembevételével – többszintesen is ki lehet alakítani, ekkor az első mondat feltételét a legmagasabb szintre kell alkalmazni.
 
 ## .11 A tavi kikötőnél a móló felső szintjének megállapításakor a hajózási idényben előforduló legnagyobb vízszinten kívül – a zónába sorolás szerinti – legnagyobb hullámmagasságot is figyelembe kell venni.
 
@@ -106,7 +106,7 @@
 
 ## .3 A nagyhajók kikötésére szolgáló kikötőbakokat öntöttvasból vagy acélköpennyel ellátott vasbetonból kell készíteni, és a talaj minőségétől függően legalább 1 m3-es alap (beton) tömbben kell elhelyezni. Feltöltött talaj esetében a kikötőbakokat ki kell horgonyozni. A bakok széle függőleges partfal esetében legalább 30 cm, rézsűs partnál legalább 80 cm távolságra legyen a partéltől.
 
-## .4 A bakok geometriai méreteit a ,,Belvízi hajók műszaki felügyeleti előírásai''-ban[^94] a hajókra meghatározottak szerint kell megállapítani.
+## .4 A bakok geometriai méreteit a ,,Belvízi hajók műszaki felügyeleti előírásai''-ban[^98] a hajókra meghatározottak szerint kell megállapítani.
 
 ## .5 Az úszó bakot úgy kell kialakítani, hogy a kötél megfeszült állapotában is követni tudja a vízszint változását. Az üzemen kívül helyezett úszó bakot lezuhanás, illetve a megszorult úszó bakot elmozdulás ellen biztosítani kell.
 
@@ -118,15 +118,15 @@
 
 ## .9 Köteles kompoknál a kompkötél feszítésére, illetőleg rögzítésére szolgáló csörlőt és kötélbakot rendeltetésüknek megfelelő szilárdsággal kell kialakítani, és betonalapba ágyazva kell elhelyezni mindkét parton.
 
-## .10[^95] A ferdepályás hajókiemelőnek (sólya) a fogadni kívánt leghosszabb szokásos hajótestnek megfelelően kellő számú alátámasztással kell rendelkeznie a szükséges teherelosztás biztosítására, amelyről a tervezőnek a tervben nyilatkoznia kell.
+## .10[^99] A ferdepályás hajókiemelőnek (sólya) a fogadni kívánt leghosszabb szokásos hajótestnek megfelelően kellő számú alátámasztással kell rendelkeznie a szükséges teherelosztás biztosítására, amelyről a tervezőnek a tervben nyilatkoznia kell.
 
 ## 2.2.3. Használhatóság
 
-## .1 A kikötőt úgy kell tervezni, hogy az megfeleljen a területrendezési és fejlesztési, az építési és biztonsági, a honvédelmi, a vízügyi, a közegészségügyi és a járványügyi, valamint a táj- és környezetvédelmi, katasztrófavédelmi előírásoknak, és – ,,E'', illetve országos közforgalmú kikötő esetében – a nemzetközi jelentőségű víziutakról szóló európai megállapodás''[^96] követelményeinek is.
+## .1 A kikötőt úgy kell tervezni, hogy az megfeleljen a területrendezési és fejlesztési, az építési és biztonsági, a honvédelmi, a vízügyi, a közegészségügyi és a járványügyi, valamint a táj- és környezetvédelmi, katasztrófavédelmi előírásoknak, és – ,,E'', illetve országos közforgalmú kikötő esetében – a nemzetközi jelentőségű víziutakról szóló európai megállapodás''[^100] követelményeinek is.
 
 ## .2 A kikötőket és rakodókat úgy kell kialakítani, hogy azok szerves kapcsolatban legyenek a szárazföldi közlekedés létesítményeivel.
 
-## .3[^97] A kikötő helyét a víziút mentén ott kell kijelölni, ahol a víziúthoz gépjármű közlekedésre alkalmas úti, E jelű kikötő esetén pedig vasúti csatlakozás is biztosítható.
+## .3[^101] A kikötő helyét a víziút mentén ott kell kijelölni, ahol a víziúthoz gépjármű közlekedésre alkalmas úti, E jelű kikötő esetén pedig vasúti csatlakozás is biztosítható.
 
 ## .4 A tavi kikötő bejárata közvetlenül a hajóúthoz vagy a kikötőt használó hajók közlekedésére alkalmas mederrészhez csatlakozzon.
 
@@ -150,11 +150,11 @@
 
 ## .10 Kedvtelési célú vízijárművek részére szolgáló közforgalmú kikötőben kikötőhelyeket kell fenntartani a tartósan bérelt kikötőhellyel nem rendelkező kishajók fogadására.
 
-## .11[^98] A ferdepályás hajókiemelőnek (sólya) a fogadni kívánt leghosszabb hajótest sérülésmentes (kellő mértékű és koordinált működésű alátámasztással való) kiemelését kell biztosítania.
+## .11[^102] A ferdepályás hajókiemelőnek (sólya) a fogadni kívánt leghosszabb hajótest sérülésmentes (kellő mértékű és koordinált működésű alátámasztással való) kiemelését kell biztosítania.
 
 ## 2.2.4. Teljesítmény
 
-## .1[^99] Az országos közforgalmú, az önkormányzati tulajdonú, valamint a nemzetközi jelentőségű víziutakról szóló európai megállapodás[^100] szerinti ,,E'' minősítésű kereskedelmi kikötő teljesítményét úgy kell tervezni, hogy az megfeleljen nemzetközi szerződésben vállalt és meghirdetett rakodási feltételeknek; egyéb közforgalmú kikötő esetén a közlekedésért felelős miniszter által meghirdetett teljesítménykövetelményeknek.
+## .1[^103] Az országos közforgalmú, az önkormányzati tulajdonú, valamint a nemzetközi jelentőségű víziutakról szóló európai megállapodás[^104] szerinti ,,E'' minősítésű kereskedelmi kikötő teljesítményét úgy kell tervezni, hogy az megfeleljen nemzetközi szerződésben vállalt és meghirdetett rakodási feltételeknek; egyéb közforgalmú kikötő esetén a közlekedésért felelős miniszter által meghirdetett teljesítménykövetelményeknek.
 
 ## .2 Az országos közforgalmú, az ,,E'' és a közforgalmú medencés kikötőt telelésre igénybe vehető terület biztosításával kell tervezni.
 
@@ -186,7 +186,7 @@
 
 ## .11 A kikötőben a hajók kikötési helyeit, a közlekedési utakat és a munkahelyeket (munkaterületeket) az egyéb jogszabályokban és szabályzatokban előírt erősségű fénnyel kell megvilágítani.
 
-## .12[^101] A kikötő rakpartján, illetve az állandóan nyitott kikötőpontonon a vízbe esett személyek kimentésére a következő (jóváhagyott) mentőeszközöket kell elhelyezni:
+## .12[^105] A kikötő rakpartján, illetve az állandóan nyitott kikötőpontonon a vízbe esett személyek kimentésére a következő (jóváhagyott) mentőeszközöket kell elhelyezni:
 
 ## – nagyhajók fogadására alkalmas kikötőben kikötőhelyenként legalább egy kötéllel ellátott mentőgyűrű, valamint egy személyek mentésére szolgáló csáklya,
 
@@ -196,7 +196,7 @@
 
 ## A kihelyezett mentőeszközöket jól láthatóan meg kell jelölni és azokat folyamatosan használatra kész állapotban kell tartani. A mentőeszközöket a partéltől 10 méter távolságon belül kell elhelyezni. A személykikötő függőleges partfalánál az utasok ki- és beszállására megnyitott beszállóhelyet legalább 1 méter magas korlátokkal kell a partfal szélétől elválasztani úgy, hogy a korlát és a partél közötti legalább 0,6 m széles járófelület alkalmas legyen a kikötői műveletekhez szükséges munkák biztonságos végzésére.
 
-## .13 A veszélyes áruk rakodására szolgáló kikötőben biztosítani kell a veszélyes áruk nemzetközi belvízi szállításának szabályzatában (a továbbiakban: ADN)[^102] a hajók számára előírt biztonsági és környezetvédelmi rendszerek kiszolgálását.
+## .13 A veszélyes áruk rakodására szolgáló kikötőben biztosítani kell a veszélyes áruk nemzetközi belvízi szállításának szabályzatában (a továbbiakban: ADN)[^106] a hajók számára előírt biztonsági és környezetvédelmi rendszerek kiszolgálását.
 
 ## .14 A veszélyes áruk rakodására szolgáló kikötők raktározási építményeit, területeit úgy kell tervezni és kialakítani, hogy a levegő, a talaj, a felszíni, illetőleg felszín alatti vizek szennyeződése kizárható legyen. Az esetleges környezetszennyezés szakszerű mentéséhez megfelelő anyagokat és eszközöket kell az építményben vagy a területen tárolni.
 
@@ -242,21 +242,21 @@
 
 ## .24 Minden kereskedelmi kikötőben biztosítani kell a hajón vagy a rakodás során keletkezett árumaradék, továbbá minden kikötőben a hulladék, az olajos fenékvíz, illetve egyéb szennyvíz átvételét és szakszerű kezelését.
 
-## .25[^103] A köteles komp felső vezetőkötelét a víziút osztályának függvényében külön jogszabályban foglaltaknak megfelelően kell a víziút felett átvezetni.
+## .25[^107] A köteles komp felső vezetőkötelét a víziút osztályának függvényében külön jogszabályban foglaltaknak megfelelően kell a víziút felett átvezetni.
 
-## .26[^104] Ha a köteles komp vezetőkötele nem alakítható ki a .25 alpont szerinti magasságban, akkor olyan vezetőkötelet kell alkalmazni, amely a mederfenékre fekszik és a komp az áthaladáskor szedi azt fel és elhaladását követően leereszti (mélyvezetésű kötél). A nemzetközi jelentőségű víziutakról szóló európai megállapodás szerinti „E” jelű víziúton kötél segítségével közlekedő átkelés nem üzemeltethető, kivéve olyan gépi hajtással rendelkező köteles kompot, amelynek kötele megfelel a külön jogszabályban foglaltaknak.
+## .26[^108] Ha a köteles komp vezetőkötele nem alakítható ki a .25 alpont szerinti magasságban, akkor olyan vezetőkötelet kell alkalmazni, amely a mederfenékre fekszik és a komp az áthaladáskor szedi azt fel és elhaladását követően leereszti (mélyvezetésű kötél). A nemzetközi jelentőségű víziutakról szóló európai megállapodás szerinti „E” jelű víziúton kötél segítségével közlekedő átkelés nem üzemeltethető, kivéve olyan gépi hajtással rendelkező köteles kompot, amelynek kötele megfelel a külön jogszabályban foglaltaknak.
 
-## .27[^105] A felső vezetésű kötél leeresztésének lehetőségét mindkét partról biztosítani kell. Gépi kötélfeszítésnél, illetve leeresztésnél biztosítani kell, hogy áramkimaradás esetén a kötél mindkét parttól kézi beavatkozással is leereszthető legyen.
+## .27[^109] A felső vezetésű kötél leeresztésének lehetőségét mindkét partról biztosítani kell. Gépi kötélfeszítésnél, illetve leeresztésnél biztosítani kell, hogy áramkimaradás esetén a kötél mindkét parttól kézi beavatkozással is leereszthető legyen.
 
 ## .28 Köteles komp kötelének parti rögzítési pontja és a kötél által elérhető parti sáv körül biztonsági területet kell kijelölni, amelyen utasok, járművek nem tartózkodhatnak, valamint építmények nem helyezhetők el (ideiglenesen sem).
 
 ## .29 A köteles komp kötelét olyan távolságra kell elhelyezni a kikötőhelyek tengelyétől, hogy a tervezett üzemelési időszakban előforduló vízállás-tartományban biztonságosan használható legyen.
 
-## .30[^106] Az alacsony vezetésű kompkötél kifeszített állapotát a külön jogszabályban előírt jelzésrendszerrel meg kell jelölni.
+## .30[^110] Az alacsony vezetésű kompkötél kifeszített állapotát a külön jogszabályban előírt jelzésrendszerrel meg kell jelölni.
 
 ## .31 A komp kikötőhelyen történő kikötésének alkalmasnak kell lennie a gépjárművek behajózásának biztonságos elvégzésére.
 
-## .32 Az ADR[^107] hatálya alá tartozó árut továbbító gépjármű akkor szállítható együtt a kompon más járművekkel, ha az azokon szállított veszélyes anyagokat szállító gépjárművek egymás között vagy egyéb járművektől biztonsági távolság tartására vonatkozó előírás nincs, továbbá együvé rakás tilalma alá nem esik; utasok ilyen gépjárművel együtt nem szállíthatók;
+## .32 Az ADR[^111] hatálya alá tartozó árut továbbító gépjármű akkor szállítható együtt a kompon más járművekkel, ha az azokon szállított veszélyes anyagokat szállító gépjárművek egymás között vagy egyéb járművektől biztonsági távolság tartására vonatkozó előírás nincs, továbbá együvé rakás tilalma alá nem esik; utasok ilyen gépjárművel együtt nem szállíthatók;
 
 ## .33 Az átkelőhelyen közlekedő motoros hajó részére kikötőmólót vagy kikötőpontont kell létesíteni; az átkelőhely parti bejáratát zárólánccal kell ellátni, és a bejáratnál ,,A hajó kikötése előtt a hídra lépni tilos'' feliratú táblát kell elhelyezni. Ha a partviszonyok a veszélytelen be- és kiszállást lehetővé teszik, az átkelő közvetlenül a parthoz is kiköthet. Az utasok beszállítására szolgáló kikötőhelyen – annak teljes hosszában – korlátot kell elhelyezni, amelynek kialakítására vonatkozóan a hajózási hatóság rendelkezik.
 
@@ -284,11 +284,11 @@
 
 ## .39 Függőleges kikötőpartfal vízfelszín alatti részeit a kikötő üzemben tartója köteles 10 évenként megvizsgáltatni és a vizsgálat eredményéről a hajózási hatóságot tájékoztatni.
 
-## .40[^108] A ferdepályás hajókiemelő (sólya) gépi és biztonsági berendezéseinek biztosítania kell vészhelyzet (pl. energiaellátási zavar, kötélszakadás, elakadás, megcsúszás) esetén is a balesetveszély-mentes állapotot, továbbá a kiemelési és leeresztési folyamat bármely fázisban történő veszély nélküli megszakíthatóságát.
+## .40[^112] A ferdepályás hajókiemelő (sólya) gépi és biztonsági berendezéseinek biztosítania kell vészhelyzet (pl. energiaellátási zavar, kötélszakadás, elakadás, megcsúszás) esetén is a balesetveszély-mentes állapotot, továbbá a kiemelési és leeresztési folyamat bármely fázisban történő veszély nélküli megszakíthatóságát.
 
-## .41[^109] A ferdepályás hajókiemelő (sólya) veszélyzónáját a munkafolyamatban részt nem vevők számára egyértelmű jelzéssel kell jelölni és az illetéktelenek részéről történő bejárást tiltani.
+## .41[^113] A ferdepályás hajókiemelő (sólya) veszélyzónáját a munkafolyamatban részt nem vevők számára egyértelmű jelzéssel kell jelölni és az illetéktelenek részéről történő bejárást tiltani.
 
-## .42[^110] A ferdepályás hajókiemelőt (sólya) az emelőfelületén (sólyakocsik) mozgatott úszólétesítmény elmozdulás elleni védelmét biztosító rögzítő eszközökkel kell ellátni.
+## .42[^114] A ferdepályás hajókiemelőt (sólya) az emelőfelületén (sólyakocsik) mozgatott úszólétesítmény elmozdulás elleni védelmét biztosító rögzítő eszközökkel kell ellátni.
 
 ## 2.2.6. Egyéb követelmények:
 
@@ -300,33 +300,33 @@
 
 ## .4 Az átkelőhelyen (mindkét parton) és a személykikötőben a menetrend és díjszabás kifüggesztésére alkalmas táblát kell elhelyezni.
 
-## 3.[^111]
+## 3.[^115]
 
 2. számú melléklet az 50/2002. (XII. 29.) GKM rendelethez
 
-[^86]: Az 1. számú melléklet címe a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^87]: Az 1. számú melléklet bevezető része a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^88]: Az 1. számú melléklet 1. pontját a 39/2003. (VI. 13.) GKM rendelet 5. §-a iktatta a szövegbe.
-[^89]: Az 1. számú melléklet 2.1. pontjának c) alpontja a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^90]: Az 1. számú melléklet 2.1. pontjának d) alpontja a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^91]: Az 1. számú melléklet 2.2. pontjának felvezető szövege a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^92]: 17/2002. (III. 7.) KöViM rendelet a hajózásra alkalmas, illetőleg hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításáról.
-[^93]: 151/2000. (IX. 1.) Korm. rendelet a nemzetközi jelentőségű víziutakról szóló Európai Megállapodás kihirdetéséről, II. függelék.
-[^94]: 5/1977. (XII. 3.) KPM rendelet a hajózási műszaki felügyeleti tevékenységre vonatkozó rendelkezéseknek, valamint a tengeri és a belvízi hajók műszaki felügyeleti előírásainak kiadásáról.
-[^95]: Az 1. számú melléklet 2.2.2. pontjának .10 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
-[^96]: Kihirdette a 151/2000. (IX. 1.) Korm. rendelet.
-[^97]: Az 1. számú melléklet 2.2.3. pontjának .3 alpontja a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^98]: Az 1. számú melléklet 2.2.3. pontjának .11 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
-[^99]: Az 1. számú melléklet 2.2.4. pont 1. alpontja a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^100]: Kihirdette az 151/2000. (IX. 1.) Korm. rendelet.
-[^101]: Az 1. számú melléklet 2.2.5. pontjának 12. alpontja a 81/2004. (V. 25.) GKM rendelet 1. §-ával megállapított szöveg.
-[^102]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról.
-[^103]: Az 1. számú melléklet 2.2.5. pontjának .25 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
-[^104]: Az 1. számú melléklet 2.2.5. pontjának .26 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
-[^105]: Az 1. számú melléklet 2.2.5. pontjának .27 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
-[^106]: Az 1. számú melléklet 2.2.5. pontjának .30 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
-[^107]: 20/1979. (IX. 18.) KPM rendelet a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás ,,A'' és ,,B'' mellékletének kihirdetéséről és belföldi alkalmazásáról.
-[^108]: Az 1. számú melléklet 2.2.5. pontjának .40 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
-[^109]: Az 1. számú melléklet 2.2.5. pontjának .41 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
-[^110]: Az 1. számú melléklet 2.2.5. pontjának .42 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
-[^111]: Az 1. számú melléklet 3. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^90]: Az 1. számú melléklet címe a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^91]: Az 1. számú melléklet bevezető része a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^92]: Az 1. számú melléklet 1. pontját a 39/2003. (VI. 13.) GKM rendelet 5. §-a iktatta a szövegbe.
+[^93]: Az 1. számú melléklet 2.1. pontjának c) alpontja a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^94]: Az 1. számú melléklet 2.1. pontjának d) alpontja a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^95]: Az 1. számú melléklet 2.2. pontjának felvezető szövege a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^96]: 17/2002. (III. 7.) KöViM rendelet a hajózásra alkalmas, illetőleg hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításáról.
+[^97]: 151/2000. (IX. 1.) Korm. rendelet a nemzetközi jelentőségű víziutakról szóló Európai Megállapodás kihirdetéséről, II. függelék.
+[^98]: 5/1977. (XII. 3.) KPM rendelet a hajózási műszaki felügyeleti tevékenységre vonatkozó rendelkezéseknek, valamint a tengeri és a belvízi hajók műszaki felügyeleti előírásainak kiadásáról.
+[^99]: Az 1. számú melléklet 2.2.2. pontjának .10 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
+[^100]: Kihirdette a 151/2000. (IX. 1.) Korm. rendelet.
+[^101]: Az 1. számú melléklet 2.2.3. pontjának .3 alpontja a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^102]: Az 1. számú melléklet 2.2.3. pontjának .11 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
+[^103]: Az 1. számú melléklet 2.2.4. pont 1. alpontja a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^104]: Kihirdette az 151/2000. (IX. 1.) Korm. rendelet.
+[^105]: Az 1. számú melléklet 2.2.5. pontjának 12. alpontja a 81/2004. (V. 25.) GKM rendelet 1. §-ával megállapított szöveg.
+[^106]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról.
+[^107]: Az 1. számú melléklet 2.2.5. pontjának .25 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
+[^108]: Az 1. számú melléklet 2.2.5. pontjának .26 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
+[^109]: Az 1. számú melléklet 2.2.5. pontjának .27 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
+[^110]: Az 1. számú melléklet 2.2.5. pontjának .30 alpontja a 80/2007. (IX. 19.) GKM rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
+[^111]: 20/1979. (IX. 18.) KPM rendelet a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás ,,A'' és ,,B'' mellékletének kihirdetéséről és belföldi alkalmazásáról.
+[^112]: Az 1. számú melléklet 2.2.5. pontjának .40 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
+[^113]: Az 1. számú melléklet 2.2.5. pontjának .41 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
+[^114]: Az 1. számú melléklet 2.2.5. pontjának .42 alpontját a 16/2006. (IV. 6.) GKM rendelet 8. § (5) bekezdése iktatta be.
+[^115]: Az 1. számú melléklet 3. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.

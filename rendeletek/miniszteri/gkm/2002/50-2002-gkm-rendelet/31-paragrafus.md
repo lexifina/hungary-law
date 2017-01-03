@@ -8,9 +8,9 @@
 
 (3) A hajózási hatóság – a hajózási létesítmény műszaki állapotától és üzemeltetési körülményeitől függően rövidebb üzemben tartási határidőt állapíthat meg.
 
-(4)[^67] A létesítmény vizsgálatának eredményeként a hajózási hatóság a hajózási létesítmény üzemben tartásának további engedélyezéséről dönt.
+(4)[^71] A létesítmény vizsgálatának eredményeként a hajózási hatóság a hajózási létesítmény üzemben tartásának további engedélyezéséről dönt.
 
-(5)[^68] Ha az üzemben tartási engedély időbeli hatálya lejárt, illetőleg az ellenőrzés során a hajózási hatóság az üzemben tartást megtiltotta, a hajózási létesítmény üzemét mindaddig szüneteltetni kell, amíg a hajózási hatóság – újabb vizsgálat eredményeként – a további üzemelést engedélyezi.
+(5)[^72] Ha az üzemben tartási engedély időbeli hatálya lejárt, illetőleg az ellenőrzés során a hajózási hatóság az üzemben tartást megtiltotta, a hajózási létesítmény üzemét mindaddig szüneteltetni kell, amíg a hajózási hatóság – újabb vizsgálat eredményeként – a további üzemelést engedélyezi.
 
-[^67]: A 31. § (4) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^68]: A 31. § (5) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^71]: A 31. § (4) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^72]: A 31. § (5) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -12,8 +12,8 @@ d) a nemzetközi szerződésekből eredő kötelezettségeket,
 
 e) a benyújtott helyreállítási tervet
 
-## és határoz a megszüntetés engedélyezéséről.
+és határoz a megszüntetés engedélyezéséről.
 
-(2)[^74] Abban az esetben, ha azt nemzetközi szerződéses kötelezettségből következően a hajózási létesítményt fenntartani célszerű, illetve kötelező, a hajózási hatóság tájékoztatja a közlekedésért felelős miniszter.
+(2)[^78] Abban az esetben, ha azt nemzetközi szerződéses kötelezettségből következően a hajózási létesítményt fenntartani célszerű, illetve kötelező, a hajózási hatóság tájékoztatja a közlekedésért felelős miniszter.
 
-[^74]: A 42. § (2) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: A 42. § (2) bekezdése a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

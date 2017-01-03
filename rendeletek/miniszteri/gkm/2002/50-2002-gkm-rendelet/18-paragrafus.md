@@ -1,8 +1,8 @@
 ## A határozat tartalma
 
-## 18. §[^35] Az engedély megadásáról vagy megtagadásáról hozott határozatnak tartalmaznia kell:
+## 18. §[^38] Az engedély megadásáról vagy megtagadásáról hozott határozatnak tartalmaznia kell:
 
-a)[^36] a létesítménnyel érintett ingatlan tulajdonosának (kezelőjének, tartós földhasználójának, haszonélvezőjének) – ha az nem azonos az engedélyessel – a nevét és címét,
+a)[^39] a létesítménnyel érintett ingatlan tulajdonosának (kezelőjének, tartós földhasználójának, haszonélvezőjének) – ha az nem azonos az engedélyessel – a nevét és címét,
 
 b) a hajózási létesítménnyel érintett földrészlet, vízterület helyrajzi számát, területének határait meghatározó pontjainak koordinátáit (EOV, GPS, folyamkilométer),
 
@@ -16,10 +16,10 @@ f) a hajózási létesítmény megvalósításával kapcsolatban szükségessé 
 
 g) más jogszabályokban előírt engedélyek beszerzésének kötelezettségére történő figyelemfelhívást,
 
-h)[^37] az engedély hatályának időtartamát,
+h)[^40] az engedély hatályának időtartamát,
 
 i) a létesítményre vonatkozó használatbavételi engedély kérésére való kifejezett felhívást.
 
-[^35]: A 18. § bevezető szövegrésze a 86/2005. (X. 21.) GKM rendelet 14. § (3) bekezdésével megállapított és a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^36]: A 18. § a) pontja a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^37]: A 18. § h) pontja a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: A 18. § bevezető szövegrésze a 86/2005. (X. 21.) GKM rendelet 14. § (3) bekezdésével megállapított és a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A 18. § a) pontja a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 18. § h) pontja a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

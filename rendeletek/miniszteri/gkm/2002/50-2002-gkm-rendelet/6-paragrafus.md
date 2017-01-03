@@ -2,7 +2,7 @@
 
 ## a rendeltetésmódosítási jogosultság igazolása
 
-## 6. §[^13] Ha e rendelet előírja a kérelmező létesítési, bontási, fennmaradási, rendeltetésmódosítási jogosultságának igazolását, a jogosultság a következő iratokkal igazolható:
+## 6. §[^14] Ha e rendelet előírja a kérelmező létesítési, bontási, fennmaradási, rendeltetésmódosítási jogosultságának igazolását, a jogosultság a következő iratokkal igazolható:
 
 a) hajózási létesítmény létesítésének, illetve fennmaradásának kérelmezése esetén az érintett földrészletre vonatkozó tulajdon- (kezelői, tartós földhasználati) jogát feltüntető ingatlan-nyilvántartási tulajdoni lap egy hónapnál nem régebbi hiteles másolatával, hagyatékátadó végzéssel, bírósági vagy államigazgatási határozattal, illetőleg a tulajdon (kezelői, tartós földhasználati) jogának az ingatlan-nyilvántartásba való bejegyzésére alkalmas szerződéssel, illetve – haszonélvezettel terhelt ingatlan esetében – a haszonélvező hozzájáruló nyilatkozatával vagy az ezt pótló jogerős bírósági ítélettel,
 
@@ -14,4 +14,4 @@ d) közös tulajdonban álló ingatlanon történő létesítés, illetve fennma
 
 e) a hajózási létesítmény területén vagy azt 50 m-nél kisebb távolságra megközelítő nyomvonalas létesítmény üzemben tartójának nyilatkozatával.
 
-[^13]: A 6. § felvezető szövege a 80/2007. (IX. 19.) GKM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni; 12. §-ának (3) bekezdése alapján az országos közforgalmú és saját használatú kikötők a korábban kiadott használatbavételi engedélyek alapján az engedély érvényességének lejártáig tarthatók üzemben.
+[^14]: A 6. § felvezető szövege a 80/2007. (IX. 19.) GKM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni; 12. §-ának (3) bekezdése alapján az országos közforgalmú és saját használatú kikötők a korábban kiadott használatbavételi engedélyek alapján az engedély érvényességének lejártáig tarthatók üzemben.

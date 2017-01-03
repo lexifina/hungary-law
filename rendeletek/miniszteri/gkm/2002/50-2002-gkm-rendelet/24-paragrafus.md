@@ -16,14 +16,14 @@ c) a létesítmény által érintett területen üzemelő közmű(vek) üzemben 
 
 d) szükség szerint a létesítési engedélyben előírt egyéb okmányokat (pl. minősítő okmány, szakvélemény) 1-1 példányban,
 
-e)[^48] a megvalósulási tervdokumentációt 3 példányban, valamint az engedélyezési eljárásba bevonandó szakhatóságok száma szerint további 1-1 példányban,
+e)[^52] a megvalósulási tervdokumentációt 3 példányban, valamint az engedélyezési eljárásba bevonandó szakhatóságok száma szerint további 1-1 példányban,
 
-f) kikötő esetében az üzemeltetési formára[^49] vonatkozó nyilatkozat, illetve erre vonatkozó dokumentumot[^50],
+f) kikötő esetében az üzemeltetési formára[^53] vonatkozó nyilatkozat, illetve erre vonatkozó dokumentumot[^54],
 
 g) azoknál a hajózási létesítményeknél, amelyekre jogszabály üzemeltetési szabályzatot vagy kikötőrendet (együtt szabályzat) ír elő, a kérelemhez csatolni kell a jóváhagyott szabályzatot vagy annak tervezetét.
 
 (3) Több megvalósítási szakaszra bontott hajózási létesítmény megvalósult részének használata és üzemben tartása érdekében a hajózási hatóság az érintetett a használatbavételi engedély iránti kérelem és mellékleteinek benyújtására kötelezheti.
 
-[^48]: A 24. § (2) bekezdésének e) pontja a 80/2007. (IX. 19.) GKM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
-[^49]: Lásd a víziközlekedésről szóló 2000. évi XLII. törvény 79. §-át.
-[^50]: Lásd a víziközlekedésről szóló 2000. évi XLII. törvény 80. §-át.
+[^52]: A 24. § (2) bekezdésének e) pontja a 80/2007. (IX. 19.) GKM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2007. október 4. napját követően indult eljárásokban kell alkalmazni.
+[^53]: Lásd a víziközlekedésről szóló 2000. évi XLII. törvény 79. §-át.
+[^54]: Lásd a víziközlekedésről szóló 2000. évi XLII. törvény 80. §-át.

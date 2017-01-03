@@ -4,7 +4,7 @@
 
 a) a megszüntetésre kerülő létesítmény megjelölését,
 
-b)[^75]
+b)[^79]
 
 c) a megszüntetés műszaki lebonyolítására vonatkozó részletes rendelkezéseket,
 
@@ -12,11 +12,11 @@ d) a környezet rehabilitáció során történő kialakításának főbb param�
 
 e) a megszüntetés és rehabilitáció során történő hatósági szemlék időpontjait,
 
-f) a munkálatok végzéséért felelős műszaki vezető[^76] nevét, címét, telefon-, telefaxszámát, jogosultságát,
+f) a munkálatok végzéséért felelős műszaki vezető[^80] nevét, címét, telefon-, telefaxszámát, jogosultságát,
 
 g) a munkálatok elvégzésének – szükség esetén szakaszokra bontott – határidejét,
 
 h) az engedélytől eltérő – vagy elmaradó – végrehajtás szankcionálási lehetőségére való figyelemfelhívást.
 
-[^75]: A 43. § b) pontját a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése hatályon kívül helyezte, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^76]: 51/2000. (VIII. 9.) FVM–GM–KöViM együttes rendelet az építőipari kivitelezési, valamint a felelős műszaki vezetői tevékenység gyakorlásának részletes szakmai szabályairól és az építési naplóról.
+[^79]: A 43. § b) pontját a 49/2009. (IX. 30.) KHEM rendelet 2. § (9) bekezdése hatályon kívül helyezte, e módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^80]: 51/2000. (VIII. 9.) FVM–GM–KöViM együttes rendelet az építőipari kivitelezési, valamint a felelős műszaki vezetői tevékenység gyakorlásának részletes szakmai szabályairól és az építési naplóról.

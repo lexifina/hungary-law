@@ -14,6 +14,6 @@ d) a létesítmény rendeltetésszerű használhatóságához szükséges járul
 
 e) a tervezőként megjelölt szerv, illetőleg személy rendelkezik-e a tervezés tárgya szerinti tervezői jogosultsággal.
 
-(2)[^34] A hajózási hatóság az engedély kiadását megtagadja, ha a tervezett hajózási létesítmény a 15. és 16. §-ban foglalt követelményeknek nem felel meg, vagy a helyi településrendezési tervvel és szabályokkal ellenkezik.
+(2)[^37] A hajózási hatóság az engedély kiadását megtagadja, ha a tervezett hajózási létesítmény a 15. és 16. §-ban foglalt követelményeknek nem felel meg, vagy a helyi településrendezési tervvel és szabályokkal ellenkezik.
 
-[^34]: A 17. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja, a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^37]: A 17. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 53. pontja, a 49/2009. (IX. 30.) KHEM rendelet 2. § (8) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
