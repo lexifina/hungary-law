@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-72-20-0
 | 2010-05-01 | 2003-72-20-0L.4 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2012-04-27 | 2003-72-20-0L.5 | 19/2012. (IV. 26.) NFM rendelet |
 | 2015-01-21 | 2003-72-20-0L.6 | 2/2015. (I. 20.) NFM rendelet |
+| 2017-01-03 | 2003-72-20-0L.7 | 21/2023. (VIII. 30.) GFM rendelet |

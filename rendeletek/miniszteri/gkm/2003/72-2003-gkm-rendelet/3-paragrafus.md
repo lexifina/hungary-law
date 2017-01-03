@@ -20,7 +20,7 @@ A Szabályzat tárgya olyan tevékenység szabályozása, melynek során a munk�
 
 2. Meghatározások
 
-2.1.[^3] FAM tevékenységhez használt eszközök
+2.1.[^5] FAM tevékenységhez használt eszközök
 
 A FAM tevékenységhez használt munkaeszközök és egyéni védőeszközök összessége (a továbbiakban: FAM eszközök).
 
@@ -38,9 +38,9 @@ Ezen belül középfeszültség (a továbbiakban: KöF) ahol a feszültség név
 
 2.3. Előírt távolságok
 
-2.3.1.[^4] Munkavégzés legkisebb védőtávolsága (a továbbiakban: legkisebb megközelítési távolság): az a levegőben mérhető legkisebb munkavégzési védőtávolság, melyet a munkát végző személy bármely testrésze vagy a kezében tartott vezető anyagú szerszám és a tőle eltérő potenciálú (feszültség alatt álló, vagy földelt) részek között kell betartani ahhoz, hogy áramütés ne következhessék be.
+2.3.1.[^6] Munkavégzés legkisebb védőtávolsága (a továbbiakban: legkisebb megközelítési távolság): az a levegőben mérhető legkisebb munkavégzési védőtávolság, melyet a munkát végző személy bármely testrésze vagy a kezében tartott vezető anyagú szerszám és a tőle eltérő potenciálú (feszültség alatt álló, vagy földelt) részek között kell betartani ahhoz, hogy áramütés ne következhessék be.
 
-2.3.1.1.[^5] A beavatkozó szerelőnek földpotenciálú munkaállásról végzett munkáknál a feszültség alatt álló csupasz szerkezeti részektől, potenciálon végzett munkáknál a földelt részektől és az eltérő potenciálú feszültség alatt álló csupasz szerkezeti részektől kell a legkisebb megközelítési távolságot tartania. Az előírt értékeket az 1. számú táblázat tartalmazza.
+2.3.1.1.[^7] A beavatkozó szerelőnek földpotenciálú munkaállásról végzett munkáknál a feszültség alatt álló csupasz szerkezeti részektől, potenciálon végzett munkáknál a földelt részektől és az eltérő potenciálú feszültség alatt álló csupasz szerkezeti részektől kell a legkisebb megközelítési távolságot tartania. Az előírt értékeket az 1. számú táblázat tartalmazza.
 
 1. számú táblázat
 
@@ -78,7 +78,7 @@ Ezen belül középfeszültség (a továbbiakban: KöF) ahol a feszültség név
 
 Az előírt értékek:
 
-3.[^6] számú táblázat
+3.[^8] számú táblázat
 
 | Un | Legkisebb légköz (m) |
 
@@ -94,7 +94,7 @@ Az előírt értékek:
 
 2.3.3.3. Potenciálon végzett munkára nem alkalmas az olyan nagyfeszültségű berendezés, amelyen bármelyik – a fentiek szerint mérhető – távolság kisebb, mint a legkisebb biztonsági távolság.
 
-2.4.[^7] Munkaállás
+2.4.[^9] Munkaállás
 
 A munkaállás a beavatkozó szerelőnek az a helye, ahonnan a feszültség alatt álló részeken a beavatkozást végzi.
 
@@ -104,7 +104,7 @@ A munkaállás a beavatkozó szerelőnek az a helye, ahonnan a feszültség alat
 
 2.4.3. Határozatlan potenciálú munkaállás: a beavatkozó szerelő mind a földtől, mind a feszültség alatt álló részektől teljes értékű szigeteléssel elszigetelve végzi a munkát.
 
-2.5.[^8] FAM tevékenység munkamódszerei
+2.5.[^10] FAM tevékenység munkamódszerei
 
 2.5.1. Távolból végzett munka: a feszültség alatti munkavégzésnek az a módja, amikor a dolgozó a feszültség alatt lévő résztől meghatározott távolságból (a legkisebb megközelítési távolságon kívül) szigetelő rudak segítségével végzi a munkáját.
 
@@ -130,7 +130,7 @@ A munkaállás a beavatkozó szerelőnek az a helye, ahonnan a feszültség alat
 
 2.7.4. Kiszolgáló személy: betanított és kioktatott személy, aki a földön vagy földelt szerkezeteken a feszültségtől távol dolgozik és a beavatkozó szerelők munkáját segíti.
 
-2.8.[^9] Dokumentációk
+2.8.[^11] Dokumentációk
 
 A 2.8. pontban szereplő dokumentumokat – a 2.8.7.2. szerinti FAM tevékenység engedélyt kivéve – a FAM tevékenységet végző szervezet telephelyén hozzáférhetően kell tárolni. A FAM tevékenység engedély a FAM munkavégzés helyszínén kell rendelkezésre álljon.
 
@@ -148,7 +148,7 @@ Tartalma:
 
 – a tennivalók a munkák előkészítése és lebonyolítása során.
 
-2.8.2.[^10] Átvételi és periodikus vizsgálatok gyűjteménye (a továbbiakban: ÁPVGy)
+2.8.2.[^12] Átvételi és periodikus vizsgálatok gyűjteménye (a továbbiakban: ÁPVGy)
 
 A FAM eszközök első használatbavételét megelőző, illetve a használat során időszakonként szükséges vizsgálati módszerek leírását tartalmazza.
 
@@ -160,7 +160,7 @@ Tartalma:
 
 – a dokumentáció jóváhagyásának kelte,
 
-–[^11]
+–[^13]
 
 2.8.3. Műszaki lap (a továbbiakban: ML)
 
@@ -184,7 +184,7 @@ c) az eszközzel elvégezhető műveletek,
 
 d) a dokumentáció jóváhagyásának kelte,
 
-e)[^12] egyéni védőeszköz esetén annak tájékoztatója és abba beépítve vagy külön megjelenítve az EK megfelelőségi nyilatkozat, illetve az EK típustanúsítvány másolata.
+e)[^14] egyéni védőeszköz esetén annak tájékoztatója és abba beépítve vagy külön megjelenítve az EK megfelelőségi nyilatkozat, illetve az EK típustanúsítvány másolata.
 
 2.8.4. FAM Minősítő Lap (a továbbiakban: FAM MinL)
 
@@ -226,7 +226,7 @@ d) az időszakos felülvizsgálat
 
 – javításra vonatkozó adatok,
 
-e)[^13] egyéni védőeszköz esetén a külön jogszabály[^14] szerinti EK megfelelőségi nyilatkozat.
+e)[^15] egyéni védőeszköz esetén a külön jogszabály[^16] szerinti EK megfelelőségi nyilatkozat.
 
 2.8.5. Műveleti Mód (a továbbiakban: MM)
 
@@ -264,7 +264,7 @@ e) a munka végrehajtásának részletes leírása,
 
 f) a dokumentáció jóváhagyásának kelte.
 
-2.8.7.[^15] Egyéb dokumentumok
+2.8.7.[^17] Egyéb dokumentumok
 
 2.9.1. FAM feljogosítási igazolvány
 
@@ -390,7 +390,7 @@ b) Megbízható munkavezetőként: ha a munkavégzéshez – rajta kívül – k
 
 3.6. Nagyfeszültségű (NaF) feljogosítás (fokozatok és ellátható feladatok)
 
-3.6.1.[^16] NaF-1 feljogosítású beavatkozó szerelő (a továbbiakban: NaF szerelő) FAM tevékenységet végezhet nagyfeszültségű berendezésen, nagyfeszültség közelében a földön, földelt tartószerkezeten, vagy földelt tartószerkezetről teljes szigetelésű (teljes fázisfeszültségre szigetelt) szerszámmal távolról a NaF munkavégrehajtási feltételekben meghatározott esetekben, egyéni védőeszközzel vagy e nélkül, munkavezetőként megbízott NaF-2 vagy NaF-3 szerelő irányítása és felügyelete alatt.
+3.6.1.[^18] NaF-1 feljogosítású beavatkozó szerelő (a továbbiakban: NaF szerelő) FAM tevékenységet végezhet nagyfeszültségű berendezésen, nagyfeszültség közelében a földön, földelt tartószerkezeten, vagy földelt tartószerkezetről teljes szigetelésű (teljes fázisfeszültségre szigetelt) szerszámmal távolról a NaF munkavégrehajtási feltételekben meghatározott esetekben, egyéni védőeszközzel vagy e nélkül, munkavezetőként megbízott NaF-2 vagy NaF-3 szerelő irányítása és felügyelete alatt.
 
 Irányítja a NaF kiszolgáló személyek által a földön végzett – a saját munkájával közvetlenül kapcsolódó – tevékenységet.
 
@@ -398,7 +398,7 @@ Irányítja a NaF kiszolgáló személyek által a földön végzett – a sajá
 
 a) A NaF-1 szerelő teljes feladatköre.
 
-b)[^17] FAM tevékenységet végezhet nagyfeszültségű berendezésen egyéni védőeszközzel nagyfeszültséggel érintkezésben, teljes potenciálon, vagy a feszültségtől és földtől elszigetelten, határozatlan potenciálon, másik NaF-2 szerelő jelenlétében (és felügyelete mellett), aki helyettesíteni tudja,
+b)[^19] FAM tevékenységet végezhet nagyfeszültségű berendezésen egyéni védőeszközzel nagyfeszültséggel érintkezésben, teljes potenciálon, vagy a feszültségtől és földtől elszigetelten, határozatlan potenciálon, másik NaF-2 szerelő jelenlétében (és felügyelete mellett), aki helyettesíteni tudja,
 
 c) Megbízható munkavezetőként olyan nagyfeszültségű FAM tevékenység végzése esetén, ahol a munkavégzéshez – rajta kívül – egy vagy két NaF-1 vagy NaF-2 szerelő és legfeljebb két NaF kiszolgáló személy szükséges.
 
@@ -414,9 +414,9 @@ c) Munkavezető olyan nagyfeszültségű FAM tevékenység végzése esetén, ah
 
 d) A munka irányításán túlmenően és azzal egyidejűleg felügyel a teljes munkacsoportra, a többszemélyes kapcsolódó műveletek, a technika, az eszközök, a technológia, a munkába vett berendezés és saját maga biztonságára.
 
-3.6.4.[^18] NaF kiszolgáló személy elláthat nagyfeszültségű berendezésen végzett FAM tevékenység esetén kisegítő és előkészítő jellegű feladatokat a földön, a NaF munkavégrehajtási feltételekben meghatározott esetekben egyéni védőeszközzel vagy anélkül, NaF-1 vagy NaF-2 szerelő irányításával, így különösen anyagmozgatás, szerszámok és anyagok felhúzása és leeresztése, vontatási feladatok ellátása, rakodás, megbízás esetén a helyszín biztosítása.
+3.6.4.[^20] NaF kiszolgáló személy elláthat nagyfeszültségű berendezésen végzett FAM tevékenység esetén kisegítő és előkészítő jellegű feladatokat a földön, a NaF munkavégrehajtási feltételekben meghatározott esetekben egyéni védőeszközzel vagy anélkül, NaF-1 vagy NaF-2 szerelő irányításával, így különösen anyagmozgatás, szerszámok és anyagok felhúzása és leeresztése, vontatási feladatok ellátása, rakodás, megbízás esetén a helyszín biztosítása.
 
-4.[^19] FAM eszközök vizsgálata
+4.[^21] FAM eszközök vizsgálata
 
 Az átvételi vizsgálatot és az időszakos felülvizsgálatot a FAM Bizottság által megfelelőnek minősített vizsgálólaboratórium végzi és azt a FAM MinL-on (2.8.4. pont) dokumentálja. A vizsgálatok elvégeztetéséről a FAM tevékenységet végző gondoskodik.
 
@@ -430,7 +430,7 @@ A FAM eszközöket az első használatbavétel előtt és javítást követően 
 
 4.2.2. Az időszakos felülvizsgálatot munkaeszköz esetében az ÁPVGy, egyéni védőeszköz esetében annak tájékoztatójában meghatározott követelmények, illetőleg a vonatkozó szabványok alapján kell elvégezni.
 
-4.2.3. Az egyéni védőeszköz időszakos felülvizsgálatát a külön jogszabályban[^20] meghatározottak szerint a FAM tevékenységet végző kérelmére a gyártó vagy bejelentett szerv végezheti.
+4.2.3. Az egyéni védőeszköz időszakos felülvizsgálatát a külön jogszabályban[^22] meghatározottak szerint a FAM tevékenységet végző kérelmére a gyártó vagy bejelentett szerv végezheti.
 
 4.2.4. Az időszakos felülvizsgálaton nem megfelelőnek bizonyult FAM eszközöket javításra kell küldeni, vagy selejtezni kell.
 
@@ -570,9 +570,9 @@ e) meg kell határoznia minden dolgozó személyes munkavégzési és irányít�
 
 7.3.1. Munkavezető feladata.
 
-7.3.1.1.[^21] A munkavezető az érvényes FAM tevékenység engedély birtokában a munka megkezdése előtt
+7.3.1.1.[^23] A munkavezető az érvényes FAM tevékenység engedély birtokában a munka megkezdése előtt
 
-a)[^22] gondoskodik a szükséges FAM eszközök meglétének és munkavégzésre való alkalmasságának ellenőrzéséről, szükség szerint beavatkozó szerelő bevonásával,
+a)[^24] gondoskodik a szükséges FAM eszközök meglétének és munkavégzésre való alkalmasságának ellenőrzéséről, szükség szerint beavatkozó szerelő bevonásával,
 
 b) meggyőződik a biztonságos munkavégzés feltételeinek meglétéről,
 
@@ -660,23 +660,23 @@ c) értesíti az üzemviteli vezetőt a munka befejezéséről, teljesítésér�
 
 d) rögzíti a FAM tevékenység engedélyen a munka befejezésének tényét és esetleges hiányosságait, az üzemviteli vezető értesítésének tényét, átadja, illetve eljuttatja a FAM tevékenység engedélyt az üzemviteli vezetőnek.
 
-[^3]: A melléklet 2.1. pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
-[^4]: A melléklet 2.3.1. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
-[^5]: A melléklet 2.3.1.1. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
-[^6]: A melléklet 2. számú táblázat számozását a 60/2005. (VII. 18.) GKM rendelet 2. §-ának c) pontja 3. számú táblázatra változtatta.
-[^7]: A melléklet 2.4. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
-[^8]: A melléklet 2.5. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
-[^9]: A melléklet 2.8. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-a szerint kiegészített szöveg.
-[^10]: A melléklet 2.8.2. pontjának címe a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
-[^11]: A melléklet 2.8.2. pontjának negyedik francia bekezdését a 60/2005. (VII. 18.) GKM rendelet 2. §-ának a) pontja hatályon kívül helyezte.
-[^12]: A melléklet 2.8.3. e) pontját a 60/2005. (VII. 18.) GKM rendelet 1. §-a iktatta a szövegbe.
-[^13]: A melléklet 2.8.4. e) pontját a 60/2005. (VII. 18.) GKM rendelet 1. §-a iktatta a szövegbe.
-[^14]: Az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 2/2002. (II. 7.) SZCSM rendelet.
-[^15]: A melléklet 2.9. pontjának címét és számozását a 60/2005. (VII. 18.) GKM rendelet 1. §-a megállapította, illetve változtatta.
-[^16]: A melléklet 3.6.1. pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
-[^17]: A melléklet 3.6.2. b) pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
-[^18]: A melléklet 3.6.4. pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
-[^19]: A melléklet 4–4.2.6. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
-[^20]: Az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 2/2002. (II. 7.) SZCSM rendelet.
-[^21]: A melléklet 7.3.1.1. pontjának felvezető szövege a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
-[^22]: A melléklet 7.3.1.1. a) pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^5]: A melléklet 2.1. pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
+[^6]: A melléklet 2.3.1. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^7]: A melléklet 2.3.1.1. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^8]: A melléklet 2. számú táblázat számozását a 60/2005. (VII. 18.) GKM rendelet 2. §-ának c) pontja 3. számú táblázatra változtatta.
+[^9]: A melléklet 2.4. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^10]: A melléklet 2.5. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^11]: A melléklet 2.8. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-a szerint kiegészített szöveg.
+[^12]: A melléklet 2.8.2. pontjának címe a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^13]: A melléklet 2.8.2. pontjának negyedik francia bekezdését a 60/2005. (VII. 18.) GKM rendelet 2. §-ának a) pontja hatályon kívül helyezte.
+[^14]: A melléklet 2.8.3. e) pontját a 60/2005. (VII. 18.) GKM rendelet 1. §-a iktatta a szövegbe.
+[^15]: A melléklet 2.8.4. e) pontját a 60/2005. (VII. 18.) GKM rendelet 1. §-a iktatta a szövegbe.
+[^16]: Az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 2/2002. (II. 7.) SZCSM rendelet.
+[^17]: A melléklet 2.9. pontjának címét és számozását a 60/2005. (VII. 18.) GKM rendelet 1. §-a megállapította, illetve változtatta.
+[^18]: A melléklet 3.6.1. pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
+[^19]: A melléklet 3.6.2. b) pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
+[^20]: A melléklet 3.6.4. pontja a 60/2005. (VII. 18.) GKM rendelet 2. §-ának b) pontja szerint módosított szöveg.
+[^21]: A melléklet 4–4.2.6. pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^22]: Az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 2/2002. (II. 7.) SZCSM rendelet.
+[^23]: A melléklet 7.3.1.1. pontjának felvezető szövege a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
+[^24]: A melléklet 7.3.1.1. a) pontja a 60/2005. (VII. 18.) GKM rendelet 1. §-ával megállapított szöveg.
