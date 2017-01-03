@@ -62,6 +62,8 @@
 
 ## (Date on which the keel was laid or ship was at a similar stage of construction:)
 
+## 4M12288_1
+
 | Szabadoldal kijelölve, mint:3 Freeboard assigned as: Új hajó A new ship Meglévő hajó An existing ship Szabadoldal a fedélzetvonaltól4 Freeboard from deck line | Hajó típusa2 Type of ship „A” típusú Type „A” „B” típusú Type „B” „B” típusú csökkentett szabadoldallal Type „B” with reduced freeboard „B” típusú növelt szabadoldallal Type „B” with increased freeboard Merülésvonal4 Load Line |
 
 ## 3 Nem kívánt törlendő.
@@ -825,4 +827,4 @@
 [^7]: Nem kívánt törlendő.
 [^8]: Az Igazgatás által az Egyezmény 19(1) cikkének megfelelően előírt lejárati dátumot kell beírni. E dátum hónapja és napja feleljen meg az Egyezmény 2(9) cikkében meghatározott évforduló dátumnak, kivéve, ha az Egyezmény 19(8) cikke alapján módosítva lett.
 [^9]: A nem kívánt rész törlendő
-[^10]: A 4. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 62. §-a szerint módosított szöveg.
+[^10]: A 4. számú melléklet az 1/2017. (I. 3.) NFM rendelet 44. § a) pontja szerint módosított szöveg.

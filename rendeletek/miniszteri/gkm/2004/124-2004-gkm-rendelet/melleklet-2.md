@@ -504,6 +504,8 @@
 
 ## melyek nyílásfedelei megfelelnek a 15(7) vagy a 16. szabálynak
 
+## 4M12239_1
+
 | Hajó hossza (méter) | Szabadoldal növelés (milliméter) | Hajó hossza (méter) | Szabadoldal növelés (milliméter) | Hajó hossza (méter) | Szabadoldal növelés (milliméter) |
 
 | 108 és alatta | 50 | 139 | 175 | 170 | 290 |
@@ -1556,7 +1558,7 @@
 
 2. számú melléklet a 124/2004. (X. 19.) GKM rendelethez
 
-## ZÓNÁK, KÖRZETEK ÉS ÉVSZAKI IDŐSZAKOK
+ZÓNÁK, KÖRZETEK ÉS ÉVSZAKI IDŐSZAKOK
 
 ## ZÓNÁK, KÖRZETEK ÉS ÉVSZAKI IDŐSZAKOK
 

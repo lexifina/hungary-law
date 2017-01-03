@@ -16,17 +16,17 @@
 
 ## under the authority of the Government of
 
-## a Magyar Köztársaság
+## a MAGYARORSZÁG
 
-## Republic of Hungary
+## Hungary
 
 ## Kormányának felhatalmazása alapján
 
 ## by
 
-## a Nemzeti Közlekedési Hatóság Központi Hivatala
+## a Budapest Főváros Kormányhivatala
 
-## Central Office of the National Transport Authority
+## Government Office of the Capital City Budapest
 
 ## által.
 
@@ -466,17 +466,17 @@ INTERNATIONAL CONVENTION ON LOAD LINES, 1966, as modified by the Protocol of 198
 
 under the authority of the Government of
 
-a Magyar Köztársaság
+a MAGYARORSZÁG
 
-Republic of Hungary
+Hungary
 
 Kormányának felhatalmazása alapján
 
 by
 
-a Nemzeti Közlekedési Hatóság Központi Hivatala
+a Budapest Főváros Kormányhivatala
 
-Central Office of the National Transport Authority
+Government Office of the Capital City Budapest
 
 által
 
@@ -822,7 +822,7 @@ Date: ………………………………………
 [^13]: A hajó esetében érdektelen szabadoldalakat merülésvonalakat nem kell bevezetni a bizonyítványba. A térbeosztási merülésvonalat önkéntes alapon lehet bevezetni a bizonyítványba.
 [^14]: Az Igazgatás által az Egyezmény 19(1) cikkének megfelelően előírt lejárati dátumot kell beírni. E dátum hónapja és napja feleljen meg az Egyezmény 2(9) cikkében meghatározott évforduló dátumnak, kivéve, ha az Egyezmény 19(8) cikke alapján módosítva lett.
 [^15]: A nem kívánt rész törlendő.
-[^16]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 62. §-a szerint módosított szöveg.
+[^16]: Az 5. melléklet az 1/2017. (I. 3.) NFM rendelet 44. § b) pontja szerint módosított szöveg.
 [^17]: Vagylagosan, a hajó adatait vízszintesen keretekben is el lehet helyezni.
 [^18]: Az A.600(15) − IMO Hajó azonosítószám rendszer tárgyú határozatnak megfelelően ez az információ önkéntesen foglalható bele.
 [^19]: Nem kívánt törlendő.
