@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-22-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-02-07 | 1992-22-20-6B.2 | 22/1992. (XI. 25.) KHVM—HM—BM együttes rendelet |
+| 2017-01-03 | 1992-22-20-6B.3 | 1/2017. (I. 3.) NFM rendelet |
