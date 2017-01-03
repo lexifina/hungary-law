@@ -1,4 +1,4 @@
-## 24. §[^1]
+## 24. §[^2]
 
 1. melléklet a 418/2016. (XII. 14.) Korm. rendelethez
 
@@ -46,4 +46,4 @@
 
 21. Ön, illetve házas- vagy élettársa vonatkozásában külföldi hírszerző szolgálat vagy annak fedőszerve munkatársával létesített új kapcsolat (XII/8.)
 
-[^1]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
