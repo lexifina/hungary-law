@@ -1,5 +1,3 @@
-## látja el.
-
 ## Az ágazati szervek általános feladatai
 
 8. § (1) Az ágazati szervek feladat- és hatáskörüknek, illetőleg tevékenységi körüknek megfelelően vesznek részt a katasztrófavédelem – alábbi – ágazati feladatainak végrehajtásában:

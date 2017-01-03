@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya a Gazdasági és Közlekedési Minisztérium (a továbbiakban: minisztérium), a minisztérium felügyelete alá tartozó költségvetési szervek és a minisztérium ágazati irányítási körébe tartozó gazdálkodó szervezetek (a továbbiakban együtt: ágazati szervek) katasztrófavédelemmel kapcsolatos feladataira terjed ki.
+## 1. §[^1] A rendelet hatálya a Nemzeti Fejlesztési Minisztérium (a továbbiakban: minisztérium), a minisztérium felügyelete alá tartozó költségvetési szervek és a minisztérium ágazati irányítási körébe tartozó gazdálkodó szervezetek (a továbbiakban együtt: ágazati szervek) katasztrófavédelemmel kapcsolatos feladataira terjed ki.
 
 ## A katasztrófavédelem minisztériumi feladatai és ellátásuk szervezeti követelményei
 
@@ -18,11 +18,12 @@ f) intézkedik a katasztrófahelyzet, veszélyhelyzet és szükséghelyzet eset�
 
 g) meghatározza a katasztrófavédelemmel kapcsolatos ágazati kutatási és műszaki-fejlesztési feladatokat,
 
-h) a külön jogszabályban[^1] és miniszteri utasításban[^2] meghatározott minisztériumi Főügyeletet működtet a katasztrófavédelemmel kapcsolatos információs és koordinációs feladatai ellátására,
+h) a külön jogszabályban[^2] és miniszteri utasításban[^3] meghatározott minisztériumi Főügyeletet működtet a katasztrófavédelemmel kapcsolatos információs és koordinációs feladatai ellátására,
 
 i) gondoskodik katasztrófahelyzet, veszélyhelyzet és szükséghelyzet esetére a minisztériumi válságkezelő központ kialakításáról és működtetéséről,
 
 j) tervezi és biztosítja a tárca katasztrófavédelmi feladatainak ellátásához szükséges szervezeti, személyi, anyagi-technikai és pénzügyi (költségvetési) feltételeket.
 
-[^1]: A rendkívüli események jelentési rendjéről és a biztonságot növelő szolgálat elrendeléséről szóló 17/1989. (IX. 24.) KeM rendelet.
-[^2]: A közlekedési, hírközlési és vízügyi ágazat rendkívüli eseményeinek bejelentési rendjéről és ügyeleti szolgálatáról szóló 3/1994. (K.H.Ért. 12.) KHVM utasítás.
+[^1]: Az 1. § az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A rendkívüli események jelentési rendjéről és a biztonságot növelő szolgálat elrendeléséről szóló 17/1989. (IX. 24.) KeM rendelet.
+[^3]: A közlekedési, hírközlési és vízügyi ágazat rendkívüli eseményeinek bejelentési rendjéről és ügyeleti szolgálatáról szóló 3/1994. (K.H.Ért. 12.) KHVM utasítás.

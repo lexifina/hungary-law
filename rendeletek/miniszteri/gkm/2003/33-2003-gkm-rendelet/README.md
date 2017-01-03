@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-33-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-01 | 2003-33-20-0L.4 | 33/2003. (V. 20.) GKM rendelet |
+| 2017-01-03 | 2003-33-20-0L.5 | 1/2017. (I. 3.) NFM rendelet |
