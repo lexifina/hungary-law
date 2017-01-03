@@ -3514,7 +3514,7 @@
 
 2. melléklet a 18/1998. (VII. 3.) KHVM rendelethez[^10]
 
-## Metró Jármű Szabályzat
+Metró Jármű Szabályzat
 
 1. Általános követelmények
 
@@ -4298,7 +4298,7 @@ A fékberendezések ellenőrzése során igazolni kell, hogy
 
 3.1.11. a próbapálya sebességmérő és fékútmérő szakaszaiba kitérő nem telepíthető;
 
-3.1.12.[^12] a próbapálya hosszát – a fékútmérő szakasz kivételével – olyan gépi berendezések alkalmazásával lehet csökkenteni, amelyek kimagasló biztonságtechnikai színvonalat képviselnek és azok alkalmazásához a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) Közép-magyarországi Regionális Igazgatósága – az NKH Közép-magyarországi Regionális Igazgatósága bevonásával – hozzájárult.
+3.1.12.[^12] a próbapálya hosszát – a fékútmérő szakasz kivételével – olyan gépi berendezések alkalmazásával lehet csökkenteni, amelyek kimagasló biztonságtechnikai színvonalat képviselnek és azok alkalmazásához a közlekedési hatóság hozzájárult.
 
 3.2. A fékútmérés során a kerék és sín közti tapadást homokolással vagy más módszerrel javítani nem szabad.
 
@@ -5330,13 +5330,13 @@ a jelenléti íven feltüntettek jelenlétében
 
 Tárgy:
 
-A ................................ (az üzemeltető teljes neve) tulajdonában lévő ................... pályaszámú ................... típusú az NKH ....................... Regionális Igazgatósága ........................... számú határozata értelmében megtartott hatósági járművizsgája.
+A ................................ (az üzemeltető teljes neve) tulajdonában lévő ................... pályaszámú ................... típusú az [eljáró közlekedési hatóság megnevezése] ........................... számú határozata értelmében megtartott hatósági járművizsgája.
 
 Eljárás:
 
 Az eljárás vezetője megállapítja, hogy a tárgyi jármű látható részei az általános biztonsági és esztétikai követelményeknek megfelelnek / nem felelnek meg,* azon a forgalom biztonsága szempontjából szükséges berendezések megvannak / nincsenek meg*.
 
-A jármű főbb egységei és méretei az NKH Közép-magyarországi Regionális Igazgatósága ............ számon jóváhagyott engedélyezési dokumentációjának, a végrehajtott mérésekkel igazoltan megfelelnek / nem felelnek meg*.
+A jármű főbb egységei és méretei az [eljáró közlekedési hatóság megnevezése] ............ számon jóváhagyott engedélyezési dokumentációjának, a végrehajtott mérésekkel igazoltan megfelelnek / nem felelnek meg*.
 
 A fenti dokumentumok alapján sor került a tárgy szerinti jármű, ............... (vonal megnevezése) vonalon a hatósági próbamenet megtartására. A ............. km/h legnagyobb sebességgel megtartott próbamenet alkalmával a kocsi egyenesben és kanyarban nyugodt / nyugtalan* járásúnak bizonyult, a jármű berendezései, kezelőszervei az elvégzett vizsgálatok során jól / rosszul* működtek, az eredményes hatósági járművizsgát kizáró probléma nem jelentkezett / jelentkezett*.
 
@@ -5436,5 +5436,5 @@ ___________
 [^9]: Az 1. melléklet 10. fejezetének 10.8. pontja a 95/2006. (XII. 27.) GKM rendelet 20. § a) pontja szerint módosított szöveg.
 [^10]: A 2. mellékletet a 44/2005. (VI. 17.) GKM rendelet 2. §-a iktatta be, egyidejűleg az eredeti melléklet jelölését 1. mellékletre változtatva. E módosító rendelet 3. §-ának (1) bekezdése alapján a hatósági engedélyköteles tevékenységek tekintetében a már folyamatban lévő eljárást a korábbi rendelkezések szerint kell befejezni. További alkalmazási rendelkezések tekintetében lásd e módosító rendelet 3. §-ának (2) bekezdését és 4. §-át.
 [^11]: A 2. melléklet 3.1. pontja a 32/2015. (VI. 19.) NFM rendelet 1. §-ával megállapított szöveg.
-[^12]: A 2. melléklet I. függelékének 3.1.12. pontja a 95/2006. (XII. 27.) GKM rendelet 20. § b)–c) pontja szerint módosított szöveg.
-[^13]: A 2. melléklet VII. függeléke a 95/2006. (XII. 27.) GKM rendelet 20. § d)–e) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet I. függelék 3.1.12. pontja az 1/2017. (I. 13.) NFM rendelet 12. § a) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet VII. függeléke az 1/2017. (I. 13.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
