@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-7-20-6B
 | --- | --- | --- |
 | 2007-01-01 | 1995-7-20-6B.5 | 7/1995. (V. 30.) KHVM rendelet |
 | 2014-01-01 | 1995-7-20-6B.6 | 75/2013. (XII. 18.) BM rendelet |
+| 2017-01-03 | 1995-7-20-6B.7 | 1/2017. (I. 3.) NFM rendelet |
