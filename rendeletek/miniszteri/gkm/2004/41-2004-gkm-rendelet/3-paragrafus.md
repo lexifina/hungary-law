@@ -2,15 +2,15 @@
 
 a) a megkülönböztető jelzést használó gépjármű vezetéséhez,
 
-b) a külön jogszabályban[^8] meghatározott közúti közlekedési szolgáltatást végző gépjármű vezetéséhez,
+b) a külön jogszabályban[^9] meghatározott közúti közlekedési szolgáltatást végző gépjármű vezetéséhez,
 
 c) a (4) bekezdés b) pontjának ba) és bb) alpontjában meghatározott nemzetközi közúti személyszállítást végző autóbusz vezetéséhez,
 
 d) a (4) bekezdés c) pontjában meghatározott nemzetközi közúti áruszállítást végző tehergépkocsi, vontató, nyerges vontató és járműszerelvény vezetéséhez,
 
-e) a külön jogszabályban[^9] meghatározott veszélyes áru szállítását végző gépjármű vezetéséhez,
+e) a külön jogszabályban[^10] meghatározott veszélyes áru szállítását végző gépjármű vezetéséhez,
 
-f) ha azt a gépjárművezető előzetes orvosi vizsgálata során – a külön jogszabályban[^10] foglaltak szerint – elrendelték.
+f) ha azt a gépjárművezető előzetes orvosi vizsgálata során – a külön jogszabályban[^11] foglaltak szerint – elrendelték.
 
 (2) Rendkívüli pályaalkalmassági vizsgálat szükséges:
 
@@ -36,9 +36,9 @@ ba) a közúti közlekedési szolgáltatás keretében személyszállítást vé
 
 bb) a nemzetközi közúti személyszállítást végző autóbusz, amelyben a vezetőülésen kívül legalább 17 állandó ülőhely van,
 
-bc)[^11] a veszélyes áru szállítását végző gépjármű
+bc)[^12] a veszélyes áru szállítását végző gépjármű
 
-## vezetése,
+vezetése,
 
 c) III. alkalmassági kategória:
 
@@ -46,7 +46,7 @@ ca) a 7500 kg megengedett legnagyobb össztömeget meghaladó, közúti közleke
 
 cb) a 7500 kg megengedett legnagyobb össztömeget meghaladó, nemzetközi közúti áruszállítást végző tehergépkocsi, vontató, nyerges vontató és járműszerelvény
 
-## vezetése,
+vezetése,
 
 d) IV. alkalmassági kategória: az a)–c) pontban nem említett gépjármű vezetése.
 
@@ -56,7 +56,7 @@ d) IV. alkalmassági kategória: az a)–c) pontban nem említett gépjármű ve
 
 (7) A megkülönböztető jelzést használó gépjármű vezetésére az I. alkalmassági kategóriában megállapított pályaalkalmassági minősítés (időszakos minősítés) legfeljebb öt évig érvényes.
 
-[^8]: A közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet.
-[^9]: A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás kihirdetéséről szóló 19/1979. évi 19. törvényerejű rendelet.
-[^10]: A közúti járművezetők egészségi alkalmasságának megállapításáról 13/1992. (VI. 26.) NM rendelet 8. §-a.
-[^11]: A 3. § (4) bekezdés b) pontjának bc) alpontja e rendelet 11. §-ának (2) bekezdése alapján 2005. január 1. napján lép hatályba.
+[^9]: A közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet.
+[^10]: A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás kihirdetéséről szóló 19/1979. évi 19. törvényerejű rendelet.
+[^11]: A közúti járművezetők egészségi alkalmasságának megállapításáról 13/1992. (VI. 26.) NM rendelet 8. §-a.
+[^12]: A 3. § (4) bekezdés b) pontjának bc) alpontja e rendelet 11. §-ának (2) bekezdése alapján 2005. január 1. napján lép hatályba.

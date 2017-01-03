@@ -1,6 +1,6 @@
 1. számú melléklet a 41/2004. (IV. 7.) GKM rendelethez
 
-## A pályaalkalmassági minősítés szakmai szempontjai, eljárásai és az alkalmasságot korlátozó vagy kizáró okok
+A pályaalkalmassági minősítés szakmai szempontjai, eljárásai és az alkalmasságot korlátozó vagy kizáró okok
 
 I. A pályaalkalmassági minősítés
 
