@@ -54,9 +54,9 @@
 
 ## Date of issue of physician’s certificate:
 
-## A Nemzeti Közlekedési Hatóság felhatalmazásával
+## A Budapest Főváros Kormányhivatala felhatalmazásával
 
-## Authorized by the National Maritime Authority
+## Authorized by the Government Office of the Capital City Budapest
 
 ## A vizsgáló orvos aláírása _______________________________________
 

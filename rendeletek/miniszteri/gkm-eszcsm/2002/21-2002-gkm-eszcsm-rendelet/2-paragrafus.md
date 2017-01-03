@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. §[^1] E rendelet alkalmazásában
 
 1. hajózási szolgálat: a belvízi vagy tengeri úszólétesítményen teljesített

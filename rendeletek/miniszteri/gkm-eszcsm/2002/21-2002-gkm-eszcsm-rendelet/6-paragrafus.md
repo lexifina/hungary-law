@@ -12,7 +12,7 @@ d)[^11] a tengeri hajózási szolgálatot teljesítő személy, valamint az I. �
 
 e)[^12] a III. és IV. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében első alkalommal a tengerész-orvosi vizsgálatokra jogosult orvos, az időszakos vizsgálatokat a tengerész-orvosi vizsgálatokra jogosult orvos vagy a gépjármű-vezetői egészségi alkalmasság vizsgálatára jogosult orvos
 
-## végzi.
+végzi.
 
 (2) Külföldön a tengeri hajózási szolgálatot teljesítő személy, illetve a tengeri kedvtelési célú kishajó vezetőjének időszakos vizsgálatát – rendkívül indokolt esetben – az adott országban ilyen vizsgálat végzésére jogosult egészségügyi intézmény orvosa is elvégezheti. A belvízi hajózási szolgálatot ellátó személy alkalmasságának vizsgálatát külföldön – rendkívül indokolt esetben – az adott víziútszakaszon illetékes hatóság által a hajózási egészségi alkalmasság vizsgálatára feljogosított orvos is elvégezheti.
 

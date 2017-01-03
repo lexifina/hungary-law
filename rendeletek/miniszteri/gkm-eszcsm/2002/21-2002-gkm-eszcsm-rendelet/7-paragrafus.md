@@ -18,7 +18,7 @@ g) tengeri kedvtelési célú kishajó vezetésére,
 
 h)[^18] egyéb szolgálatra
 
-## egészségi szempontból alkalmasnak vagy alkalmatlannak minősíthető.
+egészségi szempontból alkalmasnak vagy alkalmatlannak minősíthető.
 
 (2) Amennyiben a hajózási oktatási intézménybe jelentkező személy egészségileg alkalmatlannak bizonyul, a jelöltnek, illetve kiskorú jelölt esetében gondviselőjének, írásbeli nyilatkozatával kell igazolnia annak tudomásulvételét, hogy a megszerzendő hajózási képesítést – az egészségi alkalmatlanság fennállása alatt – csak parti szolgálatban hasznosíthatja.
 
@@ -30,7 +30,7 @@ b)[^20] belvízi nagyhajó vezetésére jogosító képesítéssel rendelkező s
 
 c)[^21] tengeri hajózási szolgálatot ellátó személy részére magyar és angol nyelven „Tengerész szolgálati egészségi bizonyítvány”-t (5. számú melléklet)
 
-## állít ki.
+állít ki.
 
 (4)[^22] A vizsgálat eredményét – az 5. § (3) bekezdésében említett vizsgálat esetét kivéve –
 
@@ -40,7 +40,7 @@ b) a tengerész szolgálati könyvbe a vizsgálatot végző orvos,
 
 c) kedvtelési célú vízijármű vezetőjének nem kártyaformátumú képesítő okmányába a vizsgálatot végző orvos
 
-## jegyzi be.
+jegyzi be.
 
 (5)[^23] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
 

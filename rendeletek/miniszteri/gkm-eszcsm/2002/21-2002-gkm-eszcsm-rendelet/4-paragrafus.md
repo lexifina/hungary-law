@@ -22,7 +22,7 @@ bc) 60. életévét betöltötte, de a 70. életévét még nem töltötte be, 3
 
 bd) 70. életévét betöltötte, 2 évenként
 
-## kell vizsgálni.
+kell vizsgálni.
 
 (3) A kedvtelési célú vízijárművet vezető személy – az I. és II. osztályú tengeri kedvtelési célú vízijármű-vezetők kivételével – egészségi alkalmasságának megállapítása a gépjármű-vezetői egészségi alkalmassági vizsgálattal egyidejűleg is érvényesíthető.
 
@@ -34,7 +34,7 @@ b) ötvenedik életévének betöltése után háromévenként,
 
 c) hatvanötödik életévének betöltésekor, majd azt követően évenként
 
-## kell végezni.
+kell végezni.
 
 (5) Tengeri hajón hajózási szolgálatot teljesítő személynél az egészségi alkalmasságot
 
@@ -42,7 +42,7 @@ a) hatvanadik életévének betöltéséig kétévenként,
 
 b) hatvanadik életévének betöltése után évenként
 
-## kell vizsgálni.
+kell vizsgálni.
 
 (6) Hajózási szolgálat ellátására vonatkozó első munkaviszony vagy munkavégzésre irányuló egyéb jogviszony létesítését követően fiatalkorú személy egészségi alkalmasságát évente kell vizsgálni.
 

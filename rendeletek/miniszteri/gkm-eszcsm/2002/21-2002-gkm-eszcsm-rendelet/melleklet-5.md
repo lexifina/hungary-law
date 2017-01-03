@@ -80,4 +80,4 @@
 
 együttes rendelethez[^34]
 
-[^34]: Az 5. számú melléklet a 23/2015. (V. 8.) NFM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^34]: Az 5. számú melléklet a 23/2015. (V. 8.) NFM rendelet 16. § (3) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 30. §-a szerint módosított szöveg.
