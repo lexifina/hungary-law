@@ -18,7 +18,7 @@ g)[^6] a tömeges bevándorlás okozta válsághelyzetben elrendelt szállítás
 
 (2)[^7] Az (1) bekezdésben meghatározott jogosultak kizárólag azokkal a gépjárműveikkel használhatják térítésmentesen a díjköteles útszakaszt, amelyek forgalmi rendszámát a jogosultság igazolásával előzetesen írásban vagy elektronikusan a (3) bekezdésben meghatározott szervezetnek bejelentették. Az (1) bekezdésben meghatározott jogosultak a díjmentes járműveik körét érintő változásokat haladéktalanul kötelesek bejelenteni a (3) bekezdésben meghatározott szervezetnek.
 
-(3)[^8] A díjköteles útszakaszok térítésmentes használatára a jogosultak gépjárműveiről a közúti közlekedési nyilvántartási szervezet központi nyilvántartást vezet.
+(3)[^8] A díjköteles útszakaszok térítésmentes használatára a jogosultak gépjárműveiről a közúti közlekedési nyilvántartó szerv központi nyilvántartást vezet.
 
 (3a)[^9] Amennyiben az (1) bekezdés szerint jogosult nem tett időben eleget a (2) bekezdés szerinti bejelentési kötelezettségének és emiatt pótdíjfizetési felszólítás került kiküldésre, úgy jogosultságának utólagos igazolásával és a szolgáltatási díj megfizetésével mentesül a pótdíj megfizetés alól, amelyre az első pótdíjfizetési felszólítás kézhezvételétől számított 15 napos jogvesztő határidő áll rendelkezésére. Az eljárás rendszámonként számítandó szolgáltatási díját a 8. § (9) bekezdése állapítja meg.
 
@@ -43,7 +43,7 @@ g)[^6] a tömeges bevándorlás okozta válsághelyzetben elrendelt szállítás
 [^5]: A 2. § (1) bekezdés f) pontját a 79/2012. (XII. 27.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^6]: A 2. § (1) bekezdés g) pontját a 49/2015. (IX. 14.) NFM rendelet 1. §-a iktatta be. E módosító rendelet 2. § (2) bekezdése alapján a tömeges bevándorlás okozta válsághelyzet kihirdetését megelőzően, 2015 szeptemberében elrendelt olyan szállítások tekintetében, amelyek megfelelnek e rendelet feltételeinek, e rendelet rendelkezéseit kell alkalmazni.
 [^7]: A 2. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: A 2. § (3) bekezdését a 47/2008. (XII. 31.) KHEM rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 95/2011. (XII. 30.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^8]: A 2. § (3) bekezdését a 47/2008. (XII. 31.) KHEM rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 95/2011. (XII. 30.) NFM rendelet 1. § (3) bekezdése iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 50. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (3a) bekezdését a 95/2011. (XII. 30.) NFM rendelet 1. § (4) bekezdése iktatta be.
 [^10]: A 2. § (3b) bekezdését a 95/2011. (XII. 30.) NFM rendelet 1. § (4) bekezdése iktatta be.
 [^11]: A 2. § (4) bekezdése a 79/2012. (XII. 27.) NFM rendelet 1. § (3) bekezdésével megállapított szöveg.
