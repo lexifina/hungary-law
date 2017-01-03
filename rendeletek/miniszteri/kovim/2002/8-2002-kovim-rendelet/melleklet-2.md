@@ -1,6 +1,6 @@
-2. számú melléklet a 8/2002. (I. 30.) KöViM rendelethez[^9]
+2. számú melléklet a 8/2002. (I. 30.) KöViM rendelethez[^13]
 
-## A veszélyes áru szállítási biztonsági tanácsadó vizsgadíjai
+A veszélyes áru szállítási biztonsági tanácsadó vizsgadíjai
 
 1. Írásbeli vizsga közlekedési alágazatonként
 
@@ -14,4 +14,4 @@ c) Esettanulmány 7 420
 
 alágazatonként 2 498
 
-[^9]: A 2. számú melléklet a 39/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-ának (1) bekezdése alapján rendelkezéseit a 2005. június 19. napját követően indított eljárásokra kell alkalmazni.
+[^13]: A 2. számú melléklet a 39/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-ának (1) bekezdése alapján rendelkezéseit a 2005. június 19. napját követően indított eljárásokra kell alkalmazni.
