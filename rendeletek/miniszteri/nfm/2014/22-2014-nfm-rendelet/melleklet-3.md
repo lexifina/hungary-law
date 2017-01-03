@@ -1,5 +1,3 @@
-## A nemzeti fejlesztési miniszter által meghagyásba bevont szervek
-
 | A | B |
 
 | Sorszám | Név |

@@ -1,5 +1,3 @@
-## Az ágazathoz tartozó szervek közül honvédelmi intézkedési terv készítésére kijelölt szervek
-
 | A | B |
 
 | Sorszám | Név |
@@ -12,8 +10,10 @@
 
 | 4. | HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság |
 
-| 5. | Nemzeti Közlekedési Hatóság |
+| 5. |  |
 
-2. melléklet a 22/2014. (IV. 18.) NFM rendelethez[^3]
+2. melléklet a 22/2014. (IV. 18.) NFM rendelethez[^4]
 
-[^3]: A 2. melléklet a 16/2016. (VI. 8.) NFM rendelet 2. §-ával megállapított szöveg.
+A nemzeti fejlesztési miniszter által meghagyásba bevont szervek
+
+[^4]: A 2. melléklet a 16/2016. (VI. 8.) NFM rendelet 2. §-ával megállapított szöveg.
