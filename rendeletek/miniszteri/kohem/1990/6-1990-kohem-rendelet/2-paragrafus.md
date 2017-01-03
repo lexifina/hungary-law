@@ -74,7 +74,7 @@ c)[^13] az autóbusz utasterének kialakítása és felszereltsége megfelel a g
 
 (15)[^22] A rendelet alkalmazásában ,,kommunális jármű'': az a gépjármű, amely – műszaki felépítésénél fogva – csak a mentőszolgálatban, a tűzoltószolgálatban, halottszállításra, úttisztításra (közterületek tisztán tartása, locsolása, valamint közutak, repülőterek hó- és síkosságmentesítése, só- és homokszórása), a lakosság vízellátására, a kommunális hulladékszállításra, a villamos- és gázenergia-, távfűtés-, melegvíz-, ivóvíz-, szennyvízhálózatok hibabemérésére, -elhárítására használható.
 
-(16)[^23] A rendelet alkalmazásában a jóváhagyó hatóság a Nemzeti Közlekedési Hatóság (a továbbiakban: közlekedési hatóság).
+(16)[^23] A rendelet alkalmazásában a jóváhagyó hatóság a közlekedésért felelős miniszter (a továbbiakban: közlekedési hatóság).
 
 (17)[^24] A rendelet alkalmazásában alacsonynyomású mezőgazdasági gumiabroncs az olyan gumiabroncs, amelynek előírt üzemi nyomását a gyártója legfeljebb 3,0 bar értékben határozta meg, és ezeknek a gumiabroncsoknak a nyomása a jármű legnagyobb össztömegű terhelése esetén sem haladja meg a 3,0 bar-t.
 
@@ -107,7 +107,7 @@ c) a mintázat magassága (bordázat mélysége) meghaladja a 4 mm-t.
 [^20]: A 2. § eredeti (12) bekezdésének számozását a 44/2001. (XII. 28.) KöViM rendelet 1. §-a (13) bekezdésre változtatta.
 [^21]: A 2. § (14) bekezdését a 35/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
 [^22]: A 2. § (15) bekezdését a 35/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
-[^23]: A 2. § (16) bekezdését a 67/2009. (XI. 27.) KHEM rendelet 1. §-a iktatta be.
+[^23]: A 2. § (16) bekezdését a 67/2009. (XI. 27.) KHEM rendelet 1. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
 [^24]: A 2. § (17) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
 [^25]: A 2. § (17a) bekezdését a 72/2013. (XII. 2.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^26]: A 2. § (18) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
