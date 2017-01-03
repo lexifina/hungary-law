@@ -2,9 +2,9 @@
 
 ## 1. A szakkíséretre vonatkozó személyi feltételek
 
-## 1.1. Szakkíséretet csak olyan személy láthat el, aki az NKH Központi Hivatalától szakkísérői képesítést kapott.
+## 1.1. Szakkíséretet csak olyan személy láthat el, aki a közlekedésért felelős minisztertől szakkísérői képesítést kapott.
 
-## 1.2. Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki az NKH Központi Hivatalának Szakmai Vizsgabizottsága előtt az 1.3. pontban előírt témakörökből szakkísérő vizsgát tett, illetve szakirányú képesítései alapján az NKH Kiemelt Ügyek Igazgatósága a vizsga alól felmentette.
+## 1.2. Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a közlekedésért felelős miniszter által vezetett minisztérium vizsgabizottsága előtt az 1.3. pontban előírt témakörökből szakkísérő vizsgát tett, illetve szakirányú képesítései alapján a közlekedésért felelős miniszter a vizsga alól felmentette.
 
 ## 1.3. A szakkísérőnek a következő témakörökből kell vizsgát tennie:
 
@@ -96,7 +96,7 @@
 
 ## 5. E rendelet 3. § (6) bekezdésében meghatározott mezőgazdasági erőgépek és vontatmányok közlekedése esetén az 5. melléklet B) pontjában előírt járműkíséret tárgyi feltételei csak a 4.1., 4.4., 4.5. és 4.6. pontokra terjed ki.
 
-5. melléklet a 13/2010. (X. 5.) NFM rendelethez[^11]
+5. melléklet a 13/2010. (X. 5.) NFM rendelethez[^14]
 
 A megengedett szélességi méretet meghaladó mezőgazdasági rendeltetésű erőgépek és vontatmányaik felsorolása, valamint közúti közlekedési feltételeik
 
@@ -200,4 +200,4 @@ B) Mezőgazdasági rendeltetésű erőgépek és vontatmányaik közúti közlek
 
 6. Kizárólag egyéb járműkísérettel lehet közlekedni a 4,5 m jármű/járműszerelvény szélességet meghaladó méret esetében, továbbá minden lakott területen kívüli emelt sebességű útszakaszon.
 
-[^11]: Az 5. mellékletet a 37/2011. (VII. 19.) NFM rendelet 3. §-a iktatta be. E módosító rendelet 4. §-a alapján a folyamatban lévő engedélyezési eljárásokban is alkalmazni kell.
+[^14]: Az 5. mellékletet a 37/2011. (VII. 19.) NFM rendelet 3. §-a iktatta be. E módosító rendelet 4. §-a alapján a folyamatban lévő engedélyezési eljárásokban is alkalmazni kell.

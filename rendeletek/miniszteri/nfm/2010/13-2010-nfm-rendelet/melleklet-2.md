@@ -1,5 +1,7 @@
 ## Közútkezelői hozzájárulás össztömeg-, tengelyterhelés- és mérethatárt meghaladó jármű közúti közlekedéséhez
 
+## 0M23291_0
+
 | 1. Járművek | B. BEÉRKEZÉS | A. KIADJA |
 
 | Rendszám | Honosság | Fajta | Tengelyek száma | Saját tömeg t |
@@ -44,6 +46,6 @@
 
 | Kelt |  | Aláírás |
 
-2. melléklet a 13/2010. (X. 5.) NFM rendelethez[^9]
+2. melléklet a 13/2010. (X. 5.) NFM rendelethez[^12]
 
-[^9]: A 2. melléklet a 76/2012. (XII. 22.) NFM rendelet 18. § b) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet a 76/2012. (XII. 22.) NFM rendelet 18. § b) pontja szerint módosított szöveg.
