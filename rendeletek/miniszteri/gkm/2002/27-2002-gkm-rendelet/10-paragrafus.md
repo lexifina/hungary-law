@@ -1,5 +1,3 @@
-## kitűzési rend szerint kell végezni.
-
 ## Tervezés és létesítési engedélyezési eljárás
 
 10. § (1) Hajóút kitűzése esetén kitűzési tervet kell készíteni.

@@ -24,7 +24,7 @@ b) ha a fennmaradási engedélyben előírt átalakítási kötelezettséget nem
 
 c) ha a szabálytalanul létesített jel a hajózás biztonságát veszélyezteti, az erről hozott határozatban megállapított határidőig
 
-## kártalanítási igény nélkül le kell bontania
+kártalanítási igény nélkül le kell bontania
 
 (7) Ha a szabálytalanul létesített víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelre fennmaradási engedély nem adható, illetve az üzemeltető nem kéri fennmaradási engedély kiadását, a hajózási hatóság elrendeli
 

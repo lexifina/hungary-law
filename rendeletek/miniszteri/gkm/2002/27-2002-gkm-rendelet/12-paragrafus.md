@@ -8,7 +8,7 @@ b) kikötőhöz csatlakozó és a kikötő vízterületén – a szükségkiköt
 
 c) egyéb vízterületen a kitűzési terv engedélyese
 
-## köteles intézkedni.
+köteles intézkedni.
 
 (2)[^36] A kitűzési terv – korábbi tervben nem szereplő, illetve módosított – jeleinek ki-, illetve áthelyezéséről a vízügyi igazgatási szerv tárgyév április 15. napjáig a kikötő üzemeltetője és az egyéb vízterületen a terv engedélyese az engedélyben meghatározott időpontig köteles gondoskodni.
 
