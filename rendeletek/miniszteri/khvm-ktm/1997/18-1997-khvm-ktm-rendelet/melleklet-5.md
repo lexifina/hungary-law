@@ -2,7 +2,7 @@
 
 együttes rendelethez[^71]
 
-## A zajmonitor rendszer által kielégítendő követelmények
+A zajmonitor rendszer által kielégítendő követelmények
 
 1. E melléklet a zajmonitor üzemi jellemzőire vonatkozó műszaki szabályozást tartalmazza.
 

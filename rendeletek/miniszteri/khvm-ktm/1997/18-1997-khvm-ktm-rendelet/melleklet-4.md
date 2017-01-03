@@ -2,7 +2,7 @@
 
 együttes rendelethez[^70]
 
-## A stratégiai zajtérképezés minimális követelményei
+A stratégiai zajtérképezés minimális követelményei
 
 ## [az R. 4. §-ának (4) bekezdéséhez]
 

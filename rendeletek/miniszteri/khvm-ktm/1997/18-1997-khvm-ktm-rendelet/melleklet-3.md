@@ -170,7 +170,7 @@
 
 együttes rendelethez[^61]
 
-## Üzemeltetési korlátozások előkészítése során figyelembe veendő információk[^62]
+Üzemeltetési korlátozások előkészítése során figyelembe veendő információk[^62]
 
 1. A repülőtér jelenlegi állapota:
 
