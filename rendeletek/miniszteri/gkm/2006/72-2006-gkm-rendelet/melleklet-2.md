@@ -4,6 +4,8 @@ A közlekedési hatóság által végzett vasúti hatósági eljárások igazgat
 
 Ft/db
 
+6K10344O_0
+
 | 1. A vasúti pálya és egyéb vasúti építmények engedélyezésével kapcsolatos díjak |  |
 
 | a) Vasúti pályák, iparvágányok |  |
