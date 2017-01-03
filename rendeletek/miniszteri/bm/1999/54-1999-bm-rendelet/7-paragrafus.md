@@ -1,6 +1,6 @@
 7. § Ez a rendelet 2000. január 1-jén lép hatályba.
 
-Melléklet az 54/1999. (XII. 25.) BM rendelethez[^10]
+Melléklet az 54/1999. (XII. 25.) BM rendelethez[^11]
 
 Az adatszolgáltatási eljárásért fizetendő díjak mértéke és megállapításának módja
 
@@ -40,4 +40,4 @@ A fizetendő díj legkisebb mértéke: 15 000 Ft.
 
 III. Az okmánytárból szolgáltatott másolat kiadásának díja oldalanként 130 Ft, de legalább 260 Ft. A másolat hitelesítésének díja oldalanként 29 Ft.
 
-[^10]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
+[^11]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
