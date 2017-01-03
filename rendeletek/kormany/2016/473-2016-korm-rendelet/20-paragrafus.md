@@ -1,4 +1,4 @@
-## 19. §[^17]
+## 19. §[^22]
 
 ## 20. A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet módosítása
 
@@ -34,4 +34,4 @@ l) 293. § (18) bekezdés 4. pontjában a „ , 35. § (4) bekezdésben” szöv
 
 m) 27. melléklete.
 
-[^17]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
