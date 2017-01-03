@@ -10,6 +10,6 @@ b) a 3. mellékletben meghatározott intézmények 2009. július 21-éig,
 
 c) a 4. mellékletben meghatározott intézmények 2010. szeptember 1-jéig
 
-## jogosultak.
+jogosultak.
 
 (4) Hatályát veszti az egyes közlekedési szakképesítések szakmai vizsgáinak szervezésére feljogosított intézményekről szóló 64/2006. (IX. 7.) GKM rendelet.
