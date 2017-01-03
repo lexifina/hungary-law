@@ -1,5 +1,3 @@
-## 11. §[^23]
-
 ## Hajózási tevékenység végzésére jogosító
 
 ## egyéb engedélyek
@@ -24,7 +22,8 @@ b) a kabotázs-engedély esetén legalább 15 nappal,
 
 c)[^32] különleges szállításra, hajózási kísérletre vagy munkavégzésre vonatkozó engedély esetén legalább 30 nappal
 
-[^23]: A 11. §-t és az azt megelőző „Elvi hajózási engedély” alcímet a 48/2009. (IX. 30.) KHEM rendelet 15. § (7) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+az engedélyhez kötött tevékenység tervezett megkezdése előtt kell írásban vagy elektronikus úton a hajózási hatósághoz benyújtani.
+
 [^24]: A 12. § (1) bekezdése a 39/2003. (VI. 13.) GKM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^25]: 2000. évi XLII. törvény a víziközlekedésről, 54. §.
 [^26]: 2000. évi XLII. törvény a víziközlekedésről, 55. § (1) bekezdés.

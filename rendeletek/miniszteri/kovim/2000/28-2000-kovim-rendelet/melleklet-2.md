@@ -416,4 +416,6 @@
 
 2. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^43]
 
-[^43]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának f)–g) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+BIZONYÍTVÁNY
+
+[^43]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának g) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja, az 1/2017. (I. 3.) NFM rendelet 18. § d) pontja szerint módosított szöveg.

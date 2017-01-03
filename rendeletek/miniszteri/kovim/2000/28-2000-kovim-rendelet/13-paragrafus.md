@@ -1,5 +1,3 @@
-## az engedélyhez kötött tevékenység tervezett megkezdése előtt kell írásban vagy elektronikus úton a hajózási hatósághoz benyújtani.
-
 13. § (1) A kabotázs-engedély iránti kérelemben – a 12. § (3) bekezdésében meghatározottakon túlmenően – fel kell tüntetni:
 
 a) személyszállítás esetén:

@@ -8,7 +8,7 @@ a)[^17] Magyarország államhatárain belüli vizekre, illetve azok meghatározo
 
 b)[^18] Magyarország államhatárán belüli és kívüli vizekre, illetve azok meghatározott területére
 
-## adja ki.
+adja ki.
 
 (3) A hajózási engedély (3. számú melléklet) kivonatát (4. számú melléklet) az engedély alapján üzemeltetett úszólétesítményen kell tartani.
 

@@ -1,4 +1,4 @@
-## Értesítés jogosulatlan hajózási tevékenységről a rendőrség vízirendészeti szerve részéről
+## 6M13989Q_0
 
 | Értesítés jogosulatlan hajózási tevékenységről a rendőrség vízirendészeti szerve részéről (űrlap) |
 
@@ -21,6 +21,8 @@
 6. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^47]
 
 Értesítés jogosulatlan utasszállításról, árufuvarozásról vagy úszólétesítmény jogosulatlan továbbításáról a határvámhivatal részéről
+
+6M13989R_0
 
 | Értesítés jogosulatlan utasszállításról, árufuvarozásról vagy úszólétesítmény jogosulatlan továbbításáról a határvámhivatal részéről (űrlap) |
 
