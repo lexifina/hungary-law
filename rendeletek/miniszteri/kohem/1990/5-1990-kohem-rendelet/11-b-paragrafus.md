@@ -10,7 +10,7 @@ c) a járműimportőr vagy az adott járműtípus hazai kereskedelmi képviselet
 
 d) az a)–c) pontokban meghatározott adatok hiányában típusvizsgáló szakértői intézmény szakvéleménye
 
-## alapján.
+alapján.
 
 (2) Az időszakos vizsgálat vagy a közlekedési hatóság által végzett szemle során az üzembentartó kérheti a korábban megállapított 5. környezetvédelmi osztályba sorolás módosítását, amennyiben a gépkocsi az MR. 2. § (8) bekezdésében meghatározott környezetkímélő gépkocsik körébe tartozik.
 

@@ -16,6 +16,8 @@ a) az autóbusz típusához rendelkezésére álló típusbizonyítványban vagy
 
 b) más kijelölt vizsgálóállomás által készített, emelt sebességű közlekedésre vonatkozó és egyéb szakvéleményeket,
 
+amennyiben azok az MR. 15. számú mellékletének tartalmával összhangban állnak és a vizsgált járműre vonatkoztathatók.
+
 [^178]: A 13/A. §-t és alcímét a 43/2001. (XII. 18.) KöViM rendelet 5. §-a iktatta a szövegbe.
 [^179]: A 13/A. § (1) bekezdése a 39/2015. (VI. 30.) NFM rendelet 5. §-ával megállapított szöveg.
 [^180]: A 13/A. § (2) bekezdése a 72/2015. (XII. 29.) NFM rendelet 4. §-ával megállapított szöveg.

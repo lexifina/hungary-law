@@ -1,5 +1,3 @@
-## amennyiben azok az MR. 15. számú mellékletének tartalmával összhangban állnak és a vizsgált járműre vonatkoztathatók.
-
 ## Közúti ellenőrzés
 
 14. §[^184] (1)[^185] A járművek (ideértve a külföldi hatósági jelzéssel közlekedő járműveket is) műszaki, közlekedésbiztonsági és környezetvédelmi állapotát, valamint a közúti forgalomban való részvételükhöz kapcsolódó előírások megtartását a közlekedési hatóság a közúti forgalomban közúti ellenőrzés keretében ellenőrzi.
@@ -20,7 +18,7 @@ f) a járműre előírt tömeg- és mérethatárok betartására (ellenőrző m�
 
 g) a szállítmány elhelyezésére és rögzítésére (rakomány biztonsági ellenőrzés)
 
-## vonatkozó – jogszabályban, továbbá a nemzetközi forgalomban közlekedő járműre nemzetközi egyezményben vagy megállapodásban foglalt – követelmények teljesítését.
+vonatkozó – jogszabályban, továbbá a nemzetközi forgalomban közlekedő járműre nemzetközi egyezményben vagy megállapodásban foglalt – követelmények teljesítését.
 
 (3)[^188] A (2) bekezdés a)–g) pontjaiban meghatározott közúti ellenőrzési módok különállóan és összevontan is végezhetők. A (2) bekezdés b) és c) pontjaiban meghatározott ellenőrzési módokra vonatkozóan a külön jogszabályokban[^189] előírt feltételek alkalmazandók. A jármű és kötelező tartozékai műszaki megfelelőségére vonatkozó részletes feltételeket, továbbá az ellenőrzések során általánosan használt okmányok mintáját és az ellenőrzött adatok körét a 10. számú melléklet határozza meg.
 
@@ -48,7 +46,7 @@ a) a jármű közúti forgalomban való további részvétele közvetlen baleset
 
 b) a járművel az előírt hatósági engedély nélkül végeznek közúti közlekedési szolgáltatást
 
-## a forgalmi engedélyt érvényteleníti, a rendszámtábláról az érvényesítő címkét eltávolítja, valamint ennek tényét elektronikus úton közli a Nyilvántartóval.
+a forgalmi engedélyt érvényteleníti, a rendszámtábláról az érvényesítő címkét eltávolítja, valamint ennek tényét elektronikus úton közli a Nyilvántartóval.
 
 (11)[^199] A közlekedési hatóság a forgalmi engedély elvételéről átvételi elismervényt ad, amely a (10) bekezdés b) pontjában meghatározott esetben a lakóhelyig vagy a telephelyig történő közlekedésre jogosít. A közúti ellenőrzés során elvett forgalmi engedélyt – szabálysértési eljárás egyidejű kezdeményezésével – az ellenőrző szerv legkésőbb a következő munkanapon megküldi az illetékes közlekedési igazgatási hatóságnak.
 
@@ -61,6 +59,8 @@ a) a jármű műszaki állapota nem felel meg a nemzetközi egyezményben[^201] 
 b)[^202]
 
 c) a két- vagy többoldalú nemzetközi egyezményben meghatározott engedéllyel nem rendelkezik a jármű,
+
+a közúti forgalomban való részvételt megtilthatja és szabálysértési eljárást kezdeményezhet.
 
 [^184]: A 14. § és alcíme a 43/2001. (XII. 18.) KöViM rendelet 6. §-ával megállapított szöveg.
 [^185]: A 14. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (1) bekezdésével megállapított szöveg.

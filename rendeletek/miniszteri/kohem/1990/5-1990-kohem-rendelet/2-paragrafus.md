@@ -118,7 +118,7 @@ b) kifutó sorozatba tartozó, vagy
 
 c) külföldről újként, meghatározott számban együttesen behozott
 
-## járműveket azzal a feltétellel, hogy összeépítésük, illetőleg forgalomba helyezésük engedélyezését egy kérelmező közös eljárásban kezdeményezi.
+járműveket azzal a feltétellel, hogy összeépítésük, illetőleg forgalomba helyezésük engedélyezését egy kérelmező közös eljárásban kezdeményezi.
 
 (11)[^37] E rendelet alkalmazásában „EK típusbizonyítvánnyal ellátott jármű”: az a jármű, amelynek típusára vonatkozóan az Európai Gazdasági Térség tagállamának jóváhagyó hatósága
 
@@ -128,7 +128,7 @@ b)[^38] a B. Függelék, illetve a 168/2013/EU európai parlamenti és tanácsi 
 
 c)[^39] a C. Függelék, illetve a 167/2013/EU európai parlamenti és tanácsi rendelet alapján
 
-## „EK típusjóváhagyó okmány”-t adott ki.
+„EK típusjóváhagyó okmány”-t adott ki.
 
 (12)[^40] A rendelet alkalmazásában ,,bontási információk'': azoknak az ismereteknek az összessége, amelyek biztosítják az elhasználódott jármű szakszerű, a hulladékkezelési szempontokat előnyben részesítő, a környezetvédelmi előírásoknak megfelelő szétszerelését, bontását, különös tekintettel a jármű gyártásakor felhasznált veszélyes anyagokra.
 

@@ -20,7 +20,7 @@ f) az 1961. évben és azt követően 1971. év előtt gyártott jármű a noszt
 
 g) az 1971. évben és azt követően, de legalább 30 naptári évvel a minősítés éve előtt gyártott jármű a nosztalgia III. (G)
 
-## kategóriába tartozik.
+kategóriába tartozik.
 
 (3) A jármű muzeális jellegét a tulajdonos kérelmére, az általa biztosított műszaki dokumentáció figyelembevételével, minősítő vizsgálat keretében (a továbbiakban: muzeális minősítő vizsgálat) a Muzeális Minősítő Bizottság állapítja meg.
 

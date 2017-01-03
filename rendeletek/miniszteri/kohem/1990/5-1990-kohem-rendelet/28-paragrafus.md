@@ -1,5 +1,3 @@
-## 27. §
-
 ## XII. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

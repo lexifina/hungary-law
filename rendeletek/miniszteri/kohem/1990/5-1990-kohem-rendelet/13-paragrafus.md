@@ -22,7 +22,7 @@ b) a forgalmi engedély adataitól a tényleges adatai eltérnek, vagy
 
 c) a külön jogszabály[^176] szerint vagy egyéb okból a forgalmi engedély cseréje szükséges,
 
-## a jármű adatait, valamint a következő időszakos vizsgálat határidejét tartalmazó „Műszaki adatlap”-ot kell kiadni.
+a jármű adatait, valamint a következő időszakos vizsgálat határidejét tartalmazó „Műszaki adatlap”-ot kell kiadni.
 
 (4)[^177] A 11. §-ban, valamint a (3) bekezdésben meghatározott „Műszaki adatlap” kiadását helyettesítheti a jármű adatainak elektronikus úton történő átadása a Nyilvántartó részére.
 

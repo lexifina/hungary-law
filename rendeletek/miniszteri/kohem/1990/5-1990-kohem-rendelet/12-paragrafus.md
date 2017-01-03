@@ -22,7 +22,7 @@ ba) a jármű nem megfelelő műszaki, közlekedésbiztonsági és környezetvé
 
 bb) egyéb okból vonták vissza, és az engedély időbeli hatálya lejárt.
 
-(9)[^141] Kizárólag a fővárosi és megyei kormányhivatal vizsgáló állomásán végezhető el az időszakos vizsgálat, ha járművet
+(9)[^141] Kizárólag a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (kerületi) hivatal vizsgáló állomásán végezhető el az időszakos vizsgálat, ha járművet
 
 a) az időszakos vizsgálathoz kapcsolódó más hatósági eljárás szerint is ellenőrizni kell,
 
@@ -74,7 +74,7 @@ b)[^149] a KR.-ben meghatározott esetben.
 [^138]: A 12. § (6) bekezdése a 18/2013. (V. 9.) NFM rendelet 7. §-ával megállapított szöveg.
 [^139]: A 12. § (7) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított, a 22/2012. (V. 8.) NFM rendelet 12. §-a szerint módosított szöveg.
 [^140]: A 12. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^141]: A 12. § (9) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások, újonnan a 72/2015. (XII. 29.) NFM rendelet 2. §-a iktatta be.
+[^141]: A 12. § (9) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások, újonnan a 72/2015. (XII. 29.) NFM rendelet 2. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
 [^142]: A 12. § (9a) bekezdését a 26/2016. (VII. 22.) NFM rendelet 4. §-a iktatta be.
 [^143]: A 12. § (10) bekezdését a 14/1999. (IV. 28.) KHVM rendelet 4. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
 [^144]: A 12. § (11) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított, a 71/2013. (XII. 2.) NFM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.

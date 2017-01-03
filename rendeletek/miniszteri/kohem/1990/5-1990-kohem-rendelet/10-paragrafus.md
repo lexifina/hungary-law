@@ -16,7 +16,7 @@ a) a típusára vonatkozóan a közlekedési hatóság a Függelékek alkalmazá
 
 b) az M2, M3, N2, N3 és O járműkategóriába tartozó jármű esetében a gyártó
 
-## az EK típusjóváhagyásnak való megfelelőséget igazoló okmányt (a továbbiakban: COC okmány) adott ki.
+az EK típusjóváhagyásnak való megfelelőséget igazoló okmányt (a továbbiakban: COC okmány) adott ki.
 
 (4a)[^104] A forgalomba helyezés előtti megvizsgálás alól történő mentesítés feltételeként meghatározott követelmények teljesítését a közlekedési hatóság ellenőrzi.
 

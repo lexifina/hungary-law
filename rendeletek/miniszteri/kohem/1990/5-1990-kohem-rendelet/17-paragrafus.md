@@ -26,7 +26,7 @@ b) a veszélyes áru szállítására készült lassú járműnél és pótkocsi
 
 c) minden egyéb lassú járműnél és a lassú jármű pótkocsijánál öt évben
 
-## kell meghatározni. A vizsgálatot végző szerv a jármű műszaki állapota alapján az a)–c) pontokban foglaltaknál rövidebb érvényességi határidőt is megállapíthat.
+kell meghatározni. A vizsgálatot végző szerv a jármű műszaki állapota alapján az a)–c) pontokban foglaltaknál rövidebb érvényességi határidőt is megállapíthat.
 
 (7)[^241] A lassú járműnek és pótkocsijának
 
@@ -37,6 +37,8 @@ b) időszakos vizsgálatára a 12. és 13. §-ban,
 c) közúti műszaki ellenőrzésére a 14. §-ban,
 
 d) telephelyi ellenőrzésére a 15. §-ban
+
+foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 [^236]: A 17. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 18. §-ával megállapított, a 18/2013. (V. 9.) NFM rendelet 14. § j) pontja szerint módosított szöveg.
 [^237]: A 17. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.

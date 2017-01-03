@@ -116,7 +116,7 @@ a) az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén,
 
 b) amennyiben a műszaki vizsgabiztos teljesítette a továbbképzési vizsgakötelezettségét,
 
-## kérelemre igazolványt állít ki.
+kérelemre igazolványt állít ki.
 
 (9d)[^168] A műszaki vizsgabiztos vizsgáztatás közben köteles jól láthatóan magánál tartani a műszaki vizsgabiztosi igazolványát.
 

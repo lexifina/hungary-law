@@ -1,5 +1,3 @@
-## a közúti forgalomban való részvételt megtilthatja és szabálysértési eljárást kezdeményezhet.
-
 ## Telephelyi ellenőrzés
 
 15. § (1)[^203] A közlekedési hatóság a jármű telephelyén is ellenőrizheti az olyan jármű műszaki közlekedésbiztonsági és környezetvédelmi állapotát (az MR. üzemeltetési műszaki feltételek megtartását), amelyet az üzembentartó menetkésznek nyilvánított. A közlekedési hatóság elnöke a végrehajtás egységessége érdekében a részletes műszaki feltételekről – a közlekedésért felelős miniszter jóváhagyásával – szabályzatot ad ki.
@@ -24,7 +22,7 @@ c) a telephelyet elhagyni kívánó jármű esetében az előírt tömeg- és m�
 
 d)[^208] az üzemben tartott járművekre vonatkozó, a kötelező gépjármű-felelősségbiztosításról szóló törvényben előírt biztosítási kötelezettség
 
-## megtartásának ellenőrzésére.
+megtartásának ellenőrzésére.
 
 (6)[^209] A közlekedési hatóság jogosult az üzemeltetett járművekhez, a járművekkel közúton végzett tevékenységhez, valamint a járművek üzemeltetése során foglalkoztatott személyzethez tartozó okmányok, így különösen a menet- és fuvarokmányok, valamint a menetíró készülék adatrögzítő lapjainak az átvizsgálására.
 

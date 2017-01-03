@@ -1,6 +1,6 @@
 3. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^368]
 
-## A jóváhagyási jel leírása
+A jóváhagyási jel leírása
 
 A jóváhagyási jel körbe írt nyomtatott, álló, nagy E betű és a betű után indexként írt – a jóváhagyó államot meghatározó – egy vagy kétjegyű jelzőszám és a kiadásának alapjául szolgáló ENSZ–EGB előírás számjele, az előírás változatának számjele, továbbá egyéb jelzések.
 

@@ -10,7 +10,7 @@ b) a többlépcsős gyártás befejezéseként teljes jármű, illetőleg
 
 c) a gyártó által előkészített és az összeépítő részére átadott dokumentáció és technológia alkalmazásával – e célra készült egyedi karosszéria (alváz) felhasználásával – kialakított egyedi jármű (ún. „kit-car”)
 
-## hozható létre.
+hozható létre.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott járművet kis sorozatú gyártással közúti járműgyártó tevékenységet folytató egyéni vállalkozó és gazdálkodó szervezet hozhat létre.
 

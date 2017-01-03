@@ -6,7 +6,7 @@ a) az általános forgalomba helyezési engedély alapján történő forgalomba
 
 b) a sorozat- és egyedi forgalomba helyezési engedéllyel történő forgalomba helyezés esetében az engedély adatai alapján
 
-## a közlekedési hatóság gondoskodik.
+a közlekedési hatóság gondoskodik.
 
 (3)–(4)[^67]
 
