@@ -1,5 +1,3 @@
-## kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
-
 5. § (1) Ez a rendelet 2000. november 1-jén lép hatályba, a már folyamatban lévő eljárásokat a korábbi rendelkezések szerint kell befejezni.
 
 (2)[^19]
