@@ -268,6 +268,8 @@ Adatszolgáltatás a veszélyes árukat, káros és szennyező anyagokat érint�
 
 | 41 | Z | Jelentés vége (zulu) | Jelentés vége | További információ nem szükséges |
 
+1M30697_1
+
 | 1. | ELJÁRÁSOK |
 
 |  | Útmutató az adatszolgáltatáshoz: |

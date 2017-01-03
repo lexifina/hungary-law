@@ -16,7 +16,7 @@
 
 7. hajózási forgalomirányító rendszer: baleset megelőzési célú, az egymástól eltérő irányban haladó hajók útvonalának elkülönítését, továbbá fokozott veszélyt jelentő forgalomtól elzárt térség közelében, part menti forgalmi zónában vagy szorosokban való biztonságos hajózás érdekében kijelölt útvonal használatát, ideértve mélyvízi útvonal használatát is megvalósító rendszer (a továbbiakban: SRS);
 
-8. hajózási hatóság: a Nemzeti Közlekedési Hatóságról szóló kormányrendeletben meghatározott hatóság;
+8.[^1] hajózási hatóság: a Budapest Főváros Kormányhivatala;
 
 9. hajózási üzemeltetési vezető: a hajó üzemben tartója által tájékoztatásadásra és intézkedésre felhatalmazott személy;
 
@@ -51,3 +51,5 @@ c) a MARPOL egyezmény III. mellékletében meghatározott ártalmas anyag;
 19. veszélyes áru: a MARPOL és SOLAS egyezmény mellékleteinek kihirdetéséről szóló jogszabályokban meghatározott veszélyes áru;
 
 20. úti adatrögzítő készülék: az úszólétesítményeken lévő berendezés, amely kiolvasás után információt szolgáltathat az úszólétesítmény irányítása céljából a tengeri baleset bekövetkezését megelőzően végrehajtott műveletekről (a továbbiakban: VDR).
+
+[^1]: A 2. § 8. pontja az 1/2017. (I. 3.) NFM rendelet 62. §-ával megállapított szöveg.

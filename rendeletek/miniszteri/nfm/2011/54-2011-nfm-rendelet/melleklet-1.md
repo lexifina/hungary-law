@@ -1,6 +1,6 @@
 1. melléklet az 54/2011. (X. 19.) NFM rendelethez
 
-## A bejelentés keretében közlendő adatok
+A bejelentés keretében közlendő adatok
 
 1. A 3. § (1) bekezdésében foglaltak szerint közlendő adatok
 
