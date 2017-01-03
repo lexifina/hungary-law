@@ -1,5 +1,3 @@
-## A halászhajók szerkezeti felépítésére és felszerelésére vonatkozó szabályok
-
 ## I. Fejezet
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
@@ -4436,9 +4434,9 @@ MAGYARORSZÁG kormányának felhatalmazása alapján
 
 under the authorization of the Government of the REPUBLIC OF HUNGARY
 
-a Nemzeti Közlekedési Hatóság által.
+a Budapest Főváros Kormányhivatala által.
 
-by the National Transport Authority.
+by the Government Office of the Capital City Budapest.
 
 | A hajó neve Name of the ship | A hajó azonosító jele számok és/vagy betűk Distinctive numbers or letters | Lajstromozási kikötője Port of registry | A hajó hossza6 Length6 |
 
@@ -4754,9 +4752,9 @@ MAGYARORSZÁG kormányának felhatalmazása alapján
 
 under the authorization of the Government of the REPUBLIC OF HUNGARY
 
-a Nemzeti Közlekedési Hatóság által.
+a Budapest Főváros Kormányhivatala által.
 
-by the National Transport Authority.
+by the Government Office of the Capital City Budapest.
 
 | A hajó neve Name of the ship | A hajó azonosító jele számok és/vagy betűk Distinctive numbers or letters | Lajstromozási kikötője Port of registry | A hajó hossza11 Length11 |
 
@@ -5166,20 +5164,6 @@ At sea maintenance capability
 
 Ezen tanúsítvány valós adatokat tartalmaz.
 
-This is to certify that this record is correct in all respects.
-
-..................................................... ............ év .................... hónap ........ nap
-
-a kiállítás helye a kiállítás dátuma
-
-Issued at Date (year, month, day)
-
-..........................................................................................................................................................
-
-a tanúsítványt kiállító hatóság tisztségviselőjének aláírása és a hatóság pecsétje
-
-Signature of official issuing the record and/or seal or stamp of the issuing authority
-
 [^10]: Az 1. számú melléklet I. fejezet 2. szabálya (17) bekezdése a) pontjának (ii) alpontja a 43/2003. (VII. 2.) GKM rendelet 3. §-ával megállapított szöveg.
 [^11]: Kihirdetve az 1977. évi 17. törvényerejű rendelettel.
 [^12]: Az 1. számú melléklet I. fejezet 6. szabálya (1) bekezdésének c) pontja a 43/2003. (VII. 2.) GKM rendelet 3. §-ával megállapított szöveg.
@@ -5261,4 +5245,4 @@ Signature of official issuing the record and/or seal or stamp of the issuing aut
 [^88]: Az 1. számú melléklet VII. fejezet 23. szabálya (1) bekezdésének c) pontja a 43/2003. (VII. 2.) GKM rendelet 3. §-ával megállapított szöveg.
 [^89]: Az ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékleteinek kihirdetéséről szóló 35/2001. (X. 12.) KöViM rendelet.
 [^90]: Az 1. számú melléklet IX. fejezet 3. szabály (3) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 25. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^91]: A 2. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 25. § (1) bekezdése, az 55/2009. (X. 14.) KHEM rendelet 4. §-a, a 91/2011. (XII. 30.) NFM rendelet 27. §-a szerint módosított szöveg.
+[^91]: A 2. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 25. § (1) bekezdése, az 55/2009. (X. 14.) KHEM rendelet 4. §-a, a 91/2011. (XII. 30.) NFM rendelet 27. §-a, az 1/2017. (I. 3.) NFM rendelet 28. § b) pontja szerint módosított szöveg.
