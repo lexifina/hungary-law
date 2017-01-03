@@ -1,1 +1,3 @@
-## „c) az (1) bekezdés e) pontjában meghatározott esetben a fejlesztő által a teszteléssel megbízott személyt.”
+## 17. §[^15]
+
+[^15]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

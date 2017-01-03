@@ -1,3 +1,0 @@
-## 2. § A KR. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A „kezdő vezetői engedély” minősítés a vezetési jogosultság szünetelésének leteltét követő napon újra kezdődik, ha a vezetői engedély jogosultját annak 2 éves időtartama alatt elkövetett közlekedési szabálysértés vagy bűncselekmény miatt jogerősen eltiltják a járművezetéstől, a járműfajtától vagy a kategóriától, vagy a vezetési jogosultságának szünetelését a közúti közlekedési előéleti pontrendszerről szóló törvényben meghatározott ponthatár „kezdő vezetői engedély” minősítés 2 éves időtartama alatt elkövetett jogsértés miatt jogerősen elrendelik.”

@@ -1,1 +1,0 @@
-## „(6) A (4) és (5) bekezdésben foglaltak a 70. § (1) bekezdés a) pontjában meghatározott járműgyártó, a 70. § (1) bekezdés d) pontjában meghatározott közlekedési kutatóintézet, valamint a 70. § (1) bekezdés e) pontjában meghatározott járműfejlesztő szervezet esetében nem alkalmazható.”
