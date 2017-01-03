@@ -8,7 +8,7 @@
 
 (3) A víziutak mentén igénybe vehető szükségkikötőket a 6. számú melléklet tünteti fel.
 
-(4)[^8] A különleges állapot bekövetkezéséről a víziúton közlekedő hajókat kellő időben kell értesíteni és tájékoztatást kell adni a szükségkikötőkben rendelkezésre álló helyek számáról. A tájékoztatást a Dunán a Nemzeti Közlekedési Hatóság Központi Hivatala intézkedésére a hajózási információs rádióállomás adja, más víziutakon a hajózási rádiószolgálatban használatos 16-os csatorna igénybevételével a vízügyi igazgatási szerv biztosítja.
+(4)[^8] A különleges állapot bekövetkezéséről a víziúton közlekedő hajókat kellő időben kell értesíteni és tájékoztatást kell adni a szükségkikötőkben rendelkezésre álló helyek számáról. A tájékoztatást a Dunán a Budapest Főváros Kormányhivatala intézkedésére a hajózási információs rádióállomás adja, más víziutakon a hajózási rádiószolgálatban használatos 16-os csatorna igénybevételével a vízügyi igazgatási szerv biztosítja.
 
 [^7]: Az 5. § (2) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 24. § (2) és (3) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: Az 5. § (4) bekezdése a 24/2004. (III. 10.) GKM–KvVM együttes rendelet 4. § (2) bekezdésének a) pontja, a 95/2006. (XII. 27.) GKM rendelet 37. §-a, a 48/2009. (IX. 30.) KHEM rendelet 24. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: Az 5. § (4) bekezdése a 24/2004. (III. 10.) GKM–KvVM együttes rendelet 4. § (2) bekezdésének a) pontja, a 48/2009. (IX. 30.) KHEM rendelet 24. § (2) bekezdése, az 1/2017. (I. 3.) NFM rendelet 27. §-a szerint módosított szöveg.

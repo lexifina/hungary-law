@@ -6,7 +6,7 @@ a)[^1] Magyarország területén található és e rendeletben meghatározott fo
 
 b)[^2] az egységes közlekedési szervezetre és a vízügyi feladatokat ellátó központi államigazgatási szervezetre
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet hatálya nem terjed ki a kizárólag kedvtelési célú hajózásra alkalmas természetes, illetve mesterséges vízfolyásokra és tavakra, ahol ezek kezelője köteles gondoskodni a külön jogszabályban[^3] előírt jelek és jelzések kihelyezéséről.
 

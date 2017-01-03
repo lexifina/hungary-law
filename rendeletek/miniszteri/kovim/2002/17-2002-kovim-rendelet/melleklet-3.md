@@ -33,3 +33,5 @@
 ## ** h = a legkisebb küszöbmélység – hajózási kisvízszintnél, illetve a duzzasztott víziutakon az üzemrendben előírt üzemi kisvízszint mellett.
 
 3. számú melléklet a 17/2002. (III. 7.) KöViM rendelethez
+
+A víziutak osztályba sorolása

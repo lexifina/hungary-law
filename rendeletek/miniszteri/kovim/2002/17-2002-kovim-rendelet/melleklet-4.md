@@ -1,5 +1,3 @@
-## A víziutak osztályba sorolása
-
 | A víziút neve | A hajózható szakasz hossza, folyamkilométer | A szakasz hossza (km), illetve a vízfelület területe (km2) | A víziút osztálya |
 
 | 1. | Duna (nemzetközi víziút) | 1812–1641 | 171 | VI/B |
@@ -51,3 +49,5 @@
 ## * Kizárólag az olyan balatoni vízeresztések időszakában hajózható, amelyet a Hajósoknak Szóló Hirdetményben közzétesznek.
 
 4. számú melléklet a 17/2002. (III. 7.) KöViM rendelethez
+
+A víziutakra irányadónak tekintett vízmérce szerinti hajózási kisvízszint és hajózási nagyvízszint

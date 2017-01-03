@@ -1,4 +1,4 @@
-## A hajózásra alkalmas természetes, illetve mesterséges felszíni víz osztályba sorolásához alapul szolgáló hajó, bárka, illetve tolt kötelék méretek
+## 2M01998_0
 
 | A víziút osztálya | A víziúton közlekedtethető hajók, illetve tolt kötelékek ábrázolása | Magányos géphajó | Tolt kötelék |
 

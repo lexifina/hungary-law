@@ -8,7 +8,7 @@ b) a víziúton közlekedtethető úszólétesítmény testének legalsó pontja
 
 c) a víziútra előírt űrszelvénymagasság (2. számú melléklet)
 
-## figyelembevételével.
+figyelembevételével.
 
 (2) Az (1) bekezdés c) pontjában foglalt követelményt nem kell alkalmazni arra a víziútra, amelyen külön jogszabályban védetté nyilvánított híd alatt az űrszelvénymagasság az e rendeletben előírtnál kisebb.
 

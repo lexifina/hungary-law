@@ -1,5 +1,3 @@
-## A víziutak mentén igénybe vehető szükségkikötők
-
 | A víziút neve | A hajózható szakasz hossza (folyamkilométer) | A szükségkikötő fkm szerinti helye | A szükségkikötő befogadóképessége | Megjegyzés |
 
 | Duna (nemzetközi víziút) | 1641–1433 | 1478,90 | 70 18 | Téli kikötő, Baja: bejárati szakasz 0+500–1+000 |
@@ -44,6 +42,6 @@
 
 | Hortobágy–Berettyó-főcsatorna | 7–0 |  |  |  |
 
-7–8. számú melléklet a 17/2002. (III. 7.) KöViM rendelethez[^24]
+7. számú melléklet a 17/2002. (III. 7.) KöViM rendelethez[^24]
 
 [^24]: A 7–8. számú melléklet e rendelet 9. § (4) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján hatályát veszti.

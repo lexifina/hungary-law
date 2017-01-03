@@ -1,5 +1,3 @@
-## A víziutak hullámjellemzőik szerinti hajózási zónába sorolása
-
 ## A zónába sorolásnál alapul szolgáló hullámmagasság az egyes zónákban a következő:
 
 ## 1 zóna 2,0 m,
@@ -49,3 +47,5 @@
 | Fertő tó | – |  | 3 |
 
 6. számú melléklet a 17/2002. (III. 7.) KöViM rendelethez
+
+A víziutak mentén igénybe vehető szükségkikötők

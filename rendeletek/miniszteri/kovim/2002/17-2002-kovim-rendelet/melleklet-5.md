@@ -1,5 +1,3 @@
-## A víziutakra irányadónak tekintett vízmérce szerinti hajózási kisvízszint és hajózási nagyvízszint
-
 ## (A megjelölt kivételektől eltekintve a vízmércék ,,0” jelzésének szintje a Balti tenger szintjéhez viszonyítva szerepel.)
 
 | A víziút neve | A vízmérce neve és folyamkilométer szerinti helye | A vízmérce ,,0” jelzésének a tenger szintje feletti magassága m | HKV cm, illetve a tenger szintje feletti magassága m | Korábban megállapított LNHV cm, illetve a tenger szintje feletti magassága m | HNV cm, illetve a tenger szintje feletti magassága m |
@@ -173,3 +171,5 @@
 |  | Drávaszabolcs | 86,72 | +110 | 490 |  |
 
 5. számú melléklet a 17/2002. (III. 7.) KöViM rendelethez
+
+A víziutak hullámjellemzőik szerinti hajózási zónába sorolása
