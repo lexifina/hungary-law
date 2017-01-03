@@ -1,5 +1,3 @@
-## A környezetvédelmi vizsgabiztosok alap és továbbképzési szabályairól, és a vizsgabiztosi tevékenység végzésére jogosító engedély adattartalmáról
-
 ## I.
 
 ## A környezetvédelmi vizsgabiztosok alap és továbbképzési szabálya
@@ -48,7 +46,7 @@
 
 7. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez
 
-## A környezetvédelmi vizsgálathoz szükséges járműadatok
+A környezetvédelmi vizsgálathoz szükséges járműadatok
 
 1.1. Forgalmi rendszám max. 10 karakter
 

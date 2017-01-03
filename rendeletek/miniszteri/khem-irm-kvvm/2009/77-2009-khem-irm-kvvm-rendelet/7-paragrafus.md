@@ -98,7 +98,7 @@ f) a rendeletben meghatározott kötelezettségeit ismételten vagy súlyosan me
 
 (9) A közlekedési hatóság felfüggeszti a vizsgabiztos tevékenységét, ha
 
-a)[^3]
+a)[^4]
 
 b) az e rendeletben foglalt előírásokat megszegte,
 
@@ -108,4 +108,4 @@ c) a (7) bekezdésben előírt bejelentési kötelezettség teljesítését elmu
 
 (11) A vizsgabiztosok szakmai képzésének szabályait a 6. melléklet tartalmazza.
 
-[^3]: A 7. § (9) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (2) bekezdése alapján nem lépett hatályba.
+[^4]: A 7. § (9) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (2) bekezdése alapján nem lépett hatályba.

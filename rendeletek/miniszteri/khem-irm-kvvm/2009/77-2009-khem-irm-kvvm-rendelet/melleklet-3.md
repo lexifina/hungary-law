@@ -666,6 +666,6 @@
 
 ## * – csak 2006. 01. 01 utáni első ízben forgalomba helyezett járműveknél.
 
-3. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^5]
+3. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^6]
 
-[^5]: A 3. mellékletet a 72/2015. (XII. 29.) NFM rendelet 15. § b) pontja hatlályon kívül helyezte.
+[^6]: A 3. mellékletet a 72/2015. (XII. 29.) NFM rendelet 15. § b) pontja hatlályon kívül helyezte.
