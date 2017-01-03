@@ -4,6 +4,6 @@ a) tengerész- vagy hajóskapitányi, hajóvezető ,,A'' vagy géptiszti képes�
 
 b) hajóépítői, gépészmérnöki oklevele vagy más szakirányú egyetemi diplomája és a képesítése szerinti szakterületen legalább ötéves szakmai gyakorlata
 
-## van.
+van.
 
 (2) Ellenőri igazolványt az a személy is kaphat, aki a hajózási hatóságnál a rendelet hatálybalépése előtti tíz éven belül legalább öt évig felügyelőként vagy ellenőrként dolgozott és legalább hajóvezető ,,A'' vagy géptiszti képesítéssel, továbbá angol vagy német nyelvből államilag elismert legalább általános középfokú nyelvvizsgával rendelkezik.

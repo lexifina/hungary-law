@@ -14,6 +14,8 @@ Hajózásbiztonsági ellenőri igazolvány
 
 Az igazolvány első oldala
 
+6M13990M_0
+
 | Hajózásbiztonsági ellenőri igazolvány |
 
 | Az igazolvány első oldala |
