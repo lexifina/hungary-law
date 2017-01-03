@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-80-20-2
 | 2012-08-24 | 2009-80-20-2M.4 | 47/2012. (VIII. 23.) NFM rendelet |
 | 2013-07-01 | 2009-80-20-2M.5 | 42/2011. (VIII. 11.) NFM rendelet |
 | 2014-12-26 | 2009-80-20-2M.6 | 51/2014. (XII. 11.) NFM rendelet |
+| 2017-01-03 | 2009-80-20-2M.7 | 2017: CLXXIX. törvény |
