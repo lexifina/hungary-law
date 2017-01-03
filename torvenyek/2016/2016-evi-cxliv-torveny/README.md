@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-144-00-00
 | 2016-12-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-144-00-00.1 |
 | 2016-12-23 | 2010. évi CXXX. törvény | 2016-144-00-00.2 |
 | 2017-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-144-00-00.3 |
+| 2017-01-03 | 2010. évi CXXX. törvény | 2016-144-00-00.4 |
