@@ -1,3 +1,3 @@
-## 4. §[^10]
+5. §[^12]
 
-[^10]: A 4. §-t az 5/1999. ( II. 12.) KHVM rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte.
+[^12]: Az 5. §-t a 104/1999. ( VII.6.) Korm. rendelet 21. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.

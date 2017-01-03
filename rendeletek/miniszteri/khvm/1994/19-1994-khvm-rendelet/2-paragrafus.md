@@ -1,10 +1,8 @@
-## 1. §[^1]
+## 1. §[^2]
 
-## A rendelet hatálya kiterjed Magyarország területén lévő országos és helyi közutakra (a továbbiakban: közút), a közforgalom elől el nem zárt magánutakra, továbbá ezek műtárgyaira és tartozékaira.[^2]
+## A rendelet hatálya kiterjed Magyarország területén lévő országos és helyi közutakra (a továbbiakban: közút), a közforgalom elől el nem zárt magánutakra, továbbá ezek műtárgyaira és tartozékaira.[^3]
 
-## 2. §[^3]
-
-(1) Az állam tulajdonában lévő közutak az országos közúthálózatba tartoznak. Az országos közutakat úthálózati szempontból – jelentőségük és forgalmi jellemzőik alapján – a következő hálózati útosztályok (a továbbiakban: útosztály) valamelyikébe kell besorolni:
+2. §[^4] (1) Az állam tulajdonában lévő közutak az országos közúthálózatba tartoznak. Az országos közutakat úthálózati szempontból – jelentőségük és forgalmi jellemzőik alapján – a következő hálózati útosztályok (a továbbiakban: útosztály) valamelyikébe kell besorolni:
 
 a) gyorsforgalmi utak (külterületi, belterületi):
 
@@ -54,6 +52,6 @@ d) gyalogutak és járdák.
 
 (3) Az országos és helyi közúthálózat útosztályainak jellemzőit, az útosztályba sorolás feltételeit az 1. melléklet tartalmazza.
 
-[^1]: Az 1. § a 34/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított, a 91/2011. (XII. 30.) NFM rendelet 3. §-a szerint módosított szöveg.
-[^2]: Lásd az 1988: I. törvény 47. §-ának f) és k) pontját.
-[^3]: A 2. § a 34/2005. (VI. 11.) GKM rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § a 34/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított, a 91/2011. (XII. 30.) NFM rendelet 3. §-a szerint módosított szöveg.
+[^3]: Lásd az 1988: I. törvény 47. §-ának f) és k) pontját.
+[^4]: A 2. § a 34/2005. (VI. 11.) GKM rendelet 2. §-ával megállapított szöveg.

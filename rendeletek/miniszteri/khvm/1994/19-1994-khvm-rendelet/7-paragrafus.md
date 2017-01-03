@@ -1,8 +1,6 @@
-## 7. §[^17]
+7. §[^18] (1) A Kkt. 42/A. §-ának (1) bekezdésében felsorolt tevékenységek végzéséhez, továbbá útcsatlakozás létesítéséhez szükséges közútkezelői hozzájárulás iránti kérelemnek – az értelemszerű eltérésekkel – tartalmaznia kell
 
-(1) A Kkt. 42/A. §-ának (1) bekezdésében felsorolt tevékenységek végzéséhez, továbbá útcsatlakozás létesítéséhez szükséges közútkezelői hozzájárulás iránti kérelemnek – az értelemszerű eltérésekkel – tartalmaznia kell
-
-a)[^18] a 3. számú melléklet szerinti adatokat,
+a)[^19] a 3. számú melléklet szerinti adatokat,
 
 b) a vízelvezetés megoldását az útcsatlakozás térségében,
 
@@ -20,5 +18,5 @@ b) a csatlakozó út hossz-szelvényét és minta keresztszelvényét,
 
 c) a csatlakozó út közúti jelzéseinek felsorolását.
 
-[^17]: A 7. § az 5/1999. (II. 12.) KHVM rendelet 4. §-ával megállapított szöveg.
-[^18]: A 7. § (1) bekezdés a) pontja a 48/2009. (IX. 30.) KHEM rendelet 6. § (2) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 7. § az 5/1999. (II. 12.) KHVM rendelet 4. §-ával megállapított szöveg.
+[^19]: A 7. § (1) bekezdés a) pontja a 48/2009. (IX. 30.) KHEM rendelet 6. § (2) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
