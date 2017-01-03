@@ -1,5 +1,3 @@
-## vizsga sikeres letétele után adható ki újból.
-
 9. § (1) Amennyiben a légiközlekedési hatóság eljárása (pl. hatósági ellenőrzés) során megállapítja, hogy az engedélyes a tevékenysége során a légiközlekedési szabályokat súlyosan megszegi és azzal a légiközlekedés biztonságát sérti, vagy veszélyezteti, azonnali intézkedésként a szakszolgálati engedélyt felfüggesztheti és az engedélyt elveheti.
 
 (2)[^15] A légiközlekedési hatóság az elvételről átvételi elismervényt állít ki. A légiközlekedési hatóság a szakszolgálati engedély visszavonásáról 15 napon belül dönt.

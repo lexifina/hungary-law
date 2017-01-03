@@ -18,5 +18,7 @@ a) három hónapnál hosszabb időtartamú visszavonás esetében a gyakorlati,
 
 b) egy évnél hosszabb időtartamú visszavonás esetében az elméleti és a gyakorlati
 
+vizsga sikeres letétele után adható ki újból.
+
 [^13]: A 8. § (1) bekezdésének a) pontját a 32/2009. (VI. 30.) KHEM rendelet 30. § (4) bekezdése hatályon kívül helyezte. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
 [^14]: A 8. § (1) bekezdésének c) pontját a 32/2009. (VI. 30.) KHEM rendelet 30. § (4) bekezdése hatályon kívül helyezte. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
