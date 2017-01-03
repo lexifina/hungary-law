@@ -16,11 +16,9 @@
 
 | Magyarország | Zajbizonyítvány |
 
-| Légügyi Igazgatóság |  |
+| [eljáró légiközlekedési hatóság megnevezése, címe] |  |
 
-| BUDAPEST–Ferihegy | Hangsebesség alatti sugárhajtású repülőgép részére |
-
-| H–1675. Postafiók 41 |  |
+|  | Hangsebesség alatti sugárhajtású repülőgép részére |
 
 | 1. Lajstromjel, lajstromszám: | 2. Típus, típus-változat: | 3. Gyári azonosító számok: | 4. A vizsgálat jellege: |
 
@@ -114,11 +112,9 @@
 
 | Magyarország | Zajbizonyítvány |
 
-| Légügyi Igazgatóság |  |
+| [eljáró légiközlekedési hatóság megnevezése, címe] |  |
 
-| BUDAPEST–Ferihegy | 9000 kg-nál nagyobb tömegű, légcsavaros repülőgép részére |
-
-| H–1675. Postafiók 41 |  |
+|  | 9000 kg-nál nagyobb tömegű, légcsavaros repülőgép részére |
 
 | 1. Lajstromjel, lajstromszám: | 2. Típus, típus-változat: | 3. Gyári azonosító számok: | 4. A vizsgálat jellege: |
 
@@ -216,11 +212,9 @@
 
 | Magyarország | Zajbizonyítvány |
 
-| Légügyi Igazgatóság |  |
+| [eljáró légiközlekedési hatóság megnevezése, címe] |  |
 
-| BUDAPEST–Ferihegy | 9000 kg-nál nagyobb tömegű, légcsavaros repülőgép részére |
-
-| H–1675. Postafiók 41 |  |
+|  | 9000 kg-nál nagyobb tömegű, légcsavaros repülőgép részére |
 
 | 1. Lajstromjel, lajstromszám: | 2. Típus, típus-változat: | 3. Gyári azonosító számok: | 4. A vizsgálat jellege: |
 
@@ -316,11 +310,9 @@
 
 | Magyarország | Zajbizonyítvány |
 
-| Légügyi Igazgatóság |  |
+| [eljáró légiközlekedési hatóság megnevezése, címe] |  |
 
-| BUDAPEST–Ferihegy | Helikopterek részére (tömegkorlátozás nélkül) |
-
-| H–1675. Postafiók 41 |  |
+|  | Helikopterek részére (tömegkorlátozás nélkül) |
 
 | 1. Lajstromjel, lajstromszám: | 2. Típus, típus-változat: | 3. Gyári azonosító számok: | 4. A vizsgálat jellege: |
 
@@ -418,11 +410,9 @@
 
 | Magyarország | Zajbizonyítvány |
 
-| Légügyi Igazgatóság |  |
+| [eljáró légiközlekedési hatóság megnevezése, címe] |  |
 
-| BUDAPEST–Ferihegy | 2730 kg, vagy annál kisebb tömegű, helikopterek részére |
-
-| H–1675. Postafiók 41 |  |
+|  | 2730 kg, vagy annál kisebb tömegű, helikopterek részére |
 
 | 1. Lajstromjel, lajstromszám: | 2. Típus, típus-változat: | 3. Gyári azonosító számok: | 4. A vizsgálat jellege: |
 
@@ -518,11 +508,9 @@
 
 | Magyarország | Zajbizonyítvány |
 
-| Légügyi Igazgatóság |  |
+| [eljáró légiközlekedési hatóság megnevezése, címe] |  |
 
-| BUDAPEST–Ferihegy | Motoros ultrakönnyű légijárművek részére |
-
-| H–1675. Postafiók 41 |  |
+|  | Motoros ultrakönnyű légijárművek részére |
 
 | 1. Lajstromjel, lajstromszám: | 2. Típus, típus-változat: | 3. Gyári azonosító számok: | 4. A vizsgálat jellege: |
 
@@ -602,6 +590,6 @@
 
 | Légi alkalmassági bizonyítvány száma: Dátum: .................................................................................….. | Zajbizonyítvány száma: Aláírás: ..................................................................................….. |
 
-2. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^22]
+2. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^23]
 
-[^22]: A 2. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg. A 2. számú melléklet az 1/2011. (I. 11.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^23]: A 2. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg. A 2. számú melléklet az 1/2011. (I. 11.) NFM rendelet 2. §-a szerint módosított szöveg.

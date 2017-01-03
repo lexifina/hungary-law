@@ -1246,6 +1246,8 @@
 
 ## F–A–2. táblázat: A noy értékek matematikai képleteihez alkalmazott állandók
 
+## 1M00461M_3
+
 | Sáv | f | SPL | SPL | SPL | SPL | SPL | M(b) | M(c) | M(d) | M(e) |
 
 | (i) | Hz | (a) | (b) | (c) | (d) | (e) |  |  |  |  |
@@ -1317,6 +1319,8 @@
 ## 5.4.3. Az előbbiekben ismertetett eljárással nyert átlagos EPNL számok azok, amelyeket a zaj-minősítési kritériumokkal összevetve kell a légijárművek által előidézett zajt értékelni.
 
 ## 6. JELEK ÉS MÉRTÉKEGYSÉGEK
+
+## 1M00461M_4
 
 | Jel | Mértékegység | Jelentése |
 
@@ -2656,9 +2660,11 @@
 
 | Zajszint decibelben SEL | 82 | 83,03 + 9,97 log M |
 
-3. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^23]
+3. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^24]
 
 A jelen rendelet 2. mellékletében előírtakkal egyenértékű előírások
+
+KHV90244_0
 
 | Fejezetszám a 2. melléklet szerint | Fejezetszám a JAR 36 előírás szerint (JAR–36 1997. május 23-i kiadása1) | Fejezetszám az ICAO ANNEX 16. I. kötet II. része szerint (3. kiadás, 1993.)2 |
 
@@ -2681,4 +2687,4 @@ A jelen rendelet 2. mellékletében előírtakkal egyenértékű előírások
 [^*]: A kiadvány beszerezhetőségi helye: Bureau central de la Commission Électrotechnique internationale, 1 rue de Varambé, Geneva, Switzerland
 [^*]: Beszerezhető: Bureau central de la Commission Électrotechnique Internationale, 1 rue de Varambé, Geneva, Switzerland
 [^*]: 1991. évi XLV. tv., valamint a 127/1991. (X. 9.) Korm. r.
-[^23]: A 3. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg.
+[^24]: A 3. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg.
