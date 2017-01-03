@@ -76,7 +76,7 @@ A Szakértői vizsgálat
 
 1. A Szakértői vizsgálatra történő felhatalmazás
 
-1.1.[^22] Az I. fejezet 1.1. pontjában meghatározott tanúsítást – az autóbusztípus javítására felkészült – olyan gépjárműfenntartó szervezet állíthatja ki, amely erre a közlekedési hatóságtól – a 3. pontban meghatározott feltételek alapján – felhatalmazást kapott (a továbbiakban: felhatalmazott autóbusz-fenntartó). Azon autóbuszhoz, amelynek típusára nincs felhatalmazva autóbusz-fenntartó, a tanúsítást a Nemzeti Közlekedési Hatóság Központi Hivatala által meghatározott eljárásban, a kijelölt közlekedési hatóság – szakértő bevonásával elvégzett – egyedi vizsgálat alapján adja ki.
+1.1.[^22] Az I. fejezet 1.1. pontjában meghatározott tanúsítást – az autóbusztípus javítására felkészült – olyan gépjárműfenntartó szervezet állíthatja ki, amely erre a közlekedési hatóságtól – a 3. pontban meghatározott feltételek alapján – felhatalmazást kapott (a továbbiakban: felhatalmazott autóbusz-fenntartó). Azon autóbuszhoz, amelynek típusára nincs felhatalmazva autóbusz-fenntartó, a tanúsítást a Nemzeti Fejlesztési Minisztérium által meghatározott eljárásban, a kijelölt közlekedési hatóság – szakértő bevonásával elvégzett – egyedi vizsgálat alapján adja ki.
 
 1.2. A gépjárműfenntartó szervezet kérelmére kiadott felhatalmazásban meg kell jelölni:
 
@@ -92,7 +92,7 @@ d) a tanúsítás aláírására jogosult személyt.
 
 1.4.[^23] A felhatalmazott autóbusz-fenntartó tevékenységét a közlekedési hatóság rendszeresen ellenőrzi. Ha az ellenőrzés során a regionális igazgatóság megállapítja, hogy a vizsgálat elvégzésekor a jogszabályban előírt feltételeket megsértették, a felhatalmazást a feltételek teljesítéséig felfüggeszti, illetőleg indokolt esetben visszavonja.
 
-1.5.[^24] A vizsgálatot csak olyan személy végezheti, aki a Nemzeti Közlekedési Hatóság Központi Hivatala által a tanúsítási tevékenység végzésére felkészítő tanfolyamot elvégezte és eredményes vizsgát tett.
+1.5.[^24] A vizsgálatot csak olyan személy végezheti, aki a Nemzeti Fejlesztési Minisztérium által a tanúsítási tevékenység végzésére felkészítő tanfolyamot elvégezte és eredményes vizsgát tett.
 
 2. A felhatalmazott autóbusz-fenntartó által végzett Szakértői vizsgálat terjedelme, a vizsgálat módszere és az értékelés szempontjai
 
@@ -558,6 +558,8 @@ Gyártmány: ................................................... Típus:
 
 Vizsgálati eredmények
 
+4M11023_0
+
 | Műszaki állapot | Működés |
 
 | Fékrendszer |
@@ -631,7 +633,7 @@ Kiállítás kelte: ........ év ........... hó ......... nap
 [^19]: A 2. számú melléklet III. fejezet 1. pontja az 58/2016. (XII. 23.) NFM rendelet 9. §-ával megállapított szöveg.
 [^20]: A 2. melléklet III. fejezetének 2. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § d) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) pontja szerint módosított szöveg.
 [^21]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 11. §.
-[^22]: A 2. melléklet IV. fejezetének 1.1. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) és d)–e) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet IV. fejezetének 1.1. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) és d) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) és d) pontja, az 1/2017. (I. 3.) NFM rendelet 37. § b) pontja szerint módosított szöveg.
 [^23]: A 2. melléklet IV. fejezetének 1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
-[^24]: A 2. melléklet IV. fejezetének 1.5. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § e) pontja szerint módosított szöveg.
+[^24]: A 2. számú melléklet IV. fejezet 1.5. pontja az 1/2017. (I. 3.) NFM rendelet 37. § b) pontja szerint módosított szöveg.
 [^25]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének IV. fejezete.

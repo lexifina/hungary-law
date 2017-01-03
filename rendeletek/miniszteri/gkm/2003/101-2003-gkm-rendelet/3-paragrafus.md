@@ -8,7 +8,7 @@ a) elvégzett minősítő vizsgálat alapján alkalmasnak minősített járműh�
 
 b) pótkocsi esetén jármű műszaki érvényességi idején belül, szemle alapján
 
-## adja ki, vagy a korábban kiadott „Nemzetközi Időszakos Vizsgálati Bizonyítvány”-t érvényesíti.
+adja ki, vagy a korábban kiadott „Nemzetközi Időszakos Vizsgálati Bizonyítvány”-t érvényesíti.
 
 (2) A minősítő vizsgálaton a jármű abban az esetben minősíthető alkalmasnak, ha megfelel
 
