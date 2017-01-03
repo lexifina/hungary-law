@@ -1,5 +1,7 @@
 ## 1. A bányászati jog gyakorlásával és egyéb, az ügyfél kérelmére indított eljárásokkal kapcsolatos díjak (Ft-ban)
 
+## 5K28314_0
+
 |  | A | B | C | D |
 
 | 1. | Egyes igazgatási eljárások | Díj | Kódszám |
@@ -302,4 +304,8 @@
 
 | 11. | a 2-11. pontban felsorolt engedélyek módosítása |  | az irányadó díjtétel 50 %-a | az irányadó díjtétel kódszáma |
 
-2. melléklet a 78/2015. (XII. 30.) NFM rendelethez
+2. melléklet a 78/2015. (XII. 30.) NFM rendelethez[^3]
+
+A bányafelügyelet hatáskörébe tartozó szakhatósági eljárások díjai (Ft-ban)
+
+[^3]: A 2. melléklet az 1/2017. (I. 3.) NFM rendelet 68. § (2) bekezdése szerint módosított szöveg.
