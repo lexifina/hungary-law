@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-60-20-0
 | --- | --- | --- |
 | 2009-10-01 | 2004-60-20-0L.4 | 60/2004. (IV. 24.) GKM rendelet |
 | 2012-01-01 | 2004-60-20-0L.5 | 95/2006. (XII. 27.) GKM rendelet |
+| 2017-01-03 | 2004-60-20-0L.6 | 95/2006. (XII. 27.) GKM rendelet |
