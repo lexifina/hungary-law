@@ -1,4 +1,4 @@
-## 12. §[^11]
+## 12. §[^14]
 
 ## 13. A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet módosítása
 
@@ -6,4 +6,4 @@
 
 (2) A 379/2016. (XII. 2.) Korm. rendelet 208. § (2) bekezdése a következő szöveggel lép hatályba:
 
-[^11]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
