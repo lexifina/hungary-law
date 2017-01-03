@@ -12,7 +12,7 @@ a) az I. szabályozási lépcsőben az A, B és C kategóriájú motorok szennye
 
 1. táblázat
 
-## I. szabályozási lépcső, A, B, C kategóriájú motorok
+## „I. szabályozási lépcső, A, B, C kategóriájú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -24,11 +24,13 @@ a) az I. szabályozási lépcsőben az A, B és C kategóriájú motorok szennye
 
 | C: | 37 kW ≤ P < 75 < kW | – | 1998. június 30. |
 
+## ”
+
 b) a II. szabályozási lépcsőben a D, E, F és G kategóriájú motorok szennyezőanyag-kibocsátása a 2. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.3. pontja szerinti követelményeknek;
 
 2. táblázat
 
-## II. szabályozási lépcső, D, E, F, G kategóriájú motorok
+## „II. szabályozási lépcső, D, E, F, G kategóriájú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -42,11 +44,13 @@ b) a II. szabályozási lépcsőben a D, E, F és G kategóriájú motorok szenn
 
 | G: | 37 kW ≤ P < 75 < kW | 2002. december 31. | 2003. december 31. |
 
+## ”
+
 c) a III/A. szabályozási lépcsőben a H, I, J és K kategóriájú, nem állandó fordulatszámú motorok szennyezőanyag-kibocsátása a 3. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.4. pontja szerinti követelményeknek;
 
 3. táblázat
 
-## III/A. szabályozási lépcső, H, I, J, K kategóriájú, nem állandó fordulatszámú motorok
+## „III/A. szabályozási lépcső, H, I, J, K kategóriájú, nem állandó fordulatszámú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -60,11 +64,13 @@ c) a III/A. szabályozási lépcsőben a H, I, J és K kategóriájú, nem álla
 
 | K: | 19 kW ≤ P < 37 < kW | 2005. december 31. | 2006. december 31. |
 
+## ”
+
 d) a III/A. szabályozási lépcsőben a H, I, J és K kategóriájú, állandó fordulatszámú motorok szennyezőanyag-kibocsátása a 4. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.4. pontja szerinti követelményeknek;
 
 4. táblázat
 
-## III/A. szabályozási lépcső, H, I, J, K kategóriájú állandó fordulatszámú motorok
+## „III/A. szabályozási lépcső, H, I, J, K kategóriájú állandó fordulatszámú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -78,11 +84,13 @@ d) a III/A. szabályozási lépcsőben a H, I, J és K kategóriájú, állandó
 
 | K: | 19 kW ≤ P < 37 < kW | 2009. december 31. | 2010. december 31. |
 
+## ”
+
 e) a III/B. szabályozási lépcsőben az L, M, N és P kategóriájú, nem állandó fordulatszámú motorok szennyezőanyag-kibocsátása az 5. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.5. pontja szerinti követelményeknek;
 
 5. táblázat
 
-## III/B. szabályozási lépcső, L, M, N, P kategóriájú nem állandó fordulatszámú motorok
+## „III/B. szabályozási lépcső, L, M, N, P kategóriájú nem állandó fordulatszámú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -96,11 +104,13 @@ e) a III/B. szabályozási lépcsőben az L, M, N és P kategóriájú, nem áll
 
 | P: | 19 kW ≤ P < 37 < kW | 2011. december 31. | 2012. december 31. |
 
+## ”
+
 f) a IV. szabályozási lépcsőben a Q és R kategóriájú, nem állandó fordulatszámú motorok szennyezőanyag-kibocsátása az 6. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.6. pontja szerinti követelményeknek;
 
 6. táblázat
 
-## IV. szabályozási lépcső, Q és R kategóriájú nem állandó fordulatszámú motorok
+## „IV. szabályozási lépcső, Q és R kategóriájú nem állandó fordulatszámú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -110,11 +120,13 @@ f) a IV. szabályozási lépcsőben a Q és R kategóriájú, nem állandó ford
 
 | R: | 53 kW ≤ P < 130 < kW | 2013. szeptember 30. | 2014. szeptember 30. |
 
+## ”
+
 g) a III/A. szabályozási lépcsőben a belvízi hajó V kategóriájú meghajtó motorjának (főgépének) szennyezőanyag-kibocsátása a 7. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.4. pontja szerinti követelményeknek;
 
 7. táblázat
 
-## III/A. szabályozási lépcső, V kategóriájú motorok
+## „III/A. szabályozási lépcső, V kategóriájú motorok
 
 | Motor- kategória | Hasznos teljesítmény (P)/hengerkénti lökettérfogat (VLH) | Határidő |
 
@@ -130,11 +142,13 @@ g) a III/A. szabályozási lépcsőben a belvízi hajó V kategóriájú meghajt
 
 | V2: | 5,0 dm3 ≤ VLH | 2007. december 31. | 2008. december 31. |
 
+## ”
+
 h) a III/A. szabályozási lépcsőben a vasúti motorkocsik „RC A” kategóriájú meghajtó motorjának szennyezőanyag-kibocsátása a 8. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.4. pontja szerinti követelményeknek;
 
 8. táblázat
 
-## III/A. szabályozási lépcső, RC A kategóriájú motorok
+## „III/A. szabályozási lépcső, RC A kategóriájú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -142,11 +156,13 @@ h) a III/A. szabályozási lépcsőben a vasúti motorkocsik „RC A” kategór
 
 | RC A: | P > 130 kW | 2005. június 30. | 2005. december 31. |
 
+## ”
+
 i) a III/B. szabályozási lépcsőben a vasúti motorkocsik „RC B” kategóriájú meghajtó motorjának szennyezőanyag-kibocsátása a 9. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.5. pontja szerinti követelményeknek;
 
 9. táblázat
 
-## III/B. szabályozási lépcső, RC B kategóriájú motorok
+## „III/B. szabályozási lépcső, RC B kategóriájú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -154,11 +170,13 @@ i) a III/B. szabályozási lépcsőben a vasúti motorkocsik „RC B” kategór
 
 | RC B: | P > 130 kW | 2010. december 31. | 2011. december 31. |
 
+## ”
+
 j) a III/A. szabályozási lépcsőben a vasúti vontatójárművek (mozdonyok) „RL A” és „RH A” kategóriájú meghajtó motorjának szennyezőanyag-kibocsátása a 10. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.4. pontja szerinti követelményeknek. A követelményeket nem kell alkalmazni azon, e kategóriákba tartozó motortípusokra és motorcsaládokra, amelyek vásárlására a kereskedelmi szerződést 2004. május 20-át megelőzően kötötték meg, feltéve, hogy a tényleges forgalomba hozatal legfeljebb 2 évvel a kérdéses vasúti vontatójármű (mozdony) kategóriára alkalmazható határidőt követően történik meg;
 
 10. táblázat
 
-## III/A. szabályozási lépcső, „RL A” és „RH A” kategóriájú motorok
+## „III/A. szabályozási lépcső, „RL A” és „RH A” kategóriájú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
@@ -168,17 +186,21 @@ j) a III/A. szabályozási lépcsőben a vasúti vontatójárművek (mozdonyok) 
 
 | RH A: | P > 560 kW | 2007. december 31. | 2008. december 31. |
 
+## ”
+
 k) a III/B szabályozási lépcsőben a vasúti vontatójárművek (mozdonyok) „R B” kategóriájú meghajtó motorjának szennyezőanyag-kibocsátása a 11. táblázatban meghatározott határidőt követően feleljen meg az 1. számú melléklet 4.1.2.5. pontja szerinti követelményeknek. A követelményeket nem kell alkalmazni azon, e kategóriákba tartozó motortípusokra és motorcsaládokra, amelyek vásárlására a kereskedelmi szerződést 2004. május 20-át megelőzően kötötték meg, feltéve, hogy a tényleges forgalomba hozatal legfeljebb 2 évvel a kérdéses vasúti vontatójármű (mozdony) kategóriára alkalmazható határidőt követően történik meg;
 
 11. táblázat
 
-## III/B. szabályozási lépcső, „R B” kategóriájú motorok
+## „III/B. szabályozási lépcső, „R B” kategóriájú motorok
 
 | Motor- kategória | Hasznos teljesítmény | Határidő |
 
 | Típus- jóváhagyás | Forgalomba hozatal |
 
 | R B: | P > 130 kW | 2010. december 31. | 2011. december 31. |
+
+## ”
 
 (5) A (4) bekezdésben a forgalomba hozatalra vonatkozóan előírt időpontok előtt gyártott motorok esetében a követelmények teljesítésének határideje minden kategória esetében két évvel eltolódik.
 

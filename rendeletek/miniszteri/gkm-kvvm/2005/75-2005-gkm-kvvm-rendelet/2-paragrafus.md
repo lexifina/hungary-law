@@ -22,7 +22,7 @@ i) forgalomba hozatal: egy motor első alkalommal történő kínálása a piaco
 
 j) gyártó: az a személy vagy testület, aki vagy amely a jóváhagyó hatósággal szemben minden szempontból felelős a típus-jóváhagyási eljárásért és a gyártás megfelelőségének biztosításáért. Nem szükségszerű, hogy a gyártó közvetlenül részt vegyen a motor gyártásának minden szakaszában. A jóváhagyás kérelmezése tekintetében az importáló is gyártónak tekintendő;
 
-k)[^1] jóváhagyó hatóság (a továbbiakban: hatóság): a 15. § szerinti, kijelölt hatóság;
+k)[^2] jóváhagyó hatóság (a továbbiakban: hatóság): a 15. § szerinti, kijelölt hatóság;
 
 l) műszaki szolgálat: az e rendeletben és mellékleteiben leírt vizsgálatok, mérések lefolytatására a 15. § szerint működő vizsgáló laboratóriumként kijelölt tanúsító szervezet vagy testület. A szükséges vizsgálatokat a hatóság is elvégezheti;
 
@@ -80,4 +80,4 @@ y) eredeti berendezés gyártó: valamely nem közúti mozgó gép-típus gyárt
 
 z) rugalmas végrehajtási eljárás: olyan eljárás, amely lehetővé teszi két egymást követő szabályozási lépcsőben a második, szigorúbb követelményeket támasztó szabályozás időszakában korlátozott számban olyan nem közúti mozgó gépbe történő beépítésre szánt motor forgalomba hozatalát, amely csak az első lépcső szerinti emissziós határértékeknek felel meg.
 
-[^1]: A 2. § k) pontja a 48/2009. (IX. 30.) KHEM rendelet 38. § (1) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 2. § k) pontja a 48/2009. (IX. 30.) KHEM rendelet 38. § (1) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

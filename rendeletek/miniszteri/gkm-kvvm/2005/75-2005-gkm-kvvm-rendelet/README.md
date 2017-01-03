@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-75-20-0
 | 2011-05-27 | 2005-75-20-0L.8 | 25/2011. (V. 26.) NFM rendelet |
 | 2012-12-22 | 2005-75-20-0L.9 | 74/2012. (XII. 21.) NFM rendelet |
 | 2013-12-27 | 2005-75-20-0L.10 | 76/2013. (XII. 19.) NFM rendelet |
+| 2017-01-03 | 2005-75-20-0L.11 | 36/2019. (IX. 20.) ITM rendelet |

@@ -32,7 +32,7 @@
 
 ## 2.3. a részecskékből álló szennyezőanyag mindazokat az anyagokat jelenti, amelyek egy CI motor kipufogógázának tiszta, szűrt levegővel oly módon történő felhígítása után, hogy a hőmérséklet ne haladja meg a 325 K (52 °C) értéket, egy meghatározott szűrőközegen összegyűlnek;
 
-## 2.4. a hasznos (effektív) teljesítmény azt az ENSZ EGB 85 sz. előírás szerint kW-ban kifejezett teljesítményt jelenti, amely próbapadon a forgattyús tengely vagy annak megfelelője végén mérhető, a közúti járművek belső égésű motorjai teljesítményének mérésére szolgáló, az ENSZ EGB 85. sz. előírásban meghatározott módszer szerint, azzal az eltéréssel, hogy a motor hűtésére szolgáló ventilátor teljesítménye ebbe nem számít bele[^35], továbbá be kell tartani az ebben a rendeletben meghatározott vizsgálati feltételeket, és a vizsgálathoz referencia üzemanyagot kell használni;
+## 2.4. a hasznos (effektív) teljesítmény azt az ENSZ EGB 85 sz. előírás szerint kW-ban kifejezett teljesítményt jelenti, amely próbapadon a forgattyús tengely vagy annak megfelelője végén mérhető, a közúti járművek belső égésű motorjai teljesítményének mérésére szolgáló, az ENSZ EGB 85. sz. előírásban meghatározott módszer szerint, azzal az eltéréssel, hogy a motor hűtésére szolgáló ventilátor teljesítménye ebbe nem számít bele[^36], továbbá be kell tartani az ebben a rendeletben meghatározott vizsgálati feltételeket, és a vizsgálathoz referencia üzemanyagot kell használni;
 
 ## 2.5. a névleges fordulatszám a regulátor által megengedett maximális fordulatszámot jelenti teljes terhelésnél, a gyártó megadása szerint;
 
@@ -83,6 +83,8 @@
 ## 2.22. A vizsgálati paraméterek jelölései
 
 ## 2.22.1. Mechanikai, hőtani jellemzők
+
+## 3K85324M_0
 
 | Jelölés | Mértékegység | Meghatározás |
 
@@ -430,6 +432,8 @@
 
 | K: 19 ≤ P < 37 | 5,5 | 7,5 | 0,6 |
 
+## 3K85324M_6
+
 | Belvízi hajó motorja |
 
 | Kategória: lökettérfogat/ effektívteljesítmény (SV/P) (liter/henger; kW) | Szén-monoxid (CO) (g/kWh) | Szénhidrogének és nitrogén-oxidok összege (HC+NOx; g/kWh) | Részecskék (PT) (g/kWh) |
@@ -553,6 +557,8 @@
 | SN-4 | 519 |  |  | 13,4 |
 
 ## 4.2.2.2. A szénmonoxid, szénhidrogének, nitrogén-oxidok és az összesített szénhidrogén és nitrogénoxid kibocsátására kapott értékek a 2. lépcsőben ne haladják meg azokat, amelyek az alábbi táblázatban láthatók:
+
+## 3K85324M_14
 
 | 2. szabályozási lépcső36 |
 
@@ -1652,7 +1658,7 @@
 
 2. számú melléklet a 75/2005. (IX. 29.) GKM-KvVM
 
-együttes rendelethez[^36]
+együttes rendelethez[^37]
 
-[^35]: Ez azt jelenti, hogy az EGB követelményeivel ellentétben a motor leadott teljesítményének vizsgálata során nem szabad felszerelni a motorhűtő ventilátort; ha ezzel szemben a gyártó a vizsgálatot motorra szerelt ventilátorral végzi el, a ventilátor által felvett teljesítményt hozzá kell adni a mért teljesítményhez. Nem érvényes azonban ez az előírás azokra a léghűtéses motorokra, amelynél a hűtőventilátor a motor főtengelyére van közvetlenül felszerelve (lásd 7. számú melléklet 3. függelék).
-[^36]: A 2. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (2) bekezdése, a 76/2013. (XII. 19.) NFM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^36]: Ez azt jelenti, hogy az EGB követelményeivel ellentétben a motor leadott teljesítményének vizsgálata során nem szabad felszerelni a motorhűtő ventilátort; ha ezzel szemben a gyártó a vizsgálatot motorra szerelt ventilátorral végzi el, a ventilátor által felvett teljesítményt hozzá kell adni a mért teljesítményhez. Nem érvényes azonban ez az előírás azokra a léghűtéses motorokra, amelynél a hűtőventilátor a motor főtengelyére van közvetlenül felszerelve (lásd 7. számú melléklet 3. függelék).
+[^37]: A 2. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (2) bekezdése, a 76/2013. (XII. 19.) NFM rendelet 2. § (2) bekezdése szerint módosított szöveg.

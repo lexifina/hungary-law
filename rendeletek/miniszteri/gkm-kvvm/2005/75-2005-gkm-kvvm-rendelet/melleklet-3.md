@@ -694,7 +694,7 @@
 
 3. számú melléklet a 75/2005. (IX. 29.) GKM-KvVM
 
-együttes rendelethez[^37]
+együttes rendelethez[^38]
 
 Kompresszió-gyújtású motorok vizsgálati eljárása
 
@@ -1088,6 +1088,8 @@ Ha a mért referencia-fordulatszám legfeljebb ±3%-kal haladja meg a gyártó �
 
 A fordulatszámot az alábbi egyenlettel kell denormalizálni:
 
+3K85324O_5
+
 |  | Aktuális fordulatszám = |  | % fordsz. x (ref. fordsz. – alapjárati fordsz.) | + alapjárati fordsz. |
 
 | 100 |
@@ -1097,6 +1099,8 @@ A fordulatszámot az alábbi egyenlettel kell denormalizálni:
 4.3.3. A motornyomaték denormalizálása
 
 A 3. számú melléklet 4. függelékében meghatározott motorfékpadi program nyomaték értékei az adott fordulatszámhoz tartozó maximális nyomatékhoz normalizáltak. A referencia ciklus nyomaték értékeit denormalizálni kell a 4.2.2. pont szerint meghatározott feltérképezési görbe használatával, az alábbiak szerint:
+
+3K85324O_6
 
 |  | Aktuális nyomaték = |  | % nyomaték x Mnmax |
 
@@ -1950,7 +1954,7 @@ A hígító rendszer és a mintavevő rendszer minden részét, amely kapcsolatb
 
 2. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 3. számú mellékletéhez
 
-Kalibrálási eljárás (NRSC, NRTC[^38])
+Kalibrálási eljárás (NRSC, NRTC[^39])
 
 1. Az elemző készülékek kalibrálása
 
@@ -2436,45 +2440,11 @@ A szivattyú résvesztesége és nyomásváltozása közötti kölcsönhatás ko
 
 A kalibrációs egyenlet meghatározásához a legkisebb négyzetek módszerével illesztett egyenes egyenlet az alábbi:
 
-D0 és m a tengelymetszet és a meredekség állandók, amelyek leírják az egyenest.
-
-A több fordulatszámmal rendelkező CVS különböző szivattyú átfolyásoknál előállított kalibrációs görbéinek közel párhuzamosaknak kell lenniük, a tengelymetszetnek (D0) növekednie kell, amint a szivattyú fordulatszám csökken.
-
-Az egyenlettel számított értékeknek a mért V0 érték ±0,5%-án belül kell lenniük. Az m értéke szivattyúnként változik. A részecske átfolyás idővel csökkenti a szivattyú résveszteségét, ami az m érték csökkenésében nyilvánul meg. Ezért a kalibrációt el kell végezni az üzembe helyezéskor, nagyobb karbantartás után és amikor a teljes rendszer ellenőrzése (3.5. pont) változást mutat a veszteségben.
-
-3.3. A kritikus áramlású Venturi kalibrálása (CFV)
-
-A CFV kalibrálása a kritikus áramlású Venturi áramlási egyenletén alapul. A gázáram a belépő nyomás és hőmérséklet függvénye az alábbi egyenlet szerint:
-
-|  | ahol | Kν | = | kalibrációs együttható |
-
-|  |  | pA | = | abszolút nyomás a Venturi bemenetén (kPa) |
-
-|  |  | T | = | hőmérséklet a Venturi bemenetén (K) |
-
-3.3.1. Az adatok elemzése
-
-A levegőáramot (Qs) minden fojtási beállítás mellett (legalább 8 beállítás) ki kell számítani, előírásosan m3/min-ben kifejezve, az áramlásmérő adataiból a gyártó előírásai szerinti módszerrel. A kalibrációs együtthatót a kalibrációs adatokból az alábbi egyenlettel kell számítani:
-
-|  | ahol | Qs | = | a levegőáram vonatkoztatási állapotban (101,3 kPa, 273 K) (m3/s) |
-
-|  |  | pA | = | abszolút nyomás a Venturi bemenetén (kPa) |
-
-|  |  | T | = | hőmérséklet a Venturi bemenetén (K) |
-
-A kritikus áramlás tartományának meghatározásához Kν -t fel kell rajzolni a Venturi bement nyomásának függvényében. Kritikus (fojtott) áramlás esetén Kν értéke viszonylag állandó. Ahogyan a nyomás csökken (a vákuum nő), a Venturi fojtás nélkülivé válik, Kν értéke csökken, ami jelzi, hogy a CVF a megengedett tartományon kívül működik.
-
-A kritikus áramlási tartományban legalább 8 pontból számítani kell az Kν átlagértékét és szórását. A szórás nem lehet nagyobb Kν átlagértékének 0,3%-ánál.
-
-3.4. A hangsebesség alatti áramlású Venturi kalibrálása (SSV)
-
-Az SSV kalibrálása a hangsebesség alatti áramlású Venturi áramlási egyenletén alapul. A gázáram a belépő nyomás és hőmérséklet, valamit az SSV belépési pontja és a torok közötti nyomásesés függvénye az alábbi egyenlet szerint:
-
-[^37]: A 3. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (3) bekezdése, a 76/2013. (XII. 19.) NFM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^38]: A 3. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (3) bekezdése, a 76/2013. (XII. 19.) NFM rendelet 2. § (3) bekezdése szerint módosított szöveg.
 [^(3)szerint]: Az MSZ EN ISO 8178-4:2007 szabvány (2008. 07. 01-jei helyesbített változat) 8.3.1.1. pontjában leírt C1 ciklussal megegyező.
 [^(4)]: Az MSZ EN ISO 8178-4:2002(E) szabvány 8.4.1. pontjában leírt D2 ciklussal megegyező.
 [^(5)]: Az állandó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti D2 terhelési ciklus, azaz a 3.7.1.2. pontban meghatározott, öt üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani, míg a változó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti C1 terhelési ciklus, azaz a 3.7.1.1. pontban meghatározott, nyolc üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani.
 [^(6)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E3 ciklussal megegyező. A négy üzemmód az üzem közbeni méréseken alapuló átlagos hajtócsavargörbén alapul.
 [^(7)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E2 ciklussal megegyező.
 [^(8)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány F ciklusával megegyező.
-[^38]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
+[^39]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
