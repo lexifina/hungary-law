@@ -1,8 +1,6 @@
 ## A lajstromnyilvántartás szabályai
 
-## 7. §
-
-(1) A különböző jellegű és rendeltetésű légijárműveket egymástól elkülönítve és az egyes légijárműveket külön sorszám alatt kell a lajstromban nyilvántartani.
+7. § (1) A különböző jellegű és rendeltetésű légijárműveket egymástól elkülönítve és az egyes légijárműveket külön sorszám alatt kell a lajstromban nyilvántartani.
 
 (2) Azonos szám- és betűjellel több légijárművet a lajstromba felvenni nem lehet.
 
