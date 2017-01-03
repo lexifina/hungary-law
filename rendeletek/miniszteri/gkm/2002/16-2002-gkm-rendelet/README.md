@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-16-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2002-16-20-0L.5 | 16/2002. (IX. 25.) GKM rendelet |
+| 2017-01-03 | 2002-16-20-0L.6 | 1/2017. (I. 3.) NFM rendelet |

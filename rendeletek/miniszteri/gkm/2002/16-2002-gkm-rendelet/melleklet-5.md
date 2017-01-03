@@ -1,6 +1,6 @@
 5. számú melléklet a 16/2002. (IX. 25.) GKM rendelethez
 
-## Az ellenőr képesítésére és függetlenségére vonatkozó követelmények
+Az ellenőr képesítésére és függetlenségére vonatkozó követelmények
 
 1. A képesített ellenőr a hajózási hatóság felhatalmazásával, illetve kijelölt szervezet ellenőre a kijelölési okirat alapján a kijelölt szervezettől kapott felhatalmazás birtokában végzi a 6. §-ban meghatározott szemlét.
 

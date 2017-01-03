@@ -1,5 +1,3 @@
-## A 8. § (1) bekezdésének c) pontjában megjelölt, egyes, a rendelettel összefüggő jogszabályok jegyzéke
-
 ## – 13/2002. (II. 18.) KöViM rendelet a kikötőkbe érkező és azokat elhagyó, parti tengeren áthaladó és veszélyes és szennyező árukat szállító tengeri hajókkal szemben támasztott egyes követelményekről;
 
 ## – 119/1997. (VII. 15.) Korm. rendelet a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978/1995. évi nemzetközi egyezmény kihirdetéséről;
@@ -8,7 +6,7 @@
 
 3. számú melléklet a 16/2002. (IX. 25.) GKM rendelethez
 
-## A szemlére vonatkozó eljárási szabályok
+A szemlére vonatkozó eljárási szabályok
 
 1. A szemle célja annak biztosítása, hogy a hajószerkezetre, a térfelosztásra és stabilitásra, a gépekre és az elektromos berendezésekre, a rakományelhelyezésre, a tűz elleni védelemre, a szállítható személyek számát illetően, az életmentő felszerelésekre és a veszélyes áruk szállítására, a rádiótávközlésre és navigációra vonatkozó követelmények teljesüljenek, és e célból a szemle terjedjen ki:
 

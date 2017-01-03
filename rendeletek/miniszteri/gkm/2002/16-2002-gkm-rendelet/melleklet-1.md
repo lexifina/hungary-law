@@ -2,7 +2,7 @@
 
 1. számú melléklet a 16/2002. (IX. 25.) GKM rendelethez
 
-## A hajózási vállalkozások külön kötelezettségei
+A hajózási vállalkozások külön kötelezettségei
 
 ## A vállalkozásoknak biztosítaniuk kell, hogy:
 

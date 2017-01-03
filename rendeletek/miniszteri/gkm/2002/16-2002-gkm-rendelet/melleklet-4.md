@@ -1,6 +1,6 @@
 4. számú melléklet a 16/2002. (IX. 25.) GKM rendelethez
 
-## Útmutató a képesített ellenőr számára a menetrend szerinti átkelés idején történő szemle lefolytatásához
+Útmutató a képesített ellenőr számára a menetrend szerinti átkelés idején történő szemle lefolytatásához
 
 ## A szemle során az ellenőrnek ellenőriznie kell:
 

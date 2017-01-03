@@ -42,7 +42,7 @@ o) Tengeri Balesetek Kivizsgálásának Szabályzata: a Nemzetközi Tengerészet
 
 p) különleges szemle: a fogadó állam illetékes hatósága által a 6. §-ban foglaltak szerint végzett szemle;
 
-q)[^5] hajózási hatóság: a Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága;
+q)[^5] hajózási hatóság: a Budapest Főváros Kormányhivatala;
 
 r) ellenőr: a hajózásbiztonsági ellenőri munkakörre vonatkozó szakmai feltételekről és az ellenőrök azonosító okmányáról szóló jogszabályban[^6] meghatározott személyazonosító okmánnyal rendelkező személy, aki megfelel az 5. számú mellékletben foglalt követelményeknek;
 
@@ -54,5 +54,5 @@ t) Szemle Irányelvek: a SOLAS 1974/1978 mellékletének B. részében foglalt 6
 [^2]: Lásd a tengeri személyhajókra vonatkozó biztonsági követelményekről szóló 12/2002. (II. 7.) KöViM rendelet 2. §-át.
 [^3]: Lásd a tengeri személyhajókra vonatkozó biztonsági követelményekről szóló 12/2002. (II. 7.) KöViM rendelet 2. §-át.
 [^4]: Lásd a vízijárművek és úszó munkagépek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 10/2000. (X. 31.) KöViM rendeletet.
-[^5]: Az 1. § q) pontja a 95/2006. (XII. 27.) GKM rendelet 39. §-a szerint módosított szöveg.
+[^5]: Az 1. § q) pontja az 1/2017. (I. 3.) NFM rendelet 29. §-ával megállapított szöveg.
 [^6]: Lásd a hajózásbiztonsági ellenőri munkakörre vonatkozó szakmai feltételekről és az ellenőrök azonosító okmányáról szóló 10/2001. (III. 2.) KöViM rendeletet.
