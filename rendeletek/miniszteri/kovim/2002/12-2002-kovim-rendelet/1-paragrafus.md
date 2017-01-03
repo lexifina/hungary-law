@@ -10,7 +10,7 @@ b) a 24 méter hosszú, illetve annál hosszabb meglévő személyhajóra; és
 
 c) gyorsjáratú személyszállító vízijárműre
 
-## terjed ki.
+terjed ki.
 
 (3) A rendelet nem vonatkozik
 
@@ -30,7 +30,7 @@ af) külön jogszabály[^3] hatálya alá tartozó kedvtelési célú hajó, ill
 
 ag) kizárólag kikötői területen közlekedő hajó;
 
-## továbbá
+továbbá
 
 b) nem nem vonatkozik az olyan gyorsjáratú személyszállító hajóra vagy vízijárműre, amely
 

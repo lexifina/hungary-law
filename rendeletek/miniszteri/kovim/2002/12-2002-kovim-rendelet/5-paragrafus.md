@@ -9,3 +9,5 @@ a) a hajótest, a fő- és segédgépek, a villamos és automatizált berendezé
 b) GMDSS felszerelése a SOLAS 1974/1978 mellékletének IV. V. és VI. fejezetében szereplő követelményeknek, továbbá
 
 c) fedélzeti navigációs berendezései tekintetében a SOLAS 1974/1978 mellékletének V. fejezetében szereplő követelményeknek
+
+feleljen meg.
