@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-89-20-2
 | --- | --- | --- |
 | 2012-01-01 | 2011-89-20-2W.1 | 89/2011. (XII. 30.) NFM rendelet |
 | 2017-01-01 | 2011-89-20-2W.2 | 66/2016. (XII. 29.) NFM rendelet |
+| 2017-01-03 | 2011-89-20-2W.3 | 1/2017. (I. 3.) NFM rendelet |
