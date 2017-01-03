@@ -2,7 +2,7 @@
 
 1–6.
 
-7. 116. § (1) bekezdésében az „és a közvetlen vezeték” szövegrész helyébe a „ , közvetlen vezeték és az ideiglenes vezeték” szöveg,
+7.
 
 8–15.
 
