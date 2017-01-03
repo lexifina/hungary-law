@@ -1,3 +1,3 @@
-4. melléklet a 442/2016. (XII. 16.) Korm. rendelethez[^26]
+4. melléklet a 442/2016. (XII. 16.) Korm. rendelethez[^34]
 
-[^26]: A 4. melléklet a 42. § (4) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
+[^34]: A 4. melléklet a 42. § (4) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
