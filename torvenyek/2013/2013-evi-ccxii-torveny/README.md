@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2016-10-21 | 18/2016. (X. 20.) AB határozat | 2013-212-00-00.24 |
 | 2016-12-29 | 2016. évi CXLIX. törvény | 2013-212-00-00.25 |
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2013-212-00-00.26 |
+| 2017-01-04 | 2016. évi CLXXXVI. törvény | 2013-212-00-00.27 |
