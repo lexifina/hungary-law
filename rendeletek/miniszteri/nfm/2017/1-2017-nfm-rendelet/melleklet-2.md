@@ -1,7 +1,3 @@
-## 1. A 7/1995. KHVM rendelet 1. számú melléklet 1. pontja helyébe a következő rendelkezés lép:
+2. melléklet az 1/2017. (I. 3.) NFM rendelethez[^79]
 
-## „1. Közlekedésért felelős miniszter által vezetett minisztérium”.
-
-## 2. Hatályát veszti a 7/1995. KHVM rendelet 1. számú melléklet 5. és 26. pontja.
-
-2. melléklet az 1/2017. (I. 3.) NFM rendelethez
+[^79]: Az 1–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

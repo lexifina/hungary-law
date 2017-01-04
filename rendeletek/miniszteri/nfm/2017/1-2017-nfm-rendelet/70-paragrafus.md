@@ -1,5 +1,3 @@
-## 69. § Hatályát veszti a közlekedési infrastruktúrával összefüggő egyes állami feladatok végrehajtásáról, valamint a feladatok végrehajtásához szükséges források felhasználásának szabályairól szóló 40/2012. (VII. 10.) NFM rendelet.
-
 ## 70. Záró rendelkezések
 
 70. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetése napján 18 órakor lép hatályba.
