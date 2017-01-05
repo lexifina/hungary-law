@@ -38,19 +38,19 @@ b)[^30] az (5) bekezdés szerinti bejelentést követően az országos tisztifő
 
 (13) A (6) bekezdés szerinti akadályoztatás megszűnését haladéktalanul köteles az egészségügyi szolgáltató bejelenteni. A bejelentésre a (4), illetve az (5) bekezdésben foglaltakat kell alkalmazni.
 
-(14) Az egészségügyi szolgáltató nyolc nappal korábban köteles az OTH-nál bejelenteni, ha előre látható akadályoztatás miatt nem tudja az ügyeleti feladatait ellátni. A bejelentés alapján az OTH az egészségügyi szolgáltató tevékenységének szüneteltetésére vonatkozó szabályok szerint jár el.
+(14)[^32] Az egészségügyi szolgáltató nyolc nappal korábban köteles az OTH-nál és az OMSZ ügyeleti ellátást irányító szervezeti egységénél bejelenteni, ha előre látható akadályoztatás miatt nem tudja az ügyeleti feladatait ellátni. A bejelentés alapján az OTH az egészségügyi szolgáltató tevékenységének szüneteltetésére vonatkozó szabályok szerint jár el.
 
-(15)[^32] Ha az a (14) bekezdés szerinti esetben a folyamatos ellátás biztosítása érdekében szükséges, az országos tisztifőorvos kötelezi az OMSZ-t, hogy a határozatában megnevezett szolgáltatók közül általa választott egy vagy több egészségügyi szolgáltatót jelölje ki az akadályoztatott szolgáltató ügyeleti feladatainak ellátására.
+(15)[^33] Ha az a (14) bekezdés szerinti esetben a folyamatos ellátás biztosítása érdekében szükséges, az országos tisztifőorvos kötelezi az OMSZ-t, hogy a határozatában megnevezett szolgáltatók közül általa választott egy vagy több egészségügyi szolgáltatót jelölje ki az akadályoztatott szolgáltató ügyeleti feladatainak ellátására.
 
 (16) A (15) bekezdés alapján kijelölt egészségügyi szolgáltató nem tagadhatja meg az ügyeleti feladatok ellátását.
 
-(17)[^33] Ha a sürgősségi ügyeleti rend, illetve a sürgőségi betegellátási rend alapján ügyeleti feladatokat ellátó egészségügyi szolgáltató vagy annak az ügyeleti feladatban közreműködő része megszűnik, az OMSZ, illetve az országos tisztifőorvos a sürgősségi ügyeleti rend, illetve a sürgősségi betegellátási rend soron kívüli módosításával gondoskodik a folyamatos ellátásról.
+(17)[^34] Ha a sürgősségi ügyeleti rend, illetve a sürgőségi betegellátási rend alapján ügyeleti feladatokat ellátó egészségügyi szolgáltató vagy annak az ügyeleti feladatban közreműködő része megszűnik, az OMSZ, illetve az országos tisztifőorvos a sürgősségi ügyeleti rend, illetve a sürgősségi betegellátási rend soron kívüli módosításával gondoskodik a folyamatos ellátásról.
 
-(18)[^34] Az OMSZ és az országos tisztifőorvos gondoskodik az érvényes sürgősségi ügyeleti rendnek és a sürgősségi betegellátási rendnek a szervezet honlapján való elérhetőségéről.
+(18)[^35] Az OMSZ és az országos tisztifőorvos gondoskodik az érvényes sürgősségi ügyeleti rendnek és a sürgősségi betegellátási rendnek a szervezet honlapján való elérhetőségéről.
 
 (19) Az érvényes beutalási rend szerint ellátásra kötelezett egészségügyi szolgáltató kapacitásai kihasználtságának függvényében, illetve egészségügyi válsághelyzet esetén az OMSZ ügyeleti ellátást irányító szervezeti egységének főorvosa az érvényes beutalási rendtől eltérő betegelhelyezést is kezdeményezhet, azzal, hogy erről ezzel egyidejűleg tájékoztatja az egészségügyért felelős minisztert és az országos tisztifőorvost.
 
-(20)[^35] Az OMSZ havi rendszerességgel tájékoztatja a Nemzeti Egészségbiztosítási Alapkezelőt (a továbbiakban: NEAK) és az érintett egészségügyi szolgáltató fenntartóját a sürgősségi ügyeleti renddel kapcsolatos változásokról és akadályoztatás miatti eltérésekről.
+(20)[^36] Az OMSZ havi rendszerességgel tájékoztatja a Nemzeti Egészségbiztosítási Alapkezelőt (a továbbiakban: NEAK) és az érintett egészségügyi szolgáltató fenntartóját a sürgősségi ügyeleti renddel kapcsolatos változásokról és akadályoztatás miatti eltérésekről.
 
 [^26]: A 18. § a 41/2014. (VI. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
 [^27]: A 18. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § b) pontja szerint módosított szöveg.
@@ -58,7 +58,8 @@ b)[^30] az (5) bekezdés szerinti bejelentést követően az országos tisztifő
 [^29]: A 18. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § d) pontja szerint módosított szöveg.
 [^30]: A 18. § (8) bekezdés b) pontja az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
 [^31]: A 18. § (9) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § d) pontja szerint módosított szöveg.
-[^32]: A 18. § (15) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
-[^33]: A 18. § (17) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
-[^34]: A 18. § (18) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
-[^35]: A 18. § (20) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 62. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 40. § g) pontja szerint módosított szöveg.
+[^32]: A 18. § (14) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 41. §-ával megállapított szöveg.
+[^33]: A 18. § (15) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
+[^34]: A 18. § (17) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
+[^35]: A 18. § (18) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
+[^36]: A 18. § (20) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 62. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 40. § g) pontja szerint módosított szöveg.
