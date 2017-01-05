@@ -1,14 +1,18 @@
 4. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez
 
-## Adatlap különleges táplálkozási célú élelmiszerek bejelentéséhez
+## Adatlap anyatej-helyettesítő tápszer és speciális gyógyászati célra szánt tápszer vagy élelmiszer bejelentéséhez
+
+[^26]
+
+Adatlap különleges táplálkozási célú élelmiszerek bejelentéséhez
 
 | 1. Bejelentő cég adatai | Mellékletek: |
 
-## Név:
+Név:
 
-## Cím:
+Cím:
 
-## Telephely, elérhetőség:
+Telephely, elérhetőség:
 
 2. Termék eredete
 
@@ -57,3 +61,5 @@ Elérhetőség:
 Kiállítás dátuma
 
 |  | Cégszerű aláírás és bélyegző |
+
+[^26]: A 4. számú melléklet címe a 44/2016. (XII. 28.) EMMI rendelet 39. §-ával megállapított szöveg.
