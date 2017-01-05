@@ -22,8 +22,6 @@
 
 | D1 | diagnosztika | diagnosztika |
 
-| T1 | telemedicina | telemedicina |
-
 | F1 | fekvőbeteg szakellátás | aktív fekvőbeteg-ellátás |
 
 | F2 | fekvőbeteg szakellátás | krónikus fekvőbeteg-ellátás |
@@ -47,8 +45,6 @@
 | E5 | egyéb szolgáltatás | betegszállítás |
 
 | E6 | egyéb szolgáltatás | az előzőekbe be nem sorolható ellátások |
-
-## „
 
 3. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^24]
 

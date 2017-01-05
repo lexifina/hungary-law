@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-2-20-0B
 | 2015-12-25 | 2004-2-20-0B.17 | 1/2012. (V. 31.) EMMI rendelet |
 | 2016-03-31 | 2004-2-20-0B.18 | 1/2012. (V. 31.) EMMI rendelet |
 | 2017-01-01 | 2004-2-20-0B.19 | 54/2016. (XII. 30.) EMMI rendelet |
+| 2017-01-05 | 2004-2-20-0B.20 | 1/2012. (V. 31.) EMMI rendelet |

@@ -100,6 +100,8 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0515 | csecsemő- és gyermekgyógyászati intenzív terápia |
 
+| 0516 | gyermekhemato-onkológia |
+
 | 0521 | fejlődésneurológia |
 
 06 Fül-orr-gégegyógyászat
@@ -336,7 +338,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 54 Patológia és kórszövettan
 
-| 5400 | kórbonctan és kórszövettan |
+| 5400 | kórbonctan |
 
 | 5401 | szövettan, kórszövettan |
 
@@ -399,6 +401,8 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 | 6101 | transzfúziológia |
 
 | 6102 | véradószolgálat |
+
+| 6103 | donor plazmaferezis |
 
 62 Mentés és betegszállítás
 
@@ -554,6 +558,8 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 9302 | katasztrófa-orvostan |
 
+| 9303 | rendvédelmi orvostan |
+
 94 Megelőző orvostan és népegészségtan
 
 | 9400 | megelőző orvostan és népegészségtan |
@@ -618,4 +624,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^23]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a szerint módosított szöveg.
+[^23]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a szerint módosított szöveg.
