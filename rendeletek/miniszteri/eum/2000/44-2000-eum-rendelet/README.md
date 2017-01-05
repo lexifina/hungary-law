@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-44-20-0
 | 2015-04-29 | 2000-44-20-0B.21 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2015-06-01 | 2000-44-20-0B.22 | 25/2010. (V. 12) EüM rendelet |
 | 2017-01-01 | 2000-44-20-0B.23 | 54/2016. (XII. 30.) EMMI rendelet |
+| 2017-01-05 | 2000-44-20-0B.24 | 44/2016. (XII. 28.) EMMI rendelet |

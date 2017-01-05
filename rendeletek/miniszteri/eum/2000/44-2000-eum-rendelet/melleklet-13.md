@@ -38,17 +38,19 @@
 
 ## 3. A mérgezett állapota: eszméletlen, zavart tudat, ép tudat, légzési elégtelenség, keringési elégtelenség, egyéb:
 
-## 4. Az ellátás módja: hánytatás, gyomormosás, orvosi szén, hashajtás, mesterséges lélegeztetés, külső szívmasszázs, egyéb:
+## 4. A mérgezés súlyossága (a PSS skála szerint)*: tünetmentes, enyhe, közepes, súlyos, halálos
 
-## 5. A mérgezett sorsa*: végleges ellátás, további kezelés járó betegként, kórházi beutalás, meghalt
+## 5. Az ellátás módja: hánytatás, gyomormosás, orvosi szén, hashajtás, mesterséges lélegeztetés, külső szívmasszázs, egyéb:
 
-## Halál időpontja: ..................................... év ....................................... hó ................. nap ................. óra ................. perc
+## 6. A mérgezett sorsa*: végleges ellátás, további kezelés járó betegként, kórházi beutalás, meghalt
 
-## 6. Az első ellátást végző neve:
+## Halál időpontja: ................ év ............................... hó .............. nap ............. óra ............ perc
 
-## Munkahelye: ................................................................................................................
+## 7. Az első ellátást végző neve: ......................................................................................................
 
-## ........................................... év ........................................... hó ............................ nap
+## Munkahelye: ........................................................................................................................
+
+## ........................................... év ........................ hó ............................ nap
 
 ## ...........................................................................
 
@@ -88,6 +90,6 @@
 
 ## A **-gal jelölt mezők kitöltése kórházi ellátás esetén kötelező.
 
-13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^47]
+13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^48]
 
-[^47]: A 13. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (3) bekezdésével megállapított, címe a 23/2015. (IV. 28.) EMMI rendelet 29. § i) pontja szerint módosított szöveg.
+[^48]: A 13. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (3) bekezdésével megállapított, címe a 23/2015. (IV. 28.) EMMI rendelet 29. § i) pontja szerint módosított szöveg.

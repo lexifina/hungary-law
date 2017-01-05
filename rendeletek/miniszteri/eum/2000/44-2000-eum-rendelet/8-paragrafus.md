@@ -32,15 +32,17 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 
 (6)[^23] A bejelentést az esetet lezáró orvos, illetve egészségügyi intézmény teszi meg a mérgezett személy intézményből történő elbocsátását, illetve esetleges elhalálozását követő egy héten belül.
 
-(7)[^24] A 12. számú melléklet szerinti tartalmú mérgezési eset bejelentő lapot az első ellátást végző orvos – ha a (2) bekezdés alapján nem ő a bejelentő – a további ellátásra szoruló beteg esetén kitöltve, a beteggel együtt továbbküldi a végleges kórismét megállapító orvoshoz, illetve egészségügyi intézményhez, aki (amely) az adatlap adatait felhasználja a bejelentés megtételéhez.
+(6a)[^24] Az orvosi ellátás nélkül halált eredményező, és igazságügyi szakértői kivizsgálásra kerülő heveny mérgezési esetek bejelentését az igazságügyi szakértői kivizsgálást elrendelő szerv végzi, ha a szakértői vizsgálat megállapítja, hogy mérgezés volt a halál oka, vagy ahhoz jelentős mértékben hozzájárult. A bejelentést az igazságügyi szakértői vélemény kézhezvételétől számított egy héten belül kell megtenni.
 
-(8)[^25]
+(7)[^25] A 12. számú melléklet szerinti tartalmú mérgezési eset bejelentő lapot az első ellátást végző orvos – ha a (2) bekezdés alapján nem ő a bejelentő – a további ellátásra szoruló beteg esetén kitöltve, a beteggel együtt továbbküldi a végleges kórismét megállapító orvoshoz, illetve egészségügyi intézményhez, aki (amely) az adatlap adatait felhasználja a bejelentés megtételéhez.
 
-(8a)[^26] A mérgezett kezelését ellátó intézmény – az (5) bekezdés szerinti bejelentések adattartalmával – az általa megtett mérgezési eset-bejelentéseket nyilvántartja.
+(8)[^26]
+
+(8a)[^27] A mérgezett kezelését ellátó intézmény – az (5) bekezdés szerinti bejelentések adattartalmával – az általa megtett mérgezési eset-bejelentéseket nyilvántartja.
 
 (9) A mérgezési esetekről az ETTSZ az Egészségügyi Minisztérium beszámolási rendjének megfelelő összesítő jelentést készít.
 
-(10)[^27] A mérgezési esetbejelentések teljesítésének ellenőrzése a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak a feladata.
+(10)[^28] A mérgezési esetbejelentések teljesítésének ellenőrzése a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak a feladata.
 
 (11) A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyi miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
 
@@ -55,7 +57,8 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^21]: A 8. § (4) bekezdése a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének f) pontja, az 1/2009. (I. 30.) EüM rendelet 3. § (4) bekezdése szerint módosított szöveg.
 [^22]: A 8. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított, a 14/2013. (II. 15.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^23]: A 8. § (6) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^24]: A 8. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^25]: A 8. § (8) bekezdését a 14/2013. (II. 15.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
-[^26]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
-[^27]: A 8. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 29. § g) pontja szerint módosított szöveg.
+[^24]: A 8. § (6a) bekezdését a 44/2016. (XII. 28.) EMMI rendelet 18. §-a iktatta be.
+[^25]: A 8. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^26]: A 8. § (8) bekezdését a 14/2013. (II. 15.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
+[^27]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
+[^28]: A 8. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 29. § g) pontja szerint módosított szöveg.
