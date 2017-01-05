@@ -76,7 +76,7 @@
 
 | Egyéb (határozza meg) |  |  |  |  |
 
-12. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^123]
+12. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^160]
 
 ## A szövetbank éves jelentése
 
@@ -118,7 +118,7 @@ A szövet- és sejtbank 15/E. § szerinti éves jelentése a következőket tart
 
 1.8.2. Amnionmembrán cm2*
 
-1.9. Petefészek- és hereszövetek (egységek)*
+1.9. Hereszövet (egységek)*
 
 1.10. Egyéb szövetek száma (zsírszövet, dobhártya stb.)*
 
@@ -204,4 +204,4 @@ A szövet- és sejtbank 15/E. § szerinti éves jelentése a következőket tart
 
 A szövetek és sejtek vonatkozásában a fenti adatokat a gyűjtés, vizsgálat, megőrzés, feldolgozás, tárolás és elosztás, illetve egyéb módon történő felhasználás vonatkozásában kell megadni.
 
-[^123]: A 12. számú mellékletet a 41/2013. (VI. 17.) EMMI rendelet 6. § (1) bekezdése iktatta be.
+[^160]: A 12. számú mellékletet a 41/2013. (VI. 17.) EMMI rendelet 6. § (1) bekezdése iktatta be, szövege a 44/2016. (XII. 28.) EMMI rendelet 13. §-a szerint módosított szöveg.

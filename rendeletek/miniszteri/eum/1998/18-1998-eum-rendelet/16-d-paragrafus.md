@@ -1,4 +1,4 @@
-16/D. §[^46] (1) A donorok és recipiensek védelme érdekében az elosztott és átültetett valamennyi szerv nyomon követését az e rendeletben foglaltak szerint biztosítani kell.
+16/D. §[^62] (1) A donorok és recipiensek védelme érdekében az elosztott és átültetett valamennyi szerv nyomon követését az e rendeletben foglaltak szerint biztosítani kell.
 
 (2) Az OVSZ egyedi azonosító adásával biztosítja minden adományozás és azzal kapcsolatos szerv és recipiens egyedi azonosíthatóságát, a donor és a recipiens egészségügyi és személyazonosító adatainak védelmére vonatkozó törvényi előírásokkal összhangban. A rendszernek biztosítania kell, hogy ezen adatokhoz ne történhessen jogosulatlan hozzáférés, valamint ezen adatokkal kapcsolatban ne történhessen jogosulatlan adatfelhasználás.
 
@@ -6,4 +6,4 @@
 
 (4) Szerv esetében a nyomonkövethetőséghez szükséges adatokat az OVSZ az adományozást követő 30 évig őrzi meg. Az adatok megőrzése elektronikus formában is történhet.
 
-[^46]: A 16/D. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^62]: A 16/D. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.

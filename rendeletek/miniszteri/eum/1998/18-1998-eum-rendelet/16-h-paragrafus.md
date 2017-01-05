@@ -1,8 +1,8 @@
-## 16/G. §[^50] Az országos tisztifőorvos az egészségügyi szolgáltatók nyilvántartására vonatkozó jogszabályban foglaltak szerint nyilvántartást vezet a transzplantációs központokról.
+## 16/G. §[^66] Az országos tisztifőorvos az egészségügyi szolgáltatók nyilvántartására vonatkozó jogszabályban foglaltak szerint nyilvántartást vezet a transzplantációs központokról.
 
-## Az átültetésre szánt emberi szerveknek az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamok közötti cseréjére vonatkozó általános eljárási szabályok[^51]
+## Az átültetésre szánt emberi szerveknek az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamok közötti cseréjére vonatkozó általános eljárási szabályok[^67]
 
-16/H. §[^52] (1) Az OVSZ a 16/I. § szerinti adattovábbítása során a (2) és a (3) bekezdésben foglaltaknak megfelelően jár el.
+16/H. §[^68] (1) Az OVSZ a 16/I. § szerinti adattovábbítása során a (2) és a (3) bekezdésben foglaltaknak megfelelően jár el.
 
 (2) Az adatokat írásban, elektronikus úton vagy faxon, a rendeltetési tagállammal kötött megállapodás szerinti nyelven, ennek hiányában angol nyelven, az adatok rendelkezésre állását követően haladéktalanul kell megküldeni úgy, hogy az tartalmazza az adattovábbítás időpontját és az adattovábbításért felelős személy elérhetőségeit is. Az adattovábbítást követően gondoskodni kell arról, hogy a rendeltetési tagállam az adatok átvételét megerősítse.
 
@@ -12,6 +12,6 @@
 
 (5) Az OVSZ 24 órás ügyeletet biztosít a sürgős esetek adatainak fogadására.
 
-[^50]: A 16/G. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be, az 54/2016. (XII. 30.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
-[^51]: A 16/H. §-t megelőző alcímet a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
-[^52]: A 16/H. §-t a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
+[^66]: A 16/G. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be, az 54/2016. (XII. 30.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
+[^67]: A 16/H. §-t megelőző alcímet a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
+[^68]: A 16/H. §-t a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.

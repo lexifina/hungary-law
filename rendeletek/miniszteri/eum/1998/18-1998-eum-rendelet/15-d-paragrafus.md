@@ -1,3 +1,3 @@
-## 15/C. §[^31] Vérsejtképző őssejt transzplantáció céljából a szövetbankból közvetlenül az átültetést végző egészségügyi szolgáltatóhoz akkor juttatható el, ha az egészségügyi szolgáltató az átültetésre vonatkozóan működési engedéllyel rendelkezik.
+## 15/C. §[^46] Vérsejtképző őssejt transzplantáció céljából a szövetbankból közvetlenül az átültetést végző egészségügyi szolgáltatóhoz akkor juttatható el, ha az egészségügyi szolgáltató az átültetésre vonatkozóan működési engedéllyel rendelkezik.
 
-[^31]: A 15/C. §-t a 20/2007. (IV. 19.) EüM rendelet 5. §-a iktatta be.
+[^46]: A 15/C. §-t a 20/2007. (IV. 19.) EüM rendelet 5. §-a iktatta be.
