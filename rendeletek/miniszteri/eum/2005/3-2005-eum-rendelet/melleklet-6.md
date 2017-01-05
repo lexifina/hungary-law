@@ -1,6 +1,6 @@
 ## A véradás keretében levett vér és vérplazma vizsgálatának alapvető követelményei
 
-## A teljes vér és az aferezises véradások vonatkozásában – beleértve az autotranszfúzió céljára történő előzetes véradást – az alábbi vizsgálatokat kell végrehajtani:
+## A teljes vér és a donor citoferezises, illetve plazmaferezises véradások vonatkozásában – beleértve az autotranszfúzió céljára történő előzetes véradást – az alábbi vizsgálatokat kell végrehajtani:
 
 ## a) AB0 vércsoport meghatározás,
 
@@ -18,7 +18,7 @@
 
 ## További vizsgálatokra is szükség lehet speciális komponensek vagy donorok esetén, illetve epidemiológiai helyzetekben.
 
-6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^59]
+6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^76]
 
 A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmények
 
@@ -38,15 +38,15 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | 1.6. | Vörösvérsejt koncentrátum, fehérvérsejt-mentes, additív oldatban |
 
-| 1.7. | Vörösvérsejt koncentrátum, aferezisből |
+| 1.7. | Vörösvérsejt koncentrátum, donor citoferezisből |
 
 | 1.8. | Teljes vér |
 
 | 2. Trombocita-készítmények | A 2.1–2.6. pontban felsorolt komponensek az OVSZ területi szerve által tovább is feldolgozhatók, azokat ennek megfelelően kell címkézni |
 
-| 2.1. | Trombocita koncentrátum, aferezisből (egyedi) |
+| 2.1. | Trombocita koncentrátum, donor citoferezisből (egyedi) |
 
-| 2.2. | Trombocita koncentrátum, aferezisből, fehérvérsejt-mentes (egyedi) |
+| 2.2. | Trombocita koncentrátum, donor citoferezisből, fehérvérsejt-mentes (egyedi) |
 
 | 2.3. | Trombocita koncentrátum, poolozott |
 
@@ -64,7 +64,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | 3.3. | Krioprecipitátum |
 
-| 4. | Granulocita koncentrátum, aferezisből (egyedi) |
+| 4. | Granulocita koncentrátum, donor citoferezisből (egyedi) |
 
 2. A vérre és vérkomponensekre vonatkozó minőségellenőrzési követelmények
 
@@ -118,7 +118,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Hemolízis | Kevesebb, mint a vörösvérsejt tömeg 0,8%-a a felhasználhatósági időtartam lejáratakor |
 
-| Vörösvérsejt koncentrátum, aferezisből | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék hemoglobin és hemolízis határértékein belül tartásához szükségesek |
+| Vörösvérsejt koncentrátum, donor citoferezisből | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék hemoglobin és hemolízis határértékein belül tartásához szükségesek |
 
 | Hemoglobin* | Legalább 40 g egységenként |
 
@@ -130,13 +130,13 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Hemolízis | Kevesebb mint a vörösvérsejt tömeg 0,8%-a a felhasználhatósági időtartam lejáratakor |
 
-| Trombocita koncentrátum, aferezisből (egyedi) | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
+| Trombocita koncentrátum, donor citoferezisből (egyedi) | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
 
 | Trombocita-tartalom | A trombocita-tartalom ingadozása véradásonként olyan határok között megengedett, amelyek összhangban vannak az érvényesített feldolgozási és tárolási feltételekkel |
 
 | pH | Legalább 6,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
 
-| Trombocita koncentrátum, aferezisből, fehérvérsejt-mentes (egyedi) | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
+| Trombocita koncentrátum, donor citoferezisből, fehérvérsejt-mentes (egyedi) | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
 
 | Trombocita-tartalom | A trombocita-tartalom ingadozása véradásonként olyan határok között megengedett, amelyek összhangban vannak az érvényesített feldolgozási és tárolási feltételekkel |
 
@@ -192,8 +192,8 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | VIIIc faktor tartalom* | Nagyobb vagy egyenlő 70 nemzetközi egység egységenként |
 
-| Granulocita koncentrátum, aferezisből (egyedi) | Térfogat | Kevesebb, mint 500 ml |
+| Granulocita koncentrátum, donor citoferezisből (egyedi) | Térfogat | Kevesebb, mint 500 ml |
 
 | Granulocita-tartalom | Több, mint 1×1010 granulocita egységenként |
 
-[^59]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a szerint módosított szöveg.
+[^76]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § b) és j) pontja szerint módosított szöveg.

@@ -176,7 +176,7 @@
 
 | Ez a táblázat az alábbiakra vonatkozik: □ Teljes vér □ Vörösvérsejt koncentrátum □ Trombocita koncentrátum □ Plazmakészítmény □ Egyéb (használjon külön táblázatot minden egyes összetevő esetében) | A kibocsátott egységek száma (egy adott számú vérkomponenssel kibocsátott egységek száma összesen) A transzfúzión átesett recipiensek száma (azon recipiensek teljes száma, akiknek egy adott számú vérkomponenst beadtak) (amennyiben az adat rendelkezésre áll) A transzfundált egységek száma [a jelentési időszakban beadott vérkomponensek (egységek) száma összesen] (amennyiben az adat rendelkezésre áll) |
 
-## 7M00245_2
+## 6K84430M_2
 
 |  | Összes bejelentés száma | A 0–3-as hozzárendelési szintű súlyos szövődmények száma a megerősítést követően [lásd a III/A) pontot] |
 
@@ -264,7 +264,7 @@
 
 | Teljes vérgyűjtés |  |  |  |  |
 
-| Aferezis eljárással vérgyűjtés |  |  |  |  |
+| Donor citoferezis, illetve plazmaferezis eljárással vérgyűjtés |  |  |  |  |
 
 | Véradás |  |  |  |  |
 
@@ -310,7 +310,7 @@
 
 | Teljes vérgyűjtés |  |  |  |  |  |
 
-| Aferezis eljárással vérgyűjtés |  |  |  |  |  |
+| Donor citoferezis, illetve plazmaferezis eljárással vérgyűjtés |  |  |  |  |  |
 
 | Véradás |  |  |  |  |  |
 

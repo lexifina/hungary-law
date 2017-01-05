@@ -62,7 +62,7 @@
 
 ## 3. Csak a mindenkor érvényes jogszabályokat teljesítő, azaz jóváhagyott szállítóktól származó, a dokumentált követelményeknek és előírásoknak megfelelő reagenseket és anyagokat szabad felhasználni. Kritikus anyagok felszabadítását csak az ehhez képzettséggel rendelkező személy végezheti. Adott esetben az anyagoknak, reagenseknek és berendezéseknek meg kell felelniük:
 
-## –[^52] orvostechnikai eszközök esetében az orvostechnikai eszközökről szóló EüM rendelet,
+## –[^67] orvostechnikai eszközök esetében az orvostechnikai eszközökről szóló EüM rendelet,
 
 ## – in vitro diagnosztikai orvostechnikai eszközök esetében a 8/2003. (III. 13.) ESZCSM rendelet
 
@@ -70,7 +70,7 @@
 
 ## – harmadik országokban történő gyűjtés esetén az ezekkel egyenértékű előírásoknak.
 
-## 4.[^53] A leltárjegyzőkönyveket az OTH-val egyeztetett ideig kell megőrizni.
+## 4.[^68] A leltárjegyzőkönyveket az OTH-val egyeztetett ideig kell megőrizni.
 
 ## 5. Számítógépes rendszerek használatakor rendszeresen ellenőrizni kell a szoftvereket, a hardvert és a biztonsági másolati eljárásokat a megbízhatóság fenntartásának érdekében, azokat a használatbavétel előtt validálni kell és validált állapotban kell fenntartani. A hardvert és a szoftvereket védeni kell a jogosulatlan felhasználással vagy jogosulatlan változtatásokkal szemben. A biztonsági másolati eljárásoknak meg kell előzniük az adatvesztést vagy -károsodást, várt vagy váratlan áramszünet vagy működési zavar esetén.
 
@@ -170,7 +170,7 @@
 
 ## Az 5–7. számú mellékletben lefektetett kötelező előírásoktól eltérő vérkomponenseket csak kivételes körülmények között, és az igénylő orvos, valamint az OVSZ területi szerve orvosának írásos beleegyezésével szabad transzfúzióra felszabadítani.
 
-## 9.2.[^54] Panaszok
+## 9.2.[^69] Panaszok
 
 ## Dokumentálni kell minden olyan panaszt és információt – beleértve a súlyos szövődményeket és súlyos káros eseményeket –, amely arra utalhat, hogy nem megfelelő vérkomponenst adtak ki. A hiba okát ki kell vizsgálni, ha szükséges, a vérkomponenst vissza kell hívni, és a megfelelő intézkedéseket meg kell tenni a hiba kiküszöbölése érdekében. Olyan eljárásokat kell működtetni, amelyek biztosítják, hogy az OTH a szabályozói követelményekkel összhangban megfelelően értesüljön a súlyos szövődményekről és súlyos káros eseményekről.
 
@@ -178,7 +178,7 @@
 
 ## 1. Az OVSZ területi szervének rendelkeznie kell olyan személyzettel, amely jogosult a vér és vérkomponensek visszahívására.
 
-## 2.[^55] A visszahívási eljárást szabályozni kell, beleértve a jogosultsági és felelősségi szinteket is. A visszahívási eljárás keretén belül szabályozni kell az OTH értesítését is.
+## 2.[^70] A visszahívási eljárást szabályozni kell, beleértve a jogosultsági és felelősségi szinteket is. A visszahívási eljárás keretén belül szabályozni kell az OTH értesítését is.
 
 ## 3. A vérkomponensek nyomon követéséről és adott esetben visszakereséséről gondoskodni kell. A vizsgálat célja minden olyan donor azonosítása, aki hozzájárulhatott a transzfúziós szövődmény kiváltásához, valamint az e donortól rendelkezésre álló vérkomponensek visszanyerése, továbbá az ugyanazon donortól gyűjtött komponensek címzettjeinek és recipienseinek értesítése abban az esetben, ha ők kockázatnak lehetnek kitéve.
 
@@ -196,10 +196,10 @@
 
 ## Minden eredményt dokumentálni kell, a javító és megelőző intézkedéseket a lehető legrövidebb időn belül el kell végezni.
 
-2. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^56]
+2. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^71]
 
-[^52]: Az 1/A. számú melléklet 4. része 3. pontjának első franciabekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének c) pontjával megállapított szöveg.
-[^53]: Az 1/A. számú melléklet 4. cím 4. pontja a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
-[^54]: Az 1/A. számú melléklet 9. cím 9.2. pontja a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
-[^55]: Az 1/A. számú melléklet 9. cím 9.3. pont 2. alpontja a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
-[^56]: A 2. számú melléklet a 2/2007. (I. 24.) EüM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^67]: Az 1/A. számú melléklet 4. része 3. pontjának első franciabekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének c) pontjával megállapított szöveg.
+[^68]: Az 1/A. számú melléklet 4. cím 4. pontja a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
+[^69]: Az 1/A. számú melléklet 9. cím 9.2. pontja a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
+[^70]: Az 1/A. számú melléklet 9. cím 9.3. pont 2. alpontja a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
+[^71]: A 2. számú melléklet a 2/2007. (I. 24.) EüM rendelet 7. § (2) bekezdésével megállapított, a 44/2016. (XII. 28.) EMMI rendelet 48. § f) pontja szerint módosított szöveg.

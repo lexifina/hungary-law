@@ -4,7 +4,7 @@
 
 ## A leendő vér- vagy vérkomponens-donorok számára nyújtott információk
 
-## 1. Az átlagnépesség számára érthető szakszerű tájékoztató anyagok a vér alapvető természetéről, a véradás folyamatáról, a véradás során gyűjtött teljes vérből és aferezis eredményeként előállított vérkomponensekről, valamint a véradás más emberek számára való fontosságáról.
+## 1.[^72] Az átlagnépesség számára érthető szakszerű tájékoztató anyagok a vér alapvető természetéről, a véradás folyamatáról, a véradás során gyűjtött teljes vérből és donor citoferezis, illetve plazmaferezis eredményeként előállított vérkomponensekről, valamint a véradás más emberek számára való fontosságáról.
 
 ## 2. Mind allogén, mind autológ véradás esetén tájékoztatás arról, hogy miért szükséges a donor vizsgálata, miért szükségesek az egészségi állapottal és a kórelőzménnyel kapcsolatos kérdések, valamint a leadott vér kivizsgálása, és mi a jelentősége a beleegyező nyilatkozatnak.
 
@@ -34,7 +34,7 @@
 
 ## A donor által valamennyi véradás alkalmával szolgáltatandó adatok köre
 
-## 1.[^57] A donor személyazonossága
+## 1.[^73] A donor személyazonossága
 
 ## A donor családi és utóneve, asszonyoknál leánykori név, a születési hely és idő, az anya leánykori családi és utóneve, a lakóhely (ennek hiányában a tartózkodási hely), magyar állampolgárok esetében a társadalombiztosítási azonosító jel, nem magyar állampolgárok esetében az ezzel egyenértékű, egészségbiztosítási jogviszonyt igazoló irat.
 
@@ -58,7 +58,7 @@
 
 ## f) kijelenti, hogy az általa megadott valamennyi információ legjobb tudomása szerint megfelel a valóságnak.
 
-4. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^58]
+4. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^74]
 
 A teljes vér és vérkomponensek donorainak alkalmassági kritériumai
 
@@ -76,7 +76,7 @@ Az alábbi kritériumok az autológ véradásra nem vonatkoznak:
 
 | 65 évnél idősebb | – az OVSZ területi szerve orvosának engedélyével |
 
-| Testsúly | ≥ 50 kg teljes vért adók, illetve aferezises véradásra vállalkozók |
+| Testsúly | ≥ 50 kg teljes vért adók, illetve donor citoferezises, illetve plazmaferezises véradásra vállalkozók |
 
 1.2. A donorok vérében mért hemoglobinszint
 
@@ -88,7 +88,7 @@ Az alábbi kritériumok az autológ véradásra nem vonatkoznak:
 
 1.4. A donorok vérében mért trombocita koncentráció
 
-| Trombocita | 150×109/l értéknél nagyobb vagy egyenlő trombocita koncentráció | Ez a szint aferezis trombocita donorok esetében szükséges |
+| Trombocita | 150×109/l értéknél nagyobb vagy egyenlő trombocita koncentráció | Ez a szint donor citoferezis trombocita donorok esetében szükséges |
 
 2. A teljes vér és vérkomponensek donorainak kizárási kritériumai
 
@@ -214,5 +214,6 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 | Aktív bakteriális fertőzés |  |
 
-[^57]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^58]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése, az 54/2015. (XI. 24.) EMMI rendelet 27. §-a szerint módosított szöveg.
+[^72]: A 3. számú melléklet A. rész 1. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § g) pontja szerint módosított szöveg.
+[^73]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^74]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése, az 54/2015. (XI. 24.) EMMI rendelet 27. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § c) és h) pontja szerint módosított szöveg.
