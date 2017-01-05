@@ -16,10 +16,12 @@ e) Legionella-expozíció szempontjából kockázatot jelentő közeg: azon 20�
 
 f) Legionella-fertőzési kockázatot jelentő létesítmények: olyan közforgalmú létesítmények, amelyekben Legionella-expozíció szempontjából kockázatot jelentő közegek találhatóak;
 
-g) fokozott Legionella-fertőzési kockázatot jelentő létesítmények: az f) pont szerinti létesítmények közül az egészségügyi és szociális intézmények, kereskedelmi szálláshelyek, nedves hűtőtornyok és azon közfürdők, ahol aeroszol előállító meleg vizű medencét üzemeltetnek, különösen pezsgőmedencét, élménymedencét, hidroterápiás kezelőt;
+g)[^1] fokozott Legionella-fertőzési kockázatot jelentő létesítmények: a nedves hűtőtornyok, továbbá az f) pont szerinti létesítmények közül az egészségügyi és szociális intézmények, kereskedelmi szálláshelyek, nedves hűtőtornyok és azon közfürdők, ahol aeroszol előállító meleg vizű medencét üzemeltetnek, különösen pezsgőmedencét, élménymedencét, hidroterápiás kezelőt;
 
 h) monitoring: a vízhőmérséklet mérése vagy a Legionella-koncentráció – speciális esetekben a 22 °C-on számolt telepszám – vizsgálata;
 
 i) nedves hűtőtorony: olyan berendezés, amelyben a felmelegedett víz légárammal szemben haladva lehűl, miközben a víz egy része a környezeti levegőbe párolog és a lehűtött víz jellemzően valamilyen hőcserélőhöz kerül visszavezetésre, ahol ismét felmelegszik;
 
 j) vízhőmérséklet mérése: a végkifolyókon végzett hőmérsékletmérés, amelyet kalibrált vízhőmérővel kell végezni meleg víz esetén a víz egy perces, hideg víz esetén annak két perces kifolyatását követően.
+
+[^1]: A 2. § g) pontja a 44/2016. (XII. 28.) EMMI rendelet 65. §-a szerint módosított szöveg.
