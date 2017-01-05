@@ -4,8 +4,10 @@
 
 a) szakambulancia vagy kórházi osztály szakorvosa, vagy
 
-b) a jogosultságot megállapító (1) bekezdés szerinti orvosi dokumentáció alapján a beteg választott háziorvosa
+b)[^1] abban az esetben, ha az állapot a jogosultságot megállapító (1) bekezdés szerinti orvosi dokumentáció alapján végleges, a beteg választott háziorvosa
 
 állítja ki.
 
 (3) Az összevont adóalap adóját csökkentő kedvezmény – az (1)–(2) bekezdésben meghatározottaktól eltérően – a Kr. 1. § (2) bekezdése alapján a fogyatékossági támogatást megállapító határozattal is igénybe vehető.
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 44/2016. (XII. 28.) EMMI rendelet 53. §-ával megállapított szöveg.

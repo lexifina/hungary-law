@@ -8,9 +8,9 @@
 
 (5) A II. típusú diabeteses beteg – ide nem értve a Kr. alapján adókedvezmény igénybevételére jogosult II. típusú diabeteses beteget – részére a súlyos fogyatékosság minősítéséről és igazolásáról szóló 15/1990. (IV. 23.) SZEM rendelet alapján kiállított igazolás az összevont adóalap adóját csökkentő kedvezmény igénybevételére utoljára a 2009-es adóévre vonatkozóan használható fel.
 
-(6)[^1]
+(6)[^2]
 
-(7)[^2]
+(7)[^3]
 
 Melléklet a 49/2009. (XII. 29.) EüM rendelethez
 
@@ -28,5 +28,5 @@ Az igazolás kiállításának dátuma
 
 Az igazolást kiállító szakorvos/háziorvos aláírása
 
-[^1]: A 3. § (6) bekezdését a (7) bekezdés hatályon kívül helyezte.
-[^2]: A 3. § (7) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^2]: A 3. § (6) bekezdését a (7) bekezdés hatályon kívül helyezte.
+[^3]: A 3. § (7) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
