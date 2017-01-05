@@ -1,9 +1,9 @@
-1. § (1) E rendelet előírásait Magyarországon forgalomba hozatalra szánt, a testtömeg-csökkentés céljára szolgáló, csökkentett energiatartalmú különleges táplálkozási célú élelmiszerekre (a továbbiakban: csökkentett energiatartalmú élelmiszer), azok összetételére és jelölésére kell alkalmazni.
+1. § (1)[^2] E rendelet előírásait a Magyarországon forgalomba hozatalra szánt, a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekre, azok összetételére és jelölésére kell alkalmazni.
 
-(2) A csökkentett energiatartalmú élelmiszerek olyan különlegesen összeállított élelmiszerek, amelyek az előállító útmutatása szerint alkalmazva helyettesítik a teljes napi étrendet vagy annak egy részét. A csökkentett energiatartalmú élelmiszerek:
+(2)[^3] A testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek olyan különlegesen összeállított élelmiszerek, amelyek az előállító útmutatása szerint alkalmazva helyettesítik a teljes napi étrendet.
 
-a) a teljes napi étrend helyettesítésére szolgáló termékek, illetve
+(3)[^4] Ha e rendelet eltérő rendelkezést nem tartalmaz, testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszer előállítása, csomagolása, jelölése, forgalomba hozatala és reklámozása során a különleges táplálkozási célú élelmiszerekről szóló külön jogszabály előírásait kell alkalmazni.
 
-b) a napi étrend egy részét, egy vagy több étkezés helyettesítését szolgáló termékek.
-
-(3) Ha e rendelet eltérő rendelkezést nem tartalmaz, csökkentett energiatartalmú élelmiszer előállítása, csomagolása, jelölése, forgalomba hozatala és reklámozása során a különleges táplálkozási célú élelmiszerekről szóló külön jogszabály előírásait kell alkalmazni.
+[^2]: Az 1. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 27. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 27. §-ával megállapított szöveg.
+[^4]: Az 1. § (3) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 31. § a) pontja szerint módosított szöveg.

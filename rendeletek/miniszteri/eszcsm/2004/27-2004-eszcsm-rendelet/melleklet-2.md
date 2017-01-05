@@ -1,6 +1,6 @@
 2. számú melléklet a 27/2004. (IV. 24.) ESZCSM rendelethez
 
-Kívánatos esszenciális aminosav-összetétel fehérjékben[^5]
+Kívánatos esszenciális aminosav-összetétel fehérjékben[^22]
 
 | Esszenciális aminosavak | g/100 g fehérje |
 
@@ -22,4 +22,4 @@ Kívánatos esszenciális aminosav-összetétel fehérjékben[^5]
 
 | Valin | 1,3 |
 
-[^5]: Egészségügyi Világszervezet. Az energia- és fehérjetartalommal szemben támasztott követelmények. A FAO/WHO/UNU együttes ülésén készült jelentés. Genf: Egészségügyi Világszervezet, 1985. (WHO Technikai Jelentések Sorozata, 724).
+[^22]: Egészségügyi Világszervezet. Az energia- és fehérjetartalommal szemben támasztott követelmények. A FAO/WHO/UNU együttes ülésén készült jelentés. Genf: Egészségügyi Világszervezet, 1985. (WHO Technikai Jelentések Sorozata, 724).
