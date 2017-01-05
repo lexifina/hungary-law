@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-138-00-00
 | 2016-12-22 | 2010. évi CXXX. törvény | 2016-138-00-00.4 |
 | 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-138-00-00.5 |
 | 2017-01-02 | 2010. évi CXXX. törvény | 2016-138-00-00.6 |
+| 2017-01-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-138-00-00.7 |
