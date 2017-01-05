@@ -20,7 +20,7 @@ f) anyatej-helyettesítő és anyatej-kiegészítő tápszer esetében utasítá
 
 (2) A címke a következőket tartalmazhatja:
 
-a) az anyatej-helyettesítő és az anyatej-kiegészítő tápszer vonatkozásában a 3. mellékletben említett tápanyagok átlagos mennyiségét a fogyasztásra kész termék 100 ml-ében számszerű formában kifejezve, az (1) bekezdés e) pontjában felsoroltakon kívül;
+a)[^10] az anyatej-helyettesítő és az anyatej-kiegészítő tápszer vonatkozásában a különleges táplálkozási célokra szánt élelmiszerekhez adható tápértéknövelő anyagokról szóló, 2009. október 13-i 953/2009/EK bizottsági rendelet mellékletében említett tápanyagok átlagos mennyiségét a fogyasztásra kész termék 100 ml-ében számszerű formában kifejezve, az (1) bekezdés e) pontjában felsoroltakon kívül;
 
 b) anyatej-kiegészítő tápszer esetén a fogyasztásra kész termék 100 ml-ére vonatkozóan a 7. mellékletben említett vitaminok és ásványi anyagok mennyiségét a számszerű információn kívül az ott megadott referenciaértékek százalékában kifejezve.
 
@@ -41,3 +41,5 @@ b) figyelmeztető feliratot, hogy a terméket csak olyan szakemberek tanácsára
 (8) Az anyatej-helyettesítő és az anyatej-kiegészítő tápszert úgy kell címkézni, hogy az lehetővé tegye a fogyasztók számára e termékek egyértelmű megkülönböztetését, és elkerülhető legyen az anyatej-helyettesítő és anyatej- kiegészítő tápszer összetévesztésének kockázata.
 
 (9) A (3)–(8) bekezdésben említett követelményeket, tilalmakat és korlátozásokat a termék külső megjelenésére, alakjára, az alkalmazott csomagolóanyagra, az elrendezés módjára és a környezetére az árusítóhelyeken, valamint a reklámra is megfelelően alkalmazni kell.
+
+[^10]: A 12. § (2) bekezdés a) pontja a 44/2016. (XII. 28.) EMMI rendelet 50. §-a szerint módosított szöveg.

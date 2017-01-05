@@ -30,7 +30,7 @@
 
 ## (1) 1 kJ = 0,239 kcal.
 
-6. melléklet a 20/2008. (V. 14.) EüM rendelethez[^28]
+6. melléklet a 20/2008. (V. 14.) EüM rendelethez[^35]
 
 ## Tehéntej-fehérjéből származó tejsavófehérje-hidrolizátumokból gyártott, 0,56 g/100 kJ-nál (2,25 g/100 kcal) kisebb fehérjetartalmú anyatej-helyettesítő és anyatej-kiegészítő tápszerek gyártásához felhasznált fehérje fehérjetartalmára, -forrására, és feldolgozására vonatkozó előírások
 
@@ -86,4 +86,4 @@ Az anyatejben lévő, nélkülözhetetlen és feltételesen nélkülözhetetlen 
 
 (1) 1 kJ = 0,239 kcal.
 
-[^28]: A 6. melléklet a 41/2009. (XI. 23.) EüM rendelet 3. § (2) bekezdése, a 22/2014. (III. 20.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
+[^35]: A 6. melléklet a 41/2009. (XI. 23.) EüM rendelet 3. § (2) bekezdése, a 22/2014. (III. 20.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
