@@ -28,7 +28,7 @@ b) HR-IV, MR-I és VE hűtőközeg, VE berendezés esetén 26 000 forint,
 
 c) HR-II és MR-II kategória esetén 21 000 forint
 
-d) HR-III és MR-III kategória esetén 16 000 forint, valamint
+d) HR-III és MR-III kategória, gyártó, ártalmatlanító, regeneráló esetén 16 000 forint, valamint
 
 e) tulajdonos és üzemeltető esetében hűtőkörönként 30 Ft/F-ÜHG tCO2 egyenérték, de legalább 2000 forint.
 
