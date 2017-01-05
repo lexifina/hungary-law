@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-186-00-00
 | --- | --- | --- |
 | 2017-01-04 | 2016. évi CLXXXVI. törvény | 2016-186-00-00.0 (közlönyállapot) |
 | 2017-01-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-186-00-00.1 |
+| 2017-01-05 | 2010. évi CXXX. törvény | 2016-186-00-00.2 |
