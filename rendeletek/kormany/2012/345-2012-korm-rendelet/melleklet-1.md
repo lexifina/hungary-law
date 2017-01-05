@@ -24,7 +24,7 @@
 
 1.10. Az M7 autópálya, M0 autóút csomópont fejlesztése.
 
-1.11.[^31] Az M7 autópálya, Érd, Iparos úti csomópont átépítése.
+1.11. Az M7 autópálya, Érd, Iparos úti csomópont átépítése.
 
 1.12. Az M7 autópálya, Székesfehérvár, nyugati csomópont fejlesztése.
 
@@ -34,407 +34,533 @@
 
 1.15. Az M3 autópálya, 106 km szelvényben lévő pihenőhely fejlesztése.
 
-1.16.[^32] Az M1 autópálya, Hegyeshalom országhatár határátkelőhely közúti akadálymentesítése.
+1.16. Az M1 autópálya, Hegyeshalom országhatár határátkelőhely közúti akadálymentesítése.
 
 1.17. A 21. számú főút, M3 autópálya és Salgótarján közötti szakasz négynyomúsítása.
 
-1.18. A 306. számú főút, miskolci északi elkerülő (az M30 és a 26. számú főút közötti) szakasz megépítése.
+1.18. Az 54. számú főút, M5 autópálya és 5. számú főút közötti szakasz négynyomúsítása.
 
-1.19. Az 54. számú főút, M5 autópálya és 5. számú főút közötti szakasz négynyomúsítása.
+1.19. A 441. számú főút, 445. számú főút és Kecskemét, Nagykörút közötti szakasz négynyomúsítása.
 
-1.20. Az 52. számú főút, M5 autópálya és Kecskemét, Nagykörút közötti szakasz négynyomúsítása.
+1.20. Az 541. számú főút, 52. számú főút és Kecskemét, Halasi út közötti szakasz megépítése.
 
-1.21. A 441. számú főút, 445. számú főút és Kecskemét, Nagykörút közötti szakasz négynyomúsítása.
+1.21. A Kecskemét, Nagykörút rekonstrukciója és kapacitásbővítése.
 
-1.22. Az 541. számú főút, 52. számú főút és Kecskemét, Halasi út közötti szakasz megépítése.
+1.22. A 445. számú főút, Kecskemét északi elkerülő szakasz megépítése (5. számú főút és 5218. jelű út között).
 
-1.23. A Kecskemét, Nagykörút rekonstrukciója és kapacitásbővítése.
+1.23. A 47. számú főút, Szeged és Békéscsaba közötti szakasz rekonstrukciója.
 
-1.24. A 445. számú főút, Kecskemét északi elkerülő szakasz megépítése.
+1.24. A 47. számú főút, Hódmezővásárhely elkerülő szakasz megvalósítása.
 
-1.25. A 47. számú főút, Szeged és Békéscsaba közötti szakasz rekonstrukciója.
+1.25. A 86. számú főút, Szombathely és országhatár közötti szakaszának rekonstrukciója és kapacitásbővítése.
 
-1.26.[^33] A 47. számú főút, Hódmezővásárhely elkerülő szakasz megvalósítása.
+1.26. 86. számú főút, Egyházasrádóc és Szombathely közötti szakasz fejlesztése, távlati M86 autópálya megvalósítása.
 
-1.27. A 86. számú főút, Szombathely és országhatár közötti szakaszának rekonstrukciója és kapacitásbővítése.
+1.27. A 86. számú főút, Zalalövő elkerülő szakasz megépítése.
 
-1.28. A 86. számú főút, Balogunyom elkerülő szakasz megépítése.
+1.28. A 8. számú főút, Székesfehérvár és Veszprém (nyugat) közötti szakasz rekonstrukciója.
 
-1.29. A 86. számú főút, Zalalövő elkerülő szakasz megépítése.
+1.29. A 8. számú főút, Székesfehérvár–Feketehegy elkerülő szakasz megvalósítása.
 
-1.30. A 8. számú főút, Székesfehérvár és Veszprém (nyugat) közötti szakasz rekonstrukciója.
+1.30. A 8. számú főút, Várpalota elkerülő szakasz megépítése.
 
-1.31.[^34] A 8. számú főút, Székesfehérvár–Feketehegy elkerülő szakasz megvalósítása.
+1.31. A 8. számú főút, Herend (nyugat) és Körmend közötti szakasz rekonstrukciója és kapacitásbővítése.
 
-1.32. A 8. számú főút, Várpalota elkerülő szakasz megépítése.
+1.32. M25 autóút (M3 autópálya – Eger) és kapcsolódó létesítményei a 2502. jelű út átkötése és a 252. számú főút megvalósításával.
 
-1.33. A 8. számú főút, Veszprém (nyugat) és Körmend közötti szakasz rekonstrukciója és kapacitásbővítése.
+1.33. A 67. számú főút, M7 autópálya és Kaposvár közötti szakasz (érintett települések elkerülését is megvalósító) gyorsforgalmi fejlesztése.
 
-1.34.[^35] Az M3 autópálya és Eger közötti gyorsforgalmi útszakasz megvalósítása.
+1.34. A 4. számú főút, Hajdúszoboszló és Debrecen közötti szakasz rekonstrukciója és kapacitásbővítése.
 
-1.35.[^36] A 67. számú főút, M7 autópálya és Kaposvár közötti szakasz (érintett települések elkerülését is megvalósító) gyorsforgalmi fejlesztése.
+1.35. A 10. számú főút, Budapest, Bécsi út és a Budapest–Esztergom vasútvonal szintbeli átjárójának kiváltása különszintű átvezetés megépítésével.
 
-1.36. A 4. számú főút, Hajdúszoboszló és Debrecen közötti szakasz rekonstrukciója és kapacitásbővítése.
+1.36. A 86. és 76. számú főút, Nádasd és Katafa–Hegyhátsál elkerülő szakasz megépítése.
 
-1.37. A 10. számú főút, Budapest, Bécsi út és a Budapest–Esztergom vasútvonal szintbeli átjárójának kiváltása különszintű átvezetés megépítésével.
+1.37. A 76. számú főút rekonstrukciója.
 
-1.38. A 86. és 76. számú főút, Nádasd és Katafa–Hegyhátsál elkerülő szakasz megépítése.
+1.38. A 3. számú főút, Miskolc belső városrészét (Búza tér) tehermentesítő szakasz fejlesztése.
 
-1.39. A 76. számú főút rekonstrukciója.
+1.39. A 338. számú főút, Nyíregyháza nyugati elkerülő szakasz megépítése (M3 autópálya és a Nyírszőlősi út között).
 
-1.40. A 3. számú főút, Miskolc belső városrészét (Búza tér) tehermentesítő szakasz fejlesztése.
+1.40. A 301. számú főút, M3 és M31 autópálya közötti szakasz megépítése.
 
-1.41. A 338. számú főút, Nyíregyháza nyugati elkerülő szakasz megépítése.
+1.41. Mogyoród térség közúti kapcsolatainak fejlesztése, M3 és M31 autópálya közötti, továbbá az M3 és a 2101. jelű út közötti szakasz megépítése.
 
-1.42. A 301. számú főút, M3 és M31 autópálya közötti szakasz megépítése.
+1.42. A 13. számú főút, Kisbér és Komárom közötti szakasz rekonstrukciója.
 
-1.43. A 13. számú főút, Kisbér és Komárom közötti szakasz rekonstrukciója.
+1.43. A 26. számú főút, Sajószentpéter és Kazincbarcika elkerülő szakasz megépítése.
 
-1.44. A 26. számú főút, Sajószentpéter és Kazincbarcika elkerülő szakasz megépítése.
+1.44. A 31. számú főút, Jászberény és Dormánd közötti szakasz rekonstrukciója.
 
-1.45. A 31. számú főút, Jászberény és Dormánd közötti szakasz rekonstrukciója.
+1.45. A 32. számú főút, Hatvan és Szolnok közötti szakasz rekonstrukciója.
 
-1.46. A 32. számú főút, Hatvan és Szolnok közötti szakasz rekonstrukciója.
+1.46. A 32. számú főút, Jászberény elkerülő szakasz megépítése.
 
-1.47. A 32. számú főút, Jászberény elkerülő szakasz megépítése.
+1.47. A 33. számú főút, Füzesabony és Tiszafüred közötti szakasz rekonstrukciója.
 
-1.48. A 33. számú főút, Füzesabony és Tiszafüred közötti szakasz rekonstrukciója.
+1.48. A 471. számú főút Hajdú Bihar megyei szakaszok fejlesztése (kapacitásbővítése, elkerülő építése, 11,5 t burkolatmegerősítés).
 
-1.49. A 471. számú főút, Debrecen és Nyíradony közötti szakasz rekonstrukciója és kapacitásbővítése.
+1.49. Az 51. számú főút, Apostag és Baja közötti szakasz rekonstrukciója.
 
-1.50. Az 51. számú főút, Apostag és Baja közötti szakasz rekonstrukciója.
+1.50. Az 51. számú főút, Solt elkerülő szakasz megépítése.
 
-1.51. Az 51. számú főút, Solt elkerülő szakasz megépítése.
+1.51. Az 53. számú főút, Tompa és országhatár közötti szakasz rekonstrukciója.
 
-1.52. Az 53. számú főút, Tompa és országhatár közötti szakasz rekonstrukciója.
+1.52. Az 55. számú főút, Szeged és Baja közötti szakasz rekonstrukciója.
 
-1.53. Az 55. számú főút, Szeged és Baja közötti szakasz rekonstrukciója.
+1.53. Az 55. számú főút, Mórahalom elkerülő és megyehatár közötti szakaszán 115 kN tengelyterhelésre történő burkolat megerősítés és a főúttal párhuzamosan kerékpárút kivitelezési munkáinak elvégzése.
 
-1.54.[^37] Az 55. számú főút, Mórahalom elkerülő és megyehatár közötti szakaszán 115 kN tengelyterhelésre történő burkolat megerősítés és a főúttal párhuzamosan kerékpárút kivitelezési munkáinak elvégzése.
+1.54. A 62. számú főút, Székesfehérvár és Dunaújváros közötti szakasz rekonstrukciója.
 
-1.55. A 62. számú főút, Székesfehérvár és Dunaújváros közötti szakasz rekonstrukciója.
+1.55. A 62. számú főút, Szabadegyháza-ipartelep elkerülő szakasz megvalósítása.
 
-1.56.[^38] A 62. számú főút, Szabadegyháza elkerülő szakasz megvalósítása.
+1.56. A 62. számú főút, Seregélyes elkerülő szakasz megépítése.
 
-1.57. A 62. számú főút, Seregélyes elkerülő szakasz megépítése.
+1.57. A 68. számú főút, Balatonszentgyörgy és Barcs közötti szakasz rekonstrukciója.
 
-1.58. A 68. számú főút, Balatonszentgyörgy és Barcs közötti szakasz rekonstrukciója.
+1.58. A 81. számú főút, Kisbér és Mezőörs közötti szakasz rekonstrukciója.
 
-1.59. A 81. számú főút, Kisbér és Mezőörs közötti szakasz rekonstrukciója.
+1.59. A 81. számú főút, Kisbér és Ászár elkerülő szakasz megépítése.
 
-1.60. A 81. számú főút, Kisbér és Ászár elkerülő szakasz megépítése.
+1.60. A 82. számú főút, Veszprém-Kádárta és Veszprém-Gyulafirátót elkerülő szakasz megépítése.
 
-1.61. A 82. számú főút, Veszprém-Kádárta és Veszprém-Gyulafirátót elkerülő szakasz megépítése.
+1.61. A 88. számú főút, Sárvár és Vát közötti szakasz rekonstrukciója.
 
-1.62. A 88. számú főút, Sárvár és Vát közötti szakasz rekonstrukciója.
+1.62. A 83. számú főút, M1 autópálya és Pápa közötti 2x2 sávos főúti fejlesztése, települések elkerülése, a pápai Bázisrepülőtér bekötése.
 
-1.63.[^39] A 83. számú főút, M1 autópálya és Pápa közötti szakasz fejlesztése, települések elkerülése.
+1.63. A 641. számú főút, Siófok tehermentesítő szakasz megépítése.
 
-1.64. A 83. számú főút, Győrszemere elkerülő szakasz megépítése.
+1.64. A 13. számú főút, Komárom és Komárno (Révkomárom) közötti szakasz (Duna-híd) megépítése.
 
-1.65. A 83. számú főút, Tét elkerülő szakasz megépítése.
+1.65. Az M7 - 710. számú főút csomópont, 710. számú főút bekötéssel projekt megvalósítása.
 
-1.66. A 83. számú főút, Gyarmat elkerülő szakasz megépítése.
+1.66. A 813. számú főút, Győr keleti elkerülő szakasz megépítése.
 
-1.67. A 83. számú főút, Takácsi elkerülő szakasz megépítése.
+1.67. A 444. számú főút, Békéscsaba, Orosházi úti felüljáró fejlesztése.
 
-1.68. A 641. számú főút, Siófok tehermentesítő szakasz megépítése.
+1.68. A 403. számú főút, 4. számú főút csomópont fejlesztése.
 
-1.69. A 13. számú főút, Komárom és Komárno (Révkomárom) közötti szakasz (Duna-híd) megépítése.
+1.69. A 74176. jelű út (Kercaszomor–országhatár) fejlesztése.
 
-1.70. A 710. számú főút, M7 autópálya és Balatonakarattya közötti szakasz megépítése.
+1.70. A 74183. jelű út (Alsószölnök–országhatár) fejlesztése.
 
-1.71. A 813. számú főút, Győr keleti elkerülő szakasz megépítése.
+1.71. A 87108. jelű út (Nemesmedves–országhatár) fejlesztése.
 
-1.72. A 444. számú főút, Békéscsaba, Orosházi úti felüljáró fejlesztése.
+1.72. A 87109. jelű út (Rönök–országhatár) fejlesztése.
 
-1.73. A 403. sz. főút, 4. sz. főút csomópont fejlesztése.
+1.73. A 8505. jelű út (Mosonszolnok–Albertkázmérpuszta–országhatár) fejlesztése.
 
-1.74. A 74176. jelű út (Kercaszomor-országhatár) fejlesztése.
+1.74. A 41133. jelű út (Nagyhódos–országhatár) fejlesztése.
 
-1.75. A 74183. jelű út (Alsószölnök–országhatár) fejlesztése.
+1.75. A 4923. jelű út (Ura–országhatár) fejlesztése.
 
-1.76. A 87108. jelű út (Nemesmedves–országhatár) fejlesztése.
+1.76. A 42154. jelű út (Geszt–országhatár) fejlesztése.
 
-1.77. A 87109. jelű út (Rönök–országhatár) fejlesztése.
+1.77. A 43107. jelű út (Kiszombor–országhatár) fejlesztése.
 
-1.78. A 8505. jelű út (Mosonszolnok–Albertkázmérpuszta–országhatár) fejlesztése.
+1.78. A 44143. jelű út (Dombegyház–országhatár) fejlesztése.
 
-1.79. A 41133. jelű út (Nagyhódos–országhatár) fejlesztése.
+1.79. Az 5506. jelű út (Bácsszentgyörgy–országhatár) fejlesztése.
 
-1.80. A 4923. jelű út (Ura–országhatár) fejlesztése.
+1.80. A 58133. jelű út (Vejti–országhatár) fejlesztése és kompüzem létesítése.
 
-1.81. A 42154. jelű út (Geszt–országhatár) fejlesztése.
+1.81. A 11329. jelű út (Esztergom–országhatár) fejlesztése és kompüzem létesítése.
 
-1.82. A 43107. jelű út (Kiszombor–országhatár) fejlesztése.
+1.82. A 2505. jelű út, Miskolc, Vargahegyen átvezető szakasz rekonstrukciója és fejlesztése (új nyomvonalon meghosszabbítva az északi tehermentesítő útig).
 
-1.83. A 44143. jelű út (Dombegyház–országhatár) fejlesztése.
+1.83. A Magyar Közút NZrt., Kisbér, Komáromi út 27. (217 hrsz-ú) ingatlanon sótároló csarnok építése.
 
-1.84. Az 5506. jelű út (Bácsszentgyörgy–országhatár) fejlesztése.
+1.84. Körforgalmú csomópont kiépítése az 1. számú főút és a 8101. jelű út keresztezésében.
 
-1.85. A 58133. jelű út (Vejti–országhatár) fejlesztése és kompüzem létesítése.
+1.85. Körforgalmú csomópont kiépítése a 62. számú főút és a 70447. jelű út (M7 csatlakozás) keresztezésében.
 
-1.86. A 11329. jelű út (Esztergom–országhatár) fejlesztése és kompüzem létesítése.
+1.86. Körforgalmú csomópont kiépítése a 471. számú főút és a 4918. jelű út keresztezésében.
 
-1.87. A 2505. jelű út, Miskolc, Vargahegyen átvezető szakasz rekonstrukciója és fejlesztése (új nyomvonalon meghosszabbítva az északi tehermentesítő útig).
+1.87. Körforgalmú csomópont kiépítése a 471. számú főút és a 4929. jelű út keresztezésében.
 
-1.88. A Magyar Közút NZrt., Kisbér, Komáromi út 27. (217 hrsz-ú) ingatlanon sótároló csarnok építése.
+1.88. Körforgalmú csomópont kiépítése a 471. számú főút és a Mátészalka, Ipari utca keresztezésében.
 
-1.89. Körforgalmú csomópont kiépítése az 1. számú főút és a 8101. jelű út keresztezésében.
+1.89. Körforgalmú csomópont kiépítése a 13. számú főút és a 8136. jelű út keresztezésében.
 
-1.90. Körforgalmú csomópont kiépítése a 62. számú főút és a 70447. jelű út (M7 csatlakozás) keresztezésében.
+1.90. Körforgalmú csomópont kiépítése a 41. számú főút és a 49. számú főút keresztezésében.
 
-1.91. Körforgalmú csomópont kiépítése a 471. számú főút és a 4918. jelű út keresztezésében.
+1.91. Körforgalmú csomópont kiépítése a 41. számú főút és a 4102. jelű út keresztezésében.
 
-1.92. Körforgalmú csomópont kiépítése a 471. számú főút és a 4929. jelű út keresztezésében.
+1.92. Körforgalmú csomópont kiépítése a 41. számú főút és a 4926. jelű út keresztezésében.
 
-1.93. Körforgalmú csomópont kiépítése a 471. számú főút és a Mátészalka, Ipari utca keresztezésében.
+1.93. Körforgalmú csomópont kiépítése a 74. számú főút és a 73231. jelű út keresztezésében.
 
-1.94. Körforgalmú csomópont kiépítése a 13. számú főút és a 8136. jelű út keresztezésében.
+1.94. Körforgalmú csomópont kiépítése a 6. számú főút és a 65. számú főút keresztezésében.
 
-1.95. Körforgalmú csomópont kiépítése a 41. számú főút és a 49. számú főút keresztezésében.
+1.95. Körforgalmú csomópont kiépítése a 117. számú főút és a 1117. jelű út keresztezésében.
 
-1.96. Körforgalmú csomópont kiépítése a 41. számú főút és a 4102. jelű út keresztezésében.
+1.96. Körforgalmú csomópont kiépítése a 4. számú főút és a 3832. jelű út keresztezésében.
 
-1.97. Körforgalmú csomópont kiépítése a 41. számú főút és a 4926. jelű út keresztezésében.
+1.97. Körforgalmú csomópont kiépítése a 4. számú főút és a 42. számú főút keresztezésében.
 
-1.98. Körforgalmú csomópont kiépítése a 74. számú főút és a 73231. jelű út keresztezésében.
+1.98. Körforgalmú csomópont kiépítése az 56. számú főút és az 5112. jelű út keresztezésében.
 
-1.99. Körforgalmú csomópont kiépítése a 6. számú főút és a 65. számú főút keresztezésében.
+1.99. Körforgalmú csomópont kiépítése az 52. számú főút, az 5203. és az 5304. jelű utak keresztezésében.
 
-1.100. Körforgalmú csomópont kiépítése a 117. számú főút és a 1117. jelű út keresztezésében.
+1.100. Körforgalmú csomópont kiépítése a 84. számú főút és a 85. számú főút keresztezésében.
 
-1.101. Körforgalmú csomópont kiépítése a 4. számú főút és a 3832. jelű út keresztezésében.
+1.101. Körforgalmú csomópont kiépítése a 7. számú főút és a 7511. jelű út keresztezésében.
 
-1.102. Körforgalmú csomópont kiépítése a 4. számú főút és a 42. számú főút keresztezésében.
+1.102. Körforgalmú csomópont kiépítése a 44. számú főút és a 4505. jelű út keresztezésében.
 
-1.103. Körforgalmú csomópont kiépítése az 56. számú főút és az 5112. jelű út keresztezésében.
+1.103. Körforgalmú csomópont kiépítése a 44. számú főút és a 4622. jelű út keresztezésében.
 
-1.104. Körforgalmú csomópont kiépítése az 52. számú főút, az 5203. és az 5304. jelű utak keresztezésében.
+1.104. Körforgalmú csomópont kiépítése a 32. számú főút és a 31113. jelű út keresztezésében.
 
-1.105. Körforgalmú csomópont kiépítése a 84. számú főút és a 85. számú főút keresztezésében.
+1.105. Körforgalmú csomópont kiépítése a 81. számú főút és a 8216. jelű út keresztezésében.
 
-1.106. Körforgalmú csomópont kiépítése a 7. számú főút és a 7511. jelű út keresztezésében.
+1.106. Kör geometriájú csomópont kialakítása a 4. számú főút 226+200–226+500 km szelvényei között.
 
-1.107. Körforgalmú csomópont kiépítése a 44. számú főút és a 4505. jelű út keresztezésében.
+1.107. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 54. számú főút 22+000–22+121 km szelvényei között.
 
-1.108. Körforgalmú csomópont kiépítése a 44. számú főút és a 4622. jelű út keresztezésében.
+1.108. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 5. számú főút 86+450–86+636 km szelvényei között.
 
-1.109. Körforgalmú csomópont kiépítése a 32. számú főút és a 31113. jelű út keresztezésében.
+1.109. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 5. számú főút 86+000–86+200 km szelvényei között.
 
-1.110. Körforgalmú csomópont kiépítése a 81. számú főút és a 8216. jelű út keresztezésében.
+1.110. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 26. számú főút 3+022–3+804 km szelvényei között.
 
-1.111. Kör geometriájú csomópont kialakítása a 4. számú főút 226+200–226+500 km szelvényei között.
+1.111. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 26. számú főút 1+874–2+584 km szelvényei között.
 
-1.112. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 54. számú főút 22+000–22+121 km szelvényei között.
+1.112. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 7. számú főút 69+780–70+100 km szelvényei között.
 
-1.113. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 5. számú főút 86+450–86+636 km szelvényei között.
+1.113. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 85. számú főút 20+788 km szelvényében.
 
-1.114. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 5. számú főút 86+000–86+200 km szelvényei között.
+1.114. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 86. számú főút 129+447–131+652 km szelvényei között.
 
-1.115. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 26. számú főút 3+022–3+804 km szelvényei között.
+1.115. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 48. számú főút 3+956–4+300 km szelvényei között.
 
-1.116. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 26. számú főút 1+874–2+584 km szelvényei között.
+1.116. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 47. számú főút 36+100–36+300 km szelvényei között.
 
-1.117. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 7. számú főút 69+780–70+100 km szelvényei között.
+1.117. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 87+540–87+680 km szelvényei között.
 
-1.118. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 85. számú főút 20+788 km szelvényében.
+1.118. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 90+790–91+570 km szelvényei között.
 
-1.119. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 86. számú főút 129+447–131+652 km szelvényei között.
+1.119. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 129+368 km szelvényében.
 
-1.120. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 48. számú főút 3+956–4+300 km szelvényei között.
+1.120. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 163+021 km szelvényében.
 
-1.121. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 47. számú főút 36+100–36+300 km szelvényei között.
+1.121. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 11. számú főút 60+200–61+810 km szelvényei között.
 
-1.122. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 87+540–87+680 km szelvényei között.
+1.122. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 11. számú főút 64+970–65+110 km szelvényei között.
 
-1.123. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 90+790–91+570 km szelvényei között.
+1.123. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 10. számú főút 44+520–44+970 km szelvényei között.
 
-1.124. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 129+368 km szelvényében.
+1.124. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 66. számú főút 49+990–50+160 km szelvényei között.
 
-1.125. Közlekedésbiztonsági és forgalomtechnikai beavatkozások az 1. számú főút 163+021 km szelvényében.
+1.125. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 4. számú főút 333+121 km szelvényében.
 
-1.126. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 11. számú főút 60+200–61+810 km szelvényei között.
+1.126. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 471. számú főút 52+595–53+250 km szelvényei között.
 
-1.127. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 11. számú főút 64+970–65+110 km szelvényei között.
+1.127. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 74. számú főút 40+600–41+200 km szelvényei között.
 
-1.128. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 10. számú főút 44+520–44+970 km szelvényei között.
+1.128. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 74. számú főút 56+680–57+420 km szelvényei között.
 
-1.129. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 66. számú főút 49+990–50+160 km szelvényei között.
+1.129. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 22. számú főút 23+390–24+115 km szelvényei között.
 
-1.130. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 4. számú főút 333+121 km szelvényében.
+1.130. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 61. számú főút 192+190 km szelvényében.
 
-1.131. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 471. számú főút 52+595–53+250 km szelvényei között.
+1.131. A kisunyomi Sorok-patak-híd fejlesztése.
 
-1.132. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 74. számú főút 40+600–41+200 km szelvényei között.
+1.132. A Fülöpszállás előtti öntözőcsatorna híd fejlesztése az 52. számú főút 29+528 km szelvényében.
 
-1.133. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 74. számú főút 56+680–57+420 km szelvényei között.
+1.133. A Solt előtti csatorna híd fejlesztése az 52. számú főút 45+805 km szelvényében.
 
-1.134. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 22. számú főút 23+390–24+115 km szelvényei között.
+1.134. A körösladányi Sebes-Körös híd fejlesztése.
 
-1.135. Közlekedésbiztonsági és forgalomtechnikai beavatkozások a 61. számú főút 192+190 km szelvényében.
+1.135. A szendrőládi Bódva-híd fejlesztése.
 
-1.136. A kisunyomi Sorok-patak-híd fejlesztése.
+1.136. A sajópüspöki Sajó-híd fejlesztése.
 
-1.137. A Fülöpszállás előtti öntözőcsatorna híd fejlesztése az 52. számú főút 29+528 km szelvényében.
+1.137. A pekupai Perkupa-patak híd fejlesztése.
 
-1.138. A Solt előtti csatorna híd fejlesztése az 52. számú főút 45+805 km szelvényében.
+1.138. A szendrői Verbéna-patak régi ága híd fejlesztése.
 
-1.139. A körösladányi Sebes-Körös híd fejlesztése.
+1.139. A szabadbattyáni Sárvíz (Nádor)-csatorna-híd fejlesztése.
 
-1.140. A szendrőládi Bódva-híd fejlesztése.
+1.140. A győri „Béke” Rába-híd fejlesztése.
 
-1.141. A sajópüspöki Sajó-híd fejlesztése.
+1.141. A recski Csevice-patak-híd fejlesztése.
 
-1.142. A pekupai Perkupa-patak híd fejlesztése.
+1.142. A pétervásárai Tarna-ág híd fejlesztése.
 
-1.143. A szendrői Verbéna-patak régi ága híd fejlesztése.
+1.143. Az egerbaktai Lápos-patak híd fejlesztése.
 
-1.144. A szabadbattyáni Sárvíz (Nádor)-csatorna-híd fejlesztése.
+1.144. A kunszentmártoni Hármas-Körös-híd fejlesztése.
 
-1.145. A győri „Béke” Rába-híd fejlesztése.
+1.145. A szolnoki „Kolozsvári” vasútállomás feletti híd fejlesztése.
 
-1.146. A recski Csevice-patak-híd fejlesztése.
+1.146. Az esztergomi (Csenke) Sárhegyi-patak híd fejlesztése.
 
-1.147. A pétervásárai Tarna-ág híd fejlesztése.
+1.147. A dömösi Diósi-patak híd fejlesztése.
 
-1.148. Az egerbaktai Lápos-patak híd fejlesztése.
+1.148. A Nyíregyháza, Rákóczi utcai VIII. számú Érpataki-főfolyás híd fejlesztése.
 
-1.149. A kunszentmártoni Hármas-Körös-híd fejlesztése.
+1.149. A Paks-Kölesd elágazás utáni időszakos vízfolyás híd fejlesztése a 63. számú főút 20+101 km szelvényében.
 
-1.150. A szolnoki „Kolozsvári” vasútállomás feletti híd fejlesztése.
+1.150. A kajdacsi elágazás utáni híd fejlesztése a 63. számú főút 22+678 km szelvényében.
 
-1.151. Az esztergomi (Csenke) Sárhegyi-patak híd fejlesztése.
+1.151. A bikácsi Györköny-Bikácsi-vízfolyás híd fejlesztése.
 
-1.152. A dömösi Diósi-patak híd fejlesztése.
+1.152. Az inotai Malomcsatorna-híd fejlesztése.
 
-1.153. A Nyíregyháza, Rákóczi utcai VIII. sz. Érpataki-főfolyás híd fejlesztése.
+1.153. A lenti Kerka ártéri híd fejlesztése a 75. számú főút 61+806 km szelvényében.
 
-1.154. A Paks-Kölesd elágazás utáni időszakos vízfolyás híd fejlesztése a 63. számú főút 20+101 km szelvényében.
+1.154. A lenti Kerka híd fejlesztése a 75. számú főút 62+604 km szelvényében.
 
-1.155. A kajdacsi elágazás utáni híd fejlesztése a 63. számú főút 22+678 km szelvényében.
+1.155. A zalatárnoki Szűk híd fejlesztése.
 
-1.156. A bikácsi Györköny-Bikácsi-vízfolyás híd fejlesztése.
+1.156. A lenti Bánkúti-forrás híd fejlesztése.
 
-1.157. Az inotai Malomcsatorna-híd fejlesztése.
+1.157. A lenti 2. Kerka ártéri híd fejlesztése a 75. számú főút 61+975 km szelvényében.
 
-1.158. A lenti Kerka ártéri híd fejlesztése a 75. számú főút 61+806 km szelvényében.
+1.158. A lenti Malom-patak híd fejlesztése.
 
-1.159. A lenti Kerka híd fejlesztése a 75. számú főút 62+604 km szelvényében.
+1.159. A 67. számú főút, Somogyaszaló elkerülő szakasz megépítése.
 
-1.160. A zalatárnoki Szűk híd fejlesztése.
+1.160. A 67. számú főút, Mernye elkerülő szakasz megépítése.
 
-1.161. A lenti Bánkúti-forrás híd fejlesztése.
+1.161. A 67. számú főút, Mernyeszentmiklós elkerülő szakasz megépítése.
 
-1.162. A lenti 2. Kerka ártéri híd fejlesztése a 75. számú főút 61+975 km szelvényében.
+1.162. A 67. számú főút, Vadépuszta elkerülő szakasz megépítése.
 
-1.163. A lenti Malom-patak híd fejlesztése.
+1.163. A 67. számú főút, Somogybabod elkerülő szakasz megépítése.
 
-1.164.[^40] Körforgalmú csomópont kiépítése a 304. számú főút és a Miskolc Déli Ipari Park bekötő út keresztezésében.
+1.164. Az M0 gyorsforgalmi út Déli szektor rekonstrukciója (I. ütem) (Deák Ferenc mederhíd felszerkezet cseréje nélkül).
 
-1.165.[^41] A 67. számú főút, Somogyaszaló elkerülő szakasz megépítése.
+1.165. Az M0 gyorsforgalmi út Északi szektor, 11.–10. számú főutak közötti szakaszának előkészítése.
 
-1.166.[^42] A 67. számú főút, Mernye elkerülő szakasz megépítése.
+1.166. Az M0 gyorsforgalmi út Nyugati szektor, 10. számú főút – M1 autópálya közötti szakaszának előkészítése.
 
-1.167.[^43] A 67. számú főút, Mernyeszentmiklós elkerülő szakasz megépítése.
+1.167. Az M1 gyorsforgalmi út autópálya, Lajta, tengelysúlymérő állomás kiépítése.
 
-1.168[^44] A 67. számú főút, Vadépuszta elkerülő szakasz megépítése.
+1.168. Az M15 gyorsforgalmi út M1-Rajka, országhatár közötti szakasz bővítése.
 
-1.169.[^45] A 67. számú főút, Somogybabod elkerülő szakasz megépítése.
+1.169. Az M2 gyorsforgalmi út Budapest–Vác közötti szakasz fejlesztése.
 
-1.170.[^46] Az M0 gyorsforgalmi út Déli szektor fejlesztése.
+1.170. Az M30 gyorsforgalmi út Miskolc–Tornyosnémeti közötti szakasz megvalósítása.
 
-1.171.[^47] Az M0 gyorsforgalmi út Északi szektor, 11.–10. számú főutak közötti szakaszának előkészítése.
+1.171. Az M30 gyorsforgalmi út Tornyosnémeti–országhatár közötti szakasz megvalósítása.
 
-1.172.[^48] Az M0 gyorsforgalmi út Nyugati szektor, 10. számú főút–1. számú főút közötti szakaszának előkészítése.
+1.172. Az M34 gyorsforgalmi út Vásárosnamény–Záhony közötti szakasz megvalósítása.
 
-1.173.[^49] Az M1 gyorsforgalmi út autópálya, Lajta, tengelysúlymérő állomás kiépítése.
+1.173. Az M35 autópálya 4. számú főút–481. számú főút közötti szakasz, és a 481. számú főút – Berettyóújfalu közötti szakasz, valamint a 481. számú főút megvalósítása.
 
-1.174.[^50] Az M15 gyorsforgalmi út M1-Rajka, országhatár közötti szakasz bővítése.
+1.174. Az M4 gyorsforgalmi út M0 autóút és Abony (Kelet) közötti szakaszának fejlesztése, Szolnok bekötésével.
 
-1.175.[^51] Az M2 gyorsforgalmi út Budapest–Vác közötti szakasz fejlesztése.
+1.175. Az M4 gyorsforgalmi út Abony (Kelet) – Törökszentmiklós közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével.
 
-1.176.[^52] Az M2 gyorsforgalmi út Vác–Hont, Parassapuszta, országhatár közötti szakasz megvalósítása.
+1.176. Az M4 autópálya Berettyóújfalu-Nagykereki, országhatár közötti szakasz megvalósítása.
 
-1.177.[^53] Az M3 autópálya Mogyoród és Fót megközelítését szolgáló új csomópontjának megvalósítása.
+1.177. Az M6 autópálya Bóly-Ivándárda, országhatár közötti szakasz megvalósítása, Villányi csomóponttal.
 
-1.178.[^54] Az M3 gyorsforgalmi út Vásárosnamény–országhatár közötti szakasz megvalósítása.
+1.178. Az M60 gyorsforgalmi út Pécs és Barcs, országhatár közötti szakasz megvalósítása.
 
-1.179.[^55] Az M30 gyorsforgalmi út Miskolc–Tornyosnémeti közötti szakasz megvalósítása.
+1.179. Az M70 gyorsforgalmi út Letenye–Tornyiszentmiklós, országhatár közötti szakasz bővítése.
 
-1.180.[^56] Az M30 gyorsforgalmi út Tornyosnémeti-országhatár közötti szakasz megvalósítása.
+1.180. Az M8 gyorsforgalmi út Kecskemét (M5)–Nagykőrös között, valamint M44 Nagykőrös–Békéscsaba közötti szakaszainak megvalósítása.
 
-1.181.[^57] Az M34 gyorsforgalmi út Vásárosnamény–Záhony közötti szakasz előkészítése.
+1.181. Az M8 gyorsforgalmi út Körmend–Rábafüzes, országhatár közötti szakasz megvalósítása.
 
-1.182.[^58] Az M35 autópálya (I. ütem) 4. számú főút-481. számú főút közötti szakasz és a 481. sz. főút megvalósítása.
+1.182. Az M85 gyorsforgalmi út Csorna–Sopron, országhatár közötti szakasz fejlesztése.
 
-1.183.[^59] Az M35 autópálya (II. ütem) Debrecen–Berettyóújfalu közötti szakasz megvalósítása.
+1.183. Az M86 gyorsforgalmi út Csorna–Hegyfalu közötti szakasz megvalósítása.
 
-1.184.[^60] Az M4 gyorsforgalmi út M0 autóút és Abony (Kelet) közötti szakaszának fejlesztése, Szolnok bekötésével.
+1.184. Az M9 gyorsforgalmi út Vasvár–Zalaegerszeg közötti szakasz előkészítése, M75 csomóponttal.
 
-1.185.[^61] Az M4 gyorsforgalmi út Abony (Kelet)–Törökszentmiklós (Nyugat) közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével.
+1.185. A 21. számú főút Heves és Nógrád megyei szakaszok kapacitásbővítése.
 
-1.186.[^62] Az M8-M4 gyorsforgalmi utak elválási csomópontjának megvalósítása.
+1.186. A 23-25. számú főutak Bátonyterenye–Ózd közötti (elkerülő szakaszokat is megvalósító) szakaszok fejlesztése.
 
-1.187.[^63] Az M4 autópálya Berettyóújfalu-Nagykereki, országhatár közötti szakasz megvalósítása.
+1.187. A 48. számú főút Debrecen–Nyírábrány, országhatár szakasz fejlesztése, 11,5 t burkolaterősítése.
 
-1.188.[^64] Az M6 autópálya Bóly-Ivándárda, országhatár közötti szakasz megvalósítása.
+1.188. Az R76. gyorsút Zalaegerszeg és M7 autópálya közötti szakasz megvalósítása.
 
-1.189.[^65] Az M60 gyorsforgalmi út Pécs és Barcs, országhatár közötti szakasz megvalósítása.
+1.189. A 102. számú főút Esztergom–M1 közötti szakasz fejlesztése.
 
-1.190.[^66] Az M70 gyorsforgalmi út Letenye–Tornyiszentmiklós, országhatár közötti szakasz bővítése.
+1.190. A 471. számú főút Hajdú-Bihar megyei szakaszok fejlesztése (kapacitásbővítés, elkerülő építése, 11,5 t burkolatmegerősítés).
 
-1.191.[^67] Az M8 gyorsforgalmi út Kecskemét (M5)–Nagykőrös között, valamint M44 Nagykőrös–Békéscsaba közötti szakaszainak megvalósítása.
+1.191. A 42154. jelű út Nagygyanté–Mezőgyán–Geszt szakaszok fejlesztése.
 
-1.192.[^68] Az M8 gyorsforgalmi út Körmend–Rábafüzes, országhatár közötti szakasz megvalósítása.
+1.192. 4451. jelű út megerősítése és szélesítése az M43 autópálya és Nagylak keleti elkerülő között, valamint Nagylak keleti elkerülő útszakasz megvalósítása.
 
-1.193.[^69] Az M85 gyorsforgalmi út Csorna–Sopron, országhatár közötti szakasz fejlesztése.
+1.193. Kalocsa–Paks térségében tervezett új Duna híd és kapcsolódó közlekedési infrastruktúra fejlesztés megvalósítása.
 
-1.194.[^70] Az M86 gyorsforgalmi út Csorna–Hegyfalu közötti szakasz megvalósítása.
+1.194. Kisvárda északkeleti tehermentesítő út előkészítése.
 
-1.195.[^71] Az M9 gyorsforgalmi út Vasvár–Zalaegerszeg közötti szakasz előkészítése.
+1.195. Nagykanizsa délkeleti elkerülő út előkészítése.
 
-1.196.[^72] A 21. számú főút Heves és Nógrád megyei szakaszok kapacitásbővítése.
+1.196. Sopron északnyugati elkerülő megvalósítása.
 
-1.197.[^73] A 23-25. számú főutak Bátonyterenye–Ózd közötti szakaszok fejlesztése.
+1.197. Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
 
-1.198.[^74] A 48. számú főút Debrecen–Nyírábrány, országhatár szakasz fejlesztése, 11,5 t burkolaterősítése.
+1.198. Balatoni Bringakör komplex fejlesztése.
 
-1.199.[^75] A 76. számú főút Zalaegerszeg és M7 autópálya közötti szakasz gyorsforgalmi úttá történő fejlesztése.
+1.199. EuroVelo 6 útvonal komplex fejlesztése (Rajka–Dömös, Budapest–Szentendre, Budapest–Dunakeszi, Budapest–Érd–Százhalombatta szakaszok).
 
-1.200.[^76] A 102. számú főút Esztergom–M1 közötti szakasz gyorsforgalmi fejlesztése.
+1.200. Keszthely–Sármellék kerékpáros útvonal kiépítése.
 
-1.201.[^77] A 471. számú főút Hajdú-Bihar megyei szakaszok fejlesztése (kapacitásbővítés, elkerülő építése, 11,5 t burkolatmegerősítés).
+1.201. Budapest–Balaton kerékpáros útvonal kiépítése (Budapest–Etyek–Velence–Székesfehérvár–Balatonakarattya).
 
-1.202.[^78] A 4219. jelű út Geszt–Mezőgyán–Nagygyanté szakaszok fejlesztése.
+1.202. Tiszafüred–Poroszló kerékpáros útvonal fejlesztése.
 
-1.203.[^79] 4451. jelű út, Nagylak elkerülő megvalósítása.
+1.203. Tarcal–Tokaj-Bodrogkeresztúr kerékpáros útvonal fejlesztése.
 
-1.204.[^80] Kalocsa–Paks térségében tervezett új Duna híd és kapcsolódó közlekedési infrastruktúra fejlesztés megvalósítása.
+1.204. Tépe–Berettyóújfalu kerékpáros útvonal kiépítése.
 
-1.205.[^81] Kisvárda elkerülő megvalósítása.
+1.205. Tokaj–Tiszabecs kerékpáros útvonal fejlesztése.
 
-1.206.[^82] Nagykanizsa délkeleti elkerülő megvalósítása.
+1.206. Kőszeg – Rattersdorf (Rőtfalva – Ausztria) 87. számú főút – B61a összekötő út megvalósítása.
 
-1.207.[^83] Sopron északnyugati elkerülő megvalósítása.
+1.207. 74189. jelű Orfalu – Bűdfalva (SLO) összekötő út megvalósítása.
 
-1.208.[^84] Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
+1.208. Lendvadedes–Dedeskecskés–Dolga Vas (Lendvahosszúfalu) összekötő út megvalósítása.
 
-1.209.[^85] Balatoni Bringakör komplex fejlesztése.
+1.209. 8518. jelű út nyomvonalának módosítása a fertődi Esterházy – kastély körül.
 
-1.210.[^86] EuroVelo 6 útvonal komplex fejlesztése (Rajka–Dömös, Budapest–Szentendre, Budapest–Dunakeszi, Budapest–Érd–Százhalombatta szakaszok).
+1.210. Győr 1. számú főút likócsi körforgalmú csomópont – Ipar utcai csomópont közötti szakasz kapacitás bővítése.
 
-1.211.[^87] Keszthely–Sármellék kerékpáros útvonal kiépítése.
+1.211. M85 autóút Csorna elkerülő (II. ütem) megvalósítása.
 
-1.212.[^88] Budapest–Balaton kerékpáros útvonal kiépítése (Budapest–Etyek–Velence–Székesfehérvár–Balatonakarattya).
+1.212. 4149. jelű Kisvárda nyugati összekötő út, Krucsay Márton u. – Várday István u. – Vár u. kereszteződésben új körforgalmú csomópont építése.
 
-1.213.[^89] Tiszafüred–Poroszló kerékpáros útvonal fejlesztése.
+1.213. 4153. jelű Kisvárda déli tehermentesítő út megvalósítása 4. számú főút és a 4108 jelű út között.
 
-1.214.[^90] Tarcal–Tokaj-Bodrogkeresztúr kerékpáros útvonal fejlesztése.
+1.214. 4145. jelű összekötő út 8+055 km szelvény, Kisvárda Hármas út – új körforgalmú csomópont megvalósítása.
 
-1.215.[^91] Tépe–Berettyóújfalu kerékpáros útvonal kiépítése.
+1.215. 41. számú főút Nyíregyháza Oros körforgalmi csomópont megvalósítása.
 
-1.216.[^92] Tokaj–Tiszabecs kerékpáros útvonal fejlesztése.
+1.216. 41. számú főút Apagy körforgalmi csp. megvalósítása.
+
+1.217. 36. számú főút és a 3317 jelű útkereszteződés (Nyíregyháza, Mező utcai csomópont) átépítése.
+
+1.218. Eger, 25. számú főút 12+510 km szelvényében lévő, Mátyás király út – Külsősor út – Vincellériskola úti eltolt geometriájú csomópont átépítése.
+
+1.219. 471. számú főút Szabolcs-Szatmár-Bereg megyei szakasz 11,5 t burkolaterősítésének megvalósítása.
+
+1.220. 251. számú főút Andornaktálya–Nagytálya–Maklár elkerülő szakasz a 2502 jelű út átkötésével.
+
+1.221. Dunakiliti – Dobrohošt’ (Doborgaz) gyalogos – kerékpáros Duna-híd kiépítése a hozzá vezető szakaszokkal, műtárgyakkal.
+
+1.222. M0 déli szektor 3+200 – 11+650 km szelvényei közötti rekonstrukció I. ütemű kivitelezése (zajárnyékoló fal).
+
+1.223. Szentpéterfa (Prostrum) – Moschendorf (Nagysároslak) 8711. jelű összekötő út megvalósítása.
+
+1.224. Neszmély – Radvaň nad Dunajom (Dunaradvány) közötti komp átkelőhely létesítése.
+
+1.225. 82. számú főút mentén (Győr-Pannonhalma) létesítendő kerékpárút.
+
+1.226. Zsira – Lutzmannsburg (Locsmánd) közötti közút fejlesztése.
+
+1.227. Fertőrákos-Sopronpuszta – Sankt Margarethen im Burgenland (Szentmargitbánya) közötti közút fejlesztése.
+
+1.228. Várbalog-Albertkázmérpuszta – Halbturn (Féltorony) közötti közút fejlesztése.
+
+1.229. Rajka – Deutsch Jahrndorf (Németjárfalu) között közúti kapcsolat fejlesztése.
+
+1.230. Ipolydamásd – Chl’aba (Helemba) közötti közúti kapcsolat fejlesztése határhíd megvalósításával.
+
+1.231. Drégelypalánk – Ipel’ské Predmostie (Ipolyhídvég) közötti közúti kapcsolat fejlesztése határhíd megvalósításával.
+
+1.232. Balassagyarmat-Újkóvár – Koláre (Kóvár) közötti közúti kapcsolat fejlesztése határhíd megvalósításával.
+
+1.233. Őrhalom – Vrbovka (Ipolyvarbó) közötti közúti kapcsolat fejlesztése határhíd megvalósításával.
+
+1.234. Hugyag – Kovácovce (Szécsénykovácsi) közötti közúti kapcsolat fejlesztése határhíd megvalósításával.
+
+1.235. Ózd-Susa – Janice (Jéne) közötti közúti kapcsolat megvalósítása.
+
+1.236. Hídvégardó – Chorváty (Tornahorváti) közötti közúti kapcsolat fejlesztése.
+
+1.237. Alsóregmec – Čerhov (Csörgő) közötti közúti kapcsolat fejlesztése.
+
+1.238. Nagyrozvágy – Vel’ký Horeš (Nagygéres) közötti közúti kapcsolat fejlesztése.
+
+1.239. Nagyhódos – Velika Palad (Nagypalád) közötti közúti kapcsolat fejlesztése határhíd megvalósításával.
+
+1.240. Csenger – Oar (Óvári) közötti közúti kapcsolat fejlesztése.
+
+1.241. Geszt – Cefa (Cséffa) közötti közúti kapcsolat fejlesztése.
+
+1.242. Bácsszentgyörgy Rastina (Rasztina) közötti közúti kapcsolat fejlesztése.
+
+1.243. Kübekháza – Rabe (Rábé) közötti közúti kapcsolat fejlesztése.
+
+1.244.Sárok – Kneževo (Főherceglak) közötti közúti kapcsolat fejlesztése.
+
+1.245. Murakeresztúr – Kotoriba (Kotor) közötti közúti kapcsolat fejlesztése határhíd megvalósításával.
+
+1.246. A 44. számú főút négynyomúsítása az 5. számú főút és a 445. számú főút közötti szakaszon.
+
+1.247. Tengelysúly- és össztömeg-mérő állomás kiépítése az M7 autópálya 192 km szelvényében lévő kétoldali pihenőhelyen (Zalakomári pihenő).
+
+1.248. 31-32. számú főutak Jászberényt elkerülő szakaszának III. üteme.
+
+1.249. 32. számú főút Jászfényszaru-Szolnok közötti szakasza 115 kN teherbírásra történő megerősítése.
+
+1.250. 41. számú főút Vásárosnamény – Beregsurány közötti külterületi szakaszán kiépítendő útcsatlakozások megvalósítása.
+
+1.251. Nyírábrány – Valea lui Mihai közötti közúti kapcsolat fejlesztése.
+
+1.252. Vámospércs – Valea lui Mihai közötti közúti kapcsolat fejlesztése.
+
+1.253. Magyarcsanád - Cenad közötti közúti kapcsolat fejlesztése.
+
+1.254. Őrtilos-Legrad közötti közúti kapcsolat fejlesztése.
+
+1.255. M44 és a 4432. számú út közötti fürjesi összekötő út fejlesztése.
+
+1.256. Veszprém – Szabadságpuszta közötti kerékpárút fejlesztése.
+
+1.257. Veszprém (Kádárta városrész) – Gyulafirátót közötti kerékpárút fejlesztése.
+
+1.258. Veszprém – Márkó – Bánd közötti kerékpárút fejlesztése.
+
+1.259. Tatabánya Dózsakert és Újváros közötti vasúti felüljáró négysávossá bővítése.
+
+1.260. Tatabánya Bánhida és Sárberek városrészek összekötését biztosító, a vasútvonalat keresztező aluljárót magában foglaló útfejlesztés.
+
+1.261. 445. számú Kecskemét elkerülő (II/2) ütem (M5 és 5. számú főút között).
+
+1.262. Tápiószentmárton közlekedésbiztonsági projekt megvalósítása.
+
+1.263. Sásd közlekedésbiztonsági projekt megvalósítása.
+
+1.264. Sárbogárd közlekedésbiztonsági projekt megvalósítása.
+
+1.265. Gyömrő közlekedésbiztonsági projekt megvalósítása.
+
+1.266. Farmos közlekedésbiztonsági projekt megvalósítása.
+
+1.267. Ceglédbercel-Cserő közlekedésbiztonsági projekt megvalósítása.
+
+1.268. Galvani úti közúti híd és kapcsolódó úthálózat építése, új 2x3 sávos közúti Duna híd tervezése a Galvani Illatos út vonalában.
+
+1.269. Körforgalmú csomópont kiépítése a 71. számú főút, a 7118. jelű út és az M7 autópálya csomóponti ág keresztezésében.
+
+1.270. A 71. számú főút 2x2 sávos főúttá történő fejlesztése Fenékpuszta és Keszthely térségében
+
+1.271. Vereb–Vál–Gyúró–Etyek összekötő út megvalósítása.
+
+1.272. M2 gyorsforgalmi út megvalósításához kapcsolódó Dunakeszi összekötő út megvalósítása.
+
+1.273. Tatabánya-Környe Ipari Park, Üveggyári út 2. szakasz kiépítése a 8135. jelű útra történő. kikötéssel.
+
+1.274. 8135. jelű út és Búzavirág út csomópontjának körforgalmú csomóponttá történő átépítése.
+
+1.275. Mátraverebély – szentkúti Nemzeti Kegyhely megközelítését szolgáló új összekötő út kialakítása.
+
+1.276. Budakalász–Pomáz elkerülő út (11. számú főút és 1111. számú főút közötti szakasz) megvalósítása.
+
+1.277. Ferihegyi Repülőtérre Vezető út (2+2+2 sávos keresztmetszet módosítása 3+3 sávosra az út 4,4 km hosszú szakaszán, beleértve a 3 fő különszintű csomópont újjáépítését és 2+2 sávra bővítését).
+
+1.278. M1 autópálya 2x3 sávra bővítése M85 autóút csomópontja, Győr és Budapest között – előkészítése.
+
+1.279. M7 autópálya 2x3 sávra bővítése Balatonvilágos és Budapest között – előkészítése.
 
 2. Egyes országos vasúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -462,133 +588,151 @@
 
 2.12. A 25. számú vasútvonal, Zalalövő–Zalaegerszeg–Boba szakasz rekonstrukciója.
 
-2.13.[^93] A 25. számú vasútvonal, Bajánsenye–Boba ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.13. A 25. számú vasútvonal, Bajánsenye–Boba ETCS2 vonatbefolyásoló rendszer kiépítése.
 
 2.14. A 10. és 20. számú vasútvonalak Győr–Pápa–Celldömölk–Boba szakaszainak rekonstrukciója.
 
-2.15. A 15. és 21. számú vasútvonalak, Sopron–Szombathely–Szentgotthárd szakasz rekonstrukciója.
+2.15. Az 1d. számú vasútvonal, Hegyeshalom–Rajka (oh.) szakasz ETCS 2 kiépítése.
 
-2.16. Az 1d. számú vasútvonal, Hegyeshalom–Rajka (oh.) szakasz ETCS 2 kiépítése.
+2.16. A 8. számú vasútvonal, Győr–Sopron (oh.) szakasz fejlesztése.
 
-2.17. A 8. számú vasútvonal, Győr–Sopron (oh.) szakasz fejlesztése.
+2.17. A 18. számú vasútvonal, Szombathely–Kőszeg szakasz fejlesztése.
 
-2.18. A 18. számú vasútvonal, Szombathely–Kőszeg szakasz fejlesztése.
+2.18. Szombathely vasúti csomópont fejlesztése.
 
-2.19. Szombathely vasúti csomópont fejlesztése.
+2.19. GYSEV Zrt. üzemirányító központ megvalósítása (a szükséges biztosítóberendezési felülvezérlés kialakításával).
 
-2.20. Sopron-Nyugat vontatási alállomás korszerűsítése.
+2.20. Intermodális közlekedési rendszerek fejlesztése a GYSEV Zrt. vonalain és állomásain.
 
-2.21. GYSEV Zrt. üzemirányító központ megvalósítása (a szükséges biztosítóberendezési felülvezérlés kialakításával).
+2.21. Célzottan közlekedésbiztonságot javító fejlesztések a GYSEV Zrt. hálózatán.
 
-2.22. Intermodális közlekedési rendszerek fejlesztése a GYSEV Zrt. vonalain és állomásain.
+2.22. A „V0” Budapestet délről elkerülő vasútvonal, Szárliget–Ceglédbercel szakasz megvalósítása.
 
-2.23. Célzottan közlekedésbiztonságot javító fejlesztések a GYSEV Zrt. hálózatán.
+2.23. A 150. számú vasútvonal, Budapest–Kelebia (oh.) szakasz fejlesztése.
 
-2.24. A „V0” Budapestet délről elkerülő vasútvonal, Szárliget–Ceglédbercel szakasz megvalósítása.
+2.24. A 101. számú vasútvonal, Püspökladány–Biharkeresztes szakasz rekonstrukciója.
 
-2.25. A 150. számú vasútvonal, Budapest–Kelebia (oh.) szakasz fejlesztése.
+2.25. A 80c számú vasútvonal, Mezőzombor–Sátoraljaújhely szakasz rekonstrukciója.
 
-2.26. A 101. számú vasútvonal, Püspökladány–Biharkeresztes szakasz rekonstrukciója.
+2.26. A 142. számú vasútvonal, Kőbánya-Kispest–Lajosmizse–Kecskemét szakasz rekonstrukciója.
 
-2.27. A 80c számú vasútvonal, Mezőzombor–Sátoraljaújhely szakasz rekonstrukciója.
+2.2 7. Az 1. számú vasútvonal, Biatorbágy-Tata szakasz korszerűsítése és Budapest–Hegyeshalom ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.28. A 142. számú vasútvonal, Kőbánya-Kispest–Lajosmizse–Kecskemét szakasz rekonstrukciója.
+2.28. A 20. számú vasútvonal, Székesfehérvár–Veszprém–Boba vasútvonal korszerűsítése és ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.29.[^94] Az 1. számú vasútvonal, Biatorbágy-Tata szakasz korszerűsítése és Budapest–Hegyeshalom ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.29. Szolnok vasúti csomópont fejlesztése.
 
-2.30.[^95] A 20. számú vasútvonal, Székesfehérvár–Veszprém–Boba vasútvonal korszerűsítése és ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.30. A 100. és 120. számú vasútvonalak, Szolnok–Szajol szakasz fejlesztése.
 
-2.31. Szolnok vasúti csomópont fejlesztése.
+2.31. A 100. számú vasútvonal, Szajol–Püspökladány szakasz fejlesztése.
 
-2.32. A 100. és 120. számú vasútvonalak, Szolnok–Szajol szakasz fejlesztése.
+2.32. A 100. számú vasútvonal, Püspökladány–Debrecen szakasz fejlesztése.
 
-2.33. A 100. számú vasútvonal, Szajol–Püspökladány szakasz fejlesztése.
+2.33. Debrecen vasúti csomópont fejlesztése.
 
-2.34. A 100. számú vasútvonal, Püspökladány–Debrecen szakasz fejlesztése.
+2.34. A 100. számú vasútvonal, Debrecen–Nyíregyháza–Záhony szakasz fejlesztése.
 
-2.35. Debrecen vasúti csomópont fejlesztése.
+2.35. Székesfehérvár vasúti csomópont fejlesztése.
 
-2.36. A 100. számú vasútvonal, Debrecen–Nyíregyháza–Záhony szakasz fejlesztése.
+2.36. A 120. számú vasútvonal, Gyoma–Békéscsaba biztosítóberendezés korszerűsítése és Békéscsaba vasútállomás, Ferencváros–Lökösháza ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.37. Székesfehérvár vasúti csomópont fejlesztése.
+2.37. Békéscsaba vasúti csomópont fejlesztése.
 
-2.38.[^96] A 120. számú vasútvonal, Gyoma–Békéscsaba biztosítóberendezés korszerűsítése és Békéscsaba vasútállomás, Ferencváros–Lökösháza ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.38. A 120. számú vasútvonal, Békéscsaba–Lőkösháza (oh.) szakasz fejlesztése.
 
-2.39. Békéscsaba vasúti csomópont fejlesztése.
+2.39. A MÁV Zrt. állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program megvalósítása (Keszthely, Tapolca, Balatonszentgyörgy, Rákos, Rákoshegy, Kőbánya-Kispest, Kőbánya alsó, Zugló, Kaposvár, Pécs, Békéscsaba, Budapest-Déli pu., Budapest-Keleti pu., Budapest-Nyugati pu., Cegléd, Debrecen, Érd alsó, Győr, Kecskemét, Miskolc-Tiszai pu., Nyíregyháza, Szeged, Székesfehérvár, Szekszárd, Szolnok, Vác állomások felvételi épületeinek felújításával).
 
-2.40. A 120. számú vasútvonal, Békéscsaba–Lőkösháza (oh.) szakasz fejlesztése.
+2.40. A 70. számú vasútvonal, megállóhelyek és állomások fejlesztése (Dunakeszi alsó mh., Dunakeszi állomás, Dunakeszi-Gyártelep mh., Alsógöd mh., Göd állomás, Felsőgöd mh., Sződ-Sződliget mh., Verőce állomás, Kismaros mh., Nagymaros-Visegrád mh., Nagymaros állomás, Dömösi átkelés mh., Zebegény mh., Szob alsó mh., Szob állomás), valamint a Rákospalota (kiz)–Szob (bez) szakasz Központi Forgalomirányítás (KÖFI) kiépítése (a kapcsolódó távfelügyeleti fejlesztésekkel).
 
-2.41. A MÁV Zrt. állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program megvalósítása (Keszthely, Tapolca, Balatonszentgyörgy, Rákos, Rákoshegy, Kőbánya-Kispest, Kőbánya alsó, Zugló, Kaposvár, Pécs, Békéscsaba, Budapest-Déli pu., Budapest-Keleti pu., Budapest-Nyugati pu., Cegléd, Debrecen, Érd alsó, Győr, Kecskemét, Miskolc-Tiszai pu., Nyíregyháza, Szeged, Székesfehérvár, Szekszárd, Szolnok, Vác állomások felvételi épületeinek felújításával).
+2.41. A 10. számú vasútvonal, Pápa–Celldömölk szakasz, a Vinári Marcal híd átépítése.
 
-2.42. A 70. sz. vasútvonal, megállóhelyek és állomások fejlesztése (Dunakeszi alsó mh., Dunakeszi állomás, Dunakeszi-Gyártelep mh., Alsógöd mh., Göd állomás, Felsőgöd mh., Sződ-Sződliget mh., Verőce állomás, Kismaros mh., Nagymaros-Visegrád mh., Nagymaros állomás, Dömösi átkelés mh., Zebegény mh., Szob alsó mh., Szob állomás), valamint a Rákospalota (kiz)–Szob (bez) szakasz Központi Forgalomirányítás (KÖFI) kiépítése (a kapcsolódó távfelügyeleti fejlesztésekkel).
+2.42. A 11. számú vasútvonal, Veszprémvarsány–Zirc szakasz, a 460+93 szelvényben lévő híd átépítése.
 
-2.43. A 10. számú vasútvonal, Pápa–Celldömölk szakasz, a Vinári Marcal híd átépítése.
+2.43. A 40. számú vasútvonal, Kelenföld–Dombóvár szakasz, a Sárvíz/Nádor Csatorna híd átépítése.
 
-2.44. A 11 számú vasútvonal, Veszprémvarsány–Zirc szakasz, a 460+93 szelvényben lévő híd átépítése.
+2.44. A 40. számú vasútvonal, Kelenföld–Dombóvár szakasz a tolnanémedi Kapos-híd átépítése.
 
-2.45. A 40 számú vasútvonal, Kelenföld–Dombóvár szakasz, a Sárvíz/Nádor Csatorna híd átépítése.
+2.45. A 40. számú vasútvonal, Kelenföld–Dombóvár szakasz, a pincehelyi II. Kapos-híd átépítése.
 
-2.46. A 40 számú vasútvonal, Kelenföld–Dombóvár szakasz a tolnanémedi Kapos-híd átépítése.
+2.46. A 102. számú vasútvonal, Kál-Kápolna–Kisújszállás szakasz, a 917+00 szelvényben lévő kiskörei Tisza-híd átépítése.
 
-2.47. A 40 számú vasútvonal, Kelenföld–Dombóvár szakasz, a pincehelyi II. Kapos-híd átépítése.
+2.47. A 120a. számú vasútvonal, Nagykáta–Újszász szakasz, az 557+30 szelvényben lévő Hajta patakhíd átépítése.
 
-2.48. A 102. számú vasútvonal, Kál-Kápolna–Kisújszállás szakasz, a 917+00 szelvényben lévő kiskörei Tisza-híd átépítése.
+2.48. A 120a. számú vasútvonal, Nagykáta–Újszász szakasz, a 646+57 szelvényben lévő Tápió patakhíd átépítése.
 
-2.49. A 120a számú vasútvonal, Nagykáta–Újszász szakasz, az 557+30 szelvényben lévő Hajta patakhíd átépítése.
+2.49. A 120a. számú vasútvonal, Nagykáta–Újszász szakasz, a 691+37 szelvényben lévő Ilike érhíd átépítése.
 
-2.50. A 120a számú vasútvonal, Nagykáta–Újszász szakasz, a 646+57 szelvényben lévő Tápió patakhíd átépítése.
+2.50. Vác vasútállomás korszerűsítése.
 
-2.51. A 120a számú vasútvonal, Nagykáta–Újszász szakasz, a 691+37 szelvényben lévő Ilike érhíd átépítése.
+2.51. A Budapest Liszt Ferenc nemzetközi repülőtér kötöttpályás kapcsolatának kialakítása.
 
-2.52.[^97] Vác vasútállomás korszerűsítése.
+2.52. Az 1. számú vasútvonal Déli Duna-híd korszerűsítése és Kelenföld – Keleti vasúti vonalszakasz fejlesztése.
 
-2.53.[^98] A Budapest Liszt Ferenc nemzetközi repülőtér kötöttpályás kapcsolatának kialakítása.
+2.53. Ferencváros–Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.54.[^99] A Déli Duna-híd korszerűsítése.
+2.54. GSM-R távközlési hálózat kiépítése.
 
-2.55.[^100] Ferencváros–Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.55. Érd közúti felüljáró építése
 
-2.56.[^101] GSM-R távközlési hálózat kiépítése.
+2.56. Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program 25 helyszínen (kormányablakok).
 
-2.57.[^102] Érd közúti felüljáró építése
+2.57. Infrastruktúra és gördülőállomány karbantartó szoftver és IT alkalmazás konszolidáció.
 
-2.58.[^103] Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program 25 helyszínen (kormányablakok).
+2.58. MÁV Zrt. közlekedésbiztonsági projektjei.
 
-2.59.[^104] Infrastruktúra és gördülőállomány karbantartó szoftver és IT alkalmazás konszolidáció.
+2.59. Sopron–Szombathely–Szentgotthárd ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.60.[^105] MÁV Zrt. közlekedésbiztonsági projektjei.
+2.60. MÁV 200 férőhelyes motorvonatok beszerzése.
 
-2.61.[^106] Sopron-Szombathely–Szentgotthárd ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.61. Szűk keresztmetszet kiváltás a MÁV hálózatán.
 
-2.62.[^107] MÁV 200 férőhelyes motorvonatok beszerzése.
+2.62. Vámosgyörk–Nagyút–Mezőkeresztes–Mezőnyárád szűk keresztmetszet kiváltás (állomások).
 
-2.63.[^108] Szűk keresztmetszet kiváltás a MÁV hálózatán.
+2.63. A 17. számú vasútvonal, Zalaszentiván–Nagykanizsa szűk keresztmetszet kiváltás és villamosítás.
 
-2.64.[^109] Vámosgyörk–Nagyút–Mezőkeresztes–Mezőnyárád szűk keresztmetszet kiváltás (állomások).
+2.64. Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán.
 
-2.65.[^110] A 17. számú vasútvonal, Zalaszentiván–Nagykanizsa szűk keresztmetszet kiváltás és villamosítás.
+2.65. MÁV nagykapacitású motorvonatok beszerzése.
 
-2.66.[^111] Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán.
+2.66. GYSEV motorvonat beszerzés.
 
-2.67.[^112] MÁV 300 férőhelyes motorvonatok beszerzése.
+2.67. Keleti–Kőbánya-felső szűk keresztmetszet kiváltás.
 
-2.68.[^113] GYSEV motorvonat beszerzés.
+2.68. Közlekedésbiztonság javítási program a MÁV hálózatán II. ütem–Közlekedésbiztonságot és pályakapacitást növelő technológiai fejlesztések és eszközök.
 
-2.69.[^114] Keleti–Kőbánya-felső szűk keresztmetszet kiváltás.
+2.69. Hídrekonstrukciós program a MÁV hálózatán.
 
-2.70.[^115] Közlekedésbiztonság javítási program a MÁV hálózatán II. ütem–Közlekedésbiztonságot és pályakapacitást növelő technológiai fejlesztések és eszközök.
+2.70. Elővárosi állomások, megállóhelyek fejlesztése és felújítása (TEN-T vonalak).
 
-2.71.[^116] Hídrekonstrukciós program a MÁV hálózatán.
+2.71. Budapest-Keleti pályaudvar épület-felújítás.
 
-2.72.[^117] Elővárosi állomások, megállóhelyek fejlesztése és felújítása (TEN-T vonalak).
+2.72. Budapest-Nyugati pályaudvar épület-felújítás.
 
-2.73.[^118] Budapest-Keleti pályaudvar épület-felújítás.
+2.73. A 40. számú vasútvonal, Kelenföld-Pusztaszabolcs szakasz korszerűsítése és ETCS 2 vonatbefolyásoló rendszer kiépítése.
 
-2.74.[^119] Budapest-Nyugati pályaudvar épület-felújítás.
+2.74. ETCS L2 fedélzeti berendezés felszerelése 59 db FLIRT típusú motorvonatra.
 
-2.75.[^120] A 40. számú vasútvonal, Kelenföld-Pusztaszabolcs szakasz korszerűsítése és ETCS 2 vonatbefolyásoló rendszer kiépítése.
+2.75. A 29. számú vasútvonal, Szabadbattyán – Tapolca – Keszthely szűk keresztmetszet kiváltás, villamosítás és központi forgalomirányítás megvalósítása a Balaton körül I. ütem (Szabadbattyán – Aszófő).
 
-2.76.[^121] ETCS L2 fedélzeti berendezés felszerelése 59 db FLIRT típusú motorvonatra.
+2.76. A 26., 27., 29. és 30. számú vasútvonalak, Balatoni vasútállomások rekonstrukciója.
+
+2.77. Gubacsi híd átépítése, csepeli Szabadkikötő vasúti kapcsolatának, valamint a Corvin csomópontnak a fejlesztése.
+
+2.78. Hegyeshalom–Rajka-országhatár vasútvonal korszerűsítésének előkészítése.
+
+2.79. Zalaszentiván deltavágány előkészítése.
+
+2.80. ETCS L2 fedélzeti eszközök telepítése a MÁV-START Zrt. 10 db TAURUS és 25 db TRAXX mozdonyára.
+
+2.81. GSM-R II. ütem távközlési hálózat előkészítése és kiépítése.
+
+2.82. GYSEV központi forgalomirányítás kiépítése.
+
+2.83. Gödöllő állomás korszerűsítése.
+
+2.84. Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések.
+
+2.85. MÁV jegyautomaták beszerzése, telepítése.
 
 3. Egyes városi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -608,7 +752,7 @@
 
 3.8. A miskolci déli tehermentesítő út fejlesztése (visszakötés az Andrássy úthoz).
 
-3.9.[^122] A Budapest, 1-es villamosvonal rekonstrukciója és fejlesztése (meghosszabbítása az Etele térig; Fehérvári út–Kelenföld vasútállomás).
+3.9. A Budapest, 1-es villamosvonal rekonstrukciója és fejlesztése (meghosszabbítása az Etele térig; Fehérvári út–Kelenföld vasútállomás).
 
 3.10. A Budapest, 3-es villamosvonal rekonstrukciója és fejlesztése.
 
@@ -634,197 +778,121 @@
 
 3.21. Kaposvár Megyei Jogú Város intermodális pályaudvar és közösségi közlekedés fejlesztése.
 
-3.22.[^123] Nyíregyháza, 36. sz. főúttal párhuzamos kerékpárút építése.
+3.22. Nyíregyháza, 36. számú főúttal párhuzamos kerékpárút építése.
 
-3.23.[^124] A jászfényszarui északi feltáró út megépítése.
+3.23. A jászfényszarui északi feltáró út megépítése.
 
-3.24.[^125] Budapest villamos- és trolibusz járműprojekt (kapcsolódó kocsiszín infrastruktúrával).
+3.24. Budapest villamos- és trolibusz járműprojekt (kapcsolódó kocsiszín infrastruktúrával).
 
-3.25.[^126] Budapest–Esztergom vasútvonal kiegészítő fejlesztések
+3.25. Budapest–Esztergom vasútvonal kiegészítő fejlesztések
 
-3.26.[^127] Rákosrendező–Esztergom vasútvonal villamosítása, biztosítóberendezés korszerűsítése
+3.26. Rákosrendező–Esztergom vasútvonal villamosítása, biztosítóberendezés korszerűsítése
 
-3.27.[^128] Kelenföld vasútállomás 8 vágány helyén P+R.
+3.27. Kelenföld vasútállomás 8 vágány helyén P+R.
 
-3.28.[^129] M4 metró, M1–M7 autópálya Kelenföldi pályaudvar átszállási csomópont.
+3.28. M4 metró, M1–M7 autópálya Kelenföldi pályaudvar átszállási csomópont.
 
-3.29.[^130] Helyi személyszállítás gördülőállományának fejlesztése.
+3.29. Helyi személyszállítás gördülőállományának fejlesztése.
 
-3.30.[^131] Elővárosi állomások, megállóhelyek fejlesztése és felújítása (nem TEN-T vonalak).
+3.30. Elővárosi állomások, megállóhelyek fejlesztése és felújítása (nem TEN-T vonalak).
 
-3.31.[^132] Külső Bécsi úti villamosvonal (Vörösvári út–Aranyvölgy).
+3.31. Külső Bécsi úti villamosvonal (Vörösvári út–Aranyvölgy).
 
-3.32.[^133] Újpalotai villamosvonal.
+3.32. Kelenföld intermodális központ (Őrmező).
 
-3.33.[^134] Kelenföld intermodális központ (Őrmező).
+3.33. A Szeged–Hódmezővásárhely-Békéscsaba–Gyula szakasz rekonstrukciója és villamosítása.
 
-3.34.[^135] A Szeged–Hódmezővásárhely-Békéscsaba–Gyula szakasz rekonstrukciója és villamosítása.
+3.34. A Debrecen–Nyíradony szakasz korszerűsítése.
 
-3.35.[^136] A Debrecen–Nyíradony szakasz korszerűsítése.
+3.35. A Nyíradony–Mátészalka szakasz korszerűsítése.
 
-3.36.[^137] A Nyíradony–Mátészalka szakasz korszerűsítése.
+3.36. A Debrecen–Nyírábrány szakasz korszerűsítése.
 
-3.37.[^138] A Debrecen–Nyírábrány szakasz korszerűsítése.
+3.37. A Szeged–Hódmezővásárhely vasútvonal városi-elővárosi tram-train rendszer megvalósítása és járműbeszerzés.
 
-3.38.[^139] A Szeged–Hódmezővásárhely vasútvonal városi-elővárosi tram-train rendszer megvalósítása.
+3.38. A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten.
 
-3.39.[^140] A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten.
+3.39. A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése (NEJP) és integrálása a BKK-val.
 
-3.40.[^141] A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése.
+3.40. Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása megyeszékhelyek vasúti elővárosi körzetében.
 
-3.41.[^142] Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása megyeszékhelyek vasúti elővárosi körzetében.
+3.41. Rákospalota-Újpest–Veresegyház–Vác vasútvonal korszerűsítése.
 
-3.42.[^143] Rákospalota-Újpest–Veresegyház–Vác vasútvonal korszerűsítése.
+3.42. Hungária körút–Rákospalota-Újpest vasútvonal korszerűsítése.
 
-3.43.[^144] Hungária körút–Rákospalota-Újpest vasútvonal korszerűsítése.
+3.43. Kőbánya-Kispest–Lajosmizse–Kecskemét vasútvonal szűk keresztmetszet kiváltás és villamosítás.
 
-3.44.[^145] Kőbánya-Kispest–Lajosmizse–Kecskemét vasútvonal szűk keresztmetszet kiváltás és villamosítás.
+3.44. Szeged–Makó vasúti elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építése.
 
-3.45.[^146] Szeged–Makó vasúti elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építése.
+3.45. Nyíregyháza megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a megyeszékhely vasúti elővárosi körzetében I. ütem.
 
-4.[^147] Egyes országos vízi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
+3.46. Székesfehérvár megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása.
+
+3.47. Tatabánya megyei jogú város – Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása.
+
+3.48. Galvani úti közúti híd és kapcsolódó úthálózat építésének előkészítése.
+
+3.49. Ráckevei H6 HÉV vonal fejlesztése.
+
+3.50. Csepeli H7 HÉV vonal fejlesztése.
+
+3.51. Földalatti rekonstrukciója és járműbeszerzése előkészítése.
+
+3.52. Paks város közösségi közlekedés fejlesztése.
+
+3.53. Gödöllői H8 és Csömöri H9 HÉV vonalak fejlesztése.
+
+3.54. 2-es/51-es villamosvonal (vágányfelújítás, megállóhelyek átépítése, biztosító berendezés és áramellátás korszerűsítése).
+
+3.55. Budapesti villamosok beszerzése.
+
+3.56. Eger megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása.
+
+3.57. Pécs megyei jogú város közösségi közlekedés fejlesztése.
+
+4. Egyes országos vízi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
 
 4.2. Csepeli Országos Közforgalmú Kikötő fejlesztése.
 
-4.3.[^148] Baja Országos Közforgalmú Kikötő fejlesztése.
+4.3. Baja Országos Közforgalmú Kikötő fejlesztése.
 
-4.4.[^149] Budapesti Szabadkikötő mobil árvízvédelmi rendszerének kiépítése.
+4.4. Budapesti Szabadkikötő mobil árvízvédelmi rendszerének kiépítése.
 
-4.5.[^150] A magyarországi TEN-T belvízi út- és kikötői infrastruktúra fejlesztése.
+4.5. A magyarországi TEN-T belvízi út- és kikötői infrastruktúra fejlesztése.
 
-4.6.[^151] Dunai hajóút kitűzési rendszerének fejlesztése.
+4.6. Dunai hajóút kitűzési rendszerének fejlesztése.
 
-4.7.[^152] Új komáromi híd, Komárom–Komárno (Révkomárom) között.
+4.7. Új komáromi híd, Komárom–Komárno (Révkomárom) között.
 
-4.8.[^153] Hajóút fenntartási főterv.
+4.8. Hajóút fenntartási főterv.
 
-4.9.[^154] Vízi úti információs rendszer kiépítése.
+4.9. Vízi úti információs rendszer kiépítése.
+
+4.10. Új országos közforgalmú kikötő kiépítése Mohácson.
+
+4.11 PAN-LNG-4-DANUBE – LNG belvízi infrastruktúra magyarországi kiépítésének előkészítése, és az első fixen mozgó töltőpont megvalósítása.
+
+4.12. Főterv kidolgozása a dunai áruszállítás erősítésére a TEN-T kikötői infrastruktúra fejlesztések révén, különös tekintettel a komáromi kikötőre.
+
+4.13. Az NKH Hajózási Információs Rendszerének (HIR) átdolgozása a Folyami Információs Szolgáltatások további fejlesztése érdekében.
+
+4.14. Folyami Információs Szolgáltatások által támogatott korridormenedzsment (RIS COMEX).
+
+5. Egyes országos légi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
+
+5.1. Szabad útvonalú (Free route) légtér a Fekete-erdőtől a Fekete tengerig.
+
+5.2. Repülőtéri együttműködésen alapuló döntéstámogató rendszer (Airport-Collaborative Decision Making) szoftverfejlesztés a HungaroControl Magyar Légiforgalmi Szolgálat Zrt.-nél.
+
+5.3. A határokon átnyúló szabad útvonalú légtér implementációja érdekében tett légiforgalmi szolgáltatás rendszer fejlesztése.
+
+5.4. Vienna AMAN (Arrival Management) működésének és a szomszédos repüléstájékoztató körzetekbe történő kiterjesztésének támogatása.
+
+5.5. Nemzetközi repülőterek forgalmát kezelő szektorok összehangolt optimalizációja.
+
+5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
 [^29]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet a 376/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^31]: Az 1. mellékle 1. pont 1.11. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^32]: Az 1. mellékle 1. pont 1.16. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^33]: Az 1. mellékle 1. pont 1.26. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^34]: Az 1. mellékle 1. pont 1.31. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^35]: Az 1. mellékle 1. pont 1.34. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^36]: Az 1. mellékle 1. pont 1.35. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^37]: Az 1. mellékle 1. pont 1.54. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^38]: Az 1. mellékle 1. pont 1.56. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^39]: Az 1. mellékle 1. pont 1.63. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^40]: Az 1. melléklet 1.164. pontját a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^41]: Az 1. melléklet 1. cím 1.165. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^42]: Az 1. melléklet 1. cím 1.166. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^43]: Az 1. melléklet 1. cím 1.167. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^44]: Az 1. melléklet 1. cím 1.168. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^45]: Az 1. melléklet 1. cím 1.169. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^46]: Az 1. melléklet 1. pont 1.170. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^47]: Az 1. melléklet 1. pont 1.171. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^48]: Az 1. melléklet 1. pont 1.172. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^49]: Az 1. melléklet 1. pont 1.173. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^50]: Az 1. melléklet 1. pont 1.174. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^51]: Az 1. melléklet 1. pont 1.175. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^52]: Az 1. melléklet 1. pont 1.176. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^53]: Az 1. melléklet 1. pont 1.177. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^54]: Az 1. melléklet 1. pont 1.178. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^55]: Az 1. melléklet 1. pont 1.179. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^56]: Az 1. melléklet 1. pont 1.180. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^57]: Az 1. melléklet 1. pont 1.181. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^58]: Az 1. melléklet 1. pont 1.182. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^59]: Az 1. melléklet 1. pont 1.183. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^60]: Az 1. melléklet 1. pont 1.184. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^61]: Az 1. melléklet 1. pont 1.185. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^62]: Az 1. melléklet 1. pont 1.186. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^63]: Az 1. melléklet 1. pont 1.187. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^64]: Az 1. melléklet 1. pont 1.188. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^65]: Az 1. melléklet 1. pont 1.189. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^66]: Az 1. melléklet 1. pont 1.190. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^67]: Az 1. melléklet 1. pont 1.191. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^68]: Az 1. melléklet 1. pont 1.192. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^69]: Az 1. melléklet 1. pont 1.193. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^70]: Az 1. melléklet 1. pont 1.194. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^71]: Az 1. melléklet 1. pont 1.195. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^72]: Az 1. melléklet 1. pont 1.196. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^73]: Az 1. melléklet 1. pont 1.197. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^74]: Az 1. melléklet 1. pont 1.198. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^75]: Az 1. melléklet 1. pont 1.199. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^76]: Az 1. melléklet 1. pont 1.200. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^77]: Az 1. melléklet 1. pont 1.201. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^78]: Az 1. melléklet 1. pont 1.202. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^79]: Az 1. melléklet 1. pont 1.203. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^80]: Az 1. melléklet 1. pont 1.204. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^81]: Az 1. melléklet 1. pont 1.205. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^82]: Az 1. melléklet 1. pont 1.206. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^83]: Az 1. melléklet 1. pont 1.207. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^84]: Az 1. melléklet 1. pont 1.208. alpontját a 76/2016. (IV. 5.) Korm. rendelet 1. §-a iktatta be.
-[^85]: Az 1. melléklet 1. pont 1.209. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^86]: Az 1. melléklet 1. pont 1.210. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^87]: Az 1. melléklet 1. pont 1.211. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^88]: Az 1. melléklet 1. pont 1.212. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^89]: Az 1. melléklet 1. pont 1.213. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^90]: Az 1. melléklet 1. pont 1.214. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^91]: Az 1. melléklet 1. pont 1.215. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^92]: Az 1. melléklet 1. pont 1.216. alpontját a 231/2016. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^93]: Az 1. melléklet 2. pont 2.13. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^94]: Az 1. melléklet 2. pont 2.29. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^95]: Az 1. melléklet 2. pont 2.30. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^96]: Az 1. melléklet 2. pont 2.38. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^97]: Az 1. melléklet 2. pont 2.52. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^98]: Az 1. melléklet 2. pont 2.53. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^99]: Az 1. melléklet 2. pont 2.54. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^100]: Az 1. melléklet 2. pont 2.55. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^101]: Az 1. melléklet 2. pont 2.56. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^102]: Az 1. melléklet 2. pont 2.57. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^103]: Az 1. melléklet 2. pont 2.58. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^104]: Az 1. melléklet 2. pont 2.59. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^105]: Az 1. melléklet 2. pont 2.60. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^106]: Az 1. melléklet 2. pont 2.61. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^107]: Az 1. melléklet 2. pont 2.62. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^108]: Az 1. melléklet 2. pont 2.63. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^109]: Az 1. melléklet 2. pont 2.64. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^110]: Az 1. melléklet 2. pont 2.65. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^111]: Az 1. melléklet 2. pont 2.66. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^112]: Az 1. melléklet 2. pont 2.67. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^113]: Az 1. melléklet 2. pont 2.67. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^114]: Az 1. melléklet 2. pont 2.69. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^115]: Az 1. melléklet 2. pont 2.70. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^116]: Az 1. melléklet 2. pont 2.71. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^117]: Az 1. melléklet 2. pont 2.72. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^118]: Az 1. melléklet 2. pont 2.73. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^119]: Az 1. melléklet 2. pont 2.74. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^120]: Az 1. melléklet 2. pont 2.75. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^121]: Az 1. melléklet 2. pont 2.76. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^122]: Az 1. melléklet 3. pont 3.9. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^123]: Az 1. melléklet 3. cím 3.22. pontját a 37/2014. (II. 19.) Korm. rendelet 2. §-a iktatta be.
-[^124]: Az 1. melléklet 3. cím 3.23. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^125]: Az 1. melléklet 3. pont 3.24. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^126]: Az 1. melléklet 3. pont 3.25. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^127]: Az 1. melléklet 3. pont 3.26. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^128]: Az 1. melléklet 3. pont 3.27. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^129]: Az 1. melléklet 3. pont 3.28. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^130]: Az 1. melléklet 3. pont 3.29. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^131]: Az 1. melléklet 3. pont 3.30. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^132]: Az 1. melléklet 3. pont 3.31. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^133]: Az 1. melléklet 3. pont 3.32. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^134]: Az 1. melléklet 3. pont 3.24. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^135]: Az 1. melléklet 3. pont 3.34. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^136]: Az 1. melléklet 3. pont 3.35. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^137]: Az 1. melléklet 3. pont 3.36. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^138]: Az 1. melléklet 3. pont 3.37. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^139]: Az 1. melléklet 3. pont 3.38. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^140]: Az 1. melléklet 3. pont 3.39. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^141]: Az 1. melléklet 3. pont 3.40. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^142]: Az 1. melléklet 3. pont 3.41. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^143]: Az 1. melléklet 3. pont 3.42. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^144]: Az 1. melléklet 3. pont 3.43. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^145]: Az 1. melléklet 3. pont 3.44. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^146]: Az 1. melléklet 3. pont 3.45. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^147]: Az 1. melléklet 4. címét (4.1–4.2. pont) a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^148]: Az 1. melléklet 4. cím 4.3. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^149]: Az 1. melléklet 4. pont 4.4. alpontját a 37/2015. (III. 6.) Korm. rendelet 6. §-a iktatta be.
-[^150]: Az 1. melléklet 4. pont 4.5. alpontját az 51/2015. (III. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ável megállapított szöveg.
-[^151]: Az 1. melléklet 4. pont 4.6. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^152]: Az 1. melléklet 4. pont 4.7. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^153]: Az 1. melléklet 4. pont 4.8. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^154]: Az 1. melléklet 4. pont 4.9. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^30]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

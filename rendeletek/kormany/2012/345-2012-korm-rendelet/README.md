@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-345-20-
 | 2016-09-09 | 2012-345-20-22.13 | 271/2016. (IX. 1.) Korm. rendelet |
 | 2016-11-19 | 2012-345-20-22.14 | 355/2016. (XI. 18.) Korm. rendelet |
 | 2017-01-01 | 2012-345-20-22.15 | 440/2016. (XII. 16.) Korm. rendelet |
+| 2017-01-05 | 2012-345-20-22.16 | 490/2016. (XII. 28.) Korm. rendelet |
