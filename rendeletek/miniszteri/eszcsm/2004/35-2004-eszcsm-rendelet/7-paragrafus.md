@@ -12,6 +12,8 @@ e) ha szükséges, útmutatót a megfelelő elkészítéshez, valamint figyelmez
 
 (2) A jelölésen feltüntethető továbbá:
 
-a) az (1) bekezdés d) pontjában nem említett, a 4. számú mellékletben felsorolt anyagok átlagos számszerűen kifejezett mennyisége 100 gramm (g) vagy 100 milliliter (ml) termékre, illetve ahol adott mennyiség elfogyasztása javasolt, egy adag fogyasztásra kész termékre vonatkozóan,
+a)[^4] az (1) bekezdés d) pontjában nem említett, a különleges táplálkozási célokra szánt élelmiszerekhez adható tápértéknövelő anyagokról szóló, 2009. október 13-i 953/2009/EK bizottsági rendelet mellékletében felsorolt anyagok átlagos számszerűen kifejezett mennyisége 100 gramm (g) vagy 100 milliliter (ml) termékre, illetve ahol adott mennyiség elfogyasztása javasolt, egy adag fogyasztásra kész termékre vonatkozóan,
 
 b) a számszerű adatok mellett a vitaminok és ásványi anyagok mennyisége az 5. számú melléklet szerinti referenciaértékek százalékában 100 gramm (g) vagy 100 milliliter (ml) termékre, illetve ahol adott mennyiség elfogyasztása javasolt, egy adag fogyasztásra kész termékre vonatkozóan, amennyiben a mennyiségek a referenciaértékek legalább 15%-át elérik.
+
+[^4]: A 7. § (2) bekezdés a) pontja a 44/2016. (XII. 28.) EMMI rendelet 34. § c) pontja szerint módosított szöveg.
