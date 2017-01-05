@@ -6,7 +6,7 @@
 
 (3) A vizsgálaton megjelent személy köteles személyazonosságát hitelt érdemlően (személyi igazolvánnyal vagy ezzel egyenértékű okirattal) igazolni.
 
-(4)[^2] Ha a közúti járművezető a két vizsgálat időpontja között egészségi állapotában olyan állapotromlást észlel, amely a közúti járművezetésre átmenetileg vagy véglegesen egészségi szempontból alkalmatlanná teheti, illetőleg azt befolyásolhatja, köteles az alkalmassági vizsgálat elvégzésére első fokon jogosult orvosnál orvosi vizsgálatra jelentkezni.
+(4)[^2]
 
 [^1]: Az 1. § (2) bekezdése a 16/2008. (IV. 24.) EüM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (4) bekezdése a 30/1998.(XII. 27.)Eü M rendelet 7. §-a (2) bekezdésének a) pontjával módosított szöveg.
+[^2]: Az 1. § (4) bekezdését a 44/2016. (XII. 28.) EMMI rendelet 5. §-a hatályon kívül helyezte.

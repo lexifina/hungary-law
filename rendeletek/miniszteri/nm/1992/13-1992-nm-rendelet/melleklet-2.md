@@ -208,11 +208,11 @@
 
 | 11.3. | Azon kérelmezők vagy járművezetők esetében, akik átmenetileg vagy véglegesen olyan, a fenti pontokban nem említett valamely betegségben szenvednek, amely a járművezetés biztonságát hátrányosan befolyásoló funkcionális alkalmatlanságot idéz vagy idézhet elő, az egészségi alkalmasság az erre felhatalmazott orvos szakvéleménye és – szükség esetén – rendszeres orvosi felülvizsgálat előírása mellett állapítható meg, illetve újítható meg. |
 
-2. melléklet a 13/1992. (VI. 26.) NM rendelethez[^47]
+2. melléklet a 13/1992. (VI. 26.) NM rendelethez[^51]
 
 ## Az egészségügyi alkalmassági vélemény adattartalma
 
-1.[^48] Az egészségügyi szolgáltató neve, címe és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló EüM rendelet szerint az Országos Tisztifőorvosi Hivataltól kapott kilencjegyű azonosító.
+1.[^52] Az egészségügyi szolgáltató neve, címe és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló EüM rendelet szerint az Országos Tisztifőorvosi Hivataltól kapott kilencjegyű azonosító.
 
 2. A vizsgált személy neve, születési helye, ideje, állandó lakóhelye
 
@@ -220,7 +220,7 @@
 
 4. Az alkalmassági csoport
 
-5.[^49] A korábbi járművezetésre jogosító okmány száma és az abban megtalálható korlátozások/feltételek
+5.[^53] A korábbi járművezetésre jogosító okmány száma és az abban megtalálható korlátozások/feltételek
 
 6. Az alkalmassági vizsgálat eredménye (ALKALMATLAN, ALKALMAS, ALKALMAS feltétellel, korlátozással)
 
@@ -230,9 +230,9 @@
 
 9. Az orvos neve, orvosi bélyegzője
 
-10.[^50] A következő tájékoztatás: „Ezt a véleményt – ha a véleményt nem a vizsgált személy választott háziorvosa állította ki – az alkalmassági vizsgálatot végző orvos a vizsgálat elvégzését követő 15 napon belül megküldi a vizsgált személy választott háziorvosának.”
+10.[^54] A következő tájékoztatás: „Ezt a véleményt – ha a véleményt nem a vizsgált személy választott háziorvosa állította ki – az alkalmassági vizsgálatot végző orvos a vizsgálat elvégzését követő 15 napon belül megküldi a vizsgált személy választott háziorvosának.”
 
-[^47]: A mellékletet a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (2) bekezdése iktatta be, az eredeti melléklet szövegének megjelölését 2. mellékletre változtatta a 19/2010. (XII. 23.) NEFMI rendelet 6. § (2) bekezdése.
-[^48]: A melléklet 1. pontja a 16/2008. (IV. 24.) EüM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^49]: A melléklet 5. pontja a 16/2008. (IV. 24.) EüM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^50]: A melléklet 10. pontját a 16/2008. (IV. 24.) EüM rendelet 10. § (2) bekezdése iktatta be.
+[^51]: A mellékletet a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (2) bekezdése iktatta be, az eredeti melléklet szövegének megjelölését 2. mellékletre változtatta a 19/2010. (XII. 23.) NEFMI rendelet 6. § (2) bekezdése.
+[^52]: A melléklet 1. pontja a 16/2008. (IV. 24.) EüM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^53]: A melléklet 5. pontja a 16/2008. (IV. 24.) EüM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^54]: A melléklet 10. pontját a 16/2008. (IV. 24.) EüM rendelet 10. § (2) bekezdése iktatta be.
