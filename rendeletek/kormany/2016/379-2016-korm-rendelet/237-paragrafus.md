@@ -15,5 +15,5 @@ c)[^384]
 [^380]: A 236. § a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^381]: A 237. § (1)–(3) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^382]: A 237. § (4) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^383]: A 237. § (4) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^384]: A 237. § (4) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^383]: A 237. § (4) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^384]: A 237. § (4) bekezdés c) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

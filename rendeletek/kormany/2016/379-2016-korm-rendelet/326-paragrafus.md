@@ -62,4 +62,4 @@ c) 3. § (4) bekezdésében a „(2)–(6)” szövegrész helyébe a „(2) és
 
 (3) Hatályát veszti az R166. 1. § (3) és (5)–(6) bekezdése, valamint 4. §-a.
 
-[^536]: A 325. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^536]: A 325. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

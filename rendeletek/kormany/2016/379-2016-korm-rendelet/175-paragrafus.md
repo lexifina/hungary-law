@@ -10,7 +10,7 @@ a)[^290]
 
 b)[^291]
 
-[^288]: A 174. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^289]: A 175. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^290]: A 175. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^288]: A 174. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^289]: A 175. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^290]: A 175. § (2) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^291]: A 175. § (2) bekezdés b) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

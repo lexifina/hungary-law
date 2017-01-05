@@ -36,19 +36,19 @@
 
 (9)[^140]
 
-[^125]: A 74. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 74. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^126]: A 74. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 20. § (3) bekezdés c) pontja alapján nem lép hatályba.
-[^127]: A 74. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^128]: A 74. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^129]: A 74. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^130]: A 74. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 74. § (3) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^128]: A 74. § (4) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^129]: A 74. § (5) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^130]: A 74. § (6) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^131]: A 74. § (7) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 20. § (3) bekezdés c) pontja alapján nem lép hatályba.
-[^132]: A 74. § (8) bekezdés 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 74. § (8) bekezdés 1–2. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^133]: A 74. § (8) bekezdés 3. pontja a 473/2016. (XII. 27.) Korm. rendelet 20. § (3) bekezdés d) pontja alapján nem lép hatályba.
-[^134]: A 74. § (8) bekezdés 4–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^134]: A 74. § (8) bekezdés 4–9. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^135]: A 74. § (8) bekezdés 10–13. pontja a 473/2016. (XII. 27.) Korm. rendelet 20. § (3) bekezdés d) pontja alapján nem lép hatályba.
-[^136]: A 74. § (8) bekezdés 14–15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 74. § (8) bekezdés 14–15. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^137]: A 74. § (8) bekezdés 16. pontja a 473/2016. (XII. 27.) Korm. rendelet 20. § (3) bekezdés d) pontja alapján nem lép hatályba.
-[^138]: A 74. § (8) bekezdés 17–19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^138]: A 74. § (8) bekezdés 17–19. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^139]: A 74. § (8) bekezdés 20. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^140]: A 74. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^140]: A 74. § (9) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

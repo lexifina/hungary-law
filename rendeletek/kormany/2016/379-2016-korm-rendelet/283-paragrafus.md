@@ -14,9 +14,9 @@ a)–b)[^455]
 
 c)–h)[^456]
 
-[^451]: A 282. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^452]: A 283. § (1)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^451]: A 282. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^452]: A 283. § (1)–(6) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^453]: A 283. § (7)–(9) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^454]: A 283. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^455]: A 283. § (11) bekezdés a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^454]: A 283. § (10) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^455]: A 283. § (11) bekezdés a)–b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^456]: A 283. § (11) bekezdés c)–h) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

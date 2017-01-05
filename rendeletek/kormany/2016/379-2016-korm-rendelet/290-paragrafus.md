@@ -14,10 +14,10 @@
 
 (6)–(9)[^468]
 
-[^462]: A 289. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^463]: A 290. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^462]: A 289. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^463]: A 290. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^464]: A 290. § (2) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^465]: A 290. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^465]: A 290. § (3) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^466]: A 290. § (4) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^467]: A 290. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^467]: A 290. § (5) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^468]: A 290. § (6)–(9) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

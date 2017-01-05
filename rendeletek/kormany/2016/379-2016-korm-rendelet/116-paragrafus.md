@@ -2,4 +2,4 @@
 
 ## 116. A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet módosítása
 
-[^193]: A 115. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^193]: A 115. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

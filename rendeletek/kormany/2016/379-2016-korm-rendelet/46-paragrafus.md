@@ -22,13 +22,13 @@
 
 22–24.[^64]
 
-[^55]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^56]: A 46. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A 46. § (2) bekezdés 1–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 45. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^56]: A 46. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^57]: A 46. § (2) bekezdés 1–3. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^58]: A 46. § (2) bekezdés 4–13. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^59]: A 46. § (2) bekezdés 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^60]: A 46. § (2) bekezdés 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 46. § (2) bekezdés 14. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^60]: A 46. § (2) bekezdés 15. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^61]: A 46. § (2) bekezdés 16–19. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^62]: A 46. § (2) bekezdés 20. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^63]: A 46. § (2) bekezdés 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 46. § (2) bekezdés 20. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^63]: A 46. § (2) bekezdés 21. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^64]: A 46. § (2) bekezdés 22–24. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

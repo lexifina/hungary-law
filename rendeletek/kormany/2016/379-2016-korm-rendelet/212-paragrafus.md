@@ -4,5 +4,5 @@
 
 212. § (1)–(4)[^339]
 
-[^338]: A 211. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^339]: A 212. § (1)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^338]: A 211. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^339]: A 212. § (1)–(4) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

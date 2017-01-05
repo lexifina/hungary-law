@@ -2,4 +2,4 @@
 
 ## 133. Az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló 102/2009. (V. 11.) Korm. rendelet módosítása
 
-[^218]: A 132. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^218]: A 132. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

@@ -2,4 +2,4 @@
 
 ## 246. Az energetikai létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 360/2013. (X. 11.) Korm. rendelet módosítása
 
-[^398]: A 245. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^398]: A 245. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

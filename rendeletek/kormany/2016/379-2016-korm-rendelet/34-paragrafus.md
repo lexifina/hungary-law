@@ -14,9 +14,9 @@
 
 20.[^44]
 
-[^39]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 34. § 1–7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 33. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^40]: A 34. § 1–7. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^41]: A 34. § 8–10. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^42]: A 34. § 11–18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 34. § 11–18. pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^43]: A 34. § 19. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^44]: A 34. § 20. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

@@ -28,15 +28,15 @@ f)–o)[^367]
 
 (6)[^368]
 
-[^357]: A 223. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^357]: A 223. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^358]: A 224. § (1) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^359]: A 224. § (2) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^360]: A 224. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^360]: A 224. § (3) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^361]: A 224. § (4) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^362]: A 224. § (5) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^363]: A 224. § (5) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^362]: A 224. § (5) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^363]: A 224. § (5) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^364]: A 224. § (5) bekezdés c) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^365]: A 224. § (5) bekezdés d) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba. A 224. § (5) bekezdés d) pontja a 464/2016. (XII. 23.) Korm. rendelet 48. § (1) bekezdése szerint módosított szöveg.
-[^366]: A 224. § (5) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^366]: A 224. § (5) bekezdés e) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^367]: A 224. § (5) bekezdés f)–o) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^368]: A 224. § (6) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

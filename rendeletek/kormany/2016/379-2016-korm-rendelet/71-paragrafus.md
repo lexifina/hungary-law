@@ -34,17 +34,17 @@ b)[^118]
 
 (9)[^119]
 
-[^106]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^107]: A 71. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^108]: A 71. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^109]: A 71. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^110]: A 71. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^111]: A 71. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^112]: A 71. § (6) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^113]: A 71. § (6) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 70. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^107]: A 71. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^108]: A 71. § (2) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^109]: A 71. § (3) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^110]: A 71. § (4) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^111]: A 71. § (5) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^112]: A 71. § (6) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^113]: A 71. § (6) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^114]: A 71. § (6) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdsée alapján hatályát vesztette.
-[^115]: A 71. § (6) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^116]: A 71. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 71. § (6) bekezdés d) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^116]: A 71. § (7) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^117]: A 71. § (8) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^118]: A 71. § (8) bekezdés b) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^119]: A 71. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 71. § (9) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

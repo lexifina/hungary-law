@@ -12,7 +12,7 @@ b)[^303]
 
 c)[^304]
 
-[^301]: A 184. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^301]: A 184. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^302]: A 185. § a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^303]: A 185. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^303]: A 185. § b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^304]: A 185. § c) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

@@ -14,8 +14,8 @@ b)[^32]
 
 (13)[^33]
 
-[^29]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 27. § (1)–(11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 26. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^30]: A 27. § (1)–(11) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^31]: A 27. § (12) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^32]: A 27. § (12) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 27. § (13) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 27. § (12) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^33]: A 27. § (13) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

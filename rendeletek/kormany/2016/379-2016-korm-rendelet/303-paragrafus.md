@@ -10,7 +10,7 @@ a)[^498]
 
 b)[^499]
 
-[^496]: A 302. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^497]: A 303. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^496]: A 302. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^497]: A 303. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^498]: A 303. § (2) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^499]: A 303. § (2) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^499]: A 303. § (2) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

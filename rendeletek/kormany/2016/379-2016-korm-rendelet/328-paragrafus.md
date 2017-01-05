@@ -12,4 +12,4 @@ ab) e) és f) pontja,
 
 b) 15. és 19. §-a.
 
-[^537]: A 327. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^537]: A 327. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

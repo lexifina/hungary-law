@@ -4,4 +4,4 @@
 
 ## 2012. évi CCXVII. törvény alapján történő derogációs kiosztás végrehajtási szabályairól szóló 341/2013. (IX. 25.) Korm. rendelet módosítása
 
-[^396]: A 243. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^396]: A 243. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

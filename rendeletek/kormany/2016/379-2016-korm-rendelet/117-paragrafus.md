@@ -4,4 +4,4 @@
 
 ## 191/2008. (VII. 30.) Korm. rendelet módosítása
 
-[^194]: A 116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^194]: A 116. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

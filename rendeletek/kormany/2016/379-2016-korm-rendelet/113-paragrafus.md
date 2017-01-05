@@ -16,7 +16,7 @@ j)[^191]
 
 [^186]: A 113. § (1) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^187]: A 113. § (2) bekezdés a)–e) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^188]: A 113. § (2) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^188]: A 113. § (2) bekezdés f) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^189]: A 113. § (2) bekezdés g)–h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^190]: A 113. § (2) bekezdés i) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^191]: A 113. § (2) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

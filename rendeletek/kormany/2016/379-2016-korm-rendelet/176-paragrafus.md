@@ -7,4 +7,4 @@
 (2)[^293]
 
 [^292]: A 176. § (1) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^293]: A 176. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^293]: A 176. § (2) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

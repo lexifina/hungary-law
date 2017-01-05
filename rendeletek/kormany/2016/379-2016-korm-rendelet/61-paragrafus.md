@@ -17,8 +17,8 @@ d)[^92]
 (4)–(5)[^93]
 
 [^88]: A 60. § a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^89]: A 61. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 61. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^90]: A 61. § (2) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^91]: A 61. § (3) bekezdés a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 61. § (3) bekezdés a)–c) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^92]: A 61. § (3) bekezdés d) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^93]: A 61. § (4)–(5) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

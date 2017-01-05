@@ -14,8 +14,8 @@ b)[^230]
 
 (3)[^231]
 
-[^227]: A 141. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^228]: A 142. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^227]: A 141. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^228]: A 142. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^229]: A 142. § (2) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^230]: A 142. § (2) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^231]: A 142. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^230]: A 142. § (2) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^231]: A 142. § (3) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

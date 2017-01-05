@@ -12,7 +12,7 @@ b)[^260]
 
 (2)[^261]
 
-[^258]: A 156. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^258]: A 156. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^259]: A 157. § (1) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^260]: A 157. § (1) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^261]: A 157. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^261]: A 157. § (2) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

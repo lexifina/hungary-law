@@ -8,7 +8,7 @@
 
 (3)[^472]
 
-[^469]: A 291. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^470]: A 292. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^469]: A 291. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^470]: A 292. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^471]: A 292. § (2) bekezdése a 329. § (5) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^472]: A 292. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^472]: A 292. § (3) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

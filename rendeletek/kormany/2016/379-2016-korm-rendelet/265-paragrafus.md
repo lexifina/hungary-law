@@ -16,9 +16,9 @@ c)[^426]
 
 (3)[^427]
 
-[^422]: A 264. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^423]: A 265. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^424]: A 265. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^422]: A 264. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^423]: A 265. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^424]: A 265. § (2) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^425]: A 265. § (2) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^426]: A 265. § (2) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^427]: A 265. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^426]: A 265. § (2) bekezdés c) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^427]: A 265. § (3) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
