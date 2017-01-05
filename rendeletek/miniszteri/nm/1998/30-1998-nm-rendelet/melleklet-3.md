@@ -38,7 +38,7 @@
 
 7.1. HIV-szűrés
 
-8.[^22] Speciális donorok esetén, illetve epidemiológiai helyzetekben esetleg szükséges további vizsgálatok
+8.[^23] Speciális donorok esetén, illetve epidemiológiai helyzetekben esetleg szükséges további vizsgálatok
 
 8.1. Reproduktív sejtek partnerek közötti adományozása (nem közvetlen felhasználás) esetén HTLV-I antitestvizsgálatot kell végezni azoknál a donoroknál, akik olyan területen élnek vagy olyan területről származnak, amelyet magas előfordulási gyakoriság jellemez, vagy akiknek a szexuális partnerei, illetve a szülei származnak ilyen területről.
 
@@ -46,4 +46,4 @@
 
 8.3. A nem partnerek közötti adományozás esetén a vérmintákat minden egyes adományozáskor le kell venni. A partnerek közötti (nem közvetlen felhasználás) adományozás esetén a vérmintákat az első adományozást megelőző három hónapon belül kell levenni. Partnerek közötti további adomány esetén, ha a donor azonos, további vérmintákat kell venni, de az előző mintavételtől számított legfeljebb 24 hónapon belül.
 
-[^22]: A 3. számú melléklet 8. pontját a 20/2007. (IV. 19.) EüM rendelet 11. § (3) bekezdése iktatta be, szövege a 76/2013. (XII. 10.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^23]: A 3. számú melléklet 8. pontját a 20/2007. (IV. 19.) EüM rendelet 11. § (3) bekezdése iktatta be, szövege a 76/2013. (XII. 10.) EMMI rendelet 6. §-ával megállapított szöveg.

@@ -1,12 +1,12 @@
 ## Rendelkezési nyilatkozat fagyasztva tárolt embriókról
 
-## Rendelkezési nyilatkozat fagyasztva tárolt embriókról[^29]
+## Rendelkezési nyilatkozat fagyasztva tárolt embriókról[^31]
 
 ## Sorszám:
 
 ## Kelte:
 
-## I. Együttes rendelkezési nyilatkozat[^30]
+## I. Együttes rendelkezési nyilatkozat[^32]
 
 ## Alulírottak   (feleség/nő),
 
@@ -48,7 +48,7 @@
 
 ## Kelte:
 
-## II. Önálló rendelkezési nyilatkozat[^31]
+## II. Önálló rendelkezési nyilatkozat[^33]
 
 ## Alulírott  . (kérelmező)
 
@@ -78,8 +78,8 @@
 
 9. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
 
-[^29]: A rendelkezési jog gyakorlása szerint kérjük az I. vagy a II. jelű nyilatkozatot kitölteni.
-[^30]: Az egészségügyről szóló 1997. évi CLIV. törvény 175. § szerinti esetben.
+[^31]: A rendelkezési jog gyakorlása szerint kérjük az I. vagy a II. jelű nyilatkozatot kitölteni.
+[^32]: Az egészségügyről szóló 1997. évi CLIV. törvény 175. § szerinti esetben.
 [^*]: A választott rendelkezésnek megfelelő nyilatkozat sorszámát kérjük jól láthatóan bekeretezni.
-[^31]: Az egészségügyről szóló 1997. évi CLIV. törvény 167. § (4) bekezdés szerinti esetben.
+[^33]: Az egészségügyről szóló 1997. évi CLIV. törvény 167. § (4) bekezdés szerinti esetben.
 [^*]: A választott rendelkezésnek megfelelő nyilatkozat sorszámát kérjük jól láthatóan bekeretezni.

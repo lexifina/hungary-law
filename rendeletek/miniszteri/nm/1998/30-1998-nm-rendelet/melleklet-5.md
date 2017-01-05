@@ -1,4 +1,4 @@
-## Az ivarsejtek és embriók fagyasztva tárolásának javallatai[^23]
+## Az ivarsejtek és embriók fagyasztva tárolásának javallatai[^24]
 
 ## Az embriók fagyasztva tárolásának javallatai:
 
@@ -46,80 +46,7 @@
 
 ## 2. Adományozás céljára történő női ivarsejt fagyasztás: a donor női ivarsejt felhasználásának javallatai szerint.
 
-5. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+5. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^25]
 
-## A fagyasztva tárolás intézeti feltételei
-
-1.[^24] Személyi feltételek:
-
-A fagyasztva tárolást biológus vagy orvos végzettségű személy, vagy ezek valamelyikének felügyeletével olyan biológus asszisztens végezheti, aki
-
-a) legalább egy év gyakorlatot szerzett meddőségi intézetben vagy sejt/szövet fagyasztással foglalkozó intézetben az ivarsejtek, illetve embriók fagyasztva tárolásában, vagy
-
-b) igazolja, hogy ivarsejt fagyasztással kapcsolatban speciális, akkreditált tanfolyamon vett részt.
-
-A gyakorlat megszerzéséért, illetve a tevékenység végzéséért az IVF labor vezetője a közvetlen felelős.
-
-2.[^25] Tárgyi feltételek:
-
-2.1. Az IVF-ET laboratóriumokban végzett fagyasztva tárolás során az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló jogszabályban foglaltakon kívül az alábbi műszerezettségi feltételeket kell biztosítani:
-
-– számítógépes vezérlésű, programozható fagyasztó automata berendezés (ha csak hímivarsejtek fagyasztva tárolása történik, akkor megfelelő fagyasztó berendezés),
-
-– cseppfolyós nitrogénes vagy gőzfázisú tároló (–150 oC alatti hőmérséklet),
-
-– a fagyasztáshoz szükséges oldatok,
-
-– műanyag hordozó (műszalma), műanyag kazetta, tok, goblet a műszalmák tárolására (különböző színekben),
-
-– a hordozó steril zárására alkalmas anyagok, eszközök,
-
-– folyamatos folyékony nitrogén ellátás.
-
-2.2. Ivarsejt vitrifikáció esetén:
-
-– számítógépes vezérlésű, programozható fagyasztó automata berendezés (ha csak hímivarsejtek fagyasztva tárolása történik, akkor megfelelő fagyasztó berendezés),
-
-– cseppfolyós nitrogénes vagy gőzfázisú tároló (–150 oC alatti hőmérséklet),
-
-– műanyag hordozó (OPS, Cryotop, Cryoloop stb.),
-
-– a hordozó steril zárására alkalmas anyagok, eszközök,
-
-– műanyag kazetta, tok, goblet a műanyag hordozók tárolására,
-
-– vitrifikációs oldatok.
-
-3. Biztonsági előírások:
-
-– a laborműszereket, azok működőképességét folyamatosan ellenőrizni kell, az ellenőrzések időpontját, eredményét a műszerkönyvekben rögzíteni kell,
-
-– a fagyasztó automaták programbeíró kódját csak az arra illetékes és kijelölt személyek ismerhetik, az előre meghatározott programok módosítását csak az arra felhatalmazott személyek végezhetik el, mely változtatásokat írásban is rögzíteniük kell (a módosított program írásbeli dokumentációja),
-
-– a fagyasztási eljárás megkezdése előtt a folyékony nitrogén szintjének ellenőrzése kötelező,
-
-– a fagyasztó automata lehetőleg rendelkezzen szünetmentes áramforrással is,
-
-– a tárolóedények folyékony nitrogén szintjének ellenőrzését vagy gépi ellenőrző és riasztó rendszerrel vagy manuális módszerrel kell megoldani. Az ellenőrzések időpontját, a tárolóedények folyékony nitrogénnel történő feltöltésének időpontjait regisztrálni kell,
-
-– nem megengedhető, hogy a fagyasztva tárolt embriók a folyékony nitrogén szintjének a kritikus érték alá csökkenése miatt károsodjanak,
-
-– a tároló, zárható edényeket tartalmazó helyiségbe illetéktelenek nem léphetnek be,
-
-– a tárolóedények zárjának nyitási mechanizmusait csak az arra illetékesek ismerhetik,
-
-– a páciensek, a fagyasztva tárolt ivarsejtek, illetve embriók egyértelmű azonosíthatóságáról gondoskodni kell. Az azonosíthatóság, a követhetőség minden egyes manipuláció esetén biztosított kell legyen,
-
-– a fagyasztás, a fagyasztva tárolás adatait megfelelő módon kell dokumentálni.
-
-4. A fagyasztva tárolás dokumentációja:
-
-4.1. A fagyasztva tárolást kérelmező, illetve az abba beleegyező nyilatkozat
-
-4.2. Rendelkezési nyilatkozat (lásd 8. számú melléklet)
-
-4.3. Fagyasztási Napló (lásd 9. számú melléklet)
-
-[^23]: A 4. számú melléklet „Az ivarsejtek és embriók fagyasztva tárolásának javallatai” alcím szövege a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^24]: Az 5. számú melléklet 1. pontja a 68/2013. (XI. 15.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^25]: Az 5. számú melléklet 2. pontja a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^24]: A 4. számú melléklet „Az ivarsejtek és embriók fagyasztva tárolásának javallatai” alcím szövege a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^25]: Az 5. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 17. §-a hatályon kívül helyezte.

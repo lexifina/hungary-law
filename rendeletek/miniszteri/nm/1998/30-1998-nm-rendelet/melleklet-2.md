@@ -16,9 +16,9 @@
 
 – andrológiai eredetű meddőség.
 
-2.[^17] In vitro fertilizáció és embriótranszfer adományozott vagy saját célra lefagyasztott ivarsejtekkel
+2.[^18] In vitro fertilizáció és embriótranszfer adományozott vagy saját célra lefagyasztott ivarsejtekkel
 
-2.1.[^18] Adományozott vagy saját célra lefagyasztott spermiummal
+2.1.[^19] Adományozott vagy saját célra lefagyasztott spermiummal
 
 – igazoltan mindkét oldalt lezárt vagy hiányzó petevezeték,
 
@@ -48,7 +48,7 @@
 
 – Rh-negatív vércsoportú izoimmunizált nőbeteg.
 
-2.2.[^19] Adományozott vagy a 4. számú melléklet „A női ivarsejtek fagyasztva tárolásának javallatai” alcím 1. pontja szerinti indikációk alapján saját célra lefagyasztott női ivarsejttel
+2.2.[^20] Adományozott vagy a 4. számú melléklet „A női ivarsejtek fagyasztva tárolásának javallatai” alcím 1. pontja szerinti indikációk alapján saját célra lefagyasztott női ivarsejttel
 
 2.2.1. Adományozott női ivarsejttel:
 
@@ -116,7 +116,7 @@ funkcionálisan ép petevezető mellett.
 
 6. Intracitoplazmatikus spermium injektálás (ICSI)
 
-6.1.[^20] Intracitoplazmatikus spermium injektálás (ICSI)
+6.1.[^21] Intracitoplazmatikus spermium injektálás (ICSI)
 
 – súlyos andrológiai eredetű meddőség, a módszer jellege az andrológiai lelet függvénye, a választott típus az andrológus szakorvos véleményének megfelelő,
 
@@ -188,7 +188,7 @@ funkcionálisan ép petevezető mellett.
 
 – korábbi kezelési ciklusból fagyasztva tárolt préembriók visszaültetése a teljes kezelt ciklus megismétlése nélkül.
 
-8.4.[^21] Megtermékenyítés és embriótranszfer fagyasztva tárolt női ivarsejt felolvasztását követően – korábbi kezelési ciklusból fagyasztva tárolt női ivarsejt felolvasztása, megtermékenyítése és az így létrejött embrió (embriók) visszaültetése a teljes kezelt ciklus megismétlése nélkül.
+8.4.[^22] Megtermékenyítés és embriótranszfer fagyasztva tárolt női ivarsejt felolvasztását követően – korábbi kezelési ciklusból fagyasztva tárolt női ivarsejt felolvasztása, megtermékenyítése és az így létrejött embrió (embriók) visszaültetése a teljes kezelt ciklus megismétlése nélkül.
 
 9. Mesterséges ondóbevitel
 
@@ -224,8 +224,8 @@ funkcionálisan ép petevezető mellett.
 
 – Rh-negatív vércsoportú izoimmunizált nőbeteg.
 
-[^17]: A 2. számú melléklet 2. pont címe a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^18]: A 2. számú melléklet 2.1. alpont címe a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^19]: A 2. számú melléklet 2.2 alpontja a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^20]: A 2. számú melléklet 6. pontjának 6.1. alpontja a 6/2006. (II. 20.) EüM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^21]: A 2. számú melléklet 8. pont 8.4. alpontját a 68/2013. (XI. 15.) EMMI rendelet 4. §-a iktatta be.
+[^18]: A 2. számú melléklet 2. pont címe a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^19]: A 2. számú melléklet 2.1. alpont címe a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^20]: A 2. számú melléklet 2.2 alpontja a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^21]: A 2. számú melléklet 6. pontjának 6.1. alpontja a 6/2006. (II. 20.) EüM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^22]: A 2. számú melléklet 8. pont 8.4. alpontját a 68/2013. (XI. 15.) EMMI rendelet 4. §-a iktatta be.
