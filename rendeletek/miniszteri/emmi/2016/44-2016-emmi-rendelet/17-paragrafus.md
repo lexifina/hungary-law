@@ -1,0 +1,1 @@
+## 16. § A 30/1998. NM r. 4. § (1) bekezdésében az „az 5. számú mellékletben” szövegrész helyébe az „az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben” szöveg lép.
