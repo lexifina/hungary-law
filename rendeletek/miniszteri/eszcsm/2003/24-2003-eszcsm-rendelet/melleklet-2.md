@@ -64,6 +64,6 @@
 
 ## 1 1–10 év közötti gyermekek számára készült termékek esetében.
 
-2. számú melléklet a 24/2003. (V. 9.) ESZCSM rendelethez[^17]
+2. számú melléklet a 24/2003. (V. 9.) ESZCSM rendelethez[^39]
 
-[^17]: A 2. számú mellékletet a 37/2004. (IV. 26.) ESZCSM rendelet 15. §-ának (3) bekezdése iktatta a szövegbe, egyidejűleg a melléklet eredeti szövegét 1. számú mellékletre változtatta. A 2. számú mellékletet a 20/2008. (V. 14.) EüM rendelet 19. § (7) bekezdésének b) pontja hatályon kívül helyezte.
+[^39]: A 2. számú mellékletet a 37/2004. (IV. 26.) ESZCSM rendelet 15. §-ának (3) bekezdése iktatta a szövegbe, egyidejűleg a melléklet eredeti szövegét 1. számú mellékletre változtatta. A 2. számú mellékletet a 20/2008. (V. 14.) EüM rendelet 19. § (7) bekezdésének b) pontja hatályon kívül helyezte.
