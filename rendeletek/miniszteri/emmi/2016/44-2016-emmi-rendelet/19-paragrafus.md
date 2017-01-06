@@ -1,3 +1,0 @@
-## 18. § A veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet (a továbbiakban: 44/2000. EüM rendelet) 8. §-a a következő (6a) bekezdéssel egészül ki:
-
-## „(6a) Az orvosi ellátás nélkül halált eredményező, és igazságügyi szakértői kivizsgálásra kerülő heveny mérgezési esetek bejelentését az igazságügyi szakértői kivizsgálást elrendelő szerv végzi, ha a szakértői vizsgálat megállapítja, hogy mérgezés volt a halál oka, vagy ahhoz jelentős mértékben hozzájárult. A bejelentést az igazságügyi szakértői vélemény kézhezvételétől számított egy héten belül kell megtenni.”
