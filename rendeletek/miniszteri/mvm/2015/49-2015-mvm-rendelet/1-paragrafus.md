@@ -50,7 +50,7 @@ i) a kulturális miniszter 33200/1975. számú határozatában régészetileg v�
 
 (16) A kulturális miniszter 32952/1975. számú határozatában régészetileg védetté nyilvánított Budapest III. kerület, 23214 helyrajzi számú ingatlan utódtelkei közül a 23152/20, a 23152/287, a 23152/294 és a 23152/295 helyrajzi számú ingatlanok régészeti védettségét megszüntetem.
 
-(17) A kulturális miniszter 32954/1975. számú határozatában régészetileg védetté nyilvánított Budapest III. kerület, 19485/3, 19487/3, 19493/4, 19564/2, 19609/1, 19611/1, 19612/1, 19613/3, 19614/1, 19615/1, 19616/1, 19617, 19619/4 és 19850/3 helyrajzi számú ingatlanok régészeti védettségét megszüntetem.
+(17)[^1] A kulturális miniszter 32954/1975. számú határozatában régészetileg védetté nyilvánított Budapest III. kerület, 19609/1, 19611/1, 19612/1, 19613/3, 19614/1, 19615/1, 19616/1, 19617, 19619/4 és 19850/3 helyrajzi számú ingatlanok régészeti védettségét megszüntetem.
 
 (18) A kulturális miniszter 20086/1976. számú határozatában régészetileg védetté nyilvánított Budapest III. kerület, 19322/52 helyrajzi számú ingatlan régészeti védettségét megszüntetem.
 
@@ -59,3 +59,5 @@ i) a kulturális miniszter 33200/1975. számú határozatában régészetileg v�
 (20) A művelődési és közoktatási miniszter 45987/1990. számú határozatában régészetileg védetté nyilvánított Budapest III. kerület, 19333/4, 19333/6, 19333/7, 19333/8 és 19333/9 helyrajzi számú ingatlanok utódtelkei közül a 19333/10, a 19333/11, a 19333/12, a 19333/13, a 19333/14, a 19333/15, a 19333/16, a 19333/17, a 19333/18, a 19333/19, a 19333/20, a 19333/21, a 19333/22, a 19333/23, a 19333/24, a 19333/25, a 19333/26, a 19333/27, a 19333/28, a 19333/32, a 19333/33, a 19333/34, a 19333/35, a 19333/38, a 19333/39, a 19333/42, a 19333/43, a 19333/44, a 19333/45, a 19333/46, a 19333/47, a 19333/48, a 19333/49, a 19333/50, a 19333/51, a 19333/52 és a 19333/53 helyrajzi számú ingatlanok régészeti védettségét megszüntetem.
 
 (21) A telekalakítások során régészetileg védetté vált Budapest III. kerület, 18910/21, a 18910/75, a 18910/91, a 18910/153, a 18910/156, a 18910/162 helyrajzi számú ingatlanok régészeti védettségét megszüntetem.
+
+[^1]: Az 1. § (17) bekezdése a 40/2016. (XII. 29.) MvM rendelet 31. § (1) bekezdése szerint módosított szöveg.

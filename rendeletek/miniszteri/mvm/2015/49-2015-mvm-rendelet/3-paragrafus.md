@@ -6,4 +6,6 @@
 
 (4) Az örökségvédelmi bírság megállapítása szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
 
-(5) A művelődési és közoktatási miniszter 86874/1992/787. számú határozatában védetté nyilvánított Dunaújváros, 61, a 62/1, a 62/2, a 63/1, a 87/2, a 87/3, a 87/15, a 451/1, a 451/75, a 452, a 454/1, az 1953, az 1954, az 1955, az 1956, az 1957/1, az 1957/2 és az 1958 helyrajzi számú ingatlan régészeti védettségét megszüntetem.
+(5)[^2] A művelődési és közoktatási miniszter 86874/1992/787. számú határozatában védetté nyilvánított Dunaújváros, 61, a 62/1, a 62/2, a 63/1, a 87/2, a 87/3, a 87/15, a 451/1, a 451/74, a 451/75, a 452, a 454/1, az 1915, az 1936, az 1937, az 1938/2, az 1953, az 1955, az 1956, az 1957/1, az 1957/2 és az 1958 helyrajzi számú ingatlan régészeti védettségét megszüntetem.
+
+[^2]: A 3. § (5) bekezdése a 40/2016. (XII. 29.) MvM rendelet 31. § (2) bekezdése szerint módosított szöveg.
