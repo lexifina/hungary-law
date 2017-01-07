@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-16-20-2
 | 2015-01-08 | 2011-16-20-2T.5 | 15/2014. (XII. 31.) MvM rendelet |
 | 2016-01-13 | 2011-16-20-2T.6 | 1/2016. (I. 5.) MvM rendelet |
 | 2016-06-14 | 2011-16-20-2T.7 | 1/2016. (I. 5.) MvM rendelet |
+| 2017-01-07 | 2011-16-20-2T.8 | 42/2016. (XII. 30.) MvM rendelet |
