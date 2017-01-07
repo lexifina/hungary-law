@@ -4,4 +4,6 @@ a) dr. Homolya Róbertet a Fejlesztéspolitikai Koordinációs Bizottság elnök
 
 b) dr. Vitályos Eszter Zsuzsannát, a Miniszterelnökség európai uniós fejlesztésekért felelős államtitkárát a Fejlesztéspolitikai Koordinációs Bizottság elnökévé – 2017. január 1-jei hatállyal – kijelölöm.
 
-2. Visszavonom a Fejlesztéspolitikai Koordinációs Bizottság elnökének kijelöléséről szóló 17/2014. (I. 31.) ME határozatot.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
