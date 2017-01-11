@@ -1,0 +1,144 @@
+# A Kormány 1/2017. (I. 11.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 3. szám, 2017. január 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/26479f2576088aec9e88a295d90a361f71b1db17/dokumentumok/e075e068bb74b20ad9073e7fa1594b73ef87c09d/letoltes)
+
+---
+
+A Kormány 1/2017. (I. 11.) Korm. rendelete
+Magyarország Kormánya és a Costa Rica-i Köztársaság Kormánya közötti oktatási és tudományos
+együttműködési egyezmény kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad Magyarország Kormánya és a Costa Rica-i Köztársaság Kormánya közötti
+oktatási és tudományos együttműködési egyezmény (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
+2. §
+A Kormány a Szerződést e rendelettel kihirdeti.
+3. §
+A Szerződés hiteles magyar és angol nyelvű szövege a következő:
+„OKTATÁSI ÉS TUDOMÁNYOS EGYÜTTMŰKÖDÉSI EGYEZMÉNY MAGYARORSZÁG KORMÁNYA ÉS
+A COSTA RICA-I KÖZTÁRSASÁG KORMÁNYA KÖZÖTT
+Magyarország Kormánya és a Costa Rica-i Köztársaság Kormánya, a továbbiakban a„Felek”
+I. Attól a törekvéstől vezérelve, hogy megalapozzák a két ország közötti kapcsolatokat és elmélyítsék
+a kölcsönös megértést,
+II. Abban a meggyőződésben, hogy az oktatási és tudományos kapcsolatok erősítik a két ország állampolgárai
+közötti együttműködést, valamint egymás tudományos és szellemi élete és életformája iránti megértést,
+III. Attól az óhajtól vezérelve, hogy minden területen fejlesszék a két ország állampolgárai közötti oktatási és
+tudományos kapcsolatokat, az alábbiakban állapodtak meg:
+1. cikk
+A Felek támogatják a kölcsönös előnyökön nyugvó kapcsolatok kialakítását, az együttműködésre irányuló
+kezdeményezéseket, szakemberek cseréjét, valamint a két ország tudományos eredményeit bemutató magas
+színvonalú rendezvények szervezését.
+2. cikk
+A Felek támogatják a széles körű együttműködést az oktatás és a tudomány terén. A mind hatékonyabb
+együttműködés érdekében támogatják a már meglévő közvetlen kapcsolatokat és elősegítik újabbak létesítését.
+3. cikk
+A Felek ösztönzik az országaik közti tapasztalatcserét az oktatás terén, lehetővé téve ez által egymás számára
+az oktatási rendszereik felépítésével és szervezetével, a tananyaggal, a tantervvel, taneszközökkel kapcsolatos és
+más – a további együttműködések kialakítása szempontjából fontos – információkhoz való hozzáférést.
+4. cikk
+A Felek elősegítik országaik felsőoktatási intézményei és egyéb oktatási intézményei közötti közvetlen kapcsolatok
+kialakítását.
+5. cikk
+A Felek támogatják és elősegítik a felsőoktatási intézmények és kutatóközpontok közötti együttműködés
+továbbfejlesztését csakúgy, mint a hallgatói, oktatói és kutatói mobilitást közös projektek keretein belül.
+
+6. cikk
+A Felek támogatják a tapasztalatok és információk cseréjét a két ország illetékes intézményei között a közép- és
+felsőfokú tanulmányok elvégzését igazoló bizonyítványok és diplomák, valamint a tudományos fokozatok kölcsönös
+elismerése terén, mindkét ország hatályos jogszabályai szerint.
+7. cikk
+A Felek támogatják a két ország tudományos intézményei közötti tudományos együttműködést. A Felek
+továbbfejlesztik tudományos együttműködésüket az egymás közti kölcsönös információcsere, workshopok/
+szemináriumok, közös programok és a tudományos együttműködésre irányuló projektek révén.
+8. cikk
+A jelen Egyezmény keretében létrejött együttműködési kezdeményezéseket a mindkét Fél jogszabályainak
+megfelelő külön megállapodások szabályozzák, melyekben ki kell jelölni a programok elindításáért felelős
+hatóságot és megnevezni a végrehajtásukhoz szükséges forrásokat. A felek jelen Egyezmény alapján kiegészítő vagy
+specifikus megállapodásokat köthetnek.
+9. cikk
+1. Jelen Egyezmény határozatlan időre szól, és azon utolsó írásos jegyzék kézhezvételétől számított
+harmincadik napon lép hatályba, melyben a Felek diplomáciai úton keresztül megerősítik, hogy eleget tettek
+a jelen Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek.
+2. Jelen Egyezményt bármelyik Fél, bármikor felmondhatja a másik fél részére történő írásos értesítés útján.
+A felmondás az értesítés átvételének napjától számított hatodik hónap első napján lép hatályba. A felmondás
+nem érinti a jelen Egyezmény keretein belül elindított, folyamatban lévő projekteket.
+3. Bármelyik Fél javaslatot tehet a jelen Egyezmény módosítására. A módosítások a Felek közös megegyezése
+alapján, a jelen cikk 1. bekezdése szerinti módon lépnek hatályba.
+10. cikk
+A Feleknek a jelen Egyezmény alkalmazásából és (vagy) értelmezéséből eredő vitáit a Felek diplomáciai
+egyeztetések és tárgyalások útján rendezik, és az angol nyelvű szöveg irányadó.
+Ezen Egyezményt Bécs városában írták alá 2016. december 5-én, angol, magyar, és spanyol nyelven írott három
+eredeti példányban, amelyek közül mindegyik szöveg egyformán hiteles.
+MAGYARORSZÁG KORMÁNYA A COSTA RICA-I KÖZTÁRSASÁG KORMÁNYA
+NEVÉBEN NEVÉBEN
+AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC OF
+COSTA RICA ON EDUCATIONAL AND SCIENTIFIC CO-OPERATION
+The Government of Hungary and the Government of the Republic of Costa Rica, hereinafter referred to as „the
+Parties”;
+I. desiring to strengthen the relationship between the two countries and to deepen mutual understanding,
+II. convinced that educational and scientific relations will intensify the cooperation of citizens of both countries
+and the understanding of the intellectual and scientific life as well as the lifestyle of each other,
+III. desiring to develop in all fields the educational and scientific relations between the citizens of both countries,
+have agreed in the following:
+Article 1
+The Parties shall promote the establishment of mutually beneficial relations, the initiatives for cooperation, the
+exchange of experts, as well as the organisation of high level events introducing the scientific achievements of the
+two countries.
+
+Article 2
+The Parties shall promote wide-ranging cooperation in the fields of education and science. With a view of a more
+efficient cooperation, they shall support the already existing relations and foster the establishment of new ones.
+Article 3
+The Parties shall encourage the exchange of experience between their countries in the field of education, thus
+providing access for each other to information about the structure and organisation of their education systems, the
+curriculum, the syllabus, the teaching materials as well as other aspects that are relevant for the development of
+further cooperation.
+Article 4
+The Parties shall promote direct cooperation between the higher education institutions and other education
+institutions of their countries.
+Article 5
+The Parties shall support and promote the further development of cooperation between the higher education and
+research institutions, as well as the mobility of students, professors and researchers within the framework of joint
+projects.
+Article 6
+The Parties shall support the exchange of experience and information between the respective institutions of the
+two countries in the area of mutual recognition of the certificates and degrees of the completion of secondary and
+higher education studies, as well as the scientific degrees, in accordance with the legislation of both Parties.
+Article 7
+The Parties shall support the scientific cooperation between the scientific institutions of the two countries. The
+Parties shall further develop their scientific cooperation through the mutual exchange of information, workshops/
+seminars, joint programmes and projects of scientific cooperation.
+Article 8
+The cooperation initiatives based on this Agreement shall be regulated by separate memoranda in accordance
+with the legislation of both Parties, where the authorities responsible for launching the programmes should
+be appointed and the necessary resources for their implementation should be identified. The Parties may sign
+additional or special memoranda based on this Agreement.
+Article 9
+1. This Agreement is valid for an indefinite period, and will enter into force on the thirtieth day upon receipt of
+the last written notification by the Parties through diplomatic channels, confirming the completion of their
+respective internal procedures required for the entry into force of the present Agreement,.
+2. The present Agreement may be terminated by either of the Parties at any time in written form. The
+termination will enter into force on the first day of the sixth month after the date of its receipt. The
+termination will not affect the implementation of those running projects that are based on the Agreement
+3. Either of the Parties may recommend amendments to the present Agreement. The amendments will enter
+into force by mutual consent of the Parties, as described in the 1st paragraph of this Article.
+Article 10
+Any disputes between the two Parties arising from the implementation and (or) interpretation of the present
+Agreement shall be settled through diplomatic consultations and negotiations between the Parties, and the English
+text shall prevail.
+
+This Agreement was signed in Vienna on 5. december 2016 in three original copies, in English, Hungarian and
+Spanish languages, all texts being equally authentic.
+ON BEHALF OF ON BEHALF OF THE GOVERNMENT
+THE GOVERNMENT OF OF THE REPUBLIC OF
+HUNGARY COSTA RICA”
+4. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 2. § és a 3. § a Szerződés 9. cikk 1. bekezdésében meghatározott időpontban lép hatályba.
+(3) A Szerződés, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak
+ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
