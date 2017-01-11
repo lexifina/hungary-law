@@ -1,3 +1,1 @@
-5. §[^2]
-
-[^2]: Az 5. § a 4. § (2) bekezdése alapján 2017. január 11-én lép hatályba.
+5. § Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény I. melléklete módosításának kihirdetéséről szóló 309/2015. (X. 28.) Korm. rendelet.
