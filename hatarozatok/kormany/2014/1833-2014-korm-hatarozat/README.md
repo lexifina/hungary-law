@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1833-30
 | --- | --- | --- |
 | 2014-12-30 | 2014-1833-30-22.1 | 1833/2014. (XII. 29.) Korm. határozat |
 | 2014-12-31 | 2014-1833-30-22.2 | 2010: CXXX. törvény |
+| 2017-01-12 | 2014-1833-30-22.3 | 1010/2017. (I. 11.) Korm. határozat |

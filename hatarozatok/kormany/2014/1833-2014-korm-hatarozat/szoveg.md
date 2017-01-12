@@ -22,14 +22,15 @@ emberi erőforrások minisztere
 
 Határidő: az 1.2. pont szerinti program kidolgozásához igazodva
 
-1.4. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a határozattal érintett sírkertek, sírhelyek rekonstrukciós programja megvalósításához szükséges forrás fedezetének a Miniszterelnökség fejezet javára történő biztosításáról.
+1.4.[^1] felhívja a nemzetgazdasági minisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a határozattal érintett sírkertek, sírhelyek rekonstrukciós programja megvalósításához a 2018–2020. évek között bázisba épülően 1000,0 millió forint forrásnak a XI. Miniszterelnökség fejezet javára történő biztosításáról.
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: a költségek felmerülésével összhangban
+Határidő: a 2018–2020. évi forrás vonatkozásában a központi költségvetés tervezetésével egyidejűleg
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3.[^1]
+3.[^2]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1.4. pont az 1010/2017. (I. 11.) Korm. határozat 7. pontjával megállapított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
