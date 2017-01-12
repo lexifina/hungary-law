@@ -20,7 +20,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-4. Az 1–3. pont szerinti kamattámogatás és kezességi díjtámogatás tárgyévi és tárgyévet követő éveket terhelő kötelezettségvállalásainak forrása az éves költségvetési törvényekben meghatározott Gazdaságfejlesztést szolgáló célelőirányzat. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 111/E. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a nemzeti fejlesztési miniszter 2016. évben a Gazdaságfejlesztést szolgáló célelőirányzat terhére a 2017–2026. közötti évek tekintetében a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvényben meghatározott Gazdaságfejlesztést szolgáló célelőirányzat eredeti előirányzata 150%-ának mértékéig kötelezettséget vállaljon.
+4.[^1] Az 1–3. pont szerinti kamattámogatás és kezességi díjtámogatás tárgyévi és tárgyévet követő éveket terhelő kötelezettségvállalásainak forrása az éves költségvetési törvényekben meghatározott Gazdaságfejlesztést szolgáló célelőirányzat. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 111/E. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a nemzeti fejlesztési miniszter 2016. évben a Gazdaságfejlesztést szolgáló célelőirányzat terhére a 2017–2026. közötti évek tekintetében a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvényben meghatározott Gazdaságfejlesztést szolgáló célelőirányzat eredeti előirányzata 300%-ának mértékéig kötelezettséget vállaljon.
 
 5. A Kormány felhívja a nemzetgazdasági minisztert, hogy – ha a 4. pontban meghatározott célelőirányzat forrásainak lekötöttsége eléri a 75%-ot – a nemzeti fejlesztési miniszter bevonásával vizsgálja meg az 1–3. pont szerinti konstrukciók támogatásának céljára, különösen maradványok visszahagyása útján történő forrásbiztosítás lehetőségét, és a vizsgálat eredményének megfelelően tegyen javaslatot a Kormány számára. A nemzeti fejlesztési miniszter a 4. pontban meghatározott célelőirányzat forrásai 75%-ának lekötöttségéről írásban értesíti a nemzetgazdasági minisztert.
 
@@ -32,6 +32,7 @@ Határidő: a források 75%-ának lekötését követő harminc napon belül
 
 6. Ez a határozat 2016. január 1-jén lép hatályba.
 
-7.[^1]
+7.[^2]
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont az 1011/2017. (I. 11.) Korm. határozat 9. pontja szerint módosított szöveg. Alkalmazására lásd e módosító határozat 8. pontját.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
