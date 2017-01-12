@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad Magyarország Kormánya és a Costa Rica-i Köztársaság Kormánya közötti oktatási és tudományos együttműködési egyezmény (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
