@@ -34,6 +34,6 @@
 
 ## 5) A hexán és az etil-metil-keton együttes használata tilos.
 
-15. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^65]
+15. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^68]
 
-[^65]: A 15. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, a 38/2016. (VI. 6.) FM rendelet 9. §-a hatályon kívül helyezte.
+[^68]: A 15. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, a 38/2016. (VI. 6.) FM rendelet 9. §-a hatályon kívül helyezte.
