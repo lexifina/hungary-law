@@ -18,10 +18,13 @@ utazik a munkavégzés helyére, továbbá, ha hazautazás céljából légi kö
 
 a) 2010-ben 30 000 forint,
 
-b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.
+b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.[^11]
 
-(4) A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig hivatalos lapjában közzéteszi.
+(4)[^12] A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményében teszi közzé.[^13]
 
 [^8]: A 3. § (1) bekezdés b) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés c) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1a) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja 2017-ben 35 340 forint.
+[^12]: A 3. § (4) bekezdése a 4/2017. (I. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^13]: Lásd a Hivatalos Értesítő 2017. évi 3. számában megjelent NGM közleményt.
