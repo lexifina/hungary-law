@@ -1,10 +1,10 @@
 ## Védekezési ügyelet
 
-10. § (1)[^32] A Törzs ügyelete az OVF székházában működik.
+10. § (1)[^33] A Törzs ügyelete az OVF székházában működik.
 
 (2) A védekező szervezetek ügyeletén számítógépen is vezetett és kinyomtatott védekezési naplót a védekezés befejeztével a szervezet vezetőjének hitelesítenie kell. A gépi adathordozón tárolt információkat a védekezési naplóval együtt meg kell őrizni.
 
-(3)[^33] A védekező szervezet a védekezés ideje alatt védekezési ügyeletet tart. A védekezés szempontjából minden jelentős eseményt, valamint a védekezéssel kapcsolatban adott vagy kapott utasítást és jelentést védekezési naplóban kell rögzíteni.
+(3)[^34] A védekező szervezet a védekezés ideje alatt védekezési ügyeletet tart. A védekezés szempontjából minden jelentős eseményt, valamint a védekezéssel kapcsolatban adott vagy kapott utasítást és jelentést védekezési naplóban kell rögzíteni.
 
-[^32]: A 10. § (1) bekezdése a 132/2013. (XII. 23.) VM rendelet 3. § b) pontja szerint módosított szöveg.
-[^33]: A 10. § (3) bekezdését a 49/2016. (XII. 14.) BM rendelet 4. §-a iktatta be.
+[^33]: A 10. § (1) bekezdése a 132/2013. (XII. 23.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^34]: A 10. § (3) bekezdését a 49/2016. (XII. 14.) BM rendelet 4. §-a iktatta be.
