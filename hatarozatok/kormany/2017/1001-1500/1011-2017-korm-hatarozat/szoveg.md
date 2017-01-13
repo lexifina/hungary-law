@@ -36,4 +36,6 @@ Határidő: a források 75%-ának lekötését követő harminc napon belül
 
 8. Az 1–6. pontot a 2017. január 1-jét követően kibocsátott kártyákra és a 2017. január 1-jét követően megkötött hitelszerződésekre is alkalmazni kell.
 
-9. A Széchenyi Kártya Program egyes konstrukciói támogatásának folytatásáról szóló 1929/2015. (XII. 12.) Korm. határozat 4. pontjában a „150%-ának” szövegrész helyébe a „300%-ának” szöveg lép.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
