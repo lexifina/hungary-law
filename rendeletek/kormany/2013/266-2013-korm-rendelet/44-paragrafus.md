@@ -10,13 +10,13 @@ c) ha a nyilvántartási díjat határidőre nem fizeti be,
 
 d) ha a kamara a 43. § (1) bekezdés a) pontja során első ízben állapít meg olyan kisebb szabálytalanságot, pontatlanságot, számítási vagy felmérési hibát, tartalmi hiányosságot, amely nem befolyásolta érdemben a szakmai tevékenység, vagy a szakvélemény eredményét,
 
-e) ha az R1. 9/A. §-a szerinti ellenőrzés során a független ellenőrző szervezet által feltárt hibát az energetikai tanúsító a tanúsítvány alátámasztó munkarészben nem javítja ki,
+e)[^53]
 
 f) szakszerűtlen vagy valótlan tartalmú építészeti-műszaki tartalmú dokumentáció esetén a 43. § (1) bekezdés c) pontja szerinti megkeresésre.
 
 (2) A területi kamara titkára
 
-a)[^53] a szakmagyakorlót 20 000 forint bírsággal sújtja, ha az (1) bekezdés a)–b) és e) pontjában foglaltakat a figyelmeztetés ellenére sem teljesíti,
+a)[^54] a szakmagyakorlót 20 000 forint bírsággal sújtja, ha az (1) bekezdés a)–b) pontjában foglaltakat a figyelmeztetés ellenére sem teljesíti,
 
 b) az építésfelügyeleti hatóság számított építményértéket tartalmazó megkeresése alapján a felelős műszaki vezetőt, az építési műszaki ellenőrt az összeférhetetlenségi szabályok megsértése miatt bírsággal sújtja, melynek mértéke 100 000 forint összegezve a számított építményérték 20 millió forintot meghaladó részének 0,5%-val, de legfeljebb 300 000 forint.
 
@@ -24,11 +24,11 @@ b) az építésfelügyeleti hatóság számított építményértéket tartalmaz
 
 (4) A területi kamara titkára megtiltja a szakmagyakorlási tevékenység folytatását
 
-a)[^54] legfeljebb hat hónap időtartamra, ha az építésfelügyeleti hatóság – az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R2.) 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – három éven belül legalább kettő alkalommal jogerősen építésfelügyeleti bírsággal sújtotta,
+a)[^55] legfeljebb hat hónap időtartamra, ha az építésfelügyeleti hatóság – az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R2.) 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – három éven belül legalább kettő alkalommal jogerősen építésfelügyeleti bírsággal sújtotta,
 
-b)[^55] legfeljebb egy év időtartamra, ha az építésfelügyeleti hatóság – az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – egy éven belül kettő alkalommal jogerősen bírsággal sújtotta,
+b)[^56] legfeljebb egy év időtartamra, ha az építésfelügyeleti hatóság – az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – egy éven belül kettő alkalommal jogerősen bírsággal sújtotta,
 
-c)[^56] legalább egy év időtartamra, ha az építésfelügyeleti hatóság az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt jogerősen építésfelügyeleti bírsággal sújtotta,
+c)[^57] legalább egy év időtartamra, ha az építésfelügyeleti hatóság az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt jogerősen építésfelügyeleti bírsággal sújtotta,
 
 d) ha a területi kamara etikai-fegyelmi bizottsága jogerős döntésével felfüggesztette a szakmagyakorló kamarai tagságát, akkor annak időtartamáig,
 
@@ -52,18 +52,19 @@ d) a továbbképzési kötelezettségét a (4) bekezdés e) pontja szerinti hat�
 
 e) a területi mérnöki vagy építész kamarából a Kamtv. 34/A. § (1) bekezdés e) pontja szerint kizárták,
 
-f)[^57] az építésfelügyeleti hatóság az R2. 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt három éven belül ismételten jogerősen építésfelügyeleti bírsággal sújtotta, vagy a szabálytalan szakmai tevékenység súlyos testi sértést, maradandó egészségkárosodást vagy halált okozott,
+f)[^58] az építésfelügyeleti hatóság az R2. 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt három éven belül ismételten jogerősen építésfelügyeleti bírsággal sújtotta, vagy a szabálytalan szakmai tevékenység súlyos testi sértést, maradandó egészségkárosodást vagy halált okozott,
 
 g) a tevékenység folytatásához szükséges jogosultsága felfüggesztésének időtartama alatt végez szakmagyakorlási tevékenységet,
 
-h)[^58] az építészeti-műszaki tervező a (4) bekezdés h) pontja szerinti felfüggesztő határozat jogerőssé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
+h)[^59] az építészeti-műszaki tervező a (4) bekezdés h) pontja szerinti felfüggesztő határozat jogerőssé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
 
-i)[^59] az R1. 9/A. §-a szerinti ellenőrzés során a Budapesti és Pest Megyei Mérnöki Kamara megállapítja, hogy a korábban egyszer már a 45/A. § (1) bekezdése szerinti figyelmeztetést kapott energetikai tanúsító által készített tanúsítvány legalább két besorolással eltér a tényleges értéktől.
+i)[^60] az R1. 9/A. §-a szerinti ellenőrzés során a Budapesti és Pest Megyei Mérnöki Kamara megállapítja, hogy a korábban egyszer már a 45/A. § (1) bekezdése szerinti figyelmeztetést kapott energetikai tanúsító által készített tanúsítvány legalább két besorolással eltér a tényleges értéktől.
 
-[^53]: A 44. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 21. pontja szerint módosított szöveg.
-[^54]: A 44. § (4) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
-[^55]: A 44. § (4) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
-[^56]: A 44. § (4) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
-[^57]: A 44. § (5) bekezdés f) pontja a 482/2016. (XII. 28.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
-[^58]: A 44. § (5) bekezdés h) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 22. pontja szerint módosított szöveg.
-[^59]: A 44. § (5) bekezdés i) pontja a 482/2016. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^53]: A 44. § (1) bekezdés e) pontját a 482/2016. (XII. 28.) Korm. rendelet 41. § a) pontja hatályon kívül helyezte.
+[^54]: A 44. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 21. pontja, a 482/2016. (XII. 28.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^55]: A 44. § (4) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^56]: A 44. § (4) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^57]: A 44. § (4) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^58]: A 44. § (5) bekezdés f) pontja a 482/2016. (XII. 28.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
+[^59]: A 44. § (5) bekezdés h) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 22. pontja szerint módosított szöveg.
+[^60]: A 44. § (5) bekezdés i) pontja a 482/2016. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
