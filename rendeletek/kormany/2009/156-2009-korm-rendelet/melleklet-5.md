@@ -128,188 +128,204 @@
 
 | M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | 300 000 | a menetíró szerelőműhely üzemeltetője |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^59]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^62]
+
+## I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás
 
 1. táblázat
 
-I. kockázati kategóriába tartozó cselekmény vagy mulasztás
-
 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
-|  | Az ADR előírásainak megszegése, amennyiben az haláleset, súlyos személyi sérülés vagy jelentős környezet-károsodás okozásának nagyfokú kockázatával jár. Az ilyen mulasztásoknál általában a veszély elhárítására megfelelő, azonnali intézkedések történnek, például a jármű feltartóztatása (a továbbhaladás megakadályozása). |
+| I. kockázati kategóriába tartozó cselekmény vagy mulasztás A veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely haláleset, súlyos személyi sérülés vagy jelentős környezetkárosodás okozásának nagyfokú kockázatával jár. Az ilyen mulasztásoknál általában a veszély elhárítására megfelelő, azonnali intézkedések történnek, így többek között a jármű feltartóztatása, a továbbhaladás megakadályozása |
 
-| 1. | Szállításból kizárt veszélyes anyagok szállítása | 800 000 | feladó, berakó, szállító (fuvarozó) |
+| 1. | Az ADR szerint a szállításból kizárt veszélyes áru szállítása. | 500 000 | feladó, berakó, szállító (fuvarozó) |
 
-| 2. | Veszélyes anyagok szivárgása | 800 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
+| 2. | Veszélyes áru szivárgása, szóródása. | 500 000 | feladó, csomagoló, berakó, töltő, üzembentartó, szállító (fuvarozó) |
 
-| 100 000 | járművezető, kísérő |
+| 100 000 | járműszemélyzet, amennyiben az észlelést követően nem tette meg a szükséges intézkedéseket |
 
-| 3. | Nem engedélyezett szállítási móddal vagy nem megfelelő szállítóeszközzel történő szállítás | 600 000 | feladó, szállító (fuvarozó) |
+| 3. | Nem engedélyezett szállítási móddal vagy nem megfelelő szállítóeszközzel vagy nem megfelelő műszaki állapotú szállítóeszközzel történő szállítás, vagy olyan jóváhagyásban foglaltaknak nem megfelelő járművel történő szállítás, amely közvetlen veszélyt jelent. | 500 000 | feladó, töltő, berakó, szállító (fuvarozó), jármű üzembentartója |
 
-| 4. | Ömlesztett szállítás olyan konténerben, amely szerkezetileg nem megfelelő állapotú | 600 000 | konténer üzemben tartója, töltő, szállító (fuvarozó) |
+| 4. | Ömlesztett szállítás olyan konténerben, amely szerkezetileg nem megfelelő állapotú. | 500 000 | konténer üzembentartója, töltő, feladó, szállító (fuvarozó) |
 
-| 5. | Jóváhagyási igazolással nem rendelkező járművel történő szállítás | 800 000 | feladó, töltő, szállító (fuvarozó) |
+| 5. | Jóváhagyási igazolással nem rendelkező, vagy 30 napnál régebben lejárt jóváhagyási igazolással rendelkező járművel történő szállítás. | 500 000 | feladó, töltő, szállító (fuvarozó) |
 
-| 6. | A jóváhagyásban foglaltaknak nem megfelelő jármű, amely közvetlen veszélyt jelent | 800 000 | feladó, töltő, szállító (fuvarozó) |
+| 6. | Jóváhagyás nélküli csomagolóeszközök használata. | 500 000 | feladó, csomagoló |
 
-| 7. | Jóváhagyás nélküli csomagolóeszközök használata | 800 000 | feladó, töltő, csomagoló, szállító (fuvarozó) |
+| 7. | A veszélyes árura vonatkozó csomagolási utasításnak nem megfelelő csomagolóeszköz használata. | 500 000 | feladó, csomagoló |
 
-| 8. | A vonatkozó csomagolási utasításnak nem megfelelő csomagoló-eszköz használata | 600 000 | feladó, csomagoló |
+| 8. | Az egybecsomagolásra vonatkozó különleges előírások be nem tartása. | 500 000 | feladó, csomagoló |
 
-| 9. | Az egybecsomagolásra vonatkozó különleges előírások be nem tartása | 800 000 | feladó, csomagoló |
+| 9. | A rakomány elhelyezésére és rögzítésére vonatkozó szabályok be nem tartása a) egyesítő csomagoláson belül | 300 000 | feladó, csomagoló, szállító (fuvarozó) |
 
-| 10. | A rakomány elhelyezésére és rögzítésére vonatkozó szabályok be nem tartása | 800 000 | berakó, szállító (fuvarozó) |
+| b) konténerben | 400 000 | berakó, töltő |
 
-| 11. | A küldeménydarabok együvé rakására vonatkozó szabályok be nem tartása a) járműben b) konténerben | 400 000 600 000 | berakó, szállító (fuvarozó) berakó |
+| c) járműben. | 500 000 | berakó, szállító (fuvarozó), töltő |
 
-| 12. | Megengedett töltési fok be nem tartása a) tartányoknál | 600 000 | csomagoló, töltő |
+| 100 000 | járműszemélyzet amennyiben az ellenőrzés időpontjában a megfelelő rakományrögzítő eszköz a járművön rendelkezésre állt |
 
-| b) küldeménydaraboknál | 400 000 |
+| 10. | A küldeménydarabok együvé rakására vonatkozó szabályok be nem tartása a) egyesítő csomagoláson belül | 300 000 | feladó, csomagoló, szállító (fuvarozó) |
 
-| 13. | Az egy szállítóegységben szállítható mennyiségre vonatkozó korlátozás be nem tartása | 600 000 | feladó, szállító (fuvarozó) |
+| b) konténerben | 400 000 | berakó |
 
-| 14. | Veszélyes áru szállítása anélkül, hogy erre bármilyen jelzés vagy információ utalna | 800 000 | feladó, berakó, csomagoló, töltő, szállító (fuvarozó) |
+| c) járműben. | 400 000 | berakó |
 
-| 15. | A járművön nincs semmilyen jelölés, illetve nagybárca | 800 000 | feladó, töltő, szállító (fuvarozó) |
+| 11. | Megengedett töltési fok be nem tartása a) tartányoknál | 500 000 | töltő |
 
-| 16. | A szállított anyagra vonatkozó információk (pl. UN-szám, helyes szállítási megnevezés, csomagolási csoport) hiánya, ami miatt nem lehetséges megállapítani, hogy fennáll-e egyéb, I. kockázati kategóriájú szabálytalanság | 800 000 | feladó, szállító (fuvarozó) |
+| b) tartályoknál, egyéb csomagolóeszköznél. | 300 000 | csomagoló |
 
-| 17. | A járművezetőnek nincs érvényes oktatási bizonyítványa | 600 000 | berakó, szállító (fuvarozó) |
+| 12. | Az egy szállítóegységben szállítható mennyiségre vonatkozó korlátozás be nem tartása. | 500 000 | feladó, szállító (fuvarozó), berakó |
 
-| 18. | Tűz vagy nyílt láng használatára vonatkozó tilalom megszegése | 400 000 | berakó, töltő, szállító (fuvarozó) |
+| 13. | Veszélyes áru szállítása anélkül, hogy erre bármilyen jelzés vagy információ utalna. | 500 000 | feladó, berakó, csomagoló, töltő, szállító (fuvarozó) |
 
-| 100 000 | járművezető, kísérő |
+| 14. | A járművön, tartányon, konténeren nincs semmilyen jelölés, illetve nagybárca. | 500 000 | feladó, töltő, szállító (fuvarozó) |
 
-| 19. | A dohányzási tilalom be nem tartása | 200 000 | berakó, töltő |
+| 100 000 | járműszemélyzet, amennyiben az ellenőrzés időpontjában a jelölés, illetve nagybárca a járművön rendelkezésre állt |
 
-| 100 000 | járművezető-kísérő |
+| 15. | A fuvarokmányban a szállított árura vonatkozó olyan információk (pl. UN-szám, helyes szállítási megnevezés, csomagolási csoport) hiánya, ami miatt nem lehetséges megállapítani, hogy fennáll-e egyéb, I. kockázati kategóriájú szabálytalanság. | 500 000 | feladó, szállító (fuvarozó) |
 
-| 20. | Az I. kockázati kategóriába tartozó egyéb mulasztások | 600 000 | feladó, be/kirakó, csomagoló, töltő, ürítő, szállító (fuvarozó), címzett |
+| 16. | A járművezetőnek nincs érvényes oktatási bizonyítványa vagy az oktatási bizonyítvány 30 napnál régebben járt le. | 400 000 | szállító (fuvarozó) |
+
+| 17. | Tűz vagy nyílt láng használatára vonatkozó tilalom megszegése. | 400 000 | berakó, töltő, kirakó, szállító (fuvarozó) |
+
+| 100 000 | járműszemélyzet |
+
+| 18. | A dohányzási tilalom be nem tartása. | 200 000 | berakó, töltő, kirakó |
+
+| 100 000 | járműszemélyzet |
+
+| 19. | Veszélyes áru nem megfelelő UN-szám és helyes szállítási megnevezés és csomagolási csoport (ha van) alá sorolása. | 500 000 | feladó |
+
+| 20. | Az I. kockázati kategóriába tartozó egyéb mulasztások. | 500 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
+
+| II. kockázati kategóriába tartozó cselekmény vagy mulasztás A veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely személyi sérülés vagy környezetkárosodás okozásának kockázatával jár. Az ilyen mulasztásoknál általában a veszély elhárítására megfelelő intézkedések történnek, így többek között a hiba elhárítására való kötelezés – ha lehetséges és célszerű – akkor az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor. |
+
+| 21. | A szállítóegységben egynél több pótkocsi, félpótkocsi van. | 300 000 | berakó, töltő, szállító (fuvarozó) |
+
+| 22. | A jóváhagyásban foglaltaknak nem megfelelő járművel történő szállítás, ami azonban közvetlen veszélyt nem jelent. | 150 000 | szállító (fuvarozó), jármű üzembentartója |
+
+| 23. | A járművön nincsenek meg az előírt, üzemképes tűzoltó készülékek. A tűzoltó készülék üzemképesnek tekinthető akkor is, ha az előírt plomba vagy a lejárat ideje, vagy mindkettő hiányzik. Nem tekinthető üzemképesnek, ha felülvizsgálati ideje lejárt, valamint ha szemmel láthatóan nem üzemképes, például a nyomásmérő 0-t mutat. | 250 000 | szállító (fuvarozó) |
+
+| 24. | A járművön nincs meg az ADR-ben, illetve az írásbeli utasításban előírt működőképes, funkcióját betöltő felszerelés. | felszerelés- fajtánként 100 000 | szállító (fuvarozó) |
+
+| 25. | Csomagolóeszközök, IBC-k, illetve nagycsomagolások ellenőrzésének, időszakos vizsgálatának időpontját vagy a használati időtartamot nem tartották be. | 300 000 | feladó, csomagoló |
+
+| 26. | Sérült csomagolású küldeménydarabokat, IBC-ket, nagycsomagolásokat szállítanak. | 300 000 | feladó, csomagoló, berakó, szállító (fuvarozó) |
+
+| 100 000 | járműszemélyzet, amennyiben nem tette meg a szükséges intézkedéseket |
+
+| 27. | Küldeménydarabokat olyan konténerben szállítanak, amely szerkezetileg nem megfelelő állapotú. | 300 000 | konténer üzembentartója, berakó, szállító (fuvarozó) |
+
+| 28. | A tartányokat, tankkonténereket nem zárták le megfelelően (de nem szivárog). | 300 000 | feladó, töltő, szállító (fuvarozó) |
+
+| 29. | Kombinált csomagolás szállítása olyan külső csomagolással, amely nincs megfelelően lezárva. | 150 000 | feladó, berakó, csomagoló, szállító (fuvarozó) |
+
+| 30. | Helytelen bárcázás, jelölés vagy nagybárcázás, vagy a szükséges bárca, jelölés vagy nagybárca hiánya, illetve a jelölések, bárcák, nagybárcák olyan mértékben sérültek, ami a felismerhetőségüket befolyásolja. | 300 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
+
+| 31. | Írásbeli utasítás hiánya. | 300 000 | szállító (fuvarozó) |
+
+| 32. | Az okmányokban valamely, az I. kockázati kategória 15. pontja alá tartozó információ hiányzik, de ezzel összefüggésben nem áll fenn egyéb I. kockázati kategóriájú szabálytalanság. | 200 000 | feladó, szállító (fuvarozó) |
+
+| 33. | A II. kockázati kategóriába tartozó egyéb mulasztás. | 250 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
+
+| III. kockázati kategóriába tartozó cselekmény vagy mulasztás A veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely személyi sérülés vagy környezetkárosodás okozásának kis mértékű kockázatával jár, de nem szükséges a hiányosságokat a közúton kijavítani, elegendő azokat később, a vállalkozásnál megszüntetni. |
+
+| 34. | A narancssárga táblák, nagybárcák, a bárcák mérete, alakja, színe, vagy a betűk, számok, jelképek mérete, formája nem felel meg az előírásoknak. | 100 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
+
+| 35. | Az írásbeli utasítás tartalmában nem felel meg az ADR előírásainak. | 100 000 | szállító (fuvarozó) |
+
+| 36. | Az okmányokban a szállított árura vonatkozóan olyan információ hiánya, amely nem eredményez I. vagy II. kockázati kategóriájú szabálytalanságot. | 100 000 | feladó, szállító (fuvarozó) |
+
+| 37. | A járművezető az oktatási bizonyítványát nem tudja bemutatni, de bizonyíték van rá, hogy létezik. | 30 000 | járművezető |
+
+| A járművezető oktatási bizonyítványa 30 napnál nem régebben járt le. | 100 000 | szállító (fuvarozó) |
+
+| 38. | A jármű jóváhagyási igazolása nincs a járművön, de bizonyíték van rá, hogy létezik vagy 30 napnál nem régebben járt le. | 100 000 | szállító (fuvarozó) |
+
+| 39. | A járművön a tűzoltó készülékek esetében az előírt plomba vagy a lejárat ideje, vagy mindkettő hiányzik, de a tűzoltó készülék üzemképesnek tekinthető. | 100 000 | szállító (fuvarozó) |
+
+| 40. | A járművek felügyeletére vonatkozó szabályok megsértése. | 50 000 | járműszemélyzet |
+
+| 41. | A III. kockázati kategóriába tartozó egyéb mulasztás. | 100 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
+
+Az I., II. vagy III. kockázati kategóriába nem tartozó további szabálytalanság
 
 2. táblázat
 
-II. kockázati kategóriába tartozó cselekmény vagy mulasztás
-
 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
-|  | Az ADR előírásainak megszegése, amennyiben az személyi sérülés vagy környezetkárosodás okozásának kockázatával jár. Az ilyen mulasztásoknál általában a veszély elhárítására megfelelő intézkedések történnek, például a hiba elhárítására való kötelezés, ha lehetséges és célszerű, akkor az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor. |
+| 1. | Veszélyes áru (hulladék) szállításhoz szükséges engedély hiánya. | 200 000 | feladó, szállító (fuvarozó) |
 
-| 1. | A szállítóegységben egynél több pótkocsi vagy félpótkocsi van | 300 000 | feladó, berakó, töltő, szállító (fuvarozó) |
+| 2. | Veszélyes áru (polgári felhasználású robbanóanyag) szállításához szükséges engedély hiánya. | 200 000 | feladó, szállító (fuvarozó) |
 
-| 2. | A jóváhagyásban foglaltaknak nem megfelelő jármű, amely azonban közvetlen veszélyt nem jelent | 200 000 | szállító (fuvarozó), jármű üzemben tartója |
+| 3. | Veszélyes áru (radioaktív anyag) szállításához szükséges engedély hiánya. | 200 000 | feladó, szállító (fuvarozó) |
 
-| 3. | A járművön nincsenek meg az előírt, üzemképes tűzoltó készülékek | 300 000 | szállító (fuvarozó), jármű üzemben tartója |
+| 4. | A vállalkozásnak nincs biztonsági tanácsadója. | 300 000 | vállalkozás vezetője |
 
-| 4. | A járművön nincs meg az ADR-ben, illetve az írásbeli utasításban előírt felszerelés | felszerelésenként 100 000 | szállító (fuvarozó) |
+| 5. | A vállalkozás nem értesítette a közlekedési hatóságot a biztonsági tanácsadó megbízásáról, illetve annak változásáról. | 100 000 | vállalkozás vezetője |
 
-| 5. | Csomagolóeszközök, IBC-k, illetve nagycsomagolások ellenőrzésének, időszakos vizsgálatának időpontját vagy a használati időtartamot nem tartották be | 300 000 | feladó, csomagoló |
+| 6. | A vállalkozás biztonsági tanácsadójának az adott alágazatra vagy veszélyességi osztályra nem terjed ki a bizonyítvány érvényessége, vagy a tanácsadó bizonyítványának érvényessége 30 napnál régebben járt le. | 100 000 | vállalkozás vezetője, biztonsági tanácsadó |
 
-| 6. | a) sérült csomagolású küldeménydarabokat, IBC-ket, nagycsomagolásokat szállítanak | 400 000 | feladó, berakó, szállító (fuvarozó) |
+| 7. | Nem készült baleseti jelentés vagy a hatóság részére nem küldték meg. | 50 000 | vállalkozás vezetője, biztonsági tanácsadó |
 
-| b) sérült tisztítatlan, üres csomagolóeszközöket szállítanak | 100 000 |
+| 8. | Az éves jelentés hiánya. | 100 000 | vállalkozás vezetője, biztonsági tanácsadó |
 
-| 7. | Küldeménydarabokat olyan konténerben szállítanak, amely szerkezetileg nem megfelelő állapotú | 300 000 | konténer üzemben tartója, berakó, szállító (fuvarozó) |
+| 9. | Közbiztonsági terv hiánya. | 200 000 | vállalkozás vezetője. biztonsági tanácsadó |
 
-| 8. | A tartányokat, tankkonténereket nem zárták le megfelelően | 400 000 | feladó, töltő, szállító (fuvarozó) |
+| 10. | A munkavállaló az ADR 1.3. fejezete szerinti oktatásban nem, vagy csak részben részesült. | 150 000 | munkáltató |
 
-| 9. | Kombinált csomagolás szállítása olyan külső csomagolással, amely nincs megfelelően lezárva | 200 000 | feladó, berakó, szállító (fuvarozó) |
+| 11. | A munkavállaló ADR 1.3. fejezet szerinti oktatásáról a képzést igazoló dokumentum nem áll rendelkezésre vagy a munkavállaló oktatása nem követi az ADR előírásainak változásait. | 100 000 | munkáltató, biztonsági tanácsadó |
 
-| 10. | Helytelen bárcázás, jelölés vagy nagybárcázás, vagy azok hiánya | 400 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
+| 12. | Az ADR 1.3 fejezete szerinti oktatásról szóló igazolás nincs a járművön, de bizonyíték van rá, hogy a járműszemélyzet részesült a képzésben (beleértve azon járművezetőket is, akik nem rendelkeznek az ADR 8.2.1. szakasz szerinti oktatási bizonyítvánnyal), és erről a munkáltató igazolást állított ki a részére. | 30 000 | járműszemélyzet |
 
-| 11. | Írásbeli utasítás hiánya | 500 000 | szállító (fuvarozó) |
+| 13. | A járművön nem áll rendelkezésre a járműszemélyzetre vonatkozó fényképes személyazonosító okmány. | 30 000 | járműszemélyzet |
 
-| 12. | Az írásbeli utasítás nem felel meg az ADR előírásainak | 200 000 | szállító (fuvarozó) |
+| 14. | A járműszemélyzeten kívüli személy szállítása. | 100 000 | szállító (fuvarozó) |
 
-| 13. | A II. kockázati kategóriába tartozó egyéb mulasztás | 300 000 | feladó, be/kirakó, csomagoló, töltő, ürítő, szállító (fuvarozó), címzett |
+| 50 000 | járműszemélyzet |
 
-3. táblázat
-
-III. kockázati kategóriába tartozó cselekmény vagy mulasztás
-
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
-
-|  | Az ADR előírásainak megszegése, amennyiben az személyi sérülés vagy környezetkárosodás okozásának kismértékű kockázatával jár, de ahol nem szükséges a hiányosságokat a közúton kijavítani, elegendő azokat később, a vállalkozásnál megszüntetni. |
-
-| 1. | A nagybárcák, a bárcák mérete vagy a betűk, számok, jelképek mérete nem felel meg az előírásoknak | 100 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
-
-| 2. | Az okmányokban valamely információ hiányzik | 100 000 | feladó |
-
-| 3. | Az oktatási bizonyítvány nincs a járművön | 50 000 | járművezető |
-
-| 4. | A jármű jóváhagyási igazolása 30 napnál nem régebben járt le | 100 000 | szállító (fuvarozó), jármű üzemben tartója |
-
-| 5. | Az írásbeli utasításban a helyes használatot nem befolyásoló, formai eltérés van | 30 000 | szállító (fuvarozó), járművezető |
-
-| 6. | A III. kockázati kategóriába tartozó egyéb mulasztás | 100 000 | feladó, be/kirakó, csomagoló, töltő, ürítő, szállító (fuvarozó), címzett |
-
-4. táblázat
-
-az 1., 2. vagy 3. táblázatba nem sorolható egyéb mulasztás
-
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
-
-| 1. | Veszélyes áru (hulladék) szállításhoz szükséges engedély hiánya | 200 000 | feladó, szállító (fuvarozó) |
-
-| 2. | Veszélyes áru (polgári felhasználású robbanóanyag) szállításához szükséges engedély hiánya | 200 000 | feladó, szállító (fuvarozó) |
-
-| 3. | Veszélyes áru (radioaktív anyag) szállításához szükséges engedély hiánya | 200 000 | feladó, szállító (fuvarozó) |
-
-5. táblázat
-
-A veszélyes áru szállítási biztonsági tanácsadóra vonatkozó előírások megszegése
-
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
-
-| 1. | A vállalkozásnak nincs biztonsági tanácsadója | 400 000 | vállalkozás vezetője |
-
-| 2. | A vállalkozás nem értesítette a közlekedési hatóságot a biztonsági tanácsadó megbízásáról, illetve annak változásáról | 100 000 | vállalkozás vezetője |
-
-| 3. | A vállalkozás biztonsági tanácsadójának 30 napnál régebben lejárt a bizonyítvány érvényességi ideje, vagy az adott alágazatra vagy veszélyességi osztályra nem terjed ki a bizonyítvány érvényessége | 100 000 | vállalkozás vezetője, tanácsadó |
-
-| 4. | Nem készült baleseti jelentés | 50 000 | vállalkozás vezetője |
-
-| 5. | Az éves jelentés hiánya | 100 000 | vállalkozás vezetője |
-
-6. táblázat
+| 15. | A biztonsági tanácsadóval kapcsolatos egyéb, az ADR 1.8.3.3. bekezdésében, vagy más jogszabályban előírt kötelezettség megszegése. | 100 000 | vállalkozás vezetője, biztonsági tanácsadó |
 
 A mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállítása szabályainak megszegése
 
+3. táblázat
+
 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
-| 1. | Növényvédő szer szállítása ömlesztve vagy tartányban | 50 000 | feladó, szállító (fuvarozó) |
+| 1. | Növényvédő szer szállítása ömlesztve vagy tartányban. | 50 000 | feladó, szállító (fuvarozó) |
 
-| 2. | Nem folyékony műtrágya szállítása tartányban | 30 000 | feladó, szállító (fuvarozó) |
+| 2. | Nem folyékony műtrágya szállítása tartányban. | 30 000 | feladó, szállító (fuvarozó) |
 
-| 3. | Üzemanyag és folyékony műtrágya 6500 liternél nagyobb befogadó tartányban való szállítása | 50 000 | feladó, szállító (fuvarozó) |
+| 3. | Üzemanyag és folyékony műtrágya 6500 liternél nagyobb befogadóképességű tartányban való szállítása. | 50 000 | feladó, szállító (fuvarozó) |
 
-| 4. | Nem megfelelő vontató használata | 40 000 | szállító (fuvarozó) |
+| 4. | Nem megfelelő vontató használata. | 40 000 | szállító (fuvarozó) |
 
-| 5. | Nem megfelelő tartányos pótkocsi használata | 50 000 | feladó, szállító (fuvarozó) |
+| 5. | Nem megfelelő tartányos pótkocsi használata. | 50 000 | feladó, szállító (fuvarozó) |
 
 | 6. | a) A tartánynak nincs érvényes hatósági vizsgája, kivéve a b) pontba sorolt esetet | 50 000 | feladó, szállító (fuvarozó) |
 
-| b) A tartány hatósági vizsgájának érvényessége 30 napnál nem régebben járt le | 10 000 |
+|  | b) a tartány hatósági vizsgájának érvényessége 30 napnál nem régebben járt le. | 10 000 | feladó, szállító (fuvarozó) |
 
-| 7. | Az ömlesztett árut szállító jármű vagy konténer kialakítása szabálytalan | 40 000 | feladó, szállító (fuvarozó) |
+| 7. | Az ömlesztett árut szállító jármű vagy konténer kialakítása szabálytalan. | 40 000 | feladó, szállító (fuvarozó) |
 
-| 8. | A szállító egység jelölése szabálytalan | 30 000 | feladó, szállító (fuvarozó) |
+| 8. | A szállító egység jelölése szabálytalan. | 30 000 | feladó, szállító (fuvarozó) |
 
-| 9. | A tartány jelölése szabálytalan | 50 000 | feladó, szállító (fuvarozó) |
+| 9. | A tartány jelölése szabálytalan. | 50 000 | feladó, szállító (fuvarozó) |
 
-| 10. | A közúton való szállítás távolsága 50 km-nél hosszabb | 30 000 | feladó, szállító (fuvarozó) |
+| 10. | A közúton való szállítás távolsága 50 km-nél hosszabb. | 30 000 | feladó, szállító (fuvarozó) |
 
-| 11. | a) A fuvarokmány adatai a szállított anyagra vonatkozóan hiányosak | 40 000 | feladó, szállító (fuvarozó) |
+| 11. | a) A fuvarokmány adatai a szállított anyagra vonatkozóan hiányosak. | 40 000 | feladó, szállító (fuvarozó) |
 
-| b) A fuvarokmány egyéb adatai hiányosak | 10 000 |
+|  | b) A fuvarokmány egyéb adatai hiányosak. | 10 000 | feladó, szállító (fuvarozó) |
 
-| 12. | Előírt felszerelés hiánya a szállítóegységen | 30 000 | feladó, szállító (fuvarozó) |
+| 12. | Előírt felszerelés hiánya a szállítóegységen. | 30 000 | feladó, szállító (fuvarozó) |
 
-| 13. | Élelmiszerrel és takarmánnyal történő együtt szállítás tilalmának megszegése | 40 000 | feladó, szállító (fuvarozó) |
+| 13. | Élelmiszerrel és takarmánnyal történő együtt szállítás tilalmának megszegése. | 40 000 | feladó, szállító (fuvarozó) |
 
-| 14. | Rakodási előírások megszegése | 40 000 | feladó, szállító (fuvarozó) |
+| 14. | Rakodási előírások megszegése. | 40 000 | feladó, szállító (fuvarozó) |
 
-| 15. | A dohányzási tilalom be nem tartása | 50 000 | berakó, töltő, szállító (fuvarozó), járművezető |
+| 15. | A dohányzási tilalom be nem tartása. | 50 000 | berakó, töltő, szállító (fuvarozó), járművezető |
 
-| 16. | A járművezetőnek nincs érvényes vizsga igazolása | 40 000 | szállító (fuvarozó), járművezető |
+| 16. | A járművezetőnek nincs érvényes vizsga igazolása. | 40 000 | szállító (fuvarozó), járművezető |
 
-[^59]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^62]: Az 5. melléklet a 372/2016. (XI. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
