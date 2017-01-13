@@ -46,13 +46,7 @@
 
 ## Határidő: 2017. június 30.
 
-## 7. Az Európa Tanács Parlamenti Közgyűlésének 2012. évben elfogadott 1883. számú határozatában foglalt egyes ajánlások végrehajtásáról szóló 1833/2014. (XII. 29.) Korm. határozat 1. pont 1.4. alpontja helyébe a következő rendelkezés lép:
-
-## „1.4. felhívja a nemzetgazdasági minisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a határozattal érintett sírkertek, sírhelyek rekonstrukciós programja megvalósításához a 2018–2020. évek között bázisba épülően 1000,0 millió forint forrásnak a XI. Miniszterelnökség fejezet javára történő biztosításáról.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: a 2018–2020. évi forrás vonatkozásában a központi költségvetés tervezetésével egyidejűleg”
+## 7.[^1]
 
 ## 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -65,3 +59,5 @@
 | EMIH | Budapest | A Bét Menachem Héber-Magyar Kéttannyelvű Általános Iskola, Óvoda és Bölcsőde gimnáziummal való bővítése | 250 000 000 | 250 000 000 |  |
 
 | MINDÖSSZESEN: | 1 967 000 000 | 1 250 000 000 | 717 000 000 |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
