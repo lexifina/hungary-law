@@ -1,4 +1,4 @@
-## 23. §[^26] Ha a rendőr az államhatáron átkóborolt háziállatot vagy az államhatáron elháríthatatlan ok következtében átkerült tárgyat talál, akkor jelentést tesz a területileg illetékes határrendészeti kirendeltség, ennek hiányában tevékenység-irányítási központ ügyeletesének, aki értesíti a jegyzőt, hogy intézkedjen az állat vagy tárgy biztonságos elhelyezésére, az államhatárról szóló törvényben és nemzetközi szerződésben meghatározott feladatok végrehajtására.
+## 23. §[^32] Ha a rendőr az államhatáron átkóborolt háziállatot vagy az államhatáron elháríthatatlan ok következtében átkerült tárgyat talál, akkor jelentést tesz a területileg illetékes határrendészeti kirendeltség, ennek hiányában tevékenység-irányítási központ ügyeletesének, aki értesíti a jegyzőt, hogy intézkedjen az állat vagy tárgy biztonságos elhelyezésére, az államhatárról szóló törvényben és nemzetközi szerződésben meghatározott feladatok végrehajtására.
 
 ## 20. Ideiglenes közlekedésrendészeti intézkedések
 
@@ -16,4 +16,4 @@ c) egyéb közlekedési tilalmak feloldását, az egyirányú forgalmú utcában
 
 (4) A rendőrség fontos közérdekből a közúti járművek közlekedése vagy várakozása céljára ideiglenes jelleggel igénybe veheti az egyébként nem a közúti forgalom célját szolgáló közterületet, ha annak teherbírása megfelelő, valamint méret- és súlykorlátozás elrendelésével arra alkalmas.
 
-[^26]: A 23. § a 61/2015. (XI. 24.) BM rendelet 17. § d) pontja szerint módosított szöveg.
+[^32]: A 23. § a 61/2015. (XI. 24.) BM rendelet 17. § d) pontja szerint módosított szöveg.

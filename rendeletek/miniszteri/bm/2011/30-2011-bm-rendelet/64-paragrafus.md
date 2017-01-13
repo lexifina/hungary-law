@@ -12,13 +12,13 @@ a) a határátlépés tényét, helyét és időpontját,
 
 b) a beutazás megtagadásának tényét,
 
-c)[^75]
+c)[^92]
 
 d) – több személy részére kiállított úti okmány használata esetén – a határátlépő személy azonosítását lehetővé tevő jelzést, valamint
 
 e) a más határátlépésre jogosító úti okmány meglétére utaló jelzést.
 
-(6)[^76] Ha a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) VIII. melléklete szerinti formanyomtatványt.
+(6)[^93] Ha a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) VIII. melléklete szerinti formanyomtatványt.
 
-[^75]: A 64. § (5) bekezdés c) pontját a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^76]: A 64. § (6) bekezdése a 60/2016. (XII. 29.) BM rendelet 6. §-ával megállapított szöveg.
+[^92]: A 64. § (5) bekezdés c) pontját a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^93]: A 64. § (6) bekezdése a 60/2016. (XII. 29.) BM rendelet 6. §-ával megállapított szöveg.

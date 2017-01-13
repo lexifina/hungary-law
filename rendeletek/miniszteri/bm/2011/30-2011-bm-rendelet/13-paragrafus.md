@@ -1,6 +1,6 @@
 ## 9. Eljárás katasztrófa esetén
 
-13. § (1)[^22] Katasztrófa bekövetkezésének vagy veszélyének észlelése, vagy erre utaló bejelentés esetén a rendőr haladéktalanul gondoskodik az elhárításra jogosult hatóságok és szervek a rendőrség ügyeletesén keresztül történő értesítéséről. A rendőr jelentést tesz a rendőrség ügyeletesének, aki az észlelésről vagy a bejelentésről haladéktalanul értesíti a területileg illetékes katasztrófavédelmi szerv ügyeleti szolgálatát.
+13. § (1)[^24] Katasztrófa bekövetkezésének vagy veszélyének észlelése, vagy erre utaló bejelentés esetén a rendőr haladéktalanul gondoskodik az elhárításra jogosult hatóságok és szervek a rendőrség ügyeletesén keresztül történő értesítéséről. A rendőr jelentést tesz a rendőrség ügyeletesének, aki az észlelésről vagy a bejelentésről haladéktalanul értesíti a területileg illetékes katasztrófavédelmi szerv ügyeleti szolgálatát.
 
 (2) Katasztrófa helyszínén a rendőr az elhárításra jogosult hatóságok és szervek megérkezéséig intézkedik
 
@@ -38,4 +38,4 @@ b) a nemzetközi polgári védelmi, valamint a katasztrófavédelemben részt ve
 
 c) az államhatár veszélyeztetett szakaszának lezárását, továbbá a rendészeti célú határbiztosítási feladatok végrehajtását.
 
-[^22]: A 13. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § c) pontja szerint módosított szöveg.
+[^24]: A 13. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § c) pontja szerint módosított szöveg.

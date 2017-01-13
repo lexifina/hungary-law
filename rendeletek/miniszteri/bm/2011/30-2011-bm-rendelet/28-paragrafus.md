@@ -12,6 +12,12 @@
 
 (6) Az előállítás akkor is mellőzhető, ha az igazoltatott személy személyazonossága más, egyszerűbb módon tisztázható.
 
-(7)[^33] A rendőr a megkezdett, de mellőzött előállításról is jelentést készít, amelyben rögzíti az érintett személy személyazonosító adatait, az előállítás megkezdésének okát, helyét és időpontját, az intézkedés befejezésének helyét és időpontját, valamint az előállítás mellőzésének okát.
+(7)[^40] A rendőr a megkezdett, de mellőzött előállításról is jelentést készít, amelyben rögzíti az érintett személy személyazonosító adatait, az előállítás megkezdésének okát, helyét és időpontját, az intézkedés befejezésének helyét és időpontját, valamint az előállítás mellőzésének okát.
 
-[^33]: A 28. § (7) bekezdése a 18/2013. (V. 9.) BM rendelet 4. §-ával megállapított szöveg.
+(8)[^41] Az elfogás és előállítás végrehajtása esetén – ideértve a megkezdett, de mellőzött előállítást is – a rendőr szolgálati elöljárója haladéktalanul, de legkésőbb az intézkedésről történő beszámoltatásig köteles vizsgálni az intézkedés jogszerűségét, szakszerűségét és arányosságát. A vizsgálat eredményét az intézkedésről készült jelentésre kell rávezetni.
+
+(9)[^42] Az elfogás és előállítás végrehajtása során a rendőr a 60/A. §-ban meghatározott tárgyaló eljárását kezdeményezheti.
+
+[^40]: A 28. § (7) bekezdése a 18/2013. (V. 9.) BM rendelet 4. §-ával megállapított szöveg.
+[^41]: A 28. § (8) bekezdését az 50/2016. (XII. 14.) BM rendelet 9. §-a iktatta be.
+[^42]: A 28. § (9) bekezdését az 50/2016. (XII. 14.) BM rendelet 9. §-a iktatta be.

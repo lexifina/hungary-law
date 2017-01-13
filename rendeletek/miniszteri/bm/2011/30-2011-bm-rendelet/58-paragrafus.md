@@ -6,7 +6,7 @@
 
 a) Budapesten, valamint a Budapest Liszt Ferenc Nemzetközi Repülőtér területén, továbbá a Terrorelhárítási Központ hatáskörébe tartozó ügyekben a Készenléti Rendőrség Tűzszerész Szolgálatát,
 
-b)[^73] a Készenléti Rendőrség által védett létesítmények, biztosított rendezvények, védett személyek programhelyszínei esetén az egész ország területén a Készenléti Rendőrség Tűzszerész Szolgálatát
+b)[^89] a Készenléti Rendőrség által védett létesítmények, biztosított rendezvények, védett személyek programhelyszínei esetén az egész ország területén a Készenléti Rendőrség Tűzszerész Szolgálatát
 
 c) egyéb esetben a megyei bombakutatót
 
@@ -14,7 +14,7 @@ kell kirendelni.
 
 (3) A Terrorelhárítási Központ által őrzött létesítmények és biztosított rendezvényeket ért fenyegetés esetén a fenyegetéssel kapcsolatos intézkedéseket a Terrorelhárítási Központ főigazgatója rendeli el.
 
-(4)[^74] A Készenléti Rendőrség által őrzött létesítményeket, biztosított rendezvényeket, továbbá az általa védett személyek programhelyszíneit érintő közveszéllyel fenyegetés esetén a fenyegetéssel kapcsolatos intézkedéseket a Készenléti Rendőrség parancsnoka rendeli el.
+(4)[^90] A Készenléti Rendőrség által őrzött létesítményeket, biztosított rendezvényeket, továbbá az általa védett személyek programhelyszíneit érintő közveszéllyel fenyegetés esetén a fenyegetéssel kapcsolatos intézkedéseket a Készenléti Rendőrség parancsnoka rendeli el.
 
-[^73]: Az 58. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) és c) pontja szerint módosított szöveg.
-[^74]: Az 58. § (4) bekezdése a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^89]: Az 58. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) és c) pontja szerint módosított szöveg.
+[^90]: Az 58. § (4) bekezdése a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.

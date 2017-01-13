@@ -54,24 +54,58 @@
 
 | ..................................................... |
 
-2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^99]
+2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^119]
 
-NYOMTATVÁNY
+| NYOMTATVÁNY |
 
-az előállító helyiségben elhelyezett fogvatartott személy őrzésével és ellátásával kapcsolatos adatokról
+| az előállító helyiségben elhelyezett fogvatartott személy őrzésével és ellátásával kapcsolatos adatokról |
 
-| Dátum | A fogvatartott neve, szül. helye és ideje (év, hó, nap), anyja neve, lakcíme | Az elhelyezést kezdeményező szerv megnevezése, az elhelyezés kezdő időpontja | Az előállító helyiség elhagyásának időpontja | Az étkeztetésre és az ellátásra vonatkozó, valamint a szükséges további megjegyzések |
+| Dátum: | ………… év …………… hó ……… nap | Az elhelyezést kezdeményező szerv: | Előállító helyiségben történő első elhelyezés időpontja | Az étkeztetésre vonatkozó megjegyzések |
 
-| év | hó | nap | óra, perc | év | hó | nap | óra, perc |
+| Fogvatartott neve: |  |  | Év | hónap | nap | óra : perc | Az előállítás 5. órája letelik: _____ óra _____ perckor |
 
-|  |  | Szerv megnevezése (p.h.) |  |  |
+|  |  |  |  | Étkezést: KÉRT / NEM KÉRT |
 
-| I. |  | II. |  | III. |
+| Születési hely, idő: |  | Előállító helyiségen kívüli elhelyezés oka: |
 
-| A felügyeletet végrehajtó rendkívüli őr neve, rendfokozata, azonosító száma: | Őrzés ideje (óra, perc/-tól,-ig/) |  | A felügyeletet végrehajtó rendkívüli őr neve, rendfokozata, azonosító száma: | Őrzés ideje (óra, perc/-tól,-ig/) |  | A felügyeletet végrehajtó rendkívüli őr neve, rendfokozata, azonosító száma: | Őrzés ideje (óra, perc/-tól,-ig/) |
+| Előállító helyiségen kívüli elhelyezés helye: |
 
-| aláírás |  | aláírás |  | aláírás |  |
+| Anyja neve: |  | Rendőrségi objektumba történő érkezés időpontja |  |
 
-Az ideiglenes őri feladatok átadása-átvétele szigorú számadásos szolgálati tevékenység!
+| VÉGLEGES elbocsátást, kiadást engedélyező neve, rendfokozata, jelvényszáma |
 
-[^99]: A 2. melléklet a 61/2015. (XI. 24.) BM rendelet 16. §-ával megállapított szöveg.
+| Lakcíme: |  | Év | hónap | nap | óra : perc |  |
+
+| Előállítást foganatosító rendőr olvasható neve, rendfokozata, jelvényszáma | Előállító helyiség VÉGLEGES elhagyásának időpontja |
+
+| Előállítás oka | Rtv. ……… § (……) bek. …….. pont |  |
+
+| Év | hónap | nap | óra : perc |
+
+| Helyszíni rendőri intézkedés helye, kezdete | VÉGLEGES elbocsátás, kiadás oka (pl. őrizetbe vétel, előállítási idő letelte): |
+
+| Helyszíne | Év | hónap | nap | óra : perc |  |
+
+| EGYÉB MEGJEGYZÉSEK, TUDNIVALÓK |
+
+| Ruházat átvizsgálása: MEGTÖRTÉNT / NEM TÖRTÉNT MEG | Látható sérülése: NINCS / VAN, éspedig: |
+
+| Hivatkozott-e sérülésre, van-e egészségügyi panasza: NEM / IGEN, éspedig: | Panaszolt-e rendőri bántalmazást? IGEN/NEM |
+
+| Orvosi ellátást igényel-e? IGEN / NEM Gyógyszert kell szednie: NEM / IGEN | Ittas: IGEN / NEM Bódult: IGEN / NEM Önveszélyes: IGEN / NEM Agresszív: IGEN / NEM |
+
+| A felügyeletet végrehajtó rendkívüli őr (I.) olvasható neve, rendfokozata, jelvényszáma | I. őrzés kezdete | I. őrzés befejezése | I. rendkívüli őr aláírása |
+
+|  | Év | hónap | nap | óra : perc | Év | hónap | nap | óra : perc |  |
+
+| A felügyeletet végrehajtó rendkívüli őr (II.) olvasható neve, rendfokozata, jelvényszáma | II. őrzés kezdete | II. őrzés befejezése | II. rendkívüli őr aláírása |
+
+|  | Év | hónap | nap | óra : perc | Év | hónap | nap | óra : perc |  |
+
+| A felügyeletet végrehajtó rendkívüli őr (III.) olvasható neve, rendfokozata, jelvényszáma | III. őrzés kezdete | III. őrzés befejezése | III. rendkívüli őr aláírása |
+
+|  | Év | hónap | nap | óra : perc | Év | hónap | nap | óra : perc |  |
+
+| Az ideiglenes őri feladatok átadás-átvétele szigorú számadásos tevékenység! |
+
+[^119]: A 2. melléklet az 50/2016. (XII. 14.) BM rendelet 18. §-ával megállapított szöveg.

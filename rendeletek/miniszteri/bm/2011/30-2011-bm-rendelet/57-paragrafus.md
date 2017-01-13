@@ -2,13 +2,13 @@
 
 57. § (1) Tűzszerész járőrt feladat-végrehajtásra a Készenléti Rendőrség Tűzszerész Szolgálatának parancsnoka – a Budapest Liszt Ferenc Nemzetközi Repülőtéren az odavezényelt tűzszerész járőr tekintetében a Repülőtéri Rendőr Igazgatóság igazgatója –, valamint szolgálati elöljárói rendelhetnek ki.
 
-(2)[^68] Sürgős esetben a Terrorelhárítási Központ főigazgatója vagy ügyelete, valamint a megyei rendőr-főkapitányság tevékenység-irányítási központja a Készenléti Rendőrség Ügyeleti és Védelmi Szolgálatától kérheti a tűzszerész járőr kirendelését.
+(2)[^82] Sürgős esetben a Terrorelhárítási Központ főigazgatója vagy ügyelete, valamint a megyei rendőr-főkapitányság tevékenység-irányítási központja a Készenléti Rendőrség Ügyeleti és Védelmi Szolgálatától kérheti a tűzszerész járőr kirendelését.
 
 (3) A kirendelésnek tartalmaznia kell az átvizsgálandó helyszín rövid leírását, a terület nagyságát, pontos helyét (épület esetén azt, hogy földszintes vagy több szintes), ha meghatározható, a robbanószerkezet jellemzőit, mennyiségét, valamint annak a felelős vezetőnek a nevét, akivel a tűzszerész járőr parancsnokának a kapcsolatot fel kell vennie.
 
-(4)[^69] A robbantással való fenyegetés vagy erre utaló bejelentés alapján a megyei rendőr-főkapitányság vezetője, a megyei rendőr főkapitányság tevékenység-irányítási központjának ügyeletvezetője, valamint az ügyeletese rendelheti ki a megyei bombakutatót a veszélyeztetett objektum átvizsgálása céljából.
+(4)[^83] A robbantással való fenyegetés vagy erre utaló bejelentés alapján a megyei rendőr-főkapitányság vezetője, a megyei rendőr főkapitányság tevékenység-irányítási központjának ügyeletvezetője, valamint az ügyeletese rendelheti ki a megyei bombakutatót a veszélyeztetett objektum átvizsgálása céljából.
 
-(5)[^70] A Készenléti Rendőrség tűzszerész járőrét kell kirendelni – az (5a) bekezdésben foglaltak kivételével –, ha
+(5)[^84] A Készenléti Rendőrség tűzszerész járőrét kell kirendelni – az (5a) bekezdésben foglaltak kivételével –, ha
 
 a) olyan veszélyesnek látszó tárgy van a helyszínen, amelynek vizsgálata, minősítése, hatástalanítása tűzszerész szakismeretet igényel,
 
@@ -18,15 +18,17 @@ c) megyei bombakutató nem áll rendelkezésre,
 
 d) robbanás következett be, és a helyszíni szemle tűzszerész szakmai biztosítására, szaktanácsadói közreműködésére van szükség,
 
-e) büntetőeljárási cselekmény tűzszerész szakmai biztosítására van szükség, vagy
+e)[^85] büntetőeljárási cselekmény tűzszerész szakmai biztosítására van szükség,
 
-f) a védett személy programjának tűzszerészeti biztosítása azt indokolja.
+f) a védett személy programjának tűzszerészeti biztosítása azt indokolja,
 
-(5a)[^71] Nem kell a Készenléti Rendőrség tűzszerész járőrét kirendelni, ha a Terrorelhárítási Központ a feladatkörébe tartozó tűzszerészeti feladatokat önállóan, az általános rendőrségi feladatok ellátására létrehozott szerv tűzszerész szolgálati ágának bevonása nélkül látja el.
+g)[^86] védekezési időszakban vízügyi robbantási feladatokat szükséges végrehajtani.
+
+(5a)[^87] Nem kell a Készenléti Rendőrség tűzszerész járőrét kirendelni, ha a Terrorelhárítási Központ a feladatkörébe tartozó tűzszerészeti feladatokat önállóan, az általános rendőrségi feladatok ellátására létrehozott szerv tűzszerész szolgálati ágának bevonása nélkül látja el.
 
 (6) Az (5) bekezdés a)–d) pontja esetén a Készenléti Rendőrség tűzszerész járőrének kirendelésével egyidejűleg értesíteni kell az ORFK Főügyeletét is.
 
-(7)[^72] Az illetékes általános rendőrségi feladatok ellátására létrehozott szerv ügyeletese a szolgálati út betartásával kéri a Készenléti Rendőrség Tűzszerész Szolgálat járőrének helyszínre irányítását
+(7)[^88] A rendőrség ügyeletese a szolgálati út betartásával kéri a Készenléti Rendőrség Tűzszerész Szolgálat járőrének helyszínre irányítását
 
 a) robbanóanyag, vagy
 
@@ -40,8 +42,10 @@ a) a katonai robbanószerkezetet bűncselekmény elkövetéséhez eszközül has
 
 b) a katonai robbanószerkezetre követték el a bűncselekményt.
 
-[^68]: Az 57. § (2) bekezdése a 31/2012. (VI. 28.) BM rendelet 12. §-ával megállapított, a 61/2015. (XI. 24.) BM rendelet 17. § i) pontja szerint módosított szöveg.
-[^69]: Az 57. § (4) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § j) pontja szerint módosított szöveg.
-[^70]: Az 57. § (5) bekezdés nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 14. § b) pontja szerint módosított szöveg.
-[^71]: Az 57. § (5a) bekezdését a 31/2012. (VI. 28.) BM rendelet 13. §-a iktatta be.
-[^72]: Az 57. § (7) bekezdés nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 15. § c) pontja szerint módosított szöveg.
+[^82]: Az 57. § (2) bekezdése a 31/2012. (VI. 28.) BM rendelet 12. §-ával megállapított, a 61/2015. (XI. 24.) BM rendelet 17. § i) pontja szerint módosított szöveg.
+[^83]: Az 57. § (4) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § j) pontja szerint módosított szöveg.
+[^84]: Az 57. § (5) bekezdés nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 14. § b) pontja szerint módosított szöveg.
+[^85]: Az 57. § (5) bekezdés e) pontja az 50/2016. (XII. 14.) BM rendelet 19. § g) pontja szerint módosított szöveg.
+[^86]: Az 57. § (5) bekezdés g) pontját az 50/2016. (XII. 14.) BM rendelet 13. §-a iktatta be.
+[^87]: Az 57. § (5a) bekezdését a 31/2012. (VI. 28.) BM rendelet 13. §-a iktatta be.
+[^88]: Az 57. § (7) bekezdés nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 15. § c) pontja, az 50/2016. (XII. 14.) BM rendelet 19. § h) pontja szerint módosított szöveg.

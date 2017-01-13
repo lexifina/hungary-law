@@ -2,7 +2,7 @@
 
 ## 15. Eljárás halálesetnél
 
-19. § (1) A rendőr haladéktalanul jelentést tesz az általános rendőrségi feladatok ellátására létrehozott szerv ügyeletesének, valamint a szemlebizottság megérkezéséig gondoskodik a helyszín biztosításáról, ha olyan halálesetről szerez tudomást, amely
+19. § (1)[^28] A rendőr haladéktalanul jelentést tesz a rendőrség ügyeletesének, valamint a szemlebizottság megérkezéséig gondoskodik a helyszín biztosításáról, ha olyan halálesetről szerez tudomást, amely
 
 a) bárki számára azonos feltételekkel használható helyen (a továbbiakban: nyilvános hely) következett be, vagy
 
@@ -11,3 +11,5 @@ b) nem nyilvános helyen következett be, és a körülmények rendkívüli hal�
 (2) A halálesetről az ismert hozzátartozót értesíteni kell.
 
 (3) Nyilvános helyen történt halálesetnél a holttestet megfelelő módon el kell takarni.
+
+[^28]: A 19. § (1) bekezdés nyitó szövegrésze az 50/2016. (XII. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
