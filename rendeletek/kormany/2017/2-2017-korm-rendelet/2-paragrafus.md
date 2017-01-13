@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Kulturális Javak Megőrzésének és Helyreállításának Nemzetközi Tudományos Központja (International Centre for the Study of the Preservation and Restoration of Cultural Property) Statútuma (a továbbiakban: szerződés) kötelező hatályának elismerésére.
