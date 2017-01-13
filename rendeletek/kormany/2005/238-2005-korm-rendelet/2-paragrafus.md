@@ -4,7 +4,7 @@
 
 a)[^10] táblázat 3. és 4. pontjában meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § a) pontja szerint számított érték 50 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
 
-b)[^11] táblázat 5. pontjában a tervezőre vonatkozóan meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § b) pontja szerinti tervezési díj vagy számított tervezési érték 5 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
+b)[^11] táblázat 4a. és 5. pontjában a tervezőre vonatkozóan meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § b) pontja szerinti tervezési díj vagy számított tervezési érték 5 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
 
 c)[^12] táblázat 6–13. pontjában az építtetőre, az építési műszaki ellenőrre, a fővállalkozó kivitelezőre és a felelős műszaki vezetőjére meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § c) pontja szerint számított érték 20 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
 
@@ -48,7 +48,7 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 
 [^9]: A 2. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
-[^11]: A 2. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § g) pontja, a 482/2016. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^12]: A 2. § (1) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
 [^13]: A 2. § (1) bekezdés d) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
 [^14]: A 2. § (1) bekezdés e) pontja a 266/2013. (VII. 11.) Korm. rendelet 49. § (1) bekezdése, a 156/2016. (VI. 13.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.

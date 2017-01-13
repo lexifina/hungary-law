@@ -2,13 +2,15 @@
 
 |  | A | B | C | D | E | F | G | H | I |
 
-| 1 | Az építőipari kivitelezési tevékenység kapcsolódó jogsértő cselekmények | A bírság összegének meghatározása (az l/A. § szerinti számított építményérték a 3. és a 4. pontban 50 millió, az 5. pontban a tervezőre vonatkozóan 5 millió, az 5–13. pontban 20 millió forintot meghaladó része: SZÉ) |
+| 1 | Az építőipari kivitelezési tevékenység kapcsolódó jogsértő cselekmények | A bírság összegének meghatározása (az 1/A. § szerinti számított építményérték a 3. és a 4. pontban 50 millió forintot, a 4a. és 5. pontban a tervezőre vonatkozóan 5 millió forintot, a 4a-13. pontban 20 millió forintot meghaladó része: SZÉ) |
 
 | 2 | Építtető | Tervező | Tervezői művezető | Építési műszaki ellenőr | Fővállalkozó kivitelező | Megrendelő vállalkozó kivitelező | Alvállalkozó kivitelező | Felelős műszaki vezető |
 
 | 3 | Tervezői művezető közreműködésének mellőzése, jogszabályban előírt kötelezettség esetén | 100 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  |  |  |  |  |  |
 
 | 4 | Építési műszaki ellenőr közreműködésének mellőzése, jogszabályban előírt kötelezettség esetén | 100 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  |  |  |  |  |  |
+
+| 4a. | Az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységet az egyszerű bejelentés kivitelezési dokumentáció alapján, de az Étv. 13. § (2) bekezdés a) és b) pontjának megsértésével végzik |  | 200 000 Ft + 0,005xSZÉ legfeljebb 500 000 Ft |  |  |  |  |  |  |
 
 | 5 | Az engedélyezési dokumentáció és a kivitelezési dokumentáció összhangjának hiánya | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft | 100 000 Ft + 0,01×SZÉ legfeljebb 500 000 Ft |  | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft |  |  |  |
 
