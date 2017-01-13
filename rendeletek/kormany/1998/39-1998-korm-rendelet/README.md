@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-39-20-2
 | 2015-07-01 | 1998-39-20-22.27 | 265/2013. (VII. 11.) Korm. rendelet |
 | 2016-01-01 | 1998-39-20-22.28 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-07-23 | 1998-39-20-22.29 | 265/2013. (VII. 11.) Korm. rendelet |
+| 2017-01-13 | 1998-39-20-22.30 | 4/2017. (I. 12.) Korm. rendelet |

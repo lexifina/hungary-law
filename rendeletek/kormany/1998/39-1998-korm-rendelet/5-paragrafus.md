@@ -1,4 +1,4 @@
-5. §[^31] (1) A támogatás folyósításának időtartama legfeljebb tizenkét hónap.
+5. §[^32] (1) A támogatás folyósításának időtartama legfeljebb tizenkét hónap.
 
 (2) A támogatás mértéke ugyanazon lakóingatlanra vonatkozóan – a (3) és a (4) bekezdésben foglalt kivétellel – nem haladhatja meg a 100 ezer Ft-ot.
 
@@ -20,4 +20,4 @@
 
 (11) A támogatás folyósítási időtartamának kimerítését követően újabb támogatás annak lejártát követő 24 hónap elteltével állapítható meg.
 
-[^31]: Az 5. §-t a 291/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 272/2012. (IX. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 354/2014. (XII. 29.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^32]: Az 5. §-t a 291/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 272/2012. (IX. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 354/2014. (XII. 29.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.

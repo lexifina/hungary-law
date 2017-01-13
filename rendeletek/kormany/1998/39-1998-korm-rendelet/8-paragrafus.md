@@ -4,7 +4,7 @@
 
 (2) E § (3)–(6) bekezdése a kihirdetést követő 3. napon lép hatályba.
 
-(3)[^54] E rendelet
+(3)[^55] E rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-ai 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1–8. o.),
 
@@ -12,7 +12,7 @@ b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 ## hatálya alá tartozó támogatást tartalmaz.
 
-(4)—(7)[^55]
+(4)—(7)[^56]
 
-[^54]: A 8. § (3) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 166/2008. (VI. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 354/2014. (XII. 29.) Korm. rendelet 1. § (10) bekezdésével megállapított szöveg.
-[^55]: A 8. § (4)–(7) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^55]: A 8. § (3) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 166/2008. (VI. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 354/2014. (XII. 29.) Korm. rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^56]: A 8. § (4)–(7) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.

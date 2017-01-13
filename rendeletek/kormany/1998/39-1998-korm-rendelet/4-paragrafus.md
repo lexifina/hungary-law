@@ -4,9 +4,9 @@
 
 a)[^19] akit legalább egy hónapja álláskeresőként nyilvántartanak,
 
-b)[^20] aki olyan legalább hat hónap időtartamra szóló és legalább heti 20 óra munkaidejű munkaviszonyt létesít, amely esetében az állandó lakóhelye és a munkavégzés helye legalább 100 km-re van egymástól, vagy a munkavégzés helye és az állandó lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje az 5 órát meghaladja,
+b)[^20] aki olyan legalább hat hónap időtartamra szóló és legalább heti 20 óra munkaidejű munkaviszonyt létesít, amely esetében az állandó lakóhelye és a munkavégzés helye legalább 60 km-re van egymástól,
 
-c)[^21] aki nem rendelkezik lakóingatlannal a munkavégzés helyén, valamint olyan településen, amelynek a munkavégzés helyétől való távolsága nem éri el a 100 km-t, vagy amelytől a munkavégzési helyéig, tömegközlekedési eszközzel történő oda- és visszautazás ideje nem éri el az 5 órát,
+c)[^21] aki nem rendelkezik lakóingatlannal a munkavégzés helyén, valamint olyan településen, amelynek a munkavégzés helyétől való távolsága nem éri el a 60 km-t.
 
 d)[^22] aki más foglalkoztatóval létesít munkaviszonyt, mint akivel utoljára munkaviszonyban állt, kivéve, ha a létesítendő munkaviszonyban a munkavégzés helye eltér az utolsó munkaviszony munkavégzési helyétől,
 
@@ -50,11 +50,13 @@ c)[^28] rendszeres havi bruttó munkabére meghaladja a (4) bekezdés d) pontjá
 
 d) öregségi nyugdíjra, rehabilitációs ellátásra, vagy rokkantsági ellátásra válik jogosulttá,
 
-e) a 4. § (1) bekezdés c) pontjában meghatározott feltételeknek megfelelő lakóingatlant szerez.
+e) a 4. § (1) bekezdés c) pontjában meghatározott feltételeknek megfelelő lakóingatlant szerez,
 
-(8)[^29] A 4. § és 5. § alkalmazásában
+f)[^29] más jogcímen lakhatási vagy közüzemi támogatásban részesül.
 
-a)[^30] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony, közalkalmazotti jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti hivatásos szolgálati jogviszony, a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati viszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti ösztöndíjas foglalkoztatási jogviszony,
+(8)[^30] A 4. § és 5. § alkalmazásában
+
+a)[^31] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony, közalkalmazotti jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti hivatásos szolgálati jogviszony, a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati viszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti ösztöndíjas foglalkoztatási jogviszony,
 
 b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban, jogviszonyban áll,
 
@@ -63,8 +65,8 @@ c) munkaszerződés: a munka törvénykönyve szerinti munkaszerződés, valamin
 [^17]: A 4. §-t megelőző alcímet a 272/2012. (IX. 28.) Korm. rendelet 2. §-a iktatta be.
 [^18]: A 4. §-t a 291/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdése, a 4. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1291. pontja hatályon kívül helyezte. A 4. §-t újonnan a 272/2012. (IX. 28.) Korm. rendelet 2. §-a iktatta be.
 [^19]: A 4. § (1) bekezdés a) pontja a 354/2014. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^20]: A 4. § (1) bekezdés b) pontja a 167/2013. (V. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^21]: A 4. § (1) bekezdés c) pontja a 167/2013. (V. 29.) Korm. rendelet 5. § a) pontaj szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés b) pontja a 4/2017. (I. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^21]: A 4. § (1) bekezdés c) pontja a 4/2017. (I. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^22]: A 4. § (1) bekezdés d) pontja a 354/2014. (XII. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^23]: A 4. § (2a) bekezdését a 167/2013. (V. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^24]: A 4. § (4) bekezdés a) pontja a 167/2013. (V. 29.) Korm. rendelet 6. §-a szerint módosított szöveg.
@@ -72,5 +74,6 @@ c) munkaszerződés: a munka törvénykönyve szerinti munkaszerződés, valamin
 [^26]: A 4. § (6) bekezdése a 167/2013. (V. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^27]: A 4. § (7) bekezdés a) pontja a 167/2013. (V. 29.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^28]: A 4. § (7) bekezdés c) pontja a 354/2014. (XII. 29.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^29]: A 4. § (8) bekezdését a 167/2013. (V. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^30]: A 4. § (8) bekezdés a) pontja a 265/2013. (VII. 11.) Korm. rendelet 1. § (2) bekezdése, a 157/2015. (VI. 25.) Korm. rendelet 4. §-a, a 217/2016. (VII. 22.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^29]: A 4. § (7) bekezdés f) pontját a 4/2017. (I. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^30]: A 4. § (8) bekezdését a 167/2013. (V. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^31]: A 4. § (8) bekezdés a) pontja a 265/2013. (VII. 11.) Korm. rendelet 1. § (2) bekezdése, a 157/2015. (VI. 25.) Korm. rendelet 4. §-a, a 217/2016. (VII. 22.) Korm. rendelet 8. §-a szerint módosított szöveg.
