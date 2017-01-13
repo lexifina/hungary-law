@@ -6,6 +6,9 @@
 
 a) elrendeli a szállított vagy továbbított veszélyes áru átfejtését, átrakását, átcsomagolását, vagy a feladóhoz történő visszafordítását, más szállítási mód alkalmazását, továbbá az üzemben tartót vagy üzemeltetőt vizsgálat vagy javítás elvégzésére kötelezi,
 
-b) utasítást ad a veszélyes áru környezetbe jutásának megakadályozása, illetve veszély elhárítása érdekében szükséges intézkedések megtételére, valamint
+b)[^17] elrendeli a veszélyes áru környezetbe jutásának megakadályozását, illetve veszély elhárítása érdekében szükséges intézkedések megtételét, valamint
 
-c) a 3. mellékletben meghatározott összegű bírságot szab ki.
+c)[^18] bírságot szab ki.
+
+[^17]: A 12. § b) pontja a 372/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^18]: A 12. § c) pontja a 372/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.

@@ -20,11 +20,11 @@
 
 8. üzemváltó állomás: olyan állomás, ahol a veszélyes áruk vasúti továbbítása során az áruk átadásával és átvételével kapcsolatos eljárás történik;
 
-9. veszélyes áru:
+9.[^1] veszélyes áru:
 
-a) a vasúti szállítás tekintetében: a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke 2011. évi módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló törvény (a továbbiakban: RID) melléklete hatálya alá tartozó anyagok és tárgyak, vagy a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás – a Veszélyes Áruk Fuvarozásáról szóló Szabályzat (SZMGSZ 2. számú melléklet) – hatálya alá tartozó anyagok és tárgyak,
+a) a vasúti szállítás tekintetében: a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke (a továbbiakban: RID) hatálya alá tartozó anyagok és tárgyak vagy a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) – a Veszélyes Áruk Fuvarozásáról szóló Szabályzat (SZMGSZ 2. melléklet) – hatálya alá tartozó anyagok és tárgyak,
 
-b) a vízi szállítás tekintetében: a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló törvény (a továbbiakban: ADN) hatálya alá tartozó anyagok és tárgyak;
+b) a vízi szállítás tekintetében: a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodás (a továbbiakban: ADN) hatálya alá tartozó anyagok és tárgyak;
 
 10. veszélyes áru vízi szállítása: a veszélyes áru továbbítása, ideiglenes tárolása, az áru be-, vagy átcsomagolása, továbbá be- és kirakodása (beleértve a töltést és ürítést is) abban az esetben is, ha ezeket a műveleteket nem a fuvarozó (szállító) végzi, függetlenül attól, hogy ezt a tevékenységet kikötőben vagy azon kívül hajtják végre;
 
@@ -34,4 +34,9 @@ b) a vízi szállítás tekintetében: a Genfben, 2000. május 26. napján kelt,
 
 13. veszélyes áru vasúti továbbítása: minden olyan, vasúti járművel végzett veszélyesáru-szállítási, fuvarozási és intermodális fuvarozási tevékenység, ideértve a határállomásokon történő átszállítást is, amelyet vasúton hajtanak végre; e rendelet értelmében az árutovábbítás része a szállítás, fuvarozás során történő megállás, várakozás, ideiglenes tárolás, az áru becsomagolása, továbbá be-, ki- és átrakodása, beleértve a töltést és ürítést is, abban az esetben is, ha ezeket a műveleteket nem a szállító végzi;
 
-14. vízi utak: a víziúttá nyilvánításról szóló jogszabályban meghatározott természetes vagy mesterséges felszíni vizek.
+14. vízi utak: a víziúttá nyilvánításról szóló jogszabályban meghatározott természetes vagy mesterséges felszíni vizek;
+
+15.[^2] VPSZ: a vasúti közlekedésről szóló törvényben meghatározott Vasúti Pályakapacitás-elosztó Szervezet.
+
+[^1]: A 2. § 9. pontja a 372/2016. (XI. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 15. pontját a 372/2016. (XI. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.

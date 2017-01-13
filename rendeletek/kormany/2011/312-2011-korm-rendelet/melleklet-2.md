@@ -1,136 +1,56 @@
-## 1. Bejelentő adatai:
+## 1. A veszélyes áru szállítását végző neve, azonosító kódja, címe.
 
-## 1.1. Bejelentő neve.
+## 2. A kapcsolattartó neve, elérhetősége (telefon, e-mail).
 
-## 1.2. Bejelentés ideje.
+## 3. A bejelentő személy neve.
 
-## 2. A szállítandó veszélyes áru(k):
+## 4. A bejelentés verziója [első: E-1, módosító: M-(2-...)].
 
-## 2.1. UN szám.
+## 5. Menetvonal száma és tulajdonosa.
 
-## 2.2. RID szerinti helyes szállítási megnevezés, csomagolási csoportja.
+## 6. Vonatazonosító-szám a szállítás során.
 
-## 2.3. Szállítás módja (például ömlesztett, küldeménydarabos, tartályos).
+## 7. Veszélyes árut szállító jármű pályaszáma és vonatban elfoglalt helye (vonatterhelési kimutatás szerinti sorszám).
 
-## 2.4. Veszélyes áru mennyisége.
+## 8. A szállítandó veszélyes áru UN-száma, RID szerinti helyes szállítási megnevezése, bárcaszáma, csomagolási csoportja, mennyisége, szállítási módja (ömlesztett, küldeménydarabos, tartányos, tartálykocsi, ömlesztett konténer, küldeménydarabos konténer, Huckepack, küldeménydarabos Huckepack, Ro-La, küldeménydarabos Ro-La).
 
-## 3. A veszélyes áru szállítását végző adatai:
+## 9. A veszélyes áru feladójának neve, küldeményazonosítója (a feladási ország és állomás azonosító kódszáma, a feladáskor közreműködő fuvarozó, illetve fuvarozásteljesítési segéd kódszáma, amennyiben rendelkezik vele /SzMGSz szerint: Fuvarozó/, a feladási szám), és a küldemény átvételének dátuma [év, hó, nap] (SzMGSz szerint: a fuvarozási szerződés megkötésének időpontja).
 
-## 3.1. Neve.
+## 10. Veszélyes árut szállító jármű kisorolási helye és azok azonosító kódszáma, amennyiben a kisorolás Magyarországon történik.
 
-## 3.2. Címe.
+## 11. A szállítási útvonal részletes leírása (érintett állomások neve és azok azonosító kódszáma vagy a 6. § (1) bekezdés a) pontja szerinti bejelentés esetén az érintett vonalszám).
 
-## 3.3. Elérhetősége.
+## 12. A vonat indulásának helye és annak azonosító kódszáma, valamint tervezett időpontja (év, hó, nap, óra, perc).
 
-## 3.4. Kapcsolattartó neve.
+## 13. A vonat tervezett megállási helye és azok azonosító kódja, tervezett érkezési és indulási idővel (év, hó, nap, óra, perc).
 
-## 3.5. Elérhetősége (telefon).
+## 14. Nyilatkozat az adatok valódiságáról.
 
-## 4. A veszélyesáru-szállítás útvonala:
+## 15. A bejelentés dátuma.
 
-## 4.1. Menetvonal száma és tulajdonosa.
+## 16. Bejelentő aláírása és cégbélyegző lenyomata.
 
-## 4.2. Vonat indulásának helye.
+## B. Veszélyes áru vízi szállítása esetén
 
-## 4.3. Vonat tervezett indulásának ideje (év, hó, nap, óra, perc).
+## 1. Bejelentő személy neve, a bejelentés ideje.
 
-## 4.4. Vonat-azonosító.
+## 2. A szállítandó veszélyes áru UN-száma, ADN szerinti helyes szállítási megnevezése, csomagolási csoportja, bárcaszáma, mennyisége, szállítási módja.
 
-## 4.5. Szállítási útvonal részletes leírása (vonalszám, használt pályahossz).
+## 3. A veszélyes áru fuvarozójának neve, címe, elérhetősége, kapcsolattartójának neve, elérhetősége (telefon).
 
-## 4.6. Tervezett megállási helyek (állomások, határátlépés helye, pályaudvarok), tervezett érkezési és indulási idővel (év, hó, nap, óra, perc).
+## 4. A veszélyes áru feladójának neve, címe, elérhetősége, kapcsolattartójának neve, elérhetősége (telefon).
 
-## 4.7. Veszélyes árut szállító jármű(vek) pályaszáma(i).
+## 5. A veszélyes áru berakását, töltését végző neve, címe, elérhetősége, kapcsolattartójának neve, elérhetősége (telefon).
 
-## 5. Intermodális (Ro-La) szállítás-e.
+## 6. A veszélyes áru címzettjének neve, elérhetősége, kapcsolattartójának neve, elérhetősége (telefon).
 
-## 6. Nyilatkozat az adatok valódiságáról.
+## 7. A veszélyes áru berakásának helye, tervezett várakozási helyek (kikötési, veszteglési helyek felsorolása), a kirakás helye.
 
-## 7. Dátum.
+## 8. Nyilatkozat az adatok valódiságáról.
 
-## 8. Cégszerű aláírás.
+## 9. A bejelentés dátuma.
 
-## B. Veszélyes áruk vízi szállítása esetén
-
-## 1. Bejelentő adatai:
-
-## 1.1. Bejelentő neve.
-
-## 1.2. Bejelentés ideje.
-
-## 2. A szállítandó veszélyes áru(k):
-
-## 2.1. UN szám.
-
-## 2.2. ADN szerinti helyes szállítási megnevezés, csomagolási csoport.
-
-## 2.3. Szállítás módja.
-
-## 2.4. Veszélyes áru mennyisége.
-
-## 3. A veszélyes áru fuvarozójának adatai:
-
-## 3.1. Neve.
-
-## 3.2. Címe.
-
-## 3.3. Elérhetősége.
-
-## 3.4. Kapcsolattartó neve.
-
-## 3.5. Elérhetősége (telefon).
-
-## 4. A veszélyes áru feladójának adatai:
-
-## 4.1. Neve.
-
-## 4.2. Címe.
-
-## 4.3. Elérhetősége.
-
-## 4.4. Kapcsolattartó neve.
-
-## 4.5. Elérhetősége (telefon).
-
-## 5. A veszélyes áru berakását, töltését végző adatai:
-
-## 5.1. Neve.
-
-## 5.2. Címe.
-
-## 5.3. Elérhetősége.
-
-## 5.4. Kapcsolattartó neve.
-
-## 5.5. Elérhetősége (telefon).
-
-## 6. A veszélyes áru címzettjének adatai:
-
-## 6.1. Neve.
-
-## 6.2. Címe.
-
-## 6.3. Elérhetősége.
-
-## 6.4. Kapcsolattartó neve.
-
-## 6.5. Elérhetősége (telefon).
-
-## 7. A veszélyesáru-továbbítás útvonala:
-
-## 7.1. Berakás helye.
-
-## 7.2. Várakozási helyek (kikötési, veszteglési helyek felsorolása).
-
-## 7.3. Kirakás helye.
-
-## 8. Intermodális szállítás esetében:
-
-## 8.1 Nyilatkozat az adatok valódiságáról.
-
-## 8.2 . Dátum.
-
-## 8.3. Cégszerű aláírás.
+## 10. Bejelentő aláírása és cégbélyegző-lenyomata.
 
 2. melléklet a 312/2011. (XII. 23.) Korm. rendelethez
 

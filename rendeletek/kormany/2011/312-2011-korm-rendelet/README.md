@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-312-20-
 | 2012-01-02 | 2011-312-20-22.2 | 2010: CXXX. törvény |
 | 2013-06-04 | 2011-312-20-22.3 | 176/2013. (VI. 3.) Korm. rendelet |
 | 2014-01-01 | 2011-312-20-22.4 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2017-01-13 | 2011-312-20-22.5 | 372/2016. (XI. 29.) Korm. rendelet |

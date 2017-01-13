@@ -8,6 +8,6 @@
 
 (4) Az ellenőrzés indokolatlanul nem befolyásolhatja a veszélyes áru továbbítását. Szabálytalanság feltárása esetén a katasztrófavédelmi hatóságnak a legkisebb kockázattal járó intézkedést kell megtennie a szabálytalanság megszüntetésére.
 
-(5)[^4] Az e rendelet hatálya alá tartozó hatósági ellenőrzés kizárólag hivatalból indul, az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+(5)[^15] Az e rendelet hatálya alá tartozó hatósági ellenőrzés kizárólag hivatalból indul, az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
 
-[^4]: A 8. § (5) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^15]: A 8. § (5) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 13. § (3) bekezdése iktatta be.
