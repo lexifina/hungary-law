@@ -12,7 +12,7 @@ d) gondoskodik az ágazat figyelő- és ellenőrzőrendszerének az egységes ir
 
 e) gondoskodik az irányítása és felügyelete alá tartozó szervek védekezésre való felkészítéséről és működési feltételeinek biztosításáról, jóváhagyja a feladatok végrehajtását szolgáló terveket,
 
-f)[^6] gondoskodik a minisztérium és a minisztériumot vezető miniszter felügyelete alá tartozó szervek alkalmazottainak katasztrófavédelmi felkészítéséről,
+f)[^7] gondoskodik a minisztérium és a minisztériumot vezető miniszter felügyelete alá tartozó szervek alkalmazottainak katasztrófavédelmi felkészítéséről,
 
 g) ellenőrzi a megelőzéssel és a felkészüléssel kapcsolatos ágazati feladatok végrehajtását,
 
@@ -22,4 +22,4 @@ i) a biztonsági elemzések eredményei alapján javaslatot tesz az ágazati kat
 
 j) részt vesz a nemzeti és nemzetközi katasztrófavédelmi gyakorlatok tervezésében, szervezésében és végrehajtásában.
 
-[^6]: A 6. § f) pontja a 221/2014. (IX. 4.) Korm. rendelet 580. § a) pontja szerint módosított szöveg.
+[^7]: A 6. § f) pontja a 221/2014. (IX. 4.) Korm. rendelet 580. § a) pontja szerint módosított szöveg.

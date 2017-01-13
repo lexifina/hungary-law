@@ -1,4 +1,4 @@
-9/A. §[^11] (1) A megyei, fővárosi védelmi bizottság a szervezeti és működési rendjére vonatkozó szabályozóban rögzíti a katasztrófák elleni védekezés során követendő feladatellátási- és munkarendjét.
+9/A. §[^12] (1) A megyei, fővárosi védelmi bizottság a szervezeti és működési rendjére vonatkozó szabályozóban rögzíti a katasztrófák elleni védekezés során követendő feladatellátási- és munkarendjét.
 
 (2) A védekezési feladatok végrehajtását – a megyei, fővárosi védelmi bizottság döntésének megfelelően – a megyei katasztrófavédelmi igazgatóság vagy a Fővárosi Katasztrófavédelmi Igazgatóság vezetője (a továbbiakban: igazgató) által kijelölt személy hangolja össze.
 
@@ -22,4 +22,4 @@ f) felügyeli a lakosság tájékoztatásával kapcsolatos tevékenységet.
 
 (6) A védelmi bizottság a katasztrófavédelmi feladatainak végrehajtása során a védelmi célú infokommunikációs rendszereket alkalmazza.
 
-[^11]: A 9/A. §-t a 74/2012. (IV. 13.) Korm. rendelet 13. §-a iktatta be.
+[^12]: A 9/A. §-t a 74/2012. (IV. 13.) Korm. rendelet 13. §-a iktatta be.

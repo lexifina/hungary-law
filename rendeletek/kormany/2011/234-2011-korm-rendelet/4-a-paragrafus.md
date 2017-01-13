@@ -1,9 +1,9 @@
-## 4/A. §[^4] A közúti közlekedésről szóló 1988. évi I. törvény 20. § (1) bekezdés e) pontjához kapcsolódó bírságolási eljárást
+4/A. §[^4] (1) A közúti közlekedésről szóló 1988. évi I. törvény 20. § (1) bekezdés e) pontjához kapcsolódó ellenőrzés lefolytatására a hivatásos katasztrófavédelmi szerv helyi és területi szerve önállóan jogosult. A hivatásos katasztrófavédelmi szerv helyi és területi szerve illetékességi területén kívül is végezhet önálló ellenőrzési tevékenységet a hivatásos katasztrófavédelmi szerv ellenőrzés helye szerint illetékes területi szervének előzetes értesítése mellett.
 
-a) első fokon a hivatásos katasztrófavédelmi szervnek az ellenőrzést végrehajtó helyi szerve,
+(2) A veszélyes áru szállításával kapcsolatos szabályok megsértése esetén a bírság kiszabására és jogszabályban meghatározott egyéb hatósági intézkedés megtételére első fokon a hivatásos katasztrófavédelmi szervnek az ellenőrzést végrehajtó helyi szerve, másodfokon a hivatásos katasztrófavédelmi szerv első fokon eljárt helyi szervét irányító területi szerve jogosult.
 
-b) másodfokon a hivatásos katasztrófavédelmi szervnek az első fokon eljárt helyi szervet irányító területi szerve
+(3) Ha az ellenőrzést a hivatásos katasztrófavédelmi szerv területi szerve hajtotta végre, első fokon a hivatásos katasztrófavédelmi szerv központi szerve által kijelölt, a hivatásos katasztrófavédelmi szerv más területi szerve irányítása alá tartozó helyi szerve, másodfokon a hivatásos katasztrófavédelmi szerv első fokon eljárt helyi szervét irányító területi szerve jogosult a bírság kiszabására és jogszabályban meghatározott egyéb hatósági intézkedés megtételére.
 
-folytatja le.
+(4) Ha az ellenőrzést a hivatásos katasztrófavédelmi szerv területi szerve hajtotta végre, és az ellenőrzés során azonnali intézkedés meghozatalára van szükség, első fokon a hivatásos katasztrófavédelmi szervnek az ellenőrzést végrehajtó területi szerve, másodfokon a hivatásos katasztrófavédelmi szerv központi szerve jár el.
 
-[^4]: A 4/A. §-t a 352/2014. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^4]: A 4/A. §-t a 352/2014. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 372/2016. (XI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

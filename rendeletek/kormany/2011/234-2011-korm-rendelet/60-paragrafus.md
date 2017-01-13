@@ -8,7 +8,7 @@ b) rendelkezik a vonatkozó jogszabályokban meghatározott egészségügyi, psz
 
 c) rendelkezik a mentőszervezet által vállalt tevékenységre a vonatkozó jogszabályok által előírt szakmai felkészültséggel, alapvető elsősegély-nyújtási ismeretekkel,
 
-d)[^26] az egészségügyi tevékenység ellátásához rendelkezik a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal engedélyével.
+d)[^27] az egészségügyi tevékenység ellátásához rendelkezik a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal engedélyével.
 
 (2) A mentőszervezet tagja a fenti pontoknak való megfelelőségét az arra jogosult által kibocsátott igazolásokkal támasztja alá.
 
@@ -20,4 +20,4 @@ b) a hivatásos katasztrófavédelmi szerv központi szerve által engedélyezet
 
 c) a mentési képességre érvényes saját, vagy a mentőszervezet által kötött élet- és balesetbiztosítással való rendelkezés.
 
-[^26]: A 60. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 178. §-a szerint módosított szöveg.
+[^27]: A 60. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 178. §-a szerint módosított szöveg.
