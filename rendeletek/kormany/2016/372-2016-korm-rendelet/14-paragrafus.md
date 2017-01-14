@@ -1,9 +1,0 @@
-## 13. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4/A. §-a helyébe a következő rendelkezés lép:
-
-## „4/A. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 20. § (1) bekezdés e) pontjához kapcsolódó ellenőrzés lefolytatására a hivatásos katasztrófavédelmi szerv helyi és területi szerve önállóan jogosult. A hivatásos katasztrófavédelmi szerv helyi és területi szerve illetékességi területén kívül is végezhet önálló ellenőrzési tevékenységet a hivatásos katasztrófavédelmi szerv ellenőrzés helye szerint illetékes területi szervének előzetes értesítése mellett.
-
-## (2) A veszélyes áru szállításával kapcsolatos szabályok megsértése esetén a bírság kiszabására és jogszabályban meghatározott egyéb hatósági intézkedés megtételére első fokon a hivatásos katasztrófavédelmi szervnek az ellenőrzést végrehajtó helyi szerve, másodfokon a hivatásos katasztrófavédelmi szerv első fokon eljárt helyi szervét irányító területi szerve jogosult.
-
-## (3) Ha az ellenőrzést a hivatásos katasztrófavédelmi szerv területi szerve hajtotta végre, első fokon a hivatásos katasztrófavédelmi szerv központi szerve által kijelölt, a hivatásos katasztrófavédelmi szerv más területi szerve irányítása alá tartozó helyi szerve, másodfokon a hivatásos katasztrófavédelmi szerv első fokon eljárt helyi szervét irányító területi szerve jogosult a bírság kiszabására és jogszabályban meghatározott egyéb hatósági intézkedés megtételére.
-
-## (4) Ha az ellenőrzést a hivatásos katasztrófavédelmi szerv területi szerve hajtotta végre, és az ellenőrzés során azonnali intézkedés meghozatalára van szükség, első fokon a hivatásos katasztrófavédelmi szervnek az ellenőrzést végrehajtó területi szerve, másodfokon a hivatásos katasztrófavédelmi szerv központi szerve jár el.”

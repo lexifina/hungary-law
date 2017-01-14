@@ -1,1 +1,0 @@
-## „(5) A (4) bekezdésben megjelölt adatokhoz a folyami információs szolgáltatások szakmai és működtetési szabályairól szóló jogszabályban meghatározott RIS-működtető – a RIS-üzemeltető közreműködésével – hozzáférést biztosít a katasztrófavédelmi hatóság részére.”
