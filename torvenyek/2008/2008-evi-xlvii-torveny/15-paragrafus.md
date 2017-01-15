@@ -2,4 +2,4 @@
 
 (2) A bíróság előtti eljárásban a kereskedelmi gyakorlat részét képező tényállítás valóságának bizonyítása a vállalkozást terheli.
 
-(3) A kereskedelmi gyakorlat tisztességtelenségére alapított polgári jogi igény bíróság előtti érvényesítésére irányuló perekben megfelelően alkalmazni kell a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 88/B. §-ának (1)–(6) bekezdését.
+(3) A kereskedelmi gyakorlat tisztességtelenségére alapított polgári jogi igény bíróság előtti érvényesítésére irányuló perekben megfelelően alkalmazni kell a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 88/B. § (1)–(8) bekezdését.
