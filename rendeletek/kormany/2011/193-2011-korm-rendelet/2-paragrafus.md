@@ -26,4 +26,10 @@
 
 12. beszállító: az a gyártó vagy annak feljogosított képviselője az Európai Unióban, vagy az az importőr, aki a terméket az európai uniós piacon forgalomba hozza vagy üzembe helyezi, továbbá – ilyenek hiányában – bármely olyan természetes vagy jogi személy, aki az ezen rendelet hatálya alá tartozó termékeket forgalomba hoz vagy üzembe helyez.
 
+13.[^2] távértékesítés: csomagküldő szolgálat igénybevétele, katalógus alapján történő értékesítés, telemarketing, internetes értékesítés, illetve a termék egyéb olyan módon történő kínálása eladásra, bérletre vagy bérletvételre, melynek során a végfelhasználó a bemutatott terméket a termék megvásárlása előtt nem tudja megtekinteni;
+
+14.[^3] új modellazonosítóval ellátott termék: az 518/2014/EU felhatalmazáson alapuló bizottsági rendeletben meghatározott időpontok szerinti új modellek és a meglévő modellek továbbfejlesztett változatai.
+
 [^1]: A 2. § 11. pontja a 379/2016. (XII. 2.) Korm. rendelet 180. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 13. pontját a 445/2016. (XII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § 14. pontját a 445/2016. (XII. 16.) Korm. rendelet 1. §-a iktatta be.

@@ -1,0 +1,1 @@
+## 9. § Ez a rendelet az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és szabványos termékismertetővel történő jelöléséről szóló, 2010. május 19-i 2010/30/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
