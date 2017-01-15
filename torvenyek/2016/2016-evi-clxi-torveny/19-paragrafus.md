@@ -1,0 +1,5 @@
+19. § A Tpvt. 64. §-a helyébe a következő rendelkezés lép:
+
+„64. § (1) Ha az eljáró versenytanács a 25. § (2) bekezdése szerinti kérelemre induló eljárásban a 63. § szerinti határidőben nem hoz döntést, az engedélyt megadottnak kell tekinteni.
+
+(2) A 70. § (1b) vagy (1c) bekezdése alapján indult eljárásban a 63. § szerinti határidő lejártát követően az összefonódás nem tiltható meg, nem írható elő a 30. § szerinti feltétel vagy kötelezettség, és az összefonódás végrehajtható. Ebben az esetben a 43/M. § (1) bekezdése, illetve a 62. § (1) bekezdés a), illetve c) pontja szerinti, már megfizetett igazgatási szolgáltatási díjat vissza kell téríteni, és az összefonódás végrehajthatóságának tényéről az összefonódást bejelentő kérelmére hatósági bizonyítványt kell kiállítani.”
