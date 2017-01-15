@@ -14,11 +14,13 @@
 
 (8)[^10] A kötelező egészségbiztosítás ellátásai keretébe nem tartozó és a 2. számú mellékletben nem szereplő egészségügyi szolgáltatások térítési díját az egészségügyi szolgáltató az 1. § rendelkezéseinek figyelembevételével állapítja meg, azzal, hogy a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálásért nem kérhető térítési díj.
 
-(9)[^11] A 2. számú melléklet 13. pontjának alkalmazásában az egyes egészségügyi osztályok alatt a polgári légi közlekedési szakszolgálati engedélyek egészségügyi feltételeiről szóló miniszteri rendelet 11. §-ának (1) bekezdésében meghatározott egészségügyi osztályokat kell érteni.
+(8a)[^11] A meningococcus C típusú kórokozó elleni – a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló miniszteri rendelet alapján kiemelt, indikációhoz kötött támogatási kategóriába tartozó – vakcina beadásáért nem kérhető térítési díj.
 
-(10)[^12] Az anyatejet adományozó nők térítésmentesen vehetik igénybe az anyatej adományozás feltételeként, külön jogszabályban meghatározott, járványügyi érdekből kötelezően végzendő szűrővizsgálatokat.
+(9)[^12] A 2. számú melléklet 13. pontjának alkalmazásában az egyes egészségügyi osztályok alatt a polgári légi közlekedési szakszolgálati engedélyek egészségügyi feltételeiről szóló miniszteri rendelet 11. §-ának (1) bekezdésében meghatározott egészségügyi osztályokat kell érteni.
 
-(11)[^13] Ha gépjármű-vezetői alkalmassági vizsgálattal egyidejűleg a lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való orvosi alkalmassági vizsgálatára is sor kerül, akkor csak a gépjármű-vezetői alkalmassági vizsgálatra vonatkozó – a 2. számú melléklet szerinti – díjfizetési kötelezettséget kell teljesíteni.
+(10)[^13] Az anyatejet adományozó nők térítésmentesen vehetik igénybe az anyatej adományozás feltételeként, külön jogszabályban meghatározott, járványügyi érdekből kötelezően végzendő szűrővizsgálatokat.
+
+(11)[^14] Ha gépjármű-vezetői alkalmassági vizsgálattal egyidejűleg a lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való orvosi alkalmassági vizsgálatára is sor kerül, akkor csak a gépjármű-vezetői alkalmassági vizsgálatra vonatkozó – a 2. számú melléklet szerinti – díjfizetési kötelezettséget kell teljesíteni.
 
 [^4]: A 2. § (1) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^5]: A 2. § új (3) bekezdését a 320/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (4) bekezdésre változtatta. A 2. § (3) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
@@ -27,6 +29,7 @@
 [^8]: A 2. § új (4) bekezdését a 16/2007. (II. 13.) Korm. rendelet 9. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. A (4) bekezdés számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (6) bekezdésre változtatta. A 2. § (6) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
 [^9]: A 2. § új (5) bekezdését a 41/2007. (III. 13.) Korm. rendelet 18. §-a iktatta be, egyidejűleg az eredeti (5) bekezdésének számozását (6) bekezdésre változtatta. Az (5) bekezdés számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (7) bekezdésre változtatta. A 2. § (7) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
 [^10]: A 2. § (6) – eredeti (3) – bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (8) bekezdésre változtatta. A 2. § (8) bekezdése a 35/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^11]: A 2. § (9) bekezdését a 173/2007. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (13) bekezdése szerint módosított szöveg.
-[^12]: A 2. § (10) bekezdését a 235/2008. (IX. 23.) Korm. rendelet 2. §-a iktatta be.
-[^13]: A 2. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 21. §-a iktatta be.
+[^11]: A 2. § (8a) bekezdését a 3/2017. (I. 12.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 2. § (9) bekezdését a 173/2007. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (13) bekezdése szerint módosított szöveg.
+[^13]: A 2. § (10) bekezdését a 235/2008. (IX. 23.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 2. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 21. §-a iktatta be.

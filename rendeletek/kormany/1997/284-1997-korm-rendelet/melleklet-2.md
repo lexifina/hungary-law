@@ -1,4 +1,4 @@
-2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^24]
+2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^25]
 
 | A | B |
 
@@ -140,4 +140,4 @@
 
 | 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
 
-[^24]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a, a 413/2015. (XII. 23.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^25]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a, a 413/2015. (XII. 23.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
