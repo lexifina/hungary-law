@@ -1,3 +1,11 @@
-88/A. § (1) A Gazdasági Versenyhivatalnak a 45. §-ban megállapított, a 70. § (1) bekezdése alapján a közérdek érvényesítésére irányuló hatásköre nem zárja ki a III–V. Fejezetben foglalt rendelkezések megsértésére alapított, a 11. § (3) bekezdésében és a 93. §-ban említett polgári jogi igények közvetlen bíróság előtti érvényesítését.
+## XIV/A. Fejezet
 
-(2) A bíróságnak a 8. §-ban foglalt rendelkezések megsértése miatt folytatott eljárásában az üzleti gyakorlat részét képező tényállítás valóságának bizonyítása az üzleti gyakorlat alkalmazóját terheli.
+## A IV. vagy V. fejezet rendelkezéseinek, illetve az EUMSz. 101. vagy 102. cikkének megsértésen alapuló polgári jogi igények bíróság előtti érvényesítése
+
+## Általános szabályok
+
+88/A. § (1) A Gazdasági Versenyhivatalnak a 45. §-ban megállapított, a 70. § (1) bekezdése alapján a közérdek érvényesítésére irányuló hatásköre nem zárja ki a IV. vagy az V. Fejezetben foglalt rendelkezések, illetve az EUMSz. 101. vagy 102. cikkében foglalt tilalom megsértésére (e fejezet alkalmazásában a továbbiakban: versenyjogi jogsértés) alapított polgári jogi igények közvetlen bíróság előtti érvényesítését.
+
+(2) Az (1) bekezdés szerinti perekben a polgári perrendtartásról szóló törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+(3) Az e fejezet alapján indított perekre a törvényszéknek van hatásköre.

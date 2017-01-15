@@ -1,1 +1,1 @@
-24/A. § A Kormány a vállalkozások összefonódását közérdekből – így különösen a munkahelyek megőrzése, az ellátás biztonsága érdekében – nemzetstratégiai jelentőségűnek minősítheti. Az ilyen összefonódáshoz nem kell a Gazdasági Versenyhivatal 24. § szerinti engedélyét kérni.
+24/A. § A Kormány a vállalkozások összefonódását közérdekből – így különösen a munkahelyek megőrzése, az ellátás biztonsága érdekében – nemzetstratégiai jelentőségűnek minősítheti. Az ilyen összefonódást nem kell a Gazdasági Versenyhivatalnak a 24. § szerint bejelenteni.

@@ -12,7 +12,7 @@ c) a vizsgáló indítványát az eljárás további menetére, illetve – szü
 
 (3) A vizsgáló indokolt esetben a vizsgálat lezárását megelőzően, külön jelentésben is tehet indítványt
 
-a) a 24. § szerinti engedély iránti kérelem alapján indult eljárásban az összefonódás piaci hatásainak teljes körű vizsgálatára,
+a)
 
 b) az irányítási jogoknak az eljárást befejező döntés meghozataláig terjedő gyakorlására vonatkozó 29/A. § szerinti hozzájárulás – szükség esetén irányításkorlátozó előírás melletti – megadására vagy elutasítására, illetve
 

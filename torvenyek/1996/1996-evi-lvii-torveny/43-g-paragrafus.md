@@ -2,7 +2,7 @@
 
 ## Bejelentés és panasz
 
-43/G. § (1) A Gazdasági Versenyhivatal hatáskörébe tartozó jogsértés – a 29. §-ban foglalt tilalom ellenére végrehajtott összefonódást is ideértve – miatt bárki bejelentéssel vagy panasszal élhet a Gazdasági Versenyhivatalnál.
+43/G. § (1) A Gazdasági Versenyhivatal hatáskörébe tartozó jogsértés – a 31. § szerinti összefonódást is ideértve – miatt bárki bejelentéssel vagy panasszal élhet a Gazdasági Versenyhivatalnál.
 
 (2) A bejelentéssel és a panasszal kapcsolatos eljárás nem része a versenyfelügyeleti eljárásnak. A bejelentéssel és a panasszal kapcsolatos eljárásban megfelelően alkalmazni kell
 

@@ -8,13 +8,13 @@
 
 (5) A vizsgálónak a bejelentéssel kapcsolatos eljárás során hozott, a Ket. vagy e törvény szerint külön jogorvoslattal megtámadható végzésével szembeni jogorvoslatra – a (7) bekezdés szerinti végzéssel szembeni jogorvoslat kivételével – a 82. §-t kell megfelelően alkalmazni.
 
-(6) Az eljárás költségeit az állam előlegezi és viseli azzal az eltéréssel, hogy ha a versenyfelügyeleti eljárásban a bejelentésben megjelölt magatartás jogsértő volta, illetve a 24. § szerinti összefonódásnak a 29. § szerinti tilalom ellenére való végrehajtása megállapításra kerül, a bejelentéssel kapcsolatos eljárás költségeit is köteles megtéríteni az, akinek jogsértő magatartását megállapították, illetve aki az összefonódás engedélyezése iránti kérelem benyújtására köteles lett volna.
+(6) Az eljárás költségeit az állam előlegezi és viseli azzal az eltéréssel, hogy ha a versenyfelügyeleti eljárásban a bejelentésben megjelölt magatartás jogsértő volta, illetve a 24. § szerinti összefonódásnak a 29. § szerinti tilalom ellenére való végrehajtása megállapításra kerül, a bejelentéssel kapcsolatos eljárás költségeit is köteles megtéríteni az, akinek jogsértő magatartását megállapították, illetve aki a 28. § (1) bekezdése szerint az összefonódás bejelentésére köteles lett volna.
 
 (7) A bejelentés beérkezését követő naptól számított két hónapon belül a vizsgáló
 
-a) a 70. § (1) bekezdése alapján vizsgálatot rendel el,
+a) a 70. § (1), (1a) vagy (1c) bekezdése alapján vizsgálatot rendel el,
 
-b) megállapítja, hogy a bejelentésben foglalt, illetve a bejelentés alapján lefolytatott eljárásban beszerzett adatok alapján a versenyfelügyeleti eljárás megindításának a 70. § (1) bekezdésében meghatározott feltételei nem állnak fenn,
+b) megállapítja, hogy a bejelentésben foglalt, illetve a bejelentés alapján lefolytatott eljárásban beszerzett adatok alapján a versenyfelügyeleti eljárás megindításának a 70. § (1), (1a) vagy (1c) bekezdésében meghatározott feltételei nem állnak fenn,
 
 c) az eljárást megszünteti, ha a bejelentésben foglaltak tekintetében
 

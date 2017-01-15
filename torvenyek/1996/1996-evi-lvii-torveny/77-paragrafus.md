@@ -20,10 +20,10 @@ d) meghatározott cselekmény elvégzésére, meghatározott magatartás tanús�
 
 (6) A vizsgálónak az utóvizsgálatban előterjesztett jelentése alapján az eljáró versenytanács
 
-a) az (1) bekezdés a) pontja szerinti esetben végzéssel megállapítja a feltétel teljesülését és az utóvizsgálatot megszünteti, egyébként határozatban megállapítja a feltétel nem teljesülésének tényét, és – ha az összefonódást végrehajtották – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról;
+a) az (1) bekezdés a) pontja szerinti esetben végzéssel megállapítja a feltétel teljesülését és az utóvizsgálatot megszünteti, egyébként határozatban megállapítja a feltétel nem teljesülésének tényét, és – ha az összefonódást végrehajtották – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról, valamint bírságot szabhat ki;
 
-b) az (1) bekezdés b) pontja szerinti esetben a kötelezettség teljesítése esetén az utóvizsgálatot megszünteti, ellenkező esetben a 32. §-ban meghatározottak szerint dönt a határozat visszavonásáról vagy módosításáról, valamint bírságot szabhat ki;
+b) az (1) bekezdés b) pontja szerinti esetben a kötelezettség teljesítése esetén az utóvizsgálatot megszünteti, ellenkező esetben dönt a 31. § szerinti intézkedés alkalmazásáról vagy a 32. §-ban meghatározottak szerint a határozat módosításáról, illetve – ennek hiányában – a végrehajtás megindításáról, valamint bírságot szabhat ki;
 
-c) az (1) bekezdés c) pontja szerinti esetben a 75. §-ban meghatározottak szerint dönt a határozat visszavonásáról vagy módosításáról, ennek hiányában az utóvizsgálatot megszünteti;
+c) az (1) bekezdés c) pontja szerinti esetben a 75. §-ban meghatározottak szerint dönt a határozat módosításáról vagy visszavonásáról, illetve bírság kiszabásáról, ennek hiányában az utóvizsgálatot megszünteti;
 
 d) az (1) bekezdés d) pontja szerinti esetben a határozat önkéntes teljesítésének megállapítása esetén az utóvizsgálatot megszünteti, ennek hiányában megindítja a végrehajtást.

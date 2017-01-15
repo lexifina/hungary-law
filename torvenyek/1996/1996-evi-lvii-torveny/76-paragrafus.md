@@ -2,9 +2,15 @@
 
 76. § (1) Az eljáró versenytanács határozatában
 
-a) a 67. § (1) bekezdése szerinti kérelem alapján a 24. § szerinti összefonódást – szükség esetén előzetes vagy utólagos feltétel, illetve kötelezettség előírásával – engedélyezi vagy megtiltja, illetve a 25. § alapján engedélyezi az egyéves átmeneti időszak meghosszabbítását, vagy az erre irányuló kérelmet elutasítja,
+a) az összefonódás vizsgálatára irányuló eljárásban
 
-b) a 67. § (2) bekezdése alapján indított eljárásban a vállalkozások összefonódását – szükség esetén előzetes vagy utólagos feltétel, illetve kötelezettség előírásával – utólagosan engedélyezi vagy megtiltja,
+aa) megállapítja, hogy az összefonódás nem csökkenti jelentős mértékben a versenyt az érintett piacon,
+
+ab) a vállalkozások összefonódására vonatkozóan előzetes vagy utólagos feltételt, illetve kötelezettséget ír elő, vagy
+
+ac) az összefonódást megtiltja,
+
+b) a 25. § (2) bekezdése alapján engedélyezi az egyéves átmeneti időszak meghosszabbítását, vagy az erre irányuló kérelmet elutasítja,
 
 c) a 75. § alapján a vállalkozást a kötelezettségvállalás teljesítésére kötelezi,
 

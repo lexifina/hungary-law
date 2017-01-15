@@ -1,6 +1,6 @@
 ## Nélkülözhetetlen bizonyíték szolgáltatásáért járó díj
 
-79/A. § (1) Díjra jogosult az a természetes személy, aki nélkülözhetetlennek minősülő írásos bizonyítékot szolgáltatott a Gazdasági Versenyhivatal részére a 11. §-ba vagy az EUMSz. 101. cikkébe ütköző olyan versenytársak közötti megállapodással vagy összehangolt magatartással elkövetett jogsértés megállapításához, amely közvetlenül vagy közvetve vételi vagy eladási árak rögzítésére, a piac felosztására – beleértve a versenytárgyalási összejátszást is –, vagy termelési, eladási kvóták meghatározására irányult.
+79/A. § (1) Díjra jogosult az a természetes személy, aki nélkülözhetetlennek minősülő írásos bizonyítékot szolgáltatott a Gazdasági Versenyhivatal részére a 11. §-ba vagy az EUMSz. 101. cikkébe ütköző kartelljogsértés megállapításához.
 
 (2) Nélkülözhetetlen bizonyítéknak minősül az olyan információ is, amely alapján a bíróság olyan helyszíni kutatást engedélyez, melynek során a Gazdasági Versenyhivatal az (1) bekezdés szerinti bizonyíték birtokába jut. A szolgáltatott bizonyíték akkor is nélkülözhetetlennek minősül, ha olyan más bizonyítékkal helyettesíthető, amelyhez utóbb jutott a Gazdasági Versenyhivatal.
 

@@ -2,7 +2,7 @@
 
 ## A bíróság versenyfelügyeleti eljárása
 
-86. § (1) A 2–7. §-okban foglalt rendelkezések megsértése miatti eljárás lefolytatása a bíróság hatáskörébe tartozik.
+86. § (1) A 2–7. §-ban foglalt rendelkezések megsértése miatti eljárás lefolytatása a bíróság hatáskörébe tartozik.
 
 (2) Az érdekelt a keresetben
 
@@ -16,14 +16,14 @@ d) követelheti a sérelmes helyzet megszüntetését, a jogsértést megelőző
 
 e) kártérítést és – személyiségi joga megsértése esetén – sérelemdíjat követelhet a polgári jog szabályai szerint, illetve
 
-f)
+f) követelheti, hogy a jogsértő szolgáltasson adatot a jogsértéssel érintett áruk előállításában, forgalmazásában résztvevőkről, valamint az ilyen áruk terjesztésére kialakított üzleti kapcsolatokról.
 
-g) követelheti, hogy a jogsértő szolgáltasson adatot a jogsértéssel érintett áruk előállításában, forgalmazásában résztvevőkről, valamint az ilyen áruk terjesztésére kialakított üzleti kapcsolatokról.
+(3) A 4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perekben az érdekelt fél a (2) bekezdésben foglaltakon túl a keresetben követelheti
 
-(3) A 4. vagy a 6. § rendelkezéseinek megsértése miatt indított perekben az érdekelt fél a (2) bekezdésben foglaltakon túl a keresetben
+a) a jogsértéssel elért gazdagodás visszatérítését,
 
-a) követelheti a jogsértéssel elért gazdagodás visszatérítését,
+b) a kizárólag vagy elsősorban a jogsértésre használt eszközök és anyagok, valamint a jogsértéssel érintett termékek lefoglalását, meghatározott személyeknek történő átadását, kereskedelmi forgalomból való visszahívását, onnan való végleges kivonását, illetve megsemmisítését, továbbá
 
-b) követelheti a kizárólag vagy elsősorban a jogsértésre használt eszközök és anyagok, valamint a jogsértéssel érintett termékek lefoglalását, meghatározott személyeknek történő átadását, kereskedelmi forgalomból való visszahívását, onnan való végleges kivonását, illetve megsemmisítését,
+c) a határozatnak a jogsértő költségére történő nyilvánosságra hozatalát.
 
-c) követelheti továbbá a határozatnak a jogsértő költségére történő nyilvánosságra hozatalát. Nyilvánosságra hozatalon kell érteni különösen az országos napilapban, illetve az Internet útján történő közzétételt.
+(4) A (3) bekezdés c) pontja alkalmazásában nyilvánosságra hozatalon kell érteni különösen az országos napilapban, illetve az internet útján történő közzétételt.

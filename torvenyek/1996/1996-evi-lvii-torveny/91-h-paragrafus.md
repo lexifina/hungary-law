@@ -1,13 +1,9 @@
 ## A bíróságok eljárására vonatkozó szabályok
 
-91/H. § (1) Azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazni kell, a polgári perrendtartásról szóló törvény rendelkezéseit az e §-ban és az 1/2003/EK tanácsi rendeletben meghatározott eltérésekkel kell alkalmazni.
+91/H. § (1) A 88/A. §-t és – a Gazdasági Versenyhivatal megkeresése tekintetében – a 88/B. §-t – az 1/2003/EK tanácsi rendeletben meghatározott eltérésekkel – megfelelően alkalmazni kell az EUMSz. 101. vagy 102. cikkében foglalt tilalom megsértése miatti polgári jogi igények érvényesítése iránti perekben is.
 
-(2) A bíróság haladéktalanul értesíti az Európai Bizottságot, illetve a Gazdasági Versenyhivatalt arról, ha valamely perben az EUMSz. 101., illetve 102. cikke alkalmazásának szükségessége merül fel. Nem kell külön értesíteni a Gazdasági Versenyhivatalt, ha a perben félként vesz részt.
+(2) Azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét kell alkalmazni, a bíróság az 1/2003/EK tanácsi rendelet alapján az Európai Bizottságnak az észrevételei megtétele, illetve valamely tény- vagy jogkérdés iránti megkereséséről végzéssel határoz, amely ellen külön fellebbezésnek nincs helye.
 
-(3) Az Európai Bizottság, illetve a Gazdasági Versenyhivatal írásban észrevételt tehet a tárgyalás berekesztéséig az EUMSz. 101., illetve 102. cikkének alkalmazására vonatkozóan, továbbá észrevételeit a tárgyaláson szóban is előadhatja. Ha a szóbeli előadás jogával bármelyikük élni kíván, köteles erről értesíteni a bíróságot. Az Európai Bizottság illetve a Gazdasági Versenyhivatal észrevételében foglaltak a perben bizonyítékként használhatók fel.
+(3) Az Európai Bizottság észrevételeinek, véleményének megtételével és az eljárás felfüggesztésével összefüggésben megfelelően alkalmazni kell a 88/B. § (1), (2) és (4)–(7) bekezdését.
 
-(4) A bíróság kérelemre az Európai Bizottságnak, illetve a Gazdasági Versenyhivatalnak megküldi a per azon iratait, amelyek az észrevétel megtételéhez szükségesek. Az iratok másolásának költségeit a bíróság előlegezi. A bíróság az érintett kérelmére az iratok megküldése helyett az iratok megtekintését is engedélyezheti.
-
-(5) Ha a bíróság az 1/2003/EK tanácsi rendelet alapján megkeresést kíván intézni az Európai Bizottsághoz tény- vagy jogkérdésben, a megkeresésről végzéssel határoz, amely ellen külön fellebbezésnek nincs helye. Az Európai Bizottság által a megkeresésre adott válaszban foglalt adat, illetve a jogkérdésben kifejtett álláspont a perben bizonyítékként használható fel.
-
-(6) A bíróság az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak.
+(4) A bíróság – azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta – az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak.

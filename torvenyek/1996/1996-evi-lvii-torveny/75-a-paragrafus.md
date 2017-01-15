@@ -2,7 +2,7 @@
 
 75/A. § (1) Az eljáró versenytanács
 
-a) az összefonódást a 30. § (3) bekezdése szerinti előzetes vagy utólagos feltétel, illetve kötelezettség előírása mellett engedélyező határozat, illetve
+a) az összefonódás vizsgálatára irányuló eljárásban a 30. § (3) bekezdése szerinti előzetes vagy utólagos feltételt, illetve kötelezettséget előíró határozat, illetve
 
 b) a 75. § szerinti kötelezettségvállalást kötelezővé tevő határozat
 

@@ -1,6 +1,6 @@
 ## Engedékenység alkalmazása
 
-78/A. § (1) Az eljáró versenytanács a bírság kiszabását mellőzi vagy a bírságot csökkenti annak a vállalkozásnak a tekintetében, amely az e törvényben meghatározott módon feltárja a Gazdasági Versenyhivatalnak a 11. §-ba, illetve az EUMSz. 101. cikkébe ütköző, közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére, a piac felosztására – beleértve a versenytárgyalási összejátszást is –, vagy a termelési, eladási kvóták meghatározására irányuló versenytársak közötti megállapodást vagy összehangolt magatartást (a továbbiakban a 78/A–78/C. § alkalmazásában: jogsértés) és az abban való részvételét.
+78/A. § (1) Az eljáró versenytanács a bírság kiszabását mellőzi vagy a bírságot csökkenti annak a vállalkozásnak a tekintetében, amely az e törvényben meghatározott módon feltárja a Gazdasági Versenyhivatalnak a 11. §-ba, illetve az EUMSz. 101. cikkébe ütköző kartellt vagy a közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére irányuló más megállapodást vagy összehangolt magatartást (a továbbiakban a 78/A–78/C. § alkalmazásában: jogsértés) és az abban való részvételét.
 
 (2) A bírság kiszabását az eljáró versenytanács annak a vállalkozásnak a tekintetében mellőzi, amely elsőként nyújt be erre irányuló kérelmet és szolgáltat olyan bizonyítékot,
 

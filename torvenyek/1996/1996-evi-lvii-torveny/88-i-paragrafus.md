@@ -1,0 +1,7 @@
+88/I. § (1) Az a vállalkozás, amely a kartellről való tudomását és az abban játszott szerepét a versenyhatóságnak önként feltáró, és a versenyhatóság eljárásában együttműködő magatartásáért az Európai Unió vagy valamely tagállam joga alapján jogszabályban vagy egyéb módon előre rögzített szabályok szerint mentesült a bírság kiszabása alól (a továbbiakban: engedékenység alapján mentesülő vállalkozás), kizárólag a saját közvetlen és közvetett vevőinek vagy beszállítóinak okozott kár megtérítéséért felel egyetemlegesen, a többi károsulttal szemben pedig csak akkor, ha az ugyanazon jogsértésért felelős másik károkozótól a kártérítés nem vagy nem teljes mértékben hajtható be.
+
+(2) Ha valamely egyetemlegesen kötelezett jogsértő vállalkozás a kötelezettségét meghaladó szolgáltatást teljesített a károsult részére, annak megtérítését az engedékenység alapján mentesülő vállalkozástól csak az engedékenység alapján mentesülő vállalkozás közvetlen vagy közvetett vevőinek, illetve beszállítóinak okozott kár mértékéig követelheti.
+
+(3) Ha a versenyjogi jogsértés a jogsértő vállalkozások közvetlen vagy közvetett vevőin, illetve beszállítóin kívül másoknak is kárt okozott, az engedékenység alapján mentesülő vállalkozás többi jogsértő vállalkozás felé fennálló megtérítési kötelezettségének mértékét a Ptk. 6:524. § (3) bekezdése alapján kell meghatározni.
+
+(4) Versenyjogi kártérítési igény esetén nem alkalmazható a Ptk. 6:524. § (2) bekezdése.

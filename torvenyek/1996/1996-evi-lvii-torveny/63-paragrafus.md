@@ -8,15 +8,19 @@ a) a III. Fejezet alapján indult eljárásban a vizsgálat elrendelésétől sz
 
 b) a 11. § és a 21. §, illetve az EUMSz. 101. vagy 102. cikke alapján indult eljárásban a vizsgálat elrendelésétől számított hat hónapon belül,
 
-c) a 29. § szerinti tilalom ellenére végrehajtott összefonódás miatt a 67. § (2) bekezdése alapján indított eljárásban a vizsgálat elrendelésétől számított hat hónapon belül,
+c) a 70. § (1a) vagy (1d) bekezdése alapján indított eljárásban a vizsgálat elrendelésétől számított hat hónapon belül,
 
-d) a 24. § szerinti engedély iránti kérelem alapján indult eljárásban – a (3) bekezdés szerinti eltéréssel – harminc napon belül,
+d) a 70. § (1b) bekezdés a) pontja alapján indult eljárásban az összefonódás-bejelentés beérkezésétől számított négy hónapon belül,
 
-e) a 25. § szerinti engedély iránti kérelem alapján indult eljárásban negyvenöt napon belül
+e) a 70. § (1b) bekezdés b) pontja alapján indult eljárásban – a (3) bekezdés szerinti eltéréssel – az összefonódás-bejelentés beérkezésétől számított harminc napon belül,
+
+f) a 70. § (1c) bekezdése alapján indult eljárásban a vizsgálat elrendelésétől számított négy hónapon belül,
+
+g) a 25. § (2) bekezdése szerinti kérelem alapján indult eljárásban negyvenöt napon belül
 
 kell meghozni és gondoskodni a közléséről.
 
-(3) Ha az eljáró versenytanács a 72. § (3) bekezdése alapján az összefonódás teljes körű vizsgálatának szükségességéről dönt, az eljárást befejező döntést négy hónapon belül kell meghozni, és gondoskodni a közléséről.
+(3) Ha a vizsgáló a 70. § (3a) bekezdése alapján az összefonódás teljes körű vizsgálatát rendeli el, az eljárást befejező döntést a (2) bekezdés d) pontja szerinti határidőn belül kell meghozni, és gondoskodni a közléséről.
 
 (4) Az ügyintézési határidő számításánál – a Ket.-ben foglaltakon túl – nem kell figyelembe venni
 
@@ -26,7 +30,7 @@ aa) a jogutódnak a hivatalból indult eljárásba való bevonásáig,
 
 ab) a jogutódlás megállapítására irányuló kérelem benyújtására előírt határidő leteltéig, határidőben benyújtott kérelem esetén annak elbírálásáig,
 
-b) a kérelemre indult eljárásban ügyfélként részt nem vevő vállalkozásnak az eljárásba ügyfélként való belépésére vonatkozó felhívástól a vállalkozás ügyfélként való belépéséig, de legfeljebb a belépésre való felhívásban meghatározott határidő leteltéig,
+b) az összefonódás vizsgálatára irányuló eljárásban ügyfélként részt nem vevő vállalkozásnak az eljárásba ügyfélként való belépésére vonatkozó felhívástól a vállalkozás ügyfélként való belépéséig, de legfeljebb a belépésre való felhívásban meghatározott határidő leteltéig,
 
 c) az ügyfél törvényes képviselőjének halála esetén – ha az ügyfélnek nem volt meghatalmazott képviselője – az új törvényes képviselő bejelentéséig,
 
@@ -42,7 +46,9 @@ h) a 75/A. § szerinti felhívás közzétételétől az észrevételek benyújt
 
 i) a 65/A. §-ban és a 65/C. §-ban meghatározott nemperes eljárások megindításától a bíróság végzésének meghozataláig,
 
-j) a vizsgálónak, illetve az eljáró versenytanácsnak az iratbetekintés tárgyában hozott végzése közlésétől a végzéssel szembeni jogorvoslati határidő lejártáig vagy – ha a jogorvoslati jogról korábban lemondtak – az utolsóként kézhez kapott lemondás beérkezéséig, valamint a vizsgáló végzésével szembeni fellebbezés esetén a versenytanács jogerős döntésének, illetve az eljáró versenytanács végzésének bírósági felülvizsgálatára irányuló eljárásban a bíróság jogerős végzésének meghozataláig
+j) a vizsgálónak, illetve az eljáró versenytanácsnak az iratbetekintés tárgyában hozott végzése közlésétől a végzéssel szembeni jogorvoslati határidő lejártáig vagy – ha a jogorvoslati jogról korábban lemondtak – az utolsóként kézhez kapott lemondás beérkezéséig, valamint a vizsgáló végzésével szembeni fellebbezés esetén a versenytanács jogerős döntésének, illetve az eljáró versenytanács végzésének bírósági felülvizsgálatára irányuló eljárásban a bíróság jogerős végzésének meghozataláig,
+
+k) az összefonódás vizsgálatára irányuló, a 70. § (1b) bekezdése alapján indult eljárásban a 62. § (1) bekezdés a), illetve c) pontja szerinti igazgatási szolgáltatási díj teljesítésére nyitva álló határidő eredménytelen elteltétől az esedékes díj megfizetéséig
 
 eltelt időt.
 
@@ -63,3 +69,5 @@ meghosszabbíthatja.
 (6) A szakértői vélemény elkészítésének határideje harminc nap, amely a szakértő indokolt kérelmére egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
 (7) A napokban megállapított határidőbe nem számít bele a 33/B. § szerinti igazgatási szünet időtartama. Ha a hónapokban megállapított határidő az igazgatási szünet ideje alatt járna le, a határidő az igazgatási szünetet követő első napon jár le.
+
+(8) Kérelemre indult eljárásban a vizsgáló hiánypótlási felhívást a kérelem beérkezését követő naptól számított tizenöt napon belül bocsáthat ki.

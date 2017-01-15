@@ -1,0 +1,3 @@
+43/L. § (1) Az összefonódás-bejelentést megelőzően az összefonódás-bejelentésre kötelezett vállalkozások előzetes egyeztetést kezdeményezhetnek a Gazdasági Versenyhivatalnál a már elhatározott összefonódás bejelentéséhez szükséges adatok, iratok körének tisztázása érdekében.
+
+(2) Az előzetes egyeztetés kezdeményezésekor vagy az egyeztetés során átadott iratok, közölt adatok kizárólag az egyeztetés céljából, valamint az egyeztetés tárgyára vonatkozó összefonódás-bejelentés elintézésével kapcsolatos eljárásban, illetve az annak vizsgálatára irányuló versenyfelügyeleti eljárásban használhatók fel.

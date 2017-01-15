@@ -2,7 +2,7 @@
 
 61. § (1) Eljárási bírság szabható ki azzal szemben, aki az eljárás során olyan cselekményt végez, vagy olyan magatartást tanúsít, amely az eljárás elhúzására, a valós tényállás feltárásának meghiúsítására irányul, vagy azt eredményezi.
 
-(2) Eljárási bírság szabható ki továbbá az ügyféllel szemben, ha a 29/A. § szerinti irányításkorlátozó előírást megszegi.
+(2) Eljárási bírság szabható ki továbbá az ügyféllel szemben, ha az irányításkorlátozó előírást megszegi, valamint ha az összefonódás-bejelentésben lényeges tényt elhallgatott vagy nem a valóságnak megfelelően közölt, és utóbb ezért került sor a versenyfelügyeleti eljárás megindítására.
 
 (3) Az eljárási bírság legkisebb összege vállalkozás esetében kétszázezer, vállalkozásnak nem minősülő természetes személy esetében ötvenezer forint, legmagasabb összege vállalkozás esetében az eljárási bírságot kiszabó végzés meghozatalát megelőző üzleti évben elért nettó árbevétel egy százaléka, vállalkozásnak nem minősülő természetes személy esetében ötszázezer forint. Az eljárási bírság legmagasabb összegének kiszámítására megfelelően alkalmazni kell a 78. § (2) bekezdését.
 
