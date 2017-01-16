@@ -9,3 +9,5 @@
 (3) Az állampolgársági ügyekben eljáró szerv ellátja a 4. § (2a) bekezdés d) és e) pontja szerinti külföldön élő magyar állampolgárok, valamint a Magyarország területén élő, a 4. § (2c) bekezdése szerinti magyar állampolgárok nyilvántartásba vételével kapcsolatos feladatokat.
 
 (4) A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv ellátja a 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgárok, a Magyarország területén élő, a 4. § (2d) bekezdése szerinti magyar állampolgárok nyilvántartásba vételével kapcsolatos feladatokat.
+
+(5) A konzuli tisztviselő eljár a személyazonosító igazolvánnyal kapcsolatos ügyekben.

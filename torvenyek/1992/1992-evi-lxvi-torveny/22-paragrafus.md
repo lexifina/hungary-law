@@ -12,11 +12,11 @@ e) a központi menekültügyi szerv a törvényben meghatározott feladatai ell�
 
 f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 
-g) az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;
+g) az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából, az anyakönyvi felügyeletet ellátó szerv a szakmai irányítási tevékenység ellátása céljából, a konzuli tisztviselő, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy az anyakönyvezéssel összefüggő feladatainak ellátása céljából,
 
-h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a konzuli érdekvédelmi feladatok ellátásához;
+h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy a konzuli érdekvédelmi feladatok ellátásához,
 
-i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője az útlevél-ügyintézéshez;
+i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy az útlevél-ügyintézéshez,
 
 j) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához;
 
