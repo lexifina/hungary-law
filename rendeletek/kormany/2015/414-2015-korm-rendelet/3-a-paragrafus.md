@@ -1,4 +1,4 @@
-## 3/A. §[^6] A kijelölt kormányhivatal
+## 3/A. §[^7] A kijelölt kormányhivatal
 
 1. a nála előterjesztett kérelem esetén dönt a személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról, valamint a személyazonosító igazolvány visszavonásáról,
 
@@ -32,4 +32,4 @@
 
 16. törvényben meghatározottak szerint adatszolgáltatást teljesít a személyazonosító igazolvány nyilvántartásból.
 
-[^6]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (6) bekezdése iktatta be.
+[^7]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (6) bekezdése iktatta be.

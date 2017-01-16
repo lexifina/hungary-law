@@ -4,7 +4,7 @@
 
 (2) A személyazonosító igazolványba a doktori címet a személyiadat- és lakcímnyilvántartásba történt bejegyzéssel egyezően kell feltüntetni.
 
-(3)[^47]
+(3)[^54]
 
 (4) A magyar állampolgár, a bevándorolt, a letelepedett, a menekült és az oltalmazott jogállású személy állampolgársági adatát a személyazonosító igazolványban – az országnevek kódjaira vonatkozó nemzeti szabvány alkalmazásával – háromjegyű betűkód formájában kell feltüntetni.
 
@@ -12,4 +12,4 @@
 
 (6) A magyar állampolgár részére kiadott állandó személyazonosító igazolvány vizuális megjelenésében eltér a bevándorolt, letelepedett, menekült vagy oltalmazott jogállású személynek kiadott állandó személyazonosító igazolványtól.
 
-[^47]: A 33. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 311. § (30) bekezdése hatályon kívül helyezte.
+[^54]: A 33. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 311. § (30) bekezdése hatályon kívül helyezte.

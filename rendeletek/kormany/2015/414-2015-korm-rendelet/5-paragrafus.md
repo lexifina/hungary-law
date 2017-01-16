@@ -1,4 +1,4 @@
-5. § (1)[^8] A nyilvántartást kezelő szerv országos aláíró hitelesítő hatóságként (CSCA)
+5. § (1)[^11] A nyilvántartást kezelő szerv országos aláíró hitelesítő hatóságként (CSCA)
 
 a) kiadja az önaláírt országos aláírás-hitelesítő tanúsítványt,
 
@@ -6,17 +6,17 @@ b) aláírja a (2) bekezdés szerinti dokumentum-aláíró hatóság (DS) szám�
 
 c) az általa kibocsátott tanúsítványokat, valamint az azokhoz kapcsolódó visszavonási listákat elektronikus dokumentum formájában közzéteszi.
 
-(2)[^9] A nyilvántartást kezelő szerv dokumentum-aláíró hatóságként (DS) aláírja az állandó személyazonosító igazolvány tároló elemében lévő adatokat, valamint az aláírást és az (1) bekezdés b) pontja szerinti tanúsítványt elhelyezi az állandó személyazonosító igazolvány tároló elemében.
+(2)[^12] A nyilvántartást kezelő szerv dokumentum-aláíró hatóságként (DS) aláírja az állandó személyazonosító igazolvány tároló elemében lévő adatokat, valamint az aláírást és az (1) bekezdés b) pontja szerinti tanúsítványt elhelyezi az állandó személyazonosító igazolvány tároló elemében.
 
-(3)[^10] A nyilvántartást kezelő szerv országos ellenőrzőhitelesítő hatóságként (CVCA)
+(3)[^13] A nyilvántartást kezelő szerv országos ellenőrzőhitelesítő hatóságként (CVCA)
 
 a) kiadja az önaláírt országos ellenőrző-hitelesítő tanúsítványt,
 
 b) tanúsítványt bocsát ki a (4) bekezdés szerinti dokumentumellenőrző-hitelesítő hatóság számára.
 
-(4)[^11] A nyilvántartást kezelő szerv dokumentumellenőrző-hitelesítő hatóságként (DV) biztosítja az állandó személyazonosító igazolványban elektronikusan tárolt adatok kiolvasására jogosultak ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok (IS, AT) kiállítását.
+(4)[^14] A nyilvántartást kezelő szerv dokumentumellenőrző-hitelesítő hatóságként (DV) biztosítja az állandó személyazonosító igazolványban elektronikusan tárolt adatok kiolvasására jogosultak ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok (IS, AT) kiállítását.
 
-[^8]: Az 5. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
-[^9]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
-[^10]: Az 5. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
-[^11]: Az 5. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
+[^12]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
+[^13]: Az 5. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
+[^14]: Az 5. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.

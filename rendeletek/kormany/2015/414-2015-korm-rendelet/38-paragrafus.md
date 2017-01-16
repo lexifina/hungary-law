@@ -2,18 +2,20 @@
 
 ## 11. A személyazonosító igazolvány leadása
 
-38. § (1) A talált, más nevére szóló személyazonosító igazolványt le kell adni
+38. § (1)[^64] A talált, más nevére szóló személyazonosító igazolványt le kell adni
 
 a) a találás helye szerint illetékes jegyzőnek, aki azt – a találásról felvett jegyzőkönyvvel együtt – haladéktalanul megküldi a találás helye szerint illetékes járási hivatalnak,
 
-b) a találás helye szerint illetékes járási hivatalnak, vagy
+b) a találás helye szerint illetékes járási hivatalnak,
 
-c)[^57] a kijelölt kormányhivatalnak.
+c) a találás helye szerint illetékes konzuli tisztviselőnek, aki azt – a találásról felvett jegyzőkönyvvel együtt – haladéktalanul megküldi a kijelölt kormányhivatalnak, vagy
 
-(2)[^58] A járási hivatal, illetve a kijelölt kormányhivatal visszaadja a talált személyazonosító igazolványt, ha az az Nytv. 29/F. §-a szerint nem tekinthető érvénytelennek, és a polgár új állandó személyazonosító igazolványt még nem kapott.
+d) a kijelölt kormányhivatalnak.
 
-(3)[^59] A talált személyazonosító igazolványt a járási hivatal vagy a kijelölt kormányhivatal belföldön postai úton, könyvelt küldeményként küldi meg az arra jogosultnak. Ha a polgár a személyazonosító igazolványt postai úton vagy felhívásra személyesen, törvényes képviselője vagy meghatalmazottja útján sem veszi át, a járási hivatal vagy a kijelölt kormányhivatal az igazolványt a találástól számított egy év eltelte után átvétel hiányában érvényteleníti, és gondoskodik e ténynek a személyazonosító igazolvány nyilvántartásban való feltüntetéséről.
+(2)[^65] A járási hivatal, illetve a kijelölt kormányhivatal visszaadja a talált személyazonosító igazolványt, ha az az Nytv. 29/F. §-a szerint nem tekinthető érvénytelennek, és a polgár új állandó személyazonosító igazolványt még nem kapott.
 
-[^57]: A 38. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 2. pontjával megállapított szöveg.
-[^58]: A 38. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
-[^59]: A 38. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 11. pontja szerint módosított szöveg.
+(3)[^66] A talált személyazonosító igazolványt a járási hivatal vagy a kijelölt kormányhivatal belföldön postai úton, könyvelt küldeményként küldi meg az arra jogosultnak. Ha a polgár a személyazonosító igazolványt postai úton vagy felhívásra személyesen, törvényes képviselője vagy meghatalmazottja útján sem veszi át, a járási hivatal vagy a kijelölt kormányhivatal az igazolványt a találástól számított egy év eltelte után átvétel hiányában érvényteleníti, és gondoskodik e ténynek a személyazonosító igazolvány nyilvántartásban való feltüntetéséről.
+
+[^64]: A 38. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (20) bekezdésével megállapított szöveg.
+[^65]: A 38. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^66]: A 38. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 11. pontja szerint módosított szöveg.

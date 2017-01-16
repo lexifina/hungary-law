@@ -1,4 +1,6 @@
-## 4. §[^7] A nyilvántartást kezelő szerv
+## 3/C. §[^9] A konzuli tisztviselő munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy, továbbá a külpolitikáért felelős miniszter által vezetett minisztérium konzuli ügyekben feladatkörrel rendelkező kormánytisztviselője közreműködik a 3/B. §-ban meghatározott feladatok ellátásában.
+
+## 4. §[^10] A nyilvántartást kezelő szerv
 
 a) dönt a személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról, ha a polgár nem rendelkezik személyazonosság igazolására alkalmas más érvényes hatósági igazolvánnyal, valamint ha első alkalommal igényel tároló elemmel rendelkező személyazonosító igazolványt, a nála előterjesztett kérelem esetén,
 
@@ -36,4 +38,5 @@ q) ellátja az országos aláíró hitelesítő hatósági (CSCA) és a dokument
 
 r) ellátja az országos ellenőrzőhitelesítő hatósági (CVCA), valamint a dokumentumellenőrző-hitelesítő hatósági (DV) feladatokat.
 
-[^7]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
+[^9]: A 3/C. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
+[^10]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
