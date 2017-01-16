@@ -1,4 +1,4 @@
-## 325. §[^536]
+## 325. §[^530]
 
 ## 326. A Mezőgazdasági és Vidékfejlesztési Hivatal megszüntetéséről, valamint egyes ezzel összefüggő kormányrendeletek módosításáról szóló 328/2016. (X. 28.) Korm. rendelet módosítása
 
@@ -50,16 +50,7 @@
 
 ## lép.”
 
-(2) Az R166.
+(2)–(3)[^531]
 
-a) 1. § (2) bekezdésében a „(3)–(6)” szövegrész helyébe a „(4)” szöveg,
-
-b) 1. § (4) bekezdésében az „E feladatkijelölés nem érinti a Kincstár kifizető ügynökségi feladatkörébe tartozó feladatait és a (3) bekezdésben meghatározott feladatokat.” szövegrész helyébe az „E feladatkijelölés nem érinti a Kincstár kifizető ügynökségi feladatkörébe tartozó feladatait.” szöveg,
-
-c) 3. § (4) bekezdésében a „(2)–(6)” szövegrész helyébe a „(2) és (4)” szöveg
-
-## lép.
-
-(3) Hatályát veszti az R166. 1. § (3) és (5)–(6) bekezdése, valamint 4. §-a.
-
-[^536]: A 325. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^530]: A 325. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^531]: A 326. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

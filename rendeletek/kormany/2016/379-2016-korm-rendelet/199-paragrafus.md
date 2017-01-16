@@ -22,12 +22,12 @@ o)[^324]
 
 (9)[^325]
 
-[^317]: A 198. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^318]: A 199. § (1)–(5) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^317]: A 198. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^318]: A 199. § (1)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^319]: A 199. § (6) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^320]: A 199. § (7) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^321]: A 199. § (8) bekezdés a)–g) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^321]: A 199. § (8) bekezdés a)–g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^322]: A 199. § (8) bekezdés h)–l) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^323]: A 199. § (8) bekezdés m)–n) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^323]: A 199. § (8) bekezdés m)–n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^324]: A 199. § (8) bekezdés o) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
 [^325]: A 199. § (9) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

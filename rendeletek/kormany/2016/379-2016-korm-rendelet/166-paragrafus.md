@@ -16,8 +16,8 @@ a)[^277]
 
 b)[^278]
 
-[^274]: A 166. § (1) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^274]: A 166. § (1) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^275]: A 166. § (1) bekezdés b) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^276]: A 166. § (1) bekezdés c) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^277]: A 166. § (2) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^278]: A 166. § (2) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^276]: A 166. § (1) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^277]: A 166. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^278]: A 166. § (2) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

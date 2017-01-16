@@ -1,5 +1,5 @@
-## 313. §[^525]
+## 313. §[^519]
 
 ## 314. A nemzeti vérkészlettel való gazdálkodás szabályairól szóló 439/2015. (XII. 28.) Korm. rendelet módosítása
 
-[^525]: A 313. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^519]: A 313. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

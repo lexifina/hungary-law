@@ -4,4 +4,4 @@
 
 ## 292/2008. (XII. 10.) Korm. rendelet módosítása
 
-[^200]: A 122. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^200]: A 122. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

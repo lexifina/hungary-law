@@ -2,4 +2,4 @@
 
 ## 141. Az építési beruházások megvalósításához szükséges eljárások integrált intézésének részletes szabályairól és a közreműködő hatóságok kijelöléséről szóló 194/2009. (IX. 15.) Korm. rendelet módosítása
 
-[^226]: A 140. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^226]: A 140. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

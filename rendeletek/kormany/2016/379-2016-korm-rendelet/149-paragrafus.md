@@ -2,5 +2,5 @@
 
 ## 149.[^251]
 
-[^250]: A 148. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^250]: A 148. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^251]: A 149. alcím (149. §) a 473/2016. (XII. 27.) Korm. rendelet 20. § (3) bekezdés e) pontja alapján nem lép hatályba.

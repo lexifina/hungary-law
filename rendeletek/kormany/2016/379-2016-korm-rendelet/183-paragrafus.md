@@ -4,4 +4,4 @@
 
 ## 290/2011. (XII. 22.) Korm. rendelet módosítása
 
-[^299]: A 182. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^299]: A 182. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

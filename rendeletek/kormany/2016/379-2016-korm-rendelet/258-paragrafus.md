@@ -24,11 +24,11 @@ a)[^416]
 
 b)–g)[^417] ” szövegrész.
 
-[^410]: A 257. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^411]: A 258. § (1)–(5) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^412]: A 258. § (6) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^410]: A 257. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^411]: A 258. § (1)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^412]: A 258. § (6) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^413]: A 258. § (6) bekezdés b) pont ba) alpontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^414]: A 258. § (6) bekezdés b) pont bb)–bd) alpontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^415]: A 258. § (6) bekezdés c) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^414]: A 258. § (6) bekezdés b) pont bb)–bd) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^415]: A 258. § (6) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^416]: A 258. § (7) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^417]: A 258. § (7) bekezdés b)–g) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^417]: A 258. § (7) bekezdés b)–g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

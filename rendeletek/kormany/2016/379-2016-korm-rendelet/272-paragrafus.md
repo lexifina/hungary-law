@@ -14,11 +14,14 @@ c) 1. melléklet
 
 ca)–cb)[^437]
 
-cc)–cd)[^438]
+cc)[^438]
 
-[^433]: A 271. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^434]: A 272. § (1)–(9) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^435]: A 272. § (10) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^436]: A 272. § (10) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^437]: A 272. § (10) bekezdés c) pont ca)–cb) alpontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^438]: A 272. § (10) bekezdés c) pont cc)–cd) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+cd)[^439]
+
+[^433]: A 271. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^434]: A 272. § (1)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^435]: A 272. § (10) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^436]: A 272. § (10) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^437]: A 272. § (10) bekezdés c) pont ca)–cb) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^438]: A 272. § (10) bekezdés c) pont cc) alpontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^439]: A 272. § (10) bekezdés c) pont cd) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

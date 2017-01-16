@@ -6,6 +6,6 @@
 
 (2)[^337]
 
-[^335]: A 209. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^335]: A 209. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^336]: A 210. § (1) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^337]: A 210. § (2) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^337]: A 210. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

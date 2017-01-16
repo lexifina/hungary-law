@@ -6,6 +6,6 @@
 
 (2)[^173]
 
-[^171]: A 104. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^172]: A 105. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^171]: A 104. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^172]: A 105. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^173]: A 105. § (2) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
