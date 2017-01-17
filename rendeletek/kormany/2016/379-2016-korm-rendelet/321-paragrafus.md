@@ -1,7 +1,7 @@
-## 320. §[^526]
+## 320. §[^533]
 
 ## 321. Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló
 
 ## 16/2016. (II. 10.) Korm. rendelet módosítása
 
-[^526]: A 320. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^533]: A 320. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

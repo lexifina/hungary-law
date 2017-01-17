@@ -1,4 +1,4 @@
-## 325. §[^530]
+## 325. §[^537]
 
 ## 326. A Mezőgazdasági és Vidékfejlesztési Hivatal megszüntetéséről, valamint egyes ezzel összefüggő kormányrendeletek módosításáról szóló 328/2016. (X. 28.) Korm. rendelet módosítása
 
@@ -50,7 +50,7 @@
 
 ## lép.”
 
-(2)–(3)[^531]
+(2)–(3)[^538]
 
-[^530]: A 325. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^531]: A 326. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^537]: A 325. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^538]: A 326. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
