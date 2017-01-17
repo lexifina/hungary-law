@@ -1,4 +1,4 @@
-1.[^1] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 9. § (2) bekezdése alapján
+1.[^2] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 9. § (2) bekezdése alapján
 
 Hegmanné Nemes Sárát, a Nemzeti Fejlesztési Minisztérium államtitkárát a Gazdaságfejlesztési Operatív Program Monitoring Bizottsága,
 
@@ -26,8 +26,6 @@ Banai Péter Benőt, a Nemzetgazdasági Minisztérium államháztartásért fele
 
 dr. Garai Pétert, az Emberi Erőforrások Minisztériuma EU fejlesztések végrehajtásáért felelős helyettes államtitkárát a Társadalmi Infrastruktúra Operatív Program Monitoring Bizottsága,
 
-dr. Köpeczi-Bócz Tamást, az Emberi Erőforrások Minisztériuma EU fejlesztések koordinációjáért és stratégiákért felelős helyettes államtitkárát a Társadalmi Megújulás Operatív Program Monitoring Bizottsága,
-
 Szabó Zsoltot, a Nemzeti Fejlesztési Minisztérium fejlesztés- és klímapolitikáért, valamint kiemelt közszolgáltatásokért felelős államtitkárát a Környezet és Energia Operatív Program Monitoring Bizottsága,
 
 Tasó Lászlót, a Nemzeti Fejlesztési Minisztérium infrastruktúráért felelős államtitkárát a Közlekedés Operatív Program Monitoring Bizottsága,
@@ -52,4 +50,4 @@ e) a Gazdaságfejlesztési Operatív Program Monitoring Bizottsága elnökének 
 
 – 2014. szeptember 15-i hatállyal – visszavonom.
 
-[^1]: Az 1. pont a 124/2016. (XI. 29.) ME határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. pont a 124/2016. (XI. 29.) ME határozat 2. pontja, a 9/2017. (I. 17.) ME határozat 2. pontja szerint módosított szöveg.

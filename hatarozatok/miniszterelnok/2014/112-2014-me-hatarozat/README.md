@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-112-30-
 | --- | --- | --- |
 | 2014-09-16 | 2014-112-30-63.1 | 112/2014. (IX. 16.) ME határozat |
 | 2016-11-29 | 2014-112-30-63.2 | 124/2016. (XI. 29.) ME határozat |
+| 2017-01-17 | 2014-112-30-63.3 | 109/2026. (XI. 6.) ME határozat |
