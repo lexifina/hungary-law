@@ -54,23 +54,35 @@ b) működését, a kereskedési rendszerhez való hozzáférést, a tőzsdei be
 
 c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügyletekre napi letét-elhelyezési követelmény vonatkozik és ez a székhely szerinti állam hatáskörrel rendelkező felügyeleti hatóságának értékelése szerint megfelelő biztonságot nyújt;
 
-11. ellenőrzött külföldi társaság: az a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű (a továbbiakban együtt: külföldi társaság), amelyben a külföldi társaság adóéve napjainak többségében a személyi jövedelemadóról szóló törvény szerint belföldi illetőségű tényleges tulajdonos (a továbbiakban: részesedéssel rendelkező) van, valamint az a külföldi társaság, amelynek az adóévben elért bevételei többségében magyarországi forrásból származnak, bármely esetben akkor, ha a külföldi társaság által az adóévre fizetett (fizetendő), adóvisszatérítéssel csökkentett társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 9 százalékot vagy a külföldi társaság nulla vagy negatív adóalap miatt nem fizet társasági adónak megfelelő adót, bár eredménye pozitív; nem kell e rendelkezést alkalmazni, ha a külföldi társaság székhelye, illetősége az Európai Unió tagállamában, az OECD tagállamában vagy olyan államban van, amellyel Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére és amely államban valódi gazdasági jelenléttel bír, azzal, hogy
+11. ellenőrzött külföldi társaság:
 
-a) valódi gazdasági jelenlétnek minősül a külföldi társaság és az adott államban lévő kapcsolt vállalkozásai által együttesen saját eszközzel és munkaviszonyban foglalkoztatott munkavállalókkal végzett termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői, valamint kereskedelmi tevékenység, ha az ebből származó bevételük eléri az összes bevételük legalább 50 százalékát;
+a) a belföldi illetőségű adózónak és a külföldi vállalkozónak nem minősülő külföldi személy, amely tekintetében az adózó (önmagában vagy kapcsolt vállalkozásaival együttesen)
 
-b) befektetői tevékenységnek minősül a tulajdoni részesedést jelentő tartós befektetés, a hitelviszonyt megtestesítő értékpapír megszerzése, tartása és elidegenítése, valamint az adott államban az értékpapírokra, befektetési szolgáltatásokra vonatkozó jogszabályok által szabályozott illetve a pénzügyi szolgáltatási, befektetési szolgáltatási tevékenység felügyeletét ellátó hatóság által felügyelt illetve engedélyezett alap, társaság vagy egyéb szervezet, továbbá az adott állam illetékes hatóságának engedélyével rendelkező alapkezelő által kezelt, ugyanazon országban alapított vagy bejegyzett alap, társaság vagy egyéb szervezet befektetése, illetve tevékenysége;
+aa) a szavazati jogok 50 százalékát meghaladó közvetlen vagy közvetett részesedéssel rendelkezik, vagy
 
-c) nulla vagy negatív eredmény és adóalap esetén a külföldi állam által jogszabályban előírt társasági adónak megfelelő adó mértékének (amennyiben a külföldi állam az adóalap összegétől függően több társasági adónak megfelelő adómértéket alkalmaz, akkor a legkisebb mértéknek) kell elérnie a 9 százalékot;
+ab) a jegyzett tőkéből 50 százalékot meghaladó közvetlen vagy közvetett részesedéssel rendelkezik, vagy
 
-d) a külföldi társaság adóéve alatt a részesedéssel rendelkező adóévének utolsó napján vagy napjáig lezárult utolsó adóévet kell érteni;
+ac) adózott nyereségéből 50 százalékot meghaladó részre jogosult,
 
-e) e rendelkezéseket önállóan alkalmazni kell a külföldi társaság székhelyétől, illetőségétől eltérő államban lévő telephelyére is;
+abban az üzleti évében, amelyben a külföldi személy által ténylegesen megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet a székhelye szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi személy által megfizetett társasági adónak megfelelő adót,
 
-f) e rendelkezés alkalmazásában tényleges tulajdonosnak minősül az a magánszemély, aki a külföldi társaságban közvetlenül vagy közvetve a szavazati jogok vagy a tulajdoni hányad legalább tíz százalékával vagy – a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezéseinek megfelelő alkalmazásával – meghatározó befolyással rendelkezik;
+valamint
 
-g) nem minősül ellenőrzött külföldi társaságnak a külföldi társaság, amelyben az adóév első napján már legalább öt éve elismert tőzsdén jegyzett személy vagy kapcsolt vállalkozása az adóév minden napján legalább 25 százalékos részesedéssel rendelkezik;
+b) a belföldi illetőségű adózó külföldi telephelye abban az adóévében, amelyben a külföldi telephely által megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet a telephely szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi telephely által megfizetett társasági adónak megfelelő adót,
 
-h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi jogállás közvetett fennállásának kivételével – az adózó köteles bizonyítani;
+azzal, hogy
+
+c) nem minősül ellenőrzött külföldi társaságnak a külföldi személy, illetve a külföldi telephely, ha egyértelműen megállapítható, hogy megfelelő személyzettel, felszereltséggel, eszközállománnyal és helyiséggel rendelkezik, amelynek révén érdemi gazdasági tevékenységet folytat,
+
+d) a c) alpont alkalmazásakor – figyelemmel az e)–f) alpontban foglaltakra is – minden esetben úgy kell tekinteni, hogy a külföldi személy, illetve a külföldi telephely érdemi gazdasági tevékenységet folytat, ha az általa saját eszközzel és munkaviszonyban foglalkoztatott alkalmazottakkal végzett termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői vagy kereskedelmi tevékenységből származó bevétele eléri összes bevétele legalább 50 százalékát,
+
+e) a d) alpont szerinti arány megállapításakor a külföldi személy, illetve a külföldi telephely bevételei mellett számításba kell venni a külföldi személy székhelye, illetve a külföldi telephely fekvése szerinti államban székhellyel rendelkező valamennyi kapcsolt vállalkozása összes bevételét, valamint a saját eszközzel és munkaviszonyban foglalkoztatott alkalmazottakkal folytatott termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői vagy kereskedelmi tevékenységből származó bevételét is,
+
+f) a d)–e) alpont alkalmazásakor befektetői tevékenységnek minősül a tulajdoni részesedést jelentő tartós befektetés, a hitelviszonyt megtestesítő értékpapír megszerzése, tartása és elidegenítése, valamint a külföldi személy székhelye, illetve a külföldi telephely fekvése szerinti államban az értékpapírokra, befektetési szolgáltatásokra vonatkozó jogszabályok által szabályozott, illetve a pénzügyi szolgáltatási, befektetési szolgáltatási tevékenység felügyeletét ellátó hatóság által felügyelt, illetve engedélyezett alap, társaság vagy egyéb szervezet, továbbá az említett állam illetékes hatóságának engedélyével rendelkező alapkezelő által kezelt, ugyanazon országban alapított vagy bejegyzett alap, társaság vagy egyéb szervezet befektetése, illetve tevékenysége,
+
+g) nem minősül ellenőrzött külföldi társaságnak a külföldi személy abban az üzleti évében, amelynek minden napján van egy benne legalább 25 százalékos részesedéssel rendelkező olyan tagja, részvényese, amely, vagy amelynek kapcsolt vállalkozása az üzleti év első napján már legalább öt éve elismert tőzsdén jegyzett,
+
+h) az e rendelkezésben foglaltakat az adózó köteles bizonyítani;
 
 11a. energiahatékonysági célokat szolgáló beruházás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
 

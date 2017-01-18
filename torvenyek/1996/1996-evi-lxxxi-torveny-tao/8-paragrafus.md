@@ -18,7 +18,21 @@ b) az eszköznek (kivéve a bejelentett részesedést) a befektetett pénzügyi 
 
 e) a jogerős határozatban megállapított bírság, továbbá az adózás rendjéről, továbbá a társadalombiztosításról szóló törvények szerinti jogkövetkezményekből adódó kötelezettség ráfordításként elszámolt összege, kivéve, ha önellenőrzéshez kapcsolódik,
 
-f) az ellenőrzött külföldi társaság adóévének (üzleti évének) utolsó napján kimutatott – az adózónak az adóéve utolsó napján az ellenőrzött külföldi társaságban fennálló közvetlen részesedésére jutó – pozitív adózott eredmény felosztott osztalékkal csökkentett része, feltéve, hogy az adózó az ellenőrzött külföldi társaságban a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával vagy – a Ptk. rendelkezéseinek megfelelő alkalmazásával – meghatározó befolyással rendelkezik, és az adózóban tényleges tulajdonosként nem rendelkezik részesedéssel a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
+f) az adózó azon adóévében, amelyben az ellenőrzött külföldi társaság üzleti évének utolsó napja van, az ellenőrzött külföldi társaság e törvény szerinti szabályok szerint (az ellenőrzött külföldi társaságot belföldi illetőségű adózónak tekintve) kiszámított üzleti évi jövedelméből (adóalapjából) az a rész, amely az ellenőrzött külföldi társaság következő jövedelmeiből ered
+
+fa) kamat és pénzügyi eszközből származó jövedelem,
+
+fb) szellemi alkotások jogából származó jövedelem,
+
+fc) részvény, részesedés tartásából és kivezetéséből származó jövedelem,
+
+fd) pénzügyi lízing tevékenységből származó jövedelem,
+
+fe) biztosítási, banki és egyéb pénzügyi tevékenységekből származó jövedelem,
+
+ff) olyan személytől származó jövedelem, amely áruk és szolgáltatások kapcsolt vállalkozások számára való értékesítéséből, illetve tőlük való beszerzéséből származik, amennyiben ezen személy nem vagy csak kis mértékben valósít meg hozzáadott gazdasági értéket,
+
+feltéve, hogy e rész pozitív (nyereség), továbbá meghaladja az ellenőrzött külföldi társaság teljes jövedelmének egyharmadát, vagy – ha az ellenőrzött külföldi társaság az fd)–fe) alpont szerinti tevékenységet folytat – teljes jövedelmének több, mint egyharmada származik az adózóval vagy az adózó kapcsolt vállalkozásaival folytatott ügyletből,
 
 g) az adózás előtti eredmény csökkentéseként a 7. § (1) bekezdés m) pontja alapján elszámolt összeg kétszerese a kivezetés adóévében, ha a részesedésszerzés adóévét követő harmadik adóév végéig a szerzett részesedést bármilyen jogcímen – az átalakulás, egyesülés, szétválás miatti kivezetést kivéve – az adózó kivezeti, részben kivezeti,
 
@@ -40,9 +54,9 @@ l) a termőföldből átminősített ingatlan értékesítése, vagy más módon
 
 m) az adózónál
 
-a) az ellenőrzött külföldi társaságban fennálló részesedésre az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, valamint e részesedés bármely jogcímen történő kivezetése következtében elszámolt veszteség, árfolyamveszteség, vagy
+ma) az ellenőrzött külföldi társaságban fennálló részesedésre az adóévben ráfordításként elszámolt értékvesztésből, árfolyamveszteségből, valamint e részesedés bármely jogcímen történő kivezetése következtében elszámolt veszteségből, árfolyamveszteségből az a rész, amely meghaladja az f) pont alapján az ellenőrzött külföldi társaságra tekintettel az adóévben vagy azt megelőzően az adózás előtti eredmény növeléseként elszámolt összeget,
 
-b) a bejelentett részesedéshez kapcsolódó, az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, a részesedés bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében elszámolt veszteség, árfolyamveszteség (figyelembe véve az üzleti vagy cégérték kivezetése következtében elszámolt ráfordítást is),
+mb) a bejelentett részesedéshez kapcsolódó, az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, a részesedés bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében elszámolt veszteség, árfolyamveszteség (figyelembe véve az üzleti vagy cégérték kivezetése következtében elszámolt ráfordítást is),
 
 n) a bejelentett immateriális jószág bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében elszámolt, a 7. § (22)–(24) bekezdése szerinti arányszámmal megállapított veszteség,
 
