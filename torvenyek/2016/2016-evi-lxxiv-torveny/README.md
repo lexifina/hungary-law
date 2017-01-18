@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-74-00-00
 | 2016-07-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-74-00-00.1 |
 | 2016-07-24 | 2010. évi CXXX. törvény | 2016-74-00-00.2 |
 | 2016-12-20 | 2016. évi CLXVIII. törvény | 2016-74-00-00.3 |
+| 2017-01-18 | 2016. évi CLXXIV. törvény | 2016-74-00-00.4 |

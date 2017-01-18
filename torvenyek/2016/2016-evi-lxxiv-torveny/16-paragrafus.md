@@ -1,0 +1,5 @@
+16. § (1) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követő 90 napon belül felülvizsgálja a Módtv. hatálybalépésekor fennálló, a település közterületének reklámcélú hasznosítására vonatkozó szerződéseit és kezdeményezi azoknak a Módtv. által megállapított és a végrehajtására kiadott kormányrendelet rendelkezéseknek megfelelő módosítását vagy új szerződések megkötését, legkésőbb a 15. § (3) bekezdése szerinti hatállyal.
+
+(2) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követően – legkésőbb 2017. október 1. napjáig – e törvénynek a Módtv. által megállapított szabályaival és a végrehajtására kiadott kormányrendelettel összhangban megalkotja vagy módosítja a településképi rendeletét.
+
+(3) Ha az (1) bekezdés szerinti szerződésmódosítás, vagy az eredeti szerződés helyébe lépő új szerződés megkötése meghiúsul, a helyi önkormányzat a szerződést – a szerződés szerinti felmondási jog gyakorlásán túlmenően – hathavi felmondási idővel felmondhatja.

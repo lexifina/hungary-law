@@ -10,4 +10,4 @@ c) önkormányzati településkép-érvényesítési eszközök szabályozásáv
 
 biztosítja.
 
-(3) A településképi követelmények az épített környezet alakításáról és védelméről szóló törvénynek (a továbbiakban: Étv.) a településrendezési feladatok megvalósítását biztosító egyik sajátos jogintézménye.
+(3) A településképi követelmények az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek (a továbbiakban: Étv.) a településrendezési feladatok megvalósítását biztosító egyik sajátos jogintézménye.

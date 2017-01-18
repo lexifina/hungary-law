@@ -10,6 +10,6 @@ b) az önkormányzat polgármestere (főpolgármester) az építésügyi engedé
 
 c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, reklámelhelyezések és rendeltetésmódosítások tekintetében (a továbbiakban: településképi bejelentési eljárás),
 
-d) az önkormányzat polgármestere (főpolgármester) településképi kötelezést adhat ki és bírságot szabhat ki.
+d) az önkormányzat polgármestere (főpolgármester) településképi kötelezést adhat ki és bírságot szabhat ki, ide nem értve a reklámhordozók és reklámok jogellenes elhelyezésével kapcsolatos, valamint a településképi bírságot.
 
 (3) A (2) bekezdés b)–d) pontjában szereplő településkép-érvényesítési eszközök alkalmazásának általános szabályait kormányrendelet, részletes szabályait az egyes önkormányzatok településképi rendelete tartalmazza.

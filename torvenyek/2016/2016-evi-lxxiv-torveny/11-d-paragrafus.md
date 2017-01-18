@@ -1,0 +1,1 @@
+11/D. § Az ezen alcímben megállapított rendelkezések nem érintik a közúti közlekedésről szóló törvényben és a végrehajtására kiadott kormányrendeletben foglalt, a közutak környezetében elhelyezett reklámokra vonatkozóan közlekedésbiztonsági céllal meghatározott rendelkezéseket.

@@ -8,7 +8,7 @@ b) a – településszerkezet, táji környezet, településkarakter vagy egyéb
 
 c) az Étv. szerinti helyi építészeti örökség egyedi és területi védelmére, védetté nyilvánítására és a védettség megszüntetésére,
 
-d) a reklámok, reklámberendezések, cégérek és egyéb műszaki berendezések elhelyezésére és alkalmazására, illetve tilalmára
+d) a reklámok, reklámhordozók, cégérek és egyéb műszaki berendezések elhelyezésére és alkalmazására, illetve tilalmára
 
 vonatkozó településképi követelményt tartalmazhat.
 
