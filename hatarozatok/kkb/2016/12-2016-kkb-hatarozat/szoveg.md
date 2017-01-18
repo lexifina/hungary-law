@@ -1,0 +1,3 @@
+1. A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) a jelen határozat mellékletét képző, a katasztrófakockázat-értékelési rendszer kiépítéséről szóló KEHOP-1.1.0 projekt megvalósítási helyzetéről szóló tájékoztatót megtárgyalta, és az abban foglaltakat elfogadja, valamint felhívja az érintetett szervezeteket a projekt ütemezett végrehajtására.
+
+2. A KKB felhívja a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy a KKB Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
