@@ -4,4 +4,6 @@ a) dr. Köpeczi-Bócz Tamást a Társadalmi Megújulás Operatív Program monito
 
 b) Schanda Tamás Jánost, az Emberi Erőforrások Minisztériuma európai uniós fejlesztéspolitikáért felelős államtitkárát a Társadalmi Megújulás Operatív Program monitoring bizottsága elnökévé – 2016. december 6-ai hatállyal – kinevezem.
 
-2. Visszavonom a 2007–2013 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek felmentéséről és új elnökök kinevezéséről szóló 112/2014. (IX. 16.) ME határozat 1. pontjában a „dr. Köpeczi-Bócz Tamást, az Emberi Erőforrások Minisztériuma EU fejlesztések koordinációjáért és stratégiákért felelős helyettes államtitkárát a Társadalmi Megújulás Operatív Program Monitoring Bizottsága,” szövegrészt.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
