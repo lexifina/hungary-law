@@ -1,0 +1,3 @@
+1. A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) a jelen határozat mellékletét képző, a kárpátaljai felhagyott aknaszlatinai sóbánya Tisza folyóra kifejtett környezeti hatásait, a felszíni beomlások okozta katasztrófahelyzet megszüntetésének lehetőségeit vizsgáló Európai Polgári Védelmi Mechanizmus független szakértői csoportjának tevékenységéről szóló tájékoztatót megtárgyalta, és az abban foglaltakat elfogadja.
+
+2. A KKB felhívja a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy a KKB Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
