@@ -16,4 +16,6 @@ e) a takarékbetét-szerződés alapján elhelyezett összeg, ha azt a hitelint�
 
 (4) A (2) bekezdés ugyanazon pontjában szereplő összegek közül előbb az alacsonyabb kamatozású betétösszegeket, majd ezt követően a magasabb kamatozású betétösszegeket, az azonos kamatozású betétösszegek közül előbb a korábban lekötött betétösszegeket, majd ezt követően a később lekötött betétösszegeket kell végrehajtás alá vonni.
 
-(5) A végrehajtást foganatosító hatóság rendelkezését az abban foglalt pénznemtől függetlenül forintban kell teljesíteni a pénzforgalmi szolgáltató által jegyzett – a teljesítés napján érvényes – devizavételi árfolyam figyelembevételével.
+(5) A (2) bekezdés a)–e) pontjában meghatározott sorrendtől eltérően az európai számlazárolási végzés végrehajtása során a pénzforgalmi szolgáltató az (1) bekezdésben meghatározott kiterjesztést a 655/2014/EU rendelet 24. cikk (7) bekezdésében meghatározott sorrend szerint végzi el.
+
+(6) A végrehajtást foganatosító hatóság rendelkezését az abban foglalt pénznemtől függetlenül forintban kell teljesíteni a pénzforgalmi szolgáltató által jegyzett – a teljesítés napján érvényes – devizavételi árfolyam figyelembevételével.

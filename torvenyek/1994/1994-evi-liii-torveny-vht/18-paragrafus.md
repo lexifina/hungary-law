@@ -6,4 +6,4 @@ a) a követelés több végrehajtást kérőt illet meg, és a követelésnek az
 
 b) a követelés több adóssal szemben áll fenn.
 
-(3) A végrehajtási lap eredeti példánya a bíróságnál marad. A végrehajtási lapról annyi kiadmányt kell készíteni, hogy a végrehajtó, az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) hivatali szerve, valamint minden végrehajtást kérő és adós (a továbbiakban együtt: felek) egy-egy példányt kapjanak.
+(3) A végrehajtási lap eredeti példánya a bíróságnál marad. A végrehajtási lapról annyi kiadmányt kell készíteni, hogy a végrehajtó, az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a Kar hivatali szerve, valamint minden végrehajtást kérő és adós (a továbbiakban együtt: felek) egy-egy példányt kapjanak.

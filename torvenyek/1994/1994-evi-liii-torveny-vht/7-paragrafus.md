@@ -11,3 +11,5 @@ b) a betétszerződés és takarékbetét-szerződés alapján takarékbetétkö
 (4) A bírósági végrehajtás során a pénzforgalmi szolgáltatónál kezelt összegre irányadó szabályokat kell alkalmazni a tőkepiacról szóló törvény szerinti ügyfélszámlán nyilvántartott, az adós rendelkezése alatt álló összegre is.
 
 (5) A bíróság és a végrehajtó a végrehajtási eljárás során szükség esetén megkeresi az adóhatóságot a hozzá bejelentett pénzforgalmi számlaszámok közlése végett, továbbá a pénzforgalmi szolgáltatókat az adós náluk kezelt pénzösszegeinek végrehajtás alá vonásához szükséges adatok (számlaszám) közlése végett.
+
+(6) A Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) az (5) bekezdésnek megfelelően keresi meg a pénzforgalmi szolgáltatókat akkor, ha a polgári és kereskedelmi ügyekben a tagállamközi követelésbehajtás megkönnyítése érdekében az ideiglenes számlazárolást elrendelő európai végzés eljárásának létrehozásáról szóló, 2014. május 15-i 655/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 655/2014/EU rendelet) 14. cikke szerinti információs hatóságként jár el.

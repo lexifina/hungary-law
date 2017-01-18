@@ -68,3 +68,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2016-11-26 | 2016. évi CXXI. törvény | 1994-53-00-00.120 |
 | 2016-12-23 | 2016. évi CLVIII. törvény | 1994-53-00-00.121 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1994-53-00-00.122 |
+| 2017-01-18 | 2016. évi LXVII. törvény | 1994-53-00-00.123 |
