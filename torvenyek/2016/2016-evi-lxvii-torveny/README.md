@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-67-00-00
 | 2016-12-23 | 2016. évi CLVIII. törvény | 2016-67-00-00.10 |
 | 2017-01-01 | 2016. évi CX. törvény | 2016-67-00-00.11 |
 | 2017-01-02 | 2010. évi CXXX. törvény | 2016-67-00-00.12 |
+| 2017-01-18 | 2016. évi CIV. törvény | 2016-67-00-00.13 |

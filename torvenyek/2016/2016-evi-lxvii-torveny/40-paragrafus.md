@@ -1,0 +1,3 @@
+## „(6) A Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) az (5) bekezdésnek megfelelően keresi meg a pénzforgalmi szolgáltatókat akkor, ha a polgári és kereskedelmi ügyekben a tagállamközi követelésbehajtás megkönnyítése érdekében az ideiglenes számlazárolást elrendelő európai végzés eljárásának létrehozásáról szóló, 2014. május 15-i 655/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 655/2014/EU rendelet) 14. cikke szerinti információs hatóságként jár el.”
+
+40. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 18. § (3) bekezdése helyébe a következő rendelkezés lép:
