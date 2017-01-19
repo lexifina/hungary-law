@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-174-00-00
 | --- | --- | --- |
 | 2017-01-18 | 2016. évi CLXXIV. törvény | 2016-174-00-00.0 (közlönyállapot) |
 | 2017-01-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-174-00-00.1 |
+| 2017-01-19 | 2010. évi CXXX. törvény | 2016-174-00-00.2 |
