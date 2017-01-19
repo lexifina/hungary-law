@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-95-00-00
 | 2016-10-12 | 2016. évi XCV. törvény | 2016-95-00-00.0 (közlönyállapot) |
 | 2016-10-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-95-00-00.1 |
 | 2017-01-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-95-00-00.2 |
+| 2017-01-19 | 2010. évi CXXX. törvény | 2016-95-00-00.3 |
