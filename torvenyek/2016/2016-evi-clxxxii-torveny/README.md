@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-182-00-00
 | 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-182-00-00.5 |
 | 2017-01-02 | 2010. évi CXXX. törvény | 2016-182-00-00.6 |
 | 2017-01-03 | 2010. évi CXXX. törvény | 2016-182-00-00.7 |
+| 2017-01-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-182-00-00.8 |
