@@ -1,0 +1,5 @@
+1. A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 7. §-a, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 8. §-a, a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1150/2012. (V. 15.) Korm. határozat rendelkezései alapján a KKB 2017. évi munkatervét a mellékletben foglaltak szerint elfogadja.
+
+2. A KKB felhívja a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy az Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
+
+3. Ez a határozat a közzétételét követő napon lép hatályba.
