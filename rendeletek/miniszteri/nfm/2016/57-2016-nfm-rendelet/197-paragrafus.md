@@ -1,0 +1,3 @@
+197. § (1) Forgalmi körbe való belépési engedélyt egy légijárműnek akkor lehet kiadni, ha a forgalmi körülmények még nem teszik lehetővé a leszállási engedély kiadását, és ezért szükséges, hogy a légijármű az érvényes forgalmi kör szerint közelítse meg a leszálló területet. A körülményektől és a forgalmi helyzettől függően a légijárműnek engedélyezhető a csatlakozás a forgalmi kör bármely pontjához.
+
+(2) Műszer szerinti megközelítést végző érkező légijárműnek a leszállást elsősorban egyenes megközelítésből kell engedélyezni, kivéve, ha a leszállásra használatos futópályához látás alapján végrehajtott körözés végrehajtása van előírva.

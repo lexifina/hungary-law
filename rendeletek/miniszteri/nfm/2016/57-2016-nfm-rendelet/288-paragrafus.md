@@ -1,0 +1,1 @@
+## 287. § A kitörés előtti vulkántevékenységről, a vulkán kitörésről és a vulkáni hamufelhőkről, a hamufelhők helyzetéről és az érintett repülési szintekről szóló tájékoztatásokat a 285. § (1) bekezdésben meghatározott módszerek közül legalább eggyel kell megadni a légijárműveknek.

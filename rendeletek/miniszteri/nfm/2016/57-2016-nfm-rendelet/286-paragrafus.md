@@ -1,0 +1,3 @@
+286. § (1) A megfelelő SIGMET és AIRMET tájékoztatásokat, valamint azokat a különleges légijelentéseket, amelyeket a SIGMET összeállításakor még a SIGMET-be nem építettek be, a 285. § (1) bekezdésben meghatározott módszerek közül legalább eggyel meg kell adni a légijárművek számára. A különleges légijelentéseket azok kiadásától számítva 60 percen keresztül kell továbbítani a légijárművek számára.
+
+(2) A földi állomások vagy helyek kezdeményezésére a légijármű számára továbbítandó különleges légijelentéseket, SIGMET és AIRMET tájékoztatásokat úgy kell megadni, hogy azok a légijármű repülési útvonalának egyórás szakaszára terjedjenek ki.

@@ -1,0 +1,5 @@
+89. § (1) Ha egy légijármű az indulási repülőtéren közbenső leszállásokkal végzett repülés különböző szakaszaira nyújt be repülési terveket, akkor a kezdeti engedélyhatár az első rendeltetési repülőtér, és a repülés ezt követő minden egyes szakaszára új engedélyt kell kiadni.
+
+(2) A közbenső leszállásokkal végzett repülés második szakaszára és minden egyes azt követő szakaszra vonatkozó repülési terv – a (3) bekezdés kivételével – akkor válik aktívvá ATS és kutatási és mentési célokra (search and resque, a továbbiakban: SAR) célokra, ha az illetékes ATS egység értesítést kapott arról, hogy a légijármű az adott indulási repülőtérről elindult.
+
+(3) Az ATC egységek és a légijármű üzemben tartója közötti előzetes megállapodás alapján, menetrend szerint közlekedő légijármű esetén, ha a repülés tervezett útvonala egynél több ellenőrzött légtéren vezet keresztül, a repülés a közbenső leszállásokon keresztül engedélyezhető azzal a feltétellel, hogy az érintett ACC-kkel erről előzetesen koordinálnak.

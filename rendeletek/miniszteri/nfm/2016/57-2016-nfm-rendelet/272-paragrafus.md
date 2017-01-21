@@ -1,0 +1,7 @@
+272. § (1) Azt a légijárművet, amelyet valamely végső megközelítést kiszolgáló berendezésre vektorálnak, utasítani kell, hogy jelentse, ha ráállt a végső megközelítési útirányra. A megközelítésre adott engedély meg kell, hogy előzze a légijármű azon jelentését, hogy ráállt valamely standard bevezető berendezésre, kivéve, ha a körülmények az engedély ilyen időben történő kiadását kizárják. Rendes körülmények között a vektorálás akkor ér véget, amikor a légijármű eltér a számára utoljára kiadott iránytól, hogy ráálljon a végső megközelítési egyenesre.
+
+(2) Ugyanazon végső megközelítési egyenesen egymást követő légijárművek között a 113. alcímben meghatározott elkülönítés biztosításáért a bevezető légiforgalmi irányító felelős, kivéve, ha az irányítás felelőssége a megfelelő ATS felderítő rendszerrel rendelkező repülőtéri légiforgalmi irányítónak a munkahelyi eljárásokban vagy együttműködési megállapodásban rögzítettek szerint átadásra került.
+
+(3) A végső megközelítési egyenesen egymást követő légijárművek irányítás átadását a repülőtéri légiforgalmi irányítónak a munkahelyi eljárásokban vagy együttműködési megállapodásban előírtak szerint kell végrehajtania.
+
+(4) A repülőtéri légiforgalmi irányítónak történő összeköttetés átadásnak egy olyan pontnál vagy időben kell megtörténnie, amikor a leszállási engedély vagy egyéb eltérő utasítás a légijármű számára még kellő időben kiadható.

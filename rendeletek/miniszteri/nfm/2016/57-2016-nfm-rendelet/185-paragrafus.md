@@ -1,0 +1,3 @@
+185. § (1) Ha a repülőtéri légiforgalmi irányító a légijármű rendellenes működésére utaló jeleket és körülményeket észlel, vagy ilyeneket jelentettek neki, különösen, ha a futómű nincs vagy csak részben van kibocsátva, vagy a légijármű bármely része szokatlanul füstöl, erről az érintett légijárművet késedelem nélkül értesítenie kell.
+
+(2) Ha valamely felszálló légijármű a hajózó személyzet feltételezése szerint megsérült, a személyzet kérésére késedelem nélkül ellenőrizni kell a légijármű által használt futópályát és a lehető leggyorsabban közölni kell a légijármű személyzetével, hogy találtak-e a futópályán bármilyen, légijárműből származó részt, vagy madár, illetve egyéb állati maradványokat.

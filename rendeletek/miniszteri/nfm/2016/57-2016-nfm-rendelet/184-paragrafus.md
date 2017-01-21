@@ -1,0 +1,3 @@
+184. § (1) A repülőtéri légiforgalmi irányítónak alkalmaznia kell a 64. alcímben és a 6. melléklet 1. pontjában meghatározott turbulencia elkülönítési minimumokat. Ha a légijármű parancsnokának felelőssége az előtte haladó légijármű keltette turbulencia elkerülése, a repülőtéri légiforgalmi irányítónak figyelmeztetnie kell a légijárművet a turbulencia veszélyre.
+
+(2) A repülőtéri légiforgalmi irányítónak az engedélyek és utasítások kiadásakor figyelembe kell vennie a kiáramló gázsugár és légcsavarszél okozta veszélyeket a guruló, le- és felszálló légijárművekre, különösen egymást keresztező futópályák használata esetén, valamint ezek hatását a repülőtéren mozgó gépjárművekre és személyekre.

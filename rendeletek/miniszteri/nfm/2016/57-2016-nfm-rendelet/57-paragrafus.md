@@ -1,0 +1,3 @@
+57. § (1) Az Lt. 61/A. §-ában meghatározott légiforgalmi szolgálat bejelenti az integrált előzetes repülésiterv-feldolgozó rendszer számára azokat a légtereket, amelyeket az 1206/2011/EU európai bizottsági rendeletben meghatározott láthatósági kód használatával lehet igénybe venni.
+
+(2) Az Lt. 61/A. §-ában meghatározott légiforgalmi szolgálat láthatósági kódot kizárólag olyan légijármű részére oszthat ki, amelynél az Integrált Előzetes Repülési Terv Feldolgozó Rendszertől (Integrated Initial Flight Plan Processing System, a továbbiakban: IFPS) kapott tájékoztatás szerint az egyedi légijármű-azonosítás a repülés teljes útvonalán a fedélzetről a földre küldött légijármű azonosító jelek alkalmazásával valósul meg.

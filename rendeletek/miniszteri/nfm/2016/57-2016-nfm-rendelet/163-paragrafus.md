@@ -1,0 +1,5 @@
+163. § (1) Az egymást követő megközelítést végző légijárművek között alkalmazandó időközök vagy hosszirányú távolságok megállapításánál figyelembe kell venni az egymást követő légijárművek között a relatív sebességet, a futópálya és a meghatározott pont távolságát, a turbulencia elkülönítés alkalmazásának szükségességét, a futópálya foglaltságok időtartamait, az uralkodó meteorológiai körülményeket és minden egyéb olyan körülményt, amely befolyással bír a futópálya foglaltsági időre.
+
+(2) Ha az irányító szolgálatot ellátó egység ATS felderítő rendszert használ a bevezetési sorrend megállapítására, az egymást követő légijárművek között tartandó minimális távolságot munkahelyi előírásokban kell meghatározni.
+
+(3) A munkahelyi előírásokban meg kell határozni azokat a körülményeket, amikor a megközelítést végző légijárművek között megnövelt hosszirányú távolság alkalmazása válhat szükségessé, és meg kell határozni azokat az elkülönítési minimumokat is, amelyeket ilyen körülmények között használni kell.

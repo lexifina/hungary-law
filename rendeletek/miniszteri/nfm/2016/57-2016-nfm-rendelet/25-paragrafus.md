@@ -1,0 +1,5 @@
+25. § (1) Az illetékes polgári légiforgalmi irányító egységnek, vagy az időszakosan korlátozott légtérben illetékes katonai repülésirányító egységnek vektorálással kell biztosítania, hogy az irányításuk alatt álló légijárművek – az átadásra kerülő légijárművek kivételével – az időszakosan korlátozott légtér oldalhatárához 2,5 NM-nél közelebb ne kerüljenek, kivéve, ha külön koordinálással biztosítják a szomszédos légterekben működő légijárművek megfelelő elkülönítését.
+
+(2) A katonai légvédelmi irányítóegység feladata az időszakosan korlátozott légtér magassági határain kívül eső első IFR utazómagasságot használó polgári légijárműtől a megfelelő magassági elkülönítés biztosítása.
+
+(3) A működő időszakosan korlátozott légteret engedéllyel átrepülő, a polgári légiforgalmi irányító egység irányítása alatt álló polgári légijármű számára a katonai légvédelmi irányító egységnek elkülönítést – beleértve a nagysebességű katonai VFR szerint működő légijármű és a polgári VFR légijármű elkülönítését is – kell biztosítania.
