@@ -1,0 +1,5 @@
+11. § (1) Helikopterrel vizet kiemelni, tűzoltóballonnal repülni, valamint tüzet oltani csak az erre a célra rendszeresített és a tűzoltási, műszaki mentési tevékenységhez kapcsolódó tűzvédelmi technika alkalmazhatóságáról szóló miniszteri rendelet szerint bevizsgált eszközzel lehet, az adott légijármű légiüzemeltetési utasításában az összefüggő vízfelület feletti és a külső súllyal történő repülésre meghatározott szabályok szerint.
+
+(2) Vízkiemeléskor a 10. § (2) bekezdésében foglaltakon túl figyelembe kell venni a vízfelület hullámzásának mértékét és a vízmélységet is, valamint tekintetbe kell venni a ballon kiemelésekor jelentkező többletteljesítmény-szükségletet.
+
+(3) Tűzoltáskor vizet vagy más oltószert kiengedni csak a felszínen oltást végzőkkel való egyeztetést követően, tőlük biztonságos távolságban szabad. Az oltás helyének megközelítésekor és az oltás helye feletti repüléskor fokozottan figyelembe kell venni a szél irányát és sebességét, a forró légáram okozta teljesítménycsökkenést, valamint a füst okozta korlátozott látást.
