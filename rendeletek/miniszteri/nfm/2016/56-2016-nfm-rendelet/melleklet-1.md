@@ -1,3 +1,5 @@
-## 96. § Hatályát veszti a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet.
+## 96. §[^1]
 
 1. melléklet az 56/2016. (XII. 22.) NFM rendelethez
+
+[^1]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
