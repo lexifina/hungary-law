@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-18-20-5
 | --- | --- | --- |
 | 2016-12-31 | 2016-18-20-5Z.1 | 18/2016. (XII. 23.) MEKH rendelet |
 | 2017-01-01 | 2016-18-20-5Z.2 | 2010: CXXX. törvény |
+| 2017-01-23 | 2016-18-20-5Z.3 | 2010: CXXX. törvény |

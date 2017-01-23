@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2017. január 23-án lép hatályba.
+## 2. § Az R. 1. melléklete helyébe e rendelet 1. melléklete lép.
