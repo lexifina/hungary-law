@@ -1,0 +1,5 @@
+## 7. § A 4. § (9) bekezdése szerinti keretátcsoportosítás engedélyezését követően – a rendelkezésre álló forrás figyelembevételével – a támogatási igény forráshiány miatti elutasításáról vagy a támogatás arányos csökkentéséről a Kincstár jogosult dönteni.
+
+8. § (1) A Kincstár a támogatás összegét – a forrás rendelkezésre állása esetén – annak megállapításától számított harminc napon belül utalja át a kérelmező ügyfél-nyilvántartási rendszerbe bejelentett fizetési számlájára. Ha forrás nem áll rendelkezésre, az átutalási határidő azon a napon kezdődik, amelyen a forrás a Kincstárnál rendelkezésre áll.
+
+(2) Az euróban meghatározott támogatás forintban kerül kifizetésre. Az euró-forint átváltásra az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euro használata tekintetében történő kiegészítéséről szóló, 2014. március 11-i 907/2014/EU felhatalmazáson alapuló bizottsági rendelet 34. cikkének (1) bekezdésében foglaltakat kell alkalmazni.
