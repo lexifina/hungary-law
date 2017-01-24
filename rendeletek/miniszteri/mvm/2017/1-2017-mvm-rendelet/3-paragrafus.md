@@ -1,0 +1,1 @@
+## 2. § A 2. mellékletben kiadásra kerülő egyes szakmai és vizsgakövetelményekben feltüntetett szakmai előképzettségen túl az adott szakképesítés tekintetében szakmai előképzettségnek kell tekinteni a korábban kiadott azonos megnevezésű, állam által elismert szakképesítéseket is.
