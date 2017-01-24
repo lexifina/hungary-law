@@ -1,5 +1,0 @@
-1. § (1) A közigazgatási és igazságügyi miniszter ágazatába tartozó szakképesítések felsorolását az 1. melléklet tartalmazza.
-
-(2) A közigazgatási és igazságügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeit a 2. melléklet tartalmazza.
-
-(3) A 3. melléklet tartalmazza az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendeletben [a továbbiakban: 37/2003. (XII. 27.) OM rendelet], az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendeletben [a továbbiakban: 1/2006. (II. 17.) OM rendelet], az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendeletben [továbbiakban: 133/2010. (IV. 22.) Korm. rendelet] és az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendeletben [a továbbiakban: 150/2012. (VII. 6.) Korm. rendelet] szereplő szakképesítésekre – külön jogszabályok alapján – megszerzett jogosultságok megfeleltetését.
