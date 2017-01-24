@@ -1,0 +1,27 @@
+# A Kormány 11/2017. (I. 24.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 9. szám, 2017. január 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6943e542c145004e445832de0b2bed4f0545cb2c/dokumentumok/81757c9c10e6bc4ea5410d2490e4ccd6ca2d91a4/letoltes)
+
+---
+
+A Kormány 11/2017. (I. 24.) Korm. rendelete
+a Magyar Művészeti Akadémia Titkársága fenntartói kötelezettség ellátására történő kijelöléséről
+A Kormány a Magyar Művészeti Akadémia működésével kapcsolatos egyes kérdésekről szóló 2013. évi CLVII. törvény 3. §-ában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. § (1) A Kormány a Magyar Művészeti Akadémia Titkárságát jelöli ki a Budapest 24429/1 helyrajzi szám alatt nyilvántartott,
+természetben a Budapest V. kerület, Vigadó tér 2. szám alatt található ingatlan tekintetében megvalósított
+KMOP-3.1.1/C-09-2009-0020 azonosító számú, „Galéria és panorámaterasz létrehozása Budapest több ütemben
+kialakítandó legrangosabb kulturális palotájában, a Pesti Vigadó épületében” című projekt (a továbbiakban: Projekt)
+fenntartási kötelezettségének – a Projekt eredeti kedvezményezettjének jogutódjaként történő – ellátására.
+(2) A Magyar Művészeti Akadémia Titkársága e rendelet hatálybalépésének napjától gyakorolja a Projekttel kapcsolatos
+jogokat és terhelik az azzal kapcsolatos kötelezettségek.
+2. §
+A Projekt kedvezményezettje mint jogelőd és az 1. § (1) bekezdése szerinti jogutódja megállapodást kötelesek
+kötni a Projekt átadásának jogszabályban nem szabályozott kérdéseinek rendezése céljából. E megállapodásban
+részletesen meg kell határozniuk az elszámolásra, a Projekt szerinti beruházás jelenértékére és a fenntartási
+költségekre vonatkozó szabályokat.
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
