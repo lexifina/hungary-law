@@ -1,4 +1,4 @@
-## 6/C. §[^34]
+## 6/C. §[^36]
 
 (1) Kép- és hangarchívumban magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
 
@@ -18,4 +18,4 @@ a) rendelkezik szakirányú felsőfokú végzettséggel és szakképzettséggel,
 
 b) a végzettségének és szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
 
-[^34]: A 6/C. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
+[^36]: A 6/C. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.

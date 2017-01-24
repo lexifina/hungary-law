@@ -2,6 +2,8 @@
 
 ## 8. §
 
-(1) Kulturális intézmény főigazgatójának vagy igazgatójának és helyetteseiknek vezetői megbízása megszűnésekor — a szakmai alkalmatlanság esetét kivéve —, illetve kiemelkedő munkát végző közalkalmazottaknak a munkáltató ,,címzetes főigazgató'', illetőleg ,,címzetes igazgató'' címet adományozhat.
+(1)[^62] Kulturális intézmény főigazgatójának vagy igazgatójának vezetői megbízása megszűnésekor — a szakmai alkalmatlanság esetét kivéve —, a munkáltató ,,címzetes főigazgató'', illetőleg ,,címzetes igazgató'' címet adományozhat.
 
 (2) Szólista feladatokat is ellátó énekkari tag részére ,,címzetes magánénekes'', illetve tánckari tag részére ,,címzetes magántáncos'' címet adományozhat a munkáltató.
+
+[^62]: A 8. § (1) bekezdése a 9/2017. (I. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.

@@ -32,6 +32,14 @@ b) a felsőfokú szakirányú végzettségének és szakképzettségének vagy a
 
 (3) Az (1) bekezdés b) és d) pontjában foglalt követelményt a városi és a községi könyvtár vezetője esetén nem kötelező alkalmazni.
 
-(4) Könyvtárban magasabb vezető beosztáshoz a 2009 után szerzett főiskolai könyvtárosi képzettség esetén az (1) bekezdés c) pontjától eltérően legalább tíz éves szakmai gyakorlat, vezető beosztáshoz a (2) bekezdés b) pontjától eltérően legalább öt éves szakmai gyakorlat szükséges.
+(4)[^34] Községi könyvtár kivételével könyvtárban az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki az (1) bekezdésben meghatározott követelményeknek megfelel, továbbá
+
+a) a könyvtári minőségirányítás területén 120 órás képzés keretében szerzett ismeretekkel rendelkezik, vagy
+
+b) a magasabb vezető beosztás ellátására irányuló pályázata benyújtásakor az a) pont szerinti képzésben vesz részt, és azt igazolja.
+
+(5)[^35] A (4) bekezdés b) pontjának alkalmazása esetén a képzés elvégzését a magasabb vezetői megbízás kezdetétől számított 2 éven belül igazolni kell, ennek hiányában a munkáltató a magasabb vezetői megbízást visszavonja.
 
 [^33]: A 6/B. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
+[^34]: A 6/B. § (4) bekezdése a 9/2017. (I. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^35]: A 6/B. § (5) bekezdését a 9/2017. (I. 23.) Korm. rendelet 1. §-a iktatta be.
