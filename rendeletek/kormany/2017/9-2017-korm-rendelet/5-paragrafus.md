@@ -1,0 +1,1 @@
+## „(3) A muzeális intézményi szakmai munkakörök betöltéséhez előírt szakvizsgával egyenértékűnek elismert vizsgát igazol az intézmény alaptevékenységének megfelelő, szakirányú továbbképzésben szerzett oklevél.”
