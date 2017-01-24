@@ -1,0 +1,5 @@
+5. § (1) A kérelmezőnek a kérelmezett támogatás alapjául szolgáló állatlétszámra vonatkozó, a helyszíni ellenőrzés során felhasználható, az igényelt támogatás alapját képező állatállomány megállapítására alkalmas, a szarvasmarha-fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendeletnek (a továbbiakban: ENAR rendelet) megfelelő nyilvántartással kell rendelkeznie, továbbá eleget kell tennie az ENAR rendeletben meghatározott állatjelölési, nyilvántartási és bejelentési kötelezettségeknek. A Kincstár jogosult a kérelmezők 5%-ánál helyszíni ellenőrzést végezni.
+
+(2) A termelői csoportban vagy termelői szervezetben fennálló tagságot a Kincstár a Földművelésügyi Minisztérium által nyilvántartott és átadott adatok alapján ellenőrzi.
+
+(3) Ha a helyszíni ellenőrzés során az ügyfél nem igazolja a 2016. április 30-ai állatlétszámának csökkenését vagy szinten tartását, akkor az adott kifizetési kérelem alapján igénybevett támogatás teljes összege jogosulatlanul igénybe vett támogatásnak minősül.
