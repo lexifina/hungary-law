@@ -1,0 +1,7 @@
+1. § (1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény végrehajtásáról a művészeti, a közművelődési és a közgyűjteményi területen foglalkoztatott közalkalmazottak jogviszonyával összefüggő egyes kérdések rendezésére című 150/1992. (XI. 20.) Korm. rendelet (a továbbiakban: Kjtvhr.) 21. §-a szerinti, 2017. január – 2017. november hónapra számfejtésre kerülő kulturális illetménypótlékhoz (a továbbiakban: kulturális illetménypótlék) és annak szociális hozzájárulási adójához kapcsolódóan a helyi önkormányzat és a nemzetiségi önkormányzat az e rendeletben meghatározottak szerint támogatásra jogosult.
+
+(2) A helyi önkormányzat és a nemzetiségi önkormányzat a támogatásra az után a foglalkoztatott után jogosult, aki kulturális illetménypótlékra jogosult, és aki esetében a kulturális illetménypótlék teljes összege tényleges bérnövekedésként jelenik meg.
+
+(3) A támogatás kizárólag a 2017. január – 2017. november havi foglalkoztatással összefüggésben kifizetett kulturális illetménypótlékra, továbbá az arra tekintettel ténylegesen megfizetett szociális hozzájárulási adóhoz használható fel; a támogatás terhére más jogcímen kifizetés nem teljesíthető. Nem nyújtható támogatás a kulturális illetménypótléknak a Kjtvhr. 5. mellékletében meghatározott mértékén felül nyújtott összege és az arra tekintettel fizetendő szociális hozzájárulási adó kifizetéséhez.
+
+(4) A támogatás felhasználásának határideje: 2017. december 31.
