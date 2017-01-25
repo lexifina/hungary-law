@@ -6,7 +6,7 @@
 
 (1c)[^631] Az (1) bekezdéstől eltérően pénzforgalmi számla helyett korlátozott rendelkezésű számlára is utalható támogatás, ha a korlátozott rendelkezésű számla az e rendelet hatálya alá tartozó támogatásból megvalósuló projekt megvalósítása érdekében került megnyitásra.
 
-(1d)[^632] Előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást nem lehet zálogjogosult részére vagy korlátozott rendelkezésű számlára utalni.
+(1d)[^632] Előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást nem lehet zálogjogosult részére vagy korlátozott rendelkezésű számlára utalni, kivéve központi költségvetési szerv, helyi önkormányzat, önkormányzati társulás, valamint közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság kedvezményezett esetén a szállítói előlegnek vagy szállítói finanszírozású számla támogatástartalmának megfelelő támogatásnak a szállítóval zálogszerződést kötött zálogjogosult részére vagy korlátozott rendelkezésű számlára történő utalását.
 
 (2)[^633] A támogatás folyósításának feltétele utófinanszírozás és szállítói finanszírozás esetén – az átalány alapú elszámolás, a mezőgazdasági kockázatkezelési támogatás, valamint a jövedelem-kompenzációs támogatások kivételével – a fizikai és pénzügyi teljesítés igazolása a kedvezményezett által benyújtott kifizetési igénylésben. Szállítói finanszírozás esetén, ha a 128. § (3) bekezdés alkalmazására kerül sor, a pénzügyi teljesítést a támogatás 90%-ának kifizetéséig nem kell igazolni.
 
@@ -26,6 +26,6 @@ b) nettó tervezés esetén – az ÁFA-törvény 142. §-a szerinti fordított 
 [^629]: A 129. § (1a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be.
 [^630]: A 129. § (1b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be.
 [^631]: A 129. § (1c) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be.
-[^632]: A 129. § (1d) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be.
+[^632]: A 129. § (1d) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be, szövege a 12/2017. (I. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^633]: A 129. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 76. § (1) bekezdésével megállapított szöveg.
 [^634]: A 129. § (5) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 29. pontja szerint módosított szöveg.

@@ -22,12 +22,13 @@ fb) a támogatási összeg műszaki és pénzügyi teljesítés esetén is csak 
 
 fc) a támogatási szerződésben meghatározott támogatási összeg a támogatási jogviszony fennállása alatt csökkenhet, ez esetben a támogató csak a csökkentett összeget utalja részére,
 
-fd) előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást a támogató nem utal részére.
+fd)[^637] előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást – a 129. § (1d) bekezdésében meghatározott kivétellel – a támogató nem utal részére.
 
-(2b)[^637] Zálogjogosultként az irányító hatóság kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézeteket és pénzügyi vállalkozásokat fogadja el.
+(2b)[^638] Zálogjogosultként az irányító hatóság kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézeteket és pénzügyi vállalkozásokat fogadja el.
 
-(3)[^638] Az irányító hatóság az engedményezésekkel kapcsolatos adatokat a monitoring és információs rendszerben nyilvántartja.
+(3)[^639] Az irányító hatóság az engedményezésekkel kapcsolatos adatokat a monitoring és információs rendszerben nyilvántartja.
 
 [^636]: A 130. § (2a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
-[^637]: A 130. § (2b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
-[^638]: A 130. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^637]: A 130. § (2a) bekezdés f) pont fd) alpontja a 12/2017. (I. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^638]: A 130. § (2b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
+[^639]: A 130. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 77. §-ával megállapított szöveg.
