@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti a közigazgatási és igazságügyi miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről, valamint egyes igazságügyi tárgyú rendeletek módosításáról szóló 28/2014. (IV. 24.) KIM rendelet.
+## 5. §[^2]
 
 1. melléklet az 1/2017. (I. 23.) MvM rendelethez
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
