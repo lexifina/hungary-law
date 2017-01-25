@@ -623,3 +623,7 @@
 3. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
 (2) E rendelet végrehajtásához szükséges intézkedésekről az európai uniós források felhasználásáért felelős miniszter gondoskodik.
+
+(3)[^1] A Megállapodás módosításokkal egységes szerkezetbe foglalt hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása közzétételéről az európai uniós források felhasználásáért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (3) bekezdését a 10/2017. (I. 24.) Korm. rendelet 1. §-a iktatta be.
