@@ -1,0 +1,1 @@
+A Kormány a Magyar Művészeti Akadémia működésével kapcsolatos egyes kérdésekről szóló 2013. évi CLVII. törvény 3. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

@@ -1,0 +1,3 @@
+1. § (1) A Kormány a Magyar Művészeti Akadémia Titkárságát jelöli ki a Budapest 24429/1 helyrajzi szám alatt nyilvántartott, természetben a Budapest V. kerület, Vigadó tér 2. szám alatt található ingatlan tekintetében megvalósított KMOP-3.1.1/C-09-2009-0020 azonosító számú, „Galéria és panorámaterasz létrehozása Budapest több ütemben kialakítandó legrangosabb kulturális palotájában, a Pesti Vigadó épületében” című projekt (a továbbiakban: Projekt) fenntartási kötelezettségének – a Projekt eredeti kedvezményezettjének jogutódjaként történő – ellátására.
+
+(2) A Magyar Művészeti Akadémia Titkársága e rendelet hatálybalépésének napjától gyakorolja a Projekttel kapcsolatos jogokat és terhelik az azzal kapcsolatos kötelezettségek.
