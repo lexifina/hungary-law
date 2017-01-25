@@ -1,10 +1,10 @@
 1. A Kormány annak érdekében, hogy a külhoni magyar tannyelvű nevelés-oktatás területén elősegítse a határon túli magyarság anyanyelvű iskolahálózatának és intézményrendszerének építését, megerősítését és megtartását, integrálódását az egyetemes magyar oktatási rendszerbe, az egységes Kárpát-medencei oktatási térbe, létrehozza a Külhoni Magyar Oktatási Tanácsot (a továbbiakban: KMOT). A KMOT a diaszpórában, a szórványban és a Kárpát-medencében az anyanyelvű oktatásban résztvevő pedagógusok képzésével és továbbképzésével, a szakmai segédanyagok, tankönyvek, folyóiratok elkészítésével kapcsolatos javaslatok, prioritási rendszerek kidolgozásával, a kétoldalú oktatási programok kisebbségeket érintő kérdéseinek rendezéséhez nyújtott javaslatokkal segíti a szakterület munkáját.
 
-2. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján, a köznevelésért felelős államtitkár külhoni magyar nevelés-oktatás fejlesztését és a határon túli magyar tanulók és hallgatók tanulmányait elősegítő ösztöndíjazó tevékenységét támogató javaslattevő, véleményező, tanácsadói tevékenységet végző tanácsként működteti a KMOT-t.
+2.[^1] A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján, az oktatásért felelős államtitkár külhoni magyar nevelés-oktatás fejlesztését és a határon túli magyar tanulók és hallgatók tanulmányait elősegítő ösztöndíjazó tevékenységét támogató javaslattevő, véleményező, tanácsadói tevékenységet végző tanácsként működteti a KMOT-t.
 
 3. A KMOT feladatai:
 
-a) a nevelés-oktatás különböző szintjeit átfogva az Emberi Erőforrások Minisztériuma köznevelésért felelős államtitkára által irányított egyes szervezeti egységek (a továbbiakban: tárca) szakmai tanácsadó testületeként segíti a szakmai munkát valamennyi, a határon túli magyar nyelvű nevelés-oktatással kapcsolatos kérdésben;
+a)[^2] a nevelés-oktatás különböző szintjeit átfogva az Emberi Erőforrások Minisztériuma oktatásért felelős államtitkára által irányított egyes szervezeti egységek (a továbbiakban: tárca) szakmai tanácsadó testületeként segíti a szakmai munkát valamennyi, a határon túli magyar nyelvű nevelés-oktatással kapcsolatos kérdésben;
 
 b) a tárca döntés-előkészítő testületeként működik a határon túli anyanyelvű képzés stratégiájának kialakításában régiója érdekeit képviselve, de az egységes oktatási tér alapelvei szerinti javaslatokkal;
 
@@ -14,7 +14,7 @@ d) biztosítja a régiók közötti (beleértve az anyaországot is) informáci�
 
 e) biztosítja a határon túli magyar oktatási ösztöndíjazásoknak és a külhoni magyar közösségek értelmiségi utánpótlásához fűzött átfogó oktatáspolitikai céloknak a konkrét szülőföldi képzési igényeknek történő megfeleltetését;
 
-f) segíti a tárcát, mint ösztöndíjazót a határon túli (a szülőföldi) köz- és felsőoktatási sajátosságok feltérképezésében, hozzájárul a meghirdetendő pályázatok szakmai megalapozottságához és a pályázatoknak a határon túli magyar közösségek körében történő minél nagyobb elfogadottságához, a szubszidiaritás elvéből fakadó hitelességéhez;
+f)[^3] segíti a tárcát, mint ösztöndíjazót a határon túli (a szülőföldi) köznevelési és felsőoktatási sajátosságok feltérképezésében, hozzájárul a meghirdetendő pályázatok szakmai megalapozottságához és a pályázatoknak a határon túli magyar közösségek körében történő minél nagyobb elfogadottságához, a szubszidiaritás elvéből fakadó hitelességéhez;
 
 g) javaslataival közreműködik abban, hogy a tárca milyen ösztöndíjformákat hirdessen meg, részt vesz az ösztöndíj pályázatok szakmai előkészítésében, a célcsoportok pontos meghatározásában, a pályázatok tanulmányi, tudományos-kutatói szempontú feltételrendszerének és az elbírálási pontrendszerek főbb tartalmi elemeinek kialakításában;
 
@@ -22,21 +22,21 @@ h) bizottságai révén az ösztöndíj-pályázatok elbírálási folyamatában
 
 4. A KMOT tagjai:
 
-a) elnök (1 fő), akit a köznevelésért felelős államtitkár kér fel és nevez ki a határon túli magyar oktatás elismert külhoni szakértői közül;
+a)[^4] elnök (1 fő), akit az oktatásért felelős államtitkár kér fel és nevez ki a határon túli magyar oktatás elismert külhoni szakértői közül;
 
-b) 7 fő a Külhoni Magyar Közoktatási Bizottság tagjai közül (a bizottság többségi döntéssel hozott delegálásával);
+b)[^5] 7 fő a Külhoni Magyar Köznevelési Bizottság tagjai közül (a bizottság többségi döntéssel hozott delegálásával);
 
 c) 3 fő a Külhoni Magyar Tankönyv- és Taneszköz Bizottság tagjai közül (a bizottság többségi döntéssel hozott delegálásával);
 
 d) 6 fő a Regionális Magyar Felsőoktatási és Ösztöndíj Bizottságokból (6 regionális albizottság részéről 1-1 fő, az albizottságok elnökei).
 
-5. A KMOT és a bizottságok ülésein a Közigazgatási és Igazságügyi Minisztérium Nemzetpolitikáért Felelős Államtitkárság kijelölt képviselője állandó meghívottként, tanácskozási joggal vesz részt.
+5.[^6] A KMOT és a bizottságok ülésein a Miniszterelnökség Nemzetpolitikáért Felelős Államtitkárság kijelölt képviselője állandó meghívottként, tanácskozási joggal vesz részt.
 
 6. A KMOT elnöke, amennyiben valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, további szakértőket hívhat meg. Az eseti meghívottakat a KMOT elnöke kéri fel a KMOT ülésén való részvételre.
 
-7. A KMOT szükség szerint, de évente legalább két alkalommal ülésezik, üléseit a köznevelésért felelős államtitkár hívja össze. Az üléseket a KMOT elnöke vezeti, titkársági teendőit a köznevelésért felelős államtitkár által kijelölt szervezeti egység látja el.
+7.[^7] A KMOT szükség szerint, de évente legalább egy alkalommal ülésezik, üléseit az oktatásért felelős államtitkár hívja össze. Az üléseket a KMOT elnöke vezeti, titkársági teendőit az oktatásért felelős államtitkár által kijelölt szervezeti egység látja el.
 
-8. A KMOT működésének részletes szabályait a KMOT által elfogadott ügyrend tartalmazza, amit első ülésén maga állapít meg és amelyet a köznevelésért felelős államtitkár hagy jóvá.
+8.[^8] A KMOT működésének részletes szabályait a KMOT által elfogadott ügyrend tartalmazza, amit első ülésén maga állapít meg és amelyet az oktatásért felelős államtitkár hagy jóvá.
 
 9. A KMOT működésének költségeit a központi költségvetés Emberi Erőforrások Minisztériuma fejezet költségvetésében (a továbbiakban: költségvetés) kell biztosítani.
 
@@ -46,7 +46,7 @@ d) 6 fő a Regionális Magyar Felsőoktatási és Ösztöndíj Bizottságokból 
 
 12. A KMOT három bizottságot működtet:
 
-a) Külhoni Magyar Közoktatási Bizottság
+a)[^9] Külhoni Magyar Köznevelési Bizottság
 
 A külhoni magyar neveléssel-oktatással kapcsolatos kérdésekben a tárca tanácsadó testülete, döntés előkészítő, javaslattevő, tanácsadó és véleményezési jogkörrel. Szavazati joggal rendelkező tagjai:
 
@@ -86,9 +86,9 @@ bg) Szlovéniából: Muravidéki Pedagógusok Egyesülete (1 fő);
 
 bh) Ukrajnából: Kárpátaljai Magyar Pedagógusszövetség (2 fő).
 
-c) Regionális Magyar Felsőoktatási és Ösztöndíj Bizottságok
+c)[^10] Regionális Magyar Felsőoktatási és Ösztöndíj Bizottságok
 
-A külhoni magyar felsőoktatással és ösztöndíjazással kapcsolatos kérdésekben a tárca szakmai tanácsadó testületei, döntés előkészítő, javaslattevő, tanácsadó és véleményezési jogkörrel. A bizottságok szavazati és tanácskozási jogú tagjait a külhoni magyar tannyelvű oktatás szakértői, illetve a határon túli magyar oktatási szervezetek képviselői közül három éves időtartamra a köznevelésért felelős államtitkár kéri fel.
+A külhoni magyar felsőoktatással és ösztöndíjazással kapcsolatos kérdésekben a tárca szakmai tanácsadó testületei, döntés előkészítő, javaslattevő, tanácsadó és véleményezési jogkörrel. A bizottságok szavazati és tanácskozási jogú tagjait a külhoni magyar tannyelvű oktatás szakértői, illetve a határon túli magyar oktatási szervezetek képviselői közül három éves időtartamra az oktatásért felelős államtitkár kéri fel.
 
 A tanácsnak 6 regionális felsőoktatási és ösztöndíj albizottsága működik:
 
@@ -105,3 +105,14 @@ ce) Szlovákiai Magyar Felsőoktatási és Ösztöndíj Albizottság;
 cf) Vajdasági Magyar Felsőoktatási és Ösztöndíj Albizottság.
 
 13. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont az 1026/2017. (I. 24.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont a) alpontja az 1026/2017. (I. 24.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^3]: A 3. pont f) alpontja az 1026/2017. (I. 24.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
+[^4]: A 4. pont a) alpontja az 1026/2017. (I. 24.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^5]: A 4. pont b) alpontja az 1026/2017. (I. 24.) Korm. határozat 1. pont d) alpontja szerint módosított szöveg.
+[^6]: Az 5. pont az 1026/2017. (I. 24.) Korm. határozat 1. pont e) alpontja szerint módosított szöveg.
+[^7]: A 7. pont az 1026/2017. (I. 24.) Korm. határozat 1. pont f) és g) alpontja szerint módosított szöveg.
+[^8]: A 8. pont az 1026/2017. (I. 24.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^9]: A 12. pont a) alpont nyitó szövegrésze az 1026/2017. (I. 24.) Korm. határozat 1. pont d) alpontja szerint módosított szöveg.
+[^10]: A 12. pont c) alpont nyitó szövegrésze az 1026/2017. (I. 24.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
