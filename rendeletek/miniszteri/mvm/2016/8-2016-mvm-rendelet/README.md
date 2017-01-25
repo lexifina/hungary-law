@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2016-08-25 | 2016-8-20-6N.3 | 23/2016. (VIII. 24.) MvM rendelet |
 | 2016-10-29 | 2016-8-20-6N.4 | 23/2016. (VIII. 24.) MvM rendelet |
 | 2016-12-21 | 2016-8-20-6N.5 | 23/2016. (VIII. 24.) MvM rendelet |
+| 2017-01-25 | 2016-8-20-6N.6 | 23/2016. (VIII. 24.) MvM rendelet |
