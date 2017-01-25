@@ -54,7 +54,7 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1007/2016. (I. 18.) Korm. határozathoz
+1. melléklet az 1007/2016. (I. 18.) Korm. határozathoz[^1]
 
 |  | A | B | C | D | E | F |
 
@@ -161,3 +161,7 @@
 | 51. | magyar– osztrák | Várbalog-Albertkázmér- puszta | Győr-Moson- Sopron | Halbturn (Féltorony) | Burgenland | Mellékút fejlesztése. |
 
 | 52. | magyar– osztrák | Rajka | Győr-Moson- Sopron | Deutsch Jahrndorf (Németjárfalu) | Burgenland | Mellékút fejlesztése. |
+
+| 53. | magyar– szerb | Baja– Hercegszántó | Bács-Kiskun | Sombor (Zombor) | Vajdaság | Főúti fejlesztés előkészítése (valamint Zombor és országhatár közötti szakasz részbeni felújítása) |
+
+[^1]: Az 1. melléklet az 1027/2017. (I. 24.) Korm. határozat szerint módosított szöveg.
