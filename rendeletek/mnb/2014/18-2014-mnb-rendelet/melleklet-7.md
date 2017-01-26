@@ -26,9 +26,9 @@
 
 ## II. A bejelentés tartalma
 
-## 1.1.[^10] Alaptájékoztató engedély száma
+## 1.1.[^24] Alaptájékoztató engedély száma
 
-## 1.2.[^11] Alaptájékoztató engedélyezésének ideje (engedélyező határozat kelte)
+## 1.2.[^25] Alaptájékoztató engedélyezésének ideje (engedélyező határozat kelte)
 
 ## 2. Értékpapír megnevezése és fajtája
 
@@ -72,5 +72,5 @@
 
 7. melléklet a 18/2014. (VI. 3.) MNB rendelethez
 
-[^10]: A 6. melléklet II. 1.1. pontja a 16/2016. (V. 11.) MNB rendelet 3. §-ával megállapított szöveg.
-[^11]: A 6. melléklet II. 1.2. pontja a 16/2016. (V. 11.) MNB rendelet 3. §-ával megállapított szöveg.
+[^24]: A 6. melléklet II. 1.1. pontja a 16/2016. (V. 11.) MNB rendelet 3. §-ával megállapított szöveg.
+[^25]: A 6. melléklet II. 1.2. pontja a 16/2016. (V. 11.) MNB rendelet 3. §-ával megállapított szöveg.

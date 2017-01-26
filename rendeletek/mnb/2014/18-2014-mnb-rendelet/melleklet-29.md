@@ -84,4 +84,6 @@
 
 ## III. Az ajánlattevő csatolja a fedezetigazolást arról, hogy az ajánlattevő megfelelő fedezettel rendelkezik a vételi jog tárgyát képező részvények megszerzéséhez szükséges ellenérték teljesítéséhez
 
-29. melléklet a 18/2014. (VI. 3.) MNB rendelethez
+29. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^28]
+
+[^28]: A 29. mellékletet az 56/2016. (XII. 27.) MNB rendelet 13. §-a hatályon kívül helyezte.

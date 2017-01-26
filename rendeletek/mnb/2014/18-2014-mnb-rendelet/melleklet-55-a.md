@@ -130,6 +130,6 @@
 
 ## 6.2. székhelye
 
-55/A. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^14]
+55/A. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^33]
 
-[^14]: Az 55/A. mellékletet a 16/2016. (V. 11.) MNB rendelet 5. §-a iktatta be.
+[^33]: Az 55/A. mellékletet a 16/2016. (V. 11.) MNB rendelet 5. §-a iktatta be.

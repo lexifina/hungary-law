@@ -1,5 +1,3 @@
-## meghatározott adattartalmú ÁNYK űrlapon kell, az elbíráláshoz szükséges – jogszabályban meghatározott – mellékletekkel együtt benyújtania.
-
 12. § (1) A befektetési alapkezelőnek
 
 1. nyilvános zárt végű értékpapíralap esetén a kibocsátási tájékoztató és a hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására irányuló kérelmét a 72. mellékletben,
@@ -62,6 +60,8 @@
 
 30. a Kbftv. 82. § (7) bekezdésében meghatározott körbe tartozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülés engedélyezése iránti kérelmét a 101. mellékletben
 
+31.[^17] a letétkezelői szerződés hatálybalépésének jóváhagyása iránti kérelmét a 101/A. mellékletben
+
 ## meghatározott adattartalmú elektronikus űrlapon az elbíráláshoz szükséges – jogszabályban meghatározott – mellékletekkel együtt kell benyújtania.
 
 (2) A befektetési alapkezelőnek
@@ -110,4 +110,7 @@ b) a befektetési alap nyilvántartásból való törlése iránti kérelmét, h
 
 (4) Az ABAK-nak az arra irányuló kérelmét, hogy az általa kezelt más EGT-államban engedélyezett uniós ABA kollektív befektetési értékpapírjait Magyarországon lakossági befektetők számára is forgalmazhassa, a 120. mellékletben meghatározott adattartalmú elektronikus űrlapon kell az elbíráláshoz szükséges – jogszabályban meghatározott – mellékletekkel együtt benyújtania.
 
-(5) Az (1) bekezdés 22. pontjában meghatározott esetben a befektetési alapkezelőnek egyidejűleg a 93. mellékletben és a 121. mellékletben meghatározott adattartalmú elektronikus űrlapokat is be kell nyújtania.
+(5)[^18] Az (1) bekezdés 22–24. pontjában meghatározott esetben a befektetési alapkezelőnek egyidejűleg a 121. mellékletben meghatározott adattartalmú elektronikus űrlapot is be kell nyújtania.
+
+[^17]: A 12. § (1) bekezdés 31. pontját az 56/2016. (XII. 27.) MNB rendelet 6. § (1) bekezdése iktatta be.
+[^18]: A 12. § (5) bekezdése az 56/2016. (XII. 27.) MNB rendelet 6. § (2) bekezdésével megállapított szöveg.

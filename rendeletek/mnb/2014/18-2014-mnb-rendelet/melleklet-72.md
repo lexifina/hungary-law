@@ -1,10 +1,10 @@
-## A természetes személy nyilvános ajánlattevő általi kiegészített, részletezett, módosított vételi ajánlat jóváhagyására irányuló kérelem
+## Kérelem bennfentes információ nyilvános közzétételének − a pénzügyi rendszer stabilitásának megőrzése érdekében történő – késleltetése jóváhagyására
 
 | Sorszám | Megnevezés |
 
 | 1. | Ügyfél (kérelmező) neve |
 
-| 2. | Ügyfél (kérelmező) címe |
+| 2. | Ügyfél (kérelmező) székhelye |
 
 | 3. | Ügyfél (kérelmező) képviselőjének neve |
 
@@ -20,34 +20,42 @@
 
 | 9. | Az adott ügyben kapcsolattartásra jogosult személy e-mail címe |
 
-| 10. | Az érintett értékpapír kibocsátójának (céltársaság) neve |
+| 10. | Az ügyfél (kérelmező) típusa |
 
-| 11. | Az érintett értékpapír kibocsátójának (céltársaság) székhelye |
+| 10.1. | hitelintézet |
 
-| 12. | Az érintett értékpapír elnevezése |
+| 10.2. | pénzügyi vállalkozás |
 
-| 13. | Az érintett értékpapír-sorozat ISIN kódja (sorozatonként) |
+| 11. | A bennfentes információ közzétételének késleltetésére vonatkozó határozat dátuma és időpontja |
 
-| 14. | Az érintett értékpapír-sorozat elnevezése |
+| 12. | A közzététel késleltetésére vonatkozó határozatért felelős személy, személyek azonosító adatai |
 
-| 15. | A megbízott befektetési szolgáltató neve |
+| 12.1 | név |
 
-| 16. | A megbízott befektetési szolgáltató székhelye |
+| 12.2 | cím |
 
-| 17. | Kérem, hogy az MNB a 10. pontban meghatározott kibocsátó (céltársaság) 12. pontban meghatározott értékpapírjának a 14. pontban meghatározott értékpapír-sorozata, illetve -sorozatai tekintetében az 1. pontban meghatározott kiegészített, részletezett, módosított vételi ajánlatot tevő vételi ajánlatát hagyja jóvá. |
+| 12.3 | a kibocsátónál betöltött pozíció |
 
-| 18. | Az eredeti vételi ajánlat jóváhagyására irányuló kérelem iktatószáma |
+| 12.4 | munkahelyi e-mail-cím |
 
-| 19. | Jogszabályok által meghatározott mellékletek |
+| 12.5 | munkahelyi telefonszám |
 
-| 20. | Egyéb csatolt dokumentum |
+| 13. | A késleltetéssel érintett bennfentes információ rövid meghatározása |
 
-| 21. | Egyéb megjegyzés |
+| 14. | A bennfentes információ nyilvános közzétételének tervezett időpontja |
 
-| 22. | Nyilatkozom, hogy az engedély kiadása, illetve a jóváhagyás érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel. |
+| 15. | Kérem, hogy az MNB a pénzügyi rendszer stabilitásának megőrzése érdekében hagyja jóvá a 13. pontban meghatározott bennfentes információ nyilvános közzétételének késleltetését. |
 
-| 23. | Keltezés helye |
+| 16. | Jogszabályok által meghatározott mellékletek |
 
-| 24. | Keltezés dátuma |
+| 17. | Egyéb csatolt dokumentum |
+
+| 18. | Egyéb megjegyzés |
+
+| 19. | Nyilatkozom, hogy az engedély kiadása, illetve a jóváhagyás érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel. |
+
+| 20. | Keltezés helye |
+
+| 21. | Keltezés dátuma |
 
 72. melléklet a 18/2014. (VI. 3.) MNB rendelethez

@@ -12,4 +12,6 @@ e) a Tpt. 76. §-ában foglalt – a vételi ajánlatba foglalt ellenérték tel
 
 f) a Tpt. 76/D. § (2) bekezdésében meghatározott – a vételi jog gyakorlására vonatkozó szándékkal kapcsolatos – bejelentési kötelezettségét a 28. mellékletben,
 
-g) a Tpt. 201/B. § (1) bekezdésében meghatározott – a bennfentes személy által kötött ügylet adataira vonatkozó – bejelentési kötelezettségét a 29. mellékletben
+g)[^10] az 596/2014/EU európai parlamenti és tanácsi rendelet 19. cikk (1) bekezdésében meghatározott – a vezetői feladatokat ellátó személyekkel szoros kapcsolatban álló személyek által kötött ügyletekre vonatkozó – bejelentési kötelezettséget a 2016/523/EU bizottsági végrehajtási rendelet mellékletében
+
+[^10]: Az 5. § g) pontja az 56/2016. (XII. 27.) MNB rendelet 2. §-ával megállapított szöveg.

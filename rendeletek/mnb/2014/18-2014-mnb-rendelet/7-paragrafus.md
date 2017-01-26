@@ -6,8 +6,6 @@
 
 (3) Az árjegyzőnek a Tpt. 61. § (12) bekezdés b) pontján alapuló bejelentési kötelezettségét a 39. mellékletben meghatározott adattartalmú elektronikus űrlapon kell teljesítenie.
 
-(4) A befektetési szolgáltatási, kiegészítő szolgáltatási, árutőzsdei szolgáltatási tevékenységet végző személynek
+(4)[^12] A kereskedési helyszínt működtető piaci szereplő és befektetési vállalkozás, valamint a foglalkozásszerűen ügyleteket kötő vagy teljesítő személy az 596/2014/EU európai parlamenti és tanácsi rendelet 16. cikk (1) és (2) bekezdésében meghatározott – a gyanús ügyletekre és megbízásokra vonatkozó – bejelentési kötelezettséget a 2016/957/EU felhatalmazáson alapuló bizottsági rendelet mellékletében meghatározott formanyomtatvány használatával elektronikus űrlapon teljesíti.
 
-a) a Tpt. 205. § (1) és (3) bekezdésében meghatározott – a bennfentes kereskedelemre, illetve piacbefolyásolásra utaló adatra, tényre vagy körülményre vonatkozó – bejelentési kötelezettségét a 40. mellékletben,
-
-b) a Tpt. 205. § (4) bekezdésében meghatározott – a bennfentes kereskedelem, illetve piacbefolyásolásra utaló adat, tény vagy körülmény MNB részére történő bejelentésére kijelölt személy adatainak, vagy azokban bekövetkezett változásokra vonatkozó – bejelentési kötelezettségét a 41. mellékletben
+[^12]: A 7. § (4) bekezdése az 56/2016. (XII. 27.) MNB rendelet 4. §-ával megállapított szöveg.

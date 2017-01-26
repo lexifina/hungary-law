@@ -42,4 +42,6 @@
 
 ## 3. Egyéb információ
 
-40. melléklet a 18/2014. (VI. 3.) MNB rendelethez
+40–41. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^30]
+
+[^30]: A 40–41. mellékletet az 56/2016. (XII. 27.) MNB rendelet 13. §-a hatályon kívül helyezte.

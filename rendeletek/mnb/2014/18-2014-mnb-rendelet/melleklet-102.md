@@ -1,4 +1,4 @@
-## Kérelem a Kbftv. 82. § (7) bekezdésében meghatározott körbe tartozó - ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő - egyesülés engedélyezésére
+## Kérelem a letétkezelői szerződés hatálybalépésének jóváhagyására
 
 | Sorszám | Megnevezés |
 
@@ -26,24 +26,18 @@
 
 | 12. | Az érintett értékpapír-sorozat elnevezése |
 
-| 13. | Az érintett befektetési alap elnevezése |
+| 13. | Kérem, hogy az MNB a 10. pontban meghatározott befektetési alap tekintetében a letétkezelői szerződés hatálybalépését hagyja jóvá. |
 
-| 14. | Az érintett értékpapír-sorozat ISIN kódja (sorozatonként) |
+| 14. | Jogszabályok által meghatározott mellékletek |
 
-| 15. | Az érintett értékpapír-sorozat elnevezése |
+| 15. | Egyéb csatolt dokumentum |
 
-| 16. | Kérem, hogy az MNB a 10. pontban meghatározott befektetési alapnak a 13. pontban meghatározott befektetési alap részalapjává válásával történő egyesülést engedélyezze. |
+| 16. | Egyéb megjegyzés |
 
-| 17. | Jogszabályok által meghatározott mellékletek |
+| 17. | Nyilatkozom, hogy az engedély kiadása, illetve a jóváhagyás érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel. |
 
-| 18. | Egyéb csatolt dokumentum |
+| 18. | Keltezés helye |
 
-| 19. | Egyéb megjegyzés |
-
-| 20. | Nyilatkozom, hogy az engedély kiadása, illetve a jóváhagyás érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel. |
-
-| 21. | Keltezés helye |
-
-| 22. | Keltezés dátuma |
+| 19. | Keltezés dátuma |
 
 102. melléklet a 18/2014. (VI. 3.) MNB rendelethez

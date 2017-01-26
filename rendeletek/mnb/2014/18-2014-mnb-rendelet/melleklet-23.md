@@ -1,69 +1,109 @@
-## Bejelentő űrlap
+## Bejelentő űrlap az 596/2014/EU európai parlamenti és tanácsi rendelet 5. cikk (1) és (5) bekezdésében meghatározott – a részvény-visszavásárlási programokra és a stabilizációra vonatkozó mentességgel kapcsolatos – bejelentési kötelezettség teljesítéséhez
 
-## a Tpt. 391. § (1) bekezdés r) pontjában foglalt – a könyvvizsgáló adataira vonatkozó – bejelentési kötelezettség teljesítéséhez
+## I. Alapadatok
 
-## 1. Könyvvizsgáló társaság adatai
+## 1. Bejelentésre kötelezett nem természetes személy azonosító adatai
 
-## 1.1. könyvvizsgáló társaság neve
+## 1.1. név
 
-## 1.2. megbízás kezdete (éééé.hh.nn.)
+## 1.2. adószám
 
-## 1.3. megbízás vége (éééé.hh.nn.)
+## 1.3. székhely
 
-## 1.4. adószám
+## 1.4. levelezési cím
 
-## 1.5. székhely
+## 1.5. telefonszám
 
-## 1.6. telefon
+## 1.6. telefax száma
 
-## 1.7. telefax
+## 1.7. cégjegyzékszám
 
-## 1.8. e-mail
+## 1.8. bejelentői minősége
 
-## 1.9. weblap
+## 1.8.1 kibocsátó
 
-## 1.10. kamarai tagság száma
+## 1.8.2. ajánlattevő
 
-## 1.11. kamarai státusz
+## 1.8.3. stabilizációt végző szervezet
 
-## 1.12. pénzügyi intézményi minősítés száma
+## 1.8.3.1. független
 
-## 1.13. befektetési vállalkozási minősítés száma
+## 1.8.3.2. megbízott
 
-## 1.14. IFRS minősítés száma
+## 1.8.3.2.1. megbízó neve
 
-## 1.15. kamarai tagság kezdete (éééé.hh.nn.)
+## 1.8.3.2.2. megbízó címe
 
-## 2. Könyvvizsgáló személy adatai
+## 2. A bejelentést végző természetes személy azonosító adatai
 
-## 2.1. könyvvizsgáló személy neve
+## 2.1. név
 
-## 2.2. megbízás kezdete (éééé.hh.nn.)
+## 2.2. a bejelentésre kötelezett nem természetes személynél betöltött pozíció
 
-## 2.3. megbízás vége (éééé.hh.nn.)
+## 2.3. munkahelyi e-mail-cím
 
-## 2.4. születési név
+## 2.4. munkahelyi telefonszám
 
-## 2.5. anyja neve
+## 3. A bejelentés jellege
 
-## 2.6. születési hely
+## 3.1. új bejelentés
 
-## 2.7. születési idő (éééé.hh.nn.)
+## 3.2. megismételt bejelentés
 
-## 2.8. lakcím
+## 4. A bejelentés megismétlésének alapját képező korábbi bejelentés száma
 
-## 2.9. kamarai tagság száma
+## II. A bejelentéssel kapcsolatos információk
 
-## 2.10. kamarai státusz
+## 1. Bejelentéssel érintett értékpapír adatai
 
-## 2.11. pénzügyi intézményi minősítés száma
+## 1.1. az értékpapír megnevezése
 
-## 2.12. befektetési vállalkozási minősítés száma
+## 1.2. az értékpapír ISIN azonosítója
 
-## 2.13. IFRS minősítés száma
+## 1.3. az értékpapír sorozata
 
-## 2.14. kamarai tagság kezdete (éééé.hh.nn.)
+## 2. a mentesüléssel kapcsolatos információk
 
-## 3. Egyéb információ
+## 2.1. a mentesülés jogcíme
+
+## 2.1.1. részvény-visszavásárlási program
+
+## 2.1.2. stabilizáció
+
+## 3. részvény-visszavásárlási program esetén
+
+## 3.1. a részvény-visszavásárlási program célja
+
+## 3.1.1. a kibocsátó tőkéjének csökkentése
+
+## 3.1.2. az olyan kötelezettségek teljesítése, amelyek tulajdonviszonyt megtestesítő értékpapírokra cserélhető hitelviszonyt megtestesítő pénzügyi eszközökből erednek
+
+## 3.1.3. részvényopció-programokból vagy a részvények más módon, a kibocsátó vagy egy kapcsolt társaság alkalmazottainak, illetve ügyvezető, döntéshozó vagy felügyeleti szervei tagjainak történő juttatásából eredő kötelezettségek teljesítése
+
+## 3.2. a részvény-visszavásárlási program közzétételének helye
+
+## 3.3. a részvény-visszavásárlási program közzétételének dátuma és időpontja
+
+## 4. stabilizáció esetén
+
+## 4.1. a stabilizáció időtartama
+
+## 4.2. a stabilizációra vonatkozó információk közzétételének helye
+
+## 4.3. a stabilizációra vonatkozó információk közzétételének dátuma és időpontja
+
+## 5. A kereskedésre vonatkozó adatok
+
+## 5.1. a kereskedés helyszíne
+
+## 5.2. a kereskedés időpontja, időpontjai
+
+## 5.3. ár
+
+## 5.4. darabszám
+
+## 5.5. egyéb körülmény
+
+## 6. Egyéb információ
 
 23. melléklet a 18/2014. (VI. 3.) MNB rendelethez

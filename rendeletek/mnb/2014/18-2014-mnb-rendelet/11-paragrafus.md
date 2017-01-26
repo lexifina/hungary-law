@@ -37,3 +37,9 @@ b) a kiegészített, részletezett, módosított vételi ajánlatának jóváhag
 a) a vételi ajánlatának jóváhagyása iránti kérelmét a 70. mellékletben,
 
 b) a kiegészített, részletezett, módosított vételi ajánlatának jóváhagyása iránti kérelmét a 71. mellékletben
+
+## meghatározott adattartalmú ÁNYK űrlapon kell, az elbíráláshoz szükséges – jogszabályban meghatározott – mellékletekkel együtt benyújtania.
+
+(10)[^16] A hitelintézetnek vagy pénzügyi vállalkozásnak minősülő kibocsátó a pénzügyi rendszer stabilitásának megőrzése érdekében a bennfentes információ közzététele késleltetésének jóváhagyására vonatkozó kérelmét a 71/A. mellékletben meghatározott adattartalmú elektronikus űrlapon nyújtja be.
+
+[^16]: A 11. § (10) bekezdését az 56/2016. (XII. 27.) MNB rendelet 5. §-a iktatta be.

@@ -36,4 +36,6 @@
 
 ## 3. Egyéb információ
 
-21. melléklet a 18/2014. (VI. 3.) MNB rendelethez
+21. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^26]
+
+[^26]: A 21. melléklet az 56/2016. (XII. 27.) MNB rendelet 7. §-ával megállapított szöveg.
