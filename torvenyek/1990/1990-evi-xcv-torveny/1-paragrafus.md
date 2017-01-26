@@ -1,1 +1,0 @@
-1. § A Magyar Köztársaság Országgyűlése a Magyar Köztársaság és a Luxemburgi Nagyhercegség között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén Budapesten, 1990. évi január hó 15. napján aláírt egyezményt e törvénnyel kihirdeti.
