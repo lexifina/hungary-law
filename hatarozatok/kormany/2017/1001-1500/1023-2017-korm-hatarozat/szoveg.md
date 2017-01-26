@@ -26,4 +26,6 @@ Határidő: 2021. december 31.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásának stratégiájáról és a végrehajtásával kapcsolatos kormányzati feladatokról szóló 1257/2011. (VII. 21.) Korm. határozat.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
