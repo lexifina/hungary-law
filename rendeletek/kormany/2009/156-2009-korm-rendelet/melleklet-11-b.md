@@ -6,6 +6,6 @@
 
 | 3. | autóúton, autópályán | 20 000 |
 
-11/B. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^65]
+11/B. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^72]
 
-[^65]: A 11/B. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 4. § (8) bekezdése szerint módosított szöveg.
+[^72]: A 11/B. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 4. § (8) bekezdése szerint módosított szöveg.

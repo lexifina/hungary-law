@@ -1,162 +1,88 @@
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírság fizetésére kötelezett |
+| Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ=rendkívül súlyos jogsértés, NSJ= nagyon súlyos jogsértés, SJ= súlyos jogsértés) | A bírság összege forintban | A bírság fizetésére kötelezett |
 
-| F | Menetíró készülék beépítése |
+| N | Maximális heti munkaidő |
 
-| F1 | Típusjóváhagyással rendelkező menetíró készülék beépítésének és használatának elmulasztása | 400 000 | szállító |
+| N1 | A 48 órás maximális heti munkaidő túllépése, ha a 60 órára történő meghosszabbítás lehetősége már kihasználásra került | 56h ≤ … < 58h | SJ | 20 000 | járművezető szállító |
 
-| G | Menetíró készülék, járművezetői kártya vagy adatrögzítő lap használata |
+| 58h ≤ … < 60h | 60 000 |
 
-| G1 | A menetíró készülék nem működik megfelelően (nem került sor a menetíró készülék megfelelő felülvizsgálatára, kalibrálására és plombálására) | 300 000 | szállító |
+| 60h ≤ … < 62h | NSJ | 100 000 |
 
-| G2 | A menetíró készülék helytelen használata: nem érvényes (elveszettnek vagy lopottnak bejelentett) járművezetői kártya használata | 400 000 | járművezető szállító |
+| 62h ≤ … | 250 000 |
 
-| G3 | Nincs elegendő számú adatrögzítő lap (figyelemmel az adatrögzítő lapok személyes jellegére, a szolgálati idő tartamára, a sérült vagy az ellenőr által lefoglalt adatrögzítő lapok pótlására) | 100 000 | szállító járművezető |
+| N2 | A 60 órás maximális heti munkaidő túllépése, ha kollektív szerződés vagy jogszabály eltérést nem engedélyezett | 65h ≤ … < 67h 30 | SJ | 20 000 | járművezető szállító |
 
-| G4 | Az adatrögzítő lap mintája nem került jóváhagyásra | 100 000 | szállító |
+| 67h30 ≤ … < 70h | 60 000 |
 
-| G5 | Nincs elegendő mennyiségű papír a kinyomtatáshoz | 30 000 | szállító járművezető |
+| 70h ≤ … < 72h30 | NSJ | 100 000 |
 
-| G6 | A vállalkozás nem őrzi meg legalább egy évig az adatrögzítő lapokat, kinyomatokat és letöltött adatokat | 400 000 | szállító |
+| 72h30 ≤ … | 250 000 |
 
-| G7 | A járművezető egynél több érvényes járművezetői kártyával rendelkezik | 400 000 | járművezető |
+| O | Szünetek |
 
-| G8 | A járművezető saját érvényes kártyájától eltérő járművezetői kártya használata | 400 000 | járművezető |
+| O1 | Nem elegendő kötelező szünet 6–9 órás munkaidő esetében | 15 < … ≤ 20 min | SJ | 20 000 | járművezető szállító |
 
-| G9 | Hibás vagy lejárt járművezetői kártya használata | 200 000 | járművezető |
+| 10 < … ≤ 15 min | 60 000 |
 
-| G10 | A rögzített és tárolt adatok nem állnak rendelkezésre legalább 365 napig, az adatok rendelkezésre bocsátásának feltételei nem garantálják az adatok biztonságát és pontosságát (digitális menetíró készülék esetében) | 400 000 | szállító |
+| 5 < … ≤ 10 min | NSJ | 100 000 |
 
-| G11 | Elszennyeződött vagy sérült adatrögzítő lapok vagy járművezetői kártyák használata, az adatok azonban olvashatók | 30 000 | járművezető |
+| … ≤ 5 min | 250 000 |
 
-| G12 | Elszennyeződött vagy sérült adatrögzítő lapok vagy járművezetői kártyák használata, az adatok nem olvashatók | 300 000 | járművezető |
+| O2 | Nem elegendő kötelező szünet több mint 9 órás munkaidő esetében | 25 < … ≤ 30 min | SJ | 20 000 | járművezető szállító |
 
-| G13 | Megsérült, hibásan működő járművezetői kártya cseréje, elveszett vagy ellopott járművezetői kártya pótlása 7 naptári napon belül történő kérelmezésének elmulasztása | 100 000 | járművezető |
+| 20 < … ≤ 25 min | 60 000 |
 
-| G14 | Adatrögzítő lapok/járművezetői kártyák helytelen használata | 100 000 | járművezető |
+| 15 < … ≤ 20 min | NSJ | 100 000 |
 
-| G15 | Adatrögzítő lapok vagy járművezetői kártya nem engedélyezett kivétele, amely hatással van az érintett adatok rögzítésére | 400 000 | járművezető |
+| … ≤ 15 min | 250 000 |
 
-| G16 | Adatrögzítő lapok vagy járművezetői kártya nem engedélyezett kivétele, amely nincs hatással a rögzített adatokra | 30 000 | járművezető |
+| P | Éjszakai munkavégzés |
 
-| G17 | Adatrögzítő lap vagy járművezetői kártya azon időtartamon túli használata, amelyre azt szánták, adatvesztés nélkül | 30 000 | járművezető |
+| P1 | Napi munkaidő 24 órás időszakonként éjszakai munkavégzés esetén, ha kollektív szerződés vagy jogszabály eltérést nem engedélyezett | 11h ≤ … < 12h | SJ | 20 000 | járművezető szállító |
 
-| G18 | Adatrögzítő lap vagy járművezetői kártya azon időtartamon túli használata, amelyre azt szánták, adatvesztéssel | 400 000 | járművezető |
+| 12h ≤ … < 13h | 60 000 |
 
-| G19 | Szükséges kézi adatbevitel elmulasztása | 200 000 | járművezető |
+| 13h ≤ … < 14h | NSJ | 100 000 |
 
-| G20 | Nem megfelelő lap használata vagy a vezetői kártya nem megfelelő nyílásba történő beillesztése (több fős személyzet) | 400 000 | járművezető |
+| 14h ≤ … | 250 000 |
 
-| G21 | A lapon feljegyzett idő nem egyezik annak az országnak a hivatalos idejével, amelyben a járművet nyilvántartásba vették | 100 000 | járművezető |
+| R | Nyilvántartás |
 
-| G22 | Kapcsoló berendezés helytelen használata Kapcsoló berendezés helytelen használata, amennyiben az értékelhetőséget megakadályozza | 50 000 300 000 | járművezető |
+| R1 | A munkáltató meghamisítja a munkaidőre vonatkozó információkat vagy megtagadja azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 300 000 | munkáltató |
 
-| G23 | A letöltési kötelezettség elmulasztása esetenként (gépjárművezetői kártyánként és fedélzeti egységenként) | 100 000 | üzemben tartó |
+| R2 | Az alkalmazott/önfoglalkoztató járművezetők meghamisítják az adatokat vagy megtagadják azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 300 000 | járművezető |
 
-| H | Adatok kitöltése |
-
-| H1 | Az adatrögzítő lapról hiányzik a családi név | 300 000 | járművezető |
-
-| H2 | Az adatrögzítő lapról hiányzik az utónév | 200 000 | járművezető |
-
-| H3 | A lap használatba vétele kezdetének vagy végének ideje hiányzik | 100 000 | járművezető |
-
-| H4 | A lap használatba vétele kezdetének vagy végének helye hiányzik | 30 000 | járművezető |
-
-| H5 | Az adatrögzítő lapról hiányzik a rendszám | 30 000 | járművezető |
-
-| H6 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (első menet előtt) | 100 000 | járművezető |
-
-| H7 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (utolsó menet végén) | 30 000 | járművezető |
-
-| H8 | Az adatrögzítő lapról hiányzik a járműcsere időpontja | 30 000 | járművezető |
-
-| H9 | Az ország betűjele beírásának elmulasztása a menetíró készülékbe | 30 000 | járművezető |
-
-| I | Adatok bemutatása |
-
-| I1 | Ellenőrzés megtagadása | 400 000 | járművezető szállító |
-
-| I2 | A járművezető nem tudja bemutatni az adott napra vonatkozóan a korongon, gépkocsivezetői kártyán rögzített információkat | 400 000 | járművezető |
-
-| I3 | A járművezető nem tudja bemutatni a megelőző 28 napra vonatkozóan a korongon rögzített információkat | 400 000 | járművezető szállító |
-
-| I4 | A járművezető nem tudja bemutatni a járművezetői kártyához kapcsolódó információkat (ha rendelkezik járművezetői kártyával) | 400 000 | járművezető szállító |
-
-| I5 | A járművezető nem tudja bemutatni az adott napon és a megelőző 28 nap során készített kézi feljegyzéseket és kinyomatokat | 400 000 | járművezető szállító |
-
-| I6 | A járművezető nem tudja bemutatni a járművezetői kártyát | 400 000 | járművezető |
-
-| I7 | A járművezető nem tudja bemutatni az adott napon és a megelőző 28 nap során készített kinyomatokat | 400 000 | járművezető szállító |
-
-| J | Megtévesztés |
-
-| J1 | Az adatrögzítő lapon rögzített, a menetíró készülékben vagy a járművezetői kártyán tárolt adatok vagy a menetíró készülék kinyomtatott adatainak meghamisítása, kitörlése vagy megsemmisítése | 600 000 | járművezető szállító |
-
-| J2 | A menetíró készülékkel, az adatrögzítő lappal vagy a járművezetői kártyával kapcsolatos manipuláció, amely az adatok, illetve a kinyomtatott információk meghamisítását eredményezheti | 800 000 | járművezető szállító |
-
-| J3 | Olyan manipulációs eszköz jelenléte a járművön, amely az adatok, illetve a kinyomtatott információk meghamisítására felhasználható lehet (kapcsoló/vezeték ... ) | 800 000 | járművezető szállító |
-
-| K | Üzemzavar |
-
-| K1 | A javítást nem elismert szerelő vagy műhely végezte | 400 000 | szállító |
-
-| K2 | A javítást nem végezték el útközben (Ha a jármű nem tud visszatérni a telephelyre az üzemzavar-fellépésnek vagy a hibás működés megállapításának napjától számított egy héten belül) | 100 000 | szállító |
-
-| L | Kézi bejegyzések a kinyomatokon |
-
-| L1 | A járművezető nem jelzi azon időtartamokra vonatkozó valamennyi információt, amelyet a menetíró készülék üzemképtelensége vagy hibás működése miatt már nem rögzített | 300 000 | járművezető |
-
-| L2 | Az ideiglenes lapról hiányzik a járművezető kártyájának száma, illetve neve, illetve vezetői engedélyének száma: amennyiben az azonosítás a hiányzó adatok miatt lehetetlen amennyiben azonosítható | 200 000 50 000 | járművezető |
-
-| L3 | Az ideiglenes lapról hiányzik az aláírás | 100 000 | járművezető |
-
-| L4 | A járművezetői kártya elvesztéséről vagy eltulajdonításáról azon tagállam hatáskörrel rendelkező hatóságánál teendő hivatalos bejelentés elmulasztása, amelynek területén a kártyalopás történt | 300 000 | járművezető |
-
-| M | A menetíró készülék kapcsán típusjóváhagyásra, menetíró szerelőműhelyre, menetíró szerelőre vonatkozó rendelkezések |
-
-| M1 | Típusjóváhagyással nem rendelkező menetíró készülék kereskedelmi forgalmazása | 300 000 | forgalmazó |
-
-| M2 | Adatrögzítő lap típusjóváhagyás nélküli forgalmazása | 300 000 | forgalmazó |
-
-| M3 | Menetíró szerelőműhely engedély nélküli működtetése | 1 000 000 | menetíró szerelőműhely üzemeltetője |
-
-| M4 | Menetíró szerelő tevékenység engedély nélküli végzése | 300 000 | a tevékenységet végző személy |
-
-| M5 | Külső kalibrálási tevékenység végzése a közlekedési hatóság részére történő bejelentés nélkül | 300 000 | a menetíró szerelőműhely üzemeltetője |
-
-| M6 | Elveszett vagy egyéb ok miatt működésképtelenné vált tachográf-kártya bejelentési kötelezettségének elmulasztása | 300 000 | a tevékenységet végző személy |
-
-| M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | 300 000 | a menetíró szerelőműhely üzemeltetője |
-
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^62]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^67]
 
 ## I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás
 
 1. táblázat
 
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
+| Sor- szám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ=rendkívül súlyos jogsértés, NSJ= nagyon súlyos jogsértés, SJ= súlyos jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
 | I. kockázati kategóriába tartozó cselekmény vagy mulasztás A veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely haláleset, súlyos személyi sérülés vagy jelentős környezetkárosodás okozásának nagyfokú kockázatával jár. Az ilyen mulasztásoknál általában a veszély elhárítására megfelelő, azonnali intézkedések történnek, így többek között a jármű feltartóztatása, a továbbhaladás megakadályozása |
 
-| 1. | Az ADR szerint a szállításból kizárt veszélyes áru szállítása. | 500 000 | feladó, berakó, szállító (fuvarozó) |
+| 1. | Az ADR szerint a szállításból kizárt veszélyes áru szállítása. | RSJ | 500 000 | feladó, berakó, szállító (fuvarozó) |
 
-| 2. | Veszélyes áru szivárgása, szóródása. | 500 000 | feladó, csomagoló, berakó, töltő, üzembentartó, szállító (fuvarozó) |
+| 2. | Veszélyes áru szivárgása, szóródása. | NSJ | 500 000 | feladó, csomagoló, berakó, töltő, üzembentartó, szállító (fuvarozó) |
 
 | 100 000 | járműszemélyzet, amennyiben az észlelést követően nem tette meg a szükséges intézkedéseket |
 
-| 3. | Nem engedélyezett szállítási móddal vagy nem megfelelő szállítóeszközzel vagy nem megfelelő műszaki állapotú szállítóeszközzel történő szállítás, vagy olyan jóváhagyásban foglaltaknak nem megfelelő járművel történő szállítás, amely közvetlen veszélyt jelent. | 500 000 | feladó, töltő, berakó, szállító (fuvarozó), jármű üzembentartója |
+| 3. | Nem engedélyezett szállítási móddal vagy nem megfelelő szállítóeszközzel vagy nem megfelelő műszaki állapotú szállítóeszközzel történő szállítás, vagy | RSJ | 500 000 | feladó, töltő, berakó, szállító (fuvarozó), jármű üzembentartója |
 
-| 4. | Ömlesztett szállítás olyan konténerben, amely szerkezetileg nem megfelelő állapotú. | 500 000 | konténer üzembentartója, töltő, feladó, szállító (fuvarozó) |
+| olyan, a jóváhagyásban foglaltaknak nem megfelelő járművel történő szállítás, amely közvetlen veszélyt jelent. | NSJ |
 
-| 5. | Jóváhagyási igazolással nem rendelkező, vagy 30 napnál régebben lejárt jóváhagyási igazolással rendelkező járművel történő szállítás. | 500 000 | feladó, töltő, szállító (fuvarozó) |
+| 4. | Ömlesztett szállítás olyan konténerben, amely szerkezetileg nem megfelelő állapotú. | NSJ | 500 000 | konténer üzembentartója, töltő, feladó, szállító (fuvarozó) |
 
-| 6. | Jóváhagyás nélküli csomagolóeszközök használata. | 500 000 | feladó, csomagoló |
+| 5. | Jóváhagyási igazolással nem rendelkező, vagy 30 napnál régebben lejárt jóváhagyási igazolással rendelkező járművel történő szállítás. | NSJ | 500 000 | feladó, töltő, szállító (fuvarozó) |
 
-| 7. | A veszélyes árura vonatkozó csomagolási utasításnak nem megfelelő csomagolóeszköz használata. | 500 000 | feladó, csomagoló |
+| 6. | Jóváhagyás nélküli csomagolóeszközök használata. |  | 500 000 | feladó, csomagoló |
 
-| 8. | Az egybecsomagolásra vonatkozó különleges előírások be nem tartása. | 500 000 | feladó, csomagoló |
+| 7. | A veszélyes árura vonatkozó csomagolási utasításnak nem megfelelő csomagolóeszköz használata. |  | 500 000 | feladó, csomagoló |
 
-| 9. | A rakomány elhelyezésére és rögzítésére vonatkozó szabályok be nem tartása a) egyesítő csomagoláson belül | 300 000 | feladó, csomagoló, szállító (fuvarozó) |
+| 8. | Az egybecsomagolásra vonatkozó különleges előírások be nem tartása. |  | 500 000 | feladó, csomagoló |
+
+| 9. | A rakomány elhelyezésére és rögzítésére vonatkozó szabályok be nem tartása a) egyesítő csomagoláson belül | NSJ | 300 000 | feladó, csomagoló, szállító (fuvarozó) |
 
 | b) konténerben | 400 000 | berakó, töltő |
 
@@ -164,89 +90,89 @@
 
 | 100 000 | járműszemélyzet amennyiben az ellenőrzés időpontjában a megfelelő rakományrögzítő eszköz a járművön rendelkezésre állt |
 
-| 10. | A küldeménydarabok együvé rakására vonatkozó szabályok be nem tartása a) egyesítő csomagoláson belül | 300 000 | feladó, csomagoló, szállító (fuvarozó) |
+| 10. | A küldeménydarabok együvé rakására vonatkozó szabályok be nem tartása a) egyesítő csomagoláson belül | NSJ | 300 000 | feladó, csomagoló, szállító (fuvarozó) |
 
-| b) konténerben | 400 000 | berakó |
+|  | b) konténerben | 400 000 | berakó |
 
-| c) járműben. | 400 000 | berakó |
+|  | c) járműben. | 400 000 | berakó |
 
-| 11. | Megengedett töltési fok be nem tartása a) tartányoknál | 500 000 | töltő |
+| 11. | Megengedett töltési fok be nem tartása a) tartányoknál | NSJ | 500 000 | töltő |
 
-| b) tartályoknál, egyéb csomagolóeszköznél. | 300 000 | csomagoló |
+|  | b) tartályoknál, egyéb csomagolóeszköznél. | 300 000 | csomagoló |
 
-| 12. | Az egy szállítóegységben szállítható mennyiségre vonatkozó korlátozás be nem tartása. | 500 000 | feladó, szállító (fuvarozó), berakó |
+| 12. | Az egy szállítóegységben szállítható mennyiségre vonatkozó korlátozás be nem tartása. | NSJ | 500 000 | feladó, berakó, szállító (fuvarozó) |
 
-| 13. | Veszélyes áru szállítása anélkül, hogy erre bármilyen jelzés vagy információ utalna. | 500 000 | feladó, berakó, csomagoló, töltő, szállító (fuvarozó) |
+| 13. | Veszélyes áru szállítása anélkül, hogy erre bármilyen jelzés vagy információ utalna. | RSJ | 500 000 | feladó, berakó, csomagoló, töltő, szállító (fuvarozó) |
 
-| 14. | A járművön, tartányon, konténeren nincs semmilyen jelölés, illetve nagybárca. | 500 000 | feladó, töltő, szállító (fuvarozó) |
+| 14. | A járművön, tartányon, konténeren nincs semmilyen jelölés, illetve nagybárca. |  | 500 000 | feladó, töltő, szállító (fuvarozó) |
 
-| 100 000 | járműszemélyzet, amennyiben az ellenőrzés időpontjában a jelölés, illetve nagybárca a járművön rendelkezésre állt |
+|  |  | 100 000 | járműszemélyzet, amennyiben az ellenőrzés időpontjában a jelölés, illetve nagybárca a járművön rendelkezésre állt |
 
-| 15. | A fuvarokmányban a szállított árura vonatkozó olyan információk (pl. UN-szám, helyes szállítási megnevezés, csomagolási csoport) hiánya, ami miatt nem lehetséges megállapítani, hogy fennáll-e egyéb, I. kockázati kategóriájú szabálytalanság. | 500 000 | feladó, szállító (fuvarozó) |
+| 15. | A fuvarokmányban a szállított árura vonatkozó olyan információk (pl. UN-szám, helyes szállítási megnevezés, csomagolási csoport) hiánya, ami miatt nem lehetséges megállapítani, hogy fennáll-e egyéb, I. kockázati kategóriájú szabálytalanság. | NSJ | 500 000 | feladó, szállító (fuvarozó) |
 
-| 16. | A járművezetőnek nincs érvényes oktatási bizonyítványa vagy az oktatási bizonyítvány 30 napnál régebben járt le. | 400 000 | szállító (fuvarozó) |
+| 16. | A járművezetőnek nincs érvényes oktatási bizonyítványa vagy az oktatási bizonyítvány 30 napnál régebben járt le. | NSJ | 400 000 | szállító (fuvarozó) |
 
-| 17. | Tűz vagy nyílt láng használatára vonatkozó tilalom megszegése. | 400 000 | berakó, töltő, kirakó, szállító (fuvarozó) |
+| 17. | Tűz vagy nyílt láng használatára vonatkozó tilalom megszegése. | NSJ | 400 000 | berakó, töltő, kirakó, szállító (fuvarozó) |
 
-| 100 000 | járműszemélyzet |
+|  |  | 100 000 | járműszemélyzet |
 
-| 18. | A dohányzási tilalom be nem tartása. | 200 000 | berakó, töltő, kirakó |
+| 18. | A dohányzási tilalom be nem tartása. | NSJ | 200 000 | berakó, töltő, kirakó |
 
-| 100 000 | járműszemélyzet |
+|  |  | 100 000 | járműszemélyzet |
 
-| 19. | Veszélyes áru nem megfelelő UN-szám és helyes szállítási megnevezés és csomagolási csoport (ha van) alá sorolása. | 500 000 | feladó |
+| 19. | Veszélyes áru nem megfelelő UN-szám és helyes szállítási megnevezés és csomagolási csoport (ha van) alá sorolása. |  | 500 000 | feladó |
 
-| 20. | Az I. kockázati kategóriába tartozó egyéb mulasztások. | 500 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
+| 20. | Az I. kockázati kategóriába tartozó egyéb mulasztások. |  | 500 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
 
-| II. kockázati kategóriába tartozó cselekmény vagy mulasztás A veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely személyi sérülés vagy környezetkárosodás okozásának kockázatával jár. Az ilyen mulasztásoknál általában a veszély elhárítására megfelelő intézkedések történnek, így többek között a hiba elhárítására való kötelezés – ha lehetséges és célszerű – akkor az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor. |
+| II. kockázati kategóriába tartozó cselekmény vagy mulasztás A veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely személyi sérülés vagy környezetkárosodás okozásának kockázatával jár. Az ilyen mulasztásoknál általában a veszély elhárítására megfelelő intézkedések történnek, így többek között a hiba elhárítására való kötelezés - ha lehetséges és célszerű - akkor az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor. |
 
-| 21. | A szállítóegységben egynél több pótkocsi, félpótkocsi van. | 300 000 | berakó, töltő, szállító (fuvarozó) |
+| 21. | A szállítóegységben egynél több pótkocsi, félpótkocsi van. | SJ | 300 000 | berakó, töltő, szállító (fuvarozó) |
 
-| 22. | A jóváhagyásban foglaltaknak nem megfelelő járművel történő szállítás, ami azonban közvetlen veszélyt nem jelent. | 150 000 | szállító (fuvarozó), jármű üzembentartója |
+| 22. | A jóváhagyásban foglaltaknak nem megfelelő járművel történő szállítás, ami azonban közvetlen veszélyt nem jelent. | SJ | 150 000 | szállító (fuvarozó), jármű üzembentartója |
 
-| 23. | A járművön nincsenek meg az előírt, üzemképes tűzoltó készülékek. A tűzoltó készülék üzemképesnek tekinthető akkor is, ha az előírt plomba vagy a lejárat ideje, vagy mindkettő hiányzik. Nem tekinthető üzemképesnek, ha felülvizsgálati ideje lejárt, valamint ha szemmel láthatóan nem üzemképes, például a nyomásmérő 0-t mutat. | 250 000 | szállító (fuvarozó) |
+| 23. | A járművön nincsenek meg az előírt, üzemképes tűzoltó készülékek. A tűzoltó készülék üzemképesnek tekinthető akkor is, ha az előírt plomba vagy a lejárat ideje, vagy mindkettő hiányzik. Nem tekinthető üzemképesnek, ha felülvizsgálati ideje lejárt, valamint ha szemmel láthatóan nem üzemképes, például a nyomásmérő 0-t mutat. | SJ | 250 000 | szállító (fuvarozó) |
 
-| 24. | A járművön nincs meg az ADR-ben, illetve az írásbeli utasításban előírt működőképes, funkcióját betöltő felszerelés. | felszerelés- fajtánként 100 000 | szállító (fuvarozó) |
+| 24. | A járművön nincs meg az ADR-ben, illetve az írásbeli utasításban előírt működőképes, funkcióját betöltő felszerelés. | SJ | felszerelés-fajtánként 100 000 | szállító (fuvarozó) |
 
-| 25. | Csomagolóeszközök, IBC-k, illetve nagycsomagolások ellenőrzésének, időszakos vizsgálatának időpontját vagy a használati időtartamot nem tartották be. | 300 000 | feladó, csomagoló |
+| 25. | Csomagolóeszközök, IBC-k, illetve nagycsomagolások ellenőrzésének, időszakos vizsgálatának időpontját vagy a használati időtartamot nem tartották be. |  | 300 000 | feladó, csomagoló |
 
-| 26. | Sérült csomagolású küldeménydarabokat, IBC-ket, nagycsomagolásokat szállítanak. | 300 000 | feladó, csomagoló, berakó, szállító (fuvarozó) |
+| 26. | Sérült csomagolású küldeménydarabokat, IBC-ket, nagycsomagolásokat szállítanak. | SJ | 300 000 | feladó, csomagoló, berakó, szállító (fuvarozó) |
 
-| 100 000 | járműszemélyzet, amennyiben nem tette meg a szükséges intézkedéseket |
+|  |  | 100 000 | járműszemélyzet, amennyiben nem tette meg a szükséges intézkedéseket |
 
-| 27. | Küldeménydarabokat olyan konténerben szállítanak, amely szerkezetileg nem megfelelő állapotú. | 300 000 | konténer üzembentartója, berakó, szállító (fuvarozó) |
+| 27. | Küldeménydarabokat olyan konténerben szállítanak, amely szerkezetileg nem megfelelő állapotú. | SJ | 300 000 | konténer üzembentartója, berakó, szállító (fuvarozó) |
 
-| 28. | A tartányokat, tankkonténereket nem zárták le megfelelően (de nem szivárog). | 300 000 | feladó, töltő, szállító (fuvarozó) |
+| 28. | A tartányokat, tankkonténereket nem zárták le megfelelően (de nem szivárog). | SJ | 300 000 | feladó, töltő, szállító (fuvarozó) |
 
-| 29. | Kombinált csomagolás szállítása olyan külső csomagolással, amely nincs megfelelően lezárva. | 150 000 | feladó, berakó, csomagoló, szállító (fuvarozó) |
+| 29. | Kombinált csomagolás szállítása olyan külső csomagolással, amely nincs megfelelően lezárva. |  | 150 000 | feladó, berakó, csomagoló, szállító (fuvarozó) |
 
-| 30. | Helytelen bárcázás, jelölés vagy nagybárcázás, vagy a szükséges bárca, jelölés vagy nagybárca hiánya, illetve a jelölések, bárcák, nagybárcák olyan mértékben sérültek, ami a felismerhetőségüket befolyásolja. | 300 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
+| 30. | Helytelen bárcázás, jelölés vagy nagybárcázás, vagy a szükséges bárca, jelölés vagy nagybárca hiánya, illetve a jelölések, bárcák, nagybárcák olyan mértékben sérültek, ami a felismerhetőségüket befolyásolja. | SJ | 300 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
 
-| 31. | Írásbeli utasítás hiánya. | 300 000 | szállító (fuvarozó) |
+| 31. | Írásbeli utasítás hiánya. | SJ | 300 000 | szállító (fuvarozó) |
 
-| 32. | Az okmányokban valamely, az I. kockázati kategória 15. pontja alá tartozó információ hiányzik, de ezzel összefüggésben nem áll fenn egyéb I. kockázati kategóriájú szabálytalanság. | 200 000 | feladó, szállító (fuvarozó) |
+| 32. | Az okmányokban valamely, az I. kockázati kategória 15. pontja alá tartozó információ hiányzik, de ezzel összefüggésben nem áll fenn egyéb I. kockázati kategóriájú szabálytalanság. |  | 200 000 | feladó, szállító (fuvarozó) |
 
-| 33. | A II. kockázati kategóriába tartozó egyéb mulasztás. | 250 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
+| 33. | A II. kockázati kategóriába tartozó egyéb mulasztás. |  | 250 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
 
 | III. kockázati kategóriába tartozó cselekmény vagy mulasztás A veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely személyi sérülés vagy környezetkárosodás okozásának kis mértékű kockázatával jár, de nem szükséges a hiányosságokat a közúton kijavítani, elegendő azokat később, a vállalkozásnál megszüntetni. |
 
-| 34. | A narancssárga táblák, nagybárcák, a bárcák mérete, alakja, színe, vagy a betűk, számok, jelképek mérete, formája nem felel meg az előírásoknak. | 100 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
+| 34. | A narancssárga táblák, nagybárcák, a bárcák mérete, alakja, színe, vagy a betűk, számok, jelképek mérete, formája nem felel meg az előírásoknak. |  | 100 000 | feladó, csomagoló, berakó, töltő, szállító (fuvarozó) |
 
-| 35. | Az írásbeli utasítás tartalmában nem felel meg az ADR előírásainak. | 100 000 | szállító (fuvarozó) |
+| 35. | Az írásbeli utasítás tartalmában nem felel meg az ADR előírásainak. |  | 100 000 | szállító (fuvarozó) |
 
-| 36. | Az okmányokban a szállított árura vonatkozóan olyan információ hiánya, amely nem eredményez I. vagy II. kockázati kategóriájú szabálytalanságot. | 100 000 | feladó, szállító (fuvarozó) |
+| 36. | Az okmányokban a szállított árura vonatkozóan olyan információ hiánya, amely nem eredményez I. vagy II. kockázati kategóriájú szabálytalanságot. |  | 100 000 | feladó, szállító (fuvarozó) |
 
-| 37. | A járművezető az oktatási bizonyítványát nem tudja bemutatni, de bizonyíték van rá, hogy létezik. | 30 000 | járművezető |
+| 37. | A járművezető az oktatási bizonyítványát nem tudja bemutatni, de bizonyíték van rá, hogy létezik. |  | 30 000 | járművezető |
 
-| A járművezető oktatási bizonyítványa 30 napnál nem régebben járt le. | 100 000 | szállító (fuvarozó) |
+| A járművezető oktatási bizonyítványa 30 napnál nem régebben járt le. |  | 100 000 | szállító (fuvarozó) |
 
-| 38. | A jármű jóváhagyási igazolása nincs a járművön, de bizonyíték van rá, hogy létezik vagy 30 napnál nem régebben járt le. | 100 000 | szállító (fuvarozó) |
+| 38. | A jármű jóváhagyási igazolása nincs a járművön, de bizonyíték van rá, hogy létezik vagy 30 napnál nem régebben járt le. |  | 100 000 | szállító (fuvarozó) |
 
-| 39. | A járművön a tűzoltó készülékek esetében az előírt plomba vagy a lejárat ideje, vagy mindkettő hiányzik, de a tűzoltó készülék üzemképesnek tekinthető. | 100 000 | szállító (fuvarozó) |
+| 39. | A járművön a tűzoltó készülékek esetében az előírt plomba vagy a lejárat ideje, vagy mindkettő hiányzik, de a tűzoltó készülék üzemképesnek tekinthető. |  | 100 000 | szállító (fuvarozó) |
 
-| 40. | A járművek felügyeletére vonatkozó szabályok megsértése. | 50 000 | járműszemélyzet |
+| 40. | A járművek felügyeletére vonatkozó szabályok megsértése. | SJ | 50 000 | járműszemélyzet |
 
-| 41. | A III. kockázati kategóriába tartozó egyéb mulasztás. | 100 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
+| 41. | A III. kockázati kategóriába tartozó egyéb mulasztás. |  | 100 000 | bármely, a szabálytalanságért felelőssé tehető résztvevő |
 
 Az I., II. vagy III. kockázati kategóriába nem tartozó további szabálytalanság
 
@@ -328,4 +254,4 @@ A mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy l
 
 | 16. | A járművezetőnek nincs érvényes vizsga igazolása. | 40 000 | szállító (fuvarozó), járművezető |
 
-[^62]: Az 5. melléklet a 372/2016. (XI. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^67]: Az 5. melléklet a 372/2016. (XI. 29.) Korm. rendelet 12. §-ával megállapított, a 476/2016. (XII. 27.) Korm. rendelet 7. § (6) bekezdése szerint módosított szöveg.

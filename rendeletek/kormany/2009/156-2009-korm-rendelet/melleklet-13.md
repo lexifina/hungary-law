@@ -88,13 +88,15 @@
 
 | 43. | 1972. évi 7. törvényerejű rendelet a Magyar Népköztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a nemzetközi közúti árufuvarozás tárgyában Budapesten, az 1970. évi február hó 23. napján aláírt Egyezmény kihirdetéséről |
 
-| 44. | 30/1984. (X. 1.) MT rendelet a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőházának Szövetségi Végrehajtó Tanácsa között a tehergépjárművel végzett árufuvarozás, valamint az ezzel kapcsolatos vámeljárás szabályozása tárgyában kötött egyezmény módosításáról és kiegészítéséről Szegeden, 1982. évi június hó 24. napján aláírt Egyezmény kihirdetéséről |
+| 44. | 2014. évi LVIII. törvény a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezmény kihirdetéséről |
 
 | 45. | 49/2004. (III. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között, a nemzetközi közúti személyszállításról és árufuvarozásról szóló, Budapesten, 2002. október 28-án aláírt Egyezmény kihirdetéséről |
 
 | 46. | 2014. évi I. törvény a Magyarország Kormánya és Georgia Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről |
 
-13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^73]
+| 47. | 2016. évi VI. törvény a Magyarország Kormánya és a Koszovói Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről |
+
+13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^80]
 
 A jogszabályban rögzített vizsgáztatási technológia és ügyrend megsértése esetén
 
@@ -104,4 +106,4 @@ A jogszabályban rögzített vizsgáztatási technológia és ügyrend megsért�
 
 | 2. | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | 200 000 |
 
-[^73]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^80]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be.
