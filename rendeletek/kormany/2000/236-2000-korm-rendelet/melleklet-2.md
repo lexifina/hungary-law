@@ -42,6 +42,8 @@
 
 | 26 | Engedély nélkül személygépkocsival végzett közúti közlekedési szolgáltatás [BR. 1. melléklet 1. pontjában meghatározott] | 9 |
 
+| 27 | Engedély nélküli vezetés (közúti forgalomban közúti közlekedési szolgáltatás végzése során gépi meghajtású jármű vezetése más kategóriába tartozó engedéllyel [BR. 1. melléklet 9., 9/A. pontja] | 5 |
+
 2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^16]
 
 Eljáró bíróság hatóság megnevezése kódja:
