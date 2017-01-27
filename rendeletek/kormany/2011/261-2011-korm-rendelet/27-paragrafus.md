@@ -4,11 +4,11 @@
 
 ## 12. A tagállamok gazdálkodó szervezetei által végzett nemzetközi személyszállítás
 
-27. § (1)[^53] A tagállamokban székhellyel rendelkező gazdálkodó szervezeteknek – a tagállamok közötti vagy a tagállamok területét érintő – autóbusszal végzett nemzetközi személyszállítási tevékenységére vonatkozó további feltételeket (ideértve a kabotázs-tevékenységre vonatkozó feltételeket is) megállapító, a személyszállítás nemzetközi piacához való hozzáférés közös szabályairól szóló 1073/2009/EK rendeletet, valamint a 361/2014/EU rendeletet az e § (2)–(6) bekezdéseiben foglalt végrehajtási rendelkezésekkel együtt kell alkalmazni.
+27. § (1)[^55] A tagállamokban székhellyel rendelkező gazdálkodó szervezeteknek – a tagállamok közötti vagy a tagállamok területét érintő – autóbusszal végzett nemzetközi személyszállítási tevékenységére vonatkozó további feltételeket (ideértve a kabotázs-tevékenységre vonatkozó feltételeket is) megállapító, a személyszállítás nemzetközi piacához való hozzáférés közös szabályairól szóló 1073/2009/EK rendeletet, valamint a 361/2014/EU rendeletet az e § (2)–(6) bekezdéseiben foglalt végrehajtási rendelkezésekkel együtt kell alkalmazni.
 
 (2) Magyarország területén székhellyel rendelkező gazdálkodó szervezetek részére a személyszállítási közösségi engedélyt, az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedélyt, valamint az 1073/2009/EK rendelet 2. cikkének 5. pontjában meghatározott saját számlás személyszállítási tevékenység végzéséhez szükséges igazolványt – kérelemre – a közlekedési hatóság adja ki.
 
-(3)[^54] A közlekedési hatóság
+(3)[^56] A közlekedési hatóság
 
 a) a személyszállítási közösségi engedélyt annak a gazdálkodó szervezetnek a részére adja ki, amelynek közúti személyszállítási engedélye,
 
@@ -20,8 +20,8 @@ van, és megfelel a 611/2012/EU bizottsági rendelettel módosított 1073/2009/E
 
 (5) Különcélú menetrend szerinti személyszállítást, valamint különjárati személyszállítást más tagállamban bejegyzett – személyszállítási közösségi engedéllyel rendelkező – gazdálkodó szervezet Magyarország területén belföldi forgalomban is végezhet.
 
-(6)[^55] A 13. § (2) bekezdésében meghatározott korlátozás nem vonatkozik az 1073/2009/EK rendelet 13. cikkében meghatározott esetre.
+(6)[^57] A 13. § (2) bekezdésében meghatározott korlátozás nem vonatkozik az 1073/2009/EK rendelet 13. cikkében meghatározott esetre.
 
-[^53]: A 27. § (1) bekezdése a 171/2014. (VII. 18.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^54]: A 27. § (3) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
-[^55]: A 27. § (6) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^55]: A 27. § (1) bekezdése a 171/2014. (VII. 18.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^56]: A 27. § (3) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^57]: A 27. § (6) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
