@@ -18,13 +18,15 @@ b) az órákon kívül minden egyéb:
 
 3. platinatárgyak finomságvizsgálata, grammonként 210,00 Ft
 
+4. palládiumtárgyak finomságvizsgálata, grammonként 210,00 Ft
+
 c) fémjel beütése vagy fémjel azonosítása, darabonként 12,00 Ft
 
 d) fémjel megsemmisítés 64,00 Ft
 
 e) sürgősségi díj:
 
-1. arany- és platinatárgyak esetében, darabonként 63,00 Ft
+1. arany-, platina- és palládiumtárgyak esetében, darabonként 63,00 Ft
 
 2. ezüsttárgyak esetében, darabonként 30,00 Ft
 
@@ -113,4 +115,4 @@ g) egyenértékűség megállapítását célzó eljárás díja 565 000,00 Ft
 h) nyilvántartásból készített kivonat díja (az illetéktörvény szerint), oldalanként 100,00 Ft
 
 [^8]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 53. pontja hatályon kívül helyezte.
-[^9]: A melléklet a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés a) pontja, a 62/2016. (XII. 29.) NGM rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^9]: A melléklet a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés a) pontja, a 62/2016. (XII. 29.) NGM rendelet 15. § (4)–(5) bekezdése szerint módosított szöveg.
