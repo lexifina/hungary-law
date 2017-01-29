@@ -6,4 +6,6 @@ b) járműre,
 
 c) járművet üzembentartó vállalkozásra (a továbbiakban: üzembentartóra), továbbá
 
-d) a közúti vagy telephelyi ellenőrzési feladatát ellátó Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) regionális igazgatóságára és ennek jogkörében eljáró személyre (a továbbiakban: közúti ellenőrre)
+d)[^2] a közúti vagy telephelyi ellenőrzési feladatát ellátó közlekedési hatóságra és ennek jogkörében eljáró személyre (a továbbiakban: közúti ellenőrre)
+
+[^2]: Az 1. § d) pontja a 74/2016. (XII. 29.) NFM rendelet 16. §-ával megállapított szöveg.
