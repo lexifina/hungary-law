@@ -1,0 +1,3 @@
+5. § (1) Menetíró szerelőműhely menetíró készülék szerelésére feljogosított telephelyén a menetíró készülék szerelését olyan személy végezheti, aki érvényes szerelői engedéllyel, valamint digitális menetíró készülék szerelése esetén személyre szóló műhelykártyával rendelkezik.
+
+(2) Menetíró szerelőműhely menetíró készülék szerelésére feljogosított telephelyén az analóg menetíró készülék javítását olyan személy végezheti, aki jogerős engedéllyel rendelkezik, valamint az adott készülék gyártója vagy a gyártó hazai képviselője által szervezett képzésen az adott készülék típus javításához szükséges ismereteket elsajátította és erről bizonyítvánnyal rendelkezik.

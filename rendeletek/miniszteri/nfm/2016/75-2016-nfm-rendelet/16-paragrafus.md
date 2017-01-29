@@ -1,0 +1,7 @@
+16. § (1) A menetíró készüléket befolyásoló eszközök használatának feltárása és megelőzése érdekében a menetíró készülékek közúti ellenőrzések alkalmával és jogosultsággal rendelkező menetíró szerelőműhelyek által végzett ellenőrzésével kapcsolatos helyes végrehajtási gyakorlatra vonatkozó iránymutatásokról szóló, 2009. január 23-i 2009/60/EK bizottsági ajánlás Melléklet 4. Fejezet B-D. pontjaiban meghatározott módszereket kell alkalmazni.
+
+(2) A menetíró készüléket befolyásoló eszközök alkalmazásának észlelésekor ennek tényét a közlekedési hatóságnak be kell jelenteni, az eszközt el kell távolítani a járműből és át kell adni közlekedési hatóság számára.
+
+(3) Az e §-ban meghatározott dokumentációs, adatkezelési és jelentési kötelezettség teljesítéséért a menetíró szerelőműhely a felelős. Ha a menetíró szerelőműhely a vizsgálati jelentés elkészítését, a befolyásoló eszközök eltávolítását vagy a befolyásoló eszközök feltárásának bejelentését elmulasztja, a közlekedési hatóság az ellenőrzés során meghatározott jogkövetkezményeket alkalmazhatja a menetíró műhellyel szemben.
+
+(4) A digitális menetíró készülékkel ellátott járművek esetén – a befolyásoló eszköz eltávolítását követően – a menetíró készülék kalibrálása, kizárólag a jármű egység memória megelőző két évben keletkezett valamennyi adatának a letöltését, a műszaki hibák és az események elemzését, a digitális aláírás érintetlenségéről való meggyőződést követően kezdhető meg.
