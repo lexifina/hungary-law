@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-1-20-6B
 | 2011-01-14 | 1990-1-20-6B.14 | 1/2011. (I. 11.) NFM rendelet |
 | 2015-07-28 | 1990-1-20-6B.15 | 44/2015. (VII. 20.) NFM rendelet |
 | 2017-01-03 | 1990-1-20-6B.16 | 29/2004. (III. 12.) GKM rendelet |
+| 2017-01-29 | 1990-1-20-6B.17 | 124/2005. (XII. 29.) GKM rendelet |

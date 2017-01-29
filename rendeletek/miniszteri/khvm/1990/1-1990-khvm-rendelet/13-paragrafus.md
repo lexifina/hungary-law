@@ -10,6 +10,6 @@ c) a 9. §-a (1) bekezdését — a fékerőmérő berendezést kivéve — 1993
 
 kezdődően kell alkalmazni.
 
-(2)[^68] A rendeletben foglalt járműfenntartó tevékenység személyi és dologi feltételeinek megtartása mellett a tevékenységet végző járműfenntartó szervezeteknek figyelemmel kell lenniük a külön jogszabályokban meghatározott, közegészségügyi, környezetvédelmi, balesetvédelmi, tűzvédelmi és más műszaki jellegű előírásokra is.
+(2)[^65] A rendeletben foglalt járműfenntartó tevékenység személyi és dologi feltételeinek megtartása mellett a tevékenységet végző járműfenntartó szervezeteknek figyelemmel kell lenniük a külön jogszabályokban meghatározott, közegészségügyi, környezetvédelmi, balesetvédelmi, tűzvédelmi és más műszaki jellegű előírásokra is.
 
-[^68]: A 13. § (2) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^65]: A 13. § (2) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.

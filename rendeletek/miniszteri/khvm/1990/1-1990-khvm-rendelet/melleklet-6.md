@@ -1,20 +1,6 @@
-## Megjegyzések:
+6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^154]
 
-## 1 Értékelő ellenőrzést az MSZ–07–4450:1988 Gépjárművek és pótkocsik kerékfékszerkezeteinek vizsgálata, követelményei és minősítése görgős fékerőmérő berendezéssel című szabvány, illetve MSZ–07–4451:1990 Közúti járművek fékhatásának vizsgálata lassulásmérővel című szabvány szerint vagy az 5/1990. (IV. 12.) KöHÉM rendelet 5. számú melléklete 4. fejezetének 1.5. pontja szerinti előírás alapján kell végezni.
-
-## 2 Helyettesítő mérés a hibás fékerőmérő próbapad javításának időtartama alatt, illetve a szokványos próbapadon nem mérhető járműveknél (pl. traktor).
-
-## 3 3,5 t megengedett össztömeg fölötti gépjárművek javításánál nem kötelező.
-
-## 4 18"-nál nagyobb méretű kerekek kiegyensúlyozottságának ellenőrzése nem kötelező, de a kormányzott mellső kerekeken ajánlott.
-
-## 5 Alkalmazása 2004. január 1. napja után kötelező.
-
-## 6 A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
-
-6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^161]
-
-A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei
+## A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei
 
 | Berendezés | Eszközzel mérendő érték, műszaki jellemző | Az alkalmazott mérőeszköz legnagyobb megengedett hibája(1) |
 
@@ -120,10 +106,6 @@ A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló b
 
 | kézi gázszivárgás ellenőrző készülék | jelzési határ | alsó éghetőségi koncentráció legfeljebb | 5%-a | ±20% |
 
-| menetírót ellenőrző műszer | a Tanács 3821/85/EGK rendelete, valamint az AETR Megállapodás7 szerinti pontossági követelmények ellenőrzéséhez szükséges mérendő érték | EAL-R28 mérésügyi kiadvány szerint |
-
-| sebességkorlátozót ellenőrző műszer | a menetíró járműhöz illesztésének ellenőrzéséhez szükséges mérendő értékek, a beállított sebesség értéke (vset = km/óra) | EAL-R28 mérésügyi kiadvány szerint |
-
 ## Megjegyzések:
 
 (1) A %-ban kifejezett legnagyobb megengedett hiba a berendezés felső méréshatárának százalékát jelenti.
@@ -134,4 +116,4 @@ A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló b
 
 8 Guide to Expression of uncertainty in Calibration. Magyar fordítását lásd: Mérésügyi közlemények XXXIX. évfolyam 1998/3 56–65. oldal.
 
-[^161]: A 6. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 29/2004. (III. 12.) GKM rendelet 6. §-ának (4) bekezdése szerint módosított szöveg. A Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^154]: A 6. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 29/2004. (III. 12.) GKM rendelet 6. §-ának (4) bekezdése szerint módosított szöveg. A Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg. A 6. számú melléklet a 75/2016. (XII. 29.) NFM rendelet 40. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38. §-át.

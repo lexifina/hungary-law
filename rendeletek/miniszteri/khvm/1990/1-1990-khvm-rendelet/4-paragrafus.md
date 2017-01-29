@@ -6,7 +6,7 @@ b)[^20] 6–20 fő járműfenntartó dolgozói létszámig legalább a szakirán
 
 c)[^21] 20 fő járműfenntartó dolgozói létszám felett a szakiránynak megfelelő felsőfokú képesítéssel és legalább három év szakmai gyakorlattal
 
-rendelkező személy látja el.
+## rendelkező személy látja el.
 
 (2)[^22] Járműfenntartó szervezetek az általuk üzemeltetett gépjárműveken fenntartási tevékenységet abban az esetben végezhetnek, ha a járműfenntartó tevékenység szakmai irányítását
 
@@ -16,7 +16,7 @@ b)[^24] 16–70 db jármű esetében legalább a szakiránynak megfelelő közé
 
 c)[^25] 70 db-nál több jármű esetében a szakiránynak megfelelő felsőfokú szakképesítéssel és legalább három év szakmai gyakorlattal
 
-rendelkező személy látja el.
+## rendelkező személy látja el.
 
 (3) A közép-, illetőleg felsőfokú képesítéseket a 2. számú melléklet tartalmazza.
 

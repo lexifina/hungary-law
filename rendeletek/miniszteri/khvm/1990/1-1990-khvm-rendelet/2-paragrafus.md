@@ -8,15 +8,15 @@ c)[^7]
 
 d)[^8] veszélyes alkotó: a járműben, annak részegységében vagy alkatrészében lévő anyag, amely a hulladékok jegyzékéről szóló külön jogszabály[^9] alapján veszélyes hulladéknak minősül.
 
-e)[^10] tachográf: a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet (a továbbiakban: a 3821/85/EGK tanácsi rendelet) I. vagy I.B. mellékletében meghatározott menetíró készülék, ideértve a megfelelő működéséhez szükséges járműalkatrészeket és tartozékokat is,
+e)[^10]
 
-f)[^11] analóg tachográf: a 3821/85/EGK tanácsi rendelet I. mellékletében meghatározott kivitelű tachográf,
+f)[^11]
 
-g)[^12] digitális tachográf: a 3821/85/EGK tanácsi rendelet I.B. mellékletében meghatározott kivitelű tachográf,
+g)[^12]
 
-h)[^13] aktiválás: a 3821/85/EGK tanácsi rendelet I.B. melléklete I. fejezetének a) pontjában meghatározott tevékenység, amely az 1. számú melléklet 18. pontjában a) és d) alpontjaiban meghatározott tevékenység tekintetében felkészült járműfenntartó szervezetnél (digitális tachográf műhely) végezhető,
+h)[^13]
 
-i)[^14] adapter: a 3821/85/EGK tanácsi rendelet I.B. melléklet I. fejezet rr) pontjában meghatározott, a menetíró készülék részét képező szerkezet.
+i)[^14]
 
 [^3]: A 2. § a 29/2004. (III. 12.) GKM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § a) pontja a 63/2009. (XI. 23.) KHEM rendelet 2. §-ával megállapított szöveg.
@@ -25,8 +25,8 @@ i)[^14] adapter: a 3821/85/EGK tanácsi rendelet I.B. melléklet I. fejezet rr) 
 [^7]: A 2. § c) pontját a 63/2009. (XI. 23.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^8]: A 2. § d) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 9. pontja szerint módosított szöveg.
 [^9]: Lásd 16/2001. (VII. 18.) KöM rendeletet.
-[^10]: A 2. § e) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be.
-[^11]: A 2. § f) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be.
-[^12]: A 2. § g) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be.
-[^13]: A 2. § h) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
-[^14]: A 2. § i) pontját a 37/2009. (VIII. 5.) KHEM rendelet 1. §-a iktatta be.
+[^10]: A 2. § e) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^11]: A 2. § f) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^12]: A 2. § g) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^13]: A 2. § h) pontját a 124/2005. (XII. 29.) GKM rendelet 16. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^14]: A 2. § i) pontját a 37/2009. (VIII. 5.) KHEM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés a) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
