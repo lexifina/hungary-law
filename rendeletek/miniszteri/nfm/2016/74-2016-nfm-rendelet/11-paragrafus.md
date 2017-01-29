@@ -1,0 +1,1 @@
+## „(4) Az alapképesítés és a továbbképzési képesítés megszerzésével kapcsolatos szaktanfolyami képzésre és vizsgáztatásra vonatkozó szakmai követelményeket e rendelet alapján a közlekedési hatóság határozza meg.”
