@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2014-03-15 | 2005-24-20-0L.20 | 58/2011. (XI. 24.) NFM rendelet |
 | 2015-04-01 | 2005-24-20-0L.21 | 14/2015. (III. 31.) NFM rendelet |
 | 2017-01-03 | 2005-24-20-0L.22 | 1/2017. (I. 3.) NFM rendelet |
+| 2017-01-29 | 2005-24-20-0L.23 | 74/2016. (XII. 29.) NFM rendelet |
