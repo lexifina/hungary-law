@@ -8,7 +8,5 @@ c) a jogorvoslati eljárásra az Itv. 32. §-ában foglaltakat,
 
 d)[^16] a mulasztási bírságra az Itv. a 82. §-ában foglaltakat
 
-kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e rendelet tekintetében díjat kell érteni.
-
 [^15]: A 6. § b) pontja a 75/2015. (XII. 29.) NFM rendelet 11. § b) pontja szerint módosított szöveg.
 [^16]: A 6. § d) pontja a 75/2015. (XII. 29.) NFM rendelet 12. § a) pontja szerint módosított szöveg.

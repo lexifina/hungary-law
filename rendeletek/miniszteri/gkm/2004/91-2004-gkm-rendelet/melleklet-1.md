@@ -150,5 +150,7 @@ III. FEJEZET
 
 IV. FEJEZET
 
+A MENETÍRÓ KÉSZÜLÉKRŐL SZÓLÓ MINISZTERI RENDELETBEN MEGHATÁROZOTT HATÓSÁGI ELJÁRÁSOK IGAZGATÁSI SZOLGÁLTATÁSI DÍJAI
+
 [^19]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
-[^20]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell. Az 1. számú melléklet a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja szerint módosított szöveg.
+[^20]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell. Az 1. számú melléklet a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja, a 74/2016. (XII. 29.) NFM rendelet 1. §-a szerint módosított szöveg.

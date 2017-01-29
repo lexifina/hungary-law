@@ -20,7 +20,7 @@ c) környezetvédelmi információs adatbázis létrehozása és működtetése,
 
 d) a lakosság tájékoztatása, környezetvédelmi tudatosságának javítása
 
-céljainak jogszabályban meghatározott állami feladatai költségfedezetére fordíthatja.
+## céljainak jogszabályban meghatározott állami feladatai költségfedezetére fordíthatja.
 
 (4)[^14] A Nemzeti Fejlesztési Minisztérium a környezetvédelmi hozzájárulásból számlájára befolyt összeget kizárólag a környezetvédelmi felülvizsgálati rendszer feleügyeletével és ellenőrzésével kapcsolatos működési költségek fedezetére, és ezen belül különösen a környzetvédelmi felülvizsgáló szervezetek ellenőrzése, az ellenőrző eszközök és technológia fejlesztése, valamint a közlekedési hatóság környezetvédelmi feladatainak ellátását biztosító informatikai rendszer fejlesztése céljainak jogszabályban meghatározott állami feladatai költségfedezetére fordíthatja.
 
