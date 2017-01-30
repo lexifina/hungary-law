@@ -4,14 +4,14 @@
 
 (2) A 2015. november 1. napját megelőzően megkezdett közbeszerzésekkel kapcsolatban megküldött kérelmekre és hirdetményekre a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 92/2011. (XII. 30.) NFM rendelet alkalmazandó.
 
-(3)–(4)[^16]
+(3)–(4)[^19]
 
-(5)[^17] Ahol jogszabály egységes európai közbeszerzési dokumentumot említ, abban az esetben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendelet szerinti formanyomtatványt kell alkalmazni.
+(5)[^20] Ahol jogszabály egységes európai közbeszerzési dokumentumot említ, abban az esetben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendelet szerinti formanyomtatványt kell alkalmazni.
 
-(6)[^18]
+(6)[^21]
 
 (7) Amennyiben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló európai bizottsági végrehajtási rendelet szerinti dokumentum elektronikusan is kitölthető az Európai Bizottság által rendelkezésre bocsátott elektronikus felületen, ennek elérhetőségéről a Hatóság honlapján tájékoztatást tesz közzé.
 
-[^16]: A 43. § (3)–(4) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
-[^17]: A 43. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 9. §-ával megállapított szöveg.
-[^18]: A 43. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^19]: A 43. § (3)–(4) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^20]: A 43. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 9. §-ával megállapított szöveg.
+[^21]: A 43. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.

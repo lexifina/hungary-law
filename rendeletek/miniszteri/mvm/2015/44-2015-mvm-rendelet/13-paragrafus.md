@@ -2,17 +2,19 @@
 
 13. § (1) Amennyiben a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri, a hirdetmények, illetve erre irányuló kérelem esetén a közbeszerzési dokumentumok ellenőrzéséért – a (6)–(7) bekezdés szerinti ajánlatkérők kivételével – ellenőrzési díjat kell fizetni.
 
-(2) Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen:
+(2)[^9] Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen
 
-a) a 9. § (1) bekezdése szerinti felhívás, illetve közbeszerzési eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében: 150 000 forint,
+a) a 9. § (1) bekezdése szerinti felhívás, illetve közbeszerzési eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében: 200 000 forint,
 
-b) a közbeszerzési dokumentumok esetében: 150 000 forint,
+b) a közbeszerzési dokumentumok esetében: 200 000 forint,
 
-c) a közbeszerzési eljárást megindító, illetve meghirdető felhívás, és az ajánlattételi vagy részvételi határidő meghosszabbítását tartalmazó hirdetmény esetében: 50 000 forint,
+c) a közbeszerzési eljárást megindító, illetve meghirdető felhívás, a koncessziós beszerzési eljárást megindító felhívás, a tervpályázati kiírás, illetve a közbeszerzési dokumentumok módosítása, továbbá az ajánlattételi vagy részvételi, illetve pályaművek benyújtására vonatkozó határidő meghosszabbítását tartalmazó hirdetmény esetében: 80 000 forint,
 
-d) az eljárás eredményéről és a tervpályázati eljárás eredményéről szóló tájékoztatót tartalmazó hirdetmények esetében: 80 000 forint,
+d) az eljárás eredményéről és a tervpályázati eljárás eredményéről szóló tájékoztatót tartalmazó hirdetmények esetében: 100 000 forint,
 
-e) az a) és c)–d) pontok alá nem tartozó hirdetmények esetében: 50 000 forint.
+e) a szerződés módosításáról szóló tájékoztató esetében: 100 000 forint,
+
+f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 forint.
 
 (3) Az ellenőrzési díjat a Hatóságnak a Magyar Államkincstárnál vezetett MNB 10032000-01720361-00000000 számú számlájára kell befizetni.
 
@@ -25,3 +27,4 @@ e) az a) és c)–d) pontok alá nem tartozó hirdetmények esetében: 50 000 fo
 (7) Az ellenőrzési díj megfizetése alól mentesség illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 5. § (1) bekezdés c) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
 
 [^8]: A 4. alcím címe a 43/2016. (XII. 30.) MvM rendelet 11. § 5. pontjával megállapított szöveg.
+[^9]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.

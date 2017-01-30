@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-44-20-6
 | 2015-11-03 | 2015-44-20-6N.2 | 2010: CXXX. törvény |
 | 2015-12-01 | 2015-44-20-6N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-01 | 2015-44-20-6N.4 | 43/2016. (XII. 30.) MvM rendelet |
+| 2017-01-30 | 2015-44-20-6N.5 | 43/2016. (XII. 30.) MvM rendelet |
