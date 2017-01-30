@@ -1,3 +1,0 @@
-## 11. § Az R2. 33/F. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az alapképesítés és a továbbképzési képesítés megszerzésével kapcsolatos szaktanfolyami képzésen részt vett gépkocsivezető részére – sikeres vizsga alapján – vezetői engedélye érvényessége esetén a közlekedési hatóság a 14. mellékletben meghatározott, a 95. kódszámot tartalmazó, öt évig hatályos „Gépjárművezetői képesítési igazolvány”-t ad ki. A Gépjárművezetői képesítési igazolvány – a gépkocsivezető választása szerint – személyesen vehető át a közlekedési hatóság hivatalos helyiségében, illetőleg postai úton külön hivatalos iratként továbbítható.”
