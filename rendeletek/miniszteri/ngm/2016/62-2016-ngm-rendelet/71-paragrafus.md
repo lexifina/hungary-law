@@ -1,4 +1,4 @@
-## 70. §[^77]
+## 70. §[^78]
 
 ## VI. Fejezet
 
@@ -14,4 +14,4 @@
 
 (5) Ez a rendelet 2018. január 2-án hatályát veszti.
 
-[^77]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
