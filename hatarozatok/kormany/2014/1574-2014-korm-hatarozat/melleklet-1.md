@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2016. december 31.[^1]
+## Határidő: 2018. június 30.[^1]
 
 1. melléklet az 1574/2014. (X. 10.) Korm. határozathoz
 
@@ -68,4 +68,4 @@
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A határidő az 1340/2016. (VII. 4.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1033/2017. (I. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
