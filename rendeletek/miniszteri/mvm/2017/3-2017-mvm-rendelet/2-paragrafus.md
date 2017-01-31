@@ -1,0 +1,1 @@
+## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
