@@ -6,7 +6,7 @@ A Kormány
 
 3. felhívja a nemzetgazdasági minisztert, hogy a Beruházás megvalósítása érdekében – az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához szükséges összesen 24 000 millió forint költségvetési forrásnak a biztosításáról és ütemezett rendelkezésre állásáról az egyes költségvetési években a következő bontásban:
 
-a) a 2016. évben 4550 millió forint a Magyarország központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetem, főiskolák címen,
+a)[^1] a 2016. évben 2500 millió forint a Magyarország központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetem, főiskolák címen,
 
 b) a 2017. évben 12 300 millió forint,
 
@@ -29,3 +29,12 @@ a b)–d) alpont tekintetében az adott évi központi költségvetés tervezés
 Felelős: emberi erőforrások minisztere
 
 Határidő: a pályázati források rendelkezésre állását követően
+
+5.[^2] felhívja a nemzetgazdasági minisztert, hogy a Beruházás megvalósítása érdekében gondoskodjon a Beruházás megvalósításához 2017. évben szükséges – 3. pont b) alpontja szerinti forráson felül – további 2050 millió forint költségvetési forrásnak a biztosításáról.
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: a felmerülés ütemében
+
+[^1]: A 3. pont a) alpontja az 1033/2017. (I. 31.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: Az 5. pontot az 1033/2017. (I. 31.) Korm. határozat 7. pontja iktatta be.

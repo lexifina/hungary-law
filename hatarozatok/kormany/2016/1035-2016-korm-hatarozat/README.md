@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1035-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-02-09 | 2016-1035-30-22.1 | 1035/2016. (II. 9.) Korm. határozat |
+| 2017-01-31 | 2016-1035-30-22.2 | 1033/2017. (I. 31.) Korm. határozat |
