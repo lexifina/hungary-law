@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1438-30
 | --- | --- | --- |
 | 2016-08-17 | 2016-1438-30-22.1 | 1438/2016. (VIII. 17.) Korm. határozat |
 | 2016-08-18 | 2016-1438-30-22.2 | 2010: CXXX. törvény |
+| 2017-01-31 | 2016-1438-30-22.3 | 1033/2017. (I. 31.) Korm. határozat |
