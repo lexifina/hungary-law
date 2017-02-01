@@ -8,4 +8,4 @@
 
 (4) Az e § szerinti központosított közbeszerzési eljárások részletes – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – szabályait külön jogszabály határozza meg.
 
-(5)
+(5) A központosított közbeszerzési eljárásokban – az e törvény végrehajtására kiadott jogszabályban meghatározott kivételekkel – a központi beszerző szerv és a gazdasági szereplők között minden írásbeli kommunikáció – ideértve a részvételi jelentkezések és ajánlatok benyújtását is – elektronikus úton történik.

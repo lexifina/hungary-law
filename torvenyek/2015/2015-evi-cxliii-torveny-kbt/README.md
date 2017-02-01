@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2016-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-143-00-00.10 |
 | 2016-12-16 | 2016. évi CLX. törvény | 2015-143-00-00.11 |
 | 2017-01-01 | 2016. évi CLX. törvény | 2015-143-00-00.12 |
+| 2017-02-01 | 2016. évi CLX. törvény | 2015-143-00-00.13 |
