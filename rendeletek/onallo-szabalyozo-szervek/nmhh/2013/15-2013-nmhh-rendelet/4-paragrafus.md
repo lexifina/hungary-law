@@ -30,6 +30,8 @@ g) a nemzeti ünnep, történelmi évforduló, közismert személyről való meg
 
 (5) Az amatőrállomás vagy annak fő berendezése
 
-a) a rádióberendezésekről és az elektronikus hírközlő végberendezésekről, valamint megfelelőségük kölcsönös elismeréséről szóló jogszabálynak megfelelően kereskedelmi forgalomba hozott rádióberendezés vagy annak része, vagy
+a)[^3] a rádióberendezésekről szóló NMHH rendeletnek megfelelően kereskedelmi forgalomba hozott rádióberendezés vagy annak része, vagy
 
 b) rádióamatőr által, rádióamatőr számára épített vagy átalakított berendezés lehet.
+
+[^3]: A 4. § (5) bekezdés a) pontja a 2/2017. (I. 17.) NMHH rendelet 25. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 21. §-át.
