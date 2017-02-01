@@ -14,25 +14,7 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint a fejezeti stabilitási tartalék előirányzatok felhasználásáról szóló 1726/2016. (XII. 10.) Korm. határozat 2. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára biztosított 300 000 000 forintból 109 600 800 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 3. A Nemzeti Sírkerttel kapcsolatos feladatok ellátása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1574/2014. (X. 10.) Korm. határozatban a „2016. december 31.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1855/2015. (XI. 24.) Korm. határozat 2. pontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30.; – a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1821/2016. (XII. 22.) Korm. határozat 5. pont a), b) és c) alpontjára is figyelemmel – a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 910 654 ezer forint és az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 64 746 ezer forint tekintetében 2018. június 30.” szöveg lép.
-
-## 6. A Modern Városok Program részeként megvalósuló Pécsi Tudományegyetem idegen nyelvű képzései bővítéséhez kapcsolódó kapacitás fejlesztéséhez, valamint a kutatási-fejlesztési potenciáljának fejlesztéséhez szükséges források biztosításáról szóló 1035/2016. (II. 9.) Korm. határozat (a továbbiakban: Határozat) 3. pont a) alpontjában a „4550 millió forint” szövegrész helyébe a „2500 millió forint” szöveg lép.
-
-## 7. A Határozat a következő 5. ponttal egészül ki:
-
-## (A Kormány)
-
-## „5. felhívja a nemzetgazdasági minisztert, hogy a Beruházás megvalósítása érdekében gondoskodjon a Beruházás megvalósításához 2017. évben szükséges – 3. pont b) alpontja szerinti forráson felül – további 2050 millió forint költségvetési forrásnak a biztosításáról.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: a felmerülés ütemében”
-
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő átcsoportosításról szóló 1807/2016. (XII. 20.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
+## 3–8.[^1]
 
 1. melléklet az 1033/2017. (I. 31.) Korm. határozathoz
 
@@ -137,3 +119,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
