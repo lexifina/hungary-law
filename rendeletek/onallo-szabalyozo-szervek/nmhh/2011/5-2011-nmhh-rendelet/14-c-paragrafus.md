@@ -1,4 +1,4 @@
-14/C. §[^25] (1) A támogatásra jogosultság igazolása iránti eljárásáért fizetendő díj, megrendelésre készülő filmalkotásnál,
+14/C. §[^26] (1) A támogatásra jogosultság igazolása iránti eljárásáért fizetendő díj, megrendelésre készülő filmalkotásnál,
 
 a) ha a filmalkotás közvetlen filmgyártási költsége a 10 millió forintot nem haladja meg, 10 000 Ft,
 
@@ -16,4 +16,4 @@ d) ha filmalkotás közvetlen filmgyártási költsége az 500 millió forintot 
 
 (5) Amennyiben a Hivatal az (1)–(4) bekezdés szerinti eljárásában megállapítja, hogy az ügyfél által megfizetett igazgatási szolgáltatási díj alapjának összege eltér a hatósági ügy tényállása alapján meghatározható igazgatási szolgáltatási díj alapjának összegétől (közvetlen filmgyártási költségtől), az eljárás során kiszabja az igazgatási szolgáltatási díjkülönbözetet.
 
-[^25]: A 14/C. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (3) bekezdése iktatta be.
+[^26]: A 14/C. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (3) bekezdése iktatta be.

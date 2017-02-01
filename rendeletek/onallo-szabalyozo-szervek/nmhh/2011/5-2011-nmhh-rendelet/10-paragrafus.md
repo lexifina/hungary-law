@@ -16,9 +16,12 @@ f) az Mttv. 49. § (8) bekezdése szerinti adatszolgáltatási eljárás díja 3
 
 g) az egyszerűsített rádióengedélyezési eljárás díja 0 Ft,
 
-h)[^16] a nem harmonizált frekvenciahasználatú rádióalkalmazás rádióberendezésének belföldi forgalomba hozatali szándéka bejelentésének díja 0 Ft.
+h)[^16]
 
-i) rádióamatőr engedély kiadása iránti eljárás díja 0 Ft.
+i) rádióamatőr engedély kiadása iránti eljárás díja 0 Ft,
+
+j)[^17] a rádióberendezésekkel kapcsolatos megfelelőségértékelési tevékenység végzésére jogosult szervezetté történő kijelölési eljárás díja 0 Ft.
 
 [^15]: A 10. § nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^16]: A 10. § h) pontja a 12/2012. (VIII. 9.) NMHH rendelet 5. §-ával megállapított szöveg.
+[^16]: A 10. § h) pontját a 2/2017. (I. 17.) NMHH rendelet 23. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.
+[^17]: A 10. § j) pontját a 2/2017. (I. 17.) NMHH rendelet 23. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 21. §-át.

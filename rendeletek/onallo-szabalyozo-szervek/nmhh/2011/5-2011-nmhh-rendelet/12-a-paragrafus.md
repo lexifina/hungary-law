@@ -1,6 +1,6 @@
 ## 12. § A Hivatal zavarvizsgálatra, zavarelhárításra irányuló eljárásáért fizetendő díj összege 0 Ft.
 
-12/A. §[^19] (1) A rádióamatőr vizsga előtt vizsgáztatási igazgatási szolgáltatási díjat kell fizetni, amelynek összege – a pótvizsga és az önálló morze vizsga kivételével – 4000 forint, morze vizsgával együtt 6000 forint.
+12/A. §[^20] (1) A rádióamatőr vizsga előtt vizsgáztatási igazgatási szolgáltatási díjat kell fizetni, amelynek összege – a pótvizsga és az önálló morze vizsga kivételével – 4000 forint, morze vizsgával együtt 6000 forint.
 
 (2) A pótvizsgáért és az önálló morze vizsgáért fizetendő díj összege 2000 forint.
 
@@ -8,4 +8,4 @@
 
 (4) Ha a vizsgára jelentkező a jelentkezését a vizsga kitűzött időpontja előtt írásban visszavonta, a már befizetett díjat számára a Hatóság harminc napon belül visszatéríti. A visszatérítés feltétele, hogy az írásbeli kérelem legkésőbb a kitűzött vizsgaidőpont napját megelőző napon a Hatósághoz beérkezzen.
 
-[^19]: A 12/A. §-t a 15/2013. (IX. 25.) NMHH rendelet 22. § (1) bekezdése iktatta be.
+[^20]: A 12/A. §-t a 15/2013. (IX. 25.) NMHH rendelet 22. § (1) bekezdése iktatta be.
