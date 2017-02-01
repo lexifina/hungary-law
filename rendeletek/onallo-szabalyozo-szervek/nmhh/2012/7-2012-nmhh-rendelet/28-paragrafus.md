@@ -4,7 +4,7 @@
 
 a) rádióberendezést és rádiórendszert,
 
-b) nagyfrekvenciás berendezést,
+b)[^51] nagyfrekvenciás villamos berendezést,
 
 c) nagyfrekvenciás jelet vagy mellékhatást keltő berendezést, valamint
 
@@ -19,3 +19,5 @@ d) villamos vagy elektronikus alkatrészeket tartalmazó berendezést
 (4) A rádióellenőrzés keretében a Hatóság az (1) bekezdésben meghatározott eszközöket frekvenciahasználati, elektromágneses összeférhetőségi (a továbbiakban: EMC), valamint összekapcsolási jellemzők vizsgálatával ellenőrzi.
 
 (5) A Hatóság hivatalból térerősség és ellátottsági paraméterek vizsgálatával ellenőrzi az elektronikus hírközlési szolgáltatókkal kötött hatósági szerződésben foglalt ellátottsági és minőségi mutatók teljesülését.
+
+[^51]: A 28. § (1) bekezdés b) pontja a 2/2017. (I. 17.) NMHH rendelet 24. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 21. §-át.

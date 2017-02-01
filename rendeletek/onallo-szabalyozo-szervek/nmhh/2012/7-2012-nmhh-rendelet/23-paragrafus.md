@@ -1,6 +1,6 @@
-## 22. §[^45] A nemzetközi forgalomban részt vevő légi, tengeri – beleértve: belvízi – földi mozgószolgálatok vagy rádiónavigációs szolgálat rádiórendszere részére külföldi távközlési igazgatás által kiállított rádióengedélyt a Hatóság az NFFF-ben meghatározottak alapján fogadja el.
+## 22. §[^47] A nemzetközi forgalomban részt vevő légi, tengeri – beleértve: belvízi – földi mozgószolgálatok vagy rádiónavigációs szolgálat rádiórendszere részére külföldi távközlési igazgatás által kiállított rádióengedélyt a Hatóság az NFFF-ben meghatározottak alapján fogadja el.
 
-23. § (1)[^46] A Hatóság a frekvenciakijelölést vagy rádióengedélyt hatósági eljárásban hivatalból visszavonja vagy módosítja,
+23. § (1)[^48] A Hatóság a frekvenciakijelölést vagy rádióengedélyt hatósági eljárásban hivatalból visszavonja vagy módosítja,
 
 a) ha azt jogszabály írja elő;
 
@@ -22,5 +22,5 @@ i) ha a légiközlekedési hatóság vagy a katonai légügyi hatóság a légi 
 
 (2) A Hatóság a pályázati vagy árverési eljárás során szerzett frekvenciahasználati jogosultságot megállapító határozatot a frekvenciahasználati jogosultsággal rendelkező vállalkozás kérelmére köteles visszavonni.
 
-[^45]: A 22. § a 2/2016. (II. 26.) NMHH rendelet 31. § 14. pontja szerint módosított szöveg.
-[^46]: A 23. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 29. §-ával megállapított szöveg.
+[^47]: A 22. § a 2/2016. (II. 26.) NMHH rendelet 31. § 14. pontja szerint módosított szöveg.
+[^48]: A 23. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 29. §-ával megállapított szöveg.
