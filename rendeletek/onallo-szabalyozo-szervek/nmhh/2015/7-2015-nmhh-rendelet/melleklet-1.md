@@ -1,4 +1,4 @@
-## 16. §[^13]
+## 16. §[^25]
 
 1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez
 
@@ -28,4 +28,4 @@
 
 2.1.5. Amennyiben a rádiószolgálat megnevezése mellett zárójeles kiegészítés szerepel, akkor a rádiószolgálatra vonatkozó felosztás az így megjelölt működési típusra, alkalmazásra, frekvenciára korlátozódik.
 
-[^13]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

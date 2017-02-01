@@ -16,7 +16,7 @@ g) csatornahozzáférés és csatornafoglalás szabályai; vagy
 
 h) zavarvédelmi kritériumok.
 
-(2) A rádióberendezés – az Eht. 80. § (2) bekezdése szerinti alapvető követelmény teljesítéséhez szükséges – frekvenciagazdálkodási jellemzői az alábbiak:
+(2)[^18] A rádióberendezés – a spektrumgazdálkodási alapvető követelmény teljesítéséhez szükséges – frekvenciagazdálkodási jellemzői az alábbiak:
 
 a) adójellemzők: frekvenciaeltérés, frekvenciastabilitás, teljesítmény, szomszédoscsatorna-teljesítmény, mellékhullám-sugárzás, intermodulációs csillapítás, feléledési idő, tranziens viselkedés, moduláció pontossága, kitöltési tényező;
 
@@ -56,4 +56,7 @@ c) antennajellemzők: antennanyereség, iránypontosság, keresztpolarizációs 
 
 15. a haszonbérbe adás esetleges lehetőségei, feltételei;
 
-16. a rádióberendezésre vonatkozó – az Eht. 80. § (3) bekezdése szerinti – egyes alapvető követelmények.
+16.[^19] a rádióberendezésre vonatkozó egyes további alapvető követelmények.
+
+[^18]: A 8. § (2) bekezdés nyitó szövegrésze a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^19]: A 8. § (3) bekezdés 16. pontja a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés c) pontja szerint módosított szöveg.

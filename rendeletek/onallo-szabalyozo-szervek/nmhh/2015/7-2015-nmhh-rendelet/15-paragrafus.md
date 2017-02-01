@@ -1,6 +1,6 @@
 ## 14. § E rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
-## 15. §[^12] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2. és 3. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti frekvenciafelosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
+## 15. §[^24] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2. és 3. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti frekvenciafelosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
 
 1. ERC/DEC/(96)06: az ERC 1996. március 7-i határozata a „Határozat a digitális kis hatókörzetű rádió (DSRR) összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (93)01 ERC-határozat visszavonásáról;
 
@@ -46,4 +46,4 @@
 
 22. ECC/DEC/(14)01: ECC-határozat a (02)07 ECC-határozat visszavonásáról.
 
-[^12]: A 15. § nyitó szövegrésze a 2/2016. (II. 26.) NMHH rendelet 37. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 15. § nyitó szövegrésze a 2/2016. (II. 26.) NMHH rendelet 37. § (2) bekezdése szerint módosított szöveg.

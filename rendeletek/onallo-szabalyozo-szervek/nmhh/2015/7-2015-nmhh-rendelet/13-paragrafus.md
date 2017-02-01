@@ -1,12 +1,12 @@
 ## 12. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-13. §[^11] (1) Ez a rendelet
+13. §[^21] (1) Ez a rendelet
 
 1. a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés összehangolt közösségi bevezetése számára fenntartandó frekvenciasávokról szóló 1987. június 25-i 87/372/EGK tanácsi irányelvnek és az azt módosító 2009/114/EK európai parlamenti és tanácsi irányelvnek,
 
 2. az európai vezeték nélküli digitális távközlés (DECT) Közösségen belüli összehangolt bevezetéséhez kijelölendő frekvenciasávról szóló 1991. június 3-i 91/287/EGK tanácsi irányelvnek,
 
-3. a rádióberendezésekről és a távközlő végberendezésekről, valamint a megfelelőségük kölcsönös elismeréséről szóló 1999. március 9-i 1999/5/EK európai parlamenti és tanácsi irányelvnek,
+3.[^22]
 
 4. az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002. március 7-i 2002/20/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -15,6 +15,8 @@
 6. a nyilvános páneurópai földi rádiós személyhívó rendszernek a Közösségen belüli összehangolt bevezetéséhez kijelölt frekvenciasávokról szóló 90/544/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2005. december 14-i 2005/82/EK európai parlamenti és tanácsi irányelvnek,
 
 7. az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról szóló 2009. november 25-i 2009/140/EK európai parlamenti és tanácsi irányelvnek,
+
+7a.[^23] a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról és az 1999/5/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 2014/53/EU európai parlamenti és tanácsi irányelvnek,
 
 8. a 11/12/14 GHz frekvenciasávban működő kis adatsebességű műholdas mobil földi állomásokra (LMES) vonatkozó közös műszaki szabályokról szóló 1998. június 17-i 98/516/EK bizottsági határozatnak,
 
@@ -98,4 +100,6 @@
 
 (2) Ez a rendelet az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendeletnek és az azt módosító 657/2013/EU bizottsági végrehajtási rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^11]: A 13. § a 2/2016. (II. 26.) NMHH rendelet 35. §-ával megállapított szöveg.
+[^21]: A 13. § a 2/2016. (II. 26.) NMHH rendelet 35. §-ával megállapított szöveg.
+[^22]: A 13. § (1) bekezdés 3. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés c) pontja hatályon kívül helyezte.
+[^23]: A 13. § (1) bekezdés 7a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (5) bekezdése iktatta be.

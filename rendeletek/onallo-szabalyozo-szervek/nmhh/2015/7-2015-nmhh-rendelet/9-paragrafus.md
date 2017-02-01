@@ -10,4 +10,6 @@ d) az adott frekvenciasáv elektronikus hírközlési szolgáltatás nyújtásá
 
 e) a másodlagos kereskedelem nem megengedett.
 
-(2) A rádióberendezés belföldi forgalomba hozatali szándékát – a rádióberendezésekről és az elektronikus hírközlő végberendezésekről, valamint megfelelőségük kölcsönös elismeréséről szóló jogszabály vagy a nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezések belföldi forgalomba hozataláról és megfelelőségének igazolásáról szóló NMHH rendelet szerint – be kell jelenteni, kivéve a harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek jegyzékében szereplőket.
+(2)[^20]
+
+[^20]: A 9. § (2) bekezdését a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés b) pontja hatályon kívül helyezte.
