@@ -1,69 +1,69 @@
-## 1.[^197] Csongrádi borvidék: a Csongrád OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 1.[^200] Csongrádi borvidék: a Csongrád OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 2.[^198] Hajós-Bajai borvidék: a Hajós-Baja OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 2.[^201] Hajós-Bajai borvidék: a Hajós-Baja OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 3.[^199] Kunsági borvidék: a Kunság OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 3.[^202] Kunsági borvidék: a Kunság OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 4.[^200] Neszmélyi borvidék: a Neszmély OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 4.[^203] Neszmélyi borvidék: a Neszmély OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 5.[^201] Badacsonyi borvidék: a Badacsony OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 5.[^204] Badacsonyi borvidék: a Badacsony OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 6.[^202] Balatonfüred-Csopaki borvidék: a Balatonfüred-Csopak OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 6.[^205] Balatonfüred-Csopaki borvidék: a Balatonfüred-Csopak OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 7.[^203] Balaton-felvidéki borvidék: a Balaton-felvidék OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 7.[^206] Balaton-felvidéki borvidék: a Balaton-felvidék OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 8.[^204] Etyek-Budai borvidék: az Etyek-Buda OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 8.[^207] Etyek-Budai borvidék: az Etyek-Buda OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 9.[^205] Móri borvidék: a Mór OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 9.[^208] Móri borvidék: a Mór OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 10.[^206] Pannonhalmi borvidék: a Pannonhalma OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 10.[^209] Pannonhalmi borvidék: a Pannonhalma OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 11.[^207] Nagy-Somlói borvidék: a Nagy-Somló OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 11.[^210] Nagy-Somlói borvidék: a Nagy-Somló OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 12.[^208] Soproni borvidék: a Sopron OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 12.[^211] Soproni borvidék: a Sopron OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 13.[^209] Balatonboglári borvidék: a Balatonboglár OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 13.[^212] Balatonboglári borvidék: a Balatonboglár OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 14.[^210] Pécsi borvidék: a Pécs OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 14.[^213] Pécsi borvidék: a Pécs OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 15.[^211] Szekszárdi borvidék: a Szekszárd OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 15.[^214] Szekszárdi borvidék: a Szekszárd OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 16.[^212] Villányi borvidék: a Villány OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 16.[^215] Villányi borvidék: a Villány OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 17.[^213] Bükki borvidék: a Bükk OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 17.[^216] Bükki borvidék: a Bükk OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 18.[^214] Egri borvidék: az Eger OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 18.[^217] Egri borvidék: az Eger OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 19.[^215] Mátrai borvidék: a Mátra OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 19.[^218] Mátrai borvidék: a Mátra OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 20.[^216] Tokaji borvidék: a Tokaj OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 20.[^219] Tokaji borvidék: a Tokaj OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 21.[^217] Zalai borvidék: a Zala OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 21.[^220] Zalai borvidék: a Zala OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-## 22.[^218] Tolnai borvidék: a Tolna OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
+## 22.[^221] Tolnai borvidék: a Tolna OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^219]
+2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^222]
 
-[^197]: Az 1. melléklet 1. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^198]: Az 1. melléklet 2. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^199]: Az 1. melléklet 3. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^200]: Az 1. melléklet 4. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^201]: Az 1. melléklet 5. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^202]: Az 1. melléklet 6. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^203]: Az 1. melléklet 7. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^204]: Az 1. melléklet 8. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^205]: Az 1. melléklet 9. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^206]: Az 1. melléklet 10. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^207]: Az 1. melléklet 11. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^208]: Az 1. melléklet 12. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^209]: Az 1. melléklet 13. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^210]: Az 1. melléklet 14. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^211]: Az 1. melléklet 15. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^212]: Az 1. melléklet 16. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^213]: Az 1. melléklet 17. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^214]: Az 1. melléklet 18. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^215]: Az 1. melléklet 19. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^216]: Az 1. melléklet 20. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^217]: Az 1. melléklet 21. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^218]: Az 1. melléklet 22. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^219]: A 2. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § b) pontjával megállapított, a 88/2016. (XII. 29.) FM rendelet 38. §-a szerint módosított szöveg.
+[^200]: Az 1. melléklet 1. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^201]: Az 1. melléklet 2. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^202]: Az 1. melléklet 3. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^203]: Az 1. melléklet 4. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^204]: Az 1. melléklet 5. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^205]: Az 1. melléklet 6. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^206]: Az 1. melléklet 7. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^207]: Az 1. melléklet 8. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^208]: Az 1. melléklet 9. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^209]: Az 1. melléklet 10. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^210]: Az 1. melléklet 11. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^211]: Az 1. melléklet 12. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^212]: Az 1. melléklet 13. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^213]: Az 1. melléklet 14. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^214]: Az 1. melléklet 15. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^215]: Az 1. melléklet 16. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^216]: Az 1. melléklet 17. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^217]: Az 1. melléklet 18. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^218]: Az 1. melléklet 19. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^219]: Az 1. melléklet 20. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^220]: Az 1. melléklet 21. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^221]: Az 1. melléklet 22. pontja a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^222]: A 2. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § b) pontjával megállapított, a 88/2016. (XII. 29.) FM rendelet 38. §-a szerint módosított szöveg.

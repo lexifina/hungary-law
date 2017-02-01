@@ -4,19 +4,19 @@
 
 ## I. Fejezet
 
-## A BORÁSZATI TERMÉKEK FORGALOMBA HOZATALÁNAK RÉSZLETES SZABÁLYAI[^92]
+## A BORÁSZATI TERMÉKEK FORGALOMBA HOZATALÁNAK RÉSZLETES SZABÁLYAI[^95]
 
 ## A forgalomba hozatalhoz szükséges minták
 
-31. §[^93] (1)[^94] A borászati termékek forgalomba hozatali eljárásához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok lezárásáról.
+31. §[^96] (1)[^97] A borászati termékek forgalomba hozatali eljárásához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok lezárásáról.
 
-(2)[^95] A földrajzi jelzés nélküli borok, valamint ha a termékleírás, a helyi borbíráló bizottság (a továbbiakban: HBB) működési szabályzata vagy a borvidéki rendtartás úgy rendelkezik, az adott OEM- vagy OFJ-borászati termék esetén a borászati termékek forgalomba hozatalához szükséges minták:
+(2)[^98] A földrajzi jelzés nélküli borok, valamint ha a termékleírás, a helyi borbíráló bizottság (a továbbiakban: HBB) működési szabályzata vagy a borvidéki rendtartás úgy rendelkezik, az adott OEM- vagy OFJ-borászati termék esetén a borászati termékek forgalomba hozatalához szükséges minták:
 
 a) csak a hegybíró jelenlétében vehetők, úgy, hogy azokat a hegybíró zárja le, vagy
 
 b) forgalomba hozó általi lezárását a hegybíró ellenjegyzi.
 
-(3)[^96] A mintavételről jegyzőkönyvet kell készíteni, amelyben legalább az alábbi adatokat kell rögzíteni:
+(3)[^99] A mintavételről jegyzőkönyvet kell készíteni, amelyben legalább az alábbi adatokat kell rögzíteni:
 
 a) az előállító neve,
 
@@ -24,9 +24,9 @@ b) a mintavétel helye és időpontja,
 
 c) a mintavevő aláírása,
 
-d)[^97] a borászati termék származási bizonyítvány száma.
+d)[^100] a borászati termék származási bizonyítvány száma.
 
-(4)[^98] A forgalomba hozatali kérelem igényléséhez vett minták közül:
+(4)[^101] A forgalomba hozatali kérelem igényléséhez vett minták közül:
 
 a) a HBB működési szabályzatában, vagy a borászati hatóság által meghatározott számú minta az érzékszervi minősítés alapjául,
 
@@ -40,10 +40,10 @@ b) 2 palack minta az analitikai vizsgálatok elvégzésére szolgál.
 
 (8) A forgalomba hozó ellenmintára tarthat igényt. Ebben az esetben a forgalomba hozónak a (4) bekezdésben meghatározott számú mintánál annyival több mintát kell átadnia a minősítést végző részére, ahány ellenmintára igényt tart. A minősítést végző az átadott minták közül kiválasztja az ellenmintát, hitelesíti annak lezárását, és a forgalomba hozó részére átadja.
 
-[^92]: A harmadik rész I. fejezet címe a 64/2010. (V. 12.) FVM rendelet 5. §-ával megállapított, a 128/2012. (XII. 14.) VM rnedelet 30. § (14) bekezdése szerint módosított szöveg.
-[^93]: A 31. § a 64/2010. (V. 12.) FVM rendelet 6. §-ával megállapított szöveg.
-[^94]: A 31. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
-[^95]: A 31. § (2) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
-[^96]: A 31. § (3) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.
-[^97]: A 31. § (3) bekezdés d) pontja a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^98]: A 31. § (4) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.
+[^95]: A harmadik rész I. fejezet címe a 64/2010. (V. 12.) FVM rendelet 5. §-ával megállapított, a 128/2012. (XII. 14.) VM rnedelet 30. § (14) bekezdése szerint módosított szöveg.
+[^96]: A 31. § a 64/2010. (V. 12.) FVM rendelet 6. §-ával megállapított szöveg.
+[^97]: A 31. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
+[^98]: A 31. § (2) bekezdése a 20/2014. (X. 31.) FM rendelet 19. §-ával megállapított szöveg.
+[^99]: A 31. § (3) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.
+[^100]: A 31. § (3) bekezdés d) pontja a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^101]: A 31. § (4) bekezdése a 128/2012. (XII. 14.) VM rendelet 13. §.-ával megállapított szöveg.

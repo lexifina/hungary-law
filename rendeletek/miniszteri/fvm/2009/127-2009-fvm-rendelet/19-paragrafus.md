@@ -1,8 +1,8 @@
-## 18. §[^68] A szőlő származási bizonyítvány kiadását követő év január 31-ig a borászati termék származási bizonyítvány kiadására fel nem használt szőlő származási bizonyítványt a hegybírónak át kell adni. A hegybíró a borászati termék származási bizonyítvány kiadására fel nem használt szőlő származási bizonyítványokról nyilvántartást vezet, amit április 30-ig a borászati hatóság részére elektronikusan megküld. A szőlő származási bizonyítványra rá kell vezetni a szőlő tényleges felhasználását vagy a felhasználás elmaradásának okát.
+## 18. §[^71] A szőlő származási bizonyítvány kiadását követő év január 31-ig a borászati termék származási bizonyítvány kiadására fel nem használt szőlő származási bizonyítványt a hegybírónak át kell adni. A hegybíró a borászati termék származási bizonyítvány kiadására fel nem használt szőlő származási bizonyítványokról nyilvántartást vezet, amit április 30-ig a borászati hatóság részére elektronikusan megküld. A szőlő származási bizonyítványra rá kell vezetni a szőlő tényleges felhasználását vagy a felhasználás elmaradásának okát.
 
 19. § (1) Szőlő borászati célú felhasználása esetén a szőlő származási bizonyítványt vissza kell vonni.
 
-(2)[^69] Borászati célú felhasználásnak minősül és borászati termék származási bizonyítványt kell kiállítani must, sűrített szőlőmust, finomított szőlőmustsűrítmény előállítása esetén függetlenül attól, hogy a keletkezett termék végfelhasználása milyen irányú lesz. A cefre és a zúzott szőlő előállítása esetén szőlő származási bizonyítványt kell kiállítani.
+(2)[^72] Borászati célú felhasználásnak minősül és borászati termék származási bizonyítványt kell kiállítani must, sűrített szőlőmust, finomított szőlőmustsűrítmény előállítása esetén függetlenül attól, hogy a keletkezett termék végfelhasználása milyen irányú lesz. A cefre és a zúzott szőlő előállítása esetén szőlő származási bizonyítványt kell kiállítani.
 
-[^68]: A 18. § a 20/2014. (X. 31.) FM rendelet 12. §-ával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^69]: A 19. § (2) bekezdése a 20/2014. (X. 31.) FM rendelet 13. §-ával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^71]: A 18. § a 20/2014. (X. 31.) FM rendelet 12. §-ával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^72]: A 19. § (2) bekezdése a 20/2014. (X. 31.) FM rendelet 13. §-ával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
