@@ -18,7 +18,7 @@
 
 8. EU megfelelőségi nyilatkozat: a gyártónak e rendelet szerinti írásbeli nyilatkozata, amelyben saját felelősségére kijelenti, hogy a készülék e rendelet szerinti alapvető követelményeknek megfelel;
 
-9. forgalmazó: bármely, a gyártótól vagy importőrtől különböző természetes vagy jogi személy az értékesítési láncban, aki vagy amely a készüléket forgalmazza;
+9.[^6]
 
 10. forgalomból történő kivonás: minden olyan intézkedés, amelynek célja, hogy megakadályozza a készülék forgalmazását az értékesítési láncban;
 
@@ -42,7 +42,7 @@ b) készülék és adott esetben egyéb eszköz kombinációjaként kialakított
 
 18. megfelelőségértékelő szervezet: megfelelőségértékelési tevékenységeket – ideértve a kalibrálást, vizsgálatot, tanúsítást és az ellenőrzést – végző szervezet;
 
-19. meghatalmazott képviselő: az Európai Unióban letelepedett bármely természetes vagy jogi személy, aki egy gyártótól írásbeli meghatalmazást kapott, hogy meghatározott feladatok céljából a nevében eljárjon;
+19.[^7]
 
 20. műszaki dokumentáció: a gyártó által elkészített a 2. vagy a 3. melléklet szerinti, a megfelelőségértékelés alapjául szolgáló iratok összessége, amely lehetővé teszi annak értékelését, hogy a készülék megfelel-e a vonatkozó követelményeknek, és tartalmazza-e a kockázatok megfelelő elemzését és értékelését;
 
@@ -55,3 +55,6 @@ b) készülék és adott esetben egyéb eszköz kombinációjaként kialakított
 24. zavartűrés: a berendezés azon képessége, hogy elektromágneses zavar jelentkezésekor ne romoljon a működőképessége.
 
 (2) E rendeletben alkalmazott egyéb elektromágneses összeférhetőséggel kapcsolatos fogalmakat az elektronikus hírközlésről szóló törvény szerint kell értelmezni.
+
+[^6]: A 2. § (1) bekezdés 9. pontját a 2/2017. (I. 17.) NMHH rendelet 27. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 19. pontját a 2/2017. (I. 17.) NMHH rendelet 27. § (3) bekezdés b) pontja hatályon kívül helyezte.
