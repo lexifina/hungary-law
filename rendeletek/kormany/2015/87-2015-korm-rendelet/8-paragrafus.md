@@ -26,7 +26,7 @@ a) – a működési engedély módosítása mellett – a felsőoktatási inté
 
 b) a felsőoktatási intézmény maximális hallgatói létszámát a 2. mellékletben meghatározottak, valamint a 4. § (3) bekezdésében foglaltak figyelembe vételével megfelelően csökkenti, vagy
 
-c)[^13] a működési engedélyt visszavonja, és kezdeményezi a miniszternél a felsőoktatási intézmény állami elismerése visszavonására irányuló eljárás megindítását, ha az Nftv. 6. § (2) bekezdésében – egyházi felsőoktatási intézmény esetében az Nftv. 91. § (5) bekezdésében, művészeti felsőoktatási intézmény esetében az Nftv. 101. § (4) bekezdésében, egyes intézmények esetében az Nftv. 104. §-ában, 104/B. §-ában és 104/C. §-ában – foglaltak nem teljesülnek.
+c)[^13] a működési engedélyt visszavonja, és kezdeményezi a miniszternél a felsőoktatási intézmény állami elismerése visszavonására irányuló eljárás megindítását, ha az Nftv. 6. § (2) bekezdésében – egyházi felsőoktatási intézmény esetében az Nftv. 91. § (5) bekezdésében, művészeti felsőoktatási intézmény esetében az Nftv. 101. § (4) bekezdésében, egyes intézmények esetében az Nftv. 104. §-ában, 104/B–104/D. §-ában – foglaltak nem teljesülnek.
 
 (5) Ha a felsőoktatási intézmény a nyilvántartásban szereplő valamely szakját vagy felsőoktatási szakképzését – a szakirányú továbbképzések és a kis létszámú szakok kivételével – öt egymást követő évben nem indította, azt a Hivatal a működési engedély felülvizsgálata során hivatalból törli a nyilvántartásból.
 
@@ -34,6 +34,6 @@ c)[^13] a működési engedélyt visszavonja, és kezdeményezi a miniszternél 
 
 (7)[^15] A közösségi felsőoktatási képzési központ működési engedélyét a Hivatal legalább ötévente felülvizsgálja. A felülvizsgálat során az (1) bekezdést, a (2) bekezdés a) és b) pontját és a (4)–(6) bekezdést megfelelően alkalmazni kell.
 
-[^13]: A 8. § (4) bekezdés c) pontja a 169/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^13]: A 8. § (4) bekezdés c) pontja a 169/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított, a 442/2016. (XII. 16.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^14]: A 8. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § d) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^15]: A 8. § (7) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 61. §-a iktatta be.
