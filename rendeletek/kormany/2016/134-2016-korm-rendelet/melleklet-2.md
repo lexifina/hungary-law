@@ -50,8 +50,6 @@
 
 | Gyomaendrődi járás |
 
-| Mezőkovácsházai járás |
-
 | Gyulai járás |
 
 | Sarkadi járás |
@@ -62,9 +60,11 @@
 
 | Szarvasi járás |
 
+| Mezőkovácsházai járás |
+
 | Orosházai járás |
 
-| 10 | BORSOD-ABAÚJ- ZEMPLÉN | Miskolci | Miskolci járás |
+| 10 | BORSOD-ABAÚJ-ZEMPLÉN | Miskolci | Miskolci járás |
 
 | 11 | Szerencsi | Szikszói járás |
 
@@ -172,7 +172,7 @@
 
 | Sárbogárdi járás |
 
-| 28 | GYŐR-MOSON- SOPRON | Győri | Győri járás |
+| 28 | GYŐR-MOSON-SOPRON | Győri | Győri járás |
 
 | Pannonhalmai járás |
 
@@ -190,7 +190,7 @@
 
 | Nyíradonyi járás |
 
-| 31 | Püspökladányi | Hajdúszoboszlói járás |
+| 31 | Berettyóújfalui | Hajdúszoboszlói járás |
 
 | Berettyóújfalui járás |
 
@@ -220,13 +220,9 @@
 
 | Hatvani járás |
 
-| 35 | JÁSZ-NAGYKUN- SZOLNOK | Szolnoki | Szolnoki járás |
-
-| Jászberényi járás |
+| 35 | JÁSZ-NAGYKUN-SZOLNOK | Szolnoki | Szolnoki járás |
 
 | Kunszentmártoni járás |
-
-| Jászapáti járás |
 
 | 36 | Karcagi | Karcagi járás |
 
@@ -238,7 +234,11 @@
 
 | Törökszentmiklósi járás |
 
-| 37 | KOMÁROM- ESZTERGOM | Tatabányai | Tatabányai járás |
+| 37 | Jászberényi | Jászberényi járás |
+
+| Jászapáti járás |
+
+| 38 | KOMÁROM-ESZTERGOM | Tatabányai | Tatabányai járás |
 
 | Oroszlányi járás |
 
@@ -250,41 +250,41 @@
 
 | Esztergomi járás |
 
-| 38 | NÓGRÁD | Salgótarjáni | Salgótarjáni járás |
+| 39 | NÓGRÁD | Salgótarjáni | Salgótarjáni járás |
 
 | Bátonyterenyei járás |
 
 | Pásztói járás |
 
-| 39 | Balassagyarmati | Balassagyarmati járás |
+| 40 | Balassagyarmati | Balassagyarmati járás |
 
 | Rétsági járás |
 
 | Szécsényi járás |
 
-| 40 | PEST | Érdi | Érdi járás |
+| 41 | PEST | Érdi | Érdi járás |
 
 | Budakeszi járás |
 
 | Pilisvörösvári járás |
 
-| 41 | Váci | Szentendrei járás |
+| 42 | Váci | Szentendrei járás |
 
 | Váci járás |
 
 | Szobi járás |
 
-| 42 | Dunakeszi | Gödöllői járás |
+| 43 | Dunakeszi | Gödöllői járás |
 
 | Aszódi járás |
 
 | Dunakeszi járás |
 
-| 43 | Szigetszentmiklósi | Szigetszentmiklósi járás |
+| 44 | Szigetszentmiklósi | Szigetszentmiklósi járás |
 
 | Ráckevei járás |
 
-| 44 | Monori | Gyáli járás |
+| 45 | Monori | Gyáli járás |
 
 | Monori járás |
 
@@ -292,13 +292,13 @@
 
 | Dabasi járás |
 
-| 45 | Ceglédi | Nagykátai járás |
+| 46 | Ceglédi | Nagykátai járás |
 
 | Ceglédi járás |
 
 | Nagykőrösi járás |
 
-| 46 | SOMOGY | Kaposvári | Kaposvári járás |
+| 47 | SOMOGY | Kaposvári | Kaposvári járás |
 
 | Csurgói járás |
 
@@ -306,7 +306,7 @@
 
 | Barcsi járás |
 
-| 47 | Siófoki | Fonyódi járás |
+| 48 | Siófoki | Fonyódi járás |
 
 | Marcali járás |
 
@@ -314,7 +314,7 @@
 
 | Tabi járás |
 
-| 48 | SZABOLCS-SZATMÁR- BEREG | Nyíregyházi | Nyíregyházi járás |
+| 49 | SZABOLCS-SZATMÁR-BEREG | Nyíregyházi | Nyíregyházi járás |
 
 | Ibrányi járás |
 
@@ -322,7 +322,7 @@
 
 | Tiszavasvári járás |
 
-| 49 | Kisvárdai | Vásárosnaményi járás |
+| 50 | Kisvárdai | Vásárosnaményi járás |
 
 | Baktalórántházai járás |
 
@@ -332,7 +332,7 @@
 
 | Záhonyi járás |
 
-| 50 | Mátészalkai | Mátészalkai járás |
+| 51 | Mátészalkai | Mátészalkai járás |
 
 | Fehérgyarmati járás |
 
@@ -340,19 +340,19 @@
 
 | Nyírbátori járás |
 
-| 51 | TOLNA | Szekszárdi | Szekszárdi járás |
+| 52 | TOLNA | Szekszárdi | Szekszárdi járás |
 
 | Tolnai járás |
 
 | Paksi járás |
 
-| 52 | Tamási | Tamási járás |
+| 53 | Tamási | Tamási járás |
 
 | Dombóvári járás |
 
 | Bonyhádi járás |
 
-| 53 | VAS | Szombathelyi | Szombathelyi járás |
+| 54 | VAS | Szombathelyi | Szombathelyi járás |
 
 | Körmendi járás |
 
@@ -360,13 +360,13 @@
 
 | Vasvári járás |
 
-| 54 | Sárvári | Celldömölki járás |
+| 55 | Sárvári | Celldömölki járás |
 
 | Kőszegi járás |
 
 | Sárvári járás |
 
-| 55 | VESZPRÉM | Veszprémi | Veszprémi járás |
+| 56 | VESZPRÉM | Veszprémi | Veszprémi járás |
 
 | Balatonalmádi járás |
 
@@ -374,30 +374,30 @@
 
 | Zirci járás |
 
-| 56 | Balatonfüredi | Balatonfüredi járás |
+| 57 | Balatonfüredi | Balatonfüredi járás |
 
 | Sümegi járás |
 
 | Tapolcai járás |
 
-| 57 | Pápai | Devecseri járás |
+| 58 | Pápai | Devecseri járás |
 
 | Ajkai járás |
 
 | Pápai járás |
 
-| 58 | ZALA | Zalaegerszegi | Zalaegerszegi járás |
+| 59 | ZALA | Zalaegerszegi | Zalaegerszegi járás |
 
 | Lenti járás |
 
 | Zalaszentgróti járás |
 
-| 59 | Nagykanizsai | Nagykanizsai járás |
+| 60 | Nagykanizsai | Nagykanizsai járás |
 
 | Keszthelyi járás |
 
 | Letenyei járás |
 
-2. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^9]
+2. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^10]
 
-[^9]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a szerint módosított szöveg.

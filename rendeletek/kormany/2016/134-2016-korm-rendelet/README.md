@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-134-20-
 | 2016-10-28 | 2016-134-20-22.5 | 324/2016. (X. 27.) Korm. rendelet |
 | 2017-01-01 | 2016-134-20-22.6 | 486/2016. (XII. 28.) Korm. rendelet |
 | 2017-01-02 | 2016-134-20-22.7 | 2010: CXXX. törvény |
+| 2017-02-01 | 2016-134-20-22.8 | 486/2016. (XII. 28.) Korm. rendelet |
