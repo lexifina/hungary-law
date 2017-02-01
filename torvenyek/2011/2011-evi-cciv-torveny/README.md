@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2016-11-30 | 2016. évi CXXVI. törvény | 2011-204-00-00.33 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2011-204-00-00.34 |
 | 2017-01-02 | 2016. évi CXXVI. törvény | 2011-204-00-00.35 |
+| 2017-02-01 | 2016. évi CXXVI. törvény | 2011-204-00-00.36 |
