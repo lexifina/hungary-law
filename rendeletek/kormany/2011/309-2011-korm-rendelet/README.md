@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-309-20-
 | 2016-09-03 | 2011-309-20-22.13 | 257/2016. (VIII. 31.) Korm. rendelet |
 | 2016-11-04 | 2011-309-20-22.14 | 325/2016. (X. 27.) Korm. rendelet |
 | 2017-01-01 | 2011-309-20-22.15 | 2010: CXXX. törvény |
+| 2017-02-01 | 2011-309-20-22.16 | 16/2017. (I. 31.) Korm. rendelet |

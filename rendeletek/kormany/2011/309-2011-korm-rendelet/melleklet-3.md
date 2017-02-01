@@ -1,4 +1,4 @@
-3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^24]
+3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^25]
 
 ## Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
 
@@ -110,4 +110,7 @@
 
 54. Külön jogszabályban meghatározott, az Európai unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásához kapcsolódó rendszerek (HCR-tagállami)
 
-[^24]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 184. § (2) bekezdésével megállapított szöveg.
+55.[^26] Központi Kormányzati Hírlevélküldő rendszer
+
+[^25]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 184. § (2) bekezdésével megállapított szöveg.
+[^26]: A 3. melléklet 55. pontját a 16/2017. (I. 31.) Korm. rendelet 2. §-a iktatta be.

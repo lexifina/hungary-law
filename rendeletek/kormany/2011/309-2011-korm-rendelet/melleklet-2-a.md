@@ -1,4 +1,4 @@
-2/A. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^23]
+2/A. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^24]
 
 ## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervekre vonatkozó szolgáltatási kivételek
 
@@ -26,4 +26,4 @@ c) C) alcím 2–3. pontjában
 
 felsorolt szolgáltatásokat.
 
-[^23]: A 2/A. mellékletet a 325/2016. (X. 27.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 2/A. mellékletet a 325/2016. (X. 27.) Korm. rendelet 3. §-a iktatta be.

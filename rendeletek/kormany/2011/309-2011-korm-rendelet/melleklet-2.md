@@ -134,7 +134,9 @@
 
 ## 3. Egyedileg igényelt perifériákkal való ellátás (szkenner, nyomtató) raktári készletből
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^22]
+## 4.[^22] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
+
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^23]
 
 ## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
@@ -159,4 +161,5 @@
 10. Nemzeti Fejlesztési Minisztérium.
 
 [^21]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^22]: A 2. melléklet a 325/2016. (X. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 2. melléklet a 325/2016. (X. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
