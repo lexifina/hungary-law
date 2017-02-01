@@ -1,3 +1,1 @@
-## 22. §[^11]
-
-[^11]: A 22. § a 2. § (4) bekezdése alapján 2017. február 1-jén lép hatályba.
+## 22. § A R3. 1. melléklete helyébe a 2. melléklet lép.
