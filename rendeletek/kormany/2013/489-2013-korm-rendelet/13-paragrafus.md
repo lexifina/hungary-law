@@ -1,10 +1,10 @@
-13. § (1)[^6] A fenntartó a tárgyév áprilisában, júliusában és októberében (a továbbiakban együtt: felülvizsgálati hónap) köteles megvizsgálni, hogy a felülvizsgálati hónapot megelőző tizenkét hónapban ténylegesen nyújtott ellátás adataiból éves szintre számított feladatmutató eléri-e a megállapított támogatás alapjául szolgáló feladatmutató 90 százalékát.
+13. § (1)[^7] A fenntartó a tárgyév áprilisában, júliusában és októberében (a továbbiakban együtt: felülvizsgálati hónap) köteles megvizsgálni, hogy a felülvizsgálati hónapot megelőző tizenkét hónapban ténylegesen nyújtott ellátás adataiból éves szintre számított feladatmutató eléri-e a megállapított támogatás alapjául szolgáló feladatmutató 90 százalékát.
 
 (2) A fenntartó köteles a többlettámogatásról a 11. § (3) bekezdésében foglaltakra tekintet nélkül lemondani, ha
 
 a) valamely engedélyesét vagy az engedélyese által nyújtott szolgáltatást törölték a szolgáltatói nyilvántartásból, vagy az engedélyest más fenntartó fenntartásába adta,
 
-b)[^7] az engedélyes támogatásra jogosító bejegyzett férőhelyszáma, az ellátható személyek támogatásra jogosító bejegyzett száma, a támogató szolgáltatás és a közösségi alapellátások támogatásra jogosító feladatmutatója, illetve a nem hálózat keretében működő helyettes szülőnél elhelyezhető gyermekek támogatásra jogosító bejegyzett száma a megállapított támogatás alapjául szolgáló feladatmutató alá csökken, vagy
+b)[^8] az engedélyes támogatásra jogosító bejegyzett férőhelyszáma, az ellátható személyek támogatásra jogosító bejegyzett száma, a támogató szolgáltatás és a közösségi alapellátások támogatásra jogosító feladatmutatója, illetve a nem hálózat keretében működő helyettes szülőnél elhelyezhető gyermekek támogatásra jogosító bejegyzett száma a megállapított támogatás alapjául szolgáló feladatmutató alá csökken, vagy
 
 c) az (1) bekezdés szerint vizsgálandó feladatmutató nem éri el a jogcímre megállapított támogatás alapjául szolgáló feladatmutató 90 százalékát.
 
@@ -18,5 +18,5 @@ b) a szolgáltatói nyilvántartásba újonnan bejegyzett engedélyesre és az e
 
 (5) Ha az igazgatóság észleli, hogy a fenntartó a (2) bekezdés szerinti lemondási kötelezettségének határidőben nem tett eleget, a lemondás benyújtásáig hivatalból felfüggeszti a támogatás folyósítását, és a fenntartót felszólítja a lemondási kötelezettség teljesítésére.
 
-[^6]: A 13. § (1) bekezdése a 32. § (2) bekezdésével megállapított szöveg.
-[^7]: A 13. § (2) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
+[^7]: A 13. § (1) bekezdése a 32. § (2) bekezdésével megállapított szöveg.
+[^8]: A 13. § (2) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.

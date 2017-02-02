@@ -6,7 +6,7 @@
 
 (3) A korrekció nem folyósítható, de – ha a korrekció visszafizetéssel jár – a korábbi egyházi fenntartó köteles a korrekció megfizetésére, ha
 
-a)[^24] az engedélyest törölték a szolgáltatói nyilvántartásból, és ezt követően nem az egyházi fenntartó másik engedélyese nyújtja a szolgáltatást az ellátottaknak,
+a)[^25] az engedélyest törölték a szolgáltatói nyilvántartásból, és ezt követően nem az egyházi fenntartó másik engedélyese nyújtja a szolgáltatást az ellátottaknak,
 
 b) a fenntartó már nem minősül egyházi fenntartónak, vagy
 
@@ -16,4 +16,4 @@ c) az engedélyes fenntartását nem egyházi fenntartó vette át.
 
 (5) A korrekcióról elszámolást nem kell benyújtani, a korrekció felhasználásának jogszerűségét az igazgatóság a támogatás felhasználásának ellenőrzésével egyidejűleg ellenőrzi.
 
-[^24]: A 27. § (3) bekezdés a) pontja a 499/2016. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^25]: A 27. § (3) bekezdés a) pontja a 499/2016. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
