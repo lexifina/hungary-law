@@ -1,3 +1,5 @@
+## 23–27. §[^1]
+
 1. melléklet a 2/2017. (I. 17.) NMHH rendelethez
 
 ## A MODUL: BELSŐ GYÁRTÁSELLENŐRZÉS
@@ -23,3 +25,5 @@ Az EU-megfelelőségi nyilatkozat egy példányát a piacfelügyeleti hatóság 
 5. Meghatalmazott képviselő
 
 A gyártónak a 4. pontban meghatározott kötelezettségei a gyártó nevében és felelősségére eljáró, meghatalmazott képviselője révén is teljesíthetőek, amennyiben ez szerepel a megbízásában.
+
+[^1]: A 23–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
