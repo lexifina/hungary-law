@@ -1,3 +1,5 @@
+## 87/A. §[^427]
+
 88. § (1) A kedvezményezett kizárólag a támogatás arányos csökkentése mellett jogosult csökkenteni az indikátor célértéket.
 
 (2) Ha egy indikátor nem éri el a projektre a támogatási szerződésben meghatározott érték 75%-át, a támogatás csökkentésre kerül, illetve a kedvezményezett – a vis maior esetét kivéve – a támogatás arányos részét, a következő képlet szerint köteles visszafizetni:
@@ -12,4 +14,5 @@ Visszaköveteléssel érintett támogatási arány = 75–(teljesített indikát
 
 (6)[^428] Ha az indikátor egyben a műszaki-szakmai tartalom részét képezi, a támogatási szerződésben szereplő tervérték csökkenése esetén a műszaki-szakmai tartalom csökkenésére vonatkozó, az 1. melléklet 65.4. pont c) alpontját szükséges alkalmazni.
 
+[^427]: A 87/A. §-t a 345/2016. (XI. 17.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 17/2017. (II. 1.) Korm. rendelet 9. §-a. Ez utóbbi módosító rendelet 8. §-a alapján a 2017. február 2-át megelőzően keletkezett támogatási jogviszonyokra, valamint megkezdett és a hatálybalépésekor még folyamatban lévő eljárásokban is alkalmazni kell.
 [^428]: A 88. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 53. §-a iktatta be.
