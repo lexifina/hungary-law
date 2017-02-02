@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1812-30
 | 2016-04-11 | 2014-1812-30-22.11 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2016-05-18 | 2014-1812-30-22.12 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2016-07-04 | 2014-1812-30-22.13 | 1182/2016. (IV. 11.) Korm. határozat |
+| 2017-02-02 | 2014-1812-30-22.14 | 1182/2016. (IV. 11.) Korm. határozat |
