@@ -1,5 +1,3 @@
-## szöveg lép.
-
 ## 12. Záró rendelkezések
 
 42. § (1) Ez a rendelet – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
