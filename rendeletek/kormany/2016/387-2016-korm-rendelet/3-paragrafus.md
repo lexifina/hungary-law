@@ -101,3 +101,10 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 (7) A Kormány a textilszál-elnevezésekről és a textiltermékek szálösszetételének ehhez kapcsolódó címkézéséről és jelöléséről, valamint a 73/44/EGK tanácsi irányelv, és a 96/73/EK és a 2008/121/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. szeptember 27-i 1007/2011/EU európai parlamenti és tanácsi rendeletben meghatározottak követésének betartása végett piacfelügyeleti hatóságként a minisztert és a megyeszékhely szerinti járási hivatalt jelöli ki.
 
 (8) A miniszter és a megyeszékhely szerinti járási hivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
+
+(9)[^1] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
+
+(10)[^2] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
+
+[^1]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^2]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
