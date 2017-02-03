@@ -40,7 +40,7 @@
 
 ## f) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 394 000 ezer forintból 20 230 ezer forint a K1. Személyi juttatások kiemelt előirányzaton, 5376 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 357 870 ezer forint a K3. Dologi kiadások kiemelt előirányzaton, 10 524 ezer forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2. A Határozat 4. pontjában a „2017. március 31.” szövegrész helyébe a „2017. március 31., a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím részére átcsoportosított 394,0 millió forint tekintetében 2017. június 30.” szöveg lép.
+## 2.[^1]
 
 ## 3. A Kormány egyetért azzal, hogy
 
@@ -119,3 +119,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
