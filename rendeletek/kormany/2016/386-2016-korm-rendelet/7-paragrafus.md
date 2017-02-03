@@ -70,15 +70,9 @@ b) a visszafizetési kötelezettséggel összefüggő eljárásokkal kapcsolatos
 
 c) a foglalkoztató, valamint a kifizetőhely felügyeletével kapcsolatos feladatokat,
 
-d) az egészségbiztosítási nyilvántartások vezetésével, így különösen
+d)[^2] az egészségbiztosítási nyilvántartások vezetésével kapcsolatosan a másodfokú eljárás alapján szükséges feladatokat,
 
-da) a TAJ-jal rendelkező személyek azonosító adatainak nyilvántartásával kapcsolatos feladatokat,
-
-db) a bejelentett személyek jogviszonyadatainak nyilvántartásával, valamint az egészségügyi szolgáltatásra való jogosultsággal és annak igazolásával kapcsolatos feladatokat,
-
-dc) az egészségbiztosítás jogosulti nyilvántartásának vezetésével, a nyilvántartás folyamatos monitorozásával kapcsolatos feladatokat,
-
-e) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat,
+e)[^3] a másodfokú eljárás alapján az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat,
 
 f) a miniszter felé az a)–e) pontban meghatározott feladatok, illetve a járási hivatal egészségbiztosítási feladatai végrehajtása során észlelt jogalkalmazási problémák jelzését,
 
@@ -102,7 +96,17 @@ b) az üzemi balesetből vagy foglalkozási megbetegedésből eredő egészségk
 
 c) a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
 
-d) a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a hatáskörébe tartozó feladatokat,
+d)[^4] a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a hatáskörébe tartozó feladatokat, továbbá az egészségbiztosítási nyilvántartások vezetésével, így különösen
+
+da) a TAJ-jal rendelkező személyek azonosító adatainak nyilvántartásával kapcsolatos feladatokat,
+
+db) a bejelentett személyek jogviszonyadatainak nyilvántartásával, valamint az egészségügyi szolgáltatásra való jogosultsággal és annak igazolásával kapcsolatos feladatokat,
+
+dc) a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a hatáskörébe tartozó feladatokat,
+
+dd) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat,
+
+de) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 44/C. § szerinti okirati bizonyítási eljárásokkal kapcsolatos feladatokat,
 
 e) az anyatej-elszámolások fogadásával, ellenőrzésével, feldolgozásával kapcsolatos feladatokat,
 
@@ -122,6 +126,13 @@ l) az a)–k) ponthoz kapcsolódó adatkezelési és adatszolgáltatási feladat
 
 m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a hatáskörébe utal.
 
+(5a)[^5] A járási hivatal az egészségbiztosítási feladatai keretében ellátja az Ebtv. 27. § (1), (2), (5), (7) és (11) bekezdése szerinti feladatokat.
+
 (6) A NEAK, az ONYF Központja és a kormányhivatalok a szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
 
 (7) A nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a járási hivatalok felügyeleti szerve a NEAK.
+
+[^2]: A 7. § (3) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^3]: A 7. § (3) bekezdés e) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^4]: A 7. § (5) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^5]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be.
