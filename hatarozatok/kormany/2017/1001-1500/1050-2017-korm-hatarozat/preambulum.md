@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az egyes városi infrastruktúra-elemek megújítását szolgáló kormányzati intézkedésekről szóló 1118/2016. (III. 10.) Korm. határozat 1. melléklet 8. pontja szerinti beruházás megvalósítása érdekében
