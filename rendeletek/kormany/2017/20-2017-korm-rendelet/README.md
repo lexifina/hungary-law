@@ -1,0 +1,9 @@
+# 20/2017. (II. 2.) Korm. rendelet
+
+a területi közigazgatás megerősítésével összefüggő egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-20-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-02-03 | 2017-20-20-22.1 | 20/2017. (II. 2.) Korm. rendelet |

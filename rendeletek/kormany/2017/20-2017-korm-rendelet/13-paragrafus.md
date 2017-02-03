@@ -1,0 +1,3 @@
+## 12. § A külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 6. §-ában az „az illetékes egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal” szövegrész helyébe az „a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró megyeszékhely szerinti járási hivatala, illetve a fővárosban Budapest Főváros Kormányhivatala XIII. Kerületi Hivatala” szöveg lép.
+
+## 13. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.) Korm. rendelet módosítása
