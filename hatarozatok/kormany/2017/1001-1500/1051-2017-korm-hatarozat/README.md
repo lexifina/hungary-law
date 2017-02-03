@@ -1,0 +1,9 @@
+# 1051/2017. (II. 3.) Korm. határozat
+
+az ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló XXXV. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal fejezet, a XVII. Nemzeti Fejlesztési Minisztérium fejezet és a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet közötti előirányzat-átcsoportosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1051-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-02-03 | 2017-1051-30-22.1 | 1051/2017. (II. 3.) Korm. határozat |
