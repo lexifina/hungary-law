@@ -4,7 +4,7 @@
 
 a) a 2. § (2) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest Főváros Kormányhivatalát,
 
-b) a 2. § (3) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében a megyei illetékességgel eljáró járási hivatalt, Pest megyében az Érdi Járási Hivatalt, Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatalát,
+b)[^10] a 2. § (3) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében a megyeszékhely szerinti járási (fővárosi kerületi) hivatalt, Pest megyében az Érdi Járási Hivatalt, Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatalát,
 
 c) a 2. § (5) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a megyei kormányhivatal járási hivatalát,
 
@@ -25,3 +25,5 @@ d) 2. § (6) bekezdése hatálya alá tartozó közúti közlekedési építmén
 a) az (1) bekezdés a) pontja, valamint az (5) bekezdés szerinti ügyek vonatkozásában a miniszter,
 
 b) az (1) bekezdés b)–d) pontja szerinti ügyek vonatkozásában a fővárosi és megyei kormányhivatal
+
+[^10]: A 12. § (1) bekezdés b) pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (3) bekezdés a) pontja szerint módosított szöveg.

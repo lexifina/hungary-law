@@ -10,11 +10,11 @@ b) a (2) bekezdés 16. pontjában foglalt ügyekben a közlekedési hatósági �
 
 c) a (3) bekezdés szerinti ügyekben elsőfokon országos illetékességgel Budapest Főváros Kormányhivatalát, másodfokon – ha a fellebbezést törvény lehetővé teszi – a minisztert,
 
-d) a (4) bekezdés szerinti ügyekben elsőfokon a megyei illetékességgel eljáró járási hivatalt, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatalát, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatalát – összeférhetetlenség esetén a fővárosi és megyei kormányhivatal által kérelemre kijelölt járási (fővárosi kerületi) hivatalt –, másodfokon – ha a fellebbezést törvény lehetővé teszi – a fővárosi és megyei kormányhivatalt
+d)[^2] a (4) bekezdés szerinti ügyekben elsőfokon a megyeszékhely szerinti járási (fővárosi kerületi) hivatalt, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatalát, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatalát – összeférhetetlenség esetén a fővárosi és megyei kormányhivatal által kérelemre kijelölt járási (fővárosi kerületi) hivatalt –, másodfokon – ha a fellebbezést törvény lehetővé teszi – a fővárosi és megyei kormányhivatalt
 
 ## jelöli ki.
 
-(2)[^2] Közúti gépjármű-közlekedési hatóságként – a 16. pontban foglalt ügyek kivételével – a miniszter jár el:
+(2)[^3] Közúti gépjármű-közlekedési hatóságként – a 16. pontban foglalt ügyek kivételével – a miniszter jár el:
 
 1. a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 41. § (1)–(2) bekezdése szerinti engedélyekkel, valamint a nemzetközi közúti áruszállítási engedélyekkel, a nemzetközi szerződések szerint engedélyköteles személyszállítási tevékenységet végző autóbuszok járati engedélyeivel és a Közlekedési Miniszterek Európai Konferenciája (CEMT) által létrehozott közlekedési engedélyekkel kapcsolatos hatáskör gyakorlása;
 
@@ -90,7 +90,7 @@ meghatározott országos nyilvántartások vezetésével összefüggő feladatok
 
 ## során.
 
-(3)[^3] Közúti gépjármű-közlekedési hatóságként országos illetékességgel Budapest Főváros Kormányhivatala jár el
+(3)[^4] Közúti gépjármű-közlekedési hatóságként országos illetékességgel Budapest Főváros Kormányhivatala jár el
 
 1. a gyorsan romló élelmiszerek nemzetközi közúti szállításáról szóló Egyezmény (ATP) hatálya alá tartozó szállítóeszközök időszakos ATP alkalmassági szemléjének elvégzése, az azonosító jelzés hitelesítése, annak használatának szabályozása, az alkalmassági bizonyítványának kiadása és a külföldi vizsgálati eredmények honosítása;
 
@@ -112,7 +112,7 @@ meghatározott országos nyilvántartások vezetésével összefüggő feladatok
 
 ## során.
 
-(4)[^4] Közúti gépjármű-közlekedési hatóságként a megyei illetékességgel eljáró járási hivatal, Pest megyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala jár el
+(4)[^5] Közúti gépjármű-közlekedési hatóságként a megyeszékhely szerinti járási (fővárosi kerületi) hivatal, Pest megyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala jár el
 
 1. a Kkt. szerinti vizsgáló állomási tevékenység engedélyezésével kapcsolatos hatáskör gyakorlása, a vizsgáló állomással a hatósági szerződés megkötése, a vizsgáló állomások és a műszaki vizsgabiztosok tevékenységének ellenőrzése, az ellenőrzés alapján a jogkövetkezmények alkalmazása, továbbá a hatóság által üzemeltetett, valamint az illetékességi területén hatósági szerződéssel rendelkező vizsgáló állomáson – a jármű tulajdonosára egyébként irányadó illetékességi szabálytól függetlenül – a közlekedési hatóság telephelyén végzett egyedi forgalomba helyezés engedélyezése, jármű-honosítási eljárás, a bármely telephelyen végzett forgalomba helyezés előtti és időszakos vizsgálat végzése, valamint a vizsgáló állomás és a járműfenntartó szervezetek tekintetében a Szolgtv. szerinti szolgáltatás felügyelete;
 
@@ -128,13 +128,13 @@ meghatározott országos nyilvántartások vezetésével összefüggő feladatok
 
 7. a (10) bekezdés szerinti szervezetek által felvett, jogsértést megállapító ellenőrzési jegyzőkönyv alapján kezdeményezett eljárás lefolytatása;
 
-8. a személytaxi-szolgáltatás és a személygépkocsis személyszállító szolgáltatáshoz előírt tevékenységi engedély, engedélykivonat kiadásával, valamint az önálló diszpécserszolgálati tevékenység engedélyezésével, a szolgáltatást végző személygépkocsivezető igazolványának kiadásával kapcsolatos eljárások, valamint a személytaxi-szolgáltatás és a személygépkocsis személyszállító tevékenységet érintő közlekedéshatósági szabályok megtartásának ellenőrzése;
+8.[^6] a személytaxi-szolgáltatás és a személygépkocsis személyszállító szolgáltatáshoz előírt tevékenységi engedély, engedélykivonat kiadásával, valamint az önálló diszpécserszolgálati tevékenység engedélyezésével, a szolgáltatást végző személygépkocsivezető igazolványának kiadásával kapcsolatos eljárásokban, valamint a személytaxi-szolgáltatás és a személygépkocsis személyszállító tevékenységet érintő közlekedéshatósági szabályok megtartásának ellenőrzése vonatkozásában, ideértve a más szervezetek által lefolytatott és jogsértést megállapító ellenőrzési jegyzőkönyv alapján kezdeményezett eljárásokat is;
 
 9. a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendeletben továbbá a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendeletben meghatározott piacfelügyeleti ellenőrzés végzése és ezzel összefüggésben a bírságolási eljárás lefolytatása;
 
-10. Magyarország tekintetében a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben a tagállam hatósága számára meghatározott feladatok tekintetében
+10.[^7] Magyarország tekintetében a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben a tagállam hatósága számára meghatározott feladatok tekintetében
 
-a) a digitális tachográf-kártyák kiadásával, cseréjével és pótlásával, valamint
+a) az ország egész területére kiterjedő területi illetékességgel a digitális tachográf-kártyák kiadásával, cseréjével és pótlásával, valamint
 
 b) a tachográf beépítését, vizsgálatát, javítását és illesztését, üzembe helyezését és aktiválását végző szervezetek engedélyezésével és ellenőrzésével
 
@@ -207,6 +207,9 @@ c) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötöt
 (12) A (3) és (4) bekezdésben meghatározott közlekedési hatóság az általa folytatott eljárásokkal kapcsolatban a (2) bekezdésben meghatározott hatóság országos nyilvántartásához vagy szakmai irányítási feladataihoz szükséges adatszolgáltatásra köteles.
 
 [^1]: A 4. § (1) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^2]: A 4. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^3]: A 4. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (1) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított, nyitó szövegrésze a 20/2017. (II. 2.) Korm. rendelet 16. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 4. § (4) bekezdés 8. pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (4) bekezdés 10. pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

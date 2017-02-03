@@ -16,7 +16,7 @@ szakhatóságként jelöli ki.
 
 (4) A (3) bekezdésben foglalt eljárásokban a szakági tervek felelős tervezői jogosultsága vizsgálatának kérdését az eljáró közlekedési hatóság köteles megvizsgálni.
 
-(5)[^7] Az 1. melléklet 2. pontjában meghatározott szakkérdéseket a közlekedési hatóságként eljáró járási (fővárosi kerületi) hivatal, illetve ha elsőfokon országos illetékességgel útügyi hatóságként Budapest Főváros Kormányhivatala jár el, akkor Budapest Főváros Kormányhivatala köteles megvizsgálni.
+(5)[^11] Az 1. melléklet 2. pontjában meghatározott szakkérdéseket a közlekedési hatóságként eljáró járási (fővárosi kerületi) hivatal, illetve ha elsőfokon országos illetékességgel útügyi hatóságként Budapest Főváros Kormányhivatala jár el, akkor Budapest Főváros Kormányhivatala köteles megvizsgálni.
 
 (6) A (3) bekezdés szerinti másodfokú eljárásokban – ha a fellebbezést törvény lehetővé teszi – ha a fellebbezés érinti az elsőfokú eljárásban vizsgált szakkérdést a másodfokon eljáró közlekedési hatóság a szakkérdés vizsgálatára az 1. melléklet 2. pontjában foglalt táblázat 4. sorában foglalt esetben a Magyar Bányászati és Földtani Hivatalt szakértőként rendelheti ki.
 
@@ -32,4 +32,4 @@ b) – a radioaktív anyag szállítása biztonsági feltételeinek, valamint an
 
 (10) A (4) bekezdés szerinti hatósági eljárásokban a szakhatóságként kijelölt hatóság az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a kiadásától számított egy évig használható fel.
 
-[^7]: A 18. § (5) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (4) bekezdésével megállapított szöveg.
+[^11]: A 18. § (5) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (4) bekezdésével megállapított szöveg.
