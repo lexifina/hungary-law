@@ -1,4 +1,4 @@
-6/E. §[^20] (1) A Kormány az EMVA-ból, az EMGA-ból, valamint a nemzeti hatáskörben finanszírozott intézkedésekhez kapcsolódó, elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban – annak elbírálása kérdésében, hogy adott vis maior eset a kérelemben jelzett területen és időpontban bekövetkezett-e –,
+6/E. §[^21] (1) A Kormány az EMVA-ból, az EMGA-ból, valamint a nemzeti hatáskörben finanszírozott intézkedésekhez kapcsolódó, elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban – annak elbírálása kérdésében, hogy adott vis maior eset a kérelemben jelzett területen és időpontban bekövetkezett-e –,
 
 a) az első fokú eljárásban
 
@@ -16,4 +16,4 @@ b) másodfokú eljárásban a Pest Megyei Kormányhivatalt
 
 (2) Ha a vis maior, az ország jelentős részét vagy különösen nagyszámú ügyfelet érint, a Kincstár és a Pest Megyei Kormányhivatal egyeztetés útján állapítja meg a vis maior esemény megállapításának jóváhagyási feltételeit.
 
-[^20]: A 6/E. t a 328/2016. (X. 28.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^21]: A 6/E. t a 328/2016. (X. 28.) Korm. rendelet 8. § (3) bekezdése iktatta be.
