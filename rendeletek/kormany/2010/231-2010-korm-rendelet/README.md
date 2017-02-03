@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-231-20-
 | 2014-09-05 | 2010-231-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2010-231-20-22.6 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2010-231-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-02-03 | 2010-231-20-22.8 | 20/2017. (II. 2.) Korm. rendelet |
