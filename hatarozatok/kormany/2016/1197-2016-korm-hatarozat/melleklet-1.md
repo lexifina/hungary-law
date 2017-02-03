@@ -2,11 +2,11 @@
 
 ## 2. jóváhagyja az 1. pont szerinti nagyprojekt-javaslatot (a továbbiakban: nagyprojekt-javaslat) az 1. melléklet szerint,
 
-## 3. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a nagyprojekt-javaslat támogatására irányuló kérelemnek az Európai Bizottsághoz történő benyújtásáról,
+## 3.[^1] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a nagyprojekt-javaslat támogatására irányuló kérelemnek az Európai Bizottsághoz történő benyújtásáról,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: a nagyprojekt-javaslat megvalósításához szükséges vállalkozási szerződések megkötését követően legkésőbb 2016. december 31-éig
+## Határidő: 2017. augusztus 31.
 
 ## 4. felhívja a nemzeti fejlesztési minisztert, hogy készítsen előterjesztést a Kormány részére a szükségessé vált feladatokról, illetve a nagyprojekt-javaslat teljes körű megvalósításához szükséges források biztosításáról, ha az Európai Bizottság a nagyprojekt-javaslat támogatását elutasítja, vagy csökkentett mértékű támogatással hagyja jóvá,
 
@@ -33,3 +33,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Többlettámogatás (Ft) | Projekt megnövelt támogatása (Ft) | Projekt rövid bemutatása |
 
 | 2. | IKOP-3.1.0-15- 2015-00001 | Az M3 metróvonal infrastruktúra rekonstrukciója | Budapesti Közlekedési Zártkörűen Működő Részvénytársaság | 125 000 000 000 | 12 500 000 000 | 137 500 000 000 | A projekt célja a budapesti M3-as metróvonalon a Kőbánya-Kispest és Újpest-Központ állomások közötti vágányfelépítmény, az alagútszerkezet, az áramellátás, a mozgólépcsők, a távközlés, a felügyeleti rendszerek, az állomások és a Kőér utcai járműtelep rekonstrukciója, valamint az állomások egy részének akadálymentesítése. |
+
+[^1]: A 3. pont az 1053/2017. (II. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
