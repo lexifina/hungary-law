@@ -1,4 +1,4 @@
-12/A. §[^295] (1)[^296] Az igényérvényesítéshez szükséges TAJ-t – a (3) bekezdésben foglalt kivétellel – a Tbj. szerinti biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személy kezdeményezésére az ország területén bármely járási hivatal, illetve a NEAK hatósági igazolványon igazolja. Ha a Tbj. szerinti belföldi személy magyarországi tartózkodása vagy egészségügyi szolgáltatásokra való jogosultsága határozott idejű, a járási hivatal, illetve a NEAK a hatósági igazolvány hatályát ezen időtartamra korlátozza. A TAJ-t igazoló hatósági igazolvány kiadását az erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon kell kérelmezni.
+12/A. §[^295] (1)[^296] Az igényérvényesítéshez szükséges TAJ-t – a (3) bekezdésben foglalt kivétellel – a Tbj. szerinti biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személy kezdeményezésére a járási hivatal, illetve a NEAK hatósági igazolványon igazolja. Ha a Tbj. szerinti belföldi személy magyarországi tartózkodása vagy egészségügyi szolgáltatásokra való jogosultsága határozott idejű, a járási hivatal, illetve a NEAK a hatósági igazolvány hatályát ezen időtartamra korlátozza. A TAJ-t igazoló hatósági igazolvány kiadását az erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon kell kérelmezni.
 
 (2)[^297]
 
@@ -39,7 +39,7 @@ b) a TAJ-t hatósági igazolványon igazolja, ha az előírt járulék befizeté
 (16)[^309] Az uniós betegnek a határon átnyúló egészségügyi ellátásra való jogosultságát bármely olyan okirat igazolja, amely az Európai Unió tagállamabeli állampolgárságát vagy az egészségügyi ellátásra való jogosultságát hitelt érdemlően bizonyítja.
 
 [^295]: A Vhr. 12/A. §-át a 232/1998. (XII. 30.) Korm. rendelet 6. §–a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 14. §-a állapította meg.
-[^296]: A Vhr. 12/A. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés b) pontja és (11) bekezdés a) pontja szerint módosított szöveg.
+[^296]: A Vhr. 12/A. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés b) pontja és (11) bekezdés a) pontja, a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés f) pontja szerint módosított szöveg.
 [^297]: A Vhr. 12/A. §-ának (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
 [^298]: A Vhr. 12/A. §-ának (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 7. §-ával megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 18. pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^299]: A Vhr. 12/A. § (6) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 3. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés b) pontja és (11) bekezdés a) pontja szerint módosított szöveg.
