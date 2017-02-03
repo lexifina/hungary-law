@@ -28,7 +28,7 @@
 
 1.12. Közérzetjavító és étrend-kiegészítő termék (gyógynövény, biotermék, testépítő szer stb.);
 
-2.[^71] Dohányterméket kiegészítő termék;
+2.[^73] Dohányterméket kiegészítő termék;
 
 3. Textil (szövet, ruházati méteráru, háztartási textiltermék, lakástextília, ágynemű, asztalterítő, törölköző, kötőfonal, hímzéshez, valamint takaró és szőnyeg készítéséhez szükséges alapanyag, rövidáru, tű, varrócérna, gomb stb.);
 
@@ -144,4 +144,4 @@
 
 59. Egyéb (jelölje meg).
 
-[^71]: A 6. melléklet 2. pontja a 8/2013. (I. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^73]: A 6. melléklet 2. pontja a 8/2013. (I. 18.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -18,33 +18,34 @@ b)[^18] állatgyógyászati készítmény vagy annak hatóanyaga, továbbá növ
 
 ba) állatgyógyászati készítmény nagykereskedelme, valamint állatgyógyászati készítmény hatóanyagainak forgalmazása vonatkozásában elsőfokú eljárásban az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalt,
 
-bb) állatgyógyászati készítmény kiskereskedelme esetén elsőfokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát, növényvédő szer és hatóanyagai forgalmazása esetén elsőfokú eljárásban a megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatalát, másodfokú eljárásban a megyei kormányhivatalt,
+bb)[^19] állatgyógyászati készítmény kiskereskedelme esetén elsőfokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát, növényvédő szer és hatóanyagai forgalmazása esetén elsőfokú eljárásban a megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatalát,
 
-c)[^19] ha nem veszélyes hulladékot forgalmaznak, és a tevékenység megkezdéséhez környezetvédelmi engedély nem szükséges, annak elbírálása kérdésében, hogy a hulladékgyűjtés és – tárolás eszközei, valamint a hulladékkezelés módja megfelel-e a hulladékgazdálkodási követelményeknek, okoz-e a hulladékkezelés környezetterhelést, biztosított-e az üzlet hulladékszállítási szempontból történő megközelíthetősége – első fokú eljárásban a területi környezetvédelmi hatóságot, másodfokú eljárásban a környezetvédelmi hatáskörben eljáró Pest Megyei Kormányhivatalt,
+c)[^20] ha nem veszélyes hulladékot forgalmaznak, és a tevékenység megkezdéséhez környezetvédelmi engedély nem szükséges, annak elbírálása kérdésében, hogy a hulladékgyűjtés és – tárolás eszközei, valamint a hulladékkezelés módja megfelel-e a hulladékgazdálkodási követelményeknek, okoz-e a hulladékkezelés környezetterhelést, biztosított-e az üzlet hulladékszállítási szempontból történő megközelíthetősége – első fokú eljárásban a területi környezetvédelmi hatóságot, másodfokú eljárásban a környezetvédelmi hatáskörben eljáró Pest Megyei Kormányhivatalt,
 
-d)[^20] olyan üzlet esetében, amelyben az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó vegyi árut és anyagot, pirotechnikai terméket, tüzelő- és az Országos Tűzvédelmi Szabályzat szerint tűzveszélyes osztályba tartozó építőanyagot, járművet vagy üzemanyagot forgalmaznak
+d)[^21] olyan üzlet esetében, amelyben az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó vegyi árut és anyagot, pirotechnikai terméket, tüzelő- és az Országos Tűzvédelmi Szabályzat szerint tűzveszélyes osztályba tartozó építőanyagot, járművet vagy üzemanyagot forgalmaznak
 
 da) a működtetni kívánt üzlet működésének engedélyezése esetén – a db) alpontban foglalt kivétellel – az első- és másodfokú hatósági eljárásban közreműködő tűzvédelmi szakhatóságokat,
 
-db)[^21] az ingatlan-nyilvántartás szerint a Honvédelmi Minisztérium vagyonkezelésében álló földrészleten (a továbbiakban: honvédelmi és katonai célú ingatlan) működtetni kívánt üzlet esetében tűzvédelmi szakhatóságként az első fokú hatósági eljárásban a honvédelemért felelős minisztert, valamint
+db)[^22] az ingatlan-nyilvántartás szerint a Honvédelmi Minisztérium vagyonkezelésében álló földrészleten (a továbbiakban: honvédelmi és katonai célú ingatlan) működtetni kívánt üzlet esetében tűzvédelmi szakhatóságként az első fokú hatósági eljárásban a honvédelemért felelős minisztert, valamint
 
-e)[^22]
+e)[^23]
 
-f)[^23] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet esetében a honvédelmi ágazati munkavédelmi és munkabiztonsági követelményeknek való megfelelés kérdésében munkabiztonsági szakhatóságként az első fokú hatósági eljárásban a honvédelemért felelős minisztert,
+f)[^24] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet esetében a honvédelmi ágazati munkavédelmi és munkabiztonsági követelményeknek való megfelelés kérdésében munkabiztonsági szakhatóságként az első fokú hatósági eljárásban a honvédelemért felelős minisztert,
 
-g)[^24] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet esetében – az általános és sajátos építésügyi követelményeknek való megfelelés kérdésében – építésügyi szakhatóságként az elsőfokú hatósági eljárásban a honvédelemért felelős minisztert.
+g)[^25] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet esetében – az általános és sajátos építésügyi követelményeknek való megfelelés kérdésében – építésügyi szakhatóságként az elsőfokú hatósági eljárásban a honvédelemért felelős minisztert.
 
 (5) A működési engedélyezési eljárásban külön vizsgálat nélkül ügyfélnek minősül az üzlet, valamint – a külön jogszabály szerinti vásáron és piacon, valamint a bevásárlóközpontban lévő üzlet kivételével – az üzlettel közvetlenül szomszédos, az üzlettel közös határvonalú, telekhatárú ingatlan tulajdonosa, társasház esetében a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetében az elnök.
 
-(6)[^25]
+(6)[^26] A megyei kormányhivatal a másodfokú eljárásban a (4) bekezdés a) és b) pontjában meghatározott kérdéseket szakkérdésként vizsgálja.
 
 [^16]: A 7. § (4) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 142. § (6) bekezdésével megállapított szöveg.
 [^17]: A 7. § (4) bekezdés a) pont ab) alpontja a 259/2016. (VIII. 31.) Korm. rendelet 79. §-a szerint módosított szöveg.
 [^18]: A 7. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 143. § (1) bekezdésével megállapított szöveg.
-[^19]: A 7. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 142. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 143. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^20]: A 7. § (4) bekezdés d) pontja a 300/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^21]: A 7. § (4) bekezdés d) pont db) alpontja a 259/2016. (VIII. 31.) Korm. rendelet 80. § a) pontja szerint módosított szöveg.
-[^22]: A 7. § (4) bekezdés e) pontját a 402/2012. (XII. 28.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^23]: A 7. § (4) bekezdés f) pontját a 158/2011. (VIII. 11.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 80. § b) pontja szerint módosított szöveg.
-[^24]: A 7. § (4) bekezdés g) pontját a 379/2016. (XII. 2.) Korm. rendelet 143. § (2) bekezdése iktatta be.
-[^25]: A 7. § (6) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 256. § (5) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § p) pontja.
+[^19]: A 7. § (4) bekezdés b) pont bb) alpontja a 20/2017. (II. 2.) Korm. rendelet 6. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 7. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 142. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 143. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^21]: A 7. § (4) bekezdés d) pontja a 300/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^22]: A 7. § (4) bekezdés d) pont db) alpontja a 259/2016. (VIII. 31.) Korm. rendelet 80. § a) pontja szerint módosított szöveg.
+[^23]: A 7. § (4) bekezdés e) pontját a 402/2012. (XII. 28.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^24]: A 7. § (4) bekezdés f) pontját a 158/2011. (VIII. 11.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 80. § b) pontja szerint módosított szöveg.
+[^25]: A 7. § (4) bekezdés g) pontját a 379/2016. (XII. 2.) Korm. rendelet 143. § (2) bekezdése iktatta be.
+[^26]: A 7. § (6) bekezdését újonnan a 20/2017. (II. 2.) Korm. rendelet 6. § (4) bekezdése iktatta be.
