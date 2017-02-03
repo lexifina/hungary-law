@@ -58,7 +58,7 @@ m)[^168] feladóhoz visszaérkezett tértivevények;
 
 n)[^169] a fővárosi és megyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
 
-o)[^170]
+o)[^170] a megyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
 
 [^162]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
 [^163]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított szöveg.
@@ -68,4 +68,4 @@ o)[^170]
 [^167]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
 [^168]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
 [^169]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése szerint módosított szöveg.
-[^170]: A 2. melléklet II. pont o) alpontját a 113/2015. (IV. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 7. §-a.
+[^170]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be.
