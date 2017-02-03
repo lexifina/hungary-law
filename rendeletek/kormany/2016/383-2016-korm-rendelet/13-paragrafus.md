@@ -2,18 +2,22 @@
 
 ## 5. Az élelmiszerlánc-felügyeleti szerv kijelölése
 
-## 13. § A Kormány élelmiszerlánc-felügyeleti szervként
+## 13. §[^3] A Kormány élelmiszerlánc-felügyeleti szervként
 
 a) a minisztert,
 
-b) a NÉBIH-et,
+b) az országos főállatorvost,
 
-c) a Pest Megyei Kormányhivatalt,
+c) a NÉBIH-et,
 
-d) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalt,
+d) a Pest Megyei Kormányhivatalt,
 
-e) a megyei kormányhivatal növény- és talajvédelmi hatáskörében eljáró megyeszékhely szerinti járási hivatalát (a továbbiakban: növény- és talajvédelmi hatáskörben eljáró járási hivatal),
+e) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalt,
 
-f) a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal),
+f) a megyei kormányhivatal növény- és talajvédelmi hatáskörében eljáró megyeszékhely szerinti járási hivatalát (a továbbiakban: növény- és talajvédelmi hatáskörben eljáró járási hivatal),
 
-g) a jegyzőt
+g) a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal),
+
+h) a jegyzőt
+
+[^3]: A 13. § a 20/2017. (II. 2.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

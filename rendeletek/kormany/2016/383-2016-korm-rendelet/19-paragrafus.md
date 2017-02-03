@@ -1,3 +1,5 @@
+## tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal és a NÉBIH a kijelölt élelmiszerlánc-felügyeleti szerv.
+
 ## 19. § Az Éltv.
 
 a) 8/A. § (3) bekezdésében, 8/B. § (1) és (3) bekezdésében, 33. § e) pontjában, 34. § (1) bekezdés f) pontjában, 38. § (1) bekezdés o) pontjában az engedélyezett mikrochipek tekintetében, valamint 38. § (1) bekezdés s) pontjában foglaltak tekintetében az élelmiszerlánc-biztonsági és állategészségügyi,
