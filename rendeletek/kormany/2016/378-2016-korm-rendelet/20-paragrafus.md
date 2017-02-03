@@ -6,6 +6,6 @@
 
 (3) A NEFI egészségügyi szolgáltatói feladatai tekintetében az ÁEEK a jogutód.
 
-(4)[^5] A NEFI európai uniós projektjei megvalósításával és az e feladat menedzsmentjével kapcsolatos feladatai tekintetében jogutód az Országos Közegészségügyi Intézet.
+(4)[^8] A NEFI európai uniós projektjei megvalósításával és az e feladat menedzsmentjével kapcsolatos feladatai tekintetében jogutód az Országos Közegészségügyi Intézet.
 
-[^5]: A 20. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
+[^8]: A 20. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
