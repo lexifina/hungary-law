@@ -38,7 +38,7 @@ e) az a)–d) pontok ellátásához szükséges informatikai és telekommunikác
 
 f) a szmogriadóval kapcsolatos ügyeleti rendszer működtetését
 
-## a területi környezetvédelmi hatóság látja el.
+## a regionális laboratóriumot üzemeltető megyei kormányhivatal bevonásával a területi környezetvédelmi hatóság látja el.
 
 (3) A levegőterheltségi vizsgálatok kiterjednek minden olyan légköri (időjárási) jelenségre is, amely a levegő minőségét bármilyen módon és mértékben befolyásolhatja.
 
@@ -58,5 +58,5 @@ c) az egyéb időszakos mérés esetén az értékelések éves
 [^19]: A 9. § (1a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
 [^20]: A 9. § (1b) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
 [^21]: A 9. § (2) bekezdése a 292/2015. (X. 8.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^22]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
+[^22]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, záró szövegrésze a 20/2017. (II. 2.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^23]: A 9. § (6) bekezdése a 292/2015. (X. 8.) Korm. rendelet 17. §-ával megállapított szöveg.
