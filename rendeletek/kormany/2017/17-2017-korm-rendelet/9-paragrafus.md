@@ -1,3 +1,5 @@
 ## is alkalmazni kell.
 
-9. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 87/A. §-a.
+9. §[^1]
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
