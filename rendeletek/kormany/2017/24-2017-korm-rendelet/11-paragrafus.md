@@ -1,0 +1,3 @@
+## 10. § A 272/2014. (XI. 5.) Korm. rendelet 52. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az európai uniós források felhasználásáért felelős miniszter a 49. § (1) bekezdése alapján elvégzi a módosított felhívás minőségbiztosítását, továbbá a közleményt és a módosított felhívást – szükség esetén a javasolt pontosítások átvezetését követően – közzéteszi. Ha a felhíváshoz az elektronikus kitöltőprogram már rendelkezésre áll, és a felhívás módosítása miatt a kitöltőprogramot is módosítani kell, akkor az irányító hatóság köteles haladéktalanul gondoskodni a benyújtás lehetőségének felfüggesztéséről a módosított kitöltőprogram megjelenéséig.”
