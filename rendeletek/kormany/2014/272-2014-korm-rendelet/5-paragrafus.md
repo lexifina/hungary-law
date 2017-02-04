@@ -1,3 +1,3 @@
-## 4.[^63]
+## 4.[^68]
 
-[^63]: A 4. alcímet (5–6. §) a 4/2016. (I. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^68]: A 4. alcímet (5–6. §) a 4/2016. (I. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

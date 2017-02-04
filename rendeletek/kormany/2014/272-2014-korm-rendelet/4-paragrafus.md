@@ -4,7 +4,7 @@
 
 ## 3. A Kormány feladatai
 
-4. §[^60] (1) A Kormány
+4. §[^64] (1) A Kormány
 
 a) kialakítja a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerét,
 
@@ -18,13 +18,13 @@ e) a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen állást 
 
 f) előzetesen állást foglal a projektek többlettámogatása tekintetében a 87. § (1) bekezdés c) pontja szerint,
 
-g) külön jogszabályban kijelöli a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott, szennyvízelvezetési és -tisztítási, hulladékgazdálkodási és az ivóvízminőség-javító projektek határidőben történő megvalósításáért felelős minisztert, valamint ezen projektek menedzsment feladatait ellátó, továbbá a projektek keretében megvalósuló közbeszerzési eljárásokat lebonyolító – a miniszter irányítása alá tartozó – szervezetet, meghatározza annak feladat- és hatáskörét,
+g)[^65]
 
 h) nyomon követi a kijelölt szervek tevékenységét, dönt a 34. és 35. § szerinti próbaidőről,
 
-i)[^61] előzetesen állást foglal a pénzügyi közvetítői felhívás tervezete tekintetében, valamint ha a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezet szerinti ellenőrzést követően – állást foglal az ajánlati, ajánlattételi, illetve a részvételi felhívás és az ezekhez kapcsolódó dokumentáció tekintetében,
+i)[^66] előzetesen állást foglal a pénzügyi közvetítői felhívás tervezete tekintetében, valamint ha a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezet szerinti ellenőrzést követően – állást foglal az ajánlati, ajánlattételi, illetve a részvételi felhívás és az ezekhez kapcsolódó dokumentáció tekintetében,
 
-j)[^62] jóváhagyja az Európai Bizottság számára benyújtandó nagyprojekt-javaslatokat.
+j)[^67] jóváhagyja az Európai Bizottság számára benyújtandó nagyprojekt-javaslatokat.
 
 (2) Az (1) bekezdés e) pontja szerinti határozat tartalmazza
 
@@ -46,6 +46,7 @@ b) a többlettámogatás jóváhagyott összegét és
 
 c) a támogatás b) pontban megjelölt összeggel megnövelt összegét.
 
-[^60]: A 4. § a 4/2016. (I. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^61]: A 4. § (1) bekezdés i) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^62]: A 4. § (1) bekezdés j) pontja a 75/2016. (IV. 5.) Korm. rendelet 58. § b) pontja szerint módosított szöveg. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
+[^64]: A 4. § a 4/2016. (I. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^65]: A 4. § (1) bekezdés g) pontját a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^66]: A 4. § (1) bekezdés i) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^67]: A 4. § (1) bekezdés j) pontja a 75/2016. (IV. 5.) Korm. rendelet 58. § b) pontja szerint módosított szöveg. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.

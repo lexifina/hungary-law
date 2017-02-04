@@ -1,20 +1,20 @@
-## 28/B. § A tanúsító szerv feladatait az EUTAF látja el
+## 28/B. § Az európai uniós források felhasználásáért felelős miniszter gondoskodik a tanúsító szerv kiválasztásáról a KAP rendelet 9. cikk (1) bekezdése alapján.
 
 ## IV. Fejezet
 
 ## A MONITORING BIZOTTSÁGOK FELADATAI
 
-29. § (1)[^163] A program végrehajtását – a Rászoruló Személyeket Támogató Operatív Program kivételével – operatív program monitoring bizottság, Vidékfejlesztési Program esetén Vidékfejlesztési Program monitoring bizottság (a továbbiakban együtt: monitoring bizottság) követi nyomon.
+29. § (1)[^169] A program végrehajtását – a Rászoruló Személyeket Támogató Operatív Program kivételével – operatív program monitoring bizottság, Vidékfejlesztési Program esetén Vidékfejlesztési Program monitoring bizottság (a továbbiakban együtt: monitoring bizottság) követi nyomon.
 
-(1a)[^164] Az operatív program monitoring bizottság ellátja az általa nyomon követett operatív program tárgykörébe tartozó fejlesztésre irányuló, az Európai Hálózatfinanszírozási Eszközből finanszírozott intézkedések végrehajtásának nyomon követését.
+(1a)[^170] Az operatív program monitoring bizottság ellátja az általa nyomon követett operatív program tárgykörébe tartozó fejlesztésre irányuló, az Európai Hálózatfinanszírozási Eszközből finanszírozott intézkedések végrehajtásának nyomon követését.
 
-(2)[^165] A monitoring bizottság az e rendeletben és az ügyrendjében meghatározott feladatokon kívül ellátja
+(2)[^171] A monitoring bizottság az e rendeletben és az ügyrendjében meghatározott feladatokon kívül ellátja
 
 a) az 1303/2013/EU európai parlamenti és tanácsi rendelet 49. cikkében és 110. cikkében,
 
 b) EMVA finanszírozás esetén az 1305/2013/EU európai parlamenti és tanácsi rendelet 74. cikkében,
 
-c) ETHA finanszírozás esetén az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. május 15-i 508/2014/EU európai parlamenti és tanácsi rendelet 113. cikkében,
+c)[^172] ETHA finanszírozás esetén az 508/2014/EU európai parlamenti és tanácsi rendelet 113. cikkében,
 
 meghatározott feladatokat.
 
@@ -40,7 +40,7 @@ h) a gazdasági és a releváns szakmai érdekképviseletek,
 
 i) a szociális partnerek,
 
-j)[^166] a civil és nem-kormányzati szervezetek (különösen a környezetvédelem, klíma, energia, fenntartható fejlődés, a nemek közti egyenlőség, az esélyegyenlőség, az egyenlő bánásmód, valamint a diszkrimináció-mentesség területéről).
+j)[^173] a civil és nem-kormányzati szervezetek (különösen a környezetvédelem, klíma, energia, fenntartható fejlődés, a nemek közti egyenlőség, az esélyegyenlőség, az egyenlő bánásmód, valamint a diszkrimináció-mentesség területéről).
 
 (5) Az operatív program monitoring bizottságba tanácskozási joggal rendelkező tagot delegálhat:
 
@@ -54,11 +54,11 @@ d) ha kijelölésre került, a közreműködő szervezet és az alapok alapját 
 
 e) a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter,
 
-f)[^167] az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott nemzeti hatóság.
+f)[^174] az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott nemzeti hatóság.
 
-(6)[^168] A Vidékfejlesztési Program monitoring bizottságba az irányító hatóság felkérésére egyenlő szavazati joggal rendelkező tagot delegálnak a (4) bekezdés a)–d) és h)–j) pontjában megjelölt szervezetek, valamint a szakmai támogató.
+(6)[^175] A Vidékfejlesztési Program monitoring bizottságba az irányító hatóság felkérésére egyenlő szavazati joggal rendelkező tagot delegálnak a (4) bekezdés a)–d) és h)–j) pontjában megjelölt szervezetek, valamint a szakmai támogató.
 
-(7)[^169] A Vidékfejlesztési Program monitoring bizottságba tanácskozási joggal rendelkező tagot delegálhat az (5) bekezdés a) és e) pontja szerinti szervezet, a tanúsító szerv, valamint a kifizető ügynökség.
+(7)[^176] A Vidékfejlesztési Program monitoring bizottságba tanácskozási joggal rendelkező tagot delegálhat az (5) bekezdés a) és e) pontja szerinti szervezet, a tanúsító szerv, valamint a kifizető ügynökség.
 
 (8) A monitoring bizottság titkársági feladatait az irányító hatóság látja el.
 
@@ -66,10 +66,11 @@ f)[^167] az Európai Hálózatfinanszírozási Eszközből származó források 
 
 (10) A monitoring bizottság működésének részletes szabályait az európai uniós források felhasználásáért felelős miniszter által az uniós és a hazai intézményi, jogi és pénzügyi keretekkel összhangban meghatározott elvek alapján megalkotott és saját maga által elfogadott ügyrendjében állapítja meg.
 
-[^163]: A 29. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^164]: A 29. § (1a) bekezdését a 75/2016. (IV. 5.) Korm. rendelet 56. § (1) bekezdése iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
-[^165]: A 29. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^166]: A 29. § (4) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 48. pontja szerint módosított szöveg.
-[^167]: A 29. § (5) bekezdés f) pontját a 75/2016. (IV. 5.) Korm. rendelet 56. § (2) bekezdése iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
-[^168]: A 29. § (6) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 13. §-ával megállapított, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 11. pontja, a 328/2016. (X. 28.) Korm. rendelet 22. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^169]: A 29. § (7) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 4. pontja, a 98/2016. (V. 13.) Korm. rendelet 46. § 4. pontja szerint módosított szöveg.
+[^169]: A 29. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^170]: A 29. § (1a) bekezdését a 75/2016. (IV. 5.) Korm. rendelet 56. § (1) bekezdése iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
+[^171]: A 29. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^172]: A 29. § (2) bekezdés c) pontja a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^173]: A 29. § (4) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 48. pontja szerint módosított szöveg.
+[^174]: A 29. § (5) bekezdés f) pontját a 75/2016. (IV. 5.) Korm. rendelet 56. § (2) bekezdése iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
+[^175]: A 29. § (6) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 13. §-ával megállapított, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 11. pontja, a 328/2016. (X. 28.) Korm. rendelet 22. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^176]: A 29. § (7) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 4. pontja, a 98/2016. (V. 13.) Korm. rendelet 46. § 4. pontja szerint módosított szöveg.

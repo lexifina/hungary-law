@@ -1,37 +1,37 @@
-## 64/A. §[^321] A támogatási döntés előkészítése során figyelembe kell venni – ha rendelkezésre áll – az adott támogatási kérelemmel összefüggő, a XVI. Fejezet alapján lefolytatott ellenőrzés eredményét annak érdekében, hogy el nem számolható támogatási összeg ne kerüljön odaítélésre.
+## 64/A. §[^340] A támogatási döntés előkészítése során figyelembe kell venni – ha rendelkezésre áll – az adott támogatási kérelemmel összefüggő, a XVI. Fejezet alapján lefolytatott ellenőrzés eredményét annak érdekében, hogy el nem számolható támogatási összeg ne kerüljön odaítélésre.
 
-65. § (1)[^322] A támogatási kérelemről az irányító hatóság dönt. Az irányító hatóság köteles a döntését részletesen indokolni, ha a projektjavaslatot
+65. § (1)[^341] A támogatási kérelemről az irányító hatóság dönt. Az irányító hatóság köteles a döntését részletesen indokolni, ha a projektjavaslatot
 
-a)[^323] csökkentett elszámolható összköltséggel, támogatási összeggel vagy támogatási alappal támogatja,
+a)[^342] csökkentett elszámolható összköltséggel, támogatási összeggel vagy támogatási alappal támogatja,
 
 b) a támogatási jogviszony létrehozásához szükséges feltételek teljesítésének esetén támogatja, vagy
 
 c) elutasítja.
 
-(2)[^324] Az irányító hatóság vezetőjének a támogatói döntés meghozatalához a Kormány előzetes állásfoglalását kell kérnie, ha a projektjavaslat támogatását egymilliárd forintot meghaladó összegben javasolja megállapítani.
+(2)[^343] Az irányító hatóság vezetőjének a támogatói döntés meghozatalához a Kormány előzetes állásfoglalását kell kérnie, ha a projektjavaslat támogatását egymilliárd forintot meghaladó összegben javasolja megállapítani.
 
-(2a)[^325] Nincs szükség a (2) bekezdés szerinti előzetes állásfoglalásra
+(2a)[^344] Nincs szükség a (2) bekezdés szerinti előzetes állásfoglalásra
 
 a) technikai segítségnyújtási projekt esetén,
 
 b) kiemelt projekt esetén, ha a projekt irányító hatóság által javasolt támogatási összege nem haladja meg az éves fejlesztési keretben az e projekt támogatásaként meghatározott összeget.
 
-(3)[^326] A támogatási kérelem csökkentett elszámolható összköltséggel vagy csökkentett támogatási összeggel támogatható, ha a támogatási kérelem tervezett elszámolható költségei között olyan költségtétel szerepel, amely nem számolható el, nem szükséges a projekt céljának teljesítéséhez vagy aránytalanul magas. Az irányító hatóság a felhívásban egységköltségekre vonatkozó előírást tehet közzé.
+(3)[^345] A támogatási kérelem csökkentett elszámolható összköltséggel vagy csökkentett támogatási összeggel támogatható, ha a támogatási kérelem tervezett elszámolható költségei között olyan költségtétel szerepel, amely nem számolható el, nem szükséges a projekt céljának teljesítéséhez vagy aránytalanul magas. Az irányító hatóság a felhívásban egységköltségekre vonatkozó előírást tehet közzé.
 
 (4) Ha a támogatási kérelem csak feltételekkel támogatható, a támogatási döntésben meg kell határozni a támogatást igénylő által teljesítendő feltételeket és az azok teljesítésére nyitva álló határidőt.
 
-(5)[^327] Amennyiben a közfeladat ellátásának finanszírozása közszolgáltatás ellentételezése formájában nyújtott támogatásnak minősül, a közszolgáltatási szerződés megkötése előtt felmerült költségek kizárólag a 360/2012/EU bizottsági határozattal összhangban támogathatók.
+(5)[^346] Amennyiben a közfeladat ellátásának finanszírozása közszolgáltatás ellentételezése formájában nyújtott támogatásnak minősül, a közszolgáltatási szerződés megkötése előtt felmerült költségek kizárólag a 360/2012/EU bizottsági határozattal összhangban támogathatók.
 
-(6)[^328]
+(6)[^347]
 
-(7)[^329] A döntést követő egy napon belül rögzíteni kell a döntést a monitoring és információs rendszerben.
+(7)[^348] A döntést követő egy napon belül rögzíteni kell a döntést a monitoring és információs rendszerben.
 
-[^321]: A 64/A. §-t a 247/2016. (VIII. 17.) Korm. rendelet 12. §-a iktatta be.
-[^322]: A 65. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^323]: A 65. § (1) bekezdés a) pontja a 466/2015. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^324]: A 65. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 34. §-ával megállapított, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 15. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 22. pontja szerint módosított szöveg.
-[^325]: A 65. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 34. §-a iktatta be, nyitó szövegrésze a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 23. pontja szerint módosított szöveg.
-[^326]: A 65. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 70. pontja szerint módosított szöveg.
-[^327]: A 65. § (5) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^328]: A 65. § (6) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 8. pontja hatályon kívül helyezte.
-[^329]: A 65. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 71. pontja szerint módosított szöveg.
+[^340]: A 64/A. §-t a 247/2016. (VIII. 17.) Korm. rendelet 12. §-a iktatta be.
+[^341]: A 65. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^342]: A 65. § (1) bekezdés a) pontja a 466/2015. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^343]: A 65. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 34. §-ával megállapított, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 15. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^344]: A 65. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 34. §-a iktatta be, nyitó szövegrésze a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^345]: A 65. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 70. pontja szerint módosított szöveg.
+[^346]: A 65. § (5) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 24. pontja szerint módosított szöveg.
+[^347]: A 65. § (6) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^348]: A 65. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 71. pontja szerint módosított szöveg.

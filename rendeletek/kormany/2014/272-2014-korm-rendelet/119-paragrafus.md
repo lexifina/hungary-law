@@ -1,23 +1,23 @@
-## 44. [^580] A szállítói előleg további szabályai közszféra szervezet kedvezményezettek esetén
+## 44. [^605] A szállítói előleg további szabályai közszféra szervezet kedvezményezettek esetén
 
-119. § (1)[^581] Szállítói finanszírozás alkalmazása esetén a közszféra szervezet kedvezményezett
+119. § (1)[^606] Szállítói finanszírozás alkalmazása esetén a közszféra szervezet kedvezményezett
 
-a)[^582] a Kbt. hatálya alá tartozó közbeszerzési eljárás
+a)[^607] a Kbt. hatálya alá tartozó közbeszerzési eljárás
 
-b)[^583] a Kbt. 9. § (1) bekezdés a) és b) pontja szerinti beszerzés
+b)[^608] a Kbt. 9. § (1) bekezdés a) és b) pontja szerinti beszerzés
 
-## eredményeként kötött szerződésben köteles biztosítani a szállító részére a szerződés – tartalékkeret nélküli – elszámolható összege 50%-ának megfelelő mértékű szállítói előleg igénybevételének lehetőségét.
+## eredményeként kötött szerződésben köteles biztosítani a szállító részére a szerződés – tartalékkeret nélküli – elszámolható összege 50%-ának, szolgáltatásvásárlás esetén 30%-ának megfelelő mértékű szállítói előleg igénybevételének lehetőségét.
 
-(1a)[^584] A közszféra szervezet kedvezményezett által igényelt visszatérítendő támogatás esetén az irányító hatóság a felhívásban az (1) bekezdésben meghatározott mértéknél alacsonyabb mértéket is megállapíthat.
+(1a)[^609] A közszféra szervezet kedvezményezett által igényelt visszatérítendő támogatás esetén az irányító hatóság a felhívásban az (1) bekezdésben meghatározott mértéknél alacsonyabb mértéket is megállapíthat.
 
-(2)–(4)[^585]
+(2)–(4)[^610]
 
-(5)[^586]
+(5)[^611]
 
-[^580]: A 44. alcím címe a 247/2016. (VIII. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^581]: A 119. § (1) bekezdés záró szövegrésze a 366/2014. (XII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 19. pontja, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 28. pontja szerint módosított szöveg.
-[^582]: A 119. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 27. pontja szerint módosított szöveg.
-[^583]: A 119. § (1) bekezdés b) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 27. pontja hatályon kívül helyezte, újonnan a 323/2015. (X. 30.) Korm. rendelet 13. § (7) bekezdése iktatta be. Ez utóbbi módosító rendelet 17. §-a alapján a 2015. november 1. után megkezdett közbeszerzési eljárásokra kell alkalmazni.
-[^584]: A 119. § (1a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 30. §-a iktatta be.
-[^585]: A 119. § (2)–(4) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 19. pontja hatályon kívül helyezte.
-[^586]: A 119. § (5) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 19. pontja.
+[^605]: A 44. alcím címe a 247/2016. (VIII. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^606]: A 119. § (1) bekezdés záró szövegrésze a 366/2014. (XII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 28. pontja, a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^607]: A 119. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 27. pontja szerint módosított szöveg.
+[^608]: A 119. § (1) bekezdés b) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 27. pontja hatályon kívül helyezte, újonnan a 323/2015. (X. 30.) Korm. rendelet 13. § (7) bekezdése iktatta be. Ez utóbbi módosító rendelet 17. §-a alapján a 2015. november 1. után megkezdett közbeszerzési eljárásokra kell alkalmazni.
+[^609]: A 119. § (1a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 30. §-a iktatta be.
+[^610]: A 119. § (2)–(4) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 19. pontja hatályon kívül helyezte.
+[^611]: A 119. § (5) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 19. pontja.
