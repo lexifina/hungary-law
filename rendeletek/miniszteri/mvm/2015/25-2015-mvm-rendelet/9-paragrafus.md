@@ -1,5 +1,7 @@
-9. § (1) A meghagyásba bevont gazdálkodó szervezeteket az 1. melléklet tartalmazza.
+9. §[^11] (1) A meghagyásba bevont szervezeteket az 1. melléklet tartalmazza.
 
-(2) A miniszter ágazati irányítása alá tartozó tevékenységet végző gazdálkodó szervezet is kezdeményezheti a meghagyásba történő bevonását megfelelő indokolással a miniszternél.
+(2) Az ágazathoz tartozó, meghagyásba be nem vont más szervezet is kezdeményezheti a miniszternél – megfelelő indokolással – a meghagyásba történő bevonását.
 
-(3) A meghagyásba bevont gazdasági szerv vezetője köteles tájékoztatni a Miniszterelnökséget minden olyan változásról, ami jelentős kihatással van a szerv honvédelmi vonatkozású különleges jogrendi időszak idején elvégzendő feladatainak végrehajtására, a változás bekövetkezésétől számított 30 napon belül.
+(3) Az ágazathoz tartozó, az e rendelet és más jogszabály által meghagyásba bevont szervezet vezetője köteles tájékoztatni a minisztert minden olyan változásról, ami jelentős kihatással van a szervezet honvédelmi vonatkozású különleges jogrendi időszak idején elvégzendő feladatainak végrehajtására, a változás bekövetkezésétől számított 30 napon belül.
+
+[^11]: A 9. § a 4/2017. (II. 3.) MvM rendelet 5. §-ával megállapított szöveg.
