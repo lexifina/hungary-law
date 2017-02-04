@@ -8,4 +8,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-2. Az IKOP-3.1.0-15-2015-00001 azonosító számú („Az M3 metróvonal infrastruktúra rekonstrukciója” című)nagyprojekt-javaslat jóváhagyásáról és támogatásának növeléséről szóló 1197/2016. (IV. 13.) Korm. határozat 3. pontjában az „a nagyprojekt-javaslat megvalósításához szükséges vállalkozási szerződések megkötését követően legkésőbb 2016. december 31-éig” szövegrész helyébe a „2017. augusztus 31.” szöveg lép.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
