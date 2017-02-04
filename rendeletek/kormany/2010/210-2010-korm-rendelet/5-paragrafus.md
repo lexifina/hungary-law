@@ -18,7 +18,7 @@ g) a Svájci–Magyar Együttműködési Programmal kapcsolatos ellenőrzési fe
 
 h) az Európai Unió Szolidaritási Alapjával kapcsolatos ellenőrzési feladatokat;
 
-i)[^11] a 2014–2020 közötti programozási időszak tekintetében az Európai Mezőgazdasági Vidékfejlesztési Alappal kapcsolatos tanúsító szervi feladatokat.
+i)[^11]
 
 [^10]: Az 5. § a 113/2011. (VII. 7.) Korm. rendelet 49. §-ával megállapított, nyitó szövegrésze a 214/2014. (VIII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^11]: Az 5. § i) pontját a 214/2014. (VIII. 27.) Korm. rendelet 4. §-a iktatta be.
+[^11]: Az 5. § i) pontját a 214/2014. (VIII. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 24/2017. (II. 3.) Korm. rendelet 2. §-a.
