@@ -1,3 +1,5 @@
-## 3. § A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+## 3. §[^3]
 
 ## 4. A Magyar Államkincstárról szóló 311/2006. (XII. 23.) Korm. rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

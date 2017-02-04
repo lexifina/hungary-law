@@ -1,6 +1,4 @@
-## „(9) A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
-
-## (10) A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.”
+## 19. §[^27]
 
 ## 20. Záró rendelkezések
 
@@ -11,3 +9,5 @@
 (3) A 9. § (1), (3), (5), (6) és (8) bekezdése, valamint a 2. melléklet 2017. július 1-jén lép hatályba.
 
 (4) Az 1. §, az 5. §, a 9. §, a 17. § (1) bekezdés, valamint a 18. § (4) bekezdés hatálybalépése előtt megkezdett és az e rendelet hatálybalépésekor folyamatban lévő eljárásokat az eljárás megindításakor hatályos jogszabályok rendelkezései szerint kell befejezni.
+
+[^27]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
