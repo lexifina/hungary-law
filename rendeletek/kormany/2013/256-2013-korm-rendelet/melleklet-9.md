@@ -136,7 +136,11 @@
 
 | 40-42 | 24 043 | 19 460 | 30 520 | 32 860 | 35 068 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
 
-| 43-45 | 24 043 | 19 460 | 30 520 | 32 860 | 35 068 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
+| 43-45 | 24 043 | 18 111 | 29 467 | 31 422 | 35 427 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
+
+| 46-48 | 24 043 | 16 711 | 28 054 | 29 972 | 35 768 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
+
+| 49-51 | 24 043 | 15 312 | 26 641 | 28 521 | 36 109 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
 
 2.1.3. Felsőfokú végzettséggel rendelkező egészségügyi dolgozók illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg a kifizetőt terhelő közterhek nélkül: 41 435 Ft/hó.
 
@@ -154,4 +158,4 @@
 
 3.3. Munkáltatónkénti bontásban az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának biztosítása érdekében a foglalkoztatottak részére utalványozott különbözet összege a 3. § (5) bekezdésében foglaltak alapján, valamint a különbözethez kapcsolódóan összesen utalványozott kifizetőt terhelő közterhek összege.
 
-[^64]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^64]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
