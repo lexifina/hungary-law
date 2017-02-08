@@ -6,11 +6,11 @@
 
 (4)[^368] A NEAK az OVSZ díjmegtérítési, valamint az OVSZ és a szolgáltató által a vérrel való ellátásra kötött szerződésben meghatározott kamat követelését a (3) bekezdés szerinti adatszolgáltatás alapján a soron következő finanszírozási összeg átutalásakor a követelés mértékével csökkenti az intézmény számlájára átutalandó összeget, és a tartozásnak megfelelő összeget átutalja az OVSZ részére. Amennyiben a követelés mértéke meghaladja az intézmény esedékes finanszírozási összegének 5%-át, az OVSZ követelésének teljesítése több részletben, a havi finanszírozás összegének legfeljebb 5%-áig terjedően történik.
 
-(5)[^369] Amennyiben fekvőbeteg szakellátást nyújtó egészségügyi szolgáltató számára az OVSZ járóbeteg-szakellátási tevékenységet végez, annak díja a mindenkori járóbeteg-szakellátás teljesítményegységének forintértékén kerül meghatározásra az R. 2. mellékletében meghatározott pontértékekkel.
+(5)[^369] Amennyiben fekvőbeteg szakellátást nyújtó egészségügyi szolgáltató számára az OVSZ járóbeteg-szakellátási tevékenységet végez, annak díja legfeljebb a mindenkori járóbeteg-szakellátás teljesítményegységének forintértékén kerül meghatározásra az R. 2. mellékletében meghatározott pontértékekkel.
 
 [^364]: A 30/A. §-t a 21/2000. (III. 3.) Korm. rendelet 17. §-a iktatta a szövegbe.
 [^365]: A 30/A. § (1) bekezdése a 114/2000. (VI. 29.) Korm. rendelet 13. § (3) bekezdése, a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdés a) pontja, a 365/2010. (XII. 30.) Korm. rendelet 18. § 31. pontja, a 254/2013. (VII. 5.) Korm. rendelet 24. §-a szerint módosított szöveg.
 [^366]: A 30/A. § (2) bekezdése a 266/2007. (X. 10.) Korm. rendelet 7. § (4) bekezdésének a) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg.
 [^367]: A 30/A. § (3) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 11. §-ával megállapított, az 519/2013. (XII. 30.) Korm. rendelet 11. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
 [^368]: A 30/A. § (4) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 9. §-ával megállapított, az 519/2013. (XII. 30.) Korm. rendelet 11. § e) pontja, a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja szerint módosított szöveg.
-[^369]: A 30/A. § (5) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^369]: A 30/A. § (5) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
