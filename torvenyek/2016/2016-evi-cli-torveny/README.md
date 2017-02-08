@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-151-00-00
 | --- | --- | --- |
 | 2016-12-16 | 2016. évi CLI. törvény | 2016-151-00-00.0 (közlönyállapot) |
 | 2016-12-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-151-00-00.1 |
+| 2017-02-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-151-00-00.2 |
