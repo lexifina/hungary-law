@@ -1,6 +1,6 @@
 ## 4. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-1. melléklet az 1/2015. (IV. 10.) KKM rendelethez
+1. melléklet az 1/2015. (IV. 10.) KKM rendelethez[^1]
 
 ## Nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
@@ -18,11 +18,11 @@ A) Külgazdasági és Külügyminisztérium hivatali szervezete
 
 6. politikai főtanácsadó, politikai tanácsadó,
 
-7. miniszteri főtanácsadó és miniszteri tanácsadó,
+7. miniszteri főtanácsadó, miniszteri tanácsadó,
 
 8. biztonsági vezető, biztonsági referens, biztonsági felelős, biztonságtechnikai felelős,
 
-9. informatikai biztonsági vezető és az informatikai szakterületet érintő valamennyi munkakör,
+9. elektronikus információs rendszer biztonságáért felelős vezető és az informatikai szakterületet érintő valamennyi munkakör,
 
 10. rejtjelfelügyelő, a rejtjelzési tevékenységet ellátó valamennyi munkakör,
 
@@ -66,24 +66,22 @@ A) Külgazdasági és Külügyminisztérium hivatali szervezete
 
 B) Központi hivatalok
 
-1. Balassi Intézet
+1. Nemzeti Befektetési Ügynökség
 
-1.1. külföldi magyar intézet igazgató,
+1.1. főosztályvezető,
 
-1.2. nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízotti, ügyintézői, adminisztratív feladatokat ellátó munkakör,
+1.2. főosztályvezető-helyettes,
 
-1.3. elektronikus információs rendszer biztonságáért felelős munkakör.
+1.3. osztályvezető,
 
-2. Külgazdasági és Külügyi Intézet
+1.4. belső ellenőr,
 
-2.1. igazgató,
+1.5. integritás tanácsadó,
 
-2.2. elektronikus információs rendszer biztonságáért felelős munkakör.
+1.6. belső adatvédelmi felelős,
 
-3. Nemzeti Befektetési Ügynökség
+1.7. elektronikus információs rendszer biztonságáért felelős személy,
 
-3.1. főosztályvezető és helyettese,
+1.8. a nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízott.
 
-3.2. osztályvezető,
-
-3.3. elektronikus információs rendszer biztonságáért felelős munkakör.
+[^1]: Az 1. melléklet az 1/2017. (II. 7.) KKM rendelet 1. §-ával megállapított szöveg.
