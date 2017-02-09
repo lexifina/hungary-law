@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-498-20-
 | 2016-07-23 | 2013-498-20-22.4 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2016-09-01 | 2013-498-20-22.5 | 230/2016. (VII. 29.) Korm. rendelet |
 | 2017-01-01 | 2013-498-20-22.6 | 230/2016. (VII. 29.) Korm. rendelet |
+| 2017-02-09 | 2013-498-20-22.7 | 26/2017. (II. 8.) Korm. rendelet |
