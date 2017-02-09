@@ -42,9 +42,13 @@
 
 | 20 | Kanada | EUR | 1 404 |
 
+| 20a | Kolumbia | EUR | 1 191 |
+
 | 21 | Kuba | EUR | 1 409 |
 
 | 22 | Mexikó | EUR | 1 332 |
+
+| 22a | Peru | EUR | 1 329 |
 
 | 23 | AUSZTRÁLIA ÉS ÓCEÁNIA |
 
@@ -236,6 +240,8 @@ A kiegészítő pótlék bruttó havi összege
 
 | 19 | Kína | EUR | 140 |
 
+| 19a | Kolumbia | EUR | 119 |
+
 | 20 | Kuvait | EUR | 128 |
 
 | 21 | Líbia | EUR | 122 |
@@ -248,11 +254,15 @@ A kiegészítő pótlék bruttó havi összege
 
 | 25 | Oroszország | EUR | 141 |
 
+| 25a | Peru | EUR | 133 |
+
 | 26 | Szaúd-Arábia | EUR | 132 |
 
 | 27 | Szerbia | EUR | 126 |
 
 | 28 | Szíria | EUR | 121 |
+
+| 28a | Törökország | EUR | 125 |
 
 | 29 | Ukrajna | EUR | 124 |
 
@@ -290,4 +300,4 @@ A kiegészítő pótlék bruttó havi összege
 
 | 46 | Pakisztán | EUR | 259 |
 
-[^4]: A 2. melléklet a 4/2016. (VII. 22.) KKM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 3. § (2) bekezdése alapján a megállapított összegek 2016. július 1-jével alkalmazandóak.
+[^4]: A 2. melléklet a 4/2016. (VII. 22.) KKM rendelet 2. §-ával megállapított, a 2/2017. (II. 8.) KKM rendelet 1. § b) pontja szerint módosított szöveg.

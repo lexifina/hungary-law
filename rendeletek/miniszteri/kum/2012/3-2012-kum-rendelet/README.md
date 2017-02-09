@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-3-20-27
 | 2015-04-21 | 2012-3-20-27.5 | 2/2015. (IV. 20.) KKM rendelet |
 | 2016-02-26 | 2012-3-20-27.6 | 2/2015. (IV. 20.) KKM rendelet |
 | 2016-07-23 | 2012-3-20-27.7 | 4/2016. (VII. 22.) KKM rendelet |
+| 2017-02-09 | 2012-3-20-27.8 | 4/2016. (VII. 22.) KKM rendelet |
