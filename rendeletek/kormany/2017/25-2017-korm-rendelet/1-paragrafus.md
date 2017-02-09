@@ -4,6 +4,7 @@
 
 a)[^1]
 
-b) 30/A. § (5) bekezdésében az „annak díja a mindenkori” szövegrész helyébe az „annak díja legfeljebb a mindenkori” szöveg
+b)[^2]
 
 [^1]: Az 1. § a) pontja a 3. § (2) bekezdése alapján 2017. március 1-jén lép hatályba.
+[^2]: Az 1. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
