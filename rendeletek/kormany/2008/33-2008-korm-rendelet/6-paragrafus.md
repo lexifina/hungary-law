@@ -1,8 +1,10 @@
 6. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2)[^38] E rendeletnek az oktatást szabályozó egyes kormányrendeletek módosításáról szóló 345/2015. (XI. 19.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5/B. §-ában, módosított 1. számú mellékletében és megállapított 4. számú mellékletében foglalt rendelkezéseket a Módr. hatálybalépésekor[^39] folyamatban lévő eljárásokban is kell alkalmazni.
+(2)[^44] E rendeletnek az oktatást szabályozó egyes kormányrendeletek módosításáról szóló 345/2015. (XI. 19.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5/B. §-ában, módosított 1. számú mellékletében és megállapított 4. számú mellékletében foglalt rendelkezéseket a Módr. hatálybalépésekor[^45] folyamatban lévő eljárásokban is kell alkalmazni.
 
-(3)[^40] Ez a rendelet az Etv. rendelkezéseivel együtt
+(2a)[^46] E rendeletnek a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet módosításáról szóló 21/2017. (II. 2.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 5/C–5/H. § rendelkezéseit a Módr2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(3)[^47] Ez a rendelet az Etv. rendelkezéseivel együtt
 
 a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 7. cikk (1) és (4) bekezdésének, valamint 56. cikk (3) bekezdésének,
 
@@ -10,9 +12,10 @@ b) a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a 
 
 való megfelelést szolgálja.
 
-(4)[^41] Ez a rendelet az Etv. rendelkezéseivel együtt a 2005/36/EK európai parlamenti és tanácsi irányelv értelmében az európai szakmai kártya kibocsátási eljárásáról és a riasztási mechanizmus alkalmazásáról szóló, 2015. június 24-i 2015/983 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(4)[^48] Ez a rendelet az Etv. rendelkezéseivel együtt a 2005/36/EK európai parlamenti és tanácsi irányelv értelmében az európai szakmai kártya kibocsátási eljárásáról és a riasztási mechanizmus alkalmazásáról szóló, 2015. június 24-i 2015/983 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^38]: A 6. § (2) bekezdése e rendelet 6. § (3) bekezdése alapján hatályát vesztette, újonnan a 345/2015. (XI. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^39]: A hatálybalépés időpontja 2015. november 27.
-[^40]: A 6. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette, újonnan a 345/2015. (XI. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^41]: A 6. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^44]: A 6. § (2) bekezdése e rendelet 6. § (3) bekezdése alapján hatályát vesztette, újonnan a 345/2015. (XI. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^45]: A hatálybalépés időpontja 2015. november 27.
+[^46]: A 6. § (2a) bekezdését a 21/2017. (II. 2.) Korm. rendelet 2. §-a iktatta be.
+[^47]: A 6. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette, újonnan a 345/2015. (XI. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^48]: A 6. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
