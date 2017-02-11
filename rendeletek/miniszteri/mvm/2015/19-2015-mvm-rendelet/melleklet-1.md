@@ -32,15 +32,9 @@ B) Központi hivatalok
 
 3.7. kormányzati ellenőrzéssel összefüggésben adminisztratív, kézbesítési feladatokat ellátó kormánytisztviselő, munkavállaló
 
-4.[^1]
+4.[^2]
 
-5. Nemzeti Kommunikációs Hivatal
-
-5.1. Közbeszerzési és Szakmai Felügyeleti Főosztály vezetője
-
-6. Nemzeti Örökség Intézete
-
-6.1. valamennyi munkakör
+5–6.[^3]
 
 7. Nemzetstratégiai Kutatóintézet
 
@@ -62,4 +56,5 @@ C) Fővárosi és megyei kormányhivatalok
 
 9.4. minősített iratkezelési feladatot ellátó munkakör
 
-[^1]: Az 1. melléklet 4. pontját a 37/2016. (XII. 29.) MvM rendelet 8. §-a hatályon kívül helyezte.
+[^2]: Az 1. melléklet 4. pontját a 37/2016. (XII. 29.) MvM rendelet 8. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet B) rész 5–6. pontját az 5/2017. (II. 10.) MvM rendelet 2. §-a hatályon kívül helyezte.
