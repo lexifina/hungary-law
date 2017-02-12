@@ -1,3 +1,0 @@
-## 1. § A Miniszterelnökséget vezető miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 19/2015. (IV. 10.) MvM rendelet (a továbbiakban: R.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az 1. § a) pontjában meghatározott foglalkoztató szervezettel a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) szerinti foglalkoztatási jogviszonyban – ideértve az állami projektértékelői jogviszonyt is – (a továbbiakban: foglalkoztatási jogviszony) álló vagy ilyen jogviszonyt létesíteni szándékozó személy esetében valamennyi munkakör betöltésére irányuló foglalkoztatási jogviszony az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.”
