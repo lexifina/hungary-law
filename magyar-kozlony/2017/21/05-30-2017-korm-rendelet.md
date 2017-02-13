@@ -1,0 +1,70 @@
+# A Kormány 30/2017. (II. 13.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 21. szám, 2017. február 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d8996334720b4d18aeb15099870fef77a9b21407/dokumentumok/f92b1ae3ec4bbaabad9030e4baafa8cbe6d5d5b4/letoltes)
+
+---
+
+A Kormány 30/2017. (II. 13.) Korm. rendelete
+a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló
+442/2012. (XII. 29.) Korm. rendelet módosításáról
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 11. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 442/2012.
+(XII. 29.) Korm. rendelet (a továbbiakban: R.) 2. § (1) bekezdése a következő 5a–5d. ponttal egészül ki:
+„5a. könnyű műanyag zacskó: olyan műanyag zacskó, amelynek falvastagsága 50 mikronnál kevesebb;
+5b. műanyag: a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH),
+az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/
+EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK,
+a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i
+1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikk 5. pontja értelmében vett polimer, amely alkalmas
+a műanyag zacskók fő szerkezeti alkotóelemeként való felhasználásra, és amelyhez esetleg adalékanyagokat vagy
+egyéb anyagokat is adtak;
+5c. műanyag zacskó: olyan fogófüllel ellátott vagy fogófül nélküli, műanyagból készült hordozható zacskó, amelyet
+az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére;
+
+5d. nagyon könnyű műanyag zacskó: olyan műanyag zacskó, amelynek falvastagsága 15 mikronnál kevesebb, és
+amelynek felhasználása higiéniai célokat szolgál, vagy amelyet ömlesztett élelmiszerek elsődleges csomagolására
+használnak azokban az esetekben, amikor az segít megelőzni az élelmiszer-pazarlást;”
+(2) Az R. 2. § (1) bekezdése a következő 9. ponttal egészül ki:
+„9. oxidatív úton aprózódó műanyag zacskó: olyan, az áruk vagy termékek értékesítési pontján a fogyasztók részére
+biztosított, adalékanyagokat tartalmazó, műanyagból készült zacskó, amely elősegíti a műanyag mikroméretű
+műanyagrészecskékre történő széttöredezését.”
+(3) Az R. 2. §-a a következő (5) és (6) bekezdéssel egészül ki:
+„(5) A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 2. § 25. pontja szerinti
+hajlékonyfalú műanyag hordtasaknak vagy hordtáskának minősül az e rendelet szerinti műanyag zacskó, a könnyű
+műanyag zacskó, valamint az oxidatív úton aprózódó műanyag zacskó.
+(6) Nem minősül a Ktdt. 2. § 25. pontja szerinti hajlékonyfalú műanyag hordtasaknak vagy hordtáskának
+az e rendelet szerinti nagyon könnyű műanyag zacskó.”
+2. § Az R. 11. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Az a gyártó, akit a Ktdt. szerint a csomagolás létrehozására felhasznált csomagolószer tekintetében termékdíj-
+kötelezettség vagy termékdíj-izetési kötelezettség nem terhel, a (2) bekezdés szerinti nyilvántartást vezet.
+(2) A nyilvántartásnak a következő adatokat kell tartalmaznia:
+a) a csomagolás létrehozására felhasznált csomagolószer jellege, fajtája és mennyisége (kg);
+b) a visszavett, felhasznált, újrahasznált csomagolás anyagkategória szerinti mennyisége (kg);
+c) az átvett és a gyűjtött csomagolási hulladék fajtája, mennyisége (kg);
+d) az alapanyagként, anyagában, energetikailag vagy egyéb módon hasznosított csomagolási hulladék fajtája,
+mennyisége (kg).”
+3. § Az R. 17. § (1) bekezdése a következő f) ponttal egészül ki:
+(Ez a rendelet)
+„f) a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő
+módosításáról szóló, 2015. április 29-i 2015/720/EU európai parlamenti és tanácsi irányelvnek”
+(való megfelelést szolgálja.)
+4. § Az R.
+a) 13. § (3) bekezdésében az „a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet 1. számú”
+szövegrész helyébe az„a hulladékjegyzékről szóló 72/2013. (VIII. 27.) VM rendelet 2.”szöveg,
+b) 1. melléklet 2. pont 2.2.5. alpontjában az„ütemény”szövegrész helyébe a„Sütemény”szöveg
+lép.
+5. § (1) Hatályát veszti az R.
+a) 11. § (3), (4) és (7) bekezdése;
+b) 12. § (2) és (6) bekezdése;
+c) 4. mellékletének 3. pontja és 3. táblázata.
+(2) Hatályát veszti az R.
+a) 6. § (1) bekezdésében a„(hasznosítási kötelezettség)”szövegrész,
+b) 12. § (1) bekezdésében az„ , a forgalmazó, a kereskedő, a közvetítő, valamint hulladékkezelő”szövegrész,
+c) 12. § (3) bekezdésében az„ , a forgalmazó”szövegrész.
+6. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+7. § Ez a rendelet a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében
+történő módosításáról szóló, 2015. április 29-i 2015/720/EU európai parlamenti és tanácsi irányelvnek való
+megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
