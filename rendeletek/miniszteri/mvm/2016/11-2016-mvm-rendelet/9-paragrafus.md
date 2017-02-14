@@ -1,7 +1,8 @@
-## 8. §[^3] Az MNVH a működtetéséhez kapcsolódó, az MNVH-ba regisztráltak és az MNVH szervei számára nyújtott szolgáltatásokat a cselekvési tervben meghatározottak szerint az Állandó Titkárságon keresztül nyújtja.
+## 8. §[^3] Az MNVH 2. § (1) bekezdésében foglalt feladatait a cselekvési tervben meghatározottak szerint az Állandó Titkárság a Széchenyi Programiroda Nonprofit Kft.-n keresztül látja el, melynek során a Széchenyi Programiroda Nonprofit Kft. együttműködik az MNVH-ba regisztráltakkal és az MNVH szerveivel.
 
 9. § (1) Az MNVH tevékenysége finanszírozásának forrása a VP Technikai Segítségnyújtás intézkedése. Az IH vezetője az MNVH tevékenységére rendelkezésére álló források felhasználására általános irányelveket határozhat meg.
 
-(2) Az egyes kifizetési kérelmek vizsgálatát a Mezőgazdasági és Vidékfejlesztési Hivatal megállapodás alapján végzi, az MNVH pénzügyi ellenőrzését az IH vezetője látja el.
+(2)[^4]
 
-[^3]: A 8. § a 34/2016. (XII. 19.) MvM rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 8. § a 6/2017. (II. 13.) MvM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 9. § (2) bekezdését a 6/2017. (II. 13.) MvM rendelet 3. §-a hatályon kívül helyezte.
