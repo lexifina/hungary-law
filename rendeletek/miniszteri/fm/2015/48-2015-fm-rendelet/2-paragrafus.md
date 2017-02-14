@@ -8,4 +8,6 @@ a) az nem haladhatja meg az élelmiszeripari vállalkozás és a vele egy és ug
 
 b) legfeljebb a hitelkamat 60%-a lehet, de nem haladhatja meg az évi 4 százalékpontot.
 
-(3) A kamattámogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+(3)[^2] A kamattámogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
+
+[^2]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 27. §-ával megállapított szöveg.
