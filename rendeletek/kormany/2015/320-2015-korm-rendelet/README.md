@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-320-20-
 | 2016-08-01 | 2015-320-20-22.5 | 206/2016. (VII. 21.) Korm. rendelet |
 | 2016-09-01 | 2015-320-20-22.6 | 251/2016. (VIII. 24.) Korm. rendelet |
 | 2017-01-01 | 2015-320-20-22.7 | 478/2016. (XII. 27.) Korm. rendelet |
+| 2017-02-14 | 2015-320-20-22.8 | 29/2017. (II. 13.) Korm. rendelet |

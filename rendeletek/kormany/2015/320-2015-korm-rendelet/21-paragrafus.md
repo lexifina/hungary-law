@@ -10,6 +10,8 @@ b) meghatározza azokat a feltételeket, illetve azokat a szükséges módosít�
 
 c) nem járul hozzá a szerződés módosításához.
 
-(3) A miniszter által kiadott (3) bekezdés a) vagy b) pontja szerinti hozzájárulás hiányában a szerződés nem módosítható, a beszerzés a módosult feltételekkel új közbeszerzési eljárásban valósítható csak meg.
+(3)[^40] A miniszter által kiadott (2) bekezdés a) vagy b) pontja szerinti hozzájárulás hiányában a szerződés nem módosítható, a beszerzés a módosult feltételekkel új közbeszerzési eljárásban valósítható csak meg.
 
 (4) Amennyiben a miniszter a (2) bekezdésben meghatározott határidőn belül nem küld hiánypótlási felhívást az érintett szervezetnek, a szerződés módosítható.
+
+[^40]: A 21. § (3) bekezdése a 29/2017. (II. 13.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
