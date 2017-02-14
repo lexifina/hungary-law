@@ -8,7 +8,7 @@ b) növényegészségügyi felszámolás
 
 elvégzéséhez.
 
-(2)[^1] A támogatás mértéke a kijuttatott növényvédőszer vételárának 75%-a.
+(2)[^1] A támogatás mértéke a kijuttatott növényvédőszer vételárának 75%-a azzal, hogy ha a növényvédőszert a gépi bérmunka-szolgáltatást végző vásárolja meg és juttatja ki, akkor a támogatás mértéke a gépi bérmunka-szolgáltatás ellenértékének 75%-a.
 
 (3) A (2) bekezdésben foglaltak alapul vételével a szőlőtermelő által tárgyévben igénybe vehető támogatás összege
 
@@ -24,6 +24,6 @@ b) ÁFA levonására nem jogosult, akkor a bruttó vételár
 
 kerül figyelembe vételre.
 
-[^1]: A 2. § (2) bekezdése a 80/2016. (XII. 13.) FM rendelet 13. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § (2) bekezdése a 6/2017. (II. 13.) FM rendelet 31. §-ával megállapított szöveg.
 [^2]: A 2. § (3) bekezdés a) pontja a 80/2016. (XII. 13.) FM rendelet 13. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdés b) pontja a 80/2016. (XII. 13.) FM rendelet 13. § c) pontja szerint módosított szöveg.
