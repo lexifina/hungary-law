@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-139-20-
 | 2015-12-05 | 2007-139-20-82.21 | 80/2015. (XII. 4.) FM rendelet |
 | 2016-04-12 | 2007-139-20-82.22 | 25/2016. (IV. 11.) FM rendelet |
 | 2017-01-01 | 2007-139-20-82.23 | 25/2016. (IV. 11.) FM rendelet |
+| 2017-02-14 | 2007-139-20-82.24 | 6/2017. (II. 13.) FM rendelet |
