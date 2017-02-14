@@ -20,7 +20,7 @@ e) közreműködik a turisztikai és vendéglátási feladatok kormányzati egye
 
 3. A Testület tagjai
 
-a) a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos,
+a)[^1]
 
 b) az európai uniós források felhasználásáért felelős miniszter által kijelölt személy,
 
@@ -34,7 +34,9 @@ f) a külpolitikáért felelős miniszter által kijelölt személy, valamint
 
 g) a Magyar Turisztikai Ügynökség vezérigazgatója.
 
-4. A Testület elnöke a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos.
+3a.[^2] A Testület döntéshozatala során szavazategyenlőség esetén – a Testület ügyrendjének eltérő rendelkezése hiányában – az elnök dönt.
+
+4.[^3] A Testület elnöke a Magyar Turisztikai Ügynökség vezérigazgatója.
 
 5. A Testület üléseinek állandó meghívottja
 
@@ -56,6 +58,9 @@ c) a főpolgármester által kijelölt személy.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-12.[^1]
+12.[^4]
 
-[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont a) alpontját az 1076/2017. (II. 13.) Korm. határozat 3. pont c) alpontja hatályon kívül helyezte.
+[^2]: A 3a. pontot az 1076/2017. (II. 13.) Korm. határozat 2. pont a) alpontja iktatta be.
+[^3]: A 4. pont az 1076/2017. (II. 13.) Korm. határozat 2. pont b) alpontjával megállapított szöveg.
+[^4]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
