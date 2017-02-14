@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-247-20-
 | 2016-07-14 | 2014-247-20-22.7 | 189/2016. (VII. 13.) Korm. rendelet |
 | 2016-08-12 | 2014-247-20-22.8 | 475/2015. (XII. 29.) Korm. rendelet |
 | 2016-09-22 | 2014-247-20-22.9 | 284/2016. (IX. 21.) Korm. rendelet |
+| 2017-02-14 | 2014-247-20-22.10 | 29/2017. (II. 13.) Korm. rendelet |

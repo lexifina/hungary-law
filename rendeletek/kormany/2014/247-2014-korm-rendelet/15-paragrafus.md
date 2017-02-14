@@ -6,28 +6,28 @@
 
 (3) Az (1)–(2) bekezdésben foglaltak esetén, az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére kötött keretmegállapodások, keretszerződések vagy egyedi szerződések
 
-a)[^23] keretében történő megrendelések tekintetében a Hivatal a kormányzati kommunikációs irányokkal való összhangot előzetesen ellenőrzi,
+a)[^25] keretében történő megrendelések tekintetében a Hivatal a kormányzati kommunikációs irányokkal való összhangot előzetesen ellenőrzi,
 
 b) teljesítése tekintetében az érintett szervezet az e rendelet 13. §-a szerint köteles eljárni.
 
-(4)[^24] Ha a Hivatal az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére már keretmegállapodást kötött, az érintett szervezet a kommunikációs szolgáltatások és termékek beszerzését a keret kimerüléséig a Kbt. 105. § (1) bekezdés a) pontja vagy 105. § (2) bekezdés a) pontja szerint közvetlen megrendeléssel a Hivatal által az e rendelet 11. §-a szerint kötött keretmegállapodás útján valósítja meg.
+(4)[^26] Ha a Hivatal az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére már keretmegállapodást kötött, az érintett szervezet a kommunikációs szolgáltatások és termékek beszerzését a keret kimerüléséig a Kbt. 105. § (1) bekezdés a) pontja vagy 105. § (2) bekezdés a) pontja szerint közvetlen megrendeléssel a Hivatal által az e rendelet 11. §-a szerint kötött keretmegállapodás útján valósítja meg.
 
-(5)[^25] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a módosító rendelet hatálybalépését[^26] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+(5)[^27] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a módosító rendelet hatálybalépését[^28] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
 
-(5a)[^27] Az (5) bekezdés alkalmazása során a Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keretmegállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.
+(5a)[^29] Az (5) bekezdés alkalmazása során a Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keretmegállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.
 
-(5b)[^28] A 7. §-nak a Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet módosításáról szóló 189/2016. (VII. 13.) Korm. rendelettel megállapított szövege hatálybalépése napján érintettnek minősülő, de a 7. § (1) bekezdés alapján még nem regisztrált szervezetek kötelesek a rendelkezés hatálybalépését követő 30 napon belül a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján regisztrálni.
+(5b)[^30] A 7. §-nak a Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet módosításáról szóló 189/2016. (VII. 13.) Korm. rendelettel megállapított szövege hatálybalépése napján érintettnek minősülő, de a 7. § (1) bekezdés alapján még nem regisztrált szervezetek kötelesek a rendelkezés hatálybalépését követő 30 napon belül a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján regisztrálni.
 
-(6)[^29] A Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keret-megállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások és azokhoz kapcsolódó termékek kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.
+(6)[^31] A Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keret-megállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások és azokhoz kapcsolódó termékek kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.
 
-(6)[^30] A Kormány felhatalmazza a minisztert, hogy az e-közigazgatásért felelős miniszter egyetértésével rendeletben határozza meg az érintett szervezetek által használandó akkreditált informatikai rendszerrel szembeni kritériumokat.[^31]
+(6)[^32] A Kormány felhatalmazza a minisztert, hogy az e-közigazgatásért felelős miniszter egyetértésével rendeletben határozza meg az érintett szervezetek által használandó akkreditált informatikai rendszerrel szembeni kritériumokat.[^33]
 
-[^23]: A 15. § (3) bekezdése a 189/2016. (VII. 13.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^24]: A 15. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^25]: A 15. § (5) bekezdését a 323/2015. (X. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
-[^26]: A hatálybalépés időpontja 2015. november 1.
-[^27]: A 15. § (5a) bekezdését a 189/2016. (VII. 13.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^28]: A 15. § (5b) bekezdését a 189/2016. (VII. 13.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^29]: A 15. § (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
-[^30]: A 15. § újabb (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
-[^31]: Lásd az 1/2016. (II. 1.) MK rendeletet.
+[^25]: A 15. § (3) bekezdése a 189/2016. (VII. 13.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^26]: A 15. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^27]: A 15. § (5) bekezdését a 323/2015. (X. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
+[^28]: A hatálybalépés időpontja 2015. november 1.
+[^29]: A 15. § (5a) bekezdését a 189/2016. (VII. 13.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^30]: A 15. § (5b) bekezdését a 189/2016. (VII. 13.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^31]: A 15. § (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^32]: A 15. § újabb (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
+[^33]: Lásd az 1/2016. (II. 1.) MK rendeletet.
