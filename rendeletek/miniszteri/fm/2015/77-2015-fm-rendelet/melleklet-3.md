@@ -36,7 +36,7 @@
 
 ## 0150 Vegyes gazdálkodás
 
-3. melléklet a 77/2015. (XII. 1.) FM rendelethez[^16]
+3. melléklet a 77/2015. (XII. 1.) FM rendelethez[^17]
 
 Kamat- és költségmentességben részesülő települések listája
 
@@ -1894,4 +1894,4 @@ Zalaszántó
 
 Zalaszentgrót
 
-[^16]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be, szövege a 65/2016. (IX. 21.) FM rendelet 34. §-ával megállapított szöveg.
+[^17]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be, szövege a 65/2016. (IX. 21.) FM rendelet 34. §-ával megállapított szöveg.

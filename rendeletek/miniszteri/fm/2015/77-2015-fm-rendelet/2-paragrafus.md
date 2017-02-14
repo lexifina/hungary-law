@@ -14,8 +14,9 @@ bb)[^7] az 1. és 3. mellékletben egyaránt szereplő településen működő �
 
 (2) A támogatás mértéke a hitelbírálati díj, a szerződéskötési díj, a közjegyzői díj, a fedezetek értékbecslési költsége, a rendelkezésre tartási jutalék és a kezelési költség – általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén nettó összegének, ÁFA-levonási joggal nem rendelkezők esetén bruttó összegének 100%-a – azzal, hogy a támogatás együttes összege nem haladhatja meg a vállalkozás és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás rendelkezésére álló szabad csekély összegű támogatási keretet. A hitelbírálati díjjal, a szerződéskötési díjjal, a közjegyzői díjjal összefüggésben a hitel futamideje alatt csak egy alkalommal felmerült költséggel összefüggésben igényelhető támogatás.
 
-(3) A támogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+(3)[^8] A kamattámogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
 [^5]: A 2. § (1) bekezdése az 51/2016. (VII. 21.) FM rendelet 30. §-ával megállapított szöveg.
 [^6]: A 2. § (1) bekezdés b) pont ba) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdés b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 30. §-ával megállapított szöveg.
