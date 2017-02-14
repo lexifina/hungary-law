@@ -4,6 +4,6 @@
 
 (2) A támogatás mértéke állategységenként, tárgynegyedévente ezerhétszáznegyven forint.
 
-(3)[^34] A kifizetési kérelemhez csatolni kell a megnövelt fényerő biztosításának alkalmazásáról tárgynegyedévente készült, a sertéságazati területi felelős által aláírt jegyzőkönyv másolatát. Az adott támogatási év első tárgynegyedévére vonatkozó jegyzőkönyv kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+(3)[^35] A kifizetési kérelemhez csatolni kell a megnövelt fényerő biztosításának alkalmazásáról tárgynegyedévente készült, a sertéságazati területi felelős által aláírt jegyzőkönyv másolatát. Az adott támogatási év első tárgynegyedévére vonatkozó jegyzőkönyv kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
 
-[^34]: A 9. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § i) pontja szerint módosított szöveg.
+[^35]: A 9. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § i) pontja szerint módosított szöveg.

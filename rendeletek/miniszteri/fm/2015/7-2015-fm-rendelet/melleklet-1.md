@@ -20,11 +20,11 @@
 
 9. Mellékletek
 
-9.1[^44] a megyei kormányhivatal igazolásának eredeti példánya az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
+9.1[^45] a megyei kormányhivatal igazolásának eredeti példánya az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
 
 9.2 a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazolás eredeti példánya,
 
-9.3[^45] nagyvállalkozásnak minősülő ügyfél esetén a megyei kormányhivatal álláspontja arról, hogy részvétele a támogatási programban indokolt.
+9.3[^46] nagyvállalkozásnak minősülő ügyfél esetén a megyei kormányhivatal álláspontja arról, hogy részvétele a támogatási programban indokolt.
 
-[^44]: Az 1. melléklet 9. pont 9.1. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja, a 25/2016. (IV. 11.) FM rendelet 39. § e) pontja szerint módosított szöveg.
-[^45]: Az 1. melléklet 9. pont 9.3. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.
+[^45]: Az 1. melléklet 9. pont 9.1. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja, a 25/2016. (IV. 11.) FM rendelet 39. § e) pontja szerint módosított szöveg.
+[^46]: Az 1. melléklet 9. pont 9.3. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.
