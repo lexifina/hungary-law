@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-41-20-8
 | 2015-09-08 | 2008-41-20-82.13 | 52/2015. (IX. 7.) FM rendelet |
 | 2016-01-21 | 2008-41-20-82.14 | 4/2016. (I. 20.) FM rendelet |
 | 2017-01-01 | 2008-41-20-82.15 | 42/2012. (V. 3.) VM rendelet |
+| 2017-02-14 | 2008-41-20-82.16 | 6/2017. (II. 13.) FM rendelet |
