@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-91-20-2
 | 2014-04-05 | 2012-91-20-2Y.3 | 36/2014. (IV. 4.) VM rendelet |
 | 2014-04-30 | 2012-91-20-2Y.4 | 54/2014. (IV. 29.) VM rendelet |
 | 2017-01-01 | 2012-91-20-2Y.5 | 80/2016. (XII. 13.) FM rendelet |
+| 2017-02-14 | 2012-91-20-2Y.6 | 6/2017. (II. 13.) FM rendelet |

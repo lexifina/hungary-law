@@ -1,4 +1,4 @@
-6/A. §[^25] (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet szerinti, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget.
+6/A. §[^26] (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet szerinti, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget.
 
 (2) A mezőgazdasági csekély összegű támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná bármely csoportmentességi rendeletben, vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
@@ -8,4 +8,4 @@
 
 (5) A támogatáshoz kapcsolódó iratokat az odaítélést követő tíz évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni.
 
-[^25]: A 6/A. §-t a 80/2016. (XII. 13.) FM rendelet 8. §-a iktatta be.
+[^26]: A 6/A. §-t a 80/2016. (XII. 13.) FM rendelet 8. §-a iktatta be.
