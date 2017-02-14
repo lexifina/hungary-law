@@ -1,0 +1,3 @@
+## 4. § A 320/2015. Korm. rendelet 9/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A 8. § szerinti az eljárás megindítására vonatkozó tanúsítvány kiállítását követő tíz munkanapon belül az ellenőrző szervezet – feltéve, hogy a 8. § szerinti tanúsítvány kiállítására nem a 7. § (2a) bekezdés 2. pontja szerinti együttes ellenőrzés alapján került sor – elvégzi az eljárást megindító vagy meghirdető felhívás és az eljárás megindításához szükséges közbeszerzési dokumentumok – a 7. § (2a) bekezdés 3. pontjában foglaltakon túli – közbeszerzési-jogi szempontú vizsgálatát, amely alapján újabb, a 8. és 9. § szerinti, a közbeszerzési dokumentumok jóváhagyására vonatkozó tanúsítványt állít ki az adott közbeszerzés vonatkozásában.”
