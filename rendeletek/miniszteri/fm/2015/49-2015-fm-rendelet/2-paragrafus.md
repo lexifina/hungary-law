@@ -18,10 +18,11 @@ db)[^13] az 1. és 3. mellékletében egyaránt szereplő település valamelyik
 
 ## termelői szerveződés esetében a támogatás mértéke az 51/2016. (VII. 21.) FM rendelet hatálybalépését[^14] megelőzően benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű összes földterület minden megkezdett hektárja után számított, legfeljebb 500 000 forint összegű hitelnek az 51/2016. (VII. 21.) FM rendelet hatálybalépésétől kezdődően esedékes kamatfizetései tekintetében 100% kamattámogatás a hitel teljes futamidejére azzal, hogy a 100%-os kamattámogatáson felüli hitelösszeg vonatkozásában a kamattámogatás mértéke megegyezik a b) pontban foglalt mértékkel és az a rá vonatkozó szabályok szerint vehető igénybe.
 
-(3) A kamattámogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+(3)[^15] A kamattámogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
 [^10]: A 2. § (2) bekezdés c) pontját a 77/2015. (XII. 1.) FM rendelet 16. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 27. §-ával megállapított szöveg.
 [^11]: A 2. § (2) bekezdés d) pontját az 51/2016. (VII. 21.) FM rendelet 27. §-a iktatta be.
 [^12]: A 2. § (2) bekezdés d) pont da) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.
 [^13]: A 2. § (2) bekezdés d) pont db) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.
 [^14]: A hatálybalépés időpontja 2016. július 22.
+[^15]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 28. §-ával megállapított szöveg.
