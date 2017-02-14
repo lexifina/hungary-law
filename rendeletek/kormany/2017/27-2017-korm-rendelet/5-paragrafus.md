@@ -1,0 +1,1 @@
+5. § Hatályát veszti a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti oktatási, tudományos, kulturális, sport- és ifjúsági együttműködésről szóló Egyezménynek a Montenegrói Köztársaság vonatkozásában történő kihirdetéséről szóló 163/2007. (VI. 27.) Korm. rendelet.
