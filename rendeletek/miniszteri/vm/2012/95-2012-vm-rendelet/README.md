@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-95-20-2
 | 2015-11-25 | 2012-95-20-2Y.8 | 2010: CXXX. törvény |
 | 2016-05-19 | 2012-95-20-2Y.9 | 37/2016. (V. 18.) FM rendelet |
 | 2017-01-01 | 2012-95-20-2Y.10 | 88/2016. (XII. 29.) FM rendelet |
+| 2017-02-14 | 2012-95-20-2Y.11 | 6/2017. (II. 13.) FM rendelet |
