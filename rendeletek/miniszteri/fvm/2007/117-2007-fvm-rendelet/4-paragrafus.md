@@ -1,6 +1,6 @@
 ## A támogatás forrása és mértéke
 
-4. § (1)[^7] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelemtámogatások jogcímcsoporton elkülönített keretösszeg.
+4. § (1)[^7] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg.
 
 (2)[^8] Az éves támogatási keret legfeljebb 75 millió Ft. Az adott naptári évben rendelkezésre álló támogatási keret terhére a megelőző évről áthúzódó kifizetések és az adott naptári évben elvégzett szolgáltatások támogatása teljesíthető.
 
@@ -18,7 +18,7 @@ b) a támogatott növényegészségügyi laboratóriumi vizsgálatokkal kapcsola
 
 (7)[^13] Az (5) bekezdés szerint meghatározott támogatás mértéke esetében a 100 százalék nem léphető túl az ugyanazon elszámolható költségek tekintetében nyújtott bármely egyéb – állami vagy uniós társfinanszírozású – támogatási összeg és biztosítói kifizetés figyelembevételével sem.
 
-[^7]: A 4. § (1) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § b) pontjával elrendelt módosítás, amely szerint „a Földművelésügyi és Vidékfejlesztési Minisztérium” szövegrész helyébe „a Vidékfejlesztési Minisztérium” szöveg lép, nem vezethető át.]
+[^7]: A 4. § (1) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított, a 6/2017. (II. 13.) FM rendelet 1. §-a szerint módosított szöveg.
 [^8]: A 4. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: A 4. § új (3) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a.
 [^10]: A 4. § új (4) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatta, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 4. pontja, a 6/2015. (III. 10.) FM rendelet 9. § a) pontja, a 88/2016. (XII. 29.) FM rendelet 16. § a) pontja szerint módosított szöveg.
