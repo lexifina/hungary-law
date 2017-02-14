@@ -22,7 +22,7 @@ b) a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) ált
 
 (4) A Folyószámlahitelhez a kezességvállaló intézmény kezessége kapcsolódik. Ha a kezességi díjtámogatásra a mezőgazdasági vállalkozásnak nincs szabad átmeneti támogatási kerete, a Folyószámlahitel kezességi díjtámogatás nélkül is nyújtható.
 
-(5) A (2) bekezdésben meghatározott támogatás azon Folyószámlahitelhez vehető igénybe, amely hitelkérelem e rendelet hatálybalépését követően, de legkésőbb 2016. december 31-én kerül benyújtásra, és amelynek összege százezer forint pozitív egész számú többszöröse, a (3) bekezdésben foglaltak szerint igazolt, minden megkezdett egész állategység után legfeljebb 500 000 forint, de legfeljebb 50 millió forint mezőgazdasági vállalkozásonként. A Folyószámlahitel futamideje a hitelszerződés aláírásától számított legfeljebb 365 nap.
+(5)[^2] A (2) bekezdésben meghatározott támogatás azon Folyószámlahitelhez vehető igénybe, amely hitelkérelem e rendelet hatálybalépését követően, de legkésőbb 2017. június 30-án kerül benyújtásra, és amelynek összege százezer forint pozitív egész számú többszöröse, a (3) bekezdésben foglaltak szerint igazolt, minden megkezdett egész állategység után legfeljebb 500 000 forint, de legfeljebb 50 millió forint mezőgazdasági vállalkozásonként. A Folyószámlahitel futamideje a hitelszerződés aláírásától számított legfeljebb 365 nap.
 
 (6) Az átmeneti támogatás mértéke
 
@@ -43,3 +43,4 @@ c) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslés
 (11) A (6) bekezdés c) pontja szerinti, a kezelési költségen kívüli költség támogatása esetén a támogatás összegét a kezelési költségen kívüli költségtámogatás iránti kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
 [^1]: A 2. § (3) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 123. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (5) bekezdése a 6/2017. (II. 13.) FM rendelet 39. § a) pontja szerint módosított szöveg.

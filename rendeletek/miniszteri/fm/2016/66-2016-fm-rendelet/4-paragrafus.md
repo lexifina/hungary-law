@@ -1,4 +1,4 @@
-## 3. § Az átmeneti támogatás forrása a Földművelésügyi Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+## 3. §[^3] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
 ## 4. A támogatás igénybevételének feltételei
 
@@ -23,3 +23,5 @@ e) nem rendelkezik SZK Folyószámlahitellel, illetve Folyószámlahitellel, vag
 (2) Az (1) bekezdésben foglaltakon túl a mezőgazdasági vállalkozásnak az igénylőlapon nyilatkoznia kell a nevéről és a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti üzemméretéről.
 
 (3) Az (1) bekezdés e) pontjában foglalt feltétel ellenőrzését a KAVOSZ Zrt. végzi, a feltétel nem teljesítése esetén – támogatáshalmozódás fennállására tekintettel – a Törvény szerinti, jogosulatlanul igénybe vett támogatásra vonatkozó szabályokat kell alkalmazni.
+
+[^3]: A 3. § a 6/2017. (II. 13.) FM rendelet 38. §-ával megállapított szöveg.
