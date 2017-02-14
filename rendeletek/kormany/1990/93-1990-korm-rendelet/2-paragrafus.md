@@ -14,6 +14,12 @@ c) a hatodik évtől évenként havi 3155 forint.
 
 (4) Az emelés összegébe be kell számítani a korábbi jogszabályokban [72/1989. (VII. 4.) MT rendelet, 104/1989. (X. 4.) MT rendelet, 108/1989. (XI. 1.) MT rendelet, 65/1990. (III. 28.) MT rendelet] meghatározott jogcím alapján megállapított, illetve már folyósított nyugdíjemelést.
 
+(5)[^10] Az e rendelet alapján folyósított saját jogú és hozzátartozói jogon járó ellátás összegét 2017. január 1-jétől – a 2/A. § szerinti emelésen túl – a 2016 novemberében folyósított összeg 60%-ával fel kell emelni. Az ellátás már folyósított és megemelt összege közötti különbözet kifizetésére 2017. január 1-jére visszamenőleg hivatalból, legkésőbb 2017. március 31-ig kerül sor. Az ellátást 2016. december 31-ét követő időponttól a 2016 novemberére járó összeg 60%-ával és a 2/A. §-ban foglaltak szerint növelt, (1)–(4) bekezdés szerinti összegben kell megállapítani, olyan összeg alapulvételével, mely a jogosultat – a jogosultsági feltételek fennállása esetén – 2016 novemberében megillette volna.
+
+(6)[^11] Az e rendelet alapján folyósított saját jogú és hozzátartozói jogon járó ellátás összegét 2018. január 1-jétől – a 2/A. § szerinti emelésen túl – a 2016 novemberében folyósított összeg 40%-ával fel kell emelni. Az ellátást 2017. december 31-ét követő időponttól a 2016 novemberére járó összeg 40%-ával és a 2/A. §-ban foglaltak szerint növelt, (1)–(4) bekezdés szerinti összegben kell megállapítani, olyan összeg alapulvételével, mely a jogosultat – a jogosultsági feltételek fennállása esetén – 2016 novemberében megillette volna.
+
 [^7]: A 2. § (1) bekezdése a 316/2014. (XII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § (2) bekezdése a 316/2014. (XII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (2a) bekezdését a 316/2014. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. § (5) bekezdését a 28/2017. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 2. § (6) bekezdését a 28/2017. (II. 13.) Korm. rendelet 1. §-a iktatta be.
