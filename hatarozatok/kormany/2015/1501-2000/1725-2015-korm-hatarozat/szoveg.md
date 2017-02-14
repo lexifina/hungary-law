@@ -4,7 +4,7 @@
 
 3. A Kormány a Bizottság elnökének a 2017-ben Budapesten és Balatonfüreden megrendezendő XVII. Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezésével kapcsolatos összkormányzati feladatok koordinációjának ellátásáért felelős kormánybiztost nevezi ki.
 
-4. A Kormány a Bizottság társelnökének Gyárfás Tamást, a Magyar Úszószövetség elnökét, a Nemzetközi Úszószövetség alelnökét kéri fel.
+4.[^1]
 
 5. A Kormány a Bizottság tagjává nevezi ki, illetve kéri fel:
 
@@ -22,11 +22,11 @@ f) az egyes kiemelt budapesti beruházásokért felelős kormánybiztost,
 
 g) Budapest Főváros főpolgármesterét,
 
-h) Gyárfás Tamást, a Magyar Úszószövetség elnökét, a Nemzetközi Úszószövetség alelnökét,
+h)[^2] a Nemzetközi Úszószövetség magyar alelnökét.
 
-i) a Magyar Úszószövetség főtitkárát.
+i)[^3]
 
-6. A Bizottság munkájában a Bizottság elnökének felkérése alapján tanácskozási joggal más közreműködő is részt vehet.
+6.[^4] A Bizottság munkájában a Bizottság elnökének felkérése alapján tanácskozási joggal más közreműködő is részt vehet, így különösen a Magyar Úszó Szövetség, a Magyar Vízilabda Szövetség, a Magyar Műugró Szakszövetség, valamint a Magyar Szinkronúszó Szövetség elnöke. A Magyar Úszó Szövetség, a Magyar Vízilabda Szövetség, a Magyar Műugró Szakszövetség, valamint a Magyar Szinkronúszó Szövetség elnökét a tanácskozási jog mellett véleményezési jog is megilleti.
 
 7. A Bizottság titkárának a Kormány a Bp2017 Világbajnokság Szervező és Lebonyolító Nonprofit Kft. ügyvezetőjét kéri fel.
 
@@ -34,7 +34,7 @@ i) a Magyar Úszószövetség főtitkárát.
 
 9. A Bizottság tagját eseti jelleggel a delegáló által kijelölt másik személy helyettesítheti.
 
-10. A Bizottság elnöke, társelnöke, tagjai és titkára tevékenységükért tiszteletdíjban nem részesülnek.
+10.[^5] A Bizottság elnöke, tagjai és titkára tevékenységükért tiszteletdíjban nem részesülnek.
 
 11. A Kormány
 
@@ -51,3 +51,9 @@ Felelős: emberi erőforrások minisztere
 Határidő: folyamatos
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pontot az 1079/2017. (II. 13.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^2]: Az 5. pont h) alpontja az 1079/2017. (II. 13.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont i) alpontját az 1079/2017. (II. 13.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^4]: A 6. pont az 1079/2017. (II. 13.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 10. pont az 1079/2017. (II. 13.) Korm. határozat 3. pontjával megállapított szöveg.
