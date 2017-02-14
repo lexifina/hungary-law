@@ -2,11 +2,11 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^31] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+(2)[^32] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-(3)[^32] E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 25/2016. (IV. 11.) FM rendelettel megállapított 4. § (3) bekezdését a 2015. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
+(3)[^33] E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 25/2016. (IV. 11.) FM rendelettel megállapított 4. § (3) bekezdését a 2015. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
 
-Melléklet a 64/2008. (V. 14.) FVM rendelethez[^33]
+Melléklet a 64/2008. (V. 14.) FVM rendelethez[^34]
 
 Támogatási kérelem
 
@@ -102,6 +102,6 @@ kérelmező (cégszerű) aláírása
 
 5. A 37/2011. (III. 22.) Korm. rendelet 11/A. §-a szerinti nyilatkozatok.
 
-[^31]: A 8. § (2) bekezdése a 18/2014. (X. 29.) FM rendelet 8. §-ával megállapított szöveg.
-[^32]: A 8. § (3) bekezdését a 25/2016. (IV. 11.) FM rendelet 19. §-a iktatta be.
-[^33]: A Melléklet a 18/2014. (X. 29.) FM rendelet 9. §-ával megállapított, a 31/2014. (XII. 9.) FM rendelet 27. §-a, a 88/2016. (XII. 29.) FM rendelet 32. § e) pontja szerint módosított szöveg.
+[^32]: A 8. § (2) bekezdése a 18/2014. (X. 29.) FM rendelet 8. §-ával megállapított szöveg.
+[^33]: A 8. § (3) bekezdését a 25/2016. (IV. 11.) FM rendelet 19. §-a iktatta be.
+[^34]: A Melléklet a 18/2014. (X. 29.) FM rendelet 9. §-ával megállapított, a 31/2014. (XII. 9.) FM rendelet 27. §-a, a 88/2016. (XII. 29.) FM rendelet 32. § e) pontja szerint módosított szöveg.
