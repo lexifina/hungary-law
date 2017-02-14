@@ -1,6 +1,6 @@
 ## A támogatott szolgáltatás igénybevétele
 
-5. §[^27] (1)[^28] A 4. § (1) bekezdés b) pontja szerinti jóváhagyási kérelmet ugyanazon állományra és betegségekre vonatkozóan az állattartónak, valamint az akvakultúra-ágazati vállalkozásnak évente egy alkalommal a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által rendszeresített és honlapján közzétett, a 2. számú melléklet szerinti adattartalmú nyomtatványon a megyei kormányhivatalhoz kell benyújtania. A kérelmet állatfajonként külön nyomtatványon kell benyújtani. Év közbeni állomány változás esetén új kérelem nyújtható be.
+5. §[^27] (1)[^28] A 4. § (1) bekezdés b) pontja szerinti jóváhagyási kérelmet ugyanazon állományra és betegségekre vonatkozóan az állattartónak, valamint az akvakultúra-ágazati vállalkozásnak évente egy alkalommal a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által rendszeresített és honlapján közzétett, a 2. számú melléklet szerinti adattartalmú nyomtatványon a járási hivatalhoz kell benyújtania. A kérelmet állatfajonként külön nyomtatványon kell benyújtani. Év közbeni állomány változás esetén új kérelem nyújtható be.
 
 (2)[^29] Az (1) bekezdés szerinti jóváhagyásra az az állattartó, valamint az akvakultúra-ágazati vállalkozás jogosult, aki/amely:
 
@@ -24,9 +24,9 @@ cf) állat-egészségügyi szaktanácsadási tevékenység igénybevétele eset�
 
 d)[^33] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tett.
 
-(3)[^34] Amennyiben a kérelem nem felel meg az e rendeletben, valamint az egyéb jogszabályokban előírt feltételeknek, vagy más okból kiegészítésre, vagy javításra szorul, a megyei kormányhivatal a kérelmezőt a hiányok megjelölése mellett tizenöt napos határidő tűzésével a hibák kijavítására, illetve pótlására szólítja fel.
+(3)[^34] Amennyiben a kérelem nem felel meg az e rendeletben, valamint az egyéb jogszabályokban előírt feltételeknek, vagy más okból kiegészítésre, vagy javításra szorul, a járási hivatal a kérelmezőt a hiányok megjelölése mellett tizenöt napos határidő tűzésével a hibák kijavítására, illetve pótlására szólítja fel.
 
-(4)[^35] A támogatott állat-egészségügyi szolgáltatás igénybevételére való jogosultságról a megyei kormányhivatal döntést hoz.
+(4)[^35] A támogatott állat-egészségügyi szolgáltatás igénybevételére való jogosultságról a járási hivatal döntést hoz.
 
 (5)[^36] A jogosultságról szóló döntés meglétét az engedélyes köteles ellenőrizni. Támogatás csak a jogosultságról szóló döntés keltét követően elvégzett állat-egészségügyi szolgáltatás után igényelhető.
 
@@ -37,13 +37,13 @@ d)[^33] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támog
 (8) A kedvezményezett az engedélyesnek a bruttó számlaérték és a támogatástartalom különbözetét fizeti meg. A támogatási keret kimerülése, illetve valamely jogosultsági feltétel nem teljesítése esetén a kedvezményezett köteles az engedélyes részére a számla teljes összegét kifizetni.
 
 [^27]: Az 5. § a 23/2011. (III. 28.) VM rendelet 3. §-ával megállapított szöveg.
-[^28]: Az 5. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a, a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés c) pontja, a 4/2016. (I. 20.) FM rendelet 8. § a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 84. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
+[^28]: Az 5. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a, a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés c) pontja, a 4/2016. (I. 20.) FM rendelet 8. § a) pontja, a 6/2017. (II. 13.) FM rendelet 8. § c) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 84. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
 [^29]: Az 5. § (2) bekezdés nyitó szövegrésze a 4/2016. (I. 20.) FM rendelet 8. § b) pontja szerint módosított szöveg.
 [^30]: Az 5. § (2) bekezdés a) pontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés d) pontja szerint módosított szöveg.
 [^31]: Az 5. § (2) bekezdés c) pont cb) alpontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja szerint módosított szöveg.
 [^32]: Az 5. § (2) bekezdés c) pont cc) alpontja a 33/2014. (IV. 4.) VM rendelet 27. § a) pontja szerint módosított szöveg.
 [^33]: Az 5. § (2) bekezdés d) pontja a 33/2014. (IV. 4.) VM rendelet 27. § b) pontja, a 78/2016. (XII. 12.) FM rendelet 8. § d) pontja szerint módosított szöveg.
-[^34]: Az 5. § (3) bekezdése a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja szerint módosított szöveg.
-[^35]: Az 5. § (4) bekezdése a 24/2014. (XI. 6.) FM rendelet 3. § (1) bekezdésével megállapított, a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^34]: Az 5. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 8. § d) pontja szerint módosított szöveg.
+[^35]: Az 5. § (4) bekezdése a 24/2014. (XI. 6.) FM rendelet 3. § (1) bekezdésével megállapított, a 6/2017. (II. 13.) FM rendelet 8. § d) pontja szerint módosított szöveg.
 [^36]: Az 5. § (5) bekezdése a 93/2011. (X. 12.) VM rendelet 6. §-ával megállapított szöveg.
 [^37]: Az 5. § (7) bekezdése a 78/2016. (XII. 12.) FM rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^108]
+5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^112]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján vágóhídra szállított baromfilétszámra vonatkozóan
 
@@ -22,9 +22,9 @@
 
 8.2. a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás teljesítése megtörtént,
 
-8.3[^109] a 7. pontban feltüntetett szállítólevelek megküldésre kerültek az Országos Adatbázis (Nemzeti Élelmiszerlánc-biztonsági Hivatal, 1537 Budapest Pf. 397.) részére.
+8.3[^113] a 7. pontban feltüntetett szállítólevelek megküldésre kerültek az Országos Adatbázis (Nemzeti Élelmiszerlánc-biztonsági Hivatal, 1537 Budapest Pf. 397.) részére.
 
 9. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^108]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés d) pontjável megállapított szöveg.
-[^109]: Az 5. számú melléklet 8. pont 8.3. alpontja az 51/2016. (VII. 21.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^112]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés d) pontjável megállapított szöveg.
+[^113]: Az 5. számú melléklet 8. pont 8.3. alpontja az 51/2016. (VII. 21.) FM rendelet 4. § b) pontja szerint módosított szöveg.
