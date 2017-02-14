@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-39-20-2
 | 2016-09-22 | 2011-39-20-2Y.15 | 65/2016. (IX. 21.) FM rendelet |
 | 2016-12-13 | 2011-39-20-2Y.16 | 78/2016. (XII. 12.) FM rendelet |
 | 2017-01-01 | 2011-39-20-2Y.17 | 94/2013. (X. 10.) VM rendelet |
+| 2017-02-14 | 2011-39-20-2Y.18 | 6/2017. (II. 13.) FM rendelet |

@@ -1,4 +1,4 @@
-## 3. §[^22] A kamattámogatás, a kezességi díjtámogatás és a költségtámogatás forrása a Földművelésügyi Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+## 3. §[^22] A kamattámogatás, a kezességi díjtámogatás és a költségtámogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
 ## 4. A támogatás igénybevételének feltétele
 
@@ -20,7 +20,7 @@ e) nem rendelkezik Széchenyi Kártya Folyószámlahitellel.
 
 (2)[^27] Az (1) bekezdés e) pontjában foglalt feltétel fennállásának ellenőrzését a KAVOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
 
-[^22]: A 3. § a 130/2013. (XII. 21.) VM rendelet 16. §-ával megállapított, a 18/2014. (X. 29.) FM rendelet 19. § a) pontja, a 25/2016. (IV. 11.) FM rendelet 25. § c) pontja szerint módosított szöveg.
+[^22]: A 3. § a 6/2017. (II. 13.) FM rendelet 13. §-ával megállapított szöveg.
 [^23]: A 4. § (1) bekezdés nyitó szövegrésze a 77/2015. (XII. 1.) FM rendelet 13. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^24]: A 4. § (1) bekezdés a) pontja a 94/2013. (X. 10.) VM rendelet 10. § (6) bekezdése szerint módosított szöveg.
 [^25]: A 4. § (1) bekezdés c) pontját a 18/2014. (X. 29.) FM rendelet 20. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 13. § (5) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 7. §-ával megállapított, szövege a 78/2016. (XII. 12.) FM rendelet 12. § c) pontja szerint módosított szöveg.
