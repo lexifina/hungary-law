@@ -1,4 +1,4 @@
-## 28/A. §[^25] A végrehajtó hatóság a 661/2010/EU európai parlamenti és tanácsi határozat III. mellékletében meghatározott kiemelt fontosságú projektek vagy annak egy szakasza befejezése után öt évvel elvégzi a projekt társadalmi-gazdasági és környezeti hatásának vizsgálatát, beleértve a kereskedelemre, valamint az áruk és személyek tagállamok közötti szabad mozgására, a területi kohézióra és a fenntartható fejlődésre gyakorolt hatásokat is. A miniszter a vizsgálat eredményeiről tájékoztatja az Európai Bizottságot.
+## 28/A. §[^26] A végrehajtó hatóság az 1315/2013/EU európai parlamenti és tanácsi rendeletben meghatározott törzshálózat vagy annak egy szakasza befejezése után öt évvel elvégzi a projekt társadalmi-gazdasági és környezeti hatásának vizsgálatát, beleértve a kereskedelemre, valamint az áruk és személyek tagállamok közötti szabad mozgására, a területi kohézióra és a fenntartható fejlődésre gyakorolt hatásokat is. A miniszter a vizsgálat eredményeiről tájékoztatja az Európai Bizottságot.
 
 ## VII. Fejezet
 
@@ -18,4 +18,4 @@ d) a szabálytalanságokkal kapcsolatos negyedéves jelentések összeállítás
 
 (3) A szabálytalanságokkal kapcsolatos teendőket az egyes szervezetek eljárásrendjük önálló fejezeteként részletesen szabályozzák.
 
-[^25]: A 28/A. §-t a 325/2012. (XI. 16.) Korm. rendelet 4. §-a iktatta be.
+[^26]: A 28/A. §-t a 325/2012. (XI. 16.) Korm. rendelet 4. §-a iktatta be, szövege a 31/2017. (II. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.

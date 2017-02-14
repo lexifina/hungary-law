@@ -1,6 +1,6 @@
 ## 37. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba; rendelkezéseit a folyamatban lévő projektekre is alkalmazni kell.
 
-38. §[^29] Ez a rendelet a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+38. §[^30] Ez a rendelet a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 Melléklet a 150/2005. (VII. 29.) Korm. rendelethez
 
@@ -62,4 +62,4 @@ fb) a szabálytalanságok és szerződésszegések kezelését,
 
 fc) a szabálytalanságok és szerződésszegések jogkövetkezményeit.
 
-[^29]: A 38. § a 325/2012. (XI. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^30]: A 38. § a 31/2017. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

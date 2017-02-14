@@ -10,7 +10,7 @@
 
 (4) A végrehajtó hatóság a közösségi hozzájárulás átutalását, a központi költségvetési támogatás átutalását, valamint a saját forrás átutalását biztosítja a projektenként nyitott lebonyolítási bankszámlára. A projektenkénti lebonyolítási bankszámláról történik a szállítók részére a kifizetés bonyolítása.
 
-(5)[^20] Az előre nem látható, a visszafizetéshez szükséges, illetve az Európai Bizottsággal való elszámolásokból adódó árfolyam-különbözet elszámolására szolgáló fedezet európai uniós céltartalékként való költségvetési tervezése szintén a végrehajtó hatóság feladata a TEN-T projektek kedvezményezettjei által benyújtott összesítések alapján, a mindenkori tervezési tájékoztató és a központi költségvetésről szóló törvény előírásaival összhangban.
+(5)[^21] Az előre nem látható, a visszafizetéshez szükséges, illetve az Európai Bizottsággal való elszámolásokból adódó árfolyam-különbözet elszámolására szolgáló fedezet európai uniós céltartalékként való költségvetési tervezése szintén a végrehajtó hatóság feladata a TEN-T projektek kedvezményezettjei által benyújtott összesítések alapján, a mindenkori tervezési tájékoztató és a központi költségvetésről szóló törvény előírásaival összhangban.
 
 (6) A bankszámlák feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
@@ -20,4 +20,4 @@
 
 (9) A végrehajtó hatóság a kedvezményezett részére eseti elbírálás alapján a támogatás 20%-áig előleg folyósítását engedélyezheti.
 
-[^20]: A 16. § (5) bekezdése a 325/2012. (XI. 16.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^21]: A 16. § (5) bekezdése a 325/2012. (XI. 16.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
