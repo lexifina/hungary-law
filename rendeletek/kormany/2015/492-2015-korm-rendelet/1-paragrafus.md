@@ -5,3 +5,7 @@
 (2) A Kbt. 5–7. §-a szerinti ajánlatkérő, amennyiben a beszerzése megvalósítása során a Kbt.-ben meghatározott eljárások alkalmazásától a Kbt. 9. § (1) bekezdés b) pontja szerinti kivétel alkalmazásával kíván eltérni, a közbeszerzési eljárás lefolytatása alóli országgyűlési bizottsági mentesítés során e rendelet szabályai szerint jár el.
 
 (3) Az ajánlatkérő a beszerzés közbeszerzési eljárás lefolytatása nélkül történő megvalósítására a beszerzés e rendelet szerinti eljárás során történő mentesítését követően jogosult.
+
+(4)[^1] A Kbt. 195. § (1) bekezdésében meghatározott ajánlatkérők az Országgyűlés illetékes bizottságának döntésére irányuló, e rendelet szerinti mentesítési eljárást abban az esetben kezdeményezhetik, ha a közbeszerzésekért felelős miniszter a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló Korm. rendelet szerinti ellenőrzés eredményeként a mentesítési eljárás megindításához hozzájárult.
+
+[^1]: Az 1. § (4) bekezdését a 29/2017. (II. 13.) Korm. rendelet 1. §-a iktatta be.

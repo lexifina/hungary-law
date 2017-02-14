@@ -8,8 +8,8 @@ b) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezésé
 
 c) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek, valamint
 
-d)[^4]
+d)[^5]
 
 való megfelelést szolgálja.
 
-[^4]: A 8. § d) pontját a 225/2016. (VII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 10. §-át.
+[^5]: A 8. § d) pontját a 225/2016. (VII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 10. §-át.

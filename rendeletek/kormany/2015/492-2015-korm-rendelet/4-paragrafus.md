@@ -2,6 +2,6 @@
 
 (2) Egyetértése esetén a Kabinet a mentesítési kérelmet és annak mellékleteit, valamint a mentesítési kérelemben foglaltakról kialakított véleményét 8 napon belül tájékoztatásul továbbítja a bizottságnak. A Kabinet véleményében javaslatot tesz a 2. § (2) bekezdése szerinti mentesítés megadására. A Kormány irányítása alatt nem álló szervezet által benyújtott mentesítési kérelmet a Kabinet – egyet nem értése esetén – véleményével ellátva továbbítja a bizottságnak.
 
-(3)[^3] A Munkacsoport vezetője a (2) bekezdés szerinti döntésről haladéktalanul tájékoztatja a Nemzetbiztonsági Kabinet vezetőjét és tagjait.
+(3)[^4] A Munkacsoport vezetője a (2) bekezdés szerinti döntésről haladéktalanul tájékoztatja a Nemzetbiztonsági Kabinet vezetőjét és tagjait.
 
-[^3]: A 4. § (3) bekezdését a 133/2016. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 4. § (3) bekezdését a 133/2016. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
