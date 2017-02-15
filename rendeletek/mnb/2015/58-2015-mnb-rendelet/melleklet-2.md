@@ -1,38 +1,36 @@
-2. melléklet az 58/2015. (XII. 22.) MNB rendelethez
+2. melléklet az 58/2015. (XII. 22.) MNB rendelethez[^12]
 
 ## Speciális törzsadatok
 
-I. Összefoglaló tábla
+1. Összefoglaló tábla
 
 |  | Adatkör kódja | Adatkör megnevezése | Bejelentésre kötelezett | Bejelentési gyakoriság | Bejelentési határidő |
 
-| 1 | HPTPK | Pénzügyi közvetítők bejelentése | HIT, HITF, PV, PVF | V |  |  | a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül |
+| 1 | HPTPK | Pénzpiaci közvetítők bejelentése | HIT, HITF, PV, PVF | V |  | a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül |
 
-| 2 | KTAPK | Pénzpiaci alkuszok alvállalkozóinak bejelentése | PA | V |  |  | a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül |
+| 2 | KTAPK | Pénzpiaci alkuszok alvállalkozóinak bejelentése | PA | V |  | a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül |
 
-| 3 | KTBIZ | Biztosítók speciális adatai | BIZ |  |  |  | a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül |
+| 3 | KTBIZ | Biztosítók speciális adatai | BIZ, KISEGY, NAGYEGY, KB | V |  | a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül |
 
-| 4 | KTBI | Biztosító egyesületek speciális törzsadatai | KISEGY, NAGYEGY |  | É |  | a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 4 | KTBI | Biztosító egyesületek speciális törzsadatai | KISEGY, NAGYEGY | V | FÉ | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; a féléves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan a tárgyév július 20. munkanapjáig, valamint a tárgyév december 10-re vonatkozóan a tárgyév december 30-ig |
 
-| 5 | KTBK | Biztosítási többes ügynök és biztosítási alkusz (biztosításközvetítők) speciális törzsadatai | BK | V | É |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 5 | KTBK | Biztosítási többes ügynök és biztosítási alkusz (biztosításközvetítők) speciális törzsadatai | BK | V | FÉ | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; a féléves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan a tárgyév július 20. munkanapjáig, valamint a tárgyév december 10-re vonatkozóan a tárgyév december 30-ig |
 
-| 6 | KTPT | Pénztárak speciális törzsadatai | EP, SP, OP, MP | V | É |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 6 | KTPT | Pénztárak speciális törzsadatai | EP, ESP, SP, OP, MP | V | FÉ | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; a féléves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan a tárgyév július 20. munkanapjáig, valamint a tárgyév december 10-re vonatkozóan a tárgyév december 30-ig |
 
-| 7 | KTFNY | Foglalkoztatói nyugdíjszolgáltató intézmények speciális törzsadatai | FNYSZI | V | É |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 7 | KTFNY | Foglalkoztatói nyugdíjszolgáltató intézmények speciális törzsadatai | FNYSZI | V | FÉ | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig, valamint a tárgyév december 10-re vonatkozóan a tárgyév december 30-ig |
 
-| 8 | KTBV | Befektetési vállalkozások és befektetési vállalkozások fióktelepe speciális törzsadatai | BV, BVF, befektetési szolgáltatási tevékenység végzésére engedéllyel rendelkező HIT és HITF | V | É |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 8 | KTBV | Befektetési vállalkozások és befektetési vállalkozások fióktelepe speciális törzsadatai | BV, BVF, befektetési szolgáltatási tevékenység végzésére engedéllyel rendelkező HIT és HITF | V | FÉ | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; a féléves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan a tárgyév július 20. munkanapjáig, valamint a tárgyév december 10-re vonatkozóan a tárgyév december 30-ig |
 
-| 9 | KTHPV | Hitelintézetek, hitelintézeti fióktelepek, pénzügyi vállalkozások és pénzügyi vállalkozások fióktelepei speciális törzsadatai | HIT, HITF, PV, PVF | V | É |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 9 | KTHPV | Hitelintézetek, hitelintézeti fióktelepek, pénzügyi vállalkozások és pénzügyi vállalkozások fióktelepei speciális törzsadatai | HIT, HITF, PV, PVF | V | FÉ | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; a féléves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan a tárgyév július 20. munkanapjáig, valamint a tárgyév december 10-re vonatkozóan a tárgyév december 30-ig |
 
-| 10 | KTPI | Elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és pénzforgalmi intézmény fióktelepe, valamint a PEKMI speciális törzsadatai | E, PI, PEKMI, EF, PIF | V | É |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 10 | KTPI | Elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény, elektronikuspénz- kibocsátó intézmény és pénzforgalmi intézmény fióktelepe, valamint a PEKMI speciális törzsadatai | E, PI, PEKMI, EF, PIF | V | FÉ | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 5 munkanapon belül; a féléves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan a tárgyév július 20. munkanapjáig, valamint a tárgyév december 10-re vonatkozóan a tárgyév december 30-ig |
 
-II. Az összefoglaló táblában előforduló rövidítések tartalma
+2. Az összefoglaló táblában előforduló rövidítések tartalma
 
-|  | Gyakoriság | Éves | É |
+2.1. Bejelentésre kötelezett
 
-|  |  | Változás esetén | V |
-
-| Bejelentésre kötelezett | Pénzpiac |  |
+| Bejelentésre kötelezett | Pénzpiac |
 
 | Elektronikuspénz-kibocsátó intézmény | E |
 
@@ -54,23 +52,25 @@ II. Az összefoglaló táblában előforduló rövidítések tartalma
 
 | Postai Elszámoló Központot Működtető Intézmény | PEKMI |
 
-| Tőkepiac |  |
+| Tőkepiac |
 
 | Befektetési vállalkozás | BV |
 
 | Befektetési vállalkozás fióktelepe | BVF |
 
-| Biztosítási piac |  |
+| Biztosítási piac |
 
 | Biztosító és viszontbiztosító (részvénytársaság, európai részvénytársaság, szövetkezet) | BIZ |
 
 | Biztosító nagyegyesület | NAGYEGY |
 
-| Kisbiztossító -egyesület | KISEGY |
+| Kisbiztosító-egyesület | KISEGY |
+
+| Kisbiztosító | KB |
 
 | Biztosításközvetítő (biztosítási többes ügynök, biztosítási alkusz) | BK |
 
-|  | Pénztári piac |  |
+|  | Pénztári piac |
 
 | Magánnyugdíjpénztár | MP |
 
@@ -78,27 +78,55 @@ II. Az összefoglaló táblában előforduló rövidítések tartalma
 
 | Önkéntes kölcsönös önsegélyező pénztár | SP |
 
+| Egészség- és önsegélyező pénztár | ESP |
+
 | Önkéntes nyugdíjpénztár | OP |
 
 | Foglalkoztatói nyugdíjszolgáltató intézmény | FNYSZI |
 
-III. A speciális törzsadatok bejelentésére szolgáló egyes adatkörök
+2.2. Gyakoriság
 
-1. HPTPK Pénzügyi közvetítők bejelentése (HIT, HITF, PV, PVF)
+| ENV (Engedélyezési eljárás és azt követő változásbejelentés) | Pénzpiac | E, HIT, HITF, PI, PV, PVF |
 
-HPTPK Pénzügyi közvetítők adatai
+| Biztosítási piac | BIZ, BK, NAGYEGY, KISEGY, KB |
 
-HPTPK1xxxx1 Pénzügyi közvetítő kapcsolódása a közvetítői lánchoz
+| Tőkepiac | Á, BAK, BAKF, BV, BVF, T |
+
+| Pénztári piac | MP, EP, ESP, SP, OP, FNYSZI |
+
+| V (Változás esetén) | Pénzpiac | EF, PIF, U |
+
+| Tőkepiac | BV, BAK, BVF, BAKF, KSZF, KÉ |
+
+| Biztosítási piac | BIZ, BK, NAGYEGY, KISEGY, BIZF, KB |
+
+| Pénztári piac | MP, EP, SP, OP, FNYSZI |
+
+| FÉ (Féléves) | Pénzpiac | E, EF, HIT, HITF, PI, PIF, PV, PVF, PEKMI |
+
+| Tőkepiac | BAK, BAKF, BV, BVF, KSZF |
+
+| Biztosítási piac | BIZ, NAGYEGY, KISEGY, KB |
+
+| Pénztári piac | MP, EP, SP, OP, FNYSZI |
+
+3. A speciális törzsadatok bejelentésére szolgáló egyes adatkörök
+
+3.1. HPTPK Pénzpiaci közvetítők bejelentése (HIT, HITF, PV, PVF)
+
+HPTPK Pénzpiaci közvetítők adatai
+
+HPTPK1xxxx1 Pénzpiaci közvetítő kapcsolódása a közvetítői lánchoz
 
 HPTPK1xxxx11 Megbízó pénzügyi intézmény neve
 
 HPTPK1xxxx12 Megbízó pénzügyi intézmény törzsszáma
 
-HPTPK1xxxx2 Pénzügyi közvetítő adatai (Megbízó alatt első szinten álló szereplő)
+HPTPK1xxxx2 Pénzpiaci közvetítő adatai [Megbízó alatt első szinten álló szereplő, két- és háromelemű lánc esetén közvetítő, pénzügyi intézményi közvetítőt tartalmazó három- vagy négyelemű lánc esetén pénzügyi intézményi közvetítő (pénzügyi intézmény/biztosító)]
 
-HPTPK1xxxx21 Közvetítő neve
+HPTPK1xxxx21 Közvetítő/pénzügyi intézményi közvetítő neve
 
-HPTPK1xxxx22 Közvetítő törzsszáma
+HPTPK1xxxx22 Közvetítő/pénzügyi intézményi közvetítő törzsszáma
 
 HPTPK1xxxx23 Székhelye
 
@@ -112,39 +140,83 @@ HPTPK1xxxx234 Ország
 
 HPTPK1xxxx24 Tevékenység végzésére szolgáló fiókok, telephelyek száma (db)
 
-HPTPK1xxxx251 Pénzügyi szolgáltatási tevékenység kezdete (éééé.hh.nn)
+HPTPK1xxxx251 Pénzügyi szolgáltatási tevékenység kezdete (ééééhhnn)
 
-HPTPK1xxxx252 Pénzügyi szolgáltatási tevékenység vége (éééé.hh.nn)
+HPTPK1xxxx252 Pénzügyi szolgáltatási tevékenység vége (ééééhhnn)
 
 HPTPK1xxxx261 Közvetítő típusa
 
 HPTPK1xxxx262 Közvetítő státusza
 
-HPTPK1xxxx263 Közvetítő (függő ügynök vagy többes ügynök)
+HPTPK1xxxx263 Közvetített szolgáltatás típusa [pénzpiaci függő ügynök, jelzáloghitel közvetítő függő ügynök, illetve pénzpiaci többes ügynök, pénzpiaci többes ügynök (áruhiteles) által közvetített szolgáltatások]
 
-HPTPK1xxxx2631 Hpt. 6. § (1) bek. 120. pont a) alpont
+HPTPK1xxxx2631 Fogyasztónak nyújtott a) versengő szolgáltatás (jelzáloghitel)
 
-HPTPK1xxxx2632 Hpt. 6. § (1) bek. 120. pont b) alpont
+HPTPK1xxxx26311 Érvényesség kezdete (ééééhhnn)
 
-HPTPK1xxxx2633 Hpt. 6. § (1) bek. 120. pont c) alpont
+HPTPK1xxxx26312 Érvényesség vége (ééééhhnn)
 
-HPTPK1xxxx2634 Behajtás, követeléskezelés
+HPTPK1xxxx2632 Nem fogyasztónak nyújtott a) versengő szolgáltatás
 
-HPTPK1xxxx2635 Egyéb tevékenység
+HPTPK1xxxx26321 Érvényesség kezdete (ééééhhnn)
 
-HPTPK1xxxx264 Vezető állású személyek száma (db) (Csak független közvetítők esetén töltendő)
+HPTPK1xxxx26322 Érvényesség vége (ééééhhnn)
 
-HPTPK1xxxx271 Többes ügynök vagy többes kiemelt közvetítő tevékenységéhez kiadott engedély adatai
+HPTPK1xxxx2633 Fogyasztónak nyújtott b) versengő szolgáltatás (jelzáloghitel)
+
+HPTPK1xxxx26331 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx26332 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx2634 Nem fogyasztónak nyújtott b) versengő szolgáltatás
+
+HPTPK1xxxx26341 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx26342 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx2635 Ingatlanon alapított jelzálogjog fedezete nélkül kínált hitel és pénzkölcsön, ideértve a fizetési számlához (bankszámlához) kapcsolódó hitelkeretet és a hitelkártyát is
+
+HPTPK1xxxx26351 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx26352 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx2636 Áruhitel
+
+HPTPK1xxxx26361 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx26362 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx2637 Betét és fizetési számla (bankszámla)
+
+HPTPK1xxxx26371 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx26372 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx2638 Behajtás, követeléskezelés
+
+HPTPK1xxxx26381 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx26382 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx2639 Egyéb tevékenység
+
+HPTPK1xxxx26391 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx26392 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx264 Vezető állású személyek száma (db, részletezve a PKVEZ táblában) (Csak független közvetítők és jelzáloghitel közvetítő függő közvetítők esetén töltendő ki.)
+
+HPTPK1xxxx271 Pénzpiaci többes ügynök, pénzpiaci többes ügynök (áruhiteles), pénzpiaci többes kiemelt közvetítő, jelzáloghitel közvetítő függő ügynök, illetve jelzáloghitel közvetítő kiemelt közvetítő tevékenységéhez kiadott engedély adatai
 
 HPTPK1xxxx2711 Határozat száma
 
-HPTPK1xxxx2712 Engedély kelte (éééé.hh.nn)
+HPTPK1xxxx2712 Engedély kelte (ééééhhnn)
 
-HPTPK1xxxx3 Pénzügyi közvetítő adatai (Megbízó alatt második szinten álló szereplő)
+HPTPK1xxxx3 Pénzügyi közvetítő adatai (Megbízó alatt második szinten álló szereplő – háromelemű lánc esetén közvetítői alvállalkozó, pénzügyi intézményi közvetítőt tartalmazó három- vagy négyelemű lánc esetén közvetítő)
 
-HPTPK1xxxx31 Közvetítő neve
+HPTPK1xxxx31 Közvetítő/Pénzpiaci közvetítői alvállalkozó neve
 
-HPTPK1xxxx32 Közvetítő törzsszáma
+HPTPK1xxxx32 Közvetítő/Pénzpiaci közvetítői alvállalkozó törzsszáma
 
 HPTPK1xxxx33 Székhelye
 
@@ -158,39 +230,83 @@ HPTPK1xxxx334 Ország
 
 HPTPK1xxxx34 Tevékenység végzésére szolgáló fiókok, telephelyek száma (db)
 
-HPTPK1xxxx351 Pénzügyi szolgáltatási tevékenység kezdete (éééé.hh.nn)
+HPTPK1xxxx351 Pénzügyi szolgáltatási tevékenység kezdete (ééééhhnn)
 
-HPTPK1xxxx352 Pénzügyi szolgáltatási tevékenység vége (éééé.hh.nn)
+HPTPK1xxxx352 Pénzügyi szolgáltatási tevékenység vége (ééééhhnn)
 
-HPTPK1000361 Közvetítő típusa
+HPTPK1xxxx361 Közvetítő típusa
 
-HPTPK1000362 Közvetítő státusza
+HPTPK1xxxx362 Közvetítő státusza
 
-HPTPK1000363 Közvetítő (függő ügynök vagy többes ügynök) által végzett tevékenység(ek)
+HPTPK1xxxx363 Közvetített szolgáltatás típusa [pénzpiaci függő ügynök, jelzáloghitel közvetítő függő ügynök, illetve pénzpiaci többes ügynök, pénzpiaci többes ügynök (áruhiteles) által közvetített szolgáltatások]
 
-HPTPK10003631 Hpt. 6. § (1) bek. 120. pont a) alpont
+HPTPK1xxxx3631 Fogyasztónak nyújtott a) versengő szolgáltatás (jelzáloghitel)
 
-HPTPK10003632 Hpt. 6. § (1) bek. 120. pont b) alpont
+HPTPK1xxxx36311 Érvényesség kezdete (ééééhhnn)
 
-HPTPK10003633 Hpt. 6. § (1) bek. 120. pont c) alpont
+HPTPK1xxxx36312 Érvényesség vége (ééééhhnn)
 
-HPTPK10003634 Behajtás, követeléskezelés
+HPTPK1xxxx3632 Nem fogyasztónak nyújtott a) versengő szolgáltatás
 
-HPTPK10003635 Egyéb tevékenység
+HPTPK1xxxx36321 Érvényesség kezdete (ééééhhnn)
 
-HPTPK364 Vezető állású személyek száma (db) (Csak független közvetítők esetén töltendő.)
+HPTPK1xxxx36322 Érvényesség vége (ééééhhnn)
 
-HPTPK371 Többes ügynök vagy többes kiemelt közvetítő tevékenységéhez kiadott engedély adatai
+HPTPK1xxxx3633 Fogyasztónak nyújtott b) versengő szolgáltatás (jelzáloghitel)
+
+HPTPK1xxxx36331 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx36332 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx3634 Nem fogyasztónak nyújtott b) versengő szolgáltatás
+
+HPTPK1xxxx36341 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx36342 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx3635 Ingatlanon alapított jelzálogjog fedezete nélkül kínált hitel és pénzkölcsön, ideértve a fizetési számlához (bankszámlához) kapcsolódó hitelkeretet és a hitelkártyát is
+
+HPTPK1xxxx36351 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx36352 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx3636 Áruhitel
+
+HPTPK1xxxx36361 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx36362 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx3637 Betét és fizetési számla (bankszámla)
+
+HPTPK1xxxx36371 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx36372 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx3638 Behajtás, követeléskezelés
+
+HPTPK1xxxx36381 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx36382 Érvényesség vége (ééééhhnn)
+
+HPTPK1xxxx3639 Egyéb tevékenység
+
+HPTPK1xxxx36391 Érvényesség kezdete (ééééhhnn)
+
+HPTPK1xxxx36392 Érvényesség vége (ééééhhnn)
+
+HPTPK364 Vezető állású személyek száma (db, részletezve a PKVEZ táblában) (Csak független közvetítők és jelzáloghitel közvetítő függő közvetítők esetén töltendő ki.)
+
+HPTPK371 Pénzpiaci többes ügynök, pénzpiaci többes ügynök (áruhiteles), pénzpiaci többes kiemelt közvetítő, jelzáloghitel közvetítő függő ügynök, illetve jelzáloghitel közvetítő kiemelt közvetítő tevékenységéhez kiadott engedély adatai
 
 HPTPK3711 Határozat száma
 
-HPTPK3712 Engedély kelte (éééé.hh.nn)
+HPTPK3712 Engedély kelte (ééééhhnn)
 
-HPTPK1xxxx4 Pénzügyi közvetítő adatai (Megbízó alatt harmadik szinten álló szereplő)
+HPTPK1xxxx4 Pénzügyi közvetítő adatai (Megbízó alatt harmadik szinten álló szereplő, pénzügyi intézményi közvetítőt tartalmazó négyelemű lánc esetén a pénzpiaci közvetítői alvállalkozó)
 
-HPTPK1xxxx41 Közvetítő neve
+HPTPK1xxxx41 Közvetítői alvállalkozó neve
 
-HPTPK1xxxx42 Közvetítő törzsszáma
+HPTPK1xxxx42 Közvetítői alvállalkozó törzsszáma
 
 HPTPK1xxxx43 Székhelye
 
@@ -204,9 +320,9 @@ HPTPK1xxxx434 Ország
 
 HPTPK1xxxx44 Tevékenység végzésére szolgáló fiókok, telephelyek száma (db)
 
-HPTPK1xxxx451 Pénzügyi szolgáltatási tevékenység kezdete (éééé.hh.nn)
+HPTPK1xxxx451 Pénzügyi szolgáltatási tevékenység kezdete (ééééhhnn)
 
-HPTPK1xxxx452 Pénzügyi szolgáltatási tevékenység vége (éééé.hh.nn)
+HPTPK1xxxx452 Pénzügyi szolgáltatási tevékenység vége (ééééhhnn)
 
 HPTPK1xxxx461 Közvetítő típusa
 
@@ -220,17 +336,17 @@ PKTEV1xxxx2 Törzsszáma
 
 PKTEV1xxxx31 Irányítószám
 
-PKTEV1xxxx32 Város
+PKTEV1xxxx32 Város/Község
 
-PKTEV1xxxx33 Utca, házszám, emelet, ajtó
+PKTEV1xxxx33 Közterület neve, jellege, házszám, emelet, ajtó
 
 PKTEV1xxxx34 Ország
 
-PKTEV1xxxx41 Tevékenység hely működés kezdete (éééé.hh.nn)
+PKTEV1xxxx41 Tevékenység hely működés kezdete (ééééhhnn)
 
-PKTEV1xxxx42 Tevékenység hely működés vége (éééé.hh.nn)
+PKTEV1xxxx42 Tevékenység hely működés vége (ééééhhnn)
 
-PKVEZ Független közvetítők vezető állású személyei
+PKVEZ Független közvetítők, jelzáloghitel közvetítő függő közvetítők vezető állású személyei
 
 PKVEZ1xxxx1 Közvetítő neve
 
@@ -242,25 +358,25 @@ PKVEZ1xxxx302 Anyja neve
 
 PKVEZ1xxxx303 Születési helye
 
-PKVEZ1xxxx304 Születési ideje (éééé.hh.nn)
+PKVEZ1xxxx304 Születési ideje (ééééhhnn)
 
 PKVEZ1xxxx305 Vezető beosztásúnak minősülő tisztség megnevezése
 
-PKVEZ1xxxx3051 Tisztség betöltésének kezdete (éééé.hh.nn)
+PKVEZ1xxxx3051 Tisztség betöltésének kezdete (ééééhhnn)
 
-PKVEZ1xxxx3052 Tisztség betöltésének vége (éééé.hh.nn)
+PKVEZ1xxxx3052 Tisztség betöltésének vége (ééééhhnn)
 
-2. KTAPK Pénzpiaci alkuszok alvállalkozóinak bejelentése
+3.2. KTAPK Pénzpiaci alkuszok alvállalkozóinak bejelentése
 
-KTAPK1 Pénzügyi közvetítők adatai
+KTAPK1 Pénzpiaci közvetítők adatai
 
-KTAPK101 Pénzügyi közvetítő kapcsolódása a közvetítői lánchoz
+KTAPK101 Pénzpiaci közvetítő kapcsolódása a közvetítői lánchoz
 
 KTAPK102 Alkusz neve
 
 KTAPK103 Alkusz törzsszáma
 
-KTAPK104 Pénzügyi közvetítő adatai (Alkusz alatt álló szereplő)
+KTAPK104 Pénzpiaci közvetítő adatai (Alkusz alatt álló szereplő)
 
 KTAPK105 Közvetítő neve
 
@@ -270,9 +386,9 @@ KTAPK107 Székhelye
 
 KTAPK108 Tevékenység végzésére szolgáló fiókok, telephelyek száma (db)
 
-KTAPK109 Pénzügyi szolgáltatási tevékenység kezdete (éééé.hh.nn)
+KTAPK109 Pénzpiaci szolgáltatási tevékenység kezdete (ééééhhnn)
 
-KTAPK110 Pénzügyi szolgáltatási tevékenység vége (éééé.hh.nn)
+KTAPK110 Pénzpiaci szolgáltatási tevékenység vége (ééééhhnn)
 
 KTAPK111 Közvetítő típusa
 
@@ -286,11 +402,11 @@ KTAPK202 Törzsszáma
 
 KTAPK203 Tevékenység helye
 
-KTAPK204 Tevékenység hely működés kezdete (éééé.hh.nn)
+KTAPK204 Tevékenység hely működés kezdete (ééééhhnn)
 
-KTAPK205 Tevékenység hely működés vége (éééé.hh.nn)
+KTAPK205 Tevékenység hely működés vége (ééééhhnn)
 
-3. KTBIZ Biztosítók speciális adatai
+3.3. KTBIZ Biztosítók speciális adatai
 
 KTBIZ101 Számlavezető intézmény neve
 
@@ -300,11 +416,19 @@ KTBIZ103 Számlanyitás dátuma
 
 KTBIZ104 Számla megszüntetésének dátuma
 
-4. KTBI Biztosító egyesületek speciális törzsadatai
+KTBIZ105 Letétkezelő intézmény neve
+
+KTBIZ106 Befektetési számla száma
+
+KTBIZ107 Számlanyitás dátuma
+
+KTBIZ108 Számla megszüntetésének dátuma
+
+3.4. KTBI Biztosító egyesületek speciális törzsadatai
 
 KTBI101 Éves átlagos taglétszám
 
-5. KTBK Biztosítási többes ügynökök és biztosítási alkuszok (Biztosításközvetítők) speciális törzsadatai
+3.5. KTBK Biztosításközvetítők speciális törzsadatai
 
 KTBK1 Intézményi alapadatok
 
@@ -332,11 +456,11 @@ KTBK205 Tulajdonszerzés időpontja
 
 KTBK206 Tulajdon megszűnésének időpontja
 
-KTBK207 Tulajdoni rész%
+KTBK207 Tulajdoni rész (%)
 
-KTBK208 Tulajdoni rész Ft
+KTBK208 Tulajdoni rész (Ft)
 
-6. KTPT Pénztárak speciális törzsadatai
+3.6. KTPT Pénztárak speciális törzsadatai
 
 KTPT1 Intézményi alapadatok
 
@@ -460,7 +584,7 @@ KTPT445 Érvényesség kezdete
 
 KTPT446 Érvényesség vége
 
-7. KTFNY Foglalkoztatói nyugdíjszolgáltató intézmények speciális törzsadatai
+3.7. KTFNY Foglalkoztatói nyugdíjszolgáltató intézmények speciális törzsadatai
 
 KTFNY1 Intézményi alapadatok
 
@@ -476,11 +600,11 @@ KTFNY105 Törzsszám
 
 KTFNY106 Pénzforgalmi számla száma
 
-KTFNY107 Számlanyitás dátuma (éééé.hh.nn)
+KTFNY107 Számlanyitás dátuma (ééééhhnn)
 
-KTFNY108 Számla megszüntetésének dátuma (éééé.hh.nn)
+KTFNY108 Számla megszüntetésének dátuma (ééééhhnn)
 
-KTFNY2 Jogutódlás adatok (átalakulás, egyesülés, szétválás esetén töltendő)
+KTFNY2 Jogutódlás adatok (átalakulás, egyesülés, szétválás esetén töltendő ki)
 
 KTFNY201 Bejelentő intézmény neve
 
@@ -522,17 +646,17 @@ KTFNY307 Tevékenység megkezdésének időpontja
 
 KTFNY308 Tevékenység befejezésének időpontja
 
-8. KTBV Befektetési vállalkozások és befektetési vállalkozás fióktelepe speciális törzsadatai
+3.8. KTBV Befektetési vállalkozások és befektetési vállalkozás fióktelepe speciális törzsadatai
 
 KTBV101 KELER kód
 
 KTBV102 KELER kód 2
 
-KTBV103 BEVA tagság kezdete (éééé.hh.nn) (BV esetén töltendő ki)
+KTBV103 BEVA tagság kezdete (ééééhhnn) (BV esetén töltendő ki)
 
 KTBV104 Intézmény típus (csak BVF esetén töltendő ki)
 
-9. KTHPV Hitelintézetek, hitelintézeti fióktelepek, pénzügyi vállalkozások, pénzügyi vállalkozás fióktelepe speciális törzsadatai
+3.9. KTHPV Hitelintézetek, hitelintézeti fióktelepek, pénzügyi vállalkozások, pénzügyi vállalkozás fióktelepe speciális törzsadatai
 
 KTHPV1 Telephelyek száma
 
@@ -548,13 +672,13 @@ KTHPV105 Külföld
 
 KTHPV2 Szervezeti tagság kezdete (csak HIT esetén töltendő ki)
 
-KTHPV201 OBA (éééé.hh.nn)
+KTHPV201 OBA (ééééhhnn)
 
-KTHPV202 Bankszövetség (éééé.hh.nn.)
+KTHPV202 Bankszövetség (ééééhhnn)
 
-KTHPV203 Integrációs Szervezet (éééé.hh.nn)
+KTHPV203 Integrációs Szervezet (ééééhhnn)
 
-10. KTPI Elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és pénzforgalmi intézmény fióktelepe, valamint a PEKMI speciális törzsadatai
+3.10. KTPI Elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és pénzforgalmi intézmény fióktelepe, valamint a PEKMI speciális törzsadatai
 
 KTPI1 Telephelyek száma
 
@@ -576,9 +700,9 @@ KTPI202 TEÁOR kód
 
 KTPI203 Megnevezés
 
-KTPI204 Tevékenység kezdete (éééé.hh.nn)
+KTPI204 Tevékenység kezdete (ééééhhnn)
 
-KTPI205 Tevékenység vége (éééé.hh.nn)
+KTPI205 Tevékenység vége (ééééhhnn)
 
 KTPI206 Egyéb tevékenységi kör
 
@@ -586,20 +710,22 @@ KTPI207 TEÁOR kód
 
 KTPI208 Megnevezés
 
-KTPI209 Tevékenység kezdete (éééé.hh.nn)
+KTPI209 Tevékenység kezdete (ééééhhnn)
 
-KTPI210 Tevékenység vége (éééé.hh.nn)
+KTPI210 Tevékenység vége (ééééhhnn)
 
 KTPI211 Pénzforgalmi szolgáltatás
 
-KTPI212 Megnevezés (Hpt. 6. § 87. pont a)–g) alpontjai szerinti megnevezés)
+KTPI212 Megnevezés [Hpt. 6. § 87. pont a)–g) alpontjai szerinti megnevezés]
 
-KTPI213 Pénzforgalmi szolgáltatás kezdete (éééé.hh.nn)
+KTPI213 Pénzforgalmi szolgáltatás kezdete (ééééhhnn)
 
-KTPI214 Pénzforgalmi szolgáltatás vége (éééé.hh.nn)
+KTPI214 Pénzforgalmi szolgáltatás vége (ééééhhnn)
 
 KTPI215 Elektronikus pénz kibocsátás
 
-KTPI216 Tevékenység kezdete (éééé.hh.nn)
+KTPI216 Tevékenység kezdete (ééééhhnn)
 
-KTPI217 Tevékenység vége (éééé.hh.nn)
+KTPI217 Tevékenység vége (ééééhhnn)
+
+[^12]: A 2. melléklet az 1/2017. (II. 10.) MNB rendelet 5. §-ával megállapított szöveg.
