@@ -1,3 +1,3 @@
-1. melléklet a 20/2017. (II. 2.) Korm. rendelethez[^28]
+1. melléklet a 20/2017. (II. 2.) Korm. rendelethez[^21]
 
-[^28]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
