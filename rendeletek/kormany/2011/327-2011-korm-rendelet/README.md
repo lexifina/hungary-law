@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-327-20-
 | 2016-06-09 | 2011-327-20-22.10 | 117/2016. (VI. 6.) Korm. rendelet |
 | 2017-01-01 | 2011-327-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-02-03 | 2011-327-20-22.12 | 2010: CXXX. törvény |
+| 2017-02-15 | 2011-327-20-22.13 | 20/2017. (II. 2.) Korm. rendelet |

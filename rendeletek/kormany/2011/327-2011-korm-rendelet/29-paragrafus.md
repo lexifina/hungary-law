@@ -1,4 +1,4 @@
-29. §[^119] (1) Az általános hatáskörű nyugdíj-megállapító szerv – ha az Mmtv. 38/G. § (3) bekezdés b) és c) pontja szerinti kizáró ok nem áll fenn – 2017. január 31-éig tájékoztatja az Mmtv. 38/G. § (1) bekezdésében meghatározott feltételeknek megfelelő megállapodást kötő személyt (a továbbiakban: megállapodást kötő személy) arról, hogy
+29. §[^121] (1) Az általános hatáskörű nyugdíj-megállapító szerv – ha az Mmtv. 38/G. § (3) bekezdés b) és c) pontja szerinti kizáró ok nem áll fenn – 2017. január 31-éig tájékoztatja az Mmtv. 38/G. § (1) bekezdésében meghatározott feltételeknek megfelelő megállapodást kötő személyt (a továbbiakban: megállapodást kötő személy) arról, hogy
 
 a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 8/B. §-ában foglaltak alapján kérheti a befizetett járulék visszafizetését, vagy
 
@@ -22,4 +22,4 @@ b) a Tbj. 34. § (1) bekezdése szerinti megállapodás megkötéséről a megá
 
 tartalmazó nyilatkozat beérkezését követő 30 napon belül az általános hatáskörű nyugdíj-megállapító szerv gondoskodik.
 
-[^119]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 448/2016. (XII. 19.) Korm. rendelet 43. §-a iktatta be.
+[^121]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 448/2016. (XII. 19.) Korm. rendelet 43. §-a iktatta be.

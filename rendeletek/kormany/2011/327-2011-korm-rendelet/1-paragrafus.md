@@ -8,6 +8,8 @@ b) másodfokon eljáró rehabilitációs hatóságként, rehabilitációs szaké
 
 ## jelöli ki.
 
+(1a)[^2] Az (1) bekezdésben foglaltaktól eltérően a Kormány a Csongrád Megyei Kormányhivatal illetékességi területén a 16. § szerinti együttműködési kötelezettség teljesítésével, a rehabilitációs tervvel kapcsolatos feladatok ellátására, a 19. § (4) és (5) bekezdése szerinti foglalkozási rehabilitációs szolgáltatások biztosítására, valamint a 21. § szerinti feladatok ellátásra a Csongrád Megyei Kormányhivatal megyeszékhely szerinti járási hivatalát és a Hódmezővásárhelyi Járási Hivatalát jelöli ki.
+
 (2) A Kormány a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 21. § (2) bekezdésében meghatározottak tekintetében rehabilitációs hatóságként – az (1) bekezdésben foglaltakon túlmenően – a központi nyugdíjbiztosítási szervet is kijelöli. Az állami adóhatóság az Mmtv. 21. § (2) bekezdése és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, az állami foglalkoztatási szerv és a munkaügyi hatóság részére az állami adóhatóság által teljesített adatátadás részletes szabályairól szóló 424/2012. (XII. 29.) Korm. rendelet 2/A. §-a szerinti adattovábbítási kötelezettségét a központi nyugdíjbiztosítási szerv felé teljesíti.
 
 (3) A Kormány a megváltozott munkaképességű személyek pénzbeli ellátásának folyósításával kapcsolatos feladatok ellátására a nyugdíjfolyósító szervet jelöli ki.
@@ -55,3 +57,4 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 (14) A Szociális és Gyermekvédelmi Főigazgatóság közreműködik azon eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésében, amelyek segítik a rehabilitációs hatósági és szolgáltató tevékenységet, valamint hatékonysági vizsgálatokat folytat, prognózisokat, elemzéseket készít, továbbá orvos-szakmai módszertani feladatellátáshoz kapcsolódó képességvizsgálatokat végez. E feladatai ellátásával összefüggésben a Szociális és Gyermekvédelmi Főigazgatóság a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszerben kezelt adatokat statisztikai célra – személyazonosításra alkalmatlan módon – felhasználhatja.
 
 [^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
