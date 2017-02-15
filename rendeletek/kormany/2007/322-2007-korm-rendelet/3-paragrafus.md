@@ -2,7 +2,7 @@
 
 (2)[^8] A jogszabályban foglalt gazdálkodási követelmények végrehajtását a kölcsönös megfeleltetés szempontjából ellenőrző szerveket az 1. melléklet tartalmazza.
 
-(2a)[^9] A kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó elsőfokú eljárásban a döntéshozatalra a Magyar Államkincstár, a megyei kormányhivatal megyeszékhely szerinti járási hivatala, valamint a fővárosi, illetve megyei katasztrófavédelmi igazgatóság jogosult, az 1. mellékletben foglaltak szerint.
+(2a)[^9] A kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó elsőfokú eljárásban a döntéshozatalra a Magyar Államkincstár, a megyei kormányhivatal megyeszékhely szerinti járási hivatala, Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala, Tolna megye illetékességi területére kiterjedően a Tolna Megyei Kormányhivatal Bonyhádi Járási Hivatala, valamint a fővárosi, illetve megyei katasztrófavédelmi igazgatóság jogosult, az 1. mellékletben foglaltak szerint.
 
 (2b)[^10] A (2a) bekezdés szerinti eljárásban másodfokú hatóságként – a (2c) és (2d) bekezdésben foglaltak kivétellel – a Pest Megyei Kormányhivatal országos illetékességgel jár el.
 
@@ -20,7 +20,7 @@
 
 [^7]: A 3. § (1) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^8]: A 3. § (2) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított, a 94/2015. (IV. 9.) Korm. rendelet 6. § a)–b) pontja szerint módosított szöveg.
-[^9]: A 3. § (2a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^9]: A 3. § (2a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 20/2017. (II. 2.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. § (4) bekezdését.
 [^10]: A 3. § (2b) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^11]: A 3. § (2c) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^12]: A 3. § (2d) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
