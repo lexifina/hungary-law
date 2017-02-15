@@ -2,7 +2,7 @@
 
 ## 5. Az élelmiszerlánc-felügyeleti szerv kijelölése
 
-## 13. §[^3] A Kormány élelmiszerlánc-felügyeleti szervként
+## 13. §[^6] A Kormány élelmiszerlánc-felügyeleti szervként
 
 a) a minisztert,
 
@@ -20,4 +20,4 @@ g) a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségüg
 
 h) a jegyzőt
 
-[^3]: A 13. § a 20/2017. (II. 2.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^6]: A 13. § a 20/2017. (II. 2.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

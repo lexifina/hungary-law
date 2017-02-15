@@ -4,7 +4,7 @@
 
 2. a számítógépes ingatlan-nyilvántartási rendszer kezelése, működtetése,
 
-3.[^9] a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételéhez szükséges, az ingatlan-nyilvántartásról szóló törvény szerinti hozzáférési jogosultság megadása, visszavonása vagy felfüggesztése tárgyában történő határozat meghozatala, valamint a hozzáférés biztosítása,
+3.[^12] a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételéhez szükséges, az ingatlan-nyilvántartásról szóló törvény szerinti hozzáférési jogosultság megadása, visszavonása vagy felfüggesztése tárgyában történő határozat meghozatala, valamint a hozzáférés biztosítása,
 
 4. a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevők adatlekérdezései jogszerűségének és a biztonsági előírások betartásának ellenőrzése,
 
@@ -38,9 +38,9 @@
 
 19. a hatáskörébe utalt földmérési és térképészeti szakfelügyeleti tevékenység,
 
-20.[^10] az ingatlan-nyilvántartásról szóló törvény szerinti, a magyarországi ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása.
+20.[^13] az ingatlan-nyilvántartásról szóló törvény szerinti, a magyarországi ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása.
 
 (2) A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 34. § (1) bekezdésében foglaltak tekintetében ingatlanügyi hatóság a földmérési és térinformatikai államigazgatási szerv, a földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal és a földügyi igazgatási feladatkörében eljáró járási (fővárosi kerületi) hivatal.
 
-[^9]: A 38. § (1) bekezdés 3. pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
-[^10]: A 38. § (1) bekezdés 20. pontját a 473/2016. (XII. 27.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^12]: A 38. § (1) bekezdés 3. pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^13]: A 38. § (1) bekezdés 20. pontját a 473/2016. (XII. 27.) Korm. rendelet 23. § (4) bekezdése iktatta be.

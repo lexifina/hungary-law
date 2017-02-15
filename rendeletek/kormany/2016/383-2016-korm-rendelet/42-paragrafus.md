@@ -34,7 +34,7 @@ e) a Bit. 138. § (1) bekezdés t) pontjában és 145. § (1) bekezdés h) pontj
 
 ## foglaltak tekintetében.
 
-(5)[^12] A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró járási hivatalt, a főváros területére kiterjedően az Érdi Járási Hivatalt jelöli ki
+(5)[^15] A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró járási hivatalt, a főváros területére kiterjedően az Érdi Járási Hivatalt jelöli ki
 
 a) a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 17. § (1) bekezdésében, 21. §-ában, 22. § (2) bekezdésében foglaltak, valamint
 
@@ -44,4 +44,4 @@ tekintetében.
 
 (6) A Kormány mezőgazdasági igazgatási szervként a Tfvt. 5. § (6) bekezdése és a 61. § (1) bekezdése tekintetében a Magyar Államkincstárt jelöli ki.
 
-[^12]: A 42. § (5) bekezdése a 20/2017. (II. 2.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^15]: A 42. § (5) bekezdése a 20/2017. (II. 2.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.

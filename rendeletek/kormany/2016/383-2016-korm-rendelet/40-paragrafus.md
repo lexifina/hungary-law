@@ -20,6 +20,6 @@ i) elvégzi az állami ingatlan-nyilvántartási térképi adatbázis állami al
 
 j) megindítja a bírságolási eljárást az állami alapadatbázisok jogosulatlan felhasználójával, valamint a jogosulatlan földmérési munkavégzővel szemben.
 
-(2)[^11]
+(2)[^14]
 
-[^11]: A 40. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 23. § (6) bekezdése alapján nem lép hatályba.
+[^14]: A 40. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 23. § (6) bekezdése alapján nem lép hatályba.

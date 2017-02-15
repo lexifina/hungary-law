@@ -1,3 +1,5 @@
+## Tolna megyében a Tolna Megyei Kormányhivatal Bonyhádi Járási Hivatalát jelöli ki.
+
 ## IV. Fejezet
 
 ## KIJELÖLŐ RENDELKEZÉSEK

@@ -2,7 +2,7 @@
 
 a) 4. §-ában, 23/A. §-ban, 28. § l) pontjában, 29. § c) pontjában, 30. § (2) bekezdésében, 33. § d) pontjában, 38/A. § (2) bekezdés d) pontjában, 39. § (1) és (3) bekezdésében, 44. § (1)–(6) bekezdésében, 56. §-ában, 57. §-ában, 59. § (6) bekezdésében, 63. § (1) bekezdés a)–d) pontjában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, a növény- és talajvédelmi hatáskörben eljáró járási hivatal, valamint a Pest Megyei Kormányhivatal,
 
-b)[^4] 34. § (3) bekezdés a) pontjában a járványügyi intézkedések elrendelése tekintetében, 58. §-ában, 61. §-ában, 62. §-ában foglaltak tekintetében a NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal,
+b)[^7] 34. § (3) bekezdés a) pontjában a járványügyi intézkedések elrendelése tekintetében, 58. §-ában, 61. §-ában, 62. §-ában foglaltak tekintetében a NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal,
 
 c) 60. §-ában foglaltak tekintetében a NÉBIH, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal és a Pest Megyei Kormányhivatal
 
@@ -22,7 +22,7 @@ d) 32. § (1) bekezdés a), b), e)–g), i)–m), s) pontjában, 38. § (1) beke
 
 (3) Az Éltv.
 
-a)[^5] 8. § (2) bekezdésében, 18. § (1) bekezdés g) pontjában, 19. § (4) bekezdésében, 26. § (1) bekezdés c) és d) pontjában, 32. § (2) bekezdés a) pontjában, 33. § c) pontjában, 34. § (2) bekezdés b)–l) pontjában, (3) bekezdés b)–c) pontjában, (4) bekezdés b), f)–g) pontjában, az ellenőrzés tekintetében h) pontjában, valamint i) pontjában, 35. § (3) bekezdésében, (4) bekezdés b) és c) pontjában, 36. § (3) bekezdésében, 51. § (3) bekezdés a)–d) és g)–t) pontjában, valamint 72. §-ában foglaltak tekintetében a NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben,
+a)[^8] 8. § (2) bekezdésében, 18. § (1) bekezdés g) pontjában, 19. § (4) bekezdésében, 26. § (1) bekezdés c) és d) pontjában, 32. § (2) bekezdés a) pontjában, 33. § c) pontjában, 34. § (2) bekezdés b)–l) pontjában, (3) bekezdés b)–c) pontjában, (4) bekezdés b), f)–g) pontjában, az ellenőrzés tekintetében h) pontjában, valamint i) pontjában, 35. § (3) bekezdésében, (4) bekezdés b) és c) pontjában, 36. § (3) bekezdésében, 51. § (3) bekezdés a)–d) és g)–t) pontjában, valamint 72. §-ában foglaltak tekintetében a NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben,
 
 b) 16. § (2) bekezdésében, 25. § (4) és (5) bekezdésében, 33. § b) pontjában, 38/C. § (1) bekezdésében, 53. § (3) és (4) bekezdésében foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben, valamint növény- és talajvédelmi hatáskörben,
 
@@ -42,12 +42,12 @@ b) a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói te
 
 (6) Az állami védekezés elrendelésére a növény- és talajvédelmi hatáskörben eljáró járási hivatal a NÉBIH előzetes tájékoztatásával jogosult.
 
-(7)[^6] Az Éltv.
+(7)[^9] Az Éltv.
 
 a) 34. § (3) bekezdés a) pontjában a közcélú igénybevétel,
 
 b) 51. § (3) bekezdés e), f) és u) pontjában foglaltak
 
-[^4]: A 18. § (1) bekezdés b) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^5]: A 18. § (3) bekezdés a) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés b) pontja szerint módosított szöveg.
-[^6]: A 18. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (3) bekezdése iktatta be.
+[^7]: A 18. § (1) bekezdés b) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 18. § (3) bekezdés a) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 18. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (3) bekezdése iktatta be.
