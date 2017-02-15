@@ -14,7 +14,7 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (5)[^11] A megyei kormányhivatal megyeszékhely szerinti járási hivatala látja el a kölcsönös megfeleltetéssel összefüggő ellenőrzési feladatokat.
 
-(5a)[^12] A Kormány az (5) bekezdésben foglalt rendelkezéstől eltérően a kölcsönös megfeleltetéssel összefüggő helyszíni ellenőrzési feladatok ellátására Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki.
+(5a)[^12]
 
 (6)[^13] A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Jelnyelvi Tolmácsok Országos Névjegyzékének vezetésével és a Névjegyzéken szereplő jelnyelvi tolmácsok továbbképzésével összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
 
@@ -30,54 +30,14 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (12)[^19] A Kormány a 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendeletben és a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendeletben meghatározott irányító hatóságok egyes szakértőt igénylő feladatainak átmeneti ellátására – indokolt esetben – a fővárosi és megyei kormányhivatalokat jelölheti ki.
 
-(13)[^20] A Kormány a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet
+(13)–(14)[^20]
 
-a) 4. §-a szerinti agrárkár-megállapító szervként,
-
-b) 7. § c) pontja szerinti, 9. § (1) bekezdés b) és d) pontjaiban foglalt feladatok ellátásáért felelős borászati hatóságként,
-
-c) 8. § (1) bekezdése szerinti borászati hatóságként,
-
-d) 13. § e) pontja szerinti növény- és talajvédelmi hatóságként,
-
-e) 29. § d) pontja és 30. § (1) bekezdése szerinti halgazdálkodási hatóságként,
-
-f) 42. § (4) és (5) bekezdésében foglalt feladatok ellátásáért felelős mezőgazdasági igazgatási szervként,
-
-g) 44. § (3) bekezdésében foglalt feladatok ellátásért felelős szervként,
-
-h) 48. § a) pontjában, b) pont bb) alpontjában, valamint c) és d) pontjában foglalt feladatok ellátásáért felelős növénytermesztési és borászati hatóságként,
-
-i) 50. §-ában foglalt feladatok ellátásáért felelős pálinkaellenőrző hatóságként,
-
-j) 51. § b) pontjában foglalt feladatok ellátásáért felelős szolgáltatás felügyeletet ellátó hatóságként,
-
-k) 52. § (1) és (3) bekezdésében foglalt feladatok ellátásért felelős talajvédelmi hatóságként,
-
-l) 54. §-ban foglalt feladatok ellátásáért felelős telepítési hatóságként,
-
-m) 55. § d) pontja szerinti tenyésztési hatóságként,
-
-n) 57. § a), c), f), g), j) és k) pontjában foglalt feladatok ellátásáért felelős tenyésztési hatóságként,
-
-o) 59. § d) pontja és 60. § (1) bekezdése szerinti vadászati hatóságként
-
-## Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki.
-
-(14)[^21] A Kormány az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet
-
-a) 1. § c) pontja szerinti egészségbiztosítási pénztári feladatkörében eljáró szervként,
-
-b) 7. § (5) bekezdés a), d), f) és j) pontjaiban foglalt feladatok ellátásáért felelős egészségbiztosítási szervként
-
-## Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki.
-
-(15)[^22] A (4) bekezdésben meghatározott feladatokat Csongrád megye tekintetében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala látja el. Ha jogszabály e feladatok tekintetében megyei kormányhivatalt említ, azon a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát is érteni kell.
+(15)[^21] A (4) bekezdésben meghatározott feladatokat Csongrád megye tekintetében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala látja el. Ha jogszabály e feladatok tekintetében megyei kormányhivatalt említ, azon a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát is érteni kell.
 
 [^9]: A 14. alcím címe a 473/2016. (XII. 27.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^10]: A 25. § (4) bekezdését a 328/2016. (X. 28.) Korm. rendelet 23. § (2) bekezdése iktatta be.
 [^11]: A 25. § (5) bekezdését a 328/2016. (X. 28.) Korm. rendelet 23. § (2) bekezdése iktatta be.
-[^12]: A 25. § (5a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^12]: A 25. § (5a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 20/2017. (II. 2.) Korm. rendelet 13. §-a.
 [^13]: A 25. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
 [^14]: A 25. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
 [^15]: A 25. § (8) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be, hatályon kívül helyezte a 415/2016. (XII. 14.) Korm. rendelet 7. § b) pontja.
@@ -85,6 +45,5 @@ b) 7. § (5) bekezdés a), d), f) és j) pontjaiban foglalt feladatok ellátás�
 [^17]: A 25. § (10) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
 [^18]: A 25. § (11) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
 [^19]: A 25. § (12) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 292. § (1) bekezdése iktatta be.
-[^20]: A 25. § (13) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^21]: A 25. § (14) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^22]: A 25. § (15) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^20]: A 25. § (13)–(14) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be, hatályon kívül helyezte a 20/2017. (II. 2.) Korm. rendelet 13. §-a.
+[^21]: A 25. § (15) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be.
