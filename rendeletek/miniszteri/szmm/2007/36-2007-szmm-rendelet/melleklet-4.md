@@ -12,7 +12,7 @@
 
 ## Mérőtábla
 
-| Tevékenység, funkció | Értékeljen 0–4 pont között (a pontérték a szükséges segítség mértékével emelkedik) | Intézmény- vezető | Háziorvos |
+| Tevékenység, funkció | Értékeljen 0-4 pont között (a pontérték a szükséges segítség mértékével emelkedik) | Intézmény- vezető | Háziorvos |
 
 | Térbeli-időbeni tájékozódás | 0: mindig, mindenkor térben, időben, személyeket illetően tájékozott 1: esetenként segítségre, tájékoztatásra szorul 2: részleges segítségre, tájékoztatásra szorul 3: gyakran tájékozatlan 4: térben-időben tájékozatlan |  |  |
 
@@ -24,11 +24,11 @@
 
 | Tisztálkodás (személyi higiéné biztosítása) | 0: szükségleteit felmérve önállóan végzi 1: szükségleteit felismeri, bizonyos feladatokhoz segítséget igényel 2: szükségleteit felismeri, tisztálkodni csak segítséggel tud 3: részlegesen ismeri fel szükségleteit, segítséget igényel 4: nem ismeri fel szükségleteit, tisztálkodni önállóan nem képes |  |  |
 
-| WC használat | 0: önálló WC használatban, öltözködésben, higiénés feladatait ellátja 1: önállóan használja WC-t, de öltözködésben és vagy higiénés feladatokban ellenőrizni kell 2: önállóan használja WC-t, de öltözködésben és vagy higiénés feladatokban segíteni kell 3: segítséget igényel WC használatban, öltözködésben, higiénés feladatok elvégzéséhez 4: segítséggel sem képes WC használatra, öltözködésre, higiénés feladatok elvégzésére |  |  |
+| WC használat | 0: önálló WC használatban, öltözködésben, higiénés feladatait ellátja 1: önállóan használja WC-t, de öltözködésben, illetve higiénés feladatokban ellenőrizni kell 2: önállóan használja WC-t, de öltözködésben, illetve higiénés feladatokban segíteni kell 3: segítséget igényel WC használatban, öltözködésben, higiénés feladatok elvégzéséhez 4: segítséggel sem képes WC használatra, öltözködésre, higiénés feladatok elvégzésére |  |  |
 
-| Kontinencia | 0: vizeletét, székletét tartani képes 1: önállóan pelenkát cserél, elvégzi a higiénés feladatait 2: pelenka cserében, öltözködésben és vagy higiénés feladatokban alkalmanként segítséget igényel 3: rendszeres segítséget igényel pelenka cserében, öltözködésben, higiénés feladatok elvégzésében 4: inkontinens, teljes ellátásra szorul |  |  |
+| Kontinencia | 0: vizeletét, székletét tartani képes 1: önállóan pelenkát cserél, elvégzi a higiénés feladatait 2: pelenka cserében, öltözködésben, illetve higiénés feladatokban alkalmanként segítséget igényel 3: rendszeres segítséget igényel pelenka cserében, öltözködésben, higiénés feladatok elvégzésében 4: inkontinens, teljes ellátásra szorul |  |  |
 
-| Kommunikáció Képes-e megfogalmazni, elmondani a panaszát, megérti-e amit mondanak neki | 0: kifejezőkészsége, beszédértése jó 1: kommunikációban időszakosan segítségre szorul 2: beszédértése, érthetősége megromlott 3: kommunikációra csak segédeszközzel vagy csak metakommunikációra képes 4: kommunikációra nem képes |  |  |
+| Kommunikáció Képes-e megfogalmazni, elmondani a panaszát, megérti-e, amit mondanak neki | 0: kifejezőkészsége, beszédértése jó 1: kommunikációban időszakosan segítségre szorul 2: beszédértése, érthetősége megromlott 3: kommunikációra csak segédeszközzel vagy csak metakommunikációra képes 4: kommunikációra nem képes |  |  |
 
 | Terápiakövetés Rábízható-e az előírt gyógyszerek adagolása, szedése | 0: az orvos utasításait, előírt gyógyszeres terápiát betartja 1: gyógyszerelésben segítséget igényel, utasításokat betartja 2: elrendelt terápiát tartja, segítséggel tudja tartani az utasításokat 3: elrendelt terápiát, utasításokat ellenőrzés mellett tartja 4: gyógyszer bevétele csak gondozói ellenőrzéssel |  |  |
 
@@ -42,53 +42,23 @@
 
 | Hallás | 0: jól hall, átlagos hangerő mellett 1: átlagos hangerő mellett időnkénti hallásproblémái vannak 2: hallókészülék használatára szorul 3: van hallókészüléke, de nem képes használni vagy elutasítja 4: nem hall |  |  |
 
-| Fokozat: | Intézményvezető és az orvos által adott összes pontszám |  |  |
+| Fokozat | Intézményvezető és az orvos által adott összes pontszám |  |  |
 
 ## Értékelés
 
 | Fokozat | Értékelés | Pontszám | Jellemzők |
 
-| 0. | Tevékenységeit elvégzi | 0–19 | Az egyén a vizsgált tevékenységeket el tudja végezni. A szolgáltatás a szociális és egészségi állapot szinten tartására korlátozódik. |
+| 0. | Tevékenységeit elvégzi | 0-19 | Az egyén a vizsgált tevékenységeket el tudja végezni. A szolgáltatás a szociális és egészségi állapot szinten tartására korlátozódik. |
 
-| I. | Egyes tevékenységekben segítségre szoruló | 20–34 | Az egyén egyes tevékenységekben hetente többször segítségre szorul vagy figyelmet, irányítást igényel. |
+| I. | Egyes tevékenységekben segítségre szoruló | 20-34 | Az egyén egyes tevékenységekben hetente többször segítségre szorul vagy figyelmet, irányítást igényel. |
 
-| II. | Részleges segítségre szoruló | 35–39 | Az egyén bizonyos tevékenységek elvégzésében napi rendszeres segítségre szorul vagy napi szintű kontrollt igényel. |
+| II. | Részleges segítségre szoruló | 35-39 | Az egyén bizonyos tevékenységek elvégzésében napi rendszeres segítségre szorul vagy napi szintű kontrollt igényel. |
 
-| III. | Teljes ellátásra szoruló | 40–56 | Az egyén teljes ellátásra, folyamatos gondozásra, ápolásra szorul, intenzív odafigyelést és gyakori beavatkozást igényel. |
+| III. | Teljes ellátásra szoruló | 40-56 | Az egyén teljes ellátásra, folyamatos gondozásra, ápolásra szorul, intenzív odafigyelést és gyakori beavatkozást igényel. |
 
-## Az irányadó gondozási szükséglet:
+## A gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 4. § (1) bekezdés ............... pontja/alpontja szerinti egyéb körülmények állnak fenn.
 
-## 0–19: 1 órát el nem érő
-
-## 20–24 pont: napi 1 óra
-
-## 25–30 pont: napi 2 óra
-
-## 31–34 pont: napi 3 óra
-
-## 35–39 pont: napi 4 óra
-
-## 40 ponttól: napi 4 órát meghaladó
-
-## Az igénylő napi gondozási szükséglete[^24]:
-
-## 1 órát el nem érő
-
-## 1 óra
-
-## 2 óra
-
-## 3 óra
-
-## 4 óra
-
-## 4 órát meghaladó vagy
-
-## a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 4. § (1) bekezdés ............... pontja/alpontja szerinti egyéb körülmények állnak fenn.
-
-## A vizsgálat eredménye alapján fennálló napi gondozási szükséglet szerint[^25]:
-
-## – szociális segítés
+## A vizsgálat eredménye alapján:
 
 ## – szociális segítés a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 3/A. § (1) bekezdés b) pont .........alpontja szerinti egyéb körülmény alapján
 
@@ -112,25 +82,9 @@
 
 ## Felülvizsgálat
 
-## Az igénylő napi gondozási szükséglete[^26]:
+## A gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 4. § (1) bekezdés ............... pontja/alpontja szerinti egyéb körülmények állnak fenn.
 
-## 1 órát el nem érő
-
-## 1 óra
-
-## 2 óra
-
-## 3 óra
-
-## 4 óra
-
-## 4 órát meghaladó vagy
-
-## a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 4. § (1) bekezdés ............... pontja/alpontja szerinti egyéb körülmények állnak fenn
-
-## A vizsgálat eredménye alapján fennálló napi gondozási szükséglet szerint[^27]:
-
-## – szociális segítés
+## A vizsgálat eredménye alapján:
 
 ## – szociális segítés a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 3/A. § (1) bekezdés b) pont .........alpontja szerinti egyéb körülmény alapján
 
@@ -146,14 +100,10 @@
 
 ## fenntartó képviselője
 
-## ..................................................................
+## .................................................................
 
 ## orvos
 
-4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^28]
+4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^30]
 
-[^24]: A megfelelő aláhúzandó
-[^25]: A megfelelő aláhúzandó, a szociális segítés és a személyi gondozás együttesen is jelölhető
-[^26]: A megfelelő aláhúzandó
-[^27]: A megfelelő aláhúzandó, a szociális segítés és a személyi gondozás együttesen is jelölhető
-[^28]: A 4. számú mellékletet az 55/2015. (XI. 30.) EMMI rendelet 38. §-a hatályon kívül helyezte.
+[^30]: A 4. számú mellékletet az 55/2015. (XI. 30.) EMMI rendelet 38. §-a hatályon kívül helyezte.
