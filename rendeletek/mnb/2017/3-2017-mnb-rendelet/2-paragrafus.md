@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% cink ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján, körvonal által határolt középmezőben egy XIX. századi tábori kórházi jelenet ábrázolása látható. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG” felirat, alsó köriratban a „2000” értékjelzés és a „FORINT” felirat olvasható. A felső és az alsó köriratot bal oldalon a „2017” verési évszám, jobb oldalon a „BP.” verdejel választja el egymástól. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a bal oldali mezőben Kossuth Zsuzsanna félalakos ábrázolása látható. Az ábrázolástól jobbra, négy egymás alatti sorban a „HAZÁNK”, az „ELSŐ”, a „FŐÁPOLÓJA” és az „1817–1854” felirat olvasható. Az emlékérme jobb szélén, félköriratban a „KOSSUTH ZSUZSANNA” felirat olvasható. Az emlékérme bal szélén, az ábrázolás mellett Erőss Ildikó tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
