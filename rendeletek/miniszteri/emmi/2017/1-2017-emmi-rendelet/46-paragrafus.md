@@ -1,0 +1,3 @@
+## „(8) Az utcai szociális munka keretében az Szt. 7. § (1) bekezdése szerinti életet és testi épséget veszélyeztető helyzet elhárítása érdekében különösen a –10 °C vagy annál alacsonyabb hőmérséklet, a 27 °C feletti napi középhőmérséklet vagy a meteorológiai szolgálat második szintű veszélyjelzésének időtartama alatt szükséges intézkedni.
+
+## (9) Az utcai szociális munkát végző szolgáltatók együttműködnek a területükön illetékes rendőrkapitányságok és határrendészeti kirendeltségek kijelölt személyeivel a rászoruló személyeket a téli időjárási viszonyok következtében fenyegető veszélyhelyzetek megelőzésével és kezelésével összefüggő rendőri feladatok végrehajtása érdekében.”
