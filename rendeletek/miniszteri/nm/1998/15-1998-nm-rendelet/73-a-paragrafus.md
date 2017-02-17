@@ -1,23 +1,16 @@
-73/A. §[^98] (1)[^99] A krízisközpont a Gyvt. 51. § (6) bekezdés a) pontja szerinti szolgáltatások nyújtásához – a bántalmazott és családja szükségleteihez igazodóan – biztosítja a szükség szerinti ellátáson felül a szükséges szakemberek, így különösen esetmenedzser, pszichológiai vagy mentálhigiénés tanácsadó, valamint jogász közreműködését.
+73/A. §[^111] (1)[^112] A krízisközpont a Gyvt. 51. § (6) bekezdés a) pontja szerinti szolgáltatások nyújtásához – a bántalmazott és családja szükségleteihez igazodóan – biztosítja a szükség szerinti ellátáson felül a szükséges szakemberek, így különösen esetmenedzser, pszichológiai vagy mentálhigiénés tanácsadó, valamint jogász közreműködését.
 
-(2) A krízisközpont által nyújtott félutasház-szolgáltatás igénybevétele pályázati úton történik. A pályázatnak tartalmaznia kell
+(2)[^113] A krízisközponti férőhelyek tekintetében az ellátottak befogadása országos.
 
-a) a krízisellátásban, illetve a családok átmeneti otthonában eddig igénybe vett gondozás eredményeit,
+(3)[^114]
 
-b) a félutasház-szolgáltatás igénybevételének okait,
+(4)[^115]
 
-c) a bántalmazottnak az élethelyzete rendezésére vonatkozó elképzeléseit,
+(5)[^116]
 
-d) annak igazolását, hogy a bántalmazottat társadalombiztosítással járó jogviszony keretében foglalkoztatják,
-
-e) annak vállalását, hogy sikeres pályázat esetén a bántalmazott együttműködik a félutasház-szolgáltatást szükségessé tevő okok megszüntetésében, valamint részt vesz a krízisközpont által szervezett előtakarékossági programban és a társadalmi reintegrációt segítő programban.
-
-(3) Az előtakarékossági program során a bántalmazott – szakemberek közreműködésével – segítséget kap az önálló életvitelhez és az ehhez szükséges jövedelem megszerzésére irányuló lehetőségek felkutatásához.
-
-(4) A társadalmi reintegrációt segítő program során a bántalmazott – szakemberek közreműködésével – segítséget kap a saját és családja helyzetének rendezéséhez, a családi kapcsolatok megerősítéséhez, a pszichés sérülések feldolgozásához és a jövőkép kialakításához.
-
-(5)[^100] A krízisközpont a működési engedélyében meghatározott ellátási területén kívülről is fogadhat ellátottakat, azonban ezen ellátottak száma egy időben nem haladhatja meg a működési engedélyben szereplő férőhelyeinek 50%-át.
-
-[^98]: A 73/A. §-t az 58/2011. (X. 21.) NEFMI rendelet 3. §-a iktatta be.
-[^99]: A 73/A. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § f) pontja szerint módosított szöveg.
-[^100]: A 73/A. § (5) bekezdését a 49/2013. (VII. 10.) EMMI rendelet 12. §-a iktatta be.
+[^111]: A 73/A. §-t az 58/2011. (X. 21.) NEFMI rendelet 3. §-a iktatta be.
+[^112]: A 73/A. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § f) pontja szerint módosított szöveg.
+[^113]: A 73/A. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^114]: A 73/A. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 25. § b) pontja hatályon kívül helyezte.
+[^115]: A 73/A. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 25. § b) pontja hatályon kívül helyezte.
+[^116]: A 73/A. § (5) bekezdését a 49/2013. (VII. 10.) EMMI rendelet 12. §-a iktatta be, hatályon kívül helyezte az 1/2017. (II. 14.) EMMI rendelet 25. § b) pontja.

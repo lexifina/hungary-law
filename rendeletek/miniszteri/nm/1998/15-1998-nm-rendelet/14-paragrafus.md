@@ -12,4 +12,13 @@ e) a szolgáltatást igénybe vevő személy, család, illetve gyermek és szül
 
 f) közreműködik a válsághelyzetben lévő várandós anya problémáinak rendezésében.
 
-(2) A szociális segítőmunka során valamennyi család esetében legalább havi három személyes találkozást kell megszervezni és dokumentálni.
+(2)[^65] Az 1. számú mellékletben meghatározott létszámelőírás esetében a 25 ellátott család számításakor csak azok a megállapodással rendelkező családok vehetők figyelembe, ahol
+
+a) a szociális segítőmunka során éves átlagban legalább havi három személyes találkozás megszervezésére és dokumentálására sor kerül, vagy
+
+b) hatósági intézkedéshez kapcsolódó szolgáltatásnyújtás történik.
+
+(3)[^66] Egy fő családsegítő a 25 család felett havi átlagban legfeljebb 10, a (2) bekezdés alá nem tartozó családot támogathat szociális segítő munkával.
+
+[^65]: A 14. § (2) bekezdése 1/2017. (II. 14.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^66]: A 14. § (3) bekezdését 1/2017. (II. 14.) EMMI rendelet 6. § (2) bekezdése iktatta be.

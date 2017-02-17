@@ -2,7 +2,7 @@
 
 ## A TERÜLETI GYERMEKVÉDELMI SZAKSZOLGÁLTATÁS ÉS A SZAKSZOLGÁLAT
 
-## 136. §[^311] A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
+136. §[^316] (1) A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
 
 a) a gondozási hely meghatározásával,
 
@@ -16,11 +16,32 @@ e) a szaktanácsadással,
 
 f) a Gyvt.-ben előírt nyilvántartások vezetésével,
 
-g) a megyei bizottság működtetésével,
+g) a megyei bizottság működtetésével és
 
-h)[^312] a támogatott közvetítői eljárással
+h) a támogatott közvetítői eljárással
 
 kapcsolatos feladatok ellátását.
 
-[^311]: A 136. § a 26/2013. (III. 29.) EMMI rendelet 18. §-ával megállapított szöveg.
-[^312]: A 136. § h) pontját a 19/2014. (III. 13.) EMMI rendelet 21. §-a iktatta be.
+(2) A gyermekvédelmi szakszolgáltatás a Gyvt. 63. § a) pontja szerinti tevékenysége ellátása érdekében
+
+a) segíti a gyermek egyéni gondozási-nevelési tervének elkészítését,
+
+b) jelzi a gyámhivatalnak, ha a gyermekvédelmi gyám, a helyettes gyermekvédelmi gyám vagy az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő gyámi tisztségéből való felmentése, elmozdítása vagy felfüggesztése indokolt, és
+
+c) szervezi az elhelyezési terv végrehajtását, és ennek érdekében – a család- és gyermekjóléti központtal együttműködve – elősegíti a vér szerinti család és a gyermek közötti kapcsolat helyreállítását, fenntartását.
+
+(3) A gyermekvédelmi szakszolgáltatás a kapcsolattartást szabályozó jogszabályokban meghatározottak szerint elősegíti a gyermekvédelmi szakellátásban lévő gyermek és a kapcsolattartásra jogosult kapcsolattartását.
+
+(4) A gyermekvédelmi szakszolgáltatás a Gyvt. 63. § b) pontja szerinti tevékenysége ellátása érdekében biztosítja
+
+a) a gyermekvédelmi gyámi és helyettes gyermekvédelmi gyámi tevékenységet, és
+
+b) az eseti gyámi feladatok ellátását, amelynek keretében ellátja a gyermek képviseletét, ha a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám a gyermeket nem képviselheti, illetve, ha – különleges szakértelmet igénylő ügyben – a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám nem tudja a gyermek képviseletét ellátni.
+
+(5) A gyermekvédelmi szakszolgáltatás a Gyvt. 63. § c) pontja szerinti tevékenysége ellátása érdekében
+
+a) szakmai, módszertani segítséget nyújt a személyes gondoskodásra irányuló szakfeladatok ellátásához, és
+
+b) javaslatot készít a szakellátás fejlesztésére, és elősegíti a tudományos kutatómunka gyakorlati alkalmazását.
+
+[^316]: A 136. § az 1/2017. (II. 14.) EMMI rendelet 18. §-ával megállapított szöveg.

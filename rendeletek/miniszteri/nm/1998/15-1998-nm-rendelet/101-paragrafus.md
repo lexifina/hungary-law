@@ -10,25 +10,21 @@ b) a gyámhivatal által nevelésbe vett
 
 gyermeket, ha a határozatban a gyermek gondozási helyeként a nevelőszülőt jelölték meg. Az ellátás megkezdésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
 
-(2) Az (1) bekezdésben meghatározott gondozott gyermek befogadásáról a nevelőszülői hálózat működtetője haladéktalanul értesíti
+(2)[^184] Az (1) bekezdésben meghatározott gondozott gyermek befogadásáról a nevelőszülői hálózat működtetője haladéktalanul értesíti a 4. számú melléklet szerinti adatlapon
 
 a) a beutaló szervet, illetve a gyámhivatalt,
 
-b)[^167] a szakszolgálatot a 4. számú melléklet szerinti adatlapon,
+b) a szakszolgálatot,
 
-c)[^168] az ideiglenes hatállyal elhelyezett gyermek törvényes képviselőjét,
+c) az ideiglenes hatállyal elhelyezett gyermek törvényes képviselőjét,
 
-d)[^169] a nevelésbe vett gyermek szülőjét, feltéve, hogy szülői felügyeleti jogát nem szüntették meg vagy az nem szűnt meg, és gyermekvédelmi gyámját,
+d) a nevelésbe vett gyermek szülőjét, feltéve, hogy szülői felügyeleti jogát nem szüntették meg, vagy az nem szűnt meg, valamint gyermekvédelmi gyámját és helyettes gyermekvédelmi gyámját,
 
-e)[^170] a szülő lakóhelye szerinti család- és gyermekjóléti központot,
+e) a szülő lakóhelye szerinti család- és gyermekjóléti központot és
 
-f)[^171] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
+f) a pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelőjét.
 
-(3)[^172] A nevelőszülői hálózat működtetője haladéktalanul értesíti a nevelésbe vételt elrendelő gyámhivatalt, ha a gyermek a határozatban megjelölt időpontig nem került a nevelőszülő gondozásába.
+(3)[^185] A nevelőszülői hálózat működtetője haladéktalanul értesíti a nevelésbe vételt elrendelő gyámhivatalt, ha a gyermek a határozatban megjelölt időpontig nem került a nevelőszülő gondozásába.
 
-[^167]: A 101. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 60. §-ával megállapított szöveg.
-[^168]: A 101. § (2) bekezdés c) pontja a 26/2013. (III. 29.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^169]: A 101. § (2) bekezdés d) pontja a 26/2013. (III. 29.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^170]: A 101. § (2) bekezdés e) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
-[^171]: A 101. § (2) bekezdésének f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 60. §-ával megállapított szöveg.
-[^172]: A 101. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 36. § d) pontja szerint módosított szöveg.
+[^184]: A 101. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^185]: A 101. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 36. § d) pontja szerint módosított szöveg.

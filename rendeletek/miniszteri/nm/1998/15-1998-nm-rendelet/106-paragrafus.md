@@ -1,24 +1,21 @@
 ## Az ellátás megszüntetése
 
-106. § (1)[^186] A nevelőszülő a gyámhivatalnak a gondozott gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét megszüntető vagy megszűnését megállapító határozata alapján megszünteti az ellátás nyújtását, és a gondozott gyermeket átadja a határozatban megjelölt személynek. Az átadás megtörténtét a gyermeket átvevő személy az aláírásával igazolja. Az ellátás megszüntetésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
+106. § (1)[^199] A nevelőszülő a gyámhivatalnak a gondozott gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét megszüntető vagy megszűnését megállapító határozata alapján megszünteti az ellátás nyújtását, és a gondozott gyermeket átadja a határozatban megjelölt személynek. Az átadás megtörténtét a gyermeket átvevő személy az aláírásával igazolja. Az ellátás megszüntetésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
 
-(2) Az ellátás megszüntetéséről az időpont és a gondozott gyermeket átvevő személy megjelölésével a nevelőszülői hálózat működtetője haladéktalanul értesíti
+(2)[^200] Az ellátás megszüntetéséről az időpont és a gondozott gyermeket átvevő személy megjelölésével a nevelőszülői hálózat működtetője haladéktalanul értesíti az 5. számú melléklet szerinti adatlapon
 
 a) a gyámhivatalt,
 
-b)[^187] a szakszolgálatot az 5. számú melléklet szerinti adatlapon,
+b) a szakszolgálatot,
 
-c)[^188] a gyermek gyermekvédelmi gyámját,
+c) a gyermek gyermekvédelmi gyámját és helyettes gyermekvédelmi gyámját,
 
-d)[^189] a szülő lakóhelye szerinti család- és gyermekjóléti központot,
+d) a szülő lakóhelye szerinti család- és gyermekjóléti központot és
 
-e)[^190] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
+e) a pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelőjét.
 
-(3)[^191] A Gyvt. 66/D. § (1) bekezdés d) pontjában foglalt esetben a működtető a jogviszony megszűnéséről írásban értesíti a nevelőszülőt és – ha nem a szakszolgálat a működtető – a gyermekvédelmi szakszolgálatot, amely a változást a férőhely-nyilvántartásban feltünteti.
+(3)[^201] A Gyvt. 66/D. § (1) bekezdés d) pontjában foglalt esetben a működtető a jogviszony megszűnéséről írásban értesíti a nevelőszülőt és – ha nem a szakszolgálat a működtető – a gyermekvédelmi szakszolgálatot, amely a változást a férőhely-nyilvántartásban feltünteti.
 
-[^186]: A 106. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^187]: A 106. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
-[^188]: A 106. § (2) bekezdés c) pontja a 26/2013. (III. 29.) EMMI rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^189]: A 106. § (2) bekezdés d) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
-[^190]: A 106. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
-[^191]: A 106. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^199]: A 106. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^200]: A 106. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^201]: A 106. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 11. §-ával megállapított szöveg.

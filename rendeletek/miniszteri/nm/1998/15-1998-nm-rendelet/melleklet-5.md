@@ -1,119 +1,47 @@
-## ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL – BEFOGADÁS
-
-## 3K14517M_0
+## ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL - BEFOGADÁS
 
 | KÜLDI: | KAPJA: |
 
-| A GYERMEK ADATAI: | Törzsszáma: |
+| A GYERMEK ADATAI: | Törzsszáma: ........................................................................ |
 
-| neve: | anyja neve: |
+| neve: ................................................................................ | anyja neve: .......................................................................... |
 
-| szül. helye, ideje: | GYERMEKVÉDELMI GYÁMJA: |
+| szül. helye, ideje: ............................................................. | GYERMEKVÉDELMI GYÁMJA, HELYETTES GYERMEKVÉDELMI GYÁMJA:.......................................................... |
 
-| A) ÉRTESÍTEM, hogy |  | a vezetésem alatt álló intézménybe |
+| A) ÉRTESÍTEM, hogy | _ a vezetésem alatt álló intézménybe |
 
-|  |  | a családomba |
+| ÚJ GONDOZOTTAT fogadtam be. A befogadást a .................................................. számú hatósági határozat rendelte el. |
 
-## ÚJ GONDOZOTTAT fogadtam be. A befogadást a számú
+| B) ÉRTESÍTEM, hogy a gondozásomban levő gyermek/fiatal felnőtt ellátásában a gondozási napok igénybevételének mértékét befolyásoló, alábbi VÁLTOZÁS TÖRTÉNT: |
 
-## hatósági határozat rendelte el.
+| _ A gondozott büntetésének letöltése után visszatért. |
 
-## B) ÉRTESÍTEM, hogy a gondozásomban levő gyermek/fiatal felnőtt ellátásában a gondozási napok igénybevételének mértékét befolyásoló, alábbi VÁLTOZÁS TÖRTÉNT:
+|  | A BEFOGADÁS, illetve a VÁLTOZÁS időpontja: ............................................................................................ |
 
-|  |  | A gondozott büntetésének letöltése után visszatért. |
-
-## 3K14517M_3
-
-|  |  | A BEFOGADÁS, illetve a VÁLTOZÁS időpontja: |
-
-|  |  |  | Határozat mellékelve. |
+|  | _ Határozat mellékelve. |
 
 |  | P. H. | a gondozási hely nevében |
 
-| A) ESETBEN A GYERMEKOTTHON egyidejűleg küldi: | A NEVELŐSZÜLŐ nevében a nev. sz. tanácsadó küldi: |
+| A) ESETBEN A GYERMEKOTTHON egyidejűleg küldi: | A NEVELŐSZÜLŐI HÁLÓZAT MŰKÖDTETŐJE küldi: |
 
-| 1. TEGYESZ | 1. TEGYESZ |
+| 1. A beutaló szerv, illetve a gyámhivatal 2. Területi gyermekvédelmi szakszolgálat 3. Ideiglenes hatállyal elhelyezett gyermek törvényes képviselője 4. A nevelésbe vett gyermek szülője, feltéve, hogy szülői felügyeleti jogát nem szüntették meg, vagy az nem szűnt meg, valamint gyermekvédelmi gyámja és helyettes gyermekvédelmi gyámja 5. A szülő lakóhelye szerinti család- és gyermekjóléti központ 6. A pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelője | 1. A beutaló szerv, illetve a gyámhivatal 2. Területi gyermekvédelmi szakszolgálat 3. Ideiglenes hatállyal elhelyezett gyermek törvényes képviselője 4. A nevelésbe vett gyermek szülője, feltéve, hogy szülői felügyeleti jogát nem szüntették meg, vagy az nem szűnt meg, valamint gyermekvédelmi gyámja és helyettes gyermekvédelmi gyámja 5. A szülő lakóhelye szerinti család- és gyermekjóléti központ 6. A pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelője |
 
-| 2. A gyámhivatal, illetve a beutaló szerv |  |
+|  | Az UTÓGONDOZÓI ELLÁTÁS esetén a szolgáltatást nyújtó egyidejűleg küldi: |
 
-| 3. A szülő lakóhelye szerinti gyermekjóléti szolgálat | Az UTÓGONDOZÓ OTTHON egyidejűleg küldi: |
-
-| 4. A gondozott gyermek gyermekvédelmi gyámja |  |
-
-| 5. Pártfogói felügyelet alatt álló gyermek pártfogó felügyelője | 1. TEGYESZ |
-
-| 6. IH és AT gondozási forma esetében a vér szerinti szülő | 2. Gyámhivatal |
-
-|  | 3. Pártfogói felügyelet alatt álló gyermekpártfogó felügyelője |
-
-## B) ESETBEN KAPJA:
-
-## 1. TEGYESZ
-
-## A befogadást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
-
-5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^447]
-
-ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL – TÁVOZÁS
-
-## 3K14517N_0
-
-| KÜLDI: | KAPJA: |
-
-| A GYERMEK ADATAI: | Törzsszáma: |
-
-| neve: | anyja neve: |
-
-| szül. helye, ideje: | GYERMEKVÉDELMI GYÁMJA: |
-
-## A) ÉRTESÍTEM, hogy a gondozásomban levő gyermek gondozása MEGSZŰNT. A távozás körülményei:
-
-## 3K14517N_1
-
-|  | A gondozott kiskorú a | számú gyámhivatali engedély alapján távozott. |
-
-|  | A gondozott nagykorúságát elérte, a gondozási helyéről önként eltávozott, utógondozói ellátást nem kér. |
-
-| Ismert új címe: |
-
-|  | A gondozott nagykorú, és a | számú, az utógondozói ellátást megszüntető |
-
-| gyámhivatali határozat alapján távozott. |  |
-
-## B) ÉRTESÍTEM, hogy a gondozásomban levő gyermek/fiatal felnőtt ellátásában a gondozási napok igénybevételének mértékét befolyásoló, alábbi VÁLTOZÁS TÖRTÉNT:
-
-|  | A gondozott | -ban |
-
-|  |  | előzetes letartóztatását megkezdte. |
-
-|  |  | jogerős ítélet alapján büntetésének letöltését megkezdte. |
-
-## 3K14517N_3
-
-|  |  | A TÁVOZÁS, illetve a VÁLTOZÁS időpontja: |
-
-|  |  |  | Határozat mellékelve. |
-
-|  | P. H. | a gondozási hely nevében |
-
-| A) ESETBEN A GYERMEKOTTHON egyidejűleg küldi: | A NEVELŐSZÜLŐ nevében a nev. sz. tanácsadó küldi: |
-
-| 1. TEGYESZ | 1. TEGYESZ |
-
-| 2. Gyámhivatal |  |
-
-| 3. A tartózkodási hely szerinti gyermekjóléti szolgálat | Az UTÓGONDOZÓ OTTHON egyidejűleg küldi: |
-
-| 4. Pártfogói felügyelet alatt álló gyermek pártfogó felügyelője |  |
-
-|  | 1. TEGYESZ |
+|  | 1. Területi gyermekvédelmi szakszolgálat |
 
 |  | 2. Gyámhivatal |
 
-## B) ESETBEN KAPJA:
+|  | 3. Pártfogói felügyelet, megelőző pártfogás alatt álló fiatal felnőtt pártfogó felügyelője |
 
-1. TEGYESZ
+| B) ESETBEN KAPJA: |  |
 
-A távozást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
+| 1. Területi gyermekvédelmi szakszolgálat |  |
 
-[^447]: Az 5. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a, a 26/2013. (III. 29.) EMMI rendelet 37. § 35. pontja szerint módosított szöveg.
+## A befogadást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni.
+
+5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^459]
+
+ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL - TÁVOZÁS
+
+[^459]: Az 5. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 23. § (2) bekezdés b) pontjával megállapított szöveg.
