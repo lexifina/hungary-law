@@ -1,26 +1,30 @@
 ## 76. § A nappali ellátást nyújtó intézmények nyitvatartási idejét a helyi igényeknek megfelelően kell meghatározni, de az napi hat óránál kevesebb nem lehet.
 
-77. § (1) A nappali ellátást nyújtó intézmények szolgáltatásai különösen
+77. § (1)[^230] A nappali ellátás
 
-a)[^203] igény szerint meleg élelem biztosítása, kivéve idősek nappali ellátása esetén,
+a) tanácsadás,
 
-b) szabadidős programok szervezése,
+b) készségfejlesztés,
 
-c) szükség szerint az egészségügyi alapellátás megszervezése, a szakellátásokhoz való hozzájutás segítése,
+c) háztartási vagy háztartást pótló segítségnyújtás,
 
-d) hivatalos ügyek intézésének segítése,
+d) idősek nappali ellátása kivételével étkeztetés,
 
-e) munkavégzés lehetőségének szervezése,
+e) esetkezelés,
 
-f) életvitelre vonatkozó tanácsadás, életvezetés segítése,
+f) felügyelet,
 
-g) speciális önszerveződő csoportok támogatása, működésének, szervezésének segítése.
+g) gondozás és
 
-(2)[^204] Az igényelt napi egyszeri meleg étkezésről a 21. § (3) bekezdésében foglaltaknak megfelelően kell gondoskodni.
+h) közösségi fejlesztés
+
+## szolgáltatási elemeket szükség szerint biztosít.
+
+(2)[^231] Az igényelt napi egyszeri meleg étkezésről a 21. § (3) bekezdésében foglaltaknak megfelelően kell gondoskodni.
 
 (3) Szabadidős programok szervezésének minősül az is, ha az intézmény az ellátást igénybe vevők részére sajtótermékeket, könyveket, kártya- és társasjátékokat, tömegkommunikációs eszközöket biztosít, rendezvényeket szervez.
 
 (4) Az intézmény által nyújtott egészségügyi ellátás körébe tartozik a felvilágosító előadások szervezése, tanácsadás az egészséges életmódról, gyógytorna lehetőségének biztosítása, valamint a mentális gondozás.
 
-[^203]: A 77. § (1) bekezdés a) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bf) alpontja, a 2/2015. (I. 14.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
-[^204]: A 77. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének t) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^230]: A 77. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^231]: A 77. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének t) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.

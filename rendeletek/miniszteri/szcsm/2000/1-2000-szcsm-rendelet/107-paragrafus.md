@@ -1,13 +1,13 @@
+## szolgáltatási elemeket szükség szerint biztosít.
+
 ## Hajléktalanok éjjeli menedékhelye
 
-107. § (1)[^256] A hajléktalan személyek éjjeli menedékhelyére a 105. § rendelkezései az irányadók azzal, hogy egy lakószobában legfeljebb húsz személy helyezhető el, és nem szükséges ágynemű biztosítása.
+107. § (1)[^290] A hajléktalan személyek éjjeli menedékhelyére a 105. § rendelkezései az irányadók azzal, hogy egy lakószobában legfeljebb húsz személy helyezhető el, és nem nyújt szociális munkát.
 
-(2) Az éjjeli menedékhely este, illetve éjszaka legalább napi tizennégy órát tart nyitva. Az éjjeli menedékhely az előforduló konfliktushelyzetek megelőzésére, illetve kezelésére a nyitvatartási időben szakképzett munkaerővel ügyeletet biztosít.
+(2)[^291] Az éjjeli menedékhely este, illetve éjszaka legalább napi tizennégy órát tart nyitva.
 
-(3) Az éjjeli menedékhelyen legalább napi négy órában szociális munkás alkalmazásával szociális munkát kell végezni. A szociális munka körébe tartozik különösen:
+(3)[^292]
 
-a) szociális információk biztosítása,
-
-b) az ellátást igénybe vevő jogosultságaira vonatkozó tanácsadás.
-
-[^256]: A 107. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 26. §-a szerint módosított szöveg.
+[^290]: A 107. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 26. §-a, az 1/2017. (II. 14.) EMMI rendelet 58. § j) pontja szerint módosított szöveg.
+[^291]: A 107. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 50. §-ával megállapított szöveg.
+[^292]: A 107. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § l) pontja hatályon kívül helyezte.

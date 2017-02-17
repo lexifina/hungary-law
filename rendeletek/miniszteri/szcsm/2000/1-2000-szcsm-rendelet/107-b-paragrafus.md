@@ -1,27 +1,18 @@
-107/B. §[^259] (1) A hajléktalanok átmeneti szállásán időszakos férőhelyszám-bővítés abban az esetben hajtható végre, ha a bővítés az időszakot megelőző férőhelyeket igénybevevők ellátását nem zavarja.
+107/B. §[^296] (1) A hajléktalanok átmeneti szállásán időszakos férőhelyszám-bővítés abban az esetben hajtható végre, ha a bővítés az időszakot megelőző férőhelyeket igénybevevők ellátását nem zavarja.
 
 (2) A hajléktalanok átmeneti szállásán végrehajtott férőhelyszám-bővítés nem haladhatja meg az intézmény ideiglenes, vagy állandó működési engedélyében szereplő férőhelyszám 30%-át.
 
 (3) Az időszakos férőhelyszám-bővítéskor az intézmény biztosítja
 
-a) 105. § (1) bekezdésének a)–c), valamint e) pontjában foglaltakat,
+a)[^297] a 105. § (2) bekezdésében és a 107. § (2) bekezdésében foglaltakat, azzal, hogy egy lakószobában legfeljebb huszonöt személy helyezhető el,
 
-b) a 105. § (3) bekezdésének b)–e) pontjaiban foglaltakat,
+b)[^298] az épületben a fűtés, világítás és meleg vízzel való ellátás folyamatosságát,
 
 c) az egészségügyi alapellátás megszervezését, szükség szerint a szakellátáshoz való hozzájutás segítését.
 
-(4) Időszakos férőhelyszám-bővítést olyan helyiségben, épületben lehet megvalósítani, ahol
+(4)–(6)[^299]
 
-a) lakószobánként legfeljebb húsz személyt lehet elhelyezni,
-
-b) a berendezési tárgyak könnyen tisztíthatók, illetve fertőtleníthetők,
-
-c) a lakószobában egy ellátottra minimum négy négyzetméter lakóterület jut,
-
-d) a fűtés, világítás és melegvízzel való ellátás folyamatosan biztosított.
-
-(5) Az időszakos férőhelyszám-bővítés időszakában az intézményben húsz ellátottra jut legalább egy zuhanyzó és egy nemenkénti illemhely.
-
-(6) A 106. §-ban felsoroltakat az időszakosan kialakított férőhelyek tekintetében is figyelembe kell venni.
-
-[^259]: A 107/B. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be.
+[^296]: A 107/B. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be.
+[^297]: A 107/B. § (3) bekezdés a) pontja az 1/2017. (II. 14.) EMMI rendelet 51. §-ával megállapított szöveg.
+[^298]: A 107/B. § (3) bekezdés b) pontja az 1/2017. (II. 14.) EMMI rendelet 51. §-ával megállapított szöveg.
+[^299]: A 107/B. § (4)–(6) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § n) pontja hatályon kívül helyezte.

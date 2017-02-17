@@ -8,9 +8,9 @@
 
 a) egészségmegőrzését szolgáló felvilágosításáról,
 
-b)[^157] orvosi ellátásáról a 2. számú melléklet szerinti óraszámban,
+b)[^180] orvosi ellátásáról a 2. számú melléklet szerinti óraszámban,
 
-c)[^158] szükség szerinti alapápolásáról, az otthoni szakápolási tevékenységről szóló 20/1996. (VII. 26.) NM rendeletben meghatározott szakápolási tevékenységek kivételével, ennek körében különösen
+c)[^181] szükség szerinti alapápolásáról, az otthoni szakápolási tevékenységről szóló 20/1996. (VII. 26.) NM rendeletben meghatározott szakápolási tevékenységek kivételével, ennek körében különösen
 
 ca) a személyi higiéné biztosításáról,
 
@@ -18,7 +18,7 @@ cb) a gyógyszerezésről,
 
 cc) az étkezésben, a folyadékpótlásban, a hely- és helyzetváltoztatásban, valamint a kontinenciában való segítségnyújtásról,
 
-d)[^159] szakorvosi, illetve sürgősségi ellátásához való hozzájutásáról,
+d)[^182] szakorvosi, illetve sürgősségi ellátásához való hozzájutásáról,
 
 e) kórházi kezeléséhez való hozzájutásáról,
 
@@ -26,12 +26,12 @@ f) e rendeletben meghatározott gyógyszerellátásáról,
 
 g) gyógyászati segédeszközeinek biztosításáról.
 
-(3)[^160] A bentlakásos szociális intézmény orvosa biztosítja az ellátást igénybe vevő egészségi állapotának rendszeres ellenőrzését, az orvosi tanácsadást, az egészségügyi tárgyú jogszabályokban meghatározott szűréseket, a gyógyszerrendelést, valamint szükség esetén az egészségügyi szakellátásba történő beutalást.
+(3)[^183] A bentlakásos szociális intézmény orvosa biztosítja az ellátást igénybe vevő egészségi állapotának rendszeres ellenőrzését, az orvosi tanácsadást, az egészségügyi tárgyú jogszabályokban meghatározott szűréseket, a gyógyszerrendelést, valamint szükség esetén az egészségügyi szakellátásba történő beutalást.
 
-(4)–(5)[^161]
+(4)–(5)[^184]
 
-[^157]: Az 50. § (2) bekezdésének b) pontja a 37/2007. (XII. 22.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^158]: Az 50. § (2) bekezdésének c) pontja a 37/2007. (XII. 22.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^159]: Az 50. § (2) bekezdés d) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bc) alpontja szerint módosított szöveg.
-[^160]: Az 50. § (3) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^161]: Az 50. § (4)–(5) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 6. § (3) bekezdése iktatta be, hatályon kívül helyezte a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének a) pontja.
+[^180]: Az 50. § (2) bekezdésének b) pontja a 37/2007. (XII. 22.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^181]: Az 50. § (2) bekezdésének c) pontja a 37/2007. (XII. 22.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^182]: Az 50. § (2) bekezdés d) pontja a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont bc) alpontja szerint módosított szöveg.
+[^183]: Az 50. § (3) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^184]: Az 50. § (4)–(5) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 6. § (3) bekezdése iktatta be, hatályon kívül helyezte a 7/2008. (VI. 3.) SZMM rendelet 9. § (3) bekezdésének a) pontja.

@@ -1,6 +1,6 @@
 ## Demens személyek nappali ellátására vonatkozó különös szabályok
 
-84/A. §[^215] (1)[^216] A demens személyek nappali ellátása a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum, a Nemzeti Rehabilitációs és Szociális Hivatal, a rehabilitációs szakértői szerv, vagy pszichiáter, neurológus, geriáter szakorvos demencia kórképet megállapító szakvéleményével rendelkező személyeket látja el.
+84/A. §[^241] (1)[^242] A demens személyek nappali ellátása a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum, a Nemzeti Rehabilitációs és Szociális Hivatal, a rehabilitációs szakértői szerv, vagy pszichiáter, neurológus, geriáter szakorvos demencia kórképet megállapító szakvéleményével rendelkező személyeket látja el.
 
 (2) A demens személyek nappali ellátása megszervezhető önálló intézményi formában, illetve – az (1) bekezdés szerinti ellátottakra tekintettel – más nappali ellátás részeként.
 
@@ -22,5 +22,5 @@ dc) a biztonságos tárgyi környezet bemutatását,
 
 dd) a területileg illetékes szakorvosi (pszichiátriai, neurológiai, geriátriai) ellátással való együttműködés módját.
 
-[^215]: A 84/A. §-t és alcímét a 9/2006. (XII. 27.) SZMM rendelet 8. §-a iktatta be.
-[^216]: A 84/A. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § i) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 3. § c) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^241]: A 84/A. §-t és alcímét a 9/2006. (XII. 27.) SZMM rendelet 8. §-a iktatta be.
+[^242]: A 84/A. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § i) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 3. § c) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.

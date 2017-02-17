@@ -6,7 +6,7 @@
 
 ## Általános szabályok
 
-## 74. §[^201] A nappali ellátást biztosító intézmény
+## 74. §[^228] A nappali ellátást biztosító intézmény
 
 a) az ellátást igénybe vevők részére szociális, egészségi, mentális állapotuknak megfelelő napi életritmust biztosító szolgáltatást nyújt,
 
@@ -14,4 +14,4 @@ b) a helyi igényeknek megfelelő közösségi programokat szervez, valamint hel
 
 c) biztosítja, hogy a szolgáltatás nyitott formában, az ellátotti kör és a lakosság által egyaránt elérhető módon működjön.
 
-[^201]: A 74. § a 4/2004. (I. 28.) ESZCSM rendelet 16. §-ával megállapított szöveg.
+[^228]: A 74. § a 4/2004. (I. 28.) ESZCSM rendelet 16. §-ával megállapított szöveg.

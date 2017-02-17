@@ -420,6 +420,18 @@
 
 | foglalkoztatás szervező (ajánlott létszám) | 1 fő | 2 fő |
 
+## III. Fejlesztő foglalkoztatás
+
+| FEJLESZTŐ FOGLALKOZTATÁS |
+
+| MUNKAKÖRÖK |  |
+
+| intézményvezető | 1 fő |
+
+|  | 50 foglalkoztatottra vetítve |
+
+| segítő | 2 fő |
+
 ## Kiegészítő szabályok
 
 ## 1. A szakmai létszámnormára vonatkozó előírások betartásával a személyes gondoskodást nyújtó intézmények, szolgálatok a saját szervezeti felépítésük és működési rendjük szerint gazdálkodnak a humán erőforrásokkal.
@@ -496,7 +508,7 @@
 
 ## 13.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^291]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^340]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásai
 
@@ -1658,82 +1670,4 @@ A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatotta
 
 10.3. Szenvedélybetegek ápoló-gondozó otthona, átmeneti intézménye, rehabilitációs intézménye, rehabilitációs célú lakóotthona
 
-|  | alkalmazás minimum feltétele |
-
-| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
-
-| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
-
-| szociálpedagógus |  |  |  |  |  |
-
-| szociális menedzser |  |  |  |  |  |
-
-| okleveles szociális munkás |  |  |  |  |  |
-
-| okleveles szociálpolitikus |  |  |  |  |  |
-
-| Okleveles pszichológus |  |  |  |  |  |
-
-| mentálhigiénikus |  |  |  |  |  |
-
-| orvos | orvos | 100 |  |  |  |  |  |
-
-| intézményvezető ápoló | diplomás ápoló | 100 |  |  |  |  |  |
-
-| okleveles egyetemi ápoló |  |  |  |  |  |
-
-| okleveles ápoló |  |  |  |  |  |
-
-| ápoló | diplomás ápoló | 50 |  |  |  |  |  |
-
-| okleveles ápoló |  |  |  |  |  |
-
-|  |  | általános ápoló | gyakorló ápoló | pszichiátriai szakápoló | 50 |  |
-
-| Gondozó (lakóotthon esetében szociális segítő) |  |  | szociális gondozó | szociális gondozó és ápoló |  | 90 |  |
-
-|  |  | szociális szakgondozó | szenvedélybeteg gondozó |  |
-
-|  |  | szociális gondozó, szervező |  |
-
-|  |  |  | ápolási asszisztens |  |
-
-| szociális munkatárs | szociális munkás | 25 |  |  |  |  |
-
-| szociálpedagógus |  |  |  |  |
-
-| okleveles szociálpolitikus |  |  |  |  |
-
-| okleveles szociális munkás |  |  |  |  |
-
-|  |  | szociális segítő | szociális asszisztens |  | 75 |
-
-|  |  | rehabilitációs nevelő, segítő |  |
-
-| mentálhigiénés munkatárs | viselkedéselemző | 25 |  |  |  |  |
-
-| okleveles pszichológus |  |  |  |  |
-
-| pszichopedagógus |  |  |  |  |
-
-| szociálpedagógus |  |  |  |  |
-
-| mentálhigiénikus |  |  |  |  |
-
-|  |  | szociális segítő |  | mentálhigiénés asszisztens | 75 |
-
-|  |  | foglalkoztatás szervező |  |
-
-|  |  |  |  | szociokulturális animátor |  |
-
-|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
-
-Kiegészítő szabályok:
-
-1. Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
-
-2. 2010. január 1-je után pszichológus képzettség esetén a pszichológus (BA) oklevél nem fogadható el.
-
-3. A mellékletben szereplő képesítések alatt az alábbi, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendeletben meghatározott számú szakképesítések értendők.
-
-[^291]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja szerint módosított szöveg.
+[^340]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja szerint módosított szöveg.

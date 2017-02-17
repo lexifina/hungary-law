@@ -8,4 +8,6 @@
 
 (3) A rehabilitációs intézmény feladata az intézményi ellátást igénybe vevő önálló életvezetési képességeinek kialakítása, illetve helyreállítása, fejlesztése, továbbá a társadalomba történő be-, illetve visszailleszkedésének támogatása és az utógondozás megszervezése.
 
-(4) A rehabilitációs intézményt úgy kell kialakítani, hogy a képzés és foglalkoztatás céljára szolgáló helyiségek alapterülete legalább kétszerese legyen az ellátást igénybe vevő személyek elhelyezésére szolgáló lakóterület előírt alapterületének.
+(4)[^224]
+
+[^224]: A 68. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § h) pontja hatályon kívül helyezte.

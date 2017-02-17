@@ -1,5 +1,3 @@
-107/D. §[^261] (1) A nappali melegedő az időszakos férőhelyeken az önellátásra és a közösségi együttélés szabályainak betartására képes hajléktalan személyek számára krízishelyzetben éjszakai szállást biztosít.
+## 107/C. §[^300] A 107/B. § szabályait az éjjeli menedékhelyre és a nappali melegedőre is alkalmazni kell.
 
-(2) A nappali melegedő az időszakos férőhelyek tekintetében éjjeli menedékhelynek minősül, az időszakos férőhelyek kialakítására és az időszakos férőhelyeken elhelyezetteknek nyújtott szolgáltatásokra a 107/C. §-ban foglalt szabályokat kell alkalmazni.
-
-[^261]: A 107/D. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 37. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^300]: A 107/C. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be, szövege az 1/2017. (II. 14.) EMMI rendelet 52. §-ával megállapított szöveg.

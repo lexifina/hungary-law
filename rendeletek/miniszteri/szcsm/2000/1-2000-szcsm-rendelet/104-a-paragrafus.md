@@ -1,21 +1,22 @@
-104/A. §[^248] (1) Az utcai szociális munka megszervezhető önálló szervezeti formában vagy szociális intézmény keretein belül. Az önálló szervezeti formában működtetett utcai szociális munkát végző intézmény együttműködik az ellátási területén működő szociális szolgáltatásokkal.
+104/A. §[^271] (1) Az utcai szociális munka megszervezhető önálló szervezeti formában vagy szociális intézmény keretein belül. Az önálló szervezeti formában működtetett utcai szociális munkát végző intézmény együttműködik az ellátási területén működő szociális szolgáltatásokkal.
 
 (2) Az utcai szociális munka – amennyiben nem önálló szervezeti formában működik – megszervezhető
 
 a) nappali melegedő, vagy hajléktalanok átmeneti szállását, illetve éjjeli menedékhelyet biztosító intézmény keretében,
 
-b)[^249]
+b)[^272]
 
-c)[^250] család- és gyermekjóléti szolgálat keretében, ha ez a helyi szükségletek figyelembevételével a családos hajléktalanok, az ifjúsági korosztály, a gyermekek segítése érdekében indokolt.
+c)[^273] család- és gyermekjóléti szolgálat keretében, ha ez a helyi szükségletek figyelembevételével a családos hajléktalanok, az ifjúsági korosztály, a gyermekek segítése érdekében indokolt.
 
-(3)[^251]
+(3)[^274]
 
-(4) Az utcai szociális gondozók munkáját koordinátor szervezi és irányítja. A négy főnél több utcai szociális gondozót foglalkoztató intézmény egy fő koordinátort alkalmaz, a négy vagy ennél kevesebb gondozót foglalkoztató intézmény esetében a koordinátort az utcai szociális gondozók közül kell kijelölni.
+(4)[^275] Az utcai szociális gondozók munkáját koordinátor szervezi és irányítja.
 
-(5)[^252]
+(5)[^276]
 
-[^248]: A 104/A. §-t a 4/2004. (I. 28.) ESZCSM rendelet 25. §-a iktatta a szövegbe.
-[^249]: A 104/A. § (2) bekezdés b) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bi) alpontja hatályon kívül helyezte.
-[^250]: A 104/A. § (2) bekezdés c) pontja az 55/2015. (XI. 30.) EMMI rendelet 29. § h) pontja szerint módosított szöveg.
-[^251]: A 104/A. § (3) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének r) pontja hatályon kívül helyezte.
-[^252]: A 104/A. § (5) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 14. § d) pontja hatályon kívül helyezte.
+[^271]: A 104/A. §-t a 4/2004. (I. 28.) ESZCSM rendelet 25. §-a iktatta a szövegbe.
+[^272]: A 104/A. § (2) bekezdés b) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bi) alpontja hatályon kívül helyezte.
+[^273]: A 104/A. § (2) bekezdés c) pontja az 55/2015. (XI. 30.) EMMI rendelet 29. § h) pontja szerint módosított szöveg.
+[^274]: A 104/A. § (3) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének r) pontja hatályon kívül helyezte.
+[^275]: A 104/A. § (4) bekezdése az 1/2017. (II. 14.) EMMI rendelet 46. §-ával megállapított szöveg.
+[^276]: A 104/A. § (5) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 14. § d) pontja hatályon kívül helyezte.

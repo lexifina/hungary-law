@@ -1,8 +1,8 @@
-## 6. CÍM[^121]
+## 6. CÍM[^130]
 
-## TÁMOGATÓ SZOLGÁLTATÁS[^122]
+## TÁMOGATÓ SZOLGÁLTATÁS[^131]
 
-39/A. §[^123] (1) A támogató szolgálat feladata – az Szt. 65/C. §-ának (3) bekezdésében meghatározottak érdekében – különösen
+39/A. §[^132] (1) A támogató szolgálat feladata – az Szt. 65/C. §-ának (3) bekezdésében meghatározottak érdekében – különösen
 
 a) személyi segítő szolgálat működtetése, amely – a fogyatékos személy aktív közreműködésével – segítséget nyújt
 
@@ -14,15 +14,16 @@ ac) az önálló munkavégzéshez, tanulmányok folytatásához, szociális és 
 
 b) szállító szolgálat működtetése az alapvető szükségletek kielégítését segítő szolgáltatásokhoz, közszolgáltatásokhoz való hozzájutás biztosítása érdekében,
 
-c) a tanácsadás.
+c)[^133]
 
 (2) A támogató szolgálatot úgy kell megszervezni, hogy annak tevékenysége az ellátási területen élő valamennyi fogyatékossági csoportba tartozó személyre kiterjedjen, és szolgáltatásai – a háziorvos javaslatának figyelembevételével – az egyéni szükségletekhez igazodjanak.
 
 (3) A támogató szolgálat vezetője szükség szerint, de legalább két hetente esetmegbeszélést tart.
 
-(4)[^124] A támogató szolgálat ellátásában részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni. Nem kell egyéni gondozási tervet készíteni abban az esetben, ha az ellátott kizárólag tanácsadást vagy szállítást vesz igénybe.
+(4)[^134]
 
-[^121]: A 6. Címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
-[^122]: A 39/A. §-t megelőző címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta be, szövege a 2/2006. (IV. 14.) ICSSZEM rendelet 24. §-ával megállapított szöveg.
-[^123]: A 39/A. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
-[^124]: A 39/A. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 13. §-ával megállapított szöveg, e módosító rendelet 28. §-ának (4) bekezdése alapján a támogató szolgálat ellátásában részesülő személyekre vonatkozóan a gondozási tervet 2004. február 5. napját követő három hónapon belül kell elkészíteni.
+[^130]: A 6. Címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^131]: A 39/A. §-t megelőző címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta be, szövege a 2/2006. (IV. 14.) ICSSZEM rendelet 24. §-ával megállapított szöveg.
+[^132]: A 39/A. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^133]: A 39/A. § (1) bekezdés c) pontját az 1/2017. (II. 14.) EMMI rendelet 59. § e) pontja hatályon kívül helyezte.
+[^134]: A 39/A. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § f) pontja hatályon kívül helyezte.

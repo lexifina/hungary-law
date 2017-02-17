@@ -1,4 +1,4 @@
-8. § (1)[^55] A gondozási terv elkészítéséről és az abban meghatározott feladatok teljesítéséről tartós bentlakásos, illetve átmeneti intézményi ellátásban részesülő személy esetén az intézmény vezetője gondoskodik.
+8. § (1)[^60] A gondozási terv elkészítéséről és az abban meghatározott feladatok teljesítéséről tartós bentlakásos, illetve átmeneti intézményi ellátásban részesülő személy esetén az intézmény vezetője gondoskodik.
 
 (2) A gondozási tervet, annak módosítását az ellátást igénybe vevő személlyel, illetve törvényes képviselőjével közösen kell elkészíteni. A gondozási terv eredményességének feltétele az ellátást igénybe vevő aktív közreműködése.
 
@@ -6,4 +6,4 @@
 
 (4) A gondozási terv orvosszakmai kérdéseiről az intézmény orvosa pontos és részletes tájékoztatást nyújt az ellátást igénybe vevő részére.
 
-[^55]: A 8. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 3. §-ával megállapított szöveg.
+[^60]: A 8. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 3. §-ával megállapított szöveg.

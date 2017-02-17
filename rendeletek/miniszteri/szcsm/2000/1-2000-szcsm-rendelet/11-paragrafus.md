@@ -1,4 +1,4 @@
-## 10. §[^59]
+## 10. §[^64]
 
 ## Az egyéni rehabilitációs program
 
@@ -18,4 +18,4 @@ f) az ellátást igénybe vevőnek a társadalomba, a korábbi közösségébe t
 
 (2) A rehabilitációs program eredményeit a programot kidolgozó munkacsoport félévente értékeli, szükség esetén módosítja a programot, meghatározza a további feladatokat.
 
-[^59]: A 10. §-t az 55/2013. (VII. 29.) EMMI rendelet 14. § a) pontja hatályon kívül helyezte.
+[^64]: A 10. §-t az 55/2013. (VII. 29.) EMMI rendelet 14. § a) pontja hatályon kívül helyezte.

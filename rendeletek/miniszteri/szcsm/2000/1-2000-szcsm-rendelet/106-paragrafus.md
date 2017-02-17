@@ -1,19 +1,15 @@
-106. § (1) Az átmeneti szállás nyitva tartását gondozási tevékenységének megfelelően kell meghatározni, azonban az nem lehet kevesebb napi tizenhat óránál.
+## 106. §[^289] A hajléktalan személyek átmeneti szállása a szociális munka keretében
 
-(2) A hajléktalan személyek átmeneti szállásán az ellátást igénybe vevők szociális és mentális gondozását legalább napi hat órai időtartamban biztosítani kell.
+a) tanácsadás,
 
-(3) Az átmeneti szálláson végzendő szociális és mentális gondozás körébe tartozik különösen
+b) esetkezelés,
 
-a) az egyéni esetkezelés, szociális csoportmunka, közösségi szociális munka,
+c) gondozás,
 
-b) az átmeneti szállóról történő továbblépéshez nyújtott személyre szabott segítség,
+d) készségfejlesztés,
 
-c) az intézményen belüli közösségi élet szervezése,
+e) szolgáltatásokhoz való hozzáférés segítése és
 
-d) a szocioterápia,
+f) az ellátott egyéni szükségletei szerint felügyelet és háztartási, vagy háztartást pótló segítségnyújtás
 
-e) a családi és társadalmi kapcsolatok ápolásának segítése,
-
-f) a hivatalos ügyek intézésének segítése.
-
-(4) A szociális munka alapján végzett gondozást a 13. számú melléklet szerinti egyéni nyilvántartó lapon kell rögzíteni.
+[^289]: A 106. § az 1/2017. (II. 14.) EMMI rendelet 49. §-ával megállapított szöveg.

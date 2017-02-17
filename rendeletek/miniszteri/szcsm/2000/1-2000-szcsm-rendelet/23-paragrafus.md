@@ -4,6 +4,6 @@
 
 (2) Népkonyhát elsősorban olyan településen (településrészen) indokolt létrehozni, ahol a rászorulók életformája miatt elsősorban alkalmi étkeztetés iránt van igény.
 
-(3)[^85] A népkonyhán kiszolgált egy adag ételnek – a Vr. mellékletének „A” táblázatában meghatározott értékek alapulvételével – a 19–60 éves korra meghatározott napi energia- és tápanyagszükségletnek legalább negyven százalékát kell biztosítania.
+(3)[^91] A népkonyhán kiszolgált egy adag ételnek – a Vr. mellékletének „A” táblázatában meghatározott értékek alapulvételével – a 19–60 éves korra meghatározott napi energia- és tápanyagszükségletnek legalább negyven százalékát kell biztosítania.
 
-[^85]: A 23. § (3) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 16. §-ával megállapított, valamint a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének bd) alpontja szerint módosított szöveg.
+[^91]: A 23. § (3) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 16. §-ával megállapított, valamint a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének bd) alpontja szerint módosított szöveg.

@@ -1,19 +1,36 @@
-## 39/E. §[^131] A szociál- és nyugdíjpolitikáért felelős miniszter az általa irányított minisztérium honlapján a támogató szolgáltatás működéséhez kapcsolódó szakmai ajánlást tesz közzé.
+## 39/E. §[^141] A szociál- és nyugdíjpolitikáért felelős miniszter az általa irányított minisztérium honlapján a támogató szolgáltatás működéséhez kapcsolódó szakmai ajánlást tesz közzé.
 
-## 7. CÍM[^132]
+## 7. CÍM[^142]
 
-## KÖZÖSSÉGI ELLÁTÁSOK[^133]
+## KÖZÖSSÉGI ELLÁTÁSOK[^143]
 
 39/F. § (1) A közösségi pszichiátriai ellátás olyan önkéntesen igénybe vehető, hosszú távú, közösségi alapú gondozás, amelynek során a gondozás és a pszicho-szociális rehabilitáció az ellátott otthonában, illetve lakókörnyezetében történik.
 
-(2) A közösségi pszichiátriai ellátás a következő szolgáltatásokat biztosítja:
+(2)[^144] A közösségi pszichiátriai ellátás
 
-a) problémaelemzés, problémamegoldás: a személyes célok meghatározásának segítése, a változtatásra motiváló tényezők feltárása, problémamegoldó beszélgetések,
+a) tanácsadás,
 
-b) készségfejlesztés: életvitellel kapcsolatos tréningek szervezése vagy közvetítése, az önellátásra való képesség javítása és fenntartása, tájékoztatás a betegséggel kapcsolatos tudnivalókról, az ahhoz való alkalmazkodás és kezelés teendőiről,
+b) esetkezelés,
 
-c) pszicho-szociális rehabilitáció: a munkához való hozzájutás, a szabadidő szervezett eltöltésének segítése, szabadidős, önsegítő csoportok, támogató hálózatok szerveződésének segítése, tanácsadás, információnyújtás az egészségügyi, szociális, gyermekvédelmi ellátások és szolgáltatások, valamint a foglalkoztatási, oktatási, lakhatási lehetőségek igénybevételéről.
+c) készségfejlesztés és
 
-[^131]: A 39/E. §-t újonnan az 55/2015. (XI. 30.) EMMI rendelet 23. §-a iktatta be.
-[^132]: A II. fejezet 7. címét (39/F–39/I. §) a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta a szövegbe.
-[^133]: A 39/F. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 25. §-ával megállapított szöveg.
+d) gondozás
+
+## szolgáltatási elemeket biztosít.
+
+(3)[^145] A (2) bekezdés c) pontja szerinti készségfejlesztés elsősorban az életvitellel kapcsolatos tréningek szervezésére vagy közvetítésére, az önellátásra való képesség javítására és fenntartására, a betegséggel kapcsolatos tudnivalókról szóló tájékoztatásra, az ahhoz való alkalmazkodás és kezelés teendőire irányul.
+
+(4)[^146] A (2) bekezdés d) pontja szerinti gondozás mentális gondozást foglal magában.
+
+(5)[^147] A (2) bekezdésben meghatározott szolgáltatási elemek nyújtása előtt állapotfelmérést vagy szükségletfelmérést szükséges végezni a személyes célokra és a változtatásra motiváló tényezőkre figyelemmel.
+
+(6)[^148] A közösségi pszichiátriai ellátás feladata a munkához való hozzájutás, a szabadidő szervezett eltöltésének segítése, szabadidős, önsegítő csoportok, támogató hálózatok szerveződésének segítése, információnyújtás az egészségügyi, szociális, gyermekvédelmi ellátások és szolgáltatások, valamint a foglalkoztatási, oktatási, lakhatási lehetőségek igénybevételéről.
+
+[^141]: A 39/E. §-t újonnan az 55/2015. (XI. 30.) EMMI rendelet 23. §-a iktatta be.
+[^142]: A II. fejezet 7. címét (39/F–39/I. §) a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta a szövegbe.
+[^143]: A 39/F. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 25. §-ával megállapított szöveg.
+[^144]: A 39/F. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^145]: A 39/F. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
+[^146]: A 39/F. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
+[^147]: A 39/F. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
+[^148]: A 39/F. § (6) bekezdését az 1/2017. (II. 14.) EMMI rendelet 37. § (2) bekezdése iktatta be.
