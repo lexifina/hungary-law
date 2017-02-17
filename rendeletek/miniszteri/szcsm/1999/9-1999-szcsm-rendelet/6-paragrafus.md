@@ -1,4 +1,4 @@
-6. §[^24] (1) Az előgondozást végző személy az előgondozás során a helyszínen tájékozódik az ellátást igénybe vevő életkörülményeiről és egészségi állapotáról, valamint ellátásra való jogosultságának fennállásáról. Ennek ismeretében véleményt nyilvánít arról, hogy az intézmény szolgáltatásai megfelelnek-e az ellátást igénybe vevő szükségleteinek és állapotának. Ha az intézmény szolgáltatása az igénybe vevő szükségleteinek, állapotának nem felel meg, az előgondozást végző személy más ellátási forma igénybevételére tesz javaslatot.
+6. §[^26] (1) Az előgondozást végző személy az előgondozás során a helyszínen tájékozódik az ellátást igénybe vevő életkörülményeiről és egészségi állapotáról, valamint ellátásra való jogosultságának fennállásáról. Ennek ismeretében véleményt nyilvánít arról, hogy az intézmény szolgáltatásai megfelelnek-e az ellátást igénybe vevő szükségleteinek és állapotának. Ha az intézmény szolgáltatása az igénybe vevő szükségleteinek, állapotának nem felel meg, az előgondozást végző személy más ellátási forma igénybevételére tesz javaslatot.
 
 (2) Az előgondozást végző személy az (1) bekezdésben foglaltak mellett tájékoztatja az ellátást igénybe vevőt, illetve törvényes képviselőjét az intézménnyel kötendő megállapodás tartalmáról, valamint a térítési díj várható mértékéről is.
 
@@ -14,4 +14,4 @@ b) az intézményvezető kezdeményezi a 3. § (2) bekezdése szerinti orvosi ig
 
 (6) Az intézményvezető szóban vagy írásban tájékoztatja az ellátást igénylőt vagy törvényes képviselőjét az igény nyilvántartásba vételéről, valamint az előgondozás elvégzésének időpontjáról. Az előgondozás során az intézményvezető átadja a megállapodás tervezetét és tájékoztatást nyújt a házirend tartalmáról.
 
-[^24]: A 6. § a 25/2013. (III. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^26]: A 6. § a 25/2013. (III. 29.) EMMI rendelet 5. §-ával megállapított szöveg.

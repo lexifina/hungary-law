@@ -4,6 +4,6 @@
 
 (2) Az intézményvezető, illetőleg a megállapodás megkötésére feljogosított személy a lakóotthoni ellátás iránti igény teljesítéséről az igénybe vevő háziorvosa (kezelő orvosa) véleményének figyelembevételével dönt.
 
-(3)[^40] A támogatott lakhatásra az (1) és (2) bekezdést alkalmazni kell, azzal, hogy a lakóotthon alatt támogatott lakhatást kell érteni.
+(3)[^42] A támogatott lakhatásra az (1) és (2) bekezdést alkalmazni kell, azzal, hogy a lakóotthon alatt támogatott lakhatást kell érteni.
 
-[^40]: A 17. § (3) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 1. §-a iktatta be.
+[^42]: A 17. § (3) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 1. §-a iktatta be.

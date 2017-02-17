@@ -1,4 +1,4 @@
-16. §[^39] (1) Ha soron kívüli elhelyezési igény merül fel, az intézményvezető dönt a soron kívüliség fennállásáról.
+16. §[^41] (1) Ha soron kívüli elhelyezési igény merül fel, az intézményvezető dönt a soron kívüliség fennállásáról.
 
 (2) Ha valamennyi soron kívüli elhelyezési igény nem teljesíthető, az intézményvezető haladéktalanul intézkedik az előgondozás lefolytatásáról, majd dönt a jogosultak elhelyezési sorrendjéről.
 
@@ -6,4 +6,4 @@
 
 (4) Soron kívüli elhelyezést az intézményben rendelkezésre álló férőhelyeken felül is lehet biztosítani, figyelemmel az Szt. 92/K. § (5) bekezdésében megállapított korlátra.
 
-[^39]: A 16. § a 27/2010. (XII. 30.) NEFMI rendelet 5. §-ával megállapított szöveg.
+[^41]: A 16. § a 27/2010. (XII. 30.) NEFMI rendelet 5. §-ával megállapított szöveg.

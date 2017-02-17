@@ -2,7 +2,7 @@
 
 ## EGÉSZSÉGI ÁLLAPOTRA VONATKOZÓ IGAZOLÁS
 
-## (a háziorvos, kezelőorvos tölti ki)
+## (a háziorvos, kezelőorvos, vagy kórházi kezelés esetén a kórházi osztályos orvos tölti ki)
 
 | Név (születési név): |
 
@@ -12,23 +12,15 @@
 
 | Társadalombiztosítási Azonosító Jel: |
 
-| 1. Házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás és nappali ellátás (idős, fogyatékos, demens személyek részére) igénybevétele esetén (házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás esetében az 1.1. pontot nem kell kitölteni): |
+| 1. Házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás igénybevétele esetén |
 
-| 1.1. önellátásra vonatkozó megállapítások: |
+| 1.1. krónikus betegségek (kérjük, sorolja fel): |
 
-| önellátásra képes □ részben képes □ segítséggel képes □ |
+| 1.2. fertőző betegségek (kérjük, sorolja fel): |
 
-| 1.2. szenved-e krónikus betegségben: |
+| 1.3. fogyatékosság (típusa és mértéke): |
 
-| 1.3. fogyatékosság típusa (hallássérült, látássérült, mozgássérült, értelmi sérült) és mértéke: |
-
-| 1.4. rendszeres orvosi ellenőrzés szükséges-e: |
-
-| 1.5. gyógyszerek adagolásának ellenőrzése szükséges-e: □ |
-
-| 1.6. szenvedett-e fertőző betegségben 6 hónapon belül: □ |
-
-| 1.7. egyéb megjegyzések: |
+| 1.4. egyéb megjegyzések, pl. speciális diéta szükségessége: |
 
 | 2. Jelzőrendszeres házi segítségnyújtás igénybevételére vonatkozóan igazolom, hogy egészségi állapota alapján a jelzőrendszeres házi segítségnyújtás biztosítása |
 
@@ -44,17 +36,17 @@
 
 | 3.4. ápolási-gondozási igények: |
 
-| 3.5. speciális diétára szorul-e: |
+| 3.5. speciális diéta: |
 
-| 3.6. szenvedélybetegségben szenved-e: |
+| 3.6. szenvedélybetegség: |
 
-| 3.7. pszichiátriai megbetegedésben szenved-e: |
+| 3.7. pszichiátriai megbetegedés: |
 
-| 3.8. fogyatékosságban szenved-e (típusa, mértéke): |
+| 3.8. fogyatékosság (típusa, mértéke): |
 
-| 3.9. idősotthoni ellátás esetén demenciában szenved-e: |
+| 3.9. demencia: |
 
-| 3.10. gyógyszerszedés gyakorisága, várható időtartama (pl. végleges, időleges stb.), valamint az igénybevétel időpontjában szedett gyógyszerek köre: |
+| 3.10. gyógyszerszedés gyakorisága, várható időtartama (pl. végleges, időleges, stb.), valamint az igénybevétel időpontjában szedett gyógyszerek: |
 
 | 4. A háziorvos (kezelőorvos) egyéb megjegyzései: |
 
@@ -306,7 +298,7 @@
 
 ## A vagyonnyilatkozatban feltüntetett pénzvagyonról a kérelemhez mellékelni kell a bankszámlakivonat, a betétkönyv, illetve a takarékbetét-szerződés másolatát.
 
-2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^71]
+2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^73]
 
 ## ELŐGONDOZÁSI ADATLAP
 
@@ -446,4 +438,4 @@ Az előgondozást végző személy neve, aláírása
 
 |  | * nem kötelező kitölteni” |  |
 
-[^71]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 41. § b) pontja szerint módosított szöveg.
+[^73]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 41. § b) pontja szerint módosított szöveg.
