@@ -1,4 +1,4 @@
-## 65. §[^9]
+## 65. §[^19]
 
 ## 9. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az 57. § (2) bekezdése és a 8. melléklet 2018. január 1-jén lép hatályba.
 
-[^9]: A 65. § a 66. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^19]: A 65. § a 66. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

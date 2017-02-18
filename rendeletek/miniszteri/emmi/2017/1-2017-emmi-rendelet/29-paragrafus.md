@@ -1,3 +1,5 @@
-## 28. § Hatályát veszti az Ir. 3. § (2) bekezdés b) pontjában a „ , fogyatékosok és demens személyek” szövegrész.
+## 26–28. §[^7]
 
 ## 4. A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet módosítása
+
+[^7]: A 26–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
