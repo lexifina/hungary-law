@@ -1,4 +1,4 @@
-4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez
+4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^36]
 
 Az adatszolgáltatás tartalmi követelményei
 
@@ -104,69 +104,7 @@ exportált csomagolási hulladék mennyisége:
 
 | 4. | E melléklet értelmében a műanyagok anyagának újrafeldolgozása magában foglalja az összes anyagot, amelyek újrafeldolgozásuk után műanyagot kapnak. |
 
-3. Újrahasználható csomagolások:
-
-(Kitöltendő az ezeket a rendszereket önkéntesen alkalmazó gyártók által)
-
-3. táblázat
-
-| Anyag | Csomagolás típus | Termék | Újrahasználható csomagolásban levő termék mennyisége (liter vagy kilogramm) | Forgalomban lévő újrahasználható egységek száma | Átlagos éves megtett körök száma | Átlagos élettartam |
-
-| Üveg | Palack | Italok |  |  |  |  |
-
-| Egyéb |  |  |  |  |
-
-| Tároló |  |  |  |  |  |
-
-| Műanyag | Tartályhordó >20L <250L | Élelmiszer |  |  |  |  |
-
-| Nem élelmiszer |  |  |  |  |
-
-| Hordók >250L | Élelmiszer |  |  |  |  |
-
-| Nem élelmiszer |  |  |  |  |
-
-| „Nagy zsákok” |  |  |  |  |  |
-
-| Palackok | Italok |  |  |  |  |
-
-| Egyéb |  |  |  |  |
-
-| Dobozok |  |  |  |  |  |
-
-| Konténerek |  |  |  |  |  |
-
-| Rekeszek |  |  |  |  |  |
-
-| Raklapok |  |  |  |  |  |
-
-| Karton/papír | Dobozok |  |  |  |  |  |
-
-| Raklapok |  |  |  |  |  |
-
-| Fémek | Alumínium | Tartályok >50L | Élelmiszer |  |  |  |  |
-
-| Nem élelmiszer |  |  |  |  |
-
-| Tartályok >50L <300L | Élelmiszer |  |  |  |  |
-
-| Nem élelmiszer |  |  |  |  |
-
-| Acél | Tartályok <50L | Élelmiszer |  |  |  |  |
-
-| Nem élelmiszer |  |  |  |  |
-
-| Tartályok >50L <300L | Élelmiszer |  |  |  |  |
-
-| Nem élelmiszer |  |  |  |  |
-
-| Fa | Dobozok |  |  |  |  |  |
-
-| Rekeszek |  |  |  |  |  |
-
-| Tartályok |  |  |  |  |  |
-
-| Raklapok |  |  |  |  |  |
+3.
 
 4. A táblázatok kitöltésénél az azokban szereplő fogalmakat, az egyes anyagfajtákra, kezelési módokra vonatkozó adatokat a következő meghatározásoknak megfelelően kell alkalmazni:
 
@@ -231,3 +169,5 @@ b) az újrahasználható csomagolásokról szóló adatok;
 c) a csomagolás sajátos altípusairól, így az összetett (kompozit) csomagolóanyagokról szóló adatok;
 
 d) a csomagolásban szennyeződésként maradó anyagnak tulajdoníthatóan veszélyesnek minősülő csomagolási hulladék mennyiségéről és minőségéről.
+
+[^36]: A 4. melléklet a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.

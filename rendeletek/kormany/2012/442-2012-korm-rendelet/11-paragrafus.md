@@ -1,46 +1,18 @@
 ## 6. Nyilvántartás, adatszolgáltatás, információs rendszer
 
-11. § (1) A gyártó – a (2) bekezdésben foglaltak kivételével –
+11. § (1)[^20] Az a gyártó, akit a Ktdt. szerint a csomagolás létrehozására felhasznált csomagolószer tekintetében termékdíj-kötelezettség vagy termékdíj-fizetési kötelezettség nem terhel, a (2) bekezdés szerinti nyilvántartást vezet.
 
-a) a csomagolásra felhasznált csomagolószer jellegéről, fajtájáról és mennyiségéről,
+(2)[^21] A nyilvántartásnak a következő adatokat kell tartalmaznia:
 
-b) a csomagolás létrehozására felhasznált anyagokról (vámtarifaszám alkalmazásával),
+a) a csomagolás létrehozására felhasznált csomagolószer jellege, fajtája és mennyisége (kg);
 
-c) a csomagolásra felhasznált csomagolószer újrahasználatra alkalmasságáról,
+b) a visszavett, felhasznált, újrahasznált csomagolás anyagkategória szerinti mennyisége (kg);
 
-d) a csomagolási hulladék mennyiségéről, fajtájáról,
+c) az átvett és a gyűjtött csomagolási hulladék fajtája, mennyisége (kg);
 
-e) a csomagolási hulladék hasznosításra alkalmasságáról,
+d) az alapanyagként, anyagában, energetikailag vagy egyéb módon hasznosított csomagolási hulladék fajtája, mennyisége (kg).
 
-f) a csomagolási hulladék átvételéről, gyűjtéséről, valamint
-
-g) a csomagolási hulladék kereskedőnek, közvetítőnek, hulladékkezelőnek történő átadásáról
-
-nyilvántartást vezet (nyilvántartási kötelezettség).
-
-(2) Ha a gyártó a hasznosítási kötelezettségét a 6. § (3) bekezdés b) vagy c) pontja szerint teljesíti, az (1) bekezdés d)–g) pontjaiban foglaltakról nem kell nyilvántartást vezetnie.
-
-(3) A forgalmazó
-
-a) a visszavett és újrahasznált csomagolás jellegéről, fajtájáról és mennyiségéről,
-
-b) a csomagolási összetevő újrahasználatra alkalmasságáról,
-
-c) a csomagolási hulladék mennyiségéről, fajtájáról,
-
-d) a csomagolási hulladék hasznosításra alkalmasságáról, valamint
-
-e) a csomagolási hulladék kereskedőnek, közvetítőnek, hulladékkezelőnek történő átadásáról
-
-nyilvántartást vezet.
-
-(4) A közvetítő, a kereskedő, a hulladékkezelő
-
-a) az átvett csomagolási hulladék jellegéről, hasznosításáról és mennyiségéről, továbbá
-
-b) e rendelet szerinti egyéb kötelezettségeinek teljesítéséről
-
-nyilvántartást vezet.
+(3)–(4)[^22]
 
 (5) A gyártó, a forgalmazó a 3. § (1) bekezdésében meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó műanyag rekeszről, raklapról az alábbi tartalommal nyilvántartást vezet:
 
@@ -60,4 +32,9 @@ g) a gyártó nevében eljáró meghatalmazott képviselője személyét érint�
 
 (6) A gyártó, a forgalmazó, a kereskedő, a közvetítő, a hulladékkezelő az e § szerinti nyilvántartást legalább 5 éven keresztül megőrzi.
 
-(7) A gyártónak nyilvántartási kötelezettsége a Ktdt.-ben meghatározott csekély mennyiségű csomagolószer csomagolás részeként történő kibocsátása során nem keletkezik.
+(7)[^23]
+
+[^20]: A 11. § (1) bekezdése a 30/2017. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A 11. § (2) bekezdése a 30/2017. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 11. § (3)–(4) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^23]: A 11. § (7) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.

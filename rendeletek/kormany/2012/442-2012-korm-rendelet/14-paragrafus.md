@@ -8,6 +8,6 @@
 
 (4) A (2) és a (3) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5)[^16] Az (1)–(3) bekezdés hatálya alá nem tartozó egyéb kötelezettségek ellenőrzésére az országos környezetvédelmi hatóság jogosult.
+(5)[^31] Az (1)–(3) bekezdés hatálya alá nem tartozó egyéb kötelezettségek ellenőrzésére az országos környezetvédelmi hatóság jogosult.
 
-[^16]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 219. § b) pontja szerint módosított szöveg.
+[^31]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 219. § b) pontja szerint módosított szöveg.
