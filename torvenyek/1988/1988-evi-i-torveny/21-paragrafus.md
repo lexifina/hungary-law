@@ -20,7 +20,7 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben 10 000 forinttól 300 000 forintig terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
 
-(2a) Amennyiben a 20. § (1) bekezdés k) vagy m) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés, vagy a közigazgatási hatósági eljárásban ismertté válik, a (2) bekezdésben meghatározott bírság helyett a jármű vezetőjével szemben a 20. § (4) bekezdés szerinti bírságot kell kiszabni.
+(2a) Amennyiben a 20. § (1) bekezdés d), k) vagy m) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés, vagy a közigazgatási hatósági eljárásban ismertté válik, a (2) bekezdésben meghatározott bírság helyett a jármű vezetőjével szemben a 20. § (4) bekezdés szerinti bírságot kell kiszabni.
 
 (3) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának – az (1) bekezdés h) pontja kivételével – kizárólag a külön jogszabály szerinti technikai eszközzel készített és továbbított felvétellel dokumentált szabályszegés esetén van helye.
 

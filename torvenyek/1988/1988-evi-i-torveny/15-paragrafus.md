@@ -9,3 +9,5 @@
 (5) A közútkezelői hozzájárulás tartalmazza a közútkezelői hozzájárulást kiadó, valamint az igénylő szervezet ügyintézőjének nevét, és elérhetőségét (telefon, fax, e-mail cím).
 
 (6) A közútkezelői hozzájárulás – a (3)–(5) bekezdésben meghatározottakon túl – tartalmazza a miniszter rendeletében meghatározott személyes adatokat nem tartalmazó adatokat.
+
+(7) A miniszter rendeletében meghatározottak szerint a közútkezelői hozzájárulás kiadására jogosult útkezelő a közútkezelői hozzájárulás kiadásával egyidejűleg köteles az általa kiadott közútkezelői hozzájárulást a 21/K. § szerinti Nemzeti Tengelysúlymérő Rendszer részére elektronikusan átadni.
