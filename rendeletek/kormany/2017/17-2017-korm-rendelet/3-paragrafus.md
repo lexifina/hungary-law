@@ -1,11 +1,5 @@
-3. § (1) Ha a támogatási szerződés megkötését vagy a támogatói okirat kiadását követően felmerült, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekmény
+3. §[^1] (1) Ha a támogatási szerződés megkötését vagy a támogatói okirat kiadását követően felmerült, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekmény nem éri el a támogatási szerződésben vagy támogatói okiratban szereplő eredeti támogatási összeg 15%-át, akkor az irányító hatóságnak kell alátámasztania a költségnövekmény piaci árnak megfelelését.
 
-a) nem éri el szolgáltatás és árubeszerzés esetén a támogatási szerződésben vagy támogatói okiratban szereplő eredeti támogatási összeg 10%-át, építési beruházás, építési vagy szolgáltatási koncesszió esetén a támogatási szerződésben vagy támogatói okiratban szereplő eredeti támogatási összeg 15%-át, akkor az irányító hatóságnak kell alátámasztania a költségnövekmény piaci árnak megfelelését,
+(2) Ha a támogatási szerződés megkötését vagy a támogatói okirat kiadását követően felmerült, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekmény a támogatási szerződésben vagy támogatói okiratban szereplő eredeti támogatási összeg 15%-át meghaladja, akkor igazságügyi szakértő kirendelése szükséges, és az államháztartásért felelős miniszter gondoskodik az igazságügyi szakértő megbízásáról.
 
-b) eléri az a) pont szerinti mértéket, vagy ha a projekt eredeti támogatása meghaladja az egymilliárd forintot, akkor a költségnövekmény megítélése vonatkozásában igazságügyi szakértő bevonása szükséges.
-
-(2) Az (1) bekezdés b) pontja szerinti esetben, ha a költségnövekmény által az adott prioritás kötelezettségvállalása az eredeti keretösszeg 110%-át
-
-a) nem haladja meg, akkor a költségnövekmény finanszírozása európai uniós forrás terhére történik, és az európai uniós források felhasználásáért felelős miniszter,
-
-b) meghaladja, akkor a költségnövekmény finanszírozása hazai költségvetési forrás terhére történik, és az államháztartásért felelős miniszter
+[^1]: A 3. § a 35/2017. (II. 24.) Korm. rendelet 1. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 4. §-át.

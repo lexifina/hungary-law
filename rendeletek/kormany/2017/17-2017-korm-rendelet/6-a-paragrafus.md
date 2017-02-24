@@ -1,0 +1,1 @@
+## 6. § Ha a költségnövekmény az éves fejlesztési keret elfogadását követően, de a támogatási döntés meghozatala előtt merül fel, a projekt éves fejlesztési keretben szereplő indikatív támogatási keretének módosítása vonatkozásában a 3–5. §-t megfelelően alkalmazni kell.

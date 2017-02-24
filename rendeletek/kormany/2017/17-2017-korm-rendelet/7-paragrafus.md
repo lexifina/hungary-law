@@ -1,1 +1,3 @@
-## 6. § Ha a költségnövekmény az éves fejlesztési keret elfogadását követően, de a támogatási döntés meghozatala előtt merül fel, a projekt éves fejlesztési keretben szereplő indikatív támogatási keretének módosítása vonatkozásában a 3–5. §-t megfelelően alkalmazni kell.
+## 6/A. §[^3] A Kormány az 3–6. §-ban foglalt eljárási szabályoktól egyedi döntéssel eltérhet.
+
+[^3]: A 6/A. §-t a 35/2017. (II. 24.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 4. §-át.
