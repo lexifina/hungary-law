@@ -1,5 +1,3 @@
-## 1. § Az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
+2. §[^2]
 
-## „3. § (1) Ha a támogatási szerződés megkötését vagy a támogatói okirat kiadását követően felmerült, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekmény nem éri el a támogatási szerződésben vagy támogatói okiratban szereplő eredeti támogatási összeg 15%-át, akkor az irányító hatóságnak kell alátámasztania a költségnövekmény piaci árnak megfelelését.
-
-## (2) Ha a támogatási szerződés megkötését vagy a támogatói okirat kiadását követően felmerült, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekmény a támogatási szerződésben vagy támogatói okiratban szereplő eredeti támogatási összeg 15%-át meghaladja, akkor igazságügyi szakértő kirendelése szükséges, és az államháztartásért felelős miniszter gondoskodik az igazságügyi szakértő megbízásáról.”
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
