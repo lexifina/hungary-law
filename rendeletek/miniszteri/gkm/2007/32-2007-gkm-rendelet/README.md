@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-32-20-0
 | 2012-08-24 | 2007-32-20-0L.2 | 25/2012. (VIII. 23.) NGM rendelet |
 | 2015-10-18 | 2007-32-20-0L.3 | 27/2015. (X. 15.) NGM rendelet |
 | 2017-01-01 | 2007-32-20-0L.4 | 27/2015. (X. 15.) NGM rendelet |
+| 2017-02-26 | 2007-32-20-0L.5 | 27/2015. (X. 15.) NGM rendelet |
