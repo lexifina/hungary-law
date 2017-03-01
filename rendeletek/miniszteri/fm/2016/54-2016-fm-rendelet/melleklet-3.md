@@ -10,7 +10,7 @@
 
 ## 1.1. Név
 
-## 1.2.[^13] ügyfél-azonosító
+## 1.2.[^12] ügyfél-azonosító
 
 ## 2. Az állatállomány adatai
 
@@ -74,4 +74,4 @@ Tárgyidőszak: …… év …… félév …… negyedév/hónap**
 
 Keltezés, igénylő (cégszerű) aláírása
 
-[^13]: A 2. melléklet 1. pont 1.2. alpontja a 88/2016. (XII. 29.) FM rendelet 119. § k) pontjával megállapított szöveg.
+[^12]: A 2. melléklet 1. pont 1.2. alpontja a 88/2016. (XII. 29.) FM rendelet 119. § k) pontjával megállapított szöveg.
