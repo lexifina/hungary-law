@@ -12,7 +12,17 @@ c) többcélú óvoda-bölcsődeként, vagy
 
 d) többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egységeként.
 
-(3) A bölcsődei felvétel során előnyben kell részesíteni azt a rendszeres gyermekvédelmi kedvezményre jogosult gyermeket, akinek szülője, törvényes képviselője igazolja, hogy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
+(3) A bölcsődei felvétel során előnyben kell részesíteni
+
+a) – ha a gyermek szülője, más törvényes képviselője a felvételi kérelem benyújtását követő 30 napon belül igazolja, hogy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll –
+
+aa) a rendszeres gyermekvédelmi kedvezményre jogosult gyermeket,
+
+ab) a három vagy több gyermeket nevelő családban élő gyermeket,
+
+ac) az egyedülálló szülő által nevelt gyermeket, és
+
+b) a védelembe vett gyermeket.
 
 (4) A bölcsőde nyári nyitvatartási rendjét a fenntartó hagyja jóvá. A fenntartó a bölcsődei szünet idejére a szülő, törvényes képviselő kérésére gondoskodik a gyermek intézményi gondozásának, nevelésének megszervezéséről.
 
