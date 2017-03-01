@@ -1,1 +1,5 @@
-16. §
+16. § A Vtv. 27. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(Amennyiben a vadászterületnek minősülő föld tulajdonosa, illetőleg a vadászatra jogosult a 10., 12. és 13. §-okban előírt önálló vagy társult vadászati jog gyakorlási vagy hasznosítási kötelezettségének a vadászati hatóság felszólítását követően sem tesz eleget, vagy a 28–30. §-okban a vad- és élőhelyének védelmére előírt kötelezettségeit megszegi, és ezáltal az adott vadászterület vadlétszámának, nem vadászható állatfaj egyedének és más élő szervezetnek – beleértve a természetvédelmi oltalom alatt álló élő szervezeteket is – a fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a vadászati hatóság – a vad- és élőhelyének védelme, valamint a vadkárok megelőzése érdekében – az érintett tulajdonos költségére határozatában)
+
+„e) kijelöli a vadászterületen a vadállomány védelme érdekében a vadgazdálkodási és vadászati tevékenység ellátására alkalmas jogi személyt, illetve kijelölheti a közös képviselő személyét,”
