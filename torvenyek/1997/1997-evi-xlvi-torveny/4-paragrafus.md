@@ -18,4 +18,4 @@ a) a hivatásos vadász szolgálati helyét,
 
 b) a vadászati hatóság által kiállított igazolásokat.
 
-(3) A Kamara az (1) bekezdés a)–e) pontjaiban, valamint a (2) bekezdés a) pontjában foglalt adatokról évente adatokat szolgáltat az Országos Vadgazdálkodási Adattárnak.
+(3) A kamara az (1) bekezdés a)–e) pontjában és a (2) bekezdés a) pontjában foglalt adatokról, valamint a kiállított vadászati engedélyekről évente adatokat szolgáltat az Országos Vadgazdálkodási Adattárnak.

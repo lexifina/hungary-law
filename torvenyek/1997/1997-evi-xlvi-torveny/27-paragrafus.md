@@ -10,7 +10,7 @@ b) egyéb díjbevételeiből, illetőleg támogatásokból
 
 fedezi.
 
-(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy kiállításáért a miniszter által rendeletben megállapított mértékű igazgatási szolgáltatási díj teljes összege.
+(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy és a vadászati engedély kiállításáért a miniszter által rendeletben megállapított mértékű igazgatási szolgáltatási díj teljes összege.
 
 (3) A fegyelmi büntetésként kiszabott pénzbírság felhasználásának rendjét az alapszabály állapítja meg.
 

@@ -22,7 +22,7 @@ f) etikai eljárást folytat le a kamara etikai szabályait megszegő tagjával 
 
 g) a kamara tagjairól névjegyzéket (a továbbiakban: névjegyzék) vezet és erről statisztikai adatokat szolgáltat;
 
-h) kiállítja és érvényesíti a vadászjegyet és az egyéni lőjegyzéket, erről nyilvántartást vezet és adatot szolgáltat az Országos Vadgazdálkodási Adattárnak;
+h) kiállítja és érvényesíti a vadászjegyet, valamint kiállítja a vadászati engedélyt;
 
 i) eljárást kezdeményez az illetékes hatóságnál a jogosulatlanul vadászókkal szemben;
 
