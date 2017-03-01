@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-29-20-0
 | 2013-01-01 | 2004-29-20-0A.9 | 15/2007. (III. 13.) IRM rendelet |
 | 2016-01-01 | 2004-29-20-0A.10 | 75/2015. (XII. 29.) NFM rendelet |
 | 2017-01-03 | 2004-29-20-0A.11 | 15/2007. (III. 13.) IRM rendelet |
+| 2017-03-01 | 2004-29-20-0A.12 | 15/2007. (III. 13.) IRM rendelet |

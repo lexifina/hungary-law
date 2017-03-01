@@ -56,7 +56,7 @@ Az előzetes eredetiségellenőrzés hatósági díjai
 
 | 1. A személygépkocsik előzetes eredetiségellenőrzésének elvégzéséért fizetendő díjak: |  |
 
-| a) kis kategória (1400 ccm hengerűrtartalomig) | 17 000 |
+| a) kis kategória (1400 ccm hengerűrtartalomig és tisztán elektromos hajtású személygépkocsik) | 17 000 |
 
 | b) középkategória (1401–2000 ccm hengerűrtartalomig) | 18 500 |
 
@@ -94,4 +94,4 @@ Az előzetes eredetiségellenőrzés hatósági díjai
 
 | 7.3. Különleges pótkocsi (felépítménnyel ellátott) | 19 000 |
 
-[^13]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított és a 6/2009. (III. 31.) IRM rendelet 41. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 42. § (1) bekezdése alapján rendelkezéseit a 2009. április 1-jét követően indult eljárásokban kell alkalmazni.
+[^13]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított, a 6/2009. (III. 31.) IRM rendelet 41. §-a, az 1/2017. (I. 3.) NFM rendelet 39. § (5) bekezdése szerint módosított szöveg.
