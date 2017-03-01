@@ -1,10 +1,6 @@
 9/J. § (1) Ha bírósági határozat folytán kell a végelszámolást lefolytatni, továbbá, ha a végelszámolást egyszerűsített törlési eljárás előzte meg, a végelszámolás kényszer-végelszámolásként kerül lefolytatásra.
 
-(2) Az alapítvány kényszer-végelszámolásának van helye – ha az alapítvány nem fizetésképtelen, és e törvény eltérő rendelkezést nem tartalmaz – abban az esetben,
-
-a) ha a bíróság az ügyész indítványára vagy az alapító kérelmére megállapítja, hogy az alapítvány megszűnt [Ptk. 3:48. § (1) bekezdés a), b) pontja és 3:403. § (1) bekezdés a) pontja] vagy
-
-b) ha a bíróság az ügyész keresete vagy az alapító kérelme – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Cnytv.) 59. § (5) bekezdésében meghatározott esetben az alapító keresete alapján – alapján megállapítja, hogy az alapítvány megszűnt [Ptk. 3:403. § (1) bekezdés b) és c) pontja].
+(2)
 
 (3) Kényszer-végelszámolás esetén a bíróság a végelszámolás megindításáról szóló, a 9/B. § (4) bekezdés szerinti végzést hivatalból hozza meg, és – a vezető tisztségviselő nyilatkoztatása után – kijelöli a végelszámolót. A bíróság végelszámolónak elsősorban a civil szervezet bejegyzett vezető tisztségviselőjét jelöli ki. Ha a bejegyzett vezető tisztségviselő nem jelölhető ki vagy kijelölésének mellőzését alapos okkal kéri, a bíróság a felszámolói névjegyzékből jelöli ki a végelszámolót.
 

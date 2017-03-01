@@ -6,6 +6,6 @@
 
 (4) Ha a civil szervezet saját honlappal rendelkezik, a közzétételi kötelezettség kiterjed a beszámoló, valamint közhasznúsági melléklet saját honlapon történő elhelyezésére is. A civil szervezet a saját honlapon közzétett adatok folyamatos megtekinthetőségét legalább a közzétételt követő második üzleti évre vonatkozó adatok közzétételéig biztosítja.
 
-(5) Ha a civil szervezet a beszámolóval, valamint közhasznúsági melléklettel kapcsolatos (1)–(3) bekezdés szerinti kötelezettségét elmulasztja és azt egy éven belül nem pótolja, a bíróság törvényességi ellenőrzési eljárás lefolytatása céljából értesíti az ügyészséget.
+(5) Ha a civil szervezet a beszámolóval, valamint közhasznúsági melléklettel kapcsolatos (1)–(3) bekezdés szerinti kötelezettségét elmulasztja és azt egy éven belül nem pótolja, a bíróság a civil szervezetet a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény 37. § (2) bekezdésében megállapított mértékű pénzbírsággal sújthatja.
 
 (6) A civil szervezet beszámolójára egyebekben a számvitelről szóló törvény, valamint az annak felhatalmazása alapján kiadott kormányrendelet előírásait kell alkalmazni.

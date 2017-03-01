@@ -1,6 +1,6 @@
 9/L. § (1) A bíróság az egyszerűsített törlési eljárás elrendelését követő öt munkanapon belül az egyszerűsített törlési eljárás megindításáról értesíti
 
-a) az ügyészséget,
+a) az ügyészséget, amennyiben az ügyész a civil szervezet felett törvényességi ellenőrzést gyakorol,
 
 b) a civil szervezet székhelye szerint illetékes adó- és vámhatóságot, társadalombiztosítási igazgatási szervet,
 

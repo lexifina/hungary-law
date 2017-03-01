@@ -1,28 +1,18 @@
 ## 2/B. A civil szervezet egyszerűsített törlési eljárása
 
-9/K. § (1) Egyszerűsített törlési eljárásnak van helye
+9/K. § (1) Egyszerűsített törlési eljárásnak van helye, ha
 
-a) egyesület esetében, ha
+a) a bíróság a civil szervezet tekintetében megállapítja a jogutód nélküli megszűnési ok bekövetkeztét vagy
 
-aa) a bíróság az ügyész keresete alapján megszünteti [Ptk. 3:48. § (1) bekezdés d) pontja],
+b) a bíróság a civil szervezetet törvényességi felügyeleti eljárásban megszünteti,
 
-ab) a bíróság az ügyész keresete alapján megállapítja, hogy az egyesület megszűnt [Ptk. 3:48. § (1) bekezdés a), b) pontja és 3:84. § a) és b) pontja],
-
-b) alapítvány esetében, ha
-
-ba) a bíróság az ügyész keresete alapján megszünteti [Ptk. 3:48. § (1) bekezdés d) pontja],
-
-bb) a bíróság az ügyész indítványára vagy az alapító kérelmére megállapítja, hogy az alapítvány megszűnt [Ptk. 3:48. § (1) bekezdés a), b) pontja és 3:403. § (1) bekezdés a) vagy c) pontja], vagy
-
-bc) a bíróság az ügyész keresete vagy az alapító kérelme – a Cnytv. 59. § (5) bekezdésében meghatározott esetben az alapító keresete – alapján megállapítja, hogy az alapítvány megszűnt [Ptk. 3:403. § (1) bekezdés b) pont],
-
-feltéve hogy az a) vagy b) pont szerinti eljárás során nem merült fel adat arra nézve, hogy a civil szervezetnek vagyona van vagy a civil szervezet fennállása során adószámmal nem rendelkezett, illetve nem rendelkezik.
+feltéve, hogy az a) vagy b) pont szerinti eljárás során nem merült fel adat arra nézve, hogy a civil szervezetnek vagyona van vagy a civil szervezet fennállása során adószámmal nem rendelkezett, illetve nem rendelkezik.
 
 (2) Az e cím szerinti bírósági eljárásokban az e törvény által nem szabályozott kérdésekben a Pp. rendelkezéseit – a nemperes eljárás sajátosságaiból eredő eltérésekkel – kell alkalmazni.
 
 (3) Az e cím szerinti eljárások lefolytatására a civil szervezetet nyilvántartató bíróság illetékes.
 
-(4) Ha a bíróság a civil szervezetet megszünteti vagy a civil szervezet megszűnését állapítja meg, a civil szervezetet nyilvántartó bíróság a határozat alapján a nyilvántartásba haladéktalanul bejegyzi megszüntetés esetén a „megszüntetve”, megszűnés megállapítása esetén pedig a „megszűnt” toldatot.
+(4) Ha a bíróság a civil szervezetet megszünteti vagy a civil szervezet tekintetében megállapítja a jogutód nélküli megszűnési ok bekövetkeztét, a civil szervezetet nyilvántartó bíróság a határozat alapján a nyilvántartásba haladéktalanul bejegyzi megszüntetés esetén a „megszüntetve”, a jogutód nélküli megszűnési ok bekövetkeztének megállapítása esetén pedig a „megszűnt” toldatot.
 
 (5) Ha a civil szervezet fennállása során adószámmal rendelkezett vagy rendelkezik, az (1) bekezdésben meghatározott határozatok indokolásának a Pp. 221. §-ában foglaltakon túl tartalmaznia kell az arra való utalást, hogy az eljárás során a civil szervezet vagyonára vonatkozó adat merült-e fel.
 

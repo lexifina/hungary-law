@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-175-00-00
 | 2015-11-28 | 2015. évi CLXXXVII. törvény | 2011-175-00-00.22 |
 | 2015-12-23 | 2015. évi CCXVIII. törvény | 2011-175-00-00.23 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 2011-175-00-00.24 |
+| 2017-03-01 | 2016. évi CLXXIX. törvény | 2011-175-00-00.25 |

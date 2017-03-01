@@ -10,4 +10,4 @@ b) a vezető tisztségviselők felelősségét megalapozó tény merült fel.
 
 (4) A döntéshozó szervet vagy az ügyvezető szervet a felügyelő szerv indítványára – annak megtételétől számított harminc napon belül – intézkedés céljából össze kell hívni. E határidő eredménytelen eltelte esetén a döntéshozó szerv és az ügyvezető szerv összehívására a felügyelő szerv is jogosult.
 
-(5) Ha az arra jogosult szerv a törvényes működés helyreállítása érdekében szükséges intézkedéseket nem teszi meg, a felügyelő szerv köteles haladéktalanul értesíteni a törvényességi ellenőrzést ellátó szervet.
+(5) Ha az arra jogosult szerv a törvényes működés helyreállítása érdekében szükséges intézkedéseket nem teszi meg, a felügyelő szerv köteles haladéktalanul értesíteni a törvényességi ellenőrzést ellátó szervet. Ha a szervezet működése felett az ügyészség vagy más szerv törvényességi ellenőrzést nem gyakorol, a felügyelő szerv a szervezetet nyilvántartó bíróság előtt törvényességi felügyeleti eljárást kezdeményez.

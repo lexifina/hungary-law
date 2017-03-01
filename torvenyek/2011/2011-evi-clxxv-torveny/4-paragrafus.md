@@ -8,7 +8,7 @@
 
 (5) Az egyesület alapszabálya a különleges jogállású tagságról e jogállás tartalmának meghatározásával rendelkezhet. Ha az egyesület alapszabálya pártoló tagságot hoz létre, úgy az ilyen tag az egyesület tevékenységében csak vagyoni hozzájárulással vesz részt, ha pedig tiszteletbeli tagságot, úgy az ilyen tagot az egyesület tagjai választják meg e tagságra. A pártoló és a tiszteletbeli tag az egyesület szerveinek ülésén tanácskozási joggal vehet részt és vezető tisztségviselővé nem választható.
 
-(6) Az egyesület ügyvezető szervének és döntéshozó szervének ülése személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével is lefolytatható, akkor, ha a létesítő okirat az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a tagok azonosítása és a tagok közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
+(6)
 
 (7) Az elektronikus hírközlő eszköz közvetítésével tartott ülésen elhangzottakat és a meghozott határozatokat úgy kell rögzíteni, hogy azok utóbb is ellenőrizhetőek legyenek. Ha a döntéshozó szerv ülésén hozott határozatot be kell nyújtani a nyilvántartó bírósághoz, jegyzőkönyvet kell készíteni, amelyet az ügyvezető aláírásával hitelesít.
 
