@@ -1,15 +1,13 @@
-## 8. §[^5]
+## 8. §[^4]
 
-9. § (1)[^6]
+9. § (1)[^5]
 
-(2)[^7]
+(2) A 43/1999. Korm. rendelet a 2. melléklet szerinti 6/C. számú melléklettel egészül ki.
 
-(3)–(4)[^8]
+(3)–(4)[^6]
 
-(5)[^9]
+(5) A 43/1999. Korm. rendelet 34. számú melléklete helyébe az 5. melléklet lép.
 
-[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 9. § (2) bekezdése a 49. § (4) bekezdése alapján 2017. március 1-jén lép hatályba.
-[^8]: A 9. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 9. § (5) bekezdése a 49. § (4) bekezdése alapján 2017. március 1-jén lép hatályba.
+[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
