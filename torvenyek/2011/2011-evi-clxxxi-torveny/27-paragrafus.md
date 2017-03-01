@@ -1,4 +1,4 @@
-27. § Végelszámolás lefolytatása esetén a kérelemhez csatolni kell:
+27. § Végelszámolás lefolytatása esetén a törlési kérelemhez csatolni kell:
 
 a) a nyugdíj-biztosítási igazgatási szerv és az állami adóhatóság igazolását a szervezet biztosítottjai adatainak átadásáról,
 

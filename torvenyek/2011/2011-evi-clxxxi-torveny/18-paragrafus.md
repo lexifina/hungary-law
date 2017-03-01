@@ -8,4 +8,4 @@ a) a lemondó nyilatkozat másolatát és
 
 b) a lemondás joghatályos közlését igazoló iratot.
 
-(3) Az eljárás során hozott végzéseket a szervezetnek is kézbesíteni kell. A bíróság a szabályszerűen előterjesztett kérelemről haladéktalanul értesíti az ügyészséget vagy – ha a szervezet felett nem az ügyészség lát el törvényességi ellenőrzést, hanem más szervezet lát el törvényességi felügyeletet – a törvényességi felügyeletet ellátó szervet.
+(3) Az eljárás során hozott végzéseket a szervezetnek is kézbesíteni kell. A bíróság a szabályszerűen előterjesztett kérelemről haladéktalanul értesíti az ügyészséget, ha a szervezet felett az ügyészség törvényességi ellenőrzést lát el. Ha a szervezet felett más szervezet lát el törvényességi felügyeletet, a kérelemről e szervezetet értesíti a bíróság.

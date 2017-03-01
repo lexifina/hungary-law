@@ -14,9 +14,11 @@ f) a hegyközség,
 
 g) a párt,
 
-h) az országos sportági szakszövetség és
+h) az országos sportági szakszövetség,
 
-i) a szövetség
+i) a szövetség,
+
+j) a közalapítvány
 
 a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés irányadó e szervezetek nyilvántartásba vétele iránti kérelme benyújtására is.
 

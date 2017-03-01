@@ -4,7 +4,9 @@ a) a szervezet létesítő okiratát és
 
 b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 
-(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.
+(1a) A székhelyhasználat igazolása során a székhelyül szolgáló ingatlan tulajdonosának, vagy a további használat engedélyezésére való joggal rendelkező használójának az ingatlan székhelyként való használathoz való hozzájárulását tartalmazó, legalább teljes bizonyító erejű magánokiratba foglalt nyilatkozatát kell csatolni. Ha a szervezet a székhelyül szolgáló ingatlan tulajdonosa, a tulajdonjogát igazoló okirat másolatát kell a kérelemhez csatolnia.
+
+(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.
 
 (3) Ha a szervezet neve jogi személy, más szervezet vagy természetes személy nevét tartalmazza, a kérelemhez csatolni kell a jogosultnak, illetve örökösének vagy jogutódjának a névhasználathoz hozzájáruló nyilatkozatát.
 

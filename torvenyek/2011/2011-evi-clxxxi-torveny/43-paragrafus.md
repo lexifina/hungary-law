@@ -1,13 +1,11 @@
 43. § (1) A bíróság a szervezetet hivatalból törli a nyilvántartásból
 
-a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése vagy
+a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése alapján vagy
 
-b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet vagy
+b) a szervezet feloszlatásáról rendelkező jogerős ítélet alapján kényszer-végelszámolás lefolytatását követően vagy
 
 c) az egyszerűsített törlési eljárás befejezését követően.
 
-alapján.
+(2) Ha a bíróság a szervezetet feloszlatja, a feloszlatásról szóló jogerős ítéletet megküldi a nyilvántartást vezető bíróságnak.
 
-(2) Ha a bíróság a szervezetet feloszlatja, megszünteti vagy a szervezet megszűnését megállapítja, a feloszlatásról, megszüntetésről vagy a megszűnés megállapításáról szóló jogerős ítéletet megküldi a nyilvántartást vezető bíróságnak.
-
-(3) A (1) bekezdés b) pontjában meghatározott esetben a bíróság a szervezetet – kivéve, ha a szervezetre irányadó jogszabály másképp rendelkezik – a kényszer-végelszámolási eljárás vagy a felszámolási eljárás lefolytatását követően törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
+(3) Ha a szervezetet a bíróság a felszámolási eljárás lefolytatását követően törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.

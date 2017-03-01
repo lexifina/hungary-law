@@ -8,7 +8,7 @@ ba) pénzbeli vagyonrendelés esetén a pénzforgalmi szolgáltató igazolását
 
 bb) – a legalább a működés megkezdéséhez szükséges pénzbeli vagyonrendelésen túlmenően – egyéb vagyonrendelés esetén az alapítói nyilatkozatot,
 
-c) felügyelő szerv esetén a felügyelő szerv tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát és
+c) felügyelőbizottság esetén a felügyelőbizottság tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát és
 
 d) az alapítói jogok gyakorlására kijelölt személynek a kijelölés elfogadására vonatkozó nyilatkozatát.
 

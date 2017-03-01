@@ -6,4 +6,4 @@ a) ha alakuló ülés tartására került sor, az egyesület alakuló üléséne
 
 b) ha alakuló ülés tartására nem került sor, az alapító tagoknak az alapszabályt elfogadó egybehangzó akaratnyilatkozatát tartalmazó okiratot és az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket és
 
-c) az egyesület ügyintéző és képviseleti szerve tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát.
+c) az egyesület ügyvezető és képviseleti szerve tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát.

@@ -1,0 +1,15 @@
+## 36/G. A felügyelőbiztos jogköre
+
+71/H. § (1) Ha a bíróság kérelemre vagy hivatalból végzésében felügyelőbiztost rendel ki, e végzésben meghatározza a felügyelőbiztos feladatkörét. A szervezet vezető tisztségviselői (képviselői) a hatáskörüket csak a felügyelőbiztos részére biztosított jogok megsértése nélkül gyakorolhatják. A bíróság felügyelőbiztosként a szervezettől független, arra alkalmas személyt jelölhet ki az állami szerv vagy kamara által vezetett névjegyzékben szereplő személyek közül – így különösen ügyvéd, közvetítő, könyvvizsgáló, igazságügyi szakértő –, feltéve, hogy ez a személy a megbízatást elvállalja. A felügyelőbiztos a működése során az adott helyzetben általában elvárható gondossággal köteles eljárni. A kötelezettségeinek megszegésével okozott kárért a szerződésszegéssel okozott kárért való felelősség Ptk.-ban foglalt szabályainak megfelelő alkalmazásával felel.
+
+(2) Nem lehet felügyelőbiztos, akinek a Ptk. szerinti közeli hozzátartozója, illetve élettársa a szervezet tagja, vezető tisztségviselője (képviselője), felügyelőbizottsági tagja vagy könyvvizsgálója, valamint az, aki a szervezettel azonos tevékenységet folytató más szervezetben vezető tisztségviselő.
+
+(3) A felügyelőbiztos feladata a szervezet törvényes működésének helyreállításához szükséges intézkedések megtétele. Ennek érdekében a vezető tisztségviselőktől (képviselőktől), illetve a szervezet vezető állású munkavállalóitól felvilágosítást kérhet. A felügyelőbiztos a szervezet esetleges üzleti titkait köteles megőrizni és a birtokába jutott információkról csak a bíróságot tájékoztathatja. A felügyelőbiztos a bíróság felhívására, a bíróság által megadott határidőn belül és módon köteles tevékenységéről beszámolni.
+
+(4) Ha a törvényességi felügyeleti eljárásnak az az oka, hogy a szervezetnek nincs megválasztott vezető tisztségviselője (képviselője), a felügyelőbiztos – a bíróság végzésében meghatározottak szerint – a vezető tisztségviselő (képviselő) jogkörét gyakorolja. Erre tekintettel a bíróság a felügyelőbiztost – szükség esetén a korábbi vezető tisztségviselő (képviselő) törlésével egyidejűleg – a nyilvántartásba hivatalból bejegyzi.
+
+(5) A szervezet vezető munkavállalói, illetve tagjai kötelesek a felügyelőbiztos részére minden olyan eszközt, iratot, illetve információt biztosítani, amely hozzásegíti ahhoz, hogy a vezető tisztségviselői feladatait elláthassa. A felügyelőbiztos kérelmére a bíróság a felügyelőbiztos tevékenységét akadályozó személyt a Pp. 120. §-ában meghatározott pénzbírsággal sújtja. A pénzbírság többször is kiszabható.
+
+(6) Ha a felügyelőbiztos kirendelésére a szervezet tagja kérelmére került sor, a felügyelőbiztos a vezető tisztségviselő (képviselő) jogkörében a halaszthatatlan intézkedések megtételére is jogosult. Szerződést azonban csak akkor köthet, követelést csak akkor ismerhet el, illetve jogról csak akkor mondhat le, ha ezáltal az általa képviselt szervezetet nyilvánvaló károsodástól óvja meg.
+
+(7) Ha a felügyelőbiztos kirendelésére azért került sor, mert a szervezetnek nincs vezető tisztségviselője (képviselője), a bíróság a szervezetnek megküldendő végzését a szervezet székhelyére kézbesíti.

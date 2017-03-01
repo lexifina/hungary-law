@@ -14,6 +14,6 @@ b) olyan kifejezés vagy olyan szervezet neve, amely a XX. századi önkényural
 
 (4b) A bíróság eljárása során vizsgálja a szervezet elnevezésének a (4a) bekezdésben foglaltaknak való megfelelését, és kétség esetén köteles beszerezni a Magyar Tudományos Akadémia állásfoglalását.
 
-(5) Ha a szervezet neve nem felel meg a névkizárólagosság, a névvalódiság vagy a névszabatosság követelményének, továbbá a (4a) bekezdésben foglalt követelményeknek, a bíróság felhívja a kérelmezőt, hogy a létesítő okirat módosításával jelöljön meg olyan nevet, amely megfelel a jogszabályi követelményeknek.
+(5) Ha a szervezet neve nem felel meg a névkizárólagosság, a névvalódiság vagy a névszabatosság követelményének, továbbá a (4a) bekezdésben foglalt követelményeknek, a bíróság a hiánypótlás keretében felhívja a kérelmezőt, hogy a létesítő okirat módosításával jelöljön meg olyan nevet, amely megfelel a jogszabályi követelményeknek.
 
 (6) A szervezet rövidített nevének és idegen nyelvű elnevezésének is meg kell felelnie az (1)–(3) bekezdésben és a 35. § (1) bekezdésében meghatározott követelményeknek.

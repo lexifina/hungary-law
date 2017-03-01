@@ -1,11 +1,15 @@
-## 29. Az alapítvány megszűnésének megállapítására irányuló polgári nemperes eljárás
+## 29. Az alapítvány jogutód nélküli megszűnését eredményező ok megállapítására irányuló polgári nemperes eljárás
 
-59. § (1) Az alapítvány megszűnésének megállapítására irányuló kérelem vagy indítvány esetén a kérelemhez csatolni kell a kérelmet vagy az indítványt alátámasztó okiratokat.
+59. § (1) A bíróság az ügyész indítványára, az alapító (alapítók) vagy más jogilag érdekelt kérelmére megállapítja a jogutód nélküli megszűnési ok bekövetkeztét, ha
 
-(2) Ha a kérelem vagy indítvány előterjesztésének indoka az, hogy az alapító okiratban meghatározott idő eltelt, a kérelemben erre kell hivatkozni.
+a) az alapítványt határozott időre alapították és a meghatározott időtartam eltelt [Ptk. 3:48. § (1) bekezdés a) pont],
 
-(3) Ha az alapítvány megszűnésének megállapítására irányuló kérelemben az alapítvány megszűnésének megállapítását arra hivatkozással kérik, hogy az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód, a bíróság a kérelmet megküldi az alapítványnak.
+b) az alapítvány megszűnése meghatározott feltétel bekövetkezéséhez kötött és e feltétel bekövetkezett [Ptk. 3:48. § (1) bekezdés b) pont],
 
-(4) A bíróság a kérelmet azzal a felhívással küldi meg az alapítványnak, hogy a kézbesítéstől számított harminc napon belül nyilatkozzon arról, hogy a kérelemben foglaltakat vitatja-e.
+c) az alapítvány célját megvalósította, és az alapító új célt nem határozott meg [Ptk. 3:403. § (1) bekezdés a) pont],
 
-(5) Ha a kérelemben foglaltakat az alapítvány vitatja, a bíróság az eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány megszűnésének megállapítását a (3) bekezdésben meghatározott okból, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell. Ha az eljárás megszüntetésének abból az okból, hogy azt az alapítvány vitatja, nincs helye, és az alapító által csatolt iratokból nem állapítható meg, hogy az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód, a bíróság a kérelmet elutasítja. A bíróság a kérelmet elutasító végzésében felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (3) bekezdésben meghatározott okból történő megszűnésének megállapítását, erre az alapítót a kérelmet elutasító végzésben figyelmeztetni kell.
+d) az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód [Ptk. 3:403. § (1) bekezdés b) pont],
+
+e) az alapítvány három éven át a célja megvalósítása érdekében nem folytatott tevékenységet [Ptk. 3:403. § (1) bekezdés c) pont].
+
+(2) Az ügyészt az eljárás indítványozásának joga akkor illeti meg, ha indítványát – az (1) bekezdés a)–e) pontjaiban meghatározott okok valamelyike mellett – közérdek sérelmére alapítja és e közérdek sérelmének fennállását valószínűsíti.

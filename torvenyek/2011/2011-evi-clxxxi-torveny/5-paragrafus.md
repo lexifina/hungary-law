@@ -4,15 +4,17 @@
 
 (2) A bírósági titkár első fokon önállóan önálló aláírási joggal eljárhat, érdemi határozatot hozhat a törvényben szabályozott polgári nemperes eljárásokban.
 
-(3) Az e törvényben szabályozott polgári nemperes eljárásokban az eljárás szünetel, ha
+(3) Az e törvényben szabályozott polgári nemperes eljárásokban, ha
 
-a) a kérelmező nem biztosítja, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok kézbesíthetőek legyenek,
+a) a kérelmező (a szervezet) nem biztosítja, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok kézbesíthetőek legyenek,
 
-b) a belföldi idézési címmel és belföldi idézésű című képviselővel sem rendelkező kérelmező a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető,
+b) a belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező kérelmező (szervezet) a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető,
 
-c) az elektronikus útra kötelezett vagy elektronikus utat választó kérelmező nem biztosítja – külön jogszabályban meghatározott módon – azt, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok elektronikus úton kézbesíthetőek legyenek.
+c) az elektronikus útra kötelezett vagy elektronikus utat választó kérelmező (szervezet) nem biztosítja – külön jogszabályban meghatározott módon – azt, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok elektronikus úton kézbesíthetőek legyenek,
 
-(4) Az eljárás szünetelésről és az eljárás szünetelés okán történő megszűnésről nem kell végzést hozni.
+a bíróság az iratokat hirdetmény útján kézbesíti.
+
+(4) Az irat nem minősül kézbesíthetőnek, ha a kérelmező (szervezet, képviselő, kézbesítési megbízott) lakcíme, illetve székhelye ismeretlen, vagy a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a cím nem azonosítható, a címzett ismeretlen vagy elköltözött, a címzett meghalt vagy megszűnt és a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése nem járt eredménnyel.
 
 (5) Az e törvényben szabályozott polgári nemperes eljárásokban a Pp. határidők számításáról rendelkező 104/A. §-át alkalmazni kell.
 
