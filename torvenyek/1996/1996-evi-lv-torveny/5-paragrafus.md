@@ -1,1 +1,17 @@
-5. § A vadászati jog gyakorlásával, hasznosításával kapcsolatos kötelezettségeket és jogokat az erdőgazdálkodásra, a halgazdálkodásra, a természetvédelemre, a vízgazdálkodásra, az állatvédelemre, az állategészségügyre, az állattenyésztésre, a termőföld-hasznosításra, valamint a növényvédelemre vonatkozó jogszabályok rendelkezéseivel összhangban kell alkalmazni.
+5. § A vadászati jog gyakorlásával, hasznosításával kapcsolatos kötelezettségeket és jogokat
+
+a) a természetvédelemre,
+
+b) az állat- és növényvédelemre,
+
+c) az állategészségügyre és élelmiszer-biztonságra,
+
+d) a mező- és erdőgazdálkodásra,
+
+e) a termőföld-hasznosításra,
+
+f) a vízgazdálkodásra, valamint
+
+g) a halgazdálkodásra
+
+vonatkozó jogszabályok rendelkezéseivel összhangban kell alkalmazni.

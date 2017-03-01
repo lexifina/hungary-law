@@ -10,9 +10,9 @@ d) a szerződésben foglaltak teljesítésének biztosítására szolgáló mell
 
 e) a haszonbérleti díj mértékét.
 
-(2) A haszonbérleti díj mértékét az adott vadászterület vadállományának összetételére, a terület hasznosítási módjára tekintettel kell megállapítani.
+(2) A haszonbérleti díj mértékét az adott vadászterület vadállományának összetételére, a terület hasznosítási módjára tekintettel kell megállapítani. A vadászterületnek minősülő, de a vad elől kerítéssel tartósan elzárt ingatlan után haszonbérleti díj nem jár.
 
-(3) A vadászati jog haszonbérletére kötött szerződést határozott időre, a vadászterületre vonatkozó vadgazdálkodási üzemterv időtartamára kell megkötni.
+(3) A vadászati jog haszonbérletére kötött szerződést határozott időre, a vadászterületre vonatkozó, a vadászati hatóság által jóváhagyott vadgazdálkodási üzemterv időtartamára, legfeljebb azonban 2037. február 28-ig lehet megkötni.
 
 (4) A bérbeadó a vadászati jog haszonbérletére kötött szerződést azonnali hatállyal felmondhatja, ha a haszonbérlő
 
@@ -20,10 +20,12 @@ a) a haszonbérleti szerződésben vállalt, valamint az e törvényben írt kö
 
 b) a vadászati jogot alhaszonbérletbe adja.
 
-(5) Nem minősül a vadászati jog alhaszonbérletbe adásának a vendégvadászat, valamint a bérvadászat.
+(5)
 
 (6) Ha a haszonbérleti szerződés időtartama alatt a haszonbérlő megszűnik, jogutódja harminc napon belül egyoldalú jognyilatkozattal és változatlan feltételekkel folytathatja a haszonbérleti jogviszonyt, feltéve, ha rendelkezik a vadászati jog gyakorlásához, hasznosításához szükséges, e törvény szerinti feltételekkel. Ha a haszonbérlő jogutódja a harminc napos határidőn belül igényét nem kívánja érvényesíteni, vagy ha a vadászati jog gyakorlásához, hasznosításához szükséges törvényi feltételekkel nem rendelkezik, akkor a haszonbérleti szerződés e határidő lejártát követő napon megszűnik.
 
 (7) Ha a haszonbérleti szerződés a (6) bekezdésben foglaltak miatt szűnik meg, vagy ha a haszonbérleti szerződés időtartama alatt a haszonbérlő jogutód nélkül megszűnik, a tulajdonosi közösség képviselőjének a megszűnés időpontját követő hatvan napon belül össze kell hívni a tulajdonosi közösség gyűlését, és annak döntenie kell a vadászati jog hasznosításának módjáról, feltételeiről.
 
 (8) Az (1) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a Magyar Állam önálló vadászati jogát vagyonkezelői szerződés útján hasznosítja.
+
+(9) A vadászati hatóság a haszonbérleti szerződésben foglaltak teljesülését bármikor vizsgálhatja, de legalább a 45. § (2a) bekezdésben meghatározott időszakonként felülvizsgálja, és a 18. § (4) bekezdés b) pontja esetében a vadászatra jogosultat a nyilvántartásból törli.

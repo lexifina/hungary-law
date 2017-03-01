@@ -15,3 +15,5 @@ c) hogy a haszonbérleti díj mértékét nem a 17. § (2) bekezdésében foglal
 (5)
 
 (6) A vadászati jog haszonbérletével kapcsolatos vadászati hatósági határozat bírósági felülvizsgálata során a Polgári perrendtartásnak a közigazgatási perekre vonatkozó szabályai szerint eljáró bíróság a határozatot megváltoztathatja.
+
+(7) A haszonbérleti szerződés azonnali hatállyal megszűnik, ha a vadászati hatóság a vadgazdálkodási üzemtervi cikluson belüli időszakos felülvizsgálata során a vadászatra jogosultat a nyilvántartásából törli.

@@ -8,7 +8,7 @@ c) nyilvántartást vezet a hivatásos vadászokról;
 
 d) a vadászati jog gyakorlásával, hasznosításával összefüggésben statisztikai adatokat gyűjt, illetve szolgáltat;
 
-e) összeállítja és közzéteszi a vadkárbecslői szakértői névsort;
+e) összeállítja és közzéteszi a vadkárfelmérői szakértői névsort;
 
 f) ellátja az állami támogatásokkal kapcsolatos külön jogszabályban írt feladatokat.
 

@@ -1,17 +1,25 @@
 ## A kár megelőzése
 
-78. § (1) A jogosult a károk megelőzése érdekében köteles:
+78. § (1) A vadászatra jogosult a károk megelőzése érdekében köteles
 
-a) amennyiben a vad életmódja ezt indokolja, annak elriasztásáról gondoskodni;
+a) a földhasználók számára elérhető módon a vadkárral kapcsolatos ügyekben hivatalos kapcsolattartót megadni;
 
-b) a károkozás közvetlen veszélye esetén az érintett föld használóját értesíteni;
+b) a vadászati jog gyakorlását úgy megszervezni, hogy az a föld használatával összefüggő gazdasági tevékenységgel összhangban legyen;
 
-c) a vadászati jog gyakorlását úgy megszervezni, hogy az a föld használatával összefüggő gazdasági tevékenységgel összhangban legyen;
+c) a vad általi károkozás vagy a károkozás veszélyének észlelése esetén a föld használóját haladéktalanul értesíteni;
 
-d) szükség esetén vadkárelhárító vadászatokat tartani.
+d) a vadászati hatóság által jóváhagyott éves vadgazdálkodási terv gímszarvasra, dámszarvasra, őzre, muflonra és vaddisznóra vonatkozó részét teljesíteni;
 
-(2) A jogosult a föld tulajdonosának, illetőleg használójának hozzájárulásával vadkárelhárító berendezéseket állíthat fel.
+e) fokozott vadkárveszély esetén a vad riasztásáról gondoskodni, valamint a vadkárral veszélyeztetett területre megfelelő számú és típusú, a vadkár megelőzését vagy elhárítását szolgáló vadgazdálkodási berendezést elhelyezni;
 
-(3) A vadászati jog társult hasznosítása esetén a föld használója az akadályoztatás mértékével arányos kártalanításra tarthat igényt.
+f) ha a vadkár megelőzése másként nem valósítható meg hatékonyan, úgy a föld használójával egyeztetve ideiglenes villanypásztort telepíteni a kár veszélyének fennállása idejére, melynek üzemeltetéséről a vadászatra jogosult és a föld használója közösen gondoskodik;
 
-(4) A jogosult a mezőgazdálkodáson, illetőleg az erdőgazdálkodáson kívül okozott károk megelőzése érdekében – vadveszély esetén – az út létesítőjénél, illetőleg fenntartójánál, továbbá a vasút létesítőjénél, fenntartójánál, valamint üzemeltetőjénél megfelelő védelmi berendezések létesítését, illetőleg közúti, vasúti jelzések elhelyezését kezdeményezheti. Az út, illetve a vasút létesítője, fenntartója, valamint üzemeltetője – amennyiben a jogosult a létesítés vagy az elhelyezés, továbbá a fenntartás, valamint az üzemeltetés költségeit vállalja – köteles a kezdeményezésnek helyt adni.
+g) ha a villanypásztor telepítése nem elegendő a vadkár megelőzéséhez, illetve a vadkár megelőzése másképp nem valósítható meg hatékonyan, úgy a föld használójával egyeztetve más, a vadkár ellen célravezető szakszerű védekezési, illetve riasztási módszerek alkalmazásában közreműködni, illetve ahhoz hozzájárulni;
+
+h) a szükséges mennyiségben és mértékben elterelő etetést végezni;
+
+i) a szükséges mennyiségben és mértékben vadkárelhárító vadászatot folytatni;
+
+j) a nagyvadállomány túlszaporodása esetén – a fokozott vadkárveszélyre tekintettel – a vadászati hatóságnál idényen kívüli állományszabályzó vadászat engedélyezését kezdeményezni.
+
+(2) A vadászatra jogosult a mezőgazdálkodáson, illetve az erdőgazdálkodáson kívül okozott károk megelőzése érdekében – vadveszély esetén – az út létesítőjénél, illetve fenntartójánál, továbbá a vasút létesítőjénél, fenntartójánál, valamint üzemeltetőjénél megfelelő védelmi berendezések létesítését, illetve közúti, vasúti jelzések elhelyezését kezdeményezheti. Az út, illetve a vasút létesítője, fenntartója, valamint üzemeltetője – ha a vadászatra jogosult a létesítés vagy az elhelyezés, továbbá a fenntartás, valamint az üzemeltetés költségeit vállalja – köteles a kezdeményezésnek helyt adni.

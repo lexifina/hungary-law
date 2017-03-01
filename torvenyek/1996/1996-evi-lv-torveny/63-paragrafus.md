@@ -1,6 +1,6 @@
 63. § (1) A vadászati engedély az abban megjelölt vadászatra jogosult vadászterületén jogosít vadászatra.
 
-(2) A vadászati engedélyt a vadászati hatóság legfeljebb egy évre állítja ki.
+(2) A vadászati engedélyt a kamara legfeljebb egy évre állítja ki.
 
 (3) A vadászati engedély kiadásakor a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben megállapított összegű díjat kell fizetni.
 

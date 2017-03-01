@@ -8,6 +8,6 @@ c) állandó lakóhelyének joga szerint megkövetelt vadászlőfegyver-, vagy r
 
 d) a vadászat során másnak okozott károk fedezetére szolgáló érvényes vadászati felelősségbiztosítással.
 
-(2) A vadászati engedélyt a vadászati hatóság akkor állítja ki, ha a kérelmező az (1) bekezdés a) és d) pontja szerinti igazolásokat előzetesen bemutatja.
+(2) A vadászati engedélyt a kamara akkor állítja ki, ha a kérelmező az (1) bekezdés a) és d) pontja szerinti igazolásokat előzetesen bemutatja.
 
 (3)

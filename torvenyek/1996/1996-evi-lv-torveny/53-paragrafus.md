@@ -1,11 +1,13 @@
-53. § (1) A hivatásos vadász a vadászati jog szakszerű gyakorlásának, illetőleg hasznosításának biztosítása érdekében:
+53. § (1) A hivatásos vadász legfőbb feladata a vadgazdálkodás szakszerűségének, valamint a vadászati tevékenység jogszerűségének biztosítása, amelynek érdekében:
 
-a) szakmailag elősegíti a vadgazdálkodási üzemtervben és az éves vadgazdálkodási tervben foglalt előírások teljesítését;
+a) részt vesz az éves vadgazdálkodási terv elkészítésében, biztosítja az abban foglalt előírások teljesítését;
 
 b) ellátja a vadállomány és élőhelyének védelmével kapcsolatos szakfeladatokat;
 
-c) közreműködik a vadászat rendjének, valamint a vadászetikai szabályok megtartásában;
+c) szolgálati tevékenysége során közreműködik a vadállomány szabályozásával kapcsolatos szakfeladatok elvégzésében;
 
-d) köteles az a)–c) pontokkal kapcsolatos megállapításait, intézkedéseit a szolgálati naplóban rögzíteni.
+d) közreműködik a vadászati tevékenységre vonatkozó előírások betartatásában, a vadászattal összefüggő jogellenes cselekmények megakadályozásában, valamint a vadászetikai szabályok megtartásában;
 
-(2) A vadászati hatóság – kérelemre vagy hivatalból – legfeljebb egy évre bevonhatja a hivatásos vadász szolgálati igazolványát, jelvényét és szolgálati naplóját, ha a hivatásos vadász az (1) bekezdés szerinti feladatainak ellátásával kapcsolatos kötelezettségeit megszegi.
+e) az a)–d) ponttal kapcsolatos megállapításait, intézkedéseit a szolgálati naplóban rögzíti.
+
+(2) A vadászati hatóság – a hivatásos vadász munkáltatójának kérelmére vagy hivatalból – a Vadászkamara egyidejű értesítése mellett, kezdeményezheti a rendőrségnél a hivatásos vadász szolgálati jelvényének és szolgálati igazolványának visszavonását, egyúttal a hivatásos vadász szolgálati naplóját bevonja, ha a hivatásos vadász az (1) bekezdés szerinti feladatainak ellátásával kapcsolatos kötelezettségeit felróható módon megszegi.

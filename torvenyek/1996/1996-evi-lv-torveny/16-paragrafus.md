@@ -4,7 +4,7 @@ a) vadászjeggyel rendelkező tagokból álló egyesület (a továbbiakban: vad�
 
 b) a vadásztársaságok érdekképviseleti szerve;
 
-c) a mezőgazdasági, illetve erdőgazdálkodás ágazatba sorolt, Magyarországon bejegyzett gazdasági társaság, szövetkezet, továbbá az erdőbirtokossági társulat, feltéve, ha a vadászterület legalább 25%-át mezőgazdasági, erdőgazdálkodási vagy természetvédelemmel összefüggő gazdasági tevékenység céljából használja.
+c) a természetvédelmi kezelésért felelős központi költségvetési szerv, a mezőgazdasági, erdészeti, vadgazdálkodási oktatást folytató középiskola és felsőoktatási intézmény, a mezőgazdasági, illetve erdőgazdálkodás ágazatba sorolt, Magyarországon bejegyzett gazdasági társaság, szövetkezet, erdőbirtokossági társulat, feltéve, ha a vadászterület legalább 25%-át mezőgazdasági, erdőgazdálkodási vagy természetvédelemmel összefüggő gazdasági tevékenység céljából használja.
 
 (2) Egy haszonbérlő – az (1) bekezdés c) pontja szerinti haszonbérlő kivételével – legfeljebb egy vadászterület vadászati jogára köthet érvényesen haszonbérleti szerződést.
 

@@ -34,7 +34,7 @@ d) az (1) bekezdés d)–h) pontja szerinti esetekben a cselekmény súlyától 
 
 (4) Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a vadászatra jogosult:
 
-a) nem veszi át a vadászati hatóságtól az azonosító jeleket, illetve nem készíti el a felhasználásukra vonatkozó részletes szabályokat, a vadászévre kiadott azonosító jelek felhasználásáról határidőben nem számol el a vadászati hatóságnak, vagy a jogosultság megszűnését követő 15. napig az azonosító jelekkel nem számol el, és a társas, egyéni vadászati naplót, teríték-nyilvántartást, valamint a hivatásos vadász szolgálati naplóját nem adja le a vadászati hatóságnak;
+a) nem veszi át a vadászati hatóságtól az azonosító jeleket, illetve nem készíti el a felhasználásukra vonatkozó részletes szabályokat, a vadászévre kiadott azonosító jelek felhasználásáról határidőben nem számol el a vadászati hatóságnak, az elszámolás nem a valóságnak megfelelő, az azonosító jel helyi szabályait jogszabályellenesen állapítja meg,, vagy a jogosultság megszűnését követő 15. napig az azonosító jelekkel nem számol el, és a társas, egyéni vadászati naplót, teríték-nyilvántartást, valamint a hivatásos vadász szolgálati naplóját nem adja le a vadászati hatóságnak;
 
 b) amennyiben a vadászatra jogosult személyében, valamint a vadászterület határában az üzemtervi ciklust követően nem történt változás, és az új üzemtervi ciklus megkezdését követő 15. napig nem kéri a társas, illetve egyéni vadászati napló és a teríték-nyilvántartás, valamint a hivatásos vadász szolgálati naplója vadászati hatóságnál történő lezárását és ismételt érvényesítését;
 
@@ -48,7 +48,7 @@ ea) az alkalmazás megszűnését 15 napon belül nem jelenti be a vadászati ha
 
 eb) a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadászati hatóság felhívására nem, vagy nem a törvényben foglalt feltételek szerint tesz eleget;
 
-f) elmulasztja a vadászati engedéllyel rendelkező vadász egyéni lőjegyzékébe bejegyezni a vadászterület kódszámát;
+f) az általa vagy hozzájárulásával szervezett vadászaton a 82. § (1) és (2) bekezdésben meghatározott tilalommal érintett egyed elejtésére kerül sor;
 
 g) a vadtenyésztési tevékenységet engedély nélkül folytatja, a vadat engedély nélkül vagy az engedélyben foglaltaktól eltérően tart zárt térben, vadat vadászterületek között engedély nélkül szállít vagy vadat vadászterületre engedély nélkül helyez ki.
 

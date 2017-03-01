@@ -4,11 +4,11 @@
 
 (1a) A vad tulajdonjogának megszerzésére a Polgári Törvénykönyv „A vadak és a halak tulajdonjogának megszerzése” fejezet szabályait kell az e törvényben foglalt eltérésekkel alkalmazni.
 
-(2) A vadászterületen elejtett, elfogott vad (ideértve annak trófeáját is), a hullatott agancs, a szárnyas vad jogszerűen gyűjtött tojása, az elhullott vad teteme a jogosult tulajdonába kerül. A más vadászterületről átváltott sebzett vad – a vadászatra jogosult hozzájárulásával – a sebzés helye szerinti jogosult tulajdonába kerül, ha – a vadászatra jogosult hozzájárulásával – utánkeresés során ejtik el vagy elhullottan fellelik.
+(2) A vadászterületen elejtett, elfogott vad (ideértve annak trófeáját is), a hullatott agancs, a szárnyas vad jogszerűen gyűjtött tojása, az elhullott vad teteme a vadászatra jogosult tulajdonába kerül. A más vadászterületről átváltott sebzett vad a sebzés helye szerinti vadászatra jogosult tulajdonába kerül, ha – a vadászatra jogosult előzetes tájékoztatásával – utánkeresés során ejtik el, vagy elhullottan fellelik.
 
 (3) A nem vadászterületen elhullott vad teteme, valamint a hullatott agancs annak a vadászatra jogosultnak tulajdonába kerül, amelyiknek a vadászterületéről a vad oda került. Kétség esetén tulajdonosnak a fellelés helye szerinti legközelebbi vadászterület vadászatra jogosultját kell tekinteni.
 
-(4) A vadaskertben, a vadasparkban, illetve vadászterületen létesített vadfarmon jogszerűen tartott vad – a vadaspark, illetve a vadfarm fenntartójával kötött eltérő megállapodás hiányában – a jogosult tulajdonában van. A nem vadászterületen létesített vadfarmon jogszerűen tartott vad – eltérő megállapodás hiányában – a vadfarm fenntartójának tulajdonában van.
+(4) A vadaskertben, a vadasparkban, a vadfarmon és az apróvadtartó és -szaporító telepen (a továbbiakban együtt: zárttéri vadtartó létesítmény) jogszerűen tartott vad – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – a zárttéri vadtartó létesítmény üzemeltetőjének tulajdonában van.
 
 (5) A gímszarvas, a dámszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
 

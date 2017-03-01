@@ -1,4 +1,4 @@
-81/A. § A kárbecslési eljárás során a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az alábbiakra vonatkozó rendelkezéseit – az alábbi eltérésekkel – kell megfelelően alkalmazni:
+81/A. § A kárfelmérési eljárás során a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az alábbiakra vonatkozó rendelkezéseit – az alábbi eltérésekkel – kell megfelelően alkalmazni:
 
 a) eljárási alapelvek, nyelvhasználat, tolmács, adatkezelés, áttétel, kapcsolattartás,
 

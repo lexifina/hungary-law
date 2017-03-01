@@ -18,7 +18,7 @@ b)
 
 (3)
 
-(4) A vadászati hatóság az (1)–(2) bekezdésben foglaltak alapján hozott vadászjegy visszavonásáról rendelkező határozata végrehajtásáról – nem kamarai tagok esetén is – az Országos Magyar Vadászkamara területi szervezete intézkedik.
+(4) A kamara az engedély visszavonásáról a nem kamarai tagok esetén is gondoskodik.
 
 (5) A vadászjegy egy évnél hosszabb időtartamra történt visszavonása esetén csak a vadászvizsga újbóli letétele után adható ismételten vadászjegy.
 

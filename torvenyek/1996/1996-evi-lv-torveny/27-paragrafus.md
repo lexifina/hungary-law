@@ -1,16 +1,16 @@
 ## A vadászati jog kényszerhasznosítása
 
-27. § (1) Amennyiben a vadászterületnek minősülő föld tulajdonosa, illetőleg a vadászatra jogosult a 10., 12. és 13. §-okban előírt önálló vagy társult vadászati jog gyakorlási vagy hasznosítási kötelezettségének a vadászati hatóság felszólítását követően sem tesz eleget, vagy a 28–30. §-okban a vad- és élőhelyének védelmére előírt kötelezettségeit megszegi, és ezáltal az adott vadászterület vadlétszámának, nem vadászható állatfaj egyedének és más élő szervezetnek – beleértve a természetvédelmi oltalom alatt álló élő szervezeteket is – a fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a vadászati hatóság – a vad- és élőhelyének védelme, valamint a vadkárok megelőzése érdekében – az érintett tulajdonos költségére határozatában
+27. § (1) Amennyiben a vadászterületnek minősülő föld tulajdonosa, illetőleg a vadászatra jogosult a vadászati jog gyakorlási vagy hasznosítási kötelezettségének a vadászati hatóság felszólítását követően sem tesz eleget, vagy a vad- és élőhelyének védelmére előírt kötelezettségeit megszegi, és ezáltal az adott vadászterület vadlétszámának, nem vadászható állatfaj egyedének és más élő szervezetnek – beleértve a természetvédelmi oltalom alatt álló élő szervezeteket is – a fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a vadászati hatóság – a vad- és élőhelyének védelme, valamint a vadkárok megelőzése érdekében – a fenti cselekményekért, vagy mulasztásokért felelős földtulajdonos vagy vadászatra jogosult költségére határozatában
 
 a) megállapítja a vadászterület határát,
 
-b) a (3) bekezdésben foglaltak figyelembevételével elrendeli, hogy a vadászterületnek minősülő földterület tulajdonosa, illetve – társult vadászati jog esetén – tulajdonosainak közössége a vadászati jog haszonbérbe adásáról a vadászati hatóság által nyilvánosan meghirdetett pályázat alapján kiválasztott haszonbérlővel a vadászati hatóság által megállapított határidőig kössön szerződést, amely határidő elmulasztása esetén a haszonbérleti szerződést a vadászati hatóság az érintett tulajdonos, illetve – társult vadászati jog esetén – a tulajdonosok közössége törvényes képviselőjeként köti meg,
+b) a (3) bekezdésben foglaltak figyelembevételével elrendeli, hogy a vadászterületnek minősülő földterület tulajdonosa, illetve – társult vadászati jog esetén – tulajdonosainak közössége a vadászati jog haszonbérbe adásáról a vadászati hatóság által nyilvánosan meghirdetett pályázat alapján kiválasztott haszonbérlővel a vadászati hatóság által megállapított határidőig kössön szerződést, amely határidő elmulasztása esetén a haszonbérleti szerződést a vadászati hatóság a fenti cselekményekért, vagy mulasztásokért felelős földtulajdonos vagy vadászatra jogosult, illetve – társult vadászati jog esetén – a tulajdonosok közössége törvényes képviselőjeként köti meg,
 
 c) megállapítja a vadászterület vadgazdálkodási üzemtervét,
 
 d) megállapítja a vadászterület éves vadgazdálkodási tervét,
 
-e) gondoskodik az időszerű vadgazdálkodási, illetőleg vadvédelmi munkálatok elvégzéséről,
+e) kijelöli a vadászterületen a vadállomány védelme érdekében a vadgazdálkodási és vadászati tevékenység ellátására alkalmas jogi személyt, illetve kijelölheti a közös képviselő személyét,
 
 f) hatósági vadászatot rendel el,
 
@@ -26,7 +26,7 @@ a) a haszonbérleti szerződést határozott időre, a vadászterületre vonatko
 
 b) a vadászati hatóságnak az az ügyintézője, aki az érintett tulajdonos, illetve tulajdonosok közössége törvényes képviselőjeként a haszonbérleti szerződést megkötötte, a vadászati hatóság által pályázat alapján kiválasztott haszonbérlő, illetve vadászatra jogosult ügyében nem gyakorolhat hatósági jogkört,
 
-c) a haszonbérleti szerződés megkötésében eljáró vadászati hatóság mindaddig gyakorolja a törvényes képviseletből adódó jogait, ameddig a föld tulajdonosa, illetve a tulajdonosok közössége eleget nem tesz a 10. § (2) bekezdésében, illetve a 13. § (3) bekezdésében foglalt kötelezettségének.
+c) a haszonbérleti szerződés megkötésében eljáró vadászati hatóság mindaddig gyakorolja a törvényes képviseletből adódó jogait, ameddig a föld tulajdonosa, illetve a tulajdonosok közössége eleget nem tesz a vadászati jog gyakorlása, hasznosítása feltételeinek.
 
 (4) A (3) bekezdés c) pontja szerinti esetben a kijelölt vadászati hatóság határozatában rendelkezik az eljáró vadászati hatóság törvényes képviseletének megszűnéséről. A törvényes képviselet megszűnésével egyidejűleg e vadászati hatóság köteles a föld tulajdonosa, illetve a tulajdonosok közössége felé elszámolni.
 

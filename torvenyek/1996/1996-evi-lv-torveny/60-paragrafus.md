@@ -10,6 +10,4 @@ c) a vadászat során másnak okozott károk fedezetére szolgáló érvényes v
 
 (2) A vadászjegyet a Vadászkamara állítja ki.
 
-(3) A vadászjegy csak az egyéni lőjegyzék bemutatását követően hosszabbítható meg.
-
-(4) A hivatásos vadász vadászjegyét az eskü letételét követően kell kiállítani.
+(3)–(4)
