@@ -44,7 +44,7 @@ c) középmély lazítás megvalósítása esetén a munkálat elvégzését kö
 
 (9)[^37] Ha a 2013/2014., azaz az ötödik gazdálkodási év vonatkozásában a zöldtrágya növény beforgatása legkésőbb 2014. október 31-ig megtörténik, akkor a zöldtrágyázást megvalósítottnak kell tekinteni.
 
-(10)[^38] A vetésszerkezeti előírások vizsgálatánál azok a területek, amelyekre egy adott évben vis maior kérelem keretében pihentetett hasznosítást adtak meg, az adott gazdálkodási évnél egyéb kultúraként kerülnek figyelembevételre.
+(10)[^38]
 
 [^32]: A 16. § (4) bekezdés b) pontja a 92/2011. (X. 5.) VM rendelet 4. §-ával megállapított szöveg.
 [^33]: A 16. § (6) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
@@ -52,4 +52,4 @@ c) középmély lazítás megvalósítása esetén a munkálat elvégzését kö
 [^35]: A 16. § (7) bekezdés a) pontja a 30/2013. (IV. 30.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^36]: A 16. § (8) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.
 [^37]: A 16. § (9) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.
-[^38]: A 16. § (10) bekezdését a 30/2013. (IV. 30.) VM rendelet 6. § (2) bekezdése iktatta be.
+[^38]: A 16. § (10) bekezdését a 30/2013. (IV. 30.) VM rendelet 6. § (2) bekezdése iktatta be. A 16. § (10) bekezdését az Alkotmánybíróság a 4/2017. (II. 28.) AB határozatának 1. pontjával megsemmisítette 2017. március 1. napjával.

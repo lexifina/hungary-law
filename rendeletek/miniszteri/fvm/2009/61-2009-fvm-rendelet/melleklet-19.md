@@ -80,4 +80,8 @@ Mintavételi eszközök:
 
 – papír vagy etamin zacskók
 
+– rozsdamentes olló, kés, metszőolló,
+
+– mintaazonosító jegy, amelynek tartalmaznia kell a következőket:
+
 [^221]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.

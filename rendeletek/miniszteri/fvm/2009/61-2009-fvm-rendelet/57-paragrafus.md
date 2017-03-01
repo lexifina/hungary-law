@@ -36,7 +36,7 @@ gb) az adott területre az NFA által kiírt haszonbérleti pályázati felhív�
 
 (7)[^140] A (2) és az (5) bekezdésben foglalt esetekben a támogatásra jogosultnak az ügyben eljáró más szerv által kiadott irat másolatát a közlést követő 15 napon belül meg kell küldenie az MVH-nak.
 
-(8)[^141] Kizárólag az 5. gazdálkodási évben bejelentett, és elfogadott vis maior esetén mentesülhetnek az ügyfelek a vetésszerkezetre vonatkozó előírások alól.
+(8)[^141]
 
 [^131]: Az 57. § (4) bekezdése a 35/2010. (XI. 30.) VM rendelet 17. §-ával megállapított szöveg.
 [^132]: Az 57. § (5) bekezdés nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 19. § (3) bekezdés a) pontja szerint módosított szöveg.
@@ -48,4 +48,4 @@ gb) az adott területre az NFA által kiírt haszonbérleti pályázati felhív�
 [^138]: Az 57. § (5) bekezdés g) pontját a 44/2012. (V. 3.) VM rendelet 10. § (3) bekezdése iktatta be, szövege a 139/2012. (XII. 22.) VM rendelet 19. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^139]: Az 57. § (5) bekezdés g) pont ga) alpontja a 139/2012. (XII. 22.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^140]: Az 57. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^141]: Az 57. § (8) bekezdését a 30/2013. (IV. 30.) VM rendelet 6. § (6) bekezdése iktatta be.
+[^141]: Az 57. § (8) bekezdését a 30/2013. (IV. 30.) VM rendelet 6. § (6) bekezdése iktatta be. Az 57. § (8) bekezdését az Alkotmánybíróság a 4/2017. (II. 28.) AB határozatának 1. pontjával megsemmisítette 2017. március 1. napjával.
