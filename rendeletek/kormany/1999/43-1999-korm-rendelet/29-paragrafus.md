@@ -2,26 +2,26 @@
 
 ## 29. § A járóbeteg-szakellátás finanszírozási szerződésében az – Eb. tv.-ben, valamint a Vhr.-ben foglaltakon túl – meg kell határozni:
 
-a)[^335] a járóbeteg-szakellátást nyújtó rendelési helyeket és a lekötött heti szakrendelési óraszámot, valamint a teljesítmény mennyiségét befolyásoló egyéb kapacitás adatokat;
+a)[^336] a járóbeteg-szakellátást nyújtó rendelési helyeket és a lekötött heti szakrendelési óraszámot, valamint a teljesítmény mennyiségét befolyásoló egyéb kapacitás adatokat;
 
-b)[^336] az egyes rendelések által végezhető szakmákat, szaktevékenységeket;
+b)[^337] az egyes rendelések által végezhető szakmákat, szaktevékenységeket;
 
 c) a rendelések azonosítására alkalmas kódszámait;
 
-d)[^337] a gondozóintézetek által végezhető szakmákat, szaktevékenységeket és heti óraszámokat;
+d)[^338] a gondozóintézetek által végezhető szakmákat, szaktevékenységeket és heti óraszámokat;
 
-e)[^338] a nemibeteg-, a tüdőgondozókat (ideértve az ernyőképszűrést is), valamint az onkológiai, a pszichiátriai, az addiktológiai betegek gondozását végző elkülönített részlegeket, továbbá ezek kódszámát;
+e)[^339] a nemibeteg-, a tüdőgondozókat (ideértve az ernyőképszűrést is), valamint az onkológiai, a pszichiátriai, az addiktológiai betegek gondozását végző elkülönített részlegeket, továbbá ezek kódszámát;
 
-f)[^339]
+f)[^340]
 
-g)[^340] a finanszírozó által nem finanszírozott, adott telephelyen működő rendeléseket;
+g)[^341] a finanszírozó által nem finanszírozott, adott telephelyen működő rendeléseket;
 
-h)[^341] a teljesítmény mennyiségét és a teljesítés időbeli ütemezését.
+h)[^342] a teljesítmény mennyiségét és a teljesítés időbeli ütemezését.
 
-[^335]: A 29. § a) pontja a 139/2011. (VII. 21.) Korm. rendelet 9. §-ával megállapított, a 325/2011. (XII. 28.) Korm. rendelet 28. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^336]: A 29. § b) pontja a 139/2011. (VII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^337]: A 29. § d) pontja a 139/2011. (VII. 21.) 18. § b) pontja szerint módosított szöveg.
-[^338]: A 29. § e) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (3) bekezdése, a 192/2015. (VII. 21.) Korm. rendelet 26. § m) pontja szerint módosított szöveg.
-[^339]: A 29. § f) pontját az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.
-[^340]: A 29. § g) pontja a 139/2011. (VII. 21.) 18. § c) pontja szerint módosított szöveg.
-[^341]: A 29. § h) pontját a 293/2002. (XII. 27.) Korm. rendelet 26. §-a (4) bekezdésének e) pontja hatályon kívül helyezte, újonnan a 15/2005. (I. 26.) Korm. rendelet 8. §-a iktatta a szövegbe. Ez utóbbi módosító rendelet 19. §-ának (6) bekezdése alapján az e pontban foglaltakat első alkalommal 2005. évre vonatkozóan kell alkalmazni.
+[^336]: A 29. § a) pontja a 139/2011. (VII. 21.) Korm. rendelet 9. §-ával megállapított, a 325/2011. (XII. 28.) Korm. rendelet 28. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^337]: A 29. § b) pontja a 139/2011. (VII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^338]: A 29. § d) pontja a 139/2011. (VII. 21.) 18. § b) pontja szerint módosított szöveg.
+[^339]: A 29. § e) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (3) bekezdése, a 192/2015. (VII. 21.) Korm. rendelet 26. § m) pontja szerint módosított szöveg.
+[^340]: A 29. § f) pontját az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.
+[^341]: A 29. § g) pontja a 139/2011. (VII. 21.) 18. § c) pontja szerint módosított szöveg.
+[^342]: A 29. § h) pontját a 293/2002. (XII. 27.) Korm. rendelet 26. §-a (4) bekezdésének e) pontja hatályon kívül helyezte, újonnan a 15/2005. (I. 26.) Korm. rendelet 8. §-a iktatta a szövegbe. Ez utóbbi módosító rendelet 19. §-ának (6) bekezdése alapján az e pontban foglaltakat első alkalommal 2005. évre vonatkozóan kell alkalmazni.
