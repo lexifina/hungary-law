@@ -4,7 +4,7 @@
 
 (2) Az iskola- és óvodapszichológiai feladatok koordinátorának a feladatai:
 
-a)[^63] az óvodai, iskolai preventív szűrések járási szintű koordinációja, együttműködés a pszichológiai tárgyú mérésekben és az eredmények kommunikációjában,
+a)[^62] az óvodai, iskolai preventív szűrések járási szintű koordinációja, együttműködés a pszichológiai tárgyú mérésekben és az eredmények kommunikációjában,
 
 b) a nevelési-oktatási intézményekben foglalkoztatott pszichológusok számára legalább havi rendszerességgel szakmai konzultációs foglalkozások szervezése,
 
@@ -22,7 +22,7 @@ h) a pedagógiai szakszolgálatnál önkéntesen bejelentkező, az óvodától, 
 
 (3) Az iskola- és óvodapszichológus koordinátor kapcsolatot tart a miniszter által az országos szakmai irányítási feladatok ellátásában való közreműködésbe bevont Országos Iskolapszichológiai Módszertani Bázissal.
 
-(4)[^64] Ha az Intézmény működési körzetében működő nevelési-oktatási intézményben az iskolapszichológus, óvodapszichológus munkakör nem került betöltésre, az adott munkakör betöltéséig, a nevelési-oktatási intézmény vezetőjének erre vonatkozó írásbeli kérésére az Intézmény támogatást nyújthat az ellátás iránti igény kielégítéséhez.
+(4)[^63] Ha az Intézmény működési körzetében működő nevelési-oktatási intézményben az iskolapszichológus, óvodapszichológus munkakör nem került betöltésre, az adott munkakör betöltéséig, a nevelési-oktatási intézmény vezetőjének erre vonatkozó írásbeli kérésére az Intézmény támogatást nyújthat az ellátás iránti igény kielégítéséhez.
 
-[^63]: A 29. § (2) bekezdés a) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont b) alpontja szerint módosított szöveg.
-[^64]: A 29. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 17. §-a iktatta be.
+[^62]: A 29. § (2) bekezdés a) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont b) alpontja szerint módosított szöveg.
+[^63]: A 29. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 17. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 7. A logopédiai ellátás
 
-25. § (1)[^57] Az Nkt. 18. § (2) bekezdés e) pontja szerinti logopédiai ellátás feladata a hangképzés, a beszéd, a beszélt és írott nyelvi képesség fejlődési és szerzett zavaraihoz, továbbá a specifikus tanulási zavarokhoz (diszlexia, diszortográfia, diszgráfia, diszkalkulia) kapcsolódó prevenciós, állapotmegismerési és terápiás tevékenység.
+25. § (1)[^56] Az Nkt. 18. § (2) bekezdés e) pontja szerinti logopédiai ellátás feladata a hangképzés, a beszéd, a beszélt és írott nyelvi képesség fejlődési és szerzett zavaraihoz, továbbá a specifikus tanulási zavarokhoz (diszlexia, diszortográfia, diszgráfia, diszkalkulia) kapcsolódó prevenciós, állapotmegismerési és terápiás tevékenység.
 
 (2) A logopédiai ellátás igénybevétele – a (3) bekezdésben foglalt vizsgálatokon és (4) bekezdésben foglalt ellátáson való részvétel kivételével – önkéntes alapon történik.
 
@@ -38,4 +38,4 @@ bf) a szülő tájékoztatását kötelezettségeiről és a vizsgálati vélem�
 
 (11) A logopédiai ellátásban való részvétel a gyermek életkorától függetlenül, az annak szükségességét megállapító logopédiai vizsgálat alapján bármikor megkezdhető.
 
-[^57]: A 25. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^56]: A 25. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 38. § (1) bekezdésével megállapított szöveg.

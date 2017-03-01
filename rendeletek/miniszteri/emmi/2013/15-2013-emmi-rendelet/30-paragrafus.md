@@ -34,6 +34,6 @@ c) ismeri, figyelemmel kíséri a Nemzeti Tehetségügyi Adatbázist,
 
 d) ismeri, figyelemmel kíséri a Nemzeti Tehetség Program pályázati kiírásait,
 
-e)[^65] kapcsolatot tart a Nemzeti Tehetségfejlesztési Központtal.
+e)[^64] kapcsolatot tart a Nemzeti Tehetségfejlesztési Központtal.
 
-[^65]: A 30. § (2) bekezdés e) pontja a 45/2016. (XII. 28.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^64]: A 30. § (2) bekezdés e) pontja a 45/2016. (XII. 28.) EMMI rendelet 8. §-a szerint módosított szöveg.

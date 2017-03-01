@@ -6,6 +6,6 @@
 
 (4) Az Intézmény az általa lefolytatott vizsgálat, a gyermekkel, a tanulóval való közvetlen foglalkozás során figyelembe veszi a gyermek, tanuló anyanyelvi sajátosságait.
 
-(5)[^81]
+(5)[^80]
 
-[^81]: A 35. § (5) bekezdését a 8/2014. (I. 30.) EMMI rendelet 32. § c) pontja hatályon kívül helyezte.
+[^80]: A 35. § (5) bekezdését a 8/2014. (I. 30.) EMMI rendelet 32. § c) pontja hatályon kívül helyezte.
