@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1-20-2W
 | --- | --- | --- |
 | 2017-01-03 | 2017-1-20-2W.1 | 1/2017. (I. 3.) NFM rendelet |
 | 2017-01-04 | 2017-1-20-2W.2 | 2010: CXXX. törvény |
+| 2017-03-01 | 2017-1-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

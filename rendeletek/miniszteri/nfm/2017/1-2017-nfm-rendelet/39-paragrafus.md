@@ -4,11 +4,10 @@
 
 (4)[^40]
 
-(5)[^41]
+(5) A 29/2004. BM rendelet 3. számú melléklete az 5. melléklet szerint módosul.
 
-(6)[^42]
+(6)[^41]
 
 [^39]: A 39. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^40]: A 39. § (4) bekezdése a 70. § (3) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^41]: A 39. § (5) bekezdése a 70. § (2) bekezdése alapján 2017. március 1-jén lép hatályba.
-[^42]: A 39. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 39. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
