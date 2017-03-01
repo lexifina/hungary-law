@@ -2,7 +2,7 @@
 
 (2) A vizsga helyszínét az 5. § (4) bekezdés szerinti szabályzatban foglaltak alapján kell meghatározni oly módon, hogy az megfeleltethető legyen a segítő kutya leendő alkalmazási körülményeinek.
 
-(3)[^12] A vizsgabizottság tagjait a vizsgabizottság összehívásáról legkésőbb a vizsga időpontját megelőző 15 nappal írásban értesíteni kell. Ezzel egyidejűleg a közreműködő szervezet honlapján közzé kell tenni
+(3)[^13] A vizsgabizottság tagjait a vizsgabizottság összehívásáról legkésőbb a vizsga időpontját megelőző 15 nappal írásban értesíteni kell. Ezzel egyidejűleg a közreműködő szervezet honlapján közzé kell tenni
 
 a) a vizsga helyszínét,
 
@@ -20,4 +20,4 @@ f) hozzájárulása esetén a segítő kutya gazdájának nevét.
 
 (5) Az eredményes vizsga letételéről a közreműködő szervezet tanúsítványt állít ki a gazda részére.
 
-[^12]: A 7. § (3) bekezdése a 9/2016. (V. 12.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^13]: A 7. § (3) bekezdése a 9/2016. (V. 12.) EMMI rendelet 5. §-ával megállapított szöveg.

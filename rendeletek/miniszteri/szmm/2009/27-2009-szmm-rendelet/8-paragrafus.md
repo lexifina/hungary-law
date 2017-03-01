@@ -10,6 +10,6 @@ d) a szerződésből a kutyát kiképző szervezetre és a gazdára háruló jog
 
 e) a segítő kutyának a kutyát kiképző szervezet részére történő visszaadásának lehetőségét, okait vagy a segítő kutya visszaadásának kizárását.
 
-(2)[^13] A segítő kutya átadásakor a kutyát kiképző szervezet tájékoztatja a gazdát a szavatossági igény érvényesítésének határidejéről.
+(2)[^14] A segítő kutya átadásakor a kutyát kiképző szervezet tájékoztatja a gazdát a szavatossági igény érvényesítésének határidejéről.
 
-[^13]: A 8. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 50. §-ával megállapított szöveg.
+[^14]: A 8. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 50. §-ával megállapított szöveg.
