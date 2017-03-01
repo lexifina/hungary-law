@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-120-00-00
 | 2015-01-22 | 2014. évi XCIII. törvény | 2012-120-00-00.8 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2012-120-00-00.9 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2012-120-00-00.10 |
+| 2017-03-01 | 2015. évi CLXXXIII. törvény | 2012-120-00-00.11 |
