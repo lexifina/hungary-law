@@ -52,29 +52,7 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-3. a Nemzetgazdasági Minisztérium budai Várnegyedben történő 1. pont b) alpontja szerinti elhelyezésének biztosításával összefüggésben
-
-a) felhívja a Miniszterelnökséget vezető minisztert, hogy tegye meg a szükséges intézkedéseket az érintett ingatlan 1/1 tulajdoni hányadú állami tulajdonba kerülése érdekében,
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
-
-b)[^2] felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Korlátolt Felelősségű Társaság útján gondoskodjanak a Budapest I. kerület, Szentháromság tér 6. szám alatti, egykori pénzügyminisztériumi épület eredeti állapotnak megfelelő helyreállításáról, a Nemzetgazdasági Minisztérium elhelyezését biztosító beruházás előkészítéséről és megvalósításáról,
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: az 1. pont b) alpontjának végrehajtásához igazodva
-
-c) felhívja a Miniszterelnökséget vezető minisztert, hogy – a Magyar Nemzeti Levéltárat érintően az emberi erőforrások minisztere bevonásával – gondoskodjon az 1. pont b) alpontja szerinti ingatlanban jelenleg működő állami intézmények megfelelő elhelyezéséről.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-emberi erőforrások minisztere
-
-Határidő: az a) és a b) alpont végrehajtásához igazodva
+3.[^2]
 
 [^1]: A 2. pont a) alpontja az 1208/2016. (IV. 21.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^2]: A 3. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 61. pontja szerint módosított szöveg.
+[^2]: A 3. pontot az 1097/2017. (III. 2.) Korm. határozat 3. pontja visszavonta.
