@@ -12,9 +12,9 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
 
-3. egyetért azzal, hogy a Belügyminisztérium és a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezésével kapcsolatos intézkedésekről szóló 1837/2015. (XI. 24.) Korm. határozat 1. pont b) alpontja szerinti beruházás (a továbbiakban: Beruházás) megvalósításáról az Ingatlan vonatkozásában a tervezési folyamat lezárásáig a Miniszterelnökséget vezető miniszter, azt követően a nemzetgazdasági miniszter gondoskodik;
+3.[^1]
 
-4. felhívja a nemzetgazdasági minisztert, hogy a Beruházás céljára gondoskodjon 15014,0 millió forint forrás rendelkezésre állásáról a 2018. évi központi költségvetésben;
+4.[^2] felhívja a nemzetgazdasági minisztert, hogy a Belügyminisztérium és a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezésével kapcsolatos intézkedésekről szóló 1837/2015. (XI. 24.) Korm. határozat 1. pont b) alpontja szerinti beruházás céljára gondoskodjon 15014,0 millió forint forrás rendelkezésre állásáról a 2018. évi központi költségvetésben;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -28,10 +28,8 @@ emberi erőforrások minisztere
 
 Határidő: 2017. április 30.
 
-6. felhívja a nemzeti fejlesztési minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon az Ingatlan Bethlen Gábor Alapkezelő Zrt. tulajdonában álló részének állami tulajdonba kerüléséről.
+6.[^3]
 
-Felelős: nemzeti fejlesztési miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: 2017. június 1.
+[^1]: A 3. pontot az 1097/2017. (III. 2.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 4. pont az 1097/2017. (III. 2.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 6. pontot az 1097/2017. (III. 2.) Korm. határozat 3. pontja visszavonta.
