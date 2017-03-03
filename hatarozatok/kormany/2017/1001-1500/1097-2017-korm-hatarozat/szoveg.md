@@ -50,6 +50,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. július 1.
 
-2. A Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezéséhez szükséges egyes intézkedésekről szóló 1731/2016. (XII. 13.) Korm. határozat (a továbbiakban: H3.) 4. pontjában a „Beruházás” szövegrész helyébe a „Belügyminisztérium és a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezésével kapcsolatos intézkedésekről szóló 1837/2015. (XI. 24.) Korm. határozat 1. pont b) alpontja szerinti beruházás” szöveg lép.
+2–3.[^1]
 
-3. A Kormány visszavonja a H1. 3. pontját, a H2. 2. pont a) alpontját, valamint a H3. 3. és 6. pontját.
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
