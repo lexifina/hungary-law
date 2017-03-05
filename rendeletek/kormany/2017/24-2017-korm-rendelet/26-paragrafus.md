@@ -4,14 +4,13 @@
 
 a)–k)[^7]
 
-l)[^8]
+l) XXVII/A. Fejezete,
 
-m)[^9]
+m)[^8]
 
-(2)–(5)[^10]
+(2)–(5)[^9]
 
 [^6]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: A 26. § (1) bekezdés a)–k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 26. § (1) bekezdés l) pontja a 27. § (2) bekezdése alapján 2017. március 5-én lép hatályba.
-[^9]: A 26. § (1) bekezdés m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 26. § (2)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 26. § (1) bekezdés m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 26. § (2)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
