@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1885-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-28 | 2016-1885-30-22.1 | 1885/2016. (XII. 28.) Korm. határozat |
+| 2017-03-06 | 2016-1885-30-22.2 | 1104/2017. (III. 6.) Korm. határozat |

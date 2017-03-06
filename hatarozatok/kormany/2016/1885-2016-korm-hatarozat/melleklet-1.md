@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2017. június 30.
+## Határidő: 2018. június 30.[^1]
 
 1. melléklet az 1885/2016. (XII. 28.) Korm. határozathoz
 
@@ -81,3 +81,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1104/2017. (III. 6.) Korm. határozat 16. pontja szerint módosított szöveg.
