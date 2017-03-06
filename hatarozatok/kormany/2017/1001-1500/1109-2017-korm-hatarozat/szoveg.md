@@ -1,0 +1,1 @@
+A Modern Városok Program részeként Sopron történelmi belvárosának műemléki felújításának és bemutatásának I. üteméhez kapcsolódó források biztosításáról szóló 1877/2016. (XII. 28.) Korm. határozat 2. pont c) alpontjában az „1700,0” szövegrész helyébe az „1980,0” szöveg lép.
