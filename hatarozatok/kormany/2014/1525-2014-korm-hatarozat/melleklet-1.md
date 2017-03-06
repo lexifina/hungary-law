@@ -34,7 +34,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. december 31.
 
 ## 5. felhívja az emberi erőforrások miniszterét, hogy az 1. pontban foglalt feladat ellátásához az NSK közalkalmazotti létszámának 4 státusszal történő bővítése érdekében tegye meg a szükséges intézkedéseket a 4. pontban biztosított forrás terhére;
 
@@ -116,4 +116,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 20. pontja szerint módosított szöveg.
+[^1]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
