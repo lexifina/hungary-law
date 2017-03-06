@@ -172,7 +172,7 @@ Szabolcs Attila (Fidesz)[^33]
 
 Witzmann Mihály (Fidesz)
 
-dr. Legény Zsolt (MSZP)[^34]
+Demeter Márta (független)[^34]
 
 Hegedűs Lorántné (Jobbik)
 
@@ -322,7 +322,7 @@ Szabolcs Attila (Fidesz)
 
 Tagok:
 
-Dunai Mónika (Fidesz)[^54]
+L. Simon László (Fidesz)[^54]
 
 Petneházy Attila (Fidesz)
 
@@ -530,7 +530,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^31]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^32]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^33]: A 29/2014. (VI. 26.) OGY határozat 3. pontjával megállapított szöveg.
-[^34]: A 29/2016. (XI. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^34]: Az 5/2017. (III. 10.) OGY határozat 1. pontjával megállapított szöveg.
 [^35]: A 26/2014. (VI. 24.) OGY határozat 1. pontjával megállapított szöveg.
 [^36]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^37]: A 25/2014. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
@@ -550,7 +550,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^51]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^52]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^53]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^54]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^54]: Az 5/2017. (III. 10.) OGY határozat 1. pontjával megállapított szöveg.
 [^55]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^56]: A 14/2016. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^57]: A 29/2014. (VI. 26.) OGY határozat 2. pontjával megállapított szöveg.
