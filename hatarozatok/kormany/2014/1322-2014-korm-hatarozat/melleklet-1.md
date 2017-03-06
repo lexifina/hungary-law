@@ -34,7 +34,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. június 30.
 
 1. melléklet az 1322/2014. (V. 30.) Korm. határozathoz
 
@@ -96,4 +96,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 6. pont az 1071/2016. (II. 25.) Korm. határozat 19. pontja szerint módosított szöveg.
+[^1]: A 6. pont az 1104/2017. (III. 6.) Korm. határozat 7. pontja szerint módosított szöveg.
