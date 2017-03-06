@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. december 31.
 
 ## 2.[^2] a dél-pesti utánpótlás-nevelési centrum beruházáshoz kapcsolódó 2014. évben szükséges 314,8 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a 2. melléklet szerint.
 
@@ -24,9 +24,9 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. december 31.
 
 1. melléklet az 1527/2014. (IX. 18.) Korm. határozathoz
 
-[^1]: Az 1. pont az 1071/2016. (II. 25.) Korm. határozat 12. pont a) alpontja szerint módosított szöveg.
-[^2]: A 2. pont az 1071/2016. (II. 25.) Korm. határozat 12. pont b) alpontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1104/2017. (III. 6.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1104/2017. (III. 6.) Korm. határozat 10. pontja szerint módosított szöveg.
