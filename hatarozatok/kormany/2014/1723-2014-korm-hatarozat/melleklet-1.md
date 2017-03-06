@@ -34,7 +34,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. június 30.
 
 ## 5. felhívja az emberi erőforrások miniszterét, hogy a Nemzeti Sportközpontok közalkalmazotti létszámának kettő státusszal történő – a Beruházások megvalósításáig tartó, határozott idejű – bővítése érdekében tegye meg a szükséges intézkedéseket a központi költségvetés emberi erőforrások minisztere irányítása alá tartozó fejezetben rendelkezésre álló előirányzatból;
 
@@ -56,4 +56,4 @@
 
 [^1]: Az 1. pont b) alpontja az 1071/2016. (II. 25.) Korm. határozat 13. pontjával megállapított szöveg.
 [^2]: A 2. pont az 1071/2016. (II. 25.) Korm. határozat 14. pontjával megállapított szöveg.
-[^3]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 15. pontja szerint módosított szöveg.
+[^3]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 12. pontja szerint módosított szöveg.
