@@ -16,9 +16,9 @@
 
 ## 8.[^3]
 
-## 9. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1180/2016. (IV. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet 7. Nemzeti Örökség Intézete cím javára a K6. Beruházások kiemelt előirányzatra átcsoportosított 137 150 ezer forintból 38 100 ezer forint a K7. Felújítások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
+## 9.[^4]
 
-## 10.[^4]
+## 10.[^5]
 
 ## 11. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1182/2016. (IV. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára a K3. Dologi kiadások kiemelt előirányzatra átcsoportosított 37,9 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -257,4 +257,5 @@ Költségvetési év: 2016.
 [^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. pontot az 1104/2017. (III. 6.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^5]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
