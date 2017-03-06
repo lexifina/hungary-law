@@ -36,7 +36,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. december 31.
 
 ## 5.[^4]
 
@@ -108,5 +108,5 @@
 
 [^1]: A 2a. pontot az 1249/216. (V. 25.) Korm. határozat 4. pontja iktatta be.
 [^2]: A 3. pont az 1071/2016. (II. 25.) Korm. határozat 8. pontjával megállapított szöveg.
-[^3]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^3]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 9. pontja szerint módosított szöveg.
 [^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
