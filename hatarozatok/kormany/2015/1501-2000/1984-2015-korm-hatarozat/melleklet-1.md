@@ -16,10 +16,12 @@
 
 ## Határidő: azonnal
 
-## 3. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 2. pont szerint átcsoportosított előirányzattal történő elszámolásról, illetve a fel nem használt előirányzat XIX. Uniós fejlesztések fejezet részére történő visszafizetéséről.
+## 3.[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 2. pont szerint átcsoportosított előirányzattal történő elszámolásról, illetve a fel nem használt előirányzat XIX. Uniós fejlesztések fejezet részére történő visszafizetéséről.
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: 2016. december 31.
+## Határidő: 2017. augusztus 31.
 
 1. melléklet az 1984/2015. (XII. 23.) Korm. határozathoz
+
+[^1]: A 3. pont az 1104/2017. (III. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
