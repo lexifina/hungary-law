@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 30 212,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 30 212,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,19 +10,19 @@
 
 ## Felelős: Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított 5183,5 millió forint tekintetében 2018. június 30.
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1168/2015. (III. 24.) Korm. határozat 1. pontja szerint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 100,0 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 3–4.[^1]
+## 3–4.[^2]
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1049/2016. (II. 15.) Korm. határozat szerint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 74. Egyes kiemelt rekonstrukciók és szakmai programok támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 68,0 millió forintból 28,9 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6.[^2]
+## 6.[^3]
 
 ## 7. A Plácido Domingo és Renée Fleming budapesti fellépésének megvalósításáról szóló 1311/2016. (VI. 13.) Korm. határozatban (a továbbiakban: Határozat) foglaltaktól eltérően a Kormány úgy dönt, hogy a Határozat alapján biztosítandó forrás Plácido Domingo és más meghívott fellépők 2016. augusztus 10-i budapesti fellépésének megvalósítására használható fel.
 
-## 8.[^3]
+## 8.[^4]
 
 ## 9. A Kormány egyetért azzal, hogy a karitatív szervezetek támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1659/2015. (IX. 15.) Korm. határozat szerint biztosított 199,5 millió forintból 9 945 377 forint a XX. Emberi Erőforrások Minisztériuma fejezet, 30. Fejezeti kezelésű előirányzatok cím, 25. Társadalmi, civil és non-profit szervezetek működési támogatása jogcímcsoport, 21. Karitatív tevékenységet végző szervezetek támogatása jogcímen, a Johannita Segítő Szolgálat támogatására használható fel, mely összeg elszámolási és felhasználási határideje 2017. március 31.
 
@@ -228,6 +228,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1104/2017. (III. 6.) Korm. határozat 15. pontja szerint módosított szöveg.
+[^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
