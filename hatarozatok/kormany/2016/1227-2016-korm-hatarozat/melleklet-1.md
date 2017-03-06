@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a vajdasági magyarság kiemelt jelentőségű programjai és megkezdett beruházásai finanszírozása érdekében, valamint a Kárpátalján és Erdélyben megvalósuló programok, beruházások és támogatások finanszírozása érdekében 3111,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a vajdasági magyarság kiemelt jelentőségű programjai és megkezdett beruházásai finanszírozása érdekében, valamint a Kárpátalján és Erdélyben megvalósuló programok, beruházások és támogatások finanszírozása érdekében 3111,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2017. június 30.
+## Határidő: 2018. június 30.
 
 ## 2. A Kormány felhívja a nemzetgazdasági minisztert, hogy az 1. pontban meghatározott célok érdekében további 5183,5 millió forint biztosításáról gondoskodjon a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára.
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1104/2017. (III. 6.) Korm. határozat 14. pontja szerint módosított szöveg.
