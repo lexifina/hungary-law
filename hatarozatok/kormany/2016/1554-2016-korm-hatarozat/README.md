@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1554-30
 | --- | --- | --- |
 | 2016-10-13 | 2016-1554-30-22.1 | 1554/2016. (X. 13.) Korm. határozat |
 | 2016-10-14 | 2016-1554-30-22.2 | 2010: CXXX. törvény |
+| 2017-03-07 | 2016-1554-30-22.3 | 1114/2017. (III. 7.) Korm. határozat |
