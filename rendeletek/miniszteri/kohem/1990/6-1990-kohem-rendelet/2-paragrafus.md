@@ -88,6 +88,8 @@ c) a mintázat magassága (bordázat mélysége) meghaladja a 4 mm-t.
 
 (18)[^26] A rendelet alkalmazásában mezőgazdasági pótkocsi a mezőgazdasági vontató vagy traktor által vontatott pótkocsi, továbbá a lassú jármű által vontatott olyan pótkocsi, amellyel rendszeresen mezőgazdasági termények szállítását végzik.
 
+(19)[^27] E rendelet alkalmazásában lakóautó a különleges rendeltetésű, M kategóriába sorolt, szálláshelyet magában foglalóként épített jármű, amelyben megfelelő módon rögzített ülések, rakodóterek, alvásra alkalmas fekvőhelyek, főtt étel készítésére alkalmas berendezések találhatók.
+
 [^4]: A 2. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 40/2015. (VI. 30.) NFM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (4) bekezdését a 13/1993. (V. 12.) KHVM rendelet 1. §-a iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 1. § (1) bekezdése iktatta be.
@@ -111,3 +113,4 @@ c) a mintázat magassága (bordázat mélysége) meghaladja a 4 mm-t.
 [^24]: A 2. § (17) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
 [^25]: A 2. § (17a) bekezdését a 72/2013. (XII. 2.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^26]: A 2. § (18) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
+[^27]: A 2. § (19) bekezdését a 4/2017. (III. 2.) NFM rendelet 2. §-a iktatta be.

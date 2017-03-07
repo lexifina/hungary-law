@@ -46,6 +46,8 @@
 
 ## A – jel azt mutatja, hogy az adott előírás alkalmazása az illető eljárásban nem kötelező, azonban azt a megfelelőség megállapítására iránymutatónak kell tekinteni. Nemzetközi előírás hiányában az MR. vonatkozó rendelkező részét kell alkalmazni, ha van ilyen. Üres mezők utalnak a nem értelmezett esetekre, valamint arra, ha a jelzett előírás változatnak való megfelelőség teljes jármű valamely jóváhagyási eljárásában nem fogadható el.
 
+## 5.1. Ha az 1. és 2. számú táblázatban „K” vagy „C” jel szerepel, de a közlekedési hatóság által nyilvántartott típusvizsgáló szervezetek egyike sem jogosult az adott előírás tekintetében vizsgálatok lefolytatására, az adott alkatrészre vagy tulajdonságra vonatkozó előírás helyett elfogadható az SAE (Society of Automotive Engineers) vagy a D.O.T. (US. Department of Transportation) minősítési rendszer előírásainak megfelelő, közúti közlekedésre való alkalmasságot igazoló minősítés is.
+
 ## 6. Az alkalmazási kötelezettség járműkategóriához történő hozzárendelése (tárgyi hatály) az egyes mellékletek hatályáról rendelkező részben található. Egyes előírások tárgyi hatálya és követelményrendszere a kategóriákon belüli további megkülönböztető jegyek függvénye.
 
 ## Mindazonáltal:
@@ -292,7 +294,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
 
-## 6K83880O_1
+## 7K00739M_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
@@ -508,7 +510,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
 
-## 6K83880O_6
+## 7K00739M_6
 
 | MR | ENSZ-EGB | EK (EGK) | Műszaki terület | A | B |
 
@@ -794,6 +796,6 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^257]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^259]
 
-[^257]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^259]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
