@@ -12,35 +12,11 @@
 
 ## Határidő: 2018. június 30.
 
-## 2. Az operatív programok végrehajtásával összefüggésben a XIX. Uniós fejlesztések és a XV. Nemzetgazdasági Minisztérium fejezetek közötti előirányzat-átcsoportosításról szóló 1984/2015. (XII. 23.) Korm. határozat 3. pontjában a „2016. december 31.” szövegrész helyébe a „2017. augusztus 31.” szöveg lép.
-
-## 3. A Lakitelek Népfőiskola 2016–2017. évi beruházásának megvalósításához szükséges többletforrás biztosításáról szóló 1129/2016. (III. 10.) Korm. határozat 1. pontjában a „2017. március 31.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1220/2016. (IV. 29.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
+## 2–4.[^1]
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1180/2016. (IV. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 7. Nemzeti Örökség Intézete cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 137 150 ezer forintból 97 087 ezer forint a K3. Dologi kiadások kiemelt előirányzaton, valamint 13 039 ezer forint a K7. Felújítások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6. Hatályát veszti az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1245/2016. (V. 18.) Korm. határozat 9. pontja.
-
-## 7. A Budai Lovas- és Szabadidőközpont megvalósításához szükséges intézkedésekről szóló 1322/2014. (V. 30.) Korm. határozat 6. pontjában a „2016. június 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
-
-## 8. A gödöllői uszoda beruházási program megvalósításáról, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1525/2014. (IX. 18.) Korm. határozat 4. pontjában a „2016. június 30.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 9. A nyugat-magyarországi utánpótlás-nevelési centrum megvalósítási koncepciójáról és a szükséges pénzügyi fedezet biztosításáról, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1526/2014. (IX. 18.) Korm. határozat 4. pontjában a „2016. június 30.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 10. A pécsi Nemzeti Kosárlabda Akadémia, valamint a dél-pesti utánpótlás-nevelési centrum beruházások megvalósításához szükséges források biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1527/2014. (IX. 18.) Korm. határozat 1. és 2. pontjában a „2016. június 30.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 11. A tatabányai multifunkcionális csarnok beruházás egyes kérdéseiről, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1566/2014. (X. 2.) Korm. határozat 4. pontjában a „2016. június 30.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 12. A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló izsáki és dunakeszi iskolaépítés egyes kérdéseiről, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1723/2014. (XII. 5.) Korm. határozat 4. pontjában a „2016. június 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
-
-## 13. A Téry Ödön Nemzeti Turistaház-fejlesztési Program keretében megvalósuló infrastruktúra-fejlesztésekkel összefüggő intézkedésekről szóló 1377/2015. (VI. 9.) Korm. határozat 5. pontjában a „2016. június 30.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 14. A nemzetpolitikailag kiemelt jelentőségű programok és megkezdett beruházások megvalósításához szükséges források biztosításáról szóló 1227/2016. (V. 2.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 15. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1348/2016. (VII. 6.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított 5183,5 millió forint tekintetében 2018. június 30.” szöveg lép.
-
-## 16. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1885/2016. (XII. 28.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
+## 6–16.[^2]
 
 1. melléklet az 1104/2017. (III. 6.) Korm. határozathoz
 
@@ -183,3 +159,6 @@ Költségvetési év: 2017.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6–16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
