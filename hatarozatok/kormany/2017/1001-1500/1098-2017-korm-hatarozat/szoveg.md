@@ -50,4 +50,6 @@ Határidő: folyamatos
 
 7. egyetért azzal, hogy a 2. pontban meghatározott új Puskás Ferenc Stadion megvalósítása tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni;
 
-8. visszavonja a Nemzeti Olimpiai Központ megteremtéséről szóló 1207/2013. (IV. 15.) Korm. határozatot.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
