@@ -1,0 +1,7 @@
+14. § (1) A telepítés elvégzésének tényét az engedélyesnek a végrehajtást követő 15 napon belül írásban be kell jelentenie a hegybíró részére. A bejelentés adattartalmát és formátumát a HNT honlapján teszi közzé. A bejelentéshez mellékelni kell az ültetvényleltárt és a szőlő szaporítóanyag származási igazolvány másolati példányát.
+
+(2) A hegybíró az engedélyes által tett bejelentés kézhezvételét követően ellenőrzi a telepítés és a fajtaváltás végrehajtását, legkésőbb a bejelentést követő vegetációs időszak végéig.
+
+(3) Amennyiben a hegybíró az ellenőrzése során megállapítja, hogy a telepített szőlőültetvény mérete az engedélyben szereplő területnagyságot – a területmérésre alkalmazott eszköz és módszer tűréshatárát is figyelembe véve – meghaladja, a ténylegesen mért területnagyság és az engedélyben szereplő területnagyság különbsége eredményeként kapott területnagyságot engedély nélkül végzett telepítésnek minősíti. Az engedély nélkül végzett telepítés tényének megállapításáról a hegybíró – az ellenőrzési jegyzőkönyv másolatának megküldésével – értesíti a borászati hatóságként eljáró járási hivatalt (a továbbiakban: járási hivatal).
+
+(4) Amennyiben a Pest Megyei Kormányhivatal a szőlőültetvények szerkezetátalakítási és átállítási támogatás felhasználása keretében végzett telepítést ellenőrizte, a hegybíró a Pest Megyei Kormányhivatal ellenőrzési jegyzőkönyvének jogsegély keretében történő bekérésével is teljesítheti az ellenőrzést.

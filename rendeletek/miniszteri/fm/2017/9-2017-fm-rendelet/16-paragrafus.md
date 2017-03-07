@@ -1,0 +1,1 @@
+## 15. § Amennyiben az új telepítési engedéllyel vagy újratelepítési engedéllyel rendelkező engedélyes az engedély érvényességi idején belül nem végzi el a telepítést – az ültetvény más fajtára történő cseréje és a fajtaváltás kivételével –, az engedélyes új telepítési engedély iránti kérelmet a lejárt engedély lejárati napjától számított két naptári éven belül nem nyújthat be.
