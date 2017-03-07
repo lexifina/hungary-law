@@ -1,5 +1,3 @@
-## XI. Fejezet[^303]
+## XI. Fejezet[^304]
 
-27. §
-
-[^303]: A XI. Fejezetet (27. §) a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés k) pontja hatályon kívül helyezte.
+[^304]: A XI. Fejezetet (27. §) a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés k) pontja hatályon kívül helyezte.

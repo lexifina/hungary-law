@@ -16,26 +16,26 @@ kell alkalmazni.
 
 (5) E rendelet hatálybalépése előtt indult eljárásokat az eljárás megindulásának időpontjában hatályos jogszabályok szerint kell lefolytatni.
 
-(6)[^310] A rendelet 11. § (3) bekezdés a) pontja alatti rendelkezést trolibuszok időszakos vizsgálatára 2013. január 1-jétől kell alkalmazni.
+(6)[^311] A rendelet 11. § (3) bekezdés a) pontja alatti rendelkezést trolibuszok időszakos vizsgálatára 2013. január 1-jétől kell alkalmazni.
 
-(7)[^311] A rendelet 20/B.§ (1) bekezdés szerinti forgalomba helyezés előtti vizsgálatot nem kell elvégezni a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló miniszteri rendelet alapján 2011. december 31. napját megelőzően pályaszámmal ellátott trolibuszok esetében.
+(7)[^312] A rendelet 20/B.§ (1) bekezdés szerinti forgalomba helyezés előtti vizsgálatot nem kell elvégezni a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló miniszteri rendelet alapján 2011. december 31. napját megelőzően pályaszámmal ellátott trolibuszok esetében.
 
-(7a)[^312] A 2011. december 7-ét megelőzően külföldről behozott autóbuszt a trolibusszá történő átalakítás engedélyezési eljárás során – autóbuszként történő forgalomba helyezése nélkül – már forgalomba helyezett járműnek kell tekinteni és a jármű trolibuszként az átalakítást követő időszakos vizsgálat alapján helyezhető forgalomba.
+(7a)[^313] A 2011. december 7-ét megelőzően külföldről behozott autóbuszt a trolibusszá történő átalakítás engedélyezési eljárás során – autóbuszként történő forgalomba helyezése nélkül – már forgalomba helyezett járműnek kell tekinteni és a jármű trolibuszként az átalakítást követő időszakos vizsgálat alapján helyezhető forgalomba.
 
-(8)[^313] A (7) bekezdésben meghatározott trolibuszok időszakos vizsgálatát első alkalommal 2012. december 31-ig kell elvégezni.
+(8)[^314] A (7) bekezdésben meghatározott trolibuszok időszakos vizsgálatát első alkalommal 2012. december 31-ig kell elvégezni.
 
-(9)[^314] A 16.§ alapján a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet módosításáról szóló 22/2012. (V. 8.) NFM rendelet hatálybalépését megelőzően kiadott sorozat átalakítási engedélyek érvényességi ideje:
+(9)[^315] A 16.§ alapján a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet módosításáról szóló 22/2012. (V. 8.) NFM rendelet hatálybalépését megelőzően kiadott sorozat átalakítási engedélyek érvényességi ideje:
 
 a) 2012. december 31., amennyiben az engedélyt 2010. évet megelőzően adták ki,
 
 b) az engedély kiadásától számított öt év, amennyiben az engedélyt 2009. december 31-ét követően adták ki.
 
-(10)[^315] A Módr. hatálybalépését[^316] megelőzően, a nem szaktanfolyami képzés keretében megszerzett képesítéseket a szaktanfolyami képzés keretében szerzett képesítésnek kell tekinteni.
+(10)[^316] A Módr. hatálybalépését[^317] megelőzően, a nem szaktanfolyami képzés keretében megszerzett képesítéseket a szaktanfolyami képzés keretében szerzett képesítésnek kell tekinteni.
 
-[^310]: A 30. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 25. §-ának 3. pontja hatályon kívül helyezte, újonnan a 62/2011. (XI. 29.) NFM rendelet 12. §-a iktatta be.
-[^311]: A 30. § (7) bekezdését a 62/2011. (XI. 29.) NFM rendelet 12. §-a iktatta be.
-[^312]: A 30. § (7a) bekezdését a 65/2012. (XII. 10.) NFM rendelet 6. §-a iktatta be.
-[^313]: A 30. § (8) bekezdését a 62/2011. (XI. 29.) NFM rendelet 12. §-a iktatta be.
-[^314]: A 30. § (9) bekezdését a 22/2012. (V. 8.) NFM rendelet 9. §-a iktatta be.
-[^315]: A 30. § (10) bekezdését a 71/2013. (XII. 2.) NFM rendelet 5. §-a iktatta be.
-[^316]: A hatálybalépés időpontja 2013. december 10.
+[^311]: A 30. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 25. §-ának 3. pontja hatályon kívül helyezte, újonnan a 62/2011. (XI. 29.) NFM rendelet 12. §-a iktatta be.
+[^312]: A 30. § (7) bekezdését a 62/2011. (XI. 29.) NFM rendelet 12. §-a iktatta be.
+[^313]: A 30. § (7a) bekezdését a 65/2012. (XII. 10.) NFM rendelet 6. §-a iktatta be.
+[^314]: A 30. § (8) bekezdését a 62/2011. (XI. 29.) NFM rendelet 12. §-a iktatta be.
+[^315]: A 30. § (9) bekezdését a 22/2012. (V. 8.) NFM rendelet 9. §-a iktatta be.
+[^316]: A 30. § (10) bekezdését a 71/2013. (XII. 2.) NFM rendelet 5. §-a iktatta be.
+[^317]: A hatálybalépés időpontja 2013. december 10.

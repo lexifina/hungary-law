@@ -28,6 +28,8 @@
 
 (14)[^63] A (13) bekezdés és a 4/C. § rendelkezéseit megfelelően alkalmazni kell az Európai Gazdasági Térségben nem részes államban nyilvántartásba vett azon gépjárműre, amely a vámmentességek közösségi rendszerének létrehozásáról szóló 2009. november 16-i 1186/2009/EK tanácsi rendelet 3–11. cikke szerint természetes személyhez tartozó személyes vagyontárgynak minősül.
 
+(15)[^64] Az egyedileg gyártott, a 2. § (10) bekezdésében meghatározott járműsorozatba nem tartozó, új, különleges ipari vagy szolgáltatási tevékenység gyakorlására szolgáló, áruszállításra nem alkalmas, N2, N3, O3, O4 járműkategóriába tartozó jármű, továbbá az M1 járműkategóriába tartozó járművek közül a lakóautó egyedi behozatala esetében a (8) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a (8) bekezdésben meghatározott műszaki feltételek tekintetében az EK jóváhagyási kötelezettségek helyett elfogadható az MR. 1. melléklet 5. pontja szerinti nemzetközileg elfogadott minősítési rendszer előírásainak megfelelő, közúti közlekedésre való alkalmasságot igazoló minősítés is.
+
 [^48]: A 4. § a 12/1998. (V. 22.) KHVM rendelet 3. §-ával megállapított szöveg.
 [^49]: A 4. § (1) bekezdése a 43/2001. (XII. 18.) KöViM rendelet 3. § (1) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^50]: A 4. § (2) bekezdése a 27/2010. (III. 31.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -44,3 +46,4 @@
 [^61]: A gépjármű fenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
 [^62]: A 4. § (13) bekezdését a 34/2004. (III. 30.) GKM rendelet 2. §-a iktatta be, szövege a 105/2007. (XII. 23.) GKM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^63]: A 4. § (14) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 2. § (3) bekezdése iktatta be, szövege a 30/2014. (VI. 27.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^64]: A 4. § (15) bekezdését a 4/2017. (III. 2.) NFM rendelet 1. §-a iktatta be.
