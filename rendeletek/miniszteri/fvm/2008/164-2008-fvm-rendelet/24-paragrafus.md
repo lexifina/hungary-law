@@ -1,4 +1,4 @@
-## 24. §[^63] Ez a rendelet
+## 24. §[^60] Ez a rendelet
 
 a) a kedvtelésből tartott állatok nem kereskedelmi célú mozgásáról és a 998/2003/EK rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 576/2013/EU európai parlamenti és tanácsi rendelet, és
 
@@ -10,7 +10,7 @@ Melléklet a 164/2008. (XII. 20.) FVM rendelethez
 
 Az oltási könyv minimális tartalmi követelményei
 
-A)[^64] Az 576/2013/EU európai parlamenti és tanácsi rendelet szerinti, a kutyák, macskák és görények nem kereskedelmi célú mozgásához szükséges azonosító okmányok mintájáról, területek és harmadik országok jegyzékének, valamint bizonyos feltételeknek való megfelelést igazoló nyilatkozatok formátumának, külső megjelenésének és nyelvének megállapításáról szóló, 2013. június 28-i 577/2013/EU bizottsági végrehajtási rendelet III. melléklete szerinti útlevél, vagy
+A)[^61] Az 576/2013/EU európai parlamenti és tanácsi rendelet szerinti, a kutyák, macskák és görények nem kereskedelmi célú mozgásához szükséges azonosító okmányok mintájáról, területek és harmadik országok jegyzékének, valamint bizonyos feltételeknek való megfelelést igazoló nyilatkozatok formátumának, külső megjelenésének és nyelvének megállapításáról szóló, 2013. június 28-i 577/2013/EU bizottsági végrehajtási rendelet III. melléklete szerinti útlevél, vagy
 
 B)
 
@@ -24,9 +24,9 @@ a) az oltási könyv kamara által kiadott egyedi sorszáma
 
 b) kibocsátás dátuma
 
-c)[^65] kiadó szolgáltató állatorvos aláírása és kamarai bélyegzője
+c)[^62] kiadó szolgáltató állatorvos aláírása és kamarai bélyegzője
 
-d)[^66] figyelmeztetés arról, hogy az oltási könyv csak akkor érvényes, ha legalább a tenyésztő/első tulajdonos és az állat adatai kitöltésre kerültek és szolgáltató állatorvos igazolta a kiadását, valamint arról, hogy az oltási könyvbe kizárólag szolgáltató állatorvos, illetve az állat-egészségügyi hatóság vezethet be adatokat/változásokat
+d)[^63] figyelmeztetés arról, hogy az oltási könyv csak akkor érvényes, ha legalább a tenyésztő/első tulajdonos és az állat adatai kitöltésre kerültek és szolgáltató állatorvos igazolta a kiadását, valamint arról, hogy az oltási könyvbe kizárólag szolgáltató állatorvos, illetve az állat-egészségügyi hatóság vezethet be adatokat/változásokat
 
 3. 1. oldal
 
@@ -68,7 +68,7 @@ j) egységes európai állatútlevél száma
 
 fontosabb egészségügyi bejegyzések (műtétek, allergia, idült betegségek stb.)
 
-6.[^67] 4–7. oldal:
+6.[^64] 4–7. oldal:
 
 veszettség elleni védőoltások és jogszabályban előírt parazita ellenes kezelések igazolása, elegendő helyet biztosítva az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címke beragasztására
 
@@ -84,8 +84,8 @@ hatósági igazolások, bejegyzések
 
 a kisállatok egészségvédelmével kapcsolatos iránymutatások és az oltási könyv használatával kapcsolatos tájékoztató
 
-[^63]: A 24. §-t a 32/2014. (XII. 9.) FM rendelet 11. § (14) bekezdése iktatta be.
-[^64]: A melléklet A) fejezete a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdésével megállapított szöveg.
-[^65]: A melléklet B) fejezet 2. pont c) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdése szerint módosított szöveg.
-[^66]: A melléklet B) fejezet 2. pont d) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdése szerint módosított szöveg.
-[^67]: A Melléklet 6. pontja a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja szerint módosított szöveg.
+[^60]: A 24. §-t a 32/2014. (XII. 9.) FM rendelet 11. § (14) bekezdése iktatta be.
+[^61]: A melléklet A) fejezete a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdésével megállapított szöveg.
+[^62]: A melléklet B) fejezet 2. pont c) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdése szerint módosított szöveg.
+[^63]: A melléklet B) fejezet 2. pont d) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdése szerint módosított szöveg.
+[^64]: A Melléklet 6. pontja a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja szerint módosított szöveg.
