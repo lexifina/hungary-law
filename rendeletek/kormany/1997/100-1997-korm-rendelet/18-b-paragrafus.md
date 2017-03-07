@@ -2,7 +2,7 @@
 
 (2)[^105] A Hivatal vezetője az oktatásért felelős miniszter által vezetett minisztérium vezető beosztású képviselőjének jelenlétében sorsolás útján választja ki, hogy a rendelkezésre álló feladatlapok közül melyek kerülnek felhasználásra az adott vizsgaidőszakban.
 
-(3)[^106] A Hivatal vezetője megszervezi a feladatlapok sokszorosítását, csomagolását és szállítását.
+(3)[^106] A Hivatal vezetője megszervezi a feladatlapok sokszorosítását, csomagolását és szállítását. Ennek keretében a feladatlapok csomagolásának megkezdésétől az írásbeli vizsgaidőszak utolsó napján, tizennégy óráig a Hivatal gondoskodik a feladatlapok csomagolása helyszínének élőerős fegyveres védelméről.
 
 (4)[^107] A Hivatal vezetője a feladatlapokat – fenntartóra tekintet nélkül, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) közreműködésével – átadja a vizsgabizottságot működtető intézmény megbízottjának.
 
@@ -16,7 +16,7 @@
 
 [^104]: A 18/B. §-t a 256/2005. (XII. 7.) Korm. rendelet 8. §-a iktatta be.
 [^105]: A 18/B. § (2) bekezdése a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja, a 351/2010. (XII. 30.) Korm. rendelet 41. § j) pontja szerint módosított szöveg.
-[^106]: A 18/B. § (3) bekezdése a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja szerint módosított szöveg.
+[^106]: A 18/B. § (3) bekezdése a 37/2017. (III. 6). Korm. rendelet 1. §-ával megállapított szöveg.
 [^107]: A 18/B. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^108]: A 18/B. § (5) bekezdése a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének f) pontja szerint módosított szöveg.
 [^109]: A 18/B. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § k) pontja szerint módosított szöveg.
