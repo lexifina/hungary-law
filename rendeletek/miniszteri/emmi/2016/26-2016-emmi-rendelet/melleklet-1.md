@@ -1,4 +1,4 @@
-## 16. §[^1]
+## 16. §[^9]
 
 1. melléklet a 26/2016. (IX. 8.) EMMI rendelethez
 
@@ -70,7 +70,7 @@ b) az élő önkéntes szerv- vagy szövetdonornak,
 
 c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
-5.2. A 6.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
+5.2.[^10] Az 5.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
 
 5.3. A díj átadására minden évben a Véradók Világnapján (november 27.) vagy a Transzplantációs Világnapon (október 10.) kerül sor.
 
@@ -90,7 +90,7 @@ c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
 6.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom összege az illetményalap tizenkétszeresének megfelelő összeg.
 
-II. FEJEZET
+II. FEJEZET[^11]
 
 ## KULTURÁLIS ÁGAZAT
 
@@ -102,7 +102,7 @@ II. FEJEZET
 
 7.3. A díjból évente legfeljebb négy adományozható.
 
-7.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+7.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 7.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Ágh Fábián Sándor szobrászművész alkotása, egyoldalas, Balázs Béla domború arcképét ábrázolja, és azon „BALÁZS BÉLA-DÍJ” felirat található.
 
@@ -116,9 +116,9 @@ II. FEJEZET
 
 8.3. A díjból évente legfeljebb kettő adományozható.
 
-8.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+8.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-8.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Gáti Gábor szobrászművész alkotása, egyoldalas, Balogh Rudolf domború arcképét ábrázolja és azon „BALOGH RUDOLF-DÍJ” felirat található.
+8.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Gáti Gábor szobrászművész alkotása, egyoldalas, Balogh Rudolf domború arcképét ábrázolja, és azon „BALOGH RUDOLF-DÍJ” felirat található.
 
 8.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -130,7 +130,7 @@ II. FEJEZET
 
 9.3. A díjból kétévente legfeljebb egy adományozható.
 
-9.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+9.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 9.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szöllőssy Enikő szobrászművész alkotása, egyoldalas, Blattner Géza domború arcképét ábrázolja, és azon „BLATTNER GÉZA-DÍJ” felirat található.
 
@@ -144,9 +144,9 @@ II. FEJEZET
 
 10.3. A díjból évente legfeljebb kettő adományozható.
 
-10.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+10.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-10.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Lebó Ferenc szobrászművész alkotása, egyoldalas, Erkel Ferenc domború arcképét ábrázolja és azon „ERKEL FERENC-DÍJ” felirat található.
+10.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Lebó Ferenc szobrászművész alkotása, egyoldalas, Erkel Ferenc domború arcképét ábrázolja, és azon „ERKEL FERENC-DÍJ” felirat található.
 
 10.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -158,9 +158,9 @@ II. FEJEZET
 
 11.3. A díjból évente legfeljebb öt adományozható.
 
-11.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+11.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-11.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kiss György szobrászművész alkotása, egyoldalas, Ferenczy Noémi domború arcképét ábrázolja és azon „FERENCZY NOÉMI-DÍJ” felirat található.
+11.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kiss György szobrászművész alkotása, egyoldalas, Ferenczy Noémi domború arcképét ábrázolja, és azon „FERENCZY NOÉMI-DÍJ” felirat található.
 
 11.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -168,11 +168,11 @@ II. FEJEZET
 
 12.1. A díj 35. év alatti, elsősorban első kötetes alkotóknak adományozható, akik a névadó szellemiségéhez méltó, jelentős irodalmi alkotást hoztak létre.
 
-12.2. A díj átadására október 23-i nemzeti ünnep alkalmából kerül sor.
+12.2. A díj átadására az október 23-i nemzeti ünnep alkalmából kerül sor.
 
 12.3. A díjból kétévente legfeljebb egy adományozható.
 
-12.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+12.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 12.5. A díjazott kisplasztikát és adományozást igazoló oklevelet kap. A kisplasztika forgatható, polírozott sárgaréz talpon álló, bronzból készült, átmérője 90, magassága 130, mélysége 55 mm. A kisplasztika Rácz Edit szobrászművész alkotása, kétoldalas, az egyik oldalán jelenet, a másik oldalán „GÉRECZ ATTILA-DÍJ”, valamint a díjazott neve felirat található.
 
@@ -186,9 +186,9 @@ II. FEJEZET
 
 13.3. A díjból évente legfeljebb három adományozható.
 
-13.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+13.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-13.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szabó Gábor szobrászművész alkotása, egyoldalas, Harangozó Gyula domború arcképét ábrázolja és azon „HARANGOZÓ GYULA-DÍJ” felirat található.
+13.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szabó Gábor szobrászművész alkotása, egyoldalas, Harangozó Gyula domború arcképét ábrázolja, és azon „HARANGOZÓ GYULA-DÍJ” felirat található.
 
 13.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -200,9 +200,9 @@ II. FEJEZET
 
 14.3. A díjból kétévente legfeljebb egy adományozható.
 
-14.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+14.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-14.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kiss György szobrászművész alkotása, egyoldalas, Hortobágyi Károly domború arcképét ábrázolja és azon „HORTOBÁGYI KÁROLY-DÍJ”, valamint a díjazott neve felirat található.
+14.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kiss György szobrászművész alkotása, egyoldalas, Hortobágyi Károly domború arcképét ábrázolja, és azon „HORTOBÁGYI KÁROLY-DÍJ”, valamint a díjazott neve felirat található.
 
 14.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -214,7 +214,7 @@ II. FEJEZET
 
 15.3. A díjból évente legfeljebb nyolc adományozható.
 
-15.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+15.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 15.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kiss Nagy András szobrászművész alkotása, egyoldalas, Jászai Mari domború arcképét ábrázolja, és azon „JÁSZAI MARI-DÍJ” felirat található.
 
@@ -228,9 +228,9 @@ II. FEJEZET
 
 16.3. A díjból évente legfeljebb nyolc adományozható.
 
-16.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+16.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-16.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Vígh Tamás szobrászművész alkotása, egyoldalas, József Attila domború arcképét ábrázolja és azon „JÓZSEF ATTILA-DÍJ” felirat található.
+16.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Vígh Tamás szobrászművész alkotása, egyoldalas, József Attila domború arcképét ábrázolja, és azon „JÓZSEF ATTILA-DÍJ” felirat található.
 
 16.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -242,9 +242,9 @@ II. FEJEZET
 
 17.3. A díjból évente legfeljebb öt adományozható.
 
-17.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+17.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-17.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Gáti Gábor szobrászművész alkotása, egyoldalas, Liszt Ferenc domború arcképét ábrázolja és azon „LISZT FERENC-DÍJ” felirat található.
+17.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Gáti Gábor szobrászművész alkotása, egyoldalas, Liszt Ferenc domború arcképét ábrázolja, és azon „LISZT FERENC-DÍJ” felirat található.
 
 17.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -256,9 +256,9 @@ II. FEJEZET
 
 18.3. A díjból kétévente legfeljebb egy adományozható.
 
-18.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+18.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-18.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Csikai Márta szobrászművész alkotása, egyoldalas, Márai Sándor domború arcképét ábrázolja és azon „MÁRAI SÁNDOR-DÍJ” felirat található.
+18.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Csikai Márta szobrászművész alkotása, egyoldalas, Márai Sándor domború arcképét ábrázolja, és azon „MÁRAI SÁNDOR-DÍJ” felirat található.
 
 18.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hússzorosának megfelelő összeg.
 
@@ -270,7 +270,7 @@ II. FEJEZET
 
 19.3. A díjból évente legfeljebb négy adományozható.
 
-19.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+19.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 19.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Mihály Gábor szobrászművész alkotása, egyoldalas, Martin György domború arcképét ábrázolja, és azon „MARTIN GYÖRGY-DÍJ” felirat található.
 
@@ -284,9 +284,9 @@ II. FEJEZET
 
 20.3. A díjból évente legfeljebb hét adományozható.
 
-20.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+20.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-20.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kiss György szobrászművész alkotása, egyoldalas, Munkácsy Mihály domború arcképét ábrázolja és azon „MUNKÁCSY MIHÁLY-DÍJ” felirat található.
+20.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kiss György szobrászművész alkotása, egyoldalas, Munkácsy Mihály domború arcképét ábrázolja, és azon „MUNKÁCSY MIHÁLY-DÍJ” felirat található.
 
 20.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -298,9 +298,9 @@ II. FEJEZET
 
 21.3. A díjból kétévente legfeljebb egy adományozható.
 
-21.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+21.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-21.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem négyzet alakú, bronzból készült, mérete 60×60 mm, vastagsága 10 mm. Az emlékérem alkotója Csiky Tibor szobrászművész, kivitelezője és a hátlap tervezője Budahelyi Tibor szobrászművész. Az emlékérem előoldalát geometrikus kompozíció díszíti, hátoldalán „NÉMETH LAJOS-DÍJ” felirat található.
+21.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem négyzet alakú, bronzból készült, mérete 60 Ű 60 mm, vastagsága 10 mm. Az emlékérem alkotója Csiky Tibor szobrászművész, kivitelezője és a hátlap tervezője Budahelyi Tibor szobrászművész. Az emlékérem előoldalát geometrikus kompozíció díszíti, hátoldalán „NÉMETH LAJOS-DÍJ” felirat található.
 
 21.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -312,9 +312,9 @@ II. FEJEZET
 
 22.3. A díjból kétévente legfeljebb egy adományozható.
 
-22.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+22.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-22.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szöllőssy Enikő szobrászművész alkotása, egyoldalas, Szabolcsi Bence domború arcképét ábrázolja és azon „SZABOLCSI BENCE-DÍJ” felirat található.
+22.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szöllőssy Enikő szobrászművész alkotása, egyoldalas, Szabolcsi Bence domború arcképét ábrázolja, és azon „SZABOLCSI BENCE-DÍJ” felirat található.
 
 22.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -326,7 +326,7 @@ II. FEJEZET
 
 23.3. A díjból évente legfeljebb három adományozható.
 
-23.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+23.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 23.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Csontos László szobrászművész alkotása, egyoldalas, Táncsics Mihály domború arcképét ábrázolja, és azon „TÁNCSICS MIHÁLY-DÍJ” felirat található.
 
@@ -340,7 +340,7 @@ II. FEJEZET
 
 24.3. A díjból évente legfeljebb öt adományozható.
 
-24.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+24.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 24.5. A díjazott az adományozást igazoló oklevelet kap.
 
@@ -354,9 +354,9 @@ II. FEJEZET
 
 25.3. A díjból évente legfeljebb három adományozható.
 
-25.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+25.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-25.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kereszthury Gábor szobrászművész alkotása, egyoldalas, Bánffy Miklós domború arcképét ábrázolja és azon „BÁNFFY MIKLÓS-DÍJ” felirat található.
+25.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Kereszthury Gábor szobrászművész alkotása, egyoldalas, Bánffy Miklós domború arcképét ábrázolja, és azon „BÁNFFY MIKLÓS-DÍJ” felirat található.
 
 25.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hússzorosának megfelelő összeg.
 
@@ -380,9 +380,9 @@ b) a 26.1. pont b) alpontja szerinti kategóriában legfeljebb kettő
 
 adományozható.
 
-26.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+26.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-26.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Péterffy László szobrászművész alkotása, egyoldalas, Csokonai Vitéz Mihály arcképét ábrázolja és azon „CSOKONAI VITÉZ MIHÁLY – DÍJ” felirat található.
+26.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Péterffy László szobrászművész alkotása, egyoldalas, Csokonai Vitéz Mihály arcképét ábrázolja, és azon „CSOKONAI VITÉZ MIHÁLY-DÍJ” felirat található.
 
 26.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke
 
@@ -406,7 +406,7 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 27.3. A díjból évente legfeljebb kettő adományozható.
 
-27.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+27.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
 27.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 85, vastagsága 8 mm. Az emlékérem Palotás József szobrászművész alkotása, első oldalán Móra Ferenc domború arcképét ábrázolja, és azon „MÓRA FERENC-DÍJ” félkörívű felirat található. Az emlékérem hátoldalát a múzeumügyet szimbolizáló dombormű és „A TUDOMÁNYÉRT, A MŰVELŐDÉSÉRT” felirat díszíti.
 
@@ -420,9 +420,9 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 28.3. A díjból évente legfeljebb egy adományozható.
 
-28.4. A díj adományozására javaslatot tevő bizottság három tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+28.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-28.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szöllőssy Enikő szobrászművész alkotása, egyoldalas, Pauler Gyula domború arcképét ábrázolja és azon „PAULER GYULA-DÍJ” felirat található.
+28.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szöllőssy Enikő szobrászművész alkotása, egyoldalas, Pauler Gyula domború arcképét ábrázolja, és azon „PAULER GYULA-DÍJ” felirat található.
 
 28.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap huszonnégyszeresének megfelelő összeg.
 
@@ -434,9 +434,9 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 29.3. A díjból évente legfeljebb kettő adományozható.
 
-29.4. A díj adományozására javaslatot tevő bizottság öt tagból áll, a tagokat a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – öt évre kéri fel.
+29.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-29.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szilágyi Bernadett szobrászművész alkotása, egyoldalas, Szinnyei József domború arcképét ábrázolja és azon „SZINNYEI JÓZSEF-DÍJ” felirat található.
+29.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Szilágyi Bernadett szobrászművész alkotása, egyoldalas, Szinnyei József domború arcképét ábrázolja, és azon „SZINNYEI JÓZSEF-DÍJ” felirat található.
 
 29.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap huszonnégyszeresének megfelelő összeg.
 
@@ -708,7 +708,7 @@ V. FEJEZET
 
 51.3. A díj átadására a Tolerancia Nemzetközi Napján (november 16.) vagy a Fogyatékossággal Élő Emberek Világnapján (december 3.), illetőleg nemzeti, állami ünnep vagy kiemelkedő szakmai esemény alkalmából kerül sor.
 
-51.4. A díjból évente legfeljebb négy adományozható, kettő-kettő természetes személyek, illetve szervezetek, intézmények részére adományozható azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+51.4.[^12] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
 
 51.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 95 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, rajta „ESÉLYTEREMTÉSÉRT DÍJ” félkörívű felirat található.
 
@@ -778,6 +778,16 @@ VI. FEJEZET
 
 56.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
 
+56/A.[^13] Pro Cultura Minoritatum Hungariae díj
+
+56/A. 1. A díj olyan Magyarországon élő nemzetiséghez tartozó természetes személynek, vagy szervezetnek adományozható, aki vagy amely kiemelkedő tevékenységet végzett a Magyarországon élő nemzetiségek körében az anyanyelvű, kulturális örökség megtartásáért, fejlesztéséért, és a nemzetiségi közművelődés és kultúra területén kimagasló tevékenységével hozzájárult a Kárpát-medence népeinek együttéléséhez.
+
+56/A. 2. A díj minden évben a kulturális sokszínűség, párbeszéd és fejlődés világnapja alkalmából (május 21.) kerül átadásra.
+
+56/A. 3. A díjból évente legfeljebb tizenhárom adományozható.
+
+56/A. 4. A díjazott emlékérmet és díszoklevelet kap. Az emlékérem Asszonyi Tamás szobrászművész alkotása. Az összetartozás szimbólumát jelképező emlékérem Ginkgo biloba (páfrányfenyő) levelet ábrázol, egyoldalas, bronzból készül, és a „PRO CULTURA MINORITATUM HUNGARIAE” feliratot tartalmazza.
+
 VII. FEJEZET
 
 ## A MINISZTÉRIUMBAN VÉGZETT KIEMELKEDŐ KÖZSZOLGÁLATI TEVÉKENYSÉG ELISMERÉSE
@@ -794,4 +804,8 @@ VII. FEJEZET
 
 57.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^13]: Az 1. melléklet VI. fejezet 56/A. pontját a 3/2017. (III. 7.) EMMI rendelet 3. §-a iktatta be.

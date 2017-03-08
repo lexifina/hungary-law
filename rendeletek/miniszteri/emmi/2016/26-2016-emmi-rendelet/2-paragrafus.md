@@ -78,7 +78,7 @@
 
 2. Apáczai Csere János-díj,
 
-3. Németh László-díj,
+3.[^1]
 
 4. Trefort Ágoston-díj,
 
@@ -86,9 +86,11 @@
 
 6. Pedagógus Szolgálati Emlékérem.
 
-(8) A miniszter által adományozandó köznevelési díj az oktatási ágazatban:
+(8)[^2] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
 
-1. Brunszvik Teréz-díj.
+1. Brunszvik Teréz-díj,
+
+2.[^3] Németh László-díj.
 
 (9) A miniszter által adományozandó felsőoktatási díj az oktatási ágazatban:
 
@@ -132,8 +134,15 @@
 
 2. Fraknói Vilmos-díj,
 
-3. Scheiber Sándor-díj.
+3. Scheiber Sándor-díj,
+
+4.[^4] Pro Cultura Minoritatum Hungariae díj.
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
 1. Közösség Szolgálatáért díj.
+
+[^1]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^2]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § (12) bekezdés 4. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (2) bekezdése iktatta be.
