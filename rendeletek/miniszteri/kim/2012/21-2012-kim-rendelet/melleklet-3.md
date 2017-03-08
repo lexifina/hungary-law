@@ -216,6 +216,8 @@
 
 |  |  | 565 | Alapítvány jogi személyiséggel rendelkező szervezeti egysége |
 
+|  |  | 566 | Kormány által létrehozott alapítvány |
+
 |  |  | 569 | Egyéb alapítvány |
 
 |  | 57 |  | Nonprofit gazdasági társaság |
@@ -292,11 +294,7 @@
 
 |  |  | 739 | Egyéb megszűnt gazdálkodási forma |
 
-| 8 |  |  | Egyéni (nem piaci) gazdasági tevékenység |
-
-|  | 81 |  | Egyéni (nem piaci) gazdasági tevékenység |
-
-|  |  | 811 | Egyéni (nem piaci) gazdasági tevékenység |
+| 8 |  |  |  |
 
 | 9 |  |  | Technikai kód |
 
