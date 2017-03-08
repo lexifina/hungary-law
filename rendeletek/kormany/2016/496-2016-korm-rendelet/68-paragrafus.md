@@ -16,7 +16,7 @@ b) a helyi építési szabályzat kidolgozásához – ha az nem áll rendelkez�
 
 c) településképi rendelet helyi védelmi előírásainak meghatározásához a 12. melléklet 1. pont d) alpontjában meghatározott értékleltárt teljeskörűen;
 
-d) a 37. § (3) bekezdésben és a 63. § (4) bekezdés b)–c) pontjában meghatározott esetekben
+d)[^3] a 37. § (3) bekezdésben és a 71. § (4) bekezdés b)–c) pontjában meghatározott esetekben
 
 da) régészeti örökség felmérése esetén a 13. melléklet 1–3. pontja alatti vizsgálatokat és elemzéseket,
 
@@ -27,3 +27,5 @@ db) műemléki érték felmérése esetén a 13. melléklet 1–3. pontja alatti
 (3) Az örökségvédelmi hatástanulmány régészeti szakterületi munkarésze a 12. és 13. mellékletben meghatározott tartalmi elemek közül a régészeti örökség tárgykörével foglalkozó tartalmi elemek összessége.
 
 (4) Az örökségvédelmi hatástanulmány műemléki szakterületi munkarésze a 12. és 13. mellékletben meghatározott tartalmi elemek közül a műemlékvédelem tárgykörével foglalkozó tartalmi elemek összessége.
+
+[^3]: A 68. § (2) bekezdés d) pontja a 40/2017. (III. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.

@@ -16,7 +16,7 @@ e) tervásatás esetén a feltárás által érintett ingatlannal rendelkezni jo
 
 f) a különleges munkavégzési körülmények esetén követendő eljárásra vonatkozó leírást és indokolást,
 
-g) a régészeti feltárás keretében tervezett tevékenységek felsorolását és ezek tételes költségbecslését a 12. § (1) és (2) bekezdése szerinti bontásban,
+g)[^2] a régészeti feltárás keretében tervezett tevékenységek felsorolását és ezek tételes költségbecslését,
 
 h) a feltárásvezetőként megjelölt régész nyilatkozatát a megfelelő szakmai gyakorlat meglétéről és arról, hogy korábbi tevékenysége során a dokumentációs kötelezettségét teljesítette,
 
@@ -45,3 +45,5 @@ b) az eljárás során a hatóság megkeresésére.
 a) nagyberuházás esetén tizenöt nap,
 
 b) közlekedési infrastruktúra-beruházás esetén tíz nap.
+
+[^2]: A 32. § (2) bekezdés g) pontja a 40/2017. (III. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
