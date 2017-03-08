@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-314-20-
 | 2016-12-30 | 2012-314-20-22.16 | 400/2016. (XII. 5.) Korm. rendelet |
 | 2017-01-01 | 2012-314-20-22.17 | 497/2016. (XII. 28.) Korm. rendelet |
 | 2017-02-03 | 2012-314-20-22.18 | 20/2017. (II. 2.) Korm. rendelet |
+| 2017-03-08 | 2012-314-20-22.19 | 40/2017. (III. 7.) Korm. rendelet |

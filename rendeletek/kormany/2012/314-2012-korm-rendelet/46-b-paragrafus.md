@@ -6,8 +6,14 @@
 
 (4) A Mód. Kr. 1. alapján megállapított településképi rendelet hatálybalépéséig nem lehet alkalmazni a helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat, illetve a fővárosi önkormányzat által megállapított építési szabályzat – vagy egyéb önkormányzati rendelet azon rendelkezését, amely kifejezetten tiltja, vagy lehetetlenné teszi a nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében már meglévő légvezetékes vagy meglévő szabadvezetékes fizikai infrastruktúra elektronikus hírközlésről szóló törvény szerinti felhasználását.
 
+(5)[^111] Helyi védelem alatt álló építményt, építményrészt a Mód. Kr. 1. alapján megállapított településképi rendelet hatálybalépéséig – az építésügyi hatóság vagy az építésfelügyeleti hatóság által elrendelt bontás kivételével – nem lehet lebontani.
+
+(6)[^112] Az egyes építésügyi és örökségvédelmi tárgyú kormányrendeletek módosításáról szóló 40/2017. (III. 7.) Korm. rendelettel (a továbbiakban: Mód. Kr. 2.) megállapított (5) bekezdést a Mód. Kr. 2. hatálybalépésekor folyamatban lévő bontási engedélyezési eljárásokban is alkalmazni kell.
+
 [^106]: A 46/B. §-t a 400/2016. (XII. 5.) Korm. rendelet 26. §-a iktatta be.
 [^107]: A hatálybalépés időpontja 2016. december 30.
 [^108]: A hatálybalépés időpontja 2016. december 30.
 [^109]: A hatálybalépés időpontja 2016. december 30.
 [^110]: A hatálybalépés időpontja 2016. december 30.
+[^111]: A 46/B. § (5) bekezdését a 40/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
+[^112]: A 46/B. § (6) bekezdését a 40/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
