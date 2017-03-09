@@ -1,1 +1,0 @@
-A hivatalos statisztikáról szóló 2016. évi CLV. törvény 47. § (2) bekezdésben kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklet A) pont 7. alpontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
