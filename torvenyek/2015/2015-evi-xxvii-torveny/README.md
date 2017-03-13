@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-27-00-00
 | 2015-03-27 | 2015. évi XXVII. törvény | 2015-27-00-00.0 (közlönyállapot) |
 | 2015-03-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-27-00-00.1 |
 | 2017-03-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-27-00-00.2 |
+| 2017-03-13 | 2010. évi CXXX. törvény | 2015-27-00-00.3 |
