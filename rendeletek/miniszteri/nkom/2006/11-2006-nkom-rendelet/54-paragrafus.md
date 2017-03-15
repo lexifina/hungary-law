@@ -2,8 +2,8 @@
 
 54. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^3]
+(2)–(3)[^6]
 
 Melléklet a 11/2006. (V. 9.) NKÖM rendelethez
 
-[^3]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 1. pontja hatályon kívül helyezte.
+[^6]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 1. pontja hatályon kívül helyezte.

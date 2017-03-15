@@ -4,6 +4,6 @@
 
 (3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába sorolom.
 
-(4) A védetté nyilvánítás célja az 1951 és 1960 között Zsanda János[^2] tervei alapján épült római katolikus templom építészeti és történeti értékeinek megőrzése.
+(4) A védetté nyilvánítás célja az 1951 és 1960 között Zsanda János[^5] tervei alapján épült római katolikus templom építészeti és történeti értékeinek megőrzése.
 
-[^2]: A Magyar Közlöny 2006. évi 84. számában megjelent helyesbítésnek megfelelő szöveg.
+[^5]: A Magyar Közlöny 2006. évi 84. számában megjelent helyesbítésnek megfelelő szöveg.
