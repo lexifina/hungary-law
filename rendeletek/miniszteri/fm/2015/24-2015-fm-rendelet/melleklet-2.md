@@ -150,7 +150,7 @@
 
 | 69 | 286289 |  |  |  | 6_Nemzeti Diverzifikációs Program | A Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet alapján a vitatott támogatási döntések miatt indult kártérítési keresetek elbírálása következtében megítélt összegek rendezése. | kártérítési keresetet megnyerő ügyfél | - | - | 1. egy összegben, vagy 2. részletekben történő kifizetéssel | - | - | Kincstár | - | - |
 
-2. melléklet a 24/2015. (V. 26.) FM rendelethez[^6]
+2. melléklet a 24/2015. (V. 26.) FM rendelethez[^9]
 
 A központi kezelésű előirányzatokra vonatkozó különös rendelkezések
 
@@ -166,4 +166,4 @@ A központi kezelésű előirányzatokra vonatkozó különös rendelkezések
 
 | 72 |  |  |  | 1_Állami erdőgazdasági társaságok tőkeemelése | Az állami tulajdonú erdőgazdasági társaságok felett törvényben kijelölt tulajdonosi jogok gyakorlása keretében történő tőkeemelés. | állami tulajdonban lévő erdőgazdasági társaságok | - | - | 1. egy összegben, vagy 2. részletekben történő kifizetéssel | - | - | - | - | - |
 
-[^6]: A 2. melléklet a 86/2016. (XII. 20.) FM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet a 86/2016. (XII. 20.) FM rendelet 2. § (3) bekezdésével megállapított szöveg.

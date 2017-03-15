@@ -10,8 +10,13 @@ c) a 2014–2020 időszakra vonatkozó, az agrár- és erdészeti ágazatban ny�
 
 d) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.1.10.1. pontja szerinti tudástranszferhez és tájékoztatási tevékenységhez kapcsolódó,
 
-e) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.1.10.2. pontja szerinti tanácsadási szolgáltatásokhoz kapcsolódó, valamint
+e)[^3] az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.1.10.2. pontja szerinti tanácsadási szolgáltatásokhoz kapcsolódó,
 
-f) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.3.2. pontja szerinti, a mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez kapcsolódó,
+f)[^4] az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.3.2. pontja szerinti, a mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez kapcsolódó, valamint
+
+g)[^5] az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.1.11. pontja szerinti, a mezőgazdasági ágazatban folytatott együttműködés céljából,
 
 [^2]: Az 1/A. §-t a 46/2016. (VII. 13.) FM rendelet 2. §-a iktatta be.
+[^3]: Az 1/A. § e) pontja a 86/2016. (XII. 20.) FM rendelet 4. §-a szerint módosított szöveg.
+[^4]: Az 1/A. § f) pontja a 86/2016. (XII. 20.) FM rendelet 2. § b) pontja szerint módosított szöveg.
+[^5]: Az 1/A. § g) pontját a 86/2016. (XII. 20.) FM rendelet 1. §-a iktatta be.

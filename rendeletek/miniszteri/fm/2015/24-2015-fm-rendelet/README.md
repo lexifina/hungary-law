@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-24-20-1
 | 2016-12-21 | 2015-24-20-11.7 | 34/2015. (VI. 25.) FM rendelet |
 | 2017-01-01 | 2015-24-20-11.8 | 86/2016. (XII. 20.) FM rendelet |
 | 2017-03-11 | 2015-24-20-11.9 | 86/2016. (XII. 20.) FM rendelet |
+| 2017-03-15 | 2015-24-20-11.10 | 86/2016. (XII. 20.) FM rendelet |
