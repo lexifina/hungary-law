@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-55-20-1
 | --- | --- | --- |
 | 2016-08-24 | 2016-55-20-11.1 | 55/2016. (VIII. 16.) FM rendelet |
 | 2016-08-25 | 2016-55-20-11.2 | 2010: CXXX. törvény |
+| 2017-03-15 | 2016-55-20-11.3 | 11/2017. (III. 14.) FM rendelet |
