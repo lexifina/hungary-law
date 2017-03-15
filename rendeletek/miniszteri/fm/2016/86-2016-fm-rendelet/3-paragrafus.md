@@ -1,11 +1,10 @@
 ## 3. § Az R.
 
-a)[^4]
+a)[^3]
 
-b)[^5]
+b) 1/A. § f) pontjában a „kapcsolódó,” szövegrész helyébe a „kapcsolódó, valamint” szöveg,
 
-c)[^6]
+c)[^4]
 
-[^4]: A 3. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 3. § b) pontja az 5. § (3) bekezdése alapján 2017. március 15-én lép hatályba.
-[^6]: A 3. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
