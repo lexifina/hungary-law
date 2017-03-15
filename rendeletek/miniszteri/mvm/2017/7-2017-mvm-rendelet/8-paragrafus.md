@@ -1,0 +1,3 @@
+8. § (1) Az egyes ingatlanok műemlékké nyilvánításáról, valamint műemléki jelentőségű területté nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 53/2011. (VIII. 25.) NEFMI rendelet (a továbbiakban: R2.) 54. § (1) bekezdésében műemlékké nyilvánított Budapest X. kerület 38920 helyrajzi számú földrészleten nyilvántartott kapuépület védettségét – tekintettel arra, hogy a védett műemléki érték a szakmai ismérveknek nem felel meg – megszüntetem.
+
+(2) A Budapest 38920 helyrajzi számú ingatlan fennmaradó részének műemléki és műemléki környezet védettségét változatlanul fenntartom, tekintettel a földrészleten álló MÁV Északi Járműjavító Telep együttesének műemléki értékeire.
