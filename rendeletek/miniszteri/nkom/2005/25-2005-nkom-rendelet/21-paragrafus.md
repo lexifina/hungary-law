@@ -1,4 +1,4 @@
-## 20. §[^6]
+## 20. §[^7]
 
 21. § (1) Műemlékké nyilvánítom a Békés megyei Mezőhegyes, 1018/5, 1018/6 helyrajzi számú ingatlanon található ménesudvar istállóépületeit.
 
@@ -8,4 +8,4 @@
 
 (4) A védetté nyilvánítás célja az 1800 körül emelt ménesudvar három klasszicista stílusú istállója építészeti értékeinek megőrzése.
 
-[^6]: A 20. §-t az 5/2015. (II. 2.) MvM rendelet 69. § c) pontja hatályon kívül helyezte.
+[^7]: A 20. §-t az 5/2015. (II. 2.) MvM rendelet 69. § c) pontja hatályon kívül helyezte.
