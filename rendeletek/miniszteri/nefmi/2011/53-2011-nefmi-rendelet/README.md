@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-53-20-2
 | --- | --- | --- |
 | 2011-09-02 | 2011-53-20-2V.1 | 53/2011. (VIII. 25.) NEFMI rendelet |
 | 2015-06-27 | 2011-53-20-2V.2 | 30/2015. (VI. 19.) MvM rendelet |
+| 2017-03-15 | 2011-53-20-2V.3 | 7/2017. (III. 7.) MvM rendelet |
