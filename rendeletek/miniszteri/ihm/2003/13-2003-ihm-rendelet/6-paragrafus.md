@@ -1,6 +1,6 @@
 ## A vizsgálatra kijelölést kérelmezővel szembeni különös követelmények
 
-## 6. §[^6] A kérelmezőnek – az R. 4. §-ában foglalt követelmények teljesítésén túlmenően – rendelkeznie kell a kijelölés területére vonatkozó normatív dokumentumokkal és az azokban meghatározott
+## 6. §[^7] A kérelmezőnek – az R. 4. §-ában foglalt követelmények teljesítésén túlmenően – rendelkeznie kell a kijelölés területére vonatkozó normatív dokumentumokkal és az azokban meghatározott
 
 a) vizsgálóhelyiségekkel és vizsgálóterekkel;
 
@@ -10,4 +10,4 @@ c) eszközökkel és segédanyagokkal;
 
 d) a vizsgálathoz a kijelölést kérő által feljogosított megfelelő képzettséggel és gyakorlattal rendelkező alkalmazottakkal.
 
-[^6]: A 6. § felvezető szövege a 14/2005. (X. 31.) IHM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 6. § felvezető szövege a 14/2005. (X. 31.) IHM rendelet 3. §-ával megállapított szöveg.

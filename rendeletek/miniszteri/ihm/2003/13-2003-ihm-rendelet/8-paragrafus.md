@@ -2,8 +2,8 @@
 
 ## Az ellenőrzésre kijelölést kérelmezővel szembeni különös követelmények
 
-8. § (1)[^7] Az ellenőrző szervezetnek rendelkeznie kell a 6–7. §-ban meghatározott feltételekkel, valamint a tevékenység végzésére vonatkozóan – Magyarországon engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel, hacsak az állam nem vállal érte kötelezettséget, vagy az állam maga közvetlenül nem felelős.
+8. § (1)[^8] Az ellenőrző szervezetnek rendelkeznie kell a 6–7. §-ban meghatározott feltételekkel, valamint a tevékenység végzésére vonatkozóan – Magyarországon engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel, hacsak az állam nem vállal érte kötelezettséget, vagy az állam maga közvetlenül nem felelős.
 
 (2) Az ellenőrző szervezetnél a kijelölés szakmai területén a kérelmező által ellenőrzésre feljogosított – a vizsgálat tekintetében is megfelelő szakmai képzettséggel és gyakorlattal rendelkező – alkalmazottnak kell közreműködnie.
 
-[^7]: A 8. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 35. § a) pontja szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 35. § a) pontja szerint módosított szöveg.

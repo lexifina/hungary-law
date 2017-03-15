@@ -294,7 +294,7 @@
 
 ## 4. Akkreditálási okirat(ok) másolatai.
 
-2. számú melléklet a 13/2003. (X. 3.) IHM rendelethez[^16]
+2. számú melléklet a 13/2003. (X. 3.) IHM rendelethez[^17]
 
 KIJELÖLÉSI OKIRAT
 
@@ -332,4 +332,4 @@ Budapest, 200.... év ............................... hó ....... nap.
 
 |  | informatikai és hírközlési miniszter |
 
-[^16]: A 2. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 35. § b) pontja szerint módosított szöveg.
+[^17]: A 2. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 35. § b) pontja szerint módosított szöveg.

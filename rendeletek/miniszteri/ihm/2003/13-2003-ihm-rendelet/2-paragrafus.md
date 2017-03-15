@@ -16,12 +16,12 @@ f) tanúsítási jel: kijelölt tanúsító szervezet által kibocsátott vagy a
 
 g) megfelelőségi tanúsítvány: a kijelölt tanúsító szervezet által kibocsátott dokumentum, amely igazolja, hogy a termék megfelel a vonatkozó normatív dokumentumokban előírt követelményeknek;
 
-h)[^1] normatív dokumentum: összefoglaló szakkifejezés, amely magába foglalja a jogszabályokat, szabványokat, műszaki előírásokat, műszaki irányelveket és szabályzatokat;
+h)[^2] normatív dokumentum: összefoglaló szakkifejezés, amely magába foglalja a jogszabályokat, szabványokat, műszaki előírásokat, műszaki irányelveket és szabályzatokat;
 
-i)[^2] tanúsítás: olyan eljárás, amely alapján egy független, hatósági jogosítványokkal nem rendelkező, e rendelet alapján kijelölt szervezet tanúsítványban igazolja, hogy egy hírközlési, illetve informatikai termék megfelel a vonatkozó normatív dokumentumokban előírt követelményeknek;
+i)[^3] tanúsítás: olyan eljárás, amely alapján egy független, hatósági jogosítványokkal nem rendelkező, e rendelet alapján kijelölt szervezet tanúsítványban igazolja, hogy egy hírközlési, illetve informatikai termék megfelel a vonatkozó normatív dokumentumokban előírt követelményeknek;
 
-j)[^3] vizsgálat: a megfelelőség megállapításához szükséges vizsgálat.
+j)[^4] vizsgálat: a megfelelőség megállapításához szükséges vizsgálat.
 
-[^1]: A 2. § h) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § i) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § j) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § h) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § i) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § j) pontja a 14/2005. (X. 31.) IHM rendelet 1. §-ával megállapított szöveg.

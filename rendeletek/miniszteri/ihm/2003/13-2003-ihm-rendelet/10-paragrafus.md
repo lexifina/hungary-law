@@ -1,4 +1,4 @@
-## 9/A. §[^9] A kijelölést kérő cégkivonatát a kijelölő a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+## 9/A. §[^10] A kijelölést kérő cégkivonatát a kijelölő a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 ## Kijelölés
 
@@ -8,4 +8,4 @@
 
 (3) A kijelölő elutasítja a kérelmet, ha a kérelem nem felel meg az 1. számú mellékletben foglalt követelményeknek, illetve a kérelmező nem felel meg a kérelmezővel kapcsolatos 4–9. §-ban meghatározott követelményeknek.
 
-[^9]: A 9/A. §-t a 3/2013. (I. 29.) NFM rendelet 5. § (1) bekezdése iktatta be.
+[^10]: A 9/A. §-t a 3/2013. (I. 29.) NFM rendelet 5. § (1) bekezdése iktatta be.
