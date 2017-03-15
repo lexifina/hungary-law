@@ -1,0 +1,1 @@
+A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (2) bekezdés a)–d) pontjában kapott felhatalmazás alapján, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (5) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
