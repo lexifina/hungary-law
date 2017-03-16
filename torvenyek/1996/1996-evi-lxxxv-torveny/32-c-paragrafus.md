@@ -38,7 +38,7 @@ lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
 
 lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
 
-m)
+m) a polgári perrendtartásról szóló 1952. évi III. törvény XVIII. Fejezete szerinti gondnokság alá helyezés tényének feljegyzése iránti eljárás;
 
 n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
 
