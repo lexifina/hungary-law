@@ -16,35 +16,11 @@ a) a magyar állampolgár, illetőleg Magyarországon lakó hontalan külföldö
 
 b) a nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges irat, továbbá
 
-c) az anyakönyvi kivonat kiállítása;
+c)
 
 d)
 
-5. az anyakönyvi kivonat kiállítása az alábbi esetekben illetékmentes, ha
-
-a) a születés, a házasságkötés és a haláleset anyakönyvezését követően az érdekelt részére első ízben;
-
-b) az intézeti vagy állami nevelt gyermek anyakönyvezéséhez;
-
-c) az 1953. január 1-je előtti bejegyzésről a névmutató szerint illetékmentes kivonatot még nem adtak ki, és
-
-ca) az anyakönyvből a bejegyzett személy, örökbefogadás esetén az örökbefogadó részére,
-
-cb) az anyakönyvből a házastárs részére,
-
-cc) az anyakönyvből a házastárs vagy a meghalt személy egyenesági rokona részére,
-
-d) tartásdíj európai uniós jogi norma, nemzetközi szerződés vagy viszonossági nyilatkozat alapján külföldön való behajtása tárgyában folyó eljárás céljára,
-
-e) a szülők házassági anyakönyvi kivonatának a gyermek születésének anyakönyvezéséhez;
-
-f) az elhunyt születési és házassági anyakönyvi kivonatának a haláleset anyakönyvezéséhez;
-
-g) a nemzetiségek jogairól szóló törvény alapján kijavított anyakönyvi adatokról az érdekelt részére első ízben;
-
-h) az apa adatait a születés anyakönyvezése után jegyezték be, és e bejegyzést követően az érdekelt részére első alkalommal
-
-történik a kiállítása;
+5. az anyakönyvi kivonat kiállítása;
 
 5/A. a házassági név megváltoztatására irányuló eljárás;
 
@@ -154,4 +130,24 @@ történik a kiállítása;
 
 58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás;
 
-59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás.
+59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás;
+
+60. a lakáscélú állami támogatás igényléséhez szükséges, a fennálló biztosítási jogviszonyt igazoló egészségbiztosítási pénztári hatósági bizonyítvány kiállítása évente két alkalommal;
+
+61. közműpótló talajvízkút létesítésének, átalakításának, megszüntetésének engedélyezése;
+
+62. hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról;
+
+63. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése és 27/D. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás;
+
+64. Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásba vételére irányuló eljárás;
+
+65. az értesítési cím bejelentésével kapcsolatos eljárás;
+
+66. az igazságügyi szakértői névjegyzékbe vétel és a szakterület kiterjesztése iránti eljárás;
+
+67. a termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló telekalakítási eljárás;
+
+68. a családi név korrekciójára irányuló eljárás.
+
+(3) A 18. életévét be nem töltött személy mentesül a 29. § (1) bekezdés szerinti illeték megfizetése alól.

@@ -112,7 +112,7 @@ IX. Egyes okmányok kiadásával kapcsolatos eljárások illetéke
 
 I. Az úti okmányok kiadásával kapcsolatos eljárás illetéke
 
-1. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy és a 70. életévét betöltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
+1. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
 
 1a. A kérelem benyújtásának időpontjában
 
@@ -138,7 +138,9 @@ b) a külügyi szolgálati útlevél,
 
 c) a határátlépési igazolvány,
 
-d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okmány biometrikus azonosítót tartalmazó tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat.
+d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okmány biometrikus azonosítót tartalmazó tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat,
+
+e) a 65. életévét betöltött személy magánútlevele.
 
 8. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált úti okmány helyett kiállított új úti okmány kiadásának illetéke az 1–2., valamint 6. pontban meghatározott illeték kétszerese.
 
@@ -270,19 +272,13 @@ b) az építési engedélyezési szakasz illetéke alapilleték nélkül az 1. p
 
 10. a használatbavétel tudomásul vétele 10 000 forint,
 
-11. az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásban történő átvezetéséhez, vagy tény, állapot, egyéb adat igazolásához az építésügyi hatóság hatáskörébe tartozó hatósági bizonyítvány kiadása 20 000 forint,
+11.
 
 12. az építésügyi hatósági intézkedés kezdeményezése 15 000 forint,
 
 13. az 1–12. pont alá nem eső első fokú építésügyi hatósági eljárás 10 000 forint.
 
-II. Az építésfelügyeleti hatóságnál indított eljárás illetéke
-
-1. bontás tudomásul vételi eljárása esetén 5000 forint,
-
-2.
-
-3. az építésrendészeti hatósági intézkedés kezdeményezése esetén 15 000 forint,
+II.
 
 III. Az építésügyi vagy építésfelügyeleti hatósági eljárásban hozott döntés elleni fellebbezés illetéke 30 000 forint.
 
@@ -290,7 +286,7 @@ IV. Illetékmentes és igazgatási szolgáltatási díjmentes
 
 a) a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása,
 
-b) a 160 m2-nél kisebb hasznos alapterületű, más önálló rendeltetési egységet nem tartalmazó, egylakásos lakóépület bontási, építési (továbbépítési), módosított építési és használatbavételi engedélyezési, a használatbavétel tudomásulvételi és a bontási tevékenység megkezdésének tudomásulvételi eljárása, valamint az engedélyezési eljárásban közreműködő szakhatóság eljárása.
+b) az engedély alapján épített, legfeljebb 300 m2 összes hasznos alapterületű új lakóépület használatbavételi engedélyezési, a használatbavétel tudomásulvételi eljárása, valamint az engedélyezési eljárásban közreműködő szakhatóság eljárása.
 
 V. Ha az építésügyi vagy az építésfelügyeleti hatósághoz egyszerre többféle eljárás lefolytatása iránti kérelem kerül beadásra és azok a külön jogszabály szerint összevonhatóak, vagy egy kérelemmel is benyújthatóak, az illetéket az összevonásra kerülő eljárásonként kell megfizetni.
 
@@ -334,7 +330,7 @@ XXI. A hatósági bizonyítvány kiállítása iránti eljárás illetéke
 
 2.
 
-3. Az anyakönyvi kivonat kiállítása iránti eljárás illetéke – kivonatonként – 2000 forint.
+3.
 
 4. Az adózás rendjéről szóló törvényben meghatározott adóhatósági igazolások illetékmentesek.
 
@@ -342,7 +338,7 @@ XXII. A vízgazdálkodással kapcsolatos helyi önkormányzati hatósági eljár
 
 1. Kérelemre indult eljárások illetéke
 
-a) közműpótló berendezés – a külön jogszabályban meghatározott talajvízkút, szennyvízszikkasztó – létesítésének, átalakításának, megszüntetésének engedélyezése esetén, továbbá víziállás létesítésének, használatbavételének, fennmaradásának vagy átalakításának engedélyezése esetén 5000 forint;
+a) közműpótló berendezés – a külön jogszabályban meghatározott talajvízkút kivételével – létesítésének, átalakításának, megszüntetésének engedélyezése esetén, továbbá vízi állás létesítésének, használatbavételének, fennmaradásának vagy átalakításának engedélyezése esetén 5000 forint;
 
 b) szennyvíz-előtisztító berendezés létesítésének, átalakításának, illetve használatbavételének engedélyezése esetén 10 000 forint.
 

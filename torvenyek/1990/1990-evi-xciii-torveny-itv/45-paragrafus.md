@@ -4,31 +4,23 @@
 
 a) európai részvénytársaság esetében 600 000 forint,
 
-b) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetében 100 000 forint,
+b) zártkörűen működő részvénytársaság esetében 100 000 forint,
 
-c) közkereseti társaság, betéti társaság esetén 50 000 forint,
+c)
 
-d) az a)–c) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
+d) az a) és b) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
 
-e) egyéni cég esetén 30 000 forint,
+e)
 
 f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
 
 g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
 
-(1a) A szociális szövetkezet bejegyzésére irányuló eljárás illetékmentes.
+(1a) A szociális szövetkezet, a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
 
 (2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
 
-(3) Az egyszerűsített eljárással történő cégbejegyzési kérelem illetéke:
-
-a) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetén 50 000 Ft,
-
-b) közkereseti társaság, betéti társaság esetén 25 000 forint,
-
-c) egyéni cég esetén 15 000 forint, azzal, hogy
-
-amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
+(3) Az egyszerűsített eljárással történő cégbejegyzési kérelem illetéke zártkörűen működő részvénytársaság esetén 50 000 Ft, azzal, hogy amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
 
 (3a) A jogutód nélkül megszűnt gazdálkodó szervezet vagyontárgyára vonatkozóan jognak vagy ténynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 83/A. §-a, 83/C. §-a szerinti törlésére irányuló bírósági nemperes eljárás illetéke 10 000 forint.
 
