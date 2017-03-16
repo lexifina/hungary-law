@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2016-09-01 | 2016. évi XXXVI. törvény | 1997-78-00-00.76 |
 | 2016-11-26 | 2016. évi CXVIII. törvény | 1997-78-00-00.77 |
 | 2017-01-01 | 2016. évi CLXXIII. törvény | 1997-78-00-00.78 |
+| 2017-03-16 | 2017. évi II. törvény | 1997-78-00-00.79 |
