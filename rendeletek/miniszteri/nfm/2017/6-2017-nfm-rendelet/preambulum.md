@@ -1,1 +1,0 @@
-A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (2) bekezdés a)–d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
