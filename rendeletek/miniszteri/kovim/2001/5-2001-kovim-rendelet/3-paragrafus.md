@@ -1,1 +1,0 @@
-## A szakszolgálati engedély
