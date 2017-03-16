@@ -1,0 +1,5 @@
+## 45. § Motoros sárkányrepülő eszköz repülésoktatói jogosítást az a személy kaphat, aki betöltötte 21. életévét, rendelkezik hatályos motoros sárkányrepülő eszköz vezető szakszolgálati engedéllyel, sikeresen elvégezte a motoros sárkányrepülő eszköz repülésoktatói jogosítás megszerzésére irányuló elméleti és gyakorlati képzést, sikeresen teljesítette a motoros sárkányrepülő eszköz repülésoktatói jogosítás megszerzésére irányuló kompetencia felmérést és rendelkezik legalább 150 óra repülési idővel motoros sárkányrepülő eszközön parancsnokpilótaként.
+
+46. § (1) A motoros sárkányrepülő eszköz repülésoktatói jogosítás megszerzésére irányuló elméleti és gyakorlati képzés tematikáját a képző szervezet alakítja ki. A tematikáknak legalább a 3. mellékletben meghatározott témakörökre kell kiterjednie.
+
+(2) A motoros sárkányrepülő eszköz repülésoktatói jogosítás megszerzésére irányuló képzés után a növendéknek kompetencia felmérésen kell részt vennie. A kompetencia felmérésnek legalább a 3. mellékletben meghatározottakat kell tartalmaznia.

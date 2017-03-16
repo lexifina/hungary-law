@@ -1,0 +1,1 @@
+## 35. § Az autogiro repülésoktatói jogosítás [a továbbiakban: FI(AG)] engedélyesének joga van a növendék által végrehajtott egyedülrepülést felügyelni, valamint AGPL és FI(AG) kiadása céljából repülésoktatást végrehajtani.

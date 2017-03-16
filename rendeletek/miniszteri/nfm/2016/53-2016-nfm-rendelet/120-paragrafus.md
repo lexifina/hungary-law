@@ -1,0 +1,3 @@
+120. § (1) A vizsgáztatói tanúsítással vagy a képző szervezet megbízásával rendelkező vizsgáztató jogosult annak eldöntésére, hogy a vizsgázó megfelelő szinten elsajátította-e a végezni kívánt tevékenységhez szükséges ismereteket és gyakorlatot.
+
+(2) A vizsgáztatói tanúsítással vagy a képző szervezet megbízásával rendelkező gyakorlati vizsgáztató nem vizsgáztathatja azt a vizsgázót, akinek maga tartotta a szakszolgálati engedélyhez, jogosításhoz vagy tanúsítványhoz szükséges képzést, ha a vizsgázó a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója, vagy bármely egyéb olyan esetben, ha tőle nem várható el az elfogulatlan vizsgáztatás.

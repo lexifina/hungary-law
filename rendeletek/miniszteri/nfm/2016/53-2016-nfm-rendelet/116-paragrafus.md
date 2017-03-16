@@ -1,0 +1,3 @@
+116. § (1) Képzéshez kötött elméleti vizsga esetében a növendék akkor bocsátható elméleti vizsgára, ha a képzés elméleti részét sikeresen teljesítette.
+
+(2) Amennyiben az elméleti vizsgát – a 113. §-ban foglaltak alapján – a légiközlekedési hatóság jogosult lefolytatni, a képző szervezet a légiközlekedési hatóság felé nyilatkozik az elméleti képzés sikeres teljesítéséről. Ez a nyilatkozat kiállításától számított 1 évig használható fel. A képző szervezet nyilatkozatát megújíthatja, ha meggyőződött arról, hogy a képzést korábban teljesítő növendék az igazolt ismereteknek továbbra is birtokában van. Ha a növendék nem rendelkezik a megfelelő ismeretekkel, a képző szervezet ismeretfrissítő oktatásban részesíti.

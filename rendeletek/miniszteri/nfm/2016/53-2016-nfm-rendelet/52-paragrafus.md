@@ -1,0 +1,9 @@
+## V. Fejezet
+
+## A FEDÉLZETI MÉRNÖK SZAKSZOLGÁLATI ENGEDÉLY
+
+## 23. A fedélzeti mérnök szakszolgálati engedéllyel rendelkező engedélyes jogosultságai és az engedély megszerzésének feltételei
+
+52. § (1) A fedélzeti mérnök szakszolgálati engedély (a továbbiakban: F/E) engedélyesének joga van fedélzeti mérnökként tevékenykedni bármely olyan típusú légijárművön, amelyre hatályos típusjogosítással rendelkezik. A szakszolgálati engedélybe legfeljebb 2 hatályos típusjogosítást lehet bejegyezni.
+
+(2) Az F/E első megszerzésekor azt a típusjogosítást kell bejegyezni a szakszolgálati engedélybe, amellyel a jártassági vizsga teljesítve lett.

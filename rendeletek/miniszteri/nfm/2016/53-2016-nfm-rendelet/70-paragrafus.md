@@ -1,0 +1,1 @@
+## 69. § A repülésüzemi tiszt szakszolgálati engedély kérelmezőjének legalább 3 hónapos munkahelyi gyakorlatot kell teljesítenie a kérelmezett jogosításnak megfelelő jogosítással rendelkező repülésüzemi tiszt felügyelete alatt.
