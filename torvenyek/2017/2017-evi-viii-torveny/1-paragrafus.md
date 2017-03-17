@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Vöröskereszt és Vörös Félhold Társaságok Nemzetközi Szövetsége (IFRC) között a Nemzetközi Szövetség Budapesti Regionális Hivatalának és Globális Szolgáltató Központjának jogállásáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
