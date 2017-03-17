@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a magyar–ukrán államhatáron lévő közúti határhidak fenntartásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
