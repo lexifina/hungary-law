@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad Magyarország Kormánya és a Szerb Köztársaság Kormánya között a tiszai hajózásról szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
