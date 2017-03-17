@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről Kanada közötti Stratégiai Partnerségi Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
