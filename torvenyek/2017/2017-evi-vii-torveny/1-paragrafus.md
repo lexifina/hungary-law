@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Horvát Köztársaságnak az Európai Gazdasági Térségben való részvételéről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
