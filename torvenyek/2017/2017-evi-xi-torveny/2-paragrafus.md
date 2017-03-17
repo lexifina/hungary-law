@@ -1,1 +1,1 @@
-2. § Az Országgyűlés a Kiegészítést e törvénnyel kihirdeti.
+2–3. §

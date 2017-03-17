@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
 
 (5) A 2014. évi XLVI. törvénnyel kihirdetett, a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Abaújvár és Kechnec (Kenyhec) települések közötti közúti Hernád-híd és a csatlakozó utak megépítéséről szóló Megállapodásnak a Kiegészítéssel egységes szerkezetbe foglalt, magyar nyelvű szövege közzétételéről a Kiegészítés hatálybalépését követően – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – a közlekedésért felelős miniszter haladéktalanul gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
