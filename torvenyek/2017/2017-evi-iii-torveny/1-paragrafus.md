@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Közösség és tagállamai, másrészről a Dél-afrikai Köztársaság közötti kereskedelmi, fejlesztési és együttműködési megállapodás módosításáról szóló megállapodás (a továbbiakban: módosító megállapodás) kötelező hatályának elismerésére.
