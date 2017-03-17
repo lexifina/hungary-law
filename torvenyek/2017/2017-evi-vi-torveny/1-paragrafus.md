@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Bolgár Köztársaság és Románia Európai Unióhoz való csatlakozásának figyelembevétele céljából az egyrészről az Európai Közösség és tagállamai, másrészről a Tunéziai Köztársaság közötti társulás létrehozásáról szóló euromediterrán megállapodáshoz csatolt jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
