@@ -1,0 +1,1 @@
+A Kormány a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 49. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
