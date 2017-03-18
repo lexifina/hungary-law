@@ -12,7 +12,7 @@ b) a táblaszegély, fasor, fás sáv, vizes árok, továbbá védett tájképi 
 
 (5)[^10] A (3) bekezdés szerinti esetben a változásvezetési kérelmet – a tárgyévi egységes kérelem benyújtására nyitva álló időszakban – az egységes kérelem részeként kell benyújtani.
 
-(6)[^11] A (3) bekezdés szerinti eseten kívül, a tárgyévi egységes kérelem benyújtására nyitva álló időszak végétől tárgyév december 31-ig a változásvezetési kérelmet kizárólag az erre a célra kialakított elektronikus felületen, ügyfélkapun keresztül lehet benyújtani. A változásvezetési kérelem az ügyfél tárgyévi egységes kérelmében bejelentett parcelláit magában foglaló fizikai blokkon felül az azzal közvetlenül szomszédos fizikai blokkban fekvő területre is vonatkozhat.
+(6)[^11] A (3) bekezdés szerinti eseten kívül, a tárgyévi egységes kérelem benyújtására nyitva álló időszak végétől a következő évi egységes kérelem benyújtásának időpontjáig változásvezetési kérelmet kizárólag az erre a célra kialakított elektronikus felületen, ügyfélkapun keresztül lehet benyújtani. A változásvezetési kérelem az ügyfél tárgyévi egységes kérelmében bejelentett parcelláit magában foglaló fizikai blokkon felül az azzal közvetlenül szomszédos fizikai blokkban fekvő területre is vonatkozhat.
 
 (7)[^12] A Kincstár a tárgyévben benyújtott egységes kérelem vonatkozásában kizárólag az (5) bekezdés szerint benyújtott változásvezetési kérelemben foglaltakat veszi figyelembe. A (6) bekezdés szerinti változásvezetési kérelem eredményadatait a Kincstár a 7. § (1) bekezdése szerinti programszerű felújítás eredményadatait már tartalmazó MePAR törzsállományban vezeti át, kivéve, ha indokolt a 9. §-ban foglaltak alapján a 4. § (1) bekezdés a) és c) pontja szerinti adatok, valamint a tárgyévben ökológiai jelentőségű területként bejelentett, az (1) bekezdés b) pontja szerinti elemek vonatkozásában ezen adatoknak a 7. § (1) bekezdése szerinti programszerű felújítás eredményadatait már tartalmazó MePAR létrehozását megelőző, hivatalból indított felülvizsgálata, és a felülvizsgálat alapján az adatok MePAR-ban történő módosítása.
 
@@ -37,7 +37,7 @@ b) a tárgyévben ugyanazon területre vagy annak egy részére már benyújtás
 [^8]: A 8. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 72. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 100. § c) pontja szerint módosított szöveg.
 [^9]: A 8. § (4) bekezdése a 25/2016. (IV. 11.) FM rendelet 72. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 100. § c) pontja szerint módosított szöveg.
 [^10]: A 8. § (5) bekezdése a 25/2016. (IV. 11.) FM rendelet 72. § (2) bekezdésével megállapított szöveg.
-[^11]: A 8. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^11]: A 8. § (6) bekezdése a 13/2017. (III. 17.) FM rendelet 42. §-ával megállapított szöveg.
 [^12]: A 8. § (7) bekezdése a 25/2016. (IV. 11.) FM rendelet 72. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 100. § b) és e) pontja szerint módosított szöveg.
 [^13]: A 8. § (8) bekezdése a 25/2016. (IV. 11.) FM rendelet 72. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 100. § b) pontja szerint módosított szöveg.
 [^14]: A 8. § (9) bekezdése a 25/2016. (IV. 11.) FM rendelet 72. § (2) bekezdésével megállapított, nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 100. § b) pontja szerint módosított szöveg.
