@@ -1,25 +1,13 @@
-## Az ipari zöldségnövények jegyzéke és minimális hektáronkénti vetőmag értékei
+## Az ipari olajnövények jegyzéke és minimális hektáronkénti vetőmag értékei
 
-|  | A | B | C |
+|  | A | B | C | D | E |
 
-| 1 | Ipari zöldségnövény megnevezése | Min. vetőmag darab/ha | Ezermagtömeg gramm |
+| 1 | Megnevezése magyarul | Megnevezése latinul | Szántóföldi termesztés esetén |
 
-| 2 | Sóska | 2 000 000 | 1 |
+| Minimum vetőmag db/hektár | Ezermagtömeg gramm | Minimum palánta db/hektár |
 
-| 3 | Spenót | 2 000 000 | 10 |
+| 2 | Olajtök | Cucurbita pepo ssp.styrica | 5500 | 200 | 5000 |
 
-| 4 | Zöld-, kifejtőborsó (tavaszi és őszi vetésű) | 1 000 000 | 210 |
+5. melléklet a 9/2015. (III. 13.) FM rendelethez[^129]
 
-| 5 | Cukorborsó | 1 000 000 | 260 |
-
-| 6 | Szárazbab1 | 250 000 | 500 |
-
-| 7 | Zöldbab | 250 000 | 300 |
-
-| 8 | Pattogatni való kukorica | 60 000 | 250 |
-
-| 9 | Csemegekukorica | 60 000 | 300 |
-
-## Megjegyzés: 1 A vetőmag minősítésnél a zöldbabra vonatkozó szaporítóanyag előírásoknak kell megfelelni.
-
-5. melléklet a 9/2015. (III. 13.) FM rendelethez
+[^129]: Az 5. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (6) bekezdésével megállapított szöveg.

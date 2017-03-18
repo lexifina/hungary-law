@@ -1,10 +1,8 @@
-## 20151120000009_1
-
-9. melléklet a 9/2015. (III. 13.) FM rendelethez[^111]
+9. melléklet a 9/2015. (III. 13.) FM rendelethez[^133]
 
 Tárolási napló
 
-| Név: | Cím: | ügyfél-azonosító: | Év: |
+| Név: | Cím: | Kincstár ügyfélazonosító-szám: | Év: |
 
 | Megnevezés, méret, minőség: | Nyilvántartási szám: | Oldalszám: |
 
@@ -22,6 +20,6 @@ Tárolási napló
 
 Dátum:
 
-Aláírás
+Cégszerű aláírás
 
-[^111]: A 9. melléklet a 88/2016. (XII. 29.) FM rendelet 80. § g) pontja szerint módosított szöveg.
+[^133]: A 9. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (10) bekezdésével megállapított szöveg.

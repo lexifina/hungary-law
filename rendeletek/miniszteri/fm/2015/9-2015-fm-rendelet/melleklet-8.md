@@ -1,77 +1,65 @@
 ## A szálas fehérjetakarmány-növények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta és gumó értékei
 
-|  | A | B | C | D | E |
+|  | A | B | C | D | E | F |
 
-| 1 | Szálas fehérjetakarmány-növény megnevezése | Min. vetőmag kg/ha | Min. csíraszám db/m2 | Min. palánta, db/ha | Min. gumó - kg/ha |
+| 1 | Megnevezés magyarul | Megnevezés latinul | Minimum vetőmag kg/hektár | Minimum csíraszám db/hektár | Minimum palánta db/hektár | Minimum gumó kg/hektár |
 
-| 2 | Lucerna széna* | 15 | - | - | - |
+| 2 | Lucerna, Lucerna erjesztett takarmány, Lucerna zöldtakarmány* | Medicago sativa | 15 | – | – | – |
 
-| 3 | Lucerna erjesztett takarmány* | 15 | - | - | - |
+| 3 | Komlós lucerna* | Medicago lupulina | 15 | – | – | – |
 
-| 4 | Lucerna zöldtakarmány* | 15 | - | - | - |
+| 4 | Sárkerep lucerna* | Medicago falcata | 15 | – | – | – |
 
-| 5 | Komlós lucerna* | 20 | - | - | - |
+| 5 | Tarkavirágú lucerna* | Medicago x. varia | 15 | – | – | – |
 
-| 6 | Sárkerep lucerna* | 15 | - | - | - |
+| 6 | Lucerna* (vetőmag célra) | Medicago sativa | 8 |  |  |  |
 
-| 7 | Tarkavirágú lucerna* | 15 | - | - | - |
+| 7 | Bíborhere* | Trifolium incarnatum | 10 | – | – | – |
 
-| 8 | Takarmánylucerna*(vetőmag célra) | 15 | - | - | - |
+| 8 | Fehérhere* | Trifolium repens | 6 | – | – | – |
 
-| 9 | Bíborhere* | 30 | - | - | - |
+| 9 | Korcshere (svédhere)* | Trifolium hybridum | 6 | – | – | – |
 
-| 10 | Bíborhere* (vetőmag célra) | 30 | - | - | - |
+| 10 | Vöröshere* | Trifolium pratense | 10 | – | – | – |
 
-| 11 | Fehérhere* | 6 | - | - | - |
+| 11 | Alexandriai here* | Trifolium alexandrinum | 10 | – | – | – |
 
-| 12 | Fehérhere*(vetőmag célra) | 6 | - | - | - |
+| 12 | Legány-féle keverék (pannon- vagy szöszösbükköny, rozs, búza, árpa vagy bíborhere keverék) | Vicia pannonica/Vicia villosa + Triticum aestivum/Secale cerelace + Trifolium incarnatum | búza vagy rozs: 60, szöszösbükköny vagy pannon- bükköny: 80 és bíborhere: 20 | – | – | – |
 
-| 13 | Korcshere* | 6 | -- | -- | - |
+| 13 | Borsós kukoricacsalamádé** | Pisum sativum + zea mays conv. Vulgaris | – | borsó: 600 000 kukorica: 400 000 | – | – |
 
-| 14 | Korcshere* (vetőmag célra) | 6 | - | - | - |
+| 14 | Borsós napraforgó-csalamádé | Pisum sativum + Helianthus annus | 120 kg borsó + 25 kg napraforgó | borsó: 600 000 napraforgó: 400 000 | – | – |
 
-| 15 | Vöröshere* | 20 | - | - | - |
+| 15 | Szarvaskerep* | Lotus corniculatus | 14 | – | – | – |
 
-| 16 | Vöröshere* (vetőmag célra) | 20 | - | - | - |
+| 16 | Takarmánybaltacim* | Onobrychis viciifolia | hámozott vetőmagból 95 kg hámozatlanból 145 kg | – | – | – |
 
-| 17 | Alexandriai here* | 15 | - | - | - |
+| 17 | Takarmánybükköny (Tavaszi bükköny)* | Vicia sativa L. | 30 | – | – | – |
 
-| 18 | Alexandriai here* (vetőmag célra) | 15 | - | - | - |
+| 18 | Szöszösbükköny* | Vicia villosa | 30 | – | – | – |
 
-| 19 | Legány féle keverék | búza vagy rozs: 60, szöszös bükköny vagy pannonbükköny: 80 és bíborhere 20 | - | - | - |
+| 19 | Pannonbükköny* | Vicia pannonica | 30 | – | – | – |
 
-| 20 | Borsós kukoricacsalamádé | - | kukorica 40 borsó 60 | - | - |
+| 20 | Rozsos szöszösbükköny | Secale cereale + Vicia villosa | 60 kg rozs + 105 kg szöszösbükköny | rozs: 2 000 000 szöszös- bükköny: 3 000 000 | – | – |
 
-| 21 | Borsós napraforgó-csalamádé | - | napraforgó: 40 borsó: 60 | - | - |
+| 21 | Szilfium* | Silphium perfoliatum | – | – | 20 000 | – |
 
-| 22 | Szarvaskerep* | 14 | - | - | - |
+| 22 | Keleti kecskeruta* | Galega orientalis | 12 | – | – | – |
 
-| 23 | Baltacím, takarmánybaltacím* | hámozott vetőmagból 95 kg hámozatlanból 145 kg. | - | - | - |
+| 23 | Lósóska | Rumex acetosella | 40 | – | – | – |
 
-| 24 | Baltacím, takarmánybaltacím* (vetőmag célra) | hámozott vetőmagból: 95 hámozatlan vetőmagból: 145 | - | - | - |
+| 24 | Csicsóka* | Helianthus tuberosus | – | – | – | 500 |
 
-| 25 | Takarmány- (tavaszi) bükköny* | 30 | - | - | - |
+| 25 | Szegletes lednek | Lathyrus sativus | 160 | 100 000 |  |  |
 
-| 26 | Szöszösbükköny* | 30 | - | - | - |
+## Megjegyzés:
 
-| 27 | Pannonbükköny* | 30 | - | - | - |
+## * Többéves művelésre alkalmas kultúra
 
-| 28 | Szöszös bükköny* (vetőmag célra) | 30 | - | - | - |
+## ** A keverék tömegértékének meghatározása során a Pisum sativum 117 g/ezer mag, a Zea mays conv. vulgaris
 
-| 29 | Rozsos szöszösbükköny | - | rozs: 200 szöszös bükköny: 300 | - | - |
+## esetében 250 g/ezer mag értékkel kell számolni.
 
-| 30 | Őszi búzás pannon bükköny | - | búza: 300 pannon bükköny: 200 | - | - |
+8. melléklet a 9/2015. (III. 13.) FM rendelethez[^132]
 
-| 31 | Átnőttlevelű szilfium* | - | - | 20.000 | - |
-
-| 32 | Keleti kecskeruta | 12 | - | - | - |
-
-| 33 | Lósóska | 40 | - | - | - |
-
-| 34 | Csicsóka* | - | - | - | 500 |
-
-## Megjegyzés: * Többéves művelésre alkalmas kultúra
-
-8. melléklet a 9/2015. (III. 13.) FM rendelethez[^110]
-
-[^110]: A 8. melléklet a 97/2015. (XII. 23.) FM rendelet 4. §-ával megállapított szöveg.
+[^132]: A 8. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (9) bekezdésével megállapított szöveg.

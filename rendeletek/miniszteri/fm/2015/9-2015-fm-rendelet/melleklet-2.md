@@ -1,29 +1,33 @@
-## Az egyes termeléshez kötött közvetlen támogatási jogcímekre vonatkozó 2015–2020. évi támogatási keretösszegek, millió euró
+## Az egyes termeléshez kötött közvetlen támogatási jogcímekre vonatkozó 2017–2020. évi támogatási keretösszegek, millió euró
 
-|  | A | B | C | D | E | F | G |
+| 1 | A | B | C | D | F |
 
-| 1 | Támogatási jogcím megnevezése | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
+| Támogatási jogcím megnevezése | 2017 | 2018 | 2019 | 2020 |
 
-| 2 | Anyatehéntartás | 35,000 | 34,967 | 34,932 | 34,929 | 34,925 | 33,008 |
+| 2 | Anyatehéntartás | 34,932 | 34,929 | 34,925 | 33,008 |
 
-| 3 | Hízottbika-tartás | 4,500 | 4,496 | 4,491 | 4,491 | 4,490 | 4,244 |
+| 3 | Hízottbika | 4,491 | 4,491 | 4,490 | 4,244 |
 
-| 4 | Tejhasznú tehéntartás | 69,000 | 68,934 | 68,866 | 68,860 | 68,852 | 65,073 |
+| 4 | Tejhasznú tehéntartás | 68,866 | 68,860 | 68,852 | 65,073 |
 
-| 5 | Anyajuhtartás | 22,000 | 21,979 | 21,957 | 21,955 | 21,953 | 20,748 |
+| 5 | Anyajuhtartás | 21,957 | 21,955 | 21,953 | 20,748 |
 
-| 6 | Cukorrépa termesztés | 8,000 | 7,992 | 7,984 | 7,984 | 7,983 | 7,545 |
+| 6 | Cukorrépa termesztés | 7,984 | 7,984 | 7,983 | 7,545 |
 
-| 7 | Rizstermesztés | 2,000 | 1,998 | 1,996 | 1,996 | 1,996 | 1,886 |
+| 7 | Rizstermesztés | 1,996 | 1,996 | 1,996 | 1,886 |
 
-| 8 | Gyümölcstermesztés | 16,500 | 16,484 | 16,468 | 16,466 | 16,465 | 15,561 |
+| 8 | Ipari zöldségnövény termesztés | 11,455 | 11,454 | 11,453 | 10,824 |
 
-| 9 | Zöldségnövény termesztés | 8,000 | 7,992 | 7,984 | 7,984 | 7,983 | 7,545 |
+| 9 | Zöldségnövény termesztés | 5,046 | 5,045 | 5,045 | 4,768 |
 
-| 10 | Ipari zöldségnövény termesztés | 9,945 | 9,936 | 9,926 | 9,925 | 9,924 | 9,379 |
+| 10 | Ipari olajnövény termesztés | 1,411 | 1,411 | 1,411 | 1,333 |
 
-| 11 | Szemes fehérjetakarmány-növény termesztés | 13,458 | 13,445 | 13,431 | 13,430 | 13,429 | 12,692 |
+| 11 | Extenzív gyümölcstermesztés | 9,757 | 9,756 | 9,755 | 9,220 |
 
-| 12 | Szálas fehérjetakarmány-növény termesztés | 13,458 | 13,445 | 13,431 | 13,430 | 13,429 | 12,692 |
+| 12 | Intenzív gyümölcstermesztés | 6,711 | 6,710 | 6,709 | 6,341 |
+
+| 13 | Szemes fehérjetakarmány-növény termesztés | 13,431 | 13,430 | 13,429 | 12,692 |
+
+| 14 | Szálas fehérjetakarmány-növény termesztés | 13,431 | 13,430 | 13,429 | 12,692 |
 
 2. melléklet a 9/2015. (III. 13.) FM rendelethez
