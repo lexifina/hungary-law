@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-150-20-
 | 2016-02-19 | 2012-150-20-2Y.12 | 8/2016. (II. 11.) FM rendelet |
 | 2016-07-22 | 2012-150-20-2Y.13 | 52/2016. (VII. 21.) FM rendelet |
 | 2017-01-01 | 2012-150-20-2Y.14 | 88/2016. (XII. 29.) FM rendelet |
+| 2017-03-18 | 2012-150-20-2Y.15 | 13/2017. (III. 17.) FM rendelet |
