@@ -4,9 +4,9 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1. anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely már legalább egy ízben ellett, vagy legalább egy éves;
+1.[^1] anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely már legalább egy ízben ellett, vagy a birtokon tartási időszak utolsó napján legalább egy éves;
 
-2.[^1] anyatehén: húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született tehén, amely hústermelésre szánt borjak nevelésére tartott állományhoz tartozik, vagy nyolc hónapnál idősebb, még nem ellett, húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született nőivarú szarvasmarhaféle;
+2.[^2] anyatehén: húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született tehén, amely hústermelésre szánt borjak nevelésére tartott állományhoz tartozik, vagy nyolc hónapnál idősebb, még nem ellett, húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született nőivarú szarvasmarhaféle;
 
 3. átruházás: a támogatási kérelmen bejelentett állatok összességének a birtokon tartási időszak alatt egy átvevőnek történő eladása és a történelmi bázis jogosultságról szóló miniszteri rendelet (a továbbiakban: Bázisrendelet) szerinti átruházás;
 
@@ -16,7 +16,7 @@
 
 6. birtokon tartás: a kérelmezett állatnak az egyes jogcímeknél meghatározott ideig a kérelmező tenyészetében történő tartása;
 
-7.[^2]
+7.[^3]
 
 8. egyéni támogatási felsőhatár: a mezőgazdasági termelőt megillető, az állatlétszámhoz kötött támogatási jogosultságról szóló miniszteri rendelet és az állatlétszámhoz kötött támogatási jogosultság országos tartalékból való igénylésének feltételeiről szóló miniszteri rendelet alapján nyilvántartott támogatási jogosultságok összege;
 
@@ -24,7 +24,7 @@
 
 10. kiegészítő történelmi bázis jogosultság: a kiegészítő történelmi bázis jogosultság megállapításáról szóló miniszteri rendelet szerinti jogosultság;
 
-11.[^3] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
+11.[^4] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
 
 12. nem mezőgazdasági célra ideiglenesen használt terület: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 32. cikk (3) bekezdésében meghatározott terület;
 
@@ -42,6 +42,7 @@
 
 19. történelmi bázis jogosultság: az ügyfél történelmi bázisa alapján megállapított mezőgazdasági vagyoni értékű jog.
 
-[^1]: Az 1. § 2. pontja a 40/2015. (VII. 13.) FM rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § 7. pontját a 17/2015. (IV. 9.) FM rendelet 11. §-a hatályon kívül helyezte.
-[^3]: Az 1. § 11. pontja az 52/2015. (IX. 7.) FM rendelet 21. §-ával megállapított szöveg.
+[^1]: Az 1. § 1. pontja a 13/2017. (III. 17.) FM rendelet 6. §-ával megállapított szöveg.
+[^2]: Az 1. § 2. pontja a 40/2015. (VII. 13.) FM rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § 7. pontját a 17/2015. (IV. 9.) FM rendelet 11. §-a hatályon kívül helyezte.
+[^4]: Az 1. § 11. pontja az 52/2015. (IX. 7.) FM rendelet 21. §-ával megállapított szöveg.

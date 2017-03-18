@@ -6,7 +6,7 @@
 
 a) a kieső állatnak a nyilvántartásból történő kijelentése a Szarvasmarha ENAR rendeletnek megfelelően megtörténik,
 
-b)[^31] a mezőgazdasági termelő a kiesés tényét és a pótlásként beállított állatot legkésőbb a pótlásra előírt határidőt követő tizenöt napon belül, a kötelező birtokon tartás utolsó hatvan napjában kieső és nem pótolt állatokat a kiesést követő tizenöt napon belül, a kiesés okát igazoló állatorvosi igazolást mellékelve elektronikus úton, ügyfélkapun keresztül a Kincstár felé bejelenti,
+b)[^27] a mezőgazdasági termelő a kiesés tényét és a pótlásként beállított állatot legkésőbb a pótlásra előírt határidőt követő tizenöt napon belül, a kötelező birtokon tartás utolsó hatvan napjában kieső és nem pótolt állatokat a kiesést követő tizenöt napon belül, a kiesés okát igazoló állatorvosi igazolást mellékelve elektronikus úton, ügyfélkapun keresztül a Kincstár felé bejelenti,
 
 c) a pótlásként beállított állatnak a nyilvántartásba történő bejelentése a Szarvasmarha ENAR rendeletnek megfelelően megtörténik, és
 
@@ -14,4 +14,4 @@ d) a kieső állat tekintetében a mezőgazdasági termelő megfelelt az (1) bek
 
 (4) A pótlásként beállított állatra vonatkozó, (1) bekezdésben foglalt hat hónapos birtokon tartási kötelezettség számításakor a kieső állat esetében eltelt időt figyelembe kell venni.
 
-[^31]: A 15. § (3) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
+[^27]: A 15. § (3) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
