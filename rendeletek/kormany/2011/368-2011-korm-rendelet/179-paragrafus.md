@@ -1,4 +1,4 @@
-179. §[^649] (1) A központi költségvetés központosított bevételét képező bevételeket, amelyek nem az e célra létrehozott központosított beszedési számlára érkeznek be, a számla felett rendelkező szervnek a beérkezést követő öt munkanapon belül a megfelelő beszedési számlára történő átutalással rendeznie kell.
+179. §[^650] (1) A központi költségvetés központosított bevételét képező bevételeket, amelyek nem az e célra létrehozott központosított beszedési számlára érkeznek be, a számla felett rendelkező szervnek a beérkezést követő öt munkanapon belül a megfelelő beszedési számlára történő átutalással rendeznie kell.
 
 (2) A helyi önkormányzat foglalkoztató esetén az Art. 16. § (4) bekezdése szerinti és az Art. 31. § (2) bekezdése szerinti bevallási kötelezettség teljesítése során a 2017. január 1-jét megelőző időszakra technikai adószámon benyújtott bevallások önellenőrzése az eredetileg beadott bevallásban feltüntetett technikai adószámon történik.
 
@@ -6,4 +6,4 @@
 
 (4) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az e rendelet szerint fokozott biztonságú elektronikus aláírással ellátott dokumentummal egyenértékűnek kell tekinteni azt az elektronikus dokumentumot, amelyet az aláírásra jogosult az azonosításra visszavezetett dokumentumhitelesítés központi elektronikus ügyintézési szolgáltatással elektronikusan hitelesített.
 
-[^649]: Az Ávr. 179. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be, szövege a 499/2016. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^650]: Az Ávr. 179. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be, szövege a 499/2016. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.

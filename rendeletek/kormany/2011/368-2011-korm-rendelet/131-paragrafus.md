@@ -1,3 +1,3 @@
-131. §[^438]
+131. §[^439]
 
-[^438]: Az Ávr. 131. §-át a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 7. pontja hatályon kívül helyezte.
+[^439]: Az Ávr. 131. §-át a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 7. pontja hatályon kívül helyezte.

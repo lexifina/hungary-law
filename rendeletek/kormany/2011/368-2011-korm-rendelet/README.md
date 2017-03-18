@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2016-12-16 | 2011-368-20-22.49 | 425/2016. (XII. 15.) Korm. rendelet |
 | 2016-12-29 | 2011-368-20-22.50 | 499/2016. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2011-368-20-22.51 | 499/2016. (XII. 28.) Korm. rendelet |
+| 2017-03-18 | 2011-368-20-22.52 | 46/2017. (III. 17.) Korm. rendelet |

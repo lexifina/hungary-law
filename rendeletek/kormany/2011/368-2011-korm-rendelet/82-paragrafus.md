@@ -36,8 +36,8 @@ irat.
 
 a) a rendőrség esetében a rendészetért felelős miniszter, a büntetés-végrehajtási szervezet esetében a büntetés-végrehajtásért felelős miniszter, a hivatásos katasztrófavédelmi szerv esetében a katasztrófák elleni védekezésért felelős miniszter, a polgári nemzetbiztonsági szolgálatok esetében a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
 
-b)[^308] a honvédelmi foglalkoztatók esetében a honvédelemért felelős miniszter
+b)[^309] a honvédelmi foglalkoztatók esetében a honvédelemért felelős miniszter
 
 által kiállított igazolás szolgál.
 
-[^308]: Az Ávr. 82. § (5) bekezdés b) pontja a 358/2015. (XII. 2.) Korm. rendelet 3. §-a, a 259/2016. (VIII. 31.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^309]: Az Ávr. 82. § (5) bekezdés b) pontja a 358/2015. (XII. 2.) Korm. rendelet 3. §-a, a 259/2016. (VIII. 31.) Korm. rendelet 65. §-a szerint módosított szöveg.

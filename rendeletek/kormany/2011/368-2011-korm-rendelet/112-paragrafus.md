@@ -4,19 +4,19 @@ a) a helyi önkormányzat a központi költségvetésről szóló törvényben m
 
 b) a helyi önkormányzat a központi költségvetésről szóló törvényben meghatározott második időpontig lemond a támogatás jogosulatlanul igénybe vett részéről, a jegybanki alapkamat,
 
-c)[^372] a visszafizetési kötelezettség az éves költségvetési beszámolóban elszámolás vagy az önellenőrzés során keletkezik, illetve azt a Kincstár az Áht. 59. §-a szerinti felülvizsgálat során vagy az Állami Számvevőszék állapítja meg, a jegybanki alapkamat kétszerese.
+c)[^373] a visszafizetési kötelezettség az éves költségvetési beszámolóban elszámolás vagy az önellenőrzés során keletkezik, illetve azt a Kincstár az Áht. 59. §-a szerinti felülvizsgálat során vagy az Állami Számvevőszék állapítja meg, a jegybanki alapkamat kétszerese.
 
 (2) A helyi önkormányzatok egymás közötti, illetve az államháztartás önkormányzati alrendszerén kívüli feladat-, illetve intézmény átadásához kapcsolódó lemondást kamatfizetési kötelezettség nem terheli.
 
 (3) Ha a jogosulatlanul igénybe vett támogatás összege nem haladja meg az ötszázezer forintot, az (1) bekezdés szerinti kamat 50%-át kell megfizetni.
 
-(4)[^373] A helyi önkormányzat a 111. § a) pontjában meghatározott egyenleggel kapcsolatban késedelmi kamatot fizet
+(4)[^374] A helyi önkormányzat a 111. § a) pontjában meghatározott egyenleggel kapcsolatban késedelmi kamatot fizet
 
 a) az éves költségvetési beszámolójában kimutatott visszafizetési kötelezettség összege után, ha azt a beszámoló Kincstárhoz történő benyújtási határidejének leteltét követő tizenöt napon belül nem teljesíti, és
 
-b)[^374] az Áht. 59. §-a szerinti felülvizsgálat, az önellenőrzés során vagy az Állami Számvevőszék által megállapított visszafizetési kötelezettség összege után.
+b)[^375] az Áht. 59. §-a szerinti felülvizsgálat, az önellenőrzés során vagy az Állami Számvevőszék által megállapított visszafizetési kötelezettség összege után.
 
-(5)[^375] A késedelmi kamat fizetési kötelezettség kezdő napja az államháztartási számviteli kormányrendelet által az éves költségvetési beszámoló Kincstárhoz történő benyújtására előírt határidőt követő 16. nap, zárónapja a teljesítés napja. A késedelmi kamat mértéke a jegybanki alapkamat kétszerese. A késedelmi kamatot és a 98. § szerinti ügyleti kamatot a helyi önkormányzat állapítja meg, melyet a Kincstár ellenőriz. Ha a Kincstár a megállapított kamat összegét vitatja, a helyi önkormányzatot határozatban kötelezi a késedelmi kamatkülönbözet megfizetésére, illetve intézkedik a többlet visszautalása érdekében.
+(5)[^376] A késedelmi kamat fizetési kötelezettség kezdő napja az államháztartási számviteli kormányrendelet által az éves költségvetési beszámoló Kincstárhoz történő benyújtására előírt határidőt követő 16. nap, zárónapja a teljesítés napja. A késedelmi kamat mértéke a jegybanki alapkamat kétszerese. A késedelmi kamatot és a 98. § szerinti ügyleti kamatot a helyi önkormányzat állapítja meg, melyet a Kincstár ellenőriz. Ha a Kincstár a megállapított kamat összegét vitatja, a helyi önkormányzatot határozatban kötelezi a késedelmi kamatkülönbözet megfizetésére, illetve intézkedik a többlet visszautalása érdekében.
 
 (6) E § alkalmazásában jegybanki alapkamaton, ha a helyi önkormányzat visszafizetési kötelezettségének
 
@@ -26,7 +26,7 @@ b) az igénybevétel évét követően tesz eleget, az igénybevétel éve átla
 
 kell érteni.
 
-[^372]: Az Ávr. 112. § (1) bekezdés c) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 14. pontja szerint módosított szöveg.
-[^373]: Az Ávr. 112. § (4) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 29. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^374]: Az Ávr. 112. § (4) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 15. pontja szerint módosított szöveg.
-[^375]: Az Ávr. 112. § (5) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 16. pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^373]: Az Ávr. 112. § (1) bekezdés c) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 14. pontja szerint módosított szöveg.
+[^374]: Az Ávr. 112. § (4) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 29. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^375]: Az Ávr. 112. § (4) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 15. pontja szerint módosított szöveg.
+[^376]: Az Ávr. 112. § (5) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 16. pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.

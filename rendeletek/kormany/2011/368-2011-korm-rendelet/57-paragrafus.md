@@ -4,12 +4,12 @@
 
 (2) A kötelezettséget vállaló szerv belső szabályzatában előírhatja a bevételek meghatározott körére nézve is a teljesítés igazolásának kötelezettségét.
 
-(3)[^203] A teljesítést az igazolás dátumának és a teljesítés tényére történő utalás megjelölésével, az arra jogosult személy aláírásával kell igazolni. Az 53. § (1) bekezdése szerinti kötelezettségvállalások, más fizetési kötelezettségek esetén a teljesítésigazolást nem kell elvégezni, kivéve, ha a kötelezettségvállaló szerv belső szabályzata azt kifejezetten előírja.
+(3)[^204] A teljesítést az igazolás dátumának és a teljesítés tényére történő utalás megjelölésével, az arra jogosult személy aláírásával kell igazolni. Az 53. § (1) bekezdése szerinti kötelezettségvállalások, más fizetési kötelezettségek esetén a teljesítésigazolást nem kell elvégezni, kivéve, ha a kötelezettségvállaló szerv belső szabályzata azt kifejezetten előírja.
 
-(4)[^204] A teljesítés igazolására a kötelezettségvállaló vagy az általa – az adott kötelezettségvállaláshoz vagy a kötelezettségvállalások előre meghatározott csoportjaihoz kapcsolódóan – írásban kijelölt személy jogosult.
+(4)[^205] A teljesítés igazolására a kötelezettségvállaló vagy az általa – az adott kötelezettségvállaláshoz vagy a kötelezettségvállalások előre meghatározott csoportjaihoz kapcsolódóan – írásban kijelölt személy jogosult.
 
-(5)[^205] Ha a teljesítés igazolásának alapjául szolgáló okmány elektronikusan áll rendelkezésre, a teljesítés e dokumentumnak a teljesítésigazoló legalább fokozott biztonságú elektronikus aláírásával történő ellátásával is igazolható. A (4) bekezdés szerinti írásos kijelölés a kötelezettségvállaló legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
+(5)[^206] Ha a teljesítés igazolásának alapjául szolgáló okmány elektronikusan áll rendelkezésre, a teljesítés e dokumentumnak a teljesítésigazoló legalább fokozott biztonságú elektronikus aláírásával történő ellátásával is igazolható. A (4) bekezdés szerinti írásos kijelölés a kötelezettségvállaló legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
 
-[^203]: Az Ávr. 57. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^204]: Az Ávr. 57. § (4) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^205]: Az Ávr. 57. § (5) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^204]: Az Ávr. 57. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^205]: Az Ávr. 57. § (4) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^206]: Az Ávr. 57. § (5) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 7. § (2) bekezdése iktatta be.

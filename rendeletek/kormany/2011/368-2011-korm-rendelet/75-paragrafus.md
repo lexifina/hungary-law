@@ -1,4 +1,4 @@
-75. §[^292] (1) A támogatási szerződés megkötéséhez a kedvezményezettnek be kell nyújtania a (2) bekezdés szerinti nyilatkozatokat, dokumentumokat. A nyilatkozatok, dokumentumok benyújtásának határideje a támogatói okirattal biztosított költségvetési támogatás esetén a támogatói okirat kiadásának, támogatási szerződéssel biztosított költségvetési támogatás esetén a támogatási szerződés megkötésének napja. Támogatási szerződés alkalmazása esetén nem szükséges a (2) bekezdés szerinti nyilatkozatok benyújtása, ha a kedvezményezett a nyilatkozatokat a támogatási szerződés szövegébe foglalva teszi meg.
+75. §[^293] (1) A támogatási szerződés megkötéséhez a kedvezményezettnek be kell nyújtania a (2) bekezdés szerinti nyilatkozatokat, dokumentumokat. A nyilatkozatok, dokumentumok benyújtásának határideje a támogatói okirattal biztosított költségvetési támogatás esetén a támogatói okirat kiadásának, támogatási szerződéssel biztosított költségvetési támogatás esetén a támogatási szerződés megkötésének napja. Támogatási szerződés alkalmazása esetén nem szükséges a (2) bekezdés szerinti nyilatkozatok benyújtása, ha a kedvezményezett a nyilatkozatokat a támogatási szerződés szövegébe foglalva teszi meg.
 
 (2) A kedvezményezettől írásbeli nyilatkozatot kell kérni arra vonatkozóan, hogy
 
@@ -8,7 +8,7 @@ b) nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt
 
 c) a saját forrás rendelkezésre áll,
 
-d)[^293] megfelel az Áht. 48/B. §-ában és 50. §-ában meghatározott követelményeknek, kivéve, ha erről a Kormány az Áht. 50. § (2) bekezdése szerint egyedi határozatban döntött,
+d)[^294] megfelel az Áht. 48/B. §-ában és 50. §-ában meghatározott követelményeknek, kivéve, ha erről a Kormány az Áht. 50. § (2) bekezdése szerint egyedi határozatban döntött,
 
 e) nem áll fenn harmadik személy irányában olyan kötelezettsége, amely a költségvetési támogatás céljának megvalósulását meghiúsíthatja,
 
@@ -20,11 +20,11 @@ h) ha a támogatott tevékenység hatósági engedélyhez kötött, annak megval
 
 (3) Az államháztartáson kívüli kedvezményezett a támogatási szerződés megkötéséhez vagy – ha a pályázati kiírás lehetővé teszi – legkésőbb a költségvetési támogatás folyósítását megelőzően a kedvezményezett a támogató rendelkezésére bocsátja
 
-a)[^294] a nevében aláírásra jogosult személy vagy személyek pénzügyi intézmény által igazolt, ügyvéd által ellenjegyzett vagy közjegyző által hitelesített aláírás mintáját vagy az aláírás minta közjegyző által hitesített másolatát és
+a)[^295] a nevében aláírásra jogosult személy vagy személyek pénzügyi intézmény által igazolt, ügyvéd által ellenjegyzett vagy közjegyző által hitelesített aláírás mintáját vagy az aláírás minta közjegyző által hitesített másolatát és
 
-b)[^295] a létesítő okiratának vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratának eredeti példányát.
+b)[^296] a létesítő okiratának vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratának eredeti példányát.
 
-(3a)[^296] Ha a kedvezményezett három éven belül több alkalommal nyújt be pályázatot ugyanahhoz a támogatóhoz, és a (3) bekezdésben meghatározott okiratokban foglalt adatok nem változtak, a (3) bekezdésben meghatározott okiratokat a legkorábban benyújtott pályázathoz kell csatolni, a további pályázatban pedig nyilatkozni arról, hogy a (3) bekezdésben meghatározott okiratokban foglalt adatok nem változtak.
+(3a)[^297] Ha a kedvezményezett három éven belül több alkalommal nyújt be pályázatot ugyanahhoz a támogatóhoz, és a (3) bekezdésben meghatározott okiratokban foglalt adatok nem változtak, a (3) bekezdésben meghatározott okiratokat a legkorábban benyújtott pályázathoz kell csatolni, a további pályázatban pedig nyilatkozni arról, hogy a (3) bekezdésben meghatározott okiratokban foglalt adatok nem változtak.
 
 (4) A (2) bekezdés c) pontja szerinti nyilatkozaton
 
@@ -36,25 +36,25 @@ c) az a) és b) pont alá nem tartozó esetben – a pályázati kiírás szerin
 
 kell érteni.
 
-(4a)[^297] Ha a támogató a költségvetési támogatás feltételeként előírja, hogy a támogatás igénylőjének meghatározott nagyságrendű saját forrással kell rendelkeznie, nem tekinthető saját forrásnak az államháztartás központi alrendszeréből kapott más költségvetési támogatás, kivéve az EU Önerő Alapból és a Kbt. alapján ajánlatkérőnek minősülő szervezetnek a részben európai uniós forrásból finanszírozott projektek megvalósításához európai uniós versenyjogi értelemben vett állami támogatási szabályokkal összhangban nyújtott önerő támogatást.
+(4a)[^298] Ha a támogató a költségvetési támogatás feltételeként előírja, hogy a támogatás igénylőjének meghatározott nagyságrendű saját forrással kell rendelkeznie, nem tekinthető saját forrásnak az államháztartás központi alrendszeréből kapott más költségvetési támogatás, kivéve az EU Önerő Alapból és a Kbt. alapján ajánlatkérőnek minősülő szervezetnek a részben európai uniós forrásból finanszírozott projektek megvalósításához európai uniós versenyjogi értelemben vett állami támogatási szabályokkal összhangban nyújtott önerő támogatást.
 
 (5) A (2) és (3) bekezdés alapján benyújtott dokumentumok kiállításának dátuma nem lehet a támogatási igény benyújtásának napjától számított harminc napnál régebbi.
 
 (6) Költségvetési szerv, helyi önkormányzat, nemzetiségi önkormányzat, egyházi jogi személy, közalapítvány, illetve az állam 100%-os tulajdonában álló gazdálkodó szervezet támogatási igénye esetén – ideértve azt az esetet is, ha a támogató a gazdálkodó szervezet felett alapítói, tulajdonosi (tagsági, részvényesi) jogokat gyakorol – nem kell csatolni a (2) és (3) bekezdés szerinti olyan nyilatkozatokat, dokumentumokat, illetve nem kell a támogatási szerződésben megtenni azokat a nyilatkozatokat, amelyek olyan tények fennállását tanúsítják, amelyekről a támogatónak egyébként hivatalos tudomása van.
 
-(6a)[^298] Ha valamely hatósági engedély a támogatott tevékenység egyes elemeinek megvalósítását követően szerezhető be, a (2) bekezdés h) pontja alapján csak a támogatott tevékenység megkezdéséhez szükséges hatósági engedélyek meglétéről kell nyilatkozni, a további hatósági engedélyek meglétét a támogató a támogatott tevékenység megvalósítására vonatkozó beszámoló keretében ellenőrzi.
+(6a)[^299] Ha valamely hatósági engedély a támogatott tevékenység egyes elemeinek megvalósítását követően szerezhető be, a (2) bekezdés h) pontja alapján csak a támogatott tevékenység megkezdéséhez szükséges hatósági engedélyek meglétéről kell nyilatkozni, a további hatósági engedélyek meglétét a támogató a támogatott tevékenység megvalósítására vonatkozó beszámoló keretében ellenőrzi.
 
-(7)[^299] Külföldi kedvezményezett esetén – ha jogszabály másként nem rendelkezik – a (2) bekezdés d) és g) pontja a magyarországi munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a (2) bekezdés b) pontjában meghatározott megszüntetésre irányuló eljárás a kedvezményezett személyes jogának szabályai alapján értelmezendő. A külföldi kedvezményezett személyes joga alkalmazandó továbbá abban az esetben is, ha jogszabály a támogatás felhasználása tekintetében közbeszerzési kötelezettséget ír elő.
+(7)[^300] Külföldi kedvezményezett esetén – ha jogszabály másként nem rendelkezik – a (2) bekezdés d) és g) pontja a magyarországi munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a (2) bekezdés b) pontjában meghatározott megszüntetésre irányuló eljárás a kedvezményezett személyes jogának szabályai alapján értelmezendő. A külföldi kedvezményezett személyes joga alkalmazandó továbbá abban az esetben is, ha jogszabály a támogatás felhasználása tekintetében közbeszerzési kötelezettséget ír elő.
 
 (8) Ha a (2) és (3) bekezdés szerinti nyilatkozatokat, dokumentumokat a támogatási igényhez csatolták, és a nyilatkozat, dokumentum tartalma a befogadást követően további vizsgálatot nem igényel, azok ismételt benyújtása a támogatási szerződés megkötéséhez nem szükséges.
 
 (9) A támogató nem írhatja elő tulajdoni lap másolatának a támogatási igényhez történő csatolását. Szükség esetén a támogatási igény elbírálásához elektronikus tulajdoni lap másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a támogatási igény benyújtójának kell viselnie.
 
-[^292]: Az Ávr. 75. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 4. pontja hatályon kívül helyezte.
-[^293]: Az Ávr. 75. § (2) bekezdés d) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
-[^294]: Az Ávr. 75. § (3) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
-[^295]: Az Ávr. 75. § (3) bekezdés b) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
-[^296]: Az Ávr. 75. § (3a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 9. §-a iktatta be.
-[^297]: Az Ávr. 75. § (4a) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
-[^298]: Az Ávr. 75. § (6a) bekezdését a 82/2015. (III. 31.) Korm. rendelet 2. §-a iktatta be.
-[^299]: Az Ávr. 75. § (7) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 17. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 11. pontja szerint módosított szöveg.
+[^293]: Az Ávr. 75. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 4. pontja hatályon kívül helyezte.
+[^294]: Az Ávr. 75. § (2) bekezdés d) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
+[^295]: Az Ávr. 75. § (3) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
+[^296]: Az Ávr. 75. § (3) bekezdés b) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
+[^297]: Az Ávr. 75. § (3a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 9. §-a iktatta be.
+[^298]: Az Ávr. 75. § (4a) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^299]: Az Ávr. 75. § (6a) bekezdését a 82/2015. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^300]: Az Ávr. 75. § (7) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 17. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 11. pontja szerint módosított szöveg.

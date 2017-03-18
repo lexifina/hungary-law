@@ -1,4 +1,4 @@
-102/D. § (1)[^338] Pályázati úton biztosított költségvetési támogatás esetén a támogatás igénylője vagy a kedvezményezett – kezelő szerv kijelölése vagy lebonyolító szerv igénybevétele, illetve közreműködő szervezet kijelölése esetén – a kezelő szervnél, lebonyolító szervnél, illetve közreműködő szervnél, ennek hiányában a támogatónál kifogást nyújthat be, ha a pályázati eljárásra, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetési támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő, a pályázati kiírásba vagy a támogatási szerződésbe ütközik. E §-t a kizárólag hazai forrás terhére finanszírozott, pályázati úton biztosított költségvetési támogatás esetén a költségvetési támogatás államháztartáson kívüli igénylője vagy kedvezményezettje tekintetében kell alkalmazni.
+102/D. § (1)[^339] Pályázati úton biztosított költségvetési támogatás esetén a támogatás igénylője vagy a kedvezményezett – kezelő szerv kijelölése vagy lebonyolító szerv igénybevétele, illetve közreműködő szervezet kijelölése esetén – a kezelő szervnél, lebonyolító szervnél, illetve közreműködő szervnél, ennek hiányában a támogatónál kifogást nyújthat be, ha a pályázati eljárásra, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetési támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő, a pályázati kiírásba vagy a támogatási szerződésbe ütközik. E §-t a kizárólag hazai forrás terhére finanszírozott, pályázati úton biztosított költségvetési támogatás esetén a költségvetési támogatás államháztartáson kívüli igénylője vagy kedvezményezettje tekintetében kell alkalmazni.
 
 (2) Nem nyújtható be kifogás az olyan döntés, intézkedés ellen, amellyel szemben jogorvoslatnak van helye vagy amely a támogatás igénylőjére, illetve a kedvezményezettre vonatkozó jogot, kötelezettséget közvetlenül nem állapít meg.
 
@@ -16,7 +16,7 @@ d) a kifogás alapjául szolgáló tényeket és a kifogásolt vagy elmaradt int
 
 e) nem elektronikus úton történő kapcsolattartás esetén a kifogást tevő aláírását.
 
-(5)[^339] Érdemi vizsgálat nélkül el kell utasítani a kifogást, ha
+(5)[^340] Érdemi vizsgálat nélkül el kell utasítani a kifogást, ha
 
 a) azt határidőn túl terjesztették elő,
 
@@ -32,15 +32,15 @@ f) a kifogás benyújtásának nincs helye,
 
 g) a kifogás kizárólag olyan jogsértés ellen irányul, mely a sérelmezett eljárás megismétlésével nem orvosolható.
 
-(5a)[^340] Kezelő szerv kijelölése vagy lebonyolító szerv, illetve közreműködő szervezet igénybevétele esetén a kezelő szerv, a lebonyolító szerv, illetve a közreműködő szerv, ennek hiányában a támogató – ha a kifogásban foglaltakkal egyetért – megteszi a kifogásban sérelmezett helyzet megszüntetéséhez szükséges intézkedéseket, vagy továbbítja a kifogást a fejezetet irányító szervnek.
+(5a)[^341] Kezelő szerv kijelölése vagy lebonyolító szerv, illetve közreműködő szervezet igénybevétele esetén a kezelő szerv, a lebonyolító szerv, illetve a közreműködő szerv, ennek hiányában a támogató – ha a kifogásban foglaltakkal egyetért – megteszi a kifogásban sérelmezett helyzet megszüntetéséhez szükséges intézkedéseket, vagy továbbítja a kifogást a fejezetet irányító szervnek.
 
-(6)[^341] A fejezetet irányító szerv a kifogást annak kézhezvételétől számított harminc napon belül érdemben elbírálja. Az elbírálás határideje egy alkalommal, legfeljebb harminc nappal meghosszabbítható, erről a határidő lejárta előtt tájékoztatni kell a kifogás benyújtóját. A kifogás elbírálásában – a fejezetet irányító szerv vezetője kivételével – nem vehet részt az, aki a kifogással érintett eljárásban részt vett.
+(6)[^342] A fejezetet irányító szerv a kifogást annak kézhezvételétől számított harminc napon belül érdemben elbírálja. Az elbírálás határideje egy alkalommal, legfeljebb harminc nappal meghosszabbítható, erről a határidő lejárta előtt tájékoztatni kell a kifogás benyújtóját. A kifogás elbírálásában – a fejezetet irányító szerv vezetője kivételével – nem vehet részt az, aki a kifogással érintett eljárásban részt vett.
 
 (7) Ha a kifogás alapos, a fejezetet irányító szerv elrendeli a kifogásban sérelmezett helyzet megszüntetéséhez szükséges intézkedést, egyébként azt elutasítja, és döntéséről – elutasítás esetén az elutasítás indokainak megjelölésével – a kifogást benyújtóját írásban értesíti.
 
 (8) A kifogás tárgyában hozott döntés ellen további kifogás előterjesztésének vagy más jogorvoslat igénybevételének nincs helye.
 
-[^338]: Az Ávr. 102/D. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 11. pontja, a 465/2015. (XII. 29.) Korm. rendelet 24. § 23. pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
-[^339]: Az Ávr. 102/D. § (5) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 28. § 12. pontja szerint módosított szöveg.
-[^340]: Az Ávr. 102/D. § (5a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 15. §-a iktatta be.
-[^341]: Az Ávr. 102/D. § (6) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 13. pontja szerint módosított szöveg.
+[^339]: Az Ávr. 102/D. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 11. pontja, a 465/2015. (XII. 29.) Korm. rendelet 24. § 23. pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
+[^340]: Az Ávr. 102/D. § (5) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 28. § 12. pontja szerint módosított szöveg.
+[^341]: Az Ávr. 102/D. § (5a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 15. §-a iktatta be.
+[^342]: Az Ávr. 102/D. § (6) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 13. pontja szerint módosított szöveg.
