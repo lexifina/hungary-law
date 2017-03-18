@@ -28,10 +28,12 @@ c) a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti szálláshely
 
 10. pénzügyi év: a naptári év vagy a számvitelről szóló 2000. évi C. törvénynek megfelelően választott, ettől eltérő üzleti év;
 
-11. repülőtér üzemeltetője: a Nemzeti Közlekedési Hatóság által a repülőterek üzemeltetőiről vezetett közhiteles nyilvántartásban üzemeltetőként feltüntetett, illetve a 2. melléklet III. pontjában meghatározott ÖVTJ kód szerinti tevékenységet végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet;
+11.[^2] repülőtér üzemeltetője: a légiközlekedési hatóság által a repülőterek üzemeltetőiről vezetett közhiteles nyilvántartásban üzemeltetőként feltüntetett, illetve a 2. melléklet III. pontjában meghatározott ÖVTJ kód szerinti tevékenységet végző természetes személy vagy jogi személy;
 
-12. vasúttársaság üzemeltetője: a Nemzeti Közlekedési Hatóság nyilvántartásába engedélyköteles vagy bejelentéshez kötött vasúti szolgáltatás végzőjeként bejegyzett, illetve az 1. melléklet III. pontjában vagy a 2. melléklet IV. pontjában meghatározott TEÁOR vagy ÖVTJ kódok valamelyike szerinti tevékenységet végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet;
+12.[^3] vasúttársaság üzemeltetője: a vasúti igazgatási szerv nyilvántartásába engedélyköteles vagy bejelentéshez kötött vasúti szolgáltatás végzőjeként bejegyzett, illetve az 1. melléklet III. pontjában vagy a 2. melléklet IV. pontjában meghatározott TEÁOR vagy ÖVTJ kódok valamelyike szerinti tevékenységet végző természetes személy vagy jogi személy;
 
 13. vízmű üzemeltetője: a Magyar Energetikai és Közműszabályozási Hivatal nyilvántartásába bejegyzett víziközmű szolgáltató, illetve az 1. melléklet IV. pontjában vagy a 2. melléklet V. pontjában meghatározott TEÁOR vagy ÖVTJ kód valamelyike szerinti tevékenységet végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
 
 [^1]: Az 1. § 8. pontja a 16/2015. (IV. 9.) FM rendelet 7. §-ával megállapított szöveg.
+[^2]: Az 1. § 11. pontja a 13/2017. (III. 17.) FM rendelet 13. §-ával megállapított szöveg.
+[^3]: Az 1. § 12. pontja a 13/2017. (III. 17.) FM rendelet 13. §-ával megállapított szöveg.

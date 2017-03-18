@@ -16,29 +16,29 @@
 
 ## 9603 temetkezés, temetkezést kiegészítő szolgáltatás
 
-2. melléklet a 8/2015. (III. 13.) FM rendelethez[^15]
+2. melléklet a 8/2015. (III. 13.) FM rendelethez[^18]
 
 ## ÖVTJ kódok
 
-I. Állandó sport- és rekreációs terület üzemeltetése:
+## I.[^19] Állandó sport- és rekreációs terület üzemeltetése:
 
-## 551001 szállodai szolgáltatás
+## 551001 szállodai szolgáltatás m.n.s
 
 ## 551002 panzió szolgáltatás
 
-## 552006 üdülési, egyéb átmeneti szálláshely szolgáltatás
+## 552006 üdülési, egyéb átmeneti szálláshely szolgáltatás m.n.s
 
-## 552007 közösségi szálláshely szolgáltatás: üdülő
+## 552007 közösségi, szabadidős szálláshely-szolgáltatás: üdülő
 
 ## 553001 kempingszolgáltatás
 
-## 559001 egyéb szálláshely szolgáltatás
+## 559001 nem üdülési, nem turisztikai egyéb szálláshely-szolgáltatás
 
 ## 931101 sportlétesítmény működtetése
 
-## 931302 fitneszklub, kondicionálóterem működtetése
+## 931302 fitneszklub, kondicionálóterem működtetése; aerobic
 
-## 931902 egyéb, máshová nem sorolt sporttevékenység
+## 931902 egyéb, m.n.s sporttevékenység
 
 ## 931905 sport és szabadidős lovagoltatás
 
@@ -82,4 +82,5 @@ V. Vízmű üzemeltetése:
 
 429101 vízi létesítmény építése
 
-[^15]: A 2. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § b) pontjával megállapított szöveg.
+[^18]: A 2. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § b) pontjával megállapított szöveg.
+[^19]: A 2. melléklet I. pontja a 13/2017. (III. 17.) FM rendelet 15. §-ával megállapított szöveg.

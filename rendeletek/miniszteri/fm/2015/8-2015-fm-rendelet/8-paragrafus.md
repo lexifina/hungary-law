@@ -1,4 +1,4 @@
-## 7/A. § E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó egyes rendeletek módosításáról szóló 40/2015. (VII. 13.) FM rendelettel [a továbbiakban: 40/2015. (VII. 13.) FM rendelet] megállapított 2. § (2) bekezdését és 5. § (2) bekezdését a 40/2015. (VII. 13.) FM rendelet hatálybalépésekor[^13] folyamatban lévő ügyekben is alkalmazni kell.
+## 7/A. § E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó egyes rendeletek módosításáról szóló 40/2015. (VII. 13.) FM rendelettel [a továbbiakban: 40/2015. (VII. 13.) FM rendelet] megállapított 2. § (2) bekezdését és 5. § (2) bekezdését a 40/2015. (VII. 13.) FM rendelet hatálybalépésekor[^16] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 6. Az Európai Unió jogának való megfelelés
 
@@ -12,4 +12,4 @@ c) a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre von
 
 d) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról szóló 1307/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak megállapításáról szóló, 2014. június 16-i 641/2014/EU bizottsági végrehajtási rendelet
 
-[^13]: A hatálybalépés időpontja 2015. július 14.
+[^16]: A hatálybalépés időpontja 2015. július 14.
