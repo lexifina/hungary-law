@@ -4,19 +4,19 @@
 
 a) magyar állampolgár,
 
-b)[^163] bevándorolt, letelepedett, Magyarország által menekültként elismert, tartózkodási vízummal vagy tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
+b)[^168] bevándorolt, letelepedett, Magyarország által menekültként elismert, tartózkodási vízummal vagy tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
 
 c) külön törvény alapján a szabad mozgás és tartózkodás jogával rendelkező személy, valamint
 
-d)[^164] magyar vagy Magyarország területén székhellyel rendelkező külföldi jogi személy vagy jogi személyiség nélküli szervezet
+d)[^169] magyar vagy Magyarország területén székhellyel rendelkező külföldi jogi személy vagy jogi személyiség nélküli szervezet
 
-## terjeszthet elő.
+terjeszthet elő.
 
-(2)[^165] A meghívólevél iránti kérelmet külön jogszabályban meghatározott formanyomtatványon a kérelmező lakóhelye, tartózkodási helye vagy szálláshelye, illetve a jogi személy székhelye szerint illetékes regionális igazgatóságon személyesen, jogi személy meghívó esetén meghatalmazott képviselő útján kell benyújtani.
+(2)[^170] A meghívólevél iránti kérelmet külön jogszabályban meghatározott formanyomtatványon a kérelmező lakóhelye, tartózkodási helye vagy szálláshelye, illetve a jogi személy székhelye szerint illetékes regionális igazgatóságon személyesen, jogi személy meghívó esetén meghatalmazott képviselő útján kell benyújtani.
 
-(3)[^166] A regionális igazgatóság a meghívólevél iránti kérelmet tizenöt napon belül, ha a meghívott harmadik országbeli állampolgár beutazásához Magyarországnak jelentős gazdasági, kulturális, tudományos vagy sportérdeke fűződik, nyolc napon belül bírálja el.
+(3)[^171] A regionális igazgatóság a meghívólevél iránti kérelmet tizenöt napon belül, ha a meghívott harmadik országbeli állampolgár beutazásához Magyarországnak jelentős gazdasági, kulturális, tudományos vagy sportérdeke fűződik, nyolc napon belül bírálja el.
 
-[^163]: A 64. § (1) bekezdés b) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^164]: A 64. § (1) bekezdés d) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^165]: A 64. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^166]: A 64. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^168]: A 64. § (1) bekezdés b) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^169]: A 64. § (1) bekezdés d) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^170]: A 64. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^171]: A 64. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.

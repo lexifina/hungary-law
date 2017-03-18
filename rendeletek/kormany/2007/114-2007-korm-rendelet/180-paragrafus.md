@@ -5,3 +5,5 @@
 a) a nyomozó hatóság vagy igazságszolgáltatási szerv tájékoztatása alapján a Tv. 104. § (1) bekezdés a)–c) pontjaiban,
 
 b) a Rendőrség tájékoztatása alapján a Tv. 104. § (1) bekezdés a)–b) és d) pontjaiban
+
+meghatározott adatokat a központi adatkezelő szerv részére továbbítja.

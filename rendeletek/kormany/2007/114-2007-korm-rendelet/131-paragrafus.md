@@ -1,6 +1,6 @@
 ## A közösségi szállás
 
-131. § (1)[^381] Közösségi szállás az idegenrendészeti eljárás alatt álló külföldiek, a Tv. 29. § (1) bekezdés a)–c) pontja alapján humanitárius célú tartózkodási engedéllyel rendelkező, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok elhelyezésére szolgáló, a Hivatal által fenntartott szálláshely.
+131. § (1)[^394] Közösségi szállás az idegenrendészeti eljárás alatt álló külföldiek, a Tv. 29. § (1) bekezdés a)–c) pontja alapján humanitárius célú tartózkodási engedéllyel rendelkező, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok elhelyezésére szolgáló, a Hivatal által fenntartott szálláshely.
 
 (2) Közösségi szállás olyan épületben létesíthető, ahol
 
@@ -14,4 +14,4 @@ d) orvosi vizsgálat céljára szolgáló helyiség és egészségügyi elkülö
 
 e) higiénés célra, az engedélyezett férőhelyek számának figyelembevételével kialakított számú, nemenként elkülönített, hideg-meleg folyóvízzel ellátott mosdó és zuhanyozó, valamint WC helyiségek állnak rendelkezésre, és a harmadik országbeli állampolgárok által tartózkodás céljára szolgáló valamennyi helyiség esetén természetes szellőzés és természetes fény biztosítható.
 
-[^381]: A 131. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^394]: A 131. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.

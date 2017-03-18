@@ -1,9 +1,9 @@
-## 38. §[^112] A vízumkiadó hatóság a nemzeti vízum iránti kérelemről tizenöt napon belül dönt.
+## 38. §[^117] A vízumkiadó hatóság a nemzeti vízum iránti kérelemről tizenöt napon belül dönt.
 
-39. § (1)[^113] A vízumkiadó hatóság a nemzeti vízum iránti kérelemről a közbiztonság és a nemzetbiztonság védelme érdekében meghatározott esetekben a Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ véleményét kéri.
+39. § (1)[^118] A vízumkiadó hatóság a nemzeti vízum iránti kérelemről a közbiztonság és a nemzetbiztonság védelme érdekében meghatározott esetekben a Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ véleményét kéri.
 
-(2)[^114] A Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ köteles a megkeresésnek tíz napon belül eleget tenni.
+(2)[^119] A Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ köteles a megkeresésnek tíz napon belül eleget tenni.
 
-[^112]: A 38. § a 182/2009. (IX. 10.) Korm. rendelet 546. § (3) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése, a 113/2016. (V. 30.) Korm. rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^113]: A 39. § (1) bekezdésében e rendelet 182. § (5) bekezdésének e) pontja alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon a „tartózkodási vízum vagy” szövegrész hatályát vesztette. A 39. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^114]: A 39. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 546. § (4) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) és (8) bekezdése szerint módosított szöveg.
+[^117]: A 38. § a 182/2009. (IX. 10.) Korm. rendelet 546. § (3) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése, a 113/2016. (V. 30.) Korm. rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^118]: A 39. § (1) bekezdésében e rendelet 182. § (5) bekezdésének e) pontja alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon a „tartózkodási vízum vagy” szövegrész hatályát vesztette. A 39. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^119]: A 39. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 546. § (4) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) és (8) bekezdése szerint módosított szöveg.

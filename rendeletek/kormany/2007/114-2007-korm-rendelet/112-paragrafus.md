@@ -6,9 +6,9 @@
 
 112. § (1) A Tv. 41. § (1) bekezdésében foglalt határidőket a beléptetés megtagadásának időpontjától kell számítani.
 
-(2)[^312] Amennyiben a Rendőrség a harmadik országbeli állampolgárt a Tv. 41. § (1) bekezdés b) pontja alapján a határterület vagy a repülőtér meghatározott részén való tartózkodásra kötelezi, részére a repülőtéri tranzitterületen vagy a határterületen e célra kialakított helyiségében a 132. § szerinti ellátásokat köteles biztosítani.
+(2)[^325] Amennyiben a Rendőrség a harmadik országbeli állampolgárt a Tv. 41. § (1) bekezdés b) pontja alapján a határterület vagy a repülőtér meghatározott részén való tartózkodásra kötelezi, részére a repülőtéri tranzitterületen vagy a határterületen e célra kialakított helyiségében a 132. § szerinti ellátásokat köteles biztosítani.
 
-(3)[^313] A Tv. 41. § (2) bekezdésében meghatározott esetben a Rendőrség az érintett harmadik országbeli állampolgárt a Schengeni határ-ellenőrzési kódex 6. cikk (5) bekezdés c) pontja alapján lépteti be, majd a határátlépés helye szerint illetékes regionális igazgatósághoz állítja elő, amely a kiutasítási feltételek fennállásának vizsgálatára irányuló idegenrendészeti eljárást soron kívül folytatja le.
+(3)[^326] A Tv. 41. § (2) bekezdésében meghatározott esetben a Rendőrség az érintett harmadik országbeli állampolgárt a Schengeni határ-ellenőrzési kódex 6. cikk (5) bekezdés c) pontja alapján lépteti be, majd a határátlépés helye szerint illetékes regionális igazgatósághoz állítja elő, amely a kiutasítási feltételek fennállásának vizsgálatára irányuló idegenrendészeti eljárást soron kívül folytatja le.
 
-[^312]: A 112. § (2) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^313]: A 112. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a, a 441/2016. (XII. 16.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^325]: A 112. § (2) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^326]: A 112. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a, a 441/2016. (XII. 16.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

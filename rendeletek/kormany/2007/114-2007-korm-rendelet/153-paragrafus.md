@@ -4,8 +4,8 @@
 
 ## A harmadik országbeli állampolgárok szálláshelyének bejelentési kötelezettsége
 
-153. §[^421] (1) A harmadik országbeli állampolgárok adatait tartalmazó, a Tv. 73. § (2) bekezdésében meghatározott vendégkönyv a kereskedelemről szóló törvény hatálya alá tartozó szálláshelyen és a nem üzleti célú közösségi, szabadidős szálláshelyeken (a továbbiakban együtt: vendégkönyv vezetésére kötelezett szálláshely) manuális módszerrel (könyv formájában) vagy számítógéppel vezethető.
+153. §[^434] (1) A harmadik országbeli állampolgárok adatait tartalmazó, a Tv. 73. § (2) bekezdésében meghatározott vendégkönyv a kereskedelemről szóló törvény hatálya alá tartozó szálláshelyen és a nem üzleti célú közösségi, szabadidős szálláshelyeken (a továbbiakban együtt: vendégkönyv vezetésére kötelezett szálláshely) manuális módszerrel (könyv formájában) vagy számítógéppel vezethető.
 
 (2) A vendégkönyv vezetésének módját a szálláshely vezetője határozza meg.
 
-[^421]: A 153. § a 96/2010. (III. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^434]: A 153. § a 96/2010. (III. 31.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására és a mobilitásra vonatkozó szabályok[^204]
+## A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására és a mobilitásra vonatkozó szabályok[^209]
 
-72/J. §[^205] (1) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása a harmadik országbeli állampolgár és a harmadik országban letelepedett vállalkozás között fennálló munkaszerződéssel vagy megbízólevéllel igazolható, amely tartalmazza a Tv. 20/E. § (1) bekezdés c) pontjában meghatározott időtartamot.
+72/J. §[^210] (1) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása a harmadik országbeli állampolgár és a harmadik országban letelepedett vállalkozás között fennálló munkaszerződéssel vagy megbízólevéllel igazolható, amely tartalmazza a Tv. 20/E. § (1) bekezdés c) pontjában meghatározott időtartamot.
 
 (2) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló kérelemhez – a 47. § (7) és (8) bekezdésében foglaltak mellett – mellékelni kell:
 
@@ -24,11 +24,11 @@ b) 33. §-a alapján aktív korúak ellátásában, vagy
 
 c) 43/B. §-a alapján ápolási díjban
 
-## három hónapnál hosszabb ideig részesül.
+három hónapnál hosszabb ideig részesül.
 
 (6) A Tv. 20/E. § (1) bekezdés g) pontjában meghatározott feltételnek az a harmadik országbeli állampolgár felel meg, aki rendelkezik a 29. § (7) bekezdésében meghatározott feltételekkel.
 
 (7) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárás során az összevont engedély kiadásáig a harmadik országbeli állampolgár haladéktalanul értesíti az illetékes regionális igazgatóságot a kérelemhez mellékelt okiratok tartalmában bekövetkezett változásról.
 
-[^204]: A 72/J. §-t megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
-[^205]: A 72/J. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
+[^209]: A 72/J. §-t megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
+[^210]: A 72/J. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
