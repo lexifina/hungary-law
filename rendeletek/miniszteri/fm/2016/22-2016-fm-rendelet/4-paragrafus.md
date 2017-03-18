@@ -6,7 +6,7 @@ a) az ne metssze a fizikai blokk és a támogatható terület határát, kivéve
 
 b) a tábla beazonosítása érdekében az a valósághű elhelyezkedést kövesse, és
 
-c) a tábla grafikusan megadott területének nagysága, valamint az adott tábla numerikusan megadott területértéke legfeljebb 5% arányban vagy 0,25 hektár mértékben térjen el.
+c)[^4] a tábla manuálisan megadott grafikus területének nagysága, valamint az adott tábla numerikusan megadott területértéke legfeljebb 3,33% arányban vagy 0,25 hektár mértékben térjen el – ha a grafikus adatok shape, illetve EOV koordináta segítségével kerülnek megadásra, akkor a grafikus terület nagysága, valamint az adott tábla numerikusan megadott területértéke nem térhet el egymástól.
 
 (3) Ha a 2. § (1) bekezdésében meghatározottminiszteri rendelet másként nem rendelkezik, az igénybe vehető támogatások alapjául szolgáló terület megállapításánál nem vehetők figyelembe az alábbi területek:
 
@@ -19,3 +19,5 @@ c) a vizek hasznosítását, védelmét és kártételeinek elhárítását szol
 d) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet (a továbbiakban: Inyvhr.) 50. § (7) bekezdés a) pontja szerinti, a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) vagyonkezelésében lévő „Állami terület 1.” megnevezésű, művelés alól kivett terület, vagy az Inyvhr. 50. § (8) bekezdés szerinti, a „honvédelmi célra feleslegessé nyilvánított terület” megnevezésű, művelés alól kivett terület, kivéve a földhasználati szerződés alapján hasznosított területek, amelyeknek mezőgazdasági hasznosítása – a HM nyilvántartása szerint – fizikailag is biztosított.
 
 (4) Az ügyfélnek az egységes kérelemben meg kell jelölnie azokat a bejelentett táblákat, amelyeken öntözési tevékenységet kíván végezni, illetve termesztő berendezés alatt kíván termeszteni.
+
+[^4]: A 4. § (2) bekezdés c) pontja a 13/2017. (III. 17.) FM rendelet 45. §-ával megállapított szöveg.

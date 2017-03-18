@@ -16,7 +16,7 @@ g) a dohány szerkezetátalakítási nemzeti programról és az azzal összefüg
 
 (2) A 9/2015. (III. 13.) FM rendelet alapján igényelhető támogatások vonatkozásában e rendeletet kizárólag a 9/2015. (III. 13.) FM rendeletben eltérően nem szabályozott tárgykörökben kell alkalmazni.
 
-(3) Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások 2016. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 9/2016. (IV. 5.) MvM rendelet (a továbbiakban: MvM rendelet) hatálya alá tartozó támogatások megállapítására irányuló eljárásokban e rendeletet kizárólag az MvM rendeletben meghatározott tárgykörökben kell alkalmazni.
+(3)[^2] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások 2017. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 10/2017. (III. 17.) MvM rendelet (a továbbiakban: MvM rendelet) hatálya alá tartozó támogatások megállapítására irányuló eljárásokban e rendeletet kizárólag az MvM rendeletben meghatározott tárgykörökben kell alkalmazni.
 
 (4) A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk tv.) alapján az egységes kérelemben
 
@@ -39,3 +39,5 @@ b) tehet nyilatkozatot az Mkk tv. 6. § (2) bekezdése szerinti mezőgazdasági 
 a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 46. cikke szerinti, a szőlőültetvények szerkezetátalakításához és átállításához nyújtott támogatást kérelmez, és rendelkezik mezőgazdasági területtel, vagy
 
 b) az 1308/2013/EU európai parlamenti és tanácsi rendelet 46. cikke szerinti, a szőlőültetvények szerkezetátalakításához és átállításához nyújtott támogatásban részesül a támogatási döntés jogerőre emelkedésétől számított három évig.
+
+[^2]: A 2. § (3) bekezdése a 13/2017. (III. 17.) FM rendelet 43. §-ával megállapított szöveg.

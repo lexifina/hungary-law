@@ -1,13 +1,13 @@
 ## 8. A másodvetés és az ökológiai jelentőségű másodvetés bejelentése
 
-20. § (1) Másodvetés bejelentése során az ügyfélnek a másodvetéssel érintett terület nagyságának, a másodvetett növény megnevezésének, valamint a másodvetés tervezett vetési és betakarítása időpontjának bejelentése mellett a másodvetés fizikai elhelyezkedését is jelölnie kell az egységes kérelemben az egységes kérelem benyújtására előírt határidőn belül.
+20. § (1)[^34] Másodvetés bejelentése során az ügyfélnek a másodvetéssel érintett terület nagyságának, a másodvetett növény megnevezésének, valamint a másodvetés tervezett vetési időpontjának bejelentése mellett a másodvetés fizikai elhelyezkedését is jelölnie kell az egységes kérelemben az egységes kérelem benyújtására előírt határidőn belül.
 
-(2)[^30] Az ügyfélnek az általa bejelentett táblán megvalósított másodvetés, ökológiai jelentőségű másodvetés és zöldtrágyázás céljából elvetett másodvetés tényleges vetését a vetést követő tizenöt napon belül be kell jelentenie. A tárgyév szeptember 30-áig betakarított vagy beforgatott másodvetést, ökológiai jelentőségű másodvetést vagy zöldtrágyázás céljából elvetett másodvetést a betakarítástól vagy beforgatástól számított tizenöt napon belül kell bejelenteni. A szeptember 30-a után betakarított vagy beforgatott másodvetés, ökológiai jelentőségű másodvetés vagy zöldtrágyázás céljából elvetett másodvetés betakarítási vagy beforgatási időpontját a következő évi egységes kérelem benyújtásának időpontjáig kell bejelenteni.
+(2)[^35] Az ügyfélnek az egységes kérelemben bejelentett tábláin megvalósított másodvetés, ökológiai jelentőségű másodvetés és zöldtrágyázás céljából elvetett másodvetés tényleges vetését és esetleges betakarítását vagy beforgatását – a vetést, a betakarítást vagy beforgatást követő tizenöt napon belül – külön be kell jelentenie a Kincstárhoz az elektronikus űrlapkitöltő felületen. Egy másodvetésre vonatkozó tényleges vetési és betakarítási, beforgatási időpontokat külön-külön kell bejelenteni.
 
-(3)[^31] Az ökológiai jelentőségű másodvetés kivételével a betakarítást vagy beforgatást – annak tervezett időpontját legalább öt nappal megelőzően – külön is be kell jelenteni. A vetést, beforgatást vagy betakarítást az elektronikus űrlapkitöltő felületen kell a Kincstárnak bejelenteni. Az ugyanazon másodvetésre vonatkozó tényleges vetési, betakarítási és beforgatási időpontokat külön kell bejelenteni.
+(3) A (2) bekezdés szerinti határidő elmulasztása esetén az egységes kérelemben bejelentett, tervezett másodvetés nem kerül figyelembevételre az egyes támogatások vonatkozásában.
 
-(4)[^32] Ha a mezőgazdasági termelő az ökológiai jelentőségű másodvetésre vonatkozóan valamely bejelentési kötelezettségének nem tesz eleget, és az adminisztratív és helyszíni ellenőrzés megállapításai nem zárják ki az ökológiai másodvetés szabályszerűségét, akkor a Kincstár a bejelentési kötelezettség elmulasztása miatt az eljárási törvény 71. §-a szerinti mulasztási bírságot a támogatás kifizetése esetén is jogosult kiszabni.
+(4)[^36]
 
-[^30]: A 20. § (2) bekezdése a 72/2016. (XI. 3.) FM rendelet 13. §-ával megállapított szöveg.
-[^31]: A 20. § (3) bekezdése a 72/2016. (XI. 3.) FM rendelet 13. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 109. § j) pontja szerint módosított szöveg.
-[^32]: A 20. § (4) bekezdését a 72/2016. (XI. 3.) FM rendelet 13. §-a iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja szerint módosított szöveg.
+[^34]: A 20. § (1) bekezdése a 13/2017. (III. 17.) FM rendelet 51. §-ával megállapított szöveg.
+[^35]: A 20. § (2) bekezdése a 13/2017. (III. 17.) FM rendelet 51. §-ával megállapított szöveg.
+[^36]: A 20. § (4) bekezdését a 72/2016. (XI. 3.) FM rendelet 13. §-a iktatta be, hatályon kívül helyezte a 13/2017. (III. 17.) FM rendelet 55. §-a.

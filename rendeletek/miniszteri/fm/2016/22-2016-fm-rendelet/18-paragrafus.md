@@ -1,8 +1,8 @@
 ## 6. Az egységes kérelem módosítása
 
-18. § (1)[^26] A 2016. május 23-áig benyújtott egységes kérelem a mezőgazdasági parcellák vonatkozásában 2016. június 15-éig jogkövetkezmény nélkül módosítható.
+18. § (1)[^29] A tárgyév május 15-éig benyújtott egységes kérelem a mezőgazdasági parcellák vonatkozásában tárgyév május 31-éig jogkövetkezmény nélkül módosítható.
 
-(2)[^27] A módosítás 2016. június 15-ét követően – az érintett mezőgazdasági parcella tényleges hasznosítására vonatkozó támogatási összeg munkanaponkénti egy százalékos csökkentése mellett – 2016. június 17-ig nyújtható be.
+(2)[^30] A módosítás tárgyév május 31-ét követően – az érintett mezőgazdasági parcella tényleges hasznosítására vonatkozó támogatási összeg munkanaponkénti egy százalékos csökkentése mellett – tárgyév június 9-éig nyújtható be.
 
-[^26]: A 18. § (1) bekezdése a 37/2016. (V. 18.) FM rendelet 26. § a) és g) pontja szerint módosított szöveg.
-[^27]: A 18. § (2) bekezdése a 37/2016. (V. 18.) FM rendelet 26. § e) és h) pontja szerint módosított szöveg.
+[^29]: A 18. § (1) bekezdése a 13/2017. (III. 17.) FM rendelet 54. § c)–d) pontja szerint módosított szöveg.
+[^30]: A 18. § (2) bekezdése a 13/2017. (III. 17.) FM rendelet 54. § b) és e) pontja szerint módosított szöveg.
