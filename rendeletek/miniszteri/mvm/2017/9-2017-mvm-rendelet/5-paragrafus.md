@@ -1,0 +1,9 @@
+5. § (1) A 3–4. §-ban meghatározott eljárás eredményeként felajánlható álláshelyről a személyügyi szerv soron kívül személyzeti megbeszélést tart. A személyzeti megbeszélés a hivatásos állomány tagjának egészségi állapotára figyelemmel a Hivatal hivatali helyiségétől eltérő helyszínen és módon is megtartható. A személyügyi szerv a megbeszélés időpontjáról legalább 3 munkanappal korábban írásban értesíti a hivatásos állomány tagját.
+
+(2) A személyzeti megbeszélésen a hivatásos állomány tagja, az állományilletékes parancsnok vagy az általa felhatalmazott szolgálati elöljáró, valamint a személyügyi szerv képviselője köteles részt venni. A megbeszélésről jegyzőkönyvet kell felvenni.
+
+(3) Ha a hivatásos állomány tagja részére a rendvédelmi szerv más szervezeti egységénél betölthető álláshely felajánlására kerül sor, a személyzeti megbeszélésen a felajánlott álláshely szerinti szervezeti egység állományilletékes parancsnoka vagy az általa felhatalmazott szolgálati elöljáró is köteles részt venni.
+
+(4) Ha a hivatásos állomány tagja részére több, az egészségi állapotának megfelelő betöltetlen álláshely is azonosításra került, a személyzeti megbeszélésen több – legfeljebb azonban három – álláshelyet kell felajánlani, amelyek bármelyikének elfogadása a felajánlott álláshely elfogadásának minősül. Több felajánlott álláshely esetén a hivatásos állomány tagjának egyértelműen meg kell jelölnie, hogy melyik álláshelyet kívánja betölteni. Az írásbeli nyilatkozattétel határidejére, továbbá a kiválasztott álláshely megjelölésének kötelezettségére a hivatásos állomány tagjának figyelmét a személyzeti megbeszélésen külön fel kell hívni.
+
+(5) A felajánlott álláshely elfogadásáról szóló írásbeli nyilatkozatot a hivatásos állomány tagja az állományilletékes parancsnokhoz címzetten a személyügyi szervhez nyújtja be.
