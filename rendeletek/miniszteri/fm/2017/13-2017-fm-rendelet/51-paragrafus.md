@@ -1,0 +1,1 @@
+## „(4) Ha a (3) bekezdés szerinti határidőt az ügyfél elmulasztja, a Kincstár az ügyfél által később benyújtott, az érintett területre vagy állategyedre vonatkozó adatváltozás bejelentése tekintetében a 809/2014/EU bizottsági végrehajtási rendelet 3., illetve 15. cikke, valamint a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 15. cikke szerint jár el.”

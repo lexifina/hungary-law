@@ -1,0 +1,7 @@
+## „28. nagymértékű, súlyos, lágyszárú gyomosodás: a lágyszárú gyomnövény bármely szomszédos földterületre történő átterjedése, vagy ha a vizsgált parcellán virágzó veszélyes gyom vagy a földterület 50%-át meghaladó mértékű lágyszárú gyomnövény található;
+
+## 29. nagymértékű, súlyos, fás szárú gyomosodás: a fás szárú gyomnövény bármely szomszédos földterületre történő átterjedése, vagy ha a vizsgált parcella esetében a földterületen 100 db/hektárt meghaladó mértékben található olyan fás szárú gyomnövény, amely lombkorona alatti területe nem tartalmaz legeltethető vegetációt, vagy a fás szárú gyomnövény eltávolítása az alapkultúra károsodása nélkül nem hajtható végre, és a terület a vegetációs idő alatt mezőgazdasági művelésre alkalmassá tehető;
+
+## 30. nagymértékű, súlyos és maradandó fás szárú gyomosodás: a fás szárú gyomnövény bármely szomszédos földterületre történő átterjedése, vagy ha a vizsgált parcella esetében a földterületen 100 db/hektárt meghaladó mértékben található olyan fás szárú gyomnövény, amely lombkorona alatti területe nem tartalmaz legeltethető vegetációt, vagy a fás szárú gyomnövény eltávolítása az alapkultúra károsodása nélkül nem hajtható végre, és a terület a vegetációs idő alatt mezőgazdasági művelésre nem tehető alkalmassá;
+
+## 31. gyomnövény: a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet 1/A. § (1) bekezdés a) pontjában meghatározott növény vagy növényállomány.”

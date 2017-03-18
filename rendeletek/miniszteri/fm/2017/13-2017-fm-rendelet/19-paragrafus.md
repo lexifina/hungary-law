@@ -1,0 +1,3 @@
+## 18. § A 9/2015. (III. 13.) FM rendelet 10/A. §-a helyébe a következő rendelkezés lép:
+
+## „10/A. § A 9. § (1) bekezdésében foglaltaktól eltérően az anyajuhtartás támogatása 2017. évi igénybevétele során az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet előírásait – a 640/2014/EU bizottsági felhatalmazáson alapuló rendelet 13. cikkében foglaltakra figyelemmel – kell alkalmazni, azzal, hogy adatváltozás bejelentésére tárgyév március 20-át követően van lehetőség.”

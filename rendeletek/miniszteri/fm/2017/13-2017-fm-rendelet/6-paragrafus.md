@@ -1,0 +1,5 @@
+## 5. § A 150/2012 (XII. 28.) VM rendelet 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A termelői szervezet vagy zöldség-gyümölcs termelői csoport az (1) bekezdésben, valamint a 7. § (5) bekezdésében részletezett szempontok szerinti nyilvántartásról a tárgyévet követő év február 15. napjáig köteles a minisztert a 2. melléklet 1. és 3. táblázatának, valamint a 3. melléklet 1–5. táblázatának megfelelően – a minisztérium honlapján közzétett formanyomtatvány kitöltésével és annak papír alapon, valamint szerkeszthető, elektronikus formátumban való megküldésével – tájékoztatni. A megküldött tájékoztatást a tárgyévet követő év április 30-áig elektronikus formában is fel kell tölteni a minisztérium honlapján közzétett hivatkozás szerinti felületen.”
+
+## 4. Az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet módosítása

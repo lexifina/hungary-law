@@ -1,0 +1,3 @@
+## „(14) Ha adott referenciaterülettel az ügyfelek által a 4. § (2) bekezdés b) pontja szerint bejelentett táblák grafikus adatai a MePAR rendelet 8. § (1) bekezdésében foglalt toleranciát meghaladó mértékben ráfedést mutatnak, akkor a Kincstár az érintett területek vonatkozásában adminisztratív vagy helyszíni ellenőrzést folytat le az érintett táblák vonatkozásában.
+
+## (15) A Kincstár a vonatkozó referenciaterületeken az adminisztratív vagy helyszíni ellenőrzés során a 4. § (2) bekezdés a) pontja szerinti grafikus azonosítástól eltérően is megállapíthatja a kérelmezett terület valós elhelyezkedését.”

@@ -1,0 +1,1 @@
+## „(6) A megyeszékhely szerinti járási hivatal – az agrárigazgatási hatósági feladatai körében – az (5) bekezdés d) pontjában meghatározott helyszíni szemle lefolytatásához a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász-hálózatának közreműködését is igénybe veheti.”

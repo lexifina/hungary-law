@@ -1,0 +1,3 @@
+## „(12) Ha a mezőgazdasági termelő az adott támogatás igénybevételéhez szükséges minimális minősített szaporítóanyagnál kisebb mennyiség felhasználását az (5), (5a) és (5b) bekezdés, torma- és spárga dugvány termesztése esetén a 17. § (1) bekezdés c) pontja, mezei borsó termesztése esetén a 20. § (1) bekezdés d) pontja szerint igazolja, úgy az egyéb feltételek teljesülése esetén, az adott támogatási jogcím vonatkozásában igényelt terület azon részére állapítható meg támogatás, amelyen az előírt mennyiségű minősített szaporítóanyag felhasználása igazolt.
+
+## (13) Azon mezőgazdasági tábla vonatkozásában, amelyre intenzív gyümölcstermesztés támogatás került igénylésre, nem állapítható meg extenzív gyümölcstermesztés támogatás.”
