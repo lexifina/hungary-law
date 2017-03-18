@@ -8,6 +8,9 @@
 
 (3) A kiegészítő támogatás igénybevételének feltétele, hogy a (2) bekezdésben meghatározott összegen felül
 
-a) a 2. melléklet szerinti feltételeknek megfelelő, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott termékmarketing-program költségeiből a termelői szervezet által vállalt rész érje el a termelői szervezet által igénybe vett kiegészítő támogatás 10%-át, és
+a)[^1] a 2. melléklet szerinti feltételeknek megfelelő, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott termékmarketing-program költségeiből a termelői szervezet által vállalt rész érje el a termelői szervezet által igénybe vett kiegészítő támogatás 10%-ának megfelelő összeget, és
 
-b) a termelői szervezet szaktanácsadóinak országos szinten meghirdetett, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott képzési program keretében történő képzésére fordított összeg érje el az igénybe vett kiegészítő támogatás 2%-át.
+b)[^2] a termelői szervezet szaktanácsadóinak országos szinten meghirdetett, a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott képzési program keretében történő képzésére fordított összeg érje el az igénybe vett kiegészítő támogatás 2%-ának megfelelő összeget.
+
+[^1]: A 3. § (3) bekezdés a) pontja a 13/2017. (III. 17.) FM rendelet 56. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés b) pontja a 13/2017. (III. 17.) FM rendelet 56. § b) pontja szerint módosított szöveg.
