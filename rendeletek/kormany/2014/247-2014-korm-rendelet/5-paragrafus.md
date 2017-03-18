@@ -1,16 +1,19 @@
 ## 3. A kormányzati kommunikációs feladatok koordinálását biztosító eljárás
 
-5. §[^7] (1) A kormányzati kommunikációs feladatok ellátását biztosító kommunikációs szolgáltatások beszerzése során e rendelet előírásai szerint köteles eljárni
+5. §[^11] (1) A kormányzati kommunikációs feladatok ellátását biztosító kommunikációs szolgáltatások beszerzése során e rendelet előírásai szerint köteles eljárni
 
 a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv,
 
 b) az a) pontban szabályozott költségvetési szerv irányítása vagy felügyelete alá tartozó központi, területi és helyi költségvetési szerv vagy intézmény,
 
-c)[^8] a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaság kivételével azon állami tulajdonú gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol, valamint
+c) a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaság kivételével azon állami tulajdonú gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
 
-d) az a)–c) pontokba nem tartozó olyan szervezet, amely a csatlakozást önként vállalja.
+d) a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány,
 
-(2) A központosított közbeszerzési rendszerbe való önkéntes csatlakozásra a Hivatal engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–c) pontjai alapján központosított közbeszerzésre kötelezett szervezetek folyamatos ellátását. Ennek érdekében a Hivatal az (1) bekezdés d) pontja szerinti szervezet központosított közbeszerzési rendszerbe való belépését megtagadhatja vagy feltételhez kötheti.
+e) az a)–d) pontokba nem tartozó szervezet, ha kiemelt fontosságú kormányzati kommunikációs feladatot valósít meg, a kiemelt fontosságú kormányzati kommunikációs feladat megvalósítása vonatkozásában,
 
-[^7]: Az 5. § a 189/2016. (VII. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^8]: Az 5. § (1) bekezdés c) pontja a 284/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+f) az a)–e) pontokba nem tartozó olyan szervezet, amely a csatlakozást önként vállalja.
+
+(2) A központosított közbeszerzési rendszerbe való önkéntes csatlakozásra a Hivatal engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–e) pontjai alapján központosított közbeszerzésre kötelezett szervezetek folyamatos ellátását. Ennek érdekében a Hivatal az (1) bekezdés f) pontja szerinti szervezet központosított közbeszerzési rendszerbe való belépését megtagadhatja vagy feltételhez kötheti.
+
+[^11]: Az 5. § a 48/2017. (III. 17.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -16,4 +16,6 @@ azok elkészítését követő 8 napon belül.
 
 (3) A Hivatal a kézhezvételtől számított 15 napon belül tehet észrevételt, kiegészítést, valamint módosítási javaslatot a (2) bekezdésben foglalt dokumentumokkal kapcsolatban.
 
-(4) A 12. §-ban meghatározott kötelezettségek rendszeres, vagy ismételt megsértése esetén a központi beszerző szerv jelzése alapján a Hivatal irányítását ellátó miniszter az igénybejelentésért, valamint az adatszolgáltatásért felelős személy(ek) fegyelmi és kártérítési felelősségre vonását kezdeményezheti a fegyelmi jogkör gyakorlójánál.
+(4)[^31]
+
+[^31]: A 13. § (4) bekezdését a 48/2017. (III. 17.) Korm. rendelet 9. §-a hatályon kívül helyezte.
