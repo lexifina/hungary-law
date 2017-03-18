@@ -2,6 +2,6 @@
 
 (2) A támogatás a mezőgazdasági tevékenység megkezdésétől számított ötéves időtartamra, de legkésőbb 2020. december 31-ig nyújtható.
 
-(3)[^5] A (2) bekezdés szerinti mezőgazdasági tevékenység megkezdésének azt az időpontot kell tekinteni, amikor az e rendelet szerinti támogatást igénylő fiatal mezőgazdasági termelő, jogi személy esetében a jogi személyben legkorábban tényleges és hosszú távú ellenőrzést gyakorló fiatal mezőgazdasági termelő, vagy a fiatal mezőgazdasági termelő tényleges és hosszú távú ellenőrzése alatt álló bármely jogi személy első alkalommal egységes területalapú támogatás iránti kérelmet nyújtott be a Kincstárhoz.
+(3)[^5] A (2) bekezdés szerinti mezőgazdasági tevékenység megkezdésének azt az időpontot kell tekinteni, amikor az e rendelet szerinti támogatást igénylő fiatal mezőgazdasági termelő, jogi személy esetében a jogi személyben legkorábban tényleges és hosszú távú ellenőrzést gyakorló fiatal mezőgazdasági termelő, vagy a fiatal mezőgazdasági termelő tényleges és hosszú távú ellenőrzése alatt álló bármely jogi személy első alkalommal egységes területalapú támogatás iránti kérelmet nyújtott be a mezőgazdasági és vidékfejlesztési támogatási szervhez.
 
-[^5]: A 4. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 82. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdése a 13/2017. (III. 17.) FM rendelet 39. §-a szerint módosított szöveg.
