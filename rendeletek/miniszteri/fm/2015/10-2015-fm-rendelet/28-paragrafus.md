@@ -2,7 +2,7 @@
 
 ## 28. § Ez a rendelet
 
-a)[^92] a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet,
+a)[^103] a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet,
 
 b) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról szóló 1307/2013 európai parlamenti és tanácsi rendelet kiegészítéséről, és X. mellékletének módosításáról szóló, 2014. március 11-ei 639/2014/EU felhatalmazáson alapuló bizottsági rendelet,
 
@@ -14,4 +14,4 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^92]: A 28. § a) pontja a 72/2016. (XI. 3.) FM rendelet 11. § j) pontja szerint módosított szöveg.
+[^103]: A 28. § a) pontja a 72/2016. (XI. 3.) FM rendelet 11. § j) pontja szerint módosított szöveg.
