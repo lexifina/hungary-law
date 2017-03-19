@@ -1,3 +1,0 @@
-## 43. § Az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet [a továbbiakban: 22/2016. (IV. 5.) FM rendelet] 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások 2017. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 10/2017. (III. 17.) MvM rendelet (a továbbiakban: MvM rendelet) hatálya alá tartozó támogatások megállapítására irányuló eljárásokban e rendeletet kizárólag az MvM rendeletben meghatározott tárgykörökben kell alkalmazni.”

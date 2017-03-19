@@ -1,3 +1,5 @@
-## 41. § A 16/2015. (IV. 9.) FM rendelet 2. § (1) bekezdés c) pontjában a „nem kisebb területet” szövegrész helyébe a „nem kisebb támogatható területet” szöveg lép.
+## 40–41. §[^10]
 
 ## 10. A Mezőgazdasági Parcella Azonosító Rendszerről szóló 71/2015. (XI. 3.) FM rendelet módosítása
+
+[^10]: A 40–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
