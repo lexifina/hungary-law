@@ -1,0 +1,251 @@
+# A Kormány 51/2017. (III. 20.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 39. szám, 2017. március 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b011af1eadefdc6361dae575fc4c78a970ce0004/dokumentumok/0124461c156324165f1b27424582e0028122d807/letoltes)
+
+---
+
+A Kormány 51/2017. (III. 20.) Korm. rendelete
+az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának
+végrehajtási rendjéről szóló 326/2012. (XI. 16.) Korm. rendelet és a 2014–2020 programozási időszakban
+az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.)
+Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a. pontjában kapott
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2009–2014-es
+időszakának végrehajtási rendjéről szóló 326/2012. (XI. 16.) Korm. rendelet módosítása
+1. §
+Az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának
+végrehajtási rendjéről szóló 326/2012. (XI. 16.) Korm. rendelet [a továbbiakban: 326/2012. (XI. 16.) Korm. rendelet]
+1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A rendelet hatálya kiterjed
+a) az egyrészről Izland, a Liechtensteini Hercegség, a Norvég Királyság, és másrészről a Magyar Köztársaság
+között az EGT Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési
+megállapodás kihirdetéséről szóló 235/2011. (XI. 15.) Korm. rendelet [a továbbiakban: 235/2011. (XI. 15.) Korm.
+rendelet],
+b) a 235/2011. (XI. 15.) Korm. rendelet által kihirdetett együttműködési megállapodást módosító megállapodást
+kihirdető, az egyrészről Izland, a Liechtensteini Hercegség, a Norvég Királyság, és másrészről a Magyar Köztársaság
+között 2011. október 14-én létrejött, az EGT Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról
+szóló együttműködési megállapodás módosításáról szóló, levélváltással létrejött megállapodás kihirdetéséről szóló
+433/2015. (XII. 28.) Korm. rendelet,
+c) a Norvég Királyság és a Magyar Köztársaság között a Norvég Finanszírozási Mechanizmus 2009–2014-es
+időszakának végrehajtásáról szóló együttműködési megállapodás kihirdetéséről szóló 236/2011. (XI. 15.) Korm.
+rendelet [a továbbiakban: 236/2011. (XI. 15.) Korm. rendelet],
+d) a 236/2011. (XI. 15.) Korm. rendelet által kihirdetett együttműködési megállapodást módosító megállapodást
+kihirdető, a Norvég Királyság és a Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási
+Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról
+szóló, levélváltással létrejött megállapodás kihirdetéséről szóló 434/2015. (XII. 28.) Korm. rendelet [a továbbiakban:
+434/2015. (XII. 28.) Korm. rendelet], és
+e) a 434/2015. (XII. 28.) Korm. rendelet által kihirdetett együttműködési megállapodást módosító megállapodást
+kihirdető, a Norvég Királyság és a Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási
+Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló,
+levélváltással létrejött megállapodás kihirdetéséről szóló 84/2016. (IV. 13.) Korm. rendelet
+(a továbbiakban együtt: együttműködési megállapodások) szerinti EGT Finanszírozási Mechanizmusból,
+valamint Norvég Finanszírozási Mechanizmusból (a továbbiakban együtt: finanszírozási mechanizmusok)
+származó támogatási célú kötelezettségek vállalására, teljesítésére, a teljesítés ellenőrzésére, a felhasználásában,
+a lebonyolításban és az ellenőrzésben részt vevő természetes személyekre, jogi személyekre, jogi személyiséggel
+nem rendelkező szervezetekre, a támogatást igénylőkre és a kedvezményezettekre.”
+2. § (1) A 326/2012. (XI. 16.) Korm. rendelet 3. §-a a következő 66a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„66a. program fenntartási időszak: az adott program tekintetében az első projektzáró jelentés program operátor
+általi elfogadásának napjától az utolsó projekt fenntartási időszakának lejártát követő 90. napig tartó időszak,”
+(2) A 326/2012. (XI. 16.) Korm. rendelet 3. §-a a következő 72a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„72a. projekt fenntartási időszak: a projektzáró jelentés program operátor általi elfogadásának napjától kezdődő,
+a támogatási szerződésben nevesített időtartamig tartó időszak,”
+
+(3) A 326/2012. (XI. 16.) Korm. rendelet 3. §-a a következő 95a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„95a. technikai segítségnyújtás megállapodásáról szóló szerződés: a donor országok és a kedvezményezett ország
+közötti, a technikai segítségnyújtás forrás felhasználásáról szóló megállapodás,”
+3. §
+A 326/2012. (XI. 16.) Korm. rendelet 11. § (1) bekezdése a következő 21. és 22. ponttal egészül ki:
+(A finanszírozási mechanizmusok végrehajtásával összefüggésben a végrehajtó ügynökség feladatai különösen
+a következők:)
+„21. ellátja azokat a feladatokat, amelyeket a donor ország és a nemzeti kapcsolattartó között létrejött, technikai
+segítségnyújtás megállapodásáról szóló szerződés meghatároz,
+22. közreműködik a projektekre vonatkozó fenntartási feladatok ellátásában.”
+4. §
+A 326/2012. (XI. 16.) Korm. rendelet 55. § (1) bekezdése a következő g) ponttal egészül ki:
+(A kedvezményezett köteles a támogatási szerződés módosítását kezdeményezni, ha)
+„g) az 50. § (3) bekezdés 16. pontja szerinti tartalék felhasználására kerül sor.”
+5. §
+A 326/2012. (XI.16.) Korm. rendelet 58. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A felhívás tartalmára az értékelő bizottság tesz javaslatot. A felhívásról a kedvezményezetteket írásban értesíteni
+kell, valamint a felhívást a program operátor honlapján és a finanszírozási mechanizmusok hazai hivatalos honlapján
+közzé kell tenni az átcsoportosításról szóló döntést megelőzően 30 nappal.”
+6. § (1) A 326/2012. (XI. 16.) Korm. rendelet 59. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha az (1) bekezdés szerinti valamely körülmény bekövetkezése miatt a program operátor a támogatási
+szerződéstől eláll, akkor a program operátor elállásról szóló nyilatkozatot küld postai úton a projektgazda részére.
+A nyilatkozatnak tartalmaznia kell az elállás indokait, valamint a projektgazdát terhelő visszafizetési kötelezettségre
+vonatkozó rendelkezéseket a 126. § rendelkezéseivel összhangban.”
+(2) A 326/2012. (XI. 16.) Korm. rendelet 59. §-a a következő (4) és (5) bekezdéssel egészül ki:
+„(4) Az elállás időpontját a program operátor az elállásról szóló nyilatkozatban állapítja meg.
+(5) Ha a projektgazda a támogatási szerződés megkötését követően beállott bármely körülmény folytán nem képes
+a támogatási szerződés teljesítésére, elállhat a támogatási szerződéstől. Az elállásról szóló értesítésnek tartalmaznia
+kell az elállás indokait. Ha a támogatási szerződéstől a projektgazda eláll, a program operátor az elállás tényének
+tudomásul vételéről postai úton értesíti a projektgazdát, egyúttal tájékoztatja az elállás jogi következményeiről,
+valamint a projektgazdát terhelő esetleges visszafizetési kötelezettségekről.”
+7. §
+A 326/2012. (XI. 16.) Korm. rendelet 24. alcíme a következő 72/A. §-sal egészül ki:
+„72/A. § Rendkívüli helyszíni ellenőrzést a program operátor, a nemzeti kapcsolattartó és a végrehajtó ügynökség
+kezdeményezhet.”
+8. § (1) A 326/2012. (XI. 16.) Korm. rendelet 75. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A hitelesítést végző szerv a benyújtott dokumentumok alapján utóellenőrzést folytat le. A hitelesítést
+végző szerv a dokumentumok hiánytalan beérkezését követő 7 napon belül az ellenőrzés eredményéről
+a kedvezményezettet értesíti. A fenti határidőn belül a hitelesítést végző szerv a kedvezményezettet legfeljebb
+7 napos határidővel hiánypótlásra szólíthatja fel. A hitelesítést végző szerv az ellenőrzés eredményétől függően
+szabálytalansági eljárást kezdeményezhet. A hitelesítést végző szerv az e bekezdés szerinti határidőket – az indokok
+megjelölésével egyidejűleg – legfeljebb 7 nappal meghosszabbíthatja.”
+(2) A 326/2012. (XI. 16.) Korm. rendelet 75. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A támogatást igénylő, illetve a kedvezményezett a szerződés-módosítást, valamint az azt alátámasztó
+valamennyi dokumentumot – ideértve a módosítás indokolását, valamint az indokolást alátámasztó valamennyi
+dokumentumot – megküldi a hitelesítést végző szerv részére utóellenőrzés céljából a szerződés-módosítást követő
+7 napon belül. A végrehajtó ügynökség jogosult ezektől eltérő dokumentumokat is bekérni, ha azt az ellenőrzés
+szükségessé teszi. A hitelesítést végző szerv a dokumentumok beérkezését követő 7 napon belül elvégzi azok
+ellenőrzését. A kedvezményezett részére csak a hitelesítést végző szerv jóváhagyó minőségellenőrzési jelentésének
+megléte esetén folyósítható támogatás.”
+
+9. §
+A 326/2012. (XI. 16.) Korm. rendelet 25. alcíme a következő 79/A. §-sal egészül ki:
+„79/A. § A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg a hitelesítést végző szerv
+által kiadott, szerződés-módosításra vonatkozó támogató tartalmú nyilatkozat alapján folyósítható.”
+10. §
+A 326/2012. (XI. 16.) Korm. rendelet 85. §-a a következő (6) és (7) bekezdéssel egészül ki:
+„(6) Az (5) bekezdés rendelkezéseit kizárólag a kedvezményezettel szállítói finanszírozási jogviszonyban állók által
+kiállított számlák esetében kell alkalmazni.
+(7) Az euró alapú támogatási szerződésekhez kapcsolódó euró alapú kivitelezési szerződések vonatkozásában
+igényelt fordított áfa előleget forintban és euróban is lehet igényelni.”
+11. §
+A 326/2012. (XI. 16.) Korm. rendelet 87. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a megvalósítás nyomon követése vagy a folyamatba épített ellenőrzése során nem merült fel olyan
+körülmény, amely miatt a támogatás folyósítását fel kellene függeszteni, úgy a támogatást a kifizetés-igénylés
+hiánytalan beérkezésétől számított 30 napon belül folyósítani kell, amely határidő a záró kifizetés-igénylés esetén
+45 nap, ha – a 86. § (9) bekezdése szerinti többszöri hiánypótlás lehetőségére figyelemmel – a hitelesítést végző
+szerv egynél több hiánypótlási felhívást küld ki. A kedvezményezett által a hiánypótlásra igénybe vett időtartam,
+az előre nem tervezett, előre nem látható ok miatt lefolytatott rendkívüli helyszíni ellenőrzés, a szabálytalansági
+gyanú kivizsgálására tett intézkedések, valamint az év végi zárási és az év eleji előirányzat nyitási folyamatok
+– a honlapon közlemény formájában közzétett – időtartama e határidőbe nem számítanak bele.”
+12. §
+A 326/2012. (XI. 16.) Korm. rendelet 95. § b) pontja helyébe a következő rendelkezés lép:
+(A nemzeti kapcsolattartó a költségigazolási tevékenység támogatása érdekében tájékoztatásul továbbítja az igazoló
+hatóság részére)
+„b) a nemzeti kapcsolattartó működési kézikönyvét,”
+13. §
+A 326/2012. (XI. 16.) Korm. rendelet 114. §-a a következő (8) bekezdéssel egészül ki:
+„(8) A nemzeti kapcsolattartó és a program operátor szabálytalansági eljárásrendet adhat ki.”
+14. §
+A 326/2012. (XI. 16.) Korm. rendelet 43. alcíme a következő 124/A. §-sal és 124/B. §-sal egészül ki:
+„124/A. § (1) Szabálytalansági eljárást lezáró döntés meghozatalára a nemzeti kapcsolattartó és a program operátor
+jogosult.
+(2) Ha a 117. § (4) bekezdése szerint a program operátor a végrehajtó ügynökségre, vagy a 117. § (5) bekezdése
+szerint a nemzeti kapcsolattartó a program operátorra delegálja az eljárás lefolytatását, a szabálytalansági eljárást
+lezáró döntést a program operátor vezetője hozza meg.
+(3) A szabálytalansági eljárást lezáró döntés meghozatalára kizárólag a nemzeti kapcsolattartó jogosult, ha
+a) a program operátor követi el a szabálytalanságot,
+b) a végrehajtó ügynökség követi el a szabálytalanságot,
+c) a 117.§ (5) bekezdése szerint a nemzeti kapcsolattartó a szabálytalansági eljárás lefolytatását a végrehajtó
+ügynökségre delegálta.
+124/B. § (1) Ha a 124/A. § (2) bekezdése alapján a szabálytalansági eljárást lezáró döntést a program operátor hozta
+meg, a kedvezményezett a döntés ellen írásban egy alkalommal jogorvoslati kérelemmel fordulhat a nemzeti
+kapcsolattartóhoz a szabálytalansági eljárást lezáró döntés kézhezvételét követő tizenöt napon belül. A benyújtott
+jogorvoslati kérelem a jogorvoslati döntés meghozataláig visszavonható. A jogorvoslati kérelem benyújtására nyitva
+álló határidő leteltéig a szabálytalansági eljárást lezáró döntés nem hajtható végre.
+(2) Ha a kedvezményezett az (1) bekezdés szerinti határidőn belül nem nyújt be jogorvoslati kérelmet, a határidő
+leteltét követően nem élhet jogorvoslati jogával, és a szabálytalansági döntés a határidő leteltét követő napon
+végrehajthatóvá válik.
+(3) A nemzeti kapcsolattartó a jogorvoslati kérelemmel érintett szabálytalansági eljárást lezáró döntést, valamint
+az azt megelőző eljárást megvizsgálja, ennek során nincs kötve a jogorvoslati kérelemben foglaltakhoz.
+(4) A nemzeti kapcsolattartó a jogorvoslati kérelem kézhezvételét követő negyvenöt napon belül dönt.
+(5) A nemzeti kapcsolattartó a jogorvoslati kérelem tárgyában a következő döntéseket hozhatja:
+a) a szabálytalansági eljárást lezáró döntést helybenhagyja,
+b) a szabálytalansági eljárást lezáró döntést megváltoztatja,
+
+c) a szabálytalansági eljárást lezáró döntést megsemmisíti, és a program operátort új szabálytalansági eljárás
+lefolytatására utasítja.
+(6) A nemzeti kapcsolattartó döntései ellen jogorvoslati kérelem nem nyújtható be.”
+15. §
+A 326/2012. (XI. 16.) Korm. rendelet 45. alcíme a következő 129/A. §-sal egészül ki:
+„129/A. § (1) Kis értékű követeléseket – beleértve a pénzügyi zárás jogcímen keletkezett kis értékű követelést – nem
+kell behajtásra előírni.
+(2) A követelés kis értékű, ha annak összege a 10 000 forintot nem haladja meg.
+(3) A (2) bekezdés szerinti értéket követelés jogcímenként és projektenként kell érteni, valamint tőkére és
+a kamatokra külön-külön kell vizsgálni.
+(4) Kis értékű kamatkövetelés csak akkor írható le, ha a tőkekövetelés már teljesült.
+(5) Ha a követelés részleges megtérülése után a fennmaradó követelés a fenti szabályok alapján kis értékű,
+a követelés leírható.
+(6) A leírt összeget tőke, kamat és forrás szerinti bontásban kell nyilvántartani.”
+16. §
+A 326/2012. (XI. 16.) Korm. rendelet 72. alcíme a következő 168/A. §-sal egészül ki:
+„168/A. § A nemzeti kapcsolattartó a program operátorral és a végrehajtó ügynökséggel az egyes programok
+vonatkozásában háromoldalú megállapodást köt, amelynek tartalmaznia kell a program fenntartási időszakra
+vonatkozóan a fenntartási feladatok részletes leírását és a felek közötti megosztását.”
+17. §
+A 326/2012. (XI. 16.) Korm. rendelet a következő 172/A. §-sal egészül ki:
+„172/A. § (1) E rendeletnek az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus
+2009–2014-es időszakának végrehajtási rendjéről szóló 326/2012. (XI. 16.) Korm. rendelet és a 2014–2020
+programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről
+szóló 272/2014. (XI. 5.) Korm. rendelet módosításáról szóló 51/2017. (III. 20.) Korm. rendelettel [a továbbiakban:
+51/2017. (III. 20.) Korm. rendelet] megállapított 58. § (2)–(5) bekezdését a 2016. április 30. napját követő támogatási
+döntéseknél kell alkalmazni.
+(2) E rendeletnek az 51/2017. (III. 20.) Korm. rendelettel megállapított 85. § (6) és (7) bekezdését a 2016. április 30.
+napját követően létrejött támogatási jogviszonyokban kell alkalmazni.”
+18. §
+A 326/2012. (XI. 16.) Korm. rendelet
+1. 6. § 5. pontjában az „előrehaladását,” szövegrész helyébe az „előrehaladását, valamint a program- és
+projektszintű fenntartási kötelezettségek teljesítését,”szöveg,
+2. 10. § 1. pontjában az „és végrehajtásáért” szövegrész helyébe a „ , végrehajtásáért és a projektszintű
+fenntartási kötelezettségek ellenőrzéséért”szöveg,
+3. 11. § (2) bekezdésében a„4–20.”szövegrész helyébe a„4–22.”szöveg,
+4. 55. § (1) bekezdés c) pontjában a „költségkategóriák” szövegrész helyébe a „támogatható tevékenységek”
+szöveg,
+5. 58. § (5) bekezdésében a„pályázatai”szövegrész helyébe a„javaslatai”szöveg,
+6. 72. § (2) bekezdésében a„végreható”szövegrész helyébe a„végrehajtó”szöveg,
+7. 77. § (4) bekezdésében a „dönt a szabálytalansági eljárás lefolytatásáról” szövegrész helyébe a „köteles
+kezdeményezni a szabálytalansági eljárás lefolytatását”szöveg,
+8. 78. § (1) bekezdésében a„megelőzően”szövegrész helyébe a„megelőzően legalább 30 nappal”szöveg,
+9. 86. § (9) bekezdésében az„Az adott”szövegrész helyébe az„A záró kifizetés-igénylést kivéve, az adott”szöveg,
+10. 90. § (3) bekezdésében a„belül,”szövegrész helyébe a„belül, de legkésőbb 2018. február 28-ig,”szöveg,
+11. 112. § (4) bekezdésében a„2017.”szövegrész helyébe a„2018.”szöveg,
+12. 122. § (3) bekezdésében az „eljárás során eljáró” szövegrész helyébe az „eljárást lezáró döntést meghozó”
+szöveg,
+13. 123. §-ában az „A szabálytalanság-felelős” szövegrész helyébe az „Az eljárást lefolytató szervezet
+szabálytalanság-felelőse”szöveg, és
+14. 124. §-ában a„döntés”szövegrész helyébe az„eljárást lezáró döntés”szöveg
+lép.
+
+19. §
+Hatályát veszti a 326/2012. (XI. 16.) Korm. rendelet
+a) 58. § (2) bekezdésében a„pályázati”szövegrész,
+b) 58. § (4) bekezdésében a„pályázati”szövegrész,
+c) 128. § (2) bekezdése.
+2. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
+20. §
+A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 129. §
+(1d) bekezdése helyébe a következő rendelkezés lép:
+„(1d) Előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást nem lehet
+zálogjogosult részére vagy korlátozott rendelkezésű számlára utalni, kivéve
+a) központi költségvetési szerv, helyi önkormányzat, önkormányzati társulás, valamint közvetlen vagy közvetett
+többségi állami tulajdonban álló gazdasági társaság kedvezményezett esetén a szállítói előlegnek vagy szállítói
+finanszírozású számla támogatástartalmának megfelelő támogatásnak a szállítóval zálogszerződést kötött
+zálogjogosult részére vagy korlátozott rendelkezésű számlára történő utalását,
+b) EMVA esetén az előleg biztosítékául nyújtott bankgaranciához kapcsolódó korlátozott rendelkezésű számlára
+történő utalást.”
+21. §
+A 272/2014. (XI. 5.) Korm. rendelet 201/N. §-a helyébe a következő rendelkezés lép:
+„201/N. § Az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának
+végrehajtási rendjéről szóló 326/2012. (XI. 16.) Korm. rendelet és a 2014–2020 programozási időszakban az egyes
+európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet
+módosításáról szóló 51/2017. (III. 20.) Korm. rendelettel [a továbbiakban: 51/2017. (III. 20.) Korm. rendelet]
+megállapított 129. § (1d) bekezdését az 51/2017. (III. 20.) Korm. rendelet hatálybalépését megelőzően
+a) keletkezett támogatási jogviszonyokra, valamint
+b) megkezdett és az 51/2017. (III. 20.) Korm. rendelet hatálybalépésekor folyamatban lévő eljárásokban
+is alkalmazni kell.”
+3. Záró rendelkezések
+22. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
