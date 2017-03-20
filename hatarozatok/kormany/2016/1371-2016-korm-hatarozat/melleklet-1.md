@@ -222,7 +222,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 31. | Zalaegerszeg megközelítése, 76. sz. főút Zalaegerszeg–Keszthely közötti szakaszának gyorsúttá történő fejlesztése |
 
-| 32. | Kisvárda ÉK-i tehermentesítő út (előkészítés) |
+| 32. | Kisvárda ÉK-i tehermentesítő út (a város északi területei elkerülő és feltáró útjainak, a stadion közúti megközelítésének megvalósítása) |
 
 | 33. | Galvani híd (előkészítés) |
 
@@ -238,4 +238,4 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 39. | M3 gyorsforgalmi út Vásárosnamény (M3–M34 gyf út elválási csomópont) – Beregdaróc (országhatár) közötti szakasz 2×1 sávos autópályává fejleszthető út kiépítésének előkészítése |
 
-[^1]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja, az 1150/2017. (III. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
