@@ -54,7 +54,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 14. | 55. sz. főút megvalósítása Mórahalom elkerülő megyehatár közötti szakaszán | 2016. IV. negyedév | 2018. II. negyedév |
 
-| 15. | M2 gyorsforgalmi út megvalósítása Budapest–Vác | 2016. IV. negyedév | 2019. II. negyedév |
+| 15. | M2 gyorsforgalmi út megvalósítása Budapest–Vác | 2017. I. negyedév | 2019. IV. negyedév |
 
 | 16. | M0 autóút Déli szektor fejlesztése, rekonstrukciója (I. ütem) | 2019. III. negyedév | 2022. II. negyedév |
 
@@ -136,7 +136,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 2. | Zalalövő elkerülő szakaszolt projekt megvalósítása | 2013. IV. negyedév | 2016. III. negyedév |
 
-| 3. | Sopron megközelítése, M85 autóút Csorna elkerülő (II. ütem) megvalósítása | 2016. II. negyedév | 2019. I. negyedév |
+| 3. | Sopron megközelítése, M85 autóút Csorna elkerülő (II. ütem) megvalósítása | 2016. II. negyedév | 2018. II. negyedév |
 
 | 4. | 471. sz. főút Hajdúsámson-megyehatár projekt megvalósítása | 2016. I. negyedév | 2017. III. negyedév |
 
@@ -152,7 +152,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 10. | 471. sz. főút Hajdúsámson elkerülő projekt megvalósítása | 2016. IV. negyedév | 2018. II. negyedév |
 
-| 11. | 813. sz. főút III. ütem 1. sz. főút – 14. sz. főút projekt megvalósítása | 2016. IV. negyedév | 2018. II. negyedév |
+| 11. | 813. sz. főút III. ütem 1. sz. főút – 14. sz. főút projekt megvalósítása | 2017. I. negyedév | 2018. II. negyedév |
 
 | 12. | 4149 j. Kisvárda nyugati összekötő út projekt megvalósítása | 2017. I. negyedév | 2017. IV. negyedév |
 
@@ -212,4 +212,4 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 40. | M3 gyorsforgalmi út Vásárosnamény (M3–M34 gyf út elválási csomópont) – Beregdaróc (országhatár) közötti szakasz 2×1 sávos autópályává fejleszthető út kiépítésének előkészítése | 2017. II. negyedév | 2020. IV. negyedév |
 
-[^5]: A 2. melléklet az 1833/2016. (XII. 23.) Korm. határozat 6., 11., 13. pontja és 14. pont c) alpontja szerint módosított szöveg.
+[^5]: A 2. melléklet az 1833/2016. (XII. 23.) Korm. határozat 6., 11., 13. pontja és 14. pont c) alpontja, az 1150/2017. (III. 20.) Korm. határozat 2–3. pontja szerint módosított szöveg.
