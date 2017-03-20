@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-4-20-2K
 | 2011-08-06 | 2009-4-20-2K.4 | 29/2011. (VIII. 3.) NGM rendelet |
 | 2012-08-22 | 2009-4-20-2K.5 | 20/2012. (VII. 23.) NGM rendelet |
 | 2014-04-21 | 2009-4-20-2K.6 | 1/2014. (I. 21.) NGM rendelet |
+| 2017-03-20 | 2009-4-20-2K.7 | 52/2016. (XII. 20.) NGM rendelet |
