@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 1 175 000 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 1 175 000 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében:
 
@@ -10,9 +10,9 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a Területfejlesztéssel összefüggő feladatok jogcímcsoport javára átcsoportosított 800,0 millió forint tekintetében 2018. június 30.
 
-## 2.[^1] egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoporton a K5. Egyéb működési célú kiadások kiemelt előirányzat részére átcsoportosított 748 414 ezer forintból 25 000 ezer forint a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása címen kerüljön felhasználásra a K1. Személyi juttatások kiemelt előirányzaton 5 256 ezer forint, a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 1 944 ezer forint, a K3. Dologi kiadások kiemelt előirányzaton 17 800 ezer forint összegben.
+## 2.[^2] egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoporton a K5. Egyéb működési célú kiadások kiemelt előirányzat részére átcsoportosított 748 414 ezer forintból 25 000 ezer forint a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása címen kerüljön felhasználásra a K1. Személyi juttatások kiemelt előirányzaton 5 256 ezer forint, a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 1 944 ezer forint, a K3. Dologi kiadások kiemelt előirányzaton 17 800 ezer forint összegben.
 
 1. melléklet az 1494/2016. (IX. 15.) Korm. határozathoz
 
@@ -108,4 +108,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1725/2016. (XII. 10.) Korm. határozat 3. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1133/2017. (III. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1725/2016. (XII. 10.) Korm. határozat 3. pontjával megállapított szöveg.
