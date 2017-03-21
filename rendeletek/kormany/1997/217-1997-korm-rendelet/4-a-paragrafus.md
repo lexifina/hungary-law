@@ -1,4 +1,4 @@
-4/A. §[^94] (1) Az orvos a beutalót az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) útján is kiállíthatja. Az EESZT útján kiállított beutalóra e rendelet szabályai az e §-ban meghatározott eltérésekkel alkalmazandóak.
+4/A. §[^96] (1) Az orvos a beutalót az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) útján is kiállíthatja. Az EESZT útján kiállított beutalóra e rendelet szabályai az e §-ban meghatározott eltérésekkel alkalmazandóak.
 
 (2) Az EESZT útján kiállított beutaló esetében a beutaló orvos a beteg kérésére az EESZT útján papír alapú igazolást állít ki a beutalóról. Az igazolást a beteg részére az EESZT útján tett rendelkezés esetén elektronikus formában az EESZT működtetője állítja ki.
 
@@ -8,4 +8,4 @@
 
 (5) Ha az EESZT útján kiállított beutalón javítást vagy más változtatást kell eszközölni, a beutaló orvos a beutalót a változtatás okának megjelölésével az EESZT útján visszavonja. A beutaló orvos ilyen esetben értesíti a beteget – kivéve, ha a változtatás szükségességét a beteg jelzi az orvos felé –, és gondoskodik új beutaló kiállításáról.
 
-[^94]: A Vhr. 4/A. §-át a 413/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^96]: A Vhr. 4/A. §-át a 413/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

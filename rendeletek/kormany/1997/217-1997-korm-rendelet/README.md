@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2016-12-24 | 1997-217-20-22.124 | 151/2010. (IV. 30.) Korm. rendelet |
 | 2017-01-01 | 1997-217-20-22.125 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-02-03 | 1997-217-20-22.126 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-03-21 | 1997-217-20-22.127 | 52/2017. (III. 20.) Korm. rendelet |
