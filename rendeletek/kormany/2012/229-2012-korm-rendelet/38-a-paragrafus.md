@@ -12,6 +12,7 @@ c) a (2) bekezdésben meghatározott kivétellel a fővárosi és megyei kormán
 
 ## foglalt, a köznevelési feladatokat ellátó hatóság feladatainak ellátására.
 
-(2) A Kormány az (1) bekezdés c) pontjában meghatározott köznevelési feladatok ellátására Budapest területére kiterjedő illetékességgel Budapest Főváros Kormányhivatala V. Kerületi Hivatalát jelöli ki.
+(2)[^166] A Kormány az Nkt. 30. § (5) bekezdés a) és b) pontjában, 45. § (2) bekezdésében, 50. § (7) bekezdésében foglalt köznevelési feladatok ellátására Budapest területére kiterjedő illetékességgel Budapest Főváros Kormányhivatala V. Kerületi Hivatalát jelöli ki.
 
 [^165]: A IV/A. fejezetet (38/A. §) a 486/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^166]: A 38/A. § (2) bekezdése az 52/2017. (III. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
