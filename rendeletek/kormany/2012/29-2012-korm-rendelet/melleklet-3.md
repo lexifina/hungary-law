@@ -758,7 +758,9 @@ A II. besorolási osztályban:
 
 Az I. besorolási osztályban:
 
-egyetemi szintű jogász vagy közgazdász szakképzettség; okleveles közigazgatási menedzser és okleveles közigazgatási szakértő szakképzettség, főiskolai szintű igazgatásszervező vagy pénzügyi szakképzettség; műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskola szintű, a közbeszerzési eljárásokkal összefüggő egyéb végzettség.
+a) egyetemi szintű jogász vagy közgazdász szakképzettség; egyetemi vagy főiskolai szintű pedagógus szakképzettség; okleveles közigazgatási menedzser és okleveles közigazgatási szakértő szakképzettség, főiskolai szintű igazgatásszervező vagy közigazgatás-szervező vagy pénzügyi szakképzettség; műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű, a közbeszerzési eljárásokkal összefüggő egyéb végzettség;
+
+b) az a) pontban fel nem sorolt egyetemi vagy főiskolai szintű végzettség és az OKJ szerinti közbeszerzési referens vagy azzal egyenértékű közbeszerzési szakképesítés.
 
 69.[^91] Közegészségügyi-járványügyi és egészségvédelmi feladatkör
 
@@ -1569,7 +1571,7 @@ A II. besorolási osztályban:
 [^87]: A 3. melléklet 65. pont b) pont bm) alpontját az 58/2016. (III. 25.) Korm. rendelet 3. §-a iktatta be.
 [^88]: A 3. melléklet 66. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^89]: A 3. melléklet 67. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § d) pontja, a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^90]: A 3. melléklet 68. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^90]: A 3. melléklet 68. pontja az 54/2017. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^91]: A 3. melléklet 69. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^92]: A 3. melléklet 70. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 94/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
 [^93]: A 3. melléklet 71. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
