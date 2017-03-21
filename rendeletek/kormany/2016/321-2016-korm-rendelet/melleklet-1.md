@@ -1,4 +1,4 @@
-## 15–17. §[^1]
+## 15–17. §[^4]
 
 1. melléklet a 321/2016. (X. 27.) Korm. rendelethez
 
@@ -28,4 +28,4 @@ közigazgatási minőségpolitikáért
 
 és személyzetpolitikáért felelős miniszter
 
-[^1]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
