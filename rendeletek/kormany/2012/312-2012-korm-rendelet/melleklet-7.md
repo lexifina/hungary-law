@@ -62,13 +62,13 @@
 
 | 24. | kijelölt főútvonal esetén 100 méteren | terveinek végrehajtására, a | e) fennmaradási engedélyezési eljárás | 1.2. egyéb országos közút esetén: |
 
-| 25. | belüli építmény, valamint belterületen ipari, kereskedelmi, vendéglátó- ipari, vagy egyéb szolgáltatási célú | közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján engedélyezhető-e a kérelemben |  | fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörében eljáró járási hivatala |  |
+| 25. | belüli építmény, valamint belterületen ipari, kereskedelmi, vendéglátó- ipari, vagy egyéb szolgáltatási célú | közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján engedélyezhető-e a kérelemben |  | fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatala, a fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatala |  |
 
 | 26. | építmény építése, bővítése esetén, ha | foglaltak szerint vagy további |  | 2. Helyi közút esetén |
 
 | 27. | - az építményhez kapcsolódó közúti | feltételek mellett. |  | 2.1. a települési önkormányzat tulajdonában lévő helyi közutak esetén: |
 
-| 28. | forgalom út, vagy az építmény építéséhez szükséges, közforgalom |  |  | fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörében eljáró járási hivatala |  |
+| 28. | forgalom út, vagy az építmény építéséhez szükséges, közforgalom |  |  | fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatala, a fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatala |  |
 
 | 29. | elől elzárt parkoló építését teszi szükségessé, |  |  | 2.3. a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: |
 
