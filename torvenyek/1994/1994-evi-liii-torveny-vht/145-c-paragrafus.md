@@ -4,7 +4,7 @@
 
 (3) A vételi ajánlatot az elektronikus árverési rendszer akkor nem teszi közzé az árveréshez tartozó licitnaplóban, ha az
 
-a) nem éri el a becsérték 50%-át, lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén 70%-át, vagy
+a) nem éri el a becsérték 50%-át, lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén a becsérték összegét, illetve annak 70%-át, vagy
 
 b) nem haladja meg legalább a licitküszöb összegével az előzőleg közzétett vételi ajánlatot.
 

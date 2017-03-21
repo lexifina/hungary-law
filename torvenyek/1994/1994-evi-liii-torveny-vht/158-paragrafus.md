@@ -1,6 +1,6 @@
 ## Az ingatlan átvétele a végrehajtást kérő által
 
-158. § (1) Ha a 156. § alapján megtartott második árverés is sikertelen volt, úgy a végrehajtást kérő veheti át az ingatlant a becsérték felének, a 147. § (3) bekezdése szerinti ingatlan esetében pedig 70%-ának megfelelő átvételi összegben. Ha több végrehajtást kérő van, az ingatlant az veheti át, aki a becsérték felét vagy 70%-át meghaladó legmagasabb összegű árajánlatot tette.
+158. § (1) Ha a 156. § alapján megtartott második árverés is sikertelen volt, úgy a végrehajtást kérő veheti át az ingatlant a becsérték felének, a 147. § (3) bekezdése szerinti ingatlan esetében 70%-ának, illetve a becsértéknek megfelelő átvételi összegben. Ha több végrehajtást kérő van, az ingatlant az veheti át, aki a becsérték felét vagy becsérték összegét, illetve annak 70%-át meghaladó legmagasabb összegű árajánlatot tette.
 
 (2) Az árverés sikertelenségének tényéről a végrehajtó 15 napon belül értesíti a végrehajtást kérőt és
 

@@ -6,4 +6,6 @@
 
 (4) A vételi ajánlatok összegére, a kikiáltási árra és annak leszállítására – a 140. § (8) bekezdésének figyelembevételével – az első árverésre vonatkozó szabályokat kell alkalmazni.
 
-(5)–(6)
+(5) A végrehajtó a lakóingatlan árverezése során a felek kívánságára az általuk meghatározott értékre lecsökkenti azt az összeget, amelyen érvényes vételi ajánlat tehető. Az ilyen módon lefolytatott árverésből befolyó árverési vételár felosztását követően fennmaradó követelés megszűnik, a végrehajtási eljárás pedig befejeződik.
+
+(6)
