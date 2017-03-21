@@ -30,18 +30,19 @@ c) kedvezményezettként vagy támogatást igénylőként eljárva ellátja a pr
 
 d) felügyeli a projektek megvalósulását és alapos ok felmerülése esetén javaslatot tesz a miniszter részére a projektek projektmenedzsment és közbeszerzési feladatainak saját hatáskörben történő lebonyolítására.
 
-(3) A Társaság az 1. § b) pontja szerinti projektekkel összefüggésben
+(3)[^8] A Társaság az 1. § b) pontja szerinti projektekkel összefüggésben
 
 a) kidolgozza a közbeszerzések egységes lebonyolításának rendszerét,
 
-b) konzorciumvezetőként
+b) előkészíti a projekteket,
 
-ba)[^8] előkészíti a projekteket,
+c) ellátja a projektek megvalósításával kapcsolatos projektmenedzsment feladatokat, továbbá a konzorciumi partnerek nevében eljárva azok meghatalmazása alapján lebonyolítja a közbeszerzési eljárásokat, és szükség esetén aláírja a keretmegállapodásokat,
 
-bb)[^9] ellátja a projektek megvalósításával kapcsolatos projektmenedzsment feladatokat, továbbá a konzorciumi partnerek nevében eljárva azok meghatalmazása alapján lebonyolítja a közbeszerzési eljárásokat és szükség esetén aláírja a keretmegállapodásokat,
+d) ellátja a projektek megvalósításával kapcsolatos műszaki ellenőri feladatokat,
 
-bc)[^10] ellátja a projektek megvalósításával kapcsolatos műszaki ellenőri feladatokat.
+e) jogosult elszámolni a 272/2014. (XI. 5.) Korm. rendelet 5. mellékletének 3.9. pontja szerinti költségeket.
 
-[^8]: A 7. § (3) bekezdés b) pont ba) alpontja a 303/2015. (X. 16.) Korm. rendelet 15. §-a szerint módosított szöveg.
-[^9]: A 7. § (3) bekezdés b) pont bb) pontja a 159/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^10]: A 7. § (3) bekezdés b) pont bc) alpontját a 303/2015. (X. 16.) Korm. rendelet 11. §-a iktatta be.
+(4)[^9] A Társaság az 1/A. § szerinti projektekkel összefüggésben konzorciumi tagként – amennyiben a konzorciumi megállapodás erre feljogosítja – lebonyolíthatja a végső kedvezményezett nevében eljárva, annak meghatalmazása alapján a közbeszerzési eljárásokat, szükség esetén aláírhatja a keretmegállapodásokat, elláthatja a projektek megvalósításával kapcsolatos tervezési és műszaki ellenőri feladatokat, valamint ellátja azon feladatokat, amelyeket a konzorciumi megállapodás a Társaság részére előír.
+
+[^8]: A 7. § (3) bekezdése az 57/2017. (III. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^9]: A 7. § (4) bekezdését az 57/2017. (III. 20.) Korm. rendelet 4. §-a iktatta be.

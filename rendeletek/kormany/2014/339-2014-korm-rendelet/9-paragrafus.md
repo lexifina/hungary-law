@@ -2,6 +2,8 @@
 
 (2) A támogatási szerződés módosítása során a Társaságot konzorciumvezetőként, a végső kedvezményezettet konzorciumi tagként kell rögzíteni.
 
-(3) A Társaságot konzorciumvezetőként megilleti minden olyan jog, valamint terheli minden olyan kötelezettség – a 272/2014. (XI. 5.) Korm. rendelet 192/F. §-ában foglaltak figyelembevételével –, amelyet a támogatási szerződés a konzorciumvezető és a konzorciumi tagok számára meghatároz.
+(3)[^11] A Társaságot konzorciumvezetőként megilleti minden olyan jog, valamint terheli minden olyan kötelezettség, amelyet a támogatási szerződés a konzorciumvezető és a konzorciumi tagok számára meghatároz.
 
 (4) A konzorciumban részt vevő konzorciumi tagok konzorciumi megállapodásban rögzítik feladataikat, jogaikat és kötelezettségeiket, amely a támogatási szerződés módosításának a mellékletét képezi.
+
+[^11]: A 9. § (3) bekezdése az 57/2017. (III. 20.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

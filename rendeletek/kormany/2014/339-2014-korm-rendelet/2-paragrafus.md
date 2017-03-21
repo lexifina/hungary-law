@@ -1,4 +1,4 @@
-## 1/A. §[^3] E rendelet hatálya nem terjed ki a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 3. § (1) bekezdés 49. pontjában meghatározott azon szakaszolt projektekre, amelyek megvalósítása nem a miniszter felelősségi körébe tartozik és nem a Kormány saját hatáskörében történik.
+## 1/B. §[^3] E rendelet hatálya, az 1/A. §-ban foglalt kivétellel, nem terjed ki a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 3. § (1) bekezdés 49. pontjában meghatározott azon szakaszolt projektekre, amelyek megvalósítása nem a miniszter felelősségi körébe tartozik és nem a Kormány saját hatáskörében történik.
 
 ## 2. Értelmező rendelkezések
 
@@ -20,6 +20,6 @@
 
 8.[^5] végső kedvezményezett: az a kedvezményezett, amely vagy aki az e rendelet hatálya alá tartozó fejlesztéseket a számvitelről szóló törvény szerinti könyvviteli nyilvántartásába és rendeltetésszerűen használatba vette.
 
-[^3]: Az 1/A. §-t a 303/2015. (X. 16.) Korm. rendelet 9. §-a iktatta be.
+[^3]: Az 1/B. §-t az 57/2017. (III. 20.) Korm. rendelet 3. §-a iktatta be.
 [^4]: A 2. § 1. pontja a 303/2015. (X. 16.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 8. pontja a 303/2015. (X. 16.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

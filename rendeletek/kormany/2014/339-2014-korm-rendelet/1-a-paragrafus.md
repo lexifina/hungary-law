@@ -1,1 +1,1 @@
-## beruházások megvalósítását szolgáló projektekre terjed ki.
+## projektekre terjed ki.
