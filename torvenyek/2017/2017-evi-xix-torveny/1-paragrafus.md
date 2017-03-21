@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről Ghána, másrészről az Európai Közösség és tagállamai közötti átmeneti gazdasági partnerségi megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére és a Megállapodás 75. cikk (5) bekezdésében meghatározott időponttól kezdődő ideiglenes alkalmazására.
