@@ -1,4 +1,8 @@
-11. § (1)[^15] Ideiglenes határátkelőhely megnyitását sport, turisztikai, kulturális, vallásos, önkormányzati és más hasonló rendezvény céljából, gazdasági célból vagy nemzetközi kötelezettség teljesítése céljából lehet engedélyezni.
+11. § (1)[^16] Ideiglenes határátkelőhely megnyitása
+
+a) sport, turisztikai, kulturális, vallásos, önkormányzati és más hasonló rendezvény, nemzetközi kötelezettség teljesítése céljából vagy gazdasági célból engedélyezhető, valamint
+
+b) a 10. § (3) bekezdésében meghatározott társadalmi érdekre figyelemmel a Kormány döntése alapján lehetséges.
 
 (2) Az államhatárt érintő ideiglenes határátkelőhely esetén az engedély megadásának feltétele, hogy a szomszédos állam az ideiglenes határátkelőhely megnyitásához hozzájárul. A szomszédos állam illetékes határforgalom-ellenőrző szerveinek hozzájárulását a megyei rendőr-főkapitányság kérelmezi.
 
@@ -8,4 +12,4 @@ a) azt nem az (1) bekezdésben meghatározott okból nyújtották be,
 
 b) a szomszéd állam illetékes hatósága az ideiglenes határátkelőhely megnyitásához nem járul hozzá.
 
-[^15]: A 11. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^16]: A 11. § (1) bekezdése az 55/2017. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

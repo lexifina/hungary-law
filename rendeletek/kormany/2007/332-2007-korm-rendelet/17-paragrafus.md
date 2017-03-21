@@ -6,7 +6,7 @@
 
 (2) A rendelet 3. §-ának k) pontja, 4. §-ának k) pontja, 5. §-ának k) pontja, 6. §-ának g) pontja, valamint 7. §-ának g) pontja 2012. június 15-én lép hatályba.
 
-(3)[^20] E rendelet a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(3)[^23] E rendelet a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 Melléklet a 332/2007. (XII. 13.) Korm. rendelethez
 
@@ -26,4 +26,4 @@ c) munkaszüneti és ünnepnapokon 6000 Ft.
 
 Az a)–c) pontban meghatározott összegen túl meg kell téríteni továbbá a szolgálatot ellátó személyek helyszínre történő szállítását, és egyéb esetlegesen felmerülő, számlával igazolt költségeket.
 
-[^20]: A 17. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 19. pontja hatályon kívül helyezte, újonnan a 247/2013. (VII. 2.) Korm. rendelet 4. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^23]: A 17. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 19. pontja hatályon kívül helyezte, újonnan a 247/2013. (VII. 2.) Korm. rendelet 4. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
