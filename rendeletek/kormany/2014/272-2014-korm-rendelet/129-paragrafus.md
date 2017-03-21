@@ -6,7 +6,11 @@
 
 (1c)[^656] Az (1) bekezdéstől eltérően pénzforgalmi számla helyett korlátozott rendelkezésű számlára is utalható támogatás, ha a korlátozott rendelkezésű számla az e rendelet hatálya alá tartozó támogatásból megvalósuló projekt megvalósítása érdekében került megnyitásra.
 
-(1d)[^657] Előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást nem lehet zálogjogosult részére vagy korlátozott rendelkezésű számlára utalni, kivéve központi költségvetési szerv, helyi önkormányzat, önkormányzati társulás, valamint közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság kedvezményezett esetén a szállítói előlegnek vagy szállítói finanszírozású számla támogatástartalmának megfelelő támogatásnak a szállítóval zálogszerződést kötött zálogjogosult részére vagy korlátozott rendelkezésű számlára történő utalását.
+(1d)[^657] Előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást nem lehet zálogjogosult részére vagy korlátozott rendelkezésű számlára utalni, kivéve
+
+a) központi költségvetési szerv, helyi önkormányzat, önkormányzati társulás, valamint közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság kedvezményezett esetén a szállítói előlegnek vagy szállítói finanszírozású számla támogatástartalmának megfelelő támogatásnak a szállítóval zálogszerződést kötött zálogjogosult részére vagy korlátozott rendelkezésű számlára történő utalását,
+
+b) EMVA esetén az előleg biztosítékául nyújtott bankgaranciához kapcsolódó korlátozott rendelkezésű számlára történő utalást.
 
 (2)[^658] A támogatás folyósításának feltétele utófinanszírozás és szállítói finanszírozás esetén – az átalány alapú elszámolás, a mezőgazdasági kockázatkezelési támogatás, valamint a jövedelem-kompenzációs támogatások kivételével – a fizikai és pénzügyi teljesítés igazolása a kedvezményezett által benyújtott kifizetési igénylésben. Szállítói finanszírozás esetén, ha a 128. § (3) bekezdés alkalmazására kerül sor, a pénzügyi teljesítést a támogatás 90%-ának kifizetéséig nem kell igazolni.
 
@@ -26,7 +30,7 @@ b) nettó tervezés esetén – az ÁFA-törvény 142. §-a szerinti fordított 
 [^654]: A 129. § (1a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be.
 [^655]: A 129. § (1b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be.
 [^656]: A 129. § (1c) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be.
-[^657]: A 129. § (1d) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be, szövege a 12/2017. (I. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^657]: A 129. § (1d) bekezdését a 98/2016. (V. 13.) Korm. rendelet 32. §-a iktatta be, szövege az 51/2017. (III. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^658]: A 129. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 76. § (1) bekezdésével megállapított szöveg.
 [^659]: A 129. § (3) bekezdés nyitó szövegrésze a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 22. pontja szerint módosított szöveg.
 [^660]: A 129. § (5) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 29. pontja szerint módosított szöveg.

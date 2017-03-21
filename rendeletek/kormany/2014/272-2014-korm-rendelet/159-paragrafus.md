@@ -16,8 +16,6 @@ c) a cégbíróság a kedvezményezett céget a törvényességi felügyeleti el
 
 d) a kedvezményezett elismeri a szabálytalanság tényét,
 
-e) a szabálytalanság ténye még azelőtt derült ki, hogy a kedvezményezett részére bármilyen kifizetés történt volna,
-
 [^753]: A 159. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 182. pontja szerint módosított szöveg.
 [^754]: A 159. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 183. pontja szerint módosított szöveg.
 [^755]: A 159. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 184. pontja, a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 24. pontja szerint módosított szöveg.
