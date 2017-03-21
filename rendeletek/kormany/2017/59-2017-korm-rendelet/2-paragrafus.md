@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Paraguayi Köztársaság Kormánya közötti kétoldalú Gazdasági Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
