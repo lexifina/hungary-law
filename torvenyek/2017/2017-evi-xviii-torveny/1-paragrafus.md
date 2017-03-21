@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Unió és tagállamai, másrészről Kolumbia és Peru közötti kereskedelmi megállapodáshoz a Horvát Köztársaság Európai Unióhoz történő csatlakozására tekintettel létrejött Kiegészítő Jegyzőkönyvet (a továbbiakban: Kiegészítő Jegyzőkönyv) e törvénnyel kihirdeti.
