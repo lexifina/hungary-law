@@ -6,4 +6,6 @@
 
 3. § (1) A miniszter gondoskodik az 1. § szerinti projektek határidőben történő megvalósításáról.
 
-(2) A miniszter az (1) bekezdés szerinti feladatait az Nemzeti Fejlesztési és Stratégiai Intézet Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) bevonásával látja el.
+(2)[^9] A miniszter az (1) bekezdés szerinti feladatait a Társaság (a továbbiakban: Társaság) bevonásával látja el.
+
+[^9]: A 3. § (2) bekezdése az 57/2017. (III. 20.) Korm. rendelet 13. §-a szerint módosított szöveg.
