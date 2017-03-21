@@ -20,7 +20,7 @@ e)[^76] a nem gazdálkodó szervezet által működtetett diffúz légszennyező
 
 (3) A polgármester, fővárosban a főpolgármester a füstköd-riadó terv végrehajtásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el első fokon.
 
-(4)[^77] A (2) és (3) bekezdés szerinti levegőtisztaság-védelmi hatósági ügyekben a másodfokú hatósági jogkört a területi környezetvédelmi hatóság gyakorolja.
+(4)[^77]
 
 (5)[^78] Az országos környezetvédelmi hatóság jár el első fokon az átmeneti nemzeti tervben foglalt, a tüzelőberendezés legnagyobb megengedett kibocsátási mennyiségének meghatározásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben.
 
@@ -29,5 +29,5 @@ e)[^76] a nem gazdálkodó szervezet által működtetett diffúz légszennyező
 [^74]: A 36. § (2) bekezdés b) pontja a 292/2015. (X. 8.) Korm. rendelet 36. §-a szerint módosított szöveg.
 [^75]: A 36. § (2) bekezdés d) pontja a 292/2015. (X. 8.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^76]: A 36. § (2) bekezdés e) pontja a 292/2015. (X. 8.) Korm. rendelet 38. §-a szerint módosított szöveg.
-[^77]: A 36. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 159. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
+[^77]: A 36. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 159. § (1) bekezdése iktatta be, hatályon kívül helyezet az 52/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése.
 [^78]: A 36. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 26. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 163. § i) pontja szerint módosított szöveg.
