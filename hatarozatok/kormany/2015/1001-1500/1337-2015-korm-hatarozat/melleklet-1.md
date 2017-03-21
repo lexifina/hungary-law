@@ -24,31 +24,31 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1337/2015. (V. 27.) Korm. határozathoz
+1. melléklet az 1337/2015. (V. 27.) Korm. határozathoz[^1]
 
 A Nemzetközi Magánjogi Kodifikációs Bizottság tagjai:
 
-Elnök: Dr. Vékás Lajos professor emeritus
+Elnök: Dr. Burián László tanszékvezető egyetemi tanár
 
-Társelnök: Dr. Berke Barna államtitkár
+Alelnök: Dr. Király Miklós tanszékvezető egyetemi tanár
 
-Titkár:
+Társelnök: Dr. Nemessányi Zoltán helyettes államtitkár
 
-– Dr. Nemessányi Zoltán helyettes államtitkár
-
-– Dr. Szabados Tamás egyetemi adjunktus
+Titkár: Dr. Szabados Tamás egyetemi adjunktus
 
 Tagok:
 
+– Dr. Bán Dániel egyetemi adjunktus
+
 – Dr. Bodzási Balázs helyettes államtitkár
 
-– Dr. Burián László tanszékvezető egyetemi tanár
+– Dr. Bóka János egyetemi docens
 
 – Dr. Csehi Zoltán tanszékvezető egyetemi tanár
 
-– Dr. Gombos Katalin bíró
+– Dr. Erdős István egyetemi adjunktus
 
-– Dr. Király Miklós tanszékvezető egyetemi tanár
+– Dr. Gombos Katalin bíró
 
 – Dr. Martonyi János professor emeritus
 
@@ -56,10 +56,14 @@ Tagok:
 
 – Dr. Osztovits András bíró
 
-– Dr. Palásti Gábor docens
+– Dr. Palásti Gábor egyetemi docens
 
-– Dr. Raffai Katalin docens
+– Dr. Raffai Katalin egyetemi docens
 
-– Dr. Somssich Réka adjunktus
+– Dr. Somssich Réka habilitált egyetemi docens
 
-– Dr. Szabó Sarolta docens.
+– Dr. Szabó Sarolta egyetemi docens
+
+– Dr. Szőcs Tibor intézetvezető.
+
+[^1]: Az 1. melléklet az 1143/2017. (III. 20.) Korm. határozat 1. pontjával megállapított szöveg.
