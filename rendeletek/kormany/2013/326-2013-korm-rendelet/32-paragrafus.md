@@ -8,7 +8,7 @@ b) a közalkalmazott rendelkezik azzal, a szakképesítése alapján vagy ha az 
 
 ## kell besorolni.
 
-(3)[^136] Az e §-ban foglaltakat a 2. mellékletben felsorolt valamennyi munkakörben alkalmazni kell. Ha a közalkalmazott a „B”–„D” fizetési osztályba került besorolásra, illetménye nem lehet kevesebb a garantált bérminimum összegénél.
+(3)[^137] Az e §-ban foglaltakat a 2. mellékletben felsorolt valamennyi munkakörben alkalmazni kell. Ha a közalkalmazott a „B”–„D” fizetési osztályba került besorolásra, illetménye nem lehet kevesebb a garantált bérminimum összegénél.
 
 (4) Ha e rendelet a munkakörre több fizetési osztályt állapít meg, és
 
@@ -16,10 +16,10 @@ a) külön jogszabály intézménytípusonként meghatározza a munkakör ellát
 
 b) külön jogszabály alapján a munkakör több iskolai végzettséggel, képesítéssel ellátható, a közalkalmazottat a munkakör ellátásához szükséges legmagasabb iskolai végzettsége, képesítése alapján kell besorolni.
 
-(5)[^137] Gyógypedagógiai pótlékra jogosult a nevelési-oktatási intézményben nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott közalkalmazott is, feltéve, hogy kizárólag sajátos nevelési igényű gyermekekkel, tanulókkal foglalkozik, vagy, ha a munkaköri feladatai ellátásával érintett gyermekek, tanulók közül a sajátos nevelési igényű gyermekek, tanulók aránya a nevelési év, tanév első napján eléri a harminchárom százalékot. A pótlék mértéke megállapításának alapja a közalkalmazott besorolásánál figyelembe vett végzettségi szintnek megfelelő illetményalap.
+(5)[^138] Gyógypedagógiai pótlékra jogosult a nevelési-oktatási intézményben nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott közalkalmazott is, feltéve, hogy kizárólag sajátos nevelési igényű gyermekekkel, tanulókkal foglalkozik, vagy, ha a munkaköri feladatai ellátásával érintett gyermekek, tanulók közül a sajátos nevelési igényű gyermekek, tanulók aránya a nevelési év, tanév első napján eléri a harminchárom százalékot. A pótlék mértéke megállapításának alapja a közalkalmazott besorolásánál figyelembe vett végzettségi szintnek megfelelő illetményalap.
 
-(6)[^138] A nehéz körülmények között végzett munka utáni pótlékra a nevelő és oktató munkát közvetlenül segítő munkakörökben foglalkoztatott közalkalmazott is jogosult a 16. § (8) bekezdésében meghatározott feltételek szerint.
+(6)[^139] A nehéz körülmények között végzett munka utáni pótlékra a nevelő és oktató munkát közvetlenül segítő munkakörökben foglalkoztatott közalkalmazott is jogosult a 16. § (8) bekezdésében meghatározott feltételek szerint.
 
-[^136]: A 32. § (3) bekezdése a 99/2014. (III. 25.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^137]: A 32. § (5) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^138]: A 32. § (6) bekezdése a 99/2014. (III. 25.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^137]: A 32. § (3) bekezdése a 99/2014. (III. 25.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^138]: A 32. § (5) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^139]: A 32. § (6) bekezdése a 99/2014. (III. 25.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

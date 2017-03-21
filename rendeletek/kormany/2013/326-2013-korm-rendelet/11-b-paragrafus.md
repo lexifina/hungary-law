@@ -12,8 +12,9 @@ c) az a) és b) pontban foglaltakról az informatikai rendszer útján értesít
 
 (4) Ha a pedagógus neki fel nem róható okból nem tud részt venni a minősítő vizsga, a minősítési eljárás személyes részvételét igénylő eseményén, kérelmére az OH haladéktalanul új időpontot jelöl ki számára. E rendelkezés alkalmazásában fel nem róható ok minden olyan, a részvételt gátló esemény, körülmény, amelynek bekövetkezése nem vezethető vissza a pedagógus szándékos vagy gondatlan magatartására, illetve mulasztására. Az új időpont kijelölése iránti kérelmet az ok megjelölésével, az ok felmerülésével egyidejűleg, de legkésőbb az elmulasztott esemény napját követő nyolc napon belül lehet az OH részére benyújtani. Ha a minősítő bizottság vagy az OH azt állapítja meg, hogy a minősítő vizsga, a minősítési eljárás személyes részvételt igénylő eseménye a gyakornoknak, pedagógusnak felróható okból hiúsult meg, a minősítő vizsga, a minősítési eljárás sikertelennek minősül.
 
-(5) Ha a (3) és (4) bekezdésben vagy a 11/A. § (7) bekezdésében foglalt esetben előre nem látható, elháríthatatlan oknál fogva a minősítés évében már nem lehetséges az új időpont kijelölése, legkésőbb a minősítés évét követő év március 31. napjáig terjedő időszakra eső új időpontot kell kijelölni.
+(5)[^72] Ha a (3) és (4) bekezdésben vagy a 11/A. § (7) bekezdésében foglalt esetben előre nem látható, elháríthatatlan oknál fogva a minősítés évében már nem lehetséges az új időpont kijelölése, legkésőbb a minősítés évét követő év június 30. napjáig terjedő időszakra eső új időpontot kell kijelölni.
 
 [^69]: A 11/B. § (1) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 11. pontja szerint módosított szöveg.
 [^70]: A 11/B. § (2) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^71]: A 11/B. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 4. és 7. pontja szerint módosított szöveg.
+[^72]: A 11/B. § (5) bekezdése a 63/2017. (III. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.

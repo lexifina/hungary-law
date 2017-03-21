@@ -1,4 +1,4 @@
-38. §[^167] (1) 2015. január 1. és 2015. augusztus 31. között az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
+38. §[^168] (1) 2015. január 1. és 2015. augusztus 31. között az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
 
 a) 118,9 százaléka középfokú végzettség esetén,
 
@@ -22,4 +22,4 @@ b) 174,5 százaléka alapfokozat esetén,
 
 c) 193,2 százaléka mesterfokozat esetén.
 
-[^167]: A 38. § a 365/2014. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^168]: A 38. § a 365/2014. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

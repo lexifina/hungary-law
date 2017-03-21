@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-326-20-
 | 2016-12-29 | 2013-326-20-22.16 | 235/2016. (VII. 29.) Korm. rendelet |
 | 2017-01-01 | 2013-326-20-22.17 | 486/2016. (XII. 28.) Korm. rendelet |
 | 2017-01-02 | 2013-326-20-22.18 | 486/2016. (XII. 28.) Korm. rendelet |
+| 2017-03-21 | 2013-326-20-22.19 | 63/2017. (III. 20.) Korm. rendelet |
