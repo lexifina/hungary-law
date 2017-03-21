@@ -56,11 +56,7 @@
 
 ## Határidő: 2017. május 15.
 
-## 9. visszavonja
-
-## a) a 2015. évi Milánói Világkiállítás magyar pavilonjának Magyarországon történő újraépítéséről szóló 1992/2015. (XII. 28.) Korm. határozatot, és
-
-## b) a 2015. évi Milánói Világkiállítás magyar pavilonjának Magyarországon történő újraépítéséről szóló 1456/2016. (VIII. 24.) Korm. határozatot.
+## 9.[^1]
 
 1. melléklet az 1130/2017. (III. 20.) Korm. határozathoz
 
@@ -123,3 +119,5 @@ Költségvetési év: 2017.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
