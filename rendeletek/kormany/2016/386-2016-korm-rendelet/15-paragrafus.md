@@ -1,0 +1,6 @@
+## jelöli ki.
+
+15. §[^10] E rendeletnek a fővárosi és megyei kormányhivatalok működésével összefüggő egyes kormányrendeletek módosításáról szóló 52/2017. (III. 20.) Korm. rendelettel megállapított 13. § c) pontja hatálybalépése előtt megkezdett és a hatálybalépése[^11] időpontjában folyamatban lévő eljárásokat az eljárás megindításakor hatályos rendelkezések szerint kell befejezni.
+
+[^10]: A 15. §-t az 52/2017. (III. 20.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^11]: A hatálybalépés időpontja 2017. március 21.
