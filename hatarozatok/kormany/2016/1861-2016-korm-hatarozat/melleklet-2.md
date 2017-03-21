@@ -62,15 +62,15 @@
 
 | 31. | Állami szervezetek energetikai fejlesztései | 2 | KEHOP5. |
 
-| 32. | 5. Közlekedés | Szántód–Kőröshegy–Balatonszentgyörgy vasút vonalszakasz felújítása | 72,4 | IKOP2. |
+| 32. | 5. Közlekedés | Szántód–Kőröshegy–Balatonszentgyörgy vasút vonalszakasz felújítása | 70,30 | IKOP2. |
 
-| 33. | 36-os Fonyód–Kaposvár vasútvonal állapotjavítása | 15 | IKOP3. |
+| 33. | 36-os Fonyód–Kaposvár vasútvonal állapotjavítása | 10,30 | IKOP3. |
 
 | 34. | M7 autópálya és 710. sz. főút csomópontjának kialakítása, 710. sz. főúti bekötéssel | 6,2 | IKOP1. |
 
 | 35. | Vasútállomások rekonstrukciója | 4 | IKOP2. és 3. |
 
-| 36. | A 29. számú vasútvonal Szabadbattyán-Aszófő szakaszának villamosítása és központi forgalomirányítás kiépítése | 25 | IKOP3. |
+| 36. | A 29. számú vasútvonal Szabadbattyán-Aszófő szakaszának villamosítása és központi forgalomirányítás kiépítése | 27 | IKOP3. |
 
 | 37. | 6. Területfejlesztés | Somogy megye | 8,2 | TOP |
 

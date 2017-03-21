@@ -152,4 +152,6 @@
 
 ## Határidő: 2016. december 31.
 
-1. melléklet az 1861/2016. (XII. 27.) Korm. határozathoz
+1. melléklet az 1861/2016. (XII. 27.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1145/2017. (III. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
