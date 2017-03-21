@@ -10,7 +10,7 @@
 
 4. ajánlásokat fogalmaz meg és jóváhagyja a program szintű szervek által készített program szintű irányítási és kontrollrendszer leírását és az ellenőrzési nyomvonalakat,
 
-5. ellenőrzi és értékeli a programok előrehaladását, különös tekintettel az együttműködési megállapodásokban és a program megállapodásokban vállalt kötelezettségek teljesülésére,
+5.[^10] ellenőrzi és értékeli a programok előrehaladását, valamint a program- és projektszintű fenntartási kötelezettségek teljesítését, különös tekintettel az együttműködési megállapodásokban és a program megállapodásokban vállalt kötelezettségek teljesülésére,
 
 6. gondoskodik a program szintű szervek szabályszerű működésének ellenőrzéséről,
 
@@ -30,6 +30,7 @@
 
 14. gondoskodik a tájékoztatási és nyilvánossági kötelezettségek teljesítéséről,
 
-15.[^7] a hitelesítést végző szerv által szolgáltatott adatok alapján benyújtja az igazoló hatóság részére a kifizetési ütemterveket.
+15.[^11] a hitelesítést végző szerv által szolgáltatott adatok alapján benyújtja az igazoló hatóság részére a kifizetési ütemterveket.
 
-[^7]: A 6. § 15. pontját a 35/2016. (II. 29.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 6. § 5. pontja az 51/2017. (III. 20.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
+[^11]: A 6. § 15. pontját a 35/2016. (II. 29.) Korm. rendelet 3. §-a iktatta be.

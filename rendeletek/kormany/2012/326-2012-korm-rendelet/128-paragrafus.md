@@ -1,12 +1,12 @@
-128. § (1)[^129] A kedvezményezett a visszafizetési kötelezettséget a Miniszterelnökség által kezelt előirányzat-felhasználási keretszámlára köteles teljesíteni.
+128. § (1)[^159] A kedvezményezett a visszafizetési kötelezettséget a Miniszterelnökség által kezelt előirányzat-felhasználási keretszámlára köteles teljesíteni.
 
-(2)[^130] Ha a befolyt, illetve kompenzált követelések támogatási összege korábban az igazoló hatóságtól a donor hozzájárulás rendezése keretében lehívásra került, a Miniszterelnökség a fejezeti kezelésű előirányzat-felhasználási keretszámlán történt jóváírásról szóló bankszámlakivonat kézhezvételét követő 5 napon belül visszautalja a behajtott összeg finanszírozási mechanizmusokra jutó részét az igazoló hatóság megfelelő fizetési számlájára.
+(2)[^160]
 
-(3)[^131] A visszakövetelt támogatás – ha az nem rendszerjellegű szabálytalansághoz kapcsolódik – programon belüli átcsoportosításáról a visszaköveteléssel nem érintett kedvezményezettek javára az érintett program operátor dönthet a 58. § rendelkezései szerint. A visszafizetett támogatás más program javára történő átcsoportosítására a nemzeti kapcsolattartó a donor országok részére az érintett program operátor előzetes egyetértésével tehet javaslatot.
+(3)[^161] A visszakövetelt támogatás – ha az nem rendszerjellegű szabálytalansághoz kapcsolódik – programon belüli átcsoportosításáról a visszaköveteléssel nem érintett kedvezményezettek javára az érintett program operátor dönthet a 58. § rendelkezései szerint. A visszafizetett támogatás más program javára történő átcsoportosítására a nemzeti kapcsolattartó a donor országok részére az érintett program operátor előzetes egyetértésével tehet javaslatot.
 
-(4)[^132] Ha a visszakövetelt támogatás felhasználására a (3) bekezdésben foglaltak szerint nem kerül sor, az igazoló hatóság gondoskodik a visszakövetelt összeg donor országok részére történő visszautalásáról a finanszírozási mechanizmusokra vonatkozó szabályzatok szerint.
+(4)[^162] Ha a visszakövetelt támogatás felhasználására a (3) bekezdésben foglaltak szerint nem kerül sor, az igazoló hatóság gondoskodik a visszakövetelt összeg donor országok részére történő visszautalásáról a finanszírozási mechanizmusokra vonatkozó szabályzatok szerint.
 
-[^129]: A 128. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 60. pontja szerint módosított szöveg.
-[^130]: A 128. § (2) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 61. pontja szerint módosított szöveg.
-[^131]: A 128. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 50. § 9. pontja szerint módosított szöveg.
-[^132]: A 128. § (4) bekezdése a 35/2016. (II. 29.) Korm. rendelet 50. § 10. pontja szerint módosított szöveg.
+[^159]: A 128. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 60. pontja szerint módosított szöveg.
+[^160]: A 128. § (2) bekezdését az 51/2017. (III. 20.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^161]: A 128. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 50. § 9. pontja szerint módosított szöveg.
+[^162]: A 128. § (4) bekezdése a 35/2016. (II. 29.) Korm. rendelet 50. § 10. pontja szerint módosított szöveg.

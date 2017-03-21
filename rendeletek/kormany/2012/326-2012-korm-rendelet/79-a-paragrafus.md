@@ -1,0 +1,1 @@
+## 79. § A hitelesítést végző szerv számára meghatározott határidőbe nem számít bele a hiánypótlásra, illetve a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő, jogorvoslati, illetve szabálytalansági eljárás esetén az eljárás felfüggesztésének időtartama.

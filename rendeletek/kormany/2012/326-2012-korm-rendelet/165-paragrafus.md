@@ -1,6 +1,6 @@
 ## kell levonni az elszámolható költségekből.
 
-## 69. [^157] A csekély összegű támogatás
+## 69. [^188] A csekély összegű támogatás
 
 165. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -18,4 +18,4 @@
 
 (8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^157]: A 69. alcím (165. §) a 35/2016. (II. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^188]: A 69. alcím (165. §) a 35/2016. (II. 29.) Korm. rendelet 44. §-ával megállapított szöveg.

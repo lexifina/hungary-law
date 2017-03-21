@@ -20,4 +20,12 @@ h) a kedvezményezett ellen a bíróság jogerős végzése alapján csőd-, fel
 
 (2) Azon projektek esetében, amelyeknél az (1) bekezdés szerinti valamely körülmény bekövetkezésének lehetősége fennáll, a program operátor jogosult a támogatási szerződéstől való elállást megelőzően kockázatelemzés alapján egyedi cselekvési terv kidolgozását kérni és nyomon követni, továbbá a támogató által jogszabály, pályázati felhívás és támogatási szerződés alapján alkalmazható intézkedéseket – a támogatási szerződés módosításának kezdeményezésével egyidejűleg – alkalmazni, így különösen a projektmenedzsment költségeket csökkenteni vagy azok kifizetését feltételekhez kötni.
 
-(3) A támogatási szerződéstől történő elállásról a támogató köteles írásban értesíteni a kedvezményezettet.
+(3)[^79] Ha az (1) bekezdés szerinti valamely körülmény bekövetkezése miatt a program operátor a támogatási szerződéstől eláll, akkor a program operátor elállásról szóló nyilatkozatot küld postai úton a projektgazda részére. A nyilatkozatnak tartalmaznia kell az elállás indokait, valamint a projektgazdát terhelő visszafizetési kötelezettségre vonatkozó rendelkezéseket a 126. § rendelkezéseivel összhangban.
+
+(4)[^80] Az elállás időpontját a program operátor az elállásról szóló nyilatkozatban állapítja meg.
+
+(5)[^81] Ha a projektgazda a támogatási szerződés megkötését követően beállott bármely körülmény folytán nem képes a támogatási szerződés teljesítésére, elállhat a támogatási szerződéstől. Az elállásról szóló értesítésnek tartalmaznia kell az elállás indokait. Ha a támogatási szerződéstől a projektgazda eláll, a program operátor az elállás tényének tudomásul vételéről postai úton értesíti a projektgazdát, egyúttal tájékoztatja az elállás jogi következményeiről, valamint a projektgazdát terhelő esetleges visszafizetési kötelezettségekről.
+
+[^79]: Az 59. § (3) bekezdése az 51/2017. (III. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^80]: Az 59. § (4) bekezdését az 51/2017. (III. 20.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^81]: Az 59. § (5) bekezdését az 51/2017. (III. 20.) Korm. rendelet 6. § (2) bekezdése iktatta be.

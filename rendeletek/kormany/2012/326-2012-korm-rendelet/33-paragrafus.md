@@ -1,14 +1,14 @@
-33. § (1)[^31] A támogatást igénylő a pályázatában projekt partnereket nevezhet meg.
+33. § (1)[^38] A támogatást igénylő a pályázatában projekt partnereket nevezhet meg.
 
 (2) Projekt partner csak olyan szervezet lehet, amely a pályázati felhívásban meghatározott követelményeknek megfelel és támogatásban részesülhet.
 
-(3)[^32] A projektgazda támogató döntés esetén partnerségi megállapodást köt az egyes projekt partnerekkel, melyben a felek kötelezettséget vállalnak a projekt pályázatban meghatározott módon történő közös megvalósítására. A partnerségi megállapodás tartalmazza legalább:
+(3)[^39] A projektgazda támogató döntés esetén partnerségi megállapodást köt az egyes projekt partnerekkel, melyben a felek kötelezettséget vállalnak a projekt pályázatban meghatározott módon történő közös megvalósítására. A partnerségi megállapodás tartalmazza legalább:
 
 a) a projektgazda felelősségét viselő szervezet megnevezését,
 
-b)[^33] a projektgazda és a projekt partner szerepét és felelősségét,
+b)[^40] a projektgazda és a projekt partner szerepét és felelősségét,
 
-c)[^34] a projektgazda és a projekt partner pénzügyi hozzájárulását és a támogatásból való részesedésük feltételeit, ideértve a projekt részletes költségvetését és a projekt partner költségeinek elszámolhatóságára vonatkozó szabályokat,
+c)[^41] a projektgazda és a projekt partner pénzügyi hozzájárulását és a támogatásból való részesedésük feltételeit, ideértve a projekt részletes költségvetését és a projekt partner költségeinek elszámolhatóságára vonatkozó szabályokat,
 
 d) a projekt partner adatszolgáltatási és ellenőrzések keretében történő együttműködési kötelezettségét,
 
@@ -24,7 +24,7 @@ g) a pályázati felhívásban vagy jogszabályban előírt releváns feltétele
 
 (6) A megkötött partnerségi megállapodást a támogatási szerződés megkötését megelőzően kell a végrehajtó ügynökség – ösztöndíj program esetén a program operátor – részére benyújtani, aki ellenőrzi a partnerségi megállapodás megfelelőségét.
 
-[^31]: A 33. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^32]: A 33. § (3) bekezdés nyitó szövegrésze a 35/2016. (II. 29.) Korm. rendelet 49. § 11. pontja szerint módosított szöveg.
-[^33]: A 33. § (3) bekezdés b) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 12. pontja szerint módosított szöveg.
-[^34]: A 33. § (3) bekezdés c) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 13. pontja szerint módosított szöveg.
+[^38]: A 33. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^39]: A 33. § (3) bekezdés nyitó szövegrésze a 35/2016. (II. 29.) Korm. rendelet 49. § 11. pontja szerint módosított szöveg.
+[^40]: A 33. § (3) bekezdés b) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 12. pontja szerint módosított szöveg.
+[^41]: A 33. § (3) bekezdés c) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 13. pontja szerint módosított szöveg.

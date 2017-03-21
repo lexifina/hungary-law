@@ -1,8 +1,8 @@
 ## 21. Monitoring tevékenység
 
-60. § (1)[^67] A program operátor a támogatott projektek céloknak megfelelő előrehaladását a végrehajtó ügynökség bevonásával folyamatosan nyomon követi.
+60. § (1)[^82] A program operátor a támogatott projektek céloknak megfelelő előrehaladását a végrehajtó ügynökség bevonásával folyamatosan nyomon követi.
 
-(2)[^68] A program operátor minden év december 31-ig a végrehajtó ügynökséggel egyeztetve kockázatelemzésen alapuló monitoring tervet készít és tájékoztatásul megküldi a nemzeti szintű szervek részére. A program operátor köteles törekedni a monitoring terv és a 69. § szerinti helyszíni ellenőrzési terv összehangolására. Ösztöndíj program esetén a program operátor nem köteles egyeztetni a monitoring tervet a végrehajtó ügynökséggel.
+(2)[^83] A program operátor minden év december 31-ig a végrehajtó ügynökséggel egyeztetve kockázatelemzésen alapuló monitoring tervet készít és tájékoztatásul megküldi a nemzeti szintű szervek részére. A program operátor köteles törekedni a monitoring terv és a 69. § szerinti helyszíni ellenőrzési terv összehangolására. Ösztöndíj program esetén a program operátor nem köteles egyeztetni a monitoring tervet a végrehajtó ügynökséggel.
 
 (3) A monitoring terv a program operátornak a következő évre tervezett monitoring tevékenységét mutatja be, így különösen a tervezett monitoring látogatásokat, illetve a program és a projektek vonatkozásában tervezett egyéb felülvizsgálatokat.
 
@@ -10,8 +10,8 @@
 
 (5) Kutatási program esetén a program operátor a szabályzatok 12. mellékletének 5. fejezetében foglaltak szerint köteles a monitoring tevékenységet biztosítani.
 
-(6)[^69] A program szintű szervek és a kedvezményezettek tevékenységének nyomon követése érdekében a nemzeti kapcsolattartó is végezhet az ezen alcím szerinti monitoring tevékenységet.
+(6)[^84] A program szintű szervek és a kedvezményezettek tevékenységének nyomon követése érdekében a nemzeti kapcsolattartó is végezhet az ezen alcím szerinti monitoring tevékenységet.
 
-[^67]: A 60. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^68]: A 60. § (2) bekezdése a 35/2016. (II. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^69]: A 60. § (6) bekezdését a 35/2016. (II. 29.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^82]: A 60. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^83]: A 60. § (2) bekezdése a 35/2016. (II. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^84]: A 60. § (6) bekezdését a 35/2016. (II. 29.) Korm. rendelet 24. § (2) bekezdése iktatta be.

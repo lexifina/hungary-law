@@ -136,6 +136,8 @@
 
 66. program előkészítési költség: a programok tervezési feladataival összefüggésben felmerülő költségek finanszírozására szolgáló pénzügyi forrás az egyes programok költségvetésén belül, a programdokumentumok donor országok általi jóváhagyásáig,
 
+66a.[^3] program fenntartási időszak: az adott program tekintetében az első projektzáró jelentés program operátor általi elfogadásának napjától az utolsó projekt fenntartási időszakának lejártát követő 90. napig tartó időszak,
+
 67. program megállapodás: a donor országok és a nemzeti kapcsolattartó közötti megállapodás, amely felhatalmazást ad a donor országok által jóváhagyott program megvalósítására,
 
 68. program menedzsment költség: a programok végrehajtásával összefüggésben felmerülő költségek finanszírozására szolgáló pénzügyi forrás az egyes programok költségvetésén belül, a programdokumentumok donor országok általi jóváhagyását követően,
@@ -147,6 +149,8 @@
 71. program végrehajtási megállapodás: az egyes, donor országok által jóváhagyott programok végrehajtása tekintetében a nemzeti kapcsolattartó, a program operátor és a végrehajtó ügynökség jogait és kötelezettségeit rögzítő háromoldalú megállapodás,
 
 72. projekt: a finanszírozási mechanizmusok keretében támogatásban részesülő, meghatározott célra rendelt feladatok egy egységet képező sorozata,
+
+72a.[^4] projekt fenntartási időszak: a projektzáró jelentés program operátor általi elfogadásának napjától kezdődő, a támogatási szerződésben nevesített időtartamig tartó időszak,
 
 73. projektgazda: a projekt kezdeményezéséért, előkészítéséért és végrehajtásáért felelős támogatásban részesülő támogatást igénylő,
 
@@ -194,6 +198,8 @@
 
 95. technikai segítségnyújtás: a finanszírozási mechanizmusok irányítási és kontrollrendszerének kiépítésére és működtetésére szolgáló támogatási forrás,
 
+95a.[^5] technikai segítségnyújtás megállapodásáról szóló szerződés: a donor országok és a kedvezményezett ország közötti, a technikai segítségnyújtás forrás felhasználásáról szóló megállapodás,
+
 96. tényfeltáró látogatás: a költségigazolás alátámasztása érdekében az igazoló hatóság által a hitelesítést végző szervnél végzett, az eljárások megfelelőségének vizsgálatára irányuló helyszíni ellenőrzés,
 
 97. tényfeltáró vizsgálat: a költségigazolás alátámasztása érdekében az igazoló hatóság által a hitelesítést végző szervnél végzett, a számlák és egyéb, a kifizetés-igénylést alátámasztó dokumentumok megfelelőségére irányuló ellenőrzés,
@@ -205,3 +211,6 @@
 100. végrehajtó ügynökség: a finanszírozási mechanizmusok és egyes programjai végrehajtásában a nemzeti kapcsolattartóval, illetve a program operátorokkal kötött megállapodások alapján közreműködő szerv.
 
 [^2]: A 3. § a 35/2016. (II. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § 66a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 3. § 72a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 3. § 95a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.

@@ -2,7 +2,7 @@
 
 ## 10. § A finanszírozási mechanizmusok végrehajtásával összefüggésben a program operátor feladatai különösen a következők:
 
-1. felel a program tervezéséért és végrehajtásáért a gazdaságosság, hatékonyság és eredményesség elveivel összhangban,
+1.[^15] felel a program tervezéséért, végrehajtásáért és a projektszintű fenntartási kötelezettségek ellenőrzéséért a gazdaságosság, hatékonyság és eredményesség elveivel összhangban,
 
 2. biztosítja, hogy a támogatott projektek hozzájáruljanak a finanszírozási mechanizmusok átfogó céljaihoz és a programtól elvárt eredményekhez és célokhoz, valamint biztosítja a szabályzatoknak, a program megállapodásnak, valamint a nemzeti és európai uniós jognak való megfelelést a program végrehajtása során,
 
@@ -39,3 +39,5 @@
 18. közreműködik a szabálytalanság-kezelési rendszer működtetésében,
 
 19. adatot szolgáltat a donor országok által rendelkezésre bocsátott informatikai rendszeren (a továbbiakban: DoRIS) keresztül.
+
+[^15]: A 10. § 1. pontja az 51/2017. (III. 20.) Korm. rendelet 18. § 2. pontja szerint módosított szöveg.

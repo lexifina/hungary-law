@@ -4,8 +4,8 @@
 
 (3) A kizárólag donor partnerségi projekteket támogató programok esetében az értékelő bizottságban a program operátor és a donor program partner részéről egyenlő számú tagot kell kinevezni. Ilyen esetben az értékelő bizottság, a pályázatok és egyéb dokumentumok munkanyelve az angol.
 
-(4)[^42] Az értékelő bizottság ülésén a donor országok és a nemzeti kapcsolattartó képviselője, továbbá donor partnerségi program esetén a donor program partner képviselője tanácskozási joggal vesz részt.
+(4)[^49] Az értékelő bizottság ülésén a donor országok és a nemzeti kapcsolattartó képviselője, továbbá donor partnerségi program esetén a donor program partner képviselője tanácskozási joggal vesz részt.
 
 (5) Az értékelő bizottság ügyrendjét a program operátor határozza meg.
 
-[^42]: A 42. § (4) bekezdése a 35/2016. (II. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^49]: A 42. § (4) bekezdése a 35/2016. (II. 29.) Korm. rendelet 16. §-ával megállapított szöveg.

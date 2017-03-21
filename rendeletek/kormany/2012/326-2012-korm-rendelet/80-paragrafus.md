@@ -1,4 +1,4 @@
-## 79. § A hitelesítést végző szerv számára meghatározott határidőbe nem számít bele a hiánypótlásra, illetve a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő, jogorvoslati, illetve szabálytalansági eljárás esetén az eljárás felfüggesztésének időtartama.
+## 79/A. §[^109] A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg a hitelesítést végző szerv által kiadott, szerződés-módosításra vonatkozó támogató tartalmú nyilatkozat alapján folyósítható.
 
 ## V. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## 26. A költségvetési tervezésre vonatkozó szabályok
 
-80. § (1)[^91] A finanszírozási mechanizmusok támogatásait a Miniszterelnökség az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), valamint az Ávr. előírásaival összhangban tervezi meg.
+80. § (1)[^110] A finanszírozási mechanizmusok támogatásait a Miniszterelnökség az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), valamint az Ávr. előírásaival összhangban tervezi meg.
 
 (2) A finanszírozási mechanizmusok támogatásaival összefüggésben tervezett donor hozzájárulást és a kapcsolódó nemzeti társfinanszírozást ugyanazon az előirányzaton kell megjeleníteni.
 
@@ -20,7 +20,8 @@ c) a donor hozzájárulás egyéb tételeit, így a technikai segítségnyújtá
 
 (4) A finanszírozási mechanizmusok támogatásával megvalósuló program nemzeti társfinanszírozási kötelezettségét kiemelten kell kezelni, amely nem jelenthet az érintett fejezet számára a költségvetési tervezés során meghatározott kereten túl pótlólagos finanszírozási igényt.
 
-(5)[^92] A donor országokkal való elszámolásokból adódó árfolyam-különbözet elszámolására szolgáló fedezet európai uniós tartalékként történő költségvetési tervezése a Miniszterelnökség feladata a tervezési tájékoztató és a költségvetési törvény előírásaival összhangban.
+(5)[^111] A donor országokkal való elszámolásokból adódó árfolyam-különbözet elszámolására szolgáló fedezet európai uniós tartalékként történő költségvetési tervezése a Miniszterelnökség feladata a tervezési tájékoztató és a költségvetési törvény előírásaival összhangban.
 
-[^91]: A 80. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^92]: A 80. § (5) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 37. pontja szerint módosított szöveg.
+[^109]: A 79/A. §-t az 51/2017. (III. 20.) Korm. rendelet 9. §-a iktatta be.
+[^110]: A 80. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^111]: A 80. § (5) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 37. pontja szerint módosított szöveg.

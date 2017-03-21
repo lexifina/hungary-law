@@ -6,4 +6,6 @@
 
 (3) A 2017. július 1-je után elvégzett ellenőrzésekre vonatkozó információkat a záró ellenőrzési jelentésben kell feltüntetni.
 
-(4) Az ellenőrzési hatóság elvégzi a zárónyilatkozat kibocsátásához szükséges ellenőrzéseket és legkésőbb 2017. december 31-ig benyújtja a záró nyilatkozatot és az azt megalapozó záró ellenőrzési jelentést a donor országok részére, valamint tájékoztatásul megküldi az államháztartásért felelős miniszter, a nemzeti kapcsolattartó és az igazoló hatóság részére.
+(4)[^138] Az ellenőrzési hatóság elvégzi a zárónyilatkozat kibocsátásához szükséges ellenőrzéseket és legkésőbb 2018. december 31-ig benyújtja a záró nyilatkozatot és az azt megalapozó záró ellenőrzési jelentést a donor országok részére, valamint tájékoztatásul megküldi az államháztartásért felelős miniszter, a nemzeti kapcsolattartó és az igazoló hatóság részére.
+
+[^138]: A 112. § (4) bekezdése az 51/2017. (III. 20.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.
