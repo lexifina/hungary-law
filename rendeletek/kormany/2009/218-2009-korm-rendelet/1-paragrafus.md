@@ -30,7 +30,11 @@ m) területi terv készítése: a területi terv kidolgozásának, egyeztetésé
 
 n)[^5] hagyományos tájhasználat: egy adott tájrészletre jellemző, a természeti adottságokon alapuló és a helyi gazdálkodási kultúrának megfelelő olyan területhasználati vagy más haszonvételezési mód, amely meghatározza a táj jellegét és biztosítja természeti és kulturális értékeinek fenntartható hasznosítását,
 
-o)[^6] tájjelleg (tájkarakter): a természeti és antropogén tájalkotó tényezők együtthatásából kialakuló, adott tájrészletre jellemző mintázat vagy rendszer, amely egy tájat más tájrészletektől megkülönböztethetővé tesz.
+o)[^6] tájjelleg (tájkarakter): a természeti és antropogén tájalkotó tényezők együtthatásából kialakuló, adott tájrészletre jellemző mintázat vagy rendszer, amely egy tájat más tájrészletektől megkülönböztethetővé tesz,
+
+p)[^7] települési szolgáltatások: a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti települési szolgáltatások,
+
+q)[^8] okos város: a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti okos város.
 
 [^1]: Az 1. § d) pontja a 25/2014. (II. 7.) Korm. rendelet 16. § a) pontja és 17. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § g) pontja a 67/2012. (IV. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
@@ -38,3 +42,5 @@ o)[^6] tájjelleg (tájkarakter): a természeti és antropogén tájalkotó tén
 [^4]: Az 1. § l) pontját a 25/2014. (II. 7.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
 [^5]: Az 1. § n) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be.
 [^6]: Az 1. § o) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be.
+[^7]: Az 1. § p) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § q) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be.

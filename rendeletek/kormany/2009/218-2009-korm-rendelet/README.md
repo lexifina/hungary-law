@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-218-20-
 | 2015-04-01 | 2009-218-20-22.17 | 134/2012. (VI. 28.) Korm. rendelet |
 | 2015-07-01 | 2009-218-20-22.18 | 147/2015. (VI. 12.) Korm. rendelet |
 | 2017-01-01 | 2009-218-20-22.19 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-03-21 | 2009-218-20-22.20 | 56/2017. (III. 20.) Korm. rendelet |

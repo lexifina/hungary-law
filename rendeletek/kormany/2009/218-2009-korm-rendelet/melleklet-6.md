@@ -12,7 +12,7 @@
 
 ## e) helyzetértékelés; a jövőkép, a fejlesztési elvek és az átfogó cél kapcsolata;
 
-## f)[^48] külső koherencia: a célrendszer kapcsolata más országos és megyei tervdokumentumokkal;
+## f)[^51] külső koherencia: a célrendszer kapcsolata más országos és megyei tervdokumentumokkal;
 
 ## g) a területfelhasználás alapelveit lefektető koncepció kidolgozása.
 
@@ -138,7 +138,7 @@ f) az egyes ágazati szakpolitikák számára területi preferenciák, ajánlás
 
 g) a területfejlesztés eszköz- és intézményrendszerére, a területi monitoring rendszerre vonatkozó javaslatok meghatározása;
 
-h)[^49] a megyék fejlesztési irányai.
+h)[^52] a megyék fejlesztési irányai.
 
-[^48]: Az 5. melléklet 1. pont f) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
-[^49]: A 6. melléklet 2. pont h) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^51]: Az 5. melléklet 1. pont f) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
+[^52]: A 6. melléklet 2. pont h) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
