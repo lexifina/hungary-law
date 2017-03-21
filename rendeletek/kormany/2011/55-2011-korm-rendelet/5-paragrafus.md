@@ -1,4 +1,4 @@
-5. §[^11] (1)[^12] A szolgáltató – a kártyával azonosított elektronikus utalvány elfogadás esetén – kizárólag a szolgáltató tevékenységi körébe tartozó, a kártya elektronikus utalvány funkciója szerinti felhasználásnak jogszerűen megfelelő, és az alábbi felsorolásban szereplő belföldi szolgáltatást nyújthat a munkavállaló és társkártyával rendelkező közeli hozzátartozója részére:
+5. §[^12] (1)[^13] A szolgáltató – a kártyával azonosított elektronikus utalvány elfogadás esetén – kizárólag a szolgáltató tevékenységi körébe tartozó, a kártya elektronikus utalvány funkciója szerinti felhasználásnak jogszerűen megfelelő, és az alábbi felsorolásban szereplő belföldi szolgáltatást nyújthat a munkavállaló és társkártyával rendelkező közeli hozzátartozója részére:
 
 a) az SZJA törvény 71. § (1) bekezdés c) pont ca) alpontja szerinti szálláshely alszámla terhére
 
@@ -6,11 +6,11 @@ aa) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90-ből a
 
 ab) belföldi utazásszervezés (TEÁOR'08 79.12.-ből belföldi előre összeállított utazási csomagok értékesítése),
 
-ac)[^13] a szálláshelyen igénybe vehető, és a szálláshelyen a szálláshely-szolgáltatással együttesen fizethető bármely szolgáltatás,
+ac)[^14] a szálláshelyen igénybe vehető, és a szálláshelyen a szálláshely-szolgáltatással együttesen fizethető bármely szolgáltatás,
 
-ad)[^14] fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyfürdők tevékenysége),
+ad)[^15] fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyfürdők tevékenysége),
 
-ae)[^15] máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás).
+ae)[^16] máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás).
 
 b) az SZJA törvény 71. § (1) bekezdés c) pont cb) alpontja szerinti vendéglátás alszámla terhére
 
@@ -20,9 +20,9 @@ bb) egyéb vendéglátás (TEÁOR'08 56.29.),
 
 bc) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90-ből a családi panzió szolgáltatása),
 
-bd)[^16] fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyfürdők tevékenysége),
+bd)[^17] fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyfürdők tevékenysége),
 
-be)[^17] máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás).
+be)[^18] máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás).
 
 c) az SZJA törvény 71. § (1) bekezdés c) pont cc) alpontja szerinti szabadidő alszámla terhére
 
@@ -42,7 +42,7 @@ cg) fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04.),
 
 ch) testedzési szolgáltatás (TEÁOR'08 93.13),
 
-ci)[^18] egyéb sporttevékenység (TEÁOR'08 93.19-ből a verseny- és lovaglóistállók tevékenysége, a sporthorgászat és a sportesemények rendezése, szervezése, promóciója tevékenységből a szabadidős sportrendezvények nevezési, regisztrációs díja),
+ci)[^19] egyéb sporttevékenység (TEÁOR'08 93.19-ből a verseny- és lovaglóistállók tevékenysége, a sporthorgászat és a sportesemények rendezése, szervezése, promóciója tevékenységből a szabadidős sportrendezvények nevezési, regisztrációs díja),
 
 cj) belvízi személyszállítás (TEÁOR'08 50.30.),
 
@@ -60,11 +60,11 @@ cp) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90-ből a
 
 (2) A szolgáltató a kártyán a munkavállaló és társkártyával rendelkező közeli hozzátartozója rendelkezésére álló elektronikus utalványt készpénzre, vagy készpénz-helyettesítő eszközre nem válthatja át.
 
-[^11]: Az 5. § a 317/2011. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^12]: Az 5. § (1) bekezdése a 301/2012. (X. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^13]: Az 5. § (1) bekezdés a) pont ac) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
-[^14]: Az 5. § (1) bekezdés a) pont ad) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
-[^15]: Az 5. § (1) bekezdés a) pont ae) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
-[^16]: Az 5. § (1) bekezdés b) pont bd) alpontját a 198/2013. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
-[^17]: Az 5. § (1) bekezdés b) pont be) alpontját a 198/2013. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
-[^18]: Az 5. § (1) bekezdés c) pont ci) alpontja a 198/2013. (VI. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 5. § a 317/2011. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: Az 5. § (1) bekezdése a 301/2012. (X. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 5. § (1) bekezdés a) pont ac) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^15]: Az 5. § (1) bekezdés a) pont ad) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^16]: Az 5. § (1) bekezdés a) pont ae) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^17]: Az 5. § (1) bekezdés b) pont bd) alpontját a 198/2013. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^18]: Az 5. § (1) bekezdés b) pont be) alpontját a 198/2013. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^19]: Az 5. § (1) bekezdés c) pont ci) alpontja a 198/2013. (VI. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
