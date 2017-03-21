@@ -12,7 +12,7 @@
 
 ## Határidő: 2018. március 31.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és Korm. határozat módosításáról szóló 1494/2016. (IX. 15.) Korm. határozatban (a továbbiakban: Határozat) a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Területfejlesztéssel összefüggő feladatok jogcímcsoport javára átcsoportosított 800,0 millió forint tekintetében 2018. június 30.” szöveg lép.
+## 2.[^1]
 
 ## 3. A Kormány egyetért azzal, hogy a Határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 43. Kulturális örökségvédelmi szakmai feladatok jogcímcsoport K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 75 000 ezer forintból 18 165 ezer forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton, 56 835 ezer forint K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
@@ -109,3 +109,5 @@ Millió forintban, egy tizedessel
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
