@@ -1,0 +1,1 @@
+## 1. § A Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: turisztikai ügynökség) a turizmussal kapcsolatos – e rendeletben és a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvényben meghatározott – állami feladatokat közfeladatként látja el.
