@@ -1,6 +1,6 @@
 ## 4. A vasúti közlekedési hatóság kijelölése
 
-6. §[^8] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
+6. §[^9] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
 
 (2) A vasúti közlekedés biztonságával összefüggő munkakört betöltő vasúti munkavállalók vizsgáztatását végző vizsgabiztosokat a miniszter nevezi ki.
 
@@ -12,4 +12,4 @@
 
 (6) A vasútszakmai oktatók névjegyzékét a vasúti közlekedési hatóság vezeti.
 
-[^8]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^9]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

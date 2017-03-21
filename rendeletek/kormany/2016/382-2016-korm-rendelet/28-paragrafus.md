@@ -1,4 +1,4 @@
-## 27. §[^12]
+## 27. §[^13]
 
 ## 28. § Hatályát veszti
 
@@ -6,4 +6,4 @@ a) a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendele
 
 b) a Nemzeti Közlekedési Hatóságról szóló 263/2006 (XII. 20.) Korm. rendelet.
 
-[^12]: A 27. § a 25. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^13]: A 27. § a 25. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
