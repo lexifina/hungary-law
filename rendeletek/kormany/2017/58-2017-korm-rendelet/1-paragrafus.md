@@ -1,0 +1,3 @@
+1. § (1) A 2015. évi Milánói Világkiállítás magyar pavilonjának (a továbbiakban: Pavilon) megvalósításával kapcsolatos egyes feladatok irányításán belül a Pavilon bontását, a világkiállítási terület rekultivációját, a milánói projekt lezárását, valamint a Pavilon hazaszállítását a 100%-os állami tulajdonban álló Kárpátok-Alpok Zártkörűen Működő Részvénytársaság (a továbbiakban: Kárpátok-Alpok Zrt.) végzi.
+
+(2) A Kárpátok-Alpok Zrt. az (1) bekezdésben meghatározott feladatok végrehajtása érdekében jogosult és köteles a szükséges és indokolt beszerzési és egyéb tárgyú szerződések előkészítésére és megkötésére.
