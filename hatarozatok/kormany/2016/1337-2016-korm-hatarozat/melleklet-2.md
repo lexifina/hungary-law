@@ -16,4 +16,6 @@
 
 | 7. | Menedzsment költség (együttesen) | MNV Zrt. | 90 000 000 | 50 000 000 |
 
-2. melléklet az 1337/2016. (VII. 4.) Korm. határozathoz
+2. melléklet az 1337/2016. (VII. 4.) Korm. határozathoz[^5]
+
+[^5]: A 2. melléklet az 1145/2017. (III. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
