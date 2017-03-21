@@ -1,6 +1,6 @@
 A Kormány
 
-1. felhívja a belügyminisztert, a nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy a mentális, szociális vagy egészségügyi problémával küzdő álláskeresők közfoglalkoztatásba történő szélesebb körű bevonása érdekében készítsék elő
+1.[^1] felhívja a belügyminisztert, a nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy a mentális, szociális vagy egészségügyi problémával küzdő álláskeresők közfoglalkoztatásba történő szélesebb körű bevonása érdekében készítsék elő
 
 a) az e célcsoporthoz tartozók speciális közfoglalkoztatási bérezésével kapcsolatos, valamint a foglalkoztatásukat szolgáló közfoglalkoztatási programok támogatásához,
 
@@ -18,7 +18,7 @@ emberi erőforrások minisztere
 
 Határidő: az a) alpont tekintetében: 2016. június 15.
 
-a b) és c) alpont tekintetében: 2016. szeptember 30.
+a b) és c) alpont tekintetében: 2017. november 30.
 
 2. felhívja a belügyminisztert, hogy a mentális, szociális vagy egészségügyi problémával küzdő álláskeresők számára közfoglalkoztatási pilot mintaprogramot szervezzen, és a nemzetgazdasági miniszterrel együtt biztosítsa az ehhez szükséges 209 millió forint forrást, a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet, LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram cím terhére;
 
@@ -59,3 +59,5 @@ d) biztosítsa az ehhez szükséges 19 millió forint forrást a Kvtv. 1. mellé
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2016. június 30.
+
+[^1]: Az 1. pont az 1139/2017. (III. 20.) Korm. határozat 19. pontja szerint módosított szöveg.
