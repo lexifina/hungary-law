@@ -1,13 +1,13 @@
 ## 4. Eljárás az árverés megtartásának akadálya esetén
 
-14. § (1)[^25] Ha az adós a tartozását megfizette vagy más egyéb okból nem állnak már fenn a föld árverésének feltételei, a megkereső köteles ennek tényéről haladéktalanul, rövid úton értesíteni a mezőgazdasági igazgatási szervet.
+14. § (1)[^26] Ha az adós a tartozását megfizette vagy más egyéb okból nem állnak már fenn a föld árverésének feltételei, a megkereső köteles ennek tényéről haladéktalanul, rövid úton értesíteni a mezőgazdasági igazgatási szervet.
 
-(2)[^26] Ha az (1) bekezdés szerinti értesítés legkésőbb az árverés megkezdéséig beérkezik, a mezőgazdasági igazgatási szerv az eljárását megszünteti; az értesítés kézhezvétele után az árverést kitűzni és megtartani nem lehet. Az eljárás megszüntetésének van helye akkor is, ha az értesítés az árverés lefolytatása során, de még az árverési vevő személyét megállapító döntés meghozatala előtt érkezik meg.
+(2)[^27] Ha az (1) bekezdés szerinti értesítés legkésőbb az árverés megkezdéséig beérkezik, a mezőgazdasági igazgatási szerv az eljárását megszünteti; az értesítés kézhezvétele után az árverést kitűzni és megtartani nem lehet. Az eljárás megszüntetésének van helye akkor is, ha az értesítés az árverés lefolytatása során, de még az árverési vevő személyét megállapító döntés meghozatala előtt érkezik meg.
 
 (3) Az eljárás megszüntetése esetén a befizetett előleg és licitdíj visszajár, annak visszautalásáról 8 napon belül intézkedni kell.
 
-(4)[^27] Az (1) bekezdés szerint kell eljárni a végrehajtás felfüggesztése esetén is azzal, hogy a mezőgazdasági igazgatási szerv az eljárását a végrehajtónak a felfüggesztés megszűnésére vonatkozó értesítéséig felfüggeszti.
+(4)[^28] Az (1) bekezdés szerint kell eljárni a végrehajtás felfüggesztése esetén is azzal, hogy a mezőgazdasági igazgatási szerv az eljárását a végrehajtónak a felfüggesztés megszűnésére vonatkozó értesítéséig felfüggeszti.
 
-[^25]: A 14. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés l) pontja szerint módosított szöveg.
-[^26]: A 14. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^27]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^26]: A 14. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^27]: A 14. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.

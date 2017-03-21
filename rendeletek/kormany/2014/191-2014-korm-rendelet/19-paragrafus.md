@@ -8,6 +8,6 @@
 
 (3) A felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó szabályok szerinti értékesítés céljából az adós vagyonába tartozó föld vonatkozásában e rendelet hatálybalépését követően árverés megtartására, a Cégközlönyben pályázat közzétételére nem kerülhet sor, valamint a föld nem nyilvános értékesítési eljárással sem idegeníthető el. A felszámoló köteles a nem nyilvános értékesítési ajánlatot visszavonni, a Cégközlönyben még meg nem jelent nyilvános értékesítési pályázat vagy az e rendelet hatálybalépését követő nyilvános árverési időpontot tartalmazó hirdetmény visszavonása iránt intézkedni, illetve ha a visszavonásra már nincs mód, kijavító közleményként tájékoztatást közzétenni arról, hogy a föld értékesítésére e rendelet szerinti árverés keretében kerül sor. Visszavonás esetén a megfizetett közzétételi költségtérítés visszatérítendő, a kijavító közlemény közzététele pedig közzétételi költségmentes.
 
-(4)[^28] Ha e rendelet hatálybalépésekor folyamatban lévő végrehajtási ügyben e rendelet szerint kell az árverést lefolytatni, az 1. § szerinti megkeresést e rendelet hatálybalépését követő 15. napig kell megküldeni a mezőgazdasági igazgatási szerv részére.
+(4)[^29] Ha e rendelet hatálybalépésekor folyamatban lévő végrehajtási ügyben e rendelet szerint kell az árverést lefolytatni, az 1. § szerinti megkeresést e rendelet hatálybalépését követő 15. napig kell megküldeni a mezőgazdasági igazgatási szerv részére.
 
-[^28]: A 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^29]: A 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
