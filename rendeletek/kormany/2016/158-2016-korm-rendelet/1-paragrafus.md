@@ -8,4 +8,6 @@ a) az egyházi jogi személyek által megvalósítandó energiahatékonyság nö
 
 b) a közszféra szervezetek számára tervezett kiemelt, épületenergetikai célú projektekre, ideértve a megújuló energiaforrások alkalmazásával kombinált beruházásokat és a szemléletformálási programokat, és
 
-c) hatálybalépése napján eredményes közbeszerzési eljárással rendelkező, (1) bekezdésben meghatározott projektekre.
+c)[^1]
+
+[^1]: Az 1. § (2) bekezdés c) pontját az 57/2017. (III. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.

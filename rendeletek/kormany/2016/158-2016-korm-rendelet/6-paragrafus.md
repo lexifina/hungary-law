@@ -10,4 +10,9 @@ c) kapcsolatot tart a miniszter és a szakpolitikai felelős irányítása alá 
 
 d) negyedévente jelentést készít a miniszter részére a tevékenységéről és az 1. § szerinti projektek előrehaladásáról, továbbá haladéktalanul tájékoztatja – az ok megjelölésével – a minisztert, ha a projektek megvalósítása késedelmet szenvedhet.
 
-(2) A Társaság a támogatást igénylő – a támogatási szerződés megkötését követően kedvezményezett – konzorcium konzorciumvezetőjeként ellátja az 1. § szerinti projektek előkészítését, valamint ezen projektek megvalósításával összefüggő projektmenedzsment feladatokat, a végső kedvezményezett meghatalmazása alapján lebonyolítja a beszerzési és közbeszerzési eljárásokat és szükség esetén aláírja a keretmegállapodásokat, valamint ellátja a műszaki ellenőri feladatokat.
+(2)[^2] A Társaság a támogatást igénylő – a támogatási szerződés megkötését követően kedvezményezett – konzorcium konzorciumvezetőjeként ellátja az 1. § szerinti projektek előkészítését, az ezen projektek megvalósításával összefüggő projektmenedzsment feladatokat, valamint ezen projektek terveinek felülvizsgálatát. A Társaság a végső kedvezményezett meghatalmazása alapján lebonyolíthatja a beszerzési és közbeszerzési eljárásokat, és szükség esetén aláírhatja a keretmegállapodásokat, valamint ellátja a műszaki ellenőri feladatokat.
+
+(3)[^3] A Társaság jogosult elszámolni a 272/2014. (XI. 5.) Korm. rendelet 5. mellékletének 3.9. pontja szerinti költségeket.
+
+[^2]: A 6. § (2) bekezdése az 57/2017. (III. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^3]: A 6. § (3) bekezdését az 57/2017. (III. 20.) Korm. rendelet 14. §-a iktatta be.
