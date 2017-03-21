@@ -1,5 +1,0 @@
-## 1. § A termékek eladási ára és egységára, továbbá a szolgáltatások díja feltüntetésének részletes szabályairól szóló 4/2009. (I. 30.) NFGM–SZMM együttes rendelet 5/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EK, az 1037/2011/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendeletben, valamint az 1234/2007/EK tanácsi rendeletnek a tojás forgalmazása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 23-i 589/2008/EK bizottsági rendeletben meghatározott tojás esetében – a 4. § e) pontja szerint feltüntetendő egységáron túl – fel kell tüntetni a tojás kilogrammjára számított legmagasabb egységárat is. Az eladási árat, a 4. § e) pontja szerinti egységárat és a tojás kilogrammjára számított legmagasabb egységárat azonos betűméretben kell feltüntetni.”
-
-2. § Ez a rendelet a kihirdetését követő kilencvenedik napon lép hatályba.
