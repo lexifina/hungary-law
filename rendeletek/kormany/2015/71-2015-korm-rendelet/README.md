@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-71-20-2
 | 2016-01-01 | 2015-71-20-22.5 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-07-01 | 2015-71-20-22.6 | 37/2016. (III. 3.) Korm. rendelet |
 | 2017-01-01 | 2015-71-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-03-21 | 2015-71-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |

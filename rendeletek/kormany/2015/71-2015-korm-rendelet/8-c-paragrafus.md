@@ -1,6 +1,6 @@
 ## 8/B. § A kormányrendelettel hatáskörébe utalt ügyekben környezetvédelmi hatóságként járási illetékességgel a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási környezetvédelmi hatóság) jár el.
 
-## 4/C.[^8] Egyes felügyeleti, törvényességi és szakszerűségi hatáskörök gyakorlása
+## 4/C. [^8] Egyes felügyeleti, törvényességi és szakszerűségi hatáskörök gyakorlása
 
 8/C. § (1) Az országos és a területi környezetvédelmi és természetvédelmi hatóság, valamint a járási környezetvédelmi hatóság – a (2) bekezdésbe nem tartozó – környezetvédelmi és természetvédelmi feladatkörei gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
 

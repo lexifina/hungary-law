@@ -48,7 +48,7 @@
 
 | 3. | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Győr-Moson-Sopron megye, Komárom-Esztergom megye, Vas megye, Zala megye, Fejér megye, Tolna megye, Veszprém megye, Baranya megye, Somogy megye, Bács-Kiskun megye |
 
-## 1.2.3 A radiológiai vizsgálatokat valamennyi környezeti elem vonatkozásában országos illetékességi területtel a Baranya Megyei Kormányhivatal Pécsi Járási Hivatala végzi.
+## 1.2.3 A radiológiai vizsgálatokat valamennyi környezeti elem vonatkozásában országos illetékességi területtel a Baranya Megyei Kormányhivatal végzi.
 
 ## 2. A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet 14. § (4) bekezdésében, 15. § (3) bekezdésében, 16. §-ában, 17. §-ában és 18. § (1) bekezdésében meghatározott igazgatási feladatokat ellátó járási hivatalok
 
