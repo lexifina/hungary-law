@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről Kolumbia és Peru közötti kereskedelmi megállapodáshoz Ecuador csatlakozásának figyelembevétele céljából csatolt Csatlakozási Jegyzőkönyv (a továbbiakban: Csatlakozási Jegyzőkönyv) kötelező hatályának elismerésére.
