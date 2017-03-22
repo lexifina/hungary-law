@@ -246,21 +246,21 @@
 
 | 19. |  |  |  |
 
-| 20. | EFOP-3.1.4-VEKOP-15 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – útravaló ösztöndíjprogram | 1,80 |
+| 20. | EFOP-3.1.4-VEKOP-15 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – Útravaló ösztöndíjprogram | 1,80 |
 
 | 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | 3,77 |
 
-| 21a |  |  |  |
+| 21a | EFOP-3.2.15-VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 3,17 |
 
 | 22. | EFOP-3.3.3-VEKOP-16 | Országos múzeumi és könyvtári központi fejlesztés | 0,60 |
 
 | 23. | EFOP-3.4.2-VEKOP-15 | Campus Mundi – felsőoktatási mobilitási és nemzetköziesítési program | 2,30 |
 
-| 24. | EFOP-3.4.5-VEKOP-17 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 1,48 |
+| 24. | EFOP-3.4.5-VEKOP-17 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 0,48 |
 
-| 24a. | EFOP-3.6.3-VEKOP-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 2,72 |
+| 24a. | EFOP-3.4.6-VEKOP-17 | Intézményi irányítás fejlesztése a felsőoktatásban | 1,00 |
 
-| 25. |  |  |  |
+| 25. | EFOP-3.6.3-VEKOP-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 2,72 |
 
 | 26. |  |  |  |
 
@@ -385,4 +385,4 @@
 [^1]: Az 1. pont c) alpontját az 1202/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1. pont d) alpontját az 1148/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja szerint módosított szöveg. [A 1157/2017. (III. 21.) Korm. határozat 3. pont 3.2. alpontjával elrendelt módosítás, amely szerint az 1. melléklet 11. pontjában foglalt táblázat c:21 mezőjében az „1,80” szövegrész helyébe a „0,60” szöveg lép, nem vezethető át.]
