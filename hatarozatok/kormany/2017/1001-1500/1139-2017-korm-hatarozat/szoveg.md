@@ -176,6 +176,9 @@ határozza meg.
 
 18. Ez a határozat a közzétételét követő napon lép hatályba.
 
-19. A mentális, szociális vagy egészségi okból foglalkoztatásba be nem vonható álláskeresők foglalkoztathatóságának növelését szolgáló 2016. évi kormányzati intézkedésekről szóló 1253/2016. (VI. 6.) Korm. határozat 1. pontjában a „2016. szeptember 30.” szövegrész helyébe a „2017. november 30.” szöveg lép.
+19.[^1]
 
-20. Hatályát veszti a közfoglalkoztatás 2016. évi céljairól és a közfoglalkoztatás szempontjából kiemelt települések meghatározásáról szóló 1040/2016. (II. 11.) Korm. határozat.
+20.[^2]
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
