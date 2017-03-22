@@ -1,1 +1,0 @@
-## „(10) A 17. § (2) bekezdés g) pontja szerinti keretszám terhére csak olyan rezidens vehető fel, aki nyilatkozatban vállalja, hogy a szakvizsga megszerzése után legalább három évig teljes munkaidőben vagy legalább hat évig – legalább heti 18 óra időtartamú – részmunkaidős foglalkoztatás keretében végez közfinanszírozott fogorvosi alapellátási vagy szakellátási tevékenységet.”
