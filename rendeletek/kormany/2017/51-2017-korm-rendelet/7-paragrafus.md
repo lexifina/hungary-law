@@ -1,3 +1,0 @@
-## „(4) Az elállás időpontját a program operátor az elállásról szóló nyilatkozatban állapítja meg.
-
-## (5) Ha a projektgazda a támogatási szerződés megkötését követően beállott bármely körülmény folytán nem képes a támogatási szerződés teljesítésére, elállhat a támogatási szerződéstől. Az elállásról szóló értesítésnek tartalmaznia kell az elállás indokait. Ha a támogatási szerződéstől a projektgazda eláll, a program operátor az elállás tényének tudomásul vételéről postai úton értesíti a projektgazdát, egyúttal tájékoztatja az elállás jogi következményeiről, valamint a projektgazdát terhelő esetleges visszafizetési kötelezettségekről.”
