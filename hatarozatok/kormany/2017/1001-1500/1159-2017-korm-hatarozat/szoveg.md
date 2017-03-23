@@ -18,4 +18,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-4. jelen kormányhatározat közzétételével egyidejűleg visszavonja a gyermek és az ifjúsági gyalogos vándortáborozás támogatásával kapcsolatos feladatokról szóló 1867/2016. (XII. 28.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
