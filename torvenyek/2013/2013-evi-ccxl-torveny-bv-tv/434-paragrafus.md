@@ -41,11 +41,3 @@ b) a szabálysértési elzárás végrehajtását foganatosító büntetés-vég
 c) a szabálysértési elzárás végrehajtásának részletes szabályait a szabálysértési szabályozásért és a rendészetért felelős miniszter egyetértésével, a legfőbb ügyész véleményének a kikérésével.
 
 (4) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a pártfogó felügyelői és a büntetés-végrehajtási pártfogó felügyelői tevékenységgel kapcsolatos rendőri feladatok végrehajtásának szabályait.
-
-(4a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős és a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben állapítsa meg az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályait.
-
-(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős és az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtás során elrendelt elővezetés végrehajtásával, az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyész vagy végrehajtásért felelős szerv elé állításával, valamint az elítélt vagy az egyéb jogcímen fogvatartott kérelmére történő előállítás során felmerült költség megtérítésének részletes szabályait.
-
-(6) Felhatalmazást kap a rendészetért felelős miniszter, hogy a javítóintézeti rendészek kiegészítő képzésének és a vizsgájának részletes tartalmi feltételeit vagy ezek díját; a vizsgaszabályzatot; valamint a kiegészítő képzésnek és vizsgának megfelelő szakirányú képesítések és képzettségek jegyzékét a gyermekek és az ifjúság védelméért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben rendeletben szabályozza.
-
-(7) Felhatalmazást kap a gyermekek és az ifjúság védelméért felelős miniszter, hogy a javítóintézetek rendtartását az igazságügyért felelős miniszterrel és a büntetés-végrehajtásért felelős miniszterrel egyetértésben kiadott rendeletben állapítsa meg.
