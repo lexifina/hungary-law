@@ -18,7 +18,7 @@ g) elektronikus anyakönyv: az anyakönyvi bejegyzéseket elektronikus formában
 
 h) hazai anyakönyvezés: a magyar állampolgár külföldön történt anyakönyvi eseményéhez, valamint a nem magyar állampolgár anyakönyvi eseményéhez kapcsolódó, e törvényben meghatározott adatoknak az anyakönyvbe történő bejegyzése, azok módosítása és törlése,
 
-i) munkaszüneti nap: január 1., március 15., húsvét, május 1., pünkösd, július 1., augusztus 20., október 23., november 1. és december 24–26.,
+i)
 
 j) nyilvántartó anyakönyvvezető: az az anyakönyvvezető, aki, illetve az anyakönyvi szerv, amely a bejegyzés alapjául szolgáló anyakönyvi alapiratot őrzi,
 
