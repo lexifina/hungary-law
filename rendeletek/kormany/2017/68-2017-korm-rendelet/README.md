@@ -1,0 +1,9 @@
+# 68/2017. (III. 23.) Korm. rendelet
+
+a Belváros-Lipótvárosi Sportközpont kialakítására, valamint a Budapest V. kerület, József nádor tér felszínrendezésére irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-68-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-03-24 | 2017-68-20-22.1 | 68/2017. (III. 23.) Korm. rendelet |
