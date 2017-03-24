@@ -1,6 +1,6 @@
-70/B. §[^368] (1) A 70/A. § szerint elvégzett értékelést követően az irányító hatóság döntés-előkészítő bizottságot hív össze.
+70/B. §[^370] (1) A 70/A. § szerint elvégzett értékelést követően az irányító hatóság döntés-előkészítő bizottságot hív össze.
 
-(2)[^369] Az 57/A. § (2) és (3) bekezdése szerinti kiválasztási eljárásrenddel érintett felhívások kivételével az (1) bekezdés szerinti döntés-előkészítő bizottság tagjainak száma három fő. A döntés-előkészítő bizottságba az irányító hatóság, a szakpolitikai felelős és az európai uniós források felhasználásért felelős miniszter delegál tagot.
+(2)[^371] Az 57/A. § (2) és (3) bekezdése szerinti kiválasztási eljárásrenddel érintett felhívások kivételével az (1) bekezdés szerinti döntés-előkészítő bizottság tagjainak száma három fő. A döntés-előkészítő bizottságba az irányító hatóság, a szakpolitikai felelős és az európai uniós források felhasználásért felelős miniszter delegál tagot.
 
-[^368]: A 70/B. §-t a 98/2016. (V. 13.) Korm. rendelet 24. §-a iktatta be.
-[^369]: A 70/B. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^370]: A 70/B. §-t a 98/2016. (V. 13.) Korm. rendelet 24. §-a iktatta be.
+[^371]: A 70/B. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 16. pontja szerint módosított szöveg.
