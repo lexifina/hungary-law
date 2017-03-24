@@ -39,5 +39,3 @@
 ## 4. a kormánytisztviselő jelenlegi munkaköre (pártfogó felügyelői, jogi segítségnyújtási, vagy áldozatsegítési szakreferens)
 
 ## 5. a kormánytisztviselő munkából való távollétének jogcíme és időtartama
-
-## 6. a kormányzati szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja
