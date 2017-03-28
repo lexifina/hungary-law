@@ -1,3 +1,7 @@
+## IX/A. Fejezet
+
+## TÖMEGES BEVÁNDORLÁS OKOZTA VÁLSÁGHELYZET
+
 ## Tömeges bevándorlás okozta válsághelyzet
 
 80/A. § (1) Tömeges bevándorlás okozta válsághelyzet rendelhető el, ha
@@ -22,7 +26,11 @@ bc) egy hét átlagában a napi ezerhatszáz főt
 
 meghaladja,
 
-c) az a) és b) pontban meghatározott eseteken kívül bármely olyan migrációs helyzettel összefüggő körülmény alakul ki, amely valamely település közbiztonságát, közrendjét vagy a közegészségügyet közvetlenül veszélyezteti, különösen, ha az adott településen vagy annak külterületén található befogadó állomáson vagy a külföldiek elhelyezését biztosító egyéb létesítményben zavargás tör ki, vagy erőszakos cselekményeket követnek el.
+c) az a) és b) pontban meghatározott eseteken kívül bármely olyan migrációs helyzettel összefüggő körülmény alakul ki, amely
+
+ca) a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti magyarországi határvonal védelmét közvetlenül veszélyezteti,
+
+cb) Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávja, illetve valamely magyarországi település közbiztonságát, közrendjét vagy a közegészségügyet közvetlenül veszélyezteti, különösen, ha e területen, illetve az adott településen vagy annak külterületén található befogadó állomáson vagy a külföldiek elhelyezését biztosító egyéb létesítményben zavargás tör ki, vagy erőszakos cselekményeket követnek el.
 
 (2) A tömeges bevándorlás okozta válsághelyzetet az országos rendőrfőkapitány és a menekültügyi hatóság vezetője kezdeményezésére, a miniszter javaslatára a Kormány rendeletben rendelheti el. A tömeges bevándorlás okozta válsághelyzet Magyarország egész, illetve annak meghatározott területére rendelhető el.
 

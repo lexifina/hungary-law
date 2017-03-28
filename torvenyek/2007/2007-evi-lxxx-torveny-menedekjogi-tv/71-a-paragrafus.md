@@ -4,7 +4,7 @@
 
 a) Magyarország területére történő beléptetés előtt, vagy
 
-b) Magyarország területének a személyek határátlépésére irányadó szabályok uniós kódexének létrehozásáról szóló 2016/399 EU rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belüli feltartóztatása után az államhatárról szóló törvényben meghatározott államhatár rendjének védelmét biztosító létesítmény kapuján való átvezetés után
+b) Magyarország területének a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belüli feltartóztatása után az államhatárról szóló törvényben meghatározott államhatár rendjének védelmét biztosító létesítmény kapuján való átvezetés után
 
 a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
