@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2016-09-30 | 2016. évi XXXIX. törvény | 2007-2-00-00.43 |
 | 2016-11-26 | 2016. évi CXVI. törvény | 2007-2-00-00.44 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2007-2-00-00.45 |
+| 2017-03-28 | 2017. évi XX. törvény | 2007-2-00-00.46 |

@@ -28,7 +28,9 @@ c) ha a tartózkodási hely nem közösségi szállás vagy befogadó állomás,
 
 (3) A kötelező tartózkodási helyet közösségi szálláson vagy befogadó állomáson lehet kijelölni, ha a harmadik országbeli állampolgár magát eltartani nem képes, megfelelő lakással, anyagi fedezettel vagy jövedelemmel, eltartásra köteles meghívóval, eltartásra kötelezhető hozzátartozóval nem rendelkezik.
 
-(4) A közösségi szálláson vagy befogadó állomáson történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező, illetve a menekültügyi hatóság vagy bíróság által nemzetközi vagy kiegészítő védelemben részesített harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
+(3a) Tömeges bevándorlás okozta válsághelyzetben kötelező tartózkodási helyet tranzitzónában is ki lehet jelölni.
+
+(4) A közösségi szálláson, a befogadó állomáson, vagy a tranzitzónában történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező, illetve a menekültügyi hatóság vagy bíróság által nemzetközi vagy kiegészítő védelemben részesített harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
 
 (5) A kijelölt helyen történő tartózkodás elrendelésére irányuló eljárás felfüggesztését a harmadik országbeli állampolgár nem kérheti.
 
