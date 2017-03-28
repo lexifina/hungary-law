@@ -2,6 +2,8 @@
 
 (1a) A rendőr Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belül feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény elkövetésének gyanúja merül fel.
 
+(1b) Tömeges bevándorlás okozta válsághelyzet idején a rendőr Magyarország területén feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény elkövetésének gyanúja merül fel.
+
 (2) Az (1) bekezdés szerinti területen található ingatlan (a továbbiakban: ingatlan) tekintetében e törvény erejénél fogva az államot az (1) bekezdés szerinti feladatok ellátása céljából határozatlan időre szóló közérdekű használati jog illeti meg.
 
 (3) A (2) bekezdés szerinti ingatlan tulajdonosa és használója (a továbbiakban együtt: tulajdonos) köteles tűrni, hogy a (2) bekezdés szerinti ingatlanon

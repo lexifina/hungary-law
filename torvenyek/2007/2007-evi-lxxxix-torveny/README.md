@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-89-00-00
 | 2016-07-05 | 2016. évi XCIV. törvény | 2007-89-00-00.10 |
 | 2016-07-17 | 2016. évi LXIX. törvény | 2007-89-00-00.11 |
 | 2016-11-26 | 2016. évi CXVI. törvény | 2007-89-00-00.12 |
+| 2017-03-28 | 2017. évi XX. törvény | 2007-89-00-00.13 |
