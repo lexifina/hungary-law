@@ -1,89 +1,75 @@
 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 16/2005. (VII. 14.) KvVM rendelethez
+Melléklet a 16/2005. (VII. 14.) KvVM rendelethez[^2]
 
-A Jászszentlászlói Kalmár-erdő természetvédelmi kezelési terve 2005–2014
+A Jászszentlászlói Kalmár-erdő természetvédelmi terület természetvédelmi kezelési terve
 
-1. Gyakorlati természetvédelmi célkitűzések
+1. Természetvédelmi célkitűzések
 
-– Védje és hosszú távon tartsa fent a Magyarország nemzetközi viszonylatban is egyedülálló természeti értékét jelentő bugaci nőszőfű (Epipactis bugacensis Robatsch) helyi populációját.
+1.1. A Magyarország nemzetközi viszonylatban is egyedülálló természeti értékét jelentő bugaci nőszőfű (Epipactis bugacensis) a területen található populációjának megőrzése és fenntartása, valamint egyéb védett fajok – különös tekintettel a vörösbarna nőszőfűre (Epipactis atrorubens) és a piros madársisakra (Cephalanthera rubra) – állományának gyarapodásához szükséges feltételek biztosítása.
 
-– A tájidegen erdőállományok (akácosok, nemes nyárasok) átalakítása a termőhelynek megfelelő, őshonos fafajokból álló erdőállományokká.
-
-– Biztosítsa a bugaci nőszőfű populációjának és más kísérő védett fajok populációinak gyarapodását.
-
-– Tegye lehetővé a terület célirányos – a helyes természetvédelmi kezelését segítő és monitorozó – kutatását.
+1.2. Az erdők természetességi állapotának javítása, természetközeli állapotú erdei életközösség kialakulásának elősegítése.
 
 2. Természetvédelmi stratégiák
 
-– A terület jellemző élőhelyei további romlásának megakadályozása.
+2.1. A terület jellemző élőhelyei özöngyomok okozta állapotromlásának mérséklése, megakadályozása.
 
-– A terület degradálódott élőhelyeinek rehabilitációja.
+2.2. A terület degradálódott élőhelyeinek rehabilitációja.
 
-– A területen mintaszerű és kizárólag természetvédelmi célokat szolgáló, a bugaci nőszőfű helyi populációjának fenntartását és gyarapodását célzó erdőkezelés, valamint fenntartás folytatható.
+2.3. A terület természetvédelmi kezeléséért és vagyonkezeléséért felelős Kiskunsági Nemzeti Park Igazgatóság (a továbbiakban: igazgatóság) a gazdasági célú hasznosítás, faanyagtermelés helyett az 1. pontban meghatározott célok megvalósítására, különösen a bugaci nőszőfű helyi populációjának fenntartására és gyarapodására irányuló természetvédelmi célú erdőkezelést végez a 3.2.1. pontban foglaltak szerint.
 
-– A területet mentesítése a véghasználati kötelezettség alól.
+2.4. Az idegenhonos, tájidegen fafajokat (pl. akác, nemesnyár) tartalmazó erdőállományrészek fokozatos átalakítása a termőhelynek megfelelő, őshonos fafajokból álló, vegyes korösszetételű erdőállományokká.
 
-– A hazai fafajok természetes felújulásának elősegítése.
-
-– El kell érni, hogy a területen levő erdők fafaj korosztály megoszlása hosszú távon változatos legyen.
+2.5. A terület célirányos – a megfelelő és hatékony természetvédelmi kezelést, a degradálódott élőhelyek rehabilitációját segítő és ezek hatásait rendszeresen nyomon követő és dokumentáló – kutatása.
 
 3. Természetvédelmi kezelési módok, korlátozások és tilalmak
 
-A természetvédelmi kezelési módokra, korlátozásokra, tilalmakra vonatkozó előírásokat – a természetvédelmi kezelési tervek készítésére, készítőjére és tartalmára vonatkozó szabályokról szóló 30/2001. (XII. 28.) KöM rendelet 2. § (2) bekezdés c) pontjában, illetve mellékletének 7. pontjában meghatározottak szerint – a 3.1 és 3.2 fejezet tartalmazza.
-
 3.1. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-3.1.1. Vadgazdálkodás
+3.1.1. Fajok védelme
 
-– A területen intenzív vadgazdálkodás nem folytatható.
+3.1.1.1. Amennyiben a 3.1.3. pontnak megfelelően elvégzett felmérések alapján a bugaci nőszőfű területen lévő állománya 50 egyednél kisebb, a 3.2.1. pont szerinti, folyamatosan végzett általános erdőkezelési módok mellett az igazgatóság haladéktalanul gondoskodik a faj további kolonizációját és állománygyarapodását lehetővé tevő speciális beavatkozásokról (pl. kopár talajfelszín kiterjedésének növelése révén).
 
-– A területen csak a tájra jellemző, őshonos vadfajok tarthatók fenn.
+3.1.1.2. A 3.1.1.1. szerinti speciális természetvédelmi kezelés abban az esetben fejezhető be, ha a bugaci nőszőfű területen lévő állománya a 3.1.3. pontnak megfelelően elvégzett felmérések alapján két egymást követő évben meghaladja az 50 egyedet.
 
-– A vadállományt a természetes vadeltartó képességnek megfelelő, előírt szinten kell tartani, a nagyvad létszámot a terület vadeltartó képességének megfelelő, előírt vadlétszámra kell csökkenteni.
+3.1.2. Látogatás
 
-– A területen vadat vonzó létesítményt (sózó, szóró, itató) elhelyezni tilos.
+3.1.2.1. A terület – a rajta keresztül vezető földút kivételével – kizárólag gyalogosan, emberi erővel hajtott kerékpárral vagy lóval látogatható. A területen jogszerű tevékenységet folytatók csak a nyilvántartott földúton közlekedhetnek gépjárművel. A területen tilos quad, terep-motorkerékpár, segédmotoros kerékpár, valamint motorkerékpár használata.
 
-– Túráskár észlelése esetén az erdőszegélybe magasles elhelyezése engedélyezhető.
+3.1.3. Kutatás, vizsgálatok
 
-– A területen bármilyen vadfaj mesterséges kibocsátása tilos.
+A 2017. évtől az igazgatóság az 1. pontban meghatározott természetvédelmi célkitűzések elérése érdekében gondoskodik a természetvédelmi kezelés szempontjából kulcsfontosságú fajok állományának évenkénti rendszerességű felméréséről, ennek alapján a védett növényfajok ponttérképeinek elkészítéséről és a felmérés dokumentálásáról.
 
-3.1.2. Közlekedés
+3.1.4. Terület- és földhasználat
 
-A területen gépjárművel csak a meglevő utakon és nyiladékokon lehet közlekedni.
+3.1.4.1. Mesterséges vadkibocsátás, zárttéri vadtartás, apróvadnevelő és apróvad-kibocsátó hely, vaditató, vadföld létesítése, sózó, szóró elhelyezése tilos.
 
-3.1.3. Építési tevékenység
+3.1.4.2. A vadászható vadfajok által a terület természeti értékeiben okozott károkozást elsősorban vadászattal kell megelőzni vagy a lehető legkisebb mértékűre csökkenteni.
 
-A védelemre tervezett területen semmilyen – természetvédelmi célkitűzés megvalósítását akadályozó – létesítmény (épület, egyéb építmény, elektromos távvezeték stb.) nem helyezhető el.
+3.1.4.3. A területen magasles létesítése csak túráskár megelőzése érdekében és csak erdőszegélybe helyezve engedélyezhető. A magasles kihelyezésének tervezett időpontja előtt legalább 5 nappal értesíteni kell az igazgatóságot.
 
-3.1.4. Oktatás, bemutatás, látogatás
+3.1.4.4. Új földút az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítása érdekében, természetvédelmi szempontból kedvezőtlenebb helyen lévő út kiváltása érdekében, ez utóbbi egyidejű felhagyása mellett létesíthető az igazgatóság vagyonkezelői hozzájárulásával.
 
-A területen – kizárólag az Igazgatóság mint vagyonkezelő külön engedélyével – a természetvédelmi őr, vagy a témában illetékes szakfelügyelő vezetésével szervezett túrákon ismerhetik meg a látogatók és természetvédelemi oktatásban részt vevők a természeti értékeket.
+3.1.4.5. A területen kizárólag az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítása érdekében építhető vagy helyezhető el új építmény. Építmény létesítése és üzemeltetése csak a terület természeti értékeinek veszélyeztetése, károsítása nélkül végezhető.
 
-3.1.5. Ipari, bányászati tevékenység
+3.1.4.6. A terület jellegének, használatának megváltoztatása, erdő igénybevétele csak a természetvédelmi kezelés részeként, az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítása érdekében, természetvédelmi közérdek alapján engedélyezhető.
 
-A védett területen ipari és bányászati tevékenység tilos.
-
-3.1.6. Hulladékgazdálkodás
-
-A területen hulladéklerakót tilos létesíteni. A területen található illegális szemétlerakókat fel kell számolni és a szemetet rendszeresen össze kell gyűjteni.
+3.1.4.7. Bányászati tevékenység, anyagnyerés tilos a területen. Kivételt képez ez alól olyan geofizikai módszerek kutatási célú alkalmazása, amelyek nem járnak a felszín és a talaj bolygatásával.
 
 3.2. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
 3.2.1. Erdők kezelése
 
-– A területről a tájidegen fafajok egyedeit el kell távolítani.
+3.2.1.1. A területről az idegenhonos, agresszíven terjeszkedő és a tájidegen fafajok egyedeit el kell távolítani.
 
-– Bármilyen okból történő fakitermelés csak a vegetációs időszakon kívül (októbertől márciusig) történhet.
+3.2.1.2. Bármilyen okból történő fakitermelés csak a vegetációs időszakon kívül (októbertől márciusig) történhet, kivéve az idegenhonos, agresszíven terjeszkedő fafajok egyedeinek augusztusi kitermelését.
 
-– A fás vegetáció változatos fafaj korosztálya biztosítása érdekében célszerűen 0,3–0,5 ha-os felületen alkalmazott miktotarvágásos módszer alkalmazása szükséges, átlagosan 10 évenkénti (erdőtervezési ciklusonkénti) visszatéréssel.
+3.2.1.3. Az erdőállomány változatos korösszetételének biztosítása érdekében célszerűen 0,3–0,5 hektár területre kiterjedő mikrotarvágásokat kell alkalmazni átlagosan 10 évenkénti (erdőtervezési ciklusonkénti) visszatéréssel. Egy cikluson belül a mikrotarvágások összes területe nem haladhatja meg a terület 20%-át.
 
-– A hazai fafajok egyedeinek pótlását a kívánatos záródás (70–80%) biztosítása érdekében kizárólag a termőhelynek megfelelő őshonos hazai szaporítóanyaggal egyedi, gödrös ültetéssel vagy sarjadztatással kell elvégezni.
+3.2.1.4. A cserje- és gyepszint bolygatása kizárólag az igazgatóság által – különösen a 3.1.1.1. szerint – végzett természetvédelmi kezelés részeként, az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítása érdekében történhet.
 
-– A kezelési és fenntartási munkák során a cserje- és gyepszintet kímélni kell.
+3.2.1.5. A cserjeszint összes borítása nem haladhatja meg a terület 20%-át, amit a cserjésedés kontrolljával, a 20%-on felüli cserjeállomány mechanikus módszerrel történő eltávolításával kell biztosítani.
 
-– A cserjeszint összes borítása nem haladhatja meg a 20%-ot.
+3.2.1.6. Őshonos fafajú állományokban egészségügyi fakitermelés kizárólag járványveszély elhárítása érdekében vagy havária esetén (pl. tűzkár) végezhető.
 
-– Őshonos fafajú állományokban egészségügyi használat csak és kizárólagosan járványveszély elhárításakor és havária (tűzkár) esetén végezhető.
-
-– Az erdőt ért súlyos károsodás (pl. tűzkár) esetén a felújítást csak a termőhelynek megfelelő őshonos fafajokkal, talaj-előkészítés nélkül vagy részleges talaj-előkészítéssel lehet elvégezni. Amennyiben az erdőt ért súlyos károsodás következtében a sarjról történő felújítás nem lehetséges, a részleges talaj-előkészítéses felújítás előtt minimum 2 vegetációs időszakot várni kell a védett és fokozottan védett növényfajok esetleges regenerálódása, illetve megjelenése érdekében, mely esetben a felújítást a védett és fokozottan védett növények termőhelyén az aljnövényzet teljes körű kíméletével lehet csak végezni (pl. gödrös ültetéssel).
+[^2]: A Melléklet a 15/2017. (III. 27.) FM rendelet 2. §-ával megállapított szöveg.
