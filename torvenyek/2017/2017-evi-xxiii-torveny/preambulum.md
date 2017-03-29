@@ -1,0 +1,1 @@
+(A Nemzetközi Műholdas Távközlési Szervezetre vonatkozó Módosított Megállapodás Magyarország vonatkozásában 2004. november 30-án nemzetközi jogilag hatályba lépett. A Megállapodás XII. cikk (c) pont (ii) alpontjának 2007. évi módosítása Magyarország vonatkozásában 2017. január 16-án nemzetközi jogilag hatályba lépett.)
