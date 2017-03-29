@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-16-20-2
 | 2016-11-18 | 2015-16-20-2X.6 | 42/2016. (XI. 17.) NGM rendelet |
 | 2016-12-30 | 2015-16-20-2X.7 | 65/2016. (XII. 29.) NGM rendelet |
 | 2017-01-01 | 2015-16-20-2X.8 | 67/2016. (XII. 30.) NGM rendelet |
+| 2017-03-29 | 2015-16-20-2X.9 | 3/2017. (III. 28.) NGM rendelet |

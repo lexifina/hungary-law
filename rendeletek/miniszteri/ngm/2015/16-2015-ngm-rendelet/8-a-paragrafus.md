@@ -1,4 +1,4 @@
-## 4/A. [^60] Mezőgazdasági csekély összegű támogatás
+## 4/A. [^77] Mezőgazdasági csekély összegű támogatás
 
 8/A. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -14,4 +14,4 @@
 
 (7) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra az Atr. 11. és 11/A. §-ában foglaltak az irányadóak.
 
-[^60]: A 4/A. alcímet (8/A. §) a 30/2015. (XI. 19.) NGM rendelet 6. §-a iktatta be.
+[^77]: A 4/A. alcímet (8/A. §) a 30/2015. (XI. 19.) NGM rendelet 6. §-a iktatta be.
