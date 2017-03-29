@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályai 7. melléklete 2014. május 24-én Genfben, az Egészségügyi Világszervezet 67. Közgyűlésén elfogadott módosítását (a továbbiakban: Módosítás) e törvénnyel kihirdeti.
