@@ -14,7 +14,7 @@
 
 |  |  | anyja születési neve: …………………………………………. |
 
-## A fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala igazolása
+## A települési önkormányzat jegyzője mint első fokú gyámhatóság igazolása
 
 | Eljáró hatóság megnevezése és címe: ........................................................................................................................................ |
 
@@ -40,4 +40,4 @@
 
 2. melléklet a 43/2013. (X. 1.) NGM rendelethez[^3]
 
-[^3]: A 2. melléklet a 62/2016. (XII. 29.) NGM rendelet 69. § b) pontja szerint módosított szöveg.
+[^3]: A 2. melléklet a 62/2016. (XII. 29.) NGM rendelet 69. § b) pontja, a 4/2017. (III. 29.) NGM rendelet 1. § b)–c) pontja szerint módosított szöveg.
