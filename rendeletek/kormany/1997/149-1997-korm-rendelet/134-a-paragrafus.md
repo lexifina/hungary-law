@@ -1,39 +1,27 @@
-134/A. §[^855] (1) A gondnokrendelő határozat rendelkező része a 14. §-ban foglaltakon túl tartalmazza
+134/A. §[^859] (1) A gondnokrendelő határozat rendelkező része a 14. §-ban foglaltakon túl tartalmazza
 
 a) a gondnoki tisztséggel járó jogokról és kötelezettségekről való tájékoztatást,
 
-b)[^856] többes gondnokrendelés esetén a gondnokok feladatkörének pontos megosztását [Ptk. 2:32. § (2) bekezdése],
+b)[^860] többes gondnokrendelés esetén a gondnokok feladatkörének pontos megosztását [Ptk. 2:32. § (2) bekezdése],
 
 c) helyettes gondnokrendelés esetén annak időtartamát, valamint a helyettes gondnok jogkörének terjedelmét,
 
-d)[^857] ideiglenes gondnokrendelés esetén azon ügycsoportok megjelölését, amelyek tekintetében a gondnok eljárhat [Ptk. 2:26. § (2) bekezdése],
+d)[^861] ideiglenes gondnokrendelés esetén azon ügycsoportok megjelölését, amelyek tekintetében a gondnok eljárhat [Ptk. 2:26. § (2) bekezdése],
 
-e)[^858] annak az összegnek a megállapítását, amelyen felül a gondnokolt vagyoni ügyében a gondnok jognyilatkozatának érvényességéhez a gyámhivatal jóváhagyása szükséges [Ptk. 2:23. § (1) bekezdés e) pontja],
+e)[^862] annak az összegnek a megállapítását, amelyen felül a gondnokolt vagyoni ügyében a gondnok jognyilatkozatának érvényességéhez a gyámhivatal jóváhagyása szükséges [Ptk. 2:23. § (1) bekezdés e) pontja],
 
 f) a gondnoki tisztséggel járó jogok és kötelezettségek kezdő időpontját,
 
-g)[^859] az ingó és ingatlan vagyon gondnok kezelésébe adását a vagyonleltár alapján, vagy leltár hiányában a hagyatéki ügyben eljáró települési önkormányzat jegyzőjének megkeresését a gondnokolt ingó és ingatlan vagyonának leltározására és a gondnok felhívását a leltár felvételében való közreműködésre,
+g)[^863] az ingó és ingatlan vagyon gondnok kezelésébe adását a vagyonleltár alapján, vagy leltár hiányában a hagyatéki ügyben eljáró települési önkormányzat jegyzőjének megkeresését a gondnokolt ingó és ingatlan vagyonának leltározására és a gondnok felhívását a leltár felvételében való közreműködésre,
 
-h)[^860] vagyonkezelésre jogosult gondnok esetén a 158. § (1) bekezdése szerinti számadás gyámhivatalhoz történő benyújtásának időpontját,
+h)[^864] vagyonkezelésre jogosult gondnok esetén a 158. § (1) bekezdése szerinti számadás gyámhivatalhoz történő benyújtásának időpontját,
 
-i)[^861] a gondnok felhívását arra, hogy a véleménynyilvánításra képes cselekvőképtelen nagykorú kívánságát az őt érintő jognyilatkozat megtétele előtt hallgassa meg, és lehetőség szerint vegye figyelembe [Ptk. 2:22. § (3) bekezdése],
+i)[^865] a gondnok felhívását arra, hogy a véleménynyilvánításra képes cselekvőképtelen nagykorú kívánságát az őt érintő jognyilatkozat megtétele előtt hallgassa meg, és lehetőség szerint vegye figyelembe [Ptk. 2:22. § (3) bekezdése],
 
-j)[^862] a tájékoztatást arról, hogy a cselekvőképességében részlegesen korlátozott személy és gondnoka között a megtett jognyilatkozatokkal kapcsolatos vitában a gyámhivatal dönt [Ptk. 2:20. § (2) bekezdése],
-
-k)[^863] a tájékoztatást arról, hogy a cselekvőképességében részlegesen korlátozott személy érdekeinek védelme, károsodástól való megóvása érdekében azonnali intézkedést igényelő esetben a gondnok önállóan eljárhat, az érintett személy helyett jognyilatkozatot tehet, és a gondnok felhívását arra, hogy a cselekvőképességében részlegesen korlátozott személyt és a gyámhivatalt ilyen esetben késedelem nélkül tájékoztassa [Ptk. 2:20. § (4) bekezdése],
-
-l)[^864] a tájékoztatást arról, hogy a cselekvőképességében részlegesen korlátozott személy minden olyan ügyben önállóan tehet érvényes jognyilatkozatot, amely nem tartozik abba az ügycsoportba, amelyben cselekvőképességét a bíróság korlátozta, de a bíróság ítéletében meghatározott ügycsoportokra vonatkozó jognyilatkozatának érvényességéhez gondnokának hozzájárulása szükséges [Ptk. 2:20. § (1) bekezdése],
-
-m)[^865] a tájékoztatást arról, hogy mely jognyilatkozatok érvényességéhez szükséges a gyámhivatal jóváhagyása [Ptk. 2:23. §-a],
-
-[^855]: A 134/A. §-t a 262/2001. (XII. 21.) Korm. rendelet 9. §-a iktatta a szövegbe.
-[^856]: A 134/A. § (1) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 83. pontja szerint módosított szöveg.
-[^857]: A 134/A. § (1) bekezdés d) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 84. pontja szerint módosított szöveg.
-[^858]: A 134/A. § (1) bekezdés e) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 29. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 85. pontja szerint módosított szöveg.
-[^859]: A 134/A. § (1) bekezdés g) pontja a 97/2013. (III. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^860]: A 134/A. § (1) bekezdésének h) pontját a 315/2005. (XII. 25.) Korm. rendelet 66. §-a iktatta be.
-[^861]: A 134/A. § (1) bekezdés i) pontját a 70/2014. (III. 13.) Korm. rendelet 70. §-a iktatta be.
-[^862]: A 134/A. § (1) bekezdés j) pontját a 70/2014. (III. 13.) Korm. rendelet 70. §-a iktatta be.
-[^863]: A 134/A. § (1) bekezdés k) pontját a 70/2014. (III. 13.) Korm. rendelet 70. §-a iktatta be.
-[^864]: A 134/A. § (1) bekezdés l) pontját a 70/2014. (III. 13.) Korm. rendelet 70. §-a iktatta be.
-[^865]: A 134/A. § (1) bekezdés m) pontját a 70/2014. (III. 13.) Korm. rendelet 70. §-a iktatta be.
+[^859]: A 134/A. §-t a 262/2001. (XII. 21.) Korm. rendelet 9. §-a iktatta a szövegbe.
+[^860]: A 134/A. § (1) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 83. pontja szerint módosított szöveg.
+[^861]: A 134/A. § (1) bekezdés d) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 84. pontja szerint módosított szöveg.
+[^862]: A 134/A. § (1) bekezdés e) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 29. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 85. pontja szerint módosított szöveg.
+[^863]: A 134/A. § (1) bekezdés g) pontja a 97/2013. (III. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^864]: A 134/A. § (1) bekezdésének h) pontját a 315/2005. (XII. 25.) Korm. rendelet 66. §-a iktatta be.
+[^865]: A 134/A. § (1) bekezdés i) pontját a 70/2014. (III. 13.) Korm. rendelet 70. §-a iktatta be.
