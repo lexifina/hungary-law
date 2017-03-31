@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-301-20-
 | 2016-04-01 | 2007-301-20-22.26 | 62/2016. (III. 31.) Korm. rendelet |
 | 2016-06-01 | 2007-301-20-22.27 | 113/2016. (V. 30.) Korm. rendelet |
 | 2017-01-01 | 2007-301-20-22.28 | 70/2015. (III. 30.) Korm. rendelet |
+| 2017-03-31 | 2007-301-20-22.29 | 70/2017. (III. 31.) Korm. rendelet |

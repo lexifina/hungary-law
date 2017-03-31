@@ -1,4 +1,4 @@
-64/A. §[^159] (1) A menekültügyi hatóság az elismerés iránti kérelem rögzítését követő munkanapon megkeresi a szakhatóságot.
+64/A. §[^176] (1) A menekültügyi hatóság az elismerés iránti kérelem rögzítését követő munkanapon megkeresi a szakhatóságot.
 
 (2) A megkeresésben a menekültügyi hatóság a szakhatóság részére továbbítja a kérelmező menekültügyi nyilvántartásban kezelt adatait. A szakhatóság megkeresésére a menekültügyi hatóság a kérelemhez csatolt okiratokba betekintést biztosít.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a szakhatósági állásfoglalás megküldését követően a külföldire vonatkozóan olyan adat merül fel, amely a szakhatósági állásfoglalás visszavonását indokolja, a szakhatóság az új szakhatósági állásfoglalását a menekültügyi hatóságnak haladéktalanul megküldi.
 
-[^159]: A 64/A. §-t a 204/2015. (VII. 23.) Korm. rendelet 18. §-a iktatta be.
+[^176]: A 64/A. §-t a 204/2015. (VII. 23.) Korm. rendelet 18. §-a iktatta be.

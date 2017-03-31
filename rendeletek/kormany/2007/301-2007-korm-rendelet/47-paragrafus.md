@@ -1,3 +1,3 @@
-## 46. §[^124]
+47. §[^125]
 
-[^124]: A 46. §-t és az azt megelőző alcímet a 62/2016. (III. 31.) Korm. rendelet 8. § i) pontja hatályon kívül helyezte.
+[^125]: A 47. §-t és az azt megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés f) pontja hatályon kívül helyezte.

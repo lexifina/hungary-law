@@ -1,5 +1,3 @@
-## 47. §[^125]
-
 ## Utazási kedvezmények igénybevétele
 
 48. § (1)[^126] A menekültügyi hatóság a befogadó állomáson tartózkodó menekült, oltalmazott, valamint a menedékes kérelmére a közforgalmú személyszállítási utazási kedvezményekről szóló jogszabály szerinti utazási kedvezmény igénybevételéhez igazolást állít ki, ha a menekült, az oltalmazott vagy a menedékes
@@ -16,5 +14,4 @@ d) lakhatása megoldása érdekében, álláskeresés vagy munkavégzés céljá
 
 (3) Az utazási kedvezmény mértékére és igénybevételének módjára egyebekben a közforgalmú személyszállítási utazási kedvezményekről szóló jogszabály rendelkezései az irányadók.
 
-[^125]: A 47. §-t és az azt megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés f) pontja hatályon kívül helyezte.
 [^126]: A 48. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
