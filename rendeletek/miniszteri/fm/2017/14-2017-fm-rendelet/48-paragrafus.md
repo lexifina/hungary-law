@@ -1,0 +1,1 @@
+## 33. Záró rendelkezések
