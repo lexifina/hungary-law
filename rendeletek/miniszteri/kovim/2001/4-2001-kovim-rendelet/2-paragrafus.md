@@ -68,51 +68,53 @@ Megjegyzés: Háromszög alakú jelzőtáblánál az oldalhosszat a csúcsok lek
 
 2.5. A más jelzőtáblában betétként alkalmazott jelzőtábla mérete nem lehet D=300 mm-nél kisebb, a besorolás rendjét jelző táblákon azonban – két egymás alatt elhelyezett betétnél – kivételesen a D=200 mm érték megengedett.
 
-2.6. Az egyes jelzőtábla típusok alakját és a méretjeleket az 1–14. ábra, méreteit az 1. táblázat tartalmazza. A jelzőtáblák D, illetőleg D x E méretei mm-ben vannak feltüntetve.
+2.6.[^7] Az egyes jelzőtábla típusok alakját és a méretjeleket az 1–14. ábra, méreteit az 1. táblázat tartalmazza. A jelzőtáblák D, illetőleg D x E méretei mm-ben vannak feltüntetve.
 
 A jelzőtáblák méretei
 
-1. táblázat[^7]
+1. táblázat
 
-| A jelzőtáblák alakja és típusa | A kerékpár- forgalmi létesítmé- nyeken | Lakott területen belül | Lakott területen kívül |
+|  | A | B | C | D | E | F | G | H |
 
-| helyi úton | országos közúton | főútvonallá ki nem jelölt alsóbbrendű úton | főúthálózaton, illetve főútvonallá kijelölt alsóbbrendű úton | autópályán, autóúton |
+| 1. |  |  | Lakott területen belül | Lakott területen kívül | Kiemelt nemzeti emlékhelyen |
 
-| Kör | 450 | 600a) b) | 600a) | 600 | 750 | 900 |
+| 2. | A jelzőtáblák alakja és típusa | A kerékpárforgalmi létesítményeken | helyi úton | országos közúton | főútvonallá ki nem jelölt alsóbbrendű úton | főúthálózaton, illetve főútvonallá kijelölt alsóbbrendű úton | autópályán, autóúton | gyalogoslétesítményeken kerékpárforgalmi létesítményeken parkolási létesítményekben |
 
-| Háromszög | 450 | 600 | 750 | 900 | 1000 |
+| 3. | Kör | 450 | 600a) b) | 600a) | 600 | 750 | 900 | 300 |
 
-| Négyszög (négyzet és téglalap) alakú táblák | Főútvonal, főútvonal vége | – | 450 | – | 600 | – |
+| 4. | Háromszög | 450 | 600 | 750 | 900 | 1000 | 300 |
 
-| Autóút, autópálya és ezek vége | – | – | – | – | – | 900 800 x 100e) |
+| 5. |  | Főútvonal, főútvonal vége | – | 450 | – | 600 | – | – |
 
-| Autópálya csomópont sávos előjelző | – | – | – | – | – | 600 x 1500 |
+| 6. |  | Autóút, autópálya és ezek vége | – | – | – | – | – | 900 800x100e) | – |
 
-| Autópálya csomópont száma | – | – | – | – | – | 600 |
+| 7. |  | Autópálya csomópont sávos előjelző | – | – | – | – | – | 600x1500 | – |
 
-| Kijelölt gyalogosátkelőhely | 450 | 600 | 750 | 750 | – |
+| 8. |  | Autópálya csomópont száma | – | – | – | – | – | 600 | – |
 
-| Lakó-pihenő övezet és annak vége | 750 x 600 800 x 640e) | – | – | – |
+| 9. |  | Kijelölt gyalogos-átkelőhely | 450 | 600 | 750 | 750 | – | 450 |
 
-| Vasúti átjárót előjelző | – | 350 x 1000 | – |
+| 10. | négyszög | Lakó-pihenő övezet és annak vége | 750x600 800x640e) | – | – | – | 300 |
 
-| Besorolás rendje | D = 800 E >= 640 | D = 800, E >= 640 D =1000, E >= 800d) | D = 1000, E ⏐ 800 |
+| 11. |  | Vasúti átjárót előjelző | – | 350x1000 | – | – |
 
-| Iránytábla (téglalap) | 500 x 1500 500 x 2000 500 x 2500 |
+| 12. | (négyzet | Besorolás rendje | D = 800 E >= 640 | D = 800, E >= 640 D = 1000, E >= 800d) | D = 1000, E = 800 | – |
 
-| Iránytábla (négyzet) | 500 |
+| 13. | és | Iránytábla (téglalap) | 500x1500 500x2000 500x2500 | – |
 
-| Terelőtábla | 250 x 1000 |
+| 14. | tégla- | Iránytábla (négyzet) | 500 | 300 |
 
-| Kettős terelőtábla | 500 x 1000 |
+| 15. | lap) | Terelőtábla | 250x1000 | – |
 
-| Minden egyéb négyzet alakú | 450 | 600 (560)e) | 600 (640)e) | 800 (800)e) |
+| 16. |  | Kettős terelőtábla | 500x1000 | – |
 
-| Minden egyéb téglalap alakú | 450 x 600 | 600 x 750 (560 x 700)e) | 600 x 750 (640 x 800)e) 800 x 1000c) | 800 x 1000 (800 x 1000)e) |
+| 17. | alakú | Minden egyéb négyzet alakú | 450 | 600 (560)e) | 600 (640)e) | 800 (800)e) | 300 |
 
-| Nyolcszög | 450 | 600 | 750 | 900 |
+| 18. | táblák | Minden egyéb téglalap alakú | 450x600 | 600x750 (560x700)e) | 600x750 (640x800)e)800x1000c) | 800x1000 (800x1000)e) | 300x300 |
 
-| Vasúti átjáró kezdete | 1200 | – |
+| 19. | Nyolcszög | 450 | 600 | 750 | 900 | 300 |
+
+| 20. | Vasúti átjáró kezdete | 1200 | – | – |
 
 a) A forgalomirányító fényjelző készülék alatt elhelyezett ,,Kötelező haladási irány” (vagy bekanyarodási tilalom) jelzőtábla mérete 450 mm, és mindig átvilágított kivitelben készül, ha a fényjelző készülék piros és sárga fényjelzőjében nincs fekete nyíl.
 
@@ -120,7 +122,7 @@ b) A ,,Megállni tilos” és ,,Várakozni tilos” jelzőtábla 450 mm méretbe
 
 c) Szükség esetén kivételes esetben.
 
-d) Az 1000 × 800 mm-es táblaméret csak a kétsoros ,,Besorolási rend” jelzőtáblához használható.
+d) Az 1000x800 mm-es táblaméret csak a kétsoros ,,Besorolási rend” jelzőtáblához használható.
 
 e) Felújítási méret.
 
@@ -424,7 +426,7 @@ A fényvisszavetés R’ együtthatója (cd×lx–1×m–2)
 [^4]: A 2. § (3) bekezdését a 7/2004. (I. 30.) GKM–IHM–KvVM együttes rendelet 1. §-ának d) pontja hatályon kívül helyezte.
 [^5]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 1. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
 [^6]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 2.1. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
-[^7]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 1. számú táblázata a 84/2004. (VI. 4.) GKM rendelet 2. §-ának (2)–(4) bekezdése szerint módosított szöveg.
+[^7]: A melléklet 2. pont 2.6. alpontja a 9/2017. (III. 30.) NFM rendelet 1. §-a szerint módosított szöveg.
 [^8]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 2.12.6. pontja a 84/2004. (VI. 4.) GKM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
 [^9]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 4. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
 [^10]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 5. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
