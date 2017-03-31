@@ -10,7 +10,7 @@ b) az ügyei vitelében akadályozott, illetőleg cselekvőképességet érintő
 
 c) az ideiglenes gondnokrendeléssel, zárgondnok kirendelésével, valamint gondnokság alá helyezési eljárással érintett személynek
 
-## a lakóhelye található.
+a lakóhelye található.
 
 (2)[^80] Ha a szülői felügyelet gyakorlására jogosult szülők lakóhelye különböző gyámhatóságok illetékességi területen található, a gyámhatóság illetékességét a gyermek lakóhelye határozza meg. Ha a gyermek lakóhelye egyik szülőjének lakóhelyével sem azonos, az a gyámhatóság jár el, amelynek területén az anya lakóhelye található.
 

@@ -1,5 +1,3 @@
-## 12. §[^63] A nem magyar (külföldi) állampolgárságú gyermek – ide nem értve a Gyvt. 4. § (1) bekezdés b) pontja szerinti személyt – ideiglenes hatályú elhelyezése és nevelésbe vétele ügyében a Budapest Főváros Kormányhivatala gyermekvédelmi és gyámügyi feladatkörében eljáró V. Kerületi Hivatala jár el. Ezekben az esetekben a gyámhivatal illetékessége az ideiglenes hatályú elhelyezés és a nevelésbe vétel alatt nem változik.
-
 ## A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal hatásköre[^64]
 
 ## 13. §[^65] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal
@@ -12,7 +10,6 @@ c)[^68] másodfokú hatósági jogkört gyakorol a települési önkormányzat j
 
 d) ellátja a jogszabályokban hatáskörébe utalt egyéb feladatokat.
 
-[^63]: A 12. § a 284/2015. (IX. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^64]: A 13. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
 [^65]: A 13. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontjával megállapított szöveg.
 [^66]: A 13. § a) pontja a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.

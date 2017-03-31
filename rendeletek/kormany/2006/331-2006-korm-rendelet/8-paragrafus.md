@@ -12,7 +12,7 @@ e)[^51] a gondnokság alá helyezés, annak fenntartása, megszüntetése, a cse
 
 f) a számadási kötelezettség, illetve a számadás helyességének megállapítása
 
-## iránt.
+iránt.
 
 (2)[^52] A gyámhivatal feljelentést tesz
 
@@ -21,6 +21,8 @@ a) a gyermek veszélyeztetése,
 b) a tartási kötelezettség elmulasztása, vagy
 
 c) az a) és a b) pontban foglaltakon kívül a gyermek sérelmére elkövetett más bűncselekmény
+
+miatt.
 
 [^48]: A 8. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^49]: A 8. § (1) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.

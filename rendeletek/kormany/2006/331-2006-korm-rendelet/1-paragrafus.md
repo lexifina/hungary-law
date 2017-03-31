@@ -8,7 +8,7 @@ b) a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi felada
 
 c) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal
 
-## gyakorolja.
+gyakorolja.
 
 (2) A gyámhivatal a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott illetékességi területén látja el feladat- és hatáskörét.
 
