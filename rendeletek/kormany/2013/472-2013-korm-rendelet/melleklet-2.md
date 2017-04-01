@@ -60,8 +60,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 14. | egészségügy | illetékes járási hivatal | Fejér Megyei Kormányhivatal |
 
 | 15. | régészet és örökségvédelem | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 59. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
