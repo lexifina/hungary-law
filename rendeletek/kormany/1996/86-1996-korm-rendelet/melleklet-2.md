@@ -302,7 +302,7 @@
 
 ## 1.121.[^123] esélyegyenlőségi szakértői bizonyítvány;
 
-## 1.122.[^124] az Országos Tisztifőorvosi Hivatalban, dolgozó hatósági személy igazolványa;
+## 1.122.[^124] az egészségügyért felelős miniszter által vezetett minisztériumban népegészségügyi hatáskörben, dolgozó hatósági személy igazolványa;
 
 ## 1.123.[^125] a Magyar Honvédség központi adatfeldolgozó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és állományuk tagja részére kiállított igazolvány jogállásukról, kiváltságaik és mentességeik igénybevételére;
 
@@ -525,7 +525,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^121]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^122]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^123]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^124]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^124]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (3) bekezdés e) pontja és (2) bekezdés e) pontja szerint módosított szöveg.
 [^125]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^126]: Az 1. számú melléklet III. rész 1. pont 1.124. alpontját a 359/2012. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
 [^127]: Az 1. számú melléklet III. rész 1. pont 1.125. alpontját a 131/2013. (V. 2.) Korm. rendelet 7. § (2) bekezdése iktatta be.
