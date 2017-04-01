@@ -1,4 +1,4 @@
-## 6. §[^9] A Nemzeti Hatóság szervezeti és működési szabályzatát az OKK főigazgatója hagyja jóvá.
+## 6. §[^9]
 
 7. § (1)[^10] Ez a rendelet 2004. május 1-jén lép hatályba.
 
@@ -10,6 +10,6 @@ b) az anyagok és keverékek osztályozásáról, címkézéséről és csomagol
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^9]: A 6. § a 15/2008. (IV. 17.) EüM rendelet 5. § (4) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 61. § b) pontja szerint módosított szöveg.
+[^9]: A 6. §-t az 54/2016. (XII. 30.) EMMI rendelet 39. § (2) bekezdése hatályon kívül helyezte.
 [^10]: A 7. § eredeti szövegének számozását (1) bekezdésre változtatta a 15/2008. (IV. 17.) EüM rendelet 4. §-a.
 [^11]: A 7. § (2) bekezdését a 15/2008. (IV. 17.) EüM rendelet 4. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta. A (2) bekezdés a 25/2010. (V. 12.) EüM rendelet 4. § (3) bekezdésével megállapított szöveg.
