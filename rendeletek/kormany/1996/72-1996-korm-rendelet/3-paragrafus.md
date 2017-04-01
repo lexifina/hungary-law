@@ -14,17 +14,19 @@
 
 (4)[^16] A kérelem elbírálása során vizsgálni kell azt, hogy a tervezett vízimunka, a vízilétesítmény – tekintettel az annak gyakorlásával, illetve elhelyezésével érintett és vízgazdálkodási szempontból összefüggő térségre – mennyiben felel meg a vízjogi engedély megadására vonatkozó feltételeknek.
 
-(5)[^17] Vízkészlet hasznosítására vízjogi létesítési engedély csak akkor adható, ha ezzel egyidejűleg a hasznosítással összefüggésben keletkezett szennyvíz, továbbá a csapadékvíz összegyűjtéséről, elvezetéséről, kezeléséről és a környezetvédelmi előírásoknak megfelelő elhelyezéséről is gondoskodtak, illetve az erre vonatkozó műszaki megoldás a kérelem és a kiadott létesítési engedély részét képezi, továbbá, ha a kérelemben foglaltak kielégítik a külön jogszabály szerinti igénybevételi, kibocsátási és szennyezettségi határértékekre vonatkozó előírásokat.[^18]
+(4a)[^17] Vízjogi létesítési engedély csak abban az esetben adható, hogy ha a 3. § (1) bekezdése szerinti kérelmező a kérelemhez csatolja az e-közműt üzemeltető szervezet tanúsítványát arról, hogy az érintett víziközmű üzemeltetője regisztrált e-közmű adatszolgáltató.
 
-(6)[^19] A vízjogi létesítési engedély az abban meghatározott jogok gyakorlása és kötelezettségek teljesítése mellett feljogosít az engedélyben meghatározott vízimunka elvégzésére, vízilétesítmény megépítésére, de a vízhasználat gyakorlásához, illetve a vízilétesítmény használatbavételéhez, üzemeltetéséhez szükséges vízjogi üzemeltetési engedély, vagy a jogszabály szerint szükséges egyéb hatósági engedély megszerzésének kötelezettsége alól nem mentesít.
+(5)[^18] Vízkészlet hasznosítására vízjogi létesítési engedély csak akkor adható, ha ezzel egyidejűleg a hasznosítással összefüggésben keletkezett szennyvíz, továbbá a csapadékvíz összegyűjtéséről, elvezetéséről, kezeléséről és a környezetvédelmi előírásoknak megfelelő elhelyezéséről is gondoskodtak, illetve az erre vonatkozó műszaki megoldás a kérelem és a kiadott létesítési engedély részét képezi, továbbá, ha a kérelemben foglaltak kielégítik a külön jogszabály szerinti igénybevételi, kibocsátási és szennyezettségi határértékekre vonatkozó előírásokat.[^19]
 
-(7)[^20] A létesítési engedély – a vízgazdálkodási szempontokra figyelemmel – az abban meghatározott ideig hatályos. A hatály az engedély módosítására vonatkozó szabályok szerint, valamint a (7a) bekezdésben foglalt eltérések figyelembevételével meghosszabbítható.
+(6)[^20] A vízjogi létesítési engedély az abban meghatározott jogok gyakorlása és kötelezettségek teljesítése mellett feljogosít az engedélyben meghatározott vízimunka elvégzésére, vízilétesítmény megépítésére, de a vízhasználat gyakorlásához, illetve a vízilétesítmény használatbavételéhez, üzemeltetéséhez szükséges vízjogi üzemeltetési engedély, vagy a jogszabály szerint szükséges egyéb hatósági engedély megszerzésének kötelezettsége alól nem mentesít.
 
-(7a)[^21] Ha a vízjogi létesítési engedély időbeli hatályának meghosszabbítására irányuló kérelem közműveket érint és a műszaki tervdokumentáció tartalma változatlan, a közmű kezelője (üzemeltetője) tizenöt napon belül adja meg nyilatkozatát, illetve hozzájárulását. Ha a közmű kezelője (üzemeltetője) a megkeresés beérkezésétől számított 15 napon belül nem nyilatkozik, a közmű kezelőjének (üzemeltetőjének) nyilatkozatát a megkeresésben foglalt tartalommal megadottnak kell tekinteni.
+(7)[^21] A létesítési engedély – a vízgazdálkodási szempontokra figyelemmel – az abban meghatározott ideig hatályos. A hatály az engedély módosítására vonatkozó szabályok szerint, valamint a (7a) bekezdésben foglalt eltérések figyelembevételével meghosszabbítható.
 
-(8)[^22] A (6) bekezdés szerint meghatározott jog gyakorlásához fűződő kötelezettségek teljesítése körében, az engedélyezett létesítmény céljára és vízgazdálkodási, környezetvédelmi rendeltetésére figyelemmel a vízügyi hatóság a létesítési engedélyben rendelkezik a próbaüzemeltetésről.
+(7a)[^22] Ha a vízjogi létesítési engedély időbeli hatályának meghosszabbítására irányuló kérelem közműveket érint és a műszaki tervdokumentáció tartalma változatlan, a közmű kezelője (üzemeltetője) tizenöt napon belül adja meg nyilatkozatát, illetve hozzájárulását. Ha a közmű kezelője (üzemeltetője) a megkeresés beérkezésétől számított 15 napon belül nem nyilatkozik, a közmű kezelőjének (üzemeltetőjének) nyilatkozatát a megkeresésben foglalt tartalommal megadottnak kell tekinteni.
 
-(9)[^23] Próbaüzemeltetést kell végezni
+(8)[^23] A (6) bekezdés szerint meghatározott jog gyakorlásához fűződő kötelezettségek teljesítése körében, az engedélyezett létesítmény céljára és vízgazdálkodási, környezetvédelmi rendeltetésére figyelemmel a vízügyi hatóság a létesítési engedélyben rendelkezik a próbaüzemeltetésről.
+
+(9)[^24] Próbaüzemeltetést kell végezni
 
 a) a közműves vízellátást szolgáló vízkezelő létesítményeknél, továbbá
 
@@ -32,13 +34,13 @@ b) a közműves szennyvíztisztítást, valamint az egyesített vagy elválaszt�
 
 c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egyéb esetben, amikor a műtárgy, berendezés vagy komplex létesítmény rendeltetésszerű – a jogszabályoknak és a hatósági előírásoknak megfelelő – használhatósága, üzemeltetése, próbaüzem nélkül nem állapítható meg.
 
-(10)[^24] Próbaüzemeltetést lehet végezni – a (9) bekezdésben érintett esetek mellett –, ha azt a vízügyi hatóság kérelemre engedélyezte.
+(10)[^25] Próbaüzemeltetést lehet végezni – a (9) bekezdésben érintett esetek mellett –, ha azt a vízügyi hatóság kérelemre engedélyezte.
 
-(11)[^25] A próbaüzemeltetés időtartamát – amely nem hosszabbítható meg – a kötelező szabványokra, illetve a rendeltetésszerű használhatóság megállapításához szükséges adatokra, egyéb műszaki szempontokra, szakhatósági állásfoglalásokra figyelemmel kell meghatározni.
+(11)[^26] A próbaüzemeltetés időtartamát – amely nem hosszabbítható meg – a kötelező szabványokra, illetve a rendeltetésszerű használhatóság megállapításához szükséges adatokra, egyéb műszaki szempontokra, szakhatósági állásfoglalásokra figyelemmel kell meghatározni.
 
-(12)[^26] A vízügyi hatóság engedélye szükséges – a külön jogszabály szerinti építőipari műszaki engedéllyel, vagy CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések, valamint a 24. § (1) bekezdés c) pontjában foglaltak kivételével – a szennyvíz és a csapadékvíz tisztításához, előtisztításához és elhelyezéséhez szükséges berendezés létesítéséhez, a használatbavételéhez, üzemeltetéséhez. A vízügyi hatóságtól elvi vízjogi engedély kérhető a létesítmény tervezését megelőzően.
+(12)[^27] A vízügyi hatóság engedélye szükséges – a külön jogszabály szerinti építőipari műszaki engedéllyel, vagy CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések, valamint a 24. § (1) bekezdés c) pontjában foglaltak kivételével – a szennyvíz és a csapadékvíz tisztításához, előtisztításához és elhelyezéséhez szükséges berendezés létesítéséhez, a használatbavételéhez, üzemeltetéséhez. A vízügyi hatóságtól elvi vízjogi engedély kérhető a létesítmény tervezését megelőzően.
 
-(13)[^27] A (12) bekezdésben meghatározott hatáskör gyakorlása során e rendeletnek a vízjogi engedélyezési eljárásra, a hatósági engedély nélkül, vagy attól eltérően végzett létesítésre és üzemeltetésre, a vízjogi kötelezettség megállapítására, valamint a vízügyi felügyeletre vonatkozó rendelkezések szerint, azok megfelelő alkalmazásával kell eljárni.
+(13)[^28] A (12) bekezdésben meghatározott hatáskör gyakorlása során e rendeletnek a vízjogi engedélyezési eljárásra, a hatósági engedély nélkül, vagy attól eltérően végzett létesítésre és üzemeltetésre, a vízjogi kötelezettség megállapítására, valamint a vízügyi felügyeletre vonatkozó rendelkezések szerint, azok megfelelő alkalmazásával kell eljárni.
 
 [^10]: A 3. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84–85. §-a, a 100/2016. (V. 13.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^11]: A 3. § (1a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
@@ -47,14 +49,15 @@ c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egy�
 [^14]: A 3. § (3a) bekezdését az 527/2013. (XII. 30.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 171/2015. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: A 3. § (3b) bekezdését a 100/2016. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^16]: A 3. § eredeti (3) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (4) bekezdésre változtatta. A 3. § (4) bekezdése a 42/2014. (II. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^17]: A 3. § eredeti (4) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (5) bekezdésre változtatta.
-[^18]: 1995. évi LVII. törvény 14. § (4) bek.
-[^19]: A 3. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (6) bekezdésre változtatta.
-[^20]: A 3. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése, szövege a 123/2012. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^21]: A 3. § (7a) bekezdését a 123/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
-[^22]: A 3. § (8) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe. [A 3. § (8) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^23]: A 3. § (9) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
-[^24]: A 3. § (10) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe. [A 3. § (10) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^25]: A 3. § (11) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
-[^26]: A 3. § (12) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta be, szövege a 377/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c)–d) pontja, a 100/2016. (V. 13.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^27]: A 3. § (13) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta a szövegbe. [A 3. § (13) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés e) pontjával elrendelt módosítás, amely szerint a „felügyelőségre” szövegrész helyébe a „vízügyi hatóságra” szöveg lép, nem vezethető át.]
+[^17]: A 3. § (4a) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 3. § eredeti (4) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (5) bekezdésre változtatta.
+[^19]: 1995. évi LVII. törvény 14. § (4) bek.
+[^20]: A 3. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (6) bekezdésre változtatta.
+[^21]: A 3. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése, szövege a 123/2012. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 3. § (7a) bekezdését a 123/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
+[^23]: A 3. § (8) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe. [A 3. § (8) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^24]: A 3. § (9) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^25]: A 3. § (10) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe. [A 3. § (10) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^26]: A 3. § (11) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^27]: A 3. § (12) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta be, szövege a 377/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c)–d) pontja, a 100/2016. (V. 13.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^28]: A 3. § (13) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta a szövegbe. [A 3. § (13) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés e) pontjával elrendelt módosítás, amely szerint a „felügyelőségre” szövegrész helyébe a „vízügyi hatóságra” szöveg lép, nem vezethető át.]

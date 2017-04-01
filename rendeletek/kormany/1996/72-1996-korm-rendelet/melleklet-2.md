@@ -40,7 +40,7 @@
 
 ## – az előbbi kategóriákba be nem sorolható vízilétesítmények és vízhasználatok.
 
-2. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^167]
+2. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^168]
 
 ## A környezeti hatások jelentősége szempontjából vizsgálandó tevékenységek, létesítmények
 
@@ -120,4 +120,4 @@ b) nem védett területen, nem Natura 2000 területen, nem barlang védőövezet
 
 16. Állandó árvízvédelmi mű nem vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén és települési külterületen.
 
-[^167]: A 2. mellékletet a 82/2011. (V. 18.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti Melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 42/2014. (II. 24.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^168]: A 2. mellékletet a 82/2011. (V. 18.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti Melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 42/2014. (II. 24.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.

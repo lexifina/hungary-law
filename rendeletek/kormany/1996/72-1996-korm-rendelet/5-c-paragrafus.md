@@ -1,3 +1,3 @@
-## A vízjogi engedélyezés vízkészletjárulékkal kapcsolatos szabályai[^55]
+## A vízjogi engedélyezés vízkészletjárulékkal kapcsolatos szabályai[^56]
 
-[^55]: Az 5/C. §-t megelőző alcímet a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^56]: Az 5/C. §-t megelőző alcímet a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.

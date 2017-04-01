@@ -1,4 +1,4 @@
-4/A. §[^33] (1) A vízilétesítmény megszüntetéséhez szükséges vízjogi megszüntetési engedélyt a tulajdonos, a vagyonkezelő vagy a vízilétesítmény üzemeltetésével eddig járó jogokat és kötelezettségeket közvetlenül gyakorló köteles megszerezni. A kérelemhez a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló miniszteri rendeletben meghatározott mellékletet kell csatolni.
+4/A. §[^34] (1) A vízilétesítmény megszüntetéséhez szükséges vízjogi megszüntetési engedélyt a tulajdonos, a vagyonkezelő vagy a vízilétesítmény üzemeltetésével eddig járó jogokat és kötelezettségeket közvetlenül gyakorló köteles megszerezni. A kérelemhez a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló miniszteri rendeletben meghatározott mellékletet kell csatolni.
 
 (2) Ha a megszüntetésre kerülő vízilétesítménnyel érintett ingatlan nem áll az (1) bekezdés szerinti kérelmező tulajdonában vagy vagyonkezelésében – ugyanakkor a kérelem teljesítésének egyéb feltételei fennállnak –, az engedély csak az ingatlan tulajdonosának, állami tulajdon esetén vagyonkezelőjének írásbeli hozzájárulásával adható ki.
 
@@ -26,4 +26,4 @@ b) a vízilétesítmény megszüntetését műszakilag megkezdték és azt folya
 
 (9) Ha a vízilétesítmény és a kapcsolódó vízhasználat megszüntetése az ingatlan-nyilvántartás módosításának szükségességét vonja maga után, a vízügyi hatóság hivatalból megkeresi az ingatlanügyi hatóságot.
 
-[^33]: A 4/A. §-t a 100/2016. (V. 13.) Korm. rendelet 2. §-a iktatta be.
+[^34]: A 4/A. §-t a 100/2016. (V. 13.) Korm. rendelet 2. §-a iktatta be.
