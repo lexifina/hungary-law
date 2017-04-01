@@ -36,7 +36,7 @@
 
 | 17. | helikopter leszálló pálya engedélyezése | közlekedésért felelős miniszter | nincs |
 
-| 18. | közegészségügyi szakhatósági engedélyezés | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | közegészségügyi szakhatósági engedélyezés | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 2. melléklet a 267/2012. (IX. 20.) Korm. rendelethez[^9]
 
@@ -66,7 +66,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | földművelésügy: talajvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 12. | egészségügy, sugár-egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 12. | egészségügy, sugár-egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 13. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -80,4 +80,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 30. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 30. § (1) bekezdés b) pontjával megállapított és (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
