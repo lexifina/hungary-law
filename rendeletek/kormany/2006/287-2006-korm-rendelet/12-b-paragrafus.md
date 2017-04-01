@@ -1,4 +1,4 @@
-12/B. §[^27] (1)[^28] Az országos várólista nyilvántartást a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) vezeti.
+12/B. §[^27] (1)[^28] Az országos várólista nyilvántartást a NEAK vezeti.
 
 (2) Az országos várólista nyilvántartást vezető szerv
 
@@ -21,7 +21,7 @@ e) az a)–d) pont szerinti feladatok ellátása érdekében ellenőrzi az álta
 (6)[^31]
 
 [^27]: A 12/B. §-t a 92/2012. (IV. 27.) Korm. rendelet 17. §-a iktatta be.
-[^28]: A 12/B. § (1) bekezdése a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja, a 464/2016. (XII. 23.) Korm. rendelet 17. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 12/B. § (1) bekezdése a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja, a 464/2016. (XII. 23.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^29]: A 12/B. § (2) bekezdés c) pontja a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^30]: A 12/B. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^31]: A 12/B. § (6) bekezdését a 30/2015. (II. 25.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.

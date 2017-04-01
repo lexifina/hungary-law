@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-287-20-
 | 2016-12-24 | 2006-287-20-22.26 | 413/2015. (XII. 23.) Korm. rendelet |
 | 2017-01-01 | 2006-287-20-22.27 | 379/2016. (XII. 12.) Korm. rendelet |
 | 2017-01-02 | 2006-287-20-22.28 | 379/2016. (XII. 12.) Korm. rendelet |
+| 2017-04-01 | 2006-287-20-22.29 | 464/2016. (XII. 23.) Korm. rendelet |
