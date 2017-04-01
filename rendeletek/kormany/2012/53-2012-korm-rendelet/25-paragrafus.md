@@ -6,6 +6,6 @@
 
 (2) Ha a sajátos építményt vagy annak részét építési engedély nélkül vagy az építési engedélyben foglaltaktól eltérő módon létesítették, a bányafelügyelet arra – az építtető vagy a létesítménnyel rendelkezni jogosult kérelme alapján – építési bírság kiszabása mellett fennmaradási engedélyt adhat, ha a szabályossá tétel feltételei fennállnak vagy megteremthetők.
 
-(3)[^20]
+(3)[^21]
 
-[^20]: A 25. § (3) bekezdését a 311/2014. (XII. 11.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte.
+[^21]: A 25. § (3) bekezdését a 311/2014. (XII. 11.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte.

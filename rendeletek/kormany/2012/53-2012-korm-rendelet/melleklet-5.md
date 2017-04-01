@@ -122,6 +122,6 @@
 
 8. A biztonságtechnikai, az egészségvédelmi, a tűzvédelmi és a környezetvédelmi előírások teljesítése, külterületen, illetve védett természeti területen a sajátos építmény tájba illesztésének módja.
 
-9.[^47] Átnézeti helyszínrajz legalább 1:50 000 méretarányban a honvédelemért felelős miniszter vezetője részére, ha az eljárásban szakhatóságként vesz részt.
+9.[^48] Átnézeti helyszínrajz legalább 1:50 000 méretarányban a honvédelemért felelős miniszter vezetője részére, ha az eljárásban szakhatóságként vesz részt.
 
-[^47]: Az 5. melléklet 9. pontja a 259/2016. (VIII. 31.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^48]: Az 5. melléklet 9. pontja a 259/2016. (VIII. 31.) Korm. rendelet 37. §-a szerint módosított szöveg.

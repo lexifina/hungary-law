@@ -1,4 +1,4 @@
-## 49. §[^39]
+## 49. §[^40]
 
 1. melléklet az 53/2012. (III. 28.) Korm. rendelethez
 
@@ -70,7 +70,7 @@
 
 4.1. a geotermikus energia felszín alatti víz kitermelését nem igénylő, 20 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével,
 
-4.2.[^40] az 1.1. pont szerinti kutatóépítmény, amely
+4.2.[^41] az 1.1. pont szerinti kutatóépítmény, amely
 
 4.2.1. földtani kutatást szolgálja,
 
@@ -86,8 +86,8 @@
 
 4.6. a koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével.
 
-4.7.[^41] a föld alatti szénelgázosításhoz szükséges létesítmények.
+4.7.[^42] a föld alatti szénelgázosításhoz szükséges létesítmények.
 
-[^39]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: Az 1. melléklet 4.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^41]: Az 1. melléklet 4. pont 4.7. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (1) bekezdése iktatta be.
+[^40]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: Az 1. melléklet 4.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^42]: Az 1. melléklet 4. pont 4.7. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (1) bekezdése iktatta be.

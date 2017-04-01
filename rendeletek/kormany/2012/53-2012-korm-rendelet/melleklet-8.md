@@ -1,4 +1,4 @@
-8. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^48]
+8. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^49]
 
 ## A 3. melléklet 2. pontjában meghatározott építési tevékenység befejezésére vonatkozó bejelentés adattartalma
 
@@ -42,4 +42,4 @@
 
 10.2. Lakóhelye vagy székhelye, értesítési címe.
 
-[^48]: A 8. mellékletet a 311/2014. (XII. 11.) Korm. rendelet 37. §-a iktatta be.
+[^49]: A 8. mellékletet a 311/2014. (XII. 11.) Korm. rendelet 37. §-a iktatta be.

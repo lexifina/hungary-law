@@ -1,4 +1,4 @@
-21. §[^16] (1) A használatbavételi engedély iránti kérelemhez az 5. § (1) bekezdés c) pontjában foglaltakon túl mellékelni kell:
+21. §[^17] (1) A használatbavételi engedély iránti kérelemhez az 5. § (1) bekezdés c) pontjában foglaltakon túl mellékelni kell:
 
 a) az üzemeltető nevét vagy megnevezését, címét vagy székhelyét,
 
@@ -20,4 +20,4 @@ i) a szénhidrogén-szállítóvezeték, továbbá a földgáz-elosztó és cél
 
 (2) Ha az e-közmű adatszolgáltatásra kötelezett leendő üzemeltető megegyezik a használatbavételi engedély kérelmezőjével, akkor a használatbavételi engedély iránti kérelemhez az e-közmű adatszolgáltatásra kötelezett leendő üzemeltető nyilatkozatát kell mellékelni az (1) bekezdés i) pontjában foglaltak megtörténtéről.
 
-[^16]: A 21. § az 559/2013. (XII. 31.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^17]: A 21. § az 559/2013. (XII. 31.) Korm. rendelet 63. §-ával megállapított szöveg.
