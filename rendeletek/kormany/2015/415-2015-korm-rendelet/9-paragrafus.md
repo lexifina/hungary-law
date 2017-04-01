@@ -1,23 +1,23 @@
-9. § (1)[^14] A Központ az igénybevevői nyilvántartásban rögzített
+9. § (1)[^18] A Központ az igénybevevői nyilvántartásban rögzített
 
-a)[^15] természetes személyazonosító és lakcímadatokat a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett nyilvántartásból,
+a)[^19] természetes személyazonosító és lakcímadatokat a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett nyilvántartásból,
 
-b)[^16] TAJ-t a Nemzeti Egészségbiztosítási Alapkezelő által vezetett nyilvántartásból
+b)[^20] TAJ-t a Nemzeti Egészségbiztosítási Alapkezelő által vezetett nyilvántartásból
 
 történő elektronikus adatigénylés útján ellenőrzi, illetve – ha az adat nem vagy hibásan áll a Központ rendelkezésére – kéri meg.
 
-(2)[^17] Ha a működést engedélyező szerv vagy a Magyar Államkincstár valamely szerve az igénybevevői nyilvántartásban olyan adatot észlel, amely a szolgáltatói nyilvántartásban foglaltakkal vagy a hatósági ellenőrzés megállapításaival ellentétes, soron kívül értesíti a Központot. Ha az adatok hatósági ellenőrzés során váltak ismertté, az értesítéshez mellékelni kell az ellenőrzésről készített jegyzőkönyv és az ellenőrzés eredményeképpen hozott határozat másolatát.
+(2)[^21] Ha a működést engedélyező szerv vagy a Magyar Államkincstár valamely szerve az igénybevevői nyilvántartásban olyan adatot észlel, amely a szolgáltatói nyilvántartásban foglaltakkal vagy a hatósági ellenőrzés megállapításaival ellentétes, soron kívül értesíti a Központot. Ha az adatok hatósági ellenőrzés során váltak ismertté, az értesítéshez mellékelni kell az ellenőrzésről készített jegyzőkönyv és az ellenőrzés eredményeképpen hozott határozat másolatát.
 
-(3)[^18]
+(3)[^22]
 
-(4)[^19] A Központ a hibás adatot a tudomására jutástól számított nyolc munkanapon belül kijavítja vagy törli, és egyidejűleg a nyilvántartások informatikai rendszerén keresztül tájékoztatja erről az adatszolgáltatásra jogosultat. A javítás nem terjedhet ki az időszakos jelentésben igénybevevőként fel nem tüntetett személy igénybevevőként történő feltüntetésére.
+(4)[^23] A Központ a hibás adatot a tudomására jutástól számított nyolc munkanapon belül kijavítja vagy törli, és egyidejűleg a nyilvántartások informatikai rendszerén keresztül tájékoztatja erről az adatszolgáltatásra jogosultat. A javítás nem terjedhet ki az időszakos jelentésben igénybevevőként fel nem tüntetett személy igénybevevőként történő feltüntetésére.
 
-(5)[^20] Ha a Központ megállapítja, hogy az időszakos jelentésben foglaltak nem felelnek meg a valóságnak, a jogosulatlan adatrögzítést erre vonatkozó megjegyzéssel látja el, és erről a nyilvántartások informatikai rendszerén keresztül értesíti az adatszolgáltatásra jogosultakat.
+(5)[^24] Ha a Központ megállapítja, hogy az időszakos jelentésben foglaltak nem felelnek meg a valóságnak, a jogosulatlan adatrögzítést erre vonatkozó megjegyzéssel látja el, és erről a nyilvántartások informatikai rendszerén keresztül értesíti az adatszolgáltatásra jogosultakat.
 
-[^14]: A 9. § (1) bekezdés nyitó és záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^15]: A 9. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^16]: A 9. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^17]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés h) és i) pontja szerint módosított szöveg.
-[^18]: A 9. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 312. § (3) bekezdése hatályon kívül helyezte.
-[^19]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^20]: A 9. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^18]: A 9. § (1) bekezdés nyitó és záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^19]: A 9. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^20]: A 9. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^21]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés h) és i) pontja szerint módosított szöveg.
+[^22]: A 9. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 312. § (3) bekezdése hatályon kívül helyezte.
+[^23]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^24]: A 9. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
