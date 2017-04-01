@@ -2682,7 +2682,7 @@ A kormányablak-tudástárban szereplő ügykörök
 
 1330. Nádas égetésének engedélyezésére irányuló kérelem
 
-1331. Az Országos Tisztiorvosi Hivatal által engedélyezett légi úton történő szúnyog- és szúnyoglárva irtás esetén a kezelés tényleges időpontjának és helyének bejelentése
+1331.[^4] A fővárosi és megyei kormányhivatal által engedélyezett légi úton történő szúnyog- és szúnyoglárva irtás esetén a kezelés tényleges időpontjának és helyének bejelentése
 
 1332. Földi járműről végzett szúnyogirtás bejelentése
 
@@ -4678,17 +4678,17 @@ A kormányablak-tudástárban szereplő ügykörök
 
 2328. ADR, illetve RID (veszélyes anyagok közúti, illetve vasúti szállítása) során a csomagolóeszközök, nagycsomagolások gyártására, felújítására és vizsgálatára vonatkozó minőségbiztosítási program megfelelőségének elfogadása iránti kérelem
 
-2329.[^4] Elvi építési keretengedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2329.[^5] Elvi építési keretengedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2330.[^5] Építési engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2330.[^6] Építési engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2331.[^6] Használatbavételi engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2331.[^7] Használatbavételi engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2332.[^7] Rendeltetés megváltoztatása iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2332.[^8] Rendeltetés megváltoztatása iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2333.[^8] Megszüntetési engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2333.[^9] Megszüntetési engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
-2334.[^9] Fennmaradási engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
+2334.[^10] Fennmaradási engedély iránti kérelem a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdésében meghatározott egyes sajátos építményfajták esetében
 
 2335. Autógáz töltőállomás elvi építési engedélye iránti kérelem
 
@@ -4793,9 +4793,10 @@ A kormányablak-tudástárban szereplő ügykörök
 [^1]: A Melléklet 235. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont a) alpontja szerint módosított szöveg.
 [^2]: A Melléklet 1079. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont b) alpontja szerint módosított szöveg.
 [^3]: A Melléklet 1099. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont c) alpontja szerint módosított szöveg.
-[^4]: A Melléklet 2329. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
-[^5]: A Melléklet 2330. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
-[^6]: A Melléklet 2331. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
-[^7]: A Melléklet 2332. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
-[^8]: A Melléklet 2333. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
-[^9]: A Melléklet 2334. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^4]: A Melléklet 1331. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont d) pontja szerint módosított szöveg.
+[^5]: A Melléklet 2329. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^6]: A Melléklet 2330. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^7]: A Melléklet 2331. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^8]: A Melléklet 2332. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^9]: A Melléklet 2333. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^10]: A Melléklet 2334. pontja az 1853/2016. (XII. 27.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
