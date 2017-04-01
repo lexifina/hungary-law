@@ -1,4 +1,4 @@
-23/B. §[^58] (1) A szakhatósági eljárás során a Kormányhivatal – az építési engedély iránti kérelem és mellékletei megküldése mellett – beszerzi a településfejlesztésért és településrendezésért, az iparügyekért, a környezetvédelemért, természetvédelemért, valamint az energiapolitikáért felelős miniszterek képviselőinek részvételével működő bizottság (a továbbiakban: Bizottság) véleményét. A Kormányhivatal a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
+23/B. §[^59] (1) A szakhatósági eljárás során a Kormányhivatal – az építési engedély iránti kérelem és mellékletei megküldése mellett – beszerzi a településfejlesztésért és településrendezésért, az iparügyekért, a környezetvédelemért, természetvédelemért, valamint az energiapolitikáért felelős miniszterek képviselőinek részvételével működő bizottság (a továbbiakban: Bizottság) véleményét. A Kormányhivatal a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
 
 (2) A Bizottság elnöke a településfejlesztésért és településrendezésért felelős miniszter által kijelölt személy, a Bizottság további tagjai az (1) bekezdésben megjelölt miniszterek által szakterületenként kijelölt egy-egy személy.
 
@@ -8,4 +8,4 @@
 
 (5) A Bizottság az ügyrendjét maga állapítja meg.
 
-[^58]: A 23/B. §-t a 277/2016. (IX. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^59]: A 23/B. §-t a 277/2016. (IX. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be.

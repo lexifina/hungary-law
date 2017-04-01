@@ -6,20 +6,20 @@ a) megfelel-e a hatályos jogszabályokban foglalt követelményeknek,
 
 b) milyen átalakítással tehető használatra alkalmassá,
 
-c)[^76] az engedély megadásához az érintett közművek, kezelők és üzemeltetők hozzájárultak-e.
+c)[^77] az engedély megadásához az érintett közművek, kezelők és üzemeltetők hozzájárultak-e.
 
 (2) A Hatóság a fennmaradási engedélyt megadja, ha az építményre az (1) bekezdés a)–c) pontjában foglalt előírások teljesülnek.
 
-(2a)[^77] Közcélú, magán-, termelői és közvetlen vezetékre fennmaradási engedély csak akkor adható, ha a kérelmező a fennmaradási engedély iránti kérelemhez csatolja az e-közmű adatszolgáltatásra kötelezett üzemeltető igazolását a vezeték utólagos beméréséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről. A Hatóság a fennmaradási engedélyt közli a közcélú, magán-, termelői és közvetlen vezeték üzemeltetőjével is.
+(2a)[^78] Közcélú, magán-, termelői és közvetlen vezetékre fennmaradási engedély csak akkor adható, ha a kérelmező a fennmaradási engedély iránti kérelemhez csatolja az e-közmű adatszolgáltatásra kötelezett üzemeltető igazolását a vezeték utólagos beméréséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről. A Hatóság a fennmaradási engedélyt közli a közcélú, magán-, termelői és közvetlen vezeték üzemeltetőjével is.
 
 (3) A fennmaradási engedély iránti kérelmet el kell utasítani, ezzel egyidejűleg az építmény megszüntetését (bontását) vagy műszaki felszámolását és az eredeti állapot helyreállítását el kell rendelni, ha:
 
 a) nem teljesülnek az (1) bekezdés a)–c) pontjában foglaltak, vagy
 
-b)[^78] az engedélyes az építési jogosultságát e rendelet 23. §-ának (2) bekezdésében meghatározott módon igazolni nem tudta, vagy
+b)[^79] az engedélyes az építési jogosultságát e rendelet 23. §-ának (2) bekezdésében meghatározott módon igazolni nem tudta, vagy
 
 c) külön jogszabály a fennmaradási engedély megadásának lehetőségét kizárja.
 
-[^76]: A 32. § (1) bekezdés c) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 2. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^77]: A 32. § (2a) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 18. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
-[^78]: A 32. § (3) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: A 32. § (1) bekezdés c) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 2. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^78]: A 32. § (2a) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 18. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
+[^79]: A 32. § (3) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -2,8 +2,11 @@
 
 (2)[^37] A szakhatósághoz intézett megkereséshez csatolni kell a 3. számú melléklet 7. pontjában felsorolt vonatkozó műszaki dokumentációkat. A közművek, kezelők és üzemeltetők nyilatkozatát a hálózati engedélyes vagy megbízása alapján a tervező köteles beszerezni és a kérelemhez csatolni.
 
-(3)[^38] Ha a tervezett belső kezelőterű átalakító vagy kapcsoló berendezés elhelyezése termőföld időleges vagy végleges igénybevételével jár, az engedély iránti kérelemhez mellékelni kell a ingatlanügyi hatóság más célú hasznosítást engedélyező jogerős határozatát.
+(2a)[^38] Az építési engedély iránti kérelemhez csatolni kell az e-közműt üzemeltető szervezet tanúsítványát arról, hogy a közcélú, magán-, termelői és közvetlen vezeték üzemeltetője regisztrált e-közmű adatszolgáltató.
+
+(3)[^39] Ha a tervezett belső kezelőterű átalakító vagy kapcsoló berendezés elhelyezése termőföld időleges vagy végleges igénybevételével jár, az engedély iránti kérelemhez mellékelni kell a ingatlanügyi hatóság más célú hasznosítást engedélyező jogerős határozatát.
 
 [^36]: A 20. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^37]: A 20. § (2) bekezdése a 245/2012. (VIII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^38]: A 20. § (3) bekezdése a 295/2016. (IX. 29.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^38]: A 20. § (2a) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
+[^39]: A 20. § (3) bekezdése a 295/2016. (IX. 29.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^111]
+3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^112]
 
 ## Műszaki dokumentáció
 
@@ -34,7 +34,7 @@
 
 2.1. Az 1.1–1.9. pontokban felsorolt dokumentációk.
 
-3.[^112]
+3.[^113]
 
 4. Vezetékjog engedélyezéséhez szükséges dokumentáció
 
@@ -86,7 +86,7 @@ d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) s
 
 6.1. Vezetékjog fennállását és keletkezésének időpontját, vagy a közcélú hálózat meglétét és létesítésének időpontját igazoló dokumentum.
 
-6.2.[^113] A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági követelményeknek megfelel.
+6.2.[^114] A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági követelményeknek megfelel.
 
 A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot illető vezetékjog (szolgalmi jog) bejegyzéséhez szükséges változási vázrajzot az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló rendelet szerint kell elkészíteni.
 
@@ -112,7 +112,7 @@ d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) s
 
 7.6. A Khvr. 1. vagy 3. számú mellékletében meghatározott tevékenység vagy építmény esetében a Khvr. 5. § (2) bekezdés a) pont ab) vagy ac) alpontja vagy 10. § (2) bekezdés a) vagy c) pontja szerinti döntés, a Khvr. 24. §-a alapján lefolytatott összevont eljárás esetében az egységes környezethasználati engedély, valamint a külön jogszabályban esetlegesen előírt egyéb hatósági engedélyek.
 
-7.7.[^114] Szélerőmű vagy szélerőmű park esetén az annak elhelyezésére szolgáló ingatlan telekhatáraitól számított 1 km-en belül elhelyezkedő valamennyi ingatlan tulajdonosának az írásbeli hozzájárulása az építmény vagy építmények felépítéséhez.
+7.7.[^115] Szélerőmű vagy szélerőmű park esetén az annak elhelyezésére szolgáló ingatlan telekhatáraitól számított 1 km-en belül elhelyezkedő valamennyi ingatlan tulajdonosának az írásbeli hozzájárulása az építmény vagy építmények felépítéséhez.
 
 8. Az erőmű vagy belső kezelőterű átalakító vagy kapcsoló berendezés használatbavételi engedélyezéséhez szükséges dokumentáció
 
@@ -128,7 +128,7 @@ c) a vonatkozó jogszabályokban és a szakhatósági hozzájárulásokban fogla
 
 8.3. Az esetleges próbaüzem eredményeiről szóló nyilatkozat, valamint az üzembe helyezési eljárásról készült hitelesített jegyzőkönyv a jelenléti ívvel és annak mellékletei.
 
-9.[^115] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez, valamint az üzembe helyezési eljárás lefolytatásáról szóló bejelentéséhez szükséges dokumentáció
+9.[^116] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez, valamint az üzembe helyezési eljárás lefolytatásáról szóló bejelentéséhez szükséges dokumentáció
 
 9.1. A felelős műszaki vezető (vezetők) nyilatkozata arról, hogy
 
@@ -184,8 +184,8 @@ c) a tervezés során milyen szabványokat, műszaki irányelveket alkalmazott (
 
 d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
 
-[^111]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
-[^112]: A 3. számú melléklet 3. pontját a 441/2015. (XII. 28.) Korm. rendelet 101. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^113]: A 3. számú melléklet 6.2. pontja a 405/2015. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^114]: A 3. melléklet 7. pont 7.7. alpontját a 277/2016. (IX. 15.) Korm. rendelet 6. § (5) bekezdése iktatta be.
-[^115]: A 3. számú melléklet 9. pont nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 100. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^112]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
+[^113]: A 3. számú melléklet 3. pontját a 441/2015. (XII. 28.) Korm. rendelet 101. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^114]: A 3. számú melléklet 6.2. pontja a 405/2015. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^115]: A 3. melléklet 7. pont 7.7. alpontját a 277/2016. (IX. 15.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^116]: A 3. számú melléklet 9. pont nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 100. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
