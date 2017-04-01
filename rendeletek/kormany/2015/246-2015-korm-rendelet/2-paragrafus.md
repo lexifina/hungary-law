@@ -12,11 +12,12 @@ ca)[^1] az egészségügyi tartalékok vonatkozásában az Állami Egészségüg
 
 cb) a vérkészletek vonatkozásában az Országos Vérellátó Szolgálat,
 
-d) 15. pontjában meghatározott egészségügyi alágazat, a magas biztonsági szintű biológiai laboratóriumok esetében az Országos Tisztifőorvosi Hivatal,
+d)[^2] 15. pontjában meghatározott egészségügyi alágazat, a magas biztonsági szintű biológiai laboratóriumok esetében az országos tisztifőorvos,
 
-e)[^2] 16. pontjában meghatározott egészségügyi alágazat, az egészségbiztosítás informatikai rendszere esetében a Nemzeti Egészségbiztosítási Alapkezelő,
+e)[^3] 16. pontjában meghatározott egészségügyi alágazat, az egészségbiztosítás informatikai rendszere esetében a Nemzeti Egészségbiztosítási Alapkezelő,
 
 f) 16a. pontjában meghatározott egészségügyi alágazat, a gyógyszer-nagykereskedelem esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 [^1]: A 2. § c) pont ca) alpontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § e) pontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^2]: A 2. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § e) pontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (2) bekezdés b) pontja szerint módosított szöveg.
