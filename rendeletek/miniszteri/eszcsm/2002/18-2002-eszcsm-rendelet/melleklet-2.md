@@ -62,25 +62,25 @@ II.
 
 Az I., illetve a III. pontban nem említett szűrővizsgálatok, valamint az anonim szűrővizsgálatok, továbbá az önkéntes, nem anonim módon elvégzett szűrővizsgálatok elvégzésére jogosult laboratóriumok:
 
-a) az OEK Virológiai Főosztály laboratóriuma,
+a)[^23] az OKI Virológiai Főosztály laboratóriuma,
 
-b) az OEK HIV nemzeti referencia-laboratóriuma,
+b)[^24] az OKI HIV nemzeti referencia-laboratóriuma,
 
-c)[^23] a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal laboratóriumai,
+c)[^25] a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal laboratóriumai,
 
 d) a HM Állami Egészségügyi Központ Transzfuziológiai Diagnosztikai Osztálya,
 
 e) a Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház-Rendelőintézet Víruslaboratóriuma,
 
-f)[^24] a Pécsi Tudományegyetem Klinikai Központ Orvosi Mikrobiológiai és Immunitástani Intézete.
+f)[^26] a Pécsi Tudományegyetem Klinikai Központ Orvosi Mikrobiológiai és Immunitástani Intézete.
 
 III.
 
 A mesterséges megtermékenyítés céljára levett sperma adományozása során a donortól levett vér szűrővizsgálatára és megerősítő vizsgálatára jogosult laboratórium:
 
-a) az OEK Virológiai Főosztály laboratóriuma (szűrés),
+a)[^27] az OKI Virológiai Főosztály laboratóriuma (szűrés),
 
-b) az OEK HIV nemzeti referencia-laboratóriuma (szűrés, megerősítés).
+b)[^28] az OKI HIV nemzeti referencia-laboratóriuma (szűrés, megerősítés).
 
 IV.
 
@@ -88,7 +88,7 @@ Acornea donor vírusvizsgálatára, az intézetben ellátott betegek, illetve a 
 
 a) a HM Állami Egészségügyi Központ Vérellátó Osztálya,
 
-b)[^25] a Pécsi Tudományegyetem Klinikai Központ Orvosi Mikrobiológiai és Immunitástani Intézete.
+b)[^29] a Pécsi Tudományegyetem Klinikai Központ Orvosi Mikrobiológiai és Immunitástani Intézete.
 
 V.
 
@@ -102,17 +102,23 @@ Megerősítő vizsgálatok elvégzésére jogosult laboratóriumok:
 
 1. Anonim szűrővizsgálat esetén:
 
-a) az OEK HIV nemzeti referencia-laboratóriuma,
+a)[^30] az OKI HIV nemzeti referencia-laboratóriuma,
 
 b) a Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház-Rendelőintézet Víruslaboratóriuma.
 
 2. Nem anonim módon elvégzett szűrővizsgálat esetén:
 
-a) az OEK HIV nemzeti referencia-laboratóriuma,
+a)[^31] az OKI HIV nemzeti referencia-laboratóriuma,
 
 b) az Országos Vérellátó Szolgálat Központi Laboratóriuma kizárólag a I. pontban felsorolt laboratóriumok által végzett szűrővizsgálatok tekintetében.
 
 [^22]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
-[^23]: A 2. melléklet II. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 38. §-a szerint módosított szöveg.
-[^24]: A 2. melléklet II. pont f) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.
-[^25]: A 2. melléklet IV. pont b) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.
+[^23]: A 2. melléklet II. pont a) alpontja az 54/2016. (XII. 30.) EMMI rendelet 26. § b) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet II. pont b) alpontja az 54/2016. (XII. 30.) EMMI rendelet 26. § b) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet II. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 38. §-a szerint módosított szöveg.
+[^26]: A 2. melléklet II. pont f) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.
+[^27]: A 2. melléklet III. pont a) alpontja az 54/2016. (XII. 30.) EMMI rendelet 26. § b) pontja szerint módosított szöveg.
+[^28]: A 2. melléklet III. pont b) alpontja az 54/2016. (XII. 30.) EMMI rendelet 26. § b) pontja szerint módosított szöveg.
+[^29]: A 2. melléklet IV. pont b) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.
+[^30]: A 2. melléklet VI. pont 1. pont a) alpontja az 54/2016. (XII. 30.) EMMI rendelet 26. § b) pontja szerint módosított szöveg.
+[^31]: A 2. melléklet VI. pont 2. pont a) alpontja az 54/2016. (XII. 30.) EMMI rendelet 26. § b) pontja szerint módosított szöveg.
