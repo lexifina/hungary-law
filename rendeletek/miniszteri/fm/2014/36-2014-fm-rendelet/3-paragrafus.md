@@ -20,4 +20,14 @@ c) az 1333/2008/EK európai parlamenti és tanácsi rendelet V. mellékletében 
 
 (4) Nem előrecsomagolt élelmiszerek esetén a végső fogyasztót kérésére tájékoztatni kell – a tápértékjelölés kivételével – az előrecsomagolt élelmiszerek esetében az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa és az Éltv. felhatalmazása alapján kiadott jogszabály alapján kötelezően feltüntetendő adatokról (a továbbiakban: előrecsomagolt élelmiszereken kötelezően feltüntetendő adatok).
 
+(5)[^8] A távértékesítés útján eladásra kínált, nem előrecsomagolt élelmiszer esetén
+
+a) alkalmazni kell az (1) és (2) bekezdésben foglalt rendelkezéseket,
+
+b) az előrecsomagolt élelmiszereken kötelezően feltüntetendő adatokat – a tápértékjelölés kivételével – a távértékesítést elősegítő anyagban szerepeltetni kell annak érdekében, hogy azok a vásárlást megelőzően a végső fogyasztó rendelkezésére álljanak.
+
+(6)[^9] Az élelmiszer-automatákban és az automatizált értékesítő helyeken értékesítésre kínált, nem előrecsomagolt élelmiszerek esetén a végső fogyasztót a vásárlás helyén tájékoztatni kell a (3) bekezdésben szereplő adatokról és a késztermékben jelen lévő, allergiát vagy intoleranciát okozó anyagokról és termékekről.
+
 [^7]: A 3. § a 79/2016. (XII. 12.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (5) bekezdését a 79/2016. (XII. 12.) FM rendelet 3. § (2) bekezdése iktatta be.
+[^9]: A 3. § (6) bekezdését a 79/2016. (XII. 12.) FM rendelet 3. § (2) bekezdése iktatta be.
