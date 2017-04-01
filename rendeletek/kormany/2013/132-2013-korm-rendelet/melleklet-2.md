@@ -536,7 +536,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 11. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -566,7 +566,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Tolna Megyei Kormányhivatal |
 
 | 11. | területrendezés | Fejér Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -596,7 +596,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Csongrád Megyei Kormányhivatal |
 
 | 11. | területrendezés | Csongrád Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -626,7 +626,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Heves Megyei Kormányhivatal |
 
 | 11. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -656,7 +656,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Békés Megyei Kormányhivatal |
 
 | 11. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -686,7 +686,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Komárom-Esztergom Megyei Kormányhivatal |
 
 | 11. | területrendezés | Budapest Főváros Kormányhivatala | területrendezésért felelős miniszter |
 
@@ -716,7 +716,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Vas Megyei Kormányhivatal |
 
 | 11. | területrendezés | Fejér Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -746,7 +746,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
 | 11. | területrendezés | Csongrád Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -776,7 +776,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Nógrád Megyei Kormányhivatal |
 
 | 11. | területrendezés | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -806,7 +806,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Bács-Kiskun Megyei Kormányhivatal |
 
 | 11. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -836,7 +836,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Veszprém Megyei Kormányhivatal |
 
 | 11. | területrendezés | Somogy Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -866,7 +866,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
 | 11. | területrendezés | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -896,7 +896,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 11. | területrendezés | Budapest Főváros Kormányhivatala | területrendezésért felelős miniszter |
 
@@ -926,7 +926,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 11. | területrendezés | Budapest Főváros Kormányhivatala | területrendezésért felelős miniszter |
 
@@ -956,7 +956,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Baranya Megyei Kormányhivatal |
 
 | 11. | területrendezés | Baranya Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -986,7 +986,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
 | 11. | területrendezés | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -1016,7 +1016,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Fejér Megyei Kormányhivatal |
 
 | 11. | területrendezés | Fejér Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -1046,7 +1046,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Zala Megyei Kormányhivatal |
 
 | 11. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -1076,7 +1076,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 11. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -1106,7 +1106,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
 | 11. | területrendezés | Somogy Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -1136,7 +1136,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | nincs |
 
-| 10. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | egészségügy | illetékes járási hivatal | Fejér Megyei Kormányhivatal |
 
 | 11. | területrendezés | Pest Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -1144,4 +1144,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^12]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 41. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^12]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 41. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
