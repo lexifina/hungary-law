@@ -24,15 +24,16 @@ j) ellátja a kozmetikai termékekkel kapcsolatosan a kozmetikai termékekről s
 
 k) a Kormány által meghatározott élelmezés- és táplálkozás-egészségügy szakkérdésekben szakvéleményt ad,
 
-l) az élelmezés- és táplálkozás-egészségügy szakterületén szakmai-módszertani, tudományos kutatási, képzési, továbbképzési, nyilvántartási, koordinálási, szakmai felügyeleti feladatokat lát el, amelyek ellátásában az Országos Tisztifőorvosi Hivatallal együttműködik,
+l)[^1] az élelmezés- és táplálkozás-egészségügy szakterületén szakmai-módszertani, tudományos kutatási, képzési, továbbképzési, nyilvántartási, koordinálási, szakmai felügyeleti feladatokat lát el, amelyek ellátásában az országos tisztifőorvossal együttműködik,
 
 m) jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez,
 
 n) ellátja a jogszabályban, az alapító okiratában vagy hatósági határozatban meghatározott egyéb feladatokat,
 
-o)[^1] ellátja az orvostechnikai eszközökkel kapcsolatos hatósági, piacfelügyeleti hatósági, az orvostechnikai eszközök klinikai vizsgálatának engedélyezésével kapcsolatos hatósági, valamint az orvostechnikai eszközök megfelelőség-értékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat,
+o)[^2] ellátja az orvostechnikai eszközökkel kapcsolatos hatósági, piacfelügyeleti hatósági, az orvostechnikai eszközök klinikai vizsgálatának engedélyezésével kapcsolatos hatósági, valamint az orvostechnikai eszközök megfelelőség-értékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat,
 
-p)[^2] lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat és vezeti az ezzel összefüggő nyilvántartásokat.
+p)[^3] lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat és vezeti az ezzel összefüggő nyilvántartásokat.
 
-[^1]: A 3. § o) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
-[^2]: A 3. § p) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
+[^1]: A 3. § l) pontja a 379/2016. (XII. 2.) Korm. rendelet 290. § (8) bekezdése szerint módosított szöveg.
+[^2]: A 3. § o) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
+[^3]: A 3. § p) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
