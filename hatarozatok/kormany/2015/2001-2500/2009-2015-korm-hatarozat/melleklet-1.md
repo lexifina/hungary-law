@@ -122,11 +122,11 @@
 
 1.54. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet:
 
-1.55. Állami Népegészségügyi és Tisztiorvosi Szolgálat,
+1.55.[^12] Országos Közegészségügyi Intézet
 
 1.56. Országos Mentőszolgálat,
 
-1.57.[^12] Nemzeti Egészségbiztosítási Alapkezelő,
+1.57.[^13] Nemzeti Egészségbiztosítási Alapkezelő,
 
 1.58. Országos Nyugdíjbiztosítási Főigazgatóság,
 
@@ -142,7 +142,7 @@
 
 1.64. Nemzeti Földalapkezelő Szervezet,
 
-1.65.[^13]
+1.65.[^14]
 
 1.66. Európai Támogatásokat Auditáló Főigazgatóság,
 
@@ -283,5 +283,6 @@
 [^9]: Az 1. melléklet 1. pont 1.48. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont f) alpontja hatályon kívül helyezte.
 [^10]: Az 1. melléklet 1. pont 1.49. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont g) alpontja hatályon kívül helyezte.
 [^11]: Az 1. melléklet 1. pont 1.53. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont h) alpontja hatályon kívül helyezte.
-[^12]: Az 1. melléklet 1.57. pontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont d) alpontjával megállapított szöveg.
-[^13]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet 1. pont 1.55. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont c) alpontjával megállapított szöveg.
+[^13]: Az 1. melléklet 1. pont 1.57. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont d) alpontjával megállapított szöveg.
+[^14]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
