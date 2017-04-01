@@ -78,7 +78,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | régészet és műemlékvédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 17. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 17. | egészségügy | illetékes járási hivatal | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
 | 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Elnöke |
 
@@ -88,4 +88,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 32. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 32. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
