@@ -12,6 +12,34 @@
 
 | 4 | Bioüzemanyagok | A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló törvény meghatározása szerinti, a vonatkozó CEN és ISO szabványoknak megfelelő bioüzemanyagok használata. A bioüzemanyagok és a tengeri hajózásban használatos tüzelő- és üzemanyagok keverékeinek meg kell felelniük a 3. § (1) bekezdésében, 4. §-ban, valamint 6. §-ban a kéntartalomra vonatkozóan előírt szabványoknak. |
 
-3. melléklet az 53/2014. (XII. 13.) NFM rendelethez[^18]
+3. melléklet az 53/2014. (XII. 13.) NFM rendelethez[^19]
 
-[^18]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## Kérelem az 1 tömegszázaléknál nagyobb kéntartalmú fűtőolaj beszerzésének és felhasználásának engedélyezésére
+
+I. A felhasználó adatai
+
+1. Neve:
+
+2. Címe:
+
+3. Adószáma:
+
+II. A felhasználás feltételeire vonatkozó adatok (üzemenként, raktáranként)
+
+1. Üzem (raktár) címe:
+
+2. Felhasználni kívánt fűtőolaj kéntartalma:
+
+III. Csatolandó okmányok
+
+a) az 1 tömegszázaléknál nagyobb kéntartalmú fűtőolajok tárolására használt tartályok jegyzéke (a tartályok azonosító száma, űrtartalma, hitelesítési bizonyítvánnyal rendelkező tartály esetén a bizonyítvány száma)
+
+b) az 50 MWth vagy azt meghaladó teljesítményű erőmű működtetésére szóló működési engedély másolata
+
+Kelt: ........................................................................................
+
+.......................................................
+
+a kérelmező aláírása
+
+[^19]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 68/2016. (XII. 29.) NFM rendelet 6. §-a iktatta be.
