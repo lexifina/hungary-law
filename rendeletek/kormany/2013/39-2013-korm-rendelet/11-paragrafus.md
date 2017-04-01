@@ -1,8 +1,8 @@
-11. §[^28] (1) A dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeket, helyiségeket, közterületeket, valamint a nemdohányzó intézményeket a 7. mellékletben meghatározott tartalmú és formájú felirat vagy jelzés alkalmazásával kell megjelölni. A felirat vagy jelzés mérete legalább A/4-es nagyságú. A feliraton vagy jelzésen szereplő „DOHÁNYZÁSRA KIJELÖLT HELY” és „TILOS A DOHÁNYZÁS” szövegeknek piros színnel, legalább 30 pontos Helvetica Bold, az egyéb szövegrészeknek legalább 18 pontos Helvetica Bold betűmérettel kell készülniük.
+11. §[^31] (1) A dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeket, helyiségeket, közterületeket, valamint a nemdohányzó intézményeket a 7. mellékletben meghatározott tartalmú és formájú felirat vagy jelzés alkalmazásával kell megjelölni. A felirat vagy jelzés mérete legalább A/4-es nagyságú. A feliraton vagy jelzésen szereplő „DOHÁNYZÁSRA KIJELÖLT HELY” és „TILOS A DOHÁNYZÁS” szövegeknek piros színnel, legalább 30 pontos Helvetica Bold, az egyéb szövegrészeknek legalább 18 pontos Helvetica Bold betűmérettel kell készülniük.
 
-(1a)[^29] Az (1) bekezdés szerinti felirat vagy jelzés alatt az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatának korlátozását, valamint használatára kijelölt helyeket, helyiségeket, közterületeket is érteni kell.
+(1a)[^32] Az (1) bekezdés szerinti felirat vagy jelzés alatt az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatának korlátozását, valamint használatára kijelölt helyeket, helyiségeket, közterületeket is érteni kell.
 
-(2)[^30] Az ÁNTSZ-OTH kérelemre, a kérelmező részére engedélyezi az (1) bekezdésben és a 7. mellékletben foglaltaktól eltérő felirat vagy jelzés alkalmazását, ha
+(2)[^33] A kormányhivatal kérelemre, a kérelmező részére engedélyezi az (1) bekezdésben és a 7. mellékletben foglaltaktól eltérő felirat vagy jelzés alkalmazását, ha
 
 a) a kérelmező által egyidejűleg az Nvt. 2. § (7) bekezdése és az (1) bekezdés alapján alkalmazandó jelzések száma a tízet meghaladja,
 
@@ -16,9 +16,9 @@ e) az alkalmazott betűk mérete nem kisebb az (1) bekezdésben meghatározott b
 
 (3) A (2) bekezdés szerinti engedély iránti kérelemhez mellékelni kell az engedélyeztetni kért felirat vagy jelzés grafikai tervét, valamint tervezett elhelyezésének részletes leírását.
 
-(4)[^31] Az ÁNTSZ-OTH a (2) bekezdés szerinti kérelmezőkről nyilvántartást vezet, a kérelmezők és az engedélyt kapók listáját évente, március 31-éig elektronikus úton megküldi a NEFI DF részére.
+(4)[^34] A kormányhivatal a (2) bekezdés szerinti kérelmezőkről nyilvántartást vezet, a kérelmezők és az engedélyt kapók listáját évente, március 31-éig elektronikus úton megküldi az egészségügyért felelős miniszter részére.
 
-[^28]: A 11. § a 169/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^29]: A 11. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 50. §-a iktatta be.
-[^30]: A 11. § (2) bekezdés nyitó szövegrésze a 239/2016. (VIII. 16.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
-[^31]: A 11. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 9. §-a iktatta be.
+[^31]: A 11. § a 169/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^32]: A 11. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 50. §-a iktatta be.
+[^33]: A 11. § (2) bekezdés nyitó szövegrésze a 239/2016. (VIII. 16.) Korm. rendelet 20. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés l) pontja szerint módosított szöveg.
+[^34]: A 11. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés k) és l) pontja szerint módosított szöveg.

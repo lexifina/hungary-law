@@ -38,6 +38,6 @@
 
 | 19. | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
 
-8/A. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^81]
+8/A. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^92]
 
-[^81]: A 8/A. mellékletet a 169/2014. (VII. 18.) Korm. rendelet 12. §-a iktatta be.
+[^92]: A 8/A. mellékletet a 169/2014. (VII. 18.) Korm. rendelet 12. §-a iktatta be.

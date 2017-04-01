@@ -1,4 +1,4 @@
-6/A. §[^15] (1) Dohányzásra szánt dohányterméket forgalomba hozni csak abban az esetben lehet, ha annak minden csomagolási egysége és minden gyűjtőcsomagja – szembetűnően, kontrasztos háttérben, jól olvashatóan, eltávolíthatatlan nyomtatással, letörölhetetlenül, magyar nyelven – egyaránt tartalmazza
+6/A. §[^17] (1) Dohányzásra szánt dohányterméket forgalomba hozni csak abban az esetben lehet, ha annak minden csomagolási egysége és minden gyűjtőcsomagja – szembetűnően, kontrasztos háttérben, jól olvashatóan, eltávolíthatatlan nyomtatással, letörölhetetlenül, magyar nyelven – egyaránt tartalmazza
 
 a) egyik oldalsó felületén, az oldal legalább 50%-át kitevő felületen az „A dohányzás halált okoz – szokjon le most!” általános figyelmeztetést,
 
@@ -30,4 +30,4 @@ c) mindkét főoldalán, az oldal legalább 65%-át kitevő felületen az 5. mel
 
 (13) Az egészségvédő figyelmeztetések méretét a csomag zárt állapotában az adott felület alapján kell kiszámítani.
 
-[^15]: A 6/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
+[^17]: A 6/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.

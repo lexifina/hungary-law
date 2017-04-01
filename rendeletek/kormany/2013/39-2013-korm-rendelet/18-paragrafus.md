@@ -1,6 +1,6 @@
 ## 9. Adatszolgáltatás
 
-18. §[^46] (1) A dohánytermék forgalomba hozatalát megelőzően azok gyártójának és importálójának be kell nyújtania a 2015/2186 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül márkanevenként és alfajtánként magyar vagy angol nyelven
+18. §[^49] (1) A dohánytermék forgalomba hozatalát megelőzően azok gyártójának és importálójának be kell nyújtania a 2015/2186 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül márkanevenként és alfajtánként magyar vagy angol nyelven
 
 a) a dohánytermékek összetevőire vonatkozó adatokat az egyes összetevők súlyának csökkenő sorrendjében, és
 
@@ -16,6 +16,7 @@ b) a dohánytermékeknek az 5. § (1) bekezdése szerinti kibocsátási szintekr
 
 (6) A dohánytermékek gyártójának és importálójának évente, március 31-éig a dohánytermékekre vonatkozó információk benyújtása és nyilvános hozzáférhetővé tétele céljából be kell nyújtania a piackutatásra és a különböző fogyasztói csoportok – beleértve a fiatalokat és az aktív dohányosokat – preferenciáira vonatkozó, az összetevőkkel és a kibocsátásokkal kapcsolatos, rendelkezésre álló belső és külső tanulmányokat, valamint az új termékek bevezetése előtt végzett piackutatásai összefoglalóit, valamint az új termékek bevezetése előtt végzett piackutatások összefoglalóit. Az információk benyújtása a közös adatbeviteli kapun keresztül, elektronikus formában történik. Az információkat magyar vagy angol nyelven kell szolgáltatni.
 
-(7) A közös adatbeviteli kapun keresztül feltöltött adatokat az agrárpolitikáért felelős miniszter minden év április 30-áig, az üzleti titok védelmére tekintettel, az általa vezetett minisztérium honlapján keresztül nyilvánosságra hozza, és elektronikus formában megküldi az egészségügyért felelős miniszter, az ÁNTSZ-OTH és a NEFI DF részére.
+(7)[^50] A közös adatbeviteli kapun keresztül feltöltött adatokat az agrárpolitikáért felelős miniszter minden év április 30-áig, az üzleti titok védelmére tekintettel, az általa vezetett minisztérium honlapján keresztül nyilvánosságra hozza, és elektronikus formában megküldi az egészségügyért felelős miniszter részére.
 
-[^46]: A 18. § a 239/2016. (VIII. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^49]: A 18. § a 239/2016. (VIII. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^50]: A 18. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (6) bekezdés a) pontja szerint módosított szöveg.

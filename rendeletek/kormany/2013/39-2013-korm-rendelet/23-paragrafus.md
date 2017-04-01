@@ -1,6 +1,6 @@
 ## 22. § A rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
 
-23. § (1)[^70] Ez a rendelet
+23. § (1)[^81] Ez a rendelet
 
 a) a tagállamoknak a dohánytermékek és kapcsolódó termékek gyártására, kiszerelésére és értékesítésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről és a 2001/37/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/40/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -18,7 +18,7 @@ g) az elektronikus cigaretták utántöltési mechanizmusára vonatkozó műszak
 
 való megfelelést szolgálja.
 
-(2)[^71]
+(2)[^82]
 
-[^70]: A 23. § (1) bekezdése a 239/2016. (VIII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^71]: A 23. § (2) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
+[^81]: A 23. § (1) bekezdése a 239/2016. (VIII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^82]: A 23. § (2) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.

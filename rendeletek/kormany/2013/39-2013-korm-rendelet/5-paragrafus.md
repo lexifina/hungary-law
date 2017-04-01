@@ -1,6 +1,6 @@
 ## 3. Határértékek
 
-5. §[^13] (1) A szabadforgalomba bocsátott vagy gyártott cigaretta legmagasabb kibocsátási szintje cigarettánként nem lehet több, mint:
+5. §[^15] (1) A szabadforgalomba bocsátott vagy gyártott cigaretta legmagasabb kibocsátási szintje cigarettánként nem lehet több, mint:
 
 a) 10 mg kátrány,
 
@@ -18,4 +18,4 @@ c) 10 mg szén-monoxid.
 
 (6) Az egészségügyért felelős miniszter a laboratóriumokkal kapcsolatosan rendelkezésére álló információkat továbbítja az Európai Bizottság részére. Az Európai Bizottság a jóváhagyott laboratóriumok listáját nyilvánosan hozzáférhetővé teszi.
 
-[^13]: Az 5. § a 239/2016. (VIII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^15]: Az 5. § a 239/2016. (VIII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.

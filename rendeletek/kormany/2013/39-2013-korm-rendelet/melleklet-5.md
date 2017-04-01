@@ -106,6 +106,6 @@
 
 | 52 | Theobromin |
 
-5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^78]
+5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^89]
 
-[^78]: Az 5. melléklet a 413/2015. (XII. 23.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^89]: Az 5. melléklet a 413/2015. (XII. 23.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.

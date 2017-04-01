@@ -1,4 +1,4 @@
-6/B. §[^16] (1) A 2. § 3. pont a) és e) alpontjában meghatározott dohánytermékek csomagolásán kizárólag a 6. §-ban, valamint a 6/A. §-ban vagy jogszabályban meghatározott elemeket lehet feltüntetni, azzal, hogy a 6. §, valamint a 6/A. § rendelkezéseit a (2)–(12) bekezdésben foglalt eltérésekkel kell alkalmazni.
+6/B. §[^18] (1) A 2. § 3. pont a) és e) alpontjában meghatározott dohánytermékek csomagolásán kizárólag a 6. §-ban, valamint a 6/A. §-ban vagy jogszabályban meghatározott elemeket lehet feltüntetni, azzal, hogy a 6. §, valamint a 6/A. § rendelkezéseit a (2)–(12) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Cigarettát és cigarettadohányt forgalomba hozni a (3)–(12) bekezdésben foglalt feltételekkel lehet.
 
@@ -102,4 +102,4 @@ c) az adójegyre.
 
 (12) Az (1)–(11) bekezdésben foglaltakat a Magyarország területén értékesítésre szánt cigaretták és cigarettadohányok csomagolásán kell alkalmazni.
 
-[^16]: A 6/B. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
+[^18]: A 6/B. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
