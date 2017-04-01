@@ -56,7 +56,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | Műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatal | Budapest Főváros Kormányhivatala |
 
-| 12. | Egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 12. | Egészségügy | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
 | 13. | Területrendezés | Pest Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -70,4 +70,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | Településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Nagykovácsi Nagyközség Önkormányzat jegyzője | Pest Megyei Kormányhivatal |
 
-[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 90. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 90. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 90. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
