@@ -90,6 +90,6 @@
 
 ## A **-gal jelölt mezők kitöltése kórházi ellátás esetén kötelező.
 
-13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^48]
+13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^57]
 
-[^48]: A 13. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (3) bekezdésével megállapított, címe a 23/2015. (IV. 28.) EMMI rendelet 29. § i) pontja szerint módosított szöveg.
+[^57]: A 13. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (3) bekezdésével megállapított, címe a 23/2015. (IV. 28.) EMMI rendelet 29. § i) pontja szerint módosított szöveg.

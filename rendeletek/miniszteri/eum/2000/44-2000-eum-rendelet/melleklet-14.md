@@ -74,6 +74,6 @@
 
 ## b) 2001. január 1-jétől bejelentés nélkül vagy érvényes engedély nélkül végzett tevékenység kémiai terhelési bírsággal sújtható.
 
-14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^49]
+14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^58]
 
-[^49]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.
+[^58]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.
