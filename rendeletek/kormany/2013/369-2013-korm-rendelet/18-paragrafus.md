@@ -18,7 +18,7 @@ e) nem csatolta, illetve mutatta be az egyéni vállalkozónak az egyéni válla
 
 f) nem csatolta annak egy hónapnál nem régebbi közokirati igazolását, hogy köztartozásmentes adózónak minősül, a működést engedélyező szerv ellenőrzi, hogy az egyházi fenntartó, illetve a nem állami fenntartó szerepel-e a köztartozásmentes adózói adatbázisban,
 
-g)[^45] nem csatolta a tulajdoni lap másolatát, az engedélyes címe szerinti ingatlan, a lakhatási szolgáltatást biztosító ingatlan, a külső férőhelyek, a félutas ház vagy az ideiglenes befogadó férőhely elhelyezésére szolgáló ingatlan és – nem hálózat keretében nyújtott helyettes szülői ellátás esetén – az ellátás helye szerinti ingatlan tulajdoni lapján található adatokat a működést engedélyező szerv az ingatlan-nyilvántartásból szerzi be,
+g)[^52] nem csatolta a tulajdoni lap másolatát, az engedélyes címe szerinti ingatlan, a lakhatási szolgáltatást biztosító ingatlan, a külső férőhelyek, a foglalkoztatási hely, a félutas ház vagy az ideiglenes befogadó férőhely elhelyezésére szolgáló ingatlan és – nem hálózat keretében nyújtott helyettes szülői ellátás esetén – az ellátás helye szerinti ingatlan tulajdoni lapján található adatokat a működést engedélyező szerv az ingatlan-nyilvántartásból szerzi be,
 
 h) nem csatolta a használatbavételi engedélyt, illetve a fennmaradási engedélyt, megkeresi az építésügyi hatóságot, hogy a használatbavételi engedélyről, illetve a fennmaradási engedélyről szolgáltasson adatot, feltéve, hogy a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki,
 
@@ -26,8 +26,11 @@ i) nem csatolta az előzetes szakhatósági hozzájárulást, vagy nem igazolta,
 
 j) nem mutatta be a gépkocsivezető járművezetői engedélyét, a szolgáltatáshoz használni kívánt gépjármű vezetéséhez szükséges járművezetői engedély meglétét a működést engedélyező szerv a közúti közlekedési nyilvántartásból ellenőrzi,
 
-k) nem mutatta be a forgalmi engedélyt, a bejegyzés iránti kérelemben a gépjárművel kapcsolatban feltüntetett adatokat a működést engedélyező szerv a közúti közlekedési nyilvántartásból ellenőrzi.
+k) nem mutatta be a forgalmi engedélyt, a bejegyzés iránti kérelemben a gépjárművel kapcsolatban feltüntetett adatokat a működést engedélyező szerv a közúti közlekedési nyilvántartásból ellenőrzi,
+
+l)[^53] nem csatolta a fejlesztő foglalkoztatás keretében végzett tevékenység megkezdéséhez szükséges hatósági engedély másolatát vagy a bejelentés teljesítését igazoló okirat másolatát, a működést engedélyező szerv a hatósági engedély, illetve a bejelentés adatait a hatáskörrel és illetékességgel rendelkező hatóságtól vagy annak interneten elérhető nyilvántartásából szerzi be, illetve ellenőrzi.
 
 (4) Ha a fenntartó cégjegyzékben nyilvántartott cég, a működést engedélyező szerv a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
-[^45]: A 18. § (3) bekezdés g) pontja a 284/2015. (IX. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^52]: A 18. § (3) bekezdés g) pontja a 284/2015. (IX. 29.) Korm. rendelet 17. § b) pontja, a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés h) pontja szerint módosított szöveg.
+[^53]: A 18. § (3) bekezdés l) pontját a 448/2016. (XII. 19.) Korm. rendelet 47. §-a iktatta be.

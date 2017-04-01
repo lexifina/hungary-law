@@ -12,8 +12,8 @@ c) az a)–b) pontban nem említett esetben kötelezi a szolgáltatást megszerv
 
 (4) A működést engedélyező szerv
 
-a)[^159] az (1) és (2) bekezdés szerinti jogerős határozatát az ellátásra köteles helyi önkormányzattal, illetve megyei kirendeltséggel és az ellátottjogi, illetve gyermekjogi képviselővel is közli,
+a)[^174] az (1) és (2) bekezdés szerinti jogerős határozatát az ellátásra köteles helyi önkormányzattal, illetve megyei kirendeltséggel és az ellátottjogi, illetve gyermekjogi képviselővel is közli,
 
 b) az (1) bekezdés b) pontja szerinti hatósági szerződést megküldi az ellátásra köteles helyi önkormányzatnak, illetve megyei kirendeltségnek és az ellátottjogi képviselőnek, valamint értesíti őket a hatósági szerződésben foglalt jogkövetkezmények jogerőssé válásáról.
 
-[^159]: A 46. § (4) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés p) pontja szerint módosított szöveg.
+[^174]: A 46. § (4) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés p) pontja szerint módosított szöveg.

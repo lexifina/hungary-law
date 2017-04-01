@@ -34,15 +34,16 @@ l)[^4] telephely: az a szolgáltató székhelyétől különböző, a szolgálta
 
 la)[^5] hely, ahol a szolgáltató nappali szociális ellátást, bentlakásos szociális intézményi ellátást, vagy gyermekek napközbeni ellátását nyújt, illetve Biztos Kezdet Gyerekházat, gyermekek átmeneti otthonát, családok átmeneti otthonát, gyermekotthont vagy utógondozó otthont működtet, kivéve a külső férőhelyeket, a támogatott lakhatás lakhatási szolgáltatását (a továbbiakban: lakhatási szolgáltatás) biztosító ingatlant, a Gyvt. 44/B. § (3) bekezdés d) pontja szerinti helyet, a félutas házat és az ideiglenes befogadó férőhelyet,
 
-lb) az la) alpont hatálya alá nem tartozó szolgáltatáshoz használt, az ellátottak számára nyitva álló helyiség, támogatott lakhatás esetén a lakhatási szolgáltatást biztosító ingatlan, illetve jelzőrendszeres házi segítségnyújtás esetén szakmai központ, amelynek telephelyként történő bejegyzését a fenntartó kéri;
+lb)[^6] az la) alpont hatálya alá nem tartozó szolgáltatáshoz használt, az ellátottak számára nyitva álló helyiség, támogatott lakhatás esetén a lakhatási szolgáltatást biztosító ingatlan, jelzőrendszeres házi segítségnyújtás esetén szakmai központ, illetve a fejlesztő foglalkoztatás helyéül szolgáló ingatlan (a továbbiakban: foglalkoztatási hely), amelynek telephelyként történő bejegyzését a fenntartó kéri;
 
 m) téli időszak: a november 1-je és április 30-a közötti időszak;
 
-n)[^6] ideiglenes befogadó férőhely: a jogszabályban meghatározott feltételek szerint a gyermekotthon épületén kívül, kizárólag menekültként, oltalmazottként és menedékesként (a továbbiakban együtt: menekültként) el nem ismert, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak ellátására létrehozott és a gyermekotthonhoz tartozóan bejegyzett férőhely.
+n)[^7] ideiglenes befogadó férőhely: a jogszabályban meghatározott feltételek szerint a gyermekotthon épületén kívül, kizárólag menekültként, oltalmazottként és menedékesként (a továbbiakban együtt: menekültként) el nem ismert, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak ellátására létrehozott és a gyermekotthonhoz tartozóan bejegyzett férőhely.
 
 [^1]: Az 1. § b) pontja a 353/2014. (XII. 29.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § e) pontja a 419/2015. (XII. 23.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § h) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § l) pontja a 353/2014. (XII. 29.) Korm. rendelet 66. §-ával megállapított szöveg.
 [^5]: Az 1. § l) pont la) alpontja a 284/2015. (IX. 29.) Korm. rendelet 17. § a) pontja, a 419/2015. (XII. 23.) Korm. rendelet 40. § b) pontja, a 191/2016. (VII. 13.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^6]: Az 1. § n) pontját a 284/2015. (IX. 29.) Korm. rendelet 11. §-a iktatta be.
+[^6]: Az 1. § l) pont lb) alpontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. § n) pontját a 284/2015. (IX. 29.) Korm. rendelet 11. §-a iktatta be.

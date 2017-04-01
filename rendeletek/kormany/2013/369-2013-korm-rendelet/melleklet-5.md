@@ -1,4 +1,4 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^173]
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^190]
 
 Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működést engedélyező szervnek bemutatandó iratok
 
@@ -62,7 +62,13 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.2.3. csatolni kell a biztosító igazolását arról, hogy a szolgáltatáshoz használni kívánt gépjárműre kötelező gépjármű-felelősségbiztosítási és casco biztosítási szerződéssel rendelkeznek.
 
-2.3.
+2.3. Fejlesztő foglalkoztatás esetén a 2.1. pontban foglaltakon túl
+
+2.3.1. csatolni kell a foglalkoztatási hely tulajdoni lapjának másolatát, továbbá – ha a tulajdoni lap a használat jogcímét nem igazolja – a használati jogcímet bizonyító egyéb okirat másolatát,
+
+2.3.2. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte,
+
+2.3.3. csatolni kell a fejlesztő foglalkoztatás keretében végzett tevékenység megkezdéséhez szükséges hatósági engedély másolatát vagy a bejelentés teljesítését igazoló okirat másolatát, ha a tevékenység csak hatósági engedéllyel vagy bejelentési kötelezettség teljesítése esetén végezhető.
 
 2.4. Támogatott lakhatás esetén a 2.1. pontban foglaltakon túl
 
@@ -196,4 +202,4 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 3.3.5. a 2.5. pont szerinti iratokat abban az esetben kell csatolni, ha az időszakos férőhelyeket nem az engedélyes épületében alakítják ki, vagy adatmódosítás esetén a szakhatóságok bevonása a 31. § (4) bekezdése alapján szükséges.
 
-[^173]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (12) bekezdése, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (2) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (2) bekezdése, a 419/2015. (XII. 23.) Korm. rendelet 40. § o)–p) pontja, a 441/2015. (XII. 28.) Korm. rendelet 209. § e) pontja, a 191/2016. (VII. 13.) Korm. rendelet 18. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés q) pontja, a 448/2016. (XII. 19.) Korm. rendelet 55. § (2) bekezdés b), e)–g) pontja szerint módosított szöveg.
+[^190]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (12) bekezdése, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (2) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (2) bekezdése, a 419/2015. (XII. 23.) Korm. rendelet 40. § o)–p) pontja, a 441/2015. (XII. 28.) Korm. rendelet 209. § e) pontja, a 191/2016. (VII. 13.) Korm. rendelet 18. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés q) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (3) bekezdése és az 55. § (2) bekezdés b), e)–g) pontja szerint módosított szöveg.

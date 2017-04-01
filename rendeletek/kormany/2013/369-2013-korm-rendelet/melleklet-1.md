@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^169]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^184]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -328,13 +328,19 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.33. Biztos Kezdet Gyerekház,
 
+3.1.34. fejlesztő foglalkoztatás:
+
+3.1.34.1. a foglalkoztatási hely címe, helyrajzi száma és az egyes foglalkoztatási helyeken foglalkoztatható személyek száma,
+
+3.1.34.2. az arra vonatkozó adat, hogy a foglalkoztatási hely bejegyzése határozatlan idejű, határozott idejű vagy ideiglenes hatályú, továbbá határozott idejű bejegyzés és ideiglenes hatályú bejegyzés esetén a bejegyzés hatályának záró időpontja,
+
 3.2. az engedélyes ellátottak számára nyitva álló egyéb helyiségeinek címe és helyrajzi száma,
 
 3.3. az engedélyes működésének kezdő időpontja [8. § (1) bekezdése],
 
 3.4. adatmódosítással bejegyzett adatok esetén az az időpont, amelytől kezdődően az engedélyes az adatmódosításnak megfelelően működtethető [8. § (2) bekezdése],
 
-3.5. a támogatott lakhatás kivételével valamennyi szolgáltatás esetén az arra vonatkozó adat, hogy a szolgáltatás bejegyzése határozatlan idejű, határozott idejű vagy ideiglenes hatályú, továbbá határozott idejű bejegyzés és ideiglenes hatályú bejegyzés esetén a bejegyzés hatályának záró időpontja,
+3.5. a támogatott lakhatás és a fejlesztő foglalkoztatás kivételével valamennyi szolgáltatás esetén az arra vonatkozó adat, hogy a szolgáltatás bejegyzése határozatlan idejű, határozott idejű vagy ideiglenes hatályú, továbbá határozott idejű bejegyzés és ideiglenes hatályú bejegyzés esetén a bejegyzés hatályának záró időpontja,
 
 3.6. az egyedi előírás, feltétel, illetve az egyedi szakhatósági előírás, feltétel, ha szakkérdésben ilyet határoztak meg, vagy a működést engedélyező szerv jogszabályban foglaltak szerint az ideiglenes hatályú bejegyzés során egyéb feltételt határozott meg,
 
@@ -372,4 +378,4 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^169]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1) bekezdése és 55. § (1) bekezdése szerint módosított szöveg.
+[^184]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése szerint módosított szöveg.
