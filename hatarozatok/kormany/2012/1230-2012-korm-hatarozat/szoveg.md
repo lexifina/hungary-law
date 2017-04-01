@@ -28,7 +28,7 @@ Felelős: vidékfejlesztési miniszter
 
 Határidő: 2012. augusztus 30.
 
-1.1.4. Elengedhetetlen cél a parlagfű pollenterhelés monitorozása és ennek érdekében az ÁNTSZ Aerobiológia Hálózat működtetése. Erre való tekintettel
+1.1.4.[^1] Elengedhetetlen cél a parlagfű pollenterhelés monitorozása és ennek érdekében az Országos Közegészségügyi Intézet Aerobiológia Hálózat működtetése. Erre való tekintettel
 
 a) fenn kell tartani és fejleszteni kell a pollenmonitorozó hálózatot,
 
@@ -50,7 +50,7 @@ Határidő: azonnal, illetve ezt követően folyamatosan
 
 a) a szakmaközi szervezetek aktív bevonásával növénytermesztési, technológiai, parlagfű mentesítési és prevenciós ismereteket kell átadni a gazdálkodóknak,
 
-b)[^1] fejleszteni kell a hatósági felderítési és szankcionálási eljárást előre bejelentett, kommunikált légi felderítés alkalmazásával, a megyei kormányhivatalok számára rendelkezésre álló 2011. évi előirányzatból származó, kötelezettségvállalással terhelt maradvány forrás felhasználásával,
+b)[^2] fejleszteni kell a hatósági felderítési és szankcionálási eljárást előre bejelentett, kommunikált légi felderítés alkalmazásával, a megyei kormányhivatalok számára rendelkezésre álló 2011. évi előirányzatból származó, kötelezettségvállalással terhelt maradvány forrás felhasználásával,
 
 c) meg kell vizsgálni a kötelező növényorvos szakirányító alkalmazásának lehetőségét adott területnagyságot meghaladó gazdálkodók esetén.
 
@@ -124,4 +124,5 @@ Határidő: 2013. január 31., illetve ezt követően adott év január 31-ig
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 1. pont 1.1.6. alpont b) pontja az 1853/2016. (XII. 27.) Korm. határozat 15. pont b) alpontja szerint módosított szöveg.
+[^1]: Az 1. pont 1.1.4. alpont nyitó szövegrésze az 1853/2016. (XII. 27.) Korm. határozat 15. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.1.6. alpont b) pontja az 1853/2016. (XII. 27.) Korm. határozat 15. pont b) alpontja szerint módosított szöveg.
