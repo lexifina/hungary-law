@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-76-20-0
 | 2013-02-08 | 2004-76-20-0M.11 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2015-04-29 | 2004-76-20-0M.12 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2017-01-01 | 2004-76-20-0M.13 | 54/2016. (XII. 30.) EMMI rendelet |
+| 2017-04-01 | 2004-76-20-0M.14 | 54/2016. (XII. 30.) EMMI rendelet |
