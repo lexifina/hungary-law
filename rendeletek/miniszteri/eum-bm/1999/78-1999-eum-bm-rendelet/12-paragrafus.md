@@ -4,10 +4,10 @@
 
 (2) Az egészségi és fizikai alkalmassági vizsgálat eredményét a területileg illetékes foglalkozás-egészségügyi szakellátó vizsgálja felül.
 
-(3)[^2] A pszichikai alkalmassági vizsgálat eredményét az Országos Tisztifőorvosi Hivatal vizsgálja felül.
+(3)[^2] A pszichikai alkalmassági vizsgálat eredményét az Országos Közegészségügyi Intézet vizsgálja felül.
 
 (4) A felülvizsgálat során hozott döntésig a minősítés eredménye szerint kell eljárni.
 
 (5) A felülvizsgálatot 8 munkanap alatt kell elvégezni.
 
-[^2]: A 12. § (3) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^2]: A 12. § (3) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 16. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 14. § (2) bekezdése szerint módosított szöveg.
