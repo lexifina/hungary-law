@@ -1,3 +1,3 @@
-## 15. §[^8]
+## 15. §[^2]
 
-[^8]: A 15. § a 24. § (3) bekezdése alapján 2017. június 1-jén lép hatályba.
+[^2]: A 15. § a 24. § (3) bekezdése alapján 2017. június 1-jén lép hatályba.
