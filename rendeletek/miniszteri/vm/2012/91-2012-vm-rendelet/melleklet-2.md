@@ -1,4 +1,4 @@
-2. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^37]
+2. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^39]
 
 ## A vámhatóság adó-visszatérítéssel kapcsolatos adatszolgáltatásának adattartalma
 
@@ -14,7 +14,7 @@ a) a tárgyévben megművelt szőlőterület elhelyezkedése, nagysága (telepü
 
 b) a tárgyévben megművelt gyümölcsterület elhelyezkedése, nagysága (település, helyrajzi szám, területméret hektárban, kéttizedes pontossággal megadva).
 
-5. Az éves adóbevallás részeként benyújtott igénylés esetén a jövedékiadó-visszatérítés alapját képező, a IV. negyedéves adóbevallás részeként benyújtott igénylés esetén a tárgyévi teljes jövedékiadó-visszatérítés alapját képező számlaadatok [a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló 341/2007. (XII. 15.) Korm. rendelet alapján történő jövedéki adó visszaigényléséhez a szőlő- és gyümölcsös ágazatban felhasznált számlák alapján a Nemzeti Adó- és Vámhivatal vámszerve által igazolt]:
+5.[^40] Az éves adóbevallás részeként benyújtott igénylés esetén a jövedékiadó-visszatérítés alapját képező, a negyedik negyedéves és a tizenkettedik havi adóbevallás részeként benyújtott igénylés esetén a tárgyévi teljes jövedékiadó-visszatérítés alapját képező számlaadatok [a jövedéki törvény 117. §-a szerinti, a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszaigénylés alapján történő jövedéki adó visszaigényléséhez a szőlő- és gyümölcsös ágazatban felhasznált számlák alapján a vámhatóság által igazolt]:
 
 a) a számla száma;
 
@@ -26,6 +26,8 @@ d) a számlán feltüntetett gázolaj mennyisége literben;
 
 e) a visszatérítés alapját képző gázolaj mennyisége literben.
 
-6. Az éves adóbevallás részeként benyújtott igénylés esetén a jövedékiadó-visszatérítés alapját képező, a IV. negyedéves adóbevallás részeként benyújtott igénylés esetén a tárgyévi teljes jövedékiadó-visszatérítés alapját képező gázolaj 1 hektárra jutó mennyisége (liter/hektár).
+6.[^41] Az éves adóbevallás részeként benyújtott igénylés esetén a jövedékiadó-visszatérítés alapját képező, a negyedik negyedéves és a tizenkettedik havi adóbevallás részeként benyújtott igénylés esetén a tárgyévi teljes jövedékiadó-visszatérítés alapját képező gázolaj 1 hektárra jutó mennyisége (liter/hektár).
 
-[^37]: A 2. melléklet a 36/2014. (IV. 4.) VM rendelet 69. §-ával megállapított szöveg.
+[^39]: A 2. melléklet a 36/2014. (IV. 4.) VM rendelet 69. §-ával megállapított szöveg.
+[^40]: A 2. melléklet 5. pontja a 80/2016. (XII. 13.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^41]: A 2. melléklet 6. pontja a 80/2016. (XII. 13.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
