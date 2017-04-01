@@ -508,7 +508,7 @@
 
 ## 13.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^340]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^341]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásai
 
@@ -1670,4 +1670,4 @@ A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatotta
 
 10.3. Szenvedélybetegek ápoló-gondozó otthona, átmeneti intézménye, rehabilitációs intézménye, rehabilitációs célú lakóotthona
 
-[^340]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja szerint módosított szöveg.
+[^341]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja, az 1/2017. (II. 14.) EMMI rendelet 57. § (3) bekezdése szerint módosított szöveg.

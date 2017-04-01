@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2016-01-01 | 2000-1-20-85.30 | 55/2015. (XI. 30.) EMMI rendelet |
 | 2017-01-01 | 2000-1-20-85.31 | 40/2016. (XII. 21.) EMMI rendelet |
 | 2017-02-17 | 2000-1-20-85.32 | 1/2017. (II. 14.) EMMI rendelet |
+| 2017-04-01 | 2000-1-20-85.33 | 1/2017. (II. 14.) EMMI rendelet |

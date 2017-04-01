@@ -1,3 +1,3 @@
-## 116. §[^335] A komplex szükségletfelmérés időpontjában lakóotthoni ellátásban részesülő személyek esetében a komplex szükségletfelmérés eredménye a fennálló intézményi jogviszonyt nem érinti, határozott idejű megállapodás esetén a jogviszony a határozott idő lejártáig fennmarad.
+## 116. §[^336] A komplex szükségletfelmérés időpontjában lakóotthoni ellátásban részesülő személyek esetében a komplex szükségletfelmérés eredménye a fennálló intézményi jogviszonyt nem érinti, határozott idejű megállapodás esetén a jogviszony a határozott idő lejártáig fennmarad.
 
-[^335]: A 116. §-t az 55/2013. (VII. 29.) EMMI rendelet 11. §-a iktatta be.
+[^336]: A 116. §-t az 55/2013. (VII. 29.) EMMI rendelet 11. §-a iktatta be.
