@@ -82,15 +82,15 @@
 
 ## 6.5. Az elszámolási időszak időtartamában a felek az egyetemes szolgáltatási szerződésben állapodnak meg. Erre vonatkozó eltérő megállapodás hiányában az elszámolási időszak megegyezik a leolvasási időszakkal.
 
-## 6.6.[^585] Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók. A részszámla a felhasználási helyre az elosztó általi leolvasás hiányában a felhasználó havonként történő közlése, ennek elmaradása vagy a felek megállapodása esetén becsléssel megállapított mennyiség alapján kerül kiállításra.
+## 6.6.[^586] Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók. A részszámla a felhasználási helyre az elosztó általi leolvasás hiányában a felhasználó havonként történő közlése, ennek elmaradása vagy a felek megállapodása esetén becsléssel megállapított mennyiség alapján kerül kiállításra.
 
 ## 6.7. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát kibocsátani és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, mely magában foglalja a tételes pénzügyi elszámolást is.
 
 ## 6.8. Ha az elszámolás eredményeként a felhasználó folyószámláján túlfizetés mutatkozik, akkor az egyetemes szolgáltató
 
-## a)[^586] 3000 forintot meg nem haladó összeg esetén a felhasználót megillető összeget a felhasználó következő számlájában számolja el,
+## a)[^587] 3000 forintot meg nem haladó összeg esetén a felhasználót megillető összeget a felhasználó következő számlájában számolja el,
 
-## b)[^587] 3000 forintot meghaladó összeg esetén a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak visszafizetni.
+## b)[^588] 3000 forintot meghaladó összeg esetén a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak visszafizetni.
 
 ## 6.9. A 6.8. pontban foglalt rendelkezésektől csak a felhasználó kérésére lehet eltérni.
 
@@ -102,7 +102,7 @@
 
 ## 6.13. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak a kézhezvételtől számított legalább 8 nap rendelkezésére álljon.
 
-## 6.14.[^588]
+## 6.14.[^589]
 
 ## 6.15. A végszámlát – ha a szerződés ettől eltérően nem rendelkezik – nyomtatott formában kell a felhasználó rendelkezésére bocsátani.
 
@@ -144,15 +144,15 @@
 
 ## 8.4. A szerződésszegések jogkövetkezményei alkalmazásának részletes szabályait – a 8.5. pontban foglalt kivétellel – az egyetemes szolgáltató üzletszabályzata tartalmazza.
 
-## 8.5.[^589] A GET 29. § (5) bekezdésében meghatározott kötelezettség megszegése esetén az egyetemes szolgáltató kötbért köteles fizetni a felhasználónak, amelynek mértéke a Hivatal elosztói külön díj ellenében végezhető szolgáltatásokról szóló határozatában meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
+## 8.5.[^590] A GET 29. § (5) bekezdésében meghatározott kötelezettség megszegése esetén az egyetemes szolgáltató kötbért köteles fizetni a felhasználónak, amelynek mértéke a Hivatal elosztói külön díj ellenében végezhető szolgáltatásokról szóló határozatában meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
 
 ## a) 50%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 48 óránál később, de 72 órán belül kerül sor,
 
 ## b) 100%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 72 óránál később kerül sor.
 
-## 8.6.[^590] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
+## 8.6.[^591] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
 
-3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^591]
+3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^592]
 
 Üzemi és Kereskedelmi Szabályzat
 
@@ -234,10 +234,10 @@ f) Másodlagos kapacitáskereskedelem
 
 15. A szervezett földgázpiac működésének főbb szabályai
 
-[^585]: A Vhr. 2. számú melléklet 6.6. pontja a 123/2015. (V. 26.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^586]: A 2. számú melléklet 6.8. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^587]: A 2. számú melléklet 6.8. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^588]: A Vhr. 2. számú melléklet 6.14. pontját a 123/2015. (V. 26.) Korm. rendelet 35. §-a hatályon kívül helyezte.
-[^589]: A 2. melléklet 8.5. pontja a 458/2016. (XII. 23.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
-[^590]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^591]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. [A 344/2013. (IX. 27.) Korm. rendelet 9. §-ával elrendelt módosítás, amely szerint a 3. számú melléklet 17. pontja d) alponttal egészül ki, nem vezethető át.]
+[^586]: A Vhr. 2. számú melléklet 6.6. pontja a 123/2015. (V. 26.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^587]: A 2. számú melléklet 6.8. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^588]: A 2. számú melléklet 6.8. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^589]: A Vhr. 2. számú melléklet 6.14. pontját a 123/2015. (V. 26.) Korm. rendelet 35. §-a hatályon kívül helyezte.
+[^590]: A 2. melléklet 8.5. pontja a 458/2016. (XII. 23.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^591]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^592]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. [A 344/2013. (IX. 27.) Korm. rendelet 9. §-ával elrendelt módosítás, amely szerint a 3. számú melléklet 17. pontja d) alponttal egészül ki, nem vezethető át.]

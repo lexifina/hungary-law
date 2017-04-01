@@ -1,10 +1,10 @@
-77. §[^280] (1)[^281] A szállítási rendszerüzemeltető a szállítóvezeték betáplálási-kiadási pontjainak, a földgáztárolói engedélyes a földgáztároló szabad kapacitásait köteles a honlapján folyamatosan feltüntetni.
+77. §[^281] (1)[^282] A szállítási rendszerüzemeltető a szállítóvezeték betáplálási-kiadási pontjainak, a földgáztárolói engedélyes a földgáztároló szabad kapacitásait köteles a honlapján folyamatosan feltüntetni.
 
-(2)[^282] A szállítási rendszerüzemeltető a szállítóvezeték betáplálási-kiadási pontjának maximális kapacitásait, legnagyobb és legkisebb nyomását, továbbá a földgáztárolói engedélyes a földgáztároló kapacitását önállóan működő fizikai pontonként köteles a működési engedély iránti kérelmében feltüntetni.
+(2)[^283] A szállítási rendszerüzemeltető a szállítóvezeték betáplálási-kiadási pontjának maximális kapacitásait, legnagyobb és legkisebb nyomását, továbbá a földgáztárolói engedélyes a földgáztároló kapacitását önállóan működő fizikai pontonként köteles a működési engedély iránti kérelmében feltüntetni.
 
-(3)[^283] A szállítási rendszerüzemeltető és a földgáztárolói engedélyes engedélyében feltüntetett maximális kapacitás mértékén felül nem megszakítható kapacitás kizárólag a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti többletkapacitásként értékesíthető.
+(3)[^284] A szállítási rendszerüzemeltető és a földgáztárolói engedélyes engedélyében feltüntetett maximális kapacitás mértékén felül nem megszakítható kapacitás kizárólag a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti többletkapacitásként értékesíthető.
 
-[^280]: A Vhr. 77. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^281]: A Vhr. 77. § (1) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^282]: A Vhr. 77. § (2) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^283]: A Vhr. 77. § (3) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^281]: A Vhr. 77. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^282]: A Vhr. 77. § (1) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^283]: A Vhr. 77. § (2) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^284]: A Vhr. 77. § (3) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
