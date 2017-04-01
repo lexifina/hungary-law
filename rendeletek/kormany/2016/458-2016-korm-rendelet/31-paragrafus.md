@@ -1,4 +1,4 @@
-## 28–30. §[^14]
+## 28–30. §[^12]
 
 ## 10. Záró rendelkezések
 
@@ -8,7 +8,7 @@
 
 (3) A 12. § b) pontja 2018. január 1-jén lép hatályba.
 
-(4)–(5)[^15]
+(4)–(5)[^13]
 
-[^14]: A 28–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 31. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 28–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 31. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
