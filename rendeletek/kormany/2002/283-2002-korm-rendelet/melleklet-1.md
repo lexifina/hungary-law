@@ -44,9 +44,9 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 19. | Nemzeti Média- és Hírközlési Hatóság Hivatala | hírközlés |
 
-| 20. | Országos Tisztifőorvosi Hivatal | természetes gyógytényezők, gyógyhelyek természeti adottságainak védelme |
+| 20. | Budapest Főváros Kormányhivatala | természetes gyógytényezők, gyógyhelyek természeti adottságainak védelme |
 
 | 21. | Magyar Építész Kamara, megyei építész kamara | településtervezés |
 
 [^48]: A 21. §-t a 213/2003. (XII. 10.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be.
-[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított, ugyanezen módosító rendelet 53. § (2) bekezdése szerint módosított szöveg.
