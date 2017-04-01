@@ -114,7 +114,7 @@ b) temetési költségekre nyújtott temetési támogatás;
 
 36. az adós által a jogi segítségnyújtás keretében igénybe vett pénzbeli támogatásnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
-37. az egészségügyi és szociális intézményben a gondozottak részére kifizetett munkaterápiás jutalomnak, illetve a munka-rehabilitációs díjnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
+37.[^1] az egészségügyi és szociális intézményben a gondozottak részére kifizetett munkaterápiás jutalomnak, illetve a fejlesztési foglalkoztatási óradíjnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
 38. a kötött felhasználású diákhitelként folyósított összeg, továbbá a szabad felhasználású diákhitelként folyósított összegből az öregségi nyugdíj legkisebb összegének felét meg nem haladó havi összeg vagy az ennek megfelelő összegű félévenként egyösszegben folyósított hitel;
 
@@ -139,3 +139,5 @@ b) temetési költségekre nyújtott temetési támogatás;
 48. az adósságrendezés kezdeményezését követően kapott bevételnek az a része, amelyet az adósnak az Are. tv. 8. § (2) bekezdés d) pontjában meghatározott tartozásként be kell fizetnie az adóhatóságnak.
 
 (2) Az adós által az adósságrendezés időtartama alatt megszerzett örökség csak a hagyatéki tartozások kielégítését követően vonható be az adósságrendezési eljárásba. Az adós a hagyatéki eljárásban köteles kérni az eljáró közjegyzőt, hogy a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 65. § (1) bekezdése szerint bocsásson ki felhívást az ismeretlen hagyatéki tartozások jogosultjai részére.
+
+[^1]: A 2. § (1) bekezdés 37. pontja a 448/2016. (XII. 19.) Korm. rendelet 58. §-a szerint módosított szöveg.
