@@ -1,4 +1,4 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^84]
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^87]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -264,6 +264,4 @@ A szárítószekrény olyan felépítésű legyen, hogy a hő gyorsan átjárja 
 
 A szárazanyagtartalmat – a minta tömegszázalékában – a következő képlettel számítjuk ki:
 
-|  | Szárazanyagtartalom % = |  |
-
-[^84]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^87]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.

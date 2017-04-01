@@ -1,4 +1,4 @@
-30. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^83]
+30. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^86]
 
 ## A Magyar Élelmiszerkönyv 3-1/15-1 számú előírása az etilalkohol–víz elegyek alkoholtartalmának meghatározásához szükséges táblázatról[^1.]
 
@@ -142,5 +142,5 @@ A képletben alkalmazott állandók:
 
 | 2 |  | 1,345 | 612 | 883 | 493 | 354 · 10–8 |  |  |  |  |  |  |  |  |
 
-[^83]: A 30. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 64/2015. (X. 16.) FM rendelet 2. §-a szerint módosított szöveg.
+[^86]: A 30. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 64/2015. (X. 16.) FM rendelet 2. §-a szerint módosított szöveg.
 [^1.]: Az előírás számának megváltoztatása a 76/766/EGK irányelv hatályon kívül helyezése miatt szükséges.
