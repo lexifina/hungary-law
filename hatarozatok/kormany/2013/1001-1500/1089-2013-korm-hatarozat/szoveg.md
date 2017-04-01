@@ -58,13 +58,13 @@ c) a fejlesztéspolitikáért felelős miniszter által vezetett minisztérium k
 
 d) az agrárpolitikáért felelős miniszter által vezetett minisztérium képviselője,
 
-e) az Állami Népegészségügyi és Tisztiorvosi Szolgálat képviselője,
+e)[^1] az országos tisztifőorvos vagy a képviseletében eljáró személy,
 
 f) a Büntetés-végrehajtás Országos Parancsnokságának képviselője, valamint
 
 g) a Nemzeti Adó- és Vámhivatal képviselője.
 
-9.[^1] A KKB állandó meghívottai:
+9.[^2] A KKB állandó meghívottai:
 
 a) az Országos Rendőr-főkapitányság képviselője,
 
@@ -96,4 +96,5 @@ g) a Nemzeti Bűnmegelőzési Tanács képviselője.
 
 17. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
 
-[^1]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 20. pontjával megállapított szöveg.
+[^1]: A 8. pont e) pontja az 1853/2016. (XII. 27.) Korm. határozat 19. pontjával megállapított szöveg.
+[^2]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 20. pontjával megállapított szöveg.
