@@ -24,7 +24,7 @@
 
 12. jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél,
 
-13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a központi nyugdíjbiztosítási szervnél,
+13. – azok belső igazgatási szervei kivételével – az egészségbiztosítási szerv központi szervénél,
 
 14.
 
