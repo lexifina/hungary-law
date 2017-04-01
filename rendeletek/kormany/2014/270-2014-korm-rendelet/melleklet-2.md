@@ -60,10 +60,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 13. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 13. | egészségügy | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 14. | örökségvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
 | 15. | régészet | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 89. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 89. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 89. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
