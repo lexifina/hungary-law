@@ -162,8 +162,6 @@
 
 | 80 | Tatabánya | TB-ENERGO Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 0 | 2 227 |
 
-| 81 | Tatabánya | Tatabánya Erőmű Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 18 646 | 2 227 |
-
 | 82 | Tiszaújváros | Tisza-Therm Fűtőerőmű Kft. | TiszaSzolg 2004 Kft. | 9 803 | 2 027 |
 
 | 83 | Vác | Veolia Energia Magyarország Zrt. | Váci Távhő Nonprofit Közhasznú Kft. | 0 | 2 768 |
@@ -173,6 +171,8 @@
 | 85 | Vasvár | Vasi Triász Kft. | RÉGIÓHŐ Kft. | 0 | 1 317 |
 
 | 86 | Veszprém | Veszprém-Kogeneráció Energiatermelő Zrt. | ”VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 3 021 |
+
+| 87 | Siófok | Cothec Kft. | Balaton-parti Kft. | 9368 | 2063 |
 
 2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^15]
 
