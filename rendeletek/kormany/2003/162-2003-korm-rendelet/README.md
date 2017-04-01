@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-162-20-
 | 2015-07-08 | 2003-162-20-22.22 | 177/2015. (VII. 7.) Korm. rendelet |
 | 2016-11-11 | 2003-162-20-22.23 | 332/2016. (XI. 8.) Korm. rendelet |
 | 2017-01-01 | 2003-162-20-22.24 | 62/2010. (III. 18.) Korm. rendelet |
+| 2017-04-01 | 2003-162-20-22.25 | 332/2016. (XI. 8.) Korm. rendelet |
