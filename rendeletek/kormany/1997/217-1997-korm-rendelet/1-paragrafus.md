@@ -4,7 +4,7 @@
 
 (2)[^2] E rendelet alkalmazásában
 
-a)[^3] gyógyfürdő: az a létesítmény, amit a természetes gyógytényezőkről szóló rendelet alapján az Országos Tisztifőorvosi Hivatal annak nyilvánít,
+a)[^3] gyógyfürdő: az a létesítmény, amit a természetes gyógytényezőkről szóló rendelet alapján a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala annak nyilvánít,
 
 b) jövedelem:
 
@@ -84,7 +84,7 @@ jelöli ki.
 
 [^1]: A Vhr. 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^2]: A Vhr. 1. §-ának (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A Vhr. 1. § (2) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A Vhr. 1. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (12) bekezdés a) pontja szerint módosított szöveg.
 [^4]: A Vhr 1. § (2) bekezdés b) pont ba) alpontját a 254/2013. (VII. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
 [^5]: A Vhr. 1. § (2) bekezdés c) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A Vhr. 1. § (2) bekezdés d) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
