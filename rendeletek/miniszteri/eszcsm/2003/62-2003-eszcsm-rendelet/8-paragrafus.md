@@ -30,22 +30,22 @@ c) a gyanús élelmiszereket és
 
 d) a megtett intézkedéseket.
 
-(3)[^14] A kormányhivatal a kapott tájékoztatóról jelentést tesz az OTH-nak és az OEK-nek.
+(3)[^14] A kormányhivatal a kapott tájékoztatóról jelentést tesz az országos tisztifőorvosnak és az OKI-nak.
 
-(4)[^15] A jelentett esetek vizsgálatának lényeges eredményeiről a kormányhivatal folyamatosan tájékoztatja az OTH-t és az OEK-et.
+(4)[^15] A jelentett esetek vizsgálatának lényeges eredményeiről a kormányhivatal folyamatosan tájékoztatja az országos tisztifőorvost és az OKI-t.
 
-(5)[^16] Az OTH az (1) bekezdés a)–c) pontja szerinti esetekről haladéktalanul tájékoztatja az az egészségügyért felelős miniszter által vezetett minisztériumot.
+(5)[^16]
 
-(6)[^17] A súlyos vagy tömeges élelmiszer eredetű megbetegedés veszélyével fenyegető [(1) bekezdés] vagy külföldi vonatkozással bíró élelmiszer-szennyezettség észleléséről és egyéb veszélyhelyzetekről a kormányhivatal haladéktalanul értesíti az OTH-t és az OEK-et.
+(6)[^17] A súlyos vagy tömeges élelmiszer eredetű megbetegedés veszélyével fenyegető [(1) bekezdés] vagy külföldi vonatkozással bíró élelmiszer-szennyezettség észleléséről és egyéb veszélyhelyzetekről a kormányhivatal haladéktalanul értesíti az országos tisztifőorvost és az OKI-t.
 
-(7)[^18] A (6) bekezdés szerinti esetekről az OTH a gyors vészjelző rendszer keretében értesíti a NÉBIH-et és a Pest Megyei Kormányhivatalt.
+(7)[^18] A (6) bekezdés szerinti esetekről az országos tisztifőorvos a gyors vészjelző rendszer keretében értesíti a NÉBIH-et és a Pest Megyei Kormányhivatalt.
 
-(8)[^19] Az (1) bekezdés szerinti esemény vizsgálat lezárásakor a kormányhivatal tesz összefoglaló jelentést az OTH és az OEK részére.
+(8)[^19] Az (1) bekezdés szerinti esemény vizsgálat lezárásakor a kormányhivatal tesz összefoglaló jelentést az országos tisztifőorvos és az OKI részére.
 
 [^13]: A 8. § (1) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 54. § a) és e) pontja szerint módosított szöveg.
-[^14]: A 8. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és f) pontja szerint módosított szöveg.
-[^15]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és g) pontja szerint módosított szöveg.
-[^16]: A 8. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont ec) alpontja szerint módosított szöveg.
-[^17]: A 8. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és g) pontja szerint módosított szöveg.
-[^18]: A 8. § (7) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 22. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^19]: A 8. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és h) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^16]: A 8. § (5) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 33. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 8. § (6) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^18]: A 8. § (7) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 22. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés e) és f) pontja szerint módosított szöveg.
+[^19]: A 8. § (8) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés g) pontja szerint módosított szöveg.

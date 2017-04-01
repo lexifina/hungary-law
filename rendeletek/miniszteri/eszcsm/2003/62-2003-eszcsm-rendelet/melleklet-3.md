@@ -2,7 +2,7 @@
 
 | A gyanú iránya | Vizsgálati anyag | Vizsgáló laboratórium |
 
-| Botulizmus | vér | OEK |
+| Botulizmus | vér | OKI |
 
 |  | élelmiszer | NÉBIH |
 
