@@ -34,7 +34,7 @@
 
 | 16. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 174/2010. (V. 13.) Korm. rendelethez[^10]
+2. melléklet a 174/2010. (V. 13.) Korm. rendelethez[^11]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -58,11 +58,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | Régészet és műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-| 10. | Gyógyfürdők, gyógyhely, ásvány-, gyógyvíz és gyógyiszap lelőhely védelme | Országos Tisztifőorvosi Hivatal | egészségügyért felelős miniszter |
+| 10. | Gyógyfürdők, gyógyhely, ásvány-, gyógyvíz és gyógyiszap lelőhely védelme | Budapest Főváros Kormányhivatala | egészségügyért felelős miniszter |
 
 | 11. | Határrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 12. | Egészségügy, közegészségügy | illetékes járási (fővárosi kerületi) hivatal | Országos Tisztifőorvosi Hivatal |
+| 12. | Egészségügy, közegészségügy | illetékes fővárosi és megyei kormányhivatal | illetékes fővárosi és megyei kormányhivatal |
 
 | 13. | Bányászat, bányászati vagy gázipari létesítmény érintettsége esetén | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
@@ -82,4 +82,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | Közlekedésrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2) Korm. rendelet 16. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^11]: A 2. melléklet a 380/2016. (XII. 2) Korm. rendelet 16. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
