@@ -1,1 +1,0 @@
-## 11. § A járási hivatal illetékességi területén ellátja az egészségügyi államigazgatási szerv mindazon népegészségügyi, hatósági, szakmai felügyeleti feladatait, amelyet jogszabály nem utal a Szolgálat más szerve, vagy a kormányhivatal feladatkörébe.
