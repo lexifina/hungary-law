@@ -4,11 +4,11 @@
 
 (2) A Kormány a hatóságnak a duzzasztással szabályozott víziúton vízlépcsőnél a víziút osztálya szerinti méretű úszólétesítmények, illetve azok tolt kötelékének áthaladását biztosító hajózsilip és a hozzá tartozó létesítmények terveinek, létesítésének és üzembe helyezésének engedélyezésére irányuló eljárásában
 
-a)[^52] – a hajózsilip méretei tekintetében a jogszabályi követelményeknek, továbbá a tervezett, felújított vagy átalakított hajózsilipnek és tartozékainak a zavartalan és biztonságos hajóforgalom lebonyolítására való alkalmasságának és a nemzetközi gyakorlatnak való megfelelőségének szakkérdésében – az első fokú eljárásban a hajózási feladatkörében országos illetékességgel eljáró Budapest Főváros Kormányhivatalát, a másodfokú eljárásban a közlekedésért felelős minisztert, továbbá
+a)[^52] – a hajózsilip méretei tekintetében a jogszabályi követelményeknek, továbbá a tervezett, felújított vagy átalakított hajózsilipnek és tartozékainak a zavartalan és biztonságos hajóforgalom lebonyolítására való alkalmasságának és a nemzetközi gyakorlatnak való megfelelőségének szakkérdésében – az első fokú eljárásban ahajózási feladatkörében országos illetékességgel eljáró Budapest Főváros Kormányhivatalát, a másodfokú eljárásban a közlekedésért felelős minisztert, továbbá
 
 b)[^53] külterület, belterületen országos jelentőségű védett természeti terület, Natura 2000 terület vagy egyedi tájérték közvetlen érintettsége esetén – annak elbírálása érdekében, hogy a táj- és természetvédelem jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e – az első fokú eljárásban a területi természetvédelmi hatóságot, a másodfokú eljárásban az országos természetvédelmi hatóságot,
 
-c)[^54] ha a tevékenység helyi jelentőségű védett természeti területet érint, – annak elbírálása érdekében, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek megfelel-e – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban a területi természetvédelmi hatóságot
+c)[^54] ha a tevékenység helyi jelentőségű védett természeti területet érint, – annak elbírálása érdekében, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek megfelel-e – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban aterületi természetvédelmi hatóságot
 
 szakhatóságként jelöli ki.
 

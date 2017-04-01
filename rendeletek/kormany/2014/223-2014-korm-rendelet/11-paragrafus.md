@@ -8,7 +8,7 @@ b) annak elbírálására, hogy ivóvízkivétel, vízellátás, szennyvízelvez
 
 ba)[^14] az első fokú eljárásban a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, a másodfokú eljárásban a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt,
 
-bb)[^15] a legalább 1000 m3/nap kapacitású vagy 5000 főnél nagyobb állandó népességet ellátó, valamint az egy járás határán átnyúló ivóvízellátó rendszerek esetében az első fokú eljárásban a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, a másodfokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalát,
+bb)[^15] a legalább 1000 m3/nap kapacitású vagy 5000 főnél nagyobb állandó népességet ellátó, valamint az egy járás határán átnyúló ivóvízellátó rendszerek esetében az első fokú eljárásban a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, a másodfokú eljárásban az országos tisztifőorvost,
 
 c)[^16] az elvi vízjogi engedélyezés kivételével, ha a tevékenység a termőföldre hatást gyakorol vagy a vízilétesítmény termőföldön valósul meg – a termőföld minőségi védelme követelményeinek való megfelelés kérdésében – az első fokú eljárásban a megyei kormányhivatal talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalát, a másodfokú eljárásban a talajvédelmi hatáskörben eljáró Pest Megyei Kormányhivatalt,
 
@@ -30,7 +30,7 @@ i)[^22] vízjogi létesítési vagy vízjogi megszüntetési engedélyezés eset
 
 ia)[^23] gyorsforgalmi utak és közúti határátkelőhelyek esetében az első fokú eljárásban az útügyi közlekedési hatósági hatáskörben országos illetékességgel eljáró Budapest Főváros Kormányhivatalát, a másodfokú eljárásban a közlekedésért felelős miniszter,
 
-ib)[^24] országos közutak és a települési önkormányzat tulajdonában lévő helyi közutak esetében az első fokú eljárásban a fővárosi és megyei kormányhivatal közlekedési feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala , a másodfokú eljárásban az útügyi hatáskörben eljáró Budapest Főváros Kormányhivatalát,
+ib)[^24] országos közutak és a települési önkormányzat tulajdonában lévő helyi közutak esetében az első fokú eljárásban afővárosi és megyei kormányhivatal közlekedési feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala , a másodfokú eljárásban az útügyi hatáskörben eljáró Budapest Főváros Kormányhivatalát,
 
 ic)[^25] a fővárosi önkormányzat tulajdonában lévő helyi közutak esetében az első fokú eljárásban a Budapest Főváros Kormányhivatala útügyi hatáskörben eljáró III. Kerületi Hivatalát, a másodfokú eljárásban az útügyi hatáskörben eljáró Budapest Főváros Kormányhivatalát,
 
@@ -51,7 +51,7 @@ l)[^29] ha az eljárás halastavakkal, horgásztavakkal, jóléti tavakkal, víz
 [^12]: A 11. § (1) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 231. § a) pontjával megállapított, nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
 [^13]: A 11. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^14]: A 11. § (1) bekezdés b) pont ba) alpontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^15]: A 11. § (1) bekezdés b) pont bb) alpontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 11. § (1) bekezdés b) pont bb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^16]: A 11. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^17]: A 11. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés e) pontja szerint módosított szöveg.
 [^18]: A 11. § (1) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés d) pontja szerint módosított szöveg.
