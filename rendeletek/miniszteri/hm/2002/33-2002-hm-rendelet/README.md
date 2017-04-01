@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-33-20-1
 | 2012-12-26 | 2002-33-20-15.7 | 5/2010. (III. 9.) HM rendelet |
 | 2016-01-01 | 2002-33-20-15.8 | 21/2015. (XII. 30.) HM rendelet |
 | 2017-01-01 | 2002-33-20-15.9 | 5/2010. (III. 9.) HM rendelet |
+| 2017-04-01 | 2002-33-20-15.10 | 27/2016. (XII. 23.) HM rendelet |

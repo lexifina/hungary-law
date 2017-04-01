@@ -2,7 +2,7 @@
 
 14. § (1) A képzést és kiképzést, valamint a sugárvédelmi képzést az At. hatálya alá tartozó anyagokkal, haditechnikai termékekkel az oktatási, felkészítési, kiképzési tervekben foglaltak szerint kell végrehajtani.
 
-(2) A terepen sugárforrások felhasználásával végrehajtásra kerülő kiképzésekre (gyakorlatokra) sugárvédelmi tervet kell készíteni, melyet a hatóság hagy jóvá. Nyitott radioaktív készítmények terepen való alkalmazása esetén a hatóság az OSSKI szakvéleményét kérheti.
+(2)[^34] A terepen sugárforrások felhasználásával végrehajtásra kerülő kiképzésekre (gyakorlatokra) sugárvédelmi tervet kell készíteni, melyet a hatóság hagy jóvá. Nyitott radioaktív készítmények terepen való alkalmazása esetén a hatóság az OKI szakvéleményét kérheti.
 
 (3) Az (1) bekezdés szerinti képzést csak megfelelő sugárvédelmi képzettséggel rendelkező személy vezetheti.
 
@@ -21,3 +21,5 @@ a) betarthatóak legyenek a külön jogszabályokban meghatározott környezetv�
 b) minden esetben ellenőrzött, felügyelt területet és biztonsági övezetet kell kijelölni, és jól látható jelzésekkel kell elkülöníteni;
 
 c) szükség esetén a lakosságot értesíteni kell a gyakorlat jellegéről, az illetékes önkormányzat útján.
+
+[^34]: A 14. § (2) bekezdése a 27/2016. (XII. 23.) HM rendelet 3. § d) pontja szerint módosított szöveg.
