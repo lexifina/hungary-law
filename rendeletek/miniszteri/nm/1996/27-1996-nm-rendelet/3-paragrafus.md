@@ -14,14 +14,14 @@ c) fokozott expozíció esetén az érintett személyt vizsgálatra beküldő fo
 
 (3) A bejelentést meg kell ismételni, ha a korábban keresőképesként bejelentett személy keresőképtelenné vált. Tanulói, illetve hallgatói jogviszonyban lévő személy esetén, a gyakorlati képzés helyén működő foglalkozás-egészségügyi orvos végzi a bejelentést, aki ezzel egy időben értesíti az oktatási intézményt.
 
-(4)[^9] Az első észlelő orvosnak lehetősége van a munkavállalót további vizsgálatok végzésére a munkáltató telephelye szerint illetékes foglalkozás-egészségügyi szakellátó helyre vagy az Országos Tisztifőorvosi Hivatalhoz (a továbbiakban: OTH) beutalnia. A beutalóra rá kell vezetni a Bejelentve nincs! megjegyzést.
+(4)[^9] Az első észlelő orvosnak lehetősége van a munkavállalót további vizsgálatok végzésére a munkáltató telephelye szerint illetékes foglalkozás-egészségügyi szakellátó helyre vagy a munkahigiénés és foglalkozás-egészségügyi szervhez beutalnia. A beutalóra rá kell vezetni a Bejelentve nincs! megjegyzést.
 
-(5)[^10] Ha a (4) bekezdés szerinti foglalkozás-egészségügyi szakellátóhely a kórisme felállításához szükséges feltételekkel nem rendelkezik, vagy ha egyéb okból indokoltnak tartja, kezdeményezi a hozzá beutalt munkavállaló beutalását az OTH-hoz. Ebben az esetben a beutalóra rá kell vezetni a Bejelentve nincs! megjegyzést.
+(5)[^10] Ha a (4) bekezdés szerinti foglalkozás-egészségügyi szakellátóhely a kórisme felállításához szükséges feltételekkel nem rendelkezik, vagy ha egyéb okból indokoltnak tartja, kezdeményezi a hozzá beutalt munkavállaló beutalását a munkahigiénés és foglalkozás-egészségügyi szervhez. Ebben az esetben a beutalóra rá kell vezetni a Bejelentve nincs! megjegyzést.
 
-(6)[^11] A tüdőfibrózist okozó porok esetében a diagnózist felállító egészségügyi szolgáltató, illetve az OTH végzi a bejelentést.
+(6)[^11] A tüdőfibrózist okozó porok esetében a diagnózist felállító egészségügyi szolgáltató, illetve a munkahigiénés és foglalkozás-egészségügyi szerv végzi a bejelentést.
 
 [^7]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 48. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (4) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés b) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^10]: A 3. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés c) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^11]: A 3. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés d) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés b) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 3. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés c) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 3. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés d) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés c) pontja szerint módosított szöveg.

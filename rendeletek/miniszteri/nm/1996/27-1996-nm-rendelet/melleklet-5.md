@@ -18,7 +18,7 @@
 
 | 2 – Foglalkozás-egészségügyi szakellátó hely orvosa |
 
-| 3 – Országos Tisztifőorvosi Hivatal |
+| 3 – munkahigiénés és foglalkozás-egészségügyi szerv |
 
 | 4 – egyéb orvos |
 

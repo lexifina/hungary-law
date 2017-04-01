@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-27-20-3
 | 2015-01-01 | 1996-27-20-3D.11 | 3/2012. (II. 10.) NGM rendelet |
 | 2015-04-01 | 1996-27-20-3D.12 | 3/2012. (II. 10.) NGM rendelet |
 | 2017-01-01 | 1996-27-20-3D.13 | 62/2016. (XII. 29.) NGM rendelet |
+| 2017-04-01 | 1996-27-20-3D.14 | 3/2012. (II. 10.) NGM rendelet |
