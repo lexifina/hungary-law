@@ -20,7 +20,7 @@ d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 
 (7)[^49] A munkavédelmi feladatkörében eljáró járási hivatal által lefolytatott hatósági ügyben felügyeleti szervként a miniszter jár el.
 
-[^45]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^45]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^46]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés e) pontja szerint módosított szöveg.
 [^47]: A 14. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés e) pontja szerint módosított szöveg.
 [^48]: A 14. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (27) bekezdés b) pontja szerint módosított szöveg.
