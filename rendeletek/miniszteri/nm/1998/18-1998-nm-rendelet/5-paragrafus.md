@@ -46,7 +46,7 @@ h) diphtheria-tetanus-sejtmentes pertussis oltóanyaggal és inaktivált poliov�
 
 ## esedékes.
 
-(3)[^12] A (2) bekezdés b), d) és e) pontjában foglalt pneumococcus oltásokat a 2014. június 30-a után születettekre vonatkozóan kell alkalmazni. A 2014. július 1-je előtt született csecsemők és a már megkezdett, önkéntesen igénybe vehető térítésmentes pneumococcus elleni védőoltásban részesült csecsemők immunizálását az OEK VML-ben meghatározott oltási rend szerint kell folytatni, illetve befejezni.
+(3)[^12] A (2) bekezdés b), d) és e) pontjában foglalt pneumococcus oltásokat a 2014. június 30-a után születettekre vonatkozóan kell alkalmazni. A 2014. július 1-je előtt született csecsemők és a már megkezdett, önkéntesen igénybe vehető térítésmentes pneumococcus elleni védőoltásban részesült csecsemők immunizálását a VML-ben meghatározott oltási rend szerint kell folytatni, illetve befejezni.
 
 (4)[^13]
 
@@ -83,7 +83,7 @@ e)[^23] elmaradt BCG oltás esetén az 1. életév
 [^9]: Az 5. § (1) bekezdése a 13/2008. (IV. 8.) EüM rendelet 2. §-ával megállapított szöveg.
 [^10]: Az 5. § (1) bekezdés k) pontját a 23/2014. (III. 27.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^11]: Az 5. § (2) bekezdése a 23/2014. (III. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^12]: Az 5. § új (3) bekezdését a 33/2005. (VIII. 24.) EüM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva. Az 5. § (3) bekezdése a 23/2014. (III. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 5. § új (3) bekezdését a 33/2005. (VIII. 24.) EüM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva. Az 5. § (3) bekezdése a 23/2014. (III. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 2. pontja szerint módosított szöveg.
 [^13]: Az 5. § új (4) bekezdését a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatva. Hatályon kívül helyezte a 21/2012. (IV. 4.) NEFMI rendelet 26. § a) pontja.
 [^14]: Az 5. § (3) bekezdése a 9/2002. (III. 12.) EüM rendelet 2. §-ának (3) bekezdésével megállapított szöveg, számozását a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése (5) bekezdésre változtatta.
 [^15]: Az 5. § (5) bekezdés a) pontja az 5/2009. (III. 20.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezés 2009. szeptember 1-jén lépett hatályba azzal, hogy az 5. § (5) bekezdés a) pontja szerinti oltást első alkalommal a 2009/2010-es tanévben kezdődő iskolai kampányoltástól kell alkalmazni.

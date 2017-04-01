@@ -16,10 +16,10 @@ d) az intravénás kábítószer-használók
 
 ## részesíthetők védőoltásban.
 
-(4)[^35] Influenza megbetegedés ellen az OEK VML szerint az adott évben veszélyeztetettnek minősülő személyek részesíthetők védőoltásban.
+(4)[^35] Influenza megbetegedés ellen a VML szerint az adott évben veszélyeztetettnek minősülő személyek részesíthetők védőoltásban.
 
-(5)[^36] A Human papilloma vírus ellen a 12. életévüket betöltött és az általános iskola 7. évfolyamát végző lánygyermekek iskolai kampányoltás keretében az OEK VML-ben foglalt oltási rend és az orvosszakmai szempontok figyelembevételével térítésmentes védőoltásban részesíthetők.
+(5)[^36] A Human papilloma vírus ellen a 12. életévüket betöltött és az általános iskola 7. évfolyamát végző lánygyermekek iskolai kampányoltás keretében a VML-ben foglalt oltási rend és az orvosszakmai szempontok figyelembevételével térítésmentes védőoltásban részesíthetők.
 
 [^34]: A 7. § (3) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^35]: A 7. § (4) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § c) pontja szerint módosított szöveg.
-[^36]: A 7. § (5) bekezdését újonnan a 43/2014. (VIII. 19.) EMMI rendelet 6. §-a iktatta be.
+[^35]: A 7. § (4) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^36]: A 7. § (5) bekezdését újonnan a 43/2014. (VIII. 19.) EMMI rendelet 6. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 2. pontja szerint módosított szöveg.

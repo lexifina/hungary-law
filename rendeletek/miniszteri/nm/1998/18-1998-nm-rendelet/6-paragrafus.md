@@ -10,7 +10,7 @@ c)[^27] egy település lakosságát érinti, akkor az országos tisztifőorvos 
 
 ## rendeli el.
 
-(2)[^28] Az OEK által évente kiadott VML-ben foglaltaknak megfelelően aktív immunizálásban kell részesíteni
+(2)[^28] A VML-ben foglaltaknak megfelelően aktív immunizálásban kell részesíteni
 
 a) a hastífuszos beteg és baktériumhordozó környezetében élő személyeket,
 
@@ -50,7 +50,7 @@ a) a HBsAg pozitív anyák újszülöttjei,
 
 b)[^31] a bizonyítottan HBsAg pozitív beteg vérével szennyezett eszközzel sérült, és korábban aktív immunizálásban nem részesült vagy bizonyítottan non-responder személyek.
 
-(6)[^32] A tetanusz elleni passzív immunizálásban részesítendő személyek körét az OEK adott évre kiadott VML-e határozza meg.
+(6)[^32] A tetanusz elleni passzív immunizálásban részesítendő személyek körét a VML határozza meg.
 
 (7)[^33] Megbetegedési veszély elhárítása esetén a kötelező védőoltások alkalmazásánál az egészségügyi államigazgatási szerv engedélyével oltóhelyen kívül is végezhető védőoltás, amennyiben az oltásra kijelölt helyen rendelkezésre áll a
 
@@ -62,9 +62,9 @@ c) veszélyes hulladék kezeléséhez szükséges tárgyi feltétel.
 
 [^26]: A 6. § (1) bekezdés b) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
 [^27]: A 6. § (1) bekezdés c) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § c) pontja szerint módosított szöveg.
-[^28]: A 6. § (2) bekezdés nyitó szövegrésze a 21/2012. (IV. 4.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^28]: A 6. § (2) bekezdés nyitó szövegrésze a 21/2012. (IV. 4.) NEFMI rendelet 4. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 3. pontja szerint módosított szöveg.
 [^29]: A 6. § (2) bekezdés k) pontját az 5/2009. (III. 20.) EüM rendelet 2. § (1) bekezdése iktatta be.
 [^30]: A 6. § (4) bekezdés a) pontja a 23/2014. (III. 27.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^31]: A 6. § (5) bekezdés b) pontja a 23/2014. (III. 27.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
-[^32]: A 6. § (6) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § b) pontja szerint módosított szöveg.
+[^32]: A 6. § (6) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § b) pontja szerint, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 4. pontja szerint módosított szöveg.
 [^33]: A 6. § (7) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 4. § (3) bekezdése iktatta be.
