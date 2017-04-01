@@ -1,3 +1,3 @@
-## 37. §[^27]
+## 37. §[^23]
 
-[^27]: A 37. § a 49. § (6) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^23]: A 37. § a 49. § (6) bekezdése alapján 2017. július 1-jén lép hatályba.
