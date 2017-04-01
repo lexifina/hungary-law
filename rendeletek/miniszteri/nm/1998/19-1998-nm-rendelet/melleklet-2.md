@@ -44,7 +44,7 @@
 
 ## A gépkocsi valamennyi ülésének rendelkeznie kell biztonsági övvel.
 
-## A szolgáltatónak a működési engedélye módosítását kell kérnie az Országos Tisztifőorvosi Hivataltól, ha az általa üzemeltetett és működési engedéllyel rendelkező közúti betegszállító gépjárművet más közúti betegszállító gépjárművel váltja ki.
+## A szolgáltatónak a működési engedélye módosítását kell kérnie a járási hivataltól, ha az általa üzemeltetett és működési engedéllyel rendelkező közúti betegszállító gépjárművet más közúti betegszállító gépjárművel váltja ki.
 
 ## 1.[^45] Ülőbeteg-szállító kocsi: gépkocsivezetővel és szükség esetén betegkísérővel kivonuló, finanszírozási szerződéssel rendelkező betegszállító szolgáltatók esetén EDR rádióval, a finanszírozási szerződéssel nem rendelkező betegszállító szolgáltatók esetén pedig URH rádióval vagy rádiótelefonnal, továbbá megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal ellátott gépkocsi, mely teljesíti az alábbi műszaki paramétereket:
 
@@ -78,7 +78,7 @@
 
 ## Közös tartalék gépjármű akkor alkalmazható, ha a betegszállító szolgáltatók közül legalább az egyik 3 vagy annál kevesebb aktív gépjárművel rendelkezik.
 
-## A tartalék gépjármű rendkívüli helyzetben az Országos Tisztifőorvosi Hivatal kijelölése alapján az aktív gépjárművek mellett is végezhet betegszállítási feladatot. A kijelölés tényéről, a rendkívüli helyzet okáról, kezdő és végső dátumáról az Országos Tisztifőorvosi Hivatal határozatban rendelkezik és azt megküldi a finanszírozó területileg illetékes szervének.
+## A tartalék gépjármű rendkívüli helyzetben a járási hivatal kijelölése alapján az aktív gépjárművek mellett is végezhet betegszállítási feladatot. A kijelölés tényéről, a rendkívüli helyzet okáról, kezdő és végső dátumáról a járási hivatal határozatban rendelkezik és azt megküldi a finanszírozó területileg illetékes szervének.
 
 2. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^51]
 
@@ -90,11 +90,11 @@
 [^41]: Az 1. számú melléklet I. pont 2. b) alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^42]: Az 1. számú melléklet I. pont 2. c)–d) alpontját a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdése hatályon kívül helyezte.
 [^43]: Az 1. számú melléklet II/A. pontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^44]: Az 1. számú melléklet II/B. pont nyitó szövegrésze a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^44]: Az 1. számú melléklet II/B. pont nyitó szövegrésze a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § f) pontja szerint módosított szöveg.
 [^45]: Az 1. számú melléklet II/B. pont 1. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése szerint módosított szöveg.
 [^46]: Az 1. számú melléklet II/B. 1. pont b) alpontja a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^47]: Az 1. számú melléklet II/B. 1. pont c) alpontja a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^48]: Az 1. számú melléklet II/B. pont 2. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése, a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^49]: Az 1. számú melléklet II/B. 2. pont a) alpontja a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^50]: Az 1. számú melléklet II. pont II/B. 4. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^50]: Az 1. számú melléklet II. pont II/B. 4. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § g) pontja szerint módosított szöveg.
 [^51]: A 2. számú melléklet a 60/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § h) pontja szerint módosított szöveg.

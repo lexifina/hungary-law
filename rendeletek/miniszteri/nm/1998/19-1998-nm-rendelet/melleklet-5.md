@@ -56,6 +56,6 @@
 
 Az emblémát a betegszállító gépjármű szélvédőjén, a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 97. § (2) bekezdés c) pontjában foglaltak szerint kell elhelyezni. Az embléma fehér alapon fekete betűket tartalmaz, átmérője 10 cm.
 
-A felirat az emblémán: BETEGSZÁLLÍTÁS, valamint az ÁNTSZ által kiadott sorszám. A felirat körkörös formátumban helyezkedik el.
+A felirat az emblémán: BETEGSZÁLLÍTÁS, valamint a járási hivatal által kiadott sorszám. A felirat körkörös formátumban helyezkedik el.
 
-[^55]: Az 5. számú mellékletet a 23/2004. (IV. 1.) ESZCSM rendelet 3. §-a iktatta be, szövege a 15/2011. (IV. 27.) NEFMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^55]: Az 5. számú mellékletet a 23/2004. (IV. 1.) ESZCSM rendelet 3. §-a iktatta be, szövege a 15/2011. (IV. 27.) NEFMI rendelet 7. § (3) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § m) pontja szerint módosított szöveg.

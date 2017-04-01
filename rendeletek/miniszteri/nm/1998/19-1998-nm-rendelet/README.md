@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-19-20-3
 | 2014-02-25 | 1998-19-20-3D.16 | 60/2007. (XII. 29.) EüM rendelet |
 | 2015-11-25 | 1998-19-20-3D.17 | 23/2004. (IV. 1.) ESZCSM rendelet |
 | 2017-01-01 | 1998-19-20-3D.18 | 60/2007. (XII. 29.) EüM rendelet |
+| 2017-04-01 | 1998-19-20-3D.19 | 23/2004. (IV. 1.) ESZCSM rendelet |
