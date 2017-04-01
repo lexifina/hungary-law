@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt beruházásként az Állami Ménesgazdaság Szilvásvárad fejlesztése során létrehozandó Szilvásváradi Lovasközpont építményei | Szilvásvárad község területén fekvő, az ingatlan-nyilvántartás szerinti 448/4, 455, 438/1, 441/3, 447/2, 457/1, 590/1, 441/1, 452/2, 453, 454/1, 454/2 helyrajzi számú földrészletek, illetve az ezekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
+| 2. | Kiemelt beruházásként az Állami Ménesgazdaság Szilvásvárad fejlesztése során létrehozandó Szilvásváradi Lovasközpont építményei | Szilvásvárad község területén fekvő, az ingatlan- nyilvántartás szerinti 448/4, 455, 438/1, 441/3, 447/2, 457/1, 590/1, 441/1, 452/2, 453, 454/1, 454/2 helyrajzi számú földrészletek, illetve az ezekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
 | 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
@@ -18,7 +18,7 @@
 
 | 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
+| 9. | ingatlan-nyilvántartási hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
 | 10. | telekalakítási hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
@@ -42,7 +42,7 @@
 
 | 20. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 21. | a jogszabályban rögzített egészségügyi hatósági eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Országos Tisztifőorvosi Hivatal |
+| 21. | a jogszabályban rögzített egészségügyi hatósági eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
 2. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^10]
 
@@ -80,10 +80,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | erdővédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 16. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 16. | egészségügy | illetékes járási hivatal | Heves Megyei Kormányhivatal |
 
 | 17. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 18. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 70. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 70. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 70. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
