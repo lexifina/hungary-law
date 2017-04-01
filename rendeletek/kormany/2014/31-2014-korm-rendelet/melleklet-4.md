@@ -4,7 +4,7 @@
 
 | 1. | Szakkérdés vizsgálatának feltétele | Szakkérdés | Másodfokú eljárásban szakértőként kirendelhető szerv |
 
-| 2. | Ha a sajátos építmény emberi tartózkodás céljára szolgáló építményt is magába foglal, a bontási engedélyezési eljárás kivételével. | A higiénés és egészségvédelmi, az ivóvízminőségi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelményeknek való megfelelés. Munkavégzés céljára szolgáló építmények esetében a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírásoknak való megfelelés. | Állami Népegészségügyi és Tisztiorvosi Szolgálat |
+| 2. | Ha a sajátos építmény emberi tartózkodás céljára szolgáló építményt is magába foglal, a bontási engedélyezési eljárás kivételével. | A higiénés és egészségvédelmi, az ivóvízminőségi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelményeknek való megfelelés. Munkavégzés céljára szolgáló építmények esetében a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírásoknak való megfelelés. | népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal |
 
 | 3. | Az eljárás termőföldön vagy termőföld igénybevételével megvalósuló építmény vagy tevékenység engedélyezésére irányul, a használatbavételi és a bontási engedélyezési eljárás kivételével. | A termőföld minőségi védelme. |  |
 
