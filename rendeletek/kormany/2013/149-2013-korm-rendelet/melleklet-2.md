@@ -54,7 +54,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 7. | közlekedés | Budapest Főváros Kormányhivatala III. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 8. | egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 8. | egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 9. | élelmiszer-egészségügy | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
@@ -68,4 +68,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 43. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 43. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
