@@ -278,7 +278,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-| 17. | egészségügy | illetékes járási (fővárosi kerületi) hivatal | Országos Tisztifőorvosi Hivatal |
+| 17. | egészségügy | illetékes járási (fővárosi kerületi) hivatal | illetékes fővárosi és megyei kormányhivatal |
 
 | 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -288,4 +288,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 9. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 9. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
