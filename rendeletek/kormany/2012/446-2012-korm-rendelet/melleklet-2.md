@@ -80,10 +80,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | erdővédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 17. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 17. | egészségügy | illetékes járási hivatal | Komárom-Esztergom Megyei Kormányhivatal |
 
 | 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 19. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
