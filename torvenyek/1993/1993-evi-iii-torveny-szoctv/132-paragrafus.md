@@ -26,7 +26,7 @@ k) a 3. § (3) és (4) bekezdésében meghatározott személyekre vonatkozó ell
 
 l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 
-m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
+m)
 
 n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 
@@ -74,7 +74,7 @@ h) a személyes gondoskodást nyújtó szociális ellátások igénybevételére
 
 k) az egyes szociális szolgáltatásokat végzők képzésére és vizsgakövetelményeire vonatkozó szabályokat,
 
-l) a szociális foglalkoztatás személyi és tárgyi feltételeit,
+l) a fejlesztő foglalkoztatás szakmai feladataira, személyi és tárgyi feltételeit,
 
 m) a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályait;
 

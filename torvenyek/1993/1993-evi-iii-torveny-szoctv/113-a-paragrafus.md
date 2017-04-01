@@ -8,6 +8,6 @@ b) az ápolást, gondozást nyújtó intézményben vagy ápoló-gondozó célú
 
 c) a rehabilitációs intézményben, rehabilitációs célú lakóotthonban ellátottak,
 
-d) a szociális foglalkoztatásban részt vevő ellátottak,
+d)
 
 e)

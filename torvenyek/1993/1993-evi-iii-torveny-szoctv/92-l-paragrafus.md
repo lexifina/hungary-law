@@ -22,19 +22,13 @@ j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociá
 
 k) a fenntartóval és a nevében vagyoni előnyt kérő személlyel szemben, valamint azzal a személlyel, szervezettel szemben, amelynek a vagyoni előnyt nyújtották, ha a 119/A. § szerinti tilalmat megsértik.
 
-l) az intézményvezetővel, ennek hiányában a gondozási szükséglet vizsgálatát tényleges végző személlyel szemben, ha házi segítségnyújtás esetén nem a valóságnak megfelelően állapította meg, hogy az ellátott számára szociális segítés vagy személyi gondozás indokolt-e, vagy nem a valóságnak megfelelően állapította meg a gondozási szükséglet – az értékelő adatlap szerinti – fokozatát.
+l) az intézményvezetővel, ennek hiányában a gondozási szükséglet vizsgálatát tényleges végző személlyel szemben, ha házi segítségnyújtás esetén nem a valóságnak megfelelően állapította meg, hogy az ellátott számára szociális segítés vagy személyi gondozás indokolt-e, vagy nem a valóságnak megfelelően állapította meg a gondozási szükséglet – az értékelő adatlap szerinti – fokozatát,
 
-(2) A szociális foglalkoztatást engedélyező szerv bírságot szabhat ki
+m) a fejlesztő foglalkoztatást nyújtó szociális szolgáltató, intézmény vezetőjével szemben, ha a fejlesztő foglalkoztatási jogviszonyban történő fejlesztő foglalkoztatásra nem a munkaalkalmassági vizsgálat során kiállított szakvéleménynek megfelelően vagy e szakvélemény hiányában kerül sor,
 
-a) a foglalkoztatóval szemben, ha jogszabályban előírt határidőben nem kéri a foglalkoztatási engedély módosítását,
+n) a fejlesztő foglalkoztatást nyújtó szociális szolgáltató, intézmény vezetőjével szemben, ha a fejlesztő foglalkoztatás során megsértik a 99/B–99/D. §-okban foglaltakat.
 
-b) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szociális foglalkoztatásra vonatkozó, jogszabályban előírt adatszolgáltatási kötelezettségének ismételten nem, vagy nem a meghatározott módon tesz eleget,
-
-c) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szociális foglalkoztatásra nem külön jogszabály szerinti szociális foglalkoztatási alkalmassági vizsgálat során kiállított szakvéleménynek megfelelően vagy e szakvélemény hiányában kerül sor,
-
-d) a fenntartóval, a szociális intézmény vezetőjével, a foglalkoztatóval szemben, ha a szociális intézményi ellátottakat – szociális foglalkoztatás keretében – a foglalkoztatási engedélyben nem szereplő tevékenységi körben foglalkoztatja,
-
-e) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szociális foglalkoztatás során megsérti a 99/D. § (2)–(5) bekezdésében, illetve a 99/E. § (2)–(4) bekezdésében foglaltakat.
+(2)
 
 (3) Az országos jelentési rendszert működtető szerv bírságot szabhat ki a fenntartóval szemben, ha az országos jelentési rendszerbe történő bejelentési kötelezettségét határidőben részben vagy egészben nem teljesíti, vagy valótlan adatot szolgáltat.
 
@@ -42,7 +36,7 @@ e) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szo
 
 (5) A szociális szolgáltató, intézmény vezetőjére vonatkozó rendelkezéseket arra a személyre is alkalmazni kell, aki a szociális szolgáltató, intézmény vezetőjének jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 
-(6) Az (1)–(2) bekezdés alapján bírság több jogsértés esetén halmozottan, illetve – a jogsértés jellegétől és a felelősség mértékétől függően – több személlyel, szervezettel szemben is kiszabható. A (3) bekezdés alapján bírságot a mulasztással érintett szociális szolgáltatók, intézmények, telephellyel rendelkező szociális szolgáltató, intézmény esetén a mulasztással érintett ellátást nyújtó székhely és a mulasztással érintett telephelyek száma szerint halmozottan is kiszabható, további halmazatban történő megállapításnak nincs helye.
+(6) Az (1) bekezdés alapján bírság több jogsértés esetén halmozottan, illetve – a jogsértés jellegétől és a felelősség mértékétől függően – több személlyel, szervezettel szemben is kiszabható. A (3) bekezdés alapján bírságot a mulasztással érintett szociális szolgáltatók, intézmények, telephellyel rendelkező szociális szolgáltató, intézmény esetén a mulasztással érintett ellátást nyújtó székhely és a mulasztással érintett telephelyek száma szerint halmozottan is kiszabható, további halmazatban történő megállapításnak nincs helye.
 
 (7) Ha a bírsággal sújtott személy vagy szervezet a megállapított határidőn belül nem intézkedik a jogellenesség megszüntetése érdekében, a bírság ismételten kiszabható.
 

@@ -52,7 +52,7 @@ cd) hajléktalan személyek átmeneti szállása esetében a befogadott férőhe
 
 (2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés nem alkalmazható, a befogadásra a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott és közleményben közzétett kapacitások, vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
 
-(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
+(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás és fejlesztő foglalkoztatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
 a) házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
 

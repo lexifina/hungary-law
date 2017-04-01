@@ -1,25 +1,11 @@
-99/D. § (1) A munka-rehabilitáció célja a szociális intézményben ellátott személy munkakészségének, valamint testi és szellemi képességeinek munkavégzéssel történő megőrzése, illetve fejlesztése, továbbá a fejlesztő-felkészítő foglalkoztatásra való felkészítés.
+99/D. § (1) A fejlesztő foglalkoztatásra irányuló munkaviszony vagy fejlesztési jogviszony
 
-(2) A munka-rehabilitáció az intézményi jogviszony keretében történik. A munka-rehabilitációban történő részvételről az ellátott, illetve – amennyiben az ellátott jognyilatkozata a Ptk. 2:22. § (1) bekezdése alapján semmisnek minősülne – törvényes képviselője írásban, a (3)–(6) bekezdésben foglaltak figyelembevételével megállapodást köt a szociális intézmény vezetőjével. Ez utóbbi esetben a megállapodást az ellátott aláírhatja. A megállapodás tartalmazza
+a) a 99/B. § (2) bekezdése szerinti intézményi jogviszony alapján szociális szolgáltatást, ellátást nyújtó intézménnyel, szolgáltatóval, vagy
 
-a) a munka-rehabilitáció keretében végzett tevékenység részletes leírását,
+b) más, a szolgáltatói nyilvántartásba fejlesztő foglakoztatást nyújtóként bejegyzett szervezettel
 
-b) a munka-rehabilitáció időbeosztását,
+állhat fenn.
 
-c) a munka-rehabilitációs díj havi összegét,
+(2) Az (1) bekezdés b) pontja szerinti esetben a fejlesztő foglalkoztatást nyújtó szervezetre a szociális szolgáltatókra vonatkozó szabályokat kell alkalmazni, azzal, hogy a 20. § szerinti nyilvántartásban nem kell feltüntetni a 20. § (2) bekezdés g) és h) pontja, valamint (4) bekezdés c) és d) pontja szerinti adatokat, és nem kell alkalmazni az 59. § (4) bekezdését, a 89–92. §-t, a 92/B. § (1) bekezdés a), e), i) és j) pontját, a 92/D–92/I. §-t, a 94. §-t, a 94/C. §-t, a 94/D. §-t, a 100–104. §-t, a 114–119/C. §-t és a 120–122/C. §-t. A szolgáltatói nyilvántartás, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások, a bejelentési kötelezettségek, az ellenőrzés, a bírság és más jogkövetkezmények, a 92/K. § (8)–(10) bekezdése szerinti közzététel, a befogadás, az állami támogatás, a 20/C. § szerinti nyilvántartás és az országos jelentési rendszer tekintetében a fejlesztő foglalkoztatás szociális szolgáltatásnak, a fejlesztő foglalkoztatásban részesülő személy igénybevevőnek, illetve ellátottnak, a fejlesztő foglalkoztatást nyújtó szervezet pedig szociális szolgáltatónak minősül.
 
-d) szándéknyilatkozatot arra nézve, hogy az ellátott testi és szellemi képességeihez mérten elvárható módon közreműködik a munka-rehabilitációban.
-
-(3) A munka-rehabilitációs tevékenység megválasztásánál a szociális intézmény vezetője figyelembe veszi az ellátott testi és szellemi képességeit, és speciális szükségleteinek megfelelően biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeit.
-
-(4) A munka-rehabilitáció időbeosztását az ellátott állapotának, képességeinek figyelembevételével egyénileg kell meghatározni az egyéni gondozási, fejlesztési, illetve rehabilitációs tervben úgy, hogy a foglalkoztatás időtartama nem haladhatja meg a napi 6 és a heti 30 órát, és el kell érnie a napi 4 és a heti 20 órát.
-
-(5) Munka-rehabilitáció esetén a szociális intézmény vezetője az ellátottat munka-rehabilitációs díjban részesíti. A munka-rehabilitációs díj havi összege nem lehet kevesebb a mindenkori kötelező legkisebb munkabér 30%-ánál.
-
-(6) A szociális intézmény vezetője a munka-rehabilitációra vonatkozó megállapodás módosítását, illetve – különösen indokolt esetben – megszüntetését kezdeményezi, ha az ellátott a foglalkoztatás során
-
-a) saját, illetve más személy testi épségét, egészségét veszélyezteti,
-
-b) egyébként olyan magatartást tanúsít, amely mellett biztonságos foglalkoztatása nem tartható fenn.
-
-(7)
+(3) Az (1) bekezdés b) pontja szerinti esetben, ha az ellátott számára fejlesztő foglalkoztatást nyújtó szervezet és a 99/B. § (2) bekezdése szerinti intézményi jogviszony alapján szociális szolgáltatást, ellátást nyújtó intézmény, szolgáltató fenntartója különböző, a fenntartók az ellátottak foglalkoztatására megállapodást kötnek. A megállapodást érintő körülmények változásáról – a fejlesztési jogviszony vagy a munkaviszony megszűnését eredményező esetben legalább 10 nappal korábban írásban – a felek egymást kölcsönösen tájékoztatják.

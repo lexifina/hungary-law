@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2016-07-01 | 2016. évi XXXIV. törvény | 1993-3-00-00.102 |
 | 2016-12-22 | 2016. évi CLXVI. törvény | 1993-3-00-00.103 |
 | 2017-01-01 | 2016. évi CLXVI. törvény | 1993-3-00-00.104 |
+| 2017-04-01 | 2016. évi CLXVI. törvény | 1993-3-00-00.105 |
