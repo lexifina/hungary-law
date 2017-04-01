@@ -4,9 +4,9 @@
 
 (3)[^46] Az orvosi megfigyeléseket akkor lehet megkezdeni, ha annak a víz, iszap, klíma vagy más természetes anyag előzetes minőség-meghatározása és mikrobiológiai jellemzői alapján nincs akadálya, és a megfigyelések lefolytatását a megyei kormányhivatal engedélyezte.
 
-(4)[^47] Az orvosi megfigyelések értékelését – amely tartalmazza a javallatokat, ellenjavallatokat és az alkalmazási előírásokat is – az OTH a feladatkör szerinti szakmai kollégium szakvéleményének figyelembevételével bírálja el.
+(4)[^47] Az orvosi megfigyelések értékelését – amely tartalmazza a javallatokat, ellenjavallatokat és az alkalmazási előírásokat is – a Budapest Főváros Kormányhivatala a feladatkör szerinti szakmai kollégium szakvéleményének figyelembevételével bírálja el.
 
 [^44]: A 19. § (1) bekezdése a 11/2014. (II. 24.) EMMI rendelet 20. §-ával megállapított szöveg.
 [^45]: A 19. § (2) bekezdése a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
 [^46]: A 19. § (3) bekezdése a 37/2009. (XI. 5.) EüM rendelet 9. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
-[^47]: A 19. § (4) bekezdése a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^47]: A 19. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.

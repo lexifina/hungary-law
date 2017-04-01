@@ -36,7 +36,7 @@
 
 ## Az éghajlat mint természetes gyógytényező jellemzőit a helyszíni klímaállomások által az OMSZ utasításai és felügyelete mellett folyamatosan ellenőrizni kell.
 
-## A föld alatti térségek mikroklímáját befolyásoló ellenőrző mérések körét és gyakoriságát az OTH határozza meg.
+## A föld alatti térségek mikroklímáját befolyásoló ellenőrző mérések körét és gyakoriságát a Budapest Főváros Kormányhivatala határozza meg.
 
 ## Az éghajlatot mint a gyógyhelyi kúrák sikerét befolyásoló környezeti adottságot [3. b)–5. pont], akkor kell felülvizsgálni, ha rosszabbodásra utaló jelek tapasztalhatók.
 
@@ -85,5 +85,5 @@
 [^84]: A 4. számú melléklet 2. pont a) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
 [^85]: A 4. számú melléklet 2. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
 [^86]: A 4. számú melléklet 4. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^87]: A 4. számú melléklet 6. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának aa) alpontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^87]: A 4. számú melléklet 6. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának aa) alpontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
 [^88]: Az 5. számú mellékletet a 11/2014. (II. 24.) EMMI rendelet 22. § (2) bekezdése iktatta be.

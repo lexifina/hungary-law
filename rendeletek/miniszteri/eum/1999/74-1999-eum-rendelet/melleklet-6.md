@@ -106,7 +106,7 @@ Ha az AOX > 10µg/l, a következő illékony klórozott szénhidrogén komponens
 
 2.4.6 Peszticidek
 
-Az OTH által az adott évben az ivóvízre előírt komponenseket kell vizsgálni. A komponensek listáját az OTH a www.antsz.hu honlapon közzéteszi.
+A Budapest Főváros Kormányhivatala által az adott évben az ivóvízre előírt komponenseket kell vizsgálni. A komponensek listáját a Budapest Főváros Kormányhivatala honlapon közzéteszi.
 
 2.5. Izotóp vizsgálatok
 
@@ -128,4 +128,4 @@ Az OTH által az adott évben az ivóvízre előírt komponenseket kell vizsgál
 
 * Palackozási célú felhasználás esetén a vizsgálatokat 250 ml-ből kell elvégezni.
 
-[^89]: A 6. számú mellékletet a 11/2014. (II. 24.) EMMI rendelet 22. § (3) bekezdése iktatta be.
+[^89]: A 6. számú mellékletet a 11/2014. (II. 24.) EMMI rendelet 22. § (3) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 13. § e) és l) pontja szerint módosított szöveg.

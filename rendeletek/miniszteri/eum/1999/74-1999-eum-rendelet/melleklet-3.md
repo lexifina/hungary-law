@@ -102,7 +102,7 @@
 
 ## a) gasztroenterológiai orvosi szakvélemény alapján a címkén fel kell tüntetni a javallatokat, ellenjavallatokat és a fogyasztási előírásokat,
 
-## b)[^76] minden további eltérés csak a gyógyvíz elnevezési engedélyében meghatározott, az OTH által adott egyedi felmentés alapján lehetséges.
+## b)[^76] minden további eltérés csak a gyógyvíz elnevezési engedélyében meghatározott, a Budapest Főváros Kormányhivatala által adott egyedi felmentés alapján lehetséges.
 
 ## III.[^77] A természetes ásványvíz és gyógyvíz törzsadatlapjának tartalma
 
@@ -254,7 +254,7 @@
 
 ## 5. Ásványvíz vizsgálatra akkreditált laboratórium helyszíni és a törzskönyvezéshez szükséges teljes körű laboratóriumi vizsgálatának eredménye, mely a kérelem benyújtásától számított egy éven belül, a kút üzemszerű állapotában történt mintavétel alapján készült.
 
-## 6.[^81] Az OKK közegészségügyi szempontú szakvéleménye teljes körű laboratóriumi vizsgálati eredmények alapján.
+## 6.[^81] Az OKI közegészségügyi szempontú szakvéleménye teljes körű laboratóriumi vizsgálati eredmények alapján.
 
 3. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez
 
@@ -264,9 +264,9 @@
 [^73]: A 2. számú melléklet I. rész 1. pont e) pont eb) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
 [^74]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
 [^75]: A 2. számú melléklet I. pont 3. alpontjának utolsó mondatát a 17/2002. (IV. 12.) EüM rendelet 2. §-a hatályon kívül helyezte.
-[^76]: A 2. számú melléklet II. rész 4. pont b) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^76]: A 2. számú melléklet II. alcím 4. pont b) alpontja a 37/2009. (XI. 5.) Eüm rendelet 11. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
 [^77]: A 2. számú melléklet III. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának ac) alpontja szerint módosított szöveg.
 [^78]: A 2. számú melléklet III. rész 4. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
 [^79]: A 2. számú melléklet III. pont 4.1 alpontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
 [^80]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 3. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^81]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 24. § e) pontja szerint módosított szöveg.
+[^81]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 13. § j) pontja szerint módosított szöveg.
