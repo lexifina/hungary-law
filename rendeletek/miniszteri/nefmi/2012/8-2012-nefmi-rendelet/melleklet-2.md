@@ -54,7 +54,7 @@
 
 ## bejelentő aláírása
 
-2. melléklet a 8/2012. (II. 21.) NEFMI rendelethez
+2. melléklet a 8/2012. (II. 21.) NEFMI rendelethez[^9]
 
 A Foglalkoztatáspolitikai és Munkaügyi Minisztérium ügykörét érintő szakterületeken a szakértői tevékenység szabályozásáról szóló 10/2003. (VII. 31.) FMM rendelet alapján kiadott engedély szerinti foglalkozási rehabilitációs részterületek („A” oszlop) e rendelet következő szakterületeinek („B” oszlop) felelnek meg:
 
@@ -70,4 +70,6 @@ A Foglalkoztatáspolitikai és Munkaügyi Minisztérium ügykörét érintő sza
 
 | 5. | A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációja | Akkreditáció |
 
-| 6. | A szociális foglalkoztatás | Rehabilitációs szolgáltatás, akkreditáció |
+| 6. | A fejlesztő foglalkoztatás | Rehabilitációs szolgáltatás, akkreditáció |
+
+[^9]: A 2. melléklet az 1/2017. (II. 14.) EMMI rendelet 65. § b) pontja szerint módosított szöveg.

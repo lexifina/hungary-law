@@ -16,7 +16,7 @@ g) informatikai akadálymentesítés.
 
 (2) Az (1) bekezdés alkalmazásában
 
-1. akkreditáció: a megváltozott munkaképességű személyt foglalkoztató munkáltatók jogszabályban meghatározott akkreditációjával, illetve a szociális foglalkoztatás engedélyezésével kapcsolatos tevékenység;
+1.[^2] akkreditáció: a megváltozott munkaképességű személyt foglalkoztató munkáltatók jogszabályban meghatározott akkreditációjával, illetve a fejlesztő foglalkoztatás szolgáltatói nyilvántartásba történő bejegyzésével kapcsolatos tevékenység;
 
 2. fizikai akadálymentesítés: a tárgyi környezet akadálymentesítésére irányuló, a megváltozott munkaképességű személy foglalkozási rehabilitációját szolgáló tevékenység;
 
@@ -29,3 +29,5 @@ g) informatikai akadálymentesítés.
 6. minősítés: a külön törvényben meghatározott komplex minősítés során ellátott foglalkozási rehabilitációs szakértői feladatok;
 
 7. rehabilitációs szolgáltatás: a megváltozott munkaképességű személy foglalkozási rehabilitációjára irányuló szolgáltatás, ideértve a foglalkoztatás keretében nyújtott szolgáltatásokat, továbbá a rehabilitációs szolgáltatásokhoz kapcsolódó kutatási, szolgáltatásfejlesztési és módszertani tevékenységet is.
+
+[^2]: A 3. § (2) bekezdés 1. pontja az 1/2017. (II. 14.) EMMI rendelet 65. § a) pontja szerint módosított szöveg.

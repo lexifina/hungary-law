@@ -2,7 +2,7 @@
 
 ## 4. A foglalkozási rehabilitációs szakértők továbbképzése
 
-7. § (1)[^6] A foglalkozási rehabilitációs szakértő köteles legalább 25 óra időtartamú, a foglalkozási szakértők képzése érdekében a Hivatal által szervezett továbbképzésen (a továbbiakban: továbbképzés) részt venni
+7. § (1)[^7] A foglalkozási rehabilitációs szakértő köteles legalább 25 óra időtartamú, a foglalkozási szakértők képzése érdekében a Hivatal által szervezett továbbképzésen (a továbbiakban: továbbképzés) részt venni
 
 a) a névjegyzékbe vétel időpontját követő 1 éven belül, valamint
 
@@ -12,4 +12,4 @@ b) az a) pont szerinti kötelezettség teljesítését követő év első napjá
 
 (3) A foglalkozási rehabilitációs szakértőt törölni kell a névjegyzékből, ha továbbképzési kötelezettségét nem teljesíti.
 
-[^6]: A 7. § (1) bekezdés nyitó szövegrésze a 47/2012. (EMMI rendelet 11. §-a szerint módosított szöveg.
+[^7]: A 7. § (1) bekezdés nyitó szövegrésze a 47/2012. (EMMI rendelet 11. §-a szerint módosított szöveg.
