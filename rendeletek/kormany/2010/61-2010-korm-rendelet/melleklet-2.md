@@ -48,7 +48,7 @@
 
 | 23. | kiserőmű engedélyezésével kapcsolatos eljárások | Magyar Energetikai és Közmű-szabályozási Hivatal | nincs |
 
-| 24. | egészségügyi eljárások | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 24. | egészségügyi eljárások | illetékes járási hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 25. | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | energiapolitikáért felelős miniszter | nincs |
 
@@ -94,7 +94,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | régészet és műemlékvédelem | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 19. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 19. | egészségügy | illetékes járási hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 20. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -102,4 +102,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | élelmiszer-biztonság | illetékes járási hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 14. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 14. § (1) bekezdés b) pontjával megállapított és (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
