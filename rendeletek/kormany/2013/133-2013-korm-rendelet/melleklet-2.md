@@ -66,10 +66,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | talajvédelem | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 13. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 13. | egészségügy | illetékes járási hivatal | Bács-Kiskun Megyei Kormányhivatal |
 
 | 14. | hírközlés | Nemzeti Média- és Hírközlési Hatósági Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 15. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 42. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 42. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
