@@ -38,7 +38,7 @@ b)[^30] az (5) bekezdés szerinti bejelentést követően az országos tisztifő
 
 (13) A (6) bekezdés szerinti akadályoztatás megszűnését haladéktalanul köteles az egészségügyi szolgáltató bejelenteni. A bejelentésre a (4), illetve az (5) bekezdésben foglaltakat kell alkalmazni.
 
-(14)[^32] Az egészségügyi szolgáltató nyolc nappal korábban köteles az OTH-nál és az OMSZ ügyeleti ellátást irányító szervezeti egységénél bejelenteni, ha előre látható akadályoztatás miatt nem tudja az ügyeleti feladatait ellátni. A bejelentés alapján az OTH az egészségügyi szolgáltató tevékenységének szüneteltetésére vonatkozó szabályok szerint jár el.
+(14)[^32] Az egészségügyi szolgáltató nyolc nappal korábban köteles az országos tisztifőorvosnál és az OMSZ ügyeleti ellátást irányító szervezeti egységénél bejelenteni, ha előre látható akadályoztatás miatt nem tudja az ügyeleti feladatait ellátni. A bejelentés alapján az országos tisztifőorvos az egészségügyi szolgáltató tevékenységének szüneteltetésére vonatkozó szabályok szerint jár el.
 
 (15)[^33] Ha az a (14) bekezdés szerinti esetben a folyamatos ellátás biztosítása érdekében szükséges, az országos tisztifőorvos kötelezi az OMSZ-t, hogy a határozatában megnevezett szolgáltatók közül általa választott egy vagy több egészségügyi szolgáltatót jelölje ki az akadályoztatott szolgáltató ügyeleti feladatainak ellátására.
 
@@ -58,7 +58,7 @@ b)[^30] az (5) bekezdés szerinti bejelentést követően az országos tisztifő
 [^29]: A 18. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § d) pontja szerint módosított szöveg.
 [^30]: A 18. § (8) bekezdés b) pontja az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
 [^31]: A 18. § (9) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § d) pontja szerint módosított szöveg.
-[^32]: A 18. § (14) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 41. §-ával megállapított szöveg.
+[^32]: A 18. § (14) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 41. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 40. § f) pontja szerint módosított szöveg.
 [^33]: A 18. § (15) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
 [^34]: A 18. § (17) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
 [^35]: A 18. § (18) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
