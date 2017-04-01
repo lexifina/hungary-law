@@ -1,5 +1,5 @@
-## 10. §[^13]
+## 10. §[^11]
 
 ## 8. A Honvédelmi Minisztérium rendelkezése alatt lévő lakások és nem lakáscélú helyiségek elidegenítésének feltételeiről szóló 8/2013. (VIII. 9.) HM rendelet módosítása
 
-[^13]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

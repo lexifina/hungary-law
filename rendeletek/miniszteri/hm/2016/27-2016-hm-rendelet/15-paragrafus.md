@@ -1,4 +1,4 @@
-## 14. §[^17]
+## 14. §[^15]
 
 ## 12. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § b)–d) pontja, a 7. § b) és j) pontja 2017. április 1-jén lép hatályba.
 
-[^17]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
