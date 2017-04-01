@@ -4,6 +4,9 @@
 
 (2) Az (1) bekezdés szerinti földgáz biztonsági készlet mértékhez tartozó
 
-a) betárolási kapacitás legalább 342 millió MJ/nap,
+a)[^1] betárolási kapacitás legalább 105 561 MWh/nap,
 
-b) kitárolási kapacitás legalább 684 millió MJ/nap.
+b)[^2] kitárolási kapacitás legalább 211 122 MWh/nap.
+
+[^1]: A 2. § (2) bekezdés a) pontja a 7/2017. (III. 30.) NFM rendelet 6. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés b) pontja a 7/2017. (III. 30.) NFM rendelet 6. § c) pontja szerint módosított szöveg.
