@@ -1,22 +1,22 @@
-## 8. §[^12]
-
 ## 9. A betegszállításról szóló 19/1998. (VI. 3.) NM rendelet módosítása
 
 ## 9. § A betegszállításról szóló 19/1998. (VI. 3.) NM rendelet
 
-a)–b)[^13]
+a) 2. § c) pontjában az „az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ)” szövegrész helyébe az „a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal)” szöveg,
 
-c)–d)[^14]
+b) 2/A. §-ában az „az ÁNTSZ” szövegrész helyébe az „a járási hivatal” szöveg, az „Az ÁNTSZ” szövegrész helyébe az „A járási hivatal” szöveg,
 
-e)–g)[^15]
+c)–d)[^9]
 
-h)–l)[^16]
+e) 4/A. §-ában az „az Országos Tisztifőorvosi Hivatalt” szövegrész helyébe az „a járási hivatalt” szöveg,
 
-m)[^17]
+f) 1. számú melléklet II/B. pontjában az „az Országos Tisztifőorvosi Hivataltól” szövegrész helyébe az „a járási hivataltól” szöveg,
 
-[^12]: A 8. § a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^13]: A 9. § a)–b) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^14]: A 9. § c)–d) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 9. § e)–g) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^16]: A 9. § h)–l) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 9. § m) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+g) 1. számú melléklet II/B. pont 4. alpontjában az „az Országos Tisztifőorvosi Hivatal” szövegrészek helyébe az „a járási hivatal” szöveg,
+
+h)–l)[^10]
+
+m) 5. számú mellékletében az „az ÁNTSZ” szövegrész helyébe az „a járási hivatal” szöveg
+
+[^9]: A 9. § c)–d) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § h)–l) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

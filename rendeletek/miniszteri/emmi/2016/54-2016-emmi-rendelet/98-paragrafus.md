@@ -1,29 +1,26 @@
-## 97. §[^149]
+## 97. §[^96]
 
 ## 98. Az emberi erőforrások minisztere feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 20/2015. (IV. 10.) EMMI rendelet módosítása
 
 98. § (1) Az emberi erőforrások minisztere feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 20/2015. (IV. 10.) EMMI rendelet (a továbbiakban: 20/2015. EMMI rendelet)
 
-a)[^150]
+a)[^97]
 
-b)[^151]
+b) 1. melléklet „C) Központi államigazgatási szervnek nem minősülő költségvetési szerv” rész 5. pontjában az „Országos Közegészségügyi Központnál” szövegrész helyébe az „Országos Közegészségügyi Intézetnél” szöveg
 
 ## lép.
 
 (2) Hatályát veszti a 20/2015. EMMI rendelet
 
-a)[^152]
+a)[^98]
 
-b)[^153]
+b) 1. melléklet „B) Központi hivatalok” rész 9. pontja,
 
-c)[^154]
+c)[^99]
 
-d)[^155]
+d) 1. melléklet „C) Központi államigazgatási szervnek nem minősülő költségvetési szerv” rész 3. és 4. pontja.
 
-[^149]: A 97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^150]: A 98. § (1) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^151]: A 98. § (1) bekezdés b) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^152]: A 98. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^153]: A 98. § (2) bekezdés b) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^154]: A 98. § (2) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^155]: A 98. § (2) bekezdés d) pontja a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^96]: A 97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 98. § (1) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 98. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 98. § (2) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 70. §[^116]
+## 70. § Az emberi felhasználásra kerülő gyógyszerekkel kapcsolatos egyes engedélyezési eljárások során fizetendő igazgatási szolgáltatási díj kezeléséről és nyilvántartásáról szóló 57/2009. (XII. 30.) EüM rendelet 1/A. § (1) bekezdésében az „Országos Epidemiológiai Központot (a továbbiakban: OEK)” szövegrész helyébe az „Országos Közegészségügyi Intézetet (a továbbiakban: OKI)” szöveg, az „az OEK” szövegrész helyébe az „az OKI” szöveg lép.
 
 ## 71. Az egészségügyi kártevőirtó tevékenységről és az egészségügyi kártevőirtó tevékenység engedélyezésének részletes szabályairól szóló 2/2010. (I. 26.) EüM rendelet módosítása
-
-[^116]: A 70. § a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

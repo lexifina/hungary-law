@@ -1,5 +1,5 @@
-## 51. §[^85]
+## 51. § A várólista-sorrend kialakításának és az eltérés lehetőségének egészségügyi szakmai feltételeiről szóló 45/2006. (XII. 27.) EüM rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha az országos várólista nyilvántartásban rendelkezésre álló adatokból megállapítható, hogy a sorrendtől való eltérés eseteinek száma valamelyik egészségügyi szolgáltatónál legalább 20 százalékkal meghaladja az országos átlagot, az országos várólista nyilvántartást vezető szerv jelzi ezt az országos tisztifőorvosnak, és egyúttal továbbítja részére az érintett egészségügyi szolgáltató azonosító adatait (szolgáltató neve, székhelyének címe, azonosító száma) és az adott egészségügyi szolgáltatás tekintetében vezetett intézményi várólistára vonatkozó adatokat. Az országos tisztifőorvos a rendelkezésére bocsátott adatok és az érintett esetekhez kapcsolódó egészségügyi dokumentációk alapján megvizsgálja, hogy a sorrendtől való eltérés – a 2. §-ban és a várólista protokollban meghatározott feltételek alapján – indokolt volt-e.”
 
 ## 52. Az egészségügyi miniszter által szabályozott, mérgező termékek felhasználását igénylő szakmai tevékenységek szakmai gyakorlaton alapuló elismeréséről, és az egészségügyi gázmesteri tevékenységről, valamint az egészségügyi gázmester szakmai és vizsgakövetelményeinek kiadásáról szóló 19/1997. (VII. 4.) NM rendelet módosításáról szóló 17/2005. (V. 19.) EüM rendelet módosításáról szóló 8/2007. (II. 13.) EüM rendelet módosítása
-
-[^85]: Az 51. § a 105. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
