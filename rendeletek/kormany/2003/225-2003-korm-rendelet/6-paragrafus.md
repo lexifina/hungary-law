@@ -44,7 +44,8 @@ c) a Nemzetközi Munkaügyi Szervezet (ILO) ,,Hajófedélzeti munkakörülménye
 
 d) a Párizsi Memorandumnak a hajók ellenőrzési rendjének rendjére vonatkozó útmutatójáról szóló 1. mellékletére.
 
-(6) Az egészségügyi körülményeknek az (1) bekezdés b) pontjában megjelölt vizsgálata nem érinti az ÁNTSZ külön jogszabályban meghatározott ellenőrzési jogosultságát.
+(6)[^7] Az egészségügyi körülményeknek az (1) bekezdés b) pontjában megjelölt vizsgálata nem érinti az országos tisztifőorvos külön jogszabályban meghatározott ellenőrzési jogosultságát.
 
 [^5]: 1/1966. (XI. 5.) EüM–BM–KPM együttes rendelet a dunai egészségügyi felügyeletről.
 [^6]: 15/2001. (IV. 27.) KöViM rendelet a hajózási képesítésekről.
+[^7]: A 6. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 60. §-a szerint módosított szöveg.

@@ -20,11 +20,11 @@ d) a hatóság – miután értesült a helyreállítási intézkedések végreh
 
 (6) Annak eldöntésére, hogy a hajón talált hiányosságok elég súlyosak-e ahhoz, hogy indokolttá tegyék a hajó üzemeltetésének megtiltását, az ellenőrző személynek fel kell mérnie, hogy
 
-a)[^13] a hajó rendelkezik-e a szükséges okmányokkal;
+a)[^14] a hajó rendelkezik-e a szükséges okmányokkal;
 
 b) a hajó rendelkezik-e a minimális biztonságos kiszolgáló személyzet létszámát igazoló okmányban előírt személyzettel.
 
-(7)[^14] Az ellenőrzés végrehajtása folyamán az ellenőrző személy köteles továbbá felmérni, hogy a hajó, illetve a hajó személyzete alkalmas-e a hajó előtt álló út teljes tartama alatt:
+(7)[^15] Az ellenőrzés végrehajtása folyamán az ellenőrző személy köteles továbbá felmérni, hogy a hajó, illetve a hajó személyzete alkalmas-e a hajó előtt álló út teljes tartama alatt:
 
 a) biztonságosan hajózni;
 
@@ -52,7 +52,7 @@ l) baleset esetén megfelelő tájékoztatást nyújtani.
 
 Ha ezeknek a kérdéseknek bármelyikére a válasz nemleges, az összes feltárt hiányosságok figyelembevételével a hajó üzemeltetése megtiltható. Kevésbé súlyos természetű hiányosságok kombinációjának előfordulása szintén indokolttá teheti a hajó üzemeltetésének megtiltását.
 
-(8)[^15] Különösen indokolt a hajó üzemeltetésének megtiltása a vonatkozó nemzetközi egyezmény rendelkezéseinek be nem tartása miatt, ezen belül a vonatkozó egyezmények rendelkezéseiben előírt hatályos bizonyítványok és okmányok hiánya. Ugyanakkor az olyan állam lobogóját viselő hajók, melyek egy egyezménynek nem részesei vagy nem hajtják végre egy másik vonatkozó egyezmény rendelkezéseit, nem jogosultak a fentiekben említett egyezményekben előírt bizonyítványokkal rendelkezni. Ezért az előírt bizonyítványok hiánya önmagában nem indokolhatja a hajó üzemeltetése megtiltásának a jogosságát, ugyanakkor a ,,kedvező elbánás tilalma'' elvén alapuló záradék alkalmazásával a rendelkezések érdemi betartása elvárható, mielőtt a hajó kifutását engedélyezik.
+(8)[^16] Különösen indokolt a hajó üzemeltetésének megtiltása a vonatkozó nemzetközi egyezmény rendelkezéseinek be nem tartása miatt, ezen belül a vonatkozó egyezmények rendelkezéseiben előírt hatályos bizonyítványok és okmányok hiánya. Ugyanakkor az olyan állam lobogóját viselő hajók, melyek egy egyezménynek nem részesei vagy nem hajtják végre egy másik vonatkozó egyezmény rendelkezéseit, nem jogosultak a fentiekben említett egyezményekben előírt bizonyítványokkal rendelkezni. Ezért az előírt bizonyítványok hiánya önmagában nem indokolhatja a hajó üzemeltetése megtiltásának a jogosságát, ugyanakkor a ,,kedvező elbánás tilalma'' elvén alapuló záradék alkalmazásával a rendelkezések érdemi betartása elvárható, mielőtt a hajó kifutását engedélyezik.
 
 (9) A SOLAS 1974/1978 rendelkezéseinek (a hivatkozások zárójelben) meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
 
@@ -86,7 +86,7 @@ n) a SOLAS 1974/1978 XI. fejezete szerinti kibővített szemle végrehajtásána
 
 o) VDR hiánya vagy üzemképtelensége, amennyiben használata kötelező.
 
-(10) Az IBC Szabályzat[^16] rendelkezéseinek (a hivatkozások zárójelben) meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
+(10) Az IBC Szabályzat[^17] rendelkezéseinek (a hivatkozások zárójelben) meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
 
 a) az alkalmassági bizonyítványban fel nem tüntetett anyag szállítása vagy rakomány-információk hiánya (16.2),
 
@@ -102,7 +102,7 @@ f) tartályonként engedélyezett maximális rakományminőség túllépése (16
 
 g) hőre érzékeny áruk nem kielégítő mértékű hő elleni védelme (16.6).
 
-(11) Az IGC Szabályzat[^17] rendelkezéseinek (a hivatkozások zárójelben) meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
+(11) Az IGC Szabályzat[^18] rendelkezéseinek (a hivatkozások zárójelben) meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
 
 a) az alkalmassági bizonyítványban fel nem tüntetett anyag szállítása vagy rakomány-információk hiánya (18.1),
 
@@ -124,7 +124,7 @@ i) a rakománytartályok nyomásérték riasztói nem üzemképesek (13.4.1),
 
 j) gázfelderítő és/vagy mérgező gáz felderítő felszerelés meghibásodása (13.6),
 
-k)[^18] tilalom alatt álló anyagok szállítása a tilalmat elrendelő hatóság hatályos bizonyítványa nélkül (17/19).
+k)[^19] tilalom alatt álló anyagok szállítása a tilalmat elrendelő hatóság hatályos bizonyítványa nélkül (17/19).
 
 (12) A merülésvonalakról szóló egyezmény rendelkezéseinek meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
 
@@ -154,7 +154,7 @@ e) hiányzó vagy a MARPOL 1973/1978 13G szabálya (3) bekezdése b) pontjának 
 
 (14) A MARPOL 1973/1978 II. melléklete rendelkezéseinek meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
 
-a) a P & A[^19] kézikönyv hiánya,
+a) a P & A[^20] kézikönyv hiánya,
 
 b) a rakomány nem osztályozott [3(4)],
 
@@ -166,7 +166,7 @@ e) nem engedélyezett típusú olajkiürítő szerelvény.
 
 (15) Az STCW 78/95 rendelkezéseinek meg nem tartása miatt a hajó üzemeltetése a következők miatt tiltható meg:
 
-a)[^20] a képesített személyzet nem rendelkezik bizonyítvánnyal, nem megfelelő bizonyítvánnyal rendelkezik, nincs hatályos felmentése, illetve nem tudja megfelelően igazolni, hogy a bizonyítvány tekintetében kérelmet nyújtott be a lobogó szerinti állam illetékes hatóságához,
+a)[^21] a képesített személyzet nem rendelkezik bizonyítvánnyal, nem megfelelő bizonyítvánnyal rendelkezik, nincs hatályos felmentése, illetve nem tudja megfelelően igazolni, hogy a bizonyítvány tekintetében kérelmet nyújtott be a lobogó szerinti állam illetékes hatóságához,
 
 b) nem teljesülnek a lobogó szerinti állam hatóságának a biztonságos kiszolgáló személyzeti normabizonyítványban előírt feltételei,
 
@@ -198,11 +198,11 @@ e) a közlekedési utakon, illetve a lakóterekben túlzott mennyiségű szemét
 
 (17) A hajó üzemeltetésének megtiltását nem, de a hajó egyes műveleteinek – pl. a rakomány kezelésével kapcsolatos műveleteknek – a felfüggesztését indokoló hiányosság a semleges gázrendszer, a rakománnyal kapcsolatos felszerelés vagy a gépi berendezés megfelelő működésének vagy karbantartásának meghibásodása, amely kielégítő alapot szolgáltat a rakománykezelő műveletek leállításához.
 
-[^13]: A 11. § (6) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 316. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: A 11. § (7) bekezdésének záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A 11. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: A vegyi anyagokat ömlesztve szállító hajók építésének és felszerelésének nemzetközi szabályzata. Lásd a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről szóló 35/2001. (X. 12.) KöViM rendeletet.
-[^17]: A cseppfolyósított gázokat ömlesztve szállító hajók építésének és felszerelésének nemzetközi szabályzata. Lásd a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről szóló 35/2001. (X. 12.) KöViM rendeletet.
-[^18]: A 11. § (11) bekezdésének k) pontja a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^19]: Eljárási és elrendezési kézikönyv (Procedures and Arrangements Manual).
-[^20]: A 11. § (15) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 11. § (6) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 316. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A 11. § (7) bekezdésének záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 11. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A vegyi anyagokat ömlesztve szállító hajók építésének és felszerelésének nemzetközi szabályzata. Lásd a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről szóló 35/2001. (X. 12.) KöViM rendeletet.
+[^18]: A cseppfolyósított gázokat ömlesztve szállító hajók építésének és felszerelésének nemzetközi szabályzata. Lásd a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről szóló 35/2001. (X. 12.) KöViM rendeletet.
+[^19]: A 11. § (11) bekezdésének k) pontja a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: Eljárási és elrendezési kézikönyv (Procedures and Arrangements Manual).
+[^21]: A 11. § (15) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 315. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
