@@ -54,7 +54,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | Talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 10. | Egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 10. | Egészségügy | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 11. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -70,4 +70,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Soproni Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 93. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 93. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 93. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
