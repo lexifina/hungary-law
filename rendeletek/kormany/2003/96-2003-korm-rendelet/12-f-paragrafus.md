@@ -1,4 +1,4 @@
-12/F. §[^86] (1) Az egészségügyi államigazgatási szerv a szabadfoglalkozású egészségügyi dolgozót törli a hatósági nyilvántartásból, ha
+12/F. §[^82] (1) Az egészségügyi államigazgatási szerv a szabadfoglalkozású egészségügyi dolgozót törli a hatósági nyilvántartásból, ha
 
 a) a szabadfoglalkozású egészségügyi dolgozó bejelenti a tevékenységének megszüntetését,
 
@@ -20,4 +20,4 @@ b) a szabadfoglalkozású egészségügyi dolgozót igénybe vevő egészségüg
 
 (3) A hatósági nyilvántartásból történő törlésről a törlés időpontjában a szabadfoglalkozású egészségügyi dolgozót igénybe vevő szolgáltató működési engedélyének kiadására a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A hatósági nyilvántartásból történő törlésről az egészségügyi államigazgatási szerv a szabadfoglalkozású egészségügyi dolgozót értesíti.
 
-[^86]: A 12/F. §-t a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
+[^82]: A 12/F. §-t a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.

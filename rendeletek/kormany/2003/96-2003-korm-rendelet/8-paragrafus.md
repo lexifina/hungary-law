@@ -1,4 +1,4 @@
-8. §[^45] (1) A kérelemben fel kell tüntetni
+8. §[^41] (1) A kérelemben fel kell tüntetni
 
 a) a kérelmező telephelyét;
 
@@ -24,7 +24,7 @@ k) az egészségügyi szolgáltató fenntartójának nevét;
 
 l) a jogszabályban meghatározott egyéb adatokat;
 
-m)[^46] az egészségügyi alapellátásban folytatott szakmák esetén a helyettesítés helyét, a helyettesítő személyek nevét és orvosi bélyegzője számát vagy működési nyilvántartási számát.
+m)[^42] az egészségügyi alapellátásban folytatott szakmák esetén a helyettesítés helyét, a helyettesítő személyek nevét és orvosi bélyegzője számát vagy működési nyilvántartási számát.
 
 (2) A kérelemmel érintett szakmákat a szolgáltató által létrehozott szervezeti egységen belül, az adott szakmát jellemző (1) bekezdés c)–i) pontja szerinti adatokkal kell feltüntetni.
 
@@ -32,13 +32,13 @@ m)[^46] az egészségügyi alapellátásban folytatott szakmák esetén a helyet
 
 (4) A kérelemhez mellékelni kell
 
-a)[^47] ha az egészségügyi közszolgáltatást az egészségügyi szolgáltató megállapodás vagy szerződés útján teljesíti, az erre vonatkozó megállapodást, szerződést;
+a)[^43] ha az egészségügyi közszolgáltatást az egészségügyi szolgáltató megállapodás vagy szerződés útján teljesíti, az erre vonatkozó megállapodást, szerződést;
 
 b) az (1) bekezdés h) pontja szerinti közreműködő egészségügyi szolgáltató igénybevétele esetén a közreműködésről szóló szerződést;
 
 c) az egészségügyi szolgáltatáshoz szükséges tárgyi feltételek – ideértve az ingatlant is – használatának jogcímét igazoló iratot;
 
-d)[^48] az egészségügyi szolgáltató e tevékenysége során okozott kár megtérítésére, illetve sérelemdíj megfizetésére vonatkozó hatályos felelősségbiztosítási szerződése és kötvénye másolatát;
+d)[^44] az egészségügyi szolgáltató e tevékenysége során okozott kár megtérítésére, illetve sérelemdíj megfizetésére vonatkozó hatályos felelősségbiztosítási szerződése és kötvénye másolatát;
 
 e) az egészségügyi szakma (szakmák) ellátásához szükséges tárgyi feltételek – ideértve a progresszivitási szinthez kapcsolódó feltételeket is – meglétére vonatkozó nyilatkozatot;
 
@@ -52,24 +52,24 @@ i) alapellátás esetén a helyettesítő személy nyilatkozatát arról, hogy v
 
 (5) A működési engedély kiadása iránti eljárásban az egészségügyi államigazgatási szerv az alábbi adatokat szerzi be:
 
-a)[^49] a cégbírósági, bírósági nyilvántartásba bejegyzett kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet létrejöttének igazolását (cégbejegyzés, cégjegyzékszám, bírósági nyilvántartásba vétel száma központi, illetve nyilvánosan hozzáférhető adatbázis útján),
+a)[^45] a cégbírósági, bírósági nyilvántartásba bejegyzett kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet létrejöttének igazolását (cégbejegyzés, cégjegyzékszám, bírósági nyilvántartásba vétel száma központi, illetve nyilvánosan hozzáférhető adatbázis útján),
 
 b) amennyiben a kérelmező egészségügyi szolgáltató már rendelkezik működési engedéllyel, az egészségügyi szolgáltatók nyilvántartásában kapott azonosító számát, továbbá működési engedélye (engedélyei) számát,
 
-c)[^50] a tevékenységet végző egészségügyi dolgozók vonatkozásában a működési nyilvántartásban szereplő alábbi adatokat központi vagy nyilvánosan hozzáférhető adatbázis útján:
+c)[^46] a tevékenységet végző egészségügyi dolgozók vonatkozásában a működési nyilvántartásban szereplő alábbi adatokat központi vagy nyilvánosan hozzáférhető adatbázis útján:
 
 ca) szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése,
 
 cb) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, az Eütv. és más jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye.
 
-(6)[^51]
+(6)[^47]
 
 (7) A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
-[^45]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^46]: A 8. § (1) bekezdés m) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^47]: A 8. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^48]: A 8. § (4) bekezdés d) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^49]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^50]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^51]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
+[^41]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^42]: A 8. § (1) bekezdés m) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^43]: A 8. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^44]: A 8. § (4) bekezdés d) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^45]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^46]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^47]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.

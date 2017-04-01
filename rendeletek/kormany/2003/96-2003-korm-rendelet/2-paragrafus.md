@@ -18,7 +18,7 @@ h) székhely: az egészségügyi szolgáltató központi ügyintézésének a he
 
 i)[^6] telephely: az egészségügyi szolgáltatás nyújtásának helyszíne, mely a székhelytől, illetve másik telephelytől az ingatlan-nyilvántartásban eltérő helyrajzi számmal rendelkezik, és ahol egy vagy több szervezeti egység feladatát látják el;
 
-j)[^7] egészségügyi államigazgatási szerv: a működési engedély kiadására és az egészségügyi szolgáltatás nyújtásának ellenőrzésére jogosult, a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), vagy az Országos Tisztifőorvosi Hivatal;
+j)[^7] egészségügyi államigazgatási szerv: a működési engedély kiadására és az egészségügyi szolgáltatás nyújtásának ellenőrzésére jogosult, a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), vagy az országos tisztifőorvos;
 
 k)[^8] közreműködő: a közreműködést igénybe vevő szolgáltató szervezeti egységének tevékenységéhez kapcsolódó, az egészségügyi szolgáltatás nyújtásában részt vevő személy vagy szervezet, amely közreműködői szerződés alapján, közvetlenül, működési engedély és felelősségbiztosítási szerződés birtokában, a közreműködést igénybe vevő szolgáltató szervezeti egysége által nyújtott szakmában és a saját tulajdonában vagy használatában levő tárgyi eszközökkel, személyesen, vagy az általa foglalkoztatott egészségügyi dolgozókkal a közreműködést igénybe vevő szolgáltató szervezeti egysége által ellátott betegek részére a közreműködést igénybe vevő szolgáltató nevében nyújt egészségügyi szolgáltatást, azaz a tevékenység végzéséhez szükséges tárgyi és személyi feltételeket egyaránt biztosítja;
 
@@ -39,7 +39,7 @@ o)[^12] személyes közreműködés: az Eütv. 108/A. §-a szerinti, hatósági 
 [^4]: A 2. § (1) bekezdés f) pontja a 325/2011. (XII. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés g) pontja a 325/2011. (XII. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés i) pontja a 325/2011. (XII. 28.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1) bekezdés j) pontja a 70/2015. (III. 30.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés j) pontja a 70/2015. (III. 30.) Korm. rendelet 60. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés k) pontja az 520/2013. (XII. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdés l) pontját a 325/2011. (XII. 28.) Korm. rendelet 33. § (4) bekezdése iktatta be.
 [^10]: A 2. § (1) bekezdés m) pontját a 325/2011. (XII. 28.) Korm. rendelet 33. § (4) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-## Szabadfoglalkozású jogviszony hatósági nyilvántartásba vétele[^83]
+## Szabadfoglalkozású jogviszony hatósági nyilvántartásba vétele[^79]
 
-12/E. §[^84] (1) Az Eütv. 108/A. §-a szerinti bejelentést a szabadfoglalkozású jogviszonyban álló személy vagy szervezet (a továbbiakban: szabadfoglalkozású egészségügyi dolgozó) teszi meg. Ha a szabadfoglalkozású egészségügyi dolgozó e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
+12/E. §[^80] (1) Az Eütv. 108/A. §-a szerinti bejelentést a szabadfoglalkozású jogviszonyban álló személy vagy szervezet (a továbbiakban: szabadfoglalkozású egészségügyi dolgozó) teszi meg. Ha a szabadfoglalkozású egészségügyi dolgozó e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
 
 (2) A szabadfoglalkozású egészségügyi dolgozó igénybevételére a szervezeti egység működéséhez kapcsolódóan, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 9. § (1) bekezdése szerinti megbízási szerződés alapján kerülhet sor. E megbízási szerződés olyan szakmára köthető, amelyre a szabadfoglalkozású egészségügyi dolgozót igénybe vevő szolgáltató működési engedéllyel rendelkezik.
 
@@ -42,8 +42,8 @@ a) a szabadfoglalkozású tevékenységet bejelentővel,
 
 b) a szabadfoglalkozású egészségügyi dolgozót igénybe vevő szolgáltatóval és
 
-c)[^85] közszolgáltatás keretében történő tevékenységvégzés esetén a Nemzeti Egészségbiztosítási Alapkezelővel vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
+c)[^81] közszolgáltatás keretében történő tevékenységvégzés esetén a Nemzeti Egészségbiztosítási Alapkezelővel vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
 
-[^83]: A 12/E. §-t megelőző alcímet a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
-[^84]: A 12/E. §-t a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
-[^85]: A 12/E. § (10) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^79]: A 12/E. §-t megelőző alcímet a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
+[^80]: A 12/E. §-t a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
+[^81]: A 12/E. § (10) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés b) pontja szerint módosított szöveg.
