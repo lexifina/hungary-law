@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-3-20-0B
 | 2013-01-19 | 2005-3-20-0B.8 | 6/2013. (I. 18.) EMMI rendelet |
 | 2015-11-25 | 2005-3-20-0B.9 | 45/2011. (VII. 7.) NEFMI rendelet |
 | 2017-01-05 | 2005-3-20-0B.10 | 44/2016. (XII. 28.) EMMI rendelet |
+| 2017-04-01 | 2005-3-20-0B.11 | 54/2016. (XII. 30.) EMMI rendelet |

@@ -14,12 +14,12 @@ c) a 7–11. §-okban meghatározott követelményeknek az OVSZ területi szerv�
 
 (3) A felelős személyt a (2) bekezdésben meghatározott követelményeknek megfelelő személy helyettesítheti.
 
-(4)[^37] Az OVSZ területi szerve értesíti az OTH-t a (3) bekezdésben említett személy nevéről a felelősségi körébe tartozó konkrét feladatokkal együtt.
+(4)[^37] Az OVSZ területi szerve értesíti az országos tisztifőorvost a (3) bekezdésben említett személy nevéről a felelősségi körébe tartozó konkrét feladatokkal együtt.
 
-(5)[^38] Amennyiben a felelős személy személyében változás áll be, az OVSZ területi szerve haladéktalanul értesíti az OTH-t az új felelős személy nevéről és arról, hogy mikor kezdte meg e tevékenység végzését.
+(5)[^38] Amennyiben a felelős személy személyében változás áll be, az OVSZ területi szerve haladéktalanul értesíti az országos tisztifőorvost az új felelős személy nevéről és arról, hogy mikor kezdte meg e tevékenység végzését.
 
 (6) A 4. § (2) bekezdés szerinti egészségügyi szolgáltató vérgyűjtést végző szervezeti egységének vezetője felelős a szervezeti egység által végzett vérgyűjtésért.
 
 [^36]: Az 5. § a 10/2011. (III. 30.) NEFMI rendelet 50. § (2) bekezdésével megállapított szöveg.
-[^37]: A 6. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.
-[^38]: A 6. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.
+[^37]: A 6. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 45. § b) pontja szerint módosított szöveg.
+[^38]: A 6. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 45. § b) pontja szerint módosított szöveg.

@@ -204,7 +204,7 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 2.3. Kizárás konkrét epidemiológiai helyzetekben
 
-| Konkrét epidemiológiai helyzetek (például járványok kitörése) | A kizárás megfelel az epidemiológiai helyzetnek (Erről az OTH értesíti az Európai Bizottságot.) |
+| Konkrét epidemiológiai helyzetek (például járványok kitörése) | A kizárás megfelel az epidemiológiai helyzetnek (Erről az országos tisztifőorvos értesíti az Európai Bizottságot.) |
 
 2.4. Kizárási kritériumok autológ véradás donorai esetében
 
@@ -216,4 +216,4 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 [^72]: A 3. számú melléklet A. rész 1. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § g) pontja szerint módosított szöveg.
 [^73]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^74]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése, az 54/2015. (XI. 24.) EMMI rendelet 27. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § c) és h) pontja szerint módosított szöveg.
+[^74]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése, az 54/2015. (XI. 24.) EMMI rendelet 27. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § c) és h) pontja, az 54/2016. (XII. 30.) EMMI rendelet 45. § g) pontja szerint módosított szöveg.
