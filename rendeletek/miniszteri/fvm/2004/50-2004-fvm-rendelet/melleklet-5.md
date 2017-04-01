@@ -82,6 +82,6 @@
 
 | Verbascum phlomoides Szöszös ökörfarkkóró | 95,0 | 0,1 | 70 |
 
-5. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^220]
+5. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^221]
 
-[^220]: Az 5. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő, valamint a 124/2007. (X. 20.) FVM rendelet 18. § (5) bekezdése és 19. § (1) bekezdés c) pontja, a 14/2011. (II. 24.) VM rendelet 16. § (2) bekezdése, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^221]: Az 5. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő, valamint a 124/2007. (X. 20.) FVM rendelet 18. § (5) bekezdése és 19. § (1) bekezdés c) pontja, a 14/2011. (II. 24.) VM rendelet 16. § (2) bekezdése, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.

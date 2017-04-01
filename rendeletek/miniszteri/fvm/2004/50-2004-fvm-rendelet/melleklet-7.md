@@ -14,7 +14,7 @@
 
 ## a minősítési céllal legutoljára végzett hatósági mintavétel ideje (év és hónap), az alábbiak szerint: „mintavétel ideje... (év és hónap)”.
 
-## 1.4. A tétel hivatkozási száma.
+## 1.4. A tétel fémzárolási száma.
 
 ## 1.5. A faj megnevezése legalább álló betűkkel, a botanikai név, amely rövidített formában és a leírója neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő megadásával.
 
@@ -28,17 +28,17 @@
 
 ## 1.10. A tömeg feltüntetése esetén, amennyiben szemcsés növényvédőszer, csávázószer vagy egyéb szilárd adalékanyag használatára került sor, az adalékanyag jellege, valamint a gomolyok, illetve a tiszta vetőmag tömegének a teljes tömeghez viszonyított közelítő aránya.
 
-## 1.11. Olyan fajták esetében, amelyek hibridek vagy beltenyésztésű vonalak:
+## 1.11. Az egyes címkéket megkülönböztető hatósági sorszám.
 
-## − elit vetőmag esetében, amennyiben az a hibrid vagy beltenyésztésű vonal, amelyhez a vetőmag tartozik, hatóságilag el van ismerve:
+## 1.12. Olyan fajták esetében, amelyek hibridek vagy beltenyésztésű vonalak:
 
-## az adott komponens fajta hivatalos elismerése során használt megnevezése, a végleges fajtára való hivatkozással vagy a nélkül, kizárólag végleges fajta komponenséül szánt hibrid vagy beltenyésztésű vonal esetében pedig a „komponens” szó kíséretében,
+## 1.12.1. elit vetőmag esetében, amennyiben az a hibrid vagy beltenyésztésű vonal, amelyhez a vetőmag tartozik, hatóságilag el van ismerve: az adott komponens fajta hivatalos elismerése során használt megnevezése, a végleges fajtára való hivatkozással vagy a nélkül, kizárólag végleges fajta komponenséül szánt hibrid vagy beltenyésztésű vonal esetében pedig a „komponens” szó kíséretében,
 
-## − elit vetőmag egyéb eseteiben: annak a komponensnek a megnevezése, amelyhez az elit vetőmag tartozik, amely kód formájában is megadható a végleges fajtára való hivatkozás kíséretében, a funkcióra (hím- vagy nőivarú) való hivatkozással vagy a nélkül, és a „komponens” szó kíséretében,
+## 1.12.2. elit vetőmag egyéb eseteiben: annak a komponensnek a megnevezése, amelyhez az elit vetőmag tartozik, amely kód formájában is megadható a végleges fajtára való hivatkozás kíséretében, a funkcióra (hím vagy anyai szülő) való hivatkozással vagy a nélkül és a „komponens” szó kíséretében,
 
-## − certfikált vetőmag esetében: annak a fajtának a megnevezése, amelyhez a vetőmag tartozik, a „hibrid” szó kíséretében.
+## 1.12.3. certifikált vetőmag esetében: annak a fajtának a megnevezése, amelyhez a vetőmag tartozik, a „hibrid” szó kíséretében.
 
-## 1.12. Amennyiben elvégezték legalább a csírázás ismételt ellenőrzését, ez a tény az „Ismételten ellenőrizve (év és hónap)” felirattal jelezhető.
+## 1.13. Amennyiben elvégezték legalább a csírázás ismételt ellenőrzését, ez a tény az „Ismételten ellenőrizve (év és hónap)” felirattal jelezhető.
 
 ## 2. Minimális méret: 110 × 67 mm.
 
@@ -96,46 +96,52 @@
 
 ## 3 Standard vetőmagnál: sötét sárga.
 
-7. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez
+7. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^223]
 
-## A más tagállamokban betakarított, nem véglegesen certifikált vetőmagvak címkéjére és okmányára vonatkozó részletes előírások
+## A más tagállamban betakarított, nem véglegesen certifikált vetőmagvak címkéjére és okmányára vonatkozó részletes előírások
 
 1. A címkén kötelezően feltüntetendő adatok a következők:
 
-− a helyszíni szemléért felelős hatóság és tagállam neve vagy kezdőbetűi,
+1.1. a szántóföldi ellenőrzésért felelős hatóság és tagállam neve vagy kezdőbetűi,
 
-− a faj megnevezése legalább álló betűkkel, a botanikai név, amely rövidített formában és a leíró neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő,
+1.2. a faj megnevezése álló latin betűkkel, a botanikai név, amely rövidített formában és a leíró neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő,
 
-− a fajta megnevezése, legalább álló betűkkel,
+1.3. a fajta megnevezése, álló latin betűkkel,
 
-− kategória,
+1.4. kategória,
 
-− a parcella vagy az árutétel hivatkozási száma,
+1.5. a vetőmag-előállító tábla vagy a vetőmag tétel hivatkozási száma,
 
-− bejelentett nettó vagy bruttó súly,
+1.6. bejelentett nettó vagy bruttó súly,
 
-− a „nem véglegesen certifikált vetőmag” felirat.
+1.7. a „nem véglegesen certifikált vetőmag” felirat,
 
-2. A címke szürke színű kell legyen.
+1.8. az egyes címkéket megkülönböztető hatósági sorszám.
+
+2. A címke színe szürke.
 
 3. Az okmányon kötelezően feltüntetendő adatok a következők:
 
-− az okmányt kibocsátó hatóság,
+3.1. az okmányt kibocsátó hatóság,
 
-− a faj megnevezése legalább álló betűkkel, a botanikai név, amely rövidített formában és a leíró neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő,
+3.2. a faj megnevezése álló latin betűkkel, a botanikai név, amely rövidített formában és a leíró neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő,
 
-− a fajta megnevezése, legalább álló betűkkel,
+3.3. a fajta megnevezése, álló latin betűkkel,
 
-− kategória,
+3.4. kategória,
 
-− az anyamag hivatkozási száma és a vetőmagot minősítő ország vagy országok neve,
+3.5. az anyamag hivatkozási száma és a vetőmagot minősítő ország vagy országok neve,
 
-− a tábla vagy az árutétel hivatkozási száma,
+3.6. a vetőmag-előállító tábla vagy a vetőmag tétel hivatkozási száma,
 
-− az okmány által kísért árutétellel bevetett terület,
+3.7. az okmányon szereplő vetőmag tétel előállítására szolgáló vetőmag előállító tábla területe,
 
-− a betakarított vetőmag mennyisége és a csomagolási egységek száma,
+3.8. a betakarított vetőmag mennyisége és a csomagolási egységek száma,
 
-− annak tanúsítása, hogy teljesültek a vetőmagot adó termény tekintetében előírt feltételek,
+3.9. annak tanúsítása, hogy a vetőmag termelése során a vetőmag előállító tábla növényállománya a követelményeknek megfelelt,
 
-− adott esetben az előzetes vetőmagvizsgálat eredményei.
+3.10. adott esetben az előzetes vetőmagvizsgálat eredményei,
+
+3.11. a hatósági sorszám.
+
+[^223]: A 7. számú melléklet a 47/2016. (VII. 15.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
