@@ -24,7 +24,7 @@ a) Foglalkoztató:
 
 9. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat,
 
-10. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció (a továbbiakban: munka-rehabilitáció) keretében munka-rehabilitációs díjat folyósító szociális intézmény.
+10. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési jogviszony keretében fejlesztési foglalkoztatási díjat folyósító fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény.
 
 b) Egyéni vállalkozó:
 
