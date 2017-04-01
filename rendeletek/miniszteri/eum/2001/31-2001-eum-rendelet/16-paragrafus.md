@@ -1,4 +1,4 @@
-## 15. §[^16] A rendeletben foglaltak megtartását a sugáregészségügyi hatóság, valamint a szakterület szerint illetékes, a feladattal megbízott szakfelügyelő főorvos rendszeresen ellenőrzi.
+## 15. §[^17] A rendeletben foglaltak megtartását a sugáregészségügyi hatóság, valamint a szakterület szerint illetékes, a feladattal megbízott szakfelügyelő főorvos rendszeresen ellenőrzi.
 
 16. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivételekkel – a kihirdetését követő 30. napon lép hatályba.
 
@@ -8,4 +8,4 @@
 
 (4) Ahol korábbi jogszabály orvos-fizikusról szól, ott ezen a továbbiakban egészségügyi fizikust kell érteni.
 
-[^16]: A 15. § a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (7) bekezdésének b) pontjával megállapított, a 33/2013. (V. 10.) EMMI rendelet 25. §-a szerint módosított szöveg.
+[^17]: A 15. § a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (7) bekezdésének b) pontjával megállapított, a 33/2013. (V. 10.) EMMI rendelet 25. §-a szerint módosított szöveg.

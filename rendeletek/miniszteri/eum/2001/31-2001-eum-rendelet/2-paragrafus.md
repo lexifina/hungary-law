@@ -26,7 +26,7 @@ l) radiológiai eljárás: olyan, az 1. § (1) bekezdésében meghatározott eg�
 
 m) radiológiai szűrővizsgálat: radiológiai berendezéseket felhasználó szűrővizsgálat korai diagnosztikai céllal;
 
-n)[^1] sugáregészségügyi hatóság: az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: OTH), illetve a sugár-egészségügyi feladatokra illetékességgel rendelkező fővárosi és megyei kormányhivatal.
+n)[^2] sugáregészségügyi hatóság: az Országos Közegészségügyi Intézet (a továbbiakban: OKI) illetve a sugár-egészségügyi feladatokra illetékességgel rendelkező fővárosi és megyei kormányhivatal.
 
 o) sugárterhelés: a radiológiai eljárás keretében az 1. §-ban meghatározott személyt érő besugárzás;
 
@@ -34,16 +34,16 @@ p) sugárterhelés optimálása: az adott körülmények között ésszerűen el
 
 q) sugárterhelést kapó személy: az 1. § (1) bekezdésében meghatározott egészségügyi vizsgálat, kezelés, program, illetőleg eljárás során besugárzást kapó személy.
 
-r)[^2] klinikai audit: a 3. § (2) bekezdésben előírtak részét képező felülvizsgálati eljárás, amelynek célja a szolgáltatás minőségének és a betegellátásnak a javítása;
+r)[^3] klinikai audit: a 3. § (2) bekezdésben előírtak részét képező felülvizsgálati eljárás, amelynek célja a szolgáltatás minőségének és a betegellátásnak a javítása;
 
-s)[^3] páciensdozimetria: páciensdózisok meghatározása;
+s)[^4] páciensdozimetria: páciensdózisok meghatározása;
 
-t)[^4] gyakorlati vonatkozások: a 10. § (2) bekezdés és a 11. § vonatkozásában az 1. § (1) bekezdésében felsorolt radiológiai eljárások bármelyikének gyakorlati végrehajtása, továbbá bármely ezekhez kapcsolódó kiegészítő tevékenység – ideértve a radiológiai berendezések kezelését és használatát, a műszaki és fizikai paraméterek becslését (a sugárdózisokat is), a berendezések kalibrálását és karbantartását, a radiofarmakonok előkészítését és kiszolgáltatását, valamint a filmek előhívását;
+t)[^5] gyakorlati vonatkozások: a 10. § (2) bekezdés és a 11. § vonatkozásában az 1. § (1) bekezdésében felsorolt radiológiai eljárások bármelyikének gyakorlati végrehajtása, továbbá bármely ezekhez kapcsolódó kiegészítő tevékenység – ideértve a radiológiai berendezések kezelését és használatát, a műszaki és fizikai paraméterek becslését (a sugárdózisokat is), a berendezések kalibrálását és karbantartását, a radiofarmakonok előkészítését és kiszolgáltatását, valamint a filmek előhívását;
 
-u)[^5] radiológiai létesítmény: radiológiai berendezést tartalmazó létesítmény.
+u)[^6] radiológiai létesítmény: radiológiai berendezést tartalmazó létesítmény.
 
-[^1]: A 2. § n) pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (7) bekezdésének a) pontjával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 32. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § r) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
-[^3]: A 2. § s) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
-[^4]: A 2. § t) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
-[^5]: A 2. § u) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
+[^2]: A 2. § n) pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (7) bekezdésének a) pontjával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 32. § a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 19. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § r) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
+[^4]: A 2. § s) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
+[^5]: A 2. § t) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
+[^6]: A 2. § u) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
