@@ -1,45 +1,41 @@
-## Az e-közmű regisztrációs adatlap
+## TANÚSÍTVÁNY
 
-## 1. Regisztráló adatai:
+## az e-közműbe történt regisztrációról
 
-|  | A | B |
+## A közművezeték-üzemeltető adatai:
 
-|  | 1. | Az e-közmű adatszolgáltató (üzemeltető) neve és címe: |  |
+| Név: |  |
 
-|  | 2. |  | Adószám: |  |
+| Cím: |  |
 
-|  | 3. |  | Telefon: |  |
+| Adószám: |  |
 
-|  | 4. |  | Fax: |  |
+| Telefon: |  |
 
-|  | 5. |  | Honlap: |  |
+| Fax: |  |
 
-|  | 6. |  | Kapcsolattartó neve: |  |
+| Honlap: |  |
 
-|  | 7. |  | Szervezeti egység: |  |
+## A közművezeték-üzemeltető megadta:
 
-|  | 8. |  | Beosztás: |  |
+## • az általa üzemeltetett közműhálózat által lefedett településeket,
 
-|  | 9. |  | E-mail címe: |  |
+## • az előző pontban szereplő településekre kiterjedően működő ügyfélszolgálatait,
 
-|  | 10. |  | Telefonszáma: |  |
+## • a közműegyeztetésben feladatkörrel rendelkező munkatársa címét és elérhetőségét
 
-|  | 11. |  | Az üzemeltetett közművezeték tulajdonosának (tulajdonosainak) neve, címe és adószáma, ha nem egyezik meg az üzemeltetővel: |  |
+## • az általa üzemeltetett közműhálózat tulajdonosait, szolgáltatói engedélyeseit és azok elérhetőségét.
 
-|  | 12. |  | Az üzemeltetett közművezeték szolgáltatói engedélyesének (engedélyeseinek) neve, címe és adószáma, ha nem egyezik meg az üzemeltetővel: |  |
+## Regisztráció jóváhagyásának dátuma:…………
 
-## 2. A regisztráció dátuma: □□□□. □□. □□
+## Az e-közmű rendszerben
 
-## 3. Az igénylő szervezet/intézmény jóváhagyása:
+## közművezeték-üzemeltető regisztrált adatszolgáltatóvá vált.
 
-## Alulírott ……………………… (felelős vezető) igazolom, hogy a/az ………………… társaság e-közmű kapcsolattartójaként a/az ………………………………………munkatárs került kinevezésre.
+## e-közműt üzemeltető szervezet:
 
-|  | ………………………………………………… |
+## Lechner Nonprofit Kft.
 
-|  | Cégszerű aláírás |
+2. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez[^41]
 
-## 4. Keltezés: ……………………
-
-## A regisztrációs lap aláírását követően az eredeti példányt a bejelentéstől számított 15 napon belül az e-közműt üzemeltető szervezetéhez kell eljuttatni.
-
-2. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez
+[^41]: A 2. melléklet a 369/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.

@@ -14,24 +14,6 @@ e) a sajátos építményfajták építésügyi hatósági feladatait ellátó s
 
 ## terjed ki.
 
-(2) E rendelet hatálya nem terjed ki
+(2)[^1]
 
-a) a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló kormányrendelet szerinti honvédelmi és katonai célú közművezetékekre,
-
-b) a bányászatról szóló törvény szerinti bányászati tevékenységgel és a bányászati hulladék kezelésével kapcsolatos mezőbeni vezetékrendszerekre,
-
-c) az atomenergiáról szóló törvény szerinti nukleáris létesítményekre, nukleáris létesítménnyel összefüggő építményekre, nukleáris rendszerre és rendszerelemekre,
-
-d) a villamosenergia-átviteli hálózat 220 kV-os, 400 kV-os és 750 kV-os távvezetékeire,
-
-e) a nagynyomású szénhidrogén-vezetékekre,
-
-f) a nagysebességű országos elektronikus hírközlési vezetékekre,
-
-g) az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló kormányrendelet szerinti kormányzati célú hálózatokra,
-
-h) a nemzetbiztonsági célú, illetve rendeltetésű építményekre,
-
-i) a közlekedési hálózatok biztosító és távközlési vezetékeire,
-
-j) a mobil távközlési építményekre.
+[^1]: Az 1. § (2) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.

@@ -1,1 +1,3 @@
-## 13. § A közművezeték üzemeltető az e rendelet hatálybalépésekor a nyilvántartásában digitálisan meg nem lévő adatokat digitálisan az e-közmű részére a 6. § (1) bekezdése szerinti műszaki követelményekkel és metaadatokkal, az 5. melléklet 1., 4. és 5. pontjának megfelelően 2017. január 1-jétől köteles naprakészen szolgáltatni.
+## 13. §[^36] E rendeletnek a Módr.-ral meghatározott 9/A. § (5) bekezdése, valamint 9/B. § (2) bekezdése szerinti díjfizetési kötelezettségnek 2017. július 1-jétől kell eleget tenni.
+
+[^36]: A 13. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
