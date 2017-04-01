@@ -1,3 +1,3 @@
-8. melléklet az 1/2017. (II. 14.) EMMI rendelethez[^21]
+8. melléklet az 1/2017. (II. 14.) EMMI rendelethez[^15]
 
-[^21]: A 8. melléklet a 66. § (4) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^15]: A 8. melléklet a 66. § (4) bekezdése alapján 2018. január 1-jén lép hatályba.
