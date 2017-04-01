@@ -18,7 +18,7 @@
 
 | 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Gyöngyösi Járási Hivatal | Heves Megyei Kormányhivatal |
+| 9. | ingatlan-nyilvántartási hatósági eljárás | Gyöngyösi Járási Hivatal | Heves Megyei Kormányhivatal |
 
 | 10. | telekalakítási hatósági eljárás | Gyöngyösi Járási Hivatal | Heves Megyei Kormányhivatal |
 
@@ -28,7 +28,7 @@
 
 | 13. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
 | 15. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
@@ -40,7 +40,7 @@
 
 | 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 20. | a jogszabályban rögzített közegészségügyi hatósági eljárások | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 20. | a jogszabályban rögzített közegészségügyi hatósági eljárások | illetékes járási hivatal | Heves Megyei Kormányhivatal |
 
 | 21. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -84,10 +84,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | erdővédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 18. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | egészségügy | illetékes járási hivatal | Heves Megyei Kormányhivatal |
 
 | 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 20. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 85. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 85. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 85. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
