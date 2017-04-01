@@ -108,9 +108,12 @@
 
 ## – a tervezett műtárgyak megnevezését és darab számát az általuk elfoglalt területet (m2)
 
+## 3.[^72] Az e-közműt üzemeltető szervezet tanúsítványa arról, hogy a tárgyi vezeték üzemben tartója regisztrált e-közmű adatszolgáltató.
+
 3. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez
 
 [^68]: A 2. melléklet Előmunkálati jogi engedély dokumentációja cím 3. pontja a 70/2015. (III. 30.) Korm. rendelet 73. § (4) bekezdés e) pontja szerint módosított szöveg.
 [^69]: A 2. melléklet Előmunkálati jogi engedély dokumentációja cím 5. pontja a 70/2015. (III. 30.) Korm. rendelet 73. § (7) bekezdése szerint módosított szöveg.
 [^70]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^71]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 2. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a, a 70/2015. (III. 30.) Korm. rendelet 73. § (7) bekezdése szerint módosított szöveg.
+[^72]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 3. pontját a 369/2016. (XI. 29.) Korm. rendelet 2. §-a iktatta be.
