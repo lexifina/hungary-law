@@ -84,10 +84,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | élelmiszerlánc-biztonság | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 17. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 17. | egészségügy | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
 | 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 19. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 54. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 54. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 54. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
