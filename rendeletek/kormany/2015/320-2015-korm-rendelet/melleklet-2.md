@@ -28,11 +28,11 @@
 
 ## 14. Oktatási Hivatal
 
-## 15. Országos Tisztifőorvosi Hivatal
+## 15.[^51]
 
-## 16.[^51]
+## 16.[^52]
 
-## 17.[^52]
+## 17.[^53]
 
 ## 18. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -40,13 +40,13 @@
 
 ## 20. Magyar Államkincstár
 
-## 21–23.[^53]
+## 21–23.[^54]
 
 ## 24. Nemzeti Adó- és Vámhivatal
 
 ## 25. Országos Mentőszolgálat
 
-## 26.[^54]
+## 26.[^55]
 
 ## 27. NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.
 
@@ -54,13 +54,13 @@
 
 ## 29. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
-## 30.[^55]
+## 30.[^56]
 
 ## 31. Nemzeti Védelmi Szolgálat
 
 ## 32. Nemzeti Közszolgálati Egyetem
 
-2. melléklet a 320/2015. (X. 30.) Korm. rendelethez[^56]
+2. melléklet a 320/2015. (X. 30.) Korm. rendelethez[^57]
 
 [^45]: Az 1. melléklet 5. pontját a 251/2016. (VIII. 24.) Korm. rendelet 14. §-a hatályon kívül helyezte.
 [^46]: Az 1. melléklet 7. pontja a 379/2016. (XII. 2.) Korm. rendelet 307. § (1) bekezdésével megállapított szöveg.
@@ -68,9 +68,10 @@
 [^48]: Az 1. melléklet 10. pontját a 379/2016. (XII. 2.) Korm. rendelet (2) bekezdés a) pontja hatályon kívül helyezte.
 [^49]: Az 1. melléklet 12. pontja a 134/2016. (VI. 10.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^50]: Az 1. melléklet 13. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^51]: Az 1. melléklet 16. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^52]: Az 1. melléklet 17. pontját a 328/2016. (X. 28.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^53]: Az 1. melléklet 21–23. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^54]: Az 1. melléklet 26. pontját a 134/2016. (VI. 10.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
-[^55]: Az 1. melléklet 30. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^56]: A 2. melléklet a 478/2016. (XII. 27.) Korm. rendelet 21. § (1) bekezdés a) pontjával megállapított szöveg.
+[^51]: Az 1. melléklet 15. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^52]: Az 1. melléklet 16. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^53]: Az 1. melléklet 17. pontját a 328/2016. (X. 28.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^54]: Az 1. melléklet 21–23. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^55]: Az 1. melléklet 26. pontját a 134/2016. (VI. 10.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^56]: Az 1. melléklet 30. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^57]: A 2. melléklet a 478/2016. (XII. 27.) Korm. rendelet 21. § (1) bekezdés a) pontjával megállapított szöveg.
