@@ -6,11 +6,11 @@
 
 (4)[^49] A járási hivatal minden szezont követően legkésőbb október 15-éig jelenti a megyei kormányhivatalnak a nyilvánosság bevonásával és tájékoztatásával kapcsolatos tapasztalatokat és a megtett intézkedéseket.
 
-(5)[^50] A megyei kormányhivatal minden év november 15-éig összesített jelentést küld az OTH-ba a járási hivatalok és a saját, a nyilvánosság tájékoztatásával és bevonásával kapcsolatos tapasztalatairól és intézkedéseiről.
+(5)[^50] A megyei kormányhivatal minden év november 15-éig összesített jelentést küld az országos tisztifőorvosnak a járási hivatalok és a saját, a nyilvánosság tájékoztatásával és bevonásával kapcsolatos tapasztalatairól és intézkedéseiről.
 
 [^45]: A 11/A. §-t a 148/2011. (VIII. 4.) Korm. rendelet 6. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
 [^46]: A 11/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^47]: A 11/A. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^48]: A 11/A. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^49]: A 11/A. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés k) pontja szerint módosított szöveg.
-[^50]: A 11/A. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^50]: A 11/A. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés e) pontja szerint módosított szöveg.

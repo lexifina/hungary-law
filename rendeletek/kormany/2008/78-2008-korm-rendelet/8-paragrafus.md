@@ -8,11 +8,11 @@
 
 (4a)[^23] Az (1) bekezdésben felsorolt vízszennyező anyagok jelenlétének észlelése esetén a járási hivatal az ezt rögzítő jegyzőkönyv kézhezvételét követően azonnal megteszi a megfelelő intézkedéseket, beleértve a jegyző és a nyilvánosság tájékoztatását.
 
-(5)[^24] A fürdővíz minőségére vonatkozó minták kezelése és vizsgálata az 1. mellékletben megjelölt módszerekkel, a 6. mellékletben megjelölt szabályok szerint történik. Ezektől eltérő módszerek is alkalmazhatók, amennyiben az így nyert eredmények egyenértékűek az 1. mellékletben meghatározott módszerekkel, illetve a 6. mellékletben megjelölt szabályok alkalmazásával kapott eredményekkel. Az eltérő módszer alkalmazását az Országos Közegészségügyi Központ (a továbbiakban: OKK) szakvéleménye alapján az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) engedélyezi és az engedélyt a honlapján közzéteszi.
+(5)[^24] A fürdővíz minőségére vonatkozó minták kezelése és vizsgálata az 1. mellékletben megjelölt módszerekkel, a 6. mellékletben megjelölt szabályok szerint történik. Ezektől eltérő módszerek is alkalmazhatók, amennyiben az így nyert eredmények egyenértékűek az 1. mellékletben meghatározott módszerekkel, illetve a 6. mellékletben megjelölt szabályok alkalmazásával kapott eredményekkel. Az eltérő módszer alkalmazását az Országos Közegészségügyi Intézet (a továbbiakban: OKI) szakvéleménye alapján a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Budapest Főváros Kormányhivatala) engedélyezi és az engedélyt a honlapján közzéteszi.
 
 (6)[^25] Ha valamely helyszíni szemle vagy laboratóriumi vizsgálat eredménye alapján a fürdővíz jelentős vagy tartós minőségromlása vagy ennek lehetősége megállapítható, a járási hivatal kezdeményezi további vizsgálat elvégzését.
 
 [^22]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^23]: A 8. § (4a) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 3. §-a iktatta be, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^24]: A 8. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^24]: A 8. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés a)–b) pontja szerint módosított szöveg.
 [^25]: A 8. § (6) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.

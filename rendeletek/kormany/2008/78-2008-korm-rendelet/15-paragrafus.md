@@ -4,7 +4,7 @@
 
 (2) A fürdővízprofilokról első alkalommal 2011. március 1-jéig kell határozatot hozni.
 
-(3)[^68] Az e rendelet előírásainak teljesítésével kapcsolatos mintavételeket és laboratóriumi vizsgálatokat akkreditált eljárás keretében 2009. március 24-ét követően kizárólag olyan laboratórium végezheti, amely az OKK által szervezett jártassági körvizsgálatokban megfelelő eredményekkel részt vett és teljesíti a 11. § (1) bekezdésében foglaltakat, valamint az OTH erre feljogosította. A feljogosítást – kérelemre – az OTH adja ki. A feljogosított laboratóriumok listáját az OTH honlapján közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az OKK vagy az OTH kezdeményezheti.
+(3)[^68] Az e rendelet előírásainak teljesítésével kapcsolatos mintavételeket és laboratóriumi vizsgálatokat akkreditált eljárás keretében 2009. március 24-ét követően kizárólag olyan laboratórium végezheti, amely az OKI által szervezett jártassági körvizsgálatokban megfelelő eredményekkel részt vett és teljesíti a 11. § (1) bekezdésében foglaltakat, valamint a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) erre feljogosította. A feljogosítást – kérelemre – a Kormányhivatal adja ki. A feljogosított laboratóriumok listáját a Kormányhivatal közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az OKI vagy a Kormányhivatal kezdeményezheti.
 
 (4)[^69]
 
@@ -20,7 +20,7 @@
 
 (10)[^71]
 
-(11) Az OTH a 2008. évtől kezdődően tájékoztatja az Európai Bizottságot
+(11)[^72] Az országos tisztifőorvos a 2008. évtől kezdődően tájékoztatja az Európai Bizottságot
 
 a) minden fürdési idény kezdete előtt a fürdővízként azonosított felszíni vizekről és az előző évhez képest bekövetkezett változásokról, valamint azok okairól,
 
@@ -32,14 +32,16 @@ bb) a vízminőség felügyelet terén hozott jelentősebb intézkedésekről,
 
 bc) a vízminőség ellenőrzési ütemterv felfüggesztéséről a felfüggesztés indokainak megjelölésével.
 
-(12) Az OTH a 8. § (5) bekezdése szerint kiadott eltérési engedélyekről a kiadást követő 30 napon belül tájékoztatja az Európai Bizottságot.
+(12)[^73] Az országos tisztifőorvos a 8. § (5) bekezdése szerint kiadott eltérési engedélyekről a kiadást követő 30 napon belül tájékoztatja az Európai Bizottságot.
 
-(13)[^72]
+(13)[^74]
 
 (14) Ez a rendelet a fürdővizek minőségéről és a 76/160/EGK irányelv hatályon kívül helyezéséről szóló 2006. február 15-i 2006/7/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^68]: A 15. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
+[^68]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (1) bekezdésével megállapított szöveg.
 [^69]: A 15. § (4) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
 [^70]: A 15. § (8) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
 [^71]: A 15. § (10) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
-[^72]: A 15. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^72]: A 15. § (11) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^73]: A 15. § (12) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^74]: A 15. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.

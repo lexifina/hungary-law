@@ -1,6 +1,6 @@
 ## Nyilvánosság tájékoztatása
 
-11. § (1)[^36] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a járási hivatalnak és a megyei kormányhivatalnak, valamint az OKK-nak értékelés és a nyilvánosság tájékoztatása céljából.
+11. § (1)[^36] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a járási hivatalnak és a megyei kormányhivatalnak, valamint az OKI-nak értékelés és a nyilvánosság tájékoztatása céljából.
 
 (2)[^37] A fürdővíz minőségére vonatkozó adatok közérdekűek. A nyilvánosság fürdővizekkel kapcsolatos tájékoztatását a (3)–(9) bekezdések alapján kell biztosítani. A víz minőségéről és annak az egészségre gyakorolt hatásáról – kérelemre – a járási hivatal, illetve a megyei kormányhivatal felvilágosítást ad.
 
@@ -66,20 +66,20 @@ dd) a szennyezés okainak elhárítására és a fürdőzők expozíciójának m
 
 (10)[^42] A megyei kormányhivatal a (9) bekezdés b)–d) pontjaiban foglalt információt amint az rendelkezésre áll, de legkésőbb minden év december 15-éig teszi közzé.
 
-(11)[^43] Az OTH a nyilvántartott fürdővizek és kijelölt fürdőhelyek, valamint a tartós fürdési tilalom alá eső fürdővizek listáját minden fürdési idény kezdete előtt, amint az rendelkezésre áll, de legkésőbb június 15-ig a honlapján közzéteszi.
+(11)[^43] Az országos tisztifőorvos a nyilvántartott fürdővizek és kijelölt fürdőhelyek, valamint a tartós fürdési tilalom alá eső fürdővizek listáját minden fürdési idény kezdete előtt, amint az rendelkezésre áll, de legkésőbb június 15-ig a honlapján közzéteszi.
 
-(12)[^44] A járási hivatal adatszolgáltatása alapján a megyei kormányhivatal és az OTH a honlapján keresztül közérthető módon tájékoztatja a nyilvánosságot
+(12)[^44] A járási hivatal adatszolgáltatása alapján a megyei kormányhivatal és az országos tisztifőorvos a honlapján keresztül közérthető módon tájékoztatja a nyilvánosságot
 
 a) az emelkedett cianobaktérium-burjánzással összefüggő egészségügyi kockázatról és a cianobaktériumra különösen érzékeny személyek magatartására vonatkozó ajánlásokról,
 
 b) a makroalgák elszaporodásának tendenciájáról és az ezzel összefüggő egészségügyi kockázatról.
 
-[^36]: A 11. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 30/2015. (II. 25.) Korm. rendelet 29. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^36]: A 11. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^37]: A 11. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés i) pontja szerint módosított szöveg.
 [^38]: A 11. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^39]: A 11. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^40]: A 11. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^41]: A 11. § (9) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés j) pontja szerint módosított szöveg.
 [^42]: A 11. § (10) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés j) pontja szerint módosított szöveg.
-[^43]: A 11. § (11) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^44]: A 11. § (12) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 5. § (3) bekezdése iktatta be, nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) és j) pontja szerint módosított szöveg.
+[^43]: A 11. § (11) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^44]: A 11. § (12) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 5. § (3) bekezdése iktatta be, nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) és j) pontja, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
