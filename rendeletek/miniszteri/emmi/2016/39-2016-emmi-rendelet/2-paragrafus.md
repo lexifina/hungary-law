@@ -4,9 +4,9 @@
 
 a)[^1] a Nemzeti Egészségbiztosítási Alapkezelő,
 
-b) az Országos Tisztifőorvosi Hivatal,
+b)[^2] az Emberi Erőforrások Minisztériuma,
 
-c)[^2]
+c)[^3]
 
 d) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet.
 
@@ -27,4 +27,5 @@ c) a csatlakozás folyamatát, pontos rendjét meghatározó dokumentumokat, és
 d) a követelmények ellenőrzésének menetét.
 
 [^1]: A 2. § (1) bekezdés a) pontja a 23. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés c) pontját a 24. § hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdés b) pontja a 23. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontját a 24. § hatályon kívül helyezte.
