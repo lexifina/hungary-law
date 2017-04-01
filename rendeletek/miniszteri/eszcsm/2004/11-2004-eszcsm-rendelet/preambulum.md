@@ -1,1 +1,0 @@
-A magyar Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ feladatainak ellátásával kapcsolatos egyes kérdésekről szóló 28/2004. (II. 28.) Korm. rendelet (a továbbiakban: R.) 4. §-ának (2) bekezdésében kapott felhatalmazás alapján – a gyermek-, ifjúság és sportminiszterrel egyetértésben – a következőket rendelem el:

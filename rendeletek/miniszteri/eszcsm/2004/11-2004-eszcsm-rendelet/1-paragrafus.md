@@ -1,9 +1,0 @@
-1. § (1) A magyar Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ (a továbbiakban: Központ) az Európai Unió Kábítószer és Kábítószer-függőség Európai Megfigyelő Központja (a továbbiakban: EMCDDA), illetőleg az EMCDDA-hoz kapcsolódó Kábítószerek és Kábítószer-függőség Európai Megfigyelő Hálózat (a továbbiakban: REITOX) munkájában ellátja a magyar nemzeti központ adat-, és információgyűjtő, -feldolgozó és -értékelő, illetőleg kapcsolattartó feladatait, valamint információt, adatot szolgáltat különösen a Kormány számára döntéseinek előkészítéséhez, egyéb, a Központ feladatköréhez kapcsolódó szakterületen jelentkező feladatai teljesítéséhez.
-
-(2) A Központ részt vesz az EMCDDA munkatervének kialakításában és ennek megfelelően – megvalósítandó feladatai vonatkozásában – hároméves, illetve éves munkatervet készít.
-
-(3) A Központ a nemzeti kábítószer-helyzetre vonatkozó adatok és információk gyűjtése, átvétele, feldolgozása, elemzése és értékelése körében – az irányadó hatályos jogszabályok keretei között – az EMCDDA munkaterve, ütemterve, előírásai, irányelvei szerint jár el, illetve ellátja a külön jogszabály alapján előírt további nemzeti feladatokat.
-
-(4) A Központ évente javaslatot tesz az egészségügyi, szociális és családügyi miniszter (a továbbiakban: miniszter) számára az Országos Statisztikai Adatgyűjtési Programnak (a továbbiakban: OSAP) a Központ feladatkörét érintő szükség szerinti módosítására az adott évet követően alkalmazásra kerülő OSAP előkészítésének külön jogszabály szerinti rendjéhez igazodva.
-
-(5) A Központ (3) bekezdés szerinti feladatainak ellátásához szükséges, az R. 2. §-án alapuló információszolgáltatás részletes szempontjait a miniszter a belügyminiszterrel, a pénzügyminiszterrel, a gyermek-, ifjúsági és sportminiszterrel, valamint az igazságügy-miniszterrel egyetértésben kiadott tájékoztatóban, az Egészségügyi, Szociális és Családügy Minisztérium hivatalos lapjában tesz közzé.
