@@ -16,7 +16,7 @@
 
 ## e) a termék megnevezése,
 
-## f) egyéb jellemző kódok (így különösen: EAN kód, Vámtarifaszám, OGYÉI engedélyszám, fogyasztóvédelmi hatósági engedélyszám, gyártói cikkszám),
+## f)[^4] egyéb jellemző kódok [így különösen: EAN kód, a Jöt. szerinti KN-kód (ennek hiányában vámtarifaszám), OGYÉI engedélyszám, fogyasztóvédelmi hatósági engedélyszám, gyártói cikkszám],
 
 ## g) jövedéki besorolása,
 
@@ -89,3 +89,5 @@ c) gyártói/forgalomba hozói rendszerben definiált egyedi azonosítója.
 a) kiskereskedelmi eladási ár hatálybalépésének kezdő dátuma,
 
 b) kiskereskedelmi eladási ár.
+
+[^4]: A 3. melléklet 3. pont f) alpontja a 12. § (2) bekezdése szerint módosított szöveg.
