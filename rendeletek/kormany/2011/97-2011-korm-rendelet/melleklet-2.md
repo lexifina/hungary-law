@@ -84,7 +84,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | régészet és műemlékvédelem | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 18. | egészségügy, sugár-egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | egészségügy, sugár-egészségügy | illetékes járási hivatal | Csongrád Megyei Kormányhivatal |
 
 | 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -98,4 +98,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 24. | A radioaktív anyagoknak a vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a vízügyi hatóság részére adandó jelentések rendszerének a meghatározása | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-[^16]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 18. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^16]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 18. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
