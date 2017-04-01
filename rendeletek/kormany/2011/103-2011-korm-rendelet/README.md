@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-103-20-
 | 2016-09-01 | 2011-103-20-22.10 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-09-29 | 2011-103-20-22.11 | 281/2016. (IX. 21.) Korm. rendelet |
 | 2017-01-01 | 2011-103-20-22.12 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2017-04-01 | 2011-103-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |

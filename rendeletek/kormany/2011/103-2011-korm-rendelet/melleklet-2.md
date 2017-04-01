@@ -8,7 +8,7 @@
 
 | 3. | Vízbázisvédelmi terület, védőidom aktualizálása, kiegészítése. A tervezett tevékenység a felszíni és felszín alatti víztestek állapotára, hasznosítási lehetőségeire gyakorolt hatása. | a vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló Korm. rendelet szerinti megyei katasztrófavédelmi igazgatóság |
 
-| 4. | A területen és annak környezetében levő gyógyhelyek ásvány-, gyógyvíz, gyógygáz és gyógyiszap lelőhelyek megadása. | Országos Tisztifőorvosi Hivatal |
+| 4. | A területen és annak környezetében levő gyógyhelyek ásvány-, gyógyvíz, gyógygáz és gyógyiszap lelőhelyek megadása. | népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala |
 
 | 5. | A területen található termőföld mennyiségi védelmére vonatkozó követelmények. | ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
