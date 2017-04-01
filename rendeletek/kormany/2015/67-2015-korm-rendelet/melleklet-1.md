@@ -1,4 +1,4 @@
-## 3. §[^1]
+## 3. §[^1] 2017. április 1-jével állami foglalkoztatási szervi feladatkörében a Pest Megyei Kormányhivatal Szigetszentmiklósi Járási Hivatala jogosult eljárni az állami foglalkoztatási szervi feladatkörében eljáró, Pest Megyei Kormányhivatal Ráckevei Járási Hivatala előtt már folyamatban lévő hatósági eljárásokban, ha az eljárásban szereplő ügyfél lakóhelye, tartózkodási helye, vagy ennek hiányában értesítési címe, illetve székhelye, telephelye vagy fióktelepe a Szigetszentmiklósi Járás illetékességi területén van.
 
 1. melléklet a 67/2015. (III. 30.) Korm. rendelethez
 
@@ -4078,7 +4078,7 @@ Szécsényfelfalu
 
 Varsány
 
-14. Pest megye
+14.[^3] Pest megye
 
 14.1. Budakeszi Járási Hivatal,
 
@@ -4364,21 +4364,11 @@ Apaj
 
 Áporka
 
-Délegyháza
-
 Dömsöd
-
-Dunaharaszti
-
-Dunavarsány
-
-Halásztelek
 
 Kiskunlacháza
 
 Lórév
-
-Majosháza
 
 Makád
 
@@ -4388,17 +4378,9 @@ Szigetbecse
 
 Szigetcsép
 
-Szigethalom
-
 Szigetszentmárton
 
-Szigetszentmiklós
-
 Szigetújfalu
-
-Taksony
-
-Tököl
 
 14.9. Szentendrei Járási Hivatal
 
@@ -4515,6 +4497,30 @@ Vámosmikola
 Verőce
 
 Zebegény
+
+14.11. Szigetszentmiklósi Járási Hivatal
+
+14.11.1. Székhelye: Szigetszentmiklós
+
+14.11.2. Illetékesség:
+
+Délegyháza
+
+Dunaharaszti
+
+Dunavarsány
+
+Halásztelek
+
+Majosháza
+
+Szigethalom
+
+Szigetszentmiklós
+
+Taksony
+
+Tököl
 
 15. Somogy megye
 
@@ -5828,7 +5834,7 @@ Udvari
 
 Varsád
 
-18.[^3] Vas megye
+18.[^4] Vas megye
 
 18.1. Celldömölki Járási Hivatal
 
@@ -7346,6 +7352,7 @@ Zalaszentmihály
 
 Zalatárnok
 
-[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 52/2017. (III. 20.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^2]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^3]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
