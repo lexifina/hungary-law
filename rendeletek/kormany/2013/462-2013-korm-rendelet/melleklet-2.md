@@ -62,8 +62,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | műszaki biztonság | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 14. | egészségügy | illetékes járási hivatal | Vas Megyei Kormányhivatal |
 
 | 15. | régészet és örökségvédelem | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 57. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 57. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 57. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
