@@ -35,6 +35,6 @@ c) a felhasználó a 12. melléklet A) részében foglalt nyomtatványon teheti 
 [^54]: [A 21. § (1) bekezdés c) pontjának a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontjával elrendelt módosítása, amely szerint az „a Hivatal” szövegrész helyébe az „az ENKK” szöveg lép, nem vezethető át.] [Az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontjában foglalt módosítás, mely szerint a 21. § (1) bekezdés c) pontjában az „ENKK” szövegrész helyébe az „OGYÉI” szövegrész lép, nem vezethető át.]
 [^55]: A 21. § (1a) bekezdését a 33/2012. (X. 11.) EMMI rendelet 6. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 63. § c) pontja szerint módosított szöveg.
 [^56]: A 21. § (3) bekezdése a 33/2012. (X. 11.) EMMI rendelet 9. § (2) bekezdés b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^57]: [A 21. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^57]: A 21. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^58]: A 21. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^59]: A 21. § (6) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés e) pontja szerint módosított szöveg.

@@ -22,6 +22,6 @@ b) forgalomból történő kivonásáról, illetve a használatának megtiltás�
 [^67]: A 22. §-t megelőző alcím a 3/2014. (I. 16.) EMMI rendelet 32. §-ával megállapított szöveg.
 [^68]: A 22. § (1) bekezdés nyitó és záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^69]: A 22. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^70]: A 22. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § c) pontja szerint módosított szöveg.
+[^70]: A 22. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^71]: A 22. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^72]: A 22. § (5) bekezdését a 33/2012. (X. 11.) EMMI rendelet 10. § b) pontja hatályon kívül helyezte.

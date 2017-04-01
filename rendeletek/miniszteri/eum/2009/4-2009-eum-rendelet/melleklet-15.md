@@ -1,6 +1,6 @@
 ## BEJELENTŐ LAP
 
-## Országos Kémiai Biztonsági Intézet számára
+## Egészségügyért felelős miniszter által vezetett minisztérium számára
 
 ## a II.a osztályba tartozó, kifejezetten orvostechnikai eszközök fertőtlenítésére szánt eszközök
 
