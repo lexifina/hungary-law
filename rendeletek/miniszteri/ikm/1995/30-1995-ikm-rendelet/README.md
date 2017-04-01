@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-30-20-6
 | 2011-01-01 | 1995-30-20-6A.5 | 27/2010. (XII. 31.) NGM rendelet |
 | 2013-01-01 | 1995-30-20-6A.6 | 27/2010. (XII. 31.) NGM rendelet |
 | 2017-01-01 | 1995-30-20-6A.7 | 62/2016. (XII. 29.) NGM rendelet |
+| 2017-04-01 | 1995-30-20-6A.8 | 62/2016. (XII. 29.) NGM rendelet |

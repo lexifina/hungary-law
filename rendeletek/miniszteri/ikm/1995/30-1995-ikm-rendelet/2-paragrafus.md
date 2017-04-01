@@ -300,7 +300,7 @@ Kereskedelmi és Vendéglátóipari Biztonsági Szabályzat[^2]
 
 4.3 Takarítás
 
-4.3.1 Tisztításra, fertőtlenítésre kizárólag az Országos Tisztifőorvosi Hivatal által minősített, engedélyezett tisztító-, fertőtlenítő szerek használhatók fel.
+4.3.1[^17] Tisztításra, fertőtlenítésre kizárólag az országos tisztifőorvos által minősített, engedélyezett tisztító-, fertőtlenítő szerek használhatók fel.
 
 4.3.2 A tisztító-, fertőtlenítő szereket eredeti csomagolásban, felirattal ellátva, külön helyiségben (fülkében) kell tárolni.
 
@@ -332,7 +332,7 @@ Kereskedelmi és Vendéglátóipari Biztonsági Szabályzat[^2]
 
 4.3.14 Amennyiben a helyiségből nem lehet az üvegfelületet megtisztítani, akkor a munkát végző személyt munkaövvel kell ellátni, amelyet a helyiség belsejében oly módon kell rögzíteni, hogy az esetleg kizuhanó személy súlyát a rögzítés biztosan viselni tudja és így becsatolt munkaövvel léphet ki a párkányra.
 
-4.3.15[^17] Teljes testhevederzet kötélzete nem rögzíthető az ablak keretéhez vagy összekötő elemhez.
+4.3.15[^18] Teljes testhevederzet kötélzete nem rögzíthető az ablak keretéhez vagy összekötő elemhez.
 
 4.3.16 Ha a 4.3.14 alattiak szerint az ablak, illetve nyílászáró külső felülete nem tisztítható, akkor csak alpintechnikai módszerrel vagy e célra készített berendezésből végezhető el a tisztítás.
 
@@ -398,7 +398,7 @@ Kereskedelmi és Vendéglátóipari Biztonsági Szabályzat[^2]
 
 4.4.16 Bolti konténert mozgatni csak olyan helyen szabad, ahol a megfelelő szélességű közlekedési út a rendelkezésre áll és az út jól belátható. Ellenkező esetben irányító személy jelenléte és közreműködése kötelező.
 
-4.4.17[^18] Növényvédőszert csak a területileg illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala engedélyével lehet forgalmazni.
+4.4.17[^19] Növényvédőszert csak a területileg illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala engedélyével lehet forgalmazni.
 
 4.4.18 Növényvédőszerek árusítását, kezelését, jogszabályban meghatározott képesítésű személy végezheti.
 
@@ -456,7 +456,7 @@ A rögzítő részbe árut csak akkor lehet berakni, ha a gép kikapcsolt helyze
 
 4.4.44 Dekorációt kirakatban, üzlethelyiségben, közlekedési utak felett úgy szabad elhelyezni, hogy az megfelelően rögzített és a járófelülettől legalább 220 cm magasan legyen.
 
-4.4.45[^19]
+4.4.45[^20]
 
 4.4.46 Asztalon konzervdobozok 0,7 m, tárolópolcokon 0,40 m magasságig állíthatók egymásra.
 
@@ -514,6 +514,7 @@ A rögzítő részbe árut csak akkor lehet berakni, ha a gép kikapcsolt helyze
 [^14]: A melléklet 3.2–3.3.3.3 alpontját a 130/2004. (XII. 14.) GKM rendelet 2. §-a hatályon kívül helyezte.
 [^15]: A melléklet 3.5.1.2 alpontját a 130/2004. (XII. 14.) GKM rendelet 2. §-a hatályon kívül helyezte.
 [^16]: A melléklet 4.1.4 alpontja a 130/2004. (XII. 14.) GKM rendelet 1. §-ával megállapított szöveg.
-[^17]: A melléklet 4.3.15 alpontja a 130/2004. (XII. 14.) GKM rendelet 1. §-ával megállapított szöveg.
-[^18]: A melléklet 4. alcím 4.4. pont 4.4.17 alpontja a 62/2016. (XII. 29.) NGM rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^19]: A melléklet 4.4.45 alpontját a 130/2004. (XII. 14.) GKM rendelet 2. §-a hatályon kívül helyezte.
+[^17]: A melléklet 4. alcím 4.3. pont 4.3.1 alpontja a 62/2016. (XII. 29.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^18]: A melléklet 4.3.15 alpontja a 130/2004. (XII. 14.) GKM rendelet 1. §-ával megállapított szöveg.
+[^19]: A melléklet 4. alcím 4.4. pont 4.4.17 alpontja a 62/2016. (XII. 29.) NGM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^20]: A melléklet 4.4.45 alpontját a 130/2004. (XII. 14.) GKM rendelet 2. §-a hatályon kívül helyezte.
