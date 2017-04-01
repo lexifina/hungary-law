@@ -6,17 +6,17 @@
 
 | 2. | NFSZ | Fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 3. | ÁNTSZ | Az alapellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 3. | EMMI | Az alapellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 4. | ÁNTSZ | A járóbeteg-ellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 4. | EMMI | A járóbeteg-ellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 5. | ÁNTSZ | A fekvőbeteg ellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 5. | EMMI | A fekvőbeteg ellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 6. | ÁNTSZ | Népegészségügyi szűrővizsgálatok adatai | 2.3.2. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
+| 6. | fővárosi és megyei kormányhivatal | Népegészségügyi szűrővizsgálatok adatai | 2.3.2. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
-| 7. | ÁNTSZ, OKK | Ivóvíz minősége, öt kiemelt komponens (bór, nitrit, fluorid, arzén, ammónium-ion), határérték feletti települések | 4.9.1. | évente vagy frissítést követően | település, előfordulási hely | frissítést követő 90. nap |
+| 7. | Budapest Főváros Kormányhivatala | Ivóvíz minősége, öt kiemelt komponens (bór, nitrit, fluorid, arzén, ammónium-ion), határérték feletti települések | 4.9.1. | évente vagy frissítést követően | település, előfordulási hely | frissítést követő 90. nap |
 
-| 8. | ÁNTSZ, OKK | Fürdők vizének minősége | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 8. | Budapest Főváros Kormányhivatala | Fürdők vizének minősége | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 9. | NAV | A társasági adóbevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
