@@ -4,7 +4,7 @@
 
 | 1. | Beruházás | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos hatósági ügyek | Első fokon eljáró hatóság | Fellebbezés elbírálására jogosult hatóság |
 
-| 2. | Kiemelt nagyberuházásként a dunaalmási „DUNAETANOL Zrt. Bioetanol- Biogáz-Kiserőmű” projekthez kapcsolódó építmények, létesítmények. | Dunaalmás közigazgatási területén lévő külterületi 0634, 0633/26, 0661/3 ingatlan- nyilvántartási helyrajzi számú területek | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
+| 2. | Kiemelt nagyberuházásként a dunaalmási „DUNAETANOL Zrt. Bioetanol- Biogáz-Kiserőmű” projekthez kapcsolódó építmények, létesítmények. | Dunaalmás közigazgatási területén lévő külterületi 0634, 0633/26, 0661/3 ingatlan-nyilvántartási helyrajzi számú területek | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
 | 3. | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom-Esztergom Megyei Kormányhivatal |
 
@@ -48,7 +48,7 @@
 
 | 23. | kiserőmű engedélyezésével kapcsolatos eljárások | Magyar Energetikai és Közmű-szabályozási Hivatal | nincs |
 
-| 24. | egészségügyi eljárások | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 24. | egészségügyi eljárások | illetékes járási hivatal | Komárom-Esztergom Megyei Kormányhivatal |
 
 | 25. | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | energiapolitikáért felelős miniszter | nincs |
 
@@ -94,7 +94,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | régészet és műemlékvédelem | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 19. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 19. | egészségügy | illetékes járási hivatal | Komárom-Esztergom Megyei Kormányhivatal |
 
 | 20. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -102,4 +102,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | élelmiszer-biztonság | illetékes járási hivatal | Komárom-Esztergom Megyei Kormányhivatal |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 13. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 13. § (1) bekezdés b) pontjával megállapított és (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
