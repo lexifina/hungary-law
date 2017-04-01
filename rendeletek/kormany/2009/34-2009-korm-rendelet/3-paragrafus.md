@@ -4,8 +4,8 @@
 
 (2)[^3]
 
-(3)[^4] A Hivatal az engedély megadásáról vagy a kérelem elutasításáról, valamint a hozzájárulások megadásáról vagy elutasításáról hozott határozatát közli az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalával, az ORFK-val, az Országos Katasztrófavédelmi Főigazgatósággal, a Nemzeti Adó- és Vámhivatallal, az Alkotmányvédelmi Hivatallal és az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséggel és az Országos Katasztrófavédelmi Főigazgatósággal.
+(3)[^4]
 
 [^2]: A 3. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 671. §-a szerint módosított szöveg.
 [^3]: A 3. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 672. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 671. §-a, az 527/2013. (XII. 30.) Korm. rendelet 70. §-a, a 70/2015. (III. 30.) Korm. rendelet 130. §-a, a 486/2015. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 129. §-a hatályon kívül helyezte.
