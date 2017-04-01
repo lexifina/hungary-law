@@ -1,4 +1,4 @@
-## 13. §[^18]
+## 13. §[^13]
 
 ## 5. Záró rendelkezés
 
@@ -8,4 +8,4 @@
 
 (3) E rendelet 5. § (2) bekezdése, 6. § (1) és (2) bekezdése, 7. § (1) bekezdése, 9. §-a, 10. §-a, valamint 11. § b) és d) pontja 2017. április 1-jén lép hatályba.
 
-[^18]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
