@@ -24,6 +24,8 @@
 
 | 3.2. 1 db rendszámtábla | 8 500 |
 
+| 3.3. 1 db kerékpárszállító eszközre szerelhető rendszámtábla legyártásának engedélyezése | 5500 Ft |
+
 | 4. Az “E” típusú, négykerekű segédmotoros kerékpárokhoz kiadott különleges rendszámtáblákért fizetendő díj: |  |
 
 | 4.1. 1 db rendszámtábla | 3 500 |

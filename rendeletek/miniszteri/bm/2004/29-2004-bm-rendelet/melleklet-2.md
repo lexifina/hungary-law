@@ -50,4 +50,4 @@
 
 2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^12]
 
-[^12]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 6. § c)–f) pontja szerint módosított szöveg.
+[^12]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 6. § c)–f) pontja, az 1/2017. (I. 3.) NFM rendelet 39. § (4) bekezdése szerint módosított szöveg.
