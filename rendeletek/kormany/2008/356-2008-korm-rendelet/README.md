@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-356-20-
 | 2014-09-05 | 2008-356-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2016-01-01 | 2008-356-20-22.9 | 73/2011. (IV. 29.) Korm. rendelet |
 | 2016-07-01 | 2008-356-20-22.10 | 172/2016. (VII. 1.) Korm. rendelet |
+| 2017-04-01 | 2008-356-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |

@@ -18,7 +18,7 @@ b) intézetvezető főgyógyszerész vagy intézeti főgyógyszerész.
 
 c)[^11]
 
-megbízására, kinevezésére irányuló pályázat véleményezése esetén az illetékes szakmai kollégium véleményét is be kell szereznie. Ebben az esetben az eljárást úgy kell lefolytatni, hogy a szakmai kollégium véleményének kialakítására legalább 8 nap rendelkezésre álljon. Ha a szakmai kollégium a bizottság megkeresésére nem válaszolt, erre a körülményre a bizottság írásba foglalt véleményében ki kell térni.
+## megbízására, kinevezésére irányuló pályázat véleményezése esetén az illetékes szakmai kollégium véleményét is be kell szereznie. Ebben az esetben az eljárást úgy kell lefolytatni, hogy a szakmai kollégium véleményének kialakítására legalább 8 nap rendelkezésre álljon. Ha a szakmai kollégium a bizottság megkeresésére nem válaszolt, erre a körülményre a bizottság írásba foglalt véleményében ki kell térni.
 
 (5) Sikertelen pályázat esetén
 
