@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-208-20-
 | 2015-07-01 | 2009-208-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 2009-208-20-22.11 | 417/2015. (XII. 23.) Korm. rendelet |
 | 2017-01-01 | 2009-208-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-04-01 | 2009-208-20-22.13 | 457/2017. (XII. 28.) Korm. rendelet |

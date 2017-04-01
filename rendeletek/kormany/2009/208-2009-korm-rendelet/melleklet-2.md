@@ -4,7 +4,7 @@
 
 | 1. tűzvédelmi vagy ipari baleset-megelőzési terület | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 2. egészségügyi terület | Országos Tisztifőorvosi Hivatal |
+| 2. egészségügyi terület | népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal |
 
 | 3. munkabiztonsági terület | foglalkoztatáspolitikáért felelős miniszter |
 
@@ -54,7 +54,7 @@
 
 | 21. titokvédelmi terület | minősített adatok védelmének szakmai felügyeletéért felelős miniszter |
 
-2. melléklet a 208/2009. (IX. 29.) Korm. rendelethez[^9]
+2. melléklet a 208/2009. (IX. 29.) Korm. rendelethez[^10]
 
 A névjegyzékbe vétel feltételei fennállásának felülvizsgálata során a képesítés szakirányúságának elbírálása kérdésében kijelölt szakhatóság
 
@@ -72,4 +72,4 @@ A névjegyzékbe vétel feltételei fennállásának felülvizsgálata során a 
 
 | 6 | Ha az igazságügyi szakértő hírközlési szakterülete a hírközlési területen bejegyezhető szakterületek valamelyikének megfelel. | Nemzeti Média- és Hírközlési Hatóság |
 
-[^9]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 264/2012. (IX. 17.) Korm. rendelet 2. §-a, a 147/2015. (VI. 12.) Korm. rendelet 4. §-a, a 379/2016. (XII. 2.) Korm. rendelet 142. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 264/2012. (IX. 17.) Korm. rendelet 2. §-a, a 147/2015. (VI. 12.) Korm. rendelet 4. §-a, a 379/2016. (XII. 2.) Korm. rendelet 142. § (2) bekezdés b) pontja szerint módosított szöveg.
