@@ -128,7 +128,7 @@
 
 ## – egyéb hasonló termékek (többek között növekedésszabályozók), valamint metabolitjaik, bomlási és reakció termékeik.
 
-## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az OTH, de a helyi információk (területi vízügyi hatóságok, kormányhivatalok, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
+## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az országos tisztifőorvos, de a helyi információk (területi vízügyi hatóságok, kormányhivatalok, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
 
 ## 9. A határérték az egyes peszticidekre külön-külön vonatkozik. Aldrin, dieldrin, heptaklór és heptaklór-epoxid esetében a határérték 0,030 μg/l.
 
@@ -310,6 +310,6 @@
 
 ## 2.9. A vízminőségi kategóriába a Medveállatkák (Tardigrada), Ízeltlábúak (Arthropoda) törzsének képviselői és minden egyéb, előző vízminőségi jellemzőkhöz nem besorolható többsejtű szervezetek tartoznak.
 
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^108]
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^120]
 
-[^108]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése, a 100/2016. (V. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^120]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése, a 100/2016. (V. 13.) Korm. rendelet 9. §-a, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. és 22. pontja szerint módosított szöveg.

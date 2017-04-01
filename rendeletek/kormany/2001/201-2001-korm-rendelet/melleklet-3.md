@@ -126,7 +126,7 @@
 
 ## 2. Részletes vizsgálatok
 
-## A részletes vizsgálatok célja annak megállapítása, hogy az ivóvíz minősége megfelel-e az e rendeletben foglalt valamennyi követelménynek. A részletes vizsgálat során – a 3. § (4) bekezdésével összhangban – minden vízminőségi jellemzőt mérni kell, kivéve, ha az OTH, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – a NÉBIH az OTH-val egyeztetve az üzemeltető kérésére meghatározott időre felmentést ad abban az esetben, ha a kérdéses vízminőségi jellemző mérési eredményekkel igazolhatóan nincs jelen az adott vízellátó rendszerben olyan koncentrációban, amely a határérték vagy parametrikus érték túllépésének veszélyével járna. A radioaktivitásra vonatkozó parametrikus értékekre az 1. számú melléklet C) részében található 12. és 13. megjegyzés az irányadó.
+## A részletes vizsgálatok célja annak megállapítása, hogy az ivóvíz minősége megfelel-e az e rendeletben foglalt valamennyi követelménynek. A részletes vizsgálat során – a 3. § (4) bekezdésével összhangban – minden vízminőségi jellemzőt mérni kell, kivéve, ha az országos tisztifőorvos, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – a NÉBIH az országos tisztifőorvossal egyeztetve az üzemeltető kérésére meghatározott időre felmentést ad abban az esetben, ha a kérdéses vízminőségi jellemző mérési eredményekkel igazolhatóan nincs jelen az adott vízellátó rendszerben olyan koncentrációban, amely a határérték vagy parametrikus érték túllépésének veszélyével járna. A radioaktivitásra vonatkozó parametrikus értékekre az 1. számú melléklet C) részében található 12. és 13. megjegyzés az irányadó.
 
 ## Nem sérülékeny felszín alatti vízbázisok vize esetében a peszticidek, benzol, 1,2-diklór-etán, tetraklór-etilén, triklór-etilén, cisz-1,2-diklór-etilén és – nem klórozott vizek esetében – a trihalometánok csak az első felméréskor, és, ha nem voltak kimutathatók az alsó méréshatárt, illetve a határérték 10%-át meghaladó koncentrációban, akkor utána csak 3 évenként egyszer, illetve vízszennyezés gyanúja esetén mérendők. Benz(a)pirént és policiklusos aromás szénhidrogéneket felszín alatti vízbázisok vize esetében ugyanilyen gyakorisággal kell mérni, feltéve, hogy a permanganát index (KOIps) értéke a 3,5 mg/l-t (a TOC a 2,0 mg/l-t) nem haladja meg.
 
@@ -240,6 +240,6 @@
 
 ## A vizsgálatot az üzemeltetőnek kell elvégeznie vagy elvégeztetnie.
 
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^109]
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^121]
 
-[^109]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja, a 313/2015. (X. 28.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^121]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja, a 313/2015. (X. 28.) Korm. rendelet 7. § (3) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja szerint módosított szöveg.

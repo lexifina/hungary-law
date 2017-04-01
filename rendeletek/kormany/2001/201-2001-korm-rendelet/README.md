@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-201-20-
 | 2016-01-01 | 2001-201-20-22.26 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2016-06-15 | 2001-201-20-22.27 | 430/2013. (XI. 15.) Korm. rendelet |
 | 2017-01-01 | 2001-201-20-22.28 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-04-01 | 2001-201-20-22.29 | 379/2016. (XII. 2.) Korm. rendelet |

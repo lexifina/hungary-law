@@ -6,7 +6,7 @@
 
 ## A vizsgálatokat nemzetközileg elfogadott módszerek szerint kell végezni. A rendelet kiadásakor elfogadott módszereket az alábbi lista tartalmazza. Új nemzetközi (CEN vagy ISO) módszer honosítása esetén azonban a honosítástól kezdődően az új módszert kell alkalmazni.
 
-## A laboratóriumok ezektől eltérő módszert akkor használhatnak, ha azokat ellenőrzik (validálják) és az 5. § (7) bekezdésében foglaltak szerint alkalmazásukat az OTH jóváhagyja.
+## A laboratóriumok ezektől eltérő módszert akkor használhatnak, ha azokat ellenőrzik (validálják) és az 5. § (7) bekezdésében foglaltak szerint alkalmazásukat az országos tisztifőorvos jóváhagyja.
 
 ## Coliform baktériumok és Escherichia coli (E. coli): MSZ EN ISO 9308–1:2001)
 
@@ -308,6 +308,6 @@
 
 ## 5. Ez a kimutatási határ csak új vízforrás esetében, az indikatív dózis kezdeti vizsgálatára alkalmazandó. Ha a kezdeti vizsgálat alapján nem valószínű, hogy az Ra-228 meghaladja a származtatott koncentráció 20%-át, a kimutatási határ az Ra-228 nuklidra vonatkozó rutinmérések esetében 0,08 Bq/l-re növelhető, amíg az ellenőrzés megismétlése nem szükséges.
 
-4. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^110]
+4. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^122]
 
-[^110]: A 4. számú mellékletet a 364/2014. (XII. 30.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
+[^122]: A 4. számú mellékletet a 364/2014. (XII. 30.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
