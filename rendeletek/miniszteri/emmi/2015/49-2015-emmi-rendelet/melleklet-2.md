@@ -1,4 +1,4 @@
-2. melléklet a 49/2015. (XI. 6.) EMMI rendelethez
+2. melléklet a 49/2015. (XI. 6.) EMMI rendelethez[^11]
 
 Kockázatkezelés
 
@@ -18,4 +18,6 @@ Kockázatkezelés
 
 | 7. | Egészségügyi ellátás során alkalmazott berendezések, amelyek működése során aeroszol képződés lehetséges, különösen a fogászati kezelő egységek és párásítók* |  |  |  |  | A Legionella- koncentráció egyszeri 100 TKE/l feletti eredménye | Berendezés tisztítása és fertőtlenítése, valamint a fertőtlenítést követő újramintázás |
 
-* Az OKK által kiadott módszertani levél alapján.
+* Az országos tisztifőorvos által kiadott módszertani levél alapján.
+
+[^11]: A 2. melléklet az 54/2016. (XII. 30.) EMMI rendelet 100. § f) pontja szerint módosított szöveg.
