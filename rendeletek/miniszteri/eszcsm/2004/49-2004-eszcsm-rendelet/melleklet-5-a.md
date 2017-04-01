@@ -58,7 +58,7 @@
 
 ## – bútorzat: (műszer- és kötszerszekrény, vizsgálóasztal, műszerasztal, mérlegasztal, pakolóasztal, zárható íróasztal, irattartó szekrény, számítógép asztal, székek, fekvőhely).
 
-## II.[^27]
+## II.[^28]
 
 ## – telefon,
 
@@ -68,7 +68,7 @@
 
 ## – szélessávú internet elérés.
 
-5/A. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^28]
+5/A. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^29]
 
 ## A népegészségügyi célú méhnyakszűrés (kenetvétel) végzéséhez szükséges eszközök, feltételek:
 
@@ -100,5 +100,5 @@
 
 14. postázáshoz szükséges feltételek: buborékos boríték, A/4-es boríték, postakönyv.
 
-[^27]: Az 5. számú melléklet II. pontja a 28/2013. (IV. 5.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^28]: Az 5/A. számú mellékletet a 28/2013. (IV. 5.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+[^28]: Az 5. számú melléklet II. pontja a 28/2013. (IV. 5.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 5/A. számú mellékletet a 28/2013. (IV. 5.) EMMI rendelet 3. § (2) bekezdése iktatta be.
