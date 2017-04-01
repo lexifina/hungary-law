@@ -2,7 +2,7 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Árszabások | EDF DÉMÁSZ Hálózati Elosztó Kft. elosztói működési területén | E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., E.ON Tiszántúli Áramhálózati Zrt. elosztói működési területén | ELMŰ Hálózati Kft. elosztói működési területén | ÉMÁSZ Hálózati Kft. elosztói működési területén |
+| 1. | Árszabások | DÉMÁSZ Hálózati Elosztó Kft. elosztói működési területén | E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., E.ON Tiszántúli Áramhálózati Zrt. elosztói működési területén | ELMŰ Hálózati Kft. elosztói működési területén | ÉMÁSZ Hálózati Kft. elosztói működési területén |
 
 | 2. | A1 |  |  |  |  |
 
@@ -46,4 +46,4 @@
 
 3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^19]
 
-[^19]: A 3. melléklet a 68/2016. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. melléklet a 68/2016. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított, a 7/2017. (III. 30.) NFM rendelet 2. § b) pontja szerint módosított szöveg.

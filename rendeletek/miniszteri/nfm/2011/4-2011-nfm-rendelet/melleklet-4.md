@@ -4,7 +4,7 @@
 
 | 1. | Egyetemes szolgáltató | Árrés (Ft/kWh) |
 
-| 2. | EDF DÉMÁSZ Zrt. | 0,986 |
+| 2. | DÉMÁSZ Zrt. | 0,986 |
 
 | 3. | E.ON Energiaszolgáltató Kft. | 0,986 |
 

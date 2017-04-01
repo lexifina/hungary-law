@@ -22,12 +22,12 @@ b) az egyetemes szolgáltatók által egyetemes szolgáltatás céljára vásár
 
 (8)[^11]
 
-(9)[^12] Ha az egyetemes szolgáltató által alkalmazott értékesítési árak szerinti éves átlagos egyetemes szolgáltatási ár és az elismert éves villamosenergia-beszerzési átlagár alapján számított fajlagos kereskedelmi árrés tárgyévi átlagos értéke eltér a (6) bekezdés szerinti értéktől, akkor a Hivatal az eltérésnek megfelelő, általa határozatban megállapított összeget is figyelembe veszi az értékesítési árakra vonatkozó, a VET 143. § (3) bekezdése szerinti javaslatainak elkészítése során.
+(9)[^12] Ha az egyetemes szolgáltató által alkalmazott értékesítési árak szerinti éves átlagos egyetemes szolgáltatási ár és az elismert éves villamosenergia-beszerzési átlagár alapján számított fajlagos kereskedelmi árrés tárgyévi átlagos értéke eltér a (6) bekezdés szerinti értéktől, akkor a Hivatal az eltérésnek megfelelő, általa határozatban megállapított összeget is figyelembe veszi az értékesítési árakra vonatkozó, a VET 145. § (3) bekezdése szerinti javaslatainak elkészítése során.
 
 (10)–(11)[^13]
 
 [^9]: A 8. § (3) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (1) bekezdésével megállapított, a 68/2016. (XII. 29.) NFM rendelet 1. §-a szerint módosított szöveg.
 [^10]: A 8. § (5) bekezdés nyitó szövegrésze a 37/2015. (VI. 30.) NFM rendelet 19. §-a szerint módosított szöveg.
 [^11]: A 8. § (8) bekezdését a 64/2013. (X. 30.) NFM rendelet 13. §-a hatályon kívül helyezte.
-[^12]: A 8. § (9) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: A 8. § (9) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított, a 7/2017. (III. 30.) NFM rendelet 1. §-a szerint módosított szöveg.
 [^13]: A 8. § (10)–(11) bekezdését a 64/2013. (X. 30.) NFM rendelet 13. §-a hatályon kívül helyezte.
