@@ -12,6 +12,6 @@
 
 | 4. | Repülőtéri meteorológiai berendezések létesítési és üzembe helyezési eljárása során. | Annak elbírálása kérdésében, hogy a repülőtéri meteorológiai berendezések létesítése, üzembe helyezése, üzemeltetése, az eszközök karbantartottsága megfelel-e a nemzetközi polgári repülésről szóló, Chicagóban, 1944. évi december 7. napján aláírt Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak, valamint a repülésmeteorológiai információk hiteles forrásból származnak-e. | Országos Meteorológiai Szolgálat | - |
 
-| 5. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | sugár-egészségügyi feladatokra illetékességgel rendelkező fővárosi és megyei kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 5. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | sugár-egészségügyi feladatokra illetékességgel rendelkező fővárosi és megyei kormányhivatal | Budapest Főváros Kormányhivatala |
 
 3. melléklet a 382/2016. (XII. 2.) Korm. rendelethez
