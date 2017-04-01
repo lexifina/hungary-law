@@ -44,7 +44,7 @@
 
 | 21. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 22. | a jogszabályban rögzített egészségügyi hatósági eljárások | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 22. | a jogszabályban rögzített egészségügyi hatósági eljárások | illetékes járási hivatal | Heves Megyei Kormányhivatal |
 
 2. melléklet a 177/2014. (VII. 18.) Korm. rendelethez[^10]
 
@@ -86,10 +86,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | erdővédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 18. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | egészségügy | illetékes járási hivatal | Heves Megyei Kormányhivatal |
 
 | 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 20. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 77. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 77. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 77. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
