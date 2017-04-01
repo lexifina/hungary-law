@@ -38,10 +38,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 4. | régészet és műemlékvédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 5. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 5. | egészségügy | illetékes járási hivatal | Heves Megyei Kormányhivatal |
 
 | 6. | környezetvédelem és természetvédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
 | 7. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 22. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 22. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
