@@ -1,4 +1,4 @@
-## 11. §[^7]
+## 11. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § (2) bekezdése 2017. április 1-jén lép hatályba.
 
-[^7]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
