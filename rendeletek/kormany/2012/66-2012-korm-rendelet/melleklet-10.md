@@ -168,4 +168,6 @@
 
 | Total PS (C) AOA (kg) |  |
 
-10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez
+10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^130]
+
+[^130]: A 10. melléklet a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés o) pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 | 2. Kémiai elnevezés: Egyéb elnevezés(ek): Utcai elnevezés(ek): |
 
-| 3. Információforrásra vonatkozó adatok (egyszerre több pont is kitölthető) Lefoglalás(ok) □ Mennyiség (súly, tabletták száma, stb.): Lefoglalást végző hatóság: Dátum: Hely (város): Biológiai minta (/minták)1 □ Minta típusa: Azonosítást végző hatóság: Dátum: Hely (város): Gyűjtött minta (/minták)2 □ Mennyiség (súly, tabletták száma, stb.): Gyűjtést végző hatóság: Dátum: Hely (város): Egyéb anyagok jelenléte (amennyiben több esetet jelent be egyszerre, határozza meg esetenként): Pszichoaktív összetevők: Egyéb összetevők: |
+| 3. Információforrásra vonatkozó adatok (egyszerre több pont is kitölthető) Lefoglalás(ok) □ Mennyiség (súly, tabletták száma, stb.): Lefoglalást végző hatóság: Dátum: Hely (város): Biológiai minta (/minták)131 □ Minta típusa: Azonosítást végző hatóság: Dátum: Hely (város): Gyűjtött minta (/minták)132 □ Mennyiség (súly, tabletták száma, stb.): Gyűjtést végző hatóság: Dátum: Hely (város): Egyéb anyagok jelenléte (amennyiben több esetet jelent be egyszerre, határozza meg esetenként): Pszichoaktív összetevők: Egyéb összetevők: |
 
 | 4. Fizikai leírás (szubsztancia vizsgálat esetén) Megjelenési forma: por □ tabletta □ kapszula □ folyadék □ egyéb, éspedig: Szín: Egy adag/egység: súlya: átmérője: alakja: logó/megjelölés: (Amennyiben hozzáférhető, fotó beszúrása ide.) |
 
@@ -20,7 +20,7 @@
 
 | 8. Szerhasználati mintázat: |
 
-| 9. Egyéb ismert felhasználási módok3: |
+| 9. Egyéb ismert felhasználási módok133: |
 
 | 10. Emberre gyakorolt hatása: Megfigyelt: Fogyasztó beszámolója alapján: |
 
@@ -34,21 +34,21 @@
 
 | 15. Terjesztés esetén: nagy mennyiség □ kis mennyiség □ nem ismert □ Szervezett bűnözéssel való kapcsolat bármilyen formában detektálható volt az eset kapcsán? igen □ nem □ |
 
-| 16. Jogi státusza: kábítószer4 □ új pszichoaktív anyag5 □ nem kábítószer és nem új pszichoaktív anyag □ |
+| 16. Jogi státusza: kábítószer134 □ új pszichoaktív anyag135 □ nem kábítószer és nem új pszichoaktív anyag □ |
 
 | 17. Azonosítás módszere (vizsgálati módszerek, referenciaanyag és hivatkozások): |
 
 | Dátum Aláírás |
 
-## 1 Biológiai (emberi) minták pl. testnedvek (vizelet, vér), szövetek, haj, stb.
+## 131 Biológiai (emberi) minták pl. testnedvek (vizelet, vér), szövetek, haj, stb.
 
-## 2 Valamely monitorozó rendszer által monitorozási vagy kutatási célzattal begyűjtött minták
+## 132 Valamely monitorozó rendszer által monitorozási vagy kutatási célzattal begyűjtött minták
 
-## 3 Például gyógyászati, ipari, rituális, kozmetikai célokra, étrend-kiegészítőként, stb.
+## 133 Például gyógyászati, ipari, rituális, kozmetikai célokra, étrend-kiegészítőként, stb.
 
-## 4 Szerepel az 1965. évi 4. törvényerejű rendelet, az 1979. évi 25. törvényerejű rendelet vagy az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény valamelyik jegyzékén.
+## 134 Szerepel az 1965. évi 4. törvényerejű rendelet, az 1979. évi 25. törvényerejű rendelet vagy az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény valamelyik jegyzékén.
 
-## 5 Szerepel egyedi megnevezéssel a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. melléklet C) jegyzékén vagy beletartozik a jegyzékre vett vegyületcsoportok valamelyikébe.
+## 135 Szerepel egyedi megnevezéssel a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. melléklet C) jegyzékén vagy beletartozik a jegyzékre vett vegyületcsoportok valamelyikébe.
 
 ## Kitöltési útmutató
 
@@ -56,11 +56,11 @@
 
 ## (IV. 2.) Korm. rendelet 28. § (1) bekezdése alapján kötelező.
 
-## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^130], 2. példányát a Nemzeti Drog Fókuszpontnak[^131] (Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak[^132] kell megküldeni. A 4. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
+## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^131], 2. példányát az egészségügyért felelős miniszternek kell megküldeni. A 3. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
 
 ## Mindazon kérdésekre, melyekre vonatkozóan tényszerű információk, illetve adatok, vizsgálati eredmények állnak rendelkezésre, a válaszokat értelemszerűen: szövegesen, vagy számszerűen, illetve a megfelelő négyzet megjelölésével kell megadni! A kitöltéssel kapcsolatban a Tanács 2005/387/IB Határozatának EMCDDA-Europol jelentési ívet és annak kitöltési útmutatóját tartalmazó melléklete az irányadó.
 
-11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^133]
+11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^132]
 
 Kérelem, illetve igazolás ellenőrzött anyagok szállítására rendkívüli, gyógyászati célú felhasználáshoz
 
@@ -198,7 +198,5 @@ Hatósági bélyegző (Authority stamp)
 
 aláírás (Authority's signature)
 
-[^130]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
-[^131]: Nemzeti Drog Fókuszpont címe: 1097 Budapest, Gyáli út 2-6.
-[^132]: Országos Addiktológiai Centrum címe: 1097 Budapest, Nagyvárad tér 2.
-[^133]: A 11. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
+[^131]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
+[^132]: A 11. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
