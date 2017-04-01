@@ -4,8 +4,7 @@
 
 2. § (1)[^2]
 
-(2)[^3]
+(2) A 30/1995. IKM rendelet melléklet 4. alcím 4.3 pont 4.3.1 alpontjában az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe az „országos tisztifőorvos” szöveg lép.
 
 [^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 2. § (2) bekezdése a 71. § (3) bekezdése alapján 2017. április 1-jén lép hatályba.
