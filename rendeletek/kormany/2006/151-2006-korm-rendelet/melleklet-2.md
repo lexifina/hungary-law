@@ -56,7 +56,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 1. | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | Egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 2. | Egészségügy | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
 | 3. | Helyi környezet- és természetvédelem | az érintett települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
 
@@ -70,7 +70,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | Földtani közeg védelem, földtan | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 9. | Gyógyhelyek védelme | Országos Tisztifőorvosi Hivatal | egészségügyért felelős miniszter |
+| 9. | Gyógyhelyek védelme | Budapest Főváros Kormányhivatala | egészségügyért felelős miniszter |
 
 | 10. | Régészet és műemlékvédelem | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
@@ -106,4 +106,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 26. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^8]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 2. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 2. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
