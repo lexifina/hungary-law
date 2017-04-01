@@ -18,7 +18,7 @@
 
 |  | c) ételmérgezéssel és ételfertőzéssel kapcsolatos bakteriológiai szakkérdés | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet (OGYÉI) |
 
-|  | d) vírustani vizsgálat | Országos Epidemológiai Központ (OEK) |
+|  | d) vírustani vizsgálat | Országos Közegészségügyi Intézet |
 
 | 3. | Toxikológiai vizsgálatok: |  |
 
@@ -34,7 +34,7 @@
 
 |  | f) gyermekjáték, csomagoló- és tárolóanyag, kozmetikai készítmény toxikológiai vizsgálata | Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet (OGYÉI) |
 
-|  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | NSZKK Országos Közegészségügyi Központ (OKK) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+|  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | NSZKK Országos Közegészségügyi Intézet Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 4. |  |  |
 
@@ -42,7 +42,7 @@
 
 | 6. | Lőfegyverrel elkövetett bűncselekmény esetén az ismeretlen lőfegyverek, töltényhüvelyek és lövedékek azonosítási vizsgálata | NSZKK |
 
-| 7. | Sugárzó anyaggal és sugárártalommal (ionizáló és nem ionizáló) kapcsolatos szakkérdés | Országos Közegészségügyi Központ (OKK) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 7. | Sugárzó anyaggal és sugárártalommal (ionizáló és nem ionizáló) kapcsolatos szakkérdés | Országos Közegészségügyi Intézet Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 8. |  |  |
 

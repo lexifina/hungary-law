@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-282-20-
 | 2015-01-01 | 2007-282-20-22.16 | 97/2008. (IV. 29.) Korm. rendelet |
 | 2015-03-01 | 2007-282-20-22.17 | 53/2008. (III. 14.) Korm. rendelet |
 | 2017-01-01 | 2007-282-20-22.18 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-04-01 | 2007-282-20-22.19 | 53/2008. (III. 14.) Korm. rendelet |
