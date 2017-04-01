@@ -54,7 +54,7 @@ f) családsegítés,
 
 g) szociális igazgatás,
 
-h) szociális foglalkoztatás,
+h)[^2] fejlesztő foglalkoztatás,
 
 i) rehabilitációs utógondozás,
 
@@ -76,7 +76,7 @@ aa) az aktív korúak ellátásával összefüggő, Szt.-ben szabályozott közf
 
 ab) a szocioterápiás foglalkozások megszervezésével,
 
-ac) a szociális intézményen belüli szociális foglalkoztatás megszervezésével,
+ac)[^3] a fejlesztő foglalkoztatás megszervezésével,
 
 ad) a (6) bekezdés a) pontja szerinti tevékenységgel,
 
@@ -88,7 +88,7 @@ b) l) pontja szerinti szakterület körébe a gondozási szükséglet megállap�
 
 c) m) pontja szerinti szakterület körébe a fogyatékos személyek alapvizsgálata, a rehabilitációs alkalmassági vizsgálat és az ellátottak állapotának felülvizsgálata során a fogyatékos személyek alapvizsgálatáról, a rehabilitációs alkalmassági vizsgálatról, továbbá a szociális intézményekben ellátott személyek állapotának felülvizsgálatáról szóló 92/2008. (IV. 23.) Korm. rendelet szerinti;
 
-d)[^1] n) pontja szerinti szakterület körébe a komplex minősítési eljárás során a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet szerinti
+d)[^4] n) pontja szerinti szakterület körébe a komplex minősítési eljárás során a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet szerinti
 
 szociális szakértői feladatok ellátása tartozik.
 
@@ -110,4 +110,6 @@ c) a (3) bekezdés j) pontja szerinti szakterület esetében a szociális szolg�
 
 d) a (3) bekezdés k) pontja szerinti szakterület esetében a szociális szolgáltatások, szociális intézmények minőségügyi rendszerével, illetve minőségbiztosításával kapcsolatos feladatok ellátására.
 
-[^1]: Az 1. § (4) bekezdés d) pontja a 43/2016. (XII. 27.) EMMI rendelet 21. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés h) pontja az 1/2017. (II. 14.) EMMI rendelet 64. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdés a) pont ac) alpontja az 1/2017. (II. 14.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdés d) pontja a 43/2016. (XII. 27.) EMMI rendelet 21. § a) pontja szerint módosított szöveg.

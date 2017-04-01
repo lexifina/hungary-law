@@ -50,7 +50,7 @@
 
 ## aláírás
 
-3. számú melléklet a 25/2009. (XI. 13.) SZMM rendelethez
+3. számú melléklet a 25/2009. (XI. 13.) SZMM rendelethez[^29]
 
 Kérelem
 
@@ -114,7 +114,7 @@ f) családsegítés,
 
 g) szociális igazgatás,
 
-h) szociális foglalkoztatás,
+h) fejlesztő foglalkoztatás,
 
 i) rehabilitációs utógondozás,
 
@@ -175,3 +175,5 @@ aláírás
 2 Nem kötelező a megadása.
 
 3 A jogi egyetemi doktori cím nem minősül tudományos fokozatnak.
+
+[^29]: A 3. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 64. § d) pontja szerint módosított szöveg.
