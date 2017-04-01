@@ -1,7 +1,7 @@
-8. § (1)[^4] Egész testre ható rezgés vonatkozásában, a tengeri hajózásban és a légi szállításban egyedi engedély alapján, e jogszabályban megadott határérték alól a foglalkoztatáspolitikáért felelős miniszter – amennyiben a munkaegészségügyi követelményeknek való megfelelőséget megállapította – kérelemre felmentést adhat. A kérelemhez csatolni kell az Országos Tisztifőorvosi Hivatal által előzetesen kiállított szakvéleményt.
+8. § (1)[^4] Egész testre ható rezgés vonatkozásában, a tengeri hajózásban és a légi szállításban egyedi engedély alapján, e jogszabályban megadott határérték alól a foglalkoztatáspolitikáért felelős miniszter – amennyiben a munkaegészségügyi követelményeknek való megfelelőséget megállapította – kérelemre felmentést adhat. A kérelemhez csatolni kell az országos tisztifőorvos által előzetesen kiállított szakvéleményt.
 
 (2) Az 5. § (3) bekezdésében foglalt előírás betartása alól felmentés abban az esetben adható, ha a munkavállaló mechanikus rezgésexpozíciója a 3. §-ban meghatározott prevenciós határértékek alatt van, de időnként jelentősen változik, és esetenként túllépi az expozíciós határértéket. Ez esetben azonban a 40 órára számított expozíciós értéknek kevesebbnek kell lennie a 3. §-ban megadott expozíciós határértéknél és méréssel kell igazolni, hogy a változó expozícióban rejlő kockázatok kisebbek az expozíciós határértékben rejlő kockázatoknál.
 
 (3) A 3. §-ban megadott expozíciós határértékek alóli felmentés megadásánál annak indoklását pontosan rögzíteni szükséges. A felmentést négyévente felül kell vizsgálni, és ha az azt megalapozó körülmények megszűnnek, vissza kell vonni.
 
-[^4]: A 8. § (1) bekezdése az 55/2014. (XII. 31.) NGM rendelet 5. §-ával megállapított szöveg.
+[^4]: A 8. § (1) bekezdése az 55/2014. (XII. 31.) NGM rendelet 5. §-ával megállapított, a 62/2016. (XII. 29.) NGM rendelet 58. § (2) bekezdése szerint módosított szöveg.
