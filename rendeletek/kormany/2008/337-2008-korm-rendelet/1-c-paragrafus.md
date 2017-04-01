@@ -1,6 +1,6 @@
-1/C. §[^38] (1)[^39] Ha az egészségügyi szakellátási intézményműködtetési kötelezettség nem teljesítése miatt a szakellátási feladat a Tv. 1/A. § (11) bekezdése alapján az állam egészségügyi szakellátási kötelezettségének részévé válik és ezzel egyidejűleg az államra száll a Tv. 1/B. § (1) bekezdésében meghatározott intézmény és egyéb vagyon, az intézmény és a vagyon átvételének lebonyolítását (a továbbiakban: átadás-átvétel) az ÁEEK végzi.
+1/C. §[^43] (1)[^44] Ha az egészségügyi szakellátási intézményműködtetési kötelezettség nem teljesítése miatt a szakellátási feladat a Tv. 1/A. § (11) bekezdése alapján az állam egészségügyi szakellátási kötelezettségének részévé válik és ezzel egyidejűleg az államra száll a Tv. 1/B. § (1) bekezdésében meghatározott intézmény és egyéb vagyon, az intézmény és a vagyon átvételének lebonyolítását (a továbbiakban: átadás-átvétel) az ÁEEK végzi.
 
-(2)[^40] Az átadás-átvételi eljárás levezetője az ÁEEK főigazgatója által megbízott képviselő (a továbbiakban: átvevő), aki – az érintettekkel egyeztetve – dönt az átadás-átvétel pontos helyéről, időpontjáról, továbbá az átadás-átvétel végrehajtását segítő jelenlévőkről, az átadás-átvétel módjáról, adott esetben a nevében és helyette eljáró meghatalmazott személyről. Az átadás-átvételi eljárás lefolytatása érdekében az önkormányzat képviselője, valamint a Tv. 1/B. § (1) bekezdése alapján átvételre kerülő intézmény képviselője az átvevővel együttműködni, az átvevő által igényelt adatszolgáltatást teljesíteni köteles.
+(2)[^45] Az átadás-átvételi eljárás levezetője az ÁEEK főigazgatója által megbízott képviselő (a továbbiakban: átvevő), aki – az érintettekkel egyeztetve – dönt az átadás-átvétel pontos helyéről, időpontjáról, továbbá az átadás-átvétel végrehajtását segítő jelenlévőkről, az átadás-átvétel módjáról, adott esetben a nevében és helyette eljáró meghatalmazott személyről. Az átadás-átvételi eljárás lefolytatása érdekében az önkormányzat képviselője, valamint a Tv. 1/B. § (1) bekezdése alapján átvételre kerülő intézmény képviselője az átvevővel együttműködni, az átvevő által igényelt adatszolgáltatást teljesíteni köteles.
 
 (3) Az átadás-átvétel előkészítésének részét képezi:
 
@@ -12,7 +12,7 @@ c) az azonnali beavatkozást kívánó ügyek – így különösen a súlyos vi
 
 d) a vitás kérdések rögzítése.
 
-(4)[^41] A jegyzőkönyvet az átadó részéről az önkormányzat polgármestere és az átadásra kerülő egészségügyi intézmény vezetője, az átvevő részéről az ÁEEK főigazgatója írja alá.
+(4)[^46] A jegyzőkönyvet az átadó részéről az önkormányzat polgármestere és az átadásra kerülő egészségügyi intézmény vezetője, az átvevő részéről az ÁEEK főigazgatója írja alá.
 
 (5) Amennyiben a Tv. 1/B. § (1) bekezdése alapján állami tulajdonba átvett vagyonban szerepel a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 1. § (1)–(2b) bekezdése hatálya alá tartozó vagyonelem, a jegyzőkönyv érvényességéhez – a (2) bekezdésben foglaltakon túl – a Nemzeti Földalapkezelő Szervezet aláírása is szükséges.
 
@@ -20,7 +20,7 @@ d) a vitás kérdések rögzítése.
 
 (7) A jegyzőkönyv alapjául az átadás-átvétel előkészítése során összeállított dokumentumok szolgálnak. A jegyzőkönyv tartalmi követelményeit a 7. számú melléklet határozza meg, azzal, hogy az átvevő feladatainak ellátása érdekében ezen túlmenő adatok és információk szolgáltatását igényelheti. A jegyzőkönyv mellékletei egy eredeti példányban készülnek, amely tőpéldányok az átvevőnél maradnak, az átadó másolati példányt kap.
 
-[^38]: Az 1/C. §-t a 125/2013. (IV. 26.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^39]: Az 1/C. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
-[^40]: Az 1/C. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
-[^41]: Az 1/C. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^43]: Az 1/C. §-t a 125/2013. (IV. 26.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^44]: Az 1/C. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^45]: Az 1/C. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^46]: Az 1/C. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
