@@ -2,7 +2,7 @@
 
 | Sorszám | Szabályozott szakma megnevezése | Előzetes ellenőrzést végző elsőfokú hatóság | Előzetes ellenőrzést végző másodfokú hatóság |
 
-| 1. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | Állami Egészségügyi Ellátó Központ | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 1. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | Állami Egészségügyi Ellátó Központ |  |
 
 | 2. | Tűzvédelmi szakértő | Országos Katasztrófavédelmi Főigazgatóság |  |
 
