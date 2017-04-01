@@ -8,14 +8,15 @@ c) 3. melléklet
 
 ca)[^8]
 
-cb)–cc)[^9]
+cb) 1560, 1561, 1565, 1566, 1573 nyilvántartási számú sorok „adatszolgáltatóinak meghatározása” elnevezésű oszlopában az „Országos Epidemiológiai Központ” szövegrész helyébe az „Emberi Erőforrások Minisztériuma” szöveg,
 
-cd)[^10]
+cc) 1572 nyilvántartási számú sor „adatszolgáltatóinak meghatározása” elnevezésű oszlopában az „Országos Tisztifőorvosi Hivatal Munkahigiénés és Foglalkozás-egészségügyi Főosztály” szövegrész helyébe az „Országos Közegészségügyi Intézet” szöveg,
 
-d)[^11]
+cd)[^9]
+
+d)[^10]
 
 [^7]: A 6. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: A 6. § c) pont ca) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. § c) pont cb)–cc) alpontja a 24. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^10]: A 6. § c) pont cd) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 6. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § c) pont cd) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
