@@ -1,8 +1,9 @@
-## 11. § Az 528/2012/EU európai parlamenti és tanácsi rendelet 25. cikkében foglalt feltételeknek megfelelő biocid termék engedélyezésére vonatkozó eljárásban az értékelő illetékes hatóság az OTH.
+## 11. §[^13] Az 528/2012/EU európai parlamenti és tanácsi rendelet 25. cikkében foglalt feltételeknek megfelelő biocid termék engedélyezésére vonatkozó eljárásban az értékelő illetékes hatóság az országos tisztifőorvos.
 
-12. § (1)[^8] Az eljárásban feladatkörében eljárva – a Kr.-ben meghatározott szakkérdésben – szakhatóságként közreműködik az országos környezetvédelmi és természetvédelmi hatóság.
+12. § (1)[^14] Az eljárásban feladatkörében eljárva – a Kr.-ben meghatározott szakkérdésben – szakhatóságként közreműködik az országos környezetvédelmi és természetvédelmi hatóság.
 
-(2)[^9]
+(2)[^15]
 
-[^8]: A 12. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 240. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^9]: A 12. § (2) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 68. § b) pontja hatályon kívül helyezte.
+[^13]: A 11. § a 379/2016. (XII. 2.) Korm. rendelet 240. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 12. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 240. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^15]: A 12. § (2) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 68. § b) pontja hatályon kívül helyezte.
