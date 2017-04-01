@@ -68,7 +68,7 @@
 
 33. Országos Nyugdíjbiztosítási Főigazgatóság
 
-34. Országos Tisztifőorvosi Hivatal
+34.[^162]
 
 35. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -92,3 +92,4 @@
 
 [^160]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (7) bekezdésével megállapított szöveg.
 [^161]: Az 1. melléklet 29. pontja a 464/2016. (XII. 23.) Korm. rendelet 48. § (2) bekezdés c) pontja alapján nem lép hatályba.
+[^162]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
