@@ -74,7 +74,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | régészet és műemlékvédelem | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 19. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 19. | egészségügy | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
 | 20. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -82,4 +82,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | élelmiszer-biztonság | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
-[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
