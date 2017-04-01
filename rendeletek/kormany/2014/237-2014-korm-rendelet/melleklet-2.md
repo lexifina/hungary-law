@@ -50,8 +50,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 10. | Műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 11. | Egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 11. | Egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 12. | Műemlékvédelem és régészet | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 82. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 82. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 82. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
