@@ -20,7 +20,7 @@
 
 | 9. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | ingatlan- nyilvántartási hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
+| 10. | ingatlan-nyilvántartási hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
 | 11. | telekalakítási hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
@@ -34,7 +34,7 @@
 
 | 16. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 17. | talajvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
+| 17. | talajvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
 | 18. | élelmiszerlánc felügyeleti eljárás | illetékes járási hivatal | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
@@ -44,7 +44,7 @@
 
 | 21. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 22. | a jogszabályban rögzített közegészségügyi hatósági eljárások | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 22. | a jogszabályban rögzített közegészségügyi hatósági eljárások | illetékes járási hivatal | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
 | 23. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -90,10 +90,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | élelmiszerlánc-biztonság | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 19. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 19. | egészségügy | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
 | 20. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 21. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 92. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 92. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 92. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
