@@ -1,4 +1,4 @@
-## 29–30. §[^5]
+## 29–30. §[^7]
 
 31. § (1) A 45/2016. NGM rendelet 1. melléklete az 1. melléklet szerinti szöveggel lép hatályba.
 
@@ -16,7 +16,7 @@
 
 (8) A 45/2016. NGM rendelet 21. melléklete a 8. melléklet szerinti szöveggel lép hatályba.
 
-(9)[^6]
+(9)[^8]
 
-[^5]: A 29–30. § a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^6]: A 31. § (9) bekezdése a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^7]: A 29–30. § a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^8]: A 31. § (9) bekezdése a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.

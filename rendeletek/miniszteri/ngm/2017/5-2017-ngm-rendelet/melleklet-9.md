@@ -136,6 +136,6 @@
 
 ## ”
 
-9. melléklet az 5/2017. (III. 30.) NGM rendelethez[^8]
+9. melléklet az 5/2017. (III. 30.) NGM rendelethez[^10]
 
-[^8]: A 9. melléklet a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^10]: A 9. melléklet a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
