@@ -6,7 +6,7 @@ a) a fogyatékos személyek otthonában, illetve ápoló- gondozó célú lakóo
 
 b) az ápolást, gondozást nyújtó intézményben vagy ápoló-gondozó célú lakóotthonban ellátott nagykorú fogyatékos személy, illetve BNO 10 kódkönyv F diagnóziskóddal rendelkező ellátott felülvizsgálatára (a továbbiakban: gondozási felülvizsgálat),
 
-c)[^1] a szociális foglalkoztatás keretében foglalkoztatni kívánt, illetve foglalkoztatott, nappali intézményben, átmeneti elhelyezést nyújtó intézményben, ápolást, gondozást nyújtó intézményben vagy ápoló-gondozó célú lakóotthonban elhelyezésre kerülő, illetve elhelyezett ellátott rehabilitációs alkalmassági vizsgálatára és felülvizsgálatára (a továbbiakban: szociális foglalkoztatási alkalmassági vizsgálat, illetve felülvizsgálat),
+c)[^1]
 
 d) rehabilitációs intézményben vagy rehabilitációs célú lakóotthonban elhelyezésre kerülő, illetve elhelyezett személy rehabilitációs alkalmassági vizsgálatára és felülvizsgálatára (a továbbiakban: átfogó rehabilitációs alkalmassági vizsgálat, illetve felülvizsgálat).
 
@@ -16,11 +16,12 @@ d) rehabilitációs intézményben vagy rehabilitációs célú lakóotthonban e
 
 a) ellátott: az a személy, akinek intézményi elhelyezéséről az intézményvezető, a fenntartó, illetve a bíróság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) rendelkezéseinek megfelelően döntött,
 
-b) szociális foglalkoztatás: az ellátottak Szt. szerinti szociális foglalkoztatása,
+b)[^2]
 
 c) szociális szakértő: – elsősorban az Országos Szociálpolitikai Szakértői Névjegyzékben szereplő – általános szociális munkás, szociális munkás, szociálpolitikus, szociálpedagógus és szociális szervező,
 
-d)[^2] foglalkoztatási szakértő: a Foglalkozási Rehabilitációs Szakértői Névjegyzékben szereplő szakértő, vagy Budapest Főváros Kormányhivatala (a továbbiakban: Hivatal) által foglalkoztatott foglalkoztatási, foglalkozási rehabilitációs szakértő.
+d)[^3]
 
-[^1]: Az 1. § (1) bekezdés c) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés b) pont ba) alpontja szerint módosított szöveg.
-[^2]: Az 1. § (3) bekezdés d) pontja 95/2012. (V. 15.) Korm. rendelet 40. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 114. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés c) pontját a 448/2016. (XII. 19.) Korm. rendelet 28. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (3) bekezdés b) pontját a 448/2016. (XII. 19.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
