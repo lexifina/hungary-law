@@ -10,7 +10,7 @@
 
 (6)[^9] Az élelmiszer táplálkozási célú meg nem felelését észlelő gyártó vagy forgalmazó a meg nem felelés észlelését követően haladéktalanul köteles ezt bejelenteni a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak (a továbbiakban: kormányhivatal). Az élelmiszer táplálkozási célú meg nem felelését észlelő fogyasztó ezt a kormányhivatal részére bejelentheti.
 
-(7)[^10] A kormányhivatal a (6) bekezdés szerinti bejelentést kivizsgálja és annak eredményéről gyorsjelentésben tájékoztatja az OGYÉI-t és az Országos Tisztifőorvosi Hivatalt.
+(7)[^10] A kormányhivatal a (6) bekezdés szerinti bejelentést kivizsgálja és annak eredményéről gyorsjelentésben tájékoztatja az OGYÉI-t és az országos tisztifőorvost.
 
 [^4]: A 2. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 126. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 126. § d) pontja szerint módosított szöveg.
@@ -18,4 +18,4 @@
 [^7]: A 2. § (4) bekezdése a 11/2013. (II. 7.) EMMI rendelet 39. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 126. § e) pontja szerint módosított szöveg.
 [^8]: A 2. § (5) bekezdése a 11/2013. (II. 7.) EMMI rendelet 39. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 126. § b) és f) pontja szerint módosított szöveg.
 [^9]: A 2. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 126. § g) pontja szerint módosított szöveg.
-[^10]: A 2. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 126. § h)–i) pontja szerint módosított szöveg.
+[^10]: A 2. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 126. § h)–i) pontja, az 54/2016. (XII. 30.) EMMI rendelet 78. §-a szerint módosított szöveg.
