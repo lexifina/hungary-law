@@ -4,7 +4,7 @@
 
 2. § (1)[^1] E rendelet értelmében piacfelügyeleti hatóság:
 
-a) az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: OTH),
+a)[^2] az országos tisztifőorvos,
 
 b) a népegészségügyi, bányafelügyeleti hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal,
 
@@ -28,10 +28,11 @@ k) a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF
 
 l) a Rendőrség szervei (a továbbiakban: Rendőrség).
 
-(2)[^2] A Nemzeti Adó- és Vámhivatal a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
+(2)[^3] A Nemzeti Adó- és Vámhivatal a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
 
-(3)[^3] A fogyasztóvédelemért felelős miniszter feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
+(3)[^4] A fogyasztóvédelemért felelős miniszter feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
 
 [^1]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
-[^3]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
