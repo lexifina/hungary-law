@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-37-20-3
 | 2012-01-04 | 1996-37-20-3D.9 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2013-02-08 | 1996-37-20-3D.10 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2015-04-29 | 1996-37-20-3D.11 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2017-04-01 | 1996-37-20-3D.12 | 17/2002. (IV. 12.) EüM rendelet |

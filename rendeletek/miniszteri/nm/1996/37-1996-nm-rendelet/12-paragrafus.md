@@ -4,6 +4,6 @@
 
 12. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^21]
+(2)[^23]
 
-[^21]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 21. pontja hatályon kívül helyezte.
+[^23]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 21. pontja hatályon kívül helyezte.

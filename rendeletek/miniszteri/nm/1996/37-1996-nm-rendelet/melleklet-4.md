@@ -10,7 +10,7 @@
 
 ## 4. A fürdőzőt ért bármilyen baleset vagy rosszullét esetén ügyeletes orvost vagy elsősegélynyújtásban kiképzett fürdőalkalmazottat kell hívni. A balesetekről és a rosszullétekről naplót kell vezetni. Súlyosabb sérülés vagy rosszullét esetén azonnal orvost vagy mentőt kell hívni.
 
-## 5.[^43] A fürdési célokat szolgáló valamennyi helyiséget üzemzárás után naponta a megyei kormányhivatal vagy az Országos Tisztifőorvosi Hivatal által nyilvántartásba vett fertőtlenítőszeres oldattal (a továbbiakban: fertőtlenítőszeres oldat) kell kitakarítani.
+## 5.[^45] A fürdési célokat szolgáló valamennyi helyiséget üzemzárás után naponta az országos tisztifőorvos által engedélyezett fertőtlenítőszeres oldattal (a továbbiakban: fertőtlenítőszeres oldat) kell kitakarítani.
 
 ## 6. A fürdők területén a befogadóképességnek megfelelő számú szemétgyűjtő tartályt kell elhelyezni.
 
@@ -40,7 +40,7 @@
 
 ## 4. A fürdőmedencébe szennyezett testtel belépni nem szabad. Az erre vonatkozó figyelmeztető táblákat, valamint a víz és a levegő hőmérsékletét jelző feliratot jól látható helyen kell elhelyezni.
 
-4. számú melléklet a 37/1996. (X. 18.) NM rendelethez[^44]
+4. számú melléklet a 37/1996. (X. 18.) NM rendelethez[^46]
 
 A fürdővíz vizsgálatok gyakorisága
 
@@ -100,5 +100,5 @@ A fürdővíz vizsgálatok gyakorisága
 
 | Csak idényben működő fürdőknél a havonta+ azt jelenti, hogy az idény elején és azt követően még kétszer, a kéthavonta++ azt, hogy összesen kétszer végzendő. |
 
-[^43]: A 3. számú melléklet 5. pontja 23/2015. (IV. 28.) EMMI rendelet 7. § g) pontja szerint módosított szöveg.
-[^44]: A 4. számú melléklet a Magyar Közlöny 1996. évi 111. számában megjelent helyesbítésnek megfelelő és a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bj) pontja, a 23/2015. (IV. 28.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^45]: A 3. számú melléklet Általános rendelkezések rész 5. pontja az 54/2016. (XII. 30.) EMMI rendelet 4. § i) pontja szerint módosított szöveg.
+[^46]: A 4. számú melléklet a Magyar Közlöny 1996. évi 111. számában megjelent helyesbítésnek megfelelő és a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bj) pontja, a 23/2015. (IV. 28.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
