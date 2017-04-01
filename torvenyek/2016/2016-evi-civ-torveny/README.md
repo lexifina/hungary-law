@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-104-00-00
 | 2016-10-22 | 2010. évi CXXX. törvény | 2016-104-00-00.2 |
 | 2017-01-01 | 2016. évi CXLVI. törvény | 2016-104-00-00.3 |
 | 2017-01-02 | 2010. évi CXXX. törvény | 2016-104-00-00.4 |
+| 2017-04-01 | 2016. évi CLXXII. törvény | 2016-104-00-00.5 |

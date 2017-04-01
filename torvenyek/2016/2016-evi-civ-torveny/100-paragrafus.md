@@ -8,7 +8,7 @@ a) 134. §
 
 aa)
 
-ab)
+ab) (1) bekezdés 13. pontjában az „egészségügyről szóló törvény szerinti” és a „és a központi nyugdíjbiztosítási szervnél” szövegrész,
 
 ac)–ad)
 
