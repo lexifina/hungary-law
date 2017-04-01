@@ -86,7 +86,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | régészet és műemlékvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 18. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | egészségügy | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -96,4 +96,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
