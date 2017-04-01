@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-20-5H
 | 2015-03-31 | 2014-1-20-5H.3 | 16/2015. (III. 30.) EMMI rendelet |
 | 2015-04-29 | 2014-1-20-5H.4 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2015-11-25 | 2014-1-20-5H.5 | 54/2015. (XI. 24.) EMMI rendelet |
+| 2017-04-01 | 2014-1-20-5H.6 | 54/2016. (XII. 30.) EMMI rendelet |

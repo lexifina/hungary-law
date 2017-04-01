@@ -1,4 +1,4 @@
-4/A. melléklet az 1/2014. (I. 16.) EMMI rendelethez[^21]
+4/A. melléklet az 1/2014. (I. 16.) EMMI rendelethez[^31]
 
 ## A mikrobiológiai vizsgálatot végző laboratórium által személyazonosításra alkalmatlan módon jelentendő adatok köre
 
@@ -64,4 +64,4 @@
 
 31. Antibiotikum-rezisztenciára vonatkozó adatok (az antibiotikum neve, a vizsgálat eredménye)
 
-[^21]: A 4/A. mellékletet az 54/2015. (XI. 24.) EMMI rendelet 55. § (2) bekezdése iktatta be.
+[^31]: A 4/A. mellékletet az 54/2015. (XI. 24.) EMMI rendelet 55. § (2) bekezdése iktatta be.
