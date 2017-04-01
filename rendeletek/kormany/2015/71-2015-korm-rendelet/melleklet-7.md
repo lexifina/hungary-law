@@ -30,8 +30,10 @@ I. Egyes hulladékgazdálkodással összefüggő eljárásokban vizsgálandó sz
 
 | 2. | Hulladék hivatalbóli besorolására irányuló eljárásában. | állati hulladék esetén | Annak vizsgálata, hogy az állati hulladék rendelkezik-e a Ht. 1. melléklete szerinti HP9 veszélyességi jellemzővel. |  |
 
-| 3. | A veszélyes hulladékkal kapcsolatos engedélyezési eljárásában (a minősítési eljárás és a bírság kiszabásának kivételével). (a területi környezetvédelmi hatóság elsőfokú eljárása) | minden esetben | Az egészségkárosító kockázatok és esetleges hatások, a gyorsan bomló szerves és szervetlen anyagokat tartalmazó veszélyes hulladék gyűjtése módjának és mennyiségének jóváhagyása, tárolása, közegészségügyi feltételeinek érvényesítésének vizsgálata. | Országos Tisztifőorvosi Hivatal |
+| 3. | A veszélyes hulladékkal kapcsolatos engedélyezési eljárásában (a minősítési eljárás és a bírság kiszabásának kivételével, a területi környezetvédelmi hatóság elsőfokú eljárása). | minden esetben | Az egészségkárosító kockázatok és esetleges hatások, a gyorsan bomló szerves és szervetlen anyagokat tartalmazó veszélyes hulladék gyűjtése módjának és mennyiségének jóváhagyása, tárolása, közegészségügyi feltételeinek érvényesítésének vizsgálata. |  |
+
+| 4. | A veszélyes hulladékkal kapcsolatos engedélyezési eljárásában (a minősítési eljárás és a bírság kiszabásának kivételével, az országos környezetvédelmi hatóság elsőfokú eljárása). | minden esetben | Az egészségkárosító kockázatok és esetleges hatások, a gyorsan bomló szerves és szervetlen anyagokat tartalmazó veszélyes hulladék gyűjtése módjának és mennyiségének jóváhagyása, tárolása, közegészségügyi feltételeinek érvényesítésének vizsgálata. |  |
 
 II. Egyes hulladékgazdálkodással összefüggő eljárásokban kijelölt szakhatóságok
 
-[^88]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés f) pontjával megállapított szöveg.
+[^88]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés g) pontjával megállapított szöveg.
