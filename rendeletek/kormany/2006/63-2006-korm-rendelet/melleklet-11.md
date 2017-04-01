@@ -4,7 +4,7 @@
 
 ## Ágazati azonosító:
 
-## ÁNTSZ engedély száma:
+## Működési engedély száma:
 
 ## Rendelő/munkahely neve, címe:
 
