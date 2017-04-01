@@ -54,7 +54,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | Egészségügy | illetékes járási (fővárosi kerületi) hivatal | Országos Tisztifőorvosi Hivatal |
+| 2. | Egészségügy | illetékes járási (fővárosi kerületi) hivatal | illetékes fővárosi és megyei kormányhivatal |
 
 | 3. | Helyi természetvédelem, helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | illetékes fővárosi és megyei kormányhivatal |
 
@@ -68,7 +68,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-| 9. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | egészségügyért felelős miniszter |
+| 9. | Gyógyhelyek | Budapest Főváros Kormányhivatala | egészségügyért felelős miniszter |
 
 | 10. | Vízi közlekedés | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | Műszaki biztonság | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 15. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 15. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
