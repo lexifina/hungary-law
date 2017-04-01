@@ -40,7 +40,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | Rendészet: a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budapest V. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 9. | Egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 9. | Egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 10. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -50,4 +50,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 64. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
