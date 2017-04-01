@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya kiterjed az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalánál és országos intézeteinél, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél, valamint a népegészségügyi, illetve sugáregészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnál és a járási (fővárosi kerületi) hivatalnál (a továbbiakban együtt: intézet) az 1. melléklet szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
+## 1. §[^1] E rendelet hatálya kiterjed az országos tisztifőorvosnál, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél, valamint a népegészségügyi, illetve sugáregészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnál és a járási (fővárosi kerületi) hivatalnál (a továbbiakban együtt: intézet) az 1. melléklet szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
 
 2. § (1) A díjfizetésre kötelezett az igazgatási szolgáltatásokért az 1. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat (a továbbiakban: díj) köteles megfizetni.
 
@@ -44,13 +44,13 @@ b) az 1. mellékletben foglalt táblázat XII. 3. pontja szerinti díjból az or
 
 (11)[^7]
 
-(12)[^8] Az 1. melléklet I.3. pontja szerinti eljárások jogorvoslati díját az Egészségügyi Nyilvántartási és Képzési Központ 10032000-00285788-00000000 számú számlájára kell befizetni.
+(12)[^8]
 
-[^1]: Az 1. § a 23/2015. (IV. 28.) EMMI rendelet 99. §-ával megállapított szöveg.
+[^1]: Az 1. § a 23/2015. (IV. 28.) EMMI rendelet 99. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 62. § (2) bekezdése szerint módosított szöveg.
 [^2]: A 2. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 101. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (7) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be, szövege a 9/2015. (II. 10.) EMMI rendelet 6. §-ával megállapított szöveg.
 [^5]: A 2. § (10) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be, szövege a 9/2015. (II. 10.) EMMI rendelet 6. §-ával megállapított szöveg.
 [^6]: A 2. § (10) bekezdés a) pont aa) alpontja a 23/2015. (IV. 28.) EMMI rendelet 101. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (11) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 9/2015. (II. 10.) EMMI rendelet 8. §-a.
-[^8]: A 2. § (12) bekezdését a 42/2012. (XI. 28.) EMMI rendelet 5. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 101. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (12) bekezdését a 42/2012. (XI. 28.) EMMI rendelet 5. § (1) bekezdése iktatta be, az 54/2016. (XII. 30.) EMMI rendelet 62. § (3) bekezdése hatályon kívül helyezte.
