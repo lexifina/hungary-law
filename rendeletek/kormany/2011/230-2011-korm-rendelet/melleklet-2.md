@@ -32,7 +32,7 @@
 
 | 15. | Útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez[^13]
+2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez[^14]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -40,7 +40,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | Egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 2. | Egészségügy | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
 | 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei (fővárosi) kormányhivatal |
 
@@ -56,7 +56,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-| 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | egészségügyért felelős miniszter |
+| 10. | Gyógyhelyek | Budapest Főváros Kormányhivatala | egészségügyért felelős miniszter |
 
 | 11. | Víziközlekedés | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
@@ -78,4 +78,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | Építésügy | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-[^13]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 21. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^14]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 21. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
