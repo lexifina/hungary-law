@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-13-20-3
 | 2015-03-31 | 1992-13-20-3D.9 | 16/2015. (III. 30.) EMMI rendelet |
 | 2017-01-01 | 1992-13-20-3D.10 | 16/2008. (IV. 24.) EüM rendelet |
 | 2017-01-05 | 1992-13-20-3D.11 | 44/2016. (XII. 28.) EMMI rendelet |
+| 2017-04-01 | 1992-13-20-3D.12 | 16/2008. (IV. 24.) EüM rendelet |

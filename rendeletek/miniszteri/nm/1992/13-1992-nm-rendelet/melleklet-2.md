@@ -212,7 +212,7 @@
 
 ## Az egészségügyi alkalmassági vélemény adattartalma
 
-1.[^52] Az egészségügyi szolgáltató neve, címe és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló EüM rendelet szerint az Országos Tisztifőorvosi Hivataltól kapott kilencjegyű azonosító.
+1.[^52] Az egészségügyi szolgáltató neve, címe és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló EüM rendelet szerint kapott kilencjegyű azonosító.
 
 2. A vizsgált személy neve, születési helye, ideje, állandó lakóhelye
 
@@ -233,6 +233,6 @@
 10.[^54] A következő tájékoztatás: „Ezt a véleményt – ha a véleményt nem a vizsgált személy választott háziorvosa állította ki – az alkalmassági vizsgálatot végző orvos a vizsgálat elvégzését követő 15 napon belül megküldi a vizsgált személy választott háziorvosának.”
 
 [^51]: A mellékletet a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (2) bekezdése iktatta be, az eredeti melléklet szövegének megjelölését 2. mellékletre változtatta a 19/2010. (XII. 23.) NEFMI rendelet 6. § (2) bekezdése.
-[^52]: A melléklet 1. pontja a 16/2008. (IV. 24.) EüM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^52]: A melléklet 1. pontja a 16/2008. (IV. 24.) EüM rendelet 10. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
 [^53]: A melléklet 5. pontja a 16/2008. (IV. 24.) EüM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^54]: A melléklet 10. pontját a 16/2008. (IV. 24.) EüM rendelet 10. § (2) bekezdése iktatta be.
