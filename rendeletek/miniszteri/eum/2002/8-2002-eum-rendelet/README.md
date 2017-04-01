@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-8-20-0B
 | 2011-03-31 | 2002-8-20-0B.6 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2012-04-15 | 2002-8-20-0B.7 | 21/2012. (IV. 4.) NEFMI rendelet |
 | 2015-04-29 | 2002-8-20-0B.8 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2017-04-01 | 2002-8-20-0B.9 | 54/2016. (XII. 30.) EMMI rendelet |
