@@ -1,6 +1,6 @@
-## Biocid termékek előállítása, csomagolása és feliratozása[^20]
+## Biocid termékek előállítása, csomagolása és feliratozása[^22]
 
-10. §[^21] (1) A biocid termékek előállítása és csomagolása során a következő követelményeket kell érvényesíteni:
+10. §[^23] (1) A biocid termékek előállítása és csomagolása során a következő követelményeket kell érvényesíteni:
 
 a) azokat a termékeket, amelyek élelmiszerrel, állatok itatására szolgáló folyadékkal vagy takarmánnyal összetéveszthetők, úgy kell csomagolni, hogy az ilyen összetévesztés esélye a lehető legkisebb legyen,
 
@@ -10,7 +10,7 @@ b) a mindenki számára hozzáférhető termékeknek, ha azok élelmiszerrel, it
 
 a) valamennyi hatóanyag azonosítását és mérhető egységekben kifejezett koncentrációját,
 
-b) az OTH által a biocid terméknek adott engedélyezési számot,
+b)[^24] az országos tisztifőorvos által a biocid terméknek adott engedélyezési számot,
 
 c) a készítmény terméktípusát és formulációjának típusát,
 
@@ -50,5 +50,6 @@ n) mikrobiológiai biocid termékek esetében a biológiai tényezők hatásána
 
 (4) A biocid termékeken a feliratozás (címkézés), illetve a termékekhez csatolt tájékoztatás (használati utasítás) magyar nyelvű.
 
-[^20]: A 10. §-t megelőző alcím a 32/2014. (IV. 18.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^21]: A 10. § a 32/2014. (IV. 18.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^22]: A 10. §-t megelőző alcím a 32/2014. (IV. 18.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^23]: A 10. § a 32/2014. (IV. 18.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^24]: A 10. § (2) bekezdés b) pontja az 54/2016. (XII. 30.) EMMI rendelet 30. § (6) bekezdés c) pontja szerint módosított szöveg.

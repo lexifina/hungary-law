@@ -1,3 +1,3 @@
-## 15. §[^26]
+## 15. §[^29]
 
-[^26]: A 15. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.
+[^29]: A 15. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.

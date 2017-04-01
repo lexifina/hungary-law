@@ -1,3 +1,3 @@
-## 13. §[^24]
+## 13. §[^27]
 
-[^24]: A 13. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.
+[^27]: A 13. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.

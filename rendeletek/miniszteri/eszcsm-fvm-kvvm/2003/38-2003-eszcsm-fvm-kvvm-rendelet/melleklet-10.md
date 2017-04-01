@@ -1,4 +1,4 @@
-## 1. Az emberek és állatok általi fogyasztásra szánt ivóvíz, valamint a használati melegvíz, az uszoda és egyéb fürdőzésre használt vizek fertőtlenítésére használt szerek, továbbá az algásodásgátló biocid termékek szakvéleményezéséhez szükséges adatok
+## 1. Az emberek és állatok általi fogyasztásra szánt ivóvíz, valamint a használati melegvíz, az uszoda és egyéb fürdőzésre használt vizek fertőtlenítésére használt szerek, továbbá az algásodásgátló biocid termékek kérelméhez szükséges adatok és dokumentumok
 
 ## 1.1. A termék neve, hatóanyagainak megnevezése, kémiai összetétele (szerkezete), fizikai, kémiai tulajdonságai, CAS-, EINECS-szám
 
@@ -32,7 +32,7 @@
 
 ## 1.15. A 10. § (2) bekezdése szerinti címketerv, használati útmutató
 
-## 2. Irtószerek szakvéleményezéséhez szükséges adatok
+## 2. Irtószerek kérelméhez szükséges adatok és dokumentumok
 
 ## 2.1. Az irtószer neve
 
@@ -70,9 +70,9 @@
 
 ## 2.17. A gyártó cég nyilatkozata a kérelmező magyarországi forgalmazási jogáról és névhasználatáról
 
-## 3. A 6. § (4) bekezdésében felsorolt fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció (a kérelem adattartalma és a kérelemhez csatolandó dokumentumok)
+## 3. A 6. § (4) bekezdésében felsorolt fertőtlenítő szerek kérelmének adattartalma és a csatolandó dokumentumok
 
-## 3/a. A 6. § (5) bekezdése szerinti, kizárólag lakossági felhasználásra kerülő fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció (a kérelem adattartalma és a kérelemhez csatolandó dokumentumok)
+## 3/a. A 6. § (5) bekezdése szerinti, kizárólag lakossági felhasználásra kerülő fertőtlenítő szerek kérelmének adattartalma és a csatolandó dokumentumok
 
 ## 1. A biocid termék gyártója (név, cím, telefon, e-mail cím)
 
@@ -132,7 +132,7 @@
 
 ## 3.16. Állattartó telepek fertőtlenítésére szolgáló termék esetén annak az időtartamnak a meghatározása, amelynek letelte után az állatok beengedhetők a fertőtlenített helyiségekbe
 
-## 4. A 7. §-ban felsorolt fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció
+## 4. A 7. §-ban felsorolt fertőtlenítő szerek kérelméhez szükséges adatok és dokumentumok
 
 ## 4.1. A kérelmező, a forgalmazó adatai (név, cím, telefon, e-mail)
 
@@ -160,6 +160,6 @@
 
 10. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^82]
+együttes rendelethez[^85]
 
-[^82]: A 10. számú melléklet a 15/2012. (III. 12.) NEFMI rendelet 9. § (3) bekezdésével megállapított, a 32/2014. (IV. 18.) EMMI rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^85]: A 10. számú melléklet a 15/2012. (III. 12.) NEFMI rendelet 9. § (3) bekezdésével megállapított, a 32/2014. (IV. 18.) EMMI rendelet 10. § (3) bekezdése szerint módosított szöveg.

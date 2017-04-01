@@ -1,3 +1,3 @@
-## 19. §[^32]
+## 19. §[^35]
 
-[^32]: A 19. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.
+[^35]: A 19. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.

@@ -484,6 +484,6 @@
 
 7. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^61]
+együttes rendelethez[^64]
 
-[^61]: A 7. számú mellékletet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (7) bekezdése hatályon kívül helyezte.
+[^64]: A 7. számú mellékletet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (7) bekezdése hatályon kívül helyezte.
