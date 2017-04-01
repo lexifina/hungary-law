@@ -58,7 +58,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 14. | egészségügy | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
 | 15. | területrendezés | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
@@ -68,4 +68,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 56. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 56. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 56. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
