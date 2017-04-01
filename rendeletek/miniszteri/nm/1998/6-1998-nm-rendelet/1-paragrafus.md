@@ -16,17 +16,18 @@ be) Egészségügyi Szakmai Kollégium,
 
 bf) egészségügyi érdek-képviseleti szervezetek,
 
-bg) Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal,
+bg)[^3]
 
-bh)[^3] Állami Egészségügyi Ellátó Központ,
+bh)[^4] Állami Egészségügyi Ellátó Központ,
 
 bi) a Finanszírozási Kódkarbantartó Bizottság (a továbbiakban: Munkabizottság)
 
 ## tevékenységére terjed ki.
 
-(2)[^4] A karbantartás lehet rendszeres (átfogó vagy célzott) és soron kívüli. A rendszeres karbantartás előre meghatározott időtartamán belül történhet célzott adatgyűjtés is.
+(2)[^5] A karbantartás lehet rendszeres (átfogó vagy célzott) és soron kívüli. A rendszeres karbantartás előre meghatározott időtartamán belül történhet célzott adatgyűjtés is.
 
 [^1]: Az 1. § (1) bekezdés b) pontja az 55/2012. (XII. 28.) EMMI rendelet 5. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pont bb) alpontja az 54/2016. (XII. 30.) EMMI rendelet 7. § (1) bekezdés a) pontjával megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés b) pont bh) alpontja az 54/2016. (XII. 30.) EMMI rendelet 7. § (1) bekezdés b) pontjával megállapított szöveg.
-[^4]: Az 1. § (2) bekezdése a 67/1999. (XII. 25.) EüM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés b) pont bg) alpontját az 54/2016. (XII. 30.) EMMI rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^4]: Az 1. § (1) bekezdés b) pont bh) alpontja az 54/2016. (XII. 30.) EMMI rendelet 7. § (1) bekezdés b) pontjával megállapított szöveg.
+[^5]: Az 1. § (2) bekezdése a 67/1999. (XII. 25.) EüM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
