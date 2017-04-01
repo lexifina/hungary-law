@@ -82,7 +82,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | erdővédelem | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 16. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 16. | egészségügy | illetékes járási hivatal | Baranya Megyei Kormányhivatal |
 
 | 17. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | telekalakítási eljárásban a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés | Mohács Város Önkormányzatának jegyzője | Baranya Megyei Kormányhivatal |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 76. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 76. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 76. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
