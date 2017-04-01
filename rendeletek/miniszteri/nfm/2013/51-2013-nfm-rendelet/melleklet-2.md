@@ -1,4 +1,4 @@
-2. melléklet az 51/2013. (IX. 6.) NFM rendelethez[^22]
+2. melléklet az 51/2013. (IX. 6.) NFM rendelethez[^25]
 
 1. A mellékletként beadandó engedélyezési dokumentáció példányszámai:
 
@@ -24,4 +24,4 @@
 
 2. A beadott engedélyezési dokumentáció példányai közül legalább egynek eredeti, nyomtatott példánynak kell lennie. A további példányok beadhatók elektronikus adathordozón (CD, DVD) is. Az OAH az általa elfogadott fájlformátumok jegyzékét a honlapján közzéteszi.
 
-[^22]: A 2. melléklet a 77/2015. (XII. 30.) NFM rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^25]: A 2. melléklet a 77/2015. (XII. 30.) NFM rendelet 5. § (7) bekezdésével megállapított szöveg.

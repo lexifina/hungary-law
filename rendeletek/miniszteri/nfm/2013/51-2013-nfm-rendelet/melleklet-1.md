@@ -1,6 +1,6 @@
 1. melléklet az 51/2013. (IX. 6.) NFM rendelethez
 
-Adatszolgáltatás a radioaktív anyagok szállításának és fuvarozásának engedélykérelméhez[^21]
+## Adatszolgáltatás a radioaktív anyagok szállításának és fuvarozásának engedélykérelméhez[^24]
 
 1. A kérelmező neve, címe.
 
@@ -30,4 +30,4 @@ Adatszolgáltatás a radioaktív anyagok szállításának és fuvarozásának e
 
 8.6. az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet 7. § (5) szerinti szállítás esetén a 3. mellékletben előírtak teljesítéséről szóló nyilatkozatot.
 
-[^21]: Az 1. melléklet a 77/2015. (XII. 30.) NFM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^24]: Az 1. melléklet a 77/2015. (XII. 30.) NFM rendelet 5. § (6) bekezdésével megállapított szöveg.
