@@ -1,14 +1,14 @@
-7/B. §[^36] (1) A kísérleti célú vetőmag forgalomba hozatali engedélye egy évig hatályos, amely új kérelem benyújtása alapján egy évvel meghosszabbítható.
+7/B. §[^37] (1) A kísérleti célú vetőmag forgalomba hozatali engedélye egy évig hatályos, amely új kérelem benyújtása alapján egy évvel meghosszabbítható.
 
 (2) Az engedélyek érvényessége megszűnik, ha az állami elismerésre vonatkozó kérelmet visszavonták vagy elutasították, illetve ha a fajta állami elismerésre került.
 
-(3)[^37] A NÉBIH-nek – annak ellenére, hogy az engedélyt az illetékes fajtavizsgálati hatóság megadta, bizonyos esetben, különösen GMO szennyezettség, növényegészségügyi veszélyeztetés, környezeti ártalmak elkerülése érdekében – jogában áll Magyarország területén adott kísérleti célú vetőmag felhasználását betiltani, vagy termesztési feltételeket meghatározni.
+(3)[^38] A NÉBIH-nek – annak ellenére, hogy az engedélyt az illetékes fajtavizsgálati hatóság megadta, bizonyos esetben, különösen GMO szennyezettség, növényegészségügyi veszélyeztetés, környezeti ártalmak elkerülése érdekében – jogában áll Magyarország területén adott kísérleti célú vetőmag felhasználását betiltani, vagy termesztési feltételeket meghatározni.
 
-(4)[^38] A NÉBIH az engedély birtokosát kötelezheti a fajta kísérleti felhasználásával vagy termesztésével kapcsolatos információk gyűjtésére, az elvégzett tesztek vagy kísérleti eredmények, valamint az engedélyezett időszak alatt az engedély alapján ténylegesen forgalomba hozott vetőmag-mennyiség tagállamonkénti közlésére.
+(4)[^39] A NÉBIH az engedély birtokosát kötelezheti a fajta kísérleti felhasználásával vagy termesztésével kapcsolatos információk gyűjtésére, az elvégzett tesztek vagy kísérleti eredmények, valamint az engedélyezett időszak alatt az engedély alapján ténylegesen forgalomba hozott vetőmag-mennyiség tagállamonkénti közlésére.
 
-(5)[^39] A NÉBIH a kérelmek beérkezéséről, azok esetleges elutasításáról, az engedélyek megadásáról, meghosszabbításáról, hatályon kívül helyezéséről vagy visszavonásáról értesíti az Európai Unió tagállamainak illetékes hatóságait és az Európai Unió Bizottságát.
+(5)[^40] A NÉBIH a kérelmek beérkezéséről, azok esetleges elutasításáról, az engedélyek megadásáról, meghosszabbításáról, hatályon kívül helyezéséről vagy visszavonásáról értesíti az Európai Unió tagállamainak illetékes hatóságait és az Európai Unió Bizottságát.
 
-[^36]: A 7/B. §-t a 16/2011. (III. 2.) VM rendelet 6. §-a iktatta be.
-[^37]: A 7/B. § (3) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (7) bekezdése szerint módosított szöveg.
-[^38]: A 7/B. § (4) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^39]: A 7/B. § (5) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^37]: A 7/B. §-t a 16/2011. (III. 2.) VM rendelet 6. §-a iktatta be.
+[^38]: A 7/B. § (3) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (7) bekezdése szerint módosított szöveg.
+[^39]: A 7/B. § (4) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^40]: A 7/B. § (5) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) bekezdése szerint módosított szöveg.

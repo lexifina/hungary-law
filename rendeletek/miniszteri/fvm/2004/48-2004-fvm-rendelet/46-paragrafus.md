@@ -14,4 +14,8 @@ f) a felhasználási cél és az összetevők százalékos aránya,
 
 g) az 1. számú mellékletben felsorolt fajok esetében ,,Fajkeverék'' vagy ,,Fajtakeverék'' felirat, ebben az esetben a faj, szaporítási fok, fajta, termelő ország és az összetevők arányának megnevezése,
 
-h) az 1. számú mellékletben, illetve a 3. és 4. számú melléklet D. részeiben felsorolt fajok esetében a ,,Forgalomba hozatala kizárólag Magyarországon engedélyezett'' felirat.
+h) az 1. számú mellékletben, illetve a 3. és 4. számú melléklet D. részeiben felsorolt fajok esetében a ,,Forgalomba hozatala kizárólag Magyarországon engedélyezett'' felirat,
+
+i)[^129] a hatósági sorszámot.
+
+[^129]: A 46. § i) pontját a 47/2016. (VII. 15.) FM rendelet 4. §-a iktatta be.

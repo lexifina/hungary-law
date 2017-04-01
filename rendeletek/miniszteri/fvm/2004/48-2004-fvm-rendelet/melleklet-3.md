@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^196]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^202]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -1466,22 +1466,4 @@ Szümcső (Bunias orientalis)
 
 Magtermő évben
 
-| Ellenőrzések száma: | 2. |
-
-| Ellenőrzések időpontja: | 1. ellenőrzés a fővirágzás időszakában, |
-
-|  | 2. ellenőrzés az érés kezdetétől a betakarításig. |
-
-| Fenntartó ellenőrzések esetén |  |
-
-| Ellenőrzés időpontja: | A tenyészidőszak folyamán, ha a növényállomány nincs tarlóállapotban. |
-
-| Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
-
-| Mintatér nagyság: | 100 m2. |
-
-| Mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után: 2 db. |
-
-| Egyéb követelmények: | Az új telepítésű szaporító területeit be kell jelenteni és egy alkalommal akkor is ellenőrizni kell, ha azokon a vetés évében magot nem termesztenek. |
-
-[^196]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^202]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
