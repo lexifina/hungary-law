@@ -1,6 +1,6 @@
 9. § (1) A (3) bekezdésben foglaltakra is figyelemmel az időszakos gyógyszerbiztonsági jelentések benyújtásának gyakoriságát a forgalomba hozatali engedély rögzíti. A meghatározott gyakoriságnak megfelelő benyújtási időpontokat az engedély megadásának időpontjától kell számítani.
 
-(2)[^21] A (3)–(4) vagy az (5) bekezdésben foglaltak sérelme nélkül az e rendelet hatálybalépése előtt megadott olyan forgalomba hozatali engedély esetében, amely tekintetében az időszakos gyógyszerbiztonsági jelentés benyújtásának gyakorisága és dátuma nincs a forgalomba hozatali engedély feltételeként előírva, a forgalomba hozatali engedély jogosultja az OGYÉI felhívására azonnal vagy az alábbiak szerint köteles benyújtani az időszakos gyógyszerbiztonsági jelentéseket:
+(2)[^22] A (3)–(4) vagy az (5) bekezdésben foglaltak sérelme nélkül az e rendelet hatálybalépése előtt megadott olyan forgalomba hozatali engedély esetében, amely tekintetében az időszakos gyógyszerbiztonsági jelentés benyújtásának gyakorisága és dátuma nincs a forgalomba hozatali engedély feltételeként előírva, a forgalomba hozatali engedély jogosultja az OGYÉI felhívására azonnal vagy az alábbiak szerint köteles benyújtani az időszakos gyógyszerbiztonsági jelentéseket:
 
 a) amennyiben a gyógyszert még nem hozták forgalomba, az engedély kiállítását követően a forgalomba hozatalig legalább hathavonta;
 
@@ -24,4 +24,4 @@ c) a nemzetközi harmonizáció
 
 (7) Az időszakos gyógyszerbiztonsági jelentéseknek a forgalomba hozatali engedélyben meghatározott benyújtási időpontjában és gyakoriságában a (3) és a (4) bekezdés alkalmazása eredményeként bekövetkező változás az Ügynökség általi közzététel időpontját követő hat hónap elteltével lép hatályba.
 
-[^21]: A 9. § (2) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.
+[^22]: A 9. § (2) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.

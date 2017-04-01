@@ -12,11 +12,11 @@
 
 (6)[^17] Az OGYÉI a gyógyszer helytelen alkalmazásából eredő feltételezett mellékhatásra vonatkozó, tudomására hozott jelentések alapján megteszi a szükséges betegbiztonsági intézkedéseket.
 
-(7) Amennyiben az (5) bekezdés szerinti bejelentés alapján az szükséges, az Országos Tisztifőorvosi Hivatal megteszi a betegbiztonság garantálása érdekében szükséges intézkedéseket.
+(7)[^18] Amennyiben az (5) bekezdés szerinti bejelentés alapján az szükséges, az országos tisztifőorvos megteszi a betegbiztonság garantálása érdekében szükséges intézkedéseket.
 
 (8) A Gytv. 18. § (3) bekezdése alapján tett bejelentést is az Ügynökség által kidolgozott, a 726/2004/EK rendelet 25. cikkében megjelölt internet alapú formanyomtatványokon kell megtenni.
 
-(9)[^18] Az immunológiai gyógyszerek feltételezett mellékhatásairól szóló bejelentéseket, valamint az EudraVigilance adatbázison keresztül érkező tájékoztatásokat az OGYÉI azok beérkezését követő 15 napon belül továbbítja az Országos Epidemiológiai Központnak (a továbbiakban: OEK). Amennyiben az immunológiai gyógyszerekkel kapcsolatos feltételezett mellékhatásokat az OEK-nek jelentik be, arról az OEK a bejelentést követő 15 napon belül az OGYÉI-t tájékoztatja.
+(9)[^19] Az immunológiai gyógyszerek feltételezett mellékhatásairól szóló bejelentéseket, valamint az EudraVigilance adatbázison keresztül érkező tájékoztatásokat az OGYÉI azok beérkezését követő 15 napon belül továbbítja az Országos Közegészségügyi Intézetnek (a továbbiakban: OKI). Amennyiben az immunológiai gyógyszerekkel kapcsolatos feltételezett mellékhatásokat az OKI-nak jelentik be, arról az OKI a bejelentést követő 15 napon belül az OGYÉI-t tájékoztatja.
 
 (10) Az oltóanyagok alkalmazásával kapcsolatos fokozott oltási reakciók, szövődmények, balesetek bejelentéséről külön jogszabály rendelkezik.
 
@@ -25,4 +25,5 @@
 [^15]: A 7. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.
 [^16]: A 7. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § d) pontja szerint módosított szöveg.
 [^17]: A 7. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § d) pontja szerint módosított szöveg.
-[^18]: A 7. § (9) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § b) és f) pontja szerint módosított szöveg.
+[^18]: A 7. § (7) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 85. § a) pontja szerint módosított szöveg.
+[^19]: A 7. § (9) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § b) és f) pontja, az 54/2016. (XII. 30.) EMMI rendelet 85. § b) és c) pontja szerint módosított szöveg.
