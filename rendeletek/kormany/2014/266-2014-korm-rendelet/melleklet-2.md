@@ -40,7 +40,7 @@
 
 | 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 20. | a jogszabályban rögzített egészségügyi hatósági eljárások | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 20. | a jogszabályban rögzített egészségügyi hatósági eljárások | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 21. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -84,10 +84,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | erdővédelem | Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 18. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 18. | egészségügy | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 20. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 87. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 87. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 87. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
