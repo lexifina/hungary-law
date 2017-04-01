@@ -1,4 +1,4 @@
-## I.[^328] A járműkísérő lap tartalmi elemei
+## I.[^339] A járműkísérő lap tartalmi elemei
 
 ## H
 
@@ -134,11 +134,11 @@
 
 ## a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-## II.[^329] A járműkísérő lap kitöltésének szabályai
+## II.[^340] A járműkísérő lap kitöltésének szabályai
 
 ## I. Új jármű forgalomba helyezése előtt;
 
-## a)[^330] A járműimportőr:
+## a)[^341] A járműimportőr:
 
 ## Az importőrnek – a XIII. kerületi Hivatal által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott Megfelelőségi nyilatkozattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
 
@@ -188,6 +188,6 @@
 
 16. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-[^328]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
-[^329]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
-[^330]: A 15. melléklet II. rész I. pont a) alpontja a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés p) pontja szerint módosított szöveg.
+[^339]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
+[^340]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^341]: A 15. melléklet II. rész I. pont a) alpontja a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés p) pontja szerint módosított szöveg.
