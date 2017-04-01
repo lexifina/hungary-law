@@ -4,7 +4,7 @@
 
 a)[^3] a növényvédő szerek és termésnövelő anyagok esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, növény- és talajvédelmi jogkörében,
 
-b)[^4] az ipari vegyi anyagok és készítmények esetében az Országos Közegészségügyi Központot (a továbbiakban: OKK)
+b)[^4] az ipari vegyi anyagok és készítmények esetében az országos tisztifőorvost
 
 ## jelöli ki.
 
@@ -35,7 +35,7 @@ b) a vámáru-nyilatkozat alapján ellenőrzi a kiviteli bejelentés megtételé
 [^1]: Az 1. § a 447/2012. (XII. 29.) Korm. rendelet 74. § a) és b) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés nyitó szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 74. § c) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (1) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 44. §-a szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 134. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés nyitó szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 74. § c) és d) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés a) pontja a 486/2015. (XII. 29.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 134. § a) pontja szerint módosított szöveg.
