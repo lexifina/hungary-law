@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2016-06-14 | 2007-273-20-22.43 | 140/2016. (VI. 13.) Korm. rendelet |
 | 2016-09-29 | 2007-273-20-22.44 | 281/2016. (IX. 21.) Korm. rendelet |
 | 2017-01-01 | 2007-273-20-22.45 | 458/2016. (XII. 23.) Korm. rendelet |
+| 2017-04-01 | 2007-273-20-22.46 | 458/2016. (XII. 23.) Korm. rendelet |

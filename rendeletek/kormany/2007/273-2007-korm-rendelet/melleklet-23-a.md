@@ -218,7 +218,7 @@
 
 ## 15.4. tercier oldali névleges feszültség (kV).
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^490]
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^491]
 
 Kérelem szociálisan rászoruló személyként a védendő fogyasztók nyilvántartásába
 
@@ -326,8 +326,4 @@ A fogyasztó1 / a vele közös háztartásban élő személy1
 
 a)1 a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
-b)1 a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
-
-c)1 a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban vagy a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
-
-[^490]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^491]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.

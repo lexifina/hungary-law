@@ -1,8 +1,8 @@
 ## (A VET 90/B. §-ához)
 
-## Elektromos gépjármű töltésére vonatkozó engedély[^276]
+## Elektromos gépjármű töltésére vonatkozó engedély[^277]
 
-81/A. §[^277] (1) Az elektromos gépjármű töltésére vonatkozó engedély iránti kérelemhez mellékelni kell a 27. számú mellékletben előírtakat.
+81/A. §[^278] (1) Az elektromos gépjármű töltésére vonatkozó engedély iránti kérelemhez mellékelni kell a 27. számú mellékletben előírtakat.
 
 (2) A Hivatal a kérelem elbírálása során vizsgálja a töltőállomás szabványoknak való megfelelését, valamint – figyelembe véve a földrajzi elhelyezkedését és a már telepített töltőállomásokat – a hálózatfejlesztésre gyakorolt esetleges hosszú távú hatásait.
 
@@ -14,5 +14,5 @@
 
 (6) A 27. számú melléklet szerint benyújtandó adatokat elektronikusan, szerkeszthető módon, táblázatos formában is meg kell küldeni a Hivatal részére.
 
-[^276]: A Vhr. 81/A. §-át megelőző alcímet a 281/2016. (IX. 21.) Korm. rendelet 4. §-a iktatta be.
-[^277]: A Vhr. 81/A. §-át a 281/2016. (IX. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 458/2016. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^277]: A Vhr. 81/A. §-át megelőző alcímet a 281/2016. (IX. 21.) Korm. rendelet 4. §-a iktatta be.
+[^278]: A Vhr. 81/A. §-át a 281/2016. (IX. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 458/2016. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.

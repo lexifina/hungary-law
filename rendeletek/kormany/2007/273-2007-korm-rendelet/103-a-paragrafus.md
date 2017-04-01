@@ -1,3 +1,3 @@
-103/A. §[^334] A számviteli szétválasztásra vonatkozó részletes szabályokat a 20. számú melléklet tartalmazza.
+103/A. §[^335] A számviteli szétválasztásra vonatkozó részletes szabályokat a 20. számú melléklet tartalmazza.
 
-[^334]: A Vhr. 103/A. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^335]: A Vhr. 103/A. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.

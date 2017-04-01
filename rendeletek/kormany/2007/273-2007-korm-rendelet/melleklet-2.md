@@ -42,15 +42,15 @@
 
 ## 4.1. A villamos energia árváltozása esetén, amennyiben az árváltozás időpontjára a fogyasztásmérő-berendezés leolvasása vagy adatrögzítés nem történik, az egyetemes szolgáltatásért fizetendő árat az egyetemes szolgáltató kezdeményezésére történt felhasználói adatközlés, vagy ennek hiányában a felhasználás időarányos megosztásával kell megállapítani és számlázni.
 
-## 4.2.[^403] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
+## 4.2.[^404] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
 
 ## 4.3. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát, a villamosenergia-vásárlási szerződés – és amennyiben a hálózathasználati szerződést megbízottként kezeli, a hálózathasználati szerződés – megszűnése esetén a szerződés megszűnésének napjára végszámlát kibocsátani, és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, amely magában foglalja a tételes pénzügyi elszámolást is.
 
 ## 4.4. Ha az elszámolás eredményeként a felhasználó folyószámláján túlfizetés mutatkozik, a felhasználó eltérő kérésének hiányában, az egyetemes szolgáltató
 
-## a)[^404] 3000 forintot meg nem haladó összeg esetében a felhasználót megillető összeget a felhasználó vagy a fizető következő számlájában számolja el,
+## a)[^405] 3000 forintot meg nem haladó összeg esetében a felhasználót megillető összeget a felhasználó vagy a fizető következő számlájában számolja el,
 
-## b)[^405] 3000 forintot meghaladó összeg esetében a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak vagy a fizetőnek visszafizetni.
+## b)[^406] 3000 forintot meghaladó összeg esetében a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak vagy a fizetőnek visszafizetni.
 
 ## 4.5. A villamosenergia-vásárlási szerződés megszűnésekor keletkező visszautalandó összeget az egyetemes szolgáltató köteles 8 napon belül visszafizetni a felhasználónak vagy a fizetőnek.
 
@@ -94,9 +94,9 @@
 
 ## b) az egyetemes szolgáltató üzletszabályzatában vagy a villamosenergia-vásárlási szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^406]
+2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^407]
 
-[^403]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^404]: A Vhr. 1. számú melléklet 4.4. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^405]: A Vhr. 1. számú melléklet 4.4. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^406]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^404]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^405]: A Vhr. 1. számú melléklet 4.4. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^406]: A Vhr. 1. számú melléklet 4.4. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^407]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
