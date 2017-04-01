@@ -54,10 +54,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 10. | műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatal | Budapest Főváros Kormányhivatala |
 
-| 11. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 11. | egészségügy | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
 | 12. | örökségvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
 | 13. | régészet | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 69. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
