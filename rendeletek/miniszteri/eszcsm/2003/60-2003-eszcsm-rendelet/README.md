@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-60-20-0
 | 2016-03-31 | 2003-60-20-0M.34 | 7/2016. (III. 30.) EMMI rendelet |
 | 2017-01-01 | 2003-60-20-0M.35 | 73/2013. (XII. 2.) EMMI rendelet |
 | 2017-01-05 | 2003-60-20-0M.36 | 73/2013. (XII. 2.) EMMI rendelet |
+| 2017-04-01 | 2003-60-20-0M.37 | 29/2010. (XII. 30.) NEFMI rendelet |
