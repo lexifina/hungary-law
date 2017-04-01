@@ -58,7 +58,7 @@ Az 1. § (1) bekezdés b) pontja szerinti kiemelt jelentőségű ügyekben eljá
 
 | 11. | Talajvédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 12. | Egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 12. | Egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 13. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -72,4 +72,4 @@ Az 1. § (1) bekezdés b) pontja szerinti kiemelt jelentőségű ügyekben eljá
 
 | 18. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^25]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 380/2016. (XII. 2.) Korm. rendelet 63. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^25]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 380/2016. (XII. 2.) Korm. rendelet 63. § (1) bekezdés b) pontjával megállapított, ez utóbbi módosító rendelet 63. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
