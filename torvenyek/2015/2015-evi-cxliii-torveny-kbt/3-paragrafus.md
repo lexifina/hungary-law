@@ -112,7 +112,7 @@ b) az a) pontban nem szereplő postai küldeményekhez, különösen címzés n�
 
 37. szakmai ajánlat: a beszerzés tárgyára, valamint a műszaki leírásban és a szerződéses feltételekben foglalt ajánlatkérői előírásokra tett ajánlat;
 
-38. szociális foglalkoztatási engedéllyel rendelkező szervezet: a szociális igazgatásról és a szociális ellátásokról szóló törvényben kapott felhatalmazás alapján készült, a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait tartalmazó kormányrendelet szerinti szociális foglalkoztatási engedéllyel rendelkező szervezet;
+38. fejlesztő foglalkoztató: a szociális igazgatásról és a szociális ellátásokról szóló törvény 99/D. § (1) bekezdése szerinti szervezet;
 
 39. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt, a kezességvállalást, és az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott célra nyújtott támogatását, valamint az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott kedvezményezett célra történő felajánlását;
 

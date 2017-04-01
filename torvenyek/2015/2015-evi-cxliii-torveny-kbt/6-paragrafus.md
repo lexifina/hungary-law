@@ -25,3 +25,5 @@ a) vízépítési projekttel, öntözéssel vagy vízrendezéssel (vízelvezeté
 b) szennyvízelvezetéssel vagy -kezeléssel függ össze.
 
 (3) Az (1) bekezdés c) pontja szerinti közlekedési szolgáltatások alkalmazásában hálózatnak minősül, ha a szolgáltatást az illetékes hatóság által meghatározott üzemeltetési – különösen a szolgáltatási útvonalakra, a rendelkezésre bocsátandó közlekedési kapacitásra vagy a szolgáltatás gyakoriságára vonatkozó – feltételek alapján nyújtják.
+
+(4) Az (1) bekezdés a) és b) pontja alkalmazásában az ellátás alatt a nagykereskedelmi és a kiskereskedelmi értékesítést is érteni kell.

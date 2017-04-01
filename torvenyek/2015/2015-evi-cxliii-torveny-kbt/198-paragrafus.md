@@ -34,7 +34,7 @@
 
 16. a Közbeszerzési Hatóság által a szerződések teljesítése és módosítása ellenőrzésére lefolytatható hatósági ellenőrzés részletes szabályait, az ajánlatkérők és gazdasági szereplők ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Közbeszerzési Hatóság az eljárás és a szerződés teljesítéséhez, módosításához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti;
 
-17. a védett munkahelyek, továbbá a szociális foglalkoztatási engedéllyel rendelkező vagy hátrányos helyzetű munkavállalókat foglalkoztató szervezetek részére fenntartott közbeszerzések kötelező eseteit;
+17. a védett munkahelyek, a fejlesztő foglalkoztatók, és a hátrányos helyzetű munkavállalókat foglalkoztató szervezetek részére fenntartott közbeszerzések kötelező eseteit;
 
 18. a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes szabályokat;
 
