@@ -1,3 +1,7 @@
-## 59–60. §[^29]
+## 60. § Az Nyr. 7. § (2) bekezdése a következő i) ponttal egészül ki:
 
-[^29]: Az 59–60. § a 64. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+## (Az időszakos jelentési kötelezettséget)
+
+## „i) fejlesztő foglalkoztatás”
+
+## (esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.)
