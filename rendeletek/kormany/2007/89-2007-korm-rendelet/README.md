@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-89-20-2
 | 2015-04-01 | 2007-89-20-22.16 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-09-01 | 2007-89-20-22.17 | 72/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2007-89-20-22.18 | 380/2016. (XII. 2.) Korm. rendelet |
+| 2017-04-01 | 2007-89-20-22.19 | 380/2016. (XII. 2.) Korm. rendelet |
