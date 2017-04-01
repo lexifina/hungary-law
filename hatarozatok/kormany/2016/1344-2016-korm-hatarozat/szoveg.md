@@ -1,4 +1,4 @@
-1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (1) bekezdésében meghatározott feladatkörében eljárva a Magyar Államkincstár szervezeti átalakításával összefüggő feladatok ellátására – 2016. július 1. napjától 2017. március 31. napjáig – prof. dr. Mészáros Józsefet kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
+1.[^1] A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (1) bekezdésében meghatározott feladatkörében eljárva a Magyar Államkincstár szervezeti átalakításával összefüggő feladatok ellátására – 2016. július 1. napjától 2017. november 1. napjáig – prof. dr. Mészáros Józsefet kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
 
 2. A kormánybiztos az 1. pont szerinti feladatkörében
 
@@ -16,8 +16,11 @@ e) előzetesen véleményezi a Magyar Államkincstár szervezetét, feladatát �
 
 4. A kormánybiztos tevékenységét a Nemzetgazdasági Minisztérium szervezetében működő titkárság segíti.
 
-5. A kormánybiztos a feladatkörének ellátásához szükséges mértékben a Magyar Államkincstár, az Országos Nyugdíjbiztosítási Főigazgatóság és az Országos Egészségbiztosítási Pénztár vezetőitől tájékoztatást kérhet, részükre feladatokat határozhat meg.
+5.[^2] A kormánybiztos a feladatkörének ellátásához szükséges mértékben a Magyar Államkincstár, az Országos Nyugdíjbiztosítási Főigazgatóság és a Nemzeti Egészségbiztosítási Alapkezelő vezetőitől tájékoztatást kérhet, részükre feladatokat határozhat meg.
 
 6. A Kormány felhívja az irányítása alatt álló szerveket, intézményeket, hogy a kormánybiztos feladatának ellátásához szükséges adatokat, információkat bocsássák a kormánybiztos rendelkezésére.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont az 1165/2017. (III. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1165/2017. (III. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
