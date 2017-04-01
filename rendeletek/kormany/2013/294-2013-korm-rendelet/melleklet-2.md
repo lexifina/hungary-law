@@ -70,7 +70,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | erdővédelem | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 13. | egészségügy | illetékes fővárosi kerületi hivatal | Országos Tisztifőorvosi Hivatal |
+| 13. | egészségügy | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala |
 
 | 14. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -86,4 +86,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | helyi környezet- és természetvédelem | Budapest Főváros II. Kerületi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 51. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 51. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 51. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
