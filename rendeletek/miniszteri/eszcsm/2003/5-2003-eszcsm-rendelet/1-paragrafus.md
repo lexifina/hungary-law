@@ -4,12 +4,12 @@
 
 (2)[^3] A betegség vagy fogyatékosság fennállásáról, illetve annak hiányáról szóló igazolást – a 2. melléklet szerinti rendben – gyermekklinika, gyermekszakkórház, kórházi gyermekosztály, szakambulancia, szakrendelés vagy szakgondozó szakorvosa (a továbbiakban együtt: szakorvos) adja ki.
 
-(3)[^4] A (2) bekezdés alapján igazolás kiállítására jogosult szakorvosokat foglalkoztató szolgáltatók listáját az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: OTH) a honlapján tájékoztatás céljából közzéteszi.
+(3)[^4] A (2) bekezdés alapján igazolás kiállítására jogosult szakorvosokat foglalkoztató szolgáltatók listáját a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a honlapján tájékoztatás céljából közzéteszi.
 
 (4)[^5] A gyermek kezelése során az alapellátás illetékes orvosa, illetve a gyermeket ellátó szakorvos felhívja a figyelmet a magasabb összegű családi pótlék igénylésének lehetőségére.
 
 [^1]: Az 1. § (1) bekezdése a 3/2013. (I. 7.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1a) bekezdését a 3/2013. (I. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^3]: Az 1. § (2) bekezdése a 68/2013. (XI. 15.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^4]: Az 1. § új (3) bekezdését a 7/2004. (II. 13.) ESZCSM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. Az 1. § (3) bekezdése a 68/2013. (XI. 15.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^4]: Az 1. § új (3) bekezdését a 7/2004. (II. 13.) ESZCSM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. Az 1. § (3) bekezdése a 68/2013. (XI. 15.) EMMI rendelet 9. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 28. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § eredeti (3) bekezdésének számozását a 7/2004. (II. 13.) ESZCSM rendelet 1. §-a (4) bekezdésre változtatta.
