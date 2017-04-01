@@ -2,7 +2,6 @@
 
 1. § (1)[^1]
 
-(2)[^2]
+(2) Az R1. 2. számú mellékletben foglalt táblázat C:16 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe az „illetékes fővárosi és megyei kormányhivatal” szöveg lép.
 
 [^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.

@@ -2,9 +2,8 @@
 
 ## 166/2012. (VII. 19.) Korm. rendelet módosítása
 
-28. § (1)[^53]
+28. § (1)[^28]
 
-(2)[^54]
+(2) Az R27. 2. mellékletben foglalt táblázat C:13 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Hajdú-Bihar Megyei Kormányhivatal” szöveg lép.
 
-[^53]: A 28. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: A 28. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^28]: A 28. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

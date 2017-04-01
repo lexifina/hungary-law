@@ -2,9 +2,8 @@
 
 ## 248/2008. (X. 14.) Korm. rendelet módosítása
 
-8. § (1)[^13]
+8. § (1)[^8]
 
-(2)[^14]
+(2) Az R7. 2. számú mellékletben foglalt táblázat C:19 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Somogy Megyei Kormányhivatal” szöveg lép.
 
-[^13]: A 8. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 8. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^8]: A 8. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

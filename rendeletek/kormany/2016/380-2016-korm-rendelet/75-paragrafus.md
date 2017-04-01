@@ -2,9 +2,8 @@
 
 ## 151/2014. (V. 6.) Korm. rendelet módosítása
 
-75. § (1)[^128]
+75. § (1)[^75]
 
-(2)[^129]
+(2) Az R57. 2. mellékletben foglalt táblázat C:12 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg lép.
 
-[^128]: A 75. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^129]: A 75. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^75]: A 75. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

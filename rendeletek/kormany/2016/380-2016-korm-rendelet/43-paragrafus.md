@@ -2,9 +2,8 @@
 
 ## 7. § (5) bekezdés a) pontja szerinti minősítéséről, valamint egyes kormányrendeleteknek az építésügyi és az építésfelügyeleti bírságokkal összefüggő módosításáról szóló 149/2013. (V. 16.) Korm. rendelet módosítása
 
-43. § (1)[^78]
+43. § (1)[^43]
 
-(2)[^79]
+(2) Az R37. 2. mellékletben foglalt táblázat C:8 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg lép.
 
-[^78]: A 43. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^79]: A 43. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^43]: A 43. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,9 +2,8 @@
 
 ## 395/2014. (XII. 31.) Korm. rendelet módosítása
 
-94. § (1)[^160]
+94. § (1)[^94]
 
-(2)[^161]
+(2) Az R70. 2. mellékletben foglalt táblázat C:10 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg lép.
 
-[^160]: A 94. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^161]: A 94. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^94]: A 94. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

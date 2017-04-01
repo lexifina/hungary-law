@@ -2,9 +2,8 @@
 
 ## 565/2013. (XII. 31.) Korm. rendelet módosítása
 
-64. § (1)[^111]
+64. § (1)[^64]
 
-(2)[^112]
+(2) Az R51. 2. mellékletben foglalt táblázat C:9 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg lép.
 
-[^111]: A 64. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^112]: A 64. § (2) bekezdése a 118. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^64]: A 64. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
