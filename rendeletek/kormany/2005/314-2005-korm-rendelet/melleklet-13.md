@@ -8,7 +8,7 @@
 
 | Annak elbírálása, hogy a tevékenység kapcsán a felszíni és felszín alatti vizek minősége és mennyisége védelmére jogszabályban, illetve határozatban meghatározott előírások érvényesíthetők-e |  | Katasztrófavédelmi Igazgatóság (vízvédelmi hatáskörében eljárva) |
 
-| 3. |  | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg |  | Természetes gyógytényezők, gyógyhelyek természeti adottságainak és az emberi használatra szolgáló felszíni vizek védelmére, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően |  | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal |
+| 3. |  | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg |  | Természetes gyógytényezők, gyógyhelyek természeti adottságainak és az emberi használatra szolgáló felszíni vizek védelmére, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően |  | népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala |
 
 | 4. |  | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme a hatáskörébe tartozik, azt érinti, vagy olyan környezet-veszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja |  | Kulturális örökség (nyilvántartott műemléki értékek, műemlékek, műemléki területek védelme, nyilvántartott vagy védetté nyilvánított régészeti lelőhelyek, régészeti védőövezetek) védelmére kiterjedően |  | kulturális örökségvédelmi hatás-körében eljáró, Budapest Főváros Kormányhivatala, kizárási feltétel fennállása esetén a kulturális örökség védelméért felelős miniszter |
 
