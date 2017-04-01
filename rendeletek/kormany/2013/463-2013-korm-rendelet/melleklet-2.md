@@ -60,8 +60,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | műszaki biztonság | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 14. | egészségügy | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
 | 15. | régészet és örökségvédelem | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 58. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 58. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 58. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
