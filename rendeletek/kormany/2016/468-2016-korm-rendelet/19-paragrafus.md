@@ -1,3 +1,3 @@
-## 18. §[^16]
+## 18. § A KR. 75. §-a a következő (4a) bekezdéssel egészül ki:
 
-[^16]: A 18. § a 33. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+## „(4a) Az elveszett, eltulajdonított, megsemmisült, 60. § (2) bekezdés h) pontjában meghatározott különleges rendszámtábla utángyártása korlátozás nélkül engedélyezhető.”

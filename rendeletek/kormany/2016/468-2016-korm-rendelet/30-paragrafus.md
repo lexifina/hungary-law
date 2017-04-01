@@ -1,18 +1,15 @@
-## 29. §[^18]
+## 29. §[^10]
 
-30. § (1)[^19]
+30. § (1) A KR. 11. melléklete az 1. melléklet szerint módosul.
 
-(2)[^20]
+(2)[^11]
 
-(3)[^21]
+(3) A KR. 13. melléklete a 3. melléklet szerint módosul.
 
-(4)[^22]
+(4)[^12]
 
-(5)[^23]
+(5) A KR. 19. melléklete az 5. melléklet szerint módosul.
 
-[^18]: A 29. § a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
-[^19]: A 30. § (1) bekezdése a 33. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^20]: A 30. § (2) bekezdése a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
-[^21]: A 30. § (3) bekezdése a 33. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^22]: A 30. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 30. § (5) bekezdése a 33. § (2) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^10]: A 29. § a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
+[^11]: A 30. § (2) bekezdése a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
+[^12]: A 30. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
