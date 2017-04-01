@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-45-20-0
 | 2012-07-01 | 2006-45-20-0B.4 | 8/2012. (VI. 29.) EMMI rendelet |
 | 2013-11-16 | 2006-45-20-0B.5 | 68/2013. (XI. 15.) EMMI rendelet |
 | 2014-02-25 | 2006-45-20-0B.6 | 11/2014. (II. 24.) EMMI rendelet |
+| 2017-04-01 | 2006-45-20-0B.7 | 54/2016. (XII. 30.) EMMI rendelet |
