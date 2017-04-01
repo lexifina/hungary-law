@@ -74,6 +74,6 @@
 
 ## aláírás
 
-5. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^21]
+5. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^24]
 
-[^21]: Az 5. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 51. § (7) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 71. § f) pontja szerint módosított szöveg.
+[^24]: Az 5. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 51. § (7) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 71. § f) pontja szerint módosított szöveg.
