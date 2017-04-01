@@ -1,4 +1,4 @@
-## 21/A. [^57] A regionális beruházási támogatás
+## 21/A. [^60] A regionális beruházási támogatás
 
 42/A. § (1) A regionális beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás
 
@@ -30,4 +30,4 @@ c) létesítmény felvásárlása esetén a felvásárlás időpontja,
 
 d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont
 
-[^57]: A 21/A. alcímet (42/A–42/G. §) a 39/2016. (IX. 20.) NFM rendelet 7. §-a iktatta be.
+[^60]: A 21/A. alcímet (42/A–42/G. §) a 39/2016. (IX. 20.) NFM rendelet 7. §-a iktatta be.

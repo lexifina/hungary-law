@@ -1,4 +1,4 @@
-## 22. [^61] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
+## 22. [^64] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
 43. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
 
@@ -16,4 +16,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^61]: A 22. alcím (43–43/D. §) a 39/2016. (IX. 20.) NFM rendelet 8. §-ával megállapított szöveg.
+[^64]: A 22. alcím (43–43/D. §) a 39/2016. (IX. 20.) NFM rendelet 8. §-ával megállapított szöveg.

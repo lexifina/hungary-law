@@ -1,4 +1,4 @@
-## 21/B. [^58] A képzési támogatás
+## 21/B. [^61] A képzési támogatás
 
 42/H. § (1) A képzési támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
@@ -26,4 +26,4 @@ e) a képzésben résztvevő megváltozott munkaképességű munkavállalók min
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
 
-[^58]: A 21/B. alcímet (42/H. §) a 39/2016. (IX. 20.) NFM rendelet 7. §-a iktatta be.
+[^61]: A 21/B. alcímet (42/H. §) a 39/2016. (IX. 20.) NFM rendelet 7. §-a iktatta be.

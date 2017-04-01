@@ -1,4 +1,4 @@
-## 26. [^65] Mezőgazdasági termékkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás
+## 26. [^68] Mezőgazdasági termékkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás
 
 43/H. § (1) A mezőgazdasági termékkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) célja olyan promóciós tevékenység támogatása, amely a nyilvánosságnak a mezőgazdasági termékek jellemzőiről történő tájékoztatására, vagy a gazdasági szereplőknek illetve fogyasztóknak a szóban forgó mezőgazdasági termék megvásárlásának ösztönzésére irányul.
 
@@ -52,4 +52,4 @@ a) a promóciós tevékenység az Európai Unió által elismert elnevezésre ö
 
 b) a tevékenység az Európai Unió által elismert elnevezéseken alapuló minőségrendszertől eltérő minőségrendszer hatálya alá tartozó termékre feltéve, hogy az az üzenetben másodlagos, vagy annak fogyasztására való ösztönzésre irányul.
 
-[^65]: A 26. alcímet (43/H. §) a 39/2016. (IX. 20.) NFM rendelet 9. §-a iktatta be.
+[^68]: A 26. alcímet (43/H. §) a 39/2016. (IX. 20.) NFM rendelet 9. §-a iktatta be.

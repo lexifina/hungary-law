@@ -1,4 +1,4 @@
-## 6. §[^49]
+## 6. §[^52]
 
 ## 7. § Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
@@ -30,26 +30,26 @@ g) energetikai célú infrastruktúrához nyújtott beruházási támogatás ese
 
 h) sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén meghaladja a 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja az 50 millió eurónak megfelelő forintösszeget, valamint sportlétesítményhez nyújtott működési támogatás esetén infrastruktúránként és évenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
-i)[^50] regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
+i)[^53] regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
 
-j)[^51] regionális beruházási támogatás esetén, ha a kérelmet benyújtó beruházó, vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó a támogatási kérelem benyújtását megelőző két évben a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor tervezi, hogy a támogatási kérelem benyújtásától a beruházás befejezésétől számított második év végéig a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntet meg az EGT,
+j)[^54] regionális beruházási támogatás esetén, ha a kérelmet benyújtó beruházó, vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó a támogatási kérelem benyújtását megelőző két évben a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor tervezi, hogy a támogatási kérelem benyújtásától a beruházás befejezésétől számított második év végéig a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntet meg az EGT,
 
-k)[^52] a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+k)[^55] a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
-l)[^53] a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás esetén vállalkozásonként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+l)[^56] a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás esetén vállalkozásonként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
-m)[^54] képzési támogatás esetén képzési projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+m)[^57] képzési támogatás esetén képzési projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
-n)[^55] a kultúrát és a kulturális örökség megőrzését előmozdító
+n)[^58] a kultúrát és a kulturális örökség megőrzését előmozdító
 
 i. beruházási támogatás esetében meghaladja a projektenként 100 millió eurónak megfelelő forintösszeget;
 
 ii. működési támogatás esetében meghaladja a vállalkozásonként évente 50 millió eurónak megfelelő forintösszeget.
 
-[^49]: A 6. §-t a 39/2016. (IX. 20.) NFM rendelet 12. § b) pontja hatályon kívül helyezte.
-[^50]: A 7. § i) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
-[^51]: A 7. § j) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
-[^52]: A 7. § k) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
-[^53]: A 7. § l) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
-[^54]: A 7. § m) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
-[^55]: A 7. § n) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^52]: A 6. §-t a 39/2016. (IX. 20.) NFM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^53]: A 7. § i) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^54]: A 7. § j) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^55]: A 7. § k) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^56]: A 7. § l) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^57]: A 7. § m) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^58]: A 7. § n) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.

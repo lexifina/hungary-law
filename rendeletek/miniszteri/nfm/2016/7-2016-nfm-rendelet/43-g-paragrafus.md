@@ -1,4 +1,4 @@
-## 25. [^64] A tanácsadási szolgáltatásokhoz nyújtott támogatás
+## 25. [^67] A tanácsadási szolgáltatásokhoz nyújtott támogatás
 
 43/G. § (1) A tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) alapján a kedvezményezettek tanácsadási szolgáltatásokat vehetnek igénybe beruházásuk gazdasági és környezeti teljesítményének javítása, valamint éghajlatkímélőbbé és az éghajlatváltozással szemben ellenállóbbá tétele érdekében.
 
@@ -30,4 +30,4 @@ b) a mezőgazdasági üzem gazdasági és környezeti teljesítményével, a ver
 
 (6) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi támogatható vállalkozás számára hozzáférhetőnek kell lennie.
 
-[^64]: A 25. alcímet (43/G. §) a 39/2016. (IX. 20.) NFM rendelet 9. §-a iktatta be.
+[^67]: A 25. alcímet (43/G. §) a 39/2016. (IX. 20.) NFM rendelet 9. §-a iktatta be.
