@@ -30,7 +30,7 @@ ag) az elvégzett munkatételeket tartalmazó számlaösszesítő,
 
 ah) a település, településrész térképe helyrajzi számmal és a vis maior eseménnyel érintett helyszín feltüntetésével,
 
-ai)[^58] katasztrófavédelmi szúnyoggyérítés esetében a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által – az Országos Tisztifőorvosi Hivatal engedélye alapján – kiállított jóváhagyó dokumentum a szúnyoggyérítés engedélyezéséről,
+ai)[^58] katasztrófavédelmi szúnyoggyérítés esetében a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított jóváhagyó dokumentum a szúnyoggyérítés engedélyezéséről,
 
 b)[^59] a károsodás tárgyához igazodó, a Magyar Mérnöki Kamara, a Magyar Építész Kamara szakértői névjegyzékében szereplő műszaki szakértő, vagy az igazságügyi szakértői névjegyzékben aktív tagként szerepelő műszaki szakértő által készített nyilatkozat, amely tartalmazza
 
@@ -121,7 +121,7 @@ c) a temető használatának rendjéről szóló önkormányzati rendelet másol
 [^55]: A 4. § (3) bekezdés a) pont ac) alpontja a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés c) pont cb) alpontja szerint módosított szöveg.
 [^56]: A 4. § (3) bekezdés a) pont ad) alpontja a 129/2014. (IV. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés c) pont cb) alpontja szerint módosított szöveg.
 [^57]: A 4. § (3) bekezdés a) pont ae) alpontja a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés c) pont cb) alpontja szerint módosított szöveg.
-[^58]: A 4. § (3) bekezdés a) pont ai) alpontja a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^58]: A 4. § (3) bekezdés a) pont ai) alpontja a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^59]: A 4. § (3) bekezdés b) pont nyitó szövegrésze a 92/2013. (III. 28.) Korm. rendelet 11. § 21. pontja, a 221/2014. (IX. 4.) Korm. rendelet 538. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^60]: A 4. § (3) bekezdés b) pont bb) alpontja a 383/2015. (XII. 8.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
 [^61]: A 4. § (3) bekezdés b) pont bc) alpontja a 383/2015. (XII. 8.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.

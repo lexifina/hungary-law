@@ -30,7 +30,7 @@
 
 14.[^13] igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmény: önkormányzati, államigazgatási feladat ellátását végző intézmény, különösen a polgármesteri hivatal, fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
 
-15.[^14] katasztrófavédelmi szúnyoggyérítés: a Kormány által kihirdetett veszélyhelyzet időszakában ár- és belvíz által sújtott területet érintő védekezéshez kapcsolódó, a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által – az Országos Tisztifőorvosi Hivatal engedélye alapján – jóváhagyott, légi úton, belterületen az adott költségvetési évben végzett szúnyoggyérítés.
+15.[^14] katasztrófavédelmi szúnyoggyérítés: a Kormány által kihirdetett veszélyhelyzet időszakában ár- és belvíz által sújtott területet érintő védekezéshez kapcsolódó, a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által jóváhagyott, légi úton, belterületen az adott költségvetési évben végzett szúnyoggyérítés.
 
 16.[^15] építmény: a helyi önkormányzat tulajdonában lévő, kötelező önkormányzati feladatok ellátását szolgáló vagy helyi önkormányzat által törvény alapján kötelezően működtetett út, híd, komp- és révátkelőhely, ár- és belvízvédelmi vízi létesítmény, közmű és annak műtárgyai, pince, amennyiben megfelel az Étv. 2. § 8. pontjában meghatározottaknak.
 
@@ -42,5 +42,5 @@
 [^11]: A 2. § 11. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 129/2014. (IV. 10.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^12]: A 2. § 12. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 383/2015. (XII. 8.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^13]: A 2. § 14. pontja a 174/2012. (VII. 26.) Korm. rendelet 82. §-a, a 92/2013. (III. 28.) Korm. rendelet 11. § 6. pontja szerint módosított szöveg.
-[^14]: A 2. § 15. pontját a 92/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 2. § 15. pontját a 92/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^15]: A 2. § 16. pontját a 383/2015. (XII. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
