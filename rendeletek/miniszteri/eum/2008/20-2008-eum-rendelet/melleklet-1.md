@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 20/2008. (V. 14.) EüM rendelethez[^32]
+1. melléklet a 20/2008. (V. 14.) EüM rendelethez[^33]
 
 ## Az előállító utasításai szerint elkészített anyatej-helyettesítő tápszerek alapvető összetétele
 
@@ -276,5 +276,5 @@ A következő nukleotidokat lehet hozzáadni:
 
 (1) A nukleotidok együttes koncentrációja nem haladja meg az 1,2 mg/100 kJ-t (5 mg/100 kcal-t).
 
-[^32]: Az 1. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) pontja, a 22/2014. (III. 20.) EMMI rendelet 4. § b)–e) pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) pontja, a 22/2014. (III. 20.) EMMI rendelet 4. § b)–e) pontja szerint módosított szöveg.
 [^*]: Természetes állapotban gluténmentes.

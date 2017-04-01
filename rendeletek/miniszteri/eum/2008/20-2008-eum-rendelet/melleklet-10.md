@@ -14,6 +14,6 @@
 
 | Propineb/propilén-tio-karbamid (propineb és propilén-tio-karbamid összege) | 0,006 |
 
-10. melléklet a 20/2008. (V. 14.) EüM rendelethez[^36]
+10. melléklet a 20/2008. (V. 14.) EüM rendelethez[^37]
 
-[^36]: A 10. mellékletet a 19. § (4) bekezdése hatályon kívül helyezte.
+[^37]: A 10. mellékletet a 19. § (4) bekezdése hatályon kívül helyezte.
