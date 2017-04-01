@@ -534,7 +534,7 @@
 
 ## – a lakosság minősített időszaki (itt rendkívüli állapoti) egészségügyi ellátásának szükségletét;
 
-## A felülről lefelé irányuló tervezés keretében az egészségügyért felelős miniszter által a ,,Tervezési munkaprogram''-ban megadott határidőre megküldött tervezési irányszámok alapján – a fővárosi, megyei Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) bevonásával – kialakítják a lakosság minősített időszaki egészségügyi ellátásának igényeit. A tervezési irányszámoknak tartalmazni kell a fővárosi, megyei kórházakra vonatkozó (gyógyszer, kötszer, kórházi ágy stb.) minősített időszaki tervelőirányzatokat.
+## A felülről lefelé irányuló tervezés keretében az egészségügyért felelős miniszter által a ,,Tervezési munkaprogram''-ban megadott határidőre megküldött tervezési irányszámok alapján kialakítják a lakosság minősített időszaki egészségügyi ellátásának igényeit. A tervezési irányszámoknak tartalmazni kell a fővárosi, megyei kórházakra vonatkozó (gyógyszer, kötszer, kórházi ágy stb.) minősített időszaki tervelőirányzatokat.
 
 ## A védelmi bizottságok a lakosság minősített időszaki egészségügyi ellátásának igényeit a 4. és 6. számú táblázat megfelelő oszlopainak kitöltésével az egészségügyért felelős miniszter részére küldik meg.
 
@@ -1435,7 +1435,7 @@
 [^87]: Az 1. számú melléklet VII. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a) és j) pontja szerint módosított szöveg.
 [^88]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VII. (A TERVEZÉSI SEGÉDLETEK KITÖLTÉSE) 2. pontja (Az ágazati minisztériumok) negyedik francia bekezdésének második szövegbekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (4) bekezdésével megállapított szöveg.
 [^89]: A 7. számú táblázat értelmezéséhez szükséges magyarázatok című táblázat alatti szövegrész a 273/2010. (XII. 9.) Korm. rendelet 99. § (10) bekezdése szerint módosított szöveg.
-[^90]: Az 1. számú melléklet VII. fejezete 3. pontjának 3.1. alpontja a 97/2008. (IV. 29.) Korm. rendelet 4. § 164. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e), n) és o) pontja szerint módosított szöveg.
+[^90]: Az 1. számú melléklet VII. fejezete 3. pontjának 3.1. alpontja a 97/2008. (IV. 29.) Korm. rendelet 4. § 164. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e), n) és o) pontja, a 379/2016. (XII. 2.) Korm. rendelet 57. §-a szerint módosított szöveg.
 [^91]: Az 1. számú melléklet VIII. fejezete a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés p) pontja és 252. § d) pontja szerint módosított szöveg.
 [^92]: Az 1. számú melléklet VIII. fejezetének a) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés p) pontja szerint módosított szöveg.
 [^93]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VIII. (AZ IGÉNYEK VISSZAIGAZOLÁSA) c) pontja a 335/2004. (XII. 15.) Korm. rendelet 12. § (4) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.

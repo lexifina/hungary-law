@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-131-20-
 | 2014-09-05 | 2003-131-20-22.13 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2016-01-01 | 2003-131-20-22.14 | 336/2015. (XI. 10.) Korm. rendelet |
 | 2016-09-01 | 2003-131-20-22.15 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2017-04-01 | 2003-131-20-22.16 | 97/2008. (IV. 29.) Korm. rendelet |
