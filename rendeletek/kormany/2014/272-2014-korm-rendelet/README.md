@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2017-03-05 | 2014-272-20-22.33 | 339/2014. (XII. 19.) Korm. rendelet |
 | 2017-03-21 | 2014-272-20-22.34 | 98/2016. (V. 13.) Korm. rendelet |
 | 2017-03-24 | 2014-272-20-22.35 | 67/2017. (III. 23.) Korm. rendelet |
+| 2017-04-01 | 2014-272-20-22.36 | 347/2015. (XI. 20.) Korm. rendelet |
