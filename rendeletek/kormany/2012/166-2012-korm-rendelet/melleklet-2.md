@@ -28,4 +28,4 @@
 
 2. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^6]
 
-[^6]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 28. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^6]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 28. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

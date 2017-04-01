@@ -26,7 +26,7 @@
 
 | 12. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 13. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 13. | egészségügy | illetékes járási hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 14. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
