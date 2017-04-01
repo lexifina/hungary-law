@@ -1,7 +1,7 @@
-## 116. §[^194]
+## 116. §[^183]
 
 ## 117. A támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló
 
 ## 191/2008. (VII. 30.) Korm. rendelet módosítása
 
-[^194]: A 116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^183]: A 116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,23 +1,23 @@
-## 289. §[^463]
+## 289. §[^452]
 
 ## 290. Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetről szóló 28/2015. (II. 25.) Korm. rendelet módosítása
 
-290. § (1)[^464]
+290. § (1)[^453]
 
-(2)[^465]
+(2)[^454]
 
-(3)[^466]
+(3)[^455]
 
-(4)[^467]
+(4)[^456]
 
-(5)[^468]
+(5)[^457]
 
-(6)–(9)[^469]
+(6)–(9)[^458]
 
-[^463]: A 289. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^464]: A 290. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^465]: A 290. § (2) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^466]: A 290. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^467]: A 290. § (4) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^468]: A 290. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^469]: A 290. § (6)–(9) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^452]: A 289. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^453]: A 290. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^454]: A 290. § (2) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^455]: A 290. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^456]: A 290. § (4) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^457]: A 290. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^458]: A 290. § (6)–(9) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

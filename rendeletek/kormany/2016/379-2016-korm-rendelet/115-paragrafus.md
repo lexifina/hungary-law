@@ -1,5 +1,5 @@
-## 114. §[^192]
+## 114. §[^181]
 
 ## 115. A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet módosítása
 
-[^192]: A 114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^181]: A 114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

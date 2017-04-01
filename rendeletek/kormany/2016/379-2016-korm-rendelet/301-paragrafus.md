@@ -1,7 +1,7 @@
-## 300. §[^495]
+## 300. §[^484]
 
 ## 301. A veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló
 
 ## 225/2015. (VIII. 7.) Korm. rendelet módosítása
 
-[^495]: A 300. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^484]: A 300. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

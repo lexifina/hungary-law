@@ -1,7 +1,7 @@
-## 183. §[^300]
+## 183. §[^289]
 
 ## 184. A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló
 
 ## 309/2011. (XII. 23.) Korm. rendelet módosítása
 
-[^300]: A 183. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^289]: A 183. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

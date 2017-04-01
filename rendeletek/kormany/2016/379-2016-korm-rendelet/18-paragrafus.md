@@ -8,14 +8,13 @@
 
 a)–d)[^19]
 
-e)[^20]
+e) 1.122. alpontjában az „az Országos Tisztifőorvosi Hivatalban” szövegrész helyébe az „az egészségügyért felelős miniszter által vezetett minisztériumban népegészségügyi hatáskörben” szöveg
 
 ## lép.
 
-(3)[^21]
+(3)[^20]
 
 [^17]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^18]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^19]: A 18. § (2) bekezdés a)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 18. § (2) bekezdés e) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^21]: A 18. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 18. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 321. §[^534]
+## 321. §[^523]
 
 ## 322. A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosítása
 
-[^534]: A 321. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^523]: A 321. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
