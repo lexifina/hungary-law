@@ -1,4 +1,4 @@
-## 6. §[^8] A praxisengedélyre vonatkozó határozatot közölni kell az Országos Tisztifőorvosi Hivatallal (a továbbiakban: OTH), a Nemzeti Egészségbiztosítási Alapkezelővel és az állami adóhatósággal.
+## 6. §[^8] A praxisengedélyre vonatkozó határozatot közölni kell az Állami Egészségügyi Ellátó Központtal (a továbbiakban: ÁEEK), a Nemzeti Egészségbiztosítási Alapkezelővel és az állami adóhatósággal.
 
 7. § (1) A praxisengedélyt vissza kell vonni, ha
 
@@ -22,7 +22,7 @@ e)[^11] a praxisjog elidegenítésére nyitva álló határidő eredménytelenü
 
 (6) A praxisengedély visszavonásáról szóló határozatot közölni kell az önkormányzattal és azokkal a szervekkel, amelyekkel a praxisengedélyre vonatkozó határozatot közölték.
 
-[^8]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja, a 30/2015. (II. 25.) Korm. rendelet 61. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 185. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 185. § a)–b) pontja szerint módosított szöveg.
 [^9]: A 7. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
 [^10]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
 [^11]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.

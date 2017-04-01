@@ -2,10 +2,10 @@
 
 ## 4. Praxiskezelő, a praxisjog elidegenítése
 
-12. § (1)[^13] A Kormány praxiskezelőként az OTH-t jelöli ki.
+12. § (1)[^13] A Kormány praxiskezelőként az ÁEEK-et jelöli ki.
 
 (2)[^14] A praxiskezelő az Öotv. 2/C. § b) pontja szerinti feladatkörében nyilvántartja az eladott praxisjoggal érintett körzet ellátási területének megnevezését, kódját, típusát, valamint az átadás időpontját.
 
 [^12]: A 11. § a 137/2012. (VI. 29.) Korm. rendelet 78. §-a szerint módosított szöveg.
-[^13]: A 12. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^13]: A 12. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 185. § c) pontja szerint módosított szöveg.
 [^14]: A 12. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 46. §-ával megállapított szöveg.
