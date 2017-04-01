@@ -178,7 +178,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | Erdővédelem | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 17. | Egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
+| 17. | Egészségügy | illetékes járási hivatal | Baranya Megyei Kormányhivatal |
 
 | 18. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
@@ -188,4 +188,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | Régészet és műemlékvédelem | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
-[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 4. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 4. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
