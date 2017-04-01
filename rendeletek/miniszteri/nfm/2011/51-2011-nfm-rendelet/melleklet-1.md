@@ -164,7 +164,7 @@
 
 | 78 | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 0 | 0 |
 
-| 79 | Siófok | Balaton-parti Kft. | 8 997 893 | –4 156 |
+| 79 | Siófok | Balaton-parti Kft. | 0 | 0 |
 
 | 80 | Sopron | SOPRON Holding Zrt. | 39 768 296 | –1 222 |
 
@@ -230,7 +230,7 @@
 
 | 4. | Budapest | Kiserőmű (Energiaszolgáltató) Kft. | Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház – Rendelőintézet | 1 553 |
 
-| 5. | Budapest | Medenergo B Kft. | Országos Orvosi Rehabilitációs Intézet | 1 553 |
+| 5. | Budapest | MK-MÓR Termelő Kft. | Országos Orvosi Rehabilitációs Intézet | 1 553 |
 
 | 6. | Budapest | MEDENERGO XI Projekt Energetikai Szolgáltató Kft. | Szent Imre Kórház | 1 553 |
 
@@ -253,4 +253,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^20]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]
+[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]
