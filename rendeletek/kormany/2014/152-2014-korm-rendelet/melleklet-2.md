@@ -92,7 +92,7 @@
 
 |  | 10 | Országos Nyugdíjbiztosítási Főigazgatóság | irányítás |
 
-|  | 11 | Országos Tisztifőorvosi Hivatal | irányítás |
+|  | 11 |  |  |
 
 |  | 12 | Szociális és Gyermekvédelmi Főigazgatóság | irányítás |
 
