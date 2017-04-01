@@ -30,4 +30,6 @@
 
 14. a Mecsekérc Zártkörűen Működő Részvénytársaság,
 
-15. Országos Közegészségügyi Központ Országos Sugárbiológiai és Sugáregészségügyi Kutató Igazgatóság (a továbbiakban: OKK OSSKI).
+15.[^3] OKI.
+
+[^3]: Az 1. melléklet 15. pontja a 379/2016. (XII. 2.) Korm. rendelet 317. § b) pontja szerint módosított szöveg.

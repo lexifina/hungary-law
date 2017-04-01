@@ -1,4 +1,4 @@
-3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez
+3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^4]
 
 1. Ellenőrző adatszolgáltató központok, valamint
 
@@ -12,7 +12,7 @@ az OKSER ellenőrző tevékenységébe bevont vizsgálatok tárgya
 
 | 1 | OKSER tag | Adatszolgáltató központ | Vizsgálatok tárgya |
 
-| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (OKK OSSKI) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
+| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (OKI) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
 
 | 3 | az agrárpolitikáért felelős miniszter által vezetett minisztérium és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium | Nemzeti Élelmiszerlánc-biztonsági Hivatal | levegő, ivóvíz, a talaj, a növényzet, a növényi és az állati eredetű élelmiszertermékek, takarmányok, mezőgazdasági tevékenységgel és erdőgazdálkodással összefüggő egyéb minták |
 
@@ -83,3 +83,5 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 3.1.1. (a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, az oktatásért felelős miniszter által vezetett minisztérium, az OMSZ, az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
 3.1.2. (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+
+[^4]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 317. § c) pontja szerint módosított szöveg.
