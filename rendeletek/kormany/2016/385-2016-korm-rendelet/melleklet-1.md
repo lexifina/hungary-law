@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti az Állami Népegészségügyi Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet.
+## 19. §[^1]
 
 1. melléklet a 385/2016. (XII. 2.) Korm. rendelethez
 
@@ -19,3 +19,5 @@
 1.6. a Győr-Moson-Sopron Megyei Kormányhivatal Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugáregészségügyi laboratóriumai feladatokat Komárom-Esztergom és Veszprém megyére
 
 kiterjedő illetékességgel látja el.
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
