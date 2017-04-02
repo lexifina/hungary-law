@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-448-20-
 | 2017-01-02 | 2016-448-20-22.4 | 2010: CXXX. törvény |
 | 2017-01-03 | 2016-448-20-22.5 | 2010: CXXX. törvény |
 | 2017-04-01 | 2016-448-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-04-02 | 2016-448-20-22.7 | 2010: CXXX. törvény |

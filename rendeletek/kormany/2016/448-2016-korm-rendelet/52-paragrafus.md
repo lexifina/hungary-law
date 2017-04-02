@@ -1,7 +1,3 @@
-## 51. § Az Sznyr. 32. § (3) bekezdés g) pontja helyébe a következő rendelkezés lép, egyidejűleg a bekezdés a következő h) ponttal egészül ki:
+## 50–51. §[^19]
 
-## (A működést engedélyező szerv helyszíni szemlét tart)
-
-## „g) fejlesztő foglalkoztatás esetén, ha a módosítás célja foglalkoztatási hely bejegyzése, és
-
-## h) az a)–g) pontban nem említett esetben, ha a helyszíni szemle tartása egyéb okból indokolt.
+[^19]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
