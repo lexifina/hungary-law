@@ -1,5 +1,5 @@
-## 62. §[^67]
+## 62. §[^71]
 
 ## 63. A munkavédelemről szóló 1993. évi XCIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 5/1993. (XII. 26.) MüM rendelet módosításáról szóló 33/2016. (IX. 8.) NGM rendelet módosítása
 
-[^67]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
