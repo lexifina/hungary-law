@@ -1,4 +1,4 @@
-## 117. §[^117]
+## 117. §[^187]
 
 ## 118. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § (2) bekezdése, a 2. § (2) bekezdése, a 3. § (2) bekezdése, a 4. § (2) bekezdése, a 7. § (2) bekezdése, a 8. § (2) bekezdése, a 9. § (2) bekezdése, a 10. § (2) bekezdése, a 11. § (2) bekezdése, a 12. § (2) bekezdése, a 13. § (2) bekezdése, a 14. § (2) bekezdése, a 15. § (2) bekezdése, a 16. § (2) bekezdése, a 17. § (2) bekezdése, a 18. § (2) bekezdése, a 19. § (2) bekezdése, a 20. § (2) bekezdése, a 21. § (2) bekezdése, a 22. § (2) bekezdése, a 23. § (2) bekezdése, a 24. § (2) bekezdése, a 25. § (2) bekezdése, a 26. § (2) bekezdése, a 27. § (3) bekezdése, a 28. § (2) bekezdése, a 29. § (2) bekezdése, a 30. § (2) bekezdése, a 31. § (2) bekezdése, a 32. § (2) bekezdése, a 35. § (2) bekezdése, a 36. § (2) bekezdése, a 39. § (2) bekezdése, a 41. § (2) bekezdése, a 42. § (2) bekezdése, a 43. § (2) bekezdése, a 47. § (2) bekezdése, a 48. § (2) bekezdése, a 49. § (2) bekezdése, az 51. § (2) bekezdése, az 54. § (2) bekezdése, az 55. § (2) bekezdése, az 56. § (2) bekezdése, az 57. § (2) bekezdése, az 58. § (2) bekezdése, az 59. § (2) bekezdése, a 63. § (3) bekezdése, a 64. § (2) bekezdése, a 67. § (2) bekezdése, a 68. § (2) bekezdése, a 69. § (2) bekezdése, a 70. § (2) bekezdése, a 74. § (2) bekezdése, a 75. § (2) bekezdése, a 76. § (2) bekezdése, a 77. § (2) bekezdése, a 81. § (2) bekezdése, a 82. § (2) bekezdése, a 83. § (2) bekezdése, a 85. § (2) bekezdése, a 87. § (2) bekezdése, a 88. § (2) bekezdése, a 89. § (2) bekezdése, a 90. § (2) bekezdése, a 92. § (2) bekezdése, a 93. § (2) bekezdése, a 94. § (2) bekezdése, a 95. § (2) bekezdése, a 96. § (2) bekezdése és a 97. § (2) bekezdése 2017. április 1-jén lép hatályba.
 
-[^117]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^187]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

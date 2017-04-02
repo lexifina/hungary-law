@@ -2,8 +2,9 @@
 
 ## 32/2012. (III. 7.) Korm. rendelet módosítása
 
-25. § (1)[^25]
+25. § (1)[^47]
 
-(2) Az R24. 2. mellékletben foglalt táblázat C:12 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg lép.
+(2)[^48]
 
-[^25]: A 25. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 25. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 25. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

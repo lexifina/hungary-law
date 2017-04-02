@@ -2,8 +2,9 @@
 
 ## 80/2009. (IV. 8.) Korm. rendelet módosítása
 
-12. § (1)[^12]
+12. § (1)[^21]
 
-(2) Az R11. 2. számú mellékletben foglalt táblázat C:17 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe az „illetékes fővárosi és megyei kormányhivatal” szöveg lép.
+(2)[^22]
 
-[^12]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

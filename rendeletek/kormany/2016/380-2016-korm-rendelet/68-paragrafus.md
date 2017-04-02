@@ -2,8 +2,9 @@
 
 ## 50/2014. (II. 28.) Korm. rendelet módosítása
 
-68. § (1)[^68]
+68. § (1)[^117]
 
-(2) Az R53. 2. mellékletben foglalt táblázat C:12 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Baranya Megyei Kormányhivatal” szöveg lép.
+(2)[^118]
 
-[^68]: A 68. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 68. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 68. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

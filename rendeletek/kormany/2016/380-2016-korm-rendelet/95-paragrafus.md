@@ -2,8 +2,9 @@
 
 ## 2/2015. (I. 22.) Korm. rendelet módosítása
 
-95. § (1)[^95]
+95. § (1)[^162]
 
-(2) Az R71. 2. mellékletben foglalt táblázat C:11 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg lép.
+(2)[^163]
 
-[^95]: A 95. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^162]: A 95. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 95. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

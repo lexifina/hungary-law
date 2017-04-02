@@ -2,8 +2,9 @@
 
 ## 59/2014. (III. 4.) Korm. rendelet módosítása
 
-69. § (1)[^69]
+69. § (1)[^119]
 
-(2) Az R54. 2. mellékletben foglalt táblázat C:11 mezőjében az „Országos Tisztifőorvosi Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg lép.
+(2)[^120]
 
-[^69]: A 69. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 69. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 69. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

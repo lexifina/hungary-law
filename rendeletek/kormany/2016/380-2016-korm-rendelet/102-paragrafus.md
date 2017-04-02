@@ -1,5 +1,5 @@
-## 101. §[^101]
+## 101. §[^171]
 
 ## 102. A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.) Korm. rendelet módosítása
 
-[^101]: A 101. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^171]: A 101. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

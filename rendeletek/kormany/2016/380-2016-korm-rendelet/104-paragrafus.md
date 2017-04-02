@@ -1,7 +1,7 @@
-## 103. §[^103]
+## 103. §[^173]
 
 ## 104. Az új budapesti konferencia-központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló
 
 ## 267/2015. (IX. 14.) Korm. rendelet módosítása
 
-[^103]: A 103. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^173]: A 103. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
