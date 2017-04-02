@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2017-02-03 | 2016-382-20-22.3 | 20/2017. (II. 2.) Korm. rendelet |
 | 2017-03-21 | 2016-382-20-22.4 | 52/2017. (III. 20.) Korm. rendelet |
 | 2017-04-01 | 2016-382-20-22.5 | 2010: CXXX. törvény |
+| 2017-04-02 | 2016-382-20-22.6 | 2010: CXXX. törvény |
