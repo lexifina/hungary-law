@@ -1,5 +1,1 @@
 ## 11. § Azon árközzétételi kötelezettséggel nem érintett dohánytermék tekintetében, amely a dohánytermék-kiskereskedők által vezetendő nyilvántartásokról, valamint a dohányboltban forgalmazott egyes termékekre vonatkozó adatszolgáltatási kötelezettség teljesítéséről szóló 244/2013. (VI. 30.) Korm. rendelet 3. melléklete szerint a részvénytársaságnál e rendelet hatálybalépése előtt regisztrálásra került, és amely árközzétételi kötelezettséggel nem érintett dohánytermék kiskereskedelmi eladási ára e rendelet hatálybalépését követően megváltozik, a korábbi regisztrációt a 3. melléklet szerint módosítani kell.
-
-12. § (1) Az 1. § (2) bekezdés b) pontjában az „adójeggyel” szövegrész helyébe az „adójeggyel vagy zárjeggyel” szöveg lép.
-
-(2) A 3. melléklet 3. pont f) alpontjában az „(így különösen: EAN kód, Vámtarifaszám, OGYÉI engedélyszám, fogyasztóvédelmi hatósági engedélyszám, gyártói cikkszám)” szövegrész helyébe az „[így különösen: EAN kód, a Jöt. szerinti KN-kód (ennek hiányában vámtarifaszám), OGYÉI engedélyszám, fogyasztóvédelmi hatósági engedélyszám, gyártói cikkszám]” szöveg lép.
