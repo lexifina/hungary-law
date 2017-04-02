@@ -1,3 +1,3 @@
-## 15. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Get. Vhr.) a következő 25/A. §-sal egészül ki:
+## 15. §[^11]
 
-## „25/A. § A GET. 28/A. § (3) bekezdése és a GET. 29. § (3a) bekezdése szerinti, a kikapcsolás lehetőségére és az azzal járó szolgáltatásszüneteltetésre vonatkozó tértivevényes levélnek vagy az átvétel igazolására alkalmas más módon történő értesítésnek tartalmaznia kell a felhasználó azonosító számát, a felhasználó nevét, a felhasználó címét, a felhasználási hely címét, a lejárt tartozással érintett számla sorszámát és esedékességét, a lejárt esedékességű tartozás összegét.”
+[^11]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
