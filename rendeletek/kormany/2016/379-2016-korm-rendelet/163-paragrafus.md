@@ -1,5 +1,5 @@
-## 162. §[^255]
+## 162. §[^266]
 
 ## 163. A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet módosítása
 
-[^255]: A 162. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^266]: A 162. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

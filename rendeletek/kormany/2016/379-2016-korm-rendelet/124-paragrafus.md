@@ -1,36 +1,36 @@
-## 123. §[^190]
+## 123. §[^201]
 
 ## 124. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet módosítása
 
 124. § (1) Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet (a továbbiakban: R59.)
 
-1.[^191]
+1.[^202]
 
-2.[^192]
+2.[^203]
 
-3–4.[^193]
+3–4.[^204]
 
-5.[^194]
+5.[^205]
 
-6.[^195]
+6.[^206]
 
-7–9.[^196]
+7–9.[^207]
 
-10.[^197]
+10.[^208]
 
-11–16.[^198]
+11–16.[^209]
 
 ## lép.
 
-(2)[^199]
+(2)[^210]
 
-[^190]: A 123. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^191]: A 124. § (1) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^192]: A 124. § (1) bekezdés 2. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^193]: A 124. § (1) bekezdés 3–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^194]: A 124. § (1) bekezdés 5. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^195]: A 124. § (1) bekezdés 6. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^196]: A 124. § (1) bekezdés 7–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^197]: A 124. § (1) bekezdés 10. pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^198]: A 124. § (1) bekezdés 11–16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^199]: A 124. § (2) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^201]: A 123. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^202]: A 124. § (1) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^203]: A 124. § (1) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^204]: A 124. § (1) bekezdés 3–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^205]: A 124. § (1) bekezdés 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^206]: A 124. § (1) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^207]: A 124. § (1) bekezdés 7–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^208]: A 124. § (1) bekezdés 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^209]: A 124. § (1) bekezdés 11–16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^210]: A 124. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

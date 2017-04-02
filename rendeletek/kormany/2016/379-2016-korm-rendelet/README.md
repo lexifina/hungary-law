@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-379-20-
 | 2017-01-16 | 2016-379-20-22.6 | 2010: CXXX. törvény |
 | 2017-01-17 | 2016-379-20-22.7 | 2010: CXXX. törvény |
 | 2017-04-01 | 2016-379-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-04-02 | 2016-379-20-22.9 | 2010: CXXX. törvény |

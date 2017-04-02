@@ -1,5 +1,5 @@
-## 97. §[^153]
+## 97. §[^164]
 
 ## 98. Az országhatárt átlépő hulladékszállításról szóló 180/2007. (VII. 3.) Korm. rendelet módosítása
 
-[^153]: A 97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

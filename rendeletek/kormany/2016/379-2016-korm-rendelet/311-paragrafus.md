@@ -1,50 +1,50 @@
-## 310. §[^498]
+## 310. §[^508]
 
 ## 311. A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló 414/2015. (XII. 23.) Korm. rendelet módosítása
 
-311. § (1)[^499]
+311. § (1)[^509]
 
-(2)[^500]
+(2)[^510]
 
-(3)–(6)[^501]
+(3)–(6)[^511]
 
-(7)[^502]
+(7)[^512]
 
-(8)–(10)[^503]
+(8)–(10)[^513]
 
-(11)[^504]
+(11)[^514]
 
-(12)–(14)[^505]
+(12)–(14)[^515]
 
-(15)–(18)[^506]
+(15)–(18)[^516]
 
-(19)[^507]
+(19)[^517]
 
-(20)[^508]
+(20)[^518]
 
-(21)[^509]
+(21)[^519]
 
-(22)[^510]
+(22)[^520]
 
-(23)–(28)[^511]
+(23)–(28)[^521]
 
-(29)[^512]
+(29)[^522]
 
-(30)[^513]
+(30)[^523]
 
-[^498]: A 310. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^499]: A 311. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^500]: A 311. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^501]: A 311. § (3)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^502]: A 311. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^503]: A 311. § (8)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^504]: A 311. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^505]: A 311. § (12)–(14) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^506]: A 311. § (15)–(18) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^507]: A 311. § (19) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^508]: A 311. § (20) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^509]: A 311. § (21) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^510]: A 311. § (22) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^511]: A 311. § (23)–(28) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^512]: A 311. § (29) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^513]: A 311. § (30) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^508]: A 310. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^509]: A 311. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^510]: A 311. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^511]: A 311. § (3)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^512]: A 311. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^513]: A 311. § (8)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^514]: A 311. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^515]: A 311. § (12)–(14) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^516]: A 311. § (15)–(18) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^517]: A 311. § (19) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^518]: A 311. § (20) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^519]: A 311. § (21) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^520]: A 311. § (22) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^521]: A 311. § (23)–(28) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^522]: A 311. § (29) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^523]: A 311. § (30) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

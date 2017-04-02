@@ -1,28 +1,28 @@
-## 239. §[^375]
+## 239. §[^386]
 
 ## 240. A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet módosítása
 
-240. § (1)[^376]
+240. § (1)[^387]
 
 (2) Az R123.
 
-a)–c)[^377]
+a)–c)[^388]
 
-d)[^378]
+d)[^389]
 
-e)[^379]
+e)[^390]
 
-f)[^380]
+f)[^391]
 
-g)[^381]
+g)[^392]
 
-h)–j)[^382]
+h)–j)[^393]
 
-[^375]: A 239. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^376]: A 240. § (1) bekezdése a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^377]: A 240. § (2) bekezdés a)–c) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^378]: A 240. § (2) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^379]: A 240. § (2) bekezdés e) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^380]: A 240. § (2) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^381]: A 240. § (2) bekezdés g) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^382]: A 240. § (2) bekezdés h)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^386]: A 239. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^387]: A 240. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^388]: A 240. § (2) bekezdés a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^389]: A 240. § (2) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^390]: A 240. § (2) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^391]: A 240. § (2) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^392]: A 240. § (2) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^393]: A 240. § (2) bekezdés h)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

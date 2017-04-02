@@ -1,16 +1,16 @@
-## 174. §[^277]
+## 174. §[^288]
 
 ## 175. Az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex érzékenységi és terhelhetőségi vizsgálatáról szóló 103/2011. (VI. 29.) Korm. rendelet módosítása
 
-175. § (1)[^278]
+175. § (1)[^289]
 
 (2) Az R87.
 
-a)[^279]
+a)[^290]
 
-b)[^280]
+b)[^291]
 
-[^277]: A 174. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^278]: A 175. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^279]: A 175. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^280]: A 175. § (2) bekezdés b) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^288]: A 174. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^289]: A 175. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^290]: A 175. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^291]: A 175. § (2) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
