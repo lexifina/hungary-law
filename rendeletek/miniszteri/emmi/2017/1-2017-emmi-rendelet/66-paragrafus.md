@@ -1,4 +1,4 @@
-## lép.
+## 65. §[^19]
 
 ## 9. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) A 17. § és a 21. § 2017. július 1-jén lép hatályba.
 
 (4) Az 57. § (2) bekezdése és a 8. melléklet 2018. január 1-jén lép hatályba.
+
+[^19]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
