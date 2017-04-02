@@ -1,4 +1,4 @@
-## 29–32. §[^20]
+## 29–32. §[^26]
 
 ## 12. A közforgalmú gyógyszertári tulajdoni hányadra vonatkozó elővásárlási jog
 
@@ -6,4 +6,4 @@
 
 ## 331/2013. (IX. 5.) Korm. rendelet módosítása
 
-[^20]: A 29–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 29–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 47. §[^27]
+## 47. §[^33]
 
 ## 18. Egyéb rendelkezések
 
@@ -24,4 +24,4 @@ bf) 299. § h)–k) pontja,
 
 c) a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendeletnek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet 7. mellékletével megállapított 1. melléklet 29. pontja.
 
-[^27]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

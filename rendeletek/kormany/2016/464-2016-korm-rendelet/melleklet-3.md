@@ -1,3 +1,3 @@
-3–4. melléklet a 464/2016. (XII. 23.) Korm. rendelethez[^31]
+3–4. melléklet a 464/2016. (XII. 23.) Korm. rendelethez[^37]
 
-[^31]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
