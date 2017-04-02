@@ -1,5 +1,0 @@
-## 3. §[^4]
-
-## 4. A bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet módosítása
-
-[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
