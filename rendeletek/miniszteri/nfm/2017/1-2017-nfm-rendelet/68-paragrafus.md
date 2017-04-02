@@ -1,5 +1,0 @@
-## 68. A bányafelügyelet részére fizetendő igazgatási szolgáltatási díjakról és egyéb eljárási költségekről, valamint a felügyeleti díj fizetésének részletes szabályairól szóló 78/2015. (XII. 30.) NFM rendelet módosítása
-
-68. §[^74]
-
-[^74]: A 68. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

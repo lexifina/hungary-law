@@ -1,5 +1,0 @@
-## 11. Az országos közutak kezelésének szabályozásáról szóló 6/1998. (III. 11.) KHVM rendelet módosítása
-
-11. §[^12]
-
-[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
