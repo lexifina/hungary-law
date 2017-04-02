@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-79-20-1
 | 2016-12-13 | 2016-79-20-11.1 | 79/2016. (XII. 12.) FM rendelet |
 | 2016-12-14 | 2016-79-20-11.2 | 2010: CXXX. törvény |
 | 2017-04-01 | 2016-79-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-04-02 | 2016-79-20-11.4 | 2010: CXXX. törvény |
