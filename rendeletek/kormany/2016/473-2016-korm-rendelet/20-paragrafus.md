@@ -1,5 +1,3 @@
-## 19. §[^21]
-
 ## 20. A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet módosítása
 
 20. § (1) A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendeletnek (a továbbiakban: R11.) a környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet 4. melléklet 1.2.1. pontjában foglalt táblázat A:8 mezőjét megállapító rendelkezése a „Békés Megyei Kormányhivatal Gyulai Járási Hivatala” szövegrész helyett a „Békés Megyei Kormányhivatal Békéscsabai Járási Hivatala” szöveggel lép hatályba.
@@ -33,5 +31,3 @@ k) 293. § (1), (12), (13) bekezdése,
 l) 293. § (18) bekezdés 4. pontjában a „ , 35. § (4) bekezdésben” szövegrész,
 
 m) 27. melléklete.
-
-[^21]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
