@@ -1,26 +1,15 @@
-## „(7a) A kerékpárszállító eszközre kiadott A típusú, különleges rendszámtábla típusváltása nem engedélyezhető.”
+15. § (1)[^9]
 
-15. § (1) A KR. 60. § (1) bekezdése helyébe a következő rendelkezés lép:
+(2)[^10]
 
-## „(1) A különleges rendszámtábla az e rendeletben foglaltak szerint jelzi a jármű üzemeltetésének jellegét vagy tulajdonosát (üzembentartóját), továbbá a kerékpárszállító eszköz használatát. A különleges rendszámtáblák leírását a 13. melléklet tartalmazza.”
+(3)–(4)[^11]
 
-(2)[^6]
+(5)[^12]
 
-(3) A KR. 60. § (2) bekezdése a következő h) ponttal egészül ki:
+(6)[^13]
 
-(A közlekedési igazgatási hatóság)
-
-## „h) a gépkocsi kerékpárszállító eszközére a gépkocsi rendszámtáblájának karaktereivel megegyező”
-
-## (különleges rendszámtáblát ad ki.)
-
-(4) A KR. 60. §-a a következő (2c) bekezdéssel egészül ki:
-
-## „(2c) A rendszámtábla cseréjére vonatkozó szabályok a gépkocsi kerékpárszállító eszközére kiadott különleges rendszámtáblára nem vonatkoznak.”
-
-(5)[^7]
-
-(6) A KR. 60. §-a a következő (7)–(9) bekezdéssel egészül ki:
-
-[^6]: A 15. § (2) bekezdése a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
-[^7]: A 15. § (5) bekezdése a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
+[^9]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 15. § (2) bekezdése a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
+[^11]: A 15. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 15. § (5) bekezdése a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
+[^13]: A 15. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
