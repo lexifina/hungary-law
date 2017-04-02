@@ -1,17 +1,15 @@
-## lép.
+## 21–22. §[^11]
 
-## 23. § Hatályát veszti az R.
+## 23. §[^12]
 
-a) 1. § (2) bekezdése,
+a)[^13]
 
-b)[^4]
+b)[^14]
 
-c) 6. § (2) bekezdésében a „szakági” szövegrész,
+c)–f)[^15]
 
-d) 15. §-a,
-
-e) 3–4. melléklete,
-
-f) 7. melléklete.
-
-[^4]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 23. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 23. § c)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
