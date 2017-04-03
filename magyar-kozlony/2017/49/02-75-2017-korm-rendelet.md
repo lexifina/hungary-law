@@ -1,0 +1,138 @@
+# A Kormány 75/2017. (IV. 3.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 49. szám, 2017. április 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b86b01f5b1d372921555dfb3bca8321c8c0afeac/dokumentumok/542569814656addba3f0de7ef1c6408943cac116/letoltes)
+
+---
+
+A Kormány 75/2017. (IV. 3.) Korm. rendelete
+a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló
+85/1998. (V. 6.) Korm. rendelet módosításáról
+A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló
+1994. évi XLII. törvény 26. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében
+meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.)
+Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[E rendelet hatálya a Törvény 1. § (5) bekezdésében és 2. § (2) bekezdésében meghatározott pénzügyi szolgáltatások
+keretében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.)
+6. § (1) bekezdés 40. pont a) alpontja és b) alpont ba) alpontja szerinti következő hitel és pénzkölcsön nyújtási
+tevékenységre terjed ki:]
+„c) beszállítói hitelek, külföldön megvalósuló befektetési hitelek (a továbbiakban együtt: egyéb export célú hitel),”
+(2) A Korm. rendelet 1. § (1) bekezdése a következő h) és i) ponttal egészül ki:
+[E rendelet hatálya a Törvény 1. § (5) bekezdésében és 2. § (2) bekezdésében meghatározott pénzügyi szolgáltatások
+keretében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.)
+6. § (1) bekezdés 40. pont a) alpontja és b) alpont ba) alpontja szerinti következő hitel és pénzkölcsön nyújtási
+tevékenységre terjed ki:]
+„h) export előfinanszírozó hitelek, exportcélú befektetési hitelek (a továbbiakban együtt: export előfinanszírozási
+hitel) és
+i) belföldi és külföldi pénzügyi intézményeknek nyújtott export előfinanszírozási hitelek (a továbbiakban: export
+előfinanszírozási refinanszírozási hitel).”
+(3) A Korm. rendelet 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az Eximbank a (2) bekezdésben fel nem sorolt termékei esetében gondoskodik arról, hogy a termékleírások
+tartalmazzák, hogy az egyes termékek feltételei megfelelnek
+a) az OECD Megállapodásnak vagy az Európai Unió támogatási szabályainak vagy
+b) az (1) bekezdés h) és i) pontjában meghatározott termékei esetében e rendelet előírásainak.”
+(4) A Korm. rendelet 1. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A (3) bekezdésnek megfelelő termékekhez kapcsolódóan az Eximbank az e rendelet szerinti kamatkiegyenlítést
+az (5) és (6) bekezdésben meghatározott kivétellel igénybe veheti.”
+(5) A Korm. rendelet 1. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Ha az (1) bekezdés e) és f) pontjában meghatározott hitelek kamatlába az Európai Unió állami támogatási
+szabályai szerint nem tartalmaz állami támogatást, és nem éri el legalább az Európai Unió Hivatalos Lapjában
+az Európai Bizottság által rendszeresen közzétett, a 3. § o) pontja szerinti referencia alapkamatláb értéke és
+az 1. melléklet szerinti, az adós hitelkockázati besorolása és a biztosítékok minősége alapján kalkulált kamatfelár
+együttes mértékét, az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.”
+(6) A Korm. rendelet 1. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) Az 1. melléklet szerinti fedezettségi mértékek megállapításakor a magas fedezettségű biztosítékokra
+a 30 százalék alatti, illetve azzal egyenlő, az általános fedezettségű biztosítékokra a 31 százalék és 59 százalék
+közötti, az alacsony fedezettségű biztosítékokra a 60 százalékkal egyenlő, illetve annál magasabb nemteljesítéskori
+veszteség a besorolás alapja.”
+
+2. §
+A Korm. rendelet 2. §-a helyébe a következő rendelkezés lép:
+„2. § Az Eximbank – az 1. § (1b)–(8) bekezdésében foglalt korlátozásokkal – a következő, a 6. §-ban meghatározott
+feltételeknek megfelelő, az 1. § (1) és (1a) bekezdésében meghatározott hitelek, refinanszírozási hitelek és
+követelésvásárlások vonatkozásában számolhat el a központi költségvetéssel a Magyar Export-Import Bank
+Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő
+elszámolásának részletes szabályairól szóló miniszteri rendeletben foglaltak szerint:
+a) magyar árukat, szolgáltatásokat exportáló gazdálkodó szervezeteknek (a továbbiakban: exportőr),
+b) az exportőr vevőinek,
+c) belföldi és külföldi pénzügyi intézményeknek,
+d) az exportőr exportjának teljesítését a Törvény 1. § (5a) bekezdés 1. pontjában meghatározottak szerint elősegítő
+beszállítóknak,
+e) az exportot a Törvény 1. § (5a) bekezdés 2. pontjában meghatározottak szerint elősegítő, belföldi vagy külföldi
+befektetést megvalósító exportőrnek,
+f) a versenyképességet az Eximbank üzletpolitikájában a Törvény 1. § (5a) bekezdés 5–7. pontjában
+meghatározottak alapján rögzített feltételeknek megfelelően javító gazdálkodó szervezet magyarországi
+befektetéseihez, beruházásához vagy magyarországi termelő tevékenységéhez, szolgáltatásnyújtásához kapcsolódó
+forgóeszközigény finanszírozásához és
+g) a 6. § szerinti, a magyar származású export mértékére vonatkozó feltételek teljesülése esetén a 6. §
+(11) bekezdésében meghatározott külkereskedelmi szerződés teljesítésében részt vevő belföldi gazdálkodó
+szervezet vevőinek
+nyújtott hitelek.”
+3. §
+A Korm. rendelet 3. §-a a következő r) ponttal egészül ki:
+(E rendelet alkalmazása szempontjából)
+„r) export előfinanszírozó hitel: olyan hitelviszony, amely az exportőr és a hitelt nyújtó hitelintézet között jön létre
+a Törvény 1. § (5) bekezdése szerinti exportügyletnek minősülő ügylethez kapcsolódóan, és amelynek célja
+az export megvalósulásához szükséges forgóeszközök finanszírozása a belföldről történő kiszállítást megelőzően.”
+4. §
+A Korm. rendelet 6. §-a a következő (7a) bekezdéssel egészül ki:
+„(7a) Az Eximbank a kamatkiegyenlítési rendszerben csak olyan, az 1. § (1) bekezdés h) és i) pontjában
+meghatározott export előfinanszírozási és export előfinanszírozási refinanszírozási hitelek kapcsán számolhat
+el a központi költségvetéssel, amelyek összege nem haladja meg a (11) bekezdés szerinti külkereskedelmi
+szerződésben meghatározott összeg 85%-át, és a hiteladós gazdálkodó szervezet által foglalkoztatottak több mint
+fele a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről
+szóló törvény, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szabályai
+szerint a hiteladóssal biztosítási kötelezettséggel járó jogviszonyban áll. A gazdálkodó szervezet az e bekezdésben
+meghatározott feltételeknek való megfelelést az egészségbiztosítási feladatkörében eljáró fővárosi és megyei
+kormányhivatal által kiállított dokumentumokkal igazolja. A feltételek megvalósulását az Eximbank ellenőrzi.”
+5. §
+A Korm. rendelet az 1. melléklet szerinti 1. melléklettel egészül ki.
+6. §
+A Korm. rendelet
+a) 1. § (1) bekezdés f) pontjában az „(a továbbiakban: versenyképességet javító refinanszírozási hitel), és”
+szövegrész helyébe az„(a továbbiakban: versenyképességet javító refinanszírozási hitel),”szöveg,
+b) 1. § (1b) bekezdésében az „1. § (1) bekezdés d), f) és g) pontjában” szövegrész helyébe az „1. § (1) bekezdés
+d), f), g) és i) pontjában”szöveg,
+c) 1. § (6) bekezdésében az „export célú befektetési hitellel” szövegrész helyébe az „export előfinanszírozási
+hitellel”szöveg,
+d) 1. § (6) és (7) bekezdésében az „export célú befektetési hitel” szövegrész helyébe az „export előfinanszírozási
+hitel”szöveg,
+e) 1. § (7) bekezdésében az „export célú hitellel” szövegrész helyébe az „egyéb export célú hitellel, export
+előfinanszírozási hitellel”szöveg,
+
+f) 4. § (2) bekezdésében az„1. §”szövegrész helyébe az„1. § (1) bekezdés a)–g) pontja”szöveg,
+g) 6. § (1), (4) és (5) bekezdésében a„hitelintézethez”szövegrész helyébe a„pénzügyi intézményhez”szöveg,
+h) 6. § (5) bekezdésében a„hitelintézetnek”szövegrész helyébe a„pénzügyi intézménynek”szöveg,
+i) 6. § (7) bekezdésében a„rendelkezéseinek”szövegrész helyébe a„rendelkezéseinek vagy az 1. § (5) bekezdése
+árazásra vonatkozó feltételeinek”szöveg,
+j) 7. § (1) bekezdésében az „alkalmazandó kamatláb” szövegrész helyébe az „alkalmazandó, a folyósított hitel
+devizanemére vonatkozó kamatláb”szöveg,
+k) 8. § (1) bekezdésében az „egyéb export célú refinanszírozási hitelek” szövegrész helyébe az „egyéb export
+célú refinanszírozási hitelek, export előfinanszírozási refinanszírozási hitelek”szöveg,
+l) 8. § (2) bekezdésében a„hitelintézetek”szövegrész helyébe a„pénzügyi intézmények”szöveg,
+m) 8. § (4) bekezdésében a„hitelintézettel”szövegrész helyébe a„pénzügyi intézménnyel”szöveg,
+n) 8. § (4) bekezdésében a„hitelintézetnél”szövegrész helyébe a„pénzügyi intézménynél”szöveg,
+o) 8. § (4) bekezdésében a „versenyképességet javító hitelt refinanszírozó hitelszerződést,” szövegrész helyébe
+a „versenyképességet javító hitelt refinanszírozó hitelszerződést, export előfinanszírozási refinanszírozási
+hitelszerződést,”szöveg
+lép.
+7. §
+Hatályát veszti a Korm. rendelet 6. § (7) bekezdésében az „olyan személy, aki”, valamint az „alátámasztottan”
+szövegrész.
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 75/2017. (IV. 3.) Korm. rendelethez
+„1. melléklet a 85/1998. (V. 6.) Korm. rendelethez
+Irányadó kamatfelárak
+Bázispontban kifejezett kamatfelárak
+Hitelminősítési kategória
+Biztosítékokkal való fedezettség
+Magas Általános Alacsony
+Kiváló (AAA-A) 60 75 100
+Jó (BBB) 75 100 220
+Kielégítő (BB) 100 220 400
+Gyenge (B) 220 400 650
+Rossz/Pénzügyi nehézségek (CCC és ennél alacsonyabb) 400 650 1000
+”
