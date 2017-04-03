@@ -24,17 +24,17 @@ A tanúsítvány adattartalma
 
 5. Ha az engedélyes telephely, a szolgáltató neve és székhelye.
 
-6.[^185] Az ellátottak számára nyitva álló egyéb helyiség címe és a foglalkoztatási hely címe, ha azzal az engedélyes rendelkezik.
+6.[^186] Az ellátottak számára nyitva álló egyéb helyiség címe és a foglalkoztatási hely címe, ha azzal az engedélyes rendelkezik.
 
 7. Az engedélyes ágazati azonosítója.
 
 8. A bejegyzett szolgáltatások és a férőhelyek száma a szolgáltatói nyilvántartásban feltüntetett módon. Gyermekotthon és utógondozó otthon esetén az ellátási formát kell szolgáltatásként feltüntetni. A külső férőhelyek számát összesítve kell feltüntetni.
 
-9.[^186] Az arra vonatkozó adat, hogy a szolgáltatás, a lakhatási szolgáltatást biztosító ingatlan, illetve a foglalkoztatási hely bejegyzése határozatlan idejű, határozott idejű vagy ideiglenes hatályú, továbbá határozott idejű bejegyzés és ideiglenes hatályú bejegyzés esetén a bejegyzés hatályának záró időpontja.
+9.[^187] Az arra vonatkozó adat, hogy a szolgáltatás, a lakhatási szolgáltatást biztosító ingatlan, illetve a foglalkoztatási hely bejegyzése határozatlan idejű, határozott idejű vagy ideiglenes hatályú, továbbá határozott idejű bejegyzés és ideiglenes hatályú bejegyzés esetén a bejegyzés hatályának záró időpontja.
 
 10. A tanúsítvány kiállításának helye és ideje.
 
 11. A kiadmányozási joggal rendelkező személy aláírása és a tanúsítványt kiállító szerv bélyegzőlenyomata.
 
-[^185]: A 3. melléklet 6. pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés t) pontja szerint módosított szöveg.
-[^186]: A 3. melléklet 9. pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^186]: A 3. melléklet 6. pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés t) pontja szerint módosított szöveg.
+[^187]: A 3. melléklet 9. pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés f) pontja szerint módosított szöveg.

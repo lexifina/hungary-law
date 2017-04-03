@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-369-20-
 | 2017-01-01 | 2013-369-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-01-02 | 2013-369-20-22.14 | 448/2016. (XII. 19.) Korm. rendelet |
 | 2017-04-01 | 2013-369-20-22.15 | 448/2016. (XII. 19.) Korm. rendelet |
+| 2017-04-03 | 2013-369-20-22.16 | 69/2017. (III. 31.) Korm. rendelet |
