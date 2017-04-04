@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2016-07-01 | 1993-146-20-22.38 | 113/2016. (V. 30.) Korm. rendelet |
 | 2016-07-23 | 1993-146-20-22.39 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2017-01-01 | 1993-146-20-22.40 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-04-04 | 1993-146-20-22.41 | 60/2017. (III. 20.) Korm. rendelet |
