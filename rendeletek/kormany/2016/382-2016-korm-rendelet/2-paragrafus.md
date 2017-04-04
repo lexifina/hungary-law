@@ -48,7 +48,7 @@ e) a (6) bekezdés szerinti ügyekben első fokon Budapest Főváros Kormányhiv
 
 (3) Útügyi közlekedési hatóságként a megyeszékhely szerinti járási hivatal, Pest megyében az Érdi Járási Hivatal, Budapest fővárosban a Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el
 
-1. a (2) bekezdés 1–3. pontjában, valamint az (5)–(6) bekezdésben meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével összefüggő ügyek,
+1.[^1] a (2) bekezdés 1–3. pontjában, valamint az (5)–(6) bekezdésben meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével vagy bejelentésével összefüggő ügyek,
 
 2. az engedélyezési hatáskörébe tartozó utak 30 m szabadnyílást meg nem haladó hídjai kiviteli tervének jóváhagyása,
 
@@ -118,10 +118,14 @@ e) a (6) bekezdés szerinti ügyekben első fokon Budapest Főváros Kormányhiv
 
 ## során.
 
-(5) Útügyi közlekedési hatóságként első fokon a megyei kormányhivatal járási hivatala, másodfokon a megyei kormányhivatal jár el a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) során.
+(5)[^2] Útügyi közlekedési hatóságként első fokon a megyei kormányhivatal járási hivatala, másodfokon a megyei kormányhivatal jár el a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) során.
 
 (6) Útügyi közlekedési hatóságként Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el:
 
 1. a fővárosi kerületi önkormányzatok tulajdonában lévő közutak és azok műtárgyai építésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése és
 
-2. a fővárosban a járdák, a gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
+2.[^3] a fővárosban a járdák, a gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
+
+[^1]: A 2. § (3) bekezdés 1. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (5) bekezdése a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (6) bekezdés 2. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.

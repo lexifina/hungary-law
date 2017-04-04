@@ -1,4 +1,4 @@
-## 28. §[^14]
+## 28. §[^17]
 
 1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez
 
@@ -50,4 +50,4 @@
 
 | 6. | Ha az út a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-[^14]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
