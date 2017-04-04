@@ -1,67 +1,82 @@
-## 6. § A bírósági ügyintéző egyéb – a bíróságon foglalkoztatott – igazságügyi alkalmazott által ellátható feladatokat is elvégezhet, ha az ezekre vonatkozó külön jogszabályokban meghatározott képesítési és egyéb feltételeknek megfelel.
+## 6/A. §[^4] A bírósági ügyintéző feladatainak ellátása során – valamennyi ügyszakra kiterjedően – az elektronikus ügyintézésre vonatkozó rendelkezéseket megfelelően alkalmazza.
 
 ## A polgári, a gazdasági, a közigazgatási és a munkaügyi peres eljárás során ellátható feladatok
 
-7. § (1) A bírósági ügyintéző első fokon a peres eljárásban
+7. §[^5] (1) A bírósági ügyintéző első fokon a peres eljárásban
 
-a) hiánypótlásra felhívó,
+1. hiánypótlásra felhívó,
 
-b) keresetlevelet idézés kibocsátása nélkül a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 130. § (1) bekezdés i) és j) pontja alapján elutasító,
+2. a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 130. § (1) bekezdés h)–j) pontja alapján elutasító, valamint a Pp. 394/I. § (1) bekezdés a) pontja alapján elutasító,
 
-c) igazolási kérelmet a Pp. 106. § (2)–(3) bekezdése alapján elutasító,
+3. igazolási kérelmet a Pp. 106. § (2) és (3) bekezdése alapján elutasító, valamint az igazolási kérelemnek helyt adó,
 
-d) idéző,
+4. idéző, valamint a kitűzött határnap előtt a tárgyalási határnapot elhalasztó,
 
-e) ügygondnokot kirendelő,
+5. ügygondnokot kirendelő,
 
-f) a bizonyítási eljárással járó költségek fedezésére előreláthatóan szükséges összeg bíróságnál történő előzetes letételére kötelező,
+6. perköltség előlegezésére kötelező,
 
-g) költségmentesség, illetékfeljegyzési jog engedélyezése iránti kérelem elbírálására vonatkozó, valamint költségmentesség, illetékfeljegyzési jog megvonásáról szóló,
+7. költségmentesség, illetékfeljegyzési jog engedélyezése, és munkavállalói költségkedvezmény iránti kérelem elbírálására vonatkozó, valamint költségmentesség, illetékfeljegyzési jog megvonásáról szóló,
 
-h) perköltségbiztosíték összegéről rendelkező,
+8. perköltségbiztosíték összegéről rendelkező,
 
-i) az ítélet és az eljárást befejező végzés kézbesítésének esetét kivéve, a kézbesítési vélelem megdöntése iránti kérelmet a Pp. 106. § (2)–(3) bekezdésében foglaltakra figyelemmel elutasító,
+9. az ítélet és az eljárást befejező végzés kézbesítésének esetét kivéve, a kézbesítési vélelem megdöntése iránti kérelemnek helyt adó, valamint a kérelmet elutasító,
 
-j) tolmács kirendelésére vonatkozó,
+10. tolmács kirendelésére vonatkozó, tolmácsdíjat és fordítási díjat megállapító,
 
-k) az eljárás szünetelését megállapító,
+11. az eljárás szünetelését megállapító,
 
-l) az eljárás félbeszakadását a Pp. 111. § (2)–(4) bekezdése alapján megállapító,
+12. az eljárás félbeszakadását a Pp. 111. § (2)–(4) bekezdése alapján megállapító,
 
-m) a bírósági ügyintéző által meghozott végzések tekintetében kijavító és kiegészítő,
+13. a bírósági ügyintéző által meghozott végzések tekintetében kijavító és kiegészítő,
 
-n) a bírósági ügyintéző által meghozott, a Pp. 227. § (2) bekezdésében meghatározott, a bíróságot nem kötő végzések megváltoztatására vonatkozó
+14. a bírósági ügyintéző által meghozott, a Pp. 227. § (2) bekezdésében meghatározott, a bíróságot nem kötő végzések megváltoztatására vonatkozó,
 
-## végzést hozhat.
+15. a Pp. 101. §-a alapján hirdetményi kézbesítést elrendelő,
+
+16. a Pp. 104. §-a alapján határidőt meghosszabbító,
+
+17. határozat jogerőre emelkedését megállapító,
+
+18. a Pp. 257. § (1) bekezdése szerinti fellebbezésre vonatkozó észrevétel előterjesztésének lehetőségére felhívó,
+
+19. a Pp. 264. §-a alapján perújítási kérelmet hivatalból elutasító,
+
+20. a Pp. 318. § (1) bekezdése szerinti permegszüntető,
+
+21. a Pp. 321/A. § (3) bekezdése szerinti permegszüntető
+
+végzést hozhat.
 
 (2) A bírósági ügyintéző első fokon a peres eljárásban az (1) bekezdésben meghatározott végzések meghozatalán felül
 
-a) iratokat szerezhet be más bíróságtól, ügyészségtől, hatóságtól vagy szervezettől,
+1. a Pp. 3. § (6) bekezdése alapján a beadványokat kiadhatja a feleknek,
 
-b) iratokat küldhet meg más bíróságnak, ügyészségnek vagy hatóságnak,
+2. iratokat
 
-c) állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és társadalmi szervezetet kereshet meg tájékoztatás adása, adatok közlése, átadása iránt,
+2a. szerezhet be más bíróságtól, ügyészségtől, hatóságtól vagy szervezettől, illetve
 
-d) a perbehívottat értesítheti a beavatkozás lehetőségéről,
+2b. küldhet meg más bíróságnak, ügyészségnek vagy hatóságnak,
 
-e) tájékoztatást adhat arról, hogy az ismeretlen helyen tartózkodó fél számára milyen feltételek mellett rendelhető el a hirdetményi kézbesítés,
+3. állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és civil szervezetet kereshet meg tájékoztatás adása, adatok közlése, átadása, valamint környezettanulmány készítése iránt,
 
-f) hirdetményi kézbesítést rendelhet el,
+4. külföldre történő kézbesítéshez szükséges intézkedéseket tehet,
 
-g) külföldre történő kézbesítéshez szükséges intézkedéseket tehet,
+5. megteheti a keresetlevél és az eljárást befejező érdemi határozat kézbesítése esetében a kézbesítési vélelem beállásakor szükséges intézkedéseket,
 
-h) megteheti a keresetlevél és az eljárást befejező érdemi határozat kézbesítése esetében a kézbesítési vélelem beállásakor szükséges intézkedéseket,
+6. az eljárásban részt vett személyek meghallgatásán kívül megteheti az elveszett (megsemmisült) iratok pótlása iránti intézkedéseket,
 
-i) az eljárásban részt vett személyek meghallgatásán kívül megteheti az elveszett (megsemmisült) iratok pótlása iránti intézkedéseket,
+7. intézkedhet a félnek a jogerő megállapításáról való értesítése tárgyában,
 
-j) intézkedhet a jogerő megállapítása és a félnek erről való értesítése tárgyában,
+8. intézkedhet a jogerős határozaton alapuló szakértői díj, tolmácsdíj, tanúdíj és ügygondnoki díj kiutalása, valamint az elnöki letétekkel kapcsolatos megkeresések tárgyában,
 
-k) intézkedhet a jogerős határozaton alapuló szakértői díj, tolmácsdíj, tanúdíj és ügygondnoki díj kiutalása tárgyában,
+9. az iratokat fellebbezés folytán felterjesztheti a másodfokú bírósághoz,
 
-l) intézkedhet a végzés elleni fellebbezés másodpéldányának a fellebbező fél ellenfelének történő megküldése iránt, egyben felhívhatja a fellebbező fél ellenfelét a fellebbezésre vonatkozó észrevételek megtételére,
+10. az iratokat felülvizsgálati kérelem folytán felterjesztheti a Kúriához, és értesítheti a jogerős határozatot hozó bíróságot az eljárás megindításáról a felülvizsgálati kérelem másolatának megküldésével,
 
-m) az iratokat fellebbezés folytán felterjesztheti a másodfokú bírósághoz,
+11. a Pp. 87. § (2) bekezdése alapján értesítheti a jogi segítségnyújtó szolgálatot,
 
-n)[^1] az iratokat felülvizsgálati kérelem folytán felterjesztheti a Kúriához, és értesítheti a jogerős határozatot hozó bíróságot az eljárás megindításáról a felülvizsgálati kérelem másolatának megküldésével.
+12. az alkotmányjogi panaszt továbbíthatja az Alkotmánybírósághoz.
 
-[^1]: A 7. § (2) bekezdés n) pontja a 314/2011. (XII. 23.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^4]: A 6/A. § a 62/2017. (III. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 7. § a 62/2017. (III. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,0 +1,1 @@
+## 6. § A bírósági ügyintéző egyéb – a bíróságon foglalkoztatott – igazságügyi alkalmazott által ellátható feladatokat is elvégezhet, ha az ezekre vonatkozó külön jogszabályokban meghatározott képesítési és egyéb feltételeknek megfelel.

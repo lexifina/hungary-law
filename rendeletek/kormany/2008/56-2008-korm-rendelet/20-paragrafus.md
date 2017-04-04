@@ -1,5 +1,8 @@
-## 19. § A bírósági ügyintéző a Be. 70/B. § alapján az eljárás során keletkezett iratról másolatot készíthet és adhat ki.
+## 19. §[^18]
 
-20. § (1) A bírósági ügyintéző állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és társadalmi szervezetet kereshet meg tájékoztatás adása, adatok közlése, átadása, illetőleg iratok rendelkezésre bocsátása végett a Be. 71. § (1) és (2) bekezdése alapján.
+20. § (1)[^19] A bírósági ügyintéző állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és egyesületet kereshet meg tájékoztatás adása, adatok közlése, átadása, illetőleg iratok rendelkezésre bocsátása végett a Be. 71. § (1) és (2) bekezdése alapján.
 
 (2) A bírósági ügyintéző a bírósági ügyvitel szabályai szerint jogosult iratok megküldésére más bíróság, ügyész, nyomozó hatóság és más hatóság számára. A bírósági ügyintéző megkeresheti a bíróságot, az ügyészt, a nyomozó hatóságot és más hatóságot iratok megküldése és a megküldött iratok visszaküldése iránt.
+
+[^18]: A 19. §-t a 62/2017. (III. 20.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^19]: A 20. § (1) bekezdése a 62/2017. (III. 20.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.

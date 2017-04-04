@@ -1,17 +1,15 @@
-## 15. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény (a továbbiakban e rendelet alkalmazásában: Tv.) alapján a bírósági ügyintéző első fokon jogosult
+## 15. §[^15] A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény (a továbbiakban: Har.) alapján a bírósági ügyintéző első fokon jogosult
 
-a) a pénzügyi gondnok jelentésének az önkormányzat és a hitelező részére történő megküldésére;
+a) a Har. 29. § (5) bekezdése szerint a helyi önkormányzat vagy a hitelező észrevételének a pénzügyi gondnok részére történő megküldésére;
 
-b) a kérelem érdemi vizsgálat nélküli elutasítására, ha
+b) az adósságrendezési eljárás megindítására irányuló kérelem érdemi vizsgálat nélküli elutasítására, ha a polgármester hiánypótlásra történő felhívás ellenére sem csatolta a Har. 5. § (3) bekezdésben meghatározott okiratokat;
 
-ba) azt nem az arra jogosult terjesztette elő,
+c) a Har. 22. § (1) bekezdésében és 25. § (5) bekezdésében foglalt határidőknek a Har. 28. §-a szerinti meghosszabbítására;
 
-bb) a bejelentő a hiánypótlásra visszaadott kérelmet 8 napon belül nem egészítette ki, vagy azt ismét hiányosan terjesztette elő,
+d) a helyi önkormányzat és a hitelező kifogásainak hiánypótlásra történő visszaadására;
 
-bc) a polgármester a képviselő-testület felhatalmazása nélkül járt el, kivéve, ha a polgármester a Tv. 5. § (2) bekezdése szerint kezdeményezte az eljárást, vagy
+e) a Har. 3. § (2) bekezdése szerinti esetekben az eljárás szünetelésének megállapítására;
 
-bd) a hitelező a Tv. 7. §-ában meghatározott időtartam előtt kezdeményezte az eljárást;
+f) az adósságrendezési eljárást megindító és befejező végzés jogerőre emelkedése közzétételének elrendelésére.
 
-c) a Tv. 22. § (1) bekezdésében és 25. § (5) bekezdésében írt határidőket meghosszabbítani;
-
-d) a helyi önkormányzat és a hitelező kifogásait hiánypótlásra visszaadni.
+[^15]: A 15. § a 62/2017. (III. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
