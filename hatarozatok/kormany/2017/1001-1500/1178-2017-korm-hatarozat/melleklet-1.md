@@ -18,11 +18,7 @@
 
 ## Határidő: azonnal
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1905/2015. (XII. 8.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 4. Az erdélyi oktatási és kulturális célú programok, beruházások megvalósításának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1531/2015. (VII. 31.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozatban az „a Bethlen Gábor Alapba átcsoportosított 1828,2 millió forint tekintetében 2017. március 31.” szövegrész helyébe az „a Bethlen Gábor Alapba átcsoportosított 1663,2 millió forint tekintetében 2017. március 31., a Bethlen Gábor Alapba a Szent Teréz székesegyház felújítása céljából átcsoportosított 165,0 millió forint tekintetében 2018. március 31.” szöveg lép.
+## 3–5.[^1]
 
 ## 6. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő átcsoportosításról szóló 1094/2017. (II. 24.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 7. MK felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 227,0 millió forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
@@ -139,3 +135,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
