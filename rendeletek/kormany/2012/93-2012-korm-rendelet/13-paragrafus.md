@@ -4,7 +4,7 @@ a) az engedélyezett közlekedési építmény pontos megnevezését, helyét, a
 
 b) az engedélyezett közlekedési építmény kezelőjének, tulajdonosának megnevezését, illetve azt a szervezetet, amely várhatóan az út kezelője lesz,
 
-c)[^5] az építés feltételeit, a közműszolgáltatók esetleges kikötéseit, az útkezelő nyilatkozatát,
+c)[^7] az építés feltételeit, a közműszolgáltatók esetleges kikötéseit, az útkezelő nyilatkozatát,
 
 d) az engedély időbeli hatályát,
 
@@ -14,4 +14,4 @@ f) a műtárgy kiviteli terv jóváhagyására történő utalást.
 
 (2) Az építési engedély idegen ingatlan birtokbavételére nem jogosít, az építéssel összefüggésben támasztható polgári jogi igényt nem dönt el és nem mentesít egyéb engedély megszerzésének kötelezettsége alól.
 
-[^5]: A 13. § (1) bekezdés c) pontja a 337/2016. (XI. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: A 13. § (1) bekezdés c) pontja a 337/2016. (XI. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
