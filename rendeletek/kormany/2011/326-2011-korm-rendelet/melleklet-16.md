@@ -1,4 +1,4 @@
-## I.[^339] A járműkísérő lap tartalmi elemei
+## I.[^346] A járműkísérő lap tartalmi elemei
 
 ## H
 
@@ -134,13 +134,13 @@
 
 ## a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-## II.[^340] A járműkísérő lap kitöltésének szabályai
+## II.[^347] A járműkísérő lap kitöltésének szabályai
 
 ## I. Új jármű forgalomba helyezése előtt;
 
-## a)[^341] A járműimportőr:
+## a)[^348] A járműimportőr:
 
-## Az importőrnek – a XIII. kerületi Hivatal által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott Megfelelőségi nyilatkozattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
+## Az importőrnek – a XIII. Kerületi Hivatal által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott Megfelelőségi nyilatkozattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
 
 ## aa) D adatmező, (D.1.), (D.2.), a) pont az 5/1990. (IV. 12.) KöHÉM rendelet A. függelék A/2. számú melléklet I. Rész meghatározása alapján, B. függelék I. rész alapján, (D.3.),
 
@@ -188,6 +188,6 @@
 
 16. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-[^339]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
-[^340]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
-[^341]: A 15. melléklet II. rész I. pont a) alpontja a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés p) pontja szerint módosított szöveg.
+[^346]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
+[^347]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^348]: A 15. melléklet II. rész I. pont a) alpontja a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés p) pontja, a 60/2017. (III. 20.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.

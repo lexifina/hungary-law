@@ -1,12 +1,12 @@
-## 26/A. [^300] Mentességi nyilvántartásba vétel
+## 26/A. [^305] Mentességi nyilvántartásba vétel
 
-118/A. § (1)[^301] Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (a továbbiakban: Útdíj tv.), valamint az autópályák, autóutak és főutak használatának díjáról szóló 36/2007. (III. 26.) GKM rendelet (a továbbiakban: GKM rendelet) alapján részleges vagy teljes díjmentességre jogosultak (a továbbiakban: mentességre jogosult) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásába (a továbbiakban: mentességi nyilvántartás) felvenni kért járműveinek Kknyt. 9/C. § (1) bekezdésben meghatározott adatait, továbbá az ezzel kapcsolatos változásokat kérelemre a közlekedési igazgatási hatóság vagy a Nyilvántartó (a továbbiakban együtt: hatóság) jegyzi be a mentességi nyilvántartásba.
+118/A. § (1)[^306] Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (a továbbiakban: Útdíj tv.), valamint az autópályák, autóutak és főutak használatának díjáról szóló 36/2007. (III. 26.) GKM rendelet (a továbbiakban: GKM rendelet) alapján részleges vagy teljes díjmentességre jogosultak (a továbbiakban: mentességre jogosult) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásába (a továbbiakban: mentességi nyilvántartás) felvenni kért járműveinek Kknyt. 9/C. § (1) bekezdésben meghatározott adatait, továbbá az ezzel kapcsolatos változásokat kérelemre a közlekedési igazgatási hatóság vagy a Nyilvántartó (a továbbiakban együtt: hatóság) jegyzi be a mentességi nyilvántartásba.
 
 (2) A mentességre jogosult a kérelmében nyilatkozik a bejelentésben foglalt jogosultságot megalapozó tényekről, adatokról.
 
 (3) A hatóság a bejelentésben foglalt jogosultság fennállása esetén haladéktalanul gondoskodik az (1) bekezdésben meghatározott adatok mentességi nyilvántartásba vételéről.
 
-(4)[^302] A technikai feltételek fennállása esetén az Útdíj tv. 9. § (1) bekezdés a) pontjában, valamint a GKM rendelet 2. § (1) bekezdés a) pontjában meghatározott mentességre jogosult közvetlen hozzáféréssel a Nyilvántartó által biztosított felhasználói felületen keresztül jegyzi be az (1) bekezdésben meghatározott adatokat és azok változását.
+(4)[^307] A technikai feltételek fennállása esetén az Útdíj tv. 9. § (1) bekezdés a) pontjában, valamint a GKM rendelet 2. § (1) bekezdés a) pontjában meghatározott mentességre jogosult közvetlen hozzáféréssel a Nyilvántartó által biztosított felhasználói felületen keresztül jegyzi be az (1) bekezdésben meghatározott adatokat és azok változását.
 
 (5) A mentességi nyilvántartás adatai nem nyilvánosak azzal, hogy a közvetlen hozzáféréssel bejegyzésre jogosult szervek az általuk korábban bejelentett gépjárművek mentességi nyilvántartásban rögzített adatait térítésmentesen jogosultak megismerni.
 
@@ -16,9 +16,9 @@
 
 (8) Az (1) bekezdésben meghatározott adatokban bekövetkezett változást a jogosult 30 napon belül köteles bejelenteni.
 
-(9)[^303]
+(9)[^308]
 
-[^300]: A 26/A. alcímet (118/A. §) a 467/2015. (XII. 29.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^301]: A 118/A. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
-[^302]: A 118/A. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
-[^303]: A 118/A. § (9) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 477/2016. (XII. 27.) Korm. rendelet 57. § (10) bekezdés e) pontja.
+[^305]: A 26/A. alcímet (118/A. §) a 467/2015. (XII. 29.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^306]: A 118/A. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^307]: A 118/A. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^308]: A 118/A. § (9) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 477/2016. (XII. 27.) Korm. rendelet 57. § (10) bekezdés e) pontja.

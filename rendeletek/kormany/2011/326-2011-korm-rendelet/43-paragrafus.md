@@ -12,13 +12,13 @@ a) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság ál
 
 b) a kötelező gépjármű-felelősségbiztosítás meglétét tanúsító igazolást.
 
-(4)[^130] A jármű származásának ellenőrzése során a közlekedési igazgatási hatóság a (2) bekezdésben meghatározott okmány és okirat elektronikus másolatát elektronikus úton, az ellenőrzés elvégzéséhez szükséges adatok beszerzése céljából a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalának megküldi.
+(4)[^132] A jármű származásának ellenőrzése során a közlekedési igazgatási hatóság a (2) bekezdésben meghatározott okmány és okirat elektronikus másolatát elektronikus úton, az ellenőrzés elvégzéséhez szükséges adatok beszerzése céljából a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalának megküldi.
 
-(5)[^131] A közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala a származás-ellenőrzés elvégzése során a külföldi és nemzetközi körözési nyilvántartásokban és – a 42. § (4) bekezdésében meghatározott esetben, valamint ha a rendelkezésre álló adatok alapján a jármű származását illetően gyanús körülmények merülnek fel – a külföldi hatóság nyilvántartásaiban történő ellenőrzés alapján tisztázza a jármű származását, és ennek eredményéről hozott határozatát a közlekedési igazgatási hatóság részére elektronikus úton megküldi. A határozat a forgalomba helyezési eljárásban annak jogerőre emelkedéstől számított hat hónapig használható fel.
+(5)[^133] A közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala a származás-ellenőrzés elvégzése során a külföldi és nemzetközi körözési nyilvántartásokban és – a 42. § (4) bekezdésében meghatározott esetben, valamint ha a rendelkezésre álló adatok alapján a jármű származását illetően gyanús körülmények merülnek fel – a külföldi hatóság nyilvántartásaiban történő ellenőrzés alapján tisztázza a jármű származását, és ennek eredményéről hozott határozatát a közlekedési igazgatási hatóság részére elektronikus úton megküldi. A határozat a forgalomba helyezési eljárásban annak jogerőre emelkedéstől számított hat hónapig használható fel.
 
-(6)[^132] A közlekedési igazgatási hatóság a külföldi okmányokat és hatósági jelzéseket a forgalomba helyezés során bevonja és a keletkezett alapirattal a Nyilvántartónak megküldi, amely a 42. § (1) bekezdése szerint jár el.
+(6)[^134] A közlekedési igazgatási hatóság a külföldi okmányokat és hatósági jelzéseket a forgalomba helyezés során bevonja és a keletkezett alapirattal a Nyilvántartónak megküldi, amely a 42. § (1) bekezdése szerint jár el.
 
-(7)[^133] A származás-ellenőrzés során gyanúra okot adó körülmény különösen, ha:
+(7)[^135] A származás-ellenőrzés során gyanúra okot adó körülmény különösen, ha:
 
 a) a külföldi vagy a nemzetközi körözési nyilvántartásban a jármű vagy annak hatósági jelzése, okmányai körözés alatt állnak,
 
@@ -28,7 +28,7 @@ c) gyanú van arra, hogy a jármű rendszámtábláját, forgalmi engedélyét m
 
 d) a jármű forgalmi engedélybe bejegyzett alvázszáma a jármű típusára jellemzőtől eltérő karaktereket tartalmaz.
 
-[^130]: A 43. § (4) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^131]: A 43. § (5) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^132]: A 43. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
-[^133]: A 43. § (7) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^132]: A 43. § (4) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^133]: A 43. § (5) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^134]: A 43. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^135]: A 43. § (7) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 36. § (2) bekezdése iktatta be.
