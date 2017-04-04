@@ -1,6 +1,4 @@
-## 2. §[^5]
-
-(1)[^6] Az állampolgársági kérelem átvételekor a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala vezetője, a konzuli tisztviselő, az integrált ügyfélszolgálati iroda vezetője, továbbá az állampolgársági ügyekben eljáró szerv a kérelmező személyazonosságát és az Ápt. 4. § (3) és (3a) bekezdésére alapozott honosítási és a visszahonosítási kérelem esetében a magyar nyelvtudást ellenőrzi és ennek megtörténtét, illetve a kérelmező aláírásának hitelességét a kérelmen aláírásával igazolja.
+2. §[^5] (1)[^6] Az állampolgársági kérelem átvételekor a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala vezetője, a konzuli tisztviselő, az integrált ügyfélszolgálati iroda vezetője, továbbá az állampolgársági ügyekben eljáró szerv a kérelmező személyazonosságát és az Ápt. 4. § (3) és (3a) bekezdésére alapozott honosítási és a visszahonosítási kérelem esetében a magyar nyelvtudást ellenőrzi és ennek megtörténtét, illetve a kérelmező aláírásának hitelességét a kérelmen aláírásával igazolja.
 
 (2)[^7] Az állampolgársági kérelem átvételekor a hiányosságokra és az azok pótlásának elmulasztásából származó következményekre fel kell hívni a kérelmező figyelmét.
 

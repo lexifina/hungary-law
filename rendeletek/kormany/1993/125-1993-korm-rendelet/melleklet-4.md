@@ -136,7 +136,7 @@
 
 ## a kérelmet átvevő aláírása
 
-4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^87]
+4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^88]
 
 A köztársasági elnöknek
 
@@ -384,28 +384,4 @@ Kelt: ..........................................................................
 
 | .................................................................... korlátozottan cselekvőképes kérelmező aláírása | .................................................................... korlátozottan cselekvőképes kérelmező aláírása |
 
-Az aláírás hitelesítése:
-
-A korlátozottan cselekvőképes kérelmezőt meghallgattam.
-
-A kérelmező(k) aláírását hitelesítem.
-
-A kérelmező(k) a személyazonosság(uk)at ........................ számú, ...................................... típusú
-
-....................................-ig érvényes fényképes okmánnyal igazolta/igazolták.
-
-A kérelmező(ke)t tájékoztattam az alábbi hiányosságokról: .............................................................
-
-|  | .................................................................... a kérelmet átvevő aláírása |
-
-P. H.
-
-A tájékoztatást tudomásul vettem.
-
-Megjegyzéseim: .......................................................................................................................
-
-......................................................
-
-a kérelmező aláírása
-
-[^87]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^88]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.

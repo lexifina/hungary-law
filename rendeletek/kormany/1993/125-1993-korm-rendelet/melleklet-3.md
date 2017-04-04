@@ -150,6 +150,6 @@
 
 ## a kérelmet átvevő aláírása
 
-3. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^86]
+3. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^87]
 
-[^86]: A 3. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^87]: A 3. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

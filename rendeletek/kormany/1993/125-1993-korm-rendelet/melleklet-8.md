@@ -2,7 +2,7 @@
 
 ## A magyar állampolgárságról szóló 1993. évi LV. törvény (a továbbiakban: Ápt.) 4. § (1) bekezdés e) pontja értelmében a honosítását kérő cselekvőképes nagykorú személynek – a hivatkozott törvény 4/A. § (2) bekezdésében meghatározott kivételekkel – alkotmányos alapismeretekből magyar nyelven eredményes vizsgát kell tennie.
 
-## 1.[^92] Az Ápt. 4/A. § (1) bekezdése szerint a vizsgát a fővárosi kormányhivatalnál (a továbbiakban: hivatal) kell letenni, a hivatal vezetője által kijelölt vizsgabizottság előtt.
+## 1.[^93] Az Ápt. 4/A. § (1) bekezdése szerint a vizsgát az állampolgársági ügyekben eljáró szervnél (a továbbiakban: hivatal) kell letenni, a hivatal vezetője által kijelölt vizsgabizottság előtt.
 
 ## 2. A vizsga témakörei a következők:
 
@@ -16,7 +16,7 @@
 
 ## 2.5. A magyar irodalom meghatározó személyiségei
 
-## 2.6.[^93] Az Alaptörvény alapvető intézményei (Országgyűlés, köztársasági elnök, Kormány, az Alkotmánybíróság és az igazságszolgáltatás)
+## 2.6.[^94] Az Alaptörvény alapvető intézményei (Országgyűlés, köztársasági elnök, Kormány, az Alkotmánybíróság és az igazságszolgáltatás)
 
 ## 2.7. A közigazgatás felépítése (központi, területi, helyi szervek, önkormányzati igazgatás)
 
@@ -26,9 +26,9 @@
 
 ## 3. A vizsgára a jelentkezési lap (1. függelék) kitöltésével lehet jelentkezni. A jelentkezési lap nyomtatvány átadásakor a jelentkezőt tájékoztatni kell a vizsgakövetelményről és a vizsga díjáról.
 
-## 4.[^94]
+## 4.[^95]
 
-## 5.[^95] A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet (a továbbiakban: Vhr.) 13. § (6) bekezdésében meghatározott vizsgadíjat a hivatal számlájára kell befizetni. A jelentkezési laphoz mellékelni kell a vizsgadíj befizetését igazoló csekkszelvényt vagy átvételi elismervényt.
+## 5.[^96] A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet (a továbbiakban: Vhr.) 13. § (6) bekezdésében meghatározott vizsgadíjat a hivatal számlájára kell befizetni. A jelentkezési laphoz mellékelni kell a vizsgadíj befizetését igazoló csekkszelvényt vagy átvételi elismervényt.
 
 ## 6. A vizsga napját a hivatal munkarendjének megfelelően, a jelentkező igényeire is tekintettel kell megállapítani. A vizsga időpontjáról és helyéről a Jelentkezési lap átvételekor vagy legalább 15 nappal a vizsga előtt kell a jelentkezőt írásban értesíteni.
 
@@ -38,9 +38,9 @@
 
 ## 9. A vizsgabizottság mellett jegyzőkönyvvezető működik, aki vezeti a jegyzőkönyvet és elvégzi a vizsgával kapcsolatos egyéb adminisztratív teendőket.
 
-## 10.[^96] A vizsgára jelentkező, illetve a vizsgabizottság tagjai és a jegyzőkönyvvezető egyaránt bejelenthet összeférhetetlenségi okot vagy elfogultságot. A hivatal vezetője a bejelentést megvizsgálja, és a jelentkező vizsgáztatására más vizsgabizottságot jelölhet ki.
+## 10.[^97] A vizsgára jelentkező, illetve a vizsgabizottság tagjai és a jegyzőkönyvvezető egyaránt bejelenthet összeférhetetlenségi okot vagy elfogultságot. A hivatal vezetője a bejelentést megvizsgálja, és a jelentkező vizsgáztatására más vizsgabizottságot jelölhet ki.
 
-## 11.[^97]
+## 11.[^98]
 
 ## 12. A vizsga írásbeli és szóbeli részből áll. A vizsga írásbeli vagy szóbeli része alól a jelentkező testi fogyatékosságára tekintettel orvosi igazolás alapján adhat felmentést a vizsgabizottság elnöke. Az orvosi igazolást a jegyzőkönyvhöz mellékelni kell.
 
@@ -60,71 +60,61 @@
 
 ## 20. Az elveszett vagy megsemmisült igazolásról a vizsgázó kérelmére a hivatal a vizsganyilvántartó-könyv alapján igazolásmásolatot ad ki.
 
-## 1. függelék[^98]
+## 1. függelék[^99]
 
-## JELENTKEZÉSI LAP
+| JELENTKEZÉSI LAP |
 
-## alkotmányos alapismeretek vizsgára
+| alkotmányos alapismeretek vizsgára |
 
-## A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgára jelentkezem.
+| A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgára jelentkezem. |
 
-## Kérem a fővárosi kormányhivatalt, hogy az eredményes alkotmányos alapismeretek vizsgámról az állampolgársági ügyekben eljáró szervet értesítse.
+| Személyi adataim: |
 
-## Igen ◻ Nem ◻
+| Házassági név: |
 
-## Személyi adataim:
+| Születési családi név: ...................................................................... utónév: |
 
-## Házassági név:
+| Születési hely: .................................................. (város/község) .......................................... (ország, tartomány, szövetségi állam) |
 
-## Születési családi név: ............................................................................... utónév:
+| Születési idő: .................... év .................................................. hó .......... nap |
 
-## Születési hely: .............................................. (város/község) ........................................... (ország, tartomány, szövetségi állam)
+| Állampolgársága(i): |
 
-## Születési idő: ............................... év .................................................................................................................. hó ........... nap
+| Lakóhelye: ................................................ (város/község) ............................................................ utca .......... hsz. ..... em. ..... ajtó |
 
-## Állampolgársága(i):
+| Személyazonosító igazolványának/EGT tartózkodási engedélyének száma: |
 
-## Lakóhelye: .................................................. (város/község) ............................................... utca ........ hsz. ...... em. ...... ajtó
+| Családi neve: ................................................................................ utóneve: |
 
-## Személyazonosító igazolványának/EGT tartózkodási engedélyének száma:
+| Apja születési helye: ...................................................................... ideje: |
 
-## Családi neve: ................................................................................................ utóneve:
+| Apja állampolgársága: |
 
-## Apja születési helye: ................................................................................ ideje:
+| Apja volt-e magyar állampolgár: ........................................ mikortól meddig: |
 
-## Apja állampolgársága:
+| Anyja születési családi neve: ............................................................ utóneve: |
 
-## Apja volt-e magyar állampolgár: ........................................................ mikortól meddig:
+| Anyja születési helye: ................................................................................ ideje: |
 
-## Anyja születési családi neve: ................................................................ utóneve:
+| Anyja állampolgársága: |
 
-## Anyja születési helye: .............................................................................. ideje:
+| Anyja volt-e magyar állampolgár: ...................................... mikortól meddig: |
 
-## Anyja állampolgársága:
+| Tudomásul veszem, hogy a vizsgáért a kötelező legkisebb munkabér (minimálbér) 50%-át kell befizetnem az állampolgársági ügyekben eljáró szerv számlájára. |
 
-## Anyja volt-e magyar állampolgár: ..................................................... mikortól meddig:
+| Kelt: ...................................................................... |
 
-## Tudomásul veszem, hogy a vizsgáért a kötelező legkisebb munkabér (minimálbér) 50%-át kell befizetnem a fővárosi kormányhivatal számlájára.
+| ...................................................................... kérelmező |
 
-## Kelt: ........................................................................
+| A vizsga időpontjaként .................... év .................................................. hó .......... napját jelölöm ki. |
 
-## ...................................................
+| .................................................................................................... az állampolgársági ügyekben eljáró szerv vezetője |
 
-## kérelmező
+| A tájékoztatást tudomásul vettem. |
 
-## A vizsga időpontjaként ................. év ........................................ hó ........... napját jelölöm ki.
+| ...................................................................... kérelmező |
 
-## ..................................................................................
-
-## fővárosi kormányhivatal vezetője
-
-## A tájékoztatást tudomásul vettem.
-
-## ...................................................
-
-## kérelmező
-
-## 2. függelék[^99]
+## 2. függelék[^100]
 
 ## Ügyszám: .....................................
 
@@ -132,7 +122,7 @@
 
 ## alkotmányos alapismeretek vizsgáról
 
-## Készült a ............................ (a fővárosi kormányhivatal megjelölése)-ban .......... év ......................... hó ........ napján a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgáról.
+## Készült a ............................ (az állampolgársági ügyekben eljáró szerv megjelölése)-ban .......... év ......................... hó ........ napján a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgáról.
 
 ## A vizsgázó
 
@@ -180,14 +170,14 @@
 
 | neve | szül. helye, ideje, anyja neve | lakóhelye |
 
-8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^100]
+8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^101]
 
-[^92]: A 7. számú melléklet 1. pontja a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdésével megállapított szöveg.
-[^93]: A 7. számú melléklet 2.6. pontja a 276/2011. (XII. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
-[^94]: A 7. számú melléklet 4. pontját a 379/2016. (XII. 2.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
-[^95]: A 7. számú melléklet 5. pontja a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése szerint módosított szöveg.
-[^96]: A 7. számú melléklet 10. pontja a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése szerint módosított szöveg.
-[^97]: A 7. számú melléklet 11. pontját a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése hatályon kívül helyezte.
-[^98]: A 7. számú melléklet 1. függeléke a 174/2012. (VII. 26.) Korm. rendelet 4. § f) pontja, a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése szerint módosított szöveg.
-[^99]: A 7. számú melléklet 2. függeléke a 234/2010. (VIII. 31.) Korm. rendelet 23. § (6) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 4. § g) pontja, a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése szerint módosított szöveg.
-[^100]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 417/2012. (XII. 29.) Korm. rendelet 10. § (2) bekezdés d) pontja.
+[^93]: A 7. számú melléklet 1. pontja a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdésével megállapított, a 60/2017. (III. 20.) Korm. rendelet 2. § g) pontja szerint módosított szöveg.
+[^94]: A 7. számú melléklet 2.6. pontja a 276/2011. (XII. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^95]: A 7. számú melléklet 4. pontját a 379/2016. (XII. 2.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^96]: A 7. számú melléklet 5. pontja a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése szerint módosított szöveg.
+[^97]: A 7. számú melléklet 10. pontja a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése szerint módosított szöveg.
+[^98]: A 7. számú melléklet 11. pontját a 417/2012. (XII. 29.) Korm. rendelet 8. § (7) bekezdése hatályon kívül helyezte.
+[^99]: A 7. számú melléklet 1. függeléke a 60/2017. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^100]: A 7. számú melléklet 2. függeléke a 60/2017. (III. 20.) Korm. rendelet 2. § h) pontja szerint módosított szöveg.
+[^101]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 417/2012. (XII. 29.) Korm. rendelet 10. § (2) bekezdés d) pontja.

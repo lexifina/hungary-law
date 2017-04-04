@@ -728,12 +728,6 @@
 
 | ◻ házastárs | igen ◻ | nem ◻ |
 
-## 5. Kijelentem/kijelentjük, hogy kértem/kértük a fővárosi kormányhivatalt, hogy az alkotmányos alapismeretekből tett sikeres vizsgáról az állampolgársági ügyekben eljáró szervet értesítse, és emiatt az alkotmányos alapismeretekből tett sikeres vizsgáról szóló igazolást nem csatolom/csatoljuk.
-
-| ◻ kérelmező | igen ◻ | nem ◻ |
-
-| ◻ házastárs | igen ◻ | nem ◻ |
-
 | Kelt: .................................................................................... |
 
 | .......................................................................... kérelmező aláírása | .......................................................................... házastárs aláírása |
@@ -788,6 +782,6 @@
 
 ## kérelmező aláírása
 
-2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^85]
+2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^86]
 
-[^85]: A 2. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^86]: A 2. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

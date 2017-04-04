@@ -1,8 +1,6 @@
 ## A honosítási és visszahonosítási kérelem
 
-## 3. §[^9]
-
-(1)[^10] Az állampolgársági ügyekben eljáró szerv a kérelemben feltüntetett adatokat a következő nyilvántartásokban ellenőrzi:
+3. §[^9] (1)[^10] Az állampolgársági ügyekben eljáró szerv a kérelemben feltüntetett adatokat a következő nyilvántartásokban ellenőrzi:
 
 a)[^11] a magyarországi lakcímet, valamint a tartózkodás időtartamát és jogcímét a személyiadat- és lakcímnyilvántartásban, valamint az idegenrendészeti nyilvántartásban vagy a menekültügyi nyilvántartásban;
 
@@ -20,7 +18,7 @@ b)[^12] a magyarországi büntetlen előéletet és azt a tényt, hogy a kérelm
 
 (5b)[^18] Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor a kérelmezőnek az Ápt. 4. § (3a) bekezdés a) pont ab) alpontjában meghatározott feltételnek való megfelelését a közös gyermek születési anyakönyvi kivonatával kell igazolni.
 
-(6)[^19] Az Ápt. 4. § (1), (2) és (4) bekezdésére alapozott honosítási kérelemhez mellékelni kell az alkotmányos alapismeretekből tett sikeres vizsgáról szóló igazolást, vagy az Ápt. 4/A. § (2) bekezdésében meghatározott ok fennállásának igazolására
+(6)[^19] Az Ápt. 4. § (1), (2) és (4) bekezdésére alapozott honosítási kérelemhez az Ápt. 4/A. § (2) bekezdésében meghatározott ok esetén mellékelni kell
 
 a) a cselekvőképtelen kiskorú születési anyakönyvi kivonatát;
 
@@ -36,7 +34,7 @@ d) a nevelési-oktatási vagy felsőoktatási intézményben szerzett végzetts�
 
 e) a betegség jellege szerint illetékes egészségügyi szolgáltató igazolását az egészségi állapotról.
 
-(6a)[^20] Nem kell mellékelni a (6) bekezdés szerinti igazolást, ha a kérelmező nyilatkozik arról, hogy kérte a fővárosi kormányhivatalt, hogy az alkotmányos alapismeretekből tett sikeres vizsgáról az állampolgársági ügyekben eljáró szervet értesítse.
+(6a)[^20]
 
 (6b)[^21] Az Ápt. 4/A. § (2) bekezdése b) pontjának alkalmazása során magyar tannyelvűnek kell tekinteni a részben magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményt is, ha a kérelmező magyar nyelvi tagozatú osztályban szerzett végzettséget.
 
@@ -64,8 +62,8 @@ b)[^27] azt a szülője, nagyszülője, gyermeke, unokája, testvére, testvére
 [^16]: A 3. § (5) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^17]: A 3. § (5a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^18]: A 3. § (5b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^19]: A 3. § (6) bekezdése az 56/2014. (III. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^20]: A 3. § (6a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^19]: A 3. § (6) bekezdése az 56/2014. (III. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 60/2017. (III. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^20]: A 3. § (6a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 60/2017. (III. 20.) Korm. rendelet 3. § a) pontja.
 [^21]: A 3. § (6b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^22]: A 3. § (7) bekezdése a 414/2015. (XII. 23.) Korm. rendelet 69. § (1) bekezdésével megállapított szöveg.
 [^23]: A 3. § (8) bekezdését a 224/2010. (VIII. 4.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
