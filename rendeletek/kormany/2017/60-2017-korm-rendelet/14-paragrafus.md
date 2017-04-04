@@ -1,0 +1,1 @@
+## 13. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet [a továbbiakban: 63/2006. (III. 27.) Korm. rendelet] 38. § (1) bekezdésében a „közölni kell” szövegrész helyébe az „elektronikus levél útján vagy egyéb elektronikus úton közölni kell” szöveg lép.
