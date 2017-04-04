@@ -1,0 +1,9 @@
+# 50/2017. (III. 20.) Korm. rendelet
+
+az Európai Globalizációs Alkalmazkodási Alapból származó támogatásokról, valamint a támogatások igénylésével és felhasználásával kapcsolatos szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-50-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-04-04 | 2017-50-20-22.1 | 50/2017. (III. 20.) Korm. rendelet |
