@@ -38,7 +38,7 @@ b) az (1) bekezdés h) pontja szerinti közreműködő egészségügyi szolgált
 
 c) az egészségügyi szolgáltatáshoz szükséges tárgyi feltételek – ideértve az ingatlant is – használatának jogcímét igazoló iratot;
 
-d)[^44] az egészségügyi szolgáltató e tevékenysége során okozott kár megtérítésére, illetve sérelemdíj megfizetésére vonatkozó hatályos felelősségbiztosítási szerződése és kötvénye másolatát;
+d)[^44] az egészségügyi szolgáltató e tevékenysége során okozott kár megtérítésére, illetve sérelemdíj megfizetésére vonatkozó hatályos felelősségbiztosítási kötvénye másolatát vagy a biztosítási ajánlatot és a befizetett díjról szóló igazolást;
 
 e) az egészségügyi szakma (szakmák) ellátásához szükséges tárgyi feltételek – ideértve a progresszivitási szinthez kapcsolódó feltételeket is – meglétére vonatkozó nyilatkozatot;
 
@@ -69,7 +69,7 @@ cb) a működési nyilvántartási ciklus megújításának és lejártának id�
 [^41]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
 [^42]: A 8. § (1) bekezdés m) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
 [^43]: A 8. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^44]: A 8. § (4) bekezdés d) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^44]: A 8. § (4) bekezdés d) pontja a 60/2017. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^45]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^46]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
 [^47]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
