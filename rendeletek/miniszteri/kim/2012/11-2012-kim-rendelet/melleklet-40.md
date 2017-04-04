@@ -1,4 +1,4 @@
-40. melléklet a 11/2012. (II. 29.) KIM rendelethez[^71]
+40. melléklet a 11/2012. (II. 29.) KIM rendelethez[^77]
 
 ## Az űrlapok kitöltését segítő kódtárak
 
@@ -52,7 +52,7 @@
 
 1.12.1. kód: 1200.
 
-1.13. jogvédő tevékenység (pl. állampolgári jogok védelme, fogyasztói jogvédelem, kisebbségvédelem)
+1.13.[^78] egyéb érdekérvényesítő tevékenység (pl. alapjogok védelme, fogyasztóvédelem, jogvédelem, politikai érdekérvényesítés)
 
 1.13.1. kód: 1300.
 
@@ -80,6 +80,10 @@
 
 1.19.1. kód: 1900.
 
+1.20.[^79] lobbitevékenység
+
+1.20.1. kód: 2000.
+
 2. Az egyesület formája:
 
 2.1. egyesület
@@ -98,4 +102,6 @@
 
 2.8. egyéb, törvényben meghatározott egyesületi forma
 
-[^71]: A 40. melléklet a 15. § (2) bekezdésével megállapított szöveg.
+[^77]: A 40. melléklet a 15. § (2) bekezdésével megállapított szöveg.
+[^78]: A 40. melléklet 1.13. pontja a 3/2017. (IV. 3.) IM rendelet 3. §-ával megállapított szöveg.
+[^79]: A 40. melléklet 1.20. pontját a 3/2017. (IV. 3.) IM rendelet 3. §-a iktatta be.

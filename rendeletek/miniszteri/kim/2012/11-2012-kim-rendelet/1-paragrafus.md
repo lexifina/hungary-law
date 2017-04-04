@@ -80,32 +80,29 @@
 
 39. 40. melléklet 1. pontjában meghatározott kódtárból kell az alapítvány és az egyesület – létesítő okiratban meghatározott céljával összhangban álló – célja szerinti besorolását megadni,
 
-40. 41. mellékletében meghatározott adattartalommal rendszeresített elektronikus űrlapon kell előterjeszteni az egyesület egyszerűsített nyilvántartásba vétel iránti kérelemhez csatolandó alapszabályt,
+40–42.[^4]
 
-41. 42. mellékletében meghatározott adattartalommal rendszeresített elektronikus űrlapon kell előterjeszteni az alapítvány egyszerűsített nyilvántartásba vétel iránti kérelemhez csatolandó alapító okiratot,
+43.[^5] 36/A. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek egyesülésének bejegyzése iránti elektronikus kérelmet,
 
-42. 43. mellékletében meghatározott adattartalommal rendszeresített elektronikus űrlapon kell előterjeszteni az egyszerűsített nyilvántartásba vétel iránti kérelemhez csatolandó formalizált mellékleteket,
+44.[^6] 36/B. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek szétválásának bejegyzése iránti elektronikus kérelmet,
 
-43.[^4] 36/A. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek egyesülésének bejegyzése iránti elektronikus kérelmet,
+45.[^7] 36/C. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet,
 
-44.[^5] 36/B. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek szétválásának bejegyzése iránti elektronikus kérelmet,
+46.[^8] 36/D. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok egyesülésének bejegyzése iránti elektronikus kérelmet,
 
-45.[^6] 36/C. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet,
+47.[^9] 36/E. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok szétválásának bejegyzése iránti elektronikus kérelmet,
 
-46.[^7] 36/D. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok egyesülésének bejegyzése iránti elektronikus kérelmet,
-
-47.[^8] 36/E. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok szétválásának bejegyzése iránti elektronikus kérelmet,
-
-48.[^9] 36/F. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet.
+48.[^10] 36/F. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet.
 
 (2) Az (1) bekezdésben foglalt űrlapok és a 40. mellékletben meghatározott kitöltést segítő kódtárak rendszeresítése az Országos Bírósági Hivatal (a továbbiakban: OBH) feladata.
 
 [^1]: Az 1. § (1) bekezdés 11. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
 [^2]: Az 1. § (1) bekezdés 23. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
 [^3]: Az 1. § (1) bekezdés 35. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
-[^4]: Az 1. § (1) bekezdés 43. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
-[^5]: Az 1. § (1) bekezdés 44. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
-[^6]: Az 1. § (1) bekezdés 45. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (1) bekezdés 46. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
-[^8]: Az 1. § (1) bekezdés 47. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
-[^9]: Az 1. § (1) bekezdés 48. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (1) bekezdés 40–42. pontját a 3/2017. (IV. 3.) IM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (1) bekezdés 43. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (1) bekezdés 44. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (1) bekezdés 45. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (1) bekezdés 46. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (1) bekezdés 47. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^10]: Az 1. § (1) bekezdés 48. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.

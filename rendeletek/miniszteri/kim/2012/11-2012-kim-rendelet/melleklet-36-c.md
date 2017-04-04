@@ -1,4 +1,4 @@
-36/C. melléklet a 11/2012. (II. 29.) KIM rendelethez[^66]
+36/C. melléklet a 11/2012. (II. 29.) KIM rendelethez[^72]
 
 ## Az egyesületek beolvadásos szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalma
 
@@ -70,4 +70,4 @@
 
 13.3. az űrlap kitöltésének módja
 
-[^66]: A 36/C. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^72]: A 36/C. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.

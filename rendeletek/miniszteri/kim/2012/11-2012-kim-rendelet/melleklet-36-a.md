@@ -1,4 +1,4 @@
-36/A. melléklet a 11/2012. (II. 29.) KIM rendelethez[^64]
+36/A. melléklet a 11/2012. (II. 29.) KIM rendelethez[^70]
 
 ## Az egyesületek egyesülésének bejegyzése iránti kérelem elektronikus űrlapjának adattartalma
 
@@ -70,4 +70,4 @@
 
 13.3. az űrlap kitöltésének módja
 
-[^64]: A 36/A. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^70]: A 36/A. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.

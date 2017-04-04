@@ -30,7 +30,7 @@
 
 4.3. személyének típusa
 
-5.[^70] Nyilatkozat arról, hogy a létesítő okirat tartalmazza-e az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben előírt rendelkezéseket.
+5.[^76] Nyilatkozat arról, hogy a létesítő okirat tartalmazza-e az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben előírt rendelkezéseket.
 
 6. Annak jelölése, ha a közhasznú jogállás nyilvántartásba vétele iránti kérelemmel egyidejűleg változásbejegyzési űrlap került benyújtásra.
 
@@ -46,4 +46,4 @@
 
 9.3. az űrlap kitöltésének módja
 
-[^70]: A 37. melléklet 5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés e) pontja szerint módosított szöveg.
+[^76]: A 37. melléklet 5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés e) pontja szerint módosított szöveg.

@@ -8,19 +8,19 @@ a) az egyesület nyilvántartásba vételi, változásbejegyzési és törlési,
 
 b) az alapítvány nyilvántartásba vételi, változásbejegyzési és törlési,
 
-c) a párt nyilvántartásba vételi, változásbejegyzési és törlési,
+c)[^15]
 
 d) a vegyes nyugdíjpénztár nyilvántartásba vételi, változásbejegyzési és törlési,
 
 e) a Munkavállalói Résztulajdonosi Program szervezet nyilvántartásba vételi, változásbejegyzési és törlési,
 
-f)[^13]
+f)[^16]
 
-g) a közhasznú jogállás nyilvántartásba vétele iránti,
+g)[^17]
 
-h)[^14] az egyesületek egyesülésének, szétválásának, beolvadásos különválásának és beolvadásos kiválásának bejegyzése iránti,
+h)[^18] az egyesületek egyesülésének, szétválásának, beolvadásos különválásának és beolvadásos kiválásának bejegyzése iránti,
 
-i)[^15] az alapítványok egyesülésének, szétválásának, beolvadásos különválásának és beolvadásos kiválásának bejegyzése iránti
+i)[^19] az alapítványok egyesülésének, szétválásának, beolvadásos különválásának és beolvadásos kiválásának bejegyzése iránti
 
 ## kérelem előterjesztésére.
 
@@ -30,6 +30,8 @@ i)[^15] az alapítványok egyesülésének, szétválásának, beolvadásos kül
 
 (5) A papír alapú űrlapot úgy kell kialakítani, hogy az ne tartalmazzon mezőt a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 34. §-ában meghatározott kérelem előterjesztésére.
 
-[^13]: A 8. § (2) bekezdés f) pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés b) pontja alapján nem lép hatályba.
-[^14]: A 8. § (2) bekezdés h) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (2) bekezdése iktatta be.
-[^15]: A 8. § (2) bekezdés i) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (2) bekezdése iktatta be.
+[^15]: A 8. § (2) bekezdés c) pontját a 3/2017. (IV. 3.) IM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^16]: A 8. § (2) bekezdés f) pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés b) pontja alapján nem lép hatályba.
+[^17]: A 8. § (2) bekezdés g) pontját a 3/2017. (IV. 3.) IM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^18]: A 8. § (2) bekezdés h) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (2) bekezdése iktatta be.
+[^19]: A 8. § (2) bekezdés i) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (2) bekezdése iktatta be.

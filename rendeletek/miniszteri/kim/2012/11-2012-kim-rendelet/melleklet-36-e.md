@@ -1,4 +1,4 @@
-36/E. melléklet a 11/2012. (II. 29.) KIM rendelethez[^68]
+36/E. melléklet a 11/2012. (II. 29.) KIM rendelethez[^74]
 
 ## Az alapítványok szétválásának bejegyzése iránti kérelem elektronikus űrlapjának adattartalma
 
@@ -20,4 +20,4 @@
 
 3.4. alapítvány képviselőjének neve
 
-[^68]: A 36/E. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^74]: A 36/E. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
