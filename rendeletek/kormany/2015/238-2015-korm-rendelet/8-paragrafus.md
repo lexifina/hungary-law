@@ -8,4 +8,8 @@ c) hitelesítési tevékenységre kijelölt szervezet: a Széchenyi Programiroda
 
 d) a program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója: a miniszter és
 
-e) információs pont: a Széchenyi Programiroda.
+e) információs pont: a Széchenyi Programiroda,
+
+f)[^2] a közös titkárság magyar tagja: a Széchenyi Programiroda.
+
+[^2]: A 8. § f) pontját a 77/2017. (IV. 3.) Korm. rendelet 1. §-a iktatta be.
