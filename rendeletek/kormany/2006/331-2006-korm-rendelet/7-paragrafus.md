@@ -16,9 +16,10 @@ d) dönt a felek közös kérelme alapján az örökbefogadás felbontásáról,
 
 e) pert indíthat, illetve kezdeményezhet a gyermek örökbefogadásának felbontása iránt,
 
-f) kérelemre felvilágosítást adhat a vér szerinti szülő adatairól.
+f)[^48] kérelemre felvilágosítást adhat a Ptk. 4:135. § (1) bekezdése és 4:136. §-a szerinti adatokról.
 
 [^44]: A 7. § a 174/2012. (VII. 26.) Korm. rendelet – a 296/2012. (X. 17.) Korm. rendelet 64. § (4) bekezdésével megállapított – 42. § (6) bekezdésével megállapított szöveg.
 [^45]: A 7. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^46]: A 7. § (2) bekezdés nyitó szövegrésze a 97/2013. (III. 29.) Korm. rendelet 70. §-ával megállapított, a 353/2014. (XII. 29.) Korm. rendelet 53. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés b) pontja és (7) bekezdés a) pontja szerint módosított szöveg.
 [^47]: A 7. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 90. §-ával megállapított szöveg.
+[^48]: A 7. § (2) bekezdés f) pontja a 60/2017. (III. 20.) Korm. rendelet 15. §-ával megállapított szöveg.

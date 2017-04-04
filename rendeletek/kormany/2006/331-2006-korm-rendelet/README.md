@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2016-07-01 | 2006-331-20-22.30 | 173/2009. (VIII. 29.) Korm. rendelet |
 | 2017-01-01 | 2006-331-20-22.31 | 448/2016. (XII. 19.) Korm. rendelet |
 | 2017-03-31 | 2006-331-20-22.32 | 70/2017. (III. 31.) Korm. rendelet |
+| 2017-04-04 | 2006-331-20-22.33 | 60/2017. (III. 20.) Korm. rendelet |
