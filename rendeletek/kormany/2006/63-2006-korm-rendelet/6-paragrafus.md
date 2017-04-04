@@ -1,6 +1,6 @@
 ## 5/A. §[^23] Az Szt. 18/B. §-ában meghatározott országos nyilvántartásba rögzítendő, az Szt. 18/B. § (1) bekezdésében meghatározott ellátásokról hozott döntésnek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 72. §-ában meghatározottakon kívül tartalmaznia kell az ügy elbírálási azonosítóját is.
 
-6. § (1)[^24] A megállapított pénzbeli és természetbeni szociális ellátások folyósításáról – a (2) és a (2a) bekezdésben meghatározott kivétellel – a települési, a fővárosban a fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző) gondoskodik.
+6. § (1)[^24] A megállapított pénzbeli és természetbeni szociális ellátások folyósításáról – a (2) bekezdésben meghatározott kivétellel – a települési, a fővárosban a fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző) gondoskodik.
 
 (2)[^25] Az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, az egészségkárosodási és gyermekfelügyeleti támogatás, valamint az ápolási díj folyósításáról a fővárosi és megyei kormányhivatal gondoskodik. Ha arra a fővárosi és megyei kormányhivatalban lehetőség van, hajléktalan személyek esetében a folyósítás a kormányhivatal házipénztára útján is történhet.
 
@@ -17,7 +17,7 @@
 (6)[^31]
 
 [^23]: Az 5/A. §-t a 392/2013. (XI. 12.) Korm. rendelet 10. §-a iktatta be.
-[^24]: A 6. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 17. § (2) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^24]: A 6. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 17. § (2) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés b), a 60/2017. (III. 20.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^25]: A 6. § (2) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 8. § (1) beekzdésével megállapított szöveg.
 [^26]: A 6. § (2a) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 440/2016. (XII. 16.) Korm. rendelet 10. § a) pontja.
 [^27]: A 6. § (2b) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § b) pontja.
