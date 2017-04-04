@@ -1,4 +1,4 @@
-## 34/A. §[^6]
+## 34/A. §[^9]
 
 ## 22. Iratok közzététele, a nyilvántartással összefüggő egyéb szabályok
 
@@ -8,4 +8,4 @@
 
 (3) Az informatikai rendszert úgy kell kialakítani, hogy ahol a Cnytv. a nyilvántartás vezetése során egyéb adat nyilvántartását rendeli, ott ez az adat szövegesen feltüntetésre kerülhessen.
 
-[^6]: A 34/A. §-t a 20/2014. (XII. 23.) IM rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte a 49. §.
+[^9]: A 34/A. §-t a 20/2014. (XII. 23.) IM rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte a 49. §.
