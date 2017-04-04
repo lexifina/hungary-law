@@ -244,9 +244,7 @@
 
 ## I. besorolási osztályban:
 
-## a) felsőoktatásban szerzett igazgatásszervező, közigazgatás-szervező szakképzettség és anyakönyvi szakvizsga; vagy
-
-## b) felsőoktatásban szerzett közszolgálati szakképzettség, valamint az állam- és jogtudományi képzési területen szerzett szakképzettség és anyakönyvi szakvizsga.
+## felsőoktatásban szerzett szakképzettség és anyakönyvi szakvizsga.
 
 ## II. besorolási osztályban:
 
