@@ -4,11 +4,11 @@
 
 (1b)[^8] A közlekedésrendészetért felelős miniszter szakmai ellenőrzést gyakorol a parkolási igazolványok kiadásával kapcsolatos feladatok ellátása felett.
 
-(2)[^9] Az igazolvány kiadására irányuló eljárás kérelemre indul. A kérelemnek a 2. számú mellékletben meghatározott adatokat kell tartalmaznia. A kérelemhez mellékelni kell az 1. számú mellékletben meghatározott szakvéleményt vagy szakhatósági állásfoglalást. Ha az ügyfél nem személyesen vagy nem az (1) bekezdés szerinti hatóságnál nyújtja be kérelmét, egy darab igazolványképet is mellékelnie kell a kérelméhez.
+(2)[^9] Az igazolvány kiadására irányuló eljárás kérelemre indul. A kérelemnek a 2. számú mellékletben meghatározott adatokat kell tartalmaznia. A kérelemhez mellékelni kell az 1. számú mellékletben meghatározott valamely iratot. Ha az ügyfél nem személyesen vagy nem az (1) bekezdés szerinti hatóságnál nyújtja be kérelmét, egy darab igazolványképet is mellékelnie kell a kérelméhez.
 
-(2a)[^10] Az igazolvány kiadására irányuló eljárás ügyintézési határideje – ide nem értve az esetlegesen szükséges szakértői vagy szakhatósági állásfoglalás kialakításának idejét – 15 nap.
+(2a)[^10] Az igazolvány kiadására irányuló eljárás ügyintézési határideje – ide nem értve az esetlegesen szükséges (3) bekezdés szerinti szakkérdés vizsgálatának idejét – 15 nap.
 
-(3)[^11] Ha a kérelem benyújtásakor az 1. számú melléklet szerinti szakvélemény, szakhatósági állásfoglalás nem áll rendelkezésre, a kérelemhez mellékelni kell a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat. Ebben az esetben a járási hivatal a közlekedőképességet szakkérdésként vizsgálja. A közlekedőképesség vizsgálatára egyebekben a Kr. szabályait kell alkalmazni.
+(3)[^11] Ha a kérelem benyújtásakor az 1. számú melléklet szerinti irat nem áll rendelkezésre, a kérelemhez mellékelni kell a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat. Ebben az esetben a járási hivatal a közlekedőképességet szakkérdésként vizsgálja. A közlekedőképesség vizsgálatára egyebekben a Kr. szabályait kell alkalmazni.
 
 (4)[^12] Az igazolvány kiadására irányuló kérelem a lakóhely vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzőjénél is előterjeszthető, aki azt megvizsgálja, és az ügyfelet szükség esetén hiánypótlásra szólítja fel. Ezt követően a kérelmet haladéktalanul megküldi a jogosult lakóhelye szerint illetékes járási hivatalnak.
 
@@ -23,9 +23,9 @@
 [^6]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be.
 [^8]: A 3. § (1b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be.
-[^9]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: A 3. § (2a) bekezdését a 20/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^11]: A 3. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte, újonnan a 61/2012. (III. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 50. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^9]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (1) bekezdésével megállapított, a 60/2017. (III. 20.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (2a) bekezdését a 20/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^11]: A 3. § (3) bekezdését újonnan a 61/2012. (III. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 50. §-ával megállapított, a 60/2017. (III. 20.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
 [^12]: A 3. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (2) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^13]: A 3. § (5) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 27. § (3) bekezdése hatályon kívül helyezte.
 [^14]: A 3. § (6) bekezdése a 20/2013. (I. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 59. § (2) bekezdése szerint módosított szöveg.

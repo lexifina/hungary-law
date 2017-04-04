@@ -8,6 +8,6 @@ c) akit a vakok személyi járadékának bevezetéséről szóló 1032/1971. (VI
 
 d)[^4] aki a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 1. számú melléklete szerint vaknak vagy gyengénlátónak (K betűjel, 1 számjel), mozgásszervi fogyatékosnak („L” betűjel), értelmi fogyatékosnak („M” betűjel) vagy autistának (N betűjel, 1 számjel) minősül
 
-[^2]: A 2. § záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 313. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 2. § záró szövegrésze a 60/2017. (III. 20.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § a) pontját a 102/2011. (VI. 29.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte, újonnan a 61/2012. (III. 30.) Korm. rendelet 3. §-a iktatta be.
 [^4]: A 2. § d) pontja a 66/2016. (III. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.

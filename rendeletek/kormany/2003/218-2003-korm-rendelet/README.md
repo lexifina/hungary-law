@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-218-20-
 | 2016-01-01 | 2003-218-20-22.18 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2016-04-01 | 2003-218-20-22.19 | 66/2016. (III. 31.) Korm. rendelet |
 | 2017-01-01 | 2003-218-20-22.20 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-04-04 | 2003-218-20-22.21 | 182/2009. (IX. 10.) Korm. rendelet |

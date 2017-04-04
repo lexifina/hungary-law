@@ -1,4 +1,4 @@
-2. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^54]
+2. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^55]
 
 ## Kérelem a mozgásában korlátozott személy parkolási igazolványának kiadására
 
@@ -22,7 +22,7 @@
 
 1. Az igazolvány első alkalommal történő igénylése esetén kitöltendő
 
-A kérelemhez mellékelem a mozgásában korlátozott személy parkolási igazolványáról szóló Korm. rendelet 1. számú mellékletében meghatározott szakvéleményt vagy szakhatósági állásfoglalást.
+A kérelemhez mellékelem a mozgásában korlátozott személy parkolási igazolványáról szóló Korm. rendelet 1. számú mellékletében meghatározott iratot.
 
 Tudomásul veszem, hogy amennyiben a közölt adatokban változás következik be, a parkolási igazolványt kiállító hatóság részére az adatváltozást 15 napon belül bejelentem.
 
@@ -48,7 +48,7 @@ Az igazolvány kiállítását/meghosszabbítását az alábbi ok miatt kérem: 
 
 – az igazolványon feltüntetett adatok megváltoztak.
 
-A kérelemhez – amennyiben a korábban mellékelt szakvélemény vagy szakhatósági állásfoglalás hatálya lejárt – mellékelem a mozgásában korlátozott személy parkolási igazolványáról szóló Korm. rendelet 1. számú mellékletében meghatározott szakvéleményt vagy szakhatósági állásfoglalást.
+A kérelemhez – amennyiben a korábban mellékelt irat hatálya lejárt – mellékelem a mozgásában korlátozott személy parkolási igazolványáról szóló Korm. rendelet 1. számú mellékletében meghatározott iratot.
 
 Tudomásul veszem, hogy amennyiben a közölt adatokban változás következik be, a parkolási igazolványt kiállító hatóság részére az adatváltozást 15 napon belül bejelentem.
 
@@ -74,4 +74,4 @@ Kijelentem, hogy az igazolványt a mozgásában korlátozott személy parkolási
 
 | aláírása | aláírása |
 
-[^54]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 312. § (9) bekezdése és 313. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 312. § (9) bekezdése és 313. §-a, a 60/2017. (III. 20.) Korm. rendelet 12. § j)–k) pontja szerint módosított szöveg.

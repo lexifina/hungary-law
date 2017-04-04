@@ -1,4 +1,4 @@
-## és ezt az 1. számú mellékletben meghatározott szakvélemények vagy szakhatósági állásfoglalások valamelyikével igazolja.
+## és ezt az 1. számú mellékletben meghatározott iratok valamelyikével igazolja.
 
 2/A. §[^5] (1) A 2. §-ban meghatározott mozgásában korlátozott személyen kívül igazolványra az a működési engedéllyel rendelkező intézmény jogosult, amely
 
