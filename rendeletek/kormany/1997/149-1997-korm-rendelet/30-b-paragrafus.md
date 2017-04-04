@@ -1,34 +1,21 @@
-30/B. §[^118] (1) Ha a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek a 29/A. § (1) bekezdésében felsorolt kérdésekben nem tudnak egyezségre jutni, vagy a kapcsolattartás végrehajtása során keletkezik vita a felek között, a gyámhivatal
+30/B. §[^118] (1) A gyámhivatal tájékoztatja a feleket a közvetítői eljárás igénybevételének a lehetőségéről, az eljárás szabályairól és költségeiről, valamint szükséges esetben segítséget nyújt a közvetítő kiválasztásában.
 
-a) tájékoztatja a feleket a közvetítői eljárás igénybevételének a lehetőségéről, vagy
+(2) A felek szabadon döntenek és döntésüknek megfelelően a gyámhivatal előtt nyilatkoznak arról, hogy
 
-b) a gyermek érdekében hivatalból, a Ptk. 4:177. §-a alapján kötelező gyermekvédelmi közvetítői eljárás vagy kötelező támogatott közvetítői eljárás igénybevételét rendelheti el
+a) gyermekvédelmi közvetítői eljárás vagy támogatott közvetítői eljárás lefolytatását kérik, továbbá
 
-ba) a szülői felügyeletet gyakorló szülő és a gyermekétől különélő szülő közötti megfelelő együttműködés kialakítása, a különélő szülő és a gyermek közötti kapcsolattartás elősegítése érdekében a szülők számára, vagy
+b) a gyermekvédelmi közvetítői eljárás esetén melyik névjegyzékből melyik közvetítőt választják.
 
-bb) a korlátozottan cselekvőképes gyermeknek a különélő szülőjével való kapcsolattartásának elősegítése érdekében a szülők számára, indokolt esetben a korlátozottan cselekvőképes gyermek bevonásával.
+(3) A gyámhivatal a közvetítői eljárás elrendelése esetén dönt a közvetítő személyéről.
 
-(2) A gyámhivatal tájékoztatja a feleket
+(4) A közvetítőt a gyámhivatal a közvetítői eljárást elrendelő határozatának megküldésével kéri fel a közvetítői tevékenység ellátására.
 
-a) a közvetítői eljárás költségéről,
+(5) Az első közvetítői megbeszélést a felkérés elfogadásától számított tizenöt napon belül meg kell tartani.
 
-b) arról, hogy támogatott közvetítői eljárás vagy kötelező támogatott közvetítői eljárás esetén a közvetítői megbeszélések száma az első találkozáson kívül két hónapon belül csak különösen indokolt esetben haladhatja meg a három alkalmat, valamint
-
-c) és – ha az eljárásba a gyermeket is bevonta – a gyermeket a közvetítő 30/C. § szerinti jelzési kötelezettségéről, külön felhívva a figyelmet a 30/C. § b) pontjában foglaltakra.
-
-(3) A kiválasztott közvetítőt a gyámhivatal kéri fel a közvetítői tevékenység ellátására. A közvetítő a felkérés elfogadásáról vagy annak elutasításáról a gyámhivatal és a felek felé nyilatkozik.
-
-(4)[^119]
-
-(5) A közvetítő a felkérés elfogadásáról szóló nyilatkozatában a felkérés elfogadásától számított tizenöt napon belül a feleket meghívja az első közvetítői megbeszélésre.
-
-(6) A közvetítő annak érdekében, hogy a gyermek az őt érintő döntések előkészítése során véleményt nyilváníthasson
+(6) A közvetítő annak érdekében, hogy a gyermek az őt érintő döntések előkészítése során véleményt nyilváníthasson,
 
 a) a korlátozottan cselekvőképes gyermeket kérelmére,
 
-b) az ítélőképessége birtokában lévő cselekvőképtelen gyermeket a felek kérelmére vagy a gyámhivatal javaslatára
+b) az ítélőképessége birtokában lévő cselekvőképtelen gyermeket a felek kérelmére vagy a gyámhivatal javaslatára bevonhatja a közvetítői eljárásba, feltéve, hogy ez a gyermek számára nem jelent túl nagy megterhelést, valamint érzelmi fejlődését a felek által elmondottak, illetve a felek magatartása várhatóan nem veszélyezteti.
 
-bevonhatja a közvetítői eljárásba, feltéve, hogy ez a gyermek számára nem jelent túl nagy megterhelést, valamint érzelmi fejlődését a felek által elmondottak, illetve a felek magatartása várhatóan nem veszélyezteti.
-
-[^118]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^119]: A 30/B. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^118]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

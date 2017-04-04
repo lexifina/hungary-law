@@ -2,7 +2,7 @@
 
 (2) A megelőző pártfogás mellőzésének felülvizsgálata során a gyámhivatal
 
-a)[^651] beszerzi a család- és gyermekjóléti központ javaslatát,
+a)[^653] beszerzi a család- és gyermekjóléti központ javaslatát,
 
 b) meghallgatja a gyermeket és a szülőt vagy más törvényes képviselőt, és
 
@@ -14,4 +14,4 @@ a) a megelőző pártfogás iránti eljárás megszüntetéséről, vagy
 
 b) a megelőző pártfogás elrendeléséről, és ezzel egyidejűleg a védelembe vétel alatt nem álló gyermek védelembe vételéről.
 
-[^651]: A 91/P. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
+[^653]: A 91/P. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.

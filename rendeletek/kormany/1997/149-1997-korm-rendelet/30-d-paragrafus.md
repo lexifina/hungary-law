@@ -1,13 +1,10 @@
-30/D. §[^121] (1) Ha a felek között megállapodás vagy részmegállapodás jön létre, azt a közvetítő írásba foglalja.
+## 30/C. §[^119] A közvetítő haladéktalanul értesíti a gyámhivatalt, ha megítélése szerint a gyermek érdekében sürgős intézkedés megtétele indokolt, különösen, ha bármelyik szülővel szemben felmerül a gyermek bántalmazásának vagy súlyos elhanyagolásának gyanúja.
 
-(2) A közvetítő külön megállapodásba foglalja a felek közötti megegyezésnek azt a részét, amely nem tárgya a folyamatban lévő gyámhatósági eljárásnak.
+30/D. §[^120] (1) A közvetítői eljárás befejeződését a közvetítő nyolc napon belül – amennyiben megállapodás született, a megállapodás egy példányának megküldésével – jelzi a közvetítői eljárást elrendelő gyámhatóság felé.
 
-(3) A közvetítő a gyámhatósági eljárás tárgya alá tartozó megállapodást, részmegállapodást – a feleknek a gyámhatósági eljárásban a döntés meghozatalára irányuló kérelmével együtt – nyolc napon belül megküldi a gyámhivatalnak.
+(2) A gyámhatóság a felek együttes kérelmére jóváhagyja a közvetítői eljárásban létrejött megállapodást.
 
-(4) A gyámhivatal a felek kérelmére – szükség esetén tárgyalás megtartásával – a megállapodást, részmegállapodást, mint a felek közötti egyezséget, részegyezséget jóváhagyja. Részmegállapodás esetén a fennmaradt kérdésekről a gyámhivatal döntést hoz.
+(3) A gyámhatóság bármelyik fél erre irányuló kérelmére megindítja a kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggő gyámhatósági eljárást, ha a 29/A. § (1) bekezdésében foglaltakról a felek a közvetítői eljárás során teljeskörűen nem tudtak megállapodni. Ezen eljárásokban közvetítői eljárás ismételten nem rendelhető el.
 
-(5) Ha a megállapodás, részmegállapodás a jogszabályoknak megfelel, és a fél e körülmény ellenére a gyámhatósági eljárás során nem köt egyezséget, a gyámhivatal kötelezi a közvetítői eljárás díjának megfizetésére.
-
-(6) A gyámhivatal kérelemre akkor biztosít a Gyvt. 133/A. § (3a) bekezdés b) pontja szerinti költségmentességet a támogatott közvetítői eljárást vagy kötelező támogatott közvetítői eljárást igénybe vevő félnek, ha az a közvetítői eljárással összefüggő együttműködési kötelezettségének eleget tett, és jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének négyszeresét.
-
-[^121]: A 30/D. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^119]: A 30/C. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^120]: A 30/D. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

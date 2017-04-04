@@ -1,18 +1,18 @@
-100. §[^692] (1) Ha a gyámhivatal a Gyvt. 78. § (1) bekezdése alapján a gyermeket nevelésbe veszi, a gyermek jogosult az otthont nyújtó ellátásra.
+100. §[^695] (1) Ha a gyámhivatal a Gyvt. 78. § (1) bekezdése alapján a gyermeket nevelésbe veszi, a gyermek jogosult az otthont nyújtó ellátásra.
 
-(2)[^693] A gyámhivatal – a kísérő nélküli kiskorú kivételével – a gyermek nevelésbe vételére irányuló eljárása során feltárja azokat a körülményeket, amelyek a szülőt akadályozzák a gyermek nevelésében és a veszélyeztetettség elhárításában, így különösen a szülők, más családtagok személyiségével, egészségi állapotával, a gyermekhez fűződő viszonyával, életvitelével és szociális helyzetével kapcsolatos lényeges körülményeket, valamint tájékozódik a gyermek vagyoni helyzetéről, ennek érdekében
+(2)[^696] A gyámhivatal – a kísérő nélküli kiskorú kivételével – a gyermek nevelésbe vételére irányuló eljárása során feltárja azokat a körülményeket, amelyek a szülőt akadályozzák a gyermek nevelésében és a veszélyeztetettség elhárításában, így különösen a szülők, más családtagok személyiségével, egészségi állapotával, a gyermekhez fűződő viszonyával, életvitelével és szociális helyzetével kapcsolatos lényeges körülményeket, valamint tájékozódik a gyermek vagyoni helyzetéről, ennek érdekében
 
 a) lehetőség szerint meghallgatja a szülőt, kivéve, ha a bíróság megszüntette a szülő szülői felügyeleti jogát,
 
-b)[^694] megkeresi
+b)[^697] megkeresi
 
-ba)[^695] a család- és gyermekjóléti központot, hogy végezzen környezettanulmányt, küldje meg az előzményi iratokat és tegyen javaslatot a nevelésbe vétel tárgyában, és
+ba)[^698] a család- és gyermekjóléti központot, hogy végezzen környezettanulmányt, küldje meg az előzményi iratokat és tegyen javaslatot a nevelésbe vétel tárgyában, és
 
-bb)[^696] megelőző pártfogás alatt álló gyermek esetén a család- és gyermekjóléti központot és a megelőző pártfogó felügyelőt, hogy tegyenek javaslatot a megelőző pártfogás fenntartására vagy megszüntetésére,
+bb)[^699] megelőző pártfogás alatt álló gyermek esetén a család- és gyermekjóléti központot és a megelőző pártfogó felügyelőt, hogy tegyenek javaslatot a megelőző pártfogás fenntartására vagy megszüntetésére,
 
 c) a szükséges iratok megküldésével megkeresi a gyermekvédelmi szakszolgálatot, hogy tegyen javaslatot
 
-ca)[^697] a gyermek gondozási helyére és a gyermekvédelmi gyám, helyettes gyermekvédelmi gyám személyére,
+ca)[^700] a gyermek gondozási helyére és a gyermekvédelmi gyám, helyettes gyermekvédelmi gyám személyére,
 
 cb) a kapcsolattartás módjára, formájára és helyére,
 
@@ -20,19 +20,19 @@ d) szükség esetén háziorvosi igazolást szerez be a gyermek tartós vagy fer
 
 e) megvizsgálja, hogy a gyermek részesül-e a Gyvt. 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben.
 
-(3)[^698] A gyámhivatal a kísérő nélküli kiskorú nevelésbe vételére irányuló eljárása során
+(3)[^701] A gyámhivatal a kísérő nélküli kiskorú nevelésbe vételére irányuló eljárása során
 
-a)[^699] elektronikus úton megkeresi a gyermekvédelmi szakszolgálatot, hogy három napon belül tegyen javaslatot a gyermek gondozási helyére és a gyermekvédelmi gyám, helyettes gyermekvédelmi gyám személyére,
+a)[^702] elektronikus úton megkeresi a gyermekvédelmi szakszolgálatot, hogy három napon belül tegyen javaslatot a gyermek gondozási helyére és a gyermekvédelmi gyám, helyettes gyermekvédelmi gyám személyére,
 
 b) a kísérő nélküli kiskorúnak a gondozási hellyel kapcsolatos véleményéről a gyermekvédelmi gyámjától értesül, és
 
 c) intézkedik a menedékjogról szóló 2007. évi LXXX. törvény 35. § (6) bekezdésében foglaltak iránt.
 
-[^692]: A 100. § a 97/2013. (III. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^693]: A 100. § (2) bekezdés nyitó szövegrésze a 284/2015. (IX. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^694]: A 100. § (2) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^695]: A 100. § (2) bekezdés b) pont ba) alpontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.
-[^696]: A 100. § (2) bekezdés b) pont bb) alpontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.
-[^697]: A 100. § (2) bekezdés c) pont ca) alpontja a 448/2016. (XII. 19.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.
-[^698]: A 100. § (3) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 3. §-a iktatta be.
-[^699]: A 100. § (3) bekezdés a) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.
+[^695]: A 100. § a 97/2013. (III. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^696]: A 100. § (2) bekezdés nyitó szövegrésze a 284/2015. (IX. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^697]: A 100. § (2) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^698]: A 100. § (2) bekezdés b) pont ba) alpontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.
+[^699]: A 100. § (2) bekezdés b) pont bb) alpontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.
+[^700]: A 100. § (2) bekezdés c) pont ca) alpontja a 448/2016. (XII. 19.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.
+[^701]: A 100. § (3) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 3. §-a iktatta be.
+[^702]: A 100. § (3) bekezdés a) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.

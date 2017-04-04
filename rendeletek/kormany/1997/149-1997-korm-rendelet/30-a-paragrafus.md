@@ -1,53 +1,28 @@
-## Közvetítői eljárás a gyámhatósági eljárásban[^113]
+## Közvetítői eljárás gyámhatóság általi elrendelése[^116]
 
-30/A. §[^114] (1) A kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggő gyámhatósági eljárásban – az ezen alcímben meghatározott eltérésekkel – a közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) rendelkezései szerinti közvetítői eljárás folytatható le. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően működik közre a felek közötti vitát lezáró megállapodás létrehozásában.
+30/A. §[^117] (1) A közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) szerinti közvetítői eljárást a kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggésben a gyámhatóság a felek együttes kérelmére vagy hivatalból rendeli el. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően segíti elő a felek közötti vitát lezáró megállapodás létrehozását.
 
-(2) A gyámhatósági eljárásban alkalmazott közvetítői eljárás lehet
+(2) Közvetítői eljárást a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek vehetnek igénybe. A gyámhivatal kizárólag a szülők számára rendelheti el kötelező jelleggel közvetítői eljárás igénybevételét.
 
-a) a felek együttes kérelmére vagy a gyámhivatal kezdeményezésére a felek beleegyezésével igénybe vehető
+(3) A gyámhatósági eljárással összefüggésben alkalmazott közvetítői eljárás lehet
 
-aa) gyermekvédelmi közvetítői eljárás, vagy
+a) gyermekvédelmi közvetítői eljárás vagy
 
-ab) támogatott közvetítői eljárás, vagy
+b) támogatott közvetítői eljárás.
 
-b) a Ptk. 4:177. §-ában meghatározottak szerint a gyámhivatal által elrendelt
-
-ba) kötelező gyermekvédelmi közvetítői eljárás, vagy
-
-bb) kötelező támogatott közvetítői eljárás.
-
-(3)[^115] A gyermekvédelmi közvetítői eljárás és a kötelező gyermekvédelmi közvetítői eljárás során a felek választása alapján az Országos Gyermekvédelmi Szakértői Névjegyzékbe vagy a közvetítői névjegyzékbe (a továbbiakban együtt: névjegyzékek) felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás és a kötelező támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
-
-(4)[^116] A névjegyzékek a gyámhivatal és a család- és gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ hivatali helyiségében is megtekinthetők.
+(4) A gyermekvédelmi közvetítői eljárás során a felek választása alapján az Országos Gyermekvédelmi Szakértői Névjegyzékbe vagy a közvetítői névjegyzékbe felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
 
 (5) A közvetítő
 
-a) gyermekvédelmi közvetítői eljárás vagy kötelező gyermekvédelmi közvetítői eljárás esetén a Kvtv.-ben, vagy
+a) gyermekvédelmi közvetítői eljárás esetén a Kvtv.-ben vagy
 
-b) támogatott közvetítői eljárás vagy kötelező támogatott közvetítői eljárás esetén a Gyvt. 133/A. § (3a) bekezdés b) pontjában és (3b) bekezdésében
+b) támogatott közvetítői eljárás esetén a Gyvt. 133/A. § (3a) bekezdés b) pontjában
 
 meghatározott díjazás mellett biztosítja a közvetítői eljárás lefolytatását.
 
-(6) Gyermekvédelmi közvetítői eljárást vagy támogatott közvetítői eljárást a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek vehetnek igénybe. A gyámhivatal kötelező gyermekvédelmi közvetítői eljárás vagy kötelező támogatott közvetítői eljárás igénybevételét kizárólag a szülők számára rendelheti el.
+(6) A gyámhivatal kérelemre akkor biztosít a Gyvt. 133/A. § (3a) bekezdés b) pontja szerinti költségmentességet a támogatott közvetítői eljárást igénybe vevő félnek, ha az a közvetítői eljárással összefüggő együttműködési kötelezettségének eleget tett, és jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének négyszeresét.
 
-(7) A közvetítői eljárás helyszíne
+(7) Ha a közvetítői eljárás eredménytelenül zárul, a gyámhivatal kötelezi a közvetítői eljárás eredménytelenségéért felelős felet vagy feleket a közvetítői eljárás díjának megfizetésére.
 
-a) gyermekvédelmi közvetítői eljárás vagy kötelező gyermekvédelmi közvetítői eljárás esetén a közvetítő által, a felek igényei alapján meghatározott helyszín,
-
-b)[^117] támogatott közvetítői eljárás vagy kötelező támogatott közvetítői eljárás esetén a területi gyermekvédelmi szakszolgálat, a gyámhivatal vagy a család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ székhelye.
-
-(8) A felek szabadon döntenek és döntésüknek megfelelően a gyámhivatal előtt nyilatkoznak arról, hogy
-
-a) a (2) bekezdés a) pontja szerinti esetben gyermekvédelmi közvetítői eljárás vagy támogatott közvetítői eljárás lefolytatását kérik,
-
-b) a (2) bekezdés b) pontja szerinti esetben a gyámhivatal kötelező gyermekvédelmi közvetítői eljárás vagy kötelező támogatott közvetítői eljárás igénybevételét rendelje el, és
-
-c) – gyermekvédelmi közvetítői eljárás vagy kötelező gyermekvédelmi közvetítői eljárás igénybevétele esetén – melyik névjegyzékből, melyik közvetítőt választják.
-
-(9) Ha a felek a (8) bekezdés b) pontja szerinti esetben nem nyilatkoznak, a gyámhivatal kötelező támogatott közvetítői eljárás igénybevételét rendeli el és kiválasztja a közvetítőt.
-
-[^113]: A 30/A. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^114]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^115]: A 30/A. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 174. §-a, a 379/2016. (XII. 2.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^116]: A 30/A. § (4) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 5. pontja szerint módosított szöveg.
-[^117]: A 30/A. § (7) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 10. pontja szerint módosított szöveg.
+[^116]: A 30/A. §-t megelőző alcím a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^117]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
