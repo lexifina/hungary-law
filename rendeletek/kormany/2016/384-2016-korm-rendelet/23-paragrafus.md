@@ -16,10 +16,14 @@ c) egyesített telekalakítási eljárás esetén az a) pontban meghatározott n
 
 (5) Abban az esetben, ha a telekalakítás ingatlan-nyilvántartási átvezetése folyamatban lévő bírósági eljárás miatt nem történt meg, az ügyfél kérelmére a járási hivatal – ha ennek műszaki és jogi akadálya nincs – hatályossági idején belül egy alkalommal a telekalakítási engedélyt egy évre meghosszabbítja, valamint a változási vázrajzot újra záradékolja. A kérelemhez a bíróság által érkeztetett keresetlevelet csatolni kell.
 
-(6) Az egyesített telekalakítási eljárás iránti kérelem esetén a változásátvezetési eljárás a beadvány széljegyzésével – a (7) bekezdésben foglalt esetet kivéve – a telekalakítási engedély jogerőre emelkedését követő munkanapon indul meg.
+(6)[^2] Az egyesített telekalakítási eljárás iránti kérelem esetén a változásátvezetési eljárás a beadvány széljegyzésével a telekalakítási engedély jogerőre emelkedését követő munkanapon indul meg.
 
-(7) Az egyesített telekalakítási eljárás esetén amennyiben, a telekalakítási engedély másodfokon emelkedik jogerőre, a változásátvezetési eljárás a jogerős határozat elsőfokú ingatlanügyi hatósághoz történő beérkezésének napján indul meg.
+(7)[^3]
 
 (8) Egyesített telekalakítási eljárás esetén a változásátvezetési eljárási szakasz ügyintézési határideje 15 nap.
 
-(9) Ha egyesített telekalakítási eljárás esetén a változásátvezetési eljárásra irányuló kérelem teljesítésére nincs lehetőség, a telekalakítási engedély jogosultja a szükséges okiratok benyújtásával a (4) bekezdésben megjelölt időn belül külön ingatlan-nyilvántartási eljárás megindításával kérheti a földrészlet adataiban történő, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetését.
+(9)[^4] Ha egyesített telekalakítási eljárás esetén a változásátvezetési eljárásra irányuló kérelem elutasításra kerül, a telekalakítási engedély jogosultja a szükséges okiratok benyújtásával a (4) bekezdésben megjelölt időn belül külön ingatlan-nyilvántartási eljárás megindításával kérheti a földrészlet adataiban történő, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetését.
+
+[^2]: A 23. § (6) bekezdése a 60/2017. (III. 20.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^3]: A 23. § (7) bekezdését a 60/2017. (III. 20.) Korm. rendelet 30. § c) pontja hatályon kívül helyezte.
+[^4]: A 23. § (9) bekezdése a 60/2017. (III. 20.) Korm. rendelet 29. §-a szerint módosított szöveg.

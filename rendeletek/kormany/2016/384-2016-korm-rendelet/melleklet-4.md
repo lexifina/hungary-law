@@ -18,6 +18,10 @@
 
 | 8. | A víziutak medrét és a kikötők, átkelők, vízpartok és vízterületek telkét érintő telekalakítás esetén. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve hajózási létesítmények működését. | közlekedésért felelős miniszter |
 
+| 9. | Ha a telekalakítás vasútként nyilvántartott földrészletet érint. | Közlekedésbiztonsági szakkérdés: a tervezett telekalakításnak a vasút állagára, a vasúti forgalom biztonságára, a vasúti pályahálózat működtetője fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatásainak vizsgálata. | közlekedésért felelős miniszter |
+
+| 10. | Ha a telekalakítás meglévő állandó, ideiglenes működésű repülőtér területét érinti. | Közlekedésbiztonsági szakkérdés: a tervezett telekalakítás korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú légiközlekedést, illetve a repülőtéri létesítmények működését. | közlekedésért felelős miniszter |
+
 ## B) A telekalakítási eljárásban közreműködő szakhatóságok kijelölése
 
 |  | A | B | C | D |
@@ -28,9 +32,9 @@
 
 | 3. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban a főjegyző | – |
 
-| 4. | Ha a telekalakításra a vasúti pálya szélső vágányának tengelyétől számított 50 méteren belüli sávban kerül sor. | Annak elbírálása, hogy a telekalakítás – a vasút állagára, a vasúti forgalom biztonságára, a vasúti pályahálózat működtetője fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | közlekedésért felelős miniszter | - |
+| 4. |  |  |  |  |
 
-| 5. | Ha a telekalakítás meglévő állandó, ideiglenes működésű repülőtér területét érinti. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú légiközlekedést, illetve a repülőtéri létesítmények működését. | közlekedésért felelős miniszter | - |
+| 5. |  |  |  |  |
 
 4. melléklet a 384/2016. (XII. 2.) Korm. rendelethez
 
