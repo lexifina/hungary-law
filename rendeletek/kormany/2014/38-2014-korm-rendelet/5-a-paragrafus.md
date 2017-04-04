@@ -1,7 +1,11 @@
-5/A. §[^9] (1) Ha a természetes személy a földművesként való nyilvántartásba vétele iránti kérelméhez olyan mezőgazdasági vagy erdészeti szakirányú képzettséget igazoló okiratot csatol, amelyen a szakképesítés megnevezése vagy azonosító száma pontosan nem azonosítható a Kr.-ben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettségek valamelyikével, a járási hivatal a Herman Ottó Intézet Nonprofit Kft.-t szakértőként rendeli ki.
+5/A. §[^9] (1)[^10] Ha a természetes személy a földművesként való nyilvántartásba vétele iránti kérelméhez olyan mezőgazdasági vagy erdészeti szakirányú képzettséget igazoló okiratot csatol, amelyen a szakképesítés megnevezése vagy azonosító száma pontosan nem azonosítható a Kr.-ben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettségek valamelyikével, a járási hivatal a Herman Ottó Intézet Nonprofit Kft. szakértői véleménye alapján dönt.
 
 (2) A szakértői vélemény kialakítása során azt kell megvizsgálni, hogy a benyújtott mezőgazdasági vagy erdészeti szakirányú képzettséget igazoló okirat szerinti szakképesítés a Kr.-ben meghatározott valamely szakképesítésnek megfelelő szakképesítés-e. A szakképesítés megfelelőségét különösen az annak megszerzése során elsajátított szakismeretekre kell alapozni. A Herman Ottó Intézet Nonprofit Kft. a szakértői véleményét 15 napon belül adja meg.
 
 (3) A nyilvántartásba vételi eljárás keretében hozott határozattal szemben benyújtott fellebbezés esetén, a másodfokon eljáró hatóság a földügyért felelős minisztert rendeli ki szakértőként a (2) bekezdésben meghatározott kérdés tekintetében.
 
+(4)[^11] A Herman Ottó Intézet Nonprofit Kft. a honlapján tájékoztatást tesz közzé azokról a szakképesítésekről, amelyeket a (2) bekezdésben foglaltak szerint a szakértői véleményében megfelelőnek minősített.
+
 [^9]: Az 5/A. §-t a 373/2014. (XII. 31.) Korm. rendelet 54. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 266. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5/A. § (1) bekezdése a 60/2017. (III. 20.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^11]: Az 5/A. § (4) bekezdését a 60/2017. (III. 20.) Korm. rendelet 25. § (1) bekezdése iktatta be.

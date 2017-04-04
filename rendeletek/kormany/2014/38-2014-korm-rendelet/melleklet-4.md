@@ -48,9 +48,9 @@
 
 ## b) a cégnek minősülő szervezet esetében az aláírási címpéldányt, illetve az aláírási mintát a cégnyilvántartás tartalmazza-e.
 
-## II.[^68] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
+## II.[^70] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
 
-## 1.[^69] A járási hivatal bélyegzője.
+## 1.[^71] A járási hivatal bélyegzője.
 
 ## 2. A kérelem érkezési ideje.
 
@@ -64,5 +64,5 @@
 
 4. melléklet a 38/2014. (II. 24.) Korm. rendelethez
 
-[^68]: A 3. melléklet II. pont nyutó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^69]: A 3. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^70]: A 3. melléklet II. pont nyutó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^71]: A 3. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.

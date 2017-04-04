@@ -20,9 +20,9 @@
 
 ## 5. Nyilatkozat arról, hogy kérelemben a kérelmező által feltüntetett adatok a valóságnak megfelelnek.
 
-## II.[^64] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
+## II.[^66] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
 
-## 1.[^65] A járási hivatal bélyegzője.
+## 1.[^67] A járási hivatal bélyegzője.
 
 ## 2. A kérelem érkezési ideje.
 
@@ -36,5 +36,5 @@
 
 2. melléklet a 38/2014. (II. 24.) Korm. rendelethez
 
-[^64]: Az 1. melléklet II. pont nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^65]: Az 1. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^66]: Az 1. melléklet II. pont nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^67]: Az 1. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
