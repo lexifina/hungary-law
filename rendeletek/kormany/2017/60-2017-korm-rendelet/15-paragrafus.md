@@ -1,3 +1,5 @@
-## 14. § Hatályát veszti a 63/2006. (III. 27.) Korm. rendelet 6. § (1) bekezdésében az „és a (2a)” szövegrész.
+## 13–14. §[^9]
 
 ## 7. A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet módosítása
+
+[^9]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
