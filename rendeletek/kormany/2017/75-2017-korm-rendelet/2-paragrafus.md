@@ -1,1 +1,0 @@
-## „(5a) Az 1. melléklet szerinti fedezettségi mértékek megállapításakor a magas fedezettségű biztosítékokra a 30 százalék alatti, illetve azzal egyenlő, az általános fedezettségű biztosítékokra a 31 százalék és 59 százalék közötti, az alacsony fedezettségű biztosítékokra a 60 százalékkal egyenlő, illetve annál magasabb nemteljesítéskori veszteség a besorolás alapja.”
