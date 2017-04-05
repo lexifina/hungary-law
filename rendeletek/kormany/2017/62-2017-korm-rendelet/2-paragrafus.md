@@ -1,3 +1,0 @@
-## 1. § A bírósági ügyintézők által ellátható egyes feladatokról szóló 56/2008. (III. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § E rendelet hatálya az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 6. § (2) bekezdésében meghatározott azon bírósági ügyintézőkre terjed ki, akik polgári, gazdasági, végrehajtási, közigazgatási, munkaügyi, szabálysértési, valamint büntető- és büntetés-végrehajtási ügyekben eljáró bírósági titkár, bíró vagy tanács mellé, továbbá igazgatási ügyben eljáró bírósági vezető (a továbbiakban együtt: bíró) mellé kerültek beosztásra.”
