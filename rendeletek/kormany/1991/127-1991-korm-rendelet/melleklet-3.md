@@ -104,13 +104,13 @@
 
 ## 4 A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény.
 
-3. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^79]
+3. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^80]
 
-A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja[^80]
+A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja
 
-1.[^81] A törvényes tanúsító jelet a mérőeszköz
+1. A törvényes tanúsító jelet a mérőeszköz
 
-a) külső felületén, vagy
+a) külső felületén vagy
 
 b) adattábláján, illetve a felületen e célra szolgáló helyen, vagy
 
@@ -124,17 +124,17 @@ A törvényes nemzeti tanúsító és lezáró jelek típusai:
 
 a) A hitelesítő fémzár (plomba), valamint a hitelesítő lenyomat (bélyeg) leírása, rajzolata:
 
-Körkeretben a Szentkorona stilizált jele.
+Körkeretben a Szent Korona stilizált jele.
 
-A Szentkorona két oldalán a hitelesítés évének két utolsó számjegye.
+A Szent Korona két oldalán a hitelesítés évének két utolsó számjegye.
 
-A Szentkorona alatt középen a hitelesítő azonosító jelölése.
+A Szent Korona alatt középen a hitelesítő azonosító jelölése.
 
 b) A hitelesítő öntapadó matrica leírása, rajzolata:
 
-Fekvő téglalap alakú, keretes mezőben, bal oldalon a Szentkorona stilizált jele. A Szentkorona mellett a Magyar Kereskedelmi Engedélyezési Hivatal elnevezésének kezdőbetűi. A keretes mező alsó részén egyedi azonosító jelölés.
+Fekvő téglalap alakú, keretes mezőben, bal oldalon a Szent Korona stilizált jele. A Szent Korona mellett a ,,HITELES” felirat. A keretes mező alsó részén egyedi azonosító jelölés.
 
-A keretes mező körül a mérésügyi szervezet – tájékoztatás céljából – feltüntetheti a hitelesítés évének két utolsó számjegyét a hitelesítés hónapja megjelölésével.
+A keretes mező körül a mérésügyi szervezet − tájékoztatás céljából − feltüntetheti a hitelesítés évének két utolsó számjegyét a hitelesítés hónapja megjelölésével.
 
 1.2. A hitelesített mérőeszköz háza szerkezeti egységeinek felbontása elleni lezáró lenyomatok (bélyegzések) és lezáró matricák
 
@@ -142,28 +142,24 @@ a) A lezáró lenyomatok (bélyegzések) leírása, valamint rajzolata megegyezi
 
 b) A lezáró öntapadó matrica leírása, rajzolata:
 
-Fekvő téglalap alakú mezőben a Magyar Kereskedelmi Engedélyezési Hivatal elnevezésének kezdőbetűi. A MKEH felirat alatt azonosító jelölés.
-
-|  | MKEH B00001 |
+Fekvő téglalap alakú mezőben a ,,LEZÁRÓ” felirat. A felirat alatt azonosító jelölés.
 
 2. Mérőeszköz-minősítés tanúsítására szolgáló bélyegzések
 
 2.1. A minősítő fémzár (plomba), valamint a minősítő lenyomat (bélyeg) leírása, rajzolata:
 
-Hatszög keretben a Szentkorona stilizált jele.
+Hatszög keretben a Szent Korona stilizált jele.
 
-A Szentkorona két oldalán a minősítés évének két utolsó számjegye.
+A Szent Korona két oldalán a minősítés évének két utolsó számjegye.
 
-A Szentkorona alatt a minősítő azonosító jelölése.
+A Szent Korona alatt a minősítő azonosító jelölése.
 
 2.2. Öntapadó minősítő matrica leírása, rajzolata:
 
-Fekvő, hosszúkás nyolcszög alakú mezőben, bal oldalon a Szentkorona stilizált rajzolata.
+Fekvő, hosszúkás nyolcszög alakú mezőben, bal oldalon a Szent Korona stilizált rajzolata.
 
-A Szentkorona mellett a „MÉRŐESZKÖZ MINŐSÍTÉS” felirat.
+A Szent Korona mellett a „MÉRŐESZKÖZ MINŐSÍTÉS” felirat.
 
 A mező alsó részén azonosító jelölés, alatta a minősítés éve található.
 
-[^79]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 266/2006. (XII. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 7. § (1)–(2) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni. A „2006–2009.” évszámot és az „OMH” jelölést tartalmazó hitelesítő, valamint lezáró öntapadó matricák 2009. december 31-éig érvényesek.
-[^80]: A Vhr. 3. számú mellékletének címe a 182/2009. (IX. 10.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.
-[^81]: A Vhr. 3. számú mellékletének 1. pontja a 217/2016. (VII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^80]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2017. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

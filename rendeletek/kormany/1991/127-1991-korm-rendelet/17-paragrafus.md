@@ -1,4 +1,4 @@
-17. §[^76] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+17. §[^77] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről és a 71/354/EGK irányelv hatályon kívül helyezéséről szóló, 1979. december 20-i 80/181/EGK tanácsi irányelv;
 
@@ -14,4 +14,4 @@ f) a nem automatikus működésű mérlegek forgalmazására vonatkozó tagálla
 
 g) a mérőműszerek forgalmazására vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/32/EU európai parlamenti és tanácsi irányelv.
 
-[^76]: A Vhr. 17. §-át a 196/1997. (XI. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^77]: A Vhr. 17. §-át a 196/1997. (XI. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
