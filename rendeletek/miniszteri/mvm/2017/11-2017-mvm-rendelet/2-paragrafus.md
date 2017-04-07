@@ -1,0 +1,3 @@
+## 1. § A régészeti lelőhely és a műemléki érték nyilvántartásának és védetté nyilvánításának, valamint a régészeti lelőhely és a lelet megtalálója anyagi elismerésének részletes szabályairól szóló 13/2015. (III. 11.) MvM rendelet (a továbbiakban: Rendelet) 4. §-a a következő (10) bekezdéssel egészül ki:
+
+## „(10) Ha a műemléki érték nyilvántartásba vételére irányuló eljárás az érintett ingatlan helyi védelem alatt álló építészeti örökségi jellegére tekintettel, hivatalból indul, akkor az eljárás során a (4) bekezdésben foglaltakat nem kell alkalmazni, feltéve, hogy az értékvizsgálati dokumentáció a rendelkezésre álló adatokból elkészíthető.”
