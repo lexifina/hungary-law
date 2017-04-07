@@ -1,4 +1,4 @@
-## 16. §[^56]
+## 16. §[^59]
 
 1. melléklet a 13/2015. (III. 11.) MvM rendelethez
 
@@ -10,4 +10,4 @@ A) VÉDETTSÉG KEZDEMÉNYEZÉSÉHEZ SZÜKSÉGES ADATOK
 
 *1. Az építmény (együttes) neve(i)
 
-[^56]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

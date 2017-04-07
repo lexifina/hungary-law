@@ -160,11 +160,11 @@ szöveges leírása, rövid összefoglaló ismertetése, továbbá
 
 7.3. a beépített történeti berendezések,
 
-7.4.[^57] a történeti épületgépészeti, épületvillamossági berendezések anyagaira, szerkezetei kialakítására vonatkozó összefoglaló ismertetés, valamint
+7.4.[^60] a történeti épületgépészeti, épületvillamossági berendezések anyagaira, szerkezetei kialakítására vonatkozó összefoglaló ismertetés, valamint
 
-7.5.[^58]
+7.5.[^61]
 
 8. fotódokumentáció.
 
-[^57]: A 2. melléklet 7. pont 7.4. alpontja a 32/2016. (XII. 14.) MvM rendelet 9. §-ával megállapított szöveg.
-[^58]: A 2. melléklet 7. pont 7.5. alpontját a 32/2016. (XII. 14.) MvM rendelet 11. § j) pontja hatályon kívül helyezte.
+[^60]: A 2. melléklet 7. pont 7.4. alpontja a 32/2016. (XII. 14.) MvM rendelet 9. §-ával megállapított szöveg.
+[^61]: A 2. melléklet 7. pont 7.5. alpontját a 32/2016. (XII. 14.) MvM rendelet 11. § j) pontja hatályon kívül helyezte.
