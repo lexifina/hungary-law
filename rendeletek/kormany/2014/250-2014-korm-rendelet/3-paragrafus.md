@@ -16,7 +16,9 @@ f) végzi a központosított közbeszerzés normatíva rendszerének meghatároz
 
 g)[^2] végzi az 1. § (2) és (3) bekezdésében meghatározottak figyelembevételével az állami vezetői juttatásokról szóló kormányrendeletben meghatározott feladatokat,
 
-h) ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat, az alapító okirat, az irányító szerv vezetője, az 1. § (2) bekezdése alapján irányítási jogokat gyakoroló miniszter vagy az 1. § (3) bekezdésében meghatározott megállapodás a hatáskörébe utal.
+h) ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat, az alapító okirat, az irányító szerv vezetője, az 1. § (2) bekezdése alapján irányítási jogokat gyakoroló miniszter vagy az 1. § (3) bekezdésében meghatározott megállapodás a hatáskörébe utal,
+
+i)[^3] ellátja az Országos Közegészségügyi Intézet által használt ingatlanokkal kapcsolatos, az Országos Közegészségügyi Intézet és a Főigazgatóság közötti megállapodásban rögzített létesítményüzemeltetési feladatokat.
 
 (2) A Főigazgatóság az (1) bekezdés a) pontjában meghatározott szolgáltatásokat az 1. mellékletben meghatározott körben és terjedelemben biztosítja.
 
@@ -26,3 +28,4 @@ h) ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat,
 
 [^1]: A 3. § (1) bekezdés a) pontja a 206/2016. (VII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^2]: A 3. § (1) bekezdés g) pontja a 275/2015. (IX. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés i) pontját a 79/2017. (IV. 7.) Korm. rendelet 2. §-a iktatta be.
