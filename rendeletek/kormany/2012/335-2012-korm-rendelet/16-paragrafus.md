@@ -8,9 +8,9 @@ a) a címzett 14. életévét betöltött, a polgári törvénykönyv szerinti h
 
 b) a címhelyen lévő ingatlan bérbeadója vagy a címzett szállásadója, ha az természetes személy.
 
-(4)[^7] Ha a postacsomag kézbesítése megkísérlésének időpontjában jogosult átvevő nem tartózkodik a címhelyen, a postai szolgáltató a küldemény átvételére – alkalmi átvevőként – jogosultnak tekintheti a címhely szerinti közvetlen szomszédot abban az esetben, ha erről a feladó egyedi szerződésben, vagy az általános szerződési feltételek alapján külön így rendelkezett, és ehhez a címzett is hozzájárulását adta. A közvetlen szomszédnak történő kézbesítés megtörténtéről a postai szolgáltató a címzettet értesítő elhelyezésével tájékoztatni köteles. Nem kézbesíthető a közvetlen szomszédnak a sérült állapotban lévő postacsomag.
+(4)[^9] Ha a postacsomag kézbesítése megkísérlésének időpontjában jogosult átvevő nem tartózkodik a címhelyen, a postai szolgáltató a küldemény átvételére – alkalmi átvevőként – jogosultnak tekintheti a címhely szerinti közvetlen szomszédot abban az esetben, ha erről a feladó egyedi szerződésben, vagy az általános szerződési feltételek alapján külön így rendelkezett, és ehhez a címzett is hozzájárulását adta. A közvetlen szomszédnak történő kézbesítés megtörténtéről a postai szolgáltató a címzettet értesítő elhelyezésével tájékoztatni köteles. Nem kézbesíthető a közvetlen szomszédnak a sérült állapotban lévő postacsomag.
 
-(5)[^8] A postai szolgáltató – a 25. § (1) bekezdés a), b), d), e), f) és g) pontja szerinti esetek kivételével – azokat a könyvelt postai küldeményeket, amelyeket a címen nem tudott kézbesíteni, értesítő hátrahagyása mellett a szolgáltató által erre kijelölt kézbesítési pontján a címzett rendelkezésére tartja.
+(5)[^10] A postai szolgáltató – a 25. § (1) bekezdés a), b), d), e), f) és g) pontja szerinti esetek kivételével – azokat a könyvelt postai küldeményeket, amelyeket a címen nem tudott kézbesíteni, értesítő hátrahagyása mellett a szolgáltató által erre kijelölt kézbesítési pontján a címzett rendelkezésére tartja.
 
-[^7]: A 16. § (4) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^8]: A 16. § (5) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 16. § (4) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^10]: A 16. § (5) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés c) pontja szerint módosított szöveg.
