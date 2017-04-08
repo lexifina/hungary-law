@@ -30,7 +30,7 @@
 
 (14)[^116] Az országos tisztifőorvos az 5. § (7) bekezdés szerinti alternatív módszerek alkalmazásáról és a 3. számú melléklet 1. részében megállapított módszerekkel való egyenértékűségükről tájékoztatja az Európai Bizottságot.
 
-(15)[^117] A 9. § (3) bekezdése alapján készített összefoglaló alapulvételével a miniszter által vezetett minisztérium 3 évente jelentést küld az Európai Bizottságnak (a továbbiakban: Bizottság) az emberi fogyasztásra szánt ivóvíz minőségéről. Minden jelentésben szerepelnie kell legalább minden, az átlag napi 1000 m3-t meghaladó hozamú vagy 5000 főnél többet ellátó ivóvízellátó rendszernek. A jelentésnek három naptári évre kell kiterjednie, és a jelentési időszak végét követő naptári év végéig az országos tisztifőorvosnak kell közzétenni. A jelentést a közzétételtől számított két hónapon belül meg kell küldeni a Bizottságnak.
+(15)[^117] A 9. § (3) bekezdése alapján készített összefoglaló alapulvételével az egészségügyért felelős miniszter által vezetett minisztérium 3 évente jelentést küld az Európai Bizottságnak (a továbbiakban: Bizottság) az emberi fogyasztásra szánt ivóvíz minőségéről. Minden jelentésben szerepelnie kell legalább minden, az átlag napi 1000 m3-t meghaladó hozamú vagy 5000 főnél többet ellátó ivóvízellátó rendszernek. A jelentésnek három naptári évre kell kiterjednie, és a jelentési időszak végét követő naptári év végéig az országos tisztifőorvosnak kell közzétenni. A jelentést a közzétételtől számított két hónapon belül meg kell küldeni a Bizottságnak.
 
 (16)[^118] Ez a rendelet
 
@@ -56,5 +56,5 @@ való megfelelést szolgálja.
 [^114]: A 10. § (13d) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 11. §-a iktatta be.
 [^115]: A hatálybalépés időpontja 2013. december 1.
 [^116]: A 10. § új (14) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, egyidejűleg az eredeti (14) bekezdés számozását (16) bekezdésre változtatta. A 10. § (14) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja szerint módosított szöveg.
-[^117]: A 10. § (15) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 13. § i) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 7. és 17. pontja szerint módosított szöveg.
+[^117]: A 10. § (15) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 13. § i) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 17. pontja, a 79/2017. (IV. 7.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^118]: A 10. § eredeti (14) bekezdésének számozását a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése (16) bekezdésre változtatta, szövege a 313/2015. (X. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

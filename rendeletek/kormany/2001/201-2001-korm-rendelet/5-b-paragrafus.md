@@ -2,9 +2,9 @@
 
 ## Informatikai rendszer[^55]
 
-5/B. §[^56] (1)[^57] A vízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint a minőségjavító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az egészségügyért felelős miniszter (a továbbiakban: miniszter) működteti a Humán felhasználású vizek informatikai rendszerét (a továbbiakban: HUMVI rendszer).
+5/B. §[^56] (1)[^57] A vízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint a minőségjavító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az OKI működteti a Humán felhasználású vizek informatikai rendszerét (a továbbiakban: HUMVI rendszer).
 
-(2)[^58] A HUMVI rendszerbe a miniszter, valamint a miniszter feljogosítását követően az OKI, az illetékes népegészségügyi szerv, továbbá az üzemeltető, és az üzemeltető által megbízott laboratórium tölthet fel adatokat.
+(2)[^58] A HUMVI rendszerbe az OKI, valamint az OKI feljogosítását követően az illetékes népegészségügyi szerv, továbbá az üzemeltető, és az üzemeltető által megbízott laboratórium tölthet fel adatokat.
 
 (3) A HUMVI rendszerbe az üzemeltető és az általa megbízott ivóvízvizsgálatra akkreditált laboratórium a (4)–(7) bekezdésben foglaltak szerint rögzít adatokat.
 
@@ -39,5 +39,5 @@ g) vízfertőtlenítésének módja.
 [^54]: Az 5/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
 [^55]: Az 5/B. §-t megelőző alcímet a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
 [^56]: Az 5/B. §-t a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
-[^57]: Az 5/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 7. pontja szerint módosított szöveg.
-[^58]: Az 5/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 8. és 9. pontja szerint módosított szöveg.
+[^57]: Az 5/B. § (1) bekezdése a 79/2017. (IV. 7.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^58]: Az 5/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 9. pontja, a 79/2017. (IV. 7.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
