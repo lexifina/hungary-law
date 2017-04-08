@@ -18,8 +18,10 @@ a) részt vesznek az országos tisztifőorvos által szervezett képzéseken, va
 
 b) az országos adatbázisok kialakítása és fenntartása érdekében adatgyűjtést végeznek, nyilvántartást vezetnek,
 
-c) a hatáskörükbe tartozó feladatokat a miniszter által vezett minisztérium szakmai informatikai rendszerein keresztül látják el,
+c)[^1] a hatáskörükbe tartozó feladatokat az Országos Közegészségügyi Intézet szakmai informatikai rendszerein keresztül látják el,
 
 d) a szakmai feladatellátás során az országos tisztifőorvos által kiadott szakmai eljárásrendeknek, útmutatóknak és elvi állásfoglalásoknak megfelelően, valamint a kiadott iratminták alapján végzik az ellenőrzéseiket és szakmai tevékenységüket,
 
 e) részt vesznek az országos tisztifőorvos által szervezett értekezleteken, működtetett szakmai munkacsoportokban.
+
+[^1]: Az 1. § (4) bekezdés c) pontja a 79/2017. (IV. 7.) Korm. rendelet 7. §-ával megállapított szöveg.
