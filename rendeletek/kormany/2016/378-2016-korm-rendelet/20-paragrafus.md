@@ -4,8 +4,15 @@
 
 (2) A NEFI általános jogutódja – a (3) és (4) bekezdésben meghatározott feladatok kivételével – az Emberi Erőforrások Minisztériuma.
 
-(3) A NEFI egészségügyi szolgáltatói feladatai tekintetében az ÁEEK a jogutód.
+(3)[^11] A NEFI egészségügyi szolgáltatói és alapellátási módszertani feladatai tekintetében az ÁEEK a jogutód.
 
-(4)[^8] A NEFI európai uniós projektjei megvalósításával és az e feladat menedzsmentjével kapcsolatos feladatai tekintetében jogutód az Országos Közegészségügyi Intézet.
+(4)[^12] A NEFI európai uniós forrásból finanszírozott projektjei megvalósításával, a fenntartási kötelezettséggel érintett projektjei fenntartásával és az e feladat menedzsmentjével kapcsolatos feladatai tekintetében jogutód az Országos Közegészségügyi Intézet.
 
-[^8]: A 20. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
+(5)[^13] Az (1)–(4) bekezdés szerinti jogutódlásra a 2–7. § irányadó azzal az eltéréssel, hogy az e rendelkezésekben meghatározott 2016. december 31-ei határnap helyett 2017. március 31-ei határnap alkalmazandó.
+
+(6)[^14] Az egészségügyi háttérintézményi integrációt érintő egyes kormányrendeletek módosításáról szóló 79/2017. (IV. 7.) Korm. rendelettel módosított (3) és (4) bekezdésben foglaltakat az (1) bekezdés szerinti beolvadásos különválás időpontjától kell alkalmazni.
+
+[^11]: A 20. § (3) bekezdése a 79/2017. (IV. 7.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^12]: A 20. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 79/2017. (IV. 7.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^13]: A 20. § (5) bekezdését a 79/2017. (IV. 7.) Korm. rendelet 4. §-a iktatta be.
+[^14]: A 20. § (6) bekezdését a 79/2017. (IV. 7.) Korm. rendelet 4. §-a iktatta be.
