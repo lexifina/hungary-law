@@ -80,13 +80,23 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. szeptember 1.
 
-b) a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy gondoskodjanak a felújításhoz szükséges források ütemezett biztosításáról Kecskemét Megyei Jogú Város Önkormányzata részére.
+b)[^2] a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
+
+ba) felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a külső felújítás 2017. november 15-i, a belső felújítás 2018. augusztus 31-i befejezési határidejéhez igazodóan gondoskodjanak a felújításhoz szükséges források ütemezett biztosításáról;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: a felmerülés ütemében a felújítás 2017. szeptember 1-jéig történő megvalósítását biztosítva
+Határidő: a felmerülés ütemében, a külső felújítás 2017. november 15-i, a belső felújítás 2018. augusztus 31-i befejezési határidejéhez igazodóan
+
+bb) felhívja a Miniszterelnökséget vezető minisztert és a turizmusért való felelőssége keretében a nemzeti fejlesztési minisztert, hogy a felújítási program turisztikai fejlesztési projektelemének megvalósítása érdekében működjenek együtt Kecskemét Megyei Jogú Város Önkormányzatával.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+nemzeti fejlesztési miniszter
+
+Határidő: 2018. augusztus 31-ig folyamatos
 
 5. A Kormány
 
@@ -115,3 +125,4 @@ Felelős: az 1–5. pontban felelősként megjelölt miniszterek
 Határidő: 2016. március 31.
 
 [^1]: A 2. pont b) pont bb) alpontját az 1422/2016. (VII. 29.) Korm. határozat 8. pontja visszavonta.
+[^2]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
