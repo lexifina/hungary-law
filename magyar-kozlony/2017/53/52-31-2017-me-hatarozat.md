@@ -1,0 +1,34 @@
+# A miniszterelnök 31/2017. (IV. 10.) ME határozata
+
+Magyar Közlöny 2017. évi 53. szám, 2017. április 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/814eefc1eaa16612911708b35a31bf7e18de442b/dokumentumok/ff68ddbbee92ca8427a2fe92a4c4936a2adc9680/letoltes)
+
+---
+
+A miniszterelnök 31/2017. (IV. 10.) ME határozata
+a Magyarország Kormánya és Románia Kormánya között a magyar–román államhatáron, Magyarcsanád és
+Cenad (Nagycsanád) települések közötti Maros-híd, valamint a kapcsolódó létesítmények megépítéséről
+szóló egyezmény létrehozására adott felhatalmazásról
+A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény 5. § (1) bekezdése szerinti hatáskörömben eljárva,
+a nemzeti fejlesztési miniszter és a külgazdasági és külügyminiszter előterjesztése alapján
+1. egyetértek a Magyarország Kormánya és Románia Kormánya között a magyar–román államhatáron, Magyarcsanád
+és Cenad (Nagycsanád) települések közötti Maros-híd, valamint a kapcsolódó létesítmények megépítéséről szóló
+egyezmény (a továbbiakban: egyezmény) létrehozásával;
+2. felhatalmazom a nemzeti fejlesztési minisztert, hogy – az érintett miniszterekkel egyetértésben – a tárgyalásokon
+részt vevő személyeket kijelölje;
+3. felhatalmazom a nemzeti fejlesztési minisztert, vagy az általa kijelölt személyt, hogy a tárgyalások eredményeként
+előálló szövegtervezetet kézjegyével lássa el;
+4. felhívom a külgazdasági és külügyminisztert, hogy az egyezmény létrehozásához szükséges meghatalmazási
+okiratot adja ki;
+5. felhívom a nemzeti fejlesztési minisztert, a külgazdasági és külügyminisztert, valamint az igazságügyi
+minisztert, hogy az egyezmény létrehozását követően az egyezmény szövegének végleges megállapítására való
+felhatalmazásról szóló határozat tervezetét haladéktalanul terjesszék a Kormány elé.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó.
+Felelős kiadó: Köves Béla ügyvezető.
