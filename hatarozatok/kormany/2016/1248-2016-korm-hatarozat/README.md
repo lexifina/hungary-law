@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1248-30
 | 2016-05-19 | 2016-1248-30-22.1 | 1248/2016. (V. 18.) Korm. határozat |
 | 2016-05-20 | 2016-1248-30-22.2 | 2010: CXXX. törvény |
 | 2016-09-01 | 2016-1248-30-22.3 | 1476/2016. (VIII. 31.) Korm. határozat |
+| 2017-04-11 | 2016-1248-30-22.4 | 1476/2016. (VIII. 31.) Korm. határozat |

@@ -2,15 +2,16 @@
 
 ## a) megállapítja a Vidékfejlesztési Program éves fejlesztési keretét az 1. melléklet szerint,
 
-## b) egyetért azzal, hogy a 2016. év végéig a prioritások kereteinek 94%-át meghaladó kötelezettség nem vállalható,
+## b)[^1] egyetért azzal, hogy a 2017. év végéig a prioritások kereteinek 94%-át meghaladó kötelezettség nem vállalható,
 
 ## c) elfogadja a 2. melléklet szerinti projektek kiemelt projektként történő nevesítését.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^2]
 
-1. melléklet az 1248/2016. (V. 18.) Korm. határozathoz[^2]
+1. melléklet az 1248/2016. (V. 18.) Korm. határozathoz[^3]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1476/2016. (VIII. 31.) Korm. határozat 1. pont a) pontja és 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1210/2017. (IV. 10.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1476/2016. (VIII. 31.) Korm. határozat 1. pont a) pontja és 2. pontja, az 1210/2017. (IV. 10.) Korm. határozat 3. pont a) alpontja és 4. pont 4.2–4.26. alpontja szerint módosított szöveg.
