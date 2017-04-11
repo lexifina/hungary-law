@@ -1,26 +1,19 @@
-## tankönyvellátási szerződést köt.
+28. § (1)[^30] A könyvtárellátót a tankönyvterjesztési feladata ellátása ellenértékeként a tankönyv kiadójától a feladata ellátásának költségeit fedező díjazás illeti meg, amelynek mértéke az adott kiadótól terjesztésre átvett tankönyvek iskolai terjesztési árának a 20%-a.
 
-28. § (1) A Könyvtárellátót a tankönyvterjesztési feladata ellátása ellenértékeként a tankönyv kiadójától a feladata ellátásának költségeit fedező díjazás illeti meg, amelynek mértéke az adott kiadótól terjesztésre átvett tankönyvek iskolai terjesztési árának a 20%-a.
+(2)[^31]
 
-(2) A Könyvtárellátó a tankönyvterjesztéssel összefüggésben felmerült kiadásai és a feladata ellátásának költségei levonását követően fennmaradó összeget az iskolai tanulólétszámok arányában átadja
+(3)[^32] A könyvtárellátó nem tagadhatja meg a tankerületi központtól vagy a nem a tankerületi központ által fenntartott iskoláktól érkező a tankönyvellátási szerződés megkötésére irányuló megkeresést.
 
-a)[^20] a tankerületi központ által fenntartott iskolák esetében a tankerületi központ bevonásával az iskoláknak,
+(4)[^33] A (3) bekezdésben meghatározottakon túl a könyvtárellátó köteles segítséget nyújtani a tankerületi központnak és a nem a tankerületi központ által fenntartott iskoláknak
 
-b)[^21] a nem a tankerületi központ által fenntartott iskolák esetében az iskoláknak
-
-## az iskola könyvtári állományának a Nemzeti alaptantervben meghatározott célok teljesítését támogató könyvtári dokumentumokkal történő fejlesztésére.
-
-(3)[^22] A Könyvtárellátó nem tagadhatja meg a tankerületi központtól vagy a nem a tankerületi központ által fenntartott iskoláktól érkező a tankönyvellátási szerződés megkötésére irányuló megkeresést.
-
-(4)[^23] A (3) bekezdésben meghatározottakon túl a Könyvtárellátó köteles segítséget nyújtani a tankerületi központnak és a nem a tankerületi központ által fenntartott iskoláknak
-
-a) a használt tankönyvek iskoláknak történő forgalmazásához, kölcsönzéséhez,
+a)[^34]
 
 b) a szükséges tankönyvek, ajánlott és kötelező irodalom beszerzéséhez,
 
 c) az e rendelet alapján meghatározott külföldi tankönyvek beszerzéséhez.
 
-[^20]: A 28. § (2) bekezdés a) pontja a 46/2016. (XII. 28.) EMMI rendelet 4. § d) pontja szerint módosított szöveg.
-[^21]: A 28. § (2) bekezdés b) pontja a 46/2016. (XII. 28.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
-[^22]: A 28. § (3) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 12. § f) pontja, a 46/2016. (XII. 28.) EMMI rendelet 4. § c) és e) pontja szerint módosított szöveg.
-[^23]: A 28. § (4) bekezdés nyitó szövegrésze a 46/2016. (XII. 28.) EMMI rendelet 4. § c) és f) pontja szerint módosított szöveg.
+[^30]: A 28. § (1) bekezdése a 4/2017. (IV. 10.) EMMI rendelet 8. § 7. pontja szerint módosított szöveg.
+[^31]: A 28. § (2) bekezdését a 4/2017. (IV. 10.) EMMI rendelet 9. § b) pontja hatályon kívül helyezte.
+[^32]: A 28. § (3) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 12. § f) pontja, a 46/2016. (XII. 28.) EMMI rendelet 4. § c) és e) pontja, a 4/2017. (IV. 10.) EMMI rendelet 8. § 8. pontja szerint módosított szöveg.
+[^33]: A 28. § (4) bekezdés nyitó szövegrésze a 46/2016. (XII. 28.) EMMI rendelet 4. § c) és f) pontja, a 4/2017. (IV. 10.) EMMI rendelet 8. § 9. pontja szerint módosított szöveg.
+[^34]: A 28. § (4) bekezdés a) pontját a 4/2017. (IV. 10.) EMMI rendelet 9. § c) pontja hatályon kívül helyezte.

@@ -1,7 +1,9 @@
 ## 41. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-42. §[^33] (1) Nem kell benyújtani a 3. § szerinti kérelmet, ha a könyv borítójának impresszumának változtatását az állam tulajdonában álló egyes kiadó és tankönyvkiadó gazdasági társaságok állami feladatellátásának központi költségvetési szerv által történő átvételéről szóló 201/2014. (VIII. 14.) Korm. rendeletben (a továbbiakban: Rendelet) foglaltakra tekintettel szükséges elvégezni.
+42. §[^55] (1)[^56] Nem kell benyújtani a 3. § és az 5. § (3) bekezdése szerinti kérelmet, ha a jóváhagyott tankönyv, pedagógus-kézikönyv megváltozott borítójának, impresszumának, kötésmódjának változását jogszabály-módosításra tekintettel szükséges elvégezni.
 
-(2) Nem kell benyújtani az 5. § (3) bekezdésében meghatározott kérelmet a hivatalhoz a jóváhagyott tankönyv, pedagógus-kézikönyv megváltozó borítójára, impresszumára, kötésmódjára tekintettel, ha a könyv borítójának, impresszumának változtatását a Rendeletben foglaltakra tekintettel szükséges elvégezni.
+(2)[^57]
 
-[^33]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 21/2015. (IV. 17.) EMMI rendelet 8. §-a iktatta be.
+[^55]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 21/2015. (IV. 17.) EMMI rendelet 8. §-a iktatta be.
+[^56]: A 42. § (1) bekezdése a 4/2017. (IV. 10.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^57]: A 42. § (2) bekezdését a 4/2017. (IV. 10.) EMMI rendelet 9. § d) pontja hatályon kívül helyezte.

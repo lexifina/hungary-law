@@ -20,6 +20,8 @@ a) a tankönyv, valamint a digitális tananyag elektronikus úton történő át
 
 b) a tankönyv árkorlátnak megfelelő értékesítését az iskolai tankönyvellátás keretében,
 
-c) azt, hogy a tankönyvből, kísérleti tankönyvből egy példányt archiválás céljából átad a hivatalnak.
+c)[^14]
 
 (4) Azt a tankönyvet, pedagógus-kézikönyvet, amelyet adott évfolyamra, műveltségi területre, tantárgyra az Ntt. 3. § (6) bekezdése alapján a miniszter nyilvános pályázati eljárás során választott ki vagy amelyet adott évfolyamra, műveltségi területre, tantárgyra az Ntt. 3. § (1) bekezdés c) pontja szerint a miniszter kezdeményezésére kísérleti tankönyvként fejlesztettek ki, vagy pedagógus-kézikönyv fejlesztés keretei között hoztak létre, a hivatal a miniszter Nemzeti Tankönyvtanács szakértői véleményének mérlegelésével hozott döntésének megfelelően felveszi a tankönyvek hivatalos jegyzékére.
+
+[^14]: A 18. § (3) bekezdés c) pontját a 4/2017. (IV. 10.) EMMI rendelet 9. § a) pontja hatályon kívül helyezte.

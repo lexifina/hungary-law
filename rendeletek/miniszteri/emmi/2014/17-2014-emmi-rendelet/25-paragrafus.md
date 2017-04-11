@@ -6,9 +6,9 @@
 
 ## 12. Az iskolai tankönyv-támogatási és -megrendelési igények felmérésének folyamata
 
-25. § (1)[^14] Az iskola igazgatója minden év június 10-éig köteles felmérni, hány tanulónak kell vagy lehet biztosítani a tankönyvellátást az iskolai könyvtárból, könyvtárszobából történő tankönyvkölcsönzés útján.
+25. § (1)[^21] Az iskola igazgatója minden év április 20-áig köteles felmérni, hány tanulónak kell vagy lehet biztosítani a tankönyvellátást az iskolai könyvtárból, könyvtárszobából történő tankönyvkölcsönzés útján.
 
-(2)[^15] Az (1) bekezdés szerinti felmérés során tájékoztatni kell a szülőket arról, hogy mely tanulók lesznek jogosultak
+(2)[^22] Az iskola igazgatója június 10-éig tájékoztatja a szülőket arról, hogy mely tanulók lesznek jogosultak
 
 a) az Ntt. 4. § (1) bekezdése alapján ingyenes tankönyvellátásra,
 
@@ -16,7 +16,7 @@ b) az Ntt. 4. § (2) bekezdése alapján ingyenes tankönyvellátásra,
 
 c) nemzetiségi tankönyvellátásra az Ntt. 4. § (2) bekezdése alapján ingyenes tankönyvellátásra nem jogosult tanulók közül.
 
-(3) Az (1) bekezdés szerinti felméréssel egyidejűleg tájékoztatást kell adni arról, hogy az iskola, az iskola fenntartója vagy működtetője, illetve más támogató kíván-e biztosítani bármely további tankönyv-támogatási kedvezményt. Az iskolába belépő új osztályok tanulói esetében a felmérést a beiratkozás napjáig kell elvégezni.
+(3)[^23] Az iskola igazgatója tájékoztatja a szülőket arról, hogy az iskola, az iskola fenntartója, illetve más támogató kíván-e biztosítani bármely további tankönyvtámogatási kedvezményt. Ennek tényét július 15-éig a könyvtárellátó felületén is rögzíti.
 
 (4) Az iskola igazgatója az (1) bekezdésben meghatározott felmérés alapján megállapítja, hány tanuló
 
@@ -28,8 +28,9 @@ c) esetében kell biztosítani a miniszter által megállapított tanulói tér�
 
 d) igényel és milyen típusú tankönyvtámogatást az a)–b) pontokban foglaltakon túl.
 
-(5)[^16] A (4) bekezdés b) pontja szerinti igényeket az 5. mellékletben meghatározott igénylőlapon lehet benyújtani. Az igénylőlap benyújtásával egyidejűleg be kell mutatni a normatív kedvezményre való jogosultságot igazoló iratokat vagy az 5. melléklet szerinti igénylőlapon nyilatkozni kell a normatív kedvezményre való jogosultság későbbi időpontban történő igazolásáról. Az iratok bemutatásának tényét az iskola igazgatója rávezeti az igénylőlapra.
+(5)[^24] A (4) bekezdés b) pontja szerinti igényeket az 5. mellékletben meghatározott igénylőlapon lehet benyújtani. Az igénylőlap benyújtásával egyidejűleg be kell mutatni a normatív kedvezményre való jogosultságot igazoló iratokat vagy az 5. melléklet szerinti igénylőlapon nyilatkozni kell a normatív kedvezményre való jogosultság későbbi időpontban történő igazolásáról. Az iratok bemutatásának tényét az iskola igazgatója rávezeti az igénylőlapra.
 
-[^14]: A 25. § (1) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
-[^15]: A 25. § (2) bekezdés nyitó szövegrésze a 21/2015. (IV. 17.) EMMI rendelet 13. § b) pontja szerint módosított szöveg.
-[^16]: A 25. § (5) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 12. § e) pontja szerint módosított szöveg.
+[^21]: A 25. § (1) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 13. § a) pontja, a 4/2017. (IV. 10.) EMMI rendelet 8. § 5. pontja szerint módosított szöveg.
+[^22]: A 25. § (2) bekezdése a 4/2017. (IV. 10.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^23]: A 25. § (3) bekezdése a 4/2017. (IV. 10.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^24]: A 25. § (5) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 12. § e) pontja szerint módosított szöveg.

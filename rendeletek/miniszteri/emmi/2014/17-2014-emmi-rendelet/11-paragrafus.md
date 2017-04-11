@@ -16,6 +16,6 @@ d) a tankönyv átdolgozását a vizsgálati eredmények és a továbbfejleszté
 
 (5) A vizsgálatba legalább tíz iskolát be kell vonni.
 
-(6)[^8] A kísérleti tankönyv kipróbálási időszaka végén a miniszter a Nemzeti Tankönyvtanács szakértői véleményének mérlegelésével hozott döntése alapján az Ntt. 2. § (1) bekezdés a) pont ac) alpontja szerinti feladatkörében eljáró EKE a kísérleti tankönyv tankönyvvé nyilvánítását kezdeményezheti.
+(6)[^12] A kísérleti tankönyv kipróbálási időszaka végén a miniszter a Nemzeti Tankönyvtanács szakértői véleményének mérlegelésével hozott döntése alapján az Ntt. 2. § (1) bekezdés a) pont ac) alpontja szerinti feladatkörében eljáró EKE a kísérleti tankönyv tankönyvvé nyilvánítását kezdeményezheti.
 
-[^8]: A 11. § (6) bekezdése a 45/2016. (XII. 28.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
+[^12]: A 11. § (6) bekezdése a 45/2016. (XII. 28.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.

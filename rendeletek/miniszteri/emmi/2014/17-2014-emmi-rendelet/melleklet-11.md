@@ -1,12 +1,12 @@
 ## A tankönyvellátási szerződés kötelező kereskedelmi feltételei
 
-## 1. A Könyvtárellátó köteles a megrendelt tankönyveket a tankönyvszerződéssel érintett iskola helyiségében a megállapodás szerinti időpontban az iskolának átadni.
+## 1.[^64] A könyvtárellátó köteles a megrendelt tankönyveket a tankönyvszerződéssel érintett iskola helyiségében a megállapodás szerinti időpontban az iskolának átadni.
 
-## 2.[^40] A tankerületi központ, az iskola az iskolai tankönyvrendeléssel érintett tankönyvek vonatkozásában köteles mennyiségi vagy minőségi kifogásait haladéktalanul jelezni a Könyvtárellátó részére, melyet a Könyvtárellátó a tankerületi központ által fenntartott iskola esetében a tankerületi központtal, a nem a tankerületi központ által fenntartott iskola esetében az iskolával közösen megállapodott feltételekkel orvosol.
+## 2.[^65] A tankerületi központ, az iskola az iskolai tankönyvrendeléssel érintett tankönyvek vonatkozásában köteles mennyiségi vagy minőségi kifogásait haladéktalanul jelezni a könyvtárellátó részére, melyet a könyvtárellátó a tankerületi központ által fenntartott iskola esetében a tankerületi központtal, a nem a tankerületi központ által fenntartott iskola esetében az iskolával közösen megállapodott feltételekkel orvosol.
 
-## 3.[^41] A tankerületi központ vagy az iskola a visszárut szeptember 8-ig köteles (a felek eltérő megállapodása hiányában) saját helyiségében visszaszállításra előkészíteni és ezt követően a Könyvtárellátó rendelkezésére bocsátani.
+## 3.[^66]
 
-11. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^42]
+11. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^67]
 
 Igazolás
 
@@ -42,6 +42,7 @@ P. H.
 
 a gondozási helyet biztosító intézmény vezetője
 
-[^40]: A 10. melléklet 2. pontja a 46/2016. (XII. 28.) EMMI rendelet 4. § b) és d) pontja szerint módosított szöveg.
-[^41]: A 10. melléklet 3. pontja a 46/2016. (XII. 28.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
-[^42]: A 11. mellékletet a 45/2015. (X. 6.) EMMI rendelet 2. §-a iktatta be.
+[^64]: A 10. melléklet 1. pontja a 4/2017. (IV. 10.) EMMI rendelet 8. § 21. pontja szerint módosított szöveg.
+[^65]: A 10. melléklet 2. pontja a 46/2016. (XII. 28.) EMMI rendelet 4. § b) és d) pontja, a 4/2017. (IV. 10.) EMMI rendelet 8. § 22. pontja szerint módosított szöveg.
+[^66]: A 10. melléklet 3. pontját a 4/2017. (IV. 10.) EMMI rendelet 9. § e) pontja hatályon kívül helyezte.
+[^67]: A 11. mellékletet a 45/2015. (X. 6.) EMMI rendelet 2. §-a iktatta be.

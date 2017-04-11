@@ -16,10 +16,12 @@ cc) a tankönyvjegyzéket az adott szakképesítésért felelős miniszter áll�
 
 d) ha a szakképzési tankönyv a nemzetiségi iskolai nevelés-oktatásához készült, az érintett szakképesítésért felelős miniszter beszerzi az Országos Nemzetiségi Tanács véleményét.
 
-(2) A Szakmai Tankönyv Bizottság legalább öt főből áll, működése feltételeit az adott szakképesítésért felelős miniszter biztosítja, a bizottság szervezeti és működési szabályzatát az adott szakképesítésért felelős miniszter hagyja jóvá.
+(2)[^20] A Szakmai Tankönyv Bizottság legalább öt főből áll, működése feltételeit az adott szakképesítésért felelős miniszter biztosítja, a bizottság ügyrendjét az adott szakképesítésért felelős miniszter hagyja jóvá.
 
 (3) A Szakképzési Tankönyv és Taneszköz Tanács tagjait és elnökét a Nemzeti Szakképzési és Felnőttképzési Tanács javaslata alapján a szakképzésért és felnőttképzésért felelős miniszter, a Szakmai Tankönyv Bizottság tagjait és elnökét az adott szakképesítésért felelős miniszter kéri fel és bízza meg öt évre.
 
 (4) A Szakképzési Tankönyv és Taneszköz Tanács működésének feltételeit a szakképzésért és felnőttképzésért felelős miniszter biztosítja.
 
 (5) A hivatal irányítási jogai gyakorlójának – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § i)–j) pontja alapján – a hatáskörébe tartozó szakképesítésekhez készített tankönyvei benyújtásakor a hivatal jár el azzal, hogy a 8. § (7) bekezdésben foglaltak fennállása esetén a Szakképzési Tankönyv és Taneszköz Tanács szakmacsoport szerint illetékes tagjához kell fordulnia. A hivatalnak ebben az esetben a 9. §-ban foglaltakat kell alkalmaznia.
+
+[^20]: A 23. § (2) bekezdése a 4/2017. (IV. 10.) EMMI rendelet 8. § 4. pontja szerint módosított szöveg.

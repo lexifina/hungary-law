@@ -146,6 +146,6 @@
 
 ## 7. a pedagógus-kézikönyvvé nyilvánítás tényét (a jogerős határozat számát és a jogerőre emelkedés időpontját).
 
-5. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^36]
+5. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^60]
 
-[^36]: Az 5. melléklet a 21/2015. (IV. 17.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^60]: Az 5. melléklet a 21/2015. (IV. 17.) EMMI rendelet 10. §-ával megállapított, a 4/2017. (IV. 10.) EMMI rendelet 8. § 18. pontja szerint módosított szöveg.

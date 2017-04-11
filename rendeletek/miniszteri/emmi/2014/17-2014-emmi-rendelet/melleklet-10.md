@@ -4,12 +4,12 @@
 
 ## 2. A kiadó a végleges és pótrendelésben foglaltak visszautasítása, nem teljesítése esetén a fedezeti vétel esetleges többletköltségeit fedező kötbér fizetésére köteles.
 
-## 3. A kiadó köteles a megrendelt tankönyveket a Könyvtárellátó által megjelölt országos gyűjtőraktárakba saját költségén eljuttatni.
+## 3. A kiadó köteles a megrendelt tankönyveket a könyvtárellátó által megjelölt országos gyűjtőraktárakba saját költségén eljuttatni.
 
-## 4. A Könyvtárellátó a terjesztésre átvett tankönyvek ellenértékével folyó év december 15-ig, a pótrendelések és a később igazolt kedvezmények tekintetében következő év január 31-ig számol el a tankönyvkiadók felé.
+## 4. A könyvtárellátó a terjesztésre átvett tankönyvek ellenértékével folyó év október 31-éig, a pótrendelések és a később igazolt kedvezmények tekintetében folyó év december 31-éig számol el a tankönyvkiadók felé.
 
 ## 5. A kiadó a tankönyv megrendelésével a tárgyév december 15-éig köteles a visszáru átvételére.
 
-10. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^39]
+10. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^63]
 
-[^39]: A 10. melléklet a 21/2015. (IV. 17.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^63]: A 10. melléklet a 21/2015. (IV. 17.) EMMI rendelet 11. §-ával megállapított szöveg.

@@ -6,7 +6,7 @@
 
 a) – a b) pontban meghatározott eltéréssel – az Ntt. 3. § (3) bekezdésében meghatározottak (a továbbiakban: kérelmező) nyújthatják be az Oktatási Hivatalhoz (a továbbiakban: hivatal),
 
-b)[^1] a könyvkiadást folytató jogi személy – ide nem értve az állami tankönyvfejlesztésért és kiadásért felelős szerv feladatait ellátó Eszterházy Károly Egyetemet (a továbbiakban: EKE) – az Ntt. 7. § (2) bekezdése szerinti nyilvános felhívás esetén nyújthatja be.
+b)[^2] a könyvkiadást folytató jogi személy – ide nem értve az állami tankönyvfejlesztésért és kiadásért felelős szerv feladatait ellátó Eszterházy Károly Egyetemet (a továbbiakban: EKE) – az Ntt. 7. § (2) bekezdése szerinti nyilvános felhívás esetén nyújthatja be.
 
 (3) Szakképzési tankönyv esetén az Ntt. 3. § (7) bekezdésében meghatározott szervhez kell a kérelmet benyújtani.
 
@@ -34,4 +34,4 @@ e) a 2. mellékletben meghatározott igazgatási szolgáltatási díj megfizeté
 
 (10) Az 1., a 7. és a 10. §-ban, valamint a 11. § (2)–(4) bekezdésében foglaltak kivételével az I. Fejezetben foglaltakat nem kell alkalmazni abban az esetben, ha a tankönyvet a miniszter kezdeményezésére az Ntt. 3. § (1) bekezdés c) pontja alapján fejlesztették ki.
 
-[^1]: A 2. § (2) bekezdés b) pontja a 45/2016. (XII. 28.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés b) pontja a 45/2016. (XII. 28.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.

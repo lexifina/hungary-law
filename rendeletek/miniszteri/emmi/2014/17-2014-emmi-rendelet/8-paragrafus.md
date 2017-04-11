@@ -18,7 +18,7 @@ készít szakértői véleményt azzal, hogy a könyv pedagógus-kézikönyvvé 
 
 (6) A tankönyvvé, pedagógus-kézikönyvvé nyilvánítási eljárásban az rendelhető ki pedagógiai szakértőként,
 
-a) akit a közoktatási szakértői tevékenység, valamint az érettségi vizsgaelnöki megbízás feltételeiről szóló 38/2009. (XII. 29.) OKM rendelet (a továbbiakban: szakértői rendelet) 1. § (2) bekezdés e) pont ec) alpontjában meghatározott tankönyv, taneszköz szakértői szakirány vagy tantervi szakértői szakirány köznevelési szakértőjeként tartanak nyilván,
+a)[^8] akit a köznevelési szakértői tevékenység, valamint az érettségi vizsgaelnöki megbízás feltételeiről szóló 15/2015. (III. 13.) EMMI rendelet 1. melléklet 5. pontja szerinti akkreditáció szakterület 5.2. alpontjában meghatározott tantervi szakértői szakirány és 5.3. alpontjában meghatározott tankönyv, taneszköz szakértői tevékenység szakirány szakértőjeként tartanak nyilván,
 
 b) aki az adott szakterületen tudományos címmel vagy tudományos fokozattal rendelkezik, vagy
 
@@ -57,3 +57,5 @@ d) aki olyan könyv, pedagógus-kézikönyv szerzője, amelynek tankönyvvé, pe
 (11) A szakértő kirendelése előtt ötnapos határidő kitűzésével be kell szerezni az érintett szakértő írásos nyilatkozatát arról, hogy vele szemben nem áll fenn összeférhetetlenségi ok.
 
 (12) A (2) és (6) bekezdésben meghatározott szakértőket szakértői véleményük elkészítéséért a 8. mellékletben meghatározott díjazás illeti meg.
+
+[^8]: A 8. § (6) bekezdés a) pontja a 4/2017. (IV. 10.) EMMI rendelet 2. §-ával megállapított szöveg.

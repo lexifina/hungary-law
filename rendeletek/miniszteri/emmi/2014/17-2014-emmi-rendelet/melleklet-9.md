@@ -68,6 +68,6 @@
 
 ## A tankönyv típusától függően a kirendelt szakértő szakértői díjazása a tankönyvvé nyilvánítás meghosszabbítására irányuló eljárásban alkalmazott 2. pont a)-d) alpontja szerinti díjazással egyezik meg.
 
-9. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^38]
+9. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^62]
 
-[^38]: A 9. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § h)–i) pontja szerint módosított szöveg.
+[^62]: A 9. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § h)–i) pontja, a 4/2017. (IV. 10.) EMMI rendelet 8. § 19–20. pontja szerint módosított szöveg.
