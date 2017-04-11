@@ -20,9 +20,9 @@
 
 a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetében 2016. június 30-áig,
 
-b)[^7] a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetében 2017. március 31-ig,
+b)[^7] a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetében 2017. május 31-ig,
 
-c)[^8] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetében 2017. március 31-ig
+c)[^8] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetében 2017. május 31-ig
 
 ## hatályba lépett hitelszerződéssel rendelkezik;
 
@@ -44,8 +44,8 @@ c)[^8] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szer
 [^4]: Az 1. § 3. pontja a 77/2015. (XII. 1.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § 4. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 14. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^7]: Az 1. § 6. pont b) alpontja a 78/2016. (XII. 12.) FM rendelet 13. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § 6. pont c) alpontja a 78/2016. (XII. 12.) FM rendelet 13. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 6. pont b) alpontja a 78/2016. (XII. 12.) FM rendelet 13. § a) pontja, a 17/2017. (IV. 10.) FM rendelet 9. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § 6. pont c) alpontja a 78/2016. (XII. 12.) FM rendelet 13. § a) pontja, a 17/2017. (IV. 10.) FM rendelet 9. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § 8. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^10]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
 [^11]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.

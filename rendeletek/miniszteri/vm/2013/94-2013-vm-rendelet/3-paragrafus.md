@@ -18,9 +18,15 @@ támogatást vehet igénybe.
 
 (4a)[^16] A 77/2015. (XII. 1.) FM rendeletnek
 
-a)[^17] kizárólag a 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és legkésőbb 2017. március 31-ig hatályba lépett hitelszerződéssel rendelkező, vagy
+a)[^17] kizárólag a 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és legkésőbb 2017. május 31-ig hatályba lépett hitelszerződéssel rendelkező, vagy
 
-b)[^18] az 1. és 3. mellékletében egyaránt szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és 2016. június 30-át követően, de legkésőbb 2017. március 31-ig hatályba lépett hitelszerződéssel rendelkező vállalkozás esetében a támogatás mértéke az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépését[^19] megelőzően benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű, összes földterület minden megkezdett hektárja után számított, legfeljebb 500 000 forint összegű hitelnek az 51/2016. (VII. 21.) FM rendelet hatálybalépésétől kezdődően esedékes kezességi díjai tekintetében 100%. A hitelprogram keretében igénybe vett hitelnek a 100%-os kezességi díjtámogatású részén felüli részére számított kezességi díjtámogatás mértéke megegyezik 3. § (3) bekezdésében foglalt mértékkel és az a rá vonatkozó szabályok szerint vehető igénybe.
+b)[^18] az 1. és 3. mellékletében egyaránt szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és 2016. június 30-át követően, de legkésőbb 2017. május 31-éig hatályba lépett hitelszerződéssel rendelkező vállalkozás esetében a támogatás mértéke az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépését[^19] megelőzően benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű, összes földterület minden megkezdett hektárja után számított,
+
+ba) az egyes nemzeti forrásból finanszírozott agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 17/2017. (IV. 10.) FM rendelet [a továbbiakban: 17/2017. (IV. 10.) FM rendelet] hatálybalépését[^20] megelőzően hatályba lépett hitelszerződések esetén legfeljebb 500 000 forint összegű,
+
+bb) a 17/2017. (IV. 10.) FM rendelet hatálybalépéstől[^21] kezdődően hatályba lépett hitelszerződések esetén legfeljebb 1 000 000 forint összegű
+
+## hitelnek az 51/2016. (VII. 21.) FM rendelet hatálybalépésétől kezdődően esedékes kezességi díjai tekintetében 100%, továbbá a hitelprogram keretében igénybe vett hitelnek a 100%-os kezességi díjtámogatású részén felüli részére számított kezességi díjtámogatás mértéke megegyezik 3. § (3) bekezdésében foglalt mértékkel és az a rá vonatkozó szabályok szerint vehető igénybe.
 
 (5) A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ennél alacsonyabb kezességvállalás esetén a kezességi díjtámogatás mértéke arányosan csökken.
 
@@ -40,6 +46,8 @@ b)[^18] az 1. és 3. mellékletében egyaránt szereplő település valamelyik�
 [^14]: A 3. § (3) bekezdése a 77/2015. (XII. 1.) FM rendelet 14. § (7) bekezdése szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdése az 51/2016. (VII. 21.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^16]: A 3. § (4a) bekezdését az 51/2016. (VII. 21.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^17]: A 3. § (4a) bekezdés a) pontja a 78/2016. (XII. 12.) FM rendelet 13. § b) pontja szerint módosított szöveg.
-[^18]: A 3. § (4a) bekezdés b) pontja a 78/2016. (XII. 12.) FM rendelet 13. § b) pontja szerint módosított szöveg.
+[^17]: A 3. § (4a) bekezdés a) pontja a 78/2016. (XII. 12.) FM rendelet 13. § b) pontja, a 17/2017. (IV. 10.) FM rendelet 9. § a) pontja szerint módosított szöveg.
+[^18]: A 3. § (4a) bekezdés b) pontja a 17/2017. (IV. 10.) FM rendelet 8. §-ával megállapított szöveg.
 [^19]: A hatálybalépés időpontja 2016. július 22.
+[^20]: A hatálybalépés időpontja 2017. április 11.
+[^21]: A hatálybalépés időpontja 2017. április 11.
