@@ -1,4 +1,4 @@
-27/D. §[^107] (1) A TA projektek hazai kedvezményezettjei számára a Nemzeti Hatóság megelőlegezést biztosíthat.
+27/D. §[^108] (1) A TA projektek hazai kedvezményezettjei számára a Nemzeti Hatóság megelőlegezést biztosíthat.
 
 (2) Az (1) bekezdés szerinti megelőlegezésre a 27/A–27/C. §-t a következő eltérésekkel kell alkalmazni:
 
@@ -14,4 +14,4 @@ e) a TA projektek hazai kedvezményezettjei 550 ezer euró alatti TA projekt ese
 
 f) a közösségi támogatási szerződés számán a TA projekt azonosítóját kell érteni.
 
-[^107]: A 27/D. §-t a 341/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
+[^108]: A 27/D. §-t a 341/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.

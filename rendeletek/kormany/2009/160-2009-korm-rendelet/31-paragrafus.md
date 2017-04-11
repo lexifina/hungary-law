@@ -32,17 +32,17 @@ c) az alkalmazandó intézkedésre vonatkozó javaslatot, valamint az intézked�
 
 a) annak megállapításával, hogy nem történt szabálytalanság és a szabálytalansági eljárás intézkedés nélküli megszüntetésével, vagy
 
-b)[^116] a szabálytalanság megtörténtét megállapító, és – amennyiben szükséges – további, a szabálytalansággal arányos intézkedést elrendelő döntéssel, így különösen a hazai partner részére kifizetett támogatás részleges vagy teljes visszafizetésének elrendelésével.
+b)[^117] a szabálytalanság megtörténtét megállapító, és – amennyiben szükséges – további, a szabálytalansággal arányos intézkedést elrendelő döntéssel, így különösen a hazai partner részére kifizetett támogatás részleges vagy teljes visszafizetésének elrendelésével.
 
-(6)[^117] A Kbt., illetve a közbeszerzési eljárásra vonatkozó egyéb jogszabályok megsértésének gyanúja esetén a szabálytalansági vizsgálatot lefolytató szervezet vezetője a Kbt.-vel összhangban köteles a Közbeszerzési Döntőbizottság eljárását kezdeményezni és ezzel egyidejűleg dönt a szabálytalansági vizsgálat 32. § (5) bekezdése szerinti felfüggesztéséről.
+(6)[^118] A Kbt., illetve a közbeszerzési eljárásra vonatkozó egyéb jogszabályok megsértésének gyanúja esetén a szabálytalansági vizsgálatot lefolytató szervezet vezetője a Kbt.-vel összhangban köteles a Közbeszerzési Döntőbizottság eljárását kezdeményezni és ezzel egyidejűleg dönt a szabálytalansági vizsgálat 32. § (5) bekezdése szerinti felfüggesztéséről.
 
-(7)[^118] Közbeszerzést érintő szabálytalanság megállapítása esetén a szabálytalansággal érintett közbeszerzési eljárásban, az ajánlatkérő nevében eljáró vagy az eljárásba bevont személyek részére a támogatásból kifizetendő díj összegére eső támogatás kifizetése megtagadható, visszakövetelhető és a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
+(7)[^119] Közbeszerzést érintő szabálytalanság megállapítása esetén a szabálytalansággal érintett közbeszerzési eljárásban, az ajánlatkérő nevében eljáró vagy az eljárásba bevont személyek részére a támogatásból kifizetendő díj összegére eső támogatás kifizetése megtagadható, visszakövetelhető és a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
 
 (8) A szabálytalansági vizsgálat alapján elrendelt intézkedést az Irányító Hatóság és a Nemzeti Hatóság vezetője állapítja meg, a hitelesítési tevékenységre kijelölt szervezet által lefolytatott szabálytalansági vizsgálat esetében az Irányító Hatóság és a Nemzeti Hatóság vezetőjének jóvá kell hagynia a hitelesítési tevékenységre kijelölt szervezet által elrendelt intézkedést. Amennyiben a Irányító Hatóság és a Nemzeti Hatóság vezetője az intézkedést nem hagyja jóvá, akkor a hitelesítési tevékenységre kijelölt szervezetet legfeljebb két alkalommal új eljárás lefolytatására kötelezheti, az elrendelt intézkedést megváltoztathatja vagy saját hatáskörben új eljárást folytathat le.
 
-(9)[^119] Ha az ellenőrzési hatóság ellenőrzési tevékenysége során szabálytalanságot és ehhez kapcsolódó szankciót állapít meg, az e rendelet szerinti jogkövetkezmények alkalmazásának szükségességéről értesíti az Irányító Hatóság és a Nemzeti Hatóság vezetőjét, aki gondoskodik azok végrehajtásáról.
+(9)[^120] Ha az ellenőrzési hatóság ellenőrzési tevékenysége során szabálytalanságot és ehhez kapcsolódó szankciót állapít meg, az e rendelet szerinti jogkövetkezmények alkalmazásának szükségességéről értesíti az Irányító Hatóság és a Nemzeti Hatóság vezetőjét, aki gondoskodik azok végrehajtásáról.
 
-[^116]: A 31. § (5) bekezdés b) pontja a 137/2010. (IV. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^117]: A 31. § (6) bekezdése a 313/2013. (VIII. 27.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
-[^118]: A 31. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^119]: A 31. § (9) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 9. §-a iktatta be.
+[^117]: A 31. § (5) bekezdés b) pontja a 137/2010. (IV. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^118]: A 31. § (6) bekezdése a 313/2013. (VIII. 27.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^119]: A 31. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^120]: A 31. § (9) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 9. §-a iktatta be.
