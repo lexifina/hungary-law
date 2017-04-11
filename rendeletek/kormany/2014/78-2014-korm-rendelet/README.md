@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-78-20-2
 | 2014-03-16 | 2014-78-20-22.2 | 2010: CXXX. törvény |
 | 2015-01-01 | 2014-78-20-22.3 | 315/2014. (XII. 12.) Korm. rendelet |
 | 2016-07-01 | 2014-78-20-22.4 | 139/2016. (VI. 13.) Korm. rendelet |
+| 2017-04-11 | 2014-78-20-22.5 | 84/2017. (IV. 10.) Korm. rendelet |
