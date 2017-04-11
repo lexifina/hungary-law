@@ -1,0 +1,3 @@
+## 1. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjainak végrehajtásáról szóló 160/2009. (VIII. 3.) Korm. rendelet 18. §-a a következő (9) bekezdéssel egészül ki:
+
+## „(9) A nemzeti hatóság biztosítja a TA projektek hazai kedvezményezettje részére a külföldi partnerország nemzeti társfinanszírozási hányadának átmeneti finanszírozását a Kijelölő Rendelet 1. § (3) bekezdés h) pontja szerinti együttműködési program esetén, ha a partnerország társfinanszírozásának kezelésére szolgáló, euró pénznemben vezetett fizetési számla vagy annak alegyenlege kifizetést nem tesz lehetővé.”
