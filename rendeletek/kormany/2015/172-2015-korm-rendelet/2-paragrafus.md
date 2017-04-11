@@ -4,7 +4,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. A- és B-számla: a 609/2014/EU, Euratom tanácsi rendelet 6. cikke szerint összeállított dokumentum; a dokumentum egységesített formáját a Közösségek saját forrásainak rendszere keretében a tagállamok által a Bizottsághoz eljuttatandó egyes információk továbbítására vonatkozó eljárások megállapításáról szóló, 1997. március 20-i 97/245/EK, Euratom bizottsági határozat írja elő;
+1.[^2] A- és B-számla: a 609/2014/EU, Euratom tanácsi rendelet 6. cikke szerint összeállított dokumentum, azzal, hogy a dokumentum egységesített formáját a saját forrásokra vonatkozó jogosultságok számlakimutatásaira vonatkozó minták és a saját forrásokra vonatkozó jogosultságoknak megfelelő behajthatatlan összegekről szóló bejelentési nyomtatvány 609/2014/EU, Euratom tanácsi rendelet szerint történő kidolgozásáról szóló, 2016. december 19-i 2016/2366/EU, Euratom bizottsági végrehajtási határozat állapítja meg;
 
 2. áfa-alapú hozzájárulás: a 2014/335/EU, Euratom tanácsi határozat 2. cikk (1) bekezdés b) pontja értelmében a tagállam harmonizált áfa-alapjára vetített, minden tagállamra egységesen alkalmazott egységkulccsal képzett összeg;
 
@@ -19,3 +19,5 @@
 7. harmonizált áfa-alap: a hozzáadottérték-adóból származó saját források beszedésének végleges egységes rendszeréről szóló, 1989. május 29-i 1553/89/EK, Euratom tanácsi rendeletben meghatározott, minden tagállamra egységesen alkalmazott módszer alapján kiszámított áfa-alap;
 
 8. tradicionális saját források: a 2014/335/EU, Euratom tanácsi határozat 2. cikk (1) bekezdés a) pontja szerinti, az Európai Unió által a tagsággal nem rendelkező országokkal folytatott kereskedelemre megállapított vámok, egyéb vámok (a továbbiakban együtt: vámok), valamint a cukorágazat piacának közös szervezése keretein belül nyújtott hozzájárulások (a továbbiakban: cukorágazati hozzájárulások).
+
+[^2]: A 2. § 1. pontja a 84/2017. (IV. 10.) Korm. rendelet 11. §-ával megállapított szöveg.
