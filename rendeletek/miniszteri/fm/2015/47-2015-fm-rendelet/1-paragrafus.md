@@ -22,9 +22,9 @@
 
 a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetében 2016. június 30-áig,
 
-b)[^3] a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetében 2017. március 31-ig,
+b)[^3] a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetében 2017. május 31-ig,
 
-c)[^4] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetében 2017. március 31-ig
+c)[^4] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetében 2017. május 31-ig
 
 ## hatályba lépett hitelszerződéssel rendelkezik;
 
@@ -36,7 +36,7 @@ b) a 77/2015. (XII. 1.) FM rendeletnek
 
 ba) kizárólag a 3. mellékletében szereplő településen működő, vagy
 
-bb)[^6] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de 2017. március 31-ig hatályba lépett hitelszerződéssel rendelkező
+bb)[^6] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de 2017. május 31-ig hatályba lépett hitelszerződéssel rendelkező
 
 ## kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^7] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
 
@@ -56,10 +56,10 @@ bb)[^6] az 1. és 3. mellékletében egyaránt szereplő településen működő
 
 [^1]: Az 1. § 5. pontja a 77/2015. (XII. 1.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 5a. pont b) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a szerint módosított szöveg.
-[^4]: Az 1. § 5a. pont c) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a szerint módosított szöveg.
+[^3]: Az 1. § 5a. pont b) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a, a 17/2017. (IV. 10.) FM rendelet 15. §-a szerint módosított szöveg.
+[^4]: Az 1. § 5a. pont c) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a, a 17/2017. (IV. 10.) FM rendelet 15. §-a szerint módosított szöveg.
 [^5]: Az 1. § 5b. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. § 5b. pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a szerint módosított szöveg.
+[^6]: Az 1. § 5b. pont b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a, a 17/2017. (IV. 10.) FM rendelet 15. §-a szerint módosított szöveg.
 [^7]: A hatálybalépés időpontja 2016. július 22.
 [^8]: Az 1. § 6. pontja a 88/2016. (XII. 29.) FM rendelet 90. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § 10. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
