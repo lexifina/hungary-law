@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2017-01-01 | 2007-148-20-82.32 | 78/2016. (XII. 12.) FM rendelet |
 | 2017-02-14 | 2007-148-20-82.33 | 6/2017. (II. 13.) FM rendelet |
 | 2017-03-18 | 2007-148-20-82.34 | 13/2017. (III. 17.) FM rendelet |
+| 2017-04-11 | 2007-148-20-82.35 | 65/2016. (IX. 21.) FM rendelet |

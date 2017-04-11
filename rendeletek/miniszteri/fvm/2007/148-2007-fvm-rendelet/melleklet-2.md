@@ -48,7 +48,7 @@
 
 | 24. | B012 | Myxomatózis elleni vakcinázás | házinyúl | Vakcinázás: 250 Ft/alkalom/vakcina |
 
-| 25. | B013 | Nyulak vérzéses betegsége (RHDV) elleni vakcinázás | házinyúl | Vakcinázás: 250 Ft/alkalom/vakcina |
+| 25. | B013 | Nyulak vérzéses betegsége (RHDV) elleni vakcinázás | házinyúl | Vakcinázás: 300 Ft/alkalom/vakcina |
 
 | 26. | E001 | Takonykór (Malleus) | egypatások | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: KK: 1000 Ft |
 
