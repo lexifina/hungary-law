@@ -8,7 +8,17 @@
 
 ## 45. A külföldi felsőoktatási intézmények magyarországi működése
 
-76. § (1) Magyarország területén külföldi felsőoktatási intézmény akkor folytathat oklevelet adó képzési tevékenységet, ha a származási országában államilag elismert felsőoktatási intézménynek minősül és az általa Magyarország területén folytatni kívánt képzés és az arra tekintettel kiállított oklevél államilag elismert felsőoktatási fokozatot adó képzésnek (oklevélnek) felel meg és a működését az oktatási hivatal engedélyezte. Az oktatási hivatal a működési engedélyre vonatkozó határozatát visszavonja, amennyiben a felsőoktatási intézmény, vagy a képzés e feltételeknek utóbb nem felel meg.
+76. § (1) Magyarország területén külföldi felsőoktatási intézmény akkor folytathat oklevelet adó képzési tevékenységet, ha
+
+a) magyarországi működésének elvi támogatásáról szóló, Magyarország Kormánya és a külföldi felsőoktatási intézmény székhelye szerinti állam Kormánya által kötött – föderatív állam esetében, amennyiben a nemzetközi szerződés kötelező hatályának elismerésére nem a központi kormányzat jogosult, annak központi kormányzatával létrejött előzetes megállapodáson alapuló – nemzetközi szerződés kötelező hatályát a szerződő felek elismerték,
+
+b) a székhelye szerinti országban működő, és ott ténylegesen felsőoktatási képzést folytató államilag elismert felsőoktatási intézménynek minősül,
+
+c) az általa Magyarország területén folytatni kívánt képzés és az arra tekintettel kiállított oklevél államilag elismert felsőoktatási fokozatot adó képzésnek minősül és
+
+d) működését az oktatási hivatal engedélyezte.
+
+(1a) Az (1) bekezdés szerinti felsőoktatási intézmény tekintetében – a történelem kiemelkedő személyiségeivel kapcsolatos névhasználati szabály kivételével – alkalmazni kell a 9. § (2a) és (2b) bekezdése szerinti szabályokat is azzal, hogy a felsőoktatási intézmény elnevezése sem az 1. melléklet szerinti, sem Magyarországon képzési tevékenységet folytató külföldi felsőoktatási intézménnyel nem lehet összetéveszthető.
 
 (2) A működési engedély kiadása megtagadható az oktatási hivatal által beszerzett felsőoktatási akkreditációs szervezet szakvéleménye alapján, ha az alapján megállapítható, hogy a magyarországi és a székhely szerinti országban érvényes működési és képzési feltételek jelentősen eltérnek. A szakvélemény nyilatkozik a képzés személyi és tárgyi feltételeiről, a képzés minőségéről.
 

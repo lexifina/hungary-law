@@ -89,9 +89,3 @@ a) természetes személyazonosító adatai,
 b) adóazonosító jele,
 
 c) lakóhelye,
-
-d) elérhetősége.
-
-2. Az 1. pontban megjelölt adatok kezelésére jogosult: a felsőoktatási intézmény.
-
-3. Az adatkezelés célja: a 18. § (1) bekezdés szerint.

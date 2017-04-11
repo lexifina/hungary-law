@@ -2,6 +2,10 @@
 
 (2) Az „egyetem” vagy „főiskola” elnevezés, valamint ezek idegen nyelvű megfelelői használatára csak az e törvény 1. melléklete szerinti – továbbá az e törvény alapján a Magyarország területén működő külföldi – felsőoktatási intézmény jogosult.
 
+(2a) A felsőoktatási intézmény elnevezésének más felsőoktatási intézmény elnevezésétől egyértelműen különböznie kell. A felsőoktatási intézmény elnevezése nem lehet megtévesztő, nem kelthet az intézményre, annak tevékenységére vonatkozó hamis látszatot. Megtévesztőnek, illetve összetéveszthetőnek minősül a felsőoktatási intézmény elnevezése, ha annak magyar vagy idegen nyelven történő megnevezése és valamely más, az oktatási hivatalnál nyilvántartásba vett felsőoktatási intézmény elnevezése megegyezik. A felsőoktatási intézményt élő személyről elnevezni nem lehet. A történelem kiemelkedő személyiségeinek nevét a Magyar Tudományos Akadémia engedélyével, továbbá olyan nevet, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a felsőoktatási intézmény nevében feltüntetni.
+
+(2b) A felsőoktatási intézmény idegen nyelvű elnevezésének tartalmilag egyeznie kell a magyar nyelvű elnevezéssel. Két vagy több azonos nevű felsőoktatási intézmény esetén a név viselésének joga azt a felsőoktatási intézményt illeti meg, amelyik fenntartója a nyilvántartásba vételi kérelmet elsőként nyújtotta be.
+
 (3) Egyetem az a felsőoktatási intézmény, amelyik
 
 a) legalább nyolc alapképzési és hat mesterképzési szakon jogosult képzésre, valamint doktori képzésre és doktori fokozat odaítélésére,
