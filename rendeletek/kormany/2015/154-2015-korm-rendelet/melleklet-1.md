@@ -1,4 +1,6 @@
-1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^26]
+## 76. §[^28] E rendeletnek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet módosításáról szóló 86/2017. (IV. 10.) Korm. rendelettel megállapított 32/E. § (5a) bekezdését az Egyesült Nemzetek Szervezete ciprusi békefenntartó missziójában (UNFICYP) részt vevők esetében a vezénylésük időtartamára, 2016. március 1-jétől kell alkalmazni.
+
+1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^29]
 
 ## A rendvédelmi szervnek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szempontjából központi, területi vagy helyi szervnek minősülő szervei
 
@@ -132,4 +134,5 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-[^26]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^28]: A 76. §-t a 86/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^29]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja szerint módosított szöveg.
