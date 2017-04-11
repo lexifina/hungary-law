@@ -1,12 +1,8 @@
 ## A Főigazgatóság egyéb európai uniós és nemzetközi támogatásokkal kapcsolatos ellenőrzési feladatai
 
-## 5. §[^10] A Főigazgatóság – külön jogszabály szerint – ellátja az egyéb európai uniós és nemzetközi támogatások Kormány által meghatározott ellenőrzési feladatait, valamint az azokhoz kapcsolódó tervezési, beszámolási, illetve zárónyilatkozat-kiadási feladatokat. Így elvégzi különösen
+## 5. §[^11] A Főigazgatóság – külön jogszabály szerint – ellátja az egyéb európai uniós és nemzetközi támogatások Kormány által meghatározott ellenőrzési feladatait, valamint az azokhoz kapcsolódó tervezési, beszámolási, illetve zárónyilatkozat-kiadási feladatokat. Így elvégzi különösen
 
-a) a 2004–2006 közötti programozási időszak tekintetében a strukturális alapokkal, a Kohéziós Alappal és az EQUAL Közösségi Kezdeményezés programmal kapcsolatos ellenőrzéseket;
-
-b) az európai uniós előcsatlakozási eszközök és Átmeneti Támogatás felhasználásának ellenőrzését;
-
-c) a Schengen Alap támogatásai felhasználásának ellenőrzését és a költségnyilatkozatok igazolását;
+a)–c)[^12]
 
 d) az INTERREG III Közösségi Kezdeményezés programokkal kapcsolatos ellenőrzéseket;
 
@@ -18,7 +14,8 @@ g) a Svájci–Magyar Együttműködési Programmal kapcsolatos ellenőrzési fe
 
 h) az Európai Unió Szolidaritási Alapjával kapcsolatos ellenőrzési feladatokat;
 
-i)[^11]
+i)[^13]
 
-[^10]: Az 5. § a 113/2011. (VII. 7.) Korm. rendelet 49. §-ával megállapított, nyitó szövegrésze a 214/2014. (VIII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^11]: Az 5. § i) pontját a 214/2014. (VIII. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 24/2017. (II. 3.) Korm. rendelet 2. §-a.
+[^11]: Az 5. § a 113/2011. (VII. 7.) Korm. rendelet 49. §-ával megállapított, nyitó szövegrésze a 214/2014. (VIII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^12]: Az 5. § a)–c) pontját a 84/2017. (IV. 10.) Korm. rendelet 8. § 2. pontja hatályon kívül helyezte.
+[^13]: Az 5. § i) pontját a 214/2014. (VIII. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 24/2017. (II. 3.) Korm. rendelet 2. §-a.

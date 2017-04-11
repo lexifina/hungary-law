@@ -16,4 +16,11 @@ g) az Európai Parlament és a Tanács 2007. május 23-i 2007/573/EK határozata
 
 h) az Európai Parlament és a Tanács 2007. május 23-i 2007/574/EK határozata a Szolidaritás és a migrációs áramlások igazgatása általános program keretében a 2007–2013-as időszakra a Külső Határok Alap létrehozásáról;
 
-i) az Európai Parlament és a Tanács 2007. május 23-i 2007/575/EK határozata a Szolidaritás és a migrációs áramlások igazgatása általános program keretében a 2008–2013-as időszakra az Európai Visszatérési Alap létrehozásáról.
+i) az Európai Parlament és a Tanács 2007. május 23-i 2007/575/EK határozata a Szolidaritás és a migrációs áramlások igazgatása általános program keretében a 2008–2013-as időszakra az Európai Visszatérési Alap létrehozásáról;
+
+j)[^39] az Európai Parlament és a Tanács 2013. december 17-i 1303/2013/EU rendelete az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről;
+
+k)[^40] a Bizottság 2014. március 3-i 480/2014/EU felhatalmazáson alapuló rendelete az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről.
+
+[^39]: A 16. § j) pontját a 84/2017. (IV. 10.) Korm. rendelet 6. §-a iktatta be.
+[^40]: A 16. § k) pontját a 84/2017. (IV. 10.) Korm. rendelet 6. §-a iktatta be.

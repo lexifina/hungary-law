@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-210-20-
 | 2015-07-08 | 2010-210-20-22.10 | 113/2011. (VII. 7.) Korm. rendelet |
 | 2016-04-06 | 2010-210-20-22.11 | 75/2016. (IV. 5.) Korm. rendelet |
 | 2017-02-04 | 2010-210-20-22.12 | 113/2011. (VII. 7.) Korm. rendelet |
+| 2017-04-11 | 2010-210-20-22.13 | 84/2017. (IV. 10.) Korm. rendelet |
