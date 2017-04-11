@@ -1,24 +1,24 @@
 ## 32. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-33. § (1)[^106] Az 1. mellékletben meghatározott hálózatokat működtető központi költségvetési szervek kötelesek a kormányzati célú hírközlési szolgáltatónak, illetve a számára hálózatot biztosító – többségi állami tulajdonban álló, vagy többségi állami tulajdonban álló gazdálkodó szervezet 100%-os tulajdonában álló – nyilvános hírközlési szolgáltatónak a felsorolt hálózatok részét képező összes, a működtető saját kezelésében vagy tulajdonában álló vagyoni elemet és más erőforrást átadni, valamint kötelesek a kormányzati célú hírközlési szolgáltatóval a felsorolt hálózatok működtetéséhez szükséges, elektronikus hírközlési tevékenységet biztosító szerződéses jogviszony átruházása tárgyában megállapodni, és ennek érdekében a működtető központi költségvetési szervvel szerződést kötő harmadik félnél a szükséges módosításokat kezdeményezni.
+33. § (1)[^110] Az 1. mellékletben meghatározott hálózatokat működtető központi költségvetési szervek kötelesek a kormányzati célú hírközlési szolgáltatónak, illetve a számára hálózatot biztosító – többségi állami tulajdonban álló, vagy többségi állami tulajdonban álló gazdálkodó szervezet 100%-os tulajdonában álló – nyilvános hírközlési szolgáltatónak a felsorolt hálózatok részét képező összes, a működtető saját kezelésében vagy tulajdonában álló vagyoni elemet és más erőforrást átadni, valamint kötelesek a kormányzati célú hírközlési szolgáltatóval a felsorolt hálózatok működtetéséhez szükséges, elektronikus hírközlési tevékenységet biztosító szerződéses jogviszony átruházása tárgyában megállapodni, és ennek érdekében a működtető központi költségvetési szervvel szerződést kötő harmadik félnél a szükséges módosításokat kezdeményezni.
 
 (2) Ha a rendelet hatálybalépésekor már létező, valamely előfizetői, hálózati és elektronikus hírközlési építmény közös használatára vonatkozó szerződés a rendeletben foglaltakkal ellentétes rendelkezést tartalmaz, az adott szerződéses jogviszonyra e rendeletet csak akkor kell alkalmazni, ha a szerződés feltételei szerint az abban részes felhasználó vagy a 10. § (3) bekezdése szerinti állami tulajdonú társaság a szerződés hatályának lejárta vagy meghosszabbítása előtt külön díj, kártérítés vagy kártalanítás fizetése nélkül is jogosult a szerződés tartalmát az e rendeletben foglaltak szerint módosítani, vagy ilyen módosításhoz a felhasználóval vagy a kizárólagos állami tulajdoni körbe tartozó társasággal szerződő fél díj, kártérítés vagy kártalanítás fizetése nélkül hozzájárult.
 
-(3)[^107] A (2) bekezdésben foglaltak nem vonatkoznak a miniszter által megkötött az egységes digitális rádiótávközlő rendszer üzemeltetési szerződéseire.
+(3)[^111] A (2) bekezdésben foglaltak nem vonatkoznak a miniszter által megkötött az egységes digitális rádiótávközlő rendszer üzemeltetési szerződéseire.
 
-(4)[^108] Ha az NTG-hez – a 4. § (2) bekezdése alapján – csatlakozásra kötelezett felhasználók
+(4)[^112] Ha az NTG-hez – a 4. § (2) bekezdése alapján – csatlakozásra kötelezett felhasználók
 
-az egyes kormányzati célú hálózatokkal összefüggő kormányrendeletek módosításáról szóló 169/2013. (V. 29.) Korm. rendelet (a továbbiakban: R2.) hatálybalépésekor[^109] már létező, valamely előfizetői, hálózati vagy szolgáltatási szerződéssel rendelkeznek, e rendeletet csak akkor kell alkalmazni, ha a szerződés feltételei szerint az abban részes felhasználó a szerződés hatályának lejárta előtt külön díj, kártérítés vagy kártalanítás fizetése nélkül is jogosult felmondani, a szerződés tartalmát az e rendeletben foglaltak szerint módosítani, vagy ilyen módosításhoz a felhasználóval szerződő fél díj, kártérítés vagy kártalanítás fizetése nélkül hozzájárult.
+az egyes kormányzati célú hálózatokkal összefüggő kormányrendeletek módosításáról szóló 169/2013. (V. 29.) Korm. rendelet (a továbbiakban: R2.) hatálybalépésekor[^113] már létező, valamely előfizetői, hálózati vagy szolgáltatási szerződéssel rendelkeznek, e rendeletet csak akkor kell alkalmazni, ha a szerződés feltételei szerint az abban részes felhasználó a szerződés hatályának lejárta előtt külön díj, kártérítés vagy kártalanítás fizetése nélkül is jogosult felmondani, a szerződés tartalmát az e rendeletben foglaltak szerint módosítani, vagy ilyen módosításhoz a felhasználóval szerződő fél díj, kártérítés vagy kártalanítás fizetése nélkül hozzájárult.
 
-(5)[^110] A (4) bekezdésben foglalt szerződés főbb adatairól a felhasználók kötelesek az R2. hatálybalépését[^111] követő 30 napon belül tájékoztatni a kormányzati célú hírközlési szolgáltatót.
+(5)[^114] A (4) bekezdésben foglalt szerződés főbb adatairól a felhasználók kötelesek az R2. hatálybalépését[^115] követő 30 napon belül tájékoztatni a kormányzati célú hírközlési szolgáltatót.
 
-(6)[^112] E rendeletnek a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet módosításáról szóló 188/2016. (VII. 13.) Korm. rendelet (a továbbiakban: R3.) 7. §-ával megállapított 16. § (2) bekezdését az R3. hatálybalépését[^113] követően megkezdett beszerzésekre kell alkalmazni.
+(6)[^116] E rendeletnek a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet módosításáról szóló 188/2016. (VII. 13.) Korm. rendelet (a továbbiakban: R3.) 7. §-ával megállapított 16. § (2) bekezdését az R3. hatálybalépését[^117] követően megkezdett beszerzésekre kell alkalmazni.
 
-[^106]: A 33. § (1) bekezdése a 300/2012. (X. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^107]: A 33. § (3) bekezdése a 169/2013. (V. 29.) Korm. rendelet 33. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^108]: A 33. § (4) bekezdését a 169/2013. (V. 29.) Korm. rendelet 29. §-a iktatta be.
-[^109]: A hatálybalépés időpontja 2013. május 30.
-[^110]: A 33. § (5) bekezdését a 169/2013. (V. 29.) Korm. rendelet 29. §-a iktatta be.
-[^111]: A hatálybalépés időpontja 2013. május 30.
-[^112]: A 33. § (6) bekezdését a 169/2013. (V. 29.) Korm. rendelet 29. §-a iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^113]: A hatálybalépés időpontja 2016. július 17.
+[^110]: A 33. § (1) bekezdése a 300/2012. (X. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^111]: A 33. § (3) bekezdése a 169/2013. (V. 29.) Korm. rendelet 33. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^112]: A 33. § (4) bekezdését a 169/2013. (V. 29.) Korm. rendelet 29. §-a iktatta be.
+[^113]: A hatálybalépés időpontja 2013. május 30.
+[^114]: A 33. § (5) bekezdését a 169/2013. (V. 29.) Korm. rendelet 29. §-a iktatta be.
+[^115]: A hatálybalépés időpontja 2013. május 30.
+[^116]: A 33. § (6) bekezdését a 169/2013. (V. 29.) Korm. rendelet 29. §-a iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^117]: A hatálybalépés időpontja 2016. július 17.
