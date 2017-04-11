@@ -6,11 +6,11 @@
 
 ## c) hozzájárul a Környezeti és Energiahatékonysági Operatív Program 1. prioritása vonatkozásában tervezett eredményességi tartalék tekintetében felhívás meghirdetéséhez,
 
-## d)[^1] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 1. prioritása meghirdethető keretének 17,17 milliárd forinttal történő növelését azzal, hogy ebből
+## d)[^1] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 1. prioritása meghirdethető keretének 19,25 milliárd forinttal történő növelését azzal, hogy ebből
 
 ## da)[^2] 3,87 milliárd forint összegre a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. §-ának megfelelően vállalható kötelezettség,
 
-## db)[^3] 13,30 milliárd forint összegre kötelezettség csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján vállalható,
+## db)[^3] 15,38 milliárd forint összegre kötelezettség csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján vállalható,
 
 ## e)[^4] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 3. prioritása meghirdethető keretének 3,10 milliárd forinttal történő növelését azzal, hogy ezen alpontban meghatározott összegre kötelezettség csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján vállalható,
 
@@ -38,9 +38,9 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 82,35 | kiemelt | Meghirdetve 2015. október 12-én |
 
-| 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 9,88 | kiemelt | Meghirdetve 2015. július 30-án |
+| 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 10,79 | kiemelt | Meghirdetve 2015. július 30-án |
 
-| 7. | KEHOP- 1.4.0. | Árvízvédelmi fejlesztések | 175,16 | kiemelt | Meghirdetve 2015. október 6-án |
+| 7. | KEHOP- 1.4.0. | Árvízvédelmi fejlesztések | 176,33 | kiemelt | Meghirdetve 2015. október 6-án |
 
 | 8. | KEHOP- 1.4.1. | Árvízvédelmi fejlesztések – szakaszolt projektek | 0,93 | kiemelt | Meghirdetve 2015. július 30-án |
 
@@ -152,10 +152,10 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 20. | KEHOP-5.4.2. | Zöldkarikás Játékok – Komplex szemléletformálási program | 1,00 | kiemelt | Meghirdetve 2015. december 1-jén |
 
-[^1]: Az 1. pont d) alpontja az 1463/2016. (VIII. 24.) Korm. határozat 1. pontjával megállapított, az 1717/2016. (XII. 5.) Korm. határozat 2. pont 2.1. alpontja szerint módosított szöveg.
+[^1]: Az 1. pont d) alpontja az 1463/2016. (VIII. 24.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1717/2016. (XII. 5.) Korm. határozat 2. pont 2.1. alpontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^2]: Az 1. pont d) alpont da) alpontja az 1717/2016. (XII. 5.) Korm. határozat 2. pont 2.2. alpontja szerint módosított szöveg.
-[^3]: Az 1. pont d) alpont db) alpontja az 1717/2016. (XII. 5.) Korm. határozat 2. pont 2.3. alpontja szerint módosított szöveg.
+[^3]: Az 1. pont d) alpont db) alpontja az 1717/2016. (XII. 5.) Korm. határozat 2. pont 2.3. alpontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
 [^4]: Az 1. pont e) alpontja az 1463/2016. (VIII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
 [^5]: Az 1. pont f) alpontját az 1323/2016. (VII. 1.) Korm. határozat 4. pontja hatályon kívül helyezte, újonnan az 1463/2016. (VIII. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1717/2016. (XII. 5.) Korm. határozat 2. pont 2.4. pontja szerint módosított szöveg.
 [^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
