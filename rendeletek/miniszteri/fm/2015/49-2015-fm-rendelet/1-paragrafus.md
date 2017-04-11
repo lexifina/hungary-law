@@ -18,7 +18,7 @@ b) a 77/2015. (XII. 1.) FM rendeletnek
 
 ba) kizárólag a 3. mellékletében szereplő településen működő, vagy
 
-bb)[^2] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de legfeljebb 2017. március 31-ig hatályba lépett hitelszerződéssel rendelkező
+bb)[^2] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de legfeljebb 2017. május 31-ig hatályba lépett hitelszerződéssel rendelkező
 
 ## termelői szerveződés esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^3] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
 
@@ -32,9 +32,9 @@ bb)[^2] az 1. és 3. mellékletében egyaránt szereplő településen működő
 
 a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetén 2016. június 30-áig,
 
-b)[^7] a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetén 2017. március 31-ig,
+b)[^7] a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetén 2017. május 31-ig,
 
-c)[^8] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetén 2017. március 31-ig
+c)[^8] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetén 2017. május 31-ig
 
 ## hatályba lépett hitelszerződéssel rendelkezik;
 
@@ -47,11 +47,11 @@ c)[^8] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szer
 8. termelői szerveződés: a termelői csoportokról szóló miniszteri rendelet szerinti elismeréssel rendelkező termelői csoport, a 2015. június 1. előtt minősített elismeréssel rendelkező termelői csoport, és a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendelet szerinti termelői szervezet, valamint zöldség-gyümölcs termelői csoport.
 
 [^1]: Az 1. § 2a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 2a. pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.
+[^2]: Az 1. § 2a. pont b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
 [^3]: A hatálybalépés időpontja 2016. július 22.
 [^4]: Az 1. § 2b. pontját az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdése iktatta be.
 [^5]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § 4a. pont b) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.
-[^8]: Az 1. § 4a. pont c) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.
+[^7]: Az 1. § 4a. pont b) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
+[^8]: Az 1. § 4a. pont c) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
 [^9]: Az 1. § 7. pontja a 88/2016. (XII. 29.) FM rendelet 92. § a) pontja szerint módosított szöveg.
