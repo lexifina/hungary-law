@@ -1,6 +1,6 @@
 ## ”
 
-## 3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^224]
+## 3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^233]
 
 ## A környezetvédelmi hatóság előzetes vizsgálatban hozott döntésétől függően környezeti hatásvizsgálatra kötelezett tevékenységek
 
@@ -454,4 +454,4 @@
 
 4. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 
-[^224]: A 3. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (4) bekezdésével megállapított, a 175/2012. (VII. 26.) Korm. rendelet 2. §-a, a 441/2012. (XII. 29.) Korm. rendelet 10. § (4)–(5) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 30. §-a, a 100/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 24. §-a, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^233]: A 3. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (4) bekezdésével megállapított, a 175/2012. (VII. 26.) Korm. rendelet 2. §-a, a 441/2012. (XII. 29.) Korm. rendelet 10. § (4)–(5) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 30. §-a, a 100/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 24. §-a, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
