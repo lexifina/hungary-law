@@ -18,24 +18,6 @@ a) a 2017. évre vonatkozó költségvetés terhére a kötelezettségvállalás
 
 b) a 2018. évre vonatkozó költségvetés terhére a kötelezettségvállalás felső korlátja: 3 282 834 080 forint.
 
-6. A Magyarország Kormánya és Kecskemét Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1131/2016. (III. 10.) Korm. határozat 4. pont b) alpontja helyébe a következő rendelkezés lép:
+6.[^1]
 
-(A Kormány támogatja a város kulturális és turisztikai vonzerejét növelő, értékmegőrző fejlesztéseket, ennek keretében)
-
-„b) a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
-
-ba) felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a külső felújítás 2017. november 15-i, a belső felújítás 2018. augusztus 31-i befejezési határidejéhez igazodóan gondoskodjanak a felújításhoz szükséges források ütemezett biztosításáról;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: a felmerülés ütemében, a külső felújítás 2017. november 15-i, a belső felújítás 2018. augusztus 31-i befejezési határidejéhez igazodóan
-
-bb) felhívja a Miniszterelnökséget vezető minisztert és a turizmusért való felelőssége keretében a nemzeti fejlesztési minisztert, hogy a felújítási program turisztikai fejlesztési projektelemének megvalósítása érdekében működjenek együtt Kecskemét Megyei Jogú Város Önkormányzatával.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: 2018. augusztus 31-ig folyamatos”
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
