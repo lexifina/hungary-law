@@ -476,7 +476,7 @@ Vereb
 
 Zámoly
 
-Győr-Moson-Sopron megye (52)
+Győr-Moson-Sopron megye (53)
 
 Abda
 
@@ -569,6 +569,8 @@ Sarród
 Sopron
 
 Sopronkövesd
+
+Sopronnémeti
 
 Szárföld
 
@@ -1894,4 +1896,4 @@ Zalaszántó
 
 Zalaszentgrót
 
-[^17]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be, szövege a 65/2016. (IX. 21.) FM rendelet 34. §-ával megállapított szöveg.
+[^17]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be, szövege a 65/2016. (IX. 21.) FM rendelet 34. §-ával megállapított, a 17/2017. (IV. 10.) FM rendelet 18. §-a szerint módosított szöveg.

@@ -6,9 +6,9 @@ a) az 1. mellékletben szereplő településen működő és a hitelprogram kere
 
 b) az egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű földterülettel rendelkező,
 
-ba)[^6] kizárólag a 3. mellékletben szereplő településen működő és a hitelprogram keretében 2017. március 31-ig megkötött hitelszerződéssel rendelkező vagy
+ba)[^6] kizárólag a 3. mellékletben szereplő településen működő és a hitelprogram keretében 2017. május 31-ig megkötött hitelszerződéssel rendelkező vagy
 
-bb)[^7] az 1. és 3. mellékletben egyaránt szereplő településen működő és a hitelprogram keretében 2016. június 30-át követően, de legkésőbb 2017. március 31-ig megkötött hitelszerződéssel rendelkező
+bb)[^7] az 1. és 3. mellékletben egyaránt szereplő településen működő és a hitelprogram keretében 2016. június 30-át követően, de legkésőbb 2017. május 31-ig megkötött hitelszerződéssel rendelkező
 
 ## vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet hatálybalépésének napjától kezdődően esedékessé vált, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult.
 
@@ -17,6 +17,6 @@ bb)[^7] az 1. és 3. mellékletben egyaránt szereplő településen működő �
 (3)[^8] A kamattámogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
 [^5]: A 2. § (1) bekezdése az 51/2016. (VII. 21.) FM rendelet 30. §-ával megállapított szöveg.
-[^6]: A 2. § (1) bekezdés b) pont ba) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdés b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés b) pont ba) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 30. §-ával megállapított szöveg.

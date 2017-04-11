@@ -20,15 +20,15 @@ b) mezőgazdasági csekély összegű támogatás: az Európai Unió működés�
 
 a) kizárólag az 1. mellékletben szereplő település esetén 2016. június 30-áig,
 
-b)[^2] kizárólag a 3. mellékletben szereplő település esetén 2017. március 31-ig,
+b)[^2] kizárólag a 3. mellékletben szereplő település esetén 2017. május 31-ig,
 
-c)[^3] az 1. és 3. mellékletben egyaránt szereplő település esetén 2017. március 31-ig
+c)[^3] az 1. és 3. mellékletben egyaránt szereplő település esetén 2017. május 31-ig
 
 ## megkötött hitelszerződéssel rendelkezik;
 
 7.[^4] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
 [^1]: Az 1. § 6. pontja az 51/2016. (VII. 21.) FM rendelet 29. §-ával megállapított szöveg.
-[^2]: Az 1. § 6. pont b) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a szerint módosított szöveg.
-[^3]: Az 1. § 6. pont c) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a szerint módosított szöveg.
+[^2]: Az 1. § 6. pont b) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
+[^3]: Az 1. § 6. pont c) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
 [^4]: Az 1. § 7. pontját az 51/2016. (VII. 21.) FM rendelet 29. §-a iktatta be.
