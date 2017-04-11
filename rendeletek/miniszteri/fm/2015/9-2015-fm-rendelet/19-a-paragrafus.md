@@ -1,4 +1,4 @@
-## 16/A. [^103] Intenzív gyümölcstermesztés támogatása
+## 16/A. [^104] Intenzív gyümölcstermesztés támogatása
 
 19/A. § (1) Gyümölcstermesztés támogatása igénybevételére az a mezőgazdasági termelő jogosult,
 
@@ -38,4 +38,4 @@ d) a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges adato
 
 (8) A hektáronkénti minimális tőszám meghatározásánál a telepítési engedélyben meghatározott tőszámot kell figyelembe venni. Ha ez az adat nem áll rendelkezésre, akkor a (2) bekezdés szerinti hatósági bizonyítvány kiállításakor a területen meghatározó térállás szerint számított tőszámot kell figyelembe venni.
 
-[^103]: A 16/A. alcímet (19/A. §) a 13/2017. (III. 17.) FM rendelet 28. §-a iktatta be.
+[^104]: A 16/A. alcímet (19/A. §) a 13/2017. (III. 17.) FM rendelet 28. §-a iktatta be.

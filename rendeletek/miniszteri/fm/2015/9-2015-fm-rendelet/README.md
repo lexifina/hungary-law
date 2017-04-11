@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-9-20-11
 | 2016-11-04 | 2015-9-20-11.16 | 72/2016. (XI. 3.) FM rendelet |
 | 2017-01-01 | 2015-9-20-11.17 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-03-18 | 2015-9-20-11.18 | 13/2017. (III. 17.) FM rendelet |
+| 2017-04-11 | 2015-9-20-11.19 | 17/2017. (IV. 10.) FM rendelet |

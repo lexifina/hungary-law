@@ -98,6 +98,6 @@
 
 | 47 | Majoranna | Origanum majorana | 1 320 000 | 0,22 | – | – | – | – |
 
-4. melléklet a 9/2015. (III. 13.) FM rendelethez[^126]
+4. melléklet a 9/2015. (III. 13.) FM rendelethez[^129]
 
-[^126]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^129]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.

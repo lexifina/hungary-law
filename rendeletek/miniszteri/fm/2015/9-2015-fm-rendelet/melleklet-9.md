@@ -1,4 +1,4 @@
-9. melléklet a 9/2015. (III. 13.) FM rendelethez[^133]
+9. melléklet a 9/2015. (III. 13.) FM rendelethez[^136]
 
 Tárolási napló
 
@@ -22,4 +22,4 @@ Dátum:
 
 Cégszerű aláírás
 
-[^133]: A 9. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (10) bekezdésével megállapított szöveg.
+[^136]: A 9. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (10) bekezdésével megállapított szöveg.

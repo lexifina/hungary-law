@@ -1,4 +1,4 @@
-## 22/F. §[^120] E rendeletnek az egyes közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 72/2016. (XI. 3.) FM rendelettel [a továbbiakban: 72/2016. (XI. 3.) FM rendelet] megállapított 1. § 19. pontját, 14. § (5) bekezdés a) pont aa) és ab) alpontját, c) pont cc) és cd) alpontját, (5a), (6), (6a), (7), (7a), (11) és (12) bekezdését, 17. § (1) bekezdés b) pontját, 18. § b) pontját, 20. § (1) bekezdés c) pontját, valamint 21. § (1) bekezdés b) pontját a 2016. évre vonatkozóan benyújtott egységes kérelem alapján indult, a 72/2016. (XI. 3.) FM rendelet hatálybalépésekor[^121] folyamatban lévő eljárásokban is alkalmazni kell.
+## 22/G. §[^123] E rendeletnek az egyes nemzeti forrásból finanszírozott agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 17/2017. (IV. 10.) FM rendelettel [a továbbiakban: 17/2017. (IV. 10.) FM rendelet] megállapított 10. § (1) bekezdés d) pontját a 17/2017. (IV. 10.) FM rendelet hatálybalépésekor[^124] folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 20. Az Európai Unió jogának való megfelelés
 
@@ -12,10 +12,10 @@ c) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján 
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-ei 640/2014/EU bizottsági felhatalmazáson alapuló rendelet,
 
-e)[^122] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
+e)[^125] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^120]: A 22/F. §-t a 72/2016. (XI. 3.) FM rendelet 5. §-a iktatta be.
-[^121]: A hatálybalépés időpontja 2016. november 4.
-[^122]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.
+[^123]: A 22/G. §-t a 17/2017. (IV. 10.) FM rendelet 13. §-a iktatta be.
+[^124]: A hatálybalépés időpontja 2017. április 11.
+[^125]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.
