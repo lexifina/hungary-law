@@ -1,0 +1,3 @@
+## 1. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet 1. számú mellékletében foglalt táblázat D:25. mezőjében a „250 Ft/alkalom/vakcina” szövegrész helyébe a „300 Ft/alkalom/vakcina” szöveg lép.
+
+## 2. Az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet módosítása
