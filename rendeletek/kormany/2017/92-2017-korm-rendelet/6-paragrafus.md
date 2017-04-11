@@ -1,0 +1,1 @@
+## 5. § Az 1. § (1) és (2) bekezdése szerinti ingatlanokra vonatkozó településrendezési eszköz módosítása során az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet 4. § (4) bekezdése szerinti véleményadás határideje legfeljebb nyolc nap.
