@@ -1,6 +1,6 @@
-21/H. §[^86] (1) A Magyar Halgazdálkodási Operatív Program előirányzat felhasználása uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás ETHA forrásból kerül biztosításra.
+21/H. §[^87] (1) A Magyar Halgazdálkodási Operatív Program előirányzat felhasználása uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás ETHA forrásból kerül biztosításra.
 
-(2)[^87] Az előirányzat
+(2)[^88] Az előirányzat
 
 a) az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. május 15-i 508/2014/EU európai parlamenti és tanácsi rendelet,
 
@@ -12,8 +12,8 @@ d) a 272/2014. (XI. 5.) Korm. rendelet
 
 ## szerint használható fel.
 
-(3)[^88] A Vidékfejlesztési és halászati programok technikai segítségnyújtása előirányzat célja a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program végrehajtásával kapcsolatos feladatokat ellátó alkalmazottaknál felmerült személyi juttatások, valamint a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiadásainak finanszírozása.
+(3)[^89] A Vidékfejlesztési és halászati programok technikai segítségnyújtása előirányzat célja a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program végrehajtásával kapcsolatos feladatokat ellátó alkalmazottaknál felmerült személyi juttatások, valamint a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiadásainak finanszírozása.
 
-[^86]: A 21/H. §-t a 287/2015. (X. 6.) Korm. rendelet 15. §-a iktatta be.
-[^87]: A 21/H. § (2) bekezdése a 401/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^88]: A 21/H. § (3) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
+[^87]: A 21/H. §-t a 287/2015. (X. 6.) Korm. rendelet 15. §-a iktatta be.
+[^88]: A 21/H. § (2) bekezdése a 401/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^89]: A 21/H. § (3) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 7. §-a iktatta be.

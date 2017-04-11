@@ -1,8 +1,8 @@
-## 5. [^46] Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat, valamint a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat felhasználási szabályai
+## 5. [^47] Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat, valamint a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat felhasználási szabályai
 
 12. § (1) Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat célja a közösségi támogatások koordinálásával összefüggő, az Európai Unió alapjaiból nem fedezett, nem elszámolható, azonban a programok lebonyolításához elengedhetetlen tevékenységek kiadásai fedezetének biztosítása.
 
-(2)[^47] A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat célja
+(2)[^48] A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat célja
 
 a) a Nemzeti Fejlesztési Tervhez,
 
@@ -26,8 +26,8 @@ g) az Európai Területi Együttműködés lebonyolításához
 
 (5) A kedvezményezett a költségvetési támogatás felhasználásáról a költségvetési évet követő év június 30-ig számol el.
 
-(6)[^48] A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható.
+(6)[^49] A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható.
 
-[^46]: Az 5. alcím címe a 72/2016. (III. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^47]: A 12. § (2) bekezdése a 401/2016. (XII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^48]: A 12. § (6) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^47]: Az 5. alcím címe a 72/2016. (III. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^48]: A 12. § (2) bekezdése a 401/2016. (XII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^49]: A 12. § (6) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.

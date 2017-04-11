@@ -6,8 +6,8 @@ b) pénzügyi ellenjegyző: a HEP IH gazdasági vezetője vagy az általa írás
 
 c) teljesítés igazoló: a HEP IH vezetője vagy az általa kijelölt személy,
 
-d)[^131] érvényesítő: a HEP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^132] érvényesítő: a HEP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a HEP IH vezetője vagy az általa írásban kijelölt személy.
 
-[^131]: A 34. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^132]: A 34. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.

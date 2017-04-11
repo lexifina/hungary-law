@@ -1,4 +1,4 @@
-49/F. §[^187] (1) A Vidékfejlesztési Program (XIX. fejezet 2. cím 12. alcím 1. jogcímcsoport) vonatkozásában
+49/F. §[^188] (1) A Vidékfejlesztési Program (XIX. fejezet 2. cím 12. alcím 1. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
 
@@ -34,4 +34,4 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^187]: A 49/F. § a 401/2016. (XII. 5.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^188]: A 49/F. § a 401/2016. (XII. 5.) Korm. rendelet 10. §-ával megállapított szöveg.
