@@ -1,0 +1,7 @@
+## 10. § A kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló 78/2014. (III. 14.) Korm. rendelet 35/A. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+## „(3) A magántőkealap esetében, amennyiben a befektetők egyhangú hozzájárulásukat adják egy adott vállalkozásba, illetve a vállalkozás által ellenőrzött más vállalkozásba történő, a magántőkealap jegyzett tőkéjének (1) bekezdésben meghatározott mértékét meghaladó összegű befektetésre, illetve e mérték feletti pénzkölcsön nyújtásra, a magántőkealap mentesül az (1) bekezdés szerinti korlátozás alól. A hozzájárulást a befektetők közokiratba vagy teljes bizonyító erejű magánokiratba foglalt kockázatfeltáró nyilatkozatban adják meg. A kockázatfeltáró nyilatkozat tervezetét annak tervezett keltezését legalább 7 nappal megelőzően – annak teljes terjedelmű felolvasása mellett – kell a befektetők részére átadni. A kockázatfeltáró nyilatkozat nem vonható vissza.
+
+## (4) Az (1) bekezdés szerinti korlátozás alóli mentesítés tényét, a (3) bekezdés szerinti befektetői hozzájárulások beszerzését követő 15 napon belül a magántőkealap kezelési szabályzatában rögzíteni kell, illetve ezzel egyidejűleg azt a Felügyeletnek be kell jelenteni.”
+
+## 4. Az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények feladat- és hatásköréről, valamint a kapcsolódó eljárásrendről szóló 172/2015. (VII. 2.) Korm. rendelet módosítása
