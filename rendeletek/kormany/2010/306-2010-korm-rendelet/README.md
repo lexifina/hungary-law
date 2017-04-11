@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-306-20-
 | 2017-01-01 | 2010-306-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-02-03 | 2010-306-20-22.16 | 292/2015. (X. 8.) Korm. rendelet |
 | 2017-03-21 | 2010-306-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-04-11 | 2010-306-20-22.18 | 88/2017. (IV. 10.) Korm. rendelet |

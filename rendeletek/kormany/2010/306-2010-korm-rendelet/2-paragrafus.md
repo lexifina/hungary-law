@@ -6,7 +6,7 @@
 
 2. alsó vizsgálati küszöbérték: az a levegőterheltségi szint, amely alatt a levegő minőségének vizsgálata céljából lehetőség van kizárólag modellezési vagy objektív becslési technikák alkalmazására;
 
-3.[^1] anyag: bármely kémiai elem és annak vegyületei, a radioaktív anyagok és a genetikailag módosított mikroorganizmusok és szervezetek kivételével;
+3.[^1] anyag: bármely kémiai elem és annak vegyületei, a radioaktív anyagok és a géntechnológiával módosított mikroorganizmus és szervezet kivételével;
 
 4. arzén, kadmium, nikkel és benz(a)pirén: ezen elemek és vegyületeik teljes mennyisége a PM10 frakcióban;
 
@@ -30,17 +30,21 @@ b) amely a döntésben érdekelt, különösen olyan környezetvédelmi vagy má
 
 12. felső vizsgálati küszöbérték: az a levegőterheltségi szint, amely alatt a levegő minőségének vizsgálata céljából lehetőség van a helyhez kötött mérési és modellezési technikák, illetve indikatív mérések kombinációjának alkalmazására;
 
-12a.[^3] helyhez kötött diffúz forrás hatásterülete: a vizsgált diffúz forrás körül lehatárolható azon legnagyobb terület, ahol a diffúz forrás által maximális kapacitáskihasználás, ennek hiányában jellemző üzemállapot mellett kibocsátott – műszaki becsléssel meghatározható – légszennyező anyag terjedése következtében a légszennyező diffúz forrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya tengelye alatt a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
+12a.[^3] géntechnológiával módosított mikroorganizmus (GMM): a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 2. § d) pontjában, továbbá a géntechnológiai módosításnak tekinthető, valamint annak nem minősülő eljárásokról és a géntechnológiai tevékenység ellenőrzésére jogosult hatóságokról szóló 111/2003. (XI. 5.) FVM–GKM–ESZCSM–KvVM együttes rendelet 1. és 2. §-ában foglalt előírásoknak megfelelően alkalmazandó rendelkezés;
+
+12b.[^4] géntechnológiával módosított szervezet (GMSZ): a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 2. § b) pontjában, továbbá a géntechnológiai módosításnak tekinthető, valamint annak nem minősülő eljárásokról és a géntechnológiai tevékenység ellenőrzésére jogosult hatóságokról szóló 111/2003. (XI. 5.) FVM–GKM–ESZCSM–KvVM együttes rendelet 1. és 2. §- ában foglalt előírásoknak megfelelően alkalmazandó rendelkezés;
+
+12c.[^5] helyhez kötött diffúz forrás hatásterülete: a vizsgált diffúz forrás körül lehatárolható azon legnagyobb terület, ahol a diffúz forrás által maximális kapacitáskihasználás, ennek hiányában jellemző üzemállapot mellett kibocsátott – műszaki becsléssel meghatározható – légszennyező anyag terjedése következtében a légszennyező diffúz forrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya tengelye alatt a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
 
 a) az egyórás (PM10 esetében 24 órás) légszennyezettségi határérték 10%-ánál nagyobb,
 
-b) a terhelhetőség 20%-ánál nagyobb, vagy
+b) a terhelhetőség 20%-ánál nagyobb vagy
 
 c) az egyórás (PM10 esetében 24 órás) maximális érték 80%-ánál nagyobb;
 
-13.[^4] helyhez kötött légszennyező forrás: levegőterhelést okozó vonalforrás, valamint az a levegőterhelést okozó pont-, vagy diffúz forrás, amely működése közben helyét nem változtatja meg;
+13.[^6] helyhez kötött légszennyező forrás: levegőterhelést okozó vonalforrás, valamint az a levegőterhelést okozó pont-, vagy diffúz forrás, amely működése közben helyét nem változtatja meg;
 
-14.[^5] helyhez kötött pontforrás hatásterülete: a vizsgált pontforrás körül lehatárolható azon legnagyobb terület, ahol a pontforrás által maximális kapacitáskihasználás mellett kibocsátott légszennyező anyag terjedése következtében a légszennyező pontforrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya tengelye alatt a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
+14.[^7] helyhez kötött pontforrás hatásterülete: a vizsgált pontforrás körül lehatárolható azon legnagyobb terület, ahol a pontforrás által maximális kapacitáskihasználás mellett kibocsátott légszennyező anyag terjedése következtében a légszennyező pontforrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya tengelye alatt a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
 
 a) az egyórás (PM10 esetében 24 órás) légszennyezettségi határérték 10%-ánál nagyobb,
 
@@ -60,13 +64,13 @@ c) az egyórás (PM10 esetében 24 órás) maximális érték 80%-ánál nagyobb
 
 20. légszennyezettségi határérték: az emberi egészségre, illetve az ökológiai rendszerre gyakorolt káros hatások elkerülése, megelőzése vagy csökkentése céljából, a tudományos ismeretek alapján meghatározott levegőterheltségi szint, amelyet jogszabályban vagy hatósági határozatban előírt időtartamon belül el kell érni, és elérése után nem szabad túllépni;
 
-21.[^6] légszennyezettségi zóna: a levegőminőség vizsgálatának és kezelésének céljából Magyarország területének jogszabály által lehatárolt része;
+21.[^8] légszennyezettségi zóna: a levegőminőség vizsgálatának és kezelésének céljából Magyarország területének jogszabály által lehatárolt része;
 
 22. légszennyező anyag: a levegőben lévő és az emberi egészségre vagy a környezet egészére valószínűsíthetően káros hatást gyakorló anyag;
 
 23. légszennyező forrás: levegőterhelést okozó helyhez kötött vagy mozgó forrás;
 
-24.[^7] légszennyező pontforrás: az a levegőterhelést okozó forrás, amelynél a légszennyező anyag kibocsátási jellemzői (térfogatáram, kibocsátási koncentráció, hőmérséklet, nyomás) méréssel vagy a mérés megvalósításának gyakorlati akadályai miatt műszaki számítással egyértelműen meghatározhatók;
+24.[^9] légszennyező pontforrás: az a levegőterhelést okozó forrás, amelynél a légszennyező anyag kibocsátási jellemzői (térfogatáram, kibocsátási koncentráció, hőmérséklet, nyomás) méréssel vagy a mérés megvalósításának gyakorlati akadályai miatt műszaki számítással egyértelműen meghatározhatók;
 
 25. levegő: a troposzférán belüli szabadtéri levegő, kivéve a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 5. pontjában meghatározott olyan munkahely levegője, amelyhez a lakosság rendszeresen nem fér hozzá;
 
@@ -80,13 +84,15 @@ c) az egyórás (PM10 esetében 24 órás) maximális érték 80%-ánál nagyobb
 
 30. mozgó légszennyező forrás: a levegőterhelést okozó közúti, vasúti, vízi és légi jármű, továbbá a nem közúti mozgó gép;
 
-31.[^8] nemzeti expozíciócsökkentési cél: Magyarország lakossága átlagos expozíciócsökkentésének százalékos értéke, amelyet a referenciaévre vonatkoztatva az emberi egészségre gyakorolt káros hatások csökkentésének céljából kerül meghatározásra, és amelyet – amennyiben lehetséges – adott időtartamon belül kell teljesíteni;
+31.[^10] nemzeti expozíciócsökkentési cél: Magyarország lakossága átlagos expozíciócsökkentésének százalékos értéke, amelyet a referenciaévre vonatkoztatva az emberi egészségre gyakorolt káros hatások csökkentésének céljából kerül meghatározásra, és amelyet – amennyiben lehetséges – adott időtartamon belül kell teljesíteni;
 
 32. nitrogén-oxidok: a nitrogén-monoxid és nitrogén-dioxid térfogati keverési arányának (ppbv) a nitrogén-dioxid tömegkoncentrációjának egységeiben kifejezett (μg/m3) összege;
 
 33. PM10: a szálló por azon frakciója, amelynek legalább 50%-a átmegy a PM10 mintavételének és mérésének referenciamódszerére az MSZ EN 12341:2001 szabványban meghatározott 10 μm aerodinamikai átmérőjű szelektív szűrőn;
 
 34. PM2,5: a szálló por azon frakciója, amelynek legalább 50%-a átmegy a PM2,5 mintavételének és mérésének referenciamódszerére az MSZ EN 14907:2006 szabványban meghatározott 2,5 μm aerodinamikai átmérőjű szelektív szűrőn;
+
+34a.[^11] radioaktív anyag: olyan anyag, amely egy vagy több olyan radionuklidot tartalmaz, amelynek aktivitása vagy aktivitáskoncentrációja sugárvédelmi szempontból nem elhanyagolható;
 
 35. riasztási küszöbérték: a légszennyezettség azon szintje, amely felett a rövid idejű expozíció veszélyt jelent az emberi egészségre, és amelynél azonnali intézkedéseket kell tenni;
 
@@ -110,17 +116,20 @@ c) az egyórás (PM10 esetében 24 órás) maximális érték 80%-ánál nagyobb
 
 45. vonalforrás: a nyomvonalas közlekedési létesítmény (közút, vasút) vagy annak vizsgált szakasza, amelynél az elhaladó járművek jellemzői határozzák meg az egységnyi szakaszból származó légszennyező anyag kibocsátott mennyiségét;
 
-46.[^9] közintézmény: az állami vagy önkormányzati fenntartású, vagy a közszolgáltatás ellátására vonatkozó hatályos szerződéssel rendelkező intézmény;
+46.[^12] közintézmény: az állami vagy önkormányzati fenntartású, vagy a közszolgáltatás ellátására vonatkozó hatályos szerződéssel rendelkező intézmény;
 
-47.[^10] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet és a személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő.
+47.[^13] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet és a személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő.
 
-[^1]: A 2. § 3. pontja a 292/2015. (X. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § 3. pontja a 88/2017. (IV. 10.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 8. pontja a 292/2015. (X. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^3]: A 2. § 12a. pontját a 292/2015. (X. 8.) Korm. rendelet 3. §-a iktatta be.
-[^4]: A 2. § 13. pontja a 292/2015. (X. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^5]: A 2. § 14. pontja a 292/2015. (X. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^6]: A 2. § 21. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^7]: A 2. § 24. pontja a 292/2015. (X. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^8]: A 2. § 31. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § 46. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.
-[^10]: A 2. § 47. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.
+[^3]: A 2. § 12a. pontját a 292/2015. (X. 8.) Korm. rendelet 3. §-a iktatta be, szövege a 88/2017. (IV. 10.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § 12b. pontját a 88/2017. (IV. 10.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^5]: A 2. § 12c. pontját a 88/2017. (IV. 10.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^6]: A 2. § 13. pontja a 292/2015. (X. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: A 2. § 14. pontja a 292/2015. (X. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^8]: A 2. § 21. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § 24. pontja a 292/2015. (X. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^10]: A 2. § 31. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § 34a. pontját a 88/2017. (IV. 10.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^12]: A 2. § 46. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.
+[^13]: A 2. § 47. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.

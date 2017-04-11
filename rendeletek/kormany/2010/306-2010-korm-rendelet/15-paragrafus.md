@@ -2,6 +2,6 @@
 
 (2) Amennyiben a 11. § (2) bekezdés szerint bizonyítható, hogy az egészségügyi határérték túllépése a közutak téli homokszórásának vagy sózásának tulajdonítható, a zónára és agglomerációra levegőminőségi terv kidolgozása nem szükséges.
 
-(3)[^27] A területi környezetvédelmi hatóság a levegőminőségi terv végrehajtását ellenőrzi.
+(3)[^30] A területi környezetvédelmi hatóság a levegőminőségi terv végrehajtását ellenőrzi.
 
-[^27]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
+[^30]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.

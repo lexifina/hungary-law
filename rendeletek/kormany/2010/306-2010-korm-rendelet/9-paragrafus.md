@@ -2,13 +2,13 @@
 
 ## 6. A levegőterheltségi szint vizsgálata
 
-9. § (1)[^18] Magyarország területén az országos légszennyezettség értékelése érdekében a levegőterheltségi szintet és a légszennyezettségi határértékek betartását az OLM vizsgálja.
+9. § (1)[^21] Magyarország területén az országos légszennyezettség értékelése érdekében a levegőterheltségi szintet és a légszennyezettségi határértékek betartását az OLM vizsgálja.
 
-(1a)[^19] A Levegőtisztaság-védelmi Referenciaközpont (a továbbiakban: LRK) javaslatot tesz az OLM automata mérőállomásainak, a manuális mérési pontoknak és az éves mintavételi program mintavételi pontjainak a helyére, amelyet a környezetvédelemért felelős miniszter jóváhagy.
+(1a)[^22] A Levegőtisztaság-védelmi Referenciaközpont (a továbbiakban: LRK) javaslatot tesz az OLM automata mérőállomásainak, a manuális mérési pontoknak és az éves mintavételi program mintavételi pontjainak a helyére, amelyet a környezetvédelemért felelős miniszter jóváhagy.
 
-(1b)[^20] A környezetvédelemért felelős miniszter az (1a) bekezdés szerinti helyek listáját közleményben teszi közzé.
+(1b)[^23] A környezetvédelemért felelős miniszter az (1a) bekezdés szerinti helyek listáját közleményben teszi közzé.
 
-(2)[^21] Magyarország területén
+(2)[^24] Magyarország területén
 
 a) az OLM mérési rendszereinek (módszerek, berendezések) jóváhagyását,
 
@@ -24,7 +24,7 @@ f) az információs önrendelkezési jogról és az információszabadságról s
 
 ## az LRK látja el.
 
-(2a)[^22] Magyarország területén
+(2a)[^25] Magyarország területén
 
 a) az OLM miniszter által kijelölt automata mérőállomásainak, mobil mérőegységeinek és manuális mintavételi pontjainak a levegő terheltségi szint és a helyhez kötött légszennyező források kibocsátásainak vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló miniszteri rendelet előírásainak megfelelő üzemeltetését,
 
@@ -46,7 +46,7 @@ f) a szmogriadóval kapcsolatos ügyeleti rendszer működtetését
 
 (5) A levegőterheltségi szintet átlagértékek mutatják be. A tájékoztatás szennyezőanyagonként a határértékeket, a célértékeket, a tájékoztatási és riasztási küszöbértékeket, és a túllépéseket, továbbá az egyes légszennyező anyagok emberi egészségre, illetve a természetes környezetre gyakorolt hatásait tartalmazza.
 
-(6)[^23] A levegőterheltségi szint adatai
+(6)[^26] A levegőterheltségi szint adatai
 
 a) a folyamatosan mért kén-dioxid, nitrogén-dioxid, PM10, PM2,5, ózon és szén-monoxid esetén legalább napi, a benzol által okozott levegőterheltségi szint – 12 hónap átlagértékeinek formájában megadott – adatai legalább háromhavi,
 
@@ -54,9 +54,9 @@ b) az időszakosan mért ólom esetén – 12 hónap átlagértékeinek formáj�
 
 c) az egyéb időszakos mérés esetén az értékelések éves
 
-[^18]: A 9. § (1) bekezdése a 292/2015. (X. 8.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^19]: A 9. § (1a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
-[^20]: A 9. § (1b) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
-[^21]: A 9. § (2) bekezdése a 292/2015. (X. 8.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^22]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, záró szövegrésze a 20/2017. (II. 2.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^23]: A 9. § (6) bekezdése a 292/2015. (X. 8.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^21]: A 9. § (1) bekezdése a 292/2015. (X. 8.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^22]: A 9. § (1a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
+[^23]: A 9. § (1b) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
+[^24]: A 9. § (2) bekezdése a 292/2015. (X. 8.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^25]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, záró szövegrésze a 20/2017. (II. 2.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^26]: A 9. § (6) bekezdése a 292/2015. (X. 8.) Korm. rendelet 17. §-ával megállapított szöveg.
