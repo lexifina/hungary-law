@@ -1,5 +1,1 @@
-1. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 9. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A felsőoktatási intézmény elnevezésének más felsőoktatási intézmény elnevezésétől egyértelműen különböznie kell. A felsőoktatási intézmény elnevezése nem lehet megtévesztő, nem kelthet az intézményre, annak tevékenységére vonatkozó hamis látszatot. Megtévesztőnek, illetve összetéveszthetőnek minősül a felsőoktatási intézmény elnevezése, ha annak magyar vagy idegen nyelven történő megnevezése és valamely más, az oktatási hivatalnál nyilvántartásba vett felsőoktatási intézmény elnevezése megegyezik. A felsőoktatási intézményt élő személyről elnevezni nem lehet. A történelem kiemelkedő személyiségeinek nevét a Magyar Tudományos Akadémia engedélyével, továbbá olyan nevet, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a felsőoktatási intézmény nevében feltüntetni.
-
-(2b) A felsőoktatási intézmény idegen nyelvű elnevezésének tartalmilag egyeznie kell a magyar nyelvű elnevezéssel. Két vagy több azonos nevű felsőoktatási intézmény esetén a név viselésének joga azt a felsőoktatási intézményt illeti meg, amelyik fenntartója a nyilvántartásba vételi kérelmet elsőként nyújtotta be.”
+1. §
