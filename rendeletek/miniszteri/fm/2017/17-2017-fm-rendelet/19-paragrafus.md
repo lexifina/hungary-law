@@ -1,1 +1,0 @@
-## 18. § A kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 3. melléklete a 2. melléklet szerint módosul.
