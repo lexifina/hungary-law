@@ -1,1 +1,0 @@
-## „(7) A kormányzati célú hírközlési szolgáltató a (6) bekezdésben foglaltak alapján nyújtott nukleáris veszélyhelyzet-megelőzési és -elhárítási, illetve üzemi célú EDR szolgáltatást a külön jogszabályban meghatározott, továbbá a felhasználóra vonatkozóan a nukleáris biztonsági hatóság által előírt nukleáris biztonsági követelményeknek megfelelően köteles teljesíteni.”
