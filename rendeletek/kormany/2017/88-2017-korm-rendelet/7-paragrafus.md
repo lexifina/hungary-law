@@ -1,1 +1,0 @@
-## „(9) A környezetvédelmi hatóság a határozat meghozatalát követő öt napon belül a hivatalos honlapján is nyilvánosságra hozza az egységes környezethasználati engedély köteles tevékenyég megkezdéséről, módosításáról vagy felülvizsgálatáról, valamint a tevékenység leállításakor a hátrahagyott környezeti károk felszámolásával kapcsolatos intézkedésekről szóló határozatát.”
