@@ -22,27 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az 1084/2016. (II. 29.) Korm. határozat
-
-## a) 1. pont d) alpontjának nyitó szövegrészében a „17,17” szövegrész helyébe a „19,25” szöveg,
-
-## b) 1. pont d) alpont db) alpontjában a „13,30” szövegrész helyébe a „15,38” szöveg,
-
-## c) 1. melléklet 1. pontjában foglalt táblázat
-
-## ca) C:6 mezőjében a „9,88” szövegrész helyébe a „10,79” szöveg,
-
-## cb) C:7 mezőjében a „175,16 ” szövegrész helyébe a „176,33” szöveg,
-
-## d) 2. mellékletében foglalt táblázat
-
-## da) D:49 mezőjében a „6,50” szövegrész helyébe a „7,41” szöveg,
-
-## db) D:59 mezőjében a „7,90” szövegrész helyébe a „8,99” szöveg,
-
-## dc) D:63 mezőjében a „3,00” szövegrész helyébe a „3,08” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1208/2017. (IV. 10.) Korm. határozathoz
 
@@ -55,3 +35,5 @@
 | 3. | KEHOP-1.4.0- 15-2015-00008 | Árvízvédelmi védvonalak mértékadó árvízszintre történő kiépítése, védvonalak terhelésének csökkentése a Közép-Tiszán a Közép-Tisza-vidéki Vízügyi Igazgatóság működési területén | Országos Vízügyi Főigazgatóság és Közép- Tisza-vidéki Vízügyi Főigazgatóság konzorciuma | 7 900 000 000 | 1 089 429 840 | 8 989 429 840 | A projekttel szembeni szakmai elvárás a Vásárhelyi Terv Továbbfejlesztése program keretében a Közép-Tisza árvízi biztonságának javítása a védvonalak mértékadó szintre történő kiépítésével. |
 
 | 4. | KEHOP-1.4.0- 15-2016-00012 | Árvízvédelmi védvonalak mértékadó árvízszintre történő kiépítése, védvonalak terhelésének csökkentése a Körösökön | Országos Vízügyi Főigazgatóság és Körös- vidéki Vízügyi Igazgatóság konzorciuma | 3 000 000 000 | 73 022 000 | 3 073 022 000 | A projekttel szembeni szakmai elvárás a Vásárhelyi Terv Továbbfejlesztése program keretében az árvízi biztonság javítása a védvonalak mértékadó szintre történő kiépítésével. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
