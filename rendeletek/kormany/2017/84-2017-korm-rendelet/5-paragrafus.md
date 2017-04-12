@@ -1,3 +1,3 @@
-## 2–4. §[^1]
+## 2–4. §[^2]
 
-[^1]: A 2–4. § a 12. § (2) bekezdése alapján 2017. április 15-én lép hatályba.
+[^2]: A 2–4. § a 12. § (2) bekezdése alapján 2017. április 15-én lép hatályba.
