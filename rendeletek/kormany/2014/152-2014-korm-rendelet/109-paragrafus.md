@@ -20,19 +20,19 @@
 
 9. fogyasztóvédelemért,
 
-10.[^119] hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
+10.[^120] hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
 
 11. informatikáért,
 
-12.[^120] hulladékgazdálkodási közszolgáltatásért,
+12.[^121] hulladékgazdálkodási közszolgáltatásért,
 
 13. közlekedésért,
 
 14. nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
 
-15.[^121] nemzeti pénzügyi szolgáltatásokért,
+15.[^122] nemzeti pénzügyi szolgáltatásokért,
 
-15a.[^122] postaügyért,
+15a.[^123] postaügyért,
 
 16. területfejlesztésért,
 
@@ -40,15 +40,15 @@
 
 18. víziközmű-szolgáltatásért,
 
-19.[^123] turizmusért,
+19.[^124] turizmusért,
 
-20.[^124] vendéglátásért
+20.[^125] vendéglátásért
 
 felelős tagja.
 
-[^119]: A 109. § 10. pontja a 367/2016. (XI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^120]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 367/2016. (XI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^121]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^122]: A 109. § 15a. pontját a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^123]: A 109. § 19. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
-[^124]: A 109. § 20. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
+[^120]: A 109. § 10. pontja a 367/2016. (XI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^121]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 367/2016. (XI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^122]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^123]: A 109. § 15a. pontját a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^124]: A 109. § 19. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
+[^125]: A 109. § 20. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.

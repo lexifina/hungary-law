@@ -1,4 +1,4 @@
-92. § (1)[^113] A miniszter az államháztartásért való felelősségi keretében előkészíti az államháztartásra, a központi költségvetésre és annak végrehajtására, a helyi önkormányzatok és a nemzetiségi önkormányzatok gazdálkodására, a részükre nyújtandó támogatásokra, az államháztartási belső ellenőrzési rendszerekre, a gazdasági stabilitás alapvető szabályaira, valamint a társadalmi szervezetek gazdálkodási rendjére vonatkozó jogszabályokat, és közreműködik valamennyi, a közpénzügyeket érintő szabályozás kialakításában.
+92. § (1)[^114] A miniszter az államháztartásért való felelősségi keretében előkészíti az államháztartásra, a központi költségvetésre és annak végrehajtására, a helyi önkormányzatok és a nemzetiségi önkormányzatok gazdálkodására, a részükre nyújtandó támogatásokra, az államháztartási belső ellenőrzési rendszerekre, a gazdasági stabilitás alapvető szabályaira, valamint a társadalmi szervezetek gazdálkodási rendjére vonatkozó jogszabályokat, és közreműködik valamennyi, a közpénzügyeket érintő szabályozás kialakításában.
 
 (2) A miniszter az államháztartásért való felelősségi keretében
 
@@ -28,7 +28,7 @@ gb) az uniós jogszabályok és a Kiotói Jegyzőkönyv szerinti kibocsátási j
 
 h) koordinálja és harmonizálja az államháztartási belső kontroll rendszerek működtetésével, fejlesztésével, harmonizációjával és koordinációjával kapcsolatos feladatokat,
 
-i)[^114] ellátja az Európai Unió közös agrárpolitikája I. és II. pilléréhez kapcsolódó kifizetések végrehajtását.
+i)[^115] ellátja az Európai Unió közös agrárpolitikája I. és II. pilléréhez kapcsolódó kifizetések végrehajtását.
 
-[^113]: A 92. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 835. § d) pontja szerint módosított szöveg.
-[^114]: A 92. § (2) bekezdés i) pontját a 328/2016. (X. 28.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^114]: A 92. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 835. § d) pontja szerint módosított szöveg.
+[^115]: A 92. § (2) bekezdés i) pontját a 328/2016. (X. 28.) Korm. rendelet 19. § (3) bekezdése iktatta be.

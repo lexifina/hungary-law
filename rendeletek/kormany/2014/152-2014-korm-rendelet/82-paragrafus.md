@@ -14,11 +14,11 @@ ac) összehangolja a tartalmi és technikai deregulációt,
 
 ad) megszervezi és lebonyolítja a minisztériumokban jogi és kodifikációs feladatokat végző személyek képzését,
 
-b)[^77] gondoskodik a jogszabályok és más jogi aktusok kihirdetéséről, illetve közzétételéről, valamint azok módosításokkal egységes szerkezetbe foglalt, hatályos szövegének tartalmilag hiteles, a jogalkotásról szóló törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetésről, a Magyar Közlöny szerkesztéséről, és kijelöli a Magyar Közlöny felelős szerkesztőjét és annak helyetteseit,
+b)[^78] gondoskodik a jogszabályok és más jogi aktusok kihirdetéséről, illetve közzétételéről, valamint azok módosításokkal egységes szerkezetbe foglalt, hatályos szövegének tartalmilag hiteles, a jogalkotásról szóló törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetésről, a Magyar Közlöny szerkesztéséről, és kijelöli a Magyar Közlöny felelős szerkesztőjét és annak helyetteseit,
 
 c) vezeti és elektronikusan közzéteszi a jogszabályok és más jogi aktusok nyilvántartását és a Magyar Közlöny Lap- és Könyvkiadó Kft. útján gondoskodik a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjtemény közzétételéről.
 
-(3a)[^78] A miniszter a Magyar Közlöny szerkesztéséhez a Magyar Közlöny Lap- és Könyvkiadó Kft. szolgáltatásait veszi igénybe.
+(3a)[^79] A miniszter a Magyar Közlöny szerkesztéséhez a Magyar Közlöny Lap- és Könyvkiadó Kft. szolgáltatásait veszi igénybe.
 
 (4) A miniszter az igazságügyért való felelőssége keretében ellátja a Kormány képviseletét az alkotmánybírósági eljárásokban és koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti a beadványokat.
 
@@ -38,7 +38,7 @@ d) meghatározza a bírósági és az ügyészségi fogalmazók, a közjegyzője
 
 e) a jogi szabályozás utólagos hatásvizsgálatának elősegítésére együttműködik az Országos Bírósági Hivatallal a bírósági ítéletek, a bírósági joggyakorlat és az igazságügyi statisztikai adatok elemzésében, a joggyakorlat továbbfejlesztésében, és az ítélkezési gyakorlat egységességének biztosítása érdekében javaslatot tesz jogegységi eljárás indítványozására,
 
-f)[^79] együttműködik a jogi képzési tevékenységet folytató egyetemek vezetőivel, elősegíti a jogászképzés színvonalának emelését, értékeli a jogászképzés helyzetét és arról tájékoztatja a Kormányt,
+f)[^80] együttműködik a jogi képzési tevékenységet folytató egyetemek vezetőivel, elősegíti a jogászképzés színvonalának emelését, értékeli a jogászképzés helyzetét és arról tájékoztatja a Kormányt,
 
 g) ellátja a szakfordító és tolmácstevékenység ágazati irányítását,
 
@@ -48,7 +48,7 @@ h) fejleszti és felügyeli az igazságügyi informatikai rendszerek működés�
 
 a) ellátja az Európai Unió keretében megvalósuló igazságügyi együttműködéssel kapcsolatos feladatokat,
 
-b)[^80]
+b)[^81]
 
 c) összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
 
@@ -60,9 +60,9 @@ cc) jogszabály megalkotására irányuló előterjesztéshez kapcsolódóan nyi
 
 cd) ellátja a kereskedelem, illetve az áruk szabad áramlása akadályaival kapcsolatban jogszabályban meghatározott értesítési és bejelentési eljárásokban az egyes nemzetközi szervezetek, az Európai Unió intézményei és tagállamai felé megteendő, illetve az ezektől érkező értesítések és bejelentések továbbításával összefüggő feladatokat,
 
-ce)[^81] ellátja az Európai Unió egységes belső piacának hatékony működéséhez szükséges belső piaci koordinációval kapcsolatos feladatokat, működteti a belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert és a Szolgáltatási Notifikációs Központot,
+ce)[^82] ellátja az Európai Unió egységes belső piacának hatékony működéséhez szükséges belső piaci koordinációval kapcsolatos feladatokat, működteti a belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert és a Szolgáltatási Notifikációs Központot,
 
-cf)[^82] – a Kormány eljárás tárgya szerint felelős tagjával együttműködve, a Miniszterelnökséget vezető miniszter tájékoztatása mellett – ellátja a Kormány képviseletét az Európai Unió jogának megsértése miatt indult eljárásoknak az Európai Unió Bírósága előtti eljárást megelőző szakaszaiban (ideértve a kötelezettségszegési eljárás megindítása előtti szakaszban az Európai Bizottsággal történő egyeztetést is), koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti és benyújtja a beadványokat,
+cf)[^83] – a Kormány eljárás tárgya szerint felelős tagjával együttműködve, a Miniszterelnökséget vezető miniszter tájékoztatása mellett – ellátja a Kormány képviseletét az Európai Unió jogának megsértése miatt indult eljárásoknak az Európai Unió Bírósága előtti eljárást megelőző szakaszaiban (ideértve a kötelezettségszegési eljárás megindítása előtti szakaszban az Európai Bizottsággal történő egyeztetést is), koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti és benyújtja a beadványokat,
 
 d) az Európai Unió Bírósága előtti eljáráshoz kapcsolódóan
 
@@ -84,14 +84,14 @@ f) együttműködik a Kormány feladatkörében érintett tagjával a nemzetköz
 
 g) felel a Magyarország által megkötött közjogi, polgári jogi, családjogi és büntetőjogi jogsegélyszerződések végrehajtásáért,
 
-h)[^83] koordinálja az alaptevékenysége szerint magánjogi, valamint nemzetközi magánjogi jogegységesítéssel foglalkozó nemzetközi szervezetekben való magyar részvétellel kapcsolatos feladatokat.
+h)[^84] koordinálja az alaptevékenysége szerint magánjogi, valamint nemzetközi magánjogi jogegységesítéssel foglalkozó nemzetközi szervezetekben való magyar részvétellel kapcsolatos feladatokat.
 
 (9) A miniszter a Kormány eseti döntése alapján felel a több miniszter feladatát érintő törvények előkészítéséért.
 
-[^77]: A 82. § (3) bekezdés b) pontja a 167/2014. (VII. 17.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^78]: A 82. § (3a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 272. § (6) bekezdése iktatta be.
-[^79]: A 82. § (7) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 272. § (7) bekezdésével megállapított szöveg.
-[^80]: A 82. § (8) bekezdés b) pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^81]: A 82. § (8) bekezdés c) pont ce) alpontja a 303/2014. (XII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^82]: A 82. § (8) bekezdés c) pont ce) alpontját a 303/2014. (XII. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^83]: A 82. § (8) bekezdés h) pontját a 218/2015. (VIII. 6.) Korm. rendelet 7. §-a iktatta be.
+[^78]: A 82. § (3) bekezdés b) pontja a 167/2014. (VII. 17.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^79]: A 82. § (3a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 272. § (6) bekezdése iktatta be.
+[^80]: A 82. § (7) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 272. § (7) bekezdésével megállapított szöveg.
+[^81]: A 82. § (8) bekezdés b) pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^82]: A 82. § (8) bekezdés c) pont ce) alpontja a 303/2014. (XII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^83]: A 82. § (8) bekezdés c) pont ce) alpontját a 303/2014. (XII. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^84]: A 82. § (8) bekezdés h) pontját a 218/2015. (VIII. 6.) Korm. rendelet 7. §-a iktatta be.

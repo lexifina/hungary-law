@@ -28,6 +28,6 @@ j) gondoskodik – a statisztikáról szóló törvényben meghatározottak szer
 
 (2) A szakpolitikai feladatot ellátó miniszter – ha jogszabály eltérően nem rendelkezik – irányítja, illetve felügyeli az 1. mellékletben meghatározott központi államigazgatási szerveket.
 
-(3)[^34] A szakpolitikai feladatot ellátó miniszter a feladat- és hatásköre gyakorlása során együttműködik a Miniszterelnökséget vezető miniszterrel és a miniszterelnök kabinetfőnökével.
+(3)[^35] A szakpolitikai feladatot ellátó miniszter a feladat- és hatásköre gyakorlása során együttműködik a Miniszterelnökséget vezető miniszterrel és a miniszterelnök kabinetfőnökével.
 
-[^34]: A 20. § (3) bekezdése a 306/2015. (X. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^35]: A 20. § (3) bekezdése a 306/2015. (X. 26.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -8,29 +8,29 @@ c) a termesztésben alkalmazható növény- és állatfajtákra, az élelmezési
 
 d) a termelők szerveződésére,
 
-e)[^69] a közösségi agrármarketing tevékenységre – kivéve a közösségi bormarketing tevékenységet –
+e)[^70] a közösségi agrármarketing tevékenységre – kivéve a közösségi bormarketing tevékenységet –
 
 vonatkozó jogszabályokat.
 
 (2) A miniszter az agrárpolitikáért való felelőssége keretében
 
-a)[^70]
+a)[^71]
 
 b) ellátja a szakmaközi szervezetek elismerésével, valamint a termelői csoportok, a termelői szervezetek és ezek társulásai elismerésével és működési programjával kapcsolatosan jogszabályban meghatározott feladatokat,
 
-c)[^71] gondoskodik a mezőgazdaságot ért rendkívüli és tömeges elemi károk kezeléséről, ellátja a mezőgazdasági vízhasznosítással kapcsolatos kormányzati feladatokat,
+c)[^72] gondoskodik a mezőgazdaságot ért rendkívüli és tömeges elemi károk kezeléséről, ellátja a mezőgazdasági vízhasznosítással kapcsolatos kormányzati feladatokat,
 
 d) ellátja az ágazat finanszírozását végző pénzintézetekkel és kezességvállaló intézményekkel kapcsolatos kormányzati feladatokat,
 
 e) ellátja a nemzetközi és az európai kötelezettségeken alapuló, nemzeti szabványosítással és az akkreditálással összefüggő feladatokat,
 
-f)[^72] ellátja az Európai Unió mezőgazdasági piacok támogatását célzó pénzügyi eszközével kapcsolatos hatósági feladatokat,
+f)[^73] ellátja az Európai Unió mezőgazdasági piacok támogatását célzó pénzügyi eszközével kapcsolatos hatósági feladatokat,
 
 g) felel az agrárpiac működésének szervezéséért,
 
 h) együttműködik a Nemzeti Agrárgazdasági Kamarával.
 
-[^69]: A 66. § (1) bekezdés e) pontját a 118/2016. (VI. 6.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^70]: A 66. § (2) bekezdés a) pontját a 328/2016. (X. 28.) Korm. rendelet 19. § (4) bekezdés a) pontja hatályon kívül helyezte.
-[^71]: A 66. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 836. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^72]: A 66. § (2) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 827. §-ával megállapított szöveg.
+[^70]: A 66. § (1) bekezdés e) pontját a 118/2016. (VI. 6.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^71]: A 66. § (2) bekezdés a) pontját a 328/2016. (X. 28.) Korm. rendelet 19. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^72]: A 66. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 836. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^73]: A 66. § (2) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 827. §-ával megállapított szöveg.
