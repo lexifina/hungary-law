@@ -6,11 +6,11 @@
 
 (2) A Közétkeztető az étlapon feltünteti minden étkezés
 
-a)[^18]
+a) számított energia-, zsír-, telített zsírsav-, fehérje-, szénhidrát-, cukortartalmát,
 
 b) számított sótartalmát, valamint az élelmiszerek jelöléséről szóló miniszteri rendeletben meghatározott allergén összetevőket.
 
-(3)[^19] Ha az étlapban változás következik be, arról a Közétkeztető a változást követően azonnal, de legkésőbb a kiszállítás előtt 3 órával tájékoztatja az Intézményt. Az Intézmény gondoskodik arról, hogy a módosított étlap (1) bekezdés szerinti kifüggesztése a módosítás napján, az adott étkezést megelőzően megtörténjen.
+(3)[^18] Ha az étlapban változás következik be, arról a Közétkeztető a változást követően azonnal, de legkésőbb a kiszállítás előtt 3 órával tájékoztatja az Intézményt. Az Intézmény gondoskodik arról, hogy a módosított étlap (1) bekezdés szerinti kifüggesztése a módosítás napján, az adott étkezést megelőzően megtörténjen.
 
 (4) A Közétkeztető a diétás étrendet a nem diétás étrendtől elkülönítetten tünteti fel az étlapon.
 
@@ -20,5 +20,4 @@ b) számított sótartalmát, valamint az élelmiszerek jelöléséről szóló 
 
 [^16]: A 6. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^17]: A 6. § (1a) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 5. § (2) bekezdése iktatta be.
-[^18]: A 6. § (2) bekezdés a) pontja a 19. § (3) bekezdése alapján 2017. április 13-án lép hatályba.
-[^19]: A 6. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
+[^18]: A 6. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.

@@ -38,6 +38,6 @@
 
 | 17. | Tej/ízesített tejkészítmény /tea (dl) | 1–2 | 1–2 | 2–2,5 | 2–2,5 | 2–3 |
 
-5. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^56]
+5. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^55]
 
-[^56]: Az 5. melléklet a 36/2016. (XII. 8.) EMMI rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^55]: Az 5. melléklet a 36/2016. (XII. 8.) EMMI rendelet 13. § (4) bekezdése szerint módosított szöveg.
