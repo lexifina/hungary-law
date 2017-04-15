@@ -4,16 +4,8 @@
 
 (3) Amennyiben a mezőgazdasági kockázatkezelési pénzeszköz tárgyévre vonatkozóan rendelkezésre álló összege a 11. § (2) és (5) bekezdésére is figyelemmel nem fedezi a tárgyévre vonatkozóan megállapított összes kárenyhítő juttatás összegét, úgy a kárenyhítő juttatás mértékét az adott évben valamennyi kárenyhítő juttatás igénybevételére jogosult termelőnél arányosan csökkenteni kell.
 
-(4) A tárgyévi kárenyhítő juttatás összegének meghatározásánál a tárgyévet megelőző év november 1-től a tárgyév október 31-ig bekövetkezett, és e törvény alapján igazolt aszálykárt, belvízkárt, felhőszakadáskárt, jégesőkárt, tavaszi fagykárt, őszi fagykárt, téli fagykárt vagy viharkárt kell figyelembe venni.
+(4) A tárgyévi kárenyhítő juttatás összegének meghatározásánál a tárgyévet megelőző év november 1-től a tárgyév október 31-ig bekövetkezett és e törvény alapján igazolt elemi káreseményt kell figyelembe venni.
 
-(5) A mezőgazdasági árvízkár utáni kárenyhítő juttatás kifizetése
+(5) Aszálykár és mezőgazdasági árvízkár után abban az esetben fizethető ki kárenyhítő juttatás, ha legkésőbb a tárgyév október 31-ig az aszályhelyzetről, illetve a mezőgazdasági árvízhelyzetről a miniszter közleményt ad ki.
 
-a) a tárgyévhez kapcsolódóan esedékes, amennyiben az eseményről tárgyév január 1. és október 31. között,
-
-b) a tárgyévet követő évhez kapcsolódóan esedékes, amennyiben az eseményről tárgyév november 1. és a tárgyévet követő év október 31. között,
-
-c) nem lehetséges, amennyiben az eseményről a tárgyévet követő év október 31-e után
-
-értesíti a miniszter a Bizottságot, és a mezőgazdasági árvízhelyzetről a miniszter a Bizottság értesítését megelőzően közleményt ad ki.
-
-(6) Aszálykár után abban az esetben fizethető ki kárenyhítő juttatás, ha az aszályhelyzetről a miniszter legkésőbb a tárgyév október 31-ig közleményt ad ki.
+(6)

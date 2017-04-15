@@ -6,9 +6,11 @@ b) az állam által a központi költségvetésből nyújtott támogatás,
 
 c) az a)–b) pontban foglaltak szerinti összeg mindenkori maradványa,
 
-d) a Kormány egyedi döntése alapján a központi költségvetésből nyújtott, a b) pont hatálya alá nem tartozó többlettámogatás, [az a)–d) pontban foglaltak együtt: mezőgazdasági kockázatkezelési pénzeszköz].
+d) a Kormány egyedi döntése alapján a központi költségvetésből nyújtott, a b) pont hatálya alá nem tartozó többlettámogatás,
 
-(2) A mezőgazdasági kockázatkezelési pénzeszközből – törvény eltérő rendelkezése hiányában – kizárólag kárenyhítő juttatás céljára teljesíthető kifizetés.
+e) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés z) pontjában foglaltak alapján adott támogatás, juttatás [az a)–e) pontban foglaltak együtt: mezőgazdasági kockázatkezelési pénzeszköz].
+
+(2) A mezőgazdasági kockázatkezelési pénzeszközből – törvény eltérő rendelkezése hiányában – kizárólag az országos jégkármegelőző rendszer működtetésére és kárenyhítő juttatás céljára teljesíthető kifizetés.
 
 (3) Az (1) bekezdés a) pontja szerinti pénzforrás a miniszter által vezetett minisztérium költségvetési fejezet fejezeti kezelésű előirányzatának bevételét képezi.
 

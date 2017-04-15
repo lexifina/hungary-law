@@ -22,9 +22,9 @@ d) a kár helyéről,
 
 e) a hozamcsökkenés mértékéről, és
 
-f) az üzemi szintű hozamérték-csökkenés mértékéről.
+f) az üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában számított hozamérték-csökkenés mértékéről.
 
-(2a) Az agrárkár-megállapító szerv a (2) bekezdés szerinti döntést a mezőgazdasági termelő kérelmére az üzemi szintű hozamérték-csökkenés mértékének feltüntetése nélkül is meghozza.
+(2a) Az agrárkár-megállapító szerv a (2) bekezdés szerinti döntést a mezőgazdasági termelő kérelmére az üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában számított hozamérték-csökkenés mértékének feltüntetése nélkül is meghozza.
 
 (3) Az agrárkár-megállapító szerv az (1) és (2) bekezdés szerinti tényeket a kármegállapítást támogató szerv adatain alapuló kockázatelemzés eredményei szerint lefolytatott adminisztratív- vagy helyszíni ellenőrzés megállapításaira alapozva, továbbá a 17. § (2) bekezdése alapján a biztosítótól kapott adatok figyelembevételével állapítja meg.
 

@@ -8,7 +8,7 @@ b) a használatában levő termőföldön bekövetkezett mezőgazdasági kárese
 
 c) elemi káreseményt szenvedett el,
 
-d) 15%-ot meghaladó mértékű üzemi szintű hozamérték-csökkenést szenvedett el,
+d) üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában 15%-ot meghaladó mértékű hozamérték-csökkenést szenvedett el,
 
 e) az agrárkár-megállapító szerv az elemi káresemény tényét, valamint a d) pontban foglaltakat a 14. § (2) bekezdése szerinti döntéssel igazolta,
 
@@ -26,4 +26,4 @@ h) a kárenyhítő juttatás iránti kérelem benyújtásakor az elemi káresem�
 
 (4) A kárenyhítő juttatásra való jogosultság megállapításakor a termőre fordult és az elemi káresemény bekövetkezésekor még termő ültetvényterület vehető figyelembe.
 
-(5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelemben, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referenciahozam-értékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző káreseményre kiterjedő hatályú mezőgazdasági biztosítást.
+(5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelemben, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző káreseményre kiterjedő hatályú mezőgazdasági biztosítást.

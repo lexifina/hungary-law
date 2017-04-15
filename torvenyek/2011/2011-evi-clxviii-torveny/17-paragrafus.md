@@ -1,20 +1,26 @@
 ## 4. A mezőgazdasági időjárási kockázatok kezelése során keletkezett adatok szolgáltatása, kezelése, nyilvánossága
 
-17. § (1) A biztosító a mezőgazdasági biztosítási szerződés megkötését követő harminc napon belül, de legkésőbb a tárgyév szeptember 30-ig köteles átadni az agrárkár-enyhítési szerv részére az e törvény végrehajtására szolgáló, a mezőgazdasági biztosítás díjához nyújtott támogatás igénybevételének feltételeiről szóló miniszteri rendelet alapján (a továbbiakban: díjtámogatott konstrukció) kötött mezőgazdasági biztosítási szerződés adatai közül:
+17. § (1) A biztosító a mezőgazdasági biztosítási szerződés megkötését követően legkésőbb a tárgyév július 15-ig adategyeztetés céljából köteles az agrárkár-enyhítési szerv részére a mezőgazdasági biztosítási szerződés adatai közül:
 
 a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
 
-b) a mezőgazdasági biztosítási szerződés azonosítására (kötvényszám, módozat, biztosítási esemény),
+b) a mezőgazdasági biztosítási szerződés azonosítására (szerződéskötés dátuma, kötvényszám, módozat, biztosítási esemény),
 
-c) a biztosított növénykultúra megnevezésére,
+c) a biztosított növénykultúra megnevezésére (hasznosítási kód) és a növénykultúra referenciahozamára,
 
-d) a kockázatviselés helyére, valamint
+d) a kockázatviselés helyére (blokkazonosító),
 
-e) a biztosítási összegre, a nettó díjelőírás és a kedvezménnyel csökkentett nettó díjelőírás összegére
+e) a terület nagyságára (hektár), valamint
 
-vonatkozó adatokat.
+f) a biztosítási összegre, a nettó díjelőírás és a kedvezménnyel csökkentett nettó díjelőírás összegére
 
-(2) A biztosító a díjtámogatott konstrukcióban kötött mezőgazdasági biztosítási szerződés adatai alapján a kár lezárását követően harminc napon belül, de legkésőbb a tárgyév november 20-ig az alábbi információkról köteles tájékoztatást adni az agrárkár-enyhítési szervnek és a mezőgazdasági igazgatási szervnek:
+vonatkozó adatokat átadni.
+
+(1a) Az (1) bekezdés szerinti adatokat a biztosító a 18. § (6) bekezdés szerinti adatszolgáltatás alapján véglegesíti és azokat legkésőbb a tárgyév szeptember 30-ig visszaküldi az agrárkár-enyhítési szerv részére.
+
+(1b) Az agrárkár-enyhítési szerv a mezőgazdasági biztosítási szerződés díjához nyújtott támogatás helyszíni ellenőrzését a biztosító és a mezőgazdasági termelő közötti szerződés vizsgálatával látja el, amelynek során a biztosító a 16. § (1) bekezdés szerinti szerződés vonatkozásában az (1) bekezdésben felsorolt adatokat az agrárkár-enyhítési szerv ellenőrzésének végrehajtása céljából az agrárkár-enyhítési szerv részére rendelkezésre bocsátja.
+
+(2) A biztosító a pályázati felhívás szerinti díjtámogatott konstrukcióban (a továbbiakban: díjtámogatott konstrukció) kötött mezőgazdasági biztosítási szerződés adatai alapján a kár lezárását követően harminc napon belül, de legkésőbb a tárgyév november 20-ig az alábbi információkról köteles tájékoztatást adni az agrárkár-enyhítési szervnek és a mezőgazdasági igazgatási szervnek:
 
 a) a mezőgazdasági termelő azonosítására szolgáló adatok (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
 

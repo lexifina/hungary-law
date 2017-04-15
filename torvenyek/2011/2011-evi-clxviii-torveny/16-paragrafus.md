@@ -1,15 +1,5 @@
 ## 3. Időjárási kockázatokra kötött mezőgazdasági biztosítás díjának támogatása
 
-16. § (1) A mezőgazdasági termelő uniós jogi aktusban foglaltak szerint az időjárási kockázatokra kötött, és e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben foglaltaknak megfelelő mezőgazdasági biztosítási szerződés díjához támogatást vehet igénybe.
+16. § (1) A mezőgazdasági termelő az uniós jogi aktusban foglaltak szerint az időjárási kockázatokra kötött és az e törvényben, valamint a Vidékfejlesztési Program keretében meghirdetett pályázati felhívásban (a továbbiakban: pályázati felhívás) foglaltaknak megfelelő mezőgazdasági biztosítási szerződés (a továbbiakban: mezőgazdasági biztosítási szerződés) díjához támogatást vehet igénybe.
 
-(2) A miniszter a biztosító kérelmére – az uniós jogi aktusban foglalt előírások teljesítésének vizsgálatát követően – előzetesen jóváhagyja a biztosító által alkalmazott mezőgazdasági biztosításra vonatkozó, (1) bekezdés szerinti szerződés különös szerződési feltételeinek megfelelőségét. A jóváhagyás csak abban az esetben tagadható meg, ha a mezőgazdasági biztosítási szerződés ellentétes az e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben meghatározottakkal.
-
-(3) A (2) bekezdésben foglalt előzetes jóváhagyás hiánya esetén a mezőgazdasági biztosítási szerződésnek e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben meghatározottakkal való összhangját az agrárkár-enyhítési szerv a mezőgazdasági biztosítás díjához nyújtott támogatási kérelemmel egyidejűleg vizsgálja.
-
-(4) A mezőgazdasági biztosítás díjához nyújtott támogatás kifizetése iránti kérelmet el kell utasítani, ha a mezőgazdasági biztosítási szerződés ellentétes az e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben meghatározottakkal.
-
-(5) A mezőgazdasági biztosítás díjtámogatása igénybevételének alapjául szolgáló szerződésben:
-
-a) a kockázatviselés helyét a MePAR kötelező alkalmazásával is meg kell határozni, és
-
-b) a mezőgazdasági termelő ügyfél- azonosítóját is fel kell tüntetni.
+(2) A miniszter szakmai javaslata alapján az agrár-vidékfejlesztésért felelős miniszter a biztosító tárgyév január 31-ig benyújtott kérelmére – az uniós jogi aktusban foglalt előírások teljesítésének vizsgálatát követően – a tárgyév március 31-ig előzetesen jóváhagyja a biztosító által alkalmazott mezőgazdasági biztosításra vonatkozó, az (1) bekezdés szerinti szerződés különös szerződési feltételeit.

@@ -2,7 +2,19 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-24. § (1) Felhatalmazást kap a Kormány, hogy az agrárkár-megállapító szervet, az agrárkár-enyhítési szervet, valamint a mezőgazdasági igazgatási szervet rendeletben jelölje ki.
+24. § (1) Felhatalmazást kap a Kormány, hogy
+
+a) az agrárkár-megállapító szervet,
+
+b) az agrárkár-enyhítési szervet,
+
+c) a mezőgazdasági igazgatási szervet,
+
+d) az agrárgazdasági elemzésekkel foglalkozó intézményt, valamint
+
+e) az országos jégkármegelőző rendszert működtető szervet
+
+rendeletben jelölje ki.
 
 (2) Felhatalmazást kap a miniszter, hogy:
 
@@ -16,7 +28,7 @@ d) a kárenyhítő juttatás megállapításának részletes feltételeit,
 
 e) a központi költségvetésből kárenyhítés céljára nyújtott többletforrás igénybevételéhez szükséges feltételeket és a feltételek teljesítése igazolásának módját,
 
-f) az egyes káreseményekre kötött mezőgazdasági biztosítás díjához nyújtott támogatás igénybevételének részletes feltételeit, a káresemények körét, és az igazolás módját,
+f)
 
 g) az e törvény szerinti kockázatközösségben nem tag mezőgazdasági termelő részére nyújtandó kárenyhítési támogatás igénybevételének részletes szabályait,
 

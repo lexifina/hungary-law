@@ -26,7 +26,7 @@
 
 12. hozamcsökkenés: a referenciahozam és a tárgyévi hozam különbsége;
 
-13. hozamérték-csökkenés: a referenciahozam-érték és a tárgyévi hozamérték különbsége;
+13. hozamérték-csökkenés: a referencia hozamérték és a tárgyévi hozamérték különbsége;
 
 14. jégeső: szilárd halmazállapotú, jégszemcsékből és azok képződményeiből álló csapadék;
 
@@ -58,7 +58,7 @@
 
 26. referenciahozam: a referencia-időszak hozamának – ideértve szükség esetén az átlaghozamot is – számtani átlaga;
 
-27. referenciahozam-érték: a referenciahozam alapján számított átlagtermésnek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott referenciaáron számított értéke;
+27. referencia hozamérték: a referenciahozam alapján számított átlagtermésnek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott referenciaáron számított értéke;
 
 28. referencia-időszak: a tárgyévet megelőző ötéves időszakból a legmagasabb és a legalacsonyabb hozammal rendelkező kettő év elhagyásával képzett három év;
 
@@ -66,7 +66,7 @@
 
 30. tavaszi fagy: a kockázatviselés helyén a tavaszi időszakban a talajszinttől számított kettő méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
 
-30a. tavaszi fagykár: a téli nyugalmi periódus végét követően jelentkező tavaszi fagy miatt, a kockázatviselés helyén termesztett növényben bekövetkezett olyan káresemény, amelynek során a termőrügy, virág vagy terméskezdemény elhal, és ennek következtében a növénykultúra hozamcsökkenést szenved;
+30a. tavaszi fagykár: a téli nyugalmi periódus végét követően jelentkező tavaszi fagy miatt, a kockázatviselés helyén termesztett növényben bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 
 31. tárgyévi hozamérték: a használatban lévő termőföldről a tárgyévben betakarított termékeknek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben a tárgyévre vonatkozóan meghatározott referenciaáron számított értéke;
 

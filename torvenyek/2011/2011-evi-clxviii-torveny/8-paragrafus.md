@@ -2,4 +2,4 @@
 
 a) az állam által évenként a központi költségvetésből nyújtott támogatás,
 
-b) az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból az Európai Unió kötelezően alkalmazandó jogi aktusában foglaltakkal összhangban nyújtott támogatás.
+b) az Európai Mezőgazdasági Vidékfejlesztési Alapból az Európai Unió kötelezően alkalmazandó jogi aktusában foglaltakkal összhangban nyújtott támogatás.
