@@ -1,8 +1,8 @@
-11. § (1)[^25] Az ellenőrzött szervezet vezetője a szükséges intézkedések végrehajtásáért felelős személyek és a vonatkozó határidők megjelölésével az ellenőrzési jelentés kézhezvételétől számított húsz napon belül intézkedési tervet készít. Indokolt esetben a vizsgálatvezető ennél hosszabb, legfeljebb 30 napos határidőt is megállapíthat.
+11. § (1)[^28] Az ellenőrzött szervezet vezetője a szükséges intézkedések végrehajtásáért felelős személyek és a vonatkozó határidők megjelölésével az ellenőrzési jelentés kézhezvételétől számított húsz napon belül intézkedési tervet készít. Indokolt esetben a vizsgálatvezető ennél hosszabb, legfeljebb 30 napos határidőt is megállapíthat.
 
-(2)–(4)[^26]
+(2)–(4)[^29]
 
 (5) Az ellenőrzött szervezet vezetője felelős az intézkedési terv végrehajtásáért, illetve annak nyomon követéséért.
 
-[^25]: A 11. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (152) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^26]: A 11. § (2)–(4) bekezdését a 206/2012. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^28]: A 11. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (152) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^29]: A 11. § (2)–(4) bekezdését a 206/2012. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
