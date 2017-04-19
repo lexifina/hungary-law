@@ -28,7 +28,7 @@ i) a bv. intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartotta
 
 j)
 
-k) a Börtönlelkészi Szolgálatra vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel és az egyházakkal való kapcsolattartás koordinációjáért felelős miniszterrel egyetértésben,
+k) a börtönlelkészi szolgálatra és a börtönmissziós tevékenységre vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel és az egyházakkal való kapcsolattartás koordinációjáért felelős miniszterrel egyetértésben,
 
 l) a büntetés-végrehajtási intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak letétjének kezelésére és a birtokukban lévő külföldi fizetőeszközzel kapcsolatos eljárásra vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel egyetértésben.
 
@@ -39,5 +39,3 @@ a) a szabadságvesztés, az elzárás, a rendbírság helyébe lépő elzárás 
 b) a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályait a szabálysértési szabályozásért felelős miniszter egyetértésével,
 
 c) a szabálysértési elzárás végrehajtásának részletes szabályait a szabálysértési szabályozásért és a rendészetért felelős miniszter egyetértésével, a legfőbb ügyész véleményének a kikérésével.
-
-(4) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a pártfogó felügyelői és a büntetés-végrehajtási pártfogó felügyelői tevékenységgel kapcsolatos rendőri feladatok végrehajtásának szabályait.

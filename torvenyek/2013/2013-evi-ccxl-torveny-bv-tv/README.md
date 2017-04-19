@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-240-00-00
 | 2016-07-17 | 2016. évi LXIX. törvény | 2013-240-00-00.9 |
 | 2017-01-01 | 2016. évi CX. törvény | 2013-240-00-00.10 |
 | 2017-03-24 | 2017. évi XIII. törvény | 2013-240-00-00.11 |
+| 2017-04-19 | 2017. évi XXIX. törvény | 2013-240-00-00.12 |

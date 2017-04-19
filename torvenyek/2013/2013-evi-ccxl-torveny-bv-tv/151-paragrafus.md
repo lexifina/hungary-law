@@ -1,4 +1,4 @@
-151. § (1) Az elítélt motozását, illetve a ruházat átvizsgálását – ide nem értve a motozásnál közreműködő orvost, valamint a technikai eszközzel történő ruházatátvizsgálást – az elítélttel azonos nemű személy végezheti.
+151. § (1) A motozás az elítélt testének és ruházatának, valamint a nála lévő személyes tárgyainak az átvizsgálása. Az elítélt motozását – ide nem értve a motozásnál közreműködő orvost és egészségügyi szakszemélyzetet, valamint a technikai eszközzel történő ruházatátvizsgálást végző személyt – az elítélttel azonos nemű személy végezheti.
 
 (2) A motozás nem történhet megalázó, szeméremsértő módon.
 

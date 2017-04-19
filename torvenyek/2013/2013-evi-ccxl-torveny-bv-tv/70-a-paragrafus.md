@@ -1,6 +1,6 @@
 ## Kártalanítási eljárás az alapvető jogokat sértő elhelyezési körülményekből eredő sérelem orvoslására
 
-70/A. § (1) A büntetés-végrehajtási bíró az alapvető jogokat sértő elhelyezési körülményekből eredő sérelmek miatt az elítélt kártalanításáról az elítélt vagy a védő kérelmére dönt. A büntetés-végrehajtási bíró iratok alapján is meghozhatja a döntést.
+70/A. § (1) A büntetés-végrehajtási bíró az alapvető jogokat sértő elhelyezési körülményekből eredő sérelmek miatt az elítélt kártalanításáról az elítélt vagy a védő kérelmére dönt. A büntetés-végrehajtási bíró iratok alapján is meghozhatja a döntést, továbbá az ügyész véleményének beszerzését mellőzheti.
 
 (2) A kérelmet a bv. intézet a véleményével tizenöt, ha a kérelem több bv. intézetet érint, harminc napon belül továbbítja a büntetés-végrehajtási bíróhoz, azzal, hogy ha az elítélt az alapvető jogot sértő elhelyezési körülmény miatt panaszt nyújtott be, a vélemény felterjesztésére csak a panasz elbírálását követően – ideértve az átszállításról szóló határozattal szembeni bírósági felülvizsgálati kérelmet is – kerülhet sor. A véleményhez csatolni kell a fogvatartotti nyilvántartásnak az elítélt által kifogásolt időszak elhelyezési körülményeire vonatkozó adatait tartalmazó kivonatát.
 

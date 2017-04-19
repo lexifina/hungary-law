@@ -18,4 +18,4 @@ a) azzal a bűncselekménnyel összefüggésben megítélt polgári jogi igény,
 
 b) a gyermektartásdíj behajtása iránti végrehajtási eljárásban érvényesített követelés erejéig van helye.
 
-(8) A (7) bekezdésben meghatározott esetben, ha a kártalanítás összege nem fedezi a kielégítendő követeléseket, elsősorban a gyermektartásdíj iránti követelést, majd a polgári jogi igényt és vele egy sorban a bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat kell kielégíteni.
+(8) A (7) bekezdésben meghatározott esetben, ha a kártalanítás összege nem fedezi a kielégítendő követeléseket, elsősorban a gyermektartásdíj iránti követelést, majd a polgári jogi igényt és vele egy sorban a bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat kell kielégíteni azzal, hogy ha a kártalanítás összege nem fedezi az azonos soron felsorolt valamennyi követelést, akkor e követeléseket arányosan kell kielégíteni.
