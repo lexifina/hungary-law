@@ -2,6 +2,6 @@
 
 (2) Ha az Alkotmánybíróság a harmadfokú bíróság határozatát megsemmisíti, a harmadfokú bíróság eljárására a XV. Fejezet rendelkezéseit kell alkalmazni.
 
-III. CÍM
+II/A. CÍM
 
-TÁRGYALÁS AZ ÜGYEK UTÓLAGOS EGYESÍTÉSEKOR
+A RENDKÍVÜLI JOGORVOSLATI ELJÁRÁS MEGISMÉTLÉSE

@@ -28,4 +28,4 @@ g) a vádirat benyújtása előtt az 54. § (2a) bekezdés szerinti polgári jog
 
 (5) Az ügyész, a gyanúsított és a védő bizonyítás felvételét is indítványozhatja, ha megalapozottan feltehető, hogy az így megszerezhető bizonyítási eszköz a bírósági eljárásban már nem állna rendelkezésre, vagy az addigra jelentős mértékben megváltozna, illetőleg bizonyítási eszköz jellegét elveszítené. Az ügyész, a gyanúsított, a védő, a tanú érdekében eljáró ügyvéd, valamint a kiskorú tanú gondozója és törvényes képviselője a tanúnak vagy kivételes esetben a gyanúsítottnak a zártcélú távközlő hálózat útján történő kihallgatását is indítványozhatja.
 
-(6) A vádirat benyújtása előtt az előzetes letartóztatás egy éven túli meghosszabbítására, valamint az ideiglenes kényszergyógykezelés felülvizsgálatára irányuló eljárást a törvényszék egyesbírája e Címben foglalt rendelkezések szerint folytatja le.
+(6)

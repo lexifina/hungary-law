@@ -2,6 +2,10 @@
 
 471. § (1) A katonai büntetőeljárásra tartozó ügyben első fokon a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló törvényben kijelölt törvényszék katonai tanácsa jár el.
 
-(2) A katonai büntetőeljárásra tartozó ügyben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el. A perújítás megengedhetőségének kérdésében, valamint perújítás elrendelése esetén a perújítási eljárásban hozott ítélet felülbírálata során másodfokon a Fővárosi Ítélőtábla más tanácsa is eljárhat.
+(2) A katonai büntetőeljárásra tartozó ügyben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el.
 
-(3) A katonai bíró a nem katonai büntetőeljárásra tartozó ügyekben is eljárhat.
+(3) A nyomozási bíróként eljáró katonai bíró határozata elleni fellebbezést a törvényszék másodfokú tanácsa bírálja el.
+
+(4) A perújítás megengedhetőségének kérdésében, valamint perújítás elrendelése esetén a perújítási eljárásban hozott ítélet felülbírálata során másodfokon a Fővárosi Ítélőtábla más tanácsa is eljárhat.
+
+(5) A katonai bíró a nem katonai büntetőeljárásra tartozó ügyekben is eljárhat.

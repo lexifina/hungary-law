@@ -24,9 +24,19 @@ g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakad�
 
 (4) A kézbesítés szabályszerű, ha a hivatalos iratot a címzett vagy helyette a külön jogszabály szerint átvételre jogosult más személy átvette. A hivatalos iratot szabályszerűen kézbesítettnek kell tekinteni, ha az irat átvételét, illetőleg a kézbesítési bizonyítvány (tértivevény) aláírását megtagadják.
 
-(5) Az ismeretlen helyen tartózkodó terhelt részére a hivatalos iratot hirdetményi úton kell kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza, hogy a címzett az iratot melyik bíróságnál, ügyészségnél, illetőleg nyomozó hatóságnál veheti át.
+(5) Hirdetményi úton kell kézbesíteni
 
-(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő bíróság, ügyészség, illetőleg nyomozó hatóság, valamint – ha ilyen van – a címzett utolsó ismert belföldi lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. Az iratot a hirdetménynek a bíróságnál, az ügyészségnél, illetőleg a nyomozó hatóságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+a) a hivatalos iratot az ismeretlen helyen tartózkodó terhelt részére, és
+
+b) az értesítést, ha ezt az érdekeltek jelentős száma indokolttá teszi.
+
+(5a) Hirdetményi kézbesítés esetén a hirdetmény tartalmazza, hogy a címzett az iratot melyik bíróságnál, ügyészségnél, illetve nyomozó hatóságnál veheti át. Hirdetményben az értesítettek neve nem közölhető.
+
+(6) A hirdetményt tizenöt napra közzé kell tenni a kézbesítést elrendelő bíróság, ügyészség vagy nyomozó hatóság elektronikus tájékoztatásra szolgáló honlapján, és tizenöt napra ki kell függeszteni a bíróság, ügyészség vagy nyomozó hatóság hirdetőtáblájára.
+
+(6a) Az (5) bekezdés a) pontja esetén a hirdetményt tizenöt napra a terhelt utolsó ismert belföldi lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára is ki kell függeszteni.
+
+(6b) Az iratot a hirdetménynek a kézbesítést elrendelő bíróság, ügyészség vagy nyomozó hatóság hirdetőtábláján történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 (7) A kézbesítési bizonyítvánnyal (tértivevénnyel) feladott hivatalos iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át.
 

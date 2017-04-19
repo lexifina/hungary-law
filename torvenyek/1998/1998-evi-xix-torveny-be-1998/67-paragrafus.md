@@ -14,12 +14,12 @@ d) a távolmaradás következményeire való figyelmeztetést,
 
 e) a vádirat benyújtása után a vádlott nevét és az eljárás alapjául szolgáló bűncselekmény megjelölését.
 
-(3) Sajtóhirdetményben tehető közzé az értesítés, ha ezt az érdekeltek rendkívül nagy száma indokolttá teszi.
+(3)
 
 (4) Minden esetben közölni kell, hogy az érintettet melyik bíróság, ügyészség, illetőleg nyomozó hatóság idézi, illetőleg értesíti; az idézés, illetve az értesítés tényét az ügy irataiban rögzíteni kell.
 
 (5) A megidézett felhívható arra, hogy az ügyre vonatkozó iratain kívül a bizonyításnál felhasználható feljegyzéseit vagy egyéb tárgyait hozza magával.
 
-(6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni. Sajtóhirdetményben az értesítettek neve nem közölhető.
+(6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni.
 
 (7) A kiskorú idézésében, illetve értesítésében – figyelemmel a 62/A. §-ban foglaltakra – a kiskorú korára, érettségére figyelemmel, számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.

@@ -38,7 +38,7 @@ l) a fogvatartott személy esetében a büntetőeljárás lefolytatása során, 
 
 m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter egyetértésével kiadott,
 
-n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
+n) a büntetőeljárásban alkalmazható hirdetmény útján történő kézbesítés szabályait,
 
 o) a bírósági ügyvitel szabályait,
 
@@ -79,3 +79,9 @@ d) az igazságügyért felelős miniszter, hogy a bíróság büntetés-végreha
 e) a honvédelemért felelős miniszter és a Kormány rendvédelmi feladatokat ellátó szervet irányító minisztere, hogy együttesen a legfőbb ügyésszel egyetértésben a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében a parancsnoki nyomozással kapcsolatban utasításban
 
 az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az eljárás során gyakrabban használt más iratokra nyomtatvány rendszeresítését rendelje el.
+
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, a rendészetért felelős miniszter, az igazságügyért felelős miniszter egyetértésével kiadott rendeletben meghatározza a kábítószerfüggőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait.
+
+(7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
+
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.

@@ -6,7 +6,7 @@ b) a büntetőeljárás kábítószer-kereskedelem (Btk. 176–177. §), kóros 
 
 (2) A bíróság a határozatával az elektronikus hírközlési szolgáltatókat kötelezi az elektronikus adathoz való hozzáférés ideiglenes megakadályozására.
 
-(3) Ha az elektronikus adat feletti rendelkezésre jogosult ismeretlen, az elektronikus adat 158/B. § (4) bekezdés b) pontja szerinti ideiglenes hozzáférhetetlenné tételéről szóló határozatot hirdetményi úton kell kézbesíteni. A hirdetményt tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára, továbbá közzé kell tenni a bíróságok központi internetes honlapján, a hirdetményi kézbesítésre egyebekben a 70. § (5) és (6) bekezdését kell alkalmazni. Az elektronikus adat feletti rendelkezésre jogosult a határozattal szemben a kézbesítéstől számított nyolc napon belül fellebbezést jelenthet be.
+(3) Ha az elektronikus adat feletti rendelkezésre jogosult ismeretlen, az elektronikus adat 158/B. § (4) bekezdés b) pontja szerinti ideiglenes hozzáférhetetlenné tételéről szóló határozatot hirdetményi úton kell kézbesíteni. A hirdetményi kézbesítésre egyebekben a 70. § (5)–(6b) bekezdését kell alkalmazni. Az elektronikus adat feletti rendelkezésre jogosult a határozattal szemben a kézbesítéstől számított nyolc napon belül fellebbezést jelenthet be.
 
 (4) A bíróság az elektronikus adat 158/B. § (4) bekezdés b) pontja szerinti ideiglenes hozzáférhetetlenné tétele elrendeléséről elektronikus úton haladéktalanul értesíti az NMHH-t.
 

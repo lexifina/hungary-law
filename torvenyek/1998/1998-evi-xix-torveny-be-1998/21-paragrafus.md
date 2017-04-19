@@ -16,7 +16,7 @@ e) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
 (3) Az (1) bekezdésben szabályozott eseteken kívül
 
-a) a bíróság további eljárásából ki van zárva, aki az ügyben nyomozási bíróként járt el,
+a) a vádemelést követően a bíróság további eljárásából ki van zárva, aki az ügyben a vádemelés előtt nyomozási bíróként vagy a nyomozási bíró határozata elleni fellebbezés tárgyában eljárt,
 
 b) a másodfokú eljárásból ki van zárva az a bíró, aki az ügy első fokú, a harmadfokú eljárásból pedig az, aki az ügy első fokú vagy másodfokú elbírálásában részt vett,
 
