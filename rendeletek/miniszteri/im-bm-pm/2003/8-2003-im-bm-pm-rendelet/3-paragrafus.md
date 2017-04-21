@@ -1,3 +1,0 @@
-3. § (1) Az értesítés – a napilapok mellett – egy, a média tv. szerinti országos műsorszolgáltatást végző műsorszolgáltatónál (a továbbiakban: műsorszolgáltató), a műsorszolgáltató és az értesítést kibocsátó bíróság, ügyészség, illetőleg nyomozó hatóság közötti szerződés alapján, egy alkalommal, ellenszolgáltatás nélkül, közérdekű közlemény formájában is közzétehető.
-
-(2) A szerződés – a szükségeshez képest – tartalmazza különösen a közzététel feltételeit, annak a műsorszámnak a megnevezését, amelyben az értesítés megjelenik, valamint azt, hogy a műsorszolgáltató az értesítést kibocsátó bíróság, ügyészség, illetőleg nyomozó hatóság kérésére rendelkezésre bocsátja az értesítést tartalmazó kép- és hangfelvételt.

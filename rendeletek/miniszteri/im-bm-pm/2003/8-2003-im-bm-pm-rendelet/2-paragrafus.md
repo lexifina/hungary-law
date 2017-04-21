@@ -1,3 +1,0 @@
-2. § (1) Sajtóhirdetményben tehető közzé az értesítés, ha ezt az érdekeltek rendkívül nagy száma indokolttá teszi. Az értesítést két, magyar nyelven megjelenő, a rádiózásról és televíziózásról szóló 1996. évi I. törvényben (a továbbiakban: média tv.) meghatározott országos terjesztésű napilapban vagy – indokolt esetben – egy országos terjesztésű és egy megyei terjesztésű napilapban (a továbbiakban együtt: napilap) kell megjelentetni.
-
-(2) Az értesítést a napilap és az értesítést kibocsátó bíróság, ügyészség, illetőleg nyomozó hatóság közötti szerződés alapján, napilaponként két alkalommal, legalább öt munkanap különbséggel, fizetett hirdetésként kell közzétenni.
