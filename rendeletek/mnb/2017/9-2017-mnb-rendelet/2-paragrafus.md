@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme fekvő téglalap alakú, 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, mérete 26,4×39,6 mm, széle sima.
+
+(2) Az emlékérme előlapján, a középmezőben egy szártalan bábakalács ábrázolása látható, amely a Bükki Nemzeti Park emblémájának központi eleme. Az emlékérme szélén, fent a „10 000” értékjelzés és a „FORINT” felirat, jobb oldalon a „MAGYARORSZÁG” felirat, lent – a szártalan bábakalács levelei között – a „2017” verési évszám és a „BP.” verdejel olvasható. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján a Szeleta-barlang bejáratának ábrázolása látható, a barlang belsejéből kitekintve, balra egy őskori lándzsaheggyel. Az emlékérme bal oldalán a „SZELETA-KULTÚRA”, fent, három egymás alatti sorban, balra rendezve a „BÜKKI”, a „NEMZETI” és a „PARK” felirat olvasható. Az emlékérme jobb szélén, lent Kereszthury Gábor tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
