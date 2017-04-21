@@ -1,0 +1,3 @@
+## 2. § A 36/2006. (V. 18.) FVM rendelet 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Termésnövelő anyag raktározására szolgáló tároló kizárólag olyan helyen létesíthető, ahol a legmagasabb talajvízszint és a tárolóaljzat szintje közötti különbség legalább 1,5 méter, és a csapadékvíz elvezetése biztosított oly módon, hogy a tárolt készítménnyel ne érintkezzen. Nem létesíthető tároló különösen hullámtéren, fakadó vizes területen, vízbázisok védőterületén, árvízi tároló területén, parti védősáv területén, vízjárta területen, ivóvízkivételtől számított 50 méteren belül, bányatavak 300 méteres parti sávjában, kivéve, ha a tároló szintje magasabb a mértékadó árvízszintnél.”
