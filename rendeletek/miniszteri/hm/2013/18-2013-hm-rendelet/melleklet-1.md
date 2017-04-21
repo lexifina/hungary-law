@@ -1,6 +1,6 @@
-## 70. §[^121] E rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 35. § (3) bekezdését 2016. június 15-től kell alkalmazni.
+## 71. §[^122] E rendeletnek a külföldi szolgálatot teljesítők egyes járandóságairól szóló 18/2013. (IX. 5.) HM rendelet módosításáról szóló 2/2017. (IV. 20.) HM rendelettel megállapított 17. § (1) bekezdés c) pontját a 2017. évi kifizetések tekintetében azzal az eltéréssel kell alkalmazni, hogy a kiküldött 2017. április 30-ig nyilatkozik arról, hogy az utazási költségátalány átutalását 2017. május 15-ig vagy 2017. szeptember 30-ig kéri.
 
-1. melléklet a 18/2013. (IX. 5.) HM rendelethez[^122]
+1. melléklet a 18/2013. (IX. 5.) HM rendelethez[^123]
 
-[^121]: A 70. §-t a 9/2016. (VI. 29.) HM rendeelt 6. §-a iktatta be.
-[^122]: Az 1. melléklet a 9/2015. (VII. 13.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^122]: A 71. §-t a 2/2017. (IV. 20.) HM rendelet 2. §-a iktatta be.
+[^123]: Az 1. melléklet a 9/2015. (VII. 13.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
