@@ -4,15 +4,15 @@
 
 ## 2. A termésnövelő anyag típusa, az 1. számú melléklet függeléke szerint.
 
-## 3.[^96] Gyártó és az engedély jogosultjának neve, címe és statisztikai számjele, a gyártás helyszíne, bérgyártás esetén a bérgyártó neve, címe, statisztikai számjele.
+## 3.[^100] Gyártó és az engedély jogosultjának neve, címe és statisztikai számjele, a gyártás helyszíne, bérgyártás esetén a bérgyártó neve, címe, statisztikai számjele.
 
 ## 4. A kérelmező neve, címe és statisztikai számjele.
 
-## 5.[^97] A készítmény teljes összetétele, a hatóanyagok, valamint a szennyező anyagok megnevezése és koncentrációja, az alapanyagok származási helye és koncentrációja.
+## 5.[^101] A készítmény teljes összetétele, a hatóanyagok, valamint a szennyező anyagok megnevezése és koncentrációja, az alapanyagok származási helye és koncentrációja.
 
 ## 6. A gyártó által szavatolt minőségi jellemzők.
 
-## 7.[^98] A gyártó által megadott felhasználási lehetőségek és alkalmazási dózisok, a készítmény hatásmechanizmusa.
+## 7.[^102] A gyártó által megadott felhasználási lehetőségek és alkalmazási dózisok, a készítmény hatásmechanizmusa.
 
 ## 8. Tűzveszélyességi osztályba sorolás.
 
@@ -24,7 +24,7 @@
 
 ## 12. Ha a termésnövelő anyag a veszélyes áruk szállításáról szóló (ADR/RID) szabályzatok hatálya alá esik, a termék UN száma és ADR/RID osztálya.
 
-## 13.[^99] Bányászott termékek esetén a feltárási, kitermelési műszaki üzemi terv jóváhagyásáról szóló bányafelügyeleti határozat.
+## 13.[^103] Bányászott termékek esetén a feltárási, kitermelési műszaki üzemi terv jóváhagyásáról szóló bányafelügyeleti határozat.
 
 ## 14. A termésnövelő anyag gyártástechnológiájának leírása.
 
@@ -36,25 +36,25 @@
 
 ## 15.3. Az engedélyezési eljárási díj befizetésének igazolása.
 
-## 15.4.[^100]
+## 15.4.[^104]
 
 ## 15.5. A külön jogszabály szerint kockázatos anyagot tartalmazó termésnövelő anyagok esetén annak bemutatása, hogyan viselkednek a kockázatos anyagok a talajban, milyen hatással vannak a felszín alatti vizekre.
 
-## 15.6.[^101] Írásbeli nyilatkozat arról, hogy az engedélyezni kívánt termék, vagy annak bármely jellemzője, valamint elnevezése harmadik személy szellemi tulajdonjogát nem sérti.
+## 15.6.[^105] Írásbeli nyilatkozat arról, hogy az engedélyezni kívánt termék, vagy annak bármely jellemzője, valamint elnevezése harmadik személy szellemi tulajdonjogát nem sérti.
 
-## 15.7.[^102] Amennyiben a gyártó nem azonos a kérelmezővel, úgy gyártói felhatalmazás az engedélyezésre.
+## 15.7.[^106] Amennyiben a gyártó nem azonos a kérelmezővel, úgy gyártói felhatalmazás az engedélyezésre.
 
-## 15.8.[^103] Amennyiben a gyártó nem azonos az engedélyessel, úgy gyártói nyilatkozat az engedélyes megnevezésével.
+## 15.8.[^107] Amennyiben a gyártó nem azonos az engedélyessel, úgy gyártói nyilatkozat az engedélyes megnevezésével.
 
-## 15.9.[^104] A védett márkanevek, kereskedelmi megnevezések tulajdonosainak hozzájárulása.
+## 15.9.[^108] A védett márkanevek, kereskedelmi megnevezések tulajdonosainak hozzájárulása.
 
-## 15.10.[^105] A készítmények előállításhoz felhasznált alapanyagok gyártóinak igazolása arról, hogy adott készítményben az alapanyag felhasználásához hozzájárulnak és legalább 1 évig biztosítják az ellátást.
+## 15.10.[^109] A készítmények előállításhoz felhasznált alapanyagok gyártóinak igazolása arról, hogy adott készítményben az alapanyag felhasználásához hozzájárulnak és legalább 1 évig biztosítják az ellátást.
 
-## 15.11.[^106] Hulladékok feldolgozása esetén a hulladékkezelési engedély.
+## 15.11.[^110] Hulladékok feldolgozása esetén a hulladékkezelési engedély.
 
-## 15.12.[^107] Állati eredetű melléktermékek feldolgozása esetén az állategészségügyi hatóság engedélye.
+## 15.12.[^111] Állati eredetű melléktermékek feldolgozása esetén az állategészségügyi hatóság engedélye.
 
-## 15.13.[^108] Telepengedély.
+## 15.13.[^112] Telepengedély.
 
 ## 1. számú melléklet függeléke
 
@@ -222,7 +222,7 @@
 
 – kelátképző anyag.
 
-1.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:[^109]
+1.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:[^113]
 
 – P, K, NPK műtrágyák: As, Cd, Cr, Hg, Ni, Pb,
 
@@ -246,7 +246,7 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 – robbanóképesség vizsgálata.
 
-1.4.[^110] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+1.4.[^114] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -268,7 +268,7 @@ Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a 
 
 1.6. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-1.7.[^111] Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
+1.7.[^115] Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
 
 2. SZERVES TRÁGYÁK
 
@@ -284,7 +284,7 @@ Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a 
 
 – szervesanyag-tartalom,
 
-–[^112]
+–[^116]
 
 – szemcseméret eloszlás,
 
@@ -292,9 +292,9 @@ Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a 
 
 2.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^113]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^117]
 
-2.3.[^114] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+2.3.[^118] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 Amennyiben a szerves trágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -328,9 +328,9 @@ Amennyiben a szerves trágya előállításához hulladékot (is) használtak fe
 
 – Humán parazita bélféreg peteszám meghatározása.
 
-2.6.2.[^115]
+2.6.2.[^119]
 
-2.7.[^116] Amennyiben a szerves trágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
+2.7.[^120] Amennyiben a szerves trágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
 
 3. ÁSVÁNYI TRÁGYÁK
 
@@ -354,7 +354,7 @@ Amennyiben a szerves trágya előállításához hulladékot (is) használtak fe
 
 3.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^117]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^121]
 
 3.3. Biológiai hatás vizsgálata: 2 szántóföldi, illetve 2 kertészeti tesztnövénnyel, növényenként legalább egy szabadföldi és egy tenyészedényes vizsgálat végzése.
 
@@ -384,7 +384,7 @@ Amennyiben a szerves trágya előállításához hulladékot (is) használtak fe
 
 – As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.
 
-4.3.[^118] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+4.3.[^122] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 A komposzt előállításához felhasznált hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -410,7 +410,7 @@ A komposzt előállításához felhasznált hulladék minőségétől függően 
 
 4.6. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-4.6.1.[^119] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
+4.6.1.[^123] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
 
 – Fekál coliform szám meghatározása,
 
@@ -448,9 +448,9 @@ A komposzt előállításához felhasznált hulladék minőségétől függően 
 
 5.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^120]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^124]
 
-5.3.[^121] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+5.3.[^125] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 Amennyiben a gilisztahumusz előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -474,7 +474,7 @@ Amennyiben a gilisztahumusz előállításához hulladékot (is) használtak fel
 
 5.6. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-5.6.1.[^122] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
+5.6.1.[^126] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
 
 – Fekál coliform szám meghatározása,
 
@@ -488,7 +488,7 @@ Amennyiben a gilisztahumusz előállításához hulladékot (is) használtak fel
 
 5.6.2. Sugárbiológiai vizsgálat 3 x 0,5 kg mintából.
 
-5.7.[^123] Amennyiben a gilisztahumusz előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
+5.7.[^127] Amennyiben a gilisztahumusz előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
 
 6. TALAJJAVÍTÓ ANYAGOK
 
@@ -632,7 +632,7 @@ Amennyiben a gilisztahumusz előállításához hulladékot (is) használtak fel
 
 – szervesanyag-tartalmú talajjavító anyagok (tőzeg, lápföld, lignit, lápi mész, meszes lápföld, alginit): As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.
 
-6.3.[^124] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+6.3.[^128] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 Amennyiben a talajjavító anyag előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -652,7 +652,7 @@ Amennyiben a talajjavító anyag előállításához hulladékot (is) használta
 
 6.6. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-6.6.1.[^125] Higiénés mikrobiológiai vizsgálat szerves eredetű talajjavító anyagoknál 3 x 0,5 kg mintából:
+6.6.1.[^129] Higiénés mikrobiológiai vizsgálat szerves eredetű talajjavító anyagoknál 3 x 0,5 kg mintából:
 
 – Fekál coliform szám meghatározása,
 
@@ -666,11 +666,11 @@ Amennyiben a talajjavító anyag előállításához hulladékot (is) használta
 
 6.6.2. Sugár-biológiai vizsgálat: 3 x 0,5 kg mintából. (Csak az importból származó tőzeg esetében.)
 
-6.7.[^126] Amennyiben a talajjavító anyag előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
+6.7.[^130] Amennyiben a talajjavító anyag előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
 
 7. TALAJKONDICIONÁLÓ KÉSZÍTMÉNYEK
 
-7.1.[^127] Fizikai, kémiai vizsgálat 3 x 1 kg vagy liter mintából:
+7.1.[^131] Fizikai, kémiai vizsgálat 3 x 1 kg vagy liter mintából:
 
 – küllem: szín, szag, halmazállapot,
 
@@ -688,9 +688,9 @@ Amennyiben a talajjavító anyag előállításához hulladékot (is) használta
 
 7.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^128]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^132]
 
-7.3.[^129] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+7.3.[^133] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 Amennyiben a talajkondicionáló készítmény előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -708,7 +708,7 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 7.5. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-7.6.[^130] Amennyiben a talajkondicionáló készítmény előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
+7.6.[^134] Amennyiben a talajkondicionáló készítmény előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
 
 8. MIKROBIOLÓGIAI KÉSZÍTMÉNYEK
 
@@ -726,9 +726,9 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 8.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^131]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^135]
 
-8.3.[^132] Mikrobiológiai minősítés 3 x 1 kg vagy liter mintából, illetve a vizsgáló laboratóriummal előzetesen egyeztetetett mennyiségből.
+8.3.[^136] Mikrobiológiai minősítés 3 x 1 kg vagy liter mintából, illetve a vizsgáló laboratóriummal előzetesen egyeztetetett mennyiségből.
 
 8.3.1. mikroorganizmusok számszerű meghatározása,
 
@@ -754,7 +754,7 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 8.6. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-8.6.1.[^133] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
+8.6.1.[^137] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
 
 – Fekál coliform szám meghatározása,
 
@@ -768,9 +768,9 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 8.7. Géntechnológiával módosított szervezettől mentességről igazolás szükséges.
 
-8.8.[^134] A készítményt alkotó törzseket egyenként a Szent István Egyetem Kertészeti Kar törzsgyűjteményében kell elhelyezni.
+8.8.[^138] A készítményt alkotó törzseket egyenként a Szent István Egyetem Kertészeti Kar törzsgyűjteményében kell elhelyezni.
 
-8.9.[^135] A mikroorganizmusok megnevezése az alábbiak szerint:
+8.9.[^139] A mikroorganizmusok megnevezése az alábbiak szerint:
 
 8.9.1. fajnév,
 
@@ -800,9 +800,9 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 9.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^136]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^140]
 
-9.3.[^137] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+9.3.[^141] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 Amennyiben a termesztőközeg előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -822,7 +822,7 @@ Amennyiben a termesztőközeg előállításához hulladékot (is) használtak f
 
 9.6. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-9.6.1.[^138] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
+9.6.1.[^142] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
 
 – Fekál coliform szám meghatározása,
 
@@ -836,11 +836,11 @@ Amennyiben a termesztőközeg előállításához hulladékot (is) használtak f
 
 9.6.2. Sugárbiológiai vizsgálat: 3 x 0,5 kg mintából. (Csak az import tőzeget tartalmazó termesztőközegek esetében.)
 
-9.7.[^139] Amennyiben a termesztőközeg előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
+9.7.[^143] Amennyiben a termesztőközeg előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
 
 10. NÖVÉNYKONDICIONÁLÓ KÉSZÍTMÉNYEK
 
-10.1.[^140] Fizikai, kémiai vizsgálat 3 x 1 kg vagy liter mintából:
+10.1.[^144] Fizikai, kémiai vizsgálat 3 x 1 kg vagy liter mintából:
 
 – küllem: szín, szag, halmazállapot,
 
@@ -858,9 +858,9 @@ Amennyiben a termesztőközeg előállításához hulladékot (is) használtak f
 
 10.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^141]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^145]
 
-10.3.[^142] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
+10.3.[^146] Szerves szennyezők vizsgálata 3 x 1 kg vagy liter mintából
 
 Amennyiben a növénykondicionáló készítmény előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően az alábbi összetevők vizsgálata is szükséges, illetve elrendelhető:
 
@@ -878,7 +878,7 @@ Amennyiben a növénykondicionáló készítmény előállításához hulladéko
 
 10.5. Munka- és környezet-egészségügyi adatok: a készítmény veszélyességi besorolása, veszélyjelek, a kockázatokra (R) és biztonságra (S) utaló mondatok, tapasztalatok a gyártónál és a felhasználónál, helyi irritációs hatások (bőr, szem, légutak), szenzibilizáció, egyéb tünetek.
 
-10.5.1.[^143] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
+10.5.1.[^147] Higiénés mikrobiológiai vizsgálat 3 x 0,5 kg mintából:
 
 – Fekál coliform szám meghatározása,
 
@@ -890,58 +890,58 @@ Amennyiben a növénykondicionáló készítmény előállításához hulladéko
 
 – Humán parazita bélféreg peteszám meghatározása.
 
-10.6.[^144] Amennyiben a növénykondicionáló készítmény előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
+10.6.[^148] Amennyiben a növénykondicionáló készítmény előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikológiai, ökotoxikológiai és egyéb vizsgálatok is elrendelhetőek.
 
 11. EGYÉB ANYAGOK
 
 Az anyag minőségétől függően az engedélyező hatóság esetenként adja meg a szükséges vizsgálatok körét.
 
-[^96]: Az 1. számú melléklet 3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^97]: Az 1. melléklet 5. pontja a 72/2012. (VII. 24.) VM rendelet 8. §-ával megállapított szöveg.
-[^98]: Az 1. számú melléklet 7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^99]: Az 1. számú melléklet 13. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^100]: Az 1. számú melléklet 15.4. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^101]: Az 1. számú melléklet 15. pont 15.6. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^102]: Az 1. számú melléklet 15. pont 15.7. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^103]: Az 1. számú melléklet 15. pont 15.8. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^104]: Az 1. számú melléklet 15. pont 15.9. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^105]: Az 1. számú melléklet 15. pont 15.10. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^106]: Az 1. számú melléklet 15. pont 15.11. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^107]: Az 1. számú melléklet 15. pont 15.12. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^108]: Az 1. számú melléklet 15. pont 15.13. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
-[^109]: Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikus elemek vizsgálata is elrendelhető.
-[^110]: A 2. számú melléklet 1.4. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^111]: A 2. számú melléklet 1.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^112]: A 2. számú melléklet 2.1. pont hatodik franciabekezdését a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^113]: A hulladékot is tartalmazó készítményeknél.
-[^114]: A 2. számú melléklet 2.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^115]: A 2. számú melléklet 2.6.2. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^116]: A 2. számú melléklet 2.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^100]: Az 1. számú melléklet 3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^101]: Az 1. melléklet 5. pontja a 72/2012. (VII. 24.) VM rendelet 8. §-ával megállapított szöveg.
+[^102]: Az 1. számú melléklet 7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^103]: Az 1. számú melléklet 13. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^104]: Az 1. számú melléklet 15.4. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^105]: Az 1. számú melléklet 15. pont 15.6. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^106]: Az 1. számú melléklet 15. pont 15.7. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^107]: Az 1. számú melléklet 15. pont 15.8. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^108]: Az 1. számú melléklet 15. pont 15.9. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^109]: Az 1. számú melléklet 15. pont 15.10. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^110]: Az 1. számú melléklet 15. pont 15.11. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^111]: Az 1. számú melléklet 15. pont 15.12. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^112]: Az 1. számú melléklet 15. pont 15.13. alpontját a 37/2014. (XII. 17.) FM rendelet 16. § (1) bekezdése iktatta be.
+[^113]: Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikus elemek vizsgálata is elrendelhető.
+[^114]: A 2. számú melléklet 1.4. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^115]: A 2. számú melléklet 1.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^116]: A 2. számú melléklet 2.1. pont hatodik franciabekezdését a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
 [^117]: A hulladékot is tartalmazó készítményeknél.
-[^118]: A 2. számú melléklet 4.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^119]: A 2. számú melléklet 4.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^120]: A hulladékot is tartalmazó készítményeknél.
-[^121]: A 2. számú melléklet 5.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^122]: A 2. számú melléklet 5.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^123]: A 2. számú melléklet 5.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^124]: A 2. számú melléklet 6.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^125]: A 2. számú melléklet 6.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^126]: A 2. számú melléklet 6.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^127]: A 2. számú melléklet 7.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^128]: A hulladékot is tartalmazó készítményeknél.
-[^129]: A 2. számú melléklet 7.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^130]: A 2. számú melléklet 7.6. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^131]: A hulladékot is tartalmazó készítményeknél.
-[^132]: A 2. számú melléklet 8.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^133]: A 2. számú melléklet 8.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^134]: A 2. számú melléklet 8.8. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^135]: A 2. számú melléklet 8.9. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^136]: A hulladékot is tartalmazó készítményeknél.
-[^137]: A 2. számú melléklet 9.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^138]: A 2. számú melléklet 9.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^139]: A 2. számú melléklet 9.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^140]: A 2. számú melléklet 10.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^141]: A hulladékot is tartalmazó készítményeknél.
-[^142]: A 2. számú melléklet 10.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^143]: A 2. számú melléklet 10.5.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^144]: A 2. számú melléklet 10.6. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^118]: A 2. számú melléklet 2.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^119]: A 2. számú melléklet 2.6.2. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^120]: A 2. számú melléklet 2.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^121]: A hulladékot is tartalmazó készítményeknél.
+[^122]: A 2. számú melléklet 4.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^123]: A 2. számú melléklet 4.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^124]: A hulladékot is tartalmazó készítményeknél.
+[^125]: A 2. számú melléklet 5.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^126]: A 2. számú melléklet 5.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^127]: A 2. számú melléklet 5.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^128]: A 2. számú melléklet 6.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^129]: A 2. számú melléklet 6.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^130]: A 2. számú melléklet 6.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^131]: A 2. számú melléklet 7.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^132]: A hulladékot is tartalmazó készítményeknél.
+[^133]: A 2. számú melléklet 7.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^134]: A 2. számú melléklet 7.6. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^135]: A hulladékot is tartalmazó készítményeknél.
+[^136]: A 2. számú melléklet 8.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^137]: A 2. számú melléklet 8.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^138]: A 2. számú melléklet 8.8. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^139]: A 2. számú melléklet 8.9. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^140]: A hulladékot is tartalmazó készítményeknél.
+[^141]: A 2. számú melléklet 9.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^142]: A 2. számú melléklet 9.6.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^143]: A 2. számú melléklet 9.7. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^144]: A 2. számú melléklet 10.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^145]: A hulladékot is tartalmazó készítményeknél.
+[^146]: A 2. számú melléklet 10.3. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^147]: A 2. számú melléklet 10.5.1. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^148]: A 2. számú melléklet 10.6. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (2) bekezdése szerint módosított szöveg.
