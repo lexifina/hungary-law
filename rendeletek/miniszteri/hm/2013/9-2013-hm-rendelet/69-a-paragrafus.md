@@ -16,7 +16,7 @@ b) vezetői szolgálati beosztás az V. besorolási osztályba
 
 tartozik.
 
-(4)[^105] A HM, a Honvédség központi pénzügyi és számviteli, ingatlanfenntartási és üzemeltetési, logisztikai, valamint központosított igazgatási, beszerzési feladatokat ellátó szervezete munkaköri jegyzékében, továbbá a KNBSZ állománytáblájában szereplő, valamint a Honvédség rendelkezési állományának a központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti elemeihez vezényelt tagjaira vonatkozó állománytáblájában szereplő
+(4)[^105] A HM, a Honvédség központi pénzügyi és számviteli, ingatlanfenntartási és üzemeltetési, logisztikai, valamint központosított igazgatási, beszerzési feladatokat ellátó szervezete, a Honvédség hadfelszerelés-fejlesztési feladatot ellátó szervezete munkaköri jegyzékében szereplő, a KNBSZ állománytáblájában szereplő, valamint a Honvédség rendelkezési állományának a központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti elemeihez vezényelt tagjaira vonatkozó állománytáblájában szereplő
 
 a) beosztotti szolgálati beosztás a III. besorolási osztályba,
 
@@ -34,5 +34,5 @@ létrehozott szolgálati beosztás – ha azt az állomány tagja szolgálati é
 
 [^103]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be.
 [^104]: A 69/A. § (3) bekezdés nyitó szövegrésze a 18/2015. (XII. 22.) HM rendelet 22. § a) pontja szerint módosított szöveg.
-[^105]: A 69/A. § (4) bekezdése a 15/2016. (VIII. 31.) HM rendelet 2. §-ával megállapított szöveg.
+[^105]: A 69/A. § (4) bekezdése az 1/2017. (IV. 20.) HM rendelet 1. §-ával megállapított szöveg.
 [^106]: A 69/A. § (5) bekezdése a 25/2016. (XII. 22.) HM rendelet 23. §-ával megállapított szöveg.

@@ -1234,30 +1234,4 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.6.1. térképész
 
-## 6K07645N_24
-
-|  | A | B | C | D | E | F | G |
-
-| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
-
-| 3. | 15 | ezredes | PE | SZFF | FVT | K15, K20, K22, K23, K24, K26 | Pa/V, Pv/IV |
-
-| 4. | 14 | alezredes |  | Pa/IV, Pm/IV, Pv/IV |
-
-| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 6. | 12 | százados | K15, K20, K22, K26 |
-
-| 7. | 11 | főhadnagy |
-
-| 8. | 08 | törzszászlós | É | BSZF, SZKF | F8, K15, K20, K22, K23, K26 | Pa/III, Pm/III |
-
-| 9. | 07 | zászlós |
-
-| 10. | 06 | főtörzsőrmester |
-
-2.6.2. meteorológia
-
 [^273]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja, a 10/2016. (VI. 29.) HM rendelet 27. § (2) bekezdése szerint módosított szöveg.
