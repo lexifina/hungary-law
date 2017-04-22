@@ -1,0 +1,1 @@
+A nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény 14. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. és 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
