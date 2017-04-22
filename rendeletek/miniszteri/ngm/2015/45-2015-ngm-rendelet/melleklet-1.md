@@ -1,6 +1,6 @@
-## 6. §[^1]
+## 6. §[^2] E rendeletnek a Nemzeti Akkreditáló Hatóság eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 45/2015. (XII. 30.) NGM rendelet módosításáról szóló 2/2017. (III. 22.) NGM rendelettel (a továbbiakban: Módrendelet) megállapított 1. § (5) bekezdését és 1. mellékletét a Módrendelet hatálybalépésekor[^3] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 45/2015. (XII. 30.) NGM rendelethez
+1. melléklet a 45/2015. (XII. 30.) NGM rendelethez[^4]
 
 ## Akkreditálási eljárásért fizetendő igazgatási szolgáltatási díjak (Ft)
 
@@ -128,19 +128,19 @@
 
 5.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg.
 
-5.2. A terület az akkreditálás tárgyát képező tanúsítandó termékek számát jelenti, ahol egy termékcsoportba csak az azonos követelményeknek megfelelő termékek tartoznak.
+5.2. A terület az akkreditálás tárgyát képező tanúsítandó termékek vagy termékcsoportok számát jelenti, ahol egy termékcsoportba csak az azonos tanúsítási követelményeknek megfelelő termékek tartoznak.
 
 6. Irányítási rendszereket tanúsító szervezetek:
 
-6.1. Több területre alkalmazott irányítási rendszerek (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, informatikai biztonság menedzselési rendszer, AQAP rendszer stb.) esetén:
+6.1. Több területre alkalmazott irányítási rendszerek (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, élelmiszerbiztonsági irányítási rendszerek, AQAP rendszer, egyéb rendszerek) esetén:
 
-| Létszám (fő) |  |  |  |  |  |
+| Létszám (fő) | 3–5 | 6–10 | 11–15 | 16–20 | >20 |
 
-| Terület | 3–5 | 6–10 | 11–15 | 16–20 | >20 |
+| Terület |
 
 | 1–5 | 570 000 | 702 000 |  |  |  |
 
-| 6–10 | 860 000 | 1040 000 | 1 115 000 | 1 260 000 |  |
+| 6–10 | 860 000 | 1 040 000 | 1 115 000 | 1 260 000 |  |
 
 | 11–20 | 1 130 000 | 1 290 000 | 1 400 000 | 1 470 000 | 1 540 000 |
 
@@ -148,11 +148,11 @@
 
 6.1.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg, beleértve a tanúsító szervezet auditorait is.
 
-6.1.2. A terület az IAF ID 1:2014 (Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek jegyzékére vonatkozó dokumentum) mellékletében felsorolt IAF kódok számát jelenti. A területet élelmiszer-biztonsági irányítási rendszer esetén a vonatkozó ISO/TS 22003 szabvány „A” mellékletének A1 táblázatában felsorolt fő kategóriák közül, az akkreditálandó fő kategóriák számát jelenti.
+6.1.2. A terület a Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek jegyzékére vonatkozó dokumentum mellékletében felsorolt IAF kódok számát jelenti. A területet élelmiszerbiztonsági irányítási rendszer esetén a vonatkozó szabványban felsorolt fő kategóriák számát jelenti, az energiairányítási rendszereknél a vonatkozó szabványban felsorolt gazdasági területek számát jelenti.
 
-6.1.3. A terület más irányítási rendszer esetén (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, információbiztonsági irányítási rendszer, AQAP rendszer stb.) az IAF-ID 1:2014 (Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek jegyzékére vonatkozó 2014. március 24. kelt dokumentum) mellékletében felsorolt 1-39 IAF kódok közül az akkreditálandó IAF kódok számát jelenti.
+6.1.3. A terület más irányítási rendszer esetén (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, energiairányítási rendszer, AQAP rendszer, egyéb rendszerek) a Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek mellékletében felsorolt 1–39 IAF kódok közül az akkreditálandó IAF kódok számát jelenti.
 
-6.2. Egy területre alkalmazott speciális irányítási rendszerek (KES, MSZ EN ISO 13485, MSZ EN 729 stb.) esetén:
+6.2. Egy területre alkalmazott speciális irányítási rendszerek (információbiztonság-irányítási rendszerek, orvostechnikai eszközöket gyártó szervezetek minőségirányítási rendszere, Magyar Egészségügyi Ellátási Standardok) esetén:
 
 | Létszám (fő) | 3–5 | 6–10 | 11–15 | 16–20 | >20 |
 
@@ -302,4 +302,6 @@
 
 11.3. A díjat minden egyes tevékenységcsoportra és alkalmazási körre külön-külön meg kell fizetni. Azon tevékenységcsoportok száma alapján, amely alá a kérelmezett akkreditációs alkalmazási körök tartoznak, 5-5% kedvezményre jogosult a hitelesítő szervezet. Ezek a százalékos kedvezmények összeadódnak, és az így kiszámolt %-os kedvezmény az egyes tevékenységcsoporton belüli első akkreditációs alkalmazási körök díjaiból kerül levonásra. Az egyes tevékenységi csoportokon belüli további akkreditációs alkalmazási körök díja az ugyanazon csoport első tevékenységi körére vonatkozóan a fenti számításnak megfelelően meghatározott díjtétel 50%-ában határozandó meg.
 
-[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2/2017. (III. 22.) NGM rendelet 2. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2017. április 22.
+[^4]: Az 1. melléklet a 2/2017. (III. 22.) NGM rendelet 3. §-a szerint módosított szöveg.
