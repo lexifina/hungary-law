@@ -1,1 +1,0 @@
-## 1. § A külföldi szolgálatot teljesítők egyes járandóságairól szóló 18/2013. (IX. 5.) HM rendelet (a továbbiakban: R.) 17. § (1) bekezdés c) pontjában a „külön kérelem nélkül, minden év március 31-ig,” szövegrész helyébe az „a kiküldött tárgyév március 15. napjáig megtett írásbeli nyilatkozata alapján tárgyév március 31-ig vagy tárgyév szeptember 30-ig,” szöveg lép.
