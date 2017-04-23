@@ -1,3 +1,0 @@
-## 1. § A Nemzeti Akkreditáló Hatóság eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 45/2015. (XII. 30.) NGM rendelet (a továbbiakban: R.) 1. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Irányítási rendszereket tanúsító szervezet kettő vagy több rendszerre történő, egyidejű akkreditálása esetében az 1. melléklet 6.1. pontjában foglalt akkreditálási díjhoz (a továbbiakban: alapdíj) hozzáadódik minden további irányítási rendszer tanúsítás akkreditálási díjának 50%-a. Az alapdíj meghatározásakor első területként minden esetben a MIR IAF kódok számát kell figyelembe venni. Ha a kérelem nem érint MIR területet, akkor az alapdíj a több IAF kódot tartalmazó irányítási rendszer figyelembevételével kerül megállapításra.”
