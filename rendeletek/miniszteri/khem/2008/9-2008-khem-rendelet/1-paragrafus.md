@@ -1,6 +1,6 @@
 1. § (1) A vasúti igazgatási szerv vasúti közlekedési tevékenységével kapcsolatos kérelemre indult eljárásáért a kérelmező a mellékletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: díj) fizet. Ha a kérelem a mellékletben megjelölt eljárások közül többet is érint, valamennyi díjtételt meg kell fizetni.
 
-(2)[^1] A díjat a kérelem benyújtásával egyidejűleg a vasúti igazgatási szervnek a honlapján közétett számlája javára történő átutalással kell megfizetni.
+(2)[^1] A díjat a kérelem benyújtásával egyidejűleg a Nemzeti Fejlesztési Minisztérium Magyar Államkincstárnál vezetett 10032000-00290713-38100004 számú számlája javára történő átutalással kell megfizetni.
 
 (3)[^2] A kérelemhez csatolni kell az átutalás tényét igazoló, a bank által kiadott igazolást.
 
@@ -12,7 +12,7 @@
 
 (7) Ha a vasúti igazgatási szerv a melléklet 2. pontja szerinti eljárásban az eljárás alapjául szolgáló kérelem megalapozottságát állapítja meg, a díjat a kérelmezőnek visszatéríti.
 
-[^1]: Az 1. § (2) bekezdése a 66/2016. (XII. 29.) NFM rendelet 9. §-a, az 1/2017. (I. 3.) NFM rendelet 51. §-a szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdése a 66/2016. (XII. 29.) NFM rendelet 9. §-a, az 1/2017. (I. 3.) NFM rendelet 51. §-a, a 12/2017. (IV. 24.) NFM rendelet 8. §-a szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 66/2016. (XII. 29.) NFM rendelet 8. §-ával megállapított szöveg.
 [^3]: Az 1. § (4) bekezdését az 52/2012. (IX. 11.) NFM rendelet 3. §-a hatályon kívül helyezte.
 [^4]: Az 1. § (6) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 7. § a) pontja szerint módosított szöveg.
