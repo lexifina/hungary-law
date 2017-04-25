@@ -54,10 +54,13 @@ l) központi időpontfoglaló,
 
 m) elektronikus dokumentum ügyintéző általi hitelesítési lehetősége (azonosításra visszavezetve vagy egyéb megoldással),
 
-n) irat megtekintési, AVDH irathitelesítési és ügyfélkapus feltöltési szolgáltatás elérése.
+n) irat megtekintési, AVDH irathitelesítési és ügyfélkapus feltöltési szolgáltatás elérése,
+
+o)[^45] ügyfélkapu regisztrációs szolgáltatás elérése.
 
 [^40]: A 4. mellékletet a 18/2015. (III. 31.) MvM rendelet 3. § (4) bekezdése iktatta be.
 [^41]: A 4. melléklet 1. pont c) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdése hatályon kívül helyezte.
 [^42]: A 4. melléklet 1. pont d) alpontja a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^43]: A 4. melléklet 2. pont d) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdése iktatta be.
 [^44]: A 4. melléklet 4. pontja a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^45]: A 4. melléklet 4. pont o) alpontját a 13/2017. (IV. 10.) MvM rendelet 1. §-a iktatta be.
