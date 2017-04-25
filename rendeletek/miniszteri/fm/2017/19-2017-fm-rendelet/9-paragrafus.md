@@ -1,0 +1,1 @@
+## „(4) A veszélyes hulladék együttégetését végző létesítményből származó levegőterhelés nem haladhatja meg a 3. mellékletben meghatározott kibocsátási határértékeket, ha a hulladék-együttégető műben a keletkező hő több mint 40%-a származik a veszélyes hulladék égetéséből.”

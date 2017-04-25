@@ -1,0 +1,1 @@
+## „8a. kémény: az 50 MWth és annál nagyobb teljes névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló miniszteri rendelet szerinti kémény;”
