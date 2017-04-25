@@ -2,7 +2,7 @@
 
 a) a napi átlagértékek egyike sem lépi túl a 3. melléklet 1.1. pontjában, vagy a 4. mellékletben szereplő, illetve a 4. mellékletben foglalt előírás szerint számított kibocsátási határértékeket,
 
-b)[^16] a környezetvédelmi hatóság engedélyében előírtak szerint a félórás átlagértékek egyike sem lépi túl a 3. melléklet 1.2. pontjában foglalt táblázat B oszlopában megadott kibocsátási határértékeket, vagy az egy naptári év alatt mért félórás átlagértékek 97%-a nem lépi túl a 3. melléklet 1.2. pontjában foglalt táblázat C oszlopában megadott kibocsátási határértékeket,
+b)[^23] a környezetvédelmi hatóság engedélyében előírtak szerint a félórás átlagértékek egyike sem lépi túl a 3. melléklet 1.2. pontjában foglalt táblázat B oszlopában megadott kibocsátási határértékeket, vagy az egy naptári év alatt mért félórás átlagértékek 97%-a nem lépi túl a 3. melléklet 1.2. pontjában foglalt táblázat C oszlopában megadott kibocsátási határértékeket,
 
 c) a nehézfémek, a dioxinok és furánok mintavételi időszak alatt mért átlagértékeinek egyike sem lépi túl a 3. melléklet 1.3. és 1.4. pontjaiban, illetve a 4. mellékletben megadott, vagy a 4. mellékletben foglalt előírás szerint számított kibocsátási határértékeket,
 
@@ -22,4 +22,4 @@ e) a hulladék-együttégető művek esetében teljesülnek a 4. mellékletben f
 
 (5) A mintavételi időszak alatti átlagértékeket és a HF, HCl és SO2 időszakos mérések során kapott átlagértékeket a 7. § (1) bekezdés e) pontjában, a 14. § (3) bekezdésében, valamint a 2. mellékletben foglalt követelményekkel összhangban kell meghatározni.
 
-[^16]: A 19. § (1) bekezdés b) pontja a 15/2015. (III. 31.) FM rendelet 36. § n) pontja szerint módosított szöveg.
+[^23]: A 19. § (1) bekezdés b) pontja a 15/2015. (III. 31.) FM rendelet 36. § n) pontja szerint módosított szöveg.

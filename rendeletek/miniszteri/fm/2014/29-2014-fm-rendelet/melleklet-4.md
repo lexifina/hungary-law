@@ -1,4 +1,4 @@
-4. melléklet a 29/2014. (XI. 28.) FM rendelethez[^25]
+4. melléklet a 29/2014. (XI. 28.) FM rendelethez[^33]
 
 ## Légszennyező anyagok kibocsátási határértékei hulladék hulladék-együttégető művek esetében
 
@@ -170,7 +170,7 @@ A szén-monoxidra vonatkozó kibocsátási határértéket a környezetvédelmi 
 
 | 4. | Szilárd anyag | 50 | 30 | 25 | 20 |
 
-3.6 A gázturbinák és gázmotorok kivételével a hulladék együttégetését végző tüzelőberendezések kibocsátásaira vonatkozó Ctechn. napi átlagértékek mg/Nm3-ben kifejezve, ha a hulladék együttégetést végző tüzelőberendezést tartalmazó létesítményt 2013. január 13-án vagy azt követően engedélyezték vagy a létesítmény üzemeltetője 2013. január 13-án, vagy azt követően nyújtott be teljes engedélykérelmet és a berendezést 2014. január 7. után helyezték üzembe.
+3.6 A gázturbinák és gázmotorok kivételével a hulladék együttégetését végző tüzelőberendezések kibocsátásaira vonatkozó Ctechn. napi átlagértékek mg/Nm3-ben kifejezve, ha a hulladék együttégetést végző tüzelőberendezést tartalmazó létesítményt 2013. január 7-én vagy azt követően engedélyezték vagy a létesítmény üzemeltetője 2013. január 7-én, vagy azt követően nyújtott be teljes engedélykérelmet és a berendezést 2014. január 7. után helyezték üzembe.
 
 3.6.1 A biomasszától eltérő szilárd tüzelőanyagot használó tüzelőberendezésekre vonatkozó Ctechn. értékek, 6% -os vonatkoztatási oxigén tartalom mellett:
 
@@ -262,4 +262,4 @@ A szén-monoxidra vonatkozó kibocsátási határértéket a környezetvédelmi 
 
 | 3. | Hg | 0,05 |
 
-[^25]: A 4. melléklet a 15/2015. (III. 31.) FM rendelet 36. § v) pontja szerint módosított szöveg.
+[^33]: A 4. melléklet a 15/2015. (III. 31.) FM rendelet 36. § v) pontja, a 19/2017. (IV. 24.) FM rendelet 10. § c) pontja szerint módosított szöveg.
