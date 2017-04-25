@@ -890,7 +890,7 @@
 
 ## 7.5.1.[^337] Általános előírások
 
-## Forgalmi vizsga a közlekedési hatóság által kijelölt vizsgaútvonalon tartható. A vizsgaútvonal magában foglalja a vizsga kiindulási helyét és az útvonal főbb csomópontjait is. A kijelölt vizsgaútvonalak jegyzékét a közlekedési hatóság a honlapján teszi közzé.
+## Forgalmi vizsga a közlekedési hatóság által kijelölt vizsgaútvonalon tartható. A vizsgaútvonal magában foglalja a vizsga kiindulási helyét és az útvonal főbb csomópontjait is. A kijelölt vizsgaútvonalak jegyzékét a közlekedésért felelős miniszter által vezetett minisztérium honlapján teszi közzé.
 
 ## 7.5.1.1.[^338] A forgalmi vizsgaútvonal követelményei:
 
@@ -1595,7 +1595,7 @@ f) állampolgárság,
 [^334]: A közúti járművek forgalomba helyezésének és tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
 [^335]: A 8. melléklet 7. pont 7.4.4.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
 [^336]: A 8. melléklet 7. pont 7.4.4.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^337]: A 8. melléklet 7. pont 7.5.1. alpontja 45/2013. (VIII. 7.) NFM rendelet 19. § (7) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^337]: A 8. melléklet 7. pont 7.5.1. alpontja 45/2013. (VIII. 7.) NFM rendelet 19. § (7) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés c) pontja, a 12/2017. (IV. 24.) NFM rendelet 7. §-a szerint módosított szöveg.
 [^338]: A 8. melléklet 7. pont 7.5.1.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 19. § (7) bekezdése, a 14/2015. (III. 31.) NFM rendelet 10. § v) pontja szerint módosított szöveg.
 [^339]: A 8. melléklet 7. pont 7.5.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított, a 14/2015. (III. 31.) NFM rendelet 10. § t) pontja szerint módosított szöveg.
 [^340]: A 8. melléklet 7. pont 7.5.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 19. § (7) bekezdése szerint módosított szöveg.
