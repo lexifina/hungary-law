@@ -1,10 +1,12 @@
+## kell megfelelően alkalmazni, azzal, hogy ahol az Itv. illetéket említ, azon e rendelet tekintetében díjat kell érteni.
+
 5. § (1) Ez a rendelet 2010. január 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) Hatályát veszti a közúti járművezetői vizsga és az egyes közúti közlekedési szakképesítésekkel összefüggő vizsgák díjairól szóló 34/1998. (XII. 23.) KHVM rendelet.
 
-(3)[^8] E rendeletnek a közúti járművezetők és a közúti közlekedési szakemberek képzésével, továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjakról szóló 84/2009. (XII. 30.) KHEM rendelet módosításáról szóló 46/2013. (VIII. 7.) NFM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépését[^9] követően kezdeményezett hatósági eljárásokban és vizsgajelentések esetében kell alkalmazni.
+(3)[^9] E rendeletnek a közúti járművezetők és a közúti közlekedési szakemberek képzésével, továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjakról szóló 84/2009. (XII. 30.) KHEM rendelet módosításáról szóló 46/2013. (VIII. 7.) NFM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépését[^10] követően kezdeményezett hatósági eljárásokban és vizsgajelentések esetében kell alkalmazni.
 
-Melléklet a 84/2009. (XII. 30.) KHEM rendelethez[^10]
+Melléklet a 84/2009. (XII. 30.) KHEM rendelethez[^11]
 
 A közúti járművezetők és a közúti közlekedési szakemberek képzésével továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjak
 
@@ -66,6 +68,6 @@ Ft
 
 |  | 20. A közúti járművezetők utánképzéséről szóló 139/1991 (X. 29.) Korm. rendelet 6. számú mellékletében hivatkozott utánképzés díjául alapul vehető közúti járművezetői pótvizsgadíj | 1 150 |
 
-[^8]: Az 5. § (3) bekezdését a 46/2013. (VIII. 7.) NFM rendelet 4. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2013. augusztus 12.
-[^10]: A melléklet a 46/2013. (VIII. 7.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^9]: Az 5. § (3) bekezdését a 46/2013. (VIII. 7.) NFM rendelet 4. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2013. augusztus 12.
+[^11]: A melléklet a 46/2013. (VIII. 7.) NFM rendelet 5. §-a szerint módosított szöveg.
