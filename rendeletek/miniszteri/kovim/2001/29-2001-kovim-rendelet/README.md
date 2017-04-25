@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-29-20-9
 | 2015-06-08 | 2001-29-20-93.12 | 27/2012. (V. 25.) NFM rendelet |
 | 2017-01-01 | 2001-29-20-93.13 | 27/2012. (V. 25.) NFM rendelet |
 | 2017-01-03 | 2001-29-20-93.14 | 97/2006. (XII. 28.) GKM rendelet |
+| 2017-04-25 | 2001-29-20-93.15 | 97/2006. (XII. 28.) GKM rendelet |

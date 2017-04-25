@@ -1,4 +1,4 @@
-## 4K11093O_0
+## Hajózási képesítő vizsgák vizsgadíjai
 
 |  | A | B |
 

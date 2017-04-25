@@ -8,6 +8,4 @@ c) az úszólétesítmények személyzetének képesítésével kapcsolatos elj�
 
 d)[^1]
 
-megállapított hatósági eljárási díjat (a továbbiakban: díj) kell fizetni.
-
 [^1]: Az 1. § d) pontját a 33/2014. (VII. 15.) NFM rendelet 3. § a) pontja hatályon kívül helyezte.
