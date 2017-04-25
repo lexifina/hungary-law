@@ -14,7 +14,7 @@
 
 6. illékony szerves vegyület: olyan szerves vegyület vagy kreozot frakció, amelynek gőznyomása 293,15 K-on 0,01 kPa vagy annál nagyobb érték, vagy 293,15 K-től eltérő hőmérsékleten történő felhasználás esetén ennek megfelelő illékonyságú;
 
-7. indítási és leállítási művelet: a szakaszosan váltakozó tevékenységi fázisok kivételével olyan üzemeltetés, amelynek során egy készüléket vagy egy tartályt üzemkész állapotba vagy üresjáratba helyeznek;
+7.[^1] indítási és leállási művelet: a szakaszosan változó tevékenységi fázisok kivételével olyan üzemeltetés, amelynek során egy tevékenységet üzemszerű működésbe hoznak vagy megszüntetnek, illetve egy készüléket vagy tartályt üzemkésszé tesznek vagy üresjáratba helyeznek;
 
 8. keverék: két vagy több anyagot tartalmazó elegy vagy oldat;
 
@@ -58,8 +58,13 @@ h) konzerválószerként;
 
 20. tinta vagy nyomdafesték: bármely olyan szerves oldószer vagy a megfelelő használhatóság érdekében szerves oldószert tartalmazó keverék, amelyet szöveg vagy képek felületre történő nyomtatására használnak;
 
+20a.[^2] véggáz kibocsátás: helyhez kötött légszennyező pontforráson vagy szennyezőanyag csökkentő berendezésen át a levegőbe gázhalmazállapotban kibocsátott illékony szerves vegyület vagy más szennyező anyag kibocsátása;
+
 21. VOC véggáz kibocsátás: helyhez kötött légszennyező pontforráson vagy szennyezőanyag csökkentő berendezésen át a levegőbe gázhalmazállapotban kibocsátott illékony szerves vegyület;
 
 22. VOC diffúz kibocsátás: bármely illékony szerves vegyület vagy termékben lévő szerves oldószer nem VOC véggáz kibocsátás formájában történő kibocsátása a levegőbe, a talajba és a vízbe, kivéve, ha a 2. melléklet eltérően rendelkezik;
 
 23. zárt körülmény: a létesítmény olyan üzemeltetési körülményei, amelyek között a tevékenységből származó illékony szerves vegyületeket összegyűjtik, és szabályozott módon vezetik ki légszennyező pontforráson vagy szennyezés-csökkentő berendezésen keresztül.
+
+[^1]: A 2. § 7. pontja a 19/2017. (IV. 24.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 20a. pontját a 19/2017. (IV. 24.) FM rendelet 3. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-1. melléklet a 26/2014. (III. 25.) VM rendelethez
+1. melléklet a 26/2014. (III. 25.) VM rendelethez[^10]
 
 ## E rendelet hatálya alá tartozó tevékenységek
 
@@ -14,11 +14,23 @@ a) tekercses offszet nyomás, forró levegős szárítással: rotációs hengerb
 
 b) rotációs mélynyomás sajtótermékek készítésére: magazinok, prospektusok, katalógusok vagy hasonló termékek papírjának nyomtatásánál alkalmazott olyan nyomtatási eljárás, amelyhez leggyakrabban toluol-alapú festéket használnak (2. melléklet 1. pontjában foglalt táblázat 2. pontja);
 
-c) rotációs mélynyomás: olyan nyomtatási eljárás, amely során forgó hengeres képhordozót használnak, amelynek a nyomtató felülete mélyebben helyezkedik el a nem-nyomtatandó részeknél, a mélyedések pedig nyomdafestékkel vannak töltve; folyékony nyomdafestéket alkalmaznak, amely az oldószer párolgása útján szárad (2. melléklet 1. pontjában foglalt táblázat 3. pontja);
+c) rotációs mélynyomás: olyan nyomtatási eljárás, amely során
+
+ca) forgó hengeres képhordozót használnak, amelynek a nyomtató felülete mélyebben helyezkedik el a nem-nyomtatandó részeknél;
+
+cb) folyékony nyomdafestéket alkalmaznak, amely az oldószer párolgása útján szárad; és
+
+cc) a mélyedések nyomdafestékkel vannak töltve, és a felesleget letisztítják a nem nyomtató felületrészekről, mielőtt a nyomtatandó anyag kapcsolatba kerülne a hengerekkel és felvenné a nyomdafestéket a mélyedésből (2. melléklet 1. pontjában foglalt táblázat 3. pontja);
 
 d) flexográfia (magasnyomás): olyan nyomtatási tevékenység, amelynél a nyomtatandó kép hordozójaként gumit vagy elasztikus fotopolimereket használnak, ahol a nyomtatandó felület magasabban helyezkedik el a nem nyomtatandó résznél, és ahol folyékony nyomdafestéket (tintát) alkalmaznak, amely az oldószer elpárolgása által szárad (2. melléklet 1. pontjában foglalt táblázat 3. pontja);
 
-e) rotációs szitanyomás: olyan nyomtatási tevékenység, amely során a nyomdafesték a nyomtatandó felületre egy porózus képhordozó formán keresztülnyomva jut, folyékony festéket használnak, amelyet elpárologtatással szárítanak ki (2. melléklet 1. pontjában foglalt táblázat 3. pontja);
+e) rotációs szitanyomás: olyan rotációs nyomtatási tevékenység, amely során
+
+ea) a nyomdafesték a nyomtatandó felületre egy porózus képhordozó formán keresztülnyomva jut, amelynek a nyomtatandó részei nyitottak (áteresztik a festéket), míg a nem nyomtatandó területrész le van zárva (nem engedi át a festéket);
+
+eb) csak olyan folyékony festéket használnak, amelyet elpárologtatással szárítanak ki; és
+
+ec) a rotációs nyomtatás azt jelenti, hogy a nyomtatandó anyag egy hengerről és nem külön ívenként kerül a gépbe (2. melléklet 1. pontjában foglalt táblázat 3. pontja);
 
 f) nyomtatási tevékenységgel kapcsolatos kasírozás: két vagy több rugalmas anyag összeragasztása rétegelt lemez készítése céljából (2. melléklet 1. pontjában foglalt táblázat 3. pontja);
 
@@ -105,3 +117,5 @@ Minden olyan tevékenység, amely során magokból és más növényi anyagokbó
 2.15. Gyógyszerészeti termékek gyártása (2. melléklet 1. pontjában foglalt táblázat 20. pontja)
 
 Gyógyszerészeti termékek kémiai szintézise, fermentálása, extrahálása, formulálása és késztermékké alakítása, és ha ugyanazon a telephelyen végzik, a közbenső (intermedier) termékek gyártása.
+
+[^10]: Az 1. melléklet a 19/2017. (IV. 24.) FM rendelet 5. § a) pontja szerint módosított szöveg.

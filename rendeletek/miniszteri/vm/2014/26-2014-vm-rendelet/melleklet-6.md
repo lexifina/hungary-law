@@ -1,4 +1,4 @@
-6. melléklet a 26/2014. (III. 25.) VM rendelethez[^8]
+6. melléklet a 26/2014. (III. 25.) VM rendelethez[^13]
 
 ## Figyelmeztető mondatok és azok jelentése
 
@@ -16,4 +16,4 @@
 
 7. H360F = károsíthatja a termékenységet.
 
-[^8]: A 6. melléklet a 18. § (2) bekezdésével megállapított szöveg.
+[^13]: A 6. melléklet a 18. § (2) bekezdésével megállapított szöveg.
