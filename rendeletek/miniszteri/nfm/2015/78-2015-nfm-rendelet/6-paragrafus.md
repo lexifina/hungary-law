@@ -8,7 +8,7 @@ a) a bányatelek jogosítottja január 20-ig,
 
 b) a földgáztárolói, -szállítói és elosztói, PB-gáz forgalmazói engedélyes, a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző, a bányászati hulladék kezelője, a szén-dioxid-tárolóhely üzemeltetője és a szén-dioxid-szállítóhálózat üzemeltetője június 20-ig
 
-fizeti meg.
+## fizeti meg.
 
 (3) A (2) bekezdés b) pontjában meghatározott engedélyes a felügyeleti díj megfizetésével egyidejűleg a 4. melléklet szerinti elszámolási adatlapot is megküldi az MBFH részére.
 

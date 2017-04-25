@@ -1,10 +1,12 @@
+## A kormányhivatal eljárásaiért fizetendő igazgatási szolgáltatási díjak befizetéséhez kapcsolódó számlaszámok
+
 |  | A | B |
 
 | 1. | Fővárosi és megyei kormányhivatal | Számlaszám |
 
 | 2. | Baranya Megyei Kormányhivatal | 10024003-00335931-00000000 |
 
-| 3. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00299561-00000000 |
+| 3. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00335948-00000000 |
 
 | 4. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00335704-00000000 |
 
