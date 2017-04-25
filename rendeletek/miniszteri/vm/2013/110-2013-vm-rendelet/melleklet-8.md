@@ -1,8 +1,8 @@
-8. melléklet a 110/2013. (XII. 4.) VM rendelethez[^42]
+8. melléklet a 110/2013. (XII. 4.) VM rendelethez[^46]
 
 ## A folyamatos kibocsátásmérés eredményeinek értékelése
 
-1. Az 1. és 2. mellékletben meghatározott kibocsátási határértékek betartása akkor tekintendő igazoltnak, ha
+1. Az 1. és 2. mellékletben meghatározott kibocsátási határértékek betartása akkor tekintendő igazoltnak, ha egy naptári éven belül
 
 1.1. egyetlen érvényesített havi átlagérték sem haladja meg az 1. vagy a 2. mellékletben foglalt vonatkozó kibocsátási határértékeket,
 
@@ -34,4 +34,4 @@ A 95%-os konfidencia-intervallum az a határértéknek megfelelő mértékegysé
 
 6. Az átlagos kibocsátási határértékek kiszámításakor nem kell figyelembe venni a 9. § (1) és (2) bekezdésében, valamint a 16. §-ban foglalt időszakok alatt, valamint az indítási és a leállítási időszakban végzett méréseket.
 
-[^42]: A 8. melléklet a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
+[^46]: A 8. melléklet a 15/2015. (III. 31.) FM rendelet 34. § b) pontja, a 19/2017. (IV. 24.) FM rendelet 2. § (1) bekezdés e) pontja szerint módosított szöveg.

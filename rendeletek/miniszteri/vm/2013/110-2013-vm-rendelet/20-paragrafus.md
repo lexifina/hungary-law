@@ -2,9 +2,9 @@
 
 (2) A szén- vagy lignittüzelésű tüzelőberendezés esetében évente legalább egy alkalommal mérni kell a füstgázzal kibocsátott higany összmennyiségét.
 
-(3)[^27] A környezetvédelmi hatóság az (1) bekezdésben meghatározott kén-dioxid, a nitrogén-oxidok mérése helyett más eljárást, így különösen számítást is engedélyezhet abban az esetben, ha az ilyen eljárás érvényes szabványokon alapul és a mérésekkel tudományos szempontból egyenértékű adatokat eredményez.
+(3)[^31] A környezetvédelmi hatóság az (1) bekezdésben meghatározott kén-dioxid, a nitrogén-oxidok mérése helyett más eljárást, így különösen számítást is engedélyezhet abban az esetben, ha az ilyen eljárás érvényes szabványokon alapul és a mérésekkel tudományos szempontból egyenértékű adatokat eredményez.
 
-(4)[^28] A kén-dioxid, nitrogén-oxidok, szilárd anyag és szén-monoxid szennyezőanyagoktól eltérő, a környezetvédelmi hatóság által előírt további szennyezőanyagok mérését az általa meghatározott rendszerességgel és módszerrel kell végezni.
+(4)[^32] A kén-dioxid, nitrogén-oxidok, szilárd anyag és szén-monoxid szennyezőanyagoktól eltérő, a környezetvédelmi hatóság által előírt további szennyezőanyagok mérését az általa meghatározott rendszerességgel és módszerrel kell végezni.
 
-[^27]: A 20. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
-[^28]: A 20. § (4) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
+[^31]: A 20. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
+[^32]: A 20. § (4) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.

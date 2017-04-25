@@ -44,12 +44,15 @@ e) fahulladék, kivéve a fakonzerváló-szerekkel vagy bevonatokkal történő 
 
 16. II. kategóriájú tüzelőberendezés: az az I. kategóriába nem tartozó tüzelőberendezés, amely 2002. november 27. előtt kapott először létesítési engedélyt, vagy a tüzelőberendezés üzemeltetője ezen időpontot megelőzően nyújtott be teljes engedélykérelmet, és a tüzelőberendezést 2003. november 27-ig üzembe helyezték;
 
-17. III. kategóriájú tüzelőberendezés: az az I. vagy II. kategóriába nem tartozó tüzelőberendezés, amely 2013. január 13. előtt kapott először létesítési engedélyt, vagy a tüzelőberendezés üzemeltetője ezen időpontot megelőzően nyújtott be teljes engedélykérelmet, és a tüzelőberendezést 2014. január 7-ig üzembe helyezték;
+17.[^1] III. kategóriájú tüzelőberendezés: az az I. vagy II. kategóriába nem tartozó tüzelőberendezés, amely 2013. január 7. előtt kapott először létesítési engedélyt, vagy a tüzelőberendezés üzemeltetője ezen időpontot megelőzően nyújtott be teljes engedélykérelmet, és a tüzelőberendezést 2014. január 7-ig üzembe helyezték;
 
-18. IV. kategóriájú tüzelőberendezés: az a tüzelőberendezés, amely nem tartozik az I., II. vagy III. kategóriába és 2013. január 13-tól kapott először létesítési engedélyt;
+18.[^2] IV. kategóriájú tüzelőberendezés: az a tüzelőberendezés, amely nem tartozik az I., II. vagy III. kategóriába és 2013. január 7-től kapott először létesítési engedélyt;
 
 19. üzemóra: órákban kifejezett azon időtartam, ide nem értve a tüzelőberendezés beindítási és a leállítási időszakát, amelynek során a tüzelőberendezés egésze vagy egy része üzemel, és füstgázt bocsát ki a levegőbe;
 
 20. vegyes tüzelésű berendezés: olyan tüzelőberendezés, amely egyidejűleg vagy felváltva, két- vagy többfajta tüzelőanyaggal üzemeltethető.
 
 (2) E rendeletben a levegő védelméről szóló kormányrendelet és a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet értelmező rendelkezései is alkalmazandóak.
+
+[^1]: A 2. § (1) bekezdés 17. pontja a 19/2017. (IV. 24.) FM rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 18. pontja a 19/2017. (IV. 24.) FM rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.

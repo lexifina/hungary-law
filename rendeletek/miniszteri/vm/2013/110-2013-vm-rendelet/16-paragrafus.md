@@ -10,11 +10,11 @@ b) a tüzelőberendezés terhelését oly mértékben kell csökkenteni, hogy a 
 
 c) a tüzelőberendezést le kell állítani.
 
-(3)[^17] A tüzelőberendezés üzemeltetője a határérték-túllépést az üzemzavar bekövetkezését követő nyolc órán belül a környezetvédelmi hatóságnak bejelenti. Az üzemzavar bekövetkezésének okát, valamint a megtett intézkedéseket tartalmazó jelentést az üzemzavar bekövetkezésétől számított 48 órán belül meg kell küldeni a környezetvédelmi hatóságnak.
+(3)[^20] A tüzelőberendezés üzemeltetője a határérték-túllépést az üzemzavar bekövetkezését követő nyolc órán belül a környezetvédelmi hatóságnak bejelenti. Az üzemzavar bekövetkezésének okát, valamint a megtett intézkedéseket tartalmazó jelentést az üzemzavar bekövetkezésétől számított 48 órán belül meg kell küldeni a környezetvédelmi hatóságnak.
 
 (4) Az üzemzavar összesített időtartama 12 hónapos időszakban nem haladhatja meg a 120 órát.
 
-(5)[^18] A környezetvédelmi hatóság kérelemre naptári évenként legfeljebb 720 óra időtartamra engedélyezi az eltérést a (4) bekezdés szerinti korlátozás alól, ha
+(5)[^21] A környezetvédelmi hatóság kérelemre naptári évenként legfeljebb 720 óra időtartamra engedélyezi az eltérést a (4) bekezdés szerinti korlátozás alól, ha
 
 a) az energiaellátás fenntartása – beleértve a hőszolgáltatást is – más módon nem biztosítható, vagy
 
@@ -22,5 +22,5 @@ b) a meghibásodott tüzelőberendezést korlátozott időre olyan másik tüzel
 
 (6) Az (1) és (2), valamint a (4) és (5) bekezdés szerinti előírásokat a tüzelőberendezés egységes környezethasználati engedélyében fel kell tüntetni.
 
-[^17]: A 16. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § e) pontja szerint módosított szöveg.
-[^18]: A 16. § (5) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
+[^20]: A 16. § (3) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § e) pontja szerint módosított szöveg.
+[^21]: A 16. § (5) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
