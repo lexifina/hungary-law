@@ -16,6 +16,6 @@
 
 | 2.4. | Ellenőrző kártya kiadása, cseréje, pótlása | 3 500 Ft |
 
-2. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^21]
+2. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^23]
 
-[^21]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének j) pontja hatályon kívül helyezte.
+[^23]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének j) pontja hatályon kívül helyezte.
