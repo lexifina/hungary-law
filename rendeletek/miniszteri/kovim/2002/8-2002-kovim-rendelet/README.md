@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-8-20-93
 | 2007-01-01 | 2002-8-20-93.5 | 8/2002. (I. 30.) KöViM rendelet |
 | 2014-07-01 | 2002-8-20-93.6 | 25/2014. (IV. 30.) NFM rendelet |
 | 2017-01-03 | 2002-8-20-93.7 | 1/2017. (I. 3.) NFM rendelet |
+| 2017-04-25 | 2002-8-20-93.8 | 1/2017. (I. 3.) NFM rendelet |
