@@ -1,1 +1,0 @@
-## „20a. véggáz kibocsátás: helyhez kötött légszennyező pontforráson vagy szennyezőanyag csökkentő berendezésen át a levegőbe gázhalmazállapotban kibocsátott illékony szerves vegyület vagy más szennyező anyag kibocsátása;”
