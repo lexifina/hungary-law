@@ -1,6 +1,6 @@
 ## A járművek tengelyterhelésére vonatkozó üzemeltetési műszaki feltételek
 
-7. § (1)[^48] A jármű tengelyterhelése fúvott gumiabronccsal felszerelt jármű esetében – kivéve a (7) bekezdésben meghatározott esetet –
+7. § (1)[^51] A jármű tengelyterhelése fúvott gumiabronccsal felszerelt jármű esetében – kivéve a (7) bekezdésben meghatározott esetet –
 
 a) nem hajtott tengelynél a 10,0 tonnát,
 
@@ -18,9 +18,9 @@ tengelyénél a 13,0 tonnát
 
 nem haladhatja meg.
 
-(2)[^49] Ha a két tengelyből álló tengelycsoportnál a szomszédos tengelyek egymástól mért távolsága (d)
+(2)[^52] Ha a két tengelyből álló tengelycsoportnál a szomszédos tengelyek egymástól mért távolsága (d)
 
-a)[^50] 1,00 méternél kisebb (d < 1,00 m), tengelycsoport együttes megengedett legnagyobb tengelyterhelése
+a)[^53] 1,00 méternél kisebb (d < 1,00 m), tengelycsoport együttes megengedett legnagyobb tengelyterhelése
 
 aa) pótkocsi – kivéve az acc) alpontban meghatározott pótkocsi –, továbbá a félpótkocsi esetében 11,0 tonna,
 
@@ -44,7 +44,7 @@ ca) nem útkímélő tengelycsoport esetében 18,0 tonna,
 
 cb) útkímélő tengelycsoport esetében 19,0 tonna,
 
-cc)[^51] alacsonynyomású mezőgazdasági gumiabronccsal felszerelt
+cc)[^54] alacsonynyomású mezőgazdasági gumiabronccsal felszerelt
 
 mezőgazdasági vontató,
 
@@ -54,15 +54,15 @@ mezőgazdasági pótkocsi
 
 esetében 22,0 tonna.
 
-(3)[^52] Ha a három tengelyből álló tengelycsoportnál a szomszédos tengelyek egymástól mért távolsága (d)
+(3)[^55] Ha a három tengelyből álló tengelycsoportnál a szomszédos tengelyek egymástól mért távolsága (d)
 
-a)[^53] legfeljebb 1,30 méter (d ≤ 1,30 m), az ilyen tengelycsoport együttes megengedett legnagyobb tengelyterhelése
+a)[^56] legfeljebb 1,30 méter (d ≤ 1,30 m), az ilyen tengelycsoport együttes megengedett legnagyobb tengelyterhelése
 
 aa) pótkocsi és félpótkocsi esetében 21,0 tonna,
 
 ab) gépjármű esetében 22,0 tonna,
 
-b)[^54] 1,30 méternél nagyobb (1,30 m < d), az ilyen tengelycsoport együttes megengedett legnagyobb tengelyterhelése
+b)[^57] 1,30 méternél nagyobb (1,30 m < d), az ilyen tengelycsoport együttes megengedett legnagyobb tengelyterhelése
 
 ba) alacsonynyomású mezőgazdasági gumiabronccsal felszerelt
 
@@ -76,32 +76,32 @@ esetében 32,0 tonna,
 
 bb) gépjármű, pótkocsi és félpótkocsi – kivéve a ba) pont – esetében 24,0 tonna.
 
-c)[^55] 1,30 méternél nagyobb (1,30 m<d), az ilyen tengelycsoport együttes megengedett legnagyobb tengelyterhelése alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági vontatóból vagy lassú járműből és alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági pótkocsiból álló járműszerelvény esetében 32,0 tonna.
+c)[^58] 1,30 méternél nagyobb (1,30 m<d), az ilyen tengelycsoport együttes megengedett legnagyobb tengelyterhelése alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági vontatóból vagy lassú járműből és alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági pótkocsiból álló járműszerelvény esetében 32,0 tonna.
 
-(4)[^56] Tengelycsoportban lévő tengelynek azt a tengelyt kell tekinteni, amelynek távolsága a szomszédos tengelytől kisebb 1,80 méternél (d < 1,80 m).
+(4)[^59] Tengelycsoportban lévő tengelynek azt a tengelyt kell tekinteni, amelynek távolsága a szomszédos tengelytől kisebb 1,80 méternél (d < 1,80 m).
 
-(5)[^57] Ha a jármű jobb és bal oldali kerekei nincsenek egy tengelyvonalban, de az eltérés nem haladja meg a 0,50 métert, ezeket a kerekeket — a megengedett legnagyobb tengelyterhelés szempontjából — egy tengelyen lévőknek kell tekinteni.
+(5)[^60] Ha a jármű jobb és bal oldali kerekei nincsenek egy tengelyvonalban, de az eltérés nem haladja meg a 0,50 métert, ezeket a kerekeket — a megengedett legnagyobb tengelyterhelés szempontjából — egy tengelyen lévőknek kell tekinteni.
 
-(6)[^58] Azok a jármű egy oldalán lévő kerekek, amelyeknek tengelyvonalai egymástól 1,00 méternél kisebb távolságra helyezkednek el, a tengelyterhelés szempontjából egy keréknek minősülnek.
+(6)[^61] Azok a jármű egy oldalán lévő kerekek, amelyeknek tengelyvonalai egymástól 1,00 méternél kisebb távolságra helyezkednek el, a tengelyterhelés szempontjából egy keréknek minősülnek.
 
-(7)[^59] Azoknál a járműveknél, amelyeknél egy tengelyvonalban:
+(7)[^62] Azoknál a járműveknél, amelyeknél egy tengelyvonalban:
 
 a) két független kerékfelfüggesztésen együttesen négy vagy több kerék, illetve kerékpár van és ezek középsíkjainak tengelyirányban mért egymástól való távolsága legalább 0,65 méter,
 
 b) három vagy több független felfüggesztésű kerék vagy kerékcsoport van az (1) és (2) bekezdésben meghatározott megengedett legnagyobb tengelyterhelés 20%-kal túlléphető.
 
-(8)[^60] A fúvott gumiabronccsal fel nem szerelt kerekű jármű megengedett legnagyobb tengelyterhelése — a lánctalpas járművet kivéve — 6 tonna.
+(8)[^63] A fúvott gumiabronccsal fel nem szerelt kerekű jármű megengedett legnagyobb tengelyterhelése — a lánctalpas járművet kivéve — 6 tonna.
 
-[^48]: A 7. § (1) bekezdése a 63/2011. (XI. 29.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^49]: A 7. § (2) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^50]: A 7. § (2) bekezdés a) pontja a 63/2011. (XI. 29.) NFM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 31/2014. (VI. 27.) NFM rendelet 7. § a) pontja szerint módosított szöveg.
-[^51]: A 7. § (2) bekezdés c) pont cc) alpontját a 26/2010. (XII. 22.) NFM rendelet 4. § (2) bekezdése iktatta be, szövege a 63/2011. (XI. 29.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^52]: A 7. § (3) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^53]: A 7. § (3) bekezdés a) pontja a 44/2014. (X. 31.) NFM rendelet 4. §-ával megállapított szöveg.
-[^54]: A 7. § (3) bekezdés b) pontja a 44/2014. (X. 31.) NFM rendelet 4. §-ával megállapított szöveg.
-[^55]: A 7. § (3) bekezdés c) pontját a 26/2010. (XII. 22.) NFM rendelet 4. § (3) bekezdése iktatta be.
-[^56]: A 7. § új (4) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4)–(7) bekezdés számozását (5)–(8) bekezdésre változtatva.
-[^57]: A 7. § eredeti (4) bekezdésének számozását (5) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése.
-[^58]: A 7. § eredeti (5) bekezdésének számozását (6) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése.
-[^59]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése. A 7. § (7) bekezdés nyitó szövegrésze a 31/2014. (VI. 27.) NFM rendelet 6. §-a szerint módosított szöveg.
-[^60]: A 7. § eredeti (7) bekezdésének számozását (8) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése.
+[^51]: A 7. § (1) bekezdése a 63/2011. (XI. 29.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^52]: A 7. § (2) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^53]: A 7. § (2) bekezdés a) pontja a 63/2011. (XI. 29.) NFM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 31/2014. (VI. 27.) NFM rendelet 7. § a) pontja szerint módosított szöveg.
+[^54]: A 7. § (2) bekezdés c) pont cc) alpontját a 26/2010. (XII. 22.) NFM rendelet 4. § (2) bekezdése iktatta be, szövege a 63/2011. (XI. 29.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^55]: A 7. § (3) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^56]: A 7. § (3) bekezdés a) pontja a 44/2014. (X. 31.) NFM rendelet 4. §-ával megállapított szöveg.
+[^57]: A 7. § (3) bekezdés b) pontja a 44/2014. (X. 31.) NFM rendelet 4. §-ával megállapított szöveg.
+[^58]: A 7. § (3) bekezdés c) pontját a 26/2010. (XII. 22.) NFM rendelet 4. § (3) bekezdése iktatta be.
+[^59]: A 7. § új (4) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4)–(7) bekezdés számozását (5)–(8) bekezdésre változtatva.
+[^60]: A 7. § eredeti (4) bekezdésének számozását (5) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése.
+[^61]: A 7. § eredeti (5) bekezdésének számozását (6) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése.
+[^62]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése. A 7. § (7) bekezdés nyitó szövegrésze a 31/2014. (VI. 27.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^63]: A 7. § eredeti (7) bekezdésének számozását (8) bekezdésre változatta a 19/2009. (IV. 16.) KHEM rendelet 4. § (2) bekezdése.

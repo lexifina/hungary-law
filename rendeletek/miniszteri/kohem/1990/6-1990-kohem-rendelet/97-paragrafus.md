@@ -18,16 +18,16 @@ d) a szélvédő szélén elhelyezett antennát.
 
 (4) A jármű vezetőfülkéjében és utasterében tilos olyan díszítést alkalmazni mely a vezetőt zavarhatja, vagy a szabad kilátásban akadályozhatja.
 
-(5)[^187] A gépjármű, a mezőgazdasági vontató, továbbá a lassú jármű szélvédőjén és ablakain – kivéve a lakófelépítmény ablakait – menet közben nem szabad függönyt, vagy olyan más megoldást (fólia, üvegre felhordott fényelnyelő vagy fényvisszaverő réteg stb.) alkalmazni, amely a szélvédőn, illetőleg a jármű ablakain a kilátást, illetőleg az átlátást megakadályozza.
+(5)[^190] A gépjármű, a mezőgazdasági vontató, továbbá a lassú jármű szélvédőjén és ablakain – kivéve a lakófelépítmény ablakait – menet közben nem szabad függönyt, vagy olyan más megoldást (fólia, üvegre felhordott fényelnyelő vagy fényvisszaverő réteg stb.) alkalmazni, amely a szélvédőn, illetőleg a jármű ablakain a kilátást, illetőleg az átlátást megakadályozza.
 
-(6)[^188] Az (5) bekezdésben meghatározott követelmény nem vonatkozik a jármű szélvédőjének és ablakainak fényáteresztő képességét csökkentő olyan eszközökre, amelyek alkalmazására a közlekedési hatóság az ER. 2. § (3) bekezdés h) pontja alapján, az ENSZ–EGB 43. számú előírás 21. számú mellékletében meghatározott, a biztonsági üvegezés járműbe szerelésére vonatkozó műszaki követelmények figyelembevételével engedélyt adott.
+(6)[^191] Az (5) bekezdésben meghatározott követelmény nem vonatkozik a jármű szélvédőjének és ablakainak fényáteresztő képességét csökkentő olyan eszközökre, amelyek alkalmazására a közlekedési hatóság az ER. 2. § (3) bekezdés h) pontja alapján, az ENSZ–EGB 43. számú előírás 21. számú mellékletében meghatározott, a biztonsági üvegezés járműbe szerelésére vonatkozó műszaki követelmények figyelembevételével engedélyt adott.
 
-(7)[^189] A fényáteresztő-képesség mértéke megfelelő:
+(7)[^192] A fényáteresztő-képesség mértéke megfelelő:
 
 a) ha a szélvédő (kivéve a lehajtott napellenzők által takart üvegfelület), valamint a vezetőtéri oldalablakok üvegei esetében (amelyeken keresztül a jármű vezetője részére az oldalra való kilátás, valamint a visszapillantó tükrökkel a jármű mellett lévő mindkét forgalmi sávra történő hátralátás biztosítva van) a mérték legalább 70%;
 
 b) egyéb ablakok (utastéri, raktéri oldal és hátsó ablakok) üvegei esetében 70% alatti mérték is megengedhető, ha a járművet két külső tükörrel szerelték fel.
 
-[^187]: A 97. § (5) bekezdése a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^188]: A 97. § (6) bekezdését a 84/2005. (X. 11.) GKM rendelet 3. §-a iktatta be, szövege a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^189]: A 97. § (7) bekezdését a 26/2010. (XII. 22.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^190]: A 97. § (5) bekezdése a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^191]: A 97. § (6) bekezdését a 84/2005. (X. 11.) GKM rendelet 3. §-a iktatta be, szövege a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^192]: A 97. § (7) bekezdését a 26/2010. (XII. 22.) NFM rendelet 6. § (2) bekezdése iktatta be.

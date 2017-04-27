@@ -1,4 +1,4 @@
-## 93/B. §[^185] A gépkocsira kizárólag jóváhagyási jellel ellátott, a külön jogszabály[^186] alapján a közlekedési hatóság által nyilvántartásba vett gépjárműfenntartó szervezet által beépített és illesztett sebességkorlátozó szerelhető fel.
+## 93/B. §[^188] A gépkocsira kizárólag jóváhagyási jellel ellátott, a külön jogszabály[^189] alapján a közlekedési hatóság által nyilvántartásba vett gépjárműfenntartó szervezet által beépített és illesztett sebességkorlátozó szerelhető fel.
 
 ## Illetéktelen használat elleni védelemre vonatkozó üzemeltetési műszaki feltételek
 
@@ -8,5 +8,5 @@ a) kikapcsolt állapotban ne befolyásolhassa a jármű biztonsági berendezése
 
 b működtetés nélküli bekapcsolódása és akaratlan bekapcsolása kizárt legyen.
 
-[^185]: A 93/B. §-t a 12/1995. (VII. 12.) KHVM rendelet 7. §-a iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 8. §-a iktatta be, szövege a 67/2009. (XI. 27.) KHEM rendelet 9. § (4) bekezdése szerint módosított szöveg.
-[^186]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
+[^188]: A 93/B. §-t a 12/1995. (VII. 12.) KHVM rendelet 7. §-a iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 8. §-a iktatta be, szövege a 67/2009. (XI. 27.) KHEM rendelet 9. § (4) bekezdése szerint módosított szöveg.
+[^189]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.

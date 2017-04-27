@@ -1,6 +1,6 @@
-## A közúti közlekedésben részt vevő kerékpárra vonatkozó üzemeltetési műszaki feltételek[^211]
+## A közúti közlekedésben részt vevő kerékpárra vonatkozó üzemeltetési műszaki feltételek[^214]
 
-116. §[^212] (1) A kerékpárt fel kell szerelni
+116. §[^215] (1) A kerékpárt fel kell szerelni
 
 a) könnyen kezelhető, megbízható kormányberendezéssel, amely semmilyen helyzetében nem akadályozza a kerékpár egyéb kezelőszerveinek működtetését,
 
@@ -64,5 +64,5 @@ d) az (1) bekezdés g) pontjában említett keréken az oldalsó (borostyánsár
 
 e) a (3) bekezdésben említett szélességjelző felnyitott állapotban a kerékpár hosszirányú függőleges felezősíkjától balra 0,30–0,40 méterre és az úttest szintjétől 0,35–0,90 méterre legyen.
 
-[^211]: A 116. §-t megelőző alcím a 72/2013. (XII. 2.) NFM rendelet 10. §-ával megállapított szöveg.
-[^212]: A 116. § a 72/2013. (XII. 2.) NFM rendelet 10. §-ával megállapított szöveg.
+[^214]: A 116. §-t megelőző alcím a 72/2013. (XII. 2.) NFM rendelet 10. §-ával megállapított szöveg.
+[^215]: A 116. § a 72/2013. (XII. 2.) NFM rendelet 10. §-ával megállapított szöveg.

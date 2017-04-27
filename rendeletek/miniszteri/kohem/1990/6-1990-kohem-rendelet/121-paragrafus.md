@@ -1,4 +1,4 @@
-## 121. §[^233] Ez a rendelet
+## 121. §[^236] Ez a rendelet
 
 1. a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet 13. cikkének;
 
@@ -14,7 +14,7 @@
 
 7. a hidrogénüzemű gépjárművek típusjóváhagyásáról szóló 79/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló, 2010. április 26-i 406/2010/EU bizottsági rendelet;
 
-7a.[^234] a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 2009. július 13-i 661/2009/EK európai parlamenti és tanácsi rendeletben foglaltak.
+7a.[^237] a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 2009. július 13-i 661/2009/EK európai parlamenti és tanácsi rendeletben foglaltak.
 
 8. az egyes gépjárművek szélvédő-jégmentesítő és -párátlanító berendezéseire vonatkozó típus-jóváhagyási előírásokról, továbbá a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 661/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló, 2010. július 27-i 672/2010/EU bizottsági rendelet;
 
@@ -54,74 +54,74 @@
 
 26. a 661/2009/EK európai parlamenti és tanácsi rendeletnek az Egyesült Nemzetek Európai Gazdasági Bizottsága gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek típusjóváhagyásáról szóló bizonyos előírásainak felvétele tekintetében történő módosításáról szóló, 2012. június 20-i 523/2012/EU bizottsági rendelet;
 
-27.[^235] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv szerinti alkatrész- és anyagkódolási szabványok létrehozásáról szóló, 2003. február 27-i 2003/138/EK bizottsági határozat;
+27.[^238] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv szerinti alkatrész- és anyagkódolási szabványok létrehozásáról szóló, 2003. február 27-i 2003/138/EK bizottsági határozat;
 
 28. a gyalogosok és más veszélyeztetett úthasználók gépjárművel való ütközést megelőző, illetve annak során történő védelméről és a 70/156/EGK tanácsi irányelv módosításáról szóló, 2003/102/EK európai parlamenti és tanácsi irányelv 3. cikke végrehajtásához szükséges műszaki előírásokról szóló, 2003. december 23-i 2004/90/EK bizottsági határozat;
 
 29. a gépjárművekre szerelt elülső védelmi rendszerek használatáról szóló 2005/66/EK európai parlamenti és tanácsi irányelvben előírt vizsgálatok elvégzésének részletes műszaki követelményeiről szóló, 2006. március 20-i 2006/368/EK bizottsági határozat;
 
-30.[^236] a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és azok pótkocsijainak tömegével és méreteivel kapcsolatos típus-jóváhagyási előírások tekintetében történő végrehajtásáról és a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. december 12-i 1230/2012/EU bizottsági rendelet;
+30.[^239] a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és azok pótkocsijainak tömegével és méreteivel kapcsolatos típus-jóváhagyási előírások tekintetében történő végrehajtásáról és a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. december 12-i 1230/2012/EU bizottsági rendelet;
 
-31.[^237] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a többlépcsős típus-jóváhagyási eljárásra benyújtott járművek széndioxid-kibocsátásának meghatározása tekintetében történő módosításáról szóló, 2013. február 19-i 143/2013/EU bizottsági rendelet;
+31.[^240] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a többlépcsős típus-jóváhagyási eljárásra benyújtott járművek széndioxid-kibocsátásának meghatározása tekintetében történő módosításáról szóló, 2013. február 19-i 143/2013/EU bizottsági rendelet;
 
-32.[^238] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a könnyű személygépjárművek és haszongépjárművek szén-dioxid-kibocsátásának csökkentésére szolgáló innovatív technológiák tekintetében történő módosításáról szóló, 2013. március 7-i 195/2013/EU bizottsági rendelet;
+32.[^241] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a könnyű személygépjárművek és haszongépjárművek szén-dioxid-kibocsátásának csökkentésére szolgáló innovatív technológiák tekintetében történő módosításáról szóló, 2013. március 7-i 195/2013/EU bizottsági rendelet;
 
-33.[^239] a 2007/46/EK európai parlamenti és tanácsi irányelvnek, az 595/2009/EK európai parlamenti és tanácsi rendeletnek és az 582/2011/EU bizottsági rendeletnek a kibocsátási határértékek tekintetében a műszaki fejlődéshez történő hozzáigazításáról szóló 2014. január 31-i 133/2014/EU bizottsági rendelet;
+33.[^242] a 2007/46/EK európai parlamenti és tanácsi irányelvnek, az 595/2009/EK európai parlamenti és tanácsi rendeletnek és az 582/2011/EU bizottsági rendeletnek a kibocsátási határértékek tekintetében a műszaki fejlődéshez történő hozzáigazításáról szóló 2014. január 31-i 133/2014/EU bizottsági rendelet;
 
-34.[^240] a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 692/2008/EK bizottsági rendeletnek a könnyű személy- és haszongépjárművek kibocsátásai (Euro 5 és 6) tekintetében történő módosításáról és az 582/2011/EU bizottsági rendeletnek a nehéz tehergépjárművek kibocsátásai (Euro VI) tekintetében történő módosításáról szóló 2014. február 11-i 136/2014/EU bizottsági rendelet;
+34.[^243] a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 692/2008/EK bizottsági rendeletnek a könnyű személy- és haszongépjárművek kibocsátásai (Euro 5 és 6) tekintetében történő módosításáról és az 582/2011/EU bizottsági rendeletnek a nehéz tehergépjárművek kibocsátásai (Euro VI) tekintetében történő módosításáról szóló 2014. február 11-i 136/2014/EU bizottsági rendelet;
 
-35.[^241] a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet 45. és 47. cikke;
+35.[^244] a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet 45. és 47. cikke;
 
-36.[^242] a rendelet a 661/2009/EK európai parlamenti és tanácsi rendeletnek a különös eljárások, értékelési módszerek és műszaki előírások bevezetése tekintetében történő kiegészítéséről és módosításáról, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv, továbbá az 1003/2010/EU, a 109/2011/EU és a 458/2011/EU bizottsági rendelet módosításáról szóló 2015. február 3-i 2015/166 (EU) bizottsági rendelet
+36.[^245] a rendelet a 661/2009/EK európai parlamenti és tanácsi rendeletnek a különös eljárások, értékelési módszerek és műszaki előírások bevezetése tekintetében történő kiegészítéséről és módosításáról, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv, továbbá az 1003/2010/EU, a 109/2011/EU és a 458/2011/EU bizottsági rendelet módosításáról szóló 2015. február 3-i 2015/166 (EU) bizottsági rendelet
 
-37.[^243] a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendelet;
+37.[^246] a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendelet;
 
-38.[^244] a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendelet;
+38.[^247] a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendelet;
 
-39.[^245] a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló 168/2013/EU európai parlamenti és tanácsi rendeletnek a funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2013. október 24-i 3/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+39.[^248] a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló 168/2013/EU európai parlamenti és tanácsi rendeletnek a funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2013. október 24-i 3/2014/EU bizottsági felhatalmazáson alapuló rendelet;
 
-40.[^246] a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek és a négykerekű motorkerékpárok jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről szóló, 2013. november 21-i 44/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+40.[^249] a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek és a négykerekű motorkerékpárok jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről szóló, 2013. november 21-i 44/2014/EU bizottsági felhatalmazáson alapuló rendelet;
 
-41.[^247] a 168/2013/EU európai parlamenti és tanácsi rendeletnek a környezeti teljesítményre, valamint a meghajtóegység teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről, továbbá V. mellékletének módosításáról szóló, 2013. december 16-i 134/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+41.[^250] a 168/2013/EU európai parlamenti és tanácsi rendeletnek a környezeti teljesítményre, valamint a meghajtóegység teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről, továbbá V. mellékletének módosításáról szóló, 2013. december 16-i 134/2014/EU bizottsági felhatalmazáson alapuló rendelet;
 
-42.[^248] a gépjárművek zajszintjéről és a csere-hangtompítórendszerekről, és a 2007/46/EK irányelv módosításáról, valamint a 70/157/EGK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 540/2014/EU európai parlamenti és tanácsi rendelet;
+42.[^251] a gépjárművek zajszintjéről és a csere-hangtompítórendszerekről, és a 2007/46/EK irányelv módosításáról, valamint a 70/157/EGK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 540/2014/EU európai parlamenti és tanácsi rendelet;
 
-43.[^249] a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2014. július 18-i 901/2014/EU bizottsági végrehajtási rendelet;
+43.[^252] a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2014. július 18-i 901/2014/EU bizottsági végrehajtási rendelet;
 
-44.[^250] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről és módosításáról szóló, 2014. szeptember 19-i 1322/2014/EU felhatalmazáson alapuló bizottsági rendelet;
+44.[^253] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről és módosításáról szóló, 2014. szeptember 19-i 1322/2014/EU felhatalmazáson alapuló bizottsági rendelet;
 
-45.[^251] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó fékezési követelmények tekintetében történő kiegészítéséről szóló, 2014. október 15-i 2015/68 bizottsági (EU) felhatalmazáson alapuló rendelet;
+45.[^254] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó fékezési követelmények tekintetében történő kiegészítéséről szóló, 2014. október 15-i 2015/68 bizottsági (EU) felhatalmazáson alapuló rendelet;
 
-46.[^252] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek környezeti teljesítményére és meghajtóegység-teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről szóló, 2014. október 1-i 2015/96 bizottsági (EU) felhatalmazáson alapuló rendelet;
+46.[^255] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek környezeti teljesítményére és meghajtóegység-teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről szóló, 2014. október 1-i 2015/96 bizottsági (EU) felhatalmazáson alapuló rendelet;
 
-47.[^253] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2014. december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
+47.[^256] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2014. december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
 
-48.[^254] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet;
+48.[^257] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet;
 
-49.[^255] a 661/2009/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2016. június 22-i (EU) 2016/1004 bizottsági rendelet
+49.[^258] a 661/2009/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2016. június 22-i (EU) 2016/1004 bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^233]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
-[^234]: A 121. § 7a. pontját a 44/2014. (X. 31.) NFM rendelet 7. §-a iktatta be.
-[^235]: A 121. § 27. pontja a 72/2013. (XII. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^236]: A 121. § 30. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
-[^237]: A 121. § 31. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
-[^238]: A 121. § 32. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
-[^239]: A 121. § 33. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
-[^240]: A 121. § 34. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
-[^241]: A 121. § 35. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
-[^242]: A 121. § 36. pontját a 40/2015. (VI. 30.) NFM rendelet 5. §-a iktatta be.
-[^243]: A 121. § 37. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^244]: A 121. § 38. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^245]: A 121. § 39. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^246]: A 121. § 40. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^247]: A 121. § 41. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^248]: A 121. § 42. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^249]: A 121. § 43. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^250]: A 121. § 44. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^251]: A 121. § 45. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^252]: A 121. § 46. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^253]: A 121. § 47. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^254]: A 121. § 48. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
-[^255]: A 121. § 49. pontját az 58/2016. (XII. 23.) NFM rendelet 4. §-a iktatta be.
+[^236]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
+[^237]: A 121. § 7a. pontját a 44/2014. (X. 31.) NFM rendelet 7. §-a iktatta be.
+[^238]: A 121. § 27. pontja a 72/2013. (XII. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^239]: A 121. § 30. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^240]: A 121. § 31. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^241]: A 121. § 32. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^242]: A 121. § 33. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
+[^243]: A 121. § 34. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
+[^244]: A 121. § 35. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
+[^245]: A 121. § 36. pontját a 40/2015. (VI. 30.) NFM rendelet 5. §-a iktatta be.
+[^246]: A 121. § 37. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^247]: A 121. § 38. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^248]: A 121. § 39. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^249]: A 121. § 40. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^250]: A 121. § 41. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^251]: A 121. § 42. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^252]: A 121. § 43. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^253]: A 121. § 44. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^254]: A 121. § 45. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^255]: A 121. § 46. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^256]: A 121. § 47. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^257]: A 121. § 48. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^258]: A 121. § 49. pontját az 58/2016. (XII. 23.) NFM rendelet 4. §-a iktatta be.

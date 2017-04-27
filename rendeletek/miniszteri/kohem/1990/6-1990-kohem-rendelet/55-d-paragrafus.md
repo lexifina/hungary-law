@@ -1,6 +1,6 @@
-## A bekanyarodási lámpára vonatkozó további műszaki feltételek[^138]
+## A bekanyarodási lámpára vonatkozó további műszaki feltételek[^141]
 
-55/D. §[^139] (1) A gépkocsira csak jóváhagyási jellel ellátott bekanyarodási lámpát szabad felszerelni.
+55/D. §[^142] (1) A gépkocsira csak jóváhagyási jellel ellátott bekanyarodási lámpát szabad felszerelni.
 
 (2) A bekanyarodási lámpa átvilágított felületének
 
@@ -22,5 +22,5 @@ b) a jármű mindkét oldalán – az irányjelző lámpa működésétől és a
 
 (5) A bekanyarodási lámpa 40 km/óra sebesség felett nem lehet bekapcsolt állapotban.
 
-[^138]: Az 55/D. §-t megelőző alcímet a 66/2012. (XII. 10.) NFM rendelet 2. §-a iktatta be.
-[^139]: Az 55/D. §-t a 66/2012. (XII. 10.) NFM rendelet 2. §-a iktatta be.
+[^141]: Az 55/D. §-t megelőző alcímet a 66/2012. (XII. 10.) NFM rendelet 2. §-a iktatta be.
+[^142]: Az 55/D. §-t a 66/2012. (XII. 10.) NFM rendelet 2. §-a iktatta be.

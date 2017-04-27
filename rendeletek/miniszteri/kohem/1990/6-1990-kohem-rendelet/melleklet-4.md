@@ -140,8 +140,8 @@
 
 | 10 | 0 |
 
-## [^262]
+## [^265]
 
 4. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez
 
-[^262]: Lásd MK. 1990. évi 33. szám 711. oldal
+[^265]: Lásd MK. 1990. évi 33. szám 711. oldal

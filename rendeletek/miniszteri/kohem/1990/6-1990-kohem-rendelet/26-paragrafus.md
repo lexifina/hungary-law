@@ -1,3 +1,3 @@
-## Alvázszámra és motorszámra és adattáblára vonatkozó további műszaki feltételek[^100]
+## Alvázszámra és motorszámra és adattáblára vonatkozó további műszaki feltételek[^103]
 
-[^100]: A 26. § címe a 12/2000. (V. 24.) KHVM rendelet 6.§-ának (1) bekezdésével megállapított szöveg.
+[^103]: A 26. § címe a 12/2000. (V. 24.) KHVM rendelet 6.§-ának (1) bekezdésével megállapított szöveg.

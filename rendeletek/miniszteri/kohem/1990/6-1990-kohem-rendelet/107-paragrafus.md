@@ -1,6 +1,6 @@
 ## Tűzoltókészülékre vonatkozó üzemeltetési műszaki feltételek
 
-107. § (1)[^193] Tehergépkocsin, mezőgazdasági vontatón és lassú járművön, továbbá a tehergépkocsiból és pótkocsiból, valamint nyerges vontatóból és félpótkocsiból álló járműszerelvényen, amelynek megengedett legnagyobb össztömege
+107. § (1)[^196] Tehergépkocsin, mezőgazdasági vontatón és lassú járművön, továbbá a tehergépkocsiból és pótkocsiból, valamint nyerges vontatóból és félpótkocsiból álló járműszerelvényen, amelynek megengedett legnagyobb össztömege
 
 a) meghaladja a 3500 kg-ot, de legfeljebb 12 000 kg 1 db legalább 6 kg-os
 
@@ -16,7 +16,7 @@ _______________________
 
 2) Lásd MSZ EN 3.
 
-(2)[^194] Az autóbuszon a járműtűz eloltására
+(2)[^197] Az autóbuszon a járműtűz eloltására
 
 a) 30 személy befogadóképességig 1 db legalább 3 kg-os,
 
@@ -34,14 +34,14 @@ __________________
 
 2) Lásd MSZ EN 3.
 
-(3)[^195] Az (1)–(2) bekezdésekben meghatározott tűzoltó készülékek más oltóanyagú, de legalább azonos oltási teljesítményű hordozható tűzoltó készülékkel helyettesíthetőek.
+(3)[^198] Az (1)–(2) bekezdésekben meghatározott tűzoltó készülékek más oltóanyagú, de legalább azonos oltási teljesítményű hordozható tűzoltó készülékkel helyettesíthetőek.
 
-(4)[^196] A veszélyes anyagot szállító járművön a veszélyes áruk közúti szállítására vonatkozó jogszabályban előírtaknak megfelelő, de legalább az (1) bekezdés szerinti tűzoltó készüléket kell készenlétben tartani.
+(4)[^199] A veszélyes anyagot szállító járművön a veszélyes áruk közúti szállítására vonatkozó jogszabályban előírtaknak megfelelő, de legalább az (1) bekezdés szerinti tűzoltó készüléket kell készenlétben tartani.
 
-(5)[^197]
+(5)[^200]
 
-[^193]: A 107. § (1) bekezdése a 72/2015. (XII. 29.) NFM rendelet 11. §-ával megállapított, a 27/2016. (VII. 22.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
-[^194]: A 107. § (2) bekezdése a 72/2015. (XII. 29.) NFM rendelet 11. §-ával megállapított, a 27/2016. (VII. 22.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
-[^195]: A 107. § (3) bekezdése a 72/2015. (XII. 29.) NFM rendelet 11. §-ával megállapított szöveg.
-[^196]: A 107. § (4) bekezdése a 90/2006. (XII. 26.) GKM rendelet 4. §-ával megállapított szöveg.
-[^197]: A 107. § (5) bekezdését a 27/2016. (VII. 22.) NFM rendelet 6. § a) pontja hatályon kívül helyezte.
+[^196]: A 107. § (1) bekezdése a 72/2015. (XII. 29.) NFM rendelet 11. §-ával megállapított, a 27/2016. (VII. 22.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
+[^197]: A 107. § (2) bekezdése a 72/2015. (XII. 29.) NFM rendelet 11. §-ával megállapított, a 27/2016. (VII. 22.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
+[^198]: A 107. § (3) bekezdése a 72/2015. (XII. 29.) NFM rendelet 11. §-ával megállapított szöveg.
+[^199]: A 107. § (4) bekezdése a 90/2006. (XII. 26.) GKM rendelet 4. §-ával megállapított szöveg.
+[^200]: A 107. § (5) bekezdését a 27/2016. (VII. 22.) NFM rendelet 6. § a) pontja hatályon kívül helyezte.

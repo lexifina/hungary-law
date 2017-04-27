@@ -1,6 +1,6 @@
 ## A túlméretes és a megengedett össztömeget illetőleg tengelyterhelést meghaladó járművekre vonatkozó üzemeltetési műszaki feltételek
 
-8. § (1)[^61] A közlekedési hatóság kivételesen engedélyezheti az 5–7. §-okban meghatározott méret-, illetőleg tömeghatárokat meghaladó járművek forgalomba helyezését
+8. § (1)[^64] A közlekedési hatóság kivételesen engedélyezheti az 5–7. §-okban meghatározott méret-, illetőleg tömeghatárokat meghaladó járművek forgalomba helyezését
 
 a) nagyméretű, illetőleg nagytömegű oszthatatlan rakomány szállítására szolgáló gépkocsi és pótkocsi esetében, ha méret-, illetőleg tömegkorlátozások a rakomány tulajdonságai miatt,
 
@@ -8,7 +8,7 @@ b) munkavégzésre berendezett jármű esetében, ha a méret-, illetőleg töme
 
 nem tarthatók meg.
 
-(2)[^62]
+(2)[^65]
 
-[^61]: A 8. § (1) bekezdés bevezető szövegrésze a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
-[^62]: A 8. § (2) bekezdését a 23/2012. (V. 8.) NFM rendelet 12. §-a hatályon kívül helyezte.
+[^64]: A 8. § (1) bekezdés bevezető szövegrésze a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^65]: A 8. § (2) bekezdését a 23/2012. (V. 8.) NFM rendelet 12. §-a hatályon kívül helyezte.
