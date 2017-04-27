@@ -1,5 +1,3 @@
-## 9. §[^26]
-
 1. melléklet a 155/2016. (VI. 13.) Korm. rendelethez
 
 I. Az egyszerű bejelentéshez kötött építési tevékenységhez szükséges kivitelezési dokumentáció munkarészei:
@@ -20,13 +18,13 @@ I. Az egyszerű bejelentéshez kötött építési tevékenységhez szükséges 
 
 8. Tartószerkezeti tervek
 
-9. Épület műszaki berendezéseinek rendszerterve
+9.[^33] Épületgépészeti és épületvillamossági rendszerleírás
 
 10. Műszaki leírás
 
-11.[^27] Költségvetési kiírás
+11.[^34] Költségvetési kiírás
 
 II. Az I. rész szerinti munkarészek elkészítéséhez az építőipari kivitelezési tevékenységről szóló kormányrendelet keretei között a kivitelezési dokumentáció tartalmi követelménye tekintetében a dokumentáció egyes munkarészeinek kidolgozottságára, a Magyar Építész Kamara, illetve az I. rész 8. és 9. pontja tekintetében a Magyar Mérnöki Kamara által kidolgozott szakmai követelményeket megállapító, a Magyar Építész Kamara és a Magyar Mérnöki Kamara együttes szabályzatát kell figyelembe venni, amelyet a Magyar Építész Kamara és a Magyar Mérnöki Kamara honlapján közzétesz.
 
-[^26]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: Az 1. melléklet I. 11. pont a 482/2016. (XII. 28.) Korm. rendelet 59. § d) pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet I.9. pontja a 97/2017. (IV. 27.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet I. 11. pont a 482/2016. (XII. 28.) Korm. rendelet 59. § d) pontja szerint módosított szöveg.
