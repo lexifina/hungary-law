@@ -8,7 +8,7 @@ a) telepítési hatásvizsgálati szakasz,
 
 b) integrált építési engedélyezési szakasz.
 
-(3) Az összevont telepítési eljárást építésügyi hatósági szolgáltatás előzi meg.
+(3)
 
 (4) A telepítési hatásvizsgálati szakaszban az építésügyi hatóság döntése
 

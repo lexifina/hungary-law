@@ -24,9 +24,13 @@ ad) a jogerős engedély végrehajthatóságának felfüggesztése ellenére;
 
 b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
 
-ba) bejelentés nélkül, vagy
+ba) bejelentés nélkül,
 
-bb) bejelentéssel, de a 300 négyzetméter összes hasznos alapterületet meghaladva,
+bb) természetes személy esetében 300 négyzetméter összes hasznos alapterületet meghaladóan nem saját lakhatás biztosítása érdekében, illetve a megépült lakóépületben nem csak egy lakást kialakítva,
+
+bc) természetes személy esetében a meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meghaladó bővítését nem saját lakhatás biztosítása céljából, nem saját lakhatásra szolgáló lakóépület tekintetében, vagy
+
+bd) természetes személy építtető kivételével, 300 négyzetméter összes hasznos alapterületet meghaladó lakóépület esetében bejelentéssel
 
 c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tevékenységet építési napló hiányában
 
@@ -44,4 +48,4 @@ b) a 33/A. § szerinti építési tevékenység esetén a 13. § (2) bekezdésé
 
 c) az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy
 
-d) a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.
+d) a tevékenység végzése az életet, az egészséget, a közbiztonságot veszélyeztető állapotot vagy használatot eredményez.

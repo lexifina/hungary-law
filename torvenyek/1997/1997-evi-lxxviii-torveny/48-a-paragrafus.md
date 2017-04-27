@@ -4,9 +4,9 @@ a) az e törvényben, az egyéb jogszabályban meghatározott műszaki és egyé
 
 b) az műemlékvédelmi érdeket nem sért.
 
-(1a) Az (1) bekezdés szerint kiadott fennmaradási engedély nem mentesít a 33/A. § (2) és (3) bekezdése rendelkezéseinek alkalmazása alól.
+(1a) Az (1) bekezdés szerint kiadott fennmaradási engedély nem mentesít a 33/A. § (6) és (7) bekezdése rendelkezéseinek alkalmazása alól.
 
-(2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság vagy jogszabályban meghatározott esetekben az építésfelügyeleti hatóság elrendeli:
+(2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság elrendeli:
 
 a) a szabályossá tétel érdekében szükséges munkálatok elvégzését, vagy
 

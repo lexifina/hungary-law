@@ -1,4 +1,4 @@
-49. § (1) Ha az építésügyi hatóság a 48. § szerint a fennmaradási engedélyt megadja, illetőleg a lebontást tudomásul veszi, ezzel egyidejűleg – a Kormány rendeletében meghatározott mértékben és módon – építésügyi bírságot szab ki.
+49. § (1) Ha az építésügyi hatóság a 48/A. § szerint a fennmaradási engedélyt megadja, illetőleg a lebontást tudomásul veszi, ezzel egyidejűleg – a Kormány rendeletében meghatározott mértékben és módon – építésügyi bírságot szab ki.
 
 (2) Ha az építtető a szabálytalanul megépített építményt, építményrészt a kiszabott építésügyi bírság megfizetésére előírt határidő lejárta előtt lebontja, vagy a szabálytalanságot megszünteti, az építésügyi hatóság a bírságot elengedi. Egyéb esetekben a kiszabott építésügyi bírság nem engedhető el.
 

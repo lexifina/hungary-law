@@ -16,7 +16,7 @@ bc) végzéséhez előírt építési napló meglétének, vezetésének módjá
 
 bd) folytatásához előírt kivitelezési dokumentáció(rész) meglétét,
 
-c) a jókarbantartási kötelezettség teljesítése körében ellenőrzést és eljárást folytat le,
+c)
 
 d) a szabálytalan építési tevékenység feltárása érdekében a Nyilvántartás igénybevételével építésrendészeti ellenőrzést és eljárást folytat le,
 
@@ -44,11 +44,7 @@ bc) építési napló hiányában megtiltja,
 
 c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
 
-d) a (2) bekezdés c) pontja szerinti feladatkörében jogszabályban meghatározott ellenőrzést végez a meglévő építmények körében, az ellenőrzésen tapasztaltak eredményeképpen
-
-da) kötelezheti az építmény tulajdonosát a szükséges munkálatok elvégzésére,
-
-db) elrendeli az építmény felülvizsgálatát, a szükség szerinti építési munkák elvégzését, ha az építmény állapota az állékonyságot, az életet és az egészséget, a köz- és vagyonbiztonságot veszélyezteti.
+d)
 
 e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapasztaltak eredményeképpen
 
@@ -58,7 +54,7 @@ eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítás
 
 (4) Az építésfelügyeleti hatóság a hatósági ellenőrzést a megindításától számított 60 napon belül lefolytatja. Szabálytalanság észlelése esetén haladéktalanul megindítja a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 
-a) a (2) bekezdés a)–c) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
+a) a (2) bekezdés a) és b) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
 
 b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől számított tíz éven belül
 
