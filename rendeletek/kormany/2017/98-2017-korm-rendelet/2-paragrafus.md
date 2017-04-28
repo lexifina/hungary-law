@@ -1,0 +1,5 @@
+2. § (1) A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben – a 2. mellékletben foglalt táblázat 13. sora szerinti beruházásokkal összefüggő kiemelt jelentőségű ügyek kivételével – koordinációs feladatokat ellátó kormánymegbízottként a Budapest közigazgatási területén megvalósuló beruházások esetében a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat, a Pest megyében megvalósuló beruházások esetében a Pest Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+
+(2) A Kormány az 1. melléklet 16. pontja szerinti közigazgatási hatósági ügyekben – a 2. mellékletben foglalt táblázat 13. sora szerinti beruházásokkal összefüggő közigazgatási hatósági ügyek kivételével – első fokon eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
+
+(3) A Kormány az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben – a 2. mellékletben foglalt táblázat 13. sora szerinti beruházásokkal összefüggő közigazgatási hatósági ügyek kivételével – tűzvédelmi szakkérdésben elsőfokú eljárásban eljáró szakhatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
