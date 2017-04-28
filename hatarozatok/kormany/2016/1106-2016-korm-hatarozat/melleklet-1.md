@@ -10,7 +10,7 @@
 
 ## Felelős: földművelésügyi miniszter
 
-## Határidő: 2017. március 31.
+## Határidő: 2017. december 31.
 
 1. melléklet az 1106/2016. (III. 3.) Korm. határozathoz
 
