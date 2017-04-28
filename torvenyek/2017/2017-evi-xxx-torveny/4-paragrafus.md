@@ -9,11 +9,3 @@
 (5) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
 
 (6) Az Egyezmény és Függelékei módosításokkal egységes szerkezetbe foglalt angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának közzétételéről a közlekedésért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
