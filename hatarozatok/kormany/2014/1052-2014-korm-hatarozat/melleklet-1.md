@@ -12,7 +12,7 @@
 
 ## ba) 3651,6 millió forint egyszeri átcsoportosítását, valamint
 
-## bb) 3182,5 millió forint egyszeri átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel
+## bb)[^2] 3182,5 millió forint egyszeri átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel
 
 ## a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
 
@@ -34,7 +34,7 @@
 
 ## a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15., az Egyetemek, főiskolák cím javára átcsoportosított 152,8 millió forint tekintetében 2017. június 30., a Miniszterelnökség fejezet javára átcsoportosított 1303,8 millió forint tekintetében 2015. június 30., a Magyar Bányászati és Földtani Hivatal cím részére átcsoportosított 636,9 millió forint tekintetében 2016. december 31.
+## Határidő: 2014. december 15., az Egyetemek, főiskolák cím javára átcsoportosított 152,8 millió forint tekintetében 2018. június 30., a Miniszterelnökség fejezet javára átcsoportosított 1303,8 millió forint tekintetében 2015. június 30., a Magyar Bányászati és Földtani Hivatal cím részére átcsoportosított 636,9 millió forint tekintetében 2016. december 31.
 
 ## c) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Rubik kocka motívuma és gondolatisága által ihletett kiállítási központ létrehozása érdekében 190,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 2. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 9. A Rubik kocka motívuma és gondolatisága által ihletett kiállítási központ létrehozásával kapcsolatos kiadások jogcímcsoport javára a 2. melléklet szerint;
 
@@ -52,9 +52,10 @@
 
 ## j) tudomásul veszi, hogy rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és kormányhatározat módosításról szóló 1646/2012. (XII. 19.) Korm. határozatban a Magyar Kajak-Kenu Szövetség támogatásához nyújtott támogatás felhalmozási kiadásokra is felhasználható.
 
-## 2.[^2]
+## 2.[^3]
 
 1. melléklet az 1052/2014. (II. 11.) Korm. határozathoz
 
 [^1]: Az 1. pont b) alpontja az 1298/2015. (V. 13.) Korm. határozat 2. pontja, az 1245/2016. (V. 18.) Korm. határozat 3. pontja, az 1438/2016. (VIII. 17.) Korm. határozat 11. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont b) pont bb) alpontja az 1241/2017. (IV. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
