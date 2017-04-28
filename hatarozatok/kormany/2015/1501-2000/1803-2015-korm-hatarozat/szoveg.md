@@ -123,3 +123,11 @@ Felelős: nemzetgazdasági miniszter
 belügyminiszter
 
 Határidő: 2015. december 31.
+
+11.[^1] felhívja a nemzeti fejlesztési minisztert, hogy a város és térsége gazdasági fejlődésének elősegítése érdekében gondoskodjon a város ipari park területeinek bővítéséről, fejlesztéséről.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: 2017. december 31.
+
+[^1]: A 11. pontot az 1245/2017. (IV. 28.) Korm. határozat iktatta be.
