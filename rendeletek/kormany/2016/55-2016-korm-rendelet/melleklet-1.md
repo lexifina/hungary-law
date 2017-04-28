@@ -1,4 +1,4 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő hatósági ügyekben is alkalmazni kell.
+## 7. §[^2] E rendeletnek a XIV. Nyári Európai Ifjúsági Olimpiai Fesztivál megrendezésével összefüggő infrastrukturális fejlesztésekre irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 55/2016. (III. 24.) Korm. rendelet módosításáról szóló 96/2017. (IV. 27.) Korm. rendelettel (a továbbiakban: Mód. r.) módosított 1. § (1) bekezdését a Mód. r. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet az 55/2016. (III. 24.) Korm. rendelethez
 
@@ -45,3 +45,6 @@
 19. közegészségügyi hatósági eljárások,
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 7. §-t a 96/2017. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2017. április 28.
