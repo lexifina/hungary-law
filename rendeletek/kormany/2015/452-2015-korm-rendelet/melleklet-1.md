@@ -1,4 +1,4 @@
-## 9. §[^13] A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges egyes létesítmények építtetőjének kijelöléséről, valamint a toronyugrás céljából létesítendő óriás ugrótorony létesítését szolgáló ingatlanok meghatározásáról szóló 451/2015. (XII. 28.) Korm. rendelet, valamint a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet módosításáról szóló 163/2016. (VI. 17.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 2. § (2), (4)–(6) bekezdését, 3. § a) pontját, 5. §-t és az 1. melléklet 13a. pontját a Módr1. hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell, valamint a Módr1.-gyel hatályon kívül helyezett 1. § (1) bekezdés c) pontját, 4. § (2) és (3) bekezdését, valamint 2. mellékletet a Módr1. hatálybalépésekor folyamatban lévő ügyekben sem kell alkalmazni.
+## 10. §[^16] A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet módosításáról szóló 95/2017. (IV. 27.) Korm. rendelettel megállapított 6/A. §-a szerint megvalósított létesítményeket 2017. december 31-ig meg kell szüntetni.
 
 1. melléklet a 452/2015. (XII. 28.) Korm. rendelethez
 
@@ -30,7 +30,7 @@
 
 13. vasúti hatósági eljárások,
 
-13a.[^15] hajózási hatósági eljárások,
+13a.[^17] hajózási hatósági eljárások,
 
 14. ingatlan-nyilvántartással összefüggő hatósági eljárások,
 
@@ -50,6 +50,5 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^13]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 163/2016. (VI. 17.) Korm. rendelet 4. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2016. június 25.
-[^15]: Az 1. melléklet 13a. pontját a 163/2016. (VI. 17.) Korm. rendelet 5. §-a iktatta be.
+[^16]: A 10. §-t a 95/2017. (IV. 27.) Korm. rendelet 2. §-a iktatta be.
+[^17]: Az 1. melléklet 13a. pontját a 163/2016. (VI. 17.) Korm. rendelet 5. §-a iktatta be.
