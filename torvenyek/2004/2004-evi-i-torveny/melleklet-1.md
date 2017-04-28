@@ -70,7 +70,7 @@ Ferencvárosi Torna Club
 
 |
 
-Budapest, 38293/78
+Budapest, 38442/12
 
 |
 
@@ -84,6 +84,62 @@ Ferencvárosi Torna Club
 
 |
 
+Budapest, 38442/13
+
+|
+
+Ferencvárosi Torna Club
+
+(székhely: Budapest 1091, Üllői út 129.)
+
+|
+
+7
+
+|
+
+Budapest, 38442/14
+
+|
+
+Ferencvárosi Torna Club
+
+(székhely: Budapest 1091, Üllői út 129.)
+
+|
+
+8
+
+|
+
+Budapest, 38442/15
+
+|
+
+Ferencvárosi Torna Club
+
+(székhely: Budapest 1091, Üllői út 129.)
+
+|
+
+9
+
+|
+
+Budapest, 38293/78
+
+|
+
+Ferencvárosi Torna Club
+
+(székhely: Budapest 1091, Üllői út 129.)
+
+|
+
+10
+
+|
+
 Budapest, 74333/1
 
 |
@@ -94,7 +150,7 @@ Budapest, 74333/1
 
 |
 
-7
+11
 
 |
 
@@ -108,7 +164,7 @@ Budapest, 74232
 
 |
 
-8
+12
 
 |
 
@@ -122,7 +178,7 @@ Magyar Testgyakorlók Köre
 
 |
 
-9
+13
 
 |
 
@@ -136,7 +192,7 @@ Magyar Testgyakorlók Köre
 
 |
 
-10
+14
 
 |
 
@@ -150,7 +206,7 @@ Vasas Sport Club
 
 |
 
-11
+15
 
 |
 
@@ -160,11 +216,13 @@ Budapest, 29834/8
 
 |
 
-Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.)
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
+
+(székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-12
+16
 
 |
 
@@ -172,11 +230,13 @@ Budapest, 29834/12
 
 |
 
-Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.)
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
+
+(székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-13
+17
 
 |
 
@@ -186,11 +246,13 @@ Budapest, 29834/15
 
 |
 
-Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.)
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
+
+(székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-14
+18
 
 |
 
@@ -204,7 +266,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-15
+19
 
 |
 
@@ -220,7 +282,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-16
+20
 
 |
 
@@ -236,7 +298,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-17
+21
 
 |
 
