@@ -1,4 +1,4 @@
-## 12/A. [^142] A Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter
+## 12/A. [^145] A Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter
 
 124/E. § (1) A Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter felelős a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény értelmében
 
@@ -24,4 +24,4 @@ b) a Paksi két új blokkhoz (5–6. blokkok) kapcsolódó térségfejlesztés �
 
 c) az atomenergia-ipar innovációs feladatainak összehangolásáért.
 
-[^142]: A 12/A. alcímet (124/E. §) a 93/2017. (IV. 12.) Korm. rendelet 2. §-a iktatta be.
+[^145]: A 12/A. alcímet (124/E. §) a 93/2017. (IV. 12.) Korm. rendelet 2. §-a iktatta be.
