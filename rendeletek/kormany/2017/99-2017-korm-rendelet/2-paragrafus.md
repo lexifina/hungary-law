@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Fülöp-szigeteki Köztársaság Kormánya közötti kétoldalú gazdasági együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
