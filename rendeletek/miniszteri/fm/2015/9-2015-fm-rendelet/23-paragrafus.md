@@ -1,5 +1,3 @@
-## 22/G. §[^123] E rendeletnek az egyes nemzeti forrásból finanszírozott agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 17/2017. (IV. 10.) FM rendelettel [a továbbiakban: 17/2017. (IV. 10.) FM rendelet] megállapított 10. § (1) bekezdés d) pontját a 17/2017. (IV. 10.) FM rendelet hatálybalépésekor[^124] folyamatban lévő eljárásokban is alkalmazni kell.
-
 ## 20. Az Európai Unió jogának való megfelelés
 
 ## 23. § Ez a rendelet
@@ -12,10 +10,8 @@ c) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján 
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-ei 640/2014/EU bizottsági felhatalmazáson alapuló rendelet,
 
-e)[^125] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
+e)[^127] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^123]: A 22/G. §-t a 17/2017. (IV. 10.) FM rendelet 13. §-a iktatta be.
-[^124]: A hatálybalépés időpontja 2017. április 11.
-[^125]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.
+[^127]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.
