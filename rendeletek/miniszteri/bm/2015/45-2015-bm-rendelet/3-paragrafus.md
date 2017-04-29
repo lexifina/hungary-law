@@ -12,8 +12,8 @@
 
 (5) A létesítési engedély és a használatbavételi engedély iránti kérelem írásban terjeszthető elő. A létesítési engedély iránti kérelem mellékleteire vonatkozó tartalmi követelményeket az 1. melléklet, a használatbavételi engedély iránti kérelem mellékleteire vonatkozó tartalmi követelményeket a 2. melléklet tartalmazza.
 
-(6)[^1] Az alapozásra is kiterjedő részletes erőtani (statikai) és szilárdságtani számítás és leírás katasztrófavédelmi szempontból történő megfelelőségét a BM OKF a Nemzeti Szakértői és Kutató Központ bevonásával vizsgálja, amelynek költségét az építtető viseli.
+(6)[^3] Az alapozásra is kiterjedő részletes erőtani (statikai) és szilárdságtani számítás és leírás katasztrófavédelmi szempontból történő megfelelőségét a BM OKF a Nemzeti Szakértői és Kutató Központ bevonásával vizsgálja, amelynek költségét az építtető viseli.
 
 (7) A (6) bekezdésben meghatározott szakértői eljárás időtartama 5 munkanap.
 
-[^1]: A 3. § (6) bekezdése az 58/2016. (XII. 22.) BM rendelet 53. §-a szerint módosított szöveg.
+[^3]: A 3. § (6) bekezdése az 58/2016. (XII. 22.) BM rendelet 53. §-a szerint módosított szöveg.
