@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1241-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-04-28 | 2017-1241-30-22.1 | 1241/2017. (IV. 28.) Korm. határozat |
+| 2017-04-29 | 2017-1241-30-22.2 | 2010: CXXX. törvény |

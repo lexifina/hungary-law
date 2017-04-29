@@ -20,11 +20,7 @@
 
 ## b) egyetért azzal, hogy az Arany János-emlékév programjainak megvalósításához szükséges forrás biztosításáról szóló 1067/2017. (II. 9.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 13. Arany János-emlékév programjainak támogatása jogcímcsoport javára átcsoportosított 4 000 000 ezer forint a következők szerint kerüljön felhasználásra és elszámolásra: a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím, K1. Személyi juttatások kiemelt előirányzaton 10 000 ezer forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 2200 ezer forint, K3. Dologi kiadások kiemelt előirányzaton 47 800 ezer forint, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 13. Arany János-emlékév programjainak támogatása jogcímcsoport, K1. Személyi juttatások kiemelt előirányzaton 55 675 ezer forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 12 248 ezer forint, K3. Dologi kiadások kiemelt előirányzaton 481 297 ezer forint, K5. Egyéb működési célú kiadások kiemelt előirányzaton 1 502 826 ezer forint, K6. Beruházások kiemelt előirányzaton 205 480 ezer forint, K7. Felújítások kiemelt előirányzaton 314 000 ezer forint, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton 1 368 474 ezer forint.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1052/2014. (II. 11.) Korm. határozat 1. pont b) pont bb) alpontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1106/2016. (III. 3.) Korm. határozatban a „2017. március 31.” szövegrész helyébe a „2017. december 31.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes fejezeti stabilitási tartalék előirányzatok felhasználásáról szóló 1684/2016. (XI. 29.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Belügyminisztérium igazgatása cím javára biztosított 1600,0 millió forint tekintetében 2017. december 31.” szöveg lép.
+## 2–4.[^1]
 
 1. melléklet az 1241/2017. (IV. 28.) Korm. határozathoz
 
@@ -129,3 +125,5 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 v
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
