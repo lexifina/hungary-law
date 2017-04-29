@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet 2014. október 10-én lép hatályba.
 
-15. §[^32] (1) Az e rendelet hatálybalépését megelőzően az érintett szervezet által az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére kötött, valamint az e rendelet hatálybalépésekor folyamatban lévő közbeszerzési eljárások eredményeként megkötött keretmegállapodások, keretszerződések, valamint egyedi szerződések hatályát e rendelet nem érinti.
+15. §[^33] (1) Az e rendelet hatálybalépését megelőzően az érintett szervezet által az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére kötött, valamint az e rendelet hatálybalépésekor folyamatban lévő közbeszerzési eljárások eredményeként megkötött keretmegállapodások, keretszerződések, valamint egyedi szerződések hatályát e rendelet nem érinti.
 
 (2) Az e rendelet hatálybalépését követően, de a Hivatal által az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére kötött keretmegállapodások vagy egyedi közbeszerzési szerződések hatálybalépését megelőzően az érintett szervezet egyedi közbeszerzési eljárást is lebonyolíthat.
 
@@ -8,7 +8,7 @@
 
 a) keretében történő megrendelések tekintetében a Hivatal a kormányzati kommunikációs irányokkal való összhangot előzetesen ellenőrzi,
 
-b) teljesítése tekintetében az érintett szervezet a 13. § szerint köteles eljárni.
+b)[^34]
 
 (4) Ha a Hivatal az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére már keretmegállapodást kötött, az érintett szervezet a kommunikációs szolgáltatások és termékek beszerzését a keret kimerüléséig a Kbt. 105. § (1) bekezdés a) pontja vagy 105. § (2) bekezdés a) pontja szerint közvetlen megrendeléssel a Hivatal által az e rendelet 11. §-a szerint kötött keretmegállapodás útján valósítja meg.
 
@@ -20,7 +20,8 @@ b) teljesítése tekintetében az érintett szervezet a 13. § szerint köteles 
 
 (5c) A Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keretmegállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások és azokhoz kapcsolódó termékek kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.
 
-(6) A Kormány felhatalmazza a minisztert, hogy az e-közigazgatásért felelős miniszter egyetértésével rendeletben határozza meg az érintett szervezetek által használandó akkreditált informatikai rendszerrel szembeni kritériumokat.[^33]
+(6)[^35]
 
-[^32]: A 15. § a 48/2017. (III. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^33]: Lásd az 1/2016. (II. 1.) MK rendeletet.
+[^33]: A 15. § a 48/2017. (III. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^34]: A 15. § (3) bekezdés b) pontját a 102/2017. (IV. 28.) Korm. rendelet 8. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^35]: A 15. § (6) bekezdését a 102/2017. (IV. 28.) Korm. rendelet 8. § (1) bekezdés e) pontja hatályon kívül helyezte.

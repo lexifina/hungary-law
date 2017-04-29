@@ -4,7 +4,7 @@
 
 (2)[^2] E rendelet alkalmazásában
 
-1. akkreditált informatikai rendszer: az e rendelet hatálya alá tartozó beszerzések eredményeként megkötött szerződések végrehajtására, ellenőrzésére alkalmas adatbázis és az azt megjelenítő webes alkalmazás;
+1.[^3]
 
 2. beszerzés: az 1. melléklet 1–8. és 10. pontja szerinti feladat megvalósítására irányuló, fizetési kötelezettség vállalására, illetve áru pénzforgalom nélküli cseréjére vagy szolgáltatás pénzforgalom nélküli, kölcsönös nyújtására vonatkozó, szabályszerűen megtett jognyilatkozat, ideértve a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) hatálya alá tartozó közbeszerzéseket is;
 
@@ -24,3 +24,4 @@
 
 [^1]: Az 1. § a 189/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § a 48/2017. (III. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés 1. pontját a 102/2017. (IV. 28.) Korm. rendelet 8. § (1) bekezdés a) pontja hatályon kívül helyezte.
