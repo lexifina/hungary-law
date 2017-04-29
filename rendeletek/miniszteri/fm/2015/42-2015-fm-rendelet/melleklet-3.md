@@ -1,10 +1,10 @@
 ## A) A termelői csoport tagok földterületére és termelésére vonatkozó adatok
 
-| Tag neve | Regisztrációs szám | Belépés dátuma (év, hó, nap) | Megye, település neve | Összes földterület nagysága (ha) | Adott évben termeléssel ténylegesen érintett földterület nagysága (ha) | Használat jellege (szántóföld, gyep, legelő, erdő stb.) | Használat jogcíme (saját, bérelt/ha) | Teljes termés- mennyiség (t, m3, db) | Termelési érték (1000 Ft) |
+| Tag neve | Ügyfél- azonosító | Belépés dátuma (év, hó, nap) | Megye, település neve | Összes földterület nagysága (ha) | Adott évben termeléssel ténylegesen érintett földterület nagysága (ha) | Használat jellege (szántóföld, gyep, legelő, erdő stb.) | Használat jogcíme (saját, bérelt/ha) | Teljes termés- mennyiség (t, m3, db) | Termelési érték (1000 Ft) |
 
 ## B) A termelői csoport tagok állattartására vonatkozó adatok
 
-| Tag neve | Regisztrációs szám | Belépés dátuma (év, hó, nap) | Megye, település neve | Átlagos állatlétszám (db) | Éves rotáció % | Termékféleség megnevezése | Teljes termés- mennyiség (t) | Termelési érték 1000 Ft |
+| Tag neve | Ügyfél- azonosító | Belépés dátuma (év, hó, nap) | Megye, település neve | Átlagos állatlétszám (db) | Éves rotáció % | Termékféleség megnevezése | Teljes termés- mennyiség (t) | Termelési érték 1000 Ft |
 
 3. melléklet a 42/2015. (VII. 22.) FM rendelethez
 

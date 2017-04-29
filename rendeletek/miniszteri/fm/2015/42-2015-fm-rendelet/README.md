@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-42-20-1
 | 2016-01-01 | 2015-42-20-11.2 | 94/2015. (XII. 23.) FM rendelet |
 | 2016-07-22 | 2015-42-20-11.3 | 52/2016. (VII. 21.) FM rendelet |
 | 2017-01-01 | 2015-42-20-11.4 | 88/2016. (XII. 29.) FM rendelet |
+| 2017-04-29 | 2015-42-20-11.5 | 22/2017. (IV. 26.) FM rendelet |
