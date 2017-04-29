@@ -1,3 +1,0 @@
-## 1. § A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet) a következő 6/A. §-sal egészül ki:
-
-## „6/A. § A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnoksággal összefüggésben a Budapest XIV. kerület, 29732/11 helyrajzi számú ingatlanon ideiglenes úszómedence és kapcsolódó létesítményei építési engedély, örökségvédelmi engedély és örökségvédelmi bejelentés nélkül elhelyezhetők.”
