@@ -14,4 +14,14 @@ Kijelölt építési beruházások
 
 | 4. | A Nemzeti Hauszmann-terv keretében a Budai Várnegyedben megvalósításra kerülő beruházások, különösen: a) Új lovarda újraépítése eredeti helyén, b) Főőrség épületének újraépítése eredeti helyén, c) Stöckl-lépcső újraépítése eredeti helyén, d) Akadálymentes közlekedési tengely létesítése: a Palota út – Csikós udvar – Hunyadi udvar teraszai között, e) Lovas programokat kiszolgáló istálló épület elhelyezése a Lovarda utcából nyílóan, f) Csikós udvar teljes területének területrendezése-tájépítészeti terv, g) Budavári Palota déli összekötő szárnyának, illetve ahhoz kapcsolódva három beruházási eleme, h) Szent István terem rekonstrukció, i) Gyilokjáró udvar és újvilág kert. |
 
-[^3]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+| 5. | Budapest I. kerület, Táncsics Mihály utca 1. szám alatti ingatlan |
+
+| 6. | Budapest I. kerület, Úri utca 45. szám alatti ingatlan |
+
+| 7. | Nagycenk, Széchenyi-kastélyegyüttes |
+
+| 8. | Geszt, Tisza-kastély |
+
+| 9. | Ónod, Ónodi vár |
+
+[^3]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
