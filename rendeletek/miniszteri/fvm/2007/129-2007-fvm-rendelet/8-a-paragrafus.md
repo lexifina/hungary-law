@@ -1,3 +1,3 @@
-## 8. §[^15] A cukor termékpálya hatékony működése érdekében a Kincstár – helyszíni ellenőrzés keretében is – jogosult ellenőrizni a cukor termékpálya szereplői által a részére szolgáltatott adatok hitelességét.
+## 8. §[^18] A cukor termékpálya hatékony működése érdekében a Kincstár – helyszíni ellenőrzés keretében is – jogosult ellenőrizni a cukor termékpálya szereplői által a részére szolgáltatott adatok hitelességét.
 
-[^15]: A 8. § a 88/2016. (XII. 29.) FM rendelet 20. § b) pontja szerint módosított szöveg.
+[^18]: A 8. § a 88/2016. (XII. 29.) FM rendelet 20. § b) pontja szerint módosított szöveg.
