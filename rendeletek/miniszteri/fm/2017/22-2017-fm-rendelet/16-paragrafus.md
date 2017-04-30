@@ -1,1 +1,0 @@
-## „(6) A termelői csoport köteles a cégadatokban, valamint az alapszabályban bekövetkezett változásokról azok bekövetkezésétől számított tizenöt napon belül elektronikus úton – a minisztérium honlapján megadott elektronikus levélcímen –, valamint a módosított alapszabály másolati példányának postai úton történő megküldésével tájékoztatni a minisztert.”

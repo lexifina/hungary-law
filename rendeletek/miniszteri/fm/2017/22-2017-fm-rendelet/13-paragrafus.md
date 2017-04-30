@@ -1,1 +1,0 @@
-## „(4) Az (1) és (2) bekezdésben foglaltaktól eltérően, az ökológiai termékek ágazatban történő elismerésének nem feltétele, hogy a szövetkezet alapszabálya megfeleljen a (2) bekezdés c) és e) pontjában foglalt feltételeknek.”
