@@ -224,7 +224,7 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^21]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^23]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -290,7 +290,19 @@ III. Egyéb
 
 28. Röntgen-képerősítőkben lévő alumínium és acél alkatrészek légzáró csatlakoztatásához használt ólom – a mentesség 2019. december 31-én lejár.
 
-29. Nyomtatott áramköri lapok forraszanyagaiban, villamos és elektronikai alkatrész-csatlakozások bevonatában, nyomtatott áramköri lapok bevonatában, huzalokat és kábeleket összekötő forraszanyagokban, standard működési és tárolási körülmények között tartósan –20 °C alatt használt átalakítókat és érzékelőket összekötő forraszanyagokban lévő ólom – a mentesség 2021. június 30-án lejár.
+29. A standard működési és tárolási körülmények között tartósan –20 °C alatt használt, alábbi alkalmazásokban lévő ólom:
+
+a) nyomtatott áramköri lapok forraszanyagai;
+
+b) villamos és elektronikai alkatrész-csatlakozások bevonata és nyomtatott áramköri lapok bevonata;
+
+c) huzalokat és kábeleket összekötő forraszanyagok;
+
+d) átalakítókat és érzékelőket összekötő forraszanyagok.
+
+Az időszakonként –150 °C alatti hőmérsékleten való használatra tervezett berendezések hőmérsékletmérő érzékelőinek elektromos összeköttetéseihez használt forraszanyagokban lévő ólom.
+
+A mentesség 2021. június 30-án lejár.
 
 30. Standard működési és tárolási körülmények között tartósan –20 °C alatt használt, nemmágneses csatlakozókat igénylő tűs csatlakozórendszerek bevonatában lévő ólom – a mentesség 2021. június 30-án lejár.
 
@@ -384,4 +396,6 @@ lejár.
 
 46. A magas frekvenciájú (>50MHz) működési módokra képes intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben lévő higany – a mentesség 2019. június 30-án lejár.
 
-[^21]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
+47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
+
+[^23]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.

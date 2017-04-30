@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-374-20-
 | 2015-12-10 | 2012-374-20-22.7 | 365/2015. (XII. 2.) Korm. rendelet |
 | 2016-12-31 | 2012-374-20-22.8 | 307/2016. (X. 13.) Korm. rendelet |
 | 2017-01-01 | 2012-374-20-22.9 | 30/2015. (II. 25.) Korm. rendelet |
+| 2017-04-30 | 2012-374-20-22.10 | 42/2017. (III. 7.) Korm. rendelet |

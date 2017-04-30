@@ -62,6 +62,10 @@
 
 31.[^17] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az orvostechnikai eszközökből származó és orvostechnikai eszközök vagy elektronmikroszkópok javítására vagy felújítására felhasználandó cserealkatrészekben található ólom, kadmium, hat vegyértékű króm és polibrómozott difenil-éterek (PBDE) mentesítése tekintetében a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. február 12-i 2016/585/EU bizottsági irányelvnek
 
+32.[^18] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az egyes berendezések hőmérsékletmérő érzékelőinek elektromos összeköttetéseihez használt forraszanyagban lévő ólomra irányuló mentesítés tekintetében, a műszaki fejlődéshez való hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1028/EU bizottsági irányelvnek,
+
+33.[^19] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az ipari felügyeleti és vezérlő eszközökben használt egyes oxigénérzékelők Hersch-celláiban található kadmiumanódok mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1029/EU bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 [^13]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -69,3 +73,5 @@ való megfelelést szolgálja.
 [^15]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
 [^16]: A 16. § 30. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
 [^17]: A 16. § 31. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 16. § 32. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 16. § 33. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
