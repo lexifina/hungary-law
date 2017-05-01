@@ -25,3 +25,5 @@ d) az Európai Unió 1997. december 18-án elfogadott Egyezménye a vámszervek 
 e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve,
 
 f) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 2. § 9. és 10. pontjával, 8. § l) pontjával, és 42/A–42/D. §-ával.
+
+(3) Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
