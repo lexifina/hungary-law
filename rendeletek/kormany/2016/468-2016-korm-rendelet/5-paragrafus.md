@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. § A KR. 17. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 4. § a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
+## „(6) Viszonosság esetén a Magyarországon működő diplomáciai és hivatásos konzuli tisztviselő által vezetett konzuli képviselet, valamint Magyarországon székhellyel rendelkező nemzetközi szervezet diplomáciai, valamint igazgatási, műszaki személyzetének tagja, továbbá családtagja külföldön kiállított vezetői engedélye a (4) bekezdés rendelkezéseitől eltérően időkorlátozás nélkül jogosít járművezetésre, Magyarország területén történő tartózkodás kezdetétől számított egy éven belül, azt kérelemre vezetési és közlekedési alapismeretekből tett vizsga nélkül magyar vezetői engedélyre kell honosítani.”

@@ -2,9 +2,12 @@
 
 ## 32. § Hatályát veszti a KR.
 
-a)[^28]
+a)[^22]
 
-b)–d)[^29]
+b) 60. § (2) bekezdés b) pontja,
 
-[^28]: A 32. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 32. § b)–d) pontja a 33. § (3) bekezdése alapján 2017. május 1-jén lép hatályba.
+c) 13. melléklet 2. pontja,
+
+d) 13. melléklet 7. pontjában a „– kivéve a CK –” szövegrész.
+
+[^22]: A 32. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
