@@ -1,6 +1,6 @@
-## 27. §[^57] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
+## 27. §[^64] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
 
-1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^58]
+1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^65]
 
 1. Belföldi egyéni, családos igényjogosulti térítési díjak a Magyar Honvédség (a továbbiakban: MH) rekreációt végző szervezeténél
 
@@ -86,7 +86,7 @@
 
 | 6. |  | Gyermek kategória – 3–12 éves kor között (a felnőtt térítés 60%-a) | 360 | 540 |
 
-2. Belföldi egyéni, családos igényjogosulti térítési díjak az MH regenerálódást és kiképzést segítő szervezetének egész évben működő intézményeinél
+2. Igényjogosulti térítési díjak az MH regenerálódást és kiképzést végző szervezetének egész évben működő intézményeinél
 
 |  | A | B | C | D |
 
@@ -107,6 +107,54 @@
 | 8. | fürdőszobás szoba (hétközi és hétvégi pihenés) | 2600 | 2860 |
 
 | 9. | lakosztály (hétközi és hétvégi pihenés) | 2925 | 3125 |
+
+| 10. | MH regenerálódást és kiképzést végző szervezete (Erdőbénye) | fürdőszoba nélküli szoba (regeneráló pihenés) | 1700 | 1900 |
+
+| 11. | fürdőszobás szoba Vendégház (regeneráló pihenés) | 2000 | 2200 |
+
+| 12. | fürdőszobás szoba Kastély (regeneráló pihenés) | 2250 | 2400 |
+
+| 13. | lakosztály (regeneráló pihenés) | 2870 | 3070 |
+
+| 14. | Villa (regeneráló pihenés) | 2870 | 3070 |
+
+| 15. | fürdőszoba nélküli szoba (hétközi és hétvégi pihenés | 2270 | 2470 |
+
+| 16. | fürdőszobás szoba Vendégház (hétközi és hétvégi pihenés) | 2600 | 2860 |
+
+| 17. | fürdőszobás szoba Kastély (hétközi és hétvégi pihenés) | 2925 | 3125 |
+
+| 18. | lakosztály (hétközi és hétvégi pihenés) | 3570 | 3770 |
+
+| 19. | Villa (hétközi és hétvégi) pihenés | 3570 | 3770 |
+
+2a. Nem igényjogosulti térítési díjak az Erdőbényén működő MH regenerálódást és kiképzést végző szervezeténél az elő- és utószezonban
+
+|  | A | B | C | D | E |
+
+| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni nettó térítési díj reggelivel (Ft/fő/vendégéjszaka) | Elő- és utószezoni félpanziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) | Elő- és utószezoni teljes panziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) |
+
+| 2. | MH regenerálódást és kiképzést végző szervezete (Erdőbénye) | Fürdőszobás szoba Vendégház | 4581 | 5726 | 7158 |
+
+| 3. | Fürdőszobás szoba Kastély | 5675 | 6854 | 8329 |
+
+| 4. | Lakosztály | 6263 | 7456 | 8948 |
+
+| 5. | Villa | 6263 | 7456 | 8948 |
+
+2b. Nem igényjogosulti térítési díjak az Erdőbényén működő MH regenerálódást és kiképzést végző szervezeténél főszezonban
+
+|  | A | B | C | D | E |
+
+| 1. | Intézmény megnevezése | Szoba kategória | Főszezoni nettó térítési díj reggelivel (Ft/fő/vendégéjszaka) | Főszezoni félpanziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) | Főszezoni teljes panziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) |
+
+| 2. | MH regenerálódást és kiképzést végző szervezete (Erdőbénye) | Fürdőszobás szoba Vendégház | 5039 | 6299 | 7874 |
+
+| 3. | Fürdőszobás szoba Kastély | 6063 | 7323 | 8898 |
+
+| 4. | Lakosztály | 6614 | 7874 | 9449 |
+
+| 5. | Villa | 6614 | 7874 | 9449 |
 
 3. Belföldi egyéni, családos igényjogosulti térítési díjak az MH regenerálódást és kiképzést segítő szervezetének szezonálisan működő intézményeinél
 
@@ -138,5 +186,5 @@
 
 | 3. | Gyermektábor (2 hét/13 éjszaka) | 27 100 |
 
-[^57]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
-[^58]: Az 1. melléklet a 6/2016. (IV. 15.) HM rendelet 15. §-a, 16. § i) pontja és 17. § e) pontja szerint módosított szöveg.
+[^64]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
+[^65]: Az 1. melléklet a 6/2016. (IV. 15.) HM rendelet 15. §-a, 16. § i) pontja és 17. § e) pontja, a 4/2017. (IV. 28.) HM rendelet 16. § (1) bekezdése szerint módosított szöveg.

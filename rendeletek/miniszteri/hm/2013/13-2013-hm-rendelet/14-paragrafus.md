@@ -1,6 +1,6 @@
-14. § (1)[^24] A 12. § (1) bekezdés a)–e) pontja szerinti igényjogosult a főszezoni rekreáció igénybevétele iránti kérelmét a honvédelmi szervezetnél a 23. § (2) bekezdés b) pontja szerint kijelölt személyhez nyújthatja be, a miniszteri utasítás szerinti nyomtatványon, a tárgyév március 20-ig.
+14. § (1)[^29] A 12. § (1) bekezdés a)–e) pontja szerinti igényjogosult a főszezoni rekreáció igénybevétele iránti kérelmét a honvédelmi szervezetnél a 23. § (2) bekezdés b) pontja szerint kijelölt személyhez nyújthatja be, a miniszteri utasítás szerinti nyomtatványon, a tárgyév március 20-ig.
 
-(2)[^25] A 12. § (1) bekezdés
+(2)[^30] A 12. § (1) bekezdés
 
 a) g)–k) pontja szerinti igényjogosult elő- és főszezoni rekreáció igénybevétele iránti kérelmét a tárgyévet megelőző év november 1-jéig, az utószezonra vonatkozó kérelmét tárgyév március 20-ig, a lakhely szerint illetékes katonai igazgatási szervhez,
 
@@ -8,16 +8,16 @@ b) f) pontja szerinti igényjogosult a főszezoni rekreáció igénybevétele ir
 
 ## a miniszteri utasítás szerinti nyomtatványon nyújthatja be.
 
-(3)[^26]
+(3)[^31]
 
 (4) A 9. § (3) bekezdését a rekreáció igénybe vételére is alkalmazni kell.
 
-(5)[^27] A 12. § (1) bekezdés a)–k) pontja szerinti igényjogosult az MH rekreációt végző szervezete által üzemeltetett Honvéd Kemping igénybevétele iránti kérelmét közvetlenül az MH rekreációt végző szervezete részére küldi meg, legalább az igénybevételt megelőzően egy héttel.
+(5)[^32] A 12. § (1) bekezdés a)–k) pontja szerinti igényjogosult az MH rekreációt végző szervezete által üzemeltetett Honvéd Kemping igénybevétele iránti kérelmét közvetlenül az MH rekreációt végző szervezete részére küldi meg, legalább az igénybevételt megelőzően egy héttel.
 
-(6)[^28] A 12. § (1) bekezdés a)-e) pontja szerinti igényjogosult elő- és utószezoni rekreáció igénybevétele iránti kérelmét az igénybevétel napját megelőző 21. napig az MH rekreációt végző szervezetének küldi meg a miniszteri utasítás szerinti nyomtatványon.
+(6)[^33] A 12. § (1) bekezdés a)-e) pontja szerinti igényjogosult elő- és utószezoni rekreáció igénybevétele iránti kérelmét az igénybevétel napját megelőző 21. napig az MH rekreációt végző szervezetének küldi meg a miniszteri utasítás szerinti nyomtatványon.
 
-[^24]: A 14. § (1) bekezdése a 6/2016. (IV. 15.) HM rendelet 16. § d) pontja szerint módosított szöveg.
-[^25]: A 14. § (2) bekezdése a 6/2016. (IV. 15.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^26]: A 14. § (3) bekezdését a 6/2016. (IV. 15.) HM rendelet 17. § c) pontja hatályon kívül helyezte.
-[^27]: A 14. § (5) bekezdését a 6/2016. (IV. 15.) HM rendelet 7. § (2) bekezdése iktatta be.
-[^28]: A 14. § (6) bekezdését a 6/2016. (IV. 15.) HM rendelet 7. § (2) bekezdése iktatta be.
+[^29]: A 14. § (1) bekezdése a 6/2016. (IV. 15.) HM rendelet 16. § d) pontja szerint módosított szöveg.
+[^30]: A 14. § (2) bekezdése a 6/2016. (IV. 15.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^31]: A 14. § (3) bekezdését a 6/2016. (IV. 15.) HM rendelet 17. § c) pontja hatályon kívül helyezte.
+[^32]: A 14. § (5) bekezdését a 6/2016. (IV. 15.) HM rendelet 7. § (2) bekezdése iktatta be.
+[^33]: A 14. § (6) bekezdését a 6/2016. (IV. 15.) HM rendelet 7. § (2) bekezdése iktatta be.
