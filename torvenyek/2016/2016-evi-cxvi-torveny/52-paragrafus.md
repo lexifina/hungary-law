@@ -1,6 +1,6 @@
 52. § (1) A Mavtv.
 
-a)
+a) 9. § (1) bekezdésében „az Európai Rendőrségi Hivatal” szövegrész helyébe „a Bűnüldözési Együttműködés Európai Uniós Ügynöksége” és
 
 b)
 
