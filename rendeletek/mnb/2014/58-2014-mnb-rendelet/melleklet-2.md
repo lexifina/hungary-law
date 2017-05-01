@@ -22,7 +22,7 @@
 
 ## Az elszámolást és szerződésmódosítást szabályozó jogszabályok: 2014. évi XXXVIII. törvény; 2014. évi XL. törvény; 2014. évi LXXVII. törvény; 2014. évi LXXVIII. törvény; 42/2014. (XI. 7.) MNB rendelet; 54/2014. (XII. 10.) MNB rendelet; 55/2014. (XII. 10.) MNB rendelet; 58/2014. (XII. 17.) MNB rendelet.”
 
-2. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^11]
+2. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^16]
 
 A 2. § (2) bekezdés szerinti, követeléskezelő által megküldendő tájékoztató levél formai követelményei, kötelezően feltüntetendő tartalmi elemei, valamint a követeléskezelő által kialakítandó tartalmi elemei
 
@@ -100,4 +100,4 @@ Felhívjuk szíves figyelmét arra, hogy a Magyar Nemzeti Bank mellett működő
 
 Az elszámolást szabályozó jogszabályok: 2014. évi XXXVIII. törvény; 2014. évi XL. törvény; 42/2014. (XI. 7.) MNB rendelet; 54/2014. (XII. 10.) MNB rendelet; 55/2014. (XII. 10.) MNB rendelet; 58/2014. (XII. 17.) MNB rendelet.
 
-[^11]: A 2. melléklet a 3/2015. (II. 20.) MNB rendelet 4. §-ával megállapított szöveg.
+[^16]: A 2. melléklet a 3/2015. (II. 20.) MNB rendelet 4. §-ával megállapított szöveg.

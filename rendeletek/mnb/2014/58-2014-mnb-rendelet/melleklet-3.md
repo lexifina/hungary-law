@@ -1,4 +1,4 @@
-3. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^12]
+3. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^17]
 
 ## A 2. § (3) bekezdés szerinti, 1996. évi CXII. törvény 200/B. § alapján, kedvezményes végtörlesztés következtében megszűnt fogyasztói kölcsönszerződések esetében megküldendő tájékoztató levél formai követelményei, kötelezően feltüntetendő tartalmi elemei, valamint a pénzügyi intézmény által kialakítandó tartalmi elemei
 
@@ -54,4 +54,4 @@ Felhívjuk szíves figyelmét arra, hogy a Magyar Nemzeti Bank mellett működő
 
 Az elszámolást szabályozó jogszabályok: 2014. évi XXXVIII. törvény; 2014. évi XL. törvény; 42/2014. (XI. 7.) MNB rendelet; 54/2014. (XII. 10.) MNB rendelet; 55/2014. (XII. 10.) MNB rendelet; 58/2014. (XII. 17.) MNB rendelet.
 
-[^12]: A 3. melléklet a 3/2015. (II. 20.) MNB rendelet 5. §-ával megállapított szöveg.
+[^17]: A 3. melléklet a 3/2015. (II. 20.) MNB rendelet 5. §-ával megállapított szöveg.

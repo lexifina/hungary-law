@@ -24,4 +24,6 @@
 
 ## <pénzügyi intézmény megnevezése>
 
-6. melléklet az 58/2014. (XII. 17.) MNB rendelethez
+6–7. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^20]
+
+[^20]: A 6–7. mellékletet a 11/2017. (IV. 24.) MNB rendelet 2. § k) pontja hatályon kívül helyezte.

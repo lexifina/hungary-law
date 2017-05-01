@@ -1,10 +1,10 @@
-2. § (1)[^1] A pénzügyi intézmény a 2014. évi XL. törvényben meghatározott elszámolásról (a továbbiakban: elszámolás) – a (3) és (3a) bekezdésben foglalt kivétellel – az 1. melléklet szerinti szerkezetű és tartalmú értesítő levélben nyújt tájékoztatást a fogyasztó részére.
+2. § (1)[^1] A pénzügyi intézmény a 2014. évi XL. törvényben meghatározott elszámolásról (a továbbiakban: elszámolás) – a (3) bekezdésben foglalt kivétellel – az 1. melléklet szerinti szerkezetű és tartalmú értesítő levélben nyújt tájékoztatást a fogyasztó részére.
 
 (2) A követeléskezelő a 2014. évi XL. törvény 7. § (2) bekezdésében meghatározott elszámolásról a 2. melléklet szerinti szerkezetű és tartalmú értesítő levélben nyújt tájékoztatást a fogyasztó részére.
 
 (3) A pénzügyi intézmény a 2014. évi XL. törvény 10. § (1) bekezdésében meghatározott elszámolásról a 3. melléklet szerinti szerkezetű és tartalmú értesítő levélben nyújt tájékoztatást a fogyasztó részére.
 
-(3a)[^2] A 2014. évi XL. törvény szerinti elszámolási kötelezettség teljesítésére nyitva álló határidő lejártáig a szerződésből eredő követelés teljesítésére irányuló kötelezettség fennmaradása nélkül megszűnt, egyoldalú kamat-, díj- és költségemeléssel nem érintett forint alapú fogyasztói kölcsönszerződés esetén a pénzügyi intézmény oly módon is teljesítheti elszámolási kötelezettségét, hogy a 3. § (2) bekezdésében foglaltak szerint közzétett közleményben tájékoztatást ad arról, hogy a közleményben megjelölt pénzügyi szolgáltatás-típusok esetében elszámolás megküldésére nem kerül sor azokban az esetekben, amikor a 2014. évi XL. törvény szerinti elszámolási kötelezettség teljesítésére nyitva álló határidő lejártáig a szerződésből eredő követelés teljesítésére irányuló kötelezettség fennmaradása nélkül szűnt meg a forint alapú fogyasztói kölcsönszerződés, és a pénzügyi intézmény egyoldalúan nem emelt kamatot, díjat és költséget.
+(3a)[^2]
 
 (4) Az (1)–(3) bekezdés szerinti értesítő levélben a pénzügyi intézmény a következő tárgyköröket érintő tájékoztatást nyújtja az érintett fogyasztó részére:
 
@@ -28,6 +28,6 @@ e)[^3]
 
 (9) A felszámoló, illetve végelszámoló az 1–4. mellékletek felszámolás, illetve végelszámolás alatt álló intézményekre vonatkozó külön elszámolási szabályok figyelembevételével történő módosításával alakítja ki az elszámolásról szóló értesítő levél tartalmát. Az alkalmazni kívánt értesítő levél mintát a felszámoló, illetve végelszámoló a Magyar Nemzeti Bank (a továbbiakban: MNB) részére 2014. december 31-ig megküldi, amelyet az MNB 2015. január 31-ig jóváhagy.
 
-[^1]: A 2. § (1) bekezdése a 22/2015. (VII. 20.) MNB rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^2]: A 2. § (3a) bekezdését a 22/2015. (VII. 20.) MNB rendelet 1. §-a iktatta be.
+[^1]: A 2. § (1) bekezdése a 11/2017. (IV. 24.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (3a) bekezdését a 22/2015. (VII. 20.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte a 11/2017. (IV. 24.) MNB rendelet 2. § b) pontja.
 [^3]: A 2. § (4) bekezdés e) pontját a 3/2015. (II. 20.) MNB rendelet 8. §-a hatályon kívül helyezte.
