@@ -30,9 +30,11 @@ e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó
 
 f) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdés,
 
-g) az írásbeli jognyilatkozatok esetében a 20. § (8) bekezdése
+g)
 
 nem alkalmazható(k).
+
+(3a) Az írásbeli jognyilatkozatok esetében a 20. § (1), (2), (6), (8) és (9) bekezdését kell, a 20. § (3)–(5), (7) és 21. § (4) bekezdését – a munkáltató döntésétől függően – lehet alkalmazni.
 
 (4) Az Országgyűlés Hivatala és az Országgyűlési Őrség szervezeti és működési szabályzata a 80. § (1)–(2) bekezdésben és a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 

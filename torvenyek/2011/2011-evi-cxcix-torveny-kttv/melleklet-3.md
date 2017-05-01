@@ -20,7 +20,7 @@
 
 ## 8. fizetési számlaszáma
 
-## 9. email címe
+## 9. email címe és a 21. § (2) bekezdés szerinti elektronikus elérhetősége
 
 ## 10. fényképe
 

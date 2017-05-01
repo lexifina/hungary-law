@@ -4,12 +4,22 @@
 
 (3) Az (5) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
 
-(4) A nyilatkozatevő személyének (3) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírása vagy minősített elektronikus aláírása.
+(4) A nyilatkozattevő személyének (3) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő fokozott biztonságú vagy minősített elektronikus aláírása.
 
 (5) A kinevezés és annak elfogadása, a kinevezés módosítása, a közszolgálat megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 
-(6) Az (5) bekezdés szerint elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt, vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A közszolgálati tisztviselővel a papír alapú kiadmányt kell közölni.
+(6) Az írásbeli jognyilatkozat akkor minősül közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza. Erről jegyzőkönyvet kell felvenni.
 
-(7) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot az (5) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (6) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
+(7) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
 
-(8) Az írásbeli jognyilatkozatokat az államigazgatási szerveknél foglalkoztatott közszolgálati tisztviselők esetében a (3) bekezdés szerinti elektronikus dokumentumban kell kiadni vagy az (5) és (6) bekezdés szerint kell kiadmányozni.
+(8) Papír alapú kiadmány esetében a (6) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény többletszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
+
+a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a cím azonosíthatatlansága, a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a kézbesítés megkísérlésének napján,
+
+b) ha a küldemény „nem kereste” kézbesíthetetlenségi ok jelzés feltüntetésével érkezik vissza, az értesítés elhelyezésének napját követő ötödik munkanapon
+
+kézbesítettnek kell tekinteni.
+
+(9) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
+
+(10) Az írásbeli jognyilatkozatokat a kormánytisztviselők esetében a (3) és (5) bekezdés szerint kell kiadmányozni és a (6) bekezdés, valamint a 21. § szerint kézbesíteni.

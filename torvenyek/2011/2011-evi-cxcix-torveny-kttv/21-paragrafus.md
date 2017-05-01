@@ -1,19 +1,9 @@
 ## A jognyilatkozat közlése
 
-21. § (1) Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza.
+21. § (1) Az elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-ában és a 15. § (2) és (3) bekezdésében foglalt rendelkezéseket a (3) bekezdésben foglalt eltérésekkel megfelelően alkalmazni kell azzal, hogy ügyfél alatt közszolgálati tisztviselőt, elektronikus ügyintézést biztosító szerv alatt pedig az államigazgatási szervet kell érteni.
 
-(2) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát a közszolgálatból eredő kötelezettsége teljesítésével összefüggésben megismerje.
+(2) A közszolgálati tisztviselő köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A közszolgálati tisztviselő e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
 
-(2a) Ha a munkáltató a jognyilatkozatot az elektronikus dokumentum hozzáférhetővé tétele útján közölte, és a címzett vagy az átvételre jogosult más személy az elektronikus dokumentum átvételét öt napon belül nem igazolja vissza, a munkáltató másik írásbeli formában közli vele a jognyilatkozatot. Ilyen esetben a jognyilatkozat közlésének napja a második közlés napja.
+(3) Az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
-(3) Az (1) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény különszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
-
-a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a kézbesítés megkísérlésének napján,
-
-b) egyéb esetekben az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon
-
-kézbesítettnek kell tekinteni.
-
-(4) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (3) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a vélelem beálltától számított hat hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
-
-(5) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
+(4) Ha az elektronikus dokumentum elektronikus kézbesítése (vagy a kézbesítési vélelem szabályainak alkalmazása) bármely okból nem lehetséges, vagy az a jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A közszolgálati tisztviselővel a papír alapú kiadmányt kell közölni.
