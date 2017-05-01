@@ -25,3 +25,5 @@ k) 24. pontjában meghatározott tárgykört.
 (2) A polgári nemzetbiztonsági szolgálatok esetében a miniszter a kihelyezett állományra és a 336. § (3) bekezdése szerinti, kihelyezett állományból rendelkezési állományba helyezettekre vonatkozó különös szabályokat közjogi szervezetszabályozó eszközben állapítja meg.
 
 (3) A 341. § (4) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
+
+(4) A polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg azon szolgálati beosztásokat, ahol a 6/A. § (3)–(5) bekezdése, valamint a 362/C. § nem alkalmazható.

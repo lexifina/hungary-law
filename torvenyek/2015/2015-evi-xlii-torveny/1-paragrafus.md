@@ -48,7 +48,7 @@ is alkalmazni kell.
 
 (6) A 14. §-t, a 290/A. §-t, valamint a XXIX. és XXX. Fejezet rendelkezéseit a rendvédelmi szervvel közalkalmazotti jogviszonyban állókra is alkalmazni kell.
 
-(7) A XXVIII. Fejezet rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra kell alkalmazni.
+(7) A 290. § rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra, a 290/B. §-t a rendvédelmi szervnél igazságügyi alkalmazotti jogviszonyban kell alkalmazni.
 
 (8) A rendvédelmi egészségkárosodási keresetkiegészítésre és a rendvédelmi egészségkárosodási járadékra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állomány volt tagjára és közeli hozzátartozóira is alkalmazni kell.
 

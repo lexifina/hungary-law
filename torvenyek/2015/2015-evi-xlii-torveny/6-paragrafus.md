@@ -16,14 +16,16 @@ d) a fegyelmi, méltatlansági, kártérítési és személyiségi jogsértés t
 
 e) a baleset vagy betegség szolgálattal való összefüggését minősítő határozat.
 
-(4) A (6) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot akkor is, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+(4) A jognyilatkozat akkor is írásbelinek tekinthető, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
 
 (5) A nyilatkozattevő személyének (4) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírása vagy minősített elektronikus aláírása.
 
 (6) A szolgálati viszony létesítésével, a szolgálati viszony módosításával és a szolgálati viszony megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, méltatlansági vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 
-(7) A (6) bekezdés szerint elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A hivatásos állomány tagjával a papír alapú kiadmányt kell közölni.
+(7) A szolgálati viszony módosításával és a szolgálati viszony megszüntetésével összefüggésben, a fegyelmi, méltatlansági vagy kártérítési ügyben, a sérelemdíj megfizetése ügyében, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás tárgyában a hivatásos állomány tagja nyilatkozatát legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentumban teheti meg.
 
 (8) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot a (6) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (7) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
 
-(9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével – a (6) bekezdés szerinti elektronikus dokumentumban kell kiadni vagy a (7) és (8) bekezdés szerint kell kiadmányozni.
+(9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével, valamint a (10) bekezdésben foglalt eltéréssel – a (4) vagy (6) bekezdés szerint kell kiadmányozni és a 6/A. § szerint kell kézbesíteni.
+
+(10) A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében az írásbeli jognyilatkozatot papír alapú vagy elektronikus dokumentumban kell kiadmányozni és közölni. A miniszter közjogi szervezetszabályozó eszközében meghatározott szolgálati beosztások esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható.

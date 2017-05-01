@@ -20,4 +20,4 @@ c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielé
 
 (6) A munkavállalónak a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
 
-(7) A rendvédelmi szervnél foglalkoztatott munkavállaló munkaviszonyára a 6. § (4)–(9) bekezdését kell alkalmazni.
+(7) A rendvédelmi szervnél foglalkoztatott munkavállaló munkaviszonyára a 6. § (4)–(9) bekezdését és a 6/A. §-t kell alkalmazni.

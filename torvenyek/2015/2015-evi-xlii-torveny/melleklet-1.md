@@ -18,7 +18,7 @@ e) anyja születési neve,
 
 f) lakóhely, lakáscím, tartózkodási hely,
 
-g) elérhetőséget biztosító telefonszám(ok), e-mail cím(ek),
+g) elérhetőséget biztosító telefonszám(ok), email cím(ek) és a 6/A. § (4) bekezdése szerinti elektronikus elérhetőség,
 
 h) családi állapot,
 
