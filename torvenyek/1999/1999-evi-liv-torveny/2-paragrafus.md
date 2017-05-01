@@ -1,6 +1,6 @@
 2. § E törvény alkalmazásában
 
-a) nemzetközi bűnügyi együttműködés céljából létrehozott szervezet: az Európai Rendőrségi Hivatal (EUROPOL), az Európai Csalásellenes Hivatal (OLAF), a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL), a Schengeni Információs Rendszer (SIS) központja, valamint a bűnüldöző szervek együttműködését szabályozó egyéb többoldalú nemzetközi szerződésen alapuló regionális bűnüldözési szervezetek központja;
+a) nemzetközi bűnügyi együttműködés céljából létrehozott szervezet: az EUROPOL, az Európai Csalásellenes Hivatal (OLAF), a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL), a Schengeni Információs Rendszer (SIS) központja, valamint a bűnüldöző szervek együttműködését szabályozó egyéb többoldalú nemzetközi szerződésen alapuló regionális bűnüldözési szervezetek központja;
 
 b) magyar együttműködő szerv:
 

@@ -1,1 +1,1 @@
-19. § Ez a törvény az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozatnak való megfelelést szolgálja.
+19. § Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/795/EU európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.

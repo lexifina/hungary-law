@@ -6,4 +6,4 @@ b) az a szerv, amely e személyre vonatkozó, a NEBEK által az Europol Informá
 
 haladéktalanul köteles a NEBEK-nél kezdeményezni ezen adatok törlését az Europol Információs Rendszerből.
 
-(2) A NEBEK az Europol Információs Rendszerbe továbbított adatok tekintetében az adattovábbítást követően az Európai Rendőrségi Hivatal (EUROPOL) erre vonatkozó értesítését követően haladéktalanul az adat további tárolása szükségességének felülvizsgálatát kezdeményezi annál a szervnél, amelynél az adat keletkezett, illetve amely az adat továbbítását kezdeményezte.
+(2) A NEBEK az EUROPOL-nak továbbított adatok tekintetében az adattovábbítást követően az EUROPOL erre vonatkozó értesítését követően haladéktalanul az adat további tárolása szükségességének felülvizsgálatát kezdeményezi annál a szervnél, amelynél az adat keletkezett, illetve amely az adat továbbítását kezdeményezte.
