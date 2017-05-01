@@ -12,6 +12,8 @@ c) – a Kincstár útján, a helyi adókról szóló 1990. évi C. törvény (a
 
 (3) A szerződésben a Kincstár vállalja, hogy a helyi önkormányzatok szakrendszerekben, valamint az önkormányzati adattárházban tárolt adatai biztonságát technológiai és adminisztratív eszközökkel biztosítja és garantálja, hogy azokat csak a törvényben, valamint az e rendeletben meghatározott szerveknek teszi hozzáférhetővé.
 
-(4) A Kincstár és a helyi önkormányzat a szerződésben megállapodhat a helyi önkormányzat iratkezelő rendszerében legfeljebb 5 évre visszamenőleg tárolt adatállománynak az iratkezelő szakrendszerbe történő migrálásáról. Ebben az esetben a migrálást az iratkezelő rendszer szállítója végzi el és ennek költségeit a helyi önkormányzat állja.
+(4)[^6]
 
 (5) Az önkormányzati ASP rendszer szolgáltatásainak igénybevétele a helyi önkormányzat számára térítésmentes.
+
+[^6]: A 7. § (4) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.

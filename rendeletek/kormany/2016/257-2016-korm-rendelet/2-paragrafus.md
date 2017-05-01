@@ -10,4 +10,6 @@ b) a szolgáltatási szerződések csatlakozó szervezetekkel való megkötése 
 
 c) ügyfélszolgálat biztosításával a szolgáltatással kapcsolatos ügyfél-kapcsolattartási, tájékoztatási és adminisztratív feladatok ellátása, biztosítva a hibabejelentés lehetőségét,
 
-d) a szolgáltatásokkal kapcsolatos kommunikációs és képzési feladatok elvégzése.
+d)[^2] a szolgáltatásokkal kapcsolatos kommunikációs és képzési feladatok koordinációja.
+
+[^2]: A 2. § (2) bekezdés d) pontja a 100/2017. (IV. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

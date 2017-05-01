@@ -1,9 +1,13 @@
-15. § (1) Az önkormányzati ASP rendszer gazdálkodási rendszeréhez való csatlakozásra 2018. január 1-jével köteles önkormányzatok az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 8. § (1) bekezdésében, továbbá a 3., az 5–10. és a 14–16. mellékletben előírt tartalommal
+15. §[^22] (1) Az önkormányzati ASP rendszer gazdálkodási rendszeréhez való csatlakozásra köteles önkormányzatok a 3. mellékletben foglalt táblázat 1. sora szerinti, a 2018. évre vonatkozó végleges adataikat 2019. március 31-ig az önkormányzati adattárházba feltöltik.
 
-a) 2017. december 31-ig a 2017. évre vonatkozóan rendelkezésre álló,
+(2) Az önkormányzat által alapított költségvetési szerv (a továbbiakban: önkormányzati költségvetési szerv) azon feladatait, amelyek támogatására az önkormányzati ASP rendszer gazdálkodási rendszere is képes (a továbbiakban: gazdálkodási feladatok), a gazdálkodási szakrendszer azon önkormányzati költségvetési szervek vonatkozásában támogatja,
 
-b) 2018. március 31-ig a 2017. évre vonatkozó végleges
+a) amelyek esetében a gazdálkodási feladatokat 2016. szeptember 1. napján is a polgármesteri hivatal vagy a közös önkormányzati hivatal látta el,
 
-## aggregált adataikat az önkormányzati adattárházba feltöltik.
+b) amelyek 2016. szeptember 1. napját követően jöttek létre, jogszabály alapján önálló gazdasági szervezettel nem rendelkezhetnek, és a gazdasági szervezet feladatait esetükben a polgármesteri hivatal vagy a közös önkormányzati hivatal látja el,
 
-(2) Azon önkormányzatok esetében, ahol a polgármesteri hivatal vagy a közös önkormányzati hivatal e rendelet hatálybalépésekor gazdasági társaságnak nem minősülő önkormányzati intézmény számára olyan gazdálkodási feladatot lát el, amelyet az önkormányzati ASP rendszer gazdálkodási rendszere támogatni képes, e feladat ellátását az önkormányzati ASP rendszer gazdálkodási rendszere a csatlakozás után is támogatja.
+c) amelyek esetében az önkormányzat a gazdálkodási feladatok támogatását 2017. június 15-ig az e-közigazgatásért felelős minisztertől – annak megkeresése alapján – kéri, és e kérelme alapján az e-közigazgatásért felelős miniszter az önkormányzati költségvetési szerv csatlakozásához hozzájárult.
+
+(3) Az e-közigazgatásért felelős miniszter a (2) bekezdés c) pontja szerinti döntését – a Kincstár véleményének kikérése mellett – a rendelkezésre álló kapacitások figyelembevétele alapján, 45 napon belül hozza meg. Döntését indokolni nem köteles.
+
+[^22]: A 15. § a 100/2017. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.

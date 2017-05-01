@@ -8,7 +8,7 @@ b) – az önkormányzati ASP rendszer által támogatott feladatok önálló in
 
 ## csatlakozhat.
 
-(2) A 3. § (2) bekezdés b) pontjában meghatározott szakrendszer igénybevétele a helyi önkormányzat számára nem kötelező.
+(2)[^5]
 
 (3) Rendszercsatlakozás esetén
 
@@ -25,3 +25,5 @@ a) az interfész kiépítéséhez szükséges fejlesztésekről a helyi önkorm�
 b) az interfész technológiai megfelelőségét a csatlakozás előtt az e-közigazgatásért felelős miniszter ellenőrzi.
 
 (5) Azon polgármesteri hivatal, illetve közös önkormányzati hivatali székhely esetében, ahol a Nemzeti Távközlési Gerinchálózat kiépítésre kerül, az önkormányzati ASP rendszerhez való csatlakozás ezen hálózaton keresztül valósul meg.
+
+[^5]: A 6. § (2) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.

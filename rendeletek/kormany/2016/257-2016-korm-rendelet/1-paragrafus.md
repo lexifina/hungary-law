@@ -4,7 +4,7 @@
 
 1. alapinfrastruktúra: az önkormányzati ASP rendszer működését biztosító adatközponti és hálózati informatikai infrastruktúra, valamint a szakrendszeri átjárhatóságot és a külső rendszerkapcsolatok kiépítésének lehetőségét biztosító integrációs platformszolgáltatás;
 
-2. alkalmazásüzemeltetés: az alkalmazások elérhetővé tétele és működtetése, jogosultságkezelés, hibakezelés; a rendszertámogatási szerződések megkötése;
+2.[^1] alkalmazásüzemeltetés: az alkalmazások elérhetővé tétele és működtetése, az alkalmazásokkal kapcsolatos képzési feladatok elvégzése, jogosultságkezelés, hibakezelés; a rendszertámogatási szerződések megkötése;
 
 3. csatlakozás: a szolgáltatások tényleges használatának megkezdése;
 
@@ -19,3 +19,5 @@
 8. szakrendszer: az önkormányzati ASP rendszer által nyújtott, igazgatási feladatokat támogató szakalkalmazás;
 
 9. ügyféltámogatás: a működéssel kapcsolatos felhasználói segítségkérelmek megválaszolása.
+
+[^1]: Az 1. § 2. pontja a 100/2017. (IV. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
