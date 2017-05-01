@@ -4,7 +4,7 @@
 
 (2) A bizottsági rendelet 85. cikk (1) bekezdés a) pontja alapján az intézkedés keretében támogatható termékek listáját a 4. melléklet tartalmazza.
 
-(3)[^42] A termelői szervezeteknek a be nem takarítási művelet alkalmazására vonatkozó szándékukról a bizottsági rendelet 85. cikk (2) bekezdésében hivatkozott előzetes értesítést kell benyújtaniuk a Kincstár által rendszeresített és a honlapján közleményben közzétett formanyomtatványon. Az előzetes értesítésnek tartalmaznia kell az intézkedés által érintett termék és területnagyság meghatározására, és az intézkedés végrehajtása helyszínének és időpontjának azonosítására alkalmas adatokat. Az értesítést legkésőbb öt nappal az adott termék betakarítási periódusát megelőzően kell megküldeni a Kincstárhoz.
+(3)[^43] A termelői szervezeteknek a be nem takarítási művelet alkalmazására vonatkozó szándékukról a bizottsági rendelet 85. cikk (2) bekezdésében hivatkozott előzetes értesítést kell benyújtaniuk a Kincstár által rendszeresített és a honlapján közleményben közzétett formanyomtatványon. Az előzetes értesítésnek tartalmaznia kell az intézkedés által érintett termék és területnagyság meghatározására, és az intézkedés végrehajtása helyszínének és időpontjának azonosítására alkalmas adatokat. Az értesítést legkésőbb öt nappal az adott termék betakarítási periódusát megelőzően kell megküldeni a Kincstárhoz.
 
 (4) Az igényelhető legmagasabb támogatási összegeket a miniszter a bizottsági rendelet 85. cikk (4) bekezdés b) pontja alapján a működési programban – a bizottsági rendelet 85. cikk (3) bekezdés második albekezdése alkalmazása esetén az intézkedés végrehajtását követő hat hét termésmennyiségének vonatkozásában – 1 hektárra vetítve határozza meg.
 
@@ -16,7 +16,7 @@ b) talajba történő bedolgozás (a bejelentett területen lévő termés lekas
 
 c) egyéb, a termelői szervezet által megfelelően indokolt és a miniszter által a működési program részeként jóváhagyott intézkedés, amely a válságmegelőzést és -kezelést szolgálja.
 
-(6)[^43] A be nem takarítási intézkedés alapján csak abban az esetben vehető igénybe támogatás, ha a bejelentett terület vonatkozásában a Kincstár a helyszíni ellenőrzés során is megállapítja az intézkedés alkalmazásával összefüggő szabályok maradéktalan betartását.
+(6)[^44] A be nem takarítási intézkedés alapján csak abban az esetben vehető igénybe támogatás, ha a bejelentett terület vonatkozásában a Kincstár a helyszíni ellenőrzés során is megállapítja az intézkedés alkalmazásával összefüggő szabályok maradéktalan betartását.
 
-[^42]: A 21. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 58. § d) és g) pontja szerint módosított szöveg.
-[^43]: A 21. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 58. § d) pontja szerint módosított szöveg.
+[^43]: A 21. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 58. § d) és g) pontja szerint módosított szöveg.
+[^44]: A 21. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 58. § d) pontja szerint módosított szöveg.

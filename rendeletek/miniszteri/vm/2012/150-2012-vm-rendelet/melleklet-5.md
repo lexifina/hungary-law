@@ -70,6 +70,6 @@
 
 ## 35. Fűszerpaprika
 
-5. melléklet a 150/2012. (XII. 28.) VM rendelethez[^78]
+5. melléklet a 150/2012. (XII. 28.) VM rendelethez[^79]
 
-[^78]: Az 5. melléklet a 88/2016. (XII. 29.) FM rendelet 58. § d) pontja szerint módosított szöveg.
+[^79]: Az 5. melléklet a 88/2016. (XII. 29.) FM rendelet 58. § d) pontja szerint módosított szöveg.

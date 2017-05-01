@@ -4,7 +4,7 @@
 
 (2) Egyesülés esetén az elismerési tervet vagy a működési programot módosítani kell. Az erre vonatkozó kérelmet a cégbírósági bejegyzést követő harminc napon belül kell megküldeni a minisztériumnak.
 
-(3)[^17] Ha az egyes zöldség-gyümölcs termelői csoportok vagy termelői szervezetek egyesülésére az (1) bekezdés szerint nincs lehetőség, a gazdasági társaságként működő zöldség-gyümölcs termelői csoport, vagy termelői szervezet és a szövetkezeti formában működő zöldség-gyümölcs termelői csoport, vagy termelői szervezet egymással szerződést köthet, amelyben vállalják, hogy
+(3)[^18] Ha az egyes zöldség-gyümölcs termelői csoportok vagy termelői szervezetek egyesülésére az (1) bekezdés szerint nincs lehetőség, a gazdasági társaságként működő zöldség-gyümölcs termelői csoport, vagy termelői szervezet és a szövetkezeti formában működő zöldség-gyümölcs termelői csoport, vagy termelői szervezet egymással szerződést köthet, amelyben vállalják, hogy
 
 a) a szerződés létrejöttének napján az átadó zöldség-gyümölcs termelői csoportban, vagy termelői szervezetben nyilvántartott tagok legalább kilencven százaléka igazoltan tagsági viszonyt létesít az átvevő zöldség-gyümölcs termelői csoportban vagy termelői szervezetben, és
 
@@ -12,4 +12,4 @@ b) a zöldség-gyümölcs termelői csoport vagy termelői szervezet státuszáb
 
 (4) A (3) bekezdés szerinti szerződés létrejöttéhez a miniszter jóváhagyása szükséges.
 
-[^17]: A 10. § (3) bekezdése a 22/2014. (III. 14.) VM rendelet 90. § a) pontja szerint módosított szöveg.
+[^18]: A 10. § (3) bekezdése a 22/2014. (III. 14.) VM rendelet 90. § a) pontja szerint módosított szöveg.

@@ -406,7 +406,7 @@
 
 ## A hulladékgazdálkodás a hulladékkal összefüggő tevékenységek rendszere, beleértve a hulladék keletkezésének megelőzését, mennyiségének és veszélyességének csökkentését, kezelését, ezek tervezését és ellenőrzését, a kezelő berendezések és létesítmények üzemeltetését, bezárását, utógondozását, a működés felhagyását követő vizsgálatokat, valamint az ezekhez kapcsolódó szaktanácsadást és oktatást. A hulladékgazdálkodás alapvető célja az emberi egészség védelme, a természeti környezet megóvása, a fenntartható fejlődés biztosítása és a környezettudatos magatartás kialakítása. A célok között említhető továbbá a természeti erőforrásokkal való takarékoskodás, a környezet hulladék által okozott terhelésének minimalizálása, szennyezésének elkerülése érdekében a hulladékkeletkezés megelőzése (a természettől elsajátított anyag minél teljesebb felhasználása, hosszú élettartamú és újrahasználható termékek kialakítása), a képződő hulladék mennyiségének és veszélyességének csökkentése, a keletkező hulladék minél nagyobb arányú hasznosítása, a fogyasztás-termelés körforgásban tartása, a nem hasznosuló, vissza nem forgatható hulladék környezetkímélő ártalmatlanítása.
 
-## A hasznosítás a hulladéknak vagy valamely összetevőjének a termelésben vagy a szolgáltatásban – a hulladékról szóló 2012. évi CLXXXV.. törvény[^80] 3. mellékletben felsorolt eljárások valamelyikének alkalmazásával – történő felhasználását jelenti. Így a hulladék anyagának termelésben, szolgáltatásban történő ismételt felhasználásával (újrafeldolgozásával), a hulladék valamely újrafeldolgozható összetevőjének leválasztásával és alapanyaggá alakításával (visszanyerésével), a hulladék energiatartalmának kinyerésével (energetikai hasznosítással), valamint a biológiailag lebomló szerves anyagok aerob vagy anaerob lebontásával és további felhasználásra alkalmassá tételével (pl. komposztálás) a környezetterhelés mérsékelhető.
+## A hasznosítás a hulladéknak vagy valamely összetevőjének a termelésben vagy a szolgáltatásban – a hulladékról szóló 2012. évi CLXXXV.. törvény[^81] 3. mellékletben felsorolt eljárások valamelyikének alkalmazásával – történő felhasználását jelenti. Így a hulladék anyagának termelésben, szolgáltatásban történő ismételt felhasználásával (újrafeldolgozásával), a hulladék valamely újrafeldolgozható összetevőjének leválasztásával és alapanyaggá alakításával (visszanyerésével), a hulladék energiatartalmának kinyerésével (energetikai hasznosítással), valamint a biológiailag lebomló szerves anyagok aerob vagy anaerob lebontásával és további felhasználásra alkalmassá tételével (pl. komposztálás) a környezetterhelés mérsékelhető.
 
 ## 2.4.1. A biológiailag lebomló szerves anyagok aerob lebontása és további felhasználásra alkalmassá tétele (Komposztkészítés)
 
@@ -1086,7 +1086,7 @@
 
 ## A támogatás ÚMVP keretében történik. Az intézkedés – a kettős finanszírozás elkerülése érdekében – nem támogatható a működési alapból.
 
-7. melléklet a 150/2012. (XII. 28.) VM rendelethez[^81]
+7. melléklet a 150/2012. (XII. 28.) VM rendelethez[^82]
 
 | Termelői szervezet neve: |  |
 
@@ -1908,5 +1908,5 @@ Képzési terv:
 
 A 4/B 3 és 4/B 4 pontok alapján kell kitölteni ezt a táblázatot!
 
-[^80]: A 2000. évi XLIII. törvény 2012. december 31-ig hatályos.
-[^81]: A 7. melléklet a 8/2016. (II. 11.) FM rendelet 15. §-a szerint módosított szöveg.
+[^81]: A 2000. évi XLIII. törvény 2012. december 31-ig hatályos.
+[^82]: A 7. melléklet a 8/2016. (II. 11.) FM rendelet 15. §-a szerint módosított szöveg.

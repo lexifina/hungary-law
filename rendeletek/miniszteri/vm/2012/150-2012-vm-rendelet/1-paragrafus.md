@@ -32,6 +32,6 @@ n) termelői szervezet: a tanácsi rendelet 122. cikk a) pont (iii) pontjában m
 
 o) zöldség-gyümölcs termelői csoport: a tanácsi rendelet 125e. cikkében meghatározott szervezet, figyelemmel a 203a. cikk (4) bekezdésében foglaltakra;
 
-p)[^1] nem termelő tag: aki vagy amely nem tartozik az 1. § m) pontja alá, vagy az 1. § m) pont szerinti termelő, aki vagy amely a termelői csoportban vagy termelői szervezetben nem rendelkezik a bizottsági rendelet által meghatározott forgalmazott termék értékébe beszámítható terméke vonatkozásában tagsági jogviszonnyal.
+p)[^2] nem termelő tag: aki vagy amely nem tartozik az 1. § m) pontja alá, vagy az 1. § m) pont szerinti termelő, aki vagy amely a termelői csoportban vagy termelői szervezetben nem rendelkezik a bizottsági rendelet által meghatározott forgalmazott termék értékébe beszámítható terméke vonatkozásában tagsági jogviszonnyal.
 
-[^1]: Az 1. § p) pontját a 65/2013. (VII. 29.) VM rendelet 19. §-a iktatta be.
+[^2]: Az 1. § p) pontját a 65/2013. (VII. 29.) VM rendelet 19. §-a iktatta be.
