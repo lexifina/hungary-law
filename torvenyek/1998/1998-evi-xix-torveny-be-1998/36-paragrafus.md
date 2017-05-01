@@ -22,4 +22,4 @@ g) az a)–f) pontban meghatározott bűncselekményekkel összefüggésben elk�
 
 (4) Külföldön lévő magyar kereskedelmi hajón vagy polgári légi járművön magyar állampolgár vagy – a Btk. 3. § (1) bekezdés b) pontjában, illetve a (2) bekezdésében meghatározott esetben – bárki által elkövetett bűncselekmény miatt a hajó, illetve a légi jármű parancsnoka jogosult a nyomozó hatóságra vonatkozó rendelkezések alkalmazására.
 
-(5) A nyomozó hatóságok a legfőbb ügyész engedélyével a külön törvényben meghatározott feltételek esetén az Európai Unió tagállamainak nyomozó hatóságai, továbbá az Európai Rendőrségi Hivatal (EUROPOL) részvételével egy ügyre vagy ügyek meghatározott csoportjaira közös nyomozó csoportot alakíthatnak, illetőleg abban részt vehetnek.
+(5) A nyomozó hatóságok a legfőbb ügyész engedélyével a külön törvényben meghatározott feltételek esetén az Európai Unió tagállamainak nyomozó hatóságai, továbbá a Bűnüldözési Együttműködés Európai Uniós Ügynöksége (EUROPOL) részvételével egy ügyre vagy ügyek meghatározott csoportjaira közös nyomozó csoportot alakíthatnak, illetőleg abban részt vehetnek.
