@@ -36,9 +36,9 @@ d) ahhoz hiteles magyar nyelvű fordítást csatoltak és annak segítségével 
 
 (5)[^52] A honosításra vonatkozó kötelezettség nem terjed ki a más EGT-államban kiállított vezetői engedélyre, amely az érvényességi idején belül jogosít járművezetésre. Ha egy másik EGT-állam által kiadott – az okmány érvényességi idejét nem tartalmazó – vezetői engedély jogosultja szokásos tartózkodási helyét Magyarországra helyezi át, ennek létesítését követő kettő év elteltével a vezetői engedélyének a cseréjét kezdeményeznie kell.
 
-(6) Viszonosság esetén a Magyarországon működő diplomáciai és konzuli képviselet, valamint Magyarországon székhellyel rendelkező nemzetközi szervezet diplomáciai, valamint igazgatási, műszaki személyzetének tagja, továbbá családtagja külföldön kiállított vezetői engedélye a (4) bekezdés rendelkezéseitől eltérően időkorlátozás nélkül jogosít járművezetésre.
+(6)[^53] Viszonosság esetén a Magyarországon működő diplomáciai és hivatásos konzuli tisztviselő által vezetett konzuli képviselet, valamint Magyarországon székhellyel rendelkező nemzetközi szervezet diplomáciai, valamint igazgatási, műszaki személyzetének tagja, továbbá családtagja külföldön kiállított vezetői engedélye a (4) bekezdés rendelkezéseitől eltérően időkorlátozás nélkül jogosít járművezetésre, Magyarország területén történő tartózkodás kezdetétől számított egy éven belül, azt kérelemre vezetési és közlekedési alapismeretekből tett vizsga nélkül magyar vezetői engedélyre kell honosítani.
 
-(7)[^53] A külföldi fegyveres erő állományának tagja és hozzátartozója külföldön kiállított vezetői engedélye a (4) bekezdéstől eltérően az érvényességi idején belül jogosít járművezetésre.
+(7)[^54] A külföldi fegyveres erő állományának tagja és hozzátartozója külföldön kiállított vezetői engedélye a (4) bekezdéstől eltérően az érvényességi idején belül jogosít járművezetésre.
 
 [^47]: A 17. § (1) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^48]: A 17. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
@@ -46,4 +46,5 @@ d) ahhoz hiteles magyar nyelvű fordítást csatoltak és annak segítségével 
 [^50]: A 17. § (3a) bekezdését a 90/2015. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
 [^51]: A 17. § (4) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
 [^52]: A 17. § (5) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
-[^53]: A 17. § (7) bekezdése a 319/2016. (X. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^53]: A 17. § (6) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^54]: A 17. § (7) bekezdése a 319/2016. (X. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

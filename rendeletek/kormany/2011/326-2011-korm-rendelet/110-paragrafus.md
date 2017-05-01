@@ -1,14 +1,14 @@
 110. § (1) A közlekedési igazgatási hatóság az ügyfél kérelmére véglegesen vonja ki a járművet a forgalomból:
 
-a)[^290] a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M1, N1 kategóriájú, valamint a motoros triciklinek nem minősülő háromkerekű gépjármű esetében bontási átvételi igazolás alapján;
+a)[^295] a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M1, N1 kategóriájú, valamint a motoros triciklinek nem minősülő háromkerekű gépjármű esetében bontási átvételi igazolás alapján;
 
 b) egyéb jármű esetében, ha annak ismételt belföldi forgalomba helyezési szándéka nem áll fenn.
 
-(1a)[^291] A közlekedési igazgatási hatóság a közterület-felügyeletnek a kerékbilincs közterület-felügyelet általi alkalmazására, a járművek elszállítására, valamint a felmerült költségekre vonatkozó szabályokról szóló 55/2009. (X. 16.) IRM rendelet 17. § (8) bekezdése szerinti kérelmére bontási átvételi igazolás alapján véglegesen vonja ki a járművet a forgalomból.
+(1a)[^296] A közlekedési igazgatási hatóság a közterület-felügyeletnek a kerékbilincs közterület-felügyelet általi alkalmazására, a járművek elszállítására, valamint a felmerült költségekre vonatkozó szabályokról szóló 55/2009. (X. 16.) IRM rendelet 17. § (8) bekezdése szerinti kérelmére bontási átvételi igazolás alapján véglegesen vonja ki a járművet a forgalomból.
 
-(2)[^292] Ha a jármű forgalomból történő végleges kivonására bontási átvételi igazolás alapján kerül sor, a jármű hatósági jelzését, forgalmi engedélyét és törzskönyvét – a közterület-felügyelet által kezdeményezett eljárás kivételével – a közlekedési igazgatási hatóságnál le kell adni.
+(2)[^297] Ha a jármű forgalomból történő végleges kivonására bontási átvételi igazolás alapján kerül sor, a jármű hatósági jelzését, forgalmi engedélyét és törzskönyvét – a közterület-felügyelet által kezdeményezett eljárás kivételével – a közlekedési igazgatási hatóságnál le kell adni.
 
-(3)[^293] A közlekedési igazgatási hatóság a jármű bontási átvételi igazolás alapján forgalomból történő végleges kivonása esetén a jármű hatósági jelzéseit selejtezés céljából megküldi a Nyilvántartónak, a forgalmi engedélyét és a törzskönyvét a bontási átvételi igazolás átvételével, valamint a bontási átvételi igazolás sorszámának járműnyilvántartásba történő bejegyzésével egyidejűleg egyszerűsített határozattal visszavonja.
+(3)[^298] A közlekedési igazgatási hatóság a jármű bontási átvételi igazolás alapján forgalomból történő végleges kivonása esetén a jármű hatósági jelzéseit selejtezés céljából megküldi a Nyilvántartónak, a forgalmi engedélyét és a törzskönyvét a bontási átvételi igazolás átvételével, valamint a bontási átvételi igazolás sorszámának járműnyilvántartásba történő bejegyzésével egyidejűleg egyszerűsített határozattal visszavonja.
 
 (4) A bontási átvételi igazolás alapján forgalomból végleg kivont jármű ismételten nem helyezhető forgalomba.
 
@@ -16,10 +16,10 @@ b) egyéb jármű esetében, ha annak ismételt belföldi forgalomba helyezési 
 
 (6) Amennyiben az (1) bekezdés b) pontja alapján kerül sor a jármű forgalomból történő végleges kivonására a hatósági jelzés visszavonásával, valamint a járműnyilvántartásba történő bejegyzéssel egyidejűleg a forgalmi engedélyt és a törzskönyvet érvénytelenítve vissza kell adni.
 
-(7)[^294] Az ügyfél kérelmére, valamint a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés k) és l) pontja, a 102. § (5) bekezdése, valamint a 109. § (3) bekezdése szerint hivatalból indult eljárást követően a jármű átmeneti időszakra történő forgalomból kivonása esetén a forgalomból történő kivonás járműnyilvántartásba bejegyzésétől számított öt év elteltével a járművet véglegesen forgalomból kivontnak kell tekinteni.
+(7)[^299] Az ügyfél kérelmére, valamint a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés k) és l) pontja, a 102. § (5) bekezdése, valamint a 109. § (3) bekezdése szerint hivatalból indult eljárást követően a jármű átmeneti időszakra történő forgalomból kivonása esetén a forgalomból történő kivonás járműnyilvántartásba bejegyzésétől számított öt év elteltével a járművet véglegesen forgalomból kivontnak kell tekinteni.
 
-[^290]: A 110. § (1) bekezdés a) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § q) pontja szerint módosított szöveg.
-[^291]: A 110. § (1a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 27. § (1) bekezdése iktatta be.
-[^292]: A 110. § (2) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^293]: A 110. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
-[^294]: A 110. § (7) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^295]: A 110. § (1) bekezdés a) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § q) pontja szerint módosított szöveg.
+[^296]: A 110. § (1a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^297]: A 110. § (2) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^298]: A 110. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^299]: A 110. § (7) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 28. §-ával megállapított szöveg.

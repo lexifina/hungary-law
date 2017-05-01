@@ -8,7 +8,7 @@ b) a közlekedési bűncselekmény vagy szabálysértés elkövetésével gyanú
 
 c) az eljárás során a járművezető betegségére, testi vagy szellemi, vagy érzékszervi fogyatékosságára vonatkozóan olyan tény merül fel, amely őt a járművezetésre egészségi szempontból alkalmatlanná teheti,
 
-d)[^120] a járművezetőt a bíróság cselekvőképességet részlegesen korlátozó gondnokság alá helyezte.
+d)[^121] a járművezetőt a bíróság cselekvőképességet részlegesen korlátozó gondnokság alá helyezte.
 
 (2) Az eljáró hatóság a járművezető rendkívüli pályaalkalmassági vizsgálatát kezdeményezi,
 
@@ -16,4 +16,4 @@ a) ha a járművezető az (1) bekezdés a) pontjában meghatározott balesetet o
 
 b) az eljárás során a járművezetést hátrányosan befolyásoló pszichés állapotára hivatkozik.
 
-[^120]: A 41. § (1) bekezdés d) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (4) bekezdése iktatta be.
+[^121]: A 41. § (1) bekezdés d) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (4) bekezdése iktatta be.

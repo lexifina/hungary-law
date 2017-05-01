@@ -1,8 +1,8 @@
-## 120/B. §[^322] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 120/D. §[^329] A 17. § (6) bekezdésében foglalt egy éves határidőtől a közlekedési igazgatási hatóság eltekinthet azon kérelmezők esetében, akik magyarországi külszolgálatukat a Módr.2. hatálybalépése[^330] előtt kezdték meg.
 
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^323] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^331] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
@@ -14,8 +14,9 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv,
 
-f)[^324] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke.
+f)[^332] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke.
 
-[^322]: A 120/B. §-t a 477/2016. (XII. 27.) Korm. rendelet 57. § (8) bekezdése iktatta be.
-[^323]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^324]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^329]: A 120/D. §-t a 468/2016. (XII. 23.) Korm. rendelet 29. §-a iktatta be.
+[^330]: A hatálybalépés időpontja 2017. január 2.
+[^331]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^332]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.

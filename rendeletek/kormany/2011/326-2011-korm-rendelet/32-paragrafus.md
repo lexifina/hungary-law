@@ -2,10 +2,10 @@
 
 ## 32. § Az ellenőrzésre jogosult szerv (a továbbiakban: ellenőrző hatóság) nevében eljáró személy (a továbbiakban: ellenőrző hatósági személy) az eljárása során a vezetői engedélyt a helyszínen elveszi, ha
 
-a)[^98] a járművezető azzal gyanúsítható, hogy közúti veszélyeztetés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 234. §], közúti baleset során maradandó fogyatékosságot, halált, kettőnél több ember halálát vagy halálos tömegszerencsétlenséget okozó közúti baleset okozása [Btk. 235. § (2) bekezdés], járművezetés ittas állapotban (Btk. 236. §), illetve járművezetés bódult állapotban (Btk. 237. §) bűncselekményt követett el,
+a)[^99] a járművezető azzal gyanúsítható, hogy közúti veszélyeztetés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 234. §], közúti baleset során maradandó fogyatékosságot, halált, kettőnél több ember halálát vagy halálos tömegszerencsétlenséget okozó közúti baleset okozása [Btk. 235. § (2) bekezdés], járművezetés ittas állapotban (Btk. 236. §), illetve járművezetés bódult állapotban (Btk. 237. §) bűncselekményt követett el,
 
 b) a járművezető járművezetéstől eltiltás hatálya alatt áll, vagy a közlekedési igazgatási hatóság a vezetési jogosultságának szünetelését jogerősen elrendelte,
 
 c) gyanú van arra, hogy a vezetői engedély hamis, meghamisították vagy azzal más módon visszaéltek.
 
-[^98]: A 32. § a) pontja a 172/2013. (V. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^99]: A 32. § a) pontja a 172/2013. (V. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
