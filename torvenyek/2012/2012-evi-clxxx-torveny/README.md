@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-180-00-00
 | 2016-01-01 | 2015. évi CXCI. törvény | 2012-180-00-00.12 |
 | 2016-10-28 | 2016. évi CIII. törvény | 2012-180-00-00.13 |
 | 2017-01-01 | 2016. évi CIII. törvény | 2012-180-00-00.14 |
+| 2017-05-01 | 2016. évi CIV. törvény | 2012-180-00-00.15 |
