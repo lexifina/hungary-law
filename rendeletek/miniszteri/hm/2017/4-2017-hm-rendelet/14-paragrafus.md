@@ -1,0 +1,1 @@
+## „(7) Az MH rekreációt végző szervezete szolgáltatásait az éves kedvezményes keret szerinti időtartamot meghaladó mértéken túl igénybe vevő igényjogosult, valamint az igényjogosulti körbe nem tartozó személy térítési díját az 1. melléklet 1a. pontja tartalmazza.”
