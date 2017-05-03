@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-452-20-
 | 2016-09-09 | 2015-452-20-22.4 | 163/2016. (VI. 17.) Korm. rendelet |
 | 2017-01-01 | 2015-452-20-22.5 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-28 | 2015-452-20-22.6 | 95/2017. (IV. 27.) Korm. rendelet |
+| 2017-05-03 | 2015-452-20-22.7 | 113/2017. (V. 2.) Korm. rendelet |

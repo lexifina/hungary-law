@@ -1,10 +1,10 @@
-## 10. §[^16] A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet módosításáról szóló 95/2017. (IV. 27.) Korm. rendelettel megállapított 6/A. §-a szerint megvalósított létesítményeket 2017. december 31-ig meg kell szüntetni.
+## 10. §[^19] A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet módosításáról szóló 95/2017. (IV. 27.) Korm. rendelettel megállapított 6/A. §-a szerint megvalósított létesítményeket 2017. december 31-ig meg kell szüntetni.
 
 1. melléklet a 452/2015. (XII. 28.) Korm. rendelethez
 
 ## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
-1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+1.[^20] építésügyi engedélyezési és tudomásulvételi eljárások,
 
 2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -30,7 +30,7 @@
 
 13. vasúti hatósági eljárások,
 
-13a.[^17] hajózási hatósági eljárások,
+13a.[^21] hajózási hatósági eljárások,
 
 14. ingatlan-nyilvántartással összefüggő hatósági eljárások,
 
@@ -50,5 +50,6 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^16]: A 10. §-t a 95/2017. (IV. 27.) Korm. rendelet 2. §-a iktatta be.
-[^17]: Az 1. melléklet 13a. pontját a 163/2016. (VI. 17.) Korm. rendelet 5. §-a iktatta be.
+[^19]: A 10. §-t a 95/2017. (IV. 27.) Korm. rendelet 2. §-a iktatta be.
+[^20]: Az 1. melléklet 1. pontja a 113/2017. (V. 2.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^21]: Az 1. melléklet 13a. pontját a 163/2016. (VI. 17.) Korm. rendelet 5. §-a iktatta be.

@@ -1,0 +1,12 @@
+## 6/A. §[^13] A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnoksággal összefüggésben a Budapest XIV. kerület, 29732/11 helyrajzi számú ingatlanon ideiglenes úszómedence és kapcsolódó létesítményei építési engedély, örökségvédelmi engedély és örökségvédelmi bejelentés nélkül elhelyezhetők.
+
+6/B. §[^14] (1) A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnoksággal összefüggésben Budapest XIII. kerület 25879 helyrajzi számú ingatlanon ideiglenes jelleggel tervezett pavilonok, így különösen elsősegély pavilon, információs pavilon, nemzeti pavilon, illemhely pavilon, jegyárusító pavilon, ajándék pavilon, bankjegykiadó automatát tartalmazó pavilon, csomagmegőrző pavilon, készpénzmentes fizetési célt szolgáló pavilon, muzeális céllal működő pavilon, szponzori pavilon, talált tárgyak pavilonja és további kiszolgáló pavilonok az építési helyre és beépítési paraméterekre vonatkozó előírások figyelembe vétele nélkül – a tűzvédelmi előírások betartása és a kiürítési feltételek biztosítása mellett – bárhol elhelyezhetőek azzal, hogy azokat 2018. január 31-ig el kell bontani.
+
+(2) A beruházással összefüggésben Budapest XIII. kerület 25879 helyrajzi számú ingatlanon a felújítás alatt álló strand épülete a világbajnokság ideje alatt használatba vehető azzal, hogy a kivitelezési munkát ezen időtartam alatt szüneteltetni kell, valamint a felelős műszaki vezetőnek nyilatkozatban igazolnia kell a használatbavétellel érintett épületrészek rendeltetésszerű és biztonságos használatát.
+
+(3) A beruházással összefüggésben Budapest Margitsziget 23800/7 helyrajzi számú ingatlanon a Hajós Alfréd Nemzeti Sportuszoda üzemeltetéséhez kapcsolódóan építési helyen kívül legfeljebb 150 m2 bruttó alapterületű vegyszertároló épület is elhelyezhető.
+
+(4) A beruházással összefüggésben Budapest XIII. kerület 25879 helyrajzi számú ingatlanon elhelyezésre kerülő ideiglenes jelleggel tervezett építmények, valamint a Budapest Margitsziget 23800/7 helyrajzi számú ingatlanon elhelyezésre kerülő vegyszertároló épület esetében, az építési engedély iránti kérelem benyújtását megelőzően legalább 5 nappal előzetes tervegyeztetést kell tartani a tűzvédelmi, valamint a vízügyi és vízvédelmi hatósággal. A tervegyeztetésről készült jegyzőkönyvet az építési engedély iránti kérelemhez mellékelni kell.
+
+[^13]: A 6/A. §-t a 95/2017. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 6/B. §-t a 113/2017. (V. 2.) Korm. rendelet 1. §-a iktatta be.
