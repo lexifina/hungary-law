@@ -2,4 +2,6 @@
 
 2. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti az MVM Paks II. Atomerőmű Fejlesztő Zártkörűen Működő Részvénytársaság felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló szervezet kijelöléséről szóló 45/2014. (XI. 14.) NFM rendelet.
+(2)[^2]
+
+[^2]: A 2. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
