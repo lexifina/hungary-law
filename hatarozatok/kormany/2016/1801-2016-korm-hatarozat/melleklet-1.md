@@ -18,7 +18,7 @@
 
 ## Határidő: 2016. december 30.
 
-1. melléklet az 1801/2016. (XII. 20.) Korm. határozathoz
+1. melléklet az 1801/2016. (XII. 20.) Korm. határozathoz[^1]
 
 | A fejlesztés megnevezése | A támogatás célja | A támogatás összege (millió Ft) | Kedvezményezett |
 
@@ -52,7 +52,7 @@
 
 | Munkácsi Labdarúgó Akadémia | a Munkácsi Labdarúgó Akadémia támogatása | 1 000 |
 
-| Csíkszereda Sport Akadémia | a Csíkszereda Sport Akadémia támogatása | 1 000 |  |
+| Csíkszereda Sport Akadémia | a Csíkszereda Sport Akadémia támogatása | 1 000 |
 
 | Sepsiszentgyörgy Sport Akadémia | a Sepsiszentgyörgy Sport Akadémia támogatása | 1 000 |
 
@@ -66,7 +66,7 @@
 
 | MLSZ Amatőr sporttelep felújítási program | a sporttelep-felújítási program támogatása, amely kiegészíti az MLSZ által irányított országos pályaépítési program célkitűzéseit | 1 000 |
 
-| Mezőkövesdi sportcentrum fejlesztése | új 45 szobás sportszálló építésének, meglévő faházak felújításának, meglévő konyhaépület felújításának, meglévő portaépület felújításának és személyzeti szálláshely bővítésének támogatása | 500 |
+| Mezőkövesdi sportcentrum fejlesztése | Egyéb sportcélú ingatlanok építése, felújítása | 500 |
 
 | Gyöngyöshermán- Szentkirály SE pályarekonstrukció | pálya felújítás, világítás kiépítésének támogatása | 11 |
 
@@ -78,7 +78,7 @@
 
 | Balmazújvárosi Sport Klub fejlesztései | a Balmazújvárosi Sport Klub támogatása | 500 |
 
-| Fehérgyarmat SC fejlesztései | műfüves pálya megépítésének, a meglévő élő füves pálya felújításának és a pálya körül rekortán pálya, lelátó megépítésének, öltöző épület tetőterének a beépítésének támogatása | 230 |  |
+| Fehérgyarmat SC fejlesztései | műfüves pálya megépítésének, a meglévő élő füves pálya felújításának és a pálya körül rekortán pálya, lelátó megépítésének, öltöző épület tetőterének a beépítésének támogatása | 230 |
 
 | Sopron SC létesítményfejlesztése | az Ágfalvi úti sportpályához új öltözőépület és lelátó korszerűsítésének támogatása | 251 |
 
@@ -91,3 +91,5 @@
 | Vasas létesítményfejlesztési programjának többlettámogatása | az Illovszky Stadion rekonstrukciós többletmunkálatainak támogatása, valamint az egyéb vagyonkezelésben lévő ingatlanok rekonstrukciójának támogatása | 5 400 | Vasas Sport Club |
 
 | Népliget rekonstrukciója | Fradiváros I. ütem | 10 000 | Ferencvárosi Torna Club |
+
+[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja szerint módosított szöveg.
