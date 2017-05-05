@@ -8,4 +8,4 @@
 
 (4) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a nemzetbiztonsági ellenőrzés lefolytatására írásban kéri fel a nemzetbiztonsági szolgálatot.
 
-(5) A nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 90. napig köteles kezdeményezni a kezdeményezésre jogosult az új nemzetbiztonsági ellenőrzést.
+(5) A nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 180. és 90. nap között köteles kezdeményezni a kezdeményezésre jogosult az új nemzetbiztonsági ellenőrzést.

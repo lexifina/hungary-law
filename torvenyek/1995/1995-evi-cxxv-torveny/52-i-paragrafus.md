@@ -12,7 +12,7 @@ a) a harmadik ország átvevő hatóságának a feladata bűncselekmények megel
 
 b) – az Európai Unió más tagállamtól származó utasadat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől az utasadat származik, előzetesen hozzájárult az utasadatok harmadik országnak történő átadásához.
 
-(6) Ha az (5) bekezdés a) pontja szerint kért utasadatot az adatelemek elrejtésével személytelenítették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha a kérelem kellően megalapozott és alapos okkal feltételezhető, hogy az adatkérés a 3. számú mellékletnek megfelelő bűncselekmény megelőzése, felderítése, nyomozása és üldözése céljára irányul, továbbá ha az ügyészség az adatok újbóli személyazonosításra alkalmassá tételére és átadására engedélyt adott.
+(6) Ha az (5) bekezdés a) pontja szerint kért utasadatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha a kérelem megalapozott és az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, feltéve, hogy az ügyészség az utasadatok újbóli személyazonosításra alkalmassá tételét követő átadására engedélyt adott. Az ügyészség engedélyének beszerzésére vonatkozóan az 52/L. §-t kell megfelelően alkalmazni.
 
 (7) Az Európai Unió más tagállamától származó utasadat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
 

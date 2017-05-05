@@ -34,19 +34,9 @@ e) a 2016/681/EU parlamenti és tanács irányelv szerinti általános megjegyz�
 
 f) a továbbított, 2016/681/EU parlamenti és tanács irányelv szerinti előzetes utasinformációs adat.
 
-(9a) Az utasadat személyazonosításra való újbóli alkalmassá tételét egyedi engedéllyel kizárólag az ügyészség rendelheti el, abban az esetben, ha a 3. számú mellékletben meghatározott bűncselekmények, valamint a Magyarország biztonságát és jogrendjét sértő, vagy azt veszélyeztető, szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmények felderítése és nyomozása, vagy ilyen bűntett előkészületére utaló gyanú ezt szükségessé teszi.
+(9a)
 
-(10) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (9a) bekezdés szerinti egyedi engedély alapján ismét személyazonosításra alkalmassá tett adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
-
-a) a személyazonosításra való újbóli alkalmassá tétel rövid indokolását,
-
-b) a személyazonosításra való újbóli alkalmassá tétel időpontját,
-
-c) az érintett adatok körét és
-
-d) azt, hogy mely szerv kérésére került sor a személyazonosításra való újbóli alkalmassá tételre.
-
-(11) A (10) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett utasadatokkal azonos ideig kell megőrizni, az utasadatokkal egyidejűleg törölni kell.
+(10)–(11)
 
 (12)
 
