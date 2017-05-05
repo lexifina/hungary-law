@@ -6,7 +6,7 @@
 
 1. § E törvény alkalmazásában
 
-1. űrlapbenyújtás támogatási szolgáltatás: a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását biztosító szolgáltatás;
+1. űrlapbenyújtás-támogatási szolgáltatás: a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását biztosító szolgáltatás;
 
 2. archiválási szolgáltatás: az elektronikus dokumentumok hosszú távú megőrzésére vonatkozó szolgáltatás, amely magában foglalja a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 3. cikk 16. pont c) alpontja szerinti bizalmi szolgáltatást is;
 

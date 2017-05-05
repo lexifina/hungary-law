@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-222-00-00
 | 2016-12-23 | 2016. évi CLVIII. törvény | 2015-222-00-00.8 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2015-222-00-00.9 |
 | 2017-01-02 | 2010. évi CXXX. törvény | 2015-222-00-00.10 |
+| 2017-05-05 | 2017. évi XXXIII. törvény | 2015-222-00-00.11 |

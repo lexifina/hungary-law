@@ -6,4 +6,6 @@ b) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a biza
 
 c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
+d) a 104/A. § (1) bekezdés a) pontja alapján a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszert, valamint a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv által igénybevett központosított informatikai és hírközlési szolgáltatásokat
+
 rendeletben állapítsa meg.

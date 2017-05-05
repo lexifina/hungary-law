@@ -26,7 +26,7 @@ j) központi azonosítási ügynök,
 
 k) személyre szabott ügyintézési felület,
 
-l) ÁNYK űrlapbenyújtás támogatási szolgáltatás,
+l) űrlapbenyújtás-támogatási szolgáltatás,
 
 m) központi dokumentumhitelesítési ügynök,
 

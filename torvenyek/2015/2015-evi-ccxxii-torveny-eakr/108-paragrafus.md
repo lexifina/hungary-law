@@ -14,6 +14,8 @@
 
 (4) Az elektronikus ügyintézést 2017. január 1-jén már biztosító, az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. április 30-ig a Kormány által rendeletben meghatározott adatokat elektronikus úton, a Felügyelet által rendszeresített elektronikus űrlapon a Felügyelet számára bejelentik.
 
+(4a) Az 1. § 17. pont d) alpontja szerinti jogalanyok esetében a (2), a (3) és a (4) bekezdésben, valamint a 109. § (2)–(3) bekezdésében meghatározott jogokat és kötelezettségeket az Országos Bírósági Hivatal teljesíti, illetve gyakorolja.
+
 (5) A 9. § (1) bekezdése szerinti kötelezettségének az ügyfél vagy jogi képviselő – ha törvény eltérően nem rendelkezik – 2018. január 1. napjától köteles eleget tenni.
 
 (6) A 14. § (1) bekezdés szerinti kötelezettséget a Második Rész hatálybalépésekor már létező gazdálkodó szervezet 2017. augusztus 30-ig köteles teljesíteni.
