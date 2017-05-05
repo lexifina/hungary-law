@@ -10,4 +10,4 @@
 
 (6) A polgárőr egyesület polgárőri szolgálat ellátása érdekében a jogszabályban meghatározottak szerint jogosult az egységes digitális rádió-távközlő rendszer használatára.
 
-(7) A 3. § (2) bekezdés j) pontja szerinti kiegészítő feladata ellátása során a polgárőr köteles magánál tartani a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozás által kiállított igazolást.
+(7) A 3. § (2) bekezdés j) pontja szerinti kiegészítő feladata ellátása során a polgárőr köteles magánál tartani a közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatást végző vállalkozás által kiállított igazolást.

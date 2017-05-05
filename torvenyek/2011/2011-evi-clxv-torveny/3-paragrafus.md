@@ -22,6 +22,6 @@ h) a polgárőr egyesület feladataival összefüggő oktatási, kulturális, is
 
 i) a körözött tárgyak, személyek és holttestek azonosításában és felkutatásában, valamint
 
-j) a közforgalmú vasúti személyszállítási szolgáltatás rendjének biztosításában.
+j) a közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatás rendjének biztosításában.
 
 (3) A polgárőr egyesület (1) bekezdésben meghatározott alapfeladatait más társadalmi szervezet nem végezheti, ilyen célra más társadalmi szervezet nem alapítható.

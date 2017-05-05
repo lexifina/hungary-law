@@ -12,6 +12,6 @@ c) a polgárőr egyesületet, vagy a területi polgárőr szövetséget a megyei
 
 d) a polgárőr egyesület az érintett önkormányzattal írásban erre irányuló együttműködési megállapodást kötött, vagy
 
-e) a polgárőr egyesület a – 3. § (2) bekezdés j) pontjában meghatározott feladat ellátására – közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást kötött.
+e) a polgárőr egyesület a – 3. § (2) bekezdés j) pontjában meghatározott feladat ellátására – közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást kötött.
 
 (3) Amennyiben az általános rendőrségi feladatok ellátására létrehozott szerv arról tájékoztatja a polgárőr egyesületet, hogy működési területén fokozott ellenőrzést hajt végre, ennek tartama alatt a polgárőr egyesület saját feladatainak ellátását köteles bejelenteni és a fokozott ellenőrzést elrendelő rendőri szerv utasításainak megfelelően eljárni.

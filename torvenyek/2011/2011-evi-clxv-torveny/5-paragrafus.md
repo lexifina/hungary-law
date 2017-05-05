@@ -34,4 +34,4 @@ d) az együttműködők valamelyike jogutód nélkül megszűnik.
 
 (8) Ha a polgárőr egyesületnek korábban azért kellett az e törvény szerinti tevékenységével felhagynia, mert az együttműködési megállapodást a megyei (fővárosi) rendőr-főkapitányság felmondta, akkor e polgárőr egyesülettel, valamint a tagjai által alapított új polgárőr egyesülettel az azonnali hatályú felmondástól számított 1 éven belül nem köthető újabb együttműködési megállapodás.
 
-(9) A 4. § (4) bekezdésben meghatározott együttműködési megállapodásra az (1)–(8) bekezdésben meghatározott előírásokat kell értelemszerűen alkalmazni, azzal, hogy a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozás a polgárőr részére írásbeli igazolást állít ki a tevékenység folytatásához.
+(9) A 4. § (4) bekezdésben meghatározott együttműködési megállapodásra az (1)–(8) bekezdésben meghatározott előírásokat kell értelemszerűen alkalmazni, azzal, hogy a közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatást végző vállalkozás a polgárőr részére írásbeli igazolást állít ki a tevékenység folytatásához.
