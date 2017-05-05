@@ -1,3 +1,1 @@
-92. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 25. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az elektronikus ügyintézést biztosító szervek kötelesek az ügyek intézésével kapcsolatos, a Kormány rendeletében meghatározott adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – legalább a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben mentéseket létrehozni, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldeni. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.”
+92. §
