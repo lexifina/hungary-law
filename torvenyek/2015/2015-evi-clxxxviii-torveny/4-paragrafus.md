@@ -16,11 +16,11 @@ f) a menekültügyi nyilvántartásban tárolt arcképmásból képzett arckép 
 
 g) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok központi útiokmány-nyilvántartásban tárolt arcképmásából képzett arckép profilokat, valamint
 
-h) az a)–g) pontban meghatározott adathoz rendelt technikai kapcsoló számot.
+h) az a)–g) pontban meghatározott adathoz rendelt technikai kapcsoló számot, valamint a metaadatokat.
 
-(2) Az adatközlésre kötelezett szerv az általa vezetett nyilvántartásban szereplő természetes személyhez és annak arcképmásához rendelten technikai kapcsoló számot képez. Az adatközlésre kötelezett szerv az arcképmást és a technikai kapcsoló számot közvetlen adatkapcsolat útján továbbítja a központi szerv részére.
+(2) Az adatközlésre kötelezett szerv az általa vezetett nyilvántartásban szereplő természetes személyhez és annak arcképmásához rendelten technikai kapcsoló számot képez. Az adatközlésre kötelezett szerv az arcképmást, a technikai kapcsoló számot és a metaadatokat közvetlen adatkapcsolat útján továbbítja a központi szerv részére.
 
-(3) A (2) bekezdés szerint továbbított arcképmásból a központi szerv arckép profilt képez és azt a technikai kapcsoló számmal együtt nyilvántartásba veszi. A központi szerv az arckép profil és a technikai kapcsoló szám nyilvántartásba vételét követően a részére továbbított arcképmást haladéktalanul törli.
+(3) A (2) bekezdés szerint továbbított arcképmásból a központi szerv arckép profilt képez és azt a technikai kapcsoló számmal és a metaadatokkal együtt nyilvántartásba veszi. A központi szerv az arckép profil és a technikai kapcsoló szám nyilvántartásba vételét követően a részére továbbított arcképmást haladéktalanul törli.
 
 (4) Ha az adatközlésre kötelezett szerv a természetes személy több arcképmását tartja nyilván, a (2) és (3) bekezdés szerinti eljárást valamennyi arcképmás tekintetében le kell folytatni.
 
@@ -44,4 +44,4 @@ g) az (1) bekezdés g) pontjában meghatározott esetben 15 év
 
 eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technikai kapcsoló számot képzett.
 
-(7) A központi szerv az adatközlésre kötelezett szerv (6) bekezdésben meghatározott értesítése alapján haladéktalanul törli a nyilvántartásból az értesítésben megjelölt technikai kapcsoló számot és az ahhoz tartozó, általa kezelt arckép profilt, valamint az adatközlésre kötelezett szerv az ezen arckép profil alapjául szolgáló arcképmáshoz kapcsolódóan általa nyilvántartott technikai kapcsoló számot.
+(7) A központi szerv az adatközlésre kötelezett szerv (6) bekezdésben meghatározott értesítése alapján haladéktalanul törli a nyilvántartásból az értesítésben megjelölt technikai kapcsoló számot, az ahhoz tartozó, általa kezelt arckép profilt és a metaadatokat, valamint az adatközlésre kötelezett szerv az ezen arckép profil alapjául szolgáló arcképmáshoz kapcsolódóan általa nyilvántartott technikai kapcsoló számot.
