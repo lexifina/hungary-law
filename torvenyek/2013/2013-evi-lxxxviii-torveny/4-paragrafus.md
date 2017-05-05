@@ -60,11 +60,15 @@ hd) tartalmi leírását.
 
 (4) A körözött dolgok nyilvántartásába a körözési eljárás során ismertté vált, a (2) bekezdés a) pontjában, b) pont bb) alpontjában, c) pont cb) alpontjában, e), f) és h) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti.
 
-(5) A nyilvántartó a (2) bekezdés a) pont ab) alpontjában szereplő adatokat – azok változásának nyomon követése céljából – a (2) bekezdés a)–h) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
+(5) A nyilvántartó a (2) bekezdés a) pont ab) alpontjában szereplő adatokat – azok ellenőrzésének és változásának nyomon követése céljából – a (2) bekezdés a)–h) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor elektronikus úton összehasonlítja
 
-a) a gépjármű-nyilvántartás adataival,
+a) a közúti közlekedési nyilvántartás engedély- és jármű-nyilvántartás adataival,
 
-b) a talált dolgok nyilvántartása adataival.
+b) a talált dolgok nyilvántartásának adataival,
+
+c) az útiokmány-nyilvántartás adataival, valamint
+
+d) a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok nyilvántartásának adataival.
 
 (6) Az adatváltozást a (5) bekezdés szerinti adategyeztetés után a körözött dolgok nyilvántartásában haladéktalanul át kell vezetni.
 
@@ -76,7 +80,9 @@ b) állatok esetén – ha a körözés visszavonására nem került sor – a k
 
 c) a körözött közokirat érvényességi idejének lejártától számított 10 évig,
 
-d) az a)–c) pontok alá nem tartozó olyan esetben, amikor a körözés elrendelésének oka elvesztés, 5 évig
+d) az a)–c) pontok alá nem tartozó olyan esetben, amikor a körözés elrendelésének oka elvesztés, 5 évig,
+
+e) lőfegyver esetén a körözés elrendelésétől számított 90 évig
 
 kezeli.
 

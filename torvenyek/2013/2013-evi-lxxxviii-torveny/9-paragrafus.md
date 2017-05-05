@@ -6,7 +6,7 @@ a) az arra jogosultnak közvetlen hozzáféréssel adatátvételt biztosít a ny
 
 b) az arra jogosult részére adatigénylés alapján adattovábbítást végez, vagy
 
-c) az arra jogosult kérelmére adatot igazol.
+c) a körözés tényére vonatkozóan adatot igazol.
 
 (2) A nyilvántartó a nyilvántartásból
 

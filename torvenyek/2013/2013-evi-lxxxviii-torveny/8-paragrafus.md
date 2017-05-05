@@ -1,6 +1,6 @@
 ## 8. A nyilvántartás közérdekből nyilvános adattartalma
 
-8. § (1) Elfogatóparancs, európai elfogatóparancs vagy olyan nemzetközi körözés alapján elrendelt körözési eljárás esetén, amely a körözött személy őrizetbe vételére, előállítására irányul, a 3. § (2) bekezdés a) pont aa)–ad) és ag) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
+8. § (1) Elfogatóparancs, európai elfogatóparancs alapján elrendelt körözési eljárás esetén, amely a körözött személy őrizetbe vételére, előállítására irányul, a 3. § (2) bekezdés a) pont aa)–ad) és ag) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
 
 (2) A bíróság, ügyész vagy nyomozó hatóság döntése alapján – tárgyi bizonyítási eszköz megtalálása érdekében elrendelt dolog körözése esetén – a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
 
