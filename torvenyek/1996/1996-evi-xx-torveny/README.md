@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2016-01-15 | 2015. évi CCXIX. törvény | 1996-20-00-00.52 |
 | 2016-07-01 | 2016. évi XXXII. törvény | 1996-20-00-00.53 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 1996-20-00-00.54 |
+| 2017-05-05 | 2017. évi XXXIII. törvény | 1996-20-00-00.55 |

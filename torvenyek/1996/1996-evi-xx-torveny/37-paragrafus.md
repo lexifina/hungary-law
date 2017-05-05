@@ -36,7 +36,7 @@ b) az idegenrendészeti hatóságnak a bevándorolt és a letelepedett polgár c
 
 c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
 
-d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
+d)
 
 e) a központi menekültügyi szervnek a menekült és oltalmazott jogállású személyek családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről.
 
