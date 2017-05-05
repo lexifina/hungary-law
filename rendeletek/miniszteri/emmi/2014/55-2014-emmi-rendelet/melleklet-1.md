@@ -1,6 +1,6 @@
-## 3. § A rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
+## 3. §[^1] A rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-1. melléklet az 55/2014. (XII. 30.) EMMI rendelethez[^1]
+1. melléklet az 55/2014. (XII. 30.) EMMI rendelethez[^2]
 
 ## ÚJ PSZICHOAKTÍV ANYAGOK JEGYZÉKE
 
@@ -74,7 +74,7 @@ szerkezeti részt tartalmazó vegyületek, amelyekben
 
 1.20.2. olyan részlegesen vagy teljesen telített biciklusos gyűrűrendszer tagja, amely 7–10 szénatomból és egy vagy két nitrogénatomból áll, vagy
 
-1.20.3. valin-, 3-metilvalin-, fenilalanin-metilészter szerkezeti rész alfa-nitrogénatomja, vagy
+1.20.3. valin-, 3-metilvalin-, fenilalanin-metilészter vagy valin-, 3-metilvalin-, fenilalanin-etilészter szerkezeti rész alfa nitrogénatomja, vagy
 
 1.20.4. valin-, 3-metilvalin-, fenilalanin-amid szerkezeti rész alfa-nitrogénatomja, vagy
 
@@ -139,6 +139,16 @@ szerkezeti részt tartalmazó vegyületek, amelyekben
 4.4.2. halogénatomot, benzil-, benziloxi-, amino-, ciano-, nitro-, trimetilén- (propán-1,3 diil), metiléndioxi- (metilénbiszoxi-), etiléndioxi- (etilénbiszoxi-), etilénoxi-, etendiiloxi-, etilénimino- (etilénazandiil-), etendiilimino- (eten-1,2-diilazandiil-) csoportot tartalmazhat.
 
 tartalmazhat.
+
+4a. Azok az N-fenil-1-(2-feniletil)-4-piperidinamin szerkezeti részt tartalmazó vegyületek, amelyekben
+
+4a. 1. a piperidinamin rész nitrogénatomjához 1–4 szénatomszámú alkil- vagy alkenil- vagy metoxialkil- vagy 3–6 szénatomos cikloalkilcsoportot, illetve furanil- vagy tetrahidrofuranil-csoportot tartalmazó karbonil-rész szénatomja kapcsolódik,
+
+4a. 2. az N-fenil rész fenilgyűrűjéhez halogén- vagy metoxi-csoport kapcsolódhat,
+
+4a. 3. a piperidin részhez egy vagy – tetszőleges kombinációban – több metil-, illetve karbometoxi-csoport kapcsolódhat,
+
+4a. 4. a feniletil rész alifás szénatomjaihoz metil- vagy hidroxi-csoport kapcsolódhat.
 
 5. Az 1–4. pontban foglaltakon túlmenően továbbá
 
@@ -264,32 +274,37 @@ tartalmazhat.
 
 | 59. | (Iso)butyryl-F-fentanyl N-benzyl analogue | 2-Methyl-N-(1-benzylpiperidin-4-yl)-N- (4-fluorophenyl)propanamide |
 
-| 60. | 2-fluorofentanyl, ortho-fluorofentanyl, 1-phenethyl-4-(N-propionyl-2- fluoroanilino)piperidine, 2-FF, o-FF | N-(2-fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]-propanamide |
+| 60. |  |  |
 
-| 61. | 3-fluorofentanyl, 1-phenethyl-4- (N-propionyl-3-fluoroanilino)piperidine, meta- fluorofentanyl, m-fluorofentanyl, 3-FF, m-FF | N-(3-fluorophenyl)-N-[1-(2-phenylethyl)- 4-piperidyl]propanamide |
+| 61. |  |  |
 
-| 62. | 4-fluoro-butyrfentanyl, 4F-BF | N-(4-fluorophenyl)-N-[(1-(2-phenylethyl)- 4-piperidinyl)]butanamide |
+| 62. |  |  |
 
-| 63. | 4-methoxybutyrfentanyl, 4-MeO-BF | N-(4-methoxyphenyl)-N-[1-(2-phenylethyl)piperidin- 4-yl]butanamide |
+| 63. |  |  |
 
-| 64. | Acryloylfentanyl, 1-phenethyl-4-N- acryloylanilinopiperidine, acrylfentanyl, ACF | N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide |
+| 64. |  |  |
 
-| 65. | Alpha-methylfentanyl butanamide analogue, BF, B-F, (Iso)butyryl fentanyl | 2-methyl-N-phenyl-N-[1-(1-phenylpropan-2-yl)piperidin- 4-yl]propanamide |
+| 65. |  |  |
 
-| 66. | Butyrfentanyl, Fentanyl butanamide analogue; N-(1-phenethyl)-4- piperidyl)butyranilide; n-propylfentanyl; butyryl fentanyl; NIH 10486; B-F | N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-butanamide |
+| 66. |  |  |
 
-| 67. | Carfentanyl | 4-((1-oxopropyl)-phenylamino)-1-(2-phenylethyl)- 4-piperidinecarboxylic acid methyl ester |
+| 67. |  |  |
 
 | 68. | Despropionyl-2-fluoro fentanyl, despropionyl-o-fluoro fentanyl | N-(2-Fluorophenyl)-1-(2-phenylethyl)piperidin-4-amine |
 
-| 69. | Furanylfentanyl, FU-F, 2-furanoylfentanyl, despropionyl furanoyl fentanyl | N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]-furan- 2-carboxamide |
+| 69. |  |  |
 
-| 70. | Ocfentanil (A-3217) | N-(2-fluorophenyl)-2-methoxy-N-[1-(2-phenylethyl)piperidin- 4-yl]acetamide |
+| 70. |  |  |
 
-| 71. | Valerylfentanyl | N-phenyl-N-[1-(2-phenylethyl)-4-piperidyl]pentanamide |
+| 71. |  |  |
+
+| 72. | Flubromazepam | 7-bromo-5-(2-fluorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
+
+| 73. | U47700, U-47,700 | 3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide |
 
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
-[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a szerint módosított szöveg.
+[^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a szerint módosított szöveg.
