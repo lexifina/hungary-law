@@ -20,7 +20,7 @@
 
 (5e) Az állam működése szempontjából kiemelten fontos, illetve a Kormány által létesítmény és rendezvénybiztosítási intézkedés céljából kijelölt és a rendőrség által védett, továbbá a rendőrség kezelésében lévő létesítmények rendjének és jogszerű működésének védelme, illetve az abban tartózkodók biztonsága érdekében a létesítmény folyosóin, a közös használatú – a megfigyelés elől az emberi méltóság védelme érdekében el nem zárt – helyiségeiben, valamint a létesítmények területét határoló külső falakon és kapuknál a rendőrség képfelvevőt helyezhet el és felvételt készíthet.
 
-(6) Az
+(6) A(z)
 
 a) (1), (2), (5) és (5e) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat
 
@@ -36,7 +36,9 @@ ae) az érintett személy jogainak gyakorlása érdekében,
 
 b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
-c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében,
+
+d) a (2) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátásának szervezése, koordinálása és irányítása céljából
 
 használható fel.
 

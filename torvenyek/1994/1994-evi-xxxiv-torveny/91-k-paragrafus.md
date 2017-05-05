@@ -1,29 +1,23 @@
 ## A határrendészeti adatkezelés
 
-91/K. § (1) A rendőrség a határforgalom ellenőrzése során, az államhatáron átlépő harmadik ország állampolgárai által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait összeveti az alábbi nyilvántartások adataival:
+91/K. § (1) A rendőrség a határforgalom ellenőrzése során, az Európai Unió kötelező jogi aktusaival összhangban az államhatáron átlépők által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait különösen az alábbi nyilvántartások adataival veti össze:
 
-a) beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
+a) a központi idegenrendészeti nyilvántartás,
 
-b) körözési nyilvántartási rendszer,
+b) a körözési nyilvántartási rendszer,
 
-c) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása,
+c) az útiokmány-nyilvántartás,
 
-d) útiokmány-nyilvántartás,
+d) a személyiadat- és lakcímnyilvántartás,
 
-e) személyiadat- és lakcímnyilvántartás,
+e) a közúti közlekedési nyilvántartás,
 
-f) személyazonosító igazolványokra vonatkozó nyilvántartás,
+f) a Schengeni Információs Rendszer,
 
-g) közúti közlekedési nyilvántartás, járműnyilvántartás,
+g) a szabálysértési nyilvántartási rendszer, valamint
 
-h) Schengeni Információs Rendszer,
+h) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások.
 
-i) a szabálysértésekről vezetett nyilvántartás, valamint
-
-j) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások,
-
-k) a tartózkodási engedélyekre vonatkozó idegenrendészeti résznyilvántartás.
-
-(2) A szabad mozgás és tartózkodás jogával rendelkező személyek államhatáron történő átlépésekor az (1) bekezdésben felsorolt nyilvántartásokban történő ellenőrzést szúrópróbaszerűen alkalmazzák.
+(2)
 
 (3) A Rendőrség a határforgalom ellenőrzése során az államhatáron átlépő vízumkötelezett harmadik országbeli állampolgár által bemutatott okmányok adatait és e személy ujjnyomatát összeveti a Vízuminformációs Rendszerrel.

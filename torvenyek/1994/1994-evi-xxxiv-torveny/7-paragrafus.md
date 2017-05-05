@@ -14,7 +14,7 @@ ba) a közszolgálati tisztviselőkről szóló törvény, valamint az állami t
 
 bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
 
-bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, valamint közalkalmazotti jogviszonyban álló tagjai,
+bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, közalkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai,
 
 bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai, továbbá
 
@@ -34,7 +34,9 @@ c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök fele
 
 d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
 
-e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során.
+e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
+
+f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, egyéni vállalkozói igazolvány, hatósági erkölcsi bizonyítvány kiállításával összefüggő ügyekben.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 

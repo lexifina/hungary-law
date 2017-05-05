@@ -2,15 +2,15 @@
 
 104. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (2) bekezdése,
+a) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (2) bekezdése,
 
-b) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11. és 11c. cikke [91/L. § (3) bekezdése],
+b) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló 2016/1624/EU európai parlamenti és tanácsi rendelet 44. és 47. cikke [91/L. § (3) bekezdése],
 
 c) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelv 3. cikke és a 6. cikk (1) bekezdése,
 
 d) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
 
-e) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlament és tanácsi rendelet 6. cikk (8) bekezdése, valamint e rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdése,
+e) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (8) bekezdés első albekezdése,
 
 f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i, 98/2013/EU európai parlamenti és tanácsi rendelet 9. és 10. cikke,
 
