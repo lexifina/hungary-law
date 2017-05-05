@@ -12,7 +12,7 @@ d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek fe
 
 e) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár kiskorú gyermeke.
 
-(1a)
+(1a) Az (1) bekezdésben foglaltakon túl Magyarországon történő letelepedés céljából nemzeti letelepedési engedélyt a harmadik országbeli állampolgár akkor kaphat, ha letelepedése Magyarország érdekeivel összhangban áll.
 
 (2) Nem minősül Magyarország területén történő tartózkodás megszakításának Magyarország területének alkalmanként négy hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások összidőtartama a kérelem benyújtását megelőző három év alatt nem haladja meg a kétszázhetven napot.
 
