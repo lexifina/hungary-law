@@ -12,9 +12,11 @@ b) természetes személyazonosító adatok és lakcímadatok, értesítési cím
 
 c) a b) pontban felsorolt adatok és a személyazonosító jel;
 
-d) a 9. § (2) bekezdés p) pontja, a 11. § (1) bekezdés q) pontja, valamint az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye kivételével, a nyilvántartásba felvett adatok teljes köre;
+d) a 9. § (2) bekezdés i) pontja, a 11. § (1) bekezdés q) pontja, valamint az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye kivételével, a nyilvántartásba felvett adatok teljes köre;
 
-e) természetes személyazonosító adatok és állampolgárság.
+e) természetes személyazonosító adatok és állampolgárság;
+
+f) természetes személyazonosító adatok, valamint a lakcím és értesítési cím adatok.
 
 (3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat — a 2. § (5) bekezdésében foglalt feltételekkel — statisztikai célra felhasználhatják és azokat nyilvánosságra hozhatják.
 
