@@ -1,0 +1,1 @@
+24. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 52/C. § (6) bekezdésében az „az Európai Rendőrségi Hivatal” szövegrész helyébe az „a Bűnüldözési Együttműködés Európai Uniós Ügynöksége” szöveg lép.

@@ -1,0 +1,3 @@
+56. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 56. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szabálysértési hatóság az ügy megítélése szempontjából lényeges körülményeket köteles tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, bizonyítási eljárást folytat le. A tényállás tisztázási kötelezettség a 23. § (1) bekezdés b) és d) pontja esetén azt a szabálysértési hatóságot terheli, amely az újabb pénzbírsággal büntethető szabálysértés miatti eljárás lefolytatására az ismételt elkövetés nélkül jogosult lenne.”
