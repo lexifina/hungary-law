@@ -6,7 +6,7 @@
 
 250. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a)
+a) kijelölje a Kormány alárendeltségébe tartozó szervek által kiszabott szabálysértési bírságok befizetésének ellenőrzését végrehajtó szervet,
 
 b) kijelölje a szabálysértési nyilvántartási rendszer tekintetében az adatkezelői feladatokat ellátó szervet,
 

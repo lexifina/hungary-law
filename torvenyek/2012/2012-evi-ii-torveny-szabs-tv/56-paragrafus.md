@@ -4,7 +4,7 @@
 
 ## 43. A tényállás tisztázása
 
-56. § (1) A szabálysértési hatóság az ügy megítélése szempontjából lényeges körülményeket köteles tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, bizonyítási eljárást folytat le.
+56. § (1) A szabálysértési hatóság az ügy megítélése szempontjából lényeges körülményeket köteles tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, bizonyítási eljárást folytat le. A tényállás tisztázási kötelezettség a 23. § (1) bekezdés b) és d) pontja esetén azt a szabálysértési hatóságot terheli, amely az újabb pénzbírsággal büntethető szabálysértés miatti eljárás lefolytatására az ismételt elkövetés nélkül jogosult lenne.
 
 (2) Nem kell bizonyítani a köztudomású tényeket és azokat a tényeket, amelyekről a szabálysértési hatóságnak, illetve a bíróságnak hivatalos tudomása van.
 

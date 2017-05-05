@@ -18,7 +18,7 @@ f) a csoportos elkövetés,
 
 g) a nagy nyilvánosság fogalmára,
 
-h) a büntethetőséget kizáró okokra,
+h) a büntethetőséget kizáró vagy korlátozó okokra
 
 i) a magánindítványra, valamint
 

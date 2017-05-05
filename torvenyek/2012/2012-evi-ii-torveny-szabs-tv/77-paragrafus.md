@@ -18,7 +18,7 @@ g) a tanút, a kiskorú tanú törvényes képviselőjét, vagy a szakértőt, h
 
 h) a kiskorú törvényes képviselőjét, ha a 62. § (8) bekezdése szerint idézett kiskorú nem jelenik meg és törvényes képviselője nem igazolja, hogy a kiskorú távolmaradásában vétlen.
 
-i) az e törvény rendelkezései szerint az előkészítő eljárást lefolytató szerv, szabálysértési hatóság illetve a bíróság által megkeresett szervet vagy személyt, ha a megkeresés teljesítésével kapcsolatos kötelezettségeit nem teljesíti.
+i) az e törvény rendelkezései szerint az előkészítő eljárást lefolytató szerv, a szabálysértési hatóság, illetve a bíróság által megkeresett szervet vagy személyt, ha a megkeresés teljesítésével kapcsolatos kötelezettségeit nem teljesíti.
 
 (2) A rendbírság legalacsonyabb összege ötezer, legmagasabb összege százezer – ha a rendbírság kiszabására ugyanabban az eljárásban ismételten kerül sor, százötvenezer – forint. Bírósági eljárásban a legmagasabb rendbírság százötvenezer, ismételt esetben kétszázezer forint.
 

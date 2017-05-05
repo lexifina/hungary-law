@@ -26,7 +26,7 @@ j) a kiszabott büntetés, alkalmazott intézkedés elengedésének, illetve mé
 
 k) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás elhalasztásának vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
 
-l) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás előjegyzett kezdő és utolsó napját, tényleges kezdő és utolsó napját, az azonnali szabadítás elrendelésének az időpontját, az elzárás felfüggesztésének tényét és a próbaidő tartamát.
+l) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás tényleges kezdő és utolsó napját, az azonnali szabadítás elrendelésének az időpontját, az elzárás felfüggesztésének tényét és a próbaidő tartamát,
 
 m) a közérdekű munka büntetésre jelentkezés időpontját, teljesítésének kezdő és befejező időpontját, vagy nem teljesítésének tényét,
 
@@ -54,7 +54,7 @@ c) a (2) bekezdés j) pontja esetén a szabálysértési szabályozásért felel
 
 d) a (2) bekezdés k) pontja esetén az engedélyező szerv,
 
-e) a (2) bekezdés l) pontja esetén – kivéve a (3a) bekezdésben foglaltakat – a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén az előkészítő eljárást lefolytató szerv,
+e) a (2) bekezdés l) pontja esetén – kivéve a (3a) és a (3b) bekezdésben foglaltakat – a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás rendőrségi fogdán történő végrehajtásakor a szabálysértési hatóság,
 
 f) a (2) bekezdés o) pontja esetén az a szerv vagy személy, amelyik vagy aki a helyszíni bírságot kiszabta,
 
@@ -63,6 +63,8 @@ g) a (2) bekezdés g), h) és m) pontja esetén az állami foglalkoztatási szer
 h)
 
 (3a) A (2) bekezdés l) pontjában az elzárás felfüggesztésének tényére és a próbaidő tartamára vonatkozó adatot a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában – jogszabályban meghatározott módon és formában – a bíróság rögzíti.
+
+(3b) A 139. § (1a) bekezdése esetén a (2) bekezdés l) pontjában a szabálysértési elzárás tényleges kezdő- és utolsó napjára vonatkozó adatot az előkészítő eljárást lefolytató szerv rögzíti.
 
 (4) Ha
 

@@ -38,7 +38,7 @@ b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántart
 
 a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés a) pontjában szereplő adatok közül az aa)–ae) és ag)–ah) alpontban szereplő, az érintett személyre vonatkozó adatokat,
 
-b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában a szabálysértés megnevezésére, c) pontjában a döntés jogerőre emelkedésének időpontjára, d) pontjában a szabálysértés miatt kiszabott büntetés nemére, o) pont ob) és oc) alpontjában a helyszíni bírság kiszabására vonatkozó adatok közül az arra vonatkozó adatokat, hogy az érintett személyt a 243. § (1) bekezdés a) pontjában meghatározott szabálysértés miatt az adatátvételt megelőző három éven belül szabálysértési bírsággal sújtották-e.
+b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában a szabálysértés megnevezésére, c) pontjában a döntés jogerőre emelkedésének időpontjára, d) pontjában a szabálysértés miatt kiszabott büntetés nemére, o) pont ob) és oc) alpontjában a helyszíni bírság kiszabására vonatkozó adatok közül az arra vonatkozó adatokat, hogy az érintett személyt a 243. § (1) bekezdésében meghatározott szabálysértés miatt az adatátvételt megelőző három éven belül szabálysértési bírsággal sújtották-e.
 
 (2c) A természetvédelmi hatóság jogszabályban meghatározott feladata ellátása céljából közvetlen hozzáféréssel jogosult átvenni
 

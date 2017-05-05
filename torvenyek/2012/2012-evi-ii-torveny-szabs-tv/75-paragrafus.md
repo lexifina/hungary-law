@@ -1,6 +1,6 @@
 ## 62. A lefoglalás
 
-75. § (1) A szabálysértési hatóság, az előkészítő eljárást lefolytató szerv, valamint – azon szabálysértés vonatkozásában, amely miatt törvény rendelkezése alapján helyszíni bírságot kiszabhat – a helyszíni bírság kiszabására jogosult lefoglalhatja azt a dolgot,
+75. § (1) A szabálysértési hatóság, az előkészítő eljárást lefolytató szerv, valamint – azon szabálysértés vonatkozásában, amely miatt törvény rendelkezése alapján helyszíni bírságot kiszabhat – a helyszíni bírság kiszabására jogosult lefoglalhatja, valamint ideiglenesen elveheti azt a dolgot,
 
 a) amely tárgyi bizonyítási eszköz,
 

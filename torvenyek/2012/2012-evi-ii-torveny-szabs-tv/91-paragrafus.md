@@ -4,13 +4,13 @@
 
 (2) A jegyzőkönyvben fel kell tüntetni
 
-a) a szabálysértési hatóság, illetve a bíróság megnevezését,
+a) a szabálysértési hatóság, a helyszíni bírság kiszabására jogosult, illetve a bíróság megnevezését,
 
 b) az eljárás alapjául szolgáló szabálysértés megjelölését,
 
 c) az eljárási cselekmény helyét, valamint kezdő és záró időpontját,
 
-d) a szabálysértési hatóság tagja, a bíró, az eljárásban részt vevő személy és képviselője, továbbá a tanú, a szakértő nevét.
+d) a szabálysértési hatóság tagja, a helyszíni bírság kiszabására jogosult személy, a bíró, az eljárásban részt vevő személy és képviselője, továbbá a tanú, a szakértő nevét.
 
 (3) A jegyzőkönyvben a szükséges részletességgel és oly módon kell leírni az eljárási cselekményt, hogy a jegyzőkönyv alapján az eljárási szabályok megtartását is nyomon lehessen követni. A szabálysértési hatóság tagja, illetve a bíró, valamint a jegyzőkönyvvezető a jegyzőkönyvet aláírja.
 

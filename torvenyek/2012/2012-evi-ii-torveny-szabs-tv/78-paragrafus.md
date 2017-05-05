@@ -4,7 +4,7 @@
 
 ## 64. A szabálysértési eljárás megindulása
 
-78. § (1) A szabálysértési eljárás feljelentés, vagy a szabálysértési hatóság vagy a bíróság hivatali hatáskörében szerzett tudomása, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy általi észlelés alapján indul meg.
+78. § (1) A szabálysértési eljárás feljelentés, vagy a szabálysértési hatóság vagy a bíróság hivatali hatáskörében szerzett tudomása, a helyszíni bírság kiszabására jogosult szerv vagy személy általi észlelelés, illetve a közlekedési baleset helyszínén folytatott szemle alapján indul meg.
 
 (2) A feljelentést – e törvény eltérő rendelkezése hiányában – szóban vagy írásban bármely személy vagy szerv megteheti. A szóban tett feljelentést jegyzőkönyvbe kell foglalni, vagy arról feljegyzést kell készíteni.
 
