@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2016-01-01 | 2015. évi CLXXIX. törvény | 1998-12-00-00.39 |
 | 2016-07-17 | 2016. évi LXIX. törvény | 1998-12-00-00.40 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1998-12-00-00.41 |
+| 2017-05-05 | 2017. évi XXXIII. törvény | 1998-12-00-00.42 |

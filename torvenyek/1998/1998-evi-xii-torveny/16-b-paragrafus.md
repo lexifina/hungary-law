@@ -12,4 +12,4 @@ c) az érintett személyre vonatkozó határozatot hozó bíróság, illetve üg
 
 (4) A 16. § (1) bekezdés a)–e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás miatt elrendelt külföldre utazási korlátozás megszűnéséről a bűnügyi nyilvántartó szerv értesíti az útlevélhatóságot.
 
-(5) Az útlevélhatóság a bíróság, illetve az ügyész, valamint a bűnügyi nyilvántartó szerv értesítése alapján az útiokmány-nyilvántartásba történő bejegyzést vagy törlést huszonnégy órán belül elvégzi.
+(5) Az útlevélhatóság a bíróság, illetve az ügyész, valamint a bűnügyi nyilvántartó szerv értesítése alapján az útiokmány-nyilvántartásba történő bejegyzést vagy az abból törlést haladéktalanul elvégzi.

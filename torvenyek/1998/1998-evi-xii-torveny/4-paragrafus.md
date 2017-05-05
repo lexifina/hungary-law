@@ -10,4 +10,8 @@ c) útlevélhatóság: az úti okmány kiadására, visszavonására, az utazás
 
 d) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
-e) gazdálkodó szervezet: gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
+e) gazdálkodó szervezet: gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
+
+f) pótlás: úti okmány kiállítása az útlevélhatóság által kiadott elveszett, eltulajdonított vagy megsemmisült úti okmány helyett, annak érvényességi idején belül a korábbi úti okmánnyal – az okmányazonosító adat és a kiállítás dátumának kivételével – megegyező adattartalommal;
+
+g) elektronikus adat: az útiokmány-nyilvántartás számítógépes adathordozón kezelt adatállománya.

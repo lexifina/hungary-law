@@ -1,25 +1,25 @@
 20. § (1) Érvénytelen az úti okmány, ha
 
-a) elveszett vagy eltulajdonították,
+a) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt a hatóság elvette, illetve bevonta vagy szabálysértési, illetve büntetőeljárásban tárgyi bizonyítási eszközként lefoglalta,
 
 b) személyazonosság megállapítására alkalmatlan, betelt, megrongálódott,
 
-c) meghamisították,
+c) hamis vagy meghamisították,
 
-d) megsemmisült,
+d) jogosulatlanul használták fel vagy jogosulatlan felhasználás gyanúja alapján szabálysértési vagy büntetőeljárás indult,
 
 e) az arra való jogosultság megszűnt,
 
-f) azt nem az arra jogosult használja fel,
+f) érvényességi ideje lejárt,
 
-g) érvényességi ideje lejárt,
+g) annak jogosultja külföldre utazási korlátozás alatt áll, a korlátozás időtartama alatt,
 
-h) annak jogosultja a külföldre utazási korlátozás alatt áll, a korlátozás időtartama alatt,
+h) a 19. § (3) bekezdésében foglalt okból visszavonták,
 
-i) a 19. § (3) bekezdésében foglalt okból visszavonták, vagy
+i) a használatára jogosult meghalt, vagy
 
-j) a használatára jogosult meghalt,
-
-k) a körözési nyilvántartási rendszert vezető szerv az okmány adatainak körözési nyilvántartási rendszerbe rögzítéséről a nyilvántartást kezelő szervet elektronikus úton értesítette.
+j) annak jogosultja az úti okmányáról lemondott.
 
 (2) Az úti okmány érvényességét nem érinti, ha a tároló elem nem tartalmazza vagy hibásan tartalmazza a 7. § (2)–(3) bekezdésben foglalt adatokat.
+
+(3) Az érvénytelenség tényét az (1) bekezdés a), b) és e)–j) pontja szerinti esetekben haladéktalanul be kell jegyezni az útiokmány-nyilvántartásba.

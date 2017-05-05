@@ -1,22 +1,30 @@
-27. § (1) Az adatkezelő szerv – törvényben meghatározott feladatai ellátása céljából – a 24. § g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a Nemzeti Adó- és Vámhivatal vámszervének és nyomozó hatóságának, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, valamint a menekültügyi hatóságnak adhat át adatot.
+27. § (1) Az adatkezelő szerv – a törvényben meghatározott feladatai ellátása céljából – a 24. § (1) bekezdés g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a bíróságnak, az ügyészségnek, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, az állami adó- és vámhatóságnak, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, valamint a menekültügyi hatóságnak adhat át adatot.
 
-(1a) Az adatkezelő szerv a 24. § d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
+(1a) Az adatkezelő szerv a 24. § (1) bekezdés d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
-(1b) Az adatkezelő szerv a 24. § a) és e) pontjában meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzése céljából átadhatja.
+(1b) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzése céljából átadhatja.
 
-(2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
+(1c) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat a körözési nyilvántartó szerv részére az úti okmány adatainak a körözési nyilvántartási rendszerbe rögzítését megelőző ellenőrzése céljából átadhatja.
 
-(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § a) és e) pontja alapján kezelt adatállományból.
+(2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
-(3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
+(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a) és e) pontja alapján kezelt adatállományból.
 
-(4) Az útlevélhatóság, illetve az adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
+(3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
-(5) Az adatkezelő szerv a jogszabályban meghatározott, lefoglalásra vagy – a körözési nyilvántartási rendszert vezető szerv által az okmány adatainak a körözési nyilvántartási rendszerbe rögzítéséről küldött elektronikus értesítés alapján – büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe továbbítja a központi útiokmány-nyilvántartásban érvénytelenítésre került hivatalos és magánútlevél törvényben meghatározott adatait, ha az okmány nincs a hatóság, a 20. § (1) bekezdés i) pontja szerinti esetben a szülői felügyeletet gyakorló személy vagy a 20. § (1) bekezdés h) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
+(4) Az útlevélhatóság, illetve az adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve, valamint a konzuli tisztviselő részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § (1) bekezdés a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
 
-(6) Ha az (5) bekezdés szerinti útlevél időközben megkerült és az okmány megkerülésének tényét a központi útiokmány-nyilvántartásba bejegyezték, vagy a körözési nyilvántartási rendszert vezető szerv az okmánykörözés visszavonásáról, törléséről elektronikus úton küldött értesítést, az adatkezelő szerv az (5) bekezdés szerint gondoskodik a továbbított schengeni figyelmeztető jelzés törléséről.
+(5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevél és magánútlevél törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság, vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
 
-(7) Amennyiben az úti okmány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen úti okmány eltűnéséről (elvesztés, eltulajdonítás), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti az adatkezelő szervet, amely a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés beviteléről, illetve törléséről.
+(6) Ha az (5) bekezdés szerinti hivatalos útlevél vagy magánútlevél
+
+a) időközben megkerült, vagy
+
+b) lefoglalás vagy büntetőeljárásban bizonyítékként történő felhasználása céljából elrendelt körözésének adatai a körözési nyilvántartási rendszerből törlésre kerültek,
+
+az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmeztető jelzés és a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában szereplő tétel törléséről.
+
+(7) Ha a kitöltetlen úti okmány eltűnéséről, elvesztéséről, eltulajdonításáról, illetve az eltűnt kitöltetlen okmány megkerüléséről értesül, az adatkezelő szerv gondoskodik a schengeni figyelmeztető jelzés jogszabály szerinti NS.CP Portál felületen keresztül történő elhelyezéséről, illetve törléséről, valamint az Interpol Magyar Nemzeti Iroda értesítésével kezdeményezi az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisába történő továbbítását, illetve az abban szereplő tétel törlését.
 
 (8) Az anyakönyvvezető a személyazonosság és állampolgárság ellenőrzése, valamint az elhunyt személy személyazonosság igazolására alkalmas hatósági igazolványának bevonása céljából a 24. § (1) bekezdés a), e) és f) pontjában foglalt adatokat lekérdezheti.
 
@@ -26,4 +34,4 @@
 
 (11) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek a 24. § (1) bekezdésének l) pontjában meghatározott adat közlésével is igényelhetnek adatot az útiokmány-nyilvántartásból.
 
-(12) Az adatkezelő szerv – a 24. § (1) bekezdésének l) pontjában meghatározott adat alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmás adatának nyilvántartásba vételéről, valamint ezen személy központi útiokmány-nyilvántartásban szereplő arcképmás adatának változásáról.
+(12) Az adatkezelő szerv – a 24. § (1) bekezdésének l) pontjában meghatározott adat alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmás adatának nyilvántartásba vételéről, valamint ezen személy útiokmány-nyilvántartásban szereplő arcképmás adatának változásáról.
