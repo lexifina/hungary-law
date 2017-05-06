@@ -1,0 +1,1 @@
+## „8. szolgáltatás nyújtására irányuló szerződés: az adásvételi szerződéstől eltérő bármely olyan szerződés, amelynek értelmében a vállalkozás a fogyasztó részére szolgáltatást nyújt vagy szolgáltatás nyújtását vállalja, a fogyasztó pedig megfizeti, vagy vállalja, hogy megfizeti a szolgáltatás ellenértékét;”
