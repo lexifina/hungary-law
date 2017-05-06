@@ -12,9 +12,9 @@
 
 ## A fent meghatározott napszakok minden zajforrásra vonatkozóan ugyanazok.
 
-4. számú melléklet a 280/2004. (X. 20.) Korm. rendelethez
+4. számú melléklet a 280/2004. (X. 20.) Korm. rendelethez[^51]
 
-A zajtérképkészítésre kötelezett önkormányzat közigazgatási határán belül működő üzemi létesítmény adatszolgáltatása a környezeti zajkibocsátásáról
+A zajtérképkészítéssel érintett önkormányzat közigazgatási határán belül működő üzemi létesítmény adatszolgáltatása a környezeti zajkibocsátásáról
 
 1. Az üzemi létesítmény zajkibocsátásáról legalább a következő adatokat kell szolgáltatni:
 
@@ -38,7 +38,7 @@ megnevezése:
 
 címe:
 
-1.4. A tevékenység külön jogszabály[^44] szerinti besorolása.
+1.4. A tevékenység külön jogszabály[^52] szerinti besorolása.
 
 1.5. A telephelyen folytatott tevékenység, alkalmazott technológia, helyhez kötött vagy mozgó berendezés, üzemi zajforrásnak minősülő tevékenység leírása, ismertetése:
 
@@ -114,4 +114,5 @@ c) Szezonális (nyári, téli vagy más) működési rend:
 
 – mellékelni kell az üzemi létesítmény környezeti zajvizsgálatáról készült jegyzőkönyvet.
 
-[^44]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
+[^51]: A 4. számú melléklet a 106/2017. (IV. 28.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
+[^52]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.

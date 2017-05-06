@@ -14,11 +14,18 @@ c) a fő közlekedési létesítmény
 
 (2) A rendelet hatálya nem terjed ki a Magyar Honvédség területén végzett katonai tevékenységek közben keletkező zaj értékelésére és kezelésére, valamint az ezzel kapcsolatos adatszolgáltatásra.
 
-(3) A stratégiai zajtérkép és intézkedési terv készítésére kötelezett
+(3)[^2] A stratégiai zajtérkép készítésére kötelezett
+
+a) az (1) bekezdés a) és b) pontja szerinti települések esetén a környezetvédelemért felelős miniszter által kijelölt, az irányítása alatt álló költségvetési szerv vagy a tulajdonosi joggyakorlása alatt álló gazdálkodó szervezet (a továbbiakban: a települési zajtérkép készítésére kötelezett),
+
+b) fő közlekedési létesítmény esetén a közlekedésért felelős miniszter által kijelölt szervezet (a továbbiakban: fő közlekedési létesítmény kötelezettje).
+
+(3a)[^3] Az intézkedési terv készítésére kötelezett
 
 a) Budapest vonzáskörzetéhez tartozó települések, valamint az (1) bekezdés b) pontja szerinti városok esetén a települési önkormányzat, Budapest esetén a Fővárosi Önkormányzat (a továbbiakban együtt: kötelezett önkormányzat),
 
-b)[^2] fő közlekedési létesítmény esetén a közlekedésért felelős miniszter által kijelölt szervezet (a továbbiakban: fő közlekedési létesítmény kötelezettje).
+b) fő közlekedési létesítmény esetén a fő közlekedési létesítmény kötelezettje.
 
 [^1]: Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény.
-[^2]: Az 1. § (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 106/2017. (IV. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (3a) bekezdését a 106/2017. (IV. 28.) Korm. rendelet 1. §-a iktatta be.

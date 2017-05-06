@@ -2,7 +2,7 @@
 
 ## 3. § E rendelet alkalmazásában:
 
-a) környezeti zaj: a közúti, a vasúti és a légi közlekedésből, valamint a külön jogszabály[^4] hatálya alá eső tevékenységekből származó káros hatású kültéri zaj;
+a) környezeti zaj: a közúti, a vasúti és a légi közlekedésből, valamint a külön jogszabály[^5] hatálya alá eső tevékenységekből származó káros hatású kültéri zaj;
 
 b) káros hatás: a zajnak az emberi egészségre gyakorolt kedvezőtlen hatása;
 
@@ -20,7 +20,7 @@ h) Léjjel (éjszakai, 2200–0600) zajjellemző: az éjszakai időszak zajterhe
 
 i) terhelés-hatás: a zajjellemző és a káros hatás közötti összefüggés;
 
-j) csendes terület: a települési önkormányzat (a továbbiakban: önkormányzat) képviselő-testülete által, külön jogszabály[^5] szerint kijelölt, zajvédelmi szempontból fokozottan védett terület, illetve zaj ellen fokozott védelmet igénylő létesítmények körül kijelölt csendes övezet;
+j) csendes terület: a települési önkormányzat (a továbbiakban: önkormányzat) képviselő-testülete által, külön jogszabály[^6] szerint kijelölt, zajvédelmi szempontból fokozottan védett terület, illetve zaj ellen fokozott védelmet igénylő létesítmények körül kijelölt csendes övezet;
 
 k) nagyforgalmú közút: országos közút – az utolsó három év átlagából figyelembe vett mérési adatai alapján – évi hárommilliónál több gépjármű áthaladását meghaladó forgalmi szakasza;
 
@@ -38,8 +38,8 @@ q) zajterhelési zajtérkép: a meghatározott vonatkoztatási időre, meghatár
 
 r) konfliktustérkép: a zajterhelés és a stratégiai küszöbértékek összehasonlításával készült stratégiai zajtérkép;
 
-s) üzemi létesítmény: a külön jogszabály[^6] szerint egységes környezethasználati engedély köteles tevékenységet folytató létesítmény.
+s) üzemi létesítmény: a külön jogszabály[^7] szerint egységes környezethasználati engedély köteles tevékenységet folytató létesítmény.
 
-[^4]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
-[^5]: A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény.
-[^6]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
+[^5]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
+[^6]: A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény.
+[^7]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
