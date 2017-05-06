@@ -1,1 +1,0 @@
-53. § A polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény 3. § (2) bekezdés j) pontjában, 4. § (4) bekezdésében, 5. § (9) bekezdésében, 6. § (1) bekezdésében, 14. § (2) bekezdés e) pontjában és 15. § (7) bekezdésében a „vasúti személyszállítási” szövegrész helyébe a „vasúti, illetve autóbuszos személyszállítási” szöveg lép.

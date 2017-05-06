@@ -1,3 +1,1 @@
-84. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 364. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ez a törvény az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló 2016/1624/EU európai parlamenti és tanácsi rendelet 20. cikk (2), (3), (4), (11) és (12) bekezdésének, a 21. cikk (4) bekezdésének, valamint a 22. cikk (2) és (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.”
+84. §

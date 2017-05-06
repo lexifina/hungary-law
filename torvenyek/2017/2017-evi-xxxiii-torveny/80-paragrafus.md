@@ -4,4 +4,4 @@
 
 a)
 
-b) 8. § (1) bekezdésében a „vagy olyan nemzetközi körözés” szövegrész.
+b)

@@ -1,3 +1,0 @@
-88. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 11. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés szerint képzett arckép profilt az arcképelemző tevékenységet végző szerv az arcképelemző rendszer igénybevételével az arckép profil nyilvántartásban kezelt arckép profilokkal összehasonlítja. Az összehasonlítást megelőzően az arcképelemző tevékenységet végző szerv a metaadatok felhasználásával jogosult az arcképelemző rendszerben szűrési szempontokat meghatározni, és az informatikai alkalmazás segítségével történő összehasonlítás folyamatát a kiválasztott szűrési szempontok alapján megkezdeni.”
