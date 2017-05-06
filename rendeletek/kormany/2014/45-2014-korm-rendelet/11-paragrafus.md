@@ -20,7 +20,7 @@ e) a szerződés szerinti termékért vagy szolgáltatásért járó ellenszolg�
 
 f) határozatlan időre szóló vagy előfizetést magában foglaló szerződés esetében arról, hogy az ellenszolgáltatás teljes összege a számlázási időszakra vonatkozó valamennyi költséget tartalmazza. Ha az ilyen szerződés átalánydíjas, arról, hogy az ellenszolgáltatás teljes összege egyúttal a teljes havi költséget is jelenti. Ha az összes költséget nem lehet előre kiszámítani, a fogyasztót tájékoztatni kell az ellenszolgáltatás összegének kiszámításának módjáról;
 
-g) a szerződés megkötéséhez alkalmazott távollévők közötti kommunikációt lehetővé tévő eszköz használatának díjáról, ha e díj emelt díjnak minősül;
+g)[^9] a szerződés megkötéséhez alkalmazott, távollévők közötti kommunikációt lehetővé tévő eszköz használatának díjáról, ha azzal összefüggésben az elektronikus hírközlési szolgáltató által a hívó fél számára az előfizetői szerződésben meghatározott díjon felül további díj terheli a fogyasztót, vagy a telefonhívás, üzenetküldés emelt díjas szolgáltatás igénybevételével jár;
 
 h) a teljesítés feltételeiről, így különösen a fizetésről, a fuvarozásról és a teljesítési határidőről, valamint a vállalkozás panaszkezelési módjáról;
 
@@ -38,9 +38,9 @@ n) az értékesítés utáni ügyfélszolgálati és egyéb szolgáltatások, va
 
 o) arról, hogy rendelkezésre áll-e a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti magatartási kódex, illetve a magatartási kódexről történő másolatkérés módjáról;
 
-p)[^3] adott esetben a szerződés időtartamáról, és ha a szerződés határozatlan időre szól vagy a szerződés a határozott idő elteltét követően határozott időre meghosszabbodik vagy határozatlan idejűvé alakul át, a szerződés felmondásának feltételeiről;
+p)[^10] adott esetben a szerződés időtartamáról, és ha a szerződés határozatlan időre szól vagy a szerződés a határozott idő elteltét követően határozott időre meghosszabbodik vagy határozatlan idejűvé alakul át, a szerződés felmondásának feltételeiről;
 
-q)[^4]
+q)[^11]
 
 r) a fogyasztó kötelezettségeinek szerződés szerinti legrövidebb időtartamáról;
 
@@ -66,5 +66,6 @@ w) a békéltető testülethez fordulás lehetőségéről, a vállalkozás szé
 
 (7) Az e §-ban meghatározott tájékoztatási kötelezettség teljesítésének bizonyítása a vállalkozást terheli.
 
-[^3]: A 11. § (1) bekezdés p) pontja a 453/2016. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^4]: A 11. § (1) bekezdés q) pontját a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^9]: A 11. § (1) bekezdés g) pontja a 107/2017. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^10]: A 11. § (1) bekezdés p) pontja a 453/2016. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^11]: A 11. § (1) bekezdés q) pontját a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte.

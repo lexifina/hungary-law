@@ -6,7 +6,7 @@ a) a 2. mellékletben található nyilatkozat-minta felhasználásával; vagy
 
 b) az erre vonatkozó egyértelmű nyilatkozat útján
 
-gyakorolhatja.
+## gyakorolhatja.
 
 (2) A vállalkozás internetes honlapján is biztosíthatja a fogyasztó számára a 20. §-ban meghatározott jog (1) bekezdés szerinti gyakorlását. Ebben az esetben a vállalkozás tartós adathordozón haladéktalanul visszaigazolja a fogyasztói nyilatkozat megérkezését.
 

@@ -18,13 +18,17 @@ b) az a) pont hatálya alá nem tartozó építési tevékenységkörben az ép�
 
 c) az a) pont hatálya alá nem tartozó építési tevékenységkörben az építmény legalább 50%-át érintő, alaprajzi elrendezést megváltoztató építési tevékenység.
 
-5. jótállás: a Polgári Törvénykönyv szerinti, valamint külön jogszabályban a fogyasztói szerződésekre meghatározott kötelező jótállás;
+5.[^3] jótállás: a Polgári Törvénykönyv szerinti,
+
+a) a szerződés teljesítéséért vállalt jótállás, amelyet a vállalkozás a szerződés megfelelő teljesítéséért a jogszabályi kötelezettségén túlmenően vagy annak hiányában önként vállal, valamint
+
+b) a jogszabályon alapuló kötelező jótállás;
 
 6. nyilvános árverés: olyan értékesítési módszer, amelynek során a vállalkozás az árverező által lefolytatott átlátható, versenyszerű licitálás keretében szerződéskötésre tesz ajánlatot a fogyasztóknak, akik az árverésen személyesen megjelennek vagy ennek lehetősége számukra biztosított, és amelyen a sikeres licitáló arra vállal kötelezettséget, hogy az ajánlatban foglaltak szerint szerződést köt. Nem minősül nyilvános árverésnek a fogyasztók és vállalkozások rendelkezésére álló árverési célú internetes honlap használata;
 
 7. pénzügyi szolgáltatás: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank által felügyelt tevékenységet folytató szervezeteknek, személyeknek Magyar Nemzeti Bank által felügyelt tevékenysége;
 
-8. szolgáltatás nyújtására irányuló szerződés: olyan fogyasztói szerződés, amely nem minősül termék adásvételére irányuló szerződésnek;
+8.[^4] szolgáltatás nyújtására irányuló szerződés: az adásvételi szerződéstől eltérő bármely olyan szerződés, amelynek értelmében a vállalkozás a fogyasztó részére szolgáltatást nyújt vagy szolgáltatás nyújtását vállalja, a fogyasztó pedig megfizeti, vagy vállalja, hogy megfizeti a szolgáltatás ellenértékét;
 
 9. tartós adathordozó: olyan eszköz, amely a címzett számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB kulcs, a CD-ROM, a DVD, a memória kártya, a számítógép merevlemeze és az elektronikus levél;
 
@@ -53,3 +57,5 @@ d) amelyet a vállalkozás által szervezett olyan út során kötöttek meg, am
 15. vállalkozás: a Polgári Törvénykönyvben meghatározott vállalkozás.
 
 [^2]: A 3. § a 383/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^3]: A 4. § 5. pontja a 107/2017. (IV. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § 8. pontja a 107/2017. (IV. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

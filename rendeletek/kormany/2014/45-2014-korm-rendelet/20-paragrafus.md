@@ -23,3 +23,7 @@ b) szolgáltatás nyújtására irányuló szerződés esetében a szerződés m
 számított tizennégy napon belül gyakorolhatja.
 
 (3) A (2) bekezdés a) pontjában foglaltak nem érintik a fogyasztó azon jogát, hogy az e §-ban meghatározott elállási jogát a szerződés megkötésének napja és a termék átvételének napja közötti időszakban is gyakorolja.
+
+(4)[^14] Ha a szerződés megkötésére a fogyasztó tett ajánlatot, a fogyasztót a szerződés megkötése előtt megilleti az ajánlat visszavonásának joga, ami a szerződés megkötésére kiterjedő ajánlati kötöttséget megszünteti.
+
+[^14]: A 20. § (4) bekezdését a 107/2017. (IV. 28.) Korm. rendelet 6. §-a iktatta be.
