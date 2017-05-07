@@ -1,3 +1,0 @@
-## 7. § A Korm. rendelet 26. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a 13. § vagy a 19. § szerinti esetben a fogyasztó a teljesítés megkezdését követően felmondja az üzlethelyiségen kívül vagy távollévők között kötött szerződést, köteles a felmondás vállalkozással való közlése időpontjáig teljesített szolgáltatással arányos díjat a vállalkozás számára megfizetni. A fogyasztó által arányosan fizetendő összeget a szerződésben megállapított ellenszolgáltatás adóval növelt teljes összege alapján kell megállapítani. Ha a fogyasztó bizonyítja, hogy az ily módon megállapított teljes összeg túlzottan magas, az arányos összeget a szerződés megszűnésének időpontjáig teljesített szolgáltatások piaci értéke alapján kell kiszámítani.”
