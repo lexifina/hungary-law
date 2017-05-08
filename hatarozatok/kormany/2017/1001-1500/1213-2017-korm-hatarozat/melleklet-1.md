@@ -1,4 +1,4 @@
-## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a debreceni Csokonai Színház Modern Városok Program keretében történő felújítása érdekében 252 800 ezer forint egyszeri átcsoportosítását rendeli el a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 1. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlása jogcím javára, az 1. melléklet szerint.
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a debreceni Csokonai Színház Modern Városok Program keretében történő felújítása érdekében 252 800 ezer forint egyszeri átcsoportosítását rendeli el a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 16. A Modern Városok Program végrehajtását szolgáló ingatlanprojektek jogcím javára, az 1. melléklet szerint.
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1213/2017. (IV. 10.) Korm. határozathoz
+1. melléklet az 1213/2017. (IV. 10.) Korm. határozathoz[^2]
 
 | XI. Miniszterelnökség XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017 Ezer forintban |
 
@@ -34,7 +34,7 @@
 
 |  |  |  |  | 1 |  |  |  |  |  | Ingatlan-beruházások, ingatlanvásárlás |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 329639 |  |  |  |  | 1 |  |  |  |  |  | Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai |  |  |  |  |  |  |  |  |  |  |  |  |
+| 367839 |  |  |  |  | 16 |  |  |  |  |  | A Modern Városok Program végrehajtását szolgáló ingatlanprojektek |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 252800 |  |  |  |
 
@@ -79,3 +79,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: Az 1. melléklet az 1254/2017. (V. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
