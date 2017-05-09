@@ -12,19 +12,7 @@
 
 ## Határidő: 2018. június 30.
 
-## 2. A debreceni Csokonai Színház Modern Városok Program keretében történő felújításához 2017. évben szükséges források előirányzat-átcsoportosításáról szóló 1213/2017. (IV. 10.) Korm. határozatban (a továbbiakban: Határozat) az „1. Felhalmozási jellegű kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 1. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlása jogcím” szövegrész helyébe az „1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 16. A Modern Városok Program végrehajtását szolgáló ingatlanprojektek jogcím” szöveg lép.
-
-## 3. A Határozat
-
-## a) 1. mellékletében a „329639” szövegrész helyébe a „367839” szöveg
-
-## b) 1. mellékletében foglalt táblázat Jogcím szám oszlopában az „1” szövegrész helyébe a „16” szöveg
-
-## c) 1. mellékletében az „Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai” szövegrész helyébe az „A Modern Városok Program végrehajtását szolgáló ingatlanprojektek” szöveg
-
-## lép.
-
-## 4. A tárgyéven túli kötelezettségvállalás jóváhagyásáról és a 2016. évi költségvetési maradványok egy részének felhasználásáról szóló 1132/2017. (III. 20.) Korm. határozat 1. pontjában a „9000,0” szövegrész helyébe a „12 000,0” szöveg lép.
+## 2–4.[^1]
 
 1. melléklet az 1254/2017. (V. 8.) Korm. határozathoz
 
@@ -89,3 +77,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
