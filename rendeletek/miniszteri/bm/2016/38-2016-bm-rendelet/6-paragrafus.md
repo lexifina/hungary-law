@@ -16,7 +16,7 @@ g) a Készenléti Rendőrség Humánigazgatási Szolgálat Zenekarának, valamin
 
 h) a Nemzetközi Bűnügyi Együttműködési Központ Bűnügyi Ellátó Igazgatóság hivatásos állománya,
 
-i)[^1] a Nemzeti Szakértői és Kutató Központhoz vezényelt hivatásos állomány,
+i)[^4] a Nemzeti Szakértői és Kutató Központhoz vezényelt hivatásos állomány,
 
 j) a minisztériumokba vezényelt hivatásos állomány,
 
@@ -24,7 +24,7 @@ k) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 l) a Terrorelhárítási Információs és Bűnügyi Elemző Központnál szolgálatot teljesítő hivatásos állomány,
 
-m)[^2] a Bevándorlási és Menekültügyi Hivatalhoz vezényelt hivatásos állomány,
+m)[^5] a Bevándorlási és Menekültügyi Hivatalhoz vezényelt hivatásos állomány,
 
 n) a Nemzeti Közszolgálati Egyetemhez vezényelt hivatásos állomány, kivéve a Büntetés-végrehajtási Tanszéken szolgálatot teljesítő tanári, valamint a büntetés-végrehajtási szakirányon tanulmányokat folytató hallgatói állományt,
 
@@ -42,5 +42,5 @@ t) az, aki felmentési idejét tölti,
 
 u) az, akinek hivatásos szolgálati jogviszonya a nyugdíjazásra tekintettel 2017. december 31-ig megszűnik.
 
-[^1]: A 6. § i) pontja az 58/2016. (XII. 22.) BM rendelet 61. § (1) bekezdésével megállapított szöveg.
-[^2]: A 6. § b) pontja az 58/2016. (XII. 22.) BM rendelet 61. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 6. § i) pontja az 58/2016. (XII. 22.) BM rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^5]: A 6. § b) pontja az 58/2016. (XII. 22.) BM rendelet 61. § (2) bekezdése szerint módosított szöveg.

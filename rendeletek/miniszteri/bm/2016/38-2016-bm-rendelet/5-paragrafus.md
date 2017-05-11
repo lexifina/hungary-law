@@ -1,31 +1,45 @@
-5. § (1) A Terrorelhárítási Központ Műveleti Igazgatóságán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
+5. §[^3] (1) A Terrorelhárítási Központ Műveleti Igazgatóságán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
 
 a) gyakorló zubbony multicam/TEK 1 db
 
 b) gyakorló nadrág multicam/TEK 1 db
 
+c) póló fekete/TEK 2 db
+
 (2) A Terrorelhárítási Központ Személyvédelmi Igazgatóságán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
+
+a) nyári bakancs/TEK 1 pár
+
+b) póló galléros fekete/TEK 2 db
+
+(3) A Terrorelhárítási Központ Ügyeleti és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztályán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
+
+a) nyári bakancs/TEK 1 pár
+
+b) póló galléros fekete/TEK 2 db
+
+c) póló galléros fehér/TEK 2 db
+
+(4) A Terrorelhárítási Központ Ügyeleti és Objektumvédelmi Igazgatóság Ügyeleti Főosztályán szolgálatot teljesítő hivatásos állomány, valamint a Terrorelhárítási Központ Ügyeleti és Objektumvédelmi Igazgatóság Támogató Osztályán segédelőadó 1 szolgálati beosztást betöltő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
+
+a) félcipő/TEK Ügyelet 1 pár
+
+b) póló galléros fekete/TEK 2 db
+
+c) póló galléros fehér/TEK 2 db
+
+(5) A Terrorelhárítási Központ Felderítési Igazgatóságán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
 
 a) gyakorló zubbony Urban digit/TEK 1 db
 
 b) gyakorló nadrág Urban digit/TEK 1 db
 
-(3) A Terrorelhárítási Központ Ügyeleti és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztályán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
+(6) A Terrorelhárítási Központ Operatív Technikai-Informatikai Igazgatóságán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
 
-a) barett sapka 1 db
+a) gyakorló zubbony multicam/TEK 1 db
 
-b) polár pulóver fekete/TEK 1 db
+b) gyakorló nadrág multicam/TEK 1 db
 
-(4) A Terrorelhárítási Központ Ügyeleti és Objektumvédelmi Igazgatóság Ügyeleti Főosztályán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
+c) póló fekete/TEK 2 db
 
-a) TEK feliratú téli sapka 1 db
-
-b) polár pulóver fekete/TEK 1 db
-
-(5) A Terrorelhárítási Központ Operatív Technikai-Informatikai Igazgatóságán szolgálatot teljesítő hivatásos állomány természetbeni ellátása a következő cikkekből áll:
-
-a) 5.11-es nadrág Stryke Pants 1 db
-
-b) Phike póló Performance Short Sleeve 1 db
-
-(6) Az (5) bekezdésben meghatározott termékek a ruházati ellátási normában történő rendszeresítés esetén adhatók ki.
+[^3]: Az 5. § a 6/2017. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
