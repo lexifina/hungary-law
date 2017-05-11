@@ -1,6 +1,6 @@
 ## 22. Az igénybevételi célból kijelölt ingatlanra, szolgáltatásra vonatkozó rendszeres adatszolgáltatás elrendelése
 
-49. § (1)[^88] A megyei, fővárosi védelmi bizottság elnöke által az igénybevételre kijelölt ingatlan, szolgáltatás tulajdonosát, birtokosát, az azzal rendelkezni jogosultat a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 48. § (2) bekezdés a) pontja alapján a kijelölés időtartamára rendszeres adatszolgáltatásra kötelező határozatot a területileg illetékes katonai igazgatási szerv készíti elő, melyhez csatolja az adatszolgáltatás teljesítéséhez szükséges formanyomtatványt.
+49. § (1)[^89] A megyei, fővárosi védelmi bizottság elnöke által az igénybevételre kijelölt ingatlan, szolgáltatás tulajdonosát, birtokosát, az azzal rendelkezni jogosultat a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 48. § (2) bekezdés a) pontja alapján a kijelölés időtartamára rendszeres adatszolgáltatásra kötelező határozatot a területileg illetékes katonai igazgatási szerv készíti elő, melyhez csatolja az adatszolgáltatás teljesítéséhez szükséges formanyomtatványt.
 
 (2) A rendszeres adatszolgáltatást elrendelő határozat négy példányban készül, melynek egy-egy példányát a megyei, fővárosi védelmi bizottság elnöke megküldi a területileg illetékes katonai igazgatási szervnek, valamint a katonai igazgatási szerv vezetője útján az ingatlan fekvése szerint, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye, fióktelepe szerint illetékes polgármesternek, valamint a szolgáltatásra kötelezettnek.
 
@@ -8,4 +8,4 @@
 
 (4) Az ingatlan fekvése szerint, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye, fióktelepe szerint illetékes katonai igazgatási központ az igénybevételre kijelölt ingatlannal, szolgáltatással kapcsolatos rendszeres adatszolgáltatásról – az adatokban bekövetkezett, igénybevételt befolyásoló változás esetén – az adatok megküldésével évente június 30-ig tájékoztatja az igénybevevőt, valamint az 48. § (6) bekezdése szerinti esetben az igénybevevő székhelye szerint illetékes katonai igazgatási központot.
 
-[^88]: A 49. § (1) bekezdése a 168/2016. (VII. 1.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^89]: A 49. § (1) bekezdése a 168/2016. (VII. 1.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

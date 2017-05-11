@@ -1,4 +1,4 @@
-10. § (1)[^38] A Honvéd Vezérkar főnöke szakirányítja
+10. § (1)[^39] A Honvéd Vezérkar főnöke szakirányítja
 
 a) a Honvédség alkalmazásával,
 
@@ -22,4 +22,4 @@ i) a katonai fegyelemmel
 
 (2) A Honvéd Vezérkar főnöke az (1) bekezdés f) pontja szerinti szakterület szakirányítását a Honvédség kijelölt parancsnoka, vezetője útján, az (1) bekezdés g) és h) pontja szerinti szakterület szakirányítását pedig a Honvéd Vezérkar főnökének helyettese útján gyakorolja.
 
-[^38]: A 10. § (1) bekezdése a 168/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^39]: A 10. § (1) bekezdése a 168/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
