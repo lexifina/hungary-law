@@ -1,4 +1,4 @@
-## 78. § A miniszter a honvédelemért való felelőssége keretében ellátja a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feladatokat, valamint kidolgozza és megvalósítja a nemzeti rendezvények koncepcióját.
+## 78. §[^76] A miniszter a honvédelemért való felelőssége keretében ellátja a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feladatokat
 
 ## 9. Az igazságügyi miniszter feladat- és hatásköre
 
@@ -13,3 +13,5 @@
 4. kárpótlásért
 
 felelős tagja.
+
+[^76]: A 78. § a 114/2017. (V. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.

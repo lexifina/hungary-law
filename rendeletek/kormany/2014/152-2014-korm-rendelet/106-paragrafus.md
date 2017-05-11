@@ -1,6 +1,6 @@
 106. § (1) A miniszter a területfejlesztés stratégiai tervezéséért való felelőssége keretében előkészíti a kedvezményezett térségek besorolására, a területfejlesztési koncepciókra és programokra, a tervrendszer szabályozására, a vállalkozási övezetekre vonatkozó jogszabályokat.
 
-(2)[^120] A miniszter a területfejlesztés stratégiai tervezéséért való felelőssége keretében
+(2)[^121] A miniszter a területfejlesztés stratégiai tervezéséért való felelőssége keretében
 
 a) összehangolja az országos és térségi területfejlesztési koncepciókat és programokat, irányítja azok rendszerének kialakítását, működését,
 
@@ -12,4 +12,4 @@ d) segíti a terület- és regionális fejlesztést érintő kutatási elemző t
 
 e) elemzi a térségi fejlesztési folyamatokat, javaslatot tesz a régiók területi lehatárolására, kidolgozza a regionális támogatási térkép koncepcióját.
 
-[^120]: A 106. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 831. §-ával megállapított szöveg.
+[^121]: A 106. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 831. §-ával megállapított szöveg.
