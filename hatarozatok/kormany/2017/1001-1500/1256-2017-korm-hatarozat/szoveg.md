@@ -96,4 +96,6 @@ c) felel – az érintett szervek feladat- és hatáskörének sérelme nélkül
 
 16. A Kormány felhívja a minisztert, hogy a nemzeti rendezvények 2017-es éves koncepcióját az MTÜ Zrt. bevonásával vizsgálja felül és az abban szükséges módosításokat 2017. május 31. napjáig jóváhagyás céljából terjessze a Kormány elé.
 
-17. Hatályát veszti a nemzeti ünnepek, valamint a kiemelt fontosságú rendezvények előkészítésének és lebonyolításának rendjéről szóló 1432/2014. (VII. 31.) Korm. határozat.
+17.[^2]
+
+[^2]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
