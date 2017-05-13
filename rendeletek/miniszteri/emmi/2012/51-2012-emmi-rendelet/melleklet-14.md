@@ -428,4 +428,4 @@ Képző- és iparművészet V.,
 
 Hang-, film és színháztechnika VI., ágazatok esetében
 
-[^61]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be.
+[^61]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2017. (V. 5.) EMMI rendelet 2. § e) pontja szerint módosított szöveg.
