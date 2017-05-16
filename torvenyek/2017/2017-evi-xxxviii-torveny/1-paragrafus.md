@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad Magyarország és a Vietnami Szocialista Köztársaság között létrejött kiadatási egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
