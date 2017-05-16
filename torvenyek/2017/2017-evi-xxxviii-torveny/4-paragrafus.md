@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről az igazságügyért felelős miniszter gondoskodik.
 
 (5) Az 1986. évi 8. törvényerejű rendelettel kihirdetett, a Magyar Népköztársaság és a Vietnami Szocialista Köztársaság között a polgári, a családjogi és a bűnügyi jogsegély tárgyában Hanoiban 1985. évi január hó 18. napján aláírt szerződésnek az Egyezmény 24. cikk 2. bekezdésében található módosításoknak megfelelően egységes szerkezetbe foglalt magyar nyelvű szövegének közzétételéről az igazságügyért felelős miniszter a külpolitikáért felelős miniszter egyetértésével gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
