@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya között a kölcsönös bűnügyi jogsegélyről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
