@@ -1,0 +1,1 @@
+## 1. § A 2017. évre vonatkozó, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti minimális vagyonvédelmi szolgáltatási rezsióradíj általános forgalmi adó nélküli legkisebb mértéke 2141 forint/óra.
