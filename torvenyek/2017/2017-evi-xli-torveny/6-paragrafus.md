@@ -68,6 +68,4 @@ g) a kérelem benyújtásának időpontja.”
 
 „(4) Az 5. § (9) bekezdése szerinti szervezetek az egyéni vállalkozók nyilvántartását vezető szerv, az állami és önkormányzati adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv, az agrárkár-enyhítési szerv, az élelmiszerlánc-felügyeleti szerv, a fogyasztóvédelmi hatóság, az ingatlanügyi hatóság, a munkaügyi hatóság, a kereskedelmi hatóság, a Gazdasági Versenyhivatal, a polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartást kezelő szerv és a mezőgazdasági igazgatási szerv az e törvényben meghatározott agrárkamarai nyilvántartások vezetéséhez szükséges, az e törvényben meghatározott adatokat, továbbá az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat átadja az agrárkamara számára.”
 
-(6) A Tv. 8. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A kamarai tagot nyilvántartó bíróság – ide nem értve a cégbíróságot – az e törvényben meghatározott agrárkamarai nyilvántartás vezetése és az agrárkamarai közfeladatok ellátása érdekében a kamarai tagra vonatkozó, az e törvényben meghatározottak szerinti, és a bíróság nyilvántartásában szereplő nyilvános adatokat továbbfeldolgozásra alkalmas módon, elektronikus úton, díj- és térítésmentesen átadja az agrárkamara számára. Az adatszolgáltatás lebonyolításának részletes szabályait a kamara és a kamarai tagot nyilvántartó bíróság közti megállapodásban kell meghatározni.”
+(6)

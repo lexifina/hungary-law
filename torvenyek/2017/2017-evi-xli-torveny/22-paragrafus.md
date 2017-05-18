@@ -3,11 +3,3 @@
 (2) A 6. § (6) bekezdése e törvény kihirdetését követő tizenötödik napon lép hatályba.
 
 (3) A 8. § és a 19. § (2) bekezdése e törvény kihirdetését követő harmincegyedik napon lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
