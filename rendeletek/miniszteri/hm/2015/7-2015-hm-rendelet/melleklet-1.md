@@ -1,5 +1,6 @@
-## 94. §[^81] E rendeletnek az egyes honvédelmi miniszteri rendeleteknek a honvédelmi miniszter irányítása alá tartozó központi hivatalok szervezeti integrációjával összefüggő módosításáról szóló 16/2016. (VIII. 31.) HM rendelettel módosított 76. § (4) bekezdését és 79/A. §-át 2016. július 1-jétől kell alkalmazni.
+## 95. §[^83] E rendeletnek a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet és a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet módosításáról szóló 5/2017. (V. 17.) HM rendelettel (a továbbiakban: Módr1.) megállapított 74/A. § (2) bekezdését, valamint – ehhez kapcsolódóan – 74/A. § (3) és (10) bekezdését a 2017. április 1-jétől a Módr1. hatálybalépéséig[^84] terjedő időszakban létesített önkéntes területvédelmi tartalékos szolgálati viszonyok vonatkozásában is alkalmazni kell.
 
 1. melléklet a 7/2015. (VI. 22.) HM rendelethez
 
-[^81]: A 94. §-t a 16/2016. (VIII. 31.) HM rendelet 13. §-a iktatta be.
+[^83]: A 95. §-t az 5/2017. (V. 17.) HM rendelet 6. §-a iktatta be.
+[^84]: A hatálybalépés időpontja 2017. május 18.
