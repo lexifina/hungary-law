@@ -6,7 +6,7 @@ a) az őstermelő:
 
 aa) meghal,
 
-ab) az őstermelői igazolványát visszaadja,
+ab) az őstermelői igazolványát visszaadja, visszavonják,
 
 ac) az őstermelői igazolvány hatályának lejártát követő negyedik hónap utolsó napján;
 
@@ -14,21 +14,21 @@ b) az egyéni vállalkozó:
 
 ba) meghal,
 
-bb) agrárgazdasági tevékenység körébe tartozó összes tevékenységét megszünteti,
+bb) az agrárgazdasági tevékenység körébe tartozó összes tevékenységét megszünteti,
 
 bc) egyéni céggé alakul át, feltéve, ha az egyéni cég agrárgazdasági tevékenységet nem folytat;
 
 c) az a) és b) pont hatálya alá nem tartozó személyt a földművesekről vezetett nyilvántartásból törlik;
 
-d) gazdálkodó szervezet:
+d) a gazdálkodó szervezet:
 
 da) jogutód nélkül megszűnik,
 
 db) a 2. § b) pont ba) alpontja szerinti esetben az agrárgazdasági tevékenység körébe tartozó főtevékenységét megszünteti,
 
-dc) a 2. § b) pont bb) alpontja szerinti esetben az élelmiszerlánc-felügyeleti információs rendszerből kivezetésre kerül, valamennyi agrárgazdasági tevékenység folytatását megszünteti,
+dc) a 2. § b) pont bb) alpontja szerinti esetben az élelmiszerlánc-felügyeleti információs rendszerből kivezetésre kerül, illetve valamennyi agrárgazdasági tevékenység folytatását megszünteti,
 
-dd) a db) és a dc) alpont hatálya alá nem tartozó gazdálkodó szervezetet a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból való törléssel.
+dd) a db) és a dc) alpont hatálya alá nem tartozó gazdálkodó szervezet a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból való törléssel.
 
 (2) Amennyiben az (1) bekezdés a) pont ac) alpontja szerinti őstermelő a tárgyévet követő negyedik hónap lejártát követően nem vált ki őstermelői igazolványt, és a tárgyévet követően más jogcímen sem lesz az agrárkamara tagja, mentesül a tárgyévet követő négy hónap kamarai tagság alapján fizetendő tagdíj megfizetése, valamint bevallási és adatszolgáltatási kötelezettség teljesítése alól.
 

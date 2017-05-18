@@ -18,7 +18,7 @@ bc) a ba) és bb) pont szerinti feltételek hiányában mezőgazdasági termelő
 
 a polgári perrendtartásról szóló 1952. évi III. törvény 396. § szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
 
-c) agrárkamara tagja: a kamarai tagjegyzékbe bejegyzett gazda, gazdálkodó szervezet;
+c)
 
 d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
 

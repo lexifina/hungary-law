@@ -8,9 +8,11 @@ a) a mezőgazdaságért,
 
 b) az élelmiszeriparért,
 
-c) a vidékfejlesztésért,
+c) a vidékfejlesztésért, valamint
 
-d) a mikro-, kis-, és középvállalkozásokért, valamint az általános agrárgazdasági ügyekért, aki egyben az elnök általános helyettese.
+d) az általános agrárgazdasági ügyekért, aki egyben az elnök általános helyettese.
+
+(2a) Az alelnökök feladatkörükben felelnek a mikro-, kis- és középvállalkozásokkal kapcsolatos ügyek intézéséért is.
 
 (3) A kamarai osztályok szakmai tevékenységét – az alapszabályban meghatározottak szerint – az alelnök felügyeli.
 

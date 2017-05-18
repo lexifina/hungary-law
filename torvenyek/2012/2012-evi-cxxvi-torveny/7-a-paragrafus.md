@@ -34,4 +34,4 @@ használhatja fel.
 
 (7) Az adatkezelés során a kamarának biztosítania kell, hogy az adatokat illetéktelen személy ne ismerhesse meg, azokat a törvényben, illetve az alapszabályban meghatározottól eltérő célra ne használják fel.
 
-(8) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás nem nyilvános. Harmadik személy – a tagra vonatkozó adatok tekintetében – csak az érintett tag hozzájárulásával vagy törvényi felhatalmazás alapján erre feljogosított személy tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
+(8) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás nem nyilvános. Harmadik személy – a tagra vonatkozó adatok tekintetében – csak az érintett tag hozzájárulásával vagy törvényi felhatalmazás alapján tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.

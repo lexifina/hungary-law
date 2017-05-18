@@ -37,3 +37,7 @@ g) általános gazdasági és szakmai tájékoztatókat tart.
 (8) A kamara jogszabályban meghatározott esetekben nyilvántartást vezet, továbbá az agrárgazdaság területén szükséges igazolásokat, bizonyítványokat és okmányokat állít ki, illetve hitelesít.
 
 (9) Az agrárkamara részt vesz a közösségi forrásból is támogatott tanácsadási, tájékoztatási feladatok ellátásában.
+
+(10) Az agrárkamara jogosult a tagjai részére kamarai igazolványt kiadni.
+
+(11) Az agrárkamara jogosult naprakészen bárki számára ingyenesen az interneten, valamint mobiltelefonokon használható alkalmazás keretében folyamatosan megismerhetővé tenni azt, hogy melyik kamarai igazolvány szám vonatkozásában áll vagy nem áll fenn kamarai tagság, valamint a 10. § (3) bekezdés szerinti kizárás.

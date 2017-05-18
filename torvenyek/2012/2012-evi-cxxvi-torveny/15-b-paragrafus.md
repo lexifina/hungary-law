@@ -10,6 +10,8 @@ d) a támogatott szaktanácsadói tevékenység szervezésével, koordinálásá
 
 e) a mezőgazdasági, vidékfejlesztési szaktanácsadási tevékenységet segítő informatikai rendszer működtetésével,
 
-f) az Európai Unió tagállamainak mezőgazdasági szaktanácsadó szervezeteivel való kapcsolat létesítésével, fenntartásával, valamint a nemzetközi fórumokon a magyar mezőgazdasági, vidékfejlesztési szaktanácsadás képviseletével
+f) az Európai Unió tagállamainak mezőgazdasági szaktanácsadó szervezeteivel való kapcsolat létesítésével, fenntartásával, valamint a nemzetközi fórumokon a magyar mezőgazdasági, vidékfejlesztési szaktanácsadás képviseletével,
+
+g) a Nemzeti Agrár-tanácsadási Bizottság titkárságának működtetésével
 
 összefüggő feladatokat.
