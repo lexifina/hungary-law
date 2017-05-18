@@ -6,7 +6,7 @@
 
 (4) A részletfizetési megállapodásban rögzíteni kell különösen
 
-a)[^168] az állomány megtérítésre kötelezett tagjának nevét, a tartozás jogcímét, a tartozás teljes összegét, a fizetési könnyítés engedélyezéséről szóló ügyirat nyilvántartási számát,
+a)[^170] az állomány megtérítésre kötelezett tagjának nevét, a tartozás jogcímét, a tartozás teljes összegét, a fizetési könnyítés engedélyezéséről szóló ügyirat nyilvántartási számát,
 
 b) a befizetés módját, átutalás esetén a bankszámlaszámot,
 
@@ -20,7 +20,7 @@ f) a részletfizetési megállapodás aláírása napján érvényes jegybanki a
 
 (5) A Honvédség a kamatköveteléséről nem mondhat le.
 
-(6)[^169] Az (1) bekezdés szerinti megállapodást a munkáltató képviseletében az állományilletékes parancsnok írja alá.
+(6)[^171] Az (1) bekezdés szerinti megállapodást a munkáltató képviseletében az állományilletékes parancsnok írja alá.
 
-[^168]: A 117. § (4) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^169]: A 117. § (6) bekezdését a 25/2016. (XII. 22.) HM rendelet 33. § (2) bekezdése iktatta be.
+[^170]: A 117. § (4) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^171]: A 117. § (6) bekezdését a 25/2016. (XII. 22.) HM rendelet 33. § (2) bekezdése iktatta be.

@@ -1,5 +1,5 @@
 ## 84. Módosító rendelkezések
 
-287. §[^270]
+287. §[^272]
 
-[^270]: A 287–288. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^272]: A 287–288. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

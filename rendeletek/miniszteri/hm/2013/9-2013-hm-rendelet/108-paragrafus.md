@@ -1,6 +1,6 @@
 ## 31. Képzésre történő vezénylés, tanulmányi szerződés
 
-108. §[^160] (1) Az állomány tagja a Hjt. 42. § (2) bekezdés g) pontja szerint vezénylés alapján vesz részt a HM képzési katalógusban szereplő
+108. §[^162] (1) Az állomány tagja a Hjt. 42. § (2) bekezdés g) pontja szerint vezénylés alapján vesz részt a HM képzési katalógusban szereplő
 
 a) katonai mesterképzésen,
 
@@ -28,4 +28,4 @@ történő részvételét tanulmányi szerződés megkötésével támogathatja.
 
 (5) A Hjt. 42. § (2) bekezdés g) pontja szerint vezénylést kell alkalmazni a HM képzési katalógusban szereplő kiképzésekre is.
 
-[^160]: A 108. § a 25/2016. (XII. 22.) HM rendelet 28. §-ával megállapított szöveg.
+[^162]: A 108. § a 25/2016. (XII. 22.) HM rendelet 28. §-ával megállapított szöveg.

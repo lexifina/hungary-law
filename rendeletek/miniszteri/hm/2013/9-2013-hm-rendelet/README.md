@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-15
 | 2016-09-01 | 2013-9-20-15.13 | 15/2016. (VIII. 31.) HM rendelet |
 | 2017-01-01 | 2013-9-20-15.14 | 25/2016. (XII. 22.) HM rendelet |
 | 2017-04-21 | 2013-9-20-15.15 | 1/2017. (IV. 20.) HM rendelet |
+| 2017-05-18 | 2013-9-20-15.16 | 4/2015. (VI. 22.) HM rendelet |

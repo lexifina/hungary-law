@@ -58,7 +58,7 @@ m)[^4] a hadművelet közvetett támogatása külföldről, nem hadműveleti ter
 
 n)[^5] a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztetéseken történő részvétel, és
 
-o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében végzett külföldi szolgálatteljesítés.
+o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása vagy harcászati kiképzés végrehajtása érdekében végzett külföldi szolgálatteljesítés.
 
 11.[^7] munkakör: a munkafolyamat, a tevékenység alapegysége, amely a munkamegosztás alapján elkülönül és meghatározza az azt betöltő személy elvégzendő feladatait, jog- és hatáskörét, felelősségét és kötelezettségeit, valamint a szükséges szakmai, pszichikai követelményeket, illetve az egészségi korlátozásokat,
 
@@ -81,7 +81,7 @@ o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légt�
 [^3]: Az 1. § 7. pont b) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 2. pontja szerint módosított szöveg.
 [^4]: Az 1. § 10. pont m) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 3. pontja szerint módosított szöveg.
 [^5]: Az 1. § 10. pont n) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 4. pontja szerint módosított szöveg.
-[^6]: Az 1. § 10. pont o) alpontját a 4/2015. (VI. 22.) HM rendelet 1. §-a iktatta be.
+[^6]: Az 1. § 10. pont o) alpontját a 4/2015. (VI. 22.) HM rendelet 1. §-a iktatta be, szövege az 5/2017. (V. 17.) HM rendelet 3. §-a szerint módosított szöveg.
 [^7]: Az 1. § 11. pontja a 10/2015. (VII. 30.) HM rendelet 82. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
 [^8]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
 [^9]: Az 1. § 14a. pontját a 10/2016. (VI. 29.) HM rendelet 1. §-a iktatta be.

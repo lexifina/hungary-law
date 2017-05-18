@@ -1,11 +1,11 @@
 100. § (1) Az előmenetel központi tervezését a központi személyügyi szerv hajtja végre a szakmai felelősökkel és az állományilletékes parancsnokokkal együttműködve.
 
-(2)[^139] Az előmenetel helyi tervezését a feltölthető beosztás szerinti honvédségi szervezet személyügyi szerve hajtja végre. Az előmenetel helyi tervezésekor a főtörzsőrmester rendfokozattal rendszeresített szolgálati beosztások esetében figyelembe kell venni az állomány más honvédségi szervezet állományába tartozó törzsőrmester rendfokozatú tagját, ha a 94/B. § (2) bekezdésében foglaltak szerint az adott helyőrséget megjelölte.
+(2)[^141] Az előmenetel helyi tervezését a feltölthető beosztás szerinti honvédségi szervezet személyügyi szerve hajtja végre. Az előmenetel helyi tervezésekor a főtörzsőrmester rendfokozattal rendszeresített szolgálati beosztások esetében figyelembe kell venni az állomány más honvédségi szervezet állományába tartozó törzsőrmester rendfokozatú tagját, ha a 94/B. § (2) bekezdésében foglaltak szerint az adott helyőrséget megjelölte.
 
-(3)[^140] Az állomány (2) bekezdésben foglalt törzsőrmester rendfokozatú tagjáról az állományilletékes honvédségi szervezet személyügyi szerve a tárgyév július 1-jéig tájékoztatja a helyi előmenetel tervezést végrehajtó személyügyi szervet.
+(3)[^142] Az állomány (2) bekezdésben foglalt törzsőrmester rendfokozatú tagjáról az állományilletékes honvédségi szervezet személyügyi szerve a tárgyév július 1-jéig tájékoztatja a helyi előmenetel tervezést végrehajtó személyügyi szervet.
 
-(4)[^141] Ha az állomány törzsőrmester rendfokozatú tagja által a teljesítményértékelésben megjelölt helyőrségben több honvédségi szervezet is települ, a megjelölt helyőrség szerinti összes honvédségi szervezetet tájékoztatni kell a (3) bekezdésben foglaltak szerint.
+(4)[^143] Ha az állomány törzsőrmester rendfokozatú tagja által a teljesítményértékelésben megjelölt helyőrségben több honvédségi szervezet is települ, a megjelölt helyőrség szerinti összes honvédségi szervezetet tájékoztatni kell a (3) bekezdésben foglaltak szerint.
 
-[^139]: A 100. § (2) bekezdése a 10/2016. (VI. 29.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^140]: A 100. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 17. § (2) bekezdése iktatta be.
-[^141]: A 100. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 17. § (2) bekezdése iktatta be.
+[^141]: A 100. § (2) bekezdése a 10/2016. (VI. 29.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^142]: A 100. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 17. § (2) bekezdése iktatta be.
+[^143]: A 100. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 17. § (2) bekezdése iktatta be.

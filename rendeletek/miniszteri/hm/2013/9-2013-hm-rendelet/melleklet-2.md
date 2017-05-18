@@ -384,7 +384,7 @@
 
 | 187. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
 
-2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^273]
+2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^275]
 
 A MUNKAKÖRI KÖVETELMÉNYEK MEGÁLLAPÍTÁSÁHOZ ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE, VALAMINT A MUNKAKÖRI KÖVETELMÉNYEK MEGHATÁROZÁSA
 
@@ -444,7 +444,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.1. Összhaderőnemi általános katonai, általános szárazföldi, általános légierő, általános logisztika, vezénylő altisztek, vám- és általános munkakörök
 
-## 6K07645N_2
+## 7K07262M_2
 
 |  | A | B | C | D | E | F | G |
 
@@ -482,7 +482,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.1. lövész, harckocsizó, tüzér
 
-## 6K07645N_3
+## 7K07262M_3
 
 |  | A | B | C | D | E | F | G |
 
@@ -520,7 +520,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.2. felderítő és elektronikai hadviselési szakirányú vezető szervezetek munkakörei
 
-## 6K07645N_4
+## 7K07262M_4
 
 |  | A | B | C | D | E | F | G |
 
@@ -548,7 +548,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.3. felderítő (nem mélységi), elektronikai hadviselési
 
-## 6K07645N_5
+## 7K07262M_5
 
 |  | A | B | C | D | E | F | G |
 
@@ -584,7 +584,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.4. mélységi és speciális felderítő
 
-## 6K07645N_6
+## 7K07262M_6
 
 |  | A | B | C | D | E | F | G |
 
@@ -620,7 +620,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.5. különleges műveleti
 
-## 6K07645N_7
+## 7K07262M_7
 
 |  | A | B | C | D | E | F | G |
 
@@ -656,7 +656,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.6. műszaki
 
-## 6K07645N_8
+## 7K07262M_8
 
 |  | A | B | C | D | E | F | G |
 
@@ -692,7 +692,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.7. vegyivédelmi
 
-## 6K07645N_9
+## 7K07262M_9
 
 |  | A | B | C | D | E | F | G |
 
@@ -728,7 +728,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.8. civil-katonai együttműködési, lélektani műveleti, információs műveleti
 
-## 6K07645N_10
+## 7K07262M_10
 
 |  | A | B | C | D | E | F | G |
 
@@ -766,7 +766,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.1. repülőgép-, helikopter személyzet
 
-## 6K07645N_11
+## 7K07262M_11
 
 |  | A | B | C | D | E | F | G |
 
@@ -802,7 +802,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.2. légvédelmi rakéta és tüzér
 
-## 6K07645N_12
+## 7K07262M_12
 
 |  | A | B | C | D | E | F | G |
 
@@ -840,7 +840,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.3. légi vezetés, repülő harcbiztosító
 
-## 6K07645N_13
+## 7K07262M_13
 
 |  | A | B | C | D | E | F | G |
 
@@ -878,7 +878,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.1. általános híradó, rádióhíradás, rádiórelé híradás, hírközpontok, vezetékes híradás, futár és tábori posta híradás
 
-## 6K07645N_14
+## 7K07262M_14
 
 |  | A | B | C | D | E | F | G |
 
@@ -914,7 +914,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.2. repülésbiztosító-, földi repülésirányító szolgálat
 
-## 6K07645N_15
+## 7K07262M_15
 
 |  | A | B | C | D | E | F | G |
 
@@ -950,7 +950,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.3. ügyviteli, információvédelmi
 
-## 6K07645N_16
+## 7K07262M_16
 
 |  | A | B | C | D | E | F | G |
 
@@ -982,7 +982,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.4. vezetési, informatikai
 
-## 6K07645N_17
+## 7K07262M_17
 
 |  | A | B | C | D | E | F | G |
 
@@ -1016,7 +1016,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.1. üzembentartás, páncélos és gépjárműtechnika
 
-## 6K07645N_18
+## 7K07262M_18
 
 |  | A | B | C | D | E | F | G |
 
@@ -1052,7 +1052,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.2. vegyivédelmi technika, kiképzéstechnika, különleges berendezés technika
 
-## 6K07645N_19
+## 7K07262M_19
 
 |  | A | B | C | D | E | F | G |
 
@@ -1088,7 +1088,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.3. fegyverzettechnika, aktív eszközök, elektronika, műszaki technika, mérésügy
 
-## 6K07645N_20
+## 7K07262M_20
 
 |  | A | B | C | D | E | F | G |
 
@@ -1124,7 +1124,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.4. repülőműszaki
 
-## 6K07645N_21
+## 7K07262M_21
 
 |  | A | B | C | D | E | F | G |
 
@@ -1160,7 +1160,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.5. ellátó (hadtáp), közlekedés és szállítás
 
-## 6K07645N_22
+## 7K07262M_22
 
 |  | A | B | C | D | E | F | G |
 
@@ -1196,7 +1196,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.6. harcanyag
 
-## 6K07645N_23
+## 7K07262M_23
 
 |  | A | B | C | D | E | F | G |
 
@@ -1234,4 +1234,4 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.6.1. térképész
 
-[^273]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja, a 10/2016. (VI. 29.) HM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^275]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja, a 10/2016. (VI. 29.) HM rendelet 27. § (2) bekezdése, az 5/2017. (V. 17.) HM rendelet 2. § a) pontja szerint módosított szöveg.

@@ -16,9 +16,9 @@ c) a szolgálatteljesítési időkeret időtartama alapulvételével a szolgála
 
 (4) Váltásos rendszerben – a 117/A. § (2) bekezdésétől eltérően – a szolgálatteljesítési idő beosztását az állomány tagjával legalább tíz nappal korábban, legalább egy hónapra előre a helyben szokásos módon közölni kell.
 
-(5)[^180] Váltásos rendszerben a szolgálat ellátására beosztott szolgálatteljesítési idő teljes elszámolása szempontjából a szolgálat kezdőnapja az irányadó.
+(5)[^182] Váltásos rendszerben a szolgálat ellátására beosztott szolgálatteljesítési idő teljes elszámolása szempontjából a szolgálat kezdőnapja az irányadó.
 
-(6)[^181] Nem lehet heti pihenőnapot kijelölni a váltásos rendszerben
+(6)[^183] Nem lehet heti pihenőnapot kijelölni a váltásos rendszerben
 
 a) a (2) bekezdés b) pontja, valamint
 
@@ -26,8 +26,8 @@ b) a 22 óra és reggel 6 óra közötti időszakot teljes egészében lefedő 1
 
 szerinti pihenőidő napjára.
 
-(7)[^182] A váltásos rendszerben foglalkoztatottak esetében nem alkalmazható a 119/A. § (2) bekezdés a) és b) pontja, a 119/A. § (2) bekezdés c) pontja pedig csak abban az esetben alkalmazható, ha a gyakorlaton való részvétel nem a tényleges munkaköri feladatellátást jelenti.
+(7)[^184] A váltásos rendszerben foglalkoztatottak esetében nem alkalmazható a 119/A. § (2) bekezdés a) és b) pontja, a 119/A. § (2) bekezdés c) pontja pedig csak abban az esetben alkalmazható, ha a gyakorlaton való részvétel nem a tényleges munkaköri feladatellátást jelenti.
 
-[^180]: A 120. § (5) bekezdése a 18/2015. (XII. 22.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^181]: A 120. § (6) bekezdését a 18/2015. (XII. 22.) HM rendelet 14. § (2) bekezdése iktatta be.
-[^182]: A 120. § (7) bekezdését a 18/2015. (XII. 22.) HM rendelet 14. § (2) bekezdése iktatta be.
+[^182]: A 120. § (5) bekezdése a 18/2015. (XII. 22.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^183]: A 120. § (6) bekezdését a 18/2015. (XII. 22.) HM rendelet 14. § (2) bekezdése iktatta be.
+[^184]: A 120. § (7) bekezdését a 18/2015. (XII. 22.) HM rendelet 14. § (2) bekezdése iktatta be.

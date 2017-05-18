@@ -14,12 +14,22 @@
 
 (7) Az egészségügyi munkakörökre vonatkozó kizáró korlátozásokat, valamint a (6) bekezdés szerinti követelményeket munkakörönként kell megállapítani.
 
-(8)[^69]
+(8)[^69] A 2. mellékletben meghatározottak szerint közigazgatási vagy jogi szakvizsga letételéhez kötött beosztás (a továbbiakban: közigazgatási vagy jogi szakvizsga letételéhez kötött beosztás) – a munkáltatói jogkört gyakorló erre vonatkozó, különösen a szolgálati beosztáshoz kapcsolódó rendszeres vagy ismétlődő munkaköri feladatokra tekintettel meghozott döntése esetén, a (10) és (11) bekezdésben meghatározott feltételekkel – betölthető az állomány azon tagjával is, aki a közigazgatási vagy jogi szakvizsgára vonatkozó kötelezettségét nem teljesítette, kivéve, ha a beosztás
 
-(9)[^70] Nem feltétele a jogi vagy a közigazgatási szakvizsga letétele a jogi és igazgatási munkakörnek minősülő, százados rendfokozattal rendszeresített szolgálati beosztás betöltésének akkor, ha az állomány tagja hadnagy rendfokozatot visel.
+a) hatósági hatáskörben kiadmányozási jogkör gyakorlására vagy jogi képviselettel járó tevékenység végzésére irányul, vagy
+
+b) hatósági döntés előkészítését végző vagy jogi képviselet ellátására jogosult szervezet, vagy szervezeti egység vezetésére irányul.
+
+(9)[^70] E rendelet alkalmazásában közigazgatási szakvizsgával egyenértékű a jogi szakvizsga, valamint a Közigazgatási Továbbképzési Kollégium által teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat és az annak alapján adott mentesítés. A Közigazgatási Továbbképzési Kollégium részben is közigazgatási jellegűnek minősítheti az állomány tagjának tudományos fokozatát, ebben az esetben az állomány tagja a közigazgatási szakvizsgának abból a részéből tesz vizsgát, amelyre a mentesítés nem vonatkozik.
+
+(10)[^71] A közigazgatási vagy jogi szakvizsga letételéhez kötött beosztás csak olyan közigazgatási vagy jogi szakvizsgával nem rendelkező személlyel tölthető be, aki írásban vállalja, hogy a beosztásba helyezését követő két éven belül teljesíti a beosztáshoz szükséges közigazgatási vagy jogi szakvizsgát, illetve a (9) bekezdés szerinti feltételt.
+
+(11)[^72] Ha az állomány tagja a (10) bekezdésben meghatározottakat a beosztásba helyezését követő két éven belül nem teljesíti, olyan más beosztásba kell áthelyezni, amelyhez a (8) bekezdés szerinti képzési kötelezettség teljesítése nem szükséges.
 
 [^66]: A 26. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^67]: A 26. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 19. pontja szerint módosított szöveg.
 [^68]: A 26. § (5) bekezdése a 4/2015. (VI. 22.) HM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^69]: A 26. § (8) bekezdését a 10/2015. (VII. 30.) HM rendelet 83. § (2) bekezdés a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 80. §-át.
-[^70]: A 26. § (9) bekezdését a 6/2014. (IV. 14.) HM rendelet 2. §-a iktatta be.
+[^69]: A 26. § (8) bekezdését a 10/2015. (VII. 30.) HM rendelet 83. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan az 5/2017. (V. 17.) HM rendelet 1. § (1) bekezdése iktatta be.
+[^70]: A 26. § (9) bekezdését a 6/2014. (IV. 14.) HM rendelet 2. §-a iktatta be, szövege az 5/2017. (V. 17.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^71]: A 26. § (10) bekezdését az 5/2017. (V. 17.) HM rendelet 1. § (3) bekezdése iktatta be.
+[^72]: A 26. § (11) bekezdését az 5/2017. (V. 17.) HM rendelet 1. § (3) bekezdése iktatta be.
