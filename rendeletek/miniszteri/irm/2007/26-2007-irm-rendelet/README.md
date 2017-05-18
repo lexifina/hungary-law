@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-1
 | 2012-01-01 | 2007-26-20-1U.4 | 68/2011. (XII. 30.) BM rendelet |
 | 2013-07-01 | 2007-26-20-1U.5 | 33/2013. (VI. 28.) BM rendelet |
 | 2017-01-01 | 2007-26-20-1U.6 | 51/2007. (XII. 11.) IRM rendelet |
+| 2017-05-18 | 2007-26-20-1U.7 | 7/2017. (V. 17.) BM rendelet |

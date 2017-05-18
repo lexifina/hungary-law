@@ -1,8 +1,14 @@
-13. §[^13] (1) Ez a rendelet
+13. §[^14] (1) Ez a rendelet
 
 a) a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtásról szóló, 2003. november 25-i 2003/110/EK tanácsi irányelvnek, valamint b) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelv 8. cikk (5) bekezdésének való megfelelést szolgálja.
 
-(2) Ez a rendelet harmadik államok kiutasított állampolgárainak két vagy több tagállam területéről történő kitoloncolására szolgáló közös légi járatok szervezéséről szóló, 2004. április 29-i 2004/573/EK tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+(2)[^15] Ez a rendelet
+
+a) a harmadik államok kiutasított állampolgárainak két vagy több tagállam területéről történő kitoloncolására szolgáló közös légi járatok szervezéséről szóló, 2004. április 29-i 2004/573/EK tanácsi határozat, valamint
+
+b) a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldéséhez kiállított európai úti okmány létrehozásáról, valamint az 1994. november 30-i tanácsi ajánlás hatályon kívül helyezéséről szóló, 2016. október 26-i (EU) 2016/1953 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 Melléklet a 26/2007. (V. 31.) IRM rendelethez
 
@@ -60,4 +66,5 @@ A felkért egység határozata
 
 * Ezt a tájékoztatást az alkalmazandó nemzeti vagy nemzetközi joggal összhangban kell megadni.
 
-[^13]: A 13. § a 33/2013. (VI. 28.) BM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 13. § a 33/2013. (VI. 28.) BM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 13. § (2) bekezdése a 7/2017. (V. 17.) BM rendelet 2. §-ával megállapított szöveg.
