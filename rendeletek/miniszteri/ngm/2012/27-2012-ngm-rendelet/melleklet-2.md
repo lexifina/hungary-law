@@ -5004,4 +5004,12 @@ A vizsgafeladat időtartama: 120 perc
 
 A vizsgafeladat értékelési súlyaránya: 15%
 
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése szerint módosított szöveg.
+D) A vizsgafeladat megnevezése: Bútorok és szőnyegek meghatározása, értékbecslése, átvétele
+
+A vizsgafeladat ismertetése: Konkrét bútorok és szőnyegek önálló leírása, meghatározása, értékbecslése katalógusok és egyéb eszközök segítségével (legalább 5 db bútor és 5 db szőnyeg).
+
+Az elvégzett meghatározások, értékbecslések alapján két tárgy készpénzes felvásárlása, vagy bizományi átvétele, vagy aukcióra történő felvétele, vagy zálogba vétele a megfelelő bizonylat kitöltésével.
+
+A vizsgafeladat időtartama: 120 perc
+
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése, a 8/2017. (V. 17.) NGM rendelet 1. §-a szerint módosított szöveg.
