@@ -1,0 +1,189 @@
+# A Kormány 116/2017. (V. 19.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 73. szám, 2017. május 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/fcf8959fd15d5bf4d1eee0d0d9fdd439860e75cc/dokumentumok/df901cf46a89776dcc9336874456d055e2cf378e/letoltes)
+
+---
+
+A Kormány 116/2017. (V. 19.) Korm. rendelete
+a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási
+Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló
+126/2016. (VI. 7.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási
+Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló 126/2016. (VI. 7.) Korm.
+rendelet [a továbbiakban: 126/2016. (VI. 7.) Korm. rendelet] 3. § (1) bekezdés 7. pontja helyébe a következő
+rendelkezés lép:
+(E rendelet alkalmazásában)
+„7. hazai társfinanszírozás: az uniós támogatás hazai kedvezményezettje, hazai TA kedvezményezettje, az információs
+pont feladatot ellátó külföldi TA kedvezményezettje, illetve az 1. § f) pontja szerinti együttműködési programban
+a külföldi irányító hatóság részére nyújtott vissza nem térítendő hazai támogatás,”
+(2) A 126/2016. (VI. 7.) Korm. rendelet 3. § (1) bekezdése a következő 16a. és 16b. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„16a. kisprojekt: az 1. § d) pontja szerinti együttműködési programban megvalósuló Kisprojekt Alap keretében
+finanszírozott projekt,
+16b. Kisprojekt Alap: az 1. § d) pontja szerinti együttműködési programban megvalósuló támogatási struktúra,
+amelyben a rendelkezésre álló forrás kisprojektek részére történő pályázati célú meghirdetését és a struktúra
+működtetését a monitoring bizottság által kiválasztott menedzsment szervezetek kedvezményezettként végzik,”
+(3) A 126/2016. (VI. 7.) Korm. rendelet 3. § (1) bekezdése a következő 32a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„32a. támogatás kifizetési egység: a nemzeti hatóság által megbízott azon szervezet, amely a hazai társfinanszírozás
+és a megelőlegezés hazai kedvezményezettek felé történő kifizetését, továbbá a visszakövetelésekkel kapcsolatos
+feladatokat végzi,”
+2. § (1) A 126/2016. (VI. 7.) Korm. rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (2a) és
+(2b) bekezdéssel egészül ki:
+„(2) A hazai társfinanszírozás mértéke
+a) központi és köztestületi költségvetési szerv, valamint közvetlen vagy közvetett módon kizárólagosan állami
+tulajdonban lévő gazdasági társaság hazai kedvezményezett esetén a projektrész összes elszámolható költségeinek
+legfeljebb 15%-a,
+b) az a) pontban meghatározott körbe nem tartozó hazai kedvezményezett esetén a projektrész összes
+elszámolható költségeinek legfeljebb 10%-a,
+c) hazai TA kedvezményezett, információs pont feladatot ellátó külföldi TA kedvezményezett, és az 1. § f) pontja
+szerinti együttműködési program külföldi irányító hatósága esetén a TA költségvetésben szereplő, teljes időszakra
+vonatkozó hazai támogatás összege
+lehet.
+(2a) A (2) bekezdést nem kell alkalmazni az 1. § d) pontja szerinti együttműködési program Kisprojekt Alapjából
+finanszírozott kisprojektek és az 1. § a) és d) pontja szerinti együttműködési programból finanszírozott kis- és
+középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kedvezményezettekre.
+(2b) Az 1. § d) pontja szerinti együttműködési program Kisprojekt Alapjából finanszírozott kisprojektek és az 1. §
+a) és d) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott
+támogatási konstrukcióban részt vevő kedvezményezettekre hazai társfinanszírozásra nem jogosultak.”
+(2) A 126/2016. (VI. 7.) Korm. rendelet 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A hazai társfinanszírozás összege euróban kerül meghatározásra. A hazai társfinanszírozás kifizetése euróban
+történik a hazai kedvezményezett, a hazai TA kedvezményezett, az információs pont feladatot ellátó külföldi
+TA kedvezményezett és az 1. § f) pontja szerinti együttműködési program külföldi irányító hatóság euróban vezetett
+számlájára.”
+
+(3) A 126/2016. (VI. 7.) Korm. rendelet 4. § (6) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(A hazai kedvezményezettel – ide nem értve a központi költségvetési szerv hazai kedvezményezettet – kötendő hazai
+társfinanszírozási támogatási szerződésben rendelkezni kell a hazai társfinanszírozás vonatkozásában az e rendeletben
+meghatározott jogcímen visszafizetendő támogatás visszafizetésének biztosítékáról, amely a hazai kedvezményezett
+választása szerint lehet)
+„d) bankgarancia.”
+3. §
+A 126/2016. (VI. 7.) Korm. rendelet 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A nemzeti hatóság gondoskodik
+a) az 1. § c), e) és f) pontja szerinti együttműködési program esetén a hazai társfinanszírozási támogatási szerződés
+alapján a hazai társfinanszírozási támogatás kifizetéséről a hazai TA kedvezményezett részére, valamint – szükség
+esetén – annak visszaköveteléséről,
+b) az éves tagállami hozzájárulás összegének külföldi irányító hatóság részére történő kifizetéséről, illetve – szükség
+esetén – a tagállami helytállás rendelkezésre bocsátásáról,
+c) az 1. § f) pontja szerinti együttműködési program esetén a külföldi irányító hatóság TA projektjéhez kapcsolódó
+hazai társfinanszírozás kifizetéséről a program külföldi irányító hatósága részére.”
+4. §
+A 126/2016. (VI. 7.) Korm. rendelet 6. § (1) bekezdése a következő c) ponttal egészül ki:
+(A hazai társfinanszírozás)
+„c) az 1. § f) pontja szerinti együttműködési program irányító hatósága részére a vonatkozó monitoring bizottsági
+döntés”
+(alapján kerül kifizetésre.)
+5. § (1) A 126/2016. (VI. 7.) Korm. rendelet 7. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A nemzeti hatóság gondoskodik a hazai TA kedvezményezett, az információs pont feladatot ellátó külföldi
+TA kedvezményezett és az 1. § f) pontja szerinti együttműködési program irányító hatóság által vissza nem fizetett
+összeg behajtásáról.”
+(2) A 126/2016. (VI. 7.) Korm. rendelet 7. § (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) Ha a hazai kedvezményezettet, a hazai TA kedvezményezettet, az információs pont feladatot ellátó külföldi
+TA kedvezményezettet vagy az 1. § f) pontja szerinti együttműködési program irányító hatóságát érintő
+szabálytalanságból fakadó összeget az együttműködési program zárásáig nem lehet behajtani, akkor a behajtásra
+tett kísérlet és intézkedés valamennyi dokumentációját a hazai kedvezményezett, a hazai TA kedvezményezett,
+az információs pont feladatot ellátó külföldi TA kedvezményezett, illetve az 1. § f) pontja szerinti együttműködési
+program irányító hatósága zárójelentésének jóváhagyásától számított tíz évig meg kell őrizni.”
+6. § (1) A 126/2016. (VI. 7.) Korm. rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő
+(1a) bekezdéssel egészül ki:
+„(1) A határon átnyúló együttműködési programok keretében uniós támogatásra jóváhagyott projektek hazai
+kedvezményezettjei számára – az (1a) bekezdésben meghatározott kivétellel – a nemzeti hatóság kérelemre
+megelőlegezést biztosít.
+(1a) Nem biztosítható az (1) bekezdés szerinti megelőlegezés az 1. § d) pontja szerinti együttműködési program
+Kisprojekt Alapjából finanszírozott kisprojektek és az 1. § a) és d) pontja szerinti együttműködési programból
+finanszírozott kis- és középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kis- és
+középvállalkozás kedvezményezettek számára.”
+(2) A 126/2016. (VI. 7.) Korm. rendelet 8. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A megelőlegezés mértéke a hazai kedvezményezett projektrészére megítélt uniós támogatás összegének legfeljebb)
+„a) 50%-a, de legfeljebb egymillió euró civil szervezet, egyházi jogi személy, mikro-, kis- és középvállalkozás, hazai
+székhelyű európai területi társulás, nonprofit gazdasági társaság – ide nem értve a b) pont szerinti gazdasági
+társaságot – kedvezményezett esetén,”
+(3) A 126/2016. (VI. 7.) Korm. rendelet 8. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Az 1. § b) pontja szerinti együttműködési program esetén a megelőlegezés összege nem haladhatja meg
+a projektrészre megítélt uniós támogatás összegének a 46. § (1) bekezdés szerinti uniós előleggel csökkentett
+összegét.”
+
+7. § (1) A 126/2016. (VI. 7.) Korm. rendelet 9. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A megelőlegezett összegek visszatérítése részletekben történik. A megelőlegezett összeg visszatérítése céljából
+a 8. § (3) bekezdés
+a) a) pontja szerinti megelőlegezés esetén legkésőbb a projektrészre eső uniós támogatás 50%-át meghaladó,
+az uniós támogatás terhére teljesített minden egyes kifizetés összegét – beleértve a 46. § (1) bekezdés szerinti uniós
+előleget is –,
+b) b) pontja szerinti megelőlegezés esetén legkésőbb a projektrészre eső uniós támogatás terhére teljesített minden
+egyes kifizetés összegét – ide nem értve 46. § (1) bekezdés szerinti uniós előleget –
+annak a hazai kedvezményezett fizetési számláján történő jóváírását követő harminc napon belül vissza kell utalni.”
+(2) A 126/2016. (VI. 7.) Korm. rendelet 9. §-a a következő (6b) bekezdéssel egészül ki:
+„(6b) A megelőlegezés visszafizetése forintban történik. A hazai kedvezményezett számláján jóváírt euró összeg
+forintosítására a megelőlegezési szerződésben rögzített árfolyamon kerül sor.”
+8. §
+A 126/2016. (VI. 7.) Korm. rendelet 10/A. §-a helyébe a következő rendelkezés lép:
+„10/A. § Az előirányzat-felhasználási keretszámla vezetésével és forgalmával kapcsolatban felmerült költséget
+a Magyarország központi költségvetéséről szóló törvényben meghatározott az A költségvetés közvetlen bevételei
+és kiadásai fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím, Egyéb vegyes kiadások jogcímcsoport
+terhére kell elszámolni.”
+9. §
+A 126/2016. (VI. 7.) Korm. rendelet 15. §-a helyébe a következő rendelkezés lép:
+„15. § (1) A hitelesítési tevékenységre kijelölt szervezet a már kifizetett, de szabálytalanul felhasznált vagy fel
+nem használt hazai társfinanszírozás visszakövetelése érdekében a hazai kedvezményezett részére visszafizetési
+felszólítást küld meg.
+(2) Ha az (1) bekezdés szerinti intézkedés nem vezet eredményre, a hitelesítési tevékenységre kijelölt szervezet
+az (1) bekezdés szerinti követelés behajtása érdekében érvényesíti a támogatási szerződésben meghatározott
+biztosítékot.
+(3) Ha a (2) bekezdés szerinti eljárás nem vezet eredményre, a hitelesítési tevékenységre kijelölt szervezet
+az (1) bekezdés szerinti követelés behajtása érdekében kezdeményezi annak adók módjára történő behajtását.
+(4) Ha a (3) bekezdés szerinti eljárás sem vezet eredményre, és a hazai kedvezményezett a csődeljárásról és
+a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés b) pontja szerinti adósnak minősül,
+a hitelesítési tevékenységre kijelölt szervezet a kedvezményezettel szemben felszámolási eljárást kezdeményez.”
+10. §
+A 126/2016. (VI. 7.) Korm. rendelet 29. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A hazai kedvezményezett vagy hazai TA kedvezményezett a pénzügyi korrekcióval érintett összeget nem
+használhatja fel, azt az érintett projekt költségvetésében zárolni kell. A zárolt összegre vonatkozó további
+költségelszámolás nem nyújtható be.”
+11. §
+A 126/2016. (VI. 7.) Korm. rendelet
+1. 3. § (1) bekezdés 6. pontjában a „fél” szövegrész helyébe a „fél vagy hazai székhelyű európai területi társulás”
+szöveg,
+2. 3. § (1) bekezdés 10. pontjában a „partnerország felelős szervezete” szövegrész helyébe a „nemzeti hatóság”
+szöveg,
+3. 3. § (1) bekezdés 32. pontjában a„c), e) és f)”szövegrész helyébe a„c) és e)”szöveg,
+4. 4. § (6) bekezdés c) pontjában a„kezesség,”szövegrész helyébe a„kezesség”szöveg,
+5. 6. § (2) bekezdésében a„kedvezményezett esetén”szövegrész helyébe a„kedvezményezett és az 1. § f) pontja
+szerinti együttműködési program irányító hatósága esetén”szöveg,
+6. 6. § (5) bekezdésében a„kedvezményezett esetén”szövegrész helyébe a„kedvezményezett és az 1. § f) pontja
+szerinti együttműködési program irányító hatósága esetén”szöveg,
+7. 8. § (3) bekezdés b) pontjának nyitó szövegrészében a„központi, helyi” szövegrész helyébe a„központi, helyi
+önkormányzati, nemzetiségi”szöveg,
+8. 13. § (2) bekezdésében a „befejezése és a hazai kedvezményezett által benyújtott záró jelentés elfogadása
+között”szövegrész helyébe a„megvalósításának ideje alatt”szöveg,
+9. 13. § (3) bekezdésében a„legalább”szövegrész helyébe a„legalább további”szöveg,
+10. 21. § (5) bekezdésében a„Szabálytalansági”szövegrész helyébe az„A szabálytalansági”szöveg,
+
+11. 25. § (3) bekezdésében a„meghozataláig,”szövegrész helyébe a„közléséig”szöveg,
+12. 27. § (1) bekezdésében a„lezárásáról”szövegrész helyébe a„lezárására”szöveg,
+13. 27. § (6) bekezdésében a „hazai kedvezményezettre” szövegrész helyébe a „hazai kedvezményezettre
+vagy a hazai TA kedvezményezettre” szöveg, a „hazai kedvezményezettet” szövegrész helyébe a „hazai
+kedvezményezettet, illetve a hazai TA kedvezményezettet”szöveg,
+14. 36. § (4) bekezdésében a„hitelesítés”szövegrészek helyébe a„kifizetés”szöveg,
+15. 36. § (5) bekezdésében az „a jogorvoslati egység a jogorvoslati eljárást a kérdés jogerős eldöntéséig vagy
+elbírálásáig” szövegrész helyébe az „annak döntése közléséig a jogorvoslati egység a jogorvoslati eljárást”
+szöveg,
+16. 38. § (1) bekezdés nyitó szövegrészében a „hatóság – az” szövegrész helyébe a „hatóság a megállapított
+szabálytalanságról – ha” szöveg, a „bekezdése és” szövegrész helyébe a „bekezdése alapján szükséges –”
+szöveg, a„tartalommal – jelentést”szövegrész helyébe a„tartalommal jelentést”szöveg,
+17. 37. § (1) bekezdés b) pontjában a„kérelem kiegészítése”szövegrész helyébe az„eljárás”szöveg,
+18. 38. § (1) bekezdés a) pont aa) alpontjában a „szabálytalanság megállapítását” szövegrész helyébe
+a„szabálytalanságot megállapító döntés meghozatalát”szöveg,
+19. 38. § (2) bekezdésében az „a szabálytalanság-vizsgálati” szövegrész helyébe az „az (1) bekezdés szerinti”
+szöveg
+lép.
+12. §
+Hatályát veszti a 126/2016. (VI. 7.) Korm. rendelet 3. § (1) bekezdés 26. pontja.
+13. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
