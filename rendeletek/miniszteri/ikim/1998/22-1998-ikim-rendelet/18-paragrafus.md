@@ -8,6 +8,6 @@
 
 (4) A vizsgálat során a gyártó köteles biztosítani, hogy a tanúsító szervezet képviselője ellenőrzés céljából felügyeleti, próba- és raktárhelyiségeibe beléphessen, és az ellenőrzéshez köteles rendelkezésre bocsátani a minőségbiztosítási rendszerrel összefüggő dokumentációt.
 
-(5)[^45]
+(5)[^46]
 
-[^45]: A 18. § (5) bekezdését a 31/2004. (III. 16.) GKM rendelet 6. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^46]: A 18. § (5) bekezdését a 31/2004. (III. 16.) GKM rendelet 6. § (2) bekezdésének a) pontja hatályon kívül helyezte.

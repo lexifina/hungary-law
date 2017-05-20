@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-22-20-8
 | 2011-03-29 | 1998-22-20-80.8 | 3/1999. (II. 5.) GM rendelet |
 | 2012-05-19 | 1998-22-20-80.9 | 31/2004. (III. 16.) GKM rendelet |
 | 2017-01-01 | 1998-22-20-80.10 | 31/2004. (III. 16.) GKM rendelet |
+| 2017-05-20 | 1998-22-20-80.11 | 6/2017. (V. 5.) NGM rendelet |
