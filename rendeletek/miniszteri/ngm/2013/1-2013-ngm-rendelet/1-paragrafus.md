@@ -10,15 +10,14 @@ c)[^2] a miniszter feladat- és hatáskörébe tartozó feladatok ellátása sor
 
 ## tevékenységének elismerésére.
 
-(2) E rendelet hatálya kiterjed:
+(2)[^3] E rendelet hatálya kiterjed:
 
-a) a Kitüntetési Bizottság tagjaira,
+a) a díj és az oklevél (a továbbiakban együtt: elismerés) adományozására javaslatot tevő személyre, valamint
 
-b) a díjak és elismerések adományozására javaslatot tevő személyekre, valamint
-
-c) a jelöltekre és jutalmazottakra.
+b) a jelöltre és az elismerésben részesítettre.
 
 (3) E rendelet szabályait kell alkalmazni a minisztérium szerveitől nyugdíjba vonult személyek elismerésére is.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 31/2014. (X. 18.) NGM rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontja a 31/2014. (X. 18.) NGM rendelet 6. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 10/2017. (V. 19.) NGM rendelet 1. §-ával megállapított szöveg.
