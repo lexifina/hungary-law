@@ -1,3 +1,0 @@
-5. § (1) A háztartási légkondicionáló berendezések csak a 4. § (2) bekezdésben meghatározott energiahatékonysági címkével és adatlappal ellátva hozható forgalomba.
-
-(2) Az adatlapot a gyártónak kell rendelkezésre bocsátani. Ha a gyártó nem látja el adatlappal a háztartási légkondicionáló berendezéseket, a forgalmazó, illetve a háztartási légkondicionáló berendezések bérbe- vagy lízingbeadója (a továbbiakban együtt: forgalmazó) köteles arról gondoskodni.
