@@ -1,0 +1,1 @@
+## 3. § Az R2. 2. § 8. pont b) alpontjában az „(ásott-, fúrt-, vagy csápos kút, forrásfoglalás, galéria, vízakna, szivornya)” szövegrész helyébe a „(fúrt vagy csápos kút, forrásfoglalás, galéria, vízakna, szivornya)” szöveg lép.
