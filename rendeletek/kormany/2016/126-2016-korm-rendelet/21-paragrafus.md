@@ -6,4 +6,6 @@
 
 (4) A szabálytalansági vizsgálat megindításáról, elutasításáról, a kifizetések felfüggesztéséről a szabálytalanság-felelős tájékoztatja a vizsgálatban érintetteket, illetve a nemzeti hatóságot.
 
-(5) Szabálytalansági vizsgálat az Európai Bizottságnak az együttműködési program lezárásáról szóló döntése kiadásától számított harmadik év végéig indítható meg.
+(5)[^51] A szabálytalansági vizsgálat az Európai Bizottságnak az együttműködési program lezárásáról szóló döntése kiadásától számított harmadik év végéig indítható meg.
+
+[^51]: A 21. § (5) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 10. pontja szerint módosított szöveg.

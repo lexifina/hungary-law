@@ -1,4 +1,4 @@
-## 42. §[^30] Az irányító hatóság kialakítja az Interreg V–A Magyarország–Horvátország Együttműködési Program, az Interreg–IPA Magyarország–Szerbia Együttműködési Program és az Interreg V–A Szlovákia–Magyarország Együttműködési Program (e fejezet vonatkozásában a továbbiakban együtt: programok) irányítási és kontrollrendszerét, amelynek megfelelően elkészíti és évente aktualizálja a programok irányítási és kontrollrendszerének leírását. Az irányító hatóság az aktualizált leírást minden év október 31-ig megküldi az audit hatóság részére.
+## 42. §[^65] Az irányító hatóság kialakítja az Interreg V–A Magyarország–Horvátország Együttműködési Program, az Interreg–IPA Magyarország–Szerbia Együttműködési Program és az Interreg V–A Szlovákia–Magyarország Együttműködési Program (e fejezet vonatkozásában a továbbiakban együtt: programok) irányítási és kontrollrendszerét, amelynek megfelelően elkészíti és évente aktualizálja a programok irányítási és kontrollrendszerének leírását. Az irányító hatóság az aktualizált leírást minden év október 31-ig megküldi az audit hatóság részére.
 
 ## 11. Pályáztatás és szerződéskötés
 
@@ -24,4 +24,4 @@ c) vis maior esemény következik be.
 
 (4) A hazai kedvezményezett által biztosított önerő aránya a projekt támogatásának növelése esetén sem csökkenhet.
 
-[^30]: A 42. § a 223/2016. (VII. 22.) Korm. rendelet 7. § 19. pontja szerint módosított szöveg.
+[^65]: A 42. § a 223/2016. (VII. 22.) Korm. rendelet 7. § 19. pontja szerint módosított szöveg.

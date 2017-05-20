@@ -1,8 +1,8 @@
 13. § (1) A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként köteles gondoskodni a projektrészek megvalósításának helyszíni ellenőrzéséről.
 
-(2) Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege nem haladja meg a kétszázezer eurót, a projektrész befejezése és a hazai kedvezményezett által benyújtott záró jelentés elfogadása között legalább egy helyszíni ellenőrzést le kell folytatni. Helyszíni ellenőrzést kell lefolytatni akkor is, ha azt a kockázatelemzés eredménye indokolja.
+(2)[^48] Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege nem haladja meg a kétszázezer eurót, a projektrész megvalósításának ideje alatt legalább egy helyszíni ellenőrzést le kell folytatni. Helyszíni ellenőrzést kell lefolytatni akkor is, ha azt a kockázatelemzés eredménye indokolja.
 
-(3) Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege meghaladja a kétszázezer eurót, de nem éri el az egymillió eurót, a (2) bekezdés szerinti helyszíni ellenőrzésen felül a projektrész megvalósítása során legalább egy helyszíni ellenőrzést le kell folytatni.
+(3)[^49] Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege meghaladja a kétszázezer eurót, de nem éri el az egymillió eurót, a (2) bekezdés szerinti helyszíni ellenőrzésen felül a projektrész megvalósítása során legalább további egy helyszíni ellenőrzést le kell folytatni.
 
 (4) Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege eléri vagy meghaladja az egymillió eurót, a (2) bekezdés szerinti helyszíni ellenőrzésen felül a projektrészt minden, a hazai kedvezményezett által benyújtott jelentés elfogadása előtt a helyszínen ellenőrizni kell. A hitelesítési tevékenységre kijelölt szervezet ettől eltekinthet, ha a hazai kedvezményezett által benyújtott jelentés elfogadása előtti egy évben már történt helyszíni ellenőrzés.
 
@@ -25,3 +25,6 @@ g) a közbeszerzésekre vonatkozó uniós és nemzeti szabályok betartását, �
 h) az állami támogatással, a környezetvédelemmel, az esélyegyenlőséggel és a fenntartható fejlődéssel kapcsolatos követelmények betartását, és
 
 i) az elkülönített számviteli nyilvántartás vezetését.
+
+[^48]: A 13. § (2) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 8. pontja szerint módosított szöveg.
+[^49]: A 13. § (3) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.

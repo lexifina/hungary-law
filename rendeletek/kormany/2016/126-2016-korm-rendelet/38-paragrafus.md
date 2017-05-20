@@ -1,16 +1,16 @@
 ## 9. Jelentés a szabálytalanságokról
 
-38. § (1) A nemzeti hatóság – az 1303/2013/EU európai parlamenti és tanácsi rendelet 122. cikk (2) bekezdése és a 2015/1970 felhatalmazáson alapuló bizottsági rendelet 3. cikkében részletezett tartalommal – jelentést küld
+38. § (1)[^59] A nemzeti hatóság a megállapított szabálytalanságról – ha 1303/2013/EU európai parlamenti és tanácsi rendelet 122. cikk (2) bekezdése alapján szükséges – a 2015/1970 felhatalmazáson alapuló bizottsági rendelet 3. cikkében részletezett tartalommal jelentést küld
 
 a) az igazoló hatóság, az irányító hatóság és az audit hatóság részére
 
-aa) az újonnan megállapított szabálytalanságok esetén a szabálytalanság megállapítását követő tíz napon belül,
+aa)[^60] az újonnan megállapított szabálytalanságok esetén a szabálytalanságot megállapító döntés meghozatalát követő tíz napon belül,
 
 ab) egyéb esetben a negyedévet követő harminc napon belül,
 
-b)[^26] az Európai Csalás Elleni Hivatal Koordinációs Iroda részére az 1. § c), e) és f) pontjai szerinti együttműködési program esetén.
+b)[^61] az Európai Csalás Elleni Hivatal Koordinációs Iroda részére az 1. § c), e) és f) pontjai szerinti együttműködési program esetén.
 
-(2)[^27] Az 1. § a), b) és d) pontja szerinti együttműködési program esetén az (1) bekezdés szerinti jelentések alapján az igazoló hatóság az újonnan megállapított szabálytalanságok esetén a szabálytalanság-vizsgálati jelentés beérkezését követő tizenöt napon belül, egyéb esetben a negyedévet követő negyvenöt napon belül köteles jelentést küldeni az Európai Csalás Elleni Hivatal Koordinációs Iroda részére.
+(2)[^62] Az 1. § a), b) és d) pontja szerinti együttműködési program esetén az (1) bekezdés szerinti jelentések alapján az igazoló hatóság az újonnan megállapított szabálytalanságok esetén az (1) bekezdés szerinti jelentés beérkezését követő tizenöt napon belül, egyéb esetben a negyedévet követő negyvenöt napon belül köteles jelentést küldeni az Európai Csalás Elleni Hivatal Koordinációs Iroda részére.
 
 (3) Az (1) és (2) bekezdés szerinti jelentést az Európai Csalás Elleni Hivatal Koordinációs Iroda az újonnan megállapított szabálytalanságok esetén a jelentés beérkezését követő tizenöt napon belül, egyéb esetben a negyedévet követő két hónapon belül megküldi az Európai Csalás Elleni Hivatal részére, illetve tájékoztatásul annak személyes adatokat nem tartalmazó kivonatát az audit hatóságnak.
 
@@ -24,5 +24,7 @@ b)[^26] az Európai Csalás Elleni Hivatal Koordinációs Iroda részére az 1. 
 
 (8) Az igazoló hatóság legkésőbb minden év március 31-éig köteles megküldeni a kimutatást az Európai Bizottságnak.
 
-[^26]: A 38. § (1) bekezdés b) pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.
-[^27]: A 38. § (2) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 16. pontja szerint módosított szöveg.
+[^59]: A 38. § (1) bekezdés nyitó szövegrésze a 116/2017. (V. 19.) Korm. rendelet 11. § 16. pontja szerint módosított szöveg.
+[^60]: A 38. § (1) bekezdés a) pont aa) alpontja a 116/2017. (V. 19.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
+[^61]: A 38. § (1) bekezdés b) pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.
+[^62]: A 38. § (2) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 16. pontja, a 116/2017. (V. 19.) Korm. rendelet 11. § 19. pontja szerint módosított szöveg.

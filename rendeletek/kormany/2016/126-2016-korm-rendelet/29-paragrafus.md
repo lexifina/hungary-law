@@ -2,6 +2,8 @@
 
 (2) Ha nem lehetséges egyedi módon számszerűsíteni a pénzügyi korrekció mértékét, vagy adott esetben aránytalan lenne, vagy félrevezető eredményre vezetne az érintett kiadás egészének visszavonása, átalányon alapuló korrekciót kell alkalmazni. Az átalányon alapuló korrekció mértékét a szabálytalanság súlya és pénzügyi következményei alapján kell meghatározni.
 
+(2a)[^55] A hazai kedvezményezett vagy hazai TA kedvezményezett a pénzügyi korrekcióval érintett összeget nem használhatja fel, azt az érintett projekt költségvetésében zárolni kell. A zárolt összegre vonatkozó további költségelszámolás nem nyújtható be.
+
 (3) Ha az audit hatóság vagy az auditori csoport hazai tagja ellenőrzési tevékenysége során a költségnyilatkozat korrekciójával járó hibát állapít meg
 
 a) a hazai igazoló hatóság a soron következő átutalás igénylési dokumentációt a pénzügyi korrekció összegével csökkentett mértékben nyújtja be az Európai Bizottságnak,
@@ -9,3 +11,5 @@ a) a hazai igazoló hatóság a soron következő átutalás igénylési dokumen
 b) az audit hatóság vagy az auditori csoport hazai tagja felkéri a nemzeti hatóságot, hogy tájékoztassa a hazai kedvezményezettet vagy a hazai TA kedvezményezettet a szabálytalanság megállapításáról és intézkedjen a pénzügyi korrekció és egyéb jogkövetkezmények végrehajtásáról.
 
 (4) A visszakövetelést elrendelő döntés számítási hibája ellen jogorvoslati kérelem benyújtásának van helye.
+
+[^55]: A 29. § (2a) bekezdését a 116/2017. (V. 19.) Korm. rendelet 10. §-a iktatta be.
