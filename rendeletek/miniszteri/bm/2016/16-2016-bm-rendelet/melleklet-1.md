@@ -1,4 +1,4 @@
-1. melléklet a 16/2016. (V. 12.) BM rendelethez
+1. melléklet a 16/2016. (V. 12.) BM rendelethez[^7]
 
 ## A víziközmű üzemeltetéséért felelős vezetők szakmai képesítési előírásai
 
@@ -84,87 +84,97 @@
 
 2. Vezetői állások betöltésének feltétele a 2 év szakirányú szakmai gyakorlat.
 
-3. A képesítések C) fejezet szerinti felsorolásában nem szereplő, de a felsőoktatásban szerezhető képesítések jegyzékéről és az új képesítések jegyzékbe történő felvételéről szóló kormányrendelet szerinti szakirányú felsőfokú műszaki képzettség egyenértékű a B fejezet szerinti B1 és B2 táblázatban megadott kompetencia követelmény szinthez tartozó Alapképzettségi (AK) és Szakirányú továbbképzés (SZT) kritériummal.
+3. A B) fejezet B1. és B2. pontjában foglalt táblázatban megadott kompetencia-követelményszinthez tartozó Alapképzettségi (AK) és Szakirányú továbbképzés (SZT) előírás jelölése megfeleltethető a C) fejezet szerinti felsorolásban foglaltaknak. A B) fejezetben és a C) fejezetben az Alapképzettség (AK) középfokú és felsőfokú végzettséget jelent. A B1 és B2 táblázatban szereplő, az egy munkakörhöz és üzemmérethez tartozó, minimálisan szükséges kompetenciafelsorolások között vagylagos kapcsolat áll fenn.
 
-A korábbi ötéves egyetemi képzés megfelel a jelenlegi MSc képesítésnek, a korábbi hároméves főiskolai/üzemmérnöki képzés a jelenlegi BSc képesítésnek.
+Amennyiben a C) fejezet C1. és C2. pontjában foglalt táblázat szakok megnevezése oszlopában nem szerepel a B) fejezet szerinti kompetencia, abban az esetben a megnevezett szakokkal egyenértékűnek minősülő szakok a 3.1. és 3.2. alpontokban foglaltak szerint állapíthatóak meg.
 
-Vita esetén a Magyar Mérnöki Kamara állásfoglalását lehet kérni.
+Vita esetén a Magyar Mérnöki Kamara állásfoglalását kell kérni.
 
-Továbbá az egyenértékűnek minősülő felsőfokú képesítések a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló kormányrendelet alapján állapíthatóak meg.
+Egyenértékűnek minősülő középfokú és felsőfokú képesítések megállapítása:
+
+3.1. a középfokú alapképzettséggel egyenértékű képesítés az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló kormányrendelet, valamint a belügyminiszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről, valamint egyes szakmai és vizsgakövetelmények kiadásáról szóló miniszteri rendeletek hatályon kívül helyezéséről szóló miniszteri rendelet alapján történhet;
+
+3.2. a felsőfokú alapképzettséggel egyenértékű képesítés a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló kormányrendelet, valamint a felsőoktatási szakképzések, az alap- és mesterképzések képzési és kimeneti követelményeiről, valamint a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló miniszteri rendelet alapján állapítható meg;
+
+3.3. a felsőoktatás keretében felsőfokú végzettségi szintet nem biztosító szakirányú továbbképzéssel egyenértékű képesítés a szakirányú továbbképzés szervezésének általános feltételeiről szóló miniszteri rendelet alapján állapítható meg.
 
 C) Alkalmazott jelölések, kapcsolódó képesítések a kompetenciát igénylő vezetői feladatkörök és munkakörök betöltéséhez
 
 C1. AK – Alapképzettség:
 
-| képzettség | szakok |
+|  | A | B | C | D |
 
-| végzettségi szint | rövidítése | megnevezése |
+| 1. | képzettség | szakok |
 
-| Alapképzettség | MSc | EM1 | infrastruktúra-építőmérnöki |
+| 2. |  | végzettségi szint | rövidítése | megnevezése |
 
-| hidrogeológus mérnöki |
+| 3. |  |  | EM1 | infrastruktúra-építőmérnöki |
 
-| EM2 | vegyészmérnöki |
+| 4. |  |  |  | hidrogeológus mérnöki |
 
-| vegyész |
+| 5. |  |  | EM2 | vegyészmérnöki |
 
-| biomérnöki |
+| 6. |  |  |  | vegyész |
 
-| biológus |
+| 7. |  |  |  | biomérnöki |
 
-| molekuláris biológia |
+| 8. |  |  |  | biológus |
 
-| hidrobiológus |
+| 9. |  |  |  | molekuláris biológia |
 
-| gyógyszervegyész-mérnöki |
+| 10. |  |  |  | hidrobiológus |
 
-| EM3 | környezetmérnöki |
+| 11. |  | MSc |  | gyógyszervegyész-mérnöki |
 
-| gépészmérnöki |
+| 12. |  |  |  | környezetmérnöki |
 
-| épületgépészeti és eljárástechnikai gépészmérnöki |
+| 13. |  |  |  | gépészmérnöki |
 
-| villamosmérnöki |
+| 14. |  |  |  | épületgépészeti és eljárástechnikai gépészmérnöki |
 
-| településmérnöki |
+| 15. |  |  |  | villamosmérnöki |
 
-| környezettudomány |
+| 16. |  |  | EM3 | településmérnöki |
 
-| földtudományi mérnöki |
+| 17. |  |  |  | környezettudomány |
 
-| földtudomány |
+| 18. |  |  |  | földtudományi mérnöki |
 
-| geológus |
+| 19. | Alapképzettség |  |  | földtudomány |
 
-| BSc | M1 | vízügyi üzemeltetési mérnöki |
+| 20. |  |  |  | geológus |
 
-| építőmérnöki |
+| 21. |  |  |  | mezőgazdasági vízgazdálkodási mérnök |
 
-| M2 | vegyészmérnöki |
+| 22. |  |  | M1 | vízügyi üzemeltetési mérnöki |
 
-| biomérnöki |
+| 23. |  |  |  | építőmérnöki |
 
-| kémia |
+| 24. |  |  |  | vegyészmérnöki |
 
-| biológia |
+| 25. |  |  | M2 | biomérnöki |
 
-| M3 | környezetmérnöki |
+| 26. |  |  |  | kémia |
 
-| földtudományi |
+| 27. |  | BSc |  | biológia |
 
-| műszaki földtudományi |
+| 28. |  |  |  | környezetmérnöki |
 
-| gépészmérnöki |
+| 29. |  |  |  | földtudományi |
 
-| villamosmérnöki |
+| 30. |  |  |  | műszaki földtudományi |
 
-| környezettan |
+| 31. |  |  | M3 | gépészmérnöki |
 
-| Technikus | T1 | vízügyi technikus |
+| 32. |  |  |  | villamosmérnöki |
 
-| víz- és szennyvízkezelő |
+| 33. |  |  |  | környezettan |
 
-| T2 | vegyész technikus |
+| 34. |  | Technikus | T1 | vízügyi technikus |
+
+| 35. |  |  |  | víz- és szennyvízkezelő |
+
+| 36. |  |  | T2 | vegyész technikus |
 
 C2. SZT – Szakirányú továbbképzés
 
@@ -177,3 +187,5 @@ C2. SZT – Szakirányú továbbképzés
 C3. GY – Gyakorlati idő
 
 Közüzemi ivóvízellátás-csatornázás üzemeltetési munkahelyeken az alapdiploma megszerzését követően eltöltött idő.
+
+[^7]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 4. §-a szerint módosított szöveg.

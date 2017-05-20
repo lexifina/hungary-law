@@ -1,6 +1,6 @@
 7. § (1) A vízkezelés során végzendő vizsgálatokra vonatkozó, az üzemeltetési szabályzatban és ivóvízbiztonsági tervben rögzítendő vizsgálati tervnek alkalmasnak kell lennie a technológia irányításához és ellenőrzéséhez szükséges adatok szolgáltatására és rögzítésére. A vizsgálati tervet az illetékes népegészségügyi szervvel jóvá kell hagyatni.
 
-(2) A közcélú ivóvízmű üzemeltetője köteles a vízkivételi műnél
+(2)[^2] A közcélú ivóvízmű üzemeltetője köteles a vízkivételi műnél
 
 a) az (5) és (6) bekezdés figyelembevételével első alapállapot-vizsgálatot, majd legalább 6 évenként a (7) és (8) bekezdés figyelembevételével ismételt alapállapot-vizsgálatot,
 
@@ -10,11 +10,11 @@ c) a (9) bekezdés szerinti gyakorisággal ellenőrző vizsgálatot, valamint
 
 d) a (10) bekezdés szerinti gyakorisággal sűrítő bakteriológiai vizsgálatot végezni,
 
-## és a vizsgálati eredményeket a tárgyévet követő év március 31-ig – a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben foglaltak figyelembevételével – az illetékes vízügyi hatósághoz eljuttatni.
+## és a vizsgálati eredményeket – a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben foglaltak figyelembevételével –, valamint az adatokat a tárgyévet követő év március 31-ig az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerint az illetékes vízügyi igazgatási szervhez eljuttatni.
 
-(3) Az illetékes vízügyi hatóság a (2) bekezdés szerinti vizsgálati eredményeket a tárgyévet követő év április 30-ig továbbítja a területi vízügyi igazgatóságnak.
+(3)[^3] Az illetékes vízügyi igazgatási szerv a (2) bekezdés szerinti vizsgálati eredményeket a tárgyévet követő év április 30-ig továbbítja a területi vízügyi hatóságnak.
 
-(4) A (2) bekezdés szerinti adatszolgáltatás elmaradása, illetve valótlan adatközlés gyanúja esetén a 6. § (3) bekezdésben foglaltak szerint kell eljárni.
+(4)[^4]
 
 (5) Felszín alatti vízkivételi művel rendelkező vízbázis esetén az első alapállapot-vizsgálatot – a trícium vizsgálattal együtt – a 17. § szerint kell elvégezni.
 
@@ -57,3 +57,7 @@ d) 100 m3/nap összkapacitást el nem érő ivóvízművek esetén a hálózati 
 ## el kell végezni.
 
 (11) Az ellenőrző és bakteriológiai vizsgálatok során a vizsgálatot soron kívül meg kell ismételni, ha az eredmények eltérnek a korábbi vizsgálatok alapján várható értékektől. Az eltérés okát vizsgálni kell.
+
+[^2]: A 7. § (2) bekezdése az 5/2017. (V. 5.) BM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 7. § (3) bekezdése az 5/2017. (V. 5.) BM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 7. § (4) bekezdését az 5/2017. (V. 5.) BM rendelet 5. § a) pontja hatályon kívül helyezte.

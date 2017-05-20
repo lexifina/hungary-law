@@ -24,7 +24,7 @@ c) új víziközmű üzembe helyezése során a víziközmű ideiglenes üzemelt
 
 a) felszíni vízkivételi mű: a felszíni víz kitermelésére szolgáló vízilétesítmény (völgyzárógátas, aknás, szívófejes, szűrőgátas vízkivétel),
 
-b) felszín alatti vízkivételi mű: a felszín alatti víz kitermelésére szolgáló vízilétesítmény (ásott-, fúrt-, vagy csápos kút, forrásfoglalás, galéria, vízakna, szivornya);
+b)[^1] felszín alatti vízkivételi mű: a felszín alatti víz kitermelésére szolgáló vízilétesítmény (fúrt vagy csápos kút, forrásfoglalás, galéria, vízakna, szivornya);
 
 9. védett felszín alatti vízbázisra telepített vízkivételi mű: az a vízkivételi mű, amelyen keresztül az igénybe vett vízkészletből kitermelt vízben mért trícium koncentráció kisebb, mint 0,06 Bq/l (0,5 TU);
 
@@ -47,3 +47,5 @@ b) felszín alatti vízkivételi mű: a felszín alatti víz kitermelésére szo
 18. vízkivételi mű üzemen kívül helyezése: a vízkivételi mű kivonása a víziközmű-szolgáltatásból hat hónapot elérő, vagy azt meghaladó időtartamra, mely időszakban a vízkivételi művet a szennyeződésektől és emberi behatásoktól védett módon kell lezárni;
 
 19. részletes vizsgálati terv: a biztonságos közüzemi ivóvízellátás érdekében a vizsgálandó ivóvízvételi helyeket, komponenseket és a vizsgálatokat tartalmazó vizsgálati terv.
+
+[^1]: A 2. § 8. pont b) alpontja az 5/2017. (V. 5.) BM rendelet 3. §-a szerint módosított szöveg.
