@@ -24,7 +24,9 @@ h)[^18] a Bizottság 2013/113/EU határozata (2013. március 1.) a kizárólag g
 
 i)[^19] a Bizottság 2014/61/EU határozata (2014. február 5.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról;
 
-j)[^20] a Bizottság 2015/249/EU határozata (2014. február 10.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról.
+j)[^20] a Bizottság 2015/249/EU határozata (2014. február 10.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról;
+
+k)[^21] a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról szóló, 2016. március 29-i 2016/575/EU bizottsági végrehajtási határozat.
 
 [^11]: A 8. § (2) bekezdését a 27/2008. (XII. 20.) NFGM rendelet 20. § b) pontja hatályon kívül helyezte.
 [^12]: A 8. § (3) bekezdését a 69/2007. (VII. 23.) GKM rendelet 2. §-a iktatta be.
@@ -36,3 +38,4 @@ j)[^20] a Bizottság 2015/249/EU határozata (2014. február 10.) a kizárólag 
 [^18]: A 8. § (3) bekezdés h) pontját a 7/2016. (II. 22.) NGM rendelet 6. §-a iktatta be.
 [^19]: A 8. § (3) bekezdés i) pontját a 7/2016. (II. 22.) NGM rendelet 6. §-a iktatta be.
 [^20]: A 8. § (3) bekezdés j) pontját a 7/2016. (II. 22.) NGM rendelet 6. §-a iktatta be.
+[^21]: A 8. § (3) bekezdés k) pontját a 6/2017. (V. 5.) NGM rendelet 9. §-a iktatta be.
