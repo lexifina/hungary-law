@@ -18,7 +18,9 @@
 
 ## e) hullámvasút,
 
-## f) gumiköteles toronyugró és kilövő berendezés (Bungee-jumping).
+## f) gumiköteles toronyugró és kilövő berendezés (Bungee-jumping),
+
+## g)[^25] magaslati kötélpálya, ideértve a kalandparkot is.
 
 ## II. veszélyességi osztályba tartozó mutatványos berendezések:
 
@@ -38,7 +40,7 @@
 
 ## h) vízifoci,
 
-## i) térélményt nyújtó különböző szerkezetek, szimulátor mozi,
+## i)[^26] térélményt nyújtó szerkezetek – ide nem értve a magaslati kötélpályákat és kalandparkokat –, szimulátor mozi,
 
 ## j) vízicsúzda,
 
@@ -74,7 +76,7 @@
 
 ## valamint külső energiaforrásról hajtott mutatványos berendezés, ha a használója a beszállószintről 0,3 m-nél kevesebbet emelkedik és a sebessége 1,5 m/s-nál (5,4 km/óránál) kisebb, vagy olyan eszközök, melyeken a felhasználó a saját erejéből ugrik fel rugalmas alátámasztáson, és 1 m-nél magasabbra nem lehet felmászni.
 
-2. melléklet a 7/2007. (I. 22.) GKM rendelethez[^16]
+2. melléklet a 7/2007. (I. 22.) GKM rendelethez[^27]
 
 MEGFELELŐSÉGI TANÚSÍTVÁNY
 
@@ -120,4 +122,6 @@ A berendezés időszakos vizsgálatai:
 
 | A vizsgálat időpontja | Hatályának lejárta | Kijelölt szervezet (P. H., aláírás) |
 
-[^16]: A 2. melléklet a 26/2009. (X. 22.) NFGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^25]: Az 1. melléklet I. pont g) alpontját a 6/2017. (V. 5.) NGM rendelet 8. §-a iktatta be.
+[^26]: Az 1. melléklet II. pont i) alpontja a 6/2017. (V. 5.) NGM rendelet 8. §-ával megállapított szöveg.
+[^27]: A 2. melléklet a 26/2009. (X. 22.) NFGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
