@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-8-00-00
 | 2017-03-17 | 2017. évi VIII. törvény | 2017-8-00-00.0 (közlönyállapot) |
 | 2017-03-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-8-00-00.1 |
 | 2017-05-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-8-00-00.2 |
+| 2017-05-21 | 2010. évi CXXX. törvény | 2017-8-00-00.3 |
