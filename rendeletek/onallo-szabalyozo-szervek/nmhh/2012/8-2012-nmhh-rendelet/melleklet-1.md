@@ -1,4 +1,4 @@
-1. melléklet a 8/2012. (I. 26.) NMHH rendelethez
+1. melléklet a 8/2012. (I. 26.) NMHH rendelethez[^5]
 
 ## Az elektronikus hírközlési építmények egyéb nyomvonalas építményekkel való keresztezésének és megközelítésének műszaki követelményei
 
@@ -30,7 +30,7 @@ Terepen elhelyezett szállítószalag pályát föld feletti elektronikus hírk�
 
 3.1. Föld feletti keresztezés
 
-Autópályát és autóutat elektronikus hírközlési építménnyel csak a kezelőjével egyeztetett műszaki megoldásnak megfelelően szabad föld felett keresztezni. Egyéb közút keresztezése esetében a föld feletti elektronikus hírközlési vezeték legmélyebb belógási pontja az útkorona vagy a terepszint felett külterületi első- vagy másodrendű utak, belterületi főutak esetében legalább 6,5 méter, külterületi mellékutak, belterületi mellékutak esetében legalább 5,5 méter úgy, hogy a keresztezés szöge megközelítően 90 fokos legyen, de 30 foknál kisebb, illetve 150 foknál nagyobb nem lehet.
+Gyorsforgalmi utat elektronikus hírközlési építménnyel csak a közút kezelőjével egyeztetett műszaki megoldásnak megfelelően szabad föld felett keresztezni. Belterületi és külterületi fő- és mellékutak keresztezése esetében a föld feletti elektronikus hírközlési vezeték legmélyebb belógási pontja az útkorona vagy a terepszint felett legalább 5,5 méter úgy, hogy a keresztezés szöge megközelítően 90 fokos legyen, de 30 foknál kisebb, illetve 150 foknál nagyobb nem lehet. Kerékpárút keresztezése esetében a föld feletti elektronikus hírközlési vezeték legmélyebb belógási pontja az útkorona felett legalább 3,5 méter legyen.
 
 3.2. Föld alatti keresztezés
 
@@ -38,7 +38,7 @@ A közút és föld alatti elektronikus hírközlési vezeték keresztezése ese
 
 3.3. Közút megközelítése
 
-Autópálya és autóút területén az úttengellyel párhuzamosan elektronikus hírközlési építményt elhelyezni csak a vonatkozó ágazati előírások betartásával szabad.
+Gyorsforgalmi út területén az úttengellyel párhuzamosan elektronikus hírközlési építményt elhelyezni csak a vonatkozó ágazati előírások betartásával szabad.
 
 Egyéb burkolt közút alatt, az úttengellyel párhuzamosan föld alatti elektronikus hírközlési vezetéket csak védőcsőben szabad elhelyezni.
 
@@ -46,11 +46,13 @@ Föld feletti elektronikus hírközlési vezeték nyomvonalát úgy kell kijelö
 
 Olyan közúton, ahol az útpálya mellett vízelvezető árok létesül, a vezeték oszlopait az árkon kívül, annak szélétől legalább 0,3 méter távolságra kell elhelyezni. A vezeték oszlopát útkoronán, útpadkán és útárokban elhelyezni nem szabad.
 
+A 3.1. pontban meghatározott föld feletti keresztezés kivételével útcsatlakozás keresztezésében az elektronikus hírközlési vezeték legmélyebb belógási pontjának legalább 5,5 méterre kell lennie az útkorona vagy a terepszint felett.
+
 A vezeték nyomvonalát töltésen (hídfeljárón) vagy bevágásban vezető közútnál a töltés (hídfeljáró) lábától vagy a bevágás szélétől olyan távolságban kell vezetni, hogy azok állagát ne veszélyeztesse és a fenntartási munkát ne akadályozza.
 
-Föld alatti elektronikus hírközlési vezetéket belterületi közutak esetében az útkoronán kívüli részben kell elhelyezni. Szilárd burkolatú járdában, vagy kerékpárút alatt megszakító létesítménnyel ellátott alépítményben kell elhelyezni.
+Föld alatti elektronikus hírközlési vezetéket belterületi közutak esetében az útkoronán kívüli részben kell elhelyezni. Szilárd burkolatú járdában vagy kerékpárút alatt megszakító létesítménnyel ellátott alépítményben kell elhelyezni.
 
-Föld alatti elektronikus hírközlési vezeték külterületi utak esetében – amennyiben a közút kezelőjével más megegyezés nem születik – az útkorona élét legfeljebb 1,5 méterre közelítheti meg úgy, hogy földtakarása legalább 1 méter. Megegyezés alapján az elektronikus hírközlési vezeték védőműtárgya az útpadkában, vagy a rézsűben is elhelyezhető, megszakító létesítmények nélkül. A megszakító létesítményeket az útkoronán kívüli részben kell elhelyezni.
+Föld alatti elektronikus hírközlési vezeték külterületi utak esetében – amennyiben a közút kezelőjével más megegyezés nem születik – az útkorona élét legfeljebb 1,5 méterre közelítheti meg úgy, hogy földtakarása legalább 1 méter. Megegyezés alapján az elektronikus hírközlési vezeték védőműtárgya az útpadkában vagy a rézsűben is elhelyezhető, megszakító létesítmények nélkül. A megszakító létesítményeket az útkoronán kívüli részben kell elhelyezni.
 
 3.4. Közúti műtárgy keresztezése és megközelítése
 
@@ -315,3 +317,5 @@ Föld alatti elektronikus hírközlési vezetékek keresztezésekor az egyes vez
 Föld feletti elektronikus hírközlési vezetékek esetében a keresztezésre előírt távolságokat kell betartani, kivéve az azonos szolgáltató vezetékei esetét, amire megkötés nincs. Föld alatti elektronikus hírközlési vezetékeknél azonos szolgáltató vezetékei esetében megkötés nincs, különböző szolgáltató esetében 0,1 méter távolságot kell tartani.
 
 Az elektronikus hírközlés vezetékes összeköttetéseivel összefüggő műtárgyak, tartozékok és helyhez kötött egyéb építmények legfeljebb 0,5 méterre közelíthetik meg egymást.
+
+[^5]: Az 1. melléklet a 4/2017. (V. 8.) NMHH rendelet 1. §-a szerint módosított szöveg.
