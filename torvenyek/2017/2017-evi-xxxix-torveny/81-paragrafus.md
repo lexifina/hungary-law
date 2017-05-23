@@ -1,0 +1,3 @@
+## „c) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: 2012. évi CLXXX. törvény) szerinti őrizet, átadási és ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, eljárási jogsegély keretében ideiglenesen átadott vagy átvett személy fogvatartása, továbbá a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) szerinti őrizet, kiadatási és ideiglenes kiadatási letartóztatás, ideiglenes végrehajtási letartóztatás, eljárási jogsegély keretében ideiglenesen átvett személy fogvatartása, valamint”
+
+81. § A Bv.tv. 399. § (5) bekezdése helyébe a következő rendelkezés lép:
