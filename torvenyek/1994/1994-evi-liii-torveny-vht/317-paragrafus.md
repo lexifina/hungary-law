@@ -8,7 +8,9 @@ b) 184/A. §-a és 187. §-a (1) bekezdésének b) pontja a szellemi tulajdonjog
 
 c) a kölcsönös elismerés elvének a vagyonelkobzást elrendelő határozatokra történő alkalmazásáról szóló 2006. október 6-i 2006/783/IB tanácsi kerethatározatnak,
 
-d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek
+d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
+
+e) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -25,7 +27,3 @@ d) 16. §-ának h) pontja, 31/C. §-a és 210/B. §-a a házassági ügyekben é
 e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
 
 f) 23/B. §-ának (1) bekezdése, 31/C. §-a, 37/B. §-a, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése és 210/A. §-a a polgári és kereskedelmi ügyekben a joghatóságról, valamint a bírósági határozatok végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet,
-
-g) 16. §-ának l) pontja, 23/B. §-a, 31/C. §-a, 37/B. § (4) bekezdése, 48. §-ának (8) bekezdése, 164. §-ának (2) bekezdése, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése, 210/A. §-a és 211. §-ának (3) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet [14. cikk, 16–18. cikk, 21. cikk, 26–27. cikk, 36. cikk, 41. cikk (2) bekezdés, 43. cikk, 48. cikk (3) bekezdés, 61. cikk],
-
-h) 14/A. §-a, 16. § n) pontja, 23/B. § (1) bekezdés d) pontja, 31/C. § (1) bekezdés g) pontja, 31/C. § (2) bekezdés e) pontja, 31/C. § (5) bekezdése, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, és 211. § (3) bekezdés c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
