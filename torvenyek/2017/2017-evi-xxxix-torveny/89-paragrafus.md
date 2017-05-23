@@ -19,11 +19,3 @@
 7. az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről szóló, 2008. július 24-i 2008/675/IB tanácsi kerethatározatnak
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

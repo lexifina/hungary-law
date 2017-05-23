@@ -1,3 +1,3 @@
 ## 16. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-51. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 22. § (5) bekezdés b) pontjában a „(Btk. 314–316. §)” szövegrész helyébe a „(Btk. 314–316/A. §)” szöveg, a „terrorizmus finanszírozása (Btk. 318. §)” szövegrész helyébe a „terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §)” szöveg lép.
+### 51. §

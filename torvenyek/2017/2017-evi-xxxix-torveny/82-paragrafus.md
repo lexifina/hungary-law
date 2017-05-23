@@ -1,5 +1,3 @@
-## „(5) A 2012. évi CLXXX. törvény szerinti átadási letartóztatás és ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás végrehajtása, továbbá az eljárási jogsegély keretében ideiglenesen átadott vagy átvett személy fogvatartása, valamint az Nbjt. szerinti kiadatási és ideiglenes kiadatási letartóztatás, ideiglenes végrehajtási letartóztatás végrehajtása, továbbá az eljárási jogsegély keretében ideiglenesen átvett személy fogvatartása esetén a külföldi államban folytatott büntetőeljárásban védőként eljáró személy fogva tartó intézetbe történő belépését – a védőre vonatkozó szabályok szerint – engedélyezni kell.”
-
 ## 23. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-82. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 60. § (10) bekezdés b) pontjában a „Btk. 314–316. §” szövegrész helyébe a „Btk. 314–316/A. §” szöveg, a „terrorizmus finanszírozásával (Btk. 318. §)” szövegrész helyébe a „terrorizmus finanszírozásával (Btk. 318–318/A. §) vagy háborús uszítással (Btk. 331. §)” szöveg lép.
+### 82. §

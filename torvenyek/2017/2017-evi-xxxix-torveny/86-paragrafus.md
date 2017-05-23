@@ -2,6 +2,6 @@
 
 86. § (1) Az Országgyűlés felhatalmazást ad a 2008. évi LXIII. törvénnyel kihirdetett, az Európa Tanács pénzmosásról, a bűncselekményből származó jövedelmek felkutatásáról, lefoglalásáról és elkobzásáról, valamint a terrorizmus finanszírozásáról szóló, Varsóban, 2005. május 16-án kelt Egyezménye (a továbbiakban: Varsói Egyezmény) 9. cikk 4. bekezdése alapján tett fenntartás (a továbbiakban: Fenntartás) visszavonására.
 
-(2) Hatályát veszti az Európa Tanács pénzmosásról, a bűncselekményből származó jövedelmek felkutatásáról, lefoglalásáról és elkobzásáról, valamint a terrorizmus finanszírozásáról szóló, Varsóban, 2005. május 16-án kelt Egyezménye kihirdetéséről, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény módosításáról szóló 2008. évi LXIII. törvény 4. § a) pont 2. alpontjában az „A 9. Cikk 4. bekezdése értelmében a Magyar Köztársaság fenntartja a jogot, hogy e cikk 1. bekezdést kizárólag szabadságvesztéssel fenyegetett bűncselekmények tekintetében alkalmazza.” és az „In accordance with Article 9, paragraph 4, of the Convention, the Republic of Hungary reserves the right, that Article 9, paragraph 4, shall apply only in so far as the offence is punishable by deprivation of liberty.” szövegrész.
+(2)
 
-(3) Hatályát veszti az (1) bekezdés.
+(3)

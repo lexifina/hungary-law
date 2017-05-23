@@ -1,3 +1,3 @@
 ## 15. A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény módosítása
 
-50. § A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény 4. § (5) bekezdés c) pontjában a „314–316. §” szövegrész helyébe a „314–316/A. §”, a „terrorizmus finanszírozása (Btk. 318. §)” szövegrész helyébe a „terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §)” szöveg lép.
+### 50. §
