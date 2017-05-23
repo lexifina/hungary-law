@@ -1,0 +1,3 @@
+12/J. § (1) Az ENYH végrehajtására az ENYH alapjául szolgáló eljárási cselekmény tekintetében a Szabs.tv. alapján hatáskörrel rendelkező bíróság vagy szabálysértési hatóság rendelkezik hatáskörrel.
+
+(2) A bíróság vagy a szabálysértési hatóság illetékességét az ENYH-ban megjelölt eljárási cselekmény elvégzésének helye – így különösen a meghallgatandó személy lakóhelye, tartózkodási helye vagy székhelye, a tárgyi bizonyítási eszköz fellelhetőségének helye – határozza meg. Ha az eljárási cselekmény vagy eljárási cselekmények elvégzésének több helyszíne állapítható meg, vagy az eljárási cselekmény elvégzésének helye nem állapítható meg, a központi hatóság kijelöli a végrehajtó hatóságot.

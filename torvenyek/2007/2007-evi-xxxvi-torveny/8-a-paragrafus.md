@@ -1,0 +1,1 @@
+8/A. § Az ENYH-t az 1. számú melléklet szerinti formanyomtatványnak a végrehajtó tagállam hivatalos nyelveinek egyikén vagy a tagállam által megjelölt nyelven rendelkezésre álló fordításának felhasználásával, a tagállam hatáskörrel és illetékességgel rendelkező hatóságának, vagy ha az adott tagállam központi hatóságot jelölt ki, a központi hatóságnak kell megküldeni.

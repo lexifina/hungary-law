@@ -1,0 +1,3 @@
+8/G. § (1) Ha a Szabs.tv. rendelkezései alapján az eljárási cselekmény elrendelése – ideértve a kényszerintézkedések elrendelését is – határozati formát igényel, a határozat meghozatalára az ENYH kibocsátásával kerül sor. Az ENYH-ra a továbbiakban – a kézbesítésre vonatkozó rendelkezések kivételével – a Szabs.tv.-nek az eljárási cselekményt elrendelő határozatra vonatkozó szabályait kell megfelelően alkalmazni.
+
+(2) Ha a Szabs.tv. rendelkezései alapján az eljárási cselekményt elrendelő határozat kézbesítése szükséges, úgy arra az ENYH jogorvoslati jogról szóló kioktatást és a jogosultra vonatkozó rendelkezéseket tartalmazó kivonatának kézbesítése útján kerülhet sor.

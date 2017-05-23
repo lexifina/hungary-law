@@ -1,0 +1,1 @@
+12/O. § Ha az ENYH-ban megjelölt eljárási cselekmény elrendelése ellen jogorvoslatot terjesztettek elő, a központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság a jogorvoslati kérelmet haladéktalanul továbbítja a tagállami hatóságnak, és erről a jogorvoslat előterjesztőjét tájékoztatja.

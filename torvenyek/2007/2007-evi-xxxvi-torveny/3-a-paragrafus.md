@@ -1,0 +1,1 @@
+3/A. § Az ENYH kibocsátása és végrehajtása során az 1. számú melléklet szerinti formanyomtatványban megjelölt gyanúsított vagy vádlott alatt az eljárás alá vont személy, a nyomozás alatt a szabálysértési eljárás értendő.

@@ -10,4 +10,4 @@
 
 (5) E törvény 19. § (4) és 26. § (4) bekezdése a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelv 4. és 7. cikkeinek való megfelelést szolgálja.
 
-## Melléklet a 2007. évi XXXVI. törvényhez
+(6) E törvény 1. § (1) bekezdése, 2. §-a, 3. § (4) és (5) bekezdése, 3/A. §-a, 4. §-t megelőző alcíme, 4. § (1) bekezdése, 8/A–8/G. §-a, 11/A. §-a, 12. §-t követő alcíme, 12/A–12/O. §-a, 1. számú melléklete és 2. számú melléklete a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

@@ -1,0 +1,1 @@
+12/M. § A központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság haladéktalanul vagy a tagállami hatóság által megjelölt időpontban átadja a tagállami hatóságnak az eljárási cselekmény elvégzése során megszerzett, illetve a már rendelkezésére álló bizonyítási eszközt, valamint az azzal kapcsolatos iratokat.

@@ -2,9 +2,9 @@
 
 ## ÁLTALÁNOS ELJÁRÁSI ÉS KÖLTSÉGVISELÉSI SZABÁLYOK
 
-## A jogsegély iránti megkeresések
+## A jogsegély iránti megkeresés, az ENYH előterjesztésének és visszavonásának általános szabályai
 
-4. § (1) A szabálysértési jogsegély iránti megkeresést írásban kell előterjeszteni. Indokolt esetben a megkereső azonosítását lehetővé tevő más alkalmas módon vagy eszközzel – különösen telefax vagy számítástechnikai rendszer útján – is elő lehet terjeszteni.
+4. § (1) A szabálysértési jogsegély iránti megkeresést írásban, indokolt esetben az előterjesztő azonosítását lehetővé tevő más alkalmas módon vagy eszközzel lehet előterjeszteni. Az ENYH-t az 1. számú melléklet szerinti formanyomtatványnak megfelelően hivatalból, illetve az eljárás alá vont személy vagy képviselője kezdeményezésére az a bíróság vagy szabálysértési hatóság jogosult kibocsátani, amely előtt a szabálysértési eljárás folyamatban van.
 
 (2) A megkeresésnek tartalmaznia kell:
 

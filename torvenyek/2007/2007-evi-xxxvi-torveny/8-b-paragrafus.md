@@ -1,0 +1,1 @@
+8/B. § Az ENYH-t a kibocsátó bíróság vagy szabálysértési hatóság az ENYH végrehajtásáról szóló döntés kézhezvételéig bármikor jogosult visszavonni. A kibocsátó bíróság vagy szabálysértési hatóság a visszavonásról köteles a központi hatóság útján haladéktalanul tájékoztatni a tagállami hatóságot.
