@@ -1,0 +1,5 @@
+67/G. § (1) Az eljárási jogsegély iránti megkeresés előterjesztése kapcsán Magyarország területén felmerülő költség bűnügyi költség.
+
+(2) Ha a tagállami igazságügyi hatóság tájékoztatása alapján az eljárási jogsegély iránti megkeresés teljesítése jelentős költségekkel jár, a magyar igazságügyi hatóság a tagállami igazságügyi hatósággal egyeztet, és megvizsgálja, hogy a megkereséssel elérni kívánt cél kisebb költséggel járó eljárási cselekménnyel elérhető-e. Ha ez lehetséges, a magyar igazságügyi hatóság az eljárási jogsegély iránti megkeresést módosíthatja vagy kiegészítheti.
+
+(3) Ha a tagállami igazságügyi hatóság az eljárási jogsegély iránti megkeresés teljesítését a teljesítés költségeinek magyar állam általi teljes vagy részleges előlegezésétől vagy megtérítésétől teszi függővé, a költségek előlegezéséről vagy megtérítéséről megállapodás köthető a tagállami igazságügyi hatósággal. Ha a megállapodás megkötése meghiúsul, a magyar igazságügyi hatóság az eljárási jogsegély iránti megkeresést módosíthatja, kiegészítheti vagy visszavonhatja.

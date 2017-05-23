@@ -1,0 +1,3 @@
+66/D. § (1) A magyar igazságügyi hatóság az eljárási jogsegély iránti megkeresés fogadását követően megvizsgálja, hogy a magyar jogszabályok alapján a megkeresés teljesítésének feltételei fennállnak-e.
+
+(2) Ha az eljárási jogsegély iránti megkeresésben foglaltak alapján a teljesítés nem vagy csak részben lehetséges, a magyar igazságügyi hatóság e körülményről haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot, és ezzel egyidejűleg megjelölheti azokat az adatokat, illetve iratokat, amelyeknek ismerete a megkeresés teljesítéséhez szükséges. A magyar igazságügyi hatóság a megkeresés teljesítéséhez szükséges adatok, illetve iratok megküldésére határidőt tűzhet.

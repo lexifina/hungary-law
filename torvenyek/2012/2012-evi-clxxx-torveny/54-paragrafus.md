@@ -1,13 +1,9 @@
-## 28. Fogva tartott személy ideiglenes átszállítása
+54. § (1) Az európai nyomozási határozatot a 18. számú mellékletben megjelölt formanyomtatvány szerint, a formanyomtatvány tagállam hivatalos nyelvén, hivatalos nyelveinek egyikén vagy a tagállam által megjelölt nyelven rendelkezésre álló fordításának felhasználásával kell kibocsátani.
 
-54. § (1) Ha a tagállami igazságügyi hatóság olyan, Magyarország területén teljesítendő eljárási cselekmény iránt terjesztett elő megkeresést, amelyen a megkereső tagállam területén fogva tartott személy jelenléte szükséges, akkor ezt a személyt – a megkereső tagállammal megkötött eseti megállapodás alapján – az eljárási cselekmény végrehajtása érdekében Magyarország területére ideiglenesen át lehet szállítani.
+(2) Az európai nyomozási határozatban több eljárási cselekmény elvégzése akkor kezdeményezhető, ha valamennyi eljárási cselekmény elrendelése azonos szerv hatáskörébe tartozik.
 
-(2) Az ideiglenesen átszállított személy fogva tartását a magyar büntetés-végrehajtási jogszabályok szerint Magyarország területén is biztosítani kell.
+(3) Az európai nyomozási határozatot a tagállam hatáskörrel és illetékességgel rendelkező hatóságának, vagy ha az adott tagállam központi hatóságot jelölt ki, a központi hatóságnak kell megküldeni.
 
-(3) Ha a magyar igazságügyi hatóság olyan eljárási cselekmény iránt terjesztett elő megkeresést, amelyen a Magyarország területén fogva tartott személy jelenléte szükséges, akkor ezt a személyt – a megkeresett tagállammal megkötött eseti megállapodás alapján – ideiglenesen annak a tagállamnak a területére lehet átszállítani, ahol az eljárást le kell folytatni.
+(4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban az európai nyomozási határozat végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül is be lehet szerezni.
 
-(4) Az előzetes letartóztatásban lévő terhelt ideiglenes átszállítására vonatkozó megállapodást a vádirat benyújtása előtt a legfőbb ügyész, a vádirat benyújtása után, illetve a szabadságvesztés vagy elzárás büntetést, vagy a szabadságelvonással járó intézkedést töltő személy esetében a miniszter köti meg. A megállapodás tartalmazza az érintett személy ideiglenes átszállításának részleteit, valamint azt a határnapot, amikorra az érintett személyt vissza kell szállítani a megkereső tagállam, illetve Magyarország területére.
-
-(5) Az ideiglenes átszállításhoz az érintett személy kifejezett hozzájárulása szükséges. A Magyarország területén fogva tartott személy hozzájáruló nyilatkozatát tartalmazó iratot és annak fordítását csatolni kell a megkereséshez.
-
-(6) A tagállam területén töltött fogva tartás esetén a magyar törvény szerint elrendelt kényszerintézkedés, illetve szabadságvesztés vagy elzárás büntetés vagy szabadságelvonással járó intézkedés végrehajtását folyamatosnak kell tekinteni.
+(5) Az európai nyomozási határozat továbbítására, valamint a tagállami hatósággal való kapcsolattartásra a 38. § rendelkezéseit kell megfelelően alkalmazni.

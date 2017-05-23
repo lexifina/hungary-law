@@ -1,5 +1,11 @@
-## 34. Együttműködő személy igénybevétele
+65. § (1) Az ügyész európai nyomozási határozatot bocsáthat ki magyar fedett nyomozónak a tagállam területén, illetve tagállami fedett nyomozónak Magyarország vagy valamely tagállam területén történő alkalmazása iránt.
 
-65. § (1) A Magyarország területén működő közös nyomozócsoport tagja Magyarország területén tagállami hatósággal együttműködő személyt igénybe vehet.
+(2) Fedett nyomozó alkalmazására a tagállami hatósággal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal fedett nyomozó alkalmazásának végrehajtására jogszabályban kijelölt szerve készíti elő.
 
-(2) A tagállamban működő közös nyomozócsoportban eljáró magyar tag az ügyésszel vagy a nyomozó hatósággal együttműködő személyt akkor vehet igénybe, ha ezt a személyt, illetve az általa szolgáltatott adatot a tagállam legalább olyan védelemben részesíti, mint amilyet a magyar jogszabály előír.
+(3) Késedelmet nem tűrő esetben – ha az eseti megállapodás megkötése a fedett nyomozó alkalmazásának eredményességét veszélyeztetné vagy meghiúsítaná – a fedett nyomozó (1) bekezdés szerinti alkalmazásának kezdeményezésére huszonnégy óra időtartamra a rendőrség vagy a Nemzeti Adó- és Vámhivatal fedett nyomozó alkalmazásának végrehajtására jogszabályban kijelölt szervének vezetője is jogosult. Ebben az esetben a fedett nyomozó alkalmazásának ideiglenes kezdeményezéséről azzal egyidejűleg tájékoztatni kell az ügyészt. Az ügyész a tájékoztatást követően haladéktalanul dönt a fedett nyomozó alkalmazásának kezdeményezéséről. Ha az ügyész a fedett nyomozó alkalmazását nem kezdeményezi, az ideiglenes kezdeményezés alapján végzett alkalmazás eredménye bizonyítékként nem használható fel.
+
+(4) Az ügyész az európai nyomozási határozatban megjelöli azokat az okokat, amelyek alapján megalapozottan feltehető, hogy a fedett nyomozó alkalmazásával elérni kívánt bizonyíték beszerzése más módon kilátástalan, vagy aránytalanul nagy nehézséggel járna.
+
+(5) A magyar vagy a tagállami fedett nyomozónak valamely tagállam területén történő alkalmazása során a fedett nyomozó alkalmazásának helye szerinti tagállam jogszabályai az irányadók azzal, hogy a magyar fedett nyomozó tevékenysége során köteles megtartani a magyar jogszabályokban előírt kötelezettségeket is. A magyar fedett nyomozó alkalmazása során a magyar fedett nyomozót foglalkoztató szerv a tagállami hatósággal együttműködik.
+
+(6) A tagállami fedett nyomozónak Magyarország területén történő alkalmazása során a magyar jogszabályok irányadók. A fedett nyomozó alkalmazásának végrehajtását irányító szerv a tagállami hatósággal és a tagállami fedett nyomozót foglalkoztató szervvel együttműködik. A fedett nyomozó alkalmazása során a tagállami hatóság, illetve a tagállami fedett nyomozót foglalkoztató szerv kérése akkor teljesíthető, ha az nem ellentétes a magyar jogrendszer alapelveivel.

@@ -1,19 +1,9 @@
-## 31. Közös nyomozócsoport létrehozása
+57. § (1) Az európai nyomozási határozat végrehajtásának eredményét, illetve a végrehajtás során megszerzett bizonyítási eszközt az európai nyomozási határozatot kibocsátó bíróság vagy ügyész, vagy ezek megbízása alapján a nyomozó hatóság veszi át.
 
-57. § (1) A legfőbb ügyész engedélyével az ügyész, illetve a tagállam igazságügyi vagy nyomozó hatósága közös nyomozócsoport létrehozását kezdeményezheti, ha
+(2) Ha a bíróság, az ügyész vagy a nyomozó hatóság tagja a tagállam területén az eljárási cselekmény elvégzésekor jelen van, az európai nyomozási határozat végrehajtásának eredményét, illetve a végrehajtás során megszerzett bizonyítási eszközt a bíróság, az ügyész vagy – az ügyész jóváhagyásával – a nyomozó hatóság tagja is átveheti, ha a magyar jogszabályok alapján arra jogosult, és az átvétel e módja a bizonyítás eredményességét nem veszélyezteti.
 
-a) a már megindult büntetőeljárásban a több tagállamra kiterjedő bűncselekmény felderítése különösen bonyolult;
+(3) Ha a bizonyítási eszköz átadásakor a tagállami hatóság azt kéri, a bíróság vagy az ügyész a bizonyítási eszközt az átadáskorival azonos állapotban visszaszolgáltatja a tagállamnak, amint arra Magyarországon már nincs szükség.
 
-b) a bűncselekmény miatt több tagállam folytat büntetőeljárást, és ezért a nyomozások összehangolására van szükség.
+(4) Ha a tagállami hatóság a bizonyítási eszköz átadását elhalasztja, a bíróság vagy az ügyész a bizonyítási eszköz ideiglenes – a bizonyítási eszközzel összefüggésben Magyarországon tervezett eljárási cselekmény elvégzésének megfelelő, meghatározott időtartamra szóló – átadását kezdeményezeti. A bizonyítási eszköz ideiglenes átadása esetén a bíróság vagy az ügyész a bizonyítási eszközt a közösen megállapított időpontban visszaszolgáltatja a tagállami hatóságnak.
 
-(2) A bűncselekmény különösen akkor több tagállamra kiterjedő, ha
-
-a) azt több tagállamban követik el;
-
-b) azt egy tagállamban követik el, de előkészületének, irányításának, illetve a hozzá kapcsolódó részesi magatartásoknak a jelentős részét egy másik tagállamban fejtik ki;
-
-c) azt egy tagállamban követik el, de abban olyan bűnszervezet érintettsége állapítható meg, amely egynél több államban folytat büntetendő tevékenységet;
-
-d) azt egy tagállamban követik el, de más tagállam társadalmi vagy gazdasági rendjét is sérti vagy veszélyezteti.
-
-(3) A legfőbb ügyész vagy az általa kijelölt ügyész az érintett tagállami igazságügyi vagy nyomozó hatósággal – az érintettség mértékét is figyelembe véve – állapodik meg abban, hogy a közös nyomozócsoport mely tagállam területén működjön.
+(5) Az európai nyomozási határozat kibocsátása esetén a tagállamban lefoglalt vagy más módon biztosított bizonyítási eszköz Magyarországnak történő átadásáig a bizonyítási eszközről való rendelkezésre a tagállami jogszabályok irányadók. Ha a bizonyítási eszköz átadására nem a (3) vagy a (4) bekezdésben meghatározott feltétellel került sor, a bizonyítási eszköz átvételét követően a bizonyítási eszközről a magyar jogszabályok alapján kell rendelkezni.

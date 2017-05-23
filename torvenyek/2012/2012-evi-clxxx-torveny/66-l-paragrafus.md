@@ -1,0 +1,3 @@
+66/L. § (1) Az eljárási jogsegély iránti megkeresés teljesítése során Magyarország területén felmerülő költségeket a magyar állam viseli.
+
+(2) Ha az eljárási jogsegély iránti megkeresés teljesítése jelentős költségekkel jár, a magyar igazságügyi hatóság a költségek előrelátható összegéről tájékoztatja a tagállami igazságügyi hatóságot, és a megkeresés teljesítésének feltételéül szabhatja, hogy a tagállami igazságügyi hatóság a költségeket részben vagy egészben előlegezze vagy térítse meg. A megkeresés teljesítésével kapcsolatos költségek előlegezéséről vagy megtérítéséről, vagy az eljárási jogsegély iránti megkeresés módosításáról a magyar igazságügyi hatóság egyeztetést kezdeményez.

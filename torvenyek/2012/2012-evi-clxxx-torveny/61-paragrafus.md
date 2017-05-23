@@ -1,5 +1,19 @@
-61. § (1) Az Eurojust, illetve annak nemzeti képviselője, valamint a Bűnüldözési Együttműködés Európai Uniós Ügynöksége (a továbbiakban: Europol) által kezdeményezett közös nyomozócsoportra, a tagok jogaira és kötelezettségeire e törvényt kell alkalmazni. Az Europol tisztviselője e törvény szerint vehet részt a közös nyomozócsoportban, de feladatának végrehajtása során nem alkalmazhat a Be.-ben meghatározott kényszerintézkedést vagy a rendőrségről szóló törvényben (a továbbiakban: Rtv.) meghatározott kényszerítő eszközt.
+61. § (1) A bíróság vagy az ügyész európai nyomozási határozatot bocsáthat ki
 
-(2) Valamely tagállammal, illetve az Europollal együttműködési megállapodást kötött külföldi hatósággal létrehozott, Magyarország területén működő közös nyomozócsoport kezdeményezheti a NEBEK-nél, hogy a számára engedélyezett körben adatot vagy más technikai tanácsadást kérjen az Europoltól.
+a) bizonyítási eszköz lefoglalása, vagy
 
-(3) Minden olyan adatot, amely az (1) bekezdésben meghatározott közös nyomozócsoport tevékenységéből származik, a NEBEK-en keresztül az Europol részére továbbítani kell.
+b) információs rendszerben tárolt adatok megőrzésére kötelezés végrehajtása
+
+iránt, ha a bizonyítási eszköz a tagállam területén található.
+
+(2) A bíróság vagy az ügyész az európai nyomozási határozatban megjelöli, hogy a lefoglalni kért bizonyítási eszköz vagy a megőrzésre kötelezéssel érintett adatok átadását
+
+a) az eljárási cselekmény elvégzését követően haladéktalanul kéri,
+
+b) a várható időpont megjelölésével, egy későbbi időpontban kéri, vagy
+
+c) nem kéri.
+
+(3) A (2) bekezdés c) pontja esetén meg kell jelölni a bizonyítási eszközről vagy a megőrzésre kötelezéssel érintett adatról történő rendelkezés várható időpontját.
+
+(4) Ha az eljárási cselekmény elvégzését vagy a bizonyítási eszköz átvételét megelőzően az (1) bekezdésben megjelölt kényszerintézkedés elrendelésének oka megszűnt, a bíróság vagy az ügyész erről haladéktalanul tájékoztatja a tagállami hatóságot.

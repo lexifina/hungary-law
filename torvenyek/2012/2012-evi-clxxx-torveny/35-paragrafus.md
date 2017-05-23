@@ -4,12 +4,18 @@
 
 ## IV. Fejezet
 
-## A TAGÁLLAMOKKAL BÜNTETŐÜGYEKBEN FOLYTATOTT ELJÁRÁSI JOGSEGÉLY
+## AZ EURÓPAI NYOMOZÁSI HATÁROZAT VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
 
-## 22. Általános szabályok
+35. § (1) Az eljárási jogsegély IV/B., V., VII. és VII/A. Fejezetben, valamint a 93. § (1) bekezdés b) pontjában foglalt formáira vonatkozó rendelkezéseket ide nem értve, e fejezet állapítja meg az Európai Unió tagállamaival büntetőügyekben folytatott eljárási jogsegélyre vonatkozó rendelkezéseket.
 
-35. § (1) Ha e törvény vagy nemzetközi szerződés másként nem rendelkezik, valamely tagállammal büntetőügyben folytatott együttműködés során az eljárási jogsegély iránti megkeresés előterjesztésére a büntetőeljárás megindítását követően a magyar igazságügyi hatóság közvetlenül jogosult.
+(2) Ha az Európai Unió valamely tagállama az eljárási jogsegély iránti megkeresést azért nem e fejezetnek megfelelően terjeszti elő, mert
 
-(2) A büntetőeljárás megindítása előtt a tagállami bűnüldöző szerv által megküldött, valamint a magyar bűnüldöző szerv által előterjesztett eljárási jogsegély iránti megkeresés fogadására, teljesítésére és előterjesztésére a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény rendelkezéseit kell alkalmazni. Ha a büntetőeljárás megindítása előtt előterjesztett megkeresés végrehajtása során az ügyben a büntetőeljárást megindítják, az együttműködést a továbbiakban – a közvetlen tájékoztatás kivételével – csak e törvény szerint, mint eljárási jogsegély iránti megkeresés teljesítését lehet folytatni.
+a) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelv (a továbbiakban e fejezet alkalmazásában: irányelv) elfogadásában nem vett részt, vagy
 
-(3) E fejezet rendelkezéseit akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik.
+b) az irányelv rendelkezéseit nemzeti jogába nem ültette át,
+
+az eljárási jogsegély iránti megkeresést a bíróság vagy az ügyész a IV/A. Fejezet szerint teljesíti.
+
+(3) A (2) bekezdésben megjelölt valamely tagállam által a bizonyítási eszközök biztosítására irányuló eljárási jogsegély iránti megkeresés esetén a megkeresést a jogsegély formájától függően a bíróság vagy az ügyész a IV/A. Fejezet vagy a VI. Fejezet szerint teljesíti.
+
+(4) A bíróság vagy az ügyész csak az Európai Unió (2) bekezdés a) pontjában meghatározott tagállamai tekintetében terjeszthet elő a IV/A. Fejezet szerint eljárási jogsegély iránti megkeresést.

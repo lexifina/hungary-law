@@ -1,21 +1,5 @@
-36. § Az eljárási jogsegély formái különösen:
+36. § E fejezet alkalmazásában
 
-a) közvetlen tájékoztatás,
+1. európai nyomozási határozat: az arra jogosult hatóság által büntetőeljárásban kibocsátott, bizonyíték megszerzése céljából egy vagy több eljárási cselekmény végrehajtására, illetve a végrehajtó tagállam illetékes hatósága számára már rendelkezésre álló bizonyítási eszköz átadására irányuló jogsegélykérelem;
 
-b) tárgyak visszaadása,
-
-c) fogva tartott személyek ideiglenes átszállítása,
-
-d) kihallgatás zártcélú távközlő hálózat útján,
-
-e) kihallgatás távbeszélő-készülék útján,
-
-f) közös nyomozó csoport létrehozása,
-
-g) fedett nyomozó alkalmazása,
-
-h) bűnüldöző szervvel együttműködő személy igénybevétele,
-
-i) ellenőrzött szállítás,
-
-j) bírói engedélyhez kötött titkos adatszerzés.
+2. tagállami hatóság: tagállami igazságügyi vagy nyomozó hatóság.

@@ -29,5 +29,3 @@
 9. számú melléklet a 2012. évi CLXXX. törvényhez
 
 AZ ELÍTÉLT SZEMÉLY ÉRTESÍTÉSE
-
-## Ezúton értesítjük a ...................... -nak (a kibocsátó állam illetékes hatósága) határozatáról, amely szerint a ...................... (a kibocsátó állam illetékes bírósága) ......................................... -én kelt (az ítélet időpontja), .......................................... számú (ha rendelkezésre áll, a hivatkozási szám) ítéletének a kölcsönös elismerés elvének a büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározat végrehajtására vonatkozó nemzeti jogszabályokkal összhangban, a kiszabott büntetés elismerése és végrehajtása céljából megküldésre kerül .................................részére (végrehajtó állam).

@@ -1,3 +1,7 @@
-38. § (1) A megkeresést írásban, indokolt esetben a megkereső azonosítását lehetővé tevő más alkalmas módon vagy eszközzel – különösen telefax vagy számítástechnikai rendszer útján – is elő lehet terjeszteni, és az így előterjesztett megkeresést szabályszerűnek kell tekinteni.
+38. § (1) Az európai nyomozási határozat a 18. számú mellékletben megjelölt formanyomtatvány szerint magyar, angol, francia vagy német nyelven bocsátható ki. Az európai nyomozási határozat bármely olyan módon előterjeszthető, amely lehetővé teszi az európai nyomozási határozat hitelességének megállapítását.
 
-(2) Ha a magyar igazságügyi hatóságnak a megkeresés teljesítésére nincs hatásköre vagy nem rendelkezik illetékességgel, a megkeresést haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező magyar igazságügyi hatósághoz. A megkeresés áttételéről – a magyar igazságügyi hatóság pontos megjelölésével – az áttételt elrendelő magyar igazságügyi hatóság értesíti a tagállami igazságügyi hatóságot.
+(2) Az európai nyomozási határozatnak az (1) bekezdésben meghatározott módon történő továbbítása esetén az európai nyomozási határozat kibocsátását és előterjesztését szabályszerűnek kell tekinteni.
+
+(3) Az európai nyomozási határozat szabályszerű előterjesztésének minősül az is, ha a tagállami hatóság az európai nyomozási határozatot az Európai Igazságügyi Hálózat vagy az Eurojust biztonságos távközlési rendszerén keresztül továbbítja.
+
+(4) Az (1)–(3) bekezdés rendelkezéseit a tagállami hatóság részéről továbbított más iratok, illetve tájékoztatás, és a bíróság vagy az ügyész részéről a tagállami hatóság részére továbbított iratok, illetve tájékoztatás tekintetében is megfelelően alkalmazni kell.

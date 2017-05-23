@@ -1,9 +1,5 @@
-67. § Az Eurojust magyar nemzeti tagjának tájékoztatása érdekében a Magyarország területén alkalmazott ellenőrzött szállítás irányítására és ellenőrzésére jogosult magyar bűnüldöző szerv a következő adatok közlésével tájékoztatja az ügyészt a legalább három államot és ebből legalább két tagállamot érintő ellenőrzött szállításról:
+## 33. Az eljárási jogsegély iránti megkeresés előterjesztésének általános szabályai
 
-a) az érintett tagállamok és hatáskörrel rendelkező hatóságok,
+67. § (1) Ha e törvény eltérően nem rendelkezik, az e fejezet szerinti, büntetőügyekben folytatott együttműködés során az eljárási jogsegély iránti megkeresés közvetlen előterjesztésére a büntetőeljárás megindítását követően az a magyar igazságügyi hatóság jogosult, amely előtt a büntetőeljárás folyamatban van.
 
-b) olyan személy, csoport vagy szervezet azonosító adatai, aki vagy amely ellen büntetőeljárás van folyamatban,
-
-c) a szállítás típusa,
-
-d) annak a bűncselekménynek a típusa, amellyel kapcsolatosan az ellenőrzött szállítást végzik.
+(2) Eljárási jogsegély iránti megkeresés akkor terjeszthető elő, ha az a büntetőeljárásban szükséges és arányos, és a megkeresésben megjelölt eljárási cselekmény az ott leírt feltételekkel a magyar jogszabályok szerint is elvégezhető lenne.

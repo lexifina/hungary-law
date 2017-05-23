@@ -1,17 +1,19 @@
-## 29. Kihallgatás zártcélú távközlő hálózat útján
+55. § (1) Ha a tagállami hatóság tájékoztatása alapján
 
-55. § (1) A tanú, a szakértő vagy – erre vonatkozó kifejezett írásbeli hozzájárulása alapján – a terhelt zártcélú távközlő hálózat útján történő kihallgatására vagy meghallgatására vonatkozó, a tagállami igazságügyi hatóság által előterjesztett megkeresés teljesítésére kizárólag a bíróság jogosult.
+a) az 53. § (1) bekezdésben foglalt feltételek nem teljesültek,
 
-(2) A zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra a tanú vagy terhelt lakóhelye vagy tartózkodási helye, illetve a szakértő lakóhelye vagy székhelye szerinti bíróság illetékes. Ha a tanú vagy a terhelt Magyarországon nem rendelkezik lakóhellyel vagy tartózkodási hellyel, illetve a szakértő Magyarországon nem rendelkezik lakóhellyel vagy székhellyel, a Pesti Központi Kerületi Bíróság illetékes.
+b) az európai nyomozási határozat végrehajtásával vagy az abban megjelölt eljárási cselekmény elvégzésével kapcsolatban megtagadási ok merült fel,
 
-(3) Ha a magyar igazságügyi hatóságnak a zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra vonatkozó, a tagállami igazságügyi hatóság által előterjesztett megkeresés teljesítésére nincs hatásköre, vagy nem rendelkezik illetékességgel, azt haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz, és az áttételről a tagállami igazságügyi hatóságot értesíti.
+c) az európai nyomozási határozatban megjelölt eljárási cselekmény a tagállam joga szerint nem ismert, az elvégzés feltételei nem állnak fenn, vagy az eljárási cselekmény célja a tagállam joga szerint kisebb jogkorlátozással járó eljárási cselekmény útján is elérhető,
 
-(4) Külföldi hatóság zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresése esetén a Be. 244/A. § (3) bekezdése irányadó azzal, hogy a végzés ellen fellebbezésnek nincs helye.
+a bíróság vagy az ügyész a tagállami hatóság tájékoztatása, vagy a tagállami hatósággal történt egyeztetés alapján az európai nyomozási határozat végrehajtásához szükséges adatokat, információkat, iratokat a tagállami hatóság rendelkezésére bocsáthatja, vagy az európai nyomozási határozatot kiegészítheti, módosíthatja vagy visszavonhatja.
 
-(5) A végzést legalább öt nappal a kihallgatás vagy meghallgatás határnapja előtt közölni kell a terhelttel, a védővel, a kihallgatandó tanúval, kiskorú tanú esetén a törvényes képviselővel vagy gondozóval, a szakértővel, és ha a kihallgatandó személy fogva van, a fogvatartást végrehajtó intézettel. A végzést haladéktalanul meg kell küldeni a terhelt, a tanú kihallgatásához vagy a szakértő meghallgatásához elkülönített helyiséget biztosító illetékes bíróságnak, illetve fogvatartást végrehajtó intézetnek.
+(2) Ha az európai nyomozási határozat eredményes végrehajtása, vagy az európai nyomozási határozatban megjelölt eljárási cselekmény eredményes elvégzése érdekében szükséges, a bíróság vagy az ügyész az (1) bekezdésben foglaltaktól eltérő más esetben is egyeztetést folytathat a tagállami hatósággal. Az egyeztetés során az (1) bekezdésben foglaltak megfelelően irányadók.
 
-(6) A tagállami igazságügyi hatóság zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresése alapján tartott kihallgatáson vagy meghallgatáson a megkeresést teljesítő bíróság eljáró tagja részt vesz, és gondoskodik a meghallgatandó személy személyazonosságának ellenőrzéséről, illetve a magyar jogszabályok tiszteletben tartásáról. E feladatot bírósági titkár is elláthatja.
+(3) A bíróság vagy az ügyész a tagállami hatóság által kért kiegészítést, módosítást, illetve adatok, információk, iratok rendelkezésre bocsátását a tagállami hatóság által megjelölt határidőben teljesíti, vagy ennek akadályáról a tagállami hatóságot haladéktalanul tájékoztatja.
 
-(7) Az e §-ban meghatározott kihallgatásra vagy meghallgatásra a megkereső tagállami igazságügyi hatóság államának joga irányadó. A kihallgatást vagy meghallgatást a megkereső tagállami igazságügyi hatóság folytatja.
+(4) A bíróság vagy az ügyész az európai nyomozási határozatot a tagállami hatóság tájékoztatása, a végrehajtás során felmerülő körülmények alapján vagy más indokolt esetben az európai nyomozási határozatban megjelölt eljárási cselekmény elvégzésének megkezdése előtt vonhatja vissza.
 
-(8) A megkeresést teljesítő bíróság eljáró tagja a kihallgatáson vagy meghallgatáson tolmács segítségét igénybe veheti.
+(5) Ha a bíróság, az ügyész vagy a nyomozó hatóság tagja a tagállam területén az eljárási cselekmény elvégzésekor jelen van, a bíróság, az ügyész vagy – az ügyész jóváhagyásával – a nyomozó hatóság tagja az európai nyomozási határozat kiegészítését vagy módosítását közvetlenül is átadhatja a tagállami hatóságnak. Ha az adott tagállam központi hatóságot jelölt ki, ez nem mentesít az európai nyomozási határozat kiegészítésének vagy módosításának a központi hatóság számára történő megküldésének kötelezettsége alól.
+
+(6) Ha a tagállami hatóság arról tájékoztatja a bíróságot vagy az ügyészt, hogy az eljárási cselekménnyel érintett személy nemzetközi jogon alapuló mentességet élvez, és mentességének felfüggesztése egy másik állam hatóságának vagy nemzetközi szervezetnek a hatáskörébe tartozik, a mentesség felfüggesztésére jogosult döntése a Be. alapján indítványozható. Ha a mentesség felfüggesztését nem indítványozzák, vagy az nem vezet eredményre, az európai nyomozási határozatot vissza kell vonni.

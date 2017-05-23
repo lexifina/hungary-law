@@ -1,0 +1,3 @@
+70/H. § (1) Az Eurojust tagja, illetve az Europol tisztviselője a közös nyomozócsoportban a megállapodásban foglaltak szerint működhet közre, a feladatának végrehajtása során kényszerintézkedést vagy kényszerítő eszközt nem alkalmazhat.
+
+(2) Az Europol közös nyomozócsoportban részt vevő tisztviselője a feladatának végrehajtása során Magyarország területén okozott kárért a magyar jogszabályok alapján, a hivatalos személy károkozására vonatkozó szabályok szerint felel. A kárt a közös nyomozócsoportban részt vevő nyomozó hatóság, ha a közös nyomozócsoportban több nyomozó hatóság vesz részt, a rendőrség téríti meg. A magyar állam az általa kifizetett kártérítés teljes összegének megtérítését kérheti az Europoltól.

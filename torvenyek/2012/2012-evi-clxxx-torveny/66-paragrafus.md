@@ -1,25 +1,15 @@
-## 35. Ellenőrzött szállítás
+## IV/A. Fejezet
 
-66. § (1) A büntetőeljárás megindítását követően a tagállami hatóság megkeresése alapján, az ügyész vagy a nyomozó hatóság és a tagállami hatóság eseti megállapodása szerint Magyarország területén ellenőrzött szállítás hajtható végre.
+## ELJÁRÁSI JOGSEGÉLY AZ EURÓPAI NYOMOZÁSI HATÁROZATOT NEM ALKALMAZÓ TAGÁLLAMOKKAL
 
-(2) Az ellenőrzött szállításról szóló eseti megállapodás során rendelkezni kell:
+66. § (1) Az V–VII/A. Fejezetben foglalt eljárási jogsegélyt ide nem értve e fejezet állapítja meg
 
-a) a szállítmány tartalmáról, várható útvonaláról és időtartamáról, a szállítás módjáról, a szállítóeszköz azonosítására alkalmas adatokról,
+a) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelv (a továbbiakban e fejezet alkalmazásában: irányelv) elfogadásában részt nem vett tagállamokkal folytatott eljárási jogsegély iránti megkeresés előterjesztésére és teljesítésére, valamint
 
-b) az ellenőrzött szállítást irányító személyről,
+b) az irányelv rendelkezéseit a nemzeti jogába át nem ültető tagállamok által előterjesztett eljárási jogsegély iránti megkeresés Magyarország általi teljesítésére
 
-c) a résztvevők kapcsolattartásának módjáról,
+vonatkozó rendelkezéseket.
 
-d) a kísérés módjáról,
+(2) E fejezet rendelkezéseit akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik.
 
-e) a kísérésben részt vevő személyek számáról,
-
-f) a szállítmány átadásának, átvételének körülményeiről,
-
-g) az elfogás esetén alkalmazandó intézkedésekről,
-
-h) váratlan esemény esetén alkalmazandó intézkedésekről.
-
-(3) A Magyarország területén alkalmazott ellenőrzött szállítás során a művelet irányítására és ellenőrzésére a hatáskörrel és illetékességgel rendelkező ügyész vagy nyomozó hatóság jogosult.
-
-(4) Az ellenőrzött szállítmány kísérésében – az (1) bekezdésben meghatározott eseti megállapodás szerint – a tagállami hatóság tagja is részt vehet. Az ellenőrzött szállítás kísérésében fedett nyomozó a legfőbb ügyész engedélyével vehet részt.
+(3) E fejezet rendelkezéseit alkalmazni kell a jogi személlyel szemben indult büntetőeljárással összefüggésben előterjesztett jogsegély iránti megkeresésre is.

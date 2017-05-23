@@ -1,0 +1,5 @@
+67/D. § (1) A magyar igazságügyi hatóság kérheti a tagállami igazságügyi hatóságot, hogy a magyar igazságügyi vagy nyomozó hatóság egy vagy több tagja a tagállam területén az eljárási cselekmény elvégzésekor jelen lehessen.
+
+(2) Ha a magyar igazságügyi vagy nyomozó hatóság tagja a tagállam területén az eljárási cselekmény elvégzésekor jelen van, feladatának teljesítése során a tagállami szabályok szerint köteles eljárni. A magyar igazságügyi vagy nyomozó hatóság jelen lévő tagjának jogosultságaira a tagállami igazságügyi hatósággal megállapodás köthető. A megállapodásra a közös nyomozócsoport tagállam területén eljáró magyar tagjára vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(3) A magyar állam az eljárási jogsegély iránti megkeresés teljesítésével összefüggésben a magyar igazságügyi vagy nyomozó hatóság tagállamban jelen lévő tagja által a feladatainak ellátása során okozott kár miatt a tagállam által kifizetett kártérítés teljes összegét a tagállam jogának megfelelően megtéríti.

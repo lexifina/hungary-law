@@ -1,11 +1,11 @@
-## 27. Tárgy visszaadása
+## 23. Az európai nyomozási határozat kibocsátásának általános szabályai
 
-53. § (1) A magyar igazságügyi hatóság azt a tárgyat, amelyre a bűncselekményt elkövették, a tagállami igazságügyi hatóság megkeresésére átadhatja abból a célból, hogy azt a tagállami igazságügyi hatóság a tulajdonosnak visszaadja. A megkeresés csak akkor teljesíthető, ha a tagállami igazságügyi hatóság a megkeresés alapjául szolgáló határozatában vagy a mellékletként csatolt okirattal kétséget kizáró módon igazolja az érintett személy tulajdonjogát.
+53. § (1) A 42. § (6) bekezdésében foglalt kivétellel a bíróság vagy az ügyész az európai nyomozási határozatban bármely, a Be. szerinti, bizonyítási eszköz beszerzésére alkalmas eljárási cselekmény elvégzését kezdeményezheti, ha az a büntetőeljárásban szükséges és arányos, továbbá az európai nyomozási határozatban megjelölt eljárási cselekmény az ott leírt feltételekkel a magyar jogszabályok szerint is elvégezhető lenne.
 
-(2) A magyar igazságügyi hatóság elrendeli az átadni kért tárgy lefoglalását, és – szükség esetén – az ismeretlen helyen lévő tárgy körözését rendelheti el.
+(2) Európai nyomozási határozatot hivatalból, illetve a terhelt vagy a védő indítványára az a bíróság vagy ügyész bocsáthat ki, amely előtt a büntetőeljárás folyamatban van.
 
-(3) A tárgy átadása nem sértheti jóhiszemű harmadik személy jogait, és nem veszélyeztetheti a Magyarország területén folyamatban lévő büntetőeljárás sikerét.
+(3) Ha a Be. rendelkezései alapján az eljárási cselekmény elrendelése határozati formát igényel – ideértve a kényszerintézkedések elrendelését is –, a határozat meghozatalára az európai nyomozási határozat kibocsátásával kerül sor, és a továbbiakban az európai nyomozási határozatra a Be.-nek az eljárási cselekmény elvégzését elrendelő határozatra vonatkozó szabályait kell megfelelően alkalmazni.
 
-(4) Ha az átadni kért tárgyra a Magyarország területén folyamatban lévő büntetőeljárásban szükség van, a tárgy átadását az eljárás jogerős befejezéséig vagy a lefoglalás jogerős megszüntetéséig a magyar igazságügyi hatóság elhalasztja, és erről a tagállami igazságügyi hatóságot haladéktalanul tájékoztatja.
+(4) Ha a nyomozás során az eljárási cselekmény elrendelésére a nyomozási bíró jogosult, az elrendelésről a bíróság az ügyész indítványára az európai nyomozási határozat jóváhagyásával rendelkezik.
 
-(5) A magyar igazságügyi hatóság közvetlenül megkeresheti a tagállami igazságügyi hatóságot olyan tárgy átadása érdekében, amelyre a bűncselekményt elkövették, és amelynek visszaadása iránt a magyar igazságügyi hatóság előtt a tulajdonjogát kétséget kizáró módon igazoló személy kérelmet terjesztett elő. A kérelmet a tagállami igazságügyi hatósághoz intézett eljárási jogsegély iránti megkereséshez csatolni kell.
+(5) A (4) bekezdés alkalmazása esetén az ügyész a nyomozási bíró döntésére irányuló, a Be. rendelkezéseinek megfelelő indítványával együtt a bíróság részére megküldi az európai nyomozási határozatot. Ha a bíróság az ügyész indítványát elutasítja, az európai nyomozási határozatot az ügyész részére visszaküldi. Ha az ügyész indítványában megjelölt eljárási cselekmény elrendelésének feltételei fennállnak, a bíróság az európai nyomozási határozatot a 18. számú mellékletben megjelölt formanyomtatvány L. szakaszának kitöltésével hagyja jóvá.

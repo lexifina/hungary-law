@@ -1,0 +1,1 @@
+66/K. § A magyar igazságügyi hatóság az eljárási jogsegély iránti megkeresés teljesítéséről a Be. rendelkezései alapján, a tagállami igazságügyi hatóság előzetes tájékoztatását és a tagállami igazságügyi hatóság álláspontjának figyelembevételét követően adhat felvilágosítást.

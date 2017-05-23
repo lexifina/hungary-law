@@ -1,21 +1,13 @@
-60. § (1) A tagállami nyomozó hatóság Magyarország területén eljáró tagja
+## 25. Ideiglenes intézkedés
 
-a) a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény rendelkezéseinek megfelelően kényszerítő eszközt alkalmazhat, továbbá szolgálati lőfegyverét magánál tarthatja, azt azonban kizárólag jogos védelmi helyzetben, illetve végszükségben használhatja; a magyar bűnüldöző szervek tevékenységére vonatkozó jogszabályokban meghatározott más kényszerítő eszközt nem vehet igénybe;
+60. § (1) Bizonyítási eszköz megsemmisítésének, átalakításának, elhelyezése megváltoztatásának, továbbításának, átruházásának vagy elidegenítésének ideiglenes megakadályozása (a továbbiakban együtt: bizonyítási eszköz biztosítása) iránt kibocsátott európai nyomozási határozat végrehajtására az az ügyészség rendelkezik illetékességgel, amelynek területén a bizonyítási eszköz található.
 
-b) a bűncselekmény elkövetésén tetten ért személyt elfoghatja, az elfogás helyszínén visszatarthatja, azonban köteles őt haladéktalanul a magyar nyomozó hatóságnak átadni; a magyar bűnüldöző szervek tevékenységére vonatkozó jogszabályokban meghatározott más intézkedést azonban nem alkalmazhat.
+(2) Az (1) bekezdésben meghatározott célból kibocsátott európai nyomozási határozatot abban az esetben hajtja végre a bíróság, ha azt a tagállami hatóság kifejezetten kéri.
 
-(2) A közös nyomozócsoport feladatának teljesítéséhez szükséges mértékben a tagállami igazságügyi vagy nyomozó hatóság Magyarország területén eljáró tagja
+(3) Ha az európai nyomozási határozat végrehajtása során a (2) bekezdés alapján a bíróság jár el, eljárására az ügyészre vonatkozó szabályokat kell megfelelően alkalmazni.
 
-a) államának joga szerint és a tagállam hivatalos nyelvén – a 44. § rendelkezéseire figyelemmel – tanút vagy terheltet hallgathat ki és erről jegyzőkönyvet készíthet, amelynek másolati példányát és magyar fordítását az eljárás irataihoz kell csatolni,
+(4) Az ügyész a bizonyítási eszköz biztosítására irányuló európai nyomozási határozat végrehajtásáról haladéktalanul dönt. A döntésről – lehetőség szerint – az európai nyomozási határozat kézhezvételétől számított huszonnégy órán belül tájékoztatja a tagállami hatóságot.
 
-b) a nyomozási cselekményeken jelen lehet, a nyomozási cselekményekről államának joga szerint és a tagállam hivatalos nyelvén jegyzőkönyvet készíthet, amelynek másolati példányát és magyar fordítását az eljárás irataihoz kell csatolni,
+(5) Az ügyész haladéktalanul tájékoztatja a tagállami hatóságot, ha az európai nyomozási határozat végrehajtása akadályba ütközik, különösen, ha a bizonyítási eszköz eltűnt, megsemmisült, az európai nyomozási határozatban meghatározott helyen nem található, illetve kiegészítő információ kérése ellenére nem áll rendelkezésre elegendő adat ahhoz, hogy a bizonyítási eszközt az ügyész megtalálja.
 
-c) az ellenőrzött szállításban fedett nyomozóként eljárhat.
-
-(3) A (2) bekezdés a) és b) pontjában meghatározott esetekben, ha a tagállami igazságügyi vagy nyomozó hatóság Magyarország területén eljáró tagja az eljárási cselekmény során a tagállam hivatalos nyelvét használja, a magyar igazságügyi vagy nyomozó hatóság – szükség esetén – tolmácsot rendel ki. A tagállam hivatalos nyelvének használatával kapcsolatban felmerült költséget a megkereső tagállam viseli.
-
-(4) Az (1) és (2) bekezdés szerinti intézkedések és kényszerítő eszközök alkalmazásának feltételeiről a közös nyomozócsoport magyar vezetője tájékoztatja a tagállam igazságügyi vagy nyomozó hatóságának tagját.
-
-(5) Az eljárási jogsegély teljesítése során a tagállam igazságügyi vagy nyomozó hatóságának tagja Magyarország területén a közös nyomozócsoport magyar vezetőjének utasítása szerint jár el.
-
-(6) Az ügyész vagy a közös nyomozócsoport magyar vezetője haladéktalanul értesíti a tagállami igazságügyi vagy nyomozó hatóságot, ha a tagállam igazságügyi vagy nyomozó hatóságának tagja a magyar jog szerint büntetendő cselekményt követett el.
+(6) Ha a Be. alapján az ügyész hivatalból, illetve jogorvoslat vagy indítvány alapján az európai nyomozási határozat végrehajtása érdekében elrendelt kényszerintézkedés megszüntetését tartja indokoltnak, erről a tagállami hatóságot előzetesen tájékoztatja, és a kényszerintézkedés megszüntetése előtt megfelelő határidőt állapít meg a tagállami hatóságnak arra, hogy észrevételt tegyen. A megszüntetés tárgyában hozott döntésről az ügyész haladéktalanul tájékoztatja a tagállami hatóságot.

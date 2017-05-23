@@ -1,13 +1,11 @@
-## 36. A bírói engedélyhez kötött titkos adatszerzés
+## 35. Adatszolgáltatás pénzügyi intézmény által vezetett számláról és számlaforgalmi adatokról
 
-68. § (1) A büntetőeljárás megindítását követően az ügyész és a nyomozó hatóság – a tagállami igazságügyi vagy nyomozó hatóságtól érkezett megkeresés alapján – bírói engedélyhez kötött titkos adatszerzést (a továbbiakban: titkos adatszerzés) végezhet.
+68. § (1) Ha a tagállami igazságügyi hatóság az eljárási jogsegély iránti megkeresést
 
-(2) A nyomozó hatóság a tagállami igazságügyi vagy nyomozó hatóságtól közvetlenül érkezett titkos adatszerzésre irányuló megkeresésről haladéktalanul értesíti az ügyészt.
+a) a tagállamban büntetőeljárás alatt álló természetes vagy jogi személy valamely, Magyarország területén működő banknál vagy egyéb pénzügyi intézménynél vezetett számla feletti, akár számlatulajdonosként, akár meghatalmazottként gyakorolt rendelkezési jogának megállapítása, valamint e számlának a bank vagy egyéb pénzügyi intézmény birtokában lévő adatainak átadása iránt, illetve
 
-(3) A megkeresés akkor teljesíthető, ha a tagállami igazságügyi vagy nyomozó hatóság a saját államának joga szerinti engedéllyel és a titkos adatszerzést végző ügyész vagy nyomozó hatóság a Be.-ben meghatározott bírói engedéllyel rendelkezik.
+b) a Magyarország területén működő banknál vagy egyéb pénzügyi intézménynél vezetett valamely számlával kapcsolatban, meghatározott időszakban végrehajtott fizetési műveletekre vonatkozó, a számlavezető bank vagy egyéb pénzügyi intézmény birtokában lévő adatok – ideértve az adott művelettel érintett valamennyi számla adatainak – átadása, illetve a Magyarország területén működő bank vagy egyéb pénzügyi intézmény birtokában lévő számlaadatok átadása iránt
 
-(4) A megkeresés teljesítése során a titkos adatszerzést a Fővárosi Törvényszék elnöke által e feladatra kijelölt bíró engedélyezi.
+terjesztette elő, az eljárási jogsegély iránti megkeresést a számlavezető bank vagy egyéb pénzügyi intézmény székhelye szerint illetékes ügyész teljesíti.
 
-(5) A nyomozó hatóság a titkos adatszerzés lefolytatásáról folyamatosan tájékoztatja az ügyészt, és a titkos adatszerzés végrehajtásáról készített jelentést az ügyésznek megküldi.
-
-(6) Az ügyész a Be.-ben meghatározott titkos adatszerzés végrehajtására irányuló megkeresést kizárólag a magyar jogszabályok szerinti bírói engedély beszerzését követően terjesztheti elő a tagállami igazságügyi vagy nyomozó hatóságnál.
+(2) Az eljárási jogsegély iránti megkeresést abban az esetben teljesíti a bíróság, ha azt a tagállami igazságügyi hatóság kifejezetten kéri. Ebben az esetben az eljárási jogsegély iránti megkeresés teljesítése során a számlavezető bank vagy egyéb pénzügyi intézmény székhelye szerint illetékes bíróság jár el.
