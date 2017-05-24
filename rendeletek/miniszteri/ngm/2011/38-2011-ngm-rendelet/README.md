@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-38-20-2
 | 2013-07-21 | 2011-38-20-2X.6 | 2010: CXXX. törvény |
 | 2016-03-01 | 2011-38-20-2X.7 | 7/2016. (II. 22.) NGM rendelet |
 | 2017-01-01 | 2011-38-20-2X.8 | 62/2016. (XII. 29.) NGM rendelet |
+| 2017-05-24 | 2011-38-20-2X.9 | 6/2017. (V. 5.) NGM rendelet |

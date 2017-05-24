@@ -18,9 +18,18 @@
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(8)[^9] Ez a rendelet a játékokban található vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. Melléklete C. függelékének a formamid tekintetében történő módosításáról szóló, 2015. november 23-i 2015/2115 európai bizottsági irányelvnek való megfelelést szolgálja.
+
+(9)[^10] Ez a rendelet a játékokban található vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. Melléklete C. függelékének a benzizotiazolinon tekintetében történő módosításáról szóló, 2015. november 23-i 2015/2116/EU bizottsági irányelvnek való megfelelést szolgálja.
+
+(10)[^11] Ez a rendelet a játékokban található vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. Melléklete C. függelékének a külön-külön, illetve 3:1 arányban alkalmazott klórmetil-izotiazolinon és a metil-izotiazolinon tekintetében történő módosításáról szóló, 2015. november 23-i 2015/2117/EU bizottsági irányelvnek való megfelelést szolgálja.
+
 [^3]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
 [^5]: A 25. § (4) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
 [^6]: A 25. § (5) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
 [^7]: A 25. § (6) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
 [^8]: A 25. § (7) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
+[^9]: A 25. § (8) bekezdését a 6/2017. (V. 5.) NGM rendelet 10. § (1) bekezdése iktatta be.
+[^10]: A 25. § (9) bekezdését a 6/2017. (V. 5.) NGM rendelet 10. § (1) bekezdése iktatta be.
+[^11]: A 25. § (10) bekezdését a 6/2017. (V. 5.) NGM rendelet 10. § (1) bekezdése iktatta be.
