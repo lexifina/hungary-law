@@ -1,1 +1,0 @@
-## 1. § Az elektronikus hírközlési építmények egyéb nyomvonalas építményfajtákkal való keresztezéséről, megközelítéséről és védelméről szóló 8/2012. (I. 26.) NMHH rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
