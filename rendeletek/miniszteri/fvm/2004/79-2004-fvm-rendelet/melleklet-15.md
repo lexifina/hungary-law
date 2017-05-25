@@ -1,10 +1,4 @@
-## I.[^185]
-
-## ÁLLAMI VADÁSZJEGY
-
-## I.
-
-## ÁLLAMI VADÁSZJEGY
+## I. VADÁSZJEGY
 
 ## MINTA külső és hátsó fedőlapja
 
@@ -12,32 +6,18 @@
 
 ## MINTA első és második oldala
 
-## II.[^186]
+## Szigorú számadású nyomtatvány
 
-## ÁLLAMI VADÁSZATI ENGEDÉLY
+## II. VADÁSZATI ENGEDÉLY
 
-## II.
-
-## ÁLLAMI VADÁSZATI ENGEDÉLY
-
-## MINTA külső fedőlapja
+## MINTA külső és hátsó fedőlapja
 
 ## Szigorú számadású nyomtatvány
 
-## MINTA 1. oldala
+## MINTA első és második oldala
 
-## III.
+## Szigorú számadású nyomtatvány
 
-## EGYÉNI LŐJEGYZÉK VADÁSZATI ENGEDÉLLYEL RENDELKEZŐ VADÁSZ RÉSZÉRE
+15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^242]
 
-| Vadászterület | Elejtés | Vad |
-
-| A vadászatra jogosult által megbízott kísérő köteles vezetni |
-
-| a jogosult megnevezése | kódszáma | helye | ideje | faj megnevezése | ivar | db | azonosítójel | egyéb |
-
-15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^187]
-
-[^185]: A Vhr. 14. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^186]: A Vhr. 14. számú melléklet II. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^187]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
+[^242]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.

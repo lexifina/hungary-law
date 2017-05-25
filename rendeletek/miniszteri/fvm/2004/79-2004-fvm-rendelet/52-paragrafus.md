@@ -1,17 +1,9 @@
-52. § (1) A vadászati engedélyt a bérvadászati szerződés vagy a meghívólevél alapján a tervezett első vadászat helye szerint illetékes vadászati hatóság állítja ki.
+52. §[^105] (1) A vadászati engedélyt a bérvadászati szerződés vagy a meghívólevél alapján a vadászkamarának a tervezett első vadászat helye szerint illetékes területi szervezete állítja ki.
 
-(2)[^86] A vadászati engedéllyel rendelkező vadász vadászatának megkezdése előtt – a vadászati engedély kérelemben fel nem sorolt vadászterület esetében – a jogosult köteles a bérvadászati szerződés, vagy vendégvadászat esetén a meghívólevél másolatát a vadászati hatóságnak benyújtani, valamint a vadászterület kódszámát bejegyezni a vadászati engedéllyel rendelkező vadász egyéni lőjegyzékébe.
+(2) A vadászati engedéllyel rendelkező vadász a vadászati tevékenységet csak abban az esetben kezdheti meg, ha a vadászattal érintett vadászterület kódszámát a vadászatra jogosult a vadászati engedélybe bejegyezte.
 
-(3)[^87] A vadászati engedéllyel rendelkező vadász vadászatát – a vadászat megkezdése előtt legalább huszonnégy órával – a jogosultnak kell bejelentenie az érintett vadászterület szerint illetékes vadászati, valamint védett természeti terület esetében a természetvédelmi hatósághoz.
+(3) A vadászati engedéllyel rendelkező vadász vadászatát – a vadászat megkezdése előtt legalább huszonnégy órával – a vadásztatást végző vadászatra jogosultnak kell bejelentenie az érintett vadászterület szerint illetékes vadászati hatósághoz, továbbá védett természeti terület érintettsége esetén a természetvédelmi hatósághoz is.
 
-(4)[^88]
+(4) Ha a vadászati engedéllyel rendelkező vadász ragadozó madárral folytat vadászatot, a kérelemhez mellékelni kell az illető ország hatósága által a ragadozó madár tartására kiadott engedélyt, továbbá a behozatalára külön jogszabály által kiadott engedélyt.
 
-(5)[^89] Ha a vadászati engedéllyel rendelkező vadász ragadozó madárral folytat vadászatot, a kérelemhez mellékelni kell az illető ország hatósága által a ragadozó madár tartására kiadott engedélyt, továbbá a behozatalára külön jogszabály által kiadott engedélyt.
-
-(6)[^90]
-
-[^86]: A Vhr. 52. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (6) bekezdése szerint módosított szöveg.
-[^87]: A Vhr. 52. §-ának (3) bekezdése a 61/2007. (VII. 13.) FVM rendelet 3. §-ával megállapított szöveg.
-[^88]: A Vhr. 52. § (4) bekezdését a 45/2013. (VI. 3.) VM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
-[^89]: A Vhr. 52. §-ának (5) bekezdése a 61/2007. (VII. 13.) FVM rendelet 3. §-ával megállapított szöveg.
-[^90]: A Vhr. 52. §-ának (6) bekezdését a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
+[^105]: A Vhr. 52. §-a a 24/2017. (V. 17.) FM rendelet 15. §-ával megállapított szöveg.

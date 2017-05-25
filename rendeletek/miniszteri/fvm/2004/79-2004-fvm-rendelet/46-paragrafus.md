@@ -1,1 +1,3 @@
-46. § A vadászjeggyel rendelkező vadász egyéni lőjegyzékének (zsákmányjegyzékének) mintáját a 12. számú melléklet tartalmazza. Egyéni vadászat esetén a vadász az elejtett vad birtokba vételét követően köteles az elejtés tényét az egyéni lőjegyzékbe haladéktalanul bejegyezni, társas vadászat esetén a bejegyzési kötelezettség a vadászat végén esedékes.
+46. §[^95]
+
+[^95]: A Vhr. 46. §-át a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 4. pontja hatályon kívül helyezte.

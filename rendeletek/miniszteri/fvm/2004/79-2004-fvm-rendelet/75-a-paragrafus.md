@@ -1,9 +1,8 @@
-## (A Vtv. 71. §-ához)[^136]
+## (A Vtv. 71. §-ához)[^173]
 
-75/A. §[^137] (1)[^138]
+75/A. §[^174] (1) A 72–75. §-okban foglalt rendelkezéseket elöltöltő fegyverrel folytatott vadászat esetén az elöltöltő fegyverek műszaki sajátosságaiból adódó eltérésekkel kell megfelelően alkalmazni.
 
-(2) A Vtv. 71. § (2) bekezdésének e) pontja szerint nem minősül elektronikus optikai eszköznek a céltávcsőben célzás megkönnyítése céljából elektronikusan megvilágított irányzék.
+(2) A Vtv. 71. § (1) bekezdés 2. pontja alkalmazásában a vadászat rendje megsértésének minősül a Vtv. 37/A. § (1) bekezdés 11. pontjában meghatározott tiltott vadászati eszköz vadászaton történő birtoklása is.
 
-[^136]: A Vhr. 75/A. §-át megelőző alcímet az 56/2005. (VI. 25.) FVM rendelet 26. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^137]: A Vhr. 75/A. §-át az 56/2005. (VI. 25.) FVM rendelet 26. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^138]: A Vhr. 75/A. §-ának (1) bekezdését a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
+[^173]: A Vhr. 75/A. §-át megelőző alcímet az 56/2005. (VI. 25.) FVM rendelet 26. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^174]: A Vhr. 75/A. §-át az 56/2005. (VI. 25.) FVM rendelet 26. §-a iktatta be, szövege a 24/2017. (V. 17.) FM rendelet 24. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## I.
 
-## MEZŐGAZDASÁGI VADKÁROK ELŐZETES BECSLÉSE
+## MEZŐGAZDASÁGI VADKÁROK ELŐZETES FELMÉRÉSE
 
 ## (Jegyzőkönyv)
 
@@ -18,7 +18,7 @@
 
 | c) |
 
-## 2. A kárbecslő megállapítása szerint a terméseredményt a következő tényezők befolyásolják:
+## 2. A szakértő megállapítása szerint a terméseredményt a következő tényezők befolyásolják:
 
 | a) alatti esetben .................................... | ......%-ban |
 
@@ -48,7 +48,7 @@
 
 ## .............................................
 
-## kárbecslő
+## szakértő
 
 ## A felek a jelen lévő képviselőinek a szakértő fenti megállapításaira tett esetleges észrevételei:
 
@@ -66,7 +66,7 @@
 
 ## aláírás
 
-## MEZŐGAZDASÁGI VADKÁROK VÉGLEGES BECSLÉSE
+## MEZŐGAZDASÁGI VADKÁROK VÉGLEGES FELMÉRÉSE
 
 ## (Jegyzőkönyv)
 
@@ -98,17 +98,17 @@
 
 ## Összesen: ......... Ft
 
-## 3. A kárbecslő véleménye szerint az összes kárigény (levonva a termelő esetleg felróható magatartása következtében előállott kár).............................. Ft.
+## 3. A szakértő véleménye szerint az összes kárigény (levonva a termelő esetleg felróható magatartása következtében előállott kár).............................. Ft.
 
 ## Kelt: ................................., ......... év ..................... hó ...... napján
 
 ## .............................................
 
-## kárbecslő
+## szakértő
 
 ## II.
 
-## ERDŐGAZDÁLKODÁSBAN OKOZOTT VADKÁROK ELŐZETES BECSLÉSE
+## ERDŐGAZDÁLKODÁSBAN OKOZOTT VADKÁROK ELŐZETES FELMÉRÉSE
 
 ## (Jegyzőkönyv)
 
@@ -164,7 +164,7 @@
 
 ## .............................................
 
-## kárbecslő
+## szakértő
 
 ## A felek jelen lévő képviselőinek a szakértő fenti megállapításaira tett esetleges észrevételei:
 
@@ -184,7 +184,7 @@
 
 ## III.
 
-## ERDŐGAZDÁLKODÁSBAN OKOZOTT VADKÁROK VÉGLEGES BECSLÉSE
+## ERDŐGAZDÁLKODÁSBAN OKOZOTT VADKÁROK VÉGLEGES FELMÉRÉSE
 
 ## (Jegyzőkönyv)
 
@@ -194,62 +194,60 @@
 
 ## Jelen vannak alulírottak:
 
-## 0M07187M_3
+## 1. Vadgazdálkodó egység megnevezése: ………………………………………………………………...………………..
 
-|  |  | 1. | Vadgazdálkodó egység megnevezése: |
+## kódszáma: …………………………………………………………………………….…………………...…………….….…
 
-|  |  | kódszáma: |
+## 2. Erdőgazdálkodó megnevezése: …………………………………………………………………………..……………...
 
-|  |  | 2. | Erdőgazdálkodó megnevezése: |
+## 3. Községhatár megnevezése: ………………………………………………………………………………..………….....
 
-|  |  | 3. | Községhatár megnevezése: |
+## 4. Erdőtag száma: ………………………………………………………………………………………………………….…
 
-|  |  | 4. | Erdőtag száma: |
+## erdőrészlet megnevezése: ………………………………………………………………………………………………......
 
-|  |  | erdőrészlet megnevezése: |
+## területe: ……………………………………………………………………………………………………………............. ha
 
-|  |  | területe: | ha |
+## 5. Az erdősítés eredete
 
-|  |  | 5. | Az erdősítés eredete |
+## a) természetes mageredetű: …………………………………………………………………………………………….......
 
-|  |  | a) | természetes mageredetű: |
+## b) természetes sarjeredetű: ……………………………………………………………………………………………........
 
-|  |  | b) | természetes sarjeredetű: |
+## c) mesterséges erdőfelújítás: ………………………………………………………………………………………….........
 
-|  |  | c) | mesterséges erdőfelújítás: |
+## 6. Sikeresen erdősült terület: ……………………………………………………………………………………………..…
 
-|  |  | 6. | Sikeresen erdősült terület: |
+## 7. Elszámolható célállomány típus: ………………………………………………………………………………………...
 
-|  |  | 7. | Elszámolható célállomány típus: |
+## 8. Az erdősítés készültségi foka: …………………………………………………………………………………………...
 
-|  |  | 8. | Az erdősítés készültségi foka: |
+## 9. A károsítást okozó vadfaj megnevezése: ……………………………………………………………………………….
 
-|  |  | 9. | A károsítást okozó vadfaj megnevezése: |
+## 10. A károsítás időpontja: …………………………………………………………………………………………………....
 
-|  |  | 10. | A károsítás időpontja: |
+## 11. A károsítás mértéke: ………………………………………………………………………………………………… %
 
-|  |  | 11. | A károsítás mértéke: | % |
+## 12. Károsult redukált terület: …………………………………………………………………………………………… ha
 
-|  |  | 12. | Károsult redukált terület: | ha |
+## (sikeresen erdősült terület x károsítási %)
 
-|  |  | (sikeresen erdősült terület x károsítási %) |
+## 13. A kárérték megállapításánál figyelembe vett károsított erdő értéke: ………………………………………… Ft/ha
 
-|  |  | 13. | A kárérték megállapításánál figyelembe vett károsított erdő értéke: | Ft/ha |
+## 14. Az erdőrészletben keletkezett kár értéke: ………………………………………………………………….....…... Ft
 
-|  |  | 14. | Az erdőrészletben keletkezett kár értéke: | Ft |
+## (károsult redukált terület/ha x erdő értéke Ft/ha)
 
-|  |  | (károsult redukált terület/ha x erdő értéke Ft/ha) |
-
-|  |  | 15. | A kárbecslő véleménye szerint az összes kárigény: | Ft |
+## 15. A szakértő véleménye szerint az összes kárigény: ………………………………………………………………. Ft
 
 ## Kelt: ...................., .......... év ............ hó ............ napján
 
 ## ...................................
 
-## kárbecslő
+## szakértő
 
-20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^193]
+20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^248]
 
 A VADÁSZHATÓ ÁLLATOK ÉS A HULLOTT AGANCS VADGAZDÁLKODÁSI ÉRTÉKE
 
-[^193]: A Vhr. 20. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § c) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 4. § d) pontja szerint módosított szöveg.
+[^248]: A Vhr. 20. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § c) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 4. § d) pontja szerint módosított szöveg.

@@ -1,9 +1,5 @@
-33. § (1)[^55] Hivatásos vadásznak minősül a jogosultnál a 32. § (1)–(2) bekezdésekben foglaltak szerint vadgazdálkodási szakfeladatokat ellátó személy, aki e rendelet szerint legalább középfokú szakirányú képesítéssel rendelkezik vagy megfelel a (2) bekezdésben foglalt feltételeknek, továbbá e minőségében hatósági esküt tett és a vadászati hatóság hivatásos vadászként nyilvántartásba veszi.
+33. §[^67] (1) Hivatásos vadászként alkalmazható – a vadászati hatóság engedélye alapján – az a személy is, aki igazolni tudja, hogy alkalmazásba állásának időpontját megelőzően, legalább ötéves, megszakítás nélküli hivatásos vadászi munkaviszonnyal rendelkezett.
 
-(2)[^56] Hivatásos vadászként alkalmazható – a vadászati hatóság engedélye alapján – az a személy is, aki 2002. szeptember 1. napjáig a középfokú szakirányú képesítést megszerezte vagy ugyanezen időpontig igazolta, hogy megszakítás nélküli, legalább ötéves hivatásos vadászi munkaviszonnyal rendelkezik.
+(2) A hivatásos vadász alkalmazása során, az alkalmazandó hivatásos vadászok számának meghatározásakor a vadászterület méretéből a Balaton nyílt vízfelületét magába foglaló térmértéket figyelmen kívül kell hagyni.
 
-(3)[^57] A hivatásos vadászokra előírt feltételek megléte esetén hivatásos vadászként foglalkoztatható az őrzés feladatát ellátó halőr, mezőőr, a természetvédelmi őr, valamint az erdő őrzésével megbízott erdészeti szakszemélyzet tagja, amennyiben a munkaköreikre megadott működési területek fekvése összefügg.
-
-[^55]: A Vhr. 33. § (1) bekezdése a 45/2013. (VI. 3.) VM rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^56]: A Vhr. 33. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 47. § (5) bekezdése szerint módosított szöveg.
-[^57]: A Vhr. 33. § (3) bekezdése a 30/2013. (IV. 30.) VM rendelet 1. §-a szerint módosított szöveg.
+[^67]: A Vhr. 33. §-a a 24/2017. (V. 17.) FM rendelet 9. §-ával megállapított szöveg.

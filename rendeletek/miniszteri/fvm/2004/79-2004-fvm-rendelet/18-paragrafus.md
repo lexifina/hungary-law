@@ -1,5 +1,9 @@
-18. § (1) A vadaskert egészében (minden egységében) biztosítani kell a vad természetes táplálkozási, rejtőzködési és – különösen a vadászati célú egységben – kitérési, illetve menekülési lehetőségét.
+18. §[^34] A zárttéri vadtartó létesítmény felszámolását a 3. számú melléklet szerinti felszámolási terv alapján a vadászati hatóság a zárttéri vadtartó létesítmény engedélyének visszavonására irányuló döntésétől számított
 
-(2)[^34] Vadaskertben történő idényen kívüli vadászat – a vad szaporodására általánosan elfogadott etikai szabályok megtartása mellett, továbbá a vadászati hatóság részére történt előzetes bejelentés alapján – kizárólag olyan vadfajok egyedére lehetséges, melyek a létesítési engedélyben szerepelnek.
+a) vadaskert esetében egy éven,
 
-[^34]: A Vhr. 18. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 14. §-ával megállapított szöveg.
+b) vadaspark és vadfarm esetében két hónapon
+
+belül végre kell hajtani.
+
+[^34]: A Vhr. 18. §-a a 24/2017. (V. 17.) FM rendelet 1. §-ával megállapított szöveg.

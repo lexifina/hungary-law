@@ -1,3 +1,5 @@
-44/A. §[^75]
+44/A. §[^92] (1) A Vtv. 57. § (4) bekezdés alkalmazásában vadgazdálkodási-vadászati gyakorlatnak minősül a legalább összesen 10 éven keresztül, legalább középfokú végzettséggel való hivatásos vadászi feladatok ellátása.
 
-[^75]: A Vhr. 44/A. §-át a 30/2011. (IV. 27.) VM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 74/2013. (VIII. 30.) VM rendelet 15. § b) pontja.
+(2) A szakmai irányítói feladatokat a vadászatra jogosult alkalmazásában álló hivatásos vadász is elláthatja. Egy szakmai irányító legfeljebb kettő vadászatra jogosultnál láthat el ilyen jellegű feladatot.
+
+[^92]: A Vhr. 44/A. §-át újonnan a 24/2017. (V. 17.) FM rendelet 13. §-a iktatta be.

@@ -1,14 +1,11 @@
 ## (A Vtv. 32. §-ához)
 
-24. § (1) A Vtv. 32. §-ának alkalmazásában a vadgazdálkodási és vadászati tevékenység során mesterséges vadtenyésztési tevékenység a vad zárttéri tartása és szaporítása.
+24. §[^52] A Vtv. 17. § (2) és 29/A. § (4) bekezdése alkalmazásában a vad mozgását befolyásoló, tartós telepítésű kerítésnek minősül
 
-(2)[^40] Vadászterületnek nem minősülő területen, valamint vadasparkban tartott nagyvad vadaskertbe történő kihelyezését a vadászati hatóság az éves vadgazdálkodási tervben engedélyezi.
+a) a mezőgazdasági növénykultúra védelmében, valamint állattenyésztési vagy vadgazdálkodási célból telepített villanypásztor, továbbá
 
-(3) Vadászterületnek nem minősülő területről vagy vadasparkból a vadaskertbe telepített, illetve kihelyezett nagyvadat a jogosult köteles jól felismerhetően, a vad teljes élettartamára maradandó módon megjelölni. Az ilyen vad származásáról az átvevőt, illetve a vadászt tájékoztatni kell, és ezt az állatkísérő okmányban is fel kell tüntetni.
+b) a rét, legelő hasznosítású gyepterületen, a legelő háziállatok adott területen való tartása céljából – az Európai Mezőgazdasági Vidékfejlesztési Alapból nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet 13. § (2) bekezdésében meghatározott módon – létesített természetes alapanyagú kerítés
 
-(4) A vadászatra jogosult vadászterületnek nem minősülő területről vagy vadasparkból vadaskertbe csak a (3) bekezdésben előírtak szerint megjelölt vadat helyezhet ki.
+kivételével az olyan, mezőgazdasági művelés alatt álló szomszédos földterületeket térben elválasztó, lehatároló építmény, amely a bekerített mezőgazdasági növénykultúra tenyészidőszakát követő egy hónap elteltével is fennáll.
 
-(5)[^41]
-
-[^40]: A Vhr. 24. §-a (2) bekezdésének második mondatát a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
-[^41]: A Vhr. 24. §-ának (5) bekezdését a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
+[^52]: A Vhr. 24. §-a a 24/2017. (V. 17.) FM rendelet 6. §-ával megállapított szöveg.

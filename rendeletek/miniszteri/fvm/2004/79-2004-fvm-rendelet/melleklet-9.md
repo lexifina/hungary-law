@@ -2,17 +2,17 @@
 
 ## I. Felsőfokú vadgazdálkodási-vadászati szakképesítés igazolására el kell fogadni:
 
-## a) A vadgazdálkodási és vadbiológiai témakörben szerzett tudományos fokozatot (egyetemi doktori oklevél, a tudomány doktora vagy kandidátusa oklevél, PhD oklevél),
+## a) A vadgazdálkodási és vadgazdálkodási igazgatási és vadbiológiai témakörben szerzett tudományos fokozatot (egyetemi doktori oklevél, a tudomány doktora vagy kandidátusa oklevél, PhD oklevél),
 
-## a vadgazdálkodási szakmérnöki,
+## a vadgazdálkodási és vadgazdálkodási igazgatási szakmérnöki,
 
-## a vadgazdálkodási üzemmérnöki,
+## a vadgazdálkodási és vadgazdálkodási igazgatási üzemmérnöki,
 
-## a vadgazda mérnöki,
+## a vadgazda mérnöki, valamint a vadgazda mérnöki alap- vagy mesterszakos,
 
-## agrár képzési szakterületen osztatlan képzésben vagy mesterképzésben szerzett oklevelet, amennyiben a differenciált szakmai képzésben a b) pontban előírt tárgyköröket a vadgazdálkodási képzés tananyaga tartalmazta és a szakmai képzés összesen legalább a 24 tanegység (kredit) mennyiséget elérte.
+## agrár képzési szakterületen osztatlan képzésben vagy mesterképzésben szerzett oklevelet, amennyiben a differenciált szakmai képzésben a b) pontban előírt tárgyköröket a vadgazdálkodási és vadgazdálkodási igazgatási képzés tananyaga tartalmazta és a szakmai képzés összesen legalább a 24 tanegység (kredit) mennyiséget elérte.
 
-## a vadgazdálkodási felsőfokú szakirányú továbbképzés során szerzett szakirányú képzettséget igazoló
+## a vadgazdálkodási és vadgazdálkodási igazgatási felsőfokú szakirányú továbbképzés során szerzett szakirányú képzettséget igazoló
 
 ## oklevelet.
 
@@ -72,12 +72,14 @@
 
 ## az erdész-technikusi szakképesítést,
 
-## az erdészeti szakmunkás-bizonyítvány – az erdőgazdasági gépkezelői és erdészeti faipari kivételével – mellé szerzett érettségi bizonyítványt vagy ilyen szakképesítéshez kapcsolódó érettségi-képesítő bizonyítványt.
+## az erdészeti szakmunkás-bizonyítvány – az erdőgazdasági gépkezelői és erdészeti faipari kivételével – mellé szerzett érettségi bizonyítványt vagy ilyen szakképesítéshez kapcsolódó érettségi-képesítő bizonyítványt,
+
+## az I. a) alpontban meghatározott vadgazdálkodási-vadászati szakképzés során teljesített sikeres záróvizsgát.
 
 ## III. Alapfokú vadgazdálkodási-vadászati szakképesítés igazolására el kell fogadni:
 
 ## a vadász-vadtenyésztő szakmunkás-bizonyítványt.
 
-9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^180]
+9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^236]
 
-[^180]: A Vhr. 9. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés a) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 3. § c) pontja, a 89/2016. (XII. 29.) FM rendelet 8. § e) pontja szerint módosított szöveg. [A Vhr. 9. számú melléklet I. pontjában a 70/2013. (VII. 31.) VM rendelet 40. § g) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium ..... Megyei Vadászati Hatóság” szövegrész helyébe „.... Megyei Kormányhivatal Földművelésügyi Igazgatóság” szöveg lép, nem vezethető át.]
+[^236]: A Vhr. 9. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés a) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 3. § c) pontja, a 89/2016. (XII. 29.) FM rendelet 8. § e) pontja, a 24/2017. (V. 17.) FM rendelet 33. § (5) bekezdése szerint módosított szöveg. [A Vhr. 9. számú melléklet I. pontjában a 70/2013. (VII. 31.) VM rendelet 40. § g) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium ..... Megyei Vadászati Hatóság” szövegrész helyébe „.... Megyei Kormányhivatal Földművelésügyi Igazgatóság” szöveg lép, nem vezethető át.]

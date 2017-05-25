@@ -1,24 +1,38 @@
-## I.[^183]
+## I. TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉK-NYILVÁNTARTÁS
 
-## TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS TARTALMA
+## 7K07254_0
 
-## I.
+| ........................... TERÜLETI | Nyilvántartási szám: ........................... |
 
-## TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS TARTALMA
+| VADÁSZATI HATÓSÁG |
 
-## 6K86116S_0
+| Vadászatra jogosult neve: .............................................................................................................................................................. |
 
-| ........................... TERÜLETI Nyilvántartási szám: ........................... VADÁSZATI HATÓSÁG Vadászatra jogosult neve: kódja: ⬜⬜–⬜⬜⬜⬜⬜⬜–⬜–⬜–⬜ TÁRSASVADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS (Érvényes visszavonásig!) Ezen napló 100 számozott lapot tartalmaz. Kelt: .............................., 20.......... év ........................................ hó .......... nap. P. H. ............................................................ vadászati hatóság |
+| kódja: □□–□□□□□□–□□□ |
 
-## Társasvadászati napló és terítéknyilvántartás vezetésre jogosultak
+| TÁRSASVADÁSZATI NAPLÓ |
+
+| ÉS TERÍTÉK-NYILVÁNTARTÁS |
+
+| (Érvényes visszavonásig!) |
+
+| Ezen napló 100 számozott lapot tartalmaz. |
+
+| Kelt: .............................., 20.......... év ........................................ hó .......... nap. |
+
+| P. H. |
+
+| ............................................................ |
+
+| vadászati hatóság |
+
+## Társasvadászati napló és teríték-nyilvántartás vezetésére jogosultak
 
 | Név | Érvényesség | Megbízó | Aláírás |
 
-## VADÁSZAT HELYE: ........................................
-
-## IDEJE: .................................................................
-
 | Társasvadászaton részt vevő vadászok |
+
+| Vadászat helye: | Vadászat ideje: |
 
 | vadász neve | jegy/engedély száma | balesetvédelmi oktatás elismerése, aláírás |
 
@@ -80,45 +94,46 @@
 
 |  |  | egyéb |  |  |
 
-## Megjegyzés: * (további krotáliák)
+## * Megjegyzés: (további krotáliák)
 
 ## Vadászatvezető: ..............................................................
 
-## II.[^184]
+## II. EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉK-NYILVÁNTARTÁS
 
-## EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉK-NYILVÁNTARTÁS TARTALMA
+## 7K07254_4
 
-## II.
+| ........................... TERÜLETI | Nyilvántartási szám: ........................... |
 
-## EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉK-NYILVÁNTARTÁS TARTALMA
+| VADÁSZATI HATÓSÁG |
 
-## 6K86116T_0
+| Vadászatra jogosult neve: .............................................................................................................................................................. |
 
-| ………………… TERÜLETI Nyilvántartási szám: ……………… VADÁSZATI HATÓSÁG Vadászatra jogosult neve: ………………………………………………………………………….. Kódja: □□–□□□□□□–□–□–□ EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉKNYILVÁNTARTÁS Ezen napló 100 számozott lapot tartalmaz. Kelt: …………………………., 20………. év …………………………….. hó …….. nap. P. H. ………………………………… vadászati hatóság |
+| kódja: □□–□□□□□□–□□□ |
 
-## Kivonat a …./2004. (…. …..) FVM rendeletből:
+| EGYÉNI VADÁSZATI NAPLÓ ÉS TERÍTÉK-NYILVÁNTARTÁS |
 
-## Egyéni vadászati módok esetén a jogosult köteles a vadászatok rendjére vonatkozó
+| Ezen napló 100 számozott lapot tartalmaz. |
 
-## rendelkezéseket megismerni, továbbá azt a vadászati naplóba is bejegyezni.
+| Kelt: .............................., 20.......... év ........................................ hó .......... nap. |
 
-| Vadászat helyi szabályzata: |
+| P. H. |
 
-| ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… …………………………………………. vadászatra jogosult |
+| ............................................................ |
 
-## Vadásztársasági tagok és hivatásos vadászok vadászjegy nyilvántartója
+| vadászati hatóság |
+
+## A vadászterületen a teljes vadászati évben vadászni jogosult vadászok és hivatásos vadászok vadászjegy-nyilvántartója
 
 | Név | Vadászjegy száma |
 
-| Be- jegy- zés sor- száma | V A D Á S Z A T |
+| Bejegyzés sorszáma | V A D Á S Z A T |
 
-| kezdete (dátum, idő) | biztonsági körzet (terület) vagy les megnevezése, vadászati mód | vadászaton résztvevők neve, vadász vendég vadászjegy/engedély száma | vége (dátum, idő) |
+| kezdete (dátum, idő) | biztonsági körzet (terület) vagy les megnevezése, vadászati mód | vadászaton részt vevők neve, vadász vendég vadászjegy/engedély száma | vége (dátum, idő) |
 
-| Z S Á K M Á N Y | Megjegyzés (hibázás, sebzés, áeü. okból történt elejtés, a vaddal kapcsolatos intézkedés stb.) | Aláírás |
+| Z S Á K M Á N Y | Megjegyzés (hibázás, sebzés, állategészségügyi okból történt elejtés, vaddal kapcsolatos intézkedés stb.) | Aláírás |
 
-| faja | ivara | db | azonosítójel száma |
+| faja | ivara | db | azonosító jel száma |
 
-14. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
+14. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^241]
 
-[^183]: A Vhr. 13. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdésével megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § f) pontja szerint módosított szöveg.
-[^184]: A Vhr. 13. számú melléklet II. része a 89/2016. (XII. 29.) FM rendelet 8. § f) pontja szerint módosított szöveg.
+[^241]: A Vhr. 14. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (8) bekezdésével megállapított szöveg.

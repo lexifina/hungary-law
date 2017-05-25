@@ -1,5 +1,6 @@
-40. § (1) A jogosult köteles gondoskodni a hivatásos vadász vadászjegyének kiváltásáról, illetve érvényesítéséről, valamint a vadászati felelősségbiztosítás megkötéséről.
+40. § (1)[^78] A vadászatra jogosult köteles gondoskodni a hivatásos vadász vadászjegyének kiváltásáról, illetve érvényesítéséről, valamint a vadászati felelősségbiztosítás megkötéséről.
 
-(2)[^66] A szolgálati lőfegyver műszaki-biztonsági vizsgálatáról a hivatásos vadász gondoskodik a jogosult költségére.
+(2)[^79]
 
-[^66]: A Vhr. 40. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 24. §-ával megállapított szöveg.
+[^78]: A Vhr. 40. § (1) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 1. pontja szerint módosított szöveg.
+[^79]: A Vhr. 40. § (2) bekezdését a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 3. pontja hatályon kívül helyezte.

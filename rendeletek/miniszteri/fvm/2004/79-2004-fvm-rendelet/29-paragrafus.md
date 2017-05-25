@@ -1,13 +1,19 @@
 ## (A Vtv. 47. §-ához)
 
-29. § (1) Az éves vadgazdálkodási tervet legalább középfokú vadgazdálkodási képesítéssel, valamint ötéves szakmai gyakorlattal rendelkező személy készíthet.
+29. §[^63] (1) Éves vadgazdálkodási tervet legalább középfokú vadgazdálkodási képesítéssel, valamint ötéves szakmai gyakorlattal rendelkező személy készíthet.
 
-(2)[^47] Az éves vadállománybecslést és vadgazdálkodási tervet a 7. számú melléklet szerinti adattartalommal minden év február 15. napjáig kell a vadászati hatóságnak megküldeni.
+(2) A jóváhagyásra benyújtott éves vadgazdálkodási tervbe a tájegységi fővadász betekinthet.
 
-(3)[^48]
+(3) Az éves vadállománybecslést és vadgazdálkodási tervet a 7. számú melléklet I. pontjában meghatározott adattartalommal minden év február 15. napjáig kell a vadászati hatóságnak megküldeni.
 
-(4)[^49] Az éves vadgazdálkodási terv mezei nyúl és fácán hasznosítására vonatkozó részét a vadászati hatóság a tárgyév szeptember 30-ig hivatalból felülvizsgálja, és amennyiben a terv elkészítésekor nem ismert változás következett be a mezei nyúl és a fácán hasznosítható állományában vagy az élőhely állapotában, akkor az éves vadgazdálkodási tervet hivatalból módosítja.
+(4) A vadászati hatóság a tárgyév szeptember 30-áig hivatalból
 
-[^47]: A Vhr. 29. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 19. §-ával megállapított szöveg.
-[^48]: A Vhr. 29. § (3) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^49]: A Vhr. 29. § (4) bekezdését az 56/2005. (VI. 25.) FVM rendelet 6. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+a) felülvizsgálja és szükség esetén módosítja az éves vadgazdálkodási terv mezei nyúl és fácán hasznosítására vonatkozó részét,
+
+b) felülvizsgálhatja és módosíthatja az éves vadgazdálkodási tervet,
+
+ha a vadállományban vagy az élőhely állapotában, illetve a vadállomány hasznosítására kihatással lévő körülményekben olyan változás következett be, amely az éves terv jóváhagyásakor nem volt előre látható, és ezért nem lehetett figyelembe venni.
+
+(5) A vadászati hatóság az éves vadgazdálkodási terv időarányos teljesítéséről év közbeni adatszolgáltatást is előírhat.
+
+[^63]: A Vhr. 29. §-a a 24/2017. (V. 17.) FM rendelet 8. §-ával megállapított szöveg.
