@@ -7,11 +7,3 @@ b) a termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA
 c) az európai statisztikákról szóló, 2009. március 11-i 223/2009/EK rendelet módosításáról szóló, 2015. április 29-i (EU) 2015/759 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
