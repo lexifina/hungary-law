@@ -12,7 +12,7 @@ d) bármely járművön, nyomtatott anyagon, ingatlanon,
 
 e) az interneten, túlnyomórészt magyar nyelven vagy túlnyomórészt magyar nyelvű internetes oldalon
 
-reklám közzététele.
+reklám ellenszolgáltatás fejében történő közzététele.
 
 (2) Adóköteles a reklám közzétételének megrendelése, kivéve, ha
 

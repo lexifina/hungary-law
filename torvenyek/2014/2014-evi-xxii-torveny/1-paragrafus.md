@@ -32,6 +32,6 @@ b) az Mttv. szerinti kereskedelmi közlemény,
 
 9. sajtótermék: az Mttv. szerinti sajtótermék,
 
-10. saját célú reklám: a reklám közzétevő saját termékére, árujára, szolgáltatására, tevékenységére, nevére, megjelenésére vonatkozó reklám,
+10.
 
 11. reklámértékesítő ügynökség: az adóalannyal az Szt. szerinti kapcsolt félnek minősülő, olyan személy, szervezet, amely az adóalannyal fennálló szerződéses jogviszony alapján jogosult arra, hogy az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződést kössön.
