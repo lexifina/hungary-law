@@ -21,9 +21,3 @@
 ## I. A kormánytisztviselő
 
 ## 1. családi és utóneve (születési családi és utóneve), neme
-
-## 2. születési helye, ideje
-
-## 3. anyja születési családi és utóneve
-
-## 4. fényképe
