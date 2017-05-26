@@ -1,6 +1,6 @@
 ## 19. Statisztikai számjel
 
-38. § (1) A statisztikai számjel a jogi személyek, valamint a gazdasági tevékenységet folytató természetes személyek és személyes joga szerint jogképes szervezetek nyilvántartásában használt azonosító. A statisztikai számjelet a Kormány rendeletében meghatározottak szerint kell képezni.
+38. § (1) A statisztikai számjel a jogi személyek, valamint a gazdasági tevékenységet folytató természetes személyek és személyes joga szerint jogképes szervezetek nyilvántartásában használt azonosító. A statisztikai számjelet a KSH felügyeletét ellátó miniszter rendeletében meghatározottak szerint kell képezni.
 
 (2) Az (1) bekezdés szerinti szervezetek statisztikai számjelének megállapítása vagy módosulása a következők szerint történik:
 
