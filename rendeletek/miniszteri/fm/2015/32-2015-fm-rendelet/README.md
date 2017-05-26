@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-32-20-1
 | --- | --- | --- |
 | 2015-06-20 | 2015-32-20-11.1 | 32/2015. (VI. 19.) FM rendelet |
 | 2016-07-01 | 2015-32-20-11.2 | 45/2016. (VI. 30.) FM rendelet |
+| 2017-05-26 | 2015-32-20-11.3 | 26/2017. (V. 25.) FM rendelet |
