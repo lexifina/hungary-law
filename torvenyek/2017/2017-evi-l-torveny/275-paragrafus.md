@@ -1,0 +1,1 @@
+275. § Hatályát veszti az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény 2/A. § (2) bekezdése.

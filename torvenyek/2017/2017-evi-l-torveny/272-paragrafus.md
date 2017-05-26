@@ -1,0 +1,1 @@
+272. § A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény 9. § (1) bekezdés a) pontjában és 20/B. § (2) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól” szövegrész helyébe az „az általános közigazgatási rendtartásról” szöveg lép.
