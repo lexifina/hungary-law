@@ -6,7 +6,7 @@
 
 2. alkalmazhatóság: a kényszerítő eszköznek az Országgyűlési Őrség által történő felhasználásra való megfelelősége,
 
-3. beszerzési eljárás: a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló kormányrendelet szerinti beszerzési eljárás vagy a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti beszerzési eljárás,
+3.[^1] beszerzési eljárás: a közbeszerzésekről szóló törvény és a végrehajtására kiadott kormányrendelet, illetve a védelmi és biztonsági célú beszerzésekről szóló törvény és a végrehajtására kiadott kormányrendelet alapján lefolytatott közbeszerzési eljárás és beszerzési eljárás,
 
 4. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 
@@ -23,3 +23,5 @@
 10. rendszerbe vételi eljárás: az Országgyűlési Őrség által alkalmazható kényszerítő eszköz rendszerbe vételét megelőző eljárás,
 
 11. társszervek: a rendőrség, a büntetés-végrehajtási szervezet, a nemzetbiztonsági szolgálatok, a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, valamint az Európai Unió tagállamának olyan hatósága, amely nemzeti joga alapján bűncselekmények felderítésére és megelőzésére jogosult.
+
+[^1]: Az 1. § 3. pontja a 9/2017. (V. 25.) BM rendelet 1. §-ával megállapított szöveg.

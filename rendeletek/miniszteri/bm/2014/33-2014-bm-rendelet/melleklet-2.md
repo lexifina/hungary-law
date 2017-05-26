@@ -1,34 +1,66 @@
-## 1. Normál rendőrbotok,
+## 5. .45-ös kaliberű tölténnyel működő pisztolyok
 
-## 2. Változtatható méretű rendőrbotok,
+## 6. 5,56 mm-es (.223-as kaliberű) tölténnyel működő gépkarabélyok
 
-## 3. Többcélú rendőrbotok,
+## 7. 7,62 mm-es tölténnyel működő gépkarabélyok
 
-## 4. Elektromos sokkolók.
+## 8. 7,62×51 mm-es NATO tölténnyel működő puskák, mesterlövő puskák
 
-## C. Mozgásszabadságot korlátozó eszközök
+## 9. .308-as kaliberű tölténnyel működő puskák, mesterlövő puskák
 
-## 1. Fémből készített kézi egész- és félbilincsek,
+## 10. 12-es kaliberű előagytáras ismétlő vagy öntöltő, félautomata sörétes puskák
 
-## 2. Műanyagból készített bilincsek bilincsvágóval,
+## 11. Kézi gránátvető 40 mm-es gránátokhoz
 
-## 3. Útzárak.
+## B) Különféle rendőrbotok, ütőeszközök, elektromos eszközök
 
-## D. Lőfegyverek különféle lőszerei
+## 1. Normál rendőrbotok
 
-## 1. 9 mm-es Makarov pisztoly lőszer különféle változatai,
+## 2. Változtatható méretű rendőrbotok
 
-## 2. 9 mm-es Parabellum pisztoly lőszer különféle változatai,
+## 3. Többcélú rendőrbotok
 
-## 3. 7,62 mm-es 43M karabély lőszer különféle változatai,
+## 4. Elektromos sokkolók
 
-## 4. 12-es kaliberű lőszer különféle változatai.
+## C) Mozgásszabadságot korlátozó eszközök
 
-## E. Védekezésre vagy akaratnyilvánításra képtelen állapotot előidéző, természetes vagy mesterséges hatóanyagú, könnyfakasztó, szemet, nyálkahártyát irritáló eszközök és anyagok
+## 1. Fémből készített kézi egész- és félbilincsek
 
-## 1. Mesterséges vagy természetes hatóanyaggal szerelt könnygázszóró palackok, gázspray-k, habok,
+## 2. Műanyagból készített bilincsek bilincsvágóval
 
-## 2. Könnygázutántöltő folyadékok.
+## 3. Útzárak
+
+## 4. Elfogó hálók
+
+## D) Lőfegyverek különféle töltényei, gránátvetők gránátjai
+
+## 1. 9 mm-es Makarov pisztoly töltény különféle változatai
+
+## 2. 9 mm-es Parabellum pisztoly töltény különféle változatai
+
+## 3. .45-ös kaliberű töltény különféle változatai
+
+## 4. 5,56 mm-es (.223-as kaliberű) töltény különféle változatai
+
+## 5. 7,62 mm-es karabély töltény különféle változatai
+
+## 6. 7,62×51 mm-es NATO töltény különféle változatai
+
+## 7. .308-as kaliberű töltény különféle változatai
+
+## 8. 12-es kaliberű töltény különféle változatai
+
+## 9. 40 mm-es gránát különféle változatai
+
+## E) Védekezésre vagy akaratnyilvánításra képtelen állapotot előidéző, természetes vagy mesterséges hatóanyagú, könnyfakasztó, szemet, nyálkahártyát irritáló eszközök és anyagok
+
+## 1. Mesterséges vagy természetes hatóanyaggal szerelt könnygázszóró palackok, gázspray-k, habok
+
+## 2. Mesterséges vagy természetes hatóanyaggal szerelt univerzális (lőhető, dobható) könnygázgránát
+
+## 3. Kézi működtetésű, dobható, mesterséges vagy természetes hatóanyaggal szerelt könnygázgránát
+
+## 4. Könnygázutántöltő folyadékok
 
 2. melléklet a 33/2014. (IV. 24.) BM rendelethez
 
