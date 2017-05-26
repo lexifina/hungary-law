@@ -1,3 +1,0 @@
-## 23. § A Rendelet 74. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Minden vadászházban elsősegélynyújtó felszerelést kell tartani. A társas vadászat színhelyére az MSZ 13553-as szabványnak megfelelő összetételű elsősegélydobozt kell vinni. Erről, valamint az elsősegélynyújtó felszerelések szükség szerinti pótlásáról a vadászatvezető gondoskodik. Egyéni és társasvadászat során minden vadász köteles „A” kategóriájú elsősegélycsomagot magánál tartani. A vadászattal kapcsolatos építményeket és egyéb berendezéseket a biztonsági követelményeknek megfelelően kell létesíteni és üzemben tartani.”
