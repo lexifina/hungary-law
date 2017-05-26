@@ -1,5 +1,3 @@
 ## 199. Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény módosítása
 
-440. § Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 1. §-a a következő (1d) bekezdéssel egészül ki:
-
-„(1d) A Teljesítésigazolási Szakértői Szerv a Közbeszerzési Hatóság felkérésétől számított 5 napon belül, amennyiben a kirendelést elfogadja, ennek közlésével egyidejűleg az előzetes szakértői díj- és költségjegyzékről tájékoztatást küld a Közbeszerzési Hatóságnak. A Közbeszerzési Hatóság az elfogadásról visszaigazoló levelet küld. A szakvélemény előterjesztésére meghatározott határidő ez esetben a visszaigazoló levél Teljesítésigazolási Szakértői Szervhez érkezésének napjával kezdődik.”
+440. §

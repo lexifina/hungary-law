@@ -7,11 +7,3 @@
 (3) Az 1–390. §, a 391. § (1)–(8) bekezdése, a 392–517. §, a 241. alcím, az 1. melléklet és a 2. melléklet 2018. január 1-jén lép hatályba.
 
 (4) E törvény 2018. január 2-án hatályát veszti.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

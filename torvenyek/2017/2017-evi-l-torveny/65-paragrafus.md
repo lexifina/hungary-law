@@ -1,1 +1,0 @@
-65. § Hatályát veszti a kárpótlás iránti kérelmek benyújtásának határidejéről és az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény módosításáról szóló 1994. évi II. törvény 2. § (2) bekezdése.

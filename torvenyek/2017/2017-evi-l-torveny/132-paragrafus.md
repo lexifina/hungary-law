@@ -1,1 +1,0 @@
-132. § Hatályát veszti az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 39. § (7) bekezdésében az „A Magyar Kereskedelmi és Iparkamara határozata ellen a fellebbezés kizárt.” szövegrész.

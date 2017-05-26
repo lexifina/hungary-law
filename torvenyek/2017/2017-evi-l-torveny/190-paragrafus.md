@@ -1,1 +1,0 @@
-190. § A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 15/A. § (2) bekezdés a) és b) pontjában az „eljárás jogerős befejezéséig” szövegrész helyébe az „eljárásban hozott határozat véglegessé válásáig” szöveg lép.
