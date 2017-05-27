@@ -5,11 +5,3 @@
 (3) Az Alapokmány, valamint a 2. §, a 3. §, az 5. § és a 6. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (4) Az e törvény végrehajtásához szükséges intézkedésekről a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
