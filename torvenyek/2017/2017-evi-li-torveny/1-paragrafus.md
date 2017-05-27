@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Ázsiai Infrastrukturális Beruházási Bank (a továbbiakban: AIIB) létrehozásáról és működéséről szóló, Pekingben, 2015. június 29-én kelt Alapokmány (a továbbiakban: Alapokmány) kötelező hatályának elismerésére.

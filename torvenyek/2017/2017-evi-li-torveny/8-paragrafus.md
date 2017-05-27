@@ -1,0 +1,1 @@
+8. § A Kormányzótanácsi határozatban foglaltak szerint Magyarországra jutó részvényjegyzésből eredő, a 2017–2021. években egyenlő részletekben esedékes tőkebefizetést a központi költségvetés terhére kell teljesíteni.

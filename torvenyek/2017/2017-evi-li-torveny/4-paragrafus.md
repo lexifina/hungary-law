@@ -1,0 +1,1 @@
+4. § Az Országgyűlés e törvénnyel felhatalmazást ad az AIIB Kormányzótanácsának a tagfelvétel feltételeit rögzítő 29. számú határozata (a továbbiakban: Kormányzótanácsi határozat) kötelező hatályának elismerésére.
