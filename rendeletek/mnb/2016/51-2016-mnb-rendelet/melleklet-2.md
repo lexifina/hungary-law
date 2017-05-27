@@ -400,6 +400,8 @@
 
 ## 2.106. Mezőgazdasági őstermelő: az Szja tv. 3. § 18. pontja szerinti magánszemély.
 
+## 2.106a. Minősített fogyasztóbarát lakáshitel termék: az MNB által támasztott követelményeknek megfelelő, előzetes bírálat során az MNB által ekként minősített jelzáloghitel termék.
+
 ## 2.107. Money market típusú hitel: jellemzően nagyvállalatokkal a treasury-n keresztül, a bankközi ügyletekhez hasonló kamatfeltételekkel kötött, általában rövid futamidővel rendelkező hitel.
 
 ## 2.108. Multicurrency (többdevizás) hitel: olyan hitel, amelyben a bank lehetőséget nyújt az ügyfélnek arra, hogy a hitelt az általa megválasztott, a hitelszerződésben előzetesen rögzített devizanemek egyikében hívja le. Nem tartoznak ide az olyan konstrukciók, amelyek esetében a bank döntése a hitel denominációjának megváltoztatása.
