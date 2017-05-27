@@ -126,6 +126,8 @@
 
 | 60 | P08 | Fizetési kártya elfogadói szolgáltatáshoz kapcsolódó bevételek | hitelintézetek, készpénz-helyettesítő fizetési eszköz kibocsátását vagy elfogadását végző egyéb pénzforgalmi szolgáltatók, az ezen típusú EGT-fióktelepek | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
 
+| 60a | P09 | Állami támogatással telepített POS-berendezések | állami támogatással telepített POS-berendezésekhez fizetési kártya elfogadási szolgáltatást nyújtó pénzforgalmi szolgáltatók, az ezen típusú EGT-fióktelepek | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
+
 | 61 | P26 | Kimutatás a pénzfeldolgozási tevékenységről | pénzfeldolgozási tevékenység végzésére vonatkozó engedéllyel rendelkező szervezetek és kijelölt hitelintézetek | havi | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 10. munkanap |
 
 | 62 | P27 | Bankkártya kibocsátói üzletág | hitelintézetek, készpénz-helyettesítő fizetési eszköz kibocsátását végző egyéb pénzforgalmi szolgáltatók, az ezen típusú EGT-fióktelepek | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
@@ -212,7 +214,7 @@
 
 | 103 | R20 | Éven túli lejáratú tartozások esedékességi bontása – nem pénzügyi vállalatok, biztosítók és nyugdíjpénztárak, háztartásokat segítő nonprofit intézmények, egyéb pénzügyi közvetítők és pénzügyi kiegészítő tevékenységet végzők | az R06, R08, R15 vagy R17 azonosító kódú adatszolgáltatás teljesítésére kötelezett, éven túli lejáratú tartozással rendelkező gazdasági szervezetek | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 10. munkanap |
 
-| 104 | R21 | Éven túli lejáratú követelések és tartozások esedékességi bontása – egyéb monetáris intézmények | éven túli lejáratú követeléssel vagy tartozással rendelkező hitelintézetek, az ezen típusú EGT-fióktelepek | havi | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 10. munkanap |
+| 104 | R21 | Éven túli lejáratú követelések és tartozások esedékességi bontása – egyéb monetáris intézmények | éven túli lejáratú követeléssel vagy tartozással rendelkező hitelintézetek, az ezen típusú EGT-fióktelepek | havi | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 11. munkanap |
 
 | 105 | R22 | Éven túli lejáratú tartozások esedékességi bontása – központi kormányzat, helyi önkormányzatok és társadalombiztosítási alapok | az R09 azonosító kódú adatszolgáltatás teljesítésére kijelölt, éven túli lejáratú tartozással rendelkező gazdasági szervezetek | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 10. munkanap |
 
@@ -264,4 +266,6 @@
 
 | 7 | Z07 | Természetes személyek anonimizált jövedelmi és munkatörténet adatai | Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet az 50/2016. (XII. 12.) MNB rendelethez
+2. melléklet az 50/2016. (XII. 12.) MNB rendelethez[^5]
+
+[^5]: A 2. melléklet a 15/2017. (V. 26.) MNB rendelet 1. § (3) bekezdése és (4) bekezdés c) pontja szerint módosított szöveg.
