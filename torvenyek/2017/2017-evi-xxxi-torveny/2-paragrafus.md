@@ -1,0 +1,1 @@
+2. § Az 1. § alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva 15 évig elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
