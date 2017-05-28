@@ -1,0 +1,3 @@
+7. § (1) A reklám közzétételének megszüntetéséért és a reklámhordozó eltávolításáért a reklámozó és a reklám közzétevője egyetemlegesen felel. A reklámhordozót tartó berendezés eltávolításáért a reklámhordozót tartó berendezés tulajdonosa és az ingatlan tulajdonosa tartozik egyetemleges felelősséggel.
+
+(2) Ha a létesítési célját tekintve eredetileg nem reklámcélú reklámhordozót tartó berendezés a reklám megszüntetését, illetve a reklámhordozó eltávolítását követően elveszti reklámcélú funkcióját, illetve funkcióját tekintve nem minősül túlnyomórészt reklámcélú berendezésnek, a reklámhordozót tartó berendezés tulajdonosa mentesül a Tvtv. 15. § (5) bekezdésében foglalt kötelezettségének teljesítése alól.
