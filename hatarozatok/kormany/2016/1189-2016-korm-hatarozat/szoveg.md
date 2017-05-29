@@ -26,13 +26,11 @@ Miniszterelnökséget vezető miniszter, a nemzetgazdasági miniszter és a Szab
 
 Határidő: azonnal
 
-5. felhívja a nemzetgazdasági minisztert, hogy a Stratégiában megfogalmazott célok megvalósítását szolgáló működési jellegű kiadásokhoz 2016-ban legfeljebb 150 millió forint, 2017 és 2018-ban évente legfeljebb 200 millió forint összegű forrás biztosításáról gondoskodjon;
+5.[^1] felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon 2017-től kezdődően évente legfeljebb 350 millió forint működési forrás biztosításáról a támogatási keret terhére;
 
-Felelős: nemzetgazdasági miniszter a külgazdasági és külügyminiszter bevonásával
+Felelős: külgazdasági és külügyminiszter
 
-Határidő: 2016-ban azonnal
-
-a 2017. és 2018. évi központi költségvetés tervezése során
+Határidő: 2017-től folyamatos
 
 6. felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon a lebonyolító szerv igénybevétele lehetőségének biztosításáról és a Stratégia megvalósításához kapcsolódó lebonyolító szervi feladatok megvalósítására vonatkozó szerződést kösse meg;
 
@@ -47,3 +45,5 @@ Felelős: külgazdasági és külügyminiszter
 nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: Az 5. pont az 1266/2017. (V. 29.) Korm. határozat 4. pontjával megállapított szöveg.
