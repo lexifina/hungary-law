@@ -4,7 +4,7 @@
 
 ## c) fejlesztési célú ügylet esetében az ügyletet csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-1. melléklet az 1386/2016. (VII. 21.) Korm. határozathoz
+1. melléklet az 1386/2016. (VII. 21.) Korm. határozathoz[^1]
 
 | Sorszám | Önkormányzat neve | Ügylet adatai | Fejlesztés adatai | Kormány által engedélyezett fejlesztéshez kapcsolódó ügyletérték | Kormány az ügylethez/ fejlesztéshez hozzájárul (Igen, Nem, Részben) | Jóváhagyott ügylet adatai |
 
@@ -99,3 +99,5 @@
 | 14. | TAHITÓTFALU KÖZSÉG ÖNKORMÁNYZATA | 1 | HUF | szerződés-módosítás – növekvő ügyletérték mellett | Hitel | 19 | 167 000 000 | 1 | 7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 167 000 000 | 167 000 000 | Igen | 167 000 000 | 0 | 0 | 0 |
 
 | 15. | VÉRTESSZŐLŐS KÖZSÉG ÖNKORMÁNYZATA | 1 | HUF | fejlesztés | Hitel | 5 | 218 000 000 | 1 | 2.1. Óvoda építése, bővítése, műszaki felújítása és rekonstrukciója, a fűtés- és világítási rendszer korszerűsítése | 218 000 000 | 218 000 000 | Igen | 200 000 000 | 6 000 000 | 4 800 000 | 7 200 000 |
+
+[^1]: Az 1. melléklet 2.1–2.14 pontjában Budaörs Város Önkormányzata számára jóváhagyott kormányzati hozzájárulást az 1269/2017. (V. 29.) Korm. határozat 2. pontja visszavonta.
