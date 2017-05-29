@@ -20,12 +20,13 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2015. december 1.
 
-5. az intézményrendszer felállításához, működtetésének elindításához 2015-ben 80 millió forint, 2016-ban 150 millió forint, míg az intézményrendszer további működéséhez 2017-től évente 100 millió forint összegű forrást biztosít;
+5.[^1] felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon az intézményrendszer további működéséhez 2017-től kezdődően évente legfeljebb 580 millió forint működési forrás biztosításáról a támogatási keret terhére.
 
-Felelős: nemzetgazdasági miniszter, a külgazdasági és külügyminiszterrel együttműködésben
+Felelős: külgazdasági és külügyminiszter
 
-Határidő: 2015-től folyamatos
+Határidő: 2017-től folyamatos
 
-6.[^1]
+6.[^2]
 
-[^1]: A 6. pontot az 1655/2016. (XI. 17.) Korm. határozat 4. pontja visszavonta.
+[^1]: Az 5. pont az 1266/2017. (V. 29.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: A 6. pontot az 1655/2016. (XI. 17.) Korm. határozat 4. pontja visszavonta.
