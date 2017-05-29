@@ -1,0 +1,183 @@
+# A Kormány 118/2017. (V. 29.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 76. szám, 2017. május 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e978fb4597ae7d62c2f2b09e549f35dbae8c81ee/dokumentumok/8b5a84f0c4be006441e675808227cd093a2818ec/letoltes)
+
+---
+
+A Kormány 118/2017. (V. 29.) Korm. rendelete
+a Rendőrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről szóló
+384/2007. (XII. 23.) Korm. rendelet, az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány
+kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet és a büntetés-végrehajtási szervezet
+részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási
+kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről
+szóló 44/2011. (III. 23.) Korm. rendelet módosításáról
+A Kormány
+a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés k) pontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében a minősített adat védelméről szóló 2009. évi CLV. törvény 37. § e) pontjában kapott felhatalmazás
+alapján és
+a 3. alcím tekintetében a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 35. § (1) bekezdés b) pontjában kapott
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. A Rendőrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről
+és eljárási szabályairól szóló 384/2007. (XII. 23.) Korm. rendelet módosítása
+1. § (1) A Rendőrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről és eljárási
+szabályairól szóló 384/2007. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 1. § b) pontja helyébe a következő
+rendelkezés lép:
+(E rendelet alkalmazásában)
+„b) beszerzési eljárás:
+ba) a közbeszerzésekről szóló törvény és
+bb) a védelemi és biztonsági célú beszerzésekről szóló törvény, valamint
+bc) a közbeszerzésekről szóló törvény és a védelemi és biztonsági célú beszerzésekről szóló törvény végrehajtására
+kiadott Korm. rendeletek
+alapján lefolytatott közbeszerzési és beszerzési eljárás;”
+(2) Az R. 1. § g) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„g) társszervek: a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, a hivatásos
+katasztrófavédelmi szerv, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és
+Vámhivatal, valamint az Európai Unió tagállamának olyan hatósága, amely nemzeti joga alapján bűncselekmények
+felderítésére és megelőzésére jogosult;”
+(3) Az R. 1. §-a a következő h) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„h) rendőri szerv szervezeti egysége: az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban:
+általános szerv) területi szervei, a terrorizmust elhárító szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat
+ellátó szerv igazgatóságai.”
+2. §
+Az R. 8. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+„(1) Kényszerítő eszköz alkalmazásának szükségessége esetén
+a) az általános rendőri szerv esetében az országos rendőrfőkapitány,
+b) a terrorizmust elhárító szerv esetében a terrorizmust elhárító szerv főigazgatója,
+c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv esetében a belső bűnmegelőzési és
+bűnfelderítési feladatokat ellátó szerv főigazgatója
+rendszeresítési eljárást kezdeményez.
+(2) Az országos rendőrfőkapitány, a terrorizmust elhárító szerv főigazgatója vagy a belső bűnmegelőzési és
+bűnfelderítési feladatokat ellátó szerv főigazgatója a nem rendszeresített kényszerítő eszköz beszerzésének
+szükségességéről – a beszerzési eljárás megindítását megelőzően – írásban tájékoztatja a minisztert, és értesítést
+küldhet a rendőrség (1) bekezdés szerinti másik vezetője, valamint a társszervek vezetői részére.
+(3) Ha nem rendszeresített kényszerítő eszköz beszerzése válik szükségessé, a rendszeresítési eljárás megindítását
+követően, annak lefolytatásával párhuzamosan a beszerzési eljárás lefolytatása is megkezdhető.”
+3. §
+Az R. 9. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A beszerzési eljárás eredményeként létrejött szerződés megkötését követően haladéktalanul – a 2. melléklet tartalmi
+előírásai alapján –)
+„b) a rendőri szerv szervezeti egységének vezetője – az e rendelet szerint meghatározott esetekben – alkalmazásba
+vételi javaslatot terjeszt fel az országos rendőrfőkapitánynak, a terrorizmust elhárító szerv főigazgatójának vagy
+a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatójának.”
+4. §
+Az R. 13. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A miniszter rendszeresítési határozatával rendszeresíti a rendőrségnél nem rendszeresített, a büntetés-
+végrehajtási szervezetnél, a hivatásos katasztrófavédelmi szervnél vagy a polgári nemzetbiztonsági szolgálatoknál
+(a továbbiakban együtt: rendvédelmi szerv) rendszeresített kényszerítő eszközt. A rendvédelmi szervnél
+megtalálható, a rendszeresítésről keletkezett dokumentumok a rendőrség 8. § (1) bekezdés szerinti vezetőjének
+írásos megkeresésére átadásra kerülnek a rendszeresítési eljáráshoz csatolandó dokumentumként.”
+
+5. §
+Az R. 14. §-a helyébe a következő rendelkezés lép:
+„14. § (1) Alkalmazásba vételi határozattal kerülhet a rendőrség alkalmazásába a rendőrségnél már rendszeresített
+kényszerítő eszköz, vagy annak olyan típusváltozata, amely paramétereiben – különösen méretére, tömegére,
+színére, űrtartalmára, anyagminőségére, illetve a kényszerítő hatás kiváltására vonatkozóan – kismértékű eltérést
+mutat a már rendszeresített kényszerítő eszköz típusához képest, és ezáltal alkalmazástaktikájában nincs eltérés.
+(2) Az alkalmazásba vételről – a (4) bekezdésben foglaltak kivételével – az 5. melléklet szerinti alkalmazásba vételi
+határozattal az országos rendőrfőkapitány, a terrorizmust elhárító szerv főigazgatója vagy a belső bűnmegelőzési és
+bűnfelderítési feladatokat ellátó szerv főigazgatója dönt.
+(3) Az alkalmazásba vételi határozatot – annak meghozatalát követően – haladéktalanul meg kell küldeni
+a miniszternek, aki öt napon belül gondoskodik az alkalmazásba vétel tényének az általa vezetett minisztérium
+honlapján való közzétételéről. A közzététel tartalmazza az alkalmazásba vételi határozat számát, az alkalmazásba
+vett kényszerítő eszköz megnevezését, rövid leírását, és az alkalmazásba vétel szükségességének rövid indoklását.
+(4) Az alkalmazásba vételről az 5/A. melléklet szerinti alkalmazásba vételi határozattal a miniszter dönt, ha azt
+a) az országos rendőrfőkapitány vagy a terrorizmust elhárító szerv főigazgatója kéri a belső bűnmegelőzési és
+bűnfelderítési feladatokat ellátó szervnél,
+b) a terrorizmust elhárító szerv főigazgatója vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+főigazgatója kéri az általános rendőrségi feladatok ellátására létrehozott szervnél,
+c) az országos rendőrfőkapitány vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója
+kéri a terrorizmust elhárító szervnél
+rendszeresített kényszerítő eszközre vonatkozóan.
+(5) A (4) bekezdés szerinti határozat közzétételéről a miniszter öt napon belül gondoskodik az általa vezetett
+minisztérium honlapján. A közzététel tartalmazza az alkalmazásba vételi határozat számát, az alkalmazásba vett
+kényszerítő eszköz megnevezését, rövid leírását, és az alkalmazásba vétel szükségességének rövid indoklását.
+A rendőrség 8. § (1) bekezdés szerinti vezetője az alkalmazásba vételhez szükséges, rendelkezésére álló
+dokumentumokat a (4) bekezdés szerinti alkalmazásba vételhez megkeresés alapján átadja.”
+6. §
+Az R. 22–24. §-ai helyébe a következő rendelkezések lépnek:
+„22. § (1) A próbahasználat elrendelése esetén meg kell győződni a rendszeresítésre tervezett kényszerítő
+eszköz alkalmazhatósága mellett a korábban rendszeresített, illetve beszerzett felszerelésekkel való
+együtthasználhatóságáról, a gazdaságos üzemeltetésére, technikai kiszolgálására, javítására, tárolására,
+szállíthatóságára, kezelhetőségére vonatkozó feltételrendszer megteremtésének lehetőségeiről.
+(2) A próbahasználat végrehajtható szervezett gyakorlatok és gyakorlások alkalmával is.
+23. § A próbahasználat költségét a rendőrség központi szerve, vagy a rendőri szerv szervezeti egysége viseli, ha
+részére a kényszerítő eszköz beszerzése szükséges.
+24. § A próbahasználatot végrehajtó szerv a kényszerítő eszköz próbahasználatát követően, az arról készült
+jegyzőkönyvben – indoklással együtt – az alábbi megállapításokat teheti:
+a) rendőrségi alkalmazásra megfelel,
+b) rendőrségi alkalmazásra nem felel meg.”
+7. §
+Az R.
+a) 1. § e) pontjában, 12. §-ában, 13. § (1) bekezdésében a„Rendőrség”szövegrész helyébe a„rendőrség”szöveg,
+b) 6. §-ában a„Rendőrségnél”szövegrész helyébe a„rendőrségnél”szöveg
+lép.
+8. § (1) Az R. 2. melléklete helyébe az 1. melléklet lép.
+(2) Az R. a 2. melléklet szerinti 5/A. melléklettel egészül ki.
+2. Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól
+szóló 92/2010. (III. 31.) Korm. rendelet módosítása
+9. § (1) Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló
+92/2010. (III. 31.) Korm. rendelet (a továbbiakban: Ier.) a következő 3/A. §-sal egészül ki:
+„3/A. § Az iparbiztonsági ellenőrzés során elvégzendő cégellenőrzéshez szükséges iratok elektronikus formában is
+kitölthetők, illetve benyújthatók az NBF-hez.”
+
+(2) Az Ier. 7. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A (3) bekezdés a) pontja szerinti adatszolgáltatás elektronikus formában is teljesíthető.”
+3. A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi
+szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-
+átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet módosítása
+10. §
+A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek
+irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok
+ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet 1. §-a a következő (3b) bekezdéssel egészül ki:
+„(3b) E rendelet hatálya nem terjed ki a központi költségvetésről szóló törvény szerinti Kormányfői protokoll kiadási
+előirányzat terhére elszámolt termékek és szolgáltatások beszerzésére.”
+4. Záró rendelkezések
+11. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 118/2017. (V. 29.) Korm. rendelethez
+„2. melléklet a 384/2007. (XII. 23.) Korm. rendelethez
+A RENDSZERESÍTÉSI JAVASLAT, ILLETVE AZ ALKALMAZÁSBA VÉTELI JAVASLAT TARTALMI ELEMEI
+ 1. A rendszeresítési eljárást, illetve az alkalmazásba vételi eljárást kezdeményező szerv megnevezése,
+iktatószáma
+ 2. A rendszeresítési javaslat, illetve az alkalmazásba vételi javaslat minősítése
+ 3. A rendszeresítésre, illetve alkalmazásba vételre javasolt kényszerítő eszköz megnevezése, rövid leírása
+ 4. A kényszerítő eszköz korszerűségi szintjének megítélése
+ 5. A rendszerben tartás tervezett ideje
+ 6. A szolgálati szükségesség rövid indoklása (a kiváltásra kerülő kényszerítő eszköz itt kerül megnevezésre,
+illetve itt kell jelezni azt is, ha nincs kiváltandó kényszerítő eszköz)
+ 7. Az ellátandó szervek megnevezése, az ellátásra tervezett mennyiség (alapellátás és az arra számított
+tartalékok)
+ 8. Az ellátás, mennyiségi bővítés, pótlás szükséges költségeinek, tervezett forrásainak, a beszerzési eljárásra
+vonatkozó információknak, a költségek viselőjének megjelölése
+ 9. A kényszerítő eszközt használó állomány kiképzésére vonatkozó javaslatok
+10. Az állagmegóvásra, műszaki kiszolgálásra, javításra tett javaslatok
+11. A pótlásra, illetve a mennyiségi bővítésére vonatkozó feladatok megjelölése
+12. Keltezés, aláírás
+13. Mellékletek: a 10. § (1) bekezdés szerinti dokumentációk és a 11. § szerinti szakértői bizottság üléseinek
+jegyzőkönyvei, a kényszerítő eszköz korábbi rendszeresítéséről szóló dokumentumok másolata”
+
+2. melléklet a 118/2017. (V. 29.) Korm. rendelethez
+„5/A. melléklet a 384/2007. (XII. 23.) Korm. rendelethez
+BELÜGYMINISZTÉRIUM
+HATÁROZAT
+alkalmazásba vételről
+I. Az alkalmazásba vételi javaslat adatai
+1. Az alkalmazásba vételre javasolt kényszerítő eszköz megnevezése, rövid leírása
+2. Az ellátandó szerv megnevezése, az ellátásra tervezett mennyiség
+3. Az ellátás, mennyiségi bővítés, pótlás szükséges költségeinek, tervezett forrásainak, a költségek viselőjének
+megjelölése
+4. Az állagmegóvásra, műszaki kiszolgálásra, javításra tett javaslatok
+5. A pótlásra, illetve a mennyiségi bővítésére vonatkozó feladatok megjelölése
+6. A kényszerítő eszköz rendszeresítését korábban lefolytató szerv megnevezése
+II. Az alkalmazásba vétellel kapcsolatos döntés
+Keltezés: ...................................., ......... év ....................... hónap ..... nap
+ ................................................
+ belügyminiszter
+Mellékletek:
+A kényszerítő eszköz rendszeresítéséről szóló korábbi dokumentumok másolata.”

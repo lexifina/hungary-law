@@ -1,0 +1,206 @@
+# A Kormány 119/2017. (V. 29.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 76. szám, 2017. május 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e978fb4597ae7d62c2f2b09e549f35dbae8c81ee/dokumentumok/8b5a84f0c4be006441e675808227cd093a2818ec/letoltes)
+
+---
+
+A Kormány 119/2017. (V. 29.) Korm. rendelete
+a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet
+módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet (a továbbiakban:
+Korm. rendelet) 3. § 15. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„15. kötelező üzemeltetési időszak: a beruházás befejezését követő legalább öt üzleti év, kis- és középvállalkozás
+esetében legalább három üzleti év, amely megegyezik a fenntartási időszakkal;”
+(2) A Korm. rendelet 3. § 35. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„35. üzleti terv: a 2. § a) és c) pontja szerinti beruházások esetében a beruházó által angol vagy magyar nyelven
+készített dokumentum, amely az alábbi tartalmi elemeket foglalja magában:
+a) vezetői összefoglaló,
+b) beruházó vállalat bemutatása,
+c) beruházás részletes költségtervvel alátámasztott bemutatása,
+
+d) külső és belső környezet elemzése: makrogazdasági elemzés, iparági elemzés, versenytársak elemzése és
+SWOT-analízis,
+e) pénzügyi terv, ideértve eredményterv, mérlegterv, cash-flow terv benyújtása;”
+(3) A Korm. rendelet 3. § 36. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„36. alapkutatás: a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
+(a továbbiakban: KFItv.) 3. § 1. pontjában meghatározott alapkutatás;”
+(4) A Korm. rendelet 3. § 37. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„37. alkalmazott kutatás: a KFItv. 3. § 2. pontjában meghatározott alkalmazott kutatás;”
+(5) A Korm. rendelet 3. § 38. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„38. kísérleti fejlesztés: a KFItv. 3. § 7. pontjában meghatározott kísérleti fejlesztés;”
+(6) A Korm. rendelet 3. § 40. pontja helyébe a következő rendelkezés lép:
+„40. újonnan létesített kutatás-fejlesztési munkahelyek száma: a beruházónál munkaidejük legalább 50%-ában
+munkakörüknél fogva kutatás-fejlesztési projektekben foglalkoztatott munkavállalók száma, akik éves átlagos
+statisztikai állományi létszámának fenntartására a beruházó kötelezettséget vállal, összehasonlítva a létesítmény
+ilyen munkavállalóinak a támogatási kérelem benyújtását megelőző 12 hónap átlagos statisztikai állományi
+létszámával, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést
+az adott létesítményben, úgy azzal, hozzátéve, hogy mindkét esetben az újonnan létesített kutatás-fejlesztési
+munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben
+alkalmazottak arányos törtrészének felelnek meg;”
+(7) A Korm. rendelet 3. § 41. pontja helyébe a következő rendelkezés lép:
+„41. megtartott kutatás-fejlesztési munkahelyek száma: a beruházó támogatásban részesülő kutatás-fejlesztési
+projektjével érintett létesítményében a kutatás-fejlesztési projektekkel összefüggésben munkakörüknél fogva
+munkaidejük legalább 50%-ában foglalkozó munkavállalóknak a támogatási kérelem benyújtását megelőző
+12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más
+támogatási szerződésben létszámteremtést az adott létesítményben, úgy azon létszám, hozzátéve, hogy mindkét
+esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes
+munkaidőben alkalmazottak arányos törtrészének felelnek meg;”
+(8) A Korm. rendelet 3. §-a a következő 44. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„44. termék-diverzifikációt eredményező induló beruházás: olyan induló beruházás, amely létesítmény
+termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményezi, de nem minősül
+új gazdasági tevékenység végzésére irányuló induló beruházásnak;”
+(9) A Korm. rendelet 3. §-a a következő 45. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„45. új eljárási innovációt eredményező induló beruházás: az Európai Bizottság a regionális állami támogatásokról
+(2014–2020) szóló 2013/C 209/01 számú európai bizottsági iránymutatása 15. pontja szerinti olyan induló
+beruházás, amelynek célja a meglévő létesítmények új eljárási innovációkkal történő diverzifikációja, de nem
+minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak.”
+2. § (1) A Korm. rendelet 9. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[A 2. § (1) bekezdés a) és c) pontjában meghatározott támogatás a következő célokra vehető igénybe:]
+„c) új gazdasági tevékenység végzésére irányuló, termék-diverzifikációt eredményező vagy új eljárási innovációt
+eredményező induló beruházás nagyvállalkozás által történő megvalósítása az Atr. 25. § (1) bekezdés d) pont
+da)–db) alpontjában meghatározott területen, ha a beruházás 18. § szerinti elszámolható költségeinek összege
+folyó áron számolva eléri a 20 millió eurónak megfelelő forintösszeget, vagy ha a beruházás – az elszámolható
+költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai állományi
+létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő mértékben
+a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más támogatási
+szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri az 50-et,
+feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;”
+
+(2) A Korm. rendelet 9. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[A 2. § (1) bekezdés a) és c) pontjában meghatározott támogatás a következő célokra vehető igénybe:]
+„f) munkahelyteremtési célú, új gazdasági tevékenység végzésére irányuló, termék-diverzifikációt eredményező
+vagy új eljárási innovációt eredményező induló beruházás nagyvállalkozás által történő megvalósítása az Atr. 25. §
+(1) bekezdés d) pont da)–db) alpontjában meghatározott területen, ha a beruházás 20. § szerinti elszámolható
+költségeinek összege folyó áron számolva eléri a 10 millió eurónak megfelelő forintösszeget vagy ha a beruházás
+– az elszámolható költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai
+állományi létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő
+mértékben a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más
+támogatási szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri
+az 50-et, feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;”
+(3) A Korm. rendelet 9. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+[A 2. § (1) bekezdés a) és c) pontjában meghatározott támogatás a következő célokra vehető igénybe:]
+„h) új létesítmény létrehozatalára vagy létesítmény felvásárlására irányuló induló beruházás kivételével olyan
+induló beruházás Magyarországon a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi
+létszáma alapján legalább kettőszázötven főt foglalkoztató nagyvállalkozásnak minősülő egyetlen jogi személy
+által történő megvalósítása az Atr. 25. § (1) bekezdés a)–c) pontjában, valamint új gazdasági tevékenység végzésére
+irányuló, termék-diverzifikációt eredményező vagy új eljárási innovációt eredményező induló beruházás az Atr.
+25. § (1) bekezdés d) pont da)–db) alpontjában meghatározott területen, amelynek 18. § szerinti elszámolható
+költségeinek összege folyó áron számolva eléri a 30 millió eurónak megfelelő forintösszeget a beruházás
+megkezdésétől számított legfeljebb három éven belül (technológia-intenzív beruházás).”
+(4) A Korm. rendelet 9. § (1a) bekezdése helyébe a következő rendelkezés lép:
+„(1a) A nagyvállalkozásnak minősülő beruházó kutatás-fejlesztési projektje vagy projektjei esetén támogatás
+abban az esetben vehető igénybe, ha a beruházó kutatás-fejlesztési projektje vagy projektjei 17. § (3) bekezdés
+szerinti elszámolható költségeinek összege folyó áron számolva eléri a 3 millió eurónak megfelelő forintösszeget, és
+az újonnan létesített kutatás-fejlesztési munkahelyek száma eléri a 25-öt, azzal, hogy az újonnan létesített kutatás-
+fejlesztési munkahelyek számának legalább ötven százaléka felsőfokú végzettséghez kötött.”
+3. §
+A Korm. rendelet 13/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Azonos vagy részben azonos azonosítható elszámolható költségek esetében a 2. § (1) bekezdés b) pontja
+szerinti támogatás kizárólag az általános csoportmentességi rendelet 31. cikke szerinti képzési támogatással
+halmozható, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó
+határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez. A 2. § (1) bekezdés b) pontja
+szerinti támogatás különböző azonosítható elszámolható költségek esetében halmozható más, helyi, regionális,
+államháztartási vagy uniós forrásból származó állami támogatással.”
+4. § (1) A Korm. rendelet 14. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[A 2. § (1) bekezdés a) és c) pontjában foglalt támogatás feltétele, hogy]
+„f) a beruházó a kötelező üzemeltetési időszak összességében elérje az Sztv. 79. §-ában meghatározott ráfordítások
+az Sztv. 79. § (4) bekezdése szerinti bérjárulékok levonása utáni éves összegének a támogatási kérelmében
+a kötelező üzemeltetési időszak vonatkozásában feltüntetett mértékét;”
+(azzal, hogy amennyiben a beruházás több helyszínen valósul meg, és a beruházás helyszínei esetében az újonnan
+létesített munkahelyek számának előírt legkisebb mértéke különbözik, úgy, a technológia-intenzív beruházás kivételével,
+a magasabb előírt mértéket kell figyelembe venni a támogatás feltételeként, továbbá minden helyszín esetében
+teljesülnie kell az induló beruházás fogalmi elemeinek.)
+(2) A Korm. rendelet 14. § (1) bekezdés g) pontja a következő gc) alponttal egészül ki:
+[A 2. § (1) bekezdés a) és c) pontjában foglalt támogatás feltétele, hogy
+technológia-intenzív beruházás esetében a beruházó vállalja, hogy fenntartja a beruházás megkezdését megelőző
+12 hónap átlagos statisztikai állományi létszámát a kötelező üzemeltetési időszak minden üzleti évében, valamint, hogy
+a beruházás megkezdését követő legkésőbb harmadik üzleti évben, majd a kötelező üzemeltetési időszak minden évében
+választása szerint]
+„gc) az Sztv. 79. §-ában meghatározott ráfordítások az Sztv. 79. § (4) bekezdése szerinti bérjárulékok levonása utáni,
+a beruházónál felmerült éves összegének a beruházás megkezdését megelőző üzleti évben elért éves összeghez
+viszonyított növekménye százalékban kifejezve, valamint az értékesítés auditált éves beszámolóban feltüntetett
+
+nettó árbevételének a beruházónál teljesült éves összegének a beruházás megkezdését megelőző üzleti évben elért
+éves összeghez viszonyított növekménye százalékban kifejezve együttesen eléri a harminc százalékpontot;”
+(azzal, hogy amennyiben a beruházás több helyszínen valósul meg, és a beruházás helyszínei esetében az újonnan
+létesített munkahelyek számának előírt legkisebb mértéke különbözik, úgy, a technológia-intenzív beruházás kivételével,
+a magasabb előírt mértéket kell figyelembe venni a támogatás feltételeként, továbbá minden helyszín esetében
+teljesülnie kell az induló beruházás fogalmi elemeinek.)
+5. § (1) A Korm. rendelet 16. § (1) bekezdése a következő d) ponttal egészül ki:
+(Ha)
+„d) – a 2. § (1) bekezdés b) pontja szerinti támogatás kivételével – az Atr. 25. § (1) bekezdés d) pont
+da)–db) alpontjában meghatározott területen nagyvállalkozás által megvalósítandó beruházás
+termék-diverzifikációt eredményező induló beruházásnak vagy új eljárási innovációt eredményező induló
+beruházásnak minősül,”
+(a támogatás az Európai Bizottság előzetes jóváhagyása esetén nyújtható.)
+(2) A Korm. rendelet 16. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés a)–b), valamint d) pontja szerinti támogatás esetén a beruházó a beruházás adott régióban való
+megvalósítására vonatkozó döntését megelőzően keletkezett belső dokumentumokkal igazolja az Európai Bizottság
+számára, hogy a beruházáshoz igényelt összes állami támogatás nem haladja meg azt a
+a) minimális összeget, amellyel a beruházás kellően nyereségessé válik ahhoz, hogy azt a beruházó megvalósítsa,
+vagy
+b) többletköltséget, ami a beruházásnak az adott helyszínen történő megvalósítására tekintettel merült fel
+az alternatív – más, a beruházás megvalósulásának helyszínéhez képest fejlettebb régióban található – helyszínhez
+viszonyítva azzal, hogy a fejlettség szintjét a regionális támogatási térkép szerinti maximális támogatási intenzitás
+alapján kell meghatározni.”
+6. §
+A Korm. rendelet 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A 2. § (1) bekezdés b) pontja szerinti támogatás esetén a kutatás-fejlesztési projekt elszámolható költsége
+a beruházó – választása szerint – az első támogatásban részesülő kutatás-fejlesztési projekt megkezdésétől
+számított legkevesebb egy, de legfeljebb három év alatt felmerült, a támogatási kérelemben feltüntetett kutatás-
+fejlesztési projektjéhez kapcsolódó, a 20. § (2) bekezdésében foglalt, a kutató-fejlesztőre tekintettel elszámolt
+költségei, valamint – a földterülethez kapcsolódó költségek kivételével – az Sztv. 52–53. §-ában meghatározott
+költségei, az épület, épületrész, valamint az egyéb építmény bérleti díja, továbbá a támogatandó kutatás-fejlesztési
+projekt teljes elszámolható költségének legfeljebb huszonöt százalékáig az anyagköltség, amennyiben az megfelel
+az általános csoportmentességi rendelet 25. cikk (3) bekezdés a)–c), valamint e) pontjainak. A jelen támogatás
+esetében a 18–20. § nem alkalmazandó, a 20. § (2) bekezdése kivételével.”
+7. §
+A Korm. rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 9. § (1) bekezdés d)–f) pontjában meghatározott támogatási célok alá tartozó beruházás esetében
+az elszámolható költségek személyi jellegűek, és azt a közvetlenül a beruházással létrehozott munkahelyek
+tekintetében az új munkavállalók első munkanapjától számított legfeljebb 24 havi személyi jellegű ráfordítás teszi
+ki, amennyiben az a foglalkoztatottak éves átlagos statisztikai állományi létszámának tényleges növekedéséhez
+vezet, azzal, hogy a munkahelyeket a beruházás megkezdésétől számított 3 éven belül kell létrehozni.”
+8. §
+A Korm. rendelet 23. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a támogatás a megítélt összegnél alacsonyabb összegben kerül folyósításra, és a beruházó a számára nem
+folyósított összeg igénybevételéről írásban lemond, a beruházó a támogató előzetes jóváhagyásával jogosult
+a folyósított támogatási összeg százhúsz százalékára vonatkozó biztosítékkal kiváltani a benyújtott biztosítékot.”
+9. §
+A Korm. rendelet 26. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A támogató eláll a támogatási szerződéstől, ha)
+„e) a beruházó a támogatási szerződésben számszerűen rögzített, a 14. § (1) bekezdés c) pontjában meghatározott,
+a megtartott munkahelyek számán felül vállalt újonnan létesített munkahelyek számára vonatkozó kötelezettségét
+kevesebb mint hetvenöt százalékos mértékben teljesíti a kötelező üzemeltetési időszak bármely évében.”
+
+10. §
+A Korm. rendelet 17. alcíme a következő 29/B. §-sal egészül ki:
+„E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet
+módosításáról szóló 119/2017. (V. 29.) kormányrendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit
+– a 3. § 45. pont szerinti új eljárási innovációt eredményező induló beruházásra vonatkozó eljárások kivételével –
+a 2017. január 1-jét követően megindult és a Módr. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni
+kell, amennyiben az eljárásban támogatási szerződés megkötésére a Módr. hatályba lépésének napjáig nem került
+sor.”
+11. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+12. §
+E rendelet
+a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet
+(HL L 187., 2014.06.26., 1. o.) 14. és 25. cikke szerinti, továbbá
+b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzetes egyedi bejelentési kötelezettség alá
+eső, a Szerződés 107. cikk (3) bekezdés a) és c) pontja szerinti
+regionális beruházási, illetve kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IX. Határozatok Tára
