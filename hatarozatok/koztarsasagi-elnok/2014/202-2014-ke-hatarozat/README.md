@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-202-30-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-05-29 | 2014-202-30-76.1 | 202/2014. (V. 29.) KE határozat |
+| 2017-05-29 | 2014-202-30-76.2 | 188/2017. (V. 29.) KE határozat |
