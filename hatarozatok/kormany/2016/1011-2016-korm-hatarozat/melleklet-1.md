@@ -172,7 +172,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozás (Mrd Ft) |
 
-| 2. | GINOP-1.1.2-VEKOP-16 | KKV szektor hatékonyságának növelése pénzügyi ismeretek, vállalkozói mentorálás és tőzsdei bevezetést szolgáló intézkedések biztosítása révén | 0,29 |
+| 2. | GINOP-1.1.2-VEKOP-17 | KKV szektor hatékonyságának növelése pénzügyi ismeretek és vállalkozói mentorálás elérhetőségénekbiztosítása révén | 0,29 |
 
 | 3. | GINOP-3.1.1-VEKOP-15 | Oktatási intézmények és IKT vállalkozások közötti együttműködés ösztönzése és támogatása | 2,42 |
 
@@ -186,11 +186,11 @@
 
 | 6. | GINOP-6.2.1-VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 0,30 |
 
-| 7. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 0,49 |
+| 7. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 0,76 |
 
 | 8. |  |  |  |
 
-| 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 1,92 |
+| 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 3,56 |
 
 | 10. |  |  |  |
 
@@ -248,7 +248,7 @@
 
 | 20. | EFOP-3.1.4-VEKOP-15 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – Útravaló ösztöndíjprogram | 1,80 |
 
-| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | 3,77 |
+| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | 0,60 |
 
 | 21a | EFOP-3.2.15-VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 3,17 |
 
@@ -385,4 +385,4 @@
 [^1]: Az 1. pont c) alpontját az 1202/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1. pont d) alpontját az 1148/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja szerint módosított szöveg. [A 1157/2017. (III. 21.) Korm. határozat 3. pont 3.2. alpontjával elrendelt módosítás, amely szerint az 1. melléklet 11. pontjában foglalt táblázat c:21 mezőjében az „1,80” szövegrész helyébe a „0,60” szöveg lép, nem vezethető át.]
+[^4]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
