@@ -6,7 +6,7 @@ b) 2. § 9. pontjában a „kereskedelmi” szövegrész helyébe a „bemutatá
 
 c) 40. § (1) bekezdésben az „az általa írásban forgalmazásra feljogosított szervezet” szövegrész helyébe „a kiállító halgazdálkodási hatóság megbízása alapján a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet, mint az állami horgászjegy és a horgász fogási napló forgalmazásával megbízott” szöveg,
 
-d) 44. § (5) bekezdésében a „jogerős” szövegrész helyébe a „végleges, illetve jogerős” szöveg,
+d)
 
 e) 45. § (1) bekezdés a) pont aa) pontjában a „kereskedelmi, ökológiai, valamint szelektív célú halászat” szövegrész helyébe a „bemutatási célú halászat, ökológiai célú, szelektív célú halászat, illetve más hasznos víziállat forgalmazási célú gyűjtése” szöveg,
 
@@ -28,11 +28,7 @@ b) 58. § (1), (2) és (5) bekezdésében a „hal vagy haltermék” szövegré
 
 c) 63. § (3) bekezdés c) pontjában a „halfajok” szövegrész helyébe a „halfajok, más hasznos víziállatok” szöveg,
 
-d) 65. § f) pontjában a „lefoglalását” szövegrész helyébe a „lefoglalását, zár alá vételét” szöveg,
-
-e) 65. § h) pontjában a „lefoglalhat” szövegrész helyébe a „lefoglalhat, zár alá vehet” szöveg,
-
-f) 69. § (1) bekezdésében a „jogerőre emelkedésétől” szövegrész helyébe a „véglegessé válásától” szöveg,
+d)–f)
 
 g) 72. § (1) bekezdés 10. és 30. pontjában a „fogási napló” szövegrész helyébe a „papíralapú és az elektronikus fogási napló” szöveg,
 

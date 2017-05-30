@@ -1,10 +1,10 @@
-31. § (1) Hatályát veszti a Hhvtv. 21/A. alcíme.
+31. § (1)
 
 (2) Hatályát veszti a Hhvtv.
 
 a) 38. § (7) bekezdése,
 
-b) 52. § (4) bekezdése,
+b)
 
 c) 58. § (4) bekezdésében az „az állategészségügyi hatóság közreműködésével” szövegrész,
 
@@ -16,7 +16,7 @@ f) 67. § (1) bekezdés d) pontjában az „a törvény által” szövegrész,
 
 g) 67. § (1) bekezdés j) pontja,
 
-h) 69. § (3) bekezdése,
+h)
 
 i) 72. § (1) bekezdés 9. pontjában az „eljárással összefüggő” szövegrész,
 
