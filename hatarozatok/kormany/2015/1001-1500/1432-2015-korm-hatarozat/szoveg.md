@@ -82,27 +82,25 @@ ai)[^1] a sportpolitikáért
 
 felelős miniszter által vezetett minisztérium képviseletében, továbbá
 
-b) az alábbi szervek egy-egy képviselője:
+b)[^2] az alábbi szervek egy-egy képviselője:
 
 ba) Központi Statisztikai Hivatal,
 
-bb) Nemzeti Rehabilitációs és Szociális Hivatal,
+bb) rehabilitációs és szociális hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
 bc) Szociális és Gyermekvédelmi Főigazgatóság,
 
-bd) Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ,
+bd) Állami Egészségügyi Ellátó Központ,
 
-be) Állami Egészségügyi Ellátó Központ,
+be) Integrált Jogvédelmi Szolgálat,
 
-bf) Országos Tisztifőorvosi Hivatal,
+bf) Nemzeti Egészségbiztosítási Alapkezelő,
 
-bg) Országos Egészségbiztosítási Pénztár,
+bg) Oktatási Hivatal,
 
-bh) Oktatási Hivatal,
+bh) Klebelsberg Központ,
 
-bi) Klebelsberg Intézményfenntartó Központ és
-
-bj) Nemzeti Szakképzési és Felnőttképzési Hivatal.
+bi) Nemzeti Szakképzési és Felnőttképzési Hivatal.
 
 10. A Bizottság állandó meghívottai:
 
@@ -112,7 +110,7 @@ b) az Alapvető Jogok Biztosának Hivatala,
 
 c) a Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Kft.,
 
-d)[^2]
+d)[^3]
 
 e) a Nemzeti Hírközlési és Informatikai Tanács
 
@@ -120,31 +118,11 @@ egy-egy képviselője.
 
 11. A Bizottság elnöke, ha valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, további szakértőket hívhat meg, akik az elnök által meghatározott napirendi pontok tekintetében tanácskozási joggal vesznek részt a Bizottság ülésén.
 
-12. A 8. pont b)–c) alpontja és a 9. pont szerinti tagot az adott szervezet vezetője jelöli ki. Tagként
+12.[^4] A 8. pont b)–c) alpontja és a 9. pont szerinti tagot az adott szervezet vezetője jelöli ki. Tagként
 
 a) a szervezettel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban álló személy,
 
-b)[^3] az alábbi szervek egy-egy képviselője:
-
-ba) Központi Statisztikai Hivatal,
-
-bb) rehabilitációs és szociális hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala,
-
-bc) Szociális és Gyermekvédelmi Főigazgatóság,
-
-bd) Integrált Jogvédelmi Szolgálat,
-
-be) Állami Egészségügyi Ellátó Központ,
-
-bf) országos tisztifőorvos,
-
-bg) Nemzeti Egészségbiztosítási Alapkezelő,
-
-bh) Oktatási Hivatal,
-
-bi) Klebelsberg Központ és
-
-bj) Nemzeti Szakképzési és Felnőttképzési Hivatal.
+b) vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban vagy állami tisztviselői jogviszonyban álló személy,
 
 c) gazdasági társaság esetén a társaság vezető tisztségviselője vagy munkavállalója
 
@@ -165,5 +143,6 @@ jelölhető ki.
 19. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
 
 [^1]: A 9. pont a) alpont ai) pontját az 1853/2016. (XII. 27.) Korm. határozat 51. pontja iktatta be.
-[^2]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
-[^3]: A 12. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 52. pontjával megállapított szöveg.
+[^2]: A 9. pont b) alpontja az 1268/2017. (V. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
+[^4]: A 12. pont az 1268/2017. (V. 29.) Korm. határozat 2. pontjával megállapított szöveg.
