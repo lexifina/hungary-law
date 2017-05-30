@@ -1,4 +1,4 @@
-2. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^57]
+2. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^61]
 
 ## A RENDSZERESÍTÉSI JAVASLAT, ILLETVE AZ ALKALMAZÁSBA VÉTELI JAVASLAT TARTALMI ELEMEI
 
@@ -24,4 +24,8 @@
 
 11. A pótlásra, illetve a mennyiségi bővítésére vonatkozó feladatok megjelölése
 
-[^57]: A 2. melléklet a 167/2009. (VIII. 26.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+12. Keltezés, aláírás
+
+13. Mellékletek: a 10. § (1) bekezdés szerinti dokumentációk és a 11. § szerinti szakértői bizottság üléseinek jegyzőkönyvei, a kényszerítő eszköz korábbi rendszeresítéséről szóló dokumentumok másolata
+
+[^61]: A 2. melléklet a 118/2017. (V. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

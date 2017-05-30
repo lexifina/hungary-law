@@ -1,7 +1,19 @@
-14. §[^30] (1)[^31] Alkalmazásba vételi határozattal kerül a rendőrség alkalmazásába a már rendszeresített kényszerítő eszköz azon típusváltozata, amely paramétereiben – különösen méretére, tömegére, színére, űrtartalmára, anyagminőségére, illetve a kényszerítő hatás kiváltására vonatkozóan – kismértékű eltérést mutat a már rendszeresített kényszerítő eszköz típusához képest, és ezáltal alkalmazástaktikájában nincs változás.
+14. §[^36] (1) Alkalmazásba vételi határozattal kerülhet a rendőrség alkalmazásába a rendőrségnél már rendszeresített kényszerítő eszköz, vagy annak olyan típusváltozata, amely paramétereiben – különösen méretére, tömegére, színére, űrtartalmára, anyagminőségére, illetve a kényszerítő hatás kiváltására vonatkozóan – kismértékű eltérést mutat a már rendszeresített kényszerítő eszköz típusához képest, és ezáltal alkalmazástaktikájában nincs eltérés.
 
-(2)[^32] Az alkalmazásba vételről az 5. melléklet szerinti alkalmazásba vételi határozattal az országos rendőrfőkapitány, a terrorizmust elhárító szerv főigazgatója vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója dönt. Az alkalmazásba vételi határozatot – annak meghozatalát követően – haladéktalanul meg kell küldeni a miniszternek, aki öt napon belül gondoskodik az alkalmazásba vétel tényének az általa vezetett minisztérium honlapján való közzétételéről. A közzétételnek tartalmaznia kell az alkalmazásba vételi határozat számát, az alkalmazásba vett kényszerítő eszköz megnevezését, rövid leírását, és az alkalmazásba vétel szükségességének rövid indoklását.
+(2) Az alkalmazásba vételről – a (4) bekezdésben foglaltak kivételével – az 5. melléklet szerinti alkalmazásba vételi határozattal az országos rendőrfőkapitány, a terrorizmust elhárító szerv főigazgatója vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója dönt.
 
-[^30]: A 14. § a 167/2009. (VIII. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^31]: A 14. § (1) bekezdése a 361/2010. (XII. 30.) Korm. rendelet 18. § (4) bekezdése szerint módosított szöveg.
-[^32]: A 14. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (102) bekezdése, a 361/2010. (XII. 30.) Korm. rendelet 18. § (4) bekezdése szerint módosított szöveg.
+(3) Az alkalmazásba vételi határozatot – annak meghozatalát követően – haladéktalanul meg kell küldeni a miniszternek, aki öt napon belül gondoskodik az alkalmazásba vétel tényének az általa vezetett minisztérium honlapján való közzétételéről. A közzététel tartalmazza az alkalmazásba vételi határozat számát, az alkalmazásba vett kényszerítő eszköz megnevezését, rövid leírását, és az alkalmazásba vétel szükségességének rövid indoklását.
+
+(4) Az alkalmazásba vételről az 5/A. melléklet szerinti alkalmazásba vételi határozattal a miniszter dönt, ha azt
+
+a) az országos rendőrfőkapitány vagy a terrorizmust elhárító szerv főigazgatója kéri a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél,
+
+b) a terrorizmust elhárító szerv főigazgatója vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója kéri az általános rendőrségi feladatok ellátására létrehozott szervnél,
+
+c) az országos rendőrfőkapitány vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója kéri a terrorizmust elhárító szervnél
+
+## rendszeresített kényszerítő eszközre vonatkozóan.
+
+(5) A (4) bekezdés szerinti határozat közzétételéről a miniszter öt napon belül gondoskodik az általa vezetett minisztérium honlapján. A közzététel tartalmazza az alkalmazásba vételi határozat számát, az alkalmazásba vett kényszerítő eszköz megnevezését, rövid leírását, és az alkalmazásba vétel szükségességének rövid indoklását. A rendőrség 8. § (1) bekezdés szerinti vezetője az alkalmazásba vételhez szükséges, rendelkezésére álló dokumentumokat a (4) bekezdés szerinti alkalmazásba vételhez megkeresés alapján átadja.
+
+[^36]: A 14. § a 118/2017. (V. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
