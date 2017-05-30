@@ -1,4 +1,4 @@
-8. § (1)[^22] Az Ávr. 81. §-ában meghatározottakon kívül e rendelet alapján nem nyújtható támogatás
+8. § (1)[^24] Az Ávr. 81. §-ában meghatározottakon kívül e rendelet alapján nem nyújtható támogatás
 
 a) acélipari tevékenységhez;
 
@@ -52,7 +52,7 @@ b) azon vállalkozás részére, amelynek lejárt esedékességű, 60 napot megh
 
 c) azon vállalkozás részére, amely esetében a közigazgatási hatóság határozatával vagy annak bírósági felülvizsgálata esetén a bíróság munkavállalók bejelentés nélküli vagy munkavállalási engedély nélküli foglalkoztatását a támogatási kérelem benyújtását megelőző 2 naptári éven belül jogerősen megállapította vagy annak megállapítására irányuló eljárás a támogatási kérelem benyújtásakor folyamatban van,
 
-d)[^23] annak a vállalkozásnak, amelyik a beruházást, vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a támogatás odaítélésének időpontjában nem per- és igénymentes, kivéve, ha a támogatást kérelmező, vagy valamely állami támogatás okán a támogatást nyújtó költségvetési szerv az igény jogosultja, vagy az igény a beruházás érdekében jött létre, továbbá kivéve, ha az ingatlant a helyi önkormányzat javára bejegyzett vételi jog vagy visszavásárlási jog terheli, ha azok gyakorlására a helyi önkormányzat csak azzal a feltétellel jogosult, ha a beruházás meghiúsult, minden esetben azzal, hogy a támogató az igény fennállásához a támogatási szerződésben vagy annak hatálya alatt előzetesen hozzájárul. Ez utóbbi hozzájárulás esetén az Ávr. 102. §-ának foglalkoztatási, szolgáltatási és egyéb kötelezettségek átvállalására, átruházására vonatkozó rendelkezések nem alkalmazandók.
+d)[^25] annak a vállalkozásnak, amelyik a beruházást, vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a támogatás odaítélésének időpontjában nem per- és igénymentes, kivéve, ha a támogatást kérelmező, vagy valamely állami támogatás okán a támogatást nyújtó költségvetési szerv az igény jogosultja, vagy az igény a beruházás érdekében jött létre, továbbá kivéve, ha az ingatlant a helyi önkormányzat javára bejegyzett vételi jog vagy visszavásárlási jog terheli, ha azok gyakorlására a helyi önkormányzat csak azzal a feltétellel jogosult, ha a beruházás meghiúsult, minden esetben azzal, hogy a támogató az igény fennállásához a támogatási szerződésben vagy annak hatálya alatt előzetesen hozzájárul. Ez utóbbi hozzájárulás esetén az Ávr. 102. §-ának foglalkoztatási, szolgáltatási és egyéb kötelezettségek átvállalására, átruházására vonatkozó rendelkezések nem alkalmazandók.
 
 e) annak a vállalkozásnak, amelyik a beruházást vagy a fejlesztést olyan bérelt vagy lízingelt ingatlanon kívánja megvalósítani, amely esetében a bérleti, illetve a lízing szerződés kizárólagos joggal nem biztosítja a támogatással megvalósuló létesítmény üzemeltetésének lehetőségét legalább a kötelező üzemeltetési időszak idejére, vagy a befektető nem vállalja, hogy bérleti, illetve a lízing szerződés lejárta előtt a fenti feltételeknek megfelelő helyszín rendelkezésre állását igazolja,
 
@@ -60,5 +60,5 @@ f) olyan vállalkozásnak, vagy olyan vállalkozás kapcsolt vállalkozásának,
 
 g) olyan beruházáshoz, amely bármely más vissza nem térítendő pénzbeli támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
 
-[^22]: A 8. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^23]: A 8. § (2) bekezdés d) pontja a 426/2016. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^25]: A 8. § (2) bekezdés d) pontja a 426/2016. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

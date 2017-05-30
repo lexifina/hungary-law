@@ -1,6 +1,6 @@
-18. § (1)[^39] A 9. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
+18. § (1)[^49] A 9. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
 
-(2)[^40] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe
+(2)[^50] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe
 
 a) a beruházó saját maga által előállított, forgalmazott eszköz, szoftver, saját maga által nyújtott szolgáltatás, saját maga által forgalmazott rendszer bevezetésének költségei, kivéve, ha ilyen eszköz előállítására kizárólag a beruházó képes és az eszköz elszámolása során olyan értéket alkalmaz, amely megfelel annak a piaci vételárnak, amelyet független harmadik felek egymás között alkalmaznának,
 
@@ -72,13 +72,13 @@ d) a nagyvállalkozások részére nyújtott támogatás esetén legalább 5 év
 
 e) nagyvállalkozások esetén az immateriális javak az elszámolható költségek maximum 50%-át tehetik ki.
 
-(6)[^41] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
+(6)[^51] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
 a) a beruházó a támogatásban részesült telephelyen működő vállalkozásnál a beruházóval kötött beszállítói szerződés birtokában használhatja fel,
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet.
 
-(7)[^42] Technológia-intenzív beruházás támogatása esetén
+(7)[^52] Technológia-intenzív beruházás támogatása esetén
 
 a) a földterület, a telek és az épület költsége, valamint a földterület, a telek vagy az épület bérleti díja együttesen az elszámolható költségek maximum 25%-át,
 
@@ -86,7 +86,7 @@ b) az immateriális javak az elszámolható költségek maximum 15%-át
 
 tehetik ki.
 
-[^39]: A 18. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^40]: A 18. § (2) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^41]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^42]: A 18. § (7) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 16. § (4) bekezdése iktatta be.
+[^49]: A 18. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^50]: A 18. § (2) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^51]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^52]: A 18. § (7) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 16. § (4) bekezdése iktatta be.

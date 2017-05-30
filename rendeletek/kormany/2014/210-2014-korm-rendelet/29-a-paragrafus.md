@@ -1,3 +1,3 @@
-## 29. §[^55] E rendelet alapján támogatási döntést az általános csoportmentességi rendelet 59. cikkének második mondatában meghatározott időpontig lehet hozni.
+## 29. §[^68] E rendelet alapján támogatási döntést az általános csoportmentességi rendelet 59. cikkének második mondatában meghatározott időpontig lehet hozni.
 
-[^55]: A 29. § a 426/2016. (XII. 15.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^68]: A 29. § a 426/2016. (XII. 15.) Korm. rendelet 23. §-ával megállapított szöveg.

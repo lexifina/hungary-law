@@ -42,7 +42,7 @@ azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvá
 
 14. kis- és középvállalkozás: az általános csoportmentességi rendelet I. mellékletében meghatározott, a kis- és középvállalkozásokra vonatkozó feltételeknek megfelelő vállalkozás;
 
-15.[^6] kötelező üzemeltetési időszak: olyan beruházások esetében, amelyek elszámolható költségeit tárgyi eszközök alkotják, a beruházás befejezését követő legalább öt üzleti év, kis- és középvállalkozás esetében legalább három üzleti év, egyéb beruházás esetén a beruházás befejezését követő öt év, kis- és középvállalkozás esetében három év, amely megegyezik a fenntartási időszakkal;
+15.[^6] kötelező üzemeltetési időszak: a beruházás befejezését követő legalább öt üzleti év, kis- és középvállalkozás esetében legalább három üzleti év, amely megegyezik a fenntartási időszakkal;
 
 16. kutatási infrastruktúra: az általános csoportmentességi rendelet 2. cikk 91. pontja szerinti infrastruktúra;
 
@@ -82,7 +82,7 @@ azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvá
 
 34. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő kibővítését eredményezi, amely nem minősül azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
-35.[^12] üzleti terv: beruházó által angol vagy magyar nyelven készített dokumentum, amely az alábbi tartalmi elemeket foglalja magában:
+35.[^12] üzleti terv: a 2. § a) és c) pontja szerinti beruházások esetében a beruházó által angol vagy magyar nyelven készített dokumentum, amely az alábbi tartalmi elemeket foglalja magában:
 
 a) vezetői összefoglaló,
 
@@ -90,42 +90,48 @@ b) beruházó vállalat bemutatása,
 
 c) beruházás részletes költségtervvel alátámasztott bemutatása,
 
-d) külső és belső környezet elemzése: makrogazdasági elemzés, iparági elemzés, versenytársak elemzése és SWOT analízis,
+d) külső és belső környezet elemzése: makrogazdasági elemzés, iparági elemzés, versenytársak elemzése és SWOT-analízis,
 
-e) pénzügyi terv, ideértve eredményterv, mérlegterv, cash-flow terv benyújtása.
+e) pénzügyi terv, ideértve eredményterv, mérlegterv, cash-flow terv benyújtása;
 
-36.[^13] alapkutatás: a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) 3. § 1. pontjában és az általános csoportmentességi rendelet 2. cikk 84. pontjában meghatározott alapkutatás;
+36.[^13] alapkutatás: a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) 3. § 1. pontjában meghatározott alapkutatás;
 
-37.[^14] alkalmazott kutatás: a KFItv. 3. § 2. pontjában és általános csoportmentességi rendelet 2. cikk 85. pontjában meghatározott alkalmazott kutatás;
+37.[^14] alkalmazott kutatás: a KFItv. 3. § 2. pontjában meghatározott alkalmazott kutatás;
 
-38.[^15] kísérleti fejlesztés: a KFItv. 3. § 7. pontjában és az általános csoportmentességi rendelet 2. cikk 86. pontjában meghatározott kísérleti fejlesztés;
+38.[^15] kísérleti fejlesztés: a KFItv. 3. § 7. pontjában meghatározott kísérleti fejlesztés;
 
 39.[^16] kutatás-fejlesztési projekt: a kutatás-fejlesztési projektek minősítésére hatáskörrel rendelkező szerv által kibocsátott minősítés szerint teljes egészében alkalmazott kutatási, illetve kísérleti fejlesztési tevékenységet tartalmazó projekt, azzal, hogy ha egy kutatás-fejlesztési projekt több tevékenységet foglal magába, az egyes tevékenységeket be kell sorolni vagy az alkalmazott kutatási, vagy a kísérleti fejlesztési kutatás-fejlesztési kategóriák közé;
 
-40.[^17] újonnan létesített kutatás-fejlesztési munkahelyek száma: a beruházónál munkaidejük több mint 50%-ában munkakörüknél fogva kutatás-fejlesztési projektekben foglalkoztatott munkavállalók száma, akik éves átlagos statisztikai állományi létszámának fenntartására a beruházó kötelezettséget vállal, összehasonlítva a létesítmény ilyen munkavállalóinak a támogatási kérelem benyújtását megelőző 12 hónap átlagos statisztikai állományi létszámával, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azzal, hozzátéve, hogy mindkét esetben az újonnan létesített kutatás-fejlesztési munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
+40.[^17] újonnan létesített kutatás-fejlesztési munkahelyek száma: a beruházónál munkaidejük legalább 50%-ában munkakörüknél fogva kutatás-fejlesztési projektekben foglalkoztatott munkavállalók száma, akik éves átlagos statisztikai állományi létszámának fenntartására a beruházó kötelezettséget vállal, összehasonlítva a létesítmény ilyen munkavállalóinak a támogatási kérelem benyújtását megelőző 12 hónap átlagos statisztikai állományi létszámával, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azzal, hozzátéve, hogy mindkét esetben az újonnan létesített kutatás-fejlesztési munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
 
-41.[^18] megtartott kutatás-fejlesztési munkahelyek száma: a beruházó támogatásban részesülő kutatás-fejlesztési projektjével érintett létesítményében a kutatás-fejlesztési projektekkel összefüggésben munkakörüknél fogva munkaidejük több mint 50%-ában foglalkozó munkavállalóknak a támogatási kérelem benyújtását megelőző 12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azon létszám, hozzátéve, hogy mindkét esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
+41.[^18] megtartott kutatás-fejlesztési munkahelyek száma: a beruházó támogatásban részesülő kutatás-fejlesztési projektjével érintett létesítményében a kutatás-fejlesztési projektekkel összefüggésben munkakörüknél fogva munkaidejük legalább 50%-ában foglalkozó munkavállalóknak a támogatási kérelem benyújtását megelőző 12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azon létszám, hozzátéve, hogy mindkét esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
 
 42.[^19] megtartott munkahelyek száma: a beruházó, vagy – kivéve, ha a beruházás elszámolható költségét a 20. § szerinti elszámolható költség képezi – a beruházóval beszállítói szerződéses kapcsolatban álló, a 6. §-nak megfelelő jogi személy beruházással érintett létesítményének a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azon létszám, hozzátéve, hogy mindkét esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
 
 43.[^20] kutató-fejlesztő: a KFItv. 3. § 15. pontjában meghatározott kutató-fejlesztő.
 
+44.[^21] termék-diverzifikációt eredményező induló beruházás: olyan induló beruházás, amely létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményezi, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
+
+45.[^22] új eljárási innovációt eredményező induló beruházás: az Európai Bizottság a regionális állami támogatásokról (2014–2020) szóló 2013/C 209/01 számú európai bizottsági iránymutatása 15. pontja szerinti olyan induló beruházás, amelynek célja a meglévő létesítmények új eljárási innovációkkal történő diverzifikációja, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak.
+
 [^2]: A 3. § 2. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § 6. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^4]: A 3. § 8. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^5]: A 3. § 13. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^6]: A 3. § 15. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^6]: A 3. § 15. pontja a 119/2017. (V. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § 22. pontja a 477/2015. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A 3. § 25. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^9]: A 3. § 26. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
 [^10]: A 3. § 32. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
 [^11]: A 3. § 33. pontja a 477/2015. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^12]: A 3. § 35. pontját a 477/2015. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^13]: A 3. § 36. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (9) bekezdése iktatta be.
-[^14]: A 3. § 37. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (10) bekezdése iktatta be.
-[^15]: A 3. § 38. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (11) bekezdése iktatta be.
+[^12]: A 3. § 35. pontját a 477/2015. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 119/2017. (V. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § 36. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (9) bekezdése iktatta be, szövege a 119/2017. (V. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § 37. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (10) bekezdése iktatta be, szövege a 119/2017. (V. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^15]: A 3. § 38. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (11) bekezdése iktatta be, szövege a 119/2017. (V. 29.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^16]: A 3. § 39. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (12) bekezdése iktatta be.
-[^17]: A 3. § 40. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (13) bekezdése iktatta be.
-[^18]: A 3. § 41. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^17]: A 3. § 40. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (13) bekezdése iktatta be, szövege a 119/2017. (V. 29.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^18]: A 3. § 41. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (14) bekezdése iktatta be, szövege a 119/2017. (V. 29.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
 [^19]: A 3. § 42. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (15) bekezdése iktatta be.
 [^20]: A 3. § 43. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (16) bekezdése iktatta be.
+[^21]: A 3. § 44. pontját a 119/2017. (V. 29.) Korm. rendelet 1. § (8) bekezdése iktatta be.
+[^22]: A 3. § 45. pontját a 119/2017. (V. 29.) Korm. rendelet 1. § (9) bekezdése iktatta be.
