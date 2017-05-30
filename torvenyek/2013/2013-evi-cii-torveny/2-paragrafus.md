@@ -6,7 +6,7 @@
 
 2. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény;
 
-3. fogási napló: a horgászat vagy halászat során kifogott halak – nyilvántartott halgazdálkodási vízterületenkénti, halfajonkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített nyomtatvány;
+3. fogási napló: a horgászat vagy halászat során kifogott halak – nyilvántartott halgazdálkodási vízterületenkénti, halfajonkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített űrlap;
 
 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
@@ -14,13 +14,13 @@
 
 5. hal: a halak, illetve a körszájúak csoportjába tartozó állatfaj, valamint ezek egyedfejlődési alakjai;
 
-6. hal kifogása: a halnak és más hasznos víziállatnak a halászat vagy a horgászat során történő megfogása és a vízbe vissza nem engedése;
+6. hal kifogása: a halnak és más hasznos víziállatnak a halászat vagy a horgászat során történő megfogása és a vízbe vissza nem engedése (elvitele);
 
 7. halastó: olyan – elsődlegesen haltermelési célokat szolgáló, az e törvény végrehajtására kiadott rendeletben meghatározott feltételek esetén horgászatnak is helyt adó – haltermelési létesítmény, amely vízfeltöltést és lecsapolást biztosító műtárgyakkal rendelkezik, ideértve a teleltető, raktár- és ivadéknevelő tavakat, valamint a táp- és lecsapoló csatornákat;
 
 8. halállomány: a halak és a más hasznos víziállatok összessége;
 
-9. halászat: a halnak vagy más hasznos víziállatnak megengedett módon és eszközzel halgazdálkodási vízterületen történő rekreációs vagy kereskedelmi célú, illetve ökológiai célú, szelektív fogása, továbbá gyűjtése, ide nem értve a horgászatot;
+9. halászat: a halnak vagy más hasznos víziállatnak megengedett módon és eszközzel halgazdálkodási vízterületen történő rekreációs vagy bemutatási célú, illetve ökológiai célú, szelektív fogása, továbbá gyűjtése, ide nem értve a horgászatot;
 
 10. halgazdálkodás: a természetes vizek halállományának védelmével, megújításával és hasznosításával összefüggő tevékenységek, valamint az akvakultúra és az egyéb haltermelési tevékenységek gyűjtőfogalma;
 
@@ -30,9 +30,17 @@
 
 200 méteres sáv területe, továbbá a halgazdálkodási vízterület felé benyúló vagy afelett átívelő híd, átjáró, egyéb építmény, természetes képződmény;
 
-13. haltermelés: az Európai Halászati Alapról szóló 2006. július 27-i 1198/2006/EK rendelet szerinti akvakultúra gyűjtőfogalmon belül valamely halfaj állományának mesterséges módon történő termelése;
+13. haltermelés: a közös halászati politikáról szóló 2013. december 11-i 1380/2013/EU európai parlamenti és tanácsi rendelet szerinti akvakultúra gyűjtőfogalmon belül valamely halfaj állományának mesterséges módon történő termelése, amely
 
-14. haltermelési létesítmény: olyan mesterséges létesítmény, amelyet haltermelésre használnak, ilyen célra terveztek és engedélyeztek, továbbá a települések belterületén vagy tanya földterületén fekvő, legnagyobb vízállás esetén 0,5 hektár kiterjedésnél kisebb vízfelületű állóvizek;
+a) extenzív, ha a természetes táplálékbázis mellett kiegészítő természetes anyagokkal végzett hozamfokozó módszer,
+
+b) félintenzív, ha a természetes táplálékbázis mellett kiegészítő takarmány,
+
+c) intenzív, ha kizárólag teljes értékű haltakarmány
+
+felhasználásával történik;
+
+14. haltermelési létesítmény: olyan mesterséges létesítmény, amelyet hal vagy más hasznos víziállat termelésére használnak, valamint erre a célra terveztek és engedélyeztek – ideértve a halkeltető állomást –, továbbá a település belterületén vagy tanya földterületén fekvő állóvizet (kerti tó vagy tanyató), amennyiben azt haltermelési céllal hasznosítják;
 
 15. holtág: a folyóvíz azon mederrésze, amelyet a folyóvíz természetes úton, irányának megváltoztatásával elhagyott, vagy amelyet szabályozási célból leválasztottak róla;
 

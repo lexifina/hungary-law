@@ -2,7 +2,7 @@
 
 37. § (1) A halgazdálkodási vízterületeken a hal fogása és a halfogásra irányuló tevékenység
 
-a) kereskedelmi, és ökológiai célú, szelektív halászat esetén halászati engedéllyel,
+a) bemutatási célú halászat, vagy ökológiai célú, szelektív halászat, vagy más hasznos víziállat forgalmazási célú gyűjtése esetén halászati engedéllyel,
 
 b) rekreációs célú halászat esetén állami halászjeggyel, vagy
 

@@ -4,13 +4,13 @@
 
 a) a nyilvántartott halgazdálkodási vízterületen folytatott
 
-aa) kereskedelmi, ökológiai, valamint szelektív célú halászat esetén a halászati engedélyt, a fogási tanúsítvány nyomtatványtömböt és a halász fogási naplót,
+aa) bemutatási célú halászat, ökológiai célú, szelektív célú halászat, illetve más hasznos víziállat forgalmazási célú gyűjtése esetén a halászati engedélyt, a fogási tanúsítvány nyomtatványtömböt és a halász fogási naplót,
 
 ab) rekreációs célú halászat esetén az állami halászjegyet, a területi jegyet és a halász fogási naplót,
 
-ac) horgászat esetén az állami horgászjegyet, a területi jegyet és a horgász fogási naplót;
+ac) horgászat esetén az állami horgászjegyet vagy a turista állami horgászjegyet, a területi jegyet és a horgász fogási naplót;
 
-b) a nem nyilvántartott halgazdálkodási vízterületen az állami horgászjegyet és a fogási naplót,
+b) a nem nyilvántartott halgazdálkodási vízterületen az állami horgászjegyet és a fogási naplót vagy a turista állami horgászjegyet és a fogási naplót,
 
 – a továbbiakban együtt: halfogásra jogosító okmányok –, és azokat a halgazdálkodási hatóság, a halgazdálkodásra jogosult, a halászati őr, a mezőőr, a természetvédelmi őr, a társadalmi halőr és a rendvédelmi hatóság ellenőrzésre felhatalmazott képviselőjének felhívására bemutatni és átadni.
 

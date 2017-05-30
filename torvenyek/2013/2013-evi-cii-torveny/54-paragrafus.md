@@ -22,7 +22,7 @@ g) a 42. § (1) bekezdésében meghatározott nyilvántartás adatai.
 
 a) a halgazdálkodási hatóság a (3) bekezdés a)–e) pontja,
 
-b) a 40. § (1) bekezdés szerint feljogosított szervezet a leadott fogási naplók vízterületenkénti összesített adatai, és
+b) a 40. § (1) bekezdés szerint megbízott szervezet a leadott fogási naplók vízterületenkénti összesített adatai, és
 
 c) a halgazdálkodásra jogosult a leadott halászati engedélyes és állami halászjegyes fogási naplók összesített adatai
 

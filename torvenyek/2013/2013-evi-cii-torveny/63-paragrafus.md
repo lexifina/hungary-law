@@ -18,7 +18,7 @@ a) halpusztulás esetén őshonos fajok, fajták visszatelepítésének támogat
 
 b) őshonos halállományt veszélyeztető, tájidegen vagy invazív halfajok és halfogyasztó gerinces állatfajok gyérítése, riasztása,
 
-c) védett vagy veszélyeztetett hasznosítható őshonos halfajok szaporítása, visszatelepítése,
+c) védett vagy veszélyeztetett hasznosítható őshonos halfajok, más hasznos víziállatok szaporítása, visszatelepítése,
 
 d) természetes ívóhelyek, vermelőhelyek megőrzése, rekonstrukciója,
 
@@ -48,14 +48,26 @@ p) a 62. § szerinti testület működésének támogatása,
 
 q) a halgazdálkodás és a horgászat miniszter által alapított kitüntetései adományozásának támogatása,
 
-r) nyilvántartott halgazdálkodási vízterületeken a horgászati célú halgazdálkodási szaktanácsadás igénybevételének támogatása.
+r) nyilvántartott halgazdálkodási vízterületeken a horgászati célú halgazdálkodási szaktanácsadás igénybevételének támogatása,
+
+s) a halfogyasztást ösztönző nemzeti program kialakítása, halra, haltermékre, halkereskedelemre vagy halból készült ételekre vonatkozó nemzeti minőségrendszerek, illetve védjegyek támogatása,
+
+t) halat, horgászatot, valamint halászatot bemutató muzeális gyűjtemények, illetve bemutató intézmények, épületek, létesítmények létrehozásának támogatása,
+
+u) halat, horgászatot, valamint halászatot ábrázoló művészeti alkotások létrehozásának támogatása,
+
+v) halgazdálkodási és halvédelmi kutatások támogatása,
+
+w) a halgazdálkodási szakpolitikát meghatározó nemzetközi szervezetekben Magyarország tagságának támogatása,
+
+x) nyilvántartott halgazdálkodási vízterület tulajdonjogának kiemelt halgazdálkodási vagy halvédelmi érdekből, adásvételi szerződéssel állami tulajdonba történő átruházása.
 
 (4) Az (1) bekezdés c) és d) pontja szerinti bevétel a halgazdálkodási hatóság országos illetékességű szervének bevétele, amelyet a következőkre fordít:
 
 a) az e törvény szerinti halgazdálkodási nyilvántartások karbantartása, fejlesztése,
 
-b) országos halgazdálkodási ellenőrzések szervezése, végrehajtásának koordinációja,
+b) az állami halőri szolgálat működtetése.
 
-c) halgazdálkodási felügyelők továbbképzése, illetve
+c)
 
 d) halpusztulások megelőzése, halpusztulások okainak felderítése és a halpusztulások okozta károk elhárítása.

@@ -14,6 +14,8 @@ e) tudományos célt szolgáló vizsgálati anyag begyűjtése, vagy
 
 f) természetvédelmi célú beavatkozás szükségessége,
 
-g) állatkerti, édesvízi akváriumi, illetve kiállítási élőállat-bemutató céljából.
+g) állatkerti, édesvízi akváriumi, illetve kiállítási élőállat-bemutató céljából,
+
+h) folyóvíz hosszirányú átjárhatóságának akadályozottsága esetén a halállomány áttelepítéséhez szükséges befogási célból.
 
 (3) A 46. § (4) bekezdés h) pontja szerinti eszköz nem minősül tiltott halfogási eszköznek és módnak, amennyiben a 10. § (3) bekezdése szerinti célok megvalósításához, vagy tudományos kutatás, valamint a halállományok felmérése céljából alkalmazzák.

@@ -12,7 +12,9 @@ e) nyilvántartási és adatszolgáltatási kötelezettségének nem tesz eleget
 
 f) állami horgászjeggyel, turista állami horgászjeggyel, állami halászjeggyel nem rendelkező személy számára területi jegyet ad;
 
-g) megszegi a halászati őrök alkalmazásával és bejelentésével kapcsolatos előírásokat.
+g) megszegi a halászati őrök alkalmazásával és bejelentésével kapcsolatos előírásokat;
+
+h) a 10. § (3) bekezdés szerint előírt kötelezettségének teljesítését a határozat kézhezvételétől számított 60 napon belül nem kezdi meg.
 
 (2) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki a halgazdálkodási vízterülettel érintett ingatlan tulajdonosára, használójára, ha a halgazdálkodási szolgalmi jog gyakorlását jelentős mértékben akadályozza.
 

@@ -16,9 +16,9 @@
 
 8. a veszélyeztetett hasznosítható őshonos halfajok országos fajmegőrzési tervét;
 
-9. a vízélettani laboratórium halgazdálkodási vízterületek minősítésére, vízszennyezéssel, halpusztulással kapcsolatos halélettani vizsgálatára vonatkozó eljárással összefüggő szabályokat;
+9. a vízélettani laboratórium halgazdálkodási vízterületek minősítésére, vízszennyezéssel, halpusztulással kapcsolatos halélettani vizsgálatára vonatkozó szabályokat;
 
-10. az állami halászjegy, az állami horgászjegy és a turista állami horgászjegy, valamint a fogási napló és a fogási tanúsítvány díját, megfizetésének és kezelésének részletes szabályait;
+10. az állami halászjegy, az állami horgászjegy és a turista állami horgászjegy, valamint a papíralapú és az elektronikus fogási napló és a fogási tanúsítvány díját, megfizetésének és kezelésének részletes szabályait;
 
 11. az egyenáramú elektromos eszközzel végzett, tudományos kutatási, valamint az egyéb célú halfogási engedély kiadásának részletes szabályait;
 
@@ -56,9 +56,9 @@
 
 28. a halgazdálkodásra jogosult által évente kötelezően elkészítendő fogási jelentés tartalmi elemeit;
 
-29. a halgazdálkodási vízterületen vagy annak részén folytatott haltermelés feltételeit, továbbá az engedélyezésére vonatkozó szabályokat;
+29. a halgazdálkodási vízterületen vagy annak részén folytatott haltermelés feltételeit;
 
-30. a fogási napló tartalmi elemeit, leadási határidejét, feldolgozásának, összesítésének és adatszolgáltatásának módját;
+30. a papíralapú és az elektronikus fogási napló tartalmi elemeit, leadási határidejét, feldolgozásának, összesítésének és adatszolgáltatásának módját;
 
 31. a halgazdálkodási hatóság által elvégeztetett halállománymentésre vonatkozó szabályokat;
 
@@ -72,7 +72,21 @@
 
 36. a Balaton vízgyűjtőjén lévő és a Balatonnal lefolyási viszonyban álló haltermelési létesítményeket, valamint ezeken a haltermelési létesítményeken az idegenhonos halfajok telepítésére és felhasználására vonatkozó különös szabályokat;
 
-37. az államot megillető halgazdálkodási jog kijelöléssel történő átengedésének, valamint alhaszonbérbe adásának részletes feltételeit.
+37. az államot megillető halgazdálkodási jog kijelöléssel történő átengedésének, valamint alhaszonbérbe adásának részletes feltételeit;
+
+38. az államot megillető halgazdálkodási jog haszonbérleti jogviszonyának időtartama alatti, a tulajdonosi ellenőrzésre, valamint haszonbérlői adatszolgáltatási kötelezettségekre vonatkozó részletes szabályokat;
+
+39. az akvakultúrás termeléshez kapcsolódó adatszolgáltatási kötelezettségekre, továbbá az adatok gyűjtésére vonatkozó részletes szabályokat;
+
+40. a halgazdálkodási vízterületről kifogott halak és más hasznos víziállatok haltermelési létesítménybe történő telepítésének részletes feltételeit;
+
+41. az egyenáramú elektromos eszköz minősítési-üzembehelyezési vizsgáztatását és elektromos érintésvédelmi felülvizsgálatát elvégezni jogosult szervezeteket;
+
+42. az idegenhonos halak és más hasznos víziállatok szállításának szabályait;
+
+43. az állami halőri szolgálat szervezetére és működésére vonatkozó szabályokat;
+
+44. az idegenhonos inváziós halfajok visszaszorítására alkalmas program feltételeit.
 
 (2) Felhatalmazást kap a miniszter arra, hogy
 

@@ -1,4 +1,4 @@
-38. § (1) A halászati engedély azon nyilvántartott halgazdálkodási vízterületen jogosít kereskedelmi, és ökológiai célú, szelektív halászat végzésére, amelyre kiadásra kerül.
+38. § (1) A halászati engedély kizárólag azon a nyilvántartott halgazdálkodási vízterületen jogosít bemutatási célú halászat, vagy ökológiai célú, szelektív halászat végzésére, vagy más hasznos víziállat forgalmazási célú gyűjtésére, amelyre kiadásra kerül.
 
 (2) A halászati engedélyt a halgazdálkodási hatóság adja ki – a halgazdálkodásra jogosulttal írásban kötött szerződés alapján – az e törvény végrehajtására kiadott rendeletben meghatározott képzettséggel és vizsgával rendelkező kérelmező részére.
 
@@ -22,4 +22,4 @@ c) kifogható egyes halfajok éves mennyiségéről.
 
 (6) Halászati engedély, fogási napló és fogási tanúsítvány jogi személy számára is kiadható.
 
-(7) Más hasznos víziállat kereskedelmi célú gyűjtése csak halászati engedéllyel végezhető.
+(7)

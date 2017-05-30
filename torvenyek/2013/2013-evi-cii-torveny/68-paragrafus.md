@@ -40,6 +40,6 @@ h) a jogsértéssel érintett halgazdálkodási vízterület nyilvántartott vag
 
 veszi figyelembe.
 
-(2) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege legalább a korábban kiszabott bírság másfélszerese, legfeljebb az adott jogsértés esetén kiszabható bírság legmagasabb mértéke.
+(2) Három éven belüli ismételt halgazdálkodási, halvédelmi jogsértés elkövetése esetén a bírság összege legalább a korábban kiszabott bírság másfélszerese, de legfeljebb az e törvényben foglalt kiszabható bírság legmagasabb mértéke.
 
 (3) A bírság tételes mértékét és kiszabásának részletes szabályait az e törvény végrehajtására kiadott rendelet határozza meg.

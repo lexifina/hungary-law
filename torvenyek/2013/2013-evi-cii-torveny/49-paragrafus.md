@@ -18,10 +18,10 @@ f) a halgazdálkodás érdekében a vízinövényzet és a víziállat-állomán
 
 g) az invazív, nem őshonos halfajok visszaszorítására vonatkozó intézkedési tervet,
 
-h) a halállomány őrzésének módját, a halászati őrök és a társadalmi halőrök létszámát,
+h) a halállomány őrzésének módját, a halászati őrök és a társadalmi halőrök vonatkozásában az e törvény végrehajtására kiadott rendeletben megállapított, illetve az államot megillető halgazdálkodási jog haszonbérleti jogviszony keretében történő átengedésére irányuló pályázatban vagy szerződésben a kötelezőn felül vállalt minimális létszámát,
 
 i) a területi jegyek típusainak és tervezett mennyiségeinek meghatározását,
 
-j) a helyi horgászrend azon rendelkezéseit, amelyek – ha erre jogszabály lehetőséget ad – a jogszabályban meghatározott előírásoktól eltérnek,
+j) a helyi horgászrend azon rendelkezéseit, amelyek – ha erre jogszabály lehetőséget ad – a jogszabályban meghatározott korlátozásokat enyhítik,
 
-k) a helyi horgászrendben szereplő, e törvényre és végrehajtására kiadott rendeletre hivatkozó szabályozást.
+k) a helyi horgászrendben, illetve helyi halászrendben szereplő, e törvényre és végrehajtására kiadott rendeletre való hivatkozást.
