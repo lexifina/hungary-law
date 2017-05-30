@@ -10,11 +10,13 @@
 
 (3a)[^5] E rendelet hatálya nem terjed ki azokra az európai uniós támogatással megvalósuló beszerzésekre, amelyek értéke meghaladja a központi költségvetésről szóló törvényben meghatározott közbeszerzési értékhatárt.
 
+(3b)[^6] E rendelet hatálya nem terjed ki a központi költségvetésről szóló törvény szerinti Kormányfői protokoll kiadási előirányzat terhére elszámolt termékek és szolgáltatások beszerzésére.
+
 (4) A Kedvezményezett által igényelt termékek és szolgáltatások kapcsán vizsgálni kell, hogy annak előállítása a fogvatartottak kötelező foglalkoztatása keretében történő előállítás keretei között biztosítható minőségi és mennyiségi korlátok mellett megvalósítható-e. Amennyiben a Központi Ellátó Szerv nyilatkozata alapján valamely oknál fogva a kötelezettségét nem vagy csak részben képes teljesíteni, a Kedvezményezett jogosult a termékek és szolgáltatások egészének vagy a Központi Ellátó Szerv által nem biztosított részének beszerzésére.
 
 (5) A Kormány a Központi Ellátó Szerv feladatainak ellátására a Büntetés-végrehajtás Országos Parancsnokságát jelöli ki. A Központi Ellátó Szerv végzi és koordinálja az ellátási tevékenységet.
 
-(6)[^6] E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott uniós közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, az uniós közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.
+(6)[^7] E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott uniós közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, az uniós közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.
 
 (7) Ellátási kötelezettség teljesítésében kizárólag az a büntetés-végrehajtási szerv vehet részt, amelynek nem áll fenn köztartozása, és megfelel a rendezett munkaügyi kapcsolatok államháztartási törvényben meghatározott feltételeinek.
 
@@ -23,4 +25,5 @@
 [^3]: Az 1. § (2a) bekezdését a 286/2011. (XII. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^4]: Az 1. § (3) bekezdése a 17/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (3a) bekezdését a 17/2013. (I. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 9/2016. (II. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. § (6) bekezdése a 73/2012. (IV. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § (3b) bekezdését a 118/2017. (V. 29.) Korm. rendelet 10. §-a iktatta be.
+[^7]: Az 1. § (6) bekezdése a 73/2012. (IV. 12.) Korm. rendelet 1. §-ával megállapított szöveg.

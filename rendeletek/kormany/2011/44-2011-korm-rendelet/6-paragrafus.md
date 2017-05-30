@@ -4,9 +4,9 @@
 
 (3) A Kedvezményezett – a (7) bekezdésben meghatározott kivétellel – köteles a Központi Ellátó Szerv ajánlatát elfogadni és a Központi Ellátó Szervvel a megkeresés és az elfogadott ajánlat alapján tárgyév március 20-áig ellátási megállapodást kötni.
 
-(4)[^12] Amennyiben a Központi Ellátó Szerv kizárólag minőségi okból nem képes a Kedvezményezett által igényelt termék vagy szolgáltatás biztosítására, akkor tárgyév február 5-éig a Kedvezményezettel tárgyalást kezdeményezhet. A szerződéses ajánlatot a Kedvezményezett jogosult elutasítani, amennyiben jogszabályban, közjogi szervezetszabályozó eszközben meghatározott előírással alátámasztottan bizonyítja a Központi Ellátó Szervnek az általa elvárt minőséghez fűződő különös indokait. Ez esetben a Központi Ellátó Szerv kiadja az 1. § (4) bekezdése szerinti nyilatkozatot.
+(4)[^13] Amennyiben a Központi Ellátó Szerv kizárólag minőségi okból nem képes a Kedvezményezett által igényelt termék vagy szolgáltatás biztosítására, akkor tárgyév február 5-éig a Kedvezményezettel tárgyalást kezdeményezhet. A szerződéses ajánlatot a Kedvezményezett jogosult elutasítani, amennyiben jogszabályban, közjogi szervezetszabályozó eszközben meghatározott előírással alátámasztottan bizonyítja a Központi Ellátó Szervnek az általa elvárt minőséghez fűződő különös indokait. Ez esetben a Központi Ellátó Szerv kiadja az 1. § (4) bekezdése szerinti nyilatkozatot.
 
-(4b)[^13] Amennyiben a Kedvezményezett a tárgyalás eredményeként a Központi Ellátó Szerv ajánlatát elfogadja, az ellátási megállapodást tárgyév március 20-áig kötelesek megkötni. A tárgyalás eredménytelensége esetén a Központi Ellátó Szerv kiadja az 1. § (4) bekezdése szerinti nyilatkozatot.
+(4b)[^14] Amennyiben a Kedvezményezett a tárgyalás eredményeként a Központi Ellátó Szerv ajánlatát elfogadja, az ellátási megállapodást tárgyév március 20-áig kötelesek megkötni. A tárgyalás eredménytelensége esetén a Központi Ellátó Szerv kiadja az 1. § (4) bekezdése szerinti nyilatkozatot.
 
 (5) Amennyiben a Központi Ellátó Szerv kizárólag mennyiségi okból nem képes a Kedvezményezett által igényelt termék vagy szolgáltatás biztosítására, akkor tárgyév február 5-éig a Kedvezményezettel tárgyalást kezdeményezhet. A tárgyalási ajánlatot a Kedvezményezett köteles elfogadni. A Felek a tárgyaláson valamennyi, a Kedvezményezett által igényelt termék és szolgáltatás mennyiségéről szabadon tárgyalhatnak a Felek számára összességében legkedvezőbb ajánlatok kialakítása érdekében. A Kedvezményezett a tárgyalás alapján a Központi Ellátó Szerv által tett ajánlatokat köteles elfogadni, és az egyes termékek és szolgáltatások Központi Ellátó Szerv által biztosított mennyiségeire az ellátási megállapodásokat tárgyév március 20-áig megkötni. A Kedvezményezett a Központi Ellátó Szerv által nem biztosított mennyiséget jogosult beszerezni.
 
@@ -14,5 +14,5 @@
 
 (7) A Kedvezményezett jogosult a Központi Ellátó Szerv ajánlatát elutasítani, amennyiben hitelt érdemlően bizonyítja, hogy a Központi Ellátó Szerv által meghatározott ellenértéknél legalább 20%-kal kedvezőbb ellenértéken tudja a terméket vagy a szolgáltatást a Központi Ellátó Szerv számára meghatározott minimális műszaki tartalommal, paraméterekkel, minőséggel, valamint teljesítési hellyel, teljesítési határidővel és ajánlati kötöttséggel azonosan, vagy annál kedvezőbb módon beszerezni.
 
-[^12]: A 6. § (4) bekezdése a 17/2013. (I. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: A 6. § (4b) bekezdését a 17/2013. (I. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^13]: A 6. § (4) bekezdése a 17/2013. (I. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: A 6. § (4b) bekezdését a 17/2013. (I. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.

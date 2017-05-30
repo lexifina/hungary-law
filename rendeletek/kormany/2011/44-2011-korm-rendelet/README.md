@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-44-20-2
 | 2014-09-05 | 2011-44-20-22.6 | 17/2013. (I. 30.) Korm. rendelet |
 | 2015-07-08 | 2011-44-20-22.7 | 175/2015. (VII. 7.) Korm. rendelet |
 | 2016-02-10 | 2011-44-20-22.8 | 9/2016. (II. 9.) Korm. rendelet |
+| 2017-05-30 | 2011-44-20-22.9 | 118/2017. (V. 29.) Korm. rendelet |
