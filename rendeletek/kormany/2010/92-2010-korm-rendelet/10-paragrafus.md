@@ -1,6 +1,6 @@
-## 9. §[^30] A telephely biztonsági tanúsítvány, valamint az egyszerűsített telephely biztonsági tanúsítvány visszavonásig érvényes.
+## 9. §[^32] A telephely biztonsági tanúsítvány, valamint az egyszerűsített telephely biztonsági tanúsítvány visszavonásig érvényes.
 
-10. §[^31] (1) Az NBF a telephely biztonsági tanúsítványt visszavonja, ha
+10. §[^33] (1) Az NBF a telephely biztonsági tanúsítványt visszavonja, ha
 
 a) a 6. § (2) bekezdésében meghatározott feltételek már nem állnak fenn,
 
@@ -20,5 +20,5 @@ c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalm
 
 d) a 7. § (3) bekezdés a) pontja, valamint a 12. § (3) bekezdése szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz eleget.
 
-[^30]: A 9. § a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^31]: A 10. § a 441/2016. (XII. 16.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^32]: A 9. § a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^33]: A 10. § a 441/2016. (XII. 16.) Korm. rendelet 35. §-ával megállapított szöveg.
