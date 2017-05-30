@@ -1,0 +1,1 @@
+## „h) rendőri szerv szervezeti egysége: az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: általános szerv) területi szervei, a terrorizmust elhárító szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv igazgatóságai.”
