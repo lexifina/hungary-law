@@ -38,7 +38,7 @@
 
 ## emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15., a 2. pont b) alpont szerint átcsoportosított összeg tekintetében 2015. február 16., az Igazságügyi Minisztérium igazgatása részére átcsoportosított 69,0 millió forintot tekintetében 2015. június 30., az Emberi Erőforrások Minisztériuma fejezet, Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 106,0 millió forint tekintetében 2017. június 30.
+## Határidő: 2014. december 15., a 2. pont b) alpont szerint átcsoportosított összeg tekintetében 2015. február 16., az Igazságügyi Minisztérium igazgatása részére átcsoportosított 69,0 millió forintot tekintetében 2015. június 30., az Emberi Erőforrások Minisztériuma fejezet, Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 106,0 millió forint tekintetében 2018. március 31.[^3]
 
 ## 3. A Kormány egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből a Duna-korzó közterület felújítása érdekében nyújtandó támogatás felhasználásának és elszámolásának feltételeiről 2014. február 15-éig támogatási megállapodást köt Budapest Főváros V. kerület Belváros-Lipótváros Önkormányzatával.
 
@@ -56,7 +56,7 @@
 
 ## Határidő: a 2015. évi, a 2016. évi és a 2017. évi központi költségvetés tervezése során
 
-## 8–17.[^3]
+## 8–17.[^4]
 
 1. melléklet az 1025/2014. (I. 30.) Korm. határozathoz
 
@@ -232,6 +232,7 @@
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1721/2014. (XII. 5.) Korm. határozat 5. pontja, az 1340/2016. (VII. 4.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1721/2014. (XII. 5.) Korm. határozat 5. pontja, az 1340/2016. (VII. 4.) Korm. határozat 9. pontja, az 1276/2017. (V. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2. pont c) alpontja az 1812/2014. (XII. 19.) Korm. határozat 25. pontja, az 1035/2015. (I. 30.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^3]: A 8–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1013/2018. (II. 2.) Korm. határozat 2. pontja alapján az Emberi Erőforrások Minisztériuma fejezet, Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 106,0 millió forint tekintetében az elszámolási határidő 2018. június 30.
+[^4]: A 8–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
