@@ -1,3 +1,0 @@
-## „i) az Indiából származó bételborslevelet („Piper Betle”) tartalmazó vagy abból álló élelmiszerek behozatalára vonatkozó egyedi feltételek meghatározásáról, valamint a 669/2009/EK rendelet módosításáról szóló, 2016. február 8-i 2016/166/EU bizottsági végrehajtási rendelet,
-
-## j) az Etiópiából származó fűszerek, az Argentínából származó földimogyoró és az Azerbajdzsánból származó mogyoró behozatalára irányadó egyedi feltételeket elrendelő, valamint a Törökországból származó szárított füge és mogyoró, és az Indiából származó földimogyoró behozatala vonatkozásában az egyedi feltételeket módosító 884/2014/EU bizottsági végrehajtási rendelet módosításáról szóló, 2016. december 1-i 2016/2106/EU bizottsági végrehajtási rendelet.”
