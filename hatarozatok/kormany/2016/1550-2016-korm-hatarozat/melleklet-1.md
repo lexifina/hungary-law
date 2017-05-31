@@ -1,6 +1,6 @@
 ## 1. egyetért a VERITAS Történetkutató Intézet levéltárának a Budapest, belterület, 37090 helyrajzi számon nyilvántartott, természetben a 1093 Budapest, Közraktár utca 18. szám alatt álló ingatlanban, bérleti jogviszonnyal történő elhelyezésével;
 
-## 2. az 1. pontban foglalt cél megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 312,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 8. VERITAS Történetkutató Intézet cím javára az 1. melléklet szerint;
+## 2.[^1] az 1. pontban foglalt cél megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 312,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 8. VERITAS Történetkutató Intézet cím javára az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. december 31.
 
 ## 3. felhívja a nemzetgazdasági minisztert, valamint a Miniszterelnökséget vezető minisztert, hogy a VERITAS Történetkutató Intézet levéltára üzemeltetési feladatainak hatékony ellátása, valamint a működtetéssel összefüggő feladatok ellátása érdekében
 
@@ -105,3 +105,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1275/2017. (V. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
