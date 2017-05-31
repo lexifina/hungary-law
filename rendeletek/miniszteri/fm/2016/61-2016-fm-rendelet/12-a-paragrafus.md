@@ -1,0 +1,1 @@
+## 12. § E rendelet előírásainak meg nem felelő csomagolóeszközök és címkék a rendelet hatálybalépését követő negyedik hónap első napjáig használhatóak fel, és az ilyen jelöléssel ellátott termékek minőségmegőrzési vagy fogyaszthatósági idejük lejártáig hozhatók forgalomba.

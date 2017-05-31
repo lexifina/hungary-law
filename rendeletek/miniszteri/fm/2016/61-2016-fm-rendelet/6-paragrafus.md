@@ -4,4 +4,6 @@
 
 a) a kaptár 5,5 km-es körzetében a nektár- és virágporforrásokat géntechnológiával nem módosított növények képezik,
 
-b) a méhek takarmánya nem tartalmaz GMO-t vagy GMO-ból előállított összetevőt, kivéve a 3. § (5) bekezdésében a GMO-mentességre utaló jelöléssel ellátott takarmányra vonatkozóan meghatározott kivételeket.
+b)[^13] a méheket GMO-mentes termelésben felhasználható takarmánnyal takarmányozták.
+
+[^13]: A 6. § b) pontja a 27/2017. (V. 30.) FM rendelet 4. §-ával megállapított szöveg.
