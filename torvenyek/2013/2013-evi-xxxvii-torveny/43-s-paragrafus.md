@@ -1,0 +1,3 @@
+43/S. § (1) A 43/N. § szerinti adatszolgáltatási, illetve a 43/O. § szerinti bejelentési, változásbejelentési kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 20 millió forintig terjedő mulasztási bírsággal sújthatja.
+
+(2) Az (1) bekezdés alapján nincs helye mulasztási bírság kiszabásának, ha a bejelentésre, változásbejelentésre, adatszolgáltatásra kötelezett mulasztását, késedelmét, hibás, valótlan tartalmú vagy hiányos teljesítését annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
