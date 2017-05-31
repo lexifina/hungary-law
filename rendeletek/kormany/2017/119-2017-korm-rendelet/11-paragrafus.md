@@ -1,3 +1,0 @@
-## 10. § A Korm. rendelet 17. alcíme a következő 29/B. §-sal egészül ki:
-
-## „E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 119/2017. (V. 29.) kormányrendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit – a 3. § 45. pont szerinti új eljárási innovációt eredményező induló beruházásra vonatkozó eljárások kivételével – a 2017. január 1-jét követően megindult és a Módr. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell, amennyiben az eljárásban támogatási szerződés megkötésére a Módr. hatályba lépésének napjáig nem került sor.”
