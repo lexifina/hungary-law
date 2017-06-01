@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-321-20-
 | 2015-11-02 | 2015-321-20-22.2 | 2010: CXXX. törvény |
 | 2016-07-25 | 2015-321-20-22.3 | 207/2016. (VII. 21.) Korm. rendelet |
 | 2017-01-01 | 2015-321-20-22.4 | 487/2016. (XII. 28.) Korm. rendelet |
+| 2017-06-01 | 2015-321-20-22.5 | 115/2017. (V. 19.) Korm. rendelet |

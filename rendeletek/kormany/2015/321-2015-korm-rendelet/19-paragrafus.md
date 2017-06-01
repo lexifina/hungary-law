@@ -2,13 +2,13 @@
 
 ## 4. A gazdasági és pénzügyi alkalmasság igazolása
 
-19. § (1) Az ajánlattevőnek, illetve a részvételre jelentkezőnek a szerződés teljesítéséhez szükséges pénzügyi és gazdasági alkalmassága árubeszerzés, építési beruházás, valamint szolgáltatás megrendelése esetén igazolható
+19. § (1)[^15] Az ajánlattevőnek, illetve a részvételre jelentkezőnek a szerződés teljesítéséhez szükséges pénzügyi és gazdasági alkalmasságának igazolása árubeszerzés, építési beruházás, valamint szolgáltatás megrendelése esetén előírható
 
 a) pénzügyi intézménytől származó, legfeljebb az eljárást megindító felhívás feladásától – nem hirdetménnyel induló eljárásokban megküldésétől – visszafelé számított kettő évre vonatkozó megfelelő nyilatkozattal; attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte meg tevékenységét, ha ezek az adatok rendelkezésre állnak;
 
 b) saját vagy jogelődje számviteli jogszabályok szerinti beszámolójának – vagy annak meghatározott részének – benyújtásával (ha a gazdasági szereplő letelepedése szerinti ország joga előírja közzétételét); ha az ajánlatkérő által kért beszámoló a céginformációs szolgálat honlapján megismerhető, a beszámoló adatait az ajánlatkérő ellenőrzi, a céginformációs szolgálat honlapján megtalálható beszámoló beküldése nem szükséges;
 
-c)[^15] az előző legfeljebb három, mérlegfordulónappal lezárt üzleti évre vonatkozóan kérhető, teljes – általános forgalmi adó nélkül számított – árbevételéről, illetve ugyanezen időszakban a közbeszerzés tárgyából származó – általános forgalmi adó nélkül számított – árbevételéről szóló – adott esetben az egységes európai közbeszerzési dokumentumba foglalt – nyilatkozattal, attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte meg tevékenységét, ha ezek az adatok rendelkezésre állnak;
+c)[^16] az előző legfeljebb három, mérlegfordulónappal lezárt üzleti évre vonatkozóan kérhető, teljes – általános forgalmi adó nélkül számított – árbevételéről, illetve ugyanezen időszakban a közbeszerzés tárgyából származó – általános forgalmi adó nélkül számított – árbevételéről szóló – adott esetben az egységes európai közbeszerzési dokumentumba foglalt – nyilatkozattal, attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte meg tevékenységét, ha ezek az adatok rendelkezésre állnak;
 
 d) az eljárást megindító felhívásban meghatározott, szakmai felelősségbiztosításának fennállásáról szóló igazolással.
 
@@ -24,11 +24,12 @@ d) az eljárást megindító felhívásban meghatározott, szakmai felelősségb
 
 (7) Azokban az esetekben, amelyekben a 28. §-ban és a 36. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke – figyelemmel a 30. §-ban és a 39. §-ban foglaltakra – bizonyítja, hogy a gazdasági szereplő megfelel az adott alkalmassági követelménynek, a minősített ajánlattevők elektronikusan elérhető hivatalos jegyzékén való szereplés tényét, illetve az Európai Unió egy másik tagállamában letelepedett gazdasági szereplő által benyújtott, a letelepedési helye szerinti, az elismert ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is köteles az ajánlatkérő elfogadni az (1) bekezdésben foglalt egyéb igazolási módok helyett.
 
-(8)[^16] Ha az ajánlatkérő a részajánlattételt lehetővé teszi, e §-t minden egyes különálló részre vonatkozóan alkalmazni kell. Ha az ajánlat (részvételi jelentkezés) a Kbt. 61. § (6) bekezdése alapján több rész tekintetében is benyújtható, az ajánlatkérő a gazdasági szereplőktől elvárt minimális éves árbevételt a részek egyes csoportjaira vonatkozóan is meghatározhatja azon ajánlattevőkre (részvételre jelentkezőkre) vonatkozóan, akik több, ugyanabban az időben teljesítendő részre is tesznek ajánlatot (nyújtanak be részvételi jelentkezést).
+(8)[^17] Ha az ajánlatkérő a részajánlattételt lehetővé teszi, e §-t minden egyes különálló részre vonatkozóan alkalmazni kell. Ha az ajánlat (részvételi jelentkezés) a Kbt. 61. § (6) bekezdése alapján több rész tekintetében is benyújtható, az ajánlatkérő a gazdasági szereplőktől elvárt minimális éves árbevételt a részek egyes csoportjaira vonatkozóan is meghatározhatja azon ajánlattevőkre (részvételre jelentkezőkre) vonatkozóan, akik több, ugyanabban az időben teljesítendő részre is tesznek ajánlatot (nyújtanak be részvételi jelentkezést).
 
 (9) Ha az egy keretmegállapodáson alapuló szerződéseket a verseny újbóli megindítását követően ítélik oda, akkor a Kbt. 65. § (5) bekezdésében említett, az éves árbevételre vonatkozó maximális követelményt az egy időben teljesítendő külön szerződések várható nagyságrendje alapján kell kiszámítani, vagy ha ez nem ismert, a keretmegállapodás becsült értéke alapján. Dinamikus beszerzési rendszer esetén a Kbt. 65. § (5) bekezdésében említett, az éves árbevételre vonatkozó maximális követelményt az említett rendszer keretében odaítélendő egyes szerződések várható maximális nagyságrendje alapján kell kiszámítani.
 
 (10) A Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban az (1) bekezdés b) pontja és a (6) bekezdés szerinti megfelelést igazoló dokumentum elérési helyét a gazdasági szereplő az egységes európai közbeszerzési dokumentumban feltünteti.
 
-[^15]: A 19. § (1) bekezdés c) pontja a 487/2016. (XII. 28.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
-[^16]: A 19. § (8) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 7. § (13) bekezdésével megállapított szöveg.
+[^15]: A 19. § (1) bekezdés nyitó szövegrésze a 115/2017. (V. 19.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^16]: A 19. § (1) bekezdés c) pontja a 487/2016. (XII. 28.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
+[^17]: A 19. § (8) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 7. § (13) bekezdésével megállapított szöveg.
