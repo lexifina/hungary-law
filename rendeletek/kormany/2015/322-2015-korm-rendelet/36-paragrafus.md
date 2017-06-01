@@ -4,7 +4,11 @@
 
 (2) A 2015. november 1. előtt megkezdett közbeszerzésekre az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet rendelkezéseit kell alkalmazni azzal, hogy amennyiben a kifizetés részben vagy egészben európai uniós forrásból finanszírozott és a kifizetés időpontja 2015. november 1. napja és 2015. december 31. napja közötti időszakra esik, az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet 14. §-a nem alkalmazandó.
 
-(3)[^11] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 487/2016. (XII. 28.) Korm. rendelettel megállapított rendelkezéseit a 487/2016. (XII. 28.) Korm. rendelet hatálybalépése[^12] után indult közbeszerzési eljárások esetében kell alkalmazni. E rendelet 32/A. §-a a 487/2016. (XII. 28.) Korm. rendelet hatálybalépése előtt indult közbeszerzési eljárások esetében, valamint megkötött szerződések teljesítése során is alkalmazandó.
+(3)[^13] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 487/2016. (XII. 28.) Korm. rendelettel megállapított rendelkezéseit a 487/2016. (XII. 28.) Korm. rendelet hatálybalépése[^14] után indult közbeszerzési eljárások esetében kell alkalmazni. E rendelet 32/A. §-a a 487/2016. (XII. 28.) Korm. rendelet hatálybalépése előtt indult közbeszerzési eljárások esetében, valamint megkötött szerződések teljesítése során is alkalmazandó.
 
-[^11]: A 36. § (3) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 8. § (8) bekezdése iktatta be.
-[^12]: A hatálybalépés időpontja 2017. január 1.
+(4)[^15] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 115/2017. (V. 19.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a módosító rendelet hatálybalépését[^16] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+[^13]: A 36. § (3) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 8. § (8) bekezdése iktatta be.
+[^14]: A hatálybalépés időpontja 2017. január 1.
+[^15]: A 36. § (4) bekezdését a 115/2017. (V. 19.) Korm. rendelet 11. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2017. június 1.

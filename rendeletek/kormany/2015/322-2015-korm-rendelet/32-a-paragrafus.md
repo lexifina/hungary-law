@@ -1,4 +1,4 @@
-32/A. §[^10] (1) Az ajánlatkérőként szerződő fél, valamint – európai uniós támogatás esetén szállítói kifizetés során – a kifizetésre köteles szervezet, ha az ajánlattevőként szerződő fél a teljesítéshez alvállalkozót vesz igénybe, a Ptk. 6:130. § (1)–(2) bekezdésétől eltérően a következő szabályok szerint köteles az ellenszolgáltatást teljesíteni:
+32/A. §[^12] (1) Az ajánlatkérőként szerződő fél, valamint – európai uniós támogatás esetén szállítói kifizetés során – a kifizetésre köteles szervezet, ha az ajánlattevőként szerződő fél a teljesítéshez alvállalkozót vesz igénybe, a Ptk. 6:130. § (1)–(2) bekezdésétől eltérően a következő szabályok szerint köteles az ellenszolgáltatást teljesíteni:
 
 a) az ajánlattevőként szerződő felek legkésőbb a teljesítés elismerésének időpontjáig kötelesek nyilatkozatot tenni az ajánlatkérőnek, hogy közülük melyik mekkora összegre jogosult az ellenszolgáltatásból;
 
@@ -24,4 +24,4 @@ i) részben vagy egészben európai uniós támogatásból megvalósított közb
 
 (4) Ha a közbeszerzési szerződés teljesítése érdekében a nyertes ajánlattevő (ajánlattevők) projekttársaságot hoztak létre, e § alkalmazásában a nyertes ajánlattevőként szerződő fél alatt a projekttársaságot kell érteni.
 
-[^10]: A 32/A. §-t a 487/2016. (XII. 28.) Korm. rendelet 8. § (7) bekezdése iktatta be.
+[^12]: A 32/A. §-t a 487/2016. (XII. 28.) Korm. rendelet 8. § (7) bekezdése iktatta be.

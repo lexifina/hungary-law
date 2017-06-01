@@ -1,4 +1,4 @@
-## 38. §[^13]
+## 38. §[^17]
 
 1. melléklet a 322/2015. (X. 30.) Korm. rendelethez
 
@@ -92,4 +92,4 @@
 
 2.4. A 10. § (1) bekezdése szerinti árazott költségvetés alapján készített árazatlan költségvetési kiírás.
 
-[^13]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

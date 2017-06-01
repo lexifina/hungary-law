@@ -12,9 +12,9 @@ c) speciális területi adottságok (örökségvédelmi, vízminőség-védelmi,
 
 d) az innovatív megoldások alkalmazása, vagy
 
-e)[^7]
+e)[^8]
 
-(3)[^8] A legjobb ár-érték arány, valamint a minőség alapú kiválasztás szempontjának érvényre juttatása érdekében az ajánlati ár az értékelés során legfeljebb 70%-os arányban vehető figyelembe, kivéve nukleáris létesítményekre vonatkozó építési beruházások esetén, mely eljárások során ez az arány magasabb is lehet.
+(3)[^9] Kivitelezésre vagy kivitelezésre és az ahhoz kapcsolódó tervezésre együtt irányuló építési beruházás esetén a legjobb ár-érték arány, valamint a minőségalapú kiválasztás szempontjának érvényre juttatása érdekében az ajánlati ár az értékelés során legfeljebb 70%-os arányban vehető figyelembe, kivéve nukleáris létesítményekre vonatkozó építési beruházások esetén, mely eljárások során ez az arány magasabb is lehet.
 
-[^7]: A 24. § (2) bekezdés e) pontját a 487/2016. (XII. 28.) Korm. rendelet 8. § (9) bekezdése hatályon kívül helyezte.
-[^8]: A 24. § (3) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^8]: A 24. § (2) bekezdés e) pontját a 487/2016. (XII. 28.) Korm. rendelet 8. § (9) bekezdése hatályon kívül helyezte.
+[^9]: A 24. § (3) bekezdése a 115/2017. (V. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
