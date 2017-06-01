@@ -70,7 +70,17 @@ b) a polgár annak rögzítését visszautasította, vagy annak adására fizika
 
 (10) A tároló elem a polgár arcképmását, aláírását és ujjnyomatát képi formátumban tárolja.
 
-(11) Az ideiglenes személyazonosító igazolvány a (2) bekezdés szerinti adatokat és a kiadásának okát tartalmazza.
+(11) Az ideiglenes személyazonosító igazolvány tartalmazza
+
+a) a (2) bekezdés a)–l) pontja szerinti adatokat,
+
+b) magyar állampolgár esetén a (3) bekezdés szerinti gépi olvasásra alkalmas adatsort,
+
+c) külföldi állampolgárságú vagy hontalan polgár esetén annak tényét, hogy az ideiglenes személyazonosító igazolvány külföldre történő utazásra nem jogosít,
+
+d) a (6) bekezdés szerinti adattároló kódot, valamint
+
+e) a kiadásának okát.
 
 (12) A polgár a személyazonosságát a személyazonosító igazolványon túl az érvényes útlevéllel vagy kártyaformátumú vezetői engedéllyel igazolhatja. Személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
 
