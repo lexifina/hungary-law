@@ -1,0 +1,3 @@
+## „(2a) Kivételesen indokolt esetben az ajánlatkérő a (2) bekezdésben foglalt mértéknél nagyobb arányú opcionális részt is meghatározhat. Az indoklást az ajánlatkérő az eljárás előkészítése során köteles írásban dokumentálni.
+
+## (2b) Az ajánlatkérő a Kbt. 65. § (1) bekezdése szerinti alkalmassági követelmények meghatározásakor a Kbt. 65. § (5) bekezdésében foglaltak alkalmazása során akkor is csak legfeljebb az adott közbeszerzés alapmennyiségéhez vagy – a Kbt. 19. § (3) bekezdésének alkalmazása nélkül számított – értékéhez képest harminc százalékos opcionális részt tartalmazó mértéket vehet alapul, ha az opcionális rész mértékét ennél nagyobb arányban határozta meg.”

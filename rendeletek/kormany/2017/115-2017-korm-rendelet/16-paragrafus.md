@@ -1,0 +1,3 @@
+## 15. § A 16/2012. (II. 16.) Korm. rendelet a következő 9/A. §-sal egészül ki:
+
+## „9/A. § A Kbt. 19. § (3) bekezdésére figyelemmel a becsült érték meghatározása során az azonos vagy hasonló felhasználásra szánt áru megítélésének alapjául gyógyszerek esetében az ATC 5 szintű hétjegyű kódot (hatóanyag) kell figyelembe venni. Nem minősül azonos vagy hasonló felhasználásra szánt árunak az ajánlatkérő az intézeti gyógyszertár útján a fekvőbeteg ellátást végző intézmény gyógyszerellátására szánt, valamint az intézeti gyógyszertár szakfeladatként közvetlen lakossági gyógyszerellátást biztosító egysége számára történő gyógyszerbeszerzése.”

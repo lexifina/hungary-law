@@ -1,0 +1,3 @@
+## 6. § A 321/2015. (X. 30.) Korm. rendelet 47. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Minden olyan beszerzési tárgy esetében, amelyet természetes személyek – akár a nyilvános felhasználásra, akár az ajánlatkérő szerv alkalmazottai – általi felhasználásra szánnak, az indokolt esetektől eltekintve a műszaki leírást úgy kell meghatározni, hogy az figyelembe vegye a fogyatékossággal élő személyek számára való hozzáférhetőség és a valamennyi felhasználó számára alkalmas kialakítás, illetve a 2007. évi XCII. törvénnyel kihirdetett, a Fogyatékossággal élő személyek jogairól szóló egyezmény második cikke szerinti egyetemes tervezés elveinek szempontjait.”
