@@ -32,6 +32,8 @@
 
 ## Határidő: 2018. január 30.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1025/2014. (I. 30.) Korm. határozat 2. pontjában a „2017. június 30.” szövegrész helyébe a „2018. március 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1276/2017. (V. 31.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
