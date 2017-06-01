@@ -538,4 +538,4 @@ ATC Gyógyszerek anatómiai, terápiás, illetve kémiai osztályozása
 
 BNO Betegségek nemzetközi osztályozása
 
-[^12]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 9/2017. (V. 31.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.

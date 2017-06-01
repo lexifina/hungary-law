@@ -168,7 +168,13 @@
 
 4.3.2. A stroncium ranelát használata alternatív lehetőségként jön szóba. Az oszteoporotikus csonttörés primer prevenciójában, társadalombiztosítási támogatással alkalmazható azoknál a posztmenopauzás nő vagy 55 év feletti férfi betegeknél, akiknek az oszteoporózisa igazolt (BMD értéke -2,5 SD T-score alatti), és FRAX alapján számított 10 éves törési kockázata magas (általános>20%, illetve csípő>3%), amennyiben a biszfoszfonát kezelés ellenjavallt, vagy azzal szemben dokumentált intolerancia lép fel, vagy a biszfoszfonát legalább 12 hónapon át történő alkalmazása nem volt eredményes (a BMD értéke a kiindulási értékhez képest legkevesebb 5%-kal csökkent, illetve oszteoporotikus csonttörés történt).
 
-4.4. A denoszumab, raloxifen és teriparatid oszteoporotikus csonttörés primer prevenciójában való alkalmazását a társadalombiztosítás nem támogatja.
+4.4. Denoszumab
+
+4.4.1. A denoszumab monoklonális RANKL ellen ható antitest, a csontreszorpciót a RANK ligand gátlás útján célzottan csökkenti, hat a csontlebontás folyamatára, jelentősen növeli a csontdenzitást, és csökkenti mind a vertebrális, mind a nem-vertebrális csonttörések kockázatát. A denoszumab a csont trabekuláris és kortikális állományát is erősíti. A denoszumab terpápiás költsége miatt a finanszírozási rendben jelenleg a stroncium raneláttal esik egy kategóriába.
+
+4.4.2. A denoszumab használata alternatív lehetőségként jön szóba. Az oszteoporotikus csonttörés primer prevenciójában, társadalombiztosítási támogatással alkalmazható azoknál a posztmenopauzás nő vagy 55 év feletti férfi betegeknél, akiknek az oszteoporózisa igazolt (BMD értéke –2,5 SD T-score alatti), és FRAX alapján számított 10 éves törési kockázata magas (általános >20%, illetve csípő >3%), ha a biszfoszfonát kezelés ellenjavallt vagy azzal szemben dokumentált intolerancia lép fel, vagy a biszfoszfonát legalább 12 hónapon át történő alkalmazása nem volt eredményes (a BMD értéke a kiindulási értékhez képest legkevesebb 5%-kal csökkent, illetve oszteoporotikus csonttörés történt).
+
+4.4.3. A raloxifen és teriparatid oszteoporotikus csonttörés primer prevenciójában való alkalmazását a társadalombiztosítás nem támogatja.
 
 4.5. Gyógyszer intolerancia meghatározása
 
@@ -344,6 +350,8 @@ A finanszírozó informatikai úton, folyamatba épített ellenőrzésként vizs
 
 | 14 | M05BX03 | Stroncium ranelát |
 
+| 15 | M05BX04 | Denoszumab |
+
 8. Fogalmak, rövidítések
 
 ATC Anatomical Therapeutic Chemical klasszifikáció
@@ -354,4 +362,4 @@ HBCS Homogén betegségcsoport
 
 OENO Orvosi eljárások nemzetközi osztályozása
 
-[^23]: A 15. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (13) bekezdésével megállapított, a 15/2016. (VII. 15.) EMMI rendelet 4. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 75. § a) pontja szerint módosított szöveg.
+[^23]: A 15. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (13) bekezdésével megállapított, a 15/2016. (VII. 15.) EMMI rendelet 4. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 75. § a) pontja, a 9/2017. (V. 31.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.
