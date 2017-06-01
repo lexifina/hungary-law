@@ -24,19 +24,17 @@ i)[^9] befogadott gyógyszer: olyan forgalomba hozatalra engedélyezett gyógysz
 
 j) egészségügyi technológia: az egészségügyi ellátásban használatos gyógyszer, orvostechnikai eszköz, diagnosztikus, terápiás, rehabilitációs eljárás, eljárássorozat, megelőzési, egészség-fejlesztési tevékenység;
 
-k)[^10] egészségügyi technológiaértékelés: az egészségügyi technológiákat eredményesség, hatékonyság, költséghatékonyság, gazdasági és társadalmi következmények szempontjából értékelő eljárások összessége;1
+k)[^10] egészségügyi technológiaértékelés: az egészségügyi technológiákat eredményesség, hatékonyság, költséghatékonyság, gazdasági és társadalmi következmények szempontjából értékelő eljárások összessége;
 
-l)[^11] formai értékelés: a kérelmezőtől beérkezett kérelem formai ellenőrzése, értékelése, melyet valamennyi gyógyszer befogadási kérelem esetén el kell végezni;
+l)[^11] formai és tartalmi ellenőrzés: a kérelmezőtől beérkezett kérelem formai és tartalmi ellenőrzése, értékelése, melyet valamennyi gyógyszer befogadási kérelem esetén el kell végezni;
 
 m) gyors értékelés: az egyszerűsített eljárásrendbe sorolt kérelmek tartalmi ellenőrzése, értékelése;
 
-n) kritikai technológia-értékelés: a normál eljárásrendbe sorolt kérelmekhez benyújtott technológia-értékelés anyagának tartalmi ellenőrzése, értékelése;
-
-o)[^12] részletes technológiaértékelés: a 22. § (2) bekezdése szerinti kategóriába tartozó kérelmek esetén, a kérelemhez benyújtott technológiaértékelés az n) pont szerinti ellenőrzés után, szükség esetén az OGYÉI által végzett további technológiaértékelés, mellyel igazolni lehet a technológia megfelelőségét;
+n)–o)[^12]
 
 p) egészség-gazdaságtani elemzés: a meghatározott alternatívák költségeinek és következményeinek a megjelölése, mérése, értékelése és összehasonlítása[^13];
 
-q)[^14] összehasonlító elemzés: a hasonló hatású, felhasználású és már támogatott készítményekkel való összevetés, figyelemmel az egészségnyereségre és a gazdasági előnyökre;
+q)[^14]
 
 r)[^15] kiszerelés: az OGYÉI, illetve a Bizottság által forgalomba hozatalra engedélyezett, egy nyilvántartási számmal meghatározott csomagolási egység;
 
@@ -70,7 +68,7 @@ y)[^23] referencia érték: a referencia árhoz vagy referencia készítmény á
 
 z)[^24] különkeretes gyógyszer: a Gyftv. 3. § 3. pontja szerinti gyógyszer;
 
-zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlítja az azonos célú gyógyszerek vagy egészségügyi programok eredményességét és költségeit. Az eredményességet ún. természetes egységekben méri.
+zs)[^25]
 
 [^2]: A 2. § a) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § c) pontja a 7/2014. (I. 29.) EMMI rendelet 1. §-ával megállapított szöveg.
@@ -80,11 +78,11 @@ zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlít
 [^7]: A 2. § g) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § h) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 2. § i) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^10]: A 2. § k) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
-[^11]: A 2. § l) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
-[^12]: A 2. § o) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított, a 10/2015. (II. 23.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § k) pontja a 9/2017. (V. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^11]: A 2. § l) pontja a 9/2017. (V. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^12]: A 2. § n)–o) pontját a 9/2017. (V. 31.) EMMI rendelet 5. §-a hatályon kívül helyezte.
 [^13]: (2002 Egészségügyi Közlöny, LII. évfolyam 11. szám 1314–1334. oldal).
-[^14]: A 2. § q) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
+[^14]: A 2. § q) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2017. (V. 31.) EMMI rendelet 5. §-a.
 [^15]: A 2. § r) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, szövege az 53/2006. (XII. 28.) EüM rendelet 1. § (3) bekezdésével megállapított, a 10/2015. (II. 23.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
 [^16]: A 2. § s) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^17]: A 2. § t) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
@@ -95,4 +93,4 @@ zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlít
 [^22]: A 2. § x) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^23]: A 2. § y) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^24]: A 2. § z) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, szövege az 53/2006. (XII. 28.) EüM rendelet 1. § (4) bekezdésével megállapított, a 30/2010. (XII. 30.) NEFMI rendelet 10. § c) pontja szerint módosított szöveg.
-[^25]: A 2. § zs) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
+[^25]: A 2. § zs) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2017. (V. 31.) EMMI rendelet 5. §-a.
