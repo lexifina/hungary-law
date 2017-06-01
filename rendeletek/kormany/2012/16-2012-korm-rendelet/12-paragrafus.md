@@ -1,1 +1,3 @@
-## 11. § A közbeszerzési eljárást az ajánlatkérő nem köteles fedezethiány miatt eredménytelenné nyilvánítani, ha a közbeszerzés egyes részeire tett nyertes ajánlatok ellenértéke meghaladja az adott részre vonatkozó fedezetet, azonban az egyes nyertes részajánlatok ellenértékének összege nem haladja meg a teljes közbeszerzési eljárás fedezetét.
+## 11. §[^15]
+
+[^15]: A 11. §-t a 115/2017. (V. 19.) Korm. rendelet 17. §-a hatályon kívül helyezte.
