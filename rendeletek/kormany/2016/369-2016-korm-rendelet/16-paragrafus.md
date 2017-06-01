@@ -1,3 +1,3 @@
-## 15. §[^8]
+## 15. § Az R. 4. alcíme a következő 8/D. §-sal egészül ki:
 
-[^8]: A 15. § a 24. § (3) bekezdése alapján 2017. június 1-jén lép hatályba.
+## „8/D. § Ha a 8/B. § (1) bekezdése szerinti kötelezésnek a kötelezett közművezeték-üzemeltető határidőben nem tesz eleget, a felügyeleti hatóság jogszabályban meghatározott bírságot szabhat ki.”
