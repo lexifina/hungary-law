@@ -1,0 +1,3 @@
+5. § Az Eht. 94. § (4c) bekezdése helyébe a következő rendelkezés lép:
+
+„(4c) Ha az elektronikus hírközlési építmény elhelyezése vasúti pálya, folyóvíz vagy csatorna területét érinti, a vasúti pálya, folyóvíz, csatorna vagyonkezelője, ennek hiányában tulajdonosa köteles – ha jogszabály ennél rövidebb határidőt nem állapít meg – az elektronikus hírközlési szolgáltató megkeresését követő 45 napon belül megállapodást kötni. Ha a vagyonkezelő, ennek hiányában a tulajdonos a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a vagyonkezelő vagy a tulajdonos a kérelemben foglaltak szerinti feltételekkel köteles tűrni az elhelyezést.”
