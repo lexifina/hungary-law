@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-221-00-00
 | 2015-09-01 | 2015. évi CV. törvény | 2013-221-00-00.3 |
 | 2016-07-01 | 2016. évi XXXII. törvény | 2013-221-00-00.4 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2013-221-00-00.5 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 2013-221-00-00.6 |
