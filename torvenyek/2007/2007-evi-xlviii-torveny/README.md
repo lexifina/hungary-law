@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-48-00-00
 | 2014-03-15 | 2014. évi XVI. törvény | 2007-48-00-00.6 |
 | 2015-12-12 | 2015. évi CXCII. törvény | 2007-48-00-00.7 |
 | 2017-01-01 | 2016. évi CXXV. törvény | 2007-48-00-00.8 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 2007-48-00-00.9 |
