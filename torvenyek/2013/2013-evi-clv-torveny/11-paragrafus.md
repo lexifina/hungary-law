@@ -32,4 +32,6 @@ b) az adat megismerésére és kezelésére törvényi rendelkezés alapján jog
 
 (7) A nyilvántartásban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
+(7a) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók.
+
 (8) A nyilvántartás adatait a gyámhatóság a támogatott döntéshozatal megszűnésétől számított öt évig kezeli, majd haladéktalanul gondoskodik azok törléséről.
