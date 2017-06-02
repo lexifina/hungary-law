@@ -4,7 +4,7 @@
 
 a) a bíróságok és az Országos Bírósági Hivatal elnöke a bírósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából,
 
-b) a Központi Statisztikai Hivatal statisztikai célú felhasználásra a személyek azonosítására alkalmatlan módon,
+b) a Központi Statisztikai Hivatal statisztikai célú felhasználásra a személyazonosításra alkalmas módon, térítésmentesen a statisztikai feladataihoz szükséges egyedi adatokat lekérdezze,
 
 c) a nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv és az ügyészség a törvényben meghatározott feladatuk ellátásához szükséges egyedi adatok lekérdezése céljából,
 
