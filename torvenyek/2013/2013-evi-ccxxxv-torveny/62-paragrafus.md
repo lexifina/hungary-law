@@ -32,4 +32,6 @@ o) a Magyar Nemzeti Bank által alapvető feladatai ellátása érdekében a jeg
 
 p) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzforgalmi szolgáltatók részére történő adattovábbítás, valamint
 
-q) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás.
+q) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás,
+
+r) a Központi Statisztikai Hivatal részére hivatalos statisztikai célból a hivatalos statisztikáról szóló 2016. évi CLV. törvény 2. § 5. és 10. pont szerinti, közvetlen azonosítóktól megfosztott, egyedi adatok átadása.

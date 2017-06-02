@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-235-00-00
 | 2016-09-18 | 2016. évi LIII. törvény | 2013-235-00-00.9 |
 | 2016-12-28 | 2016. évi CLXXXII. törvény | 2013-235-00-00.10 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 2013-235-00-00.11 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 2013-235-00-00.12 |
