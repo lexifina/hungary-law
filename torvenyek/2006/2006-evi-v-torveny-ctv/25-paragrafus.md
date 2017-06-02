@@ -12,7 +12,7 @@ e) a cég elektronikus elérhetőségét (honlap, e-mail), és a cég erre vonat
 
 f) meghatározott időtartamra alapított cég esetén a meghatározott idő lejártának napját,
 
-g) a jogelőd(ök), illetve a jogutód(ok) cégnevét és cégjegyzék számát, illetve a cég erre vonatkozó döntése esetén az átalakulásnak a cég által meghatározott időpontját,
+g) a jogelőd, jogelődök, illetve a jogutód, jogutódok cégnevét, székhelyét és cégjegyzék számát, külföldi cég esetén továbbá a székhelye szerinti országkódját, illetve a cég erre vonatkozó döntése esetén az átalakulásnak a cég által meghatározott időpontját,
 
 h) a könyvvizsgáló nevét (cégét) és lakóhelyét (székhelyét), e jogviszonya keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját; könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében is felelős,
 

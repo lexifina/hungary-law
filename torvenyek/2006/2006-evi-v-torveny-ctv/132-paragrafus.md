@@ -28,4 +28,6 @@ b) a Tanács 2157/2001/EK rendelete (2001. október 8.) az európai részvényt�
 
 c) A Tanács 1435/2003/EK rendelete (2003. július 22.) az európai szövetkezet (SCE) statútumáról;
 
-d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról.
+d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról;
+
+e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
