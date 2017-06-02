@@ -45,3 +45,5 @@ b) a bíróság, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szol
 igényelhetnek adatot.
 
 (7) Az (1) bekezdés szerinti nyilvántartás naprakésszé tétele céljából az állami horgászjegyet forgalmazók a forgalmazott jegyek adatairól, továbbá a fogási napló leadásáról közvetlen informatikai kapcsolat útján adatot szolgáltatnak a halgazdálkodási hatóságnak.
+
+(8) Az (1) bekezdés szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.

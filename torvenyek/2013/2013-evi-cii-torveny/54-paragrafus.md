@@ -51,3 +51,5 @@ c) a halgazdálkodásra jogosult a gazdálkodása alatt lévő vízterületre vo
 (8) A miniszter az Adattár adatainak értékelése alapján évenként tájékoztatót tesz közzé a természetes vízi halgazdálkodás helyzetéről.
 
 (9) Az Adattárból való egyes adatszolgáltatásokért miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+(10) Az Adattárban kezelt adatokat a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók.
