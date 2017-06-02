@@ -20,6 +20,8 @@ b) a tárolt adatokat töröljék, ha azok oka e törvény rendelkezése szerint
 
 (4) E törvény felhatalmazása alapján az adatkezelésre jogosult szerv a kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
 
+(4a) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (5) A hatáskört gyakorló szerv
 
 a) a gyermekvédelmi és gyámügyi igazgatási eljárás során az eljárása alá vont ügyfélre ismert természetes személyazonosító adatainak közlésével, az ügyfélre vonatkozó a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. §-a (1) bekezdésének a)–e), g)–h), k) és m) pontja szerinti adatai tekintetében egyedi adatszolgáltatást kérhet a jogosultság megállapításához, illetve a hatósági intézkedések megtételéhez a polgárok személyi adatait és lakcímét nyilvántartó szervtől, amely adatokat a hatáskört gyakorló szerv az eljárása jogerős befejezéséig kezelhet azzal, hogy az átvett adatokat a hatáskört gyakorló szerv nem továbbíthatja,

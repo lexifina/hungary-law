@@ -47,3 +47,5 @@ b) akivel szemben tevékenységének ellátása során törvényben meghatározo
 c)
 
 (6) A nyilvántartásból adatok a nyilvántartásba vett személy, a gyámhatóság, továbbá tudományos, statisztikai feldolgozást végzők részére – az adatvédelmi jogszabályok megtartásával – továbbíthatók.
+
+(7) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
