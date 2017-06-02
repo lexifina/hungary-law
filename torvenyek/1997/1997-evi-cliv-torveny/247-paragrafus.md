@@ -313,9 +313,3 @@ h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel eg
 rendeletben állapítsa meg.
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
-
-b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
-
-c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;

@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2016-11-05 | 2016. évi CXIII. törvény | 1997-154-00-00.79 |
 | 2016-12-20 | 2016. évi CLXXII. törvény | 1997-154-00-00.80 |
 | 2017-01-01 | 2016. évi CLXXII. törvény | 1997-154-00-00.81 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 1997-154-00-00.82 |
