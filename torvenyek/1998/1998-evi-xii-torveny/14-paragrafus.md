@@ -1,6 +1,6 @@
 14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetőjének javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
-a) a központi államigazgatási szerveknél, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál foglalkoztatottak;
+a) a központi államigazgatási szerveknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
 
 b) a bírák és az ügyészek;
 

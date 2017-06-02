@@ -14,7 +14,9 @@ d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésér
 
 (2b) Ha a kérelmező a saját, az útlevélhatóság által nyilvántartott adatáról hatósági bizonyítvány kiállítását kéri, e törvénynek az adatszolgáltatásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a hatósági bizonyítvány kiállítását a kérelmező bármely, az útlevélhatóság által nyilvántartott adatáról kérheti.
 
-(3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra, személyazonosító adat nélkül adatot szolgáltathat.
+(3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra – a (3a) bekezdésben foglalt kivétellel – személyazonosító adat nélkül adatot szolgáltathat.
+
+(3a) Az útlevélhatóság, valamint a központi adatkezelő szerv az általa nyilvántartott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (4) Az e törvény alapján kezelt személyes adatok külföldi adatkezelő részére – ideértve a nemzetközi szervezeteket is – nemzetközi szerződés alapján továbbíthatók, feltéve, ha az adatkezelés feltételei a külföldi adatkezelőnél minden egyes adatra nézve azonosan teljesülnek.
 
