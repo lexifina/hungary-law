@@ -22,7 +22,7 @@ f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tarto
 
 g) pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben szabályozott szolgáltatási díjakra;
 
-h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjára;
+h) a távhőszolgáltatásról szóló törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
 
 i) a víziközmű-szolgáltatásról szóló törvény alapján meghatározott díjakra.
 
