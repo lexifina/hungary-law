@@ -28,4 +28,6 @@ e) az új vasúti személyszállítási szolgáltatásokról szóló, 2014. augu
 
 f) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról szóló 2008/57/EK európai parlamenti és tanácsi irányelv 27. cikkének (4) bekezdésében említett referenciadokumentum közzétételéről és kezeléséről szóló, 2011. március 9-i 2011/155/EU bizottsági határozat;
 
-g) a 2007/59/EK európai parlamenti és tanácsi irányelvvel összhangban a mozdonyvezetők képzésében részt vevő képzési központok elismerésére, a mozdonyvezetők vizsgáztatóinak elismerésére és a vizsgák szervezésére vonatkozó feltételekről szóló, 2011. november 22-i 2011/765/EU határozat.
+g) a 2007/59/EK európai parlamenti és tanácsi irányelvvel összhangban a mozdonyvezetők képzésében részt vevő képzési központok elismerésére, a mozdonyvezetők vizsgáztatóinak elismerésére és a vizsgák szervezésére vonatkozó feltételekről szóló, 2011. november 22-i 2011/765/EU határozat;
+
+h) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
