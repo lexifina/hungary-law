@@ -20,6 +20,8 @@ e) elektronikus ügyintézés, kapcsolattartás esetén az elektronikus levélc�
 
 (5) Az erdészeti hatóság a (3) bekezdésben meghatározott jogosultak (3) bekezdés a) és b) pontja szerinti, a tulajdoni lapon szereplő személyes adatait – az ingatlan-nyilvántartásról szóló jogszabályokban meghatározott formában és módon – jogosult az ingatlanügyi hatóságtól átvenni.
 
+(5a) Az erdészeti hatóság által vezetett közhiteles hatósági nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (6) Az erdészeti hatóság jogosult
 
 a) a személyiadat- és lakcímnyilvántartásból a nyilvántartott természetes személy erdőgazdálkodó természetes személyazonosító adataira, lakcímére, külföldön történő letelepedésére, elhalálozására;
