@@ -21,3 +21,5 @@ h) nyilvántartást vezet a tulajdonosi közösség képviselőjéről.
 a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakóhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
 
 b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
+
+(3) A (2) bekezdés szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
