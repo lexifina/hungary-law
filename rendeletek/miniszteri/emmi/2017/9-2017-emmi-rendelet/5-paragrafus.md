@@ -1,1 +1,0 @@
-## 4. § Az R1. 3. számú melléklet EÜ70 24. pontjában a „Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház” szövegrész helyébe a „Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház” szöveg lép.
