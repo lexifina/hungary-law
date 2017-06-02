@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2016-12-20 | 2016. évi CLXXII. törvény | 1997-83-00-00.75 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1997-83-00-00.76 |
 | 2017-02-01 | 2016. évi CLXXII. törvény | 1997-83-00-00.77 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 1997-83-00-00.78 |
