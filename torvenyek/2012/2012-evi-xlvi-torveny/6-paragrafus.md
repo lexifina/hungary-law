@@ -66,7 +66,7 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (9) A (8) bekezdés alapján átadott állami alapadatokat a veszélyhelyzet vagy katasztrófaveszély megszűnése után – a megszűnéstől számított 30 napon belül – az adatigénylőnek vissza kell szolgáltatnia az adatszolgáltató részére.
 
-(10) Az Országos Statisztikai Adatgyűjtési Program keretében meghatározott adatokat az adatgyűjtést készítő – hitelesítés nélkül – díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
+(10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó – hitelesítés nélkül – díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
 
 (11) Az adatszolgáltató díjmentesen szolgáltatja a 2. § (2) bekezdésében meghatározott állami alapmunkák végzéséhez szükséges adatokat. Az adatszolgáltatás hálózati szolgáltatón keresztüli adathozzáféréssel is biztosítható.
 
