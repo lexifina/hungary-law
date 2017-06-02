@@ -14,4 +14,6 @@ e) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderíté
 
 f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
 
-g) az állami adóhatóságnak adóellenőrzési célra.
+g) az állami adóhatóságnak adóellenőrzési célra,
+
+h) a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
