@@ -14,4 +14,4 @@ f) Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom, illetve nemzeti szer
 
 g) gazdasági szereplők.
 
-(2) Nemzetközi katasztrófa-segítségkérés esetén a katasztrófák elleni védekezésért felelős miniszter a külpolitikáért felelős miniszterrel együttműködve biztosítja a humanitárius segítségnyújtással való összhang megteremtését.
+(2) Nemzetközi katasztrófa-segítségkérés esetén a katasztrófák elleni védekezésért felelős miniszter a külpolitikáért felelős miniszterrel együttműködve biztosítja a nemzetközi humanitárius segítségnyújtással való összhang megteremtését.

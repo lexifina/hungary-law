@@ -6,4 +6,4 @@
 
 (3) A központi államigazgatási szervek a nemzetközi fejlesztési együttműködési tevékenység végrehajtásába bevonnak olyan gazdasági szereplőket, amelyek fenntartható, környezeti és társadalmi szempontból a nemzetközi normáknak megfelelő gyakorlatot folytatnak, és a nemzetközi fejlesztési hatékonysági elveknek, különösen az átláthatóság elvének megfelelően működnek.
 
-(4) A nemzetközi fejlesztési együttműködési tevékenység pénzügyi és tárgyi támogatás, adomány, felajánlás, valamint technikai segítségnyújtás, illetve a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvényben meghatározott eszközök útján valósul meg.
+(4) A nemzetközi fejlesztési együttműködési tevékenység pénzbeli és tárgyi támogatás, így különösen adományozó levél útján nyújtott adomány, technikai segítségnyújtás, valamint a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvényben meghatározott eszközök útján valósul meg.

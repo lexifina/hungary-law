@@ -1,4 +1,4 @@
-17. § (1) A nemzetközi fejlesztési együttműködéshez és humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
+17. § (1) A nemzetközi fejlesztési együttműködéshez és nemzetközi humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
 
 a) nem kell alkalmazni
 
@@ -8,9 +8,11 @@ ab) az államháztartásról szóló törvény végrehajtásáról szóló 368/2
 
 ac) külföldi kedvezményezett esetén az Áht. 50. § (1) bekezdés a) pontját, valamint 55. és 56. §-át,
 
+ad) az Ávr. 93. § (4) bekezdését.
+
 b) az Ávr. 102/B. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a beszámolót a kedvezményezett bizonylatok helyett könyvvizsgálói jelentéssel is alátámaszthatja.
 
-(2) A humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában – az (1) bekezdésen túl – az Ávr.
+(2) A nemzetközi humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában – az (1) bekezdésen túl – az Ávr.
 
 a) 75. §-át és a 81. § e) pontját az előminősítő rendszerről szóló miniszteri rendelet alapján előminősített civil szervezetek esetében,
 
