@@ -44,6 +44,8 @@ vonatkozó adatokat kezelheti.
 
 (5) Az e törvény felhatalmazása alapján kezelt adatok statisztikai célra felhasználhatók, és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
+(5a) Az e törvény felhatalmazása alapján kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (6) Az egészségügyi adatok kezelésére és az adatok védelmére egyebekben az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény rendelkezései az irányadók.
 
 (7) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás Tbj. 42. § (1) bekezdésében meghatározott adatait
