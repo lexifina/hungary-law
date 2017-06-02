@@ -1,0 +1,1 @@
+14/A. § A 14. § (1) és (3) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartásban foglalt adatokat a nyilvántartást vezető szerv a Központi Statisztikai Hivatal részére az adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal statisztikai célra jogosult kezelni.

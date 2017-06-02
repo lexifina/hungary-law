@@ -11,3 +11,5 @@
 (6) Ha az elektronikus ügyintézés nem kötelező, a természetes személy ügyfélnek az elektronikus ügyintézést teljes körben vagy az érintett eljárási cselekmény vonatkozásában kizáró ügyintézési rendelkezése – törvény eltérő rendelkezése hiányában – az elektronikus nyilatkozatra vonatkozó kézbesítési vélelem beálltát is kizárja.
 
 (7) Jogszabály eltérő rendelkezése hiányában az ügyfél ügyintézési rendelkezését a Kormány által kijelölt szervnél teheti meg.
+
+(8) A Kormány által kijelölt szerv a természetes személy (7) bekezdés szerinti ügyintézési rendelkezése során megadott elérhetőségét a Központi Statisztikai Hivatal részére adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal statisztikai célra jogosult kezelni.
