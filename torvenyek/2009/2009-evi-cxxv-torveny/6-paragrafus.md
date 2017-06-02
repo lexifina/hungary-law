@@ -14,4 +14,6 @@ d) a jelnyelvi tolmács, illetve tolmácsszolgálat megnevezését és elérhet�
 
 (4) Az (1) bekezdés szerinti szervezet a nyilvántartásban szereplő adatokat személyazonosításra alkalmatlan módon statisztikai célra is felhasználhatja, illetve azokból statisztikai célra adatot szolgáltathat.
 
+(4a) A (1) bekezdés szerinti szervezet a nyilvántartásban szereplő adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és a Központi Statisztikai Hivatal azokat statisztikai célra felhasználhatja. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (5) A nyilvántartásban szereplő adatokat az (1) bekezdés szerinti szervezet 5 évig kezeli, ezt követően az adatokat törli a nyilvántartásból. A jelnyelvi tolmácsszolgálat a (2) bekezdésben foglalt adatok kezelésére a térítésmentes jelnyelvi tolmácsszolgáltatás időtartamára jogosult.
