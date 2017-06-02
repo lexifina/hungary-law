@@ -20,4 +20,6 @@ i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósá
 
 j) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához;
 
-k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.
+k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez;
+
+l) A Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvényben meghatározott feladatai ellátásához;
