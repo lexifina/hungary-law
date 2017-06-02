@@ -1,0 +1,1 @@
+2. § Az Ebtv. 2. § (2) bekezdésében az „az e törvényben foglalt kivételekkel” szövegrész helyébe az „az e törvényben, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvényben foglalt kivételekkel” szöveg lép.

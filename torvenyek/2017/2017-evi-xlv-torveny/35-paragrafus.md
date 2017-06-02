@@ -1,0 +1,9 @@
+35. § (1) A Külszoltv. 23. § (2)–(3) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A kihelyezett munkaköri osztályokba, az egyes munkaköri osztályokon belül a munkaköre és – amennyiben az adott munkakörhöz rang kapcsolódik – rangja szerint kerül besorolásra (a továbbiakban: elsődleges munkakör). A munkaköri osztályokon belüli munkaköröket, valamint az azokhoz tartozó rangokat az 1. melléklet tartalmazza. A kihelyezett az elsődleges munkaköre mellett a kihelyező okiratában foglaltak szerint az 1. melléklet szerinti további munkakört, illetve kiegészítő feladatkört láthat el.
+
+(3) Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti adminisztratív vagy technikai munkaköri osztályokba tartozó munkakör tartós, egyidejű ellátása esetén az 1. melléklet szerinti fizetési fokozatokhoz tartozó magasabb szorzót kell alapul venni a kihelyezett devizailletményének megállapítása során. Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti munkakör vagy kiegészítő feladatkör tartós, egyidejű ellátása esetén – a létrejött munkakör összetettségét figyelembe véve – a kihelyező vezető a fizetési fokozathoz, illetve több munkakör egyidejű ellátása esetén a magasabb fizetési fokozathoz tartozó szorzónál 0,1 vagy 0,2 értékkel magasabb szorzót állapíthat meg.”
+
+(2) A Külszoltv. 23. § (8) bekezdése a következő szöveggel lép hatályba:
+
+„(8) Az egyes állomáshelyek tekintetében a következő költségvetési évre vonatkozó deviza-alapilletményt a külpolitikáért felelős miniszter a költségvetési törvény elfogadásától számított 45 napon belül rendeletben határozza meg, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével.”
