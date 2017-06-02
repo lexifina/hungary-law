@@ -66,6 +66,8 @@ u) a bírósági adósságrendezési egyezség hatálya megszűnésének bírós
 
 (6) Az ARE nyilvántartás összesített adatai egyedi azonosításra nem alkalmas módon statisztikai célra, továbbá a hatóságok, bíróságok, minisztériumok számára hatásvizsgálati célból adhatók át.
 
+(6a) Az ARE nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (7) A Családi Csődvédelmi Szolgálat kérelemre, igazgatási szolgáltatási díj megfizetése ellenében tanúsítványt állít ki a belföldi természetes személyek részére arról, hogy
 
 a) a kérelmező természetes személy nem szerepel az ARE nyilvántartásban adósként, vagy
