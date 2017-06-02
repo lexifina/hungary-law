@@ -4,6 +4,8 @@
 
 (2) A komplex szakmai vizsga adatai statisztikai célra felhasználhatók és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon, a szakképzésért és felnőttképzésért felelős miniszter által meghatározott szabályok szerint átadhatók.
 
+(2a) A komplex szakmai vizsga adatait a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (3) A 46. § (1a) bekezdésében meghatározott igazolás kiállítása, valamint a tanulószerződés megkötésének elősegítése céljából a szakképző iskola minden évben legkésőbb március utolsó munkanapjáig továbbítja a tanulóira vonatkozóan az illetékes gazdasági kamara részére
 
 a) a 48. § (1) bekezdés b), c) és d) pontjában meghatározott adatokat,
