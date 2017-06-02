@@ -7,5 +7,3 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 2. az Amerika-közi Befektetési Társaság,
 
 3. az Amerika-közi Fejlesztési Bank,
-
-4. az Ázsiai Fejlesztési Bank,

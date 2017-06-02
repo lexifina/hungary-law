@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2016-07-03 | 2016. évi LIII. törvény | 2001-120-00-00.63 |
 | 2016-09-18 | 2016. évi LIII. törvény | 2001-120-00-00.64 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2001-120-00-00.65 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 2001-120-00-00.66 |
