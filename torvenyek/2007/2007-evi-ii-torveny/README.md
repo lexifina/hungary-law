@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2017-01-01 | 2016. évi CXXI. törvény | 2007-2-00-00.45 |
 | 2017-03-28 | 2017. évi XX. törvény | 2007-2-00-00.46 |
 | 2017-05-05 | 2017. évi XXXIII. törvény | 2007-2-00-00.47 |
+| 2017-06-02 | 2017. évi XLV. törvény | 2007-2-00-00.48 |

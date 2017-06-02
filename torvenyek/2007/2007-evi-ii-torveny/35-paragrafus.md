@@ -37,3 +37,5 @@ a) az elsőfokú eljárásban harminc,
 b) a másodfokú eljárásban húsz
 
 napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.
+
+(8) A Magyarországon működő diplomáciai és a hivatásos konzuli tisztviselő által vezetett konzuli képviseletek, a nemzetközi szervezetek, illetve azok magyarországi kirendeltsége, telephelye, irodája, továbbá a kiváltságokkal és mentességekkel törvény alapján rendelkező szervezetek tagjai és családtagjaik részére kibocsátott tartózkodási engedélyek alapján Magyarországon töltött idő az (1) bekezdés a) pontjában meghatározott időbe nem számít bele.
