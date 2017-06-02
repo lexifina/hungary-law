@@ -1,3 +1,0 @@
-## 9. § Az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban 322/2015. (X. 30.) Korm. rendelet] 24. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Kivitelezésre vagy kivitelezésre és az ahhoz kapcsolódó tervezésre együtt irányuló építési beruházás esetén a legjobb ár-érték arány, valamint a minőségalapú kiválasztás szempontjának érvényre juttatása érdekében az ajánlati ár az értékelés során legfeljebb 70%-os arányban vehető figyelembe, kivéve nukleáris létesítményekre vonatkozó építési beruházások esetén, mely eljárások során ez az arány magasabb is lehet.”
