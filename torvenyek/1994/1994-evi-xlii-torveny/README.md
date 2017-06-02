@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-42-00-00
 | 2015-07-01 | 2014. évi XC. törvény | 1994-42-00-00.42 |
 | 2016-01-01 | 2014. évi LXXXVIII. törvény | 1994-42-00-00.43 |
 | 2016-05-01 | 2016. évi XIII. törvény | 1994-42-00-00.44 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 1994-42-00-00.45 |
