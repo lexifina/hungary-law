@@ -4,10 +4,8 @@
 
 ## Határidő: azonnal
 
-## 2. felhívja a nemzeti fejlesztési minisztert, hogy nyújtsa be a „62. sz. főút fejlesztése az M8 (új Duna híd) és Székesfehérvár közötti szakaszon” című nagyprojektet jóváhagyó C(2014)5795 számú európai bizottsági határozat 2. melléklet szerinti – a projekt műszaki-szakmai tartalmának az „M8 Duna híd” című retrospektív nagyprojekttel történő kibővítése iránti – módosítására irányuló kérelmet az Európai Bizottsághoz.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2015. november 30.
+## 2.[^2]
 
 1. melléklet az 1772/2015. (X. 19.) Korm. határozathoz
+
+[^2]: A 2. pontot az 1285/2017. (VI. 2.) Korm. határozat 3. pontja visszavonta.
