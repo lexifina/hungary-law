@@ -12,4 +12,6 @@
 
 (5) Az egészségbiztosítási szerv által finanszírozási célból gyűjtött adatok személyazonosításra alkalmatlan módon a (4) bekezdés szerinti célból is kezelhetők és az ott meghatározott módon továbbíthatók.
 
+(5a) Az egészségbiztosítási szerv által finanszírozási célból gyűjtött adatokat egyedi azonosításra alkalmas módon a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (6) Az egészségügyi ellátóhálózat a statisztikáról szóló törvényben meghatározott adatgyűjtéssel kapcsolatos feladatai teljesítése céljából kezeli a népmozgalmi adatszolgáltatás körébe tartozó adatokat.
