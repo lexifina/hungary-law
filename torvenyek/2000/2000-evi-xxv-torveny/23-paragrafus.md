@@ -10,6 +10,8 @@
 
 (3) Az egészségügyi államigazgatási szerv a veszélyes anyagokra, illetve a veszélyes keverékekre vonatkozó, általa nyilvántartott adatokról – a közérdekű adatok nyilvánosságára vonatkozó törvényi előírások szerint – megkeresésre felvilágosítást ad. Az egészségügyi államigazgatási szerv biztosítja az ezen adatokhoz történő folyamatos – napi 24 órás hozzáférés lehetőségét.
 
+(3a) Az (1) bekezdés szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (4) Az egészségügyi államigazgatási szerv az (1) bekezdésben meghatározott adatokon kívül megkeresésre felvilágosítást ad az ELINCS és az EINECS, valamint az Európai Közösség (EU) e törvény alkalmazásával összefüggő irányelveinek tartalmáról.
 
 (5) Az egészségügyi államigazgatási szerv ellátja a CLP 45. cikke szerinti feladatokat.

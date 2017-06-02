@@ -10,4 +10,6 @@
 
 (4) Az egészségügyi államigazgatási szerv az egészségügyi kártevőirtó tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet, amely – ha az engedélyes egyéni vállalkozó – tartalmazza az engedélyes természetes személyazonosító adatait, továbbá a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag az e tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(4a) A nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadhatók, és a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók.
+
 (5) Az (1)–(3) bekezdés alkalmazásában egészségügyi kártevőirtó tevékenységnek minősül a külön jogszabályban meghatározott olyan tevékenység, amely egészségügyi kártevők irtására vagy külön jogszabályban meghatározott növényvédelmi célú kártevőirtásra irányul, és a külön jogszabály szerinti szakképesítéssel végezhető.
