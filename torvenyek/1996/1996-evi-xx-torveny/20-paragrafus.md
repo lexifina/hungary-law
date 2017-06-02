@@ -34,4 +34,6 @@ m) az élelmiszerlánc-felügyeleti szerv az élelmiszerláncról és hatósági
 
 n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési korlátozások hatósági ellenőrzésével, továbbá a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba vételével kapcsolatos eljárással összefüggésben;
 
-o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben.
+o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
+
+p) a Központi Statisztikai Hivatal statisztikai célra.

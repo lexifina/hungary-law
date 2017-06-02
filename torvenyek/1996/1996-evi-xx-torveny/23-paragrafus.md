@@ -30,4 +30,6 @@ l) az Eüak. 35/H. §-a szerinti elektronikus önrendelkezési nyilvántartást 
 
 m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából,
 
-n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során.
+n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során;
+
+o) a Központi Statisztikai Hivatal statisztikai célra.
