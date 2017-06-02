@@ -20,6 +20,8 @@ b) konzul vagy
 
 c) főkonzul
 
-hivatásos konzuli rangot adományozhat.
+hivatásos konzuli rangot adományozhat a tartós külszolgálat időtartamára.
 
-(4) A kihelyezett e törvény szerinti díjazásának megállapítása során diplomáciai rangját kell figyelembe venni.
+(4) A kihelyezett e törvény szerinti díjazásának megállapítása során az 1. melléklet szerinti munkakörét, illetve amennyiben ahhoz rang is kapcsolódik, a kihelyezett diplomáciai rangját kell figyelembe venni.
+
+(5) A (4) bekezdést azzal a megkötéssel kell alkalmazni, hogy amennyiben a kihelyezett az 1. melléklet szerinti munkaköréhez rendelt rangnál magasabb diplomáciai ranggal rendelkezik, csak az 1. mellékletben az adott munkakörhöz kapcsolódó legmagasabb rangot lehet a díjazás megállapításánál a külszolgálata idejére vonatkozóan figyelembe venni.

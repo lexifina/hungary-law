@@ -6,10 +6,10 @@ a) felsőfokú iskolai végzettség,
 
 b) miniszteri rendeletben szabályozott külügyi szakmai vizsga legalább „megfelelt” eredménnyel történő letétele,
 
-c) egy felsőfokú általános, „C” típusú és egy középfokú általános „C” típusú állami – vagy jogszabály alapján azzal egyenértékű – nyelvvizsga, amelyekből az egyik minden esetben angol nyelvből szükséges.
+c) legalább egy állami – vagy jogszabály alapján azzal egyenértékű – felsőfokú (C1) nyelvvizsga és további legalább egy állami – vagy jogszabály alapján azzal egyenértékű – középfokú (B2) nyelvvizsga, amelyek közül az egyik minden esetben angol nyelvből szükséges.
 
 (3) Az első diplomáciai vagy konzuli rangot – ide nem értve a 13. § (1) bekezdésében meghatározottakat – a külpolitikáért felelős miniszter adományozza az (2) bekezdésben meghatározott feltételeknek megfelelő kormánytisztviselőnek.
 
-(4) A kihelyező szerv vezetője – kivételesen indokolt esetben, hivatali érdekből – a (2) bekezdésben meghatározott feltételek hiányában is adományozhat diplomáciai rangot a külszolgálat idejére, illetve indokolt esetben magasabb ranghasználatot biztosíthat.
+(4) A kihelyező szerv vezetője – kivételesen indokolt esetben, hivatali érdekből – a (2) bekezdésben meghatározott feltételek hiányában is a tartós külszolgálat idejére diplomáciai rangot adományozhat, illetve indokolt esetben magasabb ranghasználatot biztosíthat.
 
 (5) A rangadományozás és a ranghasználat részletes szabályait a külpolitikáért felelős miniszter – az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével – rendeletben szabályozza.

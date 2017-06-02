@@ -22,6 +22,8 @@
 
 (10) A tartós külszolgálatot teljesítő, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 207. § (2a) bekezdésében foglalt végzettségi követelményeknek meg nem felelő kihelyezett kormányzati ügykezelők e végzettségi követelmény teljesítése alól külszolgálatuk megszűnéséig felmentést kapnak.
 
+(10a) Az adminisztratív és technikai munkakört betöltő kihelyezettek számára a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 210. § (1) bekezdése szerinti vizsga letételére előírt határidőbe nem számít bele a tartós külszolgálat időtartama.
+
 (11) A 2017. költségvetési évre vonatkozó deviza-illetményalap, lakhatási és vegyes költségtérítés-alap, valamint óvodáztatási és iskoláztatási költségtérítés-alap összegeit e törvény tartalmazza. A 2017. költségvetési évre vonatkozó
 
 a) deviza-illetményalap 425 000 forint,

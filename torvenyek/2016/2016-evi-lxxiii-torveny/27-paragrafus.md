@@ -4,4 +4,4 @@
 
 (2) Az (1) bekezdés szerinti helyettesítéssel az adott munkakör legfeljebb egy évig látható el. Egy éven túl a munkakört pályázat vagy kijelölés útján be kell tölteni vagy meg kell szüntetni.
 
-(3) Külön díjazás kizárólag a 90 napot meghaladó helyettesítési időre jár, amelynek mértéke legfeljebb a kihelyezett devizailletményének 20%-a. A helyettesítésre egyebekben a közszolgálati tisztviselőkről szóló törvény átirányításra vonatkozó szabályait kell alkalmazni.
+(3) Külön díjazás kizárólag a 90. napot meghaladó helyettesítési időre jár, amelynek mértéke a kihelyezett devizailletményének 20%-a. A helyettesítésre egyebekben a közszolgálati tisztviselőkről szóló törvény átirányításra vonatkozó szabályait kell alkalmazni.

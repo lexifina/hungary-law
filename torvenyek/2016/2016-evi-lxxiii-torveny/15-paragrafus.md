@@ -4,6 +4,6 @@
 
 (2) A munkakörébe tartozó feladatai alapján kizárólag vagy elsődlegesen európai uniós kérdésekért felelős diplomata az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével helyezhető ki tartós külszolgálatra. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos és az intézetekben tartós külszolgálatot teljesítő diplomata a kultúráért felelős miniszter egyetértésével helyezhető ki tartós külszolgálatra.
 
-(3) A szakdiplomata felett a munkáltatói jogokat felkészítése és tartós külszolgálatának ideje alatt a kihelyező vezető gyakorolja.
+(3) A szakdiplomata felett a munkáltatói jogokat felkészítése és tartós külszolgálatának ideje alatt a kihelyező vezető gyakorolja, ide nem értve a kormányzati szolgálati jogviszony megszüntetését.
 
 (4) A kormánytisztviselő és kormányzati ügykezelő tartós külszolgálatra való kihelyezéséhez a kihelyezendő személy hozzájárulása szükséges.

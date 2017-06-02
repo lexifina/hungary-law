@@ -4,9 +4,9 @@
 
 a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szaktárca közötti kapcsolattartás,
 
-b) a diplomata, valamint az adminisztratív és technikai személyzet felkészítése, valamint
+b) a tartós külszolgálathoz kapcsolódó felkészítés, valamint
 
-c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának és nyilvántartásának az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő
+c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának és nyilvántartásának, valamint a költségvetési támogatásoknak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -18,7 +18,7 @@ b) – az EU ÁK tekintetében az európai uniós ügyek koordinációjáért fe
 
 c) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
-d) a kihelyezett tartós külszolgálata alatt harmadik országban történő ideiglenes kiküldetés teljesítésének,
+d) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
 
 e)–f)
 
@@ -40,13 +40,17 @@ n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön, valamint
 
 o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
-részletes szabályait rendeletben állapítsa meg.
+## részletes szabályait rendeletben állapítsa meg.
+
+p) a külügyi szakmai vizsga
+
+## részletes szabályait rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az EU ÁK tekintetében
 
 a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
-b) a tartós külszolgálata alatt harmadik országban történő ideiglenes kiküldetés teljesítésének,
+b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
 
 c)–d)
 
@@ -62,6 +66,8 @@ i) az állandó képviseleti devizapótlék megállapításának további felté
 
 j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
-részletes szabályait rendeletben állapítsa meg.
+## részletes szabályait rendeletben állapítsa meg.
+
+(3a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az európai uniós szakmai vizsga részletes szabályait rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre és kormányzati ügykezelőkre vonatkozó, e törvénytől eltérő szabályokat rendeletben állapítsa meg.

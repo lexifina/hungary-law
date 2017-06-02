@@ -2,7 +2,7 @@
 
 a) Magyarországon állandó lakóhellyel rendelkezik és életvitelszerűen Magyarországon él,
 
-b) a tartós külszolgálat során ellátott munkakörhöz jogszabályban, továbbá a kihelyező szerv által előírt iskolai végzettséggel, valamint szakképesítéssel rendelkezik,
+b) a tartós külszolgálat során ellátott munkakörhöz jogszabályban, továbbá a kihelyező szerv vezetője által előírt iskolai végzettséggel, szakképzettséggel, szakképesítéssel, illetve a kihelyező vezető által előírt szakmai gyakorlattal rendelkezik,
 
 c) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat eredménye alapján a kijelölt állomáshelyen tartós külszolgálatra alkalmas,
 

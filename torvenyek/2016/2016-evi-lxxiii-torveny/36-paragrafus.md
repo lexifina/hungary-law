@@ -8,7 +8,7 @@
 
 (4) A kihelyezésre kerülő személy a felkészülés, valamint a tartós külszolgálat idejére – a közszolgálati tisztviselőkről szóló törvény szerinti határozott idejű áthelyezéssel – a kihelyező szerv állományába kerül.
 
-(5) A szakdiplomata munkaköri leírását a szakminiszterrel egyeztetve a kihelyező szerv készíti el.
+(5) A szakdiplomata munkaköri leírását – a szakminiszter által előterjesztett részletes javaslat alapján – a kihelyező szerv készíti el és a kihelyező vezető hagyja jóvá.
 
 (6) A szakdiplomata a külképviselet munkájában a külképviselet-vezető utasításai szerint vesz részt, szakmai irányítását a szakminiszter feladat- és hatáskörébe tartozó kérdésben a szakminiszterrel egyeztetve, a külképviselet-vezetőn keresztül a kihelyező vezető végzi.
 

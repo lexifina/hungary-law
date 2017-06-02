@@ -40,7 +40,7 @@ b) az illetékes foglalkozás-egészségügyi szolgálat által végzett kötele
 
 c) a (7) bekezdésében foglaltak alapján ezt kéri.
 
-(6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt napon belül a kormánytisztviselő vagy kormányzati ügykezelő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, a nyilatkozatát a kormányzati szolgálati jogviszonyról történő lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából a munkakör megváltoztatása előtti devizailletményt kell figyelembe venni.
+(6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt napon belül a kormánytisztviselő vagy kormányzati ügykezelő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, a nyilatkozatát a kormányzati szolgálati jogviszonyról történő lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából a közszolgálati tisztviselőkről szóló törvény alapján való besorolása szerinti illetményt kell figyelembe venni.
 
 (7) A kihelyezett írásban kérheti a kihelyezés megszüntetését és a külképviseletről történő hazarendelését. Az erre vonatkozó kérelmet a kihelyező vezető annak kézhezvételétől számított 30 napon belül elbírálja és a kihelyezett hazarendelését elrendeli.
 

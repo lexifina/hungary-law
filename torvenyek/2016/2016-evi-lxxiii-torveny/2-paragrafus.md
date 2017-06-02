@@ -26,7 +26,7 @@
 
 12. kihelyező vezető: a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszter;
 
-13. konzuli személyzet: ágazati jogszabályok alapján, külképviseleten konzuli tevékenységet végző – adott esetben hivatásos konzuli ranggal is bíró – diplomata, valamint kormányzati ügykezelő, külképviselet által foglalkoztatott munkavállaló, valamint külképviselet által foglalkoztatott házastárs;
+13. konzuli személyzet: ágazati jogszabályok alapján, külképviseleten konzuli tevékenységet végző – adott esetben hivatásos konzuli ranggal is bíró – diplomata, kormánytisztviselő, valamint kormányzati ügykezelő, külképviselet által foglalkoztatott munkavállaló, valamint külképviselet által foglalkoztatott házastárs;
 
 14. külképviselet: a külpolitikáért – az EU ÁK esetében az európai uniós ügyek koordinációjáért – felelős miniszter által vezetett minisztérium hivatali szervezetének – a Kormány döntése alapján létrehozott – külföldön, a 3. § (1) bekezdésében meghatározott formákban működő önálló szervezeti egysége, amelynek jogállását, feladat- és hatáskörét általános jelleggel a nemzetközi jog és a magyar jog normái határozzák meg.
 

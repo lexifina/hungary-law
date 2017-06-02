@@ -2,4 +2,4 @@
 
 (2) A kihelyezett más külföldi külképviseletre történő áthelyezéséről és annak időpontjáról a kihelyezettet a kihelyező vezető lehetőleg hat hónappal, de legkésőbb két hónappal az áthelyezés időpontját megelőzően írásban értesíti.
 
-(3) A kihelyezett a tartós külszolgálata alatt harmadik országban ideiglenes kiküldetést teljesíthet, amelynek részletes szabályait a külpolitikáért felelős miniszter rendeletben határozza meg.
+(3) A tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs a fogadó államban, illetve harmadik országban ideiglenes kiküldetést (a továbbiakban: ideiglenes kiküldetés) teljesíthet, amelyért napidíjra nem jogosult. Az ideiglenes kiküldetés részletes szabályait a külpolitikáért felelős miniszter rendeletben határozza meg.
