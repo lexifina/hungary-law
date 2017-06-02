@@ -9,3 +9,5 @@
 (3) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmát az e törvényben meghatározott esetben kezelheti.
 
 (4) A nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmából – ha törvény eltérően nem rendelkezik – adattovábbítás nem teljesíthető.
+
+(5) A nemzeti sportinformációs rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
