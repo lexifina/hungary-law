@@ -30,4 +30,6 @@ h) a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összef
 
 i) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 
+(4a) Az (1)–(1c) bekezdésben meghatározott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (5) Az átadott adatokkal kapcsolatban a (4) bekezdés a)–c) és f)–h) pontjában meghatározott adatokat átvevőket az engedélyessel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (4) bekezdés a)–c), valamint e)–h) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.
