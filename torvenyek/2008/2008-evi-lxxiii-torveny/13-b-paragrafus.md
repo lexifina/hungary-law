@@ -39,3 +39,5 @@ c) jogszabályban előírt véleményalkotása, javaslattétele során, valamint
 d) gazdasági program megalkotásával összefüggő tevékenysége során
 
 használhatja fel.
+
+(6) A Pálinka Nemzeti Tanács a nyilvántartásban szereplő adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és a Központi Statisztikai Hivatal azokat statisztikai célra felhasználhatja. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.

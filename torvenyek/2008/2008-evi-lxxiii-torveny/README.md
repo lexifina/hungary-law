@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-73-00-00
 | 2013-06-28 | 2013. évi LXXXII. törvény | 2008-73-00-00.3 |
 | 2015-12-27 | 2015. évi CCIX. törvény | 2008-73-00-00.4 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2008-73-00-00.5 |
+| 2017-06-02 | 2017. évi XLIV. törvény | 2008-73-00-00.6 |
