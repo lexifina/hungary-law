@@ -1,0 +1,1 @@
+A honvédelmi kiadások és a hosszú távú tervezés feltételeinek megteremtését szolgáló költségvetési források biztosításáról szóló 1273/2016. (VI. 7.) Korm. határozat 1. pontjában a „2026-ra érje el a GDP legalább 1,79%-át” szövegrész helyébe a „2024-re érje el a GDP legalább 2%-át, és 2025-től legalább az elért szint kerüljön megtartásra” szöveg lép.
