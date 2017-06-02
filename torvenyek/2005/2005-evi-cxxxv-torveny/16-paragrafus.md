@@ -35,3 +35,5 @@ d) a támogatásra vonatkozó adatokat:
 (5) Az áldozatsegítő szolgálat a gyermekek veszélyeztetettségének megelőzése, megszüntetése céljából a nyilvántartásban szereplő adatokról, az áldozattá válás körülményeire, illetve a kiskorú veszélyeztetettségére utaló adatokról a gyermekjóléti szolgálatoknak, illetve az eljáró gyámhatóságnak tájékoztatást ad.
 
 (6) Az áldozatsegítő szolgálat által vezetett nyilvántartások országos adatbázist alkotnak. Az adatbázis felhasználásával az áldozatsegítő szolgálat évente statisztikai kimutatást készít.
+
+(7) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
