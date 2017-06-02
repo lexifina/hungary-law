@@ -8,4 +8,4 @@
 
 (4) Az állami meteorológiai szolgálat e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2) bekezdésben meghatározott adatszolgáltatásra kötelezett szervezetet, amennyiben az a (2) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét az állami meteorológiai szolgálat az eset összes körülményére – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.
 
-(5) A (2) bekezdésben meghatározott, a nemzetközi adatszolgáltatás teljesítéséhez szükséges adatokat abban az esetben is kötelező a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani, amennyiben azok a statisztikáról szóló 1993. évi XLVI. törvény vonatkozó rendelkezése szerint egyedi adatnak minősülnek.
+(5) A (2) bekezdésben meghatározott, a nemzetközi adatszolgáltatás teljesítéséhez szükséges adatokat abban az esetben is kötelező a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani, amennyiben azok a hivatalos statisztikát szabályozó törvény vonatkozó rendelkezései szerint egyedi adatnak minősülnek.
