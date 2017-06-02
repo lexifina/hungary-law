@@ -5,3 +5,5 @@
 (3) A felek egyezségét jóváhagyó végzés a bíróság által jóváhagyott egyezséggel, a bejegyzett élettársi kapcsolatot megszüntető végzés pedig a bíróság ítéletével azonos hatályú. A végzések ellen nincs helye felülvizsgálati kérelemnek.
 
 (4) A közjegyző a bejegyzett élettársi kapcsolatot megszüntető végzést öt munkanapon belül megküldi az illetékes anyakönyvvezetőnek.
+
+(5) A közjegyző a hivatalos statisztikáról szóló törvényben (a továbbiakban: Stt.) meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a közjegyzői eljárás során kezeli a bejegyzett élettársi kapcsolat megszűnésével kapcsolatos, népmozgalmi adatszolgáltatás körébe tartozó, a hivatalos statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott, a közjegyző által szolgáltatandó adatokat.

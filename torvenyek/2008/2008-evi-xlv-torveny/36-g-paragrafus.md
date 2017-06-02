@@ -19,3 +19,5 @@ d) a naplóból történt adatszolgáltatásról a szolgáltatott adatok körén
 (6) A napló adatait az országos kamara a 36/G. § (3) bekezdése szerint eljárva továbbíthatja.
 
 (7) Ha a büntetőeljárásban eljáró bíróság, ügyész és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, az országos kamara nem tájékoztathatja az érintettet az adattovábbításról.
+
+(8) A közjegyző a Stt.-ben meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a közjegyzői eljárás során kezeli a nyilvántartott élettársi kapcsolatokra vonatkozó, népmozgalmi adatszolgáltatás körébe tartozó, a hivatalos statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott, a közjegyző által szolgáltatandó adatokat.
