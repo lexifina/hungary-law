@@ -1,4 +1,4 @@
-## I. Lőfegyver megszerzését és tartását külön mérlegelés nélkül kizáró egészségi okok:
+## I.[^53] Lőfegyver megszerzését és tartását, illetve az elöltöltő fegyver vadászati célú használatát külön mérlegelés nélkül kizáró egészségi okok:
 
 ## 1. Eszméletvesztéssel, illetve agyi oxigénhiánnyal járó kórkép (bel- és ideggyógyászat).
 
@@ -10,7 +10,7 @@
 
 ## 5. Elmebetegség bármely formája.
 
-## II.[^42] Szemészeti szempontból szakorvosi véleményezést igénylő megbetegedések
+## II.[^54] Szemészeti szempontból szakorvosi véleményezést igénylő megbetegedések
 
 ## 1. az I. alkalmassági csoportban:
 
@@ -34,17 +34,17 @@
 
 ## – csőlátótér.
 
-## III.[^43] Lőfegyver megszerzésére, tartására való egészségi alkalmasság vizsgálata kapcsán szakorvosi véleményezést igénylő egyéb megbetegedések:
+## III.[^55] Lőfegyver megszerzésére, tartására, illetve az elöltöltő fegyver vadászati célú használatára való egészségi alkalmasság vizsgálata kapcsán szakorvosi véleményezést igénylő egyéb megbetegedések:
 
 ## 1. Beszéd útján történő kommunikáció nehezített volta (hangképzési, beszéd- és/vagy hallászavar).
 
 ## 2. Egyensúlyzavarral járó kórképek.
 
-## 3. Érzészavarok, amelyek a lőfegyver biztonságos kezelését akadályozzák.
+## 3.[^56] Érzészavarok, amelyek a lőfegyver biztonságos kezelését, illetve az elöltöltő fegyver vadászati célú biztonságos kezelését megakadályozzák.
 
-## 4. A passzív és aktív mozgásrendszer (csont-, ízület-, izomrendszer) minden, a fogáskészséget vagy a lőfegyver kezelését gátló veleszületett vagy szerzett rendellenessége.
+## 4.[^57] A passzív és aktív mozgásrendszer (csont-, ízület-, izomrendszer) minden, a fogáskészséget vagy a lőfegyver kezelését, illetve az elöltöltő fegyver vadászati célú kezelését gátló veleszületett vagy szerzett rendellenessége.
 
-## 5. A szív és keringés azon megbetegedései, amelyek a lőfegyver biztonságos használatát megakadályozzák:
+## 5.[^58] A szív és keringés azon megbetegedései, amelyek a lőfegyver biztonságos használatát, illetve az elöltöltő fegyver vadászati célú biztonságos használatát megakadályozzák:
 
 ## — olyan állapotok, amelyekben az akut szívelégtelenség hirtelen, bármikor felléphet;
 
@@ -52,15 +52,20 @@
 
 ## — a szív ingerképzési, ingervezetési zavarai.
 
-## 6. Központi és perifériás idegrendszer bármilyen betegsége, és annak maradványtünetei, ha olyan funkciókiesést okoznak, hogy a lőfegyver biztonságos használatát befolyásolják.
+## 6.[^59] Központi és perifériás idegrendszer bármilyen betegsége, és annak maradványtünetei, ha olyan funkciókiesést okoznak, hogy a lőfegyver biztonságos használatát, illetve az elöltöltő fegyver vadászati célú biztonságos használatát befolyásolják.
 
-## 7.[^44]
+## 7.[^60]
 
 2. számú melléklet
 
-a 22/1991. (XI. 15.) NM rendelethez[^45]
+a 22/1991. (XI. 15.) NM rendelethez[^61]
 
-[^42]: Az 1. számú melléklet II. pontja a 13/1997. (VI. 20.) NM rendelet 1. §-ával megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^43]: Az 1. számú melléklet III. pont nyitó szövegrésze a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^44]: Az 1. számú melléklet III. pont 7. alpontját a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése hatályon kívül helyezte.
-[^45]: A 2. számú melléklet a 9/2010. (III. 18.) EüM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^53]: Az 1. számú melléklet I. pontja a 8/2017. (V. 25.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^54]: Az 1. számú melléklet II. pontja a 13/1997. (VI. 20.) NM rendelet 1. §-ával megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^55]: Az 1. számú melléklet III. pont nyitó szövegrésze a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése, a 8/2017. (V. 25.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
+[^56]: Az 1. számú melléklet III. pont 3. alpontja a 8/2017. (V. 25.) EMMI rendelet 10. § c) pontja szerint módosított szöveg.
+[^57]: Az 1. számú melléklet III. pont 4. alpontja a 8/2017. (V. 25.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
+[^58]: Az 1. számú melléklet III. pont 5. alpontja a 8/2017. (V. 25.) EMMI rendelet 10. § e) pontja szerint módosított szöveg.
+[^59]: Az 1. számú melléklet III. pont 6. alpontja a 8/2017. (V. 25.) EMMI rendelet 10. § f) pontja szerint módosított szöveg.
+[^60]: Az 1. számú melléklet III. pont 7. alpontját a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^61]: A 2. számú melléklet a 8/2017. (V. 25.) EMMI rendelet 9. § a) pontjával megállapított szöveg.

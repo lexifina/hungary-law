@@ -28,15 +28,15 @@
 
 ## Tüdő:
 
-## Szív: EKG:
+## Szív: ......................................................................................................... EKG:
 
-## Vérnyomás: Pulzus:
+## Vérnyomás: ........................................................................................... Pulzus:
 
 ## Érrendszer, varicositas:
 
 ## Hasi szervek tapintása:
 
-## Máj: Sérv:
+## Máj: ......................................................................................................... Sérv:
 
 ## Idegrendszer, Romberg:
 
@@ -50,11 +50,11 @@
 
 ## Pszichológiai vizsgálat eredménye:
 
-## Az elvégzett előzetes orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására
+## Az elvégzett előzetes orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására/elöltöltő fegyver vadászati célú használatára***
 
-## –  alkalmas
+## – alkalmas
 
-## –  alkalmatlan
+## – alkalmatlan
 
 ## Egyéb megjegyzések:
 
@@ -68,27 +68,29 @@
 
 ## Statusában beállott változások:
 
-## Az elvégzett időszakos/soron kívüli orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására
+## Az elvégzett időszakos/soron kívüli orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására/elöltöltő fegyver vadászati célú használatára***
 
-## –  alkalmas
+## – alkalmas
 
-## –  alkalmatlan
+## – alkalmatlan
 
 ## Egyéb megjegyzések:
 
 ## A másodfokú egészségügyi vizsgálatot végző szerv megállapításai:**
 
-## Dátum
+## Dátum:
 
 ## P. H.
 
 ## Aláírás
 
-## * Az első fokú orvosi alkalmasságot vizsgáló szerv tölti ki!
+## * Az első fokú orvosi alkalmasságot vizsgáló szerv tölti ki!
 
-## ** A másodfokú orvosi alkalmasságot vizsgáló szerv tölti ki!
+## ** A másodfokú orvosi alkalmasságot vizsgáló szerv tölti ki!
 
-3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^46]
+## *** A kívánt rész aláhúzandó.
+
+3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^62]
 
 A pszichológiai alkalmassági vizsgálat tartalma:
 
@@ -112,4 +114,4 @@ A pszichológiai alkalmassági vizsgálat tartalma:
 
 – projektív tesztekkel.
 
-[^46]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^62]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (3) bekezdése szerint módosított szöveg.
