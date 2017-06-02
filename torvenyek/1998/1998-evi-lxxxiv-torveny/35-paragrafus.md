@@ -16,6 +16,6 @@ ab) az Európai Gazdasági Térségről szóló megállapodásban részes más �
 
 ac) olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, vagy
 
-b) az egyéb ellátás folyósításának időtartama alatt, ha a külszolgálatot vagy külföldi szolgálatot teljesítő személy részére az e törvény alapján ellátásra jogosító gyermekre tekintettel jogszabály alapján egyéb ellátást folyósítanak.
+b) az egyéb ellátás folyósításának időtartama alatt, ha a Külszoltv. szerinti tartós külszolgálatot vagy külföldi szolgálatot teljesítő személy vagy a vele együtt élő, Külszoltv. szerinti házastársa részére az e törvény alapján ellátásra jogosító gyermekre tekintettel jogszabály alapján bármilyen címen ellátást, támogatást folyósítanak.
 
 (4) Amennyiben az uniós rendeletek alapján a magyar állam a családi ellátások vonatkozásában a különbözet kifizetésére kötelezett, a kifizetést az éves költségvetésről szóló törvény családi pótlék előirányzatának terhére kell teljesíteni.
