@@ -1,6 +1,6 @@
 ## 26. Az Európai Unió jogának való megfelelés
 
-76. § Ez a törvény
+76. § (1) Ez a törvény
 
 a) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv 11. cikk (1) bekezdés g) pontjának és 21. cikkének;
 
@@ -11,3 +11,5 @@ c) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő
 d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló 2011. december 13-i 2011/98/EU európai parlamenti és a tanácsi irányelv 12. cikk (1) bekezdés b) pontjának
 
 való megfelelést szolgálja.
+
+(2) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
