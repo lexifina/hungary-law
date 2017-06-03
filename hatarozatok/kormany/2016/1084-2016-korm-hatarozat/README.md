@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1084-30
 | 2016-12-06 | 2016-1084-30-22.7 | 1717/2016. (XII. 5.) Korm. határozat |
 | 2017-04-01 | 2016-1084-30-22.8 | 1717/2016. (XII. 5.) Korm. határozat |
 | 2017-04-11 | 2016-1084-30-22.9 | 1717/2016. (XII. 5.) Korm. határozat |
+| 2017-06-03 | 2016-1084-30-22.10 | 1717/2016. (XII. 5.) Korm. határozat |
