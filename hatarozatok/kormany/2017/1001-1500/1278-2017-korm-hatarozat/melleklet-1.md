@@ -50,6 +50,8 @@
 
 ## 6. jóváhagyja, hogy a Nemzeti Sportközpontok által a 3. pont szerinti előirányzatok, illetve támogatás terhére lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni;
 
-## 7. az egyes kiemelt sportcélú fejlesztési beruházások forrásszükségletének biztosításáról szóló 1801/2016. (XII. 20.) Korm. határozat 1. mellékletében a „Kézilabda Munkacsarnokok építése” megnevezésű fejlesztésre vonatkozó sort visszavonja.
+## 7.[^1]
 
 1. melléklet az 1278/2017. (VI. 2.) Korm. határozathoz
+
+[^1]: A 7. pont a 2010: CXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
