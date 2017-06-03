@@ -4,7 +4,7 @@
 
 | 1. | A megfelelőségértékelési terület és az azt szabályozó jogszabály | A felelősségbiztosítás legalább az alábbi összeghatárig nyújtson fedezetet (forint) |
 
-| 2. | A motorhajtóanyagok minőségi követelményeiről szóló 30/2011. (VI. 28.) NFM rendelet | 50 000 000 |
+| 2. | A motorhajtóanyagok minőségi követelményeiről szóló 17/2017. (V. 26.) NFM rendelet | 50 000 000 |
 
 | 3. | Az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló 53/2014. (XII.13.) NFM rendelet | 50 000 000 |
 

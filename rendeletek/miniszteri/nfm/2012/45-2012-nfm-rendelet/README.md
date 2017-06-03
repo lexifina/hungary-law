@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-2
 | 2015-07-01 | 2012-45-20-2W.3 | 37/2015. (VI. 30.) NFM rendelet |
 | 2016-04-01 | 2012-45-20-2W.4 | 6/2016. (III. 30.) NFM rendelet |
 | 2016-06-01 | 2012-45-20-2W.5 | 6/2016. (III. 30.) NFM rendelet |
+| 2017-06-03 | 2012-45-20-2W.6 | 18/2018. (IX. 20.) ITM rendelet |
