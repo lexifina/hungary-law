@@ -38,7 +38,7 @@ d) a szabálysértési elzárást, a felfüggesztett szabálysértési elzárás
 
 e) a közérdekű munka végrehajtásában közreműködő állami foglalkoztatási szerv a 3. melléklet 4. pont a) alpontjában meghatározott adatok tekintetében,
 
-f)[^35] az általános rendőrségi feladatokat ellátó szerv központi szerve a pénzbírság vagy a helyszíni bírság végrehajtása keretében a befizetések Szabs. tv. 141. § (2d) bekezdése szerinti ellenőrzése során a 3. melléklet 4. pont c) alpontjában meghatározott adatok tekintetében.
+f)[^35] a központi bírságkezelő szerv a pénzbírság- vagy a helyszínibírság-befizetések Szabs. tv. 141. § (2d) bekezdése szerinti ellenőrzése során a 3. melléklet 4. pont c) alpontjában meghatározott adatok tekintetében.
 
 [^34]: A 32. § 2. pontja a 81/2015. (XII. 23.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^35]: A 33. § 2. pont f) alpontját a 81/2015. (XII. 23.) BM rendelet 13. § (2) bekezdése iktatta be.
+[^35]: A 33. § 2. pont f) alpontját a 81/2015. (XII. 23.) BM rendelet 13. § (2) bekezdése iktatta be, szövege a 11/2017. (VI. 2.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
