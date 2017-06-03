@@ -1,3 +1,0 @@
-7. § Az Eht. 94/A. § (1) bekezdés helyébe a következő rendelkezés lép:
-
-„(1) A fizikai infrastruktúra 94. § (2a) bekezdés szerinti felhasználása érdekében létrejött megállapodás esetén a Hatóság az elektronikus hírközlési szolgáltató javára a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlanra vonatkozóan hatósági határozattal, kártalanítás ellenében szolgalmi vagy más használati jogot létesíthet. Ezen eljárásban ellenkező bizonyításig vélelmezni kell, hogy a szolgalmi vagy más használati jog az ingatlan használatát lényegesen nem korlátozza. Ha az érintett ingatlanok nagy száma indokolja, a Hatóság a szolgalmi vagy más használati jogot több érintett ingatlanra vonatkozóan egy hatósági határozattal is létesíthet.”
