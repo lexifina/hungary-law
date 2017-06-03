@@ -1,0 +1,9 @@
+# 17/2017. (V. 26.) NFM rendelet
+
+a motorhajtóanyagok minőségi követelményeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-17-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-06-03 | 2017-17-20-2W.1 | 17/2017. (V. 26.) NFM rendelet |
