@@ -12,4 +12,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: az 1. pont teljesülését követően azonnal
 
-3. visszavonja a Közlekedés Operatív Program keretében finanszírozott, a 86. számú főút fejlesztésével összefüggő nagyprojekt támogatási kérelmének benyújtásáról, valamint a 62. számú főút és az M8 autópálya fejlesztésével összefüggő, elfogadott nagyprojekt jóváhagyó határozata módosításának kezdeményezéséről szóló 1772/2015. (X. 19.) Korm. határozat 2. pontját és 2. mellékletét.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
