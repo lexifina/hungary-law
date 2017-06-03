@@ -1,4 +1,4 @@
-3. § (1)[^4] Ha az elkövető a végrehajtásában fel nem függesztett szabálysértési elzárást kiszabó határozat jogerőre emelkedésekor nincs őrizetben, a szabálysértési hatóság a bírósági határozat egyidejű kézbesítése mellett felhívja az elkövetőt, hogy a szabálysértési elzárás végrehajtása végett a megjelölt napon, a felhívásban meghatározott bv. intézetben jelentkezzék. A szabálysértési hatóság ezzel egyidejűleg
+3. § (1)[^5] Ha az elkövető a végrehajtásában fel nem függesztett szabálysértési elzárást kiszabó határozat jogerőre emelkedésekor nincs őrizetben, a szabálysértési hatóság a bírósági határozat egyidejű kézbesítése mellett felhívja az elkövetőt, hogy a szabálysértési elzárás végrehajtása végett a megjelölt napon, a felhívásban meghatározott bv. intézetben jelentkezzék. A szabálysértési hatóság ezzel egyidejűleg
 
 a) a bírósági határozat egy példányát megküldi a bv. intézetnek, fiatalkorú elkövető esetén az elkövető törvényes képviselőjének és a fiatalkorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságnak, továbbá közli a szabálysértési elzárás megkezdésének és végrehajthatósága elévülésének időpontját, valamint
 
@@ -22,4 +22,4 @@ b) aktuálisan fennálló megbetegedéseire kezelőorvosa által rendelt, folyam
 
 c) a legmagasabb iskolai végzettségéről, szakképzettségéről szóló bizonyítványát, oklevelét, vagy azok fénymásolatát
 
-[^4]: A 3. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 22. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 22. §-ával megállapított szöveg.
