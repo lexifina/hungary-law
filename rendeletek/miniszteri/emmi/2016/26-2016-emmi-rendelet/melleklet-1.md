@@ -668,7 +668,7 @@ V. FEJEZET
 
 48.2. A díj átadására a Nemzetközi Családi Nap (május 15.) alkalmából kerül sor.
 
-48.3. A díjból évente legfeljebb tíz adományozható, azzal hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, nyolc díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+48.3.[^12] A díjból évente legfeljebb tíz adományozható.
 
 48.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 102 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, fiatal háromtagú családot ábrázol egészalakos figurákkal, a köriratban a „PRO FAMILIIS” felirat található.
 
@@ -708,7 +708,7 @@ V. FEJEZET
 
 51.3. A díj átadására a Tolerancia Nemzetközi Napján (november 16.) vagy a Fogyatékossággal Élő Emberek Világnapján (december 3.), illetőleg nemzeti, állami ünnep vagy kiemelkedő szakmai esemény alkalmából kerül sor.
 
-51.4.[^12] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+51.4.[^13] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
 
 51.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 95 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, rajta „ESÉLYTEREMTÉSÉRT DÍJ” félkörívű felirat található.
 
@@ -778,7 +778,7 @@ VI. FEJEZET
 
 56.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
 
-56/A.[^13] Pro Cultura Minoritatum Hungariae díj
+56/A.[^14] Pro Cultura Minoritatum Hungariae díj
 
 56/A. 1. A díj olyan Magyarországon élő nemzetiséghez tartozó természetes személynek, vagy szervezetnek adományozható, aki vagy amely kiemelkedő tevékenységet végzett a Magyarországon élő nemzetiségek körében az anyanyelvű, kulturális örökség megtartásáért, fejlesztéséért, és a nemzetiségi közművelődés és kultúra területén kimagasló tevékenységével hozzájárult a Kárpát-medence népeinek együttéléséhez.
 
@@ -798,7 +798,7 @@ VII. FEJEZET
 
 57.2. A díj évente három személy részére adományozható.
 
-57.3. A díj átadására a Közszolgálati Tisztviselők Napja (július 1.) alkalmából kerül sor.
+57.3.[^15] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 57.4. A díjazott az adományozást igazoló oklevelet kap.
 
@@ -807,5 +807,7 @@ VII. FEJEZET
 [^9]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^10]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
 [^11]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^12]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^13]: Az 1. melléklet VI. fejezet 56/A. pontját a 3/2017. (III. 7.) EMMI rendelet 3. §-a iktatta be.
+[^12]: Az 1. melléklet V. fejezet 48. pont 48.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^14]: Az 1. melléklet VI. fejezet 56/A. pontját a 3/2017. (III. 7.) EMMI rendelet 3. §-a iktatta be.
+[^15]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
