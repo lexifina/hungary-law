@@ -1,1 +1,0 @@
-## „(7) A lőfegyver tartására, illetve az elöltöltő fegyver vadászati célú használatára alkalmatlanná nyilvánított személy soron kívüli orvosi vizsgálatot kérhet, feltéve, ha orvosi bizonyítvánnyal igazolja egészségi állapotának olyan mértékű javulását, amelynek alapján feltehető, hogy lőfegyver tartására, illetve elöltöltő fegyver vadászati célú használatára alkalmassá vált.”
