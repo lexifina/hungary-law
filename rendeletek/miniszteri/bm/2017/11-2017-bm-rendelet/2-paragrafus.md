@@ -1,5 +1,0 @@
-## „36. § (1) E rendelet 2. § b) pontja, 9. §-a és 43. §-a a tagállamok bűnüldözési szervei által külföldre kiküldött összekötő tisztviselők közös alkalmazásáról szóló 2003/170/IB tanácsi határozatnak, valamint a tagállamok bűnüldöző szervei által külföldre kiküldött összekötő tisztviselők közös alkalmazásáról szóló 2003/170/IB határozat módosításáról szóló 2006/560/IB tanácsi határozatnak való megfelelést szolgálja.
-
-## (2) E rendelet 9. §-a a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-## 2. A szabálysértési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájáról, módjáról és rendjéről, a szabálysértési nyilvántartó szerv által teljesített adatközlés rendjéről, valamint az egyes szabálysértési nyilvántartásokban kezelt adatokra tekintettel kiállított hatósági bizonyítvány kiadásának eljárási rendjéről szóló 21/2012. (IV. 13.) BM rendelet módosítása
