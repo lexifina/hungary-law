@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:246 mezőjében a „2,13” szövegrész helyébe a „2,77” szöveg,
-
-## b) E:246 mezőjében a „0,16” szövegrész helyébe a „0,21” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1293/2017. (VI. 2.) Korm. határozathoz
 
@@ -33,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Megnövelt önerő összege (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-2.2.2- 15-2015-00028 | Kunmadaras nagyközség szennyvízcsatornázása és tisztító telep korszerűsítése | Kunmadaras Nagyközség Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 2 129 602 595 | 638 880 720 | 204 461 165 | 2 768 483 315 | A projekt célja a tárgyi – 2000 lakosegyenérték terhelést meghaladó kibocsátású – szennyvízelvezetési agglomeráció megfelelő szennyvízkezelése az uniós jogban meghatározott követelményeinek a teljesítése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
