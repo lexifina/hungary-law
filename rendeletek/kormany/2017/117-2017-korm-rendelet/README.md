@@ -1,0 +1,9 @@
+# 117/2017. (V. 29.) Korm. rendelet
+
+a központi bírságkezelő szerv kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-117-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-06-06 | 2017-117-20-22.1 | 117/2017. (V. 29.) Korm. rendelet |
