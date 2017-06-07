@@ -18,15 +18,13 @@
 
 ## Határidő: 2016. december 30.
 
-1. melléklet az 1800/2016. (XII. 20.) Korm. határozathoz
+1. melléklet az 1800/2016. (XII. 20.) Korm. határozathoz[^1]
 
 | A fejlesztés megnevezése | A támogatás célja | A támogatás összege (millió Ft) | Kedvezményezett |
 
 | Dunakeszi Szabadtéri műugró torony és medence fejlesztés | a szabadtéri műugró torony és medence fejlesztésének támogatása | 635 | Városi Sportegyesület Dunakeszi |
 
 | Diósgyőri stadion rekonstrukciója | a stadion építése során felmerült opciós tételek megfizetésének a támogatása | 3 100 | Diósgyőri Stadionrekonstrukciós Kft. |
-
-| A siófoki Kiss Szilárd csarnok befejezése | TAO-fejlesztés keretében megkezdett, félkész felépítmény befejezésének a támogatása | 1 900 | Nemzeti Sportközpontok |
 
 | X. kerületi multifunkcionális sportcsarnok és uszoda fejlesztés | a Mázsa téri multifunkcionális sportcsarnok és uszoda fejlesztésének a támogatása | 2 000 | Budapest Főváros X. Kerület Kőbányai Önkormányzat |
 
@@ -39,3 +37,5 @@
 | Szentendrei Ferences Gimnázium | tornacsarnok építése | 1 500 | Magyarok Nagyasszonya Ferences Rendtartomány |
 
 | Budafoki Munkás Testedző Egyesület | BMTE fejlesztési projekt következő üteme | 100 | Budafoki Munkás Testedző Egyesület |
+
+[^1]: Az 1. melléklet az 1304/2017. (VI. 7.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
