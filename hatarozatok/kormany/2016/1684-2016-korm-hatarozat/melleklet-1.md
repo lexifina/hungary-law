@@ -14,7 +14,7 @@
 
 ## Miniszterelnökséget vezető miniszter
 
-## Határidő: 2017. június 30., a Belügyminisztérium igazgatása cím javára biztosított 1600,0 millió forint tekintetében 2017. december 31.
+## Határidő: 2017. június 30., a Belügyminisztérium igazgatása cím javára biztosított 1600,0 millió forint tekintetében 2017. december 31., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára biztosított 40,0 millió forint tekintetében 2018. június 30.
 
 ## 2. a Kvtv. 19. § (3) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 85,9 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 33. Országvédelmi Alap cím terhére, a 2. melléklet szerint;
 
@@ -38,4 +38,4 @@
 
 1. melléklet az 1684/2016. (XI. 29.) Korm. határozathoz
 
-[^1]: Az 1. pont az 1241/2017. (IV. 28.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1241/2017. (IV. 28.) Korm. határozat 4. pontja, az 1303/2017. (VI. 7.) Korm. határozat 6. pontja szerint módosított szöveg.
