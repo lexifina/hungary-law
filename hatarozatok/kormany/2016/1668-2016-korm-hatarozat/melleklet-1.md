@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: 2017. április 30.
+## Határidő: 2017. június 30.[^1]
 
 1. melléklet az 1668/2016. (XI. 23.) Korm. határozathoz
 
@@ -123,3 +123,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1313/2017. (VI. 8.) Korm. határozat 7. pontja szerint módosított szöveg.
