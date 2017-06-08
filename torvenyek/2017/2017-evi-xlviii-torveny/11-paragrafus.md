@@ -1,0 +1,3 @@
+11. § A Ctv. a következő 131/I. §-sal egészül ki:
+
+„131/I. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvénynek és a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvénynek az európai cégnyilvántartások összekapcsolására szolgáló rendszerrel összefüggő módosításáról szóló 2017. évi XLVIII. törvény (a továbbiakban: Módtv3.) hatálybalépése napján a cégnyilvántartásba bejegyzett vagy bejegyzés alatt álló 17/A. § szerinti cégek EUID-ját a cégbíróság a Módtv3. hatálybalépését követő napon automatikus végzéssel, elektronikus úton állapítja meg és jegyzi be a cégjegyzékbe.”
