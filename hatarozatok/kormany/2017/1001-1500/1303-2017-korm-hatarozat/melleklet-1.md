@@ -28,8 +28,8 @@
 
 ## 4. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1104/2017. (III. 6.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 2. Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára a K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 430 540 ezer forintból 150 ezer forint a K1. Személyi juttatások kiemelt előirányzaton, 30 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 8712 ezer forint a K3. Dologi kiadások kiemelt előirányzaton, 15 113 ezer forint a K6. Beruházások kiemelt előirányzaton, valamint 11 811 ezer forint a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet, 1. Nemzetgazdasági Minisztérium igazgatása cím, K1. Személyi juttatások kiemelt előirányzaton, 6549 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 54 640 ezer forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 5. A vajdasági Magyar Ház és Pannon Médiaház beruházások megvalósításához szükséges forrás biztosításáról szóló 1656/2016. (XI. 17.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2017. november 30.” szöveg lép.
-
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes fejezeti stabilitási tartalék előirányzatok felhasználásáról szóló 1684/2016. (XI. 29.) Korm. határozat 1. pontjában a „2017. december 31.” szövegrész helyébe a „2017. december 31., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára biztosított 40,0 millió forint tekintetében 2018. június 30.” szöveg lép.
+## 5–6.[^1]
 
 1. melléklet az 1303/2017. (VI. 7.) Korm. határozathoz
+
+[^1]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
