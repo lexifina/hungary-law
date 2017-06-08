@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 4 665 000 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## a)[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 4 665 000 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. február 15.
+## Határidő: 2018. február 15., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 2865,0 millió forint tekintetében 2018. március 31.
 
 ## b) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva jóváhagyja, hogy a Nemzeti Adó- és Vámhivatal vezetője legfeljebb 5605,0 millió forint keretösszeg erejéig a határátkelőhelyeken átlépő tehergépjárművek és vasúti szerelvények gyorsabb és eredményesebb átvizsgálásának fejlesztéséhez szükséges közúti és vasúti röntgenberendezések beszerzése érdekében több év előirányzatait terhelő kötelezettséget vállaljon;
 
@@ -40,7 +40,7 @@
 
 ## f) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 394 000 ezer forintból 20 230 ezer forint a K1. Személyi juttatások kiemelt előirányzaton, 5376 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 357 870 ezer forint a K3. Dologi kiadások kiemelt előirányzaton, 10 524 ezer forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2.[^1]
+## 2.[^2]
 
 ## 3. A Kormány egyetért azzal, hogy
 
@@ -120,4 +120,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1313/2017. (VI. 8.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
