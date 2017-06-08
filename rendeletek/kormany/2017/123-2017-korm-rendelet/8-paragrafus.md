@@ -1,0 +1,1 @@
+## 7. § Az adatszolgáltatási határidő elmulasztása esetén a 2017. szeptember – 2017. november havi foglalkoztatással összefüggő, alapbérhez nyújtott támogatás folyósítása a 6. § (4) bekezdésében foglaltaktól eltérően a 2017. évi működési támogatással való elszámolás során, annak szabályai szerint történik.
