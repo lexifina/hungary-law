@@ -12,10 +12,12 @@ Határidő: azonnal
 
 3. A Kormány
 
-a) visszavonja az egyes egyedi települési sportcélú infrastruktúra-fejlesztési beruházások forrásszükségletének biztosításáról szóló 1800/2016. (XII. 20.) Korm. határozat [a továbbiakban: 1800/2016. (XII. 20.) Korm. határozat] 1. mellékletében foglalt táblázat „A siófoki Kiss Szilárd csarnok befejezése” megnevezésű fejlesztésre vonatkozó sorát;
+a)[^1]
 
 b) felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket az 1800/2016. (XII. 20.) Korm. határozat 1. mellékletében foglalt táblázat „A siófoki Kiss Szilárd csarnok befejezése” megnevezésű sor végrehajtására az 1800/2016. (XII. 20.) Korm. határozat 3. pontja alapján kiadott támogatói okirat visszavonása érdekében.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^1]: A 3. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
