@@ -2,6 +2,6 @@
 
 (2) A 7. § (3) bekezdése 2007. január 1. napján lép hatályba.
 
-(3)–(8)[^39]
+(3)–(8)[^40]
 
-[^39]: A 15. § (3)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^40]: A 15. § (3)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.

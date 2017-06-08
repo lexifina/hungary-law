@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-1-20-1U
 | 2011-09-30 | 2006-1-20-1U.9 | 29/2011. (IX. 29.) KIM rendelet |
 | 2016-01-01 | 2006-1-20-1U.10 | 39/2015. (XII. 21.) IM rendelet |
 | 2016-11-16 | 2006-1-20-1U.11 | 39/2015. (XII. 21.) IM rendelet |
+| 2017-06-08 | 2006-1-20-1U.12 | 6/2017. (VI. 1.) IM rendelet |
