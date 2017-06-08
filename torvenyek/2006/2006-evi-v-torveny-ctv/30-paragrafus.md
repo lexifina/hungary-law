@@ -1,12 +1,14 @@
 30. § (1) A cégjegyzékben szereplő természetes személy esetében – ha e törvény másként nem rendelkezik – a cégjegyzéknek tartalmaznia kell e személy anyjának születési nevét is.
 
-(2) Ha a cég tagja
+(1a) A korlátolt felelősségű társaság, a részvénytársaság, az európai részvénytársaság, továbbá az Európai Unió más tagállamában bejegyzett vállalkozás által alapított fióktelepe és kereskedelmi képviselete a cégjegyzékszám mellett olyan európai egyedi azonosítót kap (EUID), amely lehetővé teszi a cég egyértelmű azonosítását a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül történő adatcsere során.
 
-a) belföldi cég, annak cégjegyzékszámát,
+(2) Ha a bejegyzési (változásbejegyzési) kérelemben feltüntetett személy (szervezet)
+
+a) belföldi cég, annak cégjegyzékszámát, amennyiben ilyen adattal rendelkezik, EUID-ját,
 
 b) egyesület vagy alapítvány, annak nyilvántartási számát,
 
-c) külföldi cég vagy más szervezet, amennyiben ilyen adattal rendelkezik, nyilvántartási számát és a nyilvántartó hatóságot
+c) külföldi cég vagy más szervezet, amennyiben ilyen adattal rendelkezik, nyilvántartási számát, EUID-ját és a nyilvántartó hatóságot
 
 is fel kell tüntetni a cégjegyzékben.
 

@@ -28,7 +28,9 @@ c) az üzletrészen alapított zálogjog tényét, a zálogjogosult nevét (cég
 
 d)
 
-e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
+e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát,
+
+f) a cég EUID-ját.
 
 (4)
 
@@ -40,7 +42,7 @@ ab) a kibocsátott átváltoztatható kötvények számát és névértékét,
 
 ac) a kibocsátott jegyzési jogot biztosító kötvények számát és névértékét,
 
-ad)
+ad) a cég EUID-ját.
 
 b) Zártkörűen működő részvénytársaság esetében
 
@@ -90,6 +92,8 @@ b) a külföldi vállalkozás cégjegyzékét (nyilvántartását) vezető bír�
 
 c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, természetes személy esetén lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
 
+d) ha a külföldi vállalkozás az Európai Unió más tagállamában bejegyzett vállalkozás, a cég EUID-ját;
+
 (9) Külföldiek magyarországi közvetlen kereskedelmi képviselete esetében
 
 a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyilvántartási számát) és székhelyét,
@@ -97,6 +101,8 @@ a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyil
 b) a külföldi vállalkozás cégjegyzékét (nyilvántartását) vezető bíróság, illetve hatóság megnevezését és székhelyét,
 
 c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, természetes személy esetén lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
+
+d) ha a külföldi vállalkozás az Európai Unió más tagállamában bejegyzett vállalkozás, a cég EUID-ját;
 
 (10) Vízgazdálkodási társulat esetében
 

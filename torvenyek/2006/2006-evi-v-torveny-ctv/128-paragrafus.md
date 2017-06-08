@@ -26,7 +26,11 @@ l) a bűnügyi nyilvántartó szervtől történő adatigénylésre és ezzel ö
 
 m) a cégbejegyzési (változásbejegyzési) kérelem céginformációs szolgálat által végzett informatikai és formai szempontú vizsgálatára
 
-n) a szerződésminták alkalmazásának feltételeire, a szerződésminták tartalmi és formai követelményeire
+n) a szerződésminták alkalmazásának feltételeire, a szerződésminták tartalmi és formai követelményeire,
+
+o) az EUID képzésére, külföldi cégek vagy egyéb szervezetek EUID-jának adatkezelésére, a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül továbbított adatszolgáltatásért fizetendő költségtérítésre, a fizetés módjára,
+
+p) a székhelyhasználat székhelyszolgáltatással való biztosítása esetén a székhelyszolgáltatási tevékenység végzésére, a székhely biztosításának feltételeire, a székhely biztosítására kötött szerződés tartalmára
 
 vonatkozó részletes szabályokat rendelettel állapítsa meg.
 

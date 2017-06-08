@@ -2,6 +2,10 @@
 
 (1a) A cégbíróság a cég bejegyzett adatainak változásáról, a cég törléséről – a céginformációs szolgálat útján és az (1) bekezdés szerinti elektronikus úton – értesíti azt a közhiteles nyilvántartást vezető szervet, amely a nyilvántartásában a cégre vonatkozóan cégjegyzékadatot is nyilvántart, feltéve, hogy a céginformációs szolgálat elektronikus értesítésének feltételei biztosítottak.
 
+(1b) A cégbíróság az EUID-val rendelkező cégformák esetében a cég EUID-ját, a 26. § (1) bekezdés a)–e) pontjában meghatározott adatát a tagállami cégnyilvántartások összekapcsolására szolgáló rendszer számára – a céginformációs szolgálat informatikai rendszere segítségével – haladéktalanul hozzáférhetővé teszi. Az EUID-val rendelkező külföldi vállalkozás magyarországi fióktelepe, kereskedelmi képviselete esetében a 26. § (1) bekezdés c) pontjában meghatározott adatot nem kell hozzáférhetővé tenni. E bekezdés szerinti adatokhoz való hozzáférés a tagállami cégnyilvántartások számára ingyenes.
+
+(1c) A cégbíróság – a céginformációs szolgálat informatikai rendszere segítségével – haladéktalanul fogadja az EUID-val rendelkező cégformákkal összefüggésben a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül érkező információkat.
+
 (2) A korlátolt felelősségű társaság és a részvénytársaság a bejegyzését követően írásbeli képviselete, illetve hivatalos levelezése során – ideértve az elektronikus levelezést is –, valamint a honlapján köteles feltüntetni a céget nyilvántartó cégbíróság nevét, a cég nevét és székhelyét, a cég cégjegyzékszámát, továbbá szükség szerint a cég felszámolására, illetve végelszámolására utaló toldatot. A cég – választása szerint – feltüntetheti a jegyzett tőkéjét is. Ebben az esetben azonban a cégjegyzékben szereplő jegyzett tőke feltüntetése mellett meg kell jelölni annak ténylegesen rendelkezésre bocsátott összegét is.
 
 (3) Európai gazdasági egyesülés esetében a (2) bekezdésben foglaltakon túlmenően a cég írásbeli képviselete, illetve hivatalos levelezése során azt is fel kell tüntetni, ha a vezető tisztségviselők képviseleti joga együttes.

@@ -16,6 +16,8 @@ ab) a kibocsátott átváltoztatható kötvények számát és névértékét,
 
 ac) a kibocsátott jegyzési jogot biztosító kötvények számát és névértékét,
 
+ad) a cég EUID-ját.
+
 b) Zártkörűen működő európai részvénytársaság esetében
 
 ba) a részvénytársaság ügyvezetésének típusát (igazgatóság vagy igazgatótanács, illetve egyszemélyes igazgatóság),

@@ -20,7 +20,7 @@ a) az e törvényben szabályozott módon hozzájárul a cégnyilvánosság köv
 
 b) biztosítja a cégeljárásban és más, külön törvényben szabályozott nemperes eljárások során az elektronikus ügyintézést támogató rendszer üzemeltetését;
 
-c)
+c) biztosítja a tagállami központi nyilvántartások, kereskedelmi nyilvántartások és cégjegyzékek összekapcsolására szolgáló rendszerrel (a továbbiakban: tagállami cégnyilvántartások összekapcsolására szolgáló rendszer) való kapcsolattartást;
 
 d) jogi tanácsadó szolgálatot tart fenn annak érdekében, hogy a mikro- és kisvállalkozások a cégalapítással, a cégek megszüntetésével összefüggő jogilag jelentős információkat – korszerű informatikai eszközök alkalmazása révén – közérthető megfogalmazásban, költségmentesen is megismerhessék;
 
