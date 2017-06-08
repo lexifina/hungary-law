@@ -64,7 +64,7 @@
 
 | MLSZ Amatőr sporttelep felújítási program | a sporttelep-felújítási program támogatása, amely kiegészíti az MLSZ által irányított országos pályaépítési program célkitűzéseit | 1 000 |
 
-| Mezőkövesdi sportcentrum fejlesztése | Egyéb sportcélú ingatlanok építése, felújítása | 500 |
+| Mezőkövesdi sportcentrum fejlesztése | Egyéb sportcélú ingatlanok építése, felújítása, vásárlása | 500 |
 
 | Gyöngyöshermán- Szentkirály SE pályarekonstrukció | pálya felújítás, világítás kiépítésének támogatása | 11 |
 
@@ -90,4 +90,4 @@
 
 | Népliget rekonstrukciója | Fradiváros I. ütem | 10 000 | Ferencvárosi Torna Club |
 
-[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
