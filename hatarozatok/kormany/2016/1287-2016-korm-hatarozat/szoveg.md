@@ -14,14 +14,12 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. március 31.
 
-4. felhívja a nemzeti fejlesztési minisztert, hogy a 3. pont szerinti megállapodások megkötését követően – az MNV Zrt. útján – gondoskodjon az 1. pontban megjelölt ingatlanoknak az Egyház részére történő vagyonkezelésbe adásáról;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2017. június 30.
+4.[^1]
 
 5. elrendeli az 1. pontban foglaltak végrehajtása érdekében az ingatlanoknak az Egyház részére történő tulajdonba adását célzó törvényjavaslat előkészítését.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2017. szeptember 30.
+
+[^1]: A 4. pontot az 1321/2017. (VI. 8.) Korm. határozat 3. pontja visszavonta.
