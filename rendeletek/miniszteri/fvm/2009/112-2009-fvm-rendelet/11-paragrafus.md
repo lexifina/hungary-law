@@ -2,7 +2,7 @@
 
 ## A kifizetési kérelem benyújtása
 
-11. § (1)[^56] A kifizetési kérelmet a Vhr. 16/B. § (1)–(3) bekezdéseitől eltérően évente
+11. § (1)[^58] A kifizetési kérelmet a Vhr. 16/B. § (1)–(3) bekezdéseitől eltérően évente
 
 a) január 1–31.,
 
@@ -12,11 +12,11 @@ c) július 1–31., valamint
 
 d) október 1–31.
 
-## között lehet postai úton benyújtani a megvalósítás helye szerinti illetékes MVH kirendeltséghez, az MVH által a honlapján közzétett formanyomtatványon.
+## között lehet postai úton benyújtani a kifizető ügynökséghez, a kifizető ügynökség által a honlapján közzétett formanyomtatványon.
 
-(1a)[^57] A kifizetési kérelmeket a 2015. évben az (1) bekezdésben foglalt benyújtási időszakoktól eltérően kizárólag január 1. és 31., április 1. és 30., valamint július 1. és augusztus 31. között lehet benyújtani, az (1) bekezdés szerinti módon.
+(1a)[^59] A kifizetési kérelmeket a 2015. évben az (1) bekezdésben foglalt benyújtási időszakoktól eltérően kizárólag január 1. és 31., április 1. és 30., valamint július 1. és augusztus 31. között lehet benyújtani, az (1) bekezdés szerinti módon.
 
-(2)[^58] A kifizetési kérelemnek tartalmaznia kell az alábbiakat:
+(2)[^60] A kifizetési kérelemnek tartalmaznia kell az alábbiakat:
 
 a) az ügyfél azonosítására vonatkozó adatokat;
 
@@ -38,21 +38,21 @@ i) az ügyfél nyilatkozatát a vonatkozó feltételek megismeréséről és tud
 
 j) az ügyfél cégszerű aláírását.
 
-(3)[^59] A 3. § (1) bekezdés d) pontja szerinti működési támogatás igénybevételére irányuló kifizetési kérelemhez a (2) bekezdésben foglaltakon túl csatolni kell:
+(3)[^61] A 3. § (1) bekezdés d) pontja szerinti működési támogatás igénybevételére irányuló kifizetési kérelemhez a (2) bekezdésben foglaltakon túl csatolni kell:
 
 a) az első kifizetési kérelemhez, illetve a további munkaszerződések megkötését követő első kifizetési kérelemhez a foglalkoztatottal kötött munkaszerződés másolatát;
 
-b)[^60] 8. § (8) bekezdés a) pontja szerinti, az elszámolási időszakot tartalmazó féléves programtervet;
+b)[^62] 8. § (8) bekezdés a) pontja szerinti, az elszámolási időszakot tartalmazó féléves programtervet;
 
-c)[^61] a kifizetési kérelem alapjául szolgáló időszakra vonatkozóan a 8. § (8) bekezdés f) pontja szerinti jelenléti ívek másolatát.
+c)[^63] a kifizetési kérelem alapjául szolgáló időszakra vonatkozóan a 8. § (8) bekezdés f) pontja szerinti jelenléti ívek másolatát.
 
 (4) Az IKSZT cím felfüggesztése esetén az ügyfél a felfüggesztés időszakára vonatkozóan működési kiadásainak elszámolása érdekében kifizetési kérelmet nem nyújthat be.
 
 (5) Működési támogatás igénybevételére irányuló kifizetési kérelmet a 3. § (1) bekezdés a)–c) pontjaiban foglaltakra irányuló fejlesztés utolsó kifizetési kérelmének benyújtási időpontjától kezdődően felmerült kiadásokra lehet benyújtani.
 
-[^56]: A 11. § (1) bekezdése a 137/2012. (XII. 22.) VM rendelet 16. §-ával megállapított szöveg.
-[^57]: A 11. § (1a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 12. §-a iktatta be, szövege a 34/2015. (VII. 22.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^58]: A 11. § (2) bekezdése a 84/2012. (VIII. 2.) VM rendelet 6. §-ával megállapított szöveg.
-[^59]: A 11. § (3) bekezdése a 84/2012. (VIII. 2.) VM rendelet 6. §-ával megállapított szöveg.
-[^60]: A 11. § (3) bekezdés b) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^61]: A 11. § (3) bekezdés c) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^58]: A 11. § (1) bekezdése a 137/2012. (XII. 22.) VM rendelet 16. §-ával megállapított, záró szövegrésze a 17/2017. (VI. 7.) MvM rendelet 2. § f) pontja szerint módosított szöveg.
+[^59]: A 11. § (1a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 12. §-a iktatta be, szövege a 34/2015. (VII. 22.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^60]: A 11. § (2) bekezdése a 84/2012. (VIII. 2.) VM rendelet 6. §-ával megállapított szöveg.
+[^61]: A 11. § (3) bekezdése a 84/2012. (VIII. 2.) VM rendelet 6. §-ával megállapított szöveg.
+[^62]: A 11. § (3) bekezdés b) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^63]: A 11. § (3) bekezdés c) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.

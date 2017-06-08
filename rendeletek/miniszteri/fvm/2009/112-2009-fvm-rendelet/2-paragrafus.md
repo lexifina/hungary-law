@@ -4,7 +4,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-a)[^1] integrált közösségi és szolgáltató tér: e rendeletben kötelezően előírt, valamint az integrált közösségi és szolgáltató tér (a továbbiakban: IKSZT) címbirtokosa által választott, a címbirtokosi okiratában jóváhagyott szolgáltatások együttese;
+a)[^2] integrált közösségi és szolgáltató tér: e rendeletben kötelezően előírt, valamint az integrált közösségi és szolgáltató tér (a továbbiakban: IKSZT) címbirtokosa által választott, a címbirtokosi okiratában jóváhagyott szolgáltatások együttese;
 
 b) IKSZT címbirtokosi pályázat: az Irányító Hatóság (a továbbiakban: IH) által meghirdetett, az IKSZT kialakítására alkalmas és jogosult ügyfelek kiválasztására irányuló pályázat;
 
@@ -16,13 +16,13 @@ e) IKSZT megvalósulási helyszín: a címbirtokosi okiratban az adott IKSZT kia
 
 f) kisléptékű infrastruktúra-fejlesztés: e rendelet 2. számú mellékletének 2. pontja szerinti tevékenység;
 
-g)[^2] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
+g)[^3] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
-h)[^3]
+h)[^4]
 
-i)[^4] működési kiadások elszámolási időszaka: egy naptári évben legfeljebb négy alkalommal megnyíló, a 11. § (1) bekezdésében meghatározott azon kifizetési kérelem benyújtási időszakok közötti időszak, melyben az ügyfél működési kiadást számol el a 3. § (1) bekezdés a)–c) pontja szerinti fejlesztés utolsó kifizetési kérelmének benyújtási időpontját követően az üzemeltetési kötelezettség ideje alatt;
+i)[^5] működési kiadások elszámolási időszaka: egy naptári évben legfeljebb négy alkalommal megnyíló, a 11. § (1) bekezdésében meghatározott azon kifizetési kérelem benyújtási időszakok közötti időszak, melyben az ügyfél működési kiadást számol el a 3. § (1) bekezdés a)–c) pontja szerinti fejlesztés utolsó kifizetési kérelmének benyújtási időpontját követően az üzemeltetési kötelezettség ideje alatt;
 
-j)[^5] támogatás időarányos része: a támogatási határozattal rendelkező címbirtokos, mint ügyfél részére valamennyi beruházási kifizetési kérelmére kifizetési határozattal jóváhagyott összes beruházási támogatás összegének 1/60-ad része, illetve működési támogatás esetén valamennyi működési kifizetési kérelmére kifizetési határozattal jóváhagyott összes működési támogatás 1/36-od része és a kötelezettség nem teljesítésével érintett hónapok számának szorzata;
+j)[^6] támogatás időarányos része: a támogatási határozattal rendelkező címbirtokos, mint ügyfél részére valamennyi beruházási kifizetési kérelmére kifizetési határozattal jóváhagyott összes beruházási támogatás összegének 1/60-ad része, illetve működési támogatás esetén valamennyi működési kifizetési kérelmére kifizetési határozattal jóváhagyott összes működési támogatás 1/36-od része és a kötelezettség nem teljesítésével érintett hónapok számának szorzata;
 
 k) IKSZT megvalósulási helyszínének alapterülete: a címbirtokosi okiratban az adott IKSZT kialakítására és működtetésére jóváhagyott földrészleten található épületnek, illetve épületrésznek az országos településrendezési és építészeti követelményekről szóló 253/1997. (XII. 28.) Korm. rendelet 1. számú melléklete szerinti hasznos, fejlesztéssel érintett alapterülete;
 
@@ -30,31 +30,31 @@ l) vonalas létesítmény: eső- és szennyvízgyűjtő csatorna, árok, külső
 
 m) ifjúságfejlesztés: a felnövekvő generációk tagjaival, a gyerekekkel, a fiatalokkal és fiatal felnőttekkel való, az egyéni fejlesztést és a közösségi munkát is magában foglaló, lehetőség szerint családjaikat is bevonó folyamat, amelynek alakítói, aktív résztvevői, kezdeményezői a gyerekek, a fiatalok és a fiatal felnőttek. Az ifjúságfejlesztés folyamat célja elsődlegesen az ifjúságban rejlő erőforrások kibontásának és a korosztályok társadalmi integrációjának elősegítése, amely a gyerekek tekintetében az optimális fejlődés lehetőségeinek biztosítása, segítése, mindezek védelme, a primer prevenció, a fiatalok tekintetében a társadalmi és gazdasági folyamatokban való aktív részvételre való felkészítés, a fiatal felnőttek tekintetében pedig a munkavállalás és egzisztencia-teremtés, a családalapítás és a közéleti-közösségi részvétel támogatása, valamint szerves részét képezi a korosztállyal foglalkozó szakemberek célirányos, specifikus képzése;
 
-n)[^6] agrár-, vagy vidékfejlesztés területén tevékenykedő szakmai szervezet képviselője: az IKSZT működési területén agrár-, vidék-, vagy közösségfejlesztéssel összefüggő gyakorlati és fejlesztő tevékenységet végző szakember, szaktanácsadó, az agrár- vidékfejlesztési szakigazgatási szervezetek, köztestületek, gazdasági és szakmai kamarák, tudástranszfert biztosító, innovációs és szakmai szervezetek munkatársa, LEADER Helyi Akciócsoport tagja vagy LEADER Helyi Akciócsoport munkaszervezetének tagja;
+n)[^7] agrár-, vagy vidékfejlesztés területén tevékenykedő szakmai szervezet képviselője: az IKSZT működési területén agrár-, vidék-, vagy közösségfejlesztéssel összefüggő gyakorlati és fejlesztő tevékenységet végző szakember, szaktanácsadó, az agrár- vidékfejlesztési szakigazgatási szervezetek, köztestületek, gazdasági és szakmai kamarák, tudástranszfert biztosító, innovációs és szakmai szervezetek munkatársa, LEADER Helyi Akciócsoport tagja vagy LEADER Helyi Akciócsoport munkaszervezetének tagja;
 
-o)[^7] ifjúsági információs pont szolgáltatás: olyan alapellátás jellegű humánszolgáltatás, amelynek elsődleges célja a fiatalok számára térítésmentes információ- és segítő szolgáltatásnyújtás;
+o)[^8] ifjúsági információs pont szolgáltatás: olyan alapellátás jellegű humánszolgáltatás, amelynek elsődleges célja a fiatalok számára térítésmentes információ- és segítő szolgáltatásnyújtás;
 
-p)[^8] IKSZT szolgáltatási- és programterv: az IKSZT kötelező és vállalt szolgáltatásainak igényfelmérésen alapuló naptári félévre meghatározott ütemezési terve, amely tartalmazza a szolgáltatásokhoz kötődő közösségi programok összességét, segíti azok megvalósítását, s alapját képezi a működéssel kapcsolatos ellenőrzéseknek;
+p)[^9] IKSZT szolgáltatási- és programterv: az IKSZT kötelező és vállalt szolgáltatásainak igényfelmérésen alapuló naptári félévre meghatározott ütemezési terve, amely tartalmazza a szolgáltatásokhoz kötődő közösségi programok összességét, segíti azok megvalósítását, s alapját képezi a működéssel kapcsolatos ellenőrzéseknek;
 
-q)[^9] IKSZT szolgáltatás-tervezési és beszámolási felület: a Herman Ottó Intézet által üzemeltetett, az IKSZT címbirtokos szervezet IKSZT szolgáltatási- és programtervének elkészítésére, feltöltésére, ellenőrzésére alkalmas online felület, amely egyben elsődleges kommunikációs csatorna az IH, a Herman Ottó Intézet és az IKSZT címbirtokosok között;
+q)[^10]
 
-r)[^10] szakmai beszámoló: az ügyfél által az üzemeltetési kötelezettség ideje alatt az IKSZT szolgáltatási- és programterv alapján megvalósított tevékenységéről a Herman Ottó Intézet részére a szakmai beszámolási időszakra vonatkozóan félévenként elkészített és elektronikus úton benyújtott beszámoló;
+r)[^11] szakmai beszámoló: az ügyfél által az üzemeltetési kötelezettség ideje alatt az IKSZT szolgáltatási- és programterv alapján megvalósított tevékenységéről a Magyar Államkincstár (a továbbiakban: kifizető ügynökség) részére a szakmai beszámolási időszakra vonatkozóan félévenként elkészített és benyújtott beszámoló;
 
-s)[^11] szakmai beszámolási időszak: az a beszámolással érintett naptári félév, amely időszakról az ügyfél elkészíti a szakmai beszámolóját;
+s)[^12] szakmai beszámolási időszak: az a beszámolással érintett naptári félév, amely időszakról az ügyfél elkészíti a szakmai beszámolóját;
 
-t)[^12] teljesítésigazolás: a Herman Ottó Intézet által kiállított, a szakmai beszámoló értékeléséről szóló, az IKSZT címbirtokosság alapján az ügyfelet terhelő szakmai kötelezettségek teljesítését igazoló okirat.
+t)[^13]
 
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatások egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell megfelelően alkalmazni.
 
-[^1]: A 2. § (1) bekezdés a) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés g) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés h) pontját a 121/2013. (XII. 16.) VM rendelet 10. § (4) bekezdése hatályon kívül helyezte.
-[^4]: A 2. § (1) bekezdés i) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdés j) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § (1) bekezdés n) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^7]: A 2. § (1) bekezdés o) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdés p) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdés q) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 3. § (1) bekezdésével megállapított, a 33/2015. (VII. 13.) MvM rendelet 6. § a)–b) pontja szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés r) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja, az 53/2015. (XII. 1.) MvM rendelet 16. § a) pontja szerint módosított szöveg.
-[^11]: A 2. § (1) bekezdés s) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege az 53/2015. (XII. 1.) MvM rendelet 16. § b) pontja szerint módosított szöveg.
-[^12]: A 2. § (1) bekezdés t) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés a) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés g) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés h) pontját a 121/2013. (XII. 16.) VM rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés i) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés j) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés n) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés o) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés p) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés q) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 17/2017. (VI. 7.) MvM rendelet 4. § a) pontja.
+[^11]: A 2. § (1) bekezdés r) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege az 53/2015. (XII. 1.) MvM rendelet 16. § a) pontja, a 17/2017. (VI. 7.) MvM rendelet 2. § a) pontja és 4. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés s) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege az 53/2015. (XII. 1.) MvM rendelet 16. § b) pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés t) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 17/2017. (VI. 7.) MvM rendelet 4. § c) pontja.

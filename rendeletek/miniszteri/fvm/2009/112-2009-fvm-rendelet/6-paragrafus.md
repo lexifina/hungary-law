@@ -2,6 +2,6 @@
 
 (2) Az e rendelet alapján igényelt támogatás összege kedvezményezettenként nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget.
 
-(3)[^16]
+(3)[^17]
 
-[^16]: A 6. § (3) bekezdését a 84/2012. (VIII. 2.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^17]: A 6. § (3) bekezdését a 84/2012. (VIII. 2.) VM rendelet 10. §-a hatályon kívül helyezte.

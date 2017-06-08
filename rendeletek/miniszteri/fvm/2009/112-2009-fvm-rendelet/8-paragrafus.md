@@ -1,4 +1,4 @@
-8. § (1)[^31] Az ügyfél – amennyiben címbirtokosi okiratában vállaltan szerepel – az alábbi szolgáltatásokat köteles a (2) bekezdés d)–l) pontjaiban meghatározott módon és alkalommal nyújtani az üzemeltetési kötelezettség ideje alatt:
+8. § (1)[^32] Az ügyfél – amennyiben címbirtokosi okiratában vállaltan szerepel – az alábbi szolgáltatásokat köteles a (2) bekezdés d)–l) pontjaiban meghatározott módon és alkalommal nyújtani az üzemeltetési kötelezettség ideje alatt:
 
 a) közösségfejlesztési folyamatok generálása, folyamatkövetése;
 
@@ -20,7 +20,7 @@ h) elektronikus közigazgatási végpont szolgáltatások biztosítása – köz
 
 i) Nemzeti Foglalkoztatási Szolgálat – munkaerőpiaci információs pont kialakítása.
 
-(1a)[^32] Amennyiben az (1) bekezdésben szereplő szolgáltatások a program jellegéből adódóan az IKSZT megvalósulási helyszínen nem valósíthatók meg, akkor attól eltérő helyszínen, de kizárólag az ügyfél által történő szervezésben megvalósíthatók.
+(1a)[^33] Amennyiben az (1) bekezdésben szereplő szolgáltatások a program jellegéből adódóan az IKSZT megvalósulási helyszínen nem valósíthatók meg, akkor attól eltérő helyszínen, de kizárólag az ügyfél által történő szervezésben megvalósíthatók.
 
 (2) Az ügyfél a címbirtokosi okiratban szereplő szolgáltatások nyújtása érdekében az alábbi feltételeket köteles teljesíteni:
 
@@ -62,23 +62,23 @@ ce) asztal,
 
 cf) szőnyeg;
 
-d)[^33] az (1) bekezdés a) pontja szerinti szolgáltatás nyújtásához kapcsolódóan a működés megkezdését követő 18 hónapon belül egy, az ügyféltől eltérő helyi civil szervezet vagy nem formális közösség létrejöttét, működését segíteni, amelyet a tagok nyilatkozatával köteles igazolni, vagy már működő, az ügyféltől eltérő helyi civil szervezetek, illetve nem formális közösségek számára szakmai beszámolási időszakonként legalább egy alkalommal a működésükkel kapcsolatos előadást, képzést, tanfolyamot, tréninget vagy tanácsadást tartani;
+d)[^34] az (1) bekezdés a) pontja szerinti szolgáltatás nyújtásához kapcsolódóan a működés megkezdését követő 18 hónapon belül egy, az ügyféltől eltérő helyi civil szervezet vagy nem formális közösség létrejöttét, működését segíteni, amelyet a tagok nyilatkozatával köteles igazolni, vagy már működő, az ügyféltől eltérő helyi civil szervezetek, illetve nem formális közösségek számára szakmai beszámolási időszakonként legalább egy alkalommal a működésükkel kapcsolatos előadást, képzést, tanfolyamot, tréninget vagy tanácsadást tartani;
 
-e)[^34] az (1) bekezdés b) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az IKSZT megvalósulási helyszín valamely helyiségét a működés megkezdését követően legkésőbb a harmadik hónaptól kezdődően az ügyféltől eltérő helyi civil szervezetek, illetve nem formális közösségek számára térítésmentesen rendelkezésre bocsátani, amelyet az ügyfél az adott szervezettel kötött megállapodással köteles igazolni;
+e)[^35] az (1) bekezdés b) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az IKSZT megvalósulási helyszín valamely helyiségét a működés megkezdését követően legkésőbb a harmadik hónaptól kezdődően az ügyféltől eltérő helyi civil szervezetek, illetve nem formális közösségek számára térítésmentesen rendelkezésre bocsátani, amelyet az ügyfél az adott szervezettel kötött megállapodással köteles igazolni;
 
-f)[^35] az (1) bekezdés c) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább tizenkét alkalommal, a tanórán kívül, az iskolai felzárkózást segítő, a középiskolai tanulmányokra felkészítő tankört, vagy a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény vonatkozó rendelkezései alapján bevett egyház által hit- és erkölcstanítást tartani;
+f)[^36] az (1) bekezdés c) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább tizenkét alkalommal, a tanórán kívül, az iskolai felzárkózást segítő, a középiskolai tanulmányokra felkészítő tankört, vagy a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény vonatkozó rendelkezései alapján bevett egyház által hit- és erkölcstanítást tartani;
 
-g)[^36] az (1) bekezdés d) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább tizenkét alkalommal a 0–5 éves korosztályú gyerekek foglalkoztatását, óvodai felkészítését célzó nappali, fejlesztő programot megvalósítani;
+g)[^37] az (1) bekezdés d) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább tizenkét alkalommal a 0–5 éves korosztályú gyerekek foglalkoztatását, óvodai felkészítését célzó nappali, fejlesztő programot megvalósítani;
 
-h)[^37] az (1) bekezdés e) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább két alkalommal egészségfejlesztési programot vagy egészségügyi szűrővizsgálatot szervezni;
+h)[^38] az (1) bekezdés e) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább két alkalommal egészségfejlesztési programot vagy egészségügyi szűrővizsgálatot szervezni;
 
 i) az (1) bekezdés f) pontja szerinti szolgáltatás nyújtásához kapcsolódóan a működés megkezdését követően az üzlethelyiség bérbeadása vagy az üzlethelyiség bérlésének lehetőségét meghirdetni;
 
-j)[^38] az (1) bekezdés g) pontja szerinti postai szolgáltatás nyújtásához kapcsolódóan helyiség biztosítása;
+j)[^39] az (1) bekezdés g) pontja szerinti postai szolgáltatás nyújtásához kapcsolódóan helyiség biztosítása;
 
-k)[^39] az (1) bekezdés h) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább egy alkalommal az elektronikus közigazgatási végpont szolgáltatással, annak használatával, vagy egyéb, az elektronikus közszolgáltatások igénybevételével kapcsolatos programot szervezni, amely lehet előadás, képzés, tanfolyam;
+k)[^40] az (1) bekezdés h) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább egy alkalommal az elektronikus közigazgatási végpont szolgáltatással, annak használatával, vagy egyéb, az elektronikus közszolgáltatások igénybevételével kapcsolatos programot szervezni, amely lehet előadás, képzés, tanfolyam;
 
-l)[^40] az (1) bekezdés i) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább két alkalommal a munka világával kapcsolatos előadást, tanfolyamot, tájékoztató rendezvényt szervezni.
+l)[^41] az (1) bekezdés i) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább két alkalommal a munka világával kapcsolatos előadást, tanfolyamot, tájékoztató rendezvényt szervezni.
 
 (3) A (2) bekezdés a) pontja szerinti helyiség többfunkciósan is kialakítható.
 
@@ -98,7 +98,7 @@ bd) konyhai eszközök.
 
 (5) Az ügyfél köteles a beruházásokat oly módon végrehajtani, hogy a beruházási művelet megvalósulásának időpontjától kezdve az IKSZT megvalósulási helyszín feleljen meg az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 1. pontjában, valamint az országos településrendezési és építészeti követelményekről szóló 253/1997. (XII. 28.) Korm. rendeletben megfogalmazott akadálymentes közlekedés előírásainak.
 
-(6)[^41] Az ügyfél a 7. § (2) bekezdés és az (1) bekezdés szerinti címbirtokosi okiratban feltüntetett szolgáltatásainak és az általa vállalt nyitvatartási kötelezettség ellátása érdekében köteles:
+(6)[^42] Az ügyfél a 7. § (2) bekezdés és az (1) bekezdés szerinti címbirtokosi okiratban feltüntetett szolgáltatásainak és az általa vállalt nyitvatartási kötelezettség ellátása érdekében köteles:
 
 a) munkavállalót alkalmazni az alábbiak szerint:
 
@@ -110,27 +110,23 @@ ac) az aa) és ab) alpontban foglaltaktól eltérően 2012. szeptember 1. után 
 
 b) a nyitva tartásnak megfelelő módon a helyettesítés rendjéről gondoskodni;
 
-c)[^42] legalább egy fő munkavállaló részére képesítés megszerzését biztosítani, amely képzést a 2013. január 1. előtt munkába állt munkavállaló legkésőbb 2013. június 30-áig, ezt követően legalább a munkába állást követő fél éven belül köteles megkezdeni, a képzés elvégzéséről kiállított igazolást legalább az iratőrzési kötelezettség végéig megőrizni.
+c)[^43] legalább egy fő munkavállaló részére képesítés megszerzését biztosítani, amely képzést a 2013. január 1. előtt munkába állt munkavállaló legkésőbb 2013. június 30-áig, ezt követően legalább a munkába állást követő fél éven belül köteles megkezdeni, a képzés elvégzéséről kiállított igazolást legalább az iratőrzési kötelezettség végéig megőrizni.
 
-(6a)[^43] Az ügyfél a (6) bekezdés a) pontja szerinti foglalkoztatási kötelezettségének közfoglalkoztatottal is eleget tehet, akár saját foglalkoztatás keretében, akár – amennyiben ezt a program nem zárja ki – más kormányzati program keretében történő közfoglalkoztatás útján. Ez esetben
+(6a)[^44] Az ügyfél a (6) bekezdés a) pontja szerinti foglalkoztatási kötelezettségének közfoglalkoztatottal is eleget tehet, akár saját foglalkoztatás keretében, akár – amennyiben ezt a program nem zárja ki – más kormányzati program keretében történő közfoglalkoztatás útján. Ez esetben
 
-a) legalább egy fő érettségi vizsgával rendelkező főállású, teljes munkaidőben, vagy legalább két fő érettségi vizsgával rendelkező részmunkaidőben foglalkoztatott közfoglalkoztatottat köteles foglalkoztatni és
+a)[^45] legalább egy fő érettségi vizsgával rendelkező főállású, teljes munkaidőben, vagy legalább két fő érettségi vizsgával rendelkező részmunkaidőben foglalkoztatott közfoglalkoztatottat köteles foglalkoztatni
 
-b) legalább egy fő részére köteles biztosítani a Herman Ottó Intézet által szervezett, a 6. melléklet szerinti képzés elvégzését, mely kötelezettség alól nem mentesíthető.
+b)[^46]
 
-(6b)[^44] A (6a) bekezdés b) pontja szerinti képzés költségét az ügyfél a közfoglalkoztatottra vagy annak közfoglalkoztatójára nem terhelheti.
+(6b)[^47]
 
-(6c)[^45] Amennyiben a közfoglalkoztatottat más kormányzati program keretében nem az ügyfél foglalkoztatja, úgy a közreműködés feltételeit az ügyfél, a közfoglalkoztató és a közfoglalkoztatott megállapodásban rögzíti.
+(6c)[^48] Amennyiben a közfoglalkoztatottat más kormányzati program keretében nem az ügyfél foglalkoztatja, úgy a közreműködés feltételeit az ügyfél, a közfoglalkoztató és a közfoglalkoztatott megállapodásban rögzíti.
 
-(7)[^46] A (6) bekezdés c) pontja szerinti képzés az alábbi formákban valósulhat meg:
+(7)[^49] A (6) bekezdés c) pontja szerinti képzés e-Tanácsadói képzés formájában valósulhat meg.
 
-a) e-Tanácsadói képzés formájában, vagy
+(8)[^50] Az ügyfél az üzemeltetési kötelezettség teljes időszakára vonatkozóan köteles:
 
-b)[^47] a Herman Ottó Intézet által indított, a 6. számú mellékletben meghatározott és tartalmilag részletezett képzés elvégzésével.
-
-(8)[^48] Az ügyfél az üzemeltetési kötelezettség teljes időszakára vonatkozóan köteles:
-
-a)[^49] minden naptári félévre vonatkozóan a 7. § (2) bekezdés, illetve a 7. § (7)–(13) bekezdés, valamint az (1) bekezdésnek, illetve a (2) bekezdés d)–l) pontjának megfelelő naptári félévre vonatkozó IKSZT szolgáltatási- és programtervet (a továbbiakban: programterv) készíteni. Az első programterv elkészítése és a Herman Ottó Intézet részére jóváhagyás céljából történő megküldése az üzemeltetési kötelezettség megkezdésétől számított 30 napon belül esedékes, időtartama a naptári félév végéig érvényes, a továbbiakban az első naptári félévre vonatkozó programtervet a tárgyévet megelőző év november 30., a második naptári félévre vonatkozó programtervet tárgyév május 31. napjáig az IKSZT szolgáltatás-tervezési és beszámolási felületen elkészítve a Herman Ottó Intézet részére jóváhagyás céljából megküldeni, amely programterv az alábbiakat tartalmazza:
+a)[^51] minden naptári félévre vonatkozóan a 7. § (2) bekezdés, illetve a 7. § (7)–(13) bekezdés, valamint az (1) bekezdésnek, illetve a (2) bekezdés d)–l) pontjának megfelelő naptári félévre vonatkozó IKSZT szolgáltatási- és programtervet (a továbbiakban: programterv) készíteni. Az első programterv elkészítése az üzemeltetési kötelezettség megkezdésétől számított 30 napon belül esedékes, időtartama a naptári félév végéig érvényes, a továbbiakban az első naptári félévre vonatkozó programtervet a tárgyévet megelőző év november 30., a második naptári félévre vonatkozó programtervet tárgyév május 31. napjáig kell elkészíteni, amely programterv az alábbiakat tartalmazza:
 
 aa) a 7. § (2) bekezdésének és az (1) bekezdésnek megfelelő, tervezett közösségfejlesztő és közösségi programok (a továbbiakban: közösségi programok) megnevezését,
 
@@ -150,39 +146,40 @@ bc) a közösségi programokon a résztvevők nevét, aláírását tartalmazó 
 
 bd) három darab, a közösségi programokról készített, a program különböző jellegzetes elemeit bemutató, a beszámolóban dátummal beazonosítható fényképfelvételt,
 
-c)[^50] a feladatait a Herman Ottó Intézettel kötött szakmai együttműködési megállapodás alapján végezni,
+c)[^52] a feladatait az IH-val kötött szakmai együttműködési megállapodás alapján végezni,
 
-d)[^51] az IKSZT működésével összefüggő dokumentumokat, iratokat elkülönítve nyilvántartani, azt az üzemeltetési időszak alatt, valamint a dokumentumok, iratok típusától függően a vonatkozó jogszabályok szerint, valamint az előírt határidő végéig megőrizni, azokba az IH, valamint a Herman Ottó Intézet képviselője részére a betekintést biztosítani,
+d)[^53] az IKSZT működésével összefüggő dokumentumokat, iratokat elkülönítve nyilvántartani, azt az üzemeltetési időszak alatt, valamint a dokumentumok, iratok típusától függően a vonatkozó jogszabályok szerint, valamint az előírt határidő végéig megőrizni, azokba az IH, valamint a kifizető ügynökség részére a betekintést biztosítani,
 
-e)[^52] valamely szolgáltatás ellátását, személyi változást, vagy az ügyfél, mint IKSZT címbirtokos szervezet jogi változásának bekövetkezését, a változás bekövetkezésétől számított 10 munkanapon belül, a változást igazoló dokumentumok ügyfél által hitelesített másolatának egyidejű megküldésével a Herman Ottó Intézet részére bejelenteni,
+e)[^54] valamely szolgáltatás ellátását, személyi változást, vagy az ügyfél, mint IKSZT címbirtokos szervezet jogi változásának bekövetkezését, a változás bekövetkezésétől számított 10 munkanapon belül, a változást igazoló dokumentumok ügyfél által hitelesített másolatának egyidejű megküldésével az IH részére bejelenteni,
 
 f) a foglalkoztatottak aláírásával igazolt, a munkavégzés idejét tartalmazó, jelenléti ívet naprakészen vezetni.
 
-(9)[^53] A (7) bekezdés a) és b) pontjában felsorolt képzések megszerzése helyettesíthető legfeljebb 10 éve megszerzett főiskolai, vagy egyetemi felsőfokú végzettséggel, amelynek hitelesített oklevélmásolatát az ügyfélnek meg kell küldenie a Herman Ottó Intézet részére. A Herman Ottó Intézet a megküldött dokumentumok alapján igazolást állít ki az ügyfél részére, amelyet az ügyfél az iratőrzési kötelezettség végéig köteles megőrizni.
+(9)[^55] A (7) bekezdésben előírt képzés megszerzése helyettesíthető legfeljebb 10 éve megszerzett főiskolai vagy egyetemi felsőfokú végzettséggel, amelynek hitelesített oklevélmásolatát az ügyfél az iratőrzési kötelezettség végéig köteles megőrizni.
 
-(10)[^54] A (7) bekezdés a) és b) pontjában felsorolt képzés megkezdéséről az ügyfél a munkavállaló munkába állását követő fél éven belül köteles a Herman Ottó Intézet felé jelenteni arról, hogy a munkavállaló a képzési kötelezettségeit határidőn belül megkezdte.
+(10)[^56]
 
-[^31]: A 8. § (1) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^32]: A 8. § (1a) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdése iktatta be.
-[^33]: A 8. § (2) bekezdés d) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § d) pontja szerint módosított szöveg.
-[^34]: A 8. § (2) bekezdés e) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^35]: A 8. § (2) bekezdés f) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, a 121/2013. (XII. 16.) VM rendelet 10. § (3) bekezdés b) pontja, az 53/2015. (XII. 1.) MvM rendelet 16. § f) pontja szerint módosított szöveg.
-[^36]: A 8. § (2) bekezdés g) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § f) pontja szerint módosított szöveg.
-[^37]: A 8. § (2) bekezdés h) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § e) pontja szerint módosított szöveg.
-[^38]: A 8. § (2) bekezdés j) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^39]: A 8. § (2) bekezdés k) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § d) pontja szerint módosított szöveg.
-[^40]: A 8. § (2) bekezdés l) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § e) pontja szerint módosított szöveg.
-[^41]: A 8. § (6) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított, nyitó szövegrésze az 53/2015. (XII. 1.) MvM rendelet 16. § g) pontja szerint módosított szöveg.
-[^42]: A 8. § (6) bekezdés c) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^43]: A 8. § (6a) bekezdését az 53/2015. (XII. 1.) MvM rendelet 15. § (1) bekezdése iktatta be.
-[^44]: A 8. § (6b) bekezdését az 53/2015. (XII. 1.) MvM rendelet 15. § (1) bekezdése iktatta be.
-[^45]: A 8. § (6c) bekezdését az 53/2015. (XII. 1.) MvM rendelet 15. § (1) bekezdése iktatta be.
-[^46]: A 8. § (7) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^47]: A 8. § (7) bekezdés b) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
-[^48]: A 8. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^49]: A 8. § (8) bekezdés a) pontja a 47/2013. (VI. 7.) VM rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
-[^50]: A 8. § (8) bekezdés c) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § d) pontja szerint módosított szöveg.
-[^51]: A 8. § (8) bekezdés d) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
-[^52]: A 8. § (8) bekezdés e) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
-[^53]: A 8. § (9) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
-[^54]: A 8. § (10) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
+[^32]: A 8. § (1) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^33]: A 8. § (1a) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdése iktatta be.
+[^34]: A 8. § (2) bekezdés d) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § d) pontja szerint módosított szöveg.
+[^35]: A 8. § (2) bekezdés e) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^36]: A 8. § (2) bekezdés f) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, a 121/2013. (XII. 16.) VM rendelet 10. § (3) bekezdés b) pontja, az 53/2015. (XII. 1.) MvM rendelet 16. § f) pontja szerint módosított szöveg.
+[^37]: A 8. § (2) bekezdés g) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § f) pontja szerint módosított szöveg.
+[^38]: A 8. § (2) bekezdés h) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § e) pontja szerint módosított szöveg.
+[^39]: A 8. § (2) bekezdés j) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^40]: A 8. § (2) bekezdés k) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § d) pontja szerint módosított szöveg.
+[^41]: A 8. § (2) bekezdés l) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § e) pontja szerint módosított szöveg.
+[^42]: A 8. § (6) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított, nyitó szövegrésze az 53/2015. (XII. 1.) MvM rendelet 16. § g) pontja szerint módosított szöveg.
+[^43]: A 8. § (6) bekezdés c) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^44]: A 8. § (6a) bekezdését az 53/2015. (XII. 1.) MvM rendelet 15. § (1) bekezdése iktatta be.
+[^45]: A 8. § (6a) bekezdés a) pontja a 17/2017. (VI. 7.) MvM rendelet 4. § e) pontja szerint módosított szöveg.
+[^46]: A 8. § (6a) bekezdés b) pontját a 17/2017. (VI. 7.) MvM rendelet 4. § e) pontja hatályon kívül helyezte.
+[^47]: A 8. § (6b) bekezdését az 53/2015. (XII. 1.) MvM rendelet 15. § (1) bekezdése iktatta be, hatályon kívül helyezte a 17/2017. (VI. 7.) MvM rendelet 4. § f) pontja.
+[^48]: A 8. § (6c) bekezdését az 53/2015. (XII. 1.) MvM rendelet 15. § (1) bekezdése iktatta be.
+[^49]: A 8. § (7) bekezdése a 17/2017. (VI. 7.) MvM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^50]: A 8. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^51]: A 8. § (8) bekezdés a) pontja a 47/2013. (VI. 7.) VM rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 17/2017. (VI. 7.) MvM rendelet 2. § b) pontja és 4. § g) pontja szerint módosított szöveg.
+[^52]: A 8. § (8) bekezdés c) pontja a 17/2017. (VI. 7.) MvM rendelet 2. § c) pontja szerint módosított szöveg.
+[^53]: A 8. § (8) bekezdés d) pontja a 17/2017. (VI. 7.) MvM rendelet 2. § d) pontja szerint módosított szöveg.
+[^54]: A 8. § (8) bekezdés e) pontja a 17/2017. (VI. 7.) MvM rendelet 2. § e) pontja szerint módosított szöveg.
+[^55]: A 8. § (9) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be, szövege a 17/2017. (VI. 7.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^56]: A 8. § (10) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be, hatályon kívül helyezte a 17/2017. (VI. 7.) MvM rendelet 4. § h) pontja.
