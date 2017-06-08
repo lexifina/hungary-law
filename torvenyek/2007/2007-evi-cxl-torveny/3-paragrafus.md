@@ -1,6 +1,6 @@
 ## Az egyesülési szerződés közös tervezete
 
-3. § (1) Az egyesülésben résztvevő tőkeegyesítő társaságok vezető tisztségviselői elkészítik az egyesülési szerződés közös tervezetét, amely – a Gt. 79. §-ának (1) bekezdésében felsoroltakon túl – minden esetben tartalmazza a következőket:
+3. § (1) Az egyesülésben résztvevő tőkeegyesítő társaságok vezető tisztségviselői elkészítik az egyesülési szerződés közös tervezetét, amely – az Átv. 14. § (1) bekezdésében felsoroltakon túl – minden esetben tartalmazza a következőket:
 
 a) az egyesülésben résztvevő tőkeegyesítő társaságok társasági részesedéseinek cserearányát és a jegyzett tőkén felüli vagyon terhére juttatható kiegészítő készpénzkifizetés mértékét, erre vonatkozó megállapodás esetén;
 

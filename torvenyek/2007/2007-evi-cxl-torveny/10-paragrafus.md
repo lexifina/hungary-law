@@ -1,6 +1,6 @@
 ## Munkavállalói részvétel
 
-10. § (1) Az egyesülés útján létrejövő társaságban biztosítani kell a munkavállalók döntéshozatalban történő részvételét a Gt. vonatkozó rendelkezéseinek megfelelően (Gt. 38–39. §).
+10. § (1) Az egyesülés útján létrejövő társaságban biztosítani kell a munkavállalók döntéshozatalban történő részvételét a Ptk. vonatkozó rendelkezéseinek megfelelően.
 
 (2) Az (1) bekezdéstől eltérően a munkavállalók döntéshozatalba történő bevonását a 11. §-ban meghatározott eljárás alapján kell megállapítani, ha
 

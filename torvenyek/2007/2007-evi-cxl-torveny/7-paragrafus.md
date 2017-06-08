@@ -1,4 +1,4 @@
-7. § (1) A tanúsítvány tartalmazza a kérelmező nevét, székhelyét és cégjegyzékszámát, az egyesüléssel létrejövő társaság formáját, cégnevét és székhelyét, valamint azt, hogy a tanúsítvány kiadását kérelmező társaság eleget tett-e az átalakulás időpontját megelőzően őt terhelő jogszabályi kötelezettségeinek. Amennyiben társasági határozat bírósági felülvizsgálatára irányuló per van folyamatban, ennek tényét a tanúsítvány tartalmazza.
+7. § (1) A tanúsítvány tartalmazza a kérelmező nevét, székhelyét és cégjegyzékszámát, az egyesüléssel létrejövő társaság formáját, cégnevét és székhelyét, valamint azt, hogy a tanúsítvány kiadását kérelmező társaság eleget tett-e az egyesülés időpontját megelőzően őt terhelő jogszabályi kötelezettségeinek. Amennyiben társasági határozat bírósági felülvizsgálatára irányuló per van folyamatban, ennek tényét a tanúsítvány tartalmazza.
 
 (2) Amennyiben a cégbíróság azt állapítja meg, hogy a kérelmező kötelezettségeinek nem vagy nem megfelelően tett eleget, úgy a tanúsítvány kiadását végzésben elutasítja, és megjelöli a hiányosságokat.
 

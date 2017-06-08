@@ -1,6 +1,6 @@
 12. § (1) Amennyiben az egyesülés útján létrejövő társaság vonatkozásában a 10. § (1) bekezdésének szabályai alkalmazandóak a munkavállalók részvételi jogának biztosítására, a társaságnál felügyelőbizottság létrehozása kötelező.
 
-(2) Az átalakulás időpontját követő három éven belül elhatározott, Gt. szerinti egyesülés esetén a határokon átnyúló egyesülés útján létrejött társaság vonatkozásában megállapított munkavállalói részvételi jogoktól csak a munkavállalók javára lehet eltérni.
+(2) Az egyesülés időpontját követő három éven belül elhatározott, Ptk. szerinti egyesülés esetén a határokon átnyúló egyesülés útján létrejött társaság vonatkozásában megállapított munkavállalói részvételi jogoktól csak a munkavállalók javára lehet eltérni.
 
 (3) A 6. § (1) bekezdése szerinti tanúsítvány iránti kérelemhez, illetve az egyesülés útján magyarországi székhellyel létrejövő társaság cégbejegyzése iránti kérelemhez csatolni kell
 
