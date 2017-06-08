@@ -1,0 +1,220 @@
+# A honvédelmi miniszter 6/2017. (VI. 8.) HM rendelete
+
+Magyar Közlöny 2017. évi 84. szám, 2017. június 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e870bdd0cb30158908a4017b1541f2924ac82479/dokumentumok/c51e0c0585bac7c48e791bde1e274889373a004e/letoltes)
+
+---
+
+A honvédelmi miniszter 6/2017. (VI. 8.) HM rendelete
+a külföldi szolgálatot teljesítők egyes járandóságairól szóló 18/2013. (IX. 5.) HM rendelet, valamint a katonai
+szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló
+10/2015. (VII. 30.) HM rendelet módosításáról
+A honvédek jogállásáról szóló 2012. évi CCV. törvény 238. § (2) bekezdés 30. pontjában, a közalkalmazottak jogállásáról szóló
+1992. évi XXXIII. törvény 85. § (5) bekezdés r) pontjában és (7) bekezdés a) pont ac) alpontjában, a honvédelemről és a Magyar
+Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (2) bekezdés
+f) pontjában kapott felhatalmazás alapján,
+a 2. alcím, valamint az 1. és 2. melléklet vonatkozásában a honvédek jogállásáról szóló 2012. évi CCV. törvény 238. § (2) bekezdés
+15. és 16. pontjában kapott felhatalmazás alapján,
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörömben
+eljárva a következőket rendelem el:
+1. A külföldi szolgálatot teljesítők egyes járandóságairól szóló 18/2013. (IX. 5.) HM rendelet módosítása
+1. §
+A külföldi szolgálatot teljesítők egyes járandóságairól szóló 18/2013. (IX. 5.) HM rendelet 49. § (2) bekezdésében
+az„Ukrajnába és Romániába”szövegrész helyébe az„Ukrajnába, Romániába és a Cseh Köztársaságba”szöveg lép.
+2. A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati
+eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosítása
+2. § (1) A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló
+10/2015. (VII. 30.) HM rendelet (a továbbiakban: R.) 4. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Alkalmasságvizsgálatokat kell végezni az 1. § hatálya alá tartozó személyek alkalmasságának elbírálása, megállapítása,
+illetve felülvizsgálata és az alkalmasság ellenőrzése céljából)
+„a) a szolgálati viszony 24/A. § (2) bekezdésére figyelemmel történő létesítését követően 14 napon belül,”
+(2) Az R. 4. § (2) bekezdése a következő o) ponttal egészül ki:
+(Alkalmasságvizsgálatokat kell végezni az 1. § hatálya alá tartozó személyek alkalmasságának elbírálása, megállapítása,
+illetve felülvizsgálata és az alkalmasság ellenőrzése céljából)
+„o) a szolgálati viszony létesítése előtt, ha a katonai szolgálatra jelentkező
+oa) a Honvédség személyi állományába tartozik, vagy
+ob) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) állományába jelentkezik.”
+
+3. §
+Az R. 20. § (3) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
+(Az egészségi alkalmasság minősítéséhez a következő leleteket, valamint okmányokat kell benyújtani:)
+„b) okmányok: Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány (a továbbiakban: TAJ kártya),
+a 10. melléklet szerinti, a háziorvosi, alapellátást végző orvos által kiadott tájékoztatás (a továbbiakban: Háziorvosi
+tájékoztatás), továbbá
+c) kiegészítő okmányok: a vizsgálat időpontjában betöltött vagy a tervezett beosztáshoz kapcsolódó munkaköri
+leírás, a 11. melléklet szerinti Prevenciós adatlap, a 12. melléklet szerinti „Egészségügyi adatlap és nyilatkozat”, ha
+a külföldi beosztás betöltéséhez szükséges, miniszteri utasításban kiadott minta szerinti„Entry Medical Examination”
+nevű dokumentum kitöltött és aláírt 1. és 2. oldala.”
+4. § (1) Az R. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 20. § (3) bekezdés a) és b) pontjában felsorolt leletek és okmányok bármelyikének hiányában az alkalmasság
+nem minősíthető, illetve a 4. § (2) bekezdés a) pontja szerinti esetben a jelentkezővel szolgálati viszony nem
+létesíthető.”
+(2) Az R. 23. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+„(6) Az összesített alkalmassági minősítést – a 4. § (2) bekezdés a) pontja kivételével – az EPAB vagy az EROB
+a vizsgálatok megkezdésétől számított 30 napon belül hozza meg. A 4. § (2) bekezdés a) pontja esetén legkésőbb
+a szolgálati viszony létesítésétől számított 14 napon belül kell az összesített alkalmassági minősítést meghozni.
+(7) Az EPAB vagy az EROB a (6) bekezdés szerinti határidőt – a 4. § (2) bekezdés a) pontja esetében alkalmazott
+határidő kivételével – egy alkalommal, legfeljebb 60 nappal meghosszabbíthatja.”
+5. §
+Az R. VII. Fejezete a következő 24/A. §-sal egészül ki:
+„24/A. § (1) A Háziorvosi tájékoztatást a katonai szolgálatra jelentkező az illetékes katonai igazgatási szerv részére
+leadja, amely szerv legkésőbb a leadást követő munkanapon megküldi azt az MH központi egészségügyi szervezete
+alkalmasságvizsgálatot végző szerve részére. Az EPAB a 19. melléklet szerinti dokumentumot a Háziorvosi
+tájékoztatásban közölt adatok alapján „javasolom”, vagy „nem javasolom” jelzéssel állítja ki és haladéktalanul, de
+legkésőbb a leadást követő 5 munkanapon belül megküldi az illetékes katonai igazgatási szerv részére.
+(2) A katonai szolgálatra jelentkezők esetében a szolgálati viszony létesítésére irányuló szerződés csak abban
+az esetben köthető meg, ha a katonai szolgálatra jelentkező által az illetékes katonai igazgatási szervnél leadott,
+kitöltött Háziorvosi tájékoztatás alapján az EPAB a 19. melléklet szerinti dokumentumot„javasolom”jelzéssel állítja ki.
+(3) A (2) bekezdés szerinti dokumentum alapján a katonai szolgálatra jelentkező és a szolgálati viszonyt létesített
+honvéd egészségi, pszichikai alkalmasságát az alkalmasság minősítésének 26. § szerinti megállapításáig, de
+legfeljebb a szolgálati viszony létesítését követő 14. napig vélelmezni kell azzal, hogy az alapkiképzés gyakorlati
+szakasza csak az érvényes alkalmassági minősítéssel rendelkező honvéddel kezdhető meg.
+(4) Az (1)–(3) bekezdés a KNBSZ állományába jelentkező, valamint a Honvédség személyi állományába tartozó és
+katonai szolgálatra jelentkező személy esetében nem alkalmazható.”
+6. §
+Az R. 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A KNBSZ főigazgatója által meghatározott szervezeti egység vezetője által az állományába jelentkezőről
+készített „beosztási tervezési lap”-on csak a Hjt. vhr. szerinti beosztási rovatot kell megjelölni, az alkalmasság
+elbírálásához nem kell benyújtani a beosztáshoz kapcsolódó munkaköri leírást.”
+7. §
+Az R. 38. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az EPAB, illetve a MAV az érvényben lévő „Beosztásában szolgálatra alkalmas” minősítés érvényességi idejét
+az elvégzett egészségi és pszichikai vizsgálat eredménye alapján megváltoztathatja vagy helyben hagyhatja.”
+8. §
+Az R. 54. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az önkéntes tartalékos katonai állományba jelentkező előzetes alkalmasságvizsgálatát az MH egészségügyi
+főnöke által a vizsgálat végrehajtására szakmailag jóváhagyott és a Honvéd Vezérkar főnöke által kijelölt vagy
+jóváhagyott orvosi rendelő orvosa, vagy az MH egészségügyi szervezete alkalmasságvizsgálatot végző szervének
+orvosa végzi.”
+
+9. §
+Az R. 36. alcíme a következő 82. §-sal egészül ki:
+„82. § E rendeletnek a külföldi szolgálatot teljesítők egyes járandóságairól szóló 18/2013. (IX. 5.) HM rendelet,
+valamint a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról
+szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 6/2017. (VI. 8.) HM rendelettel (a továbbiakban: Módr.)
+módosított 4. § (2) bekezdés a) pontját, 20. § (3) bekezdés b) és c) pontját, 23. § (1), (6) és (7) bekezdését, 25. §
+(3) bekezdését, 38. § (1) bekezdését, 54. § (2) bekezdését, 10. mellékletét, valamint a Módr.-rel megállapított 4. §
+(2) bekezdés o) pontját, 24/A. §-át, 38. § (2a) bekezdését és 19. mellékletét a Módr. hatálybalépésekor folyamatban
+lévő ügyekre is alkalmazni kell.”
+10. § (1) Az R. 10. melléklete helyébe az 1. melléklet lép.
+(2) Az R. a 2. melléklet szerinti 19. melléklettel egészül ki.
+11. §
+Az R.
+a) 25. § (1) bekezdésében a „Katonai Nemzetbiztonsági Szolgálathoz (a továbbiakban: KNBSZ)” szövegrész
+helyébe a„KNBSZ-hez”szöveg,
+b) 38. § (1) bekezdésében az„5 napon”szövegrész helyébe a„20 munkanapon”szöveg
+lép.
+12. §
+Hatályát veszti az R. 28. § (4) és (7) bekezdése.
+3. Záró rendelkezések
+13. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Dr. Simicskó István s. k.,
+ honvédelmi miniszter
+1. melléklet a 6/2017. (VI. 8.) HM rendelethez
+„10. melléklet a 10/2015. (VII. 30.) HM rendelethez
+Háziorvosi, alapellátást végző orvosi tájékoztatás
+Tisztelt Háziorvos – Alapellátást végző orvos Úr/Úrhölgy!
+Alulírott, ............................................................................................................... szül. idő ....................................................................................
+anyja neve: ....................................................................................
+lakcíme: ....................................................................................
+TAJ száma: .................................................................................... kérem
+a rendelkezésére álló egészségi adataim közlését.
+Az egészségi állapotomról történő tájékoztatás megadása szolgálati viszony létesítése előtti / szolgálati viszonyomra
+tekintettel miniszteri rendeletben előírt egészségi, pszichikai alkalmasságom vizsgálatához szükséges.
+ ....................................................................................
+ a jelentkező aláírása
+Dátum: ....................................................................................
+
+Családi anamnézisben szereplő örökletes vagy egyéb betegsége .......................................................................................................
+Kezelték-e, illetve kezelik-e (műtét is ideértendő)
+a következő betegségekkel:
+szív- és érbetegség: ......................................................................... magas vérnyomás: ........................................................................
+tüdőgyulladás, tüdőasztma: ......................................................... tüdőgümőkor (Tbc): ......................................................................
+allergia, szénanátha: ........................................................................ cukorbetegség: ...............................................................................
+fekélybetegség (gyomor-nyombél): ..........................................
+gasztroenterológiai gondozás alatt
+áll-e: .......................................................................................................
+endokrinológiai betegség: .........................................................
+ételallergia: ......................................................................................
+szembetegség, látáscsökkenés (+ 3 dioptriánál erősebb
+vese-, májbetegség: .........................................................................
+hematológiai betegség: .................................................................
+fülbetegség, súlyos nagyothallás: ...............................................
+urológiai betegség: ..........................................................................
+nőgyógyászati betegség: ...............................................................
+szemüveg): ........................................................................................
+látásjavító beavatkozás (mikor): ................................................
+zöldhályog: ........................................................................................
+súlyos elhízás: ...................................................................................
+epilepszia, görcsrohamok: ...........................................................
+sérv: .......................................................................................................
+rosszindulatú daganat (5 éven belül): .......................................
+A fent felsoroltak között nem szereplő egyéb, gondozást
+igénylő betegsége: ..........................................................................
+idegkimerültség: .............................................................................
+egyéb pszichiátriai megbetegedés: .........................................
+mozgásszervi betegség: ...............................................................
+Fertőző megbetegedések: ...................................................................................................................................................................................
+Sérülések, balesetek:...............................................................................................................................................................................................
+Jelenleg áll-e gyógyszeres kezelés alatt: .........................................................................................................................................................
+Gyermek-, serdülőpszichiátriai, pszichológiai gondozás: .........................................................................................................................
+Van-e tudomása gyógypedagógiai gondozásról: .......................................................................................................................................
+Fogyasztott-e, fogyaszt-e rendszeresen alkoholt: .......................................................................................................................................
+Fogyaszt-e kábító hatású szert: ..........................................................................................................................................................................
+Volt-e, van-e beszéd-, írás-, olvasás-, számolászavara: ...............................................................................................................................
+Volt-e alvászavar: .....................................................................................................................................................................................................
+Volt-e eszméletvesztés, ájulás: ............................................................................................................................................................................
+Volt-e ágybavizelés: ................................................................................................................................................................................................
+Volt-e öngyilkossági kísérlet: ...............................................................................................................................................................................
+Kezelték-e kórházban, ideg-, pszichiátriai gyógyintézetben: ..................................................................................................................
+Kórházi, gyógyintézeti ellátás, műtét (a kezelés helye, ideje):.................................................................................................................
+Kórisme: .....................................................................................................................................................................................................................
+Volt-e orvosszakértői vizsgálata (mikor, milyen okból): ...........................................................................................................................
+Megállapítottak-e munkaképesség csökkenést (hány %-ot): .................................................................................................................
+Egy évre visszamenőleg betegállományban/eü. szabadságon töltött napok száma: ..................... nap.
+Egyéb közlendő: .......................................................................................................................................................................................................
+Dátum: ....................................................................................
+P. H.
+....................................................................................
+illetékes háziorvos – alapellátást végző orvos
+Az alábbi adatvédelmi tájékoztatóban foglaltakat tudomásul veszem.
+Dátum: ....................................................................................
+ ....................................................................................
+ jelentkező aláírása
+
+Adatvédelmi tájékoztató
+A Háziorvosi tájékoztatásban szereplő személyes és különleges adatoknak a kezelése az egészségi, pszichikai és fizikai alkalmassági
+feltételek fennállásának megállapítása céljából történik. A katonai szolgálatra való egészségi, pszichikai alkalmasság megállapításához
+szükséges személyes és különleges adatokat is tartalmazó Háziorvosi tájékoztatást az alkalmassági vizsgálatot kezdeményező
+illetékes katonai szerv1 ................................................................................................ (a továbbiakban: katonai szerv) – az adatok megfelelő szintű
+védelmének biztosításával – továbbítja a Magyar Honvédség központi egészségügyi szervezete alkalmasságvizsgálatot végző szerve
+részére (6000 Kecskemét, Balaton u. 17., telefonszám: 06(76)581-600; e-mail-cím: mh.ek.ravgyi.avi@hm.gov.hu).
+A katonai szerv a jelentkező adatait a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos
+katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény (a továbbiakban: Haktv.) 9. §-a alapján kezeli.
+A Háziorvosi tájékoztatásban szereplő személyes és különleges adatoknak a kezelése az egészségi, pszichikai és fizikai alkalmassági
+feltételek fennállásának megállapítása céljából a továbbiakban a Haktv. 8. §-a, valamint az egészségügyi és a hozzájuk kapcsolódó
+személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezéseire figyelemmel történik.
+A jelentkezők az adatkezelés teljes időtartama alatt élhetnek az információs önrendelkezési jogról és az információszabadságról
+szóló 2011. évi CXII. törvényben biztosított jogukkal (tájékoztatáshoz, helyesbítéshez, törléshez, zároláshoz, tiltakozáshoz való jog),
+továbbá jogsérelem esetén bírósághoz, valamint a Nemzeti Adatvédelmi és Információszabadság Hatósághoz (1125 Budapest,
+Szilágyi Erzsébet fasor 22/C; tel.: +36 (1) 391-1400; e-mail: ugyfelszolgalat@naih.hu; honlap: www.naih.hu) is fordulhatnak.
+1 A kezdeményező illetékes katonai szerv megnevezése és elérhetőségi adatainak (cím, telefonszám, e-mail-cím, honlap) szerepeltetése szükséges,
+amelyet e szerv tölt ki.”
+2. melléklet a 6/2017. (VI. 8.) HM rendelethez
+„19. melléklet a 10/2015. (VII. 30.) HM rendelethez
+Honvédelmi szervezet megnevezése
+Javaslat katonai kiképzés megkezdéséhez
+Név: ....................................................................................
+Anyja neve: ....................................................................................
+Szül. hely, idő: ....................................................................................
+Vizsgálat időpontja: ....................................................................................
+Javaslatot kérő katonai szervezet: ....................................................................................
+A beküldött háziorvosi tájékoztatóban közölt adatok alapján a kiképzés megkezdését
+Javasolom Nem javasolom
+Az ezen iratban kiadott javaslat az összesített alkalmassági minősítés kiadásakor, ill. a próbaidő letelte után érvényét
+veszti.
+Dátum: ....................................................................................
+ ....................................................................................
+ Elsőfokú Pályaalkalmasság-vizsgáló Bizottság”
+
+IX. Határozatok Tára
