@@ -44,7 +44,7 @@
 
 | 21. | – | – | – I. évfolyamos tisztjelölt – altisztjelölt | – | 1,00 |
 
-8. melléklet a 18/2013. (IX. 5.) HM rendelethez[^130]
+8. melléklet a 18/2013. (IX. 5.) HM rendelethez[^131]
 
 Az egyes engedélyező elöljárói jogkörök gyakorlásának rendje
 
@@ -156,4 +156,4 @@ Az egyes engedélyező elöljárói jogkörök gyakorlásának rendje
 
 | 53. | 17.3. a 2. § (2) bekezdés f) pont fd) alpontja szerinti állomány | a Honvédség középszintű vezető szervének parancsnoka |
 
-[^130]: A 8. mellékletet a 9/2015. (VII. 13.) HM rendelet 18. § (4) bekezdése iktatta be.
+[^131]: A 8. mellékletet a 9/2015. (VII. 13.) HM rendelet 18. § (4) bekezdése iktatta be.

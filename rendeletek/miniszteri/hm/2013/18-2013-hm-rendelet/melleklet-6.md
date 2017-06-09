@@ -76,6 +76,6 @@
 
 |  | 5. | 4. extrém | 2,42 |
 
-6. melléklet a 18/2013. (IX. 5.) HM rendelethez[^128]
+6. melléklet a 18/2013. (IX. 5.) HM rendelethez[^129]
 
-[^128]: A 6. melléklet a 9/2015. (VII. 13.) HM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^129]: A 6. melléklet a 9/2015. (VII. 13.) HM rendelet 18. § (2) bekezdésével megállapított szöveg.
