@@ -1,0 +1,3 @@
+3. § (1) Az Eht. 83/B. § (1) bekezdése szerinti jogvitás eljárás megindítására irányuló kérelemhez csatolni kell a jogvitás eljárás tárgyát képező, a kérelem benyújtását megelőzően az üggyel kapcsolatban a felek által egymásnak megküldött, valamint az egyeztetésekről készült dokumentumokat, így különösen jegyzőkönyveket, kép- vagy hangfelvételeket vagy emlékeztetőket.
+
+(2) Ha a kérelmező megállapodás létrehozását kéri a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) jogvitás ügyben eljáró tanácsától (a továbbiakban: eljáró tanács), akkor a kérelemhez csatolt, a megállapodásra vonatkozó szövegszerű javaslatnak tartalmaznia kell az ajánlat 2. § (1) bekezdése szerinti tartalmi elemeit.

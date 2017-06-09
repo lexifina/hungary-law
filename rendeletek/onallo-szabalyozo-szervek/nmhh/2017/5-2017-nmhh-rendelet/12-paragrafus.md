@@ -1,0 +1,5 @@
+## 5. A tervezett építési munkák átláthatóságával kapcsolatos jogvita
+
+12. § (1) Az Eht. 93/B. § (6) bekezdése szerinti, a tervezett építési munkák átláthatóságával kapcsolatos jogvitás eljárás lefolytatására irányuló kérelemnek tartalmaznia kell az Eht. 83/A. és 83/B. §-a szerinti összehangolt építési munka keretében kiépíteni kívánt nagy sebességű elektronikus hírközlő hálózati elemek meghatározását és azok jellemzőit, így különösen az építési munka típusát, az alkalmazott technológiát és a földrajzi helyet, a munkavégzés tervezett kezdési időpontját és ütemezését. A kérelemhez csatolni kell a jogvitás eljárás tárgyát képező, a kérelem benyújtását megelőzően az üggyel kapcsolatban a felek által egymásnak megküldött, valamint az egyeztetésekről készült dokumentumokat, így különösen jegyzőkönyveket, kép- vagy hangfelvételeket vagy emlékeztetőket.
+
+(2) A jogvitás eljárás során a hálózatüzemeltetőnek kell bizonyítania az Eht. 93/B. § (4) bekezdése szerinti valamely megtagadási ok fennállását.

@@ -1,0 +1,3 @@
+11. § (1) Az Eht. 93/A. § (8) bekezdése szerinti, a hálózatüzemeltetőt adatszolgáltatásra kötelező határozatában az eljáró tanács meghatározza a hálózatüzemeltető által az elektronikus hírközlési szolgáltató részére szolgáltatni rendelt adatok körét, az adatszolgáltatás teljesítésének formáját és határidejét.
+
+(2) Az Eht. 93/A. § (8) bekezdése szerinti, a hálózatüzemeltetőt a helyszíni vizsgálat lefolytatása lehetőségének biztosítására kötelező határozatában az eljáró tanács – amennyiben a helyszíni vizsgálat megtartásával összefüggésben a hálózatüzemeltetőnek indokolt és igazolható költsége merül fel – rendelkezik a helyszíni vizsgálattal összefüggésben felmerülő költségek viseléséről.
