@@ -1,6 +1,6 @@
-33. § (1)[^94] A hallgatói ösztöndíj-támogatás esetében a jogosulti létszám az államilag támogatott teljes idejű alapképzésben, mesterképzésben, egyetemi szintű képzésben, főiskolai szintű képzésben vagy felsőoktatási szakképzésben részt vevő hallgatók száma. A számítás során a 2006. szeptember 1-je előtt tanulmányokat kezdett hallgatókat legfeljebb a képzési időt nem meghaladó számú félévben lehet figyelembe venni.
+33. § (1)[^95] A hallgatói ösztöndíj-támogatás esetében a jogosulti létszám az államilag támogatott teljes idejű alapképzésben, mesterképzésben, egyetemi szintű képzésben, főiskolai szintű képzésben vagy felsőoktatási szakképzésben részt vevő hallgatók száma. A számítás során a 2006. szeptember 1-je előtt tanulmányokat kezdett hallgatókat legfeljebb a képzési időt nem meghaladó számú félévben lehet figyelembe venni.
 
-(2)[^95] A kollégiumi támogatás esetében a jogosulti létszám azoknak a hallgatóknak a száma, akik államilag támogatott vagy a 26. § (1) bekezdése szerinti önköltséges teljes idejű képzésben vesznek részt, és
+(2)[^96] A kollégiumi támogatás esetében a jogosulti létszám azoknak a hallgatóknak a száma, akik államilag támogatott vagy a 26. § (1) bekezdése szerinti önköltséges teljes idejű képzésben vesznek részt, és
 
 a) az intézmény kollégiumában,
 
@@ -10,7 +10,7 @@ c) e rendelet szerinti a kollégiumi, diákotthoni követelményeket teljesítő
 
 ## vannak elhelyezve.
 
-(3)[^96] A lakhatási támogatáshoz rendelkezésre álló támogatás esetében a jogosulti létszám a felsőoktatási intézményben államilag támogatott teljes idejű képzésben részt vevő hallgatók létszáma levonva a képzés helyén bejelentett lakóhellyel rendelkező államilag támogatott teljes idejű képzésben részt vevők létszámának 95%-át, továbbá levonva a (2) bekezdés szerinti létszámot.
+(3)[^97] A lakhatási támogatáshoz rendelkezésre álló támogatás esetében a jogosulti létszám a felsőoktatási intézményben államilag támogatott teljes idejű képzésben részt vevő hallgatók létszáma levonva a képzés helyén bejelentett lakóhellyel rendelkező államilag támogatott teljes idejű képzésben részt vevők létszámának 95%-át, továbbá levonva a (2) bekezdés szerinti létszámot.
 
 (4) A doktorandusz ösztöndíj esetében a jogosulti létszám a felsőoktatási intézményben államilag támogatott teljes idejű doktori képzésben részt vevők létszáma.
 
@@ -20,6 +20,6 @@ c) e rendelet szerinti a kollégiumi, diákotthoni követelményeket teljesítő
 
 (7) Az egyes normatívák év közbeni változása esetén a jogosult létszámok megállapítása a képzési időszakok (tanulmányi félévek) rendjét követik.
 
-[^94]: A 33. § (1) bekezdése a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének i) pontjával megállapított, a 220/2014. (VIII. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^95]: A 33. § (2) bekezdés nyitó szövegrésze a 220/2014. (VIII. 29.) Korm. rendelet 9. § m) pontja szerint módosított szöveg.
-[^96]: A 33. § (3) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 26. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^95]: A 33. § (1) bekezdése a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének i) pontjával megállapított, a 220/2014. (VIII. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^96]: A 33. § (2) bekezdés nyitó szövegrésze a 220/2014. (VIII. 29.) Korm. rendelet 9. § m) pontja szerint módosított szöveg.
+[^97]: A 33. § (3) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 26. § (2) bekezdésének b) pontja szerint módosított szöveg.
