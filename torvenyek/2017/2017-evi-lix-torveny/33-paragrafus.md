@@ -1,0 +1,1 @@
+33. § A Ttv. 15/B. § b) pontjában az „a 4. mellékletében felsorolt országos gyógyintézetek” szövegrész helyébe az „az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek” szöveg lép.
