@@ -276,6 +276,12 @@
 
 1.136. M7 autópálya 2x3 sávra bővítése Balatonvilágos és Budapest között – előkészítése.
 
+1.137. Tokaj–Mád–Sárospatak kerékpáros útvonal fejlesztése.
+
+1.138. Vámosszabadi–Győr kerékpáros útvonal fejlesztése.
+
+1.139. Tiszafüred–Hortobágy kerékpáros útvonal fejlesztése.
+
 2. Vasúti közlekedési projektek
 
 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
@@ -484,4 +490,4 @@
 
 4.5. Vízi úti információs rendszer kiépítése.
 
-[^31]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^31]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.

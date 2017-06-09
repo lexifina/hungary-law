@@ -562,6 +562,14 @@
 
 1.279. M7 autópálya 2x3 sávra bővítése Balatonvilágos és Budapest között – előkészítése.
 
+1.280. Tokaj–Mád–Sárospatak kerékpáros útvonal fejlesztése.
+
+1.281. Vámosszabadi–Győr kerékpáros útvonal fejlesztése.
+
+1.282. Tiszafüred–Hortobágy kerékpáros útvonal fejlesztése.
+
+1.283. Székesfehérvár déli összekötőút megvalósítása.
+
 2. Egyes országos vasúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
@@ -895,4 +903,4 @@
 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
 [^29]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet a 490/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
