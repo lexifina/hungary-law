@@ -1,4 +1,4 @@
-17. §[^143] (1) A Tao. tv. 22/C. § (1) bekezdés c) pontja ce) alpontjában meghatározott támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) rendelkezéseivel összhangban nyújtható.
+17. §[^145] (1) A Tao. tv. 22/C. § (1) bekezdés c) pontja ce) alpontjában meghatározott támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) rendelkezéseivel összhangban nyújtható.
 
 (2) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatások bruttó támogatástartalmának összege nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -12,4 +12,4 @@
 
 (7) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^143]: A 17. § a 96/2016. (V. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^145]: A 17. § a 96/2016. (V. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
