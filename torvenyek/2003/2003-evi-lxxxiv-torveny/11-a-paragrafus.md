@@ -28,7 +28,7 @@ kell sorolni.
 
 (6a) A gyógyszerész, szakgyógyszerész munkakörben (a továbbiakban együtt: gyógyszerész munkakörben) foglalkoztatott egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 75 820 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
-(7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményalapra (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
+(7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményre (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
 
 (8) A (6) és (6a) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
 
