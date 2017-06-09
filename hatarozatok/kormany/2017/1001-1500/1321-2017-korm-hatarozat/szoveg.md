@@ -8,4 +8,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-3. visszavonja az egyes állami ingatlanok a Konstantinápolyi Egyetemes Patriarchátus – Magyarországi Ortodox Exarchátus által történő hasznosításával összefüggő feladatokról szóló 1287/2016. (VI. 8.) Korm. határozat 4. pontját.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
