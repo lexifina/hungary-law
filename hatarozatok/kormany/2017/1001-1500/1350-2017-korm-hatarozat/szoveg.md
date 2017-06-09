@@ -1,0 +1,1 @@
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra figyelemmel beruházási célterületté nyilvánítja a Jánossomorja város külterületén fekvő, az ingatlan-nyilvántartás szerint 0158/53 helyrajzi számú földrészletet.
