@@ -1,3 +1,0 @@
-8. § A Ctv. 59. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A beolvadás bejegyzése iránti kérelmet az átvevő cég székhelye szerinti cégbíróságon kell előterjeszteni, az átvevő cég létesítő okirata módosításának aláírásától, illetve elfogadásától, ennek hiányában az egyesülési szerződés jóváhagyásától (aláírásától) számított hatvan napon belül. Egyidejűleg kérni kell a jogelőd beolvadó cég(ek) törlését is. A kérelemben fel kell tüntetni valamennyi beolvadó cég székhelyét és cégjegyzékszámát. Ha a kérelemben a jogutód cég székhelyeként az átvevő cég székhelyétől eltérő cégbíróság illetékességi területén lévő címet tüntetnek fel, az átvevő cég székhelye szerinti cégbíróság az 54. § (1)–(3) bekezdésében foglalt rendelkezéseket is alkalmazza.”
