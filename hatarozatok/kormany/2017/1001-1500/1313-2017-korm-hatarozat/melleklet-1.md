@@ -18,35 +18,7 @@
 
 ## c) egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1245/2016. (V. 18.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 34. 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása jogcímcsoport K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 40 000 ezer forintból 39 800 ezer forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 2. A Habsburg Ottó Alapítvány létrehozásáról, valamint a működéséhez szükséges feltételek és forrás biztosításáról szóló 1099/2017. (III. 6.) Korm. határozat a következő 2.a. ponttal egészül ki:
-
-## „2.a. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet címrendjének a 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím,
-
-## a) 91. Habsburg Ottó Alapítvány létrehozásához, céljainak megvalósításához szükséges, alapítói okirat szerinti pénzbeli vagyonrendelés jogcímcsoporttal és
-
-## b) 92. Habsburg Ottó Alapítvány működéséhez és feladatainak ellátásához szükséges hozzájárulás jogcímcsoporttal
-
-## történő kiegészítését.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal”
-
-## 3. A Habsburg Ottó Alapítvány létrehozásáról, valamint a működéséhez szükséges feltételek és forrás biztosításáról szóló 1099/2017. (III. 6.) Korm. határozat 3. pont a) alpontjában a „Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.)” szövegrész helyébe a „Kvtv.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1070/2016. (II. 25.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. március 31.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1348/2016. (VII. 6.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 3000,0 millió forint tekintetében 2018. március 31.” szöveg lép.
-
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontjában a „2018. június 30.” szövegrész helyébe a „2018. június 30., a Területfejlesztéssel összefüggő feladatok jogcímcsoport javára átcsoportosított 1 441 000 ezer forint tekintetében 2018. június 30.” szöveg lép.
-
-## 7. Egyes fejezetek közötti előirányzat átcsoportosításról szóló 1668/2016. (XI. 23.) Korm. határozatban a „2017. április 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
-
-## 8. Az egyes kiemelt sportcélú fejlesztési beruházások forrásszükségletének biztosításáról szóló 1801/2016. (XII. 20.) Korm. határozat 1. mellékletében az „Egyéb sportcélú ingatlanok építése, felújítása” szövegrész helyébe az „Egyéb sportcélú ingatlanok építése, felújítása, vásárlása” szöveg lép.
-
-## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, előirányzattal nem rendelkező közfeladathoz kapcsolódó tárgyévi és tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1038/2017. (II. 2.) Korm. határozat 1. pont a) alpontjában a „2018. február 15.” szövegrész helyébe a „2018. február 15., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 2865,0 millió forint tekintetében 2018. március 31.” szöveg lép.
+## 2–9.[^1]
 
 1. melléklet az 1313/2017. (VI. 8.) Korm. határozathoz
 
@@ -217,3 +189,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
