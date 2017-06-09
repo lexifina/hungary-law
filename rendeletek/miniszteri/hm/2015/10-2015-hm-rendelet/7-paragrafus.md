@@ -10,11 +10,11 @@ d) „Honvéd altiszt-jelöltnek alkalmas”,
 
 e) „Önkéntes tartalékos katonai szolgálatra alkalmas”,
 
-f)[^11] „Tervezett beosztásra alkalmas”,
+f)[^13] „Tervezett beosztásra alkalmas”,
 
-g)[^12] „Honvédségi ösztöndíjasnak alkalmas”, vagy
+g)[^14] „Honvédségi ösztöndíjasnak alkalmas”, vagy
 
-h)[^13] „Önkéntes területvédelmi tartalékos szolgálatra alkalmas”
+h)[^15] „Önkéntes területvédelmi tartalékos szolgálatra alkalmas”
 
 ## minősítés adható a 3. § szerinti követelményekre és a vizsgálat céljára figyelemmel.
 
@@ -56,6 +56,6 @@ e) „Honvédségi ösztöndíjasnak alkalmatlan”
 
 (7) A „Katonai szolgálatra alkalmatlan” minősítést első fokon a katonai szolgálatra jelentkezőkre az EPAB, honvédek esetében csak az MH egészségügyi szervezete MFÜV, másodfokon a KFÜV hozhat.
 
-[^11]: A 7. § (1) bekezdés f) pontja a 25/2016. (XII. 22.) HM rendelet 97. § (1) bekezdésével megállapított szöveg.
-[^12]: A 7. § (1) bekezdés g) pontja a 25/2016. (XII. 22.) HM rendelet 97. § (1) bekezdésével megállapított szöveg.
-[^13]: A 7. § (1) bekezdés h) pontját a 25/2016. (XII. 22.) HM rendelet 97. § (2) bekezdése iktatta be.
+[^13]: A 7. § (1) bekezdés f) pontja a 25/2016. (XII. 22.) HM rendelet 97. § (1) bekezdésével megállapított szöveg.
+[^14]: A 7. § (1) bekezdés g) pontja a 25/2016. (XII. 22.) HM rendelet 97. § (1) bekezdésével megállapított szöveg.
+[^15]: A 7. § (1) bekezdés h) pontját a 25/2016. (XII. 22.) HM rendelet 97. § (2) bekezdése iktatta be.

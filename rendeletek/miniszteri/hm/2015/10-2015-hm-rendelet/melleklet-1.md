@@ -1,4 +1,4 @@
-## 83. §[^38]
+## 83. §[^55]
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2540,44 +2540,4 @@ e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
 
 a) Cystitis chronica, abscessus urethralis, urethritis, prostatitis chronica, epididymitis, orchitis.
 
-b) We, teljes vérkép és vizelet, 2 pohár (kivételes esetben 3 pohár) próba, vizelet bact. és Koch-tenyésztés.
-
-c) Recidiváló, rosszul kezelhető esetekben 132.2 rovat szerint „E” minősítés is adható. Hivatásos és szerződéses állományba vétel esetén a 132.1 „E”.
-
-d) K: 3–4, 6, 11–12, 14, 21; F: 1–2.
-
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
-
-| 133 Húgycsőszűkület | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | enyhe | KLGS | KLGS | K | K | N35 |
-
-| 2. | súlyos | E | E | E | KLGS |
-
-a) Strictura urethrae, strictura meati urinariae.
-
-b) Katheterezés.
-
-c) 133.1. alszakasz szerint minősítendők a vizeletürítést enyhén gátló, vizeletretentiot nem okozó esetek. Hivatásos és szerződéses állományba vételkor a minősítés a 133.1 „E”.
-
-133.2. alszakasz szerint minősítendők a tágításra, műtéti korrekcióra szoruló, vizeletretentiot okozó esetek.
-
-d) K: 4, 6, 11–13, 21; F: 1.
-
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető, kivéve a szolgálati baleset után kialakult húgycsőszűkület esetén.
-
-| 134 Herevíztömlő- és herevisszérsérv | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | enyhe formák | A | A | A | A | N43 |
-
-| 2. | kp. súlyos formák | I | KLGS | K | K |
-
-| 3. | súlyos formák | E | E | KLGS | KLGS |
-
-a) Hydrocele encystica et infectiosa.
-
-b) Részletes fizikális lehet, műtéti leírás.
-
-c) 134.1. alszakasz szerint minősítendők a kisfokú, mozgást nem gátló, műtétet nem igénylő esetek. 134.2. alszakasz szerint minősítendők a műtéti correctióra szoruló esetek. A 134.3. alszakasz szerint kell minősíteni a súlyos és jelentős kiterjedésű vagy ismételten műtött eseteket. Hivatásos és szerződéses állománybavételkor a minősítés 134.2 „E”.
-
-[^38]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

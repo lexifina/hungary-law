@@ -4,13 +4,13 @@
 
 (2) Alkalmasság-vizsgálatokat kell végezni az 1. § hatálya alá tartozó személyek alkalmasságának elbírálása, megállapítása, illetve felülvizsgálata és az alkalmasság ellenőrzése céljából
 
-a) a szolgálati viszony létesítése előtt,
+a)[^4] a szolgálati viszony 24/A. § (2) bekezdésére figyelemmel történő létesítését követően 14 napon belül,
 
 b) időszakosan az alkalmasság ellenőrzése céljából,
 
 c) soron kívül az alkalmasság ellenőrzése céljából,
 
-d)[^4] a külföldi katonai szolgálat teljesítése előtt, ha a betöltött és tervezett beosztási követelmények eltérőek, valamint a Hjt. vhr. 1. § 10. pont i) alpontja alapján, ha az a képzésen való részvétel feltétele,
+d)[^5] a külföldi katonai szolgálat teljesítése előtt, ha a betöltött és tervezett beosztási követelmények eltérőek, valamint a Hjt. vhr. 1. § 10. pont i) alpontja alapján, ha az a képzésen való részvétel feltétele,
 
 e) a külföldi katonai szolgálat teljesítése után, kivéve a Hjt. vhr. 1. § 10. pont i), j) és n) alpontja szerinti eseteket,
 
@@ -22,26 +22,34 @@ h) az állományilletékes parancsnok tekintetében, vezető beosztásba törté
 
 i) a hivatásos állományba történő visszavételt megelőzően,
 
-j)[^5] a honvéd tisztjelöltnek vagy honvéd altiszt-jelöltnek jelentkezővel a felvétele, valamint a hivatásos vagy szerződéses állományba vétele előtt, a honvédségi ösztöndíjassal hivatásos vagy szerződéses állományba vétele előtt,
+j)[^6] a honvéd tisztjelöltnek vagy honvéd altiszt-jelöltnek jelentkezővel a felvétele, valamint a hivatásos vagy szerződéses állományba vétele előtt, a honvédségi ösztöndíjassal hivatásos vagy szerződéses állományba vétele előtt,
 
 k) az önkéntes tartalékos katonai szolgálati viszony létesítése előtt,
 
-l)[^6] a honvéd tisztjelöltek esetén a szakirányba helyezés, illetve a szak- vagy szakirányváltás előtt,
+l)[^7] a honvéd tisztjelöltek esetén a szakirányba helyezés, illetve a szak- vagy szakirányváltás előtt,
 
-m)[^7] a honvéd altiszt-jelöltek esetében ágazatba vagy szakmairányba helyezés előtt, ha az ágazat vagy szakmairány előírja, és
+m)[^8] a honvéd altiszt-jelöltek esetében ágazatba vagy szakmairányba helyezés előtt, ha az ágazat vagy szakmairány előírja, és
 
-n)[^8] a honvédségi ösztöndíjasnak jelentkezővel a honvédségi ösztöndíj szerződés megkötése előtt.
+n)[^9] a honvédségi ösztöndíjasnak jelentkezővel a honvédségi ösztöndíj szerződés megkötése előtt,
 
-(3)[^9] A (2) bekezdésben meghatározott esetekben – a (2) bekezdés d), e), h), l), m) és n) pontjában szereplők kivételével – az egészségi, a pszichikai és a fizikai alkalmasságot is minősíteni kell. A (2) bekezdés h) pontja esetén csak a pszichés, a (2) bekezdés d) pontja esetén a pszichés és szükség esetén az egészségi alkalmasságot, a (2) bekezdés l) és m) pontja esetén szükség esetén az egészségi és a pszichés alkalmasságot is minősíteni kell. A (2) bekezdés g) pontjában foglalt esetben az egészségi, szükség esetén a pszichés és legfeljebb 180 napos felkészülési időt követően a fizikai alkalmasságot is minősíteni kell. A (2) bekezdés n) pontja esetén csak az egészségi és a pszichés állapotot kell minősíteni, továbbá – tájékoztatás céljából – a fizikai állapotfelmérést kell elvégezni.
+o)[^10] a szolgálati viszony létesítése előtt, ha a katonai szolgálatra jelentkező
+
+oa) a Honvédség személyi állományába tartozik, vagy
+
+ob) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) állományába jelentkezik.
+
+(3)[^11] A (2) bekezdésben meghatározott esetekben – a (2) bekezdés d), e), h), l), m) és n) pontjában szereplők kivételével – az egészségi, a pszichikai és a fizikai alkalmasságot is minősíteni kell. A (2) bekezdés h) pontja esetén csak a pszichés, a (2) bekezdés d) pontja esetén a pszichés és szükség esetén az egészségi alkalmasságot, a (2) bekezdés l) és m) pontja esetén szükség esetén az egészségi és a pszichés alkalmasságot is minősíteni kell. A (2) bekezdés g) pontjában foglalt esetben az egészségi, szükség esetén a pszichés és legfeljebb 180 napos felkészülési időt követően a fizikai alkalmasságot is minősíteni kell. A (2) bekezdés n) pontja esetén csak az egészségi és a pszichés állapotot kell minősíteni, továbbá – tájékoztatás céljából – a fizikai állapotfelmérést kell elvégezni.
 
 (4) Az egészségi, pszichikai és fizikai alkalmasság minősítése a minősítést közvetlenül megelőzően végzett vizsgálat eredményén, illetve a korábban végzett, de még érvényes és a minősítés céljával egyező követelményszintű vizsgálat eredményén alapulhat.
 
 (5) Az egészségi alkalmasságot üzemorvos, foglalkozás-egészségügyi, vagy alkalmasság-vizsgálatban szakmai gyakorlattal rendelkező szakorvos, repülőorvosi vizsgálatok esetén repülőorvos vagy repülőorvosi vizsgálatokban szakmai gyakorlattal rendelkező szakorvos, a pszichikai alkalmasságot pszichológus, a fizikai alkalmasságot sportélettani szakmai gyakorlattal rendelkező szakorvos, illetve a fizikai felkészítésre és a terheléses sportélettani vizsgálatok végzésére képesítéssel rendelkező szakember véleményezheti, illetve minősítheti.
 
 [^3]: A 4. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 95. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. § (2) bekezdés d) pontja a 25/2016. (XII. 22.) HM rendelet 110. § a) pontja szerint módosított szöveg.
-[^5]: A 4. § (2) bekezdés j) pontja a 25/2016. (XII. 22.) HM rendelet 95. § (2) bekezdésével megállapított szöveg.
-[^6]: A 4. § (2) bekezdés l) pontja a 25/2016. (XII. 22.) HM rendelet 95. § (3) bekezdésével megállapított szöveg.
-[^7]: A 4. § (2) bekezdés m) pontja a 25/2016. (XII. 22.) HM rendelet 95. § (3) bekezdésével megállapított szöveg.
-[^8]: A 4. § (2) bekezdés n) pontját a 25/2016. (XII. 22.) HM rendelet 95. § (3) bekezdése iktatta be.
-[^9]: A 4. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 95. § (4) bekezdésével megállapított szöveg.
+[^4]: A 4. § (2) bekezdés a) pontja a 6/2017. (VI. 8.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (2) bekezdés d) pontja a 25/2016. (XII. 22.) HM rendelet 110. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés j) pontja a 25/2016. (XII. 22.) HM rendelet 95. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdés l) pontja a 25/2016. (XII. 22.) HM rendelet 95. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § (2) bekezdés m) pontja a 25/2016. (XII. 22.) HM rendelet 95. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. § (2) bekezdés n) pontját a 25/2016. (XII. 22.) HM rendelet 95. § (3) bekezdése iktatta be.
+[^10]: A 4. § (2) bekezdés o) pontját a 6/2017. (VI. 8.) HM rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 4. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 95. § (4) bekezdésével megállapított szöveg.
