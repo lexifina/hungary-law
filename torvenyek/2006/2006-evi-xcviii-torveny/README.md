@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2017-01-01 | 2016. évi LXVII. törvény | 2006-98-00-00.45 |
 | 2017-01-19 | 2016. évi CLXXII. törvény | 2006-98-00-00.46 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2006-98-00-00.47 |
+| 2017-06-09 | 2017. évi LIX. törvény | 2006-98-00-00.48 |

@@ -17,3 +17,5 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 (5) A közforgalmú gyógyszertárat működtető gazdasági társaság ügyvezetését, képviseletét a 73. § (1) bekezdésében foglalt esetekben az adott gyógyszertár vonatkozásában a személyi joggal rendelkező gyógyszerész önállóan látja el.
 
 (6) A közforgalmú gyógyszertárat működtető gazdasági társaság működése során a gyógyszerészi tulajdoni hányad tekintetében biztosítani kell a tagsági jogoknak a tulajdoni hányadnak megfelelő – a társasági szerződésben rendezett – gyakorlását. Az ezzel ellentétes megállapodás semmis.
+
+(7) A gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerész halála esetén a hagyatékátadó végzés jogerőre emelkedését követő 45 napon belül kell megfelelni az (1) bekezdés b) pontjában foglaltaknak.
