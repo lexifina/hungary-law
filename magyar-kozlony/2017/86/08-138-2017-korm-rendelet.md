@@ -1,0 +1,67 @@
+# A Kormány 138/2017. (VI. 9.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 86. szám, 2017. június 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c9fc2de8e45ce13006a37f2a22cd4c26d873b850/dokumentumok/48baedc42fa32b55d6289c1ce893247d5b9505c3/letoltes)
+
+---
+
+A Kormány 138/2017. (VI. 9.) Korm. rendelete
+a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól
+szóló 374/2014. (XII. 31.) Korm. rendelet módosításáról
+A Kormány a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 15. §-ában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló
+374/2014. (XII. 31.) Korm. rendelet (a továbbiakban: Korm. rendelet) 8. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Az (5) bekezdés szerinti változás meghatározását a járási hivatal a hiba kiigazítására irányuló eljárásában
+a (3) bekezdés szerint átadott adatok, valamint az állami távérzékelési adatbázisban található, 5 évnél nem régebbi,
+
+lombtalan vegetációs periódusban készült, legalább 20 cm terepi felbontású ±40 cm négyzetes középhiba
+megbízhatóságú, vagy ennél pontosabb, államilag átvett ortofotó felhasználásával is végezheti.”
+2. §
+A Korm. rendelet 24. §-a helyébe a következő rendelkezés lép:
+„24. § (1) A megosztási eljárással kapcsolatban a kormányhivatalt kiinduló földrészletenként az 1. mellékletben
+meghatározott költségtérítés illeti meg, amely a megosztási eljárás végrehajtása során felmerülő személyi juttatás
+(a projekt keretében alkalmazott munkavállaló munkabére, céljuttatás, túlóra), munkaadókat terhelő járulékok,
+dologi kiadások és beruházások finanszírozására szolgál.
+(2) A költségtérítés terhére az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 15. melléklete szerinti
+K1103 Céljuttatás, projektprémium rovaton is teljesíthető kifizetés.”
+3. §
+A Korm. rendelet a következő 36. §-sal egészül ki:
+„36. § E rendeletnek a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes
+szabályairól szóló 374/2014. (XII. 31.) Korm. rendelet módosításáról szóló 138/2017. (VI. 9.) Korm. rendelettel
+(a továbbiakban: MódR.) megállapított 24. §-át a MódR. hatálybalépésekor folyamatban lévő eljárásokban is
+alkalmazni kell.”
+4. §
+A Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+5. §
+A Korm. rendelet
+a) 10. § (1) bekezdés b) pontjában az „átvezetésére irányuló eljárás jogerősen lezárult” szövegrész helyébe
+az„átvezetése megtörtént”,
+b) 10. § (2) bekezdésében a „teljesüléséről” szövegrész helyébe a „teljesüléséről, valamint esetleges fellebbezés
+tényéről”,
+c) 12. § (1) bekezdésében a „megosztást a 15. § (4) bekezdésében meghatározott” szövegrész helyébe
+a „megosztást egyezség esetén az egyezségi okirat kelte, sorsolás esetén a 15. § (4) bekezdésében
+meghatározott”
+szöveg lép.
+6. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 138/2017. (VI. 9.) Korm. rendelethez
+„1. melléklet a 374/2014. (XII. 31.) Korm. rendelethez
+Az osztatlan közös földtulajdon megszüntetésével kapcsolatos, az Fkbt. 12/F. § (3) bekezdése alapján
+a járási hivatalt megillető költségtérítés
+Járási hivatalok adminisztrációs költségei
+A B
+1. Munkafolyamat megnevezése Költség (Ft)
+2. Ügyfelek értesítése az eljárás megindulásáról 13 000
+3. Adatszolgáltatás földmérők és jogi szolgáltatók részére 5 000
+4. Mezőgazdászi helyszínelés és földminősítés 13 000
+5. Osztásirány meghatározás 6 500
+6. Megosztási vázrajz műszaki vizsgálata, záradékolása 15 000
+
+7. Ingatlan-nyilvántartási határozathozatal, postázás (változás-
+átvezetési eljárás)
+13 000
+8. Összes költség 65 500
+”
