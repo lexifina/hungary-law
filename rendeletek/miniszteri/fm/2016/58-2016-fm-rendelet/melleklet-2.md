@@ -32,7 +32,7 @@
 
 | 15. | XIV. | Virágkötő |
 
-2. melléklet az 58/2016. (VIII. 25.) FM rendelethez
+2. melléklet az 58/2016. (VIII. 25.) FM rendelethez[^3]
 
 Az agrár szakképesítésekre szervezhető mesterképzések szakmai és vizsgakövetelményei
 
@@ -284,7 +284,7 @@ A gyümölcspálinka-gyártó szakmai képesítéssel rendelkező mester önáll
 
 3.3.1.11. Jövedéki ügyintézés:
 
-- Jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény
+- Jövedéki adóról szóló 2016. évi LXVIII. törvény
 
 - Jövedéki elszámolás
 
@@ -572,7 +572,7 @@ A mester az elsajátított ismeretek birtokában képes elméleti ismereteit mag
 
 4.1.12. Jövedéki ügyintézés:
 
-- Alkalmazza a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény előírásait
+- Alkalmazza a jövedéki adóról szóló 2016. évi LXVIII. törvény előírásait
 
 - Irányítja a termelt pálinka elszámolását
 
@@ -846,7 +846,7 @@ A mester az elsajátított ismeretek birtokában képes elméleti ismereteit mag
 
 4.2.1.12. Jövedéki ügyintézés:
 
-- Ismerteti a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény előírásait
+- Ismerteti a jövedéki adóról szóló 2016. évi LXVIII. törvény előírásait
 
 - Összeállítja a dokumentációkat, elszámolást készít
 
@@ -1148,7 +1148,7 @@ Gépkezelés: pálinka előállításánál leggyakrabban alkalmazott gépek, be
 
 Az alkalmazott gépek, berendezések kezelésével kapcsolatos higiéniai, munkavédelmi és biztonságtechnikai előírások.
 
-Jövedéki ismeretek: jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény, dokumentáció, jelölések
+Jövedéki ismeretek: jövedéki adóról szóló 2016. évi LXVIII. törvény, dokumentáció, jelölések
 
 A szóbeli vizsgán a Nemzeti Agrárgazdasági Kamara által kiadott szakmai szóbeli tételeket kell használni.
 
@@ -7395,3 +7395,7 @@ Felmentés adható a vizsgázó kérelmére a Vállalkozási ismeretek, illetve 
 - Munkabiztonsági eszközök, felszerelések
 
 - Élelmiszervizsgáló laboratóriumi eszközök
+
+XII. SAJTKÉSZÍTŐ MESTER
+
+[^3]: A 2. melléklet a 33/2017. (VI. 9.) FM rendelet 26. §-a szerint módosított szöveg.
