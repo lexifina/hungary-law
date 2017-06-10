@@ -2,7 +2,7 @@
 
 ## és hatósági intézkedések
 
-158. §[^443] (1)[^444] A harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását a regionális igazgatóságnak, a Rendőrségnek vagy a konzuli tisztviselőnek jelentheti be. A bejelentő harmadik országbeli állampolgár részére – az állampolgárság valószínűsítése esetén – igazolást kell kiállítani a bejelentés tényéről.
+158. §[^444] (1)[^445] A harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását a regionális igazgatóságnak, a Rendőrségnek vagy a konzuli tisztviselőnek jelentheti be. A bejelentő harmadik országbeli állampolgár részére – az állampolgárság valószínűsítése esetén – igazolást kell kiállítani a bejelentés tényéről.
 
 (2) Ha az elveszettnek, megsemmisültnek hitt okmányt a jogosultja megtalálja és részére új úti okmányt vagy tartózkodásra jogosító engedélyt még nem adtak ki, az ideiglenes tartózkodásra jogosító igazolást a kiállító hatóságnak le kell adnia.
 
@@ -16,14 +16,14 @@
 
 (7) Ha a Tv.-ben meghatározott eljárások során kiadott okmánynak a Hivatal általi körözése indokolt, annak a nyilvántartásba történő bejegyzéséről az okmányt kiállító regionális igazgatóság gondoskodik.
 
-(8)[^445] Ha a jogerős döntéssel visszavont vagy megsemmisített vízumokmány Hivatal általi körözése indokolt és a visszavonásáról vagy megsemmisítésről a konzuli tisztviselő, a külpolitikáért felelős miniszter vagy a Rendőrség döntött, annak a nyilvántartásba történő bejegyzéséről a döntést hozó hatóság értesítése alapján a harmadik országbeli állampolgár által a vízumkérelemben megjelölt szálláshely szerint illetékes regionális igazgatóság gondoskodik.
+(8)[^446] Ha a jogerős döntéssel visszavont vagy megsemmisített vízumokmány Hivatal általi körözése indokolt és a visszavonásáról vagy megsemmisítésről a konzuli tisztviselő, a külpolitikáért felelős miniszter vagy a Rendőrség döntött, annak a nyilvántartásba történő bejegyzéséről a döntést hozó hatóság értesítése alapján a harmadik országbeli állampolgár által a vízumkérelemben megjelölt szálláshely szerint illetékes regionális igazgatóság gondoskodik.
 
-(9)[^446] Ha az (1) bekezdésben foglalt bejelentés a konzuli tisztviselőnél történik, a harmadik országbeli állampolgár a tartózkodásra jogosító engedély pótlása iránti kérelmet a konzuli tisztviselőnél is előterjesztheti. A konzuli tisztviselő a kérelmet haladéktalanul felterjeszti az okmányt kiállító regionális igazgatósághoz.
+(9)[^447] Ha az (1) bekezdésben foglalt bejelentés a konzuli tisztviselőnél történik, a harmadik országbeli állampolgár a tartózkodásra jogosító engedély pótlása iránti kérelmet a konzuli tisztviselőnél is előterjesztheti. A konzuli tisztviselő a kérelmet haladéktalanul felterjeszti az okmányt kiállító regionális igazgatósághoz.
 
-(10)[^447] Ha a regionális igazgatóság a tartózkodásra jogosító okmány pótlása iránti kérelemnek helyt ad, egyidejűleg tartózkodási engedély átvételére jogosító vízum kiadását is engedélyezi és erről értesíti a konzuli tisztviselőt. A tartózkodási engedély átvételére jogosító vízumot – a regionális igazgatóság döntése alapján – a konzuli tisztviselő adja ki.
+(10)[^448] Ha a regionális igazgatóság a tartózkodásra jogosító okmány pótlása iránti kérelemnek helyt ad, egyidejűleg tartózkodási engedély átvételére jogosító vízum kiadását is engedélyezi és erről értesíti a konzuli tisztviselőt. A tartózkodási engedély átvételére jogosító vízumot – a regionális igazgatóság döntése alapján – a konzuli tisztviselő adja ki.
 
-[^443]: A 158. § a 15/2013. (I. 28.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
-[^444]: A 158. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^445]: A 158. § (8) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
-[^446]: A 158. § (9) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
-[^447]: A 158. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
+[^444]: A 158. § a 15/2013. (I. 28.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
+[^445]: A 158. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^446]: A 158. § (8) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
+[^447]: A 158. § (9) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
+[^448]: A 158. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.

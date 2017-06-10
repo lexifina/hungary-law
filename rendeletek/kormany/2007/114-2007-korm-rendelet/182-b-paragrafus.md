@@ -1,4 +1,4 @@
-182/B. §[^487] (1) Az a harmadik országbeli állampolgár, akinek a Tv. 35/A. § (2) bekezdésére figyelemmel a beutazásához és tartózkodásához magyarországi befektetéseire tekintettel nemzetgazdasági érdek fűződik, a Tv. 35/A. § (1) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet a 93. § (1d)–(1g) bekezdése alapján 2017. március 31-ig terjeszthet elő.
+182/B. §[^488] (1) Az a harmadik országbeli állampolgár, akinek a Tv. 35/A. § (2) bekezdésére figyelemmel a beutazásához és tartózkodásához magyarországi befektetéseire tekintettel nemzetgazdasági érdek fűződik, a Tv. 35/A. § (1) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet a 93. § (1d)–(1g) bekezdése alapján 2017. március 31-ig terjeszthet elő.
 
 (2) A 2016. július 1. napja előtt nemzetgazdasági érdekre hivatkozással benyújtott kérelemre kiállított tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár a Tv. 35/A. § (1) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet a 93. § (1d)–(1g) bekezdése alapján 2017. március 31-ig terjeszthet elő.
 
@@ -18,4 +18,4 @@ d) döntését úgy köteles meghozni, hogy a Tv. 35/A. § (2) bekezdés b) pont
 
 (6) Az államkötvény program lezárását követően a regionális igazgatóság és a Hivatal a nemzeti letelepedési engedély iránti kérelemnek helyt adó döntést nem hozhat.
 
-[^487]: A 182/B. §-t a 45/2017. (III. 17.) Korm. rendelet 1. §-a iktatta be.
+[^488]: A 182/B. §-t a 45/2017. (III. 17.) Korm. rendelet 1. §-a iktatta be.

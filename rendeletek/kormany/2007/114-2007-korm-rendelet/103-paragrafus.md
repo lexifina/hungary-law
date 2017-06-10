@@ -28,10 +28,13 @@ a) külföldi intézményben történő gyógykezelésről szóló igazolással;
 
 b) a gyakori külföldi kiküldetéssel járó munkakör betöltéséről szóló igazolással, illetve a kiküldetések – a munkáltatói jogkör gyakorlója által hitelesített – listájával.
 
-(6)[^301]
+(6)[^301] A Tv. 35. § (1a) bekezdés alkalmazásában a regionális igazgatóság Magyarország érdekének tekintheti különösen Magyarország gazdasági, tudományos, kulturális és sport érdekének fennállását, valamint a harmadik országbeli állampolgár nagymértékű társadalmi integrációját.
+
+(7)[^302] A regionális igazgatóság annak megállapítása érdekében, hogy a harmadik országbeli állampolgár nemzeti letelepedése Magyarország érdekében áll-e, az ügy elbírálásához szükséges adattal vagy irattal rendelkező minisztérium vagy más központi államigazgatási szerv felé megkereséssel élhet. Az érintett szerv a megkeresésre 15 napon belül válaszol.
 
 [^297]: [A 103. §-nak a 409/2012. (XII. 28.) Korm. rendelet 19. §-ával 2012. december 28-ával elrendelt módosítása – mivel a módosító rendelet 2012. december 29-én lépett hatályba – nem vezethető át.]
 [^298]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^299]: A 103. § (3) bekezdés a) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
 [^300]: A 103. § (3) bekezdés f) pontját a 113/2016. (V. 30.) Korm. rendelet 44. §-a iktatta be.
-[^301]: A 103. § (6) bekezdését a 142/2013. (V. 13.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 113/2016. (V. 30.) Korm. rendelet 56. § (4) bekezdés g) pontja.
+[^301]: A 103. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 56. § (4) bekezdés g) pontja hatályon kívül helyezte, újonnan a 134/2017. (VI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^302]: A 103. § (7) bekezdését a 134/2017. (VI. 9.) Korm. rendelet 2. §-a iktatta be.
