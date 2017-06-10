@@ -20,7 +20,7 @@ e) a takarmányozáshoz ivóvíz minőségű víz
 
 (3) A támogatás állategység alapján, tevékenységenként igényelhető. A tenyészkoca egyedenként 0,5 állategységnek felel meg.
 
-(4)[^7] A támogatásban részesülő tenyészkocák számát az élelmiszerlánc-felügyeleti információs rendszerben (a továbbiakban: FELIR) a Sertés-ENAR rendelet előírásai szerint nyilvántartott tenyészkoca létszám szerint, a sertéságazati területi felelős által a FELIR-ből az ENAR-szám alapján kiállított dokumentum alapján kell meghatározni.
+(4)[^7] A támogatásban részesülő tenyészkocák számát a FELIR-ben a Sertés-ENAR rendelet előírásai szerint nyilvántartott tenyészkoca létszám szerint, a sertéságazati területi felelős által a FELIR-ből az ENAR-szám alapján kiállított dokumentum alapján kell meghatározni.
 
 (4a)[^8] A (4) bekezdéstől eltérően a támogatásban részesülő tenyészkocák számát a 2016/2017-es támogatási év első és második tárgynegyedévében a Tenyészet Információs Rendszerbe (a továbbiakban: TIR) bejelentett tenyészkoca létszám szerint, a sertéságazati területi felelős által a TIR-ből az ENAR-szám alapján kiállított dokumentum alapján kell meghatározni.
 
@@ -57,7 +57,7 @@ i) a b)–h) pontban foglaltakról a támogatási kérelem benyújtásával egyi
 (6)[^14] A támogatási évben, a támogatási kérelemben megjelölt tenyészkocák vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
 [^6]: A 2. § (1) bekezdés nyitó szövegrésze a 92/2015. (XII. 23.) FM rendelet 7. § b) pontja szerint módosított szöveg.
-[^7]: A 2. § (4) bekezdése a 92/2015. (XII. 23.) FM rendelet 2. § (1) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 20. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (4) bekezdése a 92/2015. (XII. 23.) FM rendelet 2. § (1) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 20. § b) pontja, a 33/2017. (VI. 9.) FM rendelet 25. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § (4a) bekezdését az 51/2016. (VII. 21.) FM rendelet 18. §-a iktatta be.
 [^9]: A 2. § (5) bekezdés b) pont bc) alpontja a 92/2015. (XII. 23.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § (5) bekezdés b) pont bd) alpontja a 92/2015. (XII. 23.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
