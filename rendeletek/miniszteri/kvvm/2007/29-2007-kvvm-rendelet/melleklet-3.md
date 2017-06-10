@@ -50,7 +50,7 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 
 3.1. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-3.1.1. Erdők kezelése
+3.1.1.[^1] Erdők kezelése
 
 Erdőrezervátum magterület
 
@@ -64,13 +64,13 @@ Erdőrezervátum védőzóna
 
 – Azokban az erdőrészletekben, amelyekben a faállomány kora elérte a magtermő kort, fokozatosan át kell térni a vágásosról a szálaló üzemmódra.
 
-– A területen található régészeti lelőhelyek és ezek közvetlen környezete esetében az érvényes engedéllyel rendelkező fakitermelés, illetve engedélyezett erdészeti magánutak és közelítő nyomok kialakításának megkezdése előtt konzultáció szükséges a Kulturális Örökségvédelmi Hivatal illetékes területi irodájával.
+– A területen található régészeti lelőhelyek és ezek közvetlen környezete esetében az érvényes engedéllyel rendelkező fakitermelés, illetve engedélyezett erdészeti magánutak és közelítő nyomok kialakításának megkezdése előtt konzultáció szükséges az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatallal.
 
 Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvényes körzeti erdőterv tartalmazza.
 
 3.2. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-3.2.1. Vadgazdálkodás
+3.2.1.[^2] Vadgazdálkodás
 
 – A területen csak őshonos vadfajok tarthatók fenn a vadgazdálkodási üzemtervben meghatározott létszámban.
 
@@ -78,7 +78,7 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 
 – Intenzív vadtartást szolgáló létesítmény üzemeltetése tilos. Vadászati berendezés – magasles, lőállás, cserkelő és barkácsutak – létesítése az erdőrezervátum magterületén belül tilos, az erdőrezervátum védőzónájában vadlétszámapasztás érdekében lehetséges.
 
-– A természetes erdőfelújításokat az újulat védelme érdekében szükség esetén vadkárelhárító kerítéssel javasolt ellátni. A területen található régészeti lelőhelyek és ezek közvetlen környezete esetében a vadkárelhárító kerítés létesítését megelőzően konzultáció szükséges a Kulturális Örökségvédelmi Hivatal illetékes területi irodájával.
+– A természetes erdőfelújításokat az újulat védelme érdekében szükség esetén vadkárelhárító kerítéssel javasolt ellátni. A területen található régészeti lelőhelyek és ezek közvetlen környezete esetében a vadkárelhárító kerítés létesítését megelőzően konzultáció szükséges az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatallal.
 
 3.2.2. Terület- és földhasználat
 
@@ -107,3 +107,6 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 – A terület határán hatósági és tájékoztató táblákat kell kihelyezni.
 
 – Biztosítani kell a Természetvédelmi Őrszolgálat tagjainak fokozott jelenlétét a területen.
+
+[^1]: A 3. melléklet 3. pont 3.1.1. alpontja a 32/2017. (VI. 9.) FM rendelet 12. §-a szerint módosított szöveg.
+[^2]: A 3. melléklet 3. pont 3.2.1. alpontja a 32/2017. (VI. 9.) FM rendelet 12. §-a szerint módosított szöveg.
