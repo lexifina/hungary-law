@@ -62,7 +62,7 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 
 – A fokozottan védett és aktuálisan veszélyeztetett borzas macskamenta és a tátorján fajok esetében évente állományszámlálást kell végezni.
 
-3.2.2. Terület- és földhasználat
+3.2.2.[^1] Terület- és földhasználat
 
 – A területen vegyszer használata csak természetvédelmi célból engedélyezhető, műtrágya kijuttatása, tárolása tilos, tápanyag-utánpótlás csak a legelő állatok természetes úton elhullatott ürülékével történhet.
 
@@ -74,7 +74,7 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 
 – A területen ipari, illetve bányászati tevékenység nem végezhető.
 
-– A talaj bolygatásával járó, engedélyezett tevékenységek a Kulturális Örökségvédelmi Hivatal illetékes regionális irodájával, valamint a természetvédelmi kezelővel egyeztetett módon, szükség esetén ezek felügyelete mellett végezhetők el.
+– A talaj bolygatásával járó, engedélyezett tevékenységek az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatallal, valamint a természetvédelmi kezelővel egyeztetett módon, szükség esetén ezek felügyelete mellett végezhetők el.
 
 – A terület védetté nyilvánítását megelőzően szerzett jogerős engedéllyel rendelkező tevékenységeket az engedély lejártáig, az abban foglaltaknak megfelelően lehet elvégezni. Az engedélyezett tevékenység megkezdése előtt értesíteni kell az igazgatóságot. A tevékenység végzése során a természetvédelmi hatóság és az igazgatóság szakemberei számára biztosítani kell az engedélyben foglaltak betartásának felügyeletét.
 
@@ -89,3 +89,5 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 3.2.5. Kutatás, vizsgálatok
 
 – Szaporodásbiológiai kutatásokat és szaporítási kísérleteket kell megkezdeni a borzas macskamenta állományának mesterséges növelése és természetes élőhelyén való spontán terjedésének elősegítése érdekében.
+
+[^1]: A Melléklet 3. pont 3.2.2. alpontja a 32/2017. (VI. 9.) FM rendelet 11. §-a szerint módosított szöveg.
