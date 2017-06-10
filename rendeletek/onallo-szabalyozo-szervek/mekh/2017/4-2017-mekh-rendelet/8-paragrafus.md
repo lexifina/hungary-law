@@ -1,7 +1,5 @@
-## 3–7. §[^2]
+## 7. § Hatályát veszti az R1. 62. §-a.
 
 ## 3. A földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló
 
 ## 13/2016. (XII. 20.) MEKH rendelet módosítása
-
-[^2]: A 3–7. § a 9. § (2) bekezdése alapján 2017. június 10-én lép hatályba.
