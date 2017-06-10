@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-101-20-
 | 2015-08-01 | 1998-101-20-22.29 | 122/2004. (IV. 29.) Korm. rendelet |
 | 2016-01-01 | 1998-101-20-22.30 | 122/2004. (IV. 29.) Korm. rendelet |
 | 2017-01-01 | 1998-101-20-22.31 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-06-10 | 1998-101-20-22.32 | 134/2017. (VI. 9.) Korm. rendelet |
