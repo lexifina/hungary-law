@@ -52,7 +52,7 @@ Biztosítson lehetőséget a terület további állattani és növénytani ért�
 
 3.2. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-3.2.1. Gyepek kezelése
+3.2.1.[^1] Gyepek kezelése
 
 – A gyepbe betelepült cserjéket el kell távolítani a területről.
 
@@ -66,8 +66,10 @@ Biztosítson lehetőséget a terület további állattani és növénytani ért�
 
 – A tervezési területen a legelőgazdálkodás tilos.
 
-– A talaj bolygatásával járó természetvédelmi kezelési tevékenységek megkezdése előtt a természetvédelmi kezelő kikéri a Kulturális Örökségvédelmi Hivatal illetékes regionális irodájának véleményét.
+– A talaj bolygatásával járó természetvédelmi kezelési tevékenységek megkezdése előtt a természetvédelmi kezelő kikéri az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatal véleményét.
 
 3.2.2. Kivett területek kezelése
 
 – A területen meglévő vagy létesítendő vízkormányzó berendezésekkel biztosítani kell a terület ökológiai vízigényét.
+
+[^1]: A Melléklet 3. pont 3.2.1. alpontja a 32/2017. (VI. 9.) FM rendelet 10. §-a szerint módosított szöveg.
