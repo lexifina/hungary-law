@@ -10,6 +10,8 @@
 
 | 4. | Ha a tevékenység következtében olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Az egységes környezet- használati engedély megszerzésére irányuló eljárás nukleáris anyagot érint. | Az atomenergia biztonságos alkalmazásával, a nukleáris baleset- elhárítással kapcsolatos kérdésben. | Országos Atomenergia Hivatal |  |
 
+| 5. | – | Minden esetben. | – | a) az ipari baleseti kockázatok tekintetében: a veszélyes anyagokkal kapcsolatos súlyos baleseteknek való kitettségből eredő várható hatások elbírálása b) a természeti katasztrófáknak való kitettség tekintetében: annak elbírálása, hogy a kérelem megfelelően tartalmazza-e a telepítési hely környezetében feltárt kockázatokat és azok várható hatásait. | a hivatásos katasztrófa- védelmi szerv területi szerve | a hivatásos katasztrófa-védelmi szerv központi szerve |
+
 6. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^87]
 
 I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések, kirendelendő szakértők

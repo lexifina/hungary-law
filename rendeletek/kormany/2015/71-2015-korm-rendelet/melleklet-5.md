@@ -136,4 +136,4 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 II. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban kijelölt szakhatóságok
 
-[^86]: Az 5. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés d) pontjával megállapított szöveg.
+[^86]: Az 5. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés d) pontjával megállapított, a 139/2017. (VI. 9.) Korm. rendelet 13. §-a szerint módosított szöveg.
