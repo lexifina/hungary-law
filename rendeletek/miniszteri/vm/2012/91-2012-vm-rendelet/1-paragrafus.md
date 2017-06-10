@@ -8,7 +8,7 @@ b)[^2] mezőgazdasági termelő: az a Magyarországon bejelentett lakóhellyel v
 
 c)[^3]
 
-d)[^4] támogatási kérelem: a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: jövedéki törvény) 82. § (3) bekezdés a) pontja szerinti éves, b) pontja szerinti negyedik negyedévre vonatkozó, valamint c) pontja szerinti tizenkettedik hónapra vonatkozó adóbevallási nyomtatvány részeként benyújtott mezőgazdasági csekély összegű támogatás iránti kérelem;
+d)[^4] támogatási kérelem: a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló 341/2007. (XII. 15.) Korm. rendelet [a továbbiakban: 341/2007. (XII. 15.) Korm. rendelet] 5. § (1) bekezdés a) pontja szerinti éves, valamint b) pontja szerinti negyedik negyedévre vonatkozó adóbevallási nyomtatvány részeként benyújtott mezőgazdasági csekély összegű támogatás iránti kérelem;
 
 e) tárgyév: a gázolaj vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről a mezőgazdasági termelő saját nevére szóló számlákkal alátámasztott gázolaj-felhasználás – a támogatási kérelem benyújtásának évét megelőző – éve;
 
@@ -17,5 +17,5 @@ f)[^5] egy és ugyanazon vállalkozás: az európai uniós versenyjogi értelemb
 [^1]: Az 1. § a) pontja a 80/2016. (XII. 13.) FM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § b) pontja a 36/2014. (IV. 4.) VM rendelet 63. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § c) pontját a 36/2014. (IV. 4.) VM rendelet 71. §-a hatályon kívül helyezte.
-[^4]: Az 1. § d) pontja a 80/2016. (XII. 13.) FM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § d) pontja a 33/2017. (VI. 9.) FM rendelet 11. §-ával megállapított szöveg.
 [^5]: Az 1. § f) pontját a 80/2016. (XII. 13.) FM rendelet 5. § (3) bekezdése iktatta be.
