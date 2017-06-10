@@ -1,0 +1,13 @@
+A mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 7. pontjában meghatározott feladatkörében eljáró Miniszterelnökséget vezető miniszterrel egyetértésben –,
+
+a 2. alcím tekintetében a pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról szóló 2008. évi LXXIII. törvény 15. § (2) bekezdésének a) és c) pontjában foglalt felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában meghatározott feladatkörömben eljárva,
+
+a 3. alcím tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 26. és 30. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 3. pontjában meghatározott feladatkörömben eljárva,
+
+a 4. alcím tekintetében a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 57. § (1) bekezdésének f) pontjában, valamint a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. és 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 7. alcím tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában, meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 7. pontjában meghatározott feladatkörében eljáró Miniszterelnökséget vezető miniszterrel egyetértésben –,
+
+a 8. alcím tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 90. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1–3. és 6. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
