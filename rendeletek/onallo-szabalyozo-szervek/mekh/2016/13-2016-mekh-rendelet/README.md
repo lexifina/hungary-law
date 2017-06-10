@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-13-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-01-01 | 2016-13-20-5Z.1 | 13/2016. (XII. 20.) MEKH rendelet |
+| 2017-06-10 | 2016-13-20-5Z.2 | 4/2017. (IV. 26.) MEKH rendelet |
