@@ -1,4 +1,4 @@
-## 3. § A természetvédelmi terület természetvédelmi kezelői feladatait a Budapesti Természetvédelmi Igazgatóság látja el.
+## 3. §[^2] A természetvédelmi terület természetvédelmi kezelői feladatait a Duna-Ipoly Nemzeti Park Igazgatóság látja el.
 
 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
@@ -19,3 +19,5 @@ Sárbogárd
 Sáregres
 
 0137, 0139, 0164–0171, 0172/2, 0173, 0176–0179
+
+[^2]: A 3. § a 32/2017. (VI. 9.) FM rendelet 6. §-a szerint módosított szöveg.
