@@ -42,9 +42,9 @@ A Háros-szigeti Ártéri-erdő Természetvédelmi Terület természetvédelmi k
 
 – A Hunyadi-szigetet a Hunyadi-szigeten működő horgászegyesületek tagjai és a horgász napijegyet váltók szabadon látogathatják, egyéb látogatás és bemutatási célú hasznosítás csak természetvédelmi érdekeket szolgáló tevékenység esetén, előzetes engedéllyel és szakvezetéssel történhet. A látogatócsoportok létszáma legfeljebb 30 fő lehet egyszerre, a csoportos látogatás gyakorisága nem haladhatja meg a havi 4 alkalmat.
 
-3.1.3. Kutatás, vizsgálatok
+3.1.3.[^1] Kutatás, vizsgálatok
 
-– Engedéllyel rendelkező kutatási tevékenység a Budapesti Természetvédelmi Igazgatósággal történt előzetes egyeztetést követően kezdhető meg a területen.
+– Engedéllyel rendelkező kutatási tevékenység a Duna-Ipoly Nemzeti Park Igazgatósággal történt előzetes egyeztetést követően kezdhető meg a területen.
 
 3.1.4. Terület- és földhasználat
 
@@ -91,3 +91,5 @@ A Hunyadi-szigeten (Budapest, XXII. kerület 232 043/2 ingatlan-nyilvántartási
 – A Hunyadi-sziget területén – a Budapest, XXII. kerület 232 043/2 ingatlan-nyilvántartási helyrajzi számú földrészleten – fenn kell tartani a vágáskor nélküli erdő besorolást és a parkerdő rendeltetést.
 
 Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvényes körzeti erdőterv tartalmazza.
+
+[^1]: A Melléklet 3. pont 3.1.3. alpontja a 32/2017. (VI. 9.) FM rendelet 16. §-a szerint módosított szöveg.
