@@ -42,6 +42,6 @@
 
 | 8. | rejtett ellenőrzésre vonatkozó figyelmeztető jelzés | nem | nem | nem | nem | nem | igen | igen |
 
-3. melléklet a 15/2013. (I. 28.) Korm. rendelethez[^28]
+3. melléklet a 15/2013. (I. 28.) Korm. rendelethez[^29]
 
-[^28]: A 3. melléklet a 443/2015. (XII. 28.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
+[^29]: A 3. melléklet a 443/2015. (XII. 28.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
