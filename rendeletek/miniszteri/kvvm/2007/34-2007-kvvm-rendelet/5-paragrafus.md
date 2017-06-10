@@ -80,11 +80,11 @@ Biztosítsa a feltételeket a természetvédelmi célú kutatásokhoz, bemutatá
 
 – A földutakon a gépkocsi-közlekedés a tulajdonos és a területkezelők, valamint a területen áthaladó szénhidrogén-szállító vezeték kezelője, fenntartója számára csak a természetvédelmi kezeléssel és a már meglévő létesítmények fenntartásával, karbantartásával összefüggésben megengedett.
 
-3.2.4. Terület- és földhasználat
+3.2.4.[^2] Terület- és földhasználat
 
 – A természetvédelmi hatóság előzetes hozzájárulásával végzett régészeti feltárási munkálatok kivételével tilos a felső humuszos talajréteg bolygatása.
 
-– A régészeti lelőhely területén csak a Kulturális Örökségvédelmi Hivatal illetékes irodájának engedélyével végezhető minden olyan tevékenység, amely a régészeti lelőhely bolygatásával, sérülésével járhat.
+– A régészeti lelőhely területén csak az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatal engedélyével végezhető minden olyan tevékenység, amely a régészeti lelőhely bolygatásával, sérülésével járhat.
 
 – A területen tilos az állattenyésztés, a haszonállattartás.
 
@@ -127,3 +127,4 @@ Biztosítsa a feltételeket a természetvédelmi célú kutatásokhoz, bemutatá
 – A területen kemping és egyéb, tömegturizmust kiszolgáló létesítmény elhelyezése tilos.
 
 [^1]: Az 5. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^2]: A Melléklet 3. pont 3.2.4. alpontja a 32/2017. (VI. 9.) FM rendelet 13. §-a szerint módosított szöveg.
