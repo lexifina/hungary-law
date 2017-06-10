@@ -1,8 +1,4 @@
-## 11. § A felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet a következő 27/A. §-sal egészül ki:
-
-## „27/A. § (1) Az oktatásért felelős miniszter államilag elismert felsőoktatási intézményben önköltséges képzésben részt vevő külföldi hallgató részére az „Ösztöndíjprogram Keresztény Fiataloknak” elnevezésű ösztöndíjprogramról és a felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet módosításáról szóló 120/2017. (VI. 1.) Korm. rendeletben (a továbbiakban: Ösztöndíjrendelet) meghatározott feltételek szerint ösztöndíjat adományoz.
-
-## (2) Az ösztöndíj keretében nyújtott juttatásokat és azok folyósítására vonatkozó részletes rendelkezéseket az Ösztöndíjrendelet tartalmazza.”
+## 11. §[^1]
 
 1. melléklet a 120/2017. (VI. 1.) Korm. rendelethez
 
@@ -13,3 +9,5 @@ Alulírott aláírásommal hozzájárulok, hogy a fogadó felsőoktatási intéz
 A nyilatkozatot kiállító neve, aláírása.
 
 A nyilatkozat kiállításának dátuma.
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
