@@ -1,4 +1,4 @@
-## 3. § A védett terület természetvédelmi kezelői feladatait a Budapesti Természetvédelmi Igazgatóság látja el.
+## 3. §[^1] A védett terület természetvédelmi kezelői feladatait a Duna-Ipoly Nemzeti Park Igazgatóság látja el.
 
 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
@@ -35,3 +35,5 @@ Soponya
 Tác
 
 0237/A–C, 0237/F–G, 0238–0241, 0249–0255
+
+[^1]: A 3. § a 32/2017. (VI. 9.) FM rendelet 8. §-a szerint módosított szöveg.
