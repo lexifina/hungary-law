@@ -1,4 +1,4 @@
-## 65. §[^40]
+## 65. §[^44] A földgázelosztó a külön díj megállapítása során a szolgáltatás elvégzéséhez szükséges munkaidőt a munkavégzés helyszínén munkavégzésre fordított idő értékében határozza meg, amelynek legmagasabb figyelembe vehető értékét a Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete tartalmazza. A munkaidő meghatározása során minden megkezdett tizenöt percet annyiszor kell számításba venni, ahány munkatárs a külön díjas szolgáltatás nyújtásában közreműködött.
 
 66. § (1) Az Árszabályozási keretrendelet 14. § (2) bekezdés szerinti díjakat a rendszerhasználó igénye alapján a szállítási rendszerüzemeltető nyújtja.
 
@@ -6,4 +6,4 @@
 
 (3) Az alapszolgáltatásokhoz kapcsolódó jogszabály alapján biztosított adatforgalmon túl a rendszerhasználó által igényelt adatszolgáltatásokért kell az igénylőnek a külön díjat megfizetnie.
 
-[^40]: A 65. § a 14/2016. (XII. 20.) MEKH rendelet 12. § e) pontja alapján nem lép hatályba.
+[^44]: A 65. §-t a 4/2017. (IV. 26.) MEKH rendelet 5. §-a iktatta be.
