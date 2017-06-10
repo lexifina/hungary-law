@@ -4,4 +4,4 @@
 
 [^95]: A 20. §-t a 13/2017. (III. 17.) FM rendelet 3. §-a iktatta be.
 [^96]: A hatálybalépés időpontja 2017. március 18.
-[^97]: Az 1. melléklet a 65/2016. (IX. 21.) FM rendelet 5. §-ával megállapított, a 17/2017. (IV. 10.) FM rendelet 1. §-a szerint módosított szöveg.
+[^97]: Az 1. számú melléklet a 33/2017. (VI. 9.) FM rendelet 1. §-ával megállapított szöveg.
