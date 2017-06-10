@@ -382,6 +382,222 @@
 
 ## – Fertő-Hanság Nemzeti Park területe.
 
+## 3.[^1] Tokaj, Felső-Tisza és Nyírség kiemelt turisztikai fejlesztési térség:
+
+## 3. a. Tokaj turisztikai fejlesztési térség:
+
+## Abaújkér
+
+## Abaújszántó
+
+## Abaújvár
+
+## Alsóberecki
+
+## Alsóregmec
+
+## Baskó
+
+## Bekecs
+
+## Bodroghalom
+
+## Bodrogkeresztúr
+
+## Bodrogkisfalud
+
+## Bodrogolaszi
+
+## Boldogkőújfalu
+
+## Boldogkőváralja
+
+## Bózsva
+
+## Cigánd
+
+## Encs
+
+## Erdőbénye
+
+## Erdőhorváti
+
+## Felsőberecki
+
+## Filkeháza
+
+## Füzér
+
+## Füzérkajata
+
+## Füzérkomlós
+
+## Füzérradvány
+
+## Golop
+
+## Gönc
+
+## Györgytarló
+
+## Háromhuta
+
+## Hejce
+
+## Hercegkút
+
+## Hernádvécse
+
+## Hollóháza
+
+## Karcsa
+
+## Karos
+
+## Kéked
+
+## Kishuta
+
+## Komlóska
+
+## Korlát
+
+## Legyesbénye
+
+## Mád
+
+## Makkoshotyka
+
+## Mezőzombor
+
+## Mikóháza
+
+## Mogyoróska
+
+## Monok
+
+## Nagyhuta
+
+## Olaszliszka
+
+## Pácin
+
+## Pálháza
+
+## Pányok
+
+## Pusztafalu
+
+## Rakamaz
+
+## Rátka
+
+## Regéc
+
+## Sárazsadány
+
+## Sárospatak
+
+## Sátoraljaújhely
+
+## Sima
+
+## Szegi
+
+## Szegilong
+
+## Szerencs
+
+## Tállya
+
+## Tarcal
+
+## Telkibánya
+
+## Tokaj
+
+## Tolcsva
+
+## Vágáshuta
+
+## Vajdácska
+
+## Vámosújfalu
+
+## Viss
+
+## Vizsoly
+
+## Zalkod
+
+## 3. b. Felső-Tisza kiemelt turisztikai fejlesztési térség:
+
+## Csaroda
+
+## Dombrád
+
+## Gyulaháza
+
+## Kékcse
+
+## Kisar
+
+## Kisvárda
+
+## Komlódtótfalu
+
+## Kölcse
+
+## Mezőladány
+
+## Nagyar
+
+## Panyola
+
+## Penyige
+
+## Szabolcs
+
+## Szabolcsveresmart
+
+## Szatmárcseke
+
+## Tákos
+
+## Tarpa
+
+## Tiszabecs
+
+## Tiszakanyár
+
+## Tiszamogyorós
+
+## Tiszatelek
+
+## Tivadar
+
+## Tuzsér
+
+## Túristvándi
+
+## Vásárosnamény
+
+## 3. c. Nyírség turisztikai fejlesztési térség:
+
+## Baktalórántháza
+
+## Érpatak
+
+## Levelek
+
+## Máriapócs
+
+## Nyírbátor
+
+## Nyíregyháza
+
+## Vaja
+
 2. melléklet a 429/2016. (XII. 15.) Korm. rendelethez
 
 Kiemelt turisztikai fejlesztési térségek:
@@ -389,3 +605,8 @@ Kiemelt turisztikai fejlesztési térségek:
 1. Balaton
 
 2. Sopron-Fertő
+
+3.[^2] Tokaj, Felső-Tisza és Nyírség
+
+[^1]: Az 1. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
