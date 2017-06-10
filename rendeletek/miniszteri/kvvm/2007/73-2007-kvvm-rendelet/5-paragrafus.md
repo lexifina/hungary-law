@@ -94,10 +94,11 @@ A Szarvasi arborétum természetvédelmi terület természetvédelmi kezelési t
 
 – A terület jellegének, a földhasználat módjának megváltoztatása – ideértve a nyomvonalas létesítmények építését, illetve más beépítést is –, ha a tervezett tevékenység jogszabály alapján nem engedélyköteles, az igazgatósággal egyeztetett módon lehetséges.
 
-3.9. Táj- és kultúrtörténeti értékek
+3.9.[^2] Táj- és kultúrtörténeti értékek
 
 – Az angolpark jellegű terület, mint tájképi kert szerkezetének megváltoztatása (részleteiben is) tilos.
 
-– A területen található kunhalom jellegének megváltoztatásával járó tevékenység esetén a Kulturális Örökségvédelmi Hivatal regionális irodáját és az igazgatóságot előzetesen értesíteni kell.
+– A területen található kunhalom jellegének megváltoztatásával járó tevékenység esetén az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatalt és az igazgatóságot előzetesen értesíteni kell.
 
 [^1]: Az 5. § (2) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
+[^2]: A Melléklet 3. pont 3.9. alpontja a 32/2017. (VI. 9.) FM rendelet 14. §-a szerint módosított szöveg.
