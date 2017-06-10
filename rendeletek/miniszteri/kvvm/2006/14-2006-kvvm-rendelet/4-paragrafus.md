@@ -30,7 +30,7 @@ Biztosítson lehetőséget a terület további állattani és növénytani ért�
 
 3.1. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-3.1.1. Élőhelyek kezelése, fenntartása
+3.1.1.[^1] Élőhelyek kezelése, fenntartása
 
 – A fehér akácot a területről teljes mértékben el kell távolítani, a sarjakat rendszeresen vissza kell vágni.
 
@@ -42,7 +42,7 @@ Biztosítson lehetőséget a terület további állattani és növénytani ért�
 
 – Az M84. számú főút menti akácos sáv helyén, az akác eltávolítása után, őshonos, a termőhelynek megfelelő fajokból álló keskeny fás-ligetes sávot kell kialakítani.
 
-– A talaj bolygatásával járó természetvédelmi kezelési tevékenységek megkezdése előtt a természetvédelmi kezelő kikéri a Kulturális Örökségvédelmi Hivatal illetékes regionális irodájának véleményét.
+– A talaj bolygatásával járó természetvédelmi kezelési tevékenységek megkezdése előtt a természetvédelmi kezelő kikéri a az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatal véleményét.
 
 3.1.2. Látogatás
 
@@ -73,3 +73,5 @@ Biztosítson lehetőséget a terület további állattani és növénytani ért�
 – A gyepek 10%-át éves váltásban kaszálatlanul kell hagyni.
 
 – A lekaszált és bebálázott szénát a kaszálást követően legkésőbb egy hónapon belül le kell hordani a területről.
+
+[^1]: A Melléklet 3. pont 3.1.1. alpontja a 32/2017. (VI. 09.) FM rendelet 9. §-a szerint módosított szöveg.
