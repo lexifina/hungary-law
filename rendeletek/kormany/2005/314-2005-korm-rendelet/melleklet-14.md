@@ -38,9 +38,47 @@
 
 ## III. A környezeti hatótényezők azonosítása
 
-## A válasz igen vagy nem lehet. Amennyiben a válasz igen, akkor szükséges a környezeti hatás megnevezése is. Ha ismert, meg kell adni a környezeti hatások nagyságát, mértékét és a kedvezőtlen hatások elhárítására tervezett intézkedéseket is.
+| A válasz igen vagy nem lehet. Amennyiben a válasz igen, akkor szükséges a környezeti hatás megnevezése is. Ha ismert, meg kell adni a környezeti hatások nagyságát, mértékét, és a kedvezőtlen hatások elhárítására tervezett intézkedéseket is. |
 
-| 1. A tevékenység kiépítése és/vagy működtetése jelent-e fizikai változtatás(oka)t a megvalósítás helyszínén (a domborzaton, a földhasználatban, a lefolyási viszonyokban, a meder és partja morfológiájában, a felszín alatti víz szintjében, a növényzetben stb.)? 2. A tevékenység működése közben felhasznál-e, illetve tárol-e, szállít-e, kezel-e, termel-e olyan veszélyes anyagokat, amelyek károsak, vagy kockázatosak az emberi egészségre vagy a környezetre? 3. Jár-e a tevékenység vízkivétellel felszíni, illetve felszín alatti vizekből? (A vízkivétel mennyiségének meghatározása.) 4. A tevékenység kiépítése, illetve működtetése során keletkezik-e önálló kezelést igénylő szennyvíziszap, illetve a szokásos mértékű települési hulladéktól eltérő mennyiségű és minőségű szilárd hulladék? 5. A tevékenység bocsát-e ki szennyezőanyagokat vagy bármilyen veszélyes, mérgező vagy egészségre káros anyagot a levegőbe? 6. Jellemző-e, hogy a tevékenység kiépítése, működtetése zajt, rezgést, bűzt okoz, illetve fényt, hőenergiát vagy elektromágneses sugárzást bocsát ki? 7. Lesz-e a tevékenységnek a talajba, felszíni vízbe vagy felszín alatti vizekbe történő kibocsátása? 8. Jár-e a tevékenység működtetése szennyvízgyűjtéssel, szennyvízkibocsátással vagy speciális kezelést, ipari előtisztítást igénylő szennyvizek keletkezésével? 9. A környezetterhelés megelőzésére, csökkentésére tervbe vett intézkedések, alkalmazni kívánt berendezések (beleértve a haváriák, balesetek megelőzését, elhárítását): 10. További fontosnak tartott jellemzők: |
+| 1. A tevékenység kiépítése és/vagy működtetése jelent-e fizikai változtatás(oka)t a megvalósítás helyszínén (a domborzaton, a földhasználatban, a lefolyási viszonyokban, a meder és partja morfológiájában, a felszín alatti víz szintjében, az élővilágban, a tájban stb.)? |
+
+| ........................................................................................................................................................................................................ |
+
+| 2. A tevékenység működése közben felhasznál-e, illetve tárol-e, szállít-e, kezel-e, termel-e olyan veszélyes anyagokat, amelyek károsak, vagy kockázatot jelentenek az emberi egészségre vagy a környezetre, annak valamely elemére? |
+
+| ........................................................................................................................................................................................................ |
+
+| 3. Jár-e a tevékenység vízkivétellel felszíni, illetve felszín alatti vizekből? (A vízkivétel mennyiségének meghatározása.) |
+
+| ........................................................................................................................................................................................................ |
+
+| 4. A tevékenység kiépítése, illetve működtetése során keletkezik-e önálló kezelést igénylő szennyvíziszap, illetve a szokásos mértékű települési hulladéktól eltérő típusú hulladék? |
+
+| ........................................................................................................................................................................................................ |
+
+| 5. A tevékenység bocsát-e ki szennyező anyagokat vagy bármilyen veszélyes, mérgező vagy egészségre káros anyagot, üvegházhatású gázt (pl. CO2, CH4) a levegőbe? |
+
+| ........................................................................................................................................................................................................ |
+
+| 6. Jellemző-e, hogy a tevékenység kiépítése, működtetése zajt, rezgést, bűzt okoz, illetve fényt, hőenergiát vagy elektromágneses sugárzást bocsát ki? |
+
+| ........................................................................................................................................................................................................ |
+
+| 7. Lesz-e a tevékenységnek a talajba, felszíni vízbe vagy felszín alatti vizekbe történő kibocsátása? |
+
+| ........................................................................................................................................................................................................ |
+
+| 8. Jár-e a tevékenység működtetése szennyvízgyűjtéssel, szennyvízkibocsátással vagy speciális kezelést, ipari előtisztítást igénylő szennyvizek keletkezésével? |
+
+| ........................................................................................................................................................................................................ |
+
+| 9. A környezetterhelés megelőzésére, csökkentésére tervbe vett intézkedések, alkalmazni kívánt berendezések (beleértve a haváriák, balesetek megelőzését, elhárítását), az éghajlatváltozás hatásaihoz való alkalmazkodás érdekében tervbe vett intézkedések: |
+
+| ........................................................................................................................................................................................................ |
+
+| 10. További fontosnak tartott jellemzők: |
+
+| ........................................................................................................................................................................................................ |
 
 ## IV. A telepítési hely környéke, a jelenlegi területhasználatok
 
@@ -50,6 +88,6 @@
 
 ## Amennyiben az adatlap bármely pontjára vonatkozóan az eljárásban egyébként benyújtott dokumentáció részletesebb információt tartalmaz, kérjük az adott pontban jelezni.
 
-14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^282]
+14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^325]
 
-[^282]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 74. § (6) bekezdés b) pontja.
+[^325]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 74. § (6) bekezdés b) pontja.

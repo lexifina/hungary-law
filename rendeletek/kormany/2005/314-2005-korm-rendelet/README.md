@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2017-01-01 | 2005-314-20-22.42 | 371/2012. (XII. 17.) Korm. rendelet |
 | 2017-04-01 | 2005-314-20-22.43 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2017-04-11 | 2005-314-20-22.44 | 88/2017. (IV. 10.) Korm. rendelet |
+| 2017-06-10 | 2005-314-20-22.45 | 139/2017. (VI. 9.) Korm. rendelet |

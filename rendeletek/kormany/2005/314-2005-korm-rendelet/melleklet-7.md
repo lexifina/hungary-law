@@ -8,7 +8,7 @@ I. Hatásterület típusok
 
 a) a földbe, vízbe, levegőbe való egyes anyag- vagy energiakibocsátások terjedési területei az érintett környezeti elemben, valamint
 
-b) a föld, víz, élővilág, épített környezet közvetlen igénybevételének területei.
+b)[^309] a föld, víz, élővilág, épített környezet közvetlen igénybevételének, a tájban várható változások területei.
 
 2. A közvetett hatások területei: a közvetlen hatások területein bekövetkező környezeti állapotváltozások miatt továbbterjedő hatásfolyamatok terjedési területe azon környezeti elemek és rendszerek szerint, amelyeket valamely hatásfolyamat érint.
 
@@ -41,3 +41,5 @@ a) a hatásterület egyes részei mely környezeti elemre és rendszerre és a t
 b) e részeken belül hogyan változik a hatás erőssége és időtartama,
 
 c) mely területeken összegeződnek különféle hatások.
+
+[^309]: A 7. számú melléklet I. 1. pont b) alpontja a 139/2017. (VI. 9.) Korm. rendelet 10. § d) alpontjával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 29/G. §[^223] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 281/2013. (VII. 24.) Korm. rendelettel (a továbbiakban: Mkr9.) megállapított rendelkezéseit az Mkr9. hatálybalépését[^224] követően indult vagy megismételt eljárásokban kell alkalmazni.
+## 29/G. §[^240] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 281/2013. (VII. 24.) Korm. rendelettel (a továbbiakban: Mkr9.) megállapított rendelkezéseit az Mkr9. hatálybalépését[^241] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-29/H. §[^225] (1) E rendeletnek az Mkr10.-zel megállapított rendelkezéseit az Mkr10. hatálybalépését követően indult ügyekben, továbbá a megismételt eljárásokban kell alkalmazni.
+29/H. §[^242] (1) E rendeletnek az Mkr10.-zel megállapított rendelkezéseit az Mkr10. hatálybalépését követően indult ügyekben, továbbá a megismételt eljárásokban kell alkalmazni.
 
 (2) E rendeletnek az egységes környezethasználati engedélyezési eljárásra vonatkozó rendelkezéseit 2015. július 6-áig nem kell alkalmazni azon létesítményekre, amelyeket legkésőbb Mkr10. hatályba lépése napjáig üzembe helyeztek, és a 2. számú melléklet
 
@@ -14,6 +14,6 @@ tevékenységet végeznek.
 
 (3) A vonatkozó elérhető legjobb technika-következtetések Európai Bizottság által történő elfogadásáig a 2011. január 6. előtt elfogadott elérhető legjobb technika referenciadokumentumokban foglalt, az elérhető legjobb technikákra vonatkoztató következtetéseket kell – a 20. § (7) bekezdése szerinti határérték megállapítás kivételével – elérhető legjobb technika-következtetésekként alkalmazni.
 
-[^223]: A 29/G. §-t a 281/2013. (VII. 24.) Korm. rendelet 4. §-a iktatta be.
-[^224]: A hatálybalépés időpontja 2013. augusztus 1.
-[^225]: A 29/H. §-t a 480/2013. (XII. 17.) Korm. rendelet 9. §-a iktatta be.
+[^240]: A 29/G. §-t a 281/2013. (VII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^241]: A hatálybalépés időpontja 2013. augusztus 1.
+[^242]: A 29/H. §-t a 480/2013. (XII. 17.) Korm. rendelet 9. §-a iktatta be.

@@ -50,7 +50,7 @@
 
 ## 12. Az oxigén-háztartásra kedvezőtlenül ható anyagok (és amelyeket mérni lehet a BOI, KOI stb. jellemzőkkel).
 
-11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^278]
+11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^321]
 
 ## Az egységes környezethasználati engedély tartalmi követelményei
 
@@ -68,7 +68,7 @@ e) a tevékenység 2. melléklet szerinti besorolását,
 
 f) a kiépített termelési kapacitást.
 
-2.[^279] A környezetvédelmi hatóság az engedélyben kibocsátási határértéket állapít meg a 20. § (4)–(10) bekezdésben foglaltak alapján.
+2.[^322] A környezetvédelmi hatóság az engedélyben kibocsátási határértéket állapít meg a 20. § (4)–(10) bekezdésben foglaltak alapján.
 
 3. Az engedélyben feltételeket kell előírni az egyes környezeti elemekre, valamint a hulladékokra vonatkozó külön jogszabályok szerint, különösen
 
@@ -116,5 +116,5 @@ k) a 20. § (13) bekezdés alkalmazása esetén olyan kiegészítő feltételt, 
 
 5. Az elérhető legjobb technika alkalmazására vonatkozó rendelkezések, a vonatkozó elérhető legjobb technika referenciadokumentum megnevezésével.
 
-[^278]: A 11. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^279]: A 11. számú melléklet 2. pontja a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint megállapított szöveg.
+[^321]: A 11. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^322]: A 11. számú melléklet 2. pontja a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint megállapított szöveg.
