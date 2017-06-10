@@ -2,4 +2,6 @@
 
 (2) A Nemzeti Park természetvédelmi kezelését a Duna–Ipoly Nemzeti Park Igazgatóság látja el.
 
-(3) Ahol e rendelet hatálybalépése előtt miniszteri rendelet Budapesti Természetvédelmi Igazgatóságot említ, azon Duna–Ipoly Nemzeti Park Igazgatóságot kell érteni.
+(3)[^1]
+
+[^1]: A 3. § (3) bekezdését a 32/2017. (VI. 9.) FM rendelet 17. §-a hatályon kívül helyezte.

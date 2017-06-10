@@ -206,7 +206,7 @@ Sződ
 
 0251–0256, 0260
 
-Sződliget[^2]
+Sződliget[^3]
 
 040, 041, 042/2, 043, 048/19, 049/2–3, 050–056, 071, 072, 1215, 1216/1–2, 1217
 
@@ -238,4 +238,4 @@ Zebegény
 
 belterület: 2654, 2655/1–2, 2656–2663
 
-[^2]: Az 1. számú mellékletben szereplő Sződliget helyrajzi számai az 1/1998. (VIII. 15.) Köm rendelet 1. §-ával módosított számok.
+[^3]: Az 1. számú mellékletben szereplő Sződliget helyrajzi számai az 1/1998. (VIII. 15.) Köm rendelet 1. §-ával módosított számok.
