@@ -36,8 +36,10 @@ b) ötven anyakecskénként legfeljebb egy tenyészbak
 
 ## tenyésztésbe állítása után igényelhet támogatást.
 
-(4) Ha a tenyészetben lévő anyajuhok vagy anyakecskék száma nem éri el az ötvenet, akkor egy tenyészkos, illetve egy tenyészbak után igényelhető támogatás.
+(4)[^2] A (3) bekezdés alkalmazásában minden megkezdett ötven anyajuh vagy anyakecske egyedszám alapján egy tenyészkos vagy egy tenyészbak után igényelhető támogatás.
 
 (5) A támogatás tárgyévi igénybevétele szempontjából a tárgyévi, illetve a tárgyévet megelőző évi, az apaállat megvásárlását – saját állományból történő tenyésztésbe állítás esetén a tenyésztésbe állítást – igazoló, állattartó nevére kiállított számviteli bizonylat használható fel.
 
 (6) Egy állattartó egy támogatási időszakban egy támogatási kérelmet nyújthat be.
+
+[^2]: A 4. § (4) bekezdése a 34/2017. (VI. 9.) FM rendelet 1. §-ával megállapított szöveg.
