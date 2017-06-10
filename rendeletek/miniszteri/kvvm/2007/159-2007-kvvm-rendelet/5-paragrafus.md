@@ -62,7 +62,7 @@ A Nagycenki-hársfasor természetvédelmi terület természetvédelmi kezelési 
 
 – A tervezési terület a jelenlegitől eltérő területfelhasználási egységbe nem sorolható.
 
-3.1.5. Táj- és kultúrtörténeti értékek
+3.1.5.[^3] Táj- és kultúrtörténeti értékek
 
 – A nagycenki hársfasor tájképi jellegét meg kell őrizni.
 
@@ -78,7 +78,7 @@ A Nagycenki-hársfasor természetvédelmi terület természetvédelmi kezelési 
 
 – A faápolás során megengedett a koronaalakítás, a sérült és beteg koronarészek eltávolítása, a tősarjak eltávolítása, az üregek gondozása, a fagyöngy folyamatos eltávolítása.
 
-– A talaj bolygatásával járó természetvédelmi kezelési tevékenységek megkezdése előtt a természetvédelmi kezelő kikéri a Kulturális Örökségvédelmi Hivatal illetékes regionális irodájának véleményét.
+– A talaj bolygatásával járó természetvédelmi kezelési tevékenységek megkezdése előtt a természetvédelmi kezelő kikéri az örökségvédelmi hatóságként eljáró illetékes járási (fővárosi kerületi) hivatal véleményét.
 
 Az egyszeri, teljes rekonstrukcióra vonatkozó kezelési módok az egyes fák állapotának megfelelően:
 
@@ -115,3 +115,4 @@ Az egyszeri, teljes rekonstrukcióra vonatkozó kezelési módok az egyes fák �
 – A Hidegség 3E jelű erdőrészlet tekintetében a tervezés időpontjában érvényes körzeti erdőterv előírásai a természetvédelmi igényeket kielégítik, és a következőkben is az abban meghatározott erdőgazdálkodási gyakorlat a kívánatos.
 
 [^2]: Az 5. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^3]: A Melléklet 3. pont 3.1. alpont 3.1.5. pontja a 32/2017. (VI. 10.) FM rendelet 15. §-a szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-159-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-01-02 | 2007-159-20-0N.2 | 159/2007. (XII. 27.) KvVM rendelet |
+| 2017-06-10 | 2007-159-20-0N.3 | 32/2017. (VI. 10.) FM rendelet |
