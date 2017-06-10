@@ -1,12 +1,12 @@
-## 4. §
+## 4. §[^3]
 
-## A Pilisi Tájvédelmi Körzet természeti értékeinek fenntartása, őrzése és bemutatása a Budapesti Természetvédelmi Igazgatóság feladata.
+## A Pilisi Tájvédelmi Körzet természeti értékeinek fenntartása, őrzése és bemutatása a Duna-Ipoly Nemzeti Park Igazgatóság feladata.
 
 5. §
 
 Ez a rendelet 1992. november 15-én lép hatályba.
 
-Melléklet a 20/1992. (XI. 6.) KTM rendelethez[^3]
+Melléklet a 20/1992. (XI. 6.) KTM rendelethez[^4]
 
 A Pilisi Tájvédelmi Körzet bővítésének ingatlan-nyilvántartási helyrajzi számai
 
@@ -50,4 +50,5 @@ Kesztölc
 
 064—071/2
 
-[^3]: A Melléklet a 24/1996. (X. 9.) KTM rendelet 5. §-ának b) pontja szerinti szöveg.
+[^3]: A 4. § a 32/2017. (VI. 9.) FM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A Melléklet a 24/1996. (X. 9.) KTM rendelet 5. §-ának b) pontja szerinti szöveg.
