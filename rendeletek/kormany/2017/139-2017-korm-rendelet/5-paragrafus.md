@@ -1,1 +1,0 @@
-## „(1b) A környezeti hatásvizsgálati eljárás – e rendeletben meghatározott tartalommal – kiterjed az ipari baleseteknek és a természeti katasztrófáknak való kitettségből eredő várható hatások vizsgálatára is.”

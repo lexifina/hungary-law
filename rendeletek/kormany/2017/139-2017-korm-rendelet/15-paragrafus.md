@@ -1,1 +1,0 @@
-## 14. § Ez a rendelet az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 2011/92/EK irányelv módosításáról szóló, 2014. április 16-i 2014/52/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
