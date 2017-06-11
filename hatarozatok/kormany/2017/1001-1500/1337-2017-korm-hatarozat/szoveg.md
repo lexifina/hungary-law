@@ -12,4 +12,6 @@ Határidő: 2017. június 30.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a Bionikai Innovációs Központ létrehozásával kapcsolatos egyes feladatokról szóló 1493/2012. (XI. 13.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
