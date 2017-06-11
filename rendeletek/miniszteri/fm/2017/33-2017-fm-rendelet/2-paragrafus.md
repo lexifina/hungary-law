@@ -1,3 +1,5 @@
-## 1. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet 1. számú melléklete helyébe az 1. melléklet lép.
+## 1. §[^1]
 
 ## 2. Az országos pálinka- és törkölypálinka-versenyről, valamint az érzékszervi bírálók képzéséről szóló 33/2010. (XI. 25.) VM rendelet módosítása
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

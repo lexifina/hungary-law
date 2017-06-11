@@ -1,1 +1,3 @@
-## 17. § A 91/2012. (VIII. 29.) VM rendelet 2. melléklete a 3. melléklet szerint módosul.
+## 17. §[^11]
+
+[^11]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
