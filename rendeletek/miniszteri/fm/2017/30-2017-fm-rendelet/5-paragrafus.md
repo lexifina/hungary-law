@@ -1,0 +1,3 @@
+## 4. § A 7/2001. (I. 17.) FVM rendelet 36/E. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Amennyiben a zárlati károsítók elterjedésének veszélye nem áll fenn, az (1) és (2) bekezdés nem vonatkozik növények, növényi termékek, élelmiszerek és állati takarmányok kis mennyiségének szállítására, ha azokat a tulajdonos vagy átvevő szállítás közbeni fogyasztásra, valamint nem ipari vagy kereskedelmi célú felhasználásra szánja. A 6. számú melléklet A. RÉSZ 1.1., 1.4., 1.5. és 2.1. pontjaiban felsorolt fás szárú szaporítóanyagok, valamint az 1.3. pont alatti vetőburgonya kis mennyiségének szállítása során be kell tartani az (1) bekezdésben foglaltakat, ha a szállítás célja eladás.”

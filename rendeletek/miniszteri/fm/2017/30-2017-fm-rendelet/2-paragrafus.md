@@ -1,0 +1,3 @@
+## 1. § A növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet [a továbbiakban: 7/2001. (I. 17.) FVM rendelet] 13. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Amennyiben a 29. § (3) bekezdés szerinti ellenőrzésköteles szaporító- és ültetvényanyagon kívüli, Európai Unióból származó küldemény vagy tétel nem rendelkezik az annak a terméknek az uniós forgalmazásához az 5. számú melléklet A. RÉSZ-ének II. szakaszában előírt, külön elvégzett laboratóriumi vizsgálat alapján kiállított károsító mentességi igazolással, a termékre a járási hivatal forgalombahozatali korlátozást rendel el, és rendelkezik annak megsemmisítéséről.”
