@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-7-20-82
 | 2014-09-15 | 2001-7-20-82.37 | 9/2014. (IX. 12.) FM rendelet |
 | 2015-07-08 | 2001-7-20-82.38 | 39/2015. (VII. 3.) FM rendelet |
 | 2016-12-15 | 2001-7-20-82.39 | 81/2016. (XII. 12.) FM rendelet |
+| 2017-06-12 | 2001-7-20-82.40 | 30/2017. (VI. 7.) FM rendelet |
