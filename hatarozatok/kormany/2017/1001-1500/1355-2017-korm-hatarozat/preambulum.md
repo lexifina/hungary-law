@@ -1,0 +1,1 @@
+A Kormány a Modern Városok Program (a továbbiakban: MVP) keretében a megyei jogú városok önkormányzataival kötött együttműködési megállapodásokban foglaltak eredményes kormányzati végrehajtása érdekében
