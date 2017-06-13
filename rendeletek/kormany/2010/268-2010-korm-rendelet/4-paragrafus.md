@@ -14,15 +14,17 @@ d) ellátja az állami felügyelő mérnöki feladatokat azokban az infokommunik
 
 e) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.
 
-(2) A KIFÜ közfeladatai körében az információs társadalom fejlesztésével, ezen belül kiemelten a digitális írástudás fejlesztésével, az eMagyarország Pontok hálózat szakmai koordinálásával kapcsolatos feladatokat lát el, felügyeli és koordinálja az eTanácsadók munkáját.
+(2)[^5] A KIFÜ közfeladatai körében az információs társadalom fejlesztésével, ezen belül kiemelten a digitális írástudás fejlesztésével kapcsolatos feladatokat lát el, valamint részt vesz a Digitális Jólét Program Hálózat és az annak részét képező Digitális Jólét Program Pontok működtetésével és fejlesztésével kapcsolatos feladatok ellátásában.
 
-(3) A KIFÜ alaptevékenységéhez kapcsolódóan képzési, valamint az információs társadalom fejlesztésével és az eMagyarország Pontok hálózat szakmai koordinálásával kapcsolatos felnőttképzési tevékenységet végez.
+(3)[^6] A KIFÜ alaptevékenységéhez kapcsolódóan képzési, valamint az információs társadalom fejlesztésével kapcsolatos felnőttképzési tevékenységet végez.
 
-(4)[^5] A KIFÜ ellátja a Nemzeti Információs Infrastruktúra Fejlesztési Programról szóló kormányrendeletben meghatározott feladatokat.
+(4)[^7] A KIFÜ ellátja a Nemzeti Információs Infrastruktúra Fejlesztési Programról szóló kormányrendeletben meghatározott feladatokat.
 
-(5)[^6] A Központi Informatikai Beszerzési Rendszert a miniszter a KIFÜ útján működteti.
+(5)[^8] A Központi Informatikai Beszerzési Rendszert a miniszter a KIFÜ útján működteti.
 
 [^3]: A 3. §-t a 221/2014. (IX. 4.) Korm. rendelet 485. §-a hatályon kívül helyezte, újonnan a 95/2015. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A 4. § a 95/2015. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 4. § (4) bekezdését a 229/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^6]: A 4. § (5) bekezdését a 229/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 4. § (2) bekezdése a 127/2017. (VI. 8.) korm. rendelet 6. §-ával megállapított szöveg.
+[^6]: A 4. § (3) bekezdése a 127/2017. (VI. 8.) korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: A 4. § (4) bekezdését a 229/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 4. § (5) bekezdését a 229/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
