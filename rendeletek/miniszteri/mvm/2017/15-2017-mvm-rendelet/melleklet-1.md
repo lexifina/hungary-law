@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a minimális építőipari rezsióradíj 2016. évi mértékéről szóló 27/2016. (IX. 14.) MvM rendelet.
+## 4. §[^2]
 
 1. melléklet a 15/2017. (VI. 7.) MvM rendelethez
 
@@ -65,3 +65,5 @@ A minimális építőipari rezsióradíj költségnemei és értékei
 | 29. | Elvárt eredmény értéke /(23.+25.+27. sor összesen) × 0,02/ | 56 |
 
 | 30. | Mindösszesen (23.+25.+27.+29. sor) | 2870 |
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
