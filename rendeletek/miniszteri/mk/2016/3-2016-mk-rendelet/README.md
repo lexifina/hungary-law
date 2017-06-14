@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-3-20-7G
 | 2016-04-30 | 2016-3-20-7G.1 | 3/2016. (IV. 29.) MK rendelet |
 | 2016-05-01 | 2016-3-20-7G.2 | 2010: CXXX. törvény |
 | 2016-10-21 | 2016-3-20-7G.3 | 5/2016. (X. 20.) MK rendelet |
+| 2017-06-14 | 2016-3-20-7G.4 | 2/2017. (VI. 13.) MK rendelet |
