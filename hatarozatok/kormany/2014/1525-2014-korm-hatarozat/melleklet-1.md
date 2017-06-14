@@ -6,7 +6,7 @@
 
 ## c) keretében fejlesztésre kerülő b) pont szerinti ingatlan vagyonkezelője az NSK legyen,
 
-## d) a 2014. és 2015. években összesen 3565,3 millió forint keretösszegű központi költségvetési forrásból valósul meg;
+## d)[^1] összesen 4665,85 millió forint keretösszegű központi költségvetési forrásból valósul meg;
 
 ## 2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket a Gödöllő közigazgatási területén fekvő, 5880 helyrajzi számú ingatlan NSK vagyonkezelésébe kerülése érdekében;
 
@@ -22,7 +22,7 @@
 
 ## Határidő: 2014. szeptember 30.
 
-## 4.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Beruházáshoz kapcsolódó 2014. évben szükséges 90,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 4.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Beruházáshoz kapcsolódó 2014. évben szükséges 90,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -49,6 +49,12 @@
 ## nemzetgazdasági miniszter
 
 ## Határidő: a 2015. évi központi költségvetés tervezése során
+
+## 7.[^3] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében engedélyezi, hogy a nemzeti fejlesztési miniszter az 1. pontban szereplő feladat végrehajtásához szükséges, a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 29. Gödöllői uszoda beruházás jogcímcsoport előirányzat terhére a 2018. év költségvetési keretösszegét meghaladóan a 2018. évben további, legfeljebb 1 100 546 791 forint összeg erejéig kötelezettséget vállaljon.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
 
 1. melléklet az 1525/2014. (IX. 18.) Korm. határozathoz
 
@@ -116,4 +122,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. pont d) alpontja az 1375/2017. (VI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^3]: A 7. pontot az 1375/2017. (VI. 14.) Korm. határozat 2. pontja iktatta be.
