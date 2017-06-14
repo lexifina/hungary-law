@@ -2,7 +2,7 @@
 
 12. § (1) A miniszter feladat- és hatáskörébe tartozó
 
-a)[^4] kereskedelem-fejlesztéssel összefüggő feladatainak körében az alább felsorolt feladatokat:
+a)[^5] kereskedelem-fejlesztéssel összefüggő feladatainak körében az alább felsorolt feladatokat:
 
 aa) javaslattétel a kereskedelem-fejlesztés közép- és hosszú távú céljainak kialakítására, a célok elérését biztosító gazdasági, szabályozási, intézményi és egyéb feltételrendszer kialakításának lehetséges irányaira,
 
@@ -58,9 +58,9 @@ az) a belföldi akvizíciós partnerhálózat és a külföldi partnerirodák ki
 
 ## az MNKH Magyar Nemzeti Kereskedőház Zártkörűen Működő Részvénytársaság, az MNKH Magyar Kereskedelem-fejlesztési és Promóciós Korlátolt Felelősségű Társaság, valamint az MNKH Közép-európai Kereskedelemfejlesztési Hálózat Korlátolt Felelősségű Társaság,
 
-b)[^5]
+b)[^6]
 
 c) a minisztérium kormánytisztviselőinek, munkavállalóinak és egyéb jogviszonyban foglalkoztatott munkatársainak oktatási, kulturális, sport és rekreációs lehetőségeit biztosító programok megszervezésével és ezek feltételeinek biztosításával kapcsolatos feladatokat a KKM Oktatási és Rekreációs Korlátolt Felelősségű Társaság
 
-[^4]: A 12. § (1) bekezdés a) pontja az 5/2016. (VII. 29.) KKM rendelet 3. §-ával megállapított szöveg.
-[^5]: A 12. § (1) bekezdés b) pontját az 5/2016. (VII. 29.) KKM rendelet 8. §-a hatályon kívül helyezte.
+[^5]: A 12. § (1) bekezdés a) pontja az 5/2016. (VII. 29.) KKM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 12. § (1) bekezdés b) pontját az 5/2016. (VII. 29.) KKM rendelet 8. §-a hatályon kívül helyezte.

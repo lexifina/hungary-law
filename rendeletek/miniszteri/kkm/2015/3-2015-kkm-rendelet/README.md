@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-3-20-6Q
 | 2015-07-17 | 2015-3-20-6Q.2 | 2010: CXXX. törvény |
 | 2016-07-30 | 2015-3-20-6Q.3 | 5/2016. (VII. 29.) KKM rendelet |
 | 2017-02-08 | 2015-3-20-6Q.4 | 1/2017. (II. 7.) KKM rendelet |
+| 2017-06-14 | 2015-3-20-6Q.5 | 16/2017. (XI. 27.) KKM rendelet |
