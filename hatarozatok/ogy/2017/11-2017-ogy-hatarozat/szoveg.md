@@ -1,0 +1,3 @@
+1. Az Országgyűlés megállapítja, hogy az Állami Számvevőszék törvényi kötelezettségeit teljesítette, a gazdálkodását független könyvvizsgáló ellenőrizte, illetve erre vonatkozó pénzügyi beszámolóját hitelesnek minősítette, ezért a szervezet 2016. évi ellenőrzési tevékenységéről, működéséről, gazdálkodásáról készített tájékoztató beszámolót elfogadja.
+
+2. Az Országgyűlés felkéri az Állami Számvevőszéket, hogy folytassa az államháztartás ellenőrzési rendszere módszertani megújítása érdekében kifejtett tevékenységét, és az ellenőrzési megállapításain, valamint elemzésein alapuló tapasztalataival járuljon hozzá az államháztartási rendszerben ellenőrzést végző szervezetek módszertani fejlesztéséhez, és tekintse át az ellenőrzésekről szóló tananyagokat.
