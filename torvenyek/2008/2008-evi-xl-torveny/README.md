@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2016-12-22 | 2016. évi CXLIII. törvény | 2008-40-00-00.63 |
 | 2016-12-28 | 2016. évi CLXXXIII. törvény | 2008-40-00-00.64 |
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2008-40-00-00.65 |
+| 2017-06-15 | 2017. évi LVII. törvény | 2008-40-00-00.66 |

@@ -11,3 +11,5 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 (3) Az (1) bekezdés szerinti külön díjak mértékét a Hivatal elnöke rendeletben állapítja meg.
 
 (4) Az (1) és a (2) bekezdés szerinti rendeletek előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+
+(5) A külön díj ellenében végzett szolgáltatások díját úgy kell megállapítani, hogy az segítse elő a legkisebb költség elvének érvényesülését. A Hivatal a fizetendő külön díj mértékét a szolgáltatásokkal összefüggő munkavégzésre fordított munkaidő és a munkavégzés átlagos óradíjának alapulvételével határozza meg. Ráfordított időként a Hivatal rendeletében meghatározottak szerint kizárólag a munkavégzés helyszínén munkavégzésre fordított idő vehető figyelembe.
