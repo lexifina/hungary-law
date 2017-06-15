@@ -1,6 +1,10 @@
 2. § E törvény és az e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:
 
-1. aszály: az a természeti esemény, amelynek során a kockázatviselés helyén az adott növény vegetációs időszakán belül harminc egymást követő napon belül a lehullott csapadék összes mennyisége a tíz millimétert nem éri el;
+1. aszály: az a természeti esemény, amelynek során a kockázatviselés helyén az adott növény vegetációs időszakában harminc egymást követő napon belül
+
+a) a lehullott csapadék összes mennyisége a tíz millimétert nem éri el, vagy
+
+b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri el és a napi maximum hőmérséklet legalább tizenöt napon meghaladja a 31 °C-ot;
 
 2. aszálykár: a kockázatviselés helyén termesztett növényekben az aszály miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 
