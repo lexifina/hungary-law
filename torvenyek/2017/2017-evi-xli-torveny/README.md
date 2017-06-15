@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-41-00-00
 | 2017-05-19 | 2010. évi CXXX. törvény | 2017-41-00-00.2 |
 | 2017-05-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-41-00-00.3 |
 | 2017-05-31 | 2010. évi CXXX. törvény | 2017-41-00-00.4 |
+| 2017-06-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-41-00-00.5 |
