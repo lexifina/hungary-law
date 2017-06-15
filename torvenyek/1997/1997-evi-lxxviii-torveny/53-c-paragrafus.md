@@ -4,7 +4,13 @@
 
 (3) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban jogerősen elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
 
-(3a) Ha az építésügyi hatóság az engedélyezési eljárásában kormányrendeletben meghatározott szakkérdést vizsgál, az ügyintézési határidő 35 nap, kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
+(3a) Ha az építésügyi hatóság az engedélyezési eljárásában kormányrendeletben meghatározott szakkérdést vizsgál, az ügyintézési határidő
+
+a) ipari rendeltetésű vagy mezőgazdasági tevékenység végzésére szolgáló épület esetében 30 nap,
+
+b) egyéb esetben 35 nap,
+
+kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
 
 (3b) Az összevont telepítési eljárás során az építésügyi hatóság számára irányadó ügyintézési határidő
 

@@ -44,7 +44,7 @@ p) a zöldfelület-, környezet- és természetkímélő fejlesztések támogat�
 
 a) a településfejlesztés és a településrendezés során a település teljes közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését biztosítani kell, részbeni összegyűjtése és helyben tartása biztosításának az adottságok és a lehetőségek szerinti figyelembevételével,
 
-b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest nem csökkenhet,
+b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest, az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint nem csökkenhet,
 
 c) a települések beépítésre szánt területeinek összességét – ott, ahol az fizikailag lehetséges – beépítésre nem szánt területekből álló gyűrűvel kell körülvenni, a települések összenövésének elkerülése érdekében,
 
