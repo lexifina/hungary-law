@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-21-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 1996-21-00-00.45 |
 | 2016-07-01 | 2016. évi LXXVIII. törvény | 1996-21-00-00.46 |
 | 2016-09-30 | 2016. évi LXXVIII. törvény | 1996-21-00-00.47 |
+| 2017-06-15 | 2017. évi LVII. törvény | 1996-21-00-00.48 |
