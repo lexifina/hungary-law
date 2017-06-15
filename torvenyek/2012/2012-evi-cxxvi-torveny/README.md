@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-126-00-00
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2012-126-00-00.18 |
 | 2017-05-18 | 2017. évi XLI. törvény | 2012-126-00-00.19 |
 | 2017-05-30 | 2017. évi XLI. törvény | 2012-126-00-00.20 |
+| 2017-06-15 | 2017. évi XLI. törvény | 2012-126-00-00.21 |
