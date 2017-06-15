@@ -1,6 +1,6 @@
 ## 3. A hatósági ellenőrzésre vonatkozó speciális szabályok
 
-5. § (1) Az üzemelő atomerőmű létesítményei vonatkozásában a tűzvédelmi hatóság 3 éves ciklusidejű átfogó ellenőrzési ütemtervet (a továbbiakban: ütemterv) készít éves bontásban.
+5. § (1)[^2] Az üzemelő atomerőmű létesítményei vonatkozásában a tűzvédelmi hatóság 5 éves ciklusidejű átfogó ellenőrzési ütemtervet (a továbbiakban: ütemterv) készít éves bontásban.
 
 (2) Az ütemtervnek tartalmaznia kell:
 
@@ -17,3 +17,5 @@ c) az ellenőrzési ciklusidőt.
 (5) Az atomenergia alkalmazására feljogosított engedélyesnek tájékoztatnia kell a tűzvédelmi hatóságot a következő évi főjavítások időtartamáról.
 
 (6) A főjavítások időtartama alatt – reaktorblokkonként évente 1 alkalommal – a tűzvédelmi hatóság célellenőrzés keretében vizsgálja a tűzvédelmi követelmények teljesülését.
+
+[^2]: Az 5. § (1) bekezdése a 12/2017. (VI. 7.) BM rendelet 2. §-ával megállapított szöveg.

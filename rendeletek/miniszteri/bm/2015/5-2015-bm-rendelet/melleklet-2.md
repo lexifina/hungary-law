@@ -30,7 +30,7 @@ c) a tűzoltás alapvető feltételeinek biztosítása szempontjából egy mért
 
 2.2. A tervezés időszakában a tűzkockázat csökkentése, a tűzbiztonság növelése érdekében az alábbiakat kell figyelembe venni:
 
-a) legalább A2 tűzvédelmi osztályba tartozó építési termékeket, építményszerkezetet kell alkalmazni – ideértve a hő- és hangszigeteléseket is –, kivéve a dekontaminálhatóságot biztosító bevonatokat és vízszigeteléseket, amelyek tűzkockázat-elemzéssel alátámasztottan alacsonyabb tűzvédelmi osztályúak is lehetnek,
+a)[^28] legalább A2 tűzvédelmi osztályú építési terméket, építményszerkezetet kell alkalmazni – ideértve a hő- és hangszigeteléseket, bevonatokat és burkolatokat is – kivéve a dekontaminálhatóságot biztosító bevonatokat és vízszigeteléseket, valamint a kültéri vízszigeteléseket és homlokzati nyílászárókat, amelyek tűzkockázat-elemzéssel alátámasztottan, alacsonyabb tűzvédelmi osztályúak is lehetnek, továbbá a technológiához közvetlenül nem kapcsolódó létesítményekben tűzkockázat-elemzéssel alátámasztottan B tűzvédelmi osztályú építési termék, építményszerkezet is alkalmazható,
 
 b) a technológiai létesítményen belül csak száraz transzformátorok alkalmazhatóak,
 
@@ -62,7 +62,7 @@ f) az éghető anyagok tárolása nem jelenthet veszélyt a biztonsági rendszer
 
 4.1. A kábelek tartószerkezetei legalább A2 tűzvédelmi osztályúak lehetnek.
 
-4.2. A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket kell alkalmazni.
+4.2.[^29] A tűzvédelmi jogszabályoknak megfelelő, tűzálló, működőképesség-megtartó kábeleket, kábelrendszereket kell alkalmazni. A működőképesség-megtartás követelményével nem érintett kábelek esetében a kábeleket úgy kell megválasztani, hogy a tűzterjedés, füstfejlődés, égve csepegés kockázata minimális legyen.
 
 4.3. A kábeleket úgy kell lefektetni, hogy túlmelegedés ne következzen be.
 
@@ -96,6 +96,8 @@ f) az éghető anyagok tárolása nem jelenthet veszélyt a biztonsági rendszer
 
 6.9. Az oltóanyagot úgy kell kiválasztani, hogy annak használata ne okozzon indokolatlan kockázatnövekedést, továbbá feleljen meg az adott terület biztonsági előírásainak is. Ezt az elvet a kézi tűzoltó eszközök kiválasztása során is érvényesíteni kell.
 
+6.10.[^30] Azon területekre telepített tűzjelző- és oltórendszerek esetében, melyekhez csak a technológia ütemezett, vagy üzemzavar miatti leállítását követően lehetséges a bejutás, a tűzjelző- és oltórendszerek felülvizsgálatára, karbantartására, javítására vonatkozó kötelezettségektől történő eltérést esetileg kell meghatározni a tűzkockázat-elemzéssel összhangban.
+
 7. Építészeti tűzvédelmi dokumentáció tartalmi követelményei
 
 7.1. Az építésügyi hatósági eljáráshoz készített tűzvédelmi dokumentációt csak tűzvédelmi szakértő vagy tűzvédelmi tervező készítheti.
@@ -126,7 +128,7 @@ j) a sztatikus feltöltődés elleni védelem szükségességét, a védekezés 
 
 8.1. A tűzkockázat-elemzést determinisztikus alapon kell elkészíteni. A tűzkockázat-elemzés feladata, hogy igazolja, hogy a tároló létesítmény megfelel az általános alapelvekben meghatározott tűzvédelmi, tűzbiztonsági kritériumoknak, a tűzvédelmi intézkedések megfelelnek a sugárvédelem követelményeinek.
 
-8.2. A determinisztikus tűzkockázat-elemzést felsőfokú tűzvédelmi végzettséggel rendelkező személy végezheti.
+8.2.[^31]
 
 8.3. Technológiai létesítmény tűzvédelmi tervezésének a tűzkockázat-elemzés által meghatározottakon kell alapulnia.
 
@@ -170,6 +172,8 @@ g) a kiegészítő tűzvédelem szükségessége.
 
 9.6. A tároló létesítménynek rendelkeznie kell eseti szabályzással a tűzkockázat-elemzés időszakos felülvizsgálatára.
 
+9.7.[^32] A tároló létesítmény üzemeltetéséhez a mélységi védelem és a tűzkockázat-elemzés figyelembevételével, a tűzbiztonság fenntartása érdekében elkészített tűzvédelmi szabályzatot folyamatosan karban kell tartani, és az abban foglaltak megtartását rendszeresen ellenőrizni.
+
 10. A tűzkockázat-elemzés időszakos felülvizsgálata
 
 10.1. A tűzvédelemre kiható változásnak minősül a beépített tűzvédelmi berendezések, építményszerkezetek, technológiai és épületinstallációs berendezések átalakítása, a tűzszakasz, helyiség tűzterhelésének, funkciójának megváltozása.
@@ -193,3 +197,9 @@ g) a kiegészítő tűzvédelem szükségessége.
 13. Tűzvizsgálat
 
 13.1. A tároló létesítményben keletkezett tűzesetek vizsgálata során keletkezett tűzvizsgálati iratokat a létesítmény saját belső vizsgálatához és a belső vizsgálatot követő jelentéséhez felhasználhatja.
+
+[^28]: A 2. melléklet I. fejezet 2.2. pont a) alpontja a 12/2017. (VI. 7.) BM rendelet 4. §-ával megállapított szöveg.
+[^29]: A 2. melléklet I. fejezet 4.2. pontja a 12/2017. (VI. 7.) BM rendelet 4. §-ával megállapított szöveg.
+[^30]: A 2. melléklet I. fejezet 6.10. pontját a 12/2017. (VI. 7.) BM rendelet 4. §-a iktatta be.
+[^31]: A 2. melléklet I. fejezet 8.2. pontját a 12/2017. (VI. 7.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^32]: A 2. melléklet I. fejezet 9.7. pontját a 12/2017. (VI. 7.) BM rendelet 4. §-a iktatta be.
