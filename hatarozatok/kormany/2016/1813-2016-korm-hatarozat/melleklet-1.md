@@ -1,12 +1,6 @@
 ## 1. egyetért az 1. melléklet szerinti egyházi célú támogatások megvalósításával, ezért az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújt az 1. mellékletben meghatározott célokra a mellékletben nevesített kedvezményezettek részére, az ott meghatározott összegben;
 
-## 2. felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az 1. pontban meghatározott feladathoz szükséges 121 123,5 millió forint összegű költségvetési forrást a 2016. évben biztosítsák;
-
-## Felelős: emberi erőforrások minisztere
-
-## nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 2.[^1] Felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az 1. pontban meghatározott feladathoz szükséges 110 123,5 millió forint összegű költségvetési forrást a 2016. évben biztosítsák.
 
 ## 3. felhívja az emberi erőforrások miniszterét, hogy az 1. pont szerinti egyházi célú támogatások megvalósítása érdekében tegye meg a szükséges intézkedéseket
 
@@ -20,13 +14,13 @@
 
 ## Határidő: 2016. december 30.
 
-1. melléklet az 1813/2016. (XII. 20.) Korm. határozathoz[^1]
+1. melléklet az 1813/2016. (XII. 20.) Korm. határozathoz[^2]
 
 | A támogatási cél/fejlesztés megnevezése | A támogatás célja | A támogatás összege (M Ft) | Kedvezményezett |
 
 | egyházi célú támogatások | Magyar Evangélikus Egyház kiemelt projektjei (fejlesztési támogatás) | 2 220,0 | Magyar Evangélikus Egyház |
 
-| egyházi célú támogatások | fejlesztési támogatás | 10 455,0 | Magyarországi Református Egyház Dunamelléki Egyházkerület |
+| egyházi célú támogatások | fejlesztési támogatás | 8 455,0 | Magyarországi Református Egyház Dunamelléki Egyházkerület |
 
 | egyházi célú támogatások | fejlesztési támogatás | 5 122,0 | Magyarországi Református Egyház Dunántúli Egyházkerület |
 
@@ -50,7 +44,7 @@
 
 | egyházi célú támogatások | fejlesztési támogatás | 8 750,0 | Magyar Katolikus Egyház – Pécsi Egyházmegye |
 
-| egyházi célú támogatások | fejlesztési támogatás | 13 100,0 | Magyar Katolikus Egyház – Szeged-Csanádi Egyházmegye |
+| egyházi célú támogatások | fejlesztési támogatás | 4 100,0 | Magyar Katolikus Egyház – Szeged-Csanádi Egyházmegye |
 
 | egyházi célú támogatások | fejlesztési támogatás | 8 320,0 | Magyar Katolikus Egyház – Székesfehérvári Egyházmegye |
 
@@ -110,4 +104,5 @@
 
 | egyházi célú támogatások | működési támogatás | 1,0 | Magyarországi Názáreti Gyülekezetek Hitéleti Egyesülete |
 
-[^1]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1380/2017. (VI. 15.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. határozat 2. pontja, az 1380/2017. (VI. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
