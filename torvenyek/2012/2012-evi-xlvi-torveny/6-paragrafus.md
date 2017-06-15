@@ -85,3 +85,5 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 (18) Az erdészeti hatóság évente egy alkalommal díj-, költség- és térítésmentesen jogosult a 3. § (1) bekezdés d) pontjában foglalt adatbázisból az Országos Erdőállomány Adattár nyilvántartásához szükséges adatok igénylésére.
 
 (19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.
+
+(20) A területrendezésért felelős miniszter, a megyei önkormányzat, valamint a települési önkormányzat a területrendezési, valamint a településrendezési feladatainak ellátásához (a területrendezési tervek, valamint a településrendezési eszközök készítéséhez szükséges adatokhoz) díj-, költség- és térítésmentesen hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
