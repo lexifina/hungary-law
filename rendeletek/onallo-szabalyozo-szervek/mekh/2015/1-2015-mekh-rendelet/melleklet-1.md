@@ -1,3 +1,3 @@
-1. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^23]
+1. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^30]
 
-[^23]: Az 1. melléklet a 4/2015. (VII. 27.) MEKH rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet az 5/2017. (VI. 8.) MEKH rendelet 8. § a) pontjável megállapított szöveg.

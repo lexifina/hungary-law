@@ -1,4 +1,4 @@
-## 2. [^14] Az előzetes havi kiegyenlítő fizetés kapacitásdíjból származó mértékére vonatkozó felülvizsgálat szabályai
+## 2. [^20] Az előzetes havi kiegyenlítő fizetés kapacitásdíjból származó mértékére vonatkozó felülvizsgálat szabályai
 
 9. § (1) Az engedélyesek a tárgyév első hat hónapjára vonatkozó, rendelkezésre álló tény és becsült kapacitáslekötési adatokat havi bontásban a tárgyév május 15-ig a Hivatal rendelkezésére bocsátják.
 
@@ -8,4 +8,4 @@
 
 (4) A módosított mértéket a tárgyév július 1-jétől kell alkalmazni.
 
-[^14]: A 2. alcím (9. §) a 4/2015. (VII. 27.) MEKH rendelet 5. §-ával megállapított szöveg.
+[^20]: A 2. alcím (9. §) a 4/2015. (VII. 27.) MEKH rendelet 5. §-ával megállapított szöveg.

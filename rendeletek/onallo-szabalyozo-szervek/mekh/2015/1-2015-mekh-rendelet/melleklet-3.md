@@ -6,9 +6,9 @@
 
 | 2. | Engedélyes megnevezése | FGSZ Földgázszállító Zrt. | Magyar Gáz Tranzit Zrt. |
 
-| 3. | Kiegyenlítő összeg mértéke, Ft | 300 631 000 | –300 631 000 |
+| 3. | Kiegyenlítő összeg mértéke, Ft | 336 970 000 | -336 970 000 |
 
-3. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^25]
+3. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^32]
 
 A 2015. tárgyévi éves kiegyenlítő fizetések mértéke
 
@@ -20,4 +20,4 @@ A 2015. tárgyévi éves kiegyenlítő fizetések mértéke
 
 | 3. | Kiegyenlítő összeg mértéke, Ft | 838 454 315 | –838 454 315 |
 
-[^25]: A 3. mellékletet a 4/2016. (VIII. 8.) MEKH rendelet 2. §-a iktatta be.
+[^32]: A 3. mellékletet a 4/2016. (VIII. 8.) MEKH rendelet 2. §-a iktatta be.

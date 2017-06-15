@@ -1,72 +1,76 @@
 ## I. A kapacitásdíjból származó előzetes havi kiegyenlítő fizetések meghatározása:
 
-## KFkapacitás havi n = KÁkap n - KÁIkap n, ahol:
+## KFkapacitás havi n = KÁkap n – KÁIkap n, ahol:
 
-## (1) KÁkap n = (Ákapn - VSZn - Adón) / 12
+## (1) KÁkap n = (Ákapn – Adón) / 12
 
-## (2) KÁIkap n = [Σ(Ákap n – VSZn – Adón) / Σ(ÁIkap n – VSZn – Adón) * (ÁIkap n – VSZn – Adón)] / 12
+## (2) KÁIkap n = [Σ(Ákap n – Adón) / Σ(ÁIkap n – Adón) * (ÁIkap n – Adón)] / 12
 
-## KFkapacitás havi n = a kapacitásdíjból származó havi kiegyenlítő fizetés nagyobb, mint 0 esetén megfizetendő a befizetésre kötelezett által
+## KFkapacitás havi n = a szállítási kapacitásdíjból származó havi kiegyenlítő fizetés nagyobb, mint 0 esetén megfizetendő a befizetésre kötelezett által
 
-## KÁkap n = a korrigált, kapacitásdíjból származó árbevétel értéke engedélyesenként
+## KÁkap n = a korrigált, szállítási kapacitásdíjból származó árbevétel értéke engedélyesenként
 
-## KÁIkap n = a rendszerüzemeltetési díjak számításakor figyelembe vett indokolt árbevétel-igény kapacitásdíjas részének korrigált értéke engedélyesenként
+## KÁIkap n = a szállítási rendszerüzemeltetési díj számításakor figyelembe vett indokolt árbevételigény kapacitásdíjas részének korrigált értéke engedélyesenként
 
 ## Adón = a szállítási rendszerüzemeltetésből származó árbevétel alapján fizetendő adók és díjak nettó árbevételre vetített tárgyévi átlagos értéke
 
-## Ákap n = a kapacitásdíjból származó árbevétel értéke engedélyesenként
+## Ákap n = a szállítási kapacitásdíjból származó árbevétel értéke engedélyesenként
 
-## VSZn = a 2. § (2) bekezdés e) pontja szerinti, számított visszatérítés
-
-## ÁIkap n = a rendszerüzemeltetési díjak számításakor figyelembe vett indokolt árbevétel-igény kapacitásdíjas része
+## ÁIkap n = a szállítási rendszerüzemeltetési díj számításakor figyelembe vett indokolt árbevételigény kapacitásdíjas része
 
 ## Minden tényező forintban kifejezve.
 
 ## II. A forgalmi díjból származó előzetes havi kiegyenlítő fizetések meghatározása:
 
-## KFforgalmi havi n = Áforgalmi n - KÁforgalmi n, ahol:
+## KFforgalmi havi n = Áforgalmi n – KÁforgalmi n, ahol:
 
 ## KÁforgalmi n = Dn * Q
 
-## Dn = Pn / Σ Pn * Dszabályozott
+## Dn = Pn/Σ Pn * Dszabályozott
 
-## KFforgalmi n = az engedélyes forgalmi díjból származó előzetes havi kiegyenlítő fizetése nagyobb, mint 0 esetén megfizetendő a befizetésre kötelezett által
+## KFforgalmi n = az engedélyes szállítási forgalmi díjból származó előzetes havi kiegyenlítő fizetése nagyobb, mint
 
-## KÁforgalmi n = a forgalmi díjból származó árbevétel korrigált értéke engedélyesenként (Ft),
+## 0 esetén megfizetendő a befizetésre kötelezett által
 
-## Dn = a kompresszoraránnyal súlyozott forgalmi díj (Ft/GJ, vagy Ft/MWh)
+## KÁforgalmi n = a szállítási forgalmi díjból származó árbevétel korrigált értéke engedélyesenként (Ft),
 
-## Q = az összekapcsolási ponton mért időszaki gázforgalom (GJ, vagy MWh)
+## Dn = a kompresszoraránnyal súlyozott forgalmi díj (Ft/MWh)
+
+## Q = az összekapcsolási ponton mért időszaki gázforgalom (MWh)
 
 ## Pn = az engedélyes működési engedélyében szereplő beépített kompresszorteljesítmény
 
-## Dszabályozott = a rendszerhasználati díj rendelet 9. § (1) bekezdés b) pontja szerinti szállítási rendszerüzemeltetési díj (forgalmi díj Ft/GJ, vagy Ft/MWh)
+## Dszabályozott = a keretrendelet 4. § (1) bekezdés b) pontja szerinti szállítási rendszerüzemeltetési díj (forgalmi díj
 
-## Áforgalmi n = az engedélyes számlázott (időszaki) forgalmi árbevétele (Ft), azaz Q*Dszabályozott
+## Ft/MWh)
 
-## III. A kapacitásdíjból és forgalmi díjból származó éves kiegyenlítő fizetések meghatározása:
+## Áforgalmi n = az engedélyes számlázott (időszaki) forgalmi árbevétele (Ft), azaz Q * Dszabályozott
+
+## III. A szállítási kapacitásdíjból és forgalmi díjból származó éves kiegyenlítő fizetések meghatározása:
 
 ## Kapacitásdíj tekintetében:
 
 ## KFkapacitás éves n = (KÁkap n – KÁIkap n) – ΣKFkapacitás havi n, ahol:
 
-## (1) KÁkap n = Ákap n - VSZn - Adókap n
+## (1) KÁkap n = Ákap n – VSZn – Adókap n
 
 ## (2) KÁIkap n = Σ(Ákap n – VSZn – Adókap n) / Σ(ÁIkap n – VSZn – Adókap n) * (ÁIkap n – VSZn – Adókap n)
 
-## KFkapacitás éves n = kapacitásdíjból származó éves kiegyenlítő fizetés nagyobb, mint 0 esetén megfizetendő a befizetésre kötelezett által
+## KFkapacitás éves n = a szállítási kapacitásdíjból származó éves kiegyenlítő fizetés nagyobb, mint 0 esetén megfizetendő a befizetésre kötelezett által
 
 ## KFkapacitás havi n = a tárgyév során megfizetett és megkapott, I. pont szerinti előzetes havi kiegyenlítő fizetések összege
 
-## KÁkap n = kapacitásdíjból származó korrigált árbevétel értéke engedélyesenként
+## KÁkap n = a szállítási kapacitásdíjból származó korrigált árbevétel értéke engedélyesenként
 
-## KÁIkap n = a kapacitásdíj számításának alapjául szolgáló indokolt árbevétel-igény korrigált értéke engedélyesenként
+## KÁIkap n = a szállítási kapacitásdíj számításának alapjául szolgáló indokolt árbevételigény korrigált értéke engedélyesenként
 
-## Adókap n = a szállítási rendszerüzemeltetésből származó árbevétel alapján fizetendő adók és díjak nettó kapacitásdíj-árbevételre vetített tárgyévi tény értéke Ákap n = a kapacitásdíj-árbevétel értéke engedélyesenként
+## Adókap n = a szállítási rendszerüzemeltetésből származó árbevétel alapján fizetendő adók és díjak nettó árbevételre vetített tárgyévi tény értéke
 
-## VSZn= adott engedélyes által átadott, a 2. § (2) bekezdés e) pontja szerinti visszatérítés
+## Ákap n = a szállítási kapacitásdíj-árbevétel értéke engedélyesenként
 
-## ÁIkap n = a kapacitásdíj számításának alapjául szolgáló indokolt árbevétel-igény
+## VSZn = adott engedélyes által átadott, a 2. § (2) bekezdés e) pontja szerinti visszatérítés
+
+## ÁIkap n = a szállítási kapacitásdíj számításának alapjául szolgáló indokolt árbevételigény
 
 ## Forgalmi díj tekintetében:
 
@@ -74,18 +78,18 @@
 
 ## (1) KITKforgalmi n = ΣÁforgalmi / Σ ITKforgalmi * ITKforgalmi n
 
-## KFforgalmi éves n = forgalmi díjból származó éves kiegyenlítő fizetés nagyobb, mint 0 esetén megfizetendő a befizetésre kötelezett által
+## KFforgalmi éves n = a szállítási forgalmi díjból származó éves kiegyenlítő fizetés nagyobb, mint 0 esetén megfizetendő a befizetésre kötelezett által
 
-## KITKforgalmi n = az engedélyes mennyiségarányos, korrigált indokolt tény költsége
+## KITKforgalmi n = az engedélyes korrigált mennyiségarányos indokolt költsége
 
-## ITKforgalmi n = az engedélyes mennyiségarányos, indokolt tény költsége, melynek meghatározása során a forgalmi díj alapját képező mennyiségarányos indokolt költségek felülvizsgált tény értékei kerülnek figyelembevételre
+## ITKforgalmi n = a forgalmi díj alapját képező mennyiségarányos indokolt költségek engedélyesenként
 
-## Áforgalmi n = a forgalmi díjakból származó árbevétel értéke engedélyesenként
+## Áforgalmi n = a szállítási forgalmi díjból származó árbevétel értéke engedélyesenként
 
-## KFforgalmi havi n= a tárgyév során megfizetett és megkapott, II. pont szerinti előzetes havi kiegyenlítő fizetések összege
+## KFforgalmi havi n = a tárgyév során megfizetett és megkapott, II. pont szerinti előzetes havi kiegyenlítő fizetések összege
 
 ## Minden tényező forintban kifejezve.
 
-2. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^24]
+2. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^31]
 
-[^24]: A 2. mellékletet a 4/2015. (VII. 27.) MEKH rendelet 10. § (2) bekezdése iktatta be, szövege a 12/2016. (XII. 14.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^31]: A 2. mellékletet az 5/2017. (VI. 8.) MEKH rendelet 8. § b) pontjável megállapított szöveg.
