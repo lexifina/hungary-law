@@ -1,4 +1,4 @@
-4/F. §[^38] (1) A pályázat eredményéről a pályázót – a Program Bírálati Bizottság 4/E. § (3) bekezdése szerinti döntését követő 5 munkanapon belül – a pályázatkezelő postai úton, a (2)–(3) bekezdésben foglalt szabályok szerint értesíti.
+4/F. §[^39] (1) A pályázat eredményéről a pályázót – a Program Bírálati Bizottság 4/E. § (3) bekezdése szerinti döntését követő 5 munkanapon belül – a pályázatkezelő postai úton, a (2)–(3) bekezdésben foglalt szabályok szerint értesíti.
 
 (2) Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek tértivevény többletszolgáltatással feladott küldeményként kézbesítik.
 
@@ -8,4 +8,4 @@ a) ha a címzett vagy a meghatalmazott a küldemény átvételét megtagadja, a 
 
 b) ha az „nem kereste” kézbesíthetetlenségi ok jelzésével érkezik vissza a feladóhoz, az eredménytelen kézbesítési kísérlet napját követő ötödik munkanapon – ellenkező bizonyításig –
 
-[^38]: A 4/F. § a 102/2014. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^39]: A 4/F. § a 102/2014. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

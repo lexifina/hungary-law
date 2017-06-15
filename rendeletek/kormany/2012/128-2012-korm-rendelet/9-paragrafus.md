@@ -2,6 +2,6 @@
 
 (2) A bérlő a közös képviselő vagy az intézőbizottság elnöke által kiállított igazolással köteles igazolni a bérbeadó számára, hogy elmaradt fizetési kötelezettségének maradéktalanul eleget tett.
 
-(3)[^43] Ha a bérlő hathavi mértékű közösköltség-hátralékot halmoz fel, a bérbeadó a bérleti szerződést felmondhatja. A felmondás a közösköltség-hátralék megfizetésére vonatkozó legutolsó felszólításban meghatározott és elmulasztott határidő utolsó napját követő hónap utolsó napjára szól.
+(3)[^44] Ha a bérlő hathavi mértékű közösköltség-hátralékot halmoz fel, a bérbeadó a bérleti szerződést felmondhatja. A felmondás a közösköltség-hátralék megfizetésére vonatkozó legutolsó felszólításban meghatározott és elmulasztott határidő utolsó napját követő hónap utolsó napjára szól.
 
-[^43]: A 9. § (3) bekezdése a 385/2012. (XII. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^44]: A 9. § (3) bekezdése a 385/2012. (XII. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

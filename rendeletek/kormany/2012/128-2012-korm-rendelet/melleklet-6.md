@@ -24,7 +24,7 @@
 
 | 4 | Egyéb (félkomfortos, komfort nélküli) | 125 Ft/m2 | 105 Ft/m2 | 68 Ft/m2 |
 
-6. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^106]
+6. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^107]
 
 A Segítő Szervezet által ellátandó feladatok
 
@@ -56,4 +56,4 @@ A Segítő Szervezet által ellátandó feladatok:
 
 13. indokolással ellátott, az adósságkezelési és együttműködési program előrehaladására vonatkozó beszámolót is tartalmazó javaslat készítése arra vonatkozóan, hogy a bérlő 10/C. § (1) bekezdése alapján a bérlő ingatlanban maradása indokolt.
 
-[^106]: A 6. mellékletet a 81/2014. (III. 14.) Korm. rendelet 4. §-a iktatta be, szövege a 447/2015. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^107]: A 6. mellékletet a 81/2014. (III. 14.) Korm. rendelet 4. §-a iktatta be, szövege a 447/2015. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
