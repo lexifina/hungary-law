@@ -1,6 +1,6 @@
 ## 11. A praxisengedély
 
-38. § (1) Praxisengedélyt kérelemre annak az állat-egészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állat-egészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, valamint a tevékenység folytatásához az állat-egészségügyi szolgáltató szakmai munkáját irányító állatorvossal.
+38. § (1) Praxisengedélyt kérelemre annak az állategészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állategészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, a tevékenység folytatásához az állategészségügyi szolgáltató szakmai munkáját irányító, FELIR azonosítóval rendelkező állatorvossal.
 
 (2)
 

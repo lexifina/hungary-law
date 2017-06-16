@@ -19,3 +19,5 @@ g) jogerősen elbírált etikai vétségeit, az elmarasztaló határozat jogerő
 (2) Az állatorvosi névjegyzékben a Kamara az állat-egészségügyi szolgáltató tevékenységet végző tagjainak az (1) bekezdés a)–f) pontja szerinti adatai a tagsági jogviszony megszűnéséig nyilvánosak, azokat a Kamara a honlapján naprakészen közzéteszi.
 
 (3) Az (1) bekezdésben szereplő adatokat a Kamara a tagsági jogviszony megszűnését követő öt évig kezeli az állat-egészségügyi feladatok ellátásához kapcsolódó közfeladatai ellátása érdekében.
+
+(4) A Kamara az állatorvosi névjegyzék vezetéséhez az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott adatokat használja.

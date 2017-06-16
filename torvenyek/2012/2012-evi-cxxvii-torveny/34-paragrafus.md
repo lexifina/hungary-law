@@ -4,7 +4,9 @@ a) szerepel az állatorvosi névjegyzékben,
 
 b) rendelkezik a kamarai állatorvosi névjegyzékbe bejegyzett székhellyel és
 
-c) rendelkezik a személyére, mint biztosítottra az állatorvosi tevékenységére vonatkozó érvényes szakmai felelősségbiztosítással.
+c) rendelkezik a személyére, mint biztosítottra az állatorvosi tevékenységére vonatkozó érvényes szakmai felelősségbiztosítással,
+
+d) rendelkezik FELIR azonosítóval.
 
 (2) Állat-egészségügyi szolgáltatónál állatorvosi tevékenység, illetve az abban történő közreműködés – a rendelkezésre álló lehetőségek között – az alábbi jogviszonyok keretében végezhető
 
