@@ -1,28 +1,25 @@
-## 3. § A Szabályzatnak tartalmaznia kell:
+## 3. §[^4] A Szabályzatnak tartalmaznia kell:
 
-a) a tűzvédelmi feladatokat is ellátó személyek feladatait és kötelezettségeit;
+a) a tűzvédelmi feladatokat ellátó személyek feladatait és kötelezettségeit;
 
-b) a tűzvédelmi szervezet feladatára, felépítésére, működési és irányítási rendjére, valamint a finanszírozására vonatkozó szabályokat;
+b) a tűzvédelmi szervezet feladatára, felépítésére, működési és irányítási rendjére vonatkozó szabályokat;
 
-c)[^1] az építményekre, szabadterekre vonatkozó eseti tűzvédelmi használati szabályokat, előírásokat;
+c) a tevékenységre és a tevékenység helyszínére vonatkozó tűzvédelmi használati szabályokat, előírásokat;
 
-d) a tevékenységre vonatkozó tűzvédelmi használati szabályokat, előírásokat;
+d) az alkalomszerű tűzveszélyes tevékenység végzéséhez szükséges írásbeli feltételek meghatározására, illetve előzetes egyeztetésére jogosult munkakörök, beosztások felsorolását;
 
-e) az alkalomszerű tűzveszélyes tevékenység végzéséhez szükséges írásbeli feltételek meghatározására, illetve előzetes egyeztetésére jogosult személyek felsorolását;
+e) a tűzvédelmi oktatással, a tűzvédelmi berendezések kezelésének megismertetésével kapcsolatos feladatokat és a munkavállalókra vonatkozó tűzvédelmi képesítési követelményeket;
 
-f) a tűzvédelmi oktatással kapcsolatos feladatokat és a munkavállalókra vonatkozó tűzvédelmi képesítési követelményeket;
+f) a munkavállalóknak a tűzeset vagy műszaki mentést igénylő esemény esetén végrehajtandó feladatait;
 
-g) a munkavállalóknak a tűzjelzéssel, tűzoltással, műszaki mentéssel kapcsolatos feladatait;
+g) a létesítményi tűzoltóság működésének, szolgálatellátásának szabályait;
 
-h) a létesítményi tűzoltóság működésének, szolgálatellátásának, tagjai díjazásának szabályait;
+h) a Szabályzat készítésére kötelezett által üzemeltetett, bérelt épületrész, épület 50 főnél nagyobb befogadóképességű helyiségei esetében a – kiürítési számítással vagy azzal egyenértékű módon igazolt – megengedett maximális befogadóképességet;
 
-i)[^2] a tevékenység helyszínét képező és 50 főnél nagyobb befogadóképességű helyiséget tartalmazó önálló rendeltetési egység vagy önálló rendeltetési egységen belüli, helyiségcsoport (építményrész) esetében a – kiürítési számítással vagy azzal egyenértékű módon igazolt – megengedett maximális befogadóképességet;
+i) a h) pont szerinti esetekben a megengedett maximális befogadóképességnek megfelelő helyiséghasználat módját és felelősét;
 
-j)[^3] az i) pont szerinti esetekben a megengedett maximális befogadóképességnek megfelelő helyiséghasználat módját és felelősét;
+j) a készítője nevét és elérhetőségét, a készítő aláírását; valamint
 
-k)[^4] a készítője nevét és elérhetőségét, valamint a készítő aláírását.
+k) a készítés dátumát, a készítő tűzvédelmi szakmai képesítését igazoló dokumentum egyedi azonosítóit (a kiállító intézmény nevét, címét, a dokumentum számát, a szakmai képesítés megnevezését, a kiállítás dátumát).
 
-[^1]: A 3. § c) pontja a 4/2015. (II. 27.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 3. § i) pontját a 10/2011. (III. 28.) BM rendelet 1. § (1) bekezdése iktatta be.
-[^3]: A 3. § j) pontját a 10/2011. (III. 28.) BM rendelet 1. § (1) bekezdése iktatta be.
-[^4]: A 3. § k) pontját a 74/2015. (XII. 21.) BM rendelet 1. §-a iktatta be.
+[^4]: A 3. § a 10/2017. (VI. 1.) BM rendelet 3. §-ával megállapított szöveg.

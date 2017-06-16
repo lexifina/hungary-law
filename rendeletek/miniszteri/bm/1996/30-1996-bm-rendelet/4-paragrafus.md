@@ -1,43 +1,45 @@
-4. § (1) A Szabályzat mellékleteként Tűzriadó Tervet kell készíteni:
+4. § (1)[^5] A Szabályzat készítésére kötelezett a Szabályzat mellékleteként Tűzriadó Tervet köteles készíteni az általa üzemeltetett, bérelt
 
-a)[^5]
+a) épületrészre, épületre, ha az
 
-b)[^6] a művelődési, oktatási, kulturális, sport, egészségügyi és szociális építményrészre, építményre, létesítményekre;
+aa) menekülésben korlátozott személyek elhelyezésére, ellátására, kezelésére, nevelésére, oktatására, gondozására szolgál,
 
-c) azokra a létesítményekre, amelyekben egy tűzszakaszon belül több, mint 300 fő tartózkodhat;
+ab) oktatási intézmény működésére szolgál, amelynek megengedett maximális befogadóképessége meghaladja az 50 főt,
 
-d)[^7] kereskedelmi szálláshelyre;
+ac) tömegtartózkodás céljára szolgáló helyiséggel rendelkezik, vagy az épületrészen, épületen egyidejűleg 300-nál több fő tartózkodhat, vagy
 
-e) az olyan időszakos vagy állandó jelleggel üzemelő zenés szórakozóhelyekre, ahol egy időben 50 főnél több személy tartózkodhat;
+ad) 20-nál több férőhellyel rendelkező kereskedelmi szálláshellyel rendelkezik,
 
-f)[^8] a robbanásveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló építményre és szabadtérre, ahol az anyag robbanásveszélyes állapotban fordulhat elő;
+b) épületrészre, épületre, szabadtérre, ha az
 
-g)[^9] tűzveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló 3000 m2-nél nagyobb alapterületű építményre és szabadtérre.
+ba) olyan zenés szórakozóhely működésére szolgál, amely megengedett maximális befogadóképessége meghaladja az 50 főt, vagy
+
+bb) 1000 kg vagy 1000 liter mennyiséget meghaladó robbanásveszélyes osztályba tartozó anyag – az üzemanyagtöltő állomásokon a kimérő szerkezetekhez kapcsolódó technológiai tartályokban tárolt üzemanyagot figyelmen kívül hagyva – előállítására, feldolgozására, tárolására szolgál, és az anyag robbanásveszélyes állapotban fordulhat elő.
 
 (2) A Tűzriadó Tervnek tartalmaznia kell:
 
 a) a tűzjelzés módját;
 
-b) a tűzoltóság, valamint a létesítményben tartózkodók riasztási rendjét, a létesítmény elhagyásának módját;
+b)[^6] a tűzoltóság, valamint az épületrészben, épületben, szabadtéren tartózkodó veszélyeztetett személyek riasztási rendjét, az épület, szabadtér elhagyásának módját;
 
 c) a tűz esetén a munkavállalók szükséges tennivalóit (tűzvédelmi berendezés kezelése, tűzoltás és mentés, rendfenntartás, technológiai folyamat leállítása, áramtalanítás stb.);
 
 d) a főbb veszélyforrások megnevezését (utalással a védekezési szabályokra);
 
-e)[^10] a létesítmény helyszínrajzát, szükség szerint az építmény, építményrész szintenkénti alaprajzait a tűzvédelmi szempontból fontos berendezések (eszközök), központi elzárók (kapcsolók) és a vízszerzési helyek, a kiürítési útvonalak és a 3. § i) pont szerinti esetekben a helyiségek megengedett maximális befogadóképességének megjelölésével.
+e)[^7] a létesítmény helyszínrajzát, az épület, épületrész szintenkénti alaprajzait a tűzvédelmi szempontból fontos berendezések (eszközök), központi elzárók (kapcsolók), a vízszerzési helyek és az egyéb oltóanyagtároló helyek, a (2) bekezdés d) pontja szerinti veszélyforrások, a kiürítési útvonalak és a 3. § h) pontja szerinti esetekben a helyiségek megengedett maximális befogadóképességének megjelölésével.
 
-(3)[^11] A Tűzriadó Tervben foglaltak végrehajtását szükség szerint, de legalább évente az érintettekkel gyakoroltatni és annak eredményét írásban rögzíteni kell.
+(3)[^8] Épületrészre vonatkozó Tűzriadó Terv készítése során az épületrészt befogadó épület egyéb részére és az épületre kidolgozott Tűzriadó Tervet is figyelembe kell venni.
 
-(4)[^12] A Tűzriadó Tervet állandóan hozzáférhető helyen kell elhelyezni.
+(4)[^9] A Tűzriadó Tervben foglaltak végrehajtását szükség szerint, de legalább évente az érintettekkel gyakoroltatni, annak eredményét értékelni és azt írásban rögzíteni kell. A gyakorlat során tapasztalt hibák, hiányosságok megszüntetésére 15 napon belül írásban intézkedni kell. A tervezett gyakorlatról annak időpontja előtt legalább 15 nappal, továbbá a gyakorlat bejelentett időpontjával kapcsolatos változásról a tűzvédelmi hatóságot értesíteni kell.
 
-(5)[^13] Az (1) bekezdés b)–e) pontjában felsoroltak közösségi terein, továbbá szálláshelyeken a szobákban is el kell helyezni az épület elhagyásának lehetőségét (menekülési útvonal) tartalmazó alaprajzot és annak szöveges leírását vagy olyan kivonatát, amely az adott helyiség, épület biztonságos elhagyásának irányáról, módjáról tájékoztatást ad. A tájékoztatást a külföldiek elhelyezésére is szolgáló kereskedelmi szálláshelyeken angol és német nyelven is kötelező elhelyezni.
+(5)[^10] A Tűzriadó Tervet állandóan hozzáférhető helyen, az érintett épületrész, épület területén kell elhelyezni.
 
-[^5]: A 4. § (1) bekezdés a) pontját a 4/2015. (II. 27.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^6]: A 4. § (1) bekezdés b) pontja a 10/2011. (III. 28.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^7]: A 4. § (1) bekezdésének d) és e) pontját a 33/1999. (IX. 24.) BM rendelet 1. §-a iktatta a szövegbe.
-[^8]: A 4. § (1) bekezdés f) pontját a 4/2015. (II. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 4. § (1) bekezdés g) pontját a 4/2015. (II. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^10]: A 4. § (2) bekezdés e) pontja a 10/2011. (III. 28.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^11]: A 4. § (3) bekezdése a 33/1999. (IX. 24.) BM rendelet 2. §-ával megállapított szöveg.
-[^12]: A 4. § (4) és (5) bekezdését a 33/1999. (IX. 24.) BM rendelet 3. §-a iktatta a szövegbe.
-[^13]: A 4. § (5) bekezdése a 10/2011. (III. 28.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
+(6)[^11] Az (1) bekezdés a) pontjában és b) pont ba) alpontjában felsoroltak közösségi terein, továbbá szálláshelyeken a szobákban is el kell helyezni az épület elhagyásának lehetőségét (menekülési útvonal) tartalmazó alaprajzot és annak szöveges leírását vagy olyan kivonatát, amely az adott helyiség, épület biztonságos elhagyásának irányáról, módjáról tájékoztatást ad. A tájékoztatást a külföldiek elhelyezésére is szolgáló kereskedelmi szálláshelyeken angol és német nyelven, valamint szükség szerint további idegen nyelven is kötelező elhelyezni.
+
+[^5]: A 4. § (1) bekezdése a 10/2017. (VI. 1.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (2) bekezdés b) pontja a 10/2017. (VI. 1.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdés e) pontja a 10/2017. (VI. 1.) BM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § (3) bekezdése a 10/2017. (VI. 1.) BM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. § (4) bekezdését a 33/1999. (IX. 24.) BM rendelet 3. §-a iktatta be, szövege a 10/2017. (VI. 1.) BM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^10]: A 4. § (5) bekezdését a 33/1999. (IX. 24.) BM rendelet 3. §-a iktatta be, szövege a 10/2017. (VI. 1.) BM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^11]: A 4. § (6) bekezdését a 10/2017. (VI. 1.) BM rendelet 4. § (4) bekezdése iktatta be.
