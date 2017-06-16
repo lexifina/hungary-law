@@ -1,4 +1,4 @@
-2. §[^5] (1)[^6] Tűzvédelmi szakértői tevékenységet az folytathat, aki
+2. §[^6] (1)[^7] Tűzvédelmi szakértői tevékenységet az folytathat, aki
 
 a) tűzvédelmi mérnök, tűzvédelmi szakmérnök, építőmérnök, illetve építészmérnök tűz- és katasztrófavédelmi szakirányú végzettséggel, vagy területi építész vagy mérnöki kamarai tagsággal, felsőfokú végzettséggel és jogszabályban meghatározott felsőszintű tűzvédelmi szakmai képesítéssel,
 
@@ -14,10 +14,11 @@ a) egyetemi vagy főiskolai végzettséggel és jogszabály szerint meghatározo
 
 b) a tűzvizsgálati szakterületen legalább tízéves szakmai gyakorlattal rendelkezik.
 
-(3)[^7] Tűzvédelmi szakértői tevékenység azon a tűzvédelmi szakterületen végezhető, amelyen a vizsgázó sikeres vizsgát tett, és a vizsgabizonyítvány érvényességi ideje alatt a tevékenység megkezdését bejelentette.
+(3)[^8] Tűzvédelmi szakértői tevékenység azon a tűzvédelmi szakterületen végezhető, amelyen a vizsgázó sikeres vizsgát tett, és a tevékenység megkezdését bejelentette.
 
-(4) A BM OKF a vizsga időpontjáról a kérelem hiánytalan benyújtásától számított 30 napon belül értesíti a kérelmezőt.
+(4)[^9] A BM OKF a vizsga időpontjáról a vizsgára történő jelentkezés hiánytalan benyújtásától számított 30 napon belül értesíti a vizsgára jelentkezőt.
 
-[^5]: A 2. § a 82/2013. (XII. 23.) BM rendelet 2. §-ával megállapított szöveg.
-[^6]: A 2. § (1) bekezdés nyitó szövegrésze a 75/2015. (XII. 22.) BM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^7]: A 2. § (3) bekezdése a 75/2015. (XII. 22.) BM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^6]: A 2. § a 82/2013. (XII. 23.) BM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdés nyitó szövegrésze a 75/2015. (XII. 22.) BM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § (3) bekezdése a 10/2017. (VI. 1.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (4) bekezdése a 10/2017. (VI. 1.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.

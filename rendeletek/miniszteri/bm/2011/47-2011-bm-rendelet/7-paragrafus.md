@@ -1,6 +1,6 @@
-7. §[^16] (1) A hatóság a tűzvédelmi szakértői tevékenység végzését megtiltja és a tűzvédelmi szakértőt törli a névjegyzékből, ha:
+7. §[^25] (1) A hatóság a tűzvédelmi szakértői tevékenység végzését megtiltja és a tűzvédelmi szakértőt törli a névjegyzékből, ha:
 
-a) a bizonyítványban meghatározott érvényességi időn belül a szakértő ismétlő vizsgára nem jelentkezett,
+a)[^26] a bizonyítvány érvényességi ideje alatt nem tett sikeres vizsgát,
 
 b) bejelenti, hogy a szakértői tevékenységét nem kívánja tovább folytatni,
 
@@ -14,6 +14,8 @@ f) szakmai tevékenységének ellenőrzése során megállapításra kerül, hog
 
 (2) A tűzvédelmi szakértői tevékenység megtiltásáról és a névjegyzékből való törlésről a BM OKF határozatban dönt.
 
-(3) A BM OKF a szakértői tevékenység megtiltásáról és a névjegyzékből való törlésről köteles értesíteni az igazságügyi szakértői névjegyzéket vezető hatóságot.
+(3)[^27] A BM OKF a tűzvédelmi szakértői tevékenység megtiltásáról és a névjegyzékből való törlésről határozatban dönt, és a döntésről értesíti az igazságügyi szakértői névjegyzéket vezető hatóságot, ha a szakértő szerepel az igazságügyi szakértők névjegyzékében.
 
-[^16]: A 7. § a 75/2015. (XII. 22.) BM rendelet 3. § (10) bekezdésével megállapított szöveg.
+[^25]: A 7. § a 75/2015. (XII. 22.) BM rendelet 3. § (10) bekezdésével megállapított szöveg.
+[^26]: A 7. § (1) bekezdés a) pontja a 10/2017. (VI. 1.) BM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^27]: A 7. § (3) bekezdése a 10/2017. (VI. 1.) BM rendelet 18. § (2) bekezdésével megállapított szöveg.

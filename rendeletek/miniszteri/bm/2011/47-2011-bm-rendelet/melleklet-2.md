@@ -22,30 +22,6 @@
 
 | 4. Tűzvizsgálat | a) Tűzvizsgálati szakértő |
 
-2. melléklet a 47/2011. (XII. 15.) BM rendelethez[^27]
+2. melléklet a 47/2011. (XII. 15.) BM rendelethez[^44]
 
-A tűzvédelmi szakértői tevékenység bejelentése
-
-Bejelentés típusa (tevékenység megkezdés, adatváltozás)
-
-Szolgáltató neve
-
-Szolgáltató székhelye vagy lakcíme
-
-Szolgáltató levelezési címe
-
-Tűzvédelmi szakértői szakterület(ek) pontos megjelölése
-
-A tűzvédelmi szakértői szakterületre vonatkozó bizonyítvány száma és érvényességi ideje
-
-A tevékenység gyakorlására jogosult elérhetőségei
-
-Telefonszám
-
-Fax szám (ha van)
-
-E-mail cím
-
-Nyilvántartási szám (adatváltozás esetén)
-
-[^27]: A 2. mellékletet a 75/2015. (XII. 22.) BM rendelet 3. § (15) bekezdése iktatta be.
+[^44]: A 2. mellékletet a 75/2015. (XII. 22.) BM rendelet 3. § (15) bekezdése iktatta be.

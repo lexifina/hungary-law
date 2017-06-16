@@ -1,19 +1,21 @@
 ## esetén.
 
-5. §[^15] (1) A tűzvédelmi szakértői tevékenység azon a tűzvédelmi szakterületen, amelyen a szakértő sikeres vizsgát tett, öt évig végezhető ismétlő vizsga letétele nélkül. A tűzvédelmi szakértői tevékenység folytatásának feltétele, hogy a tűzvédelmi szakértő a továbbképzési időszakban tűzvédelmi szakértői továbbképzésen vegyen részt és a szakterületének megfelelő érvényes bizonyítvánnyal rendelkezzen.
+5. §[^20] (1) A tűzvédelmi szakértői tevékenység azon a tűzvédelmi szakterületen, amelyen a szakértő sikeres vizsgát tett, öt évig végezhető ismétlő vizsga letétele nélkül. A tűzvédelmi szakértői tevékenység folytatásának feltétele, hogy a tűzvédelmi szakértő a továbbképzési időszakban tűzvédelmi szakértői továbbképzésen vegyen részt és a szakterületének megfelelő érvényes bizonyítvánnyal rendelkezzen.
 
-(2) Az ismétlő vizsgára a 4. § (2)–(4) bekezdését megfelelően alkalmazni kell.
+(2)[^21] Az ismétlő vizsgára a 2. § (4) bekezdését, valamint a 4. § (2)–(4) bekezdését megfelelően alkalmazni kell.
 
-(3) Az ismétlő vizsgára való jelentkezésnek tartalmaznia kell
+(3)[^22] Az ismétlő vizsgára való jelentkezésnek tartalmaznia kell:
 
-a) a 3. § (1) és (2) bekezdésében meghatározott adatokat,
+a) a 3. § (1) bekezdés a)–c), g) és j) pontjában meghatározott adatokat,
 
-b) a vizsgára jelentkezés iránti kérelmet és az igazgatási szolgáltatási díj befizetését igazoló bizonylatot,
+b) a 8. § (2) bekezdés szerinti nyilvántartás másolatát.
 
-c) a tanfolyamszervező által kiállított igazolást tűzvédelmi szakértői továbbképzésen történő részvételről.
+(4)[^23] A tűzvédelmi szakértőnek a vizsgabizonyítványban meghatározott érvényességi idő lejárta előtt legalább 30 nappal jelentkeznie kell az ismétlő vizsgára.
 
-(4) Ismétlő vizsgára történő jelentkezés esetén a Ttv. 46/B. § (1) bekezdésében meghatározott feltételek fennállását a hatóságnak hatósági ellenőrzés lefolytatásával vagy a tűzvédelmi szakértő által benyújtott iratok alapján kötelező vizsgálnia.
+(5)[^24]
 
-(5) A BM OKF az ismétlő vizsga időpontjáról a jelentkezés hiánytalan benyújtásától számított 30 napon belül értesíti a vizsgázót.
-
-[^15]: Az 5. § a 75/2015. (XII. 22.) BM rendelet 3. § (9) bekezdésével megállapított szöveg.
+[^20]: Az 5. § a 75/2015. (XII. 22.) BM rendelet 3. § (9) bekezdésével megállapított szöveg.
+[^21]: Az 5. § (2) bekezdése a 10/2017. (VI. 1.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (3) bekezdése a 10/2017. (VI. 1.) BM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 5. § (4) bekezdése a 10/2017. (VI. 1.) BM rendelet 17. §-ával megállapított szöveg.
+[^24]: Az 5. § (5) bekezdését a 10/2017. (VI. 1.) BM rendelet 24. § c) pontja hatályon kívül helyezte.
