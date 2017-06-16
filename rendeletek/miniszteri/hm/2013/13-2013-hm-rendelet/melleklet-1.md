@@ -1,64 +1,60 @@
-## 27. §[^64] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
+## 27. §[^95] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
 
-1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^65]
+1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^96]
 
-1. Belföldi egyéni, családos igényjogosulti térítési díjak a Magyar Honvédség (a továbbiakban: MH) rekreációt végző szervezeténél
+1. Igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
 
 |  | A | B | C | D | E | F |
 
-| 1. | Az intézmény megnevezése | Szoba kategória | Elő- és utószezoni félpanzió nettó térítési díja (Ft/fő/vendégéjszaka) | Elő- és utószezoni teljes panzió nettó térítési díja (Ft/fő/ vendégéjszaka) | Főszezoni félpanzió nettó térítési díja (Ft/fő/ vendégéjszaka) | Főszezoni teljes panzió nettó térítési díja (Ft/fő/ vendégéjszaka) |
+| 1. | Az intézmény megnevezése | Szoba kategória | Elő- és utószezoni félpanziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) | Elő- és utószezoni teljes panziós ellátás nettó térítési díja (Ft/fő/ vendégéjszaka) | Főszezoni félpanziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) | Főszezoni teljes panziós ellátás nettó térítési díja (Ft/fő/ vendégéjszaka) |
 
-| 2. | MH rekreációt végző szervezete (Balatonakarattya) | V., VI. villa | 3950 | 4570 | 5750 | 6370 |
+| 2. | MH regenerálódást segítő és rekreációt végző szervezete (Balatonakarattya) | V., VI. villa | 5050 | 5670 | 6850 | 7470 |
 
-| 3. | I. villa | 2950 | 3570 | 4150 | 4770 |
+| 3. | I. villa | 4050 | 4670 | 5250 | 5870 |
 
-| 4. | Hotel Platán apartman | 2550 | 3170 | 3550 | 4170 |
+| 4. | Hotel Platán apartman | 3650 | 4270 | 4770 | 5390 |
 
-| 5. | Faház | 2550 | 3170 | 3670 | 4290 |
+| 5. | Hotel Napfény lakosztály |
 
-| 6. | Hotel Napfény lakosztály | 2250 | 2870 | 3150 | 3770 |
+| 6. | Faház |
 
-| 7. | Hotel Napfény fürdőszobás szoba | 1850 | 2470 | 2500 | 3120 |
+| 7. | Komfortos szoba a Hotel Napfényben, a Hotel Aranyhídban és a Hotel Sirályban | 2950 | 3580 | 3600 | 4220 |
 
-| 8. | Hotel Sirály, Aranyhíd, IV. villa fürdőszobás szoba | 1750 | 2370 | 2250 | 2870 |
+| 8. | Hotel Sirály fürdőszobás szoba, WC nélkül | 2750 | 3370 | 3170 | 3790 |
 
-| 9. | Hotel Sirály fürdőszobás szoba, WC nélkül | 1650 | 2270 | 2070 | 2690 |
+| 9. | Hotel Sirály folyóvizes szoba, WC nélkül | 2550 | 3270 | 2850 | 3470 |
 
-| 10. | Hotel Sirály folyóvizes szoba, WC nélkül | 1450 | 2170 | 1750 | 2370 |
-
-1a. Igényjogosulti térítési díjak 13 vendégéjszaka időtartamon túl és nem igényjogosulti térítési díjak az MH rekreációt végző szervezetében
+1a. Igényjogosulti térítési díjak 13 vendégéjszaka időtartamon túl, és nem igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
 
 |  | A | B | C | D | E |
 
-| 1. | Intézmény megnevezése | Szoba kategória | Nem igényjogosulti ár +% | Elő- és utószezon | Főszezon |
+| 1. | Az Intézmény megnevezése | Szoba kategória | Igényjogosulti ár +% | Elő- és utószezon | Főszezon |
 
-| 2. | MH rekreációt végző szervezete (Balatonakarattya) |  | Félpanziós térítési díj (Ft/fő/éj) | Teljes panziós térítésdíj (Ft/fő/ éj) | Félpanziós térítési díj (Ft/fő/éj) | Teljes panziós térítési díj (Ft/fő/éj) |
+| 2. | MH regenerálódást segítő és rekreációt végző szervezete (Balatonakarattya) |  | Félpanziós ellátás nettó térítési díja (Ft/fő/éj) | Teljes panziós ellátás nettó térítési díja (Ft/fő/éj) | Félpanziós ellátás nettó térítési díja (Ft/fő/éj) | Teljes panziós ellátás nettó térítési díja (Ft/fő/éj) |
 
-| 3. | V., VI. villa | 100 | 7900 | 9140 | 11500 | 12740 |
+| 3. | V., VI. villa | 100 | 10 100 | 11 340 | 13 700 | 14 940 |
 
-| 4. | I. villa | 130 | 6785 | 8211 | 9545 | 10971 |
+| 4. | I. villa | 130 | 9315 | 10 741 | 12 075 | 13 501 |
 
-| 5. | Hotel Platán apartman | 120 | 5610 | 6974 | 7810 | 9174 |
+| 5. | Hotel Platán apartman | 130 | 8395 | 9821 | 10 971 | 12 397 |
 
-| 6. | Faház | 120 | 5610 | 6974 | 8074 | 9438 |
+| 6. | Hotel Napfény lakosztály |
 
-| 7. | Hotel Napfény lakosztály | 130 | 5175 | 6601 | 7245 | 8671 |
+| 7. | Faház |
 
-| 8. | Hotel Napfény fürdőszobás szoba | 130 | 4255 | 5681 | 5750 | 7176 |
+| 8. | Komfortos szoba a Hotel Napfényben, a Hotel Aranyhídban és a Hotel Sirályban | 130 | 6785 | 8234 | 8280 | 9706 |
 
-| 9. | Hotel Sirály, Aranyhíd, IV. villa fürdőszobás szoba | 110 | 3675 | 4977 | 4725 | 6027 |
+| 9. | Hotel Sirály fürdőszobás szoba, WC nélkül | 130 | 6325 | 7751 | 7291 | 8717 |
 
-| 10. | Hotel Sirály fürdőszobás szoba, WC nélkül | 110 | 3465 | 4767 | 4347 | 5649 |
+| 10. | Hotel Sirály folyóvizes szoba, WC nélkül | 130 | 5865 | 7521 | 6555 | 7981 |
 
-| 11. | Hotel Sirály folyóvizes szoba, WC nélkül | 110 | 3045 | 4557 | 3675 | 4977 |
-
-1b. Igényjogosulti térítési díjak az MH rekreációt végző szervezet Honvéd Kempingjében
+1b. Igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezete Honvéd Kempingjében
 
 |  | A | B | C | D | E | F |
 
 | 1. | Az intézmény megnevezése | Díjtételek | Önköltség (bruttó) | Díjkategóriák | Elő- és utószezoni térítési díj (önköltség + 100%) | Főszezoni térítési díj (önköltség + 200%) |
 
-| 2. | MH rekreációt végző szervezete – Honvéd Kemping | Területegységek díjai (Ft/területegység/éj) | 592,15 | I. kategória – Lakókocsi hely áramvételi lehetőséggel (80 m2) | 1185 | 1775 |
+| 2. | MH regenerálódást segítő és rekreációt végző szervezete Honvéd Kemping (Balatonakarattya) | Területegységek díjai (Ft/terület- egység/éj) | 592,15 | I. kategória – Lakókocsi hely áramvételi lehetőséggel (80 m2) | 1185 | 1775 |
 
 | 3. | 479,67 | II. kategória – Nagy sátorhely áramvételi lehetőséggel (64 m2) | 960 | 1440 |
 
@@ -68,31 +64,81 @@
 
 | 6. |  | Gyermek kategória – 3–12 éves kor között | 290 | 430 |
 
-1c. Nem igényjogosulti térítési díjak az MH rekreációt végző szervezet Honvéd Kempingjében
+1c. Nem igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezet Honvéd Kempingjében
 
 |  | A | B | C | D | E | F |
 
-| 1. | Az intézmény megnevezése | Díjtételek | Önköltség (bruttó) | Díjkategóriák | Elő- és utószezoni térítési díj (az önköltség + 150%) | Főszezoni térítési díj (az önköltség + 200%) |
+| 1. | Az intézmény megnevezése | Díjtételek | Önköltség (bruttó) | Díjkategóriák | Elő- és utószezoni térítési díj (az önköltség + 150%) | Főszezoni térítési díj (az önköltség + 300%) |
 
-| 2. | MH rekreációt végző szervezete – Honvéd Kemping | Területegységek díjai (Ft/területegység/éj) | 592,15 | I. kategória – Lakókocsi hely áramvételi lehetőséggel (80 m2) | 1481 | 2369 |
+| 2. | MH regenerálódást segítő és rekreációt végző szervezete Honvéd Kemping (Balatonakarattya) | Területegységek díjai (Ft/terület- egység/éj) | 592,15 | I. kategória – Lakókocsi hely áramvételi lehetőséggel (80 m2) | 1481 | 2369 |
 
 | 3. | 479,67 | II. kategória – Nagy sátorhely áramvételi lehetőséggel (64 m2) | 1199 | 1919 |
 
 | 4. | 467,19 | III. kategória – Kis sátorhely áramvételi lehetőséggel (48 m2) | 1168 | 1869 |
 
-|  |  |  |  | Elő-és utószezoni, igényjogosult ár + 25% | Főszezoni igényjogosult ár + 25% |
+| 5. |  |  |  | Elő- és utószezoni, igényjogosult ár + 25% | Főszezoni igényjogosult ár + 25% |
 
-| 5. | Személyek után fizetendő díjak (Ft/fő/éj) |  | Felnőtt kategória | 600 | 900 |
+| 6. | Személyek után fizetendő díjak (Ft/fő/éj) |  | Felnőtt kategória | 600 | 900 |
 
-| 6. |  | Gyermek kategória – 3–12 éves kor között (a felnőtt térítés 60%-a) | 360 | 540 |
+| 7. |  | Gyermek kategória – 3–12 éves kor között (a felnőtt térítés 60%-a) | 360 | 540 |
+
+1d. Napi belépő és havi bérlet, valamint parkoló díjak az MH regenerálódást segítő és rekreációt végző szervezetében (bruttó térítési díj)
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Az intézmény megnevezése | Időpont | Igényjogosult nem igényjogosult hozzátartozója részére | Nem igényjogosult részére |  |
+
+| 2. | MH regenerálódást segítő és rekreációt végző szervezete (Balatonakarattya) | 09. 01-től 12. 31-ig 01. 01-től 05. 31-ig | Megnevezés | Belépők (napijegy Ft/fő) | Megnevezés | Belépők (napijegy Ft/fő) |  |
+
+| 3. | Felnőtt | 500 | Felnőtt | 1000 |  |
+
+| 4. | Gyerek (3–18 éves korig), diák és nyugdíjas belépő | 300 | Gyerek (3–18 éves korig), diák és nyugdíjas belépő | 500 |  |
+
+| 5. | MH regenerálódást segítő és rekreációt végző szervezete (Balatonakarattya) | 06. 01-től 08. 31-ig | Igényjogosult nem igényjogosult hozzátartozója részére | Nem igényjogosult részére |
+
+| 6. | Megnevezés | Belépők (napijegy Ft/fő) | Megnevezés | Belépők (napijegy Ft/fő) hétköznap | Belépők (napijegy Ft/fő) hétvége, ünnepnap |
+
+| 7. | Felnőtt | 1000 | Felnőtt | 2000 | 3000 |
+
+| 8. | Gyerek (3–18 éves korig), diák és nyugdíjas belépő | 500 | Gyerek (3–18 éves korig), diák és nyugdíjas belépő | 1500 | 2000 |
+
+| 9. |  |  | Belépő 18 óra után | 300 | Belépő 18 óra után | 1000 | 1000 |
+
+| 10. | MH regenerálódást segítő és rekreációt végző szervezete (Balatonakarattya) | 06. 01-től 08. 31-ig | Igényjogosult nem igényjogosult hozzátartozója részére | Nem igényjogosult részére |  |
+
+| 11. | Megnevezés | Havi bérlet (Ft/fő) | Megnevezés | Havi bérlet (Ft/fő) |  |
+
+| 12. | Felnőtt | 10 000 | Felnőtt | 30 000 |  |
+
+| 13. | Gyerek (3–18 éves korig), diák és nyugdíjas belépő | 5000 | Gyerek (3–18 éves korig), diák és nyugdíjas belépő | 20 000 |  |
+
+| 14. | MH regenerálódást segítő és rekreációt végző szervezet (Balatonakarattya) | Főszezonban | Nem igényjogosult részére |  |
+
+| 15. | Megnevezés | Parkolási díj (Ft/gépjármű/nap) |  |
+
+| 16. | Gépjárművek parkolása | 1000 |  |
+
+1e. Missziós regeneráló pihentetés igényjogosult családos térítési díjai az MH regenerálódást segítő és rekreációt végző szervezeténél
+
+|  | A | B | C |
+
+| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni teljes panziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) |
+
+| 2. | MH regenerálódást segítő és rekreációt végző szervezet (Balatonakarattya) | Apartman/Lakosztály Hotel Platán, Hotel Napfény, Faházas pihenő | 4270 |
+
+| 3. | Komfortos szoba Hotel Napfény, Hotel Aranyhíd, Hotel Sirály | 3580 |
+
+| 4. | Hotel Sirály fürdőszobás szoba, WC nélkül | 3370 |
+
+| 5. | Hotel Sirály folyóvizes szoba, WC nélkül | 3270 |
 
 2. Igényjogosulti térítési díjak az MH regenerálódást és kiképzést végző szervezetének egész évben működő intézményeinél
 
 |  | A | B | C | D |
 
-| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni teljes panzió nettó térítési díja (Ft/fő/vendégéjszaka) | Főszezoni teljes panzió nettó térítési díja (Ft/fő/vendégéjszaka) |
+| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni teljes panziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) | Főszezoni teljes panziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) |
 
-| 2. | MH regenerálódást és kiképzést segítő szervezete (Buják) | fürdőszobás szoba (regeneráló pihenés) | 2000 | 2200 |
+| 2. | MH regenerálódást és kiképzést végző szervezete (Buják) | fürdőszobás szoba (regeneráló pihenés) | 2000 | 2200 |
 
 | 3. | lakosztály (regeneráló pihenés) | 2250 | 2400 |
 
@@ -100,7 +146,7 @@
 
 | 5. | lakosztály (hétközi és hétvégi pihenés) | 2925 | 3125 |
 
-| 6. | MH regenerálódást és kiképzést segítő szervezete (Mátraháza) | fürdőszobás szoba (regeneráló pihenés) | 2000 | 2200 |
+| 6. | MH regenerálódást és kiképzést végző szervezete (Mátraháza) | fürdőszobás szoba (regeneráló pihenés) | 2000 | 2200 |
 
 | 7. | lakosztály (regeneráló pihenés) | 2250 | 2400 |
 
@@ -118,7 +164,7 @@
 
 | 14. | Villa (regeneráló pihenés) | 2870 | 3070 |
 
-| 15. | fürdőszoba nélküli szoba (hétközi és hétvégi pihenés | 2270 | 2470 |
+| 15. | fürdőszoba nélküli szoba (hétközi és hétvégi pihenés) | 2270 | 2470 |
 
 | 16. | fürdőszobás szoba Vendégház (hétközi és hétvégi pihenés) | 2600 | 2860 |
 
@@ -126,7 +172,7 @@
 
 | 18. | lakosztály (hétközi és hétvégi pihenés) | 3570 | 3770 |
 
-| 19. | Villa (hétközi és hétvégi) pihenés | 3570 | 3770 |
+| 19. | Villa (hétközi és hétvégi pihenés) | 3570 | 3770 |
 
 2a. Nem igényjogosulti térítési díjak az Erdőbényén működő MH regenerálódást és kiképzést végző szervezeténél az elő- és utószezonban
 
@@ -156,23 +202,23 @@
 
 | 5. | Villa | 6614 | 7874 | 9449 |
 
-3. Belföldi egyéni, családos igényjogosulti térítési díjak az MH regenerálódást és kiképzést segítő szervezetének szezonálisan működő intézményeinél
+3. Igényjogosulti térítési díjak az MH regenerálódást és kiképzést végző szervezetének szezonálisan működő intézményeinél
 
 |  | A | B | C | D |
 
-| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni teljes panzió nettó térítési díja (Ft/fő/vendégéjszaka) | Főszezoni teljes panzió nettó térítési díja (Ft/fő/vendégéjszaka) |
+| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni teljes panziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) | Főszezoni teljes panziós ellátás nettó térítési díja (Ft/fő/vendégéjszaka) |
 
-| 2. | MH regenerálódást és kiképzést segítő szervezete (Badacsonylábdi-hegy, Csopak, Mályi) | ház, vagy szoba (regeneráló pihenés) | 1700 | 1900 |
+| 2. | MH regenerálódást és kiképzést végző szervezete (Badacsonylábdi-hegy, Csopak, Mályi) | ház vagy szoba (regeneráló pihenés) | 1700 | 1900 |
 
-| 3. | ház, vagy szoba (hétközi és hétvégi pihenés) | 2000 | 2200 |
+| 3. | ház vagy szoba (hétközi és hétvégi pihenés) | 2000 | 2200 |
 
-3a. Belföldi egyéni, családos igényjogosulti térítési díjak az MH regenerálódást és kiképzést segítő szervezetének apartman házakat működtető intézményénél
+3a. Igényjogosulti térítési díjak az MH regenerálódást és kiképzést végző szervezetének apartman házakat működtető intézményénél
 
 |  | A | B | C | D |
 
-| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni térítési díja ellátás nélkül (Ft/fő/vendégéjszaka) | Főszezoni nettó térítési díja ellátás nélkül (Ft/fő/vendégéjszaka) |
+| 1. | Intézmény megnevezése | Szoba kategória | Elő- és utószezoni nettó térítési díj ellátás nélkül (Ft/fő/vendégéjszaka) | Főszezoni nettó térítési díj ellátás nélkül (Ft/fő/vendégéjszaka) |
 
-| 2. | MH regenerálódást és kiképzést segítő szervezete (Bánk) | Apartman ház (regeneráló pihenés) | 1000 | 1100 |
+| 2. | MH regenerálódást és kiképzést végző szervezete (Bánk) | Apartman ház (regeneráló pihenés) | 1000 | 1100 |
 
 | 3. | Apartman ház (hétközi és hétvégi pihenés) | 1200 | 1400 |
 
@@ -180,11 +226,11 @@
 
 |  | A | B |
 
-| 1. | Rekreáció formája | Nettó térítési díja (Ft) |
+| 1. | Rekreáció formája | Nettó térítési díj (Ft/fő/éj) |
 
-| 2. | Gyermektábor (1 hét/6 éjszaka) | 12 200 |
+| 2. | Gyermektábor 12. életév betöltéséig (13 vendégéjszaka mértékéig) | 2362 |
 
-| 3. | Gyermektábor (2 hét/13 éjszaka) | 27 100 |
+| 3. | Gyermektábor 12–16 év között (13 vendégéjszaka mértékéig) | 2835 |
 
-[^64]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
-[^65]: Az 1. melléklet a 6/2016. (IV. 15.) HM rendelet 15. §-a, 16. § i) pontja és 17. § e) pontja, a 4/2017. (IV. 28.) HM rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^95]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
+[^96]: Az 1. melléklet a 4/2017. (IV. 28.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.
