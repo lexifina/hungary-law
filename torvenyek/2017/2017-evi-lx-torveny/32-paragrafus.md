@@ -1,1 +1,0 @@
-32. § Ha a felek eltérően nem állapodtak meg, a jogvita vonatkozásában a választottbírósági eljárás azon a napon kezdődik, amelyen a vita választottbíróság elé utalására irányuló nyilatkozatot az alperes átvette.

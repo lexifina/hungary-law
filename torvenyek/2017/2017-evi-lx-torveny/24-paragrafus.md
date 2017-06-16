@@ -1,3 +1,0 @@
-24. § (1) A választottbírósági tanács előírhatja, hogy bármely fél azonnal tárja föl a kért vagy meghozott ideiglenes intézkedés alapjául szolgáló körülményekben bekövetkezett minden érdemi változást.
-
-(2) Az előzetes intézkedést kérő fél köteles feltárni a választottbírósági tanács számára minden olyan körülményt, amely az előzetes intézkedés meghozatala vagy fenntartása során a választottbírósági tanács mérlegelése szempontjából feltehetően releváns, és ez a kötelezettség fennmarad addig, ameddig a fél, akivel szemben az előzetes intézkedés iránti kérelem irányul, álláspontját előterjeszthette. Ezt követően az (1) bekezdés rendelkezése alkalmazandó.

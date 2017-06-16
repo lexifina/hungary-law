@@ -1,1 +1,0 @@
-25. § Az ideiglenes vagy előzetes intézkedést kérő fél felel az intézkedéssel felmerült költségért és az okozott kárért, ha a választottbírósági tanács később azt állapítja meg, hogy az adott körülmények között az intézkedést nem kellett volna meghozni. Ezekről a költségekről és károkról a választottbírósági tanács az eljárás bármely szakaszában dönthet.
