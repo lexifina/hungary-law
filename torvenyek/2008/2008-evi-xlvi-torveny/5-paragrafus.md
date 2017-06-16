@@ -24,4 +24,4 @@ c) a növények, illetve a növényi eredetű élelmiszer közvetlenül emberi f
 
 (6) Engedélyköteles terméket Magyarországon csak az élelmiszerlánc-felügyeleti szerv által kiadott engedély alapján, e törvény végrehajtására kiadott jogszabály szerint lehet forgalomba hozni és felhasználni.
 
-(7) A növényvédelmi gépeket az e törvény végrehajtására kiadott jogszabály szerint típusminősítés alá kell vetni forgalomba hozatalukat megelőzően, továbbá a használatuk során időszaki felülvizsgálatnak kell alávetni.
+(7)

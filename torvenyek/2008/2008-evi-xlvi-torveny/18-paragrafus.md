@@ -40,4 +40,6 @@ e) szállításkor az állatot kíséri.
 
 (5) Az állattartó az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott fajú és létszámú állat tartása esetén köteles bejelenteni az állattartó hely meghatározott adatait az élelmiszerlánc-felügyeleti szervnek engedélyezés, illetve nyilvántartásba vétel céljából.
 
+(5a) Az állatok jelölésére felhasznált jelölő- és behelyezőeszközök, valamint ENAR-bizonylatok megrendelésével kapcsolatos ügyintézést az állattartó elektronikus úton teljesíti az élelmiszerlánc-felügyeleti szerv felé.
+
 (6) A méhész köteles a méhállományok tartásának helyét, vándoroltatását nyilvántartásba vétel céljából az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint bejelenteni a letelepedés helye szerint illetékes élelmiszerlánc-felügyeleti szervnél.

@@ -1,4 +1,4 @@
-## A termelő, a földhasználó és a növényvédőszer-engedély jogosultjának kötelezettségei
+## A termelő, a földhasználó, a növényorvos és az engedélyköteles termék engedélye jogosultjának kötelezettségei
 
 17. § (1) A termelő, illetve a földhasználó köteles
 
@@ -22,9 +22,9 @@ b) a földet a talaj szennyezését okozó anyagoktól megóvni, a földhasznál
 
 (4) A földhasználó köteles az adott év június 30. napjáig az ingatlanon a parlagfű virágbimbójának kialakulását megakadályozni, és ezt követően ezt az állapotot a vegetációs időszak végéig folyamatosan fenntartani.
 
-(5) A növényvédő szer felhasználására és forgalomba hozatalára vonatkozó engedély jogosultja (a továbbiakban: engedélyes) évenként március 1-jéig az előző naptári évre vonatkozóan magyarországi növényvédőszer-forgalmáról jelentést köteles készíteni az élelmiszerlánc-felügyeleti szerv részére. A jelentésnek tartalmaznia kell a növényvédő szer tételes megnevezését és mennyiségét, a felhasznált csomagolóeszköz mennyiségét és fajtáját.
+(5) A növényvédő szer, valamint a termésnövelő anyag felhasználására és forgalomba hozatalára vonatkozó engedély jogosultja, valamint az EK-műtrágya első magyarországi forgalmazója köteles évenként március 1-jéig az előző naptári évre vonatkozóan a magyarországi forgalmáról jelentést készíteni és azt elektronikus úton megküldeni az élelmiszerlánc-felügyeleti szerv részére. A jelentésnek tartalmaznia kell a forgalmazott növényvédő szer, termésnövelő anyag, illetve EK-műtrágya tételes megnevezését és mennyiségét, a felhasznált csomagolóeszköz mennyiségét és fajtáját.
 
-(6) Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint az (5) bekezdés szerinti jelentéstételi kötelezettséget írhat elő egyes termésnövelő anyagokra vonatkozóan is.
+(6)
 
 (7) Az engedélyezett engedélyköteles termékkel kezelt növényt, növényi terméket élelmezési és takarmányozási célra csak az e törvény végrehajtására kiadott jogszabályban előírt élelmezés-egészségügyi várakozási idő lejártát követően szabad betakarítani, forgalomba hozni és felhasználni, kivéve, ha az élelmiszerlánc-felügyeleti szerv az általa végzett vizsgálat alapján igazolta, hogy a növény, illetve növényi termék megfelel a forgalomba hozatal követelményeinek. Harmadik országba a vizsgálatköteles szemes termények az élelmezés-egészségügyi várakozási idő letelte előtt kivitel céljából feladhatók, amennyiben a célország előírásai azt lehetővé teszik.
 

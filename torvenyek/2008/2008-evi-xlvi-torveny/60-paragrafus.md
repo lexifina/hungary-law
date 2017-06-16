@@ -16,7 +16,7 @@ f) az adott évi analitikailag tiszta hatóanyag benyújtására vonatkozó köt
 
 g) a méhészetek növényvédelmi szempontból elrendelt vándoroltatási tilalmát megszegi;
 
-h) a műtrágyákról szóló, az Európai Parlament és a Tanács 2003. október 13-i 2003/2003/EK rendeletének jelölésre, csomagolásra, a Közösségen belüli letelepedésre, nyilvántartásra, tápanyagtartalomra, valamint az egyes műtrágyatípusokra vonatkozó előírásait megsérti;
+h) a 2003/2003/EK európai parlamenti és tanácsi rendelet jelölésre, csomagolásra, a Közösségen belüli letelepedésre, nyilvántartásra, tápanyagtartalomra, valamint az egyes műtrágyatípusokra vonatkozó előírásait megsérti;
 
 i) forgalomba hozatali engedéllyel (típusminősítés) nem rendelkező, továbbá időszakos felülvizsgálaton részt nem vett, vagy meg nem felelt növényvédelmi gépet forgalomba hoz, üzemeltet vagy használ;
 

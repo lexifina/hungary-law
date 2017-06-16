@@ -1,69 +1,63 @@
 ## Az Európai Unió jogának való megfelelés
 
-77. § (1) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+77. § (1) Ez a törvény
 
-a) az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet;
+a) a Bizottság szakértői által a tagállamokban végzett állat-egészségügyi helyszíni ellenőrzésekre vonatkozó egyes részletes szabályok megállapításáról szóló, 1998. február 4-i 98/139/EK bizottsági határozat,
 
-b) a Bizottság 98/139/EK határozata (1998. február 4.) a Bizottság szakértői részéről az állat-egészségügy területén végrehajtott helyszíni ellenőrzésekre vonatkozó szabályok megállapításáról;
+b) az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet,
 
-c) az Európai Parlament és a Tanács 178/2002/EK rendelete (2002. január 28.) az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszer-biztonságra vonatkozó eljárások megállapításáról;
+c) a műtrágyákról szóló, 2003. október 13-i 2003/2003/EK európai parlamenti és tanácsi rendelet,
 
-d) az Európai Parlament és a Tanács 1774/2002/EK rendelete (2002. október 3.) a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról;
+d) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló, 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet,
 
-e) az Európai Parlament és a Tanács 998/2003/EK rendelete (2003. május 26.) a kedvtelésből tartott állatok nem kereskedelmi célú mozgására vonatkozó állat-egészségügyi követelményekről és a 92/65/EGK tanácsi irányelv módosításáról;
+e) az élelmiszer-higiéniáról szóló, 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet,
 
-f) az Európai Parlament és a Tanács 2003/2003/EK rendelete (2003. október 13.) a műtrágyákról;
+f) az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet,
 
-g) az Európai Parlament és a Tanács 726/2004/EK rendelete (2004. március 31.) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról;
+g) az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különleges szabályok megállapításáról szóló, 2004. április 29-i 854/2004/EK európai parlamenti és tanácsi rendelet,
 
-h) az Európai Parlament és a Tanács 852/2004/EK rendelete (2004. április 29.) az élelmiszer-higiéniáról;
+h) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet,
 
-i) az Európai Parlament és a Tanács 853/2004/EK rendelete (2004. április 29.) az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról;
+i) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokról és tárgyakról, valamint a 80/590/EGK és a 89/109/EGK irányelv hatályon kívül helyezéséről szóló, 2004. október 27-i 1935/2004/EK európai parlamenti és tanácsi rendelet,
 
-j) az Európai Parlament és a Tanács 854/2004/EK rendelete (2004. április 29.) az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különös szabályok megállapításáról;
+j) a takarmányhigiénia követelményeinek meghatározásáról szóló, 2005. január 12-i 183/2005/EK európai parlamenti és tanácsi rendelet,
 
-k) az Európai Parlament és a Tanács 882/2004/EK rendelete (2004. április 29.) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről;
+k) az ökológiai termelésről és az ökológiai termékek címkézéséről és a 2092/91/EGK rendelet hatályon kívül helyezéséről szóló, 2007. június 28-i 834/2007/EK tanácsi rendelet,
 
-l) az Európai Parlament és a Tanács 1935/2004/EK rendelete (2004. október 27.) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokról és tárgyakról, valamint a 80/590/EGK és a 89/109/EGK irányelv hatályon kívül helyezéséről;
+l) az élelmiszer-adalékanyagokról szóló, 2008. december 16-i 1333/2008/EK európai parlamenti és tanácsi rendelet,
 
-m) az Európai Parlament és a Tanács 183/2005/EK rendelete (2005. január 12.) a takarmányhigiénia követelményeinek meghatározásáról;
+m) a takarmányok forgalomba hozataláról és felhasználásáról, az 1831/2003/EK rendelet módosításáról, valamint a 79/373/EGK tanácsi irányelv, a 80/511/EGK bizottsági irányelv, a 82/471/EGK, 83/228/EGK, 93/74/EGK, 93/113/EK és 96/25/EK tanácsi irányelv és a 2004/217/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2009. július 13-i 767/2009/EK európai parlamenti és tanácsi rendelet,
 
-n) a Tanács 834/2007/EK rendelete (2007. június 28.) az ökológiai termelésről és az ökológiai termékek címkézéséről és a 2092/91/EGK rendelet hatályon kívül helyezéséről;
+n) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EK rendelet hatályon kívül helyezéséről szóló, 2009. október 21-i 1069/2009/EK európai parlamenti és tanácsi rendelet,
 
-o) az Európai Parlament és a Tanács 1107/2009/EK rendelete (2009. október 21.) a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről;
+o) a növényvédő szerek forgalomba hozataláról valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet,
 
-p) az Európai Parlament és a Tanács 2009/128/EK irányelve (2009. október 21.) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról
+p) a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet,
 
-q) az Európai Parlament és a Tanács 1333/2008/EK rendelete (2008. december 16.) az élelmiszer-adalékanyagokról;
+q) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet,
 
-r) a Tanács 509/2006/EK rendelete (2006. március 20.) a hagyományos különleges terméknek minősülő mezőgazdasági termékekről és élelmiszerekről;
+r) a kedvtelésből tartott állatok nem kereskedelmi célú mozgatásáról és a 998/2003/EK rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 576/2013/EU európai parlamenti és tanácsi rendelet
 
-s) az Európai Parlament és a Tanács 1169/2011/EU rendelete (2011. október 25.) a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről.
+végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(2) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(2) Ez a törvény
 
-a) a Tanács 79/373/EGK irányelve (1979. április 2.) a takarmánykeverékek értékesítéséről, valamint az azt módosító, a Tanács 86/354/EGK, 90/44/EGK, 96/24/EK irányelve, és az Európai Parlament és a Tanács 2000/16/EK irányelve;
+a) a belső piac megvalósításának céljával a Közösségen belüli kereskedelemben alkalmazható állat-egészségügyi ellenőrzésekről szóló, 1989. december 11-i 89/662/EGK tanácsi irányelvnek,
 
-b)
+b) egyes élőállatok és állati termékek Közösségen belüli kereskedelmében a belső piac megvalósításának céljával alkalmazandó állat-egészségügyi és tenyésztéstechnikai ellenőrzésekről szóló, 1990. június 26-i 90/425/EGK tanácsi irányelvnek,
 
-c) a Tanács 89/662/EGK irányelve (1989. december 11.) a belső piac megvalósításának céljával a Közösségen belüli kereskedelemben alkalmazható állat-egészségügyi ellenőrzésekről;
+c) a harmadik országokból a Közösségbe behozott állatok állat-egészségügyi ellenőrzésére irányadó elvek megállapításáról, valamint a 89/662/EGK, 90/425/EGK és 90/675/EGK irányelvek módosításáról szóló, 1991. július 15-i 91/496/EGK tanácsi irányelvnek,
 
-d) a Tanács 90/425/EGK irányelve (1990. június 26.) egyes élőállatok és állati termékek Közösségen belüli kereskedelmében a belső piac megvalósításának céljával alkalmazandó állat-egészségügyi és tenyésztéstechnikai ellenőrzésekről;
+d) a növények, növényi termékek, illetve egyéb áruk termelői és importőrei kötelezettségeinek, valamint nyilvántartásba vételük részleteinek megállapításáról szóló, 1992. november 3-i 92/90/EGK bizottsági irányelvnek,
 
-e) a Tanács 91/414/EGK irányelve (1991. július 15.) a növényvédő szerek forgalomba hozataláról;
+e) a harmadik országokból a Közösségbe behozott termékek állat-egészségügyi ellenőrzésének megszervezésére irányadó elvek megállapításáról szóló, 1997. december 18-i 97/78/EK tanácsi irányelvnek,
 
-f) a Tanács 91/496/EGK irányelve (1991. július 15.) a harmadik országokból a Közösségbe behozott állatok állat-egészségügyi ellenőrzésére irányadó elvek megállapításáról, valamint a 89/662/EGK, 90/425/EGK és 90/675/EGK irányelvek módosításáról;
+f) az ionizáló sugárzással kezelt élelmiszerekre és élelmiszer-összetevőkre vonatkozó tagállami jogszabályok közelítéséről szóló, 1999. február 22-i 1999/2/EK európai parlamenti és tanácsi irányelvnek,
 
-g) a Bizottság 92/90/EGK irányelve (1992. november 3.) a növények, növényi termékek, illetve egyéb áruk termelői és importőrei kötelezettségeinek, valamint nyilvántartásba vételük részleteinek megállapításáról;
+g) a növényeket vagy növényi termékeket károsító szervezeteknek a Közösségbe történő behurcolása és a Közösségen belüli elterjedése elleni védekezési intézkedésekről szóló, 2000. május 8-i 2000/29/EK tanácsi irányelvnek,
 
-h) a Tanács 97/78/EK irányelve (1997. december 18.) a harmadik országokból a Közösségbe behozott termékek állat-egészségügyi ellenőrzésének megszervezésére irányadó elvek megállapításáról;
+h) a takarmányban előforduló nemkívánatos anyagokról szóló, 2002. május 7-i 2002/32/EK európai parlamenti és tanácsi irányelvnek,
 
-i)
+i) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelvnek
 
-j) a Tanács 2000/29/EK irányelve (2000. május 8.) a növényeket vagy növényi termékeket károsító szervezeteknek a Közösségbe történő behurcolása és a Közösségen belüli elterjedése elleni védekezési intézkedésekről, valamint az azt módosító, a Tanács 2002/89/EK irányelve (2002. november 28.);
-
-k) az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról;
-
-l) az Európai Parlament és a Tanács 1999/2/EK irányelve (1999. február 22.) az ionizáló sugárzással kezelt élelmiszerekre és élelmiszer-összetevőkre vonatkozó tagállami jogszabályok közelítéséről;
-
-m) az Európai Parlament és a Tanács 1999/3/EK irányelve (1999. február 22.) az ionizáló sugárzással kezelt élelmiszerek és élelmiszer-összetevők közösségi listájának megállapításáról.
+való megfelelést szolgálja.

@@ -10,4 +10,16 @@ d) szakmai útmutatót adhat ki az élelmiszerlánc egységes felügyeletének e
 
 e) tájékoztatást ad a közvélemény részére az élelmiszerláncot érintő, országos vagy kiemelt jelentőségű ügyekről;
 
-f) kijelöli a nemzeti referencialaboratóriumokat.
+f) kijelöli a nemzeti referencialaboratóriumokat;
+
+g) elrendeli az Országos Járványvédelmi Központ és a Helyi Járványvédelmi Központ létrehozatalát;
+
+h) elrendeli élelmiszerlánc-esemény esetén válságstáb felállítását;
+
+i) megszervezi és irányítja a Járványügyi Felügyeleti Rendszert;
+
+j) elkészíti az élelmiszerlánccal kapcsolatos akcióterveket;
+
+k) nyilvántartásba veszi az élelmiszer-rendészeket és vezeti az élelmiszer-rendészek névjegyzékét;
+
+l) járványveszély vagy rendkívüli élelmiszerlánc-esemény esetén – az 53. § (3) bekezdése szerint – közvetlenül rendelkezhet szolgáltató állatorvos közcélú igénybevételéről.

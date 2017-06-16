@@ -8,4 +8,6 @@
 
 (2) Az élelmiszerlánc valamennyi szereplője köteles az (1) bekezdés szerinti dokumentációs rendszer adatait felhívásra haladéktalanul az élelmiszerlánc-felügyeleti szerv rendelkezésére bocsátani a járványügyet, az élelmiszer-biztonságot és azzal összefüggésben az állatvédelmet közvetlenül vagy közvetve befolyásoló veszélyelemzés és a nyomon követés biztosítása érdekében.
 
+(2a) Amennyiben az élelmiszer eredete kétséget kizáró módon nem állapítható meg, a nyomon-követhetőségre vonatkozó előírások megsértése az emberi életet és egészséget veszélyeztető helyzetnek minősül.
+
 (3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.

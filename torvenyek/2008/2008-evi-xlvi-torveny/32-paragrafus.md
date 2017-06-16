@@ -42,7 +42,11 @@ s) ellátja az e törvény hatálya alá tartozó termékekkel kapcsolatos tanú
 
 t) központi kockázatkezelési rendszert működtet a járványos állatbetegségek, zárlati károsítók, illetve élelmiszerlánc-események megelőzése, felszámolása, utókezelése, valamint a hatósági intézkedések koordinációja érdekében;
 
-u) a 24. § (1) bekezdés c) pontja szerinti állami laboratóriumokra alapozva létrehozza és működteti a nemzeti élelmiszerlánc-minősítési és eredetvizsgálati rendszert.
+u) a 24. § (1) bekezdés c) pontja szerinti állami laboratóriumokra alapozva létrehozza és működteti a nemzeti élelmiszerlánc-minősítési és eredetvizsgálati rendszert;
+
+v) összehasonlító termékteszteket és vizsgálatokat végez;
+
+w) részt vesz az élelmiszerláncot érintő nemzeti minőségrendszer ellenőrzésében.
 
 (2) Az élelmiszerlánc-felügyeleti szerv állat-egészségügyi feladatkörében
 

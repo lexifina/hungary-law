@@ -24,6 +24,8 @@ E törvény alkalmazásában:
 
 9. behozatal: áru harmadik országból Magyarország területére történő behozatala, beleértve az importot is;
 
+9/A. EK-műtrágya: a 2003/2003/EK európai parlamenti és tanácsi rendelet 3. cikke szerinti műtrágya;
+
 10. élelmiszer: az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendelete (a továbbiakban: 178/2002/EK rendelet) 2. cikke szerinti fogalom;
 
 11. élelmiszer-biztonság: az élelmiszer emberi egészségre ártalmatlansága és emberi fogyasztásra alkalmassága a 178/2002/EK rendeletnek megfelelő fogalom;
@@ -54,7 +56,7 @@ E törvény alkalmazásában:
 
 23. elsődleges termelés: a 178/2002/EK rendelet 3. cikk 17. pontja szerinti meghatározás,
 
-24. engedélyköteles termék: a növényvédő szer, növényvédőszer-hatóanyag, -adalékanyag, -segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag (kivéve a 2003/2003/EK rendelet szerinti EK-műtrágya), engedélyköteles továbbá az alkalmazás célja szerint ezekre visszavezethető egyéb termék, amelynek forgalomba hozatala és felhasználása engedélyhez kötött;
+24. engedélyköteles termék: a növényvédő szer, növényvédőszer-hatóanyag, -adalékanyag, -segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag (kivéve az EK-műtrágyát), engedélyköteles továbbá az alkalmazás célja szerint ezekre visszavezethető egyéb termék, amelynek forgalomba hozatala és felhasználása engedélyhez kötött;
 
 25. feldolgozás: a 852/2004/EK rendelet 2. cikkének m) pontja szerinti fogalom;
 
@@ -92,9 +94,11 @@ E törvény alkalmazásában:
 
 39. kötelező védekezés: az élelmiszerlánc-felügyeleti szerv által elrendelt állami, közérdekű vagy termelői védekezés;
 
-39/A. közös ügyfél törzsadat-kezelő rendszer: a 38/A. § (2) bekezdése a) pontja aa) alpontja szerinti, az élelmiszerlánc-felügyeleti hatóság által működtetett ügyfélnyilvántartási rendszer és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti Egységes Mezőgazdasági és Ügyfél-nyilvántartási Rendszer összekapcsolásával kialakított ügyfél törzsadat-kezelő rendszer, melynek célja, hogy az ügyfelek egyidejűleg egyértelműen azonosíthatóak legyenek mind a támogatási szerv, mind az élelmiszerlánc-felügyeleti hatóság számára.
+39/A. közétkeztetés: olyan vendéglátó tevékenység, amelynek során fogyasztók meghatározott csoportját vendéglátó ipari termékekkel, többnyire előre megrendelés alapján, a nap egy-egy meghatározott időszakában, meghatározott időtartamban látnak el, különösen oktatási, gyermek-, szociális, egészségügyi-, bentlakásos intézményben, táborban és munkahelyen;
 
 40. laboratórium: az élelmiszerlánc bármely szakaszában fizikai, kémiai, biológiai komponensek, radioaktív szennyezők vizsgálatát, így különösen analitikai, virológiai, szerológiai, géntechnológiával módosított szervezet, mikrobiológiai, mikológiai, enthomológiai, károsító-diagnosztikai, toxikológiai vagy radiológiai vizsgálatot, továbbá egyéb, az élelmiszerek és takarmányok biztonságosságát, illetve az élelmiszerekre és takarmányokra vonatkozó minőségi előírásoknak való megfelelését ellenőrző vizsgálatot végző laboratórium;
+
+40/A. létesítmény: a 852/2004/EK rendelet 2. cikk (1) bekezdés c) pontja szerinti fogalom;
 
 41. szolgáltató állatorvos: a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló törvény szerinti állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos;
 
@@ -200,9 +204,9 @@ b) fennáll a veszélye annak, hogy kedvező ökológiai feltételek esetén egy
 
 70. végső fogyasztó: a 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikkének 18. pontjában meghatározott fogalom;
 
-70/A. vendéglátó-ipari létesítmény: olyan, a kereskedelemről szóló törvény szerinti üzlet, amelyben a kereskedelemről szóló törvény szerinti vendéglátás keretében vendéglátó-ipari termék forgalmazása zajlik;
+70/A. vendéglátó-ipari létesítmény: olyan, a kereskedelemről szóló törvény szerinti üzlet, amelyben a kereskedelemről szóló törvény szerinti vendéglátás keretében vendéglátó-ipari termék forgalmazása zajlik, beleértve a közétkeztetést végző létesítményeket is;
 
-71. vendéglátó-ipari termék: olyan étel, ital (az ivóvíz kivételével), cukrászati, hidegkonyhai készítmény, amelyet az előállítás helyén, ideiglenes árusítóhelyen, tálalókonyhán vagy házhoz szállítva értékesítenek a végső fogyasztó vagy egyéb jogszabályban megadott korlátok szerint kiskereskedelmi létesítmény számára;
+71. vendéglátó-ipari termék: olyan étel, ital (az ivóvíz kivételével), cukrászati, hidegkonyhai készítmény, beleértve a közétkeztetés keretében előállított ételt is, amelyet elsősorban az előállítás helyén, illetve ideiglenes árusítóhelyen vagy tálalókonyhán szolgálnak ki, valamint közvetítő vállalkozás nélkül, fogyasztói kiszerelésben házhoz szállítva értékesítenek vagy egyéb jogszabályban megadott korlátok szerint kiskereskedelmi létesítményen keresztül értékesítenek a végső fogyasztónak;
 
 72. vizsgálatköteles áru: olyan növény, növényi termék, tárolóhely, csomagolóanyag, szállítóeszköz, tárolóeszköz, talaj és bármely egyéb szerkezet, eszköz vagy anyag, amelyben a károsító megtelepedhet, illetve a károsító terjedését elősegítheti, emiatt növény-egészségügyi intézkedés lehet szükséges;
 

@@ -1,4 +1,4 @@
-6. § (1) Állatot tartani csak az e törvény végrehajtására kiadott jogszabályban előírtaknak megfelelő helyen és módon szabad. Az állati eredetű élelmiszer előállítása céljából az állattartáshoz olyan, az e törvény végrehajtására kiadott jogszabály szerinti állattartó helyet kell létesíteni, továbbá olyan állattenyésztési és állattartási technológiát kell alkalmazni, amely lehetővé teszi az állatok egészségének megóvását, valamint azt, hogy az így nyert állati eredetű élelmiszer emberi fogyasztásra, illetve élelmiszer- előállításra alkalmas legyen.
+6. § (1) Állatot tartani csak jogszabályban előírtaknak megfelelő helyen és módon szabad. Az állati eredetű élelmiszer előállítása céljából az állattartáshoz olyan, jogszabály szerinti állattartó helyet kell létesíteni, továbbá olyan állattenyésztési és állattartási technológiát kell alkalmazni, amely lehetővé teszi az állatok egészségének megóvását, valamint azt, hogy az így nyert állati eredetű élelmiszer emberi fogyasztásra, illetve élelmiszer- előállításra alkalmas legyen.
 
 (2) Az állatok tartása nem veszélyeztetheti az emberek és állatok egészségét, jólétét, nem károsíthatja a környezetet.
 

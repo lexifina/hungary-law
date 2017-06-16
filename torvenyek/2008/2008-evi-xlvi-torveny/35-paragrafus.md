@@ -30,6 +30,6 @@ e) az egészségügyi államigazgatási szerv szakvéleménye alapján elvégzi 
 
 f) tájékoztatást nyújt az élelmiszer-biztonsággal kapcsolatban felmerülő aktuális kérdésekről, problémákról, megelőzésük módjáról.
 
-(5) Élelmiszer-biztonsági és minőség-ellenőrzési feladatainak keretében az élelmiszerlánc-felügyeleti szerv vizsgálja és értékeli a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerint a vendéglátó-ipari létesítményeket (beleértve a közétkeztetést végző létesítményeket).
+(5) A minősítésre kijelölt élelmiszerlánc-felügyeleti szerv elvégzi a vendéglátó-ipari létesítmények e törvény felhatalmazása alapján kiadott rendeletben meghatározott élelmiszer-higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti minősítését.
 
-(6) Az élelmiszerlánc-felügyeleti szerv az (5) bekezdés szerinti értékelés alapján hatósági bizonyítványt ad ki a vendéglátó-ipari létesítményeknek az élelmiszerlánc-felügyeleti információs rendszer adatai alapján.
+(6) A minősítéssel megbízott élelmiszerlánc-felügyeleti szerv honlapján közzéteszi a létesítmények élelmiszer-higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti minősítésének eredményét.

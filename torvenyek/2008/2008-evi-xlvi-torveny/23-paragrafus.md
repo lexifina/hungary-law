@@ -5,3 +5,9 @@
 (3) Az élelmiszer-, illetve takarmányvállalkozó haladéktalanul köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha tudomására jut, hogy az általa előállított vagy forgalomba hozott termék megbetegedést okozott, vagy ennek gyanúja áll fenn, és köteles a hatósági vizsgálatokhoz szükséges élelmiszereket, takarmányt, más egyéb anyagokat a vizsgálatig megőrizni, valamint az élelmiszerlánc-felügyeleti szervvel a kivizsgálásban együttműködni.
 
 (4) Az az élelmiszer-vállalkozás, amely egy tagállamok közötti kereskedelemből vagy harmadik országból szerez be terméket vagy ilyen termék szétosztását végzi, az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint az élelmiszerlánc-felügyeleti szerv felhívására köteles bejelenteni a más tagállamból származó állati eredetű élelmiszerek első betárolási helyre történő beszállítás megtörténtét.
+
+(5) Közétkeztetés kizárólag olyan létesítményből végezhető, amelyet az élelmiszerlánc-felügyeleti szerv az e törvény felhatalmazása alapján kiadott rendeletben meghatározottak szerint az élelmiszer-higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok értékelése alapján minősített, vagy amelynek minősítésére irányuló eljárás folyamatban van.
+
+(6) Az élelmiszerlánc-felügyeleti szerv az (5) bekezdés szerinti minősítést a közétkeztetést nem végző vendéglátó-ipari létesítményekben is lefolytatja az érintettek erre irányuló kérelme esetén.
+
+(7) Az (5) és (6) bekezdés szerinti minősítési eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.

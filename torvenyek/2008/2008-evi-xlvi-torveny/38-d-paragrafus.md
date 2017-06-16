@@ -1,33 +1,21 @@
 ## Élelmiszerlánc-biztonsági Centrum
 
-38/D. § (1) Az Élelmiszerlánc-biztonsági Centrum Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉBC) az élelmiszerlánc-felügyeleti feladatok ellátásának támogatása érdekében az az élelmiszerlánc-felügyeleti szerv által alapított, az állam 100%-os tulajdonában álló társaság, amelynek üzletrésze forgalomképtelen.
+38/D. § (1) Az Élelmiszerlánc-biztonsági Centrum Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉBC) az élelmiszerlánc-felügyeleti feladatok ellátásának érdekében az élelmiszerlánc-felügyeleti szerv által alapított, az állam 100%-os tulajdonában álló társaság. Az ÉBC üzletrésze forgalomképtelen. Az ÉBC felett a tulajdonosi jogokat a magyar állam nevében az élelmiszerlánc-felügyeleti szerv gyakorolja. Az ÉBC által lefolytatott hatósági eljárásokban felügyeleti szervként az élelmiszerlánc-felügyeleti szerv jár el.
 
 (2) Az ÉBC nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül.
 
-(3) Az ÉBC tekintetében az élelmiszerlánc-felügyeleti szerv egyetértése szükséges:
-
-a) a társaság cégnevének és székhelyének meghatározásához;
-
-b) az ügyvezető kinevezéséhez, illetve visszahívásához;
-
-c) a felügyelőbizottság tagjainak kinevezéséhez, illetve visszahívásához;
-
-d) a társaság főtevékenységének, illetve egyéb tevékenységének meghatározásához;
-
-e) a társaság törzstőkéjének meghatározásához;
-
-f) az éves beszámoló elfogadásához;
-
-g) a társaság megszűnésének elhatározásához.
+(3)
 
 (4) Ha a törvény vagy kormányrendelet valamely közigazgatási hatósági feladat ellátására az ÉBC-t jelöli ki, az eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek, az állami tisztviselőkről szóló törvény alapján állami tisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek, állami ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
 
-(5) Az ÉBC az élelmiszerlánc-felügyeleti feladatok ellátásának támogatása érdekében:
+(5) Az ÉBC közhatalmi feladatként az élelmiszerlánc-felügyeleti feladatok ellátása érdekében:
 
 a) közreműködik az éves ellenőrzési tervben foglalt ellenőrzéseknél;
 
-b) végrehajtja a monitoringtervben vagy a jogszabályokban előírt mintavételt;
+b) elvégzi a monitoringtervben vagy a jogszabályokban előírt mintavételt és ellátja az ahhoz kapcsolódó mintaszállítási feladatokat;
 
-c) a hatósági feladatok ellátását támogató, kisegítő tevékenységet végez.
+c) a hatósági feladatok ellátását támogató, kisegítő tevékenységet végez;
+
+d) részt vesz az állami laboratóriumok és a laboratóriumi hálózat működtetésében, valamint kísérleti vizsgálatok végzésében.
 
 (6) Az élelmiszerlánc-felügyeleti szerv az ÉBC-vel az élelmiszerlánc-felügyeleti feladatokkal kapcsolatos közreműködés érdekében megállapodást köthet, amelyben rendelkezik egyúttal a pénzügyi fedezet biztosításáról, a szakmai teljesítés és az elszámolás rendjéről, illetve a feladatellátáshoz eszközöket biztosíthat.

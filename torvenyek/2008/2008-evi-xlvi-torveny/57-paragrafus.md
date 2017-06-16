@@ -20,7 +20,7 @@ h) állat vizsgálatát, forgalmi korlátozását, elkülönítését, kötelez�
 
 i) elismert hagyományos különleges termék előállítását, forgalomba hozatalát megtilthatja vagy feltételhez kötheti;
 
-j) élelmiszerrel, illetve takarmánnyal érintkezésbe kerülő anyagok, gépek, eszközök használatát megtilthatja;
+j) élelmiszerrel, illetve takarmánnyal érintkezésbe kerülő anyagok, gépek, eszközök, az élelmiszerláncban felhasznált fertőtlenítőszerek használatát megtilthatja, az engedélyező hatóság egyidejű értesítése mellett ingatlant adott állapotában élelmiszer-, takarmányvállalkozási tevékenység végzésére alkalmatlannak nyilváníthat, ingatlan élelmiszer-, takarmányvállalkozási tevékenység végzésére történő használatát az ingatlan adott állapotában határozott időre vagy véglegesen megtilthatja;
 
 k) szállítóeszköz engedélyét visszavonhatja, használatát megtilthatja;
 
@@ -40,4 +40,6 @@ r) betilthatja vagy korlátozhatja a növény-egészségügyi szempontból nem m
 
 s) elrendelheti eszköz, tárgy, anyag vagy termék zár alá vételét, ártalmatlanítását, továbbá szállítójárművet visszatarthat mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra, vagy a szállítmányával kapcsolatos zárolási, és ártalmatlanítási eljárás be nem fejeződik, illetve annak költsége megfizetésre nem kerül;
 
-t) termék tárolására szolgáló helyiséget zár alá veheti mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra.
+t) termék tárolására szolgáló helyiséget zár alá veheti mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra;
+
+u) az élelmiszerlánc részét képező valamely tevékenység vonatkozásában megtilthatja vagy korlátozhatja a nem megfelelő képesítéssel vagy személyi higiénés alkalmassággal foglalkoztatottak munkavégzését.

@@ -6,7 +6,7 @@ b) a gyepmesteri, illetve ebrendészeti tevékenység végzését;
 
 c) az idegen állományból származó állatok fogadására kiválasztott elkülönítőt (karantén), valamint dönt az állatok elkülönítésének (karanténozásának) feltételeiről;
 
-d) az állat-egészségügyi szolgáltató létesítmények, az e törvény végrehajtására kiadott jogszabályban meghatározott fajú és létszámú állatot tartó gazdaság, gyepmesteri telep, ebrendészeti telep, állatmenhely, állatpanzió, állatrakodó, gyűjtőállomás, kereskedői telep, etető-itató állomás, pihentetőállomás, valamint állati eredetű melléktermék kezelését, feldolgozását, hulladékként történő ártalmatlanítását végző vállalkozás működését;
+d) az állat-egészségügyi szolgáltató létesítmények, az e törvény végrehajtására kiadott jogszabályban meghatározott fajú és létszámú állatot tartó gazdaság, gyepmesteri telep, ebrendészeti telep, állatmenhely, állatpanzió, állatrakodó, gyűjtőállomás, kereskedői telep, etető-itató állomás, pihentetőállomás, valamint állati eredetű melléktermék kezelését, feldolgozását, ártalmatlanítását végző vállalkozás működését;
 
 e) az élelmiszert előállító üzemekből származó, takarmányként felhasználható melléktermékek kezelését, felhasználását, további feldolgozását;
 
@@ -20,7 +20,7 @@ i) az állatgyógyászati termékekkel végzett forgalomba hozatali tevékenysé
 
 (2) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban foglaltak szerint ellenőrzi
 
-a) törvényességi szempontból a szolgáltató állatorvosok tevékenységét;
+a) törvényességi szempontból a szolgáltató állatorvosok, valamint a segédszemélyzet tevékenységét;
 
 b) az állati eredetű melléktermék kezelését, a járványügyi szempontból szigorúbb eljárást igénylő állati eredetű melléktermék, anyag, eszköz ártalmatlanná tételét;
 

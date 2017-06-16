@@ -4,4 +4,6 @@
 
 (3) A szolgáltató állatorvos köteles tőle elvárható módon elsősegélyt nyújtani, és az állattartót a további állatorvosi szolgáltatás igénybevételének lehetőségéről, illetve kötelezettségéről tájékoztatni.
 
+(3a) Ha a szolgáltató állatorvos tevékenysége során rendkívüli élelmiszerlánc-esemény fennállását vagy állat kínzását észleli, köteles arról az élelmiszerlánc-felügyeleti szervet értesíteni.
+
 (4) Az állatorvos az e törvény végrehajtására kiadott jogszabály szerint jogosult a törzskönyvezett, valamint a hatályos Európai, illetve a Magyar Gyógyszerkönyvben szereplő készítmények és anyagok rendelésére.

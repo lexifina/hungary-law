@@ -10,7 +10,7 @@ c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Áll
 
 d) határozza meg az e törvény hatálya alá tartozó bírságok kiszámításának módját és mértékét;
 
-e) állapítsa meg az állami feladatok végzésére feljogosított szolgáltató állatorvos jogállását, feladat- és hatáskörét;
+e) állapítsa meg az állami feladatok végzésére feljogosított szolgáltató állatorvos, a növényorvos, valamint a segédszemélyzet jogállását, feladat- és hatáskörét;
 
 f) határozza meg az állami, illetve a közérdekű védekezés költségei megállapításának és a költségvetési törvényben meghatározott előirányzatból való igénylésének részletes szabályait;
 
@@ -20,7 +20,7 @@ h) állapítsa meg a lófélék azonosításának, jelölésének, nyilvántart�
 
 i) állapítsa meg az ÉBC által ellátandó hatósági feladatok körét;
 
-j) állapítsa meg az e törvény hatálya alá tartozó élelmiszerlánc szereplők, létesítmények, tevékenységek élelmiszerlánc-felügyeleti információs rendszerben történő nyilvántartásba vételének és engedélyezésének részletes szabályait;
+j) állapítsa meg az e törvény szerinti FELIR azonosító beszerzésére kötelezett szereplők, a létesítmények, tevékenységek FELIR-ben történő nyilvántartásba vételének és engedélyezésének, valamint a FELIR azonosító kiadásának, felfüggesztésének, visszavonásának és törlésének részletes szabályait;
 
 k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerekkel kapcsolatos szabályokat.
 
@@ -30,7 +30,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 3. az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait;
 
-4. a kártalanítás mértékét, továbbá a kártalanítási eljárás részletes szabályait;
+4. a kártalanítás összegének megállapítására és a kártalanítási eljárásra vonatkozó részletes szabályokat;
 
 5. a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény kötelező előírásait;
 
@@ -46,7 +46,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 11. a növényvédő szer kis- és nagykereskedelmi forgalomba hozatalának részletes szabályait;
 
-12. a termésnövelő anyagok engedélyezésére, tárolására, forgalomba hozatalára és felhasználására vonatkozó részletes szabályokat;
+12. a termésnövelő anyagok engedélyezésének, tárolásának, jelölésének, forgalomba hozatalának, felhasználásának és ezek ellenőrzésének részletes szabályait;
 
 13. a zöldség és gyümölcs ellenőrzésére vonatkozó részletes szabályokat;
 
@@ -124,7 +124,15 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 50. az ízesített borászati termékek meghatározásának, megnevezésének és kiszerelésének szabályait;
 
-51. a vendéglátó-ipari létesítmények minősítési rendszerének, a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti vizsgálatának, értékelésének és a hatósági bizonyítvány kiállításának részletes szabályait.
+51. a vendéglátó-ipari létesítmények minősítési rendszerének, a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti vizsgálatának, értékelésének részletes szabályait, valamint a minősített vendéglátó-ipari létesítmények működésére vonatkozó követelményeket;
+
+52. a növényvédelmi szolgáltatás nyújtására irányuló szerződés élelmiszerlánc-felügyeleti szervnek történő bejelentésének részletes szabályait;
+
+53. a növényvédelmi gépek típusminősítésének és műszaki felülvizsgálatának részletes szabályait;
+
+54. a mezőgazdasági gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;
+
+55. a szolgáltató állatorvosok által ellátandó állategészségügyi állami feladatok végzésének szakmai szabályait.
 
 (3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
@@ -152,11 +160,13 @@ f) a környezetvédelemért felelős miniszterrel egyetértésben a növényvéd
 
 g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, biocid termékek, valamint termésnövelő anyagok légi kijuttatásának részletes szabályait;
 
-h) a környezetvédelemért felelős miniszterrel egyetértésben az állati hulladékokból készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;
+h) a környezetvédelemért felelős miniszterrel egyetértésben az állati melléktermékből készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;
 
 i) az adópolitikáért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
 
-j) az adópolitikáért felelős miniszterrel egyetértésben az áruk behozatala, illetve kivitele során a vámhatóságra vonatkozó, e törvény hatálya alá tartozó eljárásokkal kapcsolatos rendelkezéseket.
+j) az adópolitikáért felelős miniszterrel egyetértésben az áruk behozatala, illetve kivitele során a vámhatóságra vonatkozó, e törvény hatálya alá tartozó eljárásokkal kapcsolatos rendelkezéseket;
+
+k) a rendészetért felelős miniszterrel egyetértésben az élelmiszer-rendészek feladatellátásának és nyilvántartásba vételének részletes szabályait.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokra, továbbá a tápértékjelölésre vonatkozó részletes szabályokat.
 

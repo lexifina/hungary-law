@@ -28,4 +28,4 @@ d) növény-egészségügyi zárlati intézkedést tartalmazó, valamint
 
 e) az 52. § (3) bekezdése szerinti
 
-határozatát a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. Az így közzétett határozat fellebbezésre tekintet nélkül azonnal végrehajtandó. A határozat közlése időpontjának az első közzététel időpontja minősül.
+határozatát a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. A határozat közlése időpontjának az első közzététel időpontja minősül.

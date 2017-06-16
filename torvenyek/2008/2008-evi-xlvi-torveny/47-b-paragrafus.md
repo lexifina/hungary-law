@@ -14,7 +14,7 @@ d) a 35. és 36. § szerint nyilvántartott vagy engedélyezett takarmány-váll
 
 e) állatgyógyászati készítményt, állatgyógyászati terméket állít elő vagy forgalomba hozza,
 
-f) engedélyköteles terméket, illetve a 2003/2003/EK rendelet szerinti EK-műtrágyát állít elő vagy forgalomba hoz,
+f) engedélyköteles terméket, illetve EK-műtrágyát állít elő vagy forgalomba hoz,
 
 g) állati eredetű melléktermék kezelését, felhasználását, további feldolgozását, szállítását végzi vagy az ezekből származó terméket forgalomba hozza,
 
@@ -36,7 +36,9 @@ b) – személyi jövedelemadó-bevallásra köteles természetes személy – e
 
 (3a)
 
-(4) A termelői szerveződésen vagy a termelői szerveződés, valamint annak tagjai kizárólagos tulajdonában lévő vállalkozáson keresztül történő forgalomba-hozatal után fizetendő felügyeleti díj mértéke a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás előző évi nettó árbevételéből, a (2) bekezdés szerinti tevékenységhez kapcsolódó rész 0,1%-a, amennyiben a felügyeleti díjfizetési kötelezettséget a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás szerződésben átvállalta a fizetésre kötelezett termelői szerveződés tagjától.
+(4) A termelői szerveződésen vagy a termelői szerveződés, valamint annak tagjai kizárólagos tulajdonában lévő vállalkozáson keresztül történő forgalomba-hozatal után fizetendő felügyeleti díj mértéke a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás előző évi nettó árbevételéből, a (2) bekezdés szerinti tevékenységhez kapcsolódó rész 0,1%-a, amennyiben a felügyeleti díjfizetési kötelezettséget a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás szerződésben vagy egyoldalú jognyilatkozattal átvállalta a fizetésre kötelezett termelői szerveződés tagjától.
+
+(4a) Felügyeleti díj bevallására és megfizetésére kötelezettnek minősül a (3) bekezdésben foglaltak szerint az, aki nem magyarországi illetékességű, de Magyarország területén a (2) bekezdés szerinti tevékenységet végez és a 38/B. § szerinti FELIR-azonosítóval rendelkezik, továbbá az állami adóhatóságnál regisztrált általános forgalmi adóalanynak minősül.
 
 (5) A felügyeleti díj mértéke az elsődlegesen végső fogyasztó számára értékesítő felügyeleti díj fizetésére kötelezett
 
@@ -50,9 +52,9 @@ b) kisvállalkozás esetén évi hétszázezer forint.
 
 (8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
 
-(9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőig meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) előírásai irányadók. A meg nem fizetett felügyeleti díj és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőn belül meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései irányadók. A meg nem fizetett felügyeleti díj és késedelmi pótlék adók módjára behajtandó köztartozásnak minősül. A felügyeleti díj fizetésére kötelezett által a (8) bekezdés alapján benyújtott bevallás végrehajtható okiratnak minősül.
 
-(10) Az élelmiszerlánc-felügyeleti szervet megillető felügyeleti díjat az élelmiszerlánc-biztonsági stratégiában, a többéves tervben és az éves ellenőrzési tervben meghatározott feladatok végrehajtására kell fordítani. Az évente befolyt felügyeleti díj 10%-át fejlesztésre kell fordítani. A felügyeleti díjból befolyt bevétel működésre is fordítható.
+(10) Az élelmiszerlánc-felügyeleti szervet megillető felügyeleti díjat az élelmiszerlánc-biztonsági stratégiában, a többéves tervben és az éves ellenőrzési tervben meghatározott feladatok végrehajtására kell fordítani. Az évente befolyt felügyeleti díj 10%-át fejlesztésre kell fordítani. A felügyeleti díjból befolyt bevétel az élelmiszerlánc-felügyeleti szerv működésére is fordítható.
 
 (11) Az élelmiszerlánc-felügyeleti szervet megillető felügyeleti díj felhasználásáról az élelmiszerlánc-felügyeleti szerv elkülönített nyilvántartást vezet. A felhasználásról feladatonkénti szöveges beszámolót kell készíteni az országos főállatorvos részére a felhasználást követő év április 30-ig.
 

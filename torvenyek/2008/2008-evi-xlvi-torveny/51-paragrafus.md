@@ -4,7 +4,7 @@
 
 (2) A hazai állatállományt súlyosan veszélyeztető és a nemzetközi kereskedelmet akadályozó vagy emberre is veszélyes, újonnan felfedezett fertőző állatbetegségre a miniszter – határozott időtartamra – az e törvény felhatalmazása alapján kiadott rendeletében bejelentési kötelezettséget írhat elő.
 
-(3) Állatbetegség megelőzése, megállapítása, továbbterjedésének megakadályozása, kártételének csökkentése, felszámolása érdekében, továbbá a betegség természetéhez és elterjedtségéhez mérten, az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott esetekben az alábbi állat-járványügyi intézkedéseket rendelheti el a veszély elhárításához szükséges mértékben és ideig:
+(3) Állatbetegség megelőzése, megállapítása, továbbterjedésének megakadályozása, kártételének csökkentése, felszámolása érdekében, továbbá a betegség természetéhez és elterjedtségéhez mérten, az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai alapján az alábbi állat-járványügyi intézkedéseket rendelheti el a veszély elhárításához szükséges mértékben és ideig:
 
 a) elkülönítés;
 

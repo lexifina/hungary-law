@@ -46,4 +46,6 @@ g) kérelemre vizsgálja a lejárt felhasználhatósági idejű engedélykötele
 
 h) kiadja az e törvény végrehajtására kiadott jogszabály szerinti I. és II. forgalmi kategóriába sorolt növényvédő szerek vásárlására, illetve felhasználására jogosító engedélyt;
 
-i) részt vesz a növényvédelmi szakemberképzésben, és véleményezi az iskolarendszeren kívüli oktatási pályázatok tematikáját.
+i) részt vesz a növényvédelmi szakemberképzésben, és véleményezi az iskolarendszeren kívüli oktatási pályázatok tematikáját;
+
+j) törvényességi szempontból ellenőrzi a növényorvosok, valamint a segédszemélyzet tevékenységét.
