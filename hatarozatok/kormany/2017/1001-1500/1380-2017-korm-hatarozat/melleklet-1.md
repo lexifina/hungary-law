@@ -12,11 +12,7 @@
 
 ## Határidő: a forrás átadásának napjától
 
-## 3. Az egyes egyházi célú támogatások forrásszükségletének biztosításáról szóló 1813/2016. (XII. 20.) Korm. határozat (a továbbiakban: Korm. határozat) 2. pontja helyébe a következő rendelkezés lép:
-
-## „2. Felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az 1. pontban meghatározott feladathoz szükséges 110 123,5 millió forint összegű költségvetési forrást a 2016. évben biztosítsák.”
-
-## 4. A Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 3–4.[^1]
 
 1. melléklet az 1380/2017. (VI. 15.) Korm. határozathoz
 
@@ -35,3 +31,5 @@
 | egyházi célú támogatások | fejlesztési támogatás | 4 100,0 | Magyar Katolikus Egyház – Szeged-Csanádi Egyházmegye |
 
 ”
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
