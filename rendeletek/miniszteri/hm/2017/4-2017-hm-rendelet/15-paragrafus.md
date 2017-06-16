@@ -1,3 +1,3 @@
-## 14. §[^15]
+## 14. § A Rendelet 20/A. §-a helyébe a következő rendelkezés lép:
 
-[^15]: A 14. § a 19. § (2) bekezdése alapján 2017. június 16-án lép hatályba.
+## „20/A. § Az MH központi személyügyi szerv vezetője az 1. melléklet szerinti belföldi egyéni és családos igényjogosulti térítési díj összegét legfeljebb 20%-os mértékben csökkentheti, ha az igénybevett szolgáltatás ideje alatt az MH regenerálódást segítő és rekreációt végző szervezeténél vagy az MH regenerálódást és kiképzést végző szervezeténél olyan zajártalommal járó tevékenységek – különösen építési, felújítási munkálatok – folynak, amelyek korlátozzák a szolgáltatások zavartalan igénybevételét.”

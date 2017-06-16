@@ -1,3 +1,3 @@
-## 4. §[^5]
+## 4. § A Rendelet 6. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^5]: A 4. § a 19. § (2) bekezdése alapján 2017. június 16-án lép hatályba.
+## „(3a) A honvédelem érdekében tevékenykedő, a (3) bekezdés hatálya alá nem tartozó civil szervezetek jelenlegi és volt tagjai, tisztségviselői részére az MH regenerálódást segítő és rekreációt végző szervezete és az MH regenerálódást és kiképzést végző szervezete szolgáltatásainak igénybevételét a miniszter engedélyezi. A szolgáltatások az 1. melléklet 1., 1b., 1d., 2., 3. és 3a. pontjában meghatározott kedvezményes térítési díj megfizetésével vehetők igénybe.”
