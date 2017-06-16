@@ -1,0 +1,3 @@
+4. § Az Éltv. 17. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A növényvédő szer, valamint a termésnövelő anyag felhasználására és forgalomba hozatalára vonatkozó engedély jogosultja, valamint az EK-műtrágya első magyarországi forgalmazója köteles évenként március 1-jéig az előző naptári évre vonatkozóan a magyarországi forgalmáról jelentést készíteni és azt elektronikus úton megküldeni az élelmiszerlánc-felügyeleti szerv részére. A jelentésnek tartalmaznia kell a forgalmazott növényvédő szer, termésnövelő anyag, illetve EK-műtrágya tételes megnevezését és mennyiségét, a felhasznált csomagolóeszköz mennyiségét és fajtáját.”
