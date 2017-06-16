@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-51-00-00
 | --- | --- | --- |
 | 2017-05-27 | 2017. évi LI. törvény | 2017-51-00-00.0 (közlönyállapot) |
 | 2017-05-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-51-00-00.1 |
+| 2017-06-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-51-00-00.2 |
