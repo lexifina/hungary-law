@@ -22,4 +22,6 @@ Az Országgyűlés
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti a Magyar Honvédségnek az Iszlám Állam elnevezésű terrorszervezet elleni nemzetközi fellépésben való részvételéről szóló 17/2015. (IV. 17.) OGY határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
