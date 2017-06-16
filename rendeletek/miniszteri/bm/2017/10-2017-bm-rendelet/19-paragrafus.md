@@ -1,0 +1,1 @@
+## „(3) A BM OKF a tűzvédelmi szakértői tevékenység megtiltásáról és a névjegyzékből való törlésről határozatban dönt, és a döntésről értesíti az igazságügyi szakértői névjegyzéket vezető hatóságot, ha a szakértő szerepel az igazságügyi szakértők névjegyzékében.”
