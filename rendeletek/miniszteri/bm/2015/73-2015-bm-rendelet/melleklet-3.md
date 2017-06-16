@@ -1,73 +1,63 @@
-## A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés használatbavételéhez szükséges engedély iránti kérelem mellékletét képező dokumentáció tartalma
+## A beépített tűzjelző berendezés létesítéséhez szükséges engedély iránti kérelem mellékletét képező elvi jellegű dokumentáció tartalma
 
-## A) Valamennyi berendezés esetében mellékelendő:
+## 1. műszaki leírás, ami tartalmazza:
 
-## 1. a kivitelezésért felelős műszaki vezető nyilatkozata arról, hogy a berendezés
+## 1.1. a kiindulási adatokat, így különösen
 
-## 1.1. a létesítési engedélynek, az engedélyezett tervnek és a vonatkozó előírásoknak megfelel,
+## 1.1.1. a létesítés okát, célját, a megrendelői elvárásokat,
 
-## 1.2. az elvégzett üzemi próbák alapján üzemképes állapotban van;
+## 1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket, ha azok ismerete a tervezéshez szükséges),
 
-## 2. üzembehelyezői nyilatkozat és üzembehelyezői jegyzőkönyv;
+## 1.2. a berendezés tervezési alapelveit, így különösen
 
-## 3. a kivitelezést követően elkészített megvalósulási tervdokumentáció, ami a berendezés tűzvédelmi hatóság által engedélyezett létesítési engedélyezési tervdokumentációjának tartalmát a kivitelezéshez szükséges részletességgel, a ténylegesen beépített műszaki megoldások ismertetésével kibővítve tartalmazza, így különösen
+## 1.2.1. a védelmi jelleget (életvédelem, értékvédelem, kombinált védelem) és szintet (teljes körű védelem, részleges védelem, menekülésiútvonal-védelem, berendezésvédelem),
 
-## 3.1. a beépített részegységek, elemek, anyagok, vezetékek típusát és jellemzőit,
+## 1.2.2. a védelemből kihagyott tereket, a kihagyás okát és feltételeinek teljesülését,
 
-## 3.2. a normál és a biztonsági tápellátást biztosító megoldásokat, a tápellátást alátámasztó méretezést,
+## 1.2.3. a jelzési és a riasztási zónák kialakításának elveit,
 
-## 3.3. a vezérlések és a jelzésfogadás tényleges megoldását,
+## 1.2.4. az alkalmazott érzékelők kiválasztásának elveit, a téves jelzések kiküszöbölésének megoldását,
 
-## 3.4. a tűzriasztás tényleges megoldását,
+## 1.2.5. a hibák hatásainak korlátozására vonatkozó elveket,
 
-## 3.5. beépített tűzjelző berendezés esetében az összefüggési rajzot, a telepítési jegyzéket és szükség szerint a bekötési rajzokat;
+## 1.3. a berendezés felépítésének és működésének ismertetését, így különösen
 
-## 4. a beépített részegységek, elemek, anyagok, vezetékek megfelelőségét, teljesítményét igazoló iratok;
+## 1.3.1. a berendezés részegységeinek, elemeinek megnevezését, a tervezés szempontjából lényeges jellemzőit,
 
-## 5. a berendezéssel összefüggésben kivitelezett, a tűzterjedés elleni védelmet, valamint a villamos vezetékek tűzhatás elleni védelmét biztosító megoldások megfelelőségét, teljesítményét igazoló iratok, így különösen
+## 1.3.2. a berendezés részegységeinek, elemeinek elhelyezését, a tűzjelző központ megközelíthetőségének módját,
 
-## 5.1. a védelemből kihagyott és a védelembe bevont terek között az előírt tűzterjedés elleni védelmet biztosító megoldások megfelelőségét, teljesítményét igazoló iratok,
+## 1.3.3. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét,
 
-## 5.2. a villamos és a gépészeti vezetékek határoló építményszerkezeten való átvezetési helyein előírt tűzgátló lezárások megfelelőségét, teljesítményét igazoló iratok,
+## 1.3.4. a normál és a biztonsági tápellátás biztosításának szükségességét,
 
-## 5.3. az előírt tűzálló kábelek, kábelrendszerek és tartószerkezeteik megfelelőségét, teljesítményét igazoló iratok,
+## 1.3.5. a berendezés felügyeletének, kezelésének megoldását,
 
-## 5.4. az 5.1-5.3. alpontban foglalt megoldások megfelelő beépítését igazoló beépítési nyilatkozatok;
+## 1.3.6. az automatikus átjelzés szükségességét,
 
-## 6. a megrendelő vagy az üzemeltető állandó felügyelet biztosítására vonatkozó nyilatkozata;
+## 1.3.7. a tűzriasztás elveit, a riasztás észlelhetőségére, hallhatóságára, láthatóságára vonatkozó követelményt,
 
-## 7. az átjelző berendezéssel kapcsolatos szolgáltatási szerződés;
+## 1.3.8. a vezérlések és jelzésfogadások felsorolását, összefüggéseit,
 
-## 8. a kezelőszemélyzet oktatását igazoló oktatási napló, jegyzőkönyv;
+## 1.3.9. a berendezés és más berendezések, rendszerek közötti kapcsolat biztosítására vonatkozó követelményt;
 
-## 9. a gyártói kezelési és karbantartási utasítás;
+## 2. rajzmelléklet, ami tartalmaz:
 
-## 10. egyéb, a berendezés megfelelőségét alátámasztó irat, dokumentáció; valamint
+## 2.1. jelmagyarázatot,
 
-## 11. a kivitelezésért felelős műszaki vezető, a kivitelező és az üzembehelyező mérnök tűzvédelmi szakvizsga-bizonyítványának másolata.
+## 2.2. méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakaszhatárok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
 
-## B) A beépített tűzjelző berendezés esetében mellékelendő:
+## 2.3. metszetrajzot,
 
-## 1. a vezetékhálózat megfelelőségét, a hurokellenállás-mérés és a szigetelésiellenállás-mérés megtörténtét igazoló irat,
+## 2.4. helyszínrajzot, ha a berendezés több épület védelmét biztosítja;
 
-## 2. a hangnyomásmérési jegyzőkönyv.
+## 3. tervezői nyilatkozat arról, hogy a berendezés terve elvi jellege miatt a tervezési elvek vonatkozásában
 
-## C) A beépített tűzoltó berendezés esetében mellékelendő:
+## 3.1. teljeskörűen megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak, vagy
 
-## 1. a berendezés csővezetékei tisztításának, átmosásának elvégzését igazoló irat,
+## 3.2. a vonatkozó jogszabályban, műszaki követelményben foglaltaktól való eltérés esetén megfelel az eltérést engedélyező, jóváhagyó határozatnak és az eltéréssel nem érintett követelmények vonatkozásában megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak;
 
-## 2. a berendezés helyszíni nyomáspróbájáról készített jegyzőkönyv,
+## 4. a tervező tűzvédelmi szakvizsga-bizonyítványának másolata.
 
-## 3. a helyiség teljes elárasztásával működő gázzal oltó berendezés esetében az oltási koncentráció-megtartási idő ellenőrzéséről készített jegyzőkönyv,
+3. melléklet a 73/2015. (XII. 21.) BM rendelethez[^14]
 
-## 4. az oltóközpont helyiségét határoló építményszerkezetek előírt tűzterjedés elleni védelmét biztosító megoldások megfelelőségét, teljesítményét igazoló iratok.
-
-3. melléklet a 73/2015. (XII. 21.) BM rendelethez
-
-A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés megszüntetéséhez szükséges engedély iránti kérelem mellékletét képező dokumentáció tartalma
-
-1. Az üzemeltető nyilatkozata a berendezéssel védett építmény, építményrész azon jellemzőiről, amelyek miatt a berendezés létesítését jogszabály a létesítéskor előírta.
-
-2. A hatósági előírás alapján létesített berendezés esetén az üzemeltető nyilatkozata a hatósági előírást megalapozó körülmény tűzvédelmi szempontból kedvező megváltozásáról.
-
-3. Tűzvédelmi dokumentáció, amely igazolja, hogy a berendezéssel védett építmény, építményrész maradéktalanul megfelel a megszüntetés iránti kérelem benyújtásakor hatályban lévő Országos Tűzvédelmi Szabályzatról szóló miniszteri rendelet előírásainak.
+[^14]: A 3. melléklet a 10/2017. (VI. 1.) BM rendelet 10. §-ával megállapított szöveg.
