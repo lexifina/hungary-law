@@ -7,11 +7,3 @@ b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szó
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
