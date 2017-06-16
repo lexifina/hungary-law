@@ -1,0 +1,2893 @@
+# A Kormány 156/2017. (VI. 16.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 92. szám, 2017. június 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/15bd18eb3db7a57d11f64acad900f2286b8ec9ae/dokumentumok/034c13381af14e61357d4f609c341a5fb44a48fd/letoltes)
+
+---
+
+A Kormány 156/2017. (VI. 16.) Korm. rendelete
+a haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól
+A Kormány
+az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről,
+valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/E. § (1) bekezdésében, a haditechnikai
+termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 10. §
+(1) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+I. FEJEZET
+ÁLTALÁNOS RENDELKEZÉSEK
+1. § (1) Az engedélyköteles haditechnikai termékek és szolgáltatások körét az 1. melléklet tartalmazza.
+(2) A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló
+2005. évi CIX. törvény (a továbbiakban: Httv.) 5. § (1) bekezdés a) pontja szerinti haditechnikai termékek és
+szolgáltatások körét az 1. melléklet I–IV., VIII. és XXVI. fejezete tartalmazza.
+(3) A Httv. 5. § (1) bekezdés b) pontja szerinti haditechnikai termékek és szolgáltatások körét az 1. melléklet V–VII., és
+IX–XXV. fejezete tartalmazza.
+1. Értelmező rendelkezések
+2. §
+E rendelet alkalmazásában
+ 1. behozatal: kereskedelmi ügylet, amelynek során az Európai Unió vámterületén kívüli területről
+(a továbbiakban: harmadik ország)
+a) az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és
+tanácsi rendelet (a továbbiakban: Uniós Vámkódex) 5. cikk 24. pontjában meghatározott,„nem uniós
+áru” fogalomkörébe nem tartozó árunak az Uniós Vámkódex 201. cikke szerint szabad forgalomba
+bocsátása, ideértve az Uniós Vámkódex 254. cikke szerinti, meghatározott célra történő szabad
+forgalomba bocsátást,
+b) nem uniós áruknak az Uniós Vámkódex 240. cikkében foglalt vámraktározás, a 256. cikkében foglalt
+aktív feldolgozás és a 250. cikkében meghatározott ideiglenes behozatal alá vonása, a 259. cikkében
+foglalt passzív feldolgozás keretében történt ideiglenes kivitelt követő újrabehozatala és szabad
+forgalomba bocsátása vagy vámszabadterületre szállítása, valamint a 203. cikkében meghatározott
+tértiáru szabad forgalomba bocsátása, és
+c) szoftver vagy technológia Európai Unión kívüli országból történő átvételére írásos formában vagy
+más adathordozón Magyarország területén kerül sor;
+ 2. behozatali vámhivatal: az az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban:
+Vámtörvény) 3. § 8. pontjában meghatározott vámhivatal, ahol harmadik országból az Európai Unió
+vámterületére beszállított áruk tekintetében az 1. pont a) és b) alpontja szerinti vámeljárásokat végzik;
+ 3. belépési vámhivatal: az a Vámtörvény 3. § 8. pontjában meghatározott vámhivatal, ahová a harmadik
+országból az Európai Unió vámterületére belépő árukat vám elé állítják;
+ 4. Belső Megfelelési Program: a vállalkozás megbízhatóságát alátámasztó tájékoztató dokumentum, amely
+tartalmazza a vállalkozás tevékenységére vonatkozó információkat, a tevékenysége során keletkezett
+dokumentumok kezelésének és a nyilvántartás leírását; meghatározza az e rendelet hatálya alá eső
+tevékenységben részt vevő személyek feladatkörét és felelősségét, tartalmazza a vállalkozáson belüli
+kockázatkezelés leírását, valamint e rendelet előírásainak vállalkozáson belüli végrehajtását, továbbá
+vállalkozáson belül rendelkezik az esetleges nemmegfelelőségek felszámolásának módjáról;
+
+ 5. brókertevékenység: a bróker által egy európai uniós tagállam és egy harmadik ország, illetve két harmadik
+ország vállalkozásai vagy szervei között haditechnikai eszköz vagy szolgáltatás adásvétele céljából végzett
+tevékenység, ideértve az üzlet megszervezését, a szerződő felek közötti közvetítést, az üzleti lehetőség
+jelzését a vevő vagy az eladó részére, valamint a saját jogon történő vételt és eladást, feltéve, ha az eszközök
+nem kerülnek Magyarország területére;
+ 6. devizamentes ügylet: elszámolási kötelezettség nélküli ügylet;
+ 7. Európai Unió vámterülete: az Uniós Vámkódex 4. cikkében meghatározott vámterület;
+ 8. exportőr: az a vállalkozás,
+a) amelynek érdekében az Uniós Vámkódex 259. cikkében foglalt passzív feldolgozás keretében
+történő ideiglenes kivitel vagy 269. cikke szerinti kiviteli eljárás elvégzéséhez szükséges kiviteli
+árunyilatkozatot vagy Uniós Vámkódex 270. cikke szerinti újkivitel elvégzéséhez szükséges
+újrakiviteli árunyilatkozatot teszik,
+b) amely az árunyilatkozat elfogadásakor a harmadik országbeli címzett szerződő partnere,
+és meghatározhatja a termék harmadik országba történő kiszállítását azzal, hogy ha nem
+kötöttek kivitelre vonatkozó szerződést, vagy pedig a szerződés birtokosa nem saját érdekében
+tevékenykedik, akkor a terméknek harmadik országba történő kiküldésére szóló jogosultság
+a meghatározó;
+ 9. felelős vezető: a Httv. 1. § a) pontja szerinti személy;
+10. haditechnikai eszköz: az 1. mellékletben meghatározott, a védelem terén alapvető biztonsági érdekeket
+érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi és rendészeti célokra alkalmas, az Európai Unió
+közös katonai listáján található, illetve nemzeti biztonsági érdekből ide sorolt termék;
+11. haditechnikai külkereskedelem: haditechnikai eszközök és szolgáltatások kivitelével, behozatalával,
+transzferjével és tranzitjával összefüggő kereskedelmi tevékenység, ideértve az ilyen tevékenységnek
+a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti
+határon átnyúló szolgáltatásnyújtás keretében történő folytatását is, továbbá a haditechnikai termékkel
+kapcsolatban végzett brókertevékenység;
+12. haditechnikai tevékenység: haditechnikai eszköz gyártása, haditechnikai szolgáltatás nyújtása és haditechnikai
+külkereskedelem;
+13. határon átnyúló szolgáltatásnyújtás: a szolgáltatási tevékenység megkezdésének és folytatásának általános
+szabályairól szóló 2009. évi LXXVI. törvény 2. § e) pontjában ekként meghatározott fogalom;
+14. importőr: az a vállalkozás,
+a) amelynek érdekében az Uniós Vámkódex 5. cikk 16. pont a) és b) alpontja, valamint a 201., 203., 240.,
+250., 256. és 259. cikkei szerint megvalósuló behozatali irányú eljárások elvégzéséhez szükséges
+vámáru-nyilatkozatokat teszik,
+b) amely az árunyilatkozat elfogadásakor harmadik országbeli fél szerződő partnere, és végrehajtja
+a termék harmadik országból Magyarország területére történő beszállítását azzal, hogy ha nem
+kötöttek behozatali szerződést vagy a szerződő fél nem saját érdekében tevékenykedik, akkor
+a terméknek harmadik országból Magyarország területére történő beszállítására szóló jogosultság
+a meghatározó;
+15. kilépési vámhivatal: az a vámhivatal, ahol az Európai Unió vámterületét elhagyó árukkal kapcsolatos
+alakiságokat elvégzik, beleértve a megfelelő kockázatalapú ellenőrzéseket is;
+16. kivitel:
+a) az Uniós Vámkódex 269. cikkében foglalt kiviteli eljárás, vagy
+b) áruknak az Uniós Vámkódex 259. cikkében foglalt passzív feldolgozás keretében történt ideiglenes
+kivitele;
+17. kiviteli vámhivatal: az a vámhivatal, ahol az Európai Unióból harmadik országba kiszállított áruk tekintetében
+az Uniós Vámkódex 259., 269. és 270. cikke szerinti vámeljárásokat végzik, beleértve a megfelelő
+kockázatalapú ellenőrzéseket is;
+18. Nemzetközi Import Igazolás: az exportőr ország kérésére az importőr ország Nemzetközi Import Igazolást
+állít ki, amely az importőr ország illetékes hatóságának nyilatkozata arról, hogy az importált eszközök vagy
+technológiák a megadott értékben kerülnek beszállításra a megjelölt végfelhasználási célból, és azok nem
+kerülnek továbbértékesítésre az importőr ország illetékes hatóságának tudta nélkül;
+
+19. Szállítási Tanúsítvány: a végfelhasználó ország illetékes hatóságának igazolása arról, hogy a harmadik
+országba kivitt vagy más tagállamba kiszállított, valamint a harmadik országból behozott vagy más
+tagállamból beérkezett eszköz a végfelhasználó ország vámterületére érkezett;
+20. tanúsított vállalat: vállalkozás, amely rendelkezik a külkereskedelmi államigazgatási és hadiipari gyártás- és
+szolgáltatásfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Hatóság)
+által kiadott tanúsítással, továbbá az Európai Unió más tagállamában letelepedett, a tagállam hatósága által
+tanúsított gyártó;
+21. transzfer: uniós árunak minősülő haditechnikai eszköz átadása vagy szállítása egy Európai Unió tagállamában
+lévő szállító és egy valamely másik tagállamban található címzett között, amely lehet:
+a) kiszállítás: kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás
+Magyarország területéről az Európai Unió valamely tagállamába kerül, beleértve az ideiglenes
+árumozgást,
+b) beérkezés: kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás az Európai
+Unió valamely tagállamából érkezik Magyarország területére beleértve az ideiglenes árumozgást;
+22. transzfert végrehajtó: az a vállalkozás,
+a) amelynek nevében a 21. pont szerinti kiszállításról vagy beérkezésről szóló nyilatkozatot teszik,
+b) amely a nyilatkozat elfogadásakor az Európai Unió egyik tagállamában bejegyzett címzett szerződő
+partnere, és meghatározhatja a termék Európai Unió vámterületén belül történő szállítását
+azzal, hogy ha nem kötöttek szerződést, vagy pedig a szerződés birtokosa nem saját nevében
+tevékenykedik, akkor a terméknek az Európai Unió vámterületén belül történő szállítására szóló
+jogosultság a meghatározó, vagy
+c) amely szoftver vagy technológia szóban, írásos formában, elektronikus úton, faxon vagy telefonon
+való továbbításáról rendelkezik az Európai Unió vámterületén belül;
+23. tranzit: szállítási folyamat, amelynek során haditechnikai eszközt Magyarország területén úgy szállítanak át
+árutovábbítási vámeljárás keretében, hogy annak vámjogi státuszában változás nem történik;
+24. újrakivitel: az Uniós Vámkódex 270. cikkében foglalt eljárás;
+25. vállalkozás: jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági
+tevékenység folytatása céljából jött létre, gazdasági társaság, egyéni cég, egyéni vállalkozó, a költségvetési
+szerv, valamint határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai
+Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett vállalkozás;
+26. Végfelhasználói Nyilatkozat: az exportőr ország kérésére a végfelhasználó vagy a végfelhasználó országának
+nyilatkozata arról, hogy a megvásárolt eszközök a végfelhasználó országában a megjelölt céllal kerülnek
+felhasználásra, továbbá az áru nukleáris, biológiai, illetve vegyi fegyverek fejlesztésére, gyártására és
+használatára, vagy ilyen fegyverek célba juttatására szolgáló eszköz részeként nem kerül felhasználásra;
+tartalmazhat újrakivitelt korlátozó záradékot, illetve nyilatkozatot arról, hogy nem kerül továbbértékesítésre
+az eredeti exportőr ország hozzájárulása nélkül.
+2. Általános engedélyezési szabályok
+3. § (1) Magyarország területén haditechnikai tevékenység a Hatóság által kiadott engedélyek alapján folytatható.
+(2) Engedélyt az alábbi vállalkozás kaphat:
+a) a cégbíróság által nyilvántartásba vett egyéni cég, gazdasági társaság, ideértve a külföldi részvétellel működő
+gazdasági társaságot, valamint a külföldi székhelyű vállalkozás magyarországi fióktelepét, ha az nem áll
+jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás
+vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban,
+b) az egyéni vállalkozók nyilvántartásába bejegyzett egyéni vállalkozó,
+c) a költségvetési szervek törzskönyvi nyilvántartásába bejegyzett költségvetési szerv, továbbá
+d) határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről
+szóló megállapodásban részes valamely más államban (a továbbiakban: EGT-állam) bejegyzett vállalkozás.
+(3) Az e rendelet szerinti eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló
+2004. évi CXL. törvény 71. § (2) bekezdés a) pontja nem alkalmazandó.
+(4) Az e rendelet szerinti eljárásokban a tényállás tisztázása érdekében a Hatóság határidő megjelölésével, a mulasztás
+jogkövetkezményeire történő figyelmeztetés mellett az általános közigazgatási rendtartásról szóló 2016. évi
+CL. törvény 44. § b) pontján túl ismételten hiánypótlásra hívhatja fel a kérelmezőt.
+
+(5) Az e rendelet szerinti engedélyezési eljárásokban az ügyfél nem pótolhatja a nyilatkozatával a hiányzó bizonyítékot
+akkor sem, ha annak beszerzése nem lehetséges.
+(6) Az e rendelet szerinti engedélyezési eljárásokban az ügyfél az iratot nem nyújthatja be másolatban, kivéve, ha ahhoz
+a Hatóság hozzájárul.
+(7) E rendelet 10. § (1) bekezdés a)–b) pontjában meghatározott tevékenységi engedély annak a kérelmezőnek
+adható, amelynek nyilvántartásba vett tevékenységi körei között a haditechnikai termék gyártása vagy a termékhez
+kapcsolódó szolgáltatás nyújtása szerepel.
+(8) A Httv. 2/A. § szerinti esetben a Hatóság annak ad engedélyt, aki
+a) az engedélyezési eljárásban hitelt érdemlően igazolja, hogy az Európai Unió tagállamában vagy az Európai
+Gazdasági Térségről szóló megállapodásban részes valamely más államban gazdasági társaságként
+bejegyezték, és ott a jogszabályoknak megfelelően működik;
+b) a bejegyzés helye szerinti országban hadiipari tevékenység folytatására engedéllyel rendelkezik, vagy ilyen
+tevékenységet a bejegyzés helye szerinti országban és külföldön jogszerűen végezhet;
+c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős vezetője a külön jogszabályban megjelölt
+szakirányú végzettséggel és gyakorlattal rendelkezik;
+d) megfelel a Httv. és az e rendeletben meghatározott egyéb feltételeknek.
+4. §
+A Hatóság az engedély és a tanúsítás iránti kérelemről – a tranzitengedély és a tevékenységi engedély iránti kérelem
+kivételével – 60 napon belül dönt.
+5. § (1) Nem kell külön engedélyt beszerezniük a Httv. 2. §-a szerinti tevékenységhez
+a) a Magyar Honvédség, a katonai nemzetbiztonsági szolgálat, a rendvédelmi feladatokat ellátó szervek
+kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást, megsemmisítést,
+múzeumi tevékenységet végző, továbbá a Magyar Honvédség közbeszerzési, beszerzési eljárásokban
+ajánlatkérőként eljáró szervezeti egységeinek, továbbá
+b) az állam nevében eladóként eljáró, hon- és rendvédelmi szempontból feleslegesnek nyilvánított
+haditechnikai termékek elidegenítését végző szerveknek és a Magyar Nemzeti Vagyonkezelő Zrt.-nek,
+azonban az elidegenített haditechnikai termékek köréről, illetve a vásárlók személyéről kötelesek
+a szerződéskötést követő tizenöt napon belül írásban tájékoztatni a Hatóságot.
+(2) Nem kell engedély az e rendelet 2. § 11. pontjában meghatározott tevékenységhez, ha
+a) haditechnikai eszközt az Országgyűlés vagy a Kormány által jóváhagyott csapatmozgás, továbbá hatályos
+nemzetközi szerződésben kifejezetten engedélyezett kötelezettségek keretében szállítanak át Magyarország
+határán,
+b) a szállítást – kötelezettségei teljesítéséhez – az Európai Unió, a NATO vagy a Nemzetközi Atomenergia
+Ügynökség végzi,
+c) a szállítás a katasztrófa esetén nyújtott humanitárius segítségnyújtáshoz vagy adományhoz kapcsolódik, vagy
+d) haditechnikai eszközt állami fegyveres szervek közös gyakorlat, bemutató céljából szállítanak át
+Magyarország határán.
+6. §
+Egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során
+alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet által nem szabályozott
+kérdések esetében e rendelet előírásai alkalmazandók, kivéve annak – az egyes, a halálbüntetés, a kínzás vagy más
+kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló
+1236/2005/EK tanácsi rendelet módosításáról szóló 2016. november 23-i (EU) 2016/2134 európai parlamenti és
+tanácsi rendelet I. mellékletével kiegészített – IIIa. mellékletében felsorolt termékek esetén.
+7. § (1) Az e rendelet szerinti engedélyezési eljárások és a tanúsítás során alkalmazandó engedély iránti kérelmek és
+engedélyokmányok mintáját a Hatóság a honlapján közzéteszi.
+(2) Az e rendelet szerinti engedélyek és a tanúsítás iránti kérelmek kormányablaknál nem terjeszthetők elő.
+(3) A Hatóság nyilvántartja és kezeli az engedélyezési eljárás során birtokába kerülő és keletkező – személyes adatnak
+nem minősülő, kormányrendeletben meghatározott – adatokat.
+(4) A Hatóság a (3) bekezdés szerinti adatok kezelésére legfeljebb az érintettnek a tevékenysége folytatására vonatkozó
+jogosultsága megszűnésétől számított hat hónapig jogosult.
+
+8. § (1) A Hatóság az engedélyeket az általa elnökölt és havi rendszerességgel összehívott Haditechnikai Véleményező
+Munkacsoport (a továbbiakban: Munkacsoport) véleményének kikérésével adja ki.
+(2) A Munkacsoport tagjai a külpolitikáért felelős miniszter, az iparügyekért felelős miniszter, a rendészetért felelős
+miniszter, a honvédelemért felelős miniszter által kijelölt személy, valamint az Alkotmányvédelmi Hivatal,
+az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Országos
+Rendőr-főkapitányság, a Nemzeti Adó- és Vámhivatal és a Terrorelhárítási Központ képviselője.
+(3) A Hatóság az általa kiadott és visszavont engedélyekről, továbbá az elutasított engedély kérelmekről a döntés
+meghozatalát követő 30 napon belül tájékoztatja a (2) bekezdésben felsorolt szerveket.
+3. Korlátozások
+9. § (1) A kérelmet el kell utasítani, ha
+a) a kérelmezett tevékenység ellentétes Magyarország nemzetközileg vállalt kötelezettségeivel,
+b) a kérelmezett tevékenység ellentétes Magyarország ellátásbiztonsági érdekeivel,
+c) a kérelmezett tevékenység, a kérelmező, a kérelmező tulajdonosa, felelős vezetője, vagy a kérelmezett
+tevékenységhez közvetlenül kapcsolódó munkakörben foglalkoztatott alkalmazottja az Alkotmányvédelmi
+Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat vagy a Katonai Nemzetbiztonsági Szolgálat
+írásos véleménye alapján nemzetbiztonsági érdeket sért vagy nemzetbiztonsági kockázatot jelent, vagy
+a Terrorelhárítási Központ írásos véleménye alapján terrorveszélyt jelent,
+d) a kérelmezett tevékenység akadályozná vagy ellehetetlenítené a honvédelmi, rendvédelmi, valamint
+nemzetbiztonsági szervek jogszabályban meghatározott tevékenységének ellátását,
+e) a kérelmezőnek a Hatósággal szemben korábbi eljárásból származó, befizetetlen bírságtartozása van,
+f) a kérelmezett tevékenység ellentétes a 2. mellékletben meghatározott kritériumokkal,
+g) a kérelmező, a kérelmező tulajdonosa, vezető tisztségviselője, valamint a tervezett haditechnikai
+tevékenységhez közvetlenül kapcsolódó munkakörben foglalkoztatott alkalmazottja nem felel meg a Httv.
+5. § és 5/A. § szerinti személyi követelményeknek,
+h) a kérelmező, tulajdonosa vagy valamely felelős vezetője nem rendelkezik a termék gyártásához, vagy
+a szolgáltatás nyújtásához szükséges e rendelet 4. melléklete szerinti szakirányú végzettséggel és
+gyakorlattal,
+i) a haditechnikai eszköz gyártását vagy haditechnikai szolgáltatás nyújtását végző kérelmező nem rendelkezik
+olyan székhellyel (telephellyel) és eszközökkel, melyek műszakilag alkalmassá teszik a kérelmezett
+tevékenység végzésére, azok biztonságtechnikailag nem alkalmasak a haditechnikai termék biztonságos
+mozgatására, szállítására, tárolására és őrzésére.
+(2) Az engedélyt vissza kell vonni, ha
+a) a kiadásának bármely feltétele megszűnt, vagy
+b) az engedély kiadását követően olyan változás áll be, amely alapján a kérelem elutasításának lenne helye.
+(3) A Hatóság a kiadott engedélyt visszavonhatja, ha a vállalkozás e rendeletben foglalt előírásokat, az engedélyben
+meghatározott feltételeket vagy a kereskedelemre vonatkozó jogszabályi rendelkezéseket megsérti.
+(4) Az (1) bekezdés c) és d) pontjában meghatározott esetekben, illetve az engedély ezek alapján történő visszavonása
+esetén a Hatóság a döntésében az indokolást mellőzi.
+(5) A Hatóság az (1) bekezdés f) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával
+együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
+(6) A Hatóság az engedély hatályát legfeljebb 6 hónapos időtartamra felfüggesztheti, és az engedélyben foglalt jogok
+gyakorlását a felfüggesztés időtartamára megtilthatja, ha
+a) a (2) bekezdés alapján az engedély visszavonásának lenne helye, azonban az erre okot adó körülmény
+az (1) bekezdés c) pontja szerinti szervek írásos véleménye alapján megszüntethető, és megszüntetése
+érdekében az engedéllyel rendelkező (a továbbiakban: engedélyes) a Hatósággal együttműködik,
+b) az engedélyes vállalkozás tulajdonosa, vezető tisztségviselője, valamint a haditechnikai termék gyártásához
+vagy szolgáltatás nyújtásához közvetlenül kapcsolódó munkakörben alkalmazott munkatársa a Httv.
+5. §-ban foglalt személyi követelményeknek nem felel meg, ha az engedélyes vállalja, hogy ezt az állapotot
+megszünteti, vagy
+c) a tárgyalási engedély vagy a forgalmi engedély kiadását követően olyan változás állt be, amely alapján az arra
+vonatkozó engedély iránti kérelemnek az (1) bekezdés f) pontja alapján a 2. melléklet szerinti elutasításának
+lenne helye.
+
+(7) A Hatóság a felfüggesztett hatályú engedélyt visszavonja, ha a felfüggesztésre okot adó körülmény a (6) bekezdés
+szerinti időtartam lejártát követően is fennáll.
+(8) Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek jogszabályban meghatározott tevékenységének
+ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
+II. FEJEZET
+ENGEDÉLYTÍPUSOK
+4. Tevékenységi engedély
+10. § (1) A vállalkozás tevékenységi engedély birtokában jogosult
+a) haditechnikai eszköz gyártására,
+b) haditechnikai szolgáltatás nyújtására vagy
+c) haditechnikai külkereskedelemmel kapcsolatos előkészítő tevékenység (piackutatás, ajánlattétel, előkészítő
+tárgyalások) végzésére.
+(2) A tevékenységi engedély típusai:
+a) általános tevékenységi engedély, amely haditechnikai eszköz gyártására, haditechnikai szolgáltatás
+nyújtására vagy haditechnikai külkereskedelemmel kapcsolatos előkészítő tevékenység végzésére jogosít;
+b) eseti tevékenységi engedély, amelynek hatálya kizárólag egy haditechnikai külkereskedelmi ügyletre terjed
+ki.
+(3) A tevékenységi engedély iránti kérelmet a 3. mellékletben meghatározott adattartalommal kell benyújtani
+a Hatóság részére.
+(4) A haditechnikai termék gyártását vagy a haditechnikai szolgáltatás nyújtását szakterületenként közvetlenül
+irányító felelős vezető szakmai szakképzettségének és gyakorlati idejének engedélyhez szükséges követelményeit
+a 4. melléklet tartalmazza.
+(5) Az általános tevékenységi engedély 2 évig hatályos. A tevékenységi engedély hatályának lejárta előtt legalább
+45 nappal benyújtott kérelemre indult eljárásban 5 évig hatályos új tevékenységi engedély adható ki.
+(6) A tevékenységi engedéllyel rendelkező vállalkozás jogutóddal történő megszűnése esetén a jogutód e rendelet
+szerinti tevékenységet csak új tevékenységi engedély birtokában folytathat.
+(7) A tevékenységi engedéllyel rendelkező gazdasági társaság a szavazatok huszonöt százalékát elérő vagy meghaladó
+mértékű befolyás szerzése esetén haditechnikai tevékenységet új engedély birtokában folytathat.
+(8) Ha a tevékenységi engedély iránti kérelem magában foglalja bármely az 1. melléklet VIII. fejezetében található
+termék gyártását, gyártási tevékenység során történő felhasználását, illetve tárolását, a Hatóság az engedélyezési
+eljárás során a 8. § (1) bekezdése szerinti Munkacsoporton túl kikérheti a bányafelügyeleti feladatkörében eljáró,
+a tevékenység végzésének helye szerint illetékes Kormányhivatal véleményét is, aki 15 napon belül válaszol
+a megkeresésre.
+11. §
+Az engedélyes az engedélyezési eljárás során benyújtott kérelmében meghatározott adatok változását 8 napon
+belül köteles bejelenteni a Hatóságnak. A Hatóság a megváltozott adatoknak megfelelő új engedélyt ad ki
+az engedélyesnek.
+12. § (1) Az engedélyes haladéktalanul köteles jelenteni a Hatóságnak az ellene irányuló csődeljárás, felszámolás vagy
+végelszámolás megkezdését.
+(2) Az (1) bekezdés szerinti eljárások során az eljárást lefolytató köteles a Hatóság felé igazolni, hogy az engedélyezett
+tevékenység során felhasznált veszélyes anyagokkal tételesen elszámolt.
+13. §
+A tevékenységi engedély iránti kérelemről a Hatóság 45 napon belül dönt.
+14. §
+Öt évig nem kaphat engedélyt a kérelmező, ha a kérelmező, vagy a kérelmező tulajdonosa vagy felelős vezetője
+olyan engedélyesnél volt előzőleg tag, vezető tisztségviselő vagy felelős vezető, akitől (amelytől) az engedélyt
+a Hatóság korábban jogerősen visszavonta, kivéve, ha az engedély visszavonására a tagsági jogviszonyától vagy
+felelősségétől független tény miatt került sor.
+
+15. § (1) A tevékenységi engedélyben kötelezni kell az engedélyest a haditechnikai terméket külön jogszabály szerint jelölő,
+valamint a gyártót egyértelműen azonosító jelzés és adatnyilvántartás alkalmazására.
+(2) A haditechnikai terméket a haditechnikai tevékenység végzésére engedéllyel nem rendelkező személyektől elzárva
+kell tárolni. A tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni, és
+a tároló helyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel
+kell ellátni.
+5. Tárgyalási engedély
+16. § (1) Haditechnikai eszköz kivitelére, újrakivitelére, valamint harmadik ország – kivéve az EGT-államok, az Amerikai
+Egyesült Államok, Ausztrália, Japán, Kanada, Svájc és Új-Zéland – részére történő szolgáltatás nyújtására
+szerződés kizárólag tárgyalási engedély birtokában köthető, az abban meghatározott partnerrel, az engedélyezett
+haditechnikai eszközre vagy szolgáltatásra.
+(2) Tárgyalási engedély hatályos, haditechnikai külkereskedelemre vonatkozó tevékenységi engedély birtokában, azzal
+összhangban kérelmezhető, illetve vehető igénybe.
+(3) A tárgyalási engedély 12 hónapra adható és a lejárta előtt legalább 60 nappal benyújtott kérelemre, egy
+alkalommal, 12 hónappal meghosszabbítható.
+(4) A tárgyalási engedély iránti kérelmet az 5. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság
+részére.
+(5) A Hatóság a tárgyalási engedélyben a 9. § (1)–(3) bekezdésében foglaltakkal összefüggésben nemzetbiztonsági,
+nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából, az összes
+körülmény figyelembevételével az ügylet lebonyolítására vonatkozó egyedi feltételeket határozhat meg a szállítás,
+a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
+(6) Nem szükséges tárgyalási engedély garanciális javításra, kiállításra, bemutatóra, tesztelésre, bevizsgálásra vonatkozó
+devizamentes, ideiglenes árumozgással járó ügylet esetében.
+6. Forgalmi engedély
+17. §
+Haditechnikai eszköz kivitelére, újrakivitelére, behozatalára, transzferére és haditechnikai szolgáltatás nyújtására és
+igénybevételére vonatkozó szerződés csak forgalmi engedély birtokában teljesíthető. Forgalmi engedély hatályos,
+haditechnikai külkereskedelemre vonatkozó tevékenységi engedély birtokában, azzal összhangban kérelmezhető,
+illetve vehető igénybe. A forgalmi engedély típusai:
+a) általános forgalmi engedély,
+b) globális forgalmi engedély,
+c) egyedi forgalmi engedély vagy
+d) az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek,
+részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve
+(az ENSZ tűzfegyverekről szóló jegyzőkönyve) 10. cikkének végrehajtásáról, valamint a tűzfegyverek,
+tűzfegyverdarabok, alkotóelemeik és lőszerek kiviteli engedélyezési, behozatali és tranzit szabályainak
+létrehozásáról szóló, 2012. március 14-i 258/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban:
+258/2012/EU rendelet) szerinti kiviteli engedély.
+18. § (1) A Hatóság az ellátás biztonsága, valamint tartós ipari és kormányközi együttműködések előmozdítása érdekében
+meghatározott haditechnikai eszközök esetében az EGT-államokban letelepedett szerződő felek, végfelhasználók
+vonatkozásában általános forgalmi engedélyt tesz közzé honlapján az alábbi esetekben:
+a) hon- és rendvédelmi, továbbá katonai nemzetbiztonsági feladatokat ellátó szervek, illetve tanúsított
+vállalatok részére történő kiszállítás, kivitel, újrakivitel, szolgáltatásnyújtás vagy azoktól történő beérkezés,
+behozatal, szolgáltatás igénybevétel;
+b) garanciális javításra, kiállításra, bemutatóra, tesztelésre, bevizsgálásra vonatkozó devizamentes, ideiglenes
+árumozgással járó kiszállítás, kivitel, újrakivitel, beérkezés, behozatal esetében.
+(2) Az általános forgalmi engedély hatályos tevékenységi engedély birtokában használható fel.
+(3) Az általános forgalmi engedély közvetlenül hatalmazza fel a hatályos tevékenységi engedéllyel rendelkező
+vállalkozást, hogy az általános forgalmi engedélyben meghatározott haditechnikai eszköz transzferét végrehajtsa.
+
+A Hatóság honlapján közzétett általános forgalmi engedély terhére teljesített transzferekről a vállalkozás a Hatóság
+részére a 28. § szerint utólagosan szolgáltat adatot.
+(4) Az általános forgalmi engedély számát a vállalkozás köteles feltüntetni a haditechnikai eszközöket kísérő
+okmányokon.
+(5) A Hatóság az általános forgalmi engedélyben a 9. § (1)–(3) bekezdésében foglaltakkal összefüggésben
+nemzetbiztonsági, nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából,
+az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó egyedi feltételeket határozhat meg
+a szállítás, a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
+(6) A Hatóság az általános forgalmi engedélyt honlapján magyar és angol nyelven teszi közzé.
+19. § (1) A Hatóság kérelemre az EGT-államokban, az Amerikai Egyesült Államokban, Ausztráliában, Japánban, Kanadában,
+Svájcban vagy Új-Zélandon letelepedett szerződő felek, végfelhasználók esetében több haditechnikai eszközre vagy
+szolgáltatásra, tartós termelési, valamint értékesítési kapcsolatra vonatkozó globális forgalmi engedélyt adhat ki.
+(2) Haditechnikai eszköz kivitelére, újrakivitelére vagy kiszállítására és szolgáltatás nyújtására vonatkozó globális
+forgalmi engedély iránti kérelmet az 6. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság
+részére.
+(3) Haditechnikai eszköz behozatalára vagy beérkezésére és szolgáltatás igénybevételére vonatkozó globális forgalmi
+engedély iránti kérelmet a 7. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság részére.
+(4) Ha az ügy elbírálása érdekében további adatokra van szükség, a Hatóság a (2) és (3) bekezdésben meghatározott
+adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
+(5) A globális forgalmi engedély 3 évre adható és a lejárta előtt legalább 60 nappal benyújtott kérelemre, egy
+alkalommal, 12 hónappal meghosszabbítható.
+(6) A vevő, a végfelhasználó, továbbá a bróker megbízhatóságáról a Hatóság felé a vállalkozás nyilatkozik. A nyilatkozat
+tartalmazza, hogy a vevőt, a végfelhasználót, továbbá a brókert a saját államában vállalkozásként bejegyezték,
+tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
+(7) A vállalkozás tájékoztatja a Hatóságot arról, ha az újrakivitelre vagy újra kiszállításra szánt haditechnikai eszközök
+az eladó ország hatóságának engedélye alapján kiviteli korlátozás alá esnek.
+(8) A Hatóság a globális forgalmi engedélyben a 9. § (1)–(3) bekezdésében foglaltakkal összefüggésben
+nemzetbiztonsági, nemzetgazdasági érdekből, vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából,
+az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó egyedi feltételeket határozhat meg
+a szállítás, a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
+(9) Ha a Hatóság a globális forgalmi engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás
+a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon
+belül köteles megküldeni a Hatóság részére.
+20. § (1) A 18–19. § hatálya alá nem tartozó ügyletek esetében a Hatóság kérelemre egyedi forgalmi engedélyt adhat ki.
+(2) Kivitelre, valamint újrakivitelre vonatkozó egyedi forgalmi engedély kizárólag hatályos tárgyalási engedély
+birtokában kérelmezhető.
+(3) Haditechnikai eszköz kivitelére, újrakivitelére vagy kiszállítására és szolgáltatás nyújtására vonatkozó egyedi
+forgalmi engedély iránti kérelmet a 8. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság
+részére.
+(4) Haditechnikai eszköz behozatalára vagy beérkezésére és szolgáltatás igénybevételére vonatkozó egyedi forgalmi
+engedély iránti kérelmet a 9. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság részére.
+(5) Ha az ügy elbírálása érdekében további adatokra van szükség, a Hatóság a (3)–(4) bekezdésben meghatározott
+adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
+(6) Az egyedi forgalmi engedély 12 hónapra adható és a lejárta előtt legalább 60 nappal benyújtott kérelemre, egy
+alkalommal, 12 hónappal meghosszabbítható.
+(7) A vevő, a végfelhasználó, továbbá a bróker megbízhatóságáról a Hatóság felé a vállalkozás nyilatkozik. A nyilatkozat
+tartalmazza, hogy a vevőt, a végfelhasználót, továbbá a brókert a saját államában vállalkozásként bejegyezték,
+tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
+(8) A vállalkozás tájékoztatja a Hatóságot arról, ha az újrakivitelre vagy újra kiszállításra szánt haditechnikai eszközök
+az eladó ország hatóságának engedélye alapján kiviteli korlátozás alá esnek.
+(9) A Hatóság az egyedi forgalmi engedélyben a 9. § (1)–(3) bekezdésében foglaltakkal összefüggésben
+nemzetbiztonsági, nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából,
+
+az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó egyedi feltételeket határozhat meg
+a szállítás, a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
+(10) Ha a Hatóság az egyedi forgalmi engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás
+a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon
+belül köteles megküldeni a Hatóság részére.
+(11) Az eseti tevékenységi engedélyhez tartozó egyedi forgalmi engedély az eseti tevékenységi engedély lejáratáig
+hatályos.
+21. § (1) A Hatóság az 1. melléklet I. fejezet a)–c) pontjában vagy III. fejezetében és a 258/2012/EU rendelet I. mellékletében
+is felsorolt haditechnikai eszközök kivitele esetén kérelemre a 258/2012/EU rendelet II. melléklete szerinti kiviteli
+engedélyt ad ki.
+(2) A 258/2012/EU rendelet szerinti kiviteli engedély kizárólag hatályos tárgyalási engedély birtokában kérelmezhető.
+(3) A 258/2012/EU rendelet szerinti kiviteli engedély iránti kérelmet a 12. mellékletben meghatározott adattartalommal
+kell benyújtani a Hatóság részére.
+(4) A 258/2012/EU rendelet szerinti kiviteli engedély 12 hónapra adható és a lejárta előtt legalább 60 nappal benyújtott
+kérelemre, egy alkalommal, 12 hónappal meghosszabbítható azzal, hogy az engedély érvényessége nem haladhatja
+meg a 12. mellékletben felsorolt, csatolt okiratok hatályosságának idejét.
+(5) A vevő, a végfelhasználó, továbbá a bróker megbízhatóságáról a Hatóság felé a vállalkozás nyilatkozik. A nyilatkozat
+tartalmazza, hogy a vevőt, a végfelhasználót, továbbá a brókert a saját államában vállalkozásként bejegyezték,
+tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
+(6) A vállalkozás tájékoztatja a Hatóságot arról, ha az újra kivitelre vagy újra kiszállításra szánt haditechnikai eszközök
+az eladó ország hatóságának engedélye alapján kiviteli korlátozás alá esnek.
+(7) A Hatóság a 258/2012/EU rendelet szerinti kiviteli engedélyben a 9. § (1)–(3) bekezdésében foglaltakkal
+összefüggésben nemzetbiztonsági, nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás
+ellenőrzésének céljából, az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó egyedi
+feltételeket határozhat meg a szállítás, a végfelhasználás, a továbbértékesítés és a továbbadás vonatkozásában.
+(8) Ha a Hatóság a 258/2012/EU rendelet szerinti kiviteli engedély kiadását Szállítási Tanúsítvány utólagos
+benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő
+érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
+22. § (1) A Nemzetközi Import Igazolás és Végfelhasználói Nyilatkozat iránti kérelemhez csatolni kell a vállalkozás
+nyilatkozatát arról, hogy a behozott haditechnikai eszközt és igénybe vett szolgáltatást kizárólag a 2. §
+26. pontjában megjelölt feltételekkel és módon fogják felhasználni.
+(2) A Nemzetközi Import Igazolás kizárólag az abban megnevezett vállalkozás nevében használható fel a származási,
+illetve szerződő ország hatóságai előtti eljárás során. A Nemzetközi Import Igazolás kibocsátását követően
+6 hónapig hatályos.
+(3) A behozatali vámhivatal a Szállítási Tanúsítványon igazolja az Európai Unión kívüli országból történő behozatal
+megtörténtét.
+(4) A Nemzetközi Import Igazolásban, a Végfelhasználói Nyilatkozatban, valamint a Szállítási Tanúsítványban foglalt
+adatokkal kapcsolatban beálló változásról a vállalkozás haladéktalanul értesíti a Hatóságot.
+7. Brókerengedély
+23. § (1) Brókertevékenység végzésére a Hatóság kérelem alapján egy ügyletre szóló brókerengedélyt ad ki.
+A brókerengedély iránti kérelmet a 10. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság
+részére.
+(2) A brókerengedély hatályos, haditechnikai külkereskedelemre vonatkozó tevékenységi engedély birtokában, azzal
+összhangban kérelmezhető, illetve vehető igénybe.
+(3) A brókerengedély 12 hónapra adható és a lejárta előtt legalább 60 nappal benyújtott kérelemre, egy alkalommal,
+12 hónappal meghosszabbítható.
+(4) A Hatóság a brókerengedélyben a 9. § (1)–(3) bekezdésében foglaltakkal összefüggésben nemzetbiztonsági,
+nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából, az összes
+körülmény figyelembevételével az ügylet lebonyolítására vonatkozó egyedi feltételeket határozhat meg a szállítás,
+a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
+
+(5) A vevő és a végfelhasználó megbízhatóságáról a Hatóság felé a vállalkozás nyilatkozik. A nyilatkozat tartalmazza,
+hogy a vevőt, a végfelhasználót a saját államában vállalkozásként bejegyezték, tevékenységét végezheti és ott
+a jogszabályoknak megfelelően működik.
+(6) Ha az ügy elbírálása érdekében további adatokra van szükség, a Hatóság az (1) bekezdésben meghatározott
+adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
+8. Tranzitengedély
+24. § (1) A feladási országtól és a rendeltetési országtól függetlenül tranzitengedély szükséges az 1. melléklet I. fejezet
+a)–c) pontjában, II. fejezet a)–b) pontjában, III. és IV. fejezetében, VII. fejezet a)–f), h), valamint i) pontjában, továbbá
+VIII. fejezetében felsorolt haditechnikai eszközök tranzitjához.
+(2) Az 1. mellékletben felsorolt valamennyi haditechnikai eszköz tranzitja engedélyköteles, ha a küldő és a célország
+is harmadik ország, ide nem értve az EGT-államokat, az Amerikai Egyesült Államokat, Ausztráliát, Japánt, Kanadát,
+Svájcot és Új-Zélandot.
+(3) A tranzitengedély típusai:
+a) egyedi tranzitengedély,
+b) keret tranzitengedély.
+(4) Az egyedi tranzitengedély hatályos, haditechnikai külkereskedelemre vonatkozó tevékenységi engedély birtokában,
+azzal összhangban kérelmezhető, illetve vehető igénybe.
+(5) Az egyedi tranzitengedélyre vonatkozó kérelmet a 11. mellékletben meghatározott adattartalommal kell benyújtani
+a Hatóság részére. Az egyedi tranzitengedély iránti kérelemről a Hatóság 15 napon belül dönt.
+(6) Az egyedi tranzitengedély a 11. melléklet II. részének 3–4. pontjában meghatározott okiratok hatályossági
+idejének lejártáig, de legfeljebb 3 hónapig hatályos, és a lejárta előtt legalább 15 nappal benyújtott kérelemre, egy
+alkalommal, 3 hónappal meghosszabbítható.
+(7) A Hatóság az 1. melléklet I. fejezet a)–c) pontjában, II. fejezet a)–b) pontjában, III., IV., VII. és VIII. fejezetében felsorolt
+haditechnikai eszközökre vonatkozó tranzitengedélyben a közrend és a közbiztonság érvényesülése érdekében
+az összes körülmény figyelembevételével a szállítmány fegyveres kíséretének biztosításáról rendelkezhet.
+(8) Ha az ügy elbírálása érdekében további adatokra van szükség, a Hatóság az (5) bekezdésben meghatározott
+adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
+25. § (1) A Hatóság kérelemre azonos eladó, címzett és végfelhasználó esetén, ismétlődő szállításokra vonatkozóan keret
+tranzitengedélyt adhat ki.
+(2) A keret tranzitengedély 12 hónapig hatályos azzal, hogy a 11. melléklet II. részének 3–4. pontjában meghatározott
+mindenkor hatályos okiratokat meg kell küldeni a Hatóságnak. A keret tranzitengedély lejárta előtt legalább
+15 nappal benyújtott kérelemre, egy alkalommal, 12 hónappal meghosszabbítható.
+(3) A keret tranzitengedélyre egyebekben az egyedi tranzitengedélyre vonatkozó szabályokat kell alkalmazni.
+III. FEJEZET
+TANÚSÍTÁS
+26. § (1) A tanúsítási eljárás során a Hatóság megvizsgálja a vállalkozás megbízhatóságát. A vállalkozás megbízható, ha:
+a) legalább 2 éve rendelkezik hatályos külkereskedelemre és gyártási tevékenységre vonatkozó tevékenységi
+engedéllyel,
+b) haditechnikai külkereskedelmi tevékenysége során betartotta a haditechnikai tevékenységre vonatkozó
+jogszabályi rendelkezések előírásait és a Belső Megfelelési Programban foglaltakat,
+c) a Belső Megfelelési Programban kijelölt felelős vezetője írásban kötelezettséget vállal arra, hogy a vállalkozás
+megtesz minden szükséges intézkedést bármely szállított részegység vagy haditechnikai eszköz
+végfelhasználására vonatkozó különleges feltétel betartásához és végrehajtásához,
+d) a Belső Megfelelési Programban kijelölt felelős vezetője írásban kötelezettséget vállal arra, hogy kérdések
+és vizsgálatok esetében az illetékes hatóságokat részletesen tájékoztatja valamennyi kivitt, transzferált
+vagy egy másik tagállam transzferengedélye alapján kapott haditechnikai eszköz végfelhasználóiról és
+végfelhasználásáról, és
+e) Belső Megfelelési Programjában kijelölt felelős vezetője írásban nyilatkozik arról, hogy az átvett haditechnikai
+eszközöket saját gyártásukhoz vagy tevékenységükhöz használják fel.
+
+(2) A Hatóság által tanúsított vállalatok jogosultak a tanúsításban meghatározott haditechnikai eszközök átvételére
+az általános forgalmi engedély terhére.
+(3) A tanúsítás olyan haditechnikai eszközökre és szolgáltatások igénybevételére szól, amelyek a vállalat gyártási
+tevékenységéhez szükségesek.
+(4) A hon- és rendvédelmi, rendészeti, továbbá a nemzetbiztonsági szervek gyakorolhatják a tanúsított vállalkozásokat
+megillető jogokat.
+(5) A Hatóság a tanúsítás kiadását megelőzően, továbbá a vállalkozás első alkalommal történt tanúsítását követően
+1 éven belül a vállalkozást ellenőrzi. A Hatóság a tanúsított vállalatokat szükségszerűen, de legalább 3 évente
+ellenőrzi.
+(6) A Hatóság a tanúsítást kérelemre magyar és angol nyelven adja ki a védelmi vonatkozású termékek Közösségen
+belüli transzferére vonatkozó feltételek egyszerűsítéséről szóló, 2009. május 6-i 2009/43/EK európai parlamenti és
+tanácsi irányelv 9. cikke értelmében a védelmi ipari vállalkozások tanúsításáról szóló, 2011. január 11-i 2011/24/EU
+bizottsági ajánlás feltételei szerint.
+(7) A tanúsítás legfeljebb 5 évre adható.
+(8) A Hatóság az általa tanúsított vállalatok jegyzékét honlapján magyar és angol nyelven közzéteszi, és gondoskodik
+azoknak, valamint a tanúsítás felfüggesztésének és visszavonásának az Európai Unió által e célra létrehozott
+elektronikus adatbázisba történő feltöltéséről.
+(9) A Hatóság a tanúsítást a 11. § szerinti változás bejelentés esetében újraértékeli.
+27. §
+Ha a vállalkozás nem felel meg a tanúsítás feltételeinek, a Hatóság az eset összes körülményének és az arányosság
+követelményének figyelembevételével a tanúsítást felfüggeszti. A Hatóság a vállalkozást a tanúsítás
+felfüggesztésével egyidejűleg korrekciós intézkedésre kötelezi. A Hatóság ellenőrzi a korrekciós intézkedések
+végrehajtását. Ha a vállalkozás az előírt korrekciós intézkedéseket nem teszi meg a felfüggesztéstől számított
+3 hónapon belül, a Hatóság a tanúsítást visszavonja.
+IV. FEJEZET
+ADATSZOLGÁLTATÁS
+28. § (1) A vállalkozás köteles negyedévente
+a) az általános forgalmi engedély terhére lebonyolított forgalomról,
+b) a globális és egyedi forgalmi engedély, valamint a 258/2012/EU rendelet szerinti kiviteli engedély alapján
+lebonyolított forgalomról és
+c) a bróker engedély alapján teljesült forgalomról
+szóló adatokat göngyölítve, a honlapon közzétett formanyomtatványon a Hatóságnak megküldeni.
+(2) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség határnapja a tárgyév április 30., július 31., október 31. és
+a tárgyévet követő év január 31. napja.
+(3) A vállalkozás köteles naprakész nyilvántartást vezetni az alábbi adatokkal:
+a) a haditechnikai eszköz típusa, és egyedi azonosítója,
+b) a haditechnikai eszközmennyisége és értéke,
+c) a szállítás dátumai,
+d) címzett és végfelhasználó neve és címe, székhelye,
+e) ha ismert, a haditechnikai eszköz végfelhasználása, és
+f) annak igazolása, hogy a haditechnikai eszközök címzettjét tájékoztatták a forgalmi engedélyben foglalt
+kiviteli korlátozásról.
+(4) A vállalkozás a (3) bekezdés szerinti nyilvántartásában rögzített adatokat és kapcsolódó dokumentációt köteles
+5 évig megőrizni.
+29. § (1) A belépési, illetve a kilépési vámhivatal a nem hatályos, illetve az általa végzett eljárás során hatályát vesztett,
+24. § szerinti tranzitengedély okmány eredeti példányát köteles bevonni és haladéktalanul visszaküldeni a Hatóság
+részére.
+(2) A behozatali vámhivatal a 2. § 1. pontja szerinti eljárások során a 7. melléklet II. rész 2. pontja és a 9. melléklet II. rész
+2. pontja szerinti Szállítási Tanúsítvány másodpéldányát haladéktalanul köteles megküldeni a Hatóság részére.
+(3) A vállalkozás a fel nem használt, papíralapú tranzitengedély okmányokat a Hatóság részére köteles a lejáratot
+követő 15 napon belül visszaküldeni.
+
+(4) Tranzitügylet esetében az áru Európai Unió belső határán történő kilépését a tranzitengedéllyel rendelkező
+vállalkozás köteles a szállítmány kilépését követő 5 napon belül a Hatóság részére írásos formában bejelenteni, és
+ezt követően az engedély eredeti példányát 15 napon belül megküldeni a Hatóság részére.
+(5) A vállalkozás a felhasznált vagy a nem hatályos papíralapú globális és egyedi forgalmi engedély, valamint
+a 258/2012/EU rendelet szerinti kiviteli engedély okmányok másolati példányát köteles megküldeni a Hatóság
+részére.
+(6) A vállalkozások a kiszállításra és beérkezésre vonatkozó általános, globális és egyedi forgalmi engedélyeik
+alapján történő szállítás esetén a szállítás megkezdésének időpontját megelőzően legalább 3 nappal kötelesek
+azt a tervezett útvonallal – közúti szállítás esetén a szállító jármű forgalmi rendszámával – együtt, a vonatkozó
+engedély számára hivatkozással írásos formában bejelenteni az eljárás tekintetében az illetékes behozatali, illetve
+a kiviteli vámhivatal részére. Az így bejelentett adatokban bekövetkező változásokat a vállalkozások soron kívül
+kötelesek jelezni az eljárás tekintetében területileg illetékes behozatali, illetve a kiviteli vámhivatal részére.
+30. §
+Az iparügyekért felelős miniszter a haditechnikai külkereskedelmi engedélyezési tevékenységről évenként egy
+alkalommal jelentést tesz a honvédelmi ügyekkel foglalkozó, a rendészeti ügyekkel foglalkozó, a külpolitikai
+ügyekkel foglalkozó, továbbá a nemzetbiztonsági ügyekkel foglalkozó országgyűlési bizottságoknak.
+V. FEJEZET
+ELLENŐRZÉS, BÍRSÁGOLÁS
+31. § (1) Az e rendeletben szabályozott tevékenység, valamint az engedélyben meghatározott feltételek betartásának
+ellenőrzésére a Hatóság jogosult.
+(2) Az e rendelet hatálya alá tartozó termékek forgalmának uniós jogi aktusokban és nemzeti jogszabályokban
+meghatározottak szerinti ellenőrzésére, továbbá a kapcsolódó engedélyek kezelésére a Nemzeti Adó- és Vámhivatal
+jogosult.
+(3) A belépési vámhivatal elvégzi a tranzit ellenőrzését, továbbá a globális és egyedi forgalmi engedélyek esetében
+a harmadik országból történő belépés igazolását.
+(4) A kilépési vámhivatal elvégzi a globális és az egyedi forgalmi engedélyek, a 258/2012/EU rendelet szerinti kiviteli
+engedély, illetve a tranzit engedély ellenőrzését, valamint tranzit engedély esetén a harmadik országba történő
+kilépés igazolását.
+(5) A kiviteli vámhivatal a globális és egyedi forgalmi engedélyek, valamint a 258/2012/EU rendelet szerinti kiviteli
+engedély esetében elvégzi a kivitel és az újrakivitel ellenőrzését, a kapcsolódó engedélyek kezelését. A behozatali
+vámhivatal a globális és egyedi forgalmi engedélyek, valamint a Szállítási Tanúsítványok esetében elvégzi
+a behozatal ellenőrzését, a kapcsolódó engedélyek és Szállítási Tanúsítványok kezelését.
+(6) A vállalkozás a Hatóság vagy a Nemzeti Adó- és Vámhivatal felhívására tájékoztatást ad a kivitt, behozott,
+Magyarországon átszállított vagy transzferált haditechnikai eszköz végfelhasználóiról és végfelhasználásról,
+valamint az elvégzett eljárások befejezéséről.
+(7) A haditechnikai eszközök behozatalára, kivitelére, újrakivitelére és tranzitjára irányuló vámhatósági eljárások
+kizárólag az engedélyes, annak megbízottja vagy képviselője kezdeményezésére indulhatnak.
+32. § (1) Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül
+helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. §-a,
+valamint a Httv. 4/A. § (1) bekezdése szerint kiszabható bírság mértéke:
+a) a 11. §, a 28. § (3) bekezdése, valamint a 29. § (3)–(5) bekezdése szerinti, valamint a 15. § (1) bekezdése szerinti
+jelölési és nyilvántartási kötelezettség megszegése esetén ötezertől ötvenezer forintig,
+b) a 22. § (4) bekezdésének és 29. § (6) bekezdésének megsértése esetén százezertől egymillió forintig,
+c) a 10. § (1) bekezdésében, a 16. § (1) bekezdésében, valamint a 24. § (1) bekezdésében foglaltak megsértése,
+továbbá 9. § (6) bekezdés szerinti, a tevékenység felfüggesztésére vonatkozó előírás megsértése esetén
+egymilliótól ötmillió forintig,
+d) egyes a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés
+során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet
+rendelkezéseinek, továbbá a 17. §-ban és a 23. § (1) bekezdésében foglaltak megsértése esetén ötmilliótól
+tízmillió forintig,
+
+e) 19. § (6)–(7) bekezdése, a 20. § (7)–(8) bekezdése, valamint a 21. § (5)–(6) bekezdése szerinti kötelezettség
+megszegése, a hatóság megtévesztésére alkalmas valótlan adat közlése, valamint az egyes engedélyekben
+előírt egyedi feltételek megszegése esetén ötszázezertől tízmillió forintig
+terjedhet.
+(2) Az (1) bekezdés szerinti jogerős határozatban megállapított bírságot a határozatban megjelölt számlaszámra,
+a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
+(3) Az (1) bekezdés szerinti bírság megfizetése készpénzátutalási megbízással vagy átutalással történhet.
+VI. FEJEZET
+EGYÉB RENDELKEZÉSEK
+33. §
+A Belső Megfelelési Program összeállításához a Hatóság honlapján útmutatót tesz közzé.
+VII. FEJEZET
+ZÁRÓ RENDELKEZÉSEK
+34. § (1) Ez a rendelet – a (2)–(3) bekezdésben foglalt kivétellel – 2017. június 22-én lép hatályba.
+(2) A 3. § (4)–(6) bekezdése, a 7. § (2) bekezdése, a 34. § (3) bekezdése és a 38. § (4) bekezdése 2018. január 1-jén lép
+hatályba.
+(3) A 14. §-ban a „jogerősen” szöveg helyébe „véglegesen”, a 32.§ (2) bekezdésében a „jogerős” szöveg helyébe
+„véglegessé vált”szöveg lép 2018. január 1-jei hatállyal.
+35. § (1) Ez a rendelet a hatálybalépése előtt kiadott engedélyek hatályosságát nem érinti.
+(2) E rendelet rendelkezéseit az e rendelet hatálybalépését követően indult eljárásokban kell alkalmazni.
+36. § (1) Ez a rendelet
+a) az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés
+során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet,
+b) a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 27-i
+329/2007/EK tanácsi rendelet,
+c) a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és megerősítéséről, valamint
+a 817/2006/EK rendelet hatályon kívül helyezéséről szóló, 2008. február 25-i 194/2008/EK tanácsi rendelet,
+valamint az azt módosító, a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és
+megerősítéséről szóló 194/2008/EK tanácsi rendeletben meghatározott bizonyos korlátozó intézkedések
+alkalmazásának felfüggesztéséről szóló, 2012. május 14-i 409/2012/EU tanácsi rendelet,
+d) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló,
+2012. március 23-i 267/2012/EU tanácsi rendelet,
+e) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül
+helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet,
+f) az Eritreával szembeni egyes korlátozó intézkedésekről szóló, 2010. július 26-i 667/2010/EU tanácsi rendelet,
+g) a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU
+tanácsi rendelet,
+h) az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek,
+részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve
+(az ENSZ tűzfegyverekről szóló jegyzőkönyve) 10. cikkének végrehajtásáról, valamint a tűzfegyverek,
+tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak
+létrehozásáról szóló, 2012. március 14-ei 258/2012/EU rendelet, továbbá
+i) a 2014. évi V. törvénnyel kihirdetett Fegyverkereskedelmi Szerződés
+végrehajtásához szükséges rendelkezéseket állapítja meg.
+(2) Ez a rendelet
+a) a fegyverkereskedelem ellenőrzéséről szóló, 2003. június 23-i 2003/468/KKBP tanácsi együttes fellépésnek,
+b) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról
+szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspontnak,
+
+c) a védelmi vonatkozású termékek Közösségen belüli transzferére vonatkozó feltételek egyszerűsítéséről szóló,
+2009. május 6-i 2009/43/EK európai parlamenti és tanácsi irányelvnek,
+d) a védelmi vonatkozású termékek Közösségen belüli transzferére vonatkozó feltételek egyszerűsítéséről
+szóló 2009/43/EK európai parlamenti és tanácsi irányelv 9. cikke értelmében a védelmi ipari vállalkozások
+tanúsításáról szóló, 2011. január 11-i 2011/24/EU bizottsági ajánlásnak,
+e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek, továbbá
+f) a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke
+tekintetében történő módosításáról szóló, 2016. május 27-i 2016/970/EU és 2017. március 7-i 2017/433/EU
+bizottsági irányelveknek
+való megfelelést szolgálja.
+(3) A rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti
+és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti bejelentése megtörtént.
+37. §
+Az egyes áruk, szolgáltatások és anyagi értéket képviselő jogok vámhatárt vagy országhatárt átlépő
+kereskedelméről szóló 52/2012. (III. 28.) Korm. rendelet 2. § (1) bekezdésének a) pontja helyébe az alábbi szöveg lép:
+(E rendelet hatálya nem terjed ki:)
+„a) a haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló
+kormányrendeletben szereplő termékekre, szolgáltatásokra és anyagi értéket képviselő jogokra;”
+38. § (1) Hatályát veszti a haditechnikai termékek gyártása és a haditechnikai szolgáltatások nyújtása engedélyezésének
+részletes szabályairól szóló 301/2005. (XII. 23.) Korm. rendelet.
+(2) Hatályát veszti a haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának
+engedélyezéséről, valamint a vállalkozások tanúsításáról szóló 160/2011. (VIII. 18.) Korm. rendelet.
+(3) Hatályát veszti az egyes kormányrendeleteknek az uniós vámjog végrehajtásával összefüggő módosításáról szóló
+88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdése.
+(4) Hatályát veszti e rendelet 3. § (3) bekezdése, a 4. §-a és a 13. §-a.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+1. melléklet a.. ./2017. (. .) Korm. rendelethez
+Engedélyköteles haditechnikai eszközök és szolgáltatások jegyzéke
+Általános megjegyzések:
+1. A jelen jegyzékben szereplő „kifejezetten katonai” kifejezés a katonai, nemzetbiztonsági, rendvédelmi és rendészeti
+fogalomkört is tartalmazza.
+2. Az „idézőjelben” lévő kifejezések definíciók. Fogalom-meghatározásuk a lista „A listában szereplő kifejezések fogalom
+meghatározása” című mellékletében található.
+3. A vegyi anyagok névvel és CAS-számmal vannak felsorolva. Az azonos szerkezeti képletű vegyi anyagok (beleértve a
+hidrátokat is) engedélykötelesek, függetlenül elnevezésüktől és CAS-számuktól. A CAS-számok segítenek annak
+megállapításában, hogy az adott vegyi anyag vagy keverék engedélyköteles-e, tekintet nélkül a nómenklatúrára. A CAS-
+szám nem használható egyedi azonosítóként, mivel a felsorolt vegyi anyagok egyes formáinak különböző CAS-számuk
+van, és a felsorolt vegyi anyagot tartalmazó keverékeknek is különböző CAS-számuk lehet.
+4. Ahol jelen jegyzékben az angol vagy más idegen nyelven megfogalmazott termék megnevezés (vagy márkanév)
+szerepel, ott értelemszerűen a magyar nyelvű termék-meghatározás alá eső termék is engedélyköteles.
+I. fejezet
+(ML 1)
+Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50
+hüvelyk/inch) vagy kisebb kaliberrel és tartozékok a következők szerint, és a kifejezetten azokhoz tervezett részegységek:
+Megjegyzés: Az ML1. fejezet nem vonatkozik:
+a) a kifejezetten vaktöltényhez tervezett tűzfegyverekre és azokra, amelyek alkalmatlanok lövedék
+kilövésére;
+b) azokra a tűzfegyverekre, amelyeket kifejezetten a legfeljebb 500 m hatótávolságú, kikötött végű,
+robbanótöltetet vagy kommunikációs csatornát nem tartalmazó, irányított lövedékek indítására
+terveztek;
+c) azokra a lőfegyverekre, amelyek nem központi gyújtású lőszert használnak és nem teljesen
+automatikus tüzelési rendszerűek;
+d) a „hatástalanított tűzfegyverekre”.
+a) puskák és vegyescsövű fegyverek, kézifegyverek, géppuskák, géppisztolyok és sorozatvetők;
+Megjegyzés: Az ML1. fejezet a) pontja nem vonatkozik a következőkre:
+a) az 1938 előtt gyártott puskák és kombinált fegyverek;
+b) az eredetileg 1890 előtt gyártott puskák és vegyescsövű fegyverek másolatai;
+c) az 1890 előtt gyártott kézifegyverek, sorozatvetők és géppuskák és azok másolatai;
+d) olyan puskák vagy kézifegyverek, amelyeket kifejezetten inert lövedékek sűrített levegő vagy
+szén-dioxid segítségével történő kilövésére terveztek.
+b) sima csövű fegyverek, a következők szerint:
+1. kifejezetten katonai használatra tervezett sima csövű fegyverek;
+2. más sima csövű fegyverek, a következők szerint:
+a) teljesen automata típushoz tartozó fegyverek;
+
+b) félautomata és pumpás működtetésű típushoz tartozó fegyverek;
+Megjegyzés: Az ML1. fejezet b) 2. pontja nem vonatkozik az olyan fegyverekre, amelyeket kifejezetten inert
+lövedékek sűrített levegő vagy szén-dioxid segítségével történő kilövésére terveztek.
+Megjegyzés: Az ML1. fejezet b) pontja nem vonatkozik a következőkre:
+a) az 1938 előtt gyártott sima csövű fegyverek;
+b) az eredetileg 1890 előtt gyártott sima csövű fegyverek másolatai;
+c) a vadászati és sport célra használt sima csövű fegyverek. Ezek a fegyverek nem lehetnek
+kifejezetten katonai célra tervezve vagy automata tüzelési rendszerűek;
+d) a kifejezetten az alábbi célok bármelyikére tervezett sima csövű fegyverek:
+1. háziállatok levágása;
+2. állatok elkábítása;
+3. szeizmikus vizsgálatok;
+4. ipari lövedékek kilövése; vagy
+5. rögtönzött robbanószerkezetek (IED-k) hatástalanítása.
+NB. A hatástalanító eszközök tekintetében lásd az ML4. fejezetet és a kettős
+felhasználású termékek és technológiák uniós jegyzékének 1A006. pontját.
+c) hüvely nélküli lőszerrel működő fegyverek;
+d) az ML1. fejezet a), b) és c) pontjában meghatározott fegyverek leszerelhető tölténytárai, hangtompítói, az ilyen
+fegyverekhez tartozó különleges fegyverállványok, optikai fegyver-célzókészülékek és lángrejtők.
+Megjegyzés: Az ML1. fejezet d) pontja nem vonatkozik az elektronikus képfeldolgozás nélküli legfeljebb
+kilencszeres nagyítású, optikai fegyver-célzókészülékekre, amennyiben azokat nem kimondottan
+katonai felhasználás céljából tervezték vagy alakítottak át, vagy amennyiben azok nem tartalmaznak
+kifejezetten katonai felhasználásra tervezett hajszálvonal-hálózatos lemezeket.
+II. fejezet
+(ML 2)
+20 mm és ennél nagyobb kaliberű sima csövű fegyverek, más fegyverek és fegyverzetek 12,7 mm-nél (0,5 hüvelyk/inch)
+nagyobb kaliberrel, tűzvetők és tartozékok, és az azokhoz tervezett különleges részegységek, a következők szerint:
+a) Ágyúk, tarackok, gépágyúk, aknavetők, páncéltörő (tankelhárító) fegyverek, sorozatvetők, katonai lángszórók, puskák,
+hátrasiklás nélküli lőfegyverek, sima csövű fegyverek és az ezekhez tartozó lángrejtő eszközök.
+1.
+megjegyzés:
+Az ML2. fejezet a) pontja magában foglalja a porlasztókat, adagolókat, tároló tartályokat, és más
+különlegesen tervezett részegységeket is, amelyek az ML2. fejezet a) pontjában meghatározott
+berendezések folyékony hajtóanyag tölteteihez használatosak.
+2.
+megjegyzés:
+Az ML2. fejezet a) pontja nem vonatkozik a következőkre:
+a) az 1938 előtt gyártott puskák, sima csövű fegyverek és kombinált fegyverek;
+b) az eredetileg 1890 előtt gyártott puskák, sima csövű fegyverek és kombinált fegyverek
+másolatai;
+c) az 1890 előtt gyártott ágyúk, tarackok, gépágyúk és aknavetők;
+
+d) a vadászati és sport célra használt sima csövű fegyverek. Ezek a fegyverek nem lehetnek
+kifejezetten katonai célra tervezve vagy automata tüzelési rendszerűek;
+
+e) a kifejezetten az alábbi célok bármelyikére tervezett sima csövű fegyverek:
+1. háziállatok levágása;
+
+2. állatok elkábítása;
+
+3. szeizmikus vizsgálatok;
+
+4. ipari lövedékek kilövése; vagy
+
+5. rögtönzött robbanószerkezetek (IED-k) hatástalanítása;
+NB. A hatástalanító eszközök tekintetében lásd a ML4. fejezetet és a kettős felhasználású
+termékek és technológiák uniós jegyzékének 1A006. pontját.
+
+f) a legfeljebb 500 m hatótávolságú, kikötött végű, robbanó töltetet vagy kommunikációs
+csatornát nem tartalmazó, irányított lövedékek kézi indítói.
+
+b
+)
+Füst, gáz és pirotechnikai vetők vagy generátorok, amelyeket kifejezetten katonai felhasználásra terveztek vagy
+alakítottak át.
+Megjegyzés:
+Az ML2. fejezet b) pontja nem vonatkozik a jelzőpisztolyra.
+
+c) Az alábbi tulajdonságok mindegyikével rendelkező fegyverirányzékok és fegyverirányzék-rögzítő szerelékek:
+1. kifejezetten katonai használatra tervezték; és
+
+2.
+kifejezetten az ML2. fejezet a) pontjában meghatározott fegyverekhez tervezték;
+
+d) A kifejezetten az ML2. fejezet a) pontjában felsorolt fegyverekhez tervezett fegyverállványok és leszerelhető
+tölténytárak.
+
+III. fejezet
+(ML 3)
+
+Lőszerek és mechanikus gyújtószerkezetek, és az azokhoz tervezett különleges részegységek a következők szerint:
+a)
+az ML1., ML2. vagy ML12. pontban meghatározott fegyverek és fegyverzetek lőszerei;
+
+b) az ML3. fejezet a) pontjában meghatározott, kifejezetten lőszerekhez tervezett gyújtószerkezetek.
+
+1.
+megjegyzés:
+A kifejezetten e célra tervezett, az ML3. fejezetben meghatározott alkatrészek felölelik az alábbiakat:
+a) fém- vagy műanyag termékek, mint például gyújtószerkezetek, lövedékcsészék, hüvelycsatlakozók,
+forgó hevederek és lőszerek fém alkatrészei;
+
+b) biztosító és élesítő eszközök, gyújtószerkezetek, szenzorok és robbantást kiváltó eszközök;
+
+c) egyszeri működésű, nagy teljesítményű tápegységek;
+
+d) éghető töltényhüvelyek;
+
+e) lőszerek, többek között kazettás aknák, bombák és végfázis-vezérlésű lövedékek.
+
+)
+
+2.
+megjegyzés:
+Az ML3. fejezet a) pontja nem vonatkozik a következőkre:
+a) lövedék nélkül leperemezésre kerülő lőszerek (vaktöltény);
+b) átlyuggatott lőporkamrás vaklőszerek;
+c) olyan egyéb vaklőszerek és oktatólőszerek, amelyek nem tartalmaznak az éles lőszerekhez tervezett
+lőszerelemeket; vagy
+d) olyan lőszerelemek, amelyeket kifejezetten az ezen 2. megjegyzés a), b) vagy c) pontjában
+meghatározott vaklőszerekhez vagy oktatólőszerekhez terveztek.
+3.
+megjegyzés:
+Az ML3. fejezet nem vonatkozik azon lőszerekre, amelyeket kifejezetten az alábbi célra terveztek:
+a) jelzés;
+b) madárriasztás; vagy
+c) olajkút gázfáklya begyújtása.
+IV. fejezet
+(ML 4)
+Bombák, torpedók, nem irányított és irányított rakéták, más robbanó eszközök és töltetek, valamint a hozzájuk tartozó
+eszközök és részegységek a következő felsorolás szerint, továbbá a kifejezetten azokhoz tervezett alkatrészek:
+NB.1: Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. fejezetet.
+NB.2: A légijárművek rakétavédelmi rendszerei (AMPS) vonatkozásában lásd az ML4. fejezet c) pontját.
+a) Kifejezetten katonai célra kifejlesztett bombák, torpedók, gránátok, füst- és ködgránátok, nem irányított rakéták
+(reaktív töltetek), aknák, irányított rakéták, mélységi robbanó töltetek, romboló eszközök, romboló készletek,
+„pirotechnikai eszközök”, töltetek és szimulátorok (berendezések, amelyek a felsorolt eszközök jellemzőit szimulálják).
+Megjegyzés: Az ML4. fejezet a) pontja magában foglal:
+a) füst- és ködgránátokat, gyújtóbombákat és robbanó eszközöket;
+b) rakétahajtómű fúvókákat és visszatérő szerkezetek orrkúpjait.
+b) Az alábbi tulajdonságok mindegyikével rendelkező berendezések:
+1. kifejezetten katonai használatra tervezték; és
+2. kifejezetten az alábbiak bármelyikével összefüggő ’tevékenység’ céljára tervezték:
+a) az ML4. fejezet a) pontjában meghatározott eszközök valamelyike; vagy
+b) rögtönzött robbanószerkezetek (IED-k) hatástalanítása.
+Műszaki megjegyzés:
+Az ML4. fejezet 2.b) pontjának alkalmazásában a ’tevékenység’ a következőkre vonatkozik: kezelés, indítás,
+telepítés, irányítás, leszerelés, robbantás, működtetés, egyszeri üzemeltetésre való energiaellátás, csapdává
+alakítás, zavarás, keresés, felfedés, leállítás vagy megsemmisítés.
+1.
+megjegyzés:
+Az ML4. fejezet b) pontja magában foglal:
+a) mobil gázcseppfolyósító berendezést, amely naponta min. 1 000 kg gáznak a folyékony
+alakban történő előállítására alkalmas;
+b) úszóképes villamos vezetéket, amely mágneses aknák felszedésére alkalmas.
+
+2.
+megjegyzés:
+Az ML4. fejezet b) pontja nem vonatkozik azokra a kézi készülékekre, amelyeket kizárólag fém
+tárgyak kimutatására terveztek és nem képesek megkülönböztetni az aknákat más fém
+tárgyaktól.
+c) Légijárművek rakétavédelmi rendszerei (AMPS).
+Megjegyzés Az ML4. fejezet c) pontja nem vonatkozik az alábbiak mindegyikével rendelkező AMPS-ekre:
+a) Az alábbi rakétajelző érzékelők bármelyike:
+1. 100 és 400 nm közötti érzékelési csúcsteljesítménnyel rendelkező passzív érzékelők; vagy
+2. aktív pulzált doppler rakétajelző érzékelők;
+b) Ellentevékenységet generáló kiszóró rendszerek;
+c) Látható és infravörös jelet egyaránt kibocsátó világítótöltetek a föld-levegő rakéták eltérítésére; és
+d) „Polgári légijárműre” felszerelt AMPS, amely az alábbi jellemzők mindegyikével rendelkezik:
+1. Az AMPS csak olyan konkrét „polgári légijárművön” működtethető, amelybe az adott konkrét
+AMPS-t beszerelték, és amely rendelkezik az alábbiak valamelyikével:
+a) polgári típusalkalmassági engedéllyel, amelyet egy vagy több uniós tagállam vagy a
+Wassenaari Megállapodásban részt vevő állam polgári légügyi hatósága bocsátott ki;
+vagy
+b) azzal egyenrangú, a Nemzetközi Polgári Repülési Szervezet (ICAO) által elismert
+okmánnyal;
+2. Az AMPS a „szoftverhez” való jogosultatlan hozzáférés megakadályozására szolgáló védelmet
+alkalmaz; és
+3. Az AMPS rendelkezik olyan aktív mechanizmussal, amely megakadályozza a rendszer
+működését, ha azt eltávolították abból a „polgári légijárműből”, amelyikbe eredetileg
+beszerelték.
+V. fejezet
+(ML5)
+Kifejezetten katonai célra tervezett tűzvezető, és kapcsolódó készültségi és riasztó eszközök, továbbá a kapcsolódó
+rendszerek, teszt és illesztő és ellentevékenység berendezései és a kifejezetten azokhoz tervezett részegységek és
+szerelvények a következők szerint:
+a) fegyverirányzékok, bombavető számítógépek, lövegbeállító irányzó berendezések és fegyverzetirányító rendszerek;
+b) célfelderítő, -megjelölő, távolságmérő, megfigyelő vagy rávezető rendszerek; felderítés, adatfúzió, felismerés vagy
+azonosítás berendezései és szenzor integrációs berendezések;
+c) az ML5. fejezet a) és b) pontjában meghatározott eszközök elleni ellentevékenység eszközei;
+Megjegyzés Az ML5. fejezet c) pontjának alkalmazásában az ellentevékenység eszközei közé tartoznak a felderítő
+berendezések is.
+d) az ML5. fejezet a), b) vagy c) pontjában meghatározott eszközök kipróbálásához vagy illesztéséhez használatos
+berendezések, amelyeket kifejezetten e célra terveztek.
+
+VI. fejezet
+(ML 6)
+Szárazföldi járművek és részegységeik, a következők szerint:
+NB. Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. fejezetet.
+a) Kifejezetten katonai felhasználásra tervezett vagy arra átalakított szárazföldi járművek és részegységeik.
+Műszaki megjegyzés:
+Az ML6. fejezet a) pontja alkalmazásában a szárazföldi járművek kifejezés magában foglalja a pótkocsikat is.
+b) Egyéb szárazföldi járművek és részegységeik, a következők szerint:
+1. Az alábbi jellemzők mindegyikével rendelkező járművek:
+a) járművek, amelyeket a III. szint (lásd: NIJ 0108.01, 1985. szeptember, vagy a megfelelő nemzeti szabvány)
+szerinti vagy annál jobb ballisztikai védelmi képességet biztosító anyagokkal vagy részegységekkel
+gyártottak vagy láttak el;
+b) olyan hajtómű, amely egyszerre hajtja meg mindkét elülső és hátulsó kereket, az olyan járműveket is
+beleértve, amelyek teherszállítás céljára további kerekekkel rendelkeznek, függetlenül attól, hogy azokat
+meghajtják-e vagy sem;
+c) a jármű teljes (bruttó) súlya meghaladja a 4 500 kg-ot; és
+d) terepjáró használatra tervezték vagy alakították át.
+2. Az alábbi tulajdonságok mindegyikével rendelkező részegységek:
+a) kifejezetten az ML6. fejezet b)1. pontjában meghatározott járművekhez tervezték; és
+b) a III. szint (lásd: NIJ 0108.01, 1985. szeptember, vagy a megfelelő nemzeti szabvány) szerinti vagy annál jobb
+ballisztikai védelmi képességet biztosít.
+NB. Lásd még az ML13. fejezet a) pontját.
+1.
+megjegyzés:
+Az ML6. fejezet a) pontja magában foglalja az alábbiakat:
+a) harckocsik és más katonai fegyverzettel ellátott járművek, valamint fegyverek rögzítésre szolgáló
+előkészítéssel, vagy aknatelepítő, vagy az ML4. fejezetben meghatározott lőszerek indítására szolgáló
+eszközökkel ellátott katonai járművek;
+b) páncélozott járművek;
+c) kétéltű és mély gázló képességgel rendelkező járművek;
+d) mentő járművek, lőszer vagy fegyverrendszerek, valamint a rakomány kezelésére szolgáló
+berendezések vontatására vagy szállítására használt járművek.
+2.
+megjegyzés:
+Az ML6. fejezet a) pontjában meghatározott szárazföldi jármű kifejezetten katonai használatra történő
+átalakítása együtt jár olyan szerkezeti, elektromos vagy mechanikai változtatással, amely magában foglal
+egy vagy több kifejezetten katonai felhasználásra tervezett részegységet. Ilyen részegységek az alábbiak:
+a) pneumatikus kerékköpeny, amelyet kifejezetten golyóálló tulajdonsággal terveztek;
+b) az alapvető fontosságú részek páncélozott védelme (pl. üzemanyagtartály vagy járműkabin);
+c) különleges megerősítések fegyverzet felszereléséhez vagy rögzítéséhez;
+d) világítás elsötétítés esetére.
+
+3.
+megjegyzés:
+Az ML6. fejezet nem vonatkozik az olyan polgári járművekre, amelyeket pénz- vagy értékszállításra
+terveztek vagy alakítottak át.
+4.
+megjegyzés:
+Az ML6. fejezet nem vonatkozik az olyan járművekre, amelyek megfelelnek az alábbi kritériumok
+mindegyikének:
+a) 1946 előtt gyártották;
+b) nem rendelkeznek az EU közös katonai listáján meghatározott és 1945 után gyártott eszközökkel,
+kivéve a jármű eredeti alkatrészeinek vagy tartozékainak másolatait; és
+c) nincsenek felszerelve az ML1., ML2. vagy ML3. fejezetben meghatározott fegyverrel, kivéve ha az
+működésképtelen és alkalmatlan lövedék kilövésére.
+VII. fejezet
+(ML 7)
+Vegyi vagy biológiai mérgező harcanyagok, „tömegoszlató harcanyagok”, radioaktív anyagok, kapcsolódó berendezések,
+összetevők és anyagok a következők szerint:
+a) „Háborús felhasználáshoz igazított” biológiai vagy radioaktív harcanyagok, amelyek képesek emberekben vagy
+állatokban sérülést okozni, berendezésekben, növényi kultúrákban vagy a környezetben kárt tenni;
+b) Vegyi harcanyagok (CW), beleértve:
+1. idegrendszerre ható vegyi harcanyagok:
+a) O-alkil (legfeljebb 10 szénatomot tartalmazó lánc, beleértve a cikloalkilt) alkil (metil, etil, n-propil vagy
+izopropil) – fluorfoszfonátok, úgymint:
+Szarin (GB): O-izopropil-metil-fluorfoszfonát (CAS 107-44-8); és
+Szomán (GD): O-pinakolil-metil-fluorfoszfonát (CAS 96-64-0);
+b) O-alkil (legfeljebb 10 szénatomot tartalmazó lánc, beleértve a cikloalkilt) N,N-dialkil (metil, etil, n-propil vagy
+izopropil) amino-ciánfoszfátok, úgymint:
+Tabun (GA): O-etil N,N-dimetilamino-cianfoszfát (CAS 77-81-6);
+c) O-alkil (H vagy legfeljebb 10 szénatomot tartalmazó lánc, beleértve a cikloalkilt), S-2-dialkil (metil, etil, n-
+propil vagy izopropil)-aminoetil alkil (metil, etil, n-propil vagy izopropil) foszfonotiolátok és megfelelő alkilált
+és protonált sók, úgymint:
+VX: O-etil S-2-diizopropilaminoetil metiltiolfoszfonát (CAS 50782-69-9);
+2. hólyaghúzó vegyi harcanyagok:
+a) kénmustárok, úgymint:
+1. 2-klóretil-klórmetilszulfid (CAS 2625-76-5);
+2. bisz(2-klóretil)szulfid (CAS 505-60-2);
+3. bisz(2-klóretiltio)metán (CAS 63869-13-6);
+4. 1,2-bisz(2-klóretiltio)etán (CAS 3563-36-8);
+5. 1,3-bisz(2-klóretiltio)-n-propán (CAS 63905-10-2);
+6. 1,4-bisz(2-klóretiltio)-n-bután (CAS 142868-93-7);
+7. 1,5-bisz(2-klóretiltio)-n-pentán (CAS 142868-94-8);
+
+8. bisz(2-klóretil-tiometil)éter (CAS 63918-90-1);
+9. bisz(2-klóretil-tioetil)éter (CAS 63918-89-8);
+b) hólyaghúzó harci gázok (luizitok), úgymint:
+1. 2-klórvinil-arzindiklorid (CAS 541-25-3);
+2. trisz(2-klórvinil)arzin (CAS 40334-70-1);
+3. bisz(2-klórvinil)arzinklorid (CAS 40334-69-8);
+c) nitrogénmustárok, úgymint:
+1. HN1: bisz(2-klóretil)etilamin (CAS 538-07-8);
+2. HN2: bisz(2-klóretil)metilamin (CAS 51-75-2);
+3. HN3: trisz(2-klóretil)amin (CAS 555-77-1);
+3. cselekvőképességet akadályozó vegyi harcanyagok, úgymint:
+a) 3-kvinuklidinil-benzilát (BZ) (CAS 6581-06-2);
+4. lombtalanító (defoliáns) vegyi harcanyagok, úgymint:
+a) butil 2-klóro-4-fluorofenoxiacetát (LNF);
+b) 2,4,5-triklórfenoxi ecetsav (CAS 93-76-5) keverve 2,4-diklórfenoxi ecetsavval (CAS 94-75-7) (Agent Orange
+(CAS 39277-47-9));
+c) CW bináris prekurzorok és kulcs prekurzorok a következők szerint:
+1. alkil (metil, etil, n-propil vagy izopropil foszfonil-difluorid, mint
+DF: metil-foszfonil-difluorid (CAS 676-99-3);
+2. O-alkil (H vagy legfeljebb 10 szénatomot tartalmazó lánc, beleértve a cikloalkilt) O-2-dialkil (metil, etil, n-propil
+vagy izopropil)-aminoetil-alkil (metil, etil, n-propil vagy izopropil)-foszfonitok és megfelelő alkilált és protonált
+sók, úgymint:
+QL: O-etil O-2-diizopropilamino-etil-metilfoszfonit (CAS 57856-11-8);
+3. klórszarin: O-izopropil-metilklórfoszfonát (CAS 1445-76-7);
+4. klórszomán: O-pinakolil-etilklórfoszfonát (CAS 7040-57-5).
+d) „Tömegoszlató anyagok”, aktív összetevőkből álló vegyi anyagok és azok kombinációi, beleértve:
+1. α-bromofenilacetonitril, (α-bromobenzil-cianid) (CA) (CAS 5798-79-8);
+2. [(2-klórfenil) metilén] propándinitril, (o-klórbenzilidénmalononitril) (CS) (CAS 2698-41-1);
+3. 2-klór-1-feniletanon, fenacil-klorid (ω-klóracetofenon) (CN) (CAS 532-27-4);
+4. dibenz-(b,f)-1,4-oxazepin (CR) (CAS 257-07-8);
+5. 10-klór-5,10-dihidrofenarzin, (fenarzin klorid), (Adamzit), (DM) (CAS 578-94-9);
+
+6. N-Nonanoylmorfolin, (MPA) (CAS 5299-64-9)
+1.
+megjegyzés:
+Az ML7. fejezet d) pontja nem vonatkozik azokra a „tömegoszlató harcanyagokra”, amelyek
+kiszerelése egyedi és személyes önvédelemre szolgál.
+2.
+megjegyzés:
+Az ML7. fejezet d) pontja nem vonatkozik az élelmiszertermelési és gyógyászati célokra azonosított
+és csomagolt aktív összetevőkből álló vegyi anyagokra és azok kombinációira.
+e) A következőkben felsoroltak bármelyikének és a kimondottan azokhoz tervezett részegységek szétterítésére tervezett
+vagy átalakított, kifejezetten katonai felhasználásra tervezett vagy átalakított berendezések:
+1. az ML7. fejezet a), b) vagy d) pontjaiban meghatározott anyagok; vagy
+2. az ML7. fejezet c) pontja alatt felsorolt prekurzorokból készült vegyi harcanyagok.
+f) Kifejezetten katonai felhasználásra tervezett vagy átalakított védelmi és mentesítő berendezések, részegységek és
+vegyi keverékek a következők szerint:
+1. az ML7. fejezet a), b) vagy d) pontjában felsorolt anyagok elleni védelem céljára tervezett vagy átalakított
+berendezések és a kifejezetten azokhoz tervezett részegységek;
+2. az ML7. fejezet a) vagy b) pontja alatt felsorolt anyagokkal szennyezett létesítmények vegyi mentesítésére
+tervezett vagy átalakított berendezések és azok részegységei;
+3. kifejezetten az ML7. fejezet a) vagy b) pontja alatt felsorolt anyagokkal szennyezett létesítmények mentesítésére
+kifejlesztett vagy előállított vegyi keverékek.
+Megjegyzés: Az ML7. fejezet f) 1. alpontja magában foglalja a következőket:
+a) a kifejezetten nukleáris, biológiai és vegyi szűrésre tervezett, vagy átalakított légkondicionáló
+berendezések;
+b) védőruházat.
+NB. A polgári gázálarcok, védő- és fertőtlenítő felszerelésekről további részletek a kettős felhasználású termékek és
+technológiák uniós jegyzékének 1A004. pontjában is találhatók.
+g) Az ML7. fejezet a), b) vagy d) pontjában meghatározott harcanyagok felderítésére vagy azonosítására tervezett vagy
+átalakított, kifejezetten katonai felhasználásra tervezett vagy átalakított berendezések továbbá kifejezetten az
+azokhoz tervezett részegységek.
+Megjegyzés Az ML7. fejezet g) pontja nem vonatkozik a személyi sugárzásmérő doziméterekre.
+NB. Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 1A004. pontját.
+h) A kifejezetten az ML7. fejezet b) pontjában meghatározott vegyi harcanyagok érzékelésére vagy azonosítására
+tervezett vagy feldolgozott „biopolimerek” és az ezek előállításához használt specifikus sejtkultúrák.
+
+i) Vegyi harcanyagok semlegesítésére vagy lebontására szolgáló „biokatalizátorok” és azok biológiai rendszerei a
+következők szerint:
+1. a kifejezetten az ML7. fejezet b) pontjában meghatározott vegyi harcanyagok semlegesítésére és lebontására
+tervezett, és a biológiai rendszerek irányított laboratóriumi szelekciója vagy genetikai manipulációja
+eredményeként létrejövő „biokatalizátorok”;
+2. biológiai rendszerek, amelyek tartalmazzák az ML7. fejezet i) pontjának 1. alpontjában meghatározott
+„biokatalizátorok” előállításához szükséges specifikus genetikai információt az alábbiak szerint:
+a) „expressziós vektorok”;
+b) vírusok;
+c) sejtkultúrák.
+1.
+megjegyzés:
+Az ML7. fejezet b) és d) pontjai nem vonatkoznak a következőkre:
+a) cianogén-klorid (CAS 506-77-4); Lásd a kettős felhasználású termékek és technológiák uniós
+jegyzékének 1C450.a.5. pontját.
+b) hidrogén-cianid (CAS 74-90-8);
+c) klór (CAS 7782-50-5);
+d) karbonil klorid (foszgén) (CAS 75-44-5); Lásd a kettős felhasználású termékek és technológiák uniós
+jegyzékének 1C450.a.4. pontját.
+e) difoszgén (triklórmetil-klórformiát) (CAS 503-38-8);
+f) 2004 óta nem használatos;
+g) xylyl-bromid, ortho: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);
+h) benzil-bromid (CAS 100-39-0);
+i) benzil-jodid (CAS 620-05-3);
+j) brómaceton (CAS 598-31-2);
+k) cianogén-bromid (CAS 506-68-3);
+l) bróm metil-etil-keton (CAS 816-40-0);
+m) klóraceton (CAS 78-95-5);
+n) etil-jódacetát (CAS 623-48-3);
+o) jódaceton (CAS 3019-04-3);
+p) klórpikrin (CAS 76-06-2). Lásd a kettős felhasználású termékek és technológiák uniós jegyzékének
+1C450.a.7. pontját.
+2.
+megjegyzés:
+Az ML7. fejezet h) pontjában és i) pontjának 2. alpontjában meghatározott sejtkultúrák és biológiai
+rendszerek kizárólagosak és ezek az alpontok nem vonatkoznak a polgári célt szolgáló sejtekre vagy
+biológiai rendszerekre, amelyeket például a mezőgazdaságban, gyógyszeriparban, egészségügyben,
+állatgyógyászatban, környezetvédelemben, hulladék feldolgozásban vagy élelmiszeriparban alkalmaznak.
+
+VIII. fejezet
+(ML 8)
+„Energiahordozó anyagok” és kapcsolódó összetevők, a következők szerint:
+NB.1. Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 1C011. pontját.
+NB.2. Töltetekért és eszközökért lásd az ML4. pontot, valamint a kettős felhasználású termékek és technológiák uniós
+jegyzékének 1A008. –pontját.
+Technikai megjegyzés
+1. Az ML8. fejezet c) pontja 11. és 12. alpontjának kivételével, az ML8. fejezet alkalmazásában a ’keverék’ két vagy több
+anyag összetételét jelenti, amelyek közül legalább az egyik az ML8. pontban szerepel.
+2. Ez a lista az ML8. pontban szereplő minden anyagra vonatkozik, még akkor is, ha nem a feltüntetett alkalmazásra
+szolgál. (pl. a TAGN főképpen robbanóanyagként használatos, de üzemanyagként vagy oxidálószerként is ismert).
+3. Az ML8. fejezet alkalmazásában a részecskeméret a tömeg vagy térfogat szerinti átlagos részecskeátmérőt jelenti. A
+részecskemérettel kapcsolatos mintavételezés és a részecskeméret meghatározása nemzetközi szabványok vagy
+azokkal egyenértékű tagállami szabványok alapján fog történni.
+a) „Robbanóanyagok” és azok ’keverékei’:
+1. ADNBF (aminodinitrobenzofuroxan vagy 7-amino-4,6-dinitrobenzofurazán-1-oxide) (CAS 97096-78-1);
+2. BNCP [cisz-bisz (5-nitrotetrazolato) tetra amin-kobalt (III) perklorát] (CAS 117412-28-9);
+3. CL-14 (diamino dinitrobenzofuroxan vagy 5,7-diamino-4,6-initrobenzofurazán-1-oxid) (CAS 117907-74-1);
+4. CL-20 (HNIW vagy hexanitrohexaazaizowurtzitán) (CAS 135285-90-4); CL-20 klatrátjai (lásd még VIII. fejezet g)
+„Perkurzorok” 3. és 4. alpontjait);
+5. CP [2-(5-cianotetrazoláto) penta amin-kobalt (III) perklorát] (CAS 70247-32-4);
+6. DADE (1,1-diamino-2,2-dinitroetilén, FOX7) (CAS 145250-81-3);
+7. DATB (diaminotrinitrobenzol) (CAS 1630-08-6);
+8. DDFP (1,4-dinitrodifurazanopiperazin);
+9. DDPO (2,6-diamino-3,5-dinitropirazin-1-oxid, PZO) (CAS 194486-77-6);
+10. DIPAM (3,3′-diamino-2,2′,4,4′,6,6′-hexanitrobiphenyl vagy dipicramide) (CAS 17215-44-0);
+11. DNGU (DINGU vagy dinitroglikoluril) (CAS 55510-04-8);
+12. furazanok a következők szerint:
+a) DAAOF (DAAF, DAAFox vagy diaminoazoxifurazan);
+b) DAAzF (diaminoazofurazan) (CAS 78644-90-3);
+
+13. HMX és változatai az alábbiak szerint:
+a) HMX (ciklotetrametilén-tetranitramin, oktahidro-1,3,5,7-tetranitro-1,3,5,7-tetrazokin, 1,3,5,7-tetranitro-
+1,3,5,7-tetraza-cikloktán, oktogén) (CAS 2691-41-0);
+b) HMX difluoroaminált analógjai;
+c) K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabiciklo [3,3,0]-oktanon-3, tetranitroszemiglikouril vagy keto-
+biciklikus HMX) (CAS 130256-72-3);
+14. HNAD (hexanitroadamantán) (CAS 143850-71-9);
+15. HNS (hexanitrosztilbén) (CAS 20062-22-0);
+16. Imidazolok, a következők szerint:
+a) BNNII [oktahidro-2,5-bisz(nitroimino)imidazo (4,5-d)imidazol];
+b) DNI (2,4-dinitroimidazole) (CAS 5213-49-0);
+c) FDIA (1-fluoro-2,4-dinitroimidazol);
+d) NTDNIA [N-(2-nitrotriazolo)-2,4-dinitroimidazol];
+e) PTIA (1-pikril-2,4,5-trinitroimidazol);
+17. NTNMH [1-(2-nitrotriazolo)-2-dinitrometilén hidrazin];
+18. NTO (ONTA vagy 3-nitro-1,2,4-triazol-5-on) (CAS 932-64-9);
+19. Polinitrokubánok több mint négy nitro csoporttal;
+20. PYX [2,6-Bisz(pikrilamino)-3,5-dinitropiridin] (CAS 38082-89-2);
+21. RDX és változatai:
+a) RDX (ciklotrimetilén-trinitramin, ciklonit, T4, hexahidro-1,3,5- trinitro-1,3,5-triazin, 1,3,5-trinitro-1,3,5-triaza-
+ciklohexén, hexogén) (CAS 121-82-4);
+b) Keto-RDX (K-6 vagy 2,4,6-trinitro-2,4,6-triazaciklohexanon) (CAS 115029-35-1);
+22. TAGN (triamino-guanidin-nitráte) (CAS 4000-16-2);
+23. TATB (triamino-trinitrobenzol) (CAS 3058-38-6) (lásd még a VIII. fejezet g) „Prekurzorok” 7. alpontját);
+24. TEDDZ [3,3,7,7-tetrabisz(difluoroamine) oktahidro-1,5-dinitro-1,5-diazocin];
+25. Tetrazolok a következők szerint:
+a) NTAT (nitrotriazol aminotetrazol);
+b) NTNT [1-N-(2-nitrotriazolo)-4-nitrotetrazol];
+26. Tetril (trinitrofenil-metilnitramin) (CAS 479-45-8);
+27. TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadekalin) (CAS 135877-16-6) (lásd még a VIII. fejezet g) „Prekurzorok”
+6. alpontját);
+
+28. TNAZ (1,3,3-trinitroazetidin) (CAS 97645-24-4) (lásd még a VIII. fejezet g) „Prekurzorok” 2. alpontját);
+29. TNGU (SORGUYL vagy tetranitroglikoluril) (CAS 55510-03-7);
+30. TNP (1,4,5,8-tetranitro-piridazino[4,5-d] piridazin) (CAS 229176-04-9);
+31. Triazinok a következők szerint:
+a) DNAM (2-oxi-4,6-dinitroamino-s-triazin) (CAS 19899-80-0);
+b) NNHT (2-nitroimino-5-nitro-hexahidro-1,3,5-triazin) (CAS 130400-13-4);
+32. Triazolok a következők szerint:
+a) 5-azido-2-nitrotriazol;
+b) ADHTDN (4-amino-3,5-dihidrazino-1,2,4-triazol dinitramid) (CAS 1614-08-0);
+c) ADNT (1-amino-3,5-dinitro-1,2,4-triazol);
+d) BDNTA (bisz-dinitrotriazol-amin);
+e) DBT (3,3′-dinitro-5,5-bi-1,2,4-triazol) (CAS 30003-46-4);
+f) DNBT (dinitrobisztriazol) (CAS 70890-46-9);
+g) 2010 óta nem használatos;
+h) NTDNT [1-N-(2-nitrotriazolo) 3,5-dinitrotriazol];
+i) PDNT (1-pikril-3,5-dinitrotriazol);
+j) TACOT (tetranitrobenzotriazolobenzotriazol) (CAS 25243-36-1);
+33. az ML8. fejezet a) pontja alatt fel nem sorolt robbanóanyagok, amelyek a következő jellemzők bármelyikével
+rendelkeznek:
+a) maximális sűrűségnél a 8 700 m/s értéket meghaladó detonációs sebesség, vagy
+b) a 34 Gpa (340 kbar) értéket meghaladó detonációs nyomás;
+34. 2013 óta nem használatos;
+35. DNAN (2,4-dinitroanizol) (CAS 119-27-7);
+36. TEX (4,10-dinitro-2,6,8,12-tetraoxa-4,10-diazaizowurtzitán);
+37. GUDN (guanylurea-dinitramid) FOX-12 (CAS 217464-38-5);
+38. Tetrazinek a következők szerint:
+a) BTAT (bisz(2,2,2-trinitroetil)-3,6-diaminotetrazin);
+b) LAX-112 (3,6-diamino-1,2,4,5-tetrazin-1,4-dioxid);
+
+39. 343 K (70 °C) és 373 K (100 °C) közötti olvadáspontú, energiahordozó ionos anyagok 6 800 m/s értéket
+meghaladó detonációs sebességgel vagy 18 GPa (180 kbar) értéket meghaladó detonációs nyomással;
+40. BTNEN (bisz(2,2,2-trinitroetil)-nitramin) (CAS 19836-28-3);
+Megjegyzés Az ML8. fejezet a) pontja magában foglalja a ’robbanó kokristályokat’.
+Műszaki megjegyzés:
+A ’robbanó kokristály’ olyan szilárd anyag, amely rendezett háromdimenziós szerkezetet alkotó két
+vagy három olyan robbanó molekulából áll, amelyek közül az ML8. fejezet a) pontja legalább egyet
+megjelöl.
+b) „Hajtóanyagok”:
+1. Bármely olyan szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között):
+a) több mint 240 másodperc a nem fémezett, nem halogénezett „hajtóanyagok” esetében;
+b) több mint 250 másodperc a nem fémezett, halogénezett „hajtóanyagok” esetében; vagy
+c) több mint 260 másodperc a fémezett „hajtóanyagok” esetében;
+2. 2013 óta nem használatos;
+3. „Hajtóanyagok”, amelyek erőállandója nagyobb, mint 1 200 kJ/kg;
+4. „hajtóanyagok”, amelyek 38 mm/s stabil egyenes vonalú égési sebességet képesek fenntartani szabványos
+feltételek között (késleltetett egyes szál formájában mérve) 68,9 bar (6,89 MPa) nyomáson és 294 K (21 °C)
+hőmérsékleten;
+5. Elasztomerrel módosított, öntött, kétbázisú „hajtóanyag” (EMCDB), amelynek nyújthatósága maximális
+nyomáson, 233 K (– 40 °C) 40hőmérsékleten az 5 %-ot meghaladja;
+6. Bármely egyéb „hajtóanyag”, amely az ML8. fejezet a) pontja alatt meghatározott összetevőt tartalmaz;
+7. Az EU közös katonai listájában máshol nem említett, kifejezetten katonai felhasználásra tervezett „hajtóanyagok”;
+c) „Pirotechnikai eszközök”, üzemanyagok és kapcsolódó összetevőik a következők szerint és azok ’keverékei’:
+1. kifejezetten katonai célra kifejlesztett „légijármű”-üzemanyagok;
+Megjegyzés Az ML8. fejezet c) pontjának 1. alpontjában felsorolt „légijármű”-üzemanyagok végtermékek, nem
+összetevők.
+2. Alane (alumínium hidrid) (CAS 7784-21-6);
+3. karboránok; dekaborán (CAS 17702-41-9); pentaboránok (CAS 19624-22-7 és 18433-84-6) és azok származékai;
+
+4. hidrazin és származékai, (lásd még az ML8. fejezet d) pontjának (oxidáló hidrazin származékok) 8. és 9. alpontját):
+a) hidrazin (CAS 302-01-2) 70 % és magasabb koncentrációban;
+b) monometil hidrazin (CAS 60-34-4);
+c) szimmetrikus dimetil hidrazin (CAS 540-73-8);
+d) nem-szimmetrikus dimetil hidrazin (CAS 57-14-7);
+Megjegyzés Az ML8. fejezet c) pontjának 4. a) alpontja a kifejezetten korrózió csökkentésére szolgáló hidrazin
+„keverékekre” nem vonatkozik.
+5. Fémes üzemanyagok, üzemanyag-’keverékek’ vagy „pirotechnikai”’keverékek’, részecske formában, amelyek
+lehetnek gömbszerűek, atomizáltak, szferoidok, pikkelyesek vagy őröltek, melyek legalább 99 %-ot tartalmaznak
+az alábbi anyagok bármelyikéből:
+a) a következő fémek és azok ’keverékei’:
+1. berillium (CAS 7440-41-7) 60 μm-nél kisebb részecskemérettel;
+2. vaspor (CAS 7439-89-6) 3 μm vagy kisebb részecskemérettel vasoxidból hidrogénnel végzett redukciós
+gyártással előállítva;
+b) az alábbi összetevőket tartalmazó ’keverékek’:
+1. cirkónium (CAS 7440-67-7), magnézium (CAS 7439-95-4) vagy ezek ötvözetei 60 μm-nél kisebb
+részecskemérettel; vagy
+2. bór (CAS 7440-42-8) vagy bór-karbid (CAS 12069-32-8) üzemanyagok 85 %-os vagy magasabb
+tisztasággal és 60 μm-nél kisebb részecskemérettel;
+1.
+megjegyzés:
+Az ML8. fejezet c) pontjának 5. alpontját a „robbanóanyagokra” és üzemanyagokra alkalmazni
+kell, függetlenül attól, hogy a fémeket vagy ötvözeteket alumíniumba, magnéziumba,
+cirkóniumba vagy berilliumba kapszulázták-e.
+2.
+megjegyzés:
+Az ML8. fejezet c) pontjának 5. b) alpontja csak a részecske formában lévő fémes üzemanyagokra
+vonatkozik abban az esetben, ha azokat más anyagokkal összekeverik olyan katonai célú
+’keverékek’ előállítása érdekében, mint például a folyékony, sűrű szuszpenziójú „hajtóanyagok”, a
+szilárd „hajtóanyagok” és a „pirotechnikai”’keverékek’.
+3.
+megjegyzés:
+Az ML8. fejezet c) pontjának 5. b) 2. alpontja a bór-10-zel dúsított bórra és bórkarbidra (20 %-nál
+magasabb bór-10 tartalommal) nem vonatkozik.
+6. kifejezetten lángszórókban vagy gyújtóbombákban történő felhasználáshoz összeállított, szénhidrogén
+üzemanyagoknál alkalmazott „sűrítőket”, mint például fém sztearátokat (pl. oktál (CAS 637-12-7)) vagy
+palmitátokat tartalmazó katonai anyagok;
+7. perklorátok, klorátok és kromátok, fémporral, vagy más nagy hatóerejű üzemanyag adalékokkal;
+8. gömbösített vagy gömbszerű alumíniumpor (CAS 7429-90-5) 60 μm vagy kisebb részecskemérettel, és legalább
+99 %-os alumínium tartalmú anyagból;
+9. titán szubhidrid (TiHn), amelynek sztöchiometriai egyenértéke n = 0,65–1,68;
+
+10. az ML8. fejezet c) 1. pontjában nem meghatározott, nagy energiasűrűségű cseppfolyós üzemanyagok, az
+alábbiak szerint:
+a) szilárd és cseppfolyós üzemanyagot egyaránt tartalmazó olyan üzemanyag-keverékek (mint például a
+bórtartalmú üzemanyag-keverékek), amelyek tömegalapú energiasűrűsége legalább 40 MJ/kg;
+b) más nagy energiasűrűségű üzemanyagok és üzemanyag-adalékok (pl. kubán, ionos oldatok, JP-7, JP-10),
+amelyek térfogatalapú energiasűrűsége 293 K (20 °C) hőmérsékleten egy atmoszféra (101,325 kPa) nyomás
+mellett mérve legalább 37,5 GJ/m3;
+Megjegyzés Az ML8. fejezet c) 10. b) pontja nem alkalmazandó a JP-4-re, a JP-8-ra, a finomított fosszilis
+üzemanyagokra, a bioüzemanyagokra és a polgári légi közlekedésben való használatra
+hitelesített hajtóművekben használt üzemanyagokra.
+11. „pirotechnikai” vagy pirofóros anyagok az alábbiak szerint:
+a) olyan „pirotechnikai” vagy pirofóros anyagok, amelyeket kifejezetten arra a célra alakítottak ki, hogy az IR-
+spektrum bármely részén növeljék vagy szabályozzák a kisugárzott energia termelődését;
+b) magnézium, politetrafluoretilén (PTFE) és egy vinilidén difluorid-hexafluorpropilén kopolimer (mint
+például az MTV) keverékei;
+12. az ML8. fejezetben máshol nem meghatározott olyan üzemanyag-keverékek, „pirotechnikai” keverékek vagy
+„energiahordozó anyagok”, amelyek az alábbi tulajdonságok mindegyikével rendelkeznek:
+a) a következő anyagok bármelyikének részecskéit 0,5 %-nál nagyobb mennyiségben tartalmazzák:
+1. alumínium;
+2. berillium;
+3. bór;
+4. cirkónium;
+5. magnézium; vagy
+6. titán;
+b) az ML8. fejezet 8. c) 12. a) pontjában meghatározott olyan részecskéket tartalmaznak, amelyek mérete
+egyik irányban sem éri el a 200 nm-t; és
+c) az ML8. fejezet 8. c) 12. a) pontjában meghatározott olyan részecskéket tartalmaznak, amelyek fémtartalma
+legalább 60 %;
+d) A következő oxidánsok és azok ’keverékei’:
+1. ADN (ammónium dinitramid vagy SR 12) (CAS 140456-78-6);
+2. AP (ammónium perklorát) (CAS 7790-98-9);
+3. fluorgáznak a következőkben felsoroltak valamelyikével alkotott elegyei:
+a) egyéb halogének;
+b) oxigén; vagy
+c) nitrogén;
+1. megjegyzés: Az ML8. fejezet d) pontjának 3. alpontja nem vonatkozik a klór-trifluoridra (CAS 7790-91-2).
+2. megjegyzés: Az ML8. fejezet d) pontjának 3. alpontja nem vonatkozik a gázállapotú nitrogén-trifluoridra
+(CAS 7783-54-2).
+
+4. DNAD (1,3-dinitro-1,3-diazetidin) (CAS 78246-06-7);
+5. HAN (hidroxil-ammónium-nitrát) (CAS 13465-08-2);
+6. HAP (hidroxil-ammónium-perklorát) (CAS 15588-62-2);
+7. HNF (hidrazinium nitroformát) (CAS 20773-28-8);
+8. hidrazin nitrát (CAS 37836-27-4);
+9. hidrazin perklorát (CAS 27978-54-7);
+10. folyékony oxidáló szerek, gátolt vörösfüstös salétromsavból (IRFNA) (CAS 8007-58-7) összeállítva, vagy azt
+tartalmazva.
+Megjegyzés: Az ML8. fejezet d) pontjának 10. alpontja a nem gátolt vörösfüstös salétromsavra nem vonatkozik.
+e) Kötőanyagok, lágyítók, monomerek és polimerek a következők szerint:
+1. AMMO (azidometilmetiloxetán és annak polimerjei) (CAS 90683-29-7) (lásd még az ML8. fejezet g) pontjának
+(„Prekurzorok”) 1. alpontját);
+2. BAMO (3,3-bisz(azidometil)oxetán és annak polimerjei) (CAS 17607-20-4) (lásd még az ML8. fejezet g) pontjának
+(„Prekurzorok”) 1. alpontját);
+3. BDNPA [bis (2,2-dinitropropil)acetal] (CAS 5108-69-0);
+4. BDNPF [bis (2,2-dinitropropil)formal] (CAS 5917-61-3);
+5. BTTN (butanetrioltrinitrate) (CAS 6659-60-5) (lásd még az ML8. fejezet g) pontjának („Prekurzorok”) 8. alpontját);
+6. kifejezetten katonai felhasználásra kifejlesztett és a következők közül bármelyiket tartalmazó energetikai
+monomerek, lágyítók vagy polimerek:
+a) nitrocsoportok;
+b) azidocsoportok;
+c) nitrát-csoportok;
+d) nitraza-csoportok; vagy
+e) difluoroamino csoportok;
+7. FAMAO (3-difluoroaminometil-3-azidometil oxetane) és annak polimerjei;
+8. FEFO [bisz-(2-fluoro-2,2-dinitroetil) formal] (CAS 17003-79-1);
+9. FPF-1 (poli-2,2,3,3,4,4-hexafluoropentane-1,5-diol formal) (CAS 376-90-9);
+10. FPF-3 (poly-2,4,4,5,5,6,6-heptafluoro-2-tri-fluorometil-3-oxaheptane 1,7-diol formal);
+11. GAP (glicidilazid polimer) (CAS 143178-24-9) és annak származékai;
+
+12. HTPB (hidroxil végződésű polibutadién) egy hidroxil viszonyszámmal, amely egyenlő vagy nagyobb, mint 2,2 és
+egyenlő vagy kisebb, mint 2,4, 0,77 meq/g-nál kisebb hidroxil értékkel, amelynek viszkozitása kevesebb, mint 47
+poise 30 °C hőmérsékleten (CAS 69102-90-5);
+13. kevesebb mint 10 000 molekula súlyú, alkohol-funkciós csoportot tartalmazó poli(epiklórhidrin) a következők
+szerint:
+a) poli(epiklórhidrindiol);
+b) poli(epiklórhidrintriol);
+14. NENA-k (nitratoetilnitramin elegyek) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 és 85954-06-9);
+15. PGN [poli-GLYN, poliglicidilnitrát vagy poli(nitratometil oxirane)] (CAS 27814-48-8);
+16. Poli-NIMMO (poli nitratometilmetiloxetán), poli-NMMO vagy poli(3-nitratometil-3-metiloxetán) (CAS 84051-81-
+0);
+17. Polinitro-orto-karbonátok;
+18. TVOPA [1,2,3-trisz(1,2-bis((difluoroamino))etoxi) propán vagy trisz vinoxi propán melléktermék] (CAS 53159-39-
+0);
+19. 4,5-diazidometil-2-metil-1,2,3-triazol (izo-DAMTR);
+20. PNO (poli(3-nitrato-oxetán));
+f) „Adalékanyagok” a következők szerint:
+1. lúgos réz-szalicilát (CAS 62320-94-9);
+2. BHEGA [bis-(2-hidroxietil) glikolamid] (CAS 17409-41-5);
+3. BNO (butadién-nitril-oxid);
+4. ferrocén származékok a következők szerint:
+a) butacén (CAS 125856-62-4);
+b) katocén (2,2-bis-etilferrocenil propán) (CAS 37206-42-1);
+c) ferrocén-karboxilsavak és a ferrocén-karboxilsav észterei;
+d) n-butil-ferrocén (CAS 31904-29-7);
+e) más polimer ferrocén származékok melléktermékei, amelyek az ML8. fejezet f) 4. pontjában máshol nem
+szerepelnek;
+f) etil-ferrocén (CAS 1273-89-8);
+g) propil-ferrocén;
+h) pentil-ferrocén (CAS 1274-00-6);
+i) diciklopentil-ferrocén;
+
+j) diciklohexil-ferrocén;
+k) dietil-ferrocén (CAS 1273-97-8);
+l) dipropil-ferrocén;
+m) dibutil-ferrocén (CAS 1274-08-4);
+n) dihexil-ferrocén (CAS 93894-59-8);
+o) acetil-ferrocén (CAS 1271-55-2)/1,1′-diacetil-ferrocén (CAS 1273-94-5);
+5. ólom-béta-reszorcilát (CAS 20936-32-7);
+6. ólom-citrát (CAS 14450-60-3);
+7. béta-reszorcilátok vagy szalicilátok ólom-réz kelátjai (CAS 68411-07-4);
+8. ólom-malát (CAS 19136-34-6);
+9. ólom-szalicilát (CAS 15748-73-9);
+10. ólom-sztanát (CAS 12036-31-6);
+11. MAPO [trisz-1-(2-metil) aziridinilfoszfin-oxid] (CAS 57-39-6); BOBBA 8 (bisz(2-metil-aziridinil) 2-(2-
+hidroxipropanoxi)propilamino-foszfin-oxid) és más MAPO-származékok;
+12. metil BAPO [bisz(2-metil aziridinil) metilamino foszfin-oxid] (CAS 85068-72-0);
+13. N-metil-p-nitroanilin (CAS 100-15-2);
+14. 3-nitraza-1,5-pentán diizocianát (CAS 7406-61-9);
+15. fémorganikus csatlakozó anyagok a következők szerint:
+a) neopentil[diallil]oxi, tri[dioktil]foszfát-titanát (CAS 103850-22-2) szintén ismert mint titánium IV, 2,2 [bisz 2-
+propenolát-metil, butanolát, trisz (dioktil) foszfát] (CAS 110438-25-0); vagy LICA 12 (CAS 103850-22-2);
+b) titán IV, [(2-propenolát-1) metil, n-propanolátmetil] butanolát-1, trisz[dioktil] pirofoszfát vagy KR3538;
+c) titán IV, [(2-propenolát-1)metil, n-propanolátmetil] butanolát-1, trisz (dioktil)foszfát;
+16. policián-difluor-aminoetilénoxid;
+17. kötőanyagok az alábbiak szerint:
+a) 1,1R,1S-trimezinil-trisz(2-etilaziridin) (HX-868, BITA) (CAS 7722-73-8);
+b) polifunkcionális aziridin-amidok izoftalikus, trimezikus, izocianursavas vagy trimetiládos gerincstruktúrával,
+és 2-metil vagy 2-etil aziridin-csoporttal;
+Megjegyzés Az ML8. fejezet f) 17. b) pontja magában foglalja az alábbiakat:
+a) 1,1H-izoftálil-bisz(2-metilaziridin)(HX-752) (CAS 7652-64-4);
+b) 2,4,6-trisz(2-etil-1-aziridinil)-1,3,5-triazin (HX-874) (CAS 18924-91-9);
+c) 1,1′-trimetiladipil-bisz(2-etilaziridin) (HX-877) (CAS 71463-62-2).
+
+18. propilén-imin (2-metilaziridin) (CAS 75-55-8);
+19. nagyfinomságú vasoxid (Fe2O3) (CAS 1317-60-8) 250 m2/g-ot meghaladó fajlagos felülettel és 3,0 nm vagy
+annál kisebb átlagos részecskemérettel;
+20. TEPAN (tetraetilén-pentaaminakrilonitril) (CAS 68412-45-3); cianoetilénezett poliaminok és azok sói;
+21. TEPANOL (tetraetilén-pentaaminakrilonitril-glicidol) (CAS 68412-46-4); glicidollal cianoetilénezett poliaminok és
+azok sói;
+22. TPB (trifenil bizmut) (CAS 603-33-8);
+23. TEPB (trisz(etoxifenil) bizmut) (CAS 90591-48-3);
+g) „Prekurzorok” a következők szerint:
+NB. Az ML8. fejezet g) pontjában a hivatkozások az ezen anyagokból készült, meghatározott „Energiahordozó
+anyagok”-ra vonatkoznak:
+1. BCMO (3,3-bisz(klórmetil)oxitáne) (CAS 78-71-7 (lásd még az ML8. fejezet e)1. és e)2. pontját);
+2. dinitroazetidin-t-butil só (CAS 125735-38-8) (lásd még az ML8. fejezet a) pontjának 28. alpontját);
+3. hexa-aza-izowurtzitán-származékok, többek között a HBIW (hexabenzil-hexa-aza-izowurtzitán) (CAS 124782-15-
+6) (lásd még az ML8. fejezet a) pontjának 4. alpontját) és aTAIW (tetraacetil-dibenzil-hexa-aza-izowurtzitán) (CAS
+182763-60-6) (lásd még az ML8. fejezet a) pontjának 4. alpontját);
+4. 2013 óta nem használatos;
+5. TAT (1,3,5,7 tetraacetil-1,3,5,7,-tetraaza ciklo-oktán) (CAS 41378-98-7) (lásd még az ML8. fejezet a) pontjának
+13. alpontját);
+6. 1,4,5,8-tetraazadekalin (CAS 5409-42-7) (lásd még az ML8. fejezet a) pontjának 27. alpontját);
+7. 1,3,5-triklórbenzol (CAS 108-70-3) (lásd még az ML8. fejezet a) pontjának 23. alpontját);
+8. 1,2,4-trihidroxibután (1,2,4-butanetriol) (CAS 3068-00-6) (lásd még az ML8. fejezet e) pontjának 5. alpontját);
+9. DADN (1,5-diacetil-3,7-dinitro-1, 3, 5, 7-tetraaza-ciklooktán) (lásd még az ML8. fejezet a) pontjának 13. alpontját.
+1.
+megjegyzés:
+Az ML8. fejezet nem vonatkozik az alábbi anyagokra, kivéve ha elegyet alkotnak, vagy keverve vannak az
+ML8. fejezet a) pontjában meghatározott „energiahordozó anyagokkal”, vagy az ML8. fejezet c) pontjában
+meghatározott fémporokkal:
+a) ammónium-pikrát (CAS 131-74-8);
+b) fekete lőpor;
+c) hexanitrodifenilamin (CAS 131-73-7);
+d) difluór-amin (CAS 10405-27-3);
+e) nitrokeményítő (CAS 9056-38-6);
+f) káliumnitrát (CAS 7757-79-1);
+
+g) tetranitronaftalin;
+h) trinitroanisol;
+i) trinitronaftalin;
+j) trinitroxilén;
+k) N-pirrolidinon; 1-metil-2-pirrolidinon (CAS 872-50-4);
+l) dioktil-malát (CAS 142-16-5);
+m) etil-hexil-akrilát (CAS 103-11-7);
+n) tri-etil-alumínium (TEA) (CAS 97-93-8), trimetilalumínium (TMA) (CAS 75-24-1), és a lítium, nátrium,
+magnézium, cink vagy bór egyéb öngyulladó-fém alkiljai vagy ariljai;
+o) nitrocellulóz (CAS 9004-70-0);
+p) nitroglicerin (vagy glicerol-trinitrát, trinitroglicerin) (NG) (CAS 55-63-0);
+q) 2,4,6-trinitrotoluol (TNT) (CAS 118-96-7);
+r) etilén-diamin-dinitrát (EDDN) (CAS 20829-66-7);
+s) penta-eritritol-tetranitrát (PETN) (CAS 78-11-5);
+t) ólomazid (CAS 13424-46-9), normál ólomstifnát (CAS 15245-44-0) és lúgos ólomstifnát (CAS 12403-82-
+6), valamint primer robbanóanyagok és élesítő elegyek, amelyek azidokat vagy azid komplex
+vegyületeket tartalmaznak;
+u) trietilén-glikol-dinitrát (TEGDN) (CAS 111-22-8);
+v) 2,4,6-trinitro-reszorcinol (stifnát sav) (CAS 82-71-3);
+w) dietil-difenil karbamid (CAS 85-98-3); dimetil-difenil karbamid (CAS 611-92-7); metil-etil-difenil
+karbamid (centralitok);
+x) N,N-difenil karbamid (nem szimmetrikus difenil karbamid) (CAS 603-54-3);
+y) metil-N,N-difenil karbamid (metil nem szimmetrikus difenil karbamid) (CAS 13114-72-2);
+z) etil-N,N-difenil karbamid (etil nem szimmetrikus difenilkarbamid) (CAS 64544-71-4);
+aa) 2-nitro-difenil-amin (2-NDPA) (CAS 119-75-5);
+bb) 4-nitro-difenil-amin (4-NDPA) (CAS 836-30-6);
+cc) 2,2-dinitro-propanol (CAS 918-52-5);
+dd) nitroguanidin (CAS 556-88-7) (lásd a kettős felhasználású termékek és technológiák uniós
+jegyzékének C011. d) alpontját).
+
+2.
+megjegyzés:
+Az ML8. fejezet nem vonatkozik az ammónium-perklorátra (az ML8. fejezet d) pontjának 2. alpontja), az
+NTO-ra (az ML8. fejezet a) pontjának 18. alpontja) és a katocénra (az ML8. fejezet f) pontja 4. alpontjának
+b) pontja), amennyiben azok az alábbi kritériumok mindegyikét teljesítik:
+a) kifejezetten polgári felhasználású gázfejlesztő készülékekhez van kialakítva vagy előállítva;
+b) elegyet alkot vagy keverve van nem aktív, hőre keményedő kötőanyaggal vagy lágyítószerrel, és
+tömege kisebb, mint 250 g;
+c) az ammónium-perklorát (az ML8. fejezet d) pontjának 2. alpontja) aránya legfeljebb 80 % az aktív
+anyag tömegéhez képest;
+d) az NTO (az ML8. fejezet a) pontjának 18. alpontja) tömege 4 g vagy annál kisebb; és
+e) a katocén (az ML8. fejezet f) pontja 4. alpontjának b) pontja) tömege 1 g vagy annál kisebb.
+IX. fejezet
+(ML 9)
+Hadihajók (felszíni vagy víz alatti), különleges tengerészeti berendezések, tartozékok, alkatrészek és egyéb vízfelszíni
+járművek a következők szerint:
+NB. Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. fejezetet.
+a) vízi járművek és alkatrészek a következők szerint:
+1. Kifejezetten katonai felhasználásra tervezett vagy átalakított (felszíni vagy víz alatti) vízi járművek, függetlenül a
+jelenlegi műszaki állapottól vagy működési feltételektől, és attól, hogy rendelkeznek-e fegyverzethordozó
+rendszerekkel vagy páncélzattal, valamint az ilyen vízi járművek úszótestei vagy azok részei, és kifejezetten
+katonai felhasználásra tervezett alkatrészei;
+2. Az ML9. fejezet a) pontjának 1. alpontjában meghatározottaktól eltérő felszíni vízi járművek, amelyek a
+következők bármelyikével rendelkeznek, a járműre rögzítve vagy abba beépítve:
+a) az ML1. pontban meghatározott automata fegyverek, vagy az ML2., az ML4., az ML12. vagy az
+ML19. pontban meghatározott fegyverek, vagy 12,7 mm vagy annál nagyobb kaliberű fegyverek ’rögzítési’
+vagy felfüggesztési pontjai;
+Műszaki megjegyzés:
+A ’rögzítés(i pontok)’ a fegyverek rögzítésére szolgáló eszközökre, vagy a tartók rögzítéséhez szükséges
+szerkezeti megerősítésekre vonatkoznak.
+b) az ML5. pontban meghatározott tűzvezető rendszerek;
+c) Rendelkeznek a következők mindegyikével:
+1. ’vegyi, biológiai, radiológiai és nukleáris (CBRN) védelem’; és
+2. semlegesítési célokra tervezett ’előmosó vagy leöblítő rendszer’; vagy
+Technikai megjegyzés
+1. A ’vegyi, biológiai, radiológiai és nukleáris (CBRN) védelem’ egy zárt rendszerű helyiség, amelyet
+túlnyomás, szigetelt szellőztetőrendszer, korlátozott számú, CBRN-szűrőkkel ellátott szellőzőnyílás és
+légzárókkal felszerelt, korlátozott személyzeti hozzáférési pont jellemez.
+2. Az ’előmosó vagy leöblítő rendszer’ tengervizet permetező rendszer, amely képes a hajó külső
+felületének és fedélzetének egyidejű lemosására.
+d) az ML4. fejezet b) pontjában, az ML5. fejezet c) pontjában vagy az ML11. fejezet a) pontjában
+meghatározott, aktív, fegyver elleni eszközök, amelyek a következők bármelyikével rendelkeznek:
+1. ’CRBN-védelem’;
+
+2. kifejezetten radar keresztmetszet csökkentésére tervezett hajótest és parancshídház;
+3. hőkibocsátást csökkentő eszközök (pl. a kipufogó/füstgázok hűtőrendszere), kivéve a kifejezetten a
+hajtómű hatékonyságának általános növelésére vagy a környezeti hatások csökkentésére tervezett
+eszközöket; vagy
+4. a vízi jármű egésze mágnesességének csökkentésére tervezett demagnetizáló rendszer;
+b) kifejezetten katonai felhasználásra tervezett motorok és hajtóműrendszerek, és azok kifejezetten katonai
+felhasználásra tervezett alkatrészei, a következők szerint:
+1. kifejezetten tengeralattjárók meghajtására tervezett és az alábbi jellemzők mindegyikével rendelkező
+dízelmotorok:
+a) legalább 1,12 MW (1 500 LE) teljesítmény; és
+b) legalább 700/perc fordulatszám;
+2. kifejezetten tengeralattjárók meghajtására tervezett és az alábbi jellemzők mindegyikével rendelkező elektromos
+motorok:
+a) több mint 0,75 MW (1 000 LE) teljesítmény;
+b) gyors tolatási képesség;
+c) folyadékhűtés; és
+d) teljesen zárt kivitel;
+3. a következő jellemzők mindegyikével rendelkező antimágneses dízelmotorok:
+a) 37,3 kW (50 LE) vagy nagyobb teljesítmény; és
+b) a teljes tömeg 75 %-át meghaladó nem mágneses összetevők;
+4. levegőfüggetlen (AIP), kifejezetten tengeralattjárókra kifejlesztett hajtóműrendszerek;
+Műszaki megjegyzés:
+’Levegőfüggetlen hajtóműrendszer’ (Air Independent Propulsion, AIP) révén a lemerült tengeralattjáró
+atmoszferikus oxigén nélkül hosszabb ideig képes hajtóműrendszerének működtetésére, mint amire
+akkumulátorral lenne képes. Az ML9. fejezet b) pontjának 4. alpontja alkalmazásában az AIP nem foglalja
+magában a nukleáris energiát.
+c) kifejezetten katonai felhasználásra tervezett víz alatti érzékelő eszközök, azok vezérlőberendezései és kifejezetten
+katonai felhasználásra tervezett alkatrészei;
+d) kifejezetten katonai felhasználásra tervezett tengeralattjáró elleni és torpedó elfogó hálók;
+e) 2003 óta nem használatos;
+f) kifejezetten katonai felhasználásra tervezett hajótest áthatolók és csatlakozók, amelyek képesek a hajótesten kívüli
+berendezésekkel a kölcsönös együttműködésre, és azok kifejezetten katonai felhasználásra tervezett alkatrészei;
+Megjegyzés Az ML9. fejezet f) pontja a hajók azon egy eres, több eres, koaxiális, vagy rádiófrekvenciás típusú
+csatlakozóit és hajótest áthatolóit foglalja magába, amelyek képesek megakadályozni a vízszivárgást és
+fenntartani 100 méternél nagyobb merülési mélységben a szükséges jellemzőket; továbbá a
+mélységtől függetlenül kifejezetten „lézernyaláb” átvitelére tervezett száloptikai csatlakozókat és
+optikai áthatolókat. Az ML9. fejezet f) pontja nem vonatkozik a normál hajtótengely és a hidrodinamikai
+irányító rudazat hajótest áthatolóira.
+
+g) alacsony zajszintű csapágyak a következő alkatrészek bármelyikével felszerelve, és azok a kifejezetten katonai
+felhasználásra tervezett berendezések, amelyek ilyen csapágyakat foglalnak magukba:
+1. gáz-, vagy mágneses felfüggesztés;
+2. aktív jelelnyomás-vezérlés; vagy
+3. vibráció elnyomás-vezérlés.
+X. fejezet
+(ML 10)
+„Légijárművek”, „levegőnél könnyebb légijárművek”, „pilóta nélküli légijárművek”, légijármű-hajtóművek (motor) és
+„légijármű”-részegységek, illetve az azokhoz tartozó berendezések és alkatrészek, amelyeket kifejezetten katonai
+felhasználásra terveztek vagy alakítottak át, a következők szerint):
+NB. Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. fejezetet.
+a) „személyzet által vezetett „légijárművek” és „levegőnél könnyebb légijárművek” és a kifejezetten azokhoz tervezett
+részegységek;
+b) 2011 óta nem használatos;
+c) pilóta nélküli „légijárművek” és „levegőnél könnyebb légijárművek”, valamint kapcsolódó berendezések és a
+kifejezetten azokhoz tervezett részegységek, a következők szerint:
+1. „pilóta nélküli légijárművek” („UAV”), távirányítással vezetett légijárművek (RPV), autonóm programozható
+légijárművek és pilóta nélküli, „levegőnél könnyebb légijárművek”;
+2. indító szerkezetek, mentő eszközök és földi kiszolgáló eszközök;
+3. vezérlésre vagy irányításra tervezett berendezések;
+d) légijármű-hajtóművek és a kifejezetten azokhoz tervezett részegységek;
+e) a kifejezetten a következők bármelyikéhez való használatra tervezett vagy módosított légi üzemanyag-utántöltési
+eszközök és a kifejezetten azokhoz tervezett részegységek:
+1. az ML10. fejezet a) pontjában meghatározott„légijármű”; vagy
+2. az ML10. fejezet c) pontjában meghatározott, pilóta nélküli „légijármű”;
+f) „földi kiszolgáló eszközök”, amelyeket kifejezetten az ML10. fejezet a) pontjában meghatározott „légijárműhöz” való
+használatra, vagy az ML10. fejezet d) pontjában meghatározott légijármű-hajtóművekhez terveztek;
+Műszaki megjegyzés:
+A „földi kiszolgáló eszközök” magukban foglalják a nyomás alatti üzemanyag-utántöltő berendezéseket és a szűk
+területeken végrehajtandó műveletekhez tervezett berendezéseket.
+g) az ML10. fejezet a) pontjában meghatározott „légijárművön” való használatra tervezett, a személyzet rendelkezésére
+álló védőfelszerelések, a személyzet biztonságát szolgáló berendezések, valamint más olyan, a személyzet
+vészhelyzetben való kimenekítését szolgáló eszközök, amelyek nem szerepelnek az ML10. fejezet a) pontjában;
+Megjegyzés Az ML10. fejezet g) pontja nem vonatkozik a személyzet általi használatra szolgáló olyan sisakokra,
+amelyek nem tartalmaznak az EU közös katonai listájában meghatározott berendezéseket, és amelyek
+nem alkalmasak ilyenek felszerelésére vagy elhelyezésére.
+NB. A sisakokhoz kapcsolódóan lásd még az ML13. fejezet c) pontját.
+
+h) ejtőernyők, siklóernyők és kapcsolódó berendezések, valamint a kifejezetten azokhoz tervezett részegységek, a
+következők szerint:
+1. az EU közös katonai listájában máshol nem említett ejtőernyők;
+2. siklóernyők;
+3. kifejezetten nagy magasságból történő ejtőernyős ugrásokhoz tervezett felszerelés (pl. ruhák, különleges sisakok,
+légzőkészülékek, navigációs berendezések);
+i) ejtőernyővel ledobott terhekre tervezett késleltetett nyitású berendezések vagy automatikus irányítórendszerek.
+1.
+megjegyzés:
+Az ML10. fejezet a) pontja nem vonatkozik a kimondottan katonai célra tervezett „légijárművekre” és
+„levegőnél könnyebb légijárművekre” vagy az említett „légijárművek” változataira, amennyiben
+megfelelnek az alábbi kritériumok mindegyikének:
+a) nem harci „légijárművek”;
+b) nem katonai kialakításúak és nincsenek felszerelve kifejezetten katonai felhasználásra tervezett vagy
+átalakított berendezéssel vagy tartozékkal; és
+c) egy vagy több uniós tagállam vagy a Wassenaari Megállapodásban részt vevő állam polgári légügyi
+hatósága által polgári használatra tanúsított.
+2.
+megjegyzés:
+Az ML10. fejezet d) pontja nem vonatkozik az alábbiakra:
+a) kifejezetten katonai felhasználásra tervezett vagy átalakított légijármű-hajtóművek, amelyek egy vagy
+több uniós tagállam vagy a Wassenaari Megállapodásban részt vevő állam polgári légügyi hatósága
+által „polgári légijárműben” való használatra lajstromozásra kerültek, vagy a kifejezetten azokhoz
+tervezett részegységek;
+b) dugattyús légijármű-motorok vagy a kifejezetten azokhoz tervezett részegységek, kivéve azokat,
+amelyeket „pilóta nélküli légijárművekhez” terveztek.
+3.
+megjegyzés:
+Az ML10. fejezet a) és d) pontja alkalmazásában a kifejezetten nem katonai „légijárművekhez” vagy
+légijármű-hajtóművekhez tervezett katonai jellegű részegységek és katonai jellegű kapcsolódó
+berendezések csak azokat a katonai jellegű részegységeket és katonai jellegű kapcsolódó berendezéseket
+jelentik, amelyek a katonai felhasználásra történő átalakításhoz szükségesek.
+4.
+megjegyzés:
+Az ML10. fejezet a) pontja értelmében a katonai felhasználás a következőket jelenti: ütközet, katonai
+felderítés, roham, katonai kiképzés, logisztikai támogatás, valamint személyi állomány vagy katonai
+berendezés szállítása és légi deszantolása.
+5.
+megjegyzés:
+Az ML10. fejezet a) pontja nem vonatkozik azokra a „légijárművekre”, amelyek megfelelnek az alábbi
+kritériumok mindegyikének:
+a) először 1946 előtt gyártották;
+b) nem rendelkeznek az EU közös katonai listáján meghatározott eszközökkel, kivéve ha ezek ahhoz
+szükségesek, hogy a „légijárművek” megfeleljenek egy vagy több uniós tagállam vagy a Wassenaari
+Megállapodásban részt vevő állam polgári légügyi hatósága biztonsági vagy légialkalmassági
+előírásainak; és
+c) nincsenek felszerelve az EU közös katonai listáján meghatározott fegyverrel, kivéve ha az
+működésképtelen és alkalmatlan arra, hogy újra üzembe helyezzék.
+
+XI. fejezet
+(ML 11)
+Az EU közös katonai listáján másutt meg nem határozott elektronikai berendezések, „űrhajók” és részegységeik, a
+következők szerint:
+a) kifejezetten katonai célra tervezett elektronikai berendezések, valamint a kifejezetten ezekhez tervezett részegységek;
+Megjegyzés Az ML11. fejezet a) pontja magában foglalja a következőket:
+a) elektronikai ellentevékenység és elektronikai ellentevékenység elleni berendezéseket (úgymint
+oda nem tartozó, vagy hibás jeleknek a radar, vagy rádió kommunikációs vevőkbe történő
+bejuttatására tervezett berendezéseket, vagy amelyek képesek másképpen megakadályozni az
+ellenséges elektronikus vevőket a hatásos vételben, működésben, beleértve azok
+ellentevékenységi berendezéseit is), beleértve a zavarás és zavarás elleni berendezéseket is;
+b) széles frekvenciasávban hangolható elektroncsövek;
+c) elektronikai rendszerek vagy berendezések, amelyeket elektromágneses spektrum ellenőrzésére
+és megfigyelésére, katonai hírszerzési vagy biztonsági célokra, vagy az ilyen hírszerzési és
+megfigyelési ellentevékenység elhárítására terveztek;
+d) víz alatti ellentevékenység eszközei, többek között akusztikai és mágneses zavaróeszközök és
+csapdák, a szonár vevőkbe zavaró, vagy hamis jeleket továbbító berendezések;
+e) adatfeldolgozó berendezés biztonsági eszköze, adattitkosító berendezés, rejtjelezési eljárásokkal
+ellátott biztonsági távközlési és jelátviteli berendezések;
+f) azonosító, engedélyező és kulcsbetöltő berendezés, valamint a kulcs kezelésére, készítésére és
+elosztására szolgáló berendezés;
+g) irányítási és navigációs berendezések;
+h) digitális troposcatter-rádió kommunikációs adatátviteli berendezések;
+i) kifejezetten az elektronikus jel-hírszerzés céljára kifejlesztett digitális demodulátorok;
+j) „automata parancsnoki és vezetési rendszerek”.
+NB. a katonai alkalmazású „szoftverrádióval” (SDR) kapcsolatos „szoftver”tekintetében lásd az
+ML21. pontot.
+b) a globális navigációs műholdrendszerek (GNSS) zavaró berendezései és a kifejezetten ezekhez tervezett részegységek;
+c) kifejezetten katonai használatra tervezett vagy átalakított „űrhajók” és az „űrhajók” kifejezetten katonai használatra
+tervezett részegységei.
+
+XII. fejezet
+(ML 12)
+Nagy sebességű, kinetikai energiájú fegyverrendszerek és kapcsolódó eszközök, és az azokhoz tervezett különleges
+részegységek a következők szerint:
+a) a célpont megsemmisítésére vagy a célpont támadási célja elérésének megakadályozására tervezett kinetikai
+energiájú fegyverrendszerek;
+b) kifejezetten e célból tervezett vizsgáló és értékelő berendezések és vizsgálati modellek, beleértve a diagnosztikai
+műszereket és célokat, a kinetikai energiájú lövedékek és rendszerek dinamikus vizsgálatára.
+NB. Űrméret alatti lőszerek és kizárólag vegyi hajtóanyagot alkalmazó fegyverrendszerek és azok lőszerei tekintetében
+lásd az ML1–ML4. pontot.
+1.
+megjegyzés:
+Az ML12. fejezet az alábbiakat foglalja magában, amennyiben kifejezetten kinetikai energiájú
+fegyverrendszer céljára tervezték:
+a) indító-meghajtó rendszerek, amelyek alkalmasak egyszeri, vagy gyorstüzelésű üzemmódban
+0,1 grammot meghaladó tömeg 1,6 km/s-ot meghaladó sebességre történő felgyorsítására;
+b) primer áramforrások, villamos páncélzat, energiatároló berendezések (pl. nagy kapacitású
+energiatároló kondenzátorok), hő-gazdálkodási, kondicionáló, kapcsoló vagy üzemanyag-kezelő
+berendezések; valamint elektromos csatlakozók az energiaellátás és a löveg, valamint a lövegtorony
+és egyéb meghajtások számára;
+NB. A nagy kapacitású energiatároló kondenzátorok tekintetében lásd még a kettős felhasználású
+termékek és technológiák uniós jegyzékének 3A001.e.2. pontját.
+c) a cél felderítését, nyomon követését, a tűzvezetést és az eredmény felmérését szolgáló rendszerek;
+d) irányított lövedék önvezérlési, irányítási, vagy eltérítő hajtási (oldalirányú gyorsulást biztosító)
+rendszerei.
+2.
+megjegyzés:
+Az ML12. fejezet vonatkozik mindazon fegyverrendszerekre, amelyek az alábbi hajtásmódok
+bármelyikével működnek:
+a) elektromágneses;
+b) elektrotermikus;
+c) plazma;
+d) könnyűgáz (könnyűgáz löveghez); vagy
+e) vegyi hajtóanyag (ha azt a fentiek bármelyikével kombinálják).
+
+XIII. fejezet
+(ML 13)
+Páncélozott vagy védőberendezések, szerkezetek és részegységek az alábbiak szerint:
+a) az alábbi jellemzők bármelyikével rendelkező fém vagy nem fém páncéllemezek:
+1. katonai szabvány vagy előírás szerint gyártva; vagy
+2. katonai felhasználásra alkalmas;
+NB. A testvédő páncéllemez vonatkozásában lásd az ML13. fejezet d) pontjának 2. alpontját.
+b) kifejezetten katonai rendszerek ballisztikai védelmére tervezett fémes vagy nemfémes szerkezetek, vagy azok
+kombinációi, és kifejezetten azokhoz tervezett részegységek;
+c) katonai követelmények és szabványok, vagy hasonló nemzeti szabványok alapján gyártott sisakok, és kifejezetten
+azokhoz tervezett különleges kialakítású sisakborítások, bélések és komfort-töltések;
+NB. A katonai sisakok egyéb részegységeivel és tartozékaival kapcsolatban lásd a katonai lista vonatkozó
+bejegyzését.
+d) testvédő páncélzat vagy védőruházat és annak részegységei az alábbiak szerint:
+1. lágy testvédő páncélzat vagy védőruházat katonai szabvány, előírás vagy annak megfelelő követelmény szerint
+gyártva, és a kifejezetten azokhoz tervezett részegységek;
+Megjegyzés Az ML13. fejezet d) pontjának 1. alpontja értelmében a katonai követelmények vagy szabványok
+tartalmaznak legalább a repeszek elleni védelemre vonatkozó előírásokat.
+2. kemény testvédő páncéllemezek, melyek a III. szint (lásd NIJ 0101.06, 2008. július, vagy a megfelelő nemzeti
+szabványt) szerinti vagy annál jobb ballisztikai védelmi képességet biztosítanak.
+1.
+megjegyzés:
+Az ML13. fejezet b) pontja magában foglalja a kifejezetten reaktív páncélzathoz vagy katonai óvóhelyek
+létrehozására tervezett anyagokat.
+2.
+megjegyzés:
+Az ML13. fejezet c) pontja nem vonatkozik a hagyományos acélsisakra, kivéve ha az módosításra került
+vagy úgy tervezték, hogy ellátható legyen, vagy ellátták bármilyen típusú kiegészítő tartozékkal.
+3.
+megjegyzés:
+Az ML13. fejezet c) és d) pontja nem vonatkozik azon sisakokra, testvédő páncélzatokra és az azokhoz
+tartozó szerelvényekre, amelyeket azok viselője személyes védelmére tart magánál.
+4.
+megjegyzés:
+Az ML13. pontban meghatározottak körébe kizárólag a kifejezetten bombák hatástalanítását végzők
+számára tervezett, kifejezetten katonai használatú védősisakok tartoznak.
+NB. 1 Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 1A005. pontját.
+NB.
+
+A testvédő páncélzatok és sisakok gyártásához használt „szálas és rostos anyagok” tekintetében lásd a kettős
+felhasználású termékek és technológiák uniós jegyzékének 1C010. pontját.
+
+XIV. fejezet
+(ML 14)
+’Kifejezetten katonai gyakorló’ eszközök vagy hadgyakorlat forgatókönyvének szimulációjára szolgáló berendezések,
+szimulátor berendezések az ML1. pontban vagy az ML2. pontban meghatározott bármilyen tűz- vagy lőfegyver
+használatának begyakorlására, és a kifejezetten azokhoz tervezett részegységek és kiegészítő eszközök.
+Műszaki megjegyzés
+’Kifejezetten katonai gyakorló eszközök’ :
+a katonai célú támadásgyakorló eszközök, a repülésoktató eszközök, a lokátor cél gyakorlóeszközök, a lokátor célpont
+generátorok, a fegyver irányzó oktató berendezések, a tengeralattjáró elhárító harci eszközök gyakorló eszközei, a
+repülés szimulátorok (beleértve a pilóták/űrhajósok kiképzésére szolgáló emberméretű centrifugákat), a lokátor oktató
+berendezések, a műszeres repülés gyakorlását szolgáló oktató berendezés, a navigációs oktató berendezések, a
+rakétaindítást gyakoroltató berendezések, a célberendezések, a pilóta nélküli (cél) „légijárművek”, a fegyverzetgyakorló
+berendezések, a pilóta nélküli „légijármű” gyakorló berendezés, a mobil gyakorló egységek és a szárazföldi katonai
+hadműveletek gyakorlására szolgáló berendezések.
+1.
+megjegyzés:
+Az ML14. fejezet magában foglalja a gyakorló eszközök képalkotó és interaktív környezeti rendszereit,
+amelyeket kifejezetten katonai felhasználásra tervezték vagy alakították át.
+2.
+megjegyzés:
+Az ML14. fejezet nem vonatkozik a kifejezetten vadász és sportfegyverek használatának gyakorlására
+szolgáló berendezésekre.
+XV. fejezet
+(ML 15)
+Kifejezetten katonai felhasználásra tervezett képalkotó vagy ezeket zavaró berendezések, valamint a kifejezetten ezekhez
+tervezett részegységek és kiegészítő eszközök az alábbiak szerint:
+a) rögzítő és képfeldolgozó berendezések;
+b) kamerák, fényképészeti és filmfeldolgozó berendezések;
+c) képerősítő berendezések;
+d) infravörös vagy termikus képalkotó berendezések;
+e) képalkotó lokátorszenzor berendezések;
+f) az ML15. fejezet a)–e) pontokban meghatározott berendezésekhez tartozó zavaró és zavarás-elhárító berendezések.
+Megjegyzés: Az ML15. fejezet f) pontja magában foglalja azon berendezéseket, amelyeket a katonai képalkotó
+rendszerek működésének vagy hatékonyságának a csökkentésére, vagy az ilyen csökkentő hatásoknak a
+minimalizálására terveztek.
+1.
+megjegyzés:
+Az ML15. pontban a „kifejezetten ezekhez tervezett részegységek” kifejezés kifejezetten katonai
+felhasználásra való tervezés esetén az alábbiakat foglalja magában:
+a) infravörös képátalakító csövek (távcsövekhez, célzókészülékekhez);
+b) képerősítő csövek (távcsövekhez, célzókészülékekhez) (nem elsőgenerációs);
+c) mikrocsatorna panelek;
+d) alacsony fényszinten is működő tv képfelvevő csövek;
+e) felderítő rendszerek (beleértve az elektronikus összeköttetés és kiolvasás rendszereit);
+f) piroelektromos tv kamera csövek;
+
+g) képalkotó berendezések hűtőrendszerei;
+h) fotokróm vagy elektro-optikai rendszerű, villamos kioldású redőnyzárak legfeljebb 100 mikrosec
+redőnyzárási sebességgel, kivéve azon redőnyzárakat, amelyek nagysebességű kamerák fontos
+alkatrészei;
+i) száloptikai képátalakítók;
+j) kompaund félvezető fotókatódok.
+2.
+megjegyzés:
+Az ML15. fejezet nem vonatkozik az „első generációs képerősítő csövekre”, vagy a kifejezetten az „első
+generációs képerősítő csövek” alkalmazásával tervezett berendezésekre.
+NB. Az „első generációs képerősítő csöveket” alkalmazó fegyver célzókészülékek besorolása
+tekintetében lásd az ML1. és ML2. pontot, valamint az ML5. fejezet a) pontját.
+NB. Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 6A002.a.2. és
+6A002.b. pontját.
+XVI. fejezet
+(ML 16)
+Kovácsolt, sajtolt és más félkész gyártmányok, amelyeket kifejezetten az ML1–ML4., ML6., ML9., ML10., ML12. vagy
+ML19. pontban meghatározott eszközökhöz terveztek.
+Megjegyzés: az ML16. fejezet az anyagösszetétel, geometriai méret vagy alkalmazás alapján azonosítható félkész
+gyártmányokra vonatkozik.
+XVII. fejezet
+(ML 17)
+Különféle berendezések, anyagok és „könyvtárak”, és a kifejezetten azokhoz tervezett részegységek a következők szerint:
+a) kifejezetten katonai használatra tervezett vagy átalakított alámerülő és víz alatti úszó készülék, a következők szerint:
+1. önálló, alámerülő, ismételt belégzésű készülék, zárt vagy félig zárt rendszerű;
+2. kifejezetten az ML17. fejezet a)1. pontjában meghatározott alámerülő készülékkel együtt történő használatra
+tervezett víz alatti úszó készülék;
+NB. Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 8A002.q. pontját.
+b) kifejezetten katonai felhasználásra tervezett szerkezeti felszerelés;
+c) jel elfojtáshoz, kifejezetten katonai felhasználásra tervezett szerelvények, bevonatok és eljárások;
+d) kifejezetten a harci zónában történő használatra tervezett tábori műszaki eszközök;
+e) „robotok”, „robot”-vezérlések és „végeffektorok”, amelyek a következő jellemzők valamelyikével bírnak:
+1. kifejezetten katonai használatra tervezték;
+2. magában foglal hidraulikavezetékek védelmére szolgáló eszközöket a ballisztikai repeszek által kívülről okozott
+szakadás ellen (pl. öntömítő vezetékek beépítése révén), és 839 K (566 °C) hőmérsékletnél magasabb
+lobbanáspontú hidraulikafolyadék használatára tervezték; vagy
+3. kifejezetten elektromágneses impulzus (EMP) környezetben való működésre tervezték vagy minősítették;
+Műszaki megjegyzés
+Az elektromágneses impulzus nem vonatkozik a közelben található berendezés (pl. gépek, készülékek vagy
+elektronikai berendezés) elektromágneses sugárzása vagy villámlás okozta szándékolatlan interferenciára.
+
+f) kifejezetten az EU közös katonai listájában meghatározott rendszerekkel, berendezésekkel vagy egységekkel együtt
+történő, katonai felhasználásra tervezett vagy átalakított „könyvtárak”;
+g) nukleáris energia előállítására szolgáló berendezések vagy meghajtó berendezések, amelyek magukba foglalják a
+kifejezetten katonai felhasználásra tervezett „atomreaktorokat”, valamint az azokhoz kifejezetten katonai
+felhasználásra tervezett vagy ’átalakított’ részegységeket;
+h) jel elfojtása érdekében, kifejezetten katonai felhasználásra tervezett, bevonattal ellátott vagy kezelt berendezés és
+anyag, amelyet az EU közös katonai listája máshol nem sorol fel;
+i) kifejezetten katonai „atomreaktorok” részére tervezett szimulátorok;
+j) kifejezetten katonai berendezések kiszolgálására tervezett vagy ’átalakított’ mobil javító műhelyek;
+k) kifejezetten katonai felhasználásra tervezett vagy ’átalakított’ harctéri generátorok;
+l) kifejezetten katonai felhasználásra tervezett vagy ’átalakított’ konténerek;
+m) komphajók, amelyeket az EU közös katonai listája máshol nem sorol fel, valamint kifejezetten katonai felhasználásra
+tervezett hidak és pontonok;
+n) kifejezetten az ML4., ML6., ML9. vagy ML10. pontokban meghatározott termékek „fejlesztéséhez” tervezett kísérleti
+modellek;
+o) kimondottan katonai felhasználásra tervezett „lézer” védelmi berendezés (például szem- és érzékelővédelem);
+p) kifejezetten katonai felhasználásra tervezett vagy ’átalakított’, az EU közös katonai listájában máshol említettektől
+eltérő „üzemanyagcellák”.
+Technikai megjegyzés
+1. 2014 óta nem használatos.
+2. Az ML17. fejezet alkalmazásában ’átalakított’: bármely strukturális, elektromos, mechanikai vagy egyéb változás, amely
+valamely nem katonai eszközt kifejezetten katonai felhasználásra tervezett eszköz képességeivel lát el.
+XVIII. fejezet
+(ML 18)
+Az alábbi ’gyártó’ berendezések és azok tartozékai:
+a) kifejezetten az EU közös katonai listájában meghatározott termékek ’gyártásához’ tervezett vagy átalakított
+gyártóberendezések, és a kifejezetten azokhoz tervezett részegységek;
+b) kifejezetten az EU közös katonai listájában meghatározott termékek tanúsításához, minősítéséhez és vizsgálatához
+tervezett környezetállósági vizsgáló létesítmények és az azokhoz tervezett berendezések.
+Műszaki megjegyzés
+Az ML18. fejezet alkalmazásában ’gyártás’: a tervezés, vizsgálat, előállítás, tesztelés és ellenőrzés.
+Megjegyzés Az ML18. fejezet a) és b) pontja a következő berendezéseket foglalja magában:
+a) folyamatos nitrálók;
+b) centrifugális vizsgálókészülék vagy berendezés, amely az alábbi paraméterek bármelyikével
+rendelkezik:
+1. egy vagy több hajtómotorjának együttes névleges teljesítménye legalább 298 kW (400 LE);
+2. hasznos terhelhetősége legalább 113 kg; vagy
+
+3. legalább 91 kg hasznos terhelésre ható 8 g vagy nagyobb centrifugális gyorsulást állít elő;
+c) dehidratáló prések;
+d) kifejezetten katonai robbanó- vagy hajtóanyagok sajtolására tervezett vagy átalakított csavaros
+extruderek;
+e) vágógépek az extrudált rakéta-hajtóanyag méretre vágásához;
+f) legalább 1,85 m átmérőjű, nagy nyomást kibíró (sweetie) tartályok (tumblerek), amelyek
+tárolókapacitása nagyobb, mint 227 kg;
+g) szilárd hajtóanyagok folyamatos keverésének eszközei;
+h) fluidhajtóanyag-őrlők katonai robbanóanyagok összetevőinek zúzására vagy őrlésére;
+i) az ML8. fejezet c) pontjának 8. alpontja alapján engedélyezés alá vont fémpor gömbösítésének és
+egységes szemcseméretének egyidejű elérését biztosító berendezések;
+j) az ML8. fejezet c) pontjának 3. alpontjában felsorolt anyagok átalakítására szolgáló konvekciós áramú
+konverterek.
+XIX. fejezet
+(ML 19)
+Irányított energiát kibocsátó fegyverrendszerek (DEW), kapcsolódó berendezések, vagy ellentevékenység eszközei, és
+kísérleti modellek a következők szerint, és a kifejezetten azokhoz tervezett elemek részegységek:
+a) a célpont megsemmisítésére vagy a célpont támadási célja elérésének megakadályozására tervezett „lézer”-
+rendszerek;
+b) a célpont megsemmisítésére vagy a célpont támadási célja elérésének megakadályozására alkalmas részecskesugárzó
+rendszerek;
+c) a célpont megsemmisítésére vagy célpont támadási célja elérésének megakadályozására alkalmas nagy teljesítményű
+rádiófrekvenciás (RF) rendszerek;
+d) kifejezetten az ML19. fejezet a)–c) pontjaiban meghatározott rendszerek felderítésére vagy azonosítására, vagy az
+ellenük való védelemre tervezett berendezések;
+e) az ML19. pontban meghatározott rendszerek, berendezések és részegységek fizikai kísérleti modelljei;
+f) „lézer”-rendszerek, amelyeket kifejezetten a védőeszközök nélküli látószerv – azaz a szabad szem vagy a látást javító
+eszközzel ellátott szem – maradandó vakságának előidézésére terveztek.
+1.
+megjegyzés:
+Az ML19. pontban meghatározott, irányított energiát kibocsátó fegyverrendszerek közé tartoznak azok a
+rendszerek, amelyek képessége az alábbi engedélyköteles eszközök alkalmazásától függ:
+a) elégséges teljesítményű „lézerek” olyan megsemmisítő hatás létrehozására, amely hasonló a
+hagyományos lőszer pusztítási hatásához;
+b) részecskegyorsítók, amelyek pusztító hatású energiával feltöltött vagy semleges részecskesugarat
+lőnek ki;
+c) nagy lüktető teljesítményű vagy nagy átlagos teljesítményű rádiófrekvenciás sugáradók, amelyek
+kellően intenzív mezőt hoznak létre ahhoz, hogy a távoli célpontban lévő elektronikus áramkört
+üzemképtelenné tegyék.
+
+2.
+megjegyzés:
+Az ML19. fejezet szerint engedélykötelesek az alábbi, kifejezetten irányított energiát kibocsátó
+rendszerek:
+a) primer energiaforrások, energiatároló, kapcsoló, teljesítmény szabályozó vagy üzemanyag-kezelő
+berendezések;
+b) célkereső vagy követő rendszerek;
+c) a célpont károsodását, megsemmisítését vagy a célpont támadási célja elérése megakadályozásának
+megtörténtét felmérő rendszerek;
+d) sugárnyaláb-kezelő, továbbító vagy célmegjelölő berendezés;
+e) gyors sugárnyaláb mozgatására képes berendezés, több célpont elleni gyors műveletekre;
+f) adaptív optikák és fáziskonjugátorok;
+g) áram injektorok negatív hidrogén-ion sugár előállítására;
+h) „űrminősítésű” gyorsító alkatrészek;
+i) negatívionsugár-összpontosító berendezés;
+j) nagy energiájú ionsugár ellenőrzésére és mozgatására szolgáló berendezés;
+k) „űrminősítésű” fémfóliák a negatív hidrogén izotóp sugarak semlegesítésére.
+XX. fejezet
+(ML 20)
+Kriogén és „szupravezető” berendezések az alábbiak szerint, valamint kifejezetten azokhoz tervezett részegységek és
+kiegészítő eszközök:
+a) kifejezetten katonai földi, vízi, légi vagy űrjárművekbe való beépítésre tervezett berendezések, amelyek képesek a
+jármű mozgása közben 103 K (– 170 °C) alatti hőmérsékletet előállítani vagy fenntartani.
+Megjegyzés: Az ML20. fejezet a) pontja magában foglalja azon mobil rendszereket, amelyek nemfémes vagy nem
+villamos vezető anyagokból – például a műanyagok, vagy az epoxigyantával impregnált anyagok –
+előállított kiegészítő eszközökből vagy részegységekből épülnek fel.
+b) olyan „szupravezető” villamos berendezés (forgógépek és átalakítók), amelyeket kifejezetten katonai földi, vízi, légi
+vagy űrjárművekbe való beépítésre terveztek, és amelyek a jármű mozgása közben is működtethetők.
+Megjegyzés: Az ML20. fejezet b) pontja nem vonatkozik az olyan egyenáramú hibrid homopoláris generátorokra,
+amelyek egypólusú normál fémarmatúrával rendelkeznek, és olyan mágneses mezőben forognak,
+amelyet szupravezető tekercsek hoznak létre, amennyiben a generátorban ezen tekercsek az egyedüli
+szupravezető elemek.
+XXI. fejezet
+(ML 21)
+„Szoftver”, a következők szerint:
+a) „szoftver”, amelyet kifejezetten az alábbiakban felsorolt valamely célra terveztek vagy alakítottak át:
+1. az EU közös katonai listájában meghatározott berendezés „fejlesztése”, „gyártása”, üzemeltetése vagy
+karbantartása;
+2. az EU közös katonai listájában meghatározott anyagok „fejlesztése” vagy „gyártása”; vagy
+3. az EU közös katonai listájában meghatározott „szoftver „fejlesztése”, „gyártása”, üzemeltetése vagy karbantartása.
+
+b) az ML21. fejezet a) pontjában meghatározottaktól eltérő egyéb speciális „szoftver” az alábbiak szerint:
+1. kifejezetten katonai felhasználásra, katonai fegyverrendszerek modellezése, szimulálása vagy értékelése céljára
+tervezett „szoftver”;
+2. kifejezetten katonai felhasználásra, katonai műveletek modellezése vagy szimulálása céljára tervezett „szoftver”;
+3. hagyományos, nukleáris, vegyi vagy biológiai fegyverek hatásának meghatározására szolgáló „szoftver”;
+4. kifejezetten katonai felhasználásra tervezett és kifejezetten vezetési, hírközlési, irányítási és hírszerzési
+(Command, Communications, Control and Intelligence – C3I) vagy vezetési, hírközlési, irányítási,
+számítástechnikai és hírszerzési (Command, Communications, Control, Computer and Intelligence – C4I) rendszer
+alkalmazások céljára kifejlesztett „szoftver”;
+c) az ML21. fejezet a) vagy b) pontjában nem meghatározott „szoftver”, amelyet kifejezetten arra terveztek vagy
+alakítottak át, hogy az EU közös katonai listájában nem szereplő berendezések számára lehetővé tegye az EU közös
+katonai listájában meghatározott berendezések katonai rendeltetésének betöltését.
+XXII. fejezet
+(ML 22)
+„Technológia” a következők szerint:
+a) „technológia”, amely az ML22. fejezet b) pontjában meghatározottaktól eltér és az EU közös katonai listáján szereplő
+termékek „fejlesztéséhez”, „gyártásához”, üzemeltetéséhez, üzembe helyezéséhez (a helyszíni üzembe helyezést is
+beleértve), folyamatos üzemben tartásához (ellenőrzéséhez), javításához, nagyjavításához vagy felújításához
+„szükséges”;
+b) „Technológia” a következők szerint:
+1. „technológia”, amely az Európai Unió közös katonai listájában meghatározott termékek teljes gyártási eljárásának
+tervezéséhez, a részegységek összeszereléséhez és azok működtetéséhez, üzemeltetéséhez és javításához
+„szükséges” még akkor is, ha a gyártási eljárás részegységei nincsenek meghatározva;
+2. „technológia”, amely kézifegyverek „fejlesztéséhez” és „gyártásához”„szükséges” még akkor is, ha azt antik
+kézifegyverek másolatainak gyártására használják;
+3. 2013 óta nem használatos;
+NB. A „technológiának” korábban az ML22. fejezet b) pontjának 3. alpontjában foglalt meghatározása
+tekintetében lásd az ML22. fejezet a) pontját.
+4. 2013 óta nem használatos;
+NB. A „technológiának” korábban az ML22. fejezet b) pontjának 4. alpontjában foglalt meghatározása
+tekintetében lásd az ML22. fejezet a) pontját.
+5. „technológia”, amely kizárólag az ML7. fejezet i) pontjának 1. alpontjában meghatározott „biokatalizátoroknak” a
+katonai hordozóanyagokkal vagy katonai anyagokkal történő elegyítéséhez „szükséges”.
+1.
+megjegyzés:
+Az EU közös katonai listáján szereplő termékek „fejlesztéséhez”, „gyártásához”, üzemeltetéséhez, üzembe
+helyezéséhez (a helyszíni üzembe helyezést is beleértve), folyamatos üzemben tartásához (ellenőrzéséhez),
+javításához, nagyjavításához vagy felújításához „szükséges”„technológia” akkor is engedélyköteles marad,
+ha azt az EU közös katonai listáján nem szereplő termékekre kell alkalmazni.
+
+2.
+megjegyzés:
+Az ML22. fejezet nem vonatkozik a következőkre:
+a) azon „technológiák”, amelyek a szükséges minimumot képezik a nem engedélyköteles tételek,
+illetőleg az engedélyezett kivitelű tételek üzembe helyezéséhez, működtetéséhez, működtetés
+folyamatos fenntartásához (ellenőrzéséhez) vagy javításához;
+b) azon „technológiák”, amelyek „közhasznú”, „tudományos alapkutatás” vagy a szabadalmi
+engedélyekhez szükséges minimum információk;
+c) a polgári közlekedési eszközök folyamatos meghajtásához szükséges mágneses indukcióhoz
+kapcsolódó „technológiák”.
+XXIII. fejezet
+(HUML 23)
+Kifejezetten katonai célú felszerelések:
+Kizárólag katonai előírások szerint kialakított alapanyagból, katonai szabvány, felsorolás vagy annak megfelelő
+követelmény szerint gyártott termékek:
+a) jelen Jegyzékben másutt engedélyezés alá nem vont, katonai alkalmazásra kifejlesztett hadiruházati felszerelések,
+lábbelik, málhazsákok és hordeszközök;
+Megjegyzés: a XXIII. fejezet a) pontja nem vonatkozik a rendszerből kivont, jelzésektől megfosztott hadiruházati
+felszerelésekre, lábbelikre, málhazsákokra és hordeszközökre
+b) katonai és a személyi álcázó felszerelések, takaróeszközök;
+c) katonai alkalmazásra kifejlesztett túlélést biztosító eszközök, egyéni védőeszközök, védőfunkciójú eszközök és
+felszerelések.
+XXIV. fejezet
+(HUML 24)
+Kifejezetten katonai célú szolgáltatások:
+a) a katonai kontingensek és felszereléseik katonai feladat végrehajtására történő kitelepítése, váltása, át-, illetve
+hazatelepítése, utánpótlás és ellátás biztosítása érdekében katonai vagy polgári eszközökkel végzett szállítás-
+szolgáltatások;
+b) kifejezetten katonai célokra tervezett és alkalmazott, a jelen jegyzék I-VII., IX-XXIII., valamint XXV- XXVI. fejezetében
+felsorolt termékek rendszeresítésével, rendszerben tartásával (üzemeltetésével, üzemben tartásával), illetve rendszerből
+történő kivonásával és kezelésével közvetlenül összefüggő szolgáltatások;
+c) kifejezetten veszélyes vagy speciális jellege miatt oda sorolandó eszközök és anyagok - beleértve az I-IV., VI-VIII.,
+X-XIII., XV. és XIX. fejezetekben szereplő termékeket - megsemmisítésére, hatástalanítására, illetve az ezzel összefüggő
+tevékenységre irányuló szolgáltatás.
+XXV. fejezet
+(HUML 25)
+Kényszerítő és bűnfelderítő eszközök:
+1. Kényszerítő eszközök:
+a) rendőrbotok:
+1. bevetési botok;
+2. gumibotok;
+3. teleszkópos ütőbotok;
+4. tonfák;
+b) elektromos sokkoló eszközök:
+c) mozgásszabadságot korlátozó eszközök:
+1. műanyagbilincsek;
+2. patentbilincsek;
+3. szorítóbilincsek;
+
+4. testbilincsek;
+5. menekülő jármű elfogó készlet;
+6. személy ellen alkalmazható elfogó háló;
+d) tömegoszlatásra alkalmas egyéb hordozható eszközök:
+e) cselekvésképtelenséget előidéző, tömegoszlatásra alkalmas vegyi anyagok:
+1. dibenz-(b,f)-1,4-oxazepint(CR),
+2. klóracetofenont (CN),
+3. ortoklor-benzalmalon-nitrilt (CS) tartalmazó könnygázfajták;
+f) természetes és egyéb szintetikus, tömegoszlatásra alkalmas hatóanyagok.
+Megjegyzés:
+A XXV. fejezet 1. pont f) alpontja szerinti termékkörbe tartozik a bors és paprika hatóanyagú spray.
+Megjegyzés:
+1. Tömegoszlató anyagokkal kapcsolatban lásd még a VII. fejezet d) pontját.
+2. Nem tartoznak engedélyezés alá a XXV. fejezet 1. pont e) és f) alpontja szerinti 20 gramm vagy ennél kisebb egyedi
+kiszerelésű könnygázkészítmények abban az esetben, ha azok hatóanyagtartalma legfeljebb 1%.
+2. Bűnfelderítő eszközök:
+a) lézeres ujjlenyomat-azonosító berendezés;
+b) számítógépes ujjlenyomat-azonosító berendezés;
+c) hangelemző és -azonosító berendezések és alkatrészek;
+d) mobil bűnügyi vizsgálati laboratóriumok, ezek berendezései és tartozékai;
+e) speciális rendeltetésű biológiai, neurofizikai reakcióvizsgáló berendezések; illetve ezek alkatrészei és tartozékai:
+1. 4 vagy több csatornaszámú poligráfok,
+2. automata ujj- és tenyérnyomat azonosító rendszer (AFIS),
+3. digitális ujjnyomat mintavételi eszközök
+4. pszichológiai stresszelemző berendezések,
+5. különleges rendeltetésű alkatrészek és tartozékok a 4. pontban szereplő berendezésekhez és rendszerekhez.
+Megjegyzés:
+Nem tartoznak a XXV. fejezet 2. pont e) alpontja alapján engedélyezés alá azon biomedikai készülékek, amelyeket
+kórházakban biológiai és neurofizikai reakciók vizsgálatára alkalmaznak.
+XXVI. fejezet
+(HUML 26)
+Titkosszolgálati eszközök:
+1. Akusztikus lehallgató eszközök:
+Akusztikus lehallgató eszköznek minősül minden olyan akusztikus információ megismerésére, rögzítésére,
+továbbítására alkalmas elektronikus, szoftveres, mechanikus vagy más eszköz, módszer, technológia, amely a
+kommunikációban résztvevők bármelyikének tudta és beleegyezése nélkül, titkosan, illetve rejtetten alkalmazható, így
+különösen:
+a) lehallgatási célra tervezett, előállított vagy forgalmazott mikrofon, illesztő, rögzítő, illetve továbbító eszköz;
+b) lézer- vagy infravörös sugárzást felhasználó, illetve mikrohullámú vagy ultrahangos működési elvet alkalmazó
+technikai lehallgató rendszer;
+c) rejtett, álcázott, illetve megtévesztésre alkalmas hangrögzítő, vagy továbbító eszköz, azok tartozékai.
+Megjegyzés: A XXVI. fejezet 1. pontja nem vonja engedélyezés alá az alábbi eszközöket, berendezéseket, tartozékokat:
+1. polgári felhasználásra tervezett irodai vagy szórakoztató elektronikai eszközök és azok tartozékai;
+2. ipari vagy polgári felhasználásra tervezett jelzőrendszerek elemei;
+3. diszpécserközpontok információrögzítő eszközei;
+4. kulturális, sport- vagy egyéb tömegrendezvények hangosító eszközei;
+5. polgári vagy rádióamatőr felhasználásra tervezett rádiófrekvenciás adó-vevő készülékek;
+6. ipari, oktatási, tudományos, vagy hírközlés-technikai felhasználásra tervezett berendezések, mérőműszerek, azok
+tartozékai.
+2. Titkos vizuális megfigyelő eszközök:
+Titkos vizuális megfigyelő eszköznek minősül bármely olyan vizuális információ megismerésére, rögzítésére,
+továbbítására alkalmas optikai, elektronikus, szoftveres, mechanikus vagy más eszköz, módszer, technológia, amellyel az
+érintett személy tudta és beleegyezése nélkül annak tevékenységének titkos megfigyelése, rögzítése, vagy az így nyert
+információ továbbítása, feldolgozása megvalósítható, így különösen:
+a) megtévesztésre alkalmas rejtő eszközbe szerelt videó kamera és fényképezőgép, valamint a rejtésre szolgáló
+tartozékai;
+b) rejtésre szolgáló optika előtétekkel (például csavarfej, szegecsfej, gomb stb.) telepíthető kamera és tartozékai;
+c) fedett videó jelátvitelt alkalmazó, azt lehetővé tevő eszközök;
+d) videoszkópok, fiberszkópok, illetve egyéb, üvegszál optikát felhasználó, rejtett megfigyelést lehetővé tevő
+rendszerek és ezek fényképezőgéphez, vagy videokamerához való csatlakozását biztosító adapterek és tartozékok.
+Megjegyzés: A XXVI. fejezet 2. pontja nem vonja engedélyezés alá az alábbi eszközöket, berendezéseket, tartozékokat:
+
+1. ipari, vagy polgári felhasználásra tervezett fotós, vagy videós szórakoztató, oktatási, tudományos, hírközlés-technikai
+eszközök és azok alkatrészei, tartozékai;
+2. ipari, vagy polgári felhasználásra tervezett, rejtetten nem telepíthető vagyonvédelmi, betörésjelző, vagy egyéb
+riasztórendszerek elemei;
+3. ipari forgalom-megfigyelő, -számláló, sebességmérő, dokumentáló rendszerek elemei;
+4. orvosi vagy ipari felhasználásra tervezett és gyártott endoszkópok, videoszkópok, fiberszkópok, boroszkópok, azok
+alkatrészei, tartozékai;
+5. tömegrendezvényeken használt videó-dokumentáló rendszerek és azok elemei;
+6. éjjellátó készülékek tekintetében lásd a XV. fejezetet.
+3. Számítástechnikai eszközök ellenőrzésének, illetve elektronikus hírközlő, és azt helyettesítő hálózaton folytatott
+kommunikáció ellenőrzésének eszközei.
+Jelen pont engedélyezés alá vonja azokat az eszközöket vagy szoftvereket, amelyek alkalmasak az adatokat tároló
+és/vagy feldolgozó számítógépekből, számítástechnikai, vagy egyéb eszközökből, a hozzájuk használható
+adathordozókból a tárolt információ bármilyen módon történő titkos megszerzésére, továbbítására, rögzítésére, valamint
+a számítástechnikai eszközökön folytatott tevékenység valós idejű titkos megfigyelésére, rögzítésére, illetve az
+elektronikus hírközlő hálózaton folytatott kommunikáció megszerzésére, így különösen:
+a) belépési és hozzáférési kódok megszerzését lehetővé tevő, támogató eszközök, szoftverek;
+b) hálózati védelmi rendszerek, illetve titkosításra épülő védelmek megkerülésére, feltörésére szolgáló eszközök,
+szoftverek;
+c) a használt vizuális kijelző tartalmát rögzítő és/vagy továbbító eszközök, szoftverek;
+d) olyan eszközök, szoftverek, amelyeket az adattovábbításra alkalmas hálózaton folytatott kommunikáció
+megszerzésére terveztek, állítottak elő, vagy erre lényeges átalakítás nélkül felhasználható.
+Megjegyzés: A XXVI. fejezet 3. pontja nem vonja engedélyezés alá az alábbi eszközöket, berendezéseket, tartozékokat:
+1. ipari vagy polgári felhasználásra tervezett - a hírközlési szolgáltatás nyújtásával összefüggésben használatos -
+mérőberendezések, hírközlés-technikai eszközök és azok alkatrészei, tartozékai;
+2. ipari vagy polgári felhasználásra tervezett, és a felhasználó az adatkezelő, vagy az üzemeltető tudta és beleegyezése
+nélkül nem alkalmazható rendszerek és szoftverek eszközei, tartozékai.
+4. Zavaró eszközök:
+Jelen pont engedélyezés alá vonja mindazokat a termékeket, eszközöket, technológiákat, szoftvereket, ezek
+alkatrészeit, és tartozékait, amelyek a XXVI. fejezet 1., 2. és 3. pontjában felsorolt eszközök zavarására, működésük
+felfüggesztésére, illetve lehetetlenné tételére terveztek, állítottak elő, így különösen:
+a) rádiófrekvenciás zavaró adók;
+b) vezetékes zavaró adók;
+c) akusztikus zaj generátorok;
+d) lézer- vagy infravörös sugárzással működő zavaró adók;
+e) elektronikai eszközök tönkretételére tervezett, előállított berendezések;
+f) informatikai eszközök zavarására tervezett, előállított eszközök, szoftverek;
+g) biztonsági rendszerek zavarására tervezett, előállított eszközök.
+5. Felderítő eszközök
+Jelen pont engedélyezés alá vonja az alábbiakat:
+a) vezetéken megvalósított lehallgatást detektáló berendezések;
+b) optikakereső berendezések;
+c) rejtett rádiófrekvenciás adóberendezések felderítésére és helyének meghatározására szolgáló detektorok;
+d) nem lineáris átmenet gerjesztésén alapuló detektáló eszközök passzív lehallgató és megfigyelő berendezések
+felfedésére.
+6. Titkos behatolás eszközei:
+Titkos behatoló eszköznek minősülnek azon mechanikai, elektronikai, optikai, vegyi vagy egyéb elven működő
+eszközök, vagy szoftverek, amelyek segítségével zárt objektumba (zárt földterület, épület, gépkocsi stb.) hajtható végre
+behatolás vagy tárgyakon található mechanikai, elektronikus védelmi rendszerek leküzdhetők oly módon, hogy a
+védelmi rendszerek a későbbiek folyamán is rendeltetésszerűen használhatók maradnak, így különösen:
+a) mechanikus, elektromos, elektronikus vagy egyéb elven működő zárak, zárszerkezetek, lakatok, reteszek stb.
+rendeltetésszerű nyitóeszközeit helyettesítő roncsolásos vagy roncsolásmentes nyitására tervezett és előállított eszközök,
+technológiák és tartozékaik;
+b) elektronikus biztonsági rendszerek rendeltetésszerű működését befolyásoló vagy működésképtelenségét kiváltó,
+speciálisan e célra készült eszközök, szoftverek és tartozékaik.
+7. Rejtjelező és titkosító berendezések:
+a) elektronikus hírközlő hálózaton, illetve informatikai rendszerekben használatos rejtjelező és titkosító eszközök,
+gépek, berendezések és speciálisan ezekhez tervezett szoftverek, valamint azok funkcionális részegységei, alkatrészei,
+továbbá kiegészítő egységei és tartozékai;
+b) speciális rejtjelkulcsok előállítására, elosztására, szállítására tervezett, vagy használt eszközök, berendezések és
+speciálisan ezekhez tervezett szoftverek;
+c) rejtjelkulcsok.
+
+Megjegyzés: A XXVI. fejezet 7. pontja nem vonja engedélyezés alá az alábbi eszközöket, berendezéseket, tartozékokat:
+1. szerzői jogvédelem biztosítását célzó kódoló-dekódoló eszközök;
+2. ipari, vagy polgári felhasználásra tervezett biztonsági (vagy védelmi, személyazonosító, jogosultság-ellenőrzési célú)
+rendszerek kódoló-dekódoló eszközei.
+8. Követő eszközök:
+Követő eszköznek minősül bármely olyan eszköz vagy szoftver, illetve tartozékai, amely személy vagy tárgy - az adott
+személy, illetve a tárgy tulajdonosának tudta nélkül történő - irány- és helymeghatározására terveztek, állítottak elő.
+Megjegyzés: A XXVI. fejezet 8. pontja nem vonja engedélyezés alá a nagyközönség számára árusított irány- és
+helymeghatározásra alkalmas vevőberendezéseket.
+A LISTÁBAN HASZNÁLT KIFEJEZÉSEK FOGALMÁNAK MEGHATÁROZÁSA
+Az alábbiakban találhatóak - betűrendi sorrendben - az e listában használt kifejezések fogalmának meghatározása.
+1. megjegyzés: A fogalommeghatározások a lista egészére vonatkoznak. A hivatkozások kizárólag tájékoztató jellegűek, és
+nem érintik a definícióknak a lista egészében való általános alkalmazását.
+2. megjegyzés: Az ebben „A listában használt kifejezések fogalommeghatározásai” című részben szereplő szavak és
+kifejezések kizárólag akkor értelmezendőek a definíciónak megfelelően, ha idézőjelben („”) állnak. A félidézőjellel jelölt (’ ’)
+fogalmak definícióját a megfelelő részhez fűzött műszaki megjegyzés tartalmazza. Egyéb esetekben a szavak és kifejezések
+általánosan elfogadott (szótári) jelentésükben értelmezendők.
+ML8 „Adalékanyagok”:
+robbanóanyagokban, azok tulajdonságainak javítása céljából használt anyagok.
+ML10 „A levegőnél könnyebb légijárművek”:
+hőlégballonok és „léghajók”, amelyek emelkedésükhöz forró levegőt vagy a levegőnél könnyebb gázokat - például
+héliumot vagy hidrogént - használnak.
+ML17 „Atomreaktor”:
+a reaktortartályon belül lévő vagy ahhoz közvetlenül kapcsolódó egységek, az a berendezés, amely a magban a
+teljesítményszintet szabályozza és azok a komponensek, amelyek általában a reaktormag primer hűtőközegét foglalják
+magukban, azzal közvetlenül érintkeznek vagy azt szabályozzák.
+ML11 „Automatikus parancsnoki és vezetési rendszerek”:
+Olyan elektronikus rendszerek, amelyeken keresztül a vezetés alatt álló hadműveleti, harcászati kötelék, egység, hajó,
+alegység vagy fegyverek hatékony működéséhez nélkülözhetetlen információt betáplálják, feldolgozzák és továbbítják.
+Ezt a katonai vezető szerv feladatainak támogatására tervezett számítógépes és egyéb speciális hardver felhasználásával
+végzik. Az automatikus parancsnoki és vezetési rendszerek fő funkciói a következők: az információk hatékony
+automatikus gyűjtése, tárolása és feldolgozása; mindazon körülmények és helyzet bemutatása, amelyek hatással
+lehetnek a harc előkészítésére és megvívására; a művelet céljának és pillanatnyi állásának megfelelően a harcászati és
+hadműveleti számvetések elvégzése az erőforrásoknak a harccsoportok vagy hadrendi elemek vagy a harctéren telepített
+erők közötti megosztása céljából; a művelet vagy harc időtartama alatt bármikor helyzetértékeléshez és
+döntéshozatalhoz szükséges adatok előkészítése; a műveletek számítógépes szimulációja.
+ML7, 22 „Biokatalizátorok”:
+egyes vegyi vagy biokémiai reakciókhoz, vagy egyéb biológiai vegyületekben használt ’enzimek’, amelyek a vegyi
+harcanyagokhoz (CW) kötődnek és lebontásukat gyorsítják.
+
+Műszaki megjegyzés:
+„Enzim”: egyes vegyi vagy biokémiai reakciókhoz használt „biokatalizátor”.
+ML7, 22 „Biopolimerek”:
+az alábbiak szerinti biológiai makromolekulák:
+a) egyes vegyi vagy biokémiai reakciókhoz használt enzimek;
+b) „nem idiotipikus”, „monoklonális” vagy „poliklonális ellenanyagok”;
+c) különleges módon tervezett vagy feldolgozott receptorok;
+Technikai megjegyzés
+1. „Nem idiotipikus ellenanyagok”: olyan ellenanyagok, amelyek más ellenanyagok konkrét ellenanyag-megkötő helyeihez
+kötődnek;
+2. „Monoklonális ellenanyagok”: olyan proteinek, amelyek egy ellenanyag-megkötő helyhez kötődnek, és amelyeket egy
+sejtklón állít elő;
+3. „Poliklonális ellenanyagok”: olyan proteinek keveréke, amelyek egy ellenanyag megkötő helyhez kötődnek, és amelyeket
+egynél több sejtklón állít elő;
+4. „Receptorok”: olyan biológiai makromolekuláris szerkezetek, amelyek képesek ligandok megkötésére, amelyek
+megkötése hatással van fiziológiai funkcióikra.
+ML15 „Első generációs képerősítő csövek”:
+elektrosztatikus fókuszú csövek, amelyekben a ki- és bemenetnél multialkáli fotókatódból (S-20 vagy S-25) készült
+optikai vagy üveglemez került felhasználásra, azonban mikrocsatornás lemezeket nem tartalmaznak.
+ML 8 „Energiahordozó anyagok”:
+olyan anyagok vagy keverékek, amelyek a tervezett felhasználásukhoz szükséges energia kibocsátása céljából kémiai
+reakcióba lépnek. A „robbanóanyagok”, „pirotechnikai eszközök” és „hajtóanyagok” az energiahordozó anyagok
+alosztályait képezik.
+ML7 „Expressziós vektorok”:
+genetikai anyagnak a fogadósejtbe történő bejuttatására használt hordozók (például plazmid vagy vírus).
+ML21, 22 „Fejlesztés”:
+kapcsolódik a sorozatgyártást megelőző valamennyi szakaszhoz, mint például: tervezés, tervezéskutatás,
+tervezéselemzések, tervezési koncepciók, a prototípusok összeszerelése és vizsgálata, kísérleti gyártási tervek, tervezési
+adatok, a tervezési adatok termékké történő átalakításának folyamata, konfigurációs tervezés, integrációtervezés,
+tervrajzok.
+ML18, 21, 22 „Gyártás”:
+valamennyi gyártási fázis vagyis: tervezés, gyártás, integrálás, összeszerelés, ellenőrzés, tesztelés, minőségbiztosítás.
+ML7 „Háborús felhasználáshoz igazított”:
+olyan átalakítás vagy szelektálás (mint a tisztaság, eltarthatósági idő, fertőzőképesség, terjedési jellemzők vagy az UV-
+sugárzással szembeni ellenálló-képesség megváltoztatása), amelynek célja, hogy növelje az ember- vagy
+állatveszteséget, rombolja a berendezéseket, vagy kárt tegyen a termésben vagy a környezetben.
+ML8 „Hajtóanyag”:
+olyan anyagok vagy keverékek, amelyek kémiai reakcióba lépve - ellenőrzött ütemben - nagy mennyiségű forró gázt
+állítanak elő mechanikai munka végzése céljából.
+
+ML 1 „Hatástalanított lőfegyver”:
+Olyan lőfegyver, amelyet valamely uniós tagállam vagy a Wassenaari Megállapodásban részt vevő állam nemzeti
+hatósága által meghatározott eljárással lövedék kilövésére alkalmatlanná tettek. Az említett eljárások véglegesen
+megváltoztatják a lőfegyver alapvető elemeit. A tagállamok törvényi, rendeleti vagy közigazgatási rendelkezéseivel
+összhangban a lőfegyver hatástalanítása az illetékes hatóság által kibocsátott tanúsítvánnyal igazolható és a lőfegyver
+valamely lényeges elemén beütött próbajellel jelölhető.
+ML 17 „Könyvtár” (parametrikus műszaki adatbázis):
+olyan műszaki információk gyűjteménye, amelyeknek a felhasználása növelheti a releváns rendszerek, berendezések
+vagy egységek teljesítményét.
+ML22 „Közhasznú”:
+olyan „technológia” vagy „szoftver”, amelyet a továbbterjesztésére vonatkozó korlátozás nélkül tettek közzé.
+Megjegyzés: szerzői jogi korlátozások nem gátolják, hogy a „technológia” vagy „szoftver” a „közhasznú” tárgykörébe
+tartozzon.
+ML 10 „Léghajó”:
+olyan, motorral hajtott légijármű, amelyet a levegőnél könnyebb gáztest (általában hélium, korábban hidrogén) tart
+fenn.
+ML8, 10, 14 „Légijármű”:
+merevszárnyas, csuklósszárnyas, forgószárnyas (helikopter), döntött rotoros vagy döntött szárnyas légijármű.
+ML9, 19 „Lézer”:
+fényforrás, amely sugárzás stimulált emissziója általi fényerősítés révén térben és időben koherens fényt hoz létre.
+ML 21 „Mikroprogram”:
+különleges tárolóban tárolt elemi utasítások sorozata, amelyek végrehajtását a referencia utasításainak
+utasításregiszterbe történő töltése indítja el.
+ML4, 8 „Pirotechnikai eszközök”:
+szilárd vagy folyékony üzemanyagok és oxidáló szerek keveréke, amely begyújtáskor egy energiát termelő kémiai
+folyamaton megy keresztül szabályozott arányok mellett azért, hogy megfelelő időkésedelmet hozzon létre, vagy
+hőmennyiséget, zajt, füstöt, látható fényt vagy infravörös kisugárzást gerjesszen. A piroforok a pirotechnikai eszközök
+egyik olyan alosztályát képezik, amelyek nem tartalmaznak oxidálószert, levegővel érintkezve azonban spontán
+gyulladnak
+ML4, 10 „Polgári légijármű”:
+egy vagy több uniós tagállam vagy a Wassenaari Megállapodásban részt vevő állam polgári repülésügyi hatóságai
+által közzétett, légialkalmassági bizonyítványok felsorolását tartalmazó listán szereplő „légijárművek”, amelyek
+kereskedelmi, polgári, belső és külső útvonalakon repülhetnek, vagy polgári, magán- vagy üzleti célokra használhatók.
+ML8 „Prekurzorok”:
+robbanóanyagok gyártásához használt különleges vegyi anyagok.
+ML 21 „Program”:
+egy folyamat végrehajtására adott utasítások sorozata az elektronikus számítógép által végrehajtható, vagy arra
+átalakítható formában.
+
+ML8, 18 „Robbanóanyagok”:
+olyan szilárd, folyékony vagy gáz-halmazállapotú anyagok vagy anyagok keverékei, amelyek robbanófejekben
+elsődleges, indító- vagy főtöltetként, valamint rombolások és egyéb alkalmazások során történő felhasználásukkor
+robbanást okoznak.
+ML17 „Robot”:
+esetleg folyamatos működésű vagy pontról pontra mozgatható manipulációs mechanizmus, amely szenzorokat is
+alkalmazhat, és rendelkezik az alábbi jellemzők mindegyikével:
+a) többfunkciós;
+b) képes anyagok, részegységek, szerszámok vagy különleges eszközök beállítására vagy orientálására,
+háromdimenziós térben történő változtatható mozgások révén;
+c) három vagy több zárt vagy nyitott hurkos szervoeszközt foglal magában, amelyek léptető motorokat is
+tartalmazhatnak; és
+d) rendelkezik a „felhasználó által programozható” tanít/visszajátszik módszerrel vagy elektronikus számítógéppel,
+amely lehet programozható logikai kontroller, azaz mechanikai beavatkozás nélküli.
+Megjegyzés A fenti meghatározás nem foglalja magában az alábbi eszközöket:
+1. olyan manipulációs mechanizmusok, amelyeket csak kézzel vagy távoperátorral lehet irányítani;
+2. állandó sorozatú manipulációs mechanizmusok, amelyek mechanikusan rögzített programozott mozgások szerint
+működő automatizált mozgó eszközök. A programot mechanikusan korlátozzák a rögzített, de állítható ütközők, pl. csapok
+vagy bütykök. A mozgások sorrendje és a pályák vagy szögek megválasztása mechanikai, elektronikus vagy elektromos úton
+nem változtatható, illetve nem is cserélhető;
+3. mechanikai vezérlésű, változtatható sorrendű manipulációs mechanizmusok, amelyek a mechanikusan rögzített
+programozott mozgások szerint működő automatikus mozgó eszközök. A programot mechanikusan korlátozzák a rögzített,
+de állítható ütközők, pl. csapok vagy bütykök. A mozgások sorrendje és a pályák vagy szögek megválasztása a rögzített
+programsémán belül változtatható. A programséma változtatása vagy módosítása (pl. a csapok átállítása vagy a bütykök
+cseréje) egy vagy több mozgási tengelyen csak mechanikai műveletek révén történik;
+4. nem szervovezérlésű, sorrendmanipulációs mechanizmusok, amelyek mechanikusan rögzített, programozott mozgások
+szerint működő automatizált mozgó eszközök. A program változtatható, de a folyamat csak a mechanikusan rögzített
+elektromos bináris eszközről vagy állítható ütközőkről kapott bináris jel hatására halad tovább;
+5. Descartes-féle koordináta manipulátor rendszerként definiált rakodódaruk, amelyeket függőleges elhelyezett
+tárolórekeszek integrált részeként alakítottak ki, és e rekeszek tartalmának tárolás és kirakodás céljából történő elérésére
+szolgálnak.
+ML13 „Szálas vagy rostos anyagok”:
+többek között:
+a) folytonos monofil szálak;
+b) folytonos cérnák és előfonatok;
+c) szalagok, szövetek, kusza fonatok és paszományok;
+d) vágott szálak, szálkötegek és koherens szálú végek;
+e) bármilyen hosszú, egykristályos vagy polikristályos tűkristályok;
+f) aromás poliamid pép.
+
+ML10 „Pilóta nélküli légijármű” („UAV”):
+minden olyan „légijármű”, amely a fedélzeten mindennemű emberi jelenlét nélkül képes a repülés megkezdésére,
+valamint az irányított repülés és navigálás fenntartására.
+ML21 „Szoftver”:
+bármilyen tényleges hordozóra rögzített, egy vagy több „program” vagy „mikroprogram” gyűjteménye.
+ML20 „Szupravezető”:
+olyan anyagok (fémek, ötvözetek vagy vegyületek), amelyek elveszíthetik minden elektromos ellenállásukat, azaz
+végtelen elektromos vezetőképességgel rendelkezhetnek, és igen nagy elektromos áram átvitelére alkalmasak Joule-hő
+keletkezése nélkül.
+Egy „szupravezető” anyag „kritikus hőmérséklete” (más kifejezéssel: átmeneti hőmérséklete) az a hőmérséklet,
+amelyen az anyag az elektromos egyenárammal szemben minden ellenállását elveszíti.
+Műszaki megjegyzés
+Az anyag kritikus „szupravezető” állapotát a „kritikus hőmérséklet”, a kritikus mágneses mező - amely a hőmérséklet
+függvénye - és a kritikus áramsűrűség jellemzi, amely azonban a mágneses mezőtől és a hőmérséklettől egyaránt függ.
+ML22 „Szükséges”:
+a „technológia” tekintetében a „technológiának” az ellenőrzés alá eső működési szint, jellemzők vagy funkciók
+eléréséért vagy meghaladásáért felelős része. Az ilyen „szükséges technológia” több termék részét is képezheti.
+ML22 „Technológia”:
+A termékek „fejlesztéséhez”, „gyártásához” vagy üzemeltetéséhez, üzembe helyezéséhez, folyamatos üzemben
+tartásához (ellenőrzéséhez), javításához, nagyjavításához vagy felújításához szükséges egyedi információ. Ez az
+információ lehet ’műszaki adat’ vagy ’műszaki támogatás’. Az EU közös katonai listája szerinti meghatározott
+„technológia” fogalommeghatározását az ML22. fejezet tartalmazza.
+Technikai megjegyzés
+1. A ’műszaki adat’ lehet tervrajz, terv, ábra, modell, formula, táblázat, gépészeti terv és specifikáció, kézikönyv és
+útmutatás, akár írásban, akár más adathordozón, például mágneslemezen, mágnesszalagon vagy csak olvasható tárban
+rögzítve.
+2. A ’műszaki támogatás’ lehet útmutatások, készségek, képzés, a munkával kapcsolatos ismeretek átadása vagy
+konzultációs szolgáltatás. A ’műszaki támogatás’ magában foglalhatja a ’műszaki adatok’ átadását is.
+ML7 „Tömegoszlató harcanyagok”:
+olyan anyagok, amelyek - a tömegoszlatási célra történő tervezett felhasználásuk során - rövid idő alatt az emberi
+érzékszervek irritációját vagy a fizikai funkciók zavarát okozzák, amely hatások az anyagoknak való expozíció
+befejeződését követően rövid időn belül megszűnnek. (A könnygáz a „tömegoszlató harcanyagok” egyik fajtája.)
+ML22 „Tudományos alapkutatás”:
+kísérleti vagy elméleti munka, melynek alapvető célja új ismeretek megszerzése jelenségek vagy megfigyelhető
+tények alapelveiről, és elsődlegesen nem meghatározott gyakorlati cél vagy szándék elérésére irányul.
+ML 11 „Űrhajó”:
+aktív és passzív műholdak és űrszondák.
+ML19 „Űrminősítésű”:
+olyan termék, amelyet úgy terveztek és gyártottak, hogy alkalmas legyen - illetve amelyet sikeres tesztelést követően
+olyannak minősítettek, mint amely alkalmas - a Föld felszíne felett 100 kilométernél nagyobb magasságon való
+működésre.
+
+Megjegyzés: Az, hogy egy konkrét eszköz tesztelés révén űrminősítést kap, még nem jelenti azt, hogy az ugyanazon gyártási
+sorozatból vagy modellszériából származó más eszközök is „űrminősítésűek”, hacsak nem tesztelték külön azokat is.
+ML 17 „Üzemanyagcellák”:
+olyan elektrokémiai eszköz, amely képes egy külső forrásból kapott üzemanyag kémiai energiáját közvetlenül
+egyenárammá átalakítani.
+ML17 „Végeffektorok”:
+fogószerszámok, aktív szerszámegységek és minden egyéb olyan szerszám, amelyet a „robot” manipulátorkar végén
+lévő alaplapra erősítenek.
+Műszaki megjegyzés:
+„aktív szerszámegységek”: valamely munkadarab hajtóerejét vagy munkaenergiáját biztosító, vagy azt érzékelő eszközök.
+
+2. melléklet a ./2017. (. .) Korm. rendelethez
+A haditechnikai külkereskedelmi engedély iránti kérelmek elbírálásakor alkalmazandó egységes magatartási
+kritériumok
+1. Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
+A kiviteli engedély iránti kérelmet el kell utasítani, ha az engedély megadása összeegyeztethetetlen Magyarországnak:
+a) az Egyesült Nemzetek Szervezete, az Európai Unió, valamint az Európai Biztonsági és Együttműködési Szervezet által
+hozott fegyverembargók végrehajtására vonatkozó nemzetközi kötelezettségeivel és kötelezettségvállalásaival;
+b) az Atomsorompó-szerződésben (Nuclear Non-ProliferationTreaty, NPT), a Biológiai és Toxinfegyver-tilalmi
+Egyezményben (Biological and Toxin WeaponsConvention, BTWC), valamint a Vegyifegyver-tilalmi Egyezményben
+(ChemicalWeaponsConvention, CWC) vállalt nemzetközi kötelezettségeivel;
+c) a gyalogsági aknák minden formájának kivitelét tiltó kötelezettségvállalásával;
+d) az Ausztrália Csoport (Australia Group, AG), a Rakéta Technológiai Ellenőrzési Rendszer
+(MissileTechnologyControlRegime, MTCR), a Zangger-bizottság, a Nukleáris Szállítók Csoportja (NuclearSuppliers Group,
+NSG), a Wassenaar Megállapodás (WassenaarArrangement, WA) és a ballisztikus rakéták elterjedése elleni hágai
+magatartási kódex keretén belül vállalt kötelezettségeivel.
+2. Második kritérium: az emberi jogok tiszteletben tartása a fogadó (rendeltetési) országban és a nemzetközi
+humanitárius jog tiszteletben tartása a fogadó ország által.
+A kiviteli engedély iránti kérelmet el kell utasítani – a fogadó országnak a nemzetközi emberi jogi okmányokban
+megállapított vonatkozó alapelvekhez, valamint a nemzetközi humanitárius jogi alapelvekhez való viszonyának
+mérlegelését követően –, ha nyilvánvaló kockázata van annak, hogy az exportálandó katonai technológiát vagy
+felszerelést
+a) belső elnyomásra használhatják fel;
+b) a nemzetközi humanitárius jogot súlyosan sértő cselekményekre használhatják fel.
+A hatóság a katonai technológia vagy felszerelés jellegét is figyelembe véve, különös óvatossággal és éberséggel jár el az
+olyan országokba irányuló engedély iránti kérelmek elbírálásakor, amelyek esetében az Egyesült Nemzetek
+Szervezetének illetékes szervei, az Európai Unió vagy az Európa Tanács az emberi jogok súlyos megsértését állapította
+meg.
+E kritérium alkalmazása során belső elnyomásra használható technológiának vagy felszerelésnek kell tekinteni különösen
+azt a technológiát vagy felszerelést, amelyet, vagy amelyhez hasonlót a megjelölt végfelhasználó bizonyítottan belső
+elnyomásra használ, vagy amely esetében okkal feltételezhető, hogy a technológiát vagy felszerelést nem a
+meghatározott célra, vagy nem a feltüntetett végfelhasználó által, hanem belső elnyomás eszközeként használják fel. A
+felszerelés jellegét, különösen a belbiztonsági alkalmazásra szánt eszközök esetében gondosan tanulmányozni kell. A
+belső elnyomás körébe tartozik, többek között, a kínzás és más kegyetlen, embertelen és megalázó bánásmód vagy
+büntetés, a gyorsított eljárásban foganatosított vagy önkényes kivégzések, az eltűnések, az önkényes őrizetbe vétel és
+más, a vonatkozó nemzetközi emberi jogi okmányokban, ideértve az Emberi Jogok Egyetemes Nyilatkozatában és a
+Polgári és Politikai Jogok Nemzetközi Egyezségokmányában meghatározott, emberi jogokat és alapvető
+szabadságjogokat súlyosan sértő cselekmények.
+3. Harmadik kritérium: a fennálló feszültségekből vagy fegyveres konfliktusokból eredő belső helyzet a rendeltetési
+országban.
+Az olyan katonai technológia vagy felszerelésre irányuló kiviteli engedély iránti kérelmet el kell utasítani, amely a fogadó
+országban fegyveres konfliktus kitörését, vagy annak elhúzódását eredményezné, illetve a jelenlévő feszültségek vagy
+konfliktusok súlyosbodásához vezetne.
+2. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+4. Negyedik kritérium: a regionális béke, biztonság és stabilitás megőrzése.
+A kiviteli engedély iránti kérelmet el kell utasítani, ha nyilvánvaló a kockázata annak, hogy a címzett az exportálandó
+katonai technológiát vagy felszerelést egy másik ország elleni agresszióra használná fel, vagy arra, hogy erőszakkal
+szerezzen érvényt területi követelésének.
+E kockázatok mérlegelésekor különösen a következő körülményeket kell mérlegelni:
+a) a fogadó ország és egy másik ország közötti fegyveres konfliktus fennállása, illetve annak valószínűsége;
+b) a fogadó ország valamely szomszédjával szemben fennálló területi követelése, amelynek a múltban megpróbált
+erőszakkal, vagy erőszakkal való fenyegetéssel érvényt szerezni;
+c) annak valószínűsége, hogy katonai technológiát vagy felszerelést a fogadó ország nem jogos nemzeti biztonsági és
+védelmi célokra használja fel;
+d) annak figyelembevétele, hogy a kivitel a regionális stabilitást ne befolyásolja jelentős mértékben.
+5. Ötödik kritérium: a tagállamok és azon területek, melyeknek külkapcsolataiért valamely tagállam felel, valamint a baráti
+és a szövetséges országok nemzetbiztonsága.
+A kiviteli engedély iránti kérelem elbírálásakor a hatóság köteles mérlegelni a következő körülményeket:
+a) az exportálandó katonai technológia vagy felszerelés lehetséges hatása saját, a más tagállamok, valamint a baráti és
+szövetséges államok védelmi és biztonsági érdekeire, egyúttal elismerve azt, hogy ez a tényező nem befolyásolhatja az
+emberi jogok, a regionális béke, a biztonság és a stabilitás tiszteletére vonatkozó kritériumok mérlegelését;
+b) az érintett katonai technológiának vagy felszerelésnek a saját, a más tagállamok, valamint a baráti és a szövetséges
+államok erői elleni felhasználásának kockázatát.
+6. Hatodik kritérium: a vásárló országnak a nemzetközi közösséggel szemben tanúsított magatartása, különös tekintettel
+a terrorizmushoz való viszonyára, szövetségesi rendszerének jellegére és a nemzetközi jog tiszteletben tartására.
+A kiviteli engedély iránti kérelem elbírálásakor a hatóság köteles mérlegelni a vásárló ország korábbi magatartását az
+alábbi területeken:
+a) a terrorizmus és a nemzetközi szervezett bűnözés támogatása vagy ösztönzése;
+b) nemzetközi kötelezettségvállalásainak végrehajtása, különös tekintettel az erőszak alkalmazásáról való lemondásra, és
+a nemzetközi humanitárius jog tiszteletben tartására;
+c) a tömegpusztító fegyverek és ballisztikus rakétafegyverzet elterjedése elleni, valamint a fegyverzet-ellenőrzés és a
+leszerelés más területeivel kapcsolatos kötelezettségvállalásaira, különös tekintettel az első kritérium b) pontjában
+említett fegyverzet-ellenőrzési és leszerelési megállapodások aláírására, megerősítésére és végrehajtására.
+7. Hetedik kritérium: annak kockázata, hogy a katonai technológia vagy felszerelés a fogadó országon belül más
+végfelhasználóhoz jut, vagy nem kívánatos feltételek mellett újra kivitelre kerül.
+Annak értékelésekor, hogy az exportálandó katonai technológia vagy felszerelés milyen hatást gyakorol a fogadó
+országra, valamint hogy mekkora a kockázata annak, hogy az ilyen technológia vagy felszerelés nemkívánatos
+végfelhasználóhoz kerülhet, vagy nemkívánatos célra használják, a következőket kell mérlegelni:
+a) a fogadó ország jogos védelmi és belbiztonsági érdekei, beleértve az Egyesült Nemzetek Szervezetében, vagy más
+békefenntartó tevékenységben való bármilyen részvételt;
+b) a fogadó ország műszaki felkészültsége ilyen jellegű technológia vagy felszerelés használatára;
+c) a fogadó ország képessége hatékony exportellenőrzés alkalmazására;
+
+d) annak a kockázata, hogy az ilyen technológia vagy felszerelés nemkívánatos rendeltetési helyre újra kivitelre kerül,
+valamint a fogadó ország korábbi magatartása bármely, az exportáló tagállam által előírni célszerűnek ítélt újra kiviteli
+rendelkezés vagy újra kivitel előtti jóváhagyás tiszteletben tartására vonatkozóan;
+e) annak a kockázata, hogy az ilyen technológia vagy felszerelés terrorista szervezetekhez vagy személyekhez jut;
+f) a műszaki visszafejtés vagy technológia nem szándékos átadásának a kockázata.
+8. Nyolcadik kritérium: tekintettel az államoknak a jogos biztonsági és védelmi szükségleteire, valamint az emberi és
+gazdasági erőforrásokra, a katonai technológia vagy felszerelés kivitelének és a fogadó ország műszaki és gazdasági
+adottságainak összhangban kell lennie.
+A kiviteli engedély iránti kérelem elbírálásakor a hatóság figyelembe veszi – a megfelelő forrásokból, úgymint az ENSZ
+Fejlesztési Programjától (UNDP), a Világbanktól (World Bank), a Nemzetközi Valutaalaptól (IMF) és a Gazdasági
+Együttműködési és Fejlesztési Szervezet (OECD) jelentéseiből származó információkra is figyelemmel – azt, hogy a
+tervezett export nem hátráltatná-e súlyosan a fenntartható fejlődést a fogadó országban. Ebben az összefüggésben
+mérlegeli a fogadó ország katonai és szociális kiadásainak relatív szintjét, figyelembe véve bármilyen európai uniós vagy
+kétoldalú támogatást is.
+
+A tevékenységi engedély iránti kérelem tartalma
+
+I.
+A tevékenységi engedély iránti kérelem kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, a tevékenység gyakorlásának pontos helye, valamint további elérhetőségei,
+2. a kérelmezett tevékenység(ek)a 10. § (1) bekezdésének a)-c) pontja szerinti megnevezése,
+3. a kérelmezett tevékenységi engedély típusának 10. § (2) bekezdése szerinti megjelölése,
+4. a kérelmező EORI / VPID száma,
+5. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+6. gazdasági társaság esetében a cégjegyzékszáma, egyéni vállalkozó és költségvetési szerv esetében azok nyilvántartási
+száma,
+7. a természetes személy tulajdonosok, vezető tisztségviselők, valamint a haditechnikai tevékenységhez kapcsolódó
+munkakörben tevékenykedő alkalmazottak neve, születési helye és időpontja, anyja neve, lakcíme; gazdasági társaság
+tulajdonos esetén, a gazdasági társaság természetes személy tagjai, valamint vezető tisztségviselők neve, születési helye
+és időpontja, anyja neve, lakcíme;gazdasági társaság (nyilvánosan működő részvénytársaság kivételével) kérelmező,
+valamint tulajdonos (nyilvánosan működő részvénytársaság kivételével) esetén a társaság legfőbb szervében az egyes
+tagok által gyakorolható szavazati jog mértéke
+8. a tevékenység céljának meghatározása, a kérelem pontos indoklása, a tervezett tevékenység leírása, továbbá a
+gyártásra vagy szolgáltatásra vonatkozó TESZOR kód, TEÁOR szám feltüntetése,
+9. a haditechnikai eszköz kereskedelmi megnevezése, gyártási tevékenység esetén annak típusjele, egyértelmű
+azonosításához szükséges jellemző műszaki paraméterei,
+10. a haditechnikai eszköz 1. melléklet szerinti besorolása, továbbá
+
+haditechnikai eszköz gyártása, haditechnikai szolgáltatás nyújtása iránti kérelem esetén még az alábbi adatok:
+
+11. a tevékenység végzésére és a raktározásra szolgáló helyiségek műszaki-biztonsági szempontoknak megfelelő
+elválasztásának módja,
+12. a telephely használatának jogcíme és annak igazolása,
+13. a képződő hulladék kezelésének bemutatása, a környezetvédelemre és a hulladékgazdálkodásra vonatkozó
+jogszabályi előírások betartásának módja,
+14. amennyiben a tevékenység folytatásához vagy a titokvédelem érvényesítéséhez külön jogszabályban
+meghatározottak szerinti nemzetbiztonsági ellenőrzés szükséges, a lefolytatás időpontját, az ellenőrzést végző szerv
+megnevezése és az ellenőrzés eredménye.
+
+II.
+A tevékenységi engedély iránti érelemhez csatolandó okiratok
+1. Bármilyen jellegű haditechnikai tevékenység iránti kérelem esetén csatolandó:
+1.1.az összes számlavezető pénzintézet által 60 napnál nem régebben kiállított nyilatkozat (bankinformáció),
+1.2.a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya. Ha a vállalkozás cégjegyzékben
+nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által
+ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot,
+valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+1.3. amennyiben az ügyben nem a vállalkozás képviseletére jogosult jár el, az eljáró ügyintéző meghatalmazása,
+1.4. ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati
+igazolás arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló
+2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül.
+1.5. határon átnyúló szolgáltatás esetében a szolgáltató hitelt érdemlő igazolása, hogy az Európai Unió tagállamában
+vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban vállalkozásként bejegyezték,
+tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
+
+2. Kizárólag külkereskedelmi tevékenységre irányuló kérelem esetén csatolandó továbbá, kivéve ha a kérelem eseti
+tevékenységi engedély, kizárólag tranzit vagy kizárólag bróker tevékenyég végzésére irányul:
+2.1. a vállalkozás Belső Megfelelési Programja
+
+3.Haditechnikai eszköz gyártása, haditechnikai szolgáltatás nyújtása iránti kérelem esetén csatolandó okiratok továbbá:
+3.1. a kérelmező által működtetett minőségbiztosítási rendszer okiratának másolata, vagy a kérelmező nyilatkozata arról,
+hogy nem működtet független szervezet által auditált minőségbiztosítási rendszert,
+3.2. a kérelmező NATO beszállítói alkalmasságát igazoló okirat másolata, vagy a kérelmező nyilatkozata arról, hogy nem
+rendelkezik a beszállítói alkalmasságát igazoló okirattal,
+3. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+3.3. a haditechnikai termék gyártását vagy a haditechnikai szolgáltatás nyújtását szakterületenként közvetlenül irányító
+felelős vezető 4. melléklet szerinti szakmai szakképzettségének és gyakorlati idejének igazolása, szakmai
+tevékenységének bemutatása,
+3.4. a tevékenység végzéséhez szükséges, a kijelölt telephelyen elhelyezkedő épületek építési engedélyének azonosító
+adatai és az épületek méretarányos tervrajzai vagy az illetékes önkormányzat által kiadott azokat helyettesítő okiratok
+azonosító adatait,
+3.5. a telephelyen működő, engedélyhez kötött technológiai berendezések felsorolása, üzembe helyezésük adatai,
+3.6. az épületek, helyiségek és a haditechnikai termékek tároló helyének biztonsági berendezéseire vonatkozó adatok,
+műszaki leírásuk,
+3.7. A kérelmező nyilatkozata arról, hogya gyártáshoz vagy a szolgáltatások nyújtásához szükséges tárgyi feltételekkel,
+valamint a biztonsági előírások betartásának feltételeivel rendelkezik.
+
+4. melléklet a /2017. (. .) Korm. rendelethez
+Szakterületenként előírt szakképzettség és szakmai gyakorlati idő
+Szakterület
+megnevezése
+Szakképzettség (1) Gyakorlati idő (2)
+évben
+Az 1. melléklet szerinti fejezetek
+száma (ML)
+1.1. Fejlesztés,
+tervezés
+Szakirányú felsőfokú
+végzettség (3)
+10 I., II., III., IV., V., VII. (5), VIII., XI., XII.
+(6), XIV. (6), XV., XVII., XVIII., XIX.
+(6), XX. (6), XXI., XXII., XXIV., XXV.
+(7), XXVI.,
+1.2. 5 VI, IX, X. (6), XIII, XVI, XXIII.
+2.1. Alapanyaggyártás Szakirányú felsőfokú
+végzettség
+10 IV. (8), VII., VIII., XIII.,
+2.2. 5 XVI., XXIII., XXV.
+3.1. Szerszámgyártás Szakirányú felsőfokú
+végzettség
+5 I., II., III., IV., V., VI., VII., IX., X., XI.,
+XII., XIII., XIV., XV., XVI., XVII.,
+XVIII., XIX.,
+3.2. Szakirányú középfokú
+végzettség (4)
+10 XX., XXIII., XXV., XXVI.
+4.1. Gyártás,
+alkatrészgyártás
+Szakirányú felsőfokú
+végzettség
+5 I., II., III., IV., V., VI., VII. (9), VIII., IX.,
+X., XI., XII., XIII. (10), XIV., XV., XVI.,
+4.2. Szakirányú középfokú
+végzettség
+10 XVII., XVIII., XIX., XX., XXI., XXIII.,
+XXIV, XXV, XXVI.
+5.1. Szerelés Szakirányú felsőfokú
+végzettség
+10 III., VIII., XII., XIX., XX., XXIV. (11)
+5.2. 5 I., II., IV., V., VI., VII. (9), IX., X., XI.,
+XIII., XIV., XV., XVII., XVIII., XXV. (7),
+XXVI.,
+5.3. Szakirányú középfokú
+végzettség és speciális szakmai
+végzettség
+5 I. (12), II. (12), XXIII., XXV. (13)
+6.1. Minőségbiztosítás Szakirányú felsőfokú
+végzettség
+10 I, II, III. (14), IV. (15), V, VIII, XII, XIX,
+XX., XXI., XXII., XXIV.,
+6.2. 5 VI., VII. (9), IX., X., XI., XIII., XIV.,
+XV., XVI., XVII., XVIII., XXIII., XXV.,
+XXVI.
+6.3. Szakirányú középfokú
+végzettség és speciális szakmai
+végzettség
+10 I.(12), II. (12)
+7.1. Javítás Szakirányú felsőfokú
+végzettség
+10 I., II., III., IV., V., VIII., IX., X., XII., XIV.,
+XV., XVII., XVIII., XIX., XX., XXI.,
+XXII., XXIV., XXV. (7), XXVI.,
+7.2. 5 VI., VII., XI., XIII., XXIII., XXV. (13)
+7.3. Szakirányú középfokú
+végzettség és speciális szakmai
+végzettség
+10 I. (12), II. (12)
+8.1. Hatástalanítás,
+megsemmisítés
+Szakirányú felsőfokú
+végzettség
+10 I., II., III., IV., V., VII., VIII., IX., X., XII.,
+XIV., XV., XVII., XVIII., XIX., XX.,
+XXI., XXIV., XXV. (7), XXVI.,
+8.2. 5 VI., XI., XIII., XXII., XXIII., XXV. (13)
+8.3. Szakirányú középfokú
+végzettség és speciális szakmai
+végzettség
+10 I. (12), II. (12)
+4. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+9.1. Felkutatás Szakirányú felsőfokú
+végzettség és speciális szakmai
+végzettség
+5 III., IV. (16)
+9.2. Szakirányú középfokú
+végzettség és speciális szakmai
+végzettség
+
+Megjegyzések:
+(1) A kérelmezett tevékenység irányítására kijelölt felelős vezető szakirányú szakmai végzettsége
+(2) A kérelmezett tevékenység irányítására kijelölt felelős vezető szakterületen megszerzett gyakorlati ideje
+(3) Szakirányú felsőfokú végzettség: bőripari, gépész-, informatikai, közlekedési, ruhaipari, textil-, vegyész- és villamos
+okleveles mérnök, mérnök. A felsőoktatásról szóló 1993. évi LXXX. tv. szerint az egyetemi végzettséggel rendelkező
+személyek az „okleveles mérnök”, a főiskolai végzettségűek a „mérnök” címet viselhetik
+(4) Szakirányú középfokú végzettség: bőripari, cipőipari, gépipari, informatikai, közlekedési, ruhaipari, textilipari,
+vegyipari és villamos ipari technikus
+(5) Elfogadott szakirányú felsőfokú végzettség: biológus, vegyész
+(6) Elfogadott szakirányú felsőfokú végzettség: fizikus
+(7) Bűnfelderítő eszközök esetén
+(8) Elfogadott szakirányú felsőfokú végzettség: vegyész
+(9) Elfogadott szakirányú felsőfokú végzettség: biológus
+(10) Egyéb speciális szakismeret: ballisztika
+(11) Haditechnikai termék hatástalanítása, megsemmisítése és az azzal összefüggő tevékenységek esetén
+(12) Elfogadott speciális szakmai végzettség: puskaműves, fegyvermester, fegyver műszerész
+(13) Kényszerítő eszközök esetén
+(14) Kiegészítő szakmai végzettség: lőszergyártó
+(15) Kiegészítő szakmai végzettség: robbantómester, pirotechnikus
+(16) Speciális szakmai képzettség: lőszerfeltáró tanfolyam 2. szint és a Magyar Honvédségnél, vagy a BM tűzszerész
+szervezeténél szerzett tűzszerész vizsga és szakmai vezetői gyakorlat.
+
+5. melléklet a ./2017. (. .) Korm. Rendelethez
+A haditechnikai külkereskedelmi tárgyalási engedély iránti kérelem tartalma
+A haditechnikai külkereskedelmi tárgyalási engedély iránti kérelem kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+3. az ügylet jellegére történő utalás (kivitel, újra kivitel, szolgáltatás),
+4. a haditechnikai eszköznek
+4.1. az 1. melléklet szerinti besorolása,
+4.2. a vámtarifaszáma,
+4.3. a megnevezése,
+4.4. a mennyisége,
+4.5. a mértékegysége,
+4.6. az euróban meghatározott értéke,
+5. a külföldi szerződő partner neve, címe, székhelye,
+6. a végfelhasználó neve, címe, székhelye,
+7. az áru tulajdonosának (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye.
+5. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+6. melléklet a ./2017. (. .) Korm. rendelethez
+A haditechnikai termék kivitelére, újrakivitelére vagy kiszállítására és szolgáltatás nyújtására vonatkozó globális
+forgalmi engedély iránti kérelem tartalma
+I.
+A haditechnikai termék kivitelére, újrakivitelére vagy kiszállítására és szolgáltatás nyújtására vonatkozó globális forgalmi
+engedély iránti kérelem kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+3. az áru tulajdonosának (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye, adóazonosító száma,
+4. a külföldi szerződő partner neve, címe, székhelye,
+5. végfelhasználók neve, címe, székhelye,
+6. a kiszállítani kívánt haditechnikai eszköz
+6.1. 1. melléklet szerinti besorolása,
+6.2. megnevezése,
+6.3. vámtarifaszáma,
+6.4. mennyisége,
+6.5. mértékegysége,
+6.6. euróban meghatározott értéke,
+7. a végső felhasználás célja.
+II.
+Kérelemhez csatolandó okiratok
+1. Végfelhasználói Nyilatkozatt vagy Nemzetközi Import Igazolás vagy a végfelhasználás igazolására szolgáló más
+dokumentum,
+2. amennyiben a kérelmező nem azonos a tulajdonossal, az áru tulajdonosának meghatalmazása az áru értékesítésére.
+6. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+7. melléklet a ./2017. (. .) Korm. rendelethez
+A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkozó globális forgalmi engedély iránti
+kérelem tartalma
+I.
+A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkozó globális forgalmi engedély iránti kérelem
+kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+3. a belföldi szerződő partner (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye, adóazonosító száma,
+4. magyar végfelhasználó (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye,
+5. külföldi szerződő partner neve, címe, székhelye,
+6. a beszállítani kívánt haditechnikai eszköznek
+6.1. az 1. melléklet szerinti besorolása,
+6.2. a megnevezése,
+6.3. a vámtarifaszáma,
+6.4. a mennyisége,
+6.5. a mértékegysége,
+6.6. az euróban meghatározott értéke,
+7. a végső felhasználás célja,
+8. szükség esetén nemzetközi import igazolás kiadására irányuló kérelem,
+9. szükség esetén államilag megerősített végfelhasználói nyilatkozat iránti kérelem.
+II.
+Kérelemhez csatolandó okiratok
+1. a belföldi címzett, valamint a végső felhasználó Végfelhasználói Nyilatkozata,
+2. a Nemzetközi Import Igazolásra és a Végfelhasználói Nyilatkozatra, valamint a Szállítási Tanúsítványra vonatkozó
+kérelem, amennyiben azt a származási, illetve szerződő ország hatósága igényli.
+7. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+8. melléklet a ./2017. (. .) Korm. rendelethez
+A kivitelre, újrakivitelére vagy kiszállításra és szolgáltatás nyújtására vonatkozó egyedi forgalmi engedély iránti
+kérelem tartalma
+I.
+A kivitelre, újrakivitelére vagy kiszállításra és szolgáltatás nyújtására vonatkozó egyedi forgalmi engedély iránti kérelem
+kötelező tartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+3. az áru tulajdonosának (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye, adóazonosító száma,
+4. külföldi szerződő partner neve, címe, székhelye,
+5. a végfelhasználó (amennyiben nem egyezik a külföldi szerződő partnerrel) neve, címe, székhelye,
+6. a kiszállítani kívánt haditechnikai eszköz
+6.1. 1. melléklet szerinti besorolása,
+6.2. megnevezése,
+6.3. vámtarifaszáma,
+6.4. mennyisége,
+6.5. mértékegysége,
+6.6. euróban meghatározott értéke,
+7. a végső felhasználás célja,
+8. az ügylet devizamentes vagy ideiglenes jellegére történő utalás.
+II.
+Kérelemhez csatolandó okiratok
+1. Végfelhasználói Nyilatkozatt vagy Nemzetközi Import Igazolás vagy a végfelhasználás igazolására szolgáló más
+dokumentum,
+2. amennyiben a kérelmező nem azonos a tulajdonossal, az áru tulajdonosának meghatalmazása az áru értékesítésére.
+8. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+9. melléklet a ./2017. (. .) Korm. rendelethez
+A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkozó egyedi forgalmi engedély iránti
+kérelem tartalma
+I.
+A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkozó egyedi forgalmi engedély iránti kérelem
+kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+3. a belföldi szerződő partner (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye, adóazonosító száma,
+4. a magyar végfelhasználó (amennyiben nem egyezik a kérelmezővel) neve, címe, székhelye,
+5. a külföldi szerződő partner neve, címe, székhelye,
+6. a beszállítani kívánt haditechnikai eszköznek
+6.1. az 1. melléklet szerinti besorolása,
+6.2. a megnevezése,
+6.3. a vámtarifaszáma,
+6.4. a mennyisége,
+6.5. a mértékegysége,
+6.6. az euróban meghatározott értéke,
+7. a végső felhasználás célja,
+8. szükség esetén Nemzetközi Import Igazolás kiadására irányuló kérelem,
+9. szükség esetén államilag megerősített végfelhasználói nyilatkozat iránti kérelem,
+10. az ügylet devizamentes vagy ideiglenes jellegére történő utalás.
+II.
+Csatolandó okiratok
+1. a belföldi címzett, valamint a végső felhasználó Végfelhasználói Nyilatkozata,
+2. a Nemzetközi Import Igazolásra és a Végfelhasználói Nyilatkozatra, valamint a Szállítási Tanúsítványra vonatkozó
+kérelem, amennyiben azt a származási, illetve szerződő ország hatósága igényli.
+9. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+10. melléklet a ./2017. (. .) Korm. rendelethez
+Bróker engedély iránti kérelem tartalma
+I.
+Bróker engedély iránti kérelem kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+3. a haditechnikai eszköznek
+3.1. az 1. melléklet szerinti besorolása,
+3.2. a vámtarifaszáma,
+3.3. a megnevezése,
+3.4. a mennyisége,
+3.5. a mértékegysége,
+3.6. az euróban meghatározott értéke,
+4. az eladó partner neve, címe, székhelye,
+5. a vevő partner neve, címe, székhelye,
+6. a végfelhasználó neve, címe, székhelye,
+7. a végfelhasználás célja.
+II.
+Kérelemhez csatolandó okiratok
+1. Államilag megerősített Végfelhasználói Nyilatkozat vagy Nemzetközi Import Igazolás vagy a fogadó állam illetékes
+hatósága által kiállított beviteli engedély másolata
+2. Az ügyletet alátámasztó szerződés másolata
+10. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+11. melléklet a ./2017. (. .) Korm. rendelethez
+A tranzitengedély iránti kérelem tartalma
+I.
+A tranzitengedély iránti kérelem kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási
+száma),
+3. az eladó neve, címe,
+4. a címzett neve, címe,
+5. a vevő (amennyiben nem egyezik a címzettel) neve, címe,
+6. a szállítmányozó neve, címe,
+7. a feladás helye, időpontja,
+8. a célállomás ország, város szerinti megnevezése,
+9. magyar tranzit határállomások
+9.1. belépő,
+9.2. kilépő,
+10. az indító ország exportengedélyének száma, érvényessége,
+11. a címzett ország importengedélyének vagy nemzetközi import igazolásának vagy végfelhasználói nyilatkozatának
+száma, érvényessége,
+12. a kilépési irányban lévő ország által adott tranzitengedély száma, érvényessége,
+13. a szállító eszköz azonosítója,
+14. csomagolási adatok (bruttó-, nettó tömeg, Colli szám)
+15. a termék
+15.1. megnevezése,
+15.2. mennyisége,
+15.3. mértékegysége,
+15.4. vámtarifaszáma,
+15.5. veszélyességi besorolása (RID/ADR/DGR/UN).
+II.
+Kérelemhez csatolandó okiratok
+1. a hivatalos csomagolási listát vagy az I. 14. pontban meghatározott csomagolási részleteket is tartalmazó kereskedelmi
+számla,
+2. a szállítmányt indító ország kiviteli engedélye,
+3. a rendeltetési ország Végfelhasználói Nyilatkozata, beviteli engedélye, vagy Nemzetközi Import Igazolása,
+4. ha a rendeltetési hely nem szomszédos országban található, a tranzit kilépési irányba eső szomszédos ország
+tranzitengedélye.
+11. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+
+12. melléklet a 156/2017. (VI. 16.) Korm. rendelethez 12. melléklet a ./2017. (. .) Korm. rendelethez
+A 258/2012/EU rendelet szerinti kivitelre vonatkozó forgalmi engedély iránti kérelem tartalma
+I. A 258/2012/EU rendelet szerinti kivitelre vonatkozó forgalmi engedély iránti kérelem kötelező adattartalma:
+1. a kérelmező neve, címe, székhelye, valamint további elérhetőségei,
+2. a kérelmező adóazonosító száma, EORI száma (egyéni vállalkozó esetében az adóazonosító jele, egyéni vállalkozói
+nyilvántartási száma),
+3. külföldi szerződő partner neve, címe, székhelye, EORI száma
+4. a végfelhasználó (amennyiben nem egyezik a külföldi szerződő partnerrel) neve, címe, székhelye, EORI száma
+5. az ügynök, képviselő (amennyiben nem egyezik meg a kérelmezővel) adóazonosító száma, EORI száma (egyéni
+vállalkozó esetében az adóazonosító jele, egyéni vállalkozói nyilvántartási száma)
+6. kivitel szerinti országok, és azok két karakteres ISO betűkódja
+7. behozatal szerinti országok, és azok két karakteres ISO betűkódja
+8. tranzit harmadik országok, és azok két karakteres ISO betűkódja
+9. a tervezett kiviteli vámeljárás alá vonást végző EU tagállamok, és azok két karakteres ISO betűkódja
+10. a kiszállítani kívánt haditechnikai eszköznek
+10.1. az 1. melléklet szerinti besorolása,
+10.2. a megnevezése,
+10.3. a vámtarifaszáma,
+10.4. a mennyisége,
+10.5. a mértékegysége,
+10.6. az euróban meghatározott értéke,
+10.7. a jelölése,
+11. a végső felhasználás célja,
+12. az ügylet devizamentes vagy ideiglenes jellegére történő utalás.
+II. Csatolandó okiratok
+1. Végfelhasználói Nyilatkozat vagy Nemzetközi Import Igazolás, harmadik ország beviteli engedélye vagy a
+végfelhasználás igazolására szolgáló más dokumentum,
+2. amennyiben a kérelmező nem azonos a tulajdonossal, az áru tulajdonosának meghatalmazása az áru értékesítésére,
+3. tranzit harmadik országok illetékes hatósága által kiadott tranzitengedély, vagy a harmadik ország illetékes
+hatóságának nyilatkozata arról, hogy a tranzithoz hozzájárul vagy a haditechnikai eszköz tranzitja nem engedélyköteles.
