@@ -1,4 +1,4 @@
-## 5. Kötelező szerződések a tejágazatban
+## 5. Kötelező szerződések
 
 7. § (1) A nyerstej Magyarországon történő értékesítésére irányuló szerződést – a végső fogyasztó részére történő közvetlen értékesítés kivételével – a nyerstej feldolgozásáig a Rendelet 148. cikkében meghatározott tartalommal írásba kell foglalni.
 
