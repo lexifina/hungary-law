@@ -4,4 +4,6 @@
 
 (3) A tűzvizsgálati jelentés kiadására az összefoglaló jelentés záradékolását követően kerül sor.
 
-(4) Ha a tűz keletkezésének oka nem állapítható meg vagy nem bizonyítható, akkor azt a tűzvizsgálati jelentésben ismeretlenként kell megjelölni.
+(4)[^10] Ha a tűz keletkezéséhez vezető folyamat nem állapítható meg vagy nem bizonyítható, akkor azt a tűzvizsgálati jelentésben ismeretlenként kell megjelölni.
+
+[^10]: A 10. § (4) bekezdése a 10/2017. (VI. 1.) BM rendelet 12. §-a szerint módosított szöveg.
