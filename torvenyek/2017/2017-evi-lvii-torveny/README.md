@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-57-00-00
 | 2017-06-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-57-00-00.1 |
 | 2017-06-02 | 2010. évi CXXX. törvény | 2017-57-00-00.2 |
 | 2017-06-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-57-00-00.3 |
+| 2017-06-16 | 2010. évi CXXX. törvény | 2017-57-00-00.4 |
