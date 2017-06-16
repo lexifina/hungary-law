@@ -1,0 +1,1 @@
+49. § A felek eltérő megállapodásának hiányában a választottbírósági ítélet átvételét követő egy éven belül eljárásújításnak van helye, ha a fél olyan tényre vagy bizonyítékra hivatkozik, amelyet az alapeljárásban önhibáján kívül nem érvényesített, feltéve, hogy az – elbírálása esetén – a félre kedvezőbb határozatot eredményezhetett volna.
