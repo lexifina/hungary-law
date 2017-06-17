@@ -1,6 +1,6 @@
 ## 20. A pirotechnikai termék megsemmisítésének engedélyezése
 
-88. § (1)[^75] A megsemmisítési tevékenységre irányuló engedély iránti kérelmet a 3. melléklet 2. pontjában meghatározott tartalommal kell benyújtani.
+88. § (1)[^76] A megsemmisítési tevékenységre irányuló engedély iránti kérelmet a 3. melléklet 2. pontjában meghatározott tartalommal kell benyújtani.
 
 (2) A kérelemhez mellékelni kell
 
@@ -14,7 +14,7 @@ d) pirotechnikusi bizonyítvány másolatát,
 
 e) tűzvédelmi szakvizsga bizonyítvány másolatát.
 
-(2a)[^76] Az (1) bekezdés szerinti kérelem elbírálása során az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés a) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
+(2a)[^77] Az (1) bekezdés szerinti kérelem elbírálása során az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés a) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
 
 (3) Nem kell külön engedély a pirotechnikai termék, vagy e termékből származó robbanóanyagnak vagy pirotechnikai elegynek minősülő anyag megsemmisítésére annak a vállalkozásnak, amely
 
@@ -36,5 +36,5 @@ c) a megsemmisítési tevékenység megszüntetése esetén a tevékenység megs
 
 (6) Pirotechnikai anyagok megsemmisítése robbantással vagy elégetéssel történhet.
 
-[^75]: A 88. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^76]: A 88. § (2a) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 4. §-a iktatta be.
+[^76]: A 88. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^77]: A 88. § (2a) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 4. §-a iktatta be.

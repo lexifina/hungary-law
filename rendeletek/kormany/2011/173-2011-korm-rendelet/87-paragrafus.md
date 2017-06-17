@@ -6,8 +6,8 @@ b) a gyártás megindítását, a pirotechnikusok személyének megváltozását
 
 c) a gyártási tevékenység megszüntetése esetén a tevékenység megszüntetését nyolc napon belül az engedélyező hatóságnak írásban bejelenti,
 
-d)[^73] új pirotechnikai termék bevezetése esetén – a forgalomba hozatal megkezdése előtt – az ORFK-t értesíti, és megküldi a pirotechnikai termékre vonatkozó fontosabb műszaki, biztonságtechnikai paramétereket (típus, pirotechnikai osztály, UN szám, külső méret, kaliber, nettó hatóanyag-tartalom, TNT-egyenérték, működési magasság, biztonsági távolság nagysága, indítási mód, felhasználáshoz kapcsolódó különleges biztonsági intézkedések), valamint a biztonsági adatlapot, a műszaki dokumentációt és a megfelelőségi nyilatkozatot, amelyeket a forgalomba hozataltól számított 10 évig megőriz,
+d)[^74] új pirotechnikai termék bevezetése esetén – a forgalomba hozatal megkezdése előtt – az ORFK-t értesíti, és megküldi a pirotechnikai termékre vonatkozó fontosabb műszaki, biztonságtechnikai paramétereket (típus, pirotechnikai osztály, UN szám, külső méret, kaliber, nettó hatóanyag-tartalom, TNT-egyenérték, működési magasság, biztonsági távolság nagysága, indítási mód, felhasználáshoz kapcsolódó különleges biztonsági intézkedések), valamint a biztonsági adatlapot, a műszaki dokumentációt és a megfelelőségi nyilatkozatot, amelyeket a forgalomba hozataltól számított 10 évig megőriz,
 
 e) minden év február 15-ig megküldi az engedélyező hatóságnak az előző évben általa gyártott pirotechnikai termékekről szóló kimutatást, terméktípusonkénti bontásban.
 
-[^73]: A 87. § d) pontja a 100/2015. (IV. 20.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^74]: A 87. § d) pontja a 100/2015. (IV. 20.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.

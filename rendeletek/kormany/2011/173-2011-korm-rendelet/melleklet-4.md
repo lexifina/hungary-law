@@ -26,7 +26,7 @@
 
 2.4. A helyszínt úgy kell kiválasztani, hogy a felhasználandó pirotechnikai termék védőterületén belül potenciális veszélyforrás ne legyen.
 
-2.5.[^126] Amikor a telepítés és a működtetés nem egy napon kerül lebonyolításra, a telepítés kezdete és a termékek élesítése közötti időszakra a felelős pirotechnikus a ellenőrzött területnél kisebb lezárandó területet is meghatározhat. Ez esetben a telepítés kezdetétől a lezárt terület folyamatos őrzéséről gondoskodni kell.
+2.5.[^127] Amikor a telepítés és a működtetés nem egy napon kerül lebonyolításra, a telepítés kezdete és a termékek élesítése közötti időszakra a felelős pirotechnikus a ellenőrzött területnél kisebb lezárandó területet is meghatározhat. Ez esetben a telepítés kezdetétől a lezárt terület folyamatos őrzéséről gondoskodni kell.
 
 2.6. A felhasználási engedély beszerzését, illetve a felhasználással kapcsolatos bejelentés megtételét követően a felelős pirotechnikus a megrendelővel, illetve a tevékenység helye szerint illetékes rendőrkapitánysággal egyeztetve gondoskodik az esetleges útlezárás, forgalomelterelés, biztonsági őrzés-védelem, hajózási tilalom megvalósításáról, és veszélyhelyzet esetében a tűzijáték leállításáról, ha ezt a pirotechnikai tevékenység kivitelezése igényli, illetve, ha a területileg illetékes hatóságok követelményként előírták.
 
@@ -44,7 +44,7 @@
 
 3.5. A szerelési tevékenység esetében kizárólag a munkavégzéshez szükséges anyagokat lehet a helyszínen tartani. A szerelési tevékenységet olyan ruhában és eszközökkel kell végezni, amelyek elektrosztatikusan nem töltődnek fel. Ha szükséges, védőkesztyűt, illetve védőszemüveget kell használni.
 
-3.6.[^127] A szerelési tevékenység közben – az ellenőrzést végző hatóság képviselőjén kívül – idegen személy nem tartózkodhat a szerelési területen. A szerelő területet folyamatosan tisztán kell tartani, a kiszóródott vagy hulladékká vált pirotechnikai anyagot, robbanóanyagot, pirotechnikai elegyet külön tároló edénybe kell gyűjteni. Szerelés közben gyújtóforrást (nyílt lángot, nagy hőt vagy szikrát adó eszközt) a szerelő területen tartani és használni tilos.
+3.6.[^128] A szerelési tevékenység közben – az ellenőrzést végző hatóság képviselőjén kívül – idegen személy nem tartózkodhat a szerelési területen. A szerelő területet folyamatosan tisztán kell tartani, a kiszóródott vagy hulladékká vált pirotechnikai anyagot, robbanóanyagot, pirotechnikai elegyet külön tároló edénybe kell gyűjteni. Szerelés közben gyújtóforrást (nyílt lángot, nagy hőt vagy szikrát adó eszközt) a szerelő területen tartani és használni tilos.
 
 3.7. A pirotechnikai termék előkészítési megbontására, vágására csak olyan eszközök használhatók, amelyek elektrosztatikusan nem töltődnek és szikrát nem képeznek. Pirotechnikai elegyet tartalmazó termék vágására éles vágóéllel rendelkező vágószerszámot vagy ollót lehet használni.
 
@@ -62,7 +62,7 @@
 
 3.14. Az ellenőrzött területen az építmények tetőzetét előzetesen át kell vizsgálni, a nyílásokat le kell zárni, vagy nem éghető anyaggal le kell fedni.
 
-3.15.[^128] A felelős pirotechnikus az ellenőrzött területen bárhol elhelyezheti a működtetés helyét, ha a helyszínbejáráson még nem tapasztalt körülmények lépnek fel, amelyek növelik a pirotechnikai termék felhasználásának kockázatát. A felhasználási engedélyhez és a bejelentéshez csatolt helyszínrajzon bejelölt ellenőrzött terület megnövelhető, ha ez a tevékenység biztonságát fokozza. A változtatásról az engedélyező vagy a bejelentést tudomásul vevő hatóságot még a felhasználás megkezdése előtt legalább 2 órával értesíteni kell.
+3.15.[^129] A felelős pirotechnikus az ellenőrzött területen bárhol elhelyezheti a működtetés helyét, ha a helyszínbejáráson még nem tapasztalt körülmények lépnek fel, amelyek növelik a pirotechnikai termék felhasználásának kockázatát. A felhasználási engedélyhez és a bejelentéshez csatolt helyszínrajzon bejelölt ellenőrzött terület megnövelhető, ha ez a tevékenység biztonságát fokozza. A változtatásról az engedélyező vagy a bejelentést tudomásul vevő hatóságot még a felhasználás megkezdése előtt legalább 2 órával értesíteni kell.
 
 3.16. A felelős pirotechnikus a telepítést az ellenőrzött terület kijelölésével, lezárásával vagy elkerítésével kezdi. Ha a területet kerítés, fal vagy más egyéb természetes akadály határolja, a lezárás, illetve az elkerítés elhagyható. A pirotechnikai termék felhasználásának megkezdése előtt tizenkét órával a kordon távolságaként a kilövő helytől minimálisan annyit kell hagyni, mint a felhasznált pirotechnikai termékek legnagyobb védőterülete. Ha a telepítés megkezdése és a pirotechnikai termék felhasználásának megkezdése között több mint tizenkét óra telik el, a telepítés megkezdése és a pirotechnikai termék felhasználásának megkezdése előtti 12. óra közötti időszakra a felelős pirotechnikus állapítja meg a kordon távolságát. Ez esetben a telepítés kezdetétől a lezárt terület folyamatos őrzéséről gondoskodni kell.
 
@@ -70,7 +70,7 @@
 
 3.18. A pirotechnikai termék felhasználásának megkezdése előtt 2–12 órával a tevékenység területe szerint illetékes tűzoltóság közvetlen, vagy a tűzoltóság központi hívószámán a tevékenység megkezdéséről tájékoztatni kell a működési terület szerint illetékes tűzoltóság ügyeletét.
 
-3.19.[^129] A telepítés során
+3.19.[^130] A telepítés során
 
 3.19.1. a pirotechnikai termékek szerelésében közreműködhet nagykorú személy (segítő), aki
 
@@ -86,7 +86,7 @@
 
 3.21. Vetőcsövet, római gyertyát úgy kell kalodában elhelyezni, hogy még ferde kilövési állásban se tudjon elfordulni, felborulni. A kalodába – ha a látványterv kifejezetten ettől nem tér el – a vetőcsövet, római gyertyát úgy kell kötegelni, hogy a kötegelés szimmetrikus alakzatot adjon.
 
-3.22.[^130] Telepítéskor ügyelni kell arra, hogy a lövés irányában akadály ne legyen. A nézők felett átlőni vagy az ellenőrzött területen belül a nézők irányába lőni tilos.
+3.22.[^131] Telepítéskor ügyelni kell arra, hogy a lövés irányában akadály ne legyen. A nézők felett átlőni vagy az ellenőrzött területen belül a nézők irányába lőni tilos.
 
 3.23. A kilövés irányát és szögét – az adott időjárási viszonyoknak megfelelően – úgy kell megválasztani, hogy a visszahulló anyagok a környezetet ne veszélyeztessék.
 
@@ -104,7 +104,7 @@ A gyújtószikra-érzékeny pirotechnikai terméket nem éghető védőfóliáva
 
 3.29. A felelős pirotechnikus az indító áramforrást a terv szerinti működtetés megkezdése előtt 5 perccel csatlakoztatja az indító áramkörbe. Beépített akkumulátorral, illetve beépített hálózat-ellenőrző rendszerrel ellátott indítógépek esetében a korábbi csatlakoztatás is megengedett.
 
-3.30.[^131] A pirotechnikai termék felhasználása során az ellenőrzött területen az indítást végző személyzet kivételével más személy nem tartózkodhat. Az indítás előtt az indítást végző pirotechnikus meggyőződik arról, hogy illetéktelen személy nem tartózkodik az ellenőrzött területen.
+3.30.[^132] A pirotechnikai termék felhasználása során az ellenőrzött területen az indítást végző személyzet kivételével más személy nem tartózkodhat. Az indítás előtt az indítást végző pirotechnikus meggyőződik arról, hogy illetéktelen személy nem tartózkodik az ellenőrzött területen.
 
 3.31. Ha a pirotechnikai termék felhasználása közben bármilyen okból illetéktelen személy hatol be az ellenőrzött területre, a felhasználást a felelős pirotechnikus – ha ez lehetséges – leállítja, és addig nem folytatja, amíg az illetéktelen behatoló a területet el nem hagyta.
 
@@ -186,20 +186,20 @@ rendelkezik vészkapcsolóval, és
 
 6.3. A felelős pirotechnikus a felhasználás során indított, de el nem működött pirotechnikai terméket összegyűjti, az eredetileg nem izzógyújtóval szerelt termékről az izzógyújtót leszereli, és külön-külön tároló eszközbe teszi. A felszerelést kizárólag ezt követően szabad visszabontani. Nagy kiterjedésű telepítés esetében az elkülönülő részek visszabontását más részektől függetlenül is meg lehet kezdeni.
 
-6.4.[^132] A felelős pirotechnikus az eszközöket, az ellenőrzött területet és környezetét is átvizsgálja, hogy az esetleg tűz keletkezését kiváltó parázs, zsarátnok ne maradjon.
+6.4.[^133] A felelős pirotechnikus az eszközöket, az ellenőrzött területet és környezetét is átvizsgálja, hogy az esetleg tűz keletkezését kiváltó parázs, zsarátnok ne maradjon.
 
-6.5.[^133] A felelős pirotechnikus az ellenőrzött terület megtisztítását és ellenőrzését követően az ellenőrzött területet határoló kordont lebontja.
+6.5.[^134] A felelős pirotechnikus az ellenőrzött terület megtisztítását és ellenőrzését követően az ellenőrzött területet határoló kordont lebontja.
 
-6.6.[^134] A felelős pirotechnikus a helyszínt akkor hagyhatja el, ha az ellenőrzött területet átvizsgálta, és azt rendben levőnek találta. A távozás időpontját az engedélyen fel kell jegyezni.
+6.6.[^135] A felelős pirotechnikus a helyszínt akkor hagyhatja el, ha az ellenőrzött területet átvizsgálta, és azt rendben levőnek találta. A távozás időpontját az engedélyen fel kell jegyezni.
 
 6.7. A pirotechnikai termék felhasználása során keletkező hulladék pirotechnikai anyagot a felelős pirotechnikus összegyűjti, és átadja egy olyan vállalkozásnak, amely jogosult annak megsemmisítésére.
 
-[^126]: A 4. melléklet 2.5. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 23. pontja szerint módosított szöveg.
-[^127]: A 4. melléklet 3.6. pontja a 100/2015. (IV. 20.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
-[^128]: A 4. melléklet 3.15. pontja a 100/2015. (IV. 20.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
-[^129]: A 4. melléklet 3.19. pontja a 288/2016. (IX. 22.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^130]: A 4. melléklet 3.22. pontja a 100/2015. (IV. 20.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
-[^131]: A 4. melléklet 3.30. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^132]: A 4. melléklet 6.4. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
-[^133]: A 4. melléklet 6.5. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25–26. pontja szerint módosított szöveg.
-[^134]: A 4. melléklet 6.6. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^127]: A 4. melléklet 2.5. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^128]: A 4. melléklet 3.6. pontja a 100/2015. (IV. 20.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
+[^129]: A 4. melléklet 3.15. pontja a 100/2015. (IV. 20.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
+[^130]: A 4. melléklet 3.19. pontja a 288/2016. (IX. 22.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^131]: A 4. melléklet 3.22. pontja a 100/2015. (IV. 20.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
+[^132]: A 4. melléklet 3.30. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 24. pontja szerint módosított szöveg.
+[^133]: A 4. melléklet 6.4. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^134]: A 4. melléklet 6.5. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25–26. pontja szerint módosított szöveg.
+[^135]: A 4. melléklet 6.6. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.

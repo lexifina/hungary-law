@@ -1,4 +1,4 @@
-## 80. §[^66] A 14–15. §-ban, a 72. §-ban, a 104. § (2) bekezdésében, a 108. § (3) bekezdésében és a 109. § (8) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztóvédelemről szóló 1997. évi CLV. törvényben meghatározott hatóság jár el.
+## 80. §[^67] A 14–15. §-ban, a 72. §-ban, a 104. § (2) bekezdésében, a 108. § (3) bekezdésében és a 109. § (8) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztóvédelemről szóló 1997. évi CLV. törvényben meghatározott hatóság jár el.
 
 ## VII. Fejezet
 
@@ -6,16 +6,16 @@
 
 ## 18. Az engedélyezési eljárás közös szabályai
 
-81. § (1)[^67] Az e rendelet szerinti tárolási engedéllyel rendelkező vállalkozásnak nem kell engedély a színpadi és az egyéb pirotechnikai termék megvásárlásához, birtoklásához, valamint ezek használati és kezelési útmutatóban előírt célra és módon történő felhasználásához.
+81. § (1)[^68] Az e rendelet szerinti tárolási engedéllyel rendelkező vállalkozásnak nem kell engedély a színpadi és az egyéb pirotechnikai termék megvásárlásához, birtoklásához, valamint ezek használati és kezelési útmutatóban előírt célra és módon történő felhasználásához.
 
 (2) Nem kell engedély a gyártónak a gyártási engedélyében szereplő, általa gyártott pirotechnikai termék telephelyén történő forgalmazásához.
 
 (3) A biztonsági követelményeknek megfelelő pirotechnikus által kialakított tárolóhelyen, egy időben összesen legfeljebb 20 kg nettó hatóanyag-tartalmú pirotechnikai termék a felhasználás megkezdését megelőző, és az azt követő öt napon belül külön engedély nélkül tárolható átmeneti tárolóhelyen.
 
-(4)[^68] Az 1. és 2. pirotechnikai osztályba tartozó tűzijáték terméket, valamint a T1. és a P1. pirotechnikai osztályba tartozó terméket az a vállalkozás forgalmazhat, amely megfelel a lőfegyverekről és lőszerekről szóló törvényben és az e rendeletben meghatározott feltételeknek, továbbá a 2. pirotechnikai osztályba tartozó tűzijáték termékek, valamint a T1. és a P1. pirotechnikai osztályba tartozó termékek forgalmazása esetén az értékesítést végző személy rendelkezik pirotechnikusi szakképesítéssel. A vállalkozás köteles erre irányuló szándékát a rendőrségnek bejelenteni.
+(4)[^69] Az 1. és 2. pirotechnikai osztályba tartozó tűzijáték terméket, valamint a T1. és a P1. pirotechnikai osztályba tartozó terméket az a vállalkozás forgalmazhat, amely megfelel a lőfegyverekről és lőszerekről szóló törvényben és az e rendeletben meghatározott feltételeknek, továbbá a 2. pirotechnikai osztályba tartozó tűzijáték termékek, valamint a T1. és a P1. pirotechnikai osztályba tartozó termékek forgalmazása esetén az értékesítést végző személy rendelkezik pirotechnikusi szakképesítéssel. A vállalkozás köteles erre irányuló szándékát a rendőrségnek bejelenteni.
 
 (5) Az a vállalkozás, amely valamely EGT-tagállamban polgári célú pirotechnikai termék vizsgálatára, forgalmazására, tárolására, kiállítására, illetve megsemmisítésére vonatkozó engedélyt szerzett, és e tevékenységét határon átnyúló szolgáltatás keretében kívánja végezni, köteles ezt a tevékenység helye szerinti rendőr-kapitányságnak bejelenteni.
 
-[^66]: A 80. § a 100/2015. (IV. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^67]: A 81. § (1) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^68]: A 81. § (4) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^67]: A 80. § a 100/2015. (IV. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^68]: A 81. § (1) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^69]: A 81. § (4) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

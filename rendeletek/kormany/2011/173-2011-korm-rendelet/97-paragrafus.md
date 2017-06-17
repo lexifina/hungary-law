@@ -1,6 +1,6 @@
 ## 24. A pirotechnikai termék tárolásának engedélyezése
 
-97. § (1)[^94] A tárolási engedély iránti kérelmet a 3. melléklet 7. pontjában meghatározott tartalommal kell benyújtani.
+97. § (1)[^95] A tárolási engedély iránti kérelmet a 3. melléklet 7. pontjában meghatározott tartalommal kell benyújtani.
 
 (2) A tárolási engedély iránti kérelemhez mellékelni kell
 
@@ -28,9 +28,9 @@ k) a tűzvédelmi szakvizsga bizonyítvány másolatát.
 
 (3) A tárolásra szolgáló létesítmény tulajdonjogát vagy használati jogát a kérelmet benyújtó vállalkozás igazolja a kérelem benyújtásakor. Ha a kérelmező vállalkozás a tulajdonjogát vagy használati jogát nem igazolja, az engedélyező hatóság az engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordulhat a tulajdonjogról és használati jogról nyilvántartást vezető hatósághoz.
 
-(3a)[^95] Az (1) bekezdés szerinti kérelem elbírálása során – ha a tárolásra épületben kerül sor – az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés b) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
+(3a)[^96] Az (1) bekezdés szerinti kérelem elbírálása során – ha a tárolásra épületben kerül sor – az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés b) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
 
 (4) Az engedélyező hatóság által kiadott tárolási engedély visszavonásig hatályos.
 
-[^94]: A 97. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^95]: A 97. § (3a) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^95]: A 97. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^96]: A 97. § (3a) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.

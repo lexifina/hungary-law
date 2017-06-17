@@ -1,6 +1,6 @@
 ## 22. Pirotechnikai termékek forgalmazásának engedélyezése
 
-93. § (1)[^79] A forgalmazási engedély iránti kérelmet a 3. melléklet 4. pontjában meghatározott tartalommal kell benyújtani.
+93. § (1)[^80] A forgalmazási engedély iránti kérelmet a 3. melléklet 4. pontjában meghatározott tartalommal kell benyújtani.
 
 (2) A kérelemhez mellékelni kell
 
@@ -14,10 +14,10 @@ d) pirotechnikusi bizonyítvány másolatát,
 
 e) tűzvédelmi szakvizsga bizonyítvány másolatát.
 
-(3)[^80] A forgalmazáshoz kapcsolódó tárolás esetében a kérelemnek tartalmaznia kell a 97. § (2) bekezdés a)–e) és h)–i) pontjában meghatározott dokumentumokat, valamint a 3. melléklet 7. pontjában meghatározott adatokat is.
+(3)[^81] A forgalmazáshoz kapcsolódó tárolás esetében a kérelemnek tartalmaznia kell a 97. § (2) bekezdés a)–e) és h)–i) pontjában meghatározott dokumentumokat, valamint a 3. melléklet 7. pontjában meghatározott adatokat is.
 
-(4)[^81] Az (1) bekezdés szerinti kérelem elbírálása során az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés a) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
+(4)[^82] Az (1) bekezdés szerinti kérelem elbírálása során az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés a) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
 
-[^79]: A 93. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^80]: A 93. § (3) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^81]: A 93. § (4) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 6. §-a iktatta be.
+[^80]: A 93. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^81]: A 93. § (3) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^82]: A 93. § (4) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 6. §-a iktatta be.

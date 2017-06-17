@@ -1,6 +1,6 @@
 104. § (1) 1. és 2. pirotechnikai osztályba tartozó tűzijáték termék
 
-a)[^108] közintézményben, középületben, sportlétesítményben, egyházi jogi személy által használt helyiségben, védett természeti területen, valamint rendezvény helyszínéül szolgáló nyilvános helyen pirotechnikus jelenlétében és irányításával használható fel,
+a)[^109] közintézményben, középületben, sportlétesítményben, egyházi jogi személy által használt helyiségben, védett természeti területen, valamint rendezvény helyszínéül szolgáló nyilvános helyen pirotechnikus jelenlétében és irányításával használható fel,
 
 b) tömegközlekedési eszközön nem használható fel, és csak zárt csomagolásban szállítható,
 
@@ -10,4 +10,4 @@ c) magánszemély által közúti és gyalogos közlekedésre (út, járda, híd
 
 (3) Az 1. és 2. pirotechnikai osztályba tartozó tűzijáték termék alkalmas tárolóhely hiányában a 26. §-ban foglaltak szerint is tárolható.
 
-[^108]: A 104. § (1) bekezdés a) pontja a 300/2014. (XII. 5.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^109]: A 104. § (1) bekezdés a) pontja a 300/2014. (XII. 5.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.

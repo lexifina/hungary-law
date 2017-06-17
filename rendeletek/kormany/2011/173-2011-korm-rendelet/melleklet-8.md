@@ -6,7 +6,7 @@
 
 | 3 | (1) Az EU-típusvizsgálati eljárást végző bejelentett szervezet esetében mindig kitöltendő. Az egyedi termék-hitelesítési eljárás vagy a termék teljes minőségbiztosítása esetén nem kell kitölteni. Jelezze, ha más bejelentett szervezetet is érintett (ha ismert az információ). |
 
-8. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^136]
+8. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^138]
 
 (.... sz.) EU–MEGFELELŐSÉGI NYILATKOZAT*
 
@@ -30,4 +30,4 @@
 
 * Amennyiben a pirotechnikai termékre több olyan európai uniós jogi aktus alkalmazandó, amely EU-megfelelőségi nyilatkozatot ír elő, az annak való megfelelés érdekében egyetlen EU-megfelelőségi nyilatkozatot állítanak ki. Ez a nyilatkozat tartalmazza az érintett európai uniós jogi aktusok azonosítását, ideértve közzétételük hivatkozásait is.
 
-[^136]: A 8. mellékletet a 100/2015. (IV. 20.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^138]: A 8. mellékletet a 100/2015. (IV. 20.) Korm. rendelet 27. § (2) bekezdése iktatta be.

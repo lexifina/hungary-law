@@ -4,8 +4,8 @@
 
 a) az engedélyezett termékek beszerzését a forgalmazóval hitelt érdemlően igazoltatja, és
 
-b)[^105] a tűzijáték végrehajtásáról, a fel nem használt termékekről nyolc napon belül írásban, bejelentés esetében elektronikus úton tájékoztatja az engedélyező hatóságot,
+b)[^106] a tűzijáték végrehajtásáról, a fel nem használt termékekről nyolc napon belül írásban, bejelentés esetében elektronikus úton tájékoztatja az engedélyező hatóságot,
 
 c) a hibás vagy lejárt felhasználhatósági idejű pirotechnikai terméket köteles a vásárlás helyére visszaszállítani, a forgalmazó köteles azt térítésmentesen és költség felszámítása nélkül visszavenni.
 
-[^105]: A 102. § b) pontja a 288/2016. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^106]: A 102. § b) pontja a 288/2016. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
