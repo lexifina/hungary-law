@@ -1,3 +1,5 @@
+## központosított beszedési számlára kell befizetni.
+
 1/A. §[^4] (1)[^5] A 2011. január 1-jét megelőzően kiszabott, 2011. január 1-jét követően esedékes egészségügyi bírságot az 1. §-ban foglaltak megfelelő alkalmazásával azon fővárosi és megyei kormányhivatal számlájára kell megfizetni, amelynek illetékességi területén működő járási hivatal a bírságot kiszabta.
 
 (2)[^6]
