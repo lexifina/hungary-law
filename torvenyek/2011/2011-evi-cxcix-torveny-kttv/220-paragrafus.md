@@ -1,6 +1,6 @@
 ## A helyettes államtitkár
 
-220. § (1) Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki egyetemi szintű végzettséggel és jogász vagy közgazdász, vagy közigazgatási menedzser szakképzettséggel, vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
+220. § (1) Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki jogász mesterképzési szakon szerzett szakképzettséggel vagy közigazgatási mesterképzési szakon szerzett okleveles közigazgatási szakértő vagy okleveles közigazgatási menedzser szakképzettséggel vagy gazdaságtudományok képzési területen alap- vagy mesterképzésben szerzett közgazdász szakképzettséggel, vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
 
 (2) A helyettes államtitkárt a miniszter javaslatára a miniszterelnök határozatlan időre nevezi ki.
 

@@ -38,7 +38,7 @@
 
 15a. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
 
-16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés b) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
+16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés c) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
 
 17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és megyei kormányhivatal;
 
