@@ -1,0 +1,1 @@
+A Kormány a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 15. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
