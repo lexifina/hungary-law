@@ -26,7 +26,8 @@ b) másodfokú eljárás lefolytatására az Országos Rendőr-főkapitányság
 
 rendelkezik hatáskörrel.
 
-(3) Az Stv. 68. § (11) bekezdése alapján kiszabott bírság összegét a bírságot kiszabó határozat jogerőre emelkedésétől számított 30 napon belül az ORFK Magyar Államkincstárnál vezetett 10023002-01451715-00000000 számú számlájára kell befizetni.
+(3)[^49] A bírságot az eljáró hatóság jogerős határozatában megjelölt a Magyar Államkincstár által e célra létrehozott központosított beszedési számlaszámra átutalási megbízás útján vagy készpénzátutalási megbízással kell megfizetni a bírságot kiszabó határozat jogerőre emelkedésétől számított 30 napon belül. Az átutalási megbízás vagy készpénzátutalási megbízás közlemény rovatában a „bírság” szó feltüntetése mellett a kötelezett nevére és a határozat számára kell hivatkozni.
 
 [^47]: A 19/A. §-t a 162/2011. (VIII. 18.) Korm. rendelet 12. §-a iktatta be.
 [^48]: A 19/A. § (1) bekezdés d) pontja a 172/2013. (V. 30.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 19/A. § (3) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
