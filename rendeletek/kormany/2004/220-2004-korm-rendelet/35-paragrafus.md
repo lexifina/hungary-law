@@ -24,7 +24,7 @@ j)[^123] felszíni vízbe, csapadékvíz elvezető hálózatba engedély nélkü
 
 ## a vízvédelmi hatóság az e rendelet 2. számú melléklete 2/II. pontjában meghatározott vízvédelmi bírság megfizetésére kötelezi.
 
-(2)[^124] A vízvédelmi bírságot az erről rendelkező határozat jogerőre emelkedését követő harminc napon belül kell a határozatban megjelölt számlára a vízvédelmi hatóság részére befizetni.
+(2)[^124] A vízvédelmi bírságot az erről rendelkező határozat jogerőre emelkedését követő harminc napon belül kell a határozatban megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlára a vízvédelmi hatóság részére befizetni.
 
 [^115]: A 35. § (1) bekezdés zár szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
 [^116]: A 35. § (1) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
@@ -35,4 +35,4 @@ j)[^123] felszíni vízbe, csapadékvíz elvezető hálózatba engedély nélkü
 [^121]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
 [^122]: A 35. § (1) bekezdés i) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése szerint módosított szöveg.
 [^123]: A 35. § (1) bekezdés j) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^124]: A 35. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^124]: A 35. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 137/2017. (VI. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
