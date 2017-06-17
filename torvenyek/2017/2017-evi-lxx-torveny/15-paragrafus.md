@@ -1,0 +1,3 @@
+15. § Az Nkt. 75. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az oktatásért felelős miniszternek a köznevelési közszolgálati feladatok megszervezéséhez szükséges döntései előkészítése céljából a hivatal tankerületi központ illetékességi területe szerinti bontásban, fenntartó típusonként évente jelentést készít az oktatásért felelős miniszter számára a KIR-ben rendelkezésre álló adatok felhasználásával a nevelési-oktatási intézményi férőhelyek és a nevelésben-oktatásban részt vevő gyermekek, tanulók létszámának alakulásáról. A jelentést az oktatásért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.”

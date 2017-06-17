@@ -1,0 +1,3 @@
+17. § Az Nkt. 90. §-a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a működés helye szerinti állam belső joga vagy nemzetközi szerződés ezt lehetővé teszi, Magyarországon működő magyar szakképző iskola tagintézménye külföldön folytathat nevelési-oktatási, szakképzési tevékenységet és ehhez kapcsolódóan kollégiumi ellátást az oktatásért felelős miniszter engedélyével és a szakképzésért és felnőttképzésért felelős miniszter, valamint az érintett szakképesítésért felelős miniszter egyetértésével. A tagintézmény nyilvántartásba vételére a (4) és (5) bekezdésben foglaltakat kell alkalmazni. A köznevelési intézmény felett a 79. § (2) bekezdése szerinti hatósági ellenőrzési jogkört az érintett szakképesítésért felelős miniszter gyakorolja.”
