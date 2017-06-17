@@ -24,6 +24,7 @@ k) a jogsértéssel érintett termék műszaki specifikációknak való megfelel
 
 l) a termék potenciális környezetkárosító hatását.
 
-(2) A bírságot a BM OKF 10023002-00283494-20000002 számú bírság letéti számla javára kell befizetni. A befizetés során az átutalás közlemény rovatában fel kell tüntetni a „piacfelügyeleti bírság” szöveget, a határozat számát és a bírságfizetésre kötelezett nevét.
+(2)[^4] A bírságot a bírságot kiszabó határozat jogerőre emelkedésétől számított 15 napon belül a határozatban megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlára kell befizetni.
 
 [^3]: A 3. § (1) bekezdés h) pontja a 275/2013. (VII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
