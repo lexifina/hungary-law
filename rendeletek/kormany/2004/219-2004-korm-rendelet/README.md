@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-219-20-
 | 2016-01-01 | 2004-219-20-22.30 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-06-15 | 2004-219-20-22.31 | 100/2016. (V. 13.) Korm. rendelet |
 | 2017-01-01 | 2004-219-20-22.32 | 118/2008. (V. 8.) Korm. rendelet |
+| 2017-06-17 | 2004-219-20-22.33 | 221/2014. (IX. 4.) Korm. rendelet |
