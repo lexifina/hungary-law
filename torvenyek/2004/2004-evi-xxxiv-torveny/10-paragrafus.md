@@ -10,4 +10,6 @@ a) értékeli a KKV-k állami támogatásának hatékonyságát, valamint kidolg
 
 b) kidolgozza és jóváhagyásra a Kormány elé terjeszti a KKV-k fejlesztésének stratégiáját, a KKV-fejlesztési politika fő célkitűzéseit és javaslatokat tesz a KKV-k fejlesztését szolgáló intézkedésekre,
 
-c) az egységes európai piac folyamataiba való bekapcsolódás, illetve részvétel érdekében gondoskodik a KKV-k felkészítésével, és fejlesztésével kapcsolatos állami feladatok végrehajtásáról.
+c) az egységes európai piac folyamataiba való bekapcsolódás, illetve részvétel érdekében gondoskodik a KKV-k felkészítésével, és fejlesztésével kapcsolatos állami feladatok végrehajtásáról,
+
+d) elősegíti a KKV-k számára hasznosítható ismeretek és tudás, a hazai és külföldi kutatási és fejlesztési eredmények megismerését, elterjesztését, illetve a KKV-k innovációs képességének javítását.

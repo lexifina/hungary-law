@@ -18,8 +18,8 @@ a) összes foglalkoztatotti létszáma 10 főnél kevesebb, és
 
 b) éves nettó árbevétele vagy mérlegfőösszege legfeljebb 2 millió eurónak megfelelő forintösszeg.
 
-(4) Nem minősül KKV-nak az a vállalkozás, amelyben az állam vagy az önkormányzat közvetlen vagy közvetett tulajdoni részesedése – tőke vagy szavazati joga alapján – külön-külön vagy együttesen meghaladja a 25%-ot.
+(4) Nem minősül KKV-nak az a vállalkozás, amelyben az állam vagy az önkormányzat közvetlen vagy közvetett tulajdoni részesedése – tőke vagy szavazati joga alapján – külön-külön vagy együttesen eléri vagy meghaladja a 25%-ot.
 
-(5) A (4) bekezdésben foglalt korlátozó rendelkezést nem kell alkalmazni a 19. § 1. pontjában meghatározott befektetők részesedése esetében.
+(5) A (4) bekezdésben foglalt korlátozó rendelkezést nem kell alkalmazni, ha a 19. § 1. pontjában meghatározott befektetők állnak a vállalkozással a 4. § (2) bekezdése szerinti kapcsolatban.
 
 (6) Ahol jogszabály ,,KKV-t'', ,,mikro-, kis- és középvállalkozást'', illetve ,,kis- és középvállalkozást'' említ, azon – ha törvény másként nem rendelkezik az e törvény szerinti KKV-t kell érteni.

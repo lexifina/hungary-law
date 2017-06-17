@@ -1,6 +1,6 @@
 ## A Vállalkozásfejlesztési Tanács
 
-15. § A Vállalkozásfejlesztési Tanács (a továbbiakban: VT) részt vesz a KKV-fejlesztési stratégia kialakításában, ennek keretében:
+15. § A Vállalkozásfejlesztési Tanács (a továbbiakban VfT) részt vesz a KKV-fejlesztési stratégia kialakításában, ennek keretében:
 
 a) javaslatot tesz a KKV-fejlesztési stratégia megalapozását szolgáló szakmai programokra és intézkedésekre,
 

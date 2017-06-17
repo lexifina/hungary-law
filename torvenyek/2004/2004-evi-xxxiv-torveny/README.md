@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-34-00-00
 | 2015-09-11 | 2015. évi CXXXVII. törvény | 2004-34-00-00.20 |
 | 2015-12-12 | 2015. évi CXCII. törvény | 2004-34-00-00.21 |
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 2004-34-00-00.22 |
+| 2017-06-17 | 2017. évi LXXII. törvény | 2004-34-00-00.23 |

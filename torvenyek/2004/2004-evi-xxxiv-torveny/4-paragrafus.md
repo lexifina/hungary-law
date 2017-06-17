@@ -1,10 +1,10 @@
 4. § (1) Önálló vállalkozás az a vállalkozás, amely nem minősül a (2) bekezdésben foglaltak alapján partnervállalkozásnak, illetve a (3)–(6) bekezdésben foglaltak alapján kapcsolódó vállalkozásnak.
 
-(2) Partnervállalkozás az,
+(2) Partnervállalkozások azok a vállalkozások,
 
-a) amely a (3)–(6) bekezdésben foglaltak alapján nem minősül kapcsolódó vállalkozásnak, és
+a) amelyek a (3)–(6) bekezdésben foglaltak alapján nem minősülnek kapcsolódó vállalkozásoknak, és
 
-b) amelyben más vállalkozásnak kizárólagosan vagy több kapcsolódó vállalkozásnak együttesen, illetve amelynek más vállalkozásban kizárólagosan vagy több kapcsolódó vállalkozással együttesen a tulajdoni részesedése – jegyzett tőkéje vagy szavazati joga alapján – legalább 25%.
+b) amelyek között olyan kapcsolat áll fenn, hogy egy vállalkozás kizárólagosan vagy a (3)–(6) bekezdésben foglaltak szerinti egy vagy több kapcsolódó vállalkozással közösen valamely másik vállalkozás jegyzett tőkéjének vagy a szavazati jogának legalább 25%-ával rendelkezik.
 
 (3) Kapcsolódó vállalkozások azok, amelyek egymással az alábbiakban felsorolt valamely kapcsolatban állnak:
 
@@ -16,7 +16,7 @@ c) egy vállalkozás egy másik vállalkozás felett a tulajdonosokkal (részvé
 
 d) egy vállalkozás egy másik vállalkozásban – más tulajdonosokkal (részvényesekkel) kötött megállapodás alapján – a szavazatok többségét egyedül birtokolja.
 
-(4) Kapcsolódó vállalkozásnak minősülnek azok a vállalkozások is, amelyek egy vagy több vállalkozáson keresztül állnak egymással a (3) bekezdésben felsorolt kapcsolatban.
+(4) Kapcsolódó vállalkozásnak minősülnek azok a vállalkozások és a 19. § 1. pontjában meghatározott befektetők is, amelyek egy vagy több másik vállalkozáson keresztül állnak egymással a (3) bekezdésben meghatározott kapcsolatban.
 
 (5) Kapcsolódó vállalkozásnak minősülnek továbbá azok a vállalkozások, amelyek egy természetes személy vagy közösen fellépő természetes személyek egy csoportja révén a (3) és (4) bekezdésben meghatározott jellegű kapcsolatban állnak egymással, amennyiben tevékenységüket vagy tevékenységük egy részét az érintett piacon vagy egymással szomszédos piacokon folytatják.
 
