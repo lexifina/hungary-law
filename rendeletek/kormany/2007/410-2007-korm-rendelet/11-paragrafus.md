@@ -2,12 +2,12 @@
 
 11. §[^21] (1)[^22]
 
-(2)[^23] A 2011. január 1-jét követően kiszabott bírságokból származó bevételt az ORFK a 10. § (1) bekezdésben meghatározott célelszámolási számlájáról havonta átvezeti a Magyar Államkincstárnál vezetett „Objektív felelősségből származó közigazgatási bírságbevétel” elnevezésű 10032000-01031805-00000000 számú számlára.
+(2)[^23]
 
 (3)–(5)[^24]
 
 [^20]: A 10/A. §-t a 69/2009. (IV. 2.) Korm. rendelet 4. §-a iktatta be, szövege a 10/2011. (II. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^21]: A 11. § a 10/2011. (II. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^22]: A 11. § (1) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.
-[^23]: A 11. § (2) bekezdése a 71/2011. (IV. 28.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^23]: A 11. § (2) bekezdését a 137/2017. (VI. 9.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^24]: A 11. § (3)–(5) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.
