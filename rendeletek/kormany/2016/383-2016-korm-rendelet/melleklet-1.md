@@ -1,4 +1,4 @@
-## 82. §[^29]
+## 82. §[^30]
 
 1. melléklet a 383/2016. (XII. 2.) Korm. rendelethez
 
@@ -676,4 +676,4 @@ Zalaegerszegi járás
 
 Zalaszentgróti járás
 
-[^29]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
