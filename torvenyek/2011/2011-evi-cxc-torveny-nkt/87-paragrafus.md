@@ -6,7 +6,7 @@
 
 (4)
 
-(5) Az országos pedagógiai-szakmai ellenőrzésben az a köznevelési szakértő vehet részt, aki a külön jogszabályban előírt továbbképzés követelményeit teljesítette. Az intézmény ellenőrzésében részt vevő szakértő kijelöléséhez a fenntartó egyetértése szükséges.
+(5) Az országos pedagógiai-szakmai ellenőrzésben az a köznevelési szakértő vehet részt, aki a külön jogszabályban előírt továbbképzés követelményeit teljesítette.
 
 (6) A köznevelési intézményben a munkáltatói jogok gyakorlása során az országos pedagógiai-szakmai ellenőrzés eredményét figyelembe kell venni.
 

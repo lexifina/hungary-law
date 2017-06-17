@@ -1,0 +1,1 @@
+59/A. § A többnapos tanulmányi és a külföldi iskolai kirándulások esetében – külön jogszabályban meghatározott – felelősségbiztosítást kell kötni az iskolának vagy a szervezőnek, amelynek kedvezményezettje a tanuló.

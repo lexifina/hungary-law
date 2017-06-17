@@ -62,6 +62,8 @@ lehet,
 
 4. egész napos iskola: iskolaszervezési forma, ahol a tanórai és más foglalkozásokat a délelőtti és délutáni időszakra egyenletesen szétosztva szervezik meg, működését, feltételrendszerét az oktatásért felelős miniszter jogszabályban határozza meg,
 
+4a. egészségügyi és pedagógiai célú habilitáció, rehabilitáció: a szakértői bizottság szakértői véleményében meghatározott fejlesztési területekre és a fejlesztéshez szükséges szakemberre vonatkozó javaslat figyelembevételével a sajátos nevelési igényű gyermek, tanuló egyéni szükségleteinek támogatására, az akadályok leküzdésére, új funkciók kialakítására és a környezeti feltételek optimalizálására irányuló kötelező foglalkozás,
+
 5. egyéb foglalkozás: a tanórákon kívüli egyéni vagy csoportos, pedagógiai tartalmú foglalkozás, amely a tanulók fejlődését szolgálja,
 
 6. emelt szintű oktatás: meghatározott tantárgy kerettanterv szerinti magasabb követelményekkel történő tanítása,
@@ -93,6 +95,8 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 14. kiemelten tehetséges gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki átlag feletti általános vagy speciális képességek birtokában magas fokú kreativitással rendelkezik, és felkelthető benne a feladat iránti erős motiváció, elkötelezettség,
 
 15. közösségi szolgálat: szociális, környezetvédelmi, a tanuló helyi közösségének javát szolgáló, szervezett keretek között folytatott, anyagi érdektől független, egyéni vagy csoportos tevékenység és annak pedagógiai feldolgozása,
+
+15a. külföldi iskolai kirándulás: azonos nevelési-oktatási intézménnyel tanulói jogviszonyban álló legalább hét tanuló részvételével, a nevelési-oktatási intézménnyel foglalkoztatási jogviszonyban pedagógus- vagy nevelő oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy felügyeletével megszervezett a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá nem tartozó állam területére irányuló térítésköteles kirándulás,
 
 16. magán köznevelési intézmény: a 2. § (3) bekezdés b) pont bc) és bd) alpontjában meghatározott személy által fenntartott köznevelési intézmény,
 

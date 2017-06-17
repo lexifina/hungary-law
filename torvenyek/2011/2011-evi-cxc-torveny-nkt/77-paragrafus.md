@@ -33,3 +33,23 @@ k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési
 (5) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.
 
 (6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.
+
+(7) Az oktatási jogok biztosa
+
+a) az oktatásért felelős miniszternek tartozik felelősséggel,
+
+b) tevékenységét határozatlan idejű vezetői munkakört betöltő kormánytisztviselőként kormányzati szolgálati jogviszonyban végzi,
+
+c) jogosult a megbízatásának megfelelő cím használatára.
+
+(8) Az oktatási jogok biztosa
+
+a) vezeti az oktatási jogok biztosa hivatalát,
+
+b) előzetesen véleményt nyilvánít a hivatalának munkatársaival kapcsolatos munkáltatói intézkedésekkel kapcsolatosan,
+
+c) feladatai végrehajtásában nem kérhet és nem fogadhat el utasítást,
+
+d) nem járhat el olyan ügyben, amelyben tőle pártatlan feladatellátás nem elvárható,
+
+e) a d) pont szerinti körülményt köteles haladéktalanul írásban jelezni az oktatásért felelős miniszternek, egyidejűleg az adott ügyben az alapvető jogok biztosának eljárását kezdeményezni.

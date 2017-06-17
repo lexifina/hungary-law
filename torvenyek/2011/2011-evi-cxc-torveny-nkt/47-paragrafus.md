@@ -24,7 +24,7 @@ c) a fejlesztési területek szakértői bizottság által történő meghatáro
 
 (9) A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben
 
-a) a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
+a) a c) és d) pontban, valamint a 3. mellékletben foglalt kivétellel a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
 
 aa) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja a sajátos nevelési igényből eredő hátrány csökkentése,
 
@@ -38,7 +38,9 @@ ba) ha az óvodai foglalkozás, a tanórai foglalkozás elsődlegesen nem a saj�
 
 bb) az egyéb foglalkozáshoz, a kollégiumi foglalkozáshoz,
 
-c) az enyhe értelmi fogyatékos tanulók idegen nyelv oktatását elláthatja gyógypedagógus végzettséggel és szakképzettséggel, továbbá „komplex” típusú felsőfokú államilag elismert nyelvvizsga bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkező pedagógus is.
+c) az enyhe értelmi fogyatékos tanulók idegen nyelv oktatását elláthatja gyógypedagógus végzettséggel és szakképzettséggel, továbbá „komplex” típusú felsőfokú államilag elismert nyelvvizsga-bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkező pedagógus,
+
+d) az enyhe értelmi fogyatékos tanulók rajz, testnevelés, technika, ének-zene, etika, a középsúlyos értelmi fogyatékos tanulók rajz, technika, ének-zene, etika, valamint az egyes kerettantervek által tartalmilag ezekkel egyenértékű tantárgyak oktatását elláthatja a tantárgynak megfelelő szakos tanár is.
 
 (10) A sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember utazó gyógypedagógusi, utazó konduktori hálózat útján is biztosítható.
 

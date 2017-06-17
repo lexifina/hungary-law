@@ -42,4 +42,18 @@ b) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél tö
 
 (14) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor legfeljebb egy alkalommal a gyakornoki idő lejártáig gyakornokként alkalmazható az is, aki a nyelvvizsga letétele kivételével a pedagógus-munkakör betöltéséhez előírt végzettséget és szakképzettséget igazoló oklevél kiadásának feltételeit teljesítette. Ebben az esetben a minősítő vizsga letételének feltétele az előírt nyelvvizsga-bizonyítvány megszerzése. Amennyiben a gyakornok az előírt határidőig a nyelvvizsga-bizonyítványt nem szerzi meg, közalkalmazotti jogviszonya, munkaviszonya e törvény erejénél fogva megszűnik.
 
-(15) 2016. szeptember 1-jétől szakközépiskolában a középfokú nevelés-oktatásban a 9–11. évfolyamon főiskolai szintű végzettséggel és tanári szakképzettséggel is betölthető pedagógus-munkakör, feltéve, hogy a mesterfokozatú, a tantárgynak megfelelő szakos tanári végzettséget és szakképzettséget 2021. szeptember 1-jéig megszerzi az érintett. Ezt a rendelkezést nem kell alkalmazni és pedagógus-munkakörben a szakközépiskolában továbbra is alkalmazható, de az érettségi vizsgán vizsgáztató tanár nem lehet az, akinek a rá irányadó öregségi nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van hátra.
+(15)
+
+(16) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor a megfelelő pedagógus-szakképzettség megszerzéséig, de legfeljebb egy alkalommal, vagy több egymást követő jogviszony esetén mindösszesen öt évig határozott időre foglalkoztatható az is, aki
+
+a) a tantárgynak megfelelő szakmai tanár felsőfokú végzettségi szinttel és szakképzettséggel,
+
+b) felsőfokú végzettségi szinttel és a tantárgynak megfelelő, felsőoktatásban természettudomány képzési területen szerzett szakképzettséggel,
+
+c) alapfokú művészeti iskolában felsőoktatásban művészet képzési terület szakján szerzett művészeti tárgynak megfelelő felsőfokú végzettségi szinttel és előadóművész-szakképzettséggel
+
+rendelkezik, feltéve, hogy vállalja a megfelelő tanári szakképzettség megszerzését.
+
+(17) A tánc és dráma tantárgyat 9–12. évfolyamon taníthatja az is, aki magyar nyelv és irodalom szakos tanári szakképzettséggel rendelkezik, valamint elsajátította a tantárgy oktatásához szükséges elméleti és módszertani ismereteket a 98. § (14) bekezdés szerinti továbbképzésben vagy a tantárgy szakirányának megfelelő felsőfokú végzettséggel és szakképzettséggel is rendelkezik.
+
+(18) Alapfokú művészeti iskolában az azonos tanszakhoz tartozó tantárgyakat taníthatja az is, aki bármely, az adott tanszakhoz tartozó tantárgy tanításához megfelelő felsőfokú végzettségi szinttel és szakképzettséggel rendelkezik, és vállalja, hogy a 98. § (14) bekezdés szerint elsajátítja a tantárgy tanításának módszertanát. E bekezdésben foglaltak szerint legfeljebb egy alkalommal, vagy több egymást követő jogviszony esetén mindösszesen öt évig határozott időre foglalkoztatható az is, aki vállalja a megfelelő tanári szakképzettség megszerzését.
