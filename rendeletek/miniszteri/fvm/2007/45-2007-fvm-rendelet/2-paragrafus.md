@@ -1,9 +1,0 @@
-## 1. § A fás szárú energetikai ültetvény telepítéséhez kizárólag az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet követelményeinek megfelelő, engedélyes termelő által előállított, minősített szaporítóanyagot lehet felhasználni.
-
-2. § (1) A fás szárú energetikai ültetvényekben engedélyezhető minden erdészeti és energetikai célú fajta, amely az Európai Unió valamely tagállamában és az Európai Gazdasági Térségről szóló megállapodásban részes más államban, továbbá valamennyi olyan államban elismert, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, illetve a nemzeti szaporítóanyag-forrás jegyzékben, fajtajegyzékben szerepel, a Közösségi Növényfajta Hivatal nyilvántartásában megtalálható, illetve Magyarországon állami elismerést kapott és e rendelet 1. számú mellékletében felsorolt alapfajok valamelyikéből levezethető. Sarjaztatásos típusú fás szárú energetikai ültetvény kizárólag nyár, fűz és akác fajokból létesíthető.
-
-(2) Az R. 2. § (2) bekezdés a) pontjában meghatározott igazolást – kérelemre – nyár és fűz fajok esetében a fajtatulajdonos, akác esetében az Erdészeti Tudományos Intézet adja ki.
-
-(3) Az igazolás az R. 2. § (2) bekezdés a) pontjában meghatározottakon felül tartalmazza az adott fajra, illetve fajtára vonatkozó ideális termőhelyi adottságok megjelölését, valamint a fajtatulajdonos igazolása esetén a magyarországi használatra vonatkozó felhatalmazást is.
-
-(4) Az R. 3. § (4) bekezdése alapján védett természeti területen, valamint a védett természeti területnek nem minősülő Natura 2000 területen fehér akác (Robinia pseudoacacia) telepítése nem engedélyezhető.
