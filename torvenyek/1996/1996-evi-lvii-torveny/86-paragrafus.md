@@ -18,6 +18,12 @@ e) kártérítést és – személyiségi joga megsértése esetén – sérelem
 
 f) követelheti, hogy a jogsértő szolgáltasson adatot a jogsértéssel érintett áruk előállításában, forgalmazásában résztvevőkről, valamint az ilyen áruk terjesztésére kialakított üzleti kapcsolatokról.
 
+(2a) Ha a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt). 9. § (1) bekezdés c) pontja szerinti nemzetközi szerződés e §-t rendeli alkalmazni, e § a 93/B. §-sal együtt alkalmazandó.
+
+(2b) A Kbt. 9. § (1) bekezdés c) pontja szerinti beszerzések esetén az ajánlattételi felhívás alapján indult eljárás ideiglenes intézkedéssel történő felfüggesztésének nincs helye.
+
+(2c) A Kbt. 9. § (1) bekezdés c) pontja szerinti beszerzések esetén a (2) bekezdésben meghatározott jogkövetkezmények közül – már megindított beszerzési eljárás esetén – az ajánlattételi felhívás megsemmisítésének, az ajánlatkérő eltiltása a szerződés megkötésétől vagy a szerződés Ptk. szerinti érvénytelensége megállapításának és az eredeti állapot helyreállításának alkalmazása kizárt.
+
 (3) A 4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perekben az érdekelt fél a (2) bekezdésben foglaltakon túl a keresetben követelheti
 
 a) a jogsértéssel elért gazdagodás visszatérítését,

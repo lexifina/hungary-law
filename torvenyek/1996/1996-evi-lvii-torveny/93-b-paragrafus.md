@@ -1,0 +1,1 @@
+93/B. § A Kbt. 9. § (1) bekezdés c) pontja szerinti beszerzés esetén a 7. § alkalmazásában kizárólag az Egyezmény szerinti külön eljárás (beszerzési szabályzat) megsértése, az ajánlati felhívás megsértése vagy a beszerzés tárgyához nem kapcsolódó alkalmassági feltétel alkalmazása minősül a verseny tisztaságát sértő magatartásnak.
