@@ -40,4 +40,6 @@ m) a közérdekű feladatok, valamint az érintett gazdasági társaságok tevé
 
 m)
 
-n) az m) pontban meghatározott gazdasági társaságok közül a kormányzati tevékenység összehangolásáért felelős miniszter rendelete által kijelölt gazdasági társaságok részére, az m) pont szerinti feladat hatékonyabb végzése céljából, kizárólagos joggal történő szolgáltatásnyújtásban.
+n) az m) pontban meghatározott gazdasági társaságok közül a kormányzati tevékenység összehangolásáért felelős miniszter rendelete által kijelölt gazdasági társaságok részére, az m) pont szerinti feladat hatékonyabb végzése céljából, kizárólagos joggal történő szolgáltatásnyújtásban;
+
+o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában.

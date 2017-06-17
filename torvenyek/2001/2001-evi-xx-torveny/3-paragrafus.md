@@ -42,6 +42,8 @@ h) valutával, devizával – ide nem értve a pénzváltási tevékenységet �
 
 i) pénzügyi szolgáltatás közvetítése.
 
+(2a) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a 2. § o) pontjában szereplő feladatához kapcsolódóan iratok – kockázatvállalásból eredő kitettséget nem eredményező – formai vizsgálatát végezheti.
+
 (3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból finanszírozott operatív programokhoz kapcsolódó feladatokat láthat el, így különösen:
 
 a) támogatott pályázatok kezelését;
