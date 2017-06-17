@@ -25,5 +25,3 @@ c) 16. §-ának g) pontja, 23/B. §-ának (2) bekezdése, 31/C. §-a, 48. §-án
 d) 16. §-ának h) pontja, 31/C. §-a és 210/B. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
 
 e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
-
-f) 23/B. §-ának (1) bekezdése, 31/C. §-a, 37/B. §-a, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése és 210/A. §-a a polgári és kereskedelmi ügyekben a joghatóságról, valamint a bírósági határozatok végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet,
