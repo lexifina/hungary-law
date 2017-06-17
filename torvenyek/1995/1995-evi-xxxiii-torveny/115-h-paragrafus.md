@@ -8,6 +8,8 @@ b) nemzetközi szabadalmi, ipari mintaoltalmi, védjegy- és eredetmegjelölési
 
 (2a) A Hivatal – külön jogszabály alapján – ellátja a kutatás-fejlesztési tevékenység előzetes minősítésének feladatait, valamint közreműködik olyan szakkérdések eldöntésében, amelyek a tevékenység kutatás-fejlesztésnek való minősítését, valamint egyes költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetőségét érintik.
 
+(2b) A Hivatal – jogszabály alapján – ellátja a korai fázisú vállalkozásokat támogató vállalkozások által igénybe vehető adóalap-kedvezményre való jogosultság igazolásához kapcsolódó nyilvántartásba vétellel, továbbá a nyilvántartásból való törléssel összefüggő feladatokat.
+
 (3) A Hivatal gondoskodik – külön jogszabály alapján – az Iparjogvédelmi Szakértői Testület működtetéséről.
 
 (4) A Hivatal a szerzői és a szerzői joghoz kapcsolódó jogokkal összefüggésben – külön jogszabályok alapján – különösen a következő feladatokat látja el:
