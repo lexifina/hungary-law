@@ -49,3 +49,7 @@
 (31)
 
 (32) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 79. § (3a) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésekor meglévő értékpapírszámláikat legkésőbb 2016. december 31-éig kötelesek megszüntetni.
+
+(33) A nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti, a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2018. január 1-jétől valósul meg.
+
+(34) A Nemzeti Média- és Hírközlési Hatóság esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti feladatoknak és kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2017. október 1-jétől valósul meg.
