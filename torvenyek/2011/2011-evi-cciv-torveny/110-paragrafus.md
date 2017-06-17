@@ -112,7 +112,7 @@ b) határozza meg a 97. § (3) bekezdése szerinti egészségügyi szolgáltató
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-a) az oktatási jogok biztosa hivatalának feladatait, szervezetének és működésének szabályait, a hivatal vezetőjének juttatásait, tevékenységének irányítását,
+a) az oktatási jogok biztosának a felsőoktatást érintő feladatait, eljárását, továbbá az e feladatok ellátásával összefüggésben az általa vezetett hivatal szervezetének és működésének szabályait,
 
 b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
 

@@ -1,4 +1,4 @@
-48/O. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltételt teljesítettnek tekinti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt nem képes megszerezni.
+48/O. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltételt teljesítettnek tekinti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt, vagy más váratlan ok miatt, önhibáján kívül nem képes megszerezni.
 
 (2) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § b)–d) pontja alapján meghatározott feltételt vagy annak egy részét teljesítettnek tekinti, ha a hallgató a kötelezettségét megváltozott munkaképességére tekintettel, tartós betegsége, balesete, szülés, kettő vagy több gyermek nevelésére tekintettel vagy más váratlan ok miatt, önhibáján kívül nem képes teljesíteni.
 

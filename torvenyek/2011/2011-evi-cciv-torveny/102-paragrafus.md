@@ -24,6 +24,10 @@ e) a középiskolai tanárképzés osztatlan képzésben – a Kormány által m
 
 (3) A képzésben részt vevőket a Kormány – az állami ösztöndíj mellett – pályázati eljárásban odaítélt Klebelsberg Képzési Ösztöndíjjal támogatja. Az ösztöndíj igénybevételének rendjét, feltételeit a Kormány rendeletben állapítja meg.
 
+(3a) A Klebelsberg Képzési Ösztöndíjjal támogatott képzésre tekintettel megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás.
+
+(3b) Az állami adó- és vámhatóság a visszatérítési kötelezettség érvényesítésére folytatott végrehajtási eljárásában a végrehajtási jogot az ingatlan-nyilvántartásba a magyar állam javára jegyezteti be.
+
 (4) A pedagóguspályára jelentkezőknek a felvételi eljárás keretében alkalmassági vizsgán kell részt venniük.
 
 (5) A Kormány határozza meg a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait és szakirányait, választható egyenrangú szakpárjait és szakirányait, továbbá a mesterképzés szakosodási rendszerének általános szabályait. A miniszter rendeletben határozza meg az egyes tanári szakok képzési és kimeneti követelményeit.

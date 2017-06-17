@@ -24,15 +24,19 @@ c)
 
 (4e)
 
-(5)
+(5) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 12. § (7) bekezdés e) pontja alapján 2019. június 30-ig a szenátust meg kell választani.
 
-(6)
+(6) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 28. § (1a) bekezdése alkalmazása során azon tanársegédeket, akik 2018. szeptember 1-jéig megfelelnek a foglalkoztatási követelményrendszerben meghatározott feltételeknek és doktori fokozattal legalább három éve rendelkeznek, legkésőbb 2018. szeptember 1-jén adjunktusi munkakörbe kell átsorolni.
 
 (7) E törvénynek – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2017. évi XXV. törvénnyel (a továbbiakban: Módtv2.) megállapított – 9. § (2a) és (2b) bekezdésében, 76. § (1) és (1a) bekezdésében meghatározott feltételeket – föderatív állam esetében annak központi kormányzatával létrejött előzetes megállapodás kivételével – a 2017. szeptember 1-jén magyarországi működési engedéllyel rendelkező külföldi felsőoktatási intézménynek 2018. január 1-jéig kell teljesíteni. Föderatív állam esetén az ennek alapjául szolgáló előzetes megállapodást a Módtv2. hatálybalépését követő hat hónapon belül kell megkötni. A feltételeket nem teljesítő külföldi felsőoktatási intézmény működési engedélyét az oktatási hivatal visszavonja és 2018. január 1-jét követően a külföldi felsőoktatási intézmény magyarországi képzésének első évfolyamára hallgató nem vehető fel azzal, hogy a 2018. január 1-jén már megkezdett magyarországi képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2020/2021-es tanévben – fejezhetők be.
 
 (8)
 
-(9)–(12)
+(9)
+
+(10) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 103. § (3) bekezdésére tekintettel az állami felsőoktatási intézmények legkésőbb az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvény hatálybalépését követő egy éven belül módosítják a szervezeti és működési szabályzatukat.
+
+(11)–(12)
 
 (13)
 
@@ -45,6 +49,8 @@ c)
 (17) A Szent István Egyetemből kiváló Állatorvos-tudományi Kar 2016. július 1. napjától Állatorvostudományi Egyetemként jön létre.
 
 (18) A Kecskeméti Főiskola és a Szolnoki Főiskola összeolvadásával a Pallasz Athéné Egyetem 2016. július 1. napjától jön létre.
+
+(18a) A Pallasz Athéné Egyetem 2017. augusztus 1. napjától Neumann János Egyetem megnevezéssel működik.
 
 (19) A Károly Róbert Főiskola és az Eszterházy Károly Főiskola összeolvadásával az Eszterházy Károly Egyetem 2016. július 1. napjától jön létre.
 

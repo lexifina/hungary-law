@@ -12,6 +12,8 @@ c) a már megkezdett képzési időszak végéig, az adott képzési időszakra 
 
 feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségeinek szülés, továbbá baleset, betegség vagy más váratlan ok miatt, önhibáján kívül nem tud eleget tenni.
 
+(2a) Ha a felsőoktatási intézmény a (2) bekezdés c) pontja szerint a hallgatói jogviszony szünetelését engedélyezi, az adott képzési időszakra vonatkozó bejelentkezést visszavontnak kell tekinteni, azzal, hogy a már megkezdett, de a szüneteléssel érintett képzési időszakra vonatkozóan a bejelentkezés jogkövetkezményei nem állapíthatóak meg.
+
 (3) Szünetel a hallgatói jogviszony, ha a hallgatót fegyelmi büntetésként eltiltják a tanulmányok folytatásától.
 
 (4) Szünetel a hallgatói jogviszony az önkéntes tartalékos katonai tényleges szolgálatteljesítés időtartamára, amely időszakban a hallgató mentesül a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározott kötelezettségek alól.

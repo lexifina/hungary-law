@@ -16,7 +16,7 @@ a) működteti
 
 aa) a felsőoktatási információs rendszer működéséért felelős szervet, az oktatási hivatalt, a külföldi bizonyítványok és oklevelek elismeréséért felelős szervet,
 
-ab) az oktatási jogok biztosának hivatalát,
+ab) – az Nkt.-ban meghatározottak szerint – az oktatási jogok biztosának hivatalát,
 
 b) meghatározza a pedagógusképzés irányait,
 

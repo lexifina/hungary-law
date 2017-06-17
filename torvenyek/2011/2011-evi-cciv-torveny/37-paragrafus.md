@@ -22,7 +22,7 @@ a) az (1) bekezdésben felsoroltak – az a) és b) pont kivételével – helye
 
 b) szervezeti egység vezetői és vezetőhelyettesei.
 
-(3) Az (1) és (2) bekezdésben meghatározott vezetői megbízások határozott időre – az (1) bekezdés a)–d) pontja esetében legfeljebb öt évig terjedő időtartamra – adhatók. Az (1) bekezdés a), c) és d) pontjában felsorolt megbízások egy, az (1) bekezdés b) és e) pontjában, továbbá a (2) bekezdésben felsorolt megbízások több alkalommal meghosszabbíthatók. Az (1) és (2) bekezdésben meghatározott vezetői megbízásokra nyilvános pályázatot kell kiírni.
+(3) Az (1) és (2) bekezdésben meghatározott vezetői megbízások határozott időre – az (1) bekezdés a)–d) pontja esetében legfeljebb öt évig terjedő időtartamra – adhatók. Az (1) bekezdés a), c) és d) pontjában felsorolt megbízások egy, az (1) bekezdés b) és e) pontjában, továbbá a (2) bekezdésben felsorolt megbízások pályázat útján több alkalommal meghosszabbíthatók. Az (1) és (2) bekezdésben meghatározott vezetői megbízásokra nyilvános pályázatot kell kiírni.
 
 (4) A rektori megbízásra benyújtott valamennyi, a pályázati feltételeknek megfelelt pályázatot a szenátus véleményezi, és valamennyi tagja többségének szavazatával dönt a rektorjelölt személyéről. Adott felsőoktatási intézményben ugyanazon személy – a vezetői megbízási ciklusoktól függetlenül – összesen legfeljebb két alkalommal kaphat rektori magasabb vezetői megbízást az esetleges jogelőd intézményekre is tekintettel. A rektori magasabb vezetői pályázatot a fenntartó írja ki.
 

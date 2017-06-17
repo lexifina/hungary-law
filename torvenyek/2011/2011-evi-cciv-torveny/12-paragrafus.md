@@ -68,9 +68,15 @@ b) a hallgatói önkormányzat a 60. § (1) bekezdés b) pontjában meghatározo
 
 c) a doktorandusz önkormányzat egy fő képviselőt jogosult delegálni,
 
-d) az egyéb munkakörben foglalkoztatott tagok, a reprezentatív szakszervezetek képviselőinek létszáma nem lehet több, mint a szenátus létszámának öt-öt százaléka, de legalább egy-egy fő,
+d) az egyéb munkakörben foglalkoztatott tagok, a szakszervezetek képviselőinek létszáma nem lehet több, mint a szenátus létszámának öt-öt százaléka, de legalább egy-egy fő,
 
-e) a szenátus tagjainak megbízatása négy év, a hallgatói és a doktorandusz önkormányzat képviselője esetében legalább egy és legfeljebb három év lehet,
+e) általános szenátusi választást négyévente kell tartani, azzal, hogy
+
+ea) a szenátust négy évre választják, de a hallgatói és a doktorandusz önkormányzat képviselőjének megbízatása legfeljebb három év lehet,
+
+eb) ha a szenátus tagjának a soron következő általános szenátusi választást megelőzően megszűnik a megbízatása, a szenátus létszámának kiegészítése céljából – amennyiben az általános szenátusi választás keretében póttag választására nem került sor – időközi szenátusi tagválasztást kell tartani,
+
+ec) megszűnik a megelőző szenátus, illetve valamennyi tagjának a tagi megbízatása az általános szenátusi választást követően az új szenátus alakuló ülésének napján,
 
 f) a szenátus ülései az intézmény alkalmazottai, hallgatói számára nyilvánosak,
 

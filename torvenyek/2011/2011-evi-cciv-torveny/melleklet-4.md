@@ -154,7 +154,7 @@
 
 ## ac)
 
-## ad) a felsőfokú képzések szakfelelősének családi és utóneve, oktatói azonosítója,
+## ad) alap- és mesterképzése szakfelelősének családi és utóneve, oktatói azonosítója,
 
 ## ae) közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak családi és utóneve és értesítési címe;
 
@@ -164,7 +164,7 @@
 
 ## bb) tisztségviselői családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
 
-## bc) a felsőfokú képzések szakfelelősének családi és utóneve, oktatói azonosítója;
+## bc)
 
 ## c) a MAB, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája és a Doktoranduszok Országos Szövetsége, Országos Doktori Tanács esetében
 
