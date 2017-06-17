@@ -1,0 +1,5 @@
+98. § A településkép védelméről szóló 2016. évi LXXIV. törvény 5. alcíme a következő 16/A. §-sal egészül ki:
+
+„16/A. § (1) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követő 90 napon belül felülvizsgálja a Módtv.2 hatálybalépésekor fennálló, a település közterületének reklámcélú hasznosítására vonatkozó rendszergazdai szerződéseit, és kezdeményezi azoknak a Módtv. és a Módtv.2. által megállapított és a végrehajtására kiadott kormányrendelet rendelkezéseknek megfelelő módosítását legkésőbb a 15. § (3) bekezdése szerinti hatállyal.
+
+(2) A Módtv.2.-vel megállapított 11/B. § (2) bekezdése a Módtv.2. hatálybalépését megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket nem érinti. A Módtv.2. hatálybalépése előtt létrejött szerződések időtartamának a Módtv.2. hatálybalépését követően történő meghosszabbítása új jogviszony létesítésének minősül, melyre e törvény Módtv 2.-vel megállapított 11/B. § (2) bekezdése megfelelően irányadó.”

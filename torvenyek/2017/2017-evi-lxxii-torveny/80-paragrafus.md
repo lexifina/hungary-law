@@ -1,0 +1,1 @@
+80. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény. 2. § (3) bekezdés b) pontjában a „megváltozott munkaképességű személyek ellátása” szövegrész helyébe az „a kivételes rokkantsági ellátás kivételével a megváltozott munkaképességű személyek ellátása” szöveg lép.
