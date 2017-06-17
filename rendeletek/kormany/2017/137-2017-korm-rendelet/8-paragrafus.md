@@ -1,0 +1,3 @@
+## 7. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet (a továbbiakban: 173/2011. Korm. rendelet) 79. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A bírságot az eljáró hatóság jogerős határozatában megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlaszámra átutalási megbízás útján vagy készpénz-átutalási megbízással kell megfizetni a bírságot kiszabó határozat jogerőre emelkedésétől számított 30 napon belül. Az átutalási megbízás vagy készpénz-átutalási megbízás közlemény rovatában a „bírság” szó feltüntetése mellett a kötelezett nevére és a határozat számára kell hivatkozni.”
