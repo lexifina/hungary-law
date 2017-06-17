@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2016-10-21 | 2016. évi CIV. törvény | 1992-33-00-00.105 |
 | 2016-11-05 | 2016. évi CXIII. törvény | 1992-33-00-00.106 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 1992-33-00-00.107 |
+| 2017-06-17 | 2017. évi LXX. törvény | 1992-33-00-00.108 |
