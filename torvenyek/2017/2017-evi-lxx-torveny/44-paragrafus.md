@@ -11,11 +11,3 @@
 (5) A 15. §, a 21. § 2. pontja, 22. § 3–5.,7., 8., 10. b) pontja 2018. április 1-jén lép hatályba.
 
 (6) A 8–9. §, a 19. §, a 21. § 4. pontja és a 22. § 2., 6. pontja 2018. szeptember 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

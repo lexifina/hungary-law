@@ -2,15 +2,11 @@
 
 1. 19. § (5) bekezdésben az „Az önkormányzati” szövegrész helyébe az „A nem állami”,
 
-2. 21. § (2) bekezdésében a „csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.” szövegrész helyébe a „nyilvántartásba vétele során figyelembe kell venni a 75. § (1) bekezdés szerinti jelentésben foglaltakat.”,
+2.
 
 3. 47. § (9) bekezdés a) pontjában az „a sajátos nevelési igény” szövegrész helyébe az „a c) és d) pontban, valamint a 3. mellékletben foglalt kivétellel a sajátos nevelési igény”,
 
-4. 56. § (1) bekezdésében
-
-a) a „tanulót” szövegrész helyébe a „sajátos nevelési igényű tanulót”,
-
-b) a „véleménye” szövegrész helyébe a „szakértői véleménye”,
+4.
 
 5. 59. § (3) bekezdésében a „vétkességére tekintet nélkül, teljes mértékben” szövegrész helyébe
 
