@@ -1,5 +1,3 @@
-## Inváziós fajú fás szárú növények
-
 | Magyar név | Tudományos név |
 
 | fehér akác* | Robinia pseudoacacia |
@@ -18,7 +16,7 @@
 
 ## * Kivéve a kertészeti változatok.
 
-2. melléklet a 346/2008. (XII. 30.) Korm. rendelethez[^18]
+2. melléklet a 346/2008. (XII. 30.) Korm. rendelethez[^20]
 
 FAKIVÁGÁSI ENGEDÉLYKÉRELEM / BEJELENTÉS*
 
@@ -70,4 +68,4 @@ Kelt: ………………………, …………………
 
 kérelmező aláírása
 
-[^18]: A 2. mellékletet a 125/2012. (VI. 26.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^20]: A 2. mellékletet a 125/2012. (VI. 26.) Korm. rendelet 6. § (2) bekezdése iktatta be.
