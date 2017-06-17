@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-194-00-00
 | 2016-07-01 | 2016. évi LXIV. törvény | 2011-194-00-00.31 |
 | 2017-01-01 | 2016. évi CLXXI. törvény | 2011-194-00-00.32 |
 | 2017-01-18 | 2016. évi CLXXI. törvény | 2011-194-00-00.33 |
+| 2017-06-17 | 2017. évi LXXII. törvény | 2011-194-00-00.34 |
