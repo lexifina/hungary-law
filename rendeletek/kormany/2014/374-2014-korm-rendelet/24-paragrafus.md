@@ -1,7 +1,7 @@
 ## 8. A költségek viselése
 
-24. §[^97] (1) A megosztási eljárással kapcsolatban a kormányhivatalt kiinduló földrészletenként az 1. mellékletben meghatározott költségtérítés illeti meg, amely a megosztási eljárás végrehajtása során felmerülő személyi juttatás, munkaadókat terhelő járulékok, dologi kiadások és beruházások finanszírozására szolgál.
+24. §[^101] (1) A megosztási eljárással kapcsolatban a kormányhivatalt kiinduló földrészletenként az 1. mellékletben meghatározott költségtérítés illeti meg, amely a megosztási eljárás végrehajtása során felmerülő személyi juttatás (a projekt keretében alkalmazott munkavállaló munkabére, céljuttatás, túlóra), munkaadókat terhelő járulékok, dologi kiadások és beruházások finanszírozására szolgál.
 
-(2) A kormányhivatalok és a járási hivatalok technikai eszközeinek fejlesztésére, a felmerülő bérjellegű- és dologi kiadásainak fedezésére kiinduló földrészletenként legfeljebb 35 000 Ft költségelőleg kerül átadásra az eljárás megkezdésekor a rendelkezésre álló költségvetési forrás függvényében.
+(2) A költségtérítés terhére az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 15. melléklete szerinti K1103 Céljuttatás, projektprémium rovaton is teljesíthető kifizetés.
 
-[^97]: A 24. § a 478/2015. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^101]: A 24. § a 138/2017. (VI. 9.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -10,7 +10,10 @@
 
 (5)[^34] Ha a keretmérés eredménye az R.-ben foglalt tűréshatáron túl eltér az ingatlan-nyilvántartási állapottól, és az felmérési, térképezési vagy területszámítási hibából adódik, a járási hivatal a változást soron kívül átvezeti az ingatlan-nyilvántartásban.
 
+(6)[^35] Az (5) bekezdés szerinti változás meghatározását a járási hivatal a hiba kiigazítására irányuló eljárásában a (3) bekezdés szerint átadott adatok, valamint az állami távérzékelési adatbázisban található, 5 évnél nem régebbi, lombtalan vegetációs periódusban készült, legalább 20 cm terepi felbontású ±40 cm négyzetes középhiba megbízhatóságú, vagy ennél pontosabb, államilag átvett ortofotó felhasználásával is végezheti.
+
 [^31]: A 7. § a 478/2015. (XII. 29.) Korm. rendelet 3. §-ával megállapított, a 477/2016. (XII. 27.) Korm. rendelet 77. § (2) bekezdése szerint módosított szöveg.
 [^32]: A 8. § (1) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^33]: A 8. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. és 11. pontja szerint módosított szöveg.
 [^34]: A 8. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^35]: A 8. § (6) bekezdését a 138/2017. (VI. 9.) Korm. rendelet 1. §-a iktatta be.
