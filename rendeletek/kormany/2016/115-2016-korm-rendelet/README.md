@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-115-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-06-07 | 2016-115-20-22.1 | 115/2016. (VI. 6.) Korm. rendelet |
+| 2017-06-17 | 2016-115-20-22.2 | 137/2017. (VI. 9.) Korm. rendelet |
