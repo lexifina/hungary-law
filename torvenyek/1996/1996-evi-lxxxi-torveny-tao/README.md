@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2016-11-26 | 2016. évi CXXV. törvény | 1996-81-00-00.104 |
 | 2017-01-01 | 2016. évi CXXV. törvény | 1996-81-00-00.105 |
 | 2017-01-18 | 2016. évi CLXXI. törvény | 1996-81-00-00.106 |
+| 2017-06-17 | 2017. évi LXXIII. törvény | 1996-81-00-00.107 |

@@ -276,7 +276,11 @@ b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 40. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló törvényben egyéni cégként meghatározott jogalany.
 
-41. látvány-csapatsport: a labdarúgás, a kézilabda, a kosárlabda, a vízilabda, a jégkorong sportág;
+40a. hivatásos sportoló: a sportról szóló 2004. évi I. törvény 1. § (4) bekezdésében meghatározott, a látvány-csapatsportnak minősülő sportágban foglalkoztatott sportoló azzal, hogy az általa jövedelemszerző foglalkoztatásban és díjazás ellenében nyújtott szolgáltatásként folytatott sporttevékenység hivatásos sporttevékenységnek minősül, amennyiben a részére sporttevékenységével összefüggésben az érintett támogatási időszakban nyújtott pénzbeli juttatás – a sportrendezvényen való részvételhez kapcsolódó utazási költségek és szállásköltségek kivételével – meghaladja a részvételi költséget és a sportoló jövedelmének legalább 50 százalékát teszi ki, függetlenül attól, hogy a sportoló és az érintett sportszervezet kötött-e egymással munkaszerződést;
+
+40b. korlátozott mértékű gazdasági célú létesítmény: olyan sportlétesítmény, amely esetén a gazdasági tevékenységre allokált éves kapacitás nem haladja meg a létesítmény tényleges teljes éves kapacitásának húsz százalékát;
+
+41. látvány-csapatsport: a labdarúgás, a kézilabda, a kosárlabda, a vízilabda, a jégkorong, valamint a röplabda sportág;
 
 42. látvány-csapatsportban működő amatőr sportszervezet: minden olyan, a sportról szóló törvényben meghatározott szabályok szerint működő sportegyesület vagy sportvállalkozás, amelyik nem minősül a 43. pontban meghatározott hivatásos sportszervezetnek;
 
@@ -288,7 +292,7 @@ b) alsóbb bajnoki osztályaiban részt vevő (indulási jogot elnyert) sportsze
 
 Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakosztállyal) működő sportszervezet esetén az e törvényben a hivatásos sportszervezetekre előírt rendelkezéseket csak arra a jogi személy szervezeti egységre (szakosztályra) kell alkalmazni, amelyik az a)–b) pont szerinti versenyrendszerek bajnoki osztályaiban részt vesz.
 
-43/a. látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány: minden olyan, a sportról szóló törvényben meghatározott szabályok szerint működő utánpótlás-nevelés fejlesztését végző alapítvány, amelyik közhasznúnak minősül;
+43/a. látvány-csapatsport fejlesztése érdekében létrejött alapítvány: a látvány-csapatsportban működő, a sportról szóló 2004. évi I. törvény 77. § t) pontjában meghatározott szervezet;
 
 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
 
