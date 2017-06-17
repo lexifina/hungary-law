@@ -1,6 +1,6 @@
 10. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) jelölje ki a hadiipari gyártás- és szolgáltatásfelügyeletet vagy -felügyeleteket,
+a) jelölje ki az engedélyező hatóságként eljáró hadiipari gyártás- és szolgáltatásfelügyeletet,
 
 b) szabályozza a hadiipari tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
@@ -10,8 +10,16 @@ d) határozza meg az engedélyköteles haditechnikai termékek és szolgáltatá
 
 e) határozza meg a 4/A. § szerinti bírság mértékére, a bírságolási eljárásra vonatkozó szabályokat,
 
-f) jelölje ki a 2. § (4) bekezdése szerinti szerveket.
+f) jelölje ki a 2. § (3) bekezdése és a 2/B. § (2) bekezdése szerinti véleményező szervet, szerveket,
 
-(2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben szabályozza a haditechnikai termékek jelölését és nyilvántartását.
+g) határozza meg a 2. §, a 2/A. § és a 2/B. § szerinti eljárások engedélytípusait,
 
-(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben szabályozza a felkutatási tevékenység folytatásának e törvény 2. § (5) bekezdésében meghatározottakon felüli feltételeit, a szakmai kivitelezés eljárási rendjét és szabályait, a kérelmezőnek vagy valamely felelős vezetőjének a szolgáltatás nyújtásához szükséges személyi és technikai feltételeit.
+h) határozza meg az engedélyezési eljárásokban és a vállalkozások tanúsítási eljárásában a kérelmezők körét,
+
+i) szabályozza az engedélykötelezettség alóli mentesség eseteit,
+
+j) szabályozza a felkutatási tevékenység folytatásának feltételeit, a szakmai kivitelezés eljárási rendjét és szabályait, a kérelmezőnek vagy valamely felelős vezetőjének a szolgáltatás nyújtásához szükséges személyi és technikai feltételeit.
+
+(2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben rendeletben szabályozza a haditechnikai termékek jelölését és nyilvántartását.
+
+(3)

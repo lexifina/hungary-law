@@ -27,3 +27,7 @@ d) ellen a tervezett alkalmazását megelőző két évben ipari robbantóanyagg
 (3) Az (1) bekezdés b) pontjában meghatározott személy azt a tényt, hogy büntetlen előéletű, az (1) bekezdés a) pontjában meghatározott személy azt a tényt, hogy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel hatósági bizonyítvánnyal igazolja, ha a munkavégzésre irányuló jogviszony létesítésére a 2. §-ban meghatározott engedély kiadását követően kerül sor.
 
 (4) A hadiipari gyártás- és szolgáltatásfelügyelet a hadiipari tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű, valamint, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel. A hatósági ellenőrzés céljából a hadiipari gyártás- és szolgáltatásfelügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag annak megállapítására irányulhat, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű-e, illetve, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel-e.
+
+(5) A 2. § szerinti engedély akkor adható ki, ha a kérelmező felelős vezetője rendelkezik a jogszabály szerinti nemzetbiztonsági ellenőrzéssel.
+
+(6) A 2/A. § és 2/B. § szerinti tevékenység végzéséhez szükséges személyi feltételeket kormányrendelet határozza meg.

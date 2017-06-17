@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-109-00-00
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2005-109-00-00.12 |
 | 2015-07-01 | 2015. évi XLIII. törvény | 2005-109-00-00.13 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2005-109-00-00.14 |
+| 2017-06-17 | 2017. évi LXXII. törvény | 2005-109-00-00.15 |
