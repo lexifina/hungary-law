@@ -166,4 +166,6 @@ d) a tag halálával.
 
 39. Az Országos Köznevelési Tanács és az Országos Nemzetiségi Tanács az Országos Köznevelési Tanácsról és az Országos Nemzetiségi Tanácsról szóló 1855/2013. (XI. 19.) Korm. határozatban meghatározott feladatát az e határozat szerint létrehozott szakmai testületek megalakulásig ellátja.
 
-40. Hatályát veszti az Országos Köznevelési Tanácsról és az Országos Nemzetiségi Tanácsról szóló 1855/2013. (XI. 19.) Korm. határozat.
+40.[^1]
+
+[^1]: A 40. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
