@@ -1,3 +1,0 @@
-## 1. § A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII. 31.) Korm. rendelet (a továbbiakban: Korm. rendelet) 8. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) Az (5) bekezdés szerinti változás meghatározását a járási hivatal a hiba kiigazítására irányuló eljárásában a (3) bekezdés szerint átadott adatok, valamint az állami távérzékelési adatbázisban található, 5 évnél nem régebbi, lombtalan vegetációs periódusban készült, legalább 20 cm terepi felbontású ±40 cm négyzetes középhiba megbízhatóságú, vagy ennél pontosabb, államilag átvett ortofotó felhasználásával is végezheti.”
