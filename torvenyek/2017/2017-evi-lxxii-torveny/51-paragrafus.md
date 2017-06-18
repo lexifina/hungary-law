@@ -1,5 +1,0 @@
-51. § Az állami vagyonról szóló 2007. évi CVI. törvény I. Fejezete a következő 5/B. §-sal egészül ki:
-
-„5/B. § (1) Az állam többségi tulajdonában lévő gazdasági társaság (ide nem értve a Magyar Nemzeti Bankot), illetve annak többségi tulajdonában lévő gazdasági társaság a miniszter felkérésére a gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek tájékoztatása érdekében teljesíti a miniszter által meghatározott, a gazdasági társaság fejlesztésével, a foglalkoztatottak juttatásaival, valamint az egyes foglalkoztatotti csoportok sajátos körülményeivel összefüggő tájékoztatást.
-
-(2) Ha a miniszter a gazdasági társaságot a foglalkoztatottak személyre szóló tájékoztatására kéri fel, a tájékoztatások megszemélyesítése során személyes adatnak a gazdasági társaság által más adatkezelő részére való továbbítására nem kerülhet sor. A gazdasági társaság a tájékoztatás az érintettekkel való közléséhez az érintettek természetes személyazonosító adatait, a munkakörre, beosztásra vonatkozó adatokat és munkahelyi elektronikus levelezési címet használhatja fel.”
