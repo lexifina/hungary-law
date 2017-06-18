@@ -10,14 +10,12 @@
 
 7–8.
 
-9. 87. § (5) bekezdésében az „Az intézmény ellenőrzésében részt vevő szakértő kijelöléséhez a fenntartó egyetértése szükséges.” szövegrész,
+9.
 
 10. 94. §
 
-a) (1) bekezdés f) pontja,
+a)
 
 b)
 
-11. 99. § (15) bekezdése,
-
-12. 99/C. §-a.
+11–12.

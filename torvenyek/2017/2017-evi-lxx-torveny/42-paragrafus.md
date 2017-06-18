@@ -1,6 +1,6 @@
 42. § Hatályát veszti az Nftv.
 
-a) 12. § (7) bekezdés d) pontjában és 39. § (3) bekezdésében a „reprezentatív” szövegrész,
+a)
 
 b)–f)
 
