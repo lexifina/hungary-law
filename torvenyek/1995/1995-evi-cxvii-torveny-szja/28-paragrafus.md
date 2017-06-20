@@ -28,13 +28,17 @@ g) a törvény eltérő rendelkezésének hiányában a társas vállalkozás ta
 
 (3)–(4)
 
-(5) Egyéb jövedelemnek minősül
+(5) Egyéb jövedelemnek minősül a vásárolt (engedményezett) követelésből származó bevételnek a követelés vásárlási (engedményezési) ellenértékét meghaladó része, kivéve, ha adókötelezettségének e törvény szerinti jogcíme egyébként megállapítható.
 
-a) a vásárolt (engedményezett) követelésből származó bevételnek a követelés vásárlási (engedményezési) ellenértékét meghaladó része, kivéve, ha adókötelezettségének e törvény szerinti jogcíme egyébként megállapítható;
+(6) Egyéb jövedelemnek minősül az önálló orvosi tevékenységről szóló törvény szerinti praxisjog átruházásából származó bevételnek a korábban értékcsökkenési leírás címén költségként el nem számolt szerzési értéket és a megfizetett illetéket meghaladó része (e § alkalmazásában: számított összeg), ha az átruházás a megszerzés évében vagy az azt követő évben történik. Ha az átruházás a praxisjog megszerzését követő második évben vagy azt követően történik, a jövedelem a számított összeg
 
-b) az önálló orvosi tevékenységről szóló törvény szerinti praxisjog átruházásából származó bevételnek a korábban értékcsökkenési leírás címén költségként el nem számolt szerzési értéket és a megfizetett illetéket meghaladó része.
+1. 90 százaléka a megszerzés évét követő második évben,
 
-(6)
+2. 60 százaléka a megszerzés évét követő harmadik évben,
+
+3. 30 százaléka a megszerzés évét követő negyedik évben,
+
+4. 0 százaléka a megszerzés évét követő ötödik és az azt követő években.
 
 (7) Egyéb jövedelem – ha e törvény másként nem rendelkezik –
 

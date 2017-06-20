@@ -4,7 +4,7 @@
 
 a) osztalék
 
-aa) a társas vállalkozás magánszemély tagja számára a társas vállalkozás által felosztani rendelt, a számviteli törvény szerint meghatározott adóévi adózott eredmény, illetve a szabad eredménytartalékkal kiegészített adóévi adózott eredmény terhére jóváhagyott részesedés;
+aa) a számviteli szabályok szerint osztalékként meghatározott jövedelem;
 
 ab) a kamatozó részvény kamata;
 

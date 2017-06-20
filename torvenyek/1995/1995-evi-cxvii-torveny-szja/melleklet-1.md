@@ -78,7 +78,7 @@ c) a foglakoztatás b) pont szerinti időszakát követő 12 hónapban a minimá
 
 meg nem haladó összeg, figyelemmel a 9. pont 9.7. alpont előírásaira is.
 
-2.11. a hősi halottá nyilvánított katonák hozzátartozói (katonaözvegyek és az elhunyt saját háztartásában eltartott, árván maradt gyermekek, hadiárvák) részére belső szabályzat szerint biztosított lakhatási támogatás, lakáscélra adott vissza nem térítendő támogatás.
+2.12. a hősi halottá nyilvánított katonák hozzátartozói (katonaözvegyek és az elhunyt saját háztartásában eltartott, árván maradt gyermekek, hadiárvák) részére belső szabályzat szerint biztosított lakhatási támogatás, lakáscélra adott vissza nem térítendő támogatás.
 
 3. A közcélú juttatások körében adómentes:
 
@@ -104,7 +104,7 @@ meg nem haladó összeg, figyelemmel a 9. pont 9.7. alpont előírásaira is.
 
 nyújt.
 
-3.3. a jótékony célú közadakozásból, a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
+3.3. a jótékony célú közadakozásból, a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj (ideértve a Bethlen Gábor Alapítvány által adományozott Bethlen Gábor Díjat is);
 
 3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
 
@@ -162,7 +162,9 @@ d) a határon túli magyarok részére felajánlott képzési és kutatási lehe
 
 e) az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan juttatás, amelyet az Európai Unió finanszíroz, melynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
 
-f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak
+f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak,
+
+g) az „Ösztöndíjprogram Keresztény Fiataloknak” ösztöndíjprogram keretében folyósított ösztöndíjak
 
 bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének;
 
@@ -250,13 +252,23 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 
 4.32. a Kormány által alapított, kutató-, fejlesztő- és szellemi központ feladatait ellátó költségvetési szerv által folyósított ösztöndíj.
 
+4.33. az Európai Unió forrásaiból a Felzárkóztató egészségügyi ápolói szakképzési programok keretében egészségügyi államigazgatási szerv által biztosított motivációs ösztöndíj;
+
+4.34. az Európai Unió forrásaiból az Ápoló tanulók részére pályaválasztást támogató ösztöndíj program keretében egészségügyi államigazgatási szerv által biztosított ösztöndíj;
+
+4.35. a sportakadémiák tanulói részére a sportakadémiával kötött szerződés alapján szállást, étkezést és felügyeletet biztosító magánszemélynek ezen tevékenység ellenértékeként a sportakadémia által fizetett díj;
+
+4.36. a Bolyai János kutatási ösztöndíj;
+
+4.37. a szakképzésről szóló törvény és az iskolai rendszerű szakképzésben részt vevő tanulók juttatásairól szóló miniszteri rendelet alapján a szakképző iskolai tanulóknak gyakorlati képzésük ideje alatt kötelezően biztosított vagy a gyakorlati képzést végző szervezet által saját döntése alapján biztosított nem pénzbeli juttatások, ideértve az utazási költségtérítést is.
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
 
 6.1. az a juttatás, amelyet a magánszemély kap
 
-a) mint károsult, segélyként, támogatásként elemi kár (ideértve a martinsalak felhasználása miatt a lakást, lakóépületet ért kárt is), katasztrófa (pl. környezeti vészhelyzet) esetén – különösen lakás helyreállítása, újjáépítése céljából – jogszabályban meghatározott feltételek szerint, vagy közadakozásból, vagy a munkáltatójától,
+a) mint károsult, jogszabályban meghatározott feltételek szerint, közadakozásból, vagy a munkáltatójától segélyként, támogatásként elemi kár (ideértve a martinsalak felhasználása miatt a lakást, lakóépületet ért kárt is), katasztrófa (pl. környezeti vészhelyzet), tűzkár, baleset esetén, különösen lakás helyreállítása, újjáépítése céljából,
 
 b) tartásdíjként jogszabályban meghatározott kötelezettség alapján, ideértve a jogszabályban meghatározott kötelezettség alapján megállapított tartásdíj helyett fizetett összeget is,
 
@@ -366,7 +378,7 @@ a) a befektetési eszközzel végzett ügylet nyeresége,
 
 b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelmet;
 
-7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, illetve munkaerőpiaci képzésben résztvevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt biztosított étkezés, közlekedés, szállás, valamint az ilyen jogcímen adott költségtérítés, megélhetési támogatás.
+7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, munkaerőpiaci képzésben, munkaerőpiaci programban, társadalmi felzárkózással kapcsolatos képzésben részt vevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt biztosított étkezés, közlekedés, szállás, valamint az ilyen jogcímen adott költségtérítés, megélhetési támogatás;
 
 7.18. jogszabály alapján hitelintézetnél elhelyezett gyámhatósági betét kamata, a gyámhatóság döntése, kötelezése alapján befektetési szolgáltatónál elhelyezett értékpapír kamatjövedelemnek minősülő hozama;
 
@@ -423,6 +435,8 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 7.33. az az összeg, amelyet a magánszemély mint kérelmező ügyfél, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései szerint a hatóság által hozott függő hatályú döntés alapján kap.
 
 7.34. a 17. FINA Úszó-, Vízilabda-, Műugró-, Műúszó- és Nyíltvízi Világbajnokság megrendezésével összefüggésben a FINA-tisztségviselők, a versenybírók részére kifizetett juttatás (különösen: a napidíj, valamint a szállás- és utazási költségek megtérítése), a sportolók részére kifizetett pénzdíj, a FINA-tisztségviselők, versenybírók, szervezőbizottsági tisztségviselők, a sportolók és önkéntesek részére adott formaruhák, természetben biztosított ellátás, a versenyekhez kapcsolódóan adott promóciós jellegű juttatások.
+
+7.35. az eredeti jogosult magánszemélynél az önálló orvosi tevékenységről szóló törvény szerinti praxisjog (megszerzésekor működtetési jog) átruházásáért kapott ellenérték.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 

@@ -4,9 +4,9 @@
 
 (3) Az (1) bekezdés rendelkezései szerint megállapított, bevallott és megfizetett adó mértékéig az ingatlan átruházását követő első és második adóévről szóló adóbevallásában a magánszemély adókiegyenlítésre jogosult, amelyet a felhasználás évéről szóló adóbevallásában megfizetett adóként érvényesíthet a (4)–(5) bekezdés rendelkezései szerint.
 
-(4) A (3) bekezdésben említett adókiegyenlítés az e § szerint megállapított jövedelemből az adó megfizetése után, az adóévben a (2) bekezdés szerinti célra felhasznált résznek és a megfizetett adó megállapítása tekintetében hatályos (1) bekezdés szerinti adókulcsnak a szorzata.
+(4)
 
-(5) A (4) bekezdésben említett összeg nem lehet több, mint az ingatlan, vagyoni értékű jog átruházásából származó jövedelem bevallott és megfizetett adója, az ingatlan átruházását követő második évben csökkentve a (3)–(4) bekezdés alapján a megelőző évi adóbevallásban már érvényesített adókiegyenlítéssel.
+(5)
 
 (6) A (2) bekezdés szerinti célra történő felhasználás igazolására a férőhely megszerzése alapjául szolgáló okirat, az összeg felhasználását igazoló okirat, a rokonsági fokot bizonyító közokirat, valamint az élettársi kapcsolatra vonatkozó teljes bizonyító erejű magánokirat szolgál, amelyre az adózás rendjéről szóló törvénynek az elévülésre, illetőleg a bizonylatmegőrzésre vonatkozó szabályait alkalmazni kell.
 

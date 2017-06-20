@@ -20,4 +20,4 @@ bd) adómentessége feltételeinek vizsgálatára köteles személyek körét é
 
 (5) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy rendeletben meghatározza a felszolgálási díj alkalmazásának, kifizetésének és felhasználásának részletes szabályait.
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat az egészségügyi ellátásokat, amelyeket a munkáltató – nem pénzben kapott juttatásként – adómentesen biztosíthat a munkavállaló számára.
+(6)

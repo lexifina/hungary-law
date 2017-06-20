@@ -14,7 +14,7 @@ ba) a kamatra és/vagy hozamra való jogosultság megszerzése szempontjából m
 
 bb) a beváltáskor, a visszaváltáskor, valamint az átruházáskor [ide nem értve a kollektív befektetési értékpapírnak a tőkepiacról szóló törvény szerinti tőzsdén, valamint bármely EGT-államban, továbbá a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) tagállamában működő tőzsdén történő átruházását] a magánszemélyt megillető bevételből – függetlenül attól, hogy az miként oszlik meg nettó árfolyamérték és felhalmozott kamat vagy hozam címén elszámolt tételekre – az árfolyamnyereségre irányadó rendelkezések szerint megállapított rész;
 
-c) az a)–b) pont rendelkezéseitől eltérően, ha az a)–b) pont szerint megállapított kamatjövedelem olyan vagyoni érték (pl. a nyereménybetétre kisorsolt tárgynyeremény, az értékpapír), amelyből az adó levonása nem lehetséges, adó alapja a vagyoni érték szokásos piaci értékének (a nyereményalapnak) 1,18-szorosa, vagy – ha a kamatjövedelmet egészségügyi hozzájárulás is terheli – 1,27-szerese;
+c) az a)–b) pont rendelkezéseitől eltérően, ha az a)–b) pont szerint megállapított kamatjövedelem olyan vagyoni érték (pl. a nyereménybetétre kisorsolt tárgynyeremény, az értékpapír), amelyből az adó levonása nem lehetséges, adó alapja a vagyoni érték szokásos piaci értékének (a nyereményalapnak) 1,18-szorosa;
 
 d) a biztosítói teljesítésből – kivéve, ha a biztosító teljesítése az 1. számú melléklet 6. pont 6.6. alpontja szerint adómentes vagy e törvény más rendelkezése alapján minősül adóköteles jövedelemnek – a befizetett díjat (ideértve a nyugdíjbiztosítási nyilatkozat alapján a nyugdíjbiztosítási szerződésen jóváírt összeget is) meghaladó összeg azzal, hogy nem minősül befizetett díjnak a kockázati biztosítás díja;
 

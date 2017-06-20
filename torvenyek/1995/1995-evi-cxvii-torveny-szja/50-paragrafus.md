@@ -20,6 +20,6 @@ c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió
 
 (7) Az az egyéni vállalkozó, aki az átalányadózását megszünteti vagy arra való jogosultsága megszűnik, ismételten átalányadózást – feltéve, hogy annak egyéb feltételei fennállnak – csak akkor választhat, ha a megszűnés (megszüntetés) évét követően legalább 4 adóév eltelt. Ha a jogosultsága a bevételi értékhatár túllépése miatt szűnt meg, az előbbi rendelkezéstől eltérően az átalányadózás – ha annak egyéb feltételei fennállnak – attól az adóévtől kezdődően újra választható, amely adóévben az e törvényben előírt bevételi értékhatár növekedett.
 
-(8) A tevékenységét év közben kezdő vagy megszüntető egyéni vállalkozó az (1) bekezdésben meghatározott bevételi értékhatárt a tevékenység folytatásának napjaival időarányosan veheti figyelembe.
+(8) A tevékenységét év közben kezdő, megszüntető vagy szüneteltető egyéni vállalkozó az (1) bekezdésben meghatározott bevételi értékhatárt a tevékenység folytatásának napjaival időarányosan veheti figyelembe.
 
 (9) E § alkalmazásában egyéni vállalkozói bevételnek az adóévben e törvény rendelkezései szerint megszerzett vállalkozói bevétel minősül.
