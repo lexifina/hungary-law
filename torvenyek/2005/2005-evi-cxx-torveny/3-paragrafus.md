@@ -180,13 +180,13 @@ b) az a) pontban meghatározott feltétel hiányában az évi 60 millió forintn
 
 c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 60 millió forint,
 
-d) az a)–b) pontokban említett összeghatár helyett
+d) az a)–b) pontban említett összeghatár helyett
 
-da) évi 125 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
+da) évi 250 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
 
-db) évi 125 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
+db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
 
-azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
+azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
 (5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
 
