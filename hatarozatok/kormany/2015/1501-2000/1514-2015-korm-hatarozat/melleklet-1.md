@@ -26,13 +26,7 @@
 
 ## 3. tudomásul veszi, hogy a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvényben a Fővárosi Állat- és Növénykert beruházás kapcsán 5000,0 millió forint támogatás szerepel a IX. Helyi önkormányzatok támogatásai fejezetben a Pannon Park beruházási projekt 2016. évi munkálatai megvalósításának céljára;
 
-## 4. annak érdekében, hogy 2015–2019. évek között a szükséges 25 000,0 millió forint biztosítása megtörténjen, felhívja a nemzetgazdasági minisztert és a belügyminisztert, hogy gondoskodjanak a Fővárosi Állat- és Növénykert Pannon Park beruházás megvalósításához szükséges a 2016. évi – a 3. pont szerinti összegen felül – további 450,0 millió forint, a 2017. évi 10 597,0 millió forint, a 2018. évi 7880,0 millió forint és a 2019. évi 293,0 millió forint támogatás mindenkori költségvetésben Budapest Főváros Önkormányzata számára történő biztosításáról.
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: a 2016. évben a 3. pont szerinti forrás felhasználásához igazodva, a 2017., a 2018. és a 2019. évek vonatkozásában a központi költségvetés tervezése során
+## 4.[^1]
 
 1. melléklet az 1514/2015. (VII. 23.) Korm. határozathoz
 
@@ -95,3 +89,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pontot az 1383/2017. (VI. 20.) Korm. határozat 4. pontja visszavonta.
