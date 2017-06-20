@@ -1,6 +1,6 @@
-## 6/B. §[^3] A 8. melléklet tartalmazza az Országos Képzési Jegyzékben szereplő új szakképesítésekhez és ágazatokhoz rendelt fővárosi és megyei keretszámok összesítését.
+## 6/B. §[^4] A 8. melléklet tartalmazza az Országos Képzési Jegyzékben szereplő új szakképesítésekhez és ágazatokhoz rendelt fővárosi és megyei keretszámok összesítését.
 
-6/C. §[^4] (1) A 8. melléklet szerinti keretszámokból a szakképzésért és felnőttképzésért felelős miniszter keretszám átadási megállapodással (a továbbiakban: megállapodás) biztosíthat keretszámot más fenntartó (a továbbiakban: fenntartó) számára.
+6/C. §[^5] (1) A 8. melléklet szerinti keretszámokból a szakképzésért és felnőttképzésért felelős miniszter keretszám átadási megállapodással (a továbbiakban: megállapodás) biztosíthat keretszámot más fenntartó (a továbbiakban: fenntartó) számára.
 
 (2) A megállapodás megkötésének feltétele, hogy a fenntartó a szakképző iskolájában rendelkezzen az érintett szakképesítés vagy ágazati képzés indításának feltételeivel.
 
@@ -14,5 +14,5 @@
 
 (7) A 8. mellékletben szereplő, megállapodás által nem érintett keretszámok tekintetében a Nemzetgazdasági Minisztérium fenntartásában lévő szakképző iskola indíthat képzést.
 
-[^3]: A 6/B. §-t a 25/2016. (II. 25.) Korm. rendelet 10. §-a iktatta be.
-[^4]: A 6/C. §-t a 25/2016. (II. 25.) Korm. rendelet 11. §-a iktatta be.
+[^4]: A 6/B. §-t a 25/2016. (II. 25.) Korm. rendelet 10. §-a iktatta be.
+[^5]: A 6/C. §-t a 25/2016. (II. 25.) Korm. rendelet 11. §-a iktatta be.

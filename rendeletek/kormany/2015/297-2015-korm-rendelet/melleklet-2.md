@@ -568,7 +568,7 @@
 
 ## K: korlátozottan támogatott [1. § (2) bekezdés c) pontja szerint]
 
-2. melléklet a 297/2015. (X. 13.) Korm. rendelethez[^7]
+2. melléklet a 297/2015. (X. 13.) Korm. rendelethez[^8]
 
 1. A korlátozottan támogatott szakképesítések keretszámai fenntartónként és megyénként
 
@@ -788,4 +788,4 @@
 
 2. táblázat: A korlátozottan támogatott szakképesítések keretszámai fenntartónként Baranya megyében
 
-[^7]: A 2. melléklet a 25/2016. (II. 25.) Korm. rendelet 13. § (2) bekezdése, a 237/2016. (VIII. 2.) Korm. rendelet 5. § (2) bekezdése, a 134/2016. (VI. 10.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 25/2016. (II. 25.) Korm. rendelet 13. § (2) bekezdése, a 237/2016. (VIII. 2.) Korm. rendelet 5. § (2) bekezdése, a 134/2016. (VI. 10.) Korm. rendelet 24. §-a, a 149/2017. (VI. 12.) Korm. rendelet 5. § (1)–(2) bekezdése szerint módosított szöveg.
