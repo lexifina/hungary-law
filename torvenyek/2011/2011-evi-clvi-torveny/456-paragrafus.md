@@ -12,6 +12,8 @@ b) az a) pont hatálya alá nem tartozó esetben az adóalap megállapításána
 
 (4) Az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót saját maga után terhelő adó alapja az egyszerűsített vállalkozói adó alapjának 4 százaléka, ha
 
-a) az adóalap megállapításának különös szabályai alkalmazása alól legalább heti 36 órás foglalkoztatással járó munkaviszonyára, közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányaira tekintettel mentesül, vagy
+a) az adóalap megállapításának különös szabályai alkalmazása alól legalább heti 36 órás foglalkoztatással járó munkaviszonyára, a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányaira tekintettel mentesül, vagy
 
 b) tagként a kifizetővel az adóalap megállapításának különös szabályai hatálya alá tartozó jogviszonyban áll.
+
+(5) A (4) bekezdés a) pontjában az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Kormányrendelet (a továbbiakban: Tbj. vhr.) 7/B. §-a szerint kell igazolni.
