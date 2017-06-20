@@ -76,7 +76,7 @@ f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tek
 
 25. székhely: eltérő rendelkezés hiányában a jogi személy alapszabályában, a cégbejegyzésben ekként megjelölt hely, ilyen hely hiányában, vagy ha több ilyen hely van, a központi ügyvezetés helye. Ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye szerint állapítja meg, az üzletvezetés helye szerint belföldi illetőségű adózónak minősülő külföldi személy esetén e törvény alkalmazása szempontjából az üzletvezetés helye székhelynek minősül,
 
-25a. székhelyszolgáltató: aki az adózó megbízásából gondoskodik az adózó üzleti és hivatalos iratainak munkaidőben történő átvételéről, érkeztetéséről, megőrzéséről, rendelkezésre tartásáról, valamint a külön jogszabályban meghatározott, a székhellyel összefüggő kötelezettségek teljesítéséről, így különösen a cég székhelyéhez és a cégiratokhoz kapcsolódó hatósági kényszerintézkedések tűréséről,
+25a. székhelyszolgáltató: az a személy, aki vagy amely üzletszerű gazdasági tevékenységként az adózó megbízásából gondoskodik az adózó üzleti és hivatalos iratainak munkaidőben történő átvételéről, érkeztetéséről, megőrzéséről, rendelkezésre tartásáról, valamint a székhellyel összefüggő kötelezettségek teljesítéséről, így különösen a cég székhelyéhez és a cégiratokhoz kapcsolódó hatósági kényszerintézkedések tűréséről,
 
 26. szokásos tartózkodási hely: a magánszemélynek akkor van Magyarország területén szokásos tartózkodási helye, ha az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább 183 napot belföldön tartózkodott,
 

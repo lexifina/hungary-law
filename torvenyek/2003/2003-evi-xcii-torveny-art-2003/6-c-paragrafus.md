@@ -4,4 +4,4 @@
 
 (3) Az állami adó- és vámhatóság által kiszabható adóbírság felső határa, ha az adózó az utólagos ellenőrzés alá vont adómegállapítási időszak egészében vagy az utólagos ellenőrzés megállapításairól szóló jegyzőkönyv keltének időpontjában megbízható adózónak minősült, az általános szabályok szerint kiszabható adóbírság felső határának 50 százaléka.
 
-(4) Nem alkalmazható a (2) és (3) bekezdésben foglalt rendelkezés azon mulasztás, illetve adóhiány megállapítás esetén, mely a megbízható adózói minősítés elvesztését eredményezi.
+(4) Nem alkalmazható a (2) és (3) bekezdésben foglalt rendelkezés azon mulasztás, illetve adókülönbözet megállapítása esetén, mely a megbízható adózói minősítés elvesztését eredményezi.

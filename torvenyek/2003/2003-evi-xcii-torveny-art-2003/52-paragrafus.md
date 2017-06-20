@@ -66,7 +66,7 @@ w) a tankerületi központ és a települési önkormányzat.
 
 a) megkeresésre 15 napon belül adatot szolgáltat
 
-aa) a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság, a szociális hatáskört gyakorló szerv és az egészségbiztosítási szerv, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
+aa) a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság, a szociális hatáskört gyakorló szerv és az egészségbiztosítási szerv, a Magyar Államkincstár, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
 
 ab) az állami foglalkoztatási szerv részére, ha statisztikai célú adatfeldolgozás érdekében
 
@@ -110,7 +110,7 @@ l)
 
 m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő Nemzeti Foglalkoztatási Alap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében,
 
-n) elektronikus úton havonta a bevallás benyújtására előírt határidőt követő hónap utolsó napjáig a gazdasági kamarák részére – a szakképzésről szóló törvény 42. § (2a) és (6) bekezdésében előírt feladatainak ellátása céljából – hivatalból átadja a szakképzési hozzájárulásra kötelezett által benyújtott bevallásban szereplő azon adatot, amely szerint a szakképzési hozzájárulásra kötelezett nem minősül a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény 3. § d) pontjában meghatározott szervezetnek.
+n) elektronikus úton havonta a bevallás benyújtására előírt határidőt követő hónap utolsó napjáig a gazdasági kamarák részére – a szakképzésről szóló törvény 42. § (2a) és (6) bekezdésében előírt feladatainak ellátása céljából – hivatalból átadja a szakképzési hozzájárulásra kötelezett által benyújtott bevallásban szereplő azon adatot, amely szerint a szakképzési hozzájárulásra kötelezett nem minősül a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény 3. § d) pontjában meghatározott szervezetnek,
 
 (7a) Az állami adó- és vámhatóság vezetője a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésével összhangban a nemzetbiztonsági szolgálatok hivatásos állományának tagját érintő biztosítotti bejelentés szabályait, az adózással kapcsolatos bevallások, adatszolgáltatások rendjét és az azzal összefüggő eljárási szabályokat – a törvényi előírások keretei között – a nemzetbiztonsági szolgálattal külön megállapodásban rögzíti.
 

@@ -2,7 +2,7 @@
 
 24/C. § (1) Az állami adó- és vámhatóság a 17. § (1) bekezdés b) pontja szerinti adózók adószámának megállapítását megelőzően a 16. § (3) bekezdése szerint bejelentett adatok és az állami adó- és vámhatóság nyilvántartásában szereplő adatok egybevetésével, a 17. § (1) bekezdés b) pontja szerinti bejelentést követően megvizsgálja, hogy fennáll-e az adószám megállapításának (2) bekezdésben meghatározott valamely akadálya.
 
-(2) Az állami adó- és vámhatóság az adószám megállapítását megtagadja, ha az adózó vezető tisztségviselője, cégvezetője, képviseletre jogosult tagja, vagy korlátolt felelősségű társaság, zártkörűen működő részvénytársaság esetében az 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező tagja, részvényese, ilyen mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező tag, részvényes (e § alkalmazásában a továbbiakban: tag, részvényes) hiányában bármely tagja vagy részvényese, egyszemélyes gazdasági társaság esetében a tag vagy részvényes
+(2) Az állami adó- és vámhatóság az adószám megállapítását megtagadja, ha az adózó vezető tisztségviselője, cégvezetője, képviseletre jogosult tagja, vagy korlátolt felelősségű társaság, zártkörűen működő részvénytársaság esetében az 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező tagja, részvényese, ilyen mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező tag, részvényes hiányában bármely tagja vagy részvényese, egyszemélyes gazdasági társaság esetében a tag vagy részvényes (e § alkalmazásában a továbbiakban: tag, részvényes)
 
 a) olyan, a 17. § (1) bekezdés b) pontja szerinti más adózó jelenlegi, vagy volt vezető tisztségviselője, cégvezetője, tagja, vagy részvényese, amely
 
@@ -10,7 +10,7 @@ aa) az adószám megállapítása iránti kérelem benyújtásának napján az �
 
 ab) az adószám megállapítása iránti kérelem benyújtásának napját megelőző 5 éven belül az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 5 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 10 millió forintot meghaladó adótartozással jogutód nélkül szűnt meg, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, cégvezetői, tagi vagy részvényesi jogviszony a felszámolás vagy a kényszertörlési eljárás kezdő napját megelőző 360. napon, illetve azt követően bármelyik nap fennállt, vagy
 
-ac) adószámát az állami adó- és vámhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző 5 éven belül az adószám 24/A. § szerinti felfüggesztését követően, vagy a 24/B. § szerint, illetve a 24/D. § (2) bekezdésében, illetve a 24/F. § (6) bekezdésében felsorolt okból, az ott meghatározott eljárásban jogerősen törölte, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, cégvezetői, tagi vagy részvényesi jogviszonya az adószám törlését kimondó jogerős határozat meghozatalának napján, vagy azt követően bármelyik nap fennállt,
+ac) adószámát az állami adóhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző 5 éven belül az adószám 24/A. § szerinti felfüggesztését követően, vagy a 24/B. § szerint, illetve a 24/D. § (2) bekezdésében, illetve a 24/F. § (6) bekezdésében felsorolt okból, az ott meghatározott eljárásban jogerősen törölte, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, cégvezetői, tagi vagy részvényesi jogviszonya az adószám törlését kimondó jogerős határozat meghozatalának napján, vagy azt követően bármelyik nap fennállt,
 
 b) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 180 napon keresztül folyamatosan fennálló, 5 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 10 millió forintot meghaladó adótartozással rendelkezik, vagy
 
@@ -48,7 +48,7 @@ b) a (4) bekezdés szerinti kérelmére indult eljárásban okirattal bizonyítj
 
 a) az adózóban közvetlenül vagy közvetett módon 25 százalékot meghaladó mértékű szavazati joggal nem rendelkezett, vagy
 
-b) az adózóban közvetlenül vagy közvetett módon 50 százalékot meghaladó mértékű szavazati joggal nem rendelkezett és minden tőle elvárhatót megtett az akadály fennállásának megszüntetésére.
+b) az adózóban közvetlenül vagy közvetett módon 50 százalékot meghaladó mértékű szavazati joggal nem rendelkezett és minden tőle elvárhatót megtett az akadály bekövetkezésének elkerülésére vagy fennállásának megszüntetésére.
 
 (7) Az állami adó- és vámhatóság jogosult a (4) bekezdés szerinti kérelemben foglaltak valódiságát – így különösen a tartozást felhalmozó adózó által teljesített termékértékesítés, szolgáltatásnyújtás tényleges megvalósulását – a (2) bekezdés aa) alpontja, valamint b) pontja szerinti adótartozással rendelkező adózónál, illetőleg az (5) bekezdés a) pontja szerinti vevőnél, megrendelőnél vizsgálni, illetőleg e tekintetben a korábbi ellenőrzések eredményeit felhasználni.
 

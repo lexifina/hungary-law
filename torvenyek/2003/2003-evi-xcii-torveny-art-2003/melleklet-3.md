@@ -28,7 +28,7 @@ d) a tulajdonjog, használati jog, vagyonkezelői jog átruházására irányul�
 
 e) a telekalakítási vagy építési tilalom elrendelésének tényét, a tény bejegyzésének napját.
 
-3.
+3. Megyei (fővárosi) kormányhivatalok díjmentesen szolgáltatnak adatot az állami adó- és vámhatóság részére a földműves nyilvántartásból az adózó földműves minőségének megállapítása céljából.
 
 D) A hitelintézet, pénzforgalmi szolgáltató és a befektetési szolgáltató adatszolgáltatása
 

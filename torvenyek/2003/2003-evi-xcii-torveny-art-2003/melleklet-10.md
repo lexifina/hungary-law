@@ -93,3 +93,5 @@ Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó kül
 5.1.1.4. a belföldi adóazonosító számát,
 
 5.1.1.5. az adózó székhelye szerinti ország megnevezését, amennyiben a székhely az Európai Közösség területén kívül található,
+
+5.1.1.6. az IBAN bankszámlaszámot,

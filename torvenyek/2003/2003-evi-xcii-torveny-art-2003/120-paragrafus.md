@@ -38,6 +38,8 @@ hatósági eljárás.
 
 (4a) Ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak az adóhatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, az adóhatóság az eljárást felfüggeszti. Ha a más szerv előtti eljárás megindítására az adózó jogosult, erre őt megfelelő határidő kitűzése mellett fel kell hívni. Ha az adózó a felhívásnak nem tesz eleget, az adóhatóság az eljárást megszünteti, vagy a rendelkezésre álló adatok alapján dönt.
 
+(4b) Ha a közigazgatási ügyben eljáró bíróság a hatóságot új eljárásra kötelezi, és ezzel a bírósági döntéssel szemben perújítási vagy felülvizsgálati kérelmet terjesztettek elő, az adóhatóság az eljárást felfüggeszti.
+
 (5) A hivatalból indult hatósági eljárás felfüggesztésének az adózó kérelmére nincs helye.
 
 (5a) A kérelemre indult eljárás felfüggesztését indokolt esetben egy alkalommal az adózó akkor is kérheti, ha az eljárás felfüggesztésének a (4a) bekezdés alapján egyébként nincs helye. Az eljárás az adózó kérelmére akkor függeszthető fel, ha azt jogszabály nem zárja ki.

@@ -86,7 +86,7 @@ c) a magánszemély adózó a b) pont szerinti saját magára vonatkozó adatokh
 
 hozzáférhet.
 
-(16)
+(16) Ha a belföldön gazdasági célú letelepedéssel, lakóhellyel vagy állandó tartózkodási hellyel nem rendelkező adóalany e törvény szerint központi elektronikus szolgáltató rendszeren keresztül történő elektronikus kapcsolattartásra egyébként nem kötelezett, választása szerint jogosult a 9. számú melléklet 2. címében szabályozott elektronikus levélcímen való kapcsolattartásra, azzal az eltéréssel, hogy az ehhez szükséges elektronikus levélcímét az állami adó- és vámhatósághoz (változás)bejelentési kötelezettsége teljesítésével valamint az erre vonatkozó kifejezett nyilatkozatával bejelenti.
 
 (17) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a nyilvántartásba vétel és az abból való törlés feltételeit, a nyilvántartás vezetésének szabályait, a bejelentési eljárásért, valamint a továbbképzési programok szervezésére és lebonyolítására jelentkező szervezetek kérelmének elbírálásáért fizetendő igazgatási szolgáltatási díj mértékét, továbbá a nyilvántartásba vettek kötelező továbbképzésére vonatkozó részletes szabályokat azzal, hogy az eljárás során méltányossági eljárásnak nincs helye.
 
@@ -94,7 +94,11 @@ hozzáférhet.
 
 (18) Felhatalmazást kap a Kormány, hogy az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezetet rendeletben kijelölje.
 
-(19)
+(19) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) állapítsa meg a menedékes felügyeleti szolgáltatásra és a menedékes felügyeleti szolgáltató kijelölésére vonatkozó részletes szabályokat, valamint
+
+b) jelölje ki a menedékes felügyeleti szolgáltatót.
 
 (20)–(22)
 
