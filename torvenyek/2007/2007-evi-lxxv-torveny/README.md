@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2016-06-16 | 2016. évi LXVI. törvény | 2007-75-00-00.29 |
 | 2016-11-26 | 2016. évi CXXV. törvény | 2007-75-00-00.30 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2007-75-00-00.31 |
+| 2017-06-20 | 2017. évi LXXVII. törvény | 2007-75-00-00.32 |

@@ -10,7 +10,7 @@ d) kamarai minőség-ellenőrzés során hozott jogerős határozatban a minős�
 
 e) fegyelmi eljárás során keretében a minősítés megvonását kezdeményezték,
 
-f) a Magyar Nemzeti Bank a tőkepiacról szóló törvény, a biztosítási tevékenységről szóló törvény illetve a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján a minősítés visszavonását kezdeményezte.
+f) a Magyar Nemzeti Bank a tőkepiacról szóló törvény, a biztosítási tevékenységről szóló törvény a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény, illetve a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény alapján a minősítés visszavonását kezdeményezte.
 
 (2) A minősítés visszavonása tekintetében a közfelügyeleti hatóság jár el. Az eljárás megindítását – az ok megjelölésével – az érintett állami szerv is kérheti.
 

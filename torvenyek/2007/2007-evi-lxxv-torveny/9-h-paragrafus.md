@@ -16,7 +16,7 @@ d) aki cselekvőképességében részlegesen korlátozott vagy cselekvőképtele
 
 e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat jogerőre emelkedésétől számított három évig,
 
-f) akit minőségellenőrzési eljárás vagy kamarai minőségellenőrzési eljárás során a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltottak, az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
+f) akit a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltott, az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
 
 g) aki az életmódja vagy magatartása miatt a könyvvizsgálói hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 

@@ -2,7 +2,7 @@
 
 a) amelynek létesítő okiratában a tevékenységi körök között a könyvvizsgálói tevékenységgel összeegyeztethetetlen tevékenység szerepel,
 
-b) amelynek engedélyét visszavonták, az erről szóló határozat jogerőre emelkedésétől számított három évig,
+b) amelynek engedélyét visszavonták az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
 
 c) amelynek engedélye – saját kérésére – megszűnt, az erről szóló határozat jogerőre emelkedésétől számított egy évig,
 

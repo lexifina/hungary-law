@@ -16,6 +16,8 @@ g) vállalja a kamarai tagdíj megfizetését,
 
 h) az előírt igazgatási szolgáltatási díjat megfizette.
 
+(1a) Egyéni vállalkozóként jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet folytató kamarai tag könyvvizsgálónál az egyéni vállalkozói jogviszony nem minősül az (1) bekezdés d) pontja szerinti jogviszonynak.
+
 (2) Az (1) bekezdés c) és d) pontja szerinti feltétel teljesítésétől – indokolt esetben – el lehet tekinteni a természetes személynél, ha munkáltatója (foglalkoztatója) írásban nyilatkozik arról, hogy a kérelmező a kamarai tag könyvvizsgálói minőségéből adódó feladatait megfelelően el tudja látni, valamint, hogy az (1) bekezdés c) és d) pontja szerinti jogviszonyból adódó jogok és kötelezettségek érvényesítésével nem akadályozza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátását.
 
 (3) Az (1) bekezdés e) pontja szerinti feltételnek nem kell megfelelnie a természetes személynek, ha kizárólag könyvvizsgáló cég nevében végez jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.

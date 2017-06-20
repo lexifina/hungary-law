@@ -10,7 +10,7 @@ c) ha a könyvvizsgáló cég a 35. §-ban foglalt feltételeknek a továbbiakba
 
 d) a könyvvizsgáló cég megszűnésével,
 
-e) minőségellenőrzési eljárás vagy kamarai minőségellenőrzési eljárás során hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján.
+e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága által hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján.
 
 (2) Az engedély visszavonásáról szóló, (1) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
 
