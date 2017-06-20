@@ -41,9 +41,3 @@ c) a 86. § (1) bekezdésének a)–g) pontjaiban felsorolt szolgáltatások ny�
 8. A 7. pont szerinti megosztás alkalmazása során az évközi adatokat az adómegállapítási időszakok között göngyölíteni kell, és azt a levonható előzetesen felszámított adó összeget kell előjelhelyesen megállapítani, amely a tárgyidőszaki és azt megelőző utolsó adómegállapítási időszak eredményének különbözeteként adódik.
 
 9. A 7. pontban említett megosztáshoz az adóalany:
-
-a) választhatja a tárgyévet megelőző évre vonatkozó végleges levonási hányadost, feltéve, hogy ilyen hányadossal rendelkezik; vagy egyebekben
-
-b) azt a levonási hányadost alkalmazhatja, amely a tárgyévre vonatkozó évközi és az adómegállapítási időszakok között göngyölített adatok eredménye.
-
-10. Ha az adóalany élt a 9. a) alpontban említett választási jogával, attól a 7. pont szerinti megosztás egész időszakában nem térhet el. Az adóalany ez esetben a 7. pont szerinti megosztással érintett adómegállapítási időszakaiban az arányosítással megosztandó előzetesen felszámított adó összegét – a 8. ponttól eltérően – a 9. a) alpont szerinti levonási hányados alkalmazásával köteles megosztani.
