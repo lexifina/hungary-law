@@ -1626,4 +1626,6 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 420. | 3562202 | Zöldség- és gyümölcstermesztő | 1,1385 |
 
-[^25]: A 3. mellékletet a 340/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be.
+| 421. | 5486303 | Honvédelmi igazgatási ügyintéző | 1,0890 |
+
+[^25]: A 3. mellékletet a 340/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 149/2017. (VI. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
