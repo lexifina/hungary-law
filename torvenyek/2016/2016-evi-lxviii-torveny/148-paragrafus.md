@@ -18,7 +18,7 @@ d) a nyilvántartások vezetésére, az állami adó- és vámhatóság felé te
 
 e) az adó-visszaigénylés és az adófizetési kötelezettség alóli mentesülés érvényesítésének részletes szabályait;
 
-f) a zárjegyre, a hivatalos zárra és a párlat adójegyre vonatkozó részletes szabályokat;
+f) a zárjegyre, a hivatalos zárra és a párlat adójegyre vonatkozó részletes szabályokat, a hivatalos zár előállításának engedélyezési eljárásának részletes szabályait és a hivatalos zár előállítója általi adatszolgáltatás adattartalmára vonatkozó szabályokat;
 
 g) a jövedéki ellenőrzésre, a lefoglalásra és az elkobzásra vonatkozó részletes szabályokat;
 
