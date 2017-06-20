@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-312-20-
 | 2017-01-02 | 2012-312-20-22.31 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-02-03 | 2012-312-20-22.32 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-03-21 | 2012-312-20-22.33 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-06-20 | 2012-312-20-22.34 | 144/2017. (VI. 12.) Korm. rendelet |

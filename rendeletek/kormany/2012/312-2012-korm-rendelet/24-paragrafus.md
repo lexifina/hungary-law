@@ -6,9 +6,9 @@ a) jogszabályban előírt esetekben
 
 aa) a 23. § (1) bekezdés a)–b) pontjában meghatározott esetben a települési önkormányzat polgármesterének településképi véleményét, vagy
 
-ab)[^83] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
+ab)[^88] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
 
-b)[^84]
+b)[^89]
 
 c) az eljárási illeték befizetésének igazolását.
 
@@ -18,15 +18,15 @@ c) az eljárási illeték befizetésének igazolását.
 
 (4) Az építésügyi hatóság a kérelem elbírálása során, annak tartalmától függően helyszíni szemle megtartása mellett vizsgálja, hogy
 
-a)[^85] a tervezett építmény elhelyezése, beépítési paraméterei, építészeti kialakítása megfelel-e a helyi építési szabályzatban és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben (a továbbiakban: OTÉK) meghatározott követelményeknek,
+a)[^90] a tervezett építmény elhelyezése, beépítési paraméterei, építészeti kialakítása megfelel-e a helyi építési szabályzatban és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben (a továbbiakban: OTÉK) meghatározott követelményeknek,
 
 b) a települési önkormányzat polgármesterének településképi véleménye alapján a tervezett építészeti kialakítás megfelel-e a településképi követelményeknek,
 
 c) a tervezett építési tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
-(5)[^86]
+(5)[^91]
 
-[^83]: A 24. § (1) bekezdés a) pont ab) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 9. pontja szerint módosított szöveg.
-[^84]: A 24. § (1) bekezdés b) pontját a 77. § hatályon kívül helyezte.
-[^85]: A 24. § (4) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 3. pontja szerint módosított szöveg.
-[^86]: A 24. § (5) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § i) pontja hatályon kívül helyezte.
+[^88]: A 24. § (1) bekezdés a) pont ab) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 9. pontja szerint módosított szöveg.
+[^89]: A 24. § (1) bekezdés b) pontját a 77. § hatályon kívül helyezte.
+[^90]: A 24. § (4) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 3. pontja szerint módosított szöveg.
+[^91]: A 24. § (5) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § i) pontja hatályon kívül helyezte.

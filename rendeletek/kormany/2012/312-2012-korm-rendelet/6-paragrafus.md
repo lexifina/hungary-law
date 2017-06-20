@@ -2,11 +2,17 @@
 
 6. § (1) A helyszíni szemlére vonatkozó, ezen alcímben foglalt szabályokat az egyes hatósági eljárások szabályaira vonatkozó eltérésekkel kell alkalmazni.
 
-(2)[^17] Az építésügyi és építésfelügyeleti hatóság képviselője a helyszíni szemlén vagy a hatósági ellenőrzésen az ellenőrzési jogosultságát az igazolványának felmutatásával igazolja. Az igazolvány tartalmazza az építésügyi vagy építésfelügyeleti hatóság képviselőjének nevét, besorolását, fényképét, aláírását, az őt foglalkoztató hivatal megnevezését, bélyegzőlenyomatát, az igazolvány kiállításának dátumát, érvényességi idejét, valamint az igazolvány sorszámát.
+(2)[^18] Az építésügyi és építésfelügyeleti hatóság képviselője a helyszíni szemlén vagy a hatósági ellenőrzésen az ellenőrzési jogosultságát az igazolványának felmutatásával igazolja.
 
-(3)[^18] Az építésügyi hatóság a döntés meghozatalához szükséges tényállás tisztázásának keretében az építési tevékenység helyszínén, annak környezetében vizsgálja a döntés meghozatalának feltételeit, különösen
+(2a)[^19] Az általános építésügyi hatóság képviselőjének igazolványa tartalmazza a hatóság képviselőjének nevét, besorolását, fényképét, aláírását, az őt foglalkoztató hivatal megnevezését, bélyegzőlenyomatát, az igazolvány kiállításának dátumát, érvényességi idejét, valamint az igazolvány sorszámát.
 
-a)[^19]
+(2b)[^20] A kiemelt építésügyi hatóság és az építésfelügyeleti hatóság képviselőjének igazolványa tekintetében a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendelet rendelkezései irányadóak.
+
+(2c)[^21] A helyszíni szemlét vagy a hatósági ellenőrzést egyidejűleg legalább két fő végzi.
+
+(3)[^22] Az építésügyi hatóság a döntés meghozatalához szükséges tényállás tisztázásának keretében az építési tevékenység helyszínén, annak környezetében vizsgálja a döntés meghozatalának feltételeit, különösen
+
+a)[^23]
 
 b) hogy a meglévő állapotot rögzítő építészeti-műszaki dokumentáció tartalma a valóságnak megfelel-e,
 
@@ -16,12 +22,15 @@ d) hogy az építmény rendeltetésszerű és biztonságos használatra alkalmas
 
 e) hogy a megvalósult építmény, építményrész – az engedély nélkül megvalósítható eltérések figyelembevétele mellett – az építési engedélynek és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak megfelelően valósult-e meg.
 
-(4)[^20] Az építésügyi hatóság a helyszíni szemlén tapasztaltakról feljegyzést vagy jegyzőkönyvet és a helyszínről, annak környezetéről dátummal ellátott fényképfelvételt készít.
+(4)[^24] Az építésügyi hatóság a helyszíni szemlén tapasztaltakról feljegyzést vagy jegyzőkönyvet és a helyszínről, annak környezetéről dátummal ellátott fényképfelvételt készít.
 
-(5)[^21] A Kormány által rendeletben kihirdetett veszélyhelyzet esetén három napon belül helyszíni szemlét kell tartani, amelyen a résztvevő szakhatóság – amennyiben ennek információtechnológiai feltételei fennállnak – állásfoglalását az ÉTDR-be tölti fel. Ha a helyszíni szemlén az információtechnológiai feltételek nem állnak fenn, a szakhatósági állásfoglalást legkésőbb a helyszíni szemlét követő napon kell az ÉTDR-be feltölteni.
+(5)[^25] A Kormány által rendeletben kihirdetett veszélyhelyzet esetén három napon belül helyszíni szemlét kell tartani, amelyen a résztvevő szakhatóság – amennyiben ennek információtechnológiai feltételei fennállnak – állásfoglalását az ÉTDR-be tölti fel. Ha a helyszíni szemlén az információtechnológiai feltételek nem állnak fenn, a szakhatósági állásfoglalást legkésőbb a helyszíni szemlét követő napon kell az ÉTDR-be feltölteni.
 
-[^17]: A 6. § (2) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^18]: A 6. § (3) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
-[^19]: A 6. § (3) bekezdés a) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
-[^20]: A 6. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
-[^21]: A 6. § (5) bekezdését a 62/2014. (III. 6.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^18]: A 6. § (2) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^19]: A 6. § (2a) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 9. §-a iktatta be.
+[^20]: A 6. § (2b) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 9. §-a iktatta be.
+[^21]: A 6. § (2c) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 9. §-a iktatta be.
+[^22]: A 6. § (3) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+[^23]: A 6. § (3) bekezdés a) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^24]: A 6. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
+[^25]: A 6. § (5) bekezdését a 62/2014. (III. 6.) Korm. rendelet 17. § (2) bekezdése iktatta be.

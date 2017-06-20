@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^249]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^261]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -16,7 +16,7 @@
 
 6. Épületben az önálló rendeltetési egységek számának változtatása.
 
-7. A 14. pont e) alpontjában és a 30. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet.
+7. A 14. pont e) alpontjában és a 29. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet.
 
 8. Nem emberi tartózkodásra szolgáló építmény építése, átalakítása, felújítása, valamint bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 100 m3 térfogatot és 4,5 m gerincmagasságot.
 
@@ -84,4 +84,4 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 32. Közterületen, filmforgatáshoz kapcsolódó építmény építése.
 
-[^249]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított szöveg.
+[^261]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

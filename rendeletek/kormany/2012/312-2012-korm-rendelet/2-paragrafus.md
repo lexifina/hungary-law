@@ -4,9 +4,9 @@
 
 ## 2. Elektronikus tárhely biztosítása
 
-2. § (1)[^2] Az építésügyi hatósági engedély iránti kérelem elektronikus úton történő benyújtásához, papír alapon történő benyújtása esetén a kérelem és jogszabályban előírt mellékleteinek feltöltéséhez az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer (a továbbiakban: ÉTDR) az építtető részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet biztosít.
+2. § (1)[^2] Az építésügyi hatósági engedély vagy tudomásulvétel iránti kérelem elektronikus úton történő benyújtásához, papír alapon történő benyújtása esetén a kérelem és jogszabályban előírt mellékleteinek feltöltéséhez az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer (a továbbiakban: ÉTDR) az építtető részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet biztosít.
 
-(2) Az építésügyi hatósági engedély iránti kérelem elektronikus úton történő benyújtását megelőzően az (1) bekezdésben foglaltakon túlmenően az építtető az építésügyi hatósághoz benyújtott külön kérelmére, az abban kérelmezett időtartamra
+(2)[^3] Az építésügyi hatósági engedély vagy tudomásulvétel iránti kérelem elektronikus úton történő benyújtását megelőzően az (1) bekezdésben foglaltakon túlmenően az építtető az építésügyi hatósághoz benyújtott külön kérelmére, az abban kérelmezett időtartamra
 
 a) a kérelem és jogszabályban előírt mellékletei,
 
@@ -16,18 +16,19 @@ c) építésügyi hatósági szolgáltatás kérelmezéséhez szükséges dokume
 
 ## összegyűjtése és előzetes tárolása céljából a kérelmező részére az ÉTDR elektronikus gyűjtő tárhelyet biztosít.
 
-(3)[^3] Az elektronikus tárhely igényléséhez – a papír alapon történő benyújtás esetét kivéve – az építtetőnek vagy meghatalmazottjának az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti elektronikus azonosítási szolgáltatással vagy elektronikus azonosító eszközzel történt azonosítása alapján regisztrálnia kell az ÉTDR-ben. Az építtető vagy meghatalmazottja regisztrációval – külön bírálat és döntés nélkül – automatikusan hozzáférést kap a saját tárhelyéhez.
+(3)[^4] Az elektronikus tárhely igényléséhez – a papír alapon történő benyújtás esetét kivéve – az építtetőnek vagy meghatalmazottjának az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti elektronikus azonosítási szolgáltatással vagy elektronikus azonosító eszközzel történt azonosítása alapján regisztrálnia kell az ÉTDR-ben. Az építtető vagy meghatalmazottja regisztrációval – külön bírálat és döntés nélkül – automatikusan hozzáférést kap a saját tárhelyéhez.
 
-(4)[^4] Az (1) és (2) bekezdés szerinti elektronikus tárhely dokumentumaiba az építésügyi hatósági engedély iránti kérelem benyújtása előtt csak a tárhely gazdájaként az építtető vagy meghatalmazottja, továbbá az építtető vagy meghatalmazottja hozzájárulásával az eljáró építésügyi hatóság, szakhatóság és az arra felruházott személy vagy jogi személyiséggel nem rendelkező szervezet tekinthet bele vagy tölthet fel dokumentumokat.
+(4)[^5] Az (1) és (2) bekezdés szerinti elektronikus tárhely dokumentumaiba az építésügyi hatósági engedély iránti kérelem benyújtása előtt csak a tárhely gazdájaként az építtető vagy meghatalmazottja, továbbá az építtető vagy meghatalmazottja hozzájárulásával az eljáró építésügyi hatóság, szakhatóság és az arra felruházott személy vagy jogi személyiséggel nem rendelkező szervezet tekinthet bele vagy tölthet fel dokumentumokat.
 
-(5)[^5] Az építtető vagy meghatalmazottja az előzetes szakhatósági állásfoglalás, a tervtanácsi vagy településképi vélemény megkéréséhez szükséges dokumentumokat az elektronikus gyűjtő tárhelyre tölti fel, melyekhez a szakhatóságnak, a tervtanács elnökének, a települési önkormányzat polgármesterének, a fővárosi önkormányzat főpolgármesterének hozzáférést biztosít. A polgármester vagy főpolgármester a településképi véleményét, a szakhatóság az állásfoglalását a véleményezett és elektronikusan záradékolt dokumentációval együtt ugyanezen tárhelyre tölti fel.
+(5)[^6] Az építtető vagy meghatalmazottja az előzetes szakhatósági állásfoglalás, a tervtanácsi vagy településképi vélemény megkéréséhez szükséges dokumentumokat az elektronikus gyűjtő tárhelyre tölti fel, melyekhez a szakhatóságnak, a tervtanács elnökének, a települési önkormányzat polgármesterének, a fővárosi önkormányzat főpolgármesterének hozzáférést biztosít. A polgármester vagy főpolgármester a településképi véleményét, a szakhatóság az állásfoglalását a véleményezett és elektronikusan záradékolt dokumentációval együtt ugyanezen tárhelyre tölti fel.
 
 (6) Az (1) és (2) bekezdés szerinti tárhely az építésügyi hatósági engedély iránti kérelem benyújtásáig áll az építtető rendelkezésére.
 
-(7)[^6] Az építészeti-műszaki dokumentáció, az előzetes szakhatósági állásfoglalás, az építészeti-műszaki tervtanács véleménye, valamint a települési (fővárosban a kerületi) önkormányzat polgármesterének vagy a fővárosi önkormányzat főpolgármesterének (a továbbiakban együtt: települési önkormányzat polgármestere) településképi véleménye és az egyéb dokumentumok elektronikus tárhelyre történő feltöltése önmagában az engedélyezési eljárást nem indítja meg.
+(7)[^7] Az építészeti-műszaki dokumentáció, az előzetes szakhatósági állásfoglalás, az építészeti-műszaki tervtanács véleménye, valamint a települési (fővárosban a kerületi) önkormányzat polgármesterének vagy a fővárosi önkormányzat főpolgármesterének (a továbbiakban együtt: települési önkormányzat polgármestere) településképi véleménye és az egyéb dokumentumok elektronikus tárhelyre történő feltöltése önmagában az engedélyezési eljárást nem indítja meg.
 
-[^2]: A 2. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 1. pontja, a 156/2016. (VI. 13.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
-[^3]: A 2. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 64. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 2. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 2. pontja szerint módosított szöveg.
-[^5]: A 2. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (7) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 1. pontja, a 144/2017. (VI. 12.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 64. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 2. pontja szerint módosított szöveg.
+[^6]: A 2. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (7) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.

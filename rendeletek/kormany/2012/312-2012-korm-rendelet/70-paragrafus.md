@@ -1,3 +1,5 @@
+## 69. §
+
 ## XVI. Fejezet
 
 ## JOGORVOSLATI ELJÁRÁS
@@ -12,6 +14,6 @@ a) fellebbezésében meg kell jelölnie, hogy az elektronikus tárhelyén tárol
 
 b) hozzáférést kell biztosítania az első- és másodfokon eljáró hatóságnak az a) pontban megjelölt dokumentumokhoz.
 
-(4)[^230] A fellebbezés és mellékletei a beérkezést követően elektronikus mappába kerülnek. Az elektronikus tárhelyen lévő dokumentumoknak a fellebbezés benyújtása előtt a fellebbező a gazdája, a fellebbezés benyújtását követően az elektronikus mappa gazdája az eljáró első fokú hatóság, mely a mappához és tartalmához csak a Ket. és e rendelet szabályai szerint biztosít hozzáférést és betekintést.
+(4)[^240] A fellebbezés és mellékletei a beérkezést követően elektronikus mappába kerülnek. Az elektronikus tárhelyen lévő dokumentumoknak a fellebbezés benyújtása előtt a fellebbező a gazdája, a fellebbezés benyújtását követően az elektronikus mappa gazdája az eljáró első fokú hatóság, mely a mappához és tartalmához csak a Ket. és e rendelet szabályai szerint biztosít hozzáférést és betekintést.
 
-[^230]: A 70. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 27. pontja szerint módosított szöveg.
+[^240]: A 70. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 27. pontja szerint módosított szöveg.

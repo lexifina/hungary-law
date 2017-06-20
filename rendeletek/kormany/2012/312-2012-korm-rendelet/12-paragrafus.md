@@ -1,8 +1,8 @@
-## 11/C. §[^43] A kiemelt építésügyi hatóság a világörökségi helyszínen vagy világörökségi területen új épület építésére vagy meglévő épület bővítésére, átalakítására vagy bontására irányuló építésügyi hatósági engedélyezési eljárásban az örökségvédelmi szakkérdést, a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendelet szerint vizsgálja.
+## 11/C. §[^47] A kiemelt építésügyi hatóság a világörökségi helyszínen vagy világörökségi területen új épület építésére vagy meglévő épület bővítésére, átalakítására vagy bontására irányuló építésügyi hatósági engedélyezési eljárásban az örökségvédelmi szakkérdést, a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendelet szerint vizsgálja.
 
 ## 11. Szakhatóság közreműködése
 
-12. § (1)[^44] Az építésügyi hatóság 6. melléklet I. vagy II. táblázatában felsorolt eljárásában, az ott meghatározott feltételek fennállása esetén és az ott megjelölt szakkérdésben, a felsorolt hatóságok szakhatóságként vesznek részt.
+12. § (1)[^48] Az építésügyi hatóság 6. melléklet I. vagy II. táblázatában felsorolt eljárásában, az ott meghatározott feltételek fennállása esetén és az ott megjelölt szakkérdésben, a felsorolt hatóságok szakhatóságként vesznek részt.
 
 (2) A szakhatóság állásfoglalásában csak a hatáskörébe tartozó szakkérdés jogszabályban meghatározott követelményeit jogosult érvényre juttatni, azzal, hogy az állásfoglalásban meg kell jelölni a követelmény jogszabályi hivatkozását is.
 
@@ -12,7 +12,7 @@
 
 a) hiánytalan kérelem és mellékletek esetén az eljárás megindulását követően haladéktalanul, de legkésőbb öt napon belül,
 
-b)[^45] hiányos kérelem esetén a hiánypótlást követően haladéktalanul, de legkésőbb három napon belül
+b)[^49] hiányos kérelem esetén a hiánypótlást követően haladéktalanul, de legkésőbb három napon belül
 
 az ÉTDR alkalmazásával, elektronikus úton keresi meg, biztosítva a szakhatóság számára a kérelem, az építészeti-műszaki dokumentáció és az 5. mellékletben meghatározott dokumentáció ÉTDR-ben történő megtekintésének, elérésének és véleményezésének lehetőségét.
 
@@ -32,6 +32,6 @@ f) az építésügyi hatóság által a szakhatósági állásfoglalás megadás
 
 (6) A szakhatóság állásfoglalásának kialakítását és az általa vizsgált dokumentáció záradékolását a számára biztosított ÉTDR-ben végzi.
 
-[^43]: A 11/C. §-t a 306/2016. (X. 13.) korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet – 497/2016. (XII. 28.) Korm. rendelet 13. § (1) bekezdése szerint módosított – 208. § (1) bekezdésével megállapított szöveg.
-[^44]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (6) bekezdésével megállapított szöveg.
-[^45]: A 12. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 6. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^47]: A 11/C. §-t a 306/2016. (X. 13.) korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet – 497/2016. (XII. 28.) Korm. rendelet 13. § (1) bekezdése szerint módosított – 208. § (1) bekezdésével megállapított szöveg.
+[^48]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (6) bekezdésével megállapított szöveg.
+[^49]: A 12. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 6. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

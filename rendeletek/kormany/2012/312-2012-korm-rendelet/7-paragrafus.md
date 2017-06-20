@@ -1,12 +1,12 @@
 ## 7. Az engedély iránti kérelem tartalma
 
-7. § (1)[^22] Az építésügyi hatósági engedély iránti kérelem a a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 35. § (1) bekezdésében foglaltakon kívül tartalmazza:
+7. § (1)[^26] Az építésügyi hatósági engedély iránti kérelem a a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 35. § (1) bekezdésében foglaltakon kívül tartalmazza:
 
-a)[^23] az építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
+a)[^27] az építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
 
 b) a kérelmezett engedélyezési eljárás fajtáját,
 
-c)[^24] a kérelem tárgyát és annak rövid leírását, a 8. melléklet I. rész 4. pont 4.1. alpontja szerinti számított építményértéket,
+c)[^28] a kérelem tárgyát és annak rövid leírását, a 8. melléklet I. rész 4. pont 4.1. alpontja szerinti számított építményértéket,
 
 d) a kérelem tárgyával összefüggésben
 
@@ -26,6 +26,6 @@ h) az építtető aláírását.
 
 (2) A kérelmet az ÉTDR által biztosított elektronikus vagy papírformátumú formanyomtatványon lehet benyújtani, mely egyben a külön jogszabályban meghatározott kísérőlap is.
 
-[^22]: A 7. § (1) bekezdés nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 64. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^23]: A 7. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (3) bekezdésével megállapított szöveg.
-[^24]: A 7. § (1) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 5. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^26]: A 7. § (1) bekezdés nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 64. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 7. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (3) bekezdésével megállapított szöveg.
+[^28]: A 7. § (1) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 5. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
