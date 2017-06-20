@@ -18,7 +18,7 @@ b) benyújtja a nyilatkozatát, arra vonatkozóan, hogy rendelkezik-e EORI szám
 
 (5) A NAV vámazonosító szám igénylése esetén a bejelentés alapján EORI számot állapít meg a Vámkódex 9. cikk (1) és (2) bekezdése szerinti esetekben.
 
-(6) Az FJA 6. cikk (2) bekezdésének kivételével – a (9) bekezdésre figyelemmel – valamennyi, gazdálkodónak nem minősülő személynek nyilvántartásba kell vetetnie magát azon esetekben, amikor a vámhatóságok előtt elektronikus úton vagy papír alapon vám-árunyilatkozatot, vagy a Vámkódex 22. cikke szerinti kérelmet nyújt be.
+(6) A 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2446/2015/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 6. cikk (2) bekezdésének kivételével – a (9) bekezdésre figyelemmel – valamennyi, gazdálkodónak nem minősülő személynek nyilvántartásba kell vetetnie magát azon esetekben, amikor a vámhatóságok előtt elektronikus úton vagy papíralapon vám-árunyilatkozatot, vagy a Vámkódex 22. cikke szerinti kérelmet nyújt be.
 
 (7) A vámhatóság az FJA 4. cikke alapján az EORI nyilvántartásba vételhez szükséges adatok benyújtását elektronikus adatfeldolgozási módtól eltérő módon a természetes személyeknek, illetve azon gazdálkodóknak engedélyezi, akik a vámhatóság vonatkozó számítógépes rendszeréhez való közvetlen hozzáféréssel nem rendelkeznek.
 

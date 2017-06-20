@@ -10,13 +10,13 @@
 
 3. jövedéki termék: a jövedéki adóról szóló törvényben (a továbbiakban: Jöt.) ekként meghatározott termék,
 
-4. postai küldemény: a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2446/2015/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 1. cikk 24. pontja szerinti küldemény,
+4.
 
 5. tartozás: a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által az adós részére közölt és az adós által – engedély nélkül – határidőre meg nem fizetett összeg,
 
 6. ügyfél: az a személy, akit a vámjogszabályok alapján jogok illetnek meg, illetve kötelezettségek terhelnek, ügyfélnek kell tekinteni továbbá e feladata ellátása során a vagyonfelügyelőt, a felszámolót és a végelszámolót is,
 
-7. vámhiány: a jogszerűen keletkezett vám és egyéb terhek és az azoknál kisebb értékben tévesen kiszabott vám és egyéb terhek különbözete, továbbá a jogszerűen keletkezett, ki nem szabott vám és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett, vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét, a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok, valamint a kapcsolódó egyéb terhek összege, továbbá a 85. § (7) bekezdése alapján megállapított egyéb teher különbözete,
+7. vámhiány: a keletkezett vámok és egyéb terhek és az annál kisebb összegben közölt vámok és egyéb terhek különbözete, továbbá a keletkezett, de nem közölt vámok és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett, vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét; a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok és egyéb terhek összege, továbbá a 85. § (7) bekezdése alapján megállapított egyéb teher különbözete,
 
 8. vámhivatal: a NAV megyei (fővárosi) adó- és vámigazgatóságai és azok kirendeltségei, valamint a Kormány rendeletében meghatározott igazgatóságok,
 

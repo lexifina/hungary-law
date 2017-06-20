@@ -30,7 +30,7 @@ b) az írásbeli felszólítást követő 30 napos határidő hosszabbítására
 
 (5) A kedvezményezett vámhatóság a garanciavállaló nyilatkozat vagy készfizető kezesi szerződés jóváhagyásáról haladéktalanul tájékoztatja a kötelezettségvállalót.
 
-(6) A VA 151. cikk (3) bekezdés esetén a kötelezettségvállaló tértivevényes levélpostai küldeményben köteles értesíteni a (6) bekezdés szerinti kedvezményezett vámhatóságot.
+(6) A VA 151. cikk (3) bekezdés esetén a kötelezettségvállaló tértivevényes levélpostai küldeményben köteles értesíteni a (5) bekezdés szerinti kedvezményezett vámhatóságot.
 
 (7) A kötelezettségvállaló helytállási kötelezettséghez kapcsolódó, a kedvezményezett vámhatóság általi igénybejelentés esetén az az írásbeli felszólításnak tartalmaznia kell a kötelezettségvállalást kérő azonosító adatait – név, cím, adószám vagy adóazonosító jel, EORI szám, a jogutódlással kapcsolatos adatok –, a tartozás összegét, az előírt és nem teljesített fizetési határidőt, a fizetési kötelezettséggel érintett határozat számát és a vámügyi művelet típusát.
 

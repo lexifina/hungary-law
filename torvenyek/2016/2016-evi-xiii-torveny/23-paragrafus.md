@@ -1,8 +1,8 @@
 ## 10. A Vámkódex 39. cikkéhez
 
-23. § (1) A vámjogszabályok és adószabályok ismételt megsértésének minősül, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül a vámjogszabályokban és az adószabályban foglalt, gazdasági tevékenységével összefüggő kötelezettségeinek megszegéséért vagy elmulasztásáért együttesen tíznél több alkalommal adóbírságot, mulasztási bírságot vagy vámigazgatási bírságot (ezen alcím alkalmazásában a továbbiakban együtt: bírság) jogerősen szabtak ki, és az így kivetett bírságok együttes összege meghaladja a kérelmező tekintetében szintén az ezen időtartamon belül keletkezett vám- és adófizetési kötelezettség 20%-át.
+23. § (1) A vámjogszabályok és adószabályok ismételt megsértésének minősül többek között az az eset, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül a vámjogszabályokban és az adószabályban foglalt, gazdasági tevékenységével összefüggő kötelezettségeinek megszegéséért vagy elmulasztásáért együttesen tíznél több alkalommal adóbírságot, mulasztási bírságot vagy vámigazgatási bírságot (ezen alcím alkalmazásában a továbbiakban együtt: bírság) jogerősen szabtak ki, és az így kivetett bírságok együttes összege meghaladja a kérelmező tekintetében szintén az ezen időtartamon belül keletkezett vám- és adófizetési kötelezettség 20%-át.
 
-(2) A vámjogszabályok és adószabályok súlyos megsértésének minősül, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül
+(2) A vámjogszabályok és adószabályok súlyos megsértésének minősül többek között az az eset, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül
 
 a) a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével összefüggően jogerősen bírságot szabtak ki, vagy
 

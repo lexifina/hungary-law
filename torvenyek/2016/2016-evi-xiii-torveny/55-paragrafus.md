@@ -2,12 +2,10 @@
 
 ## VÁMTARTOZÁS KELETKEZÉSE
 
-## 23. A Vámkódex 86. cikkéhez
+## 23. A Vámkódex 84. cikkéhez
 
-55. § (1) A nem tarifális behozatali és kiviteli vámmentességeket a vámjogszabályok és a Magyarországon alkalmazandó nemzetközi szerződések határozzák meg.
+55. § (1) Ha egyetemlegesség keretében több adós felel egyetlen vámtartozás megfizetéséért, akkor a (3) bekezdés kivételével a vámhatóság a teljesítést valamennyi érintett adóstól kéri oly módon, hogy a vám- és egyéb teher fizetési kötelezettségről szóló határozatot valamennyi érintett adós részére külön-külön, ugyanazon a napon, postai úton vagy adott esetben elektronikusan kell megküldeni.
 
-(2) Ha az árukat az FJA 141. cikke szerinti cselekménnyel jelentik be, az egyidejűleg a vámmentesség iránti kérelemnek tekintendő. Ha a vámhatóság a bejelentést elfogadja, azt a vám-árunyilatkozat elfogadásával egyenértékűnek kell tekinteni.
+(2) Ha a fizetésre kötelezett adósok közül az egyik teljesíti a közölt határozatban megállapított fizetési kötelezettséget, úgy a vámhatóság a teljesítésről és ez alapján a további fizetési kötelezettség megszűnéséről a többi adóst tájékoztatja.
 
-(3) Ha a vámjogszabályok a nem tarifális vámmentességek alkalmazása vonatkozásában különleges felhatalmazást vagy engedélyt írnak elő, az engedélyt vagy a felhatalmazást a meghatározott feltételeket teljesítő személy részére lehet megadni.
-
-(4) A (2) és (3) bekezdést alkalmazni kell a kiviteli vámköteles áruk exportjára. Ezekben az esetekben elegendő a szóbeli bejelentés.
+(3) Az (1) bekezdés rendelkezéseit az FJA 6. cikk (2) bekezdésében szabályozott esetekben nem kell alkalmazni.

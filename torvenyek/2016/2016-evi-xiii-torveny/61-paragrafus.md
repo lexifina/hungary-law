@@ -12,4 +12,4 @@ c) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégalá�
 
 (3) Az (1) bekezdés szerinti engedély esetén a Vámkódex 22–28. cikkének, az FJA 11–18. cikkének és a VA 10–15. cikkének kérelem alapján hozott határozatokra vonatkozó rendelkezéseit kell alkalmazni.
 
-(4) A garanciajegyek formájában nyújtott egyedi kötelezettségvállalás jóváhagyása esetén e szakasz rendelkezéseit kell alkalmazni.
+(4) A garanciajegyek formájában nyújtott egyedi kötelezettségvállalás jóváhagyása esetén e szakasz rendelkezéseit kell alkalmazni azzal, hogy az engedély jogosultja az (1) bekezdésben meghatározott feltételeken túl írásban kötelezettséget vállal a vámeljárás jogosultja tekintetében felmerült tartozások megfizetésére.

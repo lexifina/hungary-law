@@ -4,7 +4,7 @@
 
 (3) A vámhatóság a kérelem előzetes értékelését és a helyszíni ellenőrzést a kérelem beérkezésétől számított 30 napon belül elvégzi, ez a határidő szükség esetén a vámhatóság vezetője által további 30 nappal meghosszabbítható. A kérelmet a vámhatóság a (4) bekezdés szerint legkésőbb az előzetes értékelés lezárását követő 3 napon belül felterjeszti.
 
-(4) A miniszter megvizsgálja a felterjesztett kérelmet, a vámhatóság általi előzetes értékelés megállapításait tartalmazó záradékot és a helyszíni ellenőrzés jegyzőkönyvét, valamint a kötelező képviselet meglétét és az eljárási illeték megfizetését leellenőrzi. A vámszabad terület kijelölése iránti kérelem elbírálása esetén az ügyintézési határidő a kérelem felterjesztését követő 30 nap, kivéve, ha a miniszter a kérelmet érdemi vizsgálat nélkül utasítja el.
+(4) A miniszter megvizsgálja a felterjesztett kérelmet, a vámhatóság általi előzetes értékelés megállapításait tartalmazó záradékot és a helyszíni ellenőrzés jegyzőkönyvét, valamint az eljárási illeték megfizetését leellenőrzi. A vámszabad terület kijelölése iránti kérelem elbírálása esetén az ügyintézési határidő a kérelem felterjesztését követő 30 nap, kivéve, ha a miniszter a kérelmet érdemi vizsgálat nélkül utasítja el.
 
 (5) A miniszter a kérelmet érdemi vizsgálat nélkül utasítja el, ha
 

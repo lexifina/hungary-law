@@ -54,7 +54,7 @@
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy a postaügyért felelős miniszterrel egyetértésben a postai küldeményekre vonatkozó vámeljárás végrehajtásának részletes szabályait rendeletben állapítsa meg.
+(2)
 
 (3) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben
 
