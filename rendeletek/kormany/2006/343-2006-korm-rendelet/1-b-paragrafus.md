@@ -1,3 +1,3 @@
-## 1/A. §[^11]
+## 1/A. §[^14]
 
-[^11]: Az 1/A. §-t a 393/2007. (XII. 27.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 43. § a) pontja.
+[^14]: Az 1/A. §-t a 393/2007. (XII. 27.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 43. § a) pontja.

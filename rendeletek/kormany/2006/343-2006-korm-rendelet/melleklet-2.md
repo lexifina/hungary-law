@@ -1,3 +1,3 @@
-2. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^82]
+2. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^85]
 
-[^82]: A 2. mellékletet a 329/2010. (XII. 27.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
+[^85]: A 2. mellékletet a 329/2010. (XII. 27.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
