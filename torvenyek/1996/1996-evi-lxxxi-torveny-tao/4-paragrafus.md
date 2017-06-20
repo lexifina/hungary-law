@@ -80,9 +80,11 @@ e) a d) alpont szerinti arány megállapításakor a külföldi személy, illetv
 
 f) a d)–e) alpont alkalmazásakor befektetői tevékenységnek minősül a tulajdoni részesedést jelentő tartós befektetés, a hitelviszonyt megtestesítő értékpapír megszerzése, tartása és elidegenítése, valamint a külföldi személy székhelye, illetve a külföldi telephely fekvése szerinti államban az értékpapírokra, befektetési szolgáltatásokra vonatkozó jogszabályok által szabályozott, illetve a pénzügyi szolgáltatási, befektetési szolgáltatási tevékenység felügyeletét ellátó hatóság által felügyelt, illetve engedélyezett alap, társaság vagy egyéb szervezet, továbbá az említett állam illetékes hatóságának engedélyével rendelkező alapkezelő által kezelt, ugyanazon országban alapított vagy bejegyzett alap, társaság vagy egyéb szervezet befektetése, illetve tevékenysége,
 
-g) nem minősül ellenőrzött külföldi társaságnak a külföldi személy abban az üzleti évében, amelynek minden napján van egy benne legalább 25 százalékos részesedéssel rendelkező olyan tagja, részvényese, amely, vagy amelynek kapcsolt vállalkozása az üzleti év első napján már legalább öt éve elismert tőzsdén jegyzett,
+g) nem minősül ellenőrzött külföldi társaságnak a külföldi személy (ideértve a belföldi illetőségű adózó külföldi telephelyét is) abban az üzleti évében, amelynek minden napján van egy benne legalább 25 százalékos részesedéssel rendelkező olyan tagja, részvényese, amely, vagy amelynek kapcsolt vállalkozása az üzleti év első napján már legalább öt éve elismert tőzsdén jegyzett,
 
-h) az e rendelkezésben foglaltakat az adózó köteles bizonyítani;
+h) az e rendelkezésben foglaltakat az adózó köteles bizonyítani,
+
+i) az a) alpontban foglalt részesedés fennállását akkor kell teljesítettnek tekinteni, ha az adózó adóévének a többségében fennáll;
 
 11a. energiahatékonysági célokat szolgáló beruházás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
 
@@ -200,7 +202,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 30. korai fázisú vállalkozás: a korai fázisú vállalkozások nyilvántartásba vételéről szóló kormányrendelet szerint nyilvántartásba vett jogi személy, feltéve, hogy megfelel a nyilvántartásba vételéről szóló kormányrendeletben foglaltaknak és azon túlmenően
 
-a) a korai fázisú vállalkozásban a foglalkoztatottak átlagos állományi létszáma a 7. § (1) bekezdés m) pontja szerinti kedvezmény igénybevételének adóéveiben eléri vagy meghaladja a két főt, és abból legalább egy fő a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutató-fejlesztőnek minősül,
+a) a korai fázisú vállalkozásban a foglalkoztatottak átlagos állományi létszáma a 7. § (1) bekezdés m) pontja szerinti kedvezmény igénybevételének adóéveiben eléri vagy meghaladja a két főt,
 
 b) a korai fázisú vállalkozás nem minősül a 7. § (1) bekezdés m) pontja szerinti kedvezmény igénybevételére jogosult adózó kapcsolt vállalkozásának a kedvezmény igénybevételének adóéveiben;
 
@@ -234,7 +236,7 @@ b) az építkezés vagy az összeszerelő tevékenység (a továbbiakban együtt
 
 c) a külföldi személyt telephellyel rendelkezőnek kell tekinteni belföldön lévő természeti erőforrás közvetlen hasznosítása esetén,
 
-d) a külföldi személyt (kivéve az olyan jogi személyiséggel rendelkező, EGT államban alapított ingatlanbefektetési alapot, amely az alapítása szerinti államban nem alanya a társasági adónak megfelelő nyereségadónak) telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban együtt: ingatlan hasznosítása), továbbá ingatlan értékesítése esetén,
+d) a külföldi személyt (kivéve az olyan jogi személyiséggel rendelkező, EGT államban alapított ingatlanbefektetési alapot, nyugdíjalapot, amely az alapítása szerinti államban nem alanya a társasági adónak megfelelő nyereségadónak) telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban együtt: ingatlan hasznosítása), továbbá ingatlan értékesítése esetén,
 
 e) a külföldi személyt telephellyel rendelkezőnek kell tekinteni – kivéve, ha csak a g) pontban említett tevékenységet végzi – azon tevékenységek esetében, amelyeket más személy a külföldi személy nevében vállal, ha a külföldi személy nevében szerződést köthet belföldön – és e jogával rendszeresen él –, illetve áru- vagy termékkészletet tart fenn, amelyből rendszeresen szállít a külföldi személy nevében,
 

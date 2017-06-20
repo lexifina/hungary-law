@@ -14,7 +14,7 @@ b) az energiahatékonysági célokat közvetlenül szolgáló beruházás rész�
 
 (5) Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az az adózó és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
 
-(6) Az adókedvezmény igénybevételének feltétele, hogy az adózó az adókedvezmény igénybevételének első adóévében az adóévi társasági adóbevallása benyújtásáig rendelkezzen az energiahatékonysági igazolás kiállításának szabályairól szóló kormányrendelet szerinti igazolással, amely alátámasztja, hogy beruházása energiahatékonysági célokat szolgáló beruházásnak minősül. Megújuló energiaforrásból nyert energia felhasználását célzó beruházás vagy beruházásrész tekintetében adókedvezmény abban az esetben vehető igénybe, ha a beruházás vagy beruházásrész energiahatékonyság növekedésével jár.
+(6) Az adókedvezmény igénybevételének feltétele, hogy az adózó az adókedvezmény igénybevételének első adóévében az adóévi társasági adóbevallása benyújtásáig rendelkezzen az energiahatékonysági célokat szolgáló beruházás adókedvezményének végrehajtási szabályairól szóló kormányrendelet szerinti igazolással, amely alátámasztja, hogy beruházása energiahatékonysági célokat szolgáló beruházásnak minősül. Megújuló energiaforrásból nyert energia felhasználását célzó beruházás vagy beruházásrész tekintetében adókedvezmény abban az esetben vehető igénybe, ha a beruházás vagy beruházásrész energiahatékonyság növekedésével jár.
 
 (7) Az adókedvezmény akkor vehető igénybe, ha az adózó a beruházás részét képező valamennyi eszközt használatba veszi, és ezeket az eszközöket a beruházás üzembe helyezését követő legalább öt évig (a továbbiakban: kötelező üzemeltetési időszak) a hatályos, jogerős engedélyben foglaltak szerint üzemelteti, illetve használja. Ha az adózó az üzembe helyezett, az elszámolható költség összegénél figyelembe vett eszközöket a kötelező üzemeltetési időszakon belül a befektetett eszközök közül – pótlás nélkül – kivezeti, vagy – pótlás nélkül – nem üzemelteti a hatályos, jogerős engedélyben foglaltak szerint, akkor az ilyen eszközök bekerülési értéke az adókedvezmény alapjául szolgáló elszámolható költséget csökkenti.
 
@@ -22,7 +22,7 @@ b) az energiahatékonysági célokat közvetlenül szolgáló beruházás rész�
 
 a) ha az adózó a fejlesztést azért hajtja végre, hogy a beruházás megkezdésének időpontjában már elfogadott uniós szabványoknak feleljen meg, még akkor sem, ha az uniós szabványok még nem léptek hatályba;
 
-b) ha az adózó nem teljesíti az e törvényben és az energiahatékonysági igazolás kiállításának szabályairól szóló kormányrendeletben foglalt feltételeket;
+b) ha az adózó nem teljesíti az e törvényben és az energiahatékonysági célokat szolgáló beruházás adókedvezményének végrehajtási szabályairól szóló kormányrendeletben foglalt feltételeket;
 
 c) ha az adózó nehéz helyzetben lévő társaság, bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt áll, vagy végelszámolását bejelentette a bírósághoz;
 
