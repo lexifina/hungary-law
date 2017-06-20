@@ -1,4 +1,4 @@
-1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^33]
+1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^31]
 
 1. Az Országos Képzési Jegyzék
 
@@ -552,13 +552,13 @@
 
 | 273 | 55 | 345 | 01 | Kis- és középvállalkozások ügyvezetője II | 19 | - | 1 év | 480-720 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 274 | 35 | 522 | 04 | Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő | 6 | XI | - | 50 -70 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 274 | 35 | 522 | 04 | Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő | 6 | XI | - | 40–60 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 275 | 35 | 522 | 05 | Kisfeszültségű FAM kábelszerelő | 6 | XI | - | 50-70 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 275 | 35 | 522 | 05 | Kisfeszültségű FAM kábelszerelő | 6 | XI | - | 40–60 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 276 | 35 | 522 | 06 | Kisfeszültségű kábelszerelő | 6 | XI | - | 120- 210 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 277 | 35 | 522 | 07 | Kisfeszültségű szabadvezeték hálózati FAM szerelő | 6 | XI | - | 50 - 70 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 277 | 35 | 522 | 07 | Kisfeszültségű szabadvezeték hálózati FAM szerelő | 6 | XI | - | 40–60 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 278 | 54 | 761 | 02 | Kisgyermekgondozó, -nevelő | 2 | III | 2 év | 1300-1560 óra | N, E, TK | 5 | gyermek- és ifjúságvédelemért felelős miniszter |
 
@@ -604,7 +604,7 @@
 
 | 299 | 52 | 343 | 01 | Közbeszerzési referens | 15 | XXIV | - | 300-400 óra | TK | 5 | közbeszerzésekért felelős miniszter |
 
-| 300 | 35 | 522 | 08 | Középfeszültségű FAM szerelő | 6 | XI | - | 120 - 210 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 300 |  |  |  |  |  |  |  |  |  |  |  |
 
 | 301 | 35 | 522 | 09 | Középfeszültségű kábelszerelő | 6 | XI | - | 120 - 210 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -764,7 +764,7 @@
 
 | 379 | 32 | 810 | 02 | Nyíltvízi- vízimentő | 19 | XXIII | - | 200-350 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 380 | 52 | 345 | 03 | Nyilvántartási és okmányügyintéző | 22 | - | - | 500 -700 óra | TK | 4 | közigazgatás-fejlesztésért felelős miniszter |
+| 380 |  |  |  |  |  |  |  |  |  |  |  |
 
 | 381 | 32 | 524 | 01 | Nyomástartóedény-gépész | 5 | IX | - | 160-240 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -896,7 +896,7 @@
 
 | 445 | 55 | 343 | 02 | Szakképesített bankreferens | 15 | XXIV | - | 280-420 óra | TK, T | 5 | pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter |
 
-| 446 | 35 | 522 | 10 | Szakszolgálati FAM szerelő | 6 | XI | - | 50 - 70 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 446 | 35 | 522 | 10 | Szakszolgálati FAM szerelő | 6 | XI | - | 40–60 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 447 | 52 | 812 | 03 | Szállodahajós, szállodai személyzet | 18 | XXVII | - | 800-1000 óra | TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1130,6 +1130,16 @@
 
 | 562 | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | 20 | XXXIV | 1 év | 320-480 óra | N, E, TK | 4 | agrárpolitikáért felelős miniszter |
 
+| 563 | 52 | 863 | 01 | Honvéd kadét, igazgatási ügykezelő | 22 | XLIII | – | 1700–2000 óra | TK | 4 | honvédelemért felelős miniszter |
+
+| 564 | 54 | 863 | 03 | Honvédelmi igazgatási ügyintéző | 22 | XLIII | 2 év | – | N | 5 | honvédelemért felelős miniszter |
+
+| 565 | 35 | 522 | 18 | Középfeszültségű FAM szerelő távolból végzett technológiával | 6 | XI | – | 120–210 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 566 | 35 | 522 | 19 | Középfeszültségű FAM szerelő kombinált technológiával. | 6 | XI | – | 120–210 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 567 | 35 | 522 | 20 | Kisfeszültségű mérőhelyi FAM szerelő | 6 | XI | – | 24–32 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+
 2. táblázat: részszakképesítések
 
-[^33]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^31]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése, a 149/2017. (VI. 12.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
