@@ -2,7 +2,7 @@
 
 7. § E törvény alkalmazásában
 
-1.
+1. korlátozott mértékű gazdasági célú létesítmény: olyan létesítmény, amely esetén a gazdasági tevékenységre allokált éves kapacitás nem haladja meg a létesítmény tényleges teljes éves kapacitásának húsz százalékát;
 
 2.
 
@@ -88,7 +88,7 @@ d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szol
 
 21. belföldi bankközi hitel: a más belföldi hitelintézetnek nyújtott hitel, alárendelt kölcsöntőke és kiegészítő alárendelt kölcsöntőke, a más belföldi hitelintézetnél elhelyezett betét, valamint a más belföldi hitelintézettel szemben valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből fennálló követelés együttes összege;
 
-22. árbevétel: a Tao. tv. 4. § 4. pontjában meghatározott fogalom;
+22. árbevétel: a Tao. törvény 4. § 4. pontjában meghatározott fogalom;
 
 23–24.
 
