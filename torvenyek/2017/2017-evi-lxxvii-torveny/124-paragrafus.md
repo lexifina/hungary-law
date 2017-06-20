@@ -4,6 +4,6 @@
 
 2. 33. § (2) bekezdés 44. pontjában az „a kincstár által” szövegrész;
 
-3. 70–71. §-a;
+3.
 
 4. Melléklete IV. Címének 2. pontjában az „– az elektronikus úton benyújtott adóbevallások kivételével –” szövegrész.

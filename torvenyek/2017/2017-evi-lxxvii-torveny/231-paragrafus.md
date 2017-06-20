@@ -13,11 +13,3 @@
 (6) A 2016. évi CXXV. törvény 318. §-a a következő (7) bekezdéssel egészül ki:
 
 „(7) A 187. § 2018. július 1-jén lép hatályba.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

@@ -1,1 +1,0 @@
-44. § A KFI törvény 15. § (1) bekezdésében a „számvitelről szóló törvény hatálya” szövegrész helyébe a „számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya” szöveg lép.

@@ -10,6 +10,4 @@ a) állapítsa meg a menedékes felügyeleti szolgáltatásra és a menedékes f
 
 b) jelölje ki a menedékes felügyeleti szolgáltatót.”
 
-(3) Az Art. 175. §-a a következő (36) bekezdéssel egészül ki:
-
-„(36) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az adófizetési biztosíték megállapításával, teljesítésével és visszafizetésével, illetve felszabadításával kapcsolatos szabályokat rendeletben határozza meg.”
+(3)

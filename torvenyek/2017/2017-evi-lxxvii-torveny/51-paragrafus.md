@@ -1,3 +1,0 @@
-51. § Az Áfa tv. a következő 313. §-sal egészül ki:
-
-„313. § E törvénynek a Mód7 törvénnyel módosított 6. § (4) bekezdés b) pont bb) alpontja, 8. § (3) bekezdés második mondata, (5), (9), (10) és (12) bekezdése, 57. § (2) bekezdése, 85. § (5) bekezdés a)–c) pontjai és (6) bekezdése, 86. § (1) bekezdés j) pont jb) alpontja, 137. §-a, 142. § (1) bekezdés g) pontja, 156. § (5) és (6) bekezdései, 188. § (3) bekezdés c) pont cb) alpontja vonatkozásában véglegessé vált döntés alatt a 2018. január 1-jét megelőzően jogerőre emelkedett határozatot, valamint véglegessé válás alatt a 2018. január 1-jét megelőzően történt jogerőre emelkedést is érteni kell.”
