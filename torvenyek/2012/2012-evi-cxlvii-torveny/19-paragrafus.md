@@ -1,6 +1,6 @@
 ## 13. Az adóalanyiság keletkezése és megszűnése
 
-19. § (1) A kisvállalati adó szerinti adóalanyiság a választás állami adóhatósághoz történő bejelentését követő hónap első napjával jön létre. A bejelentést az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A kisvállalati adóalanyiság keletkezése napjával önálló üzleti év kezdődik.
+19. § (1) A kisvállalati adó szerinti adóalanyiság a választás állami adóhatósághoz történő bejelentését követő hónap első napjával jön létre. A bejelentést az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A kisvállalati adóalanyiság keletkezése napjával önálló üzleti év kezdődik. Az üzleti év kezdetét megelőző nappal mint mérlegfordulónappal üzleti év zárul, mely üzleti évről az adóalanynak az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyeznie, közzé kell tennie.
 
 (2) A kisvállalati adó szerinti adóalanyiság – a (4) bekezdésben foglaltak kivételével – azon adóév utolsó napjáig áll fenn, amely adóévben az adóalany az erre a célra rendszeresített nyomtatványon, elektronikus úton bejelenti az állami adóhatósághoz, hogy adókötelezettségeit nem e törvény szabályai szerint teljesíti. A bejelentést legkorábban az adóév december 1-jétől, legkésőbb az adóév december 20-áig lehet megtenni. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
@@ -28,7 +28,7 @@ h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnöveked�
 
 (6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az adóhatóságnak.
 
-(7) Az adóalanyiság (5) bekezdésben meghatározott megszűnése napjával, mint mérlegfordulónappal önálló üzleti év végződik.
+(7) Az adóalanyiság (5) bekezdésben meghatározott megszűnése napjával mint mérlegfordulónappal önálló üzleti év végződik. Az üzleti évről az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyezni, közzé kell tenni.
 
 (8) Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
 

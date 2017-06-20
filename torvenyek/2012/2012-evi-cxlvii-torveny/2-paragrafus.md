@@ -10,7 +10,7 @@
 
 5. egyéni vállalkozó: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti egyéni vállalkozó;
 
-6. ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 4. § 11. pontja szerinti társaság;
+6.
 
 7. elszámolásra kiadott előleg: pénzeszközök átadása természetes személynek abból a célból, hogy a természetes személy az adózó nevében terméket szerezzen be vagy szolgáltatást vegyen igénybe, illetve ezek hiányában szolgáltassa vissza az adózónak az átvett pénzeszközt;
 
