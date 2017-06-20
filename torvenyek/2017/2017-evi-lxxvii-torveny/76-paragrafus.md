@@ -1,0 +1,3 @@
+76. § A Jöt. 93. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Az (1) bekezdés szerinti nyilvántartás az engedélyes vagy a nyilvántartásba vett nevére, engedélyszámára vagy nyilvántartási számára, az engedélyben vagy nyilvántartásban szereplő jövedéki termék, berendezés vagy tevékenység megnevezésére, az engedély kiadása vagy a nyilvántartásba vétel időpontjára, valamint az engedély hatályosságára vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. Az állami adó- és vámhatóság ezen adatokat az ellenőrzés érdekében, az engedély hatályvesztését vagy a nyilvántartásból történő törlést követő 5 évig kezeli.”

@@ -1,0 +1,3 @@
+201. § Az Szt. 152/A. §-a helyébe a következő rendelkezés lép:
+
+„152/A. § Az engedélyezési és nyilvántartásba vételi eljárásért, a nyilvántartásból való törlésért, a hatósági igazolvány pótlásával, cseréjével, és a nyilvántartásban szereplő adatok módosításával összefüggő eljárásért, valamint a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért, továbbá a továbbképző szervezetek akkreditációs eljárásáért, a kreditpont-minősítési eljárásért, valamint szakmai szervezetként történő elismerésért igazgatási szolgáltatási díjat kell fizetni.”

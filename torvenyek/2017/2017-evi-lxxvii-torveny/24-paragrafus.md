@@ -1,0 +1,1 @@
+24. § Hatályát veszti a Tao. törvény 4. § 30. pont a) alpontjában az „és abból legalább egy fő a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutató-fejlesztőnek minősül,” szövegrész.

@@ -1,0 +1,1 @@
+204. § Az Szt. 156. § (5) bekezdés i) pontjában a „bármely lényegesnek tekinthető hibás közlés” szövegrész helyébe a „bármilyen lényeges hibás állítás”, a „szóban forgó hibás közlés” szövegrész helyébe a „szóban forgó hibás állítás” szöveg lép.
