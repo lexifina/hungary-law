@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-126-00-00
 | 2015-01-01 | 2013. évi CCXIII. törvény | 1996-126-00-00.37 |
 | 2015-11-28 | 2015. évi CLXXXVII. törvény | 1996-126-00-00.38 |
 | 2017-01-01 | 2016. évi CXXV. törvény | 1996-126-00-00.39 |
+| 2017-06-20 | 2017. évi LXXVII. törvény | 1996-126-00-00.40 |

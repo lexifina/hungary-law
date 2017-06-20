@@ -22,7 +22,7 @@ d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a k
 
 3. Országos Széchényi Könyvtár,
 
-4. Magyar Nemzeti Filmarchívum,
+4.
 
 5. Neumann János Multimédia Központ és Digitális Könyvtár;
 
