@@ -20,6 +20,6 @@ mutatott ki.
 
 (5) A számvitelről szóló törvény hatálya alá tartozó adóalany esetében az eva alapjának megállapításakor az összes bevételt csökkenti az az adóévi bevétel, amelyet a számvitelről szóló törvény rendelkezései szerint az egyszeres könyvvitelről a kettős könyvvitelre való áttérés miatt nyitást követő korrekciós tételként számolt el.
 
-(6) Ha az adóalany – az (1)–(5) bekezdésben foglaltakon túlmenően – az adóévben olyan bevételt szerzett (mutatott ki), amelynek alapján személyi jövedelemadó, társasági adó vagy általános forgalmi adó megállapítására (volt) kötelezett, az eva alapját csökkentheti a bevétel azon részével, amelyre az említett adót megállapította.
+(6) Ha az adóalany – az (1)–(5) bekezdésben foglaltakon túlmenően – az adóévben olyan bevételt szerzett (mutatott ki), amelynek alapján személyi jövedelemadó, társasági adó, kisadózó vállalkozások tételes adója vagy általános forgalmi adó megállapítására (volt) kötelezett, az eva alapját csökkentheti a bevétel azon részével, amelyre az említett adót megállapította.
 
 (7) A számvitelről szóló törvény hatálya alá nem tartozó adóalany esetében az eva alapjának megállapításakor az összes bevételt növeli az az összeg, amelyet az adóalany az általa kibocsátott bizonylat alapján az adóalanyisága megszűnése napjáig még nem szerzett meg, illetve az a 7. § (7) bekezdése alapján sem minősült eddig bevételnek.

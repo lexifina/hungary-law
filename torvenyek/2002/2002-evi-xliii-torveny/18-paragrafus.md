@@ -4,7 +4,9 @@
 
 a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
 
-b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét.
+b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét;
+
+csökkentve a mérlegben kimutatott osztalékelőleg követelés könyv szerinti értékével, feltéve, hogy az előleget a beszámoló elfogadásakor osztalékként jóváhagyták.
 
 (3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és a egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre és az üzleti évet követő két adóévre – de legkésőbb az e törvény szerinti adóalanyiságának utolsó adóévére – vonatkozó társaságiadó-bevallás, kisvállalatiadó-bevallás illetve eva-bevallás benyújtásával egyidejűleg fizet meg.
 
