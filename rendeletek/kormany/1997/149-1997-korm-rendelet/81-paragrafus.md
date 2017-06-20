@@ -1,4 +1,4 @@
-81. §[^522] (1) A gyámhivatal értesítése alapján az otthonteremtési támogatást folyósító fővárosi és megyei kormányhivatal (e § alkalmazásában: folyósító szerv) a határozat jogerőre emelkedését követő hónap utolsó napjáig intézkedik az otthonteremtési támogatás összegének, részösszegének kifizetése iránt.
+81. §[^514] (1) A gyámhivatal értesítése alapján az otthonteremtési támogatást folyósító fővárosi és megyei kormányhivatal (e § alkalmazásában: folyósító szerv) a határozat jogerőre emelkedését követő hónap utolsó napjáig intézkedik az otthonteremtési támogatás összegének, részösszegének kifizetése iránt.
 
 (2) Az otthonteremtési támogatás finanszírozására szolgáló fejezeti kezelésű előirányzat tekintetében az otthonteremtési támogatással kapcsolatos feladatokat a fővárosi és megyei kormányhivatal, mint lebonyolító szerv látja el. A lebonyolító szervet az utalványozás joga megilleti.
 
@@ -8,7 +8,7 @@
 
 (5) A Minisztérium minden hónap 25-éig a folyósító szerv rendelkezésére bocsátja a (4) bekezdés szerinti összeget.
 
-(6)[^523] A folyósító szerv
+(6)[^515] A folyósító szerv
 
 a) a Gyvt. 26/A. § (1) és (3) bekezdése szerint, valamint
 
@@ -16,5 +16,5 @@ b) a Gyvt. 26/B. § (5) bekezdés b) pontja szerint
 
 megtérített összeget köteles visszafizetni a központi költségvetésnek.
 
-[^522]: A 81. § a 352/2012. (XII. 13.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^523]: A 81. § (6) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 5. §-a iktatta be.
+[^514]: A 81. § a 352/2012. (XII. 13.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^515]: A 81. § (6) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 5. §-a iktatta be.

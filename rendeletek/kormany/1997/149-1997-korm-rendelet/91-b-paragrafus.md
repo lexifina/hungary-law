@@ -1,4 +1,4 @@
-91/B. §[^590] (1)[^591] A pénzfelhasználási terv figyelembevételével a gyámhivatal egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gyám kirendeléséről és ezzel egyidejűleg a természetben nyújtott családi pótlék fővárosi és megyei kormányhivatal részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) történő utalásának szükségességéről. A családi pótlék természetbeni formában történő nyújtásáról szóló határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza
+91/B. §[^582] (1)[^583] A pénzfelhasználási terv figyelembevételével a gyámhivatal egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gyám kirendeléséről és ezzel egyidejűleg a természetben nyújtott családi pótlék fővárosi és megyei kormányhivatal részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) történő utalásának szükségességéről. A családi pótlék természetbeni formában történő nyújtásáról szóló határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza
 
 a) a családi pótlékban részesülő szülő személyazonosító adatait, a családi pótlékot folyósító szerv megnevezését,
 
@@ -26,17 +26,17 @@ jb) ha a családi pótlék természetbeni formában történő nyújtása a hat�
 
 jc) a családi pótlék természetbeni formában történő nyújtásának megszüntetése esetén a megszüntetést követő második hónapra járó családi pótlék kerül ismételten teljes egészében pénzben folyósításra.
 
-(2)[^592] A határozatban a családi pótlék természetbeni formában történő nyújtásának kezdő időpontjaként a döntést követő második hónap első napját, befejező időpontjaként a határozatban szereplő időtartamnak megfelelő hónap utolsó napját kell megjelölni. Az így meghatározott időtartam a Gyvt. 68/B. § (2) bekezdésében foglaltakra tekintettel a 6 hónapot nem haladhatja meg.
+(2)[^584] A határozatban a családi pótlék természetbeni formában történő nyújtásának kezdő időpontjaként a döntést követő második hónap első napját, befejező időpontjaként a határozatban szereplő időtartamnak megfelelő hónap utolsó napját kell megjelölni. Az így meghatározott időtartam a Gyvt. 68/B. § (2) bekezdésében foglaltakra tekintettel a 6 hónapot nem haladhatja meg.
 
 (3) A családi pótlék természetbeni formában történő nyújtásáról szóló határozat elleni fellebbezést elbíráló határozatban rendelkezni kell a családi pótlék természetbeni formában történő nyújtásának új kezdő és befejező időpontjáról.
 
-(4)[^593] A gyámhivatal a családi pótlék természetbeni formában történő nyújtásáról szóló, jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő nyolc napon belül közli a fővárosi és megyei kormányhivatalnak a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló kormányrendeletben kijelölt családtámogatási feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatalával (a továbbiakban: családtámogatási feladatkörében eljáró járási hivatal).
+(4)[^585] A gyámhivatal a családi pótlék természetbeni formában történő nyújtásáról szóló, jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő nyolc napon belül közli a fővárosi és megyei kormányhivatalnak a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló kormányrendeletben kijelölt családtámogatási feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatalával (a továbbiakban: családtámogatási feladatkörében eljáró járási hivatal).
 
-(5)[^594] A családi pótlék természetbeni formában történő nyújtása során a gyámhivatal és a családtámogatási feladatkörében eljáró járási hivatal között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
+(5)[^586] A családi pótlék természetbeni formában történő nyújtása során a gyámhivatal és a családtámogatási feladatkörében eljáró járási hivatal között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
 
-(6)[^595] A fővárosi és megyei kormányhivatal az átutalást követően legkésőbb nyolc napon belül gondoskodik a családtámogatási folyószámlára utalt családi pótléknak az eseti gyám felé történő kifizetéséről.
+(6)[^587] A fővárosi és megyei kormányhivatal az átutalást követően legkésőbb nyolc napon belül gondoskodik a családtámogatási folyószámlára utalt családi pótléknak az eseti gyám felé történő kifizetéséről.
 
-(7)[^596] A kirendelt eseti gyám folyamatosan gondoskodik a családtámogatási folyószámlára átutalt családi pótléknak a gyermek szükségleteire történő felhasználásáról. A családi pótlék felhasználható különösen
+(7)[^588] A kirendelt eseti gyám folyamatosan gondoskodik a családtámogatási folyószámlára átutalt családi pótléknak a gyermek szükségleteire történő felhasználásáról. A családi pótlék felhasználható különösen
 
 a) ruházat, tanszer, élelmiszer, tápszer, gyógyszer, gyógyászati segédeszköz, tanulóbérlet, a gyermek korának megfelelő készségfejlesztő eszközök természetbeni biztosítására,
 
@@ -46,10 +46,10 @@ c) gyermekétkeztetés térítési díjának befizetésére,
 
 d) a gyermek szabadideje hasznos eltöltésére.
 
-[^590]: A 91/B. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^591]: A 91/B. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^592]: A 91/B. § (2) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
-[^593]: A 91/B. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
-[^594]: A 91/B. § (5) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § h) pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
-[^595]: A 91/B. § (6) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja szerint módosított szöveg.
-[^596]: A 91/B. § (7) bekezdését a 237/2010. (IX. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be, nyitó szövegrésze a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja szerint módosított szöveg.
+[^582]: A 91/B. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^583]: A 91/B. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^584]: A 91/B. § (2) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^585]: A 91/B. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
+[^586]: A 91/B. § (5) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § h) pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^587]: A 91/B. § (6) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja szerint módosított szöveg.
+[^588]: A 91/B. § (7) bekezdését a 237/2010. (IX. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be, nyitó szövegrésze a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja szerint módosított szöveg.
