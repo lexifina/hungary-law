@@ -11,9 +11,3 @@ I. Szokásos tevékenységből származó pénzeszköz-változás
 1. Adózás előtti eredmény ±
 
 2. Elszámolt amortizáció +
-
-3. Elszámolt értékvesztés és visszaírás ±
-
-4. Céltartalék képzés és felhasználás különbözete ±
-
-5. Befektetett eszközök értékesítésének eredménye ±

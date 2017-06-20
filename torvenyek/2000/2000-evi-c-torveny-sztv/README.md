@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2016-06-16 | 2016. évi LXVI. törvény | 2000-100-00-00.56 |
 | 2016-11-26 | 2016. évi CXXV. törvény | 2000-100-00-00.57 |
 | 2017-01-01 | 2016. évi CXXV. törvény | 2000-100-00-00.58 |
+| 2017-06-20 | 2017. évi LXXVII. törvény | 2000-100-00-00.59 |
