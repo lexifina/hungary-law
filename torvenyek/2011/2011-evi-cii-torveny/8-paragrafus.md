@@ -2,11 +2,13 @@
 
 (2) A szabályozott ingatlanbefektetési társaságnak a számviteli jogszabályok szerinti mérlegfőösszege legalább hetven százalékának megfelelő értékű ingatlanportfólióval kell rendelkeznie.
 
-(3) A szabályozott ingatlanbefektetési társaság portfóliójában egyetlen ingatlan, vagy más szabályozott ingatlanbefektetési társaságban fennálló részesedés értéke sem haladhatja meg a szabályozott ingatlanbefektetési társaság számviteli jogszabályok szerinti mérlegfőösszegének a húsz százalékát.
+(3) A szabályozott ingatlanbefektetési társaság – összevont (konszolidált) éves beszámoló készítésére kötelezett társaság esetében a konszolidációba bevont valamennyi társaság összevont – portfóliójában egyetlen ingatlan, vagy más szabályozott ingatlanbefektetési társaságban fennálló részesedés értéke sem haladhatja meg a szabályozott ingatlanbefektetési társaság számviteli jogszabályok szerinti mérlegfőösszegének a harminc százalékát.
 
 (4) A (2)–(3) bekezdés alkalmazásakor, amennyiben a szabályozott ingatlanbefektetési társaság összevont (konszolidált) éves beszámoló készítésére kötelezett, akkor a viszonyítás alapja az összevont (konszolidált) mérleg mérlegfőösszege, egyéb esetben a szabályozott ingatlanbefektetési társaság – számviteli törvény szerinti –mérlegének mérlegfőösszegéhez kell viszonyítani.
 
-(5) A szabályozott ingatlanbefektetési társaság éves beszámolójában kimutatott, visszafizetési kötelezettséget keletkeztető idegen forrásai nem haladhatják meg az éves beszámolójában kimutatott ingatlanok összértékének 65%-át.
+(5) A szabályozott ingatlanbefektetési társaság éves beszámolójában – összevont (konszolidált) éves beszámoló készítésére kötelezett társaság esetében az összevont (konszolidált) éves beszámolójában – kimutatott, visszafizetési kötelezettséget keletkeztető idegen forrásai (ide nem értve a kapott óvadék összegét) nem haladhatják meg az éves beszámolójában – összevont (konszolidált) éves beszámoló készítésére kötelezett társaság esetében az összevont (konszolidált) éves beszámolójában – kimutatott ingatlanok és beruházások összértékének 65%-át.
+
+(5a) A (2), (3) és (5) bekezdések alkalmazásakor az ingatlanok értékét növeli a számviteli törvény szerint az ingatlanokra tekintettel kimutatott értékhelyesbítés összege. Éves beszámolóját a számviteli törvény 9/A. §-a alapján az IFRS-ek szerint készítő szabályozott ingatlanbefektetési társaság esetében az ingatlanok értéke tartalmazza a bekerülési értéken kívül a követő értékelés kapcsán elszámolt tételeket, függetlenül az alkalmazott értékelési modelltől.
 
 (6) A szabályozott ingatlanbefektetési társaság más szabályozott ingatlanbefektetési társaságban legfeljebb 10%-os mértékű részesedéssel rendelkezhet.
 

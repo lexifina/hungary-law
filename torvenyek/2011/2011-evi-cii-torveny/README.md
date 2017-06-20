@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-102-00-00
 | 2013-11-30 | 2013. évi CC. törvény | 2011-102-00-00.5 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2011-102-00-00.6 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 2011-102-00-00.7 |
+| 2017-06-20 | 2017. évi LXXVII. törvény | 2011-102-00-00.8 |
