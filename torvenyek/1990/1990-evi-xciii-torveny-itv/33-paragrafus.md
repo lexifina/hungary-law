@@ -100,7 +100,7 @@ d)
 
 43. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
 
-44. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
+44. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) által a szociális rászorultság fennállásáról kiállított igazolás, valamint a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
 
 45. a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíj köteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás;
 
@@ -108,7 +108,7 @@ d)
 
 47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás;
 
-48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése miatt kezdeményezett elsőfokú közigazgatási hatósági eljárás.
+48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett elsőfokú közigazgatási hatósági eljárás.
 
 49. a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal;
 
@@ -126,7 +126,7 @@ d)
 
 56. a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása;
 
-57. a népi iparművészeti igazolvánnyal kapcsolatos eljárás;
+57. a népművészeti és népi iparművészeti igazolvánnyal kapcsolatos eljárás;
 
 58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás;
 

@@ -1,6 +1,6 @@
 ## Haszonélvezet, használat visszterhes vagyonátruházási illetéke
 
-20. § (1) A visszterhes vagyonszerzéssel egyidejűleg alapított haszonélvezet, használat esetében a tulajdonszerző a — 72. § szerint számított — haszonélvezet, használat értékével csökkentett forgalmi érték után fizeti a visszterhes vagyonátruházási illetéket a haszonélvező, használó pedig a haszonélvezet, használat számított értéke után fizeti a szerzés jogcímének megfelelő vagyonszerzési illetéket.
+20. § (1) A visszterhes vagyonszerzéssel egyidejűleg alapított, ingatlan-nyilvántartásba bejegyzett haszonélvezet, használat esetében a tulajdonszerző a — 72. § szerint számított — haszonélvezet, használat értékével csökkentett forgalmi érték után fizeti a visszterhes vagyonátruházási illetéket a haszonélvező, használó pedig a haszonélvezet, használat számított értéke után fizeti a szerzés jogcímének megfelelő vagyonszerzési illetéket.
 
 (2) Nem tárgya a visszterhes vagyonátruházási illetéknek a haszonélvezet fennmaradása, illetve a használati jog megszerzése, ha az ingatlant az átruházását megelőzően már fennállott és az ingatlan-nyilvántartásba bejegyzett haszonélvezettel, használattal terhelten idegenítik el, vagy az elidegenítés az átruházó haszonélvezetének vagy a használat jogának fenntartásával történik. A tulajdonszerző ilyenkor az (1) bekezdés szerint csökkentett forgalmi érték után fizeti a visszterhes vagyonátruházási illetéket. Ezt a szabályt kell alkalmazni akkor is, ha az ingatlan tulajdonjogát annak haszonélvezője, használója szerzi meg.
 

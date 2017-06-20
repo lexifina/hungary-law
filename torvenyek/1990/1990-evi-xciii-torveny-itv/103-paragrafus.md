@@ -30,6 +30,10 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5)
 
+(6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
+
+(7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
+
 ## Melléklet
 
 I. A szabálysértési eljárás illetéke
@@ -56,7 +60,7 @@ IV. A másolat és kivonat illetéke
 
 1. Az államigazgatási eljárásban készített hitelesített vagy hitelesítetlen másolat, illetőleg kivonat illetéke – ha e Melléklet kivételt nem tesz – oldalanként magyar nyelvű másolat esetében 100 forint, idegen nyelvű másolat esetében 300 forint. A nem hitelesített fénymásolat illetéke oldalanként 100 forint.
 
-2. Illetékmentes – az elektronikus úton benyújtott adóbevallások kivételével – az adóbevallás másolata.
+2. Illetékmentes az adóbevallás másolata.
 
 3. Illetékmentes a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, az írásban tett feljelentés megtételét igazoló irat másolatának, továbbá a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a bűncselekmény, szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
 

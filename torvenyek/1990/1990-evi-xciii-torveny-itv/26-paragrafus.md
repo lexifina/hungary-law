@@ -94,7 +94,7 @@ c) a lakástulajdon megszerzése, ha azt a vagyonszerző a lakásvásárlásról
 
 d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelelő rész, ha a telek tulajdonosával kötött megállapodásból és az építés költségeit, körülményeit tanúsító egyéb okiratokból egyértelműen kitűnik, hogy az épületet a vagyonszerző hozta létre;
 
-e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése.
+e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -154,13 +154,13 @@ b) a gépjármű-forgalmazást a nyilatkozattétel adóévében kezdő vállalko
 
 a) de minimis támogatásnak, vagy
 
-b) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (általános csoportmentességi rendelet – HL L 214/3., 2008.8.9.) szerinti regionális beruházási támogatásnak
+b) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 55. cikke szerinti, sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásnak (a továbbiakban: sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás)
 
 minősül.
 
 E rendelkezés alkalmazásában hivatásos sportszervezetnek minősül a nem látvány-csapatsportágak országos sportági szakszövetsége, országos sportági szövetsége által kiírt versenyrendszerben (bajnokságban) részt vevő (indulási jogot elnyert) sportszervezet – ideértve a sportiskolát és az utánpótlás-nevelés fejlesztését végző alapítványt is – abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz.
 
-(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben a de minimis támogatás, illetve a regionális beruházási támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
+(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben a de minimis támogatás, illetve a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
 
 (18) Az (1) bekezdés p) pontja szerinti illetékmentesség alkalmazásában
 
@@ -174,7 +174,7 @@ ac) a birtokösszevonási célú földcsere,
 
 b) nem minősül az (1) bekezdés p) pont pb)–pc) alpontjaiban foglalt feltételek megszegésének a termőföld használatának, hasznosításának a Polgári Törvénykönyv szerinti közeli hozzátartozó (a továbbiakban e bekezdés alkalmazásában: közeli hozzátartozó) javára történő átengedése, feltéve, hogy a vagyonszerző helyett a közeli hozzátartozó földművesként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja a termőföldet, és az 5 éves időtartam hátralévő részében az (1) bekezdés p) pontja szerinti feltételeket vállalja.
 
-(18a) Az (1) bekezdés p) pontja szerinti feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző az eredetileg vállalt 5 év letelte előtt
+(18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző az eredetileg vállalt 5 év letelte előtt
 
 a) a termőföldet – a (18) bekezdésben meghatározott tulajdonszerzési módok kivételével – elidegeníti,
 

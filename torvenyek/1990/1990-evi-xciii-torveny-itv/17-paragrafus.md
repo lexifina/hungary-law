@@ -14,7 +14,7 @@ f) az állami tulajdonban levő természetvédelmi terület kezelői jogának a 
 
 g) a lakástakarékpénztárakról szóló törvény szerinti lakás-előtakarékossági szerződés alapján történő vagyonszerzés;
 
-h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése;
+h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
 
 i) közhasznú szervezetnek közhasznú tevékenység céljára juttatott ajándék;
 
