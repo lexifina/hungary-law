@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-217-20-
 | 2015-04-01 | 2012-217-20-22.10 | 84/2013. (III. 21.) Korm. rendelet |
 | 2016-01-01 | 2012-217-20-22.11 | 84/2013. (III. 21.) Korm. rendelet |
 | 2016-08-10 | 2012-217-20-22.12 | 237/2016. (VIII. 2.) Korm. rendelet |
+| 2017-06-20 | 2012-217-20-22.13 | 84/2013. (III. 21.) Korm. rendelet |
