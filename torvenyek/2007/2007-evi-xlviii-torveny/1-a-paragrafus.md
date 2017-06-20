@@ -1,0 +1,1 @@
+1/A. § Az e törvényben vagy a Rendeletben nem szabályozott eljárási kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglalt rendelkezéseket kell alkalmazni.
