@@ -18,4 +18,4 @@ A jogerős határozatot – a (2)–(5) bekezdés szerinti eltérésekkel – a 
 
 (5) A 33/N. § (3) bekezdés szerinti, NAV-ot terhelő megtérítési kötelezettség, illetve a 33/U. § (5) bekezdés szerinti, a visszatartott összeg kifizetésére vonatkozó kötelezettség szempontjából a fegyelmi határozatot az eljárás alá vont személlyel, illetve ha képviselővel járt el, a képviselővel való szabályszerű közlés napjával kell jogerősnek tekinteni.
 
-(6) Ha az eljárás alá vont jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a (4)–(5) bekezdés alkalmazásában a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.
+(6) Ha az eljárás alá vont jogi képviselő mellett egyidejűleg a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a (4)–(5) bekezdés alkalmazásában a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.

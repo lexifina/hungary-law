@@ -30,7 +30,9 @@ i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése ér
 
 j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, hatósági felügyeleti feladatokat,
 
-k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 46. § (1) bekezdésben meghatározott, a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétével kapcsolatos feladat végrehajtásában.
+k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 46. § (1) bekezdésben meghatározott, a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétével kapcsolatos feladat végrehajtásában,
+
+l) végzi az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott feladatokat.
 
 (3) A NAV
 

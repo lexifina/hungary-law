@@ -6,7 +6,11 @@ a) a szabálysértésért felelősségre vont személy természetes személyazon
 
 b) az igazoltatott személy természetes személyazonosító adatait, lakcímét, valamint az igazoltatásra okot adó körülmények megjelölését az igazoltatás alá vont személyek nyilvántartási rendszerében az igazoltatástól számított legfeljebb két évig,
 
-c) az áruk szállításában, a jövedéki törvény hatálya alá tartozó termékek ellenőrzésében, valamint az utasok csomagjainak törvényben meghatározott ellenőrzésében érintett személyek természetes személyazonosító adatait, lakcímét, illetve az ellenőrzés eredményét az ellenőrzés alá vont személyek nyilvántartási rendszerében az ellenőrzéstől számított legfeljebb két évig.
+c) az áruk szállításában, a jövedéki törvény hatálya alá tartozó termékek ellenőrzésében, valamint az utasok csomagjainak törvényben meghatározott ellenőrzésében érintett személyek természetes személyazonosító adatait, lakcímét, illetve az ellenőrzés eredményét az ellenőrzés alá vont személyek nyilvántartási rendszerében az ellenőrzéstől számított legfeljebb két évig,
+
+d) a NAV kezelésében lévő létesítménybe be- és kilépő személyek, illetve a 37. § (1) bekezdés alapján igazoltatott személyek személyes adatait, továbbá a beléptető rendszer működtetése során keletkezett adatokat az adat keletkezésétől számított legfeljebb egy évig.
+
+(1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés alapján a nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
 (2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az Art. 101–103. §-a alapján tett intézkedésekre.
 

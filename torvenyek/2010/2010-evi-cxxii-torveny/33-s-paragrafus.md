@@ -1,8 +1,8 @@
 ## Képviselet
 
-33/S. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő a fegyelmi eljárás megindításától jogi képviselőt vehet igénybe. A jogi képviselő mellett vagy helyett a kormánytisztviselő, az ügykezelő kérelmére a Magyar Kormánytisztviselői Kar képviselőjének (a továbbiakban: MKK képviselő), illetve a pénzügyőr kérelmére a Magyar Rendvédelmi Kar NAV Tagozata képviselőjének (a továbbiakban: MRK képviselő) a részvételét, képviseleti jogának gyakorlását lehetővé kell tenni a fegyelmi eljárás során. A jogi képviselő mellett vagy helyett – ha MKK, illetve MRK képviselő nem jár el az ügyben – a kormánytisztviselő, a pénzügyőr, az ügykezelő kérelmére a NAV-nál működő munkavállalói érdek-képviseleti szervnek a részvételét, képviseleti jogának gyakorlását lehetővé kell tenni a fegyelmi eljárás során.
+33/S. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő a fegyelmi eljárás megindításától jogi képviselőt vehet igénybe. A jogi képviselő mellett vagy helyett a kormánytisztviselő, a pénzügyőr, az ügykezelő kérelmére a NAV-nál működő munkavállalói érdekképviseleti szervnek a részvételét, képviseleti jogának gyakorlását lehetővé kell tenni a fegyelmi eljárás során.
 
-(2) A vizsgálat során a fegyelmi eljárás alá vont meghallgatását úgy kell kitűzni, hogy azon – a jogi képviselő személyének bejelentését követően – jogi képviselője, illetve – a kormánytisztviselő, a pénzügyőr, az ügykezelő ilyen irányú kérését követően – az MKK, az MRK, vagy a NAV-nál működő munkavállalói érdekképviseleti szerv képviselője is jelen lehessen.
+(2) A vizsgálat során a fegyelmi eljárás alá vont meghallgatását úgy kell kitűzni, hogy azon – a jogi képviselő személyének bejelentését követően – jogi képviselője, illetve – a kormánytisztviselő, a pénzügyőr, az ügykezelő ilyen irányú kérését követően – a NAV-nál működő munkavállalói érdekképviseleti szerv képviselője is jelen lehessen.
 
 (3) Nem lehet képviselő, akit az ügyben tanúként vagy szakértőként hallgatnak meg, nem lehet jogi képviselő a NAV-nál alkalmazásban álló személy, nem lehet az (1) bekezdésben említett egyéb képviselő a fegyelmi eljárás alá vont felettese.
 

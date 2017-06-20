@@ -2,7 +2,7 @@
 
 a) a NAV személyi állományának képzését szolgáló továbbképzési rendszer szabályait,
 
-b) a váminformációs rendszerrel kapcsolatos részletszabályokat,
+b)
 
 c) a rendészetért felelős miniszterrel egyetértésben az e törvény szerinti pénzügyőri intézkedések és a kényszerítő eszközök alkalmazásának részletes eljárási szabályait,
 

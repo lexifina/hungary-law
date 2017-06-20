@@ -14,7 +14,9 @@ f) azzal szemben, aki a nála lévő fegyver vagy élet kioltására alkalmas m�
 
 g) a NAV által elfogott, bűncselekmény elkövetése miatt őrizetbe vett, vagy bírói döntés alapján fogva tartott személy erőszakos kiszabadításának megakadályozására, az azt megkísérlővel szemben,
 
-h) a saját élete, testi épsége, személyes szabadsága ellen intézett támadás elhárítására.
+h) a saját élete, testi épsége, személyes szabadsága ellen intézett támadás elhárítására,
+
+i) a pénzügyőr által őrzött létesítmény ellen felfegyverkezve intézett támadás elhárítására.
 
 (2) Nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján más állam területén szolgálatot ellátó pénzügyőr nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott esetekben és módon használhat lőfegyvert.
 
