@@ -20,7 +20,7 @@ belügyminiszter
 
 Határidő: a 2018. évben a központi költségvetés végrehajtása során a 2019. és a 2020. év tekintetében a központi költségvetés tervezése során
 
-4. visszavonja a Fővárosi Állat- és Növénykert fejlesztésére irányuló beruházások megvalósításának ütemezett támogatásáról szóló 1514/2015. (VII. 23.) Korm. határozat 4. pontját;
+4.[^1]
 
 5. felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy
 
@@ -41,3 +41,5 @@ Határidő: az a) alpont tekintetében a Fővárosi Nagycirkusz elköltözését
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a tárgyalások megkezdése tekintetében azonnal a Kormány tájékoztatása tekintetében 2018. március 31-ig
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
