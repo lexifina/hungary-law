@@ -16,7 +16,7 @@ b) a polgári védelmi feladat végrehajtása érdekében a jogszabályban és a
 
 c) jelenteni, ha a feladat végrehajtásával összefüggésben ajándékot ajánlanak fel és visszautasítani azt,
 
-d) a polgári védelmi szervezetek alkalmazása idején a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 72. § (5) bekezdésében meghatározott igazolványt magánál tartani,
+d)[^8] a polgári védelmi szervezetek alkalmazása idején a Kat. 72. § (5) bekezdésében meghatározott igazolványt magánál tartani,
 
 e) a feladat ellátása során a polgári védelmi tevékenységhez kapcsolódó védőfelszereléseket és a munkaeszközöket rendeltetésszerűen használni,
 
@@ -25,3 +25,5 @@ f) tiszteletben tartani munkatársai emberi méltóságát,
 g) a polgári védelmi feladatok végrehajtására vonatkozó információkat a valóságnak megfelelően jelenteni,
 
 h) jelenteni a közvetlen elöljárónak az utasítás végrehajtását, az akadályozó körülményeket, valamint ha más elöljárótól utasítást kapott vagy az ellenőrizte tevékenységét.
+
+[^8]: A 34. § (2) bekezdés d) pontja a 14/2017. (VI. 20.) BM rendelet 2. §-a szerint módosított szöveg.
