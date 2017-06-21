@@ -1,3 +1,0 @@
-185. § A Vtv. 6. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2446/2015/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 6. cikk (2) bekezdésének kivételével – a (9) bekezdésre figyelemmel – valamennyi, gazdálkodónak nem minősülő személynek nyilvántartásba kell vetetnie magát azon esetekben, amikor a vámhatóságok előtt elektronikus úton vagy papíralapon vám-árunyilatkozatot, vagy a Vámkódex 22. cikke szerinti kérelmet nyújt be.”

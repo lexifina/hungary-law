@@ -1,3 +1,0 @@
-139. § Az Szftv. a következő 8/G. §-al egészül ki:
-
-„8/G. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel módosított 6/C. § (6) bekezdését első alkalommal a 2015. évben kiutalt összegekről benyújtott közleményekre vonatkozóan kell alkalmazni azzal, hogy az adóhatóság első alkalommal 2018. január 1-jét követően teszi közzé honlapján az adatokat, majd ezt követően az adatokat havonta frissíti.”

@@ -10,6 +10,6 @@
 
 2.
 
-3. 38. § (1) bekezdésében a „(4)” szövegrész helyébe az „(5)” szöveg
+3.
 
 lép.

@@ -4,8 +4,4 @@
 
 (2)
 
-(3) A Tao. törvény 4. § 11. pontja a következő i) alponttal egészül ki:
-
-(11. ellenőrzött külföldi társaság:)
-
-„i) az a) alpontban foglalt részesedés fennállását akkor kell teljesítettnek tekinteni, ha az adózó adóévének a többségében fennáll;”
+(3)
