@@ -1,0 +1,1 @@
+5. § A 2. § alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan időre elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.

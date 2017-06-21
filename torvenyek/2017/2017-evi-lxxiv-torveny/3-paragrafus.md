@@ -1,0 +1,1 @@
+3. § Az 1. § (1) bekezdése és a 2. § szerinti tulajdon átruházásoknak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésekben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.

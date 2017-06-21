@@ -1,0 +1,1 @@
+6. § Az egyes állami és önkormányzati tulajdonú ingatlanok ingyenes átadásáról szóló 2016. évi CLXX. törvény 6. § (1) bekezdésében a „Magyar Katolikus Egyház” szövegrészek helyébe a „Székesfehérvári Egyházmegye” szöveg lép.
