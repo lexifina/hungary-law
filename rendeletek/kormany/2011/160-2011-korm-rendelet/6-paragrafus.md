@@ -1,1 +1,0 @@
-## 5. § Egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet által nem szabályozott kérdések esetében e rendelet előírásai irányadók.

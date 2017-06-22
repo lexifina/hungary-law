@@ -1,3 +1,0 @@
-## VI. Fejezet
-
-## EGYÉB RENDELKEZÉSEK

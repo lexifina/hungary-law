@@ -1,1 +1,0 @@
-## 6. § Haditechnikai eszköz kivitelének, behozatalának, transzferjének, tranzitjának, és haditechnikai szolgáltatások nyújtásának és igénybevételének engedélyezése, és a tanúsítás során alkalmazandó engedélykérelmek és engedélyokmányok mintáját a Hatóság honlapján közzéteszi.
