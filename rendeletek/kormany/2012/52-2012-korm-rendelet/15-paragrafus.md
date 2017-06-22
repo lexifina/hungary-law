@@ -1,4 +1,4 @@
-15. § (1)[^14] Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. § (2) bekezdése figyelembevételével a kormányhivatal:
+15. § (1)[^15] Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. § (2) bekezdése figyelembevételével a kormányhivatal:
 
 a) 50 ezer forinttól 300 ezer forintig terjedő bírsággal sújtja azt, aki az e rendelet szerinti engedéllyel összefüggő változás-bejelentési, adatszolgáltatási, nyilatkozattételi, nyilvántartási kötelezettségét nem teljesíti;
 
@@ -10,4 +10,4 @@ d) 400 ezer forinttól 1 millió forintig terjedő bírsággal sújtja azt, aki 
 
 (2) Az (1) bekezdés szerinti bírságot készpénz-átutalási megbízással vagy átutalással a kirovó határozatban megjelölt számlaszámra, a közlemény rovatban a határozat számára való utalással kell teljesíteni.
 
-[^14]: A 15. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 197. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 15. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 197. § (2) bekezdés b) pontja szerint módosított szöveg.

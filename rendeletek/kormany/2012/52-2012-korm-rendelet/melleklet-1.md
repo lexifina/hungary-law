@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^17]
+1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^18]
 
 ## Áruk, amelyek behozatalával, kivitelével, reexportjával kapcsolatos tevékenységek megkezdéséhez tevékenységi engedélyre van szükség
 
@@ -142,4 +142,4 @@ Továbbá: az ADR. 1. osztályba tartozó más robbanóanyagok.
 
 | 5 | ex | 4811 | Biztonsági papír |
 
-[^17]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
