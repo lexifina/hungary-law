@@ -1,1 +1,0 @@
-A Kormány a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) 10. §-ának (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
