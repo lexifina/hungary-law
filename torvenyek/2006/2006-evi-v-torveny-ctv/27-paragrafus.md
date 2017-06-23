@@ -24,7 +24,7 @@ a) a tagok nevét, természetes személy esetén lakóhelyét, születési idej�
 
 b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
 
-c) az üzletrészen alapított zálogjog tényét, a zálogjogosult nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát),
+c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét,
 
 d)
 

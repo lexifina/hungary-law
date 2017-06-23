@@ -54,7 +54,7 @@
 
 ## b) a vagyoni hozzájárulással kapcsolatban
 
-## ba) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról, illetve bejegyzett társaság esetében a létesítő okiratban (a legfőbb szerv határozatában) meghatározottak szerint történő befizetésről szóló igazolás,
+## ba) pénzforgalmi szolgáltató igazolása a pénzbeli vagyoni hozzájárulás befizetéséről, vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a társaság rendelkezésére bocsátásáról, illetve bejegyzett társaság esetében taggyűlési határozatban meghatározottak szerint történő megfizetéséről,
 
 ## bb) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagoknak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
 
@@ -159,6 +159,12 @@
 ## 6. egyesülés esetén az egyesülési terv;
 
 ## 7. szétválás esetén a szétválási terv.
+
+## 8. tanúsítvány kiadásához az 1., a 2., a 4–6. pontok alatti okiratok, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény (a továbbiakban: Tetv.) 6. § (2) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+## 9. a határon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez az 1., a 2., a 4–6. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+## 10. a Tetv. 13/D. § szerinti bejegyzés esetén az 1., a 2., az 5. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
 
 ## IV. Felszámolás esetén szükséges okiratok:
 

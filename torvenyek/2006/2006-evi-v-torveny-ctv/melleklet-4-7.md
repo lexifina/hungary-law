@@ -60,9 +60,9 @@
 
 ## 15. a zártkörűen működő részvénytársaság esetén:
 
-## a) a közgyűlés összehívására vonatkozó meghívó (hirdetmény) és a jelenléti ív,
+## a)
 
-## b) a közgyűlés jegyzőkönyve (kivonata),
+## b)
 
 ## c) a pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről,
 
@@ -73,5 +73,7 @@
 ## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
 ## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról.
+
+## 17. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási engedélye.
 
 4–7. számú melléklet a 2006. évi V. törvényhez

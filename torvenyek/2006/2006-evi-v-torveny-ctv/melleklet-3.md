@@ -88,13 +88,15 @@
 
 ## ea) a zálogjog bejegyzése esetén a zálogszerződés egy eredeti példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt bejegyzési engedélye,
 
-## eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye;
+## eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye,
+
+## ec) zálogjogosulti bizományos bejegyzése (törlése) esetén a zálogjogosulti bizományost kijelölő (kijelölést megszüntető) okirat, ha az üzletrészen alapított zálogjog feltüntetésére a zálogjogosulti bizományos bejegyzésével együtt kerül sor, az ea) pont szerinti okiratok is;
 
 ## 2. a) részvénytársaság alapításával összefüggésben a nem pénzbeli vagyoni hozzájárulás értékéről adott könyvvizsgálói (szakértői) vélemény;
 
 ## b) részvénytársaság tőkeváltozásával kapcsolatban
 
-## ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és az érintettnek minősülő részvényfajta, illetve részvényosztály részvényeseinek hozzájárulást igazoló okiratok,
+## ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és az érintettnek minősülő részvényfajta, illetve részvényosztály részvényeseinek hozzájárulást igazoló okiratok, továbbá a pénzforgalmi szolgáltató igazolása a már teljesített pénzbeli vagyoni hozzájárulás befizetéséről, illetve ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a közgyűlési határozatban meghatározottak szerint történő megfizetéséről,
 
 ## bb) a jegyzett tőkén felüli vagyonból történő tőkeemelés vagy dolgozói részvény kialakítása esetében a taggyűlés által elfogadott számviteli törvény szerinti beszámoló mérlege, illetve a közbenső mérleg,
 
@@ -110,7 +112,7 @@
 
 ## da) a tőzsde igazolása a részvények tőzsdei bevezetéséről, és idegen nyelvű igazolás esetén annak hiteles magyar nyelvű fordítása;
 
-## db) a kibocsátás helye szerint illetékes hatóság által jóváhagyott, az értékpapír nyilvános kibocsátásához szükséges tájékoztató (összefoglaló) és idegen nyelvű tájékoztató (összefoglaló) és jóváhagyás esetén azok hiteles magyar nyelvű fordítása;
+## db)
 
 ## dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azon kedvezményekről, amelyeket a társaság a működési forma változására tekintettel biztosít;
 
@@ -204,11 +206,11 @@
 
 ## III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
-## 1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása;
+## 1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása, kivéve a Tetv. 13/A.–13/D. § szerinti esetben;
 
 ## 2. ha ilyen működik a cégnél, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozata;
 
-## 3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása;
+## 3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása, a Tetv. 13/A. §–13/D. § szerinti esetben annak igazolása, hogy a teljes jegyzett tőke rendelkezésre bocsátásra került;
 
 ## 4. ha az egyesülés vállalkozások összefonódását jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata arra vonatkozóan, hogy az összefonódás nem engedélyköteles;
 
