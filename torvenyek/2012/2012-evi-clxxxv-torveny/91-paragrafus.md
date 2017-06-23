@@ -48,7 +48,7 @@ közszolgáltatási díjat kell tekinteni.
 
 (14) Ha az új gyűjtőedény űrmértéke kisebb, mint bármely korábban alkalmazott gyűjtőedény méret, vagy ha az új gyűjtőedény űrmértékét kormányrendelet határozza meg, a közszolgáltató legmagasabb ürítési díjként legfeljebb a (13) bekezdés szerint meghatározott fajlagos ürítési díjtételek közül a legalacsonyabb díjtétel és az új gyűjtőedény űrmértékének szorzatát alkalmazhatja.
 
-(15) Ha az új gyűjtőedény űrmértéke nem kisebb, mint bármely korábban alkalmazott gyűjtőedény méret, a közszolgáltató ürítési díjként legfeljebb a (13) bekezdés szerint meghatározott fajlagos ürítési díjtételek átlagértékét és az új gyűjtőedény űrmértékének szorzatát alkalmazhatja.
+(15) Ha az új gyűjtőedény űrmértéke nem kisebb, mint bármely korábban alkalmazott gyűjtőedény mérete, és az új gyűjtőedény űrmértékét kormányrendelet nem határozza meg, a közszolgáltató ürítési díjként legfeljebb a (13) bekezdés szerint meghatározott fajlagos ürítési díjtételek átlagértékének és az új gyűjtőedény űrmértékének szorzatát alkalmazhatja.
 
 (16) Ha az új gyűjtőedény rendszeresítését követően az ingatlanhasználó által átadott települési vegyes hulladék mennyisége változatlan marad vagy csökken, és a (15) bekezdésben meghatározott számítással a részére meghatározható közszolgáltatási díj legmagasabb összege emelkedne, a közszolgáltató a továbbiakban is legfeljebb a (2), a (2d) és a (10) bekezdésben meghatározott díjat alkalmazhatja.
 

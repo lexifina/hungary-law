@@ -2,4 +2,4 @@
 
 (2) A hulladékgazdálkodással kapcsolatos települési önkormányzati döntés meghozatala előtt a nyilvánosság véleményének megismerése érdekében közmeghallgatás tartható.
 
-(3) A települési önkormányzat közmeghallgatást tart a települési hulladék elkülönített gyűjtésének bevezetésével kapcsolatos döntések meghozatala előtt.
+(3) A települési önkormányzat közmeghallgatást tarthat a települési hulladék elkülönített gyűjtésével kapcsolatos döntés meghozatala előtt.

@@ -1,21 +1,25 @@
-42. § (1) A hulladékgazdálkodási közszolgáltatás keretében a közszolgáltató:
+42. § (1) A közszolgáltató a hulladékgazdálkodási közszolgáltatás keretében:
 
-a) az ingatlanhasználók által a közszolgáltató szállítóeszközéhez rendszeresített gyűjtőedényben gyűjtött települési hulladékot az ingatlanhasználóktól összegyűjti és elszállítja – ideértve a háztartásban képződő zöldhulladék, vegyes hulladék, valamint az elkülönítetten gyűjtött hulladék összegyűjtését és elszállítását is –,
+a) az ingatlanhasználók által a közszolgáltató szállítóeszközéhez rendszeresített gyűjtőedényben gyűjtött települési hulladékot az ingatlanhasználóktól összegyűjti és elszállítja (ideértve a háztartásban képződő zöldhulladék, vegyes hulladék, valamint az elkülönítetten gyűjtött hulladék összegyűjtését és elszállítását is),
 
-b) a lomtalanítás körébe tartozó lomhulladékot az ingatlanhasználóktól összegyűjti, illetve átveszi és elszállítja,
+b) – ha e törvény felhatalmazása alapján jogszabály eltérően nem rendelkezik – a vegyes hulladék összegyűjtéséről és elszállításáról hetente legalább egy alkalommal gondoskodik,
 
-c) az általa üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő udvaron gyűjtött vagy átvételi helyen átvett hulladékot összegyűjti és elszállítja,
+c) a lomtalanítás körébe tartozó lomhulladékot az ingatlanhasználóktól összegyűjti, átveszi és elszállítja,
 
-d) az elhagyott, illetve ellenőrizetlen körülmények között elhelyezett hulladékot összegyűjti, elszállítja és gondoskodik a hulladék kezeléséről, ha erre a települési önkormányzattal megkötött hulladékgazdálkodási közszolgáltatási szerződése kiterjed,
+d) az általa üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő udvaron gyűjtött vagy átvételi helyen átvett hulladékot összegyűjti és elszállítja,
 
-e) gondoskodik az a)–d) pontban meghatározott hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék kezeléséről,
+e) az elhagyott vagy ellenőrizetlen körülmények között elhelyezett hulladékot összegyűjti, elszállítja, gondoskodik az elhagyott vagy ellenőrizetlen körülmények között elhelyezett hulladék kezeléséről, ha erre a települési önkormányzattal megkötött hulladékgazdálkodási közszolgáltatási szerződése kiterjed,
 
-f) a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítményt üzemelteti, és
+f) az a)–e) pontban meghatározott hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kezeli, vagy annak kezeléséről a (2) bekezdésben foglaltaknak megfelelően hulladékkezelőnek történő átadás útján gondoskodik,
 
-g) – jogszabály eltérő rendelkezése hiányában – a hulladékgazdálkodási közszolgáltatáson túli szolgáltatás ellenértékéről – a szolgáltatás teljesítéséhez igazodóan, de legalább negyedévente – a hulladékgazdálkodási díj fizetésére kötelezett ingatlanhasználó vagy tőle a fizetési kötelezettséget jogszerűen átvállaló személy vagy önkormányzat részére számlát állít ki.
+g) a 37/B. § szerinti, valamint a Koordináló szerv mint vagyonkezelő által a részére üzemeltetésre átadott létesítményeket, eszközöket, vagyonelemeket, valamint a hulladékgazdálkodási közszolgáltatással érintett egyéb hulladékgazdálkodási létesítményt üzemelteti, és
 
-(2) Ha a közszolgáltató hulladékkezelő létesítménnyel, illetve a közszolgáltatás körébe tartozó hulladék kezelésére alkalmas berendezéssel nem rendelkezik, a közszolgáltatás körébe tartozó hulladék kezeléséről a hulladék hulladékkezelőnek történő átadása útján gondoskodik. Ebben az esetben a hulladékkezelőnek nem szükséges minősítési engedéllyel rendelkeznie.
+h) köteles az e törvényben foglalt előírásoknak megfelelő ügyfélszolgálatot működtetni.
+
+(1a) Az (1) bekezdés e) pontjában foglalt feladatok ellenértékét a települési önkormányzat köteles megtéríteni a közszolgáltatónak.
+
+(2) Ha a közszolgáltató hulladékkezelő létesítménnyel vagy a közszolgáltatás körébe tartozó hulladékkezelési feladatok ellátására alkalmas berendezéssel nem rendelkezik, hulladékkezelő létesítményt vagy közszolgáltatás körébe tartozó hulladékkezelési feladatok ellátására alkalmas berendezést nem üzemeltet, a hulladék kezeléséről a hulladék hulladékkezelőnek történő átadása útján gondoskodik. Ebben az esetben a hulladékkezelőnek nem szükséges minősítési engedéllyel rendelkeznie.
 
 (3)–(4)
 
-(5) Közszolgáltató hulladékgazdálkodási közszolgáltatáson kívül egyéb hulladékgazdálkodási engedélyhez, illetve nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységet – a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározott hulladék kezelésének kivételével – nem végezhet.
+(5) A közszolgáltató hulladékgazdálkodási közszolgáltatáson kívüli egyéb hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységét köteles úgy megszervezni, hogy az a hulladékgazdálkodási közszolgáltatási tevekénységét ne veszélyeztesse. A közszolgáltató hulladékgazdálkodási közszolgáltatáson kívüli egyéb hulladékgazdálkodási engedélyhez, illetve nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységből származó eredményét köteles a közszolgáltatásra fordítani.

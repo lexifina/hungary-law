@@ -22,7 +22,7 @@ g) a hulladékgazdálkodás országos szintű céljainak és fejlesztési irány
 
 h) kezeli az önkormányzatok, önkormányzati társulások által önkéntesen vagyonkezelés körében rábízott vagyont,
 
-i) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) által meghatározott szolgáltatási díjat,
+i) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) rendeletében foglaltaknak megfelelően meghatározott szolgáltatási díjat,
 
 j) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
 
@@ -36,9 +36,11 @@ b) közszolgáltatási területek szerinti lehatárolására, és
 
 c) szabályozására.
 
-(4) A helyi közszolgáltató, a települési önkormányzat, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
+(4) A közszolgáltató, a települési önkormányzat, az önkormányzati társulás, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti, és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
 
-(5) A (4) bekezdésben meghatározott adatok közül a személyes adatokat a Koordináló szerv az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti, nyilvántarthatja. A Koordináló szerv jogosult a számlázási, díjbeszedési, valamint a díjhátralék-kezelési feladatkörében a személyes adatok körére vonatkozó csoportos adatszolgáltatást kérni a járási hivatal illetékes szervétől. Az ennek alapján átvett személyes adatokat a Koordináló szerv az érintettnek a közszolgáltatás igénybevételére vonatkozó kötelezettsége megszűnéséig, a közszolgáltatással összefüggő díjhátralék esetén annak kifizetéséig (behajtásáig) vagy törléséig kezelheti.
+(5) A (4) bekezdésben meghatározott adatok közül a személyes adatokat a Koordináló szerv – és az ügyfélszolgálati feladatai ellátásában igénybevett közszolgáltató ügyfélszolgálata – az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti, nyilvántarthatja. A Koordináló szerv jogosult a számlázási, díjbeszedési, valamint a díjhátralék-kezelési feladatkörében a személyes adatok körére vonatkozó csoportos adatszolgáltatást kérni a természetes személy ingatlanhasználó lakcíme szerint illetékes járási hivataltól. Az átvett személyes adatokat a Koordináló szerv az érintettnek a közszolgáltatás igénybevételére vonatkozó kötelezettsége megszűnéséig, a közszolgáltatással összefüggő díjhátralék esetén annak kifizetéséig (behajtásáig) vagy törléséig kezelheti.
+
+(5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat az általa ellátandó hulladékgazdálkodási közszolgáltatás ellátása, illetve jogszabályban foglalt kötelezettségei teljesítése érdekében kezelheti és tarthatja nyilván. A közszolgáltató a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az e bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
 
 (6) A Koordináló szervvel kapcsolatos állami irányítási és tulajdonosi feladatokat a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter látja el.
 

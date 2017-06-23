@@ -8,7 +8,7 @@ ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
 
 bb) a közszolgáltató által nyújtott, a hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg,
 
-c) bírságot szabhat ki.
+c) bírságot szabhat ki a közszolgáltatóval szemben, amennyiben a nem megfelelő adatszolgáltatása következtében került sor jogszabálysértő díj alkalmazására.
 
 (2) A Hivatal eljárására a villamos energiáról szóló törvényben meghatározott – a Hivatal eljárására vonatkozó – általános szabályokat az e törvényben foglalt eltérésekkel kell alkalmazni.
 

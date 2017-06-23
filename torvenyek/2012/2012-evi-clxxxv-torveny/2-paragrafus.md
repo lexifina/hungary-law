@@ -74,7 +74,7 @@
 
 33. hulladéktípus: a hulladékjegyzékről szóló miniszteri rendeletben meghatározott hulladékjegyzék szerinti azonosító kóddal jelölt hulladék;
 
-34. ingatlanhasználó: az ingatlan birtokosa, tulajdonosa, vagyonkezelője, valamint a társasház és a lakásszövetkezet, aki (amely) a hulladékgazdálkodási közszolgáltatást e törvény szerinti szerződéses jogviszony keretében kötelező jelleggel igénybe veszi és akinek (amelynek) a közszolgáltató rendszeres időközönként rendelkezésére áll;
+34. ingatlanhasználó: az ingatlan birtokosa, tulajdonosa, vagyonkezelője, valamint a társasház és a lakásszövetkezet, aki (amely) a hulladékgazdálkodási közszolgáltatás igénybevételére köteles és akinek (amelynek) a közszolgáltató rendelkezésére áll;
 
 35. kereskedő: olyan gazdálkodó szervezet, amely a hulladékot saját vagy más nevében megvásárolja, és azt követően eladja, ideértve azt az esetet is, amikor a kereskedő nem lesz a hulladék tényleges birtokosa;
 
@@ -104,11 +104,15 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló szilárd hulladék;
 
+43a. termékcsoport: a gyártó által előállított vagy a forgalmazó által forgalmazott termékkel és csomagolásával jellegében és funkciójában azonos termékek csoportja;
+
 44. újrafeldolgozás: olyan hasznosítási művelet, amelynek során a hulladékot termékké vagy anyaggá alakítják annak eredeti használati céljára, akár más célokra; ez magában foglalja a szerves anyagok feldolgozását, de nem tartalmazza az energetikai hasznosítást és az olyan anyaggá történő feldolgozást, amelyet feltöltési műveletek során használnak fel;
 
 45. újrahasználat: olyan művelet, amelynek révén a hulladéknak nem minősülő terméket vagy alkatrészét újrahasználják arra a célra, amelyre eredetileg szolgált;
 
 46. újrahasználatra előkészítés: tisztítással, javítással, valamint ellenőrzéssel végzett hasznosítási művelet, amelynek során a hulladékká vált terméket vagy alkatrészét előkészítik arra, hogy bármilyen egyéb előkezelés nélkül újrahasználható legyen;
+
+46a. üzlet: termékértékesítést szolgáló, a kereskedelemről szóló törvény szerinti üzlet, a vendéglátási tevékenységet folytató üzlet kivételével;
 
 47. vegyes hulladék: a háztartási és a háztartási hulladékhoz hasonló hulladéknak az a különböző fajtájú és összetételű hulladékot tartalmazó része, amelyet az elkülönítetten gyűjtött hulladéktól eltérő külön gyűjtőedényben gyűjtenek;
 

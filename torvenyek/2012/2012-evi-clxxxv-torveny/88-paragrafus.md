@@ -66,7 +66,7 @@
 
 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
 
-33. a Koordináló szerv kijelölésének módját, részletes feladatkörét, a koordinációjával és az erőforrás-gazdálkodásával összefüggő szabályokat;
+33. a Koordináló szerv kijelölésének módját, a részletes feladatkörét, a koordinációjával, valamint tulajdonjogával kapcsolatos egyes szabályokat, valamint az erőforrás-gazdálkodásával összefüggő szabályokat;
 
 34. az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokat, e körben a közszolgáltatási területek lehatárolásának részletes szabályait;
 

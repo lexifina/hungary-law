@@ -14,7 +14,9 @@ e) a 2008/98/EK európai parlamenti és tanácsi irányelvnek;
 
 f) a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikkének (2) bekezdésében rögzített célok teljesítésének igazolására szolgáló szabályok és számítási módszerek megállapításáról szóló, 2011. november 18-i bizottsági határozatnak
 
-g) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2015. július 10-i 2015/1127/EU bizottsági irányelvnek
+g) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2015. július 10-i 2015/1127/EU bizottsági irányelvnek;
+
+h) a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
