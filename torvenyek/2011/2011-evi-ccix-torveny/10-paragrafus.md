@@ -1,6 +1,6 @@
 ## 4. A víziközmű-fejlesztés
 
-10. § (1) A víziközmű-fejlesztés megvalósításáról – ha e törvény vagy kormányrendelet másként nem rendelkezik – az ellátásért felelős gondoskodik.
+10. § (1) A víziközmű-fejlesztés megvalósításáról – ha e törvény vagy kormányrendelet másképp nem rendelkezik – az ellátásért felelős gondoskodik, a fejlesztés teljes időszaka alatt a mindenkori víziközmű-szolgáltató szakmai döntésekbe történő bevonásával a 11. § (5) bekezdésben előírtak szerint.
 
 (2) Ha a víziközmű-fejlesztést a víziközmű-szolgáltató vagy önkormányzatok társulása, illetve az önkormányzatok társulása konzorciumi megállapodás keretében végzi, akkor a víziközmű az üzembe helyezésének napjával az ellátásért felelős vagy felelősök tulajdonába kerül. A társulás tagjai ezt megelőzően megállapodhatnak a megvalósított víziközművön fennálló tulajdoni részesedésük mértékéről. Megállapodás hiányában tulajdoni részesedés a víziközmű-fejlesztéshez történő anyagi hozzájárulás mértéke szerint alakul.
 

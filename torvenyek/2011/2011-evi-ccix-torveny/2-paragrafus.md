@@ -91,3 +91,5 @@ b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezeté
 31. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 
 32. egyedi szennyvízkezelő berendezés: olyan vízilétesítmény, amely legfeljebb egy ingatlanon keletkező települési szennyvíz nem közműves, biológiai tisztítását energiabevitel segítségével végzi,
+
+33. víziközmű-alap: a víziközmű-szolgáltató és az ellátásért felelősök önkéntes megállapodása alapján létrehozott, a víziközmű-fejlesztések finanszírozását biztosító források összessége, így különösen a használati díjak nyilvántartására és felhasználására szolgáló, elkülönített számlán kezelt pénzügyi eszköz.

@@ -34,4 +34,6 @@ c) helyszíni ellenőrzés,
 
 d) más hatóságok megkeresése útján beszerzett információk,
 
-e) elektronikus nyilvántartások adatai.
+e) elektronikus nyilvántartások adatai,
+
+f) az elektronikus közműnyilvántartásba szolgáltatott adatok.

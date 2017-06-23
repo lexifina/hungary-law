@@ -26,7 +26,7 @@ g) a szolidaritás elve: az a társadalmi léptékben hasznos és támogatandó 
 
 h) a költségmegtérülés elve: a víziközmű-szolgáltatás igénybevételéért fizetendő díjban a víziközmű működtetésével kapcsolatos indokolt költségeknek – a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének rendelkezéseivel összhangban – meg kell térülniük,
 
-i) a legkisebb költség elve: a víziközmű-rendszer fejlesztésének tervezése és megvalósítása, valamint a víziközmű üzemeltetése során olyan megoldásokat kell előnyben részesíteni, amelyek a jogszabályokban, esetlegesen pályázati kiírásban megjelölt időtartam alatt, ezek hiányában a víziközmű várható élettartama során a víziközmű üzemeltetési biztonságának megtartása vagy javítása mellett a legkisebb mértékben eredményezik a víziközmű-szolgáltatás díjainak emelkedését,
+i) a legkisebb költség elve: a víziközmű-rendszer fejlesztésének tervezése és megvalósítása, valamint a víziközmű üzemeltetése során olyan megoldásokat kell előnyben részesíteni, amelyek a víziközmű várható élettartama során a víziközmű üzemeltetési biztonságának megtartása vagy javítása mellett a legkisebb mértékben eredményezik a víziközmű-szolgáltatás díjainak emelkedését,
 
 j) a víziközművek együttműködtetésének elve: ha egy adott területen az ellátásért felelős azonos, akkor a víziközmű-szolgáltatás általa történő megszervezésénél – az Európai Unió működéséről szóló szerződés versenyszabályainak sérelme nélkül – törekedhet arra, hogy a víziközmű-szolgáltatási ágazati tevékenységet ugyanazon víziközmű-szolgáltató lássa el,
 

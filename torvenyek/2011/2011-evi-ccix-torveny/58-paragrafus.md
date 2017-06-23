@@ -20,11 +20,13 @@ e) nem lakossági felhasználó esetében a közüzemi ivóvíz-szolgáltatást 
 
 a) a lakossági felhasználó fizetési kötelezettségével 60 napot meghaladó késedelembe esett vagy az 52. § (2a) bekezdése szerinti elszámolási módot választó elkülönített vízhasználó hitelesítéssel nem rendelkező mellékvízmérőt működtet, valamint ha az e törvény és a végrehajtására kiadott kormányrendeletben meghatározott módon nem teszi lehetővé a mellékvízmérő leolvasását,
 
-b) a lakossági felhasználó által fizetési haladék adásáról vagy részletfizetési lehetőségről kezdeményezett egyeztetés esetében az egyeztetés a víziközmű-szolgáltatóval nem vezetett eredményre, vagy az (1) bekezdés d) pontjának alkalmazásában egyeztek meg,
+b)
 
 c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, és a második felszólításban a szociálisan rászoruló felhasználó figyelmét felhívta az e törvény és a végrehajtására kiadott kormányrendelet alapján őt megillető kedvezményekre, valamint
 
 d) a felhasználási hely fekvése szerint illetékes népegészségügyi szervet a (4) bekezdésben foglaltak szerint értesítette.
+
+(3a) Ha a víziközmű-szolgáltató és a lakossági felhasználó az (1) bekezdés d) pontjában foglaltak alkalmazásában állapodott meg, de az előrefizetős mérő alkalmazásában történt megállapodást követően az előrefizetős mérő a felhasználói díjfizetés hiánya miatt lezár, akkor az (1) bekezdés a)–c) pontjaiban foglaltak alkalmazhatóak.
 
 (4) A lakossági felhasználó (3) bekezdés c) pontja szerinti első felszólítása – a felhasználó elektronikus úton történő kapcsolattartásra is kiterjedő előzetes és kifejezett hozzájárulása esetén – elektronikusan, postai vagy a lakossági felhasználó általi átvétel igazolására alkalmas más egyéb módon, a felfüggesztés vagy a korlátozás lehetőségére vonatkozó második felszólítása tértivevényes levélben történik. Az illetékes népegészségügyi szervet a második felszólítással egyidejűleg, legalább 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
 
