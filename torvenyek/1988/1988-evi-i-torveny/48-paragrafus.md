@@ -80,7 +80,9 @@ a) a Kormány, hogy
 
 37. a közúti hírközlő hálózatok kapacitásainak hasznosítására vonatkozó részletes szabályokat;
 
-38. a tájékozódást segítő jelzést megjelenítő reklámcélú eszközök közvilágítási-, villany- és telefonoszlopon történő elhelyezésére és eltávolítására, az azok elhelyezéséért fizetendő elhelyezési díj mértékére és megfizetésére vonatkozó részletes szabályokat
+38. a tájékozódást segítő jelzést megjelenítő reklámcélú eszközök közvilágítási-, villany- és telefonoszlopon történő elhelyezésére és eltávolítására, az azok elhelyezéséért fizetendő elhelyezési díj mértékére és megfizetésére vonatkozó részletes szabályokat;
+
+39. a 33. § (1) bekezdés d) pont da) alpontja szerinti országos kerékpárút-törzshálózat és a főutakkal párhuzamos kerékpárutak lakott területen kívüli és lakott területi szakaszainak – beleértve az e hálózathoz tartozó, kerékpározás céljára használt magánutakat és útnak nem minősülő egyéb útvonalakat is – kijelölését, valamint a 33. § (1) bekezdés d) pont da)–db) alpontja szerinti, a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet kijelölését
 
 b) a miniszter, hogy
 
@@ -90,7 +92,7 @@ b) a miniszter, hogy
 
 3. az ömlesztett (szóródó) tömegáru közúton történő fuvarozásának és saját számlás szállításának a feltételeit, valamint egyes közúti közlekedési szolgáltatások engedélyezésének a részletes szabályait,
 
-4. az országos közutak kezelésének szabályait és a helyi közutak kezelésének szakmai szabályait,
+4. az országos közutak kezelésének szabályait és a helyi közutak, valamint a közforgalom elől el nem zárt magánutak kezelésének szakmai szabályait,
 
 5. az utak forgalomszabályozásának és a közúti jelzések elhelyezésének műszaki és eljárási szabályait,
 
@@ -150,7 +152,7 @@ b) a miniszter, hogy
 
 33. a közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló iránymutatásokat,
 
-34. a 24. § (11) bekezdésében meghatározott szervezet vagy szervezetek kijelölését, és az azzal összefüggésben ellátandó feladatokat,
+34. a 24. § (11) bekezdésében meghatározott szervezet kijelölését, és az azzal összefüggésben ellátandó, valamint a 24. § (11) bekezdésében meghatározott szervezet által ellátandó muzeális jellegű járművek minősítési szabályainak kidolgozására és kiadására, a minősítés végrehajtásának szakmai és piacfelügyeleti ellenőrzésére vonatkozó feladatokat,
 
 35. a kezelői ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a kezelői ellenőrök rendszeres továbbképzésére vonatkozó részletes eljárási szabályokat,
 
@@ -159,6 +161,8 @@ b) a miniszter, hogy
 37. a közúti forgalom biztonságát veszélyeztető módon veszteglő gépjárművek elszállításának, tárolásának és értékesítésének szabályait,
 
 38. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó jogszabályi szintű szabályozást nem igénylő műszaki előírások, útmutatók megalkotására és kiadására, közzétételére vonatkozó eljárási szabályokat,
+
+38a. az útügyi műszaki előírások kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
 
 39. a csatlakozási díj meghatározásának elveit, mértékét, a kezelői hozzájárulás kiadásának feltételeit,
 
@@ -178,7 +182,11 @@ b) a miniszter, hogy
 
 47. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, járműfenntartó szervezetek, menetíró készülék gyártását végző szervezetek, menetíró készülék beépítését végző jármű-gyártók tevékenységének engedélyezésére és ezzel összefüggő nyilvántartásra, nemzeti és nemzetközi adatközlésre vonatkozó feltételeket,
 
-48. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, járműfenntartó szervezetek és a velük kapcsolatban álló közúti áruszállítást végző vállalkozások közötti összeférhetetlenséggel kapcsolatos rendelkezéseket
+48. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, járműfenntartó szervezetek és a velük kapcsolatban álló közúti áruszállítást végző vállalkozások közötti összeférhetetlenséggel kapcsolatos rendelkezéseket,
+
+49. az úthálózat-védelem érdekében megvalósuló rendszerek létesítésére és működtetésére vonatkozó részletes szabályokat,
+
+50. a 21/M. § szerinti kockázatértékelő rendszerrel kapcsolatos, a közúti vállalkozások kockázati profiljának meghatározására és a fokozott kockázatot jelentő vállalkozások szigorúbb és gyakoribb ellenőrzésére vonatkozó részletes szabályokat
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
@@ -241,6 +249,8 @@ d) a díjköteles várakozás megengedett leghosszabb időtartamát,
 e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét, azzal, hogy a kedvezményes várakozásra jogosultak körének bővítésére a kerületi képviselő-testület jogosult.
 
 (5a) Felhatalmazást kap a fővárosi közgyűlés, hogy a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben állapítsa meg.
+
+(5b) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés –, hogy hogy a közlekedésért felelős miniszter rendeletében előírt közutak kezelési feladataival kapcsolatban, valamint a közlekedésért felelős miniszter rendeletében előírt közutak építésével kapcsolatban előírt minőségi követelmények ellenőrzésének való megfelelés érdekében az általa kezelt közutak vonatkozásában a helyi sajátosságoknak megfelelő további szabályokat rendeletben állapíthasson meg.
 
 (6) Az e törvényben meghatározott díjat, pótdíjat – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
 

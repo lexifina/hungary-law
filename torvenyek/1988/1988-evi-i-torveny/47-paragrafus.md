@@ -106,7 +106,7 @@ Magyarország területén van.
 
 31. síkosságmentesítés: olyan téli üzemeltetési feladat, amely a közút gépjármű-közlekedésre szolgáló felületének síkosság elleni védekezését és a hó eltakarítását foglalja magába;
 
-31/A. Nemzeti Tengelysúlymérő Rendszer: a megengedett legnagyobb össztömeg és tengelyterhelés ellenőrzésének támogatására, az ellenőrzésre való kiválasztás előszűrése érdekében rendszeresített, hitelesített mérőeszközöknek és az ezekhez kapcsolódó hatósági informatikai rendszer szoftver- és hardverelemeinek rendszere;
+31a. Nemzeti Tengelysúlymérő Rendszer: a 21/K. § (1) bekezdésében meghatározott célok érdekében rendszeresített, hitelesített vagy kalibrált mérőeszközöknek és az ezekhez kapcsolódó hatósági informatikai rendszer szoftver- és hardverelemeinek rendszere;
 
 32. Komplex Közlekedési Ellenőrző Pont: a közúti forgalomban részt vevők több szempontú ellenőrzésére szolgáló, információgyűjtő, elemező és dokumentáló rendszernek az elektronikus észlelésre szolgáló elemei és az azok rögzítésére szolgáló tartószerkezet.
 
@@ -116,4 +116,6 @@ Magyarország területén van.
 
 35. közúti árutovábbítás: közúton tehergépjárművel végzett árufuvarozás, díj ellenében más által – gépjárművezetővel együtt – rendelkezésre bocsátott tehergépjármű áruszállítás céljára való felhasználása, valamint díj ellenében végzett vontatás;
 
-36. tehergépjármű: a tehergépkocsi, a vontató, a lassú jármű, valamint a tehergépkocsiból, vontatóból vagy lassú járműből és pótkocsiból (félpótkocsiból) álló járműszerelvény.
+36. tehergépjármű: a tehergépkocsi, a vontató, a lassú jármű, valamint a tehergépkocsiból, vontatóból vagy lassú járműből és pótkocsiból (félpótkocsiból) álló járműszerelvény;
+
+37. úthálózat-védelem: az országos út- és hídvagyon preventív védelme és megóvása, a közúti közlekedés biztonságát veszélyeztető, a megengedett legnagyobb össztömeget vagy tengelyterhelés-korlátozást túllépő, valamint a megengedett méretet meghaladó járművek közlekedésének szabályozásával és ellenőrzésével.

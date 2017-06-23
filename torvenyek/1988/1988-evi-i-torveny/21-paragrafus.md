@@ -14,7 +14,9 @@ f) a behajtási tilalomra, a korlátozott övezetre (zóna), a kötelező halad�
 
 g) a természet védelmére,
 
-h) a díjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra
+h) a díjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra,
+
+i) a Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredménye befolyásolásának tilalmára
 
 vonatkozó – külön jogszabályban meghatározott – egyes előírások betartásra kerüljenek.
 

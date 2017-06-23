@@ -6,7 +6,7 @@ b) a feladat ellátása céljából az úthasználó személyazonosító okmány
 
 c) a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve intézkedését kérni, és annak megérkezéséig – de legfeljebb két óra időtartamra – feltartóztatni azt, aki a gépjármű okmányait nem adja át, vagy személyazonosságát nem igazolja, vagy az intézkedést más módon akadályozza,
 
-ca) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított, a 20. § (7a) bekezdésében meghatározott mértékű szabályszegés esetén az eljárásra hatáskörrel rendelkező hatóság kiérkezéséig – de legfeljebb két óra időtartamra – a járművet visszatartani,
+ca) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított, a 20. § (7a) bekezdésében meghatározott mértékű szabályszegés esetén az eljárásra hatáskörrel rendelkező hatóság kiérkezéséig a járművet – a 3,2 m szélességet, 22 m hosszúságot, 4,2 m magasságot és 70 tonna össztömeget meg nem haladó járművet legfeljebb két óra időtartamra – visszatartani,
 
 cb) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított szabályszegés esetén – ha az eljárás lefolytatására hatáskörrel rendelkező szerv intézkedésére nem került sor – a közigazgatási bírság kiszabása érdekében a bizonyítékok megküldésével együtt értesíteni az illetékes hatóságot,
 

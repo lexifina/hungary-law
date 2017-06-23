@@ -14,7 +14,7 @@ d) az ellenőrzéshez szükséges tachográfkártyák (a gépjárművezetői ká
 
 – a 20. § (11) bekezdésben és a 44. § (2) bekezdésben az ellenőrző hatóságok feladatkörét meghatározó előírások sérelme nélkül – a közlekedési hatóság feladata.
 
-(3) A tachográf kártyák kibocsátásához tartozó nyilvántartás (a továbbiakban: tachográf kártya nyilvántartás) a tachográf kártyán rögzített – tachográfokra vonatkozó uniós rendeletben meghatározott – adatokat tartalmazza.
+(3) A tachográf nyilvántartás tachográf kártyán rögzített – tachográfokra vonatkozó uniós rendeletben meghatározott – adatokat tartalmazza.
 
 (4) A tachográf kártya nyilvántartásból az Európai Közösség más tagállamának illetékes hatóságai, valamint a külön jogszabály alapján ellenőrzési feladatkörrel rendelkező magyar hatóságok a (2) bekezdésben meghatározott közösségi jogszabályok szerinti ellenőrzési feladataik teljesítéséhez igényelhetnek adatot.
 

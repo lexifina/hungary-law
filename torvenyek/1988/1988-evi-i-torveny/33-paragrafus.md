@@ -8,7 +8,13 @@ ba) országos közút vonatkozásában a miniszter döntése alapján a fenntart
 
 bb) helyi közutak tekintetében a helyi önkormányzat, vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a helyi önkormányzat 100%-os részesedéssel rendelkezik;
 
-c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magánút van; állami tulajdonban levő ingatlanon fekvő magánút esetében tulajdonosnak az ingatlan-nyilvántartásba bejegyzett kezelő (használó) tekintendő.
+c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magánút van; állami tulajdonban levő ingatlanon fekvő magánút esetében tulajdonosnak az ingatlan-nyilvántartásba bejegyzett kezelő (használó) tekintendő;
+
+d) a külön jogszabályban meghatározott országos kerékpárút-törzshálózat és a főutakkal párhuzamos kerékpárutak lakott területen kívüli szakaszai tekintetében
+
+da) a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet;
+
+db) valamint a külön jogszabályban meghatározott kerékpározás céljára használt magánutak és útnak nem minősülő egyéb útvonalak mellett található kerékpáros útbaigazító táblák vonatkozásában a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet.
 
 (2) A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és a 21. § (4) bekezdése szerint kijelölt hatóság a gépjárműről és annak hatósági jelzéséről felvételt készíthet annak érdekében, hogy a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyítani lehessen. A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet az általa készített felvételt haladéktalanul átadja a 21. § (4) bekezdése szerint kijelölt hatóságnak. A díjfizetés ellenőrzésére jogosult szervezet – amennyiben nem jogosult a pótdíjkövetelés behajtására – a felvételt köteles haladéktalanul átadni a pótdíj beszedésére jogosult szervezetnek.
 

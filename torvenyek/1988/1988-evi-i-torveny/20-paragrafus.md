@@ -42,7 +42,9 @@ l) a magyarországi illetőségű személynek vagy szervezetnek a külföldi hat
 
 m) az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra,
 
-n) a (7)–(7a) bekezdésben meghatározott, valamint a 44. § (4) bekezdés szerinti, a jármű továbbközlekedésének megtiltására irányuló, hatósági intézkedésre
+n) a (7)–(7a) bekezdésben meghatározott, valamint a 44. § (4) bekezdés szerinti, a jármű továbbközlekedésének megtiltására irányuló, hatósági intézkedésre,
+
+o) a Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredménye befolyásolásának tilalmára
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -50,7 +52,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j), l), n) és o) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k) vagy m) pontjában, illetve a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
@@ -108,7 +110,9 @@ e) az (1) bekezdés k) pontja tekintetében a rendőrség
 
 f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
 
-g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.)
+g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.),
+
+h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság és a katasztrófavédelmi hatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 
 jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is bevonható.
 
@@ -126,4 +130,4 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (16) Amennyiben az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés h) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárni.
 
-(17) Az (1) bekezdés n) pontja szerinti, a jármű továbbközlekedésének megtiltására irányuló rendelkezés megtartásának ellenőrzésére a visszatartást elrendelő hatóság jogosult.
+(17)
