@@ -1,0 +1,5 @@
+11. § A Kkt. 33/C. § (1) bekezdés c) pont ca) alpontja helyébe a következő rendelkezés lép:
+
+(A díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek a díjköteles utak használati díja megfizetésének helyszíni ellenőrzése, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése alkalmával hatósági ellenőrzés keretében eljárva jogosultak: a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve intézkedését kérni, és annak megérkezéséig – de legfeljebb két óra időtartamra – feltartóztatni azt, aki a gépjármű okmányait nem adja át, vagy személyazonosságát nem igazolja, vagy az intézkedést más módon akadályozza,)
+
+„ca) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított, a 20. § (7a) bekezdésében meghatározott mértékű szabályszegés esetén az eljárásra hatáskörrel rendelkező hatóság kiérkezéséig a járművet – a 3,2 m szélességet, 22 m hosszúságot, 4,2 m magasságot és 70 tonna össztömeget meg nem haladó járművet legfeljebb két óra időtartamra – visszatartani,”

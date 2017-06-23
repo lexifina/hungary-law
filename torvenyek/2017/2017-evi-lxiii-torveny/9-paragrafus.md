@@ -1,0 +1,3 @@
+9. § A Kkt. a következő 29/F. §-sal egészül ki:
+
+„29/F. § Az útügyi műszaki előírások kidolgozásáért felelős bizottság kidolgozza a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre vonatkozó jogszabály vagy szabvány által nem szabályozott műszaki előírásokat.”
