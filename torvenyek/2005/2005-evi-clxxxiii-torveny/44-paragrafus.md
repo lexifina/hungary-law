@@ -15,3 +15,7 @@ b) a GSM-R rendszerhálózat létesítését az a) pontban meghatározottakon k�
 (5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői, vagyonműködtetési jog ingatlan-nyilvántartásban történő bejegyzésére, törlésére, egyéb módon történő átvezetésére irányuló eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
 
 (6) A (2)–(4) bekezdésben meghatározott rendelkezéseket alkalmazni kell azon önkormányzati fejlesztésekre is, amelyek során fejlesztési közreműködő jár el.
+
+(7) Ha a pályahálózat-működtető az általa fejlesztett vasúti pályahálózaton – beleértve az annak elhelyezésére szolgáló földterületet is – és az ahhoz kapcsolódó vasúti üzemi létesítményeken építtetőként létesítési, felújítási és fejlesztési feladatokat lát el az állam nevében és az állam javára, a tevékenysége fontos közérdekű és közcélú tevékenységnek minősül.
+
+(8) A MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság – a Kínai–Magyar Vasúti Nonprofit Zrt. bonyolítóként történő bevonásával – a (7) bekezdés szerinti feladatkörében jár el a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztése, kivitelezése és finanszírozása kapcsán született Egyezmény kihirdetéséről szóló 2016. évi XXIV. törvény alapján megvalósuló beruházás megvalósítása során.

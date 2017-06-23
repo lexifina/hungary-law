@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2016-12-22 | 2016. évi CXLIV. törvény | 2005-183-00-00.45 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2005-183-00-00.46 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2005-183-00-00.47 |
+| 2017-06-23 | 2017. évi LXIII. törvény | 2005-183-00-00.48 |
