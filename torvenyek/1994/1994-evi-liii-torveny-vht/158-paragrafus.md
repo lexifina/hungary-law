@@ -20,7 +20,7 @@ d) az átvételi ajánlattétel feltételei és módja.
 
 (4) Az ingatlanra a végrehajtást kérők a vételi ajánlatok megtételére vonatkozó szabályok szerint tehetnek átvételi ajánlatot. Az átvételi ajánlatot az elektronikus árverési rendszer az átvételi ajánlat összegével, a közzététel időpontjával és az átvételi ajánlatot tevő végrehajtást kérő nevének (elnevezésének) feltüntetésével teszi közzé a licitnaplóban.
 
-(5) Az elektronikus átvételi eljárás az átvételi hirdetmény közzétételétől számított 15. napnak a végrehajtó által meghatározott 8 és 20 óra közé eső órájáig tart azzal, hogy ha az átvételi eljárás befejezését megelőző öt percen belül újabb átvételi ajánlat érkezik, az átvételi eljárás időtartama ezen ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó átvételi ajánlat megtételét követő ötödik perc végéig.
+(5) Az elektronikus átvételi eljárás az átvételi hirdetmény közzétételétől számított 15. napnak a végrehajtó által meghatározott 8 és 20 óra közé eső órájáig tart azzal, hogy ha az átvételi eljárás befejezését megelőző öt percen belül újabb átvételi ajánlat érkezik, az átvételi eljárás időtartama ezen ajánlattételtől számított öt perccel automatikusan meghosszabbodik.
 
 (6) Az ingatlan átvevője az automatikusan lezárt licitnaplóban utolsóként közzétett átvételi ajánlatot tevő végrehajtást kérő. Az átvétel jogkövetkezménye azonos az árverési vétel jogkövetkezményével.
 

@@ -20,7 +20,7 @@ b) az árverező egyedi azonosítója,
 
 c) a vételi ajánlat közzétételének időpontja.
 
-(6) Az árverés az árverési hirdetmény közzétételét követő 30. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart, azzal, hogy ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó vételi ajánlat megtételét követő ötödik perc végéig. Az árverés befejezésének időpontjában az elektronikus árverési rendszer a licitnaplót automatikusan lezárja és közzéteszi abban a lezárás időpontját, azt, hogy az árverési hirdetmény a közzétételi időtartam hány százalékában volt elérhető a felhasználók számára, és azt a kezdő és befejező időpontot, melyek között a hirdetmény nem volt elérhető a felhasználók számára.
+(6) Az árverés az árverési hirdetmény közzétételét követő 30. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart, azzal, hogy ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik. Az árverés befejezésének időpontjában az elektronikus árverési rendszer a licitnaplót automatikusan lezárja és közzéteszi abban a lezárás időpontját, azt, hogy az árverési hirdetmény a közzétételi időtartam hány százalékában volt elérhető a felhasználók számára, és azt a kezdő és befejező időpontot, melyek között a hirdetmény nem volt elérhető a felhasználók számára.
 
 (7) Ha a végrehajtás a licitnapló automatikus lezárása előtt befejeződik, vagy már nem állnak fenn az ingóság árverési értékesítésének feltételei, a végrehajtó – ennek feltüntetésével – zárja le a licitnaplót.
 

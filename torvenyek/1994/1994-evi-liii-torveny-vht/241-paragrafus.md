@@ -16,7 +16,7 @@ d) középfokú iskolai végzettséggel rendelkezik.
 
 (4) A végrehajtójelölt a végrehajtó irányítása alapján és utasításai szerint közreműködik a végrehajtási eljárásban, az ebből eredő kártérítési, illetve sérelemdíj iránti igényeket a végrehajtóval szemben kell érvényesíteni. A végrehajtójelölt végrehajtási cselekményt azonban – az (5) bekezdésben foglalt kivétellel – önállóan a végrehajtó nevében sem foganatosíthat. A végrehajtójelölt ügyviteli jellegű tevékenységet végez, így különösen jegyzőkönyvet készíthet és a végrehajtásban közreműködő szerveknél tájékozódás céljából eljárhat.
 
-(5) Végrehajtói kézbesítést a végrehajtójelölt akkor végezhet, ha a végrehajtó-jelölti kézbesítési vizsgát letette.
+(5) Helyszíni eljárási cselekményt a végrehajtójelölt akkor végezhet, ha a végrehajtói szakvizsgát letette. Végrehajtói kézbesítést a végrehajtójelölt akkor végezhet, ha a végrehajtó-jelölti kézbesítési vizsgát letette.
 
 (6) A Kar hivatali szerve törli a végrehajtójelöltet a végrehajtójelöltek névjegyzékéből, ha
 

@@ -5,3 +5,5 @@
 (2) Ha a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 8 napon belül igénypert indítottak, az igényelt ingatlan értékesítése iránt az igényper jogerős befejezése után lehet intézkedni.
 
 (3) A végrehajtó az ingatlan árveréséről szóló hirdetményt a becsérték megállapításától, végrehajtási kifogás előterjesztése esetén a becsérték tárgyában hozott jogerős bírósági határozat kézhezvételétől számított 30 napon belül köteles közzétenni az elektronikus árverési hirdetmények nyilvántartásában.
+
+(4) Ha az ingatlan a közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendeletben meghatározott közfoglalkoztatási programban használt ingatlan, becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.
