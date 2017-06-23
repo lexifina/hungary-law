@@ -4,7 +4,7 @@
 
 (3) A sorsolás során a 9/C. § (3) bekezdését kell alkalmazni azzal az eltéréssel, hogy a sorsolás ellen az ingatlanügyi hatóságnál kifogás nyújtható be.
 
-(4) Az önálló földrészlet kialakítására a 9/C. § (6) bekezdését kell alkalmazni.
+(4) Az önálló földrészlet kialakítására – a visszamaradó földrészletet és a kialakuló ingatlanok megközelíthetőségét biztosító utak és más művelés alól kivett földrészletek kivételével – a 9/C. § (6) bekezdését kell alkalmazni.
 
 (5) A földrészlet megosztást követően az egyes tulajdoni hányadokra vonatkozó, illetve azokat terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények – a keletkező önálló földrészletekre történő – visszajegyzéséről az ingatlanügyi hatóság gondoskodik.
 
