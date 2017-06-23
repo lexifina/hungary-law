@@ -8,13 +8,13 @@ c) 10. § (2) bekezdés a) pontjában a „módosítását” szövegrész hely�
 
 d) 13. § (1) bekezdésében a „kezelt vagyonra vonatkozó adatok felkutathatósága és a bizalmi vagyonkezelők feletti ellenőrzés ellátása” szövegrész helyébe a „bizalmi vagyonkezelési tevékenység végzéséhez szükséges feltételek teljesülésének vizsgálata” szöveg,
 
-e) 13. § (2) bekezdésében és 15. § a) pontjában a „jogerőre emelkedett” szövegrész helyébe a „véglegessé vált” szöveg,
+e)
 
-f) 13. § (3) bekezdés b)–c) pontjában a „jogerőre emelkedésének” szövegrészek helyébe a „véglegessé válásának” szöveg,
+f)
 
 g) 15. § b) pontjában a „megszűnt” szövegrész helyébe a „jogutód nélkül megszűnt” szöveg,
 
-h) 18. §-ában az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.)” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.)” szöveg,
+h)
 
 i) 11. alcímének címében a „bejelentése” szövegrész helyébe az „, és annak bejelentése” szöveg,
 
@@ -22,9 +22,9 @@ j) 20. § (2) bekezdésében a „látja el” szövegrész helyébe a „látja
 
 k) 21. § (1) bekezdésében a „csatolta” szövegrész helyébe az „a bizalmi vagyonkezelő csatolta” szöveg,
 
-l) 30. §-ában az „a Ket.” szövegrész helyébe az „az Ákr.” szöveg,
+l)
 
-m) 31. § (1) bekezdésében az „a Ket.” szövegrész helyébe az „az Ákr.” szöveg,
+m)
 
 n) 46. § (1) bekezdésében a „rendelkezéseit” szövegrész helyébe az „, ügyvédi iroda felszámolására a Cstv. rendelkezéseit” szöveg
 

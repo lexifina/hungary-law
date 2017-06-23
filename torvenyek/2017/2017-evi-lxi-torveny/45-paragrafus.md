@@ -12,7 +12,7 @@ e) 21. § (1) bekezdésében az „a bejelentett szerződés érvényesen létre
 
 f) 24. § (1a) bekezdése,
 
-g) 28. §-ában az „a Ket. szerinti” szöveg,
+g)
 
 h) 19–21. alcíme,
 
