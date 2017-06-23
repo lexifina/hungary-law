@@ -8,6 +8,8 @@ a) a meglévő létesítmény bővítését, közlekedési és közmű kapcsolat
 
 b) a bányaüzemet és a természeti kincsek kitermeléséhez szükséges egyéb létesítményt;
 
-c) azt a területet, amelyet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánított.
+c) azt a területet, amelyet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánított;
+
+d) kiserőmű létesítését a betáplálásra alkalmas villamosenergia-elosztói hálózat 1000 méteres közvetlen környezetében.
 
 (4) Az igénybevételt az indokolt szükségletnek megfelelő legkisebb területre kell korlátozni.

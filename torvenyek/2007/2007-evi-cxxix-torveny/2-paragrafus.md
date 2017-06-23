@@ -44,4 +44,6 @@
 
 20. termőföld eredeti állapotának helyreállítása: az időlegesen, illetve az engedély nélkül más célra hasznosított termőföldnek a más célú hasznosítását közvetlenül megelőző, az ingatlan-nyilvántartásban rögzített művelési ágnak és minőségi osztálynak megfelelő állapotába történő helyreállítása;
 
-21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet.
+21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
+
+22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 4. § (1) bekezdésében meghatározott 0,5 MW-nál kisebb névleges teljesítőképességű villamos energiát termelő erőmű, kivéve a szélerőmű és a szélerőmű park.
