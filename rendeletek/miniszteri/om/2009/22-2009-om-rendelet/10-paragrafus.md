@@ -2,6 +2,6 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^16]
+(2)[^35]
 
-[^16]: A 10. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^35]: A 10. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

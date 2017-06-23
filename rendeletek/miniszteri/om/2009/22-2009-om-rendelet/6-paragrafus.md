@@ -1,16 +1,16 @@
-6. § (1)[^11] A tanúsítvány csak akkor adható ki, ha a termék, vagy a technológiai rendszer megfelel a termékre, vagy technológiai rendszerre vonatkozó tűzvédelmi biztonságossági követelmény előírásainak.
+6. § (1)[^27] A tanúsítvány csak akkor adható ki, ha a termék megfelel a termékre vonatkozó tűzvédelmi, biztonságossági követelmények előírásainak.
 
 (2) A tanúsítvány a kiállítása napjától számított öt évig érvényes.
 
-(3)[^12] A tanúsítvány érvényét veszti, ha a termék a vizsgálati mintadarabtól, illetve a termék, vagy a technológiai rendszer a vizsgálati dokumentációtól eltér.
+(3)[^28] Ha piacfelügyeleti hatóság vagy kijelölt tanúsító szervezet megállapítja, hogy a termék a vizsgálati mintadarabtól vagy a vizsgálati dokumentációtól eltér, a tanúsítvány érvényét veszti.
 
 (4) A tanúsítvány visszavonható, ha a műszaki fejlődés során olyan új adatok, tények válnak ismertté, amelyek konstrukciós változtatást, illetve a gyártás, forgalmazás, alkalmazás megszüntetését indokolttá teszik.
 
-(5)[^13] A tanúsító szervezet köteles közölni a megrendelővel a tanúsítvány kiállításának, megtagadásának vagy visszavonásának indokát.
+(5)[^29] A tanúsító szervezet köteles közölni a megrendelővel a tanúsítvány kiállításának, megtagadásának vagy visszavonásának indokát.
 
-(6)[^14] Ha a tanúsító szervezet a tanúsítvány érvénytelenséget megállapítja, erről köteles tájékoztatni a hivatásos katasztrófavédelmi szerv központi szervét.
+(6)[^30] Ha a tanúsító szervezet a tanúsítvány érvénytelenséget megállapítja, erről köteles tájékoztatni a hivatásos katasztrófavédelmi szerv központi szervét.
 
-[^11]: A 6. § (1) bekezdése az 51/2012. (X. 11.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^12]: A 6. § (3) bekezdése az 51/2012. (X. 11.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^13]: A 6. § (5) bekezdése az 51/2012. (X. 11.) BM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^14]: A 6. § (6) bekezdése az 51/2012. (X. 11.) BM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^27]: A 6. § (1) bekezdése a 13/2017. (VI. 8.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^28]: A 6. § (3) bekezdése a 13/2017. (VI. 8.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^29]: A 6. § (5) bekezdése az 51/2012. (X. 11.) BM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^30]: A 6. § (6) bekezdése az 51/2012. (X. 11.) BM rendelet 6. § (3) bekezdése szerint módosított szöveg.
