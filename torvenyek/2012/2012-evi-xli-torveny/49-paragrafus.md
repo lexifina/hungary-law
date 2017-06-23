@@ -28,7 +28,7 @@ j) a törvény 5. § (1) bekezdés e) pontjában, a 7. § (2)–(4) bekezdéséb
 
 k)
 
-k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat
+k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és az autóbuszos hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

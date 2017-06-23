@@ -18,7 +18,7 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 5. ellátásért felelős: a 4. § (3)–(4) bekezdésében meghatározott, 1370/2007/EK rendelet 2. cikk b) pontja szerinti illetékes hatóság;
 
-6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 70 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
+6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
 
 6a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
