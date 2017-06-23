@@ -1,3 +1,1 @@
-33. § (1) A hivatal az ellenőrzés ellátásához szükséges adatok közlése érdekében nyilatkozattételre hívhatja fel a bizalmi vagyonkezelő vállalkozást, a bizalmi vagyonkezelő vállalkozás kiszervezés keretében szerződő partnerét, a nem üzletszerűen eljáró bizalmi vagyonkezelőt, a vele szerződést kötő vagyonrendelőt vagy az e szerződésben meghatározott kedvezményezettet a Ket. ügyféli nyilatkozattételre vonatkozó szabályai szerint.
-
-(2) A hivatal által nyilatkozattételre felhívott személy köteles nyilatkozatot tenni.
+33. § A hivatal indokolt esetben a 32. § (1) bekezdése szerinti tartalmú, illetve a hivatal által meghatározott egyéb, a vizsgálat ellátásához szükséges adatokat tartalmazó rendkívüli adatszolgáltatásra kötelezheti a bizalmi vagyonkezelő vállalkozást.

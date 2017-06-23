@@ -1,6 +1,6 @@
 ## 8. A bizalmi vagyonkezelő vállalkozások nyilvántartása
 
-13. § (1) A hivatal a bizalmi vagyonkezelő vállalkozások ügyfeleinek és leendő ügyfeleinek tájékoztatása, a kezelt vagyonra vonatkozó adatok felkutathatósága és a bizalmi vagyonkezelők feletti ellenőrzés ellátása céljából nyilvántartást vezet a bizalmi vagyonkezelő vállalkozásokról.
+13. § (1) A hivatal a bizalmi vagyonkezelő vállalkozások ügyfeleinek és leendő ügyfeleinek tájékoztatása, a bizalmi vagyonkezelési tevékenység végzéséhez szükséges feltételek teljesülésének vizsgálata céljából nyilvántartást vezet a bizalmi vagyonkezelő vállalkozásokról.
 
 (2) Ha az engedély kiadásáról szóló határozat jogerőre emelkedett, a hivatal a bizalmi vagyonkezelő vállalkozás (3) bekezdésben foglalt adatait bejegyzi a bizalmi vagyonkezelő vállalkozások nyilvántartásába.
 
@@ -8,15 +8,15 @@
 
 a) a bizalmi vagyonkezelő vállalkozás
 
-aa) cégnevét,
+aa) elnevezését,
 
-ab) székhelyének címét,
+ab) székhelyét,
 
-ac) telefon-, telefaxszámát, elektronikus levélcímét, honlapjának címét,
+ac) telefonszámát, elektronikus levélcímét, honlapjának címét,
 
 ad) ügyintézésre szolgáló helyiségének címét, ahol tevékenységet folytat,
 
-ae) cégjegyzékszámát,
+ae) cégjegyzékszámát vagy ügyvédi kamarai nyilvántartási számát,
 
 af) nyilvántartási számát,
 
@@ -24,7 +24,7 @@ b) a bizalmi vagyonkezelő vállalkozás tevékenység-végzési engedélyét ki
 
 c) az engedély visszavonását elrendelő határozat jogerőre emelkedésének a napját,
 
-d) az alkalmazott ellenőrzési intézkedések okát, típusát és alkalmazását elrendelő határozat jogerőre emelkedésének napját.
+d) a nyilvántartásba vétel feltételeinek vizsgálatával összefüggő – 31. § (1) bekezdése szerinti – körülményeket.
 
 (4) A (3) bekezdésben foglalt adatok – a d) pontjában foglalt adatok kivételével – nyilvánosak.
 

@@ -2,4 +2,4 @@
 
 a) az engedély visszavonásáról szóló határozat jogerőre emelkedett, vagy
 
-b) a bizalmi vagyonkezelő vállalkozás megszűnt.
+b) a bizalmi vagyonkezelő vállalkozás jogutód nélkül megszűnt.

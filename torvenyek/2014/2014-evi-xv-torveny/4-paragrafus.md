@@ -24,10 +24,12 @@ f) akinek jó üzleti hírnevéhez nem fér kétség.
 
 (3) A jó üzleti hírnevet a kérelmezőnek, illetve annak kell bizonyítania, akinek érdekében áll, hogy azt a hivatal elfogadja. A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban a hivatal egyéb, általa meghatározott iratok (okmányok) benyújtását írhatja elő. A hivatal a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 
-(4) A jó üzleti hírnév bizonyításának sikertelenségét a hivatalnak határozattal kell megállapítania. Jó üzleti hírnevéhez nem fér kétség annak,
+(3a) A jó üzleti hírnév fennállásának megállapítása érdekében a hivatal megkeresésére az állami adó- és vámhatóság a kérelmezőre, annak tagjára, valamint vezető állású személyére vonatkozóan a jó üzleti hírnevet befolyásoló, az állami adó- és vámhatóság rendelkezésére álló információ átadása érdekében adatot szolgáltat. A hivatal az adatokat az eljárás jogerős lezárásáig kezelheti.
 
-a) aki mentes a bizalmi vagyonkezelő vállalkozás óvatos, körültekintő és megbízható működését veszélyeztető befolyástól, jó üzleti hírnévvel rendelkezik, valamint biztosítani képes a bizalmi vagyonkezelő vállalkozás megbízható, gondos irányítását, ellenőrzését, illetve működését,
+(4) A jó üzleti hírnév bizonyításának sikertelenségét a hivatalnak határozattal kell megállapítania. Jó üzleti hírnévvel rendelkezik az,
 
-b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható és ezáltal nem zárja ki a bizalmi vagyonkezelő feletti hatékony ellenőrzés gyakorlását.
+a) aki mentes a bizalmi vagyonkezelő vállalkozás óvatos, körültekintő és megbízható működését veszélyeztető befolyástól, valamint biztosítani képes a bizalmi vagyonkezelő vállalkozás megbízható, gondos irányítását, ellenőrzését, illetve működését,
+
+b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható.
 
 (5) A bizalmi vagyonkezelő vállalkozás köteles legalább egy fő mesterképzésben szerzett közgazdász szakképzettséggel rendelkező közgazdászt, egy fő jogi szakvizsgát tett jogászt – teljes napi munkaidőben – munkaviszonyban foglalkoztatni, továbbá egy fő független könyvvizsgálót megbízási jogviszonyban foglalkoztatni.

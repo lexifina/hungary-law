@@ -22,10 +22,12 @@ bd) születési helyét és idejét, és
 
 c) szerződéses jogállását.
 
-(2) A bejelentőnek a bejelentésben – legalább a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratban – nyilatkoznia kell arról, hogy a bizalmi vagyonkezelői tevékenységét nem üzletszerűen látja el.
+(2) A bejelentőnek a bejelentésben – legalább a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratban – nyilatkoznia kell arról, hogy a bizalmi vagyonkezelői tevékenységét nem üzletszerűen látja el, és megfelel a 18/A. §-ban foglalt feltételeknek.
 
 (3) A bejelentéshez mellékelni kell
 
 a) a létrejött (módosult, megszűnt) bizalmi vagyonkezelési szerződést tartalmazó okiratot,
 
-b) a bejelentés megtételéért teljesítendő igazgatási szolgáltatási díj megfizetésének igazolását.
+b) a bejelentés megtételéért teljesítendő igazgatási szolgáltatási díj megfizetésének igazolását,
+
+c) a pénzmosásról és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvények szerinti szabályzatának elfogadásáról tett nyilatkozatot.

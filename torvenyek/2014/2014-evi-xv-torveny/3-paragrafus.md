@@ -4,18 +4,30 @@
 
 ## 3. A bizalmi vagyonkezelő vállalkozás működésének szervezeti feltételei
 
-3. § (1) Bizalmi vagyonkezelési tevékenységet rendszeresen (legalább évente kétszeri bizalmi vagyonkezelési szerződéskötéssel), vagy a kezelt vagyon szerződéskötéskor fennálló értékének egy százalékát meghaladó mértékű vagyonkezelési díj vagy más gazdasági előny megszerzése érdekében (a továbbiakban együtt: üzletszerűen) a hivatal által a tevékenység megkezdése előtt kibocsátott engedéllyel (a továbbiakban: engedély) rendelkező, a nemzeti vagyonról szóló törvényben meghatározott átlátható szervezetnek minősülő,
+3. § (1) Üzletszerű bizalmi vagyonkezelési tevékenységet végez az a bizalmi vagyonkezelő, aki legalább két bizalmi vagyonkezelési jogviszony alapján végzi tevékenységét. Üzletszerű bizalmi vagyonkezelési tevékenység a hivatal által kibocsátott engedély (a továbbiakban: engedély) birtokában végezhető.
 
-a) Magyarország területén székhellyel rendelkező korlátolt felelősségű társaság vagy zártkörűen működő részvénytársaság, vagy
+(2) Üzletszerű bizalmi vagyonkezelési tevékenységet
 
-b) az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás Magyarországon nyilvántartásba vett fióktelepe
+a) Magyarország területén székhellyel rendelkező korlátolt felelősségű társaság vagy zártkörűen működő részvénytársaság,
 
-végezhet (a továbbiakban: bizalmi vagyonkezelő vállalkozás).
+b) az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás Magyarországon nyilvántartásba vett fióktelepe (a továbbiakban: fióktelep), valamint
 
-(2) A bizalmi vagyonkezelő vállalkozás főtevékenységként csak bizalmi vagyonkezelést végezhet, melléktevékenységként pedig a bizalmi vagyonkezelési kötelezettség teljesítéséhez szükséges, azzal közvetlenül összefüggő tevékenységet végezhet.
+c) ügyvédi iroda
 
-(3) Bizalmi vagyonkezelői tevékenység az e törvényben meghatározott feltételek teljesítése esetén kezdhető meg és folytatható.
+(a továbbiakban együtt: bizalmi vagyonkezelő vállalkozás) végezhet.
 
-(4) A bizalmi vagyonkezelő vállalkozás köteles cégnevének vezérszavában e minőségét magyar nyelven szerepeltetni.
+(3) A bizalmi vagyonkezelő vállalkozás
 
-(5) A bizalmi vagyonkezelő vállalkozás Magyarországon jogosult tevékenysége elsődleges folytatására, tevékenysége gyakorlása elsődleges helyét más államba nem helyezheti át.
+a) megfelel a nemzeti vagyonról szóló törvényben meghatározott átlátható szervezetre vonatkozó előírásoknak,
+
+b) jó üzleti hírnévvel rendelkezik,
+
+c) – ide nem értve az ügyvédi irodát – főtevékenységként csak bizalmi vagyonkezelést, melléktevékenységként pedig a bizalmi vagyonkezelési kötelezettség teljesítéséhez szükséges, azzal közvetlenül összefüggő tevékenységet végez,
+
+d) – ide nem értve az ügyvédi irodát – köteles cégnevének vezérszavában e minőségét magyar nyelven szerepeltetni,
+
+e) szerepel a köztartozásmentes adózói adatbázisban, vagy az állami adóhatóságnál tartozása nem áll fenn, valamint
+
+f) nem lehet olyan vállalkozás, amelynek felügyeleti szerve – az engedély kiadása iránti kérelem benyújtását megelőző tíz éven belül – tevékenység-végzési engedélyét hivatalból visszavonta.
+
+(4) A bizalmi vagyonkezelő vállalkozás tagja (tulajdonosa) nem folytathat üzletszerű és nem üzletszerű bizalmi vagyonkezelési tevékenységet.

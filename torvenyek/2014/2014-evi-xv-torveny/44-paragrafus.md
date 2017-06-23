@@ -2,7 +2,7 @@
 
 44. § (1) A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési kötelezettsége hatékonyabb teljesítése érdekében vehet igénybe harmadik személyt (a továbbiakban: kiszervezés).
 
-(2) Kiszervezésre irányuló szerződés megkötése kötelező olyan szolgáltatás esetében, amelynek nyújtásához a bizalmi vagyonkezelő vállalkozás nem rendelkezik megfelelő szakértelemmel vagy képességgel, illetve a szükséges engedéllyel.
+(2)
 
 (3) Kiszervezésre irányuló szerződés csak olyan jogalannyal köthető, amelynek érdekei nem ellentétesek a bizalmi vagyonkezelő vállalkozás vagy az ügyfelek érdekeivel, aki engedélyköteles tevékenység végzésére engedéllyel rendelkezik és aki a szerződésben a bizalmi vagyonkezelő vállalkozásra vonatkozó szabályok szerinti titoktartási kötelezettséget vállal.
 
@@ -18,4 +18,4 @@ ca) utasítási és ellenőrzési jogának gyakorlását a kiszervezett tevéken
 
 cb) kiszervezésre irányuló szerződés azonnali felmondására irányuló jogát a kiszervezésre irányuló szerződésben foglaltak megsértése esetén.
 
-(5) Akkor nem minősül az (1) bekezdés szerinti kiszervezésnek a bizalmi vagyonkezelő vállalkozás által igénybevett jogi tanácsadás, adószakértői, adótanácsadói tevékenység, kézbesítés, számítástechnikai rendszerfejlesztés, számítástechnikai üzemeltetés és karbantartás, az alkalmazottak képzése és továbbképzése, a számlázás, bérszámfejtés, könyvelés, a bizalmi vagyonkezelő helyiségei és alkalmazottai biztonságának megteremtését célzó tevékenység harmadik személy igénybevételével történő végzése, továbbá a bizalmi vagyonkezelő vállalkozás részére munkaviszony, vagy munkavégzésre irányuló egyéb jogviszony keretében végzett tevékenység, ha a bizalmi vagyonkezelő vállalkozás kétséget kizáróan bizonyítja, hogy annak költsége az 1. mellékletben meghatározott teljes árba nem tartozhat bele.
+(5) Akkor nem minősül az (1) bekezdés szerinti kiszervezésnek a bizalmi vagyonkezelő vállalkozás által igénybevett jogi tanácsadás, adószakértői, adótanácsadói tevékenység, kézbesítés, számítástechnikai rendszerfejlesztés, számítástechnikai üzemeltetés és karbantartás, az alkalmazottak képzése és továbbképzése, a számlázás, bérszámfejtés, könyvelés, a bizalmi vagyonkezelő helyiségei és alkalmazottai biztonságának megteremtését célzó tevékenység harmadik személy igénybevételével történő végzése, továbbá a bizalmi vagyonkezelő vállalkozás részére munkaviszony, vagy munkavégzésre irányuló egyéb jogviszony keretében végzett tevékenység, ha a bizalmi vagyonkezelő vállalkozás kétséget kizáróan bizonyítja, hogy annak költsége nem tartozik bele a bizalmi vagyonkezelési szerződés megkötésével, teljesítésével kapcsolatosan az ügyfél által a bizalmi vagyonkezelő vállalkozás vagy harmadik személy részére teljesítendő bármilyen díjba vagy költségbe.

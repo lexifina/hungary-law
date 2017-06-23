@@ -4,13 +4,13 @@
 
 a) létesítő okiratát,
 
-b) cégjegyzékszámát,
+b) cégjegyzékszámát vagy ügyvédi kamarai nyilvántartási számát,
 
 c) adószámát,
 
 d) szervezeti és működési szabályzatát,
 
-e) számviteli beszámolóját,
+e) számviteli törvény szerinti beszámolóját,
 
 f) közvetett és közvetlen tulajdonosainak névsorát, jogi személy esetén cégjegyzékszámát, székhelyét, és
 

@@ -18,6 +18,6 @@ b) azon kezelt vagyonba tartozó vagyontárgyak vonatkozásában, amelyek rendel
 
 c) ha egyéb olyan körülmény áll fenn, amely alapján a jognyilatkozatok megtétele nyilvánvalóan ellentétben állna az okszerű gazdálkodás követelményével.
 
-(3) A lakossági ügyfélnek minősülő vagyonrendelő vagyonkezelési szerződést létrehozó jognyilatkozatát vita esetén úgy kell értelmezni, hogy abban kizárta a bizalmi vagyonkezelő vállalkozás jogát a kezelt vagyonba tartozó, Ptk.-ban meghatározott vagyontárgy elidegenítésére, megterhelésére, függetlenül az adott kezelt vagyonba tartozó vagyontárgy természeténél fogva hasznot hajtó képességétől.
+(3)
 
-(4) A bizalmi vagyonkezelő vállalkozás hasznosítási kötelezettségét a leendő lakossági ügyféllel kötött bizalmi vagyonkezelési szerződésben érvényesen akkor zárhatja ki, térhet el attól, illetve módosíthatja annak joghatásait, ha ennek az ügyfélre, illetve a kezelt vagyonra gyakorolt joghatásáról tájékoztatást ad, és az ügyfél azt a szerződésben kifejezetten elfogadja.
+(4)

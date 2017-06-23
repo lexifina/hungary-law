@@ -20,6 +20,8 @@ f) az a)–e) pontban foglalt személyek Ptk.-ban meghatározott hozzátartozój
 
 a) a vezető tisztségviselő és a felügyelő bizottság tagja,
 
-b) a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy és annak közvetlen helyettese, és
+b) a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy annak közvetlen helyettese,
 
-c) akit a létesítő okirat vagy a működésre vonatkozó belső szabályzat ilyenként határoz meg.
+c) ügyvédi iroda esetén az irodavezető, illetve a szervezeti képviseletet ellátó személy, valamint
+
+d) akit a létesítő okirat vagy a működésre vonatkozó belső szabályzat ilyenként határoz meg.

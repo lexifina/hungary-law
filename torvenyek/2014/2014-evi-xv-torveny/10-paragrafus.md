@@ -2,7 +2,7 @@
 
 (2) A kérelemhez mellékelni kell
 
-a) a kérelmező létesítő okiratát és annak valamennyi módosítását,
+a) a kérelmező létesítő okiratát és annak valamennyi módosítását, vagy egységes szerkezetbe foglalt létesítő okiratát,
 
 b) a kérelmező
 
@@ -28,9 +28,9 @@ h) az olyan gazdasági társaság megnevezését, cégjegyzékszámát, székhel
 
 i) a kérelmező számviteli politikájának és számviteli rendjének leírását,
 
-j) a kérelmező üzleti tervét,
+j) a pénzmosásról és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvények szerinti szabályzatának elfogadásáról tett nyilatkozatot,
 
-k) pénz- és értékkezelési szabályzatot és egyéb belső szabályzatot,
+k) a kérelmező pénz- és értékkezelési szabályzatát,
 
 l) szakértő igazolását arra vonatkozóan, hogy a bizalmi vagyonkezelő vállalkozás informatikai rendszere alkalmas a tárgyi feltételek között előírt eredmények elérésére,
 
@@ -40,13 +40,13 @@ ma) hiányában a kérelmező vezető állású személye erre vonatkozó nyilat
 
 mb) fennállása esetén a kérelmező vezető állású személye erre vonatkozó nyilatkozatát, és az ügyfelek arra vonatkozóan adott felmentését tartalmazó okiratot,
 
-n) az állami adóhatóság igazolását arról, hogy a kérelmező köztartozásmentes adózói minőséggel rendelkezik, amennyiben nem szerepel a köztartozásmentes adózói adatbázisban,
+n) ügyvédi iroda esetén az ügyvédi irodák nyilvántartásába való felvételről szóló igazolást,
 
-o) a kérelmező székhelye és a helyi adókról szóló törvény szerinti telephelye szerinti önkormányzati adóhatóság által a részére kiállított 30 napnál nem régebbi nemleges adóigazolást,
+o)
 
-p) a Magyar Bírósági Végrehajtói Kar által kiállított tanúsítványt arról, hogy a kérelmező a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel,
+p)
 
-q) a kérelmező vezető állású személyének, természetes személy tagjának, munkavállalójának bővített tartalmú (a foglalkozástól, a közügyektől való eltiltást is tartalmazó) hatósági erkölcsi bizonyítványát,
+q) a kérelmező vezető állású személyének, természetes személy tagjának, munkavállalójának hatósági erkölcsi bizonyítványát annak igazolására, hogy velük szemben a 4. § (1) bekezdés a) pontja, illetve b) pontja szerinti kizáró okok nem állnak fenn,
 
 r) legalább egy fő mesterképzésben szerzett közgazdász szakképzettséggel rendelkező közgazdásszal, egy fő jogi szakvizsgát tett jogásszal kötött munkaszerződést és egy fő okleveles könyvvizsgáló foglalkoztatására kötött szerződést,
 
