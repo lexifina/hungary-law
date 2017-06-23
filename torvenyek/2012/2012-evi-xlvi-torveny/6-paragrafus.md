@@ -8,7 +8,7 @@
 
 a) a 3. § (1) bekezdésében foglalt adatbázisokból – ide nem értve az i) pontban foglalt adatbázist – történő hitelesített adatok szolgáltatásáért,
 
-b) a változási vázrajzok záradékolásáért,
+b) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatára és záradékolására irányuló eljárásért,
 
 c) az ingatlanrendező földmérő minősítési eljárásáért,
 
@@ -16,9 +16,9 @@ d) a földmérő igazolvány kiadásáért,
 
 e) a levegőből végzett távérzékelés engedélyezéséért és a távérzékelt adatok minősítési célú vizsgálatáért,
 
-f) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatáért és záradékolásáért, valamint a változások térképi adatbázisban történő soron kívüli átvezetéséért,
+f) a b) pont szerinti eljárás soron kívüli lefolytatásáért,
 
-g) az alaphálózati pontok pótlásának vagy áthelyezésének állami átvételéért,
+g) az alapponthálózati pontok pótlásának vagy áthelyezésének állami átvételéért,
 
 h) a geodéziai tervezői, valamint a geodéziai szakértői minősítési eljárásért,
 
@@ -87,3 +87,7 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 (19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.
 
 (20) A területrendezésért felelős miniszter, a megyei önkormányzat, valamint a települési önkormányzat a területrendezési, valamint a településrendezési feladatainak ellátásához (a területrendezési tervek, valamint a településrendezési eszközök készítéséhez szükséges adatokhoz) díj-, költség- és térítésmentesen hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
+
+(21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a Magyar Honvédségnek a honvédelemért felelős miniszter által rendeletben kijelölt szervezetei és a Katonai Nemzetbiztonsági Szolgálat részére, a jogszabályban meghatározott feladataik végrehajtásához, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltat adatot.
+
+(22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.

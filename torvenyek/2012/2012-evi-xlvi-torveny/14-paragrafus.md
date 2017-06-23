@@ -13,3 +13,9 @@
 (7) Jogerős bírósági határozattal megállapított határvonalat az állami ingatlan-nyilvántartási térképi adatbázisban a határozatnak megfelelően kell feltüntetni.
 
 (8) Analóg térkép digitalizálásával előállított állami ingatlan-nyilvántartási térképi adatbázis alapján végzett földrészlethatár-kitűzés esetében az adatbázis tartalmát – a természetbeni állapottal összhangban és az érdekelt felekkel egyetértésben – a földmérésre vonatkozó tűrési határon belül az ingatlanügyi hatóság a kitűzési dokumentáció alapján határozattal módosíthatja. A területi adatok esetleges változását záradékolt változási vázrajzzal kell dokumentálni.
+
+(9) Az állami ingatlan-nyilvántartási térképi adatbázis topológiai összhangjának megteremtése alkalmával a településhatár megállapításánál nem a területszervezési eljárásnak Magyarország helyi önkormányzatairól szóló törvényben meghatározott szabályai szerint kell eljárni abban az esetben, ha:
+
+a) a településhatár természetes határvonal (folyó, patak, vízmosás, határút), amely a természeti folyamatok (erózió) miatt megváltozott;
+
+b) a szomszédos települések közötti határ a különböző felmérési technológiák miatt eltérően lett megállapítva.

@@ -2,7 +2,9 @@
 
 ## A FÖLDMÉRÉSI ÉS TÉRKÉPÉSZETI TEVÉKENYSÉG VÉGZÉSE
 
-28. § (1) A földmérési és térképészeti munka végzése az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szakképzettséghez kötött tevékenység. A földmérési és térképészeti jogosultságot a jogosult részére a miniszter rendelete alapján a földmérési és térinformatikai államigazgatási szerv által kiállított földmérő igazolvány és megbízólevél vagy a honvédelmi célú földmérési és térképészeti tevékenység végzésére jogosító „Parancs” tanúsítja.
+28. § (1) A földmérési és térképészeti munka végzése az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szakképzettséghez kötött tevékenység. A földmérési és térképészeti jogosultságot a jogosult részére a miniszter rendelete alapján a földmérési és térinformatikai államigazgatási szerv által kiállított földmérő igazolvány, valamint a megrendelő által aláírt megbízólevél vagy a honvédelmi célú földmérési és térképészeti tevékenység végzésére jogosító „Parancs” tanúsítja.
+
+(1a) Az (1) bekezdés szerinti földmérő igazolvány kibocsátásáig ideiglenes igazolvány adható. Az ideiglenes földmérő igazolvány 60 napig vagy a földmérő igazolvány kibocsátásáig érvényes. A földmérő igazolvány kiadásáig az ideiglenes igazolvány ismételten kiadható. Az ideiglenes földmérő igazolvány kiállítására az (1) bekezdésben megjelölt szerv jogosult.
 
 (2) A földmérési és térképészeti munkákat a vonatkozó jogszabályok szerint előírt minőségben kell elkészíteni. Állami alapadatok előállítása során a készítő, illetve jogutódja a – mintavételes eljárással elvégzett vizsgálat során fel nem tárt – rejtett hibákért az állami átvételt követő tíz évig kijavítási kötelezettséggel tartozik.
 
@@ -10,15 +12,17 @@
 
 a) a 17. § szerinti eljárásban az ingatlanügyi hatóság,
 
-b) a perben kirendelt igazságügyi szakértő, vagy
+b) a bíróság által kirendelt, illetve a perrel kapcsolatban a peres fél vagy felek által megbízott igazságügyi szakértő,
 
-c) a per során bírósági elrendelés alapján eljáró, ingatlanrendező földmérő minősítéssel rendelkező földmérő
+c) a per során bírósági elrendelés alapján eljáró, ingatlanrendező földmérő minősítéssel rendelkező földmérő, vagy
+
+d) – tulajdonjoggal kapcsolatos perfeljegyzés vagy jogorvoslati kérelem esetében – kisajátítás érdekében földmérő vagy igazságügyi szakértő
 
 végzi.
 
 (3) Az állami ingatlan-nyilvántartási térképi adatbázisban változást eredményező földmérési és térképészeti munka minőségét ingatlanrendező földmérő minősítéssel rendelkező földmérő tanúsítja.
 
-(4) Az alábbi földmérési tevékenységek végzéséhez ingatlanrendező földmérői minősítés szükséges:
+(4) Az alábbi földmérési tevékenységek végzéséhez ingatlanrendező földmérő minősítés szükséges:
 
 a) az állami földmérési térképi adatbázis készítésének, az állami átvételi vizsgálati eljárás irányítása, továbbá az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást eredményező földmérési munka irányítása és minőségének tanúsítása,
 
@@ -33,6 +37,8 @@ e) az e törvény felhatalmazása alapján kiadott rendeletben meghatározott f�
 (5) A 23. § (1)–(3) bekezdésében meghatározott földmérési és térképészeti tevékenységek végzését az e törvényben meghatározottakon túl törvény vagy kormányrendelet további feltételhez is kötheti.
 
 (6) Az ingatlanrendező földmérő minősítéssel kapcsolatos eljárásban a miniszter által létrehozott Ingatlanrendező Minősítő Bizottság (a továbbiakban: bizottság) szakértőként jár el. A minősítés megadásáról a bizottság szakértői véleménye alapján a földmérési és térinformatikai államigazgatási szerv a bizottság véleményével megegyezően, hatósági jogkörében eljárva dönt.
+
+(6a) A bizottság a szakértői véleményt minden év március 1. és 31. napja, valamint október 1. és 31. napja között egy-egy alkalommal tartott szakmai minősítő vizsga alapján adja ki.
 
 (7) Ingatlanrendező földmérő minősítést az kaphat, aki
 

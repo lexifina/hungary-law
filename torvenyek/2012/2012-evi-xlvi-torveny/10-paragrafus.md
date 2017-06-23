@@ -1,4 +1,4 @@
-## 9. Alapponthálózati pontok adatbázisa
+## 9. Alapponthálózati pontok adatbázisai
 
 10. § (1) földmérési és térképészeti tevékenység egységes alapjául az ország teljes területére kiterjedően alapponthálózatokat kell létesíteni és fenntartani.
 
@@ -24,7 +24,7 @@ h) az Integrált Geodéziai Alapponthálózat (INGA) pontjai,
 
 i) a katonai tájékozási hálózat pontjai (OP-k)
 
-amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
+amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4) A (3) bekezdés f)–i) pontjában meghatározott hálózatok a (3) bekezdés a)–b) pontjában meghatározott alapponthálózatokra épülnek.
 

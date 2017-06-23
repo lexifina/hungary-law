@@ -54,7 +54,7 @@ l) a felelősségi körébe tartozó állami alapadat-adatbázisok jogszerű fel
 
 m) az országos földügyi és távérzékelési levéltár létesítésének és működtetésének részletes szabályait,
 
-n) az alaphálózati pontok áthelyezésének és pótlásának műszaki feltételeit, az alaphálózati pontok áthelyezésére és pótlására jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait
+n) az alapponthálózati pontok áthelyezésének és pótlásának műszaki feltételeit, az alapponthálózati pontok áthelyezésére és pótlására jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait
 
 rendeletben állapítsa meg.
 
@@ -88,10 +88,14 @@ g) az archív analóg és digitális térképeknek, valamint az állami alapadat
 
 h) a felelősségi körébe tartozó állami topográfiai térképi adatbázisok és térképek vonatkoztatási és vetületi rendszerét,
 
-i) a felelősségi körébe tartozó állami alapadat-adatbázisok jogszerű felhasználásának és a felhasználás ellenőrzésének rendjét
+i) a felelősségi körébe tartozó állami alapadat-adatbázisok jogszerű felhasználásának és a felhasználás ellenőrzésének rendjét,
+
+j) a 6. § (13)–(15) bekezdésében meghatározott szervek részére történő adatszolgáltatás rendjét,
+
+k) a 6. § (20) bekezdése alapján a honvédelem térképészeti támogatásáért felelős szerv által a Magyar Honvédség szervezetei részére hálózaton keresztül történő adatszolgáltatás rendjét
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény alapján igazgatási szolgáltatási díjköteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
+(5) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény alapján igazgatási szolgáltatási díjköteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének szabályait, valamint felhasználásának módját.
 
 (6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza a geodéziai tervezői és geodéziai szakértői minősítéssel kapcsolatos eljárásért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.

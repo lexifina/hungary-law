@@ -8,19 +8,21 @@ a) a telekalakítások földmérési munkái,
 
 b) a kisajátítás földmérési munkái,
 
-c) a közigazgatási határvonalak megváltoztatásának földmérési munkái,
+c) a közigazgatási és fekvéshatárok megváltoztatásával kapcsolatos földmérési munkák,
 
 d) földrészleten belüli (épület, alrészlet, művelési ág) változások földmérési munkái,
 
-e) egyéb önálló ingatlanok alaprajzának változásával kapcsolatos földmérési munkák,
+e) egyéb önálló ingatlanok kialakításával és változásával kapcsolatos földmérési munkák,
 
 f) a földvédelmi, földminősítési tevékenységgel kapcsolatos földmérési munkák,
 
-g) a felmérési, térképezési és területszámítási hibák kiigazítására irányuló munkák, valamint
+g) a felmérési, térképezési és területszámítási hibák kiigazítására irányuló munkák,
 
-h) telki szolgalmi jog, és egyéb jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzéséhez szükséges földmérési munkák.
+h) jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzéséhez szükséges földmérési munkák, valamint
 
-(2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül továbbá a földrészlethatárok kitűzésével, továbbá a földrészleten belüli használati megosztással kapcsolatos munka.
+i) a földrendező és földkiadó bizottságokról szóló törvény szerinti közös tulajdon megszüntetésével kapcsolatos földmérési munkák.
+
+(2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül az (1) bekezdésben foglaltakon kívül a földrészlethatárok kitűzésével és a földrészleten belüli használati megosztással kapcsolatos munka.
 
 (2a) Az (1) bekezdésben felsorolt munkák során előállított munkarészek szerinti változások az ingatlan-nyilvántartási átvezetéssel válnak az állami ingatlan-nyilvántartási térképi alapadatbázis részévé.
 
@@ -30,7 +32,7 @@ h) telki szolgalmi jog, és egyéb jogok ingatlan-nyilvántartási bejegyzéséh
 
 (5) A (4) bekezdésben meghatározottakon túl bejelentésre kötelezett munkának minősül:
 
-a) minden állami alaphálózati munka,
+a) minden állami alapponthálózati munka,
 
 b) a közigazgatási és fekvéshatárok változása,
 

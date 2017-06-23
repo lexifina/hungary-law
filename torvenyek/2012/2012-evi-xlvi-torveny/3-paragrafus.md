@@ -4,7 +4,7 @@
 
 a) az államhatár adatbázisa,
 
-b) az alapponthálózati pontok adatbázisa,
+b) az alapponthálózati pontok adatbázisai,
 
 c) az állami földmérési alaptérképi adatbázis,
 
