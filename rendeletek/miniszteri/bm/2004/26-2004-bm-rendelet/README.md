@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-26-20-0
 | 2012-01-01 | 2004-26-20-0A.3 | 54/2011. (XII. 21.) BM rendelet |
 | 2014-03-15 | 2004-26-20-0A.4 | 22/2014. (III. 12.) BM rendelet |
 | 2015-04-01 | 2004-26-20-0A.5 | 11/2015. (III. 31.) BM rendelet |
+| 2017-06-23 | 2004-26-20-0A.6 | 13/2017. (VI. 8.) BM rendelet |

@@ -1,4 +1,4 @@
-7. §[^12] (1) A kijelölt szervezet az előző évben végzett megfelelőségértékelési tevékenységéről készített jelentést minden év január 31-ig megküldi a BM OKF részére.
+7. §[^20] (1) A kijelölt szervezet az előző évben végzett megfelelőségértékelési tevékenységéről készített jelentést minden év január 31-ig megküldi a BM OKF részére.
 
 (2) Az (1) bekezdés szerinti jelentés tartalmazza
 
@@ -14,4 +14,4 @@ e) a kijelölt megfelelőségértékelési területen – a termék forgalmazás
 
 f) a visszavont tanúsítványok iktatószámát, a kérelmező megnevezését, a tanúsítvány tárgyát, a visszavonás indokát.
 
-[^12]: A 7. § az 54/2011. (XII. 21.) BM rendelet 6. §-ával megállapított szöveg.
+[^20]: A 7. § az 54/2011. (XII. 21.) BM rendelet 6. §-ával megállapított szöveg.

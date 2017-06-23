@@ -22,6 +22,6 @@
 
 ## 11. A kijelölés tárgyát képező tevékenységgel kapcsolatos referenciák.
 
-2. számú melléklet a 26/2004. (VI. 11.) BM rendelethez[^17]
+2. számú melléklet a 26/2004. (VI. 11.) BM rendelethez[^25]
 
-[^17]: A 2. számú melléklet az 54/2011. (XII. 21.) BM rendelet 9. §-ával megállapított szöveg.
+[^25]: A 2. számú melléklet a 13/2017. (VI. 8.) BM rendelet 2. §-ával megállapított szöveg.
