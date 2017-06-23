@@ -1,3 +1,1 @@
-35. § A Vtv. 75. §-a helyébe a következő rendelkezés lép:
-
-„75. § A vasúti igazgatási szerv feladatkörében eljáró kormánytisztviselő, állami tisztviselő ezen jogviszonya megszűnését követően egy évig sem pályahálózat-működtetővel, sem vállalkozó vasúti társasággal, sem a vasúti pályakapacitás-elosztó szervezettel nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt. A vasúti igazgatási szerv e korlátozás alapján ellenértéket köteles fizetni a kormánytisztviselőnek, állami tisztviselőnek, amelynek mértékére a munka törvénykönyvéről szóló törvény versenytilalmi megállapodásra vonatkozó szabályait kell alkalmazni.”
+35. §

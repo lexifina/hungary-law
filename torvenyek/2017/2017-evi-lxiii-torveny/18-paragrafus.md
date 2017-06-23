@@ -10,8 +10,4 @@
 
 „g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpontja alapján kiadott jogszabállyal együtt – az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelv, 6. cikke.”
 
-(3) A Kkt. 49. § (2) bekezdése a következő h) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„h) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikke.”
+(3)
