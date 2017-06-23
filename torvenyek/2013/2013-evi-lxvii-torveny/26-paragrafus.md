@@ -20,7 +20,13 @@ g) a gépjárműnek vagy gépjárműszerelvénynek a díjkategória meghatároz�
 
 h) a nyilvántartott fedélzeti eszközök azonosító adatait,
 
-i) a gépjárműről és annak hatósági jelzéséről készített képfelvételt,
+i) az úthasználati jogosultsággal
+
+ia) rendelkező,
+
+ib) nem rendelkező
+
+gépjárműről és annak hatósági jelzéséről készített képfelvételt,
 
 j) az útdíjköteles elemi útszakaszok viszonylati jegy alapján történő használata esetén az útvonalat, az annak megtételéhez engedélyezett időszakot, valamint a bizonylatszámot.
 
@@ -28,7 +34,17 @@ k) a gépjármű vagy gépjárműszerelvény össztömegét, tengelyterhelését
 
 (2) Az útdíjszolgáltató a 6. § (5) bekezdésében, valamint a 7. §-ban meghatározott feladatai ellátása érdekében az (1) bekezdésben meghatározott adatokat – az (1) bekezdés i) pontjában foglalt adatok kivételével – jogosult kezelni a díj megfizetésére irányuló követelés elévüléséig.
 
-(3) Az útdíjszedő a 6. § (4) bekezdésében és a 17. §-ban meghatározott feladatai ellátása, valamint az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az (1) bekezdés c)–k) pontjában meghatározott adatokat jogosult kezelni az adat keletkezését követő 7 évig.
+(3) Az útdíjszedő a 6. § (4) bekezdésében és a 17. §-ban meghatározott feladatai ellátása, az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges, valamint a közúti közlekedésről szóló törvény szerinti Nemzeti Tengelysúlymérő Rendszer részére történő adatszolgáltatás teljesítése érdekében
+
+a) az (1) bekezdés c)–h) és j) pontjában meghatározott adatokat az adat keletkezését követő 7 évig,
+
+b) az (1) bekezdés i) pont ia) alpontjában meghatározott adatokat az adat keletkezését követő 360 napig,
+
+c) az (1) bekezdés i) pont ib) alpontjában meghatározott adatokat az adat keletkezését követő két évig,
+
+d) az (1) bekezdés k) pontjában meghatározott adatokat, valamint a jármű áthaladási sebességére vonatkozó adatokat az adatátadást követő 3 napig
+
+jogosult kezelni.
 
 (4) A Rendőrség jogosult az útdíj-fizetési kötelezettség alól mentes gépjárműveknek a mentességgel kapcsolatos alábbi jellemzőit, valamint az útdíj-fizetésre kötelezettek alábbi személyes adatait kezelni azok külön hozzájárulása nélkül is az útdíjszedés, valamint az útdíj-fizetési kötelezettség teljesítésének ellenőrzése érdekében, az útdíj, illetve a kiszabott bírság behajtása érdekében, az ezekre irányuló követelések elévüléséig:
 
