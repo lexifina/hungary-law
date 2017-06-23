@@ -1,0 +1,1 @@
+4. § Az Fkbt. 4. § (2) bekezdésében a „[Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk) 685. § b) pontja]” szövegrész helyébe az „[a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk) 8:1. § (1) bekezdés 2. pontja]” szöveg lép.
