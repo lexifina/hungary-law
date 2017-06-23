@@ -1,0 +1,3 @@
+4. § A Vht. 33. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a végrehajtás foganatosítását megkezdő végrehajtó (a továbbiakban: ügygazda végrehajtó) székhelye szerinti fővároson, illetőleg megyén (a továbbiakban együtt: megye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat elektronikus úton a Kar hivatali szervének, amely továbbítja az ügyelosztás szabályaira figyelemmel az eljárási cselekmény foganatosításának helye szerint illetékes azon végrehajtónak (232., 255/A. §) vagy a végrehajtói iroda azon végrehajtó tagjának, akinek a székhelye a cselekmény foganatosításának helye szerinti megyében van (a továbbiakban: megkeresett végrehajtó).”

@@ -1,0 +1,3 @@
+5. § A Vht. 115. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A végrehajtó a lefoglalt ingóság értékesítése iránt a foglalást, illetve a vízi, légi jármű lajstromának, valamint a zálogjogi és hitelbiztosítéki nyilvántartás adatainak beszerzését [84. § (4) bekezdés, 103/A–103/B. §] követő 30 nap eltelte után haladéktalanul intézkedik. Ha az ingóság a közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendeletben meghatározott közfoglalkoztatási program keretében beszerzett és használt ingóság, akkor a becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.”
