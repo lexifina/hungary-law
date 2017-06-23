@@ -1,0 +1,1 @@
+## „(5) Ha a termék, valamint annak műszaki dokumentációja nem tér el a korábban már tanúsított termék vizsgálati mintájától, műszaki dokumentációjától, a tanúsító szervezet a termékre vonatkozó megváltozott tűzvédelmi, biztonságossági követelményeknek való megfelelőséget vizsgálja a korábban elvégzett vizsgálatok figyelembevételével.”
