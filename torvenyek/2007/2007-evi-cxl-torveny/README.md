@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-140-00-00
 | 2010-12-31 | 2010. évi CLXXIX. törvény | 2007-140-00-00.2 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2007-140-00-00.3 |
 | 2017-06-08 | 2017. évi XLVIII. törvény | 2007-140-00-00.4 |
+| 2017-06-23 | 2017. évi LXI. törvény | 2007-140-00-00.5 |
