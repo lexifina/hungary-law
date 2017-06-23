@@ -7,3 +7,5 @@
 (3) Ha a szerződés feljogosítja a vagyonkezelőt a kedvezményezett személyének kijelölésére, a vagyonkezelő jogosult a kedvezményezett részesedésének meghatározására.
 
 (4) A vagyonkezelő kizárólagos kedvezményezetté nevezése semmis.
+
+(5) A kedvezményezetti jogosultság megszűnik, ha a kedvezményezett a szerződésben meghatározottaktól eltérő jogcímen érvényesít igényt a kezelt vagyonnal szemben.

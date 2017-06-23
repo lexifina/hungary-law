@@ -7,3 +7,5 @@
 (3) Az örökös a hagyatéki költségekért és a hagyatéki eljárás költségeiért saját vagyonával is felel.
 
 (4) A házastárs a haszonélvezetével terhelt vagyonból tűrni köteles a hitelezők követeléseinek kielégítését, a hagyományon és a meghagyáson alapuló követelések kivételével.
+
+(5) Végrendelettel alapított bizalmi vagyonkezelési jogviszony esetén a bizalmi vagyonkezelő a hagyatéki tartozásokért a kezelt vagyonnal úgy felel, mintha dologi hagyományban részesült volna.

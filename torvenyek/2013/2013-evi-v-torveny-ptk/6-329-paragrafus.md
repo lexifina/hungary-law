@@ -2,6 +2,6 @@
 
 (1) Ha a vagyonrendelő és a vagyonkezelő személye megegyezik, a bizalmi vagyonkezelés a vagyonrendelő közokiratba foglalt visszavonhatatlan egyoldalú nyilatkozatával jön létre.
 
-(2) Végrendelettel alapított vagyonkezelési jogviszony azzal jön létre, hogy a vagyonkezelővé való kijelölést a vagyonkezelő a végrendeletben meghatározott tartalommal elfogadja.
+(2) Végrendelettel alapított bizalmi vagyonkezelési jogviszony a vagyonkezelővé való kijelölésnek a vagyonkezelő által a végrendeletben meghatározott tartalommal történő elfogadásával a vagyonrendelő halálának időpontjára visszamenő hatállyal jön létre.
 
 (3) Az egyoldalú jogügylettel létesített bizalmi vagyonkezelési jogviszonyokra a bizalmi vagyonkezelési szerződés szabályait kell megfelelően alkalmazni.

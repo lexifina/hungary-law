@@ -8,7 +8,9 @@ b) a vagyonkezelő a vagyonkezelést felmondja, a felmondást követő három h�
 
 c) a kezelt vagyonnak három hónapot meghaladó ideig nincs vagyonkezelője, a vagyonkezelői megbízás megszűnésének időpontjában;
 
-d) a vagyonrendelő volt az egyetlen kedvezményezett, az ő halálának időpontjában.
+d) a vagyonrendelő volt az egyetlen kedvezményezett, az ő halálának időpontjában;
+
+e) a vagyonrendelő a határozatlan időre kötött szerződést – annak eltérő rendelkezése hiányában – felmondja.
 
 (2) A vagyonkezelő a felmondásnál is a kedvezményezett érdekeinek elsődleges figyelembevétele mellett köteles eljárni.
 

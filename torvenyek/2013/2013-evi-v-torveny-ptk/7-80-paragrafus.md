@@ -1,6 +1,6 @@
 ### 7:80. § [A kötelesrész alapja]
 
-(1) A kötelesrész alapja a hagyaték tiszta értéke, valamint az örökhagyó által élők között bárkinek juttatott ingyenes adományok juttatáskori tiszta értéke.
+(1) A kötelesrész alapja a hagyaték tiszta értéke, valamint az örökhagyó által élők között bárkinek juttatott ingyenes adományok juttatáskori tiszta értéke, ideértve az örökhagyó által bizalmi vagyonkezelésbe adott vagyon értékét is (a továbbiakban: ingyenes adomány).
 
 (2) Aki számára az ingyenes adománynak a juttatáskori értéken való számításba vétele súlyosan méltánytalan, a bíróságtól kérheti a körülmények figyelembevételével vett más érték megállapítását.
 
