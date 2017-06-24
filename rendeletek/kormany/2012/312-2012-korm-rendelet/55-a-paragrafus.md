@@ -1,4 +1,4 @@
-## XII/A. Fejezet[^189]
+## XII/A. Fejezet[^190]
 
 ## JÓKARBANTARTÁSI KÖTELEZÉSI ELJÁRÁS
 
@@ -22,4 +22,4 @@ ba) a szervizkönyv hiánya esetén annak pótlását,
 
 bb) a kötelező felülvizsgálat elmaradása miatti építmény-felülvizsgálat elvégzését, és a megállapításoktól függően a szükséges munkálatok elvégzését.
 
-[^189]: A XII/A. Fejezetet (55/A. §) a 144/2017. (VI. 12.) Korm. rendelet 12. §-a iktatta be.
+[^190]: A XII/A. Fejezetet (55/A. §) a 144/2017. (VI. 12.) Korm. rendelet 12. §-a iktatta be.

@@ -172,7 +172,7 @@
 
 | 19. | A víziutak medrétől és a kikötők, átkelések, parti és vízterületétől 50 méternél kisebb távolságban épülő tűz-, és 100 méternél kisebb távolságban épülő robbanásveszélyes anyagok gyártását, tárolását, forgalmazását szolgáló, valamint az 50 méternél kisebb távolságban épülő hajózási parti jelzések láthatóságát befolyásoló, a jelentős fénykibocsátású, a hajók part mellé kikötését és a partra történő kijárást korlátozó építmények építése esetén | A tervezett építmény nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve a hajózási létesítmények működését. | a) építési, b) összevont, c) az engedély hatályának meghosszabbítási, d) használatbavételi, e) fennmaradási engedélyezési eljárás |
 
-7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^266]
+7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^267]
 
 I. Az összevont telepítési eljárásban benyújtandó mellékletek
 
@@ -226,4 +226,4 @@ II. Az összevont telepítési eljárásban közreműködő szakhatóságok
 
 | 3. | egységes környezethasználati engedélyezési eljárás | a környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet 5. mellékletének II. táblázata |
 
-[^266]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet – 497/2016. (XII. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított – 208. § (2) bekezdés b) pontjával megállapított, a 497/2016. (XII. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^267]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet – 497/2016. (XII. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított – 208. § (2) bekezdés b) pontjával megállapított, a 497/2016. (XII. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

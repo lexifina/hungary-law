@@ -1,3 +1,3 @@
-## 50.[^239]
+## 50.[^240]
 
-[^239]: Az 50. alcímet (69. §) a 144/2017. (VI. 12.) Korm. rendelet 17. § f) pontja hatályon kívül helyezte.
+[^240]: Az 50. alcímet (69. §) a 144/2017. (VI. 12.) Korm. rendelet 17. § f) pontja hatályon kívül helyezte.

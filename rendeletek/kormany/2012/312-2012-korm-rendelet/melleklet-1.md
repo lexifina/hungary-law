@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^261]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^262]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -84,4 +84,4 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 32. Közterületen, filmforgatáshoz kapcsolódó építmény építése.
 
-[^261]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^262]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
