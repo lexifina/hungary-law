@@ -94,7 +94,7 @@
 
 37. Gázfogyasztó készülék: földgázzal, valamint PB-gázzal üzemeltetett készülék.
 
-38. Gáznap: a 984/2013/EU bizottsági rendelet 3. cikk 7. pontjában meghatározott fogalom.
+38. Gáznap: a 2017/459 bizottsági rendelet 3. cikk 16. pontjában meghatározott fogalom.
 
 39. Határkeresztező gázvezeték: olyan szállítóvezeték, amely Magyarország államhatárát keresztezi.
 
@@ -146,7 +146,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 52b. Részleges szigetüzem: olyan elosztóvezeték, amelybe földgáztermelői vezetékről és szállítóvezetékről együttesen biztosítható a földgáz fizikai betáplálása.
 
-52c. Rendszer-összekötési pont: a 984/2013/EU bizottsági rendelet 3. cikk 10. pontjában meghatározott fogalom.
+52c. Rendszer-összekötési pont: a 2017/459 bizottsági rendelet 3. cikk 2. pontjában meghatározott fogalom.
 
 52d. Rendszerösszekötő: olyan határkeresztező gázvezeték, amely kizárólag Magyarország együttműködő földgázrendszerét és más EU-tagállam földgázszállító hálózatát kapcsolja össze.
 

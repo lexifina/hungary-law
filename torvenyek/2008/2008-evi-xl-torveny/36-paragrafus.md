@@ -42,4 +42,4 @@ b) a módosítást az ügyfélszolgálati irodákban és honlapján közzétenni
 
 c) az érintett felhasználókat a tervezett módosítás tartalmáról, valamint a szerződés felmondásának lehetőségéről írásban értesíteni.
 
-(3) Az árváltozás bejelentésére a 107. § (4) és (5) bekezdésében foglaltak az irányadók.
+(3)

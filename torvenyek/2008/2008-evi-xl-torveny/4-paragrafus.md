@@ -18,6 +18,6 @@ d) saját alkalmazásában álló, a földgázszállítás gyakorlásához és a
 
 e) a 121/G. §-ban meghatározott feltételeknek megfelelő megfelelési ellenőrrel,
 
-f) az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel és a központi adatgyűjtő és feldolgozó rendszerrel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a kereskedési platformmal vagy az egyensúlyozó platformmal, valamint a szervezett földgázpiaci engedélyes adatforgalmi és informatikai rendszerével való együttműködést, valamint
+f) az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a kereskedési platformmal vagy az egyensúlyozó platformmal, valamint a szervezett földgázpiaci engedélyes adatforgalmi és informatikai rendszerével való együttműködést, valamint
 
 g) saját, a vertikálisan integrált vállalkozástól független informatikai berendezésekkel és biztonsági rendszerrel.

@@ -2,9 +2,9 @@
 
 a) a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
 
-b) a csatlakozási díjak elemeit, a díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
+b) a csatlakozási díjak elemeit, a díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
-(2) A csatlakozási díjak mértékét a Hivatal elnöke rendeletben állapítja meg.
+(2) A csatlakozási díjak mértékét a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak kell eltelnie.
 
 (3) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint figyelembe vegye a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozások érdekében végrehajtott hálózati beruházásokra fordított összegek nagyságát.
 

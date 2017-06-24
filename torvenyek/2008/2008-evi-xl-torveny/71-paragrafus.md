@@ -14,7 +14,7 @@
 
 (7) A földgáztárolói engedélyes szabad kapacitásait tárolói évre és tárolói éven belüli, üzletszabályzatában meghatározott időszakra ajánlja fel lekötésre.
 
-(8) A rendszer-összekötési pont, valamint a szállítóvezeték és a földgáztároló csatlakozási pontján a szállítói betáplálási-kiadási pont kapacitástermékeit a 984/2013/EU bizottsági rendeletben meghatározott aukciós naptár szerint, az egyéb betáplálási-kiadási pontok és a tároló szabad kapacitásait az e törvény végrehajtásáráról szóló kormányrendeletben rögzített időpontokban kell lekötésre felajánlani.
+(8) A rendszer-összekötési pont, valamint a szállítóvezeték és a földgáztároló csatlakozási pontján a szállítói betáplálási-kiadási pont kapacitástermékeit a 2017/459 bizottsági rendeletben meghatározott aukciós naptár szerint, az egyéb betáplálási-kiadási pontok és a tároló szabad kapacitásait az e törvény végrehajtásáráról szóló kormányrendeletben rögzített időpontokban kell lekötésre felajánlani.
 
 (9) A határkeresztező gázvezetéknek valamely szomszédos nem EU-tagállam földgázszállító rendszeréhez kapcsolódó betáplálási-kiadási pontjára – a (10) bekezdés szerinti kivétellel – a rendszer-összekötési pontra vonatkozó rendelkezéseket kell alkalmazni.
 

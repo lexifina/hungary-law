@@ -32,7 +32,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 
 (8) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
 
-(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
+(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló gáznapon belüli földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
 
 (10) A 312/2014/EU bizottsági rendelet 10. cikk (2) bekezdése szerint létrehozott egyensúlyozó platformra a (2)–(9) bekezdésben foglalt előírásokat megfelelően kell alkalmazni.
 

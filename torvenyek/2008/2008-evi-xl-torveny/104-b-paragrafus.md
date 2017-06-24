@@ -16,8 +16,8 @@ b) a (2) bekezdés b) pontja szerinti útmutatót a következő árszabályozás
 
 a honlapján közzéteszi.
 
-(4) A rendszerhasználati díjak mértékét a Hivatal elnöke – figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatókra – rendeletben állapítja meg.
+(4) A rendszerhasználati díjak mértékét a Hivatal elnöke – figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatókra – rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak kell eltelnie.
 
-(5) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának feltételeit a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
+(5) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának feltételeit a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
 (6) Az (1) és (5) bekezdések szerinti rendeletek, valamint a módszertani útmutatók előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.

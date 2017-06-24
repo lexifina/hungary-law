@@ -10,6 +10,6 @@
 
 (4) Jogszabályváltozás esetén, és abban az esetben, ha az Üzemi és Kereskedelmi Szabályzat akadályozza a hatásos versenyt, a díjszabályozásban foglalt elvek és szabályok érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé, a Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés mellett – határidő tűzésével, valamint az okok megjelölésével – kötelezi a szállítási rendszerirányítót a szabályzat módosítására.
 
-(5) Az Üzemi és Kereskedelmi Szabályzatot és annak módosításait a Hivatal jóváhagyó határozatával együtt az engedélyesek honlapjukon – a változásokkal egységes szerkezetbe foglalt szöveggel – közzéteszik.
+(5) Az Üzemi és Kereskedelmi Szabályzatot és annak módosításait a Hivatal jóváhagyó határozatával együtt a rendszerüzemeltető a honlapján – a változásokkal egységes szerkezetbe foglalt szöveggel – közzéteszi.
 
 (6) Az Üzemi és Kereskedelmi Szabályzat tartalmi követelményeit külön jogszabály határozza meg.

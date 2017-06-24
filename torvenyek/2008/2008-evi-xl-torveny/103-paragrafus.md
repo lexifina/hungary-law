@@ -26,7 +26,7 @@ ha) gázkiskereskedő részére történő értékesítésének ára, és
 
 hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára,
 
-i) a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által a felhasználók igénye alapján végzett adatszolgáltatás 100. § (2c) bekezdése szerinti díjai.
+i)
 
 (2a) A földgázellátással összefüggésben
 
