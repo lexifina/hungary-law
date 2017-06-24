@@ -1,6 +1,6 @@
 ## A közművesítettség mértéke
 
-8. §[^31] (1) A közműellátás építési övezetenkénti mértékét és módját a helyi építési szabályzatban kell megállapítani.
+8. §[^32] (1) A közműellátás építési övezetenkénti mértékét és módját a helyi építési szabályzatban kell megállapítani.
 
 (2) A közművesítettség szempontjából az építési övezet
 
@@ -34,4 +34,4 @@ c) hiányosan közművesített, ha a részleges közművesítettségre előírt 
 
 d) közművesítetlen, ha nincs közüzemi vagy közcélú szolgáltatás.
 
-[^31]: A 8. § a 90/2012. (IV. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^32]: A 8. § a 90/2012. (IV. 26.) Korm. rendelet 5. §-ával megállapított szöveg.

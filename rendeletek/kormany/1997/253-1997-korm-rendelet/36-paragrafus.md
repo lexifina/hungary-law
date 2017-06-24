@@ -1,36 +1,36 @@
-## Épületek közötti legkisebb távolság[^122]
+## Épületek közötti legkisebb távolság[^125]
 
-36. § (1)[^123] Szomszédos telkeken a meglévő épületektől a megengedett legkisebb távolság nem lehet kisebb:
+36. § (1)[^126] Szomszédos telkeken a meglévő épületektől a megengedett legkisebb távolság nem lehet kisebb:
 
 a) sem a (2) és (3) bekezdés szerinti telepítési távolságnál,
 
-b)[^124] sem az országos tűzvédelmi szabályzat szerint meghatározott tűztávolságnál.
+b)[^127] sem az országos tűzvédelmi szabályzat szerint meghatározott tűztávolságnál.
 
-(2)[^125] A legkisebb telepítési távolság az egymással szemben átfedésben lévő olyan épületek között, amelyeknek homlokzata huzamos tartózkodás céljára szolgáló helyiség nyílását tartalmazza az építési telekre előírt (megengedett) legnagyobb beépítési magasság mértéke.
+(2)[^128] A legkisebb telepítési távolság az egymással szemben átfedésben lévő olyan épületek között, amelyeknek homlokzata huzamos tartózkodás céljára szolgáló helyiség nyílását tartalmazza az építési telekre előírt (megengedett) legnagyobb beépítési magasság mértéke.
 
-(3)[^126] Nem kell telepítési távolságot tartani, ha az egymással szemben átfedésben lévő homlokzatok közül az egyik
+(3)[^129] Nem kell telepítési távolságot tartani, ha az egymással szemben átfedésben lévő homlokzatok közül az egyik
 
 a) nyílás nélküli vagy
 
 b) csak nem huzamos tartózkodás céljára szolgáló helyiség nyílásait tartalmazza.
 
-(4)[^127]
+(4)[^130]
 
-(5)[^128] Az állattartó építmények elhelyezésének feltételeit – a közegészségügyi és az állategészségügyi, továbbá a környezetvédelmi követelmények figyelembevételével – a helyi építési szabályzat állapíthatja meg.
+(5)[^131] Az állattartó építmények elhelyezésének feltételeit – a közegészségügyi és az állategészségügyi, továbbá a környezetvédelmi követelmények figyelembevételével – a helyi építési szabályzat állapíthatja meg.
 
-(6)[^129]
+(6)[^132]
 
-(7)[^130]
+(7)[^133]
 
-(8)[^131]
+(8)[^134]
 
-[^122]: A 36. §-t megelőző alcím a 196/2009. (IX. 15.) Korm. rendelet 62. § (8) bekezdésének b) pontja szerint módosított szöveg.
-[^123]: A 36. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^124]: A 36. § (1) bekezdés b) pontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 27. pontja szerint módosított szöveg.
-[^125]: A 36. § (2) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 51. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^126]: A 36. § (3) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 51. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^127]: A 36. § (4) bekezdését újonnan a 182/2008. (VII. 14.) Korm. rendelet 12. § (1) bekezdése iktatta be, hatályon kívül helyezte a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének b) pontja. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^128]: A 36. § (5) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^129]: A 36. § (6) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 23. pontja hatályon kívül helyezte.
-[^130]: A 36. § új (7) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 12. § (3) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (8) bekezdésre változtatva. Az új (7) bekezdést hatályon kívül helyezte a 90/2012. (IV. 26.) Korm. rendelet 31. § 23. pontja.
-[^131]: A 36. § eredeti (7) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 12. § (3) bekezdése (8) bekezdésre változtatta. A (8) bekezdést hatályon kívül helyezte a 90/2012. (IV. 26.) Korm. rendelet 31. § 23. pontja.
+[^125]: A 36. §-t megelőző alcím a 196/2009. (IX. 15.) Korm. rendelet 62. § (8) bekezdésének b) pontja szerint módosított szöveg.
+[^126]: A 36. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^127]: A 36. § (1) bekezdés b) pontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 27. pontja szerint módosított szöveg.
+[^128]: A 36. § (2) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 51. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^129]: A 36. § (3) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 51. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^130]: A 36. § (4) bekezdését újonnan a 182/2008. (VII. 14.) Korm. rendelet 12. § (1) bekezdése iktatta be, hatályon kívül helyezte a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének b) pontja. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^131]: A 36. § (5) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^132]: A 36. § (6) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 23. pontja hatályon kívül helyezte.
+[^133]: A 36. § új (7) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 12. § (3) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (8) bekezdésre változtatva. Az új (7) bekezdést hatályon kívül helyezte a 90/2012. (IV. 26.) Korm. rendelet 31. § 23. pontja.
+[^134]: A 36. § eredeti (7) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 12. § (3) bekezdése (8) bekezdésre változtatta. A (8) bekezdést hatályon kívül helyezte a 90/2012. (IV. 26.) Korm. rendelet 31. § 23. pontja.

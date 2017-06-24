@@ -12,22 +12,26 @@
 
 | 6. | falusias | 0,5 | 30 |  | 40 |
 
-| 7. | vegyes | település- központ | 2,4 | 80 |  | 10 |
+| 7. | vegyes | településközpont | 2,4 | 80 |  | 10 |
 
 | 8. | intézményi | 3,5 | a település legnagyobb mértékű lakóterületi beépítettségnél legfeljebb 25%-kal megnövelt érték |  | a be nem épített terület 50%-a |
 
-| 9. | gazdasági | kereskedelemi, szolgáltató | 2,0 | 60 |  | 20 |
+| 9. | gazdasági | kereskedelmi, szolgáltató | 2,0 | 60 |  | 20 |
 
 | 10. | jelentős mértékű zavaró hatású ipari | 1,5 | 30 |  | 40 |
 
 | 11. | egyéb ipari | 1,5 | 50 |  | 25 |
 
-| 12. | üdülő | üdülőházas | 1,0 | 30 | 6,0< | 40 |
+| 12. | általános | 2,0 | 70 |  | 25 |
 
-| 13. | hétvégiházas | 0,2 | 20 | <6,0 | 60 |
+| 13. | üdülő | üdülőházas | 1,0 | 30 | 6,0< | 40 |
 
-| 14. | különleges |  | 2,0 | 40 |  | 40 |
+| 14. | hétvégi házas | 0,2 | 20 | <6,0 | 60 |
 
-3. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^405]
+| 15. | különleges |  | 2,0 | 40 |  | 40 |
 
-[^405]: A 3. számú mellékletet a 90/2012. (IV. 26.) Korm. rendelet 31. § 31. pontja hatályon kívül helyezte.
+## ”
+
+3. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^408]
+
+[^408]: A 3. számú mellékletet a 90/2012. (IV. 26.) Korm. rendelet 31. § 31. pontja hatályon kívül helyezte.

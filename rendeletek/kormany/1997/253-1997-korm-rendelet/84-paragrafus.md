@@ -1,3 +1,3 @@
-84. §[^300]
+84. §[^303]
 
-[^300]: A 84. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 12. pontja hatályon kívül helyezte.
+[^303]: A 84. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 12. pontja hatályon kívül helyezte.

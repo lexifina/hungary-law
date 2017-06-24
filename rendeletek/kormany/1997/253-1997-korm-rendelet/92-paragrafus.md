@@ -1,8 +1,8 @@
 ## Mesterséges szellőzés
 
-92. § (1)[^320] A huzamos tartózkodásra szolgáló helyiségeket természetes szellőzéssel kell ellátni, kivéve, ha a rendeltetésszerű használatukhoz mesterséges légcsere alkalmazása is szükséges.
+92. § (1)[^323] A huzamos tartózkodásra szolgáló helyiségeket természetes szellőzéssel kell ellátni, kivéve, ha a rendeltetésszerű használatukhoz mesterséges légcsere alkalmazása is szükséges.
 
-(2)[^321] A homlokzaton – e rendelkezés hatálybalépését megelőzően használatba vett, meglévő építményen – mesterséges szellőzéshez kivezetést létesíteni, továbbá helyiségszellőztető vagy klimatizáló berendezést elhelyezni az épület külső megjelenésével összhangban, takartan, illetve építészeti eszközökkel megoldva akkor lehet, ha a tervezett megoldás és a működés hatása
+(2)[^324] A homlokzaton – e rendelkezés hatálybalépését megelőzően használatba vett, meglévő építményen – mesterséges szellőzéshez kivezetést létesíteni, továbbá helyiségszellőztető vagy klimatizáló berendezést elhelyezni az épület külső megjelenésével összhangban, takartan, illetve építészeti eszközökkel megoldva akkor lehet, ha a tervezett megoldás és a működés hatása
 
 a) az épület állékonyságát nem veszélyezteti, a homlokzatot nem károsítja,
 
@@ -12,14 +12,14 @@ c) a kivezetés a környezetet bűz-, mérgező-, zaj-, rezgés- vagy más káro
 
 (3) A frisslevegővétel a legkevésbé szennyezett helyen legyen. A beszívó nyílás (légbevezető) helyének meghatározásakor a környezeti turbulens hatásokat és a jellemző szélirányt is figyelembe kell venni.
 
-(4)[^322] A frisslevegő-vételi és a szennyezett levegőt kibocsátó nyílást egymástól legalább 3,0 m távolságra úgy kell elhelyezni, hogy sem gravitációs, sem szélhatás ne eredményezzen visszaáramlást.
+(4)[^325] A frisslevegő-vételi és a szennyezett levegőt kibocsátó nyílást egymástól legalább 3,0 m távolságra úgy kell elhelyezni, hogy sem gravitációs, sem szélhatás ne eredményezzen visszaáramlást.
 
-(5)[^323] A légsebesség a padlófelülettől mért 2,0 m-es magasságon belül nem haladhatja meg a 0,25 m/sec értéket.
+(5)[^326] A légsebesség a padlófelülettől mért 2,0 m-es magasságon belül nem haladhatja meg a 0,25 m/sec értéket.
 
-(6)[^324] A mesterséges szellőztető berendezésekben a levegő nedvesítésére csak ivóvíz minőségű víz használható.
+(6)[^327] A mesterséges szellőztető berendezésekben a levegő nedvesítésére csak ivóvíz minőségű víz használható.
 
-[^320]: A 92. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^321]: A 92. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^322]: A 92. § új (4) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 40. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^323]: A 92. § eredeti (4) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 40. § (2) bekezdése (5) bekezdésre változtatta.
-[^324]: A 92. § eredeti (5) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 40. § (2) bekezdése (6) bekezdésre változtatta.
+[^323]: A 92. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^324]: A 92. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^325]: A 92. § új (4) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 40. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^326]: A 92. § eredeti (4) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 40. § (2) bekezdése (5) bekezdésre változtatta.
+[^327]: A 92. § eredeti (5) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 40. § (2) bekezdése (6) bekezdésre változtatta.

@@ -1,12 +1,12 @@
-## Tartószerkezetek[^213]
+## Tartószerkezetek[^216]
 
-59. § (1)[^214] Az építmények tartószerkezeteit a vonatkozó előírások alapján úgy kell méretezni és megvalósítani, hogy feleljenek meg a rendeltetési céljuk szerinti terheléseknek és az állékonyság követelményeinek.
+59. § (1)[^217] Az építmények tartószerkezeteit a vonatkozó előírások alapján úgy kell méretezni és megvalósítani, hogy feleljenek meg a rendeltetési céljuk szerinti terheléseknek és az állékonyság követelményeinek.
 
-(2)[^215] Az építmény rendeltetésszerű használatából eredő különleges hatások (fokozott nedvesség, jelentős hőmérséklet-változások, különösen magas vagy alacsony hőmérséklet, a tervezési célnak megfelelő vegyi környezet stb.) nem okozhatnak élettartam, teherhordó képesség, hang- vagy hőszigetelő képesség csökkenést a tartószerkezetekben.
+(2)[^218] Az építmény rendeltetésszerű használatából eredő különleges hatások (fokozott nedvesség, jelentős hőmérséklet-változások, különösen magas vagy alacsony hőmérséklet, a tervezési célnak megfelelő vegyi környezet stb.) nem okozhatnak élettartam, teherhordó képesség, hang- vagy hőszigetelő képesség csökkenést a tartószerkezetekben.
 
-(3)[^216] Faanyagú tartószerkezeten, annak légzését gátló bevonat, burkolat nem alkalmazható.
+(3)[^219] Faanyagú tartószerkezeten, annak légzését gátló bevonat, burkolat nem alkalmazható.
 
-[^213]: Az 59. § (1) bekezdését megelőző alcím a 182/2008. (VII. 14.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^214]: Az 59. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 19. §-ával megállapított, a 211/2012. (VII. 30.) Korm. rendelet 32. § 10. pontja szerint módosított szöveg.
-[^215]: Az 59. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének n) pontja, a 211/2012. (VII. 30.) Korm. rendelet 32. § 11. pontja szerint módosított szöveg.
-[^216]: Az 59. § (3) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének n) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^216]: Az 59. § (1) bekezdését megelőző alcím a 182/2008. (VII. 14.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^217]: Az 59. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 19. §-ával megállapított, a 211/2012. (VII. 30.) Korm. rendelet 32. § 10. pontja szerint módosított szöveg.
+[^218]: Az 59. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének n) pontja, a 211/2012. (VII. 30.) Korm. rendelet 32. § 11. pontja szerint módosított szöveg.
+[^219]: Az 59. § (3) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének n) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

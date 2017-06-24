@@ -1,3 +1,3 @@
-## Tároló helyiség[^343]
+## Tároló helyiség[^346]
 
-[^343]: A 101. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^346]: A 101. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
