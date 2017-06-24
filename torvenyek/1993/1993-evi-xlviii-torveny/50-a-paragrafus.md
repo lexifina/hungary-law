@@ -32,7 +32,7 @@
 
 16. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
 
-17. a 26/A. § (7) bekezdése szerinti pályázat tartalmi követelményeire,
+17. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra
 
 18. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 
@@ -104,7 +104,7 @@ f) a polgári robbantási tevékenység műszaki-biztonsági követelményeit ta
 
 g) a bányászok erkölcsi és anyagi megbecsülésére, így különösen a szakmai utánpótlásra, a hagyományőrzésre és az egyéb sajátos juttatásokra vonatkozó rendelkezéseknek, a juttatások körének, jogosultjainak és mértékének, valamint
 
-h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefüggésben a súlyos üzemzavar körének és az arról szóló jelentéstételi kötelezettségnek,
+h) a bányászati és gázipari biztonsági szabályzatoknak, a létesítmények tervezésének, létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, és egyéb feltételeit tartalmazó biztonsági szabályzatoknak, a műszaki-biztonsági irányítási rendszerek alkalmazási szabályainak, a szakági műszaki bizottságok létesítésére, feladataik és működésük rendjének,
 
 i) az Európai Unió irányelveiben előírt, az ásványi nyersanyagkutatásról, feltárásról és termelésről szóló, valamint az ásványvagyon-gazdálkodással, továbbá a bányászati tevékenység során keletkező hulladékkal kapcsolatos jelentés elkészítésének, az Európai Bizottsághoz történő továbbítás és a közzététel rendjének,
 
@@ -121,6 +121,8 @@ n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén
 o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
 
 p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
+
+q) a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavarok és súlyos balesetek körének, az arról szóló jelentéstételi kötelezettségnek és vizsgálati rendjének
 
 rendeletben történő megállapítására.
 

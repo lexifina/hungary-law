@@ -12,7 +12,7 @@ c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát 
 
 d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
 
-(4) A bányavállalkozó a bányatelek megállapításától számított 5 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
+(4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 
 (5) A bányafelügyelet a bányavállalkozó bányászati jogát törli, ha a bányavállalkozó
 
@@ -26,7 +26,7 @@ b) a térítésfizetési kötelezettségének határidőre nem tesz eleget, vagy
 
 c) a gazdálkodó szervezet jogutód nélkül megszűnik.
 
-(6) A 12. § (3) bekezdése szerinti eset kivételével a bányateleken fennálló bányászati jog új jogosultját – pályáztatást követően – a bányafelügyelet jelöli ki.
+(6) A 12. § (3) bekezdése szerinti eset kivételével a bányatelken fennálló bányászati jog új jogosultjának kijelölése céljából a bányafelügyelet, ha arra – előzetes megkeresés alapján – a magyar állam tulajdonosi jogköreit gyakorló szerv nem tart igényt, az ásványvagyon gazdálkodási szempontjai, a környezetvédelem és a gazdaságosság, az állam számára a várható bevétel, megtakarítás vagy más előny figyelembevételével pályázatot írhat ki.
 
 (6a) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően még kitermelési tevékenységet nem végeztek, akkor az új jogosult a kijelöléstől számított öt éven belül köteles az üzemszerű kitermelést megkezdeni. Az ötéves határidő a (4) bekezdésben foglaltak szerint meghosszabbítható. Az (5) bekezdésben foglalt jogkövetkezményeket az új jogosult tekintetében is alkalmazni kell.
 
@@ -34,4 +34,4 @@ c) a gazdálkodó szervezet jogutód nélkül megszűnik.
 
 (7) A pályázatot a bányafelügyelet a honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben – szénhidrogének esetében az Európai Unió hivatalos lapjában is – meghirdeti.
 
-(8) Nem kell a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül, és azon tájrendezési kötelezettség nem áll fenn. A bányatelket a bányászati jogot törlő határozat jogerőssé és végrehajthatóvá válását követően a bányafelügyelet a 26/B. § (5) bekezdése szerint hivatalból törli a nyilvántartásból.
+(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat jogerőssé és végrehajthatóvá válását követően a bányafelügyelet a 26/B. § (5) bekezdése szerint hivatalból törli a nyilvántartásból.

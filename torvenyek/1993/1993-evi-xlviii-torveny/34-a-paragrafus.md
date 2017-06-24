@@ -1,0 +1,1 @@
+34/A. § A gázelosztó vezetékek és a cseppfolyós propán-, butángáz tartályok létesítési és üzemeltetési tapasztalatainak figyelemmel kísérése, valamint a műszaki haladás eredményeinek a gázelosztás és forgalmazás biztonságát növelő széles körű alkalmazásának elősegítése a szakági műszaki bizottságok feladata.
