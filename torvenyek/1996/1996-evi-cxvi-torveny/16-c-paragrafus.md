@@ -8,7 +8,7 @@
 
 a) a képzés, továbbképzés fokozatát;
 
-b) a 16/A. § (2) bekezdés a) pont aa)–ad) alpontjaiban meghatározott személyes adatokat;
+b) a a munkavállaló természetes személyazonosító adatait és állampolgárságát;
 
 c) a bizonyítvány kiállításának keltét;
 

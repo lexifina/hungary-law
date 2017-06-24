@@ -94,7 +94,9 @@ szükséges nukleáris biztonsági engedélyezés;
 
 42. a nukleáris és más radioaktív anyagok sugárvédelmével összefüggő rendkívüli események és nukleáris veszélyhelyzetek kezelési tervének jóváhagyása.
 
-43. az építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői szakmagyakorlásra alkalmasság megállapítása, és az ezzel kapcsolatos nyilvántartásba vétel.
+43. az építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői szakmagyakorlásra alkalmasság megállapítása, és az ezzel kapcsolatos nyilvántartásba vétel;
+
+44. a nukleáris létesítmények és a radioaktívhulladék-tárolók létesítmény szintű Munkahelyi Sugárvédelmi Szabályzatának jóváhagyása.
 
 (2a) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez szükséges földtani kutatás célját szolgáló kutatólétesítményekkel kapcsolatos engedélyezési eljárásokra a bányászatról szóló törvényt és annak végrehajtására kiadott kormányrendeletet kell alkalmazni.
 
@@ -114,7 +116,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (8) A nukleáris létesítmény létesítési engedélyezési eljárásának tervezett megindítását megelőzően, a nukleáris létesítmény engedélyese kormányrendeletben foglaltak szerint előzetes biztonsági tájékoztató benyújtásával tájékoztathatja az atomenergia-felügyeleti szervet a tervezett nukleáris létesítmény biztonsági követelményeknek való előzetes megfeleléséről (előzetes biztonsági tájékoztató).
 
-(8a) Létesítés alatt álló nukleáris létesítmény és radioaktívhulladék-tároló hatósági engedélyeitől eltérni csak jogszabályban meghatározott módon és feltételekkel lehet.
+(8a) A létesítés alatt álló nukleáris létesítmény vagy radioaktívhulladék-tároló hatósági engedélyeit az atomenergia-felügyeleti szerv módosíthatja, amennyiben a módosítási kérelem tartalma megfelel az NBSZ. Kr.-ben vagy a radioaktív hulladékok átmeneti tárolását vagy végleges elhelyezését biztosító tároló létesítmények biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló kormányrendeletben meghatározott követelményeknek.
 
 (9) A nukleáris létesítménnyel, valamint annak építményeivel összefüggő valamennyi, az engedélyezési eljárásban felmerült adat nyilvánosságra hozatalát az eljáró hatóság megtagadhatja, amennyiben az adat nyilvánosságra hozatala nemzetbiztonsági vagy honvédelmi érdeket, a közbiztonságot, Magyarország külügyi tevékenységét, külügyi kapcsolatait, nemzetközi szervezetekkel való kapcsolatait sérti vagy veszélyezteti, szellemi tulajdonhoz való jogot sért, vagy ha az adat nyilvánosságra hozatala a hatásterületet érintően a környezet védelmi szintjének csökkenésével járna. A nyilvánosságra hozatal megtagadható továbbá abban az esetben is, ha az bírósági, illetve más hatósági eljárás lefolytatását veszélyezteti, kivéve, ha az eljáró bíróság, hatóság engedélyezi az adat nyilvánosságra hozatalát.
 

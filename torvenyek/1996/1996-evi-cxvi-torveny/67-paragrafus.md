@@ -24,7 +24,7 @@ df) a nukleáris biztonsági hatósági tevékenység szabályait,
 
 dg) a nukleáris létesítményekkel összefüggő építmények körét, a nukleáris létesítményekkel, valamint a nukleáris létesítményekkel összefüggő építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, a műszaki dokumentáció részletes tartalmi követelményeit, az építésfelügyeleti ellenőrzés építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit,
 
-dh) a hatósági engedélyektől való eltérés lehetséges módjait és feltételeit a létesítés alatt álló nukleáris létesítményben;
+dh) a létesítés alatt álló nukleáris létesítmény engedély módosításának eljárási szabályait.
 
 e) az atomenergia alkalmazóinak, valamint az illetékes hatóságoknak, az érintett ágazati és területi szerveknek mind a nukleáris veszélyhelyzetre való felkészüléssel és tervezéssel, mind a nukleáris veszélyhelyzet elhárításával, továbbá a lakosság hiteles és időben történő tájékoztatásával összefüggő feladatait és kötelezettségeit;
 
@@ -74,7 +74,7 @@ ve) által lefolytatandó, a 18/D. § szerinti szakmagyakorlásra alkalmasság i
 
 v)
 
-w) a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tárolóban az engedélyektől való eltérés lehetséges módjait és feltételeit;
+w) a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tároló engedély módosításának eljárási szabályait;
 
 x) az atomenergia alkalmazása körében a sugárvédelem érvényesítése érdekében:
 
