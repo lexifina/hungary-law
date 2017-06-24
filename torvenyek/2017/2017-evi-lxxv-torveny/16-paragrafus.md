@@ -2,7 +2,7 @@
 
 a) 2. § 53. pontjában a „kiszolgáló épületek, és azon építmények” szövegrész helyébe a „kiszolgáló épületek és a nukleáris biztonság szempontjából sajátos építmények” szöveg,
 
-b) 6/C. § (3) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 42–43. §-ában” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 23–24. §-ában” szöveg,
+b)
 
 c) 12. § (7) bekezdésében a „szerint” szövegrész helyébe a „, valamint a radioaktívhulladék-tároló esetében a radioaktív hulladékok átmeneti tárolását vagy végleges elhelyezését biztosító tároló létesítmények biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységéről szóló kormányrendelet (a továbbiakban: TBSZ. Kr.) szerint” szöveg,
 

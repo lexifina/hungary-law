@@ -25,11 +25,3 @@ b) 12. §-a az ionizáló sugárzás miatti sugárterhelésből származó vesz�
 való megfelelést szolgálja.
 
 (10) E törvény a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló, 2017. március 16-i 2017/459 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

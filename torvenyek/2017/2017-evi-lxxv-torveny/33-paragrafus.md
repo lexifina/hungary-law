@@ -12,7 +12,7 @@ e) 72. § (14) bekezdésében a „984/2013/EU” szövegrészek helyébe a „2
 
 f) 91/A. § (9) bekezdésében az „irányuló földgáz kereskedelemnek” szövegrész helyébe az „irányuló gáznapon belüli földgáz kereskedelemnek” szöveg,
 
-g) 100/A. § (2) bekezdés b) pont ba) alpontjában a „20 m3/óra” szövegrész helyébe a „10 m3/óra” szöveg,
+g)
 
 h) 104/B. § (4) bekezdésében, 106. § (3) bekezdésében és a 108. § (2) bekezdésében az „állapítja meg.” szövegrész helyébe az „állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak kell eltelnie.” szöveg,
 

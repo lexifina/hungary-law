@@ -16,6 +16,6 @@ g) 143. § (5) bekezdésében és 146/A. § (3) bekezdésében a „rendeletben 
 
 h) 143. § (7) bekezdésében és 146/A. § (2) bekezdésében a „45” szövegrész helyébe a „15” szöveg,
 
-i) 170. § (2) bekezdése 23. pontjában a „támogatási rendszerben” szövegrész helyébe a „támogatási rendszerben, valamint a demonstrációs projektek támogatása során” szöveg
+i)
 
 lép.
