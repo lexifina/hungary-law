@@ -1,5 +1,3 @@
 ## 7. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
 
-28. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 5. alcíme a következő 12/A. §-sal egészül ki:
-
-„12/A. § A korlátolt felelősségű társaság és a zártkörűen működő részvénytársaság a jegyzett tőkéjének felemelése során – kivéve a zártkörűen működő társaság működési formájának megváltoztatásához kapcsolódó tőkeemelést – a pénzbeli vagyoni hozzájárulás társaság részére történő rendelkezésre bocsátásának minősül az is, ha a pénzbeli hozzájárulás teljesítését vállaló személy a befizetni vállalt pénzbeli vagyoni hozzájárulást a jegyzett tőke emeléséről hozott határozatban meghatározott feltételek szerint a társaságot terhelő fizetési kötelezettség teljesítéseként harmadik személynek fizeti meg. E rendelkezés nem alkalmazható, ha a cégjegyzék adata szerint a társaság ellen csődeljárás, felszámolási eljárás, kényszertörlési eljárás vagy végrehajtás folyik, továbbá, ha a társaságot jogerősen megszűntnek nyilvánították.”
+28. §
