@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-314-20-
 | 2017-03-21 | 2012-314-20-22.20 | 56/2017. (III. 20.) Korm. rendelet |
 | 2017-04-01 | 2012-314-20-22.21 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-05-28 | 2012-314-20-22.22 | 105/2017. (IV. 28.) Korm. rendelet |
+| 2017-06-24 | 2012-314-20-22.23 | 157/2017. (VI. 16.) Korm. rendelet |

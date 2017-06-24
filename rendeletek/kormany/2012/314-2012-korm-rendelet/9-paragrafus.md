@@ -30,8 +30,11 @@ b) eltérő területfelhasználási egységek találkozásánál az önálló ka
 
 c) vonalas szimbólummal jelzett távlati közlekedési nyomvonal területét nem kell a számításnál figyelembe venni.
 
+(9)[^33] A településszerkezeti terv részét képező biológiai aktivitásérték számítási eredményben, a biológiai aktivitásérték számítás során keletkezett növekmény mértéke rögzíthető.
+
 [^28]: A 8. § a 400/2016. (XII. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^29]: A 9. § (4) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^30]: A 9. § (5) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte.
 [^31]: A 9. § (6) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^32]: A 9. § (7a) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^33]: A 9. § (9) bekezdését a 157/2017. (VI. 16.) Korm. rendelet 12. § (2) bekezdése iktatta be.

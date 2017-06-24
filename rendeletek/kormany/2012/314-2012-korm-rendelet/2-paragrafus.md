@@ -22,7 +22,7 @@ b) legalább a sajátos használat szerint azonos, vagy a tervezett szabályozá
 
 4. kerületi építési szabályzat: a fővárosi kerületben az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító önkormányzati rendelet;
 
-4a.[^6] kiemelt fejlesztési terület: egy adott fejlesztés megvalósulását biztosító, támogatás elnyerése céljából képviselő-testületi döntésben változásra kijelölt terület;
+4a.[^6] kiemelt fejlesztési terület: egy adott fejlesztés megvalósítása céljából, képviselő-testületi döntésben változásra kijelölt terület;
 
 5. középtáv: legalább 4 legfeljebb 10 éves időtáv;
 
@@ -56,7 +56,7 @@ b) legalább a sajátos használat szerint azonos, vagy a tervezett szabályozá
 [^3]: A 2. § 1b. pontját a 400/2016. (XII. 5.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^4]: A 2. § 1c. pontját a 400/2016. (XII. 5.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^5]: A 2. § 2a. pontját a 400/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^6]: A 2. § 4a. pontját a 400/2016. (XII. 5.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^6]: A 2. § 4a. pontját a 400/2016. (XII. 5.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 157/2017. (VI. 16.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § 5a. pontját az 56/2017. (III. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^8]: A 2. § 5b. pontját az 56/2017. (III. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^9]: A 2. § 7a. pontját a 342/2014. (XII. 19.) Korm. rendelet 12. §-a iktatta be.

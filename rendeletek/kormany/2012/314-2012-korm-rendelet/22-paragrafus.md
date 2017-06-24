@@ -16,17 +16,17 @@ a) területi építészeti,
 
 b) egyedi építészeti és
 
-c)[^54] reklámokra, valamint a reklámhordozókra, reklámberendezésekre, cégérekre és reklámhordozásra alkalmas egyéb műszaki berendezésre (a továbbiakban együtt: reklámhordozók), továbbá az egyéb műszaki berendezésekre vonatkozó
+c)[^57] reklámokra, valamint a reklámhordozókra, reklámberendezésekre, cégérekre és reklámhordozásra alkalmas egyéb műszaki berendezésre (a továbbiakban együtt: reklámhordozók), továbbá az egyéb műszaki berendezésekre vonatkozó
 
 ## követelmény.
 
 (4) A helyi területi vagy egyedi védelemmel érintett területre és elemre vonatkozó (3) bekezdés b) és c) pontja szerinti településképi követelmény megengedő, tiltó vagy kötelező követelményként egyaránt meghatározható.
 
-(5)[^55] A településképi szempontból meghatározó területre vonatkozó (3) bekezdés b) pontja szerinti településképi követelmény csak megengedő vagy tiltó követelményként, a (3) bekezdés c) pontja szerinti településképi követelmény megengedő, tiltó vagy kötelező követelményként határozható meg.
+(5)[^58] A településképi szempontból meghatározó területre vonatkozó (3) bekezdés b) pontja szerinti településképi követelmény csak megengedő vagy tiltó követelményként, a (3) bekezdés c) pontja szerinti településképi követelmény megengedő, tiltó vagy kötelező követelményként határozható meg.
 
 (6) A (4) és (5) bekezdés szerinti területre és elemre – tartalmi keretet meghatározva – a területi építészeti követelmény csak kötelező követelményként határozható meg.
 
-(7)[^56] A (4)–(6) bekezdés alá nem tartozó egyéb területek esetében
+(7)[^59] A (4)–(6) bekezdés alá nem tartozó egyéb területek esetében
 
 a) egyedi építészeti követelményként csak építmény anyaghasználatára vonatkozó, tiltó építészeti követelmény,
 
@@ -40,6 +40,6 @@ c) területi építészeti követelmény
 
 (9) A településképi követelmény a helyi építési szabályzatban meghatározható helyi követelményeket, jogokat és kötelezettségeket nem tartalmazhat.
 
-[^54]: A 22. § (3) bekezdés c) pontja a 105/2017. (IV. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^55]: A 22. § (5) bekezdése a 105/2017. (IV. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^56]: A 22. § (7) bekezdése a 105/2017. (IV. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^57]: A 22. § (3) bekezdés c) pontja a 105/2017. (IV. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^58]: A 22. § (5) bekezdése a 105/2017. (IV. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^59]: A 22. § (7) bekezdése a 105/2017. (IV. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

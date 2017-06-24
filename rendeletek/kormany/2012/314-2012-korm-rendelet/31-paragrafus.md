@@ -1,3 +1,3 @@
-## 23.[^69]
+## 23.[^72]
 
-[^69]: A 23. alcímet (31. §) a 400/2016. (XII. 5.) Korm. rendelet 29. § b) pontja hatályon kívül helyezte.
+[^72]: A 23. alcímet (31. §) a 400/2016. (XII. 5.) Korm. rendelet 29. § b) pontja hatályon kívül helyezte.

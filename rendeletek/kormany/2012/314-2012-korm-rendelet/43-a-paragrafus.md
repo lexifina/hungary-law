@@ -1,4 +1,4 @@
-## 31/A. [^106] A településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának szabályai
+## 31/A. [^109] A településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának szabályai
 
 43/A. § (1) Az új kézikönyv és településképi rendelet készítése, valamint módosítása során a 28. §-t és 29. §-t, valamint a (2)–(10) bekezdést kell alkalmazni.
 
@@ -18,9 +18,9 @@ b) adatszolgáltatási kérelmet küld a 9. mellékletben szereplő azon állami
 
 a) kézikönyvet és településképi rendeletet vagy ezek módosítását – a széleskörű nyilvánosság biztosításával – partnerségi véleményezésre bocsátja a 29/A. § (2) bekezdése és (4) bekezdés a) pontja szerint,
 
-b)[^107] a kézikönyvet véleményezésre megküldi a Magyar Építész Kamarának, a Nemzeti Média- és Hírközlési Hatóságnak, a kulturális örökség védelméért felelős miniszternek és az illetékes nemzeti park igazgatóságnak,
+b)[^110] a kézikönyvet véleményezésre megküldi a Magyar Építész Kamarának, a Nemzeti Média- és Hírközlési Hatóságnak, a kulturális örökség védelméért felelős miniszternek és az illetékes nemzeti park igazgatóságnak,
 
-c)[^108] a településképi rendeletet véleményezésre megküldi az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak, a Nemzeti Média- és Hírközlési Hatóságnak, a kulturális örökség védelméért felelős miniszternek és az illetékes nemzeti park igazgatóságnak.
+c)[^111] a településképi rendeletet véleményezésre megküldi az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak, a Nemzeti Média- és Hírközlési Hatóságnak, a kulturális örökség védelméért felelős miniszternek és az illetékes nemzeti park igazgatóságnak.
 
 (7) A (6) bekezdés szerint megküldött tervezetet a (6) bekezdésben meghatározott szervek 21 napon belül véleményezik. A partnerségi véleményezésre a 29/A. § (4) bekezdés b) pont ba) alpontja az irányadó.
 
@@ -30,6 +30,6 @@ c)[^108] a településképi rendeletet véleményezésre megküldi az állami f�
 
 (10) A véleményezésre jogosult szervek véleményének digitális egyeztető felületre történő feltöltéséről a véleményező szerv gondoskodik, a feltöltésre kerülő szöveges dokumentumokat pdf vagy odt formátumban kell biztosítani.
 
-[^106]: A 31/A. alcímet (43/A–43/B. §) a 400/2016. (XII. 5.) Korm. rendelet 23. §-a iktatta be.
-[^107]: A 43/A. § b) pontja a 20/2017. (II. 2.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^108]: A 43/A. § c) pontja a 20/2017. (II. 2.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^109]: A 31/A. alcímet (43/A–43/B. §) a 400/2016. (XII. 5.) Korm. rendelet 23. §-a iktatta be.
+[^110]: A 43/A. § b) pontja a 20/2017. (II. 2.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^111]: A 43/A. § c) pontja a 20/2017. (II. 2.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
