@@ -160,7 +160,11 @@ d)
 
 21. az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti bennfentes információk közzétételével kapcsolatos részletszabályokat,
 
-22. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit
+22. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit,
+
+23. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő kötelező átvételi rendszerben és prémium típusú támogatási rendszerben kiosztható új támogatási jogosultságok maximális mértékét,
+
+24. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő prémium típusú támogatás kiosztására irányuló pályázat kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait
 
 rendeletben állapítsa meg.
 
@@ -196,4 +200,4 @@ rendeletben állapítsa meg.
 
 7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
 
-9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.
+9. az elosztó által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.

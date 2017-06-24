@@ -1,4 +1,4 @@
-72. § (1) Az átviteli rendszerirányító, az elosztó hálózati engedélyes és a szervezett villamosenergia-piac engedélyese, valamint – az (5) bekezdésben foglaltak kivételével – a villamosenergia-kereskedő és a termelői engedélyes üzletszabályzatot dolgoz ki.
+72. § (1) Az átviteli rendszerirányító, az elosztó hálózati engedélyes és a szervezett villamosenergia-piac engedélyese, valamint – az (5) bekezdésben foglaltak kivételével – a villamosenergia-kereskedő és a villamos energia termelői működési engedélyes üzletszabályzatot dolgoz ki.
 
 (1a) Az üzletszabályzat készítésére kötelezett engedélyes honlapot tart fenn.
 
@@ -10,7 +10,7 @@
 
 (4a) Az átviteli rendszerirányító üzletszabályzatának tervezetét annak az elosztók, a villamosenergia-kereskedők, valamint a termelői engedélyesek általi véleményeztetését követően a Hivatal hagyja jóvá. Az átviteli rendszerirányító üzletszabályzatának tervezetét a beérkezett véleményekkel együtt terjeszti be jóváhagyásra a Hivatalhoz.
 
-(5) A Hivatal kérelemre mentesítheti az üzletszabályzat készítésének kötelezettsége alól a jelen törvény szerint engedélyköteles termelőt és villamosenergia-kereskedőt, amennyiben kizárólag engedélyesnek, vagy egy felhasználónak értékesít villamos energiát, és a felhasználóval, vagy az engedélyessel kötött szerződés megfelel az e törvényben és a felhatalmazása alapján kiadott jogszabályokban, a villamosenergia-ellátási szabályzatokban, valamint a Hivatal határozataiban foglalt feltételeknek.
+(5) A Hivatal kérelemre mentesítheti az üzletszabályzat készítésének kötelezettsége alól a villamos energia termelői működési engedélyest vagy a villamosenergia-kereskedőt, amennyiben az kizárólag engedélyesnek vagy egyetlen felhasználónak értékesít villamos energiát, és a felhasználóval vagy az engedélyessel kötött szerződése megfelel az e törvényben, e törvény felhatalmazása alapján kiadott jogszabályokban, a villamosenergia-ellátási szabályzatokban, továbbá a Hivatal határozataiban foglalt feltételeknek.
 
 (6) Az üzletszabályzat készítése alól mentesített engedélyes az (5) bekezdésben meghatározottaktól eltérő esetben villamos energiát csak abban az esetben értékesíthet, amennyiben az általa benyújtott üzletszabályzatot az értékesítés megkezdése előtt a Hivatal jóváhagyja.
 

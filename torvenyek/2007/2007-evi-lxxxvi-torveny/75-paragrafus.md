@@ -12,7 +12,7 @@ c) a kérelemben szereplő tevékenység folyamatos, hosszú távú ellátásáh
 
 d) a kérelmező csőd- vagy felszámolási eljárás alatt áll,
 
-e) a kérelmező, vagy jogelődje 74. § (1) bekezdés b)–i) pontja szerinti engedélyét az engedély iránti kérelem benyújtásának időpontját megelőző tíz éven belül hivatalból visszavonták,
+e) a kérelmező, vagy jogelődje 74. § (1) bekezdés b)–i) pontja szerinti engedélyét az engedély iránti kérelem benyújtásának időpontját megelőző tíz éven belül a kérelmezőnek vagy jogelődjének felróható okból visszavonták,
 
 f) a kérelmező megtévesztő vagy valótlan adatot közölt.
 

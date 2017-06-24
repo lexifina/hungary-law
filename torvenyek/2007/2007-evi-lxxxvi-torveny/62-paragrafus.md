@@ -36,7 +36,7 @@ b) a módosítást az ügyfélszolgálati irodákban és a honlapján közzéten
 
 c) az érintett felhasználókat a tervezett módosítás tartalmáról, valamint a szerződés felmondásának lehetőségéről írásban értesíteni.
 
-(3) Az árváltozás felhasználóknak történő bejelentésére a 143/A. § (2)–(3) bekezdésében foglaltak irányadók az egyetemes szolgáltatásra jogosult felhasználókkal szemben, akkor is, ha nem egyetemes szolgáltatótól, hanem villamosenergia-kereskedőtől vásárolnak villamos energiát.
+(3) Az árváltozás felhasználóknak történő bejelentésére a 145. § (6) és (7) bekezdésében foglaltak irányadók az egyetemes szolgáltatásra jogosult felhasználókkal szemben, akkor is, ha nem egyetemes szolgáltatótól, hanem villamosenergia-kereskedőtől vásárolnak villamos energiát.
 
 (4) Az egyetemes szolgáltatásra jogosult felhasználó a nem határozott időtartamra kötött villamosenergia-vásárlási szerződést 30 napos felmondási idővel, írásban felmondhatja. Az egyetemes szolgáltatásra jogosult felhasználó felmondási jogát időben korlátozó vagy kizáró szerződési kikötés semmis.
 

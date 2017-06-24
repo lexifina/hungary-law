@@ -30,7 +30,7 @@ a) vagy az energiatároló cseréje az elektromos gépjármű energiatárolójá
 
 b) a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
 
-c) a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül, ha a tevékenység nem irányul haszonszerzésre,
+c) a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül vagy a vételező vételezési helyén, ha a tevékenység nem irányul haszonszerzésre,
 
 d) a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
 

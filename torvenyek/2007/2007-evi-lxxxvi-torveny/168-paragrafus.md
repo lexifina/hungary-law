@@ -36,7 +36,7 @@ i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 30 nap,
 
 j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárás során 20 nap,
 
-k) az árszabályozási ciklus indulását megelőzően lefolytatott, 141. § (10) bekezdés szerinti eszköz- és költség-felülvizsgálati eljárásban hat hónap, amely egy alkalommal, három hónappal meghosszabbítható.
+k)
 
 (4a)
 

@@ -16,7 +16,7 @@
 
 8. javaslatot tesz az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végzett szolgáltatások körére, azok külön díjaira és ezen külön díjak alkalmazásának szabályaira, valamint az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások körére, azok külön díjaira és ezen külön díjak alkalmazásának szabályaira,
 
-8a. rendeletben határozza meg az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét a külön díjak megállapításának kereteit, valamint a külön díjak alkalmazásának szabályait és a külön díjak mértékét,
+8a. rendeletben határozza meg az elosztó által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét a külön díjak megállapításának kereteit, valamint a külön díjak alkalmazásának szabályait és a külön díjak mértékét,
 
 9. dönt a közcélúvá, ezen belül átviteli vagy elosztó hálózati elemmé történő minősítésről vagy átminősítésről,
 

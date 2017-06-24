@@ -1,5 +1,0 @@
-182. § (1) A földgázellátásról szóló 2003. évi XLII. törvény 52. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Bármely engedélyes vállalkozásban történő ötszázalékos mértéket elérő, majd ezt követően minden további ötszázalékos mértéket (tíz, tizenöt, húsz százalék stb.) elérő közvetlen és közvetett befolyásszerzést a szerző fél köteles a Hivatalnak haladéktalanul bejelenteni és a Hivatal köteles a befolyásszerzés tudomásulvételét visszaigazolni. A befolyásszerzésre, annak mértékére, az összehangoltan eljáró személyekre és a bejelentés tartalmára vonatkozóan a tőkepiacról szóló 2001. évi CXX. törvény rendelkezéseit kell megfelelően alkalmazni. A szavazatok 25 százalékát, 50 százalékát, illetve 75 százalékát meghaladó befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájáruló határozata is szükséges. A cégjegyzékbe való bejegyzésre irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani.”
-
-(2) A földgázellátásról szóló 2003. évi XLII. törvény 52. § (7) bekezdése helyébe a következő rendelkezés lép:

@@ -4,7 +4,7 @@
 
 (2) Az átviteli rendszerirányító, az elosztói engedélyes, az egyetemes szolgáltató és az egyetemes szolgáltatásra jogosult felhasználókat érintően a villamosenergia-kereskedő a hálózathasználati szerződést vagy a villamosenergia-értékesítési szerződést csak az alábbi esetekben jogosult a Hivatal előzetes hozzájárulását követően egyoldalúan módosítani:
 
-a) a hálózathasználati és a villamosenergia-értékesítési szerződések vagy általános szerződési feltételekben foglalt feltételek bekövetkezése esetén azzal, hogy – a 62. § (2) bekezdésében, a 141. § (7) bekezdésében, valamint 143/A. § (2)–(3) bekezdésében, valamint a külön jogszabályban foglaltak kivételével – a módosítás nem eredményezheti a szerződés feltételeinek a felhasználók hátrányára történő lényeges módosítását;
+a) a hálózathasználati és a villamosenergia-értékesítési szerződések vagy általános szerződési feltételekben foglalt feltételek bekövetkezése esetén azzal, hogy – a 62. § (2) bekezdésében, a 141. § (7) bekezdésében, valamint 145. § (6) és (7) bekezdésében, valamint a külön jogszabályban foglaltak kivételével – a módosítás nem eredményezheti a szerződés feltételeinek a felhasználók hátrányára történő lényeges módosítását;
 
 b) jogszabályváltozás vagy a Hivatal döntése indokolja.
 

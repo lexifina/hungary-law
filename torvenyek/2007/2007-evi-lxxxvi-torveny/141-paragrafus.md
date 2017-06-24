@@ -26,7 +26,7 @@ b) a Hivatalnak megadni minden olyan tájékoztatást, amely az árfelügyeleti 
 
 c) a költség- és árbevétel-struktúra átláthatóságát nyilvántartási és elszámolási rendszerében biztosítani.
 
-(12) A 142–146/A. §-ban foglalt rendelkezések engedélyes által történő megsértése esetén a Hivatal határozattal
+(12) A (6)–(8) és (11) bekezdésben, valamint a 142–146/A. §-ban foglalt rendelkezések engedélyes által történő megsértése esetén a Hivatal határozattal
 
 a) megtiltja a jogszabályt sértő ár, illetve díj további alkalmazását és kötelezi az engedélyest a jogszerű ellenérték alkalmazására,
 

@@ -19,3 +19,5 @@
 (10) A prémium típusú támogatás elnyerésére kiírt pályázatokat a Hivatal bonyolítja le.
 
 (11) A Hivatal a kötelező átvétel vagy prémium típusú támogatás időtartamát és a támogatásra jogosult villamos energia mennyiségét megállapító határozatait a kedvezményezett kérelmére visszavonhatja.
+
+(12) Az átvételi kötelezettség alá eső villamosenergia-mennyiség és a kötelező átvételi időtartam meghatározásával, valamint a prémium típusú támogatással kapcsolatos eljárásokban a kérelmező köteles a Hivatal által a honlapján meghatározott módon kapcsolatot tartani.
