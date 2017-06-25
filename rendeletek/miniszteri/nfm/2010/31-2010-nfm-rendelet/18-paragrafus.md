@@ -4,4 +4,9 @@
 
 (2) A valamely ÁME által szabályozott műszaki szempontnak való megfelelőség vizsgálatánál az EK-hitelesítési eljárást kell alkalmazni.
 
-(3) Az egyéb műszaki szempontok vizsgálatánál a hatóság az üzembe helyezési eljárása során a 9. § (4) bekezdése és a 24. § (4) bekezdése szerint a bejelentett szervezet által igazolt előírásokat alkalmazza.
+(3)[^40] Az egyéb műszaki szempontok vizsgálatánál a hatóság az üzembe helyezési eljárása során a tanúsító szervezet által kiállított megfelelőségértékelési tanúsítás alapján jár el.
+
+(4)[^41] A 9. § (4) bekezdése és a 24. § (4) bekezdése szerinti eljárások esetén az egyéb műszaki szempontok vizsgálatánál a hatóság a bejelentett szervezet által igazolt előírásokat alkalmazza.
+
+[^40]: A 18. § (3) bekezdése a 20/2017. (VI. 22.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^41]: A 18. § (4) bekezdését a 20/2017. (VI. 22.) NFM rendelet 4. § (2) bekezdése iktatta be.

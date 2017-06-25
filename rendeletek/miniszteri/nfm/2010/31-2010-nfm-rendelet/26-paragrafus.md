@@ -1,4 +1,4 @@
-## 14. [^54] A vasúti járművek időszakos és rendkívüli vizsgálata
+## 14. [^56] A vasúti járművek időszakos és rendkívüli vizsgálata
 
 26. § (1) Az üzembentartó a magyar pályaszámú vasúti jármű időszakos vizsgálatát az üzembehelyezést követően
 
@@ -18,4 +18,4 @@ elvégezteti.
 
 (6) Az időszakos és rendkívüli vizsgálat során a vizsgálattal megbízott szervezet a 8. melléklet szerinti vizsgálati módszereket alkalmazza.
 
-[^54]: A 14. alcím (26–27/A. §) a 23/2016. (VII. 18.) NFM rendelet 7. §-ával megállapított szöveg.
+[^56]: A 14. alcím (26–27/A. §) a 23/2016. (VII. 18.) NFM rendelet 7. §-ával megállapított szöveg.
