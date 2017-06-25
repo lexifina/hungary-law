@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-39-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-03-08 | 2017-39-20-22.1 | 39/2017. (III. 7.) Korm. rendelet |
+| 2017-06-25 | 2017-39-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
