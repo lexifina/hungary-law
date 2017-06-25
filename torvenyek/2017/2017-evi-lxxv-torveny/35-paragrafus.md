@@ -4,6 +4,6 @@
 
 a)
 
-b) 41. § (1) bekezdés a) pontjában a „hoz be,” szövegrész helyébe a „hoz be, használ fel” szöveg
+b)
 
 lép.
