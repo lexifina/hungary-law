@@ -24,6 +24,8 @@
 
 (12) Az állami adóhatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
 
+(13) A 29/H. § (2)–(3) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
+
 5. CÍM
 
 Távszerencsejáték
