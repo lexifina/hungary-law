@@ -1,0 +1,1 @@
+24. § A 22. § és a 23. § rendelkezéseit nem kell alkalmazni a szerződéses jogviszonyon alapuló kiszervezésre és az ügynöki tevékenységre. A 7–10. §-ban meghatározott ügyfél-átvilágítás eredményének rendelkezésre bocsátása és elfogadása vonatkozásában a kiszervezett tevékenységet végző, illetve az ügynök a szolgáltató részének minősül.

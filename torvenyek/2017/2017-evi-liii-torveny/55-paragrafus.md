@@ -1,0 +1,1 @@
+55. § Az 54. §-ban rögzített korlátozás hatálya kiterjed az ügyfélnek a 7–11. § alapján rögzített személyes adataihoz való hozzáférésére, személyes adatai kezelésével kapcsolatos tájékoztatás iránti kérelmének adatkezelő általi teljesítésére is.

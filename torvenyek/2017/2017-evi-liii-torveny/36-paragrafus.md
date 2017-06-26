@@ -1,0 +1,1 @@
+36. § A szolgáltatót és a pénzügyi információs egységet – jóhiszeműsége esetén – akkor sem terheli polgári jogi vagy büntetőjogi felelősség az ügyletek teljesítésének 34. § (1) bekezdés, illetve 35. § (1) bekezdés szerinti felfüggesztéséért, ha az utóbb – a 34. § (4) bekezdése alapján – teljesíthető.

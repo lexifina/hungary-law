@@ -1,0 +1,5 @@
+74. § (1) A bejelentést az ügyvéd és a közjegyző a területi kamaránál köteles teljesíteni. Az ügyvéd és a közjegyző alkalmazottja – ideértve az alkalmazott ügyvédet is – a bejelentést a munkáltatói jogokat gyakorló ügyvédnél vagy közjegyzőnél teszi meg. A munkáltatói jogokat gyakorló ügyvéd vagy közjegyző a bejelentést haladéktalanul továbbítja a területi kamarának. Az ügyvédi iroda alkalmazottja a taggyűlés által kijelölt személynek tesz bejelentést, aki a bejelentést haladéktalanul továbbítja annak a kamarának, amely az irodát nyilvántartásba vette.
+
+(2) A területi ügyvédi, közjegyzői kamarák elnöke kijelöli azt a személyt, aki az (1) bekezdésben meghatározott személyektől érkezett bejelentést a pénzügyi információs egységnek haladéktalanul továbbítja. A kijelölt személyről és a személyében bekövetkezett változásról a területi ügyvédi, közjegyzői kamara haladéktalanul köteles tájékoztatást küldeni a pénzügyi információs egység részére.
+
+(3) Az ügyvédi iroda esetében a taggyűlés dönthet arról, hogy a 30. § (1) bekezdésében, a 63. §-ban és a 64. §-ban meghatározott kötelezettségeket az iroda vagy a tagok teljesítsék.

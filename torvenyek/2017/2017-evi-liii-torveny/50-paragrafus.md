@@ -1,0 +1,5 @@
+50. § (1) A pénzügyi információs egység elemző-értékelő tevékenysége keretében a 49. §-nak megfelelően megkeresést küldhet külföldi pénzügyi információs egységnek, valamint az Europolnak.
+
+(2) A megkeresés minden olyan, a pénzmosás vagy a terrorizmus finanszírozása elleni küzdelem szempontjából lényeges tényt, információt – az azokkal összefüggő természetes és jogi személlyel, illetve jogi személyiséggel nem rendelkező szervezettel kapcsolatos adatot – tartalmaz, amely a külföldi pénzügyi információs egység tevékenységéhez, illetve a megkeresés eredményes megválaszolásához feltétlenül szükséges. A megkeresésben meg kell jelölni annak indokát, valamint a kért információk felhasználásának módját.
+
+(3) Amennyiben a pénzügyi információs egység olyan szolgáltatónak küldene megkeresést a 42. § alapján, amely Magyarország területén szolgáltatást nyújt, de Magyarországon székhellyel, telephellyel vagy fiókteleppel nem rendelkezik, akkor a pénzügyi információs egység a megkeresést azon tagállam pénzügyi információs egységéhez küldi meg, ahol a szolgáltató székhellyel, telephellyel vagy fiókteleppel rendelkezik.

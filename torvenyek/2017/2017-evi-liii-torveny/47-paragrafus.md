@@ -1,0 +1,1 @@
+47. § A pénzügyi információs egység a 42–44. § és a 46. § alapján tudomására jutott adatot, titkot csak a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott célokból, a 39. §-ban meghatározott operatív elemzésének ellátása érdekében használhatja fel.

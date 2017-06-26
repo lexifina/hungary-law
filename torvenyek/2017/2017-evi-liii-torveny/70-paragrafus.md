@@ -1,0 +1,1 @@
+70. § Az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenység gyakorlása során szorosan együttműködnek egymással, a pénzügyi információs egységgel, a nyomozó hatósággal, az ügyészséggel és a bírósággal, valamint a más tagállambeli vagy harmadik országbeli felügyeletet ellátó szervekkel.

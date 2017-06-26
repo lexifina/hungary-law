@@ -1,0 +1,1 @@
+29. § A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) tájékoztatja a Bizottságot és a tagállamokat a koordinált nemzeti kockázatértékelés eredményeiről.
