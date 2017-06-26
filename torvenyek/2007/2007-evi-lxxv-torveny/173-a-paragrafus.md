@@ -4,9 +4,11 @@
 
 (2) A bizottság ellenőrzi a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek
 
-a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, valamint
+a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben,
 
-b) a törvényben foglaltak végrehajtására a kamarai tag könyvvizsgálók, könyvvizsgáló cégek által készített szabályzatban
+b) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint
+
+c) az a) és b) pont szerinti törvények végrehajtására a kamara által kiadott útmutatóban
 
 foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőrzés).
 
@@ -14,18 +16,14 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A bizottság a vizsgálat befejezéséről határozattal dönt.
 
-(5) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég teljesítette a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az annak végrehajtására kiadott szabályzatban foglalt kötelezettségeit, a bizottság a határozatában az ellenőrzést megszünteti.
+(5)
 
-(6) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég megszegte a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben vagy az annak végrehajtására kiadott szabályzatban foglalt kötelezettségeit, a bizottság a határozatában
-
-a) felhívja a kamarai tag könyvvizsgáló, a könyvvizsgáló cég figyelmét a jogszabályoknak és a szabályzatnak megfelelő eljárásra, az elmulasztott intézkedések megtételére,
-
-b) fegyelmi vétség elkövetésének alapos gyanúja esetén fegyelmi eljárás elrendelésére tesz javaslatot a kamara elnökének.
+(6) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég megszegte a (2) bekezdés szerinti törvényekben vagy az annak végrehajtására kiadott útmutatóban foglalt kötelezettségeit, a bizottság a (2) bekezdés szerinti törvényekben foglalt intézkedések alkalmazásáról dönt. Ha a bizottság intézkedésként eltiltást alkalmaz, az eltiltás időtartama 3 évig terjedhet.
 
 (7)
 
 (8) A kamara a határozatában foglaltak teljesítését e § rendelkezései szerint ellenőrizheti.
 
-(9) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég köteles az ellenőrzés lefolytatását elősegíteni, a kamara felhívásaiban, határozataiban foglaltakat teljesíteni, az ellenőrzés lefolytatását lehetővé tenni.
+(9)
 
 (10) A közfelügyeleti hatóság e törvényben foglalt feladatainak ellátása során a pénzmosás és terrorizmus finanszírozása megelőzésének és megakadályozásának érdekében együttműködik a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatósággal.

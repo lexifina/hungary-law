@@ -14,6 +14,6 @@ f) a szakmai továbbképzési rendszerről,
 
 g) a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékébe történő felvételről és a jegyzékből történő törlésről,
 
-h) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására szolgáló könyvvizsgálói tevékenység kamarai ellenőrzéséről,
+h) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására szolgáló könyvvizsgálói tevékenység kamarai ellenőrzéséről,
 
 i) minden olyan esetben, amikor a kamara alapszabálya azt előírja.

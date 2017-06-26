@@ -55,3 +55,5 @@ j) figyelemmel kíséri a könyvvizsgálók, a könyvvizsgáló cégek szakmai t
 k) a könyvvizsgálók érdekeit érintő intézkedésekről, a szabályok változásairól, a szakmai állásfoglalásokról, a szakmai tevékenységgel összefüggő fejleményekről folyamatosan tájékozódik, és tapasztalatait rendszeresen rendelkezésre bocsátja.
 
 (7) A kamara gondoskodik arról, hogy az e törvény alapján megalkotott szabályzatai folyamatosan és bárki számára szabadon hozzáférhetőek legyenek a honlapján.
+
+(8) A kamara felügyeletet ellátó szervként a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők részére kiadja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti, kötelező jellegű útmutatót. Az útmutató részét képező egységes szabályzatot a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők az előző törvények szerinti belső szabályzatként fogadhatják el.

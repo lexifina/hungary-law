@@ -24,6 +24,6 @@ j) okleveles könyvvizsgálói képzés szervezésének, folytatásának engedé
 
 k) kamarai minőségellenőrzés lefolytatása
 
-l) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti, a kamarai tag könyvvizsgálóra, könyvvizsgáló cégre vonatkozó felügyeleti tevékenység gyakorlása
+l) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti, a kamarai tag könyvvizsgálóra, könyvvizsgáló cégre vonatkozó felügyeleti tevékenység gyakorlása
 
 [az a)–l) pontokban írtak a továbbiakban együtt: kamarai hatósági eljárás.]

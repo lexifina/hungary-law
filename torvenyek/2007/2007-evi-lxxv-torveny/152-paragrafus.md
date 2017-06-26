@@ -18,7 +18,7 @@ h) kezdeményezi és alkalmazza az e törvényben meghatározott intézkedéseke
 
 i) a lefolytatott kamarai minőségellenőrzés kapcsán határozatot hoz,
 
-j) lefolytatja a pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzését szolgáló vizsgálatot, és első fokon határoz a vizsgálat befejezéséről.
+j) lefolytatja a pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásának ellenőrzését szolgáló vizsgálatot, és első fokon határoz a vizsgálat befejezéséről.
 
 (2) A bizottság az (1) bekezdésben foglaltakon túlmenően ellátja mindazokat a feladatokat, amelyeket e törvény, a kamara alapszabálya és önkormányzati szabályzatai a feladatkörébe utalnak.
 
