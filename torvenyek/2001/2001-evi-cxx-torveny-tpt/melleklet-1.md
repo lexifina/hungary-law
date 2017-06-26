@@ -30,7 +30,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 14. MNBtv.: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény.
 
-15. Pmt.: a pénzmosás megelőzéséről és megakadályozásáról szóló törvény,
+15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény,
 
 16.
 

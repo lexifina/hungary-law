@@ -22,7 +22,7 @@ i) a székhely szerinti felügyeleti hatóság nyilatkozatát arról, hogy a nem
 
 a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a külföldi kérelmező székhelye szerinti felügyeleti hatóságok között;
 
-b) a külföldi kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal;
+b) a külföldi kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal;
 
 c) a külföldi kérelmező rendelkezik az e törvényben meghatározott szabályzatokkal;
 
