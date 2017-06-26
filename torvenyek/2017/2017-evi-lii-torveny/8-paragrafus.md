@@ -1,0 +1,1 @@
+8. § Ha a vagyoni nyilvántartást vezető szerv a hatóság 5. § szerinti értesítése alapján a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó vagyont érintő korlátozás tényének vagyoni nyilvántartásban történő rögzítéséről dönt, arról három munkanapon belül értesíti a hatóságot, továbbá az adópolitikáért felelős minisztert.

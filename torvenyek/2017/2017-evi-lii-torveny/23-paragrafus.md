@@ -1,0 +1,1 @@
+23. § A 9. § (4) bekezdésében és 13. § (5) bekezdésében az „a közigazgatási hatósági eljárásról szóló törvény” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvény” szöveg lép.
