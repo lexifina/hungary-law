@@ -10,7 +10,9 @@ c) a Felügyelet felé fennálló adatszolgáltatási kötelezettség teljesít�
 
 d) a biztosításközvetítői tevékenység irányításáért felelős természetes személy foglalkoztatásának igazolását,
 
-e) a tevékenységével kapcsolatban okozott károk fedezetére szolgáló felelősségbiztosítási szerződés megkötésének vagy a vagyoni biztosíték meglétének igazolását.
+e) a tevékenységével kapcsolatban okozott károk fedezetére szolgáló felelősségbiztosítási szerződés megkötésének vagy a vagyoni biztosíték meglétének igazolását,
+
+f) – az életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenység tekintetében – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti belső szabályzatot.
 
 (2)
 

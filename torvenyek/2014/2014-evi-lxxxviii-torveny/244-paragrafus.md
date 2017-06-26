@@ -28,11 +28,13 @@ fd) nyilatkozatot arról, hogy az adatvédelmet szolgáló (kézi és gépi) ira
 
 fe) a megbízható és körültekintő működésnek megfelelő belső szabályozás rendjének leírását, a belső szabályozások felsorolását,
 
-ff) a pénzmosás megelőzéséről és megakadályozásáról szóló törvény szerinti pénzmosási szabályzatot;
+ff)
 
 g) a nyilatkozatot arra vonatkozóan, hogy tevékenységét mikor kívánja megkezdeni;
 
 h) a kötelező gépjármű-felelősségbiztosításra is kiterjedő engedélykérelem esetén valamennyi tagállamban működő kárrendezési megbízott megbízásának igazolását, a kárrendezési megbízott nevét és címét.
+
+(1a) Az (1) bekezdésben foglaltakon túl az életbiztosítási ágba tartozó tevékenység megkezdésére vonatkozó engedély iránti kérelemhez – tárgyi feltételként – mellékelni kell a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti belső szabályzatot is.
 
 (2) A hatodik rész hatálya alá tartozó kisbiztosító esetén biztosítási tevékenység megkezdésére vonatkozó engedély iránti kérelemhez mellékelni kell:
 

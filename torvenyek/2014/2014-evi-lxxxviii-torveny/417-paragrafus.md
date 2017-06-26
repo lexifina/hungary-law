@@ -10,7 +10,7 @@ b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról
 
 a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló – fióktelepekkel összefüggő kérdésekre is kiterjedő – nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező biztosításközvetítő székhelye szerinti államban a felügyeleti hatóság(ok) között,
 
-b) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal,
+b) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó jogszabályi előírásokkal,
 
 c) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
 
