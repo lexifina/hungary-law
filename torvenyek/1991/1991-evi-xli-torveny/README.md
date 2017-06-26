@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-41-00-00
 | 2015-12-23 | 2015. évi CCXVIII. törvény | 1991-41-00-00.42 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 1991-41-00-00.43 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 1991-41-00-00.44 |
+| 2017-06-26 | 2017. évi LIII. törvény | 1991-41-00-00.45 |
