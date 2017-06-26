@@ -38,7 +38,7 @@ m) a foglalkoztatói nyugdíjszolgáltató intézmény likviditását, fizetők�
 
 n) a kérelmező arra vonatkozó nyilatkozatát, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közölt a Felügyelettel,
 
-o) a pénzmosás megelőzéséről és megakadályozásáról szóló 2003. évi XV. törvény 11. § (3) bekezdése szerinti belső szabályzatot,
+o) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatokat és eljárásrendeket,
 
 p) a tervezett működési terület meghatározását tartalmazó dokumentumot,
 
