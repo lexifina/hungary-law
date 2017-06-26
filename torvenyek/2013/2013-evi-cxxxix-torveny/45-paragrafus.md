@@ -8,7 +8,7 @@
 
 45. § Az MNB hatóságként jár el
 
-a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti folyamatos felügyelet gyakorlása,
+a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (1) és (3) bekezdésében meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti folyamatos felügyelet gyakorlása,
 
 b) a 4. § (8) bekezdésében meghatározott feladatkörében a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti jogosultság gyakorlása során,
 

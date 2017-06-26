@@ -46,4 +46,4 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (2) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló törvény hatálya alá tartozó tevékenysége tekintetében.
 
-(3) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a Pmt.-ben meghatározott felügyeleti feladatokat.
+(3) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében látja el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdés a)–e) és m) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a Pmt.-ben, továbbá az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvényben meghatározott felügyeleti feladatokat.

@@ -82,7 +82,7 @@ ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokr
 
 af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
 
-ag) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+ag) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
 ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
 
@@ -100,7 +100,7 @@ be) a Hpt. 175. § (5) bekezdése szerinti megállapodásról, ha a megállapod�
 
 bf) a Hpt. 167. § (4) és (5) bekezdése szerinti értékeléséről,
 
-bg) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
+bg) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
 
 bh) azon hatóságok nevéről, amelyek a Hpt. 159. § (3) bekezdés b) pontja szerinti üzleti titok és 161. § (2) bekezdés c) pontja szerinti banktitok alóli mentesítés keretében információt kaptak,
 
@@ -144,7 +144,7 @@ bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolato
 
 c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 
-ca) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+ca) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
 cb) a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
 
