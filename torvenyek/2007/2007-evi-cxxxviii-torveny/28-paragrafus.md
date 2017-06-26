@@ -28,7 +28,7 @@ m) az e törvényben meghatározott szervezeti feltételek teljesülését igazo
 
 n) az e törvényben és külön jogszabályban meghatározott személyi feltételek teljesülését igazoló okiratok másolatát,
 
-o) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás megelőzését szolgáló szabályzat, a pénz- és értékkezelési szabályzat, továbbá a végrehajtási politika, valamint az összeférhetetlenségi politika tervezetét,
+o) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatok és eljárásrendek, a pénz- és értékkezelési szabályzat, továbbá a végrehajtási politika, valamint az összeférhetetlenségi politika tervezetét,
 
 p)
 

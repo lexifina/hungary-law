@@ -28,7 +28,7 @@
 
 14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 
-15. Pmtv.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény,
+15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény,
 
 16. Ptk.: a Polgári Törvénykönyvről szóló törvény,
 

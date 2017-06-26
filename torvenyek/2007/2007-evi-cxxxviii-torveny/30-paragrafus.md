@@ -12,7 +12,7 @@ d) a kérelmező megtévesztő vagy valótlan adatot közölt.
 
 a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Felügyelet és a kérelmező szolgáltató székhelye szerinti felügyeleti hatóság között,
 
-b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal,
+b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal,
 
 c) a kérelmező nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 

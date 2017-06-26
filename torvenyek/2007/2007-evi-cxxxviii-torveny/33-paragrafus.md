@@ -14,7 +14,7 @@ f) az üzleti nyilvántartásra vonatkozó szabályzat tervezetét,
 
 g) az ellenőrzési rendjére vonatkozó szabályzat tervezetét, amely tartalmazza az ellenőrzési szervezetet és folyamatot, valamint a folyamatba épített utólagos vezetői ellenőrzésre vonatkozó előírásokat is,
 
-h) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás megelőzését szolgáló szabályzat, az iratkezelési szabályzat, a belső ellenőrzési szabályzat, és az ügyviteli szabályzat tervezetét,
+h) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatok és eljárásrendek, az iratkezelési szabályzat, a belső ellenőrzési szabályzat, és az ügyviteli szabályzat tervezetét,
 
 i) a személyi feltételek teljesülését igazoló okiratok másolatát,
 
