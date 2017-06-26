@@ -1,1 +1,0 @@
-20. § A 18. § (1)–(4) bekezdésében meghatározott esetekben a 7–9. §-okban meghatározott követelmények teljesítése vonatkozásában a felelősség a más szolgáltató által elvégzett ügyfél-átvilágítás eredményét elfogadó szolgáltatót terheli.

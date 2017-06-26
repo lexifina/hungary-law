@@ -1,1 +1,0 @@
-21. § A 18–20. § nem alkalmazandó a szerződéses jogviszonyon alapuló kiszervezésre és az ügynöki tevékenységre. Ebben az esetben a kiszervezett tevékenységet végző, illetve az ügynök a szolgáltató részének minősül.
