@@ -22,7 +22,7 @@ a) többes kiemelt közvetítőnél és többes ügynöknél mindenkor legalább
 
 b) alkusznál mindenkor legalább káreseményenként tízmillió forint, illetve évente együttesen legalább százmillió forint.
 
-(5) A (3) bekezdésben meghatározottakon kívül a többes kiemelt közvetítő és az alkusz rendelkezik a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzattal és eljárásrenddel.
+(5) A (3) bekezdésben meghatározottakon kívül a többes kiemelt közvetítő és az alkusz rendelkezik a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzattal és eljárásrenddel.
 
 (6) A (3) bekezdés a) pont ac) alpontja alkalmazása szempontjából szakirányú szakmai gyakorlatként pénzügyi intézménynél, közvetítőnél tisztségviselőként vagy pénzügyi szolgáltatási, közvetítői szakterületen alkalmazottként, egyéni vállalkozóként vagy munkavégzésre irányuló egyéb jogviszonyban eltöltött gyakorlat vehető figyelembe. Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha megszerzésére pénzügyi intézménynek, illetve közvetítőnek megfeleltethető intézménynél került sor.
 
@@ -46,6 +46,6 @@ h) a teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatk
 
 i) a panaszkezelési szabályzatát.
 
-(8) Ha a kérelmező többes kiemelt közvetítőként kíván működni, a (7) bekezdésben meghatározottakon kívül a kérelemben igazolja az induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékeli a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzatát és eljárásrendjét.
+(8) Ha a kérelmező többes kiemelt közvetítőként kíván működni, a (7) bekezdésben meghatározottakon kívül a kérelemben igazolja az induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékeli a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatát és eljárásrendjét.
 
 (9) Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatot nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.

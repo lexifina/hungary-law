@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2016-11-26 | 2016. évi CXXI. törvény | 2013-237-00-00.32 |
 | 2016-12-28 | 2016. évi CLXXXII. törvény | 2013-237-00-00.33 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 2013-237-00-00.34 |
+| 2017-06-26 | 2017. évi LII. törvény | 2013-237-00-00.35 |
