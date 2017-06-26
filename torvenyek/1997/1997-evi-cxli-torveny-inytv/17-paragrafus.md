@@ -74,7 +74,7 @@ megindítása,
 
 19. árverés vagy nyilvános pályázat kitűzése,
 
-20. a zárlat, a zár alá vétel, a zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
+20. a zárlat, a zár alá vétel, a zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
 
 21. a tulajdonjog fenntartással történt eladás,
 
