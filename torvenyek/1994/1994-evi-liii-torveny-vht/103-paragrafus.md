@@ -20,7 +20,7 @@ c) a jármű
 
 ca) hatósági jelzése, alvázszáma és műszaki adatai (a jármű fajtája, gyártmánya, típusa, gyártási éve, színe és az első magyarországi forgalomba helyezés időpontja),
 
-cb) tulajdonoshoz kötött forgalmazási korlátozásra vonatkozó adatok, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
+cb) tulajdonoshoz kötött forgalmazási korlátozásra vonatkozó adatok, ideértve az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 
 d) a járműokmányok okmányazonosító jelére, kiadására, érvényességére, cseréjére és visszavonására vonatkozó adatok,
 

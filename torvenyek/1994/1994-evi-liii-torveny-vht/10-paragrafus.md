@@ -18,6 +18,6 @@ e) a bíróság bűnügyi költségről, elővezetési és kísérési költség
 
 f) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az információs rendszerben tárolt adatok megőrzésére kötelezésről szóló határozat,
 
-g) az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
+g) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
 
 h) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.

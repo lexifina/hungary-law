@@ -1,6 +1,6 @@
-## Zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására
+## Zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására
 
-204/A. § (1) Ha az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására a bíróság zárlatot rendelt el, ennek végrehajtása a bírósági végrehajtó hatáskörébe tartozik.
+204/A. § (1) Ha az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására a bíróság zárlatot rendelt el, ennek végrehajtása a bírósági végrehajtó hatáskörébe tartozik.
 
 (2) A zárlat végrehajtása során az e §-ban nem szabályozott kérdésekben a vagyonelkobzás biztosítására elrendelt bűnügyi zárlat szabályai szerint kell eljárni azzal, hogy
 

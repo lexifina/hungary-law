@@ -13,5 +13,3 @@ d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedel
 e) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-(2) E törvény
