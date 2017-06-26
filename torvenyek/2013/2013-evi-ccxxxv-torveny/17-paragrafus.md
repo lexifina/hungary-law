@@ -12,7 +12,7 @@ e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének l
 
 f) a kérelmező könyvvizsgálójának megnevezését,
 
-g) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályzatokat, eljárásrendeket,
+g) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatokat, eljárásrendeket,
 
 h) a kérelmező szervezeti felépítésének és felelősségi köreinek bemutatását, szervezeti és működési szabályzatát, valamint az általános szerződési feltételeit tartalmazó szabályzatait,
 

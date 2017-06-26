@@ -10,7 +10,7 @@ b) annak igazolását, hogy a pénzforgalmi közvetítő rendelkezik a pénzügy
 
 c) a megbízási szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet és a megbízó korlátozás nélkül ellenőrizheti a pénzforgalmi közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket,
 
-d) a pénzforgalmi közvetítő – ha a pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírások szerinti egyszerűsített ügyfél-átvilágítás alkalmazására nem jogosult – a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályzatait, eljárásrendjét,
+d) a pénzforgalmi közvetítőnek a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatait, eljárásrendjét,
 
 e) a pénzforgalmi közvetítő harminc napnál nem régebbi okirati igazolását arról, hogy személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, egészségbiztosítási szervvel, nyugdíj-biztosítási igazgatási szervvel szemben nincs tartozása azzal, hogy az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban,
 
