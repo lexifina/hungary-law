@@ -1,1 +1,0 @@
-A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 43. § (2) bekezdésében meghatározott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában meghatározott feladatkörömben a következőket rendelem el:
