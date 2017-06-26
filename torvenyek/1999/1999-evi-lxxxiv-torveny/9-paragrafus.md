@@ -24,7 +24,7 @@ a) azonosító és műszaki adatait, a műszaki érvényesség időtartamának v
 
 b) forgalomban tarthatóságának feltételeit,
 
-c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
+c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 
 d) a járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására,
 
