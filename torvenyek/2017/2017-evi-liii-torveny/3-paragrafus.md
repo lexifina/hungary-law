@@ -94,7 +94,7 @@ k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevé
 
 l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében,
 
-m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében;
+m)
 
 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 
