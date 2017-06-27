@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Egészségügyi Világszervezet közötti, szakmai tanácsadási együttműködési kapcsolatok létrehozására irányuló Alapmegállapodás (a továbbiakban: Alapmegállapodás) kötelező hatályának elismerésére.
