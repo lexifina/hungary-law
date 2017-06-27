@@ -24,4 +24,6 @@ b) az egyesület képviselőjének anyja születési nevét,
 
 c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát,
 
-d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját.
+d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
+
+e) azt a tényt, hogy a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény szerinti külföldről támogatott szervezetnek minősül.
