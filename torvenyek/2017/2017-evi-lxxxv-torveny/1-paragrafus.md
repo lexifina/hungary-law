@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Egészségügyi Világszervezet közötti, az Egészségügyi Világszervezet Európai Regionális Bizottságának 2017. szeptember 11–14. között Budapesten, Magyarországon tartandó 67. ülésszakának megszervezéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
