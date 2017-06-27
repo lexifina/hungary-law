@@ -1,4 +1,4 @@
-## 2/A. §[^4] A Kormány a Tv. III., VII–IX. Fejezete szerinti eljárásokban – annak megállapítása érdekében, hogy a Tv. hatálya alá tartozó személynek Magyarország területén való tartózkodása veszélyezteti-e a nemzetbiztonságot – szakhatóságként az Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot (a továbbiakban: szakhatóság) jelöli ki.
+## [a továbbiakban a) és b) pont együtt: szakhatóság] jelöli ki.
 
 ## A különleges bánásmódot igénylő személyre vonatkozó szabályok alkalmazása
 
@@ -9,5 +9,3 @@
 (3) A menekültügyi hatóság köteles az elismerését kérőt, a menekültet, az oltalmazottat, valamint a menedékest – az anyanyelvén vagy az általa értett más nyelven – közérthető módon tájékoztatni a szakértő által elvégzendő vizsgálatról, a szakértői vizsgálat eredményének jelentőségéről, továbbá a vizsgálat elvégzéséhez való hozzájárulás megtagadásának – a (4) bekezdésben meghatározott – következményeiről.
 
 (4) Ha az elismerését kérő, a menekült, az oltalmazott vagy a menedékes a szakértői vizsgálathoz nem járul hozzá, rá nézve a különleges bánásmódot igénylő személyre vonatkozó rendelkezések nem alkalmazhatók.
-
-[^4]: A 2/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 78. §-a iktatta be, szövege a 276/2011. (XII. 20.) Korm. rendelet 13. § (1) és (4) bekezdése szerint módosított szöveg.

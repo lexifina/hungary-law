@@ -1,3 +1,5 @@
+## 43. §[^120]
+
 ## Egészségügyi ellátás
 
 44. §[^121] (1) Ha a menekült vagy az oltalmazott nem áll társadalombiztosítási jogviszonyban, az elismerésről szóló határozat jogerőre emelkedésétől számított hat hónapig egészségügyi ellátásra a 26–28. §-ban foglaltak szerint jogosult.
@@ -14,4 +16,5 @@
 
 (7) A befogadott esetében a háziorvosi ellátás és egészségügyi szakellátás igénybevételére egyebekben a 27. § (1), (2) és (4) bekezdése, míg a költségek megtérítésére a 28. § az irányadó.
 
+[^120]: A 43. §-t és az azt megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés e) pontja hatályon kívül helyezte.
 [^121]: A 44. § a 113/2016. (V. 30.) Korm. rendelet 73. §-ával megállapított szöveg.

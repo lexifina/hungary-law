@@ -24,7 +24,7 @@ j) telefon- és internethasználati lehetőség, továbbá
 
 k) az elismerését kérő és a személyzet elhelyezésére szolgáló helyiségekben, az orvosi szobában, a látogatók fogadására szolgáló helyiségekben, az élelmezést ellátó helyiségekben, valamint a közösségi célú helyiségekben ablak és természetes szellőzés
 
-biztosítható.
+## biztosítható.
 
 (2) Az őrizet végrehajtására szolgáló létesítmény rendőrségi fogda vagy büntetés-végrehajtási intézet területén nem létesíthető.
 

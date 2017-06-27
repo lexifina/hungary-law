@@ -1,8 +1,5 @@
-## 79. §[^194] A menekültügyi hatóság a kiutasítás, kitoloncolás valamint a beutazási és tartózkodási tilalom elrendelése során a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet szabályainak megfelelő alkalmazásával jár el.
+## 79. §[^177] A menekültügyi hatóság a kiutasítás, kitoloncolás valamint a beutazási és tartózkodási tilalom elrendelése során a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet szabályainak megfelelő alkalmazásával jár el.
 
 ## A visszaküldés tilalmának vizsgálata
 
-80. §[^195]
-
-[^194]: A 79. §-t a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte, újonnan a 204/2015. (VII. 23.) Korm. rendelet 22. §-a iktatta be.
-[^195]: A 80. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^177]: A 79. §-t a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte, újonnan a 204/2015. (VII. 23.) Korm. rendelet 22. §-a iktatta be.
