@@ -2,9 +2,9 @@
 
 2. § (1)[^9] A bírság mértéke – a (2)–(3) bekezdés szerinti eltérésre tekintettel – az 1. mellékletben foglalt
 
-a)[^10] táblázat 3. és 4. pontjában meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § a) pontja szerint számított érték 50 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
+a)[^10] táblázat 3., 4. és 4a. pontjában meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § a) pontja szerint számított érték 50 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
 
-b)[^11] táblázat 4a. és 5. pontjában a tervezőre vonatkozóan meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § b) pontja szerinti tervezési díj vagy számított tervezési érték 5 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
+b)[^11] táblázat 4b. és 5. pontjában a tervezőre vonatkozóan meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § b) pontja szerinti tervezési díj vagy számított tervezési érték 5 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
 
 c)[^12] táblázat 6–13. pontjában az építtetőre, az építési műszaki ellenőrre, a fővállalkozó kivitelezőre és a felelős műszaki vezetőjére meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § c) pontja szerint számított érték 20 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
 
@@ -42,13 +42,13 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 
 (7)[^20] A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb harminc napra.
 
-(8)[^21] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által jogerősen megállapított bírságot a Magyar Államkincstár által vezetett építésügyi és építésfelügyeleti bírság bevételek beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
+(8)[^21] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által jogerősen megállapított bírságot a Magyar Államkincstár által vezetett 10032000-01040281-00000000 számú Miniszterelnökség fejezeti építésügyi és építésfelügyeleti bírság bevételek beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
 
 (9)[^22] A sajátos építményfajták körében, a (8) bekezdésben meghatározottól eltérő építésfelügyeleti hatóság által jogerősen kiszabott bírságot a sajátos építményfajta tekintetében feladatkörrel rendelkező miniszter által meghatározott előirányzat számlájára kell befizetni.
 
 [^9]: A 2. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § (1) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
-[^11]: A 2. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § g) pontja, a 482/2016. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § f) pontja, a 144/2017. (VI. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § g) pontja, a 144/2017. (VI. 12.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^12]: A 2. § (1) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
 [^13]: A 2. § (1) bekezdés d) pontja a 156/2016. (VI. 13.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
 [^14]: A 2. § (1) bekezdés e) pontja a 266/2013. (VII. 11.) Korm. rendelet 49. § (1) bekezdése, a 156/2016. (VI. 13.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
@@ -58,5 +58,5 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 [^18]: A 2. § (3a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^19]: A 2. § (4) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^20]: A 2. § (7) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^21]: A 2. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be, szövege a 499/2016. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^21]: A 2. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be, szövege a 499/2016. (XII. 28.) Korm. rendelet 25. §-a, a 144/2017. (VI. 12.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^22]: A 2. § (9) bekezdését újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.
