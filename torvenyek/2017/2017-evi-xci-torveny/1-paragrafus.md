@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az országonkénti jelentések cseréjéről szóló illetékes hatóságok közötti multilaterális Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére az 1. mellékletben meghatározott államok viszonylatában.
