@@ -2,7 +2,7 @@ A 2014–2020 programozási időszakban az egyes európai uniós alapokból szá
 
 1. dr. Rétvári Bencét, az Emberi Erőforrások Minisztériuma parlamenti államtitkárát az Emberi Erőforrás Fejlesztési Operatív Program monitoring bizottsága,
 
-2. Tasó Lászlót, a Nemzeti Fejlesztési Minisztérium közlekedéspolitikáért felelős államtitkárát az Integrált Közlekedésfejlesztési Operatív Program monitoring bizottsága,
+2.[^1]
 
 3. Szabó Zsoltot, a Nemzeti Fejlesztési Minisztérium fejlesztés- és klímapolitikáért, valamint kiemelt közszolgáltatásokért felelős államtitkárát a Környezeti és Energiahatékonysági Operatív Program monitoring bizottsága,
 
@@ -10,7 +10,7 @@ A 2014–2020 programozási időszakban az egyes európai uniós alapokból szá
 
 5. Tállai Andrást, a Nemzetgazdasági Minisztérium parlamenti államtitkárát a Terület- és Településfejlesztési Operatív Program monitoring bizottsága,
 
-6.[^1]
+6.[^2]
 
 7. dr. Kovács Zoltánt, a Miniszterelnökség területi közigazgatásért felelős államtitkárát a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program monitoring bizottsága,
 
@@ -24,4 +24,5 @@ c) a Partnerségi Megállapodás monitoring bizottsága
 
 elnökévé kinevezem.
 
-[^1]: A 6. pontot a 73/2016. (VII. 4.) ME határozat 2. pontja visszavonta.
+[^1]: A 2. pontot a 69/2017. (VI. 28.) ME határozat 2. pontja visszavonta.
+[^2]: A 6. pontot a 73/2016. (VII. 4.) ME határozat 2. pontja visszavonta.
