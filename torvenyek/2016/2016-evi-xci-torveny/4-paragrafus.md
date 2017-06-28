@@ -8,7 +8,7 @@ b) az a) pont szerinti földrészleteken található épített örökségből,
 
 c) a Mezőhegyesi Állami Ménes által jelen törvény hatálybalépése előtt vagyonkezelt
 
-ca) az a) és b) pont alá nem tartozó ingó és ingatlan vagyonelemekből, valamint
+ca) az a) és b) pont hatálya alá nem tartozó ingatlan vagyonelemekből, valamint
 
 cb) vagyoni értékű jogokból
 
@@ -21,3 +21,5 @@ cb) vagyoni értékű jogokból
 (4) A Ménesbirtok gondoskodik a területén található épített örökség megóvásáról, az épített örökség 2. §-ban foglalt feladatok végrehajtásához szükséges hasznosításáról.
 
 (5) A Ménesbirtok tevékenységéhez illeszkedő jövedelmezőségi elvárásokat az éves üzleti tervben kell meghatározni.
+
+(6) A Ménesbirtok által vagyonkezelt ingatlanokon keletkezett termék, termény a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:50. § (1) bekezdése szerinti elválással ingyenesen a Ménesbirtok tulajdonába kerül.

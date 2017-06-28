@@ -4,7 +4,7 @@
 
 a) a Mezőhegyesen kialakult, védett őshonos magyar lófajták tenyésztése, genetikai értékének megőrzése, és a magyar sportlófajta tenyésztése, genetikai értékének teljesítményalapú növelése,
 
-b) a) pont szerinti lófajták, vagyis a gidrán, a furioso-north star, a nóniusz, valamint a magyar sportló és ügető fajták állami tulajdonban lévő ménesének kialakítása és fenntartása,
+b) az a) pont szerinti lófajták, vagyis a gidrán, a furioso-north star, a nóniusz, valamint a magyar sportló és ügető fajták ménesének kialakítása és fenntartása.
 
 c) a hagyományosan Mezőhegyesen tenyésztett gazdasági haszonállatfajták tenyésztése,
 
