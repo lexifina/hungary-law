@@ -18,7 +18,7 @@ f)[^4] bontás tudomásulvétele nélkül végzett bontási tevékenység eseté
 
 g) építési engedély nélkül végezhető, de anyagi jogi jogszabályt sértő módon végzett építési tevékenység esetén: 50 000 forint,
 
-h)[^5] az Étv. szerinti egyszerű bejelentés nélkül vagy a bejelentéstől eltérően, vagy az anyagi jogi jogszabályt sértő módon végzett építési tevékenység esetén: 100 000 forint.
+h)[^5] az Étv. szerinti egyszerű bejelentés nélkül vagy a bejelentéstől eltérően vagy az anyagi jogi jogszabályt sértő módon vagy a természetes személy építtető esetében 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület nem saját lakhatásának biztosítására vonatkozóan, vagy nem természetes személy által 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület esetében bejelentéssel végzett építési tevékenység esetén: 100 000 forint.
 
 (3) A számított építményérték az elkészült, kivitelezés alatt álló, vagy elbontott
 
@@ -42,7 +42,15 @@ f) világörökségi területen és műemléki védelem alatt álló ingatlanon 
 
 g)[^7] építési napló vezetési kötelezettség alá eső építési tevékenység építési napló nélküli végzése esetén 20%,
 
-h)[^8] az Étv. szerinti egyszerű bejelentés nélkül vagy a bejelentéstől eltérően végzett építési tevékenység esetén 30%.
+h)[^8] az Étv. szerinti egyszerű bejelentés nélkül vagy a bejelentéstől eltérően végzett építési tevékenység esetén 30%,
+
+i)[^9] az Étv. szerinti egyszerű bejelentés esetén
+
+ia) a természetes személy építtető esetében, 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület, amennyiben az nem saját lakhatásának biztosítására szolgál, vagy
+
+ib) a nem természetes személy építtető esetében, 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület bejelentéssel végzett építési tevékenysége esetén
+
+## 100%.
 
 (5) Amennyiben a számított építményérték (4) bekezdés szerinti összege nem éri el a (2) bekezdés szerinti alapbírság értékét, úgy a bírság mértéke a (2) bekezdés szerinti alapbírság összegével egyezik meg.
 
@@ -59,7 +67,8 @@ b) 200%-a, ha kiszabására olyan személlyel vagy szervezettel szemben kerül s
 [^2]: A 2/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 38/2015. (III. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^3]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdés f) pontja a 441/2015. (XII. 28.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^5]: A 3. § (2) bekezdés h) pontját a 456/2015. (XII. 29.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^5]: A 3. § (2) bekezdés h) pontját a 456/2015. (XII. 29.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 144/2017. (VI. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (4) bekezdés d) pontja a 441/2015. (XII. 28.) Korm. rendelet 75. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^7]: A 3. § (4) bekezdés g) pontját a 441/2015. (XII. 28.) Korm. rendelet 75. § (3) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^8]: A 3. § (4) bekezdés h) pontját a 456/2015. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^9]: A 3. § (4) bekezdés i) pontját a 144/2017. (VI. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.

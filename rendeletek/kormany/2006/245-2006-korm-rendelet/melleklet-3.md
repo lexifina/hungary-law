@@ -1,4 +1,4 @@
-3. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^34]
+3. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^35]
 
 ## Az építésügyi bírság kiszámításának módja
 
@@ -40,4 +40,4 @@ b) ha a jogszerűtlen építési tevékenységgel létrejött építmény, épí
 
 6. Az 5. pont szerinti építésügyi bírság összeget – ismételt szabálytalanság esetén – a 3. § (8) bekezdése szerinti mértékben kell növelni.
 
-[^34]: A 3. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § c) pontjával megállapított szöveg.
+[^35]: A 3. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § c) pontjával megállapított szöveg.
