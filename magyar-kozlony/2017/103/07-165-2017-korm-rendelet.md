@@ -1,0 +1,137 @@
+# A Kormány 165/2017. (VI. 28.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 103. szám, 2017. június 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b4218b5579271bb0d96b713d5f8b02bcfab92b74/dokumentumok/99d2498ea3aecb82a1c40c10a0181cc698c3a803/letoltes)
+
+---
+
+A Kormány 165/2017. (VI. 28.) Korm. rendelete
+a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet
+módosításáról
+A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés g) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet (a továbbiakban: R.)
+1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Terrorelhárítási Központ megszervezi és végrehajtja
+a) a miniszterelnök és a legfőbb ügyész állandó védelmét,
+b) az a) pontban meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő
+házas- vagy élettársa és gyermeke személyvédelmét, ha alapos okból védelmük szükséges,
+c) az Rtv. 46. § (6) bekezdése szerint elrendelt, az a) pontban meghatározott feladatkörhöz kapcsolódóan
+szükségessé váló, ideiglenes védelemben részesített személy védelmét.”
+(2) Az R. 1. § (2) bekezdése a következő h) ponttal egészül ki:
+(A Készenléti Rendőrség megszervezi és végrehajtja)
+„h) az 1. melléklet 1. pont 4. és 5. alpontjában meghatározott állandó személyvédelemben részesülő személynek
+a vele közös háztartásban élő házas- vagy élettársa és gyermeke személyvédelmét, ha alapos okból védelmük
+szükséges [az (1) bekezdésben és az a)–f) és h) pontban meghatározottak a továbbiakban együtt: védett személy].”
+2. §
+Az R. 3. §-a a következő (8) és (9) bekezdéssel egészül ki:
+„(8) Ha az 1. § (1) bekezdés b) pontjában meghatározott személy személyvédelmének elrendelése indokolt,
+a Terrorelhárítási Központ határozza meg, hogy az (1) és (3a) bekezdésben meghatározott védelmi intézkedések
+közül melyeket kell alkalmazni.
+(9) Az 1. § (1) bekezdés b) pontjában és az 1. § (2) bekezdés h) pontjában meghatározott személy
+személyvédelmének szükségességéről, az ott meghatározott állandó személyvédelemben részesülő személy
+személyvédelmét ellátó javaslata alapján, a rendészetért felelős miniszter dönt.”
+3. §
+Az R. 2. melléklete helyébe az 1. melléklet lép.
+4. §
+Az R.
+a) 1. § (2) bekezdés a) pontjában az „az (1) bekezdésben” szövegrész helyébe az „az (1) bekezdés a) pontjában”
+szöveg,
+b) 1. § (2) bekezdés d) pontjában az „az Rtv.” szövegrész helyébe az „az (1) bekezdés c) pontjában foglalt
+kivétellel az Rtv.”szöveg,
+c) 1. § (3) bekezdésében az„a)–f) pontjában”szövegrész helyett az„a)–f) és h) pontjában”szöveg,
+d) 2. § c) pontjában az „élelmiszer-vegyészeti” szövegrész helyébe az „élelmiszerbiztonsági, továbbá a vegyi,
+biológiai vagy nukleáris veszélyek felderítésére és elhárítására irányuló”szöveg,
+e) 3. § (3a) pontjában az „a köztársasági elnöknek” szövegrész helyébe az „az 1. melléklet 1. pont 1. és
+3. alpontjában meghatározott állandó személyvédelemben részesülő személynek”szöveg,
+f) 3. § (7) bekezdésében az „a köztársasági elnöknek a vele közös háztartásban élő házas- vagy élettársa,
+valamint gyermeke”szövegrész helyébe az„az 1. § (2) bekezdés b) pontjában meghatározott személy”szöveg,
+g) 4. § (1) bekezdésében az „a Készenléti Rendőrség” szövegrész helyébe az „az 1. § (1) bekezdés c) pontjában
+meghatározott feladatkörében a Terrorelhárítási Központ, egyéb esetben a Készenléti Rendőrség”szöveg,
+h) 4. § (2) bekezdésében az „az 1. § (3) bekezdésében” szövegrész helyébe a „az 1. § (1) bekezdés c) pontjában
+vagy az 1. § (3) bekezdésében”szöveg,
+i) 8/A. § c) pontjában a „Magyar Honvédség Honvédkórház (a továbbiakban: MH Honvédkórház)” szövegrész
+helyébe a„Magyar Honvédség Egészségügyi Központ (a továbbiakban: MH Egészségügyi Központ)”szöveg,
+j) 8/B. §-ában, 8/C. § (1) bekezdésében és 8/C. § (5) bekezdés nyitó szövegrészében az „MH Honvédkórház”
+szövegrész helyébe az„MH Egészségügyi Központ”szöveg,
+k) 8/C. § (2) bekezdés b) pont ba) alpontjában, 8/C. § (3) bekezdés b) pontjában, 8/D. § (4) bekezdésében és
+8/F. § b) pontjában a„regionális”szövegrész helyébe a„fővárosi és megyei”szöveg,
+
+l) 8/F. § a) pontjában az „MH Honvédkórház főigazgatója” szövegrész helyébe az „MH Egészségügyi Központ
+parancsnoka”szöveg
+lép.
+5. § (1) Hatályát veszti az R. 1. § (2) bekezdés f) pontjában az „[az (1) bekezdésben és az a)–f) pontban meghatározottak
+a továbbiakban együtt: védett személy]”szövegrész.
+(2) Hatályát veszti az R. 8/A. § c) pontjában a„készenléti”szövegrész.
+6. §
+Ez a rendelet a kihirdetését követő hónap első napján lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 165/2017. (VI. 28.) Korm. rendelethez
+„2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez
+A védett személy gyógyintézeti ellátására kijelölhető intézmények
+ 1. Budapest, Egyesített Szent István és Szent László Kórház-Rendelőintézet
+ 2. Budapest, Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+ 3. Budapest, Gottsegen György Országos Kardiológiai Intézet
+ 4. Budapest, Országos Korányi Pulmonológiai Intézet
+ 5. Budapest, Országos Klinikai Idegtudományi Intézet
+ 6. Budapest, Semmelweis Egyetem
+ 7. Ajka, Magyar Imre Kórház
+ 8. Baja, Bajai Szent Rókus Kórház
+ 9. Balassagyarmat, Dr. Kenessey Albert Kórház-Rendelőintézet
+10. Balatonfüred, Állami Szívkórház
+11. Berettyóújfalu, Gróf Tisza István Kórház
+12. Békéscsaba, Békés Megyei Központi Kórház
+13. Cegléd, Toldy Ferenc Kórház és Rendelőintézet
+14. Csorna, Csornai Margit Kórház
+15. Debrecen, Debreceni Egyetem Klinikai Központ
+16. Debrecen, Kenézy Gyula Kórház és Rendelőintézet
+17. Dombóvár, Dombóvári Szent Lukács Kórház
+18. Dunaújváros, Szent Pantaleon Kórház-Rendelőintézet Dunaújváros
+19. Eger, Markhot Ferenc Oktatókórház és Rendelőintézet
+20. Esztergom, Vaszary Kolos Kórház
+21. Fehérgyarmat, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+22. Gyöngyös, Bugát Pál Kórház
+23. Győr, Petz Aladár Megyei Oktató Kórház
+24. Gyula, Békés Megyei Központi Kórház
+25. Hatvan, Albert Schweitzer Kórház-Rendelőintézet
+26. Hódmezővásárhely, Csongrád Megyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
+27. Jászberény, Jászberényi Szent Erzsébet Kórház
+28. Kalocsa, Bács-Kiskun Megyei Kórház
+29. Kaposvár, Somogy Megyei Kaposi Mór Oktató Kórház
+30. Karcag, Kátai Gábor Kórház
+31. Kazincbarcika, Kazincbarcikai Kórház Nonprofit Kft.
+32. Kecskemét, Bács-Kiskun Megyei Kórház
+33. Keszthely, Keszthelyi Kórház
+34. Kiskunfélegyháza, Bács-Kiskun Megyei Kórház
+
+35. Kiskunhalas, Kiskunhalasi Semmelweis Kórház
+36. Kisvárda, Felső-Szabolcsi Kórház
+37. Komárom, Selye János Kórház
+38. Makó, Csongrád Megyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
+39. Marcali, Somogy Megyei Kaposi Mór Oktató Kórház
+40. Mátészalka, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+41. Mezőtúr, Mezőtúri Kórház és Rendelőintézet
+42. Miskolc, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+43. Mohács, Mohácsi Kórház
+44. Mosonmagyaróvár, Karolina Kórház-Rendelőintézet
+45. Nagyatád, Nagyatádi Kórház
+46. Nagykanizsa, Kanizsai Dorottya Kórház
+47. Nyíregyháza, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+48. Orosháza, Orosházi Kórház
+49. Ózd, Almási Balogh Pál Kórház
+50. Pápa, Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő
+51. Pécs, Pécsi Tudományegyetem
+52. Salgótarján, Szent Lázár Megyei Kórház
+53. Sátoraljaújhely, Sátoraljaújhelyi Erzsébet Kórház
+54. Siófok, Siófoki Kórház-Rendelőintézet
+55. Sopron, Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet
+56. Szeged, Szegedi Tudományegyetem
+57. Szekszárd, Tolna Megyei Balassa János Kórház
+58. Székesfehérvár, Fejér Megyei Szent György Egyetemi Oktató Kórház
+59. Szentes, Csongrád Megyei Dr. Bugyi István Kórház
+60. Szolnok, Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
+61. Szombathely, Markusovszky Egyetemi Oktatókórház
+62. Tatabánya, Szent Borbála Kórház
+63. Vác, Jávorszky Ödön Kórház
+64. Veszprém, Csolnoky Ferenc Kórház
+65. Zalaegerszeg, Zala Megyei Szent Rafael Kórház”

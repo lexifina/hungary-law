@@ -1,0 +1,225 @@
+# A Kormány 164/2017. (VI. 28.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 103. szám, 2017. június 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b4218b5579271bb0d96b713d5f8b02bcfab92b74/dokumentumok/99d2498ea3aecb82a1c40c10a0181cc698c3a803/letoltes)
+
+---
+
+A Kormány 164/2017. (VI. 28.) Korm. rendelete
+a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás
+elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló
+107/2011. (VI. 30.) Korm. rendelet módosításáról
+A Kormány a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (10) bekezdésében kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás
+elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet
+(a továbbiakban: Rendelet) 2. § (1) bekezdés 1. pontja helyébe a következő rendelkezés lép:
+(A rendelet alkalmazásában)
+
+„1. ellenőrző szervezet: a látvány-csapatsportok támogatásával összefüggő, a sportról szóló 2004. évi I. törvényben
+(a továbbiakban: Stv.) meghatározott illetékes ellenőrzési feladatokat ellátó sportpolitikáért felelős miniszter,
+valamint a Tao. tv. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult
+szervezet támogatása esetén az illetékes ellenőrzési feladatokat ellátó látvány-csapatsport országos sportági
+szakszövetsége;”
+(2) A Rendelet 2. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
+(A rendelet alkalmazásában)
+„3. képzéssel összefüggő feladatok támogatása: az Stv.-ben meghatározott szakszövetségi stratégiai fejlesztési
+koncepció alapján megvalósuló vagy ahhoz illeszkedő, a támogatás igénybevételére jogosult szervezet által
+támogatási időszakonként, a támogatás elszámolási időszakát megelőzően készített (több támogatási időszakra
+szóló sportfejlesztési program esetén támogatási időszakokra lebontott), a jóváhagyást végző szervezethez
+benyújtott és jóváhagyott sportfejlesztési program részét képező, – a Szerződés 107. és 108. cikke alkalmazásában
+bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról (EGT-vonatkozású szöveg)
+szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.) (a továbbiakban: 651/2014/EU
+bizottsági rendelet) 31. cikkében meghatározottak szerint – a Tao. tv.-ben meghatározott látvány-csapatsport
+Stv. szerinti országos sportági szakszövetsége (a továbbiakban: szakszövetség) vagy a sportköztestület Stv.-ben
+meghatározott képzési, továbbképzési feladatainak ellátása során a szakszövetségnél vagy a szakszövetség felkérése
+alapján a szakszövetség tagjaként működő, a képzést folytató vagy abban részt vevő sportszervezetnél, utánpótlás-
+nevelés fejlesztését végző alapítványnál vagy a sportköztestületnél felmerülő költségek, kiadások az alábbiak
+szerint:
+a) az oktatók személyi jellegű költségei,
+b) az oktatók és a képzésben részt vevők utazási költségei, beleértve a szállásköltségeket is,
+c) egyéb folyó költségek, különösen a képzési projekthez közvetlenül kapcsolódó anyagok, fogyóeszközök,
+d) az eszközök és berendezések amortizációja olyan mértékben, amennyire azokat kizárólag a képzési projekt
+céljaira használják,
+e) a képzési projekttel kapcsolatos tanácsadói szolgáltatások költségei,
+f) a képzésben részt vevők személyi jellegű ráfordítása, legfeljebb az a)–e) pontban felsorolt egyéb elszámolható
+költségek összegéig; mellyel kapcsolatban csak a képzésben ténylegesen eltöltött idő vehető számításba, az ebből
+munkavégzéssel eltöltött idő levonása után,
+g) a képzésben részt vevő megváltozott munkaképességű munkavállalók képzés idejére szükséges szállásköltsége;”
+(3) A Rendelet 2. § (1) bekezdés 9. pontja a következő h) alponttal egészül ki:
+[A rendelet alkalmazásában
+tárgyi eszköz beruházás, felújítás: az Stv.-ben foglaltak szerint a sportág stratégiai fejlesztési koncepciójához illeszkedő,
+a támogatás igénybevételére jogosult szervezet által támogatási időszakonként, a támogatás elszámolási időszakát
+megelőzően készített (több támogatási időszakra szóló sportfejlesztési program esetén támogatási időszakokra
+lebontott), a jóváhagyást végző szervezethez benyújtott és jóváhagyott sportfejlesztési program megvalósítása
+érdekében, a fejlesztési programhoz csatolt költségtervben részletezett, a számvitelről szóló törvényben meghatározott
+beruházás, felújítás – az ingatlanhoz kapcsolódó vagyoni értékű jogok és személygépkocsi beszerzése kivételével – ,
+ideértve]
+„h) a számvitelről szóló törvény szerinti immateriális javak beszerzését, előállítását.”
+2. § (1) A Rendelet 10. § (3a) bekezdése helyébe a következő rendelkezés lép:
+„(3a) Ha az (1) bekezdésben meghatározott körülmények a támogatási időszakra vonatkozóan eredetileg
+jóváhagyott sportfejlesztési programban meghatározott támogatási jogcímen belül elkülöníthető szakmai
+programelemek (támogatási aljogcímek) átcsoportosítására vagy szakmai programelemeken belüli módosítására
+vonatkozóan merültek fel, a sportfejlesztési program ennek megfelelő módosítását a támogatott szervezet
+– a módosítás okáról való tudomásszerzéstől számított 8 napon belül – kérelmezheti a jóváhagyást végző
+szervezetnél. A jóváhagyást végző szervezet a kérelemről az Stv. 22. § (7) bekezdésében és az 51. § (5) bekezdésében
+a sportfejlesztési program módosítására megállapított ügyintézési határidőn belül dönt a kérelem elfogadásáról
+vagy elutasításáról. Támogatási jogcímen belüli módosítás egy támogatási időszakban legfeljebb 3 alkalommal
+– legkésőbb május 31-ei benyújtási határidővel – kérelmezhető. A támogatási jogcímen belüli módosítás
+nem irányulhat a 4. § (7) bekezdése szerint jóváhagyott, igénybe vehető támogatási jogcím alapján nyújtott
+támogatás legnagyobb mértékének és a sportfejlesztési program szerinti összes támogatás összegének
+növelésére. A támogatási jogcímen belüli módosítási kérelemhez a 4. § (2) bekezdés c) pontjában meghatározott
+
+dokumentumok közül a kérelem elbírálásához szükséges szakmai és költségterv támogatási jogcímen belüli
+módosítással érintett részét kell csatolni a jóváhagyást végző szervezet részére.”
+(2) A Rendelet 10. §-a a következő (3b) bekezdéssel egészül ki:
+„(3b) A támogatott szervezet a támogatási időszak során egy alkalommal kérelmezheti a jóváhagyást végző
+szervezetnél a támogatási időszakra vonatkozó, a sportfejlesztési program jóváhagyásakor megtett, a támogatáshoz
+tartozó általános forgalmi adó elszámolásával kapcsolatos nyilatkozata módosítását. A módosítási kérelem nem
+irányulhat a 4. § (7) bekezdése szerint jóváhagyott, sportfejlesztési program szerinti összes támogatás összegének
+növelésére, valamint nem irányulhat a sportfejlesztési programot jóváhagyó határozatban nem szereplő
+jogcím, aljogcím támogatására. A módosítási kérelemhez csatolni kell a 4. § (2) bekezdésében meghatározott
+dokumentumokat, nyilatkozatokat a jóváhagyást végző szervezet részére.”
+3. § (1) A Rendelet 11. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A támogatott szervezet az elszámolása során az adott elszámolási időszak végéig, de legkésőbb augusztus
+14-ig pénzügyileg teljesített számlákkal számol el. A megállapodás, szerződés szerinti teljesítésre és számlakiállításra
+az adott támogatási időszak végéig kerülhet sor.”
+(2) A Rendelet 11. §-a a következő (1b) bekezdéssel egészül ki:
+„(1b) Ha a támogatott szervezet a Tao. tv. 30/I. §-a értelmében az Európai Bizottság SA.31722 (2011/N) és SA.46615
+(2016/N) számú határozatának hatálya alá tartozik, a Tao. tv. 30/I. §-a szerinti jogcímek vonatkozásában a támogatási
+szerződés keretében megkötött kiegészítő támogatás összegével az e rendeletben foglaltak szerint köteles
+elszámolni.”
+(3) A Rendelet 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az előrehaladási jelentéshez – az (5) bekezdésben meghatározottak szerint – részelszámolás is benyújtható.
+Ha a 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet az előrehaladási jelentés áttanulmányozását
+követően indokoltnak tartja, a támogatott szervezetnek részelszámolás benyújtását írhatja elő. Azon
+programelemek tekintetében, amelyek utófinanszírozással valósulnak meg, részelszámolás a támogatási időszak
+során bármikor benyújtható.”
+4. §
+A Rendelet 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet az elszámolást annak beérkezésétől számított
+180 napon belül – részelszámolás benyújtása esetén 45 napon belül – megvizsgálja, és dönt az elszámolás
+(részelszámolás) elfogadásáról, részbeni elfogadásáról vagy elutasításáról. Az elszámolás lezárására nyitva álló
+határidő indokolt esetben további 180 nappal meghosszabbítható.”
+5. §
+A Rendelet 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet az elszámolás ellenőrzése során – ideértve
+a helyszíni ellenőrzést is – azt állapítja meg, hogy
+a) a támogatás felhasználása során a támogatott szervezet eltért a jóváhagyott sportfejlesztési programban
+foglaltaktól, és neki felróható módon nem teljesített a sportfejlesztési programban vállalt kötelezettségeket vagy
+azok egy részét,
+b) a nem szabályszerűen vagy nem rendeltetésszerűen felhasznált támogatás összegével a támogatott szervezet
+nem tud az e rendeletben foglaltak szerint elszámolni, vagy
+c) a támogatott szervezet a 11. § (1) bekezdése szerinti határidőben nem nyújtotta be az elszámolását,
+a támogatott szervezet a jogosulatlanul igénybe vett – jegybanki alapkamattal növelt összegű – támogatást 50%-os
+mértékkel növelt összegben köteles az állam részére a 14. § (7) bekezdésében foglaltak szerint befizetni.”
+6. §
+A Rendelet 15/B. §-a a következő (3) és (4) bekezdéssel egészül ki:
+„(3) A Tao. tv. 22/C. § (1) bekezdés c) pont cb) és cd) alpontjában meghatározott jogcímekre nyújtott támogatás
+és a Tao. tv. 30/I. §-a szerinti támogatás esetén, a Tao. tv. 22/C. § (1) bekezdés a) pont ac) alpontjában, b) pont bd),
+bf) alpontjában és d) pont dc), de) alpontjában meghatározott jogcímek szerinti, egyenként 500 ezer eurónak
+megfelelő forintösszeget meghaladó egyedi támogatásokról a jóváhagyást végző szervezet adatot köteles
+szolgáltatni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére
+a 651/2014/EU bizottsági rendelet 9. cikke, illetve az Európai Bizottságnak az Európai Unió működéséről szóló
+szerződés 107. cikk (3) bekezdés a) vagy c) pontja szerinti egyedi határozata szerinti közzététel céljából.
+
+(4) A jóváhagyó szervezet (3) bekezdés szerinti adatszolgáltatását és a közzétételt az európai uniós versenyjogi
+értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011.
+(III. 22.) Korm. rendelet 18/A–18/D. § rendelkezéseit kell alkalmazni.”
+7. §
+A Rendelet 16. §-a a következő (17)–(22) bekezdéssel egészül ki:
+„(17) Röplabda sportágban a Tao. tv. 22/C. § (1) bekezdés a), b) és d) pontja szerinti támogatás esetén
+– a (18) bekezdésben foglaltak kivételével −, valamint a Tao. tv. 22/C. § (1) bekezdés c) pont ca), cc)–ce) alpontja
+szerinti támogatás esetén a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére
+történő benyújtásának határideje a 2017. évben a 2017. július 15-e és 2017. szeptember 15-e közötti időszak.
+Az igényelt támogatás alapján – a Tao. tv. 22/C. § (1) bekezdés c) pont cd) alpontja szerinti támogatás kivételével –
+leghamarabb azon költségek, ráfordítások számolhatók el, amelyek teljesítése és kifizetése 2017. július 1-jét
+követően történik. A Tao. tv. 22/C. § (1) bekezdés c) pont cd) alpontja szerinti támogatás esetén az igényelt
+támogatás alapján leghamarabb azon költségek, ráfordítások számolhatók el, amelynek teljesítésére és kifizetésére
+a kérelem benyújtását követően kerül sor.
+(18) Röplabda sportágban az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában
+a Tao. tv. 30/I. §-a alkalmazandó, a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet
+részére történő benyújtásának határideje a 2017. évben az Európai Bizottság jóváhagyó határozata meghozatalának
+napját követő naptól számított 2 hónap. Az Európai Bizottság határozata meghozatalának naptári napját
+az adópolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul
+közzétett közleményével állapítja meg. Az e bekezdés hatálya alá tartozó támogatások esetén az igényelt támogatás
+alapján leghamarabb azon költségek, ráfordítások számolhatók el, amelynek teljesítésére és kifizetésére a kérelem
+benyújtását követően kerül sor.
+(19) Röplabda sportágban a Tao. tv. 22/C. § (1) bekezdés c) pont cb) alpontja szerinti támogatás esetén a 4. §
+(1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére történő benyújtásának határidejét és
+a költségek, ráfordítások elszámolhatóságát a (18) bekezdésben meghatározott módon kell megállapítani.
+(20) A Tao. tv. 30/I. §-ának hatálya alá nem tartozó támogatás igénybevételére jogosult szervezet a 2017–2018-as
+támogatási időszakra vonatkozó, tárgyi eszköz beruházás, felújítás jogcímre irányuló kérelmét 2017. július 15-e és
+2017. szeptember 15-e között is benyújthatja.
+(21) E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról,
+a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.)
+Korm. rendelet módosításáról szóló 164/2017. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított
+a) 2. § (1) bekezdés 3. pontját és 9. pont h) alpontját, 11. § (1a) és (3) bekezdését, továbbá 13. § (1) bekezdését
+a Módr6. hatálybalépésekor még le nem zárt sportfejlesztési programok elszámolásaival összefüggésben,
+b) 15. § (2) bekezdését a 2011–2012-es támogatási időszaktól jóváhagyott sportfejlesztési programokkal
+összefüggésben,
+c) 10. § (2), (3a) és (3b) bekezdését a 2011–2012-es támogatási időszaktól jóváhagyott módosításokkal
+összefüggésben
+is alkalmazni kell.
+(22) E rendeletnek a Módr6.-tal megállapított 11. § (1b) bekezdését első alkalommal a 2017–2018-as támogatási
+időszakban kell alkalmazni.”
+8. §
+A Rendelet 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Tao. tv. 22/C. § (1) bekezdés c) pont cd) alpontja és a Tao. tv. 30/I. § (2) bekezdése alapján a 2. § (1) bekezdés
+3. pontjának megfelelően nyújtott támogatások képzési támogatásnak minősülnek, amelyeket kizárólag
+a 651/2014/EU bizottsági rendelet 5. szakaszával összhangban lehet nyújtani.”
+9. §
+A Rendelet 21. § c) pontja helyébe a következő rendelkezés lép:
+(E rendelet)
+„c) a magyar sportágazat támogatása adókedvezményt tartalmazó támogatási program révén című, SA.31722
+(2011/N) és SA.46615 (2016/N) számú európai bizottsági határozat”
+(hatálya alá tartozó támogatást tartalmaz.)
+
+10. §
+A Rendelet
+1. 2. § (3b) és (6c) bekezdésében, 7. § (2a) bekezdésében, 9. § (9) bekezdésében, 11. § (6) bekezdésében, 12. §
+(2) és (3) bekezdésében, 13. § (2), (2a) és (4) bekezdésében, 14. § (2), (4), (5), (6a) és (8a) bekezdésében, 15/A. §
+(1) bekezdésében, 15/B. § (2) bekezdésében, 15/C. § (7) bekezdésében az „ellenőrző szervezet” szövegrész
+helyébe a„2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet”szöveg;
+2. 4. § (7) bekezdésében, 6. § (1) bekezdés b) pontjában és (3) bekezdésében a „Tao. tv. 22/C. §
+(4) bekezdésében”szövegrész helyébe a„Tao. tv. 22/C. § (4), (4a) és (4b) bekezdésében”szöveg;
+3. 6. § (4) bekezdésében és 12. § (1) bekezdésében az „ellenőrző szervezettel” szövegrész helyébe a „2. §
+(1) bekezdés 1. pontja szerint illetékes ellenőrző szervezettel”szöveg;
+4. 7. § (2a) bekezdésében az „ellenőrző szervezethez” szövegrész helyébe a „2. § (1) bekezdés 1. pontja szerint
+illetékes ellenőrző szervezethez”szöveg;
+5. 9. § (2) bekezdésében az „az ellenőrző szervezet által jóváhagyott” szövegrész helyébe az „a jóváhagyott”
+szöveg;
+6. 9. § (5) bekezdésében az „ellenőrző szervezetnek” szövegrész helyébe a „2. § (1) bekezdés 1. pontja szerint
+illetékes ellenőrző szervezetnek”szöveg;
+7. 10. § (2) bekezdésében a „mértékének” szövegrész helyébe a „mértékének és a sportfejlesztési program
+szerinti összes támogatás összegének”szöveg;
+8. 10. § (5) bekezdésében, 11. § (2) bekezdésében és 14. § (6) bekezdésében az „ellenőrző szervezetet”
+szövegrész helyébe a„2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezetet”szöveg;
+9. 11. § (1) bekezdésében az„ellenőrző szervezethez” szövegrészek helyébe a„2. § (1) bekezdés 1. pontja szerint
+illetékes ellenőrző szervezethez”szöveg;
+10. 11. § (2) és (4b) bekezdésében, 12. § (1) bekezdésében, 14. § (11) bekezdésében, 15. § (1a) és
+(2) bekezdésében és 15/C. § (6) bekezdésében az „ellenőrző szervezet” szövegrészek helyébe a „2. §
+(1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet”szöveg;
+11. 11. § (4b) bekezdésében az„5 napon”szövegrész helyébe a„15 napon”szöveg;
+12. 15. § (2) bekezdésében a„kizárja”szövegrész helyébe a„kizárhatja”szöveg;
+13. 15. § (2) bekezdésében az„ezt a tényt”szövegrész helyébe az„a kizárás tényét”szöveg;
+14. 15/B. § (1) bekezdésében a„július 15-éig”szövegrész helyébe az„október 30-áig”szöveg;
+15. 15/B. § (2) bekezdésében a „látvány-csapatsport országos sportági szakszövetsége, valamint az ellenőrző
+szervezet”szövegrész helyébe a„jóváhagyást végző szervezetek”szöveg;
+16. 18. § (2) bekezdésében a „800/2008/EK bizottsági rendelet” szövegrész helyébe a „651/2014/EU bizottsági
+rendelet”szöveg
+lép.
+11. §
+Hatályát veszti a Rendelet
+a) 2. § (1) bekezdés 6. pontjában és 9. pont c) alpontjában,
+b) 2. § (3) bekezdés a) pontjában,
+c) 7. § (1) bekezdés a) pont ab) alpontjában és b) pont bb) alpontjában és
+d) 7. § (2c) bekezdésében
+a„közhasznú”szövegrész.
+12. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+13. §
+E rendelet az EUMSz 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.) hatálya alá
+tartozó támogatást tartalmaz.
+ Orbán Viktor s. k.,
+ miniszterelnök
