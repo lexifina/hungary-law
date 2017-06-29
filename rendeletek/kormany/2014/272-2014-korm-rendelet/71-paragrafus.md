@@ -1,4 +1,4 @@
-## XIII. Fejezet[^372]
+## XIII. Fejezet[^373]
 
 ## KÖZÖSSÉGVEZÉRELT HELYI FEJLESZTÉS KIVÁLASZTÁSI ELJÁRÁSRENDRE VONATKOZÓ SZABÁLYOK
 
@@ -38,4 +38,4 @@ f) a közösségvezérelt HFS módosításának feltételeit.
 
 (10) A (8) bekezdés b) pontja szerinti támogatási szerződés alapján folyósított támogatás felhasználható a HACS-nál vagy munkaszervezeténél felmerült előkészítés, kapacitásépítés, képzés, hálózatépítés, az érdekeltek közötti információcsere megkönnyítése és a közösségvezérelt HFS megvalósítása érdekében kidolgozásra kerülő helyi felhívások előkészítésének költségeire, a közösségvezérelt HFS végrehajtásának irányításához kapcsolódó működési költségekre és a közösségvezérelt HFS monitoringköltségeire.
 
-[^372]: A XIII. fejezet (71–72/B. §) a 24/2017. (II. 3.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^373]: A XIII. fejezet (71–72/B. §) a 24/2017. (II. 3.) Korm. rendelet 12. §-ával megállapított szöveg.

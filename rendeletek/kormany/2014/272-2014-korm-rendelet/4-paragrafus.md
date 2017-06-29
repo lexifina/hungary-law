@@ -14,17 +14,17 @@ c) elfogadja az éves fejlesztési keretet,
 
 d) elfogadja az ITP-ket,
 
-e) a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen állást foglal annak a projektjavaslatnak a tekintetében, amelynek támogatását az irányító hatóság egymilliárd forintot meghaladó összegben javasolja megállapítani,
+e)[^65] a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen állást foglal annak a projektjavaslatnak a tekintetében, amelynek támogatását az irányító hatóság hárommilliárd forintot meghaladó összegben javasolja megállapítani,
 
 f) előzetesen állást foglal a projektek többlettámogatása tekintetében a 87. § (1) bekezdés c) pontja szerint,
 
-g)[^65]
+g)[^66]
 
 h) nyomon követi a kijelölt szervek tevékenységét, dönt a 34. és 35. § szerinti próbaidőről,
 
-i)[^66] előzetesen állást foglal a pénzügyi közvetítői felhívás tervezete tekintetében, valamint ha a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezet szerinti ellenőrzést követően – állást foglal az ajánlati, ajánlattételi, illetve a részvételi felhívás és az ezekhez kapcsolódó dokumentáció tekintetében,
+i)[^67] előzetesen állást foglal a pénzügyi közvetítői felhívás tervezete tekintetében, valamint ha a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezet szerinti ellenőrzést követően – állást foglal az ajánlati, ajánlattételi, illetve a részvételi felhívás és az ezekhez kapcsolódó dokumentáció tekintetében,
 
-j)[^67] jóváhagyja az Európai Bizottság számára benyújtandó nagyprojekt-javaslatokat.
+j)[^68] jóváhagyja az Európai Bizottság számára benyújtandó nagyprojekt-javaslatokat.
 
 (2) Az (1) bekezdés e) pontja szerinti határozat tartalmazza
 
@@ -47,6 +47,7 @@ b) a többlettámogatás jóváhagyott összegét és
 c) a támogatás b) pontban megjelölt összeggel megnövelt összegét.
 
 [^64]: A 4. § a 4/2016. (I. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^65]: A 4. § (1) bekezdés g) pontját a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^66]: A 4. § (1) bekezdés i) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^67]: A 4. § (1) bekezdés j) pontja a 75/2016. (IV. 5.) Korm. rendelet 58. § b) pontja szerint módosított szöveg. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
+[^65]: A 4. § (1) bekezdés e) pontja a 163/2017. (VI. 28.) Korm. rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^66]: A 4. § (1) bekezdés g) pontját a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^67]: A 4. § (1) bekezdés i) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^68]: A 4. § (1) bekezdés j) pontja a 75/2016. (IV. 5.) Korm. rendelet 58. § b) pontja szerint módosított szöveg. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.

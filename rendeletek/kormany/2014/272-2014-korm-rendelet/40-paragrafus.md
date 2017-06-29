@@ -1,8 +1,8 @@
-## VII. Fejezet[^212]
+## VII. Fejezet[^213]
 
 ## VÉGREHAJTÁS-TERVEZÉS
 
-## 17.[^213]
+## 17.[^214]
 
-[^212]: A VII. Fejezet (40–44/B. §) a 144/2015. (VI. 12.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^213]: A 17. alcímet (40. §) a 347/2015. (XI. 20.) Korm. rendelet 50. § 11. pontja hatályon kívül helyezte.
+[^213]: A VII. Fejezet (40–44/B. §) a 144/2015. (VI. 12.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^214]: A 17. alcímet (40. §) a 347/2015. (XI. 20.) Korm. rendelet 50. § 11. pontja hatályon kívül helyezte.
