@@ -1,3 +1,5 @@
 ## 11. § Ez a rendelet a kihirdetését követő tizenötödik napon lép hatályba.
 
-12. § Hatályát veszti a Börtönlelkészi Szolgálatról szóló 13/2000. (VII. 14.) IM rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
