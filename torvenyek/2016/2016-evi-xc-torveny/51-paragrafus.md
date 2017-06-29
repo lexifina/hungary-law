@@ -14,6 +14,6 @@ b) a Magyar Vállalkozásfejlesztési Alapítvány az Országos Mikrohitel Alapb
 
 c) a megyei és fővárosi vállalkozásfejlesztési alapítvány mikrohitelezési tevékenység esetén.
 
-(6) Az Alapítvány által az (1) bekezdés szerinti viszontgarancia mellett vállalt készfizető kezesség állománya 2017. december 31-én nem haladhatja meg a 160 000,0 millió forintot.
+(6) Az Alapítvány által az (1) bekezdés szerinti viszontgarancia mellett vállalt készfizető kezesség állománya 2017. december 31-én nem haladhatja meg a 190 000,0 millió forintot.
 
 (7) Az Alapítvány által az (1) bekezdés szerinti állami viszontgaranciával vállalt készfizető kezesség érvényesítése esetén – törvény eltérő rendelkezésének hiányában – az Alapítvány köteles minden szükséges jogcselekményt megtenni a reá átszálló követelés behajtására. A központi költségvetést illeti meg az Alapítvány által behajtott – a behajtási költségekkel csökkentett – összegnek az érvényesített állami viszontgarancia mértékével megegyező százalékban kifejezett arányos része.

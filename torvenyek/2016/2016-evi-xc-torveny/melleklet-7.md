@@ -18,7 +18,7 @@ b) A 40. § (3) bekezdés a) pontjában meghatározott átlagbéralapú támogat
 
 2. Az átlagbéralapú támogatás megállapítása
 
-2.1. Óvodában az átlagbéralapú támogatást, beleértve a minősítéssel összefüggő többlettámogatást is a 2. melléklet II. pont 1. és 4. alpontja szerint kell megállapítani.
+2.1. Óvodában az átlagbéralapú támogatás beleértve a minősítéssel összefüggő többlettámogatást is a 2. melléklet II. pont 1. és 4. alpontja szerint kell megállapítani azzal, hogy az óvodapedagógusok nevelőmunkáját nem pedagógus végzettséggel, vagy szakképzettséggel közvetlenül segítők átlagbérének és közterheinek elismert összege a 4. alpont b) pont ba) alpontjában foglaltaknak megfelelően kerül meghatározásra az Nkt. 8. § (6) bekezdésének figyelembevételével.
 
 2.2. Az iskolában, kollégiumban, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási, valamint pedagógiai szakszolgálati intézményben az átlagbéralapú támogatást
 
@@ -28,7 +28,7 @@ b) a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott
 
 szerint kell megállapítani.
 
-Az egy főre jutó átlagbér az iskolatípusra, kollégiumra, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményre, pedagógiai szakszolgálati intézményre számított, az állami intézményfenntartó központ által fenntartott intézményekben intézménytípusonként pedagógus-munkakörben, valamint nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak éves személyi juttatása és járulékai együttes összegének és az előbbinek megfelelő létszámhányadosa. A pedagógiai szakszolgálati intézményben nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak finanszírozott létszáma fenntartói szinten nem haladhatja meg a pedagógiai szakszolgálati intézményben a pedagógus-munkakörre megállapított finanszírozott létszám 8%-át.
+Az egy főre jutó átlagbér az iskolatípusra, kollégiumra, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményre, pedagógiai szakszolgálati intézményre számított, az állami intézményfenntartók által fenntartott intézményekben intézménytípusonként pedagógus-munkakörben, valamint nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak éves személyi juttatása és járulékai együttes összegének és az előbbinek megfelelő létszámhányadosa. A pedagógiai szakszolgálati intézményben nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak finanszírozott létszáma fenntartói szinten nem haladhatja meg a pedagógiai szakszolgálati intézményben a pedagógus-munkakörre megállapított finanszírozott létszám 8%-át.
 
 3. A Magyarország területén külföldi állam vagy nemzetközi szervezet oktatási programja szerint az oktatásért felelős miniszter engedélye alapján működő nevelési-oktatási intézmény Magyarországon nyilvántartásba vett fenntartója az ilyen intézmény által pedagógus-munkakörben foglalkoztatott személy után átlagbéralapú támogatásra akkor jogosult, ha
 
@@ -52,7 +52,7 @@ ac) szakközépiskolában – beleértve a Köznevelési és Szakképzési Hídp
 
 pótlólagosan elismert összeg a 2017/2018. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
-ad) szakiskolában és készségfejlesztő speciális szakiskolában 4 800 700 forint/számított létszám/év,
+ad) szakiskolában és készségfejlesztő szakiskolában 4 800 700 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2017/2018. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
@@ -92,23 +92,29 @@ am) köznevelési intézményben működő utazó gyógypedagógusi utazó kondu
 
 pótlólagosan elismert összeg a 2017/2018. tanítási évre 40 800 forint/számított létszám/3 hónap.
 
-b) Az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben a nevelő-oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 2 190 700 forint/számított létszám/év. A pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottakat az a) pont szerint kell figyelembe venni.
+b) A nem pedagógus végzettséggel, vagy szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege
+
+ba) az óvodákban 2 167 000 forint/számított létszám/év.
+
+bb) az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben 2 593 000 forint/számított létszám/év.
 
 c) Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók köznevelési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, valamint a nevelő-oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege az a)-b) és d) pontban, valamint a 2. pont 2.1. alpontban meghatározottak 30%-a a köznevelést alapfeladatként végző, a társasági adóról és osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot –, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó vállalkozó esetén.
 
-d) Az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben a minősítő vizsga és a minősítési eljárás keretében elnyert minősítés alapján az Nkt. 64. § (4) bekezdés c)-e) pontjai szerinti fokozatba besorolt, 2017. január 1-jén – 2017/2018-as tanévben 2017. október 1-jén – pedagógus-munkakörben foglalkoztatott pedagógusoknak az elnyert minősítéssel járó bérnövekmény és az ahhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó elismert összege
+d) Az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben az Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2017. január 1-jén Pedagógus II., Mesterpedagógus vagy Kutatótanár fokozatú besorolással rendelkező pedagógusok, valamint Pedagógus II. fokozatba átsorolt pedagógus, és pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítők esetén a bérnövekmény és közterheinek elismert összege
 
 – Pedagógus I. fokozatból Pedagógus II. fokozatba lépés és
 
-= középfokú vagy alapfokozatú végzettség esetén 418 900 forint/fő/év,
+= középfokú vagy alapfokozatú végzettség esetén 396 000 forint/fő/év,
 
-= mesterfokozatú végzettség esetén 459 200 forint/fő/év,
+= mesterfokozatú végzettség esetén 435 000 forint/fő/év,
 
 – Mesterpedagógus, vagy Kutatótanár fokozatba lépés és
 
-= középfokú vagy alapfokozatú végzettség esetén 1 530 600 forint/fő/év,
+= középfokú vagy alapfokozatú végzettség esetén 1 448 000 forint/fő/év,
 
-= mesterfokozatú végzettség esetén 1 684 800 forint/fő/év.
+= mesterfokozatú végzettség esetén 1 594 000 forint/fő/év.
+
+A támogatás elszámolásánál a 2017. január 1-je és 2017. december 31-e között ténylegesen foglalkoztatott pedagógusok és pedagógus szakképzettséggel, szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítők időarányosan figyelembe vett, egy tizedesre kerekített létszáma alapján illeti meg a fenntartót a következők szerint:
 
 da) A teljes összeg illeti meg a fenntartót azon pedagógusok után, akik a minősítést 2015. december 31-éig szerezték meg.
 
@@ -360,7 +366,7 @@ kb) általános iskolája esetében 3,7 fő tanulónként 1 fő pedagógus,
 
 kc) középiskolája esetében 6,2 fő tanulónként 1 fő pedagógus,
 
-kd) szakiskolája esetében 6 fő tanulónként 1 fő pedagógus, készségfejlesztő speciális szakiskolája esetében 4 fő tanulónként 1 fő pedagógus,
+kd) szakiskolája esetében 6 fő tanulónként 1 fő pedagógus, készségfejlesztő szakiskolája esetében 4 fő tanulónként 1 fő pedagógus,
 
 ke) kollégiuma esetében 7,8 fő tanulónként 1 fő pedagógus,
 
@@ -394,11 +400,11 @@ kell figyelembe venni.
 
 3. Az alapfokú művészetoktatásban részt vevő tanulót az átlagbéralapú támogatásnál számított tanulólétszámot öttel elosztva kell figyelembe venni.
 
-4. A nemzetiségi önkormányzat a 2. alpont a)-b) pont szerinti gyermek- és tanulólétszám esetén kizárólag a nemzetiségi nevelésben, oktatásban részt vevőt veheti figyelembe.
+4. A nemzetiségi önkormányzat óvoda, kollégium és iskola esetén kizárólag a nemzetiségi nevelésben, oktatásban vagy kiegészítő nemzetiségi oktatásban részt vevő gyermekeket, tanulókat veheti figyelembe.
 
 5. A szakképző iskola tanulóját – figyelemmel a 2. d) pontban leírtakra –az átlagbéralapú támogatáshoz számított létszámmal kell figyelembe venni.
 
-6. Ha az iskola büntetés-végrehajtási intézményben vagy javítóintézetben működik, a tanulók után e támogatás nem igényelhető.
+6. Ha az iskola büntetés-végrehajtási intézményben vagy javítóintézetben működik, a tanulók után e támogatásra a fenntartó nem jogosult.
 
 7. A működési támogatás megállapításakor a nevelési-oktatási intézmény esetében a nevelési évi, tanévi október 1-jei gyermek-, illetve tanulólétszámot (a költségvetési éven belül 8 és 4 havi létszám) két tizedesre kerekítve kell kiszámítani.
 
@@ -406,19 +412,23 @@ III. A KÖZNEVELÉSI FELADATOT ELLÁTÓ INTÉZMÉNYT FENNTARTÓ SZERVEZETEK TANK
 
 1. A 40. § (1) bekezdés c) pontjában meghatározott fenntartó
 
-a) az Nkt. szerinti ingyenes tankönyvek biztosítása érdekében a nappali rendszerű iskola, a nappali rendszerű nemzetiségi és gyógypedagógiai, konduktív pedagógiai feladatot ellátó iskola (a továbbiakban együtt: iskola)
+a) az Nkt. szerinti ingyenes tankönyvek biztosítása érdekében a nappali rendszerű iskola, a nappali rendszerű nemzetiségi és gyógypedagógiai, konduktív pedagógiai feladatot ellátó iskola
 
-aa) első és ötödik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 12 000 forint/fő/év,
+aa) első-negyedik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 9 000 forint/fő/év,
 
-ab) második-negyedik évfolyamán, amennyiben a tanulók 2017. október 1-jei létszáma meghaladja a 2016/2017-es tanév második-negyedik évfolyamára beiratkozott tanulók 2016. október 1-jei létszámát, a többletlétszám alapján 12 000 forint/fő/év,
+ab) ötödik, hatodik és nyolcadik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 12 000 forint/fő/év,
 
-b) az a) pont szerinti tanulók kivételével, az általános iskolával vagy középfokú iskolával tanulói jogviszonyban álló nappali rendszerű iskolai oktatásban és jogszabályban meghatározott normatív kedvezményekben részesülő tanulók 2017. október 1-jei létszáma alapján 12 000 forint/fő/év
+ac) hetedik évfolyamán 2017. október 1-jén a tanulói jogviszonyban álló tanulók létszáma alapján 15 000 forint/fő/év,
+
+ad) kilencedik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 20 000 forint/fő/év,
+
+b) az a) pont szerinti tanulók kivételével, a középfokú iskolával tanulói jogviszonyban álló nappali rendszerű iskolai oktatásban és jogszabályban meghatározott normatív kedvezményekben részesülő tanulók 2017. október 1-jei létszáma alapján 12 000 forint/fő/év
 
 összegű tankönyvtámogatásra jogosult.
 
 2. A tankönyvtámogatásokkal összefüggésben egy tanulót csak egy jogcímen lehet figyelembe venni.
 
-3. A tankönyvtámogatásokat az oktatásért felelős miniszter utalványozása alapján 2017. augusztus 25-éig folyósítja a kincstár.
+3. A tankönyvtámogatások tekintetében az oktatásért felelős miniszter utalványozása és a Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaság – 2017. július 10-ig a kincstár részére megküldött – fenntartónkénti adatszolgáltatása alapján a kincstár 2017. augusztus 25-éig erre irányuló külön határozat meghozatala nélkül, támogatási előleget folyósít. A folyósított előleg és a ténylegesen járó tankönyvtámogatás különbözetének rendezése a VI. Kiegészítő szabályok pont 3. pontja figyelembevételével a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: 229/2012. Korm. rendelet) 37/J. § (5) bekezdésében foglaltak szerint történik.
 
 IV. A BEVETT EGYHÁZ ÁLTAL AZ ÁLLAMI ISKOLÁBAN SZERVEZETT HIT- ÉS ERKÖLCSTANOKTATÁSHOZ KAPCSOLÓDÓ TÁMOGATÁS
 
@@ -456,11 +466,11 @@ A kiegészítő támogatás fajlagos összege 28 400 forint/fő/év.
 
 VI. KIEGÉSZÍTŐ SZABÁLYOK
 
-1. Az átlagbéralapú támogatás a személyi juttatások és az azokhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbéralapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakképző iskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
+1. Az átlagbéralapú támogatás a személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbéralapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakképző iskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
 
 2. A fenntartó – a IV. pont 4. alpont szerinti támogatás kivételével – az átlagbéralapú támogatásokat – azok folyósítását követő 15 napon belül – az általa fenntartott nevelési-oktatási, pedagógiai szakszolgálati intézménynek átadja úgy, hogy az általa fenntartott valamennyi nevelési-oktatási-, pedagógiai szakszolgálati intézmény kiegyensúlyozott működését biztosítsa. Az átadási kötelezettséget csökkenti a nevelési-oktatási, valamint pedagógiai szakszolgálati intézménynek már megelőlegezett, átadott összeg.
 
-3. A tankönyvtámogatás – ide nem értve a IV. pont 2. alpont szerinti támogatást – teljes összegét át kell adni annak az iskolának, amelyre a támogatást megállapították. E támogatásból elsősorban az Nkt. 46. § (5) bekezdése és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény 4. § (2) bekezdés szerinti normatív kedvezményben részesülők számára ingyenesen biztosított tankönyvek beszerzését kell biztosítani. A fennmaradó összeg a nevelési-oktatási intézményben működő könyvtári állomány gyarapítására fordítható, a fel nem használt összeget a központi költségvetés számára a kincstár útján vissza kell fizetni.
+3. A tankönyvtámogatás – ide nem értve a IV. pont 2. alpont szerinti támogatást – teljes összegét át kell adni annak az iskolának, amelyre a támogatást megállapították. E támogatásból elsősorban az Nkt. 46. § (5) bekezdése és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény 4. § (2) bekezdés szerinti normatív kedvezményben részesülők számára ingyenesen biztosított tankönyvek beszerzését kell biztosítani. A fennmaradó összeg a nevelési-oktatási intézményben működő könyvtári állomány gyarapítására fordítható, a fel nem használt összeget a központi költségvetés számára a kincstár útján vissza kell fizetni. A III. pont 1. alpontja alapján a tankönyvtámogatásra jogosultak tényleges számát figyelembe véve a fenntartó az igénylés módosítását a 229/2012. Korm. rendelet 37/C. § (4) bekezdés c) pontja helyett 2017. október 31-i határidőig kezdeményezi. A kincstár a tankönyvtámogatás folyósításához szükséges keretigényt 2017. augusztus 10-éig küldi meg az oktatásért felelős miniszter részére.
 
 4. A támogatásokat, a működési támogatás kivételével, a folyósítás évében kell felhasználni. A tárgyévet követő év január 31-ig fel nem használt – pénzügyileg nem teljesült – vagy nem jogszerű kifizetésre fordított összeget, vissza kell fizetni. A nemzetiségi önkormányzat és az egyházi jogi személy a II. pont szerinti működési támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét a köznevelési feladatot ellátó intézményei, illetve azok köznevelési feladatainak támogatására fordítani.
 
@@ -522,7 +532,7 @@ A felnőttoktatásban a tanulói jogviszony fennállásakor a tanuló abban a ta
 
 16. Az alapfokú művészetoktatási feladatot ellátó egységes iskola – beleértve a magyar Waldorf-iskolák kerettanterve alapján oktató nevelési-oktatási intézményeket – 112. évfolyamos tanulóinak létszámát az alapfokú művészetoktatási támogatás igénybevételéhez a finanszírozott pedagóguslétszám számításakor hárommal elosztva lehet figyelembe venni. A Waldorf-iskolák 13. évfolyamos tanulói után nem igényelhető átlagbéralapú és működési támogatás.
 
-17. Óvoda esetén alkalmazni kell az I. pont 4. alpont c) pontjában, valamint a Kiegészítő szabályok 1-2., 4., 7-9., 11., 13., 19-21., 23-24., alpontban és a 25. alpont a) pontjában foglaltakat.
+17. Óvoda esetén alkalmazni kell az I. pont 4. alpont c) pontjában, I. pont 5. alpont d) pontjában, valamint a Kiegészítő szabályok 1-2., 4., 7-9., 11., 13., 19-21., 23-24., alpontban és a 25. alpont a) pontjában foglaltakat.
 
 18. A gyógypedagógiai nevelési-oktatási intézmény óvodája esetén a gyermekek létszámának meghatározásakor az Nkt. 47. § (7) bekezdésében foglaltak kivételével alkalmazni kell a 2. melléklet II. pont 1. alpont a) pontjában leírtakat.
 
@@ -530,11 +540,11 @@ A felnőttoktatásban a tanulói jogviszony fennállásakor a tanuló abban a ta
 
 A Magyar Államkincstár fenntartó székhelye szerinti illetékes igazgatósága, ha e törvény másképp nem rendelkezik a támogatásban részesülő fenntartók számára havi ütemezésben – jogszabályban meghatározott fenntartói változásjelentéssel érintett utalásig e törvény alapján – folyósítja a támogatást.
 
-20. Az I. pont 4. alpont d) pont és a 2. melléklet II. pont 4. alpont szerinti támogatás megállapításánál – a pedagógusok minősítési eljárása eredményeképpen – a magasabb fizetési fokozatba besorolt pedagógus létszámot közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatottak teljes munkaidőre átszámított létszáma szerint kell figyelembe venni.
+20. Az I. pont 4. alpont d) pont és a 2. melléklet II. pont 4. alpont szerinti támogatás megállapításánál a magasabb fizetési fokozatba besorolt pedagógusok, és pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítők létszámát a közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatottak teljes munkaidőre átszámított létszáma szerint kell figyelembe venni.
 
 21. A pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak számított létszámán azok teljes munkaidőre átszámított létszámát kell érteni, továbbá, ha munkakörük több köznevelési alapfeladat ellátásához is kapcsolódik, az I. pont 4. alpont a) pontjai közül azon jogcímen kell őket figyelembe venni, ahol a legmagasabb az intézményben nevelt, oktatott gyermekek, tanulók létszáma.
 
-22. A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottaknak az I. pont 4. alpont a) és b) pont szerinti támogatásban elismert létszámuk együttes összege megegyezik a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 4. mellékletében meghatározott finanszírozott létszámmal.
+22. A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottaknak az I. pont 4. alpont a) és b) pont szerinti támogatásban elismert létszámuk együttes összege megegyezik a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet (továbbiakban: Vhr.) 4. mellékletében meghatározott finanszírozott létszámmal. Az I. pont 4. alpont b) pontja szerinti emelt összegű támogatás a Vhr. 32/A. §-ában meghatározottak szerint 2017. január 1-jétől visszamenőlegesen kerül biztosításra (12 hónapra) január-szeptember hónapokra egy összegben, október hónaptól pedig a havi finanszírozás keretében kerül folyósításra.
 
 23. Az V. pont 2. alpontjában meghatározott kiegészítő támogatás igénylésekor és elszámolásakor a 2. melléklet, Kiegészítő szabályok 5. pont m) alpontjában foglaltakat kell alkalmazni azzal, hogy a 2017. január 1-je és december 31-e között az ingyenesen étkezők naponként összesített létszámát el kell osztani 220 nappal.
 

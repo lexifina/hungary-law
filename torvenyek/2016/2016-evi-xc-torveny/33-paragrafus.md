@@ -8,4 +8,12 @@
 
 (3) Ha az E. Alap tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után az E. Alap pénzforgalmi egyenlege többletet mutat, a kincstár intézkedik a többlet összegének visszautalásáról, amely a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 35. cím, 2. alcím, 9. Kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti kiadást csökkenti.
 
-(4) A szociál- és nyugdíjpolitikáért felelős miniszter a 2017. évi központi költségvetés január–november havi előzetes tényadatai alapján az államháztartásért felelős miniszterrel egyetértésben a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 7. Nyugdíjbiztosítási Alap befizetése alcím javára történő befizetési kötelezettséget határozhat meg a LXXI. Nyugdíjbiztosítási Alap fejezet, 4. Egyéb befizetések cím, 1. Költségvetési befizetések alcím terhére.
+(4) Az Ny. Alap részére a központi költségvetés XLII. A költségvetés közvetlen bevételei és kiadásai fejezetén belül a kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti támogatás átutalása
+
+a) július–november hónapban havonta a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegének kétszeresével,
+
+b) december hónapban a tárgyhavi utolsó bevétel beérkezése és utolsó ellátás kifizetése után az éves előirányzat fennmaradt összegével, legfeljebb az Ny. Alap nullszaldós pénzforgalmi egyenlegéig
+
+történik.
+
+(5) Amennyiben az Ny. Alap pénzforgalmi egyenlege a tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után többletet mutat, a kincstár intézkedik a többlet összegének visszautalásáról, amely a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 35. cím, 1. alcím, 5. Kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti kiadást csökkenti.

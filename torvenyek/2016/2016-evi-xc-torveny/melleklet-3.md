@@ -136,7 +136,7 @@ Az előirányzat a települési önkormányzatok pénzügyi-gazdálkodási felad
 
 A támogatás az államháztartási adatszolgáltatások teljesítésében közreműködő dolgozók személyi juttatásaira, továbbképzésére, az önkormányzat által alkalmazott könyvelő programokra, az adatszolgáltatásokhoz kötődő eszközbeszerzésre fordítható.
 
-A támogatásról az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik, felhasználásának határideje tárgyév december 31-e.
+A támogatásról az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik, felhasználásának határideje tárgyévet követő év december 31-e.
 
 b) Jó adatszolgáltató önkormányzatok támogatása
 
@@ -452,6 +452,78 @@ A támogatás felhasználásának részletes szabályairól a helyi önkormányz
 
 A támogatás felhasználási határideje - ideértve a 2017. november 15-éig el nem számolt előleget is - 2018. december 31.
 
+11. Mini bölcsődei férőhelyek kialakításának támogatása
+
+Előirányzat: 800,0 millió forint
+
+Az előirányzatból a 10 000 lakos alatti, 20 000 forint egy lakosra jutó adóerő-képességet meg nem haladó települési önkormányzat pályázati úton támogatást igényelhet mini bölcsőde kialakítására, amennyiben a településen nem működik bölcsőde, mini bölcsőde, továbbá a település 3 év alatti lakosainak száma meghaladja a 40 főt.
+
+Az igényelhető maximális támogatás mértéke 10,0 millió forint.
+
+A támogatásból megvalósuló beruházást a beruházás megvalósításától számított 10 évig az eredeti rendeltetésének megfelelően saját (ideértve a pályázó részvételével működő társulást is) fenntartásban kell működtetni. Nem igényelhet támogatást az az önkormányzat, mely a 2014-2020. évek közötti uniós programozási időszakban azonos célra rendelkezésre álló európai uniós támogatásban részesült.
+
+A támogatásról az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
+
+12. Kistelepülési önkormányzatok alacsony összegű fejlesztéseinek támogatása
+
+Előirányzat: 1 944,8 millió forint
+
+Az előirányzatból a 2 000 lakos alatti, 12 000 forint egy lakosra jutó adóerő-képességet meg nem haladó települési önkormányzat pályázati úton támogatást igényelhet az alábbi célokra:
+
+a) a település belterületén út, híd vagy járda építésére, felújítására, karbantartására,
+
+b) vízrendezési és csapadékelvezetési rendszer kiépítésére, felújítására,
+
+c) köztemető felújítására, ravatalozó építésére illetve felújítására, temetőközlekedési utak építésére, felújítására,
+
+d) olyan épület felújítására, fejlesztésére, illetve energetikai korszerűsítésére és szükség esetén megvásárlására, amely
+
+da) igazgatási tevékenységet,
+
+db) óvodai nevelést,
+
+dc) kulturális tevékenységet vagy
+
+dd) szociális vagy egészségügyi vagy gyermekvédelmi
+
+feladatellátást szolgál,vagy a jövőben fog szolgálni,
+
+e) településrendezési tervek készítésére.
+
+Az igényelhető maximális támogatás mértéke:
+
+– 100 főt meg nem haladó lakosságszámú település esetében legfeljebb 500 000 forint,
+
+– 101-300 fő lakosságszám közötti település esetében legfeljebb 750 000 forint,
+
+– 301-500 fő lakosságszám közötti település esetében legfeljebb 1 000 000 forint,
+
+– 501-1 000 fő lakosságszám közötti település esetében legfeljebb 1 250 000 forint,
+
+– 1 001-2 000 fő lakosságszám közötti település esetében legfeljebb 1 600 000 forint.
+
+A támogatásból megvalósuló beruházást a beruházás megvalósításától számított 10 évig az eredeti rendeltetésének megfelelően saját (ideértve a pályázó részvételével működő társulást is) fenntartásban kell működtetni.
+
+A támogatásról a helyi önkormányzatokért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
+
+13. Pestszentimrei gyermekorvosi rendelő kialakításának támogatása
+
+Előirányzat: 350,0 millió forint
+
+Az előirányzat szolgál a Budapest Főváros XVIII. kerület Pestszentlőrinc - Pestszentimre Önkormányzata támogatására a Pestszentimrei gyermekorvosi rendelő kialakítása érdekében. A támogatás felhasználásának részletes szabályairól az egészségügyért felelős miniszter – mint támogató – támogatási szerződést köt Budapest Főváros XVIII. kerület Pestszentlőrinc - Pestszentimre Önkormányzatával. A támogatás 50%-ának (a továbbiakban: előleg) folyósítása a támogatási szerződés megkötését követő 30 napon belül történik és a további részletek tárgyévi – szerződés szerinti – folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb tárgyév november 15-éig elszámol.
+
+A támogatás felhasználási határideje – ideértve a tárgyév november 15-éig el nem számolt előleget is – tárgyévet követő év december 31-e.
+
+14. Helyi érdekű települési fejlesztések
+
+Előirányzat: 4 700,0 millió forint
+
+Az előirányzat szolgál a helyi érdekű, önkormányzati tulajdonban álló – vagy a fejlesztés révén önkormányzati tulajdonba kerülő – ingatlanok, közterületek fejlesztésére, ingóságok beszerzésére.
+
+A támogatás igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályait az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésének megfelelően a helyi önkormányzatokért felelős miniszter állapítja meg.
+
+A támogatás felhasználási határideje tárgyévet követő év december 31-e.
+
 III. Önkormányzatok rendkívüli támogatása
 
 |
@@ -496,7 +568,7 @@ Előirányzat:
 
 a) a költségvetési évet megelőző évi elszámolás alapján a helyi önkormányzatok által költségvetési évben visszafizetett támogatások összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
+b) az önellenőrzés, a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
 
 c) a helyi önkormányzatok által költségvetési évben megfizetett ügyleti és késedelmi kamat összege,
 
@@ -514,7 +586,7 @@ g) az államháztartásért felelős miniszter és a helyi önkormányzatokért 
 
 a) a támogatások költségvetési évet megelőző évi elszámolása alapján a helyi önkormányzatok részéről a költségvetési évben keletkező pótigény összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
+b) az önellenőrzés, a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
 
 c) az államháztartásról szóló jogszabályok alapján költségvetési évben a helyi önkormányzatokat megillető ügyleti és késedelmi kamat összege,
 
@@ -522,7 +594,9 @@ d) a helyi önkormányzatok által az Áht. 83. § (6a) bekezdésében felsorolt
 
 e) a helyi szervezési intézkedésekhez kapcsolódó többletkiadások támogatása jogcímen az előző években jóváhagyott, tárgyévre áthúzódó kötelezettségvállalások,
 
-f) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény szerinti tárgyévi munkáltatói kifizetések.
+f) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény szerinti tárgyévi munkáltatói kifizetések,
+
+g) az önellenőrzés és a kincstári felülvizsgálat során a helyi önkormányzat javára megállapított visszatérítés összege.
 
 4. Az előirányzat szolgál a 2016. évi költségvetési törvény 3. melléklet II.9. és IV. pontjában szereplő azon költségvetési támogatások le nem hívott részének forrásául, amelyek esetében 2016. évben csak az előleg kifizetése történt meg. A 2016-ban le nem hívott, de 2017-ben esedékessé váló támogatások vonatkozásában a támogató jogosult a 2016. évi támogatási szerződés, illetve kiadott támogatói okirat módosítására. E támogatások 2017. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat a 2016. évben kapott támogatással (előleggel) legkésőbb 2017. november 15-éig elszámol. A támogatás felhasználási határideje 2018. december 31.
 
@@ -552,7 +626,11 @@ Az e pont szerint biztosított támogatás kizárólag az abban meghatározott c
 
 A támogatás szempontjából kizárólag az egységes rovatrend „Ellátottak pénzbeli juttatásai” megfelelő rovatain elszámolt kiadások vehetők figyelembe.
 
-Az előirányzat 1-6. pontok szerinti célokra fel nem használt összegének felhasználására, átcsoportosítására kizárólag az államháztartásért felelős miniszter egyetértésével kerülhet sor.
+Az előirányzat 1-7. pontok szerinti célokra fel nem használt összegének felhasználására, átcsoportosítására kizárólag az államháztartásért felelős miniszter egyetértésével kerülhet sor.
+
+7. Az előirányzat szolgál fedezetül a helyi önkormányzat és társulása 2007-2013 programozási időszak európai uniós, valamint a Svájci-Magyar Együttműködési Program fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból adódó fizetési kötelezettségek teljesítésére.
+
+Kifizetés a 2007-2013 programozási időszak európai uniós fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére csak abban az esetben történhet, amennyiben a közreműködő szervezet a költségigazolást tartalmazó igazoló adatlapot 2016. december 1-je után adta ki.
 
 V. Vis maior támogatás
 
@@ -578,13 +656,13 @@ c) az I.5. és II.1. pontok szerinti jogcímek esetében a közlekedésért fele
 
 d) az I.6. pont szerinti jogcím esetében az államháztartásért felelős miniszter,
 
-e) az I.7., II.2. és III. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszterrel közösen,
+e) az I.7., II.2., II.12. és III. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszterrel közösen,
 
 f) a II.3. pont szerinti jogcím esetében az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter és az oktatásért felelős miniszter egyetértésével,
 
 g) a II.4. pont szerinti jogcímek esetében a kultúráért felelős miniszter a helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter egyetértésével,
 
-h) a II.6. pont szerinti jogcím esetében az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter és a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével
+h) a II.6 és II.11. pont szerinti jogcím esetében az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter és a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével
 
 írja ki.
 
@@ -592,9 +670,11 @@ h) a II.6. pont szerinti jogcím esetében az államháztartásért felelős min
 
 a) az I.4., I.5. és II.1. pontok szerinti jogcímek esetében a közlekedésért felelős miniszter,
 
-b) az I.6., II.3. és a II.6. pontok szerinti jogcímek esetében az államháztartásért felelős miniszter,
+b) az I.6., II.3., II.6. és II.11. pontok szerinti jogcímek esetében az államháztartásért felelős miniszter,
 
-c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúráért felelős miniszter.
+c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúráért felelős miniszter,
+
+d) a II.13. pont szerinti jogcím esetében az egészségügyért felelős miniszter.
 
 3. Az e melléklet szerinti támogatások igénylési és döntési eljárására nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szabályait.
 

@@ -868,6 +868,20 @@ Konszernfelelősség alapján történő kifizetések (2. cím, 3. alcím, 3. jo
 
 |
 
+62a
+
+|
+
+|
+
+|
+
+|
+
+Kárpótlási jegyek életjáradékra váltása (2. cím, 3. alcím, 5. jogcímcsoport)
+
+|
+
 63
 
 |
@@ -1027,6 +1041,20 @@ LXXI. NYUGDÍJBIZTOSÍTÁSI ALAP fejezetben
 |
 
 Hozzátartozói nyugellátás (2. cím, 1. alcím, 3. jogcímcsoport)
+
+|
+
+74a
+
+|
+
+|
+
+|
+
+|
+
+Nyugdíjprémium céltartalék (2. cím, 1. alcím, 5. jogcímcsoport)
 
 |
 
@@ -1398,6 +1426,20 @@ XII. FÖLDMŰVELÉSÜGYI MINISZTÉRIUM fejezetben
 
 |
 
+101a
+
+|
+
+|
+
+|
+
+|
+
+Egyéb, EU által nem térített kiadások (20. cím, 7. alcím, 2. jogcímcsoport)
+
+|
+
 102
 
 |
@@ -1719,6 +1761,20 @@ Peres ügyek (20. cím, 5. alcím, 4. jogcímcsoport)
 |
 
 Szociális célú nem állami humánszolgáltatások támogatása (20. cím, 19. alcím, 1. jogcímcsoport)
+
+|
+
+125a
+
+|
+
+|
+
+|
+
+|
+
+Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék, és egyéb ágazati bérrendezé ssel összefüggő támogatások (20. cím, 19. alcím, 8. jogcímcsoport)
 
 |
 

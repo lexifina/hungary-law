@@ -16,4 +16,4 @@ b) 44. § (1) bekezdése szerinti ápolási díj havi alapösszege a 2017. évbe
 
 (3) A fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény 4. § (2) bekezdés a) pontja szerinti első utalási összeg 42 500 forint, a 4. § (2) bekezdés b) pontja szerinti második és harmadik utalási összeg 44 600-44 600 forint, ha a gyermek a 2017. évben született.
 
-(4) A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 8. § (1) bekezdés b) pontjában meghatározott alapnormatíva összege a 2017. évben 453 000 forint/fő/év.
+(4) A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 8. § (1) bekezdés b) pontjában meghatározott alapnormatíva összege 2017. január 1-jétől 2017. december 31-éig 480 000 forint/fő/év.

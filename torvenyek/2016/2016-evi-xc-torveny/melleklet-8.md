@@ -1102,7 +1102,7 @@ IV. Szociális ágazati összevont pótlék
 
 A központi költségvetés támogatást biztosít a Kjtvhr. szerinti, 2017. január-december hónapokban kifizetendő szociális ágazati összevont pótlékhoz és annak közterheihez, ha a fenntartó
 
-a) a 41. § (1) bekezdés a)-c) pontja szerint támogatásban részesül, vagy
+a) a 41. § (1) bekezdés a)–c) pontja és a 41. § (7) bekezdés szerint támogatásban részesül, vagy
 
 b) a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló kormányrendelet alapján támogatásban részesül és érvényes támogatási szerződéssel rendelkezik arra az időszakra, amelyre támogatást igényel, vagy
 
@@ -1112,7 +1112,7 @@ A 2. melléklet, Kiegészítő szabályok 2. pont c) alpontja szerinti, települ
 
 A támogatás éves összegének meghatározása
 
-T= Plsz * Kjtvhr. szerinti pótlék összege *12*1,27, de legfeljebb a kifizetett szociális ágazati összevont pótlék és annak a szociális hozzájárulási adója, ahol
+T= Plsz * Kjtvhr. szerinti pótlék összege *12*(1 + a szociális hozzájárulási adó mértéke), de legfeljebb a kifizetett szociális ágazati összevont pótlék és annak a szociális hozzájárulási adója, ahol
 
 Plsz= a szociális ágazati összevont pótlékra jogosult foglalkoztatottak száma, amely a támogatás igénylésekor a szociális ágazati összevont pótlékra jogosult foglalkoztatottak éves becsült átlaglétszáma közalkalmazotti jogviszonyban töltött idő és fizetési osztály figyelembevételével; a támogatás elszámolásakor a foglalkoztatottak éves tényleges átlaglétszáma közalkalmazotti jogviszonyban töltött idő és fizetési osztály figyelembevételével.
 

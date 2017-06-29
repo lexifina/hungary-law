@@ -53,7 +53,3 @@ A feladatalapú támogatásra az a helyi nemzetiségi önkormányzat jogosult, a
 - a költségvetési évet megelőző évben megtartott legalább négy képviselő-testületi ülésre vonatkozó jegyzőkönyvét, és
 
 - ha a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 97. §-a szerinti közmeghallgatás megtartására nem az előző pont szerint igazolt képviselő-testületi ülés egyikén került sor, akkor a közmeghallgatásról készült jegyzőkönyvet
-
-a fővárosi és megyei kormányhivatal részére 2017. január 15-éig benyújtja. E benyújtási határidő elmulasztása jogvesztő. A fővárosi és megyei kormányhivatal e dokumentumokat 2017. január 20-áig elektronikus úton küldi meg a nemzetiségpolitikáért felelős miniszter (a továbbiakban: miniszter) részére.
-
-A jegyzőkönyvek alapján a miniszter a helyi nemzetiségi önkormányzatok főbb nemzetiségi feladatokkal kapcsolatos döntéseit – az alábbi táblázat feltételeit figyelembe véve – értékeli, és megállapítja a helyi nemzetiségi önkormányzatok támogatását megalapozó feladatmutató pontszámot.

@@ -78,7 +78,7 @@ A belterületre vonatkozóan a Földmérési és Távérzékelési Intézet ált
 
 bb) Közvilágítás fenntartásának alaptámogatása
 
-A támogatás a települési önkormányzatokat a településen történő közvilágítás biztosításához kapcsolódóan illeti meg. A támogatás meghatározása a településen kiépített kisfeszültségű hálózat kilométerben meghatározott hossza alapján történik, az alábbi, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő 064010 „Közvilágítás” kormányzati funkció alapján településkategóriánként számított átlagos, egy kilométerre jutó nettó működési kiadások figyelembevételével.
+A támogatás a települési önkormányzatokat a településen történő közvilágítás biztosításához kapcsolódóan illeti meg. A támogatás meghatározása a településen kiépített kisfeszültségű hálózat kilométerben meghatározott hossza alapján történik, az alábbi, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő „Közvilágítás” kormányzati funkció alapján településkategóriánként számított átlagos, egy kilométerre jutó nettó működési kiadások figyelembevételével.
 
 Településkategóriánként a támogatás fajlagos összege az alábbi:
 
@@ -110,7 +110,7 @@ A településen kiépített kisfeszültségű hálózat hossza tekintetében a K
 
 bc) Köztemető fenntartással kapcsolatos feladatok alaptámogatása
 
-A támogatás a települési önkormányzatokat a köztemető fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő 013320 „Köztemető-fenntartás, és -működtetés” kormányzati funkció településkategóriánként számított egy négyzetméterre eső nettó működési kiadások figyelembevételével. Az így meghatározott támogatás összege legalább 100 000 forint.
+A támogatás a települési önkormányzatokat a köztemető fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő „Köztemető-fenntartás, és -működtetés” kormányzati funkció településkategóriánként számított egy négyzetméterre eső nettó működési kiadások figyelembevételével. Az így meghatározott támogatás összege legalább 100 000 forint.
 
 Ugyancsak 100 000 forint támogatás illeti meg azon önkormányzatokat, melyeknek a fenti kormányzati funkción mutatkozó nettó kiadása nem haladja meg a 100 000 forintot, illetve az OSAP-jelentés alapján naturális mutatóval rendelkeznek, de a fenti kormányzati funkción nettó kiadásuk nem mutatkozott. Nem részesülnek támogatásban azon önkormányzatok, melyek az OSAP-jelentésben nem szerepeltettek temetőt. Azon önkormányzatok, melyek temetővel nem rendelkeznek, de megállapodás alapján köztemető fenntartásához hozzájárulnak vagy a feladatot ellátják, és a fenti kormányzati funkción nettó működési kiadásuk a Magyar Államkincstár (a továbbiakban: Kincstár) által ellenőrzött és igazolt módon meghaladja a 100 000 forintot, a nettó kiadásuk 90%-ának megfelelő összegű támogatásra, de legalább 100 000 forintra jogosultak.
 
@@ -148,7 +148,7 @@ A településen lévő köztemető nagyságát az OSAP 1616 „Jelentés az önk
 
 bd) Közutak fenntartásának alaptámogatása
 
-A támogatás a települési önkormányzatokat a közutak fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő 045160 „Közutak, hidak, alagutak üzemeltetése, fenntartása” és 045170 „Parkoló, garázs üzemeltetése, fenntartása” kormányzati funkciók alapján településkategóriánként számított nettó működési kiadások figyelembevételével.
+A támogatás a települési önkormányzatokat a közutak fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő „Közutak, hidak, alagutak üzemeltetése, fenntartása” és „Parkoló, garázs üzemeltetése, fenntartása” kormányzati funkciók alapján településkategóriánként számított nettó működési kiadások figyelembevételével.
 
 Településkategóriánként a támogatás fajlagos összege az alábbi:
 
@@ -488,6 +488,16 @@ A támogatás a helyi önkormányzatokat a költségvetési szervek és az egyh�
 
 A támogatás folyósítása január hónap végén a nettó finanszírozás keretében történik.
 
+6. A településképi arculati kézikönyv elkészítésének támogatása
+
+ELŐIRÁNYZAT: 2773,0 millió forint
+
+FAJLAGOS ÖSSZEG: 1 000 000 forint/település,
+
+A támogatás a 10 000 lakos alatti, 32 000 forint egy lakosra jutó adóerő-képességet el nem érő települési önkormányzatokat illeti meg a településkép védelméről szóló 2016. évi LXXIV. törvény szerinti településképi arculati kézikönyv elkészítésével kapcsolatban felmerülő kiadások teljesítéséhez.
+
+A támogatás folyósítása egy összegben, augusztus hónap végén a nettó finanszírozás keretében történik.
+
 II. A TELEPÜLÉSI ÖNKORMÁNYZATOK EGYES KÖZNEVELÉSI FELADATAINAK TÁMOGATÁSA
 
 1. Óvodapedagógusok és az óvodapedagógusok nevelőmunkáját közvetlenül segítők bértámogatása
@@ -558,6 +568,8 @@ Nem igényelhető támogatás továbbá azon gyermekek után, akik esetében az 
 
 A 2016/2017. nevelési évben az első nevelési évet kezdő óvodások között két gyermekként kell figyelembe venni azokat a bölcsődés korú, második életévüket 2016. december 31-éig betöltő gyermekeket, akiknek a gondozását a Nkt. 20. § (10) bekezdése szerint egységes óvoda-bölcsőde intézmény keretei között, a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendeletben (a továbbiakban: 20/2012. (VIII. 31.) EMMI rendelet) meghatározott feltételek szerint biztosítják, és a gyermek 2016. szeptember 1-je és december 31-e között igénybe veszi az ellátást.
 
+A 2017/2018. nevelési évben az első nevelési évet kezdő óvodások között két gyermekként kell figyelembe venni azokat a bölcsődés-korú, második életévüket 2017. december 31-éig betöltő gyermekeket is, akiknek a gondozását a Nkt. 20. § (10) bekezdése szerint egységes óvoda-bölcsőde intézmény keretei között, a 20/2012. (VIII. 31.) EMMI rendeletben meghatározott feltételek szerint biztosítják, és a gyermek 2017. szeptember 1-je és december 31-e között igénybe veszi az ellátást. 2017. szeptember 1-jétől egy gyermekként lehet figyelembe venni azt a 2017/2018. nevelési évben bölcsődéskorúnak minősülő és az egységes óvoda-bölcsődei ellátást igénybevevő gyermeket, aki 2017. december 31-éig betölti harmadik életévét.
+
 b) A számított óvodapedagógus és az óvodapedagógus nevelőmunkáját közvetlenül segítők létszámának meghatározása
 
 Az óvodapedagógus létszám meghatározása a következő képlettel történik:
@@ -584,7 +596,7 @@ Vk1; Vk2 = vezetői órakedvezmény miatti pedagógus többletlétszám a 2016/2
 
 Op1; Op2 = a Nkt. 61. § (3) bekezdése alapján az intézmény alapító okirata szerint 500 fő férőhelyet elérő vagy azt meghaladó intézményeknél kötelezően alkalmazandó óvodapszichológusok létszáma a 2016/2017., illetve a 2017/2018. nevelési évben (egy tizedesre kerekítve).
 
-A támogatás igénylése szempontjából az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma - beleértve a pedagógus szakképzettséggel rendelkező segítőket is - a Nkt. 2. melléklete, valamint a 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető - a Kjt. alapján foglalkoztatott - létszám, de legfeljebb
+A támogatás igénylése szempontjából az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma – beleértve a pedagógus szakképzettséggel, szakképesítéssel rendelkező segítőket is –” a Nkt. 2. melléklete, valamint a 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető - a Kjt. alapján foglalkoztatott - létszám, de legfeljebb
 
 - 2017. év első 8 hónapjában a ténylegesen foglalkoztatott segítők átlagos száma,
 
@@ -622,7 +634,7 @@ Ts1, Ts2 = a 2016/2017., illetve a 2017/2018. nevelési évben az óvodapedagóg
 
 S1; S2 = a 2016/2017., illetve a 2017/2018. nevelési évben az óvodapedagógusok nevelőmunkáját közvetlenül segítők b) alpont szerinti száma, levonva a PS1, illetve a PS2 értékét,
 
-PS1; PS2 = a 2016/2017., illetve a 2017/2018. nevelési évben a pedagógus szakképzettséggel rendelkező, az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma, a 2016/2017. nevelési évben ideértve a felsőfokú végzettséggel rendelkező, 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerinti kisgyermeknevelőket is,
+PS1; PS2 = a 2016/2017., illetve a 2017/2018. nevelési évben a pedagógus szakképzettséggel, szakképesítéssel rendelkező, az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma, a 2016/2017. nevelési évben ideértve a felsőfokú végzettséggel rendelkező, 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerinti kisgyermeknevelőket is,
 
 ÁBp = óvodapedagógus átlagbér elismert összege,
 
@@ -684,7 +696,7 @@ A támogatás szempontjából az adott napon figyelembe vehető egy főként az 
 
 A támogatás folyósítása a nettó finanszírozás keretében, az Ávr.-ben meghatározott időpontokban történik.
 
-4. Kiegészítő támogatás az óvodapedagógusok minősítéséből adódó többletkiadásokhoz
+4. Kiegészítő támogatás az óvodapedagógusok és a pedagógus szakképzettséggel rendelkező segítők minősítéséből adódó többletkiadásokhoz
 
 |
 
@@ -696,17 +708,13 @@ ELŐIRÁNYZAT:
 
 |
 
-|
-
-|
-
-ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
+ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK
 
 |
 
 |
 
-- PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA:
+- PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK KIEGÉSZÍTŐ TÁMOGATÁSA:
 
 |
 
@@ -714,7 +722,7 @@ ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
 
 |
 
-- MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA:
+- MESTERPEDAGÓGUS, KUTATÓTANÁR KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA:
 
 |
 
@@ -726,13 +734,13 @@ ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
 
 |
 
-MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
+MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK
 
 |
 
 |
 
-- PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA:
+- PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK KIEGÉSZÍTŐ TÁMOGATÁSA:
 
 |
 
@@ -740,19 +748,21 @@ MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
 
 |
 
-- MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA:
+- MESTERPEDAGÓGUS, KUTATÓTANÁR KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA:
 
 |
 
 1 684 800 forint/fő/év
 
-A központi költségvetés kiegészítő támogatást biztosít a Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2016. december 31-éig a Pedagógus II. vagy Mesterpedagógus fokozatot elért óvodapedagógusok béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2017. január 1-je és 2017. december 31-e között ténylegesen foglalkoztatott pedagógusok időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg a következők szerint:
+A központi költségvetés kiegészítő támogatást biztosít a Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2017. január 1-jén Pedagógus II., Mesterpedagógus vagy Kutatótanár fokozatú besorolással rendelkező óvodapedagógusok, valamint Pedagógus II. fokozatba átsorolt, pedagógus szakképzettséggel rendelkező segítők (a továbbiakban: segítők) béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2017. január 1-je és 2017. december 31-e között ténylegesen foglalkoztatott óvodapedagógusok és segítők időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg a következők szerint:
 
-- a támogatás teljes összege megilleti a fenntartót azon pedagógusok után, akik a minősítést 2015. december 31-éig szerezték meg,
+- a támogatás teljes összege megilleti a fenntartót azon óvodapedagógusok és segítők után, akik a minősítést 2015. december 31-éig szerezték meg,
 
-- a támogatás 11 havi időarányos része illeti meg a fenntartót azon pedagógusok után, akik a minősítést 2016. évben szerezték meg.
+- a támogatás 11 havi időarányos része illeti meg a fenntartót azon óvodapedagógusok és segítők után, akik a minősítést 2017. január 1-jei átsorolással szerezték meg.
 
-A minősítést elnyert pedagógusok fenntartónkénti adatait a köznevelési információs rendszer adatkezelőjének adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert pedagógusok számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
+A támogatás felhasználható a 2016. december havi bérek, 2017. januárban történő kifizetésére.
+
+A minősítést elnyert óvodapedagógusok és segítők fenntartónkénti adatait a köznevelési információs rendszer adatkezelőjének adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert és átsorolt óvodapedagógusok és segítők számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
 
 A támogatás folyósítása január hónaptól havonta egyenlő részletekben, az Ávr.-ben meghatározott időpontokban történik.
 
@@ -882,7 +892,7 @@ ELŐIRÁNYZAT:
 
 |
 
-51 824,1 millió forint
+54 324,1 millió forint
 
 a) Család- és gyermekjóléti szolgálat
 
@@ -1132,31 +1142,25 @@ A támogatás a települési önkormányzatot a házi segítségnyújtás keret�
 
 da) Szociális segítés
 
-|
-
-FAJLAGOS ÖSSZEG:
-
-|
-
-25 000 forint/fő
+FAJLAGOS ÖSSZEG: 25 000 forint/fő
 
 A támogatás a Szoctv. 63. § (3) bekezdése és a külön jogszabályban foglalt szakmai szabályok alapján biztosított szociális segítés keretében kizárólag szociális segítésre megállapodást kötött ellátottak után jár. A feladat ellátható közfoglalkoztatottak alkalmazásával, de ez esetben a támogatás kizárólag a feladat ellátásával összefüggő kiadások közfoglalkoztatáshoz kapcsolódó egyéb állami támogatással nem fedezett részére használható fel.
 
+Az ellátottak számának meghatározása: tervezéskor a szociális segítés keretében ellátottak éves becsült száma, elszámoláskor a szociális segítésben részesülők tevékenységnaplója alapján naponta összesített ellátottak száma osztva 251-gyel.
+
 db) Személyi gondozás
 
-|
-
-FAJLAGOS ÖSSZEG:
-
-|
-
-210 000 forint/fő
+FAJLAGOS ÖSSZEG: 210 000 forint/fő
 
 A támogatás a Szoctv. 63. § (4) bekezdése és a külön jogszabályban foglalt szakmai szabályok alapján biztosított személyi gondozás keretében kizárólag személyi gondozásra megállapodást kötött ellátottak után jár. E feladat ellátásában közfoglalkoztatottak nem működhetnek közre.
 
-Az ellátottak számának meghatározása: tervezéskor a szociális segítés és személyi gondozás keretében ellátottak éves becsült száma, elszámoláskor a házi segítségnyújtásban részesülők tevékenységnaplója alapján naponta összesített ellátottak száma osztva 251-gyel. A szociális segítés és személyi gondozás tekintetében az ellátottak száma igényléskor és elszámoláskor sem haladhatja meg a befogadott ellátotti létszámot, azon belül a személyi gondozásra befogadott ellátotti létszámot. Egy ellátott naponta csak egyszer és a da)-db) jogcímek közül csak egy jogcímen vehető figyelembe.
+Az ellátottak számának meghatározása: tervezéskor a személyi gondozásra megállapodással rendelkező ellátottak részére nyújtott tevékenység éves becsült óraszáma alapján kalkulált ellátotti létszám. Elszámoláskor a személyi gondozásra megállapodással rendelkezők és az ellátást ténylegesen igénybe vevők számának meghatározása: a tevékenységnapló alapján összesített órák száma osztva 252-vel.
 
-Amennyiben a személyi gondozás feladatának ellátásáról - a Kiegészítő szabályok 5.d)-e) alpontoknak megfelelő - társulás gondoskodik, úgy az ellátottak után a fajlagos összeg 130%-a igényelhető.
+Az ellátotti létszám meghatározása során a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SzCsM rendelet 2. számú melléklet Kiegészítő szabályok 3. pontja alapján kell eljárni. Amennyiben a gondozást nem heti 40 órában foglalkoztatott szociális gondozó végzi, úgy a gondozásra fordított havi 147 órás órakeret arányosan csökkentve vehető figyelembe. Az ellátottak száma igényléskor és elszámoláskor sem haladhatja meg a befogadott ellátotti létszámot.
+
+Amennyiben a házi segítségnyújtásról – a Kiegészítő szabályok 5. d)-e) pontjának megfelelő – társulás gondoskodik, úgy a személyi gondozásnál figyelembe vett ellátotti létszám után a fajlagos összeg 130%-a igényelhető.
+
+Egy ellátott naponta a da)-db) jogcímek közül csak egy jogcímen vehető figyelembe.
 
 e) Falugondnoki vagy tanyagondnoki szolgáltatás
 
@@ -1184,7 +1188,7 @@ FAJLAGOS ÖSSZEG:
 
 A támogatást azok a települési önkormányzatok vehetik igénybe, amelyek a Szoctv. 65/F. §-a alapján és külön jogszabályban foglalt szakmai szabályoknak megfelelően időskorúak nappali ellátását biztosító intézményt tartanak fenn. A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg.
 
-Azon ellátott után, akire vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást, vagy a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet (a továbbiakban: 327/2012. (XI. 16.) Korm. rendelet) alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak a támogatás 40%-át igényelheti.
+Azon ellátott után, akire vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást vagy fejlesztő foglalkoztatás működési támogatását, vagy a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet (a továbbiakban: 327/2012. (XI. 16.) Korm. rendelet) alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak a támogatás 40%-át igényelheti.
 
 Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült száma, elszámolásnál a nappali ellátásban részesülők látogatási és eseménynaplója alapján naponta összesített ellátottak száma - a heti 6, illetve heti 7 napon nyújtott szolgáltatásoknál a 6, illetve 7 nap alapul vételével - osztva 251-gyel. Nem vehetők figyelembe a kizárólag étkeztetésben részesülők.
 
@@ -1202,7 +1206,7 @@ FAJLAGOS ÖSSZEG:
 
 A támogatást azok a települési önkormányzatok vehetik igénybe, amelyek a Szoctv.-ben szabályozott módon és külön jogszabályban meghatározott szakmai szabályok szerint fogyatékosok nappali ellátását, illetve demens ellátást biztosító intézményt tartanak fenn. A demens személyek nappali intézményében a támogatás igénybevételének feltétele, hogy az ellátásban részesülő személy rendelkezzen a Nemzeti Rehabilitációs és Szociális Hivatal, vagy a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum, vagy pszichiáter, neurológus, geriáter szakorvos demencia kórképet megállapító szakvéleményével.
 
-A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
+A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást vagy fejlesztő foglalkoztatás működési támogatását, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
 
 Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült száma, elszámolásnál a nappali ellátásban részesülők látogatási és eseménynaplója alapján naponta összesített ellátottak száma - a heti 6, illetve heti 7 napos nyitvatartással működő intézmények esetén a 6, illetve 7 nap alapul vételével - osztva 251-gyel. Nem vehetők figyelembe a kizárólag étkezésben részesülők.
 
@@ -1220,7 +1224,7 @@ FAJLAGOS ÖSSZEG:
 
 A támogatást azok a települési önkormányzatok vehetik igénybe, amelyek a Szoctv. 65/F. §-a alapján és külön jogszabályban foglalt szakmai szabályoknak megfelelően pszichiátriai és szenvedélybetegek számára nappali ellátást biztosító intézményt tartanak fenn.
 
-A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
+A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást vagy fejlesztő foglalkoztatás működési támogatását, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
 
 Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült száma, elszámolásnál az ellátásban részesülők látogatási és eseménynaplója alapján naponta összesített, a Szoctv. szerint az intézménnyel megállapodást kötött ellátottak száma - a heti 6, illetve heti 7 napos nyitvatartással működő intézmények esetén a 6, illetve 7 nap alapul vételével - osztva 251-gyel. Nem vehetők figyelembe a kizárólag étkezésben részesülők és a 30 napnál folyamatosan hosszabb ideig távolmaradók.
 
@@ -1305,6 +1309,90 @@ Az ellátottak számának meghatározása: tervezéskor az ellátottak éves bec
 Amennyiben a családi bölcsődei ellátásról - a Kiegészítő szabályok 5.d)-e) alpontoknak megfelelő - társulás gondoskodik, úgy az ellátottak után a fajlagos összeg 130%-a igényelhető.
 
 A fajlagos támogatás 77,5%-a megilleti a Gyvt. 145. § (2c) bekezdés b) alpontja alapján befogadást nyert napközbeni gyermekfelügyeletet fenntartó önkormányzatokat is.
+
+jc) Bölcsőde, mini bölcsőde kiegészítő támogatása
+
+FAJLAGOS ÖSSZEG: 475 000 forint/fő
+
+A támogatás a ja) alpont szerinti támogatásra jogosult, 32 000 forint egy lakosra jutó adóerő-képességet meg nem haladó települési önkormányzatokat illeti meg az általuk fenntartott bölcsődébe, mini bölcsődébe beíratott és ellátott gyermekek után, az önkormányzat egy lakosra jutó adóerő-képessége szerint differenciált mértékben.
+
+A támogatás mértékét az alábbi táblázat rögzíti:
+
+|
+
+No.
+
+|
+
+Kategóriák a települési önkormányzat egy lakosra jutó adóerő-képessége szerint (forint)
+
+|
+
+Fajlagos összeg %-a
+
+|
+
+|
+
+alsó határ
+
+|
+
+felső határ
+
+|
+
+|
+
+1.
+
+|
+
+0
+
+|
+
+18 000
+
+|
+
+100
+
+|
+
+2.
+
+|
+
+18 001
+
+|
+
+24 000
+
+|
+
+50
+
+|
+
+3.
+
+|
+
+24 001
+
+|
+
+32 000
+
+|
+
+25
+
+Az adóerő-képesség figyelembevételére vonatkozó szabályokat a Kiegészítő szabályok 1.c) alpontja tartalmazza.
+
+A támogatás a ja) alpontnál jelzett létszám alapján 2017. január 1-jétől illeti meg az önkormányzatokat. A támogatás 68%-ának folyósítása az augusztus havi nettó finanszírozás keretében, ezt követően havonta az Ávr. szerinti mértékben történik. A támogatás felhasználásával kapcsolatban a kiegészítő szabályok ja) alpontra vonatkozó rendelkezéseit kell alkalmazni.
 
 k) Hajléktalanok átmeneti intézményei
 
@@ -1496,7 +1584,7 @@ ELŐIRÁNYZAT:
 
 67 240,0 millió forint
 
-A települési önkormányzatokat kötött felhasználású támogatás illeti meg az általuk a bölcsődében, mini bölcsődében, a fogyatékos személyek nappali intézményében elhelyezett gyermekek számára biztosított, továbbá az óvodai, iskolai, kollégiumi és externátusi gyermekétkeztetés (a továbbiakban intézményi gyermekétkeztetés) egyes kiadásaihoz. A támogatás igénylésének feltétele, hogy az önkormányzat saját fenntartásában lévő költségvetési szerv útján, társult feladatellátás esetén a társulás által fenntartott költségvetési szerv útján, vagy gazdasági társaságtól vásárolt szolgáltatással biztosítsa az étkeztetést. Társult feladatellátás esetén a társulási megállapodás szerinti székhely önkormányzat igényelhet támogatást.
+A települési önkormányzatokat kötött felhasználású támogatás illeti meg az általuk a bölcsődében, mini bölcsődében, a fogyatékos személyek nappali intézményében elhelyezett gyermekek számára biztosított, továbbá az óvodai, iskolai, kollégiumi és externátusi gyermekétkeztetés (a továbbiakban intézményi gyermekétkeztetés) egyes kiadásaihoz. A támogatás igénylésének feltétele, hogy az önkormányzat saját fenntartásában lévő költségvetési szerv útján, társult feladatellátás esetén a társulás által fenntartott költségvetési szerv útján, vagy gazdasági társaságtól, egyéni vállalkozótól, központi költségvetési szervtől vagy nemzetiségi önkormányzattól vásárolt szolgáltatással biztosítsa az étkeztetést. Társult feladatellátás esetén a társulási megállapodás szerinti székhely önkormányzat igényelhet támogatást.
 
 A támogatás igénylésének további feltétele vásárolt szolgáltatás esetén, hogy
 
@@ -1866,7 +1954,7 @@ ELŐIRÁNYZAT:
 
 |
 
-679,4 millió forint
+682,2 millió forint
 
 A támogatás Budapest Főváros Önkormányzatát illeti meg a Mötv.-ben, valamint a Kult. tv.-ben meghatározott könyvtári, múzeumi és közművelődési feladatainak ellátásához.
 
@@ -1878,7 +1966,7 @@ ELŐIRÁNYZAT:
 
 |
 
-679,4 millió forint
+682,2 millió forint
 
 |
 
@@ -1898,7 +1986,7 @@ ELŐIRÁNYZAT:
 
 |
 
-2 100,0 millió forint
+2 094,4 millió forint
 
 A támogatást a megyei könyvtárat fenntartó megyeszékhely megyei jogú város és Szentendre Város Önkormányzata igényelheti a könyvtár által az 5 000 főnél kisebb lakosságszámú - könyvtári szolgáltató helyet működtető - településsel 2016. október 15-éig kötött megállapodások alapján, a következők szerint:
 
@@ -2440,7 +2528,7 @@ a) Az e melléklet szerinti támogatások 2017. december 31-ig használhatók fe
 
 b) A települési önkormányzatok közigazgatási státuszát a 2016. november 1-jei állapotnak megfelelő, a lakosságszámra és korcsoportba tartozók esetében – a III.3. a) és b) pont szerinti támogatások kivételével – pedig a 2016. január 1-jei állapotnak megfelelő, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEKKH) adatait kell figyelembe venni. A III.3. a) és b) pontja szerinti támogatásokat megalapozó lakosságszám tekintetében a KEKKH 2015. január 1-jei állapotnak megfelelő adatait kell figyelembe venni.
 
-c) Az I.1.c), III.2., III.5.b), III.6. és V. pontok szerinti adóerő-képesség figyelembe vétele a következők szerint történik:
+c) Az I.1.c), III.2., III.3.jc), III.5.b), III.6. és V. pontok szerinti adóerő-képesség figyelembe vétele a következők szerint történik:
 
 A 2015. július 1-jén hatályos iparűzési adórendelettel rendelkező települési önkormányzat a 2016. II. negyedéves költségvetési jelentés keretében szolgáltatott adatot a 2015. évi iparűzési adóalap összegéről. A 2016. II. negyedéves költségvetési jelentés keretében adatot nem szolgáltató önkormányzat esetében az egy lakosra jutó elvárt iparűzési adó megegyezik az adatot szolgáltató községi, nagyközségi önkormányzatok egy lakosra jutó iparűzési adóalapja - a legalacsonyabb és legmagasabb egy lakosra jutó iparűzési adóalapú községi, nagyközségi önkormányzatok egy-egy tizede figyelmen kívül hagyásával - számított átlagával.
 
@@ -2878,7 +2966,7 @@ III.4.a), III.5.a), III.7.
 
 2017. december
 
-A települési önkormányzat önkormányzati körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét (szociális ellátások esetében a szolgáltatói nyilvántartásba történő bejegyzést igazoló dokumentumot), valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
+A települési önkormányzat önkormányzati körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez – a II.4. és III.7. pont szerinti támogatások kivételével – mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét (szociális ellátások esetében a szolgáltatói nyilvántartásba történő bejegyzést igazoló dokumentumot), valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
 
 Az egyrészről települési önkormányzatok, másrészről települési, területi nemzetiségi önkormányzatok, országos nemzetiségi önkormányzatok, központi költségvetési szervek, valamint nem állami szervezetek közötti feladat-, illetve intézmény átadása-átvétele esetén, amennyiben az intézmény átadás-átvételének időpontja (tényleges átadás-átvétel) nem esik egybe a c) pont szerinti táblázatban szereplő fenntartóváltási időpontokkal (finanszírozási átadás-átvétel), úgy ezen időpontig az érintett felek a finanszírozást pénzeszköz-átadással, -átvétellel egymás közötti megállapodás útján rendezik. A finanszírozási átadás-átvétel időpontjáig időarányos támogatás abban az esetben illeti meg a feladatot, intézményt átadó települési önkormányzatot, ha a feladatot átvevő az intézmény, szolgáltatás tekintetében a tényleges átadás-átvétel időpontjától kezdve működési engedéllyel (szociális ellátások esetében a szolgáltatói nyilvántartásba történő bejegyzést igazoló dokumentummal) rendelkezik. Ellenkező esetben a feladatot, intézményt átadó települési önkormányzat köteles lemondani a tényleges átadás-átvétel időpontjától a finanszírozási átadás-átvétel időpontjáig tartó időszakra jutó időarányos támogatásról.
 
@@ -3614,7 +3702,7 @@ A támogatások kizárólag a támogatás céljaként meghatározott feladatokra
 
 na) a III.1. jogcím szerinti támogatást a települési önkormányzat kizárólag a 2017. évi január-december hónapokban kifizetendő szociális ágazati összevont pótlékra és annak szociális hozzájárulási adójára használhatja fel,
 
-nb) a III.2. jogcím szerinti támogatás a 3. melléklet IV. 6. pont szerinti ellátások önrészére, a III.3. és III.5. jogcímek szerinti feladatokra, a közfoglalkoztatási feladatok egyéb állami támogatással nem fedezett részére, az intézményi gyermekétkeztetés térítési díjának szociális alapon történő egyedi mérséklésére vagy elengedésére, az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának települési önkormányzatok általi, szociális alapon történő támogatására használható. A támogatás szempontjából kizárólag az „Ellátottak pénzbeli juttatásai” megfelelő rovatain, illetve a „Rövid időtartamú közfoglalkoztatás”, a „Start-munka program - Téli közfoglalkoztatás”, a „Hosszabb időtartamú közfoglalkoztatás”, a „Közfoglalkoztatás mobilitását szolgáló támogatás (közhasznú kölcsönző részére)”, az „Országos közfoglalkoztatási program”, a „Közfoglalkoztatási mintaprogram”, a „Lakáshoz jutást segítő támogatások”, a „Lakóingatlan szociális célú bérbeadása, üzemeltetése”, a „Lakásfenntartással, lakhatással összefüggő ellátások” kormányzati funkciókon, valamint az nc) és ne) pontokban szereplő kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
+nb) a III.2. jogcím szerinti támogatás a 3. melléklet IV. 6. pont szerinti ellátások önrészére, a A III.3., III.5. és III.6. jogcímek szerinti feladatokra, a közfoglalkoztatási feladatok egyéb állami támogatással nem fedezett részére, az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának települési önkormányzatok általi, szociális alapon történő támogatására használható. A támogatás szempontjából kizárólag az „Ellátottak pénzbeli juttatásai” megfelelő rovatain, illetve a „Rövid időtartamú közfoglalkoztatás”, a „Start-munka program - Téli közfoglalkoztatás”, a „Hosszabb időtartamú közfoglalkoztatás”, a „Közfoglalkoztatás mobilitását szolgáló támogatás (közhasznú kölcsönző részére)”, az „Országos közfoglalkoztatási program”, a „Közfoglalkoztatási mintaprogram”, a „Lakáshoz jutást segítő támogatások”, a „Lakóingatlan szociális célú bérbeadása, üzemeltetése”, a „Lakásfenntartással, lakhatással összefüggő ellátások”, az „Egyéb szociális pénzbeli és természetbeni ellátások, támogatások” kormányzati funkciókon, valamint az nc), ne) és nf) pontokban szereplő kormányzati funkciókon elszámolt kiadások vehetők figyelembe. Amennyiben az önkormányzat a III.3., III.5. és III.6 szerinti feladatokra támogatásban nem részesül, de e feladatok ellátásához társulás vagy másik önkormányzat felé „Támogatási célú finanszírozási műveletek” kormányzati funkción teljesített kiadással hozzájárul, úgy ennek összege a támogatás elszámolása szempontjából figyelembe vehető,
 
 nc) a III.3.a)-m) alpontok között átcsoportosítás hajtható végre. A támogatás szempontjából kizárólag a „Család- és gyermekjóléti szolgáltatás”, „Család- és gyermekjóléti központ”, a „Szociális étkeztetés”, a „Házi segítségnyújtás”, a „Falugondnoki, tanyagondnoki szolgáltatás”, az „Időskorúak nappali ellátása”, a „Demens betegek nappali ellátása”, a „Fogyatékossággal élők nappali ellátása”, a „Pszichiátriai betegek nappali ellátása”, a „Szenvedélybetegek nappali ellátása”, a „Hajléktalanok nappali ellátása”, a „Bölcsődei ellátás”, a „Gyermekek egyéb napközbeni ellátása”, a „Hajléktalanok átmeneti ellátása”, a „Támogató szolgáltatás fogyatékos személyek részére”, a „Pszichiátriai betegek közösségi alapellátása” és a„Szenvedélybetegek közösségi alapellátása (kivéve: alacsonyküszöbű ellátás)” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
