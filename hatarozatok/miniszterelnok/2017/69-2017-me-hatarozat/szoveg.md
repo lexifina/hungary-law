@@ -4,4 +4,6 @@ a) Tasó Lászlót az Integrált Közlekedésfejlesztési Operatív Program moni
 
 b) dr. Homolya Róbertet, a Nemzeti Fejlesztési Minisztérium közlekedéspolitikáért felelős államtitkárát az Integrált Közlekedésfejlesztési Operatív Program monitoring bizottsága elnökévé – 2017. május 10-ei hatállyal – kinevezem.
 
-2. Visszavonom a 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek kinevezéséről szóló 21/2015. (III. 12.) ME határozat 2. pontját.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
