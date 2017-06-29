@@ -1,5 +1,0 @@
-93. § (1) A tagsági viszonyt – az alapító okirat eltérő rendelkezése hiányában – az ügyvédi iroda tagja három hónapra felmondhatja. Ha a felmondás lejárta alkalmatlan időre esik, az ügyvédi iroda a felmondási időt legfeljebb három hónappal meghosszabbíthatja.
-
-(2) A tagsági viszonyt – az alapító okirat eltérő rendelkezése hiányában – az ügyvédi iroda három hónapra felmondhatja, egyidejűleg közölnie kell a tagot megillető vagyonrészt, amelyet a tagság megszűnésének napján az iroda köteles kiadni. Ha a tag a számára megállapított vagyonrészt vitatja, azt a felmondás közlését követő tizenöt napon belül köteles az irodának bejelenteni. Többségi szavazati joggal rendelkező tag tagsági jogviszonya nem mondható fel.
-
-(3) Az ügyvédi iroda tagja a tagsági viszonyát azonnali hatállyal felmondhatja, ha az iroda másik tagja az alapító okiratban foglaltakat súlyosan megszegte, vagy olyan magatartást tanúsított, amely a vele való együttműködést, illetve az iroda tevékenységét súlyosan veszélyezteti.
