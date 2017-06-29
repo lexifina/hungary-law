@@ -1,0 +1,5 @@
+187. § (1) A területi kamara a hatósági ellenőrzés során az ellenőrzés céljának eléréséhez szükséges mértékben kötelezheti az ellenőrzöttet adatszolgáltatásra, illetve léphet be az ellenőrzött irodájába, fiókirodájába, alirodájába, tekintheti meg az ellenőrzött iratait és nyilvántartásait, kérhet azokról másolatot.
+
+(2) A területi kamara az ügyvédi letétkezelés ellenőrzése céljából jogosult az ügyvéd letétkezelésre használt számláját vezető számlavezető nevét, a letéti számla számát, egyenlegét, valamint a kamarai hatósági ellenőrzés kezdő napját megelőző tízévi forgalmát megismerni. A számlavezető az ellenőrzött letéti számlájára vonatkozó, e bekezdésben meghatározott adatokat kamarai szabályzatban meghatározott formanyomtatványon vagy űrlapon előterjesztett megkeresés közlésétől számított három napon belül a területi kamara rendelkezésére bocsátja.
+
+(3) Az intézkedést elrendelő végzésben meg kell jelölni az ellenőrzési cselekmény, illetve az adatszolgáltatási kötelezettség célját, valamint indokolni kell annak szükségességét.
