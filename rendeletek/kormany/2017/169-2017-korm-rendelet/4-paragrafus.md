@@ -1,0 +1,3 @@
+4. § (1) A Beruházás lebonyolítója, akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója és építési műszaki ellenőre a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
+
+(2) Az (1) bekezdés szerinti lebonyolítói feladatkörbe az épített környezet alakításáról és védelméről szóló 1997. LXXVIII. törvény 43. § (1) bekezdés c)–d), f), j) és k) pontjában meghatározott feladatokon túlmenően – az építésügyi szakmagyakorlásra vonatkozó összeférhetetlenségi szabályok betartásával – minden olyan feladat, illetve tevékenység ellátása beletartozik, ami az építési tevékenység szakszerű megvalósításának előkészítésével, ellenőrzésével vagy irányításával kapcsolatos.
