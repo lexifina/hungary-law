@@ -78,7 +78,7 @@
 
 | 38. | VP4-10.1.1-15 | Agrár-környezetgazdálkodási kifizetés | 173,01 | 0,00 | 0,00 | 0,00 | 173,01 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2015. október |
 
-| 38a. | VP4-10.1.1-16 | Agrár-környezetgazdálkodási kifizetés | 40,00 | 0 | 0,00 | 0,00 | 40,00 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2016. szeptember |
+| 38a. | VP4-10.1.1-16 | Agrár-környezetgazdálkodási kifizetés | 67,00 | 0 | 0,00 | 0,00 | 67,00 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2016. szeptember |
 
 | 39. | VP4-10.2.1.1-15 | Védett őshonos és veszélyeztetett mezőgazdasági állatfajták genetikai állományának in situ megőrzése | 14,00 | 0,00 | 0,00 | 0,00 | 14,00 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2015. december |
 
