@@ -1044,7 +1044,7 @@
 
 ## 107020 Családon belüli erőszak sértettjeinek bentlakásos ellátása
 
-## 107030 Szociális foglalkoztatás
+## 107030 Szociális foglalkoztatás, fejlesztő foglalkoztatás
 
 ## 107051 Szociális étkeztetés
 
@@ -1100,4 +1100,4 @@
 
 2. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^17]
 
-[^17]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja, a 9/2015. (III. 31.) NGM rendelet 55. §-a, a 44/2015. (XII. 30.) NGM rendelet 2. § 2. pontja, 3. § 8–16. pontja, 4. § (1) bekezdés 4–5. pontja és 4. § (2) bekezdés 3–5. pontja szerint módosított szöveg.
+[^17]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja, a 9/2015. (III. 31.) NGM rendelet 55. §-a, a 44/2015. (XII. 30.) NGM rendelet 2. § 2. pontja, 3. § 8–16. pontja, 4. § (1) bekezdés 4–5. pontja és 4. § (2) bekezdés 3–5. pontja, a 11/2017. (VI. 28.) NGM rendelet 1. § 1. pontja és 2. § 2–4. pontja szerint módosított szöveg.

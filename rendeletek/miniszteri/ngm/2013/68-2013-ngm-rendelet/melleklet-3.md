@@ -164,7 +164,7 @@
 
 | 80 |  | 018030 | Támogatási célú finanszírozási műveletek |
 
-| 81 |  |  | Ide tartozik: - a költségvetési maradvány, vállalkozási maradvány igénybevétele, az államháztartás központi alrendszerében a központi támogatás, az önkormányzat alrendszerében az irányító szerv által nyújtott támogatás. - a kormányzati funkciót a felsőoktatási intézmények nem használhatják, finanszírozási bevételeiket a felhasználás célja szerinti kormányzati funkción kell elszámolniuk. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
+| 81 |  |  | Ide tartozik: – a költségvetési maradvány, vállalkozási maradvány igénybevétele, az államháztartás központi alrendszerében a központi támogatás, az önkormányzat alrendszerében az irányító szerv által nyújtott támogatás. – a kormányzati funkciót a felsőoktatási intézmények nem használhatják, finanszírozási bevételeiket a felhasználás célja szerinti kormányzati funkción kell elszámolniuk. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Ezen a kormányzati funkción kell kimutatni az államháztartás önkormányzati alrendszerében azon transzfer jellegű pénzeszköz átadásokat, amelyeket finanszírozási céllal teljesítenek egymás között azállamháztartási szervek. |
 
 | 82 |  | 018040 | Elkülönített állami pénzalapok bevételei államháztartáson belülről |
 
@@ -1834,7 +1834,7 @@
 
 | 84 |  | 104052 | Családtámogatások |
 
-| 85 |  |  | Ide tartozik: - a családi pótlék, anyasági támogatás, gyermekgondozási segély, gyermeknevelési támogatás, gyermek születésével kapcsolatos szabadság megtérítése, a terhességi, gyermekágyi segély, a gyermekgondozási díj és egyéb, a családok támogatásával összefüggő kifizetések teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. |
+| 85 |  |  | Ide tartozik: - a családi pótlék, anyasági támogatás, gyermekgondozást segítő ellátás, gyermeknevelési támogatás, gyermek születésével kapcsolatos szabadság megtérítése, csecsemőgondozási díj, a gyermekgondozási díj és egyéb, a családok támogatásával összefüggő kifizetések teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. |
 
 | 86 |  | 104060 | A gyermekek, fiatalok és családok életminőségét javító programok |
 
@@ -1894,9 +1894,9 @@
 
 | 114 |  |  | Ide tartozik: - a Regionális Kríziskezelő Központok és a Félutas Kiléptető Házak működtetésével, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879035 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 115 |  | 107030 | Szociális foglalkoztatás |
+| 115 |  | 107030 | Szociális foglalkoztatás, fejlesztő foglalkoztatás |
 
-| 116 |  |  | Ide tartozik: - a szociális foglalkoztatók önálló intézményeiben történő szociális foglalkoztatással összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 116 |  |  | Ide tartozik: - a szociális foglalkoztatók önálló intézményeiben történő szociális foglalkoztatással, továbbá a fejlesztő foglalkoztatással összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
 | 117 |  | 107051 | Szociális étkeztetés |
 
