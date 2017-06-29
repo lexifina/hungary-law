@@ -1,0 +1,1145 @@
+# A Kormány 171/2017. (VI. 29.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 104. szám, 2017. június 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1c9d3fc16e8f7012e04e4ecca1ed58e18d21b1f8/dokumentumok/192ed8a4348fc43b9a4246d384e4373977f9a124/letoltes)
+
+---
+
+A Kormány 171/2017. (VI. 29.) Korm. rendelete
+a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek
+módosításáról
+A Kormány
+az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, továbbá
+az 1. alcím tekintetében a családok támogatásáról szóló 1998. évi LXXXIV. törvény 51. § d) pontjában kapott felhatalmazás
+alapján,
+a 2. alcím tekintetében a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés c) és i) pontjában
+kapott felhatalmazás alapján,
+a 3. alcím tekintetében a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások
+fedezetéről szóló 1997. évi LXXX. törvény 58. § (2) bekezdésében kapott felhatalmazás alapján,
+
+a 4. alcím tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés r) pontjában
+és (5) bekezdésében kapott felhatalmazás alapján,
+az 5. alcím és az 1. melléklet tekintetében a családok támogatásáról szóló 1998. évi LXXXIV. törvény 51. § d) pontjában kapott
+felhatalmazás alapján,
+a 6. alcím és a 2. melléklet tekintetében a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi
+XXVI. törvény 30. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+a 8. alcím tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §
+(1) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 9. alcím tekintetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. §
+(1) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 10. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 47. §
+(1) bekezdésében kapott felhatalmazás alapján,
+a 11. alcím tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés k) pontjában kapott felhatalmazás
+alapján,
+a 12. alcím tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 9. pontjában kapott
+felhatalmazás alapján,
+a 13. alcím tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés l) pontjában kapott
+felhatalmazás alapján,
+a 14. alcím tekintetében a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (1) bekezdés a) pontjában kapott
+felhatalmazás alapján,
+a 15. alcím tekintetében a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól
+szóló 1999. évi XLII. törvény 8. § (5) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 16. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (4) és
+(5) bekezdésében kapott felhatalmazás alapján,
+a 17. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 47. §
+(1) bekezdésében kapott felhatalmazás alapján,
+a 18. alcím tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával
+és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § a) és g) pontjában, 21/A. §
+a) pontjában kapott felhatalmazás alapján,
+a 19. alcím és a 3. melléklet tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110/A. §
+a) pont aa) alpontjában kapott felhatalmazás alapján,
+a 20. alcím tekintetében az energiahatékonyságról szóló 2015. évi LVII. törvény 44. § g) pontjában kapott felhatalmazás alapján,
+a 21. alcím tekintetében a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § e) pontjában, valamint
+a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 22. alcím tekintetében a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 74. §-ában, valamint a bűncselekmények
+áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 46. § (3) bekezdésében kapott felhatalmazás
+alapján,
+a 23. alcím tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 7. alpontjában kapott
+felhatalmazás alapján,
+a 24. alcím és a 4. melléklet tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. §
+(1) bekezdés a) pontjában, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 90. § (5) bekezdés c)–e) pontjában,
+a termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (1) bekezdés a) pontjában, a vad védelméről, a vadgazdálkodásról,
+valamint a vadászatról szóló 1996. évi LV. törvény 100. § (2) bekezdésében, a mezőgazdasági termékpiacok szervezésének egyes
+kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény 27. § a) pontjában kapott felhatalmazás
+alapján,
+a 25. alcím tekintetében az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (4) bekezdés
+a) pontjában kapott felhatalmazás alapján,
+a 26. alcím tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (5) bekezdésében kapott
+felhatalmazás alapján,
+a 27. alcím tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés h) pontjában kapott felhatalmazás
+alapján,
+
+a 28. alcím tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával
+és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § g) pontjában kapott
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló
+149/1997. (IX. 10.) Korm. rendelet módosítása
+1. §
+A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet
+91/B. § (4) bekezdésében a „családtámogatási feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi)
+hivatalával” szövegrész helyébe a „családtámogatási feladatkörében eljáró járási (fővárosi kerületi) hivatalával”
+szöveg lép.
+2. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosítása
+2. § (1) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.)
+Korm. rendelet (a továbbiakban: R1.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az ügyfél lakóhelye, tartózkodási helye, illetve székhelye, telephelye szerint illetékes kormányhivatal jár el
+a) a kivételes nyugellátás-emeléssel és az egyszeri segéllyel kapcsolatos ügyekben az (5) bekezdés b) pontjában
+meghatározott kivétellel,
+b) a tartozás mérséklésére, elengedésére és a fizetési kedvezmény engedélyezésére irányuló ügyekben, ha
+a tartozást járási hivatal vagy kormányhivatal írta elő,
+c) a foglalkoztatói adatszolgáltatással, a biztosítottak nyilvántartásba történő betekintési jogával, a kivonat
+készítésével és a nyilvántartásokkal kapcsolatos egyéb ügyekben,
+d) a Tny. 100. §-a szerinti hatósági ellenőrzések ügyében.”
+(2) Az R1. 3. § (5) bekezdése a következő d) ponttal egészül ki:
+(A Központ nyugdíjbiztosítási igazgatási szervként jár el)
+„d) a tartozás mérséklésére, elengedésére vagy fizetési kedvezmény engedélyezésére irányuló ügyekben, ha
+a tartozást a Nyugdíjfolyósító Igazgatóság vagy a Központ írta elő.”
+(3) Az R1. a következő 83. §-sal egészül ki:
+„83. § (1) A tartozás mérséklésére, elengedésére vagy fizetési kedvezmény engedélyezésére irányuló kérelmet
+a Központ által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben –
+e célra rendszeresített, és az ONYF honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus
+űrlapon kell benyújtani.
+(2) A tartozás mérséklése, elengedése és a fizetési kedvezmény engedélyezése iránti kérelem benyújtására szolgáló
+nyomtatvány és elektronikus űrlap tartalmazza
+a) a kérelmező természetes személyazonosító adatait, társadalombiztosítási azonosító jelét, lakóhelyét, tartózkodási
+helyét és elérhetőségét,
+b) a kérelem teljesítését alátámasztó, különös méltánylást érdemlő körülmények megjelölését.”
+(4) Az R1. a következő 97. §-sal egészül ki:
+„97. § A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek
+módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén
+folyamatban lévő hatósági ügyekben is alkalmazni kell.”
+(5) Az R1.
+a) 79. § (5) bekezdés nyitó szövegrészében a „nyugdíjbiztosítási igazgatási szervnek” szövegrész helyébe
+a„Központnak”szöveg,
+b) 81. § (1) bekezdésében a „nyugdíjbiztosítási igazgatási szervnek a kincstár területi szervénél vezetett
+számlájára”szövegrész helyébe a„Központ számlájára”szöveg,
+c) 81. § (2) bekezdésében a„nyugdíjbiztosítási igazgatási szerv”szövegrész helyébe a„Központ”szöveg
+lép.
+(6) Hatályát veszti az R1.
+a) 3. § (5) bekezdés a) pontjában, valamint b) pont bc) alpontjában az„és”szövegrész,
+b) 81. § (3) bekezdése.
+
+3. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások
+fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet
+módosítása
+3. § (1) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló
+1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet (a továbbiakban: R2.) a következő
+32. §-sal egészül ki:
+„32. § A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek
+módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén
+folyamatban lévő hatósági ügyekben is alkalmazni kell.”
+(2) Az R2. 8. § (1) bekezdésében
+a) az „általános hatáskörű nyugdíj-megállapító szerv” szövegrész helyébe a „nyugdíjbiztosítási igazgatási
+szervként eljáró fővárosi és megyei kormányhivatal”szöveg,
+b) a „Budapest Főváros Kormányhivatala nyugdíjbiztosítási igazgatási szervként eljáró VIII. Kerületi Hivatala”
+szövegrész helyébe a „nyugdíjbiztosítási igazgatási szervként eljáró Budapest Főváros Kormányhivatala”
+szöveg
+lép.
+4. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló
+217/1997. (XII. 1.) Korm. rendelet módosítása
+4. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.)
+Korm. rendelet (a továbbiakban: R3.) 1. §-a a következő (7g) bekezdéssel egészül ki:
+„(7g) A Kormány a 11. § (10) és (12) bekezdésében, a 37/A. § (2) és (3) bekezdésében, a 38. § (1), (3) és
+(4) bekezdésében, a 39. § (3) bekezdésben és a 43. § (5) bekezdésében foglalt feladatok ellátására, valamint
+a 12/A. § (6) bekezdése alapján a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról
+szóló uniós rendeletek szerinti Európai Egészségbiztosítási Kártya (a továbbiakban: EU-Kártya) érvényes
+jogviszonnyal rendelkező biztosított részére történő kiadására Nógrád megye illetékességi területére kiterjedően
+egészségbiztosítási szervként a megyei kormányhivatal megyeszékhely szerinti járási hivatala mellett a Nógrád
+Megyei Kormányhivatal Balassagyarmati Járási Hivatalát jelöli ki. A megyeszékhely szerinti járási hivatal és a Nógrád
+Megyei Kormányhivatal Balassagyarmati Járási Hivatala az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.)
+Korm. rendelet 14. §-a szerinti illetékességi területen jár el.”
+(2) Az R3. 50. §-a a következő (19) bekezdéssel egészül ki:
+„(19) A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek
+módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén
+folyamatban lévő hatósági ügyekben is alkalmazni kell.”
+(3) Az R3. 12/A. § (6) bekezdésében az „Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya)” szövegrész
+helyébe az„EU-Kártyát”szöveg lép.
+5. A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló
+223/1998. (XII. 30.) Korm. rendelet módosítása
+5. § (1) A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet
+(a továbbiakban: R4.) 1/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Cst. 2. § a), b), e) és f) pontja szerinti személy esetében családtámogatási ügyben – kivéve ha jogszabály
+másként rendelkezik vagy az ügyet jogszabály családtámogatási kifizetőhely hatáskörébe utalta – első fokon
+a fővárosi és megyei kormányhivatal 13. számú melléklet szerinti családtámogatási feladatkörében eljáró járási
+hivatala jár el.”
+(2) Az R4. a következő 31/A. §-sal egészül ki:
+„31/A. § A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek
+módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén
+folyamatban lévő hatósági ügyekben is alkalmazni kell.”
+(3) Az R4. az 1. melléklet szerinti 13. számú melléklettel egészül ki.
+
+6. A súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás
+folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet módosítása
+6. § (1) A súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának
+szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet (a továbbiakban: R5.) 3/A. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A Kormány a fogyatékossági támogatás iránti eljárásban
+a) első fokon eljáró fogyatékossági támogatási szervként a fővárosi és megyei kormányhivatal 3. számú melléklet
+szerinti járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal),
+b) másodfokon eljáró fogyatékossági támogatási szervként Budapest Főváros Kormányhivatalát (a továbbiakban:
+kormányhivatal)
+jelöli ki.”
+(2) Az R5. 4. § (2b) bekezdése helyébe a következő rendelkezés lép:
+„(2b) A járási hivatal illetékességi területét a 3. számú melléklet határozza meg. A fogyatékossági támogatás
+iránti ügyben a kérelmező lakóhelye vagy tartózkodási helye szerint illetékes járási hivatal jár el. A Fot. 23. §
+(2) bekezdésében meghatározott személy esetén Budapest Főváros Kormányhivatalának VIII. Kerületi Hivatala jár el.”
+(3) Az R5. a következő 20/C. §-sal egészül ki:
+„20/C. § A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek
+módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén
+folyamatban lévő hatósági ügyekben is alkalmazni kell.”
+(4) Az R5. a 2. melléklet szerinti 3. számú melléklettel egészül ki.
+7. A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának
+rendjéről szóló 162/2003. (X. 16.) Korm. rendelet módosítása
+7. §
+A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló
+162/2003. (X. 16.) Korm. rendelet 5. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az (1) bekezdés a) pontjától eltérően a Kormány döntése alapján az (1) bekezdés a) pontjában meghatározott,
+a megyei kormányhivatal földművelésügyi feladatkörében eljáró megyeszékhely szerinti járási hivatali feladatokat
+Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi
+Járási Hivatala látja el. Ahol e jogszabály a feladatok tekintetében megyeszékhely szerinti járási hivatalt említ, azon
+Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát kell érteni.”
+8. A Magyar Államkincstárról szóló 311/2006. (XII. 23.) Korm. rendelet módosítása
+8. § (1) A Magyar Államkincstárról szóló 311/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R6.) a következő 9. §-sal egészül ki:
+„9. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 6/E. § (1) bekezdés
+a) pont aa) alpontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő
+eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(2) Az R6. 6/E. § (1) bekezdés a) pont aa) alpontjában az „a földművelésügyi hatáskörében eljáró járási hivatalt”
+szövegrész helyébe az„az agrárkár-megállapító szervként eljáró megyeszékhely szerinti járási hivatalt”szöveg lép.
+9. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
+9. §
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról
+szóló 114/2007. (V. 24.) Korm. rendelet 72/L. § nyitó szövegrészében a„kormányhivatalt”szövegrész helyébe a„járási
+hivatalt”szöveg lép.
+
+10. A Magyar Köztársaság által a szabad mozgás és tartózkodás jogával rendelkező személyek
+tekintetében alkalmazott, a munkaerő szabad áramlásával összefüggő átmeneti szabályokról szóló
+355/2007. (XII. 23.) Korm. rendelet módosítása
+10. §
+A Magyar Köztársaság által a szabad mozgás és tartózkodás jogával rendelkező személyek tekintetében alkalmazott,
+a munkaerő szabad áramlásával összefüggő átmeneti szabályokról szóló 355/2007. (XII. 23.) Korm. rendelet
+a) 6. § (1) bekezdésében az „állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalnak
+(a továbbiakban: kormányhivatal)” szövegrész helyébe az „állami foglalkoztatási szerv hatáskörében eljáró
+járási hivatalnak (a továbbiakban: járási hivatal)”szöveg,
+b) 6. § (3) bekezdésében, 9. § (7) bekezdésében a„kormányhivatal”szövegrész helyébe a„járási hivatal”szöveg
+lép.
+11. A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek
+kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet módosítása
+11. § (1) A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és
+üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet (a továbbiakban: R7.) 6. § (4) bekezdése helyébe a következő
+rendelkezés lép:
+„(4) Ha a fürdővízprofil a vízminőség hosszabb távú romlási trendjét vagy cianobaktériumok, illetve makroalgák
+elszaporodási tendenciáját mutatja, a járási hivatal – szükség szerint – megteszi az alábbi intézkedéseket:
+a) meghatározza a felmerülő egészségkockázatot és az elfogadhatóságot,
+b) feltárja és megszünteti az okokat, valamint
+c) tájékoztatja a nyilvánosságot.
+Az eljárás során a járási hivatal a helyi viszonyok megismerése érdekében a jegyzőt szakértőként igénybe veheti.”
+(2) Az R7. 15. §-a a következő (15) bekezdéssel egészül ki:
+„(15) E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 6. § (1) és
+(4) bekezdésének hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat
+a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(3) Az R7.
+a) 6. § (1) bekezdésében a „népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal
+(a továbbiakban: megyei kormányhivatal)”szövegrész helyébe a„járási hivatal”szöveg,
+b) 7. § (7) bekezdésében a „megyei kormányhivatal” szövegrész helyébe a „népegészségügyi feladatkörében
+eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal)”szöveg
+lép.
+12. A Kormánytisztviselői Döntőbizottságról szóló 168/2012. (VII. 20.) Korm. rendelet módosítása
+12. § (1) A Kormánytisztviselői Döntőbizottságról szóló 168/2012. (VII. 20.) Korm. rendelet (a továbbiakban: R8.) 7. §
+(1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Döntőbizottság ügyviteli és döntéselőkészítési feladatait – a Döntőbizottság iránymutatása mellett – a Titkárság
+látja el, amely a miniszter által vezetett minisztérium szervezetében működik. A Titkárságon foglalkoztatottak
+a minisztériummal állnak kormányzati szolgálati jogviszonyban.”
+(2) Hatályát veszti az R8. 7. § (2) bekezdése.
+13. A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet
+módosítása
+13. § (1) A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban:
+R9.) 38/A. § (1) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
+(A Kormány)
+„a) a fővárosi és megyei kormányhivatalt jelöli ki az Nkt. 38. § (7) bekezdésében meghatározott, az érettségi
+vizsga vizsgabizottsága, valamint a független vizsgabizottság döntése elleni jogorvoslat elbírálására, valamint
+
+az Nkt. 32. § (2) bekezdésében, 39. § (3) bekezdésében, 40. § (1) és (3) bekezdésében, 75. § (1) bekezdésében, 88. §
+(6) bekezdésében, 93. §-ában,
+b) a fővárosi és megyei kormányhivatal köznevelési feladatkörében eljáró megyeszékhely szerinti járási
+hivatalát, Pest megye területére kiterjedő illetékességgel a Pest Megyei Kormányhivatal Érdi Járási Hivatalát,
+Budapest területére kiterjedő illetékességgel Budapest Főváros Kormányhivatalának V. Kerületi Hivatalát jelöli
+ki az Nkt. 21. § (2), (4a), (9) bekezdésében, 23. § (3) és (6) bekezdésében, 30. § (5) bekezdés c) pontjában, 33. §
+(1) és (5) bekezdésében, 34. § (1) és (2) bekezdésében, 44. § (2a) bekezdésében, 50. § (8) és (9) bekezdésében,
+58. § (5) bekezdésében, 77. § (4) bekezdésében, 83. § (2) bekezdés e) pontjában, 84. § (6) bekezdésében,”
+(foglalt, a köznevelési feladatokat ellátó hatóság feladatainak ellátására.)
+(2) Az R9. a következő 54. §-sal egészül ki:
+„54. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 38/A. (1) bekezdés
+a) és b) pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat
+a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+14. A piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet
+módosítása
+14. §
+A piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet 2. § (1) bekezdés c) pontja
+helyébe a következő rendelkezés lép:
+(E rendelet értelmében piacfelügyeleti hatóság:)
+„c) a fővárosi és megyei kormányhivatal közlekedési, fogyasztóvédelmi, munkavédelmi feladatkörében eljáró
+megyeszékhely szerinti járási (fővárosi kerületi) hivatala, valamint a népegészségügyi feladatkörében eljáró járási
+(fővárosi kerületi) hivatala,”
+15. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált
+figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló
+39/2013. (II. 14.) Korm. rendelet módosítása
+15. § (1) A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről,
+valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet
+(a továbbiakban: R10.) a következő 25. §-sal egészül ki:
+„25. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 11. § (2) és
+(4) bekezdésének hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat
+a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(2) Az R10.
+a) 11. § (2) bekezdés nyitó szövegrészében és (4) bekezdésében a „kormányhivatal” szövegrész helyébe
+a„népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal”szöveg,
+b) 8. mellékletében foglalt táblázat B:3 mezőjében az „10026005-00302845-00000000” szövegrész helyébe
+az„10026005-01040030-00000000”szöveg
+lép.
+16. A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont
+kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli
+mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont
+kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon
+engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi
+foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló
+445/2013. (XI. 28.) Korm. rendelet módosítása
+16. § (1) A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján
+történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal
+munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint
+
+a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi
+foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet
+(a továbbiakban: R11.) a következő 27. §-sal egészül ki:
+„27. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 15. § (3c) bekezdésének,
+valamint 16. § (1) és (4) bekezdésének hatálybalépése előtt megkezdett és a hatálybalépése időpontjában
+folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(2) Az R11.
+a) 15. § (3c) bekezdésében a„kormányhivatalt”szövegrész helyébe a„járási hivatalt”szöveg,
+b) 16. § (1) bekezdésében a„kormányhivatalnak”szövegrész helyébe a„járási hivatalnak”szöveg,
+c) 16. § (4) bekezdésében a„kormányhivatal”szövegrész helyébe a„járási hivatal”szöveg
+lép.
+17. Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint
+e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet módosítása
+17. § (1) Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági
+és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet (a továbbiakban: R12.) 10. §-a a következő
+(4a) bekezdéssel egészül ki:
+„(4a) Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben
+a jogszabályban meghatározott illetékességi területén elsőfokú hatósági jogkört gyakorol a rendbírsággal
+kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön
+jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe
+tartozik.”
+(2) Az R12. 11. § (1) bekezdése a következő o) ponttal egészül ki:
+(Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal)
+„o) elsőfokú hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó
+mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan
+hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.”
+(3) Hatályát veszti az R12. 10. § (4) bekezdés h) pontja.
+18. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló
+66/2015. (III. 30.) Korm. rendelet módosítása
+18. § (1) A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.)
+Korm. rendelet (a továbbiakban: R13.) 2. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Ha kormányrendelet a feladatellátásért felelős szervként, valamint eljáró hatóságként a megyei kormányhivatal
+megyeszékhely szerinti járási hivatalát jelöli ki, a megyeszékhely szerinti járási hivatal illetékességi területe a járási
+hivatal székhelye szerinti megyére terjed ki. Kormányrendelet a megyeszékhely szerinti járási hivatal illetékességi
+területét egyes államigazgatási feladatok tekintetében ettől eltérően is megállapíthatja. Ha kormányrendelet
+a feladatellátásért felelős szervként, valamint eljáró hatóságként kijelölt fővárosi kerületi hivatalt jelöl ki, a fővárosi
+kerületi hivatal illetékességi területe Budapest fővárosra terjed ki. Kormányrendelet a kijelölt fővárosi kerületi hivatal
+illetékességi területét egyes államigazgatási feladatok tekintetében ettől eltérően is megállapíthatja.”
+(2) Az R13. 10. §-a a következő e) ponttal egészül ki:
+(A kormánymegbízott)
+„e) jelöli ki a társadalombiztosítási határozat felülvizsgálata iránt indított perben a képviseletre jogosult személyt,
+ha a bírósági felülvizsgálattal érintett társadalombiztosítási határozatot elsőfokon a járási hivatal vagy a fővárosi és
+megyei kormányhivatal hozta, és a közigazgatási pert az elsőfokú döntést hozó szervvel szemben kell megindítani.”
+(3) Az R13. a következő 14/A. alcímmel egészül ki:
+„14/A. Tudástár
+25/A. § (1) A miniszter az e §-ban meghatározottak szerint gondoskodik az elektronikus ügyintézés
+részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerinti tudástár (a továbbiakban: tudástár)
+kormányhivatalokra vonatkozó tudásanyagának kezeléséről.
+
+(2) A tudástár kormányhivatalokra vonatkozó tartalmának feltöltéséért az ügykör tekintetében szabályozásra
+feladat- és hatáskörrel rendelkező miniszter (a továbbiakban: szakminiszter) felelős. Ennek keretében a szakminiszter
+köteles gondoskodni
+a) a tudástár tartalmának feltöltéséről, az új és módosult ügykörökhöz kapcsolódó kiegészítéséről, módosításáról,
+a tartalom naprakészen tartásáról, valamint
+b) a hatályon kívül helyezett jogszabályon alapuló ügykörökhöz kapcsolódó tudástár-tartalommal összefüggésben
+a hatályon kívül helyezés bejegyzéséről.
+(3) Ha egy ügykör tekintetében több szakminiszter érintett, az ügykörhöz kapcsolódóan a tudástár tartalmának
+hatályosítását a szabályozási területért első helyen felelős szakminiszter köteles elvégezni.
+(4) A tudástárban új ügykör bejegyzés véglegesítésére, a tudástárban lévő ügykörök tartalmának végleges
+módosítására, illetve törlésére a miniszter formai és tartalmi ellenőrzését követően kerülhet sor.
+(5) A tudástár szakmai tartalmát, az ügykör jogszabályoknak megfelelő elintézhetőségét nem befolyásoló, de
+a tudástár alkalmazását megnehezítő elírás, hiányosság észlelése esetén a hibát a miniszter – a szakminiszter
+egyidejű értesítése mellett – kijavítja.
+(6) A tudástár szakmai tartalmát közvetlenül érintő, az ügykör elintézhetőségét közvetlenül befolyásoló hiba
+észlelése esetén a miniszter a szakminiszterhez fordul, aki köteles a tartalmi hiba kijavításáról a megkeresés
+kézhezvételét követő három munkanapon belül gondoskodni. A tartalmi hiba kijavítására kizárólag a szakminiszter
+egyetértésével kerülhet sor. Ha a tartalmi hiba kijavításának módjáról vagy annak szükségességéről vita van
+a miniszter és a szakminiszter között, a felek kötelesek egyeztetés keretében megkísérelni a vita rendezését.”
+(4) Az R13. 25. § (1) bekezdésében a „fővárosi és megyei kormányhivatalt” szövegrész helyébe a „járási hivatalt” szöveg
+lép.
+(5) Hatályát veszti az R13.
+a) 12. § (2) és (3) bekezdése,
+b) 12. § (4) bekezdés g) pontja.
+19. A környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek
+kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet módosítása
+19. §
+A környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló
+71/2015. (III. 30.) Korm. rendelet (a továbbiakban: R14.) 4. melléklete a 3. melléklet szerint módosul.
+20. Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet
+módosítása
+20. §
+Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 7/C. §
+(4) bekezdésében a „Budapest Főváros Kormányhivatala” szövegrész helyébe az „a Győr-Moson-Sopron Megyei
+Kormányhivatal”szöveg lép.
+21. A mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet módosítása
+21. §
+A mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet 12. § (4) bekezdése helyébe
+a következő rendelkezés lép:
+„(4) A fővárosi és megyei kormányhivatal járási hivatala, Budapest Főváros Kormányhivatalának V. Kerületi Hivatala,
+valamint a NÉBIH (a továbbiakban együtt: ellenőrző hatóság) annak a mezőgazdasági őstermelőnek, aki egyben
+egyéni vállalkozó is, az őstermelői tevékenységét az egyéni vállalkozókról szóló nyilvántartásban szereplő adatai
+összevetésével is ellenőrizheti. Budapest Főváros Kormányhivatala V. Kerületi Hivatalának illetékessége Budapest
+főváros területére terjed ki.”
+
+22. Az igazságügyi szolgáltatásokkal kapcsolatos egyes feladat- és hatáskörökről szóló
+362/2016. (XI. 29.) Korm. rendelet módosítása
+22. § (1) Az igazságügyi szolgáltatásokkal kapcsolatos egyes feladat- és hatáskörökről szóló 362/2016. (XI. 29.) Korm. rendelet
+(a továbbiakban: R15.) 4. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A miniszter áldozatsegítő szolgálatként eljárva)
+„a) az áldozatsegítési eljárásban érdekérvényesítés elősegítése szolgáltatás keretében személyre szabott
+tájékoztatást nyújt, és ennek érdekében megszakítás nélkül, folyamatosan működteti az erre a célra fenntartott,
+díjmentesen hívható Áldozatsegítő Vonalat, továbbá az Áldozatsegítő Központban biztosítja a bűncselekmények
+áldozatai részére érzelmi segítségnyújtás igénybevételének lehetőségét,”
+(2) Az R15. 17. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az (1) bekezdésben foglaltaktól eltérően Budapest Főváros Kormányhivatala előtt 2017. január 1-jén
+folyamatban lévő jogi segítségnyújtási támogatási ügyekben valamennyi hatósági eljárást a 2016. december 31-én
+hatályos jogszabályi rendelkezések alapján kell lefolytatni.”
+23. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről
+szóló 382/2016. (XII. 2.) Korm. rendelet módosítása
+23. § (1) A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016.
+(XII. 2.) Korm. rendelet (a továbbiakban: R16.) 2. § (3) bekezdése a következő 29. és 30. ponttal egészül ki:
+(Útügyi közlekedési hatóságként a megyeszékhely szerinti járási hivatal, Pest megyében az Érdi Járási Hivatal, Budapest
+fővárosban a Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el)
+„29. a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát
+akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
+30. a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése”
+(során.)
+(2) Az R16. a következő 25/A. §-sal egészül ki:
+„25/A. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés
+29. és 30. pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő
+eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(3) Hatályát veszti az R16. 2. § (4) bekezdés 2. és 3. pontja.
+24. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló
+383/2016. (XII. 2.) Korm. rendelet módosítása
+24. § (1) A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.)
+Korm. rendelet (a továbbiakban: R17.) 3. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A Kormány)
+„a) az agrárkár-megállapító szervként eljáró megyeszékhely szerinti járási hivatal feladatainak ellátására,”
+(Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki.)
+(2) Az R17. 13. §-a a következő i) és j) ponttal egészül ki:
+(A Kormány élelmiszerlánc-felügyeleti szervként)
+„i) a megyei kormányhivatal borászati hatáskörben eljáró megyeszékhely szerinti járási hivatalát,
+j) a megyei kormányhivatal pálinkaellenőrző hatóságként eljáró megyeszékhely szerinti járási hivatalát”
+(jelöli ki.)
+(3) Az R17. 18. § (1) bekezdése a következő d) és e) ponttal egészül ki:
+(Az Éltv.)
+„d) 23/A. §-ában foglaltak tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási
+hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal,
+e) 62. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró
+megyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal és
+a növény- és talajvédelmi hatáskörben eljáró járási hivatal”
+(a kijelölt élelmiszerlánc-felügyeleti szerv.)
+
+(4) Az R17. 18. §-a a következő (8)–(11) bekezdéssel egészül ki:
+„(8) A Kormány a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény szerinti borászati termékek
+vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként
+a NÉBIH-et és a borászati hatóságként eljáró megyeszékhely szerinti járási hivatalt jelöli ki.
+(9) A Kormány a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi
+árujelzőinek oltalmáról, valamint az 1576/89/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 110/2008/EK
+európai parlamenti és tanácsi rendelet szerinti szeszes italok vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak
+tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a pálinkaellenőrző hatóságként eljáró megyeszékhely
+szerinti járási hivatalt jelöli ki.
+(10) A Kormány az egyéb alkoholos italok vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében
+élelmiszerlánc-felügyeleti szervként, mint alkoholos italokat ellenőrző hatóságként a NÉBIH-et és a megyeszékhely
+szerinti járási hivatalt jelöli ki.
+(11) A Kormány Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal
+Hódmezővásárhelyi Járási Hivatalát jelöli ki a (8)–(10) bekezdés szerinti feladatok ellátásáért felelős borászati,
+pálinkaellenőrző, valamint alkoholos itakolat ellenőrző hatóságként.”
+(5) Az R17. 42. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A Kormány mezőgazdasági igazgatási szervként a NÉBIH-et jelöli ki)
+„e) a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló
+2015. évi XCVII. törvény (a továbbiakban: Mgtpt.) 20. § (1) és (2) bekezdésében, 22. § (1), (2) és (5) bekezdésében”
+(foglaltak tekintetében.)
+(6) Az R17. 42. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A Kormány mezőgazdasági igazgatási szervként – az Mgtpt. 7. § (3) bekezdésében, valamint 7/A. §
+(5) bekezdésében foglaltaknak megfelelően – a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró
+megyeszékhely szerinti járási hivatalt jelöli ki.”
+(7) Az R17. a következő 82. §-sal egészül ki:
+„82. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 18. § (1) bekezdés
+d) és e) pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat
+a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(8) Az R17.
+a) 3. § (6) bekezdés d) pontjában az„e) pontja”szövegrész helyébe az„e), i) és j) pontja”szöveg,
+b) 3. § (6) bekezdés f) pontjában a„42. § (4)”szövegrész helyébe a„42. § (2a), (4)”szöveg,
+c) 18. § (3) bekezdés a) pontjában a „35. § (3) bekezdésében, (4) bekezdés b) és c) pontjában” szövegrész
+helyébe a „35. § (3) bekezdésében – ha e rendelet eltérően nem rendelkezik –, 35. § (4) bekezdés b) és
+c) pontjában”szöveg
+lép.
+(9) Az R17. 3. melléklete a 4. melléklet szerint módosul.
+(10) Hatályát veszti az R17.
+a) 18. § (1) bekezdés a) pontjában a„23/A. §-ban,”szövegrész,
+b) 18. § (1) bekezdés b) pontjában a„ , 62. §-ában”szövegrész.
+25. A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi
+feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló
+385/2016. (XII. 2.) Korm. rendelet módosítása
+25. § (1) A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai
+ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet
+(a továbbiakban: R18.) 12. § b) pontja helyébe a következő rendelkezés lép:
+(A Kormány egészségügyi államigazgatási szervként Budapest Főváros Kormányhivatalát jelöli ki)
+„b) az Ehi. 6. § (1) bekezdés g) pontja, valamint az Eütv. 238. § (3) bekezdése szerinti feladatok ellátására,”
+(2) Hatályát veszti az R18. 9. § (3) bekezdésében a„ , valamint 238. § (3) bekezdése”szövegrész.
+
+26. Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet módosítása
+26. § (1) Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet (a továbbiakban: R19.) 13. §-a és 14. §-a
+helyébe a következő rendelkezés lép:
+„13. § (1) A Kormány Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal
+megyeszékhely szerinti járási hivatala mellett a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási
+Hivatalát jelöli ki az 1. § c) pontja szerinti egészségbiztosítási pénztári feladatkörben eljáró szervként, valamint
+a) a 7. § (5) bekezdés a), f) és j) pontjában foglalt,
+b) a TAJ-t igazoló hatósági igazolvány másolatának kiadásával és az Európai Egészségbiztosítási Kártya
+kibocsátásával kapcsolatos, és a 7. § (5) bekezdés d) pont de) alpontja szerinti
+feladatok ellátásáért felelős egészségbiztosítási szervként.
+(2) A Kormány Nógrád megye illetékességi területére kiterjedően a Nógrád Megyei Kormányhivatal megyeszékhely
+szerinti járási hivatala mellett a Nógrád Megyei Kormányhivatal Balassagyarmati Járási Hivatalát jelöli ki az 1. § b) és
+c) pontja szerinti egészségbiztosítási pénztári feladatkörben eljáró szervként, valamint
+a) a 7. § (5) bekezdés a) pontjában felsorolt feladatok közül a pénzbeli ellátásokkal, a baleseti táppénzzel, a baleset
+üzemiségének elbírálásával, az utazási költségtérítéssel kapcsolatos,
+b) a TAJ-t igazoló hatósági igazolvány másolatának kiadásával és az Európai Egészségbiztosítási Kártya
+kibocsátásával kapcsolatos,
+c) a 7. § (5) bekezdés d) pont dd) alpontja szerinti adatszolgáltatás tekintetében a magánszemély megkeresésére
+történő jogviszony igazolás kiadásával kapcsolatos feladatok, és a 7. § (5) bekezdés d) pont de) alpontja szerinti,
+továbbá
+d) a 7. § (5) bekezdés f) és j) pontjában foglalt
+feladatok ellátásáért felelős egészségbiztosítási szervként.
+14. § A Kormány a 13. §-ban meghatározott feladatok tekintetében
+a) a Csongrád Megyei Kormányhivatal Kisteleki, Mórahalmi és Szegedi Járási Hivatala jogszabályban meghatározott
+illetékességi területén a Csongrád Megyei Kormányhivatal Szegedi Járási Hivatalát,
+b) a Csongrád Megyei Kormányhivatal Csongrádi, Hódmezővásárhelyi, Makói és Szentesi Járási Hivatala illetékességi
+területén a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát,
+c) a Nógrád Megyei Kormányhivatal Bátonyterenyei, Pásztói és Salgótarjáni Járási Hivatala jogszabályban
+meghatározott illetékességi területén a Nógrád Megyei Kormányhivatal Salgótarjáni Járási Hivatalát,
+d) a Nógrád Megyei Kormányhivatal Balassagyarmati, Rétsági és Szécsényi Járási Hivatala jogszabályban
+meghatározott illetékességi területén a Nógrád Megyei Kormányhivatal Balassagyarmati Járási Hivatalát
+jelöli ki.”
+(2) Az R19. a következő 16. §-sal egészül ki:
+„16. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 13. §-ának, valamint
+14. §-ának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat
+a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(3) Az R19. 7. § (3) bekezdés f) pontjában az„a)–e)”szövegrész helyébe az„a) és d)–e)”szöveg lép.
+27. A fogyasztóvédelmi hatóság kijelöléséről szóló 387/2016. (XII. 2.) Korm. rendelet módosítása
+27. § (1) A fogyasztóvédelmi hatóság kijelöléséről szóló 387/2016. (XII. 2.) Korm. rendelet (a továbbiakban: R20.) 3. §
+(1) bekezdése a következő i) ponttal egészül ki:
+(A Kormány)
+„i) a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről,
+valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet
+(a továbbiakban: 39/2013. Korm. rendelet) 17. § (3) bekezdésében”
+(foglaltak tekintetében fogyasztóvédelmi hatóságként a fogyasztóvédelemért felelős minisztert jelöli ki.)
+(2) Az R20. 3. § (4) bekezdés p) pontja helyébe a következő rendelkezés lép:
+(A Kormány)
+„p) a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet
+6. §-ában foglaltak,”
+(tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.)
+
+(3) Az R20. 3. § (4) bekezdése a következő q)–s) ponttal egészül ki:
+(A Kormány)
+„q) a kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) és f) pontjában foglaltak,
+r) a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 8. § (1) bekezdésében foglaltak,
+s) a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes törvényeknek a további
+rezsicsökkentéssel összefüggő módosításáról szóló 2013. évi CXIV. törvény 5. § (1) bekezdésében foglaltak”
+(tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.)
+(4) Az R20. 3. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) A (4) bekezdésben foglaltakkal megegyezően a Kormány
+a) az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról szóló 140/2001.
+(VIII. 8.) Korm. rendelet 3. § (5) bekezdésében foglaltak,
+b) a háztartási gépek zajkibocsátási értékeinek feltüntetési kötelezettségéről szóló 142/2001. (VIII. 8.) Korm. rendelet
+3. § (4) bekezdésében, 6. §-ában foglaltak,
+c) az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának
+szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet 6. § (1) bekezdésében, 7. § (1), (2) és (4) bekezdésében,
+8. §-ában foglaltak,
+d) a mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló
+eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 11. § (6) bekezdésében, 12. §
+(4) bekezdés c) pontjában foglaltak,
+e) a polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 80. §-ában foglaltak,
+f) az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és előírt
+termékismertetővel történő megadásáról szóló 193/2011. (IX. 22.) Korm. rendelet 2. § 11. pontjában foglaltak,
+g) a mosó- és tisztítószerek forgalomba hozatalának feltételeiről és az ellenőrzés rendjéről szóló 329/2012. (XI. 16.)
+Korm. rendelet 1. § b) pontjában, 4. § (2) bekezdésében foglaltak,
+h) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról
+szóló 374/2012. (XII. 18.) Korm. rendelet 14. § (1) bekezdés a) pontjában foglaltak,
+i) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.)
+Korm. rendelet 25. § (6) bekezdésében foglaltak,
+j) a 39/2013. Korm. rendelet 17. § (1) bekezdés c) pontjában foglaltak,
+k) a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (1) bekezdés c) pontjában foglaltak
+tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.”
+(5) Az R20. a következő 9. §-sal egészül ki:
+„9. § E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes
+kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 3. § (4) bekezdés
+b) pontjának, p)–s) pontjának, valamint 3. § (4a) bekezdésének hatálybalépése előtt megkezdett és a hatálybalépése
+időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.”
+(6) Az R20. 3. § (4) bekezdés b) pontjában a „16/B. §-ában” szövegrész helyébe a „16/B. §-ában, az Fgytv. 2. § h) pontja
+szerinti közszolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb
+vállalkozás esetében 17/A. §-ában, 17/B. §-ában”szöveg lép.
+28. A fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi
+eljárásrend, az automatikus döntéshozatal, valamint a kapcsolódó nyilvántartási és ügyfélkapcsolati
+szolgáltatások részletes szabályairól szóló 450/2016. (XII. 19.) Korm. rendelet hatályon kívül helyezése
+28. §
+Hatályát veszti a fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi
+eljárásrend, az automatikus döntéshozatal, valamint a kapcsolódó nyilvántartási és ügyfélkapcsolati szolgáltatások
+részletes szabályairól szóló 450/2016. (XII. 19.) Korm. rendelet.
+29. Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosítása
+29. §
+Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés
+c) pontjában a „helyi önkormányzatokért felelős miniszter” szövegrész helyébe a „szabályozásért felelős
+szakminiszter”szöveg lép.
+
+30. Záró rendelkezések
+30. §
+Ez a rendelet 2017. július 1-jén lép hatályba.
+31. §
+Ez a rendelet a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK,
+az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU
+európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 171/2017. (VI. 29.) Korm. rendelethez
+„13. melléklet a 223/1998. (XII. 30.) Korm. rendelethez
+Az 1/B. § (1) bekezdése szerinti ügyekben eljáró járási hivatalok és illetékességi területük
+Sorszám A B
+1. Családtámogatási feladatkörben eljáró járási hivatalok Illetékességi terület
+2. Baranya Megyei Kormányhivatal Pécsi Járási Hivatala
+Bólyi Járási Hivatal
+Komlói Járási Hivatal
+Mohácsi Járási Hivatal
+Pécsi Járási Hivatal
+Pécsváradi Járási Hivatal
+Hegyháti Járási Hivatal
+Sellyei Járási Hivatal
+Siklósi Járási Hivatal
+Szentlőrinci Járási Hivatal
+Szigetvári Járási Hivatal
+3.
+Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási
+Hivatala
+Bácsalmási Járási Hivatal
+Jánoshalmai Járási Hivatal
+Kalocsai Járási Hivatal
+Kecskeméti Járási Hivatal
+Kiskőrösi Járási Hivatal,
+Kiskunfélegyházi Járási Hivatal
+Kiskunhalasi Járási Hivatal
+Kiskunmajsai Járási Hivatal
+Kunszentmiklósi Járási Hivatal
+Tiszakécskei Járási Hivatal
+4. Bács-Kiskun Megyei Kormányhivatal Bajai Járási Hivatala Bajai Járási Hivatal
+5. Békés Megyei Kormányhivatal Békéscsabai Járási Hivatala
+Békéscsabai Járási Hivatal
+Békési Járási Hivatal
+Gyomaendrődi Járási Hivatal
+Mezőkovácsházai Járási Hivatal
+Orosházi Járási Hivatal,
+Sarkadi Járási Hivatal
+Szarvasi Járási Hivatal
+Szeghalmi Járási Hivatal
+6. Békés Megyei Kormányhivatal Gyulai Járási Hivatala Gyulai Járási Hivatal
+
+7.
+Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci
+Járási Hivatala
+Cigándi Járási Hivatal
+Edelényi Járási Hivatal
+Encsi Járási Hivatal
+Gönci Járási Hivatal
+Kazincbarcikai Járási Hivatal
+Mezőcsáti Járási Hivatal
+Mezőkövesdi Járási Hivatal
+Miskolci Járási Hivatal
+Putnoki Járási Hivatal
+Sárospataki Járási Hivatal
+Szerencsi Járási Hivatal
+Szikszói Járási Hivatal
+Tiszaújvárosi Járási Hivatal
+Tokaji Járási Hivatal
+8.
+Borsod-Abaúj-Zemplén Megyei Kormányhivatal Ózdi Járási
+Hivatala
+Ózdi Járási Hivatal
+9.
+Borsod-Abaúj-Zemplén Megyei Kormányhivatal
+Sátoraljaújhelyi Járási Hivatala
+Sátoraljaújhelyi Járási Hivatal
+10. Budapest Főváros VIII. Kerületi Hivatala Budapest főváros
+11. Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala
+Csongrádi Járási Hivatal
+Kisteleki Járási Hivatal
+Makói Járási Hivatal
+Mórahalmi Járási Hivatal
+Szegedi Járási Hivatal
+Szentesi Járási Hivatal
+12.
+Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási
+Hivatala
+Hódmezővásárhelyi Járási Hivatal
+13. Fejér Megyei Kormányhivatal Dunaújvárosi Járási Hivatala Dunaújvárosi Járási Hivatal
+14. Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala
+Bicskei Járási Hivatal
+Enyingi Járási Hivatal
+Gárdonyi Járási Hivatal
+Martonvásári Járási Hivatal
+Móri Járási Hivatal
+Sárbogárdi Járási Hivatal
+Székesfehérvári Járási Hivatal
+15.
+Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási
+Hivatala
+Csornai Járási Hivatal
+Győri Járási Hivatal
+Kapuvári Járási Hivatal
+Mosonmagyaróvári Járási Hivatal
+Pannonhalmi Járási Hivatal
+Téti Járási Hivatal
+16.
+Győr-Moson-Sopron Megyei Kormányhivatal Soproni Járási
+Hivatala
+Soproni Járási Hivatal
+
+17. Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala
+Balmazújvárosi Járási Hivatal
+Berettyóújfalui Járási Hivatal
+Debreceni Járási Hivatal
+Derecskei Járási Hivatal
+Hajdúböszörményi Járási Hivatal
+Hajdúhadházi Járási Hivatal
+Hajdúnánási Járási Hivatal
+Hajdúszoboszlói Járási Hivatal
+Nyíradonyi Járási Hivatal
+Püspökladányi Járási Hivatal
+18. Heves Megyei Kormányhivatal Egri Járási Hivatala
+Bélapátfalvai Járási Hivatal
+Egri Járási Hivatal
+Füzesabonyi Járási Hivatal
+Hatvani Járási Hivatal
+Hevesi Járási Hivatal
+Pétervásárai Járási Hivatal
+19. Heves Megyei Kormányhivatal Gyöngyösi Járási Hivatala Gyöngyösi Járási Hivatal
+20.
+Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási
+Hivatala
+Jászapáti Járási Hivatal
+Jászberényi Járási Hivatal
+Karcagi Járási Hivatal
+Kunhegyesi Járási Hivatal
+Kunszentmártoni Járási Hivatal
+Mezőtúri Járási Hivatal
+Szolnoki Járási Hivatal
+Tiszafüredi Járási Hivatal
+Törökszentmiklósi Járási Hivatal
+21.
+Komárom-Esztergom Megyei Kormányhivatal Esztergomi
+Járási Hivatala
+Esztergomi Járási Hivatal
+22.
+Komárom-Esztergom Megyei Kormányhivatal Tatabányai
+Járási Hivatala
+Kisbéri Járási Hivatal
+Komáromi Járási Hivatal
+Oroszlányi Járási Hivatal
+Tatabányai Járási Hivatal
+Tatai Járási Hivatal
+23.
+Nógrád Megyei Kormányhivatal Balassagyarmati Járási
+Hivatala
+Balassagyarmati Járási Hivatal
+24. Nógrád Megyei Kormányhivatal Salgótarjáni Járási Hivatala
+Bátonyterenyei Járási Hivatal
+Pásztói Járási Hivatal
+Rétsági Járási Hivatal
+Salgótarjáni Járási Hivatal
+Szécsényi Járási Hivatal
+
+25. Pest Megyei Kormányhivatal Váci Járási Hivatala
+Aszódi Járási Hivatal
+Budakeszi Járási Hivatal
+Ceglédi Járási Hivatal
+Dabasi Járási Hivatal
+Dunakeszi Járási Hivatal
+Érdi Járási Hivatal
+Gödöllői Járási Hivatal
+Gyáli Járási Hivatal
+Monori Járási Hivatal
+Nagykátai Járási Hivatal
+Nagykőrösi Járási Hivatal
+Pilisvörösvári Járási Hivatal
+Ráckevei Járási Hivatal
+Szentendrei Járási Hivatal
+Szigetszentmiklósi Járási Hivatal
+Szobi Járási Hivatal
+Váci Járási Hivatal
+Vecsési Járási Hivatal
+26. Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala
+Kaposvári Járási Hivatal
+Marcali Járási Hivatal
+Barcsi Járási Hivatal
+Csurgói Járási Hivatal
+Nagyatádi Járási Hivatal
+Fonyódi Járási Hivatal
+Siófoki Járási Hivatal
+Tabi Járási Hivatal
+27.
+Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi
+Járási Hivatala
+Baktalórántházai Járási Hivatal
+Csengeri Járási Hivatal
+Fehérgyarmati Járási Hivatal
+Ibrányi Járási Hivatal
+Kemecsei Járási Hivatal
+Kisvárdai Járási Hivatal
+Mátészalkai Járási Hivatal
+Nagykállói Járási Hivatal
+Nyírbátori Járási Hivatal
+Nyíregyházi Járási Hivatal
+Tiszavasvári Járási Hivatal
+Vásárosnaményi Járási Hivatal
+Záhonyi Járási Hivatal
+28. Tolna Megyei Kormányhivatal Szekszárdi Járási Hivatala
+Bonyhádi Járási Hivatal
+Dombóvári Járási Hivatal
+Paksi Járási Hivatal
+Szekszárdi Járási Hivatal
+Tamási Járási Hivatal
+Tolnai Járási Hivatal
+29. Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala
+Celldömölki Járási Hivatal
+Körmendi Járási Hivatal
+Kőszegi Járási Hivatal
+Sárvári Járási Hivatal
+Szentgotthárdi Járási Hivatal
+Szombathelyi Járási Hivatal
+Vasvári Járási Hivatal
+
+30. Veszprém Megyei Kormányhivatal Pápai Járási Hivatala Pápai Járási Hivatal
+31. Veszprém Megyei Kormányhivatal Tapolcai Járási Hivatala Tapolcai Járási Hivatal
+32. Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala
+Ajkai Járási Hivatal
+Balatonalmádi Járási Hivatal
+Balatonfüredi Járási Hivatal
+Devecseri Járási Hivatal
+Sümegi Járási Hivatal
+Várpalotai Járási Hivatal
+Veszprémi Járási Hivatal
+Zirci Járási Hivatal
+33. Zala Megyei Kormányhivatal Nagykanizsai Járási Hivatala Nagykanizsai Járási Hivatal
+34. Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala
+Keszthelyi Járási Hivatal
+Lenti Járási Hivatal
+Letenyei Járási Hivatal
+Zalaegerszegi Járási Hivatal
+Zalaszentgróti Járási Hivatal
+”
+2. melléklet a 171/2017. (VI. 29.) Korm. rendelethez
+„3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez
+A fogyatékossági támogatás iránti ügyekben eljáró járási hivatalok és illetékességi területük
+Sorszám A B
+1. A fogyatékossági támogatás iránti ügyekben eljáró járási hivatalok Illetékességi terület
+2.
+Baranya Megyei Kormányhivatal
+Pécsi Járási Hivatala
+Bólyi Járási Hivatal
+Komlói Járási Hivatal
+Mohácsi Járási Hivatal
+Pécsi Járási Hivatal
+Pécsváradi Járási Hivatal
+Hegyháti Járási Hivatal
+Sellyei Járási Hivatal
+Siklósi Járási Hivatal
+Szentlőrinci Járási Hivatal
+Szigetvári Járási Hivatal
+3.
+Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási
+Hivatala
+Bácsalmási Járási Hivatal
+Jánoshalmai Járási Hivatal
+Kalocsai Járási Hivatal
+Kecskeméti Járási Hivatal
+Kiskőrösi Járási Hivatal
+Kiskunfélegyházi Járási Hivatal
+Kiskunhalasi Járási Hivatal
+Kiskunmajsai Járási Hivatal
+Kunszentmiklósi Járási Hivatal
+Tiszakécskei Járási Hivatal
+4. Bács-Kiskun Megyei Kormányhivatal Bajai Járási Hivatala Bajai Járási Hivatal
+
+5. Békés Megyei Kormányhivatal Békéscsabai Járási Hivatala
+Békéscsabai Járási Hivatal
+Békési Járási Hivatal
+Gyomaendrődi Járási Hivatal
+Mezőkovácsházai Járási Hivatal
+Orosházi Járási Hivatal
+Sarkadi Járási Hivatal
+Szarvasi Járási Hivatal
+Szeghalmi Járási Hivatal
+6. Békés Megyei Kormányhivatal Gyulai Járási Hivatala Gyulai Járási Hivatal
+7.
+Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci
+Járási Hivatala
+Cigándi Járási Hivatal
+Edelényi Járási Hivatal
+Encsi Járási Hivatal
+Gönci Járási Hivatal
+Kazincbarcikai Járási Hivatal
+Mezőcsáti Járási Hivatal
+Mezőkövesdi Járási Hivatal
+Miskolci Járási Hivatal
+Putnoki Járási Hivatal
+Sárospataki Járási Hivatal
+Szerencsi Járási Hivatal
+Szikszói Járási Hivatal
+Tiszaújvárosi Járási Hivatal
+Tokaji Járási Hivatal
+8.
+Borsod-Abaúj-Zemplén Megyei Kormányhivatal Ózdi Járási
+Hivatala
+Ózdi Járási Hivatal
+9.
+Borsod-Abaúj-Zemplén Megyei Kormányhivatal
+Sátoraljaújhelyi Járási Hivatala
+Sátoraljaújhelyi Járási Hivatal
+10. Budapest Főváros VIII. Kerületi Hivatala Budapest főváros
+11. Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala
+Csongrádi Járási Hivatal
+Kisteleki Járási Hivatal
+Makói Járási Hivatal
+Mórahalmi Járási Hivatal
+Szegedi Járási Hivatal
+Szentesi Járási Hivatal
+12.
+Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási
+Hivatala
+Hódmezővásárhelyi Járási Hivatal
+13. Fejér Megyei Kormányhivatal Dunaújvárosi Járási Hivatala Dunaújvárosi Járási Hivatal
+14. Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala
+Bicskei Járási Hivatal
+Enyingi Járási Hivatal
+Gárdonyi Járási Hivatal
+Martonvásári Járási Hivatal
+Móri Járási Hivatal
+Sárbogárdi Járási Hivatal
+Székesfehérvári Járási Hivatal
+15.
+Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási
+Hivatala
+Csornai Járási Hivatal
+Győri Járási Hivatal
+Kapuvári Járási Hivatal
+Mosonmagyaróvári Járási Hivatal
+Pannonhalmi Járási Hivatal
+Téti Járási Hivatal
+16.
+Győr-Moson-Sopron Megyei Kormányhivatal Soproni Járási
+Hivatala
+Soproni Járási Hivatal
+
+17. Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala
+Balmazújvárosi Járási Hivatal
+Berettyóújfalui Járási Hivatal
+Debreceni Járási Hivatal
+Derecskei Járási Hivatal
+Hajdúböszörményi Járási Hivatal
+Hajdúhadházi Járási Hivatal
+Hajdúnánási Járási Hivatal
+Hajdúszoboszlói Járási Hivatal
+Nyíradonyi Járási Hivatal
+Püspökladányi Járási Hivatal
+18. Heves Megyei Kormányhivatal Egri Járási Hivatala
+Bélapátfalvai Járási Hivatal
+Egri Járási Hivatal
+Füzesabonyi Járási Hivatal
+Hatvani Járási Hivatal
+Hevesi Járási Hivatal
+Pétervásárai Járási Hivatal
+19. Heves Megyei Kormányhivatal Gyöngyösi Járási Hivatala Gyöngyösi Járási Hivatal
+20.
+Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási
+Hivatala
+Jászapáti Járási Hivatal
+Jászberényi Járási Hivatal
+Karcagi Járási Hivatal
+Kunhegyesi Járási Hivatal
+Kunszentmártoni Járási Hivatal
+Mezőtúri Járási Hivatal
+Szolnoki Járási Hivatal
+Tiszafüredi Járási Hivatal
+Törökszentmiklósi Járási Hivatal
+21.
+Komárom-Esztergom Megyei Kormányhivatal Esztergomi
+Járási Hivatala
+Esztergomi Járási Hivatal
+22.
+Komárom-Esztergom Megyei Kormányhivatal Tatabányai
+Járási Hivatala
+Kisbéri Járási Hivatal
+Komáromi Járási Hivatal
+Oroszlányi Járási Hivatal
+Tatabányai Járási Hivatal
+Tatai Járási Hivatal
+23.
+Nógrád Megyei Kormányhivatal Balassagyarmati Járási
+Hivatala
+Balassagyarmati Járási Hivatal
+24. Nógrád Megyei Kormányhivatal Salgótarjáni Járási Hivatala
+Bátonyterenyei Járási Hivatal
+Pásztói Járási Hivatal
+Rétsági Járási Hivatal
+Salgótarjáni Járási Hivatal
+Szécsényi Járási Hivatal
+
+25. Pest Megyei Kormányhivatal Váci Járási Hivatala
+Aszódi Járási Hivatal
+Budakeszi Járási Hivatal
+Ceglédi Járási Hivatal
+Dabasi Járási Hivatal
+Dunakeszi Járási Hivatal
+Érdi Járási Hivatal
+Gödöllői Járási Hivatal
+Gyáli Járási Hivatal
+Monori Járási Hivatal
+Nagykátai Járási Hivatal
+Nagykőrösi Járási Hivatal
+Pilisvörösvári Járási Hivatal
+Ráckevei Járási Hivatal
+Szentendrei Járási Hivatal
+Szigetszentmiklósi Járási Hivatal
+Szobi Járási Hivatal
+Váci Járási Hivatal
+Vecsési Járási Hivatal
+26. Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala
+Kaposvári Járási Hivatal
+Marcali Járási Hivatal
+Barcsi Járási Hivatal
+Csurgói Járási Hivatal
+Nagyatádi Járási Hivatal
+Fonyódi Járási Hivatal
+Siófoki Járási Hivatal
+Tabi Járási Hivatal
+27.
+Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi
+Járási Hivatala
+Baktalórántházai Járási Hivatal
+Csengeri Járási Hivatal
+Fehérgyarmati Járási Hivatal
+Ibrányi Járási Hivatal
+Kemecsei Járási Hivatal
+Kisvárdai Járási Hivatal
+Mátészalkai Járási Hivatal
+Nagykállói Járási Hivatal
+Nyírbátori Járási Hivatal
+Nyíregyházi Járási Hivatal
+Tiszavasvári Járási Hivatal
+Vásárosnaményi Járási Hivatal
+Záhonyi Járási Hivatal
+28. Tolna Megyei Kormányhivatal Szekszárdi Járási Hivatala
+Bonyhádi Járási Hivatal
+Dombóvári Járási Hivatal
+Paksi Járási Hivatal
+Szekszárdi Járási Hivatal
+Tamási Járási Hivatal
+Tolnai Járási Hivatal
+29. Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala
+Celldömölki Járási Hivatal
+Körmendi Járási Hivatal
+Kőszegi Járási Hivatal
+Sárvári Járási Hivatal
+Szentgotthárdi Járási Hivatal
+Szombathelyi Járási Hivatal
+Vasvári Járási Hivatal
+
+30. Veszprém Megyei Kormányhivatal Pápai Járási Hivatala Pápai Járási Hivatal
+31. Veszprém Megyei Kormányhivatal Tapolcai Járási Hivatala Tapolcai Járási Hivatal
+32. Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala
+Ajkai Járási Hivatal
+Balatonalmádi Járási Hivatal
+Balatonfüredi Járási Hivatal
+Devecseri Járási Hivatal
+Sümegi Járási Hivatal
+Várpalotai Járási Hivatal
+Veszprémi Járási Hivatal
+Zirci Járási Hivatal
+33. Zala Megyei Kormányhivatal Nagykanizsai Járási Hivatala Nagykanizsai Járási Hivatal
+34. Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala
+Keszthelyi Járási Hivatal
+Lenti Járási Hivatal
+Letenyei Járási Hivatal
+Zalaegerszegi Járási Hivatal
+Zalaszentgróti Járási Hivatal
+”
+3. melléklet a 171/2017. (VI. 29.) Korm. rendelethez
+Az R14. 4. melléklet 1.2. pont 1.2.2. alpontja helyébe a következő rendelkezés lép:
+„1.2.2. A regionális laboratóriumot üzemeltető megyei kormányhivatal, illetve a területi környezetvédelmi hatóság
+illetékességi területe környezeti rezgésmérések végzésének vonatkozásában
+A B
+1. Regionális laboratóriumot üzemeltető megyei kormányhivatal/Területi
+környezetvédelmi hatóság
+Illetékességi terület
+(megye)
+2. Hajdú-Bihar Megyei Kormányhivatal Hajdú-Bihar megye,
+Békés megye,
+Szabolcs-Szatmár-Bereg megye,
+Borsod-Abaúj-Zemplén megye,
+Heves megye,
+Jász-Nagykun-Szolnok megye,
+Csongrád megye
+3. Fejér Megyei Kormányhivatal Győr-Moson-Sopron megye,
+Komárom-Esztergom megye,
+Vas megye,
+Zala megye,
+Fejér megye,
+Tolna megye,
+Veszprém megye,
+Baranya megye,
+Somogy megye,
+Bács-Kiskun megye
+4. Pest Megyei Kormányhivatal Érdi Járási Hivatala Budapest,
+Pest megye,
+Nógrád megye
+”
+
+4. melléklet a 171/2017. (VI. 29.) Korm. rendelethez
+1. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.)
+Korm. rendelet 3. melléklet 18. pontja helyébe a következő rendelkezés lép:
+(Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalok
+illetékességi területe
+Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalok
+illetékessége az alábbiakban meghatározott járások illetékességi területére terjed ki.)
+„18. Veszprém megye
+18.1. Devecseri Járási Hivatal
+Ajkai járás
+Devecseri járás
+18.2. Pápai Járási Hivatal
+Pápai járás
+18.3. Tapolcai Járási Hivatal
+Tapolcai járás
+Sümegi járás
+18.4. Veszprémi Járási Hivatal
+Veszprémi járás
+Balatonfüredi járás
+Balatonalmádi járás
+Várpalotai járás
+Zirci járás”
