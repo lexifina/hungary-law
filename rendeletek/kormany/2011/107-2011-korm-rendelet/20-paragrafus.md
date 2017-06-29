@@ -1,4 +1,4 @@
-20. §[^151] (1) Nem nyújtható képzési támogatás
+20. §[^178] (1) Nem nyújtható képzési támogatás
 
 a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
@@ -20,4 +20,4 @@ g) a kötelező nemzeti képzési előírásoknak való megfelelés céljából.
 
 (2) Nem nyújtható csekély összegű támogatás az (1) bekezdés a), valamint c)–f) pontjaiban meghatározott esetekben.
 
-[^151]: A 20. §-t a 96/2016. (V. 2.) Korm. rendelet 11. §-a iktatta be.
+[^178]: A 20. §-t a 96/2016. (V. 2.) Korm. rendelet 11. §-a iktatta be.
