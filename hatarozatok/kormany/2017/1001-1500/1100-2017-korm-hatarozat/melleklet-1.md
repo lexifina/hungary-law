@@ -1,4 +1,4 @@
-## a) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 566 980 667 forint, a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 320 000 000 forint, a XXI. Miniszterelnöki Kabinetiroda fejezetnél keletkezett 210 693 394 forint és a XXXV. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal fejezetnél keletkezett 1 300 000 000 forint összegű kötelezettségvállalással nem terhelt költségvetési maradvány felhasználását;
+## a)[^1] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 566 980 667 forint, a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 320 000 000 forint, a XXI. Miniszterelnöki Kabinetiroda fejezetnél keletkezett 210 693 146 forint és a XXXV. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal fejezetnél keletkezett 1 300 000 000 forint összegű kötelezettségvállalással nem terhelt költségvetési maradvány felhasználását;
 
 ## b) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. melléklet szerinti átcsoportosítást rendeli el.
 
@@ -75,3 +75,5 @@ A 2016. évi költségvetési maradványok átcsoportosítása
 |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások | 410 000 |
 
 | 0 |
+
+[^1]: Az a) pont az 1438/2017. (VI. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
