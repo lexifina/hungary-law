@@ -2,4 +2,6 @@
 
 a)–b)
 
-c)–d)
+c) az Ept. 6/B. §-a,
+
+d) az Ept. 2. melléklete.
