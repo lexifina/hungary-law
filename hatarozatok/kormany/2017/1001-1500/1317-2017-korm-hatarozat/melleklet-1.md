@@ -1,6 +1,6 @@
-## 1. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a 2016. évi, kötelezettségvállalással nem terhelt költségvetési maradványokból a II. Köztársasági Elnökség fejezetnél keletkezett 52 467 393 forint, a III. Alkotmánybíróság fejezetnél keletkezett 30 652 720 forint, a VI. Bíróságok fejezetnél keletkezett 1 641 364 000 forint, a XI. Miniszterelnökség fejezetnél keletkezett 1 250 876 672 forint, a XIV. Belügyminisztérium fejezetnél keletkezett 597 437 224 forint, a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 739 865 000 forint és a XX. Emberi Erőforrások Minisztériuma fejezetnél keletkezett 160 000 000 forint felhasználását;
+## 1.[^1] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a 2016. évi, kötelezettségvállalással nem terhelt költségvetési maradványokból a II. Köztársasági Elnökség fejezetnél keletkezett 52 467 393 forint, a III. Alkotmánybíróság fejezetnél keletkezett 30 652 720 forint, a VI. Bíróságok fejezetnél keletkezett 1 641 364 000 forint, a XI. Miniszterelnökség fejezetnél keletkezett 1 250 876 672 forint, a XIV. Belügyminisztérium fejezetnél keletkezett 44 877 224 forint, a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 739 865 000 forint és a XX. Emberi Erőforrások Minisztériuma fejezetnél keletkezett 160 000 000 forint felhasználását;
 
-## 2. az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 11 952 710 756 forint összegű, kötelezettségvállalással terhelt költségvetési maradvány 2017. június 30-át követő, változatlan célú felhasználását;
+## 2.[^2] az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a XIV. Belügyminisztérium fejezetnél keletkezett 552 560 000 forint és a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 11 952 710 756 forint összegű, kötelezettségvállalással terhelt költségvetési maradvány 2017. június 30-át követő, változatlan célú felhasználását;
 
 ## 3. az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a XIV. Belügyminisztérium fejezetnél keletkezett 1 400 661 174 forint összegű, kötelezettségvállalással terhelt, de meghiúsulás miatt kötelezettségvállalással nem terheltté vált költségvetési maradvány felhasználását;
 
@@ -109,3 +109,6 @@
 |  |  |  | 4 |  |  |  |  |  | Művészeti tevékenységek és egyéb fejezeti feladatok támogatása |  |
 
 |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások | -10 000 000 |
+
+[^1]: Az 1. pont az 1438/2017. (VI. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1438/2017. (VI. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
