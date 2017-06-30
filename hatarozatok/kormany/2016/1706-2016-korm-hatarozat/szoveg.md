@@ -42,23 +42,7 @@ postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiz
 
 Határidő: azonnal
 
-1.6. felhívja a nemzeti fejlesztési minisztert, hogy a postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztossal együttműködve és a nemzetgazdasági miniszter bevonásával intézkedjen 2017. július 1. napjától kezdődő 5 éves időtartamra az EKÁER üzemeltetéséhez, üzemeltetésének támogatásához, fejlesztéséhez – ideértve a jogszabály változására, valamint a Kormány döntésére tekintettel szükségessé váló fejlesztéseket is – szükséges szolgáltatásoknak a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) részére a NÚSZ Zrt. által történő beszerzéséről és a szükséges szerződések NÚSZ Zrt. általi megkötéséről;
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztos
-
-Határidő: a beszerzési eljárás előkészítésére és megindítása tekintetében: azonnal,
-
-a szerződés megkötésére: 2017. június 30.
-
-1.7. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1.6. alpontban meghatározott feladatok végrehajtásához szükséges forrásnak a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XVI. Nemzeti Adó- és Vámhivatal fejezetében, azt követően pedig a 2018–2022. évi központi költségvetés megfelelő fejezetében történő biztosításáról.
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: 2017. június 15., azt követően pedig adott év költségvetésének tervezése során
+1.6–1.7.[^1]
 
 2. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Korm. határozat 1. pont b) alpontja szerint minősített beszerzési eljárás keretében beszerzésre kerülő eszközök az állam tulajdonába kerüljenek, és azok felett az állam tulajdonosi jogait az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2a) bekezdésében foglalt alapján
 
@@ -90,6 +74,7 @@ földművelésügyi miniszter
 
 Határidő: 2017. június 30.
 
-4.[^1]
+4.[^2]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1.6–1.7. pontot az 1437/2017. (VI. 30.) Korm. határozat 2. pontja visszavonta.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
