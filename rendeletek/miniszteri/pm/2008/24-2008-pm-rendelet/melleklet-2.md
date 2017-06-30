@@ -22,9 +22,9 @@
 
 ## 2.4.2. a vezetőségi jelentés megbízható képet ad a kibocsátó helyzetéről, fejlődéséről és teljesítményéről, ismertetve a főbb kockázatokat és bizonytalansági tényezőket.
 
-## 3.[^14] Amennyiben a kibocsátó összevont (konszolidált) beszámoló készítésére is köteles, az éves jelentés – a 2.1., a 2.3. és 2.4. pontokban foglaltakon kívül – legalább a következőket tartalmazza:
+## 3.[^16] Amennyiben a kibocsátó összevont (konszolidált) beszámoló készítésére is köteles, az éves jelentés – a 2.1., a 2.3. és 2.4. pontokban foglaltakon kívül – legalább a következőket tartalmazza:
 
-## 3.1.[^15] a kibocsátó legfőbb szerve által elfogadott összevont (konszolidált) éves beszámoló, amelynek részei:
+## 3.1.[^17] a kibocsátó legfőbb szerve által elfogadott összevont (konszolidált) éves beszámoló, amelynek részei:
 
 ## 3.1.2. összevont (konszolidált) mérleg,
 
@@ -70,8 +70,8 @@
 
 ## 5.2. a kibocsátó nyilatkozata (az aláírók nevének és beosztásának közlésével), hogy az alkalmazható számviteli előírások alapján a legjobb tudásuk szerint elkészített – az 5.1. pontban meghatározott – pénzügyi kimutatások valós és megbízható képet adnak a kibocsátó és a konszolidációba bevont vállalkozások eszközeiről, kötelezettségeiről, pénzügyi helyzetéről, valamint nyereségéről és veszteségéről.
 
-2. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^16]
+2. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^18]
 
-[^14]: Az 1. melléklet 3. pont nyitó szövegrésze a 39/2015. (XII. 28.) NGM rendelet 4. § a) pontja szerint módosított szöveg.
-[^15]: Az 1. melléklet 3. pont 3.1. alpontja a 39/2015. (XII. 28.) NGM rendelet 4. § b) pontja szerint módosított szöveg.
-[^16]: A 2. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (3) bekezdése alapján a kibocsátó a 2010. évre vonatkozó féléves jelentési kötelezettségét e rendelet 2. mellékletének rendelkezései szerint teljesíti.
+[^16]: Az 1. melléklet 3. pont nyitó szövegrésze a 39/2015. (XII. 28.) NGM rendelet 4. § a) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 3. pont 3.1. alpontja a 39/2015. (XII. 28.) NGM rendelet 4. § b) pontja szerint módosított szöveg.
+[^18]: A 2. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (3) bekezdése alapján a kibocsátó a 2010. évre vonatkozó féléves jelentési kötelezettségét e rendelet 2. mellékletének rendelkezései szerint teljesíti.
