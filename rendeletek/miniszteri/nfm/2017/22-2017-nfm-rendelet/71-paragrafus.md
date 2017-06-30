@@ -1,0 +1,1 @@
+## 70. § A hajózási hatósági eljárások díjairól szóló 29/2001. (IX. 1.) KöViM rendelet 2. § (2) bekezdésében az „az eljáró hajózási hatóság bevétele” szövegrész helyébe az „a Nemzeti Fejlesztési Minisztérium bevétele” szöveg lép.
