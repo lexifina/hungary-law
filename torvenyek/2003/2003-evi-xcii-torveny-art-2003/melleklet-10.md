@@ -95,3 +95,7 @@ Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó kül
 5.1.1.5. az adózó székhelye szerinti ország megnevezését, amennyiben a székhely az Európai Közösség területén kívül található,
 
 5.1.1.6. az IBAN bankszámlaszámot,
+
+5.1.1.7. a BIC kódot,
+
+5.1.1.8. az adóhatósággal történő kapcsolattartásra feljogosított személy (ún. kapcsolattartó) nevét, telefonszámát,
