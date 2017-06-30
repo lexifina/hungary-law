@@ -1,0 +1,208 @@
+# A nemzetgazdasági miniszter 17/2017. (VI. 30.) NGM rendelete
+
+Magyar Közlöny 2017. évi 105. szám, 2017. június 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c8ba32072bbdf790bc8516d3fe68df0061b8c029/dokumentumok/e0af96fec6643ec8689f3f58979511a466e94568/letoltes)
+
+---
+
+A nemzetgazdasági miniszter 17/2017. (VI. 30.) NGM rendelete
+az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok
+végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (2) bekezdés a)–g), i) és j) pontjában kapott felhatalmazás
+alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. pontjában foglalt
+feladatkörömben eljárva a következőket rendelem el:
+1. §
+Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok
+végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet (a továbbiakban: Vhr.) 10. § (3) bekezdése helyébe a következő
+rendelkezés lép:
+„(3) A helyszíni ellenőrzés esetében az ellenőrzési jogosultságot a szerencsejáték-felügyeleti hatóság alkalmazottja
+a szerencsejáték-felügyeleti hatóság által kiállított arcképes igazolvánnyal vagy a személyazonosság igazolására
+alkalmas okmánnyal, valamint a szerencsejáték-felügyeleti hatóság vezetője által kiállított, az Szjtv. hatálya alá
+tartozó játékok ellenőrzésére jogosultságot biztosító megbízólevéllel köteles igazolni.”
+2. §
+A Vhr. 22. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Az ajándéksorsolásról készített közjegyzői okirat egy hiteles példányát a végelszámolás elektronikus úton
+való előterjesztése esetén a szerencsejáték-felügyeleti hatósághoz az okirat kiállításától számított 5 napon belül
+kell benyújtani. A végelszámolás személyesen vagy postai úton való előterjesztése esetén a közjegyzői okiratot
+a végelszámolással együtt kell benyújtani.”
+3. §
+A Vhr. 53. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A szerencsejáték-felügyeleti hatóság játékkaszinó üzemeltetésére vonatkozó engedélyező határozatának
+mellékletét képezi a 10. számú melléklet szerinti tartalmi és formai elemeket tartalmazó működési engedély,
+amelyet a játékkaszinó bejáratánál jól látható módon ki kell függeszteni. A működési engedélyt, annak bármely
+okból történő megszűnésétől számított 8 napon belül a szerencsejáték-felügyeleti hatóság részére le kell adni.”
+
+4. §
+A Vhr. 64. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A szervező a szerencsejáték-felügyeleti hatóság jóváhagyásával a játékkaszinóban ajándéksorsolás, illetve
+egyéb, a forgalom növelése érdekében szervezett akció (promóció) keretében – a szerencsejáték eszközöknél
+felhasználható – a belépőzsetonoktól különböző meghatározott értékű ajándékzsetont bocsáthat a látogatók
+rendelkezésére, amelynek értéke a pénztárnál nem váltható be, és a bevételek elszámolásában befizetett tétnek
+minősül. Az erre vonatkozó kérelmet ajándéksorsolásonként, illetve promóciónként kell személyesen vagy postai
+úton a szerencsejáték-felügyeleti hatósághoz benyújtani. A kérelemnek tartalmaznia kell az akció kezdő és befejező
+időpontját, a személyenként biztosított ajándékzsetonok értékét és számát, az akció részletes leírását, valamint
+az ajándékzsetonok elszámolásának részletes szabályait.”
+5. §
+A Vhr. 68. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A játékkaszinó a részvételi szabályzat változásait a módosítással egyidejűleg köteles benyújtani személyesen
+vagy postai úton a szerencsejáték-felügyeleti hatósághoz.”
+6. §
+A Vhr. 70. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be
+személyesen vagy postai úton a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság
+folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák)
+szervezésére adhat engedélyt.”
+7. §
+A Vhr. 73/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A szerencsejáték-felügyeleti hatóság kártyaterem üzemeltetésére vonatkozó engedélyező határozatának
+mellékletét képezi a 15. számú melléklet szerinti tartalmi és formai elemeket tartalmazó működési engedély,
+amelyet a kártyaterem bejáratánál jól látható módon ki kell függeszteni. A kártyaterem működésének
+felfüggesztése vagy bármely okból történő megszűnése esetén a működési engedélyt a felfüggesztéstől vagy
+a megszűnés időpontjától számított nyolc napon belül a szerencsejáték-felügyeleti hatóság részére le kell adni.”
+8. § (1) A Vhr. 74. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az Szjtv. 16. § (2) bekezdése szerinti, a szerencsejáték-felügyeleti hatósághoz benyújtott személyesen vagy
+postai úton bejelentésnek tartalmaznia kell:
+a) a szervező nevét (cégnevét), lakóhelyét (székhelyét), fizetési számlaszámát,
+b) a sorsjegyek árát,
+c) a kibocsátásra kerülő sorsjegyek darabszámát, a sorsjegyek egyedi azonosítására alkalmas jelzését (sorozat,
+sorszám stb.),
+d) a sorsolásos játék nyereményalapját,
+e) a sorsolásos játék nyerőosztályait, a nyeremények leírását és értékét, a nyeremény azonosításának,
+érvényesítésének és kifizetésének módját,
+f) a sorsolás helyét, idejét és lebonyolításának szabályait.”
+(2) A Vhr. 74. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az Szjtv. 23. §-ában foglalt ajándéksorsolás szervezése esetén – legkésőbb annak meghirdetését megelőző tíz
+nappal – a szerencsejáték-felügyeleti hatóság honlapján közzétett formanyomtatványon (elektronikus űrlapon)
+kell teljesíteni a bejelentési kötelezettséget. A bejelentést a szerencsejáték-felügyeleti hatóság honlapján közzétett
+számítógépes program segítségével kell kitölteni és előállítani. A bejelentést elektronikus úton vagy a kinyomtatott
+iratot aláírva kell személyesen vagy postai úton a szerencsejáték-felügyeleti hatósághoz benyújtani. Ezt követően
+a bejelentésben foglaltaktól eltérni a változtatás időpontját megelőző tíz nappal az említett formanyomtatványon
+benyújtott bejelentés teljesítésével lehet, azonban az eltérés a játékosok érdekeit nem sértheti.”
+(3) A Vhr. 74. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az ajándéksorsolás végelszámolását a szerencsejáték-felügyeleti hatóság honlapján közzétett
+formanyomtatvány (elektronikus űrlap) felhasználásával kell teljesíteni. A végelszámolást a szerencsejáték-
+felügyeleti hatóság honlapján közzétett számítógépes program segítségével kell kitölteni és előállítani.
+A végelszámolást elektronikus úton, vagy a kinyomtatott iratot aláírva személyesen vagy postai úton kell
+a szerencsejáték-felügyeleti hatósághoz benyújtani. A folyamatosan szervezett ajándéksorsolás végelszámolásának
+a 22. § (5) bekezdésének a), c) és d) pontjában szereplő adatokat sorsolásonként elkülönítve kell tartalmaznia.”
+
+9. § (1) A Vhr. 75. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A játékautomata üzemeltetésének nyilvántartás céljából történő bejelentését játékautomatánként
+a szerencsejáték-felügyeleti hatóság honlapján közzétett formanyomtatványon (elektronikus űrlapon) kell
+teljesíteni. A bejelentést a szerencsejáték-felügyeleti hatóság honlapján közzétett számítógépes program
+segítségével kell kitölteni és előállítani. A kérelmet elektronikus úton vagy a kinyomtatott iratot aláírva kell
+személyesen vagy postai úton a szerencsejáték-felügyeleti hatóságnak benyújtani.”
+(2) A Vhr. 75. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A szerencsejáték-felügyeleti hatóság a játékautomata nyilvántartásba vételéről a 13. számú melléklet szerinti
+tartalmi és formai elemeket tartalmazó nyilvántartásba vételi igazolást állít ki a kérelmező részére.”
+10. §
+A Vhr. 80. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az igazgatási-szolgáltatási díjat fizetési számlára történő készpénzbefizetés vagy átutalás útján kell megfizetni
+a Magyar Államkincstárnál vezetett 10032000-01076129-00000000 Szerencsejátékok szervezésével kapcsolatos díj
+és bírság bevételi számla javára.”
+11. §
+A Vhr.
+a) 1. § (8) és (9) bekezdésében, 2. § (5) bekezdésében, 4. § (1) és (4) bekezdésében, 6. § (1) bekezdésében,
+8. § (2) bekezdésében, 10. § (7) és (8) bekezdésében, 11. § (1) bekezdésében, 22. § (1), (8) és (9) bekezdésében,
+25. § (1) bekezdésében, 43. § (2) bekezdésében, 53/A. § (1) bekezdésében, 73. § (1) bekezdésében, 73/A. §
+(4) bekezdésében, 85. § (1) és (2) bekezdésében, 4. számú melléklet B) pont 4., 13. és 21. alpontjában,
+4. számú melléklet C) pont 4. alpont b) pontjában az „Az állami adóhatóság” szövegrész helyébe
+az„A szerencsejáték-felügyeleti hatóság”szöveg,
+b) 1. § (8) bekezdésében, 1/A. § (1) és (6) bekezdésében, 2. § (5) bekezdésében, 4. § (1) bekezdésében, 6. §
+(4) bekezdés a) pontjában, 10. § (8) bekezdésében, 11. § (2) bekezdésében, 16. §-ában, 17. §-ában, 22. § (2) és
+(10) bekezdésében, 24. § (1) bekezdésében, 25. § (1) bekezdésében, 26. § (3) bekezdés a) pontjában, 27. § (4)
+és (5) bekezdésében, 29. § (3) bekezdésében, 29. § (5) bekezdés b) pontjában, 29. § (9) bekezdésében, 33. §
+(3) bekezdésében, 41. § (3) bekezdésében, 42. § (1) és (2) bekezdésében, 57. § (2) bekezdés d) pontjában,
+57. § (4) bekezdésében, 63. § (6) bekezdésében, 69. § (4) bekezdésében, 69. § (6) bekezdés c) pontjában, 73. §
+(1) bekezdésében, 73/A. § (1) bekezdésében, 73/J. § (3) bekezdésében, 73/K. § (1) bekezdésében, 73/K. §
+(4) bekezdés c) pontjában, 76. §-ában, 81. §-ában, 83. §-ában, 87. § 13. pontjában, 1. számú melléklet 1. pont
+e) alpontjában, 4. számú melléklet A) pont 9. alpont d) pontjában, 4. számú melléklet B) pont 22. alpontjában,
+4. számú melléklet C) pont 1., 2. és 3. alpontjában az „az állami adóhatóság” szövegrész helyébe
+az„a szerencsejáték-felügyeleti hatóság”szöveg,
+c) 3. § (1) bekezdésében, 22. § (3) és (12) bekezdésében, 43. § (3) bekezdésében, 68. § (4) és (5) bekezdésében
+az„az állami adóhatóság”szövegrészek helyébe az„a szerencsejáték-felügyeleti hatóság”szöveg,
+d) 10. § (1) bekezdésében, 22. § (2) és (11) bekezdésében, 69. § (3) bekezdésében, 70. § (3) bekezdésében,
+73. § (3) bekezdésében, 80. § (2) bekezdésében az „az állami adóhatóságnak” szövegrész helyébe
+az„a szerencsejáték-felügyeleti hatóságnak”szöveg,
+e) 10. § (6) bekezdésében az „az állami adóhatóságnál” szövegrész helyébe az „a szerencsejáték-felügyeleti
+hatóságnál”szöveg,
+f) 22. § (1) bekezdésében, 24. § (1) bekezdésében, 41. § (2) bekezdésében, 53. § (1) bekezdésében, 60. §
+(3) bekezdésében, 68. § (6) bekezdésében, 69. § (6) bekezdés g) és i) pontjában, 73/J. § (5) bekezdésében,
+73/K. § (4) bekezdés g) és i) pontjában, 1. melléklet 1. pontjában az „az állami adóhatósághoz” szövegrész
+helyébe az„a szerencsejáték-felügyeleti hatósághoz”szöveg,
+g) 22. § (2) bekezdésében, 23. § (5) bekezdés b) pontjában, 27. § (6) bekezdésében, 29. § (9) bekezdésében, 40. §
+(2) bekezdésében, 67. § (4) bekezdésében, 69. § (5) és (7) bekezdésében, 73/K. § (3) és (6) bekezdésében, 77. §
+(6) bekezdésében, 4. számú melléklet D) pont 2. alpontjában az„az állami adóhatóságot” szövegrész helyébe
+az„a szerencsejáték-felügyeleti hatóságot”szöveg,
+h) 22. § (2) bekezdésében a „vonatkozó állami adóhatóság” szöveg helyébe a „vonatkozó szerencsejáték-
+felügyeleti hatóság”szöveg,
+
+i) 23. § (5) bekezdés a) pontjában az „a NAV Központi Irányításának” szövegrész helyébe az „a szerencsejáték-
+felügyeleti hatóságnak”szöveg,
+j) 2. számú mellékletében az „állami adóhatóság:” szövegrész helyébe a „Szerencsejáték-felügyeleti hatóság:”
+szöveg,
+k) 4. számú melléklet C) pont 4. alpont a) pontjában az „az állami adóhatóság” szövegrész helyébe
+az„A szerencsejáték-felügyeleti hatóság”szöveg
+lép.
+12. §
+A Vhr.
+a) 10. számú melléklete helyébe az 1. melléklet,
+b) 13. számú melléklete helyébe a 2. melléklet,
+c) 15. számú melléklete helyébe a 3. melléklet
+lép.
+13. §
+Ez a rendelet 2017. július 1-jén lép hatályba.
+ Varga Mihály s. k.,
+ nemzetgazdasági miniszter
+1. melléklet a 17/2017. (VI. 30.) NGM rendelethez
+„10. számú melléklet a 32/2005. (X. 21.) PM rendelethez
+A játékkaszinó üzemeltetésére szóló működési engedély tartalmi és formai elemei
+A játékkaszinó üzemeltetésére szóló működési engedélyben a tartalmi és formai elemként szerepeltetni kell
+a) a játékkaszinó működésére szóló engedély megnevezését,
+b) Magyarország címerét,
+c) a működési engedély szerencsejáték-felügyeleti hatóság által generált egyedi sorszámát,
+d) a játékkaszinó I. vagy II. kategória szerinti besorolását,
+e) a játékkaszinó közigazgatási címét,
+f) a játékkaszinót üzemeltető szerencsejáték-szervező nevét (cégnevét), székhelyét,
+g) a működési engedély érvényességének időtartamát,
+h) a működési engedély kiállításának helyét és dátumát,
+i) az engedélyező hatóság elnevezését, bélyegző lenyomatát, valamint az engedélyező hatóság vezetőjének
+aláírását és
+j) szövegszerű utalást arra, hogy
+ja) a működési engedély szigorú számadású nyomtatvány,
+jb) a működési engedélyt, annak bármely okból történő megszűnésétől számított 8 napon belül,
+a szerencsejáték-felügyeleti hatóság részére le kell adni,
+jc) a működési engedélyt a játékkaszinó bejáratánál jól látható helyre kell kifüggeszteni, és
+jd) a működési engedély másra nem ruházható át.”
+
+2. melléklet a 17/2017. (VI. 30.) NGM rendelethez
+„13. számú melléklet a 32/2005. (X. 21.) PM rendelethez
+A játékautomata nyilvántartásba vételéről kiállított igazolás tartalmi és formai elemei
+A játékautomata nyilvántartásba vételi igazolásban tartalmi és formai elemként szerepeltetni kell
+a) az igazolás sorszámát,
+b) Magyarország címerét és az igazolást kiállító hatóság elnevezését,
+c) a játékautomata, mint az igazolás tárgyának megnevezését,
+d) a játékautomata gyártási számát,
+e) a játékautomata mérésügyi azonosító számát,
+f) az igazolás érvényességének időtartamát,
+g) az igazolás kiadásának dátumát,
+h) az igazolást kiállító hatóság elnevezését, bélyegző lenyomatát, valamint a kiadmányozásra jogosult aláírását,
+i) az e) és f) pontok szerinti adatok védelme érdekében az ezen adattartalmat letakaró fóliát.”
+3. melléklet a 17/2017. (VI. 30.) NGM rendelethez
+„15. számú melléklet a 32/2005. (X. 21.) PM rendelethez
+A kártyaterem üzemeltetésére szóló működési engedély tartalmi és formai elemei
+A kártyaterem üzemeltetésére szóló működési engedélyben a tartalmi és formai elemként szerepeltetni kell
+a) a játékkaszinó működésére szóló engedély megnevezését,
+b) Magyarország címerét,
+c) a működési engedély szerencsejáték-felügyeleti hatóság által generált egyedi sorszámát,
+d) a kártyaterem közigazgatási címét,
+e) a kártyatermet üzemeltető szerencsejáték-szervező nevét (cégnevét), székhelyét,
+f) a működési engedély érvényességének időtartamát,
+g) a működési engedély kiállításának helyét és dátumát,
+h) az engedélyező hatóság elnevezését, bélyegző lenyomatát, valamint az engedélyező hatóság vezetőjének
+aláírását és
+i) szövegszerű utalást arra, hogy
+ia) a működési engedély szigorú számadású nyomtatvány,
+ib) a működési engedélyt, annak bármely okból történő megszűnésétől számított 8 napon belül,
+a szerencsejáték-felügyeleti hatóság részére le kell adni,
+ic) a működési engedélyt a kártyaterem bejáratánál jól látható helyre kell kifüggeszteni, és
+id) a működési engedély másra nem ruházható át.”
