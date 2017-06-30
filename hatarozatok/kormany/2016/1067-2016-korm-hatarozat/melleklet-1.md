@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében meghatározott jogkörében eljárva, a Budai Várban található Karmelita kolostorban elhelyezendő műtárgyak beszerzése céljából 1006,0 millió forint egyszeri átcsoportosítását rendeli el a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében meghatározott jogkörében eljárva, a Budai Várban található Karmelita kolostorban elhelyezendő műtárgyak beszerzése céljából 1006,0 millió forint egyszeri átcsoportosítását rendeli el a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében:
 
@@ -10,9 +10,9 @@
 
 ## Az elszámolás és a visszatérítési kötelezettség tekintetében:
 
-## Felelős: emberi erőforrások minisztere
+## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. december 31.
 
 ## 2. felhívja a Miniszterelnökséget vezető minisztert, hogy – az emberi erőforrások minisztere és a nemzeti fejlesztési miniszter bevonásával – vizsgálja meg az állami elővásárlási jog állami fenntartású közgyűjteményekre történő kiterjesztésének lehetőségét és terjessze a Kormány elé az ehhez szükséges jogszabálymódosítási javaslatokat.
 
@@ -77,3 +77,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1438/2017. (VI. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
