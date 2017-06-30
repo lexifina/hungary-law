@@ -66,13 +66,13 @@ tartozik.
 
 28. rendszeresen belvízjárta terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a sík vidéki vagy enyhe lejtésviszonyokkal rendelkező területek azon mélyebb részei tartoznak, ahol a helyi csapadék egy része átmeneti vízfelesleg formájában, nagyobb mennyiségben és gyakorisággal összegyűlik,
 
-29. szélerőműpark telepítéséhez vizsgálat alá vonható terület: megyei területrendezési tervekben ajánlott övezet, amely azon területeket jelöli, amelyek a szélerőműpark telepítésére a természeti, a táji, a kulturális adottságok és értékek megőrzése mellett, a természeti erőforrások védelme szempontjából a leginkább alkalmasak,
+29.
 
 30. szén-dioxid-szállítóvezeték: a szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték, beleértve a kapcsolódó nyomásfokozó állomásokat is,
 
-31. tanyás térség: ajánlott övezet, amelyet egyes kijelölt megyék területrendezési terve tartalmazhat,
+31.
 
-32. tájrehabilitációt igénylő terület: a megyei területrendezési tervekben ajánlott övezet, amelybe jelentős területi kiterjedésű, esetenként több települést érintő felhagyott ipari és bányászati üzemi területek, továbbá az ipari és bányászati tevékenység okozta tájsebek – zagytározók, meddőhányók, ipari hulladéklerakók – tartoznak,
+32.
 
 32a. tájképi egység: tájban előforduló és vizuálisan összetartozónak tekinthető természetes és antropogén tájelemek együttese, amely a látvány szempontjából meghatározott karakterrel jellemezhető,
 
@@ -84,7 +84,7 @@ tartozik.
 
 35. térségi övezet: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, sajátos jellemzőkkel rendelkező – a térségi területfelhasználási kategóriáktól függetlenül lehatárolt – területi egység, amelyben az e törvényben és a külön jogszabályokban meghatározott előírásokat kell alkalmazni,
 
-36. térségi árvízi kockázatkezelési terület: megyei területrendezési tervben ajánlott övezet, amelybe azok a területek tartoznak, amelyek árvízvédelmi szempontból egységes kezelést igényelnek, vagy a kockázatkezelés szempontjából elkülöníthetőek,
+36.
 
 37. térségi területfelhasználási kategória: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, a térségben jellemző területfelhasználásnak megfelelően lehatárolt területi egység,
 

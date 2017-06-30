@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-26-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2003-26-00-00.18 |
 | 2016-01-07 | 2015. évi CCXXV. törvény | 2003-26-00-00.19 |
 | 2016-07-01 | 2016. évi LXXVIII. törvény | 2003-26-00-00.20 |
+| 2017-06-30 | 2016. évi LXXVIII. törvény | 2003-26-00-00.21 |

@@ -1,6 +1,6 @@
 1/12. számú melléklet
 
-Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
+Térségi övezetek és azok kapcsolata
 
 |
 
@@ -80,7 +80,7 @@ d) Erdőtelepítésre javasolt terület
 
 |
 
-e) Tájképvédelmi szempontból kiemelten kezelendő terület
+e) tájképvédelmi szempontból kiemelten kezelendő terület
 
 |
 
@@ -153,61 +153,3 @@ i) Kiemelt fontosságú honvédelmi terület
 |
 
 h) Honvédelmi terület
-
-|
-
-16.
-
-|
-
-|
-
-|
-
-17.
-
-|
-
-|
-
-Megyei területrendezési terv
-
-|
-
-18.
-
-|
-
-|
-
-a) tanyás térség
-
-|
-
-19.
-
-|
-
-|
-
-b) tájrehabilitációt igénylő terület
-
-|
-
-20.
-
-|
-
-|
-
-c) szélerőműpark telepítéséhez vizsgálat alá vont terület
-
-|
-
-21.
-
-|
-
-|
-
-d) térségi árvízi kockázatkezelési terület
