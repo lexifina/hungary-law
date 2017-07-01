@@ -12,7 +12,7 @@
 
 5. Vizsgára az bocsátható, aki a tanfolyam előírt óraszámának legalább 80%-án jelen volt.
 
-6.[^250] A vizsga helyét és időpontját, valamint a vizsgabizottság elnökét a kormánymegbízott jelöli ki a Magyar Bányászati és Földtani Hivatalról szóló kormányrendelet szerinti fővárosi és megyei kormányhivatal állományába tartozó kormánytisztviselők közül..
+6.[^250] A vizsga helyét és időpontját, valamint a vizsgabizottság elnökét a kormánymegbízott jelöli ki a Magyar Bányászati és Földtani Szolgálatról szóló kormányrendelet szerinti fővárosi és megyei kormányhivatal állományába tartozó kormánytisztviselők közül..
 
 7. A vizsgabizottság elnökből és legalább két tagból áll. A vizsgabizottság tagjainak megbízását a tanfolyam szervezőjének javaslatára figyelemmel a vizsgabizottság elnöke jelöli ki.
 
@@ -34,4 +34,4 @@
 
 2. Az ismeretlen TNT-egyenértékű iniciáló- és brizáns robbanóanyag, valamint a robbanóképes pirotechnikai keverék TNT-egyenértékét – méréssel megállapított vagy szakirodalomból vett robbanáshő, vagy a gyártó által megadott égéshő adataik alapján – az 1. képlet számítása szerint kell meghatározni.
 
-[^250]: Az 1. melléklet 6. pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (2) bekezdése, a 15/2015. (III. 31.) NFM rendelet 21. § b) pontja szerint módosított szöveg.
+[^250]: Az 1. melléklet 6. pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (2) bekezdése, a 15/2015. (III. 31.) NFM rendelet 21. § b) pontja, a 24/2017. (VI. 30.) NFM rendelet 9. §-a szerint módosított szöveg.
