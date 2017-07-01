@@ -24,10 +24,10 @@ b) a területre a Bt. 5. §-a szerinti engedélyt adott ki a bányafelügyelet u
 
 c) a tervezett kutatási módszerek nem minősülnek előkutatásnak.
 
-(6)[^6] Az előkutatás során nyert földtani adatokat a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) részére meg kell küldeni.
+(6)[^6] Az előkutatás során nyert földtani adatokat a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ) részére meg kell küldeni.
 
 [^2]: A Vhr. 1. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a, a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A Vhr. 1. §-ának (2) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A Vhr. 1. §-ának (4) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
 [^5]: A Vhr. 1. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^6]: A Vhr. 1. §-ának (6) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A Vhr. 1. §-ának (6) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

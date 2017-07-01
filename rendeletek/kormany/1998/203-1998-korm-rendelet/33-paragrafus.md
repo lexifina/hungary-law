@@ -1,10 +1,12 @@
 ## (A Bt. 50. §-ához)
 
-33. §[^315] (1) A Bt. 50. §-ának (2) bekezdésében meghatározott földtani adatokat, ásványvagyon számításokat, nyilvántartásokat és földtani mintaanyagokat (a továbbiakban együtt: adat) térítésmentesen az MBFH rendelkezésére kell bocsátani. A rendelkezésre bocsátási kötelezettség nem terjed ki azokra az adatokra, amelyeket az MBFH, az MGSZ vagy jogelődje igazoltan megkapott vagy levéltárban lettek elhelyezve.
+33. §[^317] (1)[^318] A Bt. 50. §-ának (2) bekezdésében meghatározott földtani adatokat, ásványvagyon számításokat, nyilvántartásokat és földtani mintaanyagokat (a továbbiakban együtt: adat) térítésmentesen az MBFSZ rendelkezésére kell bocsátani. A rendelkezésre bocsátási kötelezettség nem terjed ki azokra az adatokra, amelyeket az MBFSZ vagy jogelődje igazoltan megkapott vagy levéltárban lettek elhelyezve.
 
-(2) Az átadott adatok az MBFH állományába tartoznak, megőrzésükről, kezelésükről és a hozzáférés biztosításáról az MBFH elnöke gondoskodik.
+(2)[^319] Az átadott adatok az MBFSZ állományába tartoznak, megőrzésükről, kezelésükről és a hozzáférés biztosításáról az MBFSZ elnöke gondoskodik.
 
-(3)[^316]
+(3)[^320]
 
-[^315]: A Vhr. 33. §-a a 268/2006. (XII. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^316]: A Vhr. 33. § (3) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 7. pontja hatályon kívül helyezte.
+[^317]: A Vhr. 33. §-a a 268/2006. (XII. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^318]: A Vhr. 33. § (1) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 2. § i) pontja szerint módosított szöveg.
+[^319]: A Vhr. 33. § (2) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 2. § j) pontja szerint módosított szöveg.
+[^320]: A Vhr. 33. § (3) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 7. pontja hatályon kívül helyezte.

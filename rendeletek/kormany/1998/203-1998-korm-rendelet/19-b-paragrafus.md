@@ -1,4 +1,4 @@
-19/B. §[^198] (1) Nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz és gáztermék vezeték (e §-ban a továbbiakban: keresztezett létesítmény) egymást és más nyomvonalas létesítmény e létesítményeket biztonsági szabályzatban meghatározott módon és mértékben keresztezheti vagy megközelítheti.
+19/B. §[^200] (1) Nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz és gáztermék vezeték (e §-ban a továbbiakban: keresztezett létesítmény) egymást és más nyomvonalas létesítmény e létesítményeket biztonsági szabályzatban meghatározott módon és mértékben keresztezheti vagy megközelítheti.
 
 (2) A keresztezett létesítmény keresztezéséhez, megközelítéséhez azok üzemeltetőjének egyetértése szükséges. Az üzemeltető az egyetértés megadását feltételekhez kötheti.
 
@@ -16,7 +16,7 @@ c) a biztonsági övezet kialakítása érdekében szükséges költségek visel
 
 (6) Gépi földmunkát a keresztezett létesítmény feltárásához szükséges szilárd burkolatú út felbontása kivételével, a létesítmény szélső alkotóitól számított 1-1 méteres övezeten belül végezni nem lehet.
 
-(7)[^199] Az építési tevékenység fővállalkozó kivitelezőjének – át nem hárítható felelősséggel – gondoskodnia kell
+(7)[^201] Az építési tevékenység fővállalkozó kivitelezőjének – át nem hárítható felelősséggel – gondoskodnia kell
 
 a) a kivitelezési munka megkezdése előtt az üzemeltető szakmai felügyelete mellett a keresztezett létesítmény nyomvonalának és a (6) bekezdés szerinti övezet kijelöléséről,
 
@@ -26,7 +26,7 @@ c) a keresztezett létesítmény feltárásáról, és
 
 d) a keresztezés takarása előtt az üzemeltető értesítéséről.
 
-(7a)[^200] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező köteles viselni.
+(7a)[^202] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező köteles viselni.
 
 (8) Ha más nyomvonalas létesítmény üzemzavarának elhárítása szükséges, az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője köteles az üzemzavar-elhárítás megkezdése előtt a keresztezett létesítmény üzemeltetőjével a tervezett munkálatokról és azok helyéről egyeztetni.
 
@@ -36,6 +36,6 @@ a) robbanás- vagy tűzveszélyes, vagy
 
 b) az egészségre, környezetre ártalmas.
 
-[^198]: A Vhr. 19/B. §-át az 559/2013. (XII. 31.) Korm. rendelet 14. §-a iktatta be.
-[^199]: A Vhr. 19/B. § (7) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^200]: A Vhr. 19/B. § (7a) bekezdését a 311/2014. (XII. 11.) Korm. rendelet 10. §-a iktatta be.
+[^200]: A Vhr. 19/B. §-át az 559/2013. (XII. 31.) Korm. rendelet 14. §-a iktatta be.
+[^201]: A Vhr. 19/B. § (7) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^202]: A Vhr. 19/B. § (7a) bekezdését a 311/2014. (XII. 11.) Korm. rendelet 10. §-a iktatta be.

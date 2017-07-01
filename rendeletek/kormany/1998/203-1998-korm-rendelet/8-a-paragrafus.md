@@ -8,7 +8,7 @@ c) a kinyerés tervezett időtartamát, és
 
 d) az 1. számú mellékletben meghatározott műszaki leírást.
 
-(2) A geotermikus védőidomot az elfogadott kutatási zárójelentésben lévő és a kérelemben megadott adatokra és információkra alapozottan a bányafelügyelet a Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI) szakértőként történő bevonásával jelöli ki.
+(2)[^89] A geotermikus védőidomot az elfogadott kutatási zárójelentésben lévő és a kérelemben megadott adatokra és információkra alapozottan a bányafelügyelet jelöli ki.
 
 (3) A geotermikus védőidomot annál a hatástávolságnál kell meghatározni, ahol a kinyerni tervezett geotermikus energia mennyisége a kinyerés tervezett időtartama alatt a geotermikus energia-utánpótlódás által biztosított és
 
@@ -21,3 +21,4 @@ c) a 2500 m-nél nagyobb mélységű felszín alatti víz-termelő és besajtol�
 (4) A geotermikus védőidom a kizárólag azonos tulajdonban lévő létesítményekre közösített burkolófelületként is kijelölhető.
 
 [^88]: A Vhr. 8/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be.
+[^89]: A Vhr. 8/A. § (2) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-203-20-
 | 2016-01-01 | 1998-203-20-22.42 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-07-23 | 1998-203-20-22.43 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 1998-203-20-22.44 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2017-07-01 | 1998-203-20-22.45 | 146/2012. (VII. 5.) Korm. rendelet |
