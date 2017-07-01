@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-288-20-
 | 2017-01-01 | 2009-288-20-22.32 | 377/2016. (XI. 30.) Korm. rendelet |
 | 2017-01-02 | 2009-288-20-22.33 | 377/2016. (XI. 30.) Korm. rendelet |
 | 2017-04-01 | 2009-288-20-22.34 | 377/2016. (XI. 30.) Korm. rendelet |
+| 2017-07-01 | 2009-288-20-22.35 | 377/2016. (XI. 30.) Korm. rendelet |
