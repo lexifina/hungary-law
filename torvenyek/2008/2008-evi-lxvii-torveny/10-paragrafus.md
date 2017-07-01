@@ -38,7 +38,7 @@
 
 9. kedvezményezett részesedéscsere: a Tao. tv. 4. § 23/c. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 
-10. kőolajtermék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (1) bekezdésének a)–f) pontjaiban felsorolt üzem- és tüzelőanyag;
+10. kőolajtermék: a jövedéki adóról szóló törvény szerinti, üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálásra, értékesítésre vagy felhasználásra szánt benzin, petróleum, gázolaj, fűtőolaj és LPG;
 
 11. közszolgáltató:
 
@@ -47,3 +47,5 @@
 11.2. a vízgazdálkodásról szóló törvény szerinti nem közművel összegyűjtött háztartási szennyvíz begyűjtésére feljogosított közszolgáltató,
 
 11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatást végző közszolgáltató.
+
+12. elektromos töltőállomás: olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére.

@@ -13,3 +13,5 @@
 (6) E törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel módosított 6. § (2) bekezdés b) pontját a 2015. adóévi adókötelezettségre az adózó választása szerint alkalmazza.
 
 (7) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 6. § (3) bekezdés j) és k) pontját első alkalommal a 2016. adóévi adókötelezettség megállapítása során kell alkalmazni.
+
+(8) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 6. § (3) bekezdés l) pontját, (13)–(17) bekezdését és 10. § 12. pontját első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.

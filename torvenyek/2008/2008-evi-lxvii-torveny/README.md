@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-67-00-00
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 2008-67-00-00.16 |
 | 2016-11-26 | 2016. évi CXXV. törvény | 2008-67-00-00.17 |
 | 2017-01-01 | 2016. évi CXXV. törvény | 2008-67-00-00.18 |
+| 2017-07-01 | 2017. évi LXXVII. törvény | 2008-67-00-00.19 |
