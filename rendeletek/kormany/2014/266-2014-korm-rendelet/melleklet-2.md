@@ -28,9 +28,9 @@
 
 | 13. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 15. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 16. | talajvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
@@ -68,11 +68,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 10. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | földvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 12. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 12. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 13. | rendészet | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 87. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 87. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 87. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 87. § (2) bekezdés b) pontja, a 162/2017. (VI. 28.) Korm. rendelet 75. § b) pontja szerint módosított szöveg.
