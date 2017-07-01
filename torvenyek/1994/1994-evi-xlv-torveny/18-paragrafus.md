@@ -10,4 +10,4 @@ ab) következtében szükségessé váló gyógyászati segédeszközökre és m
 
 b) az a) pont szerinti gyógyászati segédeszköz javítására, valamint szükséges pótlására és
 
-c) kormányrendeletben meghatározott támogatási mértékig azokra a kormányrendeletben meghatározott egyéb olyan – egészségügyi szempontból indokolt, de gyógyászati segédeszköznek nem minősülő – eszközökre, amelyekkel életvitele, munkaképessége helyreállítható vagy javítható.
+c) a 25. § (3) bekezdése szerinti közalapítvány által – kormányrendeletben foglaltak szerint – meghatározott körben és támogatási mértékig azokra az egyéb olyan – egészségügyi szempontból indokolt, de gyógyászati segédeszköznek nem minősülő – eszközökre, amelyekkel életvitele, munkaképessége helyreállítható vagy javítható.

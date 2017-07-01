@@ -12,6 +12,6 @@ b) az egyösszegű térítés és a hadigondozotti járadék megállapításána
 
 c) a hadigondozotti ellátások és kedvezmények igénybevételére jogosító hadigondozotti igazolvány tartalmi és formai kellékeinek, az igazolvány kiadásának, valamint a hadieredetű fogyatkozás megállapítása orvosszakmai szempontjainak;
 
-d) a hadirokkantak gyógyászati segédeszközzel történő ellátásának, valamint a 18. § (1) bekezdés c) pontja szerinti eszközök körének és a támogatás mértékének;
+d) a hadirokkantak gyógyászati segédeszközzel történő ellátásának, valamint a 18. § (1) bekezdés c) pontja szerinti eszközök köre és támogatási mértéke közalapítvány általi meghatározása módjának;
 
 részletes szabályait rendeletben állapítsa meg.
