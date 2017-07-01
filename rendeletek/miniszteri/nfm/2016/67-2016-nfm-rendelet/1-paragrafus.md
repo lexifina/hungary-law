@@ -5,3 +5,7 @@
 (3) A GET 141/A. § szerinti földgáz-értékesítés esetén a volt közüzemi nagykereskedő jogosult a földgázforrás árán túlmenően érvényesíteni a szállítás és a tárolás díját.
 
 (4) Az 1. mellékletben szereplő, a volt közüzemi nagykereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége az egyetemes szolgáltató által a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben előírt, a hazai tárolókban elhelyezett földgázkészlet mennyisége és az egyetemes szolgáltató forrásigény-bejelentése alapján kerül meghatározásra.
+
+(5)[^1] A GET 141/A. §-a szerinti forrásfelajánlásból igénylő egyetemes szolgáltató köteles a volt közüzemi nagykereskedőnek és a Magyar Energetikai és Közmű-szabályozási Hivatalnak (a továbbiakban: Hivatal) megküldeni a felajánlásból történő vételezésének tervezett mennyiségeit havi bontásban.
+
+[^1]: Az 1. § (5) bekezdését a 23/2017. (VI. 30.) NFM rendelet 1. §-a iktatta be.

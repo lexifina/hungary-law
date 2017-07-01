@@ -1,4 +1,4 @@
-## Az 1. § szerinti földgázforrás ára és mennyisége 2017 második negyedévre, valamint a felek köre
+## Az 1. § szerinti földgázforrás ára és mennyisége 2017. harmadik negyedévre, valamint a felek köre
 
 ## A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége:
 
@@ -6,25 +6,25 @@
 
 | 1. | hónap | szerződött egyetemes szolgáltató | nem földgáztárolóból származó földgázforrás mennyisége (kWh) | földgáztárolóból származó földgázforrás mennyisége (kWh) | földgázforrás ára (forint/kWh) |
 
-| 2. | április | Főgáz Zrt. | 2 156 310 000 | 0 | 5,991 |
+| 2. | július | Főgáz Zrt. | 376 740 000 | 0 | 5,999 |
 
-| 3. | május | Főgáz Zrt. | 764 750 000 | 0 | 5,991 |
+| 3. | augusztus | Főgáz Zrt. | 387 030 000 | 0 | 5,999 |
 
-| 4. | június | Főgáz Zrt. | 405 460 000 | 0 | 5,991 |
+| 4. | szeptember | Főgáz Zrt. | 582 000 000 | 0 | 5,999 |
 
-2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^4]
+2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^8]
 
-1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2017 második negyedévre:
+1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2017. harmadik negyedévre:
 
 |  | A | B | C | D |
 
 | 1. | hónap | szerződött egyetemes szolgáltató | földgázforrás mennyisége (kWh) | földgázforrás mennyiségarányos díja (forint/kWh) |
 
-| 2. | április | Főgáz Zrt. | 469 965 000 | 5,991 |
+| 2. | július | Főgáz Zrt. | 132 405 000 | 5,999 |
 
-| 3. | május | Főgáz Zrt. | 221 160 000 | 5,991 |
+| 3. | augusztus | Főgáz Zrt. | 132 405 000 | 5,999 |
 
-| 4. | június | Főgáz Zrt. | 147 440 000 | 5,991 |
+| 4. | szeptember | Főgáz Zrt. | 203 700 000 | 5,999 |
 
 2. A 2. § szerinti földgázforrás átvételéhez kapcsolódóan felmerülő nem mennyiségarányos szállítási és tárolási költségek:
 
@@ -34,4 +34,4 @@
 
 | 2. | ENKSZ Észak-Dél Regionális Földgázszolgáltató Zrt. | 1860,67 |
 
-[^4]: A 2. melléklet a 7/2017. (III. 30.) NFM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 2. melléklet a 7/2017. (III. 30.) NFM rendelet 8. § (2) bekezdése, a 23/2017. (VI. 30.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.

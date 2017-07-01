@@ -6,4 +6,6 @@
 
 (4) Az (1) bekezdés szerint értékesített földgázra vonatkozóan a volt közüzemi nagykereskedő a 2. mellékletben meghatározott földgázforrás árán felül csak a szagosítási díjat, a 6. § (3)–(4) bekezdések szerinti felárat és díjat, valamint a vámokat, az adókat, az illetékeket, a szerződés szerinti pótdíjakat és szerződésszegési következményeket jogosult érvényesíteni.
 
-(5) A GET 141/J. § szerinti forrásfelajánlásból igénylő egyetemes szolgáltató köteles a volt közüzemi nagykereskedőnek megadni a felajánlásból történő vételezésének tervezett mennyiségeit havi bontásban.
+(5)[^2] A GET 141/J. §-a szerinti forrásfelajánlásból igénylő egyetemes szolgáltató köteles a volt közüzemi nagykereskedőnek és a Hivatalnak megküldeni a felajánlásból történő vételezésének tervezett mennyiségeit havi bontásban.
+
+[^2]: A 2. § (5) bekezdése a 23/2017. (VI. 30.) NFM rendelet 2. §-ával megállapított szöveg.
