@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-5-20-2X
 | --- | --- | --- |
 | 2017-03-31 | 2017-5-20-2X.1 | 5/2017. (III. 30.) NGM rendelet |
 | 2017-04-01 | 2017-5-20-2X.2 | 2010: CXXX. törvény |
+| 2017-07-01 | 2017-5-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

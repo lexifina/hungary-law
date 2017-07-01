@@ -1,3 +1,3 @@
-## 1. §
+## 1. § A nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 27/2012. (VIII. 27.) NGM rendelet 2. melléklet A 111. sorszámú Jövedéki ügyintéző megnevezésű részszakképesítés szakmai és vizsgakövetelménye cím 3. PÁLYATÜKÖR pont 3.2. A részszakképesítés munkaterületének rövid leírása alpontjában az „és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII.” szövegrész helyébe a „szóló 2016. évi LXVIII.” szöveg lép.
 
 ## 2. A jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet módosítása

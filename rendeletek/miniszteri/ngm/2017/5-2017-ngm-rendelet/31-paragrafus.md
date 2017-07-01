@@ -1,4 +1,8 @@
-## 29–30. §[^7]
+## 30. § A 45/2016. NGM rendelet XI. Fejezete a következő 46/A. alcímmel egészül ki:
+
+## „46/A. Jogszabály tervezetének egyeztetése
+
+## 108/B. § E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.”
 
 31. § (1) A 45/2016. NGM rendelet 1. melléklete az 1. melléklet szerinti szöveggel lép hatályba.
 
@@ -16,7 +20,4 @@
 
 (8) A 45/2016. NGM rendelet 21. melléklete a 8. melléklet szerinti szöveggel lép hatályba.
 
-(9)[^8]
-
-[^7]: A 29–30. § a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^8]: A 31. § (9) bekezdése a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+(9) A 45/2016. NGM rendelet a 9. melléklet szerinti 22. melléklettel egészül ki.

@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1. §) a 33. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+## 1. A nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 27/2012. (VIII. 27.) NGM rendelet módosítása
