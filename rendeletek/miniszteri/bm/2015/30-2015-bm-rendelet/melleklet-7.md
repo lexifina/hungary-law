@@ -128,4 +128,4 @@
 
 7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^13]
 
-[^13]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés c) pontja, az 58/2016. (XII. 22.) BM rendelet 50. §-a szerint módosított szöveg.
+[^13]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés c) pontja, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 15/2017. (VI. 22.) BM rendelet 6. §-a szerint módosított szöveg.

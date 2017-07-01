@@ -10,7 +10,9 @@
 
 | 2. | alapfeladat | nem alap- feladat |
 
-| 3. | közép- vezető | szakirányító 2 | főosztályvezető | 150 | 150 |
+| 2a. | közép- vezető | szakirányító 1 | sajtófőnök | 150 | 150 |
+
+| 3. | szakirányító 2 | főosztályvezető | 150 | 150 |
 
 | 4. | főosztályvezető 1 | főtanácsadó | 150 | 150 |
 
@@ -19,6 +21,8 @@
 | 6. | főosztályvezető-helyettes 2 | osztályvezető | 150 | 150 |
 
 | 7. | osztályvezető 1 | tanácsadó | 150 | 150 |
+
+| 8. | osztályvezető 1 | sajtószóvivő | 150 | 150 |
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 

@@ -80,6 +80,8 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 7. | főosztályvezető- helyettes 1 | sajtószóvivő | 100 |  |
 
+| főosztályvezető 1 | fötanácsadó | 100 |  |
+
 | 8. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 100 |  |
 
 | 8/a. |  |  |  |  |
@@ -89,6 +91,8 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 | 10. | osztályvezető 1 | munkavédelmi főfelügyelő | 100 |  |
 
 | 11. | titkárságvezető | 100 |  |
+
+| 12. | tanácsadó | 100 |  |
 
 2. Területi szervnél
 
@@ -238,4 +242,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^12]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja, az 55/2016. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.
+[^12]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja, az 55/2016. (XII. 22.) BM rendelet 9. §-a, a 15/2017. (VI. 22.) BM rendelet 5. §-a szerint módosított szöveg.

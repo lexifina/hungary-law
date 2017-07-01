@@ -284,6 +284,8 @@ j) a TEK Műveleti Igazgatóság főosztályvezető-helyettes, osztályvezető, 
 
 k) a TEK Személyvédelmi Igazgatóság osztályvezető-helyettes, kiemelt biztonsági főtiszt, biztonsági főtiszt, kiemelt biztonsági tiszt, biztonsági tiszt, biztonsági gépjárművezető 1, biztonsági gépjárművezető 2, biztonsági gépjárművezető 3, helyszínbiztosító 1, helyszínbiztosító 2, helyszínbiztosító 3, személybiztosító 1, személybiztosító 2, lakásbiztosító 1, lakásbiztosító 2 szolgálati beosztásai.
 
+l) a TEK Felderítési Igazgatóság internetes monitoringtevékenység végzésére rendszeresített kiemelt főreferens, kiemelt főelőadó szolgálati beosztásai.
+
 3. Őrszolgálati beosztások
 
 a) objektumőr
@@ -390,4 +392,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^17]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított szöveg.
+[^17]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a szerint módosított szöveg.
