@@ -14,6 +14,8 @@
 
 (8) Az 1. § (2) bekezdésében megjelölt vállalkozás – ha jogszabály másként nem rendelkezik – köteles a csoportfelügyelet alá tartozó biztosító és viszontbiztosító részére megadni a csoportfelügyelet ellátásához szükséges minden adatot és információt.
 
-(9) Ha az 1. § (2) bekezdésében megjelölt vállalkozás nem szolgáltatja a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító részére a csoportszintű szavatolótőke-megfelelés számításához szükséges adatokat, akkor a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító köteles levonni a szavatoló tőkéből az 1. § (2) bekezdésében megjelölt vállalkozásában fennálló részesedés könyv szerinti értékét, valamint az ilyen vállalkozás részére nyújtott alárendelt kölcsöntőke könyv szerinti értékét.
+(9)[^1] Ha a Felügyelet számára nem áll rendelkezésre a biztosító vagy a viszontbiztosító csoportszintű szavatolótőke-megfelelésének számításához szükséges – a biztosító vagy a viszontbiztosító kapcsolt vállalkozására vonatkozó – valamely információ, akkor ennek a vállalkozásnak a részesedéssel rendelkező biztosítóban vagy viszontbiztosítóban szerepeltetett könyv szerinti értékét le kell vonni a biztosító vagy a viszontbiztosító csoportszintű szavatolótőke-megfeleléséhez figyelembe vehető szavatoló tőkéjéből. Ebben az esetben az ilyen részesedéssel kapcsolatos nem realizált nyereség nem ismerhető el a biztosító vagy a viszontbiztosító csoportszintű szavatolótőke-megfeleléséhez figyelembe vehető szavatoló tőkéjéből.
 
 (10) A Felügyelet az 1. § (2) bekezdésében megjelölt vállalkozástól – eseti jelleggel – közvetlenül is kérhet a csoportfelügyeleti feladatok ellátása érdekében szükségessé váló adatot és információt.
+
+[^1]: A 6. § (9) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.

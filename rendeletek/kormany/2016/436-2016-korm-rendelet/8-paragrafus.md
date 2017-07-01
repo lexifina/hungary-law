@@ -40,4 +40,12 @@ c) a b) pont szerinti vállalkozások valamelyikének másik leányvállalata va
 
 (8) A csoportszintű szavatoló tőke kiszámítása során figyelmen kívül kell hagyni azon tőkeelemeket is, amelyeket a csoportszintű szavatoló tőke kiszámítására kötelezett biztosító vagy viszontbiztosító leányvállalata vagy olyan vállalkozása, amelyben részesedési viszonnyal rendelkezik, szavatolótőke-számítása során ugyan figyelembe vesz, de az a biztosító vagy viszontbiztosító egy másik leányvállalata vagy másik vállalkozása, amelyben részesedési viszonnyal rendelkezik, által nyújtott kölcsönös finanszírozást takar.
 
-(9) Ha biztosító vagy viszontbiztosító részesedési viszonnyal rendelkezik hitelintézetben, befektetési vállalkozásban, pénzügyi vállalkozásban, akkor részesedésének könyv szerinti értékét, valamint az előbb említett vállalkozások részére nyújtott alárendelt kölcsöntőke könyv szerinti értékét le kell vonnia a csoportszintű szavatoló tőke kiszámítása során.
+(9)[^2] Hitelintézetben, befektetési vagy pénzügyi vállalkozásban részesedéssel rendelkező biztosító vagy viszontbiztosító a csoportszintű szavatolótőke-megfelelésének számításakor a pénzügyi konglomerátum szintű tőkemegfelelés számításáról szóló NGM rendelet szerinti számviteli konszolidáción alapuló módszert, valamint a levonás és összeadás módszerét is alkalmazhatja, azonban a választott módszert más módszerrel felváltva nem alkalmazhatja.
+
+(10)[^3] A (9) bekezdés vonatkozásában a számviteli konszolidáción alapuló módszer csak akkor alkalmazható, ha a Felügyelet mint csoportfelügyeleti hatóság a konszolidáció hatálya alá vonandó vállalkozások integrált irányítási és belső ellenőrzési rendszerét, valamint azok működését a vonatkozó jogszabályoknak megfelelőnek tartja.
+
+(11)[^4] A Felügyelet mint csoportfelügyeleti hatóság a részesedéssel rendelkező vállalkozás kérésére vagy hivatalból előírhatja, hogy a biztosító vagy a viszontbiztosító (9) bekezdés szerinti részesedését vonják le a biztosító vagy a viszontbiztosító csoportszintű szavatolótőke-megfeleléséhez figyelembe vehető szavatoló tőkéjéből.
+
+[^2]: A 8. § (9) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^3]: A 8. § (10) bekezdését a 172/2017. (VI. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^4]: A 8. § (11) bekezdését a 172/2017. (VI. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be.
