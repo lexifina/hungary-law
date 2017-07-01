@@ -4,6 +4,6 @@
 
 13. § (1) Ha a 10. § (1) bekezdésének a) pontja szerinti üzlethelyiségben egyéb, nem pénzváltási tevékenységet is folytatnak, az üzlethelyiségnek a pénzváltási tevékenység végzésére szolgáló részét el kell különíteni a más tevékenység végzésére szolgáló résztől.
 
-(2)[^30] Az egyébként üzlethelyiséggel rendelkező pénzváltó kérelmére az MNB indokolt esetben meghatározott időtartamra engedélyezheti a pénzváltási tevékenységnek az üzlethelyiségen kívüli végzését.
+(2)[^40] Az egyébként üzlethelyiséggel rendelkező pénzváltó kérelmére a Felügyelet indokolt esetben meghatározott időtartamra engedélyezheti a pénzváltási tevékenységnek az üzlethelyiségen kívüli végzését.
 
-[^30]: A 13. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
+[^40]: A 13. § (2) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.

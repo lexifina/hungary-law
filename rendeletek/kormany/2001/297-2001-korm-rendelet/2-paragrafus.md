@@ -1,9 +1,9 @@
-2. § (1)[^3] Pénzváltási tevékenység végzésére engedélyt a Magyar Nemzeti Bank (a továbbiakban: MNB) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben, és az e rendeletben meghatározott feltételek megléte esetén ad.
+2. § (1)[^4] Pénzváltási tevékenység végzésére engedélyt a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben és az e rendeletben meghatározott feltételek teljesülése esetén ad.
 
-(2)[^4] Az MNB az engedély kiadására vonatkozóan véleményt kér az Országos Rendőr-főkapitányságtól. Az Országos Rendőr-főkapitányság véleményében a bűnügyi, közbiztonsági szempontokat értékeli.
+(2)[^5]
 
-(3)[^5]
+(3)[^6]
 
-[^3]: A 2. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § (3) bekezdését a 80/2010. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdését a 172/2017. (VI. 29.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (3) bekezdését a 80/2010. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte.

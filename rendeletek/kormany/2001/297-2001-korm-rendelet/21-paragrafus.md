@@ -2,7 +2,7 @@
 
 a) a 20. § szerinti bizonylattípus megnevezését,
 
-b)[^39] az ügyfél devizajogi státusát,
+b)[^50] az ügyfél devizajogi státusát,
 
 c) az esetleg felszámított jutalékot,
 
@@ -12,7 +12,7 @@ e) a pénzváltó nevét és telephely címét,
 
 f) a pénzváltást közvetlenül végző személy azonosítására alkalmas kézjelét,
 
-g)[^40] a pénzváltási tevékenységet közvetítő esetében a megbízó hitelintézet nevét.
+g)[^51] a pénzváltási tevékenységet közvetítő esetében a megbízó hitelintézet nevét.
 
-[^39]: A 21. § b) pontja az 537/2013. (XII. 30.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^40]: A 21. § g) pontját az 537/2013. (XII. 30.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^50]: A 21. § b) pontja az 537/2013. (XII. 30.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^51]: A 21. § g) pontját az 537/2013. (XII. 30.) Korm. rendelet 30. § (2) bekezdése iktatta be.

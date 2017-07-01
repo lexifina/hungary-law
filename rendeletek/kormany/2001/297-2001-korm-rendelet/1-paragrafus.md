@@ -10,9 +10,10 @@ a) részvénytársaság esetén az igazgatóság elnöke és a felügyelő bizot
 
 b) szövetkezet esetén – ide nem értve az a) pont alá tartozó szövetkezeti hitelintézetet – a tisztségviselő;
 
-c) fióktelep esetén a Hpt. 2. számú melléklete III. fejezetének 25. d) pontjában meghatározott személy.
+c)[^2] fióktelep esetén a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdés 122. pont d) alpontjában meghatározott személy.
 
-(4)[^2] E rendelet alkalmazásában ügyfél a természetes személy, vállalkozás és szervezet (a továbbiakban együtt: ügyfél).
+(4)[^3] E rendelet alkalmazásában ügyfél a természetes személy, vállalkozás és szervezet (a továbbiakban együtt: ügyfél).
 
 [^1]: Az 1. § (1) bekezdése a 80/2010. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (4) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 23. §-a iktatta be.
+[^2]: Az 1. § (3) bekezdés c) pontja a 172/2017. (VI. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 23. §-a iktatta be.

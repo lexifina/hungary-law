@@ -2,9 +2,9 @@
 
 ## A pénzváltó ellenőrzése
 
-26. §[^41] (1) A hitelintézet belső ellenőrzése köteles legalább évente megvizsgálni, hogy a pénzváltási tevékenységét közvetítő e tevékenységét a jogszabályoknak, illetőleg a szerződésben foglaltaknak megfelelően végzi-e.
+26. §[^52] (1) A hitelintézet belső ellenőrzése köteles legalább évente megvizsgálni, hogy a pénzváltási tevékenységét közvetítő e tevékenységét a jogszabályoknak, illetőleg a szerződésben foglaltaknak megfelelően végzi-e.
 
-(2)[^42] A hitelintézet felelős azért, hogy a pénzváltási tevékenységét közvetítő e tevékenységét a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. A hitelintézetnek haladéktalanul jelentenie kell az MNB részére, amennyiben a közvetítő e tevékenysége jogszabályba vagy a szerződésbe ütközik.
+(2)[^53] A hitelintézet felelős azért, hogy a pénzváltási tevékenységét közvetítő e tevékenységét a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. A hitelintézetnek haladéktalanul jelentenie kell a Felügyelet részére, amennyiben a közvetítő e tevékenysége jogszabályba vagy a szerződésbe ütközik.
 
-[^41]: A 26. § a 80/2010. (III. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^42]: A 26. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
+[^52]: A 26. § a 80/2010. (III. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^53]: A 26. § (2) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.

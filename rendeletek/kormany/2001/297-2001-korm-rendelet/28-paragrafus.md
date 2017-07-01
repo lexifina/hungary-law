@@ -1,3 +1,3 @@
-## 27. §[^43]
+## 27. §[^54]
 
-[^43]: A 27. §-t a 345/2013. (IX. 30.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.
+[^54]: A 27. §-t a 345/2013. (IX. 30.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.

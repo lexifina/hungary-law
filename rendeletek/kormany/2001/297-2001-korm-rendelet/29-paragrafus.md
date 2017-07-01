@@ -4,6 +4,6 @@
 
 29. § (1) Ez a rendelet 2002. január 1. napján lép hatályba.
 
-(2)[^44]
+(2)[^55]
 
-[^44]: A 29. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 997. pontja hatályon kívül helyezte.
+[^55]: A 29. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 997. pontja hatályon kívül helyezte.
