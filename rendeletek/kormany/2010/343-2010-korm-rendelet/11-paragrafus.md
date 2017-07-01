@@ -1,6 +1,6 @@
 ## 10. A fenntarthatósági kritériumok teljesítése
 
-## 11. §[^70] A fenntarthatósági követelmények teljesítése igazolható:
+## 11. §[^73] A fenntarthatósági követelmények teljesítése igazolható:
 
 a) biomassza igazolással, fenntarthatósági igazolással vagy fenntarthatósági bizonyítvánnyal,
 
@@ -10,4 +10,4 @@ c) a 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdé
 
 d) a 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése szerint az Európai Bizottság részéről harmadik országgal kötött nemzetközi megállapodással összhangban kiállított okmánnyal.
 
-[^70]: A 11. § a 318/2012. (XI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^73]: A 11. § a 318/2012. (XI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

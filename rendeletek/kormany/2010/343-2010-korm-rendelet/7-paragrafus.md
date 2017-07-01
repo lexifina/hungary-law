@@ -1,6 +1,6 @@
 ## 7. A biomassza kereskedő, a biomassza feldolgozó és az üzemanyag forgalmazó nyilvántartása
 
-7. § (1)[^43] A biomassza kereskedő és biomassza feldolgozó a 9. § szerinti adatszolgáltatás céljára köteles nyilvántartást vezetni, amely tartalmazza:
+7. § (1)[^46] A biomassza kereskedő és biomassza feldolgozó a 9. § szerinti adatszolgáltatás céljára köteles nyilvántartást vezetni, amely tartalmazza:
 
 a) a vásárolt bioüzemanyag, a vásárolt vagy feldolgozott biomassza és köztes termék mennyiségét,
 
@@ -18,9 +18,9 @@ g) a kiállított fenntarthatósági igazolások adatait.
 
 (2) Az üzemanyag-forgalmazó nyilvántartást vezet a Büat. 6. § (2) bekezdése szerinti jelentés alapjául szolgáló, a 4. mellékletben meghatározott adatokról.
 
-(3)[^44] A 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése szerint hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásainak megfelelő, auditor által jóváhagyott nyilvántartást úgy kell tekinteni, mint amely megfelel az (1)–(2) bekezdésben foglaltaknak.
+(3)[^47] A 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése szerint hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásainak megfelelő, auditor által jóváhagyott nyilvántartást úgy kell tekinteni, mint amely megfelel az (1)–(2) bekezdésben foglaltaknak.
 
-(4)[^45] A nyilvántartás adatait számításokkal, bizonylatokkal és hitelesített mérőeszközök alkalmazásával nyert adatokkal kell igazolni az alábbiak szerint:
+(4)[^48] A nyilvántartás adatait számításokkal, bizonylatokkal és hitelesített mérőeszközök alkalmazásával nyert adatokkal kell igazolni az alábbiak szerint:
 
 a) a vásárolt bioüzemanyag, a vásárolt vagy feldolgozott biomassza, köztes termék mennyiségét a tulajdonba kerülésüket vagy bérfeldolgozásra történő átadásukat igazoló szerződéssel, valamint mennyiségük megállapítására szolgáló mérlegjegyekkel, számlákkal, betárolási, szállítási okmányokkal,
 
@@ -36,18 +36,18 @@ f) a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével 
 
 g) a kiállított fenntarthatósági igazolások másolatával.
 
-(5)[^46] A (4) bekezdés szerinti dokumentumokat 5 évig, az (1)–(2) bekezdés szerinti nyilvántartást, a BÜHG nyilvántartásból való törlést követő két évig kell megőrizni. A nyilvántartásnak biztosítania kell az utólagos adatmódosítás és adatvesztés kizárását.
+(5)[^49] A (4) bekezdés szerinti dokumentumokat 5 évig, az (1)–(2) bekezdés szerinti nyilvántartást, a BÜHG nyilvántartásból való törlést követő két évig kell megőrizni. A nyilvántartásnak biztosítania kell az utólagos adatmódosítás és adatvesztés kizárását.
 
-(6)[^47] A biomassza kereskedő és biomassza feldolgozó az (1) bekezdés szerinti nyilvántartást és a (4) bekezdés szerinti dokumentumokat köteles felhívásra a mezőgazdasági igazgatási szerv részére bemutatni.
+(6)[^50] A biomassza kereskedő és biomassza feldolgozó az (1) bekezdés szerinti nyilvántartást és a (4) bekezdés szerinti dokumentumokat köteles felhívásra a mezőgazdasági igazgatási szerv részére bemutatni.
 
-(7)[^48] A BÜHG nyilvántartásból törölt vagy a BÜHG nyilvántartásba vétel hatályának lejárta miatt a BÜHG nyilvántartásban már nem szereplő biomassza kereskedő, biomassza feldolgozó, üzemanyag-forgalmazó az (1)–(2) bekezdés szerinti nyilvántartást a BÜHG nyilvántartásból való törlést vagy a BÜHG nyilvántartásba vétel hatályának lejártát követő két évig a mezőgazdasági igazgatási szerv vagy a vámhatóság felhívására köteles bemutatni.
+(7)[^51] A BÜHG nyilvántartásból törölt vagy a BÜHG nyilvántartásba vétel hatályának lejárta miatt a BÜHG nyilvántartásban már nem szereplő biomassza kereskedő, biomassza feldolgozó, üzemanyag-forgalmazó az (1)–(2) bekezdés szerinti nyilvántartást a BÜHG nyilvántartásból való törlést vagy a BÜHG nyilvántartásba vétel hatályának lejártát követő két évig a mezőgazdasági igazgatási szerv vagy a vámhatóság felhívására köteles bemutatni.
 
-(8)[^49] A BÜHG nyilvántartásból törölt vagy a BÜHG nyilvántartásba vétel hatályának lejárta miatt a BÜHG nyilvántartásban már nem szereplő biomassza kereskedő, biomassza feldolgozó, üzemanyag-forgalmazó a (4) bekezdés szerinti dokumentumokat a BÜHG nyilvántartásból való törlést vagy a BÜHG nyilvántartásba vétel hatályának lejártát követő öt évig a mezőgazdasági igazgatási szerv vagy a vámhatóság felhívására köteles bemutatni.
+(8)[^52] A BÜHG nyilvántartásból törölt vagy a BÜHG nyilvántartásba vétel hatályának lejárta miatt a BÜHG nyilvántartásban már nem szereplő biomassza kereskedő, biomassza feldolgozó, üzemanyag-forgalmazó a (4) bekezdés szerinti dokumentumokat a BÜHG nyilvántartásból való törlést vagy a BÜHG nyilvántartásba vétel hatályának lejártát követő öt évig a mezőgazdasági igazgatási szerv vagy a vámhatóság felhívására köteles bemutatni.
 
-[^43]: A 7. § (1) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^44]: A 7. § (3) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^45]: A 7. § (4) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^46]: A 7. § (5) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^47]: A 7. § (6) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^48]: A 7. § (7) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^49]: A 7. § (8) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^46]: A 7. § (1) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^47]: A 7. § (3) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^48]: A 7. § (4) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^49]: A 7. § (5) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^50]: A 7. § (6) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^51]: A 7. § (7) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^52]: A 7. § (8) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.

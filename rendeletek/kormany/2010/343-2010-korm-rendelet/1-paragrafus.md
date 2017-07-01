@@ -6,11 +6,11 @@
 
 2. alapértelmezett terület: a bioüzemanyag alapanyaga fenntartható termelésének területi lehatárolásáról szóló jogszabály szerinti alapértelmezett terület;
 
-3.[^1] auditor: a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló rendelet szerinti szervezet;
+3.[^2] auditor: a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló rendelet szerinti szervezet;
 
-3a.[^2] bérfeldolgozás: a mezőgazdasági igazgatási szerv nyilvántartásában szereplő biomassza feldolgozó által más gazdálkodó szervezet tulajdonában álló biomassza vagy köztes termék – fizikai vagy kémiai eljárás útján – bioüzemanyaggá vagy köztes termékké történő feldolgozása;
+3a.[^3] bérfeldolgozás: a mezőgazdasági igazgatási szerv nyilvántartásában szereplő biomassza feldolgozó által más gazdálkodó szervezet tulajdonában álló biomassza vagy köztes termék – fizikai vagy kémiai eljárás útján – bioüzemanyaggá vagy köztes termékké történő feldolgozása;
 
-4.[^3] bioüzemanyagnak minősülnek az alábbi termékek:
+4.[^4] bioüzemanyagnak minősülnek az alábbi termékek:
 
 a) biobutanol: biomasszából előállított butanol;
 
@@ -22,7 +22,7 @@ d) bioetanol: kizárólag a Közösségben termelt biomasszából előállított
 
 e) bio-ETBE: bioetanol-alapon előállított etil-tercier-butiléter;
 
-f)[^4] biogáz: gáznemű üzem-, tüzelő vagy fűtőanyag, melyet biomasszából vagy hulladékok biológiailag lebomló részéből állítanak elő, amelyből tisztítás útján földgázminőség érhető el, és bioüzemanyagként felhasználható, továbbá a fagáz;
+f)[^5] biogáz: gáznemű üzem-, tüzelő vagy fűtőanyag, melyet biomasszából vagy hulladékok biológiailag lebomló részéből állítanak elő, amelyből tisztítás útján földgázminőség érhető el, és bioüzemanyagként felhasználható, továbbá a fagáz;
 
 g) biohidrogén: biomasszából és más megújuló energiával előállított hidrogén;
 
@@ -38,11 +38,11 @@ l) hidrogénnel kezelt növényi olaj: termokémiai úton hidrogénnel kezelt n�
 
 5. biomassza feldolgozó: az a gazdálkodó szervezet, amely biomasszát vagy köztes terméket fizikai vagy kémiai eljárással köztes termékké, bioüzemanyaggá feldolgoz;
 
-6.[^5] biomassza igazolás: a biomassza termelő által az általa megtermelt vagy begyűjtött, illetve tevékenységéből származó vagy tevékenysége során keletkezett biomasszára kiadott fenntarthatósági követelményeknek való megfelelésre vonatkozó nyilatkozat;
+6.[^6] biomassza igazolás: a biomassza termelő által az általa megtermelt vagy begyűjtött, illetve tevékenységéből származó vagy tevékenysége során keletkezett biomasszára kiadott fenntarthatósági követelményeknek való megfelelésre vonatkozó nyilatkozat;
 
-7.[^6] biomassza kereskedő: az a gazdálkodó szervezet, amely biomasszát, köztes terméket vagy bioüzemanyagot átalakítás nélküli továbbértékesítés céljából átvesz;
+7.[^7] biomassza kereskedő: az a gazdálkodó szervezet, amely biomasszát, köztes terméket vagy bioüzemanyagot átalakítás nélküli továbbértékesítés céljából átvesz;
 
-8.[^7] biomassza termelő: a biomasszát előállító gazdálkodó szervezet, valamint az, aki továbbértékesítés céljából biomasszát térítésmentesen összegyűjt;
+8.[^8] biomassza termelő: a biomasszát előállító gazdálkodó szervezet, valamint az, aki továbbértékesítés céljából biomasszát térítésmentesen összegyűjt;
 
 9. energiatartalom: az üzemanyag és a bioüzemanyag térfogatából, illetve tömegéből az 1. melléklet szerint számított fűtőérték (MJ/l vagy MJ/kg);
 
@@ -60,39 +60,40 @@ l) hidrogénnel kezelt növényi olaj: termokémiai úton hidrogénnel kezelt n�
 
 16. MePAR: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvényben meghatározott Mezőgazdasági Parcella Azonosító Rendszer;
 
-17.[^8] regisztrációs szám: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény szerinti regisztrációs szám, vagy az adóraktári, bejegyzett kereskedői, eseti bejegyzett kereskedői vagy jövedéki engedély száma vagy az auditor regisztrációs száma;
+17.[^9] regisztrációs szám: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény szerinti regisztrációs szám, vagy az adóraktári, bejegyzett kereskedői, eseti bejegyzett kereskedői vagy jövedéki engedély száma vagy az auditor regisztrációs száma;
 
-18.[^9] tényleges érték: az üvegházhatású gázok kibocsátásának egy adott bioüzemanyag-előállítási folyamat egyes vagy összes lépéséből eredő csökkenése, amelyet a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló rendeletben meghatározott módszerrel kell kiszámítani;
+18.[^10] tényleges érték: az üvegházhatású gázok kibocsátásának egy adott bioüzemanyag-előállítási folyamat egyes vagy összes lépéséből eredő csökkenése, amelyet a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló rendeletben meghatározott módszerrel kell kiszámítani;
 
-18a.[^10] termesztett biomassza: a mezőgazdasággal és erdőgazdálkodással kapcsolatos tevékenység keretében a termőföldről szóló törvény szerinti termőföldön vagy mező-, erdőgazdasági művelés alatt álló belterületi földön előállított biomassza;
+18a.[^11] termesztett biomassza: a mezőgazdasággal és erdőgazdálkodással kapcsolatos tevékenység keretében a termőföldről szóló törvény szerinti termőföldön vagy mező-, erdőgazdasági művelés alatt álló belterületi földön előállított biomassza;
 
-19.[^11]
+19.[^12]
 
-20.[^12] folyékony bio-energiahordozó: biomasszából előállított, a közlekedéstől eltérő célokra energiaforrásként használt folyékony üzemanyag, ideértve a villamos energiát, a fűtést és a hűtést is;
+20.[^13] folyékony bio-energiahordozó: biomasszából előállított, a közlekedéstől eltérő célokra energiaforrásként használt folyékony üzemanyag, ideértve a villamos energiát, a fűtést és a hűtést is;
 
-21.[^13] kiskereskedelmi üzemanyag-forgalmazó: az a gazdálkodó szervezet, amely üzemanyagot, E85-öt üzemanyagtöltő-állomáson fogyasztónak kiszolgál;
+21.[^14] kiskereskedelmi üzemanyag-forgalmazó: az a gazdálkodó szervezet, amely üzemanyagot, E85-öt üzemanyagtöltő-állomáson fogyasztónak kiszolgál;
 
-22.[^14] auditori nyilatkozat: az auditor által kiállított olyan dokumentum, amely tartalmazza a biomassza, a köztes termék vagy a bioüzemanyag tényleges értékét, valamint igazolja, hogy a termék a vonatkozó jogszabályok szerint a fenntarthatósági követelményeknek megfelel.
+22.[^15] auditori nyilatkozat: az auditor által kiállított olyan dokumentum, amely tartalmazza a biomassza, a köztes termék vagy a bioüzemanyag tényleges értékét, valamint igazolja, hogy a termék a vonatkozó jogszabályok szerint a fenntarthatósági követelményeknek megfelel.
 
-(2) Az (1) bekezdésben nem szereplő fogalmakat a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben (a továbbiakban: Büat.), valamint a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározottak szerint kell értelmezni.
+(2)[^16] Az (1) bekezdésben nem szereplő fogalmakat a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben (a továbbiakban: Büat.), valamint a jövedéki adóról szóló törvényben (a továbbiakban: Jöt.) meghatározottak szerint kell értelmezni.
 
-(3)[^15] A folyékony bio-energiahordozókra a fenntarthatósági követelmények teljesítése az e rendeletben foglaltak szerint, a bioüzemanyagokra vonatkozó eljárásrend és feltételek megfelelően alkalmazandók.
+(3)[^17] A folyékony bio-energiahordozókra a fenntarthatósági követelmények teljesítése az e rendeletben foglaltak szerint, a bioüzemanyagokra vonatkozó eljárásrend és feltételek megfelelően alkalmazandók.
 
-(4)[^16] Az e rendeletben foglalt rendelkezéseket kell alkalmazni az E85 üzemanyagba bekevert bioetanolra is.
+(4)[^18] Az e rendeletben foglalt rendelkezéseket kell alkalmazni az E85 üzemanyagba bekevert bioetanolra is.
 
-[^1]: Az 1. § (1) bekezdés 3. pontja a 348/2013. (IX. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés 3a. pontját a 318/2012. (XI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (1) bekezdés 4. pont nyitó szövegrésze a 167/2011. (VIII. 24.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés 4. pont f) alpontja a 167/2011. (VIII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (1) bekezdés 6. pontja a 167/2011. (VIII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (1) bekezdés 7. pontja a 348/2013. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § (1) bekezdés 8. pontja a 167/2011. (VIII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (1) bekezdés 17. pontja a 348/2013. (IX. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (1) bekezdés 18. pontja a 167/2011. (VIII. 24.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg.
-[^10]: Az 1. § (1) bekezdés 18a. pontját a 318/2012. (XI. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^11]: Az 1. § (1) bekezdés 19. pontját a 167/2011. (VIII. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 318/2012. (XI. 13.) Korm. rendelet 14. § (1) bekezdése.
-[^12]: Az 1. § (1) bekezdés 20. pontját a 167/2011. (VIII. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^13]: Az 1. § (1) bekezdés 21. pontját a 167/2011. (VIII. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^14]: Az 1. § (1) bekezdés 22. pontját a 348/2013. (IX. 30.) Korm. rendelet 3. § (4) bekezdése iktatta be.
-[^15]: Az 1. § (3) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^16]: Az 1. § (4) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés 3. pontja a 348/2013. (IX. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 3a. pontját a 318/2012. (XI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (1) bekezdés 4. pont nyitó szövegrésze a 167/2011. (VIII. 24.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés 4. pont f) alpontja a 167/2011. (VIII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés 6. pontja a 167/2011. (VIII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (1) bekezdés 7. pontja a 348/2013. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (1) bekezdés 8. pontja a 167/2011. (VIII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (1) bekezdés 17. pontja a 348/2013. (IX. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (1) bekezdés 18. pontja a 167/2011. (VIII. 24.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^11]: Az 1. § (1) bekezdés 18a. pontját a 318/2012. (XI. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^12]: Az 1. § (1) bekezdés 19. pontját a 167/2011. (VIII. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 318/2012. (XI. 13.) Korm. rendelet 14. § (1) bekezdése.
+[^13]: Az 1. § (1) bekezdés 20. pontját a 167/2011. (VIII. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^14]: Az 1. § (1) bekezdés 21. pontját a 167/2011. (VIII. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^15]: Az 1. § (1) bekezdés 22. pontját a 348/2013. (IX. 30.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^16]: Az 1. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 6. § 1. pontja szerint módosított szöveg.
+[^17]: Az 1. § (3) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^18]: Az 1. § (4) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.

@@ -16,7 +16,7 @@
 
 ## 3. A forgalomba hozott bioüzemanyag mennyisége összesen (liter vagy MJ), ide nem értve annak a bioüzemanyagnak a mennyiségét, melyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni.
 
-## 4.[^106] A forgalomba hozott üzemanyag energiatartalmára a kötelező bioüzemanyag-részarány alapján eső bioüzemanyag-mennyiség energiatartalmának levezetése (MJ)
+## 4.[^109] A forgalomba hozott üzemanyag energiatartalmára a kötelező bioüzemanyag-részarány alapján eső bioüzemanyag-mennyiség energiatartalmának levezetése (MJ)
 
 ## a) Motorbenzin alapján
 
@@ -24,7 +24,7 @@
 
 ## c) Összesen
 
-## 5.[^107] A kötelező bioüzemanyag-részaránynak megfelelő mennyiség (kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának) és a tárgyévben ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának különbsége (MJ).
+## 5.[^110] A kötelező bioüzemanyag-részaránynak megfelelő mennyiség (kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának) és a tárgyévben ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának különbsége (MJ).
 
 ## 6. A bioüzemanyagra vonatkozó fenntarthatósági igazolások adatai:
 
@@ -36,7 +36,7 @@
 
 ## d) az igazolásban szereplő bioüzemanyag megnevezése, mennyisége literben, energiatartalomban (MJ).
 
-5. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^108]
+5. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^111]
 
 A biomassza kereskedő, a biomassza feldolgozó és az üzemanyag-forgalmazó adatszolgáltatásának tartalma
 
@@ -104,6 +104,6 @@ b) a fenntarthatósági igazolásban szereplő adatok az igazolás kiállítója
 
 c) az auditori nyilatkozat azonosító száma, amennyiben a kibocsátási komponensek megállapítása tényleges érték kiszámításával történt.
 
-[^106]: A 4. melléklet 4. pontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^107]: A 4. melléklet 5. pontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^108]: Az 5. melléklet a 348/2013. (IX. 30.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^109]: A 4. melléklet 4. pontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^110]: A 4. melléklet 5. pontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^111]: Az 5. melléklet a 348/2013. (IX. 30.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.

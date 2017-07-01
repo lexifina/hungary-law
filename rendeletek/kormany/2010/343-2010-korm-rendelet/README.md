@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-343-20-
 | 2014-03-15 | 2010-343-20-22.9 | 318/2012. (XI. 13.) Korm. rendelet |
 | 2015-12-16 | 2010-343-20-22.10 | 387/2015. (XII. 8.) Korm. rendelet |
 | 2017-01-01 | 2010-343-20-22.11 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2017-07-01 | 2010-343-20-22.12 | 419/2016. (XII. 14.) Korm. rendelet |

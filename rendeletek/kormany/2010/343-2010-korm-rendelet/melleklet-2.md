@@ -36,6 +36,6 @@
 
 | Biogáz | 50 |
 
-2. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^91]
+2. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^94]
 
-[^91]: A 2. melléklet a 318/2012. (XI. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^94]: A 2. melléklet a 318/2012. (XI. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
