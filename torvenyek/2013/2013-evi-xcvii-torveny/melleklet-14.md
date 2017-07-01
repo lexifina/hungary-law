@@ -40,7 +40,9 @@ g) béren kívüli juttatásokra vonatkozó adatok:
 
 ga) a béren kívüli juttatás felhasználására jogosító kártya száma, speciális azonosítói,
 
-gb) érvényes jogcímekre átutalt összegek adatai;
+gb) érvényes jogcímekre átutalt összegek adatai,
+
+gc) a Honvédség által generált béren kívüli speciális azonosító;
 
 h) devizahiteles – gyűjtőszámlahitelre vonatkozó adatok,
 
