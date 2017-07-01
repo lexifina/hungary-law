@@ -1,4 +1,4 @@
-5. § (1) A vállalkozás az üzletszabályzatát az ügyfélforgalom számára rendelkezésre álló helyiségeiben kifüggeszti, továbbá elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfél számára folyamatosan és könnyen elérhető módon elektronikus úton is elérhetővé teszi, lehetővé téve az ügyfél számára annak tárolását és előhívását.
+5. § (1)[^2] A vállalkozás az üzletszabályzatát az ügyfélforgalom számára rendelkezésre álló helyiségeiben közzéteszi, továbbá elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfél számára folyamatosan és könnyen elérhető módon elektronikus úton is elérhetővé teszi, lehetővé téve az ügyfél számára annak tárolását és előhívását.
 
 (2) A vállalkozás üzletszabályzata tartalmazza
 
@@ -11,3 +11,5 @@ b) az ügyfél pénzügyi eszközeinek vagy pénzeszközeinek kezelése esetén 
 a) a pénzmosás elleni jogszabályokban foglalt előírásokra,
 
 b) a vállalkozás és az ügyfél között fennálló jogvita esetére irányadó jogra.
+
+[^2]: Az 5. § (1) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.

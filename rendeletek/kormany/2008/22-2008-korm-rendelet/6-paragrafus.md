@@ -18,6 +18,6 @@ h) a vállalkozás végrehajtási politikája,
 
 i) a vállalkozás összeférhetetlenségi politikájának összefoglaló leírása.
 
-(2)[^2]
+(2)[^3]
 
-[^2]: A 6. § (2) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^3]: A 6. § (2) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 45. §-a hatályon kívül helyezte.
