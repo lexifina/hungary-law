@@ -54,7 +54,7 @@ e) természetes személy tulajdonos esetén harminc napnál nem régebbi hatós�
 
 f) nem természetes személy tulajdonos esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásbavétele) megtörtént, nem áll csőd-, felszámolási, végelszámolási vagy kényszertörlési eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
 
-g) nem természetes személy tulajdonos esetén a tulajdonosi szerkezetének részletes leírását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását,
+g) nem természetes személy tulajdonos esetén a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosai részletes bemutatását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását,
 
 h) nem természetes személy tulajdonos esetén nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
 
