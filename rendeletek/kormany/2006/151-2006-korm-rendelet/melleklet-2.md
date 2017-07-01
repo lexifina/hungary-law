@@ -66,9 +66,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 6. | Termőföldvédelem | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-| 7. | Ásványi nyersanyag védelem | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 7. | Ásványi nyersanyag védelem | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 8. | Földtani közeg védelem, földtan | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 8. | Földtani közeg védelem, földtan | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 9. | Gyógyhelyek védelme | Budapest Főváros Kormányhivatala | egészségügyért felelős miniszter |
 
@@ -94,7 +94,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | Környezetvédelem | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
-| 21. | Bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 21. | Bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 22. | Rendészet: a gyorsforgalmi utak esetében | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -106,4 +106,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 26. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^8]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 2. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 2. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
