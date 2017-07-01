@@ -36,7 +36,7 @@
 
 | 5.2. | Termőföld időleges és végleges más célú hasznosítására vonatkozó engedélyezési eljárás, engedély nélküli más célú hasznosítás esetén a más célú hasznosításhoz való hozzájárulás megadására irányuló eljárás | 12 000 |
 
-| 6. | Bányászati hatósági eljárás [a Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet] |  |
+| 6. | Bányászati hatósági eljárás [a Magyar Bányászati és Földtani Szolgálatról szóló kormányrendelet] |  |
 
 | 6.1. | A bányafelügyeletnek a bányászatról szóló 1993. évi XLVIII. törvény alapján a bányafelügyelet építésügyi hatósági és építésfelügyeleti hatáskörébe tartozó építményekre, valamint e létesítmények elvi építésének, építésének, használatbavételének, fennmaradásának, átalakításának, megszüntetésének, továbbá rendeltetésük megváltoztatásának engedélyezési eljárása | 23 000 |
 
