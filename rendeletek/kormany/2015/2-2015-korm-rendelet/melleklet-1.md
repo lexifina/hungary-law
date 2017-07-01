@@ -4,4 +4,4 @@
 
 [^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 374/2015. (XII. 2.) Korm. rendelet 3. §-a iktatta be.
 [^6]: A hatálybalépés időpontja 2015. december 3.
-[^7]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 95. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 95. § (1) bekezdés a) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.
