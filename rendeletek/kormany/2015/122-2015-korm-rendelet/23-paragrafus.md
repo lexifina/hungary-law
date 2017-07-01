@@ -2,10 +2,10 @@
 
 (2) Szakmai gyakorlati időként elismerhető az energia-gazdálkodással vagy energia-termeléssel kapcsolatos
 
-a)[^20] munkajogviszony, közszolgálati, kormányzati szolgálati vagy állami szolgálati jogviszony,
+a)[^21] munkajogviszony, közszolgálati, kormányzati szolgálati vagy állami szolgálati jogviszony,
 
 b) közép- és felsőoktatásban folytatott oktatói tevékenység,
 
 c) tervezői, tanácsadói vagy szakértői tevékenység.
 
-[^20]: A 23. § (2) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 48. §-a szerint módosított szöveg.
+[^21]: A 23. § (2) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 48. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-21. §[^16] (1) Az energetikai auditor bejelentésének tartalmaznia kell az energetikai auditor
+21. §[^17] (1) Az energetikai auditor bejelentésének tartalmaznia kell az energetikai auditor
 
 a) névjegyzékben feltüntetendő adatait,
 
@@ -30,4 +30,4 @@ d) nyilatkozatát a bejelentés tartalmának valódiságáról, a névjegyzékbe
 
 (5) Az energetikai auditor és az energetikai auditáló szervezet, ha tevékenységét megszünteti, a megszüntetésre vonatkozó döntést követő 5 napon belül bejelenti a Hivatalnak. E bejelentéssel kapcsolatos ügyintézésre az (1)–(4) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
 
-[^16]: A 21. § a 393/2016. (XII. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^17]: A 21. § a 393/2016. (XII. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
