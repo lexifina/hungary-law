@@ -8,7 +8,7 @@ c) tételesen az ügyfél által a pénzforgalmi szolgáltató részére fizeten
 
 d) a pénzforgalmi szolgáltató által a fizetési művelet teljesítése során alkalmazandó tényleges vagy referencia-árfolyamról.
 
-(2) Az (1) bekezdésben meghatározott adatokon túl a pénzforgalmi szolgáltató köteles a 10. §-ban meghatározott adatokról az ügyfelet honlapján és az ügyfelek számára nyitva álló helységben kifüggesztve tájékoztatni.
+(2) Az (1) bekezdésben meghatározott adatokon túl a pénzforgalmi szolgáltató köteles a 10. §-ban meghatározott adatokról az ügyfelet honlapján és az ügyfelek számára nyitva álló helyiségben közzététel útján tájékoztatni.
 
 (3) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) és c) pontja szerinti tájékoztatást megadni, ha
 

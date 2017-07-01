@@ -6,7 +6,7 @@ b) tételesen a szolgáltató részére fizetendő valamennyi díjról, költsé
 
 c) minden olyan adatról, amely a megalapozott döntéshozatalhoz szükséges, valamint
 
-d) a 10. §-ban meghatározott adatok honlapon és az ügyfelek számára nyitva álló helységben való kifüggesztéssel való hozzáférhetővé tételéről.
+d) a 10. §-ban meghatározott adatok honlapon és az ügyfelek számára nyitva álló helyiségben közzététel útján történő hozzáférhetővé tételéről.
 
 (2) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) pontja szerinti tájékoztatást megadni, ha
 

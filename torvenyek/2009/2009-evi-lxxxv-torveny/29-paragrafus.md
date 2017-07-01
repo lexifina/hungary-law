@@ -1,6 +1,6 @@
 ## Előzetes tájékoztatás
 
-29. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél egyszeri fizetési megbízásra irányuló jognyilatkozatát megelőzően köteles a 31. §-ban foglaltakról honlapján és az ügyfelek számára nyitva álló helységben kifüggesztve tájékoztatni.
+29. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél egyszeri fizetési megbízásra irányuló jognyilatkozatát megelőzően köteles a 31. §-ban foglaltakról honlapján és az ügyfelek számára nyitva álló helyiségben közzététel útján tájékoztatni.
 
 (2) A pénzforgalmi szolgáltató e tájékoztatási kötelezettségének egyértelműen, közérthetően és pontosan, magyar nyelven vagy az ügyféllel történt megállapodásban kikötött más nyelven tesz eleget.
 
