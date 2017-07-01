@@ -40,7 +40,7 @@ j)[^27] a vasúti pálya szélső vágányának tengelyétől számított 100 m�
 
 k)[^28] a vízjogi létesítési vagy vízjogi megszüntetési engedélyezés esetén, ha az eljárás víziutat érint – a víziközlekedés biztonsága, hajózási érdekek érvényre juttatása jogszabályban meghatározott követelményeinek való megfelelés kérdésében – az első fokú eljárásban az útügyi közlekedési hatósági hatáskörben országos illetékességgel eljáró Budapest Főváros Kormányhivatalát, a másodfokú eljárásban a közlekedésért felelős miniszter,
 
-l)[^29] ha az eljárás halastavakkal, horgásztavakkal, jóléti tavakkal, víztározókkal vagy holtágakkal kapcsolatos és a kialakítás ásványi nyersanyag kitermeléssel jár, a kitermelt ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módja meghatározásának, az ásványvagyon-védelmi szempontok érvényesítésének, valamint a bányajáradék-fizetési kötelezettség megállapításának szakkérdésében az első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt
+l)[^29] ha az eljárás halastavakkal, horgásztavakkal, jóléti tavakkal, víztározókkal vagy holtágakkal kapcsolatos és a kialakítás ásványi nyersanyag kitermeléssel jár, a kitermelt ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módja meghatározásának, az ásványvagyon-védelmi szempontok érvényesítésének, valamint a bányajáradék-fizetési kötelezettség megállapításának szakkérdésében az első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, másodfokú eljárásban a Magyar Bányászati és Földtani Szolgálatot
 
 ## szakhatóságként jelöli ki.
 
@@ -65,6 +65,6 @@ l)[^29] ha az eljárás halastavakkal, horgásztavakkal, jóléti tavakkal, víz
 [^26]: A 11. § (1) bekezdés i) pont id) alpontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés j) pontja szerint módosított szöveg.
 [^27]: A 11. § (1) bekezdés j) pontja a 100/2016. (V. 13.) Korm. rendelet 30. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés g) pontja szerint módosított szöveg.
 [^28]: A 11. § (1) bekezdés k) pontja a 100/2016. (V. 13.) Korm. rendelet 30. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^29]: A 11. § (1) bekezdés l) pontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja szerint módosított szöveg.
+[^29]: A 11. § (1) bekezdés l) pontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja, a 162/2017. (VI. 28.) Korm. rendelet 72. §-a szerint módosított szöveg.
 [^30]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés l) pontja szerint módosított szöveg.
 [^31]: A 11. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés m) pontja szerint módosított szöveg.

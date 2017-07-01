@@ -14,7 +14,7 @@ szakhatóságként jelöli ki.
 
 (3) A Kormány a hatóság vizek medrének vízgazdálkodási célt szolgáló alakítására, kotrására vagy mesterséges vízterek vagy tározók létesítésére irányuló vízjogi engedélyezési eljárásában
 
-a)[^55] – a kitermelt ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módja meghatározásának, az ásványvagyon-védelmi szempontok érvényesítésének, valamint a bányajáradék-fizetési kötelezettség megállapításának szakkérdésében – az első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, a másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt, valamint
+a)[^55] – a kitermelt ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módja meghatározásának, az ásványvagyon-védelmi szempontok érvényesítésének, valamint a bányajáradék-fizetési kötelezettség megállapításának szakkérdésében – az első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, a másodfokú eljárásban a Magyar Bányászati és Földtani Szolgálatot, valamint
 
 b)[^56] erdő érintettsége esetén – erdővédelmi kérdésekben – az első fokú eljárásban a megyei kormányhivatal erdészeti feladatkörében eljáró megyeszékhely szerinti járási hivatalát, a másodfokú eljárásban az erdészeti hatáskörben eljáró Pest Megyei Kormányhivatalt,
 
@@ -26,7 +26,7 @@ d)[^58] ha a tevékenység helyi jelentőségű védett természeti területet �
 [^52]: A 13. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés k) pontja szerint módosított szöveg.
 [^53]: A 13. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^54]: A 13. § (2) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^55]: A 13. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja szerint módosított szöveg.
+[^55]: A 13. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja, a 162/2017. (VI. 28.) Korm. rendelet 72. §-a szerint módosított szöveg.
 [^56]: A 13. § (3) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^57]: A 13. § (3) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^58]: A 13. § (3) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés f) pontja szerint módosított szöveg.

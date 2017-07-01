@@ -22,9 +22,9 @@ c)[^40] erdő érintettsége esetén – erdővédelmi kérdésekben – az els�
 
 ## szakhatóságként jelöli ki.
 
-(3)[^41] A Kormány a hatóság vízjogi engedélyezési eljárásában, ha a geotermikus energia kinyerése felszín alatti víz kitermelését igényli – a fúróberendezés alkalmassága, a kút kiképzés műszaki-biztonsági feltételeknek való megfelelősége, a bányajáradék-fizetési, a bányafelügyelet felé történő adatszolgáltatási kötelezettség, valamint a víz-kitermelés szénhidrogén ásványvagyonra vonatkozó hatásának megállapítása szakkérdésében – az első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, a másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt szakhatóságként jelöli ki.
+(3)[^41] A Kormány a hatóság vízjogi engedélyezési eljárásában, ha a geotermikus energia kinyerése felszín alatti víz kitermelését igényli – a fúróberendezés alkalmassága, a kút kiképzés műszaki-biztonsági feltételeknek való megfelelősége, a bányajáradék-fizetési, a bányafelügyelet felé történő adatszolgáltatási kötelezettség, valamint a víz-kitermelés szénhidrogén ásványvagyonra vonatkozó hatásának megállapítása szakkérdésében – az első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, a másodfokú eljárásban a Magyar Bányászati és Földtani Szolgálatot szakhatóságként jelöli ki.
 
-(4)[^42] A Kormány a hatóságnak az 500 méternél mélyebben elhelyezkedő mélységi vizek felszínre hozatalára irányuló létesítési, üzemeltetési, fennmaradási engedélyezési eljárásában, – a fúróberendezés alkalmassága, a kút kiképzés műszaki-biztonsági feltételeknek való megfelelősége, valamint a víz-kitermelés szénhidrogén ásványvagyonra vonatkozó hatásának szakkérdésében – első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt szakhatóságként jelöli ki.
+(4)[^42] A Kormány a hatóságnak az 500 méternél mélyebben elhelyezkedő mélységi vizek felszínre hozatalára irányuló létesítési, üzemeltetési, fennmaradási engedélyezési eljárásában, – a fúróberendezés alkalmassága, a kút kiképzés műszaki-biztonsági feltételeknek való megfelelősége, valamint a víz-kitermelés szénhidrogén ásványvagyonra vonatkozó hatásának szakkérdésében – első fokú eljárásban a bányafelügyeleti hatáskörében eljáró fővárosi és megyei kormányhivatalt, másodfokú eljárásban a Magyar Bányászati és Földtani Szolgálatot szakhatóságként jelöli ki.
 
 (5)[^43] A Kormány a hatóságnak az ivóvízkivételre nem hasznosítható és ivóvízbázisnak ki nem jelölhető felszíni vízből való egyedi ivóvízkivétel engedélyezésére irányuló eljárásában – annak elbírálására, hogy a megfelelő kezelési eljárások után az ivóvíz minőségi jellemzői megfelelőek-e – az első fokú eljárásban a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, a másodfokú eljárásban a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt szakhatóságként jelöli ki.
 
@@ -53,8 +53,8 @@ f)[^50] annak elbírálása kérdésében, hogy a létesítmény megfelel-e, és
 [^38]: A 12. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^39]: A 12. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^40]: A 12. § (2) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^41]: A 12. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja szerint módosított szöveg.
-[^42]: A 12. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja szerint módosított szöveg.
+[^41]: A 12. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja, a 162/2017. (VI. 28.) Korm. rendelet 72. §-a szerint módosított szöveg.
+[^42]: A 12. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés k) pontja, a 162/2017. (VI. 28.) Korm. rendelet 72. §-a szerint módosított szöveg.
 [^43]: A 12. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^44]: A 12. § (6) bekezdése a 100/2016. (V. 13.) Korm. rendelet 30. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 278. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^45]: A 12. § (7) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 253. § (4) bekezdés b) pontja szerint módosított szöveg.
