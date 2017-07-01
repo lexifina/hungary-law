@@ -1,4 +1,4 @@
-10. § (1) A fióktelep nem folytathat a külföldi vállalkozás nevében képviseleti tevékenységet.
+10. § (1) Ha törvény másképp nem rendelkezik, a fióktelep nem folytathat a külföldi vállalkozás nevében képviseleti tevékenységet.
 
 (2) A külföldi vállalkozás a fióktelep cégneve alatt szerzett vagyonról, jogokról, illetve vállalt kötelezettségekről saját cégneve alatt csak a fióktelep megszűnésekor, illetve az e törvényben meghatározott fizetésképtelenségi eljárások során, valamint a fióktelep cégneve alatt szerzett vagyonnal, jogokkal, kötelezettségekkel összefüggésben külföldön indított eljárások során rendelkezhet.
 

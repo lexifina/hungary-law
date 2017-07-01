@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-132-00-00
 | 2012-10-28 | 2012. évi CLI. törvény | 1997-132-00-00.16 |
 | 2013-01-01 | 2003. évi LIV. törvény | 1997-132-00-00.17 |
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 1997-132-00-00.18 |
+| 2017-07-01 | 2017. évi XLIX. törvény | 1997-132-00-00.19 |
