@@ -20,7 +20,7 @@
 
 | 9. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 10. | XLII. fejezet 1. cím 7. alcím | Magyar Bányászati és Földtani Hivatal | Bányajáradék beszedésével kapcsolatos követelések és kötelezettségek. | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 10. | XLII. fejezet 1. cím 7. alcím | Magyar Bányászati és Földtani Szolgálat | Bányajáradék beszedésével kapcsolatos követelések és kötelezettségek. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 11. | XLII. fejezet 4. cím 2. alcím 1. és 3. jogcímcsoport | A bírságot, egyéb központosított bevételt beszedő szervezet | A bevételekkel kapcsolatos követelések és kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
