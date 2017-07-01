@@ -34,7 +34,7 @@ a) a költségvetési csalás különösen jelentős vagyoni hátrányt okoz, va
 
 b) a különösen nagy vagyoni hátrányt okozó költségvetési csalást bűnszövetségben vagy üzletszerűen követik el.
 
-(6) Az (1)–(5) bekezdés szerint büntetendő, aki a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban megállapított feltétel hiányában vagy hatósági engedély nélkül jövedéki terméket előállít, megszerez, tart, forgalomba hoz, vagy azzal kereskedik, és ezzel a költségvetésnek vagyoni hátrányt okoz.
+(6) Az (1)–(5) bekezdés szerint büntetendő, aki a jövedéki adóról szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban megállapított feltétel hiányában vagy hatósági engedély nélkül jövedéki terméket előállít, megszerez, tart, forgalomba hoz, vagy azzal kereskedik, és ezzel a költségvetésnek vagyoni hátrányt okoz.
 
 (7) Aki költségvetésből származó pénzeszközökkel kapcsolatban előírt elszámolási, számadási, vagy az előírt tájékoztatási kötelezettségének nem vagy hiányosan tesz eleget, valótlan tartalmú nyilatkozatot tesz, vagy valótlan tartalmú, hamis vagy hamisított okiratot használ fel, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 

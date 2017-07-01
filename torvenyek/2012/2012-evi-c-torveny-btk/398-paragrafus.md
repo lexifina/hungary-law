@@ -2,9 +2,9 @@
 
 398. § (1) Aki
 
-a) jövedéki termék előállítására alkalmas, a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban meghatározott berendezést, készüléket, eszközt vagy alapanyagot engedély nélkül vagy a jogszabály megszegésével előállít, megszerez, tart, forgalomba hoz, illetve
+a) jövedéki termék előállítására alkalmas, a jövedéki adóról szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban meghatározott berendezést, készüléket, eszközt vagy alapanyagot engedély nélkül vagy a jogszabály megszegésével előállít, megszerez, tart, forgalomba hoz, illetve
 
-b) a forgalomba hozatalhoz szükséges zárjegyet vagy adójegyet engedély nélkül vagy jogszabály megszegésével előállít, megszerez vagy tart,
+b) a forgalomba hozatalhoz szükséges zárjegyet engedély nélkül vagy jogszabály megszegésével előállít, megszerez vagy tart,
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
