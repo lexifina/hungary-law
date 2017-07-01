@@ -20,7 +20,9 @@ h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenys�
 
 i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
 
-j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára
+j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára,
+
+k) a szociális számlához való jogosultságra, díjra és jellemzőire
 
 vonatkozó részletes szabályokat.
 

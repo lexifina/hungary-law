@@ -10,6 +10,8 @@
 
 4. arany kereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, valamint a forgalomban nem lévő arany pénzérmére és – numizmatikai céllal – a forgalomban lévő arany pénzérmére kötött ügylet;
 
+4a. azonosított elektronikus út: olyan személyre szabott elektronikus eljárás, amely a nyilatkozattevő személyének és a nyilatkozat megtétele időpontjának egyértelmű azonosítására és a jognyilatkozat tartalmának változatlan visszaidézésére alkalmas formában teszi lehetővé a jognyilatkozat megtételét;
+
 5. befektetés: az ingatlan, az ingó dolog, a vagyoni értékű jog, illetve a vállalkozásokban fennálló részesedés (részvény, üzletrész, tagsági viszony stb.), valamint a más pénzügyi vállalkozás részére nyújtott alárendelt kölcsöntőke;
 
 6. befolyásoló részesedés: az 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
@@ -371,6 +373,8 @@ e) az alapítványi formában működő pénzügyi vállalkozás esetén a kurat
 f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese,
 
 g) jelzáloghitel közvetítői tevékenységet végző közvetítő esetén az irányítási jogkörrel rendelkező vezető testület tagja, a pénzügyi szolgáltatás közvetítésének irányítását végző személy és valamennyi helyettese,
+
+h) függő ügynök esetén az irányítási jogkörrel rendelkező vezető testület tagja, a pénzügyi szolgáltatás közvetítésének irányítását végző személy és valamennyi helyettese,
 
 123. vezető testület: a pénzügyi intézmény igazgatósága és felügyelő bizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő pénzügyi intézmény vezető állású személyeit is.
 

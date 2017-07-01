@@ -1,4 +1,4 @@
-184. § (1) A Felügyelet mérlegeli az intézkedés szükségességét, ha a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye vagy tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb jogszabályok előírásait, vagy tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen ha
+184. § (1) A Felügyelet mérlegeli az intézkedés szükségességét, ha a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő, pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye vagy tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb jogszabályok előírásait, vagy tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen ha
 
 a) döntési, eljárási szabályzatai nem felelnek meg az előírásoknak, vagy a működés során ezeket nem tartja be,
 
@@ -22,7 +22,7 @@ j) nem teljesíti Pmt.-ben előírt kötelezettségét,
 
 k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelezettségének.
 
-(2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény
+(2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
 
 a) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet végez,
 

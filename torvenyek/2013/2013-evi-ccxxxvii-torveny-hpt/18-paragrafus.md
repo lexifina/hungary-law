@@ -34,7 +34,7 @@ e) természetes személy esetén a bűnügyi nyilvántartó szerv által kiáll�
 
 f) nem természetes személy esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
 
-g) nem természetes személy kérelmező esetén a tulajdonosi szerkezetének részletes leírását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását, továbbá az összevont alapú felügyelet alá tartozó hitelintézet, befektetési vállalkozás előző évre vonatkozó konszolidált éves beszámolóját, ha konszolidált beszámoló készítésére kötelezett,
+g) nem természetes személy kérelmező esetén a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását, továbbá az összevont alapú felügyelet alá tartozó hitelintézet, befektetési vállalkozás előző évre vonatkozó konszolidált éves beszámolóját, ha konszolidált beszámoló készítésére kötelezett,
 
 h) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak, valamint
 

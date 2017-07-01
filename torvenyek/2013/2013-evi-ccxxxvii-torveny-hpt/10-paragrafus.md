@@ -26,6 +26,6 @@ végez (a továbbiakban együtt: független közvetítő).
 
 (2) Pénzforgalmi közvetítői tevékenység az egyes fizetési szolgáltatókról szóló törvény alapján végezhető.
 
-(3) A közvetítői alvállalkozó – ide nem értve a pénzügyi intézményt és a biztosítót – a pénzügyi szolgáltatás közvetítése teljesítéséhez további megbízási szerződést nem köthet. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
+(3) A közvetítő – ide nem értve a pénzügyi intézményt, a befektetési vállalkozást és a biztosítót – közvetítői alvállalkozója a pénzügyi szolgáltatás közvetítése teljesítéséhez további megbízási szerződést nem köthet. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
 
 (4) A független közvetítő, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.

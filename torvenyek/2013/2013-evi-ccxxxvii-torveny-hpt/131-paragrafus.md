@@ -4,7 +4,9 @@ a) tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása vesz�
 
 b) üzleti tevékenységének, kapcsolatainak jellege, vagy a más vállalkozásokkal fennálló közvetlen és közvetett tagi részesedésének szerkezete olyan, hogy a felügyeleti tevékenységet akadályozza vagy
 
-c) nem rendelkezik jó üzleti hírnévvel.
+c) nem rendelkezik jó üzleti hírnévvel,
+
+d) befolyásoló részesedése szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
 
 (2) Az engedélyt kérő személy vagy tagjának, vezető tisztségviselőjének tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása különösen akkor veszélyezteti a pénzügyi intézmény független, megbízható és körültekintő tagi irányítását, ha
 

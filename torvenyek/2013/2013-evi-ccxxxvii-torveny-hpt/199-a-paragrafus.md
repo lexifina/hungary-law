@@ -8,6 +8,6 @@
 
 (5) Ha a másik EGT-állam illetékes felügyeleti hatósága a (4) bekezdés szerinti tájékoztatást követő egy hónapon belül nem teszi meg a szükséges intézkedéseket, vagy a másik EGT-állam illetékes felügyeleti hatósága által megtett lépések ellenére változatlanul fennáll a szabályellenes helyzet, valamint az ügyfelek érdekeinek veszélyeztetése, a Felügyelet
 
-a) a szabályellenes helyzet megszüntetése érdekében közvetlenül is intézkedhet, melyről haladéktalanul tájékoztatja az EBH-t,
+a) a szabályellenes helyzet megszüntetése érdekében a másik EGT-állam illetékes felügyeleti hatóságának tájékoztatását követően közvetlenül is intézkedhet, amelyről az intézkedés megtételét követően haladéktalanul tájékoztatja az EBH-t,
 
 b) az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikke alapján az EBH-hoz fordulhat.

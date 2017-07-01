@@ -46,6 +46,8 @@ q) a természetes személyek adósságrendezési eljárásában eljáró főhite
 
 r) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
 
+s) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
+
 szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
 
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha

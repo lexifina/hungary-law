@@ -1,6 +1,6 @@
 ## 117. Az ügyfelek tájékoztatása
 
-271. § (1) A pénzügyi intézmény az ügyfélfogadásra nyitva álló helyiségeiben hirdetményben közzéteszi, valamint elektronikus kereskedelmi szolgáltatások nyújtása esetén folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé teszi
+271. § (1) A pénzügyi intézmény az ügyfélfogadásra nyitva álló helyiségeiben közzéteszi, valamint elektronikus kereskedelmi szolgáltatások nyújtása esetén folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé teszi
 
 a) általános szerződési feltételeit is tartalmazó üzletszabályzatait,
 

@@ -28,7 +28,7 @@ bk) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
 
 bl) a ba)–bk) alpontban foglaltakkal egyenértékű szakképesítéssel, vagy
 
-c) jogszabályban meghatározott, a Felügyelet által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával
+c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott pénzügyi szolgáltatás közvetítői hatósági vizsgával
 
 rendelkezik.
 
@@ -39,6 +39,8 @@ a) a 155. § (3) bekezdésében meghatározott képzettségek,
 b) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerezhető gazdasági agrármérnök szakképzettség vagy műszaki menedzser alapképzési szakon, vagy gazdasági és vidékfejlesztési agrármérnök alapképzési szakon szerezhető szakképzettség, és
 
 c) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerzett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
+
+(2a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
 
 (3) Közvetítői tevékenységet végző hitelintézettel, biztosítóval, Posta Elszámoló Központot működtető intézménnyel munkaviszonyban álló természetes személy kizárólag abban az esetben végezhet közvetítői tevékenységet, ha az általa közvetített pénzügyi szolgáltatással kapcsolatban megfelelő képzést kapott. A szakmai követelmények ellenőrzéséért a munkáltató felelős.
 

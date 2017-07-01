@@ -1,12 +1,12 @@
 ## 79. Intézkedések
 
-185. § (1) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazhatja:
+185. § (1) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazhatja:
 
-a) kötelezheti a pénzügyi intézményt, hogy tegye meg a szükséges intézkedéseket
+a) kötelezheti
 
-aa) e törvény vagy a prudens működésre vonatkozó jogszabályok előírásainak betartására, a feltárt hiányosságok megszüntetésére,
+aa) a pénzügyi intézményt, valamint a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személyt, hogy tegye meg a szükséges intézkedéseket e törvény vagy a prudens működésre vonatkozó jogszabályok előírásainak betartására, a feltárt hiányosságok megszüntetésére,
 
-ab) pénzügyi helyzetének megőrzésére vagy javítására;
+ab) a pénzügyi intézményt, hogy tegye meg a szükséges intézkedéseket a pénzügyi helyzetének megőrzésére vagy javítására;
 
 b) javaslatot tehet a pénzügyi intézménynek
 
