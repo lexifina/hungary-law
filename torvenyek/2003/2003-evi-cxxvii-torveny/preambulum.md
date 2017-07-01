@@ -1,1 +1,0 @@
-A központi költségvetés feladatainak ellátásához szükskéges bevételek biztosítása, a jövedéki termékek adóztatásához szükséges feltételek megteremtése érdekében, illetve abból a célból, hogy a jövedéki termékek piacán a versenysemlegesség érvényesülhessen, figyelemmel az Európai Unióhoz való csatlakozásból fakadó követelményekre, az Országgyűlés a következő törvényt alkotja:

@@ -1,1 +1,0 @@
-128/P. § A jövedéki biztosíték 2017. december 31-ig a 38. § (12) bekezdésében foglaltak szerint az adójegy átvételével keletkező adó- és általános forgalmi adó fizetési kötelezettségre is igénybe vehető.

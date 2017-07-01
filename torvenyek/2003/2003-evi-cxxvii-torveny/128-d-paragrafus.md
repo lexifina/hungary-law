@@ -1,1 +1,0 @@
-128/D. § E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 57/C. § (1) bekezdésének rendelkezéseit azokban az esetekben kell alkalmazni először, amelyekben az adó-visszaigénylési jogosultság 2011. november 1. napján vagy azt követően keletkezik.
