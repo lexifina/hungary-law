@@ -1,4 +1,4 @@
-104. § (1) A cég legfőbb szerve elrendelheti, hogy a végelszámoló a cég vagyoni eszközeit vagy azok meghatározott részét csak nyilvános pályázat, illetve árverés útján értékesítheti.
+104. § (1) A cég legfőbb szerve elrendelheti, hogy a végelszámoló a cég vagyoni eszközeit vagy azok meghatározott részét csak nyilvános pályázat, illetve árverés útján értékesítheti. Ha a cég legfőbb szerve felszámoló szervezetet választott meg végelszámolónak, a nyilvános értékesítés a felszámolási eljárás nyilvános értékesítési szabályaiban előírt módon is lefolytatható.
 
 (2) Ha a végelszámolás előre láthatóan hosszabb ideig tart, a társaság legfőbb szerve minősített többséggel meghozott határozatával a cég gazdasági tevékenységének ideiglenes és korlátozott folytatását rendelheti el, ha ezt az eset összes körülményeit tekintve az ésszerű gazdálkodás követelményei megkövetelik.
 
