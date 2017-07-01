@@ -42,6 +42,8 @@ j)[^25] a vetőmaggal kapcsolatos számlák másolatát a megyeszékhely szerint
 
 (2)[^27] A megyeszékhely szerinti járási hivatal az (1) bekezdés a) pontja szerinti bejelentésről a rendőrséget tájékoztatja.
 
+(3)[^28] Az (1) bekezdés a) pontjától eltérően a Kormány döntése alapján az (1) bekezdés a) pontjában meghatározott, a megyei kormányhivatal földművelésügyi feladatkörében eljáró megyeszékhely szerinti járási hivatali feladatokat Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala látja el. Ahol e jogszabály a feladatok tekintetében megyeszékhely szerinti járási hivatalt említ, azon Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát kell érteni.
+
 [^16]: Az 5. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 1. pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § c) pontja szerint módosított szöveg.
 [^17]: Az 5. § (1) bekezdés a) pont ah) alpontját a 19/2015. (II. 16.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
 [^18]: Az 5. § (1) bekezdés a) pont ai) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
@@ -54,3 +56,4 @@ j)[^25] a vetőmaggal kapcsolatos számlák másolatát a megyeszékhely szerint
 [^25]: Az 5. § (1) bekezdés j) pontját a 19/2015. (II. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 58. § e) pontja szerint módosított szöveg.
 [^26]: Az 5. § (1a) bekezdését a 19/2015. (II. 16.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 58. § e) pontja szerint módosított szöveg.
 [^27]: Az 5. § (2) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdésének d) pontja, a 62/2010. (III. 18.) Korm. rendelet 16. § c) pontja, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § f) pontja szerint módosított szöveg.
+[^28]: Az 5. § (3) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 7. §-a iktatta be.
