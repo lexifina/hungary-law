@@ -1,1 +1,0 @@
-A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 1997. évi CIII. törvény (a továbbiakban: Jöt.) 89. §-a (2) bekezdésének c), d) és k) pontjában kapott felhatalmazás alapján a következőket rendelem el:
