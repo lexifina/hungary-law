@@ -1,1 +1,0 @@
-A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 129. §-a (2) bekezdésének m) pontjában kapott felhatalmazás alapján a következőket rendelem el:
