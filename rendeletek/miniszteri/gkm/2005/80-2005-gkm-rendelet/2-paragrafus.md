@@ -2,6 +2,6 @@
 
 (2) Gázelosztó vezeték tervezése, létesítése, üzemeltetése, átalakítása, felújítása, felhagyása és elbontása során a Szabályzat előírásait kell alkalmazni.
 
-(3)[^2]
+(3)[^3]
 
-[^2]: A 2. § (3) bekezdését a 15/2015. (III. 31.) NFM rendelet 11. §-a hatályon kívül helyezte.
+[^3]: A 2. § (3) bekezdését a 15/2015. (III. 31.) NFM rendelet 11. §-a hatályon kívül helyezte.
