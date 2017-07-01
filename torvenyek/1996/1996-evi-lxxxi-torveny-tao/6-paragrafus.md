@@ -10,9 +10,11 @@
 
 (4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
+(4a) A 10. §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek tekintetében is megfelelően alkalmazni kell.
+
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 
-a) adóbevallásában az adózás rendjéről szóló törvény 91/A. §-ának (1) bekezdése szerinti nyilatkozatot tesz, vagy
+a) adóbevallásában az adózás rendjéről szóló törvény 91/A. § (1) bekezdése szerinti nyilatkozatot tesz, vagy
 
 b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződés rendelkezéseit figyelembe véve – a külföldi telephely útján végzett tevékenység révén keletkezett, telephelynek betudható jövedelem-(nyereség-)minimum nélküli jövedelem-(nyereség-)minimumot tekinti adóalapnak.
 
@@ -20,7 +22,7 @@ b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződ
 
 a) az előtársasági adóévben .és az azt követő adóévben, illetve az első adóévében, amennyiben az előtársasági időszakról külön beszámoló készítésére nem kötelezett, vagy
 
-b) ha a 2. § (2) bekezdésének e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, iskolaszövetkezet vagy közhasznú nonprofit gazdasági társaság, vagy
+b) ha a 2. § (2) bekezdés e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, közérdekű nyugdíjas szövetkezet, iskolaszövetkezet, közhasznú nonprofit gazdasági társaság, vagy
 
 c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással, egyesüléssel, szétválással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát,
 

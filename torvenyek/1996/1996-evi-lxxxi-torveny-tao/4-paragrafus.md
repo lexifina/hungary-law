@@ -54,6 +54,8 @@ b) működését, a kereskedési rendszerhez való hozzáférést, a tőzsdei be
 
 c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügyletekre napi letét-elhelyezési követelmény vonatkozik és ez a székhely szerinti állam hatáskörrel rendelkező felügyeleti hatóságának értékelése szerint megfelelő biztonságot nyújt;
 
+10c. elektromos töltőállomás: olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére;
+
 11. ellenőrzött külföldi társaság:
 
 a) a belföldi illetőségű adózónak és a külföldi vállalkozónak nem minősülő külföldi személy, amely tekintetében az adózó (önmagában vagy kapcsolt vállalkozásaival együttesen)
