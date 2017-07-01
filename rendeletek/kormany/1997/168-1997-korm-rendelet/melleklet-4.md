@@ -54,7 +54,7 @@
 
 | 25. | 24 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 |
 
-4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^315]
+4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^320]
 
 A nyugellátás iránti igény bejelentésére szolgáló nyomtatvány és elektronikus űrlap adattartalma
 
@@ -82,4 +82,4 @@ A nyugellátás iránti igény bejelentésére szolgáló nyomtatvány és elekt
 
 7. A folyósítási cím, illetve pénzforgalmi számla azonosításához szükséges adatok.
 
-[^315]: A 4. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^320]: A 4. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.

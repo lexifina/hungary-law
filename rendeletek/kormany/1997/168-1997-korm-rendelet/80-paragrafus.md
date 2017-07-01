@@ -1,4 +1,4 @@
-80. §[^249] (1) Az ellátás jogalap nélküli megállapítása, folyósítása vagy felvétele esetén a visszafizetésről és a megtérítésről az ellátást megállapító nyugdíjbiztosítási igazgatási szerv határoz. Az ellátást megállapító határozat módosításáról, visszavonásáról és a visszafizetésről, megtérítésről külön határozatot kell hozni.
+80. §[^253] (1) Az ellátás jogalap nélküli megállapítása, folyósítása vagy felvétele esetén a visszafizetésről és a megtérítésről az ellátást megállapító nyugdíjbiztosítási igazgatási szerv határoz. Az ellátást megállapító határozat módosításáról, visszavonásáról és a visszafizetésről, megtérítésről külön határozatot kell hozni.
 
 (2) A visszafizetés és a megtérítés ügyében a felróhatóságot a nyugdíjbiztosítási igazgatási szervnek kell bizonyítania.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a nyugdíjfolyósító szerv észleli az ellátás jogalap nélküli megállapítását, folyósítását vagy felvételét, erről haladéktalanul értesíti az ellátást megállapító általános hatáskörű nyugdíj-megállapító szervet.
 
-[^249]: A 80. § a 449/2016. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^253]: A 80. § a 449/2016. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.

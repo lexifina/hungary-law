@@ -26,19 +26,21 @@ bd) az ügyfél korábban szolgálati viszonyban állt valamelyik nemzetbiztons�
 
 c) a fegyveres szerv hivatásos állományú tagja, volt tagja – a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 19. §-a szerinti – rögzített nyugdíjának megállapításával (a továbbiakban: nyugdíjrögzítés) kapcsolatos hatósági ügyekben.
 
-(3) Az ügyfél lakóhelye, tartózkodási helye, illetve székhelye, telephelye szerint illetékes kormányhivatal jár el
+(3)[^5] Az ügyfél lakóhelye, tartózkodási helye, illetve székhelye, telephelye szerint illetékes kormányhivatal jár el
 
-a) a kivételes nyugellátás-emeléssel és az egyszeri segéllyel kapcsolatos ügyekben az (5) bekezdés b) pontjában meghatározottak kivételével,
+a) a kivételes nyugellátás-emeléssel és az egyszeri segéllyel kapcsolatos ügyekben az (5) bekezdés b) pontjában meghatározott kivétellel,
 
-b) a foglalkoztatói adatszolgáltatással, a biztosítottak nyilvántartásba történő betekintési jogával és a kivonat készítésével kapcsolatos hatósági ügyekben, és
+b) a tartozás mérséklésére, elengedésére és a fizetési kedvezmény engedélyezésére irányuló ügyekben, ha a tartozást járási hivatal vagy kormányhivatal írta elő,
 
-c) a Tny. 100. §-a szerinti hatósági ellenőrzések ügyében.
+c) a foglalkoztatói adatszolgáltatással, a biztosítottak nyilvántartásba történő betekintési jogával, a kivonat készítésével és a nyilvántartásokkal kapcsolatos egyéb ügyekben,
+
+d) a Tny. 100. §-a szerinti hatósági ellenőrzések ügyében.
 
 (4) A Nyugdíjfolyósító Igazgatóság nyugdíjbiztosítási igazgatási szervként
 
 a) jár el a hozzátartozói nyugellátások megállapításával kapcsolatos hatósági ügyekben, ha
 
-aa)[^5] a hozzátartozói nyugellátás összegét az elhunyt jogszerző öregségi nyugdíjának, korhatár előtti ellátásának, szolgálati járandóságának, táncművészeti életjáradékának vagy átmeneti bányászjáradékának már megállapított összegéből kell kiszámítani, a (2) bekezdés a) pont aa) és ab) pontjában meghatározottak kivételével,
+aa)[^6] a hozzátartozói nyugellátás összegét az elhunyt jogszerző öregségi nyugdíjának, korhatár előtti ellátásának, szolgálati járandóságának, táncművészeti életjáradékának vagy átmeneti bányászjáradékának már megállapított összegéből kell kiszámítani, a (2) bekezdés a) pont aa) és ab) pontjában meghatározottak kivételével,
 
 ab) az elhunyt jogszerző után hozzátartozói nyugellátás megállapítására már sor került,
 
@@ -48,13 +50,13 @@ b) intézkedik a nyugellátások és az általa folyósított más ellátások m
 
 c) a hatáskörébe tartozó ügyekben dönt az ellátás visszafizetéséről és megtérítéséről,
 
-d)[^6] dönt a Tny. 84. § (3) bekezdése szerinti beszámításról,
+d)[^7] dönt a Tny. 84. § (3) bekezdése szerinti beszámításról,
 
 e) jár el öregségi nyugdíj folyósításának szüneteltetésével és a szüneteltetett nyugellátás újbóli folyósításával kapcsolatos ügyekben.
 
 (5) A Központ nyugdíjbiztosítási igazgatási szervként jár el
 
-a) a kivételes nyugellátás megállapításával kapcsolatos ügyekben, ideértve a továbbtanuló árva árvaellátásának kivételes meghosszabbítását is, és
+a)[^8] a kivételes nyugellátás megállapításával kapcsolatos ügyekben, ideértve a továbbtanuló árva árvaellátásának kivételes meghosszabbítását is,
 
 b) a kivételes nyugellátás-emeléssel és az egyszeri segéllyel kapcsolatos ügyekben
 
@@ -62,10 +64,16 @@ ba) hozzátartozói nyugellátás esetén,
 
 bb) a 72/B. § (20) bekezdés szerinti esetben, vagy
 
-bc) ha a kérelmet hozzá vagy a Nyugdíjfolyósító Igazgatósághoz nyújtották be, és
+bc)[^9] ha a kérelmet hozzá vagy a Nyugdíjfolyósító Igazgatósághoz nyújtották be,
 
-c) a Tny. 22/A. § szerinti nyugdíjnövelés megállapítására irányuló, hivatalból induló eljárásokban.
+c) a Tny. 22/A. § szerinti nyugdíjnövelés megállapítására irányuló, hivatalból induló eljárásokban,
+
+d)[^10] a tartozás mérséklésére, elengedésére vagy fizetési kedvezmény engedélyezésére irányuló ügyekben, ha a tartozást a Nyugdíjfolyósító Igazgatóság vagy a Központ írta elő.
 
 [^4]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdés a) pont aa) alpontja a 449/2016. (XII. 19.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdés d) pontja a 449/2016. (XII. 19.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (4) bekezdés a) pont aa) alpontja a 449/2016. (XII. 19.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdés d) pontja a 449/2016. (XII. 19.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdés a) pontja a 171/2017. (VI. 29.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdés b) pont bc) alpontja a 171/2017. (VI. 29.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 3. § (5) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

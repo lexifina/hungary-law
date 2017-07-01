@@ -1,3 +1,3 @@
-87. §[^274]
+87. §[^278]
 
-[^274]: A 87. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § x) pontja hatályon kívül helyezte.
+[^278]: A 87. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § x) pontja hatályon kívül helyezte.
