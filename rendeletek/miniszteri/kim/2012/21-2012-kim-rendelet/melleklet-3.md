@@ -56,6 +56,10 @@
 
 |  |  | 144 | Európai területi együttműködési csoportosulás (EGTC) |
 
+|  | 15 |  | Szövetkezet (folytatás) |
+
+|  |  | 151 | Közérdekű nyugdíjas szövetkezet |
+
 | 2 |  |  | Jogi személyiség nélküli vállalkozás |
 
 |  | 21 |  | Jogi személyiség nélküli gazdálkodó szervezet |
