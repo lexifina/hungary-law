@@ -2,9 +2,9 @@
 
 (2) A játékkaszinó alkalmazottai a játékkaszinóban a (3) bekezdés kivételével borravalót nem fogadhatnak el.
 
-(3) Amennyiben az állami adóhatóság az alkalmazottak számára borravaló elfogadását az engedélyben lehetővé teszi, erre a célra közös tartókat kell elhelyezni. Az alkalmazottnak közvetlenül felajánlott borravaló elfogadása tilos.
+(3) Amennyiben a szerencsejáték-felügyeleti hatóság az alkalmazottak számára borravaló elfogadását az engedélyben lehetővé teszi, erre a célra közös tartókat kell elhelyezni. Az alkalmazottnak közvetlenül felajánlott borravaló elfogadása tilos.
 
-(4) A (3) bekezdésben meghatározott esetben az állami adóhatóság az engedélyben a közös tartókba helyezett borravaló legfeljebb 50%-ának felosztását engedélyezheti.
+(4) A (3) bekezdésben meghatározott esetben a szerencsejáték-felügyeleti hatóság az engedélyben a közös tartókba helyezett borravaló legfeljebb 50%-ának felosztását engedélyezheti.
 
 4. CÍM
 

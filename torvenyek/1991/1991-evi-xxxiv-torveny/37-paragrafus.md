@@ -24,7 +24,7 @@
 
 8. Nyereményszorzó (odds): a nyeremény kiszámításának a bukmékeri fogadásnál alkalmazott azon eszköze, amely megmutatja, hogy a szervező a feltett tét hányszorosát fogja nyereményként kifizetni a nyertes fogadónak.
 
-9. Lottójáték: az állami adóhatóság által ilyen elnevezéssel engedélyezett, azonos időszakonként szervezett számsorsjáték, amelyben adott számhalmazból előre meghatározott számú elem eltalálása jogosít nyereményre.
+9. Lottójáték: a szerencsejáték-felügyeleti hatóság által ilyen elnevezéssel engedélyezett, azonos időszakonként szervezett számsorsjáték, amelyben adott számhalmazból előre meghatározott számú elem eltalálása jogosít nyereményre.
 
 10. Totófogadás: olyan totalizatőri rendszerben szervezett fogadás, amelyben a fogadónak a labdarúgó-csapatok mérkőzéseinek eredményét kell eltalálnia.
 
@@ -34,7 +34,7 @@
 
 13. Folyamatosan szervezett szerencsejáték: olyan a törvény különös rendelkezéseiben meghatározott szerencsejáték, amelyre a szerencsejáték szervező engedélye meghatározott időszakon belül többszöri alkalommal történő szerencsejáték szervezést tesz lehetővé.
 
-14. Tiltott szerencsejáték: az e törvény szerint engedélyköteles szerencsejáték, amelyet az állami adóhatóság engedélye nélkül szerveznek.
+14. Tiltott szerencsejáték: az e törvény szerint engedélyköteles szerencsejáték, amelyet a szerencsejáték-felügyeleti hatóság engedélye nélkül szerveznek.
 
 15. Szerencsejáték-szervező:
 

@@ -1,9 +1,9 @@
-8. § (1) Az állami adóhatóság vezetője és helyettesei, valamint szerencsejáték-felügyeleti feladatkörében eljáró alkalmazottai sorsolásos játék kivételével szerencsejátékban nem vehetnek részt.
+8. § (1) A szerencsejáték-felügyeleti hatóság vezetője és helyettesei, valamint szerencsejáték-felügyeleti feladatkörében eljáró alkalmazottai sorsolásos játék kivételével szerencsejátékban nem vehetnek részt.
 
-(2) Az állami adóhatóság szerencsejáték szervező tevékenységet nem folytathat.
+(2) A szerencsejáték-felügyeleti hatóság szerencsejáték szervező tevékenységet nem folytathat.
 
-(3) Az állami adóhatóság vezetője és helyettesei, valamint az állami adóhatóság szerencsejáték-felügyeleti feladatkörében eljáró alkalmazottai szerencsejáték-szervezőnél munkavégzésre irányuló jogviszonyt nem létesíthetnek, vezető tisztségviselők, valamint felügyelőbizottság tagjai nem lehetnek.
+(3) A szerencsejáték-felügyeleti hatóság vezetője és helyettesei, valamint a szerencsejáték-felügyeleti hatóság szerencsejáték-felügyeleti feladatkörében eljáró alkalmazottai szerencsejáték-szervezőnél munkavégzésre irányuló jogviszonyt nem létesíthetnek, vezető tisztségviselők, valamint felügyelőbizottság tagjai nem lehetnek.
 
 (4) A (3) bekezdésben felsoroltak nem vehetnek részt olyan ügy elbírálásában, amelyben ők vagy a Polgári Törvénykönyv szerinti közeli hozzátartozójuk érdekelve van.
 
-(5) A (3) bekezdésben felsoroltak munkaviszonyának az állami adóhatóságnál történő megszűnését követő 2 évig szerencsejáték szervező tevékenységet nem folytathatnak.
+(5) A (3) bekezdésben felsoroltak munkaviszonyának a szerencsejáték-felügyeleti hatóságnál történő megszűnését követő 2 évig szerencsejáték szervező tevékenységet nem folytathatnak.

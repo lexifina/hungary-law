@@ -16,13 +16,13 @@
 
 (8) A kártyateremben működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 45 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a kártyateremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított húsz napon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
 
-(9) Ha a kártyaterem üzemeltetése nem felel meg a játéktervnek és az engedélynek, az állami adóhatóság a kártyaterem működését felfüggeszti. Az állami adóhatóság akkor is köteles a kártyaterem működtetését felfüggeszteni, ha az engedély a helyszínen nem található. Ha a kártyateremben az engedélyezett kártyajátékon túl más szerencsejáték szervező tevékenység folyik, az állami adóhatóság a kártyaterem engedélyét visszavonja.
+(9) Ha a kártyaterem üzemeltetése nem felel meg a játéktervnek és az engedélynek, a szerencsejáték-felügyeleti hatóság a kártyaterem működését felfüggeszti. A szerencsejáték-felügyeleti hatóság akkor is köteles a kártyaterem működtetését felfüggeszteni, ha az engedély a helyszínen nem található. Ha a kártyateremben az engedélyezett kártyajátékon túl más szerencsejáték szervező tevékenység folyik, a szerencsejáték-felügyeleti hatóság a kártyaterem engedélyét visszavonja.
 
-(10) A kártyaterem jogszerű birtoklásának igazolását az állami adóhatóság a szerencsejáték-szervezőtől a kártyaterem működtetésének engedélyezett időtartama alatt bármikor kérheti. Ha a szerencsejáték-szervező e kötelezettségének nem tesz eleget, az állami adóhatóság az engedélyt visszavonhatja.
+(10) A kártyaterem jogszerű birtoklásának igazolását a szerencsejáték-felügyeleti hatóság a szerencsejáték-szervezőtől a kártyaterem működtetésének engedélyezett időtartama alatt bármikor kérheti. Ha a szerencsejáték-szervező e kötelezettségének nem tesz eleget, a szerencsejáték-felügyeleti hatóság az engedélyt visszavonhatja.
 
 (11) A 26. § (18) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
 
-(12) Az állami adóhatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
+(12) A szerencsejáték-felügyeleti hatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (13) A 29/H. § (2)–(3) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
 

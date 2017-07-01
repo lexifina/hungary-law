@@ -14,7 +14,7 @@ f) a túlzásba vitt szerencsejáték ártalmaira, szenvedélybetegség kialakul
 
 g) Magyarországon szerencsejáték játékfüggőség kezelésével foglalkozó legalább egy szervezet elnevezése, elérhetősége,
 
-h) az állami adóhatóság mint engedélyező és felügyeleti hatóság megnevezése és elérhetősége játékosi bejelentésekkel, felügyeleti eljárással kapcsolatban,
+h) a szerencsejáték-felügyeleti hatóság mint engedélyező és felügyeleti hatóság megnevezése és elérhetősége játékosi bejelentésekkel, felügyeleti eljárással kapcsolatban,
 
 i) a távszerencsejáték engedély meglétére utalás, az engedély felfüggesztése esetén ennek ténye és időtartama.
 

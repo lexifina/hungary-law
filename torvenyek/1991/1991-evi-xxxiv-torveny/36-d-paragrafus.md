@@ -8,12 +8,12 @@ c) a 36/C. § (2) bekezdés g) pontja esetén félévente, a 33/A. § (1) bekezd
 
 d) a 36/C. § (2) bekezdés h) pontja esetén negyedévente, a tárgynegyedévet követő hónap utolsó napjáig
 
-fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett.
+fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett.
 
 (2) A felügyeleti díj megfizetése a nyilatkozattételi kötelezettség teljesítését nem pótolja.
 
-(3) A díjfizetési kötelezettséget átutalással vagy fizetési számlára történő készpénzbefizetéssel, a nyilatkozattételi kötelezettséget az állami adóhatóság által rendszeresített formanyomtatványon kell teljesíteni.
+(3) A díjfizetési kötelezettséget átutalással vagy fizetési számlára történő készpénzbefizetéssel, a nyilatkozattételi kötelezettséget a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell teljesíteni.
 
-(4) A nyilatkozatban feltüntetett adatok, jognyilatkozatok módosítását a kötelezett az állami adóhatósághoz előterjesztett kérelemben kezdeményezheti.
+(4) A nyilatkozatban feltüntetett adatok, jognyilatkozatok módosítását a kötelezett a szerencsejáték-felügyeleti hatósághoz előterjesztett kérelemben kezdeményezheti.
 
 (5) A felügyeleti díj számítása, megfizetése, nyilvántartása és elszámolása 1000 forintban történik. A felügyeleti díj 1000 forintra kerekített összegét az általános kerekítési szabályok alkalmazásával kell meghatározni.

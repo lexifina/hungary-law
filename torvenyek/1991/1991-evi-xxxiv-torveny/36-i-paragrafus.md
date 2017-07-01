@@ -1,6 +1,6 @@
 36/I. § (1) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 365 nap elteltével megszűnik.
 
-(2) Az ideiglenes hozzáférhetetlenné tételt az állami adóhatóság annak megszűnése előtt megszünteti, ha
+(2) Az ideiglenes hozzáférhetetlenné tételt a szerencsejáték-felügyeleti hatóság annak megszűnése előtt megszünteti, ha
 
 a) az elrendelés oka megszűnt, vagy
 

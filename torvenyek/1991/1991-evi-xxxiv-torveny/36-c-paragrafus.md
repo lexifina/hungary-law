@@ -1,6 +1,6 @@
 ## A szerencsejáték felügyeleti díj
 
-36/C. § (1) Az állami adóhatóság felügyeleti tevékenységéért a szerencsejáték szervező, az ajándéksorsolást szervező és a játékautomata üzemeltető (a továbbiakban együtt: kötelezett) szerencsejáték felügyeleti díj (a továbbiakban: felügyeleti díj) fizetésére köteles.
+36/C. § (1) A szerencsejáték-felügyeleti hatóság felügyeleti tevékenységéért a szerencsejáték szervező, az ajándéksorsolást szervező és a játékautomata üzemeltető (a továbbiakban együtt: kötelezett) szerencsejáték felügyeleti díj (a továbbiakban: felügyeleti díj) fizetésére köteles.
 
 (2) A kötelezett
 

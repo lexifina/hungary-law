@@ -1,6 +1,6 @@
 29/O. § (1) Az online kaszinójáték típusai:
 
-a) a játékkaszinóban vagy az állami adóhatóság által – eseti vagy állandó jelleggel– engedélyezett más helyen folyó kaszinójátékban hírközlő eszköz vagy rendszer útján történő részvétel,
+a) a játékkaszinóban vagy a szerencsejáték-felügyeleti hatóság által – eseti vagy állandó jelleggel– engedélyezett más helyen folyó kaszinójátékban hírközlő eszköz vagy rendszer útján történő részvétel,
 
 b) az online kaszinó szerverére hírközlő eszköz vagy rendszer útján történő kapcsolódás a játékos rendelkezése alatt álló informatikai eszközzel a szerveren található játékprogramokkal történő játék,
 

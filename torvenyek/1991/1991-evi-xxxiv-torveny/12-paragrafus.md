@@ -1,4 +1,4 @@
-12. § (1) Az állami adóhatóság a szerencsejáték-szervezőt, illetve az e törvény hatálya alá tartozó tevékenységet folytató bármely szervezetet vagy személyt, valamint a szervezetek vezetőjét vagy vezető tisztségviselőjét a (2)–(3) bekezdésekben foglaltak szerinti bírság megfizetésére kötelezi.
+12. § (1) A szerencsejáték-felügyeleti hatóság a szerencsejáték-szervezőt, illetve az e törvény hatálya alá tartozó tevékenységet folytató bármely szervezetet vagy személyt, valamint a szervezetek vezetőjét vagy vezető tisztségviselőjét a (2)–(3) bekezdésekben foglaltak szerinti bírság megfizetésére kötelezi.
 
 (2) A bírság összege a 6. § (1) bekezdésében foglalt szabályok megszegése esetén
 
@@ -20,8 +20,8 @@ d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezd�
 
 (4)
 
-(5) Nem lehet bírságot kiszabni a mulasztásnak vagy a kötelezettségszegésnek az állami adóhatóság tudomására jutásától számított hat hónapon, illetve az elkövetéstől, illetve az új eljárás elrendelése esetén az új eljárás lefolytatását elrendelő ítélet jogerőre emelkedésétől számított két éven túl.
+(5) Nem lehet bírságot kiszabni a mulasztásnak vagy a kötelezettségszegésnek a szerencsejáték-felügyeleti hatóság tudomására jutásától számított hat hónapon, illetve az elkövetéstől, illetve az új eljárás elrendelése esetén az új eljárás lefolytatását elrendelő ítélet jogerőre emelkedésétől számított két éven túl.
 
-(6) A bírság kiszabásánál figyelembe kell venni a mulasztás vagy a kötelezettségszegés súlyát, és azt, hogy a jogsértővel szemben az állami adóhatóság a jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt jogerősen szabott-e ki bírságot.
+(6) A bírság kiszabásánál figyelembe kell venni a mulasztás vagy a kötelezettségszegés súlyát, és azt, hogy a jogsértővel szemben a szerencsejáték-felügyeleti hatóság a jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt jogerősen szabott-e ki bírságot.
 
 (7) A bírság együttesen, illetve a 13. § (1)–(3) bekezdéseiben foglalt intézkedés mellett is kiszabható. Több bírság együttes kiszabása esetén a bírságok együttes összege meghaladhatja a (3) bekezdés pontjaiban meghatározott egyes bírságösszegek felső határát.

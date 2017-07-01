@@ -20,7 +20,9 @@ g) további önkorlátozó intézkedések bevezetésének, valamint a 29/I. § (
 
 részletes szabályait rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy
+(1b) Felhatalmazást kap a Kormány, hogy a szerencsejáték-felügyeleti hatóságot rendeletben kijelölje és e hatóság törvényben meghatározott feladatai végrehajtási szabályait rendeletben meghatározza.
+
+(2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a szerencsejáték-szervezés állami felügyeletéért felelős miniszterrel egyetértésben
 
 a) a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel,
 
@@ -34,11 +36,11 @@ e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékk
 
 f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével
 
-g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
+g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 
 h)
 
-i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
+i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival,
 
 j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával
 
@@ -48,4 +50,4 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
-(4)
+(4) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy a szerencsejáték-felügyeleti hatóságnál foglalkoztatott kormánytisztviselők személyi illetményének megállapítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
