@@ -1,6 +1,6 @@
-3. § (1)[^1] A feljogosított személykénti, szervezetkénti státuszt, ha a fogadó állam Magyarország, a (2) bekezdésben meghatározott kivétellel a Külügyminisztérium igazolja.
+3. § (1)[^5] A feljogosított személykénti, szervezetkénti státuszt, ha a fogadó állam Magyarország, a (2) bekezdésben meghatározott kivétellel a külpolitikáért felelős miniszter által vezetett minisztérium igazolja.
 
-(2)[^2] A feljogosított személykénti, szervezetkénti státuszt a honvédelemért felelős miniszter által vezetett minisztérium igazolja:
+(2)[^6] A feljogosított személykénti, szervezetkénti státuszt a honvédelemért felelős miniszter által vezetett minisztérium igazolja:
 
 a) fegyveres erő személyi állományának tagja,
 
@@ -10,5 +10,5 @@ c) az Észak-atlanti Szerződés alapján felállított nemzetközi katonai para
 
 esetében.
 
-[^1]: A 3. § (1) bekezdése a 22/2012. (VIII. 2.) NGM rendelet 3. §-a szerint módosított szöveg.
-[^2]: A 3. § (2) bekezdése a 22/2012. (VIII. 2.) NGM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 22/2012. (VIII. 2.) NGM rendelet 3. §-a, a 18/2017. (VI. 30.) NGM rendelet 5. § 2. pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdése a 22/2012. (VIII. 2.) NGM rendelet 1. §-ával megállapított szöveg.
