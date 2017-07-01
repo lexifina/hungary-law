@@ -1,0 +1,1 @@
+2/A. § Felhatalmazást kap a Kormány, hogy a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzatot, valamint módosításait és kiegészítéseit rendeletben hirdesse ki.

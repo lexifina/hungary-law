@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-3-00-00
 | --- | --- | --- |
 | 2009-03-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-3-00-00.1 |
 | 2010-01-22 | 2010. évi VI. törvény | 2009-3-00-00.2 |
+| 2017-07-01 | 2017. évi CIII. törvény | 2009-3-00-00.3 |
