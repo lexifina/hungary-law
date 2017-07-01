@@ -10,12 +10,12 @@ b) a jogviszony megszűnéséig megszerzett szerződéses szolgálati idő figye
 
 visszailleszkedési támogatásra jogosult, azzal, hogy az a) és a b) pont alapján megállapított összegek közül a jogosult választása szerinti összeget kell a részére kifizetni.
 
-(3a) Miniszteri rendeletben meghatározottak szerint a (3) bekezdés b) pontja szerinti mértéknél legfeljebb kéthavi mértékkel magasabb összegű visszailleszkedési támogatásra jogosult a legénységi állomány tagja, ha szolgálati viszonya megszűnésekor legalább három év időtartamra miniszteri rendeletben meghatározott feltételekkel önkéntes tartalékos szolgálati viszonyt létesít.
+(3a) Miniszteri rendeletben meghatározottak szerint a (3) bekezdés b) pontja szerinti mértéknél legfeljebb kéthavi mértékkel magasabb összegű visszailleszkedési támogatásra jogosult a legénységi állomány tagja, ha szolgálati viszonya megszűnésekor legalább két év időtartamra miniszteri rendeletben meghatározott feltételekkel önkéntes tartalékos szolgálati viszonyt létesít.
 
 (4) Ha a 2015. június 30-án szerződéses állományban lévő tiszt, altiszt szerződéses jogviszonyának megszűnésekor jogosult e törvény alapján végkielégítésre, akkor
 
 a) a szerződéses jogviszonyának megszűnésekor hatályos szabályok szerint megállapított, és a szerződéses szolgálati viszonyának megszűnéséig részére kifizetett szerződés-hosszabbítási díj, valamint jubileumi jutalom mértékével csökkentett mértékű, vagy
 
-b) a jogviszony megszűnéséig megszerzett szerződéses szolgálati idő figyelembevételével a 2015. június 30-án hatályos 74. § szerinti jogosultsági szabályok alapján számított – a szolgálati viszony alatt részére korábban kifizetésre került jubileumi jutalom mértékével csökkentett – leszerelési segély és a 2015. június 30-án érvényes illetményből képzett távolléti díj szorzatának megfelelő összegű
+b) a jogviszony megszűnéséig megszerzett szerződéses szolgálati idő figyelembevételével a 2015. június 30-án hatályos 74. § szerinti jogosultsági szabályok alapján számított – a szolgálati viszony alatt részére korábban kifizetésre került jubileumi jutalom mértékével csökkentett – leszerelésisegély-mérték és a 2015. június 30-án érvényes illetményből képzett távolléti díj szorzatának megfelelő összegű
 
 végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megállapított összegek közül a jogosult választása szerinti összeget kell a részére kifizetni.

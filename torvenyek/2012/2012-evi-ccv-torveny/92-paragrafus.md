@@ -2,7 +2,7 @@
 
 92. § (1) A tényleges szolgálati viszonyban töltött idő az állományba vétel napjától a szolgálati viszony megszűnésének, megszüntetésének napjáig tart. A szolgálati viszony szünetelésének időtartama a tényleges szolgálati viszonyban töltött időbe nem számítható be.
 
-(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke és a jubileumi jutalom szempontjából
+(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke, a jubileumi jutalom és a 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba helyezés szempontjából
 
 a) a 2002. január 1-je előtt a fegyveres szervek állományában szolgálati viszonyban eltöltött, és a korábbi szabályok szerint beszámítható szolgálati időt, és
 

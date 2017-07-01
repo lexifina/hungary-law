@@ -1,6 +1,6 @@
 ## 123. A VIII., a IX. és a XII. Fejezethez kapcsolódó rendelkezések
 
-216. § (1) Az önkéntes tartalékos katona tényleges szolgálatteljesítését miniszteri rendeletben meghatározott módon és időben közölt behívóparancs vagy bevonulási parancs (a továbbiakban: elrendelő okmány) rendeli el. Az elrendelő okmány tartalmi elemeit, valamint alkalmazási körét miniszteri rendelet határozza meg.
+216. § (1) Az önkéntes tartalékos katona tényleges szolgálatteljesítését miniszteri rendeletben meghatározott módon és időben közölt behívóparancs vagy bevonulási parancs (a továbbiakban: elrendelő okmány) rendeli el. Az elrendelő okmány kibocsátásának feltételeit, tartalmi elemeit, valamint alkalmazási körét miniszteri rendelet határozza meg.
 
 (2) A tényleges szolgálatteljesítésre történő behívás tervezett időpontját – a KNBSZ-nél történő szolgálatteljesítésre történő behívás tervezett időpontja kivételével –, a negyedév megjelölésével, a tárgyévet megelőző év utolsó negyedévében a miniszter által vezetett minisztérium honlapján közzé kell tenni. A tényleges szolgálatteljesítésre történő behívás korlátozásának, a tényleges szolgálatteljesítés átütemezésnek, valamint elhalasztásának módját és feltételeit jogszabály határozza meg.
 

@@ -28,13 +28,13 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 4. a munkáltatói döntések és a jognyilatkozatok kiadásának rendjét, ezek tartalmi követelményeit, a képviselet szabályait, a külföldre utazás bejelentésének szabályait,
 
-5. az önkéntes tartalékos szolgálati viszony típusait, az önkéntes tartalékos katona behívásának rendjét, a szolgálatteljesítés átütemezésének, elhalasztásának módját, feltételeit és következményeit, valamint az ezekre vonatkozó kérelmek elbírálásának rendjét,
+5. az önkéntes tartalékos szolgálati viszony típusait, az önkéntes tartalékos katona behívását elrendelő okmány kiadásának feltételeit és tartalmi elemeit, a szolgálatteljesítés átütemezésének, elhalasztásának módját, feltételeit és következményeit, valamint az ezekre vonatkozó kérelmek elbírálásának rendjét,
 
 6. azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét,
 
 7. a rész-szolgálatteljesítés engedélyezésére vonatkozó szabályokat, a kérelem tartalmi elemeit,
 
-8. az állomány tagjára vonatkozó teljesítményértékelés ajánlott elemeit, és az ajánlott elemekhez kapcsolódó eljárási rendet, az önkéntes tartalékos katona, a honvéd tisztjelölt és a honvéd altiszt-jelölt teljesítményértékelésének elemeit, és a kapcsolódó eljárási rendet,
+8. az állomány tagjára vonatkozó teljesítményértékelés ajánlott elemeit, és az ajánlott elemekhez kapcsolódó eljárási rendet, a honvéd tisztjelölt és a honvéd altiszt-jelölt teljesítményértékelésének elemeit, és a kapcsolódó eljárási rendet,
 
 9. az előmeneteli rangsorolás, a kiválasztás, a minősítő vizsgára jelentkezés és vizsgáztatás rendjét, a vizsgáztatásért felelős szervezet kijelölését,
 
@@ -48,13 +48,13 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 14. a speciális, a fokozott igénybevétellel és veszéllyel járó, valamint az egészségkárosító kockázatoknak kitett beosztások körét, az azokhoz kapcsolódó részletes szabályokat, a 109. § (4) bekezdése szerinti beosztásokban pótszabadságra jogosultak körét, a pótszabadság kiadásának módját, valamint a kondicionáló-kiképzésen való részvétel esetén a pótszabadság napjainak beszámítására vonatkozó szabályokat,
 
-15. a katonai szolgálathoz, valamint a szolgálati beosztásokhoz kapcsolódó szakmai, egészségi, pszichikai, fizikai alkalmassági követelményeket, a szolgálati beosztások betöltéséhez szükséges iskolai végzettségi, szakképzettségi, szakképesítési, tanfolyami, és egyéb követelményeket, valamint az ezek alóli mentesítés szabályait,
+15. a honvédségi ösztöndíjas hallgatói jogviszonyhoz kapcsolódó egészségi, pszichikai alkalmassági követelményeket, a katonai szolgálathoz, valamint a szolgálati beosztásokhoz kapcsolódó szakmai, egészségi, pszichikai, fizikai alkalmassági követelményeket, a szolgálati beosztások betöltéséhez szükséges iskolai végzettségi, szakképzettségi, szakképesítési, tanfolyami, és egyéb követelményeket, valamint az ezek alóli mentesítés szabályait,
 
 16. az egészségi, pszichikai, fizikai alkalmassági követelmények felmérésének szabályait, a felmérést végző szervezetek kijelölését, az egészségi követelmények felmérésének költségeit, továbbá az egészségügyi szabadságra és szolgálatmentességre, valamint a hosszabb betegséget követő – lábadozási időszak alatti – csökkentett napi szolgálati időre vonatkozó szabályokat,
 
 17. a megváltozott egészségi állapot felülvizsgálatának eljárási rendjét, a felülvizsgálatot végző szervek és a felülvizsgálatban közreműködők kijelölését,
 
-18. az illetmény, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, a szerződés-hosszabbítási díj, a teljesítményjuttatás, a jubileumi jutalom, a szabadságmegváltás, a túlszolgálati díj és a céljuttatás megállapítására és folyósítására vonatkozó szabályokat,
+18. az illetmény, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás, a szerződés-hosszabbítási díj, a jubileumi jutalom, a szabadságmegváltás, a túlszolgálati díj és a céljuttatás megállapítására és folyósítására vonatkozó szabályokat, a teljesítményjuttatás megállapításának alapelveit,
 
 19. a fokozati vizsgakötelezettségre, a vizsgára jelentkezés és a vizsgáztatás rendjére, a vizsgáztatásért felelős szervezet kijelölésére, a fokozati vizsga halasztására, valamint a fokozati vizsga alóli mentesülésre vonatkozó részletes szabályokat,
 
@@ -66,7 +66,7 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 23. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját, a miniszter által vezetett minisztérium vagyonkezelésében álló lakások bérleti és különszolgáltatási díját, a lakott forgalmi értéke és a szolgálatban töltött idő figyelembevételével kialakítandó tényleges elidegenítési vételár képzését tartalmazó szabályokat, a végleges letelepedés támogatásának szabályait, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait, a legénységi állományúakra, az állomány próbaidős tagjára, a nyugállományú katonára vonatkozó eltérő szabályokat,
 
-24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az ügyelet, a készenlét elrendelésére, nyilvántartására és az ezt követő pihenőidő kiadására, valamint az ellentételezésük nyilvántartására, a visszarendelés következtében szolgálatteljesítéssel töltött idő ellentételezésére, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, amelyekhez az éves szolgálatteljesítési időkeret kapcsolható,
+24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az őr-, az ügyeleti és a készenléti szolgálat, továbbá a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölésen alapuló egyéb készenléti tevékenység elrendelésére, nyilvántartására, az ezeket követő pihenőidő vagy szabadnap kiadására,, valamint az ellentételezésük nyilvántartására, a visszarendelés következtében szolgálatteljesítéssel töltött idő ellentételezésére, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, amelyekhez az éves szolgálatteljesítési időkeret kapcsolható,
 
 25. a baleseti járadékra való jogosultság vizsgálatának szabályait, a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, valamint a szolgáltatások térítésének szabályait,
 
@@ -92,11 +92,11 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 36. a kérelem, a szolgálati panasz és a fellebbezés elbírálásának rendjét,
 
-37.
+37. a szolgálati viszony fenntartására vonatkozó megállapodás alapján fizethető díjazással, az annak visszafizetésével, a visszafizetési kötelezettség alóli mentesüléssel, a megállapodásban vállalt szolgálati idő számításával, a megállapodás megszüntetésével és abból eredő követelésekkel kapcsolatos szabályokat,
 
 38. a szolgálaton kívüliekre irányadó sajátos szabályokat,
 
-39. a Honvédség által nyújtott tanulmányi támogatás formáját és mértékét, a tanulmányi szerződés megkötésének feltételeit, a megtérítési kötelezettség érvényesítésének rendjét és a fizetési könnyítés és a mentesítési eljárás szabályait.
+39. a Honvédség által nyújtott tanulmányi támogatás formáját és mértékét, a tanulmányi szerződés megkötésének feltételeit, a tanulmányi szerződés közös megegyezéssel történő megszüntetésének szabályait, a megtérítési kötelezettség érvényesítésének rendjét és a fizetési könnyítés és a mentesítési eljárás szabályait, valamint a honvédségi ösztöndíjas hallgatók ösztöndíjszerződéséből eredő megtérítési kötelezettség szabályait.
 
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 

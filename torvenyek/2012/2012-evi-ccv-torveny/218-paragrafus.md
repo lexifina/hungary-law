@@ -6,6 +6,8 @@ b) pihenőideje nem lehet kevesebb 8 óra időtartamnál, és
 
 c) részére hetente legalább 1 pihenőnapot ki kell adni.
 
+(1a) Az önkéntes tartalékos katona heti szolgálatteljesítési idejét a szerződésében kell rögzíteni, vagy azt a munkáltatói jogkört gyakorló a Hvt. szerinti belső rendelkezésben határozza meg.
+
 (2) Amennyiben a tényleges szolgálatteljesítés időtartama az adott évben a 60 napot meghaladja, az önkéntes tartalékos katona szabadságra jogosult. A szabadság mértéke évente a tényleges szolgálatteljesítés időtartama szerint időarányosan 25 nap.
 
 (3) A 108. § (1) bekezdésében meghatározott esetekben az önkéntes tartalékos katona részére a felkészítés időszakában legfeljebb 2 munkanap szolgálatmentességi idő engedélyezhető.

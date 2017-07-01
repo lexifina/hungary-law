@@ -160,7 +160,7 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
-7.1. Tábornok tartós külföldi szolgálatra vezénylése
+7.1. Tábornok tartós külföldi szolgálatra vezénylése és annak megszüntetése a képzésre vezénylés kivételével
 
 |
 

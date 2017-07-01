@@ -16,7 +16,7 @@ g) ha az egészségkárosodási ellátásra jogosult neki felróható okból nem
 
 h) ha a határozott időtartamra megállapított egészségkárosodási ellátásra való jogosultság nem kerül meghosszabbításra,
 
-i) ha az állomány volt tagja másik, a 68/B. § (4) bekezdésébe nem tartozó foglalkoztatásra irányuló jogviszonyt létesít,
+i) ha az állomány volt tagja a 68/B. § (4) bekezdésébe nem tartozó munkáltatóval foglalkoztatásra irányuló jogviszonyt létesít,
 
 j) ha a honvédelmi egészségkárosodási járadékra jogosulttal szemben a jogosultság időtartama alatt szándékos bűncselekmény elkövetése miatt a bíróság jogerősen szabadságvesztést vagy elzárást szabott ki, vagy kényszergyógykezelését rendelte el.
 

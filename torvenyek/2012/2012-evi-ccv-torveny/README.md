@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2016-07-01 | 2016. évi XXXVIII. törvény | 2012-205-00-00.22 |
 | 2017-01-01 | 2016. évi CLXXXIV. törvény | 2012-205-00-00.23 |
 | 2017-03-24 | 2017. évi XIII. törvény | 2012-205-00-00.24 |
+| 2017-07-01 | 2017. évi LIV. törvény | 2012-205-00-00.25 |

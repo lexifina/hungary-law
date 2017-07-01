@@ -6,7 +6,7 @@ a) az egészségi állapota miatt katonai szolgálatra vagy szolgálati beosztá
 
 b) esetében a (2) vagy (3) bekezdésben foglalt feltételek megállapíthatóak,
 
-c) a Tny. szerinti saját jogú nyugellátásra vagy a Kenytv. szerinti szolgálati járandóságra nem jogosult,
+c) a Tny. szerinti saját jogú nyugellátásra vagy a Kenytv. szerinti szolgálati járandóságra nem vált jogosulttá,
 
 d) a (4) és (5) bekezdésben, valamint a 68/B. § (6) bekezdésében meghatározott kizáró ok nem áll fenn, és
 
@@ -16,7 +16,7 @@ e) a 68/B. § (1)–(5) bekezdésében foglaltak alapján továbbfoglalkoztatás
 
 a) akit a baleset, betegség ténylegesen a szolgálatellátása során ért, és
 
-b) akinek esetében a baleset, betegség szolgálati kötelmekkel való összefüggését a 142. § (2) és (3) bekezdése alapján megállapították,
+b) akinek esetében a baleset, betegség szolgálati kötelmekkel való összefüggését megállapították,
 
 függetlenül attól, hogy az állomány tagja, volt tagja hány év tényleges szolgálati viszonyban töltött idővel rendelkezik.
 
@@ -44,4 +44,6 @@ h) által folytatott, a kötelező egészségbiztosítás ellátásairól szól�
 
 (5) Nem állapítható meg egészségkárosodási ellátás annak, aki egészségi alkalmatlansága megállapításának időpontjában nyugdíj előtti rendelkezési állományban van.
 
-(6) Az állomány tagja a 68/B. § (4) bekezdésében foglalt határidő végéig kérheti az egészségkárosodási ellátásra jogosultság megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését. E határidő elmulasztása jogvesztő.
+(6) Az állománynak a 46. § (1) bekezdés t) pontja szerinti feltételeknek megfelelő tagja az egészségkárosodási ellátásra való jogosultság tárgyában történő döntés meghozataláig az egészségkárosodási ellátás megállapítása helyett a 48. § alapján rendelkezési állományba helyezhető. Az állomány tagja az egészségkárosodási ellátásra való jogosultság tárgyában történő döntés meghozataláig az egészségkárosodási ellátás megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését, vagy az 59. § (5) bekezdése szerinti esetben a szolgálati viszony szerződésben megállapított határozott idő letelte szerinti megszűnésének megállapítását is kérheti. E határidő elmulasztása jogvesztő.
+
+(7) Az egészségkárosodási ellátással kapcsolatos eljárás miniszteri rendeletben meghatározott esetekben felfüggeszthető. A felfüggesztésről szóló döntés ellen önálló jogorvoslatnak nincs helye, az az egészségkárosodási ellátást megállapító vagy elutasító határozat elleni jogorvoslat keretében támadható meg.

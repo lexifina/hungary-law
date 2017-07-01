@@ -38,7 +38,13 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 12a. honvédelmi illetményalap: az évente, a központi költségvetésről szóló törvényben megállapított honvédelmi illetményalap, amely nem lehet alacsonyabb összegű az előző évi honvédelmi illetményalapnál,
 
-13. honvédségi szervezet: a miniszter által vezetett minisztérium, a miniszter irányítása alatt álló központi hivatal, a miniszter közvetlen alárendeltségébe tartozó szervezet, és a Magyar Honvédség (a továbbiakban: Honvédség) hadrendje szerinti szervezet,
+12b. honvédségi ösztöndíjas hallgató: az állomány tagjának, honvéd tisztjelöltnek és honvéd altiszt-jelöltnek nem minősülő személy,
+
+a) aki felsőoktatási intézmény nappali munkarendű felsőfokú alapképzésében, mesterképzésében vagy osztatlan képzésében tanulmányokat folytat, vagy iskolai rendszerű, nappali munkarendű szakképzés keretében az Országos Képzési Jegyzékben szereplő államilag elismert szakképesítések közül a Magyar Honvédségben (a továbbiakban: Honvédség) rendszeresített katonai beosztások betöltéséhez szükséges szakképesítést szerez meg, és
+
+b) akinek tanulmányait a miniszter által alapított ösztöndíj elnyerését követően a Honvédség ösztöndíjszerződés alapján támogatja, és ezért ösztöndíjszerződésben vállalja, hogy tanulmányait meghatározott időn belül befejezi, valamint ezt követően az ösztöndíjszerződésben meghatározottak szerint szolgálati viszonyt létesít, és azt meghatározott ideig fenntartja,
+
+13. honvédségi szervezet: a miniszter által vezetett minisztérium, a miniszter irányítása alatt álló központi hivatal, a miniszter közvetlen alárendeltségébe tartozó szervezet, és a Honvédség hadrendje szerinti szervezet,
 
 14. ideiglenes külföldi szolgálat: olyan külföldi szolgálat, amelynek időtartama tervezetten nem haladja meg a 90 napot,
 
@@ -92,7 +98,7 @@ a) akit a fegyveres erők és a fegyveres testületek hivatásos állományának
 
 b) aki öregségi nyugdíjban, más olyan pénzbeli ellátásban részesül, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani, vagy megváltozott munkaképességűek ellátásában részesül, feltéve, hogy annak megállapítását közvetlenül megelőző utolsó szolgálati viszonya a Honvédséggel vagy a Katonai Nemzetbiztonsági Szolgálattal (a továbbiakban: KNBSZ) állt fenn,
 
-kivéve, ha a szolgálati viszonya lefokozás vagy szolgálati viszony megszüntetése fenyítés kiszabásával, büntetőeljárás keretében szolgálati viszony megszüntetése, lefokozás, szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, vagy méltatlanná válás, kifogástalan életvitel követelményének való meg nem felelés, nemzetbiztonsági szempontból katonai szolgálatra alkalmatlanság miatt szűnt meg,
+kivéve, ha a szolgálati viszonya lemondás, a szerződéses állomány tagjának egyoldalú szerződésbontása, lefokozás vagy szolgálati viszony megszüntetése fenyítés kiszabásával, büntetőeljárás keretében szolgálati viszony megszüntetése, lefokozás, szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, vagy méltatlanná válás, kifogástalan életvitel követelményének való meg nem felelés, nemzetbiztonsági szempontból katonai szolgálatra alkalmatlanság miatt szűnt meg,
 
 31. önkéntes tartalékos katona: az a katona, aki szerződésben vállalja az e törvényben meghatározott feltételrendszer szerint a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 41. § (5) bekezdésében foglaltakat,
 

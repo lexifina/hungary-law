@@ -10,4 +10,4 @@ a) a tiszti állomány legalább főhadnagy rendfokozatot elért,
 
 b) az altiszti állomány legalább törzsőrmesteri rendfokozatot elért,
 
-általános előmeneteli rendbe tartozó beosztást betöltő tagjának viselt rendfokozata szerinti maximális várakozási idejét, annak leteltekor – az érintett beleegyezésével – alkalmanként legfeljebb 3 évvel szolgálati érdekből meghosszabbíthatja. A meghosszabbítás időtartama alatt az állomány tagja további értékelése alapján tervezhető előmenetelre.
+általános előmeneteli rendbe tartozó beosztást betöltő tagjának viselt rendfokozata szerinti maximális várakozási idejét, annak leteltekor – az érintett beleegyezésével – alkalmanként legfeljebb 5 évvel szolgálati érdekből meghosszabbíthatja. A meghosszabbítás időtartama alatt az állomány tagja további értékelése alapján tervezhető előmenetelre.

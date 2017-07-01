@@ -2,7 +2,7 @@
 
 38. § (1) Állományba vételkor a szerződésben
 
-a) a szerződéses pályakezdő esetén 6 hónap
+a) a közkatona és a szerződéses pályakezdő esetén 6 hónap
 
 b) az a) pont alá nem tartozó szerződéses katona esetén legalább 3 hónap, legfeljebb 6 hónapig terjedő
 
@@ -18,7 +18,9 @@ b) kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, 
 
 (4) A próbaidő alatt a szolgálati viszonyt bármelyik fél indokolás nélkül azonnali hatállyal megszüntetheti. Ebben az esetben a szerződéses állomány tagja a próbaidős rendfokozatát elveszti.
 
-(5) A fizikai alkalmassági követelményeket legkésőbb a próbaidő leteltéig kell teljesíteni.
+(4a) A honvédségi ösztöndíjas hallgató ösztöndíjszerződése alapján létesített szolgálati viszony (4) bekezdés szerinti, az állomány tagja általi, vagy az állomány tagjának felróható okból a Honvédség általi megszüntetése esetén az állomány tagja köteles a tanulmányi támogatás összegét a Honvédség részére visszafizetni.
+
+(5) A fizikai alkalmassági követelményeket legkésőbb a próbaidő leteltéig kell teljesíteni. Ha próbaidő nem kerül kikötésre, a fizikai alkalmassági követelményeket legkésőbb a szolgálati viszony létesítését követő 6 hónapon belül kell teljesíteni.
 
 (6) Az állomány tagja miniszteri rendeletben meghatározottak szerint alapkiképzésben, valamint a Honvédség és a szolgálati beosztása sajátosságainak megfelelő tanfolyami képzésben köteles részt venni. Ha a szerződéses pályakezdő esetén a (4) bekezdés alkalmazására az alapkiképzés befejezése előtt kerül sor, későbbi állományba vétel esetén az érintett e törvény alkalmazásában ismételten szerződéses pályakezdőnek minősül.
 

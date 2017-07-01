@@ -4,19 +4,19 @@
 
 (2) A szülési szabadságot az (1) bekezdés szerinti időtartamból még hátralévő időre engedélyezni kell továbbá
 
-a) annak a nőnek, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette, a gondozásba vétel napjától,
+a) annak a nőnek, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, a gondozásba vétel napjától,
 
-b) annak a gyámnak, aki a csecsemőt jogerős döntés alapján gondozza, a kirendelés napjától,
+b) annak a gyámnak, aki a gyermeket jogerős döntés alapján gondozza, a kirendelés napjától,
 
-c) a csecsemőt gondozó vér szerinti apának, ha a szülő nő igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
+c) a gyermeket gondozó vér szerinti apának, ha a szülő nő igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
 
-d) a csecsemőt gondozó vér szerinti apának, ha a szülő nő meghal, az elhalálozás napjától,
+d) a gyermeket gondozó vér szerinti apának, ha a szülő nő meghal, az elhalálozás napjától,
 
-e) annak a férfinak, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette, ha a gyermeket vele együtt örökbe fogadni szándékozó nő az egészségügyi szolgáltató által igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
+e) annak a férfinak, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, ha a gyermeket vele együtt örökbe fogadni szándékozó nő az egészségügyi szolgáltató által igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
 
-f) annak a férfinak, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette, ha a gyermeket örökbe fogadni szándékozó nő meghal, az elhalálozás napjától, és
+f) annak a férfinak, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, ha a gyermeket örökbe fogadni szándékozó nő meghal, az elhalálozás napjától, és
 
-g) annak a férfinak, aki a csecsemőt egyedül vette örökbefogadási szándékkal nevelésbe, a gondozásba vétel napjától.
+g) annak a férfinak, aki a gyermeket egyedül vette örökbefogadási szándékkal nevelésbe, a gondozásba vétel napjától.
 
 (3) A szülési szabadság igénybe nem vett részét, ha a gyermeket a koraszülöttek ápolására fenntartott intézetben gondozzák, a szülést követő 1 év elteltéig a gyermeknek az intézetből történt elbocsátása után is igénybe lehet venni.
 

@@ -1,4 +1,4 @@
-40. § (1) Tanulmányai sikeres befejezésekor a honvéd tisztjelöltet hadnagy, a honvéd altiszt-jelöltet és a 32. § (1) bekezdés c) pontja alá tartozó személyt őrmester rendfokozattal kell állományba venni.
+40. § (1) Tanulmányai sikeres befejezésekor a honvéd tisztjelöltet hadnagy, a honvéd altiszt-jelöltet és a 32. § (1) bekezdés c) pontja alá tartozó személyt őrmester rendfokozattal kell állományba venni. A honvéd tisztjelölt és honvéd altiszt-jelölt miniszteri rendeletben meghatározottak szerint eggyel magasabb rendfokozattal is állományba vehető.
 
 (2) A szerződéses állományba vétel, valamint a 32. § (1) bekezdés e) pontja és a (2) bekezdés szerinti hivatásos állományba vétel során az első rendfokozatot az (1) bekezdésre, a szolgálati beosztáshoz előírt iskolai végzettségnek és szakképesítésnek megfelelő szakmai gyakorlat idejére, valamint a speciális előmeneteli rend szerinti várakozási időkre figyelemmel kell megállapítani úgy, hogy az tiszt esetén legfeljebb százados, altiszt esetén legfeljebb főtörzsőrmester lehet.
 

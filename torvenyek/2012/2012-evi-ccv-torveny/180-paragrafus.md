@@ -11,3 +11,5 @@ a) ha a szolgálati panasznak helyt ad, azt a kézhezvételtől számított 30 n
 b) ha a szolgálati panaszt megalapozatlannak tartja, azt a kézhezvételtől számított 30 napon belül az ügy összes iratával és az indokolással együtt felterjeszti a szolgálati panasz elbírálására jogosult munkáltatói jogkört gyakorlóhoz, és erről az állomány tagját írásban értesíti.
 
 (3) Miniszteri rendelet eltérő rendelkezése hiányában a szolgálati panasz elbírálására jogosult munkáltatói jogkört gyakorló a szolgálati panaszt annak kézhezvételétől számított 30 napon belül indokolt határozatban bírálja el, és döntését az állomány tagjával írásban közli. A határidő indokolt esetben, egy alkalommal, 30 nappal meghosszabbítható.
+
+(4) A 179. § (3) bekezdését a szolgálati panasz elbírálása során is alkalmazni kell.

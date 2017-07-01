@@ -1,4 +1,4 @@
-43. § (1) A munkáltatói jogkört gyakorló a szolgálati viszony módosításáról a szolgálat érdekében dönt. Jogszabály a jognyilatkozat megtételét az állomány tagjának kérelméhez, vagy beleegyezéséhez kötheti.
+43. § (1)
 
 (2) Az azonos vagy az alacsonyabb beosztásba áthelyezés kérelemre is történhet.
 

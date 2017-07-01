@@ -2,7 +2,7 @@
 
 103. § (1) Ha a szolgálat érdeke vagy rendkívüli eset megelőzése vagy elhárítása, következményeinek felszámolása, továbbá egyéb előre nem látható körülmény bekövetkezése szükségessé teszi, az állomány tagja munkanapon, heti pihenőnapon, munkaszüneti napon a szolgálatteljesítési időn túl is kötelezhető arra, hogy szolgálatot teljesítsen (a továbbiakban: túlszolgálat).
 
-(2) Nem minősül túlszolgálatnak az ügyeleti szolgálat, a készenléti szolgálat, a gyakorlaton való részvétel, és ha az állomány tagja az engedélyezett távollétének idejét megállapodás alapján ledolgozza.
+(2) Nem minősül túlszolgálatnak az ügyeleti szolgálat, a készenléti szolgálat, a 105. § (1) bekezdése szerinti őrszolgálat, a 105. § (4) bekezdése szerinti rendelkezésre állás, a gyakorlaton való részvétel, és ha az állomány tagja az engedélyezett távollétének idejét megállapodás alapján ledolgozza.
 
 (3) Nem kötelezhető túlszolgálatra az állomány nő tagja a várandósság megállapításától a gyermek 3 éves koráig, valamint a gyermekét egyedül nevelő a gyermeke 3 éves koráig.
 

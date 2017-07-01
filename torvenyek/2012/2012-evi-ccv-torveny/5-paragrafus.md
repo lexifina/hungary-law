@@ -4,7 +4,9 @@
 
 ## 4. Általános magatartási követelmények
 
-5. § (1) A szolgálati viszonyban a szolgálat érdekének elsődlegességét, valamint a Honvédség iránti közbizalom megóvását szem előtt tartva kell eljárni. Az állomány tagja szolgálatteljesítési időn kívül sem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, amely a honvéd etika szabályait sérti, a szolgálati viszonyhoz méltatlan, vagy amely a pártatlan, befolyástól mentes tevékenységét veszélyeztetné.
+5. § (1) A szolgálati viszonyban a szolgálat érdekének elsődlegességét, valamint a Honvédség iránti közbizalom megóvását szem előtt tartva kell eljárni.
+
+(1a) Az állomány tagja szolgálatteljesítési időn kívül sem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, amely a honvéd etika szabályait sérti, a szolgálati viszonyhoz méltatlan, vagy amely a pártatlan, befolyástól mentes tevékenységét veszélyeztetné.
 
 (2) A jogok gyakorlása és a kötelezettségek teljesítése során a jóhiszeműség és a tisztesség elvének megfelelően, kölcsönösen együttműködve kell eljárni, és nem lehet olyan magatartást tanúsítani, amely a másik fél jogát, jogos érdekét sérti.
 

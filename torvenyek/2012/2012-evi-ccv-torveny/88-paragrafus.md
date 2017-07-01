@@ -1,8 +1,8 @@
 ## 54. Képzésre történő vezénylés, tanulmányi szerződés
 
-88. § (1) Az állomány tagja csak olyan képzésre vezényelhető, amely az előmeneteléhez, a szakmai vagy a vezetői ismereteinek bővítéséhez közvetlenül kapcsolódik, ahhoz szükséges vagy azt elősegíti. A vezénylésre a 43. § (1) bekezdését megfelelően alkalmazni kell.
+88. § (1) Az állomány tagja csak olyan képzésre vezényelhető, amely az előmeneteléhez, a szakmai vagy a vezetői ismereteinek bővítéséhez közvetlenül kapcsolódik, ahhoz szükséges vagy azt elősegíti. A vezénylésre az 5. § (1) bekezdését és a 7. § (8a) bekezdését megfelelően alkalmazni kell.
 
-(2) A képzéshez a Honvédség által nyújtható támogatás formáját és mértékét miniszteri rendelet határozza meg. Kötelezően szolgálati viszonyban töltendő idő a képzés befejezését követő nappal kezdődik, és megegyezik a képzési idő kétszeresével, de legalább 1 év.
+(2) A képzéshez a Honvédség által nyújtható támogatás formáját és mértékét miniszteri rendelet határozza meg. Kötelezően szolgálati viszonyban töltendő idő a képzés sikeres befejezését követő nappal kezdődik, és megegyezik a képzési idő kétszeresével, de legalább 1 év.
 
 (3) A Honvédség által nyújtott támogatás megtérítésére köteles az állomány tagja, ha
 

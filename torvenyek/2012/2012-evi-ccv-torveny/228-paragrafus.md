@@ -4,7 +4,7 @@
 
 (2) A 61. § (3) bekezdése szerinti időszak kivételével a honvéd tisztjelölt a tisztjelölti szolgálati viszonyát egyoldalú jognyilatkozattal megszüntetheti. Ha a honvéd tisztjelölt kérelmére a felek rövidebb határidőben nem állapodnak meg, a tisztjelölti szolgálati viszony a jognyilatkozat közléstől számított 30 nap elteltével – a munkáltatói jogkört gyakorló külön intézkedése nélkül – megszűnik.
 
-(3) A munkáltatói jogkört gyakorló a tisztjelölti szolgálati viszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a honvéd tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti szolgálati viszony a jognyilatkozat közlésétől számított 30. nap elteltével megszűnik.
+(3) A munkáltatói jogkört gyakorló a tisztjelölti szolgálati viszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a honvéd tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha egészségi, pszichikai vagy fizikai állapota miatt, vagy nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti szolgálati viszony a jognyilatkozat közlésétől számított 30. nap elteltével megszűnik.
 
 (4) A tisztjelölti szolgálati viszony e törvény erejénél fogva szűnik meg
 

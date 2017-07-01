@@ -8,7 +8,7 @@
 
 (2) A Honvédség állományába tartozó, de a Honvédségnél szolgálati beosztást be nem töltő személy a 46–48. § szerinti feltételeknek való megfelelés esetén a 42. § (1) bekezdés b) pontja szerint rendelkezési állományba áthelyezhető és meghatározott időre rendelkezési állományban tartható.
 
-(3) Szolgálati beosztás betöltése és rendelkezési állományba helyezés nélkül is a Honvédség állományába tartozik a szerződéses pályakezdő.
+(3) Szolgálati beosztás betöltése és rendelkezési állományba helyezés nélkül is a Honvédség állományába tartozik a szerződéses pályakezdő, valamint az alapkiképzés teljesítéséig a közkatona.
 
 (4) Az állomány központi államigazgatási szervek védelmi igazgatással foglalkozó szervezeti elemeinél szolgálatot teljesítő tagjának szolgálati viszonyára az 54. § (1) bekezdés a)–c) pontját, valamint (2) bekezdését kell alkalmazni.
 
