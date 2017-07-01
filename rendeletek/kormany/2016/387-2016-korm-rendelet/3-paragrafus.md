@@ -14,7 +14,9 @@ f) a pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról 
 
 g) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 111. § (2) bekezdés m) pontjában,
 
-h) a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5. § (1) bekezdésében
+h) a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5. § (1) bekezdésében,
+
+i)[^1] a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: 39/2013. Korm. rendelet) 17. § (3) bekezdésében
 
 ## foglaltak tekintetében fogyasztóvédelmi hatóságként a minisztert jelöli ki.
 
@@ -50,7 +52,7 @@ e) a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes t
 
 a) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (7a) bekezdésében, a 36/A. § (2) bekezdés b) pontjában foglaltak,
 
-b) az Fgytv. 16/B. §-ában, 17/D. § (2) és (6a) bekezdésében, 29. § (11) bekezdésében, 37/B. §-ában foglaltak,
+b)[^2] az Fgytv. 16/B. §-ában, az Fgytv. 2. § h) pontja szerinti közszolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb vállalkozás esetében 17/A. §-ában, 17/B. §-ában, 17/D. § (2) és (6a) bekezdésében, 29. § (11) bekezdésében, 37/B. §-ában foglaltak,
 
 c) a gazdasági reklámok és az üzletfeliratok, továbbá egyes közérdekű közlemények magyar nyelvű közzétételéről szóló 2001. évi XCVI. törvény 4. § (1) és (2) bekezdésében foglaltak,
 
@@ -78,7 +80,39 @@ n) a Ht. 30. §-ában, 83. §-ában, 91. § (5) és (5a) bekezdésében foglalta
 
 o) az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény 11. §-ában foglaltak,
 
-p) a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában foglaltak
+p)[^3] a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában foglaltak,
+
+q)[^4] a kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) és f) pontjában foglaltak,
+
+r)[^5] a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 8. § (1) bekezdésében foglaltak,
+
+s)[^6] a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes törvényeknek a további rezsicsökkentéssel összefüggő módosításáról szóló 2013. évi CXIV. törvény 5. § (1) bekezdésében foglaltak
+
+## tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.
+
+(4a)[^7] A (4) bekezdésben foglaltakkal megegyezően a Kormány
+
+a) az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról szóló 140/2001. (VIII. 8.) Korm. rendelet 3. § (5) bekezdésében foglaltak,
+
+b) a háztartási gépek zajkibocsátási értékeinek feltüntetési kötelezettségéről szóló 142/2001. (VIII. 8.) Korm. rendelet 3. § (4) bekezdésében, 6. §-ában foglaltak,
+
+c) az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet 6. § (1) bekezdésében, 7. § (1), (2) és (4) bekezdésében, 8. §-ában foglaltak,
+
+d) a mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 11. § (6) bekezdésében, 12. § (4) bekezdés c) pontjában foglaltak,
+
+e) a polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 80. §-ában foglaltak,
+
+f) az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és előírt termékismertetővel történő megadásáról szóló 193/2011. (IX. 22.) Korm. rendelet 2. § 11. pontjában foglaltak,
+
+g) a mosó- és tisztítószerek forgalomba hozatalának feltételeiről és az ellenőrzés rendjéről szóló 329/2012. (XI. 16.) Korm. rendelet 1. § b) pontjában, 4. § (2) bekezdésében foglaltak,
+
+h) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet 14. § (1) bekezdés a) pontjában foglaltak,
+
+i) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet 25. § (6) bekezdésében foglaltak,
+
+j) a 39/2013. Korm. rendelet 17. § (1) bekezdés c) pontjában foglaltak,
+
+k) a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (1) bekezdés c) pontjában foglaltak
 
 ## tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.
 
@@ -102,9 +136,16 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 
 (8) A miniszter és a megyeszékhely szerinti járási hivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
 
-(9)[^1] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
+(9)[^8] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a járási hivatalt, a megyeszékhely szerinti járási hivatalt, valamint a Pest Megyei Kormányhivatalt jelöli ki.
 
-(10)[^2] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
+(10)[^9] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
 
-[^1]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
-[^2]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^1]: A 3. § (1) bekezdés i) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^2]: A 3. § (4) bekezdés b) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (4) bekezdés p) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (4) bekezdés q) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^5]: A 3. § (4) bekezdés r) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^6]: A 3. § (4) bekezdés s) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^7]: A 3. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 27. § (4) bekezdése iktatta be.
+[^8]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^9]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
