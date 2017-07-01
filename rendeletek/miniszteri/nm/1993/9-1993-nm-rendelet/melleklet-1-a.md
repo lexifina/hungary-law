@@ -6,8 +6,6 @@
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
@@ -44,13 +42,13 @@
 
 | R464 Békés Megyei Központi Kórház, Gyula |
 
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 | 2. 01001 HALO készülék |
 
 | Elszámolásra jogosult intézetek: |
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
@@ -92,6 +90,8 @@
 
 | R464 Békés Megyei Központi Kórház, Gyula |
 
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 | 3. 01010 Scoliosis implantátum |
 
 | Elszámolásra jogosult intézetek: |
@@ -123,8 +123,6 @@
 | Elszámolásra jogosult intézetek: |
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
@@ -184,11 +182,11 @@
 
 | R464 Békés Megyei Központi Kórház, Gyula |
 
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 | 6. 01063 Érprotézis dialízis shunt készítéséhez |
 
 | Elszámolásra jogosult intézetek: |
-
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
@@ -201,6 +199,8 @@
 | K403 Magyar Honvédség Egészségügyi Központ |
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 | 7. Keringéstámogató eszközök |
 
@@ -236,8 +236,6 @@
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
@@ -270,6 +268,8 @@
 
 | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 | 7/d. 01521 Hosszútávú keringéstámogató eszközök és tartozékai (műszív) |
 
 | Elszámolásra jogosult intézetek: |
@@ -287,8 +287,6 @@
 | 8. 01090 Pacemakerek, implantálható kardioverter-defibrillátorok és elektrodáik |
 
 | Elszámolásra jogosult intézetek: |
-
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
@@ -323,6 +321,8 @@
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
 | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 | 9. 01110 Szívbillentyűk (mű, biológiai) |
 
@@ -402,8 +402,6 @@
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
@@ -438,6 +436,8 @@
 
 | R464 Békés Megyei Központi Kórház, Gyula |
 
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 | 12. 01140 Peritoneo-venosus shunt |
 
 | Elszámolásra jogosult intézetek: |
@@ -460,8 +460,6 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 | 2894 Debreceni Egyetem Klinikai Központ |
 
 | 2912 Pécsi Tudományegyetem |
@@ -473,6 +471,8 @@
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
 | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 | 14. 0117A Sűrűfonatú öntáguló intracranialis stent |
 
@@ -526,8 +526,6 @@
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
@@ -557,6 +555,8 @@
 | N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | R464 Békés Megyei Központi Kórház, Gyula |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 | 18/b. 01340 CAD-CAM eljárással tervezett koponya- és arccsontpótló eszközök |
 
@@ -592,8 +592,6 @@
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
@@ -628,13 +626,13 @@
 
 | R464 Békés Megyei Központi Kórház, Gyula |
 
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 | 20. 01346 Implantálható tartós ér- és epiduralis katéter |
 
 | Elszámolásra jogosult intézetek: |
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
@@ -651,6 +649,8 @@
 | 2877 Heim Pál Gyermekkórház |
 
 | 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+
+| 2889 Szent Imre Kórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -669,6 +669,8 @@
 |  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 |  | R464 Békés Megyei Központi Kórház, Gyula |
+
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 |  | 21. 01349 Mamma protézis |
 
@@ -708,19 +710,17 @@
 
 |  | N511 Szent Margit Kórház |
 
-|  | N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
-
 |  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 |  | N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
+
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 |  | 22. 01350 Tissue expander, extender |
 
 |  | Elszámolásra jogosult intézetek: |
 
 |  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
@@ -752,6 +752,8 @@
 
 |  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 |  | 23. 01351 Mély-rectum és nyelőcső műtétek során használt anastomosis-varrógépek és tárak |
 
 |  | Elszámolásra jogosult intézetek: |
@@ -759,8 +761,6 @@
 |  | 1084 Bajai Szent Rókus Kórház |
 
 |  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 1454 Csongrád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely - Makó |
 
@@ -850,13 +850,13 @@
 
 |  | R464 Békés Megyei Központi Kórház, Gyula |
 
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 |  | 24. 0135C Nyílt tüdőműtét során használt varrógépek és tárak |
 
 |  | Elszámolásra jogosult intézetek: |
 
 |  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
@@ -883,6 +883,8 @@
 |  | K403 Magyar Honvédség Egészségügyi Központ |
 
 |  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 |  | 25. 0135E Egyszer használatos eszköz vacuum core biopszia (VCB) Mammotome-hoz |
 
@@ -913,8 +915,6 @@
 |  | Elszámolásra jogosult intézetek: |
 
 |  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
@@ -954,6 +954,8 @@
 
 |  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
+|  | N590 Kiskunhalasi Semmelweis Kórház |
+
 |  | N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
 
 |  | N594 Csolnoky Ferenc Kórház, Veszprém |
@@ -964,11 +966,11 @@
 
 |  | R464 Békés Megyei Központi Kórház, Gyula |
 
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 |  | 28. 0135K Húgyhólyag laparoszkopós bélműtétek során használt varrógépek, tárak és kiegészítő eszközök |
 
 |  | Elszámolásra jogosult intézetek: |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 2879 Jahn Ferenc Dél-pesti Kórház |
 
@@ -984,11 +986,11 @@
 
 |  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 |  | 29. 01360 Injektálható implantátum a vesico-ureterális reflux és az inkontinencia kezeléséhez |
 
 |  | Elszámolásra jogosult intézetek: |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
@@ -1005,6 +1007,8 @@
 |  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 |  | K403 Magyar Honvédség Egészségügyi Központ |
+
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 |  | 30. 01370 Végtagmegőrző endoprotézis (rosszindulatú alapbetegség kezelésében) |
 
@@ -1110,8 +1114,6 @@
 
 |  | Elszámolásra jogosult intézetek: |
 
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 |  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
 |  | 2912 Pécsi Tudományegyetem |
@@ -1121,6 +1123,8 @@
 |  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 |  | K403 Magyar Honvédség Egészségügyi Központ |
+
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 |  | 33. 01502 Szembetegségek kezeléséhez szükséges Ruthenium applikátor |
 
@@ -1141,6 +1145,8 @@
 |  | Elszámolásra jogosult intézetek: |
 
 |  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+
+|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
 |  | 2734 Zala Megyei Kórház |
 
@@ -1234,8 +1240,6 @@
 
 |  | Elszámolásra jogosult intézetek: |
 
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 |  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
 |  | 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
@@ -1258,7 +1262,9 @@
 
 |  | K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 41. Égési sérültek ellátásához használt bőrpótló készítmény |
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
+|  | 41. 01524 Égési sérültek ellátásához használt bőrpótló készítmény |
 
 |  | Elszámolásra jogosult intézetek: |
 
@@ -1271,8 +1277,6 @@
 |  | Elszámolásra jogosult intézetek: |
 
 |  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
@@ -1308,6 +1312,8 @@
 
 |  | R464 Békés Megyei Központi Kórház, Gyula |
 
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 |  | 43. Antiglaucoma implantátum |
 
 |  | 43/a. 01518 Antiglaucoma shunt implantátum |
@@ -1337,8 +1343,6 @@
 |  | 44. 01600 Beültethető szívmonitor |
 
 |  | Elszámolásra jogosult intézetek: |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
@@ -1374,13 +1378,13 @@
 
 |  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 |  | 45. 01700 Radioterápia során fellépő orális mucositis gyógyítására és megelőzésére alkalmas bevonószer |
 
 |  | Elszámolásra jogosult intézetek: |
 
 |  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-|  | 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 |  | 2891 Uzsoki utcai Kórház |
 
@@ -1398,6 +1402,18 @@
 
 |  | R464 Békés Megyei Központi Kórház, Gyula |
 
+|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
+|  | 46. 01111 Mellkasi aorta aneurysma/dissectio műtéti ellátása során használt hibrid graft |
+
+|  | Elszámolásra jogosult intézetek: |
+
+|  | 2915 Semmelweis Egyetem, Budapest |
+
+|  | 2896 Gottsegen György Országos Kardiológiai Intézet |
+
+|  | K403 Magyar Honvédség Egészségügyi Központ, Budapest |
+
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^97]
 
-[^97]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^97]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.

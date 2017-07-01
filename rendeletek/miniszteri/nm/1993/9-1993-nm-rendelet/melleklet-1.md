@@ -3,4 +3,4 @@
 1. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^96]
 
 [^95]: A 19. §-t a 17/2016. (VII. 22.) EMMI rendelet 1. §-a iktatta be.
-[^96]: Az 1. számú melléklet a 32/2016. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^96]: Az 1. számú melléklet a 32/2016. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.

@@ -26,8 +26,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1640 Petz Aladár Megyei Oktató Kórház, Győr
 
 ## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
@@ -54,11 +52,11 @@
 
 ## N511 Szent Margit Kórház, Budapest
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 1/a2.
 
@@ -76,8 +74,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1640 Petz Aladár Megyei Oktató Kórház, Győr
 
 ## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
@@ -104,11 +100,11 @@
 
 ## N511 Szent Margit Kórház, Budapest
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 1/b1.
 
@@ -124,8 +120,6 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1640 Petz Aladár Megyei Oktató Kórház, Győr
 
 ## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
@@ -152,11 +146,11 @@
 
 ## K403 Magyar Honvédség Egészségügyi Központ
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 1/b2.
 
@@ -172,8 +166,6 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1640 Petz Aladár Megyei Oktató Kórház, Győr
 
 ## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
@@ -200,11 +192,11 @@
 
 ## K403 Magyar Honvédség Egészségügyi Központ
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 2/a.
 
@@ -222,8 +214,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1640 Petz Aladár Megyei Oktató Kórház, Győr
 
 ## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
@@ -250,11 +240,11 @@
 
 ## N511 Szent Margit Kórház, Budapest
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 3.
 
@@ -300,8 +290,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -313,6 +301,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 4.
 
@@ -358,8 +348,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -371,6 +359,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 5.
 
@@ -406,11 +396,11 @@
 
 ## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 6/a1.
 
@@ -464,8 +454,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -477,6 +465,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 6/a2.
 
@@ -516,8 +506,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -529,6 +517,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 6/b.
 
@@ -578,8 +568,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -591,6 +579,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 6/c.
 
@@ -632,8 +622,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -645,6 +633,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 6/d.
 
@@ -722,8 +712,6 @@
 
 | N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
-| N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
-
 | N594 Csolnoky Ferenc Kórház, Veszprém |
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
@@ -731,6 +719,8 @@
 | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | R464 Békés Megyei Központi Kórház, Gyula |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 7/b1.
 
@@ -780,8 +770,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -789,6 +777,8 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 7/b2.
 
@@ -803,8 +793,6 @@
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
-
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
 
@@ -842,8 +830,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -851,6 +837,8 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 7/b3.
 
@@ -900,8 +888,6 @@
 
 ## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N594 Csolnoky Ferenc Kórház, Veszprém
 
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
@@ -909,6 +895,8 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 7/b4.
 
@@ -934,7 +922,7 @@
 
 ## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 7/b5.
 
@@ -948,8 +936,6 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
@@ -960,9 +946,9 @@
 
 ## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 7/b6.
 
@@ -976,8 +962,6 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
@@ -988,9 +972,9 @@
 
 ## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
 
-## N587 Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
-
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 7/b7.
 
@@ -1004,8 +988,6 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
@@ -1013,6 +995,8 @@
 ## 2912 Pécsi Tudományegyetem
 
 ## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 7/b8. pont
 
@@ -1060,8 +1044,6 @@
 
 | N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
-| N587 MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
-
 | N594 Csolnoky Ferenc Kórház, Veszprém |
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
@@ -1069,6 +1051,8 @@
 | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | R464 Békés Megyei Központi Kórház, Gyula |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 7/b9. pont
 
@@ -1082,7 +1066,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 2137 Kaposi Mór Oktató Kórház, Kaposvár 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház, Zalaegerszeg 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet, Budapest 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem, Budapest 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N587 MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház, Gyula |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 2137 Kaposi Mór Oktató Kórház, Kaposvár 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház, Zalaegerszeg 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet, Budapest 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem, Budapest 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 7/b10. pont
 
@@ -1130,8 +1114,6 @@
 
 | N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
-| N587 MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
-
 | N594 Csolnoky Ferenc Kórház, Veszprém |
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
@@ -1139,6 +1121,8 @@
 | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | R464 Békés Megyei Központi Kórház, Gyula |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 7/b11. pont
 
@@ -1154,15 +1138,19 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
-
 | 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
+| 2906 Országos Onkológiai Intézet |
+
 | 2912 Pécsi Tudományegyetem |
 
+| 2915 Semmelweis Egyetem |
+
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 8/a1.
 
@@ -1180,8 +1168,6 @@
 
 ## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1245,6 +1231,8 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/a2.
 
@@ -1262,8 +1250,6 @@
 
 ## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1327,6 +1313,8 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/a3.
 
@@ -1344,8 +1332,6 @@
 
 ## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1409,6 +1395,8 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/a4.
 
@@ -1430,8 +1418,6 @@
 
 ## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1495,6 +1481,8 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/a5.
 
@@ -1512,8 +1500,6 @@
 
 ## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1578,6 +1564,8 @@
 
 ## R464 Békés Megyei Központi Kórház, Gyula
 
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
 ## 8/a6. pont
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -1593,8 +1581,6 @@
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
 | 1301 Koch Róbert Kórház és Rendelőintézet, Edelény |
-
-| 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
 
@@ -1660,6 +1646,8 @@
 
 | R464 Békés Megyei Központi Kórház, Gyula |
 
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
 ## 8/b.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -1675,8 +1663,6 @@
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
 ## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
-
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
 
 ## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
 
@@ -1742,6 +1728,8 @@
 
 ## R464 Békés Megyei Központi Kórház, Gyula
 
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
 ## 8/c1.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -1760,8 +1748,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1817,6 +1803,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/c2.
 
@@ -1832,8 +1820,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1889,6 +1875,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/c3.
 
@@ -1904,8 +1892,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -1961,6 +1947,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/d1.
 
@@ -1976,8 +1964,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2033,6 +2019,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/d2.
 
@@ -2048,8 +2036,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2105,6 +2091,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/e2.1.
 
@@ -2160,8 +2148,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2217,6 +2203,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/e2.2.
 
@@ -2270,8 +2258,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2327,6 +2313,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/e2.3.
 
@@ -2396,8 +2384,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2453,6 +2439,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/e3.1.
 
@@ -2508,8 +2496,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2565,6 +2551,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/e3.2.
 
@@ -2618,8 +2606,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2675,6 +2661,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/e3.3.
 
@@ -2744,8 +2732,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2801,6 +2787,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/f.
 
@@ -2816,8 +2804,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1487 Dr. Bugyi István Kórház, Szentes
 
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
@@ -2873,6 +2859,8 @@
 ## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 9/a.
 
@@ -2984,8 +2972,6 @@
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
 
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
-
 ## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
 
 ## 1640 Petz Aladár Megyei Oktató Kórház, Győr
@@ -3032,6 +3018,8 @@
 
 ## R464 Békés Megyei Központi Kórház, Gyula
 
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
 ## 13.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -3043,8 +3031,6 @@
 ## 06044 humán normál immunglobulin
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
-
-## 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
 
 ## 2877 Heim Pál Gyermekkórház
 
@@ -3061,6 +3047,8 @@
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 14. pont
 
@@ -3106,13 +3094,13 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1349 Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház 1487 Dr. Bugyi István Kórház, Szentes 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 1928 Szent Lázár Megyei Kórház, Salgótarján 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ 2889 Szent Imre Kórház 2891 Uzsoki utcai Kórház 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem Klinikai Központ 2915 Semmelweis Egyetem, Budapest |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1487 Dr. Bugyi István Kórház, Szentes 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 1928 Szent Lázár Megyei Kórház, Salgótarján 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ 2889 Szent Imre Kórház 2891 Uzsoki utcai Kórház 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem Klinikai Központ 2915 Semmelweis Egyetem, Budapest |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen R464 Békés Megyei Központi Kórház, Gyula |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 15/b. pont
 
@@ -3138,4 +3126,4 @@
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^98]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja szerint módosított szöveg.
+[^98]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése szerint módosított szöveg.
