@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-111-00-00
 | 2015-02-01 | 2014. évi CIX. törvény | 2011-111-00-00.11 |
 | 2016-01-01 | 2015. évi CXCI. törvény | 2011-111-00-00.12 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2011-111-00-00.13 |
+| 2017-07-01 | 2016. évi LXVIII. törvény | 2011-111-00-00.14 |

@@ -72,7 +72,7 @@ g) a Nemzeti Adó- és Vámhivatal érintett szerve által titkos információgy
 
 h) a Nemzeti Adó- és Vámhivatal érintett szerve által végzett felderítés eszközeire, működésére vonatkozó összesített adatokat tartalmazó iratba, valamint
 
-i) a zár- és adójegyek védelmével kapcsolatban a Nemzeti Adó- és Vámhivatal érintett szerve által alkalmazott módszerek adataiba, valamint a nemzetközileg ellenőrzött termékek és technológiák forgalmára, az ellenőrzési tervekre, a megfigyelésekre és a körözések elrendelésére, illetve a katonai ügyekre vonatkozó adatokat tartalmazó iratba.
+i) az adóügyi jelzések védelmével kapcsolatban a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve által alkalmazott módszerek adataiba, valamint a nemzetközileg ellenőrzött termékek és technológiák forgalmára, az ellenőrzési tervekre, a megfigyelésekre és a körözések elrendelésére, illetve a katonai ügyekre vonatkozó adatokat tartalmazó iratba.
 
 (5) Az alapvető jogok biztosa az ügyészség nyomozást végző szervét érintő vizsgálata során nem tekinthet be
 
