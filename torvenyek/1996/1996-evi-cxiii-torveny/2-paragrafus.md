@@ -12,7 +12,7 @@
 
 5. kiutalási időpont: az adott kiutalási időszak utolsó napja;
 
-6. kiutalási időszak: az értékelési fordulónaptól a kiutalási időpontig tartó három hónap;
+6. kiutalási időszak: az értékelési fordulónaptól a kiutalási időpontig tartó kettő hónap;
 
 7. kollektív kamat: a lakáselőtakarékossági szerződésekben rögzített lakáskölcsönkamatoknak a ki nem utalt összes szerződéses összegben képviselt arányuk alapján súlyozott átlagos értéke;
 

@@ -6,7 +6,7 @@ a) a lakás-takarékpénztár szavatoló tőkéjének összesen 10%-át meg nem 
 
 b) a lakás-takarékpénztár az MNB engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet Magyarország területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
 
-c) lakáscélú finanszírozáshoz közvetlenül kapcsolódóan más pénzügyi intézmény, illetve biztosítóintézet részére pénzügyi szolgáltatás közvetítését (ügynöki tevékenységet) végezhet,
+c) lakáscélú finanszírozáshoz közvetlenül kapcsolódóan más pénzügyi intézmény, illetve biztosító részére pénzügyi szolgáltatás közvetítését, illetve biztosításközvetítői tevékenységet (ügynöki tevékenységet),
 
 d) a 10. és a 11. §-ban meghatározott hitelnyújtáshoz kapcsolódóan ingatlanértékelési tevékenységet végezhet.
 
