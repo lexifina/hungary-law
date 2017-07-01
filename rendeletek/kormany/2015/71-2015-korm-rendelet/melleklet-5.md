@@ -38,15 +38,17 @@
 
 | 12. | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | a honvédelmi és katonai célú építmények zajkibocsátásának vizsgálata kivételével: Csongrád megye Bács-Kiskun megye |
 
-## 1.2.2. A területi környezetvédelmi hatóság illetékességi területe környezeti rezgésmérések végzésének vonatkozásában
+## 1.2.2. A regionális laboratóriumot üzemeltető megyei kormányhivatal, illetve a területi környezetvédelmi hatóság illetékességi területe környezeti rezgésmérések végzésének vonatkozásában
 
 |  | A | B |
 
-| 1. | Területi környezetvédelmi hatóság | Illetékességi terület (megye) |
+| 1. | Regionális laboratóriumot üzemeltető megyei kormányhivatal/Területi környezetvédelmi hatóság | Illetékességi terület (megye) |
 
-| 2. | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest, Pest megye, Nógrád megye, Hajdú-Bihar megye, Békés megye, Szabolcs-Szatmár-Bereg megye, Borsod-Abaúj-Zemplén megye, Heves megye, Jász-Nagykun-Szolnok megye, Csongrád megye |
+| 2. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar megye, Békés megye, Szabolcs-Szatmár-Bereg megye, Borsod-Abaúj-Zemplén megye, Heves megye, Jász-Nagykun-Szolnok megye, Csongrád megye |
 
-| 3. | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Győr-Moson-Sopron megye, Komárom-Esztergom megye, Vas megye, Zala megye, Fejér megye, Tolna megye, Veszprém megye, Baranya megye, Somogy megye, Bács-Kiskun megye |
+| 3. | Fejér Megyei Kormányhivatal | Győr-Moson-Sopron megye, Komárom-Esztergom megye, Vas megye, Zala megye, Fejér megye, Tolna megye, Veszprém megye, Baranya megye, Somogy megye, Bács-Kiskun megye |
+
+| 4. | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Budapest, Pest megye, Nógrád megye |
 
 ## 1.2.3 A radiológiai vizsgálatokat valamennyi környezeti elem vonatkozásában országos illetékességi területtel a Baranya Megyei Kormányhivatal végzi.
 
@@ -114,7 +116,7 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 | 7. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti, vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Ha az egységes környezet- használati engedély megszerzésére irányuló eljárás termőföldet érint. | Termőföld mennyiségi védelmének követelményei tekintetében. |  |
 
-| 8. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik. | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából. | Magyar Bányászati és Földtani Hivatal |
+| 8. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik. | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából. | Magyar Bányászati és Földtani Szolgálat |
 
 | 9. | Ha a kérelem a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | területrendezésért felelős miniszter |
 
@@ -128,7 +130,7 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 | 14. | Gyorsforgalmi út esetén, ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti, vagy olyan környezet- veszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Gyorsforgalmi út esetén, ha az egységes környezethasználati engedély megszerzésére irányuló eljárás termőföldet érint. | Termőföld mennyiségi védelmének követelményei tekintetében. | - |
 
-| 15. | Gyorsforgalmi út esetén, ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik. | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából. | Magyar Bányászati és Földtani Hivatal |
+| 15. | Gyorsforgalmi út esetén, ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik. | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából. | Magyar Bányászati és Földtani Szolgálat |
 
 | 16. | Gyorsforgalmi út esetén, ha a kérelem a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | területrendezésért felelős miniszter |
 
@@ -136,4 +138,4 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 II. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban kijelölt szakhatóságok
 
-[^86]: Az 5. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés d) pontjával megállapított, a 139/2017. (VI. 9.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^86]: Az 5. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés d) pontjával megállapított, a 139/2017. (VI. 9.) Korm. rendelet 13. §-a, a 162/2017. (VI. 28.) Korm. rendelet 84. §-a szerint módosított szöveg.
