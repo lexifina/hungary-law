@@ -1,1 +1,0 @@
-3. § A RID Mellékletében foglalt rendelkezéseket a veszélyes áruk belföldi vasúti szállítására a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) belföldi alkalmazásáról szóló miniszteri rendeletben foglaltak szerint kell alkalmazni.
