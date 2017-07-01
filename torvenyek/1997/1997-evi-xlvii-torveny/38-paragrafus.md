@@ -2,7 +2,7 @@
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-a) az egészségügyi adatok kezelésének, valamint a 15–16/A. § és a 24. § szerinti adattovábbítás részletes előírásait, továbbá a 30. § szerinti kötelező nyilvántartások vezetésének szabályait,
+a) az egészségügyi adatok kezelésének és a 30. § szerinti kötelező nyilvántartások vezetésének szabályait, a 15–16/A. § és a 24. § szerinti adattovábbítás részletes előírásait, továbbá az egészségügyi dokumentáció kiadása során felmerülő költségek elemeinek meghatározását,
 
 b) a járványügyi érdekből felügyelet alá vont kórokozók, valamint a fertőző betegségek bejelentésével kapcsolatos kötelezettségeket,
 

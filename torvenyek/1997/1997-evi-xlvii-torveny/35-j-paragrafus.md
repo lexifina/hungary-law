@@ -4,7 +4,7 @@
 
 (2) Az egészségügyi profilban rögzített adatokat az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
 
-(3) Az egészségügyi profil nyilvántartásból az adat megismerésére jogosult EESZT felhasználó számára kizárólag egyedileg – TAJ számmal, ennek hiányában természetes személyazonosító adatokkal – azonosított érintettre vonatkozó adat továbbítható.
+(3) Az egészségügyi profil nyilvántartásból az adat megismerésére jogosult EESZT felhasználó számára kizárólag egyedileg – TAJ számmal, – azonosított érintettre vonatkozó adat továbbítható.
 
 (4) Az érintett jogosult megtiltani, hogy az (1) bekezdés szerinti adatait az érintett kezelőorvosa vagy háziorvosa rögzítse.
 

@@ -18,7 +18,7 @@
 
 (3) Az (1) bekezdés szerint megküldött dokumentumokról a működtető – annak érdekében, hogy az egészségügyi dokumentáció megismerésére jogosultak a 4. § (1) bekezdés a)–d) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján hozzáférhessenek – az EESZT útján nyilvántartást vezet, amely tartalmazza
 
-a) az érintett TAJ számát, akire az egészségügyi dokumentum vonatkozik,
+a) az érintett TAJ számát vagy ennek hiányában más azonosítóját, születési idejét, nemét,
 
 b) az egészségügyi dokumentum előállítójának azonosításához szükséges adatokat,
 

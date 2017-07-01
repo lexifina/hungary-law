@@ -6,7 +6,7 @@
 
 (3) Az (1) bekezdés szerinti bejelentés és az önrendelkezési nyilvántartás tartalmazza:
 
-a) az önrendelkezési nyilatkozatot tevő családi és utónevét,
+a)
 
 b) az önrendelkezési nyilatkozatot tevő TAJ számát,
 
@@ -22,4 +22,4 @@ a) a csatlakozott adatkezelő és az EESZT felhasználó számára abból a cél
 
 b) az adatkezelés jogszerűségének ellenőrzésére vagy megállapítására hatáskörrel rendelkező hatóság vagy bíróság számára, annak végrehajtható döntése alapján az adatkezelés jogszerűségének ellenőrzése céljából
 
-az érintett (3) bekezdés a) és b) pontjában meghatározott adatai alapján az EESZT útján adatot szolgáltat az érintett önrendelkezési nyilatkozatairól. Az adatszolgáltatást úgy kell teljesíteni, hogy abból az érintett egészségügyi vagy hozzá kapcsolódó, az adatkezelés céljához nem szükséges személyes adatára, annak fennállására vagy fennállásának hiányára ne lehessen következtetni.
+az érintett TAJ száma alapján az EESZT útján adatot szolgáltat az érintett önrendelkezési nyilatkozatairól. Az adatszolgáltatást úgy kell teljesíteni, hogy abból az érintett egészségügyi vagy hozzá kapcsolódó, az adatkezelés céljához nem szükséges személyes adatára, annak fennállására vagy fennállásának hiányára ne lehessen következtetni.

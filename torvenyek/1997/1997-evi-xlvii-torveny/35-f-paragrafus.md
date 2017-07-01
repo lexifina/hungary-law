@@ -2,7 +2,7 @@
 
 35/F. § (1) A 35/B. § (1) bekezdés a) pontja szerinti csatlakozott adatkezelő a 4. § (1) bekezdés a)–c) pontjában foglalt célból történő hozzáférhetővé tétel érdekében az EESZT útján a működtető rendelkezésére bocsátja az általa kezelt érintettel kapcsolatos alábbi adatokat:
 
-a) az érintett TAJ száma, családi és utóneve, születési ideje, neme, az EESZT útján továbbított vény és beutaló esetében a vényben és beutalóban foglalt egyéb személyazonosító adatok, az érintett EESZT-ben képzett azonosítója,
+a) az érintett TAJ száma vagy ennek hiányában más azonosítója, születési ideje, neme, állampolgársága az EESZT útján továbbított vény és beutaló esetében a vényben és beutalóban foglalt egyéb személyazonosító adatok, az érintett EESZT-ben képzett azonosítója,
 
 b) az ellátási esemény megjelölése, típusa, időpontja és időtartama, valamint miniszteri rendeletben meghatározott egyéb adatai és dokumentumai, valamint
 
