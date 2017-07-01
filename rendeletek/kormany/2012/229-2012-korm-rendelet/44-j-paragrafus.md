@@ -1,4 +1,4 @@
-## V/D. Fejezet[^174]
+## V/D. Fejezet[^176]
 
 ## A TÁMOGATÓ RENDSZER
 
@@ -40,4 +40,4 @@ ke) a középfokú nevelés-oktatásba tizenhatodik életévük betöltését k�
 
 (3) A (2) bekezdés b) és e) pontja szerinti esetekben a tantárgyat is meg kell adni.
 
-[^174]: Az V/D. Fejezetet (44/J. §-t) a 354/2016. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
+[^176]: Az V/D. Fejezetet (44/J. §-t) a 354/2016. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
