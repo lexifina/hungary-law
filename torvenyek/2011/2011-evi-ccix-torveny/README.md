@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-209-00-00
 | 2016-12-06 | 2016. évi CXXXVIII. törvény | 2011-209-00-00.24 |
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2011-209-00-00.25 |
 | 2017-06-23 | 2017. évi LXV. törvény | 2011-209-00-00.26 |
+| 2017-07-01 | 2017. évi LVII. törvény | 2011-209-00-00.27 |
