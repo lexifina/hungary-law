@@ -26,7 +26,7 @@
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -56,9 +56,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 7. | közúti közlekedés | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
-| 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 9. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 10. | rendészet | Kecskeméti Rendőrkapitányság | Bács-Kiskun Megyei Rendőr-főkapitányság |
 
@@ -72,4 +72,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 42. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 42. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
