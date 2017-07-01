@@ -28,7 +28,7 @@
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 14. | talajvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala | Komárom- Esztergom Megyei Kormányhivatal |
 
@@ -66,9 +66,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | állami célú légiközlekedés | honvédelemért felelős miniszter | nincs |
 
-| 10. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 11. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 11. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 12. | rendészet | Komárom-Esztergom Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -86,4 +86,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
