@@ -1,6 +1,6 @@
-## 21. §[^82] Ez a rendelet az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+## 21. §[^84] Ez a rendelet az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
 
-1. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^83]
+1. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^85]
 
 ## Értelmező rendelkezések
 
@@ -82,7 +82,7 @@ be) egy végtag ortézis és gyógyászati segédeszköznek minősülő gerinc o
 
 c) személyes mozgás nem testen viselt segédeszközei
 
-ca)[^84] egy karral működtetett járóeszközök
+ca)[^86] egy karral működtetett járóeszközök
 
 – hónalj- és könyökmankók, abban az esetben, ha a kérelmező protézis vagy ortézis állandó használatára az állapotából következően nem képes,
 
@@ -102,9 +102,9 @@ b) legalább két végtagra vagy egy végtagra és a törzsre kiterjedő tartós
 
 c) túlmozgással együttjáró súlyos mozgáskoordinációs zavara a járást vagy a motoros képességeket jelentős mértékben akadályozza.
 
-7.[^85] Kromoszóma-rendellenességgel élőnek kell tekinteni azt a személyt, aki az autoszómák vagy nemi kromoszómák teljes egészének vagy azok egy részletének többletével vagy hiányával született, és ebből adódóan állapota súlyos vagy középsúlyos.
+7.[^87] Kromoszóma-rendellenességgel élőnek kell tekinteni azt a személyt, aki az autoszómák vagy nemi kromoszómák teljes egészének vagy azok egy részletének többletével vagy hiányával született, és ebből adódóan állapota súlyos vagy középsúlyos.
 
-[^82]: A 21. §-t a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
-[^83]: Az 1. számú melléklet a 21/2003. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^84]: Az 1. számú melléklet 5. pontjának ca) alpontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^85]: Az 1. számú melléklet 7. pontját a 95/2013. (III. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^84]: A 21. §-t a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^85]: Az 1. számú melléklet a 21/2003. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^86]: Az 1. számú melléklet 5. pontjának ca) alpontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^87]: Az 1. számú melléklet 7. pontját a 95/2013. (III. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.

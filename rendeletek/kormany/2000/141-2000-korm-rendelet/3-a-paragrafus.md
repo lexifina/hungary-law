@@ -1,8 +1,8 @@
 ## A fogyatékossági támogatásra való jogosultság megállapítása
 
-3/A. §[^7] (1) A Kormány a fogyatékossági támogatás iránti eljárásban
+3/A. §[^7] (1)[^8] A Kormány a fogyatékossági támogatás iránti eljárásban
 
-a) első fokon eljáró fogyatékossági támogatási szervként – Pest megye kivételével – a fővárosi és megyei kormányhivatal megyeszékhely szerinti járási (fővárosi kerületi) hivatalát, a Pest Megyei Kormányhivatal Váci Járási Hivatalát, valamint Budapest Főváros Kormányhivatala VIII. Kerületi Hivatalát (a továbbiakban együtt: járási hivatal),
+a) első fokon eljáró fogyatékossági támogatási szervként a fővárosi és megyei kormányhivatal 3. számú melléklet szerinti járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal),
 
 b) másodfokon eljáró fogyatékossági támogatási szervként Budapest Főváros Kormányhivatalát (a továbbiakban: kormányhivatal)
 
@@ -17,3 +17,4 @@ b) másodfokon eljáró fogyatékossági támogatási szervként Budapest Fővá
 (5) A járási hivatalok és a kormányhivatal fogyatékossági támogatással kapcsolatos feladatkörének gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (4) bekezdésben meghatározottak kivételével.
 
 [^7]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 39. § (1) bekezdése iktatta be.
+[^8]: A 3/A. § (1) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
