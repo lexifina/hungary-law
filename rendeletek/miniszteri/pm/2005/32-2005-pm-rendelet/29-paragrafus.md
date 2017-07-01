@@ -16,7 +16,7 @@ e) a játékesemények törlésének, felfüggesztésének szabályait.
 
 (2) A játékterv mellékleteként csatolni kell a játék teljes szimulációjának leírását, valamint a felhasznált grafikák másolatát.
 
-(3) A módosított játékterv jóváhagyására irányuló kérelmet az állami adóhatóság által rendszeresített formanyomtatványon kell előterjeszteni.
+(3)[^96] A módosított játékterv jóváhagyására irányuló kérelmet a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell előterjeszteni.
 
 (4) A részvételi szabályzatban kell meghatározni különösen
 
@@ -34,7 +34,7 @@ e) a távszerencsejátékból és az online kaszinójátékból való átmeneti 
 
 a) a szervező elnevezését és székhelyét,
 
-b) a távszerencsejáték és az online szerencsejáték szervezésére vonatkozó engedély adatai közül az állami adóhatóság megnevezését, az engedélyezett játéktípusokat és az engedély időtartamát,
+b)[^97] a távszerencsejáték és az online szerencsejáték szervezésére vonatkozó engedély adatai közül a szerencsejáték-felügyeleti hatóság megnevezését, az engedélyezett játéktípusokat és az engedély időtartamát,
 
 c) a sérülékeny személyek játékban való részvételének korlátozását, és
 
@@ -46,4 +46,8 @@ d) a játéktervnek a játékos részvételét érintő egyéb szabályait.
 
 (8) A 2. § (3) bekezdés c) pontja szerinti költségvetésnek tartalmaznia kell a tervezett árbevétel, a tervezett költségek és a tervezett játékadó összegét, valamint az összesített játékosi egyenlegek becsült éves átlagos értékét.
 
-(9) A szervező az engedély jogerőre emelkedését követő 30 napon belül tájékoztatásul megküldi az állami adóhatóság részére az adatkezelési szabályzatát. Az adatkezelési szabályzat változásáról a szervező a változást követő 30 napon belül írásban tájékoztatja az állami adóhatóságot.
+(9)[^98] A szervező az engedély jogerőre emelkedését követő 30 napon belül tájékoztatásul megküldi a szerencsejáték-felügyeleti hatóság részére az adatkezelési szabályzatát. Az adatkezelési szabályzat változásáról a szervező a változást követő 30 napon belül írásban tájékoztatja a szerencsejáték-felügyeleti hatóságot.
+
+[^96]: A 29. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^97]: A 29. § (5) bekezdés b) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^98]: A 29. § (9) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) és g) pontja szerint módosított szöveg.

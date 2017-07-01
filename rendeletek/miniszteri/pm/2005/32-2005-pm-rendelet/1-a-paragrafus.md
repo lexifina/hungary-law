@@ -1,4 +1,4 @@
-1/A. §[^9] (1) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező az állami adóhatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell valamely, az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott, a rendszer auditálását igazoló okiratot.
+1/A. §[^9] (1)[^10] A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell valamely, az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott, a rendszer auditálását igazoló okiratot.
 
 (2) Zárt számítástechnikai rendszer útján előállított és kinyomtatott nyereményigazolás abban az esetben alkalmas szerencsejáték-felügyeleti azonosításra, ha szigorú számadás alá vonása úgy valósul meg, hogy a nyereményigazolás kibocsátására szolgáló számítástechnikai program kihagyás és ismétlés nélkül, folyamatosan biztosítja a sorszámozást, továbbá a nyereményigazolás-példányok hiánytalan elszámolása biztosított.
 
@@ -8,6 +8,8 @@
 
 (5) Ha a nyereményigazolás előállítása az egyes példányok egymás utáni nyomtatásával történik, akkor az összes példánynak tartalmaznia kell az egyedi sorszámot. Ha a nyereményigazolás kinyomtatása több példányos, összeszerelt és előnyomás nélküli papírra történik, akkor az összes példánynak tartalmaznia kell az arra való utalást, hogy a nyereményigazolás hány példányban készült.
 
-(6) A zárt számítástechnikai rendszeren keresztül kiállított nyereményigazolást legalább annyi példányban kell kinyomtatni, hogy a játékos részére átadható, illetve szükség szerint az állami adóhatóság részére megküldhető legyen. A nyereményigazolás átvételét a szervező köteles dokumentálni a nyertes nyereményigazolásra vezetett aláírásával, vagy a postán megküldött nyereményigazolás átvételét tartalmazó tértivevénnyel.
+(6)[^11] A zárt számítástechnikai rendszeren keresztül kiállított nyereményigazolást legalább annyi példányban kell kinyomtatni, hogy a játékos részére átadható, illetve szükség szerint a szerencsejáték-felügyeleti hatóság részére megküldhető legyen. A nyereményigazolás átvételét a szervező köteles dokumentálni a nyertes nyereményigazolásra vezetett aláírásával, vagy a postán megküldött nyereményigazolás átvételét tartalmazó tértivevénnyel.
 
 [^9]: Az 1/A. §-t a 40/2008. (XII. 31.) PM rendelet 1. §-a iktatta be.
+[^10]: Az 1/A. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^11]: Az 1/A. § (6) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.

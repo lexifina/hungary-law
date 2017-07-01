@@ -1,10 +1,10 @@
 ## Elszámolás, nyilvántartás, adatszolgáltatás
 
-73/K. § (1) A szervezőnek a játékbevételekről folyamatos elszámolást kell készíteni. Az elszámolásokat a szervező köteles az állami adóhatóság által rendszeresített bizonylatokon teljesíteni. A szervező a bizonylatok kitöltésére és kezelésére vonatkozó, a (2)–(4) bekezdésben, továbbá a 16–21. számú mellékletben foglalt előírásokat köteles betartani.
+73/K. § (1)[^198] A szervezőnek a játékbevételekről folyamatos elszámolást kell készíteni. Az elszámolásokat a szervező köteles a szerencsejáték-felügyeleti hatóság által rendszeresített bizonylatokon teljesíteni. A szervező a bizonylatok kitöltésére és kezelésére vonatkozó, a (2)–(4) bekezdésben, továbbá a 16–21. számú mellékletben foglalt előírásokat köteles betartani.
 
 (2) Az elszámolást kártyaasztalonként, verseny rendszerű lebonyolítás esetén versenyenként kell elvégezni és bizonylatolni. Részletesen szabályozni kell az asztalnyitás és az asztalzárás rendjét.
 
-(3) A kártyateremben folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá a naptári év végén a szervező köteles nyitó- és záró zsetonleltárt készíteni. A szervező köteles a leltár időpontjáról tíz nappal előtte az állami adóhatóságot értesíteni, továbbá a leltári ív egy példányát a leltárfelvételt követő nyolc napon belül megküldeni. A leltárívnek a következő adatokat kell tartalmaznia:
+(3)[^199] A kártyateremben folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá a naptári év végén a szervező köteles nyitó- és záró zsetonleltárt készíteni. A szervező köteles a leltár időpontjáról tíz nappal előtte a szerencsejáték-felügyeleti hatóságot értesíteni, továbbá a leltári ív egy példányát a leltárfelvételt követő nyolc napon belül megküldeni. A leltárívnek a következő adatokat kell tartalmaznia:
 
 a) a leltárfelvétel idejét, helyét,
 
@@ -20,7 +20,7 @@ a) a bizonylatokat szigorú számadás alá kell vonni,
 
 b) a szervezőnek gondoskodnia kell a bizonylatok biztonságos tárolásáról és a bizonylattömbök nyilvántartásáról,
 
-c) a bizonylatokat úgy kell tárolni, hogy a kártyaterem nyitvatartási ideje alatt az állami adóhatóság ellenőrei azokat megtekinthessék,
+c)[^200] a bizonylatokat úgy kell tárolni, hogy a kártyaterem nyitvatartási ideje alatt a szerencsejáték-felügyeleti hatóság ellenőrei azokat megtekinthessék,
 
 d) a bizonylatokat a rögzítendő eseményekkel egyidejűleg kell kitölteni, e tekintetben a bizonylat dátuma az adott játéknap,
 
@@ -28,12 +28,19 @@ e) hiba esetén a bizonylatot érvényteleníteni kell, és új bizonylatot kell
 
 f) a bizonylattömbben kihagyott, fel nem használt lapokat áthúzással érvényteleníteni kell,
 
-g) a bizonylat érvénytelenítésének okáról minden esetben jegyzőkönyvet kell felvenni és azt a rontott bizonylattal együtt a kialakított elszámolási bizonylatok beküldési rendje szerint kell megküldeni az állami adóhatósághoz,
+g)[^201] a bizonylat érvénytelenítésének okáról minden esetben jegyzőkönyvet kell felvenni és azt a rontott bizonylattal együtt a kialakított elszámolási bizonylatok beküldési rendje szerint kell megküldeni a szerencsejáték-felügyeleti hatósághoz,
 
 h) a bizonylatok első példányát ellenőrzés után, bizonylattípusonként, emelkedő sorszám szerint kell összeállítani és kísérő jegyzékkel ellátni,
 
-i) az elszámolási bizonylatok első példányát havonta kétszer, legkésőbb a hónap tizenötödik, valamint adatszolgáltatással együtt a hónap utolsó napját követő ötödik munkanapig kell benyújtani az állami adóhatósághoz.
+i)[^202] az elszámolási bizonylatok első példányát havonta kétszer, legkésőbb a hónap tizenötödik, valamint adatszolgáltatással együtt a hónap utolsó napját követő ötödik munkanapig kell benyújtani a szerencsejáték-felügyeleti hatósághoz.
 
 (5) A (4) bekezdés i) pontja szerinti adatszolgáltatásnak tartalmaznia kell a látogatók naponkénti létszámát, valamint a kártyaterem havi tiszta játékbevételét, játékadó alapját és játékadó fizetési kötelezettségét.
 
-(6) A szervező köteles a rendkívüli eseményekről az állami adóhatóságot haladéktalanul telekommunikációs eszköz útján tájékoztatni, egyúttal az eseményeket és az alkalmazott intézkedéseket tartalmazó okiratokat a videofelvételek megőrzésére vonatkozóan meghatározott ideig megőrizni.
+(6)[^203] A szervező köteles a rendkívüli eseményekről a szerencsejáték-felügyeleti hatóságot haladéktalanul telekommunikációs eszköz útján tájékoztatni, egyúttal az eseményeket és az alkalmazott intézkedéseket tartalmazó okiratokat a videofelvételek megőrzésére vonatkozóan meghatározott ideig megőrizni.
+
+[^198]: A 73/K. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^199]: A 73/K. § (3) bekezdés nyitó szövegrésze a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
+[^200]: A 73/K. § (4) bekezdés c) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^201]: A 73/K. § (4) bekezdés g) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
+[^202]: A 73/K. § (4) bekezdés i) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
+[^203]: A 73/K. § (6) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.

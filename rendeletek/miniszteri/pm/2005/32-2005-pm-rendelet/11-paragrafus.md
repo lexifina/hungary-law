@@ -1,4 +1,4 @@
-11. §[^46] (1)[^47] Az állami adóhatóság az ellenőrzést típusa szerint
+11. §[^49] (1)[^50] A szerencsejáték-felügyeleti hatóság az ellenőrzést típusa szerint
 
 a) folyamatos célellenőrzés,
 
@@ -12,8 +12,8 @@ e) utóvizsgálat
 
 ## útján végzi.
 
-(2)[^48] Az ellenőrzés módjai a helyszíni ellenőrzés, a táv-adatszolgáltatás, a távoli hozzáférés, okiratok bekérése és ellenőrzés az állami adóhatóság nyilvántartása(i) alapján.
+(2)[^51] Az ellenőrzés módjai a helyszíni ellenőrzés, a táv-adatszolgáltatás, a távoli hozzáférés, okiratok bekérése és ellenőrzés a szerencsejáték-felügyeleti hatóság nyilvántartása(i) alapján.
 
-[^46]: A 11. § a 19/2006. (VII. 31.) PM rendelet 4. §-ával megállapított szöveg.
-[^47]: A 11. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^48]: A 11. § (2) bekezdése a 15/2012. (VI. 28.) NGM rendelet 4. §-ával megállapított szöveg.
+[^49]: A 11. § a 19/2006. (VII. 31.) PM rendelet 4. §-ával megállapított szöveg.
+[^50]: A 11. § (1) bekezdés nyitó szövegrésze a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
+[^51]: A 11. § (2) bekezdése a 15/2012. (VI. 28.) NGM rendelet 4. §-ával megállapított, a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.

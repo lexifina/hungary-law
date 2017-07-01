@@ -12,6 +12,8 @@ b) a távszerencsejáték és az online kaszinójáték műszaki-informatikai re
 
 (3) A (2) bekezdés b) pontja esetén az auditnak ki kell terjednie
 
-a) a játékfunkciók körében különösen a véletlenszám-generátorra (a játékkaszinóban, vagy az állami adóhatóság által eseti, vagy állandó jelleggel engedélyezett más helyen folyó kaszinójátékban hírközlő eszköz vagy rendszer útján történő játék kivételével), a játékszabályokra, a részvételi feltételekre, a játékos nyilvántartásba vételére, a játékosi egyenleg kezelésére, az adatszolgáltatásra, a távoli hozzáférésre, valamint
+a)[^92] a játékfunkciók körében különösen a véletlenszám-generátorra (a játékkaszinóban, vagy a szerencsejáték-felügyeleti hatóság által eseti, vagy állandó jelleggel engedélyezett más helyen folyó kaszinójátékban hírközlő eszköz vagy rendszer útján történő játék kivételével), a játékszabályokra, a részvételi feltételekre, a játékos nyilvántartásba vételére, a játékosi egyenleg kezelésére, az adatszolgáltatásra, a távoli hozzáférésre, valamint
 
 b) a játékfunkcióknak a játékeseményekkel összhangban álló, manipulációmentes, valós és a játéktervnek megfelelő működésére.
+
+[^92]: A 26. § (3) bekezdés a) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-4. § (1)[^19] Az állami adóhatóság a személyi feltételek vizsgálatát követően, az állami adóhatóság által rendszeresített formanyomtatványon előterjesztett kérelemre hatósági bizonyítványt állít ki. A kérelemhez csatolni kell az 1. számú mellékletben foglalt okiratokat és adatokat, valamint a létesítő okiratot.
+4. § (1)[^21] A szerencsejáték-felügyeleti hatóság a személyi feltételek vizsgálatát követően, a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon előterjesztett kérelemre hatósági bizonyítványt állít ki. A kérelemhez csatolni kell az 1. számú mellékletben foglalt okiratokat és adatokat, valamint a létesítő okiratot.
 
 (2) A hatósági bizonyítvány szerencsejáték-szervező tevékenységre nem jogosít.
 
 (3) A hatósági bizonyítvány a kiállításának napjától számított egy évig érvényes.
 
-(4)[^20] Az állami adóhatóság a hatósági bizonyítványt a 2. számú mellékletben szereplő nyomtatványon adja ki.
+(4)[^22] A szerencsejáték-felügyeleti hatóság a hatósági bizonyítványt a 2. számú mellékletben szereplő nyomtatványon adja ki.
 
-[^19]: A 4. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése, a 17/2009. (IX. 29.) PM rendelet 67. § b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^20]: A 4. § (4) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdése a 17/2009. (IX. 29.) PM rendelet 67. § b) pontja, a 17/2017. (VI. 30.) NGM rendelet 11. § a)–b) pontja szerint módosított szöveg.
+[^22]: A 4. § (4) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § a) pontja szerint módosított szöveg.

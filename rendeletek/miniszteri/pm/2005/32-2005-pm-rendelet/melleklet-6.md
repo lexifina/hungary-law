@@ -74,6 +74,6 @@
 
 ## e) az adatszolgáltatási időszakban a játékban részt vevő játékosok száma.
 
-6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^235]
+6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^279]
 
-[^235]: A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § c) pontja iktatta be.
+[^279]: A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte, újonnan a 49/2015. (XII. 30.) NGM rendelet 15. § c) pontja iktatta be.

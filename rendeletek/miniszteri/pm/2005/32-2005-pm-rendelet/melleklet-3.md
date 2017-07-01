@@ -1,6 +1,6 @@
 ## Hatósági bizonyítvány
 
-## Állami adóhatóság:
+## Szerencsejáték-felügyeleti hatóság:
 
 ## Ügyintéző:
 
