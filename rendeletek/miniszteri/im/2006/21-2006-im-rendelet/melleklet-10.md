@@ -370,7 +370,7 @@
 
 ## ….................................................................................................................................
 
-10. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^55]
+10. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^58]
 
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -433,4 +433,4 @@
 [^60.]: Aláhúzással jelölendő.
 [^61.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
 [^62.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^55]: A 10. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés g) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés i) pontja szerint módosított szöveg.
+[^58]: A 10. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés g) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés i) pontja szerint módosított szöveg.
