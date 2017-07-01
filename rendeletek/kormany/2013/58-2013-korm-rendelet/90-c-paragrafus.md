@@ -1,4 +1,4 @@
-90/C. §[^281] (1) A beruházási tervrész, valamint a felújítási és pótlási tervrész az alábbi felsorolás szerinti bontásban tartalmazza a benyújtás évét követő 15 évre vonatkozó elvégzendő feladatokat:
+90/C. §[^285] (1) A beruházási tervrész, valamint a felújítási és pótlási tervrész az alábbi felsorolás szerinti bontásban tartalmazza a benyújtás évét követő 15 évre vonatkozó elvégzendő feladatokat:
 
 a) I. ütem: 1. év,
 
@@ -26,4 +26,4 @@ d) a jóváhagyott Tervben nem szereplő új feladat megvalósítása indokolt �
 
 (7) A Hivatal a (4) bekezdés c) pontjában meghatározott esetben a hozzájárulásról soron kívül dönt.
 
-[^281]: A 90/C. § a 342/2016. (XI. 17.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^285]: A 90/C. § a 342/2016. (XI. 17.) Korm. rendelet 34. §-ával megállapított szöveg.

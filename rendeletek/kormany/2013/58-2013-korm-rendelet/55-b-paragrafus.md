@@ -1,10 +1,12 @@
-55/B. §[^129] (1) A kiásott, nyílt és biztonságos munkavégzésre alkalmas munkaárokban a bekötővezeték kiépítését, fertőtlenítését, a helyszíni szemlét, a nyomáspróbát, a működőképességi és vízzárósági próbát, a geodéziai bemérést és a vízmérési helyen a bekötési vízmérő beszerelését a víziközmű-szolgáltató vagy az általa megbízott vállalkozó végzi. Ezek költségét, illetve díját az igénybejelentő köteles megelőlegezni.
+55/B. §[^134] (1)[^135] A kiásott, nyílt és biztonságos munkavégzésre alkalmas munkaárokban a bekötővezeték kiépítését, fertőtlenítését, a helyszíni szemlét, a nyomáspróbát, a működőképességi és vízzárósági próbát, a geodéziai bemérést és a vízmérési helyen a bekötési vízmérő beszerelését a víziközmű-szolgáltató vagy az általa megbízott vállalkozó végzi, amelynek megvalósítása nem lehet későbbi, mint a munkaárok rendelkezésre állásának bejelentését követő 30. nap. Ezek költségét, illetve díját az igénybejelentő köteles megelőlegezni, kivéve, ha jogszabály alapján mentesül a költség és díj megfizetése alól.
 
 (2) A víziközmű-szolgáltató vagy az általa megbízott vállalkozó az elszámolás alapjául szolgáló bekötési vízmérőt vagy mellékvízmérőt, a számlázás alapjául szolgáló mellékvízmérőt, telki vízmérőt, valamint szennyvízmennyiség-mérőt (a továbbiakban együtt: elszámolás alapjául szolgáló fogyasztásmérő) az üzembe helyezésekor illetéktelen beavatkozás, leszerelés megakadályozása céljából plombával vagy leszerelést megakadályozó zárral látja el.
 
-(3) A víziközmű-szolgáltató hozzájárulása nélkül végzett bekötés esetén az építtetőt a víziközmű-szolgáltató a jogkövetkezményekre történő figyelemfelhívással egyidejűleg, írásban, igazolható módon felszólítja a létesítmény szükség szerinti átalakítására, ha azzal a bekötés műszaki szempontból alkalmassá válik, és a víziközmű-szolgáltatás biztosításának egyéb akadálya nincs.
+(3)[^136] A víziközmű-szolgáltató hozzájárulása nélkül végzett bekötés esetén az építtetőt a víziközmű-szolgáltató a jogkövetkezményekre történő figyelemfelhívással egyidejűleg, a tudomásszerzést követő 5 napon belül írásban, igazolható módon felszólítja a létesítmény szükség szerinti átalakítására, ha azzal a bekötés műszaki szempontból alkalmassá válik, és a víziközmű-szolgáltatás biztosításának egyéb akadálya nincs.
 
-(4)[^130]
+(4)[^137]
 
-[^129]: Az 55/B. §-t a 342/2016. (XI. 17.) Korm. rendelet 18. §-a iktatta be.
-[^130]: Az 55/B. § (4) bekezdését a 440/2016. (XII. 16.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^134]: Az 55/B. §-t a 342/2016. (XI. 17.) Korm. rendelet 18. §-a iktatta be.
+[^135]: Az 55/B. § (1) bekezdése a 157/2017. (VI. 16.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^136]: Az 55/B. § (3) bekezdése a 157/2017. (VI. 16.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^137]: Az 55/B. § (4) bekezdését a 440/2016. (XII. 16.) Korm. rendelet 28. §-a hatályon kívül helyezte.
