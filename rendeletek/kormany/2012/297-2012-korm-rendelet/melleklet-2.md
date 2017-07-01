@@ -18,7 +18,7 @@
 
 | 8. | bányaszolgalom alapítására irányuló engedélyezési eljárás | illetékes megyei kormányhivatal | nincs |
 
-| 9. | építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítésének és használatbavételének engedélyezése | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -44,7 +44,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
 
-| 4. | Bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 4. | Bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 5. | Területrendezési előírásokkal való összhang | illetékes megyei kormányhivatal | területrendezésért felelős miniszter |
 
@@ -84,4 +84,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 23. | Építésügy | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 31. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) korm. rendelet 31. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
