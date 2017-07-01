@@ -1,5 +1,5 @@
 ## 5. A korhatár előtti ellátás és a szolgálati járandóság folyósításának szüneteltetése
 
-11. § (1) A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére a Tny. 83/B. § (1) és (2) bekezdését és 83/C. § (1), (2) és (4) bekezdését kell alkalmazni, azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
+11. § (1) A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére – a (2) bekezdésben meghatározott kivétellel - a Tny. 83/B. § (1) és (2) bekezdését és 83/C. § (1), (2) és (4) bekezdését kell alkalmazni, azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
 
-(2)
+(2) Szolgálati járandóság esetén a Tny. 83/B. § (1) bekezdése szerinti éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.
