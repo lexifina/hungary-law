@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2016-10-01 | 2009-19-20-22.53 | 202/2016. (VII. 21.) Korm. rendelet |
 | 2017-01-01 | 2009-19-20-22.54 | 458/2016. (XII. 23.) Korm. rendelet |
 | 2017-04-01 | 2009-19-20-22.55 | 458/2016. (XII. 23.) Korm. rendelet |
+| 2017-07-01 | 2009-19-20-22.56 | 157/2017. (VI. 16.) Korm. rendelet |
