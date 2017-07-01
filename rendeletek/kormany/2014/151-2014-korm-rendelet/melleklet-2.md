@@ -30,7 +30,7 @@
 
 | 14. | vízjogi hatósági engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 2. melléklet a 151/2014. (V. 6.) Korm. rendelethez[^13]
 
@@ -70,8 +70,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | területrendezés | Budapest Főváros Kormányhivatala | területrendezésért felelős miniszter |
 
-| 17. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 17. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 18. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 18. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 75. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 75. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 75. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 75. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
