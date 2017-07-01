@@ -1,1 +1,0 @@
-## 3. Automatikus szignálás
