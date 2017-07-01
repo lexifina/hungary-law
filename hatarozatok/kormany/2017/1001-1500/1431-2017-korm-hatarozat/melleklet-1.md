@@ -22,13 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:298 mezőjében a „2,05” szövegrész helyébe a „2,54” szöveg,
-
-## b) E:298 mezőjében a „0,13” szövegrész helyébe a „0,15” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1431/2017. (VI. 29.) Korm. határozathoz
 
@@ -37,3 +31,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Megnövelt önerő összege (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP- 2.2.2-15- 2015-00006 | Délkelet- Magyarországi szennyvízelvezetési és -kezelési fejlesztés 3. (DKMO 3) | Mezőhegyes Városi Önkormányzat és Méhkerék Község Román Nemzetiségi Települési Önkormányzat az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 2 034 958 157 | 496 095 283 | 144 595 635 | 2 531 053 440 | A projekt megvalósulásával a 2000 lakosegyenérték terhelést meghaladó kibocsátású szennyvízelvezetési agglomerációk megfelelő szennyvízkezelésének uniós jogban meghatározott feltételei teljesülnek. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
