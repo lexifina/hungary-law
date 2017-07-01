@@ -28,6 +28,8 @@ időtartamával.
 
 (5) A nevelőszülői foglalkoztatási jogviszony abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a nevelőszülő álláskeresési ellátásban nem részesül.
 
+(5a) Az (1) bekezdés szerinti jogosultsági időnek minősül a honvédek jogállásáról szóló törvény szerinti önkéntes tartalékos katona (a továbbiakban önkéntes tartalékos katona) tényleges szolgálatteljesítésének időtartama abban az esetben is, ha az önkéntes tartalékos katona ezen időtartam alatt nem áll munkaviszonyban.
+
 (6) A folyósítási idő számítása szempontjából a jogosultsági idő csak egyszer vehető figyelembe. Ha az álláskereső az álláskeresési járadék folyósításának számára meghatározott időtartamát teljes mértékben nem vette igénybe, az ismételt folyósításnál a járadékfolyósítás időtartamának alapját képező jogosultsági időt a tényleges járadékfolyósítási időtartamnak megfelelően csökkenteni kell. Ezt a rendelkezést alkalmazni kell a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személy által, az Európai Gazdasági Térség másik tagállamában igénybevett munkanélküli ellátás tekintetében is.
 
 (7)
