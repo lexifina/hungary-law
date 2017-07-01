@@ -1,6 +1,16 @@
 52. § (1) A felszámoló a felszámolás befejezésekor felszámolási zárómérleget, a bevételek és költségek alakulásáról kimutatást, záró adóbevallást, zárójelentést és vagyonfelosztási javaslatot készít, és mindezeket megküldi a bíróságnak és a záró mérleg elkészítésének napját követő napon az adóhatóságnak, valamint intézkedik a gazdálkodó szervezet iratanyagának az elhelyezéséről. Az adóhatósághoz a záró adóbevallás benyújtásával egyidejűleg az adót is meg kell fizetni.
 
-(2) A felszámolás kezdő időpontjától számított két év elteltével a felszámolási zárómérleg elkészítése kötelező, kivéve, ha az adós ellen folyó per hitelezője pernyertessége esetében – a hitelezőnek a kielégítési sorrendben elfoglalt helyére tekintettel – mód van a hitelező követelésének legalább részbeni kielégítésére.
+(2) A felszámolás kezdő időpontjától számított két év elteltével a felszámolási zárómérleg elkészítése kötelező, kivéve, ha
+
+a) az adós ellen indított folyamatban lévő per vagy hatósági eljárás jogerős befejezése a hitelezői igény megállapításához szükséges, vagy
+
+b) még nem fejeződtek be
+
+ba) a 33/A. § alapján felszámoló által indított megállapítási perek,
+
+bb) a 40. § alapján kezdeményezett eljárások vagy az adós vagyona terhére kötött fedezetelvonó szerződésekre alapított eljárások, vagy
+
+bc) a vitatott igény elbírálására vagy kifogás alapján indult eljárások.
 
 (3) A felszámolási zárómérleg tartalmazza:
 
@@ -10,7 +20,7 @@ b) a megmaradt (nem értékesített) vagyontárgyakat, piaci értéken,
 
 c) a be nem hajtott követeléseket,
 
-d) a ki nem egyenlített tartozásokat, ideértve a felszámolási költségek miatti tartozásokat is, könyv szerinti értéken,
+d) a ki nem egyenlített tartozásokat hitelezőkénti bontásban, ideértve a felszámolási költségek miatti tartozásokat is, könyv szerinti értéken,
 
 e) a fel nem osztható vagyont,
 

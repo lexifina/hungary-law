@@ -14,7 +14,7 @@ d) azt, ha a felszámolási eljárást csődeljárás előzte meg;
 
 e) utalást arra, hogy a felszámolás kezdő időpontja a felszámolást elrendelő jogerős végzés Cégközlöny honlapján történő közzétételének napja,
 
-f) a hitelezőknek [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be;
+f) a hitelezőknek [ideértve a zálogjogosultat, az alzálogjog jogosultját, továbbá a zálogjogosulti bizományost is – ez utóbbit abban az esetben is, ha a biztosított követelés nem, vagy nemcsak őt illeti meg – valamint a biztosítéki célú vételi jog alapításával, illetve jog vagy követelés biztosítéki célú átruházásával érintett, a hitelbiztosítéki nyilvántartásba vagy ingatlan-nyilvántartásba bejegyzett jogosultakat, továbbá a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be;
 
 g) a felszámoló nevét, székhelyét, adószámát, valamint a felszámolóbiztos nevét, lakóhelyét vagy a személyi adat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét;
 

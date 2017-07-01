@@ -16,7 +16,17 @@ bc) azok a követelések, amelyek jogosultja olyan gazdálkodó szervezet, amely
 
 bd) azok a követelések, amelyek az adós által a csődeljárás iránti kérelem benyújtását megelőzően kevesebb mint 180 nappal megelőző tartozásátvállalásából erednek, vagy amelyek jogosultja olyan hitelező, aki mint szerződéses engedményezővel szemben – a csődeljárás iránti kérelem benyújtását kevesebb mint 180 nappal megelőzően kötött engedményezési szerződésből eredően – érvényesít az adóssal szemben kezesi felelősségből eredő igényt, a kötelezett teljesítésének elmaradására tekintettel.
 
-(3) A (2) bekezdés b) pontja szerint biztosított az a követelés – a biztosítékul szolgáló vagyontárgy értéke erejéig –, amely kifizetésének biztosítására az adós mint zálogkötelezett vagyontárgyán zálogjogot, óvadékot alapítottak, továbbá, amelynek érvényesítése érdekében az adós vagyontárgyán végrehajtási jog van bejegyezve vagy a végrehajtás során az adós vagyontárgyát lefoglalták.
+(3) A (2) bekezdés b) pontja szerint biztosított
+
+a) a biztosítékul szolgáló vagyontárgy értéke erejéig az a követelés, amely kifizetésének biztosítására
+
+aa) az adós, mint zálogkötelezett vagyontárgyán a csődeljárás kezdeményezését megelőzően zálogjogot, alzálogjogot alapítottak – zálogjogosulti bizományos kijelölése esetén akkor is, ha e követelés nem vagy nemcsak a zálogjoggal rendelkező zálogjogosulti bizományost illeti meg –,
+
+ab) az adós vagyontárgyán a csődeljárás kezdeményezését megelőzően óvadékot alapítottak,
+
+ac) az adós vagyontárgyán a csődeljárás kezdeményezését megelőzően biztosítéki célból vételi jogot alapítottak, vagy az adóst megillető jognak vagy követelésnek biztosítéki célból történő átruházását kötötték ki, és az erre vonatkozó jogszerzési nyilatkozatot bejegyezték a hitelbiztosítéki nyilvántartásba, vagy a vételi jogot ingatlan-nyilvántartásba bejegyezték és a jogosult igazolni tudja, hogy a vételi jogot valamely követelése teljesítésének biztosítékául kötötte ki,
+
+b) az a követelés, amelynek érvényesítése érdekében az adós vagyontárgyán a csődeljárás kezdeményezését megelőzően végrehajtási jogot jegyeztek be, vagy végrehajtás során az adós vagyontárgyát lefoglalták.
 
 (4) A követelés részei a (2) bekezdés különböző kategóriáiba is besorolhatók. A követelés vagy követelésrész nem vitatottként történő besorolása nem minősül tartozáselismerésnek. Nem lehet vitatott követelésként nyilvántartásba venni a közokiratba foglalt hitelezői követelést [Pp. 195. §], ide nem értve, ha annak megfizetése részben vagy egészben már megtörtént.
 

@@ -1,19 +1,21 @@
-29. § A felszámolás elrendeléséről a bíróság értesíti:
+29. § (1) A felszámolás elrendeléséről a bíróság értesíti
 
-a)
+a) az állami adó- és vámhatóságot,
 
-b) az illetékes adó- és vámhatóságot, valamint az egészségbiztosítási szervet és a nyugdíjbiztosítási igazgatási szervet,
+b) az adós székhelye és fióktelepe (telephelye) szerint illetékes önkormányzati adóhatóságot,
 
-c) az állami foglalkoztatási szervet,
+c) az adós székhelye szerint illetékes egészségbiztosítási szervet és nyugdíjbiztosítási igazgatási szervet,
 
-d) a környezetvédelmi hatóságot és a munkavédelmi hatóságot,
+d) az állami foglalkoztatási szervet,
 
-e) a bíróság Gazdasági Hivatalát,
+e) a környezetvédelmi hatóságot és a munkavédelmi hatóságot,
 
-f) az adós székhelye szerint illetékes levéltárat;
+f) a bíróság Gazdasági Hivatalát,
 
-g) az adós számláit vezető valamennyi pénzforgalmi szolgáltatót,
+g) az adós székhelye szerint illetékes levéltárat,
 
-h) az ingatlanügyi hatóságot.
+h) a felszámoló adatszolgáltatása alapján az adós számláit vezető valamennyi pénzforgalmi szolgáltatót, és befektetési szolgáltatót,
 
 i) az alapítási, illetve tevékenységi engedélyt kiadó hatóságot, amennyiben az adós alapítási vagy tevékenységi engedélyhez kötött tevékenységet is folytat.
+
+(2) A bíróság a felszámoló által beszerzett tulajdoni lapok adatai alapján megkeresi az illetékes ingatlanügyi hatóságokat a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, továbbá az adós nevére vonatkozó adatváltozás átvezetése iránt. A megkeresést a Kormány által kijelölt ingatlanügyi hatóság útján kell megküldeni, és a megkereséshez mellékelni kell az érintett ingatlanok pontos megjelölését (település neve, helyrajzi szám) és a bejegyzéssel érintett tulajdoni hányadot, valamint a felszámolási eljárásra vonatkozó tény megjelölését.

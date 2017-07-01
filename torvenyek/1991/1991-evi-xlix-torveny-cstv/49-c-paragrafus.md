@@ -2,4 +2,4 @@
 
 (2) Ha az adós vagyonában olyan új építésű lakóingatlan van, amelynek ellenértékét a magánszemély vevő részben vagy egészben kiegyenlítette, de a tulajdonjog átruházására nem került sor a felszámolás elrendelése előtt, a vevőt az értékesítés során elővásárlási jog illeti meg.
 
-(3) A jogszabály vagy szerződés alapján elővásárlásra jogosult jogát a nyilvános értékesítésen vagy azt követően a felszámoló felhívására gyakorolhatja oly módon, hogy a véglegesen kialakult vételár ismeretében nyilatkozik vételi szándékáról.
+(3) A felszámolás elrendelését megelőzően közhiteles nyilvántartásba bejegyzett vagy jogszabály alapján elővásárlásra jogosult ezt a jogát a nyilvános értékesítésen vagy azt követően a felszámoló felhívására gyakorolhatja oly módon, hogy a véglegesen kialakult vételár ismeretében nyilatkozik vételi szándékáról.

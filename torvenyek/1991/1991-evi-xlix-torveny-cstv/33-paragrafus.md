@@ -5,3 +5,5 @@
 (3) Ha a felszámoló által megbízott szakértő az adósnál a vállalkozás számviteli rendjét érintő hiányosságokat, a mérleg, a főkönyvi könyvelés, a naplófőkönyv és az analitikus nyilvántartás közötti eltérést állapít meg, ezt köteles a felszámolóval írásban azonnal közölni.
 
 (4) A felszámoló a tudomására jutott bűncselekményt — ha az elkövető ismert, annak megjelölésével — köteles az eljárás lefolytatására illetékes hatóságnak írásban bejelenteni.
+
+(5) Ha a gazdálkodó szervezet vezetője a 31. § (1) bekezdés h) pontjában meghatározott tájékoztatási kötelezettségét nem teljesítette, a felszámoló köteles ezt teljesíteni.

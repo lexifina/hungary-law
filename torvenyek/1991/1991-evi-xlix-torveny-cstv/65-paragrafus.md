@@ -28,10 +28,10 @@ hirdetheti ki.
 
 a) amelynek működése nemzetbiztonsági, honvédelmi, rendvédelmi, haditechnikai, energiabiztonsági, energiaellátási, iparbiztonsági, katasztrófavédelmi, természetvédelmi, környezetvédelmi, közegészségügyi, közműszolgáltatási, infrastruktúra-fejlesztési, kulturális örökségvédelmi, tömegtájékoztatási, hírközlési, közlekedési, közlekedésbiztonsági, kutatásfejlesztési, népegészségügyi indokból vagy a lakosság alapvető közszolgáltatásokkal, alapvető élelmiszerekkel való ellátása szempontjából országos jelentőségűnek, valamint bel- és külgazdasági, foglalkoztatáspolitikai szempontból, vagy a lakosság távhőszolgáltatással vagy más közműszolgáltatással való ellátása szempontjából kiemelt vállalkozásnak tekinthető,
 
-b) amely nemzetgazdasági szempontból jelentős projekteket valósít meg,
+b) amely nemzetgazdasági szempontból jelentős projekteket valósít meg vagy erre vállalt kötelezettséget,
 
 c) amely törvény által meghatározott országos közfeladatot lát el,
 
-d) amely nagy összegű állami szerkezetátalakítási támogatásban, hitelgaranciában, kezességvállalásban vagy exporthitel biztosításban részesült vagy koncesszióköteles tevékenységet folytat, és az említettekkel összefüggésben az állammal vagy állami szervvel (ideértve az említett feladatok ellátására létrehozott állami tulajdonú gazdálkodó szervezeteket is) jogviszonya áll fenn, vagy
+d) amely nagy összegű állami szerkezetátalakítási támogatásban, hitelgaranciában, kezességvállalásban vagy exporthitel biztosításban részesült vagy koncesszióköteles tevékenységet folytat vagy erre vállalt kötelezettséget, és az említettekkel összefüggésben az állammal vagy állami szervvel (ideértve az említett feladatok ellátására létrehozott állami tulajdonú gazdálkodó szervezeteket is) jogviszonya áll fenn, vagy
 
 e) amely az a)–d) pontban nem említett, de nemzetgazdasági stratégiai szempontból kiemelt jelentőségű tevékenységet folytat.

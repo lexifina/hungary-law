@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2015-12-12 | 2015. évi CXCIII. törvény | 1991-49-00-00.98 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 1991-49-00-00.99 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 1991-49-00-00.100 |
+| 2017-07-01 | 2017. évi XLIX. törvény | 1991-49-00-00.101 |

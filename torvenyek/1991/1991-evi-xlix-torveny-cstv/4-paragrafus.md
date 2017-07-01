@@ -22,4 +22,16 @@ h) az adós birtokában lévő olyan vagyontárgy, amelyre az eladó a tulajdonj
 
 (4) A Kormány által a rendkívüli időszakra rögzített hadiipari készletek abban az esetben vonhatók be a felszámolási eljárásba, ha a Kormány az állami vagyonkezelő szervezet kezdeményezésére a rögzítést feloldja. A vagyonkezelő szervezet a felszámoló megkeresésére 30 napon belül köteles nyilatkozni arról, hogy a rögzítés feloldását kezdeményezi-e. A rögzítés feloldásáról a vagyonkezelő szervezet kezdeményezésétől számított 60 napon belül a Kormány dönt. E törvény alkalmazásában hadiipari készlet alatt a hadiipari tevékenységhez szükséges tárgyi eszközöket és forgóeszközöket — ideértve a gyártási dokumentumokat is — kell érteni.
 
+(4a) Nem tartozik a támogatás közvetítésével megbízott gazdálkodó szervezet vagyonába az államháztartási, európai uniós vagy más nemzetközi forrásból elszámolási kötelezettséggel átvett olyan támogatási célú pénzeszköz, valamint az abból finanszírozott olyan támogatási célú
+
+a) tulajdoni részesedést megtestesítő befektetés,
+
+b) lízingszerződésből, hitelszerződésből, pénzkölcsön nyújtásából, kockázati tőke vagy más kockázatmegosztási eszközök nyújtásából származó, a támogatott harmadik személlyel szemben fennálló követelés,
+
+c) értékpapír, illetve
+
+d) befektetett eszköz,
+
+amelyet az adósnak, mint a támogatás közvetítésével megbízott szervezetnek – a támogatás nyújtójával jogszabály alapján kötött szerződés alapján – a saját tulajdonú eszközeitől elkülönítetten kellett kezelnie.
+
 (5) A védelem célját szolgáló állami tartalék nem része a gazdálkodó szervezet vagyonának.

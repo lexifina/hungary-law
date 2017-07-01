@@ -8,6 +8,20 @@
 
 (1d) Az (1c) szerinti nyilvántartást vezető szervezettől bármely, az e törvény szerinti gazdálkodó szervezet – igazgatási szolgáltatási díj ellenében – igazolást kérhet arról, hogy nincs ellene benyújtva jogerősen még el nem bírált csődeljárás vagy felszámolási eljárás iránti kérelem, továbbá nincs vele szemben kezdeményezett és jogerősen még el nem rendelt felszámolás.
 
+(1e) A bíróság és a felszámoló szervezet az e törvényben meghatározott feladatai és intézkedései ellátásához a polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartást kezelő szervtől
+
+a) az adós vezető tisztségviselője, volt vezető tisztségviselője,
+
+b) a felszámolóbiztos,
+
+c) a természetes személy hitelezők,
+
+d) az adós vagyonának értékesítése során az ajánlattevők, valamint
+
+e) az adós követeléseinek érvényesítése érdekében a követelés természetes személy kötelezettje
+
+lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolgáltatandó adatot igényelhet.
+
 (2) A Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendeletének hatálya alá tartozó és nem Magyarországon bejegyzett gazdálkodó szervezet [3. § (1) bekezdés a) pont] ellen megindított főeljárás vagy területi eljárás lefolytatására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.
 
 (3) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezései – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadóak azzal, hogy
@@ -34,13 +48,21 @@ bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító v
 
 (5a) Az (5) bekezdés szerint elektronikus kapcsolattartásra köteles fél az eljárási illetéket, a kifogás tételes illetékét és a közzétételi költségtérítést elektronikus úton fizeti meg, a kérelem benyújtását megelőzően. Az illeték- és közzétételi költségtérítés-fizetési kötelezettség teljesítésének módját és az azzal összefüggő tájékoztatást az Országos Bírósági Hivatal a honlapján 2014. december 17-éig közzéteszi. A változtatásokra vonatkozó tájékoztatást azok bevezetése előtt legalább 8 nappal közzé kell tenni.
 
+(5b) Ahol e törvény a fellebbezés elbírálására vonatkozó határidőt állapít meg, a határidő kezdőnapja a fellebbezés érdemi elbírálására alkalmas iratok másodfokú bírósághoz érkezésének napja.
+
 (6) Az e törvényben szabályozott nemperes eljárásokban – a (7) bekezdésben foglalt kivétellel – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
 (7) Bíró hozza meg a következő határozatokat és jár el a következő eljárási cselekményeknél:
 
 a) a csődeljárásban a csődeljárás elrendeléséről és megszüntetéséről szóló határozat, a vagyonfelügyelő felmentése tárgyában hozott határozat, az egyezség elbírálása tárgyában, illetve a csődeljárás befejezetté nyilvánítása tárgyában hozott határozat, valamint a felek által előterjesztett kifogás tárgyában hozott érdemi határozat;
 
-b) a felszámolási eljárásban a felszámolást elrendelő határozat, kivéve, ha az eljárás a cégbíróság értesítése alapján indult;
+b) a felszámolási eljárásban a felszámolást elrendelő végzés, kivéve, ha
+
+ba) az eljárás a cégbíróság értesítése alapján vagy a végelszámoló kérelmére indult,
+
+bb) az eljárás az adós kezdeményezésére indult, vagy
+
+bc) az eljárás lefolytatása iránt a hitelező nyújtott be kérelmet, de az adós a hitelező követelését elismerte vagy nem vitatta;
 
 c) a felszámolási eljárásban az ideiglenes vagyonfelügyelő kirendelése tárgyában hozott határozat, valamint a felszámoló felmentése tárgyában hozott határozat;
 
@@ -54,8 +76,8 @@ g) felszámolási eljárásban a közbenső mérleg jóváhagyása vagy elutasí
 
 h) a felszámolási zárómérleggel és a vagyonfelosztási javaslattal szemben előterjesztett kifogás tárgyában megtartott tárgyalás és a kifogás tárgyában hozott határozat;
 
-i) a felszámolási eljárás befejezéséről szóló végzés, kivéve, ha a befejezésre egyszerűsített módon kerül sor olyan felszámolási ügyben, ahol a felszámolási eljárást kényszer-végelszámolás előzte meg;
+i) a felszámolási eljárás befejezéséről szóló végzés, kivéve a 63/B. § (4) bekezdése alapján hozott határozatot azokban az esetekben, ha az adós gazdálkodó szervezet vezetője a 31. §-ban írt kötelezettségének nem tett eleget, és az adósnak nincs a hitelezők között felosztható vagyona;
 
 j) a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek ellen indult csődeljárásban és indított felszámolási eljárásban az a)–i) pontban foglaltakon kívül is minden olyan határozat, amely ellen külön fellebbezésnek van helye;
 
-k) csődeljárásban és felszámolási eljárásban a bírságot kiszabó határozatok.
+k)

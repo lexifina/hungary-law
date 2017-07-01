@@ -12,4 +12,6 @@
 
 (6) Ha a Gazdasági Hivatal által vezetett elkülönített számlán rendelkezésre álló összeg a felszámoló díját és az általános forgalmi adó fizetéséhez szükséges összeget meghaladja, a különbözetet az adós hitelezőinek befizetésük arányában vissza kell fizetni [kivéve a 3. § (1) bekezdés g) pontja szerinti függő követelés nyilvántartásba vételekor befizetett összeget, amennyiben erre a követelésre – az 58. § (5) bekezdése szerinti – tartalékot kellett képezni, és annak felhasználása még nem történt meg]. Amennyiben az egy hitelezőnek visszajáró összeg az 5000 Ft-ot nem éri el, ezt az összeget a Fővárosi Törvényszék Gazdasági Hivatala által kezelt díjkiegészítési számlára kell átutalni.
 
+(6a) A felszámolási eljárást befejező végzés ellen benyújtott fellebbezést 90 napon belül kell elbírálni.
+
 (7) A felszámolási eljárás befejezéséről hozott végzés ellen nincs helye felülvizsgálatnak.

@@ -1,5 +1,7 @@
 27. § (1) A bíróság az adós felszámolását végzéssel elrendeli, ha az adós fizetésképtelenségét állapítja meg. A bíróság a felszámolást elrendelő végzést az eljárás lefolytatására irányuló kérelem beérkezését követő 60 napon belül hozza meg. A felszámolást elrendelő végzés ellen nincs helye felülvizsgálatnak. A felszámolás kezdő időpontja a felszámolást elrendelő jogerős végzés közzétételének napja (28. §).
 
+(1a) A bíróság a felszámolás elrendeléséről szóló határozatában a határozat meghozataláig felmerült eljárási illeték, közzétételi költségtérítés, valamint a hitelező jogi képviselőjének munkadíja és készkiadásai megfizetésére kötelezi az adóst. A felszámoló ezt a követelést külön bejelentés nélkül nyilvántartásba veszi, és a felszámolás kezdő időpontjában esedékes felszámolási költségként elszámolva fizeti ki.
+
 (2) A bíróság az adós fizetésképtelenségét akkor állapítja meg, ha
 
 a) az adós szerződésen alapuló nem vitatott vagy elismert tartozását a teljesítési idő lejártát követő 20 napon belül sem egyenlítette ki vagy nem vitatta, és az ezt követő hitelezői írásbeli fizetési felszólításra sem teljesítette, vagy
@@ -18,9 +20,15 @@ f) az adós, illetve a végelszámoló által indított eljárásban az adós ta
 
 (2b) A (2) bekezdés a)–b) pontja esetében akkor nyújtható be az adós felszámolása iránti kérelem, ha a követelés összege (kamatok és járulékok nélkül számítva) meghaladja a 200 000 forintot.
 
-(2c) A (2) bekezdés a) pontja szerinti esetekben akkor lehet az adós vitatását megállapítani, ha az érdemben kétségbe vonja a fizetési kötelezettség jogcímét, fennállását, esedékességét, mértékét vagy összegét, és a fizetési felszólításnak tartalmaznia kell legalább a követelés jogcímét, összegét, megfizetésének határidejét. A fizetési felszólításban meg kell határozni azt a végső határidőt is, amelynek eredménytelen elteltét követően a hitelező meg kívánja indítani a felszámolási eljárást vagy egyéb jogi úton kívánja érvényesíteni a követelését.
+(2c) A (2) bekezdés a) pontja szerinti esetekben akkor lehet az adós vitatását megállapítani, ha az érdemben kétségbe vonja a fizetési kötelezettség jogcímét, fennállását, esedékességét, mértékét vagy összegét. Az adós vitatásának legkésőbb a hitelező fizetési felszólításának kézhezvételét megelőző napig írásban van helye. Amennyiben az adós vitatása elkésett, a tartozás adós általi megfizetése nem minősül tartozáselismerésnek, és a teljesítés polgári peres eljárásban történő visszakövetelését nem zárja ki.
 
-(3) Amennyiben a (2) bekezdés a) pontjában meghatározott iratokat postán küldték, azokat a tértivevény különszolgáltatással feladott postai könyvelt küldemény átvétele esetén a tértivevényen feltüntetett átvételi időpontban, más könyvelt küldemény esetében pedig –ellenkező bizonyításig – a feladástól számított ötödik munkanapon a belföldi címzetthez megérkezettnek kell tekinteni. A (2) bekezdés a) pontjában meghatározott esetben az adós vitatásának legkésőbb a hitelező fizetési felszólításának kézhezvételét megelőző napig írásban van helye. Amennyiben az adós vitatása elkésett, a tartozás kiegyenlítése nem minősül tartozáselismerésnek, az a teljesítés polgári peres eljárásban történő visszakövetelését nem zárja ki.
+(3) A (2) bekezdés a) pontja szerinti esetekben a fizetési felszólításban meg kell jelölni az adós tartozásának jogcímét, összegét és a teljesítési határidőt, továbbá meg kell határozni azt a végső határidőt is, amelynek eredménytelen elteltét követően a hitelező meg kívánja indítani a felszámolási eljárást vagy egyéb jogi úton kívánja érvényesíteni a követelését. Ha a fizetési felszólítást a hitelező postán kívánja eljuttatni az adósnak, azt tértivevény különszolgáltatással feladott postai könyvelt küldeményként kell elküldenie. A küldeményt a feladástól számított tizenötödik munkanapon akkor is a címzett által kézhezvettnek kell tekinteni, ha
+
+a) a postai kézbesítési szabályok szerint a kézbesítés akadályozott,
+
+b) a küldemény átvételét a címzett megtagadta, vagy
+
+c) a postai szolgáltató által rendelkezésére tartott küldeményért a címzett nem jelentkezett.
 
 (4) Az adós fizetésképtelensége a (2) bekezdésben meghatározott esetekben sem állapítható meg, ha a bíróság által a tartozás kiegyenlítésére a 26. § (3) bekezdése alapján engedélyezett határidő még nem telt el.
 

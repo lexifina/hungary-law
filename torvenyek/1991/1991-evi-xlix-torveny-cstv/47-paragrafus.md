@@ -2,7 +2,7 @@
 
 (1a) A lízingszerződés felmondása esetén a lízingtárgy visszaadásakor a lízingbe adóval el kell számolni. A pénzügyi lízing szerződés felmondása esetén a lízingbe adó által visszavett lízingtárgy visszaadáskori piaci értéke beszámításra kerül az adós gazdálkodó szervezet még meg nem fizetett tőke- és kamatfizetési kötelezettségébe.
 
-(2) A felszámoló köteles azonnali hatállyal a gazdasági munkaközösség részére adott felelősségvállalásról szóló nyilatkozatot visszavonni, ha a felszámolás kezdő időpontját követő 60 napon belül nem került sor egyezség megkötésére.
+(2)
 
 (3) A felszámoló nem gyakorolhatja az (1) bekezdésben meghatározott azonnali hatályú felmondás, illetőleg elállás jogát a természetes személyeknek — a szolgálati lakás és garázs kivételével — a lakásokra fennálló bérleti szerződései, az iskolával vagy tanulóval a gyakorlati képzés szervezésére kötött szerződések, a munkaszerződések, a nem gazdasági tevékenységgel összefüggő kölcsönszerződés, a szövetkezeti tagok vállalkozás jellegű jogviszonyával összefüggő szerződései, valamint a kollektív szerződés tekintetében. A pozíciólezáró nettósításról rendelkező szerződés vagy keretszerződés hatálya alá tartozó szerződésektől elállni, azokat felmondani csak egyszerre lehet.
 
