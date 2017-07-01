@@ -1,0 +1,1 @@
+## „(1b) A vizsgabiztos a Hatóság által vezetett nyilvántartásban szereplő adatai, valamint telefonos és elektronikus elérhetősége változását a Hatóságnak a változástól számított nyolc napon belül bejelenti.”

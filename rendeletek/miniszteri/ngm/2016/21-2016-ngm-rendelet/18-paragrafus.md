@@ -1,9 +1,13 @@
-## 14–17. §[^7]
+## 17. § A 40/2015. (XII. 30.) NGM rendelet 19. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-18. § (1)[^8]
+## „(2) Az (1) bekezdés szerinti tudomásszerzés napja
 
-(2)[^9]
+## a) hatósági képzéssel kapcsolatos sérelem esetén legkésőbb az a nap, amikor a képzésben részt vevő a 7. § (1) bekezdés szerinti igazolást kézhez vette,
 
-[^7]: A 14–17. § a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^8]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 18. § (2) bekezdése a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+## b) hatósági vizsgával kapcsolatos sérelem esetén a vizsga napja.”
+
+18. § (1)[^7]
+
+(2) A 40/2015. (XII. 30.) NGM rendelet 27. §-a helyébe a következő rendelkezés lép:
+
+[^7]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

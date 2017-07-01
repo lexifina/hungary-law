@@ -1,8 +1,9 @@
 ## 23. § Hatályát veszti
 
-a)–b)[^21]
+a)–b)[^14]
 
-c)–d)[^22]
+c) a 40/2015. (XII. 30.) NGM rendelet 13. § (1) bekezdésében a „vagy írásban” szövegrész,
 
-[^21]: A 23. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 23. § c)–d) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+d) a 40/2015. (XII. 30.) NGM rendelet 19. § (3) bekezdése.
+
+[^14]: A 23. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
