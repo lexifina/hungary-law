@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. §-ának (3) bekezdésében foglalt feladatkörében eljárva, valamint a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 50/A. §-a (1) bekezdésének o) pontjában kapott felhatalmazás alapján a következő rendeletet alkotja:
