@@ -70,7 +70,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 6. | Közlekedés: légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter |
 
-| 7. | Földtan és bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 7. | Földtan és bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 8. | Rendészet: a gyorsforgalmi utak esetében | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -98,4 +98,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | Vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-[^8]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 1. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 1. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
