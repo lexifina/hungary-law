@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-250-20-
 | 2016-08-01 | 2014-250-20-22.4 | 206/2016. (VII. 21.) Korm. rendelet |
 | 2017-01-01 | 2014-250-20-22.5 | 2010: CXXX. törvény |
 | 2017-04-08 | 2014-250-20-22.6 | 79/2017. (IV. 7.) Korm. rendelet |
+| 2017-07-01 | 2014-250-20-22.7 | 464/2016. (XII. 23.) Korm. rendelet |

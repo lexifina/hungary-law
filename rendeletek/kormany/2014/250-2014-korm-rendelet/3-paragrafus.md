@@ -2,7 +2,7 @@
 
 3. § (1) A Főigazgatóság:
 
-a)[^1] biztosítja a minisztériumok – kivéve a honvédelemért felelős miniszter által vezetett minisztériumot, a külpolitikáért felelős miniszter és az európai uniós ügyek koordinációjáért felelős miniszter irányítása alá tartozó külképviseleteket – működéséhez szükséges munkakörnyezetet, ennek keretében gondoskodik az említett szervezetek elhelyezését szolgáló ingatlanok és az intézményi működéshez szükséges gépjárművek üzemeltetéséről, továbbá a szervezetek munkavégzéshez szükséges tárgyi eszközökkel történő ellátásáról – ide nem értve az informatikai-telekommunikációs eszközöket –, illetve az intézményi működéshez szükséges kiszolgáló tevékenységek megszervezéséről,
+a)[^1] biztosítja a minisztériumok – kivéve a honvédelemért felelős miniszter által vezetett minisztériumot, a külpolitikáért felelős miniszter és az európai uniós ügyek koordinációjáért felelős miniszter irányítása alá tartozó külképviseleteket – és a Nemzeti Egészségbiztosítási Alapkezelő működéséhez szükséges munkakörnyezetet, ennek keretében gondoskodik az említett szervezetek elhelyezését szolgáló ingatlanok és az intézményi működéshez szükséges gépjárművek üzemeltetéséről, továbbá a szervezetek munkavégzéshez szükséges tárgyi eszközökkel történő ellátásáról – ide nem értve az informatikai és telekommunikációs eszközöket –, illetve az intézményi működéshez szükséges kiszolgáló tevékenységek megszervezéséről,
 
 b) a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal (a továbbiakban: MNV Zrt.) kötött vagyonkezelési szerződések keretei között – ingatlanok vonatkozásában az MNV Zrt.-t terhelő elhelyezési kötelezettséggel összhangban – ellátja az a) pontban meghatározott feladatokhoz kapcsolódó vagyonelemekkel összefüggő vagyongazdálkodási feladatokat,
 
@@ -26,6 +26,6 @@ i)[^3] ellátja az Országos Közegészségügyi Intézet által használt ingat
 
 (4) A Főigazgatóság a (2) bekezdés szerinti szolgáltatások nyújtására – szabad kapacitás rendelkezésre állása esetén – az (1) bekezdés a) pontjában nem szereplő központi költségvetési szervekkel, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő központi költségvetési vagy európai uniós forrásokból finanszírozott más szervezetekkel, továbbá az Országgyűlés felügyelete alá tartozó más szervekkel megállapodást köthet. A megállapodásokban rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
 
-[^1]: A 3. § (1) bekezdés a) pontja a 206/2016. (VII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^1]: A 3. § (1) bekezdés a) pontja a 464/2016. (XII. 23.) Korm. rendelet 37. §-ával megállapított szöveg.
 [^2]: A 3. § (1) bekezdés g) pontja a 275/2015. (IX. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^3]: A 3. § (1) bekezdés i) pontját a 79/2017. (IV. 7.) Korm. rendelet 2. §-a iktatta be.
