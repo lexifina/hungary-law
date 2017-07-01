@@ -2,13 +2,9 @@
 
 4. § (1) Az anyakönyvbe adatot a kormányrendeletben meghatározott képesítési feltételekkel rendelkező
 
-a) polgármester,
+a) anyakönyvvezető vagy
 
-b) jegyző,
-
-c) a polgármesteri hivatal és a közös önkormányzati hivatal köztisztviselője, [az a)–c) pont a továbbiakban együtt: anyakönyvvezető] vagy
-
-d) a Kormány által kijelölt anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője
+b) a Kormány által rendeletben kijelölt anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője
 
 jegyezhet be.
 
@@ -16,7 +12,7 @@ jegyezhet be.
 
 (2) A házasság megkötésében, valamint a bejegyzett élettársi kapcsolat létesítésében az anyakönyvvezető közreműködik.
 
-(3) A házassági névviselési forma módosítása iránti kérelemről az anyakönyvvezető, ha a házasságot külföldön kötötték, a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv dönt.
+(3) A házassági névviselési forma módosítása iránti kérelemről az anyakönyvvezető vagy – jogszabályban meghatározott esetben – a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv dönt.
 
 (4) A polgármester az anyakönyvvezető által előkészített házasság megkötésében, valamint a bejegyzett élettársi kapcsolat létesítésében az anyakönyvvezetőre megállapított képesítési feltételek hiányában is közreműködhet, az anyakönyvbe azonban adatot nem rögzíthet.
 
@@ -32,7 +28,7 @@ d) eljár a 89. § (4) bekezdésében meghatározott esetben,
 
 e) végzi a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 38. § (1a) bekezdésében és a 41/A. § (3) bekezdésében meghatározott feladatokat,
 
-f) felügyeletet gyakorol az anyakönyvvezető tevékenysége felett,
+f)
 
 g) anyakönyvezi az ismeretlen holttestet,
 
@@ -48,4 +44,4 @@ k) eljár a 70. § (3) bekezdésében meghatározott esetben.
 
 (6)
 
-(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek, valamint a hivatásos konzuli tisztviselő jogosultak. Az anyakönyvi szerv – a 89. § (4) bekezdésében foglaltak kivételével – az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.
+(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek jogosultak. Az anyakönyvi szerv – a 89. § (4) bekezdésében foglaltak kivételével – az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.

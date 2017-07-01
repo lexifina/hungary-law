@@ -18,7 +18,7 @@ g) elektronikus anyakönyv: az anyakönyvi bejegyzéseket elektronikus formában
 
 h) hazai anyakönyvezés: a magyar állampolgár külföldön történt anyakönyvi eseményéhez, valamint a nem magyar állampolgár anyakönyvi eseményéhez kapcsolódó, e törvényben meghatározott adatoknak az anyakönyvbe történő bejegyzése, azok módosítása és törlése,
 
-i)
+i) anyakönyvvezető: a Kormány által rendeletben kijelölt személy,
 
 j) nyilvántartó anyakönyvvezető: az az anyakönyvvezető, aki, illetve az anyakönyvi szerv, amely a bejegyzés alapjául szolgáló anyakönyvi alapiratot őrzi,
 

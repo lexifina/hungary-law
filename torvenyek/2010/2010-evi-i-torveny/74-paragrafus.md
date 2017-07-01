@@ -1,6 +1,6 @@
 ## Az anyakönyvi hatósági bizonyítvány
 
-74. § (1) Ha az anyakönyvi kivonat adattartalmától eltérő adatkör igazolását kérik, az anyakönyvvezető, a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv vagy a hivatásos konzuli tisztviselő anyakönyvi hatósági bizonyítványt állít ki.
+74. § (1) Ha az anyakönyvi kivonat adattartalmától eltérő adatkör igazolását kérik, az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvi hatósági bizonyítványt állít ki.
 
 (2) A törölt anyakönyvi bejegyzésről anyakönyvi hatósági bizonyítvány nem állítható ki.
 

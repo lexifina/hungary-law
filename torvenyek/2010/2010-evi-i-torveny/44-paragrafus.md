@@ -8,7 +8,7 @@
 
 (3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek nemének megfelelő utónevet lehet a Magyar Tudományos Akadémia (a továbbiakban: MTA) által összeállított utónévjegyzékből. Az utónévjegyzéket az MTA a honlapján teszi közzé.
 
-(4) Ha a szülők által választott utónév nem szerepel az utónévjegyzékben, az MTA az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik a kért utónév anyakönyvezhetőségéről. Ha az MTA nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
+(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti az MTA nyilatkozatát a kért utónév anyakönyvezhetőségéről. Az MTA az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha az MTA nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
 
 (5) Az ugyanattól az anyától származó, ugyanazon a napon született gyermekek nem viselhetnek megegyező utónevet.
 

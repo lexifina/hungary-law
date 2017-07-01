@@ -1,7 +1,7 @@
-## Szakmai irányítás és felügyelet
+## Szakmai irányítás, felügyelet és jogorvoslat
 
-13. § (1) Az anyakönyvi ügyekért felelős miniszter ellátja az anyakönyvi eljárás lefolytatására hatáskörrel rendelkező szervek szakmai irányítását.
+13. § (1) Az anyakönyvi ügyekért felelős miniszter ellátja az anyakönyvi eljárás lefolytatására hatáskörrel rendelkező szervek szakmai irányítását és az anyakönyvi szerv tevékenysége felett felügyeletet gyakorol.
 
-(2) Az anyakönyvvezető tevékenysége felett az anyakönyvi szerv gyakorol felügyeletet.
+(2) Az anyakönyvi szerv felügyeletet gyakorol az anyakönyvvezető tevékenysége felett.
 
-(3) Az anyakönyvi szerv döntéseivel szemben nincs helye fellebbezésnek.
+(3) Az anyakönyvi eljárásban nincs helye fellebbezésnek.

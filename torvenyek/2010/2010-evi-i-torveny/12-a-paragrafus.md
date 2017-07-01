@@ -6,7 +6,7 @@ a) – ha a gyermek a nyilatkozattétel időpontjában még nem született meg �
 
 aa) azon szerv székhelye szerinti anyakönyvvezető, amely előtt a nyilatkozatot megtették,
 
-ab) a konzul előtt tett nyilatkozatot az anyakönyvi szerv,
+ab)
 
 b) – ha a gyermek a nyilatkozattétel időpontjában már megszületett – a születést nyilvántartó anyakönyvvezető
 

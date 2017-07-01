@@ -1,8 +1,8 @@
-67. § (1) A hazai anyakönyvezés iránti kérelem bármely képviselő-testület hivatalának anyakönyvvezetőjénél vagy bármely konzuli tisztviselőnél előterjeszthető. Ha magyar állampolgár külföldön történt születéséről, házasságkötéséről, bejegyzett élettársi kapcsolata külföldi létesítéséről vagy külföldön történt halálesetéről az anyakönyvvezető vagy – a fogadó állam hatósága által megküldött anyakönyvi kivonat alapján – a konzuli tisztviselő tudomást szerez, a hazai anyakönyvezést hivatalból kezdeményezi. A magyar állampolgár külföldön bekövetkezett halálesetének hazai anyakönyvezése iránti kérelmet a hivatásos konzuli tisztviselőnél postai úton is elő lehet terjeszteni.
+67. § (1)
 
 (1a) Az állampolgárság megszerzésére vagy az állampolgárság igazolására irányuló eljárás kezdeményezésekor az állampolgársági kérelem átvételére jogosult szervnél a hazai anyakönyvezés iránti kérelmet is elő kell terjeszteni.
 
-(1b) Magyar állampolgár külföldön történt születésének, házasságkötésének, bejegyzett élettársi kapcsolata létesítésének hazai anyakönyvezésére irányuló kérelemhez csatolni kell – ha a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel – a személyiadat- és lakcímnyilvántartásba vételhez szükséges iratokat. Az anyakönyvvezető vagy a hivatásos konzuli tisztviselő ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
+(1b) Magyar állampolgár külföldön történt születésének, házasságkötésének, bejegyzett élettársi kapcsolata létesítésének hazai anyakönyvezésére irányuló kérelemhez csatolni kell – ha a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel – a személyiadat- és lakcímnyilvántartásba vételhez szükséges iratokat. Az anyakönyvvezető ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
 
 (2) A hazai anyakönyvezési eljárás ügyintézési határideje 40 nap. A hazai anyakönyvezési eljárás ügyintézési határideje 8 nap, ha a szükséges okiratok hiánytalanul rendelkezésre állnak, és a 14/A. § alapján az igazságügyért felelős miniszter véleményének kérése nem szükséges, valamint
 

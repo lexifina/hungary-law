@@ -36,7 +36,9 @@ j) hozzáférési jogosultságot biztosító felhasználói azonosítóját,
 
 k) hozzáférési jogosultságának időtartamát, ha az határozott idejű és
 
-l) hozzáférési jogosultsága keletkezésének és megszűnésének időpontját.
+l) hozzáférési jogosultsága keletkezésének és megszűnésének időpontját,
+
+m) diplomáciai felülhitelesítésekhez szükséges aláírásmintájának és hivatalos körbélyegző lenyomatának képét.
 
 (3) A jogosultsági nyilvántartás nyilvántartja a közvetlen hozzáférésre jogosult személy
 
