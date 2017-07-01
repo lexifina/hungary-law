@@ -26,7 +26,7 @@
 
 | 12. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | bányahatósági engedélyek | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyek | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 14. | talajvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
@@ -78,10 +78,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | rendészet az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Csongrád Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 19. | földtan, bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 19. | földtan, bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 20. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 21. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^11]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 46. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^11]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 46. § b) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 55. § b) pontja szerint módosított szöveg.
