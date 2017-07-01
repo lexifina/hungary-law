@@ -4,7 +4,7 @@ a) párt, politikai mozgalom,
 
 b) dohányterméket gyártó vállalkozás
 
-c) az állami adóhatóság engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
+c) a szerencsejáték-felügyeleti hatóság engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
 
 (2) Az (1) bekezdés b) pontban foglaltakon túli azon vállalkozás, amely – főtevékenysége szerint – e törvény, illetve más jogszabályok alapján nem reklámozható terméket állít elő, illetőleg ilyen termékekkel kapcsolatos szolgáltatást nyújt, e terméke, illetve szolgáltatása megjelenítésével, népszerűsítésével médiaszolgáltatást vagy műsorszámot nem támogathat.
 

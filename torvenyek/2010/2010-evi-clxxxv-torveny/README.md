@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2015-01-01 | 2014. évi CVII. törvény | 2010-185-00-00.25 |
 | 2015-07-01 | 2014. évi CVII. törvény | 2010-185-00-00.26 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2010-185-00-00.27 |
+| 2017-07-01 | 2017. évi LXXII. törvény | 2010-185-00-00.28 |

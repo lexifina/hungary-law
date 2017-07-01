@@ -28,4 +28,4 @@ b) e törvény, illetve más jogszabályok alapján nem reklámozható termék,
 
 c) olyan gyógyszerkészítmény, illetve gyógyászati termék, eljárás, amely kizárólag orvosi rendelvényre vehető igénybe,
 
-d) az állami adóhatóság engedélye nélkül nyújtott szerencsejáték-szolgáltatás.
+d) a szerencsejáték-felügyeleti hatóság engedélye nélkül nyújtott szerencsejáték-szolgáltatás.
