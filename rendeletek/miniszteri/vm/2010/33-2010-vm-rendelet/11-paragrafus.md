@@ -1,5 +1,3 @@
-## 11. § A verseny lebonyolítója csak olyan személy vagy szervezet lehet, aki vagy amely
+## 10. §[^6] A versenyre benevezni kizárólag a Jöt. szerinti okmánnyal rendelkező terméket lehet. Az okmány másolati példányát át kell adni a verseny rendezőjének.
 
-a) biztosítja, hogy a verseny lebonyolítását a termékre és a bírálatra vonatkozó szakmai ismeretekkel rendelkező személy irányítsa, valamint
-
-b) biztosítja a verseny megszervezésének és lebonyolításának feltételeit e rendelet előírásainak megfelelően.
+[^6]: A 10. § a 33/2017. (VI. 9.) FM rendelet 3. §-ával megállapított szöveg.

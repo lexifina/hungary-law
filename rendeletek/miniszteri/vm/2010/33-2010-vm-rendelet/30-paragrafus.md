@@ -1,1 +1,3 @@
-## 29. § A 2011. évi verseny megrendezésére irányuló pályázatot 2010. december 1. és 31. között lehet benyújtani.
+## 29. §[^9]
+
+[^9]: A 29. §-t a 33/2017. (VI. 9.) FM rendelet 6. § e) pontja hatályon kívül helyezte.

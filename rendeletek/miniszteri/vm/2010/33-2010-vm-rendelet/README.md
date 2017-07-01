@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-33-20-2
 | --- | --- | --- |
 | 2010-11-26 | 2010-33-20-2Y.1 | 33/2010. (XI. 25.) VM rendelet |
 | 2013-02-02 | 2010-33-20-2Y.2 | 1/2013. (I. 18.) VM rendelet |
+| 2017-07-01 | 2010-33-20-2Y.3 | 33/2017. (VI. 9.) FM rendelet |
