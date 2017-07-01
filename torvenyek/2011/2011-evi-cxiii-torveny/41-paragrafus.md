@@ -12,4 +12,4 @@
 
 (6) Az önkéntes tartalékos rendszer békeidőszaki működését munkáltatói ösztönző-kompenzációs rendszer támogatja.
 
-(7) Az önkéntes tartalékosok kiképzésen túli tényleges katonai szolgálatra történő behívásának elrendeléséről a Honvéd Vezérkar főnöke javaslatára a honvédelemért felelős miniszter dönt.
+(7)

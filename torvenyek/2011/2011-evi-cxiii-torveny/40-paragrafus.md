@@ -18,6 +18,8 @@
 
 „Isten engem úgy segéljen!”
 
-(4) A Honvédségnél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható.
+(4) A Honvédségnél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet, valamint a nemzetközi szervezetek hivatalainál, parancsnokságain és katonai szervezeteiben Magyarország részére biztosított szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható. A személyi állomány illetmény nélküli szabadságon tartózkodó tagja a tartós külföldi szolgálatra vezényelt házastársának külföldi szolgálata idejére munkaszerződéssel, adminisztratív-technikai feladatok ellátásában való közreműködés céljából is foglalkoztatható.
 
 (5) Május 21-e a Magyar Honvédelem Napja, a Honvédség személyi állományára kiterjedően munkaszüneti nap.
+
+(6) Ha az 1. melléklet szerinti gazdasági társaság szervezeti egysége, anyagi vagy nem anyagi erőforrásainak vagy feladatkörének meghatározott csoportja a további működtetés céljából valamely honvédségi szervezet részére kerül átadásra, a gazdasági társaság érintett munkavállalóinak munkaviszonyára az államháztartásról szóló törvénynek az állami feladat átvétele miatt bekövetkező jogállásváltozásra vonatkozó rendelkezéseit kell alkalmazni.
