@@ -6,7 +6,7 @@
 
 a)[^6] a Közlekedési Védekezési Munkabizottságban a közlekedési hatóság,
 
-b)[^7] az Ipari Védekezési Munkabizottságban a Budapest Főváros Kormányhivatala, a Magyar Bányászati és Földtani Hivatal és a Magyar Energetikai és Közmű-szabályozási Hivatal.
+b)[^7] az Ipari Védekezési Munkabizottságban a Budapest Főváros Kormányhivatala, a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ) és a Magyar Energetikai és Közmű-szabályozási Hivatal.
 
 (2) Az (1) bekezdésben meghatározott ágazati szervek feladatai:
 
@@ -23,5 +23,5 @@ e) feladat- és hatáskörüknek megfelelően gondoskodnak a részükre külön 
 [^4]: A 4. § az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény végrehajtásáról szóló 179/1999. (XII. 10.) Korm. rendelet (a továbbiakban: Vhr.) 5. § (1) bekezdés.
 [^6]: Az 5. § (1) bekezdés a) pontja az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^7]: Az 5. § (1) bekezdésének b) pontja a 86/2006. (XII. 26.) GKM rendelet 9. § (1) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés d)–e) pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdésének b) pontja a 86/2006. (XII. 26.) GKM rendelet 9. § (1) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés d)–e) pontja, a 24/2017. (VI. 30.) NFM rendelet 1. § a) pontja szerint módosított szöveg.
 [^8]: Vhr.
