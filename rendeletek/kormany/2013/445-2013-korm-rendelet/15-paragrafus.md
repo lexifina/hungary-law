@@ -72,7 +72,7 @@ b) a munkaerőigényt szomszédos országbeli állampolgárokkal lehet hatékony
 
 (3b)[^59] A miniszter a (3a) bekezdés szerinti közleményt hivatalos lapban teszi közzé.
 
-(3c)[^60] Az (1) bekezdés 27. pontjában meghatározott mentesség feltétele, hogy az idegenrendészeti hatóság a magyarországi foglalkoztatásról az illetékes kormányhivatalt tájékoztassa.
+(3c)[^60] Az (1) bekezdés 27. pontjában meghatározott mentesség feltétele, hogy az idegenrendészeti hatóság a magyarországi foglalkoztatásról az illetékes járási hivatalt tájékoztassa.
 
 (4) A mentesség alapjául szolgáló feltételek fennállását a foglalkoztatónak kell bizonyítani.
 
@@ -85,4 +85,4 @@ b) a munkaerőigényt szomszédos országbeli állampolgárokkal lehet hatékony
 [^57]: A 15. § (1) bekezdés 27. pontját a 113/2016. (V. 30.) Korm. rendelet 82. § (2) bekezdése iktatta be.
 [^58]: A 15. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
 [^59]: A 15. § (3b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
-[^60]: A 15. § (3c) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (4) bekezdése iktatta be.
+[^60]: A 15. § (3c) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (4) bekezdése iktatta be, szövege a 171/2017. (VI. 29.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^100]
+2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^102]
 
 KÉRELEM
 
@@ -196,4 +196,4 @@ Dátum: ........................................................
 
 foglalkoztató cégszerű aláírása
 
-[^100]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^102]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 42. §-a szerint módosított szöveg.
