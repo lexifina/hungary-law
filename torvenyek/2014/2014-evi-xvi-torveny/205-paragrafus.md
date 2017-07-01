@@ -30,6 +30,8 @@ f) a Bizottság 2013. május 15-i a 2011/61/EU európai parlamenti és tanácsi 
 
 g) a Bizottság 2013. május 15-i a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló 448/2013/EU végrehajtási rendeletének,
 
-h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének
+h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének,
+
+i) az Európai Parlament és Tanács 2015. november 25-i, az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 rendeletének
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

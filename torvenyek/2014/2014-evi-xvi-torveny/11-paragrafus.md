@@ -12,7 +12,9 @@ d) a tárgyi, szervezeti és – a büntetlen előéletre vonatkozó előíráso
 
 e) az ABAK olyan közvetlen vagy közvetett tagi részesedéssel rendelkező személyeinek bemutatását, akik, vagy amelyek minősített befolyással rendelkeznek a befektetési alapkezelőben, bemutatva a minősített befolyás arányát is;
 
-f) a tevékenységeknek a 41. § szerinti, kiszervezésre tett intézkedésekkel kapcsolatos tájékoztatást.
+f) a tevékenységeknek a 41. § szerinti, kiszervezésre tett intézkedésekkel kapcsolatos tájékoztatást;
+
+g) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
 
 (2) A kérelmező tájékoztatja a Felügyeletet a kezelni kívánt ABA-k által folytatandó befektetési stratégiáról (az elsődleges eszközkategória típusa szerinti besorolásról).
 

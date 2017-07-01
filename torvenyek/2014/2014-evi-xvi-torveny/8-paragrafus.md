@@ -16,7 +16,9 @@ f) a 9. §-ban foglaltak fennállásáról vagy azok hiányáról szóló nyilat
 
 g) amennyiben az alapkezelő a Bszt. hatálya alá tartozó tevékenységet is végez, arra vonatkozó belső szabályzatát, amely biztosítja a több megbízó, illetve kollektív befektetési forma részére, különböző befektetési elvek alapján való portfóliókezelés illetve befektetési alapkezelés miatti lehetséges érdekellentétek kiküszöbölését; valamint
 
-h) a könyvvizsgáló igazolását arra vonatkozóan, hogy az alapkezelő informatikai rendszere alkalmas a 29. §-ban és a 30. §-ban meghatározott követelmények teljesítésére.
+h) a könyvvizsgáló igazolását arra vonatkozóan, hogy az alapkezelő informatikai rendszere alkalmas a 29. §-ban és a 30. §-ban meghatározott követelmények teljesítésére;
+
+i) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
 
 (2) Az ÁÉKBV-alapkezelőnek tevékenysége végzése során folyamatosan meg kell felelnie a jogszabályok előírásainak és a Felügyelet felhívására köteles igazolni, hogy megfelel az e törvény felhatalmazása alapján kiadott egyéb jogszabályokban meghatározott működési feltételnek is.
 
