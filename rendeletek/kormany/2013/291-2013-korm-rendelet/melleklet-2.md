@@ -32,7 +32,7 @@
 
 | 15. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 16. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 16. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 17. | fakivágás, parkrendezés, fatelepítés engedélyezése | Belváros-Lipótváros Budapest Főváros V. kerületi önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
@@ -68,10 +68,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | Élelmiszer-biztonság | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
-| 13. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 14. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 15. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 49. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 49. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 49. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 49. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.
