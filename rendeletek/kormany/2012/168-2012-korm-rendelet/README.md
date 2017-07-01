@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-168-20-
 | 2014-09-05 | 2012-168-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2016-05-14 | 2012-168-20-22.4 | 103/2016. (V. 13.) Korm. rendelet |
 | 2016-07-23 | 2012-168-20-22.5 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2017-07-01 | 2012-168-20-22.6 | 171/2017. (VI. 29.) Korm. rendelet |
