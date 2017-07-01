@@ -26,9 +26,9 @@
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 14. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 15. | talajvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
@@ -68,9 +68,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 9. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 10. | bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | rendészet | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 54. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 54. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 54. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 54. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
