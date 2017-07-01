@@ -208,7 +208,7 @@ r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős mi
 
 s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
 
-t)
+t) a honvédelemért felelős miniszter, hogy a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményeket,
 
 u) a büntetés-végrehajtásért, a rendészetért, az adópolitikáért és a katasztrófák elleni védekezésért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 
@@ -220,7 +220,7 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 
 (7) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
 
-a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, közoktatási, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
+a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, közoktatási, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
 
 aa) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
 
@@ -230,7 +230,9 @@ ac) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést te
 
 b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődési, közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a formaruha-juttatást;
 
-c) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat.
+c) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat;
+
+d) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményt.
 
 (8) Felhatalmazást kap a büntetés-végrehajtásért és a rendészetért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, oktatási, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
 

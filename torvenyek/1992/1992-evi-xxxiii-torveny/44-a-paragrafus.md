@@ -17,3 +17,5 @@ a) nem vehető figyelembe a rendkívüli munkaidő éves felső korlátja szempo
 b) időtartamát a más munkaköri feladatokhoz kapcsolódó rendkívüli munkavégzéstől elkülönítve tartja nyilván a munkáltató, és
 
 c) időtartama a rendes munkaidőn és a más munkaköri feladatokhoz kapcsolódó rendkívüli munkaidőn felül naptári évenként legfeljebb 832 óra lehet.
+
+(6) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő, a Magyar Honvédségnél foglalkoztatott közalkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés vagy az egészségügyi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében az Mt. 56. § (1) bekezdésétől eltérően miniszteri rendelet határozza meg a vétkes kötelezettségszegés esetén alkalmazható hátrányos jogkövetkezményeket.

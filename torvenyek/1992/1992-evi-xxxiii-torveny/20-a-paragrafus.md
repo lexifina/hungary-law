@@ -52,4 +52,6 @@ dönt a közalkalmazotti jogviszony létesítéséről, illetve a vezetői megb�
 
 (7) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó beleegyezésével közölhető harmadik személlyel. Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Amennyiben a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, azokat meg kell semmisíteni és személyes adatait törölni kell.
 
-(8)–(9)
+(8) Az üres munkakör betöltésére irányuló pályázati eljárás esetén – a pályázati feltételeknek egyformán megfelelő pályázók közül – előnyben kell részesíteni az önkéntes tartalékos szolgálati viszonyban állókat.
+
+(9)
