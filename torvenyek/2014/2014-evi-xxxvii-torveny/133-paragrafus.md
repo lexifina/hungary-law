@@ -10,7 +10,7 @@ a) az Alap tagjai által fizetett
 
 aa) csatlakozási díj,
 
-ab) a rendszeres éves befizetés,
+ab) a rendszeres éves díj,
 
 ac) a rendkívüli befizetés,
 
@@ -20,11 +20,11 @@ c) az Alap által kibocsátott hitelviszonyt megtestesítő értékpapír,
 
 d) egyéb bevétel.
 
-(2) Az Alap – a 126. § (3) bekezdése szerinti célok megvalósítása érdekében – hitelt vehet fel:
+(2) Az Alap – a 126. § (3) bekezdése szerinti célok megvalósítása érdekében – hitelt vehet fel jogi személytől, különösen
 
 a) hitelintézettől,
 
-b) egyéb jogi személytől (ideértve más országok szanálást finanszírozó mechanizmusát vagy alapját is).
+b) más EGT-állam szanálást finanszírozó rendszerétől.
 
 (3) Az MNB semmilyen formában nem finanszírozhatja az Alapot.
 

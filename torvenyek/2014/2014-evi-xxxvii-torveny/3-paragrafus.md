@@ -32,7 +32,7 @@
 
 14. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
 
-15. egymással szembeni elszámolásra vonatkozó megállapodás: olyan megállapodás, amely alapján a szerződéses felek közötti két vagy több követelés egymással szemben elszámolható;
+15. egymással szembeni elszámolásra vonatkozó megállapodás: olyan megállapodás, amely alapján a szerződéses felek közötti két vagy több követelés vagy kötelezettség egymással szemben elszámolható;
 
 16. ellenőrző befolyás: a Hpt. 6. § (1) bekezdés 18. pontjában meghatározott fogalom;
 
@@ -146,7 +146,7 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 
 55. szabályozott piac: a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 114. pontjában meghatározott piac;
 
-56. szanálás alatt álló intézmény: olyan intézmény vagy 1. § (1) bekezdés b) vagy c) pontja szerinti szervezet, amelynek szanálását határozattal elrendelte a szanálási feladatkörében eljáró MNB vagy valamely más szanálási hatóság;
+56. szanálás alatt álló intézmény: olyan intézmény vagy 1. § (1) bekezdés b) vagy c) pontja szerinti szervezet, amelynek szanálását határozattal elrendelte a szanálási feladatkörében eljáró MNB vagy valamely más szanálási hatóság, vagy amely tekintetében szanálási intézkedés alkalmazására került sor;
 
 57. szanálási hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított EGT-állambeli hatóság;
 

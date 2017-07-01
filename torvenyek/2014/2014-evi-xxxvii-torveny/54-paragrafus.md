@@ -8,4 +8,4 @@ c) az átruházás az értékesítésből, végelszámolásból és felszámolá
 
 (2) Az eszközelkülönítés alkalmazásakor a szanálási feladatkörében eljáró MNB a független értékelés tekintetében rögzített elvekkel összhangban meghatározza a szanálási vagyonkezelőre átruházott eszközök, források, jogok és kötelezettségek ellenértékét, amely ellenérték névleges vagy negatív érték is lehet.
 
-(3) A szanálási vagyonkezelő által megszerzett eszközökért, forrásokért, jogokért és kötelezettségekért fizetett minden ellenszolgáltatás a szanálás alatt álló intézményt illeti meg. Az ellenszolgáltatás a szanálási vagyonkezelő által kibocsátott értékpapír formájában is teljesíthető.
+(3) A szanálási vagyonkezelő által megszerzett eszközökért, forrásokért, jogokért és kötelezettségekért fizetett minden ellenszolgáltatás a szanálás alatt álló intézményt illeti meg. Az ellenszolgáltatás a szanálási vagyonkezelő által kibocsátott hitelviszonyt megtestesítő értékpapír formájában is teljesíthető.

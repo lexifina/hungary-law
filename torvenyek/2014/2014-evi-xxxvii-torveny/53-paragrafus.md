@@ -22,4 +22,6 @@ d) az értékesítéshez nincs szükség a szanálási feladatkörében eljáró
 
 (6) A szanálási vagyonkezelő vonatkozásában az MNB nem minősül a számvitelről szóló 2000. évi C. törvény és a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet tekintetében anyavállalatnak.
 
-(7) A szanálási vagyonkezelő igazgatóságának tagjaival és ügyvezetőivel szemben e minőségükben végzett cselekmény vagy mulasztás miatt harmadik személy kártérítési igénnyel csak lényeges kötelezettségük súlyos, gondatlan megszegése esetén léphet fel, feltéve, hogy a kárt az adott cselekmény vagy mulasztás közvetlenül idézte elő.
+(7) A szanálási vagyonkezelő tevékenységi köréből eredően a szanálás alatt álló intézmény tulajdonosainak, hitelezőinek sem kötelezettsége, sem felelőssége nem keletkezhet. A szanálási vagyonkezelő vezetése által e minőségükben végzett cselekmény vagy mulasztás miatt a szanálás alatt álló intézmény tulajdonosai, hitelezői vagy más harmadik személyek kártérítési igénnyel a szanálási vagyonkezelővel szemben csak a lényeges kötelezettségük szándékos megsértése esetén léphetnek fel, feltéve, hogy a kárt az adott cselekmény vagy mulasztás közvetlenül idézte elő.
+
+(8) A szanálás alatt álló intézmény tulajdonosai, hitelezői vagy más harmadik személy a szanálási vagyonkezelő vezetésével szemben a (7) bekezdés szerinti cselekmény vagy mulasztás miatt kártérítési igényt közvetlenül nem érvényesíthetnek.

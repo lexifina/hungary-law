@@ -18,8 +18,8 @@ ea) a b) pont alapján, az adott tagsági részesedésekhez fűződő szavazati 
 
 eb) a szanálási feladatkörében eljáró MNB kötelezheti az átvevőt arra, hogy az aktuális piaci feltételek figyelembevételével meghatározott elidegenítési határidőn belül idegenítse el az intézmény által kibocsátott tagsági részesedéseket; valamint
 
-ec) ha a Felügyelet által megszabott elidegenítési határidőn belül nem hajtja végre az elidegenítést, akkor a befolyásoló részesedés szerzésére és megszüntetésére vonatkozó követelmények megsértése esetén kivethető szankciókat és intézkedéseket alkalmazhat az átvevőre;
+ec) ha az átvevő a megszabott elidegenítési határidőn belül nem hajtja végre az elidegenítést, akkor a Felügyelet a befolyásoló részesedés szerzésére és megszüntetésére vonatkozó követelmények megsértése esetén kivethető szankciókat és intézkedéseket alkalmazhat az átvevőre;
 
-f) az engedélyezési eljárás alatt, valamint a Felügyelet által megszabott elidegenítési határidőn belül a Felügyeletnek nem kell alkalmaznia a befolyásoló részesedés szerzésére és megszüntetésére vonatkozó követelmények megsértése esetén kivetendő szankciókat és intézkedéseket.
+f) az engedélyezési eljárás alatt, valamint a szanálási feladatkörében eljáró MNB által megszabott elidegenítési határidőn belül a Felügyeletnek nem kell alkalmaznia a befolyásoló részesedés szerzésére és megszüntetésére vonatkozó követelmények megsértése esetén kivetendő szankciókat és intézkedéseket.
 
 (4) A vagyonértékesítés alkalmazása keretében végrehajtott átruházásokra alkalmazni kell az e törvényben meghatározott, a tulajdonosok és hitelezők védelmében meghatározott szabályokat is.

@@ -2,7 +2,7 @@
 
 a) az áthidaló intézmény egyesül egy másik intézménnyel;
 
-b) az áthidaló intézmény már nem felel meg a jogszabályi követelményeknek;
+b) az áthidaló intézmény már nem felel meg a 44. § (2) bekezdésében meghatározott követelményeknek;
 
 c) az áthidaló intézmény eszközét, forrását, jogát vagy kötelezettségét kilencven százalékot meghaladó mértékben egy harmadik félnek értékesítik;
 

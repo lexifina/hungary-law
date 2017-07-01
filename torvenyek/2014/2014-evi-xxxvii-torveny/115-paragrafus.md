@@ -6,13 +6,13 @@ a) a szanálási feladatkörében eljáró MNB-t;
 
 b) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumot és az államháztartásért felelős miniszter által vezetett minisztériumot;
 
-c) a szanálási hatóságok által megkeresett vagy felkért lehetséges átvevőt, függetlenül attól, hogy megkeresés vagy felkérés
+c) a lehetséges átvevőt, függetlenül attól, hogy
 
-ca) a vagyonértékesítési eszköz alkalmazásának előkészítése volt-e, vagy
+ca) a vagyonértékesítési eszköz alkalmazásának előkészítéséről van szó, vagy
 
-cb) a megkeresés, illetve a felkérés átvételt eredményezett-e;
+cb) a megkeresés, illetve a felkérés eredményezett-e átvételt;
 
-d) a Felügyeletet;
+d) az EBH-t és a Felügyeletet;
 
 e) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter vagy a c) pontban meghatározott lehetséges átvevők által megbízott könyvvizsgálókat, könyvelőket, jogi és szakmai tanácsadókat, értékelési és egyéb szakértőket;
 
@@ -20,7 +20,7 @@ f) az OBA-t és a Szanálási Alapot;
 
 g) a Beva-t;
 
-h) egy áthidaló intézményhez vagy egy szanálási vagyonkezelőhöz kijelölt vezetést, a kijelölés előtt, annak ideje alatt és a kijelölést követően;
+h) az áthidaló intézményt, a szanálási vagyonkezelőt, valamint ezek leányvállalatait;
 
 i) a szanálási feladatkörében eljáró MNB-nek aktuálisan vagy korábban az e törvényben foglaltakkal kapcsolatban szolgáltatást nyújtó minden más személyt vagy szervezetet;
 

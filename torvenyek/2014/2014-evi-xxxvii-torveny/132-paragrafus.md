@@ -22,7 +22,7 @@ c) az OBA ügyvezető igazgatója.
 
 a) irányítja és ellenőrzi az Alap gazdálkodási és egyéb tevékenységét,
 
-b) elfogadja az Alap szabályzatait,
+b)
 
 c) dönt az egyes feladatokra esetileg létrehozott különleges bizottságok összetételéről,
 

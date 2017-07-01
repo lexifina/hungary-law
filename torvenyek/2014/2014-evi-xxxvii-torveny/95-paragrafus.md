@@ -26,7 +26,7 @@ d) a felelős természetes vagy jogi személy által elért nyereség vagy elker
 
 e) a jogsértés által harmadik feleknek okozott veszteség, ha meghatározható;
 
-f) a felelős természetes vagy jogi személy illetékes felügyeleti hatósággal való együttműködésének mértéke;
+f) a felelős természetes vagy jogi személy illetékes felügyeleti hatósággal és szanálási hatósággal való együttműködésének mértéke;
 
 g) a felelős természetes vagy jogi személy által elkövetett korábbi jogsértések;
 
