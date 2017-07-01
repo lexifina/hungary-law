@@ -24,7 +24,17 @@ g)[^6] a nyilatkozatban vállalja a Felügyelet értékpapírok előállításá
 
 (5)[^9] Az engedélyt a Felügyelet kérelemre határozatlan időre adja meg. A Felügyelet a Szakszolgálat bevonásával rendszeresen ellenőrzi az (1) bekezdésben foglaltak meglétét, és az (1) bekezdés b), c), e) és g) pontjában foglalt feltételeket vizsgálja.
 
-(6)[^10] Ha működő nyomda esetén az (1) bekezdésben foglalt feltételek bármelyike nem teljesül, a Felügyelet az engedélyt — a hiányosság súlyától függően — felfüggeszti vagy visszavonja; erre vonatkozó döntését pedig a (3) bekezdésben foglalt módon közzéteszi.
+(6)[^10] Ha működő nyomda esetén az (1) bekezdésben foglalt feltételek bármelyike nem teljesül, a Felügyelet – a hiányosság súlyától függően, ha szükséges –
+
+a) figyelmezteti a nyomdát,
+
+b) határidő tűzésével felszólítja a nyomdát a feltételeknek való megfelelésre,
+
+c) felfüggeszti a nyomda engedélyét, vagy
+
+d) visszavonja a nyomda engedélyét,
+
+## az erre vonatkozó döntését pedig a (3) bekezdésben foglalt módon közzéteszi.
 
 (7)[^11]
 
@@ -33,5 +43,5 @@ g)[^6] a nyilatkozatban vállalja a Felügyelet értékpapírok előállításá
 [^7]: A 3. § (2) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^8]: A 3. § (3) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^9]: A 3. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 62. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: A 3. § (6) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^10]: A 3. § (6) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: A 3. § (7) bekezdését a 206/1996. (XII. 23.) Korm. rendelet 7. § (4) bekezdésének a) pontja hatályon kívül helyezte.
