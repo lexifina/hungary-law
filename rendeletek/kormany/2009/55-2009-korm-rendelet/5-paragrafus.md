@@ -2,11 +2,11 @@
 
 (2) Gyűjtött, szedett gomba vásáron, piacon csak ott árusítható, ahol a gombaértékesítési engedély kiadására és az értékesítés ellenőrzésére a vásár, piac területén a teljes nyitvatartási idő alatt gombavizsgáló szakellenőr működik.
 
-(3)[^52] Szeszes ital vásáron, piacon a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 110. §-ának (11) bekezdésében, illetve a Jöt. 67. §-ának (2) bekezdésében meghatározott feltételek teljesítése mellett árusítható.
+(3)[^52] Szeszes ital vásáron, piacon a jövedéki adóról szóló törvényben meghatározott feltételek teljesítése mellett árusítható.
 
 (4)[^53] Az (1) bekezdés szerinti magánszemély a tulajdonát képező élő állatot állatvásáron alkalomszerűen értékesítheti.
 
 [^50]: Az 5. § a 212/2009. (IX. 29.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^51]: Az 5. § (1) bekezdése a 41/2010. (II. 26.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^52]: Az 5. § (3) bekezdése a 260/2011. Korm. rendelet 6. §-ával megállapított szöveg.
+[^52]: Az 5. § (3) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^53]: Az 5. § (4) bekezdését a 41/2010. (II. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
