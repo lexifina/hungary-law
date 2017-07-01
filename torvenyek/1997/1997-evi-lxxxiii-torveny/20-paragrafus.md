@@ -1,10 +1,12 @@
 20. § (1) A finanszírozási szerződés szerinti ellátásra kötelezett szolgáltató
 
-a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – amennyiben a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
+a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – ha a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
 
-b) a járóbeteg-szakellátások elvégzését a külön jogszabály szerinti betegfogadási lista alapján teljesíti,
+b) a járóbeteg-szakellátások elvégzését a jogszabály szerinti betegfogadási lista alapján teljesíti,
 
-és az a) és b) pont szerinti teljesítésről, valamint a (3a) bekezdés szerinti esetekről külön jogszabályban meghatározott módon rendszeres jelentést küld az a) pont tekintetében az országos várólista-nyilvántartást vezető szerv, a b) pont tekintetében az egészségbiztosító részére.
+c) a jogszabályban meghatározott esetek ellátását intézményi regisztrációs lista alapján tervezi, ütemezi és teljesíti
+
+és az a)–c) pont szerinti teljesítésről, valamint a (3a) bekezdés szerinti esetekről jogszabályban meghatározott módon rendszeres jelentést küld az a) pont tekintetében az országos várólista-nyilvántartást vezető szerv, a b) és c) pont tekintetében az egészségbiztosító részére.
 
 (2) Intézményi várólistát kell kialakítani
 
@@ -24,7 +26,7 @@ a) az ellátás szakmai indokoltsága alapján,
 
 b) az ellátás várható eredménye alapján,
 
-c) a (4) bekezdés szerinti esetben,
+c) a (4) és (4a) bekezdés szerinti esetben,
 
 d) az azonnali ellátásnak a biztosított állapota miatti indokoltsága esetén,
 
@@ -38,7 +40,9 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (3c) A (3a) bekezdés e) pontja szerinti esetben a biztosítottat intézményi előjegyzési listára kell felvenni.
 
-(4) A keresőképtelen biztosítottat – a (3) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
+(4) A keresőképtelen biztosítottat – a (3a) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3a) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
+
+(4a) A transzplantáció előtti kivizsgálásra váró biztosítottat az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően köteles soron kívül fogadni, ha a transzplantáció előtti kivizsgálásra váró biztosított az ellátást a transzplantációs várólistára vételhez és a transzplantációs várólistán tartáshoz szükséges vizsgálatok miatt veszi igénybe. A transzplantáció előtti kivizsgálás miatti soron kívüli ellátás nem előzheti meg a (3a) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
 
 (5) A transzplantációs várólistára való felvételre jogosult:
 
@@ -63,3 +67,5 @@ c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egé
 (9) Az intézményi várólistát vezető személy gondoskodik a biztosított intézményi várólistára történő felvételéről és az intézményi előjegyzési listából történő egyidejű törléséről, ha az intézményi várólista szerint adható legkorábbi időpont eléri vagy meghaladja a beteg kérésére az intézményi előjegyzési listában rögzített időpontot.
 
 (10) Az intézményi előjegyzési lista tekintetében a (3c) és (9) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
+
+(11) Az intézményi regisztrációs lista tekintetében a (2) bekezdés a) pontjában, a (2a) és (2b) bekezdésben, a (3b) bekezdésben, a (6) bekezdésben és a (8) bekezdésben, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.

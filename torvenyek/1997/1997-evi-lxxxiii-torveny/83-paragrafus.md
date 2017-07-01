@@ -56,19 +56,19 @@ y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
 
 z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
 
-zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzési listára, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
+zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, az intézményi várólistára, az intézményi előjegyzésre, az intézményi regisztrációs listára és a betegfogadási listára vonatkozó szabályok
 
 meghatározására.
 
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) határozza meg az országos várólista nyilvántartás, valamint a térségi várólistáknak a korábbi intézményi várólisták alapján történő létrehozásának szabályait,
+a) határozza meg az országos intézményi várólista nyilvántartás létrehozásának szabályait,
 
 b)
 
 c) jelölje ki az országos várólista nyilvántartást vezető szervet,
 
-d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzési listával kapcsolatos jelentés szabályait.
+d) határozza meg az intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzéssel, intézményi regisztrációs listával kapcsolatos jelentés szabályait.
 
 (2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
@@ -82,7 +82,7 @@ d) határozza meg a térségi várólista alapján történő ellátás-igénybe
 
 (2g) Felhatalmazást kap a Kormány, hogy az e törvény szerinti belföldi költségek mértékét, azok megtérítésének módját és feltételeit rendeletben meghatározza.
 
-(2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
+(2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, intézményi regisztrációs listával, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
 
 (2i) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 35/A. § szerinti külön díjazás feltételeit és felhasználásának részletes szabályait.
 
@@ -132,7 +132,7 @@ vonatkozó szabályokat,
 
 f) a betegszállításra jogosító kúraszerű kezeléseket,
 
-g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzési lista, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzési lista, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
+g) a központi várólista, a transzplantációs várólista, az intézményi előjegyzés, intézményi várólista, intézményi regisztrációs lista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a listák adatainak honlapon történő közzétételére vonatkozó szabályokat, valamint a listákhoz tartozó ellátások részletes meghatározását,
 
 h) a beutalás szakmai szabályait,
 
