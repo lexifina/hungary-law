@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2016-01-01 | 2015. évi CXCIV. törvény | 1996-85-00-00.30 |
 | 2017-01-01 | 2016. évi CXXVII. törvény | 1996-85-00-00.31 |
 | 2017-03-16 | 2017. évi II. törvény | 1996-85-00-00.32 |
+| 2017-07-01 | 2017. évi XLIX. törvény | 1996-85-00-00.33 |
