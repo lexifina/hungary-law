@@ -1,3 +1,1 @@
-## 18. §[^12]
-
-[^12]: A 18. § a 27. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+## 18. § A 91/2012. (VIII. 29.) VM rendelet 2. melléklete a 4. melléklet szerint módosul.
