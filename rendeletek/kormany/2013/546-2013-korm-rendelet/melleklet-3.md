@@ -22,7 +22,7 @@
 
 | 10. | tűzvédelmi hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 11. | bányahatósági engedélyezési eljárások | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 11. | bányahatósági engedélyezési eljárások | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 12. | fás szárú növények kivágásához szükséges engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
@@ -66,10 +66,10 @@ Az 1. § (1) bekezdés b) pontja szerinti kiemelt jelentőségű ügyekben eljá
 
 | 15. | Élelmiszer-biztonság | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
-| 16. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 16. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 17. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 17. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 18. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^25]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 380/2016. (XII. 2.) Korm. rendelet 63. § (1) bekezdés b) pontjával megállapított, ez utóbbi módosító rendelet 63. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^25]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 380/2016. (XII. 2.) Korm. rendelet 63. § (1) bekezdés b) pontjával megállapított, ez utóbbi módosító rendelet 63. § (3) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
