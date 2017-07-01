@@ -1,4 +1,4 @@
-## 39. §[^37]
+## 39. §[^33]
 
 ## 28. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az 1. § (1)–(3) bekezdése, a 2. § b) és c) pontja, a 3. § és a 30. § 2017. július 1-jén lép hatályba.
 
-[^37]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

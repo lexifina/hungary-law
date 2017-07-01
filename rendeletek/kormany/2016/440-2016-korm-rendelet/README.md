@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-440-20-
 | 2017-01-01 | 2016-440-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-02 | 2016-440-20-22.3 | 2010: CXXX. törvény |
 | 2017-01-03 | 2016-440-20-22.4 | 2010: CXXX. törvény |
+| 2017-07-01 | 2016-440-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
