@@ -22,17 +22,17 @@ c) járási (fővárosi kerületi) hivatal illetékességi területe a hatáskö
 
 (6)[^4] A Kormány
 
-a) a 4. § szerinti agrárkár-megállapító szervként,
+a)[^5] az agrárkár-megállapító szervként eljáró megyeszékhely szerinti járási hivatal feladatainak ellátására,
 
 b) a 7. § c) pontja szerinti, valamint a 9. § (1) bekezdés b) és d) pontjában foglalt feladatok ellátásáért felelős borászati hatóságként,
 
 c) a 8. § (1) bekezdése szerinti borászati hatóságként,
 
-d) a 13. § e) pontja szerinti növény- és talajvédelmi hatóságként,
+d)[^6] a 13. § e), i) és j) pontja szerinti növény- és talajvédelmi hatóságként,
 
 e) a 29. § d) pontja és a 30. § (1) bekezdése szerinti halgazdálkodási hatóságként,
 
-f) a 42. § (4) és (5) bekezdésében foglalt feladatok ellátásáért felelős mezőgazdasági igazgatási szervként,
+f)[^7] a 42. § (2a), (4) és (5) bekezdésében foglalt feladatok ellátásáért felelős mezőgazdasági igazgatási szervként,
 
 g) a 44. § (3) bekezdésében foglalt feladatok ellátásért felelős szervként,
 
@@ -54,7 +54,7 @@ o) az 59. § d) pontja és a 60. § (1) bekezdése szerinti vadászati hatóság
 
 ## Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki.
 
-(7)[^5] A Kormány
+(7)[^8] A Kormány
 
 a) a 7. § c) pontja szerinti feladatok ellátásáért felelős borászati hatóságként,
 
@@ -65,4 +65,7 @@ c) az 55. § d) pontja szerinti tenyésztési hatóságként
 [^2]: A 3. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^3]: A 3. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
 [^4]: A 3. § (6) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
-[^5]: A 3. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^5]: A 3. § (6) bekezdés a) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (6) bekezdés d) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdés f) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 3. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.

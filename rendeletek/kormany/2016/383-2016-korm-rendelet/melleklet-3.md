@@ -890,7 +890,7 @@ Szombathelyi járás
 
 Kőszegi járás
 
-18. Veszprém megye
+18.[^47] Veszprém megye
 
 18.1. Devecseri Járási Hivatal
 
@@ -918,8 +918,6 @@ Balatonalmádi járás
 
 Várpalotai járás
 
-18.5. Zirci Járási Hivatal
-
 Zirci járás
 
 19. Zala megye
@@ -943,3 +941,5 @@ Letenyei járás
 19.4. Zalaegerszegi Járási Hivatal
 
 Zalaegerszegi járás
+
+[^47]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.
