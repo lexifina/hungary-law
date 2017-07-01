@@ -28,8 +28,8 @@ c) ha a cianid koncentrációja nem haladja meg a 10 ppm-et, akkor 2018. május 
 
 (7) A 15. §-ban meghatározott nyilvántartást 2012. május 1-jéig kell elkészíteni és hozzáférhetővé tenni a nyilvánosság számára.
 
-(8)[^53] A Magyar Bányászati és Földtani Hivatal közleményt jelentet meg az inert hulladéknak tekintendő bányászati hulladékok listájáról a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben.
+(8)[^53] A Magyar Bányászati és Földtani Szolgálat közleményt jelentet meg az inert hulladéknak tekintendő bányászati hulladékok listájáról a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben.
 
 [^51]: A 16. § a 11/2011. (IV. 7.) NFM rendelet 10. §-a szerint módosított szöveg.
 [^52]: A 17. § (6) bekezdése a 91/2011. (XII. 30.) NFM rendelet 59. §-a szerint módosított szöveg.
-[^53]: A 17. § (8) bekezdését a 22/2010. (III. 19.) KHEM rendelet 3. §-a iktatta be.
+[^53]: A 17. § (8) bekezdését a 22/2010. (III. 19.) KHEM rendelet 3. §-a iktatta be, szövege a 24/2017. (VI. 30.) NFM rendelet 6. §-a szerint módosított szöveg.
