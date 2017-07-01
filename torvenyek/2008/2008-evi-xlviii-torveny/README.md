@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-48-00-00
 | 2015-12-12 | 2015. évi CXCV. törvény | 2008-48-00-00.22 |
 | 2016-12-28 | 2016. évi CLXXXII. törvény | 2008-48-00-00.23 |
 | 2017-01-19 | 2016. évi CLXXXII. törvény | 2008-48-00-00.24 |
+| 2017-07-01 | 2017. évi LXXII. törvény | 2008-48-00-00.25 |

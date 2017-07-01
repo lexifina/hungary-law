@@ -2,6 +2,6 @@
 
 (2) Tilos közzétenni szerencsejátékhoz kapcsolódó reklámot olyan sajtótermékben, amely alapvetően gyermek-, illetve fiatalkorúakhoz szól.
 
-(3) Tilos közzétenni olyan reklámot, amely az állami adóhatóság engedélye nélkül szervezett szerencsejátékot népszerűsíti.
+(3) Tilos közzétenni olyan reklámot, amely a szerencsejáték-felügyeleti hatóság engedélye nélkül szervezett szerencsejátékot népszerűsíti.
 
-(4) Tilos olyan reklámban szerepelni, amely az állami adóhatóság engedélye nélkül Magyarország területén szervezett szerencsejátékot népszerűsít.
+(4) Tilos olyan reklámban szerepelni, amely a szerencsejáték-felügyeleti hatóság engedélye nélkül Magyarország területén szervezett szerencsejátékot népszerűsít.
