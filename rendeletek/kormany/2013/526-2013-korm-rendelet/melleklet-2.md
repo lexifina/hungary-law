@@ -26,9 +26,9 @@
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 14. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 15. | talajvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Fejér Megyei Kormányhivatal |
 
@@ -66,9 +66,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 9. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 10. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | rendészet | Fejér Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -88,4 +88,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 62. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 62. § b) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 62. § b) pontja szerint módosított szöveg.
