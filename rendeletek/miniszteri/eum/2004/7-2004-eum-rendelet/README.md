@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-7-20-0B
 | 2015-04-01 | 2004-7-20-0B.15 | 3/2015. (I. 14.) EMMI rendelet |
 | 2016-12-30 | 2004-7-20-0B.16 | 37/2016. (XII. 15.) EMMI rendelet |
 | 2017-01-01 | 2004-7-20-0B.17 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2017-07-01 | 2004-7-20-0B.18 | 37/2016. (XII. 15.) EMMI rendelet |

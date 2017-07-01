@@ -6,17 +6,21 @@
 
 ## a) a közútról, illetve egészségügyi intézményben működő szaküzletnél az intézmény közlekedési útvonaláról a mozgássérültek által is akadálymentesen megközelíthető kiszolgáló helyiség;
 
-## b) legalább 20 m2 alapterületű üzlet, melyből legalább 12 m2 a kiszolgáló helyiség, valamint próbát igénylő eszközök forgalmazása esetén minimum 1,5 m2 alapterületű elkülönített próbafülke;
+## b)[^31] legalább 20 m2 alapterületű üzlet, melyből legalább 12 m2 a kiszolgáló helyiség, valamint
+
+## ba) próbát igénylő eszközök forgalmazása esetén legalább 1,5 m2 alapterületű elkülönített próbafülke, vagy
+
+## bb) egyedi méretvétel alapján készült gyógyászati segédeszköz méretvételéhez és próbájához legalább 5 m2 alapterületű helyiség vagy helyiség elkülönített része, ahol biztosíthatóak a méretvétel elvégzéséhez szükséges személyes találkozás, illetve a méretvételhez szükséges személyi higiénés feltételek;
 
 ## c) hallásjavító gyógyászati segédeszköz forgalmazásánál szabadhangtér vizsgálóegység és játékaudiometriás egység (gyermekek kiszolgálása esetén);
 
-## d)[^31] kontaktlencse és egyedi méretvétel alapján készített szemüveg forgalmazásához legalább 18 m2 alapterületű üzlet vagy a műhelytől elkülönített helyiség.
+## d)[^32] kontaktlencse és egyedi méretvétel alapján készített szemüveg forgalmazásához legalább 18 m2 alapterületű üzlet vagy a műhelytől elkülönített helyiség.
 
 ## 2. Személyi feltételek:
 
 ## a) gyógyászati segédeszköz forgalmazói szakképesítés;
 
-## b)[^32] hallásjavító gyógyászati segédeszköz forgalmazása esetén
+## b)[^33] hallásjavító gyógyászati segédeszköz forgalmazása esetén
 
 ## ba) audiológia szakorvos,
 
@@ -30,7 +34,9 @@
 
 ## foglalkoztatása;
 
-## c)[^33] egyedi méretvétel alapján készített szemüveg kiszolgálásához látszerész képesítés, kontaktlencse kiszolgálásához, illetve számítógépes szemvizsgálathoz optometrista képesítésű személy vagy szemész szakorvos foglalkoztatása.
+## c)[^34] egyedi méretvétel alapján készített szemüveg kiszolgálásához látszerész képesítés, kontaktlencse kiszolgálásához, illetve számítógépes szemvizsgálathoz optometrista képesítésű személy vagy szemész szakorvos foglalkoztatása.
+
+## d)[^35] egyedi méretvétel alapján készült gyógyászati segédeszköz méretvételéhez, próbájához és kiszolgálásához a gyógyászati segédeszköz jellegének megfelelő szakirányú szakképzettséggel rendelkező személy foglalkoztatása.
 
 ## II. Egyedi méretvétel alapján készült
 
@@ -38,15 +44,15 @@
 
 ## esetén
 
-## 1.[^34] Tárgyi feltételek:
+## 1.[^36] Tárgyi feltételek:
 
 ## Egyedi gyártó műhely esetén a közútról, illetve egészségügyi intézményben működő gyártónál végtagprotézis, járógép, fűzőkészítés esetén az intézmény közlekedési útvonaláról a mozgássérültek által is akadálymentesen megközelíthető, a méretvétel, próba és átadás célját szolgáló, mosdóval, WC-vel ellátott, a műhelytől elkülönített, összességében legalább 25 m2 területű térséggel kell rendelkezni.
 
-## 2.[^35] Személyi feltételek:
+## 2.[^37] Személyi feltételek:
 
 ## Egyedi méretvétel alapján készült gyógyászati segédeszköz méretvételéhez, próbájához és kiszolgálásához a gyógyászati segédeszköz jellegének megfelelő szakirányú szakképzettséggel rendelkező személy foglalkoztatása szükséges.
 
-## III.[^36] Kölcsönző központ
+## III.[^38] Kölcsönző központ
 
 ## 1. Tárgyi feltételek:
 
@@ -56,11 +62,11 @@
 
 ## c) naprakész számítógépes beteg- és eszköznyilvántartó adatbázis;
 
-## d)[^37] a járási hivatal által engedélyezett önálló, vagy szerződésben biztosított tisztító, fertőtlenítő központ;
+## d)[^39] a járási hivatal által engedélyezett önálló, vagy szerződésben biztosított tisztító, fertőtlenítő központ;
 
 ## e) önállóan vagy szerződés szerint működtetett javító szolgálat;
 
-## f)[^38] önálló vagy szerződésben garantált és a járási hivatal által engedélyezett szállítási tevékenység.
+## f)[^40] önálló vagy szerződésben garantált és a járási hivatal által engedélyezett szállítási tevékenység.
 
 ## 2. Személyi feltételek:
 
@@ -68,7 +74,7 @@
 
 ## 3. Telephelyen az 1. pont b) alpontja kivételével valamennyi az 1. és 2. pontban foglalt tárgyi és személyi feltétel irányadó.
 
-3. számú melléklet a 7/2004. (XI. 23.) EüM rendelethez[^39]
+3. számú melléklet a 7/2004. (XI. 23.) EüM rendelethez[^41]
 
 Vásárlói nyilatkozat kontaktlencse internetes vásárlásához
 
@@ -78,12 +84,14 @@ Kijelentem, hogy elmúltam 18 éves, és panaszmentes kontaktlencse viselőként
 
 A fentiek elmulasztásából eredő károkért teljes felelősséget vállalok.”
 
-[^31]: A 2. számú melléklet I.1. pontjának d) alpontját a 25/2005. (VI. 29.) EüM rendelet 5. § (2) bekezdése iktatta a szövegbe.
-[^32]: A 2. számú melléklet I.2. pont b) alpontja a 3/2015. (I. 14.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^33]: A 2. számú melléklet I. rész 2. pontjának c) alpontja a 8/2008. (III. 4.) EüM rendelet 17. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
-[^34]: A 2. számú melléklet II.1. pontja a 25/2005. (VI. 29.) EüM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^35]: A 2. számú melléklet II.2. pontja a 3/2015. (I. 14.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^36]: A 2. számú melléklet III. részét a 8/2008. (III. 4.) EüM rendelet 17. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
-[^37]: A 2. számú melléklet III. rész 1. pont d) alpontja a 10/2011. (III. 30.) NEFMI rendelet 49. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 29. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 34. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^38]: A 2. számú melléklet III. rész 1. pont f) alpontja a 10/2011. (III. 30.) NEFMI rendelet 49. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 29. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 34. § (2) bekezdés d) pontja szerint szerint módosított szöveg.
-[^39]: A 3. mellékletet a 17/2012. (VIII. 29.) EMMI rendelet 3. §-a iktatta be.
+[^31]: A 2. számú melléklet I. rész 1. pont b) alpontja a 37/2016. (XII. 15.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^32]: A 2. számú melléklet I.1. pontjának d) alpontját a 25/2005. (VI. 29.) EüM rendelet 5. § (2) bekezdése iktatta a szövegbe.
+[^33]: A 2. számú melléklet I.2. pont b) alpontja a 3/2015. (I. 14.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^34]: A 2. számú melléklet I. rész 2. pontjának c) alpontja a 8/2008. (III. 4.) EüM rendelet 17. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
+[^35]: A 2. számú melléklet I. rész 2. pont d) alpontját a 37/2016. (XII. 15.) EMMI rendelet 3. §-a iktatta be.
+[^36]: A 2. számú melléklet II.1. pontja a 25/2005. (VI. 29.) EüM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^37]: A 2. számú melléklet II.2. pontja a 3/2015. (I. 14.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^38]: A 2. számú melléklet III. részét a 8/2008. (III. 4.) EüM rendelet 17. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
+[^39]: A 2. számú melléklet III. rész 1. pont d) alpontja a 10/2011. (III. 30.) NEFMI rendelet 49. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 29. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 34. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^40]: A 2. számú melléklet III. rész 1. pont f) alpontja a 10/2011. (III. 30.) NEFMI rendelet 49. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 29. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 34. § (2) bekezdés d) pontja szerint szerint módosított szöveg.
+[^41]: A 3. mellékletet a 17/2012. (VIII. 29.) EMMI rendelet 3. §-a iktatta be.
