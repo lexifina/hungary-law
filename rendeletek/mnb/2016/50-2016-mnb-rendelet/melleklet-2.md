@@ -112,7 +112,7 @@
 
 | 53 | SL6 | Gépjármű finanszírozás | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT-fióktelepek, pénzügyi vállalkozások | egyedi elrendelés alapján, negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 12. munkanap 12 óra |
 
-| 54 | P02 | Fogadott és küldött euroátutalások és eurobeszedések | bankok, a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 411. §-a alapján továbbműködő elszámolóház kivételével a pénzforgalmi szolgáltatatást végző szakosított hitelintézetek, az ezen típusú EGT-fióktelepek | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
+| 54 | P02 | Fogadott és küldött euroátutalások és eurobeszedések | bankok, a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 411. §-a alapján továbbműködő elszámolóház kivételével a pénzforgalmi szolgáltatatást végző szakosított hitelintézetek, az ezen típusú EGT-fióktelepek, MÁK | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
 
 | 55 | P03 | Eseti felvigyázói értesítések | központi szerződő fél, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (EBEAD rendszer) | az eseményt követő 2. munkanap |
 
