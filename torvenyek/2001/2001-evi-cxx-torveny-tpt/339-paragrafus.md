@@ -4,9 +4,9 @@
 
 (2) Központi szerződő fél az (1) bekezdésben meghatározott tevékenységen kívül jogosult
 
-a) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon kötött ügyletek teljesítéséhez kapcsolódóan kötelezettséget vállalni,
+a) árura kötött ügyletek teljesítéséhez kapcsolódóan kötelezettséget vállalni,
 
-b) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezet piacon, egyensúlyozó platformon kötött ügyletet elszámolni,
+b) árura kötött ügyletet elszámolni,
 
 c) az általa elszámolt, illetve az általa elszámolásra közvetített ügyletek vonatkozásában teljesítést végezni,
 

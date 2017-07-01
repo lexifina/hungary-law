@@ -136,7 +136,7 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 53. független pénzügyi szakértő: olyan könyvvizsgáló, befektetési tanácsadási tevékenység végzésére jogosult személy vagy forgalmazó, aki a vételi ajánlat közzétételének időpontját megelőző három éven belül nem állt megbízásos jogviszonyban sem az ajánlattevővel, sem a vételi ajánlattal érintett részvénytársasággal, sem az ebben, illetve az ajánlattevőben befolyással rendelkező személlyel,
 
-54. garanciaalap: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként a központi szerződő fél által létrehozott olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
+54. garanciaalap: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként a központi szerződő fél által létrehozott olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
 
 55. harmadik ország: az az ország, amely nem tagja az Európai Uniónak,
 
@@ -180,7 +180,7 @@ b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót, illetve a m
 
 c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
 
-70. elszámolás: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
+70. elszámolás: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
 
 71–74.
 
@@ -204,7 +204,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 82. központi szerződő fél: a 648/2012/EU rendelet 2. cikk 1. pontjában meghatározott fogalom,
 
-83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
+83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
 
 84. közvetett tulajdon, illetve közvetett befolyás: egy vállalkozás tulajdoni hányadának, illetőleg szavazati jogának a vállalkozásban tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más vállalkozás (köztes vállalkozás) tulajdoni hányadán, szavazati jogán keresztül történő gyakorlása. A közvetett tulajdon, a közvetett befolyás arányának megállapításához a közvetett tulajdonnal, közvetett befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes vállalkozásnak a vállalkozásban fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb. Ha a köztes vállalkozásban fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni,
 
@@ -252,7 +252,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
 
-107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
+107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
 
 108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 
@@ -280,7 +280,7 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 115.
 
-116. szabályozott információ: az összefoglaló jelentés, a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
+116. szabályozott információ: a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
 
 117. származtatott (derivatív) ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, deviza, áru vagy referenciaráta (alaptermék) értékétől függ és önálló kereskedés tárgyát képezi,
 

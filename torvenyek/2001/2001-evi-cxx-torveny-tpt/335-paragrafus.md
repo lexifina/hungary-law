@@ -16,7 +16,7 @@ g) árutőzsdei szolgáltatónak,
 
 h) befektetési alapkezelőnek,
 
-i) törvény által meghatározott szervezett piac szereplőjének,
+i) jogszabály által meghatározott szervezett piac szereplőjének,
 
 j) értékpapír-kibocsátónak,
 
