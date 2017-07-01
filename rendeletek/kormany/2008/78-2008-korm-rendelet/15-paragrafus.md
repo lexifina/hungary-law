@@ -38,6 +38,8 @@ bc) a vízminőség ellenőrzési ütemterv felfüggesztéséről a felfüggeszt
 
 (14) Ez a rendelet a fürdővizek minőségéről és a 76/160/EGK irányelv hatályon kívül helyezéséről szóló 2006. február 15-i 2006/7/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+(15)[^75] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 6. § (1) és (4) bekezdésének hatálybalépése[^76] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+
 [^68]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (1) bekezdésével megállapított szöveg.
 [^69]: A 15. § (4) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
 [^70]: A 15. § (8) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
@@ -45,3 +47,5 @@ bc) a vízminőség ellenőrzési ütemterv felfüggesztéséről a felfüggeszt
 [^72]: A 15. § (11) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^73]: A 15. § (12) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^74]: A 15. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^75]: A 15. § (15) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^76]: A hatálybalépés időpontja 2017. július 1.

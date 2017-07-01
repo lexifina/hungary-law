@@ -12,8 +12,8 @@
 
 (6) Rendkívüli helyzet fennállása alatt a minőségellenőrzési ütemterv végrehajtása felfüggeszthető. A minőségellenőrzési ütemterv végrehajtását a rendkívüli helyzet megszűnését követő legrövidebb időn belül folytatni kell. A rendkívüli helyzet miatt hiányzó minták pótlására, annak megszűnését követő legrövidebb időn belül új mintát kell venni.
 
-(7)[^21] Az (5)–(6) bekezdések esetében az előre lefektetett minőségellenőrzési ütemterven kívül vett minták és paraméterek vizsgálatáról a járási hivatal gondoskodik a megyei kormányhivatal költségvetési kerete terhére.
+(7)[^21] Az (5)–(6) bekezdések esetében az előre lefektetett minőségellenőrzési ütemterven kívül vett minták és paraméterek vizsgálatáról a járási hivatal gondoskodik a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) költségvetési kerete terhére.
 
 [^19]: A 7. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^20]: A 7. § (2) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 7. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^21]: A 7. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés g) pontja, a 171/2017. (VI. 29.) Korm. rendelet 11. § (3) bekezdés b) pontja szerint módosított szöveg.
