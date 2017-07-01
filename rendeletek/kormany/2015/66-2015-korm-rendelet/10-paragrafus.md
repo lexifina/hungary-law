@@ -8,4 +8,8 @@ b) biztosítja a fővárosi és megyei kormányhivatal és a járási hivatalok 
 
 c) elkészíti és a közigazgatás-szervezésért felelős miniszter részére megküldi a fővárosi és megyei kormányhivatal szervezeti és működési szabályzatára vonatkozó javaslatát,
 
-d) gondoskodik a jogszabályban előírt belső szabályzatok elkészítéséről.
+d) gondoskodik a jogszabályban előírt belső szabályzatok elkészítéséről,
+
+e)[^8] jelöli ki a társadalombiztosítási határozat felülvizsgálata iránt indított perben a képviseletre jogosult személyt, ha a bírósági felülvizsgálattal érintett társadalombiztosítási határozatot elsőfokon a járási hivatal vagy a fővárosi és megyei kormányhivatal hozta, és a közigazgatási pert az elsőfokú döntést hozó szervvel szemben kell megindítani.
+
+[^8]: A 10. § e) pontját a 171/2017. (VI. 29.) Korm. rendelet 18. § (2) bekezdése iktatta be.

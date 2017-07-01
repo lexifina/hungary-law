@@ -15,3 +15,7 @@
 (6) A járási hivatal által működtetett kormányablak és okmányiroda – ha jogszabály kivételt nem tesz – az ország területére kiterjedő illetékességgel ellátja a külön jogszabályban hatáskörébe utalt feladatokat.
 
 (7) Hivatalból indult eljárásra az a kormányablak vagy okmányiroda illetékes, amely járási hivatal illetékességi területén az ügyfél lakóhelye, ennek hiányában tartózkodási helye (székhelye, telephelye) van. Amennyiben a járási hivatal illetékességi területén több kormányablak vagy okmányiroda is működik, az eljárásra a kormánymegbízott által a járási hivatal ügyrendjében meghatározott kormányablak vagy okmányiroda az illetékes.
+
+(8)[^1] Ha kormányrendelet a feladatellátásért felelős szervként, valamint eljáró hatóságként a megyei kormányhivatal megyeszékhely szerinti járási hivatalát jelöli ki, a megyeszékhely szerinti járási hivatal illetékességi területe a járási hivatal székhelye szerinti megyére terjed ki. Kormányrendelet a megyeszékhely szerinti járási hivatal illetékességi területét egyes államigazgatási feladatok tekintetében ettől eltérően is megállapíthatja. Ha kormányrendelet a feladatellátásért felelős szervként, valamint eljáró hatóságként kijelölt fővárosi kerületi hivatalt jelöl ki, a fővárosi kerületi hivatal illetékességi területe Budapest fővárosra terjed ki. Kormányrendelet a kijelölt fővárosi kerületi hivatal illetékességi területét egyes államigazgatási feladatok tekintetében ettől eltérően is megállapíthatja.
+
+[^1]: A 2. § (8) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 18. § (1) bekezdése iktatta be.

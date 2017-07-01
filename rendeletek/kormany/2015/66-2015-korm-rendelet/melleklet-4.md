@@ -20,7 +20,7 @@
 
 | 10. | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Hajdú-Bihar Megyei Kormányhivatal |
 
-4. melléklet a 66/2015. (III. 30.) Korm. rendelethez[^24]
+4. melléklet a 66/2015. (III. 30.) Korm. rendelethez[^30]
 
 Azon ügykörök, amelyeknél a kérelem – jogszabály eltérő rendelkezése hiányában – csak a rendszeresített űrlapon nyújtható be:
 
@@ -120,4 +120,4 @@ Azon ügykörök, amelyeknél a kérelem – jogszabály eltérő rendelkezése 
 
 48. Szabad mozgás és tartózkodás jogával rendelkező személy engedélymentes foglalkoztatásának bejelentése
 
-[^24]: A 4. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 292. § (3) bekezdése iktatta be.
+[^30]: A 4. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 292. § (3) bekezdése iktatta be.
