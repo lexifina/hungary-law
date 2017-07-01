@@ -1,6 +1,6 @@
-## 175. §[^452] Szakképzettnek kell tekinteni azt a bölcsődei igazgatóságnál, egyesített bölcsődében magasabb vezetői beosztásban, valamint bölcsődében szaktanácsadó munkakörben foglalkoztatott személyt, akinek vezetői megbízására 2016. április 1-jét megelőzően került sor, vagy akit 2016. április 1-jét megelőzően is szaktanácsadó munkakörben foglalkoztattak és a 2016. március 31-én hatályos képesítési feltételeknek megfelelt.
+## 175. §[^455] Szakképzettnek kell tekinteni azt a bölcsődei igazgatóságnál, egyesített bölcsődében magasabb vezetői beosztásban, valamint bölcsődében szaktanácsadó munkakörben foglalkoztatott személyt, akinek vezetői megbízására 2016. április 1-jét megelőzően került sor, vagy akit 2016. április 1-jét megelőzően is szaktanácsadó munkakörben foglalkoztattak és a 2016. március 31-én hatályos képesítési feltételeknek megfelelt.
 
-176. §[^453] (1) Szakképzettnek kell tekinteni azt a családi bölcsődében vagy napközbeni gyermekfelügyelet keretében foglalkoztatott személyt, aki 2017. január 1-jét megelőzően a családi bölcsődévé vagy napközbeni gyermekfelügyeletté átalakult családi napköziben vagy a napközbeni gyermekfelügyeletté átalakult házi gyermekfelügyeletben szakképzettnek minősült.
+176. §[^456] (1) Szakképzettnek kell tekinteni azt a családi bölcsődében vagy napközbeni gyermekfelügyelet keretében foglalkoztatott személyt, aki 2017. január 1-jét megelőzően a családi bölcsődévé vagy napközbeni gyermekfelügyeletté átalakult családi napköziben vagy a napközbeni gyermekfelügyeletté átalakult házi gyermekfelügyeletben szakképzettnek minősült.
 
 (2) A szolgáltatói nyilvántartásba 2016. december 31-én bejegyzett bölcsőde fenntartójának 2017. december 31-éig kell gondoskodnia a bölcsődei dajka munkakör bevezetéséről és a 2016. december 31-én technikai, takarítói munkakörben dolgozó személyek bölcsődei dajka munkakörbe történő átsorolásáról.
 
@@ -10,5 +10,5 @@
 
 (5) A többcélú, közös igazgatású egy- vagy kétcsoportos bölcsődében vezetői megbízása megszűnéséig önálló vezető munkakörben látja el feladatait az a személy, akinek vezetői megbízására 2017. január 1-jét megelőzően került sor.
 
-[^452]: A 175. §-t a 6/2016. (III. 24.) EMMI rendelet 3. §-a iktatta be.
-[^453]: A 176. §-t a 6/2016. (III. 24.) EMMI rendelet 4. §-a iktatat be.
+[^455]: A 175. §-t a 6/2016. (III. 24.) EMMI rendelet 3. §-a iktatta be.
+[^456]: A 176. §-t a 6/2016. (III. 24.) EMMI rendelet 4. §-a iktatat be.

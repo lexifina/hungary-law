@@ -1,6 +1,6 @@
-## Nevelési felügyelet a speciális gyermekotthonban, a speciális lakásotthonban és a gyermekotthon speciális csoportjában[^256]
+## Nevelési felügyelet a speciális gyermekotthonban, a speciális lakásotthonban és a gyermekotthon speciális csoportjában[^259]
 
-126/B. §[^257] (1) A speciális gyermekotthon vezetője a Gyvt. 81/B. § (1) bekezdése szerinti esetben írásban kezdeményezi a gyámhivatalnál a gyermek nevelési felügyeletének elrendelését. A speciális gyermekotthon vezetője kérelmében tájékoztatást nyújt a gyámhivatalnak a gyermek aktuális személyiségállapotáról, a nevelési felügyelet elrendelését megalapozó okról, és javaslatot tesz a nevelési felügyelet időtartamára. A speciális gyermekotthon vezetője a kérelmet egyidejűleg megküldi a gyermekjogi képviselőnek, a gyermekvédelmi gyámnak és a megyei, fővárosi gyermekvédelmi szakértői bizottságnak is.
+126/B. §[^260] (1) A speciális gyermekotthon vezetője a Gyvt. 81/B. § (1) bekezdése szerinti esetben írásban kezdeményezi a gyámhivatalnál a gyermek nevelési felügyeletének elrendelését. A speciális gyermekotthon vezetője kérelmében tájékoztatást nyújt a gyámhivatalnak a gyermek aktuális személyiségállapotáról, a nevelési felügyelet elrendelését megalapozó okról, és javaslatot tesz a nevelési felügyelet időtartamára. A speciális gyermekotthon vezetője a kérelmet egyidejűleg megküldi a gyermekjogi képviselőnek, a gyermekvédelmi gyámnak és a megyei, fővárosi gyermekvédelmi szakértői bizottságnak is.
 
 (2) A gyermekvédelmi gyám a Gyvt. 81/B. § (2) bekezdése szerinti kérelmében tájékoztatást nyújt a gyámhivatalnak a nevelési felügyelet elrendelését megalapozó okról, és javaslatot tesz a nevelési felügyelet időtartamára. A gyermekvédelmi gyám a kérelmet egyidejűleg megküldi a gyermekjogi képviselőnek, a speciális gyermekotthon vezetőjének és a megyei, fővárosi gyermekvédelmi szakértői bizottságnak is.
 
@@ -26,5 +26,5 @@ a) gondoskodik a nevelési felügyeletet elrendelő határozatban foglaltak vég
 
 b) a gyámhivatal felkérésére biztosítja a gyermek gyermekotthonban történő meghallgatásának feltételeit.
 
-[^256]: A 126/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.
-[^257]: A 126/B. §-t a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.
+[^259]: A 126/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.
+[^260]: A 126/B. §-t a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.

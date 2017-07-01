@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2016-09-01 | 1998-15-20-3D.36 | 31/2009. (XII. 22.) SZMM rendelet |
 | 2017-01-01 | 1998-15-20-3D.37 | 43/2016. (XII. 27.) EMMI rendelet |
 | 2017-02-17 | 1998-15-20-3D.38 | 1/2017. (II. 14.) EMMI rendelet |
+| 2017-07-01 | 1998-15-20-3D.39 | 1/2017. (II. 14.) EMMI rendelet |
