@@ -1,15 +1,15 @@
-16. § (1)[^347] A NEAK az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján az iskola- és ifjúság-egészségügyi ellátás finanszírozására azzal az egészségügyi szolgáltatóval köt finanszírozási szerződést, amely a közoktatásról szóló 1993. évi LXXIX. törvény hatálya alá tartozó nevelési és oktatási intézménnyel a feladat ellátására megállapodást kötött.
+16. § (1)[^348] A NEAK az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján az iskola- és ifjúság-egészségügyi ellátás finanszírozására azzal az egészségügyi szolgáltatóval köt finanszírozási szerződést, amely a közoktatásról szóló 1993. évi LXXIX. törvény hatálya alá tartozó nevelési és oktatási intézménnyel a feladat ellátására megállapodást kötött.
 
-(2)[^348]
+(2)[^349]
 
-(3)[^349] Az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján a területi védőnői szolgálat finanszírozására a NEAK a finanszírozási szerződést a területi védőnői szolgálatot működtető települési önkormányzattal köti meg.
+(3)[^350] Az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján a területi védőnői szolgálat finanszírozására a NEAK a finanszírozási szerződést a területi védőnői szolgálatot működtető települési önkormányzattal köti meg.
 
-(4)[^350] Amennyiben a (3) bekezdésben említett települési önkormányzat nyilatkozatával hozzájárul ahhoz, hogy a finanszírozási szerződést a területi védőnői szolgálatot működtető egészségügyi szolgáltató kösse meg, a NEAK a finanszírozási szerződést a nyilatkozatban foglaltak szerint köti meg.
+(4)[^351] Amennyiben a (3) bekezdésben említett települési önkormányzat nyilatkozatával hozzájárul ahhoz, hogy a finanszírozási szerződést a területi védőnői szolgálatot működtető egészségügyi szolgáltató kösse meg, a NEAK a finanszírozási szerződést a nyilatkozatban foglaltak szerint köti meg.
 
-(5)[^351] Az (1)–(4) bekezdésben nem szereplő és az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásra a NEAK, az egészségügyért felelős miniszter rendelete szerint a szolgáltatás nyújtására kötelezett egészségügyi szolgáltatóval, a szolgáltató egyéb finanszírozott tevékenysége keretében köt finanszírozási szerződést.
+(5)[^352] Az (1)–(4) bekezdésben nem szereplő és az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásra a NEAK, az egészségügyért felelős miniszter rendelete szerint a szolgáltatás nyújtására kötelezett egészségügyi szolgáltatóval, a szolgáltató egyéb finanszírozott tevékenysége keretében köt finanszírozási szerződést.
 
-[^347]: A Vhr. 16. § (1) bekezdése a 295/2002. (XII. 27.) Korm. rendelet 13. §-ával megállapított, valamint a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
-[^348]: A Vhr. 16. §-ának (2) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
-[^349]: A Vhr. 16. § (3) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 27. § (6)–(7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^350]: A Vhr. 16. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^351]: A Vhr. 16. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^348]: A Vhr. 16. § (1) bekezdése a 295/2002. (XII. 27.) Korm. rendelet 13. §-ával megállapított, valamint a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^349]: A Vhr. 16. §-ának (2) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^350]: A Vhr. 16. § (3) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 27. § (6)–(7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^351]: A Vhr. 16. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^352]: A Vhr. 16. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.

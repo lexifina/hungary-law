@@ -1,11 +1,11 @@
-27/A. §[^440] (1)[^441] Megszűnt biztosítási jogviszonyból származó biztosításban töltött napok közül azokat, amelyek megelőzik az ellátásra való jogosultság első napján fennálló biztosítási jogviszony kezdő napját, össze kell számítani a fennálló biztosításban töltött napokkal.
+27/A. §[^441] (1)[^442] Megszűnt biztosítási jogviszonyból származó biztosításban töltött napok közül azokat, amelyek megelőzik az ellátásra való jogosultság első napján fennálló biztosítási jogviszony kezdő napját, össze kell számítani a fennálló biztosításban töltött napokkal.
 
-(1a)[^442] A megszűnt biztosításban töltött időt akkor is hozzá kell számítani a fennálló biztosítási jogviszonyhoz, ha a megszűnt biztosítási jogviszony a fennálló biztosítási jogviszony szünetelésének időtartama alatt, vagy azt követően szűnt meg.
+(1a)[^443] A megszűnt biztosításban töltött időt akkor is hozzá kell számítani a fennálló biztosítási jogviszonyhoz, ha a megszűnt biztosítási jogviszony a fennálló biztosítási jogviszony szünetelésének időtartama alatt, vagy azt követően szűnt meg.
 
 (2) Az összeszámított biztosítási jogviszony időtartamát ahhoz a fennálló jogviszonyhoz kell hozzászámítani, amelyiknél a biztosított az ellátást kéri.
 
 (3) Ha a biztosított több fennálló jogviszonyából kéri az ellátást, a kérelemmel érintett valamennyi fennálló biztosítási jogviszonyhoz külön-külön hozzá kell számítani a megszűnt biztosítási jogviszonyból származó biztosításban töltött napoknak a fennálló biztosítás kezdő napját megelőző napjait.
 
-[^440]: A Vhr. 27/A. §-át a 295/2002. (XII. 27.) Korm. rendelet 17. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^441]: A Vhr. 27/A. § (1) bekezdése a 449/2016. (XII. 19.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^442]: A Vhr. 27/A. § (1a) bekezdését a 449/2016. (XII. 19.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^441]: A Vhr. 27/A. §-át a 295/2002. (XII. 27.) Korm. rendelet 17. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^442]: A Vhr. 27/A. § (1) bekezdése a 449/2016. (XII. 19.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^443]: A Vhr. 27/A. § (1a) bekezdését a 449/2016. (XII. 19.) Korm. rendelet 12. § (2) bekezdése iktatta be.
