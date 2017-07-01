@@ -1,7 +1,7 @@
-## 23. §[^30]
+## 23. §[^33]
 
 ## A Nemzeti Közlekedési Hatóságról szóló
 
 ## 263/2006. (XII. 20.) Korm. rendelet módosítása
 
-[^30]: A 23. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^33]: A 23. § a 45. § (4) bekezdése alapján hatályát vesztette.
