@@ -24,7 +24,7 @@ bh) számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult 
 
 bi) környezetvédelmi termékdíjjal kapcsolatos ügyben termékdíj ügyintéző szakképesítéssel rendelkező személy is,
 
-bj) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is,
+bj) a jövedéki adóról szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is,
 
 c) közokiratba vagy teljes bizonyító erejű magánokiratba foglalt eseti meghatalmazás, megbízás alapján más nagykorú személy képviselheti.
 
@@ -58,7 +58,7 @@ ci) számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult 
 
 cj) környezetvédelmi termékdíjjal kapcsolatos ügyben termékdíj ügyintéző szakképesítéssel rendelkező személy is,
 
-ck) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is képviselheti.
+ck) a jövedéki adóról szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is képviselheti.
 
 (3) Az általános forgalmi adóról szóló törvény szerinti adóvisszatérítési-jog érvényesítésére irányuló eljárásban az általános forgalmi adóról szóló törvény szerint belföldön nem letelepedett adóalanyt külföldi magánszemély, jogi személy vagy egyéb szervezet is képviselheti az adóhatóság előtt.
 
