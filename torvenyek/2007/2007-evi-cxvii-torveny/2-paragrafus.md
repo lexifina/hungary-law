@@ -78,10 +78,20 @@ c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szeri
 
 35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt azon időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz – az egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
 
-36. minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
+36. minősített befolyás: egy vállalkozással létrejött olyan közvetett és közvetlen kapcsolat, amely alapján a befolyással rendelkező
+
+a) vállalkozásban fennálló tulajdoni hányadának (részesedésének) mértéke vagy az általa gyakorolható szavazati jog aránya legalább tíz százalék,
+
+b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei testületi tagjainak legalább húsz százalékát kinevezheti vagy felmentheti, vagy
+
+c) a létesítő okirat, a megállapodás alapján döntő befolyást gyakorolhat a vállalkozás működésére. A minősített befolyás nagyságának megállapításakor a közvetlen és a közvetett tulajdont együttesen, valamint a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 37/A. § (2)–(6) bekezdésében foglaltakat kell megfelelően figyelembe venni;
 
 37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
 
 38. elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
 
-39. elektronikus irat használata: a foglalkoztatói nyugdíjszolgáltató intézmény tagja teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a foglalkoztatói nyugdíjszolgáltató intézménytől, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg, illetve tegye elérhetővé számára.
+39. elektronikus irat használata: a foglalkoztatói nyugdíjszolgáltató intézmény tagja teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a foglalkoztatói nyugdíjszolgáltató intézménytől, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg, illetve tegye elérhetővé számára;
+
+40. közvetett tulajdon: egy vállalkozás (a továbbiakban: eredeti vállalkozás) tulajdoni hányadainak, illetve szavazatainak a vállalkozásban tulajdoni részesedéssel, illetve szavazati joggal rendelkező más vállalkozás (a továbbiakban: köztes vállalkozás) tulajdoni hányadain, illetve szavazati jogán keresztül történő – a Bit. 5. melléklet szerint figyelembe vett – birtoklása vagy gyakorlása;
+
+41. vállalkozás: az üzletszerű gazdasági tevékenységet folytató gazdálkodó szervezet.
