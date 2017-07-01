@@ -24,7 +24,7 @@
 
 | 11. | talajvédelmi hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 12. | bányahatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 12. | bányahatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 13. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavé-delmi Főigazgatóság |
 
@@ -70,12 +70,12 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | Egészségügy | illetékes járási hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 17. | Földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 17. | Földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 18. | Bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 18. | Bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 19. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 20. | A 2-19. sorban nem említett, egyéb szakhatósági közreműködésre vonatkozó tárgykörök | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú eljárásban szakhatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú eljárásban szakhatóságként kijelölt hatóság |
 
-[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 96. § (1) bekezdés b) pontjával megállapított, a (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 96. § (1) bekezdés b) pontjával megállapított, a (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 82. § b) pontja szerint módosított szöveg.
