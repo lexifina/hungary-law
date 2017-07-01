@@ -40,7 +40,7 @@ t) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási 
 
 u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban;
 
-v) a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti hitelező által a csődeljárásról és a felszámolási eljárásról szóló törvény alapján indított bírósági eljárásban.
+v) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
 
 (2) Az (1) bekezdés a)–c) és g)–h), továbbá l) pontjaiban említett perek esetén, ha az összegszerűség megállapítása a bíróság mérlegelésétől függ és a kereset nem volt nyilvánvalóan eltúlzott, részleges pervesztesség esetén a bíróság a fél illetékfizetésre való kötelezését mellőzheti.
 
