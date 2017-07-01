@@ -16,6 +16,8 @@
 
 (3)
 
-(4) A vállalkozáscsoport azon tagjának, amely önmagában kis- és középvállalkozásnak minősülne és a működésével összefüggésben felmerült, tárgyévet megelőző évi energiafelhasználása nem éri el a vállalkozáscsoport legnagyobb fogyasztású vállalkozásának a működésével összefüggésben felmerült, tárgyévet megelőző évi éves energiafelhasználás 5%-át, nem kell kötelező energetikai auditálást lefolytatnia vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetnie.
+(4) A vállalkozáscsoport azon tagjának, amely önmagában kis- és középvállalkozásnak minősülne és az auditálás évét megelőző 3 évben az átlagos éves összes energiafogyasztása nem éri el a 3 GWh-t, nem kell kötelező energetikai auditálást lefolytatnia vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetnie.
 
 (5) Nem kell külön energetikai auditálást lefolytatnia annak a nagyvállalatnak, amely egy vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó energetikai audit ezen nagyvállalatra is kiterjed.
+
+(6) Ha a nagyvállalat energetikai alapállapot felmérése során megállapították, hogy a valamely auditálandó részterület (épületek, folyamatok és szállítás) – tárgyévet megelőző 3 év átlagában – éves energiafelhasználása az összes éves energiafelhasználás 10 százalékát nem éri el, a részterület mentesül a kötelező auditálás alól.

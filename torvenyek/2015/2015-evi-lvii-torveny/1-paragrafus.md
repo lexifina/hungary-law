@@ -56,7 +56,7 @@
 
 25. nagy hatásfokú kapcsolt energiatermelés: a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendelet szerint nagy hatásfokúnak minősülő kapcsolt energiatermelés;
 
-26. nagyvállalat: a kis- és középvállalkozásnak nem minősülő vállalkozás;
+26. nagyvállalat: a Kkvtv. 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás;
 
 27. névleges bemenő hőteljesítmény: az adott energiaátalakító berendezésre vonatkozó hatósági határozatban vagy a berendezés gépkönyvében vagy gyártói nyilatkozatában rögzített névleges teljesítményen történő üzemeltetéséhez szükséges, az energiaátalakító berendezésbe bevitt hőteljesítmény megawattban (MWth) kifejezve;
 
