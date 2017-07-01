@@ -19,3 +19,11 @@ b) egyéb esetben – törvény eltérő rendelkezésének hiányában – a sze
 (8) A fővárosi és megyei kormányhivatal esetében a (3) bekezdést azzal az eltéréssel kell alkalmazni, hogy a járási (fővárosi kerületi) hivatal kormánytisztviselője tekintetében az alapilletmény-eltérítésre a járási (fővárosi kerületi) hivatal vezetője tesz javaslatot. A járási (fővárosi kerületi) hivatal vezetőjének javaslata alapján az alapilletmény-eltérítésről a kormánymegbízott dönt.
 
 (9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.
+
+(10) Az alapilletmény (3)–(5) bekezdés szerinti megemelésére a tárgyévet megelőző év minősítése, teljesítményértékelése hiányában – a (11) bekezdésben foglaltak szerinti teljesítményértékelés alapján – is lehetőség van a tárgyév december 31-ig
+
+a) ha a kormánytisztviselő kormányzati szolgálati jogviszonya közalkalmazotti, hivatásos szolgálati vagy katonai szolgálati jogviszonyból áthelyezéssel létesül és az áthelyezést közvetlenül megelőzően – a közalkalmazotti, hivatásos szolgálati vagy katonai szolgálati jogviszonyából adódóan – érvényes minősítéssel, teljesítményértékeléssel rendelkezik, vagy
+
+b) a szülési szabadság vagy a gyermek gondozása céljából biztosított fizetés nélküli szabadság leteltét követően, ha a szülési szabadságot vagy a fizetés nélküli szabadságot közvetlenül megelőzően emelt összegű alapilletménnyel és érvényes minősítéssel, teljesítményértékeléssel rendelkezett.
+
+(11) Az alapilletmény (10) bekezdés szerinti megemelésére a kormánytisztviselő soron kívüli, az áthelyezés, a szülési szabadság vagy a gyermek gondozása céljából biztosított fizetés nélküli szabadság leteltét követő legalább 45, legfeljebb 60 napon belüli, soron kívüli teljesítményértékelésének elvégzése esetén van lehetőség.

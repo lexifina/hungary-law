@@ -10,4 +10,8 @@
 
 (5) A (4) bekezdés alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
-(6) A kiválasztás során, a munkakör betöltéséhez előírt szakmai végzettséggel, szakképzettséggel, szakképesítéssel, tapasztalattal, képességgel egyformán rendelkező jelöltek esetén – a Kormány rendeletében meghatározottak szerint – előnyben lehet részesíteni azt a személyt, aki több gyermeket nevel.
+(6) A kiválasztás során, a munkakör betöltéséhez előírt szakmai végzettséggel, szakképzettséggel, szakképesítéssel, tapasztalattal, képességgel egyformán rendelkező jelöltek esetén
+
+a) – a Kormány rendeletében meghatározottak szerint – előnyben lehet részesíteni azt a személyt, aki több gyermeket nevel, valamint
+
+b) előnyben kell részesíteni az önkéntes tartalékos szolgálati viszonyban állókat.
