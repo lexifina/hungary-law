@@ -74,7 +74,7 @@ d)[^2] az egészségbiztosítási nyilvántartások vezetésével kapcsolatosan 
 
 e)[^3] a másodfokú eljárás alapján az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat,
 
-f) a miniszter felé az a)–e) pontban meghatározott feladatok, illetve a járási hivatal egészségbiztosítási feladatai végrehajtása során észlelt jogalkalmazási problémák jelzését,
+f)[^4] a miniszter felé az a) és d)–e) pontban meghatározott feladatok, illetve a járási hivatal egészségbiztosítási feladatai végrehajtása során észlelt jogalkalmazási problémák jelzését,
 
 g) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) VIII. fejezetében meghatározott megtérítési eljárásokkal kapcsolatban hatáskörébe utalt feladatokat,
 
@@ -96,7 +96,7 @@ b) az üzemi balesetből vagy foglalkozási megbetegedésből eredő egészségk
 
 c) a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
 
-d)[^4] a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a hatáskörébe tartozó feladatokat, továbbá az egészségbiztosítási nyilvántartások vezetésével, így különösen
+d)[^5] a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a hatáskörébe tartozó feladatokat, továbbá az egészségbiztosítási nyilvántartások vezetésével, így különösen
 
 da) a TAJ-jal rendelkező személyek azonosító adatainak nyilvántartásával kapcsolatos feladatokat,
 
@@ -126,7 +126,7 @@ l) az a)–k) ponthoz kapcsolódó adatkezelési és adatszolgáltatási feladat
 
 m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a hatáskörébe utal.
 
-(5a)[^5] A járási hivatal az egészségbiztosítási feladatai keretében ellátja az Ebtv. 27. § (1), (2), (5), (7) és (11) bekezdése szerinti feladatokat.
+(5a)[^6] A járási hivatal az egészségbiztosítási feladatai keretében ellátja az Ebtv. 27. § (1), (2), (5), (7) és (11) bekezdése szerinti feladatokat.
 
 (6) A NEAK, az ONYF Központja és a kormányhivatalok a szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
 
@@ -134,5 +134,6 @@ m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a h
 
 [^2]: A 7. § (3) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^3]: A 7. § (3) bekezdés e) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^4]: A 7. § (5) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^5]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be.
+[^4]: A 7. § (3) bekezdés f) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 7. § (5) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^6]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be.
