@@ -20,7 +20,7 @@
 
 | 9. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások, a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 10. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | azok a 2-10. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
 
@@ -58,10 +58,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 14. | Élelmiszer-biztonság | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
-| 15. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 16. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 16. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 17. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 81. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 81. § (2) bekezdése szerint módosított szöveg. szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^5]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 81. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 81. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 73. § b) pontja szerint módosított szöveg.
