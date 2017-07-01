@@ -1,1 +1,0 @@
-Az energiagazdálkodás és a környezetvédelem céljainak figyelembevételével, az externális környezeti károk energiaárakba történő beépítése, az energiatakarékossági szempontok érvényre juttatása, valamint a villamos energia, a földgáz és a szén e szempontokat érvényre juttató adóztatásához szükséges feltételek megteremtése érdekében az Országgyűlés a következő törvényt alkotja:
