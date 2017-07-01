@@ -28,7 +28,7 @@
 
 | 13. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 14. | bányahatósági eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | bányahatósági eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 15. | talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Hajdú-Bihar Megyei Kormányhivatal |
 
@@ -76,7 +76,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | vízi közlekedés | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
-| 10. | földtan és bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | földtan és bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | rendészet (rendőrség) gyorsforgalmi út esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -102,4 +102,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | élelmiszer-biztonság | illetékes járási hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 14. § (1) bekezdés b) pontjával megállapított és (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 14. § (1) bekezdés b) pontjával megállapított és (2) bekezdés b) pontja, a 162/2017. (VI. 28.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
