@@ -1,14 +1,14 @@
 ## 1. Kijelölés
 
-1. §[^1] (1) A Kormány – ha jogszabály eltérően nem rendelkezik –
+1. §[^1] (1)[^2] A Kormány – ha jogszabály eltérően nem rendelkezik –
 
 a) első fokon eljáró rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként a megyei kormányhivatal megyeszékhely szerinti járási hivatalát, valamint Budapest Főváros Kormányhivatala III. Kerületi Hivatalát (a továbbiakban együtt: járási hivatal),
 
-b) másodfokon eljáró rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként Budapest Főváros Kormányhivatalát
+b) másodfokon eljáró rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként az 5. melléklet szerinti rehabilitációs hatáskörben eljáró fővárosi és megyei kormányhivatalt
 
-## jelöli ki.
+jelöli ki.
 
-(1a)[^2] Az (1) bekezdésben foglaltaktól eltérően a Kormány a Csongrád Megyei Kormányhivatal illetékességi területén a 16. § szerinti együttműködési kötelezettség teljesítésével, a rehabilitációs tervvel kapcsolatos feladatok ellátására, a 19. § (4) és (5) bekezdése szerinti foglalkozási rehabilitációs szolgáltatások biztosítására, valamint a 21. § szerinti feladatok ellátásra a Csongrád Megyei Kormányhivatal megyeszékhely szerinti járási hivatalát és a Hódmezővásárhelyi Járási Hivatalát jelöli ki.
+(1a)[^3] Az (1) bekezdésben foglaltaktól eltérően a Kormány a Csongrád Megyei Kormányhivatal illetékességi területén a 16. § szerinti együttműködési kötelezettség teljesítésével, a rehabilitációs tervvel kapcsolatos feladatok ellátására, a 19. § (4) és (5) bekezdése szerinti foglalkozási rehabilitációs szolgáltatások biztosítására, valamint a 21. § szerinti feladatok ellátásra a Csongrád Megyei Kormányhivatal megyeszékhely szerinti járási hivatalát és a Hódmezővásárhelyi Járási Hivatalát jelöli ki.
 
 (2) A Kormány a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 21. § (2) bekezdésében meghatározottak tekintetében rehabilitációs hatóságként – az (1) bekezdésben foglaltakon túlmenően – a központi nyugdíjbiztosítási szervet is kijelöli. Az állami adóhatóság az Mmtv. 21. § (2) bekezdése és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, az állami foglalkoztatási szerv és a munkaügyi hatóság részére az állami adóhatóság által teljesített adatátadás részletes szabályairól szóló 424/2012. (XII. 29.) Korm. rendelet 2/A. §-a szerinti adattovábbítási kötelezettségét a központi nyugdíjbiztosítási szerv felé teljesíti.
 
@@ -46,15 +46,19 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
 ## biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javaslatot tesz az orvosi rehabilitációhoz szükséges egészségügyi szolgáltatásokra.
 
-(10) Budapest Főváros Kormányhivatala e rendelet szerinti hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti szerv a szociál- és nyugdíjpolitikáért felelős miniszter.
+(10)[^4] Az 5. melléklet szerinti rehabilitációs hatáskörben másodfokú hatóságként eljáró fővárosi és megyei kormányhivatalok e rendelet szerinti hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti szerv a szociál- és nyugdíjpolitikáért felelős miniszter.
 
-(11) A járási hivatalok rehabilitációs hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket Budapest Főváros Kormányhivatala gyakorolja.
+(11)[^5] A járási hivatalok rehabilitációs hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket az 5. melléklet szerinti fővárosi és megyei kormányhivatal gyakorolja.
 
-(12) A járási hivatalok, valamint Budapest Főváros Kormányhivatala rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (11) bekezdésben meghatározottak kivételével.
+(12)[^6] A járási hivatalok, valamint az 5. melléklet szerinti fővárosi és megyei kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (11) bekezdésben meghatározottak kivételével.
 
 (13) A Szociális és Gyermekvédelmi Főigazgatóság közreműködik a szociál- és nyugdíjpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
 
 (14) A Szociális és Gyermekvédelmi Főigazgatóság közreműködik azon eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésében, amelyek segítik a rehabilitációs hatósági és szolgáltató tevékenységet, valamint hatékonysági vizsgálatokat folytat, prognózisokat, elemzéseket készít, továbbá orvos-szakmai módszertani feladatellátáshoz kapcsolódó képességvizsgálatokat végez. E feladatai ellátásával összefüggésben a Szociális és Gyermekvédelmi Főigazgatóság a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszerben kezelt adatokat statisztikai célra – személyazonosításra alkalmatlan módon – felhasználhatja.
 
 [^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^2]: Az 1. § (1) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^3]: Az 1. § (1a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^4]: Az 1. § (10) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^5]: Az 1. § (11) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^6]: Az 1. § (12) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.

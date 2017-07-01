@@ -10,6 +10,8 @@ c) az érintett személy állapota a rendelkezésre álló orvosi dokumentáció
 
 (3) A személyes vizsgálatot kivételesen, az érintett személy hozzájárulása esetén az illetékes szakértői szervvel szomszédos megyében működő szakértői szerv is elvégezheti, ha annak székhelyén vagy telephelyén történő megjelenés az érintett személy számára nem jelent aránytalan terhet.
 
+(3a)[^30] Amennyiben Budapest Főváros Kormányhivatala másodfokú hatóságként jár el, és az eljárás során az egészségi állapot, egészségkárosodás vagy fogyatékosság szakkérdését kell vizsgálni, a személyes vizsgálatot Budapest Főváros Kormányhivatala, vagy – Budapest Főváros Kormányhivatala megkeresése alapján – az az 5. melléklet szerinti kormányhivatal végzi el, amelynek székhelyén vagy telephelyén való megjelenés az érintett személy számára a legkedvezőbb.
+
 (4) A személyes vizsgálat az érintett személy lakó- vagy tartózkodási helyén is elvégezhető, ha a minősítéshez a lakhatási viszonyainak, környezetének, önellátási vagy önkiszolgálási képességének megismerése szükséges.
 
 (5) A személyes vizsgálatot az érintett személy lakó- vagy tartózkodási helyén kell elvégezni, ha a háziorvosa indoklással ellátott igazolást ad arról, hogy állapota nem teszi lehetővé a szakértői szerv székhelyén vagy telephelyén való megjelenést. A háziorvosnak az igazoláshoz mellékelnie kell a vizsgálati jogcím szerinti, az igény benyújtásakor fennálló egészségi állapotot igazoló szakorvosi leleteket is.
@@ -19,3 +21,5 @@ c) az érintett személy állapota a rendelkezésre álló orvosi dokumentáció
 (7) Komplex minősítés esetén a rehabilitációs hatóság a rehabilitációs javaslat elkészítéséhez képességfelmérő vizsgálatot végezhet.
 
 (8) A kiegészítő egészségügyi és a képességfelmérő vizsgálat elvégzésére a szakértői szerv együttműködési megállapodást köthet a megfelelő személyi és tárgyi feltételekkel rendelkező szolgáltatóval.
+
+[^30]: A 13/B. § (3a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
