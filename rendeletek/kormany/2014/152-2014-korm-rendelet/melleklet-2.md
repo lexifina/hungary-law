@@ -172,7 +172,7 @@
 
 |  | 3 |  |  |
 
-|  | 4 | Magyar Bányászati és Földtani Hivatal | irányítás |
+|  | 4 | Magyar Bányászati és Földtani Szolgálat | irányítás |
 
 |  | 5 |  |  |
 
