@@ -1,3 +1,5 @@
-## 71. § Hatályát veszti a fejezeti és egyes központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 7/2016. (IV. 8.) NFM rendelet.
+## 70–71. §[^1]
 
 1. melléklet a 22/2017. (VI. 29.) NFM rendelethez
+
+[^1]: A 70–71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
