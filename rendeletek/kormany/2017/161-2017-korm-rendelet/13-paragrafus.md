@@ -1,5 +1,3 @@
-## 1–12. §
-
 ## 4. Záró rendelkezések
 
 13. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2017. június 30-án lép hatályba.
