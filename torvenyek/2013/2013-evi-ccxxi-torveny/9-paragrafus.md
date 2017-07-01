@@ -1,4 +1,4 @@
-9. § A felek rendelkezése esetén a zálogszerződést, tulajdonjog-fenntartással történő eladást, faktoring szerződést vagy lízingszerződést
+9. § A felek rendelkezése esetén a zálogszerződést, tulajdonjog-fenntartással történő eladást, faktoring szerződést vagy pénzügyi lízingszerződést, továbbá a nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházásról, illetve e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő kikötéséről szóló szerződést
 
 a) közokiratba foglaló közjegyző, vagy
 

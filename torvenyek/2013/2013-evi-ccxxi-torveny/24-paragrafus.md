@@ -1,6 +1,6 @@
 ## 12. Változás a felek személyében
 
-24. § (1) A zálogjogosult vagy a zálogkötelezett halála, illetve megszűnése esetén a hitelbiztosítéki nyilatkozat megtételére jogosult jogutódlásának (a jogutód személyének) a nyilvántartásban való átvezetéséről a közjegyző határoz.
+24. § (1) A zálogjogosult vagy a zálogkötelezett halála, illetve megszűnése esetén – a 24/A. §-ban foglalt kivétellel – a hitelbiztosítéki nyilatkozat megtételére jogosult jogutódlásának (a jogutód személyének) a nyilvántartásban való átvezetéséről a közjegyző az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény (a továbbiakban: Kjnp.) 36/P. §-a szerinti nemperes eljárásban határoz.
 
 (2) Ha a zálogjogosult személye nem az (1) bekezdésben meghatározott okból változik, a zálogjogosult személyében bekövetkezett változást mind a bejegyzett, mind pedig az új zálogjogosult – a hitelbiztosítéki rendszer felületén az erre szolgáló elektronikus adatlap kitöltésével és a hitelbiztosítéki rendszerbe történő továbbításával – bejelentheti. Ha azonban a változást az új zálogjogosult jelenti be, nyilatkozatát a bejegyzett zálogjogosult hozzájáruló nyilatkozatának beérkezéséig – de legfeljebb három hónapig – a hitelbiztosítéki rendszernek tárolnia kell.
 
@@ -10,4 +10,4 @@
 
 (5) Az (1)–(4) bekezdésben foglalt nyilatkozatokat is csak a hitelbiztosítéki rendszer regisztrált felhasználója teheti meg, és csak abban az esetben, ha a nyilatkozattal érintett személy is a hitelbiztosítéki rendszer regisztrált felhasználója; e személyek felhasználói regisztrációjára e törvény rendelkezései az irányadók.
 
-(6) Az (1)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell a tulajdonjog-fenntartással történő eladás, a faktoring szerződés és a pénzügyi lízingszerződés esetén.
+(6) Az (1)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell a tulajdonjog-fenntartással történő eladás, a faktoring szerződés és a pénzügyi lízingszerződés, továbbá a nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházásról, illetve e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő kikötéséről szóló szerződés esetén.

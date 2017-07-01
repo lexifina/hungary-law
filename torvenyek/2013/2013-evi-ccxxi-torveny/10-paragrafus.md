@@ -10,4 +10,4 @@ a) a hitelbiztosítéki nyilvántartás regisztrált felhasználója a regisztr�
 
 b) az érintettnek állandó képviselője van (5. §).
 
-(5) Ha zálogszerződés, tulajdonjog-fenntartással történő eladás, faktoring szerződés vagy lízingszerződés a 9. § alkalmazásával került rögzítésre a nyilvántartásban, módosítására, törlésére is csak a 9. § alkalmazásával kerülhet sor.
+(5) Ha zálogszerződés, tulajdonjog-fenntartással történő eladás, faktoring szerződés vagy pénzügyi lízingszerződés, továbbá a nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházásról, illetve e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő kikötéséről szóló szerződés a 9. § alkalmazásával került rögzítésre a nyilvántartásban, módosítására, törlésére is csak a 9. § alkalmazásával kerülhet sor.

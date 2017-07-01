@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-221-00-00
 | 2016-07-01 | 2016. évi XXXII. törvény | 2013-221-00-00.4 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2013-221-00-00.5 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2013-221-00-00.6 |
+| 2017-07-01 | 2017. évi XLIX. törvény | 2013-221-00-00.7 |
