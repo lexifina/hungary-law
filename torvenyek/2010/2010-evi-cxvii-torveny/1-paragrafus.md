@@ -42,8 +42,8 @@ b) a 18. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 
 17. üzemanyag: a motorbenzin, a dízelgázolaj, a cseppfolyósított propán-bután gáz (LPG) és a sűrített földgáz (CNG);
 
-18. üzemanyag-forgalmazó: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) szerint
+18. üzemanyag-forgalmazó: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerint
 
-a) az üzemanyagot szabad forgalomba bocsátó személy, ideértve az üzemanyagot a Jöt. szerinti szabad forgalomba bocsátással importáló személyt is, és
+a) az üzemanyagot szabad forgalomba bocsátó személy, és
 
-b) a más tagállamban szabad forgalomba bocsátott üzemanyagot tagállamból beszerző közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő.
+b) a másik tagállamban szabadforgalomba bocsátott üzemanyagot kereskedelmi céllal belföldre szállító jövedéki engedélyes kereskedő.
