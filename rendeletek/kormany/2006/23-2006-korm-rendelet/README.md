@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-23-20-2
 | 2015-04-01 | 2006-23-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2006-23-20-22.10 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2006-23-20-22.11 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2017-07-01 | 2006-23-20-22.12 | 162/2017. (VI. 28.) Korm. rendelet |
