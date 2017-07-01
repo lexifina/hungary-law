@@ -30,9 +30,9 @@
 
 | 14. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 15. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 16. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 16. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 17. | talajvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
@@ -72,11 +72,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 10. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | földvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 12. | bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 12. | bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 13. | rendészet | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -96,4 +96,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 92. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 92. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 92. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 92. § (2) bekezdés b) pontja, a 162/2017. (VI. 28.) Korm. rendelet 78. § b) pontja szerint módosított szöveg.
