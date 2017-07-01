@@ -52,7 +52,7 @@
 
 ## II. A regisztrációköteles tevékenység:
 
-## 1. Típusa (a Jöt. 110/A. § (1) bekezdése szerint):
+## 1. 1. Típusa a Jöt. szerint:
 
 ## 2. Kezdő dátuma:
 
@@ -74,7 +74,7 @@
 
 ## 3. szerződés megkötésének ideje:
 
-2. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^3]
+2. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^4]
 
 IGAZOLÁS
 
@@ -82,7 +82,7 @@ szárított dohánnyal, fermentált dohánnyal kapcsolatos tevékenység regiszt
 
 I. Vámhatóság megnevezése:
 
-A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 110/A. § (1) bekezdés szerinti regisztrációs kérelem alapján a szárított dohánnyal, illetve fermentált dohánnyal kapcsolatban végzett tevékenységét az alábbi számon regisztráltam:
+A jövedéki adóról szóló törvény szerinti regisztrációs kérelem alapján a szárított dohánnyal, illetve fermentált dohánnyal kapcsolatban végzett tevékenységét az alábbi számon regisztráltam:
 
 II. Regisztrációs szám:
 
@@ -104,4 +104,4 @@ VI. Külföldi partner neve:
 
 Kelt: ………………………………
 
-[^3]: A 2. melléklet a 21/2014. (II. 3.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 21/2014. (II. 3.) Korm. rendelet 2. § (2) bekezdése, a 419/2016. (XII. 14.) Korm. rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.

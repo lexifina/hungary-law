@@ -1,4 +1,4 @@
-3. melléklet az 557/2013. (XII. 31.) Korm. rendelethez
+3. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^5]
 
 Bejelentés
 
@@ -16,7 +16,7 @@ I. A regisztrált személy
 
 5. Regisztrációs száma:
 
-II. A Jöt. 110/A. § (3) bekezdése szerinti tevékenység típusa:
+II. A Jöt. szerinti tevékenység típusa:
 
 III. A dohány típusa(i) (szárított és/vagy fermentált):
 
@@ -37,3 +37,5 @@ V. A szállításra vonatkozó adatok:
 6. Szállító jármű forgalmi rendszáma:
 
 VI. A bejelentő adóazonosító jele:
+
+[^5]: A 3. melléklet a 419/2016. (XII. 14.) Korm. rendelet 9. § (3) bekezdés c) pontja szerint módosított szöveg.
