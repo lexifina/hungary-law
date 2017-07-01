@@ -14,11 +14,7 @@
 
 ## 2. A Kormány egyetért azzal, hogy a Budai Várban található Karmelita kolostorban elhelyezendő műtárgyak beszerzése érdekében elvégzendő és további egyéb feladatokról szóló 1067/2016. (II. 25.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 1006,0 millió forint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 3. A Határozat 1. pontjában a „Felelős: emberi erőforrások minisztere Határidő: 2017. június 30.” szövegrész helyébe a „Felelős: Miniszterelnökséget vezető miniszter Határidő: 2017. december 31.” szöveg lép.
-
-## 4. A 2016. évi költségvetési maradványok egy részének felhasználásáról szóló 1317/2017. (VI. 8.) Korm. határozat 1. pontjában az „597 437 224” szövegrész helyébe a „44 877 224” szöveg, valamint 2. pontjában az „engedélyezi” szövegrész helyébe az „engedélyezi a XIV. Belügyminisztérium fejezetnél keletkezett 552 560 000 forint és” szöveg lép.
-
-## 5. A 2016. évi költségvetési maradványok egy részének felhasználásáról szóló 1100/2017. (III. 6.) Korm. határozat a) pontjában a „210 693 394” szövegrész helyébe a „210 693 146” szöveg lép.
+## 3–5.[^1]
 
 1. melléklet az 1438/2017. (VI. 30.) Korm. határozathoz
 
@@ -87,3 +83,5 @@
 |  |  |  | 9 |  |  |  |  |  | Egyházi közösségi célú programok és beruházások támogatása |  |
 
 |  |  |  |  |  | B2 |  |  |  |  |  | Felhalmozási célú támogatások államháztartáson belülről | 300 000 000 |
+
+[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
