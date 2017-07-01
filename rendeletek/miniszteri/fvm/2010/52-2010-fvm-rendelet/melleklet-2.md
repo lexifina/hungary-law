@@ -44,7 +44,7 @@
 
 | 19. | Termesztett gomba értékesítése | 100 kg |  |
 
-| 20. | A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 67. § (2) bekezdés b) pontja szerinti bérfőzött, illetve a 67/A. § (4) bekezdés b) pontja szerinti magánfőzésből származó párlat értékesítése |  | 2 hl tiszta szesznek megfelelő párlat |
+| 20. | A jövedéki adóról szóló 2016. évi LXVIII. törvény 71. § b) pontja szerinti bérfőzött párlat értékesítése |  | 2 hl tiszta szesznek megfelelő párlat |
 
 | 21. | Egyéb élelmiszer értékesítése | 50 kg |  |
 
