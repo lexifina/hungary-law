@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-311-20-
 | 2016-12-29 | 2006-311-20-22.12 | 499/2016. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2006-311-20-22.13 | 328/2016. (X. 28.) Korm. rendelet |
 | 2017-02-03 | 2006-311-20-22.14 | 20/2017. (II. 2.) Korm. rendelet |
+| 2017-07-01 | 2006-311-20-22.15 | 310/2017. (X. 31.) Korm. rendelet |

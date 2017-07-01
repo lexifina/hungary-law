@@ -1,6 +1,6 @@
-## 1/B. §[^4] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (2) bekezdés a) pontja szerinti szervként a Kincstárt jelöli ki.
+## 1/B. §[^5] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (2) bekezdés a) pontja szerinti szervként a Kincstárt jelöli ki.
 
-1/C. §[^5] (1) A Kormány
+1/C. §[^6] (1) A Kormány
 
 a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1306/2013/EU rendelet) 7. cikke szerinti szervként,
 
@@ -84,5 +84,5 @@ k) a közbenső szervezeti feladatot ellátó szerv megkeresésére állásfogla
 
 (5) A megyei kormányhivatalok európai uniós és nemzeti mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő feladatai tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő egyes törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (3) bekezdés b) pontjában meghatározott szakmai irányítási jogköröket a Kincstár gyakorolja.
 
-[^4]: Az 1/B. §-t a 221/2014. (IX. 4.) Korm. rendelet 364. §-a iktatta be.
-[^5]: Az 1/C. §-t a 328/2016. (X. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^5]: Az 1/B. §-t a 221/2014. (IX. 4.) Korm. rendelet 364. §-a iktatta be.
+[^6]: Az 1/C. §-t a 328/2016. (X. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be.

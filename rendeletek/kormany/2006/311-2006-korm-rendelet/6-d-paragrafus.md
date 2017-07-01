@@ -1,4 +1,4 @@
-6/D. §[^19] (1) A Kincstár feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer működtetése és annak továbbfejlesztése. A Kincstár ezen belül működteti
+6/D. §[^20] (1) A Kincstár feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer működtetése és annak továbbfejlesztése. A Kincstár ezen belül működteti
 
 a) az ügyfél-nyilvántartási rendszert,
 
@@ -22,7 +22,7 @@ d) a monitoring adat-nyilvántartási rendszer
 
 (4) A (3) bekezdés szerinti adatszolgáltatást a Nemzeti Élelmiszerlánc-biztonsági Hivatal köteles teljesíteni úgy, hogy az adatok az országosan egységes feladatellátást lehetővé tegyék.
 
-(5)[^20] Az Integrált Igazgatási és Ellenőrzési Rendszerben keletkezett elektronikus irat hiteles elektronikus dokumentumnak minősül. Az Integrált Igazgatási és Ellenőrzési Rendszerben keletkezett elektronikus irat papíralapú példánya hitelességét a Magyar Államkincstár nevében eljáró képviselő aláírásával igazolja.
+(5)[^21] Az Integrált Igazgatási és Ellenőrzési Rendszerben keletkezett elektronikus irat hiteles elektronikus dokumentumnak minősül. Az Integrált Igazgatási és Ellenőrzési Rendszerben keletkezett elektronikus irat papíralapú példánya hitelességét a Magyar Államkincstár nevében eljáró képviselő aláírásával igazolja.
 
-[^19]: A 6/D. t a 328/2016. (X. 28.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^20]: A 6/D. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 4. §-a iktatta be.
+[^20]: A 6/D. t a 328/2016. (X. 28.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^21]: A 6/D. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 4. §-a iktatta be.

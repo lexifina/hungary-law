@@ -1,8 +1,8 @@
-6/E. §[^21] (1) A Kormány az EMVA-ból, az EMGA-ból, valamint a nemzeti hatáskörben finanszírozott intézkedésekhez kapcsolódó, elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban – annak elbírálása kérdésében, hogy adott vis maior eset a kérelemben jelzett területen és időpontban bekövetkezett-e –,
+6/E. §[^22] (1) A Kormány az EMVA-ból, az EMGA-ból, valamint a nemzeti hatáskörben finanszírozott intézkedésekhez kapcsolódó, elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban – annak elbírálása kérdésében, hogy adott vis maior eset a kérelemben jelzett területen és időpontban bekövetkezett-e –,
 
 a) az első fokú eljárásban
 
-aa) a mezőgazdasági üzem földterületét sújtó természeti csapás, illetve szélsőséges időjárási körülmény (földrengés, árvíz, szélvihar, aszály, belvíz, tűzeset, jégkár, fagykár stb.) tekintetében a földművelésügyi hatáskörében eljáró járási hivatalt;
+aa)[^23] a mezőgazdasági üzem földterületét sújtó természeti csapás, illetve szélsőséges időjárási körülmény (földrengés, árvíz, szélvihar, aszály, belvíz, tűzeset, jégkár, fagykár stb.) tekintetében az agrárkár-megállapító szervként eljáró megyeszékhely szerinti járási hivatalt;
 
 ab) az ügyfél állatállományának egy részét vagy teljes egészét sújtó járványos, fertőző megbetegedés vagy elrendelt járványügyi intézkedés esetén az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalt;
 
@@ -16,4 +16,5 @@ b) másodfokú eljárásban a Pest Megyei Kormányhivatalt
 
 (2) Ha a vis maior, az ország jelentős részét vagy különösen nagyszámú ügyfelet érint, a Kincstár és a Pest Megyei Kormányhivatal egyeztetés útján állapítja meg a vis maior esemény megállapításának jóváhagyási feltételeit.
 
-[^21]: A 6/E. t a 328/2016. (X. 28.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^22]: A 6/E. t a 328/2016. (X. 28.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^23]: A 6/E. § (1) bekezdés a) pont aa) alpontje a 171/2017. (VI. 29.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
