@@ -38,4 +38,6 @@ d) a c) pont szerinti intézkedés teljesítésének határidejét és a végreh
 
 e) a panasz megválaszolásának időpontját.
 
-(11) A biztosító a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+(11)[^1] A biztosító a panaszkezelési szabályzatot a honlapján és az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén közzéteszi.
+
+[^1]: Az 1. § (11) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.

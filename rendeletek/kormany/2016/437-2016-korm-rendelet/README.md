@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-437-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-01-01 | 2016-437-20-22.1 | 437/2016. (XII. 16.) Korm. rendelet |
+| 2017-07-01 | 2016-437-20-22.2 | 172/2017. (VI. 29.) Korm. rendelet |
