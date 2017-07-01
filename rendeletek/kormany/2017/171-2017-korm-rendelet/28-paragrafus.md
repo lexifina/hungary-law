@@ -1,0 +1,1 @@
+## 28. A fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi eljárásrend, az automatikus döntéshozatal, valamint a kapcsolódó nyilvántartási és ügyfélkapcsolati szolgáltatások részletes szabályairól szóló 450/2016. (XII. 19.) Korm. rendelet hatályon kívül helyezése
