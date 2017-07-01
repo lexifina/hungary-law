@@ -1,4 +1,4 @@
-## 19. §[^27]
+## 19. §[^23]
 
 ## 20. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az 1. §, az 5. §, a 9. §, a 17. § (1) bekezdés, valamint a 18. § (4) bekezdés hatálybalépése előtt megkezdett és az e rendelet hatálybalépésekor folyamatban lévő eljárásokat az eljárás megindításakor hatályos jogszabályok rendelkezései szerint kell befejezni.
 
-[^27]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
