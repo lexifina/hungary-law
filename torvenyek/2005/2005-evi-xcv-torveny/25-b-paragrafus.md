@@ -10,6 +10,8 @@
 
 (2c) Ha a kérelmező a gyógyszer forgalomba hozatali engedély kiadása iránti kérelem benyújtásával egyidejűleg jelzi, hogy a forgalomba hozatali engedély kiadását követően az egészségbiztosítási szervtől kedvezményezetti státusz megítélését fogja kérni, úgy – ha az egészségbiztosítási szerv a kedvezményezetti státuszt megítéli – a gyógyszerészeti államigazgatási szerv visszatéríti a forgalomba hozatali engedély jogosultjának az általa befizetett igazgatási szolgáltatási díjat.
 
+(2d) Azt a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerinti kis- és közepes vállalkozást, amely olyan magyarországi gyógyszergyártási engedéllyel rendelkezik, mely engedély nem kizárólag csomagolásra, illetve gyártási tétel felszabadításra vonatkozik, az (1) bekezdéstől eltérően az 1. számú mellékletben meghatározott eljárásokért az 1. számú mellékletben meghatározott igazgatási szolgáltatási díjtétel 50%-ának megfelelő összegű befizetési kötelezettség terheli.
+
 (3) A díjat az 1. számú melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
 
 (4) Az 1. számú melléklet szerinti díj megállapításánál az alábbiakat kell figyelembe venni:

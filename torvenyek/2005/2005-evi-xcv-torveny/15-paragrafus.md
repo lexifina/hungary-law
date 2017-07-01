@@ -10,7 +10,7 @@
 
 (4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag olyan gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének valamint kábítószerért felelős személynek csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+(5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének valamint kábítószerért felelős személynek és helyettesének csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
 (6)–(7)
 
