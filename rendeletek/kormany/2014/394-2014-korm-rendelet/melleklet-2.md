@@ -26,7 +26,7 @@
 
 | 12. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 13. | bányahatósági engedélyek | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyek | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 14. | azok a 2-13. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
 
@@ -62,12 +62,12 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | Élelmiszer-biztonság | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 14. | Földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | Földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 15. | Bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | Bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 16. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 17. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Soproni Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 93. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 93. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 93. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 93. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 79. § b) pontja szerint módosított szöveg.
