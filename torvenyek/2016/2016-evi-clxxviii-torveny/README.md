@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-178-00-00
 | --- | --- | --- |
 | 2016-12-21 | 2016. évi CLXXVIII. törvény | 2016-178-00-00.0 (közlönyállapot) |
 | 2016-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-178-00-00.1 |
+| 2017-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-178-00-00.2 |
