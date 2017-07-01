@@ -26,7 +26,7 @@
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 14. | talajvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
@@ -40,7 +40,7 @@
 
 | 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. számú melléklet a 192/2008. (VII. 30.) Korm. rendelethez[^16]
+2. számú melléklet a 192/2008. (VII. 30.) Korm. rendelethez[^17]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -64,9 +64,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | állami célú légiközlekedés | honvédelemért felelős miniszter | nincs |
 
-| 10. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 11. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 11. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 12. | rendészet | Kecskeméti Rendőrkapitányság | Bács-Kiskun Megyei Rendőr-főkapitányság |
 
@@ -86,4 +86,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^16]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 7. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^17]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 7. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
