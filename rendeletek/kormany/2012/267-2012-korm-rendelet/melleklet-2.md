@@ -32,7 +32,7 @@
 
 | 15. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 16. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 16. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 17. | helikopter leszálló pálya engedélyezése | közlekedésért felelős miniszter | nincs |
 
@@ -76,8 +76,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | területrendezés | Budapest Főváros Kormányhivatala | területrendezésért felelős miniszter |
 
-| 17. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 17. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 18. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 18. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 30. § (1) bekezdés b) pontjával megállapított és (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 30. § (1) bekezdés b) pontjával megállapított és (2) bekezdés b) pontja, a 162/2017. (VI. 28.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
