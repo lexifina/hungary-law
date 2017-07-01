@@ -1,22 +1,22 @@
-## 8/B. §[^32] A védett személy hivatalos programja során a rohamkocsi szintű mentési készenlét biztosításáról – feladatkörének megfelelően – a Terrorelhárítási Központ vagy a Készenléti Rendőrség, akadályoztatásuk, valamint kapacitásukat meghaladó feladat esetén a Terrorelhárítási Központ vagy a Készenléti Rendőrség felkérésére az MH Honvédkórház kijelölt osztálya vagy az Országos Mentőszolgálat kijelölt egysége gondoskodik.
+## 8/B. §[^41] A védett személy hivatalos programja során a rohamkocsi szintű mentési készenlét biztosításáról – feladatkörének megfelelően – a Terrorelhárítási Központ vagy a Készenléti Rendőrség, akadályoztatásuk, valamint kapacitásukat meghaladó feladat esetén a Terrorelhárítási Központ vagy a Készenléti Rendőrség felkérésére az MH Egészségügyi Központ kijelölt osztálya vagy az Országos Mentőszolgálat kijelölt egysége gondoskodik.
 
-8/C. §[^33] (1)[^34] A védett személy gyógyintézeti ellátását az MH Honvédkórház végzi.
+8/C. §[^42] (1)[^43] A védett személy gyógyintézeti ellátását az MH Egészségügyi Központ végzi.
 
-(2)[^35] A védett személy gyógyintézeti ellátásának biztosítása érdekében – ha az (1) bekezdésben meghatározotton túl további egészségügyi intézmény bevonása indokolt – a Terrorelhárítási Központ vagy a Készenléti Rendőrség
+(2)[^44] A védett személy gyógyintézeti ellátásának biztosítása érdekében – ha az (1) bekezdésben meghatározotton túl további egészségügyi intézmény bevonása indokolt – a Terrorelhárítási Központ vagy a Készenléti Rendőrség
 
 a) közvetlenül kérhet fel egészségügyi intézményt arra, hogy szükség esetén rendelkezésre álljon a védett személy egészségügyi ellátásának biztosítására, vagy
 
 b) az a) pont szerinti felkérés eredménytelensége esetén javaslatot tesz – az egészségügyi intézmény rendelkezésre állásának biztosítása érdekében – valamely egészségügyi intézmény kijelölésére
 
-ba)[^36] a nem kiemeltként kezelt rendezvény esetén a rendezvény helye szerint illetékes regionális tisztifőorvosnak,
+ba)[^45] a nem kiemeltként kezelt rendezvény esetén a rendezvény helye szerint illetékes fővárosi és megyei tisztifőorvosnak,
 
-bb)[^37] a kiemeltként kezelt rendezvény esetén az egészségügyért felelős miniszternek.
+bb)[^46] a kiemeltként kezelt rendezvény esetén az egészségügyért felelős miniszternek.
 
 (3) A védett személy egészségügyi ellátásának biztosításáért
 
 a) az (1) bekezdés szerinti esetben a honvédelemért felelős miniszter,
 
-b) a (2) bekezdés a) pontja és a (2) bekezdés b) pont ba) alpontja szerinti esetben az érintett regionális tisztifőorvos,
+b)[^47] a (2) bekezdés a) pontja és a (2) bekezdés b) pont ba) alpontja szerinti esetben az érintett fővárosi és megyei tisztifőorvos,
 
 c) a (2) bekezdés b) pont bb) alpontja szerinti esetben az egészségügyért felelős miniszter
 
@@ -24,20 +24,21 @@ a felelős.
 
 (4) A védett személy ellátása érdekében az (1) és (2) bekezdésben foglalt intézményeken túl indokolt esetben más egészségügyi szolgáltató is igénybe vehető.
 
-(5)[^38] Az MH Honvédkórház és az igénybe vett egészségügyi intézmény (a továbbiakban együtt: igénybe vett egészségügyi intézmények) a szükséges egészségügyi ellátáshoz kapcsolódó egyéb ellátást is nyújthat, ha a védett személy ezt igényli, és ehhez
+(5)[^48] Az MH Egészségügyi Központ és az igénybe vett egészségügyi intézmény (a továbbiakban együtt: igénybe vett egészségügyi intézmények) a szükséges egészségügyi ellátáshoz kapcsolódó egyéb ellátást is nyújthat, ha a védett személy ezt igényli, és ehhez
 
-a)[^39] Magyarországon tartózkodó külföldi állampolgárságú védett személy esetén a külpolitikáért felelős miniszter,
+a)[^49] Magyarországon tartózkodó külföldi állampolgárságú védett személy esetén a külpolitikáért felelős miniszter,
 
-b)[^40] az ideiglenes védelemben részesített magyar állampolgárságú védett személy esetén a kormányzati tevékenység összehangolásáért felelős miniszter
+b)[^50] az ideiglenes védelemben részesített magyar állampolgárságú védett személy esetén a kormányzati tevékenység összehangolásáért felelős miniszter
 
 hozzájárult.
 
-[^32]: A 8/B. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^33]: A 8/C. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
-[^34]: A 8/C. § (1) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 9. § b) pontja, a 102/2012. (V. 18.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^35]: A 8/C. § (2) bekezdés nyitó szövegrésze a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^36]: A 8/C. § (2) bekezdés b) pont ba) alpontja a 232/2010. (VIII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^37]: A 8/C. § (2) bekezdés b) pont bb) alpontja a 232/2010. (VIII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^38]: A 8/C. § (5) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 9. § b) pontja, a 102/2012. (V. 18.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
-[^39]: A 8/C. § (5) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^40]: A 8/C. § (5) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 170. § a) pontja szerint módosított szöveg.
+[^41]: A 8/B. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 165/2017. (VI. 28.) Korm. rendelet 4. § j) pontja szerint módosított szöveg.
+[^42]: A 8/C. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
+[^43]: A 8/C. § (1) bekezdése a 165/2017. (VI. 28.) Korm. rendelet 4. § j) pontja szerint módosított szöveg.
+[^44]: A 8/C. § (2) bekezdés nyitó szövegrésze a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^45]: A 8/C. § (2) bekezdés b) pont ba) alpontja a 232/2010. (VIII. 19.) Korm. rendelet 17. § a) pontja, a 165/2017. (VI. 28.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
+[^46]: A 8/C. § (2) bekezdés b) pont bb) alpontja a 232/2010. (VIII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^47]: A 8/C. § (3) bekezdés b) pontja a 165/2017. (VI. 28.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
+[^48]: A 8/C. § (5) bekezdés nyitó szövegrésze a 165/2017. (VI. 28.) Korm. rendelet 4. § j) pontja szerint módosított szöveg.
+[^49]: A 8/C. § (5) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^50]: A 8/C. § (5) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 170. § a) pontja szerint módosított szöveg.

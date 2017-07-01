@@ -1,18 +1,18 @@
-## 1.[^82] Állandó személyvédelemben részesülő személyek
+## 1.[^94] Állandó személyvédelemben részesülő személyek
 
 ## 1. A köztársasági elnök
 
-## 2.[^83]
+## 2.[^95]
 
 ## 3. A miniszterelnök
 
 ## 4. Az Alkotmánybíróság elnöke
 
-## 5.[^84] A Kúria elnöke
+## 5.[^96] A Kúria elnöke
 
-## 6.[^85] A legfőbb ügyész
+## 6.[^97] A legfőbb ügyész
 
-## 2.[^86] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
+## 2.[^98] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
 
 ## a) a Szent Koronához tartozó jelvények közül a koronázási palást,
 
@@ -42,25 +42,25 @@
 
 ## n) az Információs Hivatal központi objektuma.
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^87]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^99]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
-1. Budapest, Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház – Rendelőintézet
+1. Budapest, Egyesített Szent István és Szent László Kórház-Rendelőintézet
 
-2. Budapest, Fővárosi Önkormányzat Péterfy Sándor u. Kórház és Baleseti Központ
+2. Budapest, Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
 
 3. Budapest, Gottsegen György Országos Kardiológiai Intézet
 
-4. Budapest, Országos Korányi TBC és Pulmonológiai Intézet
+4. Budapest, Országos Korányi Pulmonológiai Intézet
 
-5. Budapest, Országos Idegtudományi Intézet
+5. Budapest, Országos Klinikai Idegtudományi Intézet
 
 6. Budapest, Semmelweis Egyetem
 
 7. Ajka, Magyar Imre Kórház
 
-8. Bajai Szent Rókus Kórház
+8. Baja, Bajai Szent Rókus Kórház
 
 9. Balassagyarmat, Dr. Kenessey Albert Kórház-Rendelőintézet
 
@@ -68,117 +68,117 @@
 
 11. Berettyóújfalu, Gróf Tisza István Kórház
 
-12. Békéscsaba, Réthy Pál Városi Kórház Rendelőintézet
+12. Békéscsaba, Békés Megyei Központi Kórház
 
-13. Cegléd, Toldi Ferenc Kórház Egyszemélyes Nonprofit Közhasznú Kft.
+13. Cegléd, Toldy Ferenc Kórház és Rendelőintézet
 
-14. Csorna, Margit Kórház
+14. Csorna, Csornai Margit Kórház
 
-15. Debrecen, Debreceni Egyetem Orvos- és Egészségtudományi Centrum
+15. Debrecen, Debreceni Egyetem Klinikai Központ
 
-16. Debrecen, Kenézy Kórház Rendelőintézet Egészségügyi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság
+16. Debrecen, Kenézy Gyula Kórház és Rendelőintézet
 
-17. Dombóvár, Dombóvári Szent Lukács Egészségügyi Nonprofit Korlátolt Felelősségű Társaság
+17. Dombóvár, Dombóvári Szent Lukács Kórház
 
-18. Dunaújváros, Szent Panteleon Kórház Nonprofit Kft.
+18. Dunaújváros, Szent Pantaleon Kórház-Rendelőintézet Dunaújváros
 
-19. Eger, Heves Megyei Önkormányzat Kórháza Egészségügyi Szolgáltató Nonprofit Kiemelten Közhasznú Kft.
+19. Eger, Markhot Ferenc Oktatókórház és Rendelőintézet
 
 20. Esztergom, Vaszary Kolos Kórház
 
-21. Fehérgyarmat, Szatmár-Beregi Kórház és Gyógyfürdő Egészségügyi Szolgáltató Nonprofit Kft.
+21. Fehérgyarmat, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-22. Gyöngyös, Gyöngyös Bugát Pál Kórház Eü. Nonprofit Kft.
+22. Gyöngyös, Bugát Pál Kórház
 
 23. Győr, Petz Aladár Megyei Oktató Kórház
 
-24. Gyula, Békés Megyei Képviselő-testület Pándy Kálmán Kórháza
+24. Gyula, Békés Megyei Központi Kórház
 
-25. Hatvan, Hatvani Városgazdálkodási Nonprofit Közhasznú Zrt.
+25. Hatvan, Albert Schweitzer Kórház-Rendelőintézet
 
-26. Hódmezővásárhely, Hódmezővásárhely Megyei Jogú Város Önkormányzat Erzsébet Kórház – Rendelőintézet
+26. Hódmezővásárhely, Csongrád Megyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
 
-27. Jászberény, Szent Erzsébet Kórház Egészségügyi Szolgáltató Nonprofit Közhasznú Kft.
+27. Jászberény, Jászberényi Szent Erzsébet Kórház
 
-28. Kalocsa, Városi Kórház-Rendelőintézet Kalocsa
+28. Kalocsa, Bács-Kiskun Megyei Kórház
 
-29. Kaposvár, Kaposi Mór Oktató Kórház
+29. Kaposvár, Somogy Megyei Kaposi Mór Oktató Kórház
 
 30. Karcag, Kátai Gábor Kórház
 
-31. Kazincbarcika, Debreceni Egyetem Orvos- és Egészségtudományi Centrum Kazincbarcikai Kórház Kft.
+31. Kazincbarcika, Kazincbarcikai Kórház Nonprofit Kft.
 
-32. Kecskemét, Bács-Kiskun Megyei Önkormányzat Kórháza
+32. Kecskemét, Bács-Kiskun Megyei Kórház
 
-33. Keszthely, Városi Kórház
+33. Keszthely, Keszthelyi Kórház
 
-34. Kiskunfélegyháza, Kiskunfélegyházi Városi Kórház-Ri. Gyógyfürdő és Rehabilitációs Központ
+34. Kiskunfélegyháza, Bács-Kiskun Megyei Kórház
 
-35. Kiskunhalas, Semmelweis Halasi Kórház Nonprofit Kft.
+35. Kiskunhalas, Kiskunhalasi Semmelweis Kórház
 
 36. Kisvárda, Felső-Szabolcsi Kórház
 
 37. Komárom, Selye János Kórház
 
-38. Makó, Dr. Diósszilágyi Sámuel Kórház
+38. Makó, Csongrád Megyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
 
-39. Marcali, Városi Kórház
+39. Marcali, Somogy Megyei Kaposi Mór Oktató Kórház
 
-40. Mátészalka, Területi Kórház
+40. Mátészalka, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-41. Mezőtúr, Mezőtúr Városi Kórház-Rendelőintézet Kft.
+41. Mezőtúr, Mezőtúri Kórház és Rendelőintézet
 
-42. Miskolc, Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
+42. Miskolc, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
-43. Mohács, Városi Kórház
+43. Mohács, Mohácsi Kórház
 
-44. Mosonmagyaróvár, Karolina Kórház
+44. Mosonmagyaróvár, Karolina Kórház-Rendelőintézet
 
-45. Nagyatád, NagyatádMed Kft.
+45. Nagyatád, Nagyatádi Kórház
 
 46. Nagykanizsa, Kanizsai Dorottya Kórház
 
-47. Nyíregyháza, Jósa András Oktató Kórház Egészségügyi Szolgáltató Nonprofit Kft.
+47. Nyíregyháza, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-48. Orosháza, Városi Önkormányzat Kórháza
+48. Orosháza, Orosházi Kórház
 
-49. Ózd, Almási Balogh Pál Kórház Egészségügyi és Szolgáltató Nonprofit Kft.
+49. Ózd, Almási Balogh Pál Kórház
 
-50. Pápa, Gróf Esterházy Kórház
+50. Pápa, Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő
 
-51. Pécs, Pécsi Tudományegyetem Klinikai Központ
+51. Pécs, Pécsi Tudományegyetem
 
 52. Salgótarján, Szent Lázár Megyei Kórház
 
-53. Sátoraljaújhely Város Önkormányzat Erzsébet Kórháza
+53. Sátoraljaújhely, Sátoraljaújhelyi Erzsébet Kórház
 
-54. Siófok, Városi Kórház
+54. Siófok, Siófoki Kórház-Rendelőintézet
 
-55. Sopron, Sopron Megyei Jogú Város Erzsébet Kórház, a DE OEC Oktató Kórháza
+55. Sopron, Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet
 
-56. Szeged, Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+56. Szeged, Szegedi Tudományegyetem
 
-57. Szekszárd, Tolna Megyei Önkormányzat Balassa János Kórháza
+57. Szekszárd, Tolna Megyei Balassa János Kórház
 
-58. Székesfehérvár, Fejér megyei Szent György Kórház
+58. Székesfehérvár, Fejér Megyei Szent György Egyetemi Oktató Kórház
 
-59. Szentes, Dr. Bugyi István Kórház
+59. Szentes, Csongrád Megyei Dr. Bugyi István Kórház
 
-60. Szolnok, Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház – Rendelőintézet
+60. Szolnok, Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
 
-61. Szombathely, Vas Megyei Önkormányzat Markusovszky Lajos Rehabilitációs és Gyógyfürdő Kórház, Egyetemi Oktatókórház, Zártkörűen Működő Nonprofit Rt.
+61. Szombathely, Markusovszky Egyetemi Oktatókórház
 
-62. Tatabánya, Komárom-Esztergom Megyei Önkormányzat Szent Borbála Kórháza
+62. Tatabánya, Szent Borbála Kórház
 
-63. Vác, Jávorszky Ödön Városi Kórház
+63. Vác, Jávorszky Ödön Kórház
 
-64. Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt.
+64. Veszprém, Csolnoky Ferenc Kórház
 
-65. Zalaegerszeg, Zala Megyei Kórház
+65. Zalaegerszeg, Zala Megyei Szent Rafael Kórház
 
-[^82]: Az 1. melléklet 1. pont nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés d) pontja szerint módosított szöveg.
-[^83]: Az 1. melléklet 1. pont 2. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^84]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^85]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^86]: Az 1. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 169. §-ával megállapított szöveg.
-[^87]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^94]: Az 1. melléklet 1. pont nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^95]: Az 1. melléklet 1. pont 2. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^96]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^97]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^98]: Az 1. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 169. §-ával megállapított szöveg.
+[^99]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
