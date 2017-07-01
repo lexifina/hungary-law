@@ -24,4 +24,4 @@ h) a törlesztés minimális összegéről, ilyen kikötés esetén.
 
 (4) Hitelkamat és a hitelkamaton kívüli minden egyéb ellenszolgáltatás – ideértve díjat, jutalékot és költséget – a fogyasztó számára kedvezőtlen módosítása esetén a hitelező a módosítás hatálybalépését megelőzően köteles tájékoztatni a fogyasztót papíron vagy más tartós adathordozón a módosítás tényéről, a fizetési kötelezettség új mértékéről, a módosítást követően fizetendő törlesztőrészletek összegéről, és ha ennek kapcsán a törlesztőrészletek száma vagy a törlesztés gyakorisága változik, ennek tényéről.
 
-(5) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen honlapján és az ügyfelek számára nyitva álló helyiségében kifüggesztve tájékoztatja a referencia-kamatláb változásáról.
+(5) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen honlapján és az ügyfelek számára nyitva álló helyiségében közzététel útján tájékoztatja a referencia-kamatláb változásáról.

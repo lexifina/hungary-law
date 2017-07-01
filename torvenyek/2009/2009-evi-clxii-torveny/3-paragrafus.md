@@ -6,7 +6,7 @@
 
 2. fizetési számlához kapcsolódó hitelkeret-szerződés: olyan hitelszerződés, amellyel a hitelező a fogyasztó fizetési számlájának egyenlegét meghaladó összeget bocsát a fogyasztó rendelkezésére,
 
-3. fogyasztó: az önálló foglalkozása és gazdasági tevékenysége körén kívül eljáró természetes személy,
+3. fogyasztó: az önálló foglalkozása és gazdasági tevékenysége körén kívül eljáró természetes személy, valamint az értékpapír kibocsátása mellett megvalósuló zálogkölcsönnyújtás esetén a zálogtárgy birtokát hitelezőre átruházó természetes személy,
 
 4. fogyasztó által fizetendő teljes összeg: a hitel teljes összege és a hitel teljes díja,
 
@@ -22,7 +22,7 @@ b) a hitelszerződés megkötése érdekében a fogyasztónak segítséget nyúj
 
 c) a hitelező nevében a fogyasztóval hitelszerződést köt,
 
-8. hitel: a hitelszerződés alapján nyújtott szolgáltatás,
+8. hitel: a hitelszerződés alapján nyújtott szolgáltatás, valamint az értékpapír kibocsátása mellett nyújtott zálogkölcsön,
 
 9. hitelszerződés: a Polgári Törvénykönyvről szóló törvényben meghatározott hitelszerződés és kölcsönszerződés, ide nem értve az olyan szerződést, amely alapján folyamatos szolgáltatásnyújtás vagy azonos termék azonos mennyiségben történő értékesítése ellenében a fogyasztó részletfizetést teljesít,
 
