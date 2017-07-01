@@ -2,7 +2,7 @@
 
 a) arra a természetes és jogi személyre, aki, illetve amely a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony – ideértve az egyszerűsített foglalkoztatásra vagy alkalmi munkára létesített munkaviszonyt is –, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
 
-b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönbevevőre, valamint az iskolaszövetkezet által nyújtott szolgáltatás esetén az iskolaszövetkezetre és a szolgáltatás fogadójára
+b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönvevőre, az iskolaszövetkezet által nyújtott szolgáltatás esetén az iskolaszövetkezetre és a szolgáltatás fogadójára, valamint a közérdekű nyugdíjas szövetkezet által nyújtott szolgáltatás esetén a közérdekű nyugdíjas szövetkezetre és a szolgáltatás fogadójára
 
 (a továbbiakban együtt: foglalkoztató).
 
@@ -24,7 +24,7 @@ b) a Polgári Törvénykönyvben szabályozott közkereseti társaság és beté
 
 c) a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvényben (a továbbiakban: Köt.) szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
 
-d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) 10/B. § (2) bekezdése szerinti megállapodást is – alapján teljesíti,
+d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) 10/B. § (2) bekezdése és 29. § (2) bekezdése szerinti megállapodást is – alapján teljesíti,
 
 e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
