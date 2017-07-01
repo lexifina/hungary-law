@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-22-00-00
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 2014-22-00-00.5 |
 | 2017-01-01 | 2016. évi LXVI. törvény | 2014-22-00-00.6 |
 | 2017-05-26 | 2017. évi XLVII. törvény | 2014-22-00-00.7 |
+| 2017-07-01 | 2017. évi XLVII. törvény | 2014-22-00-00.8 |
