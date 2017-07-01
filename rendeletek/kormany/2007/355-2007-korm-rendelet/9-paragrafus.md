@@ -10,7 +10,7 @@
 
 (6) A 6. § által tartalmazott rendelkezést a 2008. január 1-jét követően létesített foglalkoztatási jogviszonyokban kell alkalmazni.
 
-(7)[^15] Az e rendelet hatálybelépéséig a Magyar Köztársaság által az Európai Unióhoz történő csatlakozást követően alkalmazandó munkaerőpiaci viszonosság és védintézkedés szabályairól szóló 93/2004. (IV. 27.) Korm. rendelet 7. §-a alapján bejelentett adatok közül a személyes adatokat haladéktalanul törölni kell. Ezt követően a kormányhivatal a nyilvántartásban csak a 6. § (1) bekezdése szerinti adatkört, és csak személyazonosításra alkalmatlan módon tarthatja nyilván.
+(7)[^15] Az e rendelet hatálybelépéséig a Magyar Köztársaság által az Európai Unióhoz történő csatlakozást követően alkalmazandó munkaerőpiaci viszonosság és védintézkedés szabályairól szóló 93/2004. (IV. 27.) Korm. rendelet 7. §-a alapján bejelentett adatok közül a személyes adatokat haladéktalanul törölni kell. Ezt követően a járási hivatal a nyilvántartásban csak a 6. § (1) bekezdése szerinti adatkört, és csak személyazonosításra alkalmatlan módon tarthatja nyilván.
 
 Melléklet a 355/2007. (XII. 23.) Korm. rendelethez[^16]
 
@@ -18,5 +18,5 @@ Melléklet a 355/2007. (XII. 23.) Korm. rendelethez[^16]
 [^12]: A 9. § (3) bekezdését a 9. § (5) bekezdése hatályon kívül helyezte.
 [^13]: A 9. § (4) bekezdése ugyenezen bekezdés alapján hatályát vesztette.
 [^14]: A 9. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^15]: A 9. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 115. § b) pontja szerint módosított szöveg.
+[^15]: A 9. § (7) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^16]: A mellékletet a 322/2008. (XII. 29.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
