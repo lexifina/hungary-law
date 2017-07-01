@@ -116,7 +116,7 @@ x) a lemorzsolódással veszélyeztetett tanulónak minősülés részletes felt
 
 y) a köznevelési szerződés tartalmát, érvényességi idejét és a megkötésére vonatkozó eljárásrendet,
 
-z) a vallási, világnézeti tekintetben elkötelezett, továbbá nemzetiségi iskolai nevelés-oktatás szervezésének az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 28. § (2) bekezdésében meghatározott feltételek érvényesülését szolgáló sajátos feltételeit, különös tekintettel a jogellenes elkülönítés tilalmára
+z)
 
 rendeletben állapítsa meg.
 
