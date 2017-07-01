@@ -22,7 +22,7 @@ eb) legfeljebb negyvenöt fő lehet, ha a képző szerv a képzési időtartamon
 
 f) a képzésben résztvevők jelenléti nyilvántartásának rendjét.
 
-(3)[^5] A képzésben az vehet részt, aki
+(3)[^8] A képzésben az vehet részt, aki
 
 a) rendelkezik érettségi vizsgával,
 
@@ -34,4 +34,4 @@ d) tőkepiaci üzletkötői hatósági képzésre történő jelentkezés eseté
 
 (4) A képzésen történő részvétel további feltétele, hogy a résztvevő a 7. § (1) bekezdés szerinti igazolás kiállítása céljából hozzájárul természetes személyazonosító- és lakcímadatai képző szerv általi kezeléséhez.
 
-[^5]: Az 5. § (3) bekezdése a 21/2016. (VI. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^8]: Az 5. § (3) bekezdése a 21/2016. (VI. 29.) NGM rendelet 11. §-ával megállapított szöveg.

@@ -1,10 +1,12 @@
-12. § (1)[^7] A Hatóság által vezetett nyilvántartásba vizsgabiztosként az a természetes személy vehető fel és egyben a Hatóság által a hatósági vizsga lebonyolítására az a vizsgabiztos bízható meg, aki hozzájárul neve, valamint telefonos és elektronikus elérhetősége képző szervek felé történő – Hatóság általi – továbbításához, továbbá vállalja, hogy eleget tesz az e rendeletben és a vizsgaszabályzatban foglalt követelményeknek, és
+12. § (1)[^11] A Hatóság által vezetett nyilvántartásba vizsgabiztosként az a természetes személy vehető fel és egyben a Hatóság által a hatósági vizsga lebonyolítására az a vizsgabiztos bízható meg, aki vállalja, hogy eleget tesz az e rendeletben és a vizsgaszabályzatban foglalt követelményeknek, és
 
 a) felsőfokú végzettséggel rendelkezik, vagy
 
 b) középfokú végzettséggel rendelkezik, és hitelintézetnél, pénzügyi vállalkozásnál, pénzforgalmi intézménynél, pénzügyi közvetítői tevékenységet folytató vállalkozásnál, biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, harmadik országban székhellyel rendelkező biztosításközvetítők magyarországi fióktelepénél, befektetési vállalkozásnál, befektetési alapkezelőnél, államigazgatási szervnél vagy közigazgatási hatóságnál pénzügyi vagy gazdasági területen vagy hitelintézetek, pénzügyi vállalkozások, pénzügyi szolgáltatás közvetítők, biztosítók, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetek, harmadik országban székhellyel rendelkező biztosításközvetítők magyarországi fióktelepe, szaktanácsadók, befektetési vállalkozások, befektetési alapkezelők szakmai érdekvédelmi vagy érdek-képviseleti szervénél legalább öt éves pénzügyi szakmai, biztosításszakmai befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett.
 
-(1a)[^8] A vizsgabiztos a Hatóság által vezetett nyilvántartásban szereplő adatai, valamint telefonos és elektronikus elérhetősége változását a Hatóságnak a változástól számított nyolc napon belül bejelenti. A Hatóság a megváltozott adatokról a bejelentést követő tizenöt napon belül értesíti a képző szerveket.
+(1a)[^12] A Hatóság megbízási szerződést köt a nyilvántartásban szereplő vizsgabiztossal az adott hatósági vizsga lebonyolításával kapcsolatos feladatok ellátására. A Hatóság a vizsgabiztos részére egységes elvek alapján meghatározott megbízási díjat fizet.
+
+(1b)[^13] A vizsgabiztos a Hatóság által vezetett nyilvántartásban szereplő adatai, valamint telefonos és elektronikus elérhetősége változását a Hatóságnak a változástól számított nyolc napon belül bejelenti.
 
 (2) A vizsgabiztos tevékenységének e rendeletben, továbbá a vizsgaszabályzatban foglalt feltételeknek való megfelelését a Hatóság jogosult ellenőrizni.
 
@@ -18,5 +20,6 @@ b) középfokú végzettséggel rendelkezik, és hitelintézetnél, pénzügyi v
 
 (7) A vizsgabiztos nem működhet közre a vizsgáztatásban annál a képző szervnél, amellyel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
 
-[^7]: A 12. § (1) bekezdés nyitó szövegrésze a 21/2016. (VI. 29.) NGM rendelet 20. § i) pontja szerint módosított szöveg.
-[^8]: A 12. § (1a) bekezdését a 21/2016. (VI. 29.) NGM rendelet 13. § (1) bekezdése iktatta be.
+[^11]: A 12. § (1) bekezdés nyitó szövegrésze a 21/2016. (VI. 29.) NGM rendelet 20. § j) pontja szerint módosított szöveg.
+[^12]: A 12. § (1a) bekezdését a 21/2016. (VI. 29.) NGM rendelet 13. § (1) bekezdése iktatta be, szövege a 21/2016. (VI. 29.) NGM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^13]: A 12. § (1b) bekezdését a 21/2016. (VI. 29.) NGM rendelet 13. § (3) bekezdése iktatta be.

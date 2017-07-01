@@ -1,4 +1,4 @@
-## 6. §[^6] A képző szervnél oktatóként az a személy foglalkoztatható, aki
+## 6. §[^9] A képző szervnél oktatóként az a személy foglalkoztatható, aki
 
 a) felsőfokú végzettséggel rendelkezik és
 
@@ -10,4 +10,4 @@ ac) tőkepiaci üzletkötői hatósági képzés esetén legalább hároméves b
 
 b) középfokú végzettséggel rendelkezik, és – az adott hatósági képzés típusától függően – az a) pont aa)–ac) alpontjában meghatározott szervek vagy szervezetek valamelyikénél legalább tíz éves pénzügyi szakmai, biztosításszakmai, befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett, amely tapasztalat megszerzésének záró időpontja öt éven belüli időpontra esik.
 
-[^6]: A 6. § a 21/2016. (VI. 29.) NGM rendelet 12. §-ával megállapított szöveg.
+[^9]: A 6. § a 21/2016. (VI. 29.) NGM rendelet 12. §-ával megállapított szöveg.

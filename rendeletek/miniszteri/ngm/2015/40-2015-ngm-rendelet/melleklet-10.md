@@ -14,27 +14,25 @@
 
 ## személyazonosító vagy személyi igazolvány száma:
 
-## A hatósági vizsga – pénzügyi szolgáltatás közvetítői
+| A hatósági vizsga típusa: (a megfelelő aláhúzandó) | – pénzügyi szolgáltatás közvetítői |
 
-## típusa: – függő biztosításközvetítői
+| – függő biztosításközvetítői |
 
-## (a megfelelő – független biztosításközvetítői
+| – független biztosításközvetítői |
 
-## aláhúzandó) – független biztosításközvetítői különbözeti
+| – független biztosításközvetítői különbözeti |
 
-## – tőkepiaci üzletkötői
+| – tőkepiaci üzletkötői |
 
-## A hatósági vizsga letételének módja: – számítógépen
+| A hatósági vizsgára bocsátás alapja: (a megfelelő aláhúzandó) | – érettségi vizsga |
 
-## (a megfelelő aláhúzandó) – írásban
-
-## A hatósági vizsgára bocsátás alapja: – érettségi vizsga
-
-## (a megfelelő aláhúzandó) – igazolt négy éves szakmai tapasztalat
+| – igazolt négy éves szakmai tapasztalat |
 
 ## A hatósági vizsga tervezett időpontja:
 
 ## A tervezett hatósági vizsga helyszíne:
+
+## Megismételt vizsga esetén az előző, sikertelen vizsga helyszíne és időpontja:
 
 ## Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak feltételeit elfogadom. Hozzájárulok a természetes személyazonosító- és lakcímadataim Magyar Nemzeti Bank általi kezeléséhez.
 
@@ -44,6 +42,8 @@
 
 ## aláírás
 
-10. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^17]
+## Megjegyzés:
 
-[^17]: A 10. melléklet a 21/2016. (VI. 29.) NGM rendelet 24. § d) pontja alapján nem lép hatályba.
+10. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^31]
+
+[^31]: A 10. melléklet a 21/2016. (VI. 29.) NGM rendelet 24. § d) pontja alapján nem lép hatályba.
