@@ -26,9 +26,9 @@
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 14. | bányahatósági engedélyezési eljárás | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | bányahatósági engedélyezési eljárás | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 15. | talajvédelmi hatósági engedélyezési eljárás | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Baranya Megyei Kormányhivatal |
 
@@ -68,9 +68,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 9. | földtan | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | földtan | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 10. | bányászat | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányászat | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | rendészet | Mohácsi Rendőrkapitányság | Baranya Megyei Rendőr- főkapitányság |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | telekalakítási eljárásban a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés | Mohács Város Önkormányzatának jegyzője | Baranya Megyei Kormányhivatal |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 76. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 76. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 76. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 76. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
