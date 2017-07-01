@@ -4,12 +4,12 @@
 
 a)
 
-b)
+b) 4. § (8) bekezdése,
 
 c)–j)
 
-k)
+k) 26. § (2) bekezdésében az „a földrészletek fekvése szerinti területi szervezeti egységeinél,” szövegrész,
 
-l)
+l) 27. §-ában az „és a területi szervezeti egységeinél,” szövegrész,
 
 m)
