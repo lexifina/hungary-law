@@ -1,1 +1,0 @@
-4. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba, egyidejűleg hatályát veszíti az Energiagazdálkodási célelőirányzatba történő befizetésekkel kapcsolatban elismert költségekről és befizetésekről szóló 51/2003. (VIII. 14.) GKM rendelet, valamint a hatósági energiaárakkal összefüggő egyes miniszteri rendeletek módosításáról szóló 62/2003. (X. 10.) GKM rendelet 3. §-a.
