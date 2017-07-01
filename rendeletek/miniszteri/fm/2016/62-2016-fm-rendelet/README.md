@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-62-20-1
 | --- | --- | --- |
 | 2016-09-19 | 2016-62-20-11.1 | 62/2016. (IX. 16.) FM rendelet |
 | 2016-09-20 | 2016-62-20-11.2 | 2010: CXXX. törvény |
+| 2017-07-01 | 2016-62-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
