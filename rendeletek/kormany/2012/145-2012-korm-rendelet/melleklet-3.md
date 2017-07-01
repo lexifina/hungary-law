@@ -28,7 +28,7 @@
 
 ## c) a kutatási terület topográfiai térképét a kutató létesítmények feltüntetésével, a kutatási terület földtani, tektonikai és hidrogeológiai térképét.
 
-3. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^23]
+3. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^24]
 
 ## A potenciális szén-dioxid tároló-komplexum és az azt körülvevő terület jellemzésének és vizsgálatának földtani kutatási követelményei
 
@@ -164,4 +164,4 @@ A veszélyesség jellemzése érdekében minden olyan lehetséges üzemeltetési
 
 3.3.4. A kockázat jellemzése – ennek során elemezni kell a tárolóhely rövid és hosszú távú biztonságosságát és integritását, beleértve a javasolt használati feltételekhez tartozó szivárgási kockázat és az elképzelhető legrosszabb környezeti és egészségi hatások elemzését is. A kockázatot a veszélyesség, a kitettség és a következmények elemzése alapján kell jellemezni. A vizsgálatnak magában kell foglalnia a tárolóhely jellemzésének és értékelésének szakaszai során azonosított bizonytalansági források elemzését is, valamint – amennyiben elvégezhető – a bizonytalanság csökkentésére vonatkozó lehetőségek számbavételét.
 
-[^23]: A 3. melléklet a 281/2016. (IX. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^24]: A 3. melléklet a 281/2016. (IX. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
