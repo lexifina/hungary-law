@@ -1,1 +1,1 @@
-1. § Az Országgyűlés a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat 2015. évi módosításokkal egységes szerkezetbe foglalt szövegét (a továbbiakban: Szabályzat) e törvénnyel kihirdeti.
+1–4. §

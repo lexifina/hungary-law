@@ -1,4 +1,4 @@
-5. § (1) A veszélyes áru szállításának biztonsága érdekében a közlekedési hatóság nyilvántartja a Szabályzat 1.8.3 szakasza szerinti veszélyes áru szállítási biztonsági tanácsadó
+5. § (1) A veszélyes áru szállításának biztonsága érdekében a közlekedési hatóság nyilvántartja a veszélyes áru szállítási biztonsági tanácsadó
 
 a) természetes személyazonosító adatait,
 
