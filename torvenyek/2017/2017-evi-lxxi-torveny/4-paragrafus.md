@@ -3,11 +3,3 @@
 (2) A Módosítás végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter gondoskodik.
 
 (3) Az Egyezménynek a Módosítással egységes szerkezetbe foglalt hiteles angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának a Módosítás hatálybalépését követően történő haladéktalan közzétételéről az egészségügyért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
