@@ -26,17 +26,17 @@
 
 | 11. | nemzeti fejlesztési miniszter (Közlekedés- tudományi Intézet) | Közlekedés-statisztikai és kibocsátási adatok. | Közlekedési kibocsátásokra vonatkozó számítások (CH4, N2O, NOx, CO, NMVOC, SO2 stb. kibocsátott mennyisége az inputadatokkal együtt modellezés/számítás alapján). | A rendelkezésre álló adatsorok és COPERT adatbázisok. |  |
 
-| 12. | Magyar Bányászati és Földtani Hivatal | Szénbányászat fugitív emissziójának számításához szükséges adatok. | - A bányászott nyersanyag mennyisége és fűtőértéke külön a mélybányákban és külön a külszíni fejtésekre, illetve bányánként. - Az elfáklyázott vagy kiszellőztetett metán éves mennyisége, bányánként, vagy sújtólégveszély szerinti kategorizálásuk. | 1994-ig visszamenően a teljes adatsor. |  |
+| 12. | Magyar Bányászati és Földtani Szolgálat | Szénbányászat fugitív emissziójának számításához szükséges adatok. | - A bányászott nyersanyag mennyisége és fűtőértéke külön a mélybányákban és külön a külszíni fejtésekre, illetve bányánként. - Az elfáklyázott vagy kiszellőztetett metán éves mennyisége, bányánként, vagy sújtólégveszély szerinti kategorizálásuk. | 1994-ig visszamenően a teljes adatsor. |  |
 
 |  |  |  | - A bányászott szén és lignit átlagos metán, kén és szén-dioxid tartalma bányánként. |  |  |
 
-| 13. | Magyar Bányászati és Földtani Hivatal | Kőolaj és földgáz fugitív emissziójának számításához szükséges adatok. | - Gáztermelés, (földgáz, szén-dioxid), millió m3, 1994-től. - Földgáz szállító vezeték hossza, km. - Gázelosztó vezeték hossza, km (földgáz, PB, egyéb gáz). Kőolajtermelés, ezer m3, 1994-től. | 1985-ig visszamenőleg a teljes adatsor. |  |
+| 13. | Magyar Bányászati és Földtani Szolgálat | Kőolaj és földgáz fugitív emissziójának számításához szükséges adatok. | - Gáztermelés, (földgáz, szén-dioxid), millió m3, 1994-től. - Földgáz szállító vezeték hossza, km. - Gázelosztó vezeték hossza, km (földgáz, PB, egyéb gáz). Kőolajtermelés, ezer m3, 1994-től. | 1985-ig visszamenőleg a teljes adatsor. |  |
 
-| 14. | Magyar Bányászati és Földtani Hivatal |  | - A kitermelésbe bevont kutak száma, kutatófúrás, kútmélyítés (külön a meddőre), kútmunkálatok, kútszervíz (átképzés, kútjavítási, tisztítási, és rétegserkentési műveletek, kútfelszámolás), próbatermelés. | A rendelkezésre álló adatsor. |  |
+| 14. | Magyar Bányászati és Földtani Szolgálat |  | - A kitermelésbe bevont kutak száma, kutatófúrás, kútmélyítés (külön a meddőre), kútmunkálatok, kútszervíz (átképzés, kútjavítási, tisztítási, és rétegserkentési műveletek, kútfelszámolás), próbatermelés. | A rendelkezésre álló adatsor. |  |
 
-| 15. | Magyar Bányászati és Földtani Hivatal |  | - Inertes gáz termelése; földalatti gáztárolás, millió m3. | A rendelkezésre álló adatsor. |  |
+| 15. | Magyar Bányászati és Földtani Szolgálat |  | - Inertes gáz termelése; földalatti gáztárolás, millió m3. | A rendelkezésre álló adatsor. |  |
 
-| 16. | Magyar Bányászati és Földtani Hivatal | A tőzegbányászat emissziójának számításához a tőzegbányák adatai. | - Adott évben nyitott új tőzegbányák területe, és a kibányászott tőzeg szervesanyagtartalma (átlagérték vagy 2 kategóriában alacsony, illetve magas szervesanyag-tartalom szerint). |  |  |
+| 16. | Magyar Bányászati és Földtani Szolgálat | A tőzegbányászat emissziójának számításához a tőzegbányák adatai. | - Adott évben nyitott új tőzegbányák területe, és a kibányászott tőzeg szervesanyagtartalma (átlagérték vagy 2 kategóriában alacsony, illetve magas szervesanyag-tartalom szerint). |  |  |
 
 | 17. | Magyar Energetikai és Közmű- szabályozási Hivatal | Energiagazdálkodási statisztikai adatok. | Energiagazdálkodási Statisztikai Évkönyv adatai. |  | A megjelenéssel egyidejűleg. |
 
@@ -72,7 +72,7 @@
 
 | 32. | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | Üvegházhatású gázokat tartalmazó gyógyszer-termékek forgalmazása. | Belföldi fogyasztási adatok üvegházhatású gázokat tartalmazó gyógyszertermékekről [ideértve a HFC-134a (norfluran), HFC- 227ea, valamint N2O gázokat], különösen az 517/2014/EU európai parlamenti és tanácsi rendelet, valamint a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. Korm. rendelet szerint összegyűjtött adatok |  |  |
 
-| 33. | Magyar Földtani és Geofizikai Intézet | Felszínalatti vizek kitermelése során évente kibocsátott üvegházhatású gázok. | Felszínalatti vizek kitermelése és a kitermelt vizek metántartalma, és az elfáklyázott metán mennyisége. | 1985-től a rendelkezésre álló adatsor, figyelemmel az OSAP keretében szolgáltatott adatokra is |  |
+| 33. | Magyar Bányászati és Földtani Szolgálat | Felszínalatti vizek kitermelése során évente kibocsátott üvegházhatású gázok. | Felszínalatti vizek kitermelése és a kitermelt vizek metántartalma, és az elfáklyázott metán mennyisége. | 1985-től a rendelkezésre álló adatsor, figyelemmel az OSAP keretében szolgáltatott adatokra is |  |
 
 2. melléklet a 278/2014. (XI. 14.) Korm. rendelethez
 
