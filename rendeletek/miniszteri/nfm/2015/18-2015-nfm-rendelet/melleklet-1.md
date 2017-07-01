@@ -94,13 +94,13 @@ C) Központi hivatalok
 
 3.15. a navigációs főtiszt.
 
-4. A Magyar Bányászati és Földtani Hivatalnál
+4.[^4] A Magyar Bányászati és Földtani Szolgálatnál
 
 4.1. a gazdasági vezető,
 
 4.2. a főosztályvezető,
 
-4.3.[^4]
+4.3.[^5]
 
 4.4. az informatikai és adatvédelmi feladatokat, az adattári és információs feladatokat, a humánpolitikai és igazgatási feladatokat ellátó szervezeti egység vezetője,
 
@@ -128,18 +128,14 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 1.7. a humánpolitikai szakértő.
 
-2. A Magyar Földtani és Geofizikai Intézetnél
+2.[^6]
 
-2.1. az igazgató és helyettese,
-
-2.2. a gazdasági vezető,
-
-2.3. a főosztályvezető.
-
-3.[^5]
+3.[^7]
 
 [^1]: A 1. melléklet A) rész 1. pont 1.16. alpontját a 46/2016. (XI. 17.) NFM rendelet 6. §-a iktatta be.
 [^2]: A 1. melléklet C) rész 1. pontját a 46/2016. (XI. 17.) NFM rendelet 7. §-a hatályon kívül helyezte.
 [^3]: Az 1. melléklet C) rész 2. pontját a 78/2016. (XII. 30.) NFM rendelet 2. § a) pontja hatályon kívül helyezte.
-[^4]: Az 1. melléklet C) rész 4. pont 4.3. alpontját a 38/2015. (VI. 30.) NFM rendelet 1. §-a hatályon kívül helyezte.
-[^5]: Az 1. melléklet D) rész 3. pontját a 78/2016. (XII. 30.) NFM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^4]: Az 1. melléklet C. pont 4. alpont nyitó szövegrésze a 24/2017. (VI. 30.) NFM rendelet 17. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet C) rész 4. pont 4.3. alpontját a 38/2015. (VI. 30.) NFM rendelet 1. §-a hatályon kívül helyezte.
+[^6]: Az 1. melléklet D. pont 2. alpontját a 24/2017. (VI. 30.) NFM rendelet 18. §-a hatályon kívül helyezte.
+[^7]: Az 1. melléklet D) rész 3. pontját a 78/2016. (XII. 30.) NFM rendelet 2. § b) pontja hatályon kívül helyezte.
