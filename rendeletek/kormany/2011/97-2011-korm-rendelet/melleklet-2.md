@@ -28,7 +28,7 @@
 
 | 13. | Hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 14. | Bányahatósági engedélyek | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | Bányahatósági engedélyek | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 15. | Talajvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala | Csongrád Megyei Kormányhivatal |
 
@@ -64,9 +64,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 7. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 9. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 10 | rendészet: gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -98,4 +98,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 24. | A radioaktív anyagoknak a vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a vízügyi hatóság részére adandó jelentések rendszerének a meghatározása | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-[^16]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 18. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^16]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 18. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
