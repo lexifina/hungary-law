@@ -8,11 +8,11 @@ a)[^2] az országos tisztifőorvos,
 
 b) a népegészségügyi, bányafelügyeleti hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal,
 
-c) a fővárosi és megyei kormányhivatal közlekedési, fogyasztóvédelmi, munkavédelmi, népegészségügyi feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala,
+c)[^3] a fővárosi és megyei kormányhivatal közlekedési, fogyasztóvédelmi, munkavédelmi feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala, valamint a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala,
 
 d) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI),
 
-e) a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH),
+e)[^4] a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ),
 
 f) a gazdasági célfelhasználású termékek tekintetében a piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal),
 
@@ -28,11 +28,13 @@ k) a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF
 
 l) a Rendőrség szervei (a továbbiakban: Rendőrség).
 
-(2)[^3] A Nemzeti Adó- és Vámhivatal a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
+(2)[^5] A Nemzeti Adó- és Vámhivatal a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
 
-(3)[^4] A fogyasztóvédelemért felelős miniszter feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
+(3)[^6] A fogyasztóvédelemért felelős miniszter feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
 
 [^1]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
-[^4]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontja a 171/2017. (VI. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés e) pontja a 162/2017. (VI. 28.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.

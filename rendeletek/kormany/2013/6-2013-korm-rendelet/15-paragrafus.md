@@ -1,4 +1,4 @@
-## 14. §[^14]
+## 14. §[^17]
 
 ## 13. Az Európai Unió jogának való megfelelés
 
@@ -14,4 +14,4 @@ c) az építési termékek fogalmazására vonatkozó harmonizált feltételek m
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
