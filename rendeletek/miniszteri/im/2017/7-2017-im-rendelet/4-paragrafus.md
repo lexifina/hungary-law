@@ -1,0 +1,1 @@
+## 3. § A megbízott köteles gondoskodni a cégnek címzett küldemények átvételéről és ennek tényéről egy munkanapon belül értesítenie kell a céget. E körben nincs helye a küldemények megbízott általi továbbküldésének és átirányításának.

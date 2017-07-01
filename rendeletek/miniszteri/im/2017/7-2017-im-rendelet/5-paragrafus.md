@@ -1,0 +1,1 @@
+## 4. § A cégnek a székhelyén lévő iratait, ingóságait érintő hatósági kényszerintézkedés kizárólag a cég irataira és ingóságaira terjedhet ki. A megbízott a hatósági eljárást nem akadályozhatja, azonban erről jogosult haladéktalanul értesíteni a céget.
