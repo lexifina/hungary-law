@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-13-00-00
 | 2016-11-26 | 2016. évi CXXV. törvény | 2016-13-00-00.5 |
 | 2017-01-01 | 2016. évi CXXV. törvény | 2016-13-00-00.6 |
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2016-13-00-00.7 |
+| 2017-07-01 | 2017. évi LXXVII. törvény | 2016-13-00-00.8 |
