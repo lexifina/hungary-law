@@ -64,10 +64,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | Régészet | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 16. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 16. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 17. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 17. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 18. | Településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Nagykovácsi Nagyközség Önkormányzat jegyzője | Pest Megyei Kormányhivatal |
 
-[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 90. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 90. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 90. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 90. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 77. §-a szerint módosított szöveg.
