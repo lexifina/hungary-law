@@ -1,35 +1,35 @@
 ## 43. §[^39]
 
-44. § (1) A jövedéki adóügynek nem minősülő jövedéki ügyben – az engedélyezés és a nyilvántartásba vétel kivételével –, továbbá a hatósági felügyelet keretében végzett adóztatási feladatokkal – ide nem értve az adó-visszaigénylési (adó-visszatérítési) kérelem elbírálása során végzett, a Jöt. 49. § (5) bekezdése szerinti kiutalás előtti ellenőrzést –, illetve a Jöt. 15. § (1) és (2) bekezdése és a Jöt. 65. § (1) bekezdés d) pontja szerinti adófizetési kötelezettséggel kapcsolatos jövedéki adóügyekben az eljárást
+44. § (1)[^40] Jövedéki ügyben az eljárást
 
-a) az adóraktár helye;
+a) az engedélyes, – az e) pontban foglalt kivétellel – a nyilvántartásba vett személy és a hivatalos zár felhasználó telephelye,
 
-b) az adómentes felhasználó üzeme;
+b) a Jöt. 43. §-a, 44. § (2) bekezdése, 45–46. §-a, 48. §-a, 50. §-a és 52. §-a szerinti tevékenységet végző személy, a jövedéki kiskereskedő, a postai szolgáltató, futár- vagy csomagszállítást végző szolgáltató, a jövedéki termék megsemmisítését végző személy és más jogellenes tevékenységet folytató személy tevékenységének helye,
 
-c) a felhasználói engedélyes, a nyilvántartásba vett felhasználó, az üzemi motorikus gáztöltő-állomás, a mobil palackozó, a jövedéki engedélyes kereskedő, a futár- vagy csomagszállítást végző szolgáltató telephelye;
+c) a kenőolaj Jöt. 49. §-a szerinti szállítását végző személy Magyarországra történő belépésének helye,
 
-d) a bejegyzett kereskedő, az eseti bejegyzett kereskedő fogadóhelye;
+d) a magánfőzésben alkalmazott desztillálóberendezésre vonatkozó szakvélemény elkészítése, valamint az elkobzott jövedéki termék és desztillálóberendezés megsemmisítése ügyében az eljáró önkormányzati adóhatóság helye,
 
-e) a nem jövedéki engedélyes kereskedő üzletének, raktárának helye;
+e) a regisztrált szárított, illetve fermentált dohányt termelő, előállító, tároló azzal kereskedő földterületének, telephelyének helye
 
-f) a postai szolgáltató felvevő- vagy kézbesítőhelye;
+szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi.
 
-g) az üzemanyagtöltő állomás, a kereskedelmi tárolótelep, terítőjárat értékesítési körzetének helye;
+(2)[^41] Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
 
-h) az egyéb személy jogosulatlan tevékenységének helye;
+a) az adóztatási,
 
-i) a vámhatóság által regisztrált, szárított, illetve fermentált dohányt előállító, tároló, azzal kereskedő földterületének, telephelyének, raktárának helye;
+b) az engedélyezési, nyilvántartásba vételi,
 
-j) a Jöt. 121/A. §-a szerinti desztillálóberendezésre vonatkozó szakvélemény elkészítése, valamint az elkobzott jövedéki termék és desztillálóberendezés megsemmisítése ügyében az eljáró önkormányzati adóhatóság helye;
+c) a jövedéki biztosíték nyújtásával kapcsolatos,
 
-k) a Jöt. 109. § (5) bekezdése szerinti mozgóbolt által ellátott település, értékesítési megálló helye;
+d) a hivatalos zár előállításával kapcsolatos adatszolgáltatási,
 
-l) a Jöt. 62/A. § (1) bekezdése szerinti bejelentés esetén a belföldre történő belépés helye, egyéb bejelentés esetén a tevékenység végzésének helye
+e) a Jöt. 44. § (1) bekezdése, 47. §-a, 62. §-a és 69. §-a szerinti tevékenység bejelentésével kapcsolatos
 
-## szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi.
-
-(2) Ismeretlen személy jövedéki ügyében az a megyei igazgatóság, a Repülőtéri Igazgatóság és a Bevetési Igazgatóság jár el, amely az ügyben az első intézkedést tette.
+## ügyekben.
 
 (3) A dohánytermék-kiskereskedelmi piac felügyelete körében végzett ellenőrzést a dohánybolt vagy elkülönített hely fekvése, illetve a jogosulatlan tevékenység végzésének helye szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
 
 [^39]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
+[^40]: A 44. § (1) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^41]: A 44. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

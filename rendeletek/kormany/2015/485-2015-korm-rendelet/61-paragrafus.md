@@ -6,15 +6,15 @@ a) az elektromos vezetéken szállított energia tekintetében valamennyi vámel
 
 b) a biztonsági papírok szabad forgalomba bocsátása és az ahhoz kapcsolódó szállítási engedélyek ellenőrzése;
 
-c)[^46] a halasztott vámfizetés engedélyezése, kivéve, ha a halasztott vámfizetési engedélyt – legalább részben – a Vámkódex 166. cikk (2) bekezdése vagy a 182. cikk (1) bekezdése szerinti engedélyhez tervezik használni;
+c)[^48] a halasztott vámfizetés engedélyezése, kivéve, ha a halasztott vámfizetési engedélyt – legalább részben – a Vámkódex 166. cikk (2) bekezdése vagy a 182. cikk (1) bekezdése szerinti engedélyhez tervezik használni;
 
 d) a különleges zárak jóváhagyása;
 
 e) az egységes árutovábbítási eljárások szerinti TC32 Egyedi garanciajegy kibocsátásának engedélyezése;
 
-f)[^47] a kötelezettségvállalás engedélyezése,
+f)[^49] a kötelezettségvállalás engedélyezése,
 
-g)[^48]
+g)[^50]
 
 h) a vámmentes vámkezelésre jogosultak körét szabályozó NGM rendelet szerinti engedélyek kiadása;
 
@@ -34,24 +34,25 @@ m) a TIR rendelet 1. § (1) és (4) bekezdése, valamint a 2. § (4) bekezdése 
 
 n) a légi forgalom kivételével a Magyarország területén működő diplomáciai és konzuli képviseletek, a nemzetközi szervezetek, továbbá ezek személyzetének tagjai és családtagjai használatára érkező, illetve az általuk külföldi rendeltetéssel feladott áruk vámeljárás alá vonása, ha egyértelműen megállapítható, hogy a címzett, illetve a feladó az említett személyi körbe tartozik;
 
-o) a párlat adójegy kivételével az adójegyekkel, zárjegyekkel kapcsolatos első fokú feladatok ellátása az adójegy és a zárjegy felhasználásának helyszíni ellenőrzése és elszámolása, valamint az azt követő hatósági eljárás kivételével;
+o)[^51] a zárjegyekkel kapcsolatos elsőfokú feladatok ellátása, kivéve a zárjegy felhasználásának helyszíni ellenőrzése és elszámolása, valamint az azt követő hatósági eljárás;
 
-p)[^49]
+p)[^52]
 
-q)[^50] a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó, a szükséges elektronikus rendszerek működésbe lépéséig alkalmazandó átmeneti szabályok tekintetében történő kiegészítéséről, valamint az 2015/2446/EU bizottsági felhatalmazáson alapuló rendelet módosításáról szóló, felhatalmazáson alapuló 2016/341/EU bizottsági rendelet 25. cikk (1) bekezdése szerinti engedélyezés, illetve a 41. cikke szerinti ellenőrzési feladatok elvégzése.
+q)[^53] a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó, a szükséges elektronikus rendszerek működésbe lépéséig alkalmazandó átmeneti szabályok tekintetében történő kiegészítéséről, valamint az 2015/2446/EU bizottsági felhatalmazáson alapuló rendelet módosításáról szóló, felhatalmazáson alapuló 2016/341/EU bizottsági rendelet 25. cikk (1) bekezdése szerinti engedélyezés, illetve a 41. cikke szerinti ellenőrzési feladatok elvégzése.
 
 r) az államháztartási bevételi számlára előírás nélküli téves befizetés magyarországi székhellyel nem rendelkezők részére kérelemre történő visszautalással kapcsolatos feladatok ellátása;
 
 s) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 5. § (1) bekezdés c) pontjában foglalt forgalmi érték meghatározása;
 
-t)[^51] a Vámkódex 35. cikke szerinti kötelező érvényű felvilágosítás határozatok kiadása;
+t)[^54] a Vámkódex 35. cikke szerinti kötelező érvényű felvilágosítás határozatok kiadása;
 
-u)[^52] a kapcsolatban álló személyek közötti ügyletek esetén a Vámkódex 73. cikke szerinti egyszerűsítés engedélyezése.
+u)[^55] a kapcsolatban álló személyek közötti ügyletek esetén a Vámkódex 73. cikke szerinti egyszerűsítés engedélyezése.
 
-[^46]: A 61. § c) pontja a 481/2016. (XII. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^47]: A 61. § f) pontja a 481/2016. (XII. 28.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^48]: A 61. § g) pontját a 88/2016. (IV. 29.) Korm. rendelet 21. § 3. pontja hatályon kívül helyezte.
-[^49]: A 61. § p) pontját a 88/2016. (IV. 29.) Korm. rendelet 21. § 4. pontja hatályon kívül helyezte.
-[^50]: A 61. § q) pontja a 88/2016. (IV. 29.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^51]: A 61. § t) pontját a 88/2016. (IV. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^52]: A 61. § u) pontját a 88/2016. (IV. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^48]: A 61. § c) pontja a 481/2016. (XII. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^49]: A 61. § f) pontja a 481/2016. (XII. 28.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^50]: A 61. § g) pontját a 88/2016. (IV. 29.) Korm. rendelet 21. § 3. pontja hatályon kívül helyezte.
+[^51]: A 61. § o) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^52]: A 61. § p) pontját a 88/2016. (IV. 29.) Korm. rendelet 21. § 4. pontja hatályon kívül helyezte.
+[^53]: A 61. § q) pontja a 88/2016. (IV. 29.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^54]: A 61. § t) pontját a 88/2016. (IV. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^55]: A 61. § u) pontját a 88/2016. (IV. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be.

@@ -2,23 +2,25 @@
 
 15. § (1) A Repülőtéri Igazgatóság első fokon eljár azokban az ügyekben – a (2) bekezdésben foglalt kivétellel –, amelyeket európai uniós jogi aktus, törvény, kormányrendelet vagy miniszteri rendelet a vámhatóság hatáskörébe utal.
 
-(2) A Repülőtéri Igazgatóság az (1) bekezdésben foglalt feladatok vonatkozásában nem végezheti
+(2)[^15] A Repülőtéri Igazgatóság az (1) bekezdésben foglalt feladatok vonatkozásában nem végezheti
 
-a) a jövedéki adóztatással, adóellenőrzéssel és engedélyezéssel, a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) szerinti nyilvántartásba vétellel kapcsolatos, jogszabályban meghatározott elsőfokú hatósági feladatokat;
+a) a jövedéki adóztatással és az adóellenőrzéssel kapcsolatos, jogszabályban meghatározott elsőfokú hatósági feladatokat;
 
-b) a fémkereskedelmi hatósági feladatokat;
+b) – a helyszíni szemle kivételével – a Jöt. szerinti engedélyezéssel és nyilvántartásba vétellel kapcsolatos, jogszabályban meghatározott elsőfokú hatósági feladatokat;
 
-c) a regisztrációs adóról szóló 2003. évi CX. törvényben (a továbbiakban: Rega. tv.) meghatározott adóztatási feladatokat;
+c) a fémkereskedelmi hatósági feladatokat;
 
-d) a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvényben (a továbbiakban: Ktdt.) foglalt hatósági feladatokat;
+d) a regisztrációs adóról szóló 2003. évi CX. törvényben (a továbbiakban: Rega. tv.) meghatározott adóztatási feladatokat;
 
-e) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben a vámhatóság részére meghatározott feladatokat;
+e) a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvényben (a továbbiakban: Ktdt.) foglalt hatósági feladatokat;
 
-f) a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti dohánytermék-kiskereskedelmi tevékenység engedélyezésével kapcsolatos feladatokat;
+f) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben a vámhatóság részére meghatározott feladatokat;
 
-g) az EMGA utólagos ellenőrzést, valamint a külön jogszabály szerinti helyszíni szemle lefolytatását, valamint
+g) a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti dohánytermék-kiskereskedelmi tevékenység engedélyezésével kapcsolatos feladatokat;
 
-h)[^15] az AEO feltételek vizsgálatát, az engedélyezett gazdálkodói engedély (a továbbiakban: AEO engedély) kiadását, az AEO státus nyomon követését, újraértékelését.
+h) az EMGA utólagos ellenőrzést, valamint a külön jogszabály szerinti helyszíni szemle lefolytatását; valamint
+
+i) az AEO feltételek vizsgálatát, az engedélyezett gazdálkodói engedély (a továbbiakban: AEO engedély) kiadását, az AEO státus nyomon követését, újraértékelését.
 
 (3)[^16] A Repülőtéri Igazgatóság kiadja az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vtv.) 47. §-a szerinti, a tranzitterület létesítéséről szóló engedélyt.
 
@@ -26,6 +28,6 @@ h)[^15] az AEO feltételek vizsgálatát, az engedélyezett gazdálkodói enged�
 
 (5)[^17] A Repülőtéri Igazgatóság hivatalból vagy kérelemre ellátja a vámazonosító szám kiadásával és nyilvántartásával, valamint érvénytelenítésével kapcsolatos feladatokat.
 
-[^15]: A 15. § (2) bekezdés h) pontja a 88/2016. (IV. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^15]: A 15. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^16]: A 15. § (3) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^17]: A 15. § (5) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

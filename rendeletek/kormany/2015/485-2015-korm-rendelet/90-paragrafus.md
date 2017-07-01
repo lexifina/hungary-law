@@ -8,11 +8,11 @@
 
 90. § (1) A Bevetési Igazgatóság
 
-a) ellátja a pénzügyi jogszabálysértések megelőzése és felderítése érdekében a vámhatóság feladatát meghatározó jogszabályokban előírt helyszíni ellenőrzéseket, ide nem értve a jövedéki adóval kapcsolatos ellenőrzést, de beleértve a Jöt. szerinti hatósági felügyelet keretében végzett ellenőrzést;
+a)[^69] ellátja a pénzügyi jogszabálysértések megelőzése és felderítése érdekében a vámhatóság feladatát meghatározó jogszabályokban előírt helyszíni ellenőrzéseket;
 
 b) végzi – kizárólag helyszíni eljárás keretében – az Art. 88. § (6) és (7) bekezdése, valamint az Art. 119. §-a szerinti ellenőrzéseket, továbbá ellenőrzi – a megyei igazgatóságok mellett – a pénztárgépek üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek teljesítését;
 
-c)[^63] végzi a NAV tv. 36/M. §-a szerinti feladatokat,
+c)[^70] végzi a NAV tv. 36/M. §-a szerinti feladatokat,
 
 d) a NAV tv. 13. § (8) bekezdés e) pontja szerinti mélységi ellenőrzéseket végez;
 
@@ -20,7 +20,7 @@ e) az állami adó- és vámhatóság vezetőjének vámszakmai és nemzetközi 
 
 f) megteszi a vám- és jövedéki jogszabályok és a NAV vámszerveinek feladatait meghatározó egyéb jogszabályok megsértésének észlelése, gyanúja esetén a jogsértés megszüntetése, mértékének felderítése és a bizonyítékok biztosítása érdekében a szükséges intézkedéseket;
 
-g)[^64] lefolytatja a Jöt. 114. § (6) bekezdésében meghatározott, általa felderített jogsértések esetén a gyorsított eljárást,
+g)[^71] lefolytatja a Jöt. szerinti gyorsított eljárást az általa felderített jogsértések esetén;
 
 h) végrehajtja a szabálysértési eljárásban elrendelt elővezetést;
 
@@ -32,7 +32,7 @@ k) kizárólagos hatáskörrel végzi a nyomozó hatóság felkérése alapján 
 
 l) ellátja a NAV nyomozó szervei által elrendelt személyi védelmet;
 
-m)[^65] őrzésvédelmi – így különösen a Nemzetgazdasági Minisztériumnak a miniszter elhelyezését biztosító épülete és a NAV feladatellátása szempontjából kiemelkedően fontos objektum védelmével kapcsolatos – feladatokat végez;
+m)[^72] őrzésvédelmi – így különösen a Nemzetgazdasági Minisztériumnak a miniszter elhelyezését biztosító épülete és a NAV feladatellátása szempontjából kiemelkedően fontos objektum védelmével kapcsolatos – feladatokat végez;
 
 n) végzi a NAV saját hatáskörében lefoglalt dolgok élő erős őrzésével, kísérésével összefüggő feladatokat, valamint anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján a lefoglalt dolgok megsemmisítése során a helyszín biztosítását; valamint
 
@@ -44,7 +44,7 @@ p) egyéb művelet-támogató tevékenységet végez, ideértve a szolgálati fe
 
 (3) A NAV tv. 36/E. § (3) bekezdése alapján kizárólag a Bevetési Igazgatóság járhat el.
 
-(4)[^66] A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
+(4)[^73] A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
 
 (5) A Bevetési Igazgatóság folytatja le az ismeretlen személy jövedéki ügyével kapcsolatos eljárást, ha az első intézkedést a Bevetési Igazgatóság tette.
 
@@ -52,7 +52,8 @@ p) egyéb művelet-támogató tevékenységet végez, ideértve a szolgálati fe
 
 (7) A Bevetési Igazgatóság által felderített szabálysértések tekintetében a szabálysértési eljárás lefolytatására – ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja – a Bevetési Igazgatóság is jogosult.
 
-[^63]: A 90. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^64]: A 90. § (1) bekezdés g) pontja a 88/2016. (IV. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^65]: A 90. § (1) bekezdés m) pontja a 85/2016. (IV. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^66]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^69]: A 90. § (1) bekezdés a) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^70]: A 90. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^71]: A 90. § (1) bekezdés g) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (9) bekezdésével megállapított szöveg.
+[^72]: A 90. § (1) bekezdés m) pontja a 85/2016. (IV. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^73]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.

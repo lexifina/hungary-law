@@ -34,7 +34,7 @@ n)[^1] ellátja a vámjogszabályok alkalmazása tekintetében az Európai Bizot
 
 o)[^2] ellátja a több tagállamot érintő engedélyek másik tagállam vámhatósága részére történő továbbításával kapcsolatos feladatokat;
 
-p)[^3] közzéteszi a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) előírt, az üzemanyagok adómértékének megállapításához szükséges átlagos árat;
+p)[^3] közzéteszi a jövedéki adóról szóló 2016. évi LXVIII. törvényben (a továbbiakban: Jöt.) előírt, az üzemanyagok adómértékének megállapításához szükséges átlagos árat;
 
 q)[^4] közzéteszi a Jöt.-ben előírt, a dohánygyártmányok értékesítése során alkalmazható kiskereskedelmi eladási árat;
 
@@ -44,7 +44,7 @@ s)[^6] jogszabály erre vonatkozó rendelkezése alapján közzéteszi a közhit
 
 [^1]: Az 5. § n) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
 [^2]: Az 5. § o) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 5. § p) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^3]: Az 5. § p) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege e módosító rendelet 10. § (11) bekezdése szerint módosított szöveg.
 [^4]: Az 5. § q) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
 [^5]: Az 5. § r) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
 [^6]: Az 5. § s) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
