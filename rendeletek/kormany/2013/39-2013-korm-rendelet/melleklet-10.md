@@ -1,4 +1,4 @@
-10. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^93]
+10. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^110]
 
 Az irányelvet átültető rendelkezésekből eredő változtatások köre
 
@@ -44,7 +44,7 @@ a) az ennél kevesebb szálat tartalmazó cigaretta egységcsomagja 20 szálasra
 
 b) a cigarettadohány 30–50 grammos kiszerelésűre változzék akkor, ha korábban 50 grammnál nagyobb kiszerelésben volt elérhető az adott termék.
 
-7.[^94] A 2–6. pontban felsorolt esetekben az érintett dohánytermék új csomagolásának a fogyasztóvédelemért felelős miniszter felé történő regisztrációja során a regisztrációs laphoz fűzött külön megjegyzésben a regisztrációs lapot benyújtó köteles megindokolni, hogy milyen okból vált szükségessé a dohánytermék márkanevének, illetve alfajtanevének megváltoztatása.
+7.[^111] A 2–6. pontban felsorolt esetekben az érintett dohánytermék új csomagolásának a fogyasztóvédelemért felelős miniszter felé történő regisztrációja során a regisztrációs laphoz fűzött külön megjegyzésben a regisztrációs lapot benyújtó köteles megindokolni, hogy milyen okból vált szükségessé a dohánytermék márkanevének, illetve alfajtanevének megváltoztatása.
 
-[^93]: A 10. mellékletet a 239/2016. (VIII. 16.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte, újonnan a 421/2016. (XII. 14.) Korm. rendelet 9. §-a iktatta be.
-[^94]: A 10. melléklet 7. pontja a 421/2016. (XII. 14.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^110]: A 10. mellékletet a 239/2016. (VIII. 16.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte, újonnan a 421/2016. (XII. 14.) Korm. rendelet 9. §-a iktatta be.
+[^111]: A 10. melléklet 7. pontja a 421/2016. (XII. 14.) Korm. rendelet 10. §-a szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 | 2. | Baranya Megyei Kormányhivatal | 10024003-00301019-00000000 |
 
-| 3. | Békés Megyei Kormányhivatal | 10026005-00302845-00000000 |
+| 3. | Békés Megyei Kormányhivatal | 10026005-01040030-00000000 |
 
 | 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00302852-00000000 |
 
@@ -38,6 +38,6 @@
 
 | 19. | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
 
-8/A. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^92]
+8/A. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^109]
 
-[^92]: A 8/A. mellékletet a 169/2014. (VII. 18.) Korm. rendelet 12. §-a iktatta be.
+[^109]: A 8/A. mellékletet a 169/2014. (VII. 18.) Korm. rendelet 12. §-a iktatta be.

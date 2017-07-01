@@ -1,4 +1,4 @@
-6/F. §[^22] (1) A dohányzási célú gyógynövénytermékek valamennyi csomagolási egységének és bármely gyűjtőcsomagjának elülső és hátsó külső felületén fel kell tüntetni a következő egészségvédő figyelmeztetést: „E termék dohányzási célú fogyasztása károsítja egészségét.”
+6/F. §[^31] (1) A dohányzási célú gyógynövénytermékek valamennyi csomagolási egységének és bármely gyűjtőcsomagjának elülső és hátsó külső felületén fel kell tüntetni a következő egészségvédő figyelmeztetést: „E termék dohányzási célú fogyasztása károsítja egészségét.”
 
 (2) Az egészségvédő figyelmeztetésnek meg kell felelnie a 6/A. § (9) és (10) bekezdésében foglalt követelményeknek. A figyelmeztetésnek a csomagolási egység és bármely gyűjtőcsomag megfelelő felületén a felület 30%-át kell kitöltenie.
 
@@ -12,4 +12,4 @@ c) ízre, illatra, ízesítőanyagra vagy más adalékanyagra, illetve ezek hiá
 
 (4) A (3) bekezdésben foglaltakon túl a dohányzási célú gyógynövénytermékek csomagolási egységein és gyűjtőcsomagjain nem tüntethető fel az az állítás, miszerint a termék ízesítő- és adalékanyagoktól mentes.
 
-[^22]: A 6/F. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
+[^31]: A 6/F. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 4. Jelölés
 
-6. §[^16] (1) A csomagolási egységen jelölni kell
+6. §[^22] (1) A csomagolási egységen jelölni kell
 
 a) a dohánytermék típusát a következők szerint:
 
@@ -46,4 +46,4 @@ h) a gyártás időpontját (az év, a hónap és a nap feltüntetésével) és 
 
 (7) Mentolos ízesítésű dohánytermék csomagolásán a mentol jelzése „mentol” felirattal történhet.
 
-[^16]: A 6. § a 239/2016. (VIII. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^22]: A 6. § a 239/2016. (VIII. 16.) Korm. rendelet 6. §-ával megállapított szöveg.

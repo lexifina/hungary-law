@@ -1,10 +1,10 @@
-## 24. §[^83] E rendeletnek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet módosításáról szóló 421/2016. (XII. 14.) Korm. rendelettel (a továbbiakban: MódR.2.) megállapított rendelkezéseit a MódR.2. hatálybalépésekor[^84] folyamatban lévő eljárásokban is alkalmazni kell.
+## 25. §[^100] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 11. § (2) és (4) bekezdésének hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^101] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-1. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^85]
+1. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^102]
 
 Regisztrációs lap tartalmi elemei
 
-1. A dohánytermék gyártó, importáló, bejegyzett kereskedő vagy az adóraktár engedélyesének neve, címe.
+1. Az adóraktár engedélyese, importáló vagy bejegyzett kereskedő neve, címe.
 
 2. A dohánytermék megnevezésére vonatkozó információk:
 
@@ -58,6 +58,6 @@ importáló, bejegyzett kereskedő
 
 vagy tároló adóraktár engedélyes neve
 
-[^83]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 421/2016. (XII. 14.) Korm. rendelet 8. §-a iktatta be.
-[^84]: A hatálybalépés időpontja 2016. december 15.
-[^85]: Az 1. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (1) bekezdése a 20. § g) pontja szerint módosított szöveg.
+[^100]: A 25. §-t a 171/2017. (VI. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^101]: A hatálybalépés időpontja 2017. július 1.
+[^102]: Az 1. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (1) bekezdése, a 20. § g) pontja, a 419/2016. (XII. 14.) Korm. rendelet 8. § (8) bekezdése szerint módosított szöveg.

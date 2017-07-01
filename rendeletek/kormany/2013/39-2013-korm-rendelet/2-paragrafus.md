@@ -1,6 +1,6 @@
 ## 2. §[^2] E rendelet alkalmazásában:
 
-1. bejegyzett kereskedő: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 7. § 16. pontjában meghatározott személy;
+1.[^3] bejegyzett kereskedő: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti bejegyzett kereskedő,
 
 2. dohánytermék gyártásához felhasznált nyers- és adalékanyagok:
 
@@ -40,7 +40,7 @@ g) vízipipadohány: olyan dohánytermék, amely vízipipával fogyasztható,
 
 h) bármely olyan egyéb termék, amelyet dohányzás céljából gyártanak, még abban az esetben is, ha csupán részben tartalmaz – akár géntechnológiával módosított formában, akár nem ilyen formában – dohányt;
 
-3a.[^3] egészségvédő figyelmeztetés: a szöveges figyelmeztetés, a kombinált egészségvédő figyelmeztetés, az általános figyelmeztetés és a tájékoztatás.
+3a.[^4] egészségvédő figyelmeztetés: a szöveges figyelmeztetés, a kombinált egészségvédő figyelmeztetés, az általános figyelmeztetés és a tájékoztatás.
 
 4. export: olyan jövedéki terméknek az Európai Unión kívüli államba történő értékesítése, amelyet a vámhatóság végleges rendeltetéssel az Európai Unión kívüli államba kiléptet;
 
@@ -64,9 +64,9 @@ c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szán
 
 11. idegen anyag: a termesztés és feldolgozás során a nyersanyagba, illetve a késztermékbe került, egyszerű fizikai módszerekkel elkülöníthető, nem dohány eredetű anyag;
 
-12. importálás: a Jöt. 7. § 2. pontjában meghatározott fogalom;
+12.[^5] importálás: a Jöt. szerinti importálás;
 
-13. importáló: a Jöt. 7. § 29. pontjában meghatározott fogalom;
+13.[^6] importáló: a Jöt. szerinti importáló;
 
 14. ízesítés: illatot, ízt vagy illatot és ízt kölcsönző adalékanyag;
 
@@ -84,7 +84,7 @@ c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szán
 
 21. összetevő: dohány, adalékanyag, valamint a kész dohánytermékben vagy kapcsolódó termékben jelen lévő anyagok vagy alkotóelemek, beleértve a papírt, a füstszűrőt, a nyomdafestéket, a kapszulákat és a ragasztóanyagokat is;
 
-22. szabadforgalomba bocsátás: a Jöt. 7. § 22. pontjában meghatározott fogalom;
+22.[^7] szabadforgalomba bocsátás: a Jöt. szerinti szabadforgalomba bocsátás,
 
 23. szállítási csomagolás: a termék szállításához kialakított, de kiskereskedelmi forgalomba nem kerülő csomagolás;
 
@@ -94,7 +94,7 @@ c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szán
 
 26. szopóka: a cigarettához, szivarhoz, szivarkához, elektronikus cigarettához, dohányzást imitáló elektronikus eszközhöz rögzített rész, amely közvetlenül a szájjal érintkezik;
 
-27. adóraktár engedélyese: a Jöt. 100. § (1) bekezdés d) pontja szerinti dohánytároló adóraktár engedélyese;
+27.[^8] adóraktár engedélyese: a Jöt. szerinti adóraktár engedélyese;
 
 28. toxicitás: az adott anyag által az emberi szervezetben potenciálisan okozott káros hatás mértéke, beleértve a bizonyos idő bekövetkeztével, megismételt vagy folyamatos fogyasztás vagy expozíció folyamán okozott hatásokat;
 
@@ -105,4 +105,9 @@ a) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigar
 b) amelyet 2014. május 19-e után hoznak forgalomba.
 
 [^2]: A 2. § a 239/2016. (VIII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^3]: A 2. § 3a. pontját a 421/2016. (XII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § 1. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 3a. pontját a 421/2016. (XII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § 12. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 13. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § 22. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § 27. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
