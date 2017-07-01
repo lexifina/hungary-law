@@ -1,4 +1,4 @@
-## 6K81959M_0
+## 6K81942M_0
 
 | Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
 
@@ -86,7 +86,7 @@
 
 | 20. | Áram- és feszültség mérőváltók 0,5 pontossági osztályba tartozók, vagy pontosabbak | korlátlan |
 
-| 21. | a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló jogszabály végrehajtását biztosító, folyékony halmazállapotú jövedéki termékek raktározási és tárolási folyamatai során a minőség és mennyiség megállapítását adóügyi ellenőrzés céljából szolgáló I/5 pontban nem szereplő eszközök |  |
+| 21. | a jövedéki adóról szóló törvény végrehajtását biztosító, folyékony halmazállapotú jövedéki termékek raktározási és tárolási folyamatai során a minőség és mennyiség megállapítását ellenőrzés céljából szolgáló I/5 pontban nem szereplő eszközök |  |
 
 |  | a) tartály első hitelesítés | 5 |
 
