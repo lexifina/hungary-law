@@ -1,0 +1,1 @@
+## „h) az 1. melléklet 1. pont 4. és 5. alpontjában meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő házas- vagy élettársa és gyermeke személyvédelmét, ha alapos okból védelmük szükséges [az (1) bekezdésben és az a)–f) és h) pontban meghatározottak a továbbiakban együtt: védett személy].”
