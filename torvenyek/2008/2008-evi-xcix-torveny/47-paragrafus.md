@@ -12,7 +12,7 @@ d) határozza meg az egyes előadó-művészeti tevékenységet folytatók jára
 
 e) határozza meg a Nemzeti Előadó-művészeti Érdekegyeztető Tanács tagjaira, működésére vonatkozó szabályokat,
 
-f) határozza meg az előadó-művészeti bizottságok működésére, a működés feltételeire, valamint az előadó-művészeti bizottságok által elkészítendő felosztási szabályzat és javaslat elkészítésére és tartalmára vonatkozó szabályokat,
+f) határozza meg az előadó-művészeti bizottságok által elkészítendő felosztási szabályzat és javaslat elkészítésére és tartalmára vonatkozó szabályokat,
 
 g) határozza meg a művészeti támogatás mértékének megállapításánál irányadó szempontokat és a művészeti támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
 
@@ -24,7 +24,7 @@ j) határozza meg a miniszter által felügyelt költségvetési fejezetből az 
 
 k) határozza meg az előadó-művészeti szervezettel kötendő, közfeladatellátásra irányuló közszolgáltatási szerződés tartalmára és megkötésére irányadó szabályokat,
 
-l) határozza meg az önkormányzati fenntartású előadó-művészeti szervezet számára fenntartói megállapodásban biztosított támogatás tartalmára és megkötésére irányadó szabályokat,
+l) határozza meg az önkormányzati fenntartású előadó-művészeti szervezettel kötendő fenntartói megállapodás tartalmára és megkötésére irányadó szabályokat,
 
 m) határozza meg az előadó-művészeti szervezet és előadó-művészeti szakmai érdek-képviseleti szervezet nyilvántartásba vételére, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,
 
@@ -34,7 +34,11 @@ o) határozza meg a szakmai próbajáték és próbaéneklés meghirdetésére v
 
 p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi feltételeit,
 
-q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat.
+q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
+
+r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, valamint a pályázatok elbírálásának rendjét,
+
+s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

@@ -1,9 +1,1 @@
-40. § (1) A vezető munkakörének ellátásával szakirányú felsőfokú végzettséggel és legalább ötéves szakmai gyakorlattal rendelkező személy bízható meg. E paragrafus tekintetében szakirányú felsőfokú végzettségnek minősül a felsőfokú oktatási intézményben szerzett, az intézmény alaptevékenységének megfelelő diplomával vagy oklevéllel, vagy jogász vagy közgazdász oklevéllel tanúsított végzettség.
-
-(2) Ha a vezető nem rendelkezik egyetemi vagy főiskolai szintű pénzügyi-gazdasági, illetve közgazdász szakképzettséggel, egyetemi vagy főiskolai szintű végzettséggel és pénzügyi, számviteli szakképesítéssel vagy pénzügyi-gazdasági szakirányú továbbképzési szakon szerzett további végzettséggel, az önállóan gazdálkodó előadó-művészeti szervezetnél ennek megfelelő végzettséggel, illetve szakképzettséggel rendelkező gazdasági vezetőt kell foglalkoztatni.
-
-(3) Szakmai gyakorlatnak minősül a valamely előadó-művészeti szervezetnél, a szervezet alaptevékenységének megfelelő és ahhoz közvetlenül kapcsolódó munkakörben, munkavégzésre irányuló egyéb jogviszony esetében pedig az ilyen feladatkörben eltöltött idő.
-
-(4) A miniszter a kinevezési jogkör gyakorlójának javaslatára a meghatározott szakirányú felsőfokú végzettség, szakképesítés megszerzésének követelménye alól felmentést adhat, ha a felsőfokú végzettséggel rendelkező pályázó rendelkezik előadó-művészeti szervezetben szerzett legalább ötéves vezetői gyakorlattal. A Kossuth-díjban, a Magyar Köztársaság Kiváló Művésze és a Magyar Köztársaság Érdemes Művésze díjban részesített személy mentesül a meghatározott végzettség, szakképesítés megszerzésének követelménye alól.
-
-(5) Eltérő megállapodás hiányában a vezető a munkaszerződés megkötéséig köteles fennálló közalkalmazotti jogviszonyát megszüntetni, ha a munkáltató a foglalkoztatott kérelmére nem biztosít fizetés nélküli szabadságot.
+40. § A vezető munkaköre betöltésének feltételeit és a feltételek alól adható felmentés szabályait a Kormány rendeletben határozza meg.

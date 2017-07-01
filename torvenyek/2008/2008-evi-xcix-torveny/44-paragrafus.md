@@ -124,4 +124,4 @@ c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartoz�
 
 56. hangversenyterem: olyan zárt terű, legalább száz ülőhelyet magába foglaló, nézőtérrel rendelkező befogadó színház, amely akusztikailag és technikailag alkalmas e törvény szerinti hangversenyek előadására,
 
-57. kamarakórus: oratorikus vagy a capella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.
+57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.

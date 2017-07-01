@@ -10,7 +10,7 @@ d) előadó-művészeti adatszolgáltatási tevékenységet végez,
 
 e)
 
-f) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.
+f) ellátja a törvényben vagy törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.
 
 (2) A kijelölt szerv döntése ellen nincs helye fellebbezésnek.
 

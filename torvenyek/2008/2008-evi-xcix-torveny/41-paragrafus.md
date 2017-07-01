@@ -6,4 +6,4 @@
 
 (4) A vezető munkakörébe nem tartozó művészi, művészeti feladatok ellátásával kapcsolatos rendelkezéseket a munkaszerződésben kell meghatározni. Ennek hiányában a vezető ilyen tevékenységeket az általa vezetett előadó-művészeti szervezetnél csak a munkáltatói jogkör gyakorlójának előzetes, írásbeli engedélyével végezhet.
 
-(5) Az állami vagy önkormányzati fenntartású előadó-művészeti szervezet vezetőjének határozott idejű munkajogviszonyát rendes felmondással megszüntetni nem lehet.
+(5) A 39. § (1) bekezdése szerinti előadó-művészeti szervezet vezetőjének határozott idejű munkajogviszonyát rendes felmondással megszüntetni nem lehet.

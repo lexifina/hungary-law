@@ -1,1 +1,5 @@
-42. § A miniszter a pályázati eljárásról a munkáltatói jogkör gyakorlójától tájékoztatást kérhet.
+42–43. §
+
+3. CÍM
+
+TÁNCMŰVÉSZETI ÉLETJÁRADÉK

@@ -1,1 +1,1 @@
-9. §
+9. § A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője köteles bejelenteni a kijelölt szervnek a változástól vagy az arról való tudomásszerzéstől számított tizenöt napon belül.

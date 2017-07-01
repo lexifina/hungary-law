@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-99-00-00
 | 2015-06-19 | 2015. évi LXXII. törvény | 2008-99-00-00.23 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 2008-99-00-00.24 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 2008-99-00-00.25 |
+| 2017-07-01 | 2017. évi LXVIII. törvény | 2008-99-00-00.26 |
