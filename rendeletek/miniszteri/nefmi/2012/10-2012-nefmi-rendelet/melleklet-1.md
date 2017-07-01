@@ -3,4 +3,4 @@
 1. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^12]
 
 [^11]: A 25. §-t a 17/2016. (VII. 22.) EMMI rendelet 3. §-a iktatta be.
-[^12]: Az 1. melléklet a 17/2016. (VII. 22.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet a 17/2016. (VII. 22.) EMMI rendelet 4. §-ával megállapított, a 15/2017. (VI. 22.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
