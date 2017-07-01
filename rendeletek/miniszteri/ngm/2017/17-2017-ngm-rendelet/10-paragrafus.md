@@ -1,0 +1,1 @@
+## „(3) A szerencsejáték-felügyeleti hatóság a játékautomata nyilvántartásba vételéről a 13. számú melléklet szerinti tartalmi és formai elemeket tartalmazó nyilvántartásba vételi igazolást állít ki a kérelmező részére.”
