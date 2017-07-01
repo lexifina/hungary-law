@@ -1,4 +1,4 @@
-11. § (1) Ha e törvény kivételt nem tesz, dohánytermék-kiskereskedelem, és a 3. § 8. pont m) alpontja szerinti termékek kiskereskedelme kizárólag dohányboltban folytatható.
+11. § (1) Ha e törvény kivételt nem tesz, dohánytermék-kiskereskedelem, a 3. § 8. pont m) alpontja szerinti termékek, a cigarettahüvely, a cigarettapapír és a dohánylevél-töltő kiskereskedelme kizárólag dohányboltban folytatható.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően dohánytermék-kiskereskedelem más üzletben is folytatható,
 
