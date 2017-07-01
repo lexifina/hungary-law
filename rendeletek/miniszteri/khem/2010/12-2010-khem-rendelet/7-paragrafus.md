@@ -1,4 +1,4 @@
-7. §[^6] (1) A hites bányamérők nyilvántartásának – a bányászatról szóló törvényben foglaltakon túl – tartalmaznia kell:
+7. §[^7] (1) A hites bányamérők nyilvántartásának – a bányászatról szóló törvényben foglaltakon túl – tartalmaznia kell:
 
 a) a bejelentés iktatási számát és időpontját,
 
@@ -20,6 +20,7 @@ c) meghalt,
 
 d) bejelentette a tevékenység befejezését.
 
-(3) A hites bányamérők jegyzékét az MBFH honlapján folyamatosan közzé kell tenni. A közzétett jegyzék tartalmazza a hites bányamérő nevét, valamint az (1) bekezdés b)–d) pontja szerinti adatokat.
+(3)[^8] A hites bányamérők jegyzékét az MBFSZ honlapján folyamatosan közzé kell tenni. A közzétett jegyzék tartalmazza a hites bányamérő nevét, valamint az (1) bekezdés b)–d) pontja szerinti adatokat.
 
-[^6]: A 7. § az 5/2016. (III. 17.) NFM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 7. § az 5/2016. (III. 17.) NFM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 7. § (3) bekezdése a 24/2017. (VI. 30.) NFM rendelet 8. § b) pontja szerint módosított szöveg.
