@@ -28,19 +28,19 @@ h) a lepárlóüzem cégszerű aláírását.
 
 a) a 10. § (1) bekezdése szerint kiállított, a borászati melléktermékek átvételét igazoló sorszámozott átvételi elismervények egy példányát tételenként,
 
-b) a borászati melléktermékek lepárlására vonatkozóan a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény egyes rendelkezéseinek végrehajtásáról szóló 8/2004. (III. 10.) PM rendelet (a továbbiakban: PM rendelet) 28. számú melléklete szerinti, az illetékes vámhatóság (a továbbiakban: vámhatóság) által ellenjegyzett termékmérleg nyilvántartások másolatait azokra a hónapokra vonatkozóan, amelyekben az adott borászati melléktermékeket lepárolták,
+b)[^22] a borászati melléktermékek lepárlására vonatkozóan a jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet (a továbbiakban: jövedéki vhr.) 1. melléklete szerinti adóraktári nyilvántartás másolatát azokra a hónapokra vonatkozóan, amelyekben az adott borászati melléktermékeket lepárolták,
 
-c) a borászati melléktermékek lepárlására vonatkozóan a PM rendelet 33. számú melléklete szerinti, a vámhatóság által ellenjegyzett termelési napló másolatait azokra a hónapokra, amelyekben az adott borászati melléktermékeket lepárolták,
+c)[^23]
 
 d) a tárolótartály-nyilvántartás másolatát, azon feltüntetve a tárolótartályok – a mérésügyről szóló törvény alapján a Magyar Kereskedelmi Engedélyezési Hivatal által kiállított – hitelesítési engedélyének számát és érvényességének idejét,
 
 e) ha a 9. § (4) bekezdése szerint a kötelezett szállítja be lepárlás céljára a borászati mellékterméket, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő beszállítási költségtérítés összegét tartalmazó számlák és azok kifizetését igazoló bizonylatok másolati példányait,
 
-f)[^22] ha a 9. § (5) bekezdése szerint a kötelezett a szőlőtörköly szállítójárműre történő rakodását vállalta, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő rakodási költségtérítés összegét tartalmazó számlák és az azok kifizetését igazoló bizonylatok másolati példányait,
+f)[^24] ha a 9. § (5) bekezdése szerint a kötelezett a szőlőtörköly szállítójárműre történő rakodását vállalta, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő rakodási költségtérítés összegét tartalmazó számlák és az azok kifizetését igazoló bizonylatok másolati példányait,
 
 g) ha a 3. § (6) bekezdésének megfelelően a kötelezett a borászati melléktermék leadási kötelezettsége teljesítését bor leadásával egészítette ki, a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló VM rendeletben meghatározott borkísérő okmányok másolatait tételenként.
 
-(3)[^23] A lepárlóüzem havonta egy támogatási kérelem alapján jogosult támogatásra. A támogatási kérelem benyújtásának legkorábbi időpontja az adott borpiaci év október 5-e, legkésőbbi időpontja pedig a következő borpiaci év augusztus 30-a. A benyújtási határidő elmulasztása esetén igazolásnak nincs helye.
+(3)[^25] A lepárlóüzem havonta egy támogatási kérelem alapján jogosult támogatásra. A támogatási kérelem benyújtásának legkorábbi időpontja az adott borpiaci év október 5-e, legkésőbbi időpontja pedig a következő borpiaci év augusztus 30-a. A benyújtási határidő elmulasztása esetén igazolásnak nincs helye.
 
 (4) Egy támogatási kérelemnek legalább egy teljes naptári hónap alatt előállított ipari célú nyers alkohol mennyiségre kell vonatkoznia.
 
@@ -48,5 +48,7 @@ g) ha a 3. § (6) bekezdésének megfelelően a kötelezett a borászati mellék
 [^19]: A 16. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^20]: A 16. § (1) bekezdés e) pontja a 44/2014. (XII. 30.) FM rendelet 6. § d) pontja szerint módosított szöveg.
 [^21]: A 16. § (1) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § e) pontja szerint módosított szöveg.
-[^22]: A 16. § (2) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § f) pontja szerint módosított szöveg.
-[^23]: A 16. § (3) bekezdése a 44/2014. (XII. 30.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^22]: A 16. § (2) bekezdés b) pontja a 33/2017. (VI. 9.) FM rendelet 8. §-ával megállapított szöveg.
+[^23]: A 16. § (2) bekezdés c) pontját a 33/2017. (VI. 9.) FM rendelet 10. §-a hatályon kívül helyezte.
+[^24]: A 16. § (2) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § f) pontja szerint módosított szöveg.
+[^25]: A 16. § (3) bekezdése a 44/2014. (XII. 30.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
