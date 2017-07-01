@@ -19,11 +19,3 @@ e) a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vá
 f) a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet,
 
 g) az Európai Parlament és Tanács (EU) 2016. június 23-i 2016/1034 irányelve a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

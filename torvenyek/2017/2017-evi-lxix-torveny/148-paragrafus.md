@@ -1,8 +1,4 @@
-148. § (1) Az MNBtv. 76. § (5) és (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A kiszabható bírság mértéke a Hpt. 184. §-ában meghatározott szabálysértés esetén és a Bszt. 164. § alapján az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában végző vállalkozás tekintetében 1 555 850 000 Ft-ig vagy a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) és d) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy anyavállalat vagy egy anyavállalat leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont pénzügyi beszámolót kell készítenie, akkor a bruttó bevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
-
-(6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 555 850 000 Ft, de legfeljebb a jogsértésből származó haszon vagy – ha az meghatározható – az azzal elkerült veszteség kétszerese.”
+148. § (1)
 
 (2) Az MNBtv. 76. §-a a következő (12)–(14) bekezdéssel egészül ki:
 

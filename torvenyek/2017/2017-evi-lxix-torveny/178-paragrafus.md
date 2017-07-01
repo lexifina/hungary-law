@@ -8,7 +8,7 @@ c) 184. § (2) bekezdésében a „ha a pénzügyi intézmény” szövegrész h
 
 d) 185. § (1) bekezdésében a „pénzügyi intézmény prudens működését” szövegrész helyébe a „pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működését” szöveg,
 
-e) 204/A. § (5) bekezdésében a „jogerőre emelkedésének” szövegrész helyébe a „véglegessé válásának” szöveg,
+e)
 
 f) 279. § (13) bekezdésében a „(4) bekezdésben nem szabályozott szerződések” szövegrész helyébe a „fogyasztónak nyújtott hitelről szóló törvény hatálya alá nem tartozó pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződések” szöveg,
 
