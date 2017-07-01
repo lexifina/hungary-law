@@ -52,4 +52,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: felmerülés ütemében
 
-2. A Kormány visszavonja a Korm. határozat 1.6. és 1.7. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
