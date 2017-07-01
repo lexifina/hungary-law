@@ -78,16 +78,22 @@ a) befektetési vállalkozásnál, árutőzsdei szolgáltatónál foglalkoztatot
 
 b) befektetési vállalkozásnál már megválasztott, kinevezett vezető állású személynek legkésőbb 2019. január 1-től kell megfelelnie a 22. § (1a) bekezdés b) és c) pontjában,
 
-c) az üzletkötéssel már foglalkozó személynek legkésőbb 2017. január 1-től kell megfelelnie a 116/A. § (2) bekezdés d) pontjában
+c)
 
 foglalt követelményeknek.
 
-(18) A Módtv1. hatálybalépését követő 30 napon belül a befektetési vállalkozás ellenőrzi, hogy az üzletkötésre alkalmazott munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló alkalmazottai a 116/A. § (2) bekezdés a)–c) pontjában rögzített feltételeknek megfelelnek, és ezen alkalmazottait a Felügyeletnek e határidőn belül bejelenti. A Felügyelet a bejelentett személyeket nyilvántartásában rögzíti.
+(18)
 
-(19) Az üzletkötésre alkalmazott személynek a befektetési vállalkozás kérelmére történő feltételhez kötött nyilvántartásba vételére vonatkozó szabályok az üzletkötésre alkalmazott személyre vonatkozó rendelkezések hatálybalépését követően létesített munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló üzletkötésre alkalmazott személyre nézve alkalmazandók.
+(19)
 
 (20) A Módtv1.-gyel megállapított 136. § (2)–(8) bekezdését a Módtv1. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (21) Az e törvény – az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel módosított – 97. § (1) bekezdését a hatálybalépésének napját magában foglaló üzleti év éves beszámolójára, összevont (konszolidált) éves beszámolójára vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok teljesítéséig, de legkésőbb 2016. december 31-ig nem kell alkalmazni.
 
 (22) A pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról szóló 2015. évi CCXV. törvény (a továbbiakban: Módtv.) hatálybalépésekor a Felügyelet nyilvántartásában megbízó nélkül szereplő közvetítők a Módtv. hatálybalépését követő 6 hónapon belül kötelesek a közvetítésre irányuló megbízási szerződést benyújtani a Felügyelet részére. A Felügyelet ennek alapján rögzíti nyilvántartásában a megbízást és a megbízó személyét. Amennyiben a közvetítő ezen kötelezettségének határidőben nem tesz eleget, a nyilvántartott tőkepiaci közvetítői státusza a törvény erejénél fogva, a Felügyelet külön hatósági aktusa nélkül megszűnik és a Felügyelet a tőkepiaci közvetítő adatait a nyilvántartásából kivezeti.
+
+(23) A pénzügyi piacok működését és a pénzügyi eszközök kereskedését szabályozó törvények jogharmonizációs célú módosításáról szóló 2017. évi LXIX. törvény (a továbbiakban: Módtv3.) hatálybalépésekor a 116/A. § (1) bekezdése szerinti természetes személynek legkésőbb 2019. január 1-től kell megfelelnie a 116/A. § (2) bekezdés c) pontjában foglalt követelményeknek.
+
+(24) A Módtv3. hatálybalépését követő 30 napon belül a befektetési vállalkozás, az árutőzsdei szolgáltató, a közvetítő ellenőrzi, hogy az ügyfeleknek pénzügyi eszközökről, befektetési szolgáltatási tevékenységről vagy kiegészítő szolgáltatásról befektetési tanácsot vagy információt nyújtó, vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló alkalmazottai a 116/A. § (2) bekezdés a) és b) pontjában rögzített feltételeknek megfelelnek.
+
+(25) A Felügyelet 2017. december 31-ig vissza nem állítható módon töröl minden olyan adatot, amelyet a 2017. június 30-án hatályos 116/A. §-a szerinti nyilvántartás alapján kezelt.

@@ -2,7 +2,7 @@
 
 ## A FELÜGYELET INTÉZKEDÉSEI ÉS SZANKCIÓI
 
-164. § (1) A Felügyelet az e törvényben foglalt kötelezettségek sérelme esetén alkalmazható intézkedése során
+164. § (1) A Felügyelet – a fokozatosság és arányosság figyelembevételével – az e törvényben foglalt kötelezettségek sérelme esetén alkalmazható intézkedése során
 
 a) az e törvényben, e törvény szerinti szabályzatban vagy a Felügyelet határozatában foglaltak megsértése, illetőleg figyelmen kívül hagyása esetében a befektetési vállalkozást, az árutőzsdei szolgáltatót, a multilaterális kereskedési rendszer működtetőjét, a befektetési vállalkozás, az árutőzsdei szolgáltató, a multilaterális kereskedési rendszer működtetőjének vezető állású személyét és tulajdonosát figyelmezteti, illetőleg – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja,
 
@@ -10,7 +10,7 @@ b) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, a
 
 c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet,
 
-d) a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személyének és könyvvizsgálójának felmentését, a befektetési vállalkozás és az árutőzsdei szolgáltató alkalmazottjának felelősségre vonását kezdeményezheti,
+d) a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személyének és könyvvizsgálójának felmentését, a könyvvizsgáló befektetési vállalkozási minősítésének visszavonását, a befektetési vállalkozás és az árutőzsdei szolgáltató alkalmazottjának felelősségre vonását kezdeményezheti,
 
 e) a befektetési vállalkozás és az árutőzsdei szolgáltató igazgatóságát rendkívüli közgyűlés összehívására kötelezheti, és arra kötelező napirend megtárgyalását írhatja elő,
 

@@ -71,3 +71,5 @@ o) 416. cikk (5) bekezdésének megfelelően a magas és rendkívül magas likvi
 (6) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
 
 (7) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza az ügyfél- és partnerminősítés, valamint a fedezetértékelés prudenciális követelményeit.
+
+(8) Felhatalmazást kap az MNB elnöke, hogy rendeletben állapítsa meg az ügyfeleknek pénzügyi eszközökről, befektetési szolgáltatási tevékenységről vagy kiegészítő szolgáltatásról befektetési tanácsot vagy információt nyújtó természetes személyre előírt szakmai képességekre és kompetenciákra vonatkozó részletes szabályokat.

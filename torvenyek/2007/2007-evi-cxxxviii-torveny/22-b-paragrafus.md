@@ -1,4 +1,4 @@
-22/B. § (1) A 116/A. § (2) bekezdés d) pontja tekintetében szakmai képesítésként fogadható el:
+22/B. § (1) A 116/A. § (2) bekezdés c) pontja tekintetében szakmai képesítésként fogadható el:
 
 a) a szakirányú felsőfokú iskolai végzettség, vagy
 
@@ -24,7 +24,7 @@ bi) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevél,
 
 bj) a ba)–bi) alpontban foglaltakkal egyenértékű szakképesítés, vagy
 
-c) jogszabályban meghatározott, az MNB által kiadott tőkepiaci hatósági vizsga letételét igazoló tanúsítvány.
+c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, az MNB által kiadott tőkepiaci hatósági vizsga letételét igazoló tanúsítvány.
 
 (2) Az (1) bekezdés a) pontja alkalmazásában szakirányú felsőfokú végzettségnek minősülnek
 

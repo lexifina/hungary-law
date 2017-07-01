@@ -4,7 +4,7 @@
 
 2. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
 
-3. Bit.: a biztosítási tevékenységről szóló törvény,
+3. Bit.: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény,
 
 4. Btk.: a Büntető Törvénykönyvről szóló 2012. évi C. törvény,
 
@@ -16,7 +16,7 @@
 
 8. Fttv.: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény,
 
-9.
+9. Fhtv.: a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény,
 
 10. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 
@@ -31,6 +31,8 @@
 15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény,
 
 16. Ptk.: a Polgári Törvénykönyvről szóló törvény,
+
+16. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény,
 
 17.
 

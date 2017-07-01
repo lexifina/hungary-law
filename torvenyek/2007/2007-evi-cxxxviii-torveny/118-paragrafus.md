@@ -34,6 +34,8 @@ k) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság H
 
 l) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
+m) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
+
 szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett írásbeli megkeresése esetén.
 
 (4) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha
