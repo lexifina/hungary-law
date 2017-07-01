@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-210-20-
 | 2017-01-01 | 2009-210-20-22.28 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-02-03 | 2009-210-20-22.29 | 20/2017. (II. 2.) Korm. rendelet |
 | 2017-04-04 | 2009-210-20-22.30 | 20/2017. (II. 2.) Korm. rendelet |
+| 2017-07-01 | 2009-210-20-22.31 | 419/2016. (XII. 14.) Korm. rendelet |

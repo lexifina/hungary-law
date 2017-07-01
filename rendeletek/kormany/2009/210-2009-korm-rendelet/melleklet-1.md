@@ -20,9 +20,9 @@ I.
 
 4.3. üzleten kívüli kereskedés és csomagküldő kereskedelem esetében a működési terület jegyzéke, a működési területével érintett települések, vagy – ha a tevékenység egy egész megyére vagy az ország egészére kiterjed – a megye, illetve az országos jelleg megjelölése;
 
-4.4.[^60] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet kívánnak folytatni;
+4.4.[^63] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet kívánnak folytatni;
 
-4a.[^61] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
+4a.[^64] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
 
 5. a kereskedelmi tevékenység helye szerinti bontásban a folytatni kívánt kereskedelmi tevékenység formája a Kertv. 3. § (4) bekezdése szerint;
 
@@ -44,13 +44,13 @@ I.
 
 6.8. a 25. § (4) bekezdés szerinti esetben a vásárlók könyve nyomtatvány azonosító adatai és használatba vételének időpontja;
 
-6.9.[^62] napi fogyasztási cikket értékesítő üzlet esetén az árusítótér nettó alapterülete, az üzlethez létesített gépjármű-várakozóhelyek száma, azok telekhatártól mért távolsága és elhelyezése (saját telken vagy más telken parkolóban, parkolóházban vagy közterületek közlekedésre szánt területe egy részén, illetve a közforgalom céljára átadott magánút egy részén);
+6.9.[^65] napi fogyasztási cikket értékesítő üzlet esetén az árusítótér nettó alapterülete, az üzlethez létesített gépjármű-várakozóhelyek száma, azok telekhatártól mért távolsága és elhelyezése (saját telken vagy más telken parkolóban, parkolóházban vagy közterületek közlekedésre szánt területe egy részén, illetve a közforgalom céljára átadott magánút egy részén);
 
 7. az egyes kereskedelmi formák és helyek szerinti bontásban a forgalmazni kívánt
 
 7.1. termékek megnevezése és sorszáma a 6. melléklet alapján, illetve ebből
 
-7.2. a Jöt. 3. § (2) bekezdése szerinti termékek;
+7.2.[^66] a jövedéki adóról szóló törvény szerinti jövedéki termékek;
 
 8. az egyes kereskedelmi formák és helyek szerinti bontásban a folytatni kívánt kereskedelmi tevékenység jellege:
 
@@ -112,7 +112,7 @@ I.
 
 5.2. egyéb termékek megnevezése, sorszáma a 6. melléklet alapján, illetve ebből,
 
-5.3. a Jöt. 3. § (2) bekezdése szerinti termékek megnevezése;
+5.3.[^67] a jövedéki adóról szóló törvény szerinti jövedéki termékek megnevezése;
 
 6. üzletek szerinti bontásban a folytatni kívánt kereskedelmi tevékenység jellege:
 
@@ -134,6 +134,8 @@ II.
 
 III.
 
-[^60]: Az 1. melléklet A) cím I. alcím 4. pont 4.4. alpontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^61]: Az 1. melléklet A) cím I. alcím 4a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^62]: Az 1. melléklet A) cím I. alcím 6. pont 6.9. alpontját az 524/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^63]: Az 1. melléklet A) cím I. alcím 4. pont 4.4. alpontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^64]: Az 1. melléklet A) cím I. alcím 4a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^65]: Az 1. melléklet A) cím I. alcím 6. pont 6.9. alpontját az 524/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^66]: Az 1. melléklet A) alcím I. pont 7. alpont 7.2. pontja a 419/2016. (XII. 14.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^67]: Az 1. melléklet B) alcím I. pont 5. alpont 5.3. pontja a 419/2016. (XII. 14.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
