@@ -6,7 +6,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 2. Az elszámoló számla első oldala:
 
-## 4K13909N_0 | „Szolgáltató logója: | | | Villamos energia elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
+## 6K06792N_0 | „Szolgáltató logója: | | | Villamos energia elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
 ## ”
 
@@ -546,9 +546,9 @@ Fizetendő összeg összesen
 
 4.4. Tétel megnevezése:
 
-4.4.1. Nem lakossági fogyasztó esetében a díjtételek között az „Energiaadó összesen” tételt is fel kell tüntetni.
+4.4.1. Nem lakossági fogyasztó esetében a díjtételek között az „Jövedéki adó összesen” tételt is fel kell tüntetni.
 
-4.4.2. Nem lakossági fogyasztó esetében a díjtételek között az „Elszámolt energiaadó összesen”, „Részszámlákban elszámolt energiaadó”, „Fizetendő energiaadó” tételeket is fel kell tüntetni.
+4.4.2. Nem lakossági fogyasztó esetében a díjtételek között az „Elszámolt jövedéki adó összesen”, „Részszámlákban elszámolt jövedéki adó”, „Fizetendő jövedéki adó” tételeket is fel kell tüntetni.
 
 4.4.3. Lakossági fogyasztó esetében a „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket, valamint az ezekhez kapcsolódó, részszámlákban elszámolt fizetendő tételekre vonatkozó sorokat kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 

@@ -6,7 +6,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 2. A részszámla első oldala:
 
-## 4K13909M_0 | „Szolgáltató logója: | | | Villamos energia x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
+## 6K06792M_0 | „Szolgáltató logója: | | | Villamos energia x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
 ## „”
 
@@ -30,7 +30,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 ## Mérési pont azonosító:
 
-## 4K13909M_2 | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (kWh) | Szorzó | Mennyiség (kWh) | | | | | | | | | Utolsó elszámolt mérőállás leolvasásának dátuma: | Utolsó elszámolt mérőállás (kWh): | |
+## 6K06792M_2 | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (kWh) | Szorzó | Mennyiség (kWh) | | | | | | | | | Utolsó elszámolt mérőállás leolvasásának dátuma: | Utolsó elszámolt mérőállás (kWh): | |
 
 ## | Tétel megnevezése | Fogyasztási időszak | Mennyiség | Mérték-egység | Nettó egységár és mérték-egysége | Nettó érték (Ft) | ÁFA (%) | Bruttó érték (Ft) | Egyetemes szolgáltatói árszabás | | | | | | | | Energiadíj összesen | | | | | | | | Rendszerhasználati díjak (az elosztói alapdíj kivételével) | | | | | | | | Elosztói alapdíj* | | | | | | | | Rendszerhasználati díjak összesen | | | | | | | | Szénipari szerkezetátalakítási támogatás | | | | | | AHK | | Kedvezményes árú villamosenergia-ellátás támogatása | | | | | | AHK | | Kapcsolt termelésszerkezet-átalakítás | | | | | | AHK | | Pénzeszközök összesen | | | | | | AHK | | Nettó számlaérték összesen | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen** | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg | | | | | | |
 
@@ -64,7 +64,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 4.5. Tétel megnevezése:
 
-4.5.1. Nem lakossági fogyasztó esetében a díjtételek között a számlarészletező részben az „Energiaadó” tételt is fel kell feltüntetni.
+4.5.1. Nem lakossági fogyasztó esetében a díjtételek között a számlarészletező részben az „Jövedéki adó” tételt is fel kell feltüntetni.
 
 4.5.2. Lakossági fogyasztó esetében a „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 
