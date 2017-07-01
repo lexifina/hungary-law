@@ -1,0 +1,1 @@
+30. § A 28. § és a 29 §-ban meghatározott kötelezettségek teljesítése alól az állami adó- és vámhatóságtól felmentést kérhet az a személy, aki igazolja, hogy kenőolaj importálását vagy másik tagállamból behozatalát kizárólag saját felhasználás céljából végzi.
