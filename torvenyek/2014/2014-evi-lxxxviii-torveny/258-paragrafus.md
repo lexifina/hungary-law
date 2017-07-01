@@ -22,7 +22,7 @@ g) nyilatkozatot arról, hogy a kérelmező egyéb tulajdonosi érdekeltsége é
 
 h) az ellenőrző befolyás megszerzésére, a tulajdonszerzésre, illetve a szavazati joghoz kapcsolódó jelentős előnyöket biztosító megállapodásra tett szerződéses ajánlatot;
 
-i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének részletes leírását;
+i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, ideértve – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását is;
 
 j) a 238. § g) és h) pontjában meghatározott nyilatkozatokat;
 

@@ -93,7 +93,3 @@ A befektetési politika tartalmi elemei
 8. Az eszközalap kockázati besorolásának megjelölése a biztosító által kialakított sorrendi skálán
 
 9. Az eszközalap stratégiai eszközallokációja (az egyes befektetési eszközök megcélzott aránya), illetve az attól való eltérés minimális és maximális megengedett aránya, továbbá azok a feltételek, melyek fennállása esetén az eltérés lehetséges
-
-10. A megcélzott hozam mutatója (referencia index), alapvetően az eszközalap jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja
-
-11. Azon kollektív befektetési forma befektetési politikája, amelybe az eszközalap az eszközeinek legalább ötven százalékát meghaladó mértékben kíván befektetni

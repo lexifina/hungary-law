@@ -1,4 +1,4 @@
-108/A. § (1) A biztosító és a viszontbiztosító köteles a Felügyelet által a vonatkozó jogszabályok megsértése miatt vele szemben hozott határozat rendelkező részét a honlapján közzétenni. Ha a biztosító vagy a viszontbiztosító nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+108/A. § (1) A biztosító és a viszontbiztosító köteles a Felügyelet által a vonatkozó jogszabályok megsértése miatt vele szemben hozott határozat rendelkező részét a honlapján közzétenni. Ha a biztosító vagy a viszontbiztosító nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő közzététellel is eleget tehet.
 
 (2) Az (1) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
 

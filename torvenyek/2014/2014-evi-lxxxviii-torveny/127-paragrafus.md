@@ -12,7 +12,7 @@
 
 (6) Az eszközalap-felfüggesztés végrehajtását követően az eszközalap-felfüggesztés megszüntetéséig és az eszközalap ezt követő első ismert nettó eszközértékének megállapításáig nem terjeszthető vagy értékesíthető olyan biztosítási termék vagy szerződés, amely mögött kizárólag felfüggesztett eszközalap áll.
 
-(7) Az eszközalap-felfüggesztés időtartama legfeljebb egy év, amelyet a biztosító indokolt esetben összesen további egy évvel meghosszabbíthat. A biztosító a meghosszabbításról szóló döntését az eszközalap-felfüggesztés időtartamának lejártát legalább tizenöt nappal megelőzően, figyelemfelhívásra alkalmas módon közzéteszi a honlapján, valamint kifüggeszti az ügyfélszolgálati irodáiban, továbbá egyidejűleg megküldi a Felügyelet részére. A biztosító az eszközalap-felfüggesztést haladéktalanul megszünteti:
+(7) Az eszközalap-felfüggesztés időtartama legfeljebb egy év, amelyet a biztosító indokolt esetben összesen további egy évvel meghosszabbíthat. A biztosító a meghosszabbításról szóló döntését az eszközalap-felfüggesztés időtartamának lejártát legalább tizenöt nappal megelőzően, figyelemfelhívásra alkalmas módon közzéteszi a honlapján, valamint az ügyfélszolgálati irodáiban, továbbá egyidejűleg megküldi a Felügyelet részére. A biztosító az eszközalap-felfüggesztést haladéktalanul megszünteti:
 
 a) az eszközalap-felfüggesztés időtartamának lejártát követően;
 
@@ -34,4 +34,4 @@ a) az eszközalap-felfüggesztés és a szétválasztás törvényi megalapozott
 
 b) az eszközalap-felfüggesztés megszüntetéséről, annak indokáról, valamint a megszüntetésnek a biztosítási szerződést és annak teljesítését érintő következményeiről.
 
-(13) A biztosító a (12) bekezdés szerinti tájékoztatást az eszközalap-felfüggesztés és a szétválasztás végrehajtásával, valamint az eszközalap-felfüggesztés megszüntetésével egyidejűleg, figyelemfelhívásra alkalmas módon közzéteszi a honlapján és kifüggeszti az ügyfélszolgálati irodáiban, továbbá a tájékoztatást folyamatosan naprakészen tartja. A biztosító a tájékoztatást egyidejűleg megküldi a Felügyelet részére.
+(13) A biztosító a (12) bekezdés szerinti tájékoztatást az eszközalap-felfüggesztés és a szétválasztás végrehajtásával, valamint az eszközalap-felfüggesztés megszüntetésével egyidejűleg, figyelemfelhívásra alkalmas módon közzéteszi a honlapján és az ügyfélszolgálati irodáiban, továbbá a tájékoztatást folyamatosan naprakészen tartja. A biztosító a tájékoztatást egyidejűleg megküldi a Felügyelet részére.
