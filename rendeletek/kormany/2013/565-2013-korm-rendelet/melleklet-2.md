@@ -46,8 +46,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | Műszaki biztonság | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 12. | Földtan, bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 12. | Földtan, bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 13. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 64. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 64. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 64. §-a szerint módosított szöveg.
