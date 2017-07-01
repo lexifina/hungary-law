@@ -30,7 +30,7 @@
 
 | 14. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 15. | bányahatósági engedélyek | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | bányahatósági engedélyek | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 16. | talajvédelmi hatósági engedélyek | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
@@ -60,7 +60,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 4. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 5. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 6. | közlekedés: közút | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal |
 
@@ -68,7 +68,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | közlekedés légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 9. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 10. | rendészet: a) gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -96,4 +96,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^13]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
