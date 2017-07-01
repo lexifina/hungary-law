@@ -1,4 +1,4 @@
-4. § (1) A veszélyes áru szállításának biztonsága érdekében a közlekedési hatóság nyilvántartja az ADR „A” Melléklet 1.8.3 szakasza szerinti veszélyes áru szállítási biztonsági tanácsadó
+4. § (1) A veszélyes áru szállításának biztonsága érdekében a közlekedési hatóság nyilvántartja a veszélyes áru szállítási biztonsági tanácsadó
 
 a) természetes személyazonosító adatait,
 

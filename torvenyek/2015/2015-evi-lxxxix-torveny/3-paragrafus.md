@@ -1,1 +1,0 @@
-3. § Az ADR „A” és „B” Mellékletében foglalt rendelkezéseket a veszélyes áruk belföldi közúti szállítására a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló miniszteri rendeletben foglaltak szerint kell alkalmazni.
