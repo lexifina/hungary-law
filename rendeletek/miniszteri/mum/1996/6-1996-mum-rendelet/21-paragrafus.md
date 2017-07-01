@@ -1,3 +1,3 @@
-## 20. §[^149]
+## 20. §[^162]
 
-[^149]: A 20. §-t a 66/2013. (XII. 23.) NGM rendelet 16. § f) pontja hatályon kívül helyezte.
+[^162]: A 20. §-t a 66/2013. (XII. 23.) NGM rendelet 16. § f) pontja hatályon kívül helyezte.

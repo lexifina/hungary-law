@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-6-20-39
 | 2015-04-01 | 1996-6-20-39.37 | 9/2015. (III. 31.) NGM rendelet |
 | 2016-08-23 | 1996-6-20-39.38 | 27/2016. (VIII. 22.) NGM rendelet |
 | 2017-01-01 | 1996-6-20-39.39 | 3/2012. (II. 10.) NGM rendelet |
+| 2017-07-01 | 1996-6-20-39.40 | 12/2017. (VI. 29.) NGM rendelet |
