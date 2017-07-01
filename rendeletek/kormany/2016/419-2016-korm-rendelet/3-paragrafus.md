@@ -1,5 +1,5 @@
-## 3–9.[^3]
+## 2. §[^2]
 
-3. §
+## 3. A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet módosítása
 
-[^3]: A 3–9. alcím (3–9. §) a 11. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

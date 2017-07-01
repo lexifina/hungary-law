@@ -1,5 +1,1 @@
-## 1.[^1]
-
-1. §
-
-[^1]: Az 1. alcím (1. §) a 11. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+## 1. A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet módosítása

@@ -1,3 +1,5 @@
-12. §[^7]
+## 12. § Hatályát veszti
 
-[^7]: A 12. § a 11. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+a) a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló 341/2007. (XII. 15.) Korm. rendelet,
+
+b) az egyes folyékony tüzelő- és fűtőanyagok kéntartalmának csökkentéséről szóló 17/2003. (IV. 4.) GKM–KvVM–PM együttes rendelet.
