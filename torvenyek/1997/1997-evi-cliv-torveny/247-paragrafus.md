@@ -20,7 +20,7 @@ i) az állami mentőszolgálat vagy mentőszolgálatok kijelölését és az ál
 
 j) az állami vérellátó szolgálat vagy szolgálatok kijelölését és az állami vérellátó szolgálat működésére vonatkozó részletes szabályokat,
 
-k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató, továbbá a jogutód nélkül megszűnt egészségügyi intézmények egészségügyi dokumentációjának kezeléséért, valamint az egészségügyi minőségfejlesztési feladatok és az egészségügyi szolgáltatók akkreditációs tevékenységének koordinálásáért felelős, illetve a betegjog-, -biztonság érvényesülését elősegítő szerv feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a jogviszonyára, a képzettségére, a tevékenysége végzésének feltételeire, az összeférhetetlenségére vonatkozó szabályokat, a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervre vonatkozó részletes szabályokat, a szervvel kapcsolatos munkáltatói jogok gyakorlásának módját, valamint a betegjogi, ellátottjogi és gyermekjogi nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők továbbképzésére vonatkozó szabályokat,
+k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a jogviszonyára, a képzettségére, a tevékenysége végzésének feltételeire, az összeférhetetlenségére vonatkozó szabályokat, a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervre vonatkozó részletes szabályokat, valamint a betegjogi, ellátottjogi és gyermekjogi képviselői nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők képzésére, továbbképzésére vonatkozó szabályokat,
 
 l) a külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt kiadó szervet,
 
@@ -260,7 +260,9 @@ o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére
 
 p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi segítségnyújtásra vonatkozó szabályokat, valamint az ilyen tevékenységet végzők nyilvántartására és felkészítésére vonatkozó szabályokat,
 
-q) a prehospitális gyógyszeralkalmazás szabályait
+q) a prehospitális gyógyszeralkalmazás szabályait,
+
+r) az állami fenntartásban működő országos gyógyintézetek körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
 
 rendeletben állapítsa meg.
 
@@ -311,5 +313,3 @@ g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben 
 h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
 
 rendeletben állapítsa meg.
-
-(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
