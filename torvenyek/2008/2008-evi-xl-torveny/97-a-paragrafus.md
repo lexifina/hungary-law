@@ -10,7 +10,7 @@ d) a földgázfelhasználás mérséklését szolgáló egyéb intézkedést,
 
 e) a Magyarország területén termelt vagy készletezett földgáznak a Magyarország területén kívülre történő kiszállítására vonatkozó szerződéskötés feltételeit, a Magyarország területén történő átszállítás kivételével.
 
-(2) Földgázellátási válsághelyzet esetén a beszerzésre kerülő földgáz-helyettesítő fűtőolajat terhelő jövedéki adó a jövedéki adóról szóló törvény rendelkezései szerint visszaigényelhető.
+(2)
 
 (3) Földgázellátási válsághelyzet esetén
 
