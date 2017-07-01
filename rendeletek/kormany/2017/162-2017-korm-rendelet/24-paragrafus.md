@@ -1,0 +1,3 @@
+## 23. § A „Kis-Balaton Vízvédelmi Rendszer II. ütem megvalósítása” tárgyú projekt megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 80/2009. (IV. 8.) Korm. rendelet 2. számú mellékletében foglalt táblázat C:7 és C:8 mezőjében a „Magyar Bányászati és Földtani Hivatal” szövegrész helyébe a „Magyar Bányászati és Földtani Szolgálat” szöveg lép.
+
+## 22. A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet módosítása
