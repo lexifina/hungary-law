@@ -10,7 +10,7 @@
 
 (4a)[^15] Ha az engedély lejártát követően a földtani szakértő a tevékenységét bejelentés alapján tovább kívánja folytatni, a 3. § (2) bekezdésében meghatározott bejelentéshez mellékelnie kell a 6. § (2) bekezdésében meghatározott szakmai minősítő pontok összegyűjtéséről szóló igazolást.
 
-(5) E rendelet hatálybalépésekor a nyilvántartásban szereplő szakértők tekintetében az MBFH e rendelet hatálybalépését követő 30 napon belül írásbeli nyilatkozattételre hívja fel a földtani szakértőt arról, hogy hozzájárul-e a nyilvántartásban szereplő adatainak az MBFH nyilvános földtani szakértői adatbázisában történő közzétételéhez.
+(5)[^16]
 
 (6) Ez a rendelet a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv 9., 11., és 13. cikkének való megfelelést szolgálja.
 
@@ -19,3 +19,4 @@
 [^13]: A 9. § (4) bekezdése az 5/2016. (III. 17.) NFM rendelet 12. §-ával megállapított szöveg.
 [^14]: A hatálybalépés időpontja 2016. március 25.
 [^15]: A 9. § (4a) bekezdését az 5/2016. (III. 17.) NFM rendelet 12. §-a iktatta be.
+[^16]: A 9. § (5) bekezdését a 24/2017. (VI. 30.) NFM rendelet 12. §-a hatályon kívül helyezte.
