@@ -1,12 +1,4 @@
-1/B. §[^21] (1) A Cst. 2. § a), b), e) és f) pontja szerinti személy esetében családtámogatási ügyben – kivéve ha jogszabály másként rendelkezik vagy az ügyet jogszabály családtámogatási kifizetőhely hatáskörébe utalta – első fokon
-
-a) Budapest és Pest megye kivételével a családtámogatási ellátás megállapítására irányuló kérelmet benyújtó személy lakcíme szerint illetékes fővárosi és megyei kormányhivatal családtámogatási feladatkörében eljáró megyeszékhely szerinti járási hivatala,
-
-b) a budapesti lakcímmel rendelkező személy esetében az egész fővárosra kiterjedő illetékességgel Budapest Főváros VIII. Kerületi Hivatala,
-
-c) a Pest megyei lakcímmel rendelkező személy esetében Pest megyére kiterjedő illetékességgel a Pest Megyei Kormányhivatal Váci Járási Hivatala
-
-## jár el.
+1/B. §[^21] (1)[^22] A Cst. 2. § a), b), e) és f) pontja szerinti személy esetében családtámogatási ügyben – kivéve ha jogszabály másként rendelkezik vagy az ügyet jogszabály családtámogatási kifizetőhely hatáskörébe utalta – első fokon a fővárosi és megyei kormányhivatal 13. számú melléklet szerinti családtámogatási feladatkörében eljáró járási hivatala jár el.
 
 (2) A Cst. 2. § c) és d) pontja szerinti személy esetében első fokon
 
@@ -27,3 +19,4 @@ c) az a) pontba nem tartozó családtámogatási ellátásokkal kapcsolatos, hat
 (4) A gyermeknevelési támogatás megállapítására irányuló, valamint a gyermekgondozást segítő ellátás nagyszülő részére történő megállapítására irányuló eljárásban családtámogatási kifizetőhely nem járhat el.
 
 [^21]: Az 1/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 33. § (3) bekezdése iktatta be.
+[^22]: Az 1/B. § (1) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

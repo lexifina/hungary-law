@@ -1,13 +1,13 @@
-## 27/D. §[^196]
+## 27/D. §[^197]
 
-27/E. §[^197] (1)[^198] A megállapított ellátás folyósítása belföldre forintban, míg EGT-államba a kifizetés helye szerinti állam hivatalos pénznemében, a szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletben, valamint az annak felhatalmazása alapján a szociális biztonsági rendszerek koordinációját ellátó igazgatási bizottság által hozott határozatban foglaltak szerint történik.
+27/E. §[^198] (1)[^199] A megállapított ellátás folyósítása belföldre forintban, míg EGT-államba a kifizetés helye szerinti állam hivatalos pénznemében, a szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletben, valamint az annak felhatalmazása alapján a szociális biztonsági rendszerek koordinációját ellátó igazgatási bizottság által hozott határozatban foglaltak szerint történik.
 
-(2)[^199] A kifizetés napja és az ellátás folyósításának időpontja alatt a fizetési számlára utalás, illetve a postai utalvány feladásának napját kell érteni.
+(2)[^200] A kifizetés napja és az ellátás folyósításának időpontja alatt a fizetési számlára utalás, illetve a postai utalvány feladásának napját kell érteni.
 
-(3)[^200]
+(3)[^201]
 
-[^196]: A 27/D. §-t a 211/1999. (XII. 26.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének n) pontja.
-[^197]: A 27/E. §-t a 125/2004. (IV. 29.) Korm. rendelet 8. §-a iktatta a szövegbe.
-[^198]: A 27/E. § (1) bekezdése a 140/2010. (IV. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^199]: A 27/E. § (2) bekezdése a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés b) pont bm) alpontja, a 176/2009. (VIII. 29.) Korm. rendelet 19. § (7) bekezdésének c) pontja szerint módosított szöveg.
-[^200]: A 27/E. § (3) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 332/2011. (XII. 29.) Korm. rendelet 6. § b) pontja.
+[^197]: A 27/D. §-t a 211/1999. (XII. 26.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének n) pontja.
+[^198]: A 27/E. §-t a 125/2004. (IV. 29.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^199]: A 27/E. § (1) bekezdése a 140/2010. (IV. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^200]: A 27/E. § (2) bekezdése a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés b) pont bm) alpontja, a 176/2009. (VIII. 29.) Korm. rendelet 19. § (7) bekezdésének c) pontja szerint módosított szöveg.
+[^201]: A 27/E. § (3) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 332/2011. (XII. 29.) Korm. rendelet 6. § b) pontja.
