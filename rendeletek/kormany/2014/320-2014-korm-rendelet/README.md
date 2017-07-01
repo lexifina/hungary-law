@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-320-20-
 | 2016-12-01 | 2014-320-20-22.6 | 335/2016. (XI. 11.) Korm. rendelet |
 | 2017-01-01 | 2014-320-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2014-320-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-07-01 | 2014-320-20-22.9 | 171/2017. (VI. 29.) Korm. rendelet |

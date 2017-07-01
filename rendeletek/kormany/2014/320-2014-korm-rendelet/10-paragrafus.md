@@ -92,13 +92,15 @@ f) a bérgarancia támogatással,
 
 g) a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához szükséges munkavállalási engedély, valamint az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedélyhez szükséges szakhatósági állásfoglalás kiadásával,
 
-h) a rendbírsággal,
+h)[^37]
 
 i) az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe utalt nyilvántartásba vétellel, valamint
 
 j) az álláskeresők vállalkozóvá válását elősegítő támogatás tőkejuttatás részével
 
 kapcsolatos ügyekben.
+
+(4a)[^38] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén elsőfokú hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
 
 (5) A Kormány a magán-munkaközvetítési tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalt jelöli ki.
 
@@ -111,3 +113,5 @@ b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat
 [^34]: A 9. §-t a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés a) pontja hatályon kívül helyezte.
 [^35]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.
 [^36]: A 10. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés b) pontja hatályon kívül helyezte.
+[^37]: A 10. § (4) bekezdés h) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (3) bekezdése hatályon kívül helyezte.
+[^38]: A 10. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be.
