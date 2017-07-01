@@ -20,6 +20,6 @@ c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan m
 
 (7) Az NFA elnökhelyettese helyettes államtitkári illetményre jogosult.
 
-(8) Az NFA feladatait központi szervezete és területi (megyei) szervezeti egységei útján látja el.
+(8)
 
 (9) Az NFA alapító okiratát, és a szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
