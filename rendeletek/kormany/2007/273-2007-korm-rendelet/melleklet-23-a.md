@@ -218,7 +218,7 @@
 
 ## 15.4. tercier oldali névleges feszültség (kV).
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^491]
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^504]
 
 Kérelem szociálisan rászoruló személyként a védendő fogyasztók nyilvántartásába
 
@@ -288,42 +288,4 @@ Székhelye:
 
 Igazolom, hogy
 
-(név):
-
-(születési név):
-
-(anyja neve):
-
-(születési helye és ideje):
-
-(lakóhelye):
-
-(tartózkodási helye):
-
-fogyasztó
-
-a)1 saját jogán
-
-b)1 vele egy háztartásban élő
-
-(név):
-
-(születési név):
-
-(anyja neve):
-
-(születési helye és ideje):
-
-(lakóhelye):
-
-(tartózkodási helye):
-
-személyre tekintettel
-
-a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 30. § (1) bekezdésében foglaltak alapján szociálisan rászoruló fogyasztónak minősül.
-
-A fogyasztó1 / a vele közös háztartásban élő személy1
-
-a)1 a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
-
-[^491]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^504]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
