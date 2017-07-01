@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2016-07-01 | 2016. évi LIII. törvény | 2013-139-00-00.22 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 2013-139-00-00.23 |
 | 2017-06-26 | 2017. évi LIII. törvény | 2013-139-00-00.24 |
+| 2017-07-01 | 2017. évi LXIX. törvény | 2013-139-00-00.25 |

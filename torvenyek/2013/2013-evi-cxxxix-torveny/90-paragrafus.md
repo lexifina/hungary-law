@@ -6,7 +6,7 @@ a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgált
 
 b) bennfentes kereskedelem vagy piacbefolyásolás gyanúja esetén,
 
-c) bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzése céljából,
+c) bennfentes személyre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 
 d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 

@@ -18,7 +18,7 @@ c) a peres eljárás illetékét rója le.
 
 a) az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti, valamint
 
-b) ha a kérelmező a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni.
+b) ha a fogyasztó a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni.
 
 (7) Ha a fogyasztó a felhívásban foglaltaknak nem tesz eleget, a bíróság a pert megszünteti.
 
