@@ -30,7 +30,7 @@
 
 | 14. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 15. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^14]
 
@@ -70,10 +70,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | Területrendezés | Budapest Főváros Kormányhivatala | területrendezésért felelős miniszter |
 
-| 17. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 17. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 18. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 18. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 19. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^14]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 27. § (1) bekezdés b) pontjával megállapított és (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^14]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 27. § (1) bekezdés b) pontjával megállapított és (3) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
