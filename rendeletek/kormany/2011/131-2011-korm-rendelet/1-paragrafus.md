@@ -1,6 +1,6 @@
 1. § (1) E rendelet alkalmazásában
 
-1.[^1] halasztási időszak: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 118. § (12) bekezdésében és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. melléklet 11. pontjában előírt halasztott módon történő kifizetés esetén a teljesítménymérési időszakot követő azon időszak, amelynek végén egy összegben vagy amely alatt időarányos részletekben fizetik ki vagy juttatják a javadalmazott személy részére a teljesítményjavadalmazásnak a javadalmazási politikában meghatározott részét;
+1.[^1] halasztási időszak: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 118. § (12) bekezdésében és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. melléklet 20. pontjában előírt halasztott módon történő kifizetés esetén a teljesítménymérési időszakot követő azon időszak, amelynek végén egy összegben vagy amely alatt időarányos részletekben fizetik ki vagy juttatják a javadalmazott személy részére a teljesítményjavadalmazásnak a javadalmazási politikában meghatározott részét;
 
 2. intézmény: hitelintézet, hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás és befektetési vállalkozás;
 
@@ -12,5 +12,5 @@
 
 (2) Az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező hitelintézet és befektetési vállalkozás magyarországi fióktelepe a hitelintézet és a befektetési vállalkozás székhelye szerinti állam javadalmazási politikára vonatkozó joga szerinti arányossági szabályokat alkalmazza.
 
-[^1]: Az 1. § (1) bekezdés 1. pontja az 537/2013. (XII. 30.) Korm. rendelet 57. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés 1. pontja az 537/2013. (XII. 30.) Korm. rendelet 57. § a) pontja, a 172/2017. (VI. 29.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 3. pontja az 537/2013. (XII. 30.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
