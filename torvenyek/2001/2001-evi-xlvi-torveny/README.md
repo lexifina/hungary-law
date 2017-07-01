@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-46-00-00
 | 2014-07-01 | 2013. évi LXXVI. törvény | 2001-46-00-00.13 |
 | 2016-04-19 | 2016. évi XXII. törvény | 2001-46-00-00.14 |
 | 2017-06-02 | 2017. évi XLV. törvény | 2001-46-00-00.15 |
+| 2017-07-01 | 2017. évi XCII. törvény | 2001-46-00-00.16 |
