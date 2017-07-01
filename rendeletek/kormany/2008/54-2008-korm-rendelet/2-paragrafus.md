@@ -18,7 +18,7 @@ b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermel�
 
 (4)[^6] A Bt. 1. § (7) bekezdésében meghatározott hatósági engedéllyel rendelkező személynek (a továbbiakban: engedélyes) a kitermelt ásványi nyersanyag mennyiségét geodéziai módszerekkel kell meghatároznia. A meghatározás módját és eredményét bizonylatolni kell.
 
-(5)[^7] Az engedélyes köteles az ásványi nyersanyag kitermelésének befejezését követő 60 napon belül, de legkésőbb a tárgyévet követő év február 28-ig az ásványi nyersanyag mennyiségéről szóló jelentést a Magyar Bányászati és Földtani Hivatalnak (a továbbiakban: MBFH) megküldeni. Az engedélyes köteles a fizetendő bányajáradék értékét meghatározni és a 8. § szerint befizetni.
+(5)[^7] Az engedélyes köteles az ásványi nyersanyag kitermelésének befejezését követő 60 napon belül, de legkésőbb a tárgyévet követő év február 28-ig az ásványi nyersanyag mennyiségéről szóló jelentést a Magyar Bányászati és Földtani Szolgálatnak (a továbbiakban: MBFSZ megküldeni. Az engedélyes köteles a fizetendő bányajáradék értékét meghatározni és a 8. § szerint befizetni.
 
 (5a)[^8] A bányafelügyelet a kitermelt ásványi nyersanyag mennyiség ellenőrzése céljából – a bányavállalkozó vagy az engedélyes költségére – geodéziai méréseket rendelhet el.
 
@@ -28,5 +28,5 @@ b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermel�
 [^4]: A 2. § (1b) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 49. § (1) bekezdése iktatta be.
 [^5]: A 2. § (3) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 53. § 1. pontja szerint módosított szöveg.
 [^6]: A 2. § (4) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 54. § (2) bekezdés 1. pontja szerint módosított szöveg.
-[^7]: A 2. § (5) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (5) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 49. § (2) bekezdésével megállapított, a 162/2017. (VI. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § (5a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 49. § (2) bekezdése iktatta be.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-54-20-2
 | 2013-04-01 | 2008-54-20-22.7 | 64/2013. (III. 4.) Korm. rendelet |
 | 2014-01-01 | 2008-54-20-22.8 | 559/2013. (XII. 31.) Korm. rendelet |
 | 2017-01-01 | 2008-54-20-22.9 | 251/2011. (XII. 1.) Korm. rendelet |
+| 2017-07-01 | 2008-54-20-22.10 | 559/2013. (XII. 31.) Korm. rendelet |
