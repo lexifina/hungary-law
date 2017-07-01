@@ -4,7 +4,7 @@
 
 a) legalább 0,5 hektár területű ültetvényen a földhasználati nyilvántartás részletes szabályairól szóló jogszabály szerinti földhasználati nyilvántartásba földhasználóként bejegyzett ügyfélként szőlő-, illetve gyümölcstermesztést folytat, beleértve azt a legalább 0,5 hektár területű ültetvényen szőlő-, illetve gyümölcstermesztést folytató ügyfelet is, akinek földhasználati joga önhibáján kívüli okból nem került a földhasználati nyilvántartásba bejegyzésre és a földhasználati jogosultságát igazoló egyéb okirattal rendelkezik;
 
-b)[^7] a gázolaj vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről saját nevére szóló számlával rendelkezik, és akinek a 341/2007. (XII. 15.) Korm. rendelet szerint keletkezett, a tárgyév egészére vonatkozóan benyújtott teljes adó-visszatérítési igényét a Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság) jóváhagyta;
+b)[^7] a gázolaj vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről saját nevére szóló számlával rendelkezik, és akinek a jövedéki törvény 117. §-a szerint keletkezett, a tárgyév egészére vonatkozóan benyújtott teljes adó-visszatérítési igényét a Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság) jóváhagyta;
 
 c) a támogatási kérelem vámhatóság részére történő benyújtásának időpontjában
 
@@ -14,5 +14,5 @@ cb) nem áll felszámolási, végelszámolási, adósságrendezési eljárás al
 
 cc)[^8]
 
-[^7]: A 3. § b) pontja a 36/2014. (IV. 4.) VM rendelet 64. §-ával megállapított, a 80/2016. (XII. 13.) FM rendelet 11. § b) pontja, a 33/2017. (VI. 9.) FM rendelet 19. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § b) pontja a 36/2014. (IV. 4.) VM rendelet 64. §-ával megállapított, a 80/2016. (XII. 13.) FM rendelet 11. § b) pontja, a 33/2017. (VI. 9.) FM rendelet 20. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § c) pont cc) alpontját a 36/2014. (IV. 4.) VM rendelet 71. §-a hatályon kívül helyezte.

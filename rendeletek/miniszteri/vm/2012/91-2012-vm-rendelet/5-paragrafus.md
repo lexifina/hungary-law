@@ -2,11 +2,13 @@
 
 5. § (1)[^12] A támogatási kérelem kizárólag a tárgyévet követő évben évente egyszer,
 
-a) a 341/2007. (XII. 15.) Korm. rendelet 5. § (1) bekezdés a) pontja szerinti éves adóbevallási nyomtatvány részeként vagy
+a) a jövedéki törvény 82. § (3) bekezdés a) pontja szerinti éves adóbevallási nyomtatvány részeként,
 
-b) a 341/2007. (XII. 15.) Korm. rendelet 5. § (1) bekezdés b) pontja szerinti negyedik negyedéves adóbevallási nyomtatvány részeként
+b) a jövedéki törvény 82. § (3) bekezdés b) pontja szerinti negyedik negyedéves adóbevallási nyomtatvány részeként vagy
 
-nyújtható be.
+c) a jövedéki törvény 82. § (3) bekezdés c) pontja szerinti tizenkettedik havi adóbevallási nyomtatvány részeként
+
+## nyújtható be.
 
 (2)[^13]
 
@@ -30,10 +32,10 @@ h)[^18] a tárgyévben és az azt megelőző két üzleti évben milyen összeg�
 
 (4)[^19] A mezőgazdasági termelő támogatásra akkor jogosult, ha megfelel a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
-[^12]: Az 5. § (1) bekezdése a 33/2017. (VI. 9.) FM rendelet 13. §-ával megállapított szöveg.
+[^12]: Az 5. § (1) bekezdése a 33/2017. (VI. 9.) FM rendelet 14. §-ával megállapított szöveg.
 [^13]: Az 5. § (2) bekezdését a 36/2014. (IV. 4.) VM rendelet 71. §-a hatályon kívül helyezte.
 [^14]: Az 5. § (3) bekezdés c) pontját az 54/2014. (IV. 29.) VM rendelet 10. §-a hatályon kívül helyezte.
-[^15]: Az 5. § (3) bekezdés e) pontja a 80/2016. (XII. 13.) FM rendelet 6. § (2) bekezdésével megállapított szöveg. [Nem vezethető át a 33/2017. (VI. 9.) FM rendelet 19. § c) pontjában foglalt módosítás, mely szerint az 5. § (3) bekezdés e) pontjában a „jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló NGM rendelet (a továbbiakban: jövedéki vhr.) 79. §” szövegrész helyébe a „341/2007. (XII. 15.) Korm. rendelet” szöveg lép.]
+[^15]: Az 5. § (3) bekezdés e) pontja a 80/2016. (XII. 13.) FM rendelet 6. § (2) bekezdésével megállapított szöveg. [Nem vezethető át a 33/2017. (VI. 9.) FM rendelet 19. § c) pontjában foglalt módosítás, mely szerint az 5. § (3) bekezdés e) pontjában a „jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló NGM rendelet (a továbbiakban: jövedéki vhr.) 79. §” szövegrész helyébe a „341/2007. (XII. 15.) Korm. rendelet” szöveg lép.] [Nem vezethető át a 33/2017. (VI. 9.) FM rendelet 20. § c) pontjában foglalt módosítás, mely szerint az 5. § (3) bekezdés e) pontjában a „341/2007. (XII. 15.) Korm. rendelet” szövegrész helyébe a „jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet (a továbbiakban: jövedéki vhr.) 79. §” szöveg lép.]
 [^16]: Az 5. § (3) bekezdés f) pontja a 80/2016. (XII. 13.) FM rendelet 11. § f) pontja szerint módosított szöveg.
 [^17]: Az 5. § (3) bekezdés g) pontját a 80/2016. (XII. 13.) FM rendelet 6. § (3) bekezdése iktatta be.
 [^18]: Az 5. § (3) bekezdés h) pontját a 80/2016. (XII. 13.) FM rendelet 6. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 11. §[^38]
+## kell alkalmazni.
 
 1. melléklet a 91/2012. (VIII. 29.) VM rendelethez
 
@@ -22,6 +22,5 @@ e) a támogatás alapját képző gázolaj mennyisége literben.
 
 4. Keltezés és a kérelmező aláírása.
 
-[^38]: A 11. §-t a 80/2016. (XII. 13.) FM rendelet 9. §-a iktatta be, a 33/2017. (VI. 9.) FM rendelet 21. §-a hatályon kívül helyezte.
 [^39]: Az 1. melléklet címe a 80/2016. (XII. 13.) FM rendelet 11. § m) pontja szerint módosított szöveg.
 [^40]: Az 1. melléklet 1. pontja a 36/2014. (IV. 4.) VM rendelet 70. § d) pontja szerint módosított szöveg.

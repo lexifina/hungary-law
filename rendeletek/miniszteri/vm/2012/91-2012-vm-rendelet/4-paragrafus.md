@@ -2,12 +2,12 @@
 
 4. § (1)[^9] A támogatás összege a szőlő- és a gyümölcsös ültetvényterületen a tárgyévben ténylegesen felhasznált, a (2) bekezdés szerinti gázolaj mennyisége után literenként egyszázöt forint.
 
-(2)[^10] A támogatás összegének megállapításánál kizárólag a 341/2007. (XII. 15.) Korm. rendelet 2. § (2) bekezdésében meghatározott kilencvenhét liter/hektár/év mennyiségen felüli, számlával igazolt gázolaj mennyisége, de hektáronként évente legfeljebb száz liter vehető figyelembe.
+(2)[^10] A támogatás összegének megállapításánál kizárólag a jövedéki törvény 117. § (1) bekezdésében meghatározott kilencvenhét liter/hektár/év mennyiségen felüli, számlával igazolt gázolaj mennyisége, de hektáronként évente legfeljebb száz liter vehető figyelembe.
 
 (3)[^11] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
 (4) A támogatási összeg euróra történő átszámításakor a támogatási kérelem vámhatósághoz történő benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott EUR/HUF deviza középárfolyamot kell alkalmazni.
 
 [^9]: A 4. § (1) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § c) pontja szerint módosított szöveg.
-[^10]: A 4. § (2) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § d) pontja, a 33/2017. (VI. 9.) FM rendelet 19. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdése a 80/2016. (XII. 13.) FM rendelet 11. § d) pontja, a 33/2017. (VI. 9.) FM rendelet 20. § b) pontja szerint módosított szöveg.
 [^11]: A 4. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 16. §-ával megállapított szöveg.
