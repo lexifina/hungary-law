@@ -4,7 +4,7 @@ a) a 38. § (3) bekezdés a) pontja szerinti tájékoztatók tekintetében az ad
 
 b) a 38. § (3) bekezdés b) pontja szerinti tájékoztatók tekintetében az állami adóhatóság,
 
-c) a 38. § (3) bekezdés c) pontja szerinti tájékoztatók tekintetében a helyi önkormányzatokért felelős miniszter,
+c)[^1] a 38. § (3) bekezdés c) pontja szerinti tájékoztatók tekintetében a szabályozásért felelős szakminiszter,
 
 d) a 38. § (3) bekezdés d) pontja szerinti tájékoztatók tekintetében – az Országos Bírósági Hivatal elnökének és a legfőbb ügyész véleményének kikérésével – az igazságügyért felelős miniszter,
 
@@ -21,3 +21,5 @@ e) a 38. § (3) bekezdés e) pontja szerinti tájékoztatók tekintetében az eg
 (6) Tartalmi hiba észlelése esetén a közigazgatás szervezéséért felelős miniszter az (1) bekezdés szerinti felelőshöz fordul, aki köteles a tartalmi hiba kijavításáról a megkeresés kézhezvételét követő 3 munkanapon belül gondoskodni. Tartalmi hiba kijavítására csak a szakminiszter egyetértésével kerülhet sor.
 
 (7) Ha tartalmi hiba kijavításának módjáról vagy annak szükségességéről vita van a közigazgatás szervezéséért felelős miniszter és az (1) bekezdés szerinti felelős szakminiszter között, a felek kötelesek a vitát egyeztetés keretében megkísérelni rendezni.
+
+[^1]: A 39. § (1) bekezdés c) pontja a 171/2017. (VI. 29.) Korm. rendelet 29. §-a szerint módosított szöveg.
