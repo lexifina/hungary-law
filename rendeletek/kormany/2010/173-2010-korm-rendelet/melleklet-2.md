@@ -18,7 +18,7 @@
 
 | 8. | bányaszolgalom alapítására irányuló engedélyezési eljárás | illetékes fővárosi és megyei kormányhivatal | nincs |
 
-| 9. | gázvezeték és tartozékai építési engedélyeztetése | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | gázvezeték és tartozékai építési engedélyeztetése | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 10. | Városföld kompresszorállomás épületre vonatkozó építésügyi hatósági engedély | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala | Bács-Kiskun Megyei Kormányhivatal |
 
@@ -36,7 +36,7 @@
 
 | 17. | bányaszolgalom alapítására irányuló engedélyezési eljárás | illetékes fővárosi és megyei kormányhivatal | nincs |
 
-| 18. | gázvezeték és tartozékai építési engedélyeztetése | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 18. | gázvezeték és tartozékai építési engedélyeztetése | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 19. | Báta kompresszorállomás vonatkozásában beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -58,7 +58,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 3. | Helyi természetvédelem, helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | illetékes fővárosi és megyei kormányhivatal |
 
-| 4. | Bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 4. | Bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 5. | Területrendezési előírásokkal való összhang | illetékes fővárosi és megyei kormányhivatal | területrendezésért felelős miniszter |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | Műszaki biztonság | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 15. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 15. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
