@@ -4,6 +4,6 @@
 
 (3) A mezőgazdasági őstermelő a Nyilvántartásba általa bejegyeztetett tevékenységet egyéni vállalkozóként nem végezheti. Amennyiben a mezőgazdasági őstermelő egyéni vállalkozói tevékenységet is folytat, akkor ugyanolyan terméket – egy időben, ugyanazon a helyszínen – kizárólag mezőgazdasági őstermelőként vagy kizárólag egyéni vállalkozóként értékesíthet.
 
-(4)[^11] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, valamint a NÉBIH (a továbbiakban együtt: ellenőrző hatóság) annak a mezőgazdasági őstermelőnek, aki egyben egyéni vállalkozó is, az őstermelői tevékenységét az egyéni vállalkozókról szóló nyilvántartásban szereplő adatai összevetésével is ellenőrizheti.
+(4)[^11] A fővárosi és megyei kormányhivatal járási hivatala, Budapest Főváros Kormányhivatalának V. Kerületi Hivatala, valamint a NÉBIH (a továbbiakban együtt: ellenőrző hatóság) annak a mezőgazdasági őstermelőnek, aki egyben egyéni vállalkozó is, az őstermelői tevékenységét az egyéni vállalkozókról szóló nyilvántartásban szereplő adatai összevetésével is ellenőrizheti. Budapest Főváros Kormányhivatala V. Kerületi Hivatalának illetékessége Budapest főváros területére terjed ki.
 
-[^11]: A 12. § (4) bekezdése a 420/2016. (XII. 14.) Korm. rendelet 2. § (3) bekezdés a) pontja, a 20/2017. (II. 2.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^11]: A 12. § (4) bekezdése a 171/2017. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
