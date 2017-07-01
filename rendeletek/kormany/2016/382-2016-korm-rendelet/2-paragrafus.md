@@ -102,7 +102,11 @@ e) a (6) bekezdés szerinti ügyekben első fokon Budapest Főváros Kormányhiv
 
 27. a tíz percet meghaladó ideig zárva tartható, az időszakosan üzemelő teljes sorompóval biztosított, valamint a felhívásos sorompóval biztosított vasúti átjárók meghatározása,
 
-28. az engedélyezési hatáskörébe tartozó utak tekintetében elektronikus közúti ellenőrző rendszer, illetve ellenőrző berendezés elhelyezéséhez szükséges hozzájárulás kiadása
+28. az engedélyezési hatáskörébe tartozó utak tekintetében elektronikus közúti ellenőrző rendszer, illetve ellenőrző berendezés elhelyezéséhez szükséges hozzájárulás kiadása,
+
+29.[^2] a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
+
+30.[^3] a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése
 
 ## során.
 
@@ -110,22 +114,23 @@ e) a (6) bekezdés szerinti ügyekben első fokon Budapest Főváros Kormányhiv
 
 1. az elhelyezési tilalom alá eső jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolításával kapcsolatos ügyek,
 
-2. a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
-
-3. a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése,
+2–3.[^4]
 
 4. a közlekedés biztonsága, az út állagának védelme érdekében az út melletti ingatlan tulajdonosának kötelezése
 
 ## során.
 
-(5)[^2] Útügyi közlekedési hatóságként első fokon a megyei kormányhivatal járási hivatala, másodfokon a megyei kormányhivatal jár el a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) során.
+(5)[^5] Útügyi közlekedési hatóságként első fokon a megyei kormányhivatal járási hivatala, másodfokon a megyei kormányhivatal jár el a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) során.
 
 (6) Útügyi közlekedési hatóságként Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el:
 
 1. a fővárosi kerületi önkormányzatok tulajdonában lévő közutak és azok műtárgyai építésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése és
 
-2.[^3] a fővárosban a járdák, a gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
+2.[^6] a fővárosban a járdák, a gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
 
 [^1]: A 2. § (3) bekezdés 1. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (5) bekezdése a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
-[^3]: A 2. § (6) bekezdés 2. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (3) bekezdés 29. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
+[^3]: A 2. § (3) bekezdés 30. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
+[^4]: A 2. § (4) bekezdés 2–3. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^5]: A 2. § (5) bekezdése a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (6) bekezdés 2. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.

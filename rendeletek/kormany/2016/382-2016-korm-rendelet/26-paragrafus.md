@@ -1,3 +1,5 @@
+## 25/A. §[^21] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^22] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+
 26. § (1) Ez a rendelet a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a rendelet
@@ -115,3 +117,6 @@ i) a 2006. évi tengerészeti munkaügyi egyezménynek való megfelelés és ann
 j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközökről, valamint a 94/25/EK irányelv hatályon kívül helyezéséről szóló, 2013. november 20-i 2013/53/EU európai parlamenti és tanácsi irányelvnek,
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
+
+[^21]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
+[^22]: A hatálybalépés időpontja 2017. július 1.
