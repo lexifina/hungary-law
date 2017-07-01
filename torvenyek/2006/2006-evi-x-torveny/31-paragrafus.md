@@ -1,0 +1,1 @@
+31. § A nyugdíjas szövetkezet tagja alapításkor vagy belépéskor vagyoni hozzájárulást köteles vállalni. A vagyoni hozzájárulás teljesítésének módjára, idejére és mértékére vonatkozó rendelkezéseket az alapszabály tartalmazza.

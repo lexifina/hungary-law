@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-10-00-00
 | 2016-04-22 | 2016. évi XXVII. törvény | 2006-10-00-00.17 |
 | 2016-09-01 | 2016. évi XLIX. törvény | 2006-10-00-00.18 |
 | 2017-01-01 | 2016. évi CXLV. törvény | 2006-10-00-00.19 |
+| 2017-07-01 | 2017. évi LXXXIX. törvény | 2006-10-00-00.20 |

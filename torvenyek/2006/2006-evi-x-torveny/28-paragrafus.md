@@ -1,1 +1,1 @@
-28. §
+28. § A nyugdíjas szövetkezet tagja a személyes közreműködés konkrét tartalmára, módjára és ellentételezésére tagsági megállapodást köt a nyugdíjas szövetkezettel. A nyugdíjas szövetkezet tagját megillető ellentételezés arányos kell, hogy legyen a természetes személy tag személyes közreműködésének mértékével.

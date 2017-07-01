@@ -4,6 +4,6 @@
 
 (3) Az iskolaszövetkezetnek természetes személy és jogi személy tagja lehet.
 
-(4) Az iskolaszövetkezet tagjainak legalább nyolcvanöt százaléka olyan természetes személy, aki nevelési-oktatási intézménnyel tanulói vagy felsőoktatási intézménnyel hallgatói jogviszonyban áll.
+(4) Az iskolaszövetkezet tagjainak legalább kilencven százaléka olyan természetes személy, aki nevelési-oktatási intézménnyel tanulói vagy felsőoktatási intézménnyel hallgatói jogviszonyban áll.
 
 (5) Az iskolaszövetkezetnek nem lehet személyes közreműködést nem vállaló természetes személy tagja.

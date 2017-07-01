@@ -1,1 +1,1 @@
-30–34. §
+30. § A szolgáltatás fogadója együttműködik a nyugdíjas szövetkezettel, így különösen biztosítja a nyugdíjas szövetkezet képviselőjének a feladatteljesítés helyére történő belépést, tájékoztatja a nyugdíjas szövetkezetet a feladatteljesítéssel kapcsolatos lényeges körülményekről.
