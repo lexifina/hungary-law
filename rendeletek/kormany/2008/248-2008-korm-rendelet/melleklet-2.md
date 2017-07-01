@@ -24,7 +24,7 @@
 
 | 11. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 12. | bányahatósági engedélyek | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 12. | bányahatósági engedélyek | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 13. | talajvédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala | Somogy Megyei Kormányhivatal |
 
@@ -54,9 +54,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | közlekedés: vízi közlekedés | Budapest Főváros Kormányhivatala | közlekedésért felelős miniszter |
 
-| 9. | földtan | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | földtan | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 10. | bányászat | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányászat | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | rendészet (rendőrség) gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -82,4 +82,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | élelmiszer-biztonság | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
-[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^9]: A 2. számú melléklet a 380/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
