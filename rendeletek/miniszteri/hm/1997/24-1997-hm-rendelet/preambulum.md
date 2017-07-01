@@ -1,1 +1,0 @@
-A környezetvédelmi megbízott alkalmazásának feltételéhez kötött környezethasználatok meghatározásáról szóló 93/1996. (VII. 4.) Korm. rendelet (a továbbiakban: R.) 3. §-ában kapott felhatalmazás alapján a következőket rendelem el:
