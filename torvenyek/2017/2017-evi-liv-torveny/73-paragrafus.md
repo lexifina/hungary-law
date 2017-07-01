@@ -7,11 +7,3 @@
 (3) Az 49. § (1) bekezdése 2017. szeptember 1-jén lép hatályba.
 
 (4) A 57. § (1) bekezdése 2018. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
