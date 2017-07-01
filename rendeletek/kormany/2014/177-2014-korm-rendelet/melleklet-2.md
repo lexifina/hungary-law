@@ -28,9 +28,9 @@
 
 | 13. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 15. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 16. | talajvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
@@ -70,11 +70,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 10. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | földvédelem | Gyöngyösi Járási Hivatal | Heves Megyei Kormányhivatal |
 
-| 12. | bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 12. | bányászat | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 13. | rendészet | Heves Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -92,4 +92,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 77. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 77. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 77. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 77. § (2) bekezdés b) pontja, a 162/2017. (VI. 28.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
