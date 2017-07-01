@@ -4,4 +4,6 @@
 
 2. munkadíj: az Országos Betétbiztosítási Alap (a továbbiakban: OBA) Szanálási Alap részére feladatot ellátó alkalmazottjai, valamint a szanálási feladatkörében eljáró MNB szanálási tevékenységgel foglalkozó alkalmazottjai havi átlagkeresetének munkaórákra számított összege felszorozva a költséget részletező számlában szereplő egyes szanálási tevékenységre fordított rendes munkaidőn túli rendkívüli munkaórák számával;
 
-3. tranzakciós költség: egyes eszközök, üzletágak, jogok, kötelezettségek, tagsági részesedések értékesítése, valamint források és kötelezettségek átalakítása során vagy az áthidaló intézmény vagy a vagyonkezelő intézmény működtetésével kapcsolatosan a szanálási feladatkörében eljáró MNB által igénybe vett különböző szolgáltatások, így különösen jogi szakértő, könyvviteli szolgáltatást végző, könyvvizsgáló, egyéb szakértő igénybevételének díjai.
+3.[^1] tranzakciós költség: egyes eszközök, üzletágak, jogok, kötelezettségek, tagsági részesedések értékesítése, valamint források és kötelezettségek átalakítása során az áthidaló intézmény vagy a vagyonkezelő intézmény működtetésével kapcsolatosan a szanálási feladatkörében eljáró MNB és – a vagyonának felhasználása során – a Szanálási Alap által igénybe vett különböző szolgáltatások, így különösen jogi szakértő, könyvviteli szolgáltatást végző, könyvvizsgáló, egyéb szakértő igénybevételének díjai.
+
+[^1]: Az 1. § (3) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

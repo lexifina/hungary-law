@@ -4,10 +4,12 @@ a) a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló in
 
 b) a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény vagy szanálási vagyonkezelő részére történő hitelnyújtás során felmerülő tranzakciós költség;
 
-c) a szanálás alatt álló intézmény eszközei megvásárlásának tranzakciós költsége;
+c)[^3] a szanálás alatt álló intézmény eszközei megvásárlásának, tagsági részesedések értékesítésének tranzakciós költsége;
 
 d) az áthidaló intézménynek vagy szanálási vagyonkezelőnek nyújtott tőkehozzájárulás tranzakciós költsége;
 
 e) az OBA Szantv. 143. § (5) bekezdése szerint fizetendő kártalanítás során felmerülő tranzakciós költsége; valamint
 
 f) az a)–e) pontban említett intézkedések munkadíja.
+
+[^3]: A 3. § c) pontja a 172/2017. (VI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.

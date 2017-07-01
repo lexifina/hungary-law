@@ -16,6 +16,6 @@ g) az átvevő intézmény által átveendő létesítmény ideiglenes biztosít
 
 h) a hitelbiztosítékok érvényesítésének korlátozása során felmerülő tranzakciós költségek;
 
-i)[^1] a szanálási eszközök és szanálási jogosultságok alkalmazásához kapcsolódóan felmerült egyéb indokolt és igazolt költség.
+i)[^2] a szanálási eszközök és szanálási jogosultságok alkalmazásához kapcsolódóan felmerült egyéb indokolt és igazolt költség.
 
-[^1]: A 2. § i) pontját a 468/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^2]: A 2. § i) pontját a 468/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
