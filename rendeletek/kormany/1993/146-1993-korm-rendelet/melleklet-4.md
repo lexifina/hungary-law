@@ -36,6 +36,8 @@
 
 ## 2.2.4. megújítása.
 
+## 2.2.5. lakóhely megváltoztatása és tartózkodási hely újabb tartózkodási hely létesítése nélküli megszüntetése.
+
 ## 3. A szállásadó neve, aláírása, szállásadói minősége, lakcíme, az Nytv. 27/A. § (1) bekezdés b) pontjában és (3) bekezdésében foglalt kivétellel.
 
 ## 4. A bejelentés dátuma.
@@ -44,8 +46,8 @@
 
 ## 6. A feldolgozáshoz szükséges technikai jellegű adatok.
 
-4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^261]
+4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^262]
 
 Kérelem a törvényes képviselő adatainak feltüntetése iránt
 
-[^261]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^262]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.
