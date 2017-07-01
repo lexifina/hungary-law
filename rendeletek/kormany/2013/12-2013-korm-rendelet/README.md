@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-12-20-2
 | 2016-09-01 | 2013-12-20-22.7 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-09-09 | 2013-12-20-22.8 | 271/2016. (IX. 1.) Korm. rendelet |
 | 2017-01-01 | 2013-12-20-22.9 | 380/2016. (XII. 2.) Korm. rendelet |
+| 2017-07-01 | 2013-12-20-22.10 | 380/2016. (XII. 2.) Korm. rendelet |

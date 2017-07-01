@@ -64,8 +64,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | területrendezés | illetékes megyei kormányhivatal | területrendezésért felelős miniszter |
 
-| 16. | földtan és bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 16. | földtan és bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 17. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^10]: A 3. melléklet a 380/2016. (XII. 2.) Korm. rendelet 37. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 3. melléklet a 380/2016. (XII. 2.) Korm. rendelet 37. § b) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 50. §-a szerint módosított szöveg.
