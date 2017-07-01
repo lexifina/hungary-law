@@ -160,7 +160,7 @@ b) külföldi köznevelési intézmény esetében olyan munkanapokon végzett is
 
 R. 7/C. §[^65]
 
-R. 8. §[^66] (1)[^67] A nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem [Tbj. 34. §-ának (1), (5) és (8) bek.] szerzésére irányuló megállapodás megkötésére a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes általános hatáskörű nyugdíj-megállapító szerv, a Magyarországon lakóhellyel nem rendelkező, külföldön élő személy esetében [Tbj. 34. §-ának (5) bek.] a Budapest Főváros Kormányhivatala nyugdíjbiztosítási igazgatási szervként eljáró VIII. Kerületi Hivatala illetékes.
+R. 8. §[^66] (1)[^67] A nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem [Tbj. 34. §-ának (1), (5) és (8) bek.] szerzésére irányuló megállapodás megkötésére a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és megyei kormányhivatal, a Magyarországon lakóhellyel nem rendelkező, külföldön élő személy esetében [Tbj. 34. §-ának (5) bek.] a nyugdíjbiztosítási igazgatási szervként eljáró Budapest Főváros Kormányhivatala illetékes.
 
 (2)[^68] A Tbj. 34. §-a (5) bekezdésének b) pontja szerinti megállapodás megkötésére a megállapodást kötő személyre – ha a megállapodást más javára kötik, a kedvezményezettre – irányadó öregségi nyugdíjkorhatár – figyelemmel a korkedvezményre is – betöltése után kerülhet sor.
 
@@ -508,6 +508,8 @@ b) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. ápril
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
+R. 32. §[^173] A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+
 [^1]: Az R. 1. §-át a 328/2004. (XII. 11.) Korm. rendelet 8. §-ának b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^2]: Az R. 1. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 333/2008. (XII. 30.) Korm. rendelet 1. §-a, nyitó szövegrésze a 266/2011. (XII. 13.) Korm. rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés b) pontja a 378/2012. (XII. 19.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
@@ -574,7 +576,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^64]: Az R. 7/B. §-át a 466/2016. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
 [^65]: Az R. 7/C. §-át a 68/1998. (III. 31.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 354/2011. (XII. 30.) Korm. rendelet 3. § d) pontja.
 [^66]: Az R. 8. §-a a 202/1999. (XII.26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^67]: Az R. 8. §-ának (1) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított, a 334/2010. (XII. 27.) Korm. rendelet 10. § e) pontja, a 266/2011. (XII. 13.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 26. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^67]: Az R. 8. §-ának (1) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított, a 334/2010. (XII. 27.) Korm. rendelet 10. § e) pontja, a 266/2011. (XII. 13.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 26. § (2) bekezdés f) pontja, a 171/2017. (VI. 29.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^68]: Az R. 8. §-ának (2) bekezdését a 208/2000. (XII. 11.) Korm. rendelet 3. §-ának (2) bekezdése iktatta be, mely az eredeti (2) bekezdés számozását (3) bekezdésre változtatta; szövege a 259/2001. (XII. 19.) Korm. rendelet 10. §-a (1) bekezdésének a) pontja szerint kiegészített szöveg.
 [^69]: Az R. 8. §-ának (3) — eredetileg (2) — bekezdése a 262/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított, a 334/2010. (XII. 27.) Korm. rendelet 10. § f) pontja, a 70/2015. (III. 30.) Korm. rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^70]: Az R. 8. § (4) bekezdését a 331/2009. (XII. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 466/2016. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
@@ -680,3 +682,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^170]: Az R. 30/D. §-t a 466/2016. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
 [^171]: Az R. 30/E. §-t a 466/2016. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
 [^172]: Az R. 31. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
+[^173]: Az R. 32. §-át a 171/2017. (VI. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
