@@ -1,0 +1,3 @@
+58. § (1) A Jöt. 112. § (1) bekezdés a) pontja szerinti adófizetési kötelezettség alóli mentesülés érvényesítéséhez – az 57. § (1) és (2) bekezdése szerintitől eltérő adóraktár engedélyese vagy az 57. § (1) és (2) bekezdése szerinti adóraktár engedélyese repülőgép-üzemanyagnak az ott meghatározottól eltérő légijárműbe történő kiszolgálása esetén – a 10. melléklet szerinti adatokat tartalmazó bizonylatot állítja ki.
+
+(2) Az (1) bekezdés szerinti adóraktár engedélyese a légijárműből lefejtett és az adófelfüggesztési eljárás alatt álló készletébe átvett repülőgép-üzemanyagról a 10. melléklet szerinti adatokat tartalmazó bizonylatot állítja ki.

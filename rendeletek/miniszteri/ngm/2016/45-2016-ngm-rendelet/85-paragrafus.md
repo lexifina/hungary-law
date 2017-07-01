@@ -1,5 +1,9 @@
-## 81–84. §
+## 39. Gyorsított eljárás lefolytatása
 
-## 39.[^39]
+85. § (1) A jövedéki bírság a Jöt. 100. § (4) bekezdése szerinti gyorsított eljárásban történő kiszabása feltételeinek megléte esetén, ha az ellenőrzést végző a gyorsított eljárás lefolytatása mellett dönt, ezt közli a jogsértő természetes személlyel, egyúttal tájékoztatja a gyorsított eljárás lefolytatásának törvényi feltételeiről és a jogkövetkezményekről.
 
-[^39]: A 39. alcím (85. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+(2) A jogsértő személy a gyorsított eljárás lefolytatása és annak jogkövetkezményei tudomásul vételét külön nyilatkozat aláírásával ismeri el.
+
+(3) A jogsértő személy beleegyező nyilatkozata esetén az ellenőrzést végző a felvett jegyzőkönyv alapján a helyszínen határozatot hoz.
+
+(4) A határozat eredeti példányát és a kiszabott bírság megfizetésének tényét igazoló nyugtát a jogsértő személy részére igazoltan át kell adni. Az átadott nyugta tartalmazza a határozatot hozó szerv megnevezését, a jövedéki bírság kiszabásáról rendelkező határozat számát, a jogsértő személy nevét és adóazonosító számát, annak hiányában a személyazonosító igazolvány (útlevél) számát, az államháztartási számla számlaszámát és a kiszabott jövedéki bírság összegét.

@@ -1,0 +1,1 @@
+## 11. § A nyilvántartó program adatbázisának helyreállítása az állami adó- és vámhatósághoz megtett bejelentést követően végezhető el. A bejelentésnek tartalmaznia kell az adatbázis helyreállításának okát, pontos helyét és idejét.

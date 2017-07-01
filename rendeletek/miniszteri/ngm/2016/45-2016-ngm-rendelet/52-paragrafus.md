@@ -1,5 +1,11 @@
-## 51. §
+## 19. Megsemmisítés
 
-## 19.[^19]
+52. § (1) Jövedéki termék és jövedéki ügyben megsemmisítendő más dolog megsemmisítését olyan módon kell elvégezni, hogy a megsemmisítést követően a jövedéki terméket, más dolgot ne lehessen azonos célra felhasználhatóan visszanyerni.
 
-[^19]: A 19. alcím (52. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+(2) A megsemmisítésről az állami adó- és vámhatóság által készített jegyzőkönyv tartalmazza
+
+a) a megsemmisítés helyét, idejét, módját és körülményeit, és
+
+b) a megsemmisített jövedéki termék megnevezését, mennyiségét, származásának igazolását.
+
+(3) A megsemmisítési jegyzőkönyv a gazdálkodói nyilvántartás mellékletét képezi.

@@ -1,5 +1,5 @@
-## 68. §
+## 30. Adózott jövedéki termék felhasználása olyan tevékenységhez, amelyre adófizetési kötelezettség alóli mentesülés érvényesíthető
 
-## 30.[^30]
+69. § (1) A Jöt. 12. § g) pontja szerinti adó-visszaigénylési jogosultság a jövedéki termék adófizetési kötelezettség alóli mentesülést eredményező célra történő felhasználást igazoló, a számviteli törvény számviteli bizonylatra vonatkozó rendelkezései szerint kiállított okmány birtokában érvényesíthető.
 
-[^30]: A 30. alcím (69. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+(2) Az adóraktár engedélyese kivételével az adó-visszaigénylési jog érvényesíthetőségének feltétele a földgázon, a villamos energián és a szénen kívüli jövedéki termékek esetében, hogy a vásárlási szándékot a jövedéki termék beszerzése előtt legalább 5 nappal korábban az állami adó- és vámhatósághoz bejelentsék. A bejelentésnek a beszerzendő jövedéki termék mennyiségén kívül a pontos felhasználási célt, a felhasználási arányszámot vagy a 2. § (3) bekezdés d) pontja szerinti adatokat, a felhasználás telephelyét, az elszámoláshoz szükséges, a mérésügyi törvényben meghatározott hitelesítéseket, a vezetendő nyilvántartást, valamint a szükséges engedélyeket is tartalmaznia kell. Arra a termékre vonatkozóan, amelyre adó-visszaigénylést érvényesítenek, olyan nyilvántartást kell vezetni, amely tartalmazza a termék beszerzésének (időpont, szállító, mennyiség) és felhasználásának (időpont, a felhasználás jogcíme, mennyiségi adatai) részletezését. A nyilvántartás adatait havonta le kell zárni, meg kell állapítani a tárgyhavi készletváltozásokat és az adófizetési kötelezettség alól mentesült termék zárókészletének mennyiségét.

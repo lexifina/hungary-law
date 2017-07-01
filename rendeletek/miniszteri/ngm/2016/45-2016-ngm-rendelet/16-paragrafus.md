@@ -1,5 +1,19 @@
-## 14–15. §
+## 6. Adóraktár működése
 
-## 6.[^6]
+## 16. § Az adóraktárban adófelfüggesztési eljárás alatt álló és adózott jövedéki termék felhasználása, elfogyasztása esetén a számvitelről szóló törvény szerinti számviteli bizonylatot kell kiállítani, amely tartalmazza
 
-[^6]: A 6. alcím (16–20. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+a) a felhasznált, elfogyasztott jövedéki termék
+
+aa) megnevezését,
+
+ab) KN-kódját,
+
+ac) mennyiségét (a jövedéki adó alapjául szolgáló mértékegységben, a gyártási hulladék kivételével),
+
+b) a felhasználás, elfogyasztás
+
+ba) célját,
+
+bb) jogcímét,
+
+bc) időpontját.

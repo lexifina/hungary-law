@@ -1,5 +1,19 @@
-## 9–13. §
+## 5. Készletbevallás, készletfelvétel
 
-## 5.[^5]
+14. § (1) Az engedélyes a Jöt. 17. § (3) bekezdése szerinti, az állami adó- és vámhatóság jelenlétében végzett készletfelvételhez, valamint az üzemanyag forgalmazását végző jövedéki kiskereskedő a Jöt. 72. § (3) bekezdése szerinti kötelezettségének állami adó- és vámhatóság általi ellenőrzése során készletbevallást készít és azt a készletfelvétel megkezdésekor átadja az állami adó- és vámhatóságnak.
 
-[^5]: Az 5. alcím (14–15. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+(2) Az engedélyes a készletbevallásban a telephelyen tárolt minden adózott, adófelfüggesztési eljárás alatt álló és adófizetési kötelezettség alól mentesült jövedéki terméket tárolóegységenként részletezve feltünteti.
+
+(3) A készletbevallás tartalmazza
+
+a) a tárolóhely megnevezését;
+
+b) a tárolóegységek (tárolótartály, hordó, palack, gyűjtőcsomag, bála, karton stb.) tételszámát, megnevezését és számjelét;
+
+c)[^9] a tárolóegységekben lévő jövedéki termék megnevezését, – az üzemanyagtöltő állomás kivételével – KN-kódját, mennyiségét (az adó alapjául szolgáló mértékegységben, üzemanyagtöltő állomás esetén az értékesítésnél alkalmazott mértékegységben);
+
+d) a készletbevallás elkészítésének időpontját;
+
+e) a nyilatkozatot arról, hogy a telephelyen a készletbevallásban feltüntetett helyeken kívül nem tárolnak máshol jövedéki terméket.
+
+[^9]: A 14. § (3) bekezdés c) pontja az 5/2017. (III. 30.) NGM rendelet 7. §-ával megállapított szöveg.

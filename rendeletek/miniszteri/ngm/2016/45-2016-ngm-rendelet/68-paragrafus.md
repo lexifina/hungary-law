@@ -1,5 +1,7 @@
-## 67. §
+## 29. Szabadforgalomba bocsátott jövedéki termék másik tagállamba történő szállítása
 
-## 29.[^29]
+68. §[^34] (1) A Jöt. 12. § d) és e) pontja szerinti adó-visszaigénylési jogosultság érvényesítéséhez benyújtott, a címzett tagállam hatóságának igazolása valóságtartalmának ellenőrzése érdekében az állami adó- és vámhatóság – a jövedéki adók területén való közigazgatási együttműködésről és a 2073/2004/EK rendelet hatályon kívül helyezéséről szóló 2012. május 2-i 389/2012/EU tanácsi rendelet szerint eljárva – megkereséssel élhet a címzett tagállam illetékes hatósága felé.
 
-[^29]: A 29. alcím (68. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+(2) A Jöt. 12. § d) és e) pontja szerinti adó-visszaigénylési jogosultság érvényesítéséhez a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyvvel is rendelkezni kell.
+
+[^34]: A 68. § az 5/2017. (III. 30.) NGM rendelet 22. §-ával megállapított szöveg.

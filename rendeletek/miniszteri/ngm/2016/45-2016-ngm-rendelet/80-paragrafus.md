@@ -1,5 +1,17 @@
-## 79. §
+## 37. A magánfőzőtől és a bérfőzetőtől megvásárolt párlat utáni adó-visszaigénylés
 
-## 37.[^37]
+80. § (1) Az adóraktár engedélyese a magánfőzőtől megvásárolt párlat utáni adó-visszaigénylést – a 63. § rendelkezésétől eltérően – az alábbi okmányok birtokában érvényesítheti:
 
-[^37]: A 37. alcím (80. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+a) a párlat magánfőzőtől történt felvásárlásáról kiállított adásvételi szerződés,
+
+b) a párlatról kiállított párlat adójegy és
+
+c) az adózott párlat felhasználását igazoló, 16. § szerinti okmány.
+
+(2) Az adóraktár engedélyese adózott párlat bérfőzetőtől történt felvásárlása esetén megvásárolt párlat utáni adó-visszaigénylést – a 63. § rendelkezésétől eltérően – az alábbi okmányok birtokában érvényesítheti:
+
+a) a párlat bérfőzetőtől történt felvásárlásáról kiállított adásvételi szerződés,
+
+b) a párlat származási igazolása és
+
+c) az adózott párlat felhasználását igazoló, 16. § szerinti okmány.

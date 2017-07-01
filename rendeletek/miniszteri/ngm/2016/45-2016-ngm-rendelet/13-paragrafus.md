@@ -1,0 +1,1 @@
+## 12. § A 13. §, a Jöt. 136. § (1) bekezdése és 137. § (2) bekezdése szerinti kivétellel a papíralapú nyilvántartást az állami adó- és vámhatóság a nyilvántartás benyújtását követő 3 munkanapon belül hitelesíti.

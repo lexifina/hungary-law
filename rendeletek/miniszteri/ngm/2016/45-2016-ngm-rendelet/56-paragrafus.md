@@ -1,0 +1,5 @@
+56. § (1) A Jöt. 9. § (1) bekezdés b) pontja szerinti tevékenységet végző adóraktár raktára és a légijárművek ellátását végző gépjármű együttese egy technológiai egységként kezelendő.
+
+(2) Az (1) bekezdés szerinti tevékenységet végző adóraktár engedélyese által átadott jövedéki termékről kiállított bizonylat tartalmazza az átadás időpontját és az átadott jövedéki termék kereskedelmi megnevezését, kiszerelését, sör, csendes és habzóbor, egyéb csendes és habzó erjesztett ital, köztes alkoholtermék és alkoholtermék esetén tényleges alkoholtartalmát, darabszámát.
+
+(3) Az (1) bekezdés szerinti tevékenységet végző adóraktár engedélyese az általa a (2) bekezdés szerint átadott jövedéki termékről, valamint a légijármű fedélzetéről utántöltési céllal ideiglenesen levett, tárolt és a légijármű fedélzetére felvitt jövedéki termékről a jövedéki termékek megnevezését, mennyiségi adatait a (2) bekezdés szerinti bontásban, a (2) bekezdés szerinti bizonylat sorszámát, a légijármű lajstromjelét és a légijármű üzemben tartójának megnevezését tartalmazó adatokat is vezeti a nyilvántartásában.

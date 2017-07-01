@@ -1,11 +1,9 @@
-## 23. §
-
 ## II. Fejezet
 
 ## NYILVÁNTARTÁSBA VÉTEL
 
-## [^9]
+## 9. Nyilvántartásba vétel
 
-## 9.
+24. § (1) A Jöt. szerinti nyilvántartásba vételi kérelmet az állami adó- és vámhatóság által rendszeresített nyomtatványon kell benyújtani.
 
-[^9]: A 9. alcím (24–30. §) a 104. § (2) bekezdése alapján 2017. július 1-jén lép hatályba.
+(2) A Jöt. szerinti nyilvántartásba vételek mintáját a 19. melléklet tartalmazza.
