@@ -26,7 +26,7 @@
 
 | 12. | jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 14. | villamospálya átépítésének engedélyezési eljárása | közlekedésért felelős miniszter | nincs |
 
@@ -70,8 +70,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 14. | rendészet | V. kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 15. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 15. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 16. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^27]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 26. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^27]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 26. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
