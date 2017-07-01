@@ -128,11 +128,11 @@
 
 | 63. | MAVIR | Magyarország villamosenergia-hálózatának nyomvonalas térképe: - az átviteli hálózat távvezeték elemei (750 kV-os, 400 kV-os, 220 kV-os), - az átvitelt befolyásoló 120 kV-os elosztó hálózat elemei, - térségi ellátást biztosító 120 kV-os elosztó hálózat elemei. | 3.3.1. | évente | ország, kiemelt térség, megye | június 1. |
 
-| 64. | MBFH | Bezárt bányák (1993-tól vezetett nyilvántartás alapján: megnevezés, nyersanyag, kitermelés módja, felhagyás éve, elhelyezkedés) | 1.2.1. | frissítést követően | objektum | frissítést követő 90. nap |
+| 64. | MBFSZ | Bezárt bányák (1993-tól vezetett nyilvántartás alapján: megnevezés, nyersanyag, kitermelés módja, felhagyás éve, elhelyezkedés) | 1.2.1. | frissítést követően | objektum | frissítést követő 90. nap |
 
-| 65. | MBFH | Szilárd ásványi nyersanyagokra vonatkozó adatok (ásványvagyon- nyilvántartás: megnevezés, nyersanyag, elhelyezkedés; bányatelek-nyilvántartás: megnevezés, nyersanyag, státusz, kitermelés módja, elhelyezkedés) | 4.2. és 1.2.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 65. | MBFSZ | Szilárd ásványi nyersanyagokra vonatkozó adatok (ásványvagyon- nyilvántartás: megnevezés, nyersanyag, elhelyezkedés; bányatelek-nyilvántartás: megnevezés, nyersanyag, státusz, kitermelés módja, elhelyezkedés) | 4.2. és 1.2.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 66. | MBFH | Energiahordozók | 1.2.1. és 3.3. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 66. | MBFSZ | Energiahordozók | 1.2.1. és 3.3. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 67. | MEKH | Az összes beépített erőművi kapacitás források szerint | 1.2.1. és 3.3.1. | frissítést követően | régió | frissítést követő 90. nap |
 
@@ -284,7 +284,7 @@
 
 | 15. | MÁV Magyar Államvasutak Zrt. | MÁV |
 
-| 16. | Magyar Bányászati és Földtani Hivatal | MBFH |
+| 16. | Magyar Bányászati és Földtani Szolgálat | MBFSZ |
 
 | 17. | Magyar Energetikai és Közmű-szabályozási Hivatal | MEKH |
 
