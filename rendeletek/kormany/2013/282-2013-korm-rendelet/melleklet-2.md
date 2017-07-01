@@ -26,7 +26,7 @@
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 14. | talajvédelmi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal Érdi Járási Hivatala | Pest Megyei Kormányhivatal |
 
@@ -62,9 +62,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 9. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 10. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 11. | rendészet | Pest Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -86,4 +86,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés | Csömör település önkormányzatának jegyzője | Pest Megyei Kormányhivatal |
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 47. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 47. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 47. § (1) bekezdés b) pontjával megállapított, e módosító rendelet 47. § (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 56. § b) pontja szerint módosított szöveg.
