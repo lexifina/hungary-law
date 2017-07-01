@@ -24,7 +24,7 @@
 
 | 11. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Elnöke |
 
-| 12. | bányahatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 12. | bányahatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 13. | talajvédelmi hatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
 
@@ -60,9 +60,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 7. | közlekedés: légi | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
-| 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 8. | földtan | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
-| 9. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 9. | bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Szolgálat |
 
 | 10. | rendészet: gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -88,4 +88,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 32. § (1) bekezdés b) pontjával megállapított és (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^8]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 32. § (1) bekezdés b) pontjával megállapított és (2) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
