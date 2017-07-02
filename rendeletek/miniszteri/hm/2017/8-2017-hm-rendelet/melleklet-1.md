@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti a Magyar Honvédség környezetvédelmi megbízottainak alkalmazási és képesítési feltételeiről szóló 24/1997. (XI. 6.) HM rendelet.
+## 5. §[^1]
 
 1. melléklet a 8/2017. (VI. 30.) HM rendelethez
 
@@ -133,3 +133,5 @@ A honvédelmi tevékenységgel összefüggő sajátos környezethasználatok és
 | 63. | XI. | Az MH hadrendjéből kivont, további felhasználásra feleslegessé vált inkurrens eszközök kezelése | Hadfelszerelések, harcanyagok tárolása | A rendszerből történő kivonási – különösen selejtezés, értékesítés, megsemmisítés – folyamatok felügyelete |
 
 | 64. | Inkurrens anyag tárolása |
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
