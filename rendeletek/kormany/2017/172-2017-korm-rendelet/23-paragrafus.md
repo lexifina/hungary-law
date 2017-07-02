@@ -1,3 +1,0 @@
-## „(10) A (9) bekezdés vonatkozásában a számviteli konszolidáción alapuló módszer csak akkor alkalmazható, ha a Felügyelet mint csoportfelügyeleti hatóság a konszolidáció hatálya alá vonandó vállalkozások integrált irányítási és belső ellenőrzési rendszerét, valamint azok működését a vonatkozó jogszabályoknak megfelelőnek tartja.
-
-## (11) A Felügyelet mint csoportfelügyeleti hatóság a részesedéssel rendelkező vállalkozás kérésére vagy hivatalból előírhatja, hogy a biztosító vagy a viszontbiztosító (9) bekezdés szerinti részesedését vonják le a biztosító vagy a viszontbiztosító csoportszintű szavatolótőke-megfeleléséhez figyelembe vehető szavatoló tőkéjéből.”
