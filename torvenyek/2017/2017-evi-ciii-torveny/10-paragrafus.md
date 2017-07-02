@@ -1,1 +1,0 @@
-10. § Az ADR tv. 4. § (1) bekezdésében az „az ADR A Melléklet 1.8.3 szakasza szerinti veszélyes áru szállítási biztonsági tanácsadó” szövegrész helyébe az „a veszélyes áru szállítási biztonsági tanácsadó” szöveg lép.
