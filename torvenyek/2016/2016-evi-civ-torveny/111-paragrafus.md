@@ -14,8 +14,4 @@ b)–d)
 
 e)–f)
 
-(13) Hatályát veszti az Fktv.
-
-a) 5/A. §-a,
-
-b)–f)
+(13)
