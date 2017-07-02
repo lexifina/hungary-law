@@ -1,3 +1,3 @@
-3. melléklet a 163/2017. (VI. 28.) Korm. rendelethez[^31]
+3. melléklet a 163/2017. (VI. 28.) Korm. rendelethez[^32]
 
-[^31]: A 3. melléklet a 20. § (2) bekezdése alapján 2017. július 13-án lép hatályba.
+[^32]: A 3. melléklet a 20. § (2) bekezdése alapján 2017. július 13-án lép hatályba.
