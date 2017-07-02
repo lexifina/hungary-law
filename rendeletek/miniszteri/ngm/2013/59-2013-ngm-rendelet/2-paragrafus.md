@@ -92,33 +92,33 @@ e) egyéb feltételek előírását a megszerezhető kompetencia indokolja.
 
 (4) Modulrendszerű felépítés esetén a javaslatba beépíthető a nyilvántartásban szereplő modulrendszerű szakmai programkövetelmény modulja, valamint a nyilvántartásban szereplő, nem modulrendszerű szakmai programkövetelménynek az Fktv. 18. § (4) bekezdés d)–f) pontjában foglalt adatai.
 
-(5) A bizottság döntése alapján nem kerül nyilvántartásba az a javaslat,
+(5)[^9] A bizottság döntése alapján nem kerül nyilvántartásba az a javaslat,
 
-a) amely – a 4. § (3) bekezdés c) pont alapján biztosított hiánypótlást követően – nem felel meg
+a) amely – a 4. § (3) bekezdés c) pontja alapján biztosított hiánypótlást követően – nem felel meg az (1)–(4) bekezdésben foglalt követelményeknek,
 
-az (1)–(4) bekezdésben foglalt követelményeknek,
-
-b)[^9] amelynek megnevezése, illetve az abban szereplő szakmai végzettség megnevezése megegyezik, vagy megtévesztésig hasonló
+b) amelynek megnevezése, illetve az abban szereplő szakmai végzettség megnevezése megegyezik, vagy megtévesztésig hasonló
 
 ba) a nyilvántartásban szereplő szakmai programkövetelmény,
 
-bb) az OKJ szerinti szakképesítés vagy
+bb) az OKJ szerinti szakképesítés,
 
-bc) az Fktv. szerinti hatósági jellegű képzés
+bc) az Fktv. szerinti hatósági jellegű képzés, vagy
+
+bd) valamely felsőoktatási képzési és kimeneti követelmény szerinti képzés vagy szakképzettség
 
 ## megnevezésével,
 
-c)[^10] amely, vagy amelynek valamely modulja megtalálható az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendeletben (a továbbiakban: követelménymodul rendelet),
+c) amelyben megtalálható
 
-d)[^11] amelyben megtalálható az OKJ-ban szereplő valamely szakképesítés szakmai kompetenciáinak több mint negyven százaléka, rész-szakképesítés esetén több mint hatvan százaléka, kivéve, ha a javaslatban szereplő szakmai kompetencia az OKJ-ban szereplő szakképesítés szakmai kompetenciájának magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek kialakítására irányul, vagy
+ca) az OKJ-ban szereplő, részszakképesítéssel nem rendelkező szakképesítés szakmai kompetenciáinak több mint hetvenöt százaléka, részszakképesítés esetén a részszakképesítés szakmai kompetenciáinak több mint hetvenöt százaléka, kivéve, ha a javaslatban szereplő szakmai kompetencia az OKJ-ban szereplő szakképesítés szakmai kompetenciájának magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek kialakítására irányul,
 
-e)[^12] amelyben megtalálható a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási szakképzés képzési és kimeneti követelményeiben szereplő szakmai kompetenciák több mint negyven százaléka,
+cb) a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási szakképzés képzési és kimeneti követelményeiben szereplő szakmai kompetenciák több mint negyven százaléka, vagy
 
-f)[^13] amelyben megtalálható a kamara és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara mesterképzéseinek kompetencia moduljaiban szereplő szakmai kompetenciák több mint negyven százaléka,
+cc) a kamara és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara mesterképzéseinek kompetencia moduljaiban szereplő szakmai kompetenciák több mint negyven százaléka,
 
-g)[^14] amelyben megszerezhető szakmai végzettség tartalma jogszabályban meghatározásra került,
+d) amelyben megszerezhető szakmai végzettség tartalma jogszabályban meghatározásra került, vagy
 
-h)[^15] amely alapján megszerezhető szakmai végzettség nincs összhangban a szakmai követelmények leírásával, a bemeneti feltételekkel, a legjellemzőbb tevékenység, munkaterület leírásával.
+e) amely alapján megszerezhető szakmai végzettség nincs összhangban a szakmai követelmények leírásával, a bemeneti feltételekkel, a legjellemzőbb tevékenység, munkaterület leírásával.
 
 [^1]: A 2. § (1) bekezdés b) pont nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés d) pont dc) alpontja a 42/2015. (XII. 30.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
@@ -128,10 +128,4 @@ h)[^15] amely alapján megszerezhető szakmai végzettség nincs összhangban a 
 [^6]: A 2. § (1) bekezdés i) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.
 [^7]: A 2. § (1) bekezdés j) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.
 [^8]: A 2. § (2) bekezdés a) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^9]: A 2. § (5) bekezdés b) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^10]: A 2. § (5) bekezdés c) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^11]: A 2. § (5) bekezdés d) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^12]: A 2. § (5) bekezdés e) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^13]: A 2. § (5) bekezdés f) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (7) bekezdése iktatta be.
-[^14]: A 2. § (5) bekezdés g) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (7) bekezdése iktatta be.
-[^15]: A 2. § (5) bekezdés h) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (7) bekezdése iktatta be.
+[^9]: A 2. § (5) bekezdése a 13/2017. (VI. 29.) NGM rendelet 1. §-ával megállapított szöveg.
