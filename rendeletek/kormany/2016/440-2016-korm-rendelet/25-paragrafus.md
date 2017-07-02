@@ -1,5 +1,5 @@
-## 24. §[^21]
+## 24. §[^25]
 
 ## 16. A hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló 439/2012. (XII. 29.) Korm. rendelet módosítása
 
-[^21]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

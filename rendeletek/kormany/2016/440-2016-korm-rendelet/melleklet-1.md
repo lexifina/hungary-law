@@ -1,3 +1,3 @@
-1–5. melléklet a 440/2016. (XII. 16.) Korm. rendelethez[^34]
+1–5. melléklet a 440/2016. (XII. 16.) Korm. rendelethez[^39]
 
-[^34]: Az 1–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: Az 1–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

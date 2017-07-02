@@ -1,9 +1,9 @@
-## 2. § A 146/1993. (X. 26.) Korm. rendelet
+## 2. §[^3]
 
-a)[^2]
+a)[^4]
 
-b) 21. § (1) bekezdésében az „a lakóhelye szerinti” szövegrész helyébe a „bármely” szöveg,
+b)–c)[^5]
 
-c) 21. § (3a) bekezdésében az „a lakóhely szerinti” szövegrész helyébe a „bármely” szöveg
-
-[^2]: A 2. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
