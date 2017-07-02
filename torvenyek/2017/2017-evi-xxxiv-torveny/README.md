@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-34-00-00
 | --- | --- | --- |
 | 2017-05-16 | 2017. évi XXXIV. törvény | 2017-34-00-00.0 (közlönyállapot) |
 | 2017-05-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-34-00-00.1 |
+| 2017-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-34-00-00.2 |
