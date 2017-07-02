@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-72-00-00
 | 2017-06-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-72-00-00.1 |
 | 2017-06-18 | 2010. évi CXXX. törvény | 2017-72-00-00.2 |
 | 2017-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-72-00-00.3 |
+| 2017-07-02 | 2010. évi CXXX. törvény | 2017-72-00-00.4 |
