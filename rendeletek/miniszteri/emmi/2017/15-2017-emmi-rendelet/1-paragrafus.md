@@ -2,23 +2,18 @@
 
 ## 9/1993. (IV. 2.) NM rendelet módosítása
 
-1. § (1) Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R1.) 1. számú melléklete az 1. melléklet szerint módosul.
+1. § (1)–(4)[^1]
 
-(2) Az R1. 1/A. számú melléklete a 2. melléklet szerint módosul.
+(5)[^2]
 
-(3) Az R1. 2. számú melléklete a 3. melléklet szerint módosul.
+(6)[^3]
 
-(4) Az R1. 3. számú melléklete a 4. melléklet szerint módosul.
+(7)[^4]
 
-(5)[^1]
+(8)–(9)[^5]
 
-(6) Az R1. 4. számú melléklete a 6. melléklet szerint módosul.
-
-(7)[^2]
-
-(8) Az R1. 8. számú melléklete a 8. melléklet szerint módosul.
-
-(9) Az R1. 13. számú melléklete a 9. melléklet szerint módosul.
-
-[^1]: Az 1. § (5) bekezdése a 6. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
-[^2]: Az 1. § (7) bekezdése a 6. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
+[^1]: Az 1. § (1)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (5) bekezdése a 6. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
+[^3]: Az 1. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. § (7) bekezdése a 6. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
+[^5]: Az 1. § (8)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
