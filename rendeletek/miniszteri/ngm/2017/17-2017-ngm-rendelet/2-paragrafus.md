@@ -1,3 +1,0 @@
-## 1. § Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet (a továbbiakban: Vhr.) 10. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A helyszíni ellenőrzés esetében az ellenőrzési jogosultságot a szerencsejáték-felügyeleti hatóság alkalmazottja a szerencsejáték-felügyeleti hatóság által kiállított arcképes igazolvánnyal vagy a személyazonosság igazolására alkalmas okmánnyal, valamint a szerencsejáték-felügyeleti hatóság vezetője által kiállított, az Szjtv. hatálya alá tartozó játékok ellenőrzésére jogosultságot biztosító megbízólevéllel köteles igazolni.”
