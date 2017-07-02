@@ -1,1 +1,0 @@
-190. § A Kbftv. 23. § (2) bekezdésében a „rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.” szövegrész helyébe a „– kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.” szöveg lép.

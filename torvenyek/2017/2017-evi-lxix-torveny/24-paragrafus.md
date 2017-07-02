@@ -1,3 +1,1 @@
-24. § A Tpt. 361. §-a helyébe a következő rendelkezés lép:
-
-„361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a tőzsdét, a központi szerződő felet, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátóját, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdés d) pontjában meghatározott intézkedésként a tőzsde, a központi szerződő fél, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátója, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, kibocsátói, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.”
+24. §
