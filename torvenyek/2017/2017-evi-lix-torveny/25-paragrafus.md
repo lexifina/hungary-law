@@ -1,3 +1,0 @@
-25. § A Gytv. 4/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Gyógyszer beszerzéséhez nem szükséges engedély, ha arra kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt a beszerző az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján beszerzett gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.”

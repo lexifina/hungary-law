@@ -1,7 +1,0 @@
-7. § Az Eüak. 35/M. §-a helyébe a következő rendelkezés lép:
-
-„35/M. § (1) A működtető a digitális képtovábbítás keretében – a 4. § (1) bekezdés a)–d) pontja szerinti célból – egyedileg, TAJ számmal vagy ennek hiányában más azonosítóval azonosított érintettre vonatkozóan biztosítja az érintettről képalkotó diagnosztikai eljárással készített felvétel vagy más digitális képi információ EESZT felhasználó általi elérését és EESZT felhasználók egymás közötti továbbítását. Az EESZT működtetője ennek érdekében nyilvántartást vezet, amely az érintett TAJ számához vagy ennek hiányában más azonosítójához kapcsoltan tartalmazza, hogy az érintettről képalkotó diagnosztikai eljárással felvételt készítettek és a felvétel elérési útját. A működtető a nyilvántartásban az érintettre vonatkozó adatot az érintett halálát követő 5 év elteltével törli.
-
-(2) Elektronikus konzílium lefolytatását a működtető az EESZT útján akkor biztosítja, ha a konzíliumra felkért orvos az elektronikus konzílium lefolytatását biztosítja, a konzílium a felkérést elfogadja, és az érintettre vonatkozó adatokat jogosult megismerni.
-
-(3) A működtető a digitális képtovábbítás során továbbított adatokat a szolgáltatás műszaki optimalizálása érdekében legfeljebb 90 napig tárolja.”
