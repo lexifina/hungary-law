@@ -1,4 +1,4 @@
-3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^51]
+3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^52]
 
 ## Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő adatszolgáltatás adattartalma (jövedéki termékenként)
 
@@ -140,4 +140,4 @@ Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vona
 
 6. Zárókészlet (naponta)
 
-[^51]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^52]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.

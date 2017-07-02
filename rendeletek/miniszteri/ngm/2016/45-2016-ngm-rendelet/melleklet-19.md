@@ -65,3 +65,29 @@ II. Tagállami csomagküldő kereskedő
 3. Engedélyszáma:
 
 III. Az adóügyi képviselő a jelen okiratban rögzített, valamint a kérelemben, a kérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet.
+
+## Kelt: .........................
+
+## ..........................................................................
+
+## az állami adó- és vámhatóság
+
+## elektronikus ügyintézéshez kapcsolódó
+
+## hitelesítő záradéka
+
+## NYILVÁNTARTÁSBA VÉTEL
+
+## Jövedéki termék előállítására alkalmas berendezés előállításához, birtoklásához, értékesítéséhez
+
+## Nyilvántartásba vevő igazgatóság megnevezése:
+
+## Nyilvántartási száma:
+
+## A jövedéki adóról szóló 2016. évi LXVIII. törvény 34. § (1) bekezdése és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 73. § (5) bekezdése alapján nyilvántartásba vettem.
+
+I. Nyilvántartásba vett személy
+
+1. Neve (elnevezése):
+
+2. Székhelye (ennek hiányában telephelye), lakóhelye (tartózkodási helye):
