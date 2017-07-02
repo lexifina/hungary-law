@@ -1,3 +1,0 @@
-43. § A Hjt. 68/C. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A miniszter a továbbfoglalkoztatási kötelezettség alóli mentesítés tárgyában harminc napon belül indokolt határozatban dönt. A miniszter a döntés során mérlegeli, hogy a honvédelmi szervezetnél meghatározható-e olyan feladatkör, amelyet az állomány tagja nem katonai munkakörben egészségi állapota alapján elláthat, valamint azt, ha az állomány tagjának egészségi állapota alapján tőle már nem várható el a mindennapos rendelkezésre állási és munkavégzési kötelezettség. A döntéssel szemben önálló jogorvoslatnak nincs helye, az az egészségkárosodási ellátás megállapítása tárgyában hozott határozat elleni jogorvoslat keretében támadható meg.”

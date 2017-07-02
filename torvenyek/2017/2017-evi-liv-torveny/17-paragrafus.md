@@ -1,3 +1,0 @@
-17. § A Kenytv. 11. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) Szolgálati járandóság esetén a Tny. 83/B. § (1) bekezdése szerinti éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.”
