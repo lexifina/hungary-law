@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-464-20-
 | 2017-04-01 | 2016-464-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-04-02 | 2016-464-20-22.9 | 2010: CXXX. törvény |
 | 2017-07-01 | 2016-464-20-22.10 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-07-02 | 2016-464-20-22.11 | 2010: CXXX. törvény |
