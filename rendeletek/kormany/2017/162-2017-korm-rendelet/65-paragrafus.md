@@ -1,3 +1,0 @@
-## 64. § A Magyarország német megszállásának emléket állító, Budapest V. kerületben felállításra kerülő emlékmű megvalósításához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 565/2013. (XII. 31.) Korm. rendelet 2. mellékletében foglalt táblázat C:12 mezőjében a „Magyar Bányászati és Földtani Hivatal” szövegrész helyébe a „Magyar Bányászati és Földtani Szolgálat” szöveg lép.
-
-## 61. Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet módosítása
