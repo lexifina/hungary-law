@@ -1,5 +1,3 @@
-## lép.
-
 ## 5. Záró rendelkezések
 
 21. § (1) Ez a rendelet – a (2)–(5) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.

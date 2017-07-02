@@ -1,9 +1,3 @@
-## 15. § A 40/2015. (XII. 30.) NGM rendelet 14. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 14–15. §[^7]
 
-## „(7) A Hatóság köteles – vizsgatípusonként – szükséges számú, de
-
-## a) augusztus és december hónapok kivételével havonta legalább kettő,
-
-## b) augusztus és december hónapokban havonta legalább egy
-
-## vizsgát szervezni, és azok előzetes időpontjait legalább három hónappal előre, közlemény formájában az internetes honlapján közzétenni.”
+[^7]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

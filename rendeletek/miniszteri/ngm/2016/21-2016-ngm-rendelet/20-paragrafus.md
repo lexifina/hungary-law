@@ -1,32 +1,36 @@
-## 19. § A 40/2015. (XII. 30.) NGM rendelet 9. melléklete helyébe a 3. melléklet lép.
+## 19. §[^12]
 
-## 20. § A 40/2015. (XII. 30.) NGM rendelet
+## 20. §[^13]
 
-a)[^8]
+a)[^14]
 
-b)–d)[^9]
+b)–d)[^15]
 
-e) 3. § (1) bekezdés d) pontjában az „és vizsgáztatáshoz” szövegrész helyébe az „és – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgáztatáshoz” szöveg,
+e)–f)[^16]
 
-f) 3. § (1) bekezdés e) pontjában az „és a vizsgaszabályzatban” szövegrész helyébe az „és – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgaszabályzatban” szöveg,
+g)[^17]
 
-g)[^10]
+h)[^18]
 
-h) 8. § (2) bekezdésében a „valamint a vizsgaszabályzat” szövegrész helyébe a „valamint – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgaszabályzat” szöveg,
+i)[^19]
 
-i)[^11]
+j)[^20]
 
-j) 12. § (1) bekezdés nyitó szövegrészében az „az a vizsgabiztos bízható meg, aki hozzájárul neve, valamint telefonos és elektronikus elérhetősége képző szervek felé történő – Hatóság általi – továbbításához, továbbá vállalja,” szövegrész helyébe az „az a vizsgabiztos bízható meg, aki vállalja,” szöveg,
+k)–l)[^21]
 
-k)–l)[^12]
+m)[^22]
 
-m) 16. § (1) bekezdésében a „vizsgabiztos a vizsgát követő” szövegrész helyébe a „vizsgabiztos legkésőbb a vizsgát követő” szöveg,
+n)[^23]
 
-n)[^13]
-
-[^8]: A 20. § a) pontja a 14/2017. (VI. 30.) NGM rendelet 6. §-a alapján nem lép hatályba.
-[^9]: A 20. § b)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 20. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 20. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 20. § k)–l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 20. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 20. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 20. § a) pontja a 14/2017. (VI. 30.) NGM rendelet 6. §-a alapján nem lép hatályba.
+[^15]: A 20. § b)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 20. § e)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 20. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 20. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 20. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 20. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 20. § k)–l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 20. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 20. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

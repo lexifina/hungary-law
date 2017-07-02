@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-21-20-2
 | 2017-01-01 | 2016-21-20-2X.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-02 | 2016-21-20-2X.8 | 2010: CXXX. törvény |
 | 2017-07-01 | 2016-21-20-2X.9 | 14/2017. (VI. 30.) NGM rendelet |
+| 2017-07-02 | 2016-21-20-2X.10 | 2010: CXXX. törvény |
