@@ -1,4 +1,4 @@
-## 65. §[^17]
+## 65. §[^19]
 
 ## 9. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az 57. § (2) bekezdése és a 8. melléklet 2018. január 1-jén lép hatályba.
 
-[^17]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
