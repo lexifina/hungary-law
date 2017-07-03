@@ -1,1 +1,0 @@
-A felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (2) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
