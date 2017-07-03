@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2016-68-00-00.6 |
 | 2017-07-01 | 2017. évi LXXVII. törvény | 2016-68-00-00.7 |
 | 2017-07-02 | 2010. évi CXXX. törvény | 2016-68-00-00.8 |
+| 2017-07-03 | 2010. évi CXXX. törvény | 2016-68-00-00.9 |

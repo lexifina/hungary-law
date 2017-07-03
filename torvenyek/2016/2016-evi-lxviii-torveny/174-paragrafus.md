@@ -4,4 +4,4 @@
 
 (3)
 
-(4) Hatályát veszti a 103. alcím.
+(4)
