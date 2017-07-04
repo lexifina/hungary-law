@@ -18,7 +18,7 @@
 
 ## 2. egyetért azzal, hogy a belügyminiszter az 1. pont b) alpontja szerint átcsoportosított összegek terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben nyújtson
 
-## a) 110 millió forint támogatást Döge Község Önkormányzata részére a 3882. j. országos közutat a Rétközi-tó medencéjével összekötő út felújítása céljából,
+## a)[^1] 110 millió forint támogatást Döge Község Önkormányzata részére a 3832. j. országos közutat a Rétközi-tó medencéjével összekötő út felújítása céljából,
 
 ## b) 8 millió forint támogatást Pátroha Önkormányzata részére a gyermekek egészséges életvitelének kialakítását biztosító szabadtéri eszközök telepítése céljából,
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a) alpontja az 1441/2017. (VII. 4.) Korm. határozat 6. pontja szerint módosított szöveg.
