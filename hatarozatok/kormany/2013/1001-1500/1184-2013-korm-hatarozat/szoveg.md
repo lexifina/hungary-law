@@ -1,4 +1,4 @@
-A Kormány támogatja a Bejárható Magyarország Keretprogramot (a továbbiakban: Keretprogram), mint az egészséges életmódra nevelést, sport, turisztikai és szabadidős tevékenységeket (ideértve a gyaloglást, kerékpározást, lovaglást, vitorlázást, túrakenuzást) népszerűsítő kezdeményezést és fontosnak tartja a programban foglaltak megvalósulását, ennek érdekében felhívja
+A Kormány támogatja a Bejárható Magyarország Keretprogramot (a továbbiakban: Keretprogram), mint az egészséges életmódra nevelést, sport, turisztikai és szabadidős tevékenységeket (ideértve a gyaloglást, kerékpározást, lovaglást, vitorlázást, túrakenuzást és elektromos hajózást) népszerűsítő kezdeményezést és fontosnak tartja a programban foglaltak megvalósulását, ennek érdekében felhívja[^1]
 
 1. a közigazgatási és igazságügyi minisztert, hogy a feladatkörében érintett miniszterekkel és civil szervezetekkel hangolja össze a Keretprogramhoz kapcsolódó feladatok végrehajtását, különös figyelemmel a jogszabályi környezet felülvizsgálatára, továbbá felhívja az érintett kormányzati szerveket, intézményeket a támogató együttműködésre a Keretprogram hatékony végrehajtása érdekében;
 
@@ -37,3 +37,5 @@ nemzeti fejlesztési miniszter
 vidékfejlesztési miniszter
 
 Határidő: folyamatos
+
+[^1]: A határozat bevezető része az 1443/2017. (VII. 4.) Korm. határozat szerint módosított szöveg.
