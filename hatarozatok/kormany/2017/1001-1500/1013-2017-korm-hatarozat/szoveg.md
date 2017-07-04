@@ -8,16 +8,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2017. február 28.
 
-3. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az EuroVelo-beruházás megvalósításához szükséges 3,42 milliárd forint többletköltség biztosításáról,
+3–5.[^2]
 
-Felelős: nemzetgazdasági miniszter
-
-Határidő: a felmerülés ütemében
-
-4. egyetért azzal, hogy a 3. pont szerinti forrásigényt elsődlegesen hazai forrásból kell biztosítani azzal, hogy az 5. pont szerinti vizsgálat eredményét figyelembe kell venni,
-
-5. felhívja a nemzetgazdasági minisztert, hogy vizsgálja meg az EuroVelo-beruházás a Versenyképes Közép-Magyarország Operatív Program 4. prioritása keretében történő finanszírozásának lehetőségét, figyelemmel a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. §-ára és a gazdasági növekedés érdekében szükséges fejlesztéspolitikai intézkedésekről szóló 1299/2016. (VI. 13.) Korm. határozat 3. pontjára.
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: 2017. február 15.
+[^2]: A 3–5. pontot az 1441/2017. (VII. 4.) Korm. határozat 5. pontja visszavonta.
