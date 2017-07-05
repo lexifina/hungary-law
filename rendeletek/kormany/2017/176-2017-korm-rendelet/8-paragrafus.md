@@ -1,0 +1,1 @@
+## 7. § Az e rendelet hatálybalépését megelőzően megkezdett beruházások esetében a 3. § (2) bekezdése szerinti tájékoztatást a beruházás megkezdését követően, de még az adókedvezmény igénybevételét megelőzően kell az adózó rendelkezésére bocsátani.
