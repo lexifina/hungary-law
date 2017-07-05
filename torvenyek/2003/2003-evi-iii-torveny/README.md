@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-3-00-00
 | 2013-01-01 | 2012. évi LXI. törvény | 2003-3-00-00.12 |
 | 2014-01-01 | 2013. évi CCXLI. törvény | 2003-3-00-00.13 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2003-3-00-00.14 |
+| 2017-07-05 | 2017. évi XCIV. törvény | 2003-3-00-00.15 |

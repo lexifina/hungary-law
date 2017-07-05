@@ -1,8 +1,10 @@
-10. § (1) A Levéltár működésére – amennyiben e törvény eltérően nem rendelkezik – az Ltv. rendelkezéseit kell alkalmazni. Az Ltv. 28. §-a a Levéltár eljárására nem alkalmazható.
+10. § (1) A Levéltár működésére az Ltv. szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni. Az Ltv. 28. §-a a Levéltár eljárására nem alkalmazható.
+
+(1a) A nemzetbiztonsági szolgálatoktól átvett és kezelt iratok tekintetében az Ltv. szabályait kell alkalmazni.
 
 (2) A Levéltár az e törvény alapján anonimizáltan megismerhető adatokat olyan módon teszi hozzáférhetővé a kérelmező számára, hogy az adatokat tartalmazó irat másolatát átadja, és a kérelmező számára nem megismerhető adatokat azon olvashatatlanná teszi. A megfigyelt számára minden, az iratokról készült másolatot soron kívül és térítésmentesen kell biztosítani.
 
-(3) A Levéltár a Ttv. alapján minősített adatok vonatkozásában gondoskodik a minősítettadat-védelmi szabályok betartásáról.
+(3) A Levéltár a minősített adatok vonatkozásában gondoskodik a minősítettadat-védelmi szabályok betartásáról.
 
 (4) A Levéltár gondoskodik az átvett, valamint a keletkező iratok egységes szempontok alapján történő nyilvántartásáról és kezeléséről.
 

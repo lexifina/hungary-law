@@ -1,4 +1,4 @@
-8. § (1) A Levéltár kezeli a 2. § (2)–(3) bekezdésében meghatározott adatokat tartalmazó iratok kivételével az e törvény hatálya alá tartozó iratokat. A Levéltár a Történeti Hivatal jogutódja.
+8. § (1) Az 1. § (1) bekezdésében meghatározott iratokat és adatokat a Levéltár jogosult átvenni és kezelni, kivéve, ha arra a közfeladatot ellátó szervnek ügyviteli szempontból még rendszeresen szüksége van. A Levéltár jogosult átvenni és kezelni a nemzetbiztonsági szolgálatok iratait. A Levéltár a Történeti Hivatal jogutódja.
 
 (2) A Levéltár központi költségvetési szerv, amely az Országgyűlés költségvetési fejezetén belül önálló címet alkot. A Levéltár gazdasági szervezettel rendelkezik.
 
@@ -10,7 +10,11 @@ b) gondoskodik a közéleti szerepet betöltő személyek állambiztonsági múl
 
 c) az e törvényben meghatározott feltételekkel biztosítja a kutatási tevékenység folytatását;
 
-d) ellátja az Ltv.-ben meghatározott feladatokat.
+d) ellátja az Ltv.-ben meghatározott feladatokat;
+
+e) feltárja, nyilvántartja és gyűjti, illetve másolatban beszerzi a magyar vonatkozású külföldi állambiztonsági anyagot;
+
+f) másolatot készít a más levéltárba került és államvédelmi, illetve állambiztonsági adatokat is tartalmazó iratokról azzal, hogy a másolatkészítés lehetőségét az érintett levéltár biztosítja.
 
 (4) A Levéltár működését az Országgyűlés elnöke felügyeli.
 
