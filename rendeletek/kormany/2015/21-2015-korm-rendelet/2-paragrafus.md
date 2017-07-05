@@ -2,8 +2,11 @@
 
 ## 2. § Segítségnyújtásra jogosult az a magánszemély, aki vagy akinek perbeli jogelődje:
 
-a) 2014. december 31-ig a MAL Magyar Alumínium Termelő és Kereskedelmi Zrt. „f.a.” (a továbbiakban: MAL Zrt. „f.a.”) ellen – a vörösiszap-katasztrófával összefüggésben keletkezett kárigényére tekintettel – nem vagyoni kárának megtérítése iránt pert indított vagy a felszámolási eljárásban erre vonatkozóan igényt érvényesített,
+a)[^1] 2014. december 31-ig a MAL Magyar Alumínium Termelő és Kereskedelmi Zrt. „f.a.” (a továbbiakban: MAL Zrt. „f.a.”) ellen – a vörösiszap-katasztrófával összefüggésben keletkezett kárigényére tekintettel – vagyoni vagy nem vagyoni kárának megtérítése iránt pert indított vagy a felszámolási eljárásban erre vonatkozóan igényt érvényesített,
 
 b) az a) pontban meghatározott követelését a MAL Zrt. „f.a.” felszámolójának a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényben meghatározott módon bejelentette, és
 
-c) az állam javára engedményezi a MAL Zrt. „f.a.”-val szemben fennálló, a bíróság által jogerősen megállapított nem vagyoni kár tőkeösszegére vonatkozó követelését
+c)[^2] az állam javára engedményezi a MAL Zrt. „f.a.”-val szemben fennálló, a bíróság által jogerősen megállapított vagyoni vagy nem vagyoni kár tőkeösszegére vonatkozó követelését
+
+[^1]: A 2. § a) pontja a 175/2017. (VII. 4.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § c) pontja a 175/2017. (VII. 4.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
