@@ -1,0 +1,98 @@
+# A Kormány 188/2017. (VII. 5.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 109. szám, 2017. július 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/61df5f17b532147e76ddbb2ce70d703aa4e4884e/dokumentumok/5e16f880c31993448d841d94340f6e74a1282dd1/letoltes)
+
+---
+
+A Kormány 188/2017. (VII. 5.) Korm. rendelete
+a tankerületi központok fenntartásában működő egyes köznevelési intézmények fenntartóváltásával
+összefüggő intézkedésekről, valamint a Klebelsberg Intézményfenntartó Központ fenntartásában működő
+egyes szakképzési feladatot ellátó köznevelési intézmények fenntartóváltásával összefüggő intézkedésekről
+szóló 120/2015. (V. 21.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Sárvári Tankerületi Központ fenntartásában működő Felsőbüki Nagy Pál Általános Iskola és Szakközépiskola
+(OM 036659, 9737 Bük, Eötvös József u. 1–3.) szakképzést folytató intézményegysége az ellátott köznevelési feladat
+más szervezeti formában történő hatékony ellátása céljából 2017. augusztus 1-jével kiválik az átadó tankerületi
+központból és a szakképzésért és felnőttképzésért felelős miniszter által fenntartott Szombathelyi Szolgáltatási
+Szakképzési Centrumba olvad be, és annak tagintézményi telephelyeként folytatja működését.
+(2) A Győri Tankerületi Központ fenntartásában működő Győri Móra Ferenc Általános Iskola és Szakgimnázium
+(OM 030708, 9023 Győr, Kodály Zoltán u. 20–24.) az ellátott köznevelési feladat más szervezeti formában történő
+hatékony ellátása céljából 2017. augusztus 1-jével kiválik az átadó tankerületi központból és a szakképzésért és
+felnőttképzésért felelős miniszter által fenntartott Győri Szolgáltatási Szakképzési Centrumba olvad be, és annak
+tagintézményeként folytatja működését.
+(3) A Mezőkövesdi Tankerületi Központ fenntartásában működő Bayer Róbert Kollégium (OM 039224, 3400
+Mezőkövesd, Damjanich út 1.) az ellátott köznevelési feladat más szervezeti formában történő hatékony ellátása
+céljából 2017. augusztus 1-jével kiválik az átadó tankerületi központból és a szakképzésért és felnőttképzésért
+felelős miniszter által fenntartott Miskolci Szakképzési Centrumba olvad be, és annak tagintézményi telephelyeként
+folytatja működését.
+(4) A Mezőkövesdi Tankerületi Központ fenntartásában működő Tiszaújvárosi Eötvös József Gimnázium,
+Szakgimnázium és Kollégium Mezőcsáti Tagintézménye (OM 029265, 3450 Mezőcsát, Hősök tere 8.) az ellátott
+köznevelési feladat más szervezeti formában történő hatékony ellátása céljából 2017. augusztus 1-jével kiválik
+az átadó tankerületi központból és a szakképzésért és felnőttképzésért felelős miniszter által fenntartott Miskolci
+Szakképzési Centrumba olvad be, és annak tagintézményeként folytatja működését.
+2. §
+Az 1. §-ban meghatározott köznevelési intézmények tekintetében
+a) a Sárvári Tankerületi Központ, a Győri Tankerületi Központ, a Mezőkövesdi Tankerületi Központ
+(a továbbiakban együtt: átadó tankerületi központ) az átalakítás időpontjáig a költségvetési kiadási
+előirányzatainak a fenntartóváltással érintett köznevelési intézményre jutó arányos része terhére – az európai
+uniós és a Norvég Alap forrásból megvalósuló beruházások kivételével – beruházást, felújítást érintően új
+kötelezettséget nem vállalhat, a kiválással érintett köznevelési intézményt érintő foglalkoztatásra irányuló
+jogviszonyt a szakképzésért és felnőttképzésért felelős miniszter egyetértésével létesíthet vagy szüntethet
+meg,
+b) az átalakítás időpontját megelőzően keletkezett követelések és vállalt kötelezettségek az átadó tankerületi
+központot illetik meg, illetve terhelik,
+c) az átadó tankerületi központ foglalkoztatotti állományából a pedagógus munkakörben, a nevelő-oktató
+munkát közvetlenül segítő munkakörben és a gazdasági, ügyviteli, műszaki és kisegítő munkakörben
+foglalkoztatottak a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 24. § (3) bekezdése szerint
+kerülnek a Szombathelyi Szolgáltatási Szakképzési Centrum, a Győri Szolgáltatási Szakképzési Centrum,
+a Miskolci Szakképzési Centrum (a továbbiakban együtt: átvevő szakképzési centrum) állományába,
+d) az átadás-átvételi eljárást az átadó tankerületi központ és az átvevő szakképzési centrum folytatja le azzal,
+hogy átadás-átvételi megállapodást kötnek; a megállapodásban rendezni kell az átalakítás időpontjában
+fennálló követelések és kötelezettségek elszámolásának állományát,
+e) az átadás-átvételi megállapodáshoz kapcsolódóan az átadó tankerületi központ a 2017. július 31-i állapotnak
+megfelelően átadja az átvételre kerülő közfeladattal kapcsolatosan
+ea) a köznevelési intézményre vonatkozó szakmai alapdokumentumot,
+eb) a kötelezettségvállalásokra, a követelésekre, valamint a vagyonra (ideértve az ingatlan és ingó
+eszköz- és infrastruktúra állományra, informatikai és egyéb adatbázisra) vonatkozó nyilvántartást és
+ezek alapbizonylatait,
+
+ec) a c) pont szerinti foglalkoztatottak személyi anyagait, vagyonnyilatkozatait, a nemzetbiztonsági
+szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzés alapján készített
+szakvéleményeket, valamint a szakképzéssel és felnőttképzéssel kapcsolatban keletkezett további
+iratokat,
+ed) a tanulói jogviszonnyal kapcsolatban keletkezett személyi és tanügyi dokumentumokat,
+ee) az átadással érintett intézmény, tagintézmény, intézményegység tekintetében az átadás időpontjáig
+felmerült peres vagy más vitarendezési eljárás aktuális állapotáról szóló információkat, valamint
+az eljárás során keletkezett dokumentumokat,
+f) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós és a Norvég Alap forrásból
+finanszírozott olyan projektek átadás-átvételéről, amelynek kedvezményezettje az átadó tankerületi központ
+(a továbbiakban: átvételre kerülő projektek), az átadás-átvételi megállapodásban kell rendelkezni,
+g) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós és a Norvég Alap forrásból
+finanszírozott, az átalakítás időpontjában befejezettnek minősülő projektek tekintetében az átalakítás
+időpontjától az átadó tankerületi központ helyébe az átvevő szakképzési centrum lép,
+h) az átvételre kerülő projektek tekintetében a záró kifizetési igénylés és záró beszámoló támogató általi
+elfogadása, illetve a támogatás folyósítása napjáig az átadó tankerületi központ vállal kötelezettségeket és
+teljesíti azokat,
+i) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós és a Norvég Alap forrásból
+finanszírozott, az átalakítás időpontjában befejezettnek nem minősülő projektek tekintetében a záró
+kifizetési igénylés és záró beszámoló támogató általi elfogadását, illetve ezen beszámoló alapján a támogatás
+folyósítását követő napon az átadó tankerületi központ helyébe az átvevő szakképzési centrum lép;
+az átvételre kerülő projektek átadás-átvételéről és az átvételre kerülő projektekkel kapcsolatos fenntartási
+kötelezettségnek az átvevő szakképzési centrum általi teljesítéséről a projekt befejezését követően külön
+átadás-átvételi megállapodásban kell rendelkezni,
+j) a g) és az i) pont szerinti hazai, illetve európai uniós és a Norvég Alap forrásból finanszírozott projektek
+tekintetében a támogató a támogatási szerződés módosításáról a támogatás felhasználásának rendjéről
+szóló, vonatkozó jogszabályban meghatározottak szerint gondoskodik.
+3. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+4. §
+Hatályát veszti a Klebelsberg Intézményfenntartó Központ fenntartásában működő egyes szakképzési feladatot
+ellátó köznevelési intézmények fenntartóváltásával összefüggő intézkedésekről szóló 120/2015. (V. 21.)
+Korm. rendelet
+a) 2. mellékletében foglalt táblázat 100. sora,
+b) 2. mellékletében foglalt táblázat 188. sorában az„és Szakiskola”szövegrésze.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
