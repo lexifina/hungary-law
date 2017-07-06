@@ -20,8 +20,8 @@ a) előkészítéséről az adott szakpolitikai területért felelős miniszter 
 
 b) elfogadásáról a szervet irányító vagy felügyelő miniszter dönt.
 
-(4)[^5] A fővárosi és megyei kormányhivatalok és a járási (fővárosi kerületi) hivatalok esetében a fővárosi és megyei kormányhivatal egészére vonatkozó intézményi stratégiát a kormánymegbízott készíti elő. A fővárosi és megyei kormányhivatal miniszteri szakmai irányítói jogkör alá tartozó feladataira vonatkozó szakmai célkitűzéseket a szakmai irányító miniszter által elfogadott miniszteri program tartalmazza.
+(4)[^6] A fővárosi és megyei kormányhivatalok és a járási (fővárosi kerületi) hivatalok esetében a fővárosi és megyei kormányhivatal egészére vonatkozó intézményi stratégiát a kormánymegbízott készíti elő. A fővárosi és megyei kormányhivatal miniszteri szakmai irányítói jogkör alá tartozó feladataira vonatkozó szakmai célkitűzéseket a szakmai irányító miniszter által elfogadott miniszteri program tartalmazza.
 
 (5) A jogszabály által szakmai függetlenséggel felruházott kormányhivatal intézményi stratégiáját a felügyeletet ellátó miniszter előterjesztésére a Kormány fogadja el.
 
-[^5]: A 37. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 193. § (2) bekezdésével megállapított szöveg.
+[^6]: A 37. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 193. § (2) bekezdésével megállapított szöveg.
