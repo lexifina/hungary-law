@@ -1,3 +1,0 @@
-5. § Az ÁBTL Tv. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Levéltár a tudományos kutatást az 1. § (1) bekezdésében meghatározott iratokban akkor engedélyezi, ha a kutató eleget tesz az Ltv. 24. § (3) bekezdésében vagy 24/A. § (1) bekezdésében foglalt követelményeknek, továbbá a kérelméhez csatolja részletes kutatási tervét és – ha azzal rendelkezik – publikációs jegyzékét. A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2) és (3) bekezdésben meghatározott korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.”
