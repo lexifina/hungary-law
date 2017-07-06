@@ -1,4 +1,4 @@
-1. § (1)[^1] E rendelet 1. melléklete a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2015. évi LXXXIII. törvény 3. §-ának megfelelően, annak 2. melléklete (a továbbiakban: RID Szabályzat) előírásainak kiegészítését tartalmazza a veszélyes áruk belföldi vasúti fuvarozására vonatkozóan.
+1. § (1)[^1] Az 1. melléklet a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 179/2017. (VII. 5.) Korm. rendelet 4. §-ának megfelelően, annak 2. mellékletének (a továbbiakban: RID Szabályzat) részletes szabályait és kiegészítéseit tartalmazza a veszélyes áruk belföldi vasúti fuvarozására vonatkozóan.
 
 (2) E rendelet hatálya nem terjed ki
 
@@ -10,4 +10,4 @@ b) a teljes egészében egy körülzárt terület határán belül végzett szá
 
 1. vasúti kocsi: saját hajtással nem rendelkező, a saját kerekein vasúti vágányon futó, áruszállításra használt vasúti jármű.
 
-[^1]: Az 1. § (1) bekezdése az 53/2015. (IX. 18.) NFM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 28/2017. (VII. 5.) NFM rendelet 1. §-ával megállapított szöveg.
