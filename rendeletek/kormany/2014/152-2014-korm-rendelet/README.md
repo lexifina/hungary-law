@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-152-20-
 | 2017-04-29 | 2014-152-20-22.39 | 101/2017. (IV. 28.) Korm. rendelet |
 | 2017-05-11 | 2014-152-20-22.40 | 114/2017. (V. 10.) Korm. rendelet |
 | 2017-07-01 | 2014-152-20-22.41 | 167/2014. (VII. 17.) Korm. rendelet |
+| 2017-07-06 | 2014-152-20-22.42 | 182/2017. (VII. 5.) Korm. rendelet |

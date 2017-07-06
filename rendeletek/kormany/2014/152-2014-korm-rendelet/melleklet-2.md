@@ -168,16 +168,10 @@
 
 |  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-|  | 2 |  |  |
+|  | 2 | Magyar Bányászati és Földtani Szolgálat | irányítás |
 
-|  | 3 |  |  |
+|  | 3 | Országos Atomenergia Hivatal | felügyelet |
 
-|  | 4 | Magyar Bányászati és Földtani Szolgálat | irányítás |
-
-|  | 5 |  |  |
-
-|  | 6 |  |  |
-
-|  | 7 | Országos Atomenergia Hivatal | felügyelet |
+|  | 4 | Szerencsejáték Felügyelet | irányítás |
 
 2. melléklet a 152/2014. (VI. 6.) Korm. rendelethez
