@@ -1,0 +1,9 @@
+# 26/2017. (VII. 5.) NFM rendelet
+
+a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat belföldi alkalmazásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-26-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-07-06 | 2017-26-20-2W.1 | 26/2017. (VII. 5.) NFM rendelet |
