@@ -104,4 +104,6 @@ Határidő: a finanszírozási modell előterjesztése tekintetében 2018. febru
 
 a központi költségvetés tervezése tekintetében a 2019. évi költségvetés tervezésétől kezdődően
 
-11. visszavonja a központosított kormányzati infokommunikációs szolgáltatások továbbfejlesztéséhez szükséges egyes feladatokról szóló 1717/2013. (X. 9.) Korm. határozatot.
+11.[^1]
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
