@@ -1,4 +1,4 @@
-2. § (1) Az állami adóhatóság a felelős játékszervezés elvének megfelelő szervezői eljárás és a játékosok védelme érdekében honlapján közzéteszi és ügyfélszolgálatain a játékosok részére nyomtatott formában folyamatosan elérhetővé teszi:
+2. § (1)[^1] A szerencsejáték-felügyeleti hatóság a felelős játékszervezés elvének megfelelő szervezői eljárás és a játékosok védelme érdekében honlapján közzéteszi és ügyfélszolgálatain a játékosok részére nyomtatott formában folyamatosan elérhetővé teszi:
 
 a) a kóros játékszenvedéllyel élő személyek pszichiátriai ellátását biztosító szolgáltatók elnevezését és elérhetőségi adatait megyénként és településenként,
 
@@ -20,6 +20,9 @@ i) a játékosvédelmi nyilvántartással kapcsolatos adatvédelmi tájékoztat�
 
 j) az ajánlott felelős játékszervezői minősítéssel rendelkező szervezők 22. § (3) bekezdése szerinti adatait.
 
-(2) Az államháztartásért felelős miniszter az (1) bekezdés a) és b) pontja szerinti tájékoztatást az egészségügyért, valamint szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés c) pontja szerinti tájékoztatást az egészségügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés d) pontja szerinti tájékoztatást az igazságügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés i) pontja szerinti tájékoztatót a Nemzeti Adatvédelmi és Információszabadság Hatósággal egyetértésben, az (1) bekezdés e)–h) pontja szerinti tájékoztatást saját hatáskörben készíti el és bocsátja az állami adóhatóság rendelkezésére.
+(2)[^2] Az államháztartásért felelős miniszter az (1) bekezdés a) és b) pontja szerinti tájékoztatást az egészségügyért, valamint szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés c) pontja szerinti tájékoztatást az egészségügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés d) pontja szerinti tájékoztatást az igazságügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés i) pontja szerinti tájékoztatót a Nemzeti Adatvédelmi és Információszabadság Hatósággal egyetértésben, az (1) bekezdés e)–h) pontja szerinti tájékoztatást saját hatáskörben készíti el és bocsátja a szerencsejáték-felügyeleti hatóság rendelkezésére.
 
 (3) Az (1) bekezdés a)–i) pontja szerinti tájékoztatók tartalmát a közzétételt követően félévente felül kell vizsgálni.
+
+[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.

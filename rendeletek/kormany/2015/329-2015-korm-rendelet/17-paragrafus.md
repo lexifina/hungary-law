@@ -4,4 +4,6 @@
 
 (3) A szervező az önkorlátozó, önkizáró nyilatkozat átvételével egyidejűleg a 3. § szerinti tájékoztató nyomtatott változatát átadja.
 
-(4) A szervező a 14–16. § szerinti önkorlátozó intézkedésekről, azok számáról, időtartamáról, az intézkedések feloldásáról nyilvántartást vezet, melyről az állami adóhatóság részére havi gyakorisággal, a tárgyhónapot követő hónap 20. napjáig elektronikus úton adatszolgáltatást teljesít.
+(4)[^13] A szervező a 14–16. § szerinti önkorlátozó intézkedésekről, azok számáról, időtartamáról, az intézkedések feloldásáról nyilvántartást vezet, melyről a szerencsejáték-felügyeleti hatóság részére havi gyakorisággal, a tárgyhónapot követő hónap 20. napjáig elektronikus úton adatszolgáltatást teljesít.
+
+[^13]: A 17. § (4) bekezdése a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
