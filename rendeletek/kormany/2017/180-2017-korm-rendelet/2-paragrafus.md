@@ -1,0 +1,1 @@
+## 1. § A nemzetbiztonsági szolgálatok az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 37. § (4) bekezdésben foglaltak alapján – tevékenységükhöz kapcsolódóan – az 1. melléklet szerinti közzétételi listában meghatározott adatokat közzéteszik.
