@@ -1,0 +1,3 @@
+## 1. § A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló 61/2013. (X. 17.) NFM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az 1. melléklet a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 178/2017. (VII. 5.) Korm. rendelet 4. §-ának megfelelően, annak 2. mellékletének (a továbbiakban: ADR Szabályzat) részletes szabályait és kiegészítéseit tartalmazza a veszélyes áruk közúti járművel végzett belföldi szállítására vonatkozóan.”
