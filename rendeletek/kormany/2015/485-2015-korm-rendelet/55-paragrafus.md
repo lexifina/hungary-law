@@ -1,5 +1,3 @@
-## 21. Szerencsejáték üggyel kapcsolatos különös illetékesség
+## 21.[^47]
 
-55. § (1) A szerencsejáték ügyben, valamint a játékautomata és ajándéksorsolás kapcsán kiszabott bírság, továbbá a szerencsejáték felügyeleti díj és annak késedelmi pótléka végrehajtását a fizetésre kötelezett adóügyeiben eljáró megyei igazgatóság folytatja le.
-
-(2) A szerencsejáték ügyben elkobzott dolog értékesítése, illetve megsemmisítése érdekében az elkobzott dolog helye szerinti megyei igazgatóság intézkedik.
+[^47]: A 21. alcímet (55–56. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.

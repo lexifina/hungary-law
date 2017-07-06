@@ -8,7 +8,7 @@
 
 a) az Európai Unió tagállamaiban kötelező érvénnyel bíró tarifális és származási felvilágosítás (KTF és KSZF) határozatokat ad ki;
 
-b)[^74] a jövedéki termékre és az abból előállított termékre kötelező érvényű KN-kód besorolás határozatot ad ki;
+b)[^76] a jövedéki termékre és az abból előállított termékre kötelező érvényű KN-kód besorolás határozatot ad ki;
 
 c) külön jogszabályban meghatározott esetekben a NAV szervek, illetve más hatóság kirendelésére igazságügyi szakértőként jár el;
 
@@ -24,4 +24,4 @@ h) a NAV szervek, illetve más hatóság kirendelésére a jövedéki termékekb
 
 i) a feladatok ellátása érdekében alkalmazott kutatás-fejlesztési tevékenységet lát el.
 
-[^74]: A 91. § b) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.
+[^76]: A 91. § b) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.
