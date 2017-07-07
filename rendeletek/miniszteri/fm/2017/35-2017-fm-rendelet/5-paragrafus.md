@@ -1,0 +1,3 @@
+## 4. § A 27/2011. (IV. 12.) VM rendelet 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A szőlőmust, valamint a szabad forgalomba bocsátott szőlőbor szállítása esetében az értékesítésről kiállított számla borkísérő okmánynak minősül, amennyiben az 1. mellékletben meghatározottak szerint az eladóra és vevőre vonatkozó adatokat, a kiadás helyét, a rendeltetés helyét, a szállítmányozó nevét – ha az eltér a vevőre és az eladóra vonatkozó adatoktól –, a forgalombahozatali engedély szerinti termékmegnevezést, a termék űrtartalmát, darabszámát tartalmazza. A kisüzemi bortermelő esetén az 1. melléklet szerinti eladóra, illetve vevőre vonatkozó adatok közül az engedélyszámhoz a kisüzemi bortermelő borászati üzemengedélyének számát kell feltüntetni.”

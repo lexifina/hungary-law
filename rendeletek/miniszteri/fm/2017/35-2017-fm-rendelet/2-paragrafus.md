@@ -1,0 +1,3 @@
+## 1. § A szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet [a továbbiakban: 127/2009. (IX. 29.) FVM rendelet] III. Fejezete a következő 21/A. §-sal egészül ki:
+
+## „21/A. § A Jöt. 3. § (3) bekezdés 16. pontja szerinti kisüzemi bortermelő esetében e rendelet 8/A. számú mellékletében, a 10. számú mellékletében, valamint a 11. számú mellékletében szereplő, a „borászati termék tárolási helye (adóraktár száma)” mező vonatkozásában a kisüzemi bortermelő borászati üzemengedélyének számát kell feltüntetni.”
