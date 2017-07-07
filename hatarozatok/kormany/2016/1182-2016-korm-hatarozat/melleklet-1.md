@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 1933,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 1933,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,13 +10,13 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere, a nemzetpolitikáért felelős miniszterelnök-helyettes a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a Nemzeti Örökség Intézete cím javára biztosított 150,0 millió forint és a Versenysport támogatása előirányzat javára biztosított 319,6 millió forint tekintetében 2017. december 31., a Miniszterelnökség cím javára biztosított 613,9 millió forint tekintetében 2018. június 30.
 
-## 2–9.[^1]
+## 2–9.[^2]
 
 ## 10. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 263 100 ezer forintból 57 903 ezer forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 11–12.[^2]
+## 11–12.[^3]
 
 ## 13. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1100/2016. (III. 1.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 2. Államháztartáson kívüli szervezetek támogatása alcím, 7. Határmenti gazdaságfejlesztési programok jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 150,0 millió forintból 27,0 millió forint a K1. Személyi juttatások kiemelt előirányzat, 7,3 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 5,7 millió forint a K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -162,5 +162,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 11–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1447/2017. (VII. 7.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
