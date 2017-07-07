@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-40-20-0
 | 2016-08-05 | 2006-40-20-0L.10 | 33/2016. (VIII. 2.) NFM rendelet |
 | 2016-11-18 | 2006-40-20-0L.11 | 56/2012. (IX. 18.) NFM rendelet |
 | 2017-01-03 | 2006-40-20-0L.12 | 56/2012. (IX. 18.) NFM rendelet |
+| 2017-07-07 | 2006-40-20-0L.13 | 414/2020. (VIII. 30.) Korm. rendelet |
