@@ -1,8 +1,8 @@
 ## 3. Az Egyetem katonai képzést folytató karára történő felvétel különös feltételei
 
-11. § (1)[^30] A katonai vezetői alapképzési szak nappali munkarendű, nem önköltséges képzésére a jelentkezési feltétel az angol nyelvből tett államilag elismert vagy azzal egyenértékű B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga. A szakra csak egészségügyi, pszichikai és fizikai alkalmassági vizsgálati „megfelelt” eredménnyel lehet felvételt nyerni. A szemüveg (kontaktlencse) viselése, valamint a „korlátozottan alkalmas” minősítés kizáró ok.
+11. § (1)[^30] A katonai vezetői alapképzési szak nappali munkarendű képzésére a jelentkezési feltétel az angol nyelvből tett államilag elismert vagy azzal egyenértékű B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga. A szakra csak „megfelelt” eredményű alkalmassági vizsga letételével lehet felvételt nyerni. A szemüveg (kontaktlencse) viselése, valamint a „korlátozottan alkalmas” minősítés kizáró ok.
 
-(2)[^31] A katonai üzemeltetési és katonai logisztikai alapképzési szak nappali munkarendű, nem önköltséges képzésére jelentkezési feltétel az angol nyelvből tett államilag elismert B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga vagy azzal egyenértékű okirat. A szakra csak egészségügyi, pszichikai és fizikai alkalmassági vizsgálati „megfelelt” eredménnyel lehet felvételt nyerni.
+(2)[^31] A katonai üzemeltetés, a katonai logisztika, valamint az állami légiközlekedési alapképzési szakok nappali munkarendű képzésére jelentkezési feltétel az angol nyelvből tett államilag elismert B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga vagy azzal egyenértékű okirat. A szakokra csak „megfelelt” eredményű alkalmassági vizsga letételével lehet felvételt nyerni.
 
 (3)[^32] A katonai vezetői, katonai üzemeltetés és a katonai műveleti logisztika mesterképzési szak nappali munkarendjére az állomány azon századosi, illetve őrnagyi rendfokozatú tagja jelentkezhet, aki rendelkezik a Honvéd Vezérkar főnökének előzetes engedélyével, valamint közigazgatási alapvizsgával.
 
@@ -10,7 +10,7 @@
 
 (5)[^33]
 
-[^30]: A 11. § (1) bekezdése az 5/2014. (I. 27.) KIM rendelet 7. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^31]: A 11. § (2) bekezdése az 5/2014. (I. 27.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^30]: A 11. § (1) bekezdése a 19/2017. (VI. 29.) MvM rendelet 1. §-ával megállapított szöveg.
+[^31]: A 11. § (2) bekezdése a 19/2017. (VI. 29.) MvM rendelet 1. §-ával megállapított szöveg.
 [^32]: A 11. § (3) bekezdése a 6/2015. (II. 10.) MvM rendelet 2. §-ával megállapított szöveg.
 [^33]: A 11. § (5) bekezdését az 5/2014. (I. 27.) KIM rendelet 3. § (3) bekezdése iktatta be, a 2/2016. (I. 7.) MvM rendelet 10. § a) pontja hatályon kívül helyezte.
