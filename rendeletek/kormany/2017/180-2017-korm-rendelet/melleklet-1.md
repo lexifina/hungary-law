@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok által közzéteendő adatok köréről szóló 7/2005. (XII. 28.) MeHVM rendelet.
+## 3–4. §[^1]
 
 1. melléklet a 180/2017. (VII. 5.) Korm. rendelethez
 
@@ -45,3 +45,5 @@ III. Gazdálkodási adatok
 | 1. | Adat | Frissítés | Megőrzés |
 
 | 2. | A költségvetési törvényben szereplő, az adott nemzetbiztonsági szolgálatra vonatkozó költségvetési cím alatt található adatok | A változásokat követően azonnal | A külön jogszabályban meghatározott ideig, de legalább 10 évig archívumban tartásával |
+
+[^1]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
