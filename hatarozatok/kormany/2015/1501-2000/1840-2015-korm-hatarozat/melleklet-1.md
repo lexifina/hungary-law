@@ -42,7 +42,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2018. június 30.
 
 ## d)[^4] a Nyári Nemzetközi Akadémia és Fesztivál megrendezésének biztosításához 60,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 4. Művészeti tevékenységek és egyéb fejezeti feladatok támogatása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
 
@@ -124,5 +124,5 @@
 
 [^1]: A 2. pont a) alpontja az 1245/2016. (V. 18.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
 [^2]: A 2. pont b) alpontja az 1245/2016. (V. 18.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^3]: A 2. pont c) alpontja az 1245/2016. (V. 18.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^3]: A 2. pont c) alpontja az 1447/2017. (VII. 7.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^4]: A 2. pont d) alpontja az 1245/2016. (V. 18.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
