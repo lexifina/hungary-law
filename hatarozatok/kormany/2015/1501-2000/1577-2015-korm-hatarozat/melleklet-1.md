@@ -14,7 +14,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2017. június 30.[^1]
+## Határidő: 2018. június 30.[^1]
 
 1. melléklet az 1577/2015. (IX. 4.) Korm. határozathoz
 
@@ -84,4 +84,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1349/2016. (VII. 6.) Korm. határozat szerint módosított szöveg.
+[^1]: A határozat az 1447/2017. (VII. 7.) Korm. határozat 5. pontja szerint módosított szöveg.
