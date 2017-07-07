@@ -1,6 +1,6 @@
-7. § (1)[^21] Az üzemi szintű hozamérték-csökkenés összegét és mértékét a 3. melléklet szerinti számítási módszer alapján úgy kell meghatározni, hogy a tárgyévben negatív előjelű hozamérték-csökkenést produkáló növénykultúrák hozamérték-csökkenésre vonatkozó adatait az üzemi szintű összesítés során nullás értékkel kell figyelembe venni. A tárgyévben pozitív előjelű hozamérték-csökkenést produkáló növénykultúrák hozamérték-csökkenésre vonatkozó adatait az üzemi szintű összesítés során minden esetben figyelembe kell venni, függetlenül attól, hogy a hozamérték-csökkenést az Mkk. tv. 2. § 7. pontja szerinti elemi káresemény vagy egyéb körülmény okozta.
+7. § (1)[^23] Üzemi szinten az elemi káreseménnyel érintett növénykultúra (a továbbiakban: károsodott növénykultúra) vonatkozásában a hozamérték-csökkenésnek az összegét és annak Mkk. tv. 11. § (1) bekezdés d) pont szerinti mértékét a 3. melléklet szerint kell meghatározni, amely során kizárólag olyan hozamcsökkenés vehető figyelembe, amelyet az Mkk. tv. 2. § 7. pontjában meghatározott elemi káresemény okozott.
 
-(2)[^22] A hozamcsökkenés egyes növénykultúrákra vonatkozó mértékének kiszámításánál kizárólag olyan hozamcsökkenés vehető figyelembe, amelyet az Mkk. tv. 2. § 21. pontjában meghatározott mezőgazdasági káresemény okozott.
+(2)[^24] A hozamcsökkenés egyes növénykultúrákra vonatkozó mértékének kiszámításánál kizárólag olyan hozamcsökkenés vehető figyelembe, amelyet az Mkk. tv. 2. § 21. pontjában meghatározott mezőgazdasági káresemény okozott.
 
 (3) A hozamcsökkenés és hozamérték-csökkenés megállapítása során a növénykultúra Mkk. tv. 2. § 21. pontjában meghatározott mezőgazdasági káreseménnyel érintett azon tárgyévi területét, amelyen a mezőgazdasági káresemény bekövetkezését az agrárkár-megállapító szerv az Mkk. tv. 14. § (1) bekezdése szerint igazolta, továbbá a növénykultúra egyéb tárgyévi területét a kárenyhítő juttatás iránti kérelemben külön sorban kell feltüntetni.
 
@@ -12,11 +12,12 @@ aa) a tárgyévi hozam feltüntetésével kell szerepeltetni, ha a tárgyévi ho
 
 ab) a referenciahozam 85%-ának feltüntetésével kell szerepeltetni, ha a tárgyévi hozam kisebb, vagy egyenlő, mint a mezőgazdasági termelő referenciahozamának 85%-a;
 
-b) egyéb káresemény esetén
+b)[^25] egyéb káresemény, valamint az Mkk. tv. 14. § (1) bekezdés szerinti igazolással, vagy mezőgazdasági káreseménnyel nem érintett tárgyévi területen termesztett növénykultúrák esetén
 
 ba) a tárgyévi hozam feltüntetésével kell szerepeltetni, ha a tárgyévi hozam nagyobb, mint a mezőgazdasági termelő referenciahozama,
 
 bb) a referenciahozam feltüntetésével kell szerepeltetni, ha a tárgyévi hozam kisebb, vagy egyenlő, mint a mezőgazdasági termelő referenciahozama.
 
-[^21]: A 7. § (1) bekezdése a 65/2016. (IX. 21.) FM rendelet 14. §-ával megállapított szöveg.
-[^22]: A 7. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 14. §-ával megállapított szöveg.
+[^23]: A 7. § (1) bekezdése a 35/2017. (VII. 6.) FM rendelet 12. §-ával megállapított szöveg.
+[^24]: A 7. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 14. §-ával megállapított szöveg.
+[^25]: A 7. § (4) bekezdés b) pont nyitó szövegrésze a 35/2017. (VII. 6.) FM rendelet 17. § e) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^38]
+4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^45]
 
 | Jóváhagyta: ............................. miniszter Kifizetési terv (20... . február … -i állapot szerint, forintban) Keltezés: … . |
 
@@ -34,7 +34,7 @@
 
 | 2.5. | A kifizetési terv elkészítésének időpontjáig lezárult, az adott kárenyhítési évet megelőző kárenyhítési évek jogorvoslati eljárásainak kifizetett összege, valamint egyéb áthúzódó kifizetéseinek összege a tárgyévet követő év január 1-től a kifizetési terv elkészítésének időpontjáig [Mkk. tv. 15. § (4) bekezdés a) és b) pont] |  |
 
-| 2.6. | Működési és fejlesztési célokra a miniszter által, a tárgyévet követő évben jóváhagyott összeg [a termelői befizetések és az állami hozzájárulás összegének max. 4%-a, Mkk. tv. 7. § (6) bekezdés] |  |
+| 2.6. | Működési és fejlesztési célokra a miniszter által a tárgyévet követő évben jóváhagyott összeg [a termelői befizetések és az állami hozzájárulás összegének legfeljebb 4%-a, Mkk. tv. 7. § (6) bekezdés], valamint a tárgyévben és az azt megelőző években jóváhagyott keretből ki nem fizetett összeg |  |
 
 | 2.7. | A kifizetési terv elkészítésének időpontjáig le nem zárult és ki nem fizetett, az adott kárenyhítési évet megelőző kárenyhítési évek jogorvoslati eljárásaiban és egyéb folyamatban lévő eljárásaiban foglalt tételek összege |  |
 
@@ -112,4 +112,4 @@
 
 **** A kifizetéssel érintett területek nagyságát az egyes növénycsoportok szerinti bontásban a kérelmen belüli arányosítással kell kimutatni.
 
-[^38]: A 4. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 72. § d) pontja szerint módosított szöveg.
+[^45]: A 4. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 72. § d) pontja, a 35/2017. (VII. 6.) FM rendelet 17. § i) pontja szerint módosított szöveg.
