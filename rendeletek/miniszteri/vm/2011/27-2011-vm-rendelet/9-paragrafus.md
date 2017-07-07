@@ -8,6 +8,6 @@
 
 (4) A szüretelt és vásárolt szőlőt hetente, legkésőbb a hét utolsó napját követő első munkanapon kell a szőlőpincekönyvbe bevezetni.
 
-(5)[^13] A szőlőfelvásárló a telephelyén, a mustelőállító az előállítás helyén köteles tartani a szőlőpincekönyvet és a szőlőbor-pincekönyvet.
+(5)[^17] A szőlőfelvásárló a telephelyén, a mustelőállító az előállítás helyén köteles tartani a szőlőpincekönyvet és a szőlőbor-pincekönyvet.
 
-[^13]: A 9. § (5) bekezdése a 14/2013. (III. 7.) VM rendelet 7. §-ával megállapított szöveg.
+[^17]: A 9. § (5) bekezdése a 14/2013. (III. 7.) VM rendelet 7. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 10. § (1) A szőlőbor-pincekönyv Betárolt szőlő nyilvántartó lapjára a feldolgozásra betárolt saját termésű és vásárolt szőlő mennyiségét termékmegnevezésenként, termőhelyenként, szőlőfajtánként, potenciális alkoholtartalom szerint, hetente, legkésőbb a hét utolsó napját követő első munkanapon kell bevezetni, és a mustelőállítónak a szőlő-pincekönyvéből azonos szőlőfajtán és termékkategórián belül átlag potenciális alkoholtartalomra összevontan hetente, legkésőbb a hét utolsó napját követő első munkanapon kell bevezetnie a szőlőbor-pincekönyvbe. A szőlő származási bizonyítvány számát a Betárolt szőlő nyilvántartó lapra legkésőbb a tárgyév december 15-ig, vagy ezen időpontot követő kiadás esetén a kiadást követő 3 munkanapon belül kell bejegyezni.
 
-(2)[^14] A szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapját a betárolt, valamint az előállításra kerülő termékenként, a termék forgalomba hozatala esetén használható megnevezésével kell vezetni. A forgalomba hozatali engedéllyel rendelkező borokat a forgalomba hozatali engedélyszám feltüntetésével tételenként külön lapon kell vezetni. A nyilvántartásnak egyeznie kell a származási bizonyítvánnyal és a forgalomba hozatali engedéllyel igazolt tételekkel és adatokkal.
+(2)[^18] A szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapját a betárolt, valamint az előállításra kerülő termékenként, a termék forgalomba hozatala esetén használható megnevezésével kell vezetni. A forgalomba hozatali engedéllyel rendelkező borokat a forgalomba hozatali engedélyszám feltüntetésével tételenként külön lapon kell vezetni. A nyilvántartásnak egyeznie kell a származási bizonyítvánnyal és a forgalomba hozatali engedéllyel igazolt tételekkel és adatokkal.
 
 (3) A szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapon
 
@@ -22,4 +22,4 @@ f) a termék-előállításhoz betárolt szőlőbor mennyiségét hetente, legk�
 
 (5) A (4) bekezdésben felsorolt műveletekhez felhasznált anyagokat a szőlőbor-pincekönyv Kiegészítő és adalékanyagok nyilvántartó lapon is szerepeltetni kell.
 
-[^14]: A 10. § (2) bekezdése a 14/2013. (III. 7.) VM rendelet 15. § a) pontja szerint módosított szöveg.
+[^18]: A 10. § (2) bekezdése a 14/2013. (III. 7.) VM rendelet 15. § a) pontja szerint módosított szöveg.
