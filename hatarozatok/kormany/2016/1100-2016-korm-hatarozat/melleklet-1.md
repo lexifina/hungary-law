@@ -10,7 +10,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2017. január 31., a Demokrácia Központ Közalapítvány – Tom Lantos Intézet támogatása előirányzat javára átcsoportosított 80,0 millió forint tekintetében 2017. június 30.
+## Határidő: 2017. január 31., a Demokrácia Központ Közalapítvány – Tom Lantos Intézet támogatása előirányzat javára átcsoportosított 80,0 millió forint tekintetében 2018. június 30.
 
 ## 2. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. §-ában biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással nem terhelt költségvetési maradványokból a XVIII. Külgazdasági és Külügyminisztérium fejezetnél keletkezett 445 878 ezer forint változatlan célú felhasználását.
 
@@ -88,4 +88,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1256/2016. (VI. 6.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1256/2016. (VI. 6.) Korm. határozat 6. pontja, az 1447/2017. (VII. 7.) Korm. határozat 8. pontja szerint módosított szöveg.
