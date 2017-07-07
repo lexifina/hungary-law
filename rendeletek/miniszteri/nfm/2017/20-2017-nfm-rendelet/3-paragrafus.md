@@ -1,0 +1,1 @@
+## „(4) Ha a közlekedési hatóság a 9. § (3) bekezdés b) pontja alapján a vasúti járművezetői engedélyt visszavonja, erről a tanúsítványt kiállítót és a foglalkoztató vasúti társaságot értesíti, a tanúsítványt a kiállító, valamint a foglalkoztató vasúti társaság visszavonja, és intézkedik ennek a 17. § (1) bekezdése szerinti nyilvántartásokban történő átvezetéséről.”

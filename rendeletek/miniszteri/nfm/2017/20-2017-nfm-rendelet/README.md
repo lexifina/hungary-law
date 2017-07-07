@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-20-20-2
 | --- | --- | --- |
 | 2017-06-25 | 2017-20-20-2W.1 | 20/2017. (VI. 22.) NFM rendelet |
 | 2017-06-26 | 2017-20-20-2W.2 | 2010: CXXX. törvény |
+| 2017-07-07 | 2017-20-20-2W.3 | 2010: CXXX. törvény |

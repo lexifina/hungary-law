@@ -1,0 +1,3 @@
+## 12. § Az R4. 34. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha a bíróság a munkavállalót a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalóként a foglalkozása körében elkövetett bűncselekménye miatt 2 évet meghaladó időtartamú letöltendő szabadságvesztésre ítélte, vagy foglalkozástól, valamint a vasúti jármű vezetésétől 2 évet meghaladó időtartamra eltiltotta, a munkavállalónak alapképzésben kell részt vennie, és új alapvizsgát kell tennie. Ebben az esetben alapképzés alól mentesség nem adható. Új hatósági igazolás csak a sikeres vizsgát követően állítható ki.”
