@@ -16,7 +16,7 @@
 
 ## Határidő: 2018. évben a felmerülés ütemében
 
-## 2. A tárgyéven túli kötelezettségvállalás jóváhagyásáról és a 2016. évi költségvetési maradványok egy részének felhasználásáról szóló 1132/2017. (III. 20.) Korm. határozat 1. pontjában a „nettó 12 000,0” szövegrész helyébe a „15 500,0” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1445/2017. (VII. 6.) Korm. határozathoz
 
@@ -113,3 +113,5 @@
 |  |  | 1 |  |  |  |  |  | Központi hivatali szerv |  |  |  |
 
 |  |  |  |  |  | B1 |  |  |  |  |  | Működési célú támogatások államháztartáson belülről | 45 000 000 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
