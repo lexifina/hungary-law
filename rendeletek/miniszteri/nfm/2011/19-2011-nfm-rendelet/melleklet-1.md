@@ -1,4 +1,4 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^127]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^140]
 
 ## A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
@@ -17,6 +17,8 @@ I. Országos jelentőségű vasútvonalak, térségi és saját célú vasúti p
 | 4. | Forgalmi üzemmérnök |
 
 | 5. | Forgalmi technológus |
+
+| 5/A. | Forgalmi technológiai szakelőadó |
 
 | 6. | Térfőnök |
 
@@ -72,6 +74,8 @@ I. Országos jelentőségű vasútvonalak, térségi és saját célú vasúti p
 
 | 31. | Fékező, vonatfékező |
 
+| 31/A. | Vontatási telepi rendező | A tolatásvezető irányítása alatt a tolatásban részt vevő, kocsirendezői feladatok (járműkapcsoló-, mozgató-, megállító stb.) ellátása vontatási telepen.” |
+
 | 32. | Vezető váltókezelő | A helyszíni, vagy központi állítású, valamint gurítódombi berendezéshez tartozó váltók állítása, ellenőrzése, őrzése, továbbá a helyi viszonyoktól függően esetleg gondozása, egyes helyeken a helyhez kötött jelzők kezelése, szükség esetén sorompókezelés és a vonatok mozdonyvezetőinek indításra történő felhatalmazása megbízással. |
 
 | 33. | Váltókezelő (Gyermekvasúti vezető váltókezelő) |
@@ -94,7 +98,7 @@ I. Országos jelentőségű vasútvonalak, térségi és saját célú vasúti p
 
 | Távközlő, erősáramú és biztosítóberendezések fenntartásával összefüggő munkakörök |
 
-| 40. | TEB vezetőmérnök | A vasúti pálya - felső-vezeték, biztosító-berendezés, távközlő-berendezés - műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések, felső vezetékek felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
+| 40. | TEB vezetőmérnök | A vasúti pálya - felső-vezeték, biztosító-berendezés, távközlő-berendezés - műszaki állapotának vasúti pályán történő előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések, felső vezetékek felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
 
 | 41. | TEB szakaszmérnök |
 
@@ -330,7 +334,7 @@ II. Elővárosi, helyi és városi vasúti pályahálózat
 
 | 22. | Távközlőmester, műszerész | A távközlő-berendezés műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. |
 
-| 23. | Távközlő diszpécser |
+| 23. |  |  |
 
 | 24. | Energiadiszpécser | A forgalom és feszültség alattinak tekintendő pályán keletkezett – forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
@@ -338,15 +342,17 @@ II. Elővárosi, helyi és városi vasúti pályahálózat
 
 | 26. | Elektrikus | Pályán keletkezett – forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a pályán telepített villamos berendezések hibáinak közvetlen feltárása, ideiglenes, vagy végleges javítása, szakfelügyelet adása. |
 
-| 27. | Blokkmester (beosztott blokkmester) | A vasúti biztosító-berendezés műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
+| 26/A. | Felsővezeték szerelő | Pályán keletkezett – forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a pályán telepített villamos berendezések hibáinak közvetlen feltárása, ideiglenes vagy végleges javítása, szakfelügyelete adása. |
 
-| 28. | Biztosító berendezési művezető |
+| 27. |  |  |
+
+| 28. | Biztosító berendezési művezető | A vasúti biztosító-berendezés műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
 
 | 29. | Biztosító berendezési műszerész |
 
 | 30. | Biztosító berendezési lakatos |
 
-| 31. | Biztosítóberendezési diszpécser |
+| 31. |  |  |
 
 | Vasúti pálya fenntartásával összefüggő munkakörök |
 
@@ -844,4 +850,4 @@ III.
 
 IV. Valamennyi pályahálózat
 
-[^127]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés a) pontja és 40. § d) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (1) bekezdése és 33. § d) pontja, a 46/2016. (XI. 17.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^140]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés a) pontja és 40. § d) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (1) bekezdése és 33. § d) pontja, a 46/2016. (XI. 17.) NFM rendelet 5. §-a, a 20/2017. (VI. 22.) NFM rendelet 14. § (1) bekezdése, 16. § a) pontja szerint módosított szöveg.

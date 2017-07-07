@@ -16,7 +16,7 @@
 
 7. vizsgabizottság: a vasúti vizsgaközpont által kijelölt vizsgabiztosokból álló testület;
 
-8.[^2] vizsgabiztos: a vasúti közlekedési hatóság (a továbbiakban: hatóság) által névjegyzékbe vett, a vasúti vizsgaközpont által kijelölt vizsgáztató, aki az alap- és időszakos vizsgáztatást végzi;
+8.[^2] vizsgabiztos: a vasúti közlekedési hatóság (a továbbiakban: hatóság) által névjegyzékbe vett, a vasúti vizsgaközpont által vizsgáztatásra kijelölt hatósági személy, aki az alap- és időszakos vizsgáztatást végzi;
 
 9.[^3] felügyelet alatti munkavégzés: a kiképzett vagy kiképzés alatt álló munkavállalónak az önálló munkavégzésre történő beosztása előtt az erre kijelölt, gyakorlati oktatást végző vasútszakmai oktató felügyeletében történő foglalkoztatása, amelynek célja a képzés során szerzett ismeretek, valamint a helyi ismeretek készségszintű elsajátítása;
 
@@ -30,10 +30,14 @@
 
 14.[^8] gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
-15.[^9] képzési központ: az alapképzés végzésére jogosult olyan szervezet, amelynek a hatóság a tanfolyamok szervezésére vonatkozó bejelentését tudomásul vette.
+15.[^9] képzési központ: az alapképzés végzésére jogosult olyan szervezet, amelynek a hatóság a tanfolyamok szervezésére vonatkozó bejelentését tudomásul vette;
+
+16.[^10] kiegészítő alapképzés: a sikertelen alapvizsgát követően a rendeletben meghatározott vizsgával záruló képzés, amelyre az alapképzésre vonatkozó rendelkezéseket kell alkalmazni;
+
+17.[^11] részalapvizsga: az alapképzésen belüli közbenső vizsga.
 
 [^1]: A 2. § 3. pontja a 10/2012. (II. 15.) NFM rendelet 1. § (1) bekezdésével megállapított, a 33/2016. (VIII. 2.) NFM rendelet 33. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 8. pontja a 22/2015. (V. 6.) NFM rendelet 39. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 8. pontja a 22/2015. (V. 6.) NFM rendelet 39. § a) pontja, a 20/2017. (VI. 22.) NFM rendelet 15. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 9. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^4]: A 2. § 10. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^5]: A 2. § 11. pontját az 5/2013. (II. 12.) NFM rendelet 1. §-a iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 32. § a) pontja szerint módosított szöveg.
@@ -41,3 +45,5 @@
 [^7]: A 2. § 13. pontját a 22/2015. (V. 6.) NFM rendelet 8. §-a iktatta be.
 [^8]: A 2. § 14. pontját a 22/2015. (V. 6.) NFM rendelet 8. §-a iktatta be.
 [^9]: A 2. § 15. pontját a 22/2015. (V. 6.) NFM rendelet 8. §-a iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 32. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § 16. pontját a 20/2017. (VI. 22.) NFM rendelet 7. §-a iktatta be.
+[^11]: A 2. § 17. pontját a 20/2017. (VI. 22.) NFM rendelet 7. §-a iktatta be.

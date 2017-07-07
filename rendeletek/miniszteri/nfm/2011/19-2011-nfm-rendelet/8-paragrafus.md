@@ -1,6 +1,6 @@
 ## 7. A vasútszakmai oktatók
 
-8. §[^21] (1) Az oktatói névjegyzékbe való felvételét az kérheti, aki
+8. §[^23] (1) Az oktatói névjegyzékbe való felvételét az kérheti, aki
 
 a) egy évnél nem régebbi vasútszakmai oktatói vizsgával,
 
@@ -16,13 +16,13 @@ d) legalább 3 év vasútforgalmi, vagy a képzés tartalmának megfelelő szakm
 
 a) a csak gyakorlati képzést végző oktató érettségi végzettséggel,
 
-b)[^22] a saját célú vasúti pályahálózaton, iparvágányon és a keskeny nyomtávú vasúti pályahálózaton csak gyakorlati képzést végző oktató középfokú végzettséggel,
+b)[^24] a saját célú vasúti pályahálózaton, iparvágányon és a keskeny nyomtávú vasúti pályahálózaton csak gyakorlati képzést végző oktató középfokú végzettséggel,
 
-c)[^23] a saját célú vasúti pályahálózaton, iparvágányon és a keskeny nyomtávú vasúti pályahálózaton elméleti képzést végző oktató érettségi végzettséggel
+c)[^25] a saját célú vasúti pályahálózaton, iparvágányon és a keskeny nyomtávú vasúti pályahálózaton elméleti képzést végző oktató érettségi végzettséggel
 
 is kérheti az oktatói nyilvántartásba való felvételét, ha a vasútforgalmi vagy a képzés tartalmának megfelelő szakmai gyakorlata legalább 5 év.
 
-(3) A 3. melléklet „V. Járművezető alapképzés” cím „5. Járművezetői gyakorlat” táblázat „Munkamódszer-átadás” című képzés során az előírt járművezetői kíséretet a munkáltató által külön nyilvántartásba vett, legalább 5 év gyakorlattal rendelkező járművezető láthatja el.
+(3)[^26] A 3. melléklet „V. Járművezető alapképzés” cím „5. Járművezetői gyakorlat” táblázat „Munkamódszer-átadás” című, továbbá a 3. melléklet „VI. Elővárosi vasúti pályahálózat” cím „2. Elővárosi vasúti járművezetői alapképzések” táblázat 10. sor „Munkamódszer átadás” című képzések során az előírt járművezetői kíséretet a munkáltató által külön nyilvántartásba vett, legalább 5 év gyakorlattal rendelkező járművezető láthatja el.
 
 (4) Az alapképzés oktatóit a képzőszervezet a hatósági névjegyzékből választja ki, és bízza meg a képzés elvégzésére. Az oktató a végzettségének, vagy érvényes alapvizsgáinak megfelelő témakörökben oktathat.
 
@@ -32,9 +32,10 @@ a) aki a 9. § (2) bekezdése szerinti képzésen a tárgyév december 31-éig n
 
 b) aki – a vasútszakmai oktatói alapvizsga kivételével – nem rendelkezik érvényes alapvizsgával és a műszaki témakörök oktatására külön végzettséggel nem rendelkezik.
 
-(6)[^24] Vasúti járművezetők esetében a felügyelet alatti vezetési gyakorlatra a 4. § (3) bekezdés c) pontját is alkalmazni kell.
+(6)[^27] Vasúti járművezetők esetében a felügyelet alatti vezetési gyakorlatra a 4. § (3) bekezdés c) pontját is alkalmazni kell.
 
-[^21]: A 8. § a 22/2015. (V. 6.) NFM rendelet 12. §-ával megállapított szöveg.
-[^22]: A 8. § (2) bekezdés b) pontja a 33/2016. (VIII. 2.) NFM rendelet 32. § c) pontja szerint módosított szöveg.
-[^23]: A 8. § (2) bekezdés c) pontja a 33/2016. (VIII. 2.) NFM rendelet 32. § c) pontja szerint módosított szöveg.
-[^24]: A 8. § (6) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 32. § e) pontja szerint módosított szöveg.
+[^23]: A 8. § a 22/2015. (V. 6.) NFM rendelet 12. §-ával megállapított szöveg.
+[^24]: A 8. § (2) bekezdés b) pontja a 33/2016. (VIII. 2.) NFM rendelet 32. § c) pontja szerint módosított szöveg.
+[^25]: A 8. § (2) bekezdés c) pontja a 33/2016. (VIII. 2.) NFM rendelet 32. § c) pontja szerint módosított szöveg.
+[^26]: A 8. § (3) bekezdése a 20/2017. (VI. 22.) NFM rendelet 15. § b) pontja szerint módosított szöveg.
+[^27]: A 8. § (6) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 32. § e) pontja szerint módosított szöveg.

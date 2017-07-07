@@ -1,6 +1,6 @@
 ## 28. Az időszakos vizsga rendje, a sikertelen időszakos vizsga esetében követendő eljárás
 
-31. §[^83] (1) Az időszakos vizsga megkezdése előtt a vizsgázónak a személyazonosságának igazolása érdekében a személyazonosság igazolására alkalmas hatósági igazolványt kell bemutatnia, valamint nyilatkoznia kell arról, hogy nem áll jogerős bírósági ítélettel kiszabott, letöltendő szabadságvesztés, foglalkozástól eltiltás, vagy járművezetéstől eltiltás büntetés hatálya alatt.
+31. §[^89] (1)[^90] Az időszakos vizsga megkezdése előtt a vizsgázónak a személyazonosságának igazolása érdekében a személyazonosság igazolására alkalmas hatósági igazolványt kell bemutatnia, valamint nyilatkoznia kell arról, hogy nem áll jogerős bírósági ítélettel kiszabott, letöltendő szabadságvesztés, foglalkozástól eltiltás, vagy – vasúti járművezető esetén – vasúti járművezetéstől eltiltás büntetés hatálya alatt.
 
 (2) Az időszakos vizsgán résztvevő felfüggesztésére és eltiltására az időszakos vizsgától a 20. § (1) és (2) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
@@ -16,4 +16,5 @@
 
 (8) Nem minősül sikertelennek az a vizsga, amelyről a vizsgázó távol maradt és a távolmaradásának okát a munkáltatója három munkanapon belül a vizsgaközpont felé igazolja.
 
-[^83]: A 31. § a 22/2015. (V. 6.)NFM rendelet 26. §-ával megállapított szöveg.
+[^89]: A 31. § a 22/2015. (V. 6.)NFM rendelet 26. §-ával megállapított szöveg.
+[^90]: A 31. § (1) bekezdése a 20/2017. (VI. 22.) NFM rendelet 15. § e) pontja szerint módosított szöveg.

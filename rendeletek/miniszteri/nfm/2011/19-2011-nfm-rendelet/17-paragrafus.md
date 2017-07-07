@@ -4,12 +4,12 @@
 
 (2) Amennyiben a képzési program szerint a gyakorlati képzés az elméleti résztől elkülönülten történik, az alapvizsgát az elméleti képzés befejezését követő 6 hónapon belül kell megkezdeni.
 
-(3)[^54] A vizsgák előkészítése és lebonyolítása során az adott vizsgára vonatkozó vizsgatételeket, vizsgakérdéseket, vizsgafeladatokat bizalmasan kell kezelni annak érdekében, hogy azok a vizsgát megelőzően ne juthassanak a vizsgázók tudomására.
+(3)[^57] A vizsgák előkészítése és lebonyolítása során az adott vizsgára vonatkozó vizsgatételeket, vizsgakérdéseket, vizsgafeladatokat bizalmasan kell kezelni annak érdekében, hogy azok a vizsgát megelőzően ne juthassanak a vizsgázók tudomására.
 
-(4)[^55] A vizsgák helyéről és idejéről a vizsgaközpont a hatóságot legalább 3 nappal a vizsgát megelőzően értesíti.
+(4)[^58] A vizsgák helyéről és idejéről a vizsgaközpont a hatóságot legalább 3 nappal a vizsgát megelőzően értesíti.
 
-(5)[^56] Nem minősül sikertelennek az a vizsga, amelyről a vizsgázó távol maradt és a távolmaradásának okát a munkáltatója három munkanapon belül a vizsgaközpont felé igazolja.
+(5)[^59] Nem minősül sikertelennek az a vizsga, amelyről a vizsgázó távol maradt és a távolmaradásának okát a munkáltatója három munkanapon belül a vizsgaközpont felé igazolja.
 
-[^54]: A 17. § (3) bekezdését az 5/2013. (II. 12.) NFM rendelet 11. §-a iktatta be.
-[^55]: A 17. § (4) bekezdését az 5/2013. (II. 12.) NFM rendelet 11. §-a iktatta be.
-[^56]: A 17. § (5) bekezdését a 22/2015. (V. 6.) NFM rendelet 17. §-a iktatta be.
+[^57]: A 17. § (3) bekezdését az 5/2013. (II. 12.) NFM rendelet 11. §-a iktatta be.
+[^58]: A 17. § (4) bekezdését az 5/2013. (II. 12.) NFM rendelet 11. §-a iktatta be.
+[^59]: A 17. § (5) bekezdését a 22/2015. (V. 6.) NFM rendelet 17. §-a iktatta be.

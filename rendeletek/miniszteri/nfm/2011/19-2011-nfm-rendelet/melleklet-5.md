@@ -1,4 +1,4 @@
-5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^131]
+5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^144]
 
 ## Okmányok
 
@@ -28,7 +28,7 @@ Tartalmazza:
 
 – a hiányzásokat és azok pótlásának nyilvántartását.
 
-3. A gyakorlati képzés személyi naplója
+3. A gyakorlati képzés személyi naplója (vasúti járművezető vezetési gyakorlat illetve önállósító forgalmi képzés esetén)
 
 Tartalmazza:
 
@@ -60,7 +60,7 @@ III. Az időszakos oktatáshoz tartozó okmányok
 
 1. Oktatási napló
 
-Az oktatott anyagot szakterületenként részletesen, valamint a képzésben résztvevők (a továbbiakban: munkavállalók) névsorát az oktatás megkezdése előtt be kell írni. A munkavállalók – az oktatás befejezése után – aláírásukkal igazolják az oktatáson való részvételüket. Az utolsó aláírást követő sorban az oktató aláírásával záradékolja az oktatási naplót, és feltünteti a megjelentek létszámát. Az oktatási naplót a vasúti társaság 6 évig köteles megőrizni.
+Az oktatott anyagot szakterületenként részletesen, valamint a képzésben részt vevők (a továbbiakban: munkavállalók) névsorát az oktatás megkezdése előtt be kell írni. A munkavállalók – az oktatás befejezése után – aláírásukkal igazolják az oktatáson való részvételüket. Az utolsó aláírást követő sorban az oktató aláírásával záradékolja az oktatási naplót és feltünteti a megjelentek létszámát, valamint kihúzással megjelöli a záradékolás sorát követő üresen maradt sort (sorokat). Az oktatási naplót a vasúti társaság 6 évig köteles megőrizni.
 
 2. Az időszakos oktatások személyi adatlapja
 
@@ -76,4 +76,4 @@ A munkavállaló időszakos vizsgára történő bejelentése.
 
 A vizsgajegyzőkönyv tartalmazza a vizsga megnevezését, a vizsgázó adatait, valamint a vizsgán elért minősítést.
 
-[^131]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 38. § (1) bekezdés d) pontjával megállapított szöveg.
+[^144]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 38. § (1) bekezdés d) pontjával megállapított, a 20/2017. (VI. 22.) NFM rendelet 14. § (3) bekezdése szerint módosított szöveg.

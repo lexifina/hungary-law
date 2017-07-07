@@ -24,6 +24,6 @@
 
 | Járművek üzemeltetésével és fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^129]
+3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^142]
 
-[^129]: A 3. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (2) bekezdésével megállapított, a 33. § e) pontja szerint módosított szöveg.
+[^142]: A 3. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (2) bekezdésével megállapított, a 33. § e) pontja, a 20/2017. (VI. 22.) NFM rendelet 14. § (2) bekezdése, 15. § i)–k) pontja, 16. § b)–h) pontja szerint módosított szöveg.
