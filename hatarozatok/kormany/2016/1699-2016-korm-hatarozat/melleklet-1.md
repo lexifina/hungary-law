@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. december 31.[^1]
 
 1. melléklet az 1699/2016. (XI. 30.) Korm. határozathoz
 
@@ -75,3 +75,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1447/2017. (VII. 7.) Korm. határozat 13. pontja szerint módosított szöveg.
