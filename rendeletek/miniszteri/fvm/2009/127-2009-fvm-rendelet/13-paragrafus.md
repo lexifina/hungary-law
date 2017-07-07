@@ -10,7 +10,7 @@
 
 (3)[^46] A szőlő származási bizonyítványát a 9. számú melléklet szerinti tartalommal kell elkészíteni, és a kérelemtől függően papír alapon vagy elektronikusan kell kiadni. A papír alapon kiadott példányok közül az első, eredeti példány a feldolgozóé. A második példányt abban az esetben kell kiadni a termelő részére, amennyiben az nem azonos a feldolgozóval. A borászati termék nyilvántartáshoz a szőlő származási bizonyítvány másolata is mellékelhető.
 
-(4)[^47] A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 80. § (3) bekezdése szerinti adómentes bor (a továbbiakban: adómentes bor) előállításához szükséges szőlő származási bizonyítvány papír alapon történő kiadása esetén annak csak a második példányát kell kiadni, az első példány a hegybírónál marad. A második példány a vonatkozó adómentességi feltételek teljesülésének és az adómentes bor előállítására felhasznált szőlő igazolására szolgál.
+(4)[^47] A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 133. § (1) bekezdés a)–c) pontjai szerinti adómentes bor (a továbbiakban: adómentes bor) előállításához szükséges szőlő származási bizonyítvány papír alapon történő kiadása esetén annak csak a második példányát kell kiadni, az első példány a hegybírónál marad. A második példány a vonatkozó adómentességi feltételek teljesülésének és az adómentes bor előállítására felhasznált szőlő igazolására szolgál.
 
 (5)[^48] Szőlő származási bizonyítvány elvesztését vagy megsemmisülését az azt kiállító hegybíró részére kell bejelenteni, aki ennek tényéről jegyzőkönyvet vesz fel. A bejelentés alapján a hegybíró a HEGYIR-ben rögzített adatok alapján a szőlő származási bizonyítvány másodpéldányát adja ki. A szőlő származási bizonyítvány másodpéldányának megjegyzés rovatában kötelező feltüntetni a másodpéldány kiállításának az okát. A másodpéldány kiadásáról a hegybíró jegyzőkönyvet vesz fel.
 
@@ -23,6 +23,6 @@
 [^44]: A 13. § (1) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^45]: A 13. § (2) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^46]: A 13. § (3) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^47]: A 13. § (4) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^47]: A 13. § (4) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (3) bekezdésével megállapított, a 35/2017. (VII. 6.) FM rendelet 2. §-a szerint módosított szöveg.
 [^48]: A 13. § (5) bekezdése a 20/2014. (X. 31.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^49]: A 13. § (7) bekezdését a 128/2012. (XII. 14.) VM rendelet 4. § (4) bekezdése iktatta be, szövege a 21/2016. (III. 31.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
