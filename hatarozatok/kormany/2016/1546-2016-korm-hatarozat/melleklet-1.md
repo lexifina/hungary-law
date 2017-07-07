@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása előirányzat javára biztosított 82 470 ezer forint tekintetében 2017. december 31., a Világörökségi törvényből adódó feladatok ellátása előirányzat javára átcsoportosított 150,0 millió forint tekintetében 2018. június 30.[^1]
 
 1. melléklet az 1546/2016. (X. 13.) Korm. határozathoz
 
@@ -157,3 +157,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1447/2017. (VII. 7.) Korm. határozat 12. pontja szerint módosított szöveg.
