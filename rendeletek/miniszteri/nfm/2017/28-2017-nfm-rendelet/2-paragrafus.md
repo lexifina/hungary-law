@@ -1,3 +1,0 @@
-## 1. § A Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) belföldi alkalmazásáról szóló 62/2013. (X. 17.) NFM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az 1. melléklet a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 179/2017. (VII. 5.) Korm. rendelet 4. §-ának megfelelően, annak 2. mellékletének (a továbbiakban: RID Szabályzat) részletes szabályait és kiegészítéseit tartalmazza a veszélyes áruk belföldi vasúti fuvarozására vonatkozóan.”
