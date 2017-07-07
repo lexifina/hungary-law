@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2017. június 30.
+## Határidő: 2018. június 30.
 
 ## 2.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszter bevonásával gondoskodjon arról, hogy Magyarország 2015. és 2016. évi központi költségvetésében a Budai Várban található Karmelita kolostor átépítésével összefüggő beruházás tervezési-, illetve mérnök-lebonyolító és mérnök tanácsadó, valamint műszaki ellenőri feladatokra összesen 704,3 millió forint összegű forrás rendelkezésére álljon úgy, hogy abból a beruházás céljaira a 2015. évben 585,4 millió forint, a 2016. évben pedig 118,9 millió forint felhasználható legyen.
 
@@ -82,5 +82,5 @@ Költségvetési év: 2014.
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1348/2016. (VII. 6.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1447/2017. (VII. 7.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1048/2015. (II. 11.) Korm. határozat 6. pontja és 7. pont d) alpontja szerint módosított szöveg.
