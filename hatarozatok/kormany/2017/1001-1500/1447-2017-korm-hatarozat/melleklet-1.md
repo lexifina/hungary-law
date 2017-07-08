@@ -34,25 +34,7 @@
 
 ## 3. A fertődi Esterházy-kastély rekonstrukciójához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2013. (VIII. 15.) Korm. határozattól (a továbbiakban: H2.) eltérően a H2. alapján átcsoportosított előirányzat tekintetében az elszámolás és a visszatérítés határideje 2017. december 31.
 
-## 4. A Budai Várban található Karmelita kolostor átépítéséhez időarányosan szükséges források biztosításáról és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1434/2014. (VII. 31.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 5. Az egykori koncentrációs táborok felszabadításának 70. évfordulója alkalmából tartandó külföldi megemlékezésekkel és egyéb programokkal kapcsolatos előirányzat-átcsoportosításról szóló 1577/2015. (IX. 4.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 6. A Nemzetközi Marton Éva Énekverseny, a Nemzetközi Liszt Ferenc Zongoraverseny, a Nemzetközi Karmesterverseny, valamint a Nyári Nemzetközi Akadémia és Fesztivál támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1840/2015. (XI. 24.) Korm. határozat 2. pont c) alpontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1943/2015. (XII. 15.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1100/2016. (III. 1.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2018. június 30.” szöveg lép.
-
-## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1182/2016. (IV. 11.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., a Nemzeti Örökség Intézete cím javára biztosított 150,0 millió forint és a Versenysport támogatása előirányzat javára biztosított 319,6 millió forint tekintetében 2017. december 31., a Miniszterelnökség cím javára biztosított 613,9 millió forint tekintetében 2018. június 30.” szöveg lép.
-
-## 10. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1348/2016. (VII. 6.) Korm. határozat 1. pontjában a „2018. június 30.” szövegrész helyébe az „és a Miniszterelnökség cím részére átcsoportosított 10 611 millió forint tekintetében 2018. június 30.” szöveg lép.
-
-## 11. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., a 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása előirányzat javára biztosított 80 000 ezer forint és a Versenysport támogatása előirányzat javára biztosított 748 414 ezer forint tekintetében 2017. december 31.” szöveg lép.
-
-## 12. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1546/2016. (X. 13.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2017. június 30., a 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása előirányzat javára biztosított 82 470 ezer forint tekintetében 2017. december 31., a Világörökségi törvényből adódó feladatok ellátása előirányzat javára átcsoportosított 150,0 millió forint tekintetében 2018. június 30.” szöveg lép.
-
-## 13. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1699/2016. (XI. 30.) Korm. határozatban a „2017. június 30.” szövegrész helyébe a „2017. december 31.” szöveg lép.
+## 4–13.[^1]
 
 ## 14. A Kormány egyetért azzal, hogy a központi költségvetési szerveknél foglalkoztatottak 2017. évi kompenzációjához szükséges előirányzat-átcsoportosításról szóló 1301/2017. (VI. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett –
 
@@ -455,3 +437,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
