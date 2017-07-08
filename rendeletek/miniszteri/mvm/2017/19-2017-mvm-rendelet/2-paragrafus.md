@@ -1,7 +1,0 @@
-## 1. § A közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályairól, a Nemzeti Közszolgálati Egyetemre történő felvétel különös feltételeiről, valamint a külföldi hallgatók Nemzeti Közszolgálati Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályairól szóló 1/2013. (I. 8.) KIM rendelet 11. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(1) A katonai vezetői alapképzési szak nappali munkarendű képzésére a jelentkezési feltétel az angol nyelvből tett államilag elismert vagy azzal egyenértékű B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga. A szakra csak „megfelelt” eredményű alkalmassági vizsga letételével lehet felvételt nyerni. A szemüveg (kontaktlencse) viselése, valamint a „korlátozottan alkalmas” minősítés kizáró ok.
-
-## (2) A katonai üzemeltetés, a katonai logisztika, valamint az állami légiközlekedési alapképzési szakok nappali munkarendű képzésére jelentkezési feltétel az angol nyelvből tett államilag elismert B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga vagy azzal egyenértékű okirat. A szakokra csak „megfelelt” eredményű alkalmassági vizsga letételével lehet felvételt nyerni.”
-
-2. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
