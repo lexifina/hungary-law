@@ -1,1 +1,0 @@
-## 1. A vasútbiztonsági tanúsítványra, a biztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokról szóló 40/2006. (VI. 26.) GKM rendelet módosítása

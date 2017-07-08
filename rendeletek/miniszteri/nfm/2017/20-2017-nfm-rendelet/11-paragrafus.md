@@ -1,3 +1,0 @@
-## 10. § Az R4. 21. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Ha a képzésben részt vevő a javítóvizsgán (vizsgákon) nem felelt meg, e vizsgákról igazolatlanul távol maradt, vagy a (4) bekezdésben meghatározott időszakon belül nem jelentkezett vizsgára, további alapvizsgára csak akkor bocsátható, ha az alapképzésnek abból a részéből (elméleti képzési rész, gyakorlati képzési rész), amelyből sikertelen vizsgát tett, ismételten az alapképzés képzési idejének – a modulrendszerű képzéseknél a képzési modul óraszámának – legalább 50%-át elérő kiegészítő alapképzésben részt vesz. A kiegészítő alapképzésben való részvétel alól mentesítés nem adható. A kiegészítő alapképzést a sikertelen alapvizsgát követő három hónapon belül meg kell kezdeni.”

@@ -1,3 +1,0 @@
-## 8. § Az R4. 12. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Az alapképzésben a képzésben részt vevő – ha nem kapott a (3)–(4) bekezdésben foglaltak szerint mentesítést vagy felmentést – köteles részt venni, és a képzési idő – modulrendszerű képzéseknél modulonként – 10%-át meghaladó hiányzásokat pótolni. A hiányzás elméleti ismereteknél konzultációval, gyakorlati ismereteknél a képzési programban előírt gyakorlat elvégzésével pótolható. Ha a hiányzást a képzésben részt vevő igazoltan nem pótolja, vagy annak mértéke meghaladja a képzési idő – a modulrendszerű képzéseknél a képzési modul óraszámának – 30%-át, a képzést nem folytathatja, és vizsgát csak az alapképzés megismétlése után tehet.”
