@@ -8,4 +8,4 @@
 
 (5) Az állam tulajdonában lévő lakásra (a továbbiakban: állami lakás) – a (3) bekezdés megfelelő alkalmazásával – a bérlő kiválasztására jogosult által megjelölt személlyel és időtartamra lehet szerződést kötni.
 
-(6) A (3) bekezdésben említett műteremlakás esetén a kulturális örökség védelméért felelős miniszter a bérlőkijelölési jog gyakorlását költségvetési szervre vagy alkotóművészeti hivatásgyakorlást szolgáló gazdasági társaságra átruházhatja.
+(6) A (3) bekezdésben említett műteremlakás esetén a kultúráért felelős miniszter a bérlőkijelölési jog gyakorlását költségvetési szervre vagy alkotóművészeti hivatásgyakorlást szolgáló gazdasági társaságra átruházhatja.
