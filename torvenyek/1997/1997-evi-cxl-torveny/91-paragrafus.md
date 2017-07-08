@@ -8,4 +8,4 @@ c) a Tudományos Ismeretterjesztő Társulat, Területi Művelődési Intézmén
 
 d)
 
-(2) A helyi önkormányzatokért felelős miniszter érdekeltségnövelő pályázatok útján gondoskodik az önkormányzati közművelődési feladatellátást szolgáló technikai, műszaki fejlesztésre.
+(2) Az államháztartásért felelős miniszter érdekeltségnövelő pályázat útján gondoskodik az önkormányzat közművelődési feladatellátást szolgáló technikai, műszaki eszközök fejlesztéséről, berendezési tárgyak gyarapításáról, épületek karbantartásáról és felújításáról.

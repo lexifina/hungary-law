@@ -8,7 +8,7 @@ b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillet
 
 c) a muzeális intézményben folytatható kutatást,
 
-d) a műkereskedelemmel kapcsolatos kérdéseket,
+d) a nemzetiségi bázisintézmény cím adományozásának részletes szabályait,
 
 e) a nyilvános könyvtárak jegyzékének vezetését,
 
@@ -36,13 +36,13 @@ n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őr
 
 a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
 
-b) a múzeum, valamint az országos szakkönyvtár és a megyei könyvtár éves munkatervéhez szükséges szakmai mutatókat,
+b) a múzeum, valamint az országos szakkönyvtár és a megyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 
-c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
+c) a közművelődési alapszolgáltatások szakmai, személyi és infrastrukturális követelményeit, továbbá a közművelődési intézmények és közösségi színterek szakmai, működési, személyi és infrastrukturális követelményeit,
 
 d) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) benyújtásának feltételeit, a kérelem elbírálásának eljárásrendjét, a kérelem és a működési engedély adattartalmát, a kérelemhez csatolandó mellékletek körét, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
 
-e)
+e) a kulturális alapellátás kiterjesztésének prioritási rendjét és szempontrendszerét,
 
 f) a muzeális intézményekben őrzött kulturális javak papíralapú és elektronikus nyilvántartásának szabályait, valamint az elektronikus nyilvántartásra történő átállás feltételeit és eljárásrendjét,
 
@@ -58,7 +58,7 @@ k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cse
 
 l) a muzeális intézményekre, továbbá a könyvtárakra vonatkozó szakfelügyelet rendjét,
 
-m) a különböző típusú könyvtárak működését, továbbá a városi könyvtárak és a települési nyilvános könyvtárak szakmai követelményeit,
+m) a különböző típusú könyvtárak működését, a városi könyvtárak és a települési nyilvános könyvtárak szakmai követelményeit, továbbá a megyei hatókörű városi könyvtárak települési könyvtárak fejlesztésével kapcsolatos koordinációs feladatainak ellátását és a települési könyvtárak és fenntartóik ezzel kapcsolatos kötelezettségeit,
 
 n) a Könyvtárellátási Szolgáltató Rendszer működését,
 
@@ -66,13 +66,13 @@ o) a könyvtárak szervezeti és működési szabályzatának kötelező tartalm
 
 p) a könyvtári dokumentumellátást,
 
-q) a beiratkozási díjra és a könytári szolgáltatások térítési díjára vonatkozó szabályokat,
+q)
 
 r) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 s) a muzeális intézményben, a könyvtárban, valamint a közművelődési intézményben nem közalkalmazotti jogviszonyban foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket,
 
-t) az összevont önkormányzati intézmények működését,
+t) az integrált kulturális intézmény működését,
 
 u) az önkormányzatok érdekeltségnövelő támogatását,
 
@@ -100,6 +100,6 @@ c) a könyvtári dokumentumok selejtezésének szabályait.
 
 a) a szakmai továbbképzési és szervezett képzési programokkal összefüggő és
 
-b) a népi iparművészeti alkotások és a Népi Iparművész minősítésért fizetendő
+b)
 
 igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.

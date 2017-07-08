@@ -1,17 +1,23 @@
-79. § (1) A települési önkormányzat az önkormányzati rendeletben meghatározott közművelődési feladatok megvalósítására az e törvény követelményeinek megfelelő jogi személlyel, magánszeméllyel közművelődési megállapodást köthet.
+## A közművelődési megállapodás
+
+79. § (1) A települési önkormányzat a közművelődési rendeletében meghatározott közművelődési feladatok megvalósítására az e törvény követelményeinek megfelelő jogi vagy természetes személlyel – a Közművelődési Kerekasztallal való egyeztetést követően – közművelődési megállapodást köthet.
 
 (2) A közművelődési megállapodásnak tartalmaznia kell:
 
-a) az elvégzendő közművelődési szolgáltatást és annak díját,
+a) a biztosítandó közművelődési alapszolgáltatások körét és azok díját,
 
-b) a közművelődési tevékenységben érintettek körét,
+b) a közművelődési alapszolgáltatások biztosításával kapcsolatban a helyi lakossággal és annak önszerveződő közösségeivel történő kapcsolattartás elveit, főbb szempontjait,
 
-c) az ingyenesen vagy térítési díjért igénybe vehető szolgáltatásokat,
+c) a közművelődési alapszolgáltatásokban érintettek körét,
 
-d) a közművelődési szolgáltatás igénybevételi lehetőségeinek minimális időtartamát és rendszerességét, a közösségi színtér, illetőleg közművelődési intézmény közművelődési célú minimális nyitvatartását;
+d) a helyi lakosság és annak önszerveződő közösségei által ingyenesen vagy térítési díjért igénybe vehető közművelődési alapszolgáltatásokat,
 
-e) a megállapodás személyi, tárgyi és pénzügyi feltételeit,
+e) a közművelődési alapszolgáltatás igénybevételi lehetőségeinek minimális időtartamát és rendszerességét, a közösségi színtér vagy közművelődési intézmény közművelődési célú minimális nyitva tartását,
 
-f) közművelődési feladat megvalósításában közreműködőktől megkívánt szakképzettséget.
+f) a megállapodás személyi, tárgyi és pénzügyi feltételeit, valamint
 
-(3) A közművelődési megállapodást a helyben szokásos módon kell közzétenni.
+g) közművelődési alapszolgáltatások biztosításában közreműködőktől megkívánt szakképzettséget.
+
+(3) A közművelődési megállapodást a települési önkormányzat honlapján vagy a helyben szokásos módon, valamint a közművelődési megállapodás alapján működtetett közösségi színtérben vagy közművelődési intézményben kell közzétenni.
+
+(4) A közművelődési megállapodás alapján közművelődési intézményt vagy közösségi színteret működtető jogi vagy természetes személy köteles teljesíteni a közművelődési intézményt vagy közösségi színteret fenntartó önkormányzatok számára a 78/I. § (4) bekezdésében meghatározott kötelezettségeket.

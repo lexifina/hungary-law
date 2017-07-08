@@ -12,6 +12,8 @@ e) közművelődési információs szolgáltatás nyújtása, tematikus adatbáz
 
 f) a területi szintű értéktárak összeállításának módszertani segítése, területi kulturális regiszter gondozása, az adott terület és a főváros szellemi, tárgyi, természeti kulturális örökségének, környezeti, művészeti, közművelődési sajátosságainak bemutatása, közreműködés digitális archívum működtetésében,
 
-g) a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzése és továbbképzése, szakkiadványok megjelentetése.
+g) a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzése és továbbképzése, szakkiadványok megjelentetése,
 
-(2) A fővárosi közművelődési szakmai szolgáltató szervezet együttműködik az országos közművelődési szakmai szolgáltatást biztosító szervvel.
+h) a közművelődési minőségirányítási tevékenység koordinálása, képzések szervezése, a Minősített Közművelődési Intézmény Cím és a Közművelődési Minőségi Díj adományozásának szakmai előkészítése.
+
+(2) A fővárosi közművelődési szakmai szolgáltató szervezet együttműködik az országos közművelődési szakmai szolgáltatást biztosító szervezettel.

@@ -12,6 +12,6 @@ c) a közművelődési tevékenység megvalósulásában résztvevőkre, a köz�
 
 (3) A könyvtári tevékenységről és a könyvtári alkalmazottakról szóló szabályok vonatkoznak a nem nyilvános könyvtárakra is.
 
-(4) A 92–96. és 99. §-okban foglaltak kivételével e törvény hatálya nem terjed ki a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) hatálya alá tartozó iratokra, szervekre és személyekre. Nem terjed ki továbbá – viszonosság esetén – a diplomáciai mentességet élvező külföldi állampolgárok tulajdonában levő, külföldről behozott kulturális javakra.
+(4) A 3/A. §-ban, a 92–96. és 99. §-ban foglaltak kivételével e törvény hatálya nem terjed ki a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) hatálya alá tartozó iratokra, szervekre és személyekre.
 
 (5)–(6)

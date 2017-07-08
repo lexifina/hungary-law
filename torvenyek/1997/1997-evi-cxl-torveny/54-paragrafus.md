@@ -1,6 +1,6 @@
 54. § (1) A nyilvános könyvtár alapkövetelményei:
 
-a) mindenki által használható és megközelíthető,
+a) mindenki által használható és – e törvény eltérő rendelkezése hiányában – megközelíthető,
 
 b) vezetője felsőfokú szakirányú végzettséggel rendelkezik és könyvtári szakembert alkalmaz,
 
@@ -14,11 +14,15 @@ f) statisztikai adatokat szolgáltat,
 
 g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat,
 
-h) elnevezésében megjelenik a könyvtár kifejezés.
+h) elnevezésében megjelenik a könyvtár kifejezés,
+
+i) részt vesz a kulturális alapellátás kiterjesztésében.
+
+(1a) Azok a fegyveres és rendvédelmi testületek által fenntartott könyvtárak, amelyek vállalják a nyilvános könyvtárak 55. § (1) bekezdés szerinti alapfeladatainak ellátását, a hozzáférést távhasználat útján is biztosíthatják.
 
 (2) A nyilvános könyvtárakról a miniszter jegyzéket vezet.
 
-(3) A nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtár, a megyei könyvtár, a 3. számú melléklet szerinti országos szakkönyvtár, továbbá az állami egyetem könyvtára nyilvános könyvtár, amely a fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata, valamint a nyilvános könyvtárak jegyzékének vezetéséről szóló kormányrendeletben meghatározott adatok benyújtásával kerül be a nyilvános könyvtárak jegyzékébe.
+(3) A nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtár, a megyei hatókörű városi könyvtár, a 3. számú melléklet szerinti országos szakkönyvtár, továbbá az állami egyetem könyvtára nyilvános könyvtár, amely a fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata, valamint a nyilvános könyvtárak jegyzékének vezetéséről szóló kormányrendeletben meghatározott adatok benyújtásával kerül be a nyilvános könyvtárak jegyzékébe.
 
 (4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
 

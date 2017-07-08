@@ -26,12 +26,14 @@ g) gyűjtőkörében szakmai tanácsadást folytat a muzeális intézmények sza
 
 h) részt vesz a szellemi kulturális örökség védelmével kapcsolatos helyi tevékenységek koordinálásában és szakmai támogatásában,
 
-i) muzeológiai, múzeumpedagógiai, képzési és restaurálási szakmai-módszertani központként évente legalább kétszer módszertani műhelygyakorlatot szervez
+i) restaurálási-műtárgyvédelmi, muzeológiai, valamint múzeumpedagógiai szakmai-módszertani központként mindegyik témakörben évente legalább két módszertani műhelygyakorlatot szervez a megye közigazgatási területén működő muzeális intézmények munkatársai számára,
 
 ia) restaurálási és műtárgyvédelmi tevékenység körében gyakorlati bemutatóval egybekötve,
 
 ib) gyűjteménykezelési, nyilvántartási, gyűjteményfeldolgozási és digitalizálási tevékenység körében,
 
-ic) múzeumpedagógia területén óvodapedagógusok és pedagógusok, továbbá a muzeális intézmények közművelődési szakemberei számára, valamint
+ic) múzeumpedagógia területén óvodapedagógusok és pedagógusok, továbbá a muzeális intézmények közművelődési szakemberei számára.
 
-j) évenként legalább egyszer helyszíni bejárás keretében felméri a megye területén lévő muzeális intézmények állományvédelmi helyzetét.
+j) legalább egy fő, szakirányú közép- vagy felsőfokú végzettségű állományvédelmi felelőst foglalkoztat, aki középtávú intézkedési terv alapján évente legalább egyszer helyszíni bejárás keretében felméri a megye területén lévő muzeális intézmények állományvédelmi helyzetét.
+
+(3) A megyei hatókörű városi múzeum a kulturális javak állomány- vagy biztonságvédelmét súlyosan veszélyeztető vagy károsító helyzet esetén a (2) bekezdés j) pontja szerinti helyszíni bejárást soron kívül lefolytatja.

@@ -38,7 +38,7 @@ h) a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítés
 
 (4) A miniszter kialakítja a nemzeti kulturális örökség részét képező kép- és hangrögzítés országos nyilvántartási rendszerét.
 
-(5) A miniszter működteti a Neumann János Multimédia Központ és Digitális Könyvtárt, amely a multimédia és elektronikus dokumentumok nemzeti szolgáltató központja. Az informatikáért felelős miniszter külön jogszabályban meghatározottak szerint működteti a Nemzeti Audiovizuális Archívumot (a továbbiakban: NAVA). A NAVA szakmai felügyeletét az informatikáért felelős miniszter, valamint a miniszter közösen látja el.
+(5)
 
 (6)
 

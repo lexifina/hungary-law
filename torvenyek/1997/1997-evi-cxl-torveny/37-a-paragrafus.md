@@ -18,7 +18,7 @@ e) a kulturális javakhoz széles körű és egyenlő hozzáférést biztosít.
 
 (3) A muzeális intézmény rendelkezik a szakmai besorolása szerinti követelményszint biztosításához szükséges tárgyi és személyi feltételekkel, amely által ellátja az e törvényben meghatározott feladatokat.
 
-(4) A muzeális intézmény a kulturális javakhoz való hozzáférés biztosítása érdekében:
+(4) A muzeális intézmény a kulturális javakhoz való hozzáférés biztosítása és a kulturális alapellátás kiterjesztése érdekében:
 
 a) a kulturális javak egységes szaktudományos szempontok szerint, tudományos szaktevékenység keretében kialakított, nyilvántartott és dokumentált együttesét őrzi, gondozza és kiállításon bemutatja,
 
@@ -55,3 +55,13 @@ cc) megyei hatókörű városi múzeum,
 cd) országos szakmúzeum,
 
 ce) országos múzeum.
+
+(8) A miniszter a működési engedély kiadására irányuló eljárás során a muzeális intézmény részére – a fenntartó erre irányuló külön kérelme esetén – nemzetiségi bázisintézmény címet adományoz, ha a muzeális intézmény
+
+a) alapfeladatai körében szerepel a nemzetiségi feladatellátás, vagy
+
+b) állományában a nemzetiségi nyelvű vagy nemzetiségre vonatkozó kulturális javak huszonöt százalékot elérő arányban találhatóak.
+
+(9) A nemzetiségi bázisintézmény címet a működési engedélyben kell feltüntetni.
+
+(10) A nemzetiségi bázisintézmény címmel rendelkező muzeális intézmény közművelődési programjaiban és állandó kiállításában a nemzetiségi kultúrát hangsúlyosan mutatja be.

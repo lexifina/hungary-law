@@ -1,1 +1,1 @@
-80. § A települési önkormányzat a rendeletében rögzített feladatai vagy egyéb feladatok ellátására pénzügyi támogatásban részesítheti a közművelődési célú tevékenységet folytatókat. E támogatás nem veszélyeztetheti a közművelődési rendeletben rögzített feladatok megvalósítását.
+80. § A települési önkormányzat a közművelődési rendeletében rögzített feladatai vagy egyéb feladatok ellátására pénzügyi támogatásban részesítheti a közművelődési célú tevékenységet folytatókat. E támogatás nem veszélyeztetheti a közművelődési rendeletben rögzített feladatok megvalósítását.

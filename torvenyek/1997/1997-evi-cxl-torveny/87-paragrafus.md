@@ -1,3 +1,3 @@
 ## Az országos közművelődési szakmai szolgáltatás
 
-87. § Az országos szinten működő, a területi közművelődési támogatások koordinálásában is részt vevő közművelődési szakmai szolgáltató szerv a helyi közművelődési tevékenységek és a területi, fővárosi feladatok segítése, fejlesztése érdekében közművelődési szakmai szolgáltatást biztosít.
+87. § Az országos szinten működő, területi közművelődési szakmai szolgáltatásokat ellátó szervezet a közművelődési alapszolgáltatások segítése, fejlesztése és az egységes szakmai feladatellátás érdekében országos közművelődési szakmai szolgáltatást biztosít.

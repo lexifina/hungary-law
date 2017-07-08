@@ -18,20 +18,6 @@ f) biztosítja a könyvtár szakmai önállóságát,
 
 g) ellátja a könyvtár fenntartásával, irányításával kapcsolatos más jogszabályokban meghatározott feladatokat.
 
-(2) A megyei könyvtár igazgatójának és a Budapest Főváros Önkormányzata által fenntartott könyvtár főigazgatójának vezetői megbízásához és annak visszavonásához a miniszter előzetes egyetértése szükséges. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
+(2) A megyei hatókörű városi könyvtár igazgatójának és a Budapest Főváros Önkormányzata által fenntartott könyvtár főigazgatójának vezetői megbízásához és annak visszavonásához a miniszter előzetes egyetértése szükséges. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
 
-(3) A miniszter előzetesen véleményezi a megyei és a Budapest Főváros Önkormányzata által fenntartott könyvtár
-
-a) alapító okiratát,
-
-b) szervezeti és működési szabályzatát,
-
-c) stratégiai tervét,
-
-d) munkatervét és beszámolóját,
-
-e) költségvetésének feladatalapú tervezését,
-
-f) fejlesztési és beruházási feladatainak meghatározását,
-
-g) minőségpolitikai nyilatkozatát. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
+(3) A megyei hatókörű városi könyvtár hatókörű városi könyvtár szakmai munkatervét és szakmai beszámolóját, stratégiai tervét, valamint minőségpolitikai nyilatkozatát a fenntartó – annak elfogadását megelőzően – véleményezésre megküldi a miniszternek. Ha a miniszter a fenntartó javaslatának kézhezvételétől számított 30 napon belül nem ad véleményt, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért. A miniszter véleménye a fenntartót nem köti döntése meghozatalában.

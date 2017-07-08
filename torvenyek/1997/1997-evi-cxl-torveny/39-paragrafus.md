@@ -6,7 +6,7 @@
 
 (3) Működési engedély akkor adható ki, ha a muzeális intézmény által kezelt javak a kulturális javak körébe tartoznak és a muzeális intézmény fenntartója biztosítja a folyamatos és rendeltetésszerű működéshez szükséges személyi és tárgyi feltételeket.
 
-(4) A miniszter a működési engedély kiadására irányuló eljárás során a muzeális intézményt – erre irányuló külön kérelem esetén – nemzetiségi bázisintézménynek minősíti, ha az intézmény alapfeladatai körében szerepel a nemzetiségi feladatellátás, vagy az állományában a nemzetiségi nyelvű vagy nemzetiségre vonatkozó kulturális javak huszonöt százalékot elérő arányban találhatóak. A nemzetiségi bázisintézménnyé minősítést a működési engedélyben kell feltüntetni.
+(4)
 
 (5) A működési engedélyeket a miniszter által vezetett minisztérium tartja nyilván.
 

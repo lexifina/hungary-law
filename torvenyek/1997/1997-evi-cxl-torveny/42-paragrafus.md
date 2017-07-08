@@ -32,6 +32,6 @@ cd) a kutatási tevékenység biztosítása .
 
 a) szabad kapacitásai terhére kiállítások megrendezésével, kulturális javak kölcsönzésével, valamint tudományos, állományvédelmi és közönségkapcsolati tevékenységgel kapcsolatos szolgáltatást nyújthat,
 
-b) a fenntartó által jóváhagyott múzeumi küldetésnyilatkozattal és múzeumi digitalizálási stratégiával rendelkezik, amely alapján szakmai tevékenységét folytatja,
+b) a fenntartó által jóváhagyott múzeumi küldetésnyilatkozattal, stratégiai tervvel, állományvédelmi tervvel, gyűjteménygyarapítási és revíziós tervvel, továbbá múzeumi digitalizálási stratégiával rendelkezik, amely alapján szakmai tevékenységét folytatja,
 
 c) feladatait éves szakmai munka- és pénzügyi terv alapján végzi, tevékenységéről éves szakmai munkajelentést és pénzügyi beszámolót, valamint teljesítményértékelést készít.

@@ -32,6 +32,6 @@ g) a könyvtárak és a társadalom közötti kapcsolat fejlesztése,
 
 h) az országos könyvtári statisztikai adatok összesítése, elemzése és szolgáltatása,
 
-i)
+i) a könyvtári minőségirányítási tevékenység koordinálása, képzések szervezése, a Minősített Könyvtár cím és a Könyvtári Minőségi Díj adományozásának szakmai előkészítése.
 
 (4) A (3) bekezdésben felsorolt feladatokat a könyvtári intézet látja el.

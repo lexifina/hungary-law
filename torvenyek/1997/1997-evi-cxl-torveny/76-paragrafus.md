@@ -6,22 +6,20 @@
 
 76. § (1) A települési önkormányzat kötelező feladata a helyi közművelődési tevékenység támogatása.
 
-(2) Ennek formái különösen:
+(2) A települési önkormányzat az (1) bekezdésben meghatározott feladatát a (3) bekezdés szerinti közművelődési alapszolgáltatások megszervezése, a 80. §-ban meghatározott pénzügyi támogatás biztosítása, valamint a közművelődés 82–83. §-ban szabályozott helyi lakossági képviseletének biztosítása révén (a továbbiakban együtt: közművelődési feladatok) látja el.
 
-a) az iskolarendszeren kívüli, öntevékeny, önképző, szakképző tanfolyamok, életminőséget és életesélyt javító tanulási, felnőttoktatási lehetőségek, népfőiskolák megteremtése,
+(3) A közművelődési alapszolgáltatások:
 
-b) a település környezeti, szellemi, művészeti értékeinek, hagyományainak feltárása, megismertetése, a helyi művelődési szokások gondozása, gazdagítása,
+a) művelődő közösségek létrejöttének elősegítése, működésük támogatása, fejlődésük segítése, a közművelődési tevékenységek és a művelődő közösségek számára helyszín biztosítása,
 
-c) az egyetemes, a nemzeti, a nemzetiségi és más kisebbségi kultúra értékeinek megismertetése, a megértés, a befogadás elősegítése, az ünnepek kultúrájának gondozása,
+b) a közösségi és társadalmi részvétel fejlesztése,
 
-d) az ismeretszerző, az amatőr alkotó, művelődő közösségek tevékenységének támogatása,
+c) az egész életre kiterjedő tanulás feltételeinek biztosítása,
 
-e) a helyi társadalom kapcsolatrendszerének, közösségi életének, érdekérvényesítésének segítése,
+d) a hagyományos közösségi kulturális értékek átörökítése feltételeinek biztosítása,
 
-f) a különböző kultúrák közötti kapcsolatok kiépítésének és fenntartásának segítése,
+e) az amatőr alkotó- és előadó-művészeti tevékenység feltételeinek biztosítása,
 
-g) a szabadidő kulturális célú eltöltéséhez a feltételek biztosítása,
+f) a tehetséggondozás- és -fejlesztés feltételeinek biztosítása, valamint
 
-h) egyéb művelődést segítő lehetőségek biztosítása,
-
-i) a települési könyvtár, valamint a település közigazgatási területén lévő muzeális intézmény közművelődési tevékenységének támogatása.
+g) a kulturális alapú gazdaságfejlesztés.

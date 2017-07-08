@@ -8,13 +8,13 @@ a) az e törvényben foglaltak szerint közreműködik a művelődéshez való j
 
 b) kiadja a közművelődési feladatellátás biztosításához szükséges szakmai irányelveket, állásfoglalásokat,
 
-c) kiadja a közép- és felsőfokú szakmai képzés, minősített szakmai továbbképzés követelményeit,
+c) kiadja a közművelődési szakképesítések szakmai és vizsgakövetelményeit, a minősített szakmai továbbképzés követelményeit,
 
 d) rendeletben határozza meg az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket,
 
 e) véleményezési jogot gyakorol a települési önkormányzatok közművelődési intézményeinek létesítése, átszervezése, szüneteltetése, megszüntetése esetén,
 
-f)
+f) kormányrendeletben kijelölt szerv útján ellátja a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatokat,
 
 g) meghatározza a közművelődési statisztikai adatszolgáltatás tartalmát és rendjét,
 
