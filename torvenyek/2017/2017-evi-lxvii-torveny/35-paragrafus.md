@@ -16,4 +16,4 @@ g) 100. § (3) bekezdés q) pontja,
 
 h) 100. § (6) bekezdés b) pontja.
 
-(2) Hatályát veszti a Kultv. 100. § (3) bekezdés k) pontja.
+(2)
