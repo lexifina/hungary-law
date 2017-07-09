@@ -1,0 +1,37 @@
+## I. Fejezet
+
+## A MEZŐGAZDASÁGI KOCKÁZATKEZELÉSI ADATBÁZIS
+
+## 1. Általános rendelkezések
+
+1. § (1) E fejezet hatálya
+
+a) a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. törvény) 6. §-a szerinti mezőgazdasági termelőnek, valamint a mezőgazdasági kockázatkezelési rendszerben közvetlenül részt vevő szervezetnek az Mkk. törvény 18. § (1) bekezdése szerinti mezőgazdasági kockázatkezelési adatbázisba (a továbbiakban: kockázatkezelési adatbázis) történő adatszolgáltatására, valamint
+
+b) a kockázatkezelési adatbázisból származó adatok kezelésére
+
+## terjed ki.
+
+(2) A mezőgazdasági kockázatkezelési rendszerben közvetlenül részt vevő, (1) bekezdés a) pont szerinti szervezetek a következők:
+
+a) Agrárgazdasági Kutató Intézet (a továbbiakban: AKI),
+
+b) agrárpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium),
+
+c) díjtámogatott mezőgazdasági biztosítást értékesítő biztosító (a továbbiakban: biztosító),
+
+d) Budapest Főváros Kormányhivatalának Földmérési, Távérzékelési és Földhivatali Főosztálya (a továbbiakban: FTFF),
+
+e) a megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatala (a továbbiakban: agrárkár-megállapító szerv),
+
+f) Magyar Államkincstár (a továbbiakban: agrárkárenyhítési szerv),
+
+g) Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: mezőgazdasági igazgatási szerv),
+
+h) Országos Meteorológiai Szolgálat (a továbbiakban: OMSZ),
+
+i) Országos Vízügyi Főigazgatóság (a továbbiakban: OVF).
+
+(3) A kockázatkezelési adatbázist – az agrárpolitikáért felelős miniszterrel (a továbbiakban: miniszter) kötött vagyonkezelési szerződés alapján – az agrárkárenyhítési szerv működteti.
+
+(4) A 2. §-ban foglalt adatoknak a kockázatkezelési adatbázisba elektronikus úton történő feltöltése az agrárkárenyhítési szerv és a (2) bekezdésben felsorolt szervezetek közötti együttműködési megállapodás alapján történik.
