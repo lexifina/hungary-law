@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-129-20-
 | 2014-11-04 | 2007-129-20-82.7 | 21/2014. (XI. 3.) FM rendelet |
 | 2017-01-01 | 2007-129-20-82.8 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-04-29 | 2007-129-20-82.9 | 22/2017. (IV. 26.) FM rendelet |
+| 2017-07-09 | 2007-129-20-82.10 | 2/2018. (VI. 22.) AM rendelet |
