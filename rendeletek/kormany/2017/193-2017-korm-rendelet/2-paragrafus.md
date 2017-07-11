@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Montenegró Kormánya között az Európai Közösség és a Montenegrói Köztársaság között az engedély nélkül tartózkodó személyek visszafogadásáról szóló Megállapodás végrehajtásáról szóló Jegyzőkönyv (a továbbiakban: Végrehajtási Jegyzőkönyv) kötelező hatályának elismerésére.
