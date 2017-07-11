@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-98-20-2
 | 2015-09-26 | 2012-98-20-22.7 | 128/2014. (IV. 10.) Korm. rendelet |
 | 2016-07-02 | 2012-98-20-22.8 | 128/2014. (IV. 10.) Korm. rendelet |
 | 2017-03-08 | 2012-98-20-22.9 | 41/2017. (III. 7.) Korm. rendelet |
+| 2017-07-11 | 2012-98-20-22.10 | 198/2017. (VII. 10.) Korm. rendelet |

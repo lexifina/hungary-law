@@ -1,10 +1,12 @@
-2. § (1) Határon túli költségvetési támogatás
+2. § (1)[^2] Határon túli költségvetési támogatás
 
-a) határon túli természetes személy, jogi személy és jogi személyiség nélküli szervezet, valamint
+a) határon túli természetes személy, jogi személy és jogi személyiség nélküli szervezet,
 
-b)[^2] – ha a létesítő okiratában megjelölt hatóköre, illetve cél szerinti tevékenysége részben vagy egészben a határon túli magyarok szellemi, kulturális, illetve anyagi támogatására irányul – Magyarországon székhellyel vagy telephellyel rendelkező jogi személy
+b) – ha a létesítő okiratában megjelölt hatóköre, illetve cél szerinti tevékenysége részben vagy egészben a határon túli magyarok szellemi, kulturális, illetve anyagi támogatására irányul – Magyarországon székhellyel vagy telephellyel rendelkező jogi személy, valamint
 
-## [az a) és b) pont a továbbiakban együtt: kedvezményezett] részére nyújtható.
+c) a határon túli gazdaságfejlesztési stratégiák megvalósítását összefogó szervezet
+
+## [a)–c) pont a továbbiakban együtt: kedvezményezett] részére nyújtható.
 
 (2) A határon túli költségvetési támogatás az előirányzat felhasználását meghatározó jogszabályban és nemzetközi szerződésben meghatározott célok megvalósítására használható fel.
 
@@ -12,5 +14,12 @@ b)[^2] – ha a létesítő okiratában megjelölt hatóköre, illetve cél szer
 
 (4)[^3] Ha a támogató a határon túli költségvetési támogatást jogszabály alapján támogatói okirattal biztosítja, támogatói okiratnak minősül a döntési lista, ha abból a támogatás kedvezményezettje, a támogatás mértéke és a támogatásra vonatkozó egyoldalú akaratelhatározás kitűnik. A támogató által jóváhagyott döntési lista kötelezettségvállalásnak minősül.
 
-[^2]: A 2. § (1) bekezdés b) pontja a 128/2014. (IV. 10.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+(5)[^4] Támogatási szerződés köthető arra is, hogy az (1) bekezdés c) pontja szerinti kedvezményezett a kapott támogatást más, e rendelet hatálya alá tartozó vagy – ha a támogatott tevékenység megvalósítására teljes egészében e rendelet szabályai szerint, határon túl kerül sor – Magyarországon bejegyzett személy vagy szervezet (a továbbiakban: végső kedvezményezett) részére továbbadja. A továbbadásra és a támogatás végső kedvezményezettnél történő felhasználására az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), az Ávr. és e rendelet szabályait kell alkalmazni azzal, hogy
+
+a) a kedvezményezett ebben az esetben arra vállal a támogatási szerződésben kötelezettséget, hogy a támogatási szerződésben meghatározott céllal a végső kedvezményezett számára – a végső kedvezményezettel kötött támogatási szerződéssel – támogatást nyújt, majd annak felhasználásáról a végső kedvezményezettet az Áht., az Ávr. és e rendelet szabályai szerint beszámoltatja,
+
+b) a kedvezményezett támogató felé történő beszámolási kötelezettsége a támogatás továbbadására és a végső kedvezményezett beszámoltatására vonatkozik.
+
+[^2]: A 2. § (1) bekezdése a 198/2017. (VII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (4) bekezdése a 128/2014. (IV. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^4]: A 2. § (5) bekezdését a 198/2017. (VII. 10.) Korm. rendelet 2. §-a iktatta be.
