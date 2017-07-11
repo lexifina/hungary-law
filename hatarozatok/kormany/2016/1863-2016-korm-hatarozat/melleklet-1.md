@@ -12,7 +12,7 @@
 
 ## 6.[^1]
 
-1. melléklet az 1863/2016. (XII. 28.) Korm. határozathoz
+1. melléklet az 1863/2016. (XII. 28.) Korm. határozathoz[^2]
 
 A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -100,7 +100,7 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 40. | CYBER EUROPE | HVK HIICSF/ MH BHD | EU tagállamok | I-IV. n. é. | 20 |
 
-| 41. | SABER GUARDIAN 2017 | HVK KIKOCSF | NATO és EU tagállamok | II-III. n. é. | 1500 |
+| 41. | SABER GUARDIAN 2017 | HFKP | Magyarország, Románia, Bulgária | II–III. n. é. | 6000 |
 
 | 42. | SWIFT RESPONSE 2017 | HVK KIKOCSF | NATO és EU tagállamok | II-III. n. é. | 3500 |
 
@@ -131,6 +131,14 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 55. | PRECISE RECEPTION 2017 | MH HFKP | Magyarország | I-IV. n. é. | 50 |
 
 | 56. | BRILLANT LEDGER 2017 | MH ÖHP | NATO és EU tagállamok/ NATO partnerországok | III. n. é. | 150 |
+
+| 57. | NATO CWIX 2017 | MH BHD | Lengyelország/NATO/EU tagállam | I–IV. n. é. | 32 |
+
+| 58. | STEADFAST COBALT 2017 | MH ÖHP | Franciaország, Litvánia/NATO/EU tagállam | I–IV. n. é. | 35 |
+
+| 59. | SOFT CAPS 2017 | MH HFKP | Magyarország/NATO/EU tagállam | I–IV. n. é. | 200 |
+
+| 60. | CMX 17 NATO válságkezelési gyakorlat | HM VIF | Magyarország/NATO/EU tagállam | III–IV. n. é. | 100 |
 
 2. A Magyar Honvédség és a külföldi fegyveres erők részvételével tervezett két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések.
 
@@ -190,7 +198,7 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 27. | EHV kiképzés | MH ÖHP | Magyarország, Spanyolország | I-II. n. é. | 350 |
 
-| 28. | TOBRUK LEGACY légvédelmi rakéta gyakorlat | MH ÖHP | Csehország | I-IV. n. é. | 150 |
+| 28. | TOBRUQ LEGACY légvédelmi rakéta gyakorlat | MH ÖHP | Csehország NATO és EU tagállamok | I–IV. n. é. | 150 |
 
 | 29. | CJPRSC 2017 (APROC 17) | MH ÖHP | Olaszország/ NATO és EU tagállamok | II-IV. n. é. | 50 |
 
@@ -256,6 +264,8 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 60. | TRAINING BRIDGE | MH HFKP | balti államok | III. n. é. | 250 |
 
+| 61. | PLATINUM WOLF | HFKP | Szerbia | II–III. n. é. | 50 |
+
 3. Magyarország területén és légterén történő áthaladások és átrepülések
 
 | Fsz. | A tevékenység megnevezése | A feladat tervezett időpontja | Engedélyezett létszám |
@@ -296,4 +306,9 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 18. | Joint Combined Exchange Training szövetségesi gyakorlatok Románia/Bulgária/Görögország | I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
+| 19. | DCM-E csapatmozgások | I–IV. n. é. | egyidejűleg legfeljebb 250 |
+
+| 20. | NFIU HUN csapatmozgások | I–IV. n. é. | egyidejűleg legfeljebb 50 |
+
 [^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1450/2017. (VII. 10.) Korm. határozat 1. pontja szerint módosított szöveg.
