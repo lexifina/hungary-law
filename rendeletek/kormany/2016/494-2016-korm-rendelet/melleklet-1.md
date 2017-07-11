@@ -1,4 +1,4 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^2] A Modern Városok Program keretében Kaposváron megvalósuló sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 494/2016. (XII. 28.) Korm. rendelet módosításáról szóló 204/2017. (VII. 10.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §-t a Módr. hatálybalépésekor[^3] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 494/2016. (XII. 28.) Korm. rendelethez
 
@@ -49,3 +49,6 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához és használatbavételéhez szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 7. §-t a 204/2017. (VII. 10.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2017. július 11.
