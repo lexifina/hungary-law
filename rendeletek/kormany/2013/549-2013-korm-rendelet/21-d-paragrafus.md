@@ -16,11 +16,11 @@ d) IV. tengely: LEADER programok;
 
 e) Technikai segítségnyújtás.
 
-(5)[^78] A támogatás kedvezményezettek részére történő kifizetése a végső kifizetést teljesítő mezőgazdasági és vidékfejlesztési támogatási szerven keresztül valósul meg.
+(5)[^79] A támogatás kedvezményezettek részére történő kifizetése a végső kifizetést teljesítő mezőgazdasági és vidékfejlesztési támogatási szerven keresztül valósul meg.
 
 (6) Támogatási előleg a (4) bekezdés a), c) és d) pontja szerinti támogatások esetében indokolt esetben nyújtható.
 
-(7)[^79]
+(7)[^80]
 
-[^78]: A 21/D. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^79]: A 21/D. § (7) bekezdését a 287/2015. (X. 6.) Korm. rendelet 31. § 8. pontja hatályon kívül helyezte.
+[^79]: A 21/D. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^80]: A 21/D. § (7) bekezdését a 287/2015. (X. 6.) Korm. rendelet 31. § 8. pontja hatályon kívül helyezte.

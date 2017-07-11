@@ -1,6 +1,6 @@
-## 55. §[^197] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 287/2015. (X. 6.) Korm. rendelettel [a továbbiakban: 287/2015. (X. 6.) Korm. rendelet] megállapított rendelkezéseit a 287/2015. (X. 6.) Korm. rendelet hatálybalépésekor[^198] folyamatban lévő ügyekben is alkalmazni kell.
+## 55. §[^198] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 287/2015. (X. 6.) Korm. rendelettel [a továbbiakban: 287/2015. (X. 6.) Korm. rendelet] megállapított rendelkezéseit a 287/2015. (X. 6.) Korm. rendelet hatálybalépésekor[^199] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^199]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^200]
 
 Kezelő szervi kijelölés
 
@@ -100,6 +100,6 @@ Kezelő szervi kijelölés
 
 | 47. | Alapok alapja VEKOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^197]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 287/2015. (X. 6.) Korm. rendelet 28. §-a iktatta be.
-[^198]: A hatálybalépés napja 2015. október 7.
-[^199]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja szerint módosított szöveg.
+[^198]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 287/2015. (X. 6.) Korm. rendelet 28. §-a iktatta be.
+[^199]: A hatálybalépés napja 2015. október 7.
+[^200]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja szerint módosított szöveg.
