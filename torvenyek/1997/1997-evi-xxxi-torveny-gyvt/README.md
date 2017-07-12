@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2017-03-01 | 2016. évi CLXVII. törvény | 1997-31-00-00.90 |
 | 2017-03-28 | 2017. évi XX. törvény | 1997-31-00-00.91 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 1997-31-00-00.92 |
+| 2017-07-12 | 2017. évi XCV. törvény | 1997-31-00-00.93 |

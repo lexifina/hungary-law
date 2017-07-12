@@ -22,6 +22,8 @@ fc) a jogsértő személy továbbképzésére a fenntartónak, működtetőnek.
 
 (3) A gyermekjogi képviselő jogosult a gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző működési területén tájékoztatást, iratokat, információkat kérni és a helyszínen tájékozódni. A gyermekjogi képviselő köteles a gyermek személyes adatait az adatvédelmi jogszabályoknak megfelelően kezelni.
 
+(3a) A gyermekjogi képviselő jogosult az általa kezdeményezett időpontban a gyermekkel személyesen, a gyermekjóléti és gyermekvédelmi szolgáltató vezetőjének, illetve munkatársának – ideértve a nevelőszülőt is – jelenléte nélkül találkozni. A gyermek gondozási helyének biztosítania kell a gyermek és a gyermekjogi képviselő zavartalan kapcsolattartásának körülményeit.
+
 (4) A gyermekjogi képviselőt a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) foglalkoztatja. A gyermekjogi képviselő jogállására és eljárására vonatkozó részletes szabályokat külön jogszabály rendezi.
 
 (5) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző biztosítja, hogy a gyermek és hozzátartozói a gyermekjogi képviselő személyét és a vele való kapcsolat felvételének módját megismerhessék.

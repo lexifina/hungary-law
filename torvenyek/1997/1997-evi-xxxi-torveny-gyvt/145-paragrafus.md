@@ -14,11 +14,13 @@ a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, k
 
 a) a változás a szolgáltatói nyilvántartásban bejegyzett adatok módosítását nem teszi szükségessé, vagy
 
-b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé.
+b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé,
+
+c) a szolgáltatás, intézmény, hálózat, férőhelyszám az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezdése szerinti fejezetből finanszírozott.
 
 (2c) A rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
-a) az önkormányzati kötelező feladatot ellátó állami fenntartót,
+a) a bölcsődei ellátásra a megszervezésére köteles települési önkormányzattal kötött ellátási szerződéssel rendelkező nem állami, egyházi fenntartót.
 
 b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelynek létrehozására vagy kapacitásbővítéssel járó fejlesztésére a fenntartó, a szolgáltató vagy az intézmény pályázati úton elnyert európai uniós támogatásban, a Svájci Alap, az EGT Alap, a Norvég Alap támogatásában, vagy költségvetési támogatásban részesül,
 
