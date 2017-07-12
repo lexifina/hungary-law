@@ -1,3 +1,0 @@
-## 2. § Az 549/2013. (XII. 30.) Korm. rendelet 21/H. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) Az ÚMVP (II. NVT) Európai Unió felé el nem számolható kiadásai előirányzat célja a kifizetések finanszírozása, ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés 107. cikkével összhangban nyújtható állami támogatásnak minősül.”
