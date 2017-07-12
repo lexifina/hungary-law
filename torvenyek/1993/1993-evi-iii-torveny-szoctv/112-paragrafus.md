@@ -8,7 +8,7 @@ a) a rehabilitációs programban meghatározott eredményeket nem sikerült elé
 
 b) az ellátott önálló életvitelének kialakítása további segítséget igényel, amely azonban utógondozói szolgáltatás keretében nem valósítható meg.
 
-(3) A rehabilitációs célú lakóotthonban az ellátott határozatlan időre is elhelyezhető, ha a rehabilitációs alkalmassági vizsgálat, illetve a felülvizsgálat eredménye szerint az ellátott az önálló életvitel kialakítására várhatóan csak részben lesz képes.
+(3) A rehabilitációs célú lakóotthonban az ellátott határozatlan időre is elhelyezhető, ha az ellátott az önálló életvitel kialakítására várhatóan csak részben lesz képes.
 
 (4) A rehabilitációs intézményben és a rehabilitációs célú lakóotthonban minden esetben biztosítani kell
 
@@ -30,6 +30,6 @@ c) a szükséges egészségügyi ellátást vagy az egészségügyi ellátáshoz
 
 d) a szükséges utógondozást
 
-az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban a rehabilitációs alkalmassági vizsgálat, illetve a felülvizsgálat eredményének figyelembevételével kell meghatározni.
+az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban kell meghatározni.
 
 (7) Az utógondozás a rehabilitációs intézmény és a rehabilitációs célú lakóotthon által a társadalmi életben való részvétel, a munkavállalás és az önálló életvitel elősegítése érdekében nyújtott szolgáltatás. Az utógondozás időtartama nem haladhatja meg a két évet.

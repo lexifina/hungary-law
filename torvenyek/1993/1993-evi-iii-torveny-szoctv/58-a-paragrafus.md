@@ -18,7 +18,7 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságnak nem feltétele a befogadás
 
-a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott szociális szolgáltatók és szociális intézmények esetén,
+a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a 91. § (3) bekezdése alapján más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
 
 b) családsegítés és gyermekjóléti szolgáltatás esetén,
 
@@ -26,11 +26,13 @@ c) utcai szociális munka esetén,
 
 d) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás esetén, valamint
 
-e) támogatott lakhatás esetén.
+e) támogatott lakhatás esetén,
+
+f) az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezdése szerinti fejezetből finanszírozott szociális szolgáltató, intézmény (székhely, telephely) és az általa nyújtott szociális szolgáltatás, valamint az ehhez tartozó ellátotti létszám, férőhelyszám vagy feladatmutató esetén.
 
 (2c) A rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
-a) az önkormányzati kötelező feladatot ellátó, állami fenntartású szociális szolgáltatót, intézményt (székhelyet, telephelyet) és az általa önkormányzati kötelező feladatként nyújtott szociális szolgáltatást, valamint az ehhez tartozó ellátotti létszámot és férőhelyszámot,
+a)
 
 b) azt a szociális szolgáltatót, intézményt (székhelyt, telephelyet), szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, vagy a szociális szolgáltató, intézmény az Európai Uniótól, a Svájci Alapból, az EGT Alapból, a Norvég Alapból vagy a központi költségvetésből – a szociál- és nyugdíjpolitikáért felelős miniszter által közzétett közleményben meghatározott – pályázaton elnyert támogatásban részesül,
 
@@ -48,11 +50,11 @@ cd) hajléktalan személyek átmeneti szállása esetében a befogadott férőhe
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen és átcsoportosításon az egyik intézményben, telephelyen történő ellátotti létszám-, férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű ellátotti létszám-, férőhelyszám-növelést kell érteni.
 
-(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két közzétett időpontban – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése nélkül dönt, ha a befogadást fenntartóváltásra tekintettel kérik, és a fenntartóváltás költségvetési többletkiadással nem jár. Ebben az esetben a döntést a közzétett évi két döntési időpontra tekintet nélkül kell meghozni.
+(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két közzétett időpontban – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése nélkül dönt, ha a befogadást fenntartóváltásra vagy fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra tekintettel kérik, és a fenntartóváltás vagy átadás költségvetési többletkiadással nem jár. Ebben az esetben a döntést a közzétett évi két döntési időpontra tekintet nélkül kell meghozni.
 
-(2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés nem alkalmazható, a befogadásra a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott és közleményben közzétett kapacitások, vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
+(2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés – ide nem értve az ellátási területet nem érintő szétválás, egyesítés vagy átcsoportosítás esetében a (2c) bekezdés c) pont ca) és cb) alpontját – nem alkalmazható, a befogadásra a (2d) vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
 
-(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás és fejlesztő foglalkoztatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
+(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
 a) házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
 
@@ -69,6 +71,8 @@ b) a feltételek vizsgálatakor
 ellátott személyek száma, teljesített feladatmutató, illetve betöltött férőhelyek száma közül a magasabbnak a 110%-a alá.
 
 (2j) A (2h) bekezdés b) és c) pontja szerinti esetben a szociál- és nyugdíjpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről az eset összes körülményeire, így különösen a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására tekintettel dönt.
+
+(2k) A (2f) bekezdésben foglaltak alapján kérhető az átlagot jóval meghaladó minőségű elhelyezési körülményeket és szolgáltatásokat biztosító tartós bentlakásos intézményre vonatkozó, 2008. január 1-jét megelőzően hatályos szabályok alapján a szolgáltatói nyilvántartásban emelt szintű férőhelyként befogadott férőhelyeknek az adott intézménytípusra a központi költségvetésről szóló törvényben meghatározott, általános szabályok szerinti támogatásra jogosító befogadása.
 
 (3) Szociális szövetkezet nem nyújthat az 57. § (2) bekezdése szerinti személyes gondoskodást.
 
