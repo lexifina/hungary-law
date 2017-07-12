@@ -10,12 +10,6 @@ d) 112. § (3) bekezdésében az „a rehabilitációs alkalmassági vizsgálat,
 
 e) 112. § (6) bekezdésében az „a rehabilitációs alkalmassági vizsgálat, illetve a felülvizsgálat eredményének figyelembevételével” szövegrész.
 
-(2) Hatályát veszti az Szt. 132. § (1) bekezdés o) pontja.
+(2)
 
-(3) Hatályát veszti az Szt.
-
-a) 4. § (1) bekezdés a) pont aa) alpontjában az „a Szjatv. 27. § (1) bekezdés b) pontjában meghatározott bevételt, valamint” szövegrész,
-
-b) 92/E. § (2) bekezdésében a „szakvizsgáztatásának,” szövegrész,
-
-c) 92/I. §-a.
+(3)
