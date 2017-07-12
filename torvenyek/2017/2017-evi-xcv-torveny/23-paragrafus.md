@@ -1,0 +1,7 @@
+23. § A Gyvt. a következő 184. §-sal egészül ki:
+
+„184. § (1) Ha a családok átmeneti otthonának fenntartója az 51. § (2) bekezdés 2017. november 15-én hatályos második mondatában foglaltak szerint legfeljebb tizenegy férőhelyes lakásban vagy családi házban – a szolgáltatói nyilvántartásba 2017. november 15-én bejegyzett – telephelyet működtet, 2017. november 30-áig kérelmezheti, hogy e telephelye 2018. január 1-jétől ne külső férőhelyként, hanem – kormányrendeletben foglaltak szerint – valamely általa fenntartott, a szolgáltatói nyilvántartásba székhelyként vagy telephelyként bejegyzett családok átmeneti otthonának részeként legyen bejegyezve. Az e bekezdés alapján bejegyzett férőhelyekre a 2018. január 1-jén hatályos 51. § (2) bekezdése szerinti férőhelykorlát nem vonatkozik.
+
+(2) Ha a fenntartó az (1) bekezdésben meghatározott határidőt elmulasztja, vagy az 51. § (2) bekezdés 2017. november 15-én hatályos második mondata szerinti telephelyet 2017. november 15-ét követően jegyezték be a szolgáltatói nyilvántartásba, a legfeljebb tizenegy férőhelyes lakásban vagy családi házban működtetett férőhelyeket hivatalból külső férőhelyként kell bejegyezni a szolgáltatói nyilvántartásba.
+
+(3) Az (1), illetve (2) bekezdés szerinti adatmódosítással egyidejűleg az 51. § (2) bekezdés 2017. november 15-én hatályos második mondata szerinti telephelyet 2017. december 31-ével hivatalból törölni kell a szolgáltatói nyilvántartásból.”

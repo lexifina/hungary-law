@@ -1,0 +1,3 @@
+20. § A Gyvt. 93. §-a a következő (9a) bekezdéssel egészül ki:
+
+„(9a) A 25. életévét betöltött, hallgatói jogviszonyban álló fiatal felnőtt utógondozói ellátása a fiatal felnőtt kérelmére meghosszabbítható a hallgatói jogviszonya megszűnéséig, de legkésőbb a 30. életévének a betöltéséig. A kérelemről az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartója dönt a fiatal felnőtt tanulmányaiból hátralévő időtartamra, a tanulmányok befejezésének esélyére, a fiatal felnőttnek az utógondozói ellátást nyújtó intézménnyel történő együttműködési készségére és a rászorultságára tekintettel.”
