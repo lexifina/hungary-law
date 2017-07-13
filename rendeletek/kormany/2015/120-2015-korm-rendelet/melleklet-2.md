@@ -1130,6 +1130,6 @@
 
 | 560. | Zala | Zalaegerszeg | 037671 | Deák Ferenc és Széchenyi István Szakközépiskola és Szakiskola Zrínyi utcai telephelye | 8900 Zalaegerszeg Zrínyi utca 1. | TH | 003 | megszűnt, de még nem törölt feladatellátási hely |
 
-2. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^5]
+2. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^6]
 
-[^5]: A 2. melléklet a 144/2016. (VI. 13.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet a 144/2016. (VI. 13.) Korm. rendelet 2. § c) pontja, a 188/2017. (VII. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.

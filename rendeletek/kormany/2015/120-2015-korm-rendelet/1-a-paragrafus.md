@@ -1,4 +1,4 @@
-1/A. §[^2] (1) Klebelsberg Intézményfenntartó Központ fenntartásában működő
+1/A. §[^3] (1) Klebelsberg Intézményfenntartó Központ fenntartásában működő
 
 a) Mezőkövesdi Szent László Gimnázium és Közgazdasági Szakközépiskola (3400 Mezőkövesd, Mátyás király út 146.),
 
@@ -44,4 +44,4 @@ b) Haller János Általános Iskola, Szakközépiskola és Szakiskola (9231 Már
 
 (4) A Klebelsberg Intézményfenntartó Központ fenntartásában működő Hajnóczy József Gimnázium, Humán Szakközépiskola és Kollégium Dr. Hegedüs T. András Tagintézménye két feladatellátási helyével (OM 037923, 5000 Szolnok, Bajcsy-Zsilinszky út 2., és 5000 Szolnok, Lomb utca 8/A.) – az ellátott köznevelési feladat más szervezeti formában történő hatékony ellátása céljából – 2016. július 1-jével kiválik a Klebelsberg Intézményfenntartó Központból és a szakképzésért és felnőttképzésért felelős miniszter által fenntartott illetékes szakképzési centrumba olvad be, és annak egyik tagintézménye telephelyeként folytatja működését.
 
-[^2]: Az 1/A. §-t a 144/2016. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1/A. §-t a 144/2016. (VI. 13.) Korm. rendelet 1. §-a iktatta be.

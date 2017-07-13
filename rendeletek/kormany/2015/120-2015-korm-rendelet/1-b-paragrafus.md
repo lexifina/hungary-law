@@ -1,4 +1,4 @@
-1/B. §[^3] (1) Az 1/A. § (1) és (4) bekezdésében meghatározott kiválással érintett köznevelési intézmények tekintetében
+1/B. §[^4] (1) Az 1/A. § (1) és (4) bekezdésében meghatározott kiválással érintett köznevelési intézmények tekintetében
 
 a) a Klebelsberg Intézményfenntartó Központ az átalakítás időpontjáig a költségvetési kiadási előirányzatainak a fenntartóváltással érintett köznevelési intézményekre jutó arányos része terhére – az európai uniós forrásból megvalósuló beruházások kivételével – beruházást, felújítást érintően új kötelezettséget nem vállalhat, a kiválással érintett köznevelési intézményeket érintő foglalkoztatásra irányuló jogviszonyt a szakképzésért és felnőttképzésért felelős miniszter egyetértésével létesíthet vagy szüntethet meg,
 
@@ -68,4 +68,4 @@ k) a kiválással érintett köznevelési intézményt érintő hazai, illetve e
 
 l) az i) és a k) pontok szerinti hazai, illetve európai uniós forrásból finanszírozott projektek tekintetében a támogató a támogatási szerződés módosításáról a támogatás felhasználásának rendjéről szóló, vonatkozó jogszabályban meghatározottak szerint gondoskodik.
 
-[^3]: Az 1/B. §-t a 144/2016. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1/B. §-t a 144/2016. (VI. 13.) Korm. rendelet 1. §-a iktatta be.

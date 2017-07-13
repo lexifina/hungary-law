@@ -200,7 +200,7 @@
 
 | 99. | Győr- Moson- Sopron | Győr | 202971 | Győri Kovács Margit Német Nyelvoktató Nemzetiségi Általános Iskola, Alapfokú Művészeti Iskola, Iparművészeti Szakközépiskola és Szakiskola | 9024 Győr, Répce utca 2. | SZ | 001 | KLIK |
 
-| 100. | Győr- Moson- Sopron | Győr | 030708 | Győri Móra Ferenc Általános Iskola és Szakközépiskola | 9023 Győr, Kodály Zoltán utca 20-24. | SZ | 001 | KLIK |
+| 100. |  |  |  |  |  |  |  |  |
 
 | 101. | Győr- Moson- Sopron | Győr | 030724 | Richter János Zeneművészeti Szakközépiskola, Általános Iskola, Alapfokú Művészeti Iskola és Kollégium | 9022 Győr, Rákóczi Ferenc utca 57. | SZ | 001 | KLIK |
 
@@ -376,7 +376,7 @@
 
 | 187. | Szabolcs- Szatmár- Bereg | Rakamaz | 201032 | Erzsébet Királyné Német Nemzetiségi Általános Iskola, AMI és Szakiskola | 4465 Rakamaz, Ady Endre út 63. | SZ | 001 | KLIK |
 
-| 188. | Vas | Bük | 036659 | Felsőbüki Nagy Pál Általános Iskola és Szakiskola | 9737 Bük, Eötvös József utca 1-3. | SZ | 001 | KLIK |
+| 188. | Vas | Bük | 036659 | Felsőbüki Nagy Pál Általános Iskola | 9737 Bük, Eötvös József utca 1-3. | SZ | 001 | KLIK |
 
 | 189. |  |  |  |  |  |  |  |  |
 
@@ -416,6 +416,6 @@
 
 | 207. | Zala | Lenti | 037631 | Gönczi Ferenc Gimnázium és Szakközépiskola | 8960 Lenti, Zrínyi Miklós utca 5. | SZ | 001 | KLIK |
 
-3. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^6]
+3. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^7]
 
-[^6]: A 3. mellékletet a 144/2016. (VI. 13.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte.
+[^7]: A 3. mellékletet a 144/2016. (VI. 13.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte.
