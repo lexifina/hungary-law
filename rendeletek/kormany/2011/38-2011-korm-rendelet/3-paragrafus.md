@@ -14,7 +14,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 4. | Egységes szociális nyilvántartás | Országos Nyugdíjbiztosítási Főigazgatóság Központja | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
-| 5. | Az európai uniós források felhasználásához kötődő adatfeldolgozói feladatok | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | kötelező |
+| 5. | Az európai uniós források felhasználásához kötődő adatfeldolgozói feladatok | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | elektronikus adatfeldolgozás | kötelező |
 
 | 6. | A polgárok személyi adatainak és lakcímének nyilvántartása | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | kötelező |
 
@@ -68,4 +68,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 31. | Természetes személyek adósságrendezési eljárásával összefüggő nyomtatványellenőrzési és nyomtatványkitöltő informatikai rendszer | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított szöveg.
+[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
