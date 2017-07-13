@@ -1,4 +1,4 @@
-## 87/A. §[^447]
+## 87/A. §[^449]
 
 88. § (1) A kedvezményezett kizárólag a támogatás arányos csökkentése mellett jogosult csökkenteni az indikátor célértéket.
 
@@ -10,10 +10,10 @@ Visszaköveteléssel érintett támogatási arány = 75–(teljesített indikát
 
 (4) Ha az indikátor teljesülése adott tevékenységhez köthető, az arányosítást a tevékenységre jutó támogatás arányában kell elvégezni. Ha a projekt célja több indikátor teljesítése, és több indikátor nem érte el a támogatási szerződésben, vagy ezek módosításában meghatározott érték 75%-át, az arányosítást a legalacsonyabb arányban teljesült indikátort figyelembe véve kell elvégezni.
 
-(5)[^448] Az (1)–(4) bekezdés nem alkalmazható a szakpolitikai mutatók és az eredményindikátorok vonatkozásában.
+(5)[^450] Az (1)–(4) bekezdés nem alkalmazható a szakpolitikai mutatók és az eredményindikátorok vonatkozásában.
 
-(6)[^449] Ha az indikátor egyben a műszaki-szakmai tartalom részét képezi, a támogatási szerződésben szereplő tervérték csökkenése esetén a műszaki-szakmai tartalom csökkenésére vonatkozó, az 1. melléklet 65.4. pont c) alpontját szükséges alkalmazni.
+(6)[^451] Ha az indikátor egyben a műszaki-szakmai tartalom részét képezi, a támogatási szerződésben szereplő tervérték csökkenése esetén a műszaki-szakmai tartalom csökkenésére vonatkozó, az 1. melléklet 65.4. pont c) alpontját szükséges alkalmazni.
 
-[^447]: A 87/A. §-t a 345/2016. (XI. 17.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 17/2017. (II. 1.) Korm. rendelet 9. §-a. Ez utóbbi módosító rendelet 8. §-a alapján a 2017. február 2-át megelőzően keletkezett támogatási jogviszonyokra, valamint megkezdett és a hatálybalépésekor még folyamatban lévő eljárásokban is alkalmazni kell.
-[^448]: A 88. § (5) bekezdése a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 15. pontja szerint módosított szöveg.
-[^449]: A 88. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 53. §-a iktatta be.
+[^449]: A 87/A. §-t a 345/2016. (XI. 17.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 17/2017. (II. 1.) Korm. rendelet 9. §-a. Ez utóbbi módosító rendelet 8. §-a alapján a 2017. február 2-át megelőzően keletkezett támogatási jogviszonyokra, valamint megkezdett és a hatálybalépésekor még folyamatban lévő eljárásokban is alkalmazni kell.
+[^450]: A 88. § (5) bekezdése a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^451]: A 88. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 53. §-a iktatta be.

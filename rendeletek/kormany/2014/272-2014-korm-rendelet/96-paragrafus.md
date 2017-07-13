@@ -8,6 +8,6 @@ c) a dokumentumokat elektronikus formában küldi meg.
 
 (2) Az európai uniós források felhasználásáért felelős miniszter és az irányító hatóság számára meghatározott határidőbe nem számít bele a hiánypótlásra, illetve a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő, jogorvoslati, illetve szabálytalansági eljárás esetén az eljárás felfüggesztésének időtartama.
 
-(3)[^484] Az ellenőrzési eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A nem egyértelmű kijelentések tisztázása érdekében ugyanazon kérdéskörben legfeljebb egy alkalommal a tényállás tisztázása kérhető. Az ellenőrzés megindításával kapcsolatban hiánypótlás kibocsátására az ezen alcím szerinti ellenőrzési eljárás megindulásától számított három munkanapon belül kerül sor.
+(3)[^486] Az ellenőrzési eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A nem egyértelmű kijelentések tisztázása érdekében ugyanazon kérdéskörben legfeljebb egy alkalommal a tényállás tisztázása kérhető. Az ellenőrzés megindításával kapcsolatban hiánypótlás kibocsátására az ezen alcím szerinti ellenőrzési eljárás megindulásától számított három munkanapon belül kerül sor.
 
-[^484]: A 96. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 111. pontja szerint módosított szöveg.
+[^486]: A 96. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 111. pontja szerint módosított szöveg.
