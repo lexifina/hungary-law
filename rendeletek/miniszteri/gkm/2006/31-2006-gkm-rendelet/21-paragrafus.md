@@ -10,16 +10,16 @@ d) a gyártási számot,
 
 e) a típusjóváhagyó próbajelet.
 
-(2) A típusjóváhagyó vizsgálat próbajele, amely a kipontozott helyen a jóváhagyás számát is tartalmazza, a következő:
-
-a) fegyverekre, betétcsövekre és lövőkészülékekre:
+(2)[^16] A típusjóváhagyó vizsgálat próbajele, amely a kipontozott helyen a jóváhagyás számát is tartalmazza, a következő:
 
 9. számú próbajel
 
-Ezzel a próbajellel kell ellátni a 17. § (2) bekezdésének a), b) és c) pontjában felsorolt fegyvereket és lövőkészülékeket.
+CIP
 
-b) riasztó- és légfegyverekre:
+T
 
-10. számú próbajel
+...
 
-Ezzel a próbajellel kell ellátni a 17. § (2) bekezdésének d) és e) pontjában felsorolt fegyvereket.
+Ezzel a próbajellel kell ellátni a 17. § (2) bekezdésében felsorolt eszközöket.
+
+[^16]: A 21. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 2. §-ával megállapított szöveg.
