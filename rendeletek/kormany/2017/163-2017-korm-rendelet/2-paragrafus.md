@@ -1,0 +1,3 @@
+## 1. § Az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendelet [a továbbiakban: 1/2004. (I. 5.) Korm. rendelet] „Kohéziós Alap közreműködő szervezet” alcíme a következő 28/A. §-sal egészül ki:
+
+## „28/A. § A Kohéziós Alap támogatásával megvalósuló közszolgáltatási célú eszközrendszer működtetésére, vagyonkezelésére irányuló közszolgáltatási, üzemeltetési, vagyonkezelési szerződések és módosításuk létrejöttéhez, illetve hatályossá válásához a Kohéziós Alap támogatásával megvalósuló eszközrendszer üzembe helyezésétől számított öt évig a közreműködő szervezet hozzájárulása is szükséges.”

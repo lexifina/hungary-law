@@ -1,5 +1,3 @@
-## 1–3. §[^1]
+## 3. § Hatályát veszti az 1/2004. (I. 5.) Korm. rendelet 33. § (3) bekezdése.
 
 ## 2. A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet módosítása
-
-[^1]: Az 1–3. § a 20. § (2) bekezdése alapján 2017. július 13-án lép hatályba.

@@ -1,11 +1,13 @@
-## 5–8. §[^3]
+## lép.
 
 ## 9. § Hatályát veszti a 60/2014. (III. 6.) Korm. rendelet
 
-a)–c)[^4]
+a) 6. § (1) bekezdés f) pontjában az „a monitoring egységet vezető állami vezető útján” szövegrész,
 
-d)[^5]
+b) 12. § (1) bekezdése,
 
-[^3]: Az 5–8. § a 20. § (2) bekezdése alapján 2017. július 13-án lép hatályba.
-[^4]: A 9. § a)–c) pontja a 20. § (2) bekezdése alapján 2017. július 13-án lép hatályba.
-[^5]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+c) 25. § (2) bekezdés g) pont 2. alpontjában az „a monitoring egységet vezető állami vezető útján” szövegrész és
+
+d)[^1]
+
+[^1]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

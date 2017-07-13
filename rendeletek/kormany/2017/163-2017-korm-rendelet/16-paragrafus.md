@@ -1,3 +1,3 @@
-## 13–15. §[^10]
+## 13–15. §[^5]
 
-[^10]: A 13–15. § a 20. § (3) bekezdése alapján 2017. július 28-án lép hatályba.
+[^5]: A 13–15. § a 20. § (3) bekezdése alapján 2017. július 28-án lép hatályba.
