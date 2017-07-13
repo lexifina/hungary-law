@@ -1,9 +1,12 @@
-12. § (1) A FAIR használata tárgyában a monitoring egység szerződést köthet harmadik személlyel.
+12. § (1)[^24]
 
-(2) Az (1) bekezdés szerinti szerződésben ki kell kötni, hogy a harmadik személy köteles
+(2)[^25] A 11. § (2) bekezdése szerinti szerződésben ki kell kötni, hogy a harmadik személy köteles
 
 a) biztosítani a belépéshez szükséges azonosító titkosságát, így különösen azt, hogy arra jogosulatlan azt ne ismerhesse meg,
 
 b) gondoskodni arról, hogy a FAIR-ban csak helyes és megbízható adat kerülhessen rögzítésre,
 
 c) tartózkodni a FAIR működését, annak és az abban nyilvántartott adatok megbízhatóságát sértő vagy veszélyeztető magatartást tanúsításától.
+
+[^24]: A 12. § (1) bekezdését a 163/2017. (VI. 28.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^25]: A 12. § (2) bekezdés nyitó szövegrésze a 163/2017. (VI. 28.) Korm. rendelet 8. § 9. pontja szerint módosított szöveg.

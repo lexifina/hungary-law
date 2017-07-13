@@ -2,20 +2,24 @@
 
 13. § (1) A Fejlesztéspolitikai Adatbázis és Információs Rendszer Központi Rendszere (a továbbiakban: FAIR KR) szolgál a fejlesztési források rendelkezésre álló kerete, az indikátorok és azok teljesülésének nyilvántartására.
 
-(2) A FAIR KR révén a monitoring egység
+(2)[^26] A FAIR KR útján a monitoring felelős
 
 a) támogatja a fejlesztési forrásokból finanszírozott programok és támogatási konstrukciók egységes tervezési és engedélyezési eljárásait,
 
-b) biztosítja a támogató és a pályázók, illetve kedvezményezettek közötti elektronikus kapcsolattartást,
+b)[^27] biztosítja a támogató és az igénylők, illetve kedvezményezettek közötti elektronikus kapcsolattartást,
 
-c)[^15] a támogatáskezeléshez szükséges adatokat az ingatlan-nyilvántartási informatikai rendszerből, a cégnyilvántartási és céginformációs rendszerből, valamint a civil szervezetek nyilvántartására szolgáló informatikai rendszerből átveszi és biztosítja az érintett szervezetek számára,
+c)[^28] gondoskodik a támogatáskezeléshez szükséges adatoknak az ingatlan-nyilvántartási informatikai rendszerből, a cégnyilvántartási és céginformációs rendszerből, valamint a civil szervezetek nyilvántartására szolgáló informatikai rendszerből való átvételéről és biztosításáról az érintett szervezetek számára,
 
 d) a támogatásokkal kapcsolatos nyilvános adatokat szolgáltat,
 
 e) adatot szolgáltat a támogatástervezéshez.
 
-(3) A monitoring egység gyűjti és a FAIR KR-ben gyűjti és rögzíti a fejlesztési forrásokból megvalósuló fejlesztésekkel kapcsolatos valamennyi adatot, így különösen a támogatás odaítélése, a támogatásból megvalósuló fejlesztés végrehajtása, a támogatás kifizetése, felhasználásának ellenőrzése és monitoringja során keletkező összes olyan adatot, amely a támogatások naprakész nyilvántartásához szükséges.
+(3)[^29] A monitoring felelős a FAIR KR útján gyűjti a fejlesztési forrásokból megvalósuló fejlesztésekkel kapcsolatos valamennyi adatot, így különösen a támogatás odaítélése, a támogatásból megvalósuló fejlesztés végrehajtása, a támogatás kifizetése, felhasználásának ellenőrzése és monitoringja során keletkező összes olyan adatot, amely a támogatások naprakész nyilvántartásához szükséges.
 
-(4) A fejlesztési források felhasználásáért felelős szervezet gondoskodik a FAIR KR-ben történő rögzítés és feldolgozás céljából naprakész adatok szolgáltatásáról a monitoring egység részére a monitoring egység által meghatározott adattartalommal, gyakorisággal és formátumban.
+(4)[^30] A fejlesztési források felhasználásáért felelős szervezet gondoskodik a FAIR KR-ben történő rögzítés és feldolgozás céljából naprakész adatok szolgáltatásáról a monitoring felelős részére az általa meghatározott adattartalommal, gyakorisággal és formátumban.
 
-[^15]: A 13. § (2) bekezdés c) pontja a 28. §-sal megállapított szöveg.
+[^26]: A 13. § (2) bekezdés nyitó szövegrésze a 163/2017. (VI. 28.) Korm. rendelet 8. § 10. pontja szerint módosított szöveg.
+[^27]: A 13. § (2) bekezdés b) pontja a 163/2017. (VI. 28.) Korm. rendelet 8. § 11. pontja szerint módosított szöveg.
+[^28]: A 13. § (2) bekezdés c) pontja a 163/2017. (VI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^29]: A 13. § (3) bekezdése a 163/2017. (VI. 28.) Korm. rendelet 8. § 12. pontja szerint módosított szöveg.
+[^30]: A 13. § (4) bekezdése a 163/2017. (VI. 28.) Korm. rendelet 8. § 13. pontja szerint módosított szöveg.
