@@ -2,6 +2,8 @@
 
 72. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. ABA esetében a kezelési szabályzatnak hivatkoznia kell a letétkezelő által kötött azon megállapodásokra, amelyek célja, hogy a letétkezelő a 64. § (16) bekezdésével összhangban, szerződéses alapon felmentse magát a felelősség alól. A kezelési szabályzatot nyilvános befektetési alap esetében a 3. melléklet I. Fejezetében, zártkörű befektetési alap esetében a 3. melléklet II. Fejezetében, kockázati tőkealap, illetve magántőkealap esetében a 3. melléklet III. Fejezetében foglaltaknak megfelelő tartalommal kell elkészíteni.
 
+(1a) Zártkörű befektetési alap esetében a kezelési szabályzat tartalmára vonatkozóan az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/2365 rendelet) is megfelelően alkalmazandó.
+
 (2) A befektető a befektetési jegyek vásárlásakor nyilatkozik arról, hogy ismeri a kezelési szabályzatban foglalt feltételeket, különös tekintettel a befektetési jegyhez fűződő kockázatokra, valamint arról, hogy a befektetés a kockázatviselő képességének megfelel.
 
 (3) A nyilvános befektetési alap kezelési szabályzatában foglaltakat a befektetési alapkezelő a befektetők hozzájárulása nélkül, a Felügyelet engedélyével módosíthatja.
