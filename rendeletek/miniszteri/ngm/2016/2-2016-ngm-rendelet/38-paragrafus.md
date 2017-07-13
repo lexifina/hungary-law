@@ -1,1 +1,0 @@
-## való megfelelést szolgálja.

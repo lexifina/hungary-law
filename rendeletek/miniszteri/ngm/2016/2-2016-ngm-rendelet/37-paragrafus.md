@@ -1,9 +1,5 @@
 37. § (1) E rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
-(2) Ez a rendelet
+(2)[^11] Ez a rendelet az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelv 2. cikk 1., 8., 9. pontjának, 5. cikk (2) bekezdésének, II. melléklet 2. pontjának és 3. pont 3.3. alpontjának való megfelelést szolgálja.
 
-a) a nyomástartó berendezésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1997. május 29-i 97/23/EK európai parlamenti és tanácsi irányelvnek,
-
-b) az egyszerű nyomástartó edényekről szóló, 2009. szeptember 16-i 2009/105/EK európai parlamenti és tanácsi irányelvnek, és
-
-c) a szállítható nyomástartó berendezésekről és a 76/767/EGK, 84/525/EGK, 84/526/EGK, 84/527/EGK és az 1999/36/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. június 16-i 2010/35/EU európai parlamenti és tanácsi irányelvnek
+[^11]: A 37. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 15. §-ával megállapított szöveg.

@@ -12,7 +12,7 @@
 
 ## 2.1.2. ADR/RID/ADN: a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének (a továbbiakban: ADR), a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének (a továbbiakban: RID), és a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzatnak (a továbbiakban: ADN) előírásai.
 
-## 2.1.3. Bejelentett szervezet: a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló a 9/2001. (IV. 5.) GM rendelet (a továbbiakban: R.) alapján kijelölt és az R. 10. § (3) bekezdés szerint bejelentett szervezet, amely kielégíti az R. 1. és 2. számú mellékletében foglalt feltételeket.
+## 2.1.3. Bejelentett szervezet: a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 44/2016. (XI. 28.) NGM rendelet (a továbbiakban: R.) alapján kijelölt és bejelentett szervezet, amely megfelel az R. 22. §-ában foglalt feltételeknek.
 
 ## 2.1.4. Biztonsági értékelés (károsodás elemzés): a nyomástartó berendezés üzemeltetése során várható károsodásának meghatározása, figyelembe véve a nyomásnak, a hőmérsékletnek, a töltetnek, a környezetnek, a mechanikai igénybevételnek és az üzemeltetés körülményeinek az adott berendezésre beleértve minden szerelvényét, tartozékát, részegységét gyakorolt hatását.
 
@@ -76,9 +76,9 @@
 
 ## 2.1.28. Megfelelő szellőzés: megfelelő a szellőzés, ha veszélyes, vagy egyéb egészségkárosító gázkoncentráció, valamint veszélyes mértékű oxigéndúsulás vagy -hiány normál üzemben nem alakulhat ki.
 
-## 2.1.29. Megfelelőségi jelölés: az R. 12. §-ban és az R. 10. számú mellékletében meghatározott, az R. 4. számú mellékletében rögzített szimbólumot jelenti.
+## 2.1.29. Megfelelőségi jelölés: az R. 15. §-ában és az R. 8. mellékletében meghatározott, az R. 1. mellékletében rögzített szimbólum.
 
-## 2.1.30. Megfelelőség-értékelés: az R. 23. §-ban és az R. 8. számú mellékletében rögzített eljárásokat jelenti.
+## 2.1.30. Megfelelőségértékelés: az R. 41. és 46. §-ában, valamint az R. 4., 5. és 7. mellékletében rögzített eljárások.
 
 ## 2.1.31. Megszüntetés: a nyomástartó berendezés és létesítmény végleges használaton kívül helyezése, lebontása, beleértve a szükséges környezetvédelmi intézkedések végrehajtását.
 
@@ -136,7 +136,7 @@
 
 ## 2.1.53.5. Vegyi tisztítás: üzem közben keletkezett töltet oldali szennyeződések eltávolítása.
 
-## 2.1.54. Veszélyelemzés: az R. 6. számú mellékletének „Bevezető megállapítások” 3. pontja szerint végrehajtott elemzés, amely tartalmazza a berendezésben megengedhető legnagyobb túlnyomás hatásai által fenyegető veszélyek szem előtt tartásával a tervezésre, a gyártásra, az üzemeltetésre vonatkozó mindazon előírásokat, amelyek teljesítése esetén az üzemeltetés során tervezési, gyártási hiányosságból adódó veszély fenyegetésével nem kell számolni. Tartalmazza továbbá azon hatások felsorolását, amelyek az üzemeltetés során valamely jellemző változása miatt lépnek fel és veszély kialakulásával fenyegethetnek.
+## 2.1.54. Veszélyazonosítás és kockázatelemzés: az R. 3. melléklet „Bevezető megállapítások” alcímében meghatározottak szerint végrehajtott elemzés.
 
 ## 2.1.55. Veszélyes gázkoncentráció:
 
@@ -199,6 +199,8 @@
 ## f) a működtetéshez szükséges egyéb épület, műtárgy.
 
 ## 3. Autógáz töltő berendezés: a tároló egység vagy ellátó egység – sűrítő kompresszor, puffer tároló egység, elpárologtató – és a kimérő szerkezet.
+
+## 3a. CNG-csatlakozó/érzékelő: az ENSZ-EGB 110. számú Előírásának megfelelő, CNG-vel való töltésre szolgáló csatlakozó/érzékelő.
 
 ## 4. Elpárologtató egység: telepített berendezés, amely az állomás tárolótartályban lévő cseppfolyós üzemanyagot gáz halmazállapotúvá alakítja.
 
@@ -298,7 +300,7 @@
 
 ## a) Szabadban, épületben (zárt helyiségben) elhelyezett nyomástartó berendezésekre egyaránt figyelembe kell venni és teljesíteni kell az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó, a munkavédelemről szóló 1993. évi XCIII. törvényben foglalt követelményeket.
 
-## b) A segédenergiával működő biztonsági berendezések működőképességét üzemzavar, energiaellátási zavar esetén is fenn kell tartani (ez nem vonatkozik azokra a szerelvényekre, amelyek energia kiesés esetén önműködően biztonságos üzemállapotba kerülnek). Az ehhez szükséges biztonsági-tartalék energiaellátás tegye lehetővé a nyomástartó berendezés biztonságos leállítását, és a biztonsági- és riasztóberendezések működését. Az energiaellátás zavara esetén a biztonsági berendezések mellett a vészkikapcsoló rendszer, a vészvilágítás, a gázjelző berendezések, a palásthűtés működését is biztosítani kell. Az energiaellátás vagy a biztonsági-tartalék energiaellátás kiesését optikai vagy akusztikai úton jelezni kell. Az átkapcsolás és visszakapcsolás felismerhető és önműködő legyen. A biztonsági és távközlési berendezések, valamint a biztonsági tartalék energiaellátás vezetékeit és kábeleit a mechanikai és hőhatásoktól védeni kell. A táp- és irányítástechnikai kábelek káros kölcsönhatását tűz esetén is meg kell akadályozni.
+## b) A földgázellátásról szóló 2008. évi XL. törvény 88. § (2) bekezdésben meghatározott gázszerelési munkák elvégzésére az ott meghatározott feltételeknek megfelelő gázszerelő jogosult. Ez nem zárja ki, és nem helyettesíti a hegesztővel szemben támasztott minősítési követelmények teljesülését, ha a kivitelezési munka ezt szükségessé teszi, továbbá ha a létesítésre vonatkozó előírások további követelmények teljesülését is megkövetelik.
 
 ## c) A helyiség és ezen belül a kezelési hely légcseréjét az Országos Tűzvédelmi Szabályzat figyelembe vételével kell biztosítani.
 
@@ -3455,5 +3457,15 @@
 ## 10.3.3. A vákuumszigetelt tartályok folyadékfázis hőmérsékletének ellenőrzése nem szükséges.
 
 ## 10.3.4. A vákuumszigetelt kriogén tartályok vákuumszigetelésének megfelelőségét a külső palást szemrevételezésével, valamint a töltet nyomásemelkedésének sebességével lehet ellenőrizni. Amennyiben a paláston kifagyás nem tapasztalható, valamint nyomásemelkedés a vizsgálat alatt nem jelentkezik, úgy a szigetelés minősége megfelelő.
+
+## 10.4. A gépjárművek hidrogén-töltőállomásaira vonatkozó műszaki előírások
+
+## 10.4.1. A gépjárművek üzemanyagaként használt gáz-halmazállapotú hidrogén töltésére szolgáló kültéri hidrogén-töltőállomásoknak ki kell elégíteniük a gáz-halmazállapotú hidrogén töltési előírásaira vonatkozó ISO/TS 19880 szabvány műszaki előírásait vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeit.
+
+## 10.4.2. A hidrogén-töltőállomásokon töltött hidrogén tisztaságának meg kell felelnie az ISO 14687-2 szabványban foglalt műszaki előírásoknak vagy az azzal egyenértékű biztonságot nyújtó termékjellemzőknek.
+
+## 10.4.3. A hidrogén-töltőállomásokon a gáz-halmazállapotú hidrogén töltési előírásaira vonatkozó ISO/TS 19880 szabványnak vagy azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeinek megfelelő töltési algoritmusokat és berendezéseket kell alkalmazni.
+
+## 10.4.4. A gépjárművek gáz-halmazállapotú hidrogénnel való töltésére szolgáló csatlakozóknak ki kell elégíteniük a gépjárművek gáz-halmazállapotú hidrogénnel való töltésére szolgáló csatlakozóberendezésekre vonatkozó ISO 17268 szabvány műszaki előírásait vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeit.
 
 3. melléklet a 2/2016. (I. 5.) NGM rendelethez
