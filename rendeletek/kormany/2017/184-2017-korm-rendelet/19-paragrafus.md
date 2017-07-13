@@ -1,0 +1,1 @@
+## 18. § Ha a KSH adatfelvétele esetében az adatszolgáltató az adatok benyújtására maga helyett mást bíz meg (adatbenyújtó), az erre vonatkozó meghatalmazást a KSH részére az első adatszolgáltatást megelőzően köteles megküldeni. A meghatalmazott eljárását úgy kell tekinteni, mintha az adatszolgáltató járt volna el.

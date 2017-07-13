@@ -1,0 +1,3 @@
+24. § (1) A statisztikai regiszterek létrehozása, módosítása vagy megszüntetése esetén a statisztikai regisztert kezelő szervezet az ezzel kapcsolatos szándékról haladéktalanul köteles a Hivatalos Statisztikai Szolgálat többi tagját értesíteni. Az értesítéssel egy időben lehetőséget és megfelelő időt kell biztosítania a KSH számára, hogy koordinációs szerepében a hivatalos statisztikai célú észrevételeket megtegye, létrehozás vagy módosítás esetén a javaslatainak gyakorlati megvalósítására lehetőség legyen.
+
+(2) A létrehozott vagy a 23. § (2) bekezdésben meghatározott jellemzőkben módosított statisztikai regiszter éles üzemre állításához a KSH jóváhagyása szükséges. A KSH ezen döntését kizárólag méltányolható hivatalos statisztikai érdekek alapján jogosult meghozni.
