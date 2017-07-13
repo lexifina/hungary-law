@@ -1,4 +1,4 @@
-1. melléklet az 1/2004. (I. 5.) Korm. rendelethez[^67]
+1. melléklet az 1/2004. (I. 5.) Korm. rendelethez[^69]
 
 ## E rendeletben meghatározott egyes intézmények működtetéséért felelős személyek
 
@@ -20,4 +20,4 @@
 
 9. a Kifizető Hatóság tekintetében az államháztartásért felelős miniszter.
 
-[^67]: Az 1. melléklet a 221/2014. (IX. 4.) Korm. rendelet 257. §-ával megállapított szöveg.
+[^69]: Az 1. melléklet a 221/2014. (IX. 4.) Korm. rendelet 257. §-ával megállapított szöveg.
