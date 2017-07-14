@@ -1,4 +1,4 @@
-## 16. § Az R4. 2. melléklete a 3. melléklet szerint módosul.
+## 13–16. §[^4]
 
 ## 5. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 8. § és a 9. § 2018. január 1-jén lép hatályba.
 
 (3) A 10–12. § és a 2. melléklet 2018. február 12-én lép hatályba.
+
+[^4]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
