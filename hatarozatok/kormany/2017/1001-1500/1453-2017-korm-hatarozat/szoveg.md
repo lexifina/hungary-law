@@ -4,4 +4,6 @@ A Kormány
 
 2. egyetért azzal, hogy az 1. pontban foglalt feladatokkal összefüggésben felmerülő kiadások finanszírozásához szükséges forrásokat a XIII. Honvédelmi Minisztérium fejezet részére biztosítja;
 
-3. visszavonja a külföldi fegyveres erőknek a határrendészeti feladatok támogatásában való részvételének engedélyezéséről szóló 1723/2015. (X. 7.) Korm. határozatot és a külföldi fegyveres erőknek a határrendészeti feladatok támogatásában való részvételének engedélyezéséről és az ezzel összefüggésben felmerülő kiadások finanszírozásáról szóló 1595/2016. (X. 28.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
