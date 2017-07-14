@@ -1,13 +1,12 @@
-## lép.
+## 5–8. §[^3]
 
-## 9. § Hatályát veszti a 60/2014. (III. 6.) Korm. rendelet
+## 9. §[^4]
 
-a) 6. § (1) bekezdés f) pontjában az „a monitoring egységet vezető állami vezető útján” szövegrész,
+a)–c)[^5]
 
-b) 12. § (1) bekezdése,
+d)[^6]
 
-c) 25. § (2) bekezdés g) pont 2. alpontjában az „a monitoring egységet vezető állami vezető útján” szövegrész és
-
-d)[^1]
-
-[^1]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

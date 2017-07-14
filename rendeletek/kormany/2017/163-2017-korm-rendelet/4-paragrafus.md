@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti az 1/2004. (I. 5.) Korm. rendelet 33. § (3) bekezdése.
+## 1–3. §[^1]
 
 ## 2. A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet módosítása
+
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

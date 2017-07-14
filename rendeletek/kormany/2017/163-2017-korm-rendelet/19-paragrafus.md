@@ -1,16 +1,16 @@
-## lép.
-
 19. § (1) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
 
-a) 115. § (4) bekezdés d) pontjában az „és formai” szövegrész,
+a)[^27]
 
-b)–f)[^14]
+b)–f)[^28]
 
 (2) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
 
-a) 32.1. pontjában az „az értékelő megítélése alapján” szövegrész és az „az értékelő kezdeményezésére” szövegrész,
+a)[^29]
 
-b)–f)[^15]
+b)–f)[^30]
 
-[^14]: A 19. § (1) bekezdés b)–f) pontja a 20. § (3) bekezdése alapján 2017. július 28-án lép hatályba.
-[^15]: A 19. § (2) bekezdés b)–f) pontja a 20. § (3) bekezdése alapján 2017. július 28-án lép hatályba.
+[^27]: A 19. § (1) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 19. § (1) bekezdés b)–f) pontja a 20. § (3) bekezdése alapján 2017. július 28-án lép hatályba.
+[^29]: A 19. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 19. § (2) bekezdés b)–f) pontja a 20. § (3) bekezdése alapján 2017. július 28-án lép hatályba.
