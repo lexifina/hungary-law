@@ -1,4 +1,4 @@
-## 29. § Hatályát veszti a statisztikáról szóló 1993. évi XLVI. törvény végrehajtásáról szóló 170/1993. (XII. 3.) Korm. rendelet.
+## 29. §[^1]
 
 1. melléklet a 184/2017. (VII. 5.) Korm. rendelethez
 
@@ -55,3 +55,5 @@
 11. Hol történt a szülés, a szülésnél ki segédkezett
 
 12. A gyermek súlya, hossza és 5 perces Apgar-értéke, fejlődési rendellenessége
+
+[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
