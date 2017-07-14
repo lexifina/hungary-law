@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^106]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^107]
 
 I. RÉSZ
 
@@ -72,9 +72,9 @@ I. RÉSZ
 
 | 28. | Foeniculum vulgare Mill | Édeskömény | TP 183/1 2004. 3. 25. |
 
-| 29. | Lactuca sativa L. | Saláta | TP 13/5 2011. 2. 16. |
+| 29. | Lactuca sativa L. | Saláta | TP 13/5 rev., 2016.4.19. |
 
-| 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 rev., 2013.2.27. |
+| 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 rev. 2., 2016.4.19. |
 
 | 31. | Petroselinum crispum (Mill.) Nyman ex A.W. Hill | Petrezselyem | TP 136/1 2007. 3. 21. |
 
@@ -88,9 +88,11 @@ I. RÉSZ
 
 | 35/a. | Scorzonera hispanica L. | Feketegyökér | TP 116/1, 2015.3.11. |
 
+| 35/b. | Rheum rhabarbarum L | Rebarbara | TP 62/1, 2016.4.19. |
+
 | 36. | Solanum melongena L. | Padlizsán vagy tojásgyümölcs | TP 117/1 2008. 3. 13. |
 
-| 37. | Spinacia oleracea L. | Spenót/paraj | TP 55/5, 2013.2.27. |
+| 37. | Spinacia oleracea L. | Spenót/paraj | TP 55/5 rev., 2016.4.19. |
 
 | 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 2007. 3. 21. |
 
@@ -98,7 +100,7 @@ I. RÉSZ
 
 | 40. | Zea mays L. (partim) | Csemege kukorica és pattogatni való kukorica | TP 2/3 2010. 3. 11. |
 
-| 41. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TG 294/1, 2014.3.19. |
+| 41. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 rev., 2016.4.19. |
 
 II. RÉSZ
 
@@ -114,9 +116,9 @@ II. RÉSZ
 
 | 3. | Cichorium intybus L. | Leveles cikória vagy olasz cikória | TG/154/3 1996. 10. 18. |
 
-| 4. |  |  |  |
+| 4. | Cucurbita maxima x Cucurbita moschata | A Cucurbita maxima Duch. x Cucurbita moschata Duch. tőként történő felhasználásra szánt interspecifikus hibridjei | TG/311/1, 2015.3.25. |
 
-| 5. | Rheum rhabarbarum L. | Rebarbara | TG/62/6 1999. 3. 24. |
+| 5. |  |  |  |
 
 | 6. |  |  |  |
 
@@ -126,4 +128,4 @@ III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^106]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja szerint módosított szöveg.
+[^107]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja szerint módosított szöveg.

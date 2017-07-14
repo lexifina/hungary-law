@@ -168,7 +168,7 @@
 
 ## 3.4. ipari felhasználásra
 
-7. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^97]
+7. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^98]
 
 ## A vizsgálatok végzésének minimumfeltételei
 
@@ -212,4 +212,4 @@
 
 2.2.4. oltó vételezését legalább három fajta oltóvesszőjével kell vizsgálni.
 
-[^97]: A 7. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
+[^98]: A 7. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
