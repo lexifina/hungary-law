@@ -78,7 +78,7 @@
 
 ## 5.1. Az Alkotmánybíróság tagjainak megbízatása az Alaptörvény 24. cikk (4) bekezdése és az Abtv. 6–9. §-ai, a 15–16. §-ai, a 18. §-a, valamint a 21. §-a alapján áll fenn.
 
-## 5.2. Az Alkotmánybíróság főtitkárának a megbízatása az Abtv. 22. § (2)–(3) bekezdései, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 236. § (2) bekezdése alapján áll fenn.
+## 5.2.[^3] Az Alkotmánybíróság főtitkárának a megbízatása az Abtv. 22. § (2)–(3) bekezdései, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 236. § (2) bekezdése alapján áll fenn. A gazdasági főigazgató jogviszonya a Kttv. 236. § (2) bekezdése alapján áll fenn.
 
 ## 5.3. Az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselők és közszolgálati ügykezelők jogviszonya a Kttv. alapján áll fenn. A munkavállalóként foglalkoztatottak jogviszonyára a Munka Törvénykönyvének, a megbízási, vállalkozási vagy egyéb, szerződéses foglalkoztatottak jogviszonyára a Polgári Törvénykönyv rendelkezései irányadóak.
 
@@ -86,7 +86,7 @@
 
 ## 5.5. Az alapfeladat ellátásában résztvevő vezető köztisztviselő (a továbbiakban: vezető köztisztviselő) feladata az Alkotmánybíróság feladat- és hatáskörébe, illetve az Alkotmánybíróság Hivatalának feladatkörébe tartozó ügyek érdemi elintézése, kiadmányozása. A vezető köztisztviselő a munkaköri leírásában részére megállapított feladatokat – a felettesétől kapott utasítás és határidő figyelembevételével – a jogszabályoknak, a szakmai előírásoknak és az ügyviteli szabályoknak megfelelően önállóan látja el. Vezető köztisztviselő különösen a főtitkár és a gazdasági főosztály vezetője.
 
-## 5.6.[^3] Főtanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar állományába tartozó jogász érdemi munkatársnak, továbbá az elnöki kabinet és a volt elnök titkársága állományába tartozó érdemi munkatársnak, aki feladata ellátásához szükséges szakirányú egyetemi végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 10 éves szakmai gyakorlattal rendelkezik. Tanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar állományába tartozó jogász érdemi munkatársnak, továbbá az elnöki kabinet és a volt elnök titkársága állományába tartozó érdemi munkatársnak, aki feladata ellátásához szükséges szakirányú felsőfokú iskolai végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 5 éves szakmai gyakorlattal rendelkezik. A főtanácsadói és tanácsadói cím nem minősül vezetői kinevezésnek és külön indokolás nélkül bármikor visszavonható. A főtanácsadói és tanácsadói címet az elnök adományozza.
+## 5.6.[^4] Főtanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar állományába tartozó jogász érdemi munkatársnak, továbbá az elnöki kabinet és a volt elnök titkársága állományába tartozó érdemi munkatársnak, aki feladata ellátásához szükséges szakirányú egyetemi végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 10 éves szakmai gyakorlattal rendelkezik. Tanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar állományába tartozó jogász érdemi munkatársnak, továbbá az elnöki kabinet és a volt elnök titkársága állományába tartozó érdemi munkatársnak, aki feladata ellátásához szükséges szakirányú felsőfokú iskolai végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 5 éves szakmai gyakorlattal rendelkezik. A főtanácsadói és tanácsadói cím nem minősül vezetői kinevezésnek és külön indokolás nélkül bármikor visszavonható. A főtanácsadói és tanácsadói címet az elnök adományozza.
 
 ## 5.7. Szakmai főtanácsadói cím adományozható annak az I. besorolási osztályba tartozó ügyintéző köztisztviselőnek, aki legalább 10 éves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve tudományos fokozattal (PhD) rendelkezik. Szakmai tanácsadói cím adományozható annak az I. besorolási osztályba tartozó ügyintéző köztisztviselőnek, aki legalább 5 éves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve tudományos fokozattal (PhD) rendelkezik. A szakmai főtanácsadói és szakmai tanácsadói cím nem minősül vezetői kinevezésnek és külön indokolás nélkül bármikor visszavonható. A főtanácsadói és tanácsadói címet az elnök adományozza. A szakmai főtanácsadók és szakmai tanácsadók száma az Alkotmánybíróság Hivatalában nem haladhatja meg a 14 főt.
 
@@ -160,51 +160,51 @@
 
 ## h) titkárságvezetőként közreműködik továbbá a hivatali és az önálló szervezeti egységet érintő rendezvények szervezésében, idegen nyelvű levéltervezeteket készít, kapcsolatot tart hazai és külföldi szervekkel, részt vesz az önálló szervezeti egység személyügyi feladatainak ellátásában, szervezi és irányítja az ügyviteli feladatokat, segíti az önálló szervezeti egység munkatársait az ügyekhez kapcsolódó hazai és külföldi jogszabályok, szakirodalom és precedensek összegyűjtésében.
 
-## 8.[^4] Az elnöki kabinet
+## 8.[^5] Az elnöki kabinet
 
 ## 8.1. Az elnöki kabinet az elnök munkaszervezete, mely segíti irányítási, koordinatív, képviseleti, valamint a nemzetközi kapcsolatokkal és a nyilvánossággal összefüggő feladatainak ellátását. Az elnöki kabinetet az elnök vezeti.
 
-## 8.2. Az elnöki kabinet a kabinetfőnökből, a nemzetközi és protokoll (fő)tanácsadóból, valamint az elnöki (fő)tanácsadókból áll. Az elnöki kabinet titkársági feladatait az elnök alkotmánybírói törzskarának a titkársági feladatokat ellátó munkatársa (titkárságvezető vagy titkár/nő) látja el.
+## 8.2. Az elnöki kabinet a kabinetfőnökből, a nemzetközi és protokoll ügyek referenséből, továbbá a sajtóreferensből (sajtófőnökből), valamint az elnöki (fő)tanácsadókból áll. Az elnöki kabinet titkársági feladatait az elnök alkotmánybírói törzskarának a titkársági feladatokat ellátó munkatársa (titkárságvezető vagy titkár/nő) látja el.
 
 ## 8.3. Az elnöki kabinet és az elnök alkotmánybírói törzskara az elnök rendelkezésének megfelelően együttműködnek.
 
 ## 8.4. A kabinetfőnök
 
-## a) segíti az elnök irányító munkáját, koordinálja az elnöki kabinet és az elnök alkotmánybírói törzskarának együttműködését;
+## a) segíti az elnök irányító munkáját, koordinálja az elnöki kabinet – különösen a sajtófőnök és a nemzetközi és protokoll ügyek referensének – és az elnök alkotmánybírói törzskarának együttműködését;
 
-## b) figyelemmel kíséri az Alkotmánybíróság teljes ülése és tanácsai munkáját, közreműködik az egységes ítélkezési tevékenység figyelemmel kísérésében és értékelésében;
+## b) figyelemmel kíséri az Alkotmánybíróság teljes ülése és tanácsai munkáját, részt vesz az elnök által előterjesztett tervezetek előkészítésében és véleményezésében, valamint közreműködik az egységes ítélkezési tevékenység figyelemmel kísérésében és értékelésében;
 
-## c) kapcsolatot tart más állami szervekkel, intézményekkel, előkészíti és szervezi az elnök belföldi vonatkozású hivatalos találkozóit;
+## c) kapcsolatot tart más állami szervekkel, intézményekkel, koordinálja az elnök belföldi és külföldi vonatkozású hivatalos találkozóit;
 
 ## d) szervezi és értékeli az elnök nyilvános szerepléseit, előkészíti az azokhoz szükséges szakmai anyagokat;
 
-## e) figyelemmel kíséri és értékeli az elnököt érintő eseményeket, szakmai véleményeket, sajtómegjelenéseket.
+## e) segíti az elnöknek az Alkotmánybíróság nemzetközi képviseletével kapcsolatos feladatait, kapcsolatot tart más külföldi intézményekkel, nemzetközi szervezetekkel, koordinálja az elnök nemzetközi tárgyú tevékenységét;
 
-## 8.5. A nemzetközi és protokoll (fő)tanácsadó
+## f) a sajtóreferens (sajtófőnök) útján segíti az Alkotmánybíróság elnökét és főtitkárát a nyilvánossággal és kommunikációval összefüggő tevékenységeik ellátásában, a belső kommunikációs terv kidolgozásában, valamint a napi és heti sajtófigyelés végzésében. Igény esetén a sajtóreferens (sajtófőnök) segíti az alkotmánybírókat is a nyilvánossággal való kapcsolattartásuk terén.
 
-## a) koordinálja az elnök nemzetközi tárgyú tevékenységét, közreműködik az elnök külügyi vonatkozású találkozóinak a szervezésében;
+## 8.5. A nemzetközi és protokoll ügyek referense
 
-## b) az elnök igénye szerint szakmai anyagokat készít nemzetközi és hazai vonatkozású megbeszélésekhez, egyeztetésekhez;
+## a) előkészíti és szervezi az elnök hazai és nemzetközi vonatkozású találkozóit;
 
-## c) ellátja az Alkotmánybíróság nemzetközi képviseletével kapcsolatos feladatokat, kapcsolatot tart más külföldi intézményekkel, nemzetközi szervezetekkel;
+## b) az elnök igénye szerint szakmai anyagokat készít a hazai vonatkozású megbeszélésekhez, egyeztetésekhez;
 
-## d) a főtitkárral együttműködve közreműködik az Alkotmánybírósághoz érkező külföldi delegációk fogadásának, valamint az ünnepi (szakmai és protokoll) programoknak a kialakításában;
+## c) a főtitkárral és a kabinetfőnökkel együttműködve közreműködik az Alkotmánybírósághoz érkező külföldi delegációk fogadásának, valamint az ünnepi (szakmai és protokoll) programoknak a kialakításában, lebonyolításában;
 
-## e) a főtitkárral együttműködve közreműködik az Alkotmánybíróság nemzetközi és hazai levelezéseinek előkészítésében;
+## d) a főtitkárral együttműködve közreműködik az Alkotmánybíróság nemzetközi és hazai levelezéseinek előkészítésében, a bejövő és kimenő leveleket az elektronikus iktatórendszerbe iktatja;
 
-## f) a gazdasági főosztállyal együttműködve előkészíti az elnök és az alkotmánybírák külföldi hivatalos és munkalátogatásait.
+## e) a gazdasági főosztállyal együttműködve előkészíti az elnök és az alkotmánybírák külföldi hivatalos és munkalátogatásait.
 
 ## 8.6. Az elnöki (fő)tanácsadók
 
 ## a) az elnök által meghatározottak szerint előkészítő anyagokat készítenek, véleményező tevékenységet végeznek;
 
-## b) közreműködnek az egységes ítélkezési tevékenység figyelemmel kísérésében és értékelésében;
+## b) az egységesség fenntartása érdekében figyelemmel kísérik, és az elnök részére értékelik az ítélkezési tevékenységet;
 
 ## c) figyelemmel kísérik a beérkezett indítványokat, elemzéseket készítenek, kutatási feladatokat látnak el;
 
-## d) segítik az elnököt a nyilvánossággal és a sajtóval kapcsolatos feladatainak ellátásában.
+## d) az elnök igénye szerint szakmai anyagokat készítenek nemzetközi megbeszélésekhez, egyeztetésekhez.
 
-## 8/A.[^5] A volt elnök titkársága
+## 8/A.[^6] A volt elnök titkársága
 
 ## 8/A.1. A volt elnök titkársága az Alkotmánybíróság volt elnökének munkaszervezete, mely az Abtv. 20. § (5) bekezdése alapján, az ott meghatározott ideig működik.
 
@@ -260,19 +260,17 @@
 
 ## q) szerkeszti az Alkotmánybíróság hivatalos kiadványait és az Alkotmánybíróság honlapját;
 
-## r) felügyeli az Alkotmánybíróságnak a nyilvánossággal és a kommunikációval kapcsolatos feladatait;
+## r)[^7] részt vesz az Alkotmánybíróságnak a nyilvánossággal és a kommunikációval kapcsolatos feladatainak ellátásában;
 
-## s) irányítja a sajtóreferensi („sajtófőnöki”) feladatokat ellátó munkatárs tevékenységét;
+## s)[^8] közreműködik az alkotmánybírósági közlemények elkészítésében és kiadásában;
 
-## t) közreműködik az alkotmánybírósági közlemények elkészítésében és kiadásában;
+## t)[^9] előkészíti és megtervezi az Alkotmánybíróságról szóló nyomtatott és elektronikus kiadványokat, megszervezi azok előállítását;
 
-## u) napi és heti sajtófigyelést végez, illetve végeztet az Alkotmánybíróság és tagjai tevékenységét és működését érintő tartalmak összegyűjtésére;
+## u)[^10] a jogszabályoknak megfelelően teljesíti a hozzá érkező közérdekű adatok kiadására vonatkozó kérelmeket;
 
-## v) előkészíti és megtervezi az Alkotmánybíróságról szóló nyomtatott és elektronikus kiadványokat, megszervezi azok előállítását;
+## v)[^11] koordinálja az Alkotmánybíróság határozatainak idegen nyelvre történő fordítását.
 
-## w) a jogszabályoknak megfelelően teljesíti a hozzá érkező közérdekű adatok kiadására vonatkozó kérelmeket;
-
-## x) koordinálja az Alkotmánybíróság határozatainak idegen nyelvre történő fordítását.
+## w)–x)[^12]
 
 ## 9.3. A főtitkárság szervezeti egységei
 
@@ -396,7 +394,7 @@
 
 ## 10. A gazdasági főosztály és az Alkotmánybíróság gazdasági szervezete
 
-## 10.1. Az Alkotmánybíróság Hivatalának költségvetési, pénzügyi, gazdálkodási, üzemeltetési, fenntartási, gépkocsi-üzemeltetési, belső ellenőrzési és humánpolitikai feladatait a gazdasági főosztály látja el. A gazdasági főosztályt a gazdasági főigazgató vezeti.
+## 10.1.[^13] Az Alkotmánybíróság Hivatalának költségvetési, pénzügyi, gazdálkodási, üzemeltetési, fenntartási, gépkocsi-üzemeltetési és humánpolitikai feladatait a gazdasági főosztály látja el. A gazdasági főosztályt a gazdasági főigazgató vezeti. A gazdasági főigazgató az Alkotmánybíróság Hivatalának helyettes vezetője.
 
 ## 10.2. A gazdasági főosztály egyben az Alkotmánybíróság gazdasági szervezete is, melyet a gazdasági főigazgató irányít és ellenőriz.
 
@@ -436,7 +434,7 @@
 
 ## i) felel a külön szabályzatok szerint az Alkotmánybíróság Hivatalának gazdálkodásáért, a költségvetés végrehajtásáért, az ésszerű és takarékos pénzfelhasználásért;
 
-## j) kapcsolatot tart a költségvetési feladatokat ellátó minisztériummal és az Állami Számvevőszékkel;
+## j)[^14] kapcsolatot tart a költségvetési feladatokat ellátó minisztériummal, az Állami Számvevőszékkel és a Magyar Államkincstárral;
 
 ## k) szakmai értekezleteken elemzi és értékeli a vezetése alatt álló szervezeti egységek tevékenységét;
 
@@ -460,7 +458,7 @@
 
 ## e) elvégzi a gazdasági főosztály levelezésével kapcsolatos szövegszerkesztési, postázási feladatokat.
 
-## 10.8. A pénzügyi és számviteli egység
+## 10.8.[^15] A pénzügyi, bér- és számviteli egység
 
 ## a) ellátja az önállóan gazdálkodó költségvetési szerv és az Alkotmánybíróság Hivatalának operatív gazdálkodási feladatait;
 
@@ -578,21 +576,19 @@
 
 ## m) előkészíti a szabadságolási tervet; kiszámítja, és írásban közli a dolgozók éves szabadságát, nyilvántartja és ellenőrzi annak igénybevételét;
 
-## n) kezeli a munkaidő-nyilvántartó rendszert;
+## n)[^16] munkáltatói utasítás alapján közreműködik a fegyelmi és kártérítési ügyek előkészítésében és lebonyolításában;
 
-## o) munkáltatói utasítás alapján közreműködik a fegyelmi és kártérítési ügyek előkészítésében és lebonyolításában;
+## o)[^17] előkészíti a nyugdíjazásokkal kapcsolatos iratokat;
 
-## p) előkészíti a nyugdíjazásokkal kapcsolatos iratokat;
+## p)[^18] nyilvántartja a közszolgálati és más jogviszonyban dolgozók létszámát és kapcsolódó rendszeres juttatásait;
 
-## q) nyilvántartja a közszolgálati és más jogviszonyban dolgozók létszámát és kapcsolódó rendszeres juttatásait;
+## q)[^19] a főtitkárral együttműködve eleget tesz a vagyonnyilatkozatokkal kapcsolatos adatszolgáltatásoknak;
 
-## r) a főtitkárral együttműködve eleget tesz a vagyonnyilatkozatokkal kapcsolatos adatszolgáltatásoknak;
+## r)[^20] figyelemmel kíséri a munkaügyi tevékenységet érintő jogszabályi változásokat, előkészíti az ezzel összefüggő hivatali szabályzatmódosításokat, utasításokat, körleveleket;
 
-## s) figyelemmel kíséri a munkaügyi tevékenységet érintő jogszabályi változásokat, előkészíti az ezzel összefüggő hivatali szabályzatmódosításokat, utasításokat, körleveleket;
+## s)[^21] eleget tesz a kötelező és az egyedi adatszolgáltatási feladatoknak, elkészíti az egyéb munkaügyi jelentéseket;
 
-## t) eleget tesz a kötelező és az egyedi adatszolgáltatási feladatoknak, elkészíti az egyéb munkaügyi jelentéseket;
-
-## u) elvégzi a munka- és személyügyi, munkaegészségügyi feladatokat, a foglalkoztatással összefüggő statisztikai tevékenységet.
+## t)[^22] elvégzi a munka- és személyügyi, munkaegészségügyi feladatokat, a foglalkoztatással összefüggő statisztikai tevékenységet.
 
 ## 10.11. A gépkocsi-üzemeltetési egység
 
@@ -604,7 +600,7 @@
 
 ## b) a gépkocsivezetők
 
-## a) az alkotmánybíró rendelkezéseinek megfelelően vezetik, és gondosan üzemeltetik a szolgálat ellátására rendelkezésükre bocsátott gépjárművet;
+## a)[^23] az önálló szervezeti egység vezetője rendelkezéseinek megfelelően vezetik és gondosan üzemeltetik a szolgálat ellátására rendelkezésükre bocsátott járművet;
 
 ## b) ellátják a gépjárművek üzemeltetésével kapcsolatos ügyviteli teendőket.
 
@@ -640,9 +636,9 @@
 
 ## 13.7. A rögzített munkaidő megegyezik a hivatali idővel. Az ettől eltérő rögzített munkaidőt a foglalkoztatott munkaszerződésében, illetve munkaköri leírásában kell meghatározni.
 
-## 13.8. Rugalmas munkaidő engedélyezése esetén a munkaidőkeret a hónap 21. és a rákövetkező hónap 20. napja közötti időszakra eső munkanapok száma szorozva 8 órával. A munkaidőkeretet 6 és 22 óra között kell kitölteni (peremidő) a hónap 21. és a rákövetkező hónap 20. napja között.
+## 13.8.[^24] Rugalmas munkaidő engedélyezése esetén a munkaidőkeret a hónap 1. és 31. napja közötti időszakra eső munkanapok száma szorozva 8 órával. A munkaidőkeretet 6 és 22 óra között kell kitölteni (peremidő) a hónap 1. és 31. napja között.
 
-## 13.9. A távollevő foglalkoztatott helyettesítéséről az önálló szervezeti egység vezetője gondoskodik. A munkavégzés zavartalanságának biztosítása elsősorban a helyettesítési rend szervezett meghatározásával, kivételesen a helyettesítést végző foglalkoztatott alkalmi kijelölésével történik.
+## 13.9.[^25] A távollévő foglalkoztatott helyettesítéséről az önálló szervezeti egység vezetője gondoskodik. Tartós távollét esetén a munkavégzés zavartalansága a munkaköri leírásokban meghatározott helyettesítési munkakör figyelembevételével biztosítandó; kivételesen a helyettesítést végző foglalkoztatott alkalmi kijelölésével történik.
 
 ## 14. Az Alkotmánybíróság Hivatalának képviselete és rendelkezés a hivatal bankszámlája felett
 
@@ -680,7 +676,9 @@
 
 ## g) könyvtáros (esedékesség: 2 évenként);
 
-## h) belső ellenőr (esedékesség: 2 évenként).
+## h) belső ellenőr (esedékesség: 2 évenként);
+
+## i)[^26] aki jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői munkakört tölt be.
 
 ## 17. Az Alkotmánybíróság Hivatalának pénzügyi és költségvetési ellenőrzése
 
@@ -716,11 +714,32 @@
 
 ## Alkotmánybírósági ügyszám: XVIII/2181/2012.
 
-1. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^6]
+1. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^27]
 
 [^1]: A 3. pont 3.1. alpontja az 1001/2015. (III. 31.) AB TÜ határozat 1. pontjával megállapított szöveg.
 [^2]: A 4. pont 4.3. alpontja az 1001/2015. (III. 31.) AB TÜ határozat 2. pontja szerint módosított szöveg.
-[^3]: A 5. pont 5.6. alpontja az 1001/2015. (III. 31.) AB TÜ határozat 3. pontja szerint módosított szöveg.
-[^4]: A 8. pont az 1001/2015. (III. 31.) AB TÜ határozat 4. pontjával megállapított szöveg.
-[^5]: A 8/A. pontot az 1001/2015. (III. 31.) AB TÜ határozat 5. pontja iktatta be.
-[^6]: Az 1. számú melléklet az 1001/2015. (III. 31.) AB TÜ határozat 6. pontjával megállapított szöveg.
+[^3]: Az 5. pont 5.2. alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 1. pontja szerint módosított szöveg.
+[^4]: A 5. pont 5.6. alpontja az 1001/2015. (III. 31.) AB TÜ határozat 3. pontja szerint módosított szöveg.
+[^5]: A 8. pont az 1001/2017. (IX. 12.) AB Tü. határozat 2. pontjával megállapított szöveg.
+[^6]: A 8/A. pontot az 1001/2015. (III. 31.) AB TÜ határozat 5. pontja iktatta be.
+[^7]: A 9. pont 9.2. pont r) alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 3. pontjával megállapított szöveg.
+[^8]: A 9. pont 9.2. pont s) alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 4. pontjával megállapított szöveg.
+[^9]: A 9. pont 9.2. pont t) alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 4. pontjával megállapított szöveg.
+[^10]: A 9. pont 9.2. pont u) alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 4. pontjával megállapított szöveg.
+[^11]: A 9. pont 9.2. pont v) alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 4. pontjával megállapított szöveg.
+[^12]: A 9. pont 9.2. pont w)–x) alpontját az 1001/2017. (IX. 12.) AB Tü. határozat 4. pontja hatályon kívül helyezte.
+[^13]: A 10. pont 10.1. alpont az 1001/2017. (IX. 12.) AB Tü. határozat 5. pontjával megállapított szöveg.
+[^14]: A 10. pont 10.6. pont j) alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 6. pontjával megállapított szöveg.
+[^15]: A 10. pont 10.8. pont nyitó szövegrésze az 1001/2017. (IX. 12.) AB Tü. határozat 7. pontjával megállapított szöveg.
+[^16]: A 10. pont 10.10. pont eredeti n) alpontját az 1001/2017. (IX. 12.) AB Tü. határozat 8. pontja hatályon kívül helyezte, egyidejűleg az eredeti o) alpont megjelölését n) alpontra változtatta.
+[^17]: A 10. pont 10.10. pont eredeti p) alpontjának megjelölését o) alpontra változtatta az 1001/2017. (IX. 12.) AB Tü. határozat 8. pontja.
+[^18]: A 10. pont 10.10. pont eredeti q) alpontjának megjelölését p) alpontra változtatta az 1001/2017. (IX. 12.) AB Tü. határozat 8. pontja.
+[^19]: A 10. pont 10.10. pont eredeti r) alpontjának megjelölését q) alpontra változtatta az 1001/2017. (IX. 12.) AB Tü. határozat 8. pontja.
+[^20]: A 10. pont 10.10. pont eredeti s) alpontjának megjelölését r) alpontra változtatta az 1001/2017. (IX. 12.) AB Tü. határozat 8. pontja.
+[^21]: A 10. pont 10.10. pont eredeti t) alpontjának megjelölését s) alpontra változtatta az 1001/2017. (IX. 12.) AB Tü. határozat 8. pontja.
+[^22]: A 10. pont 10.10. pont eredeti u) alpontjának megjelölését t) alpontra változtatta az 1001/2017. (IX. 12.) AB Tü. határozat 8. pontja.
+[^23]: A 10. pont 10.11. pont b) pont a) alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 9. pontjával megállapított szöveg.
+[^24]: A 13. pont 13.8. alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 10. pontjával megállapított szöveg.
+[^25]: A 13. pont 13.9. alpontja az 1001/2017. (IX. 12.) AB Tü. határozat 11. pontjával megállapított szöveg.
+[^26]: A 16. pont 16.2. pont i) alpontját az 1001/2017. (IX. 12.) AB Tü. határozat 12. pontja iktatta be.
+[^27]: Az 1. számú melléklet az 1001/2017. (IX. 12.) AB Tü. határozat 13. pontjával megállapított szöveg.

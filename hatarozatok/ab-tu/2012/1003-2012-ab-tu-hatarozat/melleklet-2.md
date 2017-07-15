@@ -1,4 +1,4 @@
-2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^7]
+2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^28]
 
 Állománytábla
 
@@ -14,7 +14,7 @@
 
 |  | Kabinetfőnök | 1 |
 
-|  | Nemzetközi és protokoll (fő)tanácsadó | 1 |
+|  | Nemzetközi és protokoll ügyek referense | 1 |
 
 |  | Elnöki (fő)tanácsadók | 2 |
 
@@ -40,7 +40,7 @@
 
 | A gazdasági főosztály titkársága | Titkárságvezető/titkár(nő) | 1 |
 
-| Pénzügyi és számviteli egység | Pénzügyi és számviteli ügyintéző | 4 |
+| Pénzügyi, bér- és számviteli egység | Pénzügyi és számviteli ügyintéző | 4 |
 
 |  | Bér- és tb. ügyintéző | 1 |
 
@@ -54,10 +54,10 @@
 
 | Személy- és munkaügyi referens | Humánpolitikus | 1 |
 
-| Gépkocsi-üzemeltetési referens (garázsmester) | Garázsmester | 1 |
+| Gépkocsi-üzemeltetési egység | Gépkocsi-üzemeltetési referens (garázsmester) | 1 |
 
 |  | Gépkocsivezető | 17 |
 
 | Összesen |  | 136 |
 
-[^7]: A 2. számú melléklet az 1001/2015. (III. 31.) AB TÜ határozat 7. pontjával megállapított szöveg.
+[^28]: A 2. számú melléklet az 1001/2017. (IX. 12.) AB Tü. határozat 14. pontjával megállapított szöveg.
