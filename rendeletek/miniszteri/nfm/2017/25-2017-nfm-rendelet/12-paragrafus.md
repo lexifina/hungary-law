@@ -1,0 +1,1 @@
+## „(7) A működő Drop Zone légtérbe történő berepülés, illetve a Drop Zone légtér alatt való átrepülés előtt a légijármű vezetőnek fel kell vennie a kapcsolatot a légtér közzétett frekvenciáján a Drop Zone légtér koordinációs feladatait ellátó szervezettel és kizárólag a szervezet hozzájárulása esetén repülhet be a légtérbe, illetve repülhet át a légtér alatt.”
