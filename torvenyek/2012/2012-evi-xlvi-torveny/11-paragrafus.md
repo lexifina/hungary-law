@@ -6,22 +6,26 @@ a) a település azonosítóját,
 
 b) a település közigazgatási és fekvéshatárait,
 
-c) a földrészletek határvonalát és helyrajzi számát,
+c) a földrészlet határvonalát és helyrajzi számát,
 
-d) az alrészletek határvonalát, jelét és megnevezését,
+d) az alrészletek határvonalát és betűjelét,
 
 e) a dűlőnevet, utcanevet és házszámot,
 
-f) a pincék bejáratait,
+f) a közterületről nyíló pince bejáratát,
 
-g) a művelési ágakat és azok betűjelét,
+g) a művelési ágak megnevezését (betűjelét),
 
-h) a minőségi osztályokat és azok megjelölését,
+h) a minőségiosztály-foltok határoló vonalát és megnevezését (jelét),
 
-i) a földminősítési mintatereket,
+i) a földminősítési mintaterek jelét,
 
-j) önálló ingatlannak nem minősülő földfelszíni, valamint egyes földfelszín feletti, illetve alatti építményeket és egyéb létesítményeket, továbbá azok meghatározott tartozékait és azonosítóit.
+j) az elhelyezkedésüktől függetlenül az önálló ingatlannak nem minősülő építményeket – ide nem értve a nyomvonal jellegű építményt – és azok meghatározott tartozékait és azonosítóit,
 
-k)–m)
+k) az elhelyezkedésüktől függetlenül az önálló ingatlannak minősülő építményeket – ide nem értve a nyomvonal jellegű építményt, az öröklakást, szövetkezeti lakást illetve a nem lakás céljára szóló helyiséget – és azok meghatározott tartozékait és azonosítóit,
+
+l) 10. § (3) bekezdésének a)–f) és h) pontjában meghatározott alapponthálózati pontokat és azonosítóit,
+
+m)–o)
 
 (2) Az állami földmérési alaptérképi adatbázis az állami ingatlan-nyilvántartási térképi adatbázis kötelező alapja.
