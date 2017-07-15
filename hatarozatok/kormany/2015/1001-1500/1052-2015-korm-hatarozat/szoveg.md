@@ -6,7 +6,11 @@ professzionálisan, nemzeti hivatástudattal rendelkező, szakmailag felkészül
 
 költséghatékonyan, a lehető legkisebb adminisztratív teherrel, versenyképes szolgáltatási díjakkal és rövid ügyintézési határidőkkel működjön, azaz létrejöjjön az emberek bizalmát élvező szolgáltató állam.
 
-1. A fenti célok elérése érdekében a Kormány elfogadta a Kormány részére bemutatott, a „Közigazgatás- és Közszolgáltatás-fejlesztési Stratégia 2014–2020” című tervdokumentumot (a továbbiakban: Stratégia).
+1.[^1] A fenti célok elérése érdekében a Kormány elfogadta a Kormány részére bemutatott, a „Közigazgatás- és Közszolgáltatás-fejlesztési Stratégia 2014–2020” című tervdokumentumot (a továbbiakban: Stratégia), valamint annak
+
+a) az „Akcióterv a Közigazgatás- és Közszolgáltatás-fejlesztési Stratégiához” című 1. mellékletét és
+
+b) az „Akciótervben szereplő fejlesztések tervezett célértékei” című 2. mellékletét.
 
 2. A Kormány felhívja
 
@@ -46,4 +50,13 @@ Határidő: első alkalommal 2016. február 15.,
 
 azt követően évente
 
+f)[^2] a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az 1. pont szerinti – mellékletekkel kiegészített – Stratégia kormányzati honlapon történő közzétételéről.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont az 1454/2017. (VII. 14.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont f) pontját az 1454/2017. (VII. 14.) Korm. határozat 2. pontja iktatta be.
