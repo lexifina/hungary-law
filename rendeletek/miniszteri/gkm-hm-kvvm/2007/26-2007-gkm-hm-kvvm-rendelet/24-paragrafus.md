@@ -1,4 +1,4 @@
-## 23. §[^44] A légtér szerkezetére és osztályozására, a légi útvonalakra, a katonai légi folyosókra és a koordinált légtérben használt frekvenciákra vonatkozó adatokat a légiközlekedési hatóság az AIP-ben (Magyarország légiforgalmi tájékoztató kiadványában) teszi közzé.
+## 23. §[^75] A légtér szerkezetére és osztályozására, a légi útvonalakra, a katonai légi folyosókra és a koordinált légtérben használt frekvenciákra vonatkozó adatokat a légiközlekedési hatóság az AIP-ben (Magyarország légiforgalmi tájékoztató kiadványában) teszi közzé.
 
 ## Fogalmak, meghatározások
 
@@ -22,13 +22,13 @@
 
 9. Budapest ATS Központ: a közlekedésért felelős miniszter által a légiforgalom irányítására kijelölt szervezeten belül működő integrált, polgári-katonai operatív egység, amely továbbá jelenti a légtérgazdálkodó egységet (AMC) is;
 
-10.[^45] Budapest FIR (Budapest Repüléstájékoztató Körzet): Magyarország államhatára által körbezárt terület, amelyen belül a légiközlekedés számára FL660 (20 100 m STD) magasságig légiforgalmi szolgálatot biztosítanak;
+10.[^76] Budapest FIR (Budapest Repüléstájékoztató Körzet): Magyarország államhatára által körbezárt terület, amelyen belül a légiközlekedés számára FL660 (20 100 m STD) magasságig légiforgalmi szolgálatot biztosítanak;
 
 11. CTA (Control Area): polgári irányítói körzet, a földfelszín felett meghatározott magasságtól kezdődő térbeli kiterjedéssel rendelkező ellenőrzött légtér;
 
 12. CTR (Aerodrome Control Zone): a polgári repülőtéri irányító körzet jelölésére használt rövidítés. Repülőtéri irányító körzet a föld vagy a víz felszínétől kezdődő térbeli kiterjedéssel rendelkező ellenőrzött légtér. Felső határa megegyezik az adott repülőtéri irányító körzet feletti ellenőrzött légtér alsó határával;
 
-12a.[^46] Drop Zone légtér: meghatározott kiterjedésű, elsődlegesen a gyakorló ejtőernyős ugrások védelme céljából, repülőterek felett kijelölt légtér, amely gyakorló műrepülés végrehajtására is igénybe vehető, és amelyben – TIZ-hez kapcsolódó légtér kivételével – légiforgalmi szolgáltatást nem nyújtanak;
+12a.[^77] Drop Zone légtér: meghatározott kiterjedésű, ejtőernyős ugrások vagy műrepülés – a 15/A. § (1) bekezdés b) pontjában felsoroltak kivételével – védelme céljából, elsődlegesen e tevékenységek végrehajtására igénybe vehető, bejelentett üzemidő szerint működő, repülőterek felett kijelölt légtér, amelyben légiforgalmi szolgáltatást nem nyújtanak;
 
 13. FIR (Flight Information Region): a repüléstájékoztató körzet jelölésére használt rövidítés;
 
@@ -78,9 +78,9 @@
 
 36. TIZ (Traffic Information Zone): forgalmi tájékoztató körzet, az a nem ellenőrzött repülőterek körül kijelölt meghatározott térbeli kiterjedésű légtér, amelyben a repülések számára a repüléstájékoztató és riasztó szolgálatot az érintett repülőtér repülőtéri repüléstájékoztató szolgálata nyújtja;
 
-37. TMA (Terminal Control Area): közelkörzeti irányítói körzet, amelyet egy vagy több nagyobb repülőtér közelében, rendszerint ATS útvonalak találkozásánál létesítettek. A közelkörzeti irányító körzet alsó határa a földrajzi viszonyoknak és a légiforgalomnak megfelelően változik, de sehol sem alacsonyabb 600 lábnál (200 m) a terep felszíne felett;
+37.[^78] TMA (Terminal Control Area): közelkörzeti irányítói körzet, amelyet egy vagy több nagyobb repülőtér közelében, rendszerint ATS útvonalak találkozásánál létesítettek. A közelkörzeti irányító körzet alsó határa a földrajzi viszonyoknak és a légiforgalomnak megfelelően változik, de sehol sem alacsonyabb 600 lábnál (180 m) a terep felszíne felett;
 
-38.[^47] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
+38.[^79] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
 
 39. UTC (Coordinated Universal Time): az egyeztetett egyetemes világidő jelölésére használt rövidítés;
 
@@ -90,7 +90,8 @@
 
 42. WGS-84 (World Geodetic System '84): az 1984-ben elfogadott világméretű geodéziai referenciarendszer jelölésére használt rövidítés.
 
-[^44]: A 23. § a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
-[^45]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
-[^46]: A 24. § 12a. pontját a 15/2014. (IV. 3.) NFM rendelet 13. §-a iktatta be.
-[^47]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
+[^75]: A 23. § a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
+[^76]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
+[^77]: A 24. § 12a. pontját a 15/2014. (IV. 3.) NFM rendelet 13. §-a iktatta be, szövege a 25/2017. (VI. 30.) NFM rendelet 12. §-ával megállapított szöveg.
+[^78]: A 24. § 37. pontja a 25/2017. (VI. 30.) NFM rendelet 13. § k) pontja szerint módosított szöveg.
+[^79]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.

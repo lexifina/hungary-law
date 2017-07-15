@@ -1,6 +1,6 @@
 ## Katonai légi folyosók
 
-20. § (1)[^42] A katonai légijárművek földközeli és kis magasságú, 250 kt (460 km/h) IAS-nél nagyobb sebességű harcászati jellegű útvonalrepüléseinek végrehajtása a légterekre vonatkozó szabályok szerint kijelölt katonai légi folyosóban történhet.
+20. § (1)[^72] A katonai légijárművek földközeli és kis magasságú, 250 kt (460 km/h) IAS-nél nagyobb sebességű harcászati jellegű útvonalrepüléseinek végrehajtása a légterekre vonatkozó szabályok szerint kijelölt katonai légi folyosóban történhet.
 
 (2) A katonai légi folyosók:
 
@@ -10,8 +10,9 @@ b) be-, illetve kilépő pontokból, útvonal szakaszokból és fordulópontokb�
 
 c) a nem ellenőrzött, „G” osztályú légtérben jelölhetők ki az a) pontban meghatározottak figyelembevételével,
 
-d) oldalirányú kiterjedésük 5 NM (10 km), és
+d)[^73] oldalirányú kiterjedésük 5 NM (9,3 km), és
 
 e) oldalirányban legalább 2 NM (4 km) távolságra elkerülik a működő repülőtereket.
 
-[^42]: A 20. § (1) bekezdése az 56/2011. (XI. 8.) NFM rendelet 6. §-ával megállapított szöveg.
+[^72]: A 20. § (1) bekezdése az 56/2011. (XI. 8.) NFM rendelet 6. §-ával megállapított szöveg.
+[^73]: A 20. § (2) bekezdés d) pontja a 25/2017. (VI. 30.) NFM rendelet 13. § a) pontja szerint módosított szöveg.

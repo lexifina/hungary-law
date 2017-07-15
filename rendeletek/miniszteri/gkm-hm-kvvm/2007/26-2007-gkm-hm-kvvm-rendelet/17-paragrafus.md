@@ -1,4 +1,4 @@
-## 16/A. §[^25] Ha az eseti légteret vagy annak egy részét ellenőrzött légtérben tervezik kijelölni, a 16. § (1)–(2) bekezdésében meghatározottaktól el lehet térni az eseti légtér kérelmezője és a Budapest ATS Központ között létrejött, a légiközlekedési hatóság által jóváhagyott együttműködési megállapodásban meghatározottak szerint.
+## 16/B. §[^41] Ha az eseti légteret vagy annak egy részét a 3. mellékletben meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtérben jelölik ki, akkor az eseti légtér a 15/A. § (2) bekezdés f) pontjában meghatározott légtérigénylő hozzájárulásával és a légiközlekedési hatóságnak a korlátozott légtér igénybevételére vonatkozó engedélyével vehető igénybe.
 
 ## A veszélyes légtér igénylése
 
@@ -24,4 +24,4 @@ e) lövészeti tevékenység esetén a lövészetvezető, lőtéri repülésveze
 
 (6) A tervben szereplő veszélyes légtérre vonatkozó igényt törölni kell, ha bizonyossá válik, hogy a tervezett feladat végrehajtására a tervezett időszakban nem kerül sor.
 
-[^25]: A 16/A. §-t a 15/2014. (IV. 3.) NFM rendelet 9. §-a iktatta be.
+[^41]: A 16/B. §-t a 25/2017. (VI. 30.) NFM rendelet 8. §-a iktatta be.

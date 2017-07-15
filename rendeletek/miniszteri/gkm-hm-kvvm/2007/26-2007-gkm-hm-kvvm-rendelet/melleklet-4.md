@@ -52,39 +52,39 @@
 
 | 473154N | 0185620E |
 
-| 5 | LHR3 | Balatonfűzfő 2 km sugarú kör a 470503N 0180254E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 5 |  |  |  |  |
 
 | 6 | LHR4 | Zalaegerszeg 1 km sugarú kör a 464816N 0163720E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 7 | LHR5 | Répcelak 2 km sugarú kör a 472508N 0170055E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 7 |  |  |  |  |
 
 | 8 | LHR6 | Százhalombatta 2 km sugarú kör a 471702N 0185358E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 9 | LHR8 | Kazincbarcika 2,5 km sugarú kör a 481429N 0203956E középpont körül | 3500’ (1050 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 9 |  |  |  |  |
 
 | 10 | LHR9 | Tiszaújváros 3 km sugarú kör a 475413N 0210134E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
 | 11 | LHR10 | Hajdúszoboszló 5 km sugarú kör a 473154N 0212253E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 12 | LHR11 | Tiszavasvári 1,5 km sugarú kör a 475703N 0212153E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 12 |  |  |  |  |
 
-| 13 | LHR12 | Sajóbábony 1,5 km sugarú kör a 481003N 0204253E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 13 |  |  |  |  |
 
 | 14 | LHR14 | Algyő 3 km sugarú kör a 461904N 0201246E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 15 | LHR15 | Dunaújváros 2 km sugarú kör a 465703N 0185554E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 15 |  |  |  |  |
 
-| 16 | LHR16 | Szolnok–Tószeg 2 km sugarú kör a 470804N 0200753E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 16 |  |  |  |  |
 
-| 17 | LHR22 | Pét 2 km sugarú kör 471003N 0180824E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 17 |  |  |  |  |
 
 | 18 | LHR29 | Nyírtelek 2,5 km sugarú kör a 480150N 0213827E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
-| 19 | LHR30 | Hajdúsámson 2 km sugarú kör a 473846N 0214451E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
+| 19 |  |  |  |  |
 
-| 20 | LHR31 | Heves–Alatka 2 km sugarú kör a 474000N 0201629E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
+| 20 |  |  |  |  |
 
-| 21 | LHR32 | Vác–Derecskedűlő 2 km sugarú kör a 474444N 0190831E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
+| 21 |  |  |  |  |
 
 | 22 | LHR33 | Hetényegyháza 2 km sugarú kör a 465554N 0193555E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
@@ -552,11 +552,13 @@
 
 | 460316N | 0184306E |
 
-| Veszélyes légterek |
+|  | A | B | C | D |
 
-| Légtér azonosítója | Neve/oldalhatárai | Felső/alsó határa | Veszély/korlátozás |
+| 1. | Veszélyes légterek |
 
-| LHD2A | Hajmáskér | FL245 (7450 m STD) / GND | Lőtér. Működés NOTAM szerint. |
+| 2. | Légtér azonosítója | Neve/Oldalhatárai | Felső/alsó határa | Veszély/korlátozás |
+
+| 3. | LHD2A | Hajmáskér | FL 245 (7450 m STD)/GND | Lőtér. Működés NOTAM szerint. |
 
 | 470903N | 0175624E |
 
@@ -572,7 +574,7 @@
 
 | 470903N | 0175624E |
 
-| LHD2B | Várpalota | FL300 (9150 m STD) / GND | Lőtér. Működés NOTAM szerint. |
+| 4. | LHD2B | Várpalota | FL 300 (9150 m STD)/GND | Lőtér. Működés NOTAM szerint. |
 
 | 471623N | 0181254E |
 
@@ -586,7 +588,7 @@
 
 | 471623N | 0181254E |
 
-| LHD3 | Tatárszentgyörgy | FL300 (9150 m STD) / GND | Lőtér. Működés NOTAM szerint. |
+| 5. | LHD3 | Tatárszentgyörgy | FL 300 (9150 m STD)/GND | Lőtér. Működés NOTAM szerint. |
 
 | 471200N | 0191246E |
 
@@ -604,7 +606,7 @@
 
 | 471200N | 0191246E |
 
-| LHD11 | Dóc | 7500’ (2300 m) AMSL / GND | Lőtér. Működés NOTAM szerint. |
+| 6. | LHD11 | Dóc | 7500’ (2300 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 462804N | 0200554E |
 
@@ -616,7 +618,7 @@
 
 | 462804N | 0200554E |
 
-| LHD14 | Hajdúhadház | FL105 (3200 m STD) / GND | Lőtér. Működés NOTAM szerint. |
+| 7. | LHD14 | Hajdúhadház | FL 105 (3200 m STD)/GND | Lőtér. Működés NOTAM szerint. |
 
 | 474104N | 0214053E |
 
@@ -628,19 +630,7 @@
 
 | 474104N | 0214053E |
 
-| LHD15 | Egerbakta | 3800’ (1150 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
-
-| 475633N | 0201753E |
-
-| 475633N | 0201953E |
-
-| 475903N | 0201923E |
-
-| 480003N | 0201623E |
-
-| 475633N | 0201753E |
-
-| LHD16 | Izbég | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 8. | LHD16 | Izbég | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 474233N | 0190024E |
 
@@ -650,7 +640,7 @@
 
 | 474233N | 0190024E |
 
-| LHD17 | Győrszentiván | 3800’ (1150 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 9. | LHD17 | Győrszentiván | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 474304N | 0174554E |
 
@@ -662,19 +652,7 @@
 
 | 474304N | 0174554E |
 
-| LHD18 | Csorna/Akasztó | 3800’ (1150 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
-
-| 464134N | 0191154E |
-
-| 464404N | 0190824E |
-
-| 463634N | 0190824E |
-
-| 463404N | 0191154E |
-
-| 464134N | 0191154E |
-
-| LHD21 | Szomód | FL105 (3200 m STD) / GND | Lőtér. Működés NOTAM szerint. |
+| 10. | LHD21 | Szomód | FL 105 (3200 m STD)/GND | Lőtér. Működés NOTAM szerint. |
 
 | 474103N | 0182154E |
 
@@ -686,7 +664,7 @@
 
 | 474103N | 0182154E |
 
-| LHD24 | Sántos | 3800’ (1150 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 11. | LHD24 | Sántos | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 462134N | 0175055E |
 
@@ -698,7 +676,7 @@
 
 | 462134N | 0175055E |
 
-| LHD29 | Püspökszilágy | 3800’ (1150 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 12. | LHD29 | Püspökszilágy | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 474533N | 0192054E |
 
@@ -708,19 +686,7 @@
 
 | 474533N | 0192054E |
 
-| LHD30 | Érd | 3800’ (1150 m) AMSL / GND | Lőtér. Működés NOTAM szerint. |
-
-| 472633N | 0184454E |
-
-| 472403N | 0184854E |
-
-| 472703N | 0184754E |
-
-| 472703N | 0184624E |
-
-| 472633N | 0184454E |
-
-| LHD33 | Állampuszta | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 13. | LHD33 | Állampuszta | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 464204N | 0190124E |
 
@@ -732,7 +698,7 @@
 
 | 464204N | 0190124E |
 
-| LHD34 | Márianosztra | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 14. | LHD34 | Márianosztra | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 475603N | 0184954E |
 
@@ -746,7 +712,7 @@
 
 | 475603N | 0184954E |
 
-| LHD36A | Hajmáskér | FL145 (4400 m STD) / GND | Lőtér. Működés NOTAM szerint. |
+| 15 | LHD36A | Hajmáskér | FL 145 (4400 m STD)/GND | Lőtér. Működés NOTAM szerint. |
 
 | 470743N | 0174825E |
 
@@ -762,7 +728,7 @@
 
 | 470743N | 0174825E |
 
-| LHD36B | Várpalota | FL145 (4400 m STD) / GND | Lőtér. Működés NOTAM szerint. |
+| 16. | LHD36B | Várpalota | FL 145 (4400 m STD)/GND | Lőtér. Működés NOTAM szerint. |
 
 | 471003N | 0180354E |
 
@@ -774,7 +740,7 @@
 
 | 471003N | 0180354E |
 
-| LHD37 | Simontornya | 3800’ (1150 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 17. | LHD37 | Simontornya | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 464503N | 0183224E |
 
@@ -784,27 +750,23 @@
 
 | 464503N | 0183224E |
 
-| LHD39 | Cigánd | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
-
-| 2 km sugarú kör a 481703N 0215422E középpont körül |
-
-| LHD50 | Harka | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 18. | LHD50 | Harka | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 2 km sugarú kör a 473903N 0163355E középpont körül |
 
-| LHD52 | Kőszeg | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 19. | LHD52 | Kőszeg | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 2 km sugarú kör a 472333N 0163455E középpont körül |
 
-| LHD53 | Nádasd | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 20. | LHD53 | Nádasd | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 2 km sugarú kör a 465903N 0163455E középpont körül |
 
-| LHD55 | Szügy | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
+| 21. | LHD55 | Szügy | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
 
-4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^55]
+4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^87]
 
 ## A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELEMEI
 
@@ -852,33 +814,34 @@
 
 3.5. a biztonsági felmérés elkészítését vezető személy alkalmasságának igazolása,
 
-3.6. a kérelmező vagy a 3.5. pontban említett személy nyilatkozata arra vonatkozóan, hogy a biztonsági felmérés megfelel a vonatkozó szabályozásnak [EUROCONTROL Safety Regulatory Requirement (ESARR) előírásai, különös tekintettel az ESARR 2, ESARR 4 és a hozzájuk kapcsolódó útmutató anyagokra, ICAO ANNEX 11 és Doc 9426, valamint e rendelet előírásai],
+3.6.[^88] a 3.5. pontban említett személy nyilatkozata arra vonatkozóan, hogy a biztonsági felmérés megfelel a vonatkozó szabályozásnak [EUROCONTROL Safety Regulatory Requirement (ESARR) előírásai, különös tekintettel az ESARR 2, ESARR 4 és a hozzájuk kapcsolódó útmutató anyagokra, ICAO ANNEX 11 és Doc 9426, valamint e rendelet előírásai],
 
 3.7. repülőtér létesítése vagy fejlesztése esetén a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet szerinti létesítési vagy fejlesztési engedély.
 
-4.[^56] Az ESARR előírásoknak megfelelő, az EUROCONTROL Safety Assessment Methodology elemeivel megegyező tartalmú biztonsági felmérés elkészítésének elsajátítására alkalmas képzettség
+4.[^89] Az ESARR előírásoknak megfelelő repülésbiztonsági felmérés elkészítésének elsajátítására alkalmas képzettségek a következők:
 
-Az EUROCONTROL – Institute of Air Navigation Services (Léginavigációs Szolgálatok Képzőintézete) képzése, a következő képzési modulokkal:
+4.1. Az EUROCONTROL – Institute of Air Navigation Services (Léginavigációs Szolgálatok Képzőintézete) képzése a következő képzési modulokkal:
 
 Kötelező elemek:
 
-Introduction to Safety Assessment Methodology (SAF-SAM)
+Introduction to Safety Assessment Methodology (SAF-SAM) és
 
 Functional Hazard Assessment – Total System Approach (SAF-SAM1-FHA)
 
 vagy
 
-Introduction to Safety Assessment (SAF-SA1)
-
-Ajánlott elemek:
-
-Preliminary System Safety Assessment for ATM system designers (SAF-SAM2-PSSA)
-
-System Safety Assessment for Implementation and Monitoring (SAF-SAM3-SSA)
-
-vagy
+Introduction to Safety Assessment (SAF-SA1) és
 
 Safety Assessment for Practitioners (SAF-SA2)
 
-[^55]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
-[^56]: A 4. melléklet 4. pontja a 15/2014. (IV. 3.) NFM rendelet 16. § (4) bekezdésével megállapított szöveg.
+Ajánlott elemek:
+
+Preliminary System Safety Assessment for ATM system designers (SAF-SAM2-PSSA),
+
+System Safety Assessment for Implementation and Monitoring (SAF-SAM3-SSA)
+
+4.2. Az EUROCONTROL által elfogadott, a 4.1. pontban meghatározott kötelező elemekkel azonos szintű egyéb repülésbiztonsági felmérés elkészítésének elsajátítására alkalmas képzés.
+
+[^87]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
+[^88]: A 4. melléklet 3. pont 3.6. alpontja a 25/2017. (VI. 30.) NFM rendelet 15. § e) pontja szerint módosított szöveg.
+[^89]: A 4. melléklet 4. pontja a 25/2017. (VI. 30.) NFM rendelet 14. § (4) bekezdésével megállapított szöveg.
