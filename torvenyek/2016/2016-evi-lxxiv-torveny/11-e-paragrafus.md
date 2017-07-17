@@ -6,7 +6,7 @@
 
 (3) Ha a helyszíni intézkedés alkalmával az (1) bekezdés szerinti természetes személy a jogsértést teljes mértékben elismeri, a (2) bekezdés szerinti eljáró hatóság helyszíni bírságot szabhat ki.
 
-(4) A közigazgatási bírság összege 10 000 forinttól 100 000 forintig terjedhet. A helyszíni bírság összege 5000 forinttól 50 000 forintig terjedhet.
+(4) A közigazgatási bírság összege 10 000 forinttól 200 000 forintig terjedhet. A helyszíni bírság összege 5000 forinttól 100 000 forintig terjedhet.
 
 (5) A közigazgatási bírság, a helyszíni bírság kiszabása során a (2) bekezdés szerinti eljáró hatóság a közigazgatási bírság, a helyszíni bírság mértékét korlátlanul enyhítheti vagy a jogsértő magatartás csekély súlya miatt a kiszabását mellőzheti, feltéve, hogy a jogsértő magatartást tanúsító személy a plakátot nyomban eltávolítja.
 
