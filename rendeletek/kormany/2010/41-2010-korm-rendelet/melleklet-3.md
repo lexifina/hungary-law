@@ -1,3 +1,3 @@
-3. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^102]
+3. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^114]
 
-[^102]: A 3. számú melléklet a 115/2012. (VI. 11.) Korm. rendelet 9. § (2) bekezdése, a 10. § (14) és (15) bekezdése szerint módosított szöveg.
+[^114]: A 3. számú melléklet a 115/2012. (VI. 11.) Korm. rendelet 9. § (2) bekezdése, a 10. § (14) és (15) bekezdése szerint módosított szöveg.

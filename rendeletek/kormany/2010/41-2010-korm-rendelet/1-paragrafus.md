@@ -12,9 +12,12 @@ c)[^2] kistestű eb: olyan eb, amelynek testtömege nem haladja meg a 20 kilogra
 
 d)[^3] közepes testű eb: olyan eb, amelynek testtömege 20–40 kilogramm,
 
-e)[^4] nagytestű eb: olyan eb, amelynek testtömege meghaladja a 40 kilogrammot.
+e)[^4] nagytestű eb: olyan eb, amelynek testtömege meghaladja a 40 kilogrammot,
+
+f)[^5] varratmentesen zárt, egyedileg megjelölt lábgyűrű: olyan, a madár életének első napjaiban felhelyezett, a lábának kifejlődését követően el nem távolítható, folytonos kört képező gyűrű vagy szalag, amelyen nincsen semmilyen megszakítás vagy illesztés, és amelyet semmilyen módon nem változtattak meg.
 
 [^1]: Az 1. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
 [^2]: Az 1. § (2) bekezdés c) pontját a 115/2012. (VI. 11.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^3]: Az 1. § (2) bekezdés d) pontját a 115/2012. (VI. 11.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdés e) pontját a 115/2012. (VI. 11.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (2) bekezdés f) pontját a 199/2017. (VII. 10.) Korm. rendelet 1. §-a iktatta be.

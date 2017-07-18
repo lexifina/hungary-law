@@ -1,3 +1,3 @@
-## 23. §[^92]
+## 23. §[^103]
 
-[^92]: A 23. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^103]: A 23. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.

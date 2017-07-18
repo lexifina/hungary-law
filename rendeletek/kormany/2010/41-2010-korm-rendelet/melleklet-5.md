@@ -48,7 +48,7 @@
 
 | v) | saját territóriumon, egyéb állatnak | x |  | x |  |  |  |
 
-5. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^104]
+5. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^116]
 
 A.
 
@@ -88,4 +88,4 @@ Az ivartalanítás és a transzponderrel történő megjelölés megtörténtér
 
 7. Az eb egyéb egyedi jellemzői
 
-[^104]: Az 5. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^116]: Az 5. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.
