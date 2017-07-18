@@ -1,0 +1,7 @@
+## 6. § A 41/2010. (II. 26.) Korm. rendelet 18. §-a a következő (5)–(7) bekezdéssel egészül ki:
+
+## „(5) A kedvtelésből tartott állatok tartásáról és forgalmazásáról szóló 41/2010. (II. 26.) Korm. rendelet és a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet módosításáról szóló 199/2017. (VII. 10.) Korm. rendelet (a továbbiakban: MódR.) hatálybalépését követő harmadik hónap végéig az állattartó engedélyt kérhet a természetvédelmi hatóságtól az általa a MódR. hatálybalépése előtt tenyésztett, illetve beszerzett madár megfelelő jelölés nélküli tartásához.
+
+## (6) Az állattartó az állat élete végéig tarthatja, illetve a MódR. hatálybalépését követő hatodik hónap végéig értékesítheti a MódR. hatálybalépése előtt tenyésztett, illetve beszerzett, a 3. § (1a) bekezdésében meghatározott farkos kétéltűt.
+
+## (7) A MódR. hatálybalépésekor magánháztartásban már tartott arák (Anodorhynchus spp., Cyanopsitta spp., Ara spp., Orthopsittaca spp., Primolius spp.) és bejelentésköteles kakaduk (Cacatuidae spp.) vonatkozásában az egyed tartásakor – ameddig az állatot korábbi tartási helyén tartják – nem kell megfelelni az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló jogszabály mellékletében foglalt, az állatok minimális elhelyezésére vonatkozó rendelkezéseknek.”
