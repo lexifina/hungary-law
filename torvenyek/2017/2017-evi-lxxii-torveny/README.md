@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-72-00-00
 | 2017-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-72-00-00.3 |
 | 2017-07-02 | 2010. évi CXXX. törvény | 2017-72-00-00.4 |
 | 2017-07-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-72-00-00.5 |
+| 2017-07-18 | 2010. évi CXXX. törvény | 2017-72-00-00.6 |
