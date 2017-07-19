@@ -27,3 +27,5 @@ b) az a) ponttól eltérő esetben az adóévet megelőző adóév fizetendő j�
 (12) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
 (13) A járulékfizetésre kötelezett gazdasági társaság a járulékot az üzleti évre állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
+
+(14) Amennyiben az adóalany az éves beszámolóját a számviteli törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze, járulékkötelezettsége megállapításakor köteles a Htv. 40/J–40/L. §-ában foglaltakat megfelelően alkalmazni.
