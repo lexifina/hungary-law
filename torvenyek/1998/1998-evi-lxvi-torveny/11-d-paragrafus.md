@@ -1,0 +1,1 @@
+11/D. § Az egészségügyi hozzájárulás mértékének változása esetén a hozzájárulás fizetésére kötelezett a megváltozott hozzájárulás mértéket arra a hónapra, adóévre vonatkozóan bevallott jövedelmekre alkalmazza először, amely hónapban, adóévben a megváltozott egészségügyi hozzájárulás mértéke hatályba lép.
