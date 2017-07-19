@@ -1,6 +1,6 @@
 ## 7. Nyilatkozat a bevételről
 
-11. § (1) A kisadózó vállalkozás az adóévet követő év február 25-ig az állami adóhatóság által rendszeresített, papír alapon vagy elektronikus úton benyújtott nyomtatványon nyilatkozatot tesz az adóévben adóalanyként megszerzett bevételéről.
+11. § (1) A kisadózó vállalkozás az adóévet követő év február 25-ig az állami adóhatóság által rendszeresített, papíralapon vagy elektronikus úton benyújtott nyomtatványon nyilatkozatot tesz az adóévben adóalanyként megszerzett bevételéről. A nyilatkozat a jogkövetkezmények szempontjából bevallásnak minősül.
 
 (2) Ha az adóalanyiság év közben szűnik meg, a nyilatkozatot a megszűnést követő 30 napon belül kell megtenni.
 
