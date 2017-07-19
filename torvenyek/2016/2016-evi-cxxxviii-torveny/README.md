@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-138-00-00
 | 2017-01-06 | 2010. évi CXXX. törvény | 2016-138-00-00.8 |
 | 2017-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-138-00-00.9 |
 | 2017-07-02 | 2010. évi CXXX. törvény | 2016-138-00-00.10 |
+| 2017-07-19 | 1/2017. (VII. 26.) NFM határozat | 2016-138-00-00.11 |
