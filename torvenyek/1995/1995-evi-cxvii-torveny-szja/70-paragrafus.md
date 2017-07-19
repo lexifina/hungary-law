@@ -60,7 +60,11 @@ azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a ki
 
 a) a 71. § (1) bekezdés b) szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
 
-b) a 71. § (1) bekezdés a) pontja szerinti pénzösszeg adóévi értékének az éves keretösszeget [71. § (6) bekezdés e) pont] meg nem haladó része és a 71. § (1) bekezdés b) pontja szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része.
+b) a 71. § (1) bekezdés a) pontja szerinti pénzösszeg adóévi értékének az éves keretösszeget [71. § (6) bekezdés e) pont] meg nem haladó része és a 71. § (1) bekezdés b) pontja szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része;
+
+c) a 71. § (2) bekezdés a) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
+
+d) a 71. § (2) bekezdés b) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része.
 
 (4a) A (4) bekezdés b) pont alkalmazásában az éves rekreációs keretösszeg
 

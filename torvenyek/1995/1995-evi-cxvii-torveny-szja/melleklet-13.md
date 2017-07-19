@@ -15,5 +15,3 @@ Kisvállalkozások adókedvezménye
 10. Az adókedvezmény a 9. pontban meghatározott hitelre az adóévben fizetett kamat 40 százaléka, 2013. december 31-ét követően, de 2017. január 1-jét megelőzően megkötött hitelszerződések esetében a kamat 60 százaléka. A 2016. december 31-ét követően megkötött hitelszerződések esetében a kamat teljes összege adókedvezményként érvényesíthető.
 
 11.
-
-12. A 9. pont alapján igénybe vett adókedvezmény összege a 2016. december 31-ét megelőzően megkötött hitelszerződések esetében adóévenként nem haladhatja meg a 6 millió forintot. A magánszemély által az adóévben érvényesített adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
