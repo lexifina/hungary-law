@@ -1,6 +1,6 @@
-## 20–21. §[^1]
+## 21. § Hatályát veszti a 18. § (4)–(7) bekezdése.
 
-1. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^2]
+1. melléklet a 62/2016. (XII. 28.) NFM rendelethez
 
 1. Kötelező átvétel címén kiosztható új támogatási jogosultságok korlátai
 
@@ -18,7 +18,9 @@
 
 | 2 | Maximálisan kiosztható éves új támogatás | 10 milliárd forint | 10 milliárd forint csökkentve a 2017. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 10 milliárd forint csökkentve 2017. és 2018. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 10 milliárd forint csökkentve a 2017–2019. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 10 milliárd forint csökkentve a 2017–2020. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal |
 
-3.
+3. Barna prémium címén kiosztható új támogatási jogosultságok korlátai
+
+A barna prémium mértéke nem lehet magasabb, mint a Metár kormányrendelet 1. melléklet 3. pont szerinti ár Metár kormányrendelet 3. melléklet szerinti aktuális indexált értékének 50%-a.
 
 4. Pályázati eljárásban kiosztható új támogatási jogosultságok korlátai
 
@@ -27,6 +29,3 @@
 | 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 |
 
 | 2 | Maximálisan kiosztható éves új támogatás | 15 milliárd forint | 15 milliárd forint csökkentve a 2017. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017. és 2018. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017–2019. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017–2020. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal |
-
-[^1]: A 20–21. § a 19. § (3) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
-[^2]: Az 1. melléklet 3. pontja a 19. § (3) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.

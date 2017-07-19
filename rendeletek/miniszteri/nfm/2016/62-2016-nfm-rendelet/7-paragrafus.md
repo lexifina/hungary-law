@@ -38,7 +38,7 @@ b) külföldi, Magyarországon engedélyhez kötött foglalkoztatása esetén az
 
 17. közvetetten vagy közvetlenül több mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik a pályázóban olyan jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amelynek tekintetében a 16. pontban meghatározott feltételek fennállnak. Ha a több mint 25%-os tulajdoni résszel vagy szavazati hányaddal rendelkező gazdasági társaság társulásként adózik, akkor az ilyen társulás tulajdonos társaságaira vonatkozóan kell e feltételt megfelelően alkalmazni,
 
-18. az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (4a) és (4b) bekezdése szerint nehéz helyzetben lévő vállalkozásnak minősül.
+18.[^1] az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (4a) és (4b) bekezdése szerint nehéz helyzetben lévő vállalkozásnak minősül.
 
 (2) Az (1) bekezdésben meghatározott kizáró okokra vonatkozóan a pályázó a pályázati eljárás során nyilatkozatban hozzájárul ahhoz, hogy a nyilvántartott adatokat a nyilvántartó szervezetek a Hivatal részére átadják.
 
@@ -49,3 +49,5 @@ a) az (1) bekezdésben megfogalmazott valamely kizáró okról nem nyilatkozik,
 b) a pályázatában az előírt adatszolgáltatási kötelezettség teljesítése során, a verseny tisztaságát veszélyeztetve, hamis adatot szolgáltat, vagy hamis nyilatkozatot tesz,
 
 c) a kiírási dokumentáció szerinti határidőben nem igazolta az ajánlati biztosíték rendelkezésre állását.
+
+[^1]: [A 20. § által elrendelt módosítás, amely szerint a 7. § (1) bekezdés 18. pontjában a „(4a) és (4b) bekezdései” szövegrész helyébe a „(6) és (7) bekezdései” szöveg lép, nem vezethető át.]
