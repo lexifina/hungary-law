@@ -1,1 +1,0 @@
-## 1. A kedvtelésből tartott állatok tartásáról és forgalmazásáról szóló 41/2010. (II. 26.) Korm. rendelet módosítása

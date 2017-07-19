@@ -1,3 +1,0 @@
-## 8. § A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet 4. § (1) bekezdés nyitó szövegrészében az „a tanácsi rendelet A. mellékletében, illetve B. mellékletében szereplő, zéró kvótára vonatkozó megjegyzéssel ellátott gerinces állatfaj példánya, valamint” szövegrész helyébe az „a tanácsi rendelet A. mellékletében foglalt gerinces állatfaj példánya, a B. mellékletében zéró kvótára vonatkozó megjegyzéssel ellátott gerinces állatfaj példánya vagy” szöveg lép.
-
-## 3. Záró rendelkezések
