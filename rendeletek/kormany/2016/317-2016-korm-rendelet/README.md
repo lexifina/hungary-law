@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-317-20-
 | --- | --- | --- |
 | 2016-11-02 | 2016-317-20-22.1 | 317/2016. (X. 25.) Korm. rendelet |
 | 2017-01-01 | 2016-317-20-22.2 | 486/2016. (XII. 28.) Korm. rendelet |
+| 2017-07-19 | 2016-317-20-22.3 | 206/2017. (VII. 11.) Korm. rendelet |
