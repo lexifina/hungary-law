@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-62-20-2
 | 2016-12-29 | 2016-62-20-2W.1 | 62/2016. (XII. 28.) NFM rendelet |
 | 2017-01-01 | 2016-62-20-2W.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-07-19 | 2016-62-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2017-07-20 | 2016-62-20-2W.4 | 2010: CXXX. törvény |

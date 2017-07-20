@@ -1,4 +1,4 @@
-## 21. § Hatályát veszti a 18. § (4)–(7) bekezdése.
+## 20–21. §[^3]
 
 1. melléklet a 62/2016. (XII. 28.) NFM rendelethez
 
@@ -29,3 +29,5 @@ A barna prémium mértéke nem lehet magasabb, mint a Metár kormányrendelet 1.
 | 1 |  | 2017 | 2018 | 2019 | 2020 | 2021 |
 
 | 2 | Maximálisan kiosztható éves új támogatás | 15 milliárd forint | 15 milliárd forint csökkentve a 2017. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017. és 2018. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017–2019. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal | 15 milliárd forint csökkentve a 2017–2020. évben kiosztott jogosultságokhoz tartozó éves új támogatásokkal |
+
+[^3]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
