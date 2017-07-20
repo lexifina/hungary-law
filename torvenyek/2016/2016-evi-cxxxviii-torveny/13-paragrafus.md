@@ -1,9 +1,3 @@
 13. § (1)
 
-(2) A Vet. 170. § (5) bekezdés 7. pontja helyébe a következő rendelkezés lép, valamint a bekezdés a következő 8. ponttal egészül ki:
-
-(Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg)
-
-„7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének, valamint biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló, prémium típusú támogatás mértékének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
-
-8. a demonstrációs projektté minősítés követelményeit és eljárásrendjét.”
+(2)
