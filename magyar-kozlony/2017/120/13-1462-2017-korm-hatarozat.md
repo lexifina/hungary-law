@@ -1,0 +1,250 @@
+# A Kormány 1462/2017. (VII. 25.) Korm. határozata
+
+Magyar Közlöny 2017. évi 120. szám, 2017. július 25. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b9bb02aed698d2cb30259fc2844e8b4569dc0251/dokumentumok/0c6135595e405fbde44030b6a671a3531a7f1ef2/letoltes)
+
+---
+
+A Kormány 1462/2017. (VII. 25.) Korm. határozata
+a védelmi felkészítés egyes kérdéseiről
+1. A Kormány a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető
+intézkedésekről szóló 2011. évi CXIII. törvény 21. § (1) bekezdés e)–i) pontjában, 21. § (3) bekezdés b) pontjában,
+továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető
+intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.)
+Korm. rendelet 41. § (3) bekezdésében foglalt feladatainak végrehajtása érdekében
+a) az 1. mellékletben foglaltak szerint elfogadja a védelmi felkészítés 2017. évi feladattervét;
+b) felhívja a honvédelmi minisztert, hogy – a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-
+koordináló szakmai szerve útján – kísérje figyelemmel a feladattervben foglaltak végrehajtását, és szükség
+esetén tegyen javaslatot a teljesítést segítő intézkedésekre;
+
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+c) felkéri a legfőbb ügyészt, az Országos Bírósági Hivatal elnökét, a Magyar Nemzeti Bank elnökét,
+a Médiaszolgáltatás-támogató és Vagyonkezelő Alap vezérigazgatóját, a Nemzeti Közszolgálati Egyetem
+rektorát, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal,
+a Közbeszerzési Hatóság, az Egyenlő Bánásmód Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi
+és Információszabadság Hatóság, valamint a Nemzeti Választási Iroda vezetőjét, hogy szakterületüket
+érintően működjön együtt a védelmi felkészítés és a válságkezelés feladatainak végrehajtásáért felelős
+szervekkel az 1. mellékletben meghatározott feladatok végrehajtásában.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1221/2016. (V. 2.) Korm. határozat.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1462/2017. (VII. 25.) Korm. határozathoz
+A védelmi felkészítés 2017. évi feladatterve
+1. A NATO Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedési Rendszerrel kapcsolatban:
+a) A Nemzeti Intézkedések Gyűjteményében foglalt intézkedések felülvizsgálata az ágazati felelős szervek
+bevonásával.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: 2017. november 30.
+b) A védelmi felkészítés körébe tartozó, 2017. évben végrehajtott, és 2018. évre javasolt feladatokról szóló
+kormány-előterjesztés részeként beszámoló készítése a NATO Válságreagálási Rendszerével összhangban
+álló Nemzeti Intézkedési Rendszer működésének összesített tapasztalatairól, valamint az ágazati feladatok
+végrehajtásáról.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: NATO által meghatározott időpont
+c) Az ágazati javaslatok alapján a NATO Válságreagálási Rendszer kézikönyvének éves módosítására vonatkozó
+nemzeti álláspont összeállítása és megküldése az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO)
+részére.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: NATO által meghatározott időpont
+2. A polgári-katonai-rendvédelmi együttműködés feladataival kapcsolatban:
+a) A komplex válságkezelés képességcéljaihoz felajánlott civil-katonai-rendvédelmi képességek alapján
+a kijelölt személyek alkalmazásra történő felkészítése belföldi és külföldi tanfolyamokon.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: folyamatos
+b) A fegyveres összeütközés időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés
+végrehajtása a Honvédelmi Minisztérium által megadott képzési követelmények alapján.
+Felelős: belügyminiszter
+honvédelmi miniszter a képzési követelmények meghatározásáért
+Határidő: folyamatos
+c) A b) pont szerinti felkészítés végrehajtásával kapcsolatban, a Honvédelmi Minisztérium által megadott
+képzési követelményeken túl, szükség szerint további szakmai követelmények meghatározása.
+
+Felelős: belügyminiszter
+Határidő: 2017. szeptember 30.
+3. A védelmi felkészítés feladataival kapcsolatban:
+a) A védelmi igazgatás rendszerében központi, területi, helyi és települési szinten honvédelmi igazgatási
+feladatot ellátók továbbképzése a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Kar
+közreműködésével.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei, fővárosi, helyi védelmi bizottságok
+Határidő: folyamatos
+b) A Honvédelmi Minisztérium által irányított „Országos Haditorna Verseny” keretében a honvédelmi igazgatás
+területi szintjein lebonyolítandó honvédelmi versenyek és más rendezvények szervezése és végrehajtása.
+Felelős: honvédelmi miniszter
+megyei, fővárosi, helyi védelmi bizottságok
+Határidő: az„Országos Haditorna Verseny”programjához igazodóan
+c) A hazafias és honvédelmi nevelés programjának tantervi szintű megjelenítése a testnevelés kerettanterv
+módosításával, illetve ehhez kapcsolódó megvalósíthatósági tanulmány kidolgozása.
+Felelős: emberi erőforrások minisztere
+honvédelmi miniszter
+Határidő: 2017. december 31.
+d) A minisztériumok honvédelmi feladatainak tervezését és végrehajtását elősegítő honvédelmi igazgatási
+szakértői rendszer működésének és bővítési lehetőségeinek vizsgálata, ennek eredményéről a Kormány
+tájékoztatása.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: a védelmi felkészítés 2017. évi feladatainak végrehajtásáról szóló jelentéshez igazodóan
+4. A honvédelmi típusú különleges jogrend időszaki felkészüléssel összefüggő feladatokkal kapcsolatban:
+a) A rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet és a váratlan
+támadás idején bevezetendő rendkívüli intézkedések jogszabálytervezeteivel kapcsolatos kidolgozó
+munka folytatása az érintett miniszterek bevonásával, a honvédelmi miniszter részére megküldött
+jogszabálytervezetek szakmai véleményezése.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: folyamatos
+b) A Kormány részére szóló előterjesztésben a Kormány tájékoztatása az a) pont szerinti feladat végrehajtásáról,
+a véglegesített jogszabálytervezetek bemutatása.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: folyamatos
+c) A közigazgatási rendszer központi szintjének rendkívüli állapotban történő működésével kapcsolatos
+koncepció bemutatása, szükség szerint javaslattétel a szabályozási feladatokra.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: folyamatos
+d) A hazai befogadó nemzeti támogatás intézményrendszerének felülvizsgálata, a befogadó nemzeti
+támogatással kapcsolatos jogszabályok és szabályozók szükségszerű módosítására vonatkozó javaslat
+kidolgozása, a tervezési protokoll, az eljárási és elszámolási rend, valamint a tervezéssel, szerződéskötéssel,
+nyilvántartással és ellenőrzéssel összefüggő dokumentumok kidolgozása.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2017. december 31.
+
+e) A NATO nagyon magas készenlétű erőivel kapcsolatos koncepció alapján a befogadó nemzeti támogatás
+képesség katalógusának összeállítása, valamint a NATO erők fogadásának, állomásoztatásának és
+mozgatásának tervezése érdekében a szükséges adatok megküldése a honvédelmi miniszternek.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2017. november 30.
+5. Válságkezelési gyakorlatokkal, rendezvényekkel összefüggő feladatokkal kapcsolatban:
+a) A NATO 2017. évi válságkezelési gyakorlat (Crisis Management Exercise 17, a továbbiakban: CMX 17) nemzeti
+végrehajtása.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: a CMX 17 gyakorlat levezetési tervének megfelelően
+b) Az Európai Unió„Multi Layer 2018”gyakorlat nemzeti feladatainak tervezése.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: az Európai Unió által a gyakorlat előkészítésére és végrehajtására meghatározottak szerint
+c) A NATO Erőket Integráló Elem minősítő gyakorlatában való közreműködés.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: a gyakorlat levezetési tervének megfelelően
+d) Komplex civil-katonai egészségügyi gyakorlat végrehajtása.
+Felelős: honvédelmi miniszter
+emberi erőforrások minisztere
+illetékes megyei, fővárosi védelmi bizottság
+Határidő: 2017. december 31.
+6. A nemzetgazdaságra háruló honvédelmi feladatokkal kapcsolatban:
+A nemzetgazdaság biztonságos működésének és védelmi felkészítésének átfogó koncepciójáról szóló előterjesztés
+Kormány által történő jóváhagyásával összhangban
+a) a tartalékok meghatározása, az állami és piaci tartalékok különválasztása;
+Felelős: honvédelmi miniszter
+belügyminiszter
+nemzetgazdasági miniszter
+miniszterek
+Határidő: 2017. szeptember 30.
+b) a tartalékolás központi koordinációját ellátó szervezet és a tartalékolás ágazati feladatainak meghatározása;
+Felelős: belügyminiszter
+honvédelmi miniszter
+nemzetgazdasági miniszter
+miniszterek
+Határidő: 2017. november 30.
+c) a piaci tartalékolási rendszer kidolgozása.
+Felelős: nemzetgazdasági miniszter
+miniszterek
+Határidő: 2017. november 30.
+7. A védelmi igazgatás tervrendszerének kialakításával kapcsolatos feladatok:
+a) A védelemgazdasági alapterv központi szintű tervdokumentáció mintaokmányainak elkészítése.
+Felelős: nemzetgazdasági miniszter
+honvédelmi miniszter
+Határidő: 2017. november 30.
+b) Az ágazatonként meghatározott, honvédelemben közreműködő egyéb szervek honvédelmi intézkedési
+terveinek szükség szerinti felülvizsgálata, a hiányzó tervek elkészítése.
+
+Felelős: miniszterek
+Határidő: 2017. november 30.
+c) A megyei, fővárosi védelmi bizottságok honvédelmi intézkedési terveiben az egészségügyi feladatok
+szerepeltetésével kapcsolatos útmutató készítése, az útmutató alapján a megyei, fővárosi védelmi
+bizottságok honvédelmi intézkedési terveinek kiegészítése a területi szintű egészségügyi feladatokkal.
+Felelős: emberi erőforrások minisztere
+megyei, fővárosi védelmi bizottság
+Határidő: 2017. november 30.
+8. A Honvédelmi Tanács és a Kormány speciális működési feltételeivel összefüggő feladatokkal kapcsolatban:
+a) A Honvédelmi Tanács és a Kormány speciális működési feltételeit biztosító létesítmények működtetése és
+a képességek fenntartása, valamint a Kormány által jóváhagyott ütemterv szerinti fejlesztése.
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+b) A K-600/KTIR Hírközlési és Informatikai Rendszer működtetése és fejlesztési feladatainak végrehajtása.
+Felelős: belügyminiszter
+honvédelmi miniszter
+megyei, fővárosi védelmi bizottságok
+Határidő: folyamatos
+c) A honvédelmi és a gazdasági felkészülés koordinációja, a Honvédelmi Tanács és a Kormány speciális
+működési feltételeinek biztosítása, valamint a K-600/KTIR Hírközlési és Informatikai Rendszer működtetésével
+összefüggő alkalmazási követelmények meghatározása.
+Felelős: honvédelmi miniszter
+belügyminiszter
+Határidő: folyamatos
+d) Az a) és b) alpont szerinti működtetéssel, képességfenntartással kapcsolatos feladatok ellátásához szükséges
+2017. évi szerződések megkötése.
+Felelős: honvédelmi miniszter
+belügyminiszter
+Határidő: 2017. október 30.
+e) A Honvédelmi Tanács és a Kormány speciális működési feltételeit biztosító létesítményben létrehozandó,
+a kormányzat különleges jogrendben történő működéséhez nélkülözhetetlen, georedundáns informatikai
+rendszerek kialakítására vonatkozó javaslat elkészítése.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: 2017. december 31.
+f) A Honvédelmi Tanács és a Kormány speciális működési feltételeinek folyamatos biztosítása érdekében
+a 2016-ban megkezdett törzsvezetési gyakorlat II. ütemének végrehajtása.
+Felelős: honvédelmi miniszter
+belügyminiszter
+Határidő: 2017. szeptember 30.
+9. A Kormány részére előterjesztés készítése a honvédelemben közreműködő szervek honvédelmi felkészítéssel,
+országvédelemmel és a honvédelmi kötelezettségek teljesítésével kapcsolatos adatkezelésének szabályozásáról.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: 2017. december 31.
+10. A honvédelmi miniszter által jóváhagyott terv alapján – az érintett államigazgatási szervek bevonásával – átfogó,
+felügyeleti ellenőrzés lefolytatása a Komárom-Esztergom Megyei Védelmi Bizottságnál, a Szabolcs-Szatmár-Bereg
+Megyei Védelmi Bizottságnál, a Békés Megyei Védelmi Bizottságnál, a Zala Megyei Védelmi Bizottságnál, valamint
+a Nógrád Megyei Védelmi Bizottságnál.
+
+Felelős: honvédelmi miniszter
+belügyminiszter
+nemzetgazdasági miniszter
+emberi erőforrások minisztere
+érintett megyei, fővárosi védelmi bizottságok
+Határidő: 2017. november 30.
+11. Javaslatok megküldése a honvédelmi miniszter részére a védelmi felkészítés 2018. és 2019. évi feladattervének
+összeállítása érdekében, a tervezett feladatokhoz tartozó költségvetési igények egyidejű megjelölésével.
+Felelős: miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2017. november 1.
+12. A 11. pont szerinti javaslatok alapján a Kormány részére előterjesztés készítése a 2018. évre tervezett védelmi
+felkészítési feladatokról, valamint a végrehajtáshoz szükséges költségvetési források átcsoportosításáról.
+Felelős: honvédelmi miniszter
+Határidő: 2018. február 1.
+13. A Kormány számára összeállításra kerülő jelentéshez tájékoztató megküldése a honvédelmi miniszter részére a
+2017. évi védelmi igazgatási feladatterv végrehajtásáról, a jóváhagyott költségvetési források felhasználásáról.
+Felelős: miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2017. november 30.
+14. A 13. pont szerinti tájékoztató alapján jelentés készítése a Kormány számára a védelmi felkészítés 2017. évi
+feladatainak végrehajtásáról, valamint a „honvédelmi- és gazdasági felkészülés központi kiadásai”, a „Honvédelmi
+Tanács és a Kormány speciális működési feltételeinek biztosítása”, illetve a „K-600 hírrendszer működtetése”
+jogcímeken biztosított előirányzatok felhasználásáról.
+Felelős: honvédelmi miniszter
+Határidő: 2018. március 31.
