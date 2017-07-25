@@ -1,7 +1,9 @@
-6. § (1) A Településsoros Jegyzék összeállításához és felülvizsgálatához a 2. melléklet szerinti adatszolgáltatást kell teljesíteni a tárgyév december 31-én fennálló állapotra vonatkozóan.
+6. §[^7] (1) A Településsoros Jegyzék összeállításához és felülvizsgálatához a 2. melléklet szerinti adatszolgáltatást elektronikusan kell teljesíteni a fővárosi és a települési önkormányzatoknak a tárgyév december 31-én fennálló állapotra vonatkozóan, a tárgyévet követő év április 30. napjáig.
 
-(2) Több települést kiszolgáló térségi rendszer esetén a fővárosi, illetve a települési önkormányzatok jegyzői a 2. melléklet szerinti adatokat az agglomerációs központ települési önkormányzatának jegyzője részére (a továbbiakban: agglomerációs központ jegyzője) a tárgyévet követő év március 31. napjáig küldik meg.
+(2) Több települést kiszolgáló térségi rendszer esetén a 2. mellékletben szereplő szennyvíztisztító telepre vonatkozó fejlesztési adatokat az agglomerációs központ települési önkormányzatának jegyzője (a továbbiakban: agglomerációs központ jegyzője) szolgáltatja.
 
-(3) Az agglomerációs központ jegyzője, és az egyetlen települést kiszolgáló rendszer (szigetüzem), az egyedi szennyvízkezelő berendezés, valamint az egyedi zárt szennyvíztároló esetén a települési önkormányzatok jegyzője a 2. melléklet szerinti adatokat a területileg illetékes vízügyi igazgatóságnak a tárgyévet követő év április 30-ig küldi meg. Amennyiben egy település több szennyvíz-elvezetési agglomerációhoz tartozik, a 2. melléklet szerinti adatokat településrészenként is meg kell küldeni.
+(3) Ha egy település több szennyvízelvezetési agglomerációhoz tartozik, a 2. melléklet szerinti adatokat településrészenként kell megadni.
 
-(4) A területileg illetékes vízügyi igazgatóság a megkapott adatokat összegzi, és a tárgyévet követő év szeptember 1-ig továbbítja az OVF részére.
+(4) A működési területével érintett vízügyi igazgatóság a megkapott adatokat összegzi, és a tárgyévet követő év szeptember 1-ig továbbítja az OVF részére.
+
+[^7]: A 6. § a 195/2017. (VII. 10.) Korm. rendelet 12. §-ával megállapított szöveg.

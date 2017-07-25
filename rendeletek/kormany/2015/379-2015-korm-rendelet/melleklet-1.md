@@ -1,6 +1,6 @@
-## 12. §[^3]
+## 12. §[^9]
 
-1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez
+1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^10]
 
 ## A települési szennyvízelvezetési agglomeráció lehatárolásának szempontjai és módszertana
 
@@ -138,7 +138,7 @@ b) a szennyvíz-elvezetési agglomeráció LE-ben kifejezett névleges terhelés
 
 – vállalkozásokból és gazdasági tevékenységekből (beleértve a kis- és középvállalkozásokat) származó, olyan ipari szennyvíz, amelyet a szennyvíztörzshálózatba vagy települési szennyvíztisztító telepre bocsátanak ki, vagy oda tervezik kibocsátani,
 
-– az összes fennmaradó települési szennyvíz és szennyvíziszap függetlenül attól, hogy szennyvíztörzshálózatokkal összegyűjtésre kerül vagy nem, de az agglomerációban keletkezik.
+– az összes fennmaradó települési szennyvíz és az egyedi szennyvíztisztító berendezésből származó szennyvíziszap függetlenül attól, hogy összegyűjtésre kerül, vagy nem, de az agglomerációban keletkezik, és amely nem foglalja magában az olyan ipari szennyvíz okozta terhelést, amelynek tisztítása külön történik, és a tisztított szennyvizet más szennyvízzel történő keveredés nélkül bocsátják a befogadóba.
 
 5.7. Összehasonlító gazdasági szempontok:
 
@@ -148,8 +148,19 @@ b) a szennyvíz-elvezetési agglomeráció központi szennyvíztisztító telepe
 
 c) vizsgálni kell a reális műszaki megoldásokat,
 
-d) a gazdaságossági számítást a teljes életciklus-szemlélet érvényesítésével kell elvégezni.
+d) a gazdaságossági számítást a teljes életciklus-szemlélet érvényesítésével kell elvégezni a következőképpen:
+
+da) a fenntarthatóságot, a megfizethetőséget és a költséghatékonyságot eredményező döntések céljából az életciklus-szemléletet a döntés-előkészítés folyamán érvényesíteni kell;
+
+db) a költséghatékonyság helyes megítéléséhez az adott beruházás teljes élettartama alatt felmerülő összes költséget dinamikus szemléletben kell figyelembe venni;
+
+dc) az üzemköltségek előrejelzése és a költségelemek élettartamon belüli változásának figyelembevételével kell a költségelemeket meghatározni;
+
+dd) a közvetlen életciklusköltség dinamikus költségelemzését ellenőrizhető módon kell meghatározni;
+
+de) az üzemi tapasztalatokról, a környezetre gyakorolt hatások elemzéséről és a tervezett költségek utóellenőrzése érdekében 5 éves üzemeltetést követően a tervezett és a tényadatok összehasonlító értékelését kell küldeni a területileg illetékes vízügyi igazgatóságnak.
 
 5.8. Az előnyök és hátrányok értékelésénél az 5.3–5.7. pontokban leírt feltételek teljesülése a meghatározó.
 
-[^3]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 195/2017. (VII. 10.) Korm. rendelet 14. § (1) bekezdése szerint módosított szöveg.

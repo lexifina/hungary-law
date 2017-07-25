@@ -1,212 +1,264 @@
-## Adatszolgáltatás a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvízkezelő berendezésekről
+## Adatszolgáltatás a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvíztisztító létesítményekről
 
-## Tárgyév:………
+| Tárgyév: |
 
 | Sorszám |  |  |
 
 | 1. | A település megnevezése |  |
 
-| 2. | Település KSH-kód |  |
+| 2. | Település KSH-kódja |  |
 
 | 3. | Településrész megnevezése |  |
 
-| 4. | Szennyvíz-elvezetési agglomeráció központi települése |  |
+| 4. | Szennyvízelvezetési agglomeráció központi települése |  |
 
-| A településen üzemelő, a szennyvíz tisztítását, elhelyezését szolgáló létesítmények |  |
+| A településen üzemelő, a szennyvíz tisztítását, elhelyezését szolgáló létesítmény(ek) |
 
-|  | Településen meglévő lakossági, közintézményi(1) vagy szállodai, illetve turisztikai létesítmények szennyvizeinek tisztítására szolgáló egyedi szennyvízkezelő berendezés |  |
+|  | A településen meglévő közintézményi vagy szállodai, illetve turisztikai létesítmények szennyvizeinek tisztítására szolgáló egyedi szennyvíztisztító létesítmény(ek), zárt szennyvíztároló(k) |
 
-| 5. | darab |  |
+| 5. | egyedi szennyvíztisztító berendezés (db) |  |
 
-| 6. | létesítményt jellemző megnevezés |  |
+| 6. | tisztítómezővel ellátott oldómedencés létesítmény (db) |  |
 
-| 7. | létszám(2) |  |
+| 7. | egyedi zárt szennyvíztároló (db) |  |
 
-|  | Az 5–7. sor közül kötelezés vagy egyéb információk alapján nem megfelelő egyedi szennyvízkezelő berendezés |  |
+| 8. | összes darabszám |  |
 
-| 8. | darab |  |
+| 9. | egyedi szennyvíztisztító berendezés (fő) |  |
 
-| 9. | létesítményt jellemző megnevezés |  |
+| 10. | tisztítómezővel ellátott oldómedencés létesítmény (fő) |  |
 
-| 10. | létszám(2) |  |
+| 11. | egyedi zárt szennyvíztároló (fő) |  |
 
-|  | A településen üzemel-e jegyzői (vagy építésügyi, vízügyi) hatáskörbe tartozó, lakossági szennyvizek tisztítására, elhelyezésére szolgáló egyedi szennyvízkezelő berendezés, oldómedencés létesítmény, egyedi zárt szennyvíztároló? |  |
+| 12. | összes ellátott lakosszám |  |
 
-| 11. | egyedi szennyvízkezelő berendezés | darab |  |
+|  | Az 5–7. sor közül kötelezés vagy egyéb információk alapján nem megfelelő egyedi szennyvíztisztító létesítmény(ek), zárt szennyvíztároló(k) |
 
-| 12. | ellátott ingatlan száma |  |
+| 13. | egyedi szennyvíztisztító berendezés (db) |  |
 
-| 13. | lakosszám (fő) |  |
+| 14. | tisztítómezővel ellátott oldómedencés létesítmény (db) |  |
 
-| 14. | tisztítómezővel ellátott oldómedencés létesítmény(3) | darab |  |
+| 15. | egyedi zárt szennyvíztároló (db) |  |
 
-| 15. | ellátott ingatlan száma |  |
+| 16. | összes darabszám |  |
 
-| 16. | lakosszám (fő) |  |
+| 17. | egyedi szennyvíztisztító berendezés (fő) |  |
 
-| 17. | egyedi zárt szennyvíztároló | darab |  |
+| 18. | tisztítómezővel ellátott oldómedencés létesítmény (fő) |  |
 
-| 18. | ellátott ingatlan száma |  |
+| 19. | egyedi zárt szennyvíztároló (fő) |  |
 
-| 19. | lakosszám (fő) |  |
+| 20. | összes ellátott lakosszám |  |
 
-|  | A 11–19. sorok közül kötelezés vagy egyéb információk alapján nem megfelelő egyedi szennyvízkezelő berendezés oldómedencés létesítmény, egyedi zárt szennyvíztároló |  |
+|  | A lefolytatott éves ellenőrzések száma |
 
-| 20. | egyedi szennyvízkezelő berendezés | darab |  |
+| 21. | egyedi szennyvíztisztító berendezés (db) |  |
 
-| 21. | ellátott ingatlan száma |  |
+| 22. | tisztítómezővel ellátott oldómedencés létesítmény (db) |  |
 
-| 22. | lakosszám (fő) |  |
+| 23. | egyedi zárt szennyvíztároló (db) |  |
 
-| 23. | tisztítómezővel ellátott oldómedencés létesítmény(3) | darab |  |
+| 24. | összes ellenőrzés száma |  |
 
-| 24. | ellátott ingatlan száma |  |
+|  | A településen üzemel-e jegyzői (építésügyi vagy vízügyi) hatáskörbe tartozó lakossági szennyvizek tisztítására, elhelyezésére szolgáló egyedi szennyvíztisztító berendezés, oldómedencés létesítmény, egyedi zárt szennyvíztároló? |
 
-| 25. | lakosszám (fő) |  |
+| 25. | egyedi szennyvíztisztító berendezés | darabszáma |  |
 
-| 26. | egyedi zárt szennyvíztároló | darab |  |
+| 26. | ellátott ingatlan száma (db) |  |
 
-| 27. | ellátott ingatlan száma |  |
+| 27. | ellátott lakosszám (fő) |  |
 
-| 28. | lakosszám (fő) |  |
+| 28. | ellátott ingatlanok helye (hrsz. vagy EOV) |  |
 
-| A tárgyévi TERVEZETT önkormányzati fejlesztés |  |
+| 29. | tisztítómezővel ellátott oldómedencés létesítmény | darabszáma |  |
 
-| 29. | Szennyvízgyűjtő rendszer tekintetében (igen/nem) |  |
+| 30. | ellátott ingatlan száma (db) |  |
 
-| 30. | Egyedi szennyvízkezelő berendezések, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében (igen/nem) |  |
+| 31. | ellátott lakosszám (fő) |  |
 
-| 31. | Települési szennyvíztisztító telep tekintetében (igen/nem) |  |
+| 32. | ellátott ingatlanok helye (hrsz. vagy EOV) |  |
 
-| 32. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében (igen/nem) |  |
+| 33. | egyedi zárt szennyvíztároló | darabszáma |  |
 
-| 33. | Szennyvíziszap-kezelés tekintetében (igen/nem) |  |
+| 34. | ellátott ingatlan száma (db) |  |
 
-| 34. | Tervez-e az önkormányzat intézkedést a szennyvízgyűjtő rendszerre történő rákötések teljesítésére (igen/nem) |  |
+| 35. | ellátott lakosszám (fő) |  |
 
-| A tárgyévi FOLYAMATBAN LÉVŐ/ TERVEZETT új rendszer adatai |  |
+| 36. |  | ellátott ingatlanok helye (hrsz. vagy EOV) |  |
 
-|  | Az előkészítő intézkedések (tervezés, engedélyeztetés, közbeszerzési eljárás, pályáztatás) befejezésének (várható) időpontja (év, hónap) |  |
+| 37. | összes darabszám |  |
 
-| 35. | Szennyvízgyűjtő rendszer tekintetében |  |
+| 38. | összes ellátott lakosszám |  |
 
-| 36. | Egyedi szennyvízkezelő berendezések, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében |  |
+|  | A 17–25. sorok közül kötelezés vagy egyéb információk alapján nem megfelelő egyedi szennyvíztisztító berendezés, oldómedencés létesítmény, egyedi zárt szennyvíztároló |
 
-| 37. | Településen lévő szennyvíztisztító telep tekintetében |  |
+| 39. | egyedi szennyvíztisztító berendezés | darabszáma |  |
 
-| 38. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében |  |
+| 40. | ellátott ingatlan száma (db) |  |
 
-| 39. | Szennyvíziszap-kezelés tekintetében |  |
+| 41. | ellátott lakosszám (fő) |  |
 
-|  | A kivitelezés kezdő (várható) időpontja (év, hónap) |  |
+| 42. | tisztítómezővel ellátott oldómedencés létesítmény | darabszáma |  |
 
-| 40. | Szennyvízgyűjtő rendszer tekintetében |  |
+| 43. | ellátott ingatlan száma (db) |  |
 
-| 41. | Egyedi szennyvízkezelő berendezések, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében |  |
+| 44. | ellátott lakosszám (fő) |  |
 
-| 42. | Településen lévő szennyvíztisztító telep tekintetében |  |
+| 45. | egyedi zárt szennyvíztároló | darabszáma |  |
 
-| 43. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében |  |
+| 46. | ellátott ingatlan száma (db) |  |
 
-| 44. | Szennyvíziszap-kezelés tekintetében |  |
+| 47. | ellátott lakosszám (fő) |  |
 
-|  | A kivitelezés befejezésének (várható) időpontja (év, hónap) |  |
+| 48. | összes darabszám |  |
 
-| 45. | Szennyvízgyűjtő rendszer tekintetében |  |
+| 49. | összes ellátott lakosszám |  |
 
-| 46. | Egyedi szennyvízkezelő berendezések, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében |  |
+|  | A lefolytatott éves ellenőrzések száma |
 
-| 47. | Településen lévő szennyvíztisztító telep tekintetében |  |
+| 50. | egyedi szennyvíztisztító berendezés (db) |  |
 
-| 48. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében |  |
+| 51. | tisztítómezővel ellátott oldómedencés létesítmény (db) |  |
 
-| 49. | Szennyvíziszap-kezelés tekintetében |  |
+| 52. | egyedi zárt szennyvíztároló (db) |  |
 
-| 50. | A csatornarendszerre történő rákötés tekintetében |  |
+| 53. | összes ellenőrzés száma |  |
 
-| A tárgyévi beruházási ráfordítások folyó áron összesen (ezer Ft) |  |
+| A tárgyévi TERVEZETT önkormányzati fejlesztés (igen/nem) |
 
-| 51. | Meglévő szennyvíz-elvezetési agglomerációhoz csatlakozás vagy újonnan létrehozott több településből álló szennyvíz-elvezetési agglomeráció esetén a szennyvíz-elvezetési agglomeráció megnevezése |  |
+| 54. | Szennyvízgyűjtő rendszer tekintetében |  |
 
-| 52. | Az 1. sorban megnevezett településre vonatkozó szennyezőanyag-terhelés, melynek kezelésére a beruházás irányul (lakosegyenérték) |  |
+| 55. | Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében |  |
 
-| 53. | A beruházás teljes bekerülési költsége (ezer Ft)(4) |  |
+| 56. | Települési szennyvíztisztító telep tekintetében |  |
 
-| 54. | A beruházás kezdő éve(4) |  |
+| 57. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében |  |
 
-| 55. | A beruházás tervezett befejezésének éve(4) |  |
+| 58. | Szennyvíziszap-kezelés tekintetében |  |
 
-| 56. | Szennyvízgyűjtő rendszer összesen |  |
+| 59. | Tervez-e az önkormányzat intézkedést a szennyvízgyűjtő rendszerre történő rákötések teljesítésére? |  |
 
-| 57. |  | önkormányzati forrásból |  |
+| A tárgyévi FOLYAMATBAN LÉVŐ/ TERVEZETT új rendszer adatai |
 
-| 58. |  | állami fonásból |  |
+| 60. | Meglévő szennyvízelvezetési agglomerációhoz csatlakozás vagy újonnan létrehozott, több településből álló szennyvízelvezetési agglomeráció esetén a szennyvízelvezetési agglomeráció megnevezése |  |
 
-| 59. | ebből: | víziközmű-társulati forrásból |  |
+| 61. | Az 1. sorban megnevezett településre vonatkozó szennyezőanyag-terhelés, melynek kezelésére a beruházás irányul (lakosegyenérték) |  |
 
-| 60. |  | hitelből |  |
+|  | Az előkészítő intézkedések (tervezés, engedélyeztetés, közbeszerzési eljárás, pályáztatás) befejezésének (várható) időpontja (év, hónap) |
 
-| 61. |  | egyéb forrásból | megnevezés |  |
+| 62. | Szennyvízgyűjtő rendszer tekintetében |  |
 
-| 62. | Szennyvízszállító vezeték összesen |  |
+| 63. | Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében |  |
 
-| 63. |  | önkormányzati forrásból |  |
+| 64. | Települési szennyvíztisztító telep tekintetében |  |
 
-| 64. |  | állami forrásból |  |
+| 65. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében |  |
 
-| 65. | ebből: | víziközmű-társulati forrásból |  |
+| 66. | Szennyvíziszap-kezelés tekintetében |  |
 
-| 66. |  | hitelből |  |
+|  | A kivitelezés kezdő (várható) időpontja (év, hónap) |
 
-| 67. |  | egyéb forrásból | megnevezés |  |
+| 67. | Szennyvízgyűjtő rendszer tekintetében |  |
 
-| 68. | Településen lévő szennyvíztisztító telep összesen |  |
+| 68. | Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében |  |
 
-| 69. |  | önkormányzati forrásból |  |
+| 69. | Települési szennyvíztisztító telep tekintetében |  |
 
-| 70. |  | állami forrásból |  |
+| 70. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében |  |
 
-| 71. | ebből: | víziközmű-társulati forrásból |  |
+| 71. | Szennyvíziszap-kezelés tekintetében |  |
 
-| 72. |  | hitelből |  |
+|  | A kivitelezés befejezésének (várható) időpontja (év, hónap) |
 
-| 73. |  | egyéb forrásból | megnevezés |  |
+| 72. | Szennyvízgyűjtő rendszer tekintetében |  |
 
-| 74. | Szennyvíziszap-kezelés összesen |  |
+| 73. | Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében |  |
 
-| 75. |  | önkormányzati forrásból |  |
+| 74. | Településen lévő szennyvíztisztító telep tekintetében |  |
 
-| 76. |  | állami forrásból |  |
+| 75. | A szennyvíztisztító telephez kapcsolódó szállítóvezeték tekintetében |  |
 
-| 77. | ebből: | víziközmű-társulati forrásból |  |
+| 76. | Szennyvíziszap-kezelés tekintetében |  |
 
-| 78. |  | hitelből |  |
+| 77. | A csatornarendszerre történő rákötés tekintetében |  |
 
-| 79. |  | egyéb forrásból | megnevezés |  |
+| A tárgyévi beruházási ráfordítások folyó áron összesen (nettó ezer Ft) |
 
-| 80. | Egyedi szennyvízkezelő berendezések, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében összesen |  |
+| 78. | A beruházás teljes bekerülési költsége |  |
 
-| 81. |  | önkormányzati forrásból |  |
+| 79. | Szennyvízgyűjtő rendszer összesen |  |
 
-| 82. |  | állami forrásból |  |
+| 80. | ebből: | önkormányzati forrásból |  |
 
-| 83. | ebből: | víziközmű-társulati forrásból |  |
+| 81. | állami forrásból |  |
 
-| 84. |  | hitelből |  |
+| 82. | víziközmű-társulati forrásból |  |
 
-| 85. |  | egyéb forrásból | megnevezés |  |
+| 83. | hitelből |  |
 
-## (1) Közintézményi létesítmény: óvoda, iskola, idősek otthona, egyéb stb.
+| 84. | egyéb forrásból |  |
 
-## (2) Közintézmények, szálloda, turisztikai létesítmény esetében.
+| 85. | egyéb forrás megnevezése |  |
 
-## (3) A tisztítómező nélküli oldómedencés létesítmény adatait az egyedi zárt szennyvíztároló soraiban kell megadni.
+| 86. | Szennyvízszállító vezeték összesen |  |
 
-## (4) Több településből álló agglomeráció esetében az agglomerációs központ jegyzője szolgáltat adatot.
+| 87. | ebből: | önkormányzati forrásból |  |
 
-3. melléklet a 379/2015. (XII. 8.) Korm. rendelethez
+| 88. | állami forrásból |  |
 
-Tájékoztató jegyzék a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvízkezelő berendezésekről
+| 89. | víziközmű-társulati forrásból |  |
+
+| 90. | hitelből |  |
+
+| 91. | egyéb forrásból |  |
+
+| 92. | egyéb forrás megnevezése |  |
+
+| 93. | Településen lévő szennyvíztisztító telep összesen |  |
+
+| 94. | ebből: | önkormányzati forrásból |  |
+
+| 95. | állami forrásból |  |
+
+| 96. | víziközmű-társulati forrásból |  |
+
+| 97. | hitelből |  |
+
+| 98. | egyéb forrásból |  |
+
+| 99. | egyéb forrás megnevezése |  |
+
+| 100. | Szennyvíziszap-kezelés összesen |  |
+
+| 101. | ebből: | önkormányzati forrásból |  |
+
+| 102. | állami forrásból |  |
+
+| 103. | víziközmű-társulati forrásból |  |
+
+| 104. | hitelből |  |
+
+| 105. | egyéb forrásból |  |
+
+| 106. | egyéb forrás megnevezése |  |
+
+| 107. | Egyedi szennyvíztisztító berendezések, tisztítómezővel ellátott oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében összesen |  |
+
+| 108. | ebből: | önkormányzati forrásból |  |
+
+| 109. | állami forrásból |  |
+
+| 110. | víziközmű-társulati forrásból |  |
+
+| 111. | hitelből |  |
+
+| 112. | egyéb forrásból |  |
+
+| 113. | egyéb forrás megnevezése |  |
+
+3. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^12]
+
+Tájékoztató jegyzék a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvíztisztító létesítményekről
 
 Tárgyév: ………
 
@@ -220,18 +272,20 @@ Tárgyév: ………
 
 | A településen üzemelő, a szennyvíz tisztítását, elhelyezését szolgáló létesítmények |  |
 
-| 4. | Településen meglévő lakossági, közintézményi(1) vagy szállodai, illetve turisztikai létesítmények szennyvizeinek tisztítására szolgáló egyedi szennyvízkezelő berendezés (van/nincs) |  |
+| 4. | Településen meglévő lakossági, közintézményi(1) vagy szállodai, illetve turisztikai létesítmények szennyvizeinek tisztítására szolgáló egyedi szennyvíztisztító létesítmény (van/nincs) |  |
 
-| 5. | A településen üzemel-e jegyzői (vagy építésügyi, vízügyi) hatáskörbe tartozó, lakossági szennyvizek tisztítására, elhelyezésére szolgáló egyedi szennyvízkezelő berendezés, oldómedencés létesítmény, egyedi zárt szennyvíztároló? (igen/nem) |  |
+| 5. | A településen üzemel-e jegyzői (vagy építésügyi, vízügyi) hatáskörbe tartozó, lakossági szennyvizek tisztítására, elhelyezésére szolgáló egyedi szennyvíztisztító létesítmény, oldómedencés létesítmény, egyedi zárt szennyvíztároló? (igen/nem) |  |
 
 | A tárgyévi TERVEZETT önkormányzati fejlesztés |  |
 
 | 6. | Szennyvízgyűjtő rendszer tekintetében (igen nem) |  |
 
-| 7. | Egyedi szennyvízkezelő berendezések, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében (igen/nem) |  |
+| 7. | Egyedi szennyvíztisztító létesítmények, oldómedencés létesítmények, egyedi zárt szennyvíztárolók elhelyezése tekintetében (igen/nem) |  |
 
 | 8. | Települési szennyvíztisztító telep tekintetében (igen/nem) |  |
 
 | 9. | Szennyvíziszap-kezelés tekintetében (igen/nem) |  |
 
 (1) Közintézményi létesítmény: óvoda, iskola, idősek otthona, egyéb stb.
+
+[^12]: A 3. melléklet a 195/2017. (VII. 10.) Korm. rendelet 15. § e)–g) pontja szerint módosított szöveg.
