@@ -1,0 +1,1 @@
+A Kormány – a kisvasutak növekvő népszerűségére, valamint a fenntarthatósági, klímavédelmi, turisztikai, nemzetgazdasági és egészségügyi szempontokra tekintettel – támogatja a turisztikai célú keskeny nyomközű kisvasutakkal kapcsolatos infrastruktúra fejlesztését és a járműpark felújítását. Ennek érdekében
