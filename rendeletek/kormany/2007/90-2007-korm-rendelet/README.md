@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-90-20-2
 | 2015-04-01 | 2007-90-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-10-01 | 2007-90-20-22.14 | 289/2016. (IX. 22.) Korm. rendelet |
 | 2017-01-01 | 2007-90-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-07-25 | 2007-90-20-22.16 | 527/2013. (XII. 30.) Korm. rendelet |
