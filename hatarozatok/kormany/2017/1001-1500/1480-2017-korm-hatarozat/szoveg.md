@@ -1,0 +1,1 @@
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra figyelemmel beruházási célterületté nyilvánítja a Csenger város külterületén fekvő, az ingatlan-nyilvántartás szerint 0149/41 helyrajzi számú földrészletet.
