@@ -6,13 +6,13 @@
 
 19. § (1)[^121] A környezethasználó a felszín alatti vízben, illetve földtani közegben okozott szennyezést, illetve károsodást a vízvédelmi hatóságnak köteles bejelenteni, illetve a vizek állapotának azonnali beavatkozást igénylő környezetkárosodása esetén köteles megkezdeni a kárelhárítást a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben foglaltaknak megfelelően.
 
-(2)[^122] A vízvédelmi hatóság – indokolt esetben a vízügyi igazgatóság bevonásával – a földtani közeg, felszín alatti víz terhelésére, minőségének veszélyeztetésére, szennyezésére, károsítására vonatkozó, birtokába került információkat kivizsgálja a hatósági intézkedés igényének megállapítása és a hatósági eljárás megalapozása érdekében.
+(2)[^122] A vízvédelmi hatóság – indokolt esetben a környezetvédelmi hatóság és a vízügyi igazgatóság bevonásával – a földtani közeg, felszín alatti víz terhelésére, minőségének veszélyeztetésére, szennyezésére, károsítására vonatkozó, birtokába került információkat kivizsgálja a hatósági intézkedés igényének megállapítása és a hatósági eljárás megalapozása érdekében.
 
 (3)[^123] A kivizsgálást a kockázat mérlegelése alapján – az e rendeletben szabályozott esetek kivételével – Kvt. vonatkozó rendelkezései alkalmazásával kell lefolytatni.
 
 (4)[^124] A vízvédelmi hatóság a kivizsgálás keretében elrendelheti a 16. § (2) bekezdése szerinti bejelentés, adatszolgáltatás harminc napon belül történő benyújtását, amennyiben a hatóság tudomására jutott adatok a tevékenység folytatójával kapcsolatosak, annak azonosítását lehetővé teszik és a tevékenység folytatójának adatszolgáltatási kötelezettségére előírt határidő még nem járt le, vagy a tevékenység folytatója nem tartozik a bejelentésre kötelezettek közé.
 
-(5)[^125] A kivizsgálás során tartott helyszíni szemléről készült jegyzőkönyvnek tartalmaznia kell a 6. számú mellékletben foglaltakat.
+(5)[^125] A vízvédelmi hatóság a kivizsgálás során helyszíni szemlét tart, és a 6. számú mellékletnek megfelelő jegyzőkönyvet vesz fel, amely a (9) bekezdés c) és d) pontja szerinti döntések mellékletét képezi.
 
 (6) A szennyezettség valószínűsíthető:
 
@@ -48,20 +48,20 @@ d)[^132] a szükséges intézkedés, eljárás megindításáról, illetve a kö
 
 (13)[^136] A vízvédelmi hatóság a 21. § (10) bekezdés alapján elrendelheti a külön jogszabály szerinti adatlap kitöltését és benyújtását.
 
-(14)[^137] A vízvédelmi hatóság a felszín alatti víz, illetve a földtani közeg veszélyeztetése, szennyezése, károsodása kivizsgálását követően a kötelezettséget megállapító határozatának
+(14)[^137] A vízvédelmi hatóság a felszín alatti víz, illetve a földtani közeg veszélyeztetése, szennyezése, károsodása kivizsgálását követően a (9) bekezdés b)–d) pontja és a (11) bekezdés szerinti kötelezettséget megállapító határozatának
 
 a)[^138] meghozatala előtt a kulturális örökségvédelmi hatóság megkeresésével tisztázza az érintett terület régészeti jelentőségét, illetőleg műemléki védelmét;
 
 b)[^139]
 
-(15)[^140] A vízvédelmi hatóság a (1) bekezdés szerinti határozatát közli a közegészségügyi hatósággal, az eljárásban résztvevő más érdekelt hatósággal, önkormányzattal, továbbá a terület tulajdonosával is.
+(15)[^140] A vízvédelmi hatóság a (9) bekezdés b)–d) pontjai és a (11) bekezdés szerinti határozatát közli a közegészségügyi hatósággal, az eljárásban résztvevő más érdekelt hatósággal, önkormányzattal, továbbá a terület tulajdonosával is.
 
 [^120]: A 18. §-t a 310/2014. (XII. 11.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^121]: A 19. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (6) bekezdésével megállapított szöveg.
-[^122]: A 19. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (6) bekezdésével megállapított szöveg.
+[^122]: A 19. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (6) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^123]: A 19. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 51. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^124]: A 19. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (55) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
-[^125]: A 19. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 357. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^125]: A 19. § (5) bekezdése a 195/2017. (VII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^126]: A 19. § (6) bekezdésének ba) pontja a 110/2005. (VI. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^127]: A 19. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^128]: A 19. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (7) bekezdésével megállapított szöveg.
@@ -73,7 +73,7 @@ b)[^139]
 [^134]: A 19. § eredeti (10) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (11) bekezdésre változtatta. A 19. § (11) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^135]: A 19. § eredeti (11) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (12) bekezdésre változtatta. A 19. § (12) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 275. § b) pontja szerint módosított szöveg.
 [^136]: A 19. § eredeti (12) bekezdésének számozását (13) bekezdésre változtatta és szövegét módosította a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése, illetve 9. § (2) bekezdése. A 19. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
-[^137]: A 19. § eredeti (13) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (14) bekezdésre változtatta. A 19. § (14) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
+[^137]: A 19. § eredeti (13) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (14) bekezdésre változtatta. A 19. § (14) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 195/2017. (VII. 10.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^138]: A 19. § (14) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 123. §-a szerint módosított szöveg.
 [^139]: A 19. § (14) bekezdésének b) pontját a 182/2009. (IX. 10.) Korm. rendelet 359. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^140]: A 19. § (15) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 357. § (5) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
+[^140]: A 19. § (15) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 357. § (5) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 195/2017. (VII. 10.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
