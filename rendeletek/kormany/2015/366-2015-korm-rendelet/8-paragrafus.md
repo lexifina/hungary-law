@@ -18,12 +18,15 @@ g) a kiemelt üdülőterületekre vonatkozó vízminőség-védelmi információ
 
 h) együttműködik a vízügyi igazgatósággal a vízvédelmi igazgatási feladatai ellátása során,
 
-i)[^19] ellátja a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokat,
+i)[^19] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
 
 j)[^20] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
 
-k)[^21] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában.
+k)[^21] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában,
 
-[^19]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+l)[^22] végrehajtja a Kvt.-ben és a vízvédelmet érintő jogszabályokban – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben, a felszín alatti vizek védelméről szóló kormányrendeletben és a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben – meghatározott feladatokat.
+
+[^19]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^20]: A 8. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
 [^21]: A 8. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^22]: A 8. § l) pontját a 195/2017. (VII. 10.) Korm. rendelet 10. §-a iktatta be.

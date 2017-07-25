@@ -10,7 +10,7 @@ c) közreműködik a nyilvánosság rendszeres tájékoztatásában a Kvt. 51. �
 
 d) – szükség esetén a vízügyi igazgatóság bevonásával – szolgáltatja a vízvédelemért felelős miniszter (a továbbiakban: miniszter) által kért, a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett vízvédelmi adatokat, információkat,
 
-e)[^1] közreműködik a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv (a továbbiakban: VKI) végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi vonatkozású feladatokban,
+e)[^1] ellátja a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv (a továbbiakban: VKI) végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi vonatkozású feladatokat,
 
 f) végzi az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról szóló, 2007. március 14-i 2007/2/EK európai parlamenti és tanácsi irányelv végrehajtásával kapcsolatos, szakterületét érintő feladatokat,
 
@@ -48,7 +48,7 @@ v)[^6] közreműködik a Magyar Bányászati és Földtani Szolgálat által az 
 
 w)[^7] tevékenységéről évente átfogó jelentést készít a vízvédelemért felelős miniszter számára.
 
-[^1]: A 4. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^1]: A 4. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^2]: A 4. § h) pontja a 289/2016. (IX. 22.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^3]: A 4. § s) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
 [^4]: A 4. § t) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.

@@ -6,7 +6,7 @@ a) a Vgtv.-ben előírtakkal összhangban, a Kvt. előírásai alapján elemzi �
 
 b) szolgáltatja a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett adatokat, információkat,
 
-c)[^8] közreműködik a VKI végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi feladatokban,
+c)[^8] ellátja a VKI végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi feladatokat,
 
 d) közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásából származó feladatokban,
 
@@ -30,7 +30,7 @@ m)[^10] a Kvt. felelősségi szabályaira tekintettel ellátja a felelősségi i
 
 n)[^11] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelősségi irányelv végrehajtásához kapcsolódó, a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott vízvédelmi feladatokban.
 
-[^8]: Az 5. § c) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § c) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^9]: Az 5. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
 [^10]: Az 5. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
 [^11]: Az 5. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
