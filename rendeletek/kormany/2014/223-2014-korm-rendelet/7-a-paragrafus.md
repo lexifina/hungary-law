@@ -1,4 +1,4 @@
-## 4a.[^9] A vízügyi őrszemélyzet feladatai
+## 4a.[^10] A vízügyi őrszemélyzet feladatai
 
 7/A. § (1) A területi vízügyi igazgatóság a működési területén a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a belügyminiszter ágazati végrehajtásáról szóló miniszteri rendelete szerinti őri munkakörbe beosztottak (a továbbiakban: vízügyi őr) útján gondoskodik a vagyonkezelésében lévő árvízvédelmi, belvízvédelmi és vízkormányzó létesítmények, folyók, vízfolyások, csatornák, tavak, tározók és az ezekhez kapcsolódó műtárgyak, létesítmények és azok tartozékai, valamint az erdők felügyeletéről, fenntartásáról, üzemeltetéséről, karbantartásáról és állagvédelméről, az egyéb vízgazdálkodási létesítmények felügyeletéről, vagyonvédelméről, továbbá az egyes vízrajzi elemek észleléséről.
 
@@ -26,4 +26,4 @@ c) közreműködik a belvizek elvezetésében, a vízvisszatartásban és a szü
 
 (4) A területi vízügyi igazgatóság vízügyi őrszemélyzetének tagjai más őrjárásba, valamint más területi vízügyi igazgatóság működési területére is átirányíthatók vízkár-elhárítási, valamint egyéb szolgálati feladatok elvégzése céljából.
 
-[^9]: A 4a. alcímet (7/A. §) a 100/2016. (V. 13.) Korm. rendelet 28. §-a iktatta be.
+[^10]: A 4a. alcímet (7/A. §) a 100/2016. (V. 13.) Korm. rendelet 28. §-a iktatta be.

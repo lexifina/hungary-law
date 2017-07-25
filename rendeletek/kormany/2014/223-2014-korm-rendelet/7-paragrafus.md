@@ -70,7 +70,7 @@ h) a vízgyűjtő-gazdálkodással kapcsolatosan jogszabály által feladatkör�
 
 a) az állami, az önkormányzati és a magántulajdonban lévő vízkárelhárítási vagy mezőgazdasági célú vízilétesítmények fenntartói, üzemeltetési, rekonstrukciós és fejlesztési összhangjának megteremtéséről,
 
-b) az Ivóvízminőség-javító Program területi végrehajtásáról, továbbá
+b)[^9] az Ivóvízminőség-javító Program és a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Program szakmai végrehajtásának felügyeletéről, továbbá
 
 c) a vízkészletekkel való gazdálkodás körében
 
@@ -114,3 +114,4 @@ g) a többoldalú nemzetközi együttműködések vízgazdálkodási feladataina
 
 [^7]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg.
 [^8]: A 7. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdése iktatta be.
+[^9]: A 7. § (4) bekezdés b) pontja a 195/2017. (VII. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
