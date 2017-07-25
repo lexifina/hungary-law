@@ -1,4 +1,4 @@
-16/F. §[^32] (1) A 16/E. § (2) bekezdésében meghatározott tervezetek és okiratok javaslatainak elfogadásáról a szétváló vízitársulat küldöttgyűlése dönt, egyúttal megbízza a társaság tisztségviselőit, hogy a jogutódok alapszabályának (alapszabály-módosításának) tervezetét a szükséghez képest dolgozzák át.
+16/F. §[^34] (1) A 16/E. § (2) bekezdésében meghatározott tervezetek és okiratok javaslatainak elfogadásáról a szétváló vízitársulat küldöttgyűlése dönt, egyúttal megbízza a társaság tisztségviselőit, hogy a jogutódok alapszabályának (alapszabály-módosításának) tervezetét a szükséghez képest dolgozzák át.
 
 (2) A szétválás elhatározásáról szóló küldöttgyűlési döntést követő tizenöt napon belül a szétváló vízitársulatnál működő munkavállalói érdekképviseleti szerveket értesíteni kell.
 
@@ -20,4 +20,4 @@ f) a szétválás módját (különválás, kiválás);
 
 g) a szétváló vízitársulatot megillető jogok és terhelő kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezéseit, különösen a vagyonmegosztás arányát.
 
-[^32]: A 16/F. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^34]: A 16/F. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.

@@ -1,4 +1,4 @@
-16/C. §[^29] (1) A vízitársulat az egyesülés elhatározásáról szóló küldöttgyűlést követő nyolc napon belül köteles erről a Cégközlönyben közleményt közzétenni.
+16/C. §[^31] (1) A vízitársulat az egyesülés elhatározásáról szóló küldöttgyűlést követő nyolc napon belül köteles erről a Cégközlönyben közleményt közzétenni.
 
 (2) A közleménynek tartalmaznia kell:
 
@@ -14,4 +14,4 @@ e) a létrejövő vízitársulat főtevékenységét; valamint
 
 f) a hitelezőknek szóló felhívást.
 
-[^29]: A 16/C. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^31]: A 16/C. §-t a 289/2016. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
