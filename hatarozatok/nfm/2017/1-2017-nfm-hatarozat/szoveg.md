@@ -1,0 +1,3 @@
+Az egyes klímapolitikai és zöldgazdaság fejlesztési tárgyú törvények módosításáról szóló 2016. évi CXXXVIII. törvény (a továbbiakban: Törvény) 59. § (7) bekezdése alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 7. pontjában meghatározott feladatkörömben eljárva a következő határozatot hozom:
+
+Megállapítom, hogy az Európai Bizottság SA.44076 (2016/PN) számú, a megújuló erőforrásokon alapuló villamosenergia-termeléshez (METÁR) nyújtott támogatásra vonatkozó jóváhagyó határozata meghozatalának időpontja 2017. július 11., ezáltal a Törvény 11. § (2) bekezdése, a 12. § (2) bekezdése, a 13. § (2) bekezdése és a 15. §-a hatálybalépésének napja 2017. július 19.
