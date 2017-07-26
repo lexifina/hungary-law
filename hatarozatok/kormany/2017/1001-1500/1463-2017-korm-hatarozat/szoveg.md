@@ -6,4 +6,6 @@ A Kormány
 
 3. hozzájárul ahhoz, hogy a Magyar Honvédség különböző NATO parancsnokságokon szolgálatot teljesítő tagjai a NATO Reagáló Erőben történő részvétel keretében – az 1. pont szerinti létszámkorlát keretein belül – műveleti területen is folytathassák a szolgálati tevékenységet akkor, ha az adott parancsnokságot vagy annak meghatározott elemeit NATO műveleti területre telepítik,
 
-4. visszavonja a Magyar Honvédség kijelölt állományának a NATO Reagáló Erőkben történő részvételéről szóló 2007/2004. (I. 22.) Korm. határozatot.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
