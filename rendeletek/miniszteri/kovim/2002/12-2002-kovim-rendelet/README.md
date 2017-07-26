@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-12-20-9
 | 2012-01-01 | 2002-12-20-93.8 | 48/2009. (IX. 30.) KHEM rendelet |
 | 2012-01-04 | 2002-12-20-93.9 | 69/2011. (XII. 5.) NFM rendelet |
 | 2017-01-03 | 2002-12-20-93.10 | 69/2011. (XII. 5.) NFM rendelet |
+| 2017-07-26 | 2002-12-20-93.11 | 21/2017. (VI. 26.) NFM rendelet |

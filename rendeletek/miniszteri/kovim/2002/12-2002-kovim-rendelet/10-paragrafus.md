@@ -12,7 +12,7 @@ bb) 12 havonta, vagy
 
 bc) minden olyan baleset, sérülés, átalakítás és felújítás után, amely érinti a vízijármű biztonsági állapotát
 
-a szemle során ellenőrzi.
+## a szemle során ellenőrzi.
 
 (2) A hajózási hatóságnak a szemle során a SOLAS 1974/1978 egyezmény mellékletének A részében foglaltak szerint kell eljárni.
 
