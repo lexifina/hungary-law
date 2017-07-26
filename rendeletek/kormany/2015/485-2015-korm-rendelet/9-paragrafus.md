@@ -2,8 +2,14 @@
 
 ## 6. A pénzügyi információs egységként folytatott tevékenység
 
-## 9. § A Központi Irányítás ellátja
+## 9. §[^11] A Kormány a Központi Irányítás szervezetén belül működő Pénzmosás és Terrorizmusfinanszírozás Elleni Irodát jelöli ki
 
-a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) szerint a pénzügyi információs egységként működő hatóság feladatait, valamint
+a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény (a továbbiakban: Pmt.) szerinti pénzügyi információs egységként működő hatóság,
 
-b) az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról, valamint ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CLXXX. törvény szerinti pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, valamint a pénzeszközök átutalására vonatkozó korlátozó intézkedésért felelős szerv részére meghatározott feladatokat.
+b) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti
+
+ba) pénzügyi és vagyoni és
+
+bb) pénzeszközök átutalására vonatkozó
+
+[^11]: A 9. § a 214/2017. (VII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

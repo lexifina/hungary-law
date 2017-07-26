@@ -1,4 +1,4 @@
-## 99. §[^84]
+## 99. §[^99]
 
 1. melléklet a 485/2015. (XII. 29.) Korm. rendelethez
 
@@ -90,4 +90,4 @@ g) a Nemzeti Adó- és Vámhivatal Nyugat-dunántúli Bűnügyi Igazgatósága, 
 
 10. A Nemzeti Adó- és Vámhivatal Gazdasági Ellátó Igazgatósága, székhelye Budapest.
 
-[^84]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

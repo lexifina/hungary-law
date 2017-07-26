@@ -6,9 +6,9 @@
 
 a) az Art. 85/A. §-a szerinti adóhatósági igazolásokkal kapcsolatos ügyintézés;
 
-b)[^20] a magánszemély részére az adóazonosító jel kiadása, a vámazonosító szám kiadása és érvénytelenítése, valamint az adóigazolvánnyal kapcsolatos ügyintézés;
+b)[^22] a magánszemély részére az adóazonosító jel kiadása, a vámazonosító szám kiadása és érvénytelenítése, valamint az adóigazolvánnyal kapcsolatos ügyintézés;
 
-c)[^21] az adószám kiadása, vámazonosító szám kiadása és érvénytelenítése közvetlenül az állami adó- és vámhatóságnál bejelentésre kötelezett személyek, illetve szervezetek részére;
+c)[^23] az adószám kiadása, vámazonosító szám kiadása és érvénytelenítése közvetlenül az állami adó- és vámhatóságnál bejelentésre kötelezett személyek, illetve szervezetek részére;
 
 d) az egészségügyi szolgáltatási járulék fizetési kötelezettség bejelentéssel kapcsolatos ügyintézés;
 
@@ -30,11 +30,15 @@ l) a legfeljebb száznyolcvan napos – biztosítási kötelezettséggel járó 
 
 m) a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet szerinti működő adóalanyként történő nyilvántartásba vétellel, működő adóalanyi státusz igazolásával kapcsolatos ügyintézés;
 
-n) a felelős játékszervezés részletes szabályairól szóló 329/2015. (XI. 10.) Korm. rendeletben meghatározott jelentős önkorlátozó nyilatkozattal, valamint a játékos-védelmi nyilvántartásból történő lekérdezéssel kapcsolatos ügyintézés;
+n)[^24]
 
 o) az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 73. § (7) bekezdése, valamint az Itv. 74. § (1) bekezdése szerinti, a 10 000 forintot meghaladó eljárási illetékkiszabás alapján történő megfizetése és az illetékköteles irat illetékkiszabásra történő bemutatása tényének igazolása.
 
 (2) Az (1) bekezdésben meghatározott ügyekben a 63. § (1) bekezdés e) és h) pontjában megjelölt adózó – az állami adó- és vámhatóság vezetője által kijelölt ügyfélszolgálatokon személyesen benyújtott – beadványa alapján bármelyik megyei igazgatóság eljárhat.
 
-[^20]: A 22. § (1) bekezdés b) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^21]: A 22. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+(3)[^25] Hivatalból indult ügyekben – a 63. § (1) bekezdés a), b) és d)–i) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik, az ügyben eljáró területi szerve megállapíthat technikai azonosító számot, adóazonosító jelet, illetve az uniós vámazonosító számtól eltérő vámazonosító számot.
+
+[^22]: A 22. § (1) bekezdés b) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 22. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: A 22. § (1) bekezdés n) pontját a 214/2017. (VII. 25.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^25]: A 22. § (3) bekezdését a 214/2017. (VII. 25.) Korm. rendelet 4. §-a iktatta be.
