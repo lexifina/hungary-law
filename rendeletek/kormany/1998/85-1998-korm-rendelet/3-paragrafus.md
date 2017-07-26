@@ -30,7 +30,7 @@ m)[^29] helyi költség: a vevő országában felmerülő, azon árukért és sz
 
 n)[^30] katonai berendezés: az Európai Unió közös katonai listáján található, illetve nemzeti érdekből idesorolt termék vagy szolgáltatás, amennyiben nem minősül a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló 2009. május 5-i 428/2009/EK tanácsi rendelet szerinti kettős felhasználású terméknek, szolgáltatásnak;
 
-o)[^31] referencia alapkamatláb: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 13. pontjában meghatározott, a szerződéskötés napján érvényes kamatláb;
+o)[^31] referencia alapkamatláb: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 13. pontjában meghatározott, az Eximbank által a kamatkiegyenlítési rendszerbe bevont hitelek és refinanszírozási hitelek kamatlábának rögzítése napján érvényes kamatláb;
 
 p)[^32] mezőgazdasági termék: az Erópai Unió Működéséről szóló Szerződés (a továbbiakban: EUMSz) I. számú mellékletében felsorolt mezőgazdasági termékek a kezdeti feldolgozási szintig;
 
@@ -48,7 +48,7 @@ r)[^34] export előfinanszírozó hitel: olyan hitelviszony, amely az exportőr 
 [^28]: A 3. § l) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^29]: A 3. § m) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^30]: A 3. § n) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^31]: A 3. § o) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^31]: A 3. § o) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 211/2017. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^32]: A 3. § p) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^33]: A 3. § q) pontját a 140/2014. (IV. 30.) Korm. rendelet 1. § (6) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^34]: A 3. § r) pontját a 75/2017. (IV. 3.) Korm. rendelet 3. §-a iktatta be.
