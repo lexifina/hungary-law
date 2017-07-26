@@ -6,7 +6,8 @@
 
 (3)[^6] A SIS II tv. 6. §-a alapján a SIRENE Iroda által elhelyezett figyelmeztető jelzéssel kapcsolatos CS.SIS üzenetekről az NS.CP a SIRENE Iroda mellett a körözési nyilvántartási rendszeren keresztül a körözést elrendelő szervet is értesíti.
 
-(4) E § rendelkezéseit a SIS II tv. 6. §-a szerinti figyelmeztető jelzések módosítására, kiegészítésére és törlésére is megfelelően alkalmazni kell.
+(4)[^7]
 
 [^5]: A 12. § (1) bekezdése a 443/2015. (XII. 28.) Korm. rendelet 12. § a) pontja szerint módosított megállapított szöveg.
 [^6]: A 12. § (3) bekezdése a 443/2015. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^7]: A 12. § (4) bekezdését a 134/2017. (VI. 9.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
