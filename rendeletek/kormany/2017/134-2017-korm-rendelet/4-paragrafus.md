@@ -6,11 +6,10 @@
 
 a)[^4]
 
-b)[^5]
+b) 12. § (4) bekezdése,
 
-c)[^6]
+c)[^5]
 
 [^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. § a) pontja a 6. § (3) bekezdése alapján 2017. december 1-jén lép hatályba.
-[^5]: A 4. § b) pontja a 6. § (2) bekezdése alapján 2017. július 26-án lép hatályba.
-[^6]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
