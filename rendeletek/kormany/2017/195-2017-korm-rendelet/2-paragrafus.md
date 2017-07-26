@@ -1,1 +1,0 @@
-## 1. § A vízgazdálkodási társulatokról szóló 160/1995. (XII. 26.) Korm. rendelet (a továbbiakban: R1.) 7. § (4) bekezdés c) pontjában az „érdekeltségi egység szerint számított legalább egyharmada” szövegrész helyébe a „10%-a” szöveg lép.
