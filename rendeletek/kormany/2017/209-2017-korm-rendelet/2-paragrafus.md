@@ -1,0 +1,1 @@
+## 1. § A Kormány az ózonréteget lebontó anyagokról szóló, Montrealban 1987. szeptember 16. napján aláírt Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) 2007-ben, a Részes Felek Montreali Konferenciáján elfogadott Kiegészítését (a továbbiakban: 2007. évi Montreali Kiegészítés) e rendelettel kihirdeti.

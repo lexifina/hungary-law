@@ -1,0 +1,1 @@
+## 3. § A Kormány e rendelettel felhatalmazást ad a Jegyzőkönyvnek a Részes Felek Kigaliban, 2016 októberében tartott konferenciáján elfogadott Módosítása (a továbbiakban: Kigali Módosítás) kötelező hatályának elismerésére.
