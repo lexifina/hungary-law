@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1221/2016. (V. 2.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1462/2017. (VII. 25.) Korm. határozathoz
 
@@ -349,3 +349,5 @@ Határidő: 2017. november 30.
 Felelős: honvédelmi miniszter
 
 Határidő: 2018. március 31.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
