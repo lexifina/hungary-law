@@ -2,9 +2,9 @@
 
 |  | Megnevezés | 2017. évi előirányzat |
 
-|  | Háziorvosi, háziorvosi ügyeleti ellátás Praxisfinanszírozás Eseti ellátás díjazása Ügyeleti szolgálat | 106 292,0 649,3 10 106,2 |
+|  | Háziorvosi, háziorvosi ügyeleti ellátás Praxisfinanszírozás Eseti ellátás díjazása Ügyeleti szolgálat | 112 125,4 649,3 10 106,2 |
 
-| 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 117 047,5 |
+| 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 122 880,9 |
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem Iskolaegészségügyi ellátás Védőnői ellátás Anya-, gyermek- és csecsemővédelem MSZSZ: gyermekgyógyászat MSZSZ: nőgyógyászat | 2 317,1 22 009,8 483,4 121,6 96,3 |
 
@@ -20,25 +20,25 @@
 
 | 11. | Működési költségelőleg | 2 000,0 |
 
-|  | Célelőirányzatok Méltányossági alapon történő térítések Alapellátási vállalkozás támogatási átalánydíj Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása Tervezett külföldi ellátások orvosi felülvizsgálata Egészségügyi dolgozók béremelésének fedezete Egészségügyi dolgozók 2017. november havi béremelésének fedezete Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése Fiatal szakorvosok támogatása | 2 611,3 55,0 1250,0 20,0 12 222,6 4 500,0 1 354,0 8 600,0 2 520,0 |
+|  | Célelőirányzatok Méltányossági alapon történő térítések Alapellátási vállalkozás támogatási átalánydíj Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása Tervezett külföldi ellátások orvosi felülvizsgálata Egészségügyi dolgozók béremelésének fedezete Egészségügyi dolgozók 2017. november havi béremelésének fedezete Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése Fiatal szakorvosok támogatása | 2 611,3 55,0 1250,0 20,0 12 222,6 4 500,0 1 444,0 8 600,0 2 520,0 |
 
-| 13. | Célelőirányzatok összesen | 33 132,9 |
+| 13. | Célelőirányzatok összesen | 33 222,9 |
 
 | 15. | Mentés | 37 040,9 |
 
-| 17. | Laboratóriumi ellátás | 25 482,0 |
+| 17. | Laboratóriumi ellátás | 25 498,3 |
 
-|  | Összevont szakellátás Járóbeteg szakellátás Fekvőbeteg szakellátás - aktív fekvőbeteg szakellátás - krónikus fekvőbeteg szakellátás - bázis finanszírozású szakellátás (BVOP) - várólista csökkentés Extrafinanszírozás Nagyértékű gyógyszerfinanszírozás Speciális finanszírozású szakellátás | 155 145,3 539 304,8 453 704,1 79 170,9 1 429,8 5 000,0 1 000,0 70 000,0 35 845,4 |
+|  | Összevont szakellátás Járóbeteg szakellátás Fekvőbeteg szakellátás - aktív fekvőbeteg szakellátás - krónikus fekvőbeteg szakellátás - bázis finanszírozású szakellátás (BVOP) - várólista csökkentés Extrafinanszírozás Nagyértékű gyógyszerfinanszírozás Speciális finanszírozású szakellátás | 155 229,3 540 015,0 454 335,3 79 249,9 1 429,8 5 000,0 1 000,0 70 000,0 42 139,1 |
 
-| 18. | Összevont szakellátás összesen | 801 295,5 |
+| 18. | Összevont szakellátás összesen | 808 383,4 |
 
-| 20. | Alapellátás és népegészségügy fejlesztése | 4 500,0 |
+| 20. | Alapellátás és népegészségügy fejlesztése | 0,0 |
 
-| 21. | Gyógyító-megelőző ellátás céltartalék | 12 957,5 |
+| 21. | Gyógyító-megelőző ellátás céltartalék | 4 429,9 |
 
 | Összesen |  | 1 121 396,1 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^601]
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^602]
 
 ## Ambuláns adatlap
 
@@ -510,4 +510,4 @@ A felírt gyógyászati ellátás vények számát kell megadni
 
 39.
 
-[^601]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 124/2015. (V. 26.) Korm. rendelet 8. § a) pontja, a 413/2015. (XII. 23.) Korm. rendelet 19. § g) pontja és 20. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 19. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^602]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 124/2015. (V. 26.) Korm. rendelet 8. § a) pontja, a 413/2015. (XII. 23.) Korm. rendelet 19. § g) pontja és 20. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 19. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
