@@ -1,31 +1,49 @@
 ## 18. A közcélú vezeték díja
 
-33. § (1) Ha a csatlakozást igénylő igényének kielégítése érdekében
+33. §[^11] (1) Ha a csatlakozást igénylő igényének kielégítése érdekében kisfeszültségű közcélú elosztó hálózat kiépítése szükséges, akkor ehhez kapcsolódóan a csatlakozást igénylőnek nem kell közcélú vezeték díjat fizetnie
 
-a) kisfeszültségű közcélú elosztó hálózat kiépítése szükséges, akkor felhasználási helyenként legfeljebb egy csatlakozási pontra rendszerhasználóként,
+a) a VET 146/A. § (9) bekezdésének megfelelően az összesen legfeljebb 32 amper áramerősségű kisfeszültségű csatlakozási igény esetén
 
-aa) szabadvezeték (beleértve a szigetelt szabadvezetéket is) esetén legfeljebb 50 méter,
+aa) szabadvezetéknél (beleértve a szigetelt szabadvezetéket is) 100 méterig,
 
-ab) földkábel esetén legfeljebb 25 méter
+ab) földkábelnél 50 méterig,
 
-hosszúságú közcélú vezetéket,
+b) az összesen 32 amper áramerősségnél nagyobb kisfeszültségű csatlakozási igény esetén
 
-b) középfeszültségű hálózat kiépítése szükséges, akkor kisfeszültségű vételezésnél új közép/kisfeszültségű transzformátorállomásonként, középfeszültségű vételezésnél csatlakozási pontonként,
+ba) szabadvezetéknél (beleértve a szigetelt szabadvezetéket is) 50 méter,
 
-ba) szabadvezeték esetén legfeljebb 250 méter,
+bb) földkábelnél 25 méterig.
 
-bb) földkábel esetén legfeljebb 125 méter
+(2) Az (1) bekezdésben meghatározott vezetékhosszakat minden kisfeszültségű vételezés céljából csatlakozást igénylő esetén felhasználási helyenként legfeljebb egy csatlakozási pontra vonatkoztatva kell számításba venni.
 
-hosszúságú közcélú vezetéket, valamint a szükséges új nagy/középfeszültségű és közép/középfeszültségű transzformátorállomást
+(3) Ha a csatlakozást igénylő igényének kielégítése érdekében középfeszültségű közcélú elosztó hálózat kiépítése szükséges, akkor ehhez kapcsolódóan a csatlakozást igénylőnek nem kell közcélú vezeték díjat fizetnie
 
-## az elosztó pótlólagos díjfizetés nélkül létesíti, valamint a már rendelkezésre álló hálózat kapacitását a szükséges mértékben megnöveli.
+a) a VET 146/A. § (9) bekezdésének megfelelően az összesen legfeljebb 32 amper áramerősségű kisfeszültségű csatlakozási igény esetén
 
-(2) A kiindulási ponttól mért teljes vezetékhosszokon, valamint a közcélú vezeték díjának megállapítása szempontjából számításba vehető, az (1) bekezdésben meghatározottakon felüli vezetékhosszokon kisfeszültségű csatlakozás esetén a leágazási pontig, középfeszültségű csatlakozás esetén a csatlakozási pontig megvalósítandó nyomvonal vízszintes vetületi hossza értendő.
+aa) középfeszültségű szabadvezetéknél (beleértve a szigetelt szabadvezetéket is) 500 méterig,
 
-(3) A magánvezeték csatlakozási pontjáig kiépítendő közcélú hálózat esetében a közcélú vezeték díjának több rendszerhasználó közötti megosztására vonatkozó megállapodást a beruházó, illetve a magánvezeték üzemeltetője is megkötheti a hálózati engedélyessel. A közcélú vezeték díjának megfizetésével, illetve visszatérítésével kapcsolatos további részletes szabályokat villamosenergia-ellátási szabályzat (elosztói szabályzat) határozza meg.
+ab) középfeszültségű földkábelnél 250 méterig,
 
-(4) Ha a csatlakozási díjfizetés alapján létesült közcélú vezetékre annak üzembe helyezésétől számított 10 éven belül újabb rendszerhasználó kíván csatlakozni, akkor az újonnan csatlakozó, leendő rendszerhasználó által fizetendő közcélú vezeték díj megegyezik az adott közcélú vezeték építése kapcsán az érintett rendszerhasználók által addig fizetett közcélú vezeték létesítési díjösszeg egy rendszerhasználóra – beleértve az új csatlakozást igénylőt is – eső értékével.
+b) az összesen 32 amper áramerősségnél nagyobb kisfeszültségű csatlakozási igény és a középfeszültségű csatlakozási igény esetén
 
-(5) A hálózati engedélyes a (4) bekezdés szerint az új csatlakozást igénylőtől beszedett közcélú vezeték díjat – eltérő megállapodás hiányában – egyenlő arányban visszatéríti az adott közcélú vezeték létesítése kapcsán, illetve a létesítést követően csatlakozási díjat fizető rendszerhasználók részére.
+ba) középfeszültségű szabadvezetéknél (beleértve a szigetelt szabadvezetéket is) 250 méterig,
 
-(6) Ha a hálózati engedélyes saját kockázatára a már ismert rendszerhasználók igényét meghaladó hosszúságú közcélú vezetéket létesít, akkor az erre a vezetékszakaszra később csatlakozó rendszerhasználóktól a közcélú vezeték díját az (1)–(2) bekezdések e vezetékszakaszra történő alkalmazásával kérheti a létesítés évétől számított 5 évig.
+bb) középfeszültségű földkábelnél 125 méterig.
+
+(4) A (3) bekezdésben meghatározott vezetékhosszakat a kisfeszültségű vételezés céljából csatlakozást igénylő esetében új közép/kisfeszültségű transzformátorállomásonként, a középfeszültségű vételezés céljából csatlakozást igénylő esetében felhasználási helyenként legfeljebb egy csatlakozási pontra vonatkoztatva kell számításba venni.
+
+(5) Közcélú vezeték díjat az (1) és (3) bekezdés szerinti vezetékhosszak feletti hosszak után kell fizetni.
+
+(6) Ha az (1) bekezdés a) pontja vagy a (3) bekezdés a) pontja szerinti csatlakozás létrejöttét követő 5 éven belül az adott felhasználási helyre vonatkozóan a csatlakozást igénylő többletigénye kapcsán a fázisonként igényelt névleges áramerősségek összege meghaladja a 32 ampert, akkor a csatlakozást igénylő köteles az (1) bekezdés a) pontja vagy a (3) bekezdés a) pontja szerinti elsődleges igényhez kapcsolódó, de az (1) bekezdés b) pontja vagy a (3) bekezdés b) pontja szerint számított közcélú vezeték díjat megfizetni.
+
+(7) A kiindulási ponttól mért teljes vezetékhosszakon, valamint a közcélú vezeték díjának megállapítása szempontjából számításba vehető, az (1) és (3) bekezdésben meghatározottakon felüli vezetékhosszokon kisfeszültségű csatlakozás esetén a leágazási pontig, középfeszültségű csatlakozás esetén a csatlakozási pontig megvalósítandó nyomvonal földfelszínre vetített hossza értendő.
+
+(8) A magánvezeték csatlakozási pontjáig kiépítendő közcélú hálózat esetében a közcélú vezeték díjának több rendszerhasználó közötti megosztására vonatkozó megállapodást a beruházó, illetve a magánvezeték üzemeltetője is megkötheti a hálózati engedélyessel. A közcélú vezeték díjának megfizetésével, illetve visszatérítésével kapcsolatos további részletes szabályokat villamosenergia-ellátási szabályzat (elosztói szabályzat) határozza meg.
+
+(9) Ha a csatlakozási díjfizetés alapján létesült közcélú vezetékre annak üzembe helyezésétől számított 10 éven belül újabb rendszerhasználó kíván csatlakozni, akkor az újonnan csatlakozó leendő rendszerhasználó által fizetendő közcélú vezeték díj megegyezik az adott közcélú vezeték építése kapcsán az érintett rendszerhasználók által addig fizetett közcélú vezeték létesítési díjösszeg egy rendszerhasználóra – beleértve az új csatlakozást igénylőt is – eső értékével.
+
+(10) A hálózati engedélyes a (9) bekezdés szerint az új csatlakozást igénylőtől beszedett közcélú vezeték díjat – eltérő megállapodás hiányában – egyenlő arányban visszatéríti az adott közcélú vezeték létesítése kapcsán, illetve a létesítést követően csatlakozási díjat fizető rendszerhasználók részére.
+
+(11) Ha a hálózati engedélyes saját kockázatára a már ismert rendszerhasználók igényét meghaladó hosszúságú közcélú vezetéket létesít, akkor az erre a vezetékszakaszra később csatlakozó rendszerhasználóktól a közcélú vezeték díját az (1) és (3) bekezdés e vezetékszakaszra történő alkalmazásával kérheti a létesítés évétől számított 5 évig.
+
+[^11]: A 33. § a 6/2017. (VII. 13.) MEKH rendelet 7. §-ával megállapított szöveg.

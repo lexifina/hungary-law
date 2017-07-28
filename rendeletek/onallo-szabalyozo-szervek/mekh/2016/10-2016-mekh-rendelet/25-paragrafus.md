@@ -6,7 +6,7 @@
 
 ## A CSATLAKOZÁSI DÍJRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
-25. § (1) E rendelet csatlakozási díjra vonatkozó rendelkezéseit – a 31. § (1) bekezdés c) pontjában, a 32. § (3) bekezdésében és a 33. § (1) bekezdés a) pontjában foglalt kivétellel – csatlakozási pontonként önállóan kell alkalmazni.
+25. § (1)[^7] E rendelet csatlakozási díjra vonatkozó rendelkezéseit – e rendeletben foglalt kivételekkel – csatlakozási pontonként önállóan kell alkalmazni.
 
 (2) A hálózati engedélyesek egymás hálózatára történő csatlakozásánál csatlakozási díjat nem fizetnek.
 
@@ -27,3 +27,5 @@ b) a csatlakozást igénylő és a hálózati engedélyes közötti megállapod�
 (7) A befizetett csatlakozási díjak összegét a hálózati engedélyes külön, a csatlakozások érdekében megvalósított beruházásokhoz hozzárendelve tartja nyilván, és azt kizárólag hálózatfejlesztésre vagy a 26. § (2) bekezdés és a 33. § (5) és (6) bekezdés szerinti visszafizetésekre használhatja fel.
 
 (8) A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári év utolsó hónapjában honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat az elosztói szabályzat tartalmazza.
+
+[^7]: A 25. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (4) bekezdése szerint módosított szöveg.
