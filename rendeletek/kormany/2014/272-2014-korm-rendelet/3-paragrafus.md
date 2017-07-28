@@ -44,7 +44,7 @@
 
 16.[^21] kiemelt projekt: a szakpolitikai felelős által objektív szakmai szempontrendszer alapján kijelölt, az arra jogosult által jóváhagyott, közfeladat megvalósítására irányuló projekt,
 
-17.[^22] kifizetési igénylés: a kifizetési kérelem, mérföldkövekhez kapcsolódó igénylés esetén a szakmai beszámoló, valamint a pénzügyi és szakmai előrehaladást igazoló, a támogatási szerződésben meghatározott dokumentumok összessége,
+17.[^22] kifizetési igénylés: a kifizetési kérelem, záró kifizetési igénylés esetén az utolsó mérföldkőhöz kapcsolódó szakmai beszámoló, valamint a pénzügyi és szakmai előrehaladást igazoló, a támogatási szerződésben meghatározott dokumentumok összessége,
 
 18.[^23] kifizető ügynökség: az 1306/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: KAP rendelet) 7. cikke szerinti szervezet,
 
@@ -206,7 +206,7 @@ f)[^62] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása 
 [^19]: A 3. § (1) bekezdés 14. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 3. pontja szerint módosított szöveg.
 [^20]: A 3. § (1) bekezdés 15. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^21]: A 3. § (1) bekezdés 16. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 5. pontja szerint módosított szöveg.
-[^22]: A 3. § (1) bekezdés 17. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^22]: A 3. § (1) bekezdés 17. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 163/2017. (VI. 28.) Korm. rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^23]: A 3. § (1) bekezdés 18. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^24]: A 3. § (1) bekezdés 18a. pontját a 98/2016. (V. 13.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^25]: A 3. § (1) bekezdés 19a. pontját a 98/2016. (V. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
