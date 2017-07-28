@@ -12,7 +12,7 @@
 
 | 1. | Elosztó | Részarány |
 
-| 2. | EDF DÉMÁSZ Hálózati Elosztó Kft. | 12,9% |
+| 2. | DÉMÁSZ Hálózati Elosztó Kft. | 12,9% |
 
 | 3. | ELMŰ Hálózati Kft. | 0,0% |
 

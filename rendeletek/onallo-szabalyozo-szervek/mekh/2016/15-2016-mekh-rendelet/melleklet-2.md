@@ -62,6 +62,8 @@
 
 ## b) nem vezérelt ellátás (csatlakozás) esetén 0,36 Ft/kWh.
 
-## 2.4. A közvilágítási elosztó hálózatra csatlakozó felhasználók esetében, a 2.1. és 2.2. pont szerinti díjakon túlmenően alkalmazandó közvilágítási elosztási díj 9,55 Ft/kWh.
+## 2.4. A közvilágítási elosztó hálózatra csatlakozó felhasználók esetében, a 2.1–2.3. pont szerinti díjakon túlmenően alkalmazandó közvilágítási elosztási díj 9,55 Ft/kWh.
 
-2. melléklet a 15/2016. (XII. 20.) MEKH rendelethez
+2. melléklet a 15/2016. (XII. 20.) MEKH rendelethez[^2]
+
+[^2]: A 2. melléklet a 6/2017. (VII. 13.) MEKH rendelet 10. § (2) bekezdése szerint módosított szöveg.
