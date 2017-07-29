@@ -1,3 +1,3 @@
-## 2–4. §[^1]
+## 2–4. §[^2]
 
-[^1]: A 2–4. § a 11. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
+[^2]: A 2–4. § a 11. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
