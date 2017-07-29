@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2017-04-04 | 2011-326-20-22.40 | 60/2017. (III. 20.) Korm. rendelet |
 | 2017-05-01 | 2011-326-20-22.41 | 468/2016. (XII. 23.) Korm. rendelet |
 | 2017-07-01 | 2011-326-20-22.42 | 60/2017. (III. 20.) Korm. rendelet |
+| 2017-07-29 | 2011-326-20-22.43 | 468/2016. (XII. 23.) Korm. rendelet |
