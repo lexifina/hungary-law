@@ -1,3 +1,0 @@
-## 13. § A 272/2014. (XI. 5.) Korm. rendelet 122. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az alátámasztó dokumentumokat a kedvezményezettnek egyszer, a kapcsolódó költség elszámolásra való benyújtásakor kell a kifizetési igényléshez benyújtani. Ha többször is felmerül a kapcsolódó költség, úgy elegendő az alátámasztó dokumentumokat egyszer, a felmerülő költséggel való elszámolást tartalmazó első kifizetési igénylésben benyújtani, a későbbiekben pedig csak akkor, ha az adott dokumentumban változás történt, vagy új dokumentumot állítottak ki.”
