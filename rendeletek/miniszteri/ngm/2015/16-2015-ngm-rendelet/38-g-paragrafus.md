@@ -1,5 +1,3 @@
-## számolható el.
-
 ## 21/C. [^89] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
 38/G. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás)
@@ -8,7 +6,7 @@ a) beruházási támogatásként sportlétesítmény és multifunkcionális szab
 
 b) működési támogatásként sportlétesítmény működéséhez
 
-## nyújtható.
+nyújtható.
 
 (2) A támogatott sportlétesítmény, multifunkcionális szabadidős létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetésmentes módon, a vonatkozó jogszabályok figyelembevételével kell eljárni.
 

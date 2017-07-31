@@ -1,5 +1,3 @@
-## hatálya alá tartozó támogatást tartalmaz.
-
 1. melléklet a 16/2015. (V. 29.) NGM rendelethez[^102]
 
-[^102]: Az 1. melléklet a 30/2015. (XI. 19.) NGM rendelet 9. §-a és 10. § 10–12. pontja, a 43/2015. (XII. 30.) NGM rendelet 11. §-a, a 14/2016. (V. 20.) NGM rendelet 3. §-a, 4. § (1) bekezdés f)–g) pontja és 4. § (2) bekezdése, a 42/2016. (XI. 17.) NGM rendelet 14. §-a és 15. § (1) bekezdés e)–g) pontja és (2) bekezdés c) pontja, a 65/2016. (XII. 29.) NGM rendelet 3. §-a, a 67/2016. (XII. 30.) NGM rendelet 5. §-a, 7. § d)–n) pontja és 8. §-a, a 3/2017. (III. 28.) NGM rendelet 6–8. §-a, a 7/2017. (V. 5.) NGM rendelet 1–2. §-a szerint módosított szöveg.
+[^102]: Az 1. melléklet a 30/2015. (XI. 19.) NGM rendelet 9. §-a és 10. § 10–12. pontja, a 43/2015. (XII. 30.) NGM rendelet 11. §-a, a 14/2016. (V. 20.) NGM rendelet 3. §-a, 4. § (1) bekezdés f)–g) pontja és 4. § (2) bekezdése, a 42/2016. (XI. 17.) NGM rendelet 14. §-a és 15. § (1) bekezdés e)–g) pontja és (2) bekezdés c) pontja, a 65/2016. (XII. 29.) NGM rendelet 3. §-a, a 67/2016. (XII. 30.) NGM rendelet 5. §-a, 7. § d)–n) pontja és 8. §-a, a 3/2017. (III. 28.) NGM rendelet 6–8. §-a, a 7/2017. (V. 5.) NGM rendelet 1–2. §-a, a 20/2017. (VII. 31.) NGM rendelet 22. §-a szerint módosított szöveg.

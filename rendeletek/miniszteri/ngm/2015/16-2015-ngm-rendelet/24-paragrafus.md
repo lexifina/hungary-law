@@ -10,7 +10,7 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (4) A támogatás keretében a beruházás költsége számolható el.
 

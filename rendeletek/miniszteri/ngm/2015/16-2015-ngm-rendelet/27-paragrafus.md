@@ -10,7 +10,7 @@ ab) az Atr. 25. § (1) bekezdés d) pontja szerinti településen kis- és köz�
 
 b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdés d) pontja szerinti településen nagyvállalkozás
 
-## valósít meg.
+valósít meg.
 
 (2) A termelési folyamat alapvető megváltozását eredményező beruházás esetén a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
 

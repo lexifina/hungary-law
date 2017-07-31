@@ -38,7 +38,7 @@ a)[^58] az 5–15., 17. és 19., valamint a 22. alcímek alapján nyújtott tám
 
 b)[^59]
 
-## a projekt megkezdése előtt írásban benyújtotta.
+a projekt megkezdése előtt írásban benyújtotta.
 
 (6) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
 

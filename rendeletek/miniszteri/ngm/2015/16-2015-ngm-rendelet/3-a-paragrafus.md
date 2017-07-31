@@ -1,5 +1,3 @@
-## nyújtható.
-
 3/A. §[^18] (1) Az 1. mellékletben foglalt táblázat 38. sora alapján nyújtható állami támogatásnak minősülő jogcímek:
 
 a) az innováció keretfeltételeinek javítása, üzleti és társadalmi innovációs készségek fejlesztése,

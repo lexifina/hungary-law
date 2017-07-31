@@ -18,6 +18,8 @@ h)[^75]
 
 i)[^76] halászati csekély összegű támogatások esetén 2021. június 30-ig
 
+lehet támogatási döntést hozni.
+
 [^73]: A 7. § f) pontját a 30/2015. (XI. 19.) NGM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
 [^74]: A 7. § g) pontját a 30/2015. (XI. 19.) NGM rendelet 5. §-a iktatta be.
 [^75]: A 7. § h) pontját a 43/2015. (XII. 30.) NGM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.

@@ -1,5 +1,3 @@
-## 35. §
-
 ## 19. A kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás
 
 36. § (1) A kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.

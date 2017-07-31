@@ -48,13 +48,15 @@
 
 23. 22. sor c) és f) pontja alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás,
 
-24.[^14] 12e. sora, 28c. sora, 33a. sora és 42. sora alapján az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás,
+24.[^14] 12d. sora, 12e. sora, 28c. sora és 42. sora alapján 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás,
 
-25.[^15] 12e. sora és 42. sora alapján 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű támogatás,
+25.[^15] 12d sora, 12e. sora és 42. sora alapján 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű támogatás
 
 26.[^16] 33a. sora alapján a 651/2014/EU bizottsági rendelet 21. cikke szerinti kockázatfinanszírozási támogatás,
 
 27.[^17] 33a. sora alapján a 651/2014/EU bizottsági rendelet 39. cikke szerinti épület- energiahatékonysági projektekre irányuló beruházási támogatás
+
+nyújtható.
 
 [^1]: A 2/A. §-t a 67/2016. (XII. 30.) NGM rendelet 1. §-a iktatta be.
 [^2]: A 3. § a 42/2016. (XI. 17.) NGM rendelet 1. §-ával megállapított szöveg.
@@ -69,7 +71,7 @@
 [^11]: A 3. § 19. pontja a 67/2016. (XII. 30.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
 [^12]: A 3. § 20. pontja a 67/2016. (XII. 30.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § 21. pontja a 3/2017. (III. 28.) NGM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^14]: A 3. § 24. pontja a 3/2017. (III. 28.) NGM rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^15]: A 3. § 25. pontja a 65/2016. (XII. 29.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § 24. pontja a 20/2017. (VII. 31.) NGM rendelet 20. §-ával megállapított szöveg.
+[^15]: A 3. § 25. pontja a 20/2017. (VII. 31.) NGM rendelet 20. §-ával megállapított szöveg.
 [^16]: A 3. § 26. pontját a 3/2017. (III. 28.) NGM rendelet 1. § (6) bekezdése iktatta be.
 [^17]: A 3. § 27. pontját a 3/2017. (III. 28.) NGM rendelet 1. § (6) bekezdése iktatta be.

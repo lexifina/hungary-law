@@ -6,7 +6,7 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (3) Működési támogatás esetén a támogatás nem haladhatja meg a keletkező működési veszteséget.
 

@@ -1,5 +1,3 @@
-## 40/D. §
-
 ## 27. [^94] A hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás
 
 40/E. § (1) A hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
