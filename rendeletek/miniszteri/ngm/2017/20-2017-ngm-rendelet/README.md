@@ -1,0 +1,9 @@
+# 20/2017. (VII. 31.) NGM rendelet
+
+az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-20-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-07-31 | 2017-20-20-2X.1 | 20/2017. (VII. 31.) NGM rendelet |

@@ -1,0 +1,11 @@
+## 6. Az 1408/2013/EU bizottsági rendelet szerinti csekély összegű támogatás
+
+15. § (1) Az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozás részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(2) A támogatás odaítélése során a pénzügyi időszak alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) A mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások az 1407/2013/EU bizottsági rendelet 3. cikkének (2) bekezdésében rögzített alkalmazandó felső határig halmozhatók az utóbbi tevékenység(ek)re tekintettel nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(4) A mezőgazdasági termékek elsődleges termelésével foglalkozó ágazatban, valamint a halászati és akvakultúra ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelő ágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások a 717/2014/EU bizottsági rendeletben rögzített felső határig halmozhatók az utóbbi tevékenységekre tekintettel a 717/2014/EU bizottsági rendelettel összhangban nyújtott csekély összegű támogatásokkal, feltéve, ha biztosítva van, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
+
+(5) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
