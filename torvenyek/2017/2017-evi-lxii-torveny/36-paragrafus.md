@@ -1,0 +1,7 @@
+36. § (1) Az Szhitv. 20/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az Integrációs Szervezet és a Központi Bank által az e törvényben meghatározott rendelkezések alapján kibocsátott szabályzatokat a szövetkezeti hitelintézetek, illetve – a Központi Bankra rendelkezéseket tartalmazók esetén – a Központi Bank az azokban megjelölt hatálybalépés napjától kötelesek alkalmazni.”
+
+(2) Az Szhitv. 20/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A 11/F. § (8) bekezdése vonatkozásában a kilépő tag köteles a kilépési szándéknyilatkozat benyújtásakor – könyvvizsgálói jelentéssel ellátott közbenső mérleg alapján – fennálló saját tőke értékének megfelelő összeget a tagsági jogviszony megszűnését követő 730 napig – ha pedig ezen időszak alatt igényt jelentettek be, annak teljesítéséről való döntésig – a Központi Banknál elkülönített számlán tartani. A kilépő tag a saját tőke értékének az elkülönített számlán történő elhelyezéséről köteles írásban értesíteni az Integrációs Szervezetet. Az Alapba a szövetkezeti hitelintézet által a kilépési szándék bejelentéséig befizetett összeg levonható a jelen bekezdés szerint a Központi Banknál elkülönített bankszámlán elhelyezendő összegből. Az elkülönített bankszámlán elhelyezendő összeg felszabadítására a Központi Bank által kiadott szabályzatban meghatározott személyek számára, a szabályzat szerinti feltételekkel és időpontokban kerül sor.”

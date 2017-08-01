@@ -1,0 +1,3 @@
+42. § A Hpt. 234. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) Az OBA tagjai által fizetendő alapdíjat úgy kell megállapítani, hogy az figyelembe vegye a hitelintézetnél a tárgyévet megelőző december 31-én fennálló – az OBA által a 212. § és a 213. § szerint biztosított – betétek kártalanítási kötelezettség alá tartozó részének összegét, valamint a hitelintézet önkéntes betétbiztosítási alapban vagy kötelező intézményvédelmi szervezetben fennálló tagságára tekintettel fizetett tagdíj összegét. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a kiegészítő biztosítással érintett betétrész összegét és a fióktelep székhely országának betétbiztosítási rendszere által nyújtott biztosítást.”

@@ -1,0 +1,3 @@
+30. § Az Szhitv. 17/P. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az Alapba a (2) bekezdés szerint befizetett összeg kizárólag a szövetkezeti hitelintézeti integráció tagjaival szemben az egyetemlegesség alapján érvényesített követelések rendezésére, továbbá a 17/D. § (2) bekezdés d) pontja szerinti állományátruházás sikeres lebonyolításhoz szükséges pénzeszköz biztosítására használható fel. Visszakövetelésére sem a szövetkezeti hitelintézet sem annak felszámolója vagy hitelezője nem jogosult, sem a szövetkezeti hitelintézet fennállása alatt, sem működési engedélyének visszavonása vagy egyébként jogutód nélküli megszűnése esetén.”
