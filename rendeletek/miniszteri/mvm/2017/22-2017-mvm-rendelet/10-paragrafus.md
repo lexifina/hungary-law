@@ -1,0 +1,3 @@
+10. § (1) A vizsgázó köteles a vizsgáról szóló értesítésben megjelölt időpontban a vizsga helyszínén megjelenni. Ha a vizsgázó az értesítésben megjelölt időponthoz képest 15 perc eltelte után jelenik meg a vizsga helyszínén, és a késést előzetesen nem jelzi, a vizsgát nem teheti le, a vizsga sikertelennek minősül.
+
+(2) A vizsga megkezdése előtt a vizsgázó érvényes személyazonosság igazolására alkalmas okmány felmutatásával a vizsga helyszínén igazolja személyazonosságát. Ha a vizsgázó személyazonosságát nem tudja igazolni, nem vehet részt a vizsgán, és a vizsgáját halasztottnak kell tekinteni. Ha a vizsgázó a halasztási lehetőségeit már kimerítette, vagy arra a 13. § (2) bekezdése alapján nincs lehetősége, a vizsgát sikertelennek kell tekinteni.
