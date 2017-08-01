@@ -1,23 +1,20 @@
 ## 3. A gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosítása
 
-3. § (1)[^7]
+3. § (1)[^6]
 
-(2)[^8]
+(2) Az R3. 1. melléklete a 14. melléklet szerint módosul.
 
-(3)[^9]
+(3)[^7]
 
-(4)[^10]
+(4) Az R3. 2. melléklete a 16. melléklet szerint módosul.
 
-(5)[^11]
+(5)[^8]
 
-(6)[^12]
+(6) Az R3. 4. melléklete a 18. melléklet szerint módosul.
 
-(7)[^13]
+(7)[^9]
 
-[^7]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 3. § (2) bekezdése a 6. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
-[^9]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 3. § (4) bekezdése a 6. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
-[^11]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 3. § (6) bekezdése a 6. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
-[^13]: A 3. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 3. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
