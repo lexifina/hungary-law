@@ -24,7 +24,7 @@ h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára
 
 i) a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, ha a megállapodás tartalmazza az adatok bizalmas kezelésére, felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
 
-j) a pénzügyi intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
+j) a pénzügyi intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző és az általa igénybe vett közreműködő részére,
 
 k) az összevont alapú felügyeleti megfelelés vonatkozásában történő, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
 
