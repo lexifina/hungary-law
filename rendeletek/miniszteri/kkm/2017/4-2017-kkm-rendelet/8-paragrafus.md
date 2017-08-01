@@ -1,0 +1,1 @@
+## 7. § A költségtérítés-előleg felhasználását az azt felhasználó kihelyezett a felhasználást igazoló számla vagy egyéb bizonylatnak a külképviselet gazdálkodásáért felelős munkatárs részére történő bemutatásával igazolja.
