@@ -552,6 +552,8 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 10. | igazgató-helyettes (NNI, GI) | 200 | 150 |
 
+| 10a. | főosztályvezető 2 | főosztályvezető (KR NNI KEF) | 400 |  |
+
 | 11. | beosztott vezető | főosztályvezető- helyettes 1 | szolgálatvezető (ÜVSZ) | 200 |  |
 
 | 12. | főosztályvezető- helyettes 2 | főosztályvezető-helyettes | 200 | 150 |
@@ -563,6 +565,8 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 | 15. | osztályvezető (KEŐ SZO, TŰSZ) | 500 |  |
 
 | 16. | szolgálatvezető-helyettes (KR LRSZ) | 650 |  |
+
+| 17. | osztályvezető 1 | osztályvezető (KR NNI KEF) | 400 |  |
 
 2. Tiszti szolgálati beosztások
 
@@ -582,17 +586,21 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 7. | ügyeletvezető | 200 |  |
 
+| 7a. | osztályvezető-helyettes (KR NNI KEF) | 400 |  |
+
+| 7b. | alosztályvezető (KR NNI KEF) | 400 |  |
+
 | 8. | D | helikoptervezető | 650 |  |
 
 | 9. | alosztályvezető-helyettes | 200 600****** | 100 |
 
 | 10. | csoportvezető | 200 225***, 600****** | 100 |
 
-| 11. | kiemelt főelőadó | 150** 200 225***, 600****** | 100 |
+| 11. | kiemelt főelőadó | 150** 200 225*** 400***** 600****** | 100 |
 
 | 12. | kiemelt főellenőr******* | 200 | 100 |
 
-| 13. | kiemelt főnyomozó | 200 225*** |  |
+| 13. | kiemelt főnyomozó | 200 225*** 400***** |  |
 
 | 13a. | kiemelt fötechnikus | 200 | 100 |
 
@@ -614,6 +622,8 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 22. | főmérnök | 200 | 100 |
 
+| 22a. | főnyomozó | 200 225*** 400***** |  |
+
 | 23. | B | mérnök | 200 | 100 |
 
 | 24. | előadó I. | 200 | 100 |
@@ -623,6 +633,8 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 | 25. | biztonsági tiszt | 200 |  |
 
 | 26. | szólamvezető |  | 100 |
+
+| 26a. | nyomozótiszt | 200 225*** 400***** |  |
 
 | 27. | A | előadó II. | 200 | 100 |
 
@@ -704,11 +716,13 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 100*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 100%.
 
-150**: A Személy és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály alapfeladatokat ellátó állomány esetében a hivatásos pótlék mértéke 150%.
+150**: A Személy és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály alapfeladatokat ellátó állomány esetében – a IV. Őrségi Osztály állománya kivételével – a hivatásos pótlék mértéke 150%.
 
 225***: A Rendészeti Igazgatóság bevetési főosztályainak támogató alegységeinél szolgálatot teljesítő állomány, a Személy és Objektumvédelmi Igazgatóság Megelőző- és Tanúvédelmi Osztály Tanúvédelmi Szolgálat állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állomány esetében a hivatásos pótlék mértéke 225%.
 
 300****: A Különleges Szolgálatok Igazgatósága Légirendészeti Szolgálat fedélzeti szolgálattevő (helikopter hajózó) beosztások esetében a hivatásos pótlék mértéke 300%.
+
+400*****: A Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály esetében a hivatásos pótlék mértéke 400%.
 
 600******: A Köztársasági Elnöki Őrség személyvédelmi feladatait ellátó állománya és a Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 600%.
 
@@ -1092,6 +1106,8 @@ KR KIG: Készenléti Rendőrség Költségvetési Igazgatóság
 
 KR NNI: Készenléti Rendőrség Nemzeti Nyomozó Iroda
 
+KR NNI KEF: Készenléti Rendőrség Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály
+
 KR TŰSZ: Készenléti Rendőrség Tűzszerész Szolgálat
 
 KR ÜVSZ: Készenléti Rendőrség Ügyeleti Védelmi Szolgálat
@@ -1106,4 +1122,4 @@ MRFK: Megyei Rendőr-főkapitányság
 
 RRI: Repülőtéri Rendőr Igazgatóság
 
-[^8]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a szerint módosított szöveg.
