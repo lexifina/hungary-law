@@ -2,8 +2,6 @@
 
 ## 1. § E rendelet hatálya
 
-a)[^1]
+a) Magyarország diplomáciai és konzuli képviseleteire, a nemzetközi szervezetek mellett működő állandó képviseleteire, Magyarország kereskedelmi képviseleteire, továbbá
 
 b) Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK)
-
-[^1]: Az 1. § a) pontja a 10. § (2) bekezdése alapján 2017. augusztus 1-jén lép hatályba.
