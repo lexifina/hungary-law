@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1037-30
 | 2016-11-09 | 2016-1037-30-22.5 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2017-01-04 | 2016-1037-30-22.6 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2017-03-22 | 2016-1037-30-22.7 | 1341/2016. (VII. 5.) Korm. határozat |
+| 2017-08-01 | 2016-1037-30-22.8 | 1341/2016. (VII. 5.) Korm. határozat |

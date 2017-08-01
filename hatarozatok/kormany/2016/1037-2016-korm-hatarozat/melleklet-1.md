@@ -30,19 +30,19 @@
 
 | 3. | EFOP-1.1.2-16 | Nő az esély – képzés és foglalkoztatás | 4,05 | kiemelt | Meghirdetve 2016. áprilisban |
 
-| 4. | EFOP-1.1.3-17 | Nő az esély – foglalkoztatás | 3,15 | egyszerűsített | 2017. március |
+| 4. | EFOP-1.1.3-17 | Nő az esély – foglalkoztatás | 3,15 | egyszerűsített | Meghirdetve 2017. márciusban |
 
 | 5. | EFOP 1.1.4-16 | Elsőként lakhatás | 1,40 | standard | Meghirdetve 2016. szeptemberben |
 
-| 5a. | EFOP-1.1.5-17 | A fogyatékkal élők mindennapjait segítő infokommunikációs alapú távszolgáltatás kialakítása | 4,00 (ebből indikatív önerő: 1,20) | standard | 2017. március |
+| 5a. | EFOP-1.1.5-17 | A fogyatékkal élők mindennapjait segítő infokommunikációs alapú távszolgáltatás kialakítása | 4,00 (ebből indikatív önerő: 1,20) | standard | Meghirdetve 2017. áprilisban |
 
-| 5b. | EFOP-1.1.6-17 | Megváltozott munkaképességű személyek csoportos és egyéni foglalkoztatásának elősegítése | 3,00 | egyszerűsített | 2017. március |
+| 5b. | EFOP-1.1.6-17 | Megváltozott munkaképességű személyek csoportos és egyéni foglalkoztatásának elősegítése | 3,00 | egyszerűsített | Meghirdetve 2017. májusban |
 
-| 5c. | EFOP-1.1.7-17 | Hátrányos helyzetű személyek munkaerő-piaci integrációjának segítése helyi eszközökkel | 6,00 | standard | 2017. március |
+| 5c. | EFOP-1.1.7-17 | Hátrányos helyzetű személyek munkaerő-piaci integrációjának segítése helyi eszközökkel | 6,00 | standard | Meghirdetve 2017. márciusban |
 
-| 6. | EFOP-1.2.1-16 | Védőháló a családokért | 6,20 | standard | Meghirdetve 2016. februárban |
+| 6. | EFOP-1.2.1-15 | Védőháló a családokért | 6,20 | standard | Meghirdetve 2016. februárban |
 
-| 7. | EFOP-1.2.2-16 | Ifjúsági programok támogatása | 1,00 | standard | Meghirdetve 2016. februárban |
+| 7. | EFOP-1.2.2-15 | Ifjúsági programok támogatása | 1,00 | standard | Meghirdetve 2016. februárban |
 
 | 8. | EFOP-1.2.3- VEKOP-15 | Komplex ifjúsági fejlesztések – új nemzedék újratöltve | 5,00 [ebből Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP): 1,50] | kiemelt | Meghirdetve 2015. októberben |
 
@@ -58,31 +58,31 @@
 
 | 14. | EFOP-1.2.9-17 | Nők a családban és a munkahelyen (standard) | 9,00 | standard | Meghirdetve 2017. februárban |
 
-| 15. | EFOP-1.2.10-16 | Mentorprogram koraszülöttek részére | 2,00 | standard | Meghirdetve 2016. szeptemberben |
+| 15. | EFOP-1.2.10-16 | Mentorprogram koraszülöttek részére | 2,40 | standard | Meghirdetve 2016. szeptemberben |
 
 | 16. | EFOP-1.2.11-16 | Esély Otthon | 10,00 | standard | Meghirdetve 2017. januárban |
 
-| 16a. | EFOP-1.2.12-17 | Esélyteremtő programok megvalósítása | 17,39 | standard | 2017. március |
+| 16a. | EFOP-1.2.12-17 | Esélyteremtő programok megvalósítása | 17,39 | standard | Meghirdetve 2017. márciusban |
 
 | 16b. |  |  |  |  |  |
 
-| 17. | EFOP-1.3.1-16 | Cselekvő közösségek – aktív közösségi szerepvállalás | 3,00 | kiemelt | Meghirdetve 2016. januárban |
+| 17. | EFOP-1.3.1-15 | Cselekvő közösségek – aktív közösségi szerepvállalás | 3,00 | kiemelt | Meghirdetve 2016. januárban |
 
 | 18. | EFOP-1.3.2-16 | Felzárkózási mentorhálózat fejlesztése | 2,00 | kiemelt | Meghirdetve 2016. októberben |
 
 | 19. | EFOP-1.3.3-16 | Fogvatartottak reintegrációja | 3,50 | kiemelt | Meghirdetve 2016. augusztusban |
 
-| 20. | EFOP-1.3.4-16 | Közös értékeink – sokszínű társadalom | 1,00 | standard | Meghirdetve 2017. februárban |
+| 20. | EFOP-1.3.4-16 | Közös értékeink – sokszínű társadalom | 2,00 | standard | Meghirdetve 2017. februárban |
 
 | 21. | EFOP-1.3.5-16 | Társadalmi szerepvállalás erősítése a közösségek fejlesztésével | 14,00 | standard | Meghirdetve 2016. augusztusban |
 
 | 22. | EFOP-1.3.6-17 | Ifjúsági kisközösségi együttműködések támogatása | 2,10 | standard | Meghirdetve 2017. januárban |
 
-| 23. | EFOP-1.3.7-17 | A társadalmi kohézió erősítése az egyházak és a civil szervezetek közösségfejlesztő tevékenységeinek bővítésével | 8,00 | standard | Meghirdetve 2017. februárban |
+| 23. | EFOP-1.3.7-17 | A társadalmi kohézió erősítése az egyházak és a civil szervezetek közösségfejlesztő tevékenységeinek bővítésével | 12,00 | standard | Meghirdetve 2017. februárban |
 
-| 23a. | EFOP-1.3.8-17 | Önkéntesség személyre szabva | 5,03 | standard | 2017. március |
+| 23a. | EFOP-1.3.8-17 | Önkéntesség személyre szabva | 5,03 | standard | Meghirdetve 2017. márciusban |
 
-| 23b. | EFOP-1.3.9-17 | Iskolaközpontú helyi együttműködések támogatása | 4,00 | standard | 2017. március |
+| 23b. | EFOP-1.3.9-17 | Iskolaközpontú helyi együttműködések támogatása | 4,00 | standard | Meghirdetve 2017. márciusban |
 
 | 24. | EFOP-1.4.1-16 | Integrált gyermekprogramok szakmai támogatása | 3,60 | kiemelt | Meghirdetve 2016. januárban |
 
@@ -90,9 +90,9 @@
 
 | 26. | EFOP-1.4.3-16 | Jó kis hely - Biztos Kezdet Gyerekházak és kistelepülési komplex gyermekprogramok támogatása | 5,50 | standard | Meghirdetve 2016. szeptemberben |
 
-| 26a. | EFOP-1.4.4-17 | Bari Shej – Nagylány – Fátă máré Roma lányok továbbtanulási esélyeinek növelése | 2,00 | standard | 2017. március |
+| 26a. | EFOP-1.4.4-17 | Bari Shej – Nagylány – Fátă máré Roma lányok továbbtanulási esélyeinek növelése | 2,00 | standard | Meghirdetve 2017. márciusban |
 
-| 27. | EFOP-1.5.1-17 | Végtelen lehetőség – Kísérleti program a leginkább elmaradott járások területi felzárkózása érdekében | 2,00 | standard | 2017. március |
+| 27. | EFOP-1.5.1-17 | Végtelen lehetőség – Kísérleti program a leginkább elmaradott járások területi felzárkózása érdekében | 2,00 | standard | Meghirdetve 2017. áprilisban |
 
 | 28. | EFOP-1.5.2-16 | Humán szolgáltatások fejlesztése térségi szemléletben | 15,00 | standard | Meghirdetve 2016. decemberben |
 
@@ -104,63 +104,65 @@
 
 | 31. | EFOP-1.6.2-16 | Szegregált élethelyzetek felszámolása komplex programokkal (ESZA) | 22,00 | standard | Meghirdetve 2016. szeptemberben |
 
-| 31a. | EFOP-1.6.3-17 | Megyei szintű felzárkózás-politikai együttműködések támogatása a helyi esélyegyenlőségi programokhoz kapcsolódóan | 1,20 | egyszerűsített | 2017. március |
+| 31a. | EFOP-1.6.3-17 | Megyei szintű felzárkózás-politikai együttműködések támogatása a helyi esélyegyenlőségi programokhoz kapcsolódóan | 1,20 | egyszerűsített | Meghirdetve 2017. áprilisban |
 
-| 31b. | EFOP-1.7.1-17 | Az egymást erősítő, elmaradottságot konzerváló területi folyamatok megtörése | 7,00 | standard | 2017. március |
+| 31b. |  |  |  |  |  |
 
 | 31c. | EFOP-1.8.0-VEKOP-17 | Egészségügyi ellátórendszer szakmai módszertani fejlesztése | 11,43 (ebből VEKOP: 3,43) | kiemelt | Meghirdetve 2017. februárban |
 
 | 32. | EFOP-1.8.1- VEKOP-15 | Komplex népegészségügyi szűrések | 6,57 (ebből VEKOP: 1,97) | kiemelt | Meghirdetve 2016. januárban |
 
-| 33. | EFOP-1.8.2-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – alapellátás fejlesztése | 6,13 | standard | 2017. március |
+| 33. | EFOP-1.8.2-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – alapellátás fejlesztése | 6,13 | standard | Meghirdetve 2017. márciusban |
 
-| 34. | EFOP-1.8.5-17 | Menő menzák az iskolákban – Egészséges étkezést és életstílust népszerűsítő programok | 6,80 | egyszerűsített | 2017. március |
+| 34. | EFOP-1.8.5-17 | Menő menzák az iskolákban – Egészséges étkezést és életstílust népszerűsítő programok | 6,80 | egyszerűsített | Meghirdetve 2017. márciusban |
 
 | 35. |  |  |  |  |  |
 
-| 36. | EFOP-1.8.6-17 | A felnőtt lakosság prevenciós célú egészségfejlesztése a szabadidősport révén | 3,00 | standard | 2017. március |
+| 36. | EFOP-1.8.6-17 | A felnőtt lakosság prevenciós célú egészségfejlesztése a szabadidősport révén | 3,00 | standard | Meghirdetve 2017. márciusban |
 
 | 37. | EFOP-1.8.7-16 | Célzott prevenciós programok a szenvedélybetegségek megelőzése érdekében | 3,00 | standard | Meghirdetve 2017. februárban |
 
 | 38. |  |  |  |  |  |
 
-| 38a. | EFOP-1.8.9-17 | Legyen más a szenvedélyed! 2. | 1,90 | standard | 2017. március |
+| 38a. | EFOP-1.8.9-17 | Legyen más a szenvedélyed! 2. | 1,90 | standard | Meghirdetve 2017. márciusban |
 
 | 38b. | EFOP-1.8.10- VEKOP-17 | Komplex egészségvédelem és szemléletfejlesztés a táplálkozás és gyógyszerfogyasztás területén | 2,00 (ebből VEKOP: 0,60) | kiemelt | Meghirdetve 2017. februárban |
 
-| 38c. | EFOP-1.8.11-17 | Az egészségtudatos fogyasztóvá válás helyi szintű elősegítése | 5,00 | standard | 2017. március |
+| 38c. |  |  |  |  |  |
 
-| 38d. | EFOP-1.8.19-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – népegészségügy helyi kapacitás fejlesztése | 4,56 | standard | 2017. március |
+| 38d. | EFOP-1.8.19-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – népegészségügy helyi kapacitás fejlesztése | 4,56 | standard | Meghirdetve 2017. márciusban |
 
-| 38e. | EFOP-1.8.20-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – népegészségügy helyi kapacitás fejlesztése a mentális egészség területén | 2,44 | standard | 2017. március |
+| 38e. | EFOP-1.8.20-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – népegészségügy helyi kapacitás fejlesztése a mentális egészség területén | 2,44 | standard | Meghirdetve 2017. márciusban |
 
 | 39. | EFOP-1.9.1- VEKOP-15 | Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása | 2,50 (ebből VEKOP: 0,45) | kiemelt | Meghirdetve 2016. februárban |
 
 | 40. | EFOP-1.9.2- VEKOP-16 | A fogyatékos személyek számára nyújtott szakmai és közszolgáltatások hozzáférhetőségének kialakítása, fejlesztése | 3,30 (ebből VEKOP: 0,99) | kiemelt | Meghirdetve 2016. októberben |
 
-| 41. | EFOP-1.9.3- VEKOP-17 | A foglalkoztatási rehabilitáció szakmai folyamatainak fejlesztése | 4,20 (ebből VEKOP: 1,26) | kiemelt | 2017. március |
+| 41. | EFOP-1.9.3- VEKOP-17 | A foglalkoztatási rehabilitáció szakmai folyamatainak fejlesztése | 4,20 (ebből VEKOP: 1,26) | kiemelt | Meghirdetve 2017. márciusban |
 
 | 42. | EFOP-1.9.4- VEKOP-16 | A szociális ágazat módszertani és információs rendszereinek megújítása | 5,80 (ebből VEKOP: 1,74) | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 43. | EFOP-1.9.5- VEKOP-16 | A koragyermekkori intervenció ágazatközi fejlesztése | 5,70 (ebből VEKOP: 1,71) | kiemelt | Meghirdetve 2016. szeptemberben |
+| 43. | EFOP-1.9.5- VEKOP-16 | A kora gyermekkori intervenció ágazatközi fejlesztése | 5,70 (ebből VEKOP: 1,71) | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 44. | EFOP-1.9.6-16 | Elektronikus egészségügyi ágazati fejlesztések | 20,00 (ebből indikatív önerő: 6,0) | kiemelt | Meghirdetve 2016. decemberben |
+| 44. | EFOP-1.9.6-16 | Elektronikus egészségügyi ágazati fejlesztések | 22,86 (ebből indikatív önerő: 6,86) | kiemelt | Meghirdetve 2016. decemberben |
 
 | 45. | EFOP 1.9.7-16 | Kísérő szolgáltatások nyújtása a rászoruló személyek számára | 1,00 | kiemelt | Meghirdetve 2016. októberben |
 
-| 45a. | EFOP-1.9.8-17 | Egyházi és civil szervezetek szociális közfeladat ellátásának támogatása | 5,00 | standard | 2017. március |
+| 45a. | EFOP-1.9.8-17 | Egyházi és civil szervezetek szociális közfeladat ellátásának támogatása | 5,00 | standard | Meghirdetve 2017. májusban |
 
-| 45b. | EFOP-1.9.9-17 | Még jobb kezekben – bölcsődei szakemberek szakmai fejlesztése | 1,50 | egyszerűsített | 2017. március |
+| 45b. | EFOP-1.9.9-17 | Még jobb kezekben – bölcsődei szakemberek szakmai fejlesztése | 1,50 | egyszerűsített | Meghirdetve 2017. áprilisban |
 
 | 46. | EFOP-1.10.1- VEKOP-16 | Ápoló tanulók részére pályaválasztást támogató ösztöndíjas program | 4,40 (ebből VEKOP: 1,32) | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 46a. | EFOP-1.10.2-17 | Egészségügyi humánerőforrás-fejlesztés | 5,97 | standard | 2017. március |
+| 46a. | EFOP-1.10.2-17 | Egészségügyi humánerőforrás-fejlesztés | 5,97 | standard | Meghirdetve 2017. márciusban |
 
-| 46b. | EFOP-1.11.1-17 | Kísérleti programok a szociális gazdaság erősítése és a leghátrányosabb helyzetű csoportok elhelyezkedése érdekében non-profit szervezetek és vállalkozások együttműködése révén | 5,00 | standard | 2017. március |
+| 46b. | EFOP-1.10.3-17 | Képzési programok az egészségügyi ágazat szolgáltatás-fejlesztése érdekében | 5,00 | egyszerűsített | 2017. augusztus |
 
-| 47. | EFOP-1.12.1-17 | Tematikus együttműködés erősítése a Kárpát-medence EU-tagállamaival | 4,80 | standard | 2017. március |
+| 46c. | EFOP-1.11.1-17 | Kísérleti programok a szociális gazdaság erősítése és a leghátrányosabb helyzetű csoportok elhelyezkedése érdekében nonprofit szervezetek és vállalkozások együttműködése révén | 5,00 | standard | Meghirdetve 2017. márciusban |
 
-| 48. | EFOP-1.12.2-17 | Tematikus együttműködés erősítése a Kárpát-medence nem EU-tagállamaival | 1,20 | standard | 2017. március |
+| 47. | EFOP-1.12.1-17 | Tematikus együttműködés erősítése az ifjúságügy, egészségügy, közösségfejlesztés és társadalmi felzárkózás terén a Kárpát- medence szomszédos országaival | 4,00 | standard | 2017. augusztus |
+
+| 48. |  |  |  |  |  |
 
 2. Az infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében című 2. prioritás
 
@@ -176,15 +178,15 @@
 
 | 3b. |  |  |  |  |  |
 
-| 4. | EFOP-2.2.1- VEKOP-16 | Gyermek sürgősségi, baleseti ellátás fejlesztése | 10,00 (ebből VEKOP: 1,35) | kiemelt | Meghirdetve 2016. áprilisban |
+| 4. | EFOP-2.2.1- VEKOP-16 | Gyermek sürgősségi, baleseti ellátás fejlesztése | 14,00 (ebből VEKOP: 2,10) | kiemelt | Meghirdetve 2016. áprilisban |
 
 | 5. | EFOP-2.2.2-17 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás | 21,88 | standard | Meghirdetve 2017. januárban |
 
-| 6. | EFOP-2.2.3-17 | Átmeneti és rehabilitációs intézmények korszerűsítése | 3,80 | standard | 2017. március |
+| 6. | EFOP-2.2.3-17 | Átmeneti és rehabilitációs intézmények korszerűsítése | 3,80 | standard | Meghirdetve 2017. márciusban |
 
 | 7. | EFOP-2.2.4- VEKOP-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | 1,00 (ebből VEKOP: 0,10) | kiemelt | Meghirdetve 2016. októberben |
 
-| 7a. | EFOP-2.2.5-17 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás 2023-ig | 55,42 | standard | 2017. március |
+| 7a. | EFOP-2.2.5-17 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás 2023-ig | 55,42 | standard | Meghirdetve 2017. márciusban |
 
 | 8. | EFOP-2.2.0-16 | Egységes ápolási eszközpark kialakítása | 8,00 | kiemelt | Meghirdetve 2016. szeptemberben |
 
@@ -192,33 +194,35 @@
 
 | 10. | EFOP-2.2.0-16 | Gyermek és ifjúságpszichiátria, addiktológiai és mentálhigiénés ellátórendszer infrastrukturális feltételeinek fejlesztése | 6,00 | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 11. | EFOP-2.2.0-16 | Egészségügyi szakellátók szállóinak fejlesztése | 12,01 (ebből indikatív önerő: 2,01) | kiemelt | Meghirdetve 2016. szeptemberben |
+| 11. | EFOP-2.2.0-16 | Egészségügyi szakellátók szállóinak fejlesztése | 11,15 (ebből indikatív önerő: 1,15) | kiemelt | Meghirdetve 2016. szeptemberben |
 
 | 12. |  |  |  |  |  |
 
 | 13. | EFOP-2.2.0-16 | Diagnosztikai és orvosi laboratóriumi hálózat infrastrukturális feltételeinek javítása | 9,81 | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 14. | EFOP-2.2.11-17 | Hiányzó egészségügyi és szociális humán szolgáltatások fejlesztése megyei szinten, illetve a kiemelt fejlesztési térségekben | 2,00 | standard | 2017. június |
+| 14. | EFOP-2.2.11-17 | Hiányzó egészségügyi és szociális humán szolgáltatások fejlesztése megyei szinten, illetve a kiemelt fejlesztési térségekben | 1,00 | standard | 2017. augusztus |
 
 | 15. | EFOP-2.2.0-16 | Pszichiátriai és addiktológiai gondozóhálózat fejlesztése | 4,00 | kiemelt | Meghirdetve 2016. szeptemberben |
 
 | 16. | EFOP-2.2.0-16 | Aktív fekvőbeteg-ellátási forma kiváltása az egynapos sebészeti ellátás rendszerének fejlesztésével | 8,00 | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 16a. | EFOP 2.2.14-17 | Nevelőszülői hálózatok infrastrukturális és szakmai fejlesztése | 1,20 | standard | 2017. március |
+| 16a. | EFOP 2.2.14-17 | Nevelőszülői hálózatok infrastrukturális és szakmai fejlesztése | 1,20 | standard | Meghirdetve 2017. márciusban |
 
 | 16b. | EFOP-2.2.15-16 | A karitatív szervezetek infrastrukturális fejlesztései a hátrányos helyzetűek társadalmi (re)integrációja érdekében | 4,50 | standard | Meghirdetve 2016. decemberben |
 
 | 16c. |  |  |  |  |  |
 
-| 16d. | EFOP-2.2.18-17 | Betegbiztonság növelését célzó komplex infrastrukturális fejlesztések az egészségügyi ellátórendszerben | 8,00 | standard | 2017. március |
+| 16d. | EFOP-2.2.18-17 | Betegbiztonság növelését célzó komplex infrastrukturális fejlesztések az egészségügyi ellátórendszerben | 8,00 | standard | Meghirdetve 2017. márciusban |
 
-| 16e. | EFOP-2.2.19-17 | Járóbeteg szakellátó szolgáltatások fejlesztése. | 5,00 | standard | 2017. március |
+| 16e. | EFOP-2.2.19-17 | Járóbeteg szakellátó szolgáltatások fejlesztése. | 5,00 | standard | Meghirdetve 2017. márciusban |
 
-| 16f. | EFOP-2.2.0-16 | Pszichiátriai ellátórendszer strukturált fejlesztése – szakellátások minőségének és hozzáférésének javítása | 2,30 | kiemelt | Meghirdetve 2016. szeptemberben |
+| 16f. | EFOP-2.2.20-17 | Az egészségügyi ellátórendszer orvostechnikai infrastruktúra készültségi szintjének javítása | 1,00 | egyszerűsített | 2017. augusztus |
 
-| 16g. | EFOP-2.3.1-17 | Infrastrukturális beruházások a leginkább elmaradott járások területi felzárkóztatása érdekében | 1,00 | standard | 2017. március |
+| 16g. | EFOP-2.2.0-16 | Pszichiátriai ellátórendszer strukturált fejlesztése – szakellátások minőségének és hozzáférésének javítása | 2,30 | kiemelt | Meghirdetve 2016. szeptemberben |
 
 | 17. | EFOP-2.4.1-16 | Szegregált élethelyzetek felszámolása komplex programokkal (ERFA) | 22,85 | standard | Meghirdetve 2016. szeptemberben |
+
+| 18. | EFOP-2.4.2-17 | Lakhatási körülmények javítása | 1,00 | egyszerűsített | 2017. augusztus |
 
 3. A gyarapodó tudástőkéről szóló 3. prioritás
 
@@ -240,21 +244,21 @@
 
 | 8. | EFOP-3.1.7-16 | Esélyteremtés a köznevelésben | 4,29 (ebből indikatív önerő: 1,29) | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 8a. | EFOP-3.1.8-17 | Együtt, testvérként – iskolaközi szemléletformáló program | 3,00 | standard | 2017. március |
+| 8a. | EFOP-3.1.8-17 | Együtt, testvérként – iskolaközi szemléletformáló program | 3,00 | standard | Meghirdetve 2017. márciusban |
 
-| 8b. | EFOP-3.1.9-17 | Iskolapad újratöltve – Második esély programok támogatása | 1,50 | standard | 2017. március |
+| 8b. | EFOP-3.1.9-17 | Iskolapad újratöltve – Második esély programok támogatása | 1,50 | standard | Meghirdetve 2017. márciusban |
 
-| 8c. | EFOP-3.1.10-17 | Lépj egy fokkal feljebb! –Továbbtanulást erősítő kezdeményezések támogatása | 3,50 | standard | 2017. március |
+| 8c. | EFOP-3.1.10-17 | Lépj egy fokkal feljebb! –Továbbtanulást erősítő kezdeményezések támogatása | 3,50 | standard | Meghirdetve 2017. márciusban |
 
 | 9. | EFOP-3.2.1-15 | Tehetségek Magyarországa | 6,50 | kiemelt | Meghirdetve 2015. decemberben |
 
 | 10. | EFOP-3.2.2- VEKOP-15 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | 2,00 (ebből VEKOP: 0,60) | kiemelt | Meghirdetve 2016. januárban |
 
-| 11. | EFOP-3.2.3-17 | Digitális környezet a köznevelésben | 6,36 | standard | 2017. március |
+| 11. | EFOP-3.2.3-17 | Digitális környezet a köznevelésben | 6,36 | standard | Meghirdetve 2017. márciusban |
 
 | 12. | EFOP-3.2.4-16 | Digitális kompetencia fejlesztése | 45,35 | kiemelt | Meghirdetve 2016. szeptemberben |
 
-| 13. | EFOP-3.2.5-17 | Pályaorientáció, kiemelten az MTMI készségek és kompetenciák fejlesztése a köznevelés rendszerében | 8,00 | standard | 2017. március |
+| 13. | EFOP-3.2.5-17 | Pályaorientáció, kiemelten az MTMI készségek és kompetenciák fejlesztése a köznevelés rendszerében | 8,00 | standard | Meghirdetve 2017. márciusban |
 
 | 14. | EFOP-3.2.6-16 | A tanulók képességkibontakoztatásának elősegítése a köznevelési intézményekben | 3,00 | kiemelt | Meghirdetve 2016. októberben |
 
@@ -266,11 +270,11 @@
 
 | 17a. | EFOP-3.2.10-16 | Tehetséggondozás sport által | 2,00 | kiemelt | Meghirdetve 2016. augusztusban |
 
-| 17b. | EFOP-3.2.13-17 | Az alap- és középfokú iskolák pályaorientációs tevékenységét, kiemelten az MTMI készségeket és kompetenciákat támogató pályaorientációs szakmai módszertan átfogó megalapozása és fejlesztése | 1,00 | standard | 2017. március |
+| 17b. | EFOP-3.2.13-17 | Az alap- és középfokú iskolák pályaorientációs tevékenységét, kiemelten az MTMI készségeket és kompetenciákat támogató pályaorientációs szakmai módszertan átfogó megalapozása és fejlesztése | 1,00 | standard | Meghirdetve 2017. márciusban |
 
-| 17c. | EFOP-3.2.14-17 | Nyelvtanulással a boldogulásért | 3,30 | standard | 2017. március |
+| 17c. | EFOP-3.2.14-17 | Nyelvtanulással a boldogulásért | 3,30 | standard | 2017. augusztus |
 
-| 17d. | EFOP-3.2.15- VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 10,56 (ebből VEKOP: 3,17) | kiemelt | 2017. március |
+| 17d. | EFOP-3.2.15- VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 10,56 (ebből VEKOP: 3,17) | kiemelt | Meghirdetve 2017. áprilisban |
 
 | 18. | EFOP-3.3.1-15 | Tanoda programok támogatása | 5,00 | standard | Meghirdetve 2015. szeptemberben |
 
@@ -282,11 +286,11 @@
 
 | 21. | EFOP-3.3.4-17 | A népmese anyanyelvi kompetenciafejlesztő szerepének erősítése az informális és nem formális tanulásban | 1,19 | standard | Meghirdetve 2017. februárban |
 
-| 21a. | EFOP-3.3.5-17 | Korszerű pedagógiai módszerek alkalmazását segítő Iskolai Közösségi Program kísérleti megvalósítása | 10,83 | standard | 2017. március |
+| 21a. | EFOP-3.3.5-17 | Korszerű pedagógiai módszerek alkalmazását segítő Iskolai Közösségi Program kísérleti megvalósítása | 10,83 | standard | Meghirdetve 2017. márciusban |
 
-| 21b. | EFOP-3.3.6-17 | Természettudományos élménypedagógiai programkínálat és természettudományos élményközpontok fejlesztése | 4,50 | standard | 2017. március |
+| 21b. | EFOP-3.3.6-17 | Természettudományos élménypedagógiai programkínálat és természettudományos élményközpontok fejlesztése | 4,50 | standard | Meghirdetve 2017. márciusban |
 
-| 21c. | EFOP-3.3.7-17 | Informális és nem formális tanulási lehetőségek kialakítása a köznevelési intézményekben | 3,00 | standard | 2017. március |
+| 21c. | EFOP-3.3.7-17 | Informális és nem formális tanulási lehetőségek kialakítása a köznevelési intézményekben | 3,00 | standard | Meghirdetve 2017. márciusban |
 
 | 22. | EFOP-3.4.1-15 | Roma szakkollégiumok támogatása | 1,20 | standard | Meghirdetve 2015. októberben |
 
@@ -296,17 +300,17 @@
 
 | 25. | EFOP-3.4.4-16 | A felsőoktatásba való bekerülést elősegítő készségfejlesztő és kommunikációs programok megvalósítása, valamint az MTMI szakok népszerűsítése a felsőoktatásban | 8,00 | standard | Meghirdetve 2016. novemberben |
 
-| 26. | EFOP-3.4.5- VEKOP-17 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 1,94 (ebből VEKOP: 0,48) | kiemelt | 2017. március |
+| 26. | EFOP-3.4.5- VEKOP-17 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 1,94 (ebből VEKOP: 0,48) | kiemelt | Meghirdetve 2017. márciusban |
 
-| 26a. | EFOP-3.4.6-VEKOP-17 | Intézményi irányítás fejlesztése a felsőoktatásban | 3,99 (ebből VEKOP: 1,00) | standard | 2017. március |
+| 26a. | EFOP-3.4.6-VEKOP-17 | Intézményi irányítás fejlesztése a felsőoktatásban | 3,99 (ebből VEKOP: 1,00) | standard | Meghirdetve 2017. májusban |
 
-| 27. | EFOP-3.5.1-16 | Duális és kooperatív felsőoktatási képzések, felsőoktatási szakképzési és szakirányú továbbképzések fejlesztése | 5,10 | standard | Meghirdetve 2016. novemberben |
+| 27. | EFOP-3.5.1-16 | Duális és kooperatív felsőoktatási képzések, felsőoktatási szakképzési és szakirányú továbbképzések fejlesztése | 5,72 | standard | Meghirdetve 2016. novemberben |
 
-| 27a. | EFOP-3.5.2-17 | Duális és gyakorlatorientált felsőoktatási képzések fejlesztése és oktatási innováció a szociális munka és a segítő szakmák terén valamint a mérnökpedagógia és a szakmai tanári szakok esetében | 1,35 | standard | 2017. március |
+| 27a. | EFOP-3.5.2-17 | Duális és gyakorlatorientált felsőoktatási képzések fejlesztése és oktatási innováció a szociális munka és a segítő szakmák terén valamint a mérnökpedagógia és a szakmai tanári szakok esetében | 1,35 | standard | Meghirdetve 2017. márciusban |
 
 | 28. | EFOP-3.6.1-16 | Intelligens szakosodást szolgáló intézményi fejlesztések | 22,20 | standard | Meghirdetve 2016. májusban |
 
-| 29. | EFOP-3.6.2-16 | Tematikus kutatási hálózati együttműködések | 19,54 | standard | Meghirdetve 2016. decemberben |
+| 29. | EFOP-3.6.2-16 | Tematikus kutatási hálózati együttműködések | 20,21 | standard | Meghirdetve 2016. decemberben |
 
 | 30. | EFOP-3.6.3- VEKOP-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 10,88 (ebből VEKOP: 2,72) | standard | Meghirdetve 2016. decemberben |
 
@@ -324,11 +328,11 @@
 
 | 36. | EFOP-3.9.2-16 | Humán kapacitások fejlesztése térségi szemléletben – kedvezményezett térségek | 10,00 | standard | Meghirdetve 2016. decemberben |
 
-| 37. | EFOP-3.10.1-17 | Tematikus együttműködés erősítése a köznevelés és a felsőoktatás terén a Kárpát-medence EU- tagállamaival | 5,30 | standard | 2017. március |
+| 37. | EFOP-3.10.1-17 | Tematikus együttműködés erősítése a köznevelés és a felsőoktatás terén a Kárpát-medence szomszédos országaival | 5,00 | standard | 2017. augusztus |
 
-| 38. | EFOP-3.10.2-17 | Tematikus együttműködés erősítése a köznevelés és a felsőoktatás terén a Kárpát-medence nem EU-tagállamaival | 1,70 | standard | 2017. március |
+| 38. |  |  |  |  |  |
 
-| 39. | EFOP-3.11.1-17 | „Szülő-Suli” – a tanulók iskolai előmenetelének javítása és a korai lemorzsolódás visszaszorítása az iskola-család együttműködésére alapozott egyéni fejlesztésen keresztül | 4,90 | standard | 2017. március |
+| 39. | EFOP-3.11.1-17 | „Szülő-Suli” – a tanulók iskolai előmenetelének javítása és a korai lemorzsolódás visszaszorítása az iskola-család együttműködésére alapozott egyéni fejlesztésen keresztül | 4,90 | standard | Meghirdetve 2017. márciusban |
 
 4. Az infrastrukturális beruházások a gyarapodó tudástőke érdekében című 4. prioritás
 
@@ -338,9 +342,9 @@
 
 | 2. | EFOP-4.1.1-15 | Egyes egyházi oktatási infrastrukturális fejlesztések | 14,42 | standard | Meghirdetve 2015. decemberben |
 
-| 3. | EFOP-4.1.2-16 | „Iskola 2020” Köznevelési intézmények infrastrukturális fejlesztése a hátránykompenzáció elősegítése és a minőségi oktatás megteremtése érdekében | 60,55 | standard | 2017. március |
+| 3. | EFOP-4.1.2-16 | „Iskola 2020” Köznevelési intézmények infrastrukturális fejlesztése a hátránykompenzáció elősegítése és a minőségi oktatás megteremtése érdekében | 60,55 | standard | Meghirdetve 2017. márciusban |
 
-| 4. | EFOP-4.1.3-17 | Állami fenntartású köznevelési intézmények tanulást segítő tereinek infrastrukturális fejlesztése | 29,62 | standard | 2017. március |
+| 4. | EFOP-4.1.3-17 | Állami fenntartású köznevelési intézmények tanulást segítő tereinek infrastrukturális fejlesztése | 29,62 | standard | Meghirdetve 2017. márciusban |
 
 | 5. | EFOP-4.1.5-16 | Köznevelési intézmények infrastrukturális fejlesztése | 16,24 | standard | Meghirdetve 2017. januárban |
 
@@ -362,17 +366,17 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | EFOP-5.1.1-17 | Pénzügyi eszköz | 1,37 | standard | 2017. június |
+| 2. | EFOP-5.1.1-17 | Pénzügyi eszköz | 1,37 | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | 2017. augusztus |
 
-| 3. | EFOP-5.2.1-17 | Társadalmi innovációk – Új módszerek kipróbálása (Pilot) | 1,00 | standard | 2017. március |
+| 3. | EFOP-5.2.1-17 | Társadalmi innovációk – Új módszerek kipróbálása (Pilot) | 1,00 | standard | 2017. augusztus |
 
-| 4. | EFOP-5.2.2-17 | Transznacionális együttműködések | 5,39 | standard | 2017. március |
+| 4. | EFOP-5.2.2-17 | Transznacionális együttműködések | 5,39 | standard | Meghirdetve 2017. májusban |
 
-| 5. | EFOP-5.2.3-17 | Társadalmi innováció – Óvodai Esélypontok | 1,00 | Standard | 2017. március |
+| 5. | EFOP-5.2.3-17 | Társadalmi innováció – Óvodai Esélypontok | 1,00 | Standard | 2017. augusztus |
 
-| 6. | EFOP-5.2.4-17 | Társadalmi innovációk – Adaptációk, új módszerek kiterjesztése | 2,39 | standard | 2017. március |
+| 6. | EFOP-5.2.4-17 | Társadalmi innovációk – Adaptációk, új módszerek kiterjesztése | 2,39 | standard | 2017. augusztus |
 
 [^1]: Az 1. pont e) pontját az 1341/2016. (VII. 5.) Korm. határozat 1. pontja iktatta be, szövege az 1157/2017. (III. 21.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
 [^2]: Az 1. pont f) alpontját az 1341/2016. (VII. 5.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1006/2017. (I. 3.) Korm. határozat 4. pontja.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1341/2016. (VII. 5.) Korm. határozat 2. pontjával megállapított, az 1471/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1608/2016. (XI. 8.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1006/2017. (I. 3.) Korm. határozat 1. pont a) alpontja és 2. pontja szerint módosított, a Magyar Közlöny 2017. évi 3. számában megjelent helyesbítésnek megfelelő szöveg. Az 1. melléklet az 1157/2017. (III. 21.) Korm. határozat 2. pont a) alpontja, 4. pont 4.2–4.4. alpontja szerint módosított szöveg. [Az 1471/2016. (VIII. 31.) Korm. határozat 2. pont 2.2.2. alpontjával elrendelt módosítás, amely szerint a 2. pontban foglalt táblázat B:4 mezőben az „EFOP-2.2.1-16” szövegrész helyébe az „EFOP-2.2.1-15” szöveg lép, nem vezethető át.]
+[^4]: Az 1. melléklet az 1341/2016. (VII. 5.) Korm. határozat 2. pontjával megállapított, az 1471/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1608/2016. (XI. 8.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1006/2017. (I. 3.) Korm. határozat 1. pont a) alpontja és 2. pontja szerint módosított, a Magyar Közlöny 2017. évi 3. számában megjelent helyesbítésnek megfelelő szöveg. Az 1. melléklet az 1157/2017. (III. 21.) Korm. határozat 2. pont a) alpontja, 4. pont 4.2–4.4. alpontja, az 1490/2017. (VII. 31.) Korm. határozat 1. pont a) alpontja és 3. pontja szerint módosított szöveg. [Az 1471/2016. (VIII. 31.) Korm. határozat 2. pont 2.2.2. alpontjával elrendelt módosítás, amely szerint a 2. pontban foglalt táblázat B:4 mezőben az „EFOP-2.2.1-16” szövegrész helyébe az „EFOP-2.2.1-15” szöveg lép, nem vezethető át.]
