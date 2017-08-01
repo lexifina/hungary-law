@@ -30,7 +30,7 @@ b) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott köz
 
 c) a közszolgálati tisztviselők ideiglenes (három hónapot meg nem haladó) külföldi kiküldetésére,
 
-d) a tartós külszolgálatot teljesítő kormánytisztviselők, köztisztviselők, ügykezelők tartós külszolgálatra történő kihelyezésének és a tartós külszolgálat megszűnésének feltételeire, rendjére, valamint a tartós külszolgálatot teljesítő személyeket megillető juttatásokra és a munkavégzés sajátos feltételeire
+d)
 
 vonatkozó részletes szabályokat;
 
@@ -130,9 +130,9 @@ rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványára vonatkozó szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az Állandó Képviseleten teljesített tartós külszolgálat kivételével – rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+(4)
 
-(4a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az Állandó Képviseleten teljesített tartós külszolgálat tekintetében rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+(4a)
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 

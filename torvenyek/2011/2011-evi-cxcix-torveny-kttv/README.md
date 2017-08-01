@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2017-06-17 | 2017. évi LXXII. törvény | 2011-199-00-00.50 |
 | 2017-07-01 | 2017. évi LIV. törvény | 2011-199-00-00.51 |
 | 2017-07-05 | 2017. évi XCIV. törvény | 2011-199-00-00.52 |
+| 2017-08-01 | 2016. évi LXXIII. törvény | 2011-199-00-00.53 |

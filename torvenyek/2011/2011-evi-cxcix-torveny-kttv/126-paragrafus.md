@@ -10,4 +10,4 @@
 
 (5a) A hivatali szervezet vezetője visszavonhatja a közigazgatási tanácsadói, főtanácsadói címet, ha a kormánytisztviselő két egymást követő minősítés alkalmával a korábbinál alacsonyabb teljesítményszintet ér el.
 
-(6) A közigazgatási főtanácsadói, közigazgatási tanácsadói cím tartós külszolgálatra való kihelyezés esetén a munkáltató döntése alapján a kormánytisztviselő a besorolása szerinti illetményre jogosult. A tartós külszolgálatra való kihelyezés megszűnését követően a kormánytisztviselő – amennyiben ez számára kedvezőbb – a címe alapján fizetett illetményre jogosult.
+(6)
