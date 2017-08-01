@@ -4,7 +4,7 @@
 
 a) a Felügyelet megállapítja, hogy az intézmény fizetésképtelen vagy várhatóan fizetésképtelenné válik,
 
-b) a szanálási feladatkörében eljáró MNB megítélése szerint a körülményekre tekintettel nem valószínűsíthető, hogy a szanálási intézkedéseken kívül bármilyen más intézkedés – ideértve a Felügyelet, az intézmény, az önkéntes intézményvédelmi alap vagy más piaci szereplő intézkedéseit, a szanálási feladatkörében eljáró MNB által végrehajtható tőkeelemek leírására vagy átalakítására vonatkozó intézkedési lehetőséget is – megakadályozná az intézmény fizetésképtelenné válását,
+b) a szanálási feladatkörében eljáró MNB megítélése szerint a körülményekre tekintettel nem valószínűsíthető, hogy a szanálási intézkedéseken kívül bármilyen más intézkedés – ideértve a Felügyelet, az intézmény, az önkéntes intézményvédelmi alap, a kötelező intézményvédelmi szervezet, vagy más piaci szereplő intézkedéseit, a szanálási feladatkörében eljáró MNB által végrehajtható tőkeelemek leírására vagy átalakítására vonatkozó intézkedési lehetőséget is – megakadályozná az intézmény fizetésképtelenné válását,
 
 c) a szanálási feladatkörében eljáró MNB megítélése szerint a szanálást közérdek indokolja.
 
