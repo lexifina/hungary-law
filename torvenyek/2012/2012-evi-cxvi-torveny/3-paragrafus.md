@@ -14,7 +14,7 @@ b) az ügyfélszámlán vagy a befektetési szolgáltatással kapcsolatban egyé
 
 1. a befektetési szolgáltatást a pénzforgalmi szolgáltató – az adózás rendjéről szóló törvény szerint meghatározott – kapcsolt vállalkozásának minősülő befektetési vállalkozás nyújtja, vagy
 
-2. a pénzforgalmi szolgáltató és a befektetési szolgáltatást nyújtó fél ugyanazon, a Hpt. szerinti önkéntes intézményvédelmi alap tagja,
+2. a pénzforgalmi szolgáltató és a befektetési szolgáltatást nyújtó fél ugyanazon, a Hpt. szerinti önkéntes intézményvédelmi alap, vagy a Hpt. szerinti kötelező intézményvédelmi szervezet tagja,
 
 feltéve mindkét esetben, hogy a fizető fél, valamint a kedvezményezett személye megegyezik,
 
