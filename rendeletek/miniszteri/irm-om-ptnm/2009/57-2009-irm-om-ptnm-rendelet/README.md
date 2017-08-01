@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-1
 | 2016-11-24 | 2009-57-20-1U.17 | 47/2016. (XI. 23.) BM rendelet |
 | 2017-01-01 | 2009-57-20-1U.18 | 55/2016. (XII. 22.) BM rendelet |
 | 2017-07-01 | 2009-57-20-1U.19 | 15/2017. (VI. 22.) BM rendelet |
+| 2017-08-01 | 2009-57-20-1U.20 | 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet |
