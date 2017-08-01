@@ -25,3 +25,22 @@ kapcsolatban.
 (8) A kormányhivatal a végrehajtás során a rendőrség közreműködését igénybe veszi. A kormányhivatal a rendőrséghez intézett megkereséshez csatolja a (4) bekezdés a) pontja szerinti eljárásban hozott határozatát is.
 
 (9) A kormányhivatal a reklám, illetve a plakát eltávolításával összefüggésében felmerült költségeket a médiahirdetésifelület-értékesítőre és a reklámozóra áthárítja.
+
+(10)[^2] Az ismételt vagy többrendbeli jogsértés esetén a kormányhivatal jogellenesen elhelyezett reklámonként, illetve plakátonként 150 000 forint közigazgatási bírságot szab ki a reklámozóval és a médiahirdetésifelület-értékesítővel szemben.
+
+(11)[^3] A kormányhivatal a bírságot kiszabó határozatában a (4) bekezdés a) pontja alapján indított eljárásban hozott döntés alapul vételével megállapítja a jogsértés ismételtségét vagy többrendbeliségét.
+
+(12)[^4] Ismételt jogsértésnek minősül, ha a kormányhivatal a jogsértés észlelését vagy arról történt tudomásszerzését követően újabb jogsértést észlel, vagy újabb jogsértésről szerez tudomást, függetlenül a plakát elhelyezésétől.
+
+(13)[^5] Mentesül a bírság megfizetése alól a reklámozó, illetve a médiahirdetésifelület-értékesítő, ha az eset összes körülményének mérlegelése alapján megállapítható, hogy a reklám, valamint a plakát elhelyezése nem a reklámozó vagy a médiahirdetésifelület-értékesítő közrehatására vezethető vissza.
+
+(14)[^6] Ismételt vagy többrendbeli jogsértés esetén a kormányhivatalnak a bírság kiszabása tekintetében mérlegelési lehetősége nincs.
+
+(15)[^7] A reklámozó, illetve a médiahirdetésifelület-értékesítő a kiszabott bírságot, illetve a jogsértően kihelyezett reklám, illetve plakát eltávolításával összefüggésben felmerült költségeket az erről szóló döntés kézhezvételétől számított 8 napon belül köteles a kormányhivatal által megjelölt számlaszámra befizetni.
+
+[^2]: A 8/B. § (10) bekezdését a 191/2017. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 8/B. § (11) bekezdését a 191/2017. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 8/B. § (12) bekezdését a 191/2017. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 8/B. § (13) bekezdését a 191/2017. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 8/B. § (14) bekezdését a 191/2017. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 8/B. § (15) bekezdését a 191/2017. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
