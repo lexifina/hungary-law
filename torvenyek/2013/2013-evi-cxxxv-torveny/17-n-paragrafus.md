@@ -1,6 +1,6 @@
 17/N. § (1) Az Alap irányító szerve az igazgatótanács.
 
-(2) Az Alap igazgatótanácsának tagjai az Integrációs Szervezet által jelölt három személy és a Takarékbank Zrt. által jelölt két személy. Az igazgatótanács elnökét az igazgatótanács választja saját tagjai közül.
+(2) Az Alap igazgatótanácsának tagjai az Integrációs Szervezet és a Központi Bank által jelölt két-két személy, valamint a szövetkezeti hitelintézetek által jelölt egy személy. Az igazgatótanács elnökét az igazgatótanács választja saját tagjai közül.
 
 (3) Az igazgatótanács ülése akkor határozatképes, ha tagjainak több mint fele jelen van. Az igazgatótanács a határozatait egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 

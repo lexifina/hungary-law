@@ -14,6 +14,6 @@ b) a tulajdonában álló Központi Bank részvényekre harmadik személynek vag
 
 c) olyan hitelügyletet vagy ehhez kötődő biztosítéki ügyletet köt vagy kötött, amelyet a jogszabály vagy valamely vonatkozó szabályzat tilt,
 
-d) a 15. § (3) bekezdés szerinti esetben, ha a részvényes nem teljesítette az Integrációs Szervezet vagy a Központi Bank utasítását vagy amennyiben felfüggesztették Integrációs Szervezeti tagságát vagy folyamatban van kizárása az Integrációs Szervezetből, vagy
+d) ha a részvényes nem teljesítette az Integrációs Szervezet vagy a Központi Bank utasítását, vagy
 
 e) nem teljesíti e törvényből fakadó valamely kötelezettségét.

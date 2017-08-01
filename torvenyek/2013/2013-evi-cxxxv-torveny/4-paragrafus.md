@@ -2,11 +2,13 @@
 
 4. § (1) Az Integrációs Szervezet induló vagyona az MFB által rendelkezésre bocsátott hozzájárulás, valamint az 5. § alapján jogutódlással szerzett vagyon.
 
-(2) Az MFB hozzájárulásának mértéke 1 000 000 000 Ft, azaz egymilliárd forint, amelyet az MFB a törvény hatálybalépését követő 30 napon belül szolgáltat illetve a törvény hatálybalépését követő 150 napon belül a 20. § (1) szerint az Integrációs Szervezet rendelkezésére bocsátandó összeg.
+(2) Az MFB hozzájárulásának mértéke 1 000 000 000 Ft, azaz egymilliárd forint, amelyet az MFB a törvény hatálybalépését követő 30 napon belül szolgáltat illetve a törvény hatálybalépését követő 150 napon belül az Integrációs Szervezet rendelkezésére bocsátandó összeg.
 
-(3) Az Integrációs Szervezet tagja – az MFB kivételével – évente tagdíjat fizet az Integrációs Szervezetnek. A tagdíj éves mértéke a tag kockázattal súlyozott kitettségének 0,1%-a. A tagdíj megfizetésének rendjét az Integrációs Szervezet igazgatósága szabályzatban határozza meg azzal, hogy az éves tagdíjat a szövetkezeti hitelintézetnek négy egyenlő részletben negyedévente kell megfizetnie.
+(3) Az Integrációs Szervezet tagja – az MFB kivételével – évente tagdíjat fizet az Integrációs Szervezetnek. A tagdíj éves mértéke a tag kockázattal súlyozott kitettségének 0,1%-a. A tagdíj megfizetésének rendjét az Integrációs Szervezet igazgatósága szabályzatban határozza meg azzal, hogy az éves tagdíjat a szövetkezeti hitelintézetnek negyedévente kell megfizetnie.
 
-(4) Az Integrációs Szervezet eszközeinek évi átlagos értéke az év egy napján sem lehet kevesebb a szövetkezeti hitelintézetek és a Központi Bank összesített eszközei értékének 3 százalékánál. Amennyiben az Integrációs Szervezet eszközeinek évi átlagos értéke az előírt határ alá csökkenne, az Integrációs Szervezet igazgatósága dönt az Integrációs Szervezet eszközeinek a feltöltéséről.
+(4) Az Integrációs Szervezetnek legalább olyan értékű eszközökkel kell rendelkeznie, amelyek meghaladják a szövetkezeti hitelintézetek és a Központi Bank összesített eszközei értékének 3 százalékát.
+
+(4a) A (4) bekezdésben meghatározottaknak történő megfelelést az Integrációs Szervezet havi rendszerességgel ellenőrzi. Ha a havi záró állományi adatok alapján megállapítható, hogy az Integrációs Szervezet eszközeinek értéke a (4) bekezdésben meghatározott érték alá csökken, az Integrációs Szervezet igazgatósága 15 napon belül dönt az Integrációs Szervezet eszközeinek a feltöltéséről.
 
 (5) Az Integrációs Szervezet pénzeszközei nem vonhatók el, és kizárólag az e törvényben meghatározott célokra használhatók fel. Az Integrációs Szervezet tagjainak tagsági jogviszonyukra tekintettel és annak arányában az aktuális évi hozam terhére kifizetést teljesíthet az üzleti tervében meghatározott mértékben a vagyon hozadékából.
 

@@ -4,9 +4,9 @@
 
 6. § (1) Az Integrációs Szervezet közgyűlése a tagok összességéből áll.
 
-(2) A közgyűlés legalább évente egy alkalommal ülésezik, üléseit az Integrációs Szervezet igazgatósága hívja össze.
+(2) A közgyűlés legalább évente egy alkalommal ülésezik, üléseit az Integrációs Szervezet igazgatósága hívja össze. A közgyűlés összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót valamennyi tagnak a közgyűlés napját megelőzően legalább 15 nappal meg kell küldeni.
 
-(3) A közgyűlésen minden tag az Integrációs Szervezet részére teljesített vagyoni hozzájárulása arányában rendelkezik szavazati joggal a (4) és az (5) bekezdésekben foglaltakra is tekintettel.
+(3) A 8. § (2) bekezdésében meghatározott eset kivételével a közgyűlésen minden tag az Integrációs Szervezet részére teljesített vagyoni hozzájárulása arányában rendelkezik szavazati joggal a (4) és az (5) bekezdésekben foglaltakra is tekintettel.
 
 (4) A (3) bekezdés tekintetében a szövetkezeti hitelintézet OTIVA, REPIVA, TAKIVA illetve HBA javára teljesített vagyoni hozzájárulását úgy kell tekinteni, hogy azt a szövetkezeti hitelintézet az Integrációs Szervezet javára teljesítette.
 

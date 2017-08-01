@@ -34,6 +34,12 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb jogait és hatásköreit.
 
+(2a) Az Integrációs Szervezet – intézményvédelmi céllal – a (2) bekezdés alapján végrehajtott intézkedés vagy intézkedések sikertelensége esetén tőkeemeléssel tulajdont szerezhet a Központi Bankban és a szövetkezeti hitelintézetben. Az Integrációs Szervezet az ily módon a Központi Bankban, illetve a szövetkezeti hitelintézetben tulajdonába került részesedést két éven belül köteles elidegeníteni. A Központi Bank intézményvédelmi céllal szerzett részvényeinek elidegenítése esetében a Központi Bank részvényeseinek, míg a szövetkezeti hitelintézet intézményvédelmi céllal szerzett tulajdonosi részesedésének elidegenítése esetén – a szabályozott piacra bevezetett értékpapírok kivételével – az adott szövetkezeti hitelintézet tulajdonosainak elővásárlási joga van.
+
+(2b) Az Integrációs Szervezet a Központi Bank és a részvénytársasági formában működő szövetkezeti hitelintézetek közgyűlésén a (2a) bekezdés alapján szerzett részesedése arányában gyakorolja a szavazati jogokat.
+
+(2c) A szövetkezeti formában működő szövetkezeti hitelintézeteknél, amelyben az Integrációs Szervezet a (2a) bekezdés alapján részesedést szerzett, kizárólag az Integrációs Szervezet jóváhagyásával hozható meg közgyűlési határozat.
+
 (3) A (2) bekezdés d) pontjának alkalmazásakor a Ptk.-tól eltérően a közgyűlést annak napját huszonegy nappal megelőzően kell összehívni.
 
 (4) Ha a szövetkezeti hitelintézet nem tesz eleget az (2) bekezdés d) pontja szerinti intézkedésnek az Integrációs Szervezet által megadott határidőn belül, az Integrációs Szervezet a cégbíróságnál kezdeményezheti a szövetkezeti hitelintézet közgyűlésének összehívását, és a kérelemben javaslatot tesz a közgyűlés összehívásának helyére, idejére, napirendi pontjaira.
@@ -52,7 +58,7 @@ c) részére kötelezettségvállalást tartalmazó pénzügyi szolgáltatás ny
 
 (7) Ha a (6) bekezdésben felsorolt intézkedések megtörténtek, a tulajdonosok a szövetkezeti hitelintézettel szemben beszámítással nem élhetnek.
 
-(8) Az (6) bekezdésben felsorolt korlátozásokat a szövetkezeti hitelintézet igazgatósága megszüntetheti, amennyiben a tulajdonosok az intézkedések megtételére szolgáló okot a szövetkezeti hitelintézet igazgatóságának és az Integrációs Szervezet igazgatóságának egybehangzó álláspontja szerint megszüntették, vagy a szövetkezeti hitelintézet felszámolását a bíróság el nem rendeli.
+(8) A (6) bekezdésben felsorolt korlátozásokat a szövetkezeti hitelintézet igazgatósága megszüntetheti, amennyiben a tulajdonosok az intézkedések megtételére szolgáló okot a szövetkezeti hitelintézet igazgatóságának és az Integrációs Szervezet igazgatóságának egybehangzó álláspontja szerint megszüntették, vagy a szövetkezeti hitelintézet felszámolását a bíróság el nem rendeli.
 
 (9) Az Integrációs Szervezet az e §-ban meghatározott intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten illetve más intézkedésekkel együtt is alkalmazhatja.
 

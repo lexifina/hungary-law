@@ -10,6 +10,6 @@
 
 (11)
 
-(12) Azt a kérdést, hogy fennáll-e a 15. § (10) bekezdéséből fakadó felfüggesztésről szóló határozat meghozatalára okot adó körülmény az Integrációs Szervezet igazgatósága jogosult határozatban eldönteni.
+(12)
 
 (13)–(14)

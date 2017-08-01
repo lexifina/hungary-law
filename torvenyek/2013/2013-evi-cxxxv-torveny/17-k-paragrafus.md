@@ -1,4 +1,6 @@
-17/K. § (1) A szövetkezeti hitelintézet kötvénykibocsátásához, tőkéjének leszállításához illetve felemeléséhez a Központi Bank kifejezett, előzetes, írásbeli hozzájárulása is szükséges. A Központi Bank a 17/Q. § (4) bekezdésében foglalt esetekben jogosult illetve köteles megtagadni a hozzájárulást illetve akkor is, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
+17/K. § (1) A szövetkezeti hitelintézet értékpapír kibocsátásához, tőkéjének leszállításához vagy felemeléséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet igazgatósága a hozzájárulással kapcsolatos döntését a Központi Bank igazgatóságának beleegyezését követően hozhatja meg. Az Integrációs Szervezet igazgatósága a hozzájárulását megtagadja a 17/Q. § (5) bekezdésében foglalt esetben, továbbá akkor, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
+
+(1a) A szövetkezeti hitelintézet vezető tisztségviselőinek kinevezéséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet kezdeményezheti, hogy a Központi Bank szövetkezeti hitelintézet részvényesénél, illetve az Integrációs Szervezet szövetkezeti hitelintézet tagjánál tartsanak közgyűlést, amelynek napirendi pontja a tisztújítás a vezető tisztségviselők vonatkozásában. Az érintett szövetkezeti hitelintézetnél a jogszabály által megengedett legrövidebb időn belül meg kell tartani a közgyűlést.
 
 (2) Szövetkezeti hitelintézet esetében a cégjegyzésre – ideértve a fizetési számla feletti rendelkezést is – és a szövetkezet nevében pénzügyi szolgáltatási tevékenységgel kapcsolatos kötelezettségvállalásra két igazgatósági tag, illetve két ügyvezető együttesen jogosult.
 
@@ -14,7 +16,7 @@ a) egyidejűleg legfeljebb öt szövetkezeti hitelintézetnél láthat el könyv
 
 b) egy-egy szövetkezeti hitelintézettől származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) harminc százalékát,
 
-c) az egy tulajdonosi csoporthoz tartozó szövetkezeti hitelintézettől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) hatvan százalékát.
+c) az egy tulajdonosi csoporthoz tartozó szövetkezeti hitelintézettől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetve elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) hatvan százalékát.
 
 (7) A hitelintézeti könyvvizsgáló társaságokkal szemben a Hpt. 260 §-ában foglaltakon túlmenően további követelmény, hogy a könyvvizsgálói társaságon belül a (6) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot.
 
@@ -22,6 +24,6 @@ c) az egy tulajdonosi csoporthoz tartozó szövetkezeti hitelintézettől, befek
 
 (9) A szövetkezeti hitelintézet által a Hpt. 208. §-a szerint fizetendő felügyeleti díj a Hpt. 208. § (3) bekezdés szerinti alapdíjként kétszázezer forint és a (10) bekezdésben szereplő változó díj.
 
-(10) A változó díj a Hpt. 79. § (2) bekezdése szerint számított tőkekövetelmény 3,8 ezrelékének, és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,25 ezrelékének összege.
+(10) A változó díj a Hpt. 79. § (2) bekezdése szerint számított tőkekövetelmény 3,8 ezrelékének, és a Bszt.-ben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,25 ezrelékének összege.
 
 (11)

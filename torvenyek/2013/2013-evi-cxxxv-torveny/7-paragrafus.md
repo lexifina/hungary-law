@@ -10,6 +10,8 @@ c) a felügyelő bizottsági tagok megválasztása, visszahívása és díjazás
 
 d) az Integrációs Szervezet költségvetésének elfogadása;
 
-e) az Integrációs Szervezet éves beszámolójának és költségvetési beszámolójának elfogadása.
+e) az Integrációs Szervezet éves beszámolójának és költségvetési beszámolójának elfogadása;
+
+f) az Integrációs Szervezet könyvvizsgálójának megválasztása, visszahívása és díjazásának elfogadása.
 
 (2) Az Integrációs Szervezet alapszabálya az (1) bekezdésben meghatározottakon túl, további hatásköröket állapíthat meg az Integrációs Szervezet közgyűlésének.

@@ -1,10 +1,10 @@
 ## 8/I. Jogutód nélküli megszűnés
 
-17/T. § (1)
+17/T. § (1) Ha a szövetkezeti hitelintézet a jogutód nélküli megszűnéséről határoz, vagy a Felügyelet a szövetkezeti hitelintézet működési engedélyét a törvényben foglalt bármely esetben visszavonja, a Hpt. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2)
+(2) A szövetkezeti hitelintézet a jogutód nélküli megszűnéséről az Integrációs Szervezet igazgatóságának előzetes hozzájárulását követően dönthet.
 
-(3) A felügyeleti biztos a kijelölését követő 3 munkanapon belül a 11. § (9) bekezdésében foglalt könyvvizsgálói jelentés figyelembevételével felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak lenne-e helye, és megállapítását haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
+(3) A felügyeleti biztos a kijelölését követő 3 munkanapon belül felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak lenne-e helye, és megállapítását haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
 
 (3a) A Felügyelet a működési engedély visszavonásával egyidejűleg dönt a szövetkezeti hitelintézet végelszámolásáról vagy felszámolásának kezdeményezéséről.
 
