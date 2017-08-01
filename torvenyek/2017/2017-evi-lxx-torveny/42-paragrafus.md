@@ -4,8 +4,10 @@ a)
 
 b)–f)
 
-g)–h)
+g) 104. § (4) bekezdése,
+
+h) 104/A. § (1) bekezdése,
 
 i)
 
-j)
+j) 1. melléklet 46. sora.
