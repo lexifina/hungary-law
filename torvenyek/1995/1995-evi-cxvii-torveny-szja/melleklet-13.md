@@ -13,5 +13,3 @@ Kisvállalkozások adókedvezménye
 9. A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó hitelszerződés (ideértve a pénzügyi lízinget is) alapján kizárólag üzemi célt szolgáló tárgyi eszköz beszerzéséhez, előállításához pénzügyi intézménytől igénybe vett hitel kamata alapján adókedvezményt vehet igénybe.
 
 10. Az adókedvezmény a 9. pontban meghatározott hitelre az adóévben fizetett kamat 40 százaléka, 2013. december 31-ét követően, de 2017. január 1-jét megelőzően megkötött hitelszerződések esetében a kamat 60 százaléka. A 2016. december 31-ét követően megkötött hitelszerződések esetében a kamat teljes összege adókedvezményként érvényesíthető.
-
-11.
