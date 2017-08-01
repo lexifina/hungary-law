@@ -32,6 +32,6 @@ b) a meddő energia mérésének hiányában cos fi = 0,9
 
 (10) Ha a rendszerhasználó a lekötött teljesítmény túllépését az elosztónak előzetesen bejelentette, és azt az elosztó engedélyezte, akkor a teljesítménytúllépésért fizetendő díj mértéke (a teljesítménytúllépés hónapjára) az éves teljesítménydíj 1/10 része a túllépés minden kW-jára.
 
-(11)[^4] A lekötött teljesítmény nem engedélyezett túllépése esetén a rendszerhasználó a túllépés minden megkezdett kW-jára havonta a Hivatal elnöke által a VET 143. § (5) bekezdése szerint rendeletben megállapított éves teljesítménydíj 1/4 részének megfelelő teljesítménydíjat köteles fizetni.
+(11)[^6] A lekötött teljesítmény nem engedélyezett túllépése esetén a rendszerhasználó a túllépés minden megkezdett kW-jára havonta a Hivatal elnöke által a VET 143. § (5) bekezdése szerint rendeletben megállapított éves teljesítménydíj 1/4 részének megfelelő teljesítménydíjat köteles fizetni.
 
-[^4]: A 17. § (11) bekezdése a 16/2016. (XII. 20.) MEKH rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 17. § (11) bekezdése a 16/2016. (XII. 20.) MEKH rendelet 6. § (1) bekezdése szerint módosított szöveg.
