@@ -20,7 +20,9 @@ c) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
 d) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
 
-e)–f)
+e) a külképviseletek külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+
+f) az egyes külképviseletekhez tartozó költségtérítés-szorzók,
 
 g) a külképviselet által foglalkoztatott munkavállaló foglalkoztatásának,
 
@@ -30,7 +32,7 @@ i) a biztonsági szolgálat,
 
 j) a pályáztatás,
 
-k)
+k) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az egyes állomáshelyekre vonatkozó, az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével, állomáshelyenként megállapított deviza-alapilletmények,
 
 l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
@@ -52,11 +54,13 @@ a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
 b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
 
-c)–d)
+c) az EU ÁK külpolitikai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+
+d) a költségtérítés-szorzók,
 
 e) a pályáztatás,
 
-f)
+f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
 
 g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
@@ -65,6 +69,8 @@ h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
 i) az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó, valamint
 
 j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
+
+k) a költözési költségtérítés
 
 ## részletes szabályait rendeletben állapítsa meg.
 

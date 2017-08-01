@@ -36,11 +36,11 @@ b) a szolgálat átadásával, valamint a hazautazással kapcsolatos kötelezett
 
 (6) A kihelyezett kihelyezési okirata – a (7) bekezdésben foglaltak kivételével – a kihelyezett egyetértésével módosítható. A kihelyező okirat tartalmának módosítására a kihelyezésre és a kihelyezéshez való hozzájárulásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(7) Nem szükséges a kihelyezett beleegyezése a kinevezés módosításához, ha a kihelyezett
+(7) Nem szükséges a kihelyezett beleegyezése a kinevezési, illetve a kihelyező okirat módosításához, ha a kihelyezett
 
 a) munkakörének megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja,
 
-b) a 25. § (5)–(8) bekezdésében meghatározott személy után költségtérítés-kiegészítésre válik jogosulttá,
+b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
 
 c) rangemelésben részesül,
 
