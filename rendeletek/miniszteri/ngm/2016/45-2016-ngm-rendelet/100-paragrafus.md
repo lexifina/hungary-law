@@ -30,10 +30,8 @@ g) – az a)–e) pontbelitől eltérő célra – legalább 0,36 liter dietilft
 
 h) – az a)–e) pontbelitől eltérő célra – legalább 0,5 liter metil-etil-ketont (H típusú részleges denaturálószer),
 
-i)[^40]
+i) – az a)–e) pontbelitől eltérő célra – legalább 2 tömegszázalék izo-propil-alkoholt, 1 tömegszázalék tercier-butil-alkoholt és 0,001 tömegszázalék denatónium benzoátot (I típusú részleges denaturálószer),
 
 ## kell alkalmazni.
 
 (2) Az adóraktár által a részlegesen denaturált termék feladása, értékesítése esetén kiállított bizonylat tartalmazza a részlegesen denaturált termék mennyiségét (literben és kilogrammban) és tényleges alkoholtartalmát, a felhasznált denaturálószer megnevezését és a denaturálás során hozzákevert mennyiségét grammban vagy literben.
-
-[^40]: A 100. § (1) bekezdés i) pontja a 104. § (3) bekezdése alapján 2017. augusztus 1-jén lép hatályba.

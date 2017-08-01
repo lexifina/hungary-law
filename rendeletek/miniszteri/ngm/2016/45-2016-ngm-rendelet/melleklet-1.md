@@ -1,6 +1,6 @@
-## 109. §[^49]
+## 109. §[^48]
 
-1. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^50]
+1. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^49]
 
 ## Adóraktári nyilvántartás és az adóraktár Jöt. 24. § szerinti adatszolgáltatásának adattartalma
 
@@ -608,5 +608,5 @@ IV. Bérfőzésre vonatkozó adatok (bérfőzetőnként és bérfőzésenként)
 
 6.5. Bérfőzető háztartása számára a származási igazolvány kiállításáig a tárgyévben kiadott kedvezményes adómértékű párlat mennyisége* b
 
-[^49]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: Az 1. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^48]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: Az 1. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (1) bekezdésével megállapított szöveg.

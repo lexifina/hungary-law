@@ -1,4 +1,4 @@
-4. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^53]
+4. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^52]
 
 ## Jövedéki kiskereskedő által üzemanyagtöltő állomás forgalmáról vezetett nyilvántartás adattartalma
 
@@ -38,4 +38,4 @@
 
 6. Zárókészlet
 
-[^53]: A 4. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^52]: A 4. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (4) bekezdésével megállapított szöveg.

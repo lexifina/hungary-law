@@ -1,4 +1,4 @@
-13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^54]
+13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^53]
 
 ## Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazható üzemanyag minőségi követelményei
 
@@ -958,4 +958,4 @@
 
 | 9. | március 1-jétől november 14-ig: E fokozat |
 
-[^54]: A 13. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (5) bekezdése szerint módosított szöveg.
+[^53]: A 13. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (5) bekezdése szerint módosított szöveg.

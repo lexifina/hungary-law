@@ -1,4 +1,4 @@
-18. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^55]
+18. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^54]
 
 ## ADÓRAKTÁRI ENGEDÉLY
 
@@ -418,4 +418,4 @@ III. Kezességvállalási engedély hatályossága:
 
 IV. A kezességvállaló a jelen engedélyben rögzített, valamint az engedélykérelemben, az engedélykérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet.
 
-[^55]: A 18. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (6) bekezdése szerint módosított szöveg.
+[^54]: A 18. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (6) bekezdése szerint módosított szöveg.
