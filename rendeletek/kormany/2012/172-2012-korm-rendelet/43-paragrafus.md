@@ -1,4 +1,4 @@
-## 42. § Együtt élő házastársak, élettársak egyazon állomáshelyre történő kihelyezése esetén a 27. § (2) bekezdésének b) és c) pontjában és a (4) és (5) bekezdésében, a 28. § (1) és (2) bekezdésében, a 37. §-ban, valamint a 38. § (1) bekezdésében foglalt jogosultságok csak egyiküket illetik meg, a 27. § (7) bekezdésében és a 38. § (2) bekezdésében foglalt kötelezettségek csak egyiküket terhelik. A 37. § (4) bekezdésében meghatározott önrész megállapítása során kizárólag a magasabb összegű ellátmánnyal rendelkező kihelyezett ellátmányát kell alapul venni.
+## 3–42. §
 
 ## III. Fejezet
 
