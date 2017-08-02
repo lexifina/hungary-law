@@ -42,11 +42,9 @@ n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön, valamint
 
 o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
-## részletes szabályait rendeletben állapítsa meg.
-
 p) a külügyi szakmai vizsga
 
-## részletes szabályait rendeletben állapítsa meg.
+részletes szabályait rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az EU ÁK tekintetében
 
@@ -72,7 +70,7 @@ j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
 k) a költözési költségtérítés
 
-## részletes szabályait rendeletben állapítsa meg.
+részletes szabályait rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az európai uniós szakmai vizsga részletes szabályait rendeletben állapítsa meg.
 
