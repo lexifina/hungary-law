@@ -2,9 +2,7 @@
 
 a)–h)
 
-i) 40. § (1) bekezdésében az „az EU ÁK Kül- és Biztonságpolitikai Hivatalát rendkívüli és meghatalmazott nagyköveti rangban vezető diplomatája” szövegrész helyébe az „a PSC nagykövet”
-
-szöveg lép.
+i)
 
 (2) A Külszoltv.
 
