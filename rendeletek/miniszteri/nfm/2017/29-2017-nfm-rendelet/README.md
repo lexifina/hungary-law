@@ -1,0 +1,9 @@
+# 29/2017. (VII. 25.) NFM rendelet
+
+a dohánytermékek nyilvántartásba vételére és vizsgálatára, valamint a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó igazgatási szolgáltatási díjakról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-29-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-08-02 | 2017-29-20-2W.1 | 29/2017. (VII. 25.) NFM rendelet |
