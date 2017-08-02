@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-387-20-
 | 2017-01-02 | 2016-387-20-22.2 | 2010: CXXX. törvény |
 | 2017-02-03 | 2016-387-20-22.3 | 20/2017. (II. 2.) Korm. rendelet |
 | 2017-07-01 | 2016-387-20-22.4 | 171/2017. (VI. 29.) Korm. rendelet |
+| 2017-08-02 | 2016-387-20-22.5 | 213/2017. (VII. 25.) Korm. rendelet |
