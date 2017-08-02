@@ -1,1 +1,0 @@
-A Kormány a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés f)–g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
