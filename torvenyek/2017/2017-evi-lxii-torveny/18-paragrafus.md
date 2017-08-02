@@ -1,5 +1,0 @@
-18. § Az Szhitv. 15/C. §-a helyébe a következő rendelkezés lép:
-
-„15/C. § (1) A szövetkezeti hitelintézet és a Központi Bank köteles az Integrációs Szervezetet az Integrációs Szervezet igazgatósága által elfogadott szabályzatban előírt határidőben, tartalommal és módon értesíteni, ha a szövetkezeti hitelintézet peres, nemperes vagy hatósági eljárást indított, vagy ellene ilyen eljárást vagy pénzügyi békéltető testületi eljárást indítottak, valamint ha a szövetkezeti hitelintézet, illetve a Központi Bank büntető feljelentést tett, vagy a szövetkezeti hitelintézetet, illetve a Központi Bankot érintően büntetőeljárás indult. A büntető feljelentésről és a büntető eljárás megindulásáról az Integrációs Szervezet köteles a tudomásszerzésétől számított 8 napon belül értesíteni a Felügyeletet.
-
-(2) Az egyetemleges felelősséget érintő eljárások kezelésére és az azokkal kapcsolatos tájékoztatási kötelezettségre vonatkozóan az Integrációs Szervezet igazgatósága szabályzatot alkot.”

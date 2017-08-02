@@ -1,1 +1,0 @@
-43. § A Hpt. 194. § (2) bekezdés c) pontjában a „vezető tisztségviselőjének megbízatása” szövegrész helyébe a „vezető tisztségviselője feladatkörének gyakorlása” szöveg, a „15. § (4) bekezdés a) pontja” szövegrész helyébe a „11/B. § (2) bekezdés c) pontja” szöveg, valamint az „a Takarékbank Zrt.” szövegrész helyébe az „az Integrációs Szervezet igazgatósága” szöveg lép.
