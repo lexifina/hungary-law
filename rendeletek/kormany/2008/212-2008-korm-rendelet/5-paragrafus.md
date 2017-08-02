@@ -578,25 +578,9 @@ Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^8]
 
 | 5.131. | Zsírtartalom meghatározása (Van Gulik-módszerrel) | 5 260 |
 
-| 6. | Dohányipari termékek vizsgálata |  |
+| 6. |  |  |
 
-| 6.1. | Cigaretta, szivarka és szivar méretének meghatározása | 4 850 |
-
-| 6.2. | Fogyasztói csomagolásban lévő darabszám meghatározása | 3 730 |
-
-| 6.3. | Fogyasztási dohányok vágatszélességének meghatározása | 4 850 |
-
-| 6.4. |  |  |
-
-| 6.5. |  |  |
-
-| 6.6. |  |  |
-
-| 6.7. |  |  |
-
-| 6.8. |  |  |
-
-| 6.9. | Cigaretta gyújtási-képességének meghatározása | 35 710 |
+| 6.1-6.9. |  |  |
 
 | 7. | Háztartási és hasonló jellegű villamos készülékek biztonságosságának vizsgálata |  |
 
@@ -1233,4 +1217,4 @@ Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^8]
 | 35.1. | Az 1–34. fejezetekben nem szereplő vizsgálatok esetében a díjszámítás a vizsgálatra fordított idő, az itt meghatározott mérnöki óradíj szorzata, hozzáadva a felhasznált anyagköltséget. | 3 000 |
 
 [^7]: A 4. §-t a 306/2012. (X. 29.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
-[^8]: A melléklet a 306/2012. (X. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 101/2016. (V. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^8]: A melléklet a 306/2012. (X. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 101/2016. (V. 13.) Korm. rendelet 2. §-a, a 213/2017. (VII. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
