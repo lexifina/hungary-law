@@ -1,0 +1,1 @@
+## 5. § Az 1. § d) pontja szerinti egyszerűsített ügyfél-átvilágítás esetköreit és belső eljárási rendjét a szolgáltató legalább az 1. mellékletben felsorolt, alacsony kockázatra vonatkozó tényezők alapján határozza meg.
