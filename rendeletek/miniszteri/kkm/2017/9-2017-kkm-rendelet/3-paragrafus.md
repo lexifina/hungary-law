@@ -1,0 +1,1 @@
+## 2. § Az általános munkarendben és a munkaidőkeretben foglalkoztatott kihelyezettek a munkarend szerinti munkaidő kezdetét és befejezését, illetve a távollétet, annak okának megjelölésével a külképviseleten rendszeresített jelenléti íven aláírásukkal igazolják.
