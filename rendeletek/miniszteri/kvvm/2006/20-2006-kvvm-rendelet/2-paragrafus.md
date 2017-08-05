@@ -2,45 +2,46 @@
 
 ## 2. §[^7] E rendelet alkalmazásában
 
-a) alapjellemzés: a hulladék alapvető jellemzőinek meghatározása, azon adatok, információk összegyűjtése, amelyek a hulladék biztonságos lerakásához szükségesek;
+1. alapjellemzés: a hulladék alapvető jellemzőinek meghatározása, azon adatok, információk összegyűjtése, amelyek a hulladék biztonságos lerakásához szükségesek;
 
-b) bezárás: a hulladék-átvételi és -lerakási tevékenységek megszüntetése;
+2. bezárás: a hulladékátvételi és -lerakási tevékenységek megszüntetése;
 
-c) csurgalékvíz: a lerakott hulladéktesten átszivárgó, illetve az ott keletkező minden olyan folyadék, amely a hulladéklerakóban marad, vagy amelyet a hulladéklerakó kibocsát;
+3. csurgalékvíz: a lerakott hulladéktesten átszivárgó, illetve az ott keletkező minden olyan folyadék, amely a hulladéklerakóban marad, vagy amelyet a hulladéklerakó kibocsát;
 
-d) eluátum: a laboratóriumi kioldási vizsgálatok során keletkező oldat;
+4. eluátum: a laboratóriumi kioldási vizsgálatok során keletkező oldat;
 
-e) föld alatti hulladéklerakó: olyan állandó hulladéktároló létesítmény, amely földtani közegben lévő üregben, különösen sóbányában vagy káliumbányában helyezkedik el;
+5. folyékony hulladék: minden folyékony halmazállapotú hulladék, beleértve a szennyvizet, kivéve az iszapot;
 
-f) hulladéklerakó: olyan hulladékártalmatlanító létesítmény, amely a hulladéknak a földtani közeg felszínén vagy a földtani közegben történő lerakására szolgál, ideértve
+6. föld alatti hulladéklerakó: olyan állandó hulladéktároló létesítmény, amely földtani közegben lévő üregben, különösen sóbányában vagy káliumbányában helyezkedik el;
 
-fa)[^8] a hulladéktermelő hulladékának a termelés helyén történő ártalmatlanítására szolgáló hulladékgazdálkodási létesítményt,
+7. hulladéklerakó: olyan hulladékártalmatlanító létesítmény, amely a hulladéknak a földtani közeg felszínén vagy a földtani közegben történő lerakására szolgál, ideértve
 
-fb)[^9] a hulladék ideiglenes elhelyezésére szolgáló, egy évet meghaladóan fennálló hulladékgazdálkodási létesítményt, kivéve ahol a hulladékot
+7.1. a hulladéktermelő hulladékának a termelés helyén történő ártalmatlanítására szolgáló hulladékgazdálkodási létesítményt,
 
-fba) továbbszállításra készítik elő abból a célból, hogy hasznosításra, előkezelésre vagy más helyen ártalmatlanításra kerüljön,
+7.2. a hulladék ideiglenes elhelyezésére szolgáló, egy évet meghaladóan fennálló hulladékgazdálkodási létesítményt, kivéve ahol a hulladékot
 
-fbb)[^10] a hasznosítást megelőzően legfeljebb három évig tárolják,
+7.2.1. továbbszállításra készítik elő abból a célból, hogy hasznosításra, előkezelésre vagy más helyen ártalmatlanításra kerüljön,
 
-fbc) az ártalmatlanítást megelőzően legfeljebb egy évig tárolják;
+7.2.3. a hasznosítást megelőzően legfeljebb három évig tárolják,
 
-g) hulladéklerakó-gáz: a lerakott hulladék biológiai, kémiai bomlása során a hulladéklerakóban képződő gázkeverék;
+7.2.4. az ártalmatlanítást megelőzően legfeljebb egy évig tárolják;
 
-h) lerakás: a hulladék ártalmatlanítása a földtani közeg felszínén vagy a földtani közegben kialakított hulladéklerakóban;
+8. hulladéklerakó-gáz: a lerakott hulladék biológiai, kémiai bomlása során a hulladéklerakóban képződő gázkeverék;
 
-i) lezárás: felső záróréteg rendszer megvalósítása;
+9. inert hulladék: olyan hulladék, amely semmilyen jelentős fizikai, kémiai vagy biológiai átalakuláson nem megy át; jellemzője, hogy nem oldódik, nem ég, sem más fizikai vagy kémiai reakcióba nem lép, biológiai úton nem bomlik, vagy nincs kedvezőtlen hatással a vele kapcsolatba kerülő más anyagra oly módon, hogy környezetszennyezést okozna, vagy károsítaná az emberek egészségét; további jellemzője, hogy teljes kioldhatósága, szennyezőanyag tartalma, valamint a csurgalékvíz ökotoxicitása elhanyagolható, és nem veszélyezteti a felszíni vizek, illetve a felszín alatti víz minőségét;
 
-j) megfelelőségi vizsgálat: azonos termelési, hulladékkezelési technológiából származó, rendszeresen képződő hulladék ellenőrzése az alapjellemzésben meghatározott kritikus paraméterek mért értékeinek összevetésével és értékelésével;
+10. lerakás: a hulladék ártalmatlanítása a földtani közeg felszínén vagy a földtani közegben kialakított hulladéklerakóban;
 
-k) rekultiváció: a bezárt hulladéklerakó vagy a hulladéklerakó egy része környezeti veszélyességének csökkentése új területhasználat előkészítése érdekében lezárással, műszaki védelem és monitoringrendszer kiépítésével vagy a hulladék felszedésével, továbbá tájba illesztéssel;
+11. lezárás: felső zárórétegrendszer megvalósítása;
 
-l) utógondozás: a hulladéklerakó teljes rekultivációját követő olyan összetett tevékenység, amely magában foglalja a monitoringrendszer üzemeltetését, a csurgalékvíz és a hulladéklerakó-gáz kezelését, valamint a szükségessé váló karbantartási munkákat;
+12. megfelelőségi vizsgálat: azonos termelési, hulladékkezelési technológiából származó, rendszeresen képződő hulladék ellenőrzése az alapjellemzésben meghatározott kritikus paraméterek mért értékeinek összevetésével és értékelésével;
 
-m) üzemeltető: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki (amely) a hulladéklerakó üzemeltetéséért, rekultivációjáért, utógondozásáért felelős;
+13. rekultiváció: a bezárt hulladéklerakó vagy a hulladéklerakó egy része környezeti veszélyességének csökkentése új területhasználat előkészítése érdekében lezárással, műszaki védelem és monitoringrendszer kiépítésével vagy a hulladék felszedésével, továbbá tájba illesztéssel;
 
-n) tájbaillesztés: a létesítmény funkcionális és esztétikai szempontok szerinti környezetalakítása a táji adottságok figyelembevételével.
+14. utógondozás: a hulladéklerakó teljes rekultivációját követő olyan összetett tevékenység, amely magában foglalja a monitoringrendszer üzemeltetését, a csurgalékvíz és a hulladéklerakó-gáz kezelését, valamint a szükségessé váló karbantartási munkákat;
 
-[^7]: A 2. § a 92/2007. (XI. 28.) KvVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
-[^8]: A 2. § f) pont fa) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § f) pont fb) alpont nyitó szövegrésze a 40/2013. (V. 24.) VM rendelet 4. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^10]: A 2. § f) pont fb) pont fbb) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés b) pontja szerint módosított szöveg.
+15. üzemeltető: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki (amely) a hulladéklerakó üzemeltetéséért, rekultivációjáért, utógondozásáért felelős;
+
+16. tájbaillesztés: a létesítmény funkcionális és esztétikai szempontok szerinti környezetalakítása a táji adottságok figyelembevételével.
+
+[^7]: A 2. § a 37/2017. (VII. 6.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.

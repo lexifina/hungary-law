@@ -10,9 +10,9 @@ bb) vegyes összetételű (jelentős szerves és szervetlen anyagtartalommal egy
 
 c) veszélyes hulladék lerakására szolgáló hulladéklerakó (C kategória).
 
-(2)[^19] A hulladéklerakó (1) bekezdés szerinti kategóriáját, nem veszélyes hulladék lerakására szolgáló hulladéklerakó esetén alkategóriáját a környezetvédelmi hatóság a hulladéklerakó létesítésének engedélyezésekor állapítja meg.
+(2)[^16] A hulladéklerakó (1) bekezdés szerinti kategóriáját, nem veszélyes hulladék lerakására szolgáló hulladéklerakó esetén alkategóriáját a környezetvédelmi hatóság a hulladéklerakó létesítésének engedélyezésekor állapítja meg.
 
-(3) A hulladéklerakóban – a külön jogszabály[^20] figyelembevételével – a következő csoportokba tartozó hulladékok lerakása végezhető, ha a hulladék eleget tesz az e rendelet 2. számú melléklet 2. pontjában felsorolt, az adott hulladéklerakó-kategóriára megállapított átvételi követelményeknek:
+(3) A hulladéklerakóban – a külön jogszabály[^17] figyelembevételével – a következő csoportokba tartozó hulladékok lerakása végezhető, ha a hulladék eleget tesz az e rendelet 2. számú melléklet 2. pontjában felsorolt, az adott hulladéklerakó-kategóriára megállapított átvételi követelményeknek:
 
 a) A kategóriájú hulladéklerakóban kizárólag inert hulladék,
 
@@ -24,7 +24,7 @@ bb) előkezelt, stabil, nem reakcióképes és nem veszélyes hulladékként kez
 
 B3 alkategóriájú hulladéklerakóban
 
-bc)[^21] vegyesen gyűjtött települési hulladék,
+bc)[^18] vegyesen gyűjtött települési hulladék,
 
 bd) előkezelt szennyvíziszap,
 
@@ -32,6 +32,6 @@ be) egyéb nem veszélyes hulladék, beleértve a B1b alkategóriájú hulladék
 
 c) C kategóriájú hulladéklerakóban veszélyes hulladék.
 
-[^19]: A 4. § (2) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 3. §-ával megállapított, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^20]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet.
-[^21]: A 4. § (3) bekezdés b) pont bc) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^16]: A 4. § (2) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 3. §-ával megállapított, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet.
+[^18]: A 4. § (3) bekezdés b) pont bc) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.

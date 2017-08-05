@@ -6,7 +6,7 @@
 
 ## Az alapjellemzésnek különösen a következőkre kell kiterjednie:
 
-## a) a hulladék külön jogszabály szerinti EWC kódszáma, eredete, a hulladékot eredményező technológia rövid leírása, a hulladék fizikai megjelenési formája, minőségi összetétele, teljes (rendszeresen képződő hulladék esetén az időegység alatt képződő) mennyisége és – ahol szükséges és lehetséges – az egyéb, a lerakással történő ártalmatlanítás szempontjából jellemző tulajdonságai, különös tekintettel a hulladéklerakóban várható változásaira, a kémiai kölcsönhatásokra, illetve a hulladéklerakó szigetelő anyagával való kölcsönhatásokra;
+## a) a hulladék külön jogszabály szerinti azonosító kódja, eredete, a hulladékot eredményező technológia rövid leírása, a hulladék fizikai megjelenési formája, minőségi összetétele, teljes (rendszeresen képződő hulladék esetén az időegység alatt képződő) mennyisége és – ahol szükséges és lehetséges – az egyéb, a lerakással történő ártalmatlanítás szempontjából jellemző tulajdonságai, különös tekintettel a hulladéklerakóban várható változásaira, a kémiai kölcsönhatásokra, illetve a hulladéklerakó szigetelő anyagával való kölcsönhatásokra;
 
 ## b) a hulladék Ht. 1. melléklete szerinti veszélyességi jellemzőinek meghatározására;
 
@@ -78,33 +78,35 @@
 
 ## Alapjellemzéshez szükséges vizsgálatok nélkül átvehető inert hulladékok
 
-| EWC kód | Leírás | Korlátozások |
+|  | A | B | C |
 
-| 10 11 03 | Üveg alapú, szálas anyagok hulladékai | A hulladék nem tartalmazhat szerves kötőanyagot |
+| 1 | Azonosító kód | Leírás | Korlátozások |
 
-| 15 01 07 | Csomagolási üveg-hulladékok |  |
+| 2 | 10 11 03 | Üvegalapú, szálas anyagok hulladékai | A hulladék nem tartalmazhat szerves kötőanyagot |
 
-| 17 01 01 | Beton | Elkülönített építési és bontási hulladékok* |
+| 3 | 15 01 07 | Csomagolási üveghulladékok |  |
 
-| 17 01 02 | Tégla | Elkülönített építési és bontási hulladékok* |
+| 4 | 17 01 01 | Beton | Elkülönített építési-bontási hulladékok* |
 
-| 17 01 03 | Cserép és kerámiák | Elkülönített építési és bontási hulladékok* |
+| 5 | 17 01 02 | Tégla | Elkülönített építési-bontási hulladékok* |
 
-| 17 01 07 | Beton, tégla, cserép és kerámia keveréke | Elkülönített építési és bontási hulladékok* |
+| 6 | 17 01 03 | Cserép és kerámiák | Elkülönített építési-bontási hulladékok* |
 
-| 17 02 02 | Üveg |  |
+| 7 | 17 01 07 | Beton, tégla, cserép és kerámia keveréke | Elkülönített építési-bontási hulladékok* |
 
-| 17 05 04 | Föld és kövek | A hulladék nem tartalmazhatja a talaj humuszos rétegét, tőzeget, továbbá szennyezett területről származó földet, köveket |
+| 8 | 17 02 02 | Üveg |  |
 
-| 19 12 05 | Üveg |  |
+| 9 | 17 05 04 | Föld és kövek | A hulladék nem tartalmazhatja a talaj humuszos rétegét, tőzeget, továbbá szennyezett területről származó földet, köveket |
 
-| 20 01 02 | Üveg | Elkülönített üveg |
+| 10 | 19 12 05 | Üveg |  |
 
-| 20 02 02 | Talaj és kövek | A hulladék csak kertekből, parkokból származhat, és nem lehet benne humusz, illetve tőzeg |
+| 11 | 20 01 02 | Üveg | Elkülönített üveg |
 
-## * Az elkülönített építési és bontási hulladékok kis mennyiségben más összetevőket (pl. fémek, műanyagok, talaj, szerves anyagok, fa, gumi stb.) is tartalmazhatnak. A hulladék eredetét ismerni kell.
+| 12 | 20 02 02 | Talaj és kövek | A hulladék csak kertekből, parkokból származhat, és nem lehet benne humusz, illetve tőzeg |
 
-## Nem tekinthető inert építési és bontási hulladéknak az a hulladék, amely külön jogszabályban szabályozott szerves vagy szervetlen veszélyes összetevőket (pl. azbesztet, bitument) tartalmaz vagy az építés során ilyen anyagokat használtak, illetve az épületben olyan termékeket tároltak vagy gyártottak, amelyekkel az építőanyagok szennyeződhettek, és emiatt a hulladék már nem tekinthető inertnek.
+## * Az elkülönített építési-bontási hulladékok kis mennyiségben más összetevőket (pl. fémek, műanyagok, talaj, szerves anyagok, fa, gumi stb.) is tartalmazhatnak. A hulladék eredetét ismerni kell.
+
+## Nem tekinthető inert építési-bontási hulladéknak az a hulladék, amely külön jogszabályban szabályozott szerves vagy szervetlen veszélyes összetevőket (pl. azbesztet, bitument) tartalmaz vagy az építés során ilyen anyagokat használtak, illetve az épületben olyan termékeket tároltak vagy gyártottak, amelyekkel az építőanyagok szennyeződhettek, és emiatt a hulladék már nem tekinthető inertnek.
 
 ## Inert hulladéknak a lerakhatósági szempontok szerinti értékelését a kioldási vizsgálatok eredményei és a 2.1.–2. és 2.1.–3. táblázatban felsorolt határértékek összehasonlítása alapján kell elvégezni.
 
@@ -280,13 +282,13 @@
 
 ## 2.2.3. Átvételi követelmények vegyes összetételű (jelentős szervesanyag-tartalommal is rendelkező), nem veszélyes hulladék lerakására szolgáló hulladéklerakón (B3 kategória)
 
-## B3 alkategóriájú hulladéklerakón alapjellemzéshez szükséges vizsgálatok nélkül átvehetők a 2.1.–1. táblázatban felsorolt inert hulladékok, a külön jogszabály szerinti hulladékjegyzék EWC 20-as főcsoportjában felsorolt, vegyesen gyűjtött, nem veszélyes szilárd hulladékok, kivéve az EWC 20 01 41 kéménysöprésből származó hulladékot.
+## B3 alkategóriájú hulladéklerakón alapjellemzéshez szükséges vizsgálatok nélkül átvehetők a 2.1.–1. táblázatban felsorolt inert hulladékok, a külön jogszabály szerinti hulladékjegyzék 20-as azonosító kóddal jelölt főcsoportjában felsorolt, vegyesen gyűjtött, nem veszélyes szilárd hulladékok, kivéve a 20 01 41 azonosító kóddal jelölt kéménysöprésből származó hulladékot.
 
 ## Vizsgálatok alapján átvehető az EWC 20 01 41 kéménysöprésből származó hulladék, valamint más nem veszélyes hulladékok, ha eleget tesznek a B1b alkategóriájú hulladéklerakókra vonatkozó átvételi követelményeknek a 2.2.1.–1. táblázatban felsorolt határértékek alapján.
 
 ## Települési hulladékot fogadó hulladéklerakón átvehető
 
-## a) a nem fertőzőképes rácsszemét (EWC 19 08 01), valamint
+## a) a nem fertőzőképes rácsszemét (19 08 01 azonosító kóddal jelölt hulladéktípus), valamint
 
 ## b) a kommunális szennyvíztisztító üzemek nem fertőzőképes, víztelenítés után legalább 25%-os szárazanyag-tartalmú iszapja,
 
