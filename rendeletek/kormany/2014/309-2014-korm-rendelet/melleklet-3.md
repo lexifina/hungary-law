@@ -62,7 +62,7 @@ b) a képződött elsődleges hulladék mennyisége.
 
 2.2.2. Másodlagos hulladék képződése esetén:
 
-a)[^25] a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
+a)[^36] a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
 
 b) előkezelési művelet esetén az a) pontban előírt kód helyett a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
@@ -278,4 +278,4 @@ h) a tényleges hasznosítást, ártalmatlanítást végző külföldi telephely
 
 6.3. Adatjavítás esetén az adatjavításra vonatkozó magyarázat megjelölése.
 
-[^25]: A 3. melléklet 2.2.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^36]: A 3. melléklet 2.2.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.

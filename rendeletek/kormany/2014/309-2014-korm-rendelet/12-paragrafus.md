@@ -22,7 +22,7 @@ szerinti adattartalommal teljesíti.
 
 a) a nem veszélyes hulladék gyűjtésre, kereskedelemre és kezelésre történő átvételéről évente a tárgyévet követő év március 1. napjáig; valamint
 
-b)[^7] a veszélyes hulladék gyűjtésre, kereskedelemre és kezelésre történő átvételéről negyedévente a tárgynegyedévet követő 30. napig a 4. melléklet 1., 2. és 3. pontja szerint
+b)[^17] a veszélyes hulladék gyűjtésre, kereskedelemre és kezelésre történő átvételéről negyedévente a tárgynegyedévet követő 30. napig a 4. melléklet 1., 2. és 3. pontja szerint
 
 szolgáltat adatot.
 
@@ -32,4 +32,7 @@ a) a telephelyén a tárgynegyedévben hulladékot nem vett át, illetve
 
 b) kezelést a telephelyen a tárgynegyedévben nem folytatott.
 
-[^7]: A 12. § (4) bekezdés b) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+(6)[^18] A hulladéklerakó üzemeltetője az adatszolgáltatási kötelezettségét az 5. melléklet 2. és 3. pontja szerinti adattartalommal teljesíti. Az adattartalom mellékletként a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló 20/2006. (IV. 5.) KvVM rendelet 18. § (1) bekezdés szerinti összefoglaló jelentést (a továbbiakban: összefoglaló jelentés) csatolni kell.
+
+[^17]: A 12. § (4) bekezdés b) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^18]: A 12. § (6) bekezdését a 189/2017. (VII. 6.) Korm. rendelet 1. § (4) bekezdése iktatta be.
