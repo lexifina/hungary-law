@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-190-20-
 | --- | --- | --- |
 | 2017-07-10 | 2017-190-20-22.1 | 190/2017. (VII. 6.) Korm. rendelet |
 | 2017-07-11 | 2017-190-20-22.2 | 2010: CXXX. törvény |
+| 2017-08-05 | 2017-190-20-22.3 | 2010: CXXX. törvény |
