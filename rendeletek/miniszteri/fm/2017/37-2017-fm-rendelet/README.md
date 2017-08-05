@@ -1,0 +1,9 @@
+# 37/2017. (VII. 6.) FM rendelet
+
+a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló 20/2006. (IV. 5.) KvVM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-37-20-11
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-08-05 | 2017-37-20-11.1 | 37/2017. (VII. 6.) FM rendelet |
