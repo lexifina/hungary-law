@@ -42,7 +42,7 @@ bd) a személytaxi,
 
 be) a kétkerekű motorkerékpár és a kétkerekű segédmotoros kerékpár,
 
-bf)[^224] nemzetközi sportszövetség által rendezett nemzetközi sportesemény szervező bizottsága által – a nemzetközi sportesemény ideje alatt és azzal összefüggésben – használt, kormányhatározatban meghatározott jelzést viselő jármű a sportesemény helyszínéül szolgáló település területén
+bf)[^224]
 
 közlekedhet. Más jármű erre a forgalmi sávra – a sáv keresztezését és a bekanyarodásra felkészülést kivéve – nem hajthat rá. Ahol autóbusz forgalmi sáv van, a menetrend szerint közlekedő autóbusz és trolibusz – a bekanyarodás és kikerülés esetét kivéve – csak ebben a forgalmi sávban haladhat.
 
@@ -69,7 +69,7 @@ b) az irányváltoztatási szándékot jelző járműveket az irányváltoztatá
 [^221]: A 36. § (6) bekezdés b) pontja a 2/1984. (I. 29.) KM–BM együttes rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^222]: A 36. § (8) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^223]: Lásd a 12/2007. (III. 13.) IRM rendeletet.
-[^224]: A 36. § (8) bekezdés b) pont bf) alpontját a 190/2017. (VII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^224]: A 36. § (8) bekezdés b) pont bf) alpontját a 190/2017. (VII. 6.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. §-a.
 [^225]: A 36. § (9) bekezdése a 148/1992. (XI. 12.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg.
 [^226]: A 36. § (10) bekezdését a 28/2001. (II. 15.) Korm. rendelet 14. §-a iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
 [^227]: A 36. § (11) bekezdését a 28/2001. (II. 15.) Korm. rendelet 14. §-a iktatta a szövegbe.
