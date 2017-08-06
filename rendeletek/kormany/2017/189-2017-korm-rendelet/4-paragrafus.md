@@ -1,14 +1,17 @@
-## szöveg lép.
+## 2–3. §[^4]
 
 4. § (1) Hatályát veszti az R.
 
-a)[^2]
+a)[^5]
 
-b) 19. §-a,
+b)[^6]
 
-c)[^3]
+c)[^7]
 
-(2) Hatályát veszti az R. 1. § a) pontjában a „valamint” és a 10. § (1) bekezdésének b) pontjában a „vagy” szövegrész.
+(2)[^8]
 
-[^2]: A 4. § (1) bekezdés a) pontja az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
-[^3]: A 4. § (1) bekezdés c) pontja az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^4]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (1) bekezdés a) pontja az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^6]: A 4. § (1) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § (1) bekezdés c) pontja az 5. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^8]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

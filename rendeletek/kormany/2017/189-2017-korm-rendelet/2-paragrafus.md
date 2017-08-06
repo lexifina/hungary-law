@@ -1,1 +1,0 @@
-## „(3) Ha a környezetvédelmi hatóság a szakmai ellenőrzés során hibát tár fel, az ügyfelet erről haladéktalanul, az értesítési tárhelyre küldött értesítéssel értesíti. Az adatszolgáltatás javítására – az önellenőrzésen kívül – egy alkalommal kerülhet sor. Az adatszolgáltatást nem megfelelőnek kell tekinteni, ha az ügyfél azt 30 napon belül nem vagy nem megfelelően javítja ki.”
