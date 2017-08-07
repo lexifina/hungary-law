@@ -1,0 +1,11 @@
+A Kormány
+
+1. egyetért a Robert Capa Kortárs Fotográfiai Központ Nonprofit Kft. Budapest belterület 29356/0/A/2 helyrajzi számú, természetben az 1065 Budapest, Nagymező utca 8. szám alatt található épülete – a Robert Capa állandó kiállítás megvalósítása céljából történő – felújításának és bővítésének támogatásával;
+
+2. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások miniszterének bevonásával – gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében a 2017. évben szükséges 490 598 ezer forint forrás biztosításáról a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím, 2. Gazdasági társaságok által ellátott kulturális feladatok támogatása jogcímcsoport javára.
+
+Felelős: nemzetgazdasági miniszter
+
+emberi erőforrások minisztere
+
+Határidő: 2017. október 15.
