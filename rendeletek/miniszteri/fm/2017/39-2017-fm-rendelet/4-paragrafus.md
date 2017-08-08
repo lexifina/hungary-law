@@ -1,0 +1,3 @@
+## „(8b) A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában foglalt költségtámogatás általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén a költség nettó összegére, ÁFA-levonási joggal nem rendelkezők esetén a költség bruttó összegére vonatkozik.
+
+## (8c) A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában foglalt költségtámogatás esetén – a kezelési költségtámogatás kivételével – a támogatás összegét a támogatási kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.”

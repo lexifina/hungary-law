@@ -1,0 +1,3 @@
+## 1. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet [a továbbiakban: 148/2017. (XII. 8.) FVM rendelet] a következő 21. §-sal egészül ki:
+
+## „21. § E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelettel [a továbbiakban: 39/2017. (VIII. 7.) FM rendelet] megállapított 1. számú mellékletét a 39/2017. (VIII. 7.) FM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

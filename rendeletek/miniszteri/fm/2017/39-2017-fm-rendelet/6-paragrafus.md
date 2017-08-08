@@ -1,0 +1,3 @@
+## 5. § A 39/2011. (V. 18.) VM rendelet 6. § (2) bekezdésének záró szövegrésze helyébe a következő rendelkezés lép:
+
+## „hitelszerződése esetén a Kincstár a KAVOSZ Zrt. által megküldött adatok alapján, azok beérkezésétől számított harminc napon belül állítja ki és küldi meg a támogatástartalom-igazolást a mezőgazdasági vállalkozás részére, és a 2. § (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában foglalt, kezelési költségen kívüli költségtámogatás esetén a Kincstár a kérelem beérkezésétől számított hatvan napon belül tájékoztatja a mezőgazdasági vállalkozást a támogatástartalomról.”
