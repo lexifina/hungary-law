@@ -1,3 +1,5 @@
+## 88/A. §[^18] Egyéni vállalkozó az E-ügyintézési tv. 14. §-a szerinti hivatalos elérhetőségként a Kormány által biztosított tárhelyek közül a KÜNY-regisztrációhoz kapcsolódó tárhelyét jelenti be a rendelkezési nyilvántartásba.
+
 ## Gazdálkodó szervezetek számára biztosított tárhely
 
 89. § (1) A kézbesítési szolgáltatáshoz kötődő, biztonságos kézbesítési szolgáltatási címnek minősülő, a kijelölt szolgáltató által a gazdálkodó szervezetek számára biztosított tárhelyre (a továbbiakban: cégkapu) a hivatali tárhelyre vonatkozó rendelkezések a e §-ban foglalt eltérésekkel alkalmazandók. A gazdálkodó szervezet egy cégkapuval rendelkezik.
@@ -10,7 +12,7 @@
 
 (5) A cégkapu szolgáltató – ha a gazdálkodó szervezet ezzel ellentétesen nem rendelkezik – a gazdálkodó szervezet nevében a cégkapu címet a rendelkezési nyilvántartásba, mint a gazdálkodó szervezet hivatalos elérhetősége, bejelenti. Ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele szükséges, a cégkapu szolgáltató e jogosultságával csak akkor él, ha a gazdálkodó szervezet a rá vonatkozó nyilvántartásban szerepel.
 
-(6) A cégkapu használója, azon keresztül valamely szervezet nevében tevékenységet végző, az E-ügyintézési tv. 35. § (1) bekezdés a) vagy b) pontja szerinti KASZ-szal rendelkező és e KASZ segítségével magát azonosító természetes személy vagy a gazdálkodó szervezetnek a cégkapuhoz csatlakozott informatikai rendszere lehet.
+(6)[^19] A cégkapu használója, azon keresztül valamely szervezet nevében tevékenységet végző, az E-ügyintézési tv. 35. § (1) bekezdés a) vagy b) pontja szerinti KASZ-szal rendelkező és e KASZ segítségével magát azonosító természetes személy lehet.
 
 (7) A cégkapu szolgáltató a szolgáltatást megszünteti, ha azt a gazdálkodó szervezet kéri, vagy ha annak a cégkapu használatára vonatkozó jogosultsága megszűnt.
 
@@ -23,3 +25,6 @@
 (11) A gazdálkodó szervezet a cégkapumegbízott jogosultságának megszűnéséről 5 munkanapon belül, az új cégkapumegbízott bejelentésével egyidejűleg köteles értesíteni a szolgáltatót.
 
 (12) A szolgáltató a cégkapumegbízottakról történeti nyilvántartást vezet, hogy tanúsítani lehessen, adott időszakban ki volt feljogosítva a cégkapu kezelésére.
+
+[^18]: A 88/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^19]: A 89. § (6) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

@@ -11,3 +11,10 @@ b) amely automatizált feldolgozásra alkalmas, strukturált módon tartalmazza 
 (3) A szolgáltató biztosítja az űrlaphoz elektronikus dokumentumok, beleértve az e § szerinti elektronikus űrlapok csatolhatóságát.
 
 (4) A szolgáltatás része a kitöltött űrlapot és csatolmányait tartalmazó elektronikus dokumentum hivatali tárhelyre történő kézbesítésre átadása a biztonságos kézbesítési szolgáltatás részére.
+
+(5)[^24] A szolgáltató az azonosítás során megismert, valamint az űrlapon megadott adatok alapján – az ügyfél hozzájárulása esetén – az elektronikusan hozzáférhető nyilvántartásokból az űrlapadatokkal történő kiegészítését biztosíthatja. Az űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő elektronikus ügyintézést biztosító szerv az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.
+
+(6)[^25] Az elektronikus ügyintézést biztosító szerv köteles biztosítani, hogy az űrlap automatikus kitöltésű rovatai csak olyan adatokat tartalmazzanak, amelyekre az adatkezelési jogosultsága fennáll.
+
+[^24]: A 116. § (5) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^25]: A 116. § (6) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be.

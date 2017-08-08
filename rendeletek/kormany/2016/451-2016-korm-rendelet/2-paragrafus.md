@@ -30,4 +30,8 @@
 
 14. zárt védelem: az összes számításba vehető fenyegetést figyelembe vevő védelem;
 
-15. zárt rendszer: rendeltetése szerint elkülönült elektronikus információs rendszer, amely kizárólagosan a speciális igények kielégítését, az e célra létrehozott szervezet és technika működését szolgálja, működése jogszabályon vagy meghatározott résztvevők közötti megállapodáson alapul, és harmadik felet nem érint.
+15. zárt rendszer: rendeltetése szerint elkülönült elektronikus információs rendszer, amely kizárólagosan a speciális igények kielégítését, az e célra létrehozott szervezet és technika működését szolgálja, működése jogszabályon vagy meghatározott résztvevők közötti megállapodáson alapul, és harmadik felet nem érint;
+
+16.[^1] adat- és iratmegnevezések jegyzékének szerkesztőbizottsága: az adat- és iratmegnevezések jegyzékének összeállítását és folyamatos aktualizálását végző, az Elektronikus Ügyintézési Felügyeleten belül működő testület.
+
+[^1]: A 2. § 16. pontját a 221/2017. (VIII. 7.) Korm. rendelet 7. § (1) bekezdése iktatta be.
