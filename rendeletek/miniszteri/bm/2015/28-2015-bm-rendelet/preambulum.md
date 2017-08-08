@@ -1,1 +1,0 @@
-Az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló 2013. évi CCXX. törvény 16. § (2) és (4) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 5. és 13. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
