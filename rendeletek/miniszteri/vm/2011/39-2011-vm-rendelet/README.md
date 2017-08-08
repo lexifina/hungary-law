@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-39-20-2
 | 2017-01-01 | 2011-39-20-2Y.17 | 94/2013. (X. 10.) VM rendelet |
 | 2017-02-14 | 2011-39-20-2Y.18 | 6/2017. (II. 13.) FM rendelet |
 | 2017-04-11 | 2011-39-20-2Y.19 | 17/2017. (IV. 10.) FM rendelet |
+| 2017-08-08 | 2011-39-20-2Y.20 | 77/2015. (XII. 1.) FM rendelet |

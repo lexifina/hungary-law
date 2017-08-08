@@ -42,7 +42,7 @@ c)[^12] költségtámogatás.
 
 (6)[^14] A támogatástartalom kiszámítása a Korm. rendelet 2. számú mellékletében foglaltak alapján történik azzal, hogy a támogatástartalom forint összegének kiszámításánál az igénylés benyújtásának időpontjában érvényes adatokat kell figyelembe venni, továbbá a (8a) bekezdés szerinti támogatás megállapításának időpontjában hatályos hitelszerződés esetén kizárólag a támogatásnövekményt kell figyelembe venni.
 
-(7)[^15] A (4) bekezdésben meghatározott támogatások azon Folyószámlahitel esetén vehetők igénybe, amelynek összege százezer forint pozitív egész számú többszöröse, de minimum ötszázezer forint, maximum 50 millió forint, és futamideje legfeljebb 3 év.
+(7)[^15] A (4) bekezdésben meghatározott támogatások azon Folyószámlahitel esetén vehetők igénybe, amelynek összege százezer forint pozitív egész számú többszöröse, de minimum ötszázezer forint, maximum 100 millió forint, és futamideje legfeljebb 3 év.
 
 (8)[^16] A támogatás mértéke – kivéve a (8a) bekezdésben foglalt eseteket –
 
@@ -70,11 +70,19 @@ bb)[^22] az 51/2016. (VII. 21.) FM rendelet hatálybalépését[^23] megelőzőe
 
 bc)[^25] az 51/2016. (VII. 21.) FM rendelet hatálybalépése és 2017. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződések esetében a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslésének költsége, az egyszeri közjegyzői díj, a hitel teljes futamidejére megfizetett bírálati díj, a szerződéskötési díj együttes összegének 100%-ára, valamint a ba) alpontban meghatározott szabályok szerint kiszámított kezelési költség 100%-ára vonatkozó költségtámogatás,
 
-bd) az 51/2016. (VII. 21.) FM rendelet hatálybalépését megelőzően hatályba lépett hitelszerződések esetében az 51/2016. (VII. 21.) FM rendelet hatálybalépését követően esedékessé váló, a fedezetek egy alkalommal történő értékbecslésének költsége, az egyszeri közjegyzői díj, a hitel hátralévő futamideje alatt esedékes bírálati díj, a különdíj együttes összegének 100%-ára, valamint a ba) alpontban meghatározott szabályok szerint kiszámított kezelési költség 100%-ára vonatkozó költségtámogatás.
+bd) az 51/2016. (VII. 21.) FM rendelet hatálybalépését megelőzően hatályba lépett hitelszerződések esetében az 51/2016. (VII. 21.) FM rendelet hatálybalépését követően esedékessé váló, a fedezetek egy alkalommal történő értékbecslésének költsége, az egyszeri közjegyzői díj, a hitel hátralévő futamideje alatt esedékes bírálati díj, a különdíj együttes összegének 100%-ára, valamint a ba) alpontban meghatározott szabályok szerint kiszámított kezelési költség 100%-ára vonatkozó költségtámogatás,
 
-(8b)[^26] A (8a) bekezdés a) pont ac) és ad) alpontjában, valamint a (8a) bekezdés b) pont bc) és bd) alpontjában foglalt költségtámogatás általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén a költség nettó összegére, ÁFA-levonási joggal nem rendelkezők esetén a költség bruttó összegére vonatkozik.
+c)[^26] a 4. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő, a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja[^27] és 2017. december 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező mezőgazdasági vállalkozás esetében a támogatás mértéke
 
-(8c)[^27] A (8a) bekezdés a) pont ac) és ad) alpontjában, valamint a (8a) bekezdés b) pont bc) és bd) alpontjában foglalt költségtámogatás esetén – a kezelési költségtámogatás kivételével – a támogatás összegét a támogatási kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
+ca) a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű, összes földterület minden megkezdett hektárja után számított, legfeljebb 1 000 000 forint összegű hitelkeret alapján igénybe vett folyószámlahitel esedékes kamatfizetései tekintetében 100% kamattámogatás a hitel teljes futamidejére úgy, hogy a hitelkeret 100%-os kamattámogatású részén felüli része terhére igénybe vett folyószámlahitel után a kamattámogatás mértéke megegyezik a (8) bekezdés a) pontjában foglalt mértékkel, amely a rá vonatkozó szabályok szerint vehető igénybe, és ahol a kamattámogatás számítása történhet az átlagos hitelösszegből kiinduló módszertan alapján,
+
+cb) a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű, összes földterület minden megkezdett hektárja után számított, legfeljebb 1 000 000 forint összegű folyószámla hitelkeretre eső kezességi díjak tekintetében 100% kezességi díjtámogatás a kezességvállalás teljes idejére úgy, hogy a hitelkeret 100%-os kezességi díjtámogatású részén felüli részére számított kezességi díjtámogatás mértéke megegyezik a (8) bekezdés b) pontjában foglalt mértékkel, és amely a rá vonatkozó szabályok szerint vehető igénybe,
+
+cc) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslésének költsége, az egyszeri közjegyzői díj, a hitel teljes futamidejére megfizetett bírálati díj, a szerződéskötési díj együttes összegének 100%-ára, valamint a ca) alpontban meghatározott szabályok szerint kiszámított kezelési költség 100%-ára vonatkozó költségtámogatás.
+
+(8b)[^28] A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában foglalt költségtámogatás általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén a költség nettó összegére, ÁFA-levonási joggal nem rendelkezők esetén a költség bruttó összegére vonatkozik.
+
+(8c)[^29] A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában foglalt költségtámogatás esetén – a kezelési költségtámogatás kivételével – a támogatás összegét a támogatási kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
 (9) Az Agrár Széchenyi Kártya Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatásakor a de minimis támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
@@ -82,7 +90,7 @@ bd) az 51/2016. (VII. 21.) FM rendelet hatálybalépését megelőzően hatályb
 [^12]: A 2. § (4) bekezdés c) pontját a 77/2015. (XII. 1.) FM rendelet 13. § (2) bekezdése iktatta be.
 [^13]: A 2. § (5) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^14]: A 2. § (6) bekezdése a 77/2015. (XII. 1.) FM rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^15]: A 2. § (7) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § (7) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (2) bekezdésével megállapított, a 39/2017. (VIII. 7.) FM rendelet 7. §-a szerint módosított szöveg.
 [^16]: A 2. § (8) bekezdése a 25/2016. (IV. 11.) FM rendelet 20. §-ával megállapított szöveg.
 [^17]: A 2. § (8a) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
 [^18]: A 2. § (8a) bekezdés b) pont nyitó szövegrésze a 78/2016. (XII. 12.) FM rendelet 12. § a) pontja, a 17/2017. (IV. 10.) FM rendelet 7. § a) pontja szerint módosított szöveg.
@@ -93,5 +101,7 @@ bd) az 51/2016. (VII. 21.) FM rendelet hatálybalépését megelőzően hatályb
 [^23]: A hatálybalépés időpontja 2016. július 22.
 [^24]: A hatálybalépés időpontja 2017. április 11.
 [^25]: A 2. § (8a) bekezdés b) pont bc) alpontja a 78/2016. (XII. 12.) FM rendelet 12. § b) pontja, a 17/2017. (IV. 10.) FM rendelet 7. § b) pontja szerint módosított szöveg.
-[^26]: A 2. § (8b) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
-[^27]: A 2. § (8c) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
+[^26]: A 2. § (8a) bekezdés c) pontját a 39/2017. (VIII. 7.) FM rendelet 3. § (1) bekezdése iktatta be.
+[^27]: A hatálybalépés időpontja 2017. augusztus 8.
+[^28]: A 2. § (8b) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^29]: A 2. § (8c) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
