@@ -1,3 +1,6 @@
-## 17. § A tervezet 2. § (3) és (6) bekezdésében meghatározott támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 9. o.) hatálya alá tartozó támogatást tartalmaz.
+## 18. §[^5] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelettel [a továbbiakban: 39/2017. (VIII. 7.) FM rendelet] megállapított 7. § (1) bekezdés a) pontját, 7. § (3) bekezdés a) és b) pontját, valamint 8. § (9) bekezdését a 39/2017. (VIII. 7.) FM rendelet hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 20/2017. (IV. 26.) FM rendelethez
+
+[^5]: A 18. §-t a 39/2017. (VIII. 7.) FM rendelet 21. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2017. augusztus 8.

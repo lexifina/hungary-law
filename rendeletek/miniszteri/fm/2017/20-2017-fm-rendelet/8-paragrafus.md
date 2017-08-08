@@ -50,7 +50,7 @@ e) az egyedi támogatási kérelmet benyújtó ügyfél által tett, az egy és 
 
 (8) A támogatásra vonatkozó döntést a Bíráló Bizottság javaslata alapján és bevonásával a miniszter hozza meg, és az (1)–(3) célterületek esetében a döntéséről értesíti a Herman Ottó Intézetet.
 
-(9) A pályázatokat, valamint az egyedi támogatási kérelmeket a pályázati felhívásokban, illetve a felhívásokban meghatározott határidőn belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak, illetve az egyedi támogatási kérelmet benyújtó ügyfélnek lehetősége van a pályázati tartalmat, valamint az egyedi támogatási kérelemben foglalt szakmai tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
+(9)[^4] A pályázatokat, valamint az egyedi támogatási kérelmeket a benyújtási határidő utolsó napját követő kilencven naptári napon belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak, illetve az egyedi támogatási kérelmet benyújtó ügyfélnek lehetősége van a pályázati tartalmat, valamint az egyedi támogatási kérelemben foglalt szakmai tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
 
 (10) A támogatási döntésről – annak meghozatalát követő tíz naptári napon belül – pályázat esetében a Herman Ottó Intézet, egyedi támogatási kérelem esetében a miniszter írásban értesíti az érintett ügyfeleket.
 
@@ -73,3 +73,5 @@ g) a támogatási döntésszám,
 h) a támogatási döntés meghozatalának időpontja,
 
 i) a támogatásban részesülő ügyfél nyilatkozata szerint kapott valamennyi, az általános csekély összegű rendelet hatálya alá tartozó csekély összegű támogatás euróban kifejezett összege.
+
+[^4]: A 8. § (9) bekezdése a 39/2017. (VIII. 7.) FM rendelet 22. § c) pontja szerint módosított szöveg.
