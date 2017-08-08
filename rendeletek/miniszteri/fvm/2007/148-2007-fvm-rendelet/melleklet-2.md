@@ -8,7 +8,7 @@
 
 | 4. | A002 | Szarvasmarha-brucellózis | szarvasmarha, bivaly | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
-| 5. | A003 | Enzootiás szarvasmarha-leukózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
+| 5. | A003 | Enzootiás szarvasmarha- leukózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
 | 6. | B002 | IBR/IPV | szarvasmarha, bivaly | Immunizálás: Kis létszámú állattartó telep: 1400 Ft/egyed/alkalom Nagy létszámú állattartó telep: 400 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa, VN: 1120 Ft, PCR: 5500 Ft |
 
@@ -48,7 +48,7 @@
 
 | 24. | B012 | Myxomatózis elleni vakcinázás | házinyúl | Vakcinázás: 250 Ft/alkalom/vakcina |
 
-| 25. | B013 | Nyulak vérzéses betegsége (RHDV) elleni vakcinázás | házinyúl | Vakcinázás: 250 Ft/alkalom/vakcina |
+| 25. | B013 | Nyulak vérzéses betegsége (RHDV) elleni vakcinázás | házinyúl | Vakcinázás: 300 Ft/alkalom/vakcina |
 
 | 26. | E001 | Takonykór (Malleus) | egypatások | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: KK: 1000 Ft |
 
@@ -84,7 +84,7 @@
 
 ## Mintavételi eljárások esetében, amennyiben az állatokat többféle betegség kapcsán szeretnék bevizsgálni, azt csak egyszeri vérvétellel lehet megtenni (többszörös vérvétel nem számolható el).
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^98]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^100]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -138,23 +138,23 @@
 
 4.3. arról, hogy valamennyi állat-egészségügyi nyilvántartásba vételi, nyilvántartási és adatszolgáltatási kötelezettségnek eleget tett;
 
-4.4.[^99] arról, hogy a mentesítési programok esetében az állatállományára a megyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
+4.4.[^101] arról, hogy a mentesítési programok esetében az állatállományára a megyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
 
 4.5. arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
-4.7.[^100] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
+4.7.[^102] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
 
-4.8.[^101]
+4.8.[^103]
 
-4.9.[^102] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
+4.9.[^104] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
 
 a) a kérelmező a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk b) pontja szerinti terméket előállító vállalkozásnak minősül, és
 
 b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módosított szervezetek tartására végezteti el.
 
-5.[^103] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
+5.[^105] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
 
 6. Keltezés, az ügyfél cégszerű aláírása
 
@@ -162,9 +162,9 @@ b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módo
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^98]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
-[^99]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
-[^100]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^101]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 78/2016. (XII. 12.) FM rendelet 9. § d) pontja.
-[^102]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^103]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
+[^100]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
+[^101]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
+[^102]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^103]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 78/2016. (XII. 12.) FM rendelet 9. § d) pontja.
+[^104]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^105]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
