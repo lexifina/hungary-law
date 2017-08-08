@@ -26,10 +26,10 @@ a) visszavonta, az aláírás vagy bélyegző a visszavonás időpontjától,
 
 b) felfüggesztette, az aláírás vagy bélyegző a felfüggesztés időtartama alatt
 
-## dokumentumhitelesítésre nem alkalmas.
+dokumentumhitelesítésre nem alkalmas.
 
 (7) Az (5) bekezdés b) és c) pontja szerinti információkat a tanúsítvány érvényességének lejártától számított 10 évig kell a honlapon hozzáférhetővé tenni.
 
-(8)[^1] Az e § és a 6. alcím szerinti tanúsítvány tekintetében a minősített tanúsítványok esetén a (2) bekezdés szerinti regisztrációt a személyes megjelenéssel egyenértékűnek kell tekinteni.
+(8)[^15] Az e § és a 6. alcím szerinti tanúsítvány tekintetében a (2) bekezdés szerinti regisztrációt a személyes megjelenéssel egyenértékűnek kell tekinteni.
 
-[^1]: A 13. § (8) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 86. §-a iktatta be.
+[^15]: A 13. § (8) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 86. §-a iktatta be, szövege a 221/2017. (VIII. 7.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

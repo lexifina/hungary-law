@@ -6,7 +6,7 @@ a) a személy kérelmére az általa megadott adatokkal, az E-ügyintézési tv.
 
 b) jogszabály felhatalmazása alapján, állami nyilvántartás adataira alapozva
 
-## kerülhet sor.
+kerülhet sor.
 
 (3) Az előre elkészített aláírás létrehozásához használt adat és elektronikus aláírást létrehozó eszköz a személy részére átadható
 
