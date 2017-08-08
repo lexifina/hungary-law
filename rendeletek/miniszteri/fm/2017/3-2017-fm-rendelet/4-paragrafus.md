@@ -1,4 +1,4 @@
-4. § (1) A tejtermelőnek az 1. mellékletben meghatározott adattartalmú kifizetési kérelmét, valamint annak mellékleteit elektronikus úton, ügyfélkapun keresztül 2017. május 31. és 2017. június 12. között, az erre szolgáló elektronikus felületen kell benyújtania a Kincstárhoz. A benyújtásra vonatkozó határidő jogvesztő.
+4. § (1)[^3] A tejtermelőnek az 1. mellékletben meghatározott adattartalmú kifizetési kérelmét, valamint annak mellékleteit elektronikus úton, ügyfélkapun keresztül 2017. május 31. és 2017. június 30. között, az erre szolgáló elektronikus felületen kell benyújtania a Kincstárhoz. A benyújtásra vonatkozó határidő jogvesztő.
 
 (2) Egy tejtermelő egy kifizetési kérelmet nyújthat be.
 
@@ -17,3 +17,5 @@ b) a tej- és tejtermék-ágazatban működő termelői szervezetek és társul�
 ## az (5) bekezdés szerint meghatározottnál 30%-kal magasabb egységnyi támogatásra jogosult.
 
 (7) A Kincstár a kifizetési kérelemről döntést hoz és – a szükséges forrás rendelkezésre állása esetén – 2017. augusztus 30-áig intézkedik a támogatás összegének a kérelmező ügyfél-nyilvántartási rendszerbe bejelentett fizetési számlájára történő átutalásáról.
+
+[^3]: A 4. § (1) bekezdése a 39/2017. (VIII. 7.) FM rendelet 20. §-a szerint módosított szöveg.
