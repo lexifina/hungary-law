@@ -10,7 +10,7 @@ ab) ellátja a címváltozásokkal összefüggő, jogszabályban meghatározott 
 
 ac) az aa)-ab) alpontban meghatározott feladatok elvégzéséről haladéktalanul értesíti a címképzésért felelős szervet,
 
-ad) gondoskodik a központi címregiszterben tárolt adatokban bekövetkezett változásokat igazoló okiratok őrzéséről,
+ad)[^9] gondoskodik a központi címregiszterben tárolt adatokban bekövetkező, a címképzésért felelős szerv hatáskörébe nem tartozó változásokat igazoló okiratok őrzéséről,
 
 ae) biztosítja a központi címregiszterben tárolt adatokban bekövetkezett változások nyomon követhetőségét;
 
@@ -24,3 +24,4 @@ bc) a címek rögzítéséhez szükséges elektronikus alkalmazás felhasználó
 
 [^7]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 284. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 284. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdés a) pont ad) alpontja a 221/2017. (VIII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
