@@ -1,22 +1,26 @@
 ## 2. A támogatás célja, mértéke és forrása
 
-2. § (1)[^5] E rendelet alapján
+2. § (1)[^4] E rendelet alapján
 
 a) az 1. mellékletben szereplő településen működő és a hitelprogram keretében 2016. június 30-áig megkötött hitelszerződéssel rendelkező és a 2. mellékletben meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban 2015. április 30-át követően esedékes, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult,
 
 b) az egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű földterülettel rendelkező,
 
-ba)[^6] kizárólag a 3. mellékletben szereplő településen működő és a hitelprogram keretében 2017. május 31-ig megkötött hitelszerződéssel rendelkező vagy
+ba)[^5] kizárólag a 3. mellékletben szereplő településen működő és a hitelprogram keretében 2017. május 31-ig megkötött hitelszerződéssel rendelkező vagy
 
-bb)[^7] az 1. és 3. mellékletben egyaránt szereplő településen működő és a hitelprogram keretében 2016. június 30-át követően, de legkésőbb 2017. május 31-ig megkötött hitelszerződéssel rendelkező
+bb)[^6] az 1. és 3. mellékletben egyaránt szereplő településen működő és a hitelprogram keretében 2016. június 30-át követően, de legkésőbb 2017. május 31-ig megkötött hitelszerződéssel rendelkező
 
-## vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet hatálybalépésének napjától kezdődően esedékessé vált, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult.
+## vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet hatálybalépésének napjától kezdődően esedékessé vált, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult,
+
+c)[^7] a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű földterülettel rendelkező, a 4. mellékletben szereplő településen működő és a hitelprogram keretében a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja[^8] és 2017. december 31. között (a határnapokat is beleértve) megkötött hitelszerződéssel rendelkező vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napjától kezdődően esedékessé vált, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult.
 
 (2) A támogatás mértéke a hitelbírálati díj, a szerződéskötési díj, a közjegyzői díj, a fedezetek értékbecslési költsége, a rendelkezésre tartási jutalék és a kezelési költség – általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén nettó összegének, ÁFA-levonási joggal nem rendelkezők esetén bruttó összegének 100%-a – azzal, hogy a támogatás együttes összege nem haladhatja meg a vállalkozás és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás rendelkezésére álló szabad csekély összegű támogatási keretet. A hitelbírálati díjjal, a szerződéskötési díjjal, a közjegyzői díjjal összefüggésben a hitel futamideje alatt csak egy alkalommal felmerült költséggel összefüggésben igényelhető támogatás.
 
-(3)[^8] A kamattámogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
+(3)[^9] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
-[^5]: A 2. § (1) bekezdése az 51/2016. (VII. 21.) FM rendelet 30. §-ával megállapított szöveg.
-[^6]: A 2. § (1) bekezdés b) pont ba) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdés b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
-[^8]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 30. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdése az 51/2016. (VII. 21.) FM rendelet 30. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés b) pont ba) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés c) pontját a 39/2017. (VIII. 7.) FM rendelet 17. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2017. augusztus 8.
+[^9]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 30. §-ával megállapított, a 39/2017. (VIII. 7.) FM rendelet 19. § a) pontja szerint módosított szöveg.

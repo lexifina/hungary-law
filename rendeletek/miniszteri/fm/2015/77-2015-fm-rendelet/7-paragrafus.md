@@ -36,6 +36,6 @@ b) a harmadik országokba vagy tagállamokba irányuló exporttal kapcsolatos te
 
 c) az importáruval szemben belföldi áru használatához kötött támogatásként.
 
-(5)[^14] Az 1407/2013/EU bizottsági rendelet, valamint az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+(5)[^17] Az 1407/2013/EU bizottsági rendelet, valamint az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
-[^14]: A 7. § (5) bekezdését a 65/2016. (IX. 21.) FM rendelet 33. §-a iktatta be.
+[^17]: A 7. § (5) bekezdését a 65/2016. (IX. 21.) FM rendelet 33. §-a iktatta be.

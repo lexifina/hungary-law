@@ -16,19 +16,20 @@ b) mezőgazdasági csekély összegű támogatás: az Európai Unió működés�
 
 5. támogatástartalom: a 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontja szerinti érték;
 
-6.[^1] vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, az 1., illetve 3. mellékletben szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen, a 2. mellékletben meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében
+6.[^1] vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, az 1., 3., illetve 4. mellékletben szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő – kizárólag az 1. mellékletben szereplő település esetében a 2. mellékletben meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő – hitelfelvevő, aki a hitelprogram keretében
 
-a) kizárólag az 1. mellékletben szereplő település esetén 2016. június 30-áig,
+a) kizárólag az 1. mellékletben szereplő település esetén 2016. június 30-ig,
 
-b)[^2] kizárólag a 3. mellékletben szereplő település esetén 2017. május 31-ig,
+b) kizárólag a 3. mellékletben szereplő település esetén 2017. május 31-ig,
 
-c)[^3] az 1. és 3. mellékletben egyaránt szereplő település esetén 2017. május 31-ig
+c) az 1. és 3. mellékletben egyaránt szereplő település esetén 2017. május 31-ig,
+
+d) a 4. mellékletben szereplő település esetén a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelet [a továbbiakban: 39/2017. (VIII. 7.) FM rendelet] hatálybalépésének napja[^2] és 2017. december 31. között (határnapokat is beleértve)
 
 ## megkötött hitelszerződéssel rendelkezik;
 
-7.[^4] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+7.[^3] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
-[^1]: Az 1. § 6. pontja az 51/2016. (VII. 21.) FM rendelet 29. §-ával megállapított szöveg.
-[^2]: Az 1. § 6. pont b) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
-[^3]: Az 1. § 6. pont c) alpontja a 78/2016. (XII. 12.) FM rendelet 20. §-a, a 17/2017. (IV. 10.) FM rendelet 19. §-a szerint módosított szöveg.
-[^4]: Az 1. § 7. pontját az 51/2016. (VII. 21.) FM rendelet 29. §-a iktatta be.
+[^1]: Az 1. § 6. pontja a 39/2017. (VIII. 7.) FM rendelet 16. §-ával megállapított szöveg.
+[^2]: A hatálybalépés időpontja 2017. augusztus 8.
+[^3]: Az 1. § 7. pontját az 51/2016. (VII. 21.) FM rendelet 29. §-a iktatta be.
