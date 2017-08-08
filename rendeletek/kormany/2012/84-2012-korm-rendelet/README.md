@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-2
 | 2016-07-01 | 2012-84-20-22.17 | 123/2016. (VI. 7.) Korm. rendelet |
 | 2017-01-01 | 2012-84-20-22.18 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-11 | 2012-84-20-22.19 | 78/2017. (IV. 6.) Korm. rendelet |
+| 2017-08-08 | 2012-84-20-22.20 | 221/2017. (VIII. 7.) Korm. rendelet |

@@ -38,7 +38,7 @@ m)[^17] az általános célú elektronikus kéreleműrlap szolgáltatás vonatko
 
 n)[^18] a papíralapú irat átalakítása hiteles elektronikus irattá, valamint az elektronikus irat hiteles papír alapú irattá alakítása szolgáltatás vonatkozásában a Magyar Posta Zrt.-t,
 
-o)[^19]
+o)[^19] a központi kormányzati szolgáltatás busz szolgáltatás vonatkozásában az IdomSoft Zrt.-t,
 
 p)[^20]
 
@@ -66,7 +66,7 @@ t)[^24] a központi kézbesítési ügynök szolgáltatás tekintetében a NISZ 
 [^16]: A 4. § l) pontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^17]: A 4. § m) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (7) bekezdésével megállapított szöveg.
 [^18]: A 4. § n) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (14) bekezdés d) pontja szerint módosított szöveg.
-[^19]: A 4. § o) pontját a 252/2013. (VII. 4.) Korm. rendelet 3. § (5) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés c) pontja.
+[^19]: A 4. § o) pontját újonnan a 221/2017. (VIII. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^20]: A 4. § p) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés c) pontja.
 [^21]: A 4. § q) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
 [^22]: A 4. § r) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
