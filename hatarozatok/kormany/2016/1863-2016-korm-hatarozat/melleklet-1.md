@@ -10,9 +10,9 @@
 
 ## 5. Ez a határozat 2017. január 1-jén lép hatályba.
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1863/2016. (XII. 28.) Korm. határozathoz[^2]
+1. melléklet az 1863/2016. (XII. 28.) Korm. határozathoz[^3]
 
 A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -266,6 +266,10 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 61. | PLATINUM WOLF | HFKP | Szerbia | II–III. n. é. | 50 |
 
+| 62. | CARPATHIAN HAWK 2017 harcászati repülőgép gyakorlat | MH ÖHP | Magyarország | III–IV. n.é. | 150 |
+
+| 63. | Közép-Európai Védelmi Együttműködési (CEDC) határvédelmi gyakorlat | MH ÖHP | Ausztria | III–IV. n.é. | 150 |
+
 3. Magyarország területén és légterén történő áthaladások és átrepülések
 
 | Fsz. | A tevékenység megnevezése | A feladat tervezett időpontja | Engedélyezett létszám |
@@ -310,5 +314,5 @@ A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 20. | NFIU HUN csapatmozgások | I–IV. n. é. | egyidejűleg legfeljebb 50 |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1450/2017. (VII. 10.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1450/2017. (VII. 10.) Korm. határozat 1. pontja, az 1496/2017. (VIII. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
