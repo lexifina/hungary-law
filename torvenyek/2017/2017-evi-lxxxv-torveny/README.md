@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-85-00-00
 | --- | --- | --- |
 | 2017-06-27 | 2017. évi LXXXV. törvény | 2017-85-00-00.0 (közlönyállapot) |
 | 2017-06-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-85-00-00.1 |
+| 2017-08-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-85-00-00.2 |
