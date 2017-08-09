@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti az anyakönyvi szakvizsgáról szóló 9/2007. (III. 6.) IRM rendelet.
+## 10. §[^1]
 
 1. melléklet a 23/2017. (VIII. 7.) MvM rendelethez
 
@@ -36,4 +36,5 @@ Kelt: ........................................, ............ év ...............
 
 | munkáltató | jelölt |
 
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^*]: A megfelelő rész aláhúzandó.
