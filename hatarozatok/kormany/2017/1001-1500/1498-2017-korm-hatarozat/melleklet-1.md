@@ -50,15 +50,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016.
-
-## (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) B:96 mezőjében a „Kaposvár megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a megyeszékhely vasúti elővárosi körzetében I. ütem” szövegrész helyébe a „Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése” szöveg,
-
-## b) D:96 mezőjében a „10,50” szövegrész helyébe a „14,10” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1498/2017. (VIII. 8.) Korm. határozathoz
 
@@ -69,3 +61,5 @@
 | 2. | Projekt előkészítésének le nem vonható, az Európai Unió felé el nem számolható általános forgalmi adóval növelt összköltsége legfeljebb (Ft) | Projekt Integrált Közlekedésfejlesztési Operatív Program (a továbbiakban: IKOP) támogatása (Ft) | Projekt megvalósításának le nem vonható, az Európai Unió felé el nem számolható, általános forgalmi adóval növelt összköltsége legfeljebb (Ft) | Projekt IKOP keretében finanszírozandó támogatása (Ft) |
 
 | 3. | IKOP-3.2.0-15- 2016-00016 | Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság és a Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság konzorciuma | 1 720 330 383 | 1 510 494 954 | 17 679 521 106 | 14 076 786 862 | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

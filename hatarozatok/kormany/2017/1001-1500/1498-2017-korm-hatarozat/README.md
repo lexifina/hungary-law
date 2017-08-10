@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1498-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-08-09 | 2017-1498-30-22.1 | 1498/2017. (VIII. 8.) Korm. határozat |
+| 2017-08-10 | 2017-1498-30-22.2 | 2010: CXXX. törvény |
