@@ -1,0 +1,5 @@
+## tesz eleget.
+
+5. § (1) A járó-, illetve a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a 2. § (1) bekezdés 4. pont b) alpontja szerinti gyógyszerhulladék lakosságtól történő átvételét, gyűjtését, elszállítását és kezelését az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló miniszteri rendelet szerint, valamint e rendelet szerint teljesíti.
+
+(2) A járó-, illetve a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató gondoskodik arról, hogy a 2. § (1) bekezdés 4. pont b) alpontja szerinti gyógyszerhulladék gyűjtésére alkalmas gyűjtőedények a betegforgalom számára nyitva álló helyiségében nyitvatartási időben speciális gyűjtőhelyre legyenek telepítve.
