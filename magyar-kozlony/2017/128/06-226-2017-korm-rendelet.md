@@ -1,0 +1,82 @@
+# A Kormány 226/2017. (VIII. 11.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 128. szám, 2017. augusztus 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6f5da713fbb774a5bdc0370f50f9456501d36c59/dokumentumok/84fad77cfe6a9e9dc8ff4bc4d20be221c48a16b6/letoltes)
+
+---
+
+A Kormány 226/2017. (VIII. 11.) Korm. rendelete
+az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes
+feltételeire, az abban foglaltak alóli mentességekre, az autóbuszos személyszállítási szolgáltatási
+feltételekre, valamint a közúti személyszállítási üzletszabályzatra vonatkozó szabályokról szóló
+213/2012. (VII. 30.) Korm. rendelet módosításáról
+A Kormány a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 49. § (1) bekezdés d) és e) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire,
+az abban foglaltak alóli mentességekre, az autóbuszos személyszállítási szolgáltatási feltételekre, valamint a közúti
+személyszállítási üzletszabályzatra vonatkozó szabályokról szóló 213/2012. (VII. 30.) Korm. rendelet (a továbbiakban: R.)
+10. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+„(5) Az üzletszabályzat készítője annak tervezetét a hivatalos honlapján közzéteszi. Az üzletszabályzat módosítása
+esetén a módosításokat és a módosításokkal egységes szerkezetet is közzé kell tenni. A közzétételt követő 15 napon
+belül arra bárki észrevételt tehet.
+(6) Az üzletszabályzat készítője a tervezetet – az üzletszabályzat módosítása esetén a módosításokat és
+a módosításokkal egységes szerkezetet is – a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat
+ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet szerinti autóbuszos piacfelügyeleti és utasjogi
+hatóságnak (a továbbiakban: autóbuszos hatóság) jóváhagyásra benyújtja. A kérelemhez csatolja az üzletszabályzat
+tervezetéhez érkezett és el nem fogadott észrevételeket, valamint az el nem fogadás indokolását, továbbá
+nyilatkozik az elfogadott észrevételekről.”
+(2) Az R. 10. § (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) Nem szükséges az autóbuszos hatóság jóváhagyása az üzletszabályzat jogszabályi rendelkezésen vagy
+közszolgáltatási szerződésen alapuló, valamint az utasok jogait nem érintő módosítása esetén, de az üzletszabályzat
+készítője a módosítást annak hatálybalépését 8 nappal megelőzően köteles az autóbuszos hatóságnak megküldeni.”
+2. §
+Az R. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az ellenőr az utazás tartama alatt – beleértve a járatra történő fel- és leszállást is – bármikor jogosult
+a közforgalmú menetrend szerinti autóbuszjáratokon az utasok utazási jogosultságát, az utazási igazolványok
+érvényességét, használatára való jogosultságot, valamint az utazási kedvezmények igénybevételének jogszerűségét
+ellenőrizni. Az ellenőr – a jegykezelő kivételével – e minőségére utaló jelzést visel, valamint írásbeli megbízással
+rendelkezik. Az ellenőr nem köteles az utas részére előre igazolnia magát, de az utas kérésére köteles az utólagos
+azonosításához szükséges információkat megadni, valamint az ellenőrzés végzésére felhatalmazó megbízást
+felmutatni.”
+
+3. §
+Az R. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha az EU rendelet 28. cikk (3) bekezdése szerint a szolgáltatóhoz benyújtott panaszt elutasították, vagy
+a panaszkezelést lezáró dokumentumban szereplő választ a panaszos nem fogadta el, a panaszos a panaszt
+elbírálásra az autóbuszos hatósághoz nyújthatja be.”
+4. §
+Az R. III. Fejezete a következő 26/A. §-sal egészül ki:
+„26/A. § (1) A különjárati és szerződéses személyszállításra vonatkozóan a szolgáltató – ha az üzletszabályzata ezekre
+a szolgáltatásokra nem terjed ki – panaszkezelési szabályzatot készít, amely tartalmazza az utasok által tett panaszok
+bejelentésének és kezelésének részletes szabályait.
+(2) A panaszkezelési szabályzatot – annak módosítása esetén a módosításokat és a módosításokkal egységes
+szerkezetet is – annak készítője az autóbuszos hatóságnak jóváhagyásra benyújtja.
+(3) A panaszkezelési szabályzatot annak készítője – annak jóváhagyásától számított 8 napon belül – hivatalos
+honlapján közzéteszi.”
+5. §
+Az R. a következő 28. §-sal egészül ki:
+„28. § E rendeletnek az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott
+részletes feltételeire, az abban foglaltak alóli mentességekre, az autóbuszos személyszállítási szolgáltatási
+feltételekre, valamint a közúti személyszállítási üzletszabályzatra vonatkozó szabályokról szóló 213/2012. (VII. 30.)
+Korm. rendelet módosításáról szóló 226/2017. (VIII. 11.) Korm. rendelettel megállapított 26/A. §-ában foglalt
+kötelezettségnek az érintett szolgáltatók 2017. október 1-jéig kötelesek eleget tenni.”
+6. §
+Az R. 29. §-a helyébe a következő rendelkezés lép:
+„29. § Ez a rendelet – az Sztv.-vel, valamint a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat
+ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelettel együtt – az autóbusszal közlekedő utasok
+jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-i 181/2011/EU európai parlamenti és
+tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
+7. §
+Az R.
+a) 10. § (7) bekezdésében az„a közlekedési hatóság”szövegrész helyébe az„az autóbuszos hatóság”,
+b) 23. § (4) bekezdésében az„a közlekedési hatósághoz”szövegrész helyébe az„az autóbuszos hatósághoz”
+szöveg lép.
+8. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+9. §
+E rendelet 3. §-a az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló,
+2011. február 16-i 181/2011/EU európai parlamenti és tanácsi rendelet 28. cikk (3) bekezdésének végrehajtásához
+szükséges rendelkezéseket állapít meg.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
+
+V. A Kormány tagjainak rendeletei

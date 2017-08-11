@@ -1,0 +1,148 @@
+# A Kormány 225/2017. (VIII. 11.) Korm. rendelete
+
+Magyar Közlöny 2017. évi 128. szám, 2017. augusztus 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6f5da713fbb774a5bdc0370f50f9456501d36c59/dokumentumok/84fad77cfe6a9e9dc8ff4bc4d20be221c48a16b6/letoltes)
+
+---
+
+A Kormány 225/2017. (VIII. 11.) Korm. rendelete
+az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi
+kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban
+közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos
+Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet,
+valamint a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági
+tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet módosításáról
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. § a) pontjában,
+a 2. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § d) pont dh) alpontjában és e) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint
+nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági
+eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint
+az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.)
+Korm. rendelet módosítása
+1. § (1) Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi
+kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő
+szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját
+segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet (a továbbiakban: 112/2011. Korm. rendelet) 1. §
+(1) bekezdése a következő o) ponttal egészül ki:
+[Az Országos Atomenergia Hivatal (a továbbiakban: OAH):]
+„o) koordinálja a 2014/87/Euratom irányelv szerinti, konkrét téma alapján végrehajtott szakértői felülvizsgálat
+nemzeti értékelését, elkészíti és közzéteszi a nemzeti jelentést, és intézkedéseket határoz meg a biztonság növelése
+érdekében.”
+(2) A 112/2011. Korm. rendelet 1. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A nukleáris létesítmények engedélyesei, a radioaktív hulladékot és a kiégett üzemanyagot kezelő létesítmények
+engedélyesei információt és adatokat szolgáltatnak az OAH-nak a hatáskörébe utalt, az (1) bekezdés e) és
+o) pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint
+
+az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 8. § (3) bekezdése szerint az atomenergia
+hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.”
+2. §
+A 112/2011. Korm. rendelet a következő 10. §-sal egészül ki:
+„10. § Ez a rendelet a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló
+2014. július 8-i 2014/87/EURATOM tanácsi irányelv 1. cikk 9. pontjának való megfelelést szolgálja.”
+3. §
+A 112/2011. Korm. rendelet 2. § (1) bekezdésében az „az atomenergiáról szóló 1996. évi CXVI. törvény
+(a továbbiakban: Atv.)”szövegrész helyébe az„Atv.”szöveg lép.
+2. A nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági
+tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet módosítása
+4. §
+A nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről
+szóló 118/2011. (VII. 11.) Korm. rendelet (a továbbiakban: NBSZ Korm. rendelet) a 10. §-t követően a következő
+9/A. alcímmel egészül ki:
+„9/A. Létesítés
+10/A. § (1) A nukleáris létesítmény létesítését a 9. mellékletben meghatározottak szerint, a terveknek és biztonsági
+követelményeknek, valamint a nukleáris biztonsági hatóság által kiadott engedélyeknek megfelelően kell végezni.
+(2) A létesítés során a kiadott hatósági engedélyekben foglaltaktól eltérni akkor lehet, ha a nukleáris biztonsági
+hatóság az eltérést az 1. és 9. mellékletekben előírtaknak megfelelően engedélyezte.”
+5. §
+Az NBSZ Korm. rendelet 19. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A kérelmet megalapozó dokumentáció tartalmára vonatkozó követelményeket az 1–8. mellékletek
+tartalmazzák. A dokumentáció elkészítésére vonatkozó további ajánlásokat a nukleáris biztonsági hatóság által
+kiadott útmutatók foglalják magukban. A kérelmet megalapozó dokumentációt a kérelmezett tevékenység
+nukleáris biztonsági kockázatának mértékével és jellegével összhangban, olyan részletességgel és mélységben
+kell elkészíteni, hogy annak alapján a hatóság a követelmények és előírások teljesülésének, továbbá a teljesüléshez
+szükséges műszaki és adminisztratív tevékenységek megfelelőségének független felülvizsgálatát és értékelését el
+tudja végezni.”
+6. §
+Az NBSZ Korm. rendelet 14. Általános kötelezettségek alcíme a következő 30/B. §-sal egészül ki:
+„30/B. § Az engedélyes kommunikációs politikával rendelkezik, melynek alapján biztosítja a munkavállalók és
+a létesítmény környezetében élő lakosság rendszeres tájékoztatását a létesítmény normál üzemeléséről.”
+7. §
+Az NBSZ Korm. rendelet a következő 42. §-sal egészül ki:
+„42. § Ez a rendelet a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról
+szóló, 2014. július 8-i 2014/87/EURATOM tanácsi irányelv 1. cikk 5. pont szerinti 4. cikk (1) bekezdés e) pontjának és
+az 1. cikk 7. pont szerinti 6. cikk b) pontjának való megfelelést szolgálja.”
+8. § (1) Az NBSZ Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+(2) Az NBSZ Korm. rendelet 9. melléklete a 2. melléklet szerint módosul.
+3. Záró rendelkezések
+9. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) Ez a rendelet a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló
+2009/71/Euratom irányelv módosításáról szóló, 2014. július 8-i, 2014/87/Euratom tanácsi irányelv 1. cikk 5. pont
+szerinti 4. cikk (1) bekezdés e) pontjának és az 1. cikk 7. pont szerinti 6. cikk b) pontjának és 9. pontjának való
+megfelelést szolgálja.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
+
+1. melléklet a 225/2017. (VIII. 11.) Korm. rendelethez
+1. Az NBSZ Korm. rendelet 1. melléklet a következő 1.10. fejezettel egészül ki:
+„1.10. AZ ENGEDÉLYEKBEN ELŐÍRTAKTÓL VALÓ ELTÉRÉSEK NUKLEÁRIS BIZTONSÁGI HATÓSÁGI FELÜGYELETE
+A LÉTESÍTÉS SORÁN
+1.10.1.0100. Az 1.10. pont előírásait a nukleáris létesítmény létesítési életciklus-szakaszában kell alkalmazni.
+1.10.1.0200. Ha az engedélyes a nukleáris biztonsági hatóság által új nukleáris létesítmény megvalósításával
+összefüggésben kiadott létesítési, építési, használatbavételi, gyártási, beszerzési vagy szerelési engedély jogerőssé
+válását követően az engedélyben rögzítettektől vagy az engedélyt megalapozó dokumentációban foglaltaktól
+a 9.2.1.1300. pont szerint eltérést tervez, az engedélyes köteles az eltérést a nukleáris biztonsági hatóság számára
+bejelenteni.
+1.10.1.0300. Az engedélyes a bejelentéssel együtt megküldi a 9.2.1.1300. pont szerinti előzetes biztonsági értékelést
+és a 9.2.1.1400. pont szerinti kategorizálás eredményét indokolással.
+1.10.1.0400. A hatóság értékeli az engedélyes által az 1.10.1.0300. pont alapján benyújtott dokumentumokat, és
+annak eredményétől függően jóváhagyja vagy módosítja az engedélyes által bejelentett kategóriát. Döntését közli
+az engedélyessel.
+1.10.1.0500. A hatóság által megállapított vagy jóváhagyott kategóriától függően az eltérés jóváhagyása érdekében
+az engedélyes
+a) a 9.2.1.1400. pont a) alpontja szerinti kategória esetén az eltérés hatósági jóváhagyására irányuló kérelmet nyújt
+be, vagy
+b) a 9.2.1.1400. pont b) alpontja szerinti kategória esetén a 9.2.1.1100. pont szerinti dokumentált folyamatban
+rögzítettek szerint jár el.
+1.10.1.0600. Az engedélyes az 1.10.1.0500. pont a) alpont szerinti esetben az eredeti engedélykérelem tartalmi és
+formai szempontjait alkalmazva, a következők szerint összeállított dokumentációt nyújtja be a hatósághoz:
+a) meghatározza az eltérő dokumentumok körét, és bemutatja a dokumentációtól való eltérés tartalmát,
+terjedelmét, az eltérést kiváltó okokat, az eltéréshez vezető körülményeket;
+b) bemutatja a tervezett eltérés műszaki és biztonsági megfelelőségét, a nukleáris biztonsági követelmények
+teljesülését;
+c) az a) és b) pont alapján módosítja az 1.10.1.0200. pont szerinti engedélykérelmet megalapozó, eltéréssel érintett
+dokumentumokat.
+1.10.1.0700. Az 1.10.1.0500. pont b) alpontja szerinti esetekben a hatóság 1.10.1.0400. pont szerinti jóváhagyását
+követően az engedélyes az 1.7.2.0300. pont szerinti Éves Jelentésben mutatja be az eltéréseket.
+1.10.1.0800. A létesítés időszakában elhatározott módosításokat, változtatásokat az üzembe helyezési engedély
+iránti kérelmet megalapozó dokumentációban is be kell mutatni azzal a részletességgel, ahogy az adott kérdés
+a létesítési engedélyezési dokumentációban szerepelt.”
+2. melléklet a 225/2017. (VIII. 11.) Korm. rendelethez
+1. Az NBSZ Korm. rendelet 9. melléklet 9.2.1. alpontja a következő 9.2.1.1100–9.2.1.1600. pontokkal egészül ki:
+Új nukleáris létesítmény tervezési és létesítési időszakára vonatkozó követelmények
+„9.2.1.1100. Az engedélyes a nukleáris biztonsági hatóság által kiadott engedélyekben rögzítettektől való eltérések
+kezelésére (módosítás) az eltérések biztonsági hatása szerint differenciált, dokumentált folyamatot alakít ki.
+9.2.1.1200. Az engedélyes a nukleáris biztonsági hatóság által kiadott létesítési, építési, használatbavételi, gyártási,
+beszerzési vagy szerelési engedély jogerőssé válását követően az engedélyben rögzítettektől vagy az engedélyt
+megalapozó dokumentációban foglaltaktól szabályozott módon térhet el.
+9.2.1.1300. A 9.2.1.1600. pont szerint utólag felismert, és a 9.2.1.1200. pont szerinti tervezett eltérések jellegének
+és az eltérésre vonatkozó követelményeknek az ismeretében az engedélyes – megvizsgálva az eltérés biztonsági
+következményeit – előzetes biztonsági értékelést készít, majd annak alapján végrehajtja a 9.2.1.1400. pont szerinti
+kategóriába sorolást. Az értékelés során az eltérést komplex módon, a nukleáris létesítmény egészének biztonságára
+gyakorolt hatása szempontjából is vizsgálni kell.
+9.2.1.1400. A kiadott engedélyektől való eltéréseket a biztonsági jelentőségük alapján kategorizálni kell az alábbiak
+szerint:
+
+a) Az eltérés biztonsági rendszer vagy rendszerelem biztonsági funkció ellátó képességét érinti, vagy
+az engedélyezett tevékenységet végrehajtó szervezet működését érdemben befolyásoló változtatás;
+b) Az eltérésnek nincs, vagy elhanyagolható mértékű biztonsági hatása van.
+9.2.1.1500. Az eltérések kezelésének felügyeletét és a vonatkozó hatósági előírások érvényesítését az engedélyesnek
+a 9.2.1.0700. pont szerinti biztonsági szervezete látja el. A felügyelet és a belső független felülvizsgálat elvégzésére
+nem jelölhetők ki olyan munkavállalók, akik az eltérést kezdeményezték, tervezésében, előkészítésében,
+végrehajtásában részt vettek.
+9.2.1.1600. Amennyiben az engedélyes a nukleáris biztonsági hatóság által kiadott létesítési, építési,
+használatbavételi, gyártási, beszerzési vagy szerelési engedély alapján végzett tevékenység során vagy annak
+befejezését követően azonosítja, hogy a kiadott engedélyben rögzítettektől vagy az engedélyt megalapozó
+dokumentációban foglaltaktól eltért, az engedélyes a felismerést követőn haladéktalanul gondoskodik az eltéréssel
+érintett tevékenységek biztonságos felfüggesztéséről. A tevékenység akkor folytatható, ha az 1.10.1.0500. pont
+szerinti eljárásokban pozitív döntés született.”
