@@ -26,7 +26,7 @@
 
 ## (10) A tagállamoknak biztosítaniuk kell, hogy az állatokon elvégzett vizsgálatok a kísérleti és tudományos célokra felhasznált állatok védelmére vonatkozó jogszabályoknak megfelelnek.
 
-## (11)[^183] A előny/kockázat arány kiértékelésének ellenőrzésére, minden új információt, melyet az eredeti kérelem nem tartalmazott, valamint minden, gyógyszer-mellékhatásra vonatkozó információt az OGYÉI-hez be kell nyújtani. Miután a készítmény engedélyezésre került, a dosszié adataiban bekövetkező minden, erre vonatkozó változást be kell az OGYÉI-hez jelenteni.
+## (11)[^184] A előny/kockázat arány kiértékelésének ellenőrzésére, minden új információt, melyet az eredeti kérelem nem tartalmazott, valamint minden, gyógyszer-mellékhatásra vonatkozó információt az OGYÉI-hez be kell nyújtani. Miután a készítmény engedélyezésre került, a dosszié adataiban bekövetkező minden, erre vonatkozó változást be kell az OGYÉI-hez jelenteni.
 
 ## Ez a melléklet négy különböző részre tagolódik:
 
@@ -52,7 +52,7 @@
 
 ## A forgalomba hozatali engedély iránti kérelemhez csatolandó, egy, az 1-től az 5-ös fejezetig mindent magában foglaló tartalomjegyzék.
 
-## 1.2.[^184] Engedély iránti kérelem
+## 1.2.[^185] Engedély iránti kérelem
 
 ## A kérelem tárgyát képező gyógyszert a következő adatok azonosítják:
 
@@ -364,7 +364,7 @@
 
 ## (4) Minden a hatóanyagra és a késztermékre vonatkozó vizsgálati és gyártási eljárást olyan részletességgel kell leírni, hogy az illetékes hatóság kérésére az ellenőrző vizsgálatok elvégezhetőek legyenek. Minden vizsgálati eljárás meg kell, hogy feleljen a tudomány adott szintjének. Bizonyítani kell a módszerek kívánt célra való alkalmasságát is, az erre vonatkozó vizsgálatokat is be kell nyújtani. Abban az esetben, ha az adott eljárás szerepel az Európai Gyógyszerkönyvben, ezt a leírást helyettesíti a megfelelő részletes hivatkozás az általános fejezet(ek)re és cikkely(ek)re.
 
-## (5)[^185] Minden anyagra, műveletre és gyógyszerformára alkalmazhatónak kell lennie az Európai Gyógyszerkönyv cikkelyeinek. Más anyagokra vonatkozóan, minden tagállam követelheti nemzeti gyógyszerkönyve előírásainak betartását.
+## (5)[^186] Minden anyagra, műveletre és gyógyszerformára alkalmazhatónak kell lennie az Európai Gyógyszerkönyv cikkelyeinek. Más anyagokra vonatkozóan, minden tagállam követelheti nemzeti gyógyszerkönyve előírásainak betartását.
 
 ## Ha egy anyag olyan eljárással készült, mely szerepel ugyan az Európai Gyógyszerkönyvben vagy egy tagállam nemzeti gyógyszerkönyvében, de az eljárás során keletkezhetnek olyan szennyeződések, melyekre a fenti gyógyszerkönyvek nem ellenőriztetnek, abban az esetben meg kell határozni ezen szennyeződések maximális toleranciaküszöbét és le kell írni a megfelelő vizsgálati eljárást. Abban az esetben, ha az Európai Gyógyszerkönyv, vagy a tagállamok nemzeti gyógyszerkönyvei cikkelyeiben szereplő meghatározások nem elégségesek az anyag minőségének biztosításához, akkor az OGYÉI pontosabb meghatározásokat kérhet a jogosulttól. Ebben az esetben az OGYÉI értesíti a kérdéses gyógyszerkönyv szerkesztőit. A jogosultnak ekkor közölnie kell a kérdéssel kapcsolatos álláspontját és az alkalmazott kiegészítő meghatározásokat az adott gyógyszerkönyv szerkesztőinek. Abban az esetben, ha ez a hiányosság egy, az Európai Gyógyszerkönyvben szereplő analitikai eljárással kapcsolatban merül fel, ezt a leírást ki kell cserélni minden vonatkozó szakaszban a cikkelyekre és általános fejezet(ek)re vonatkozó megfelelő részletes hivatkozással.
 
@@ -1030,7 +1030,7 @@
 
 ## a) A 7. § (12) bekezdése szerint beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, és be kell nyújtania az eredeti forgalomba hozatali engedély tulajdonosának beleegyezését, hogy kereszthivatkozással élhet a 4. és 5. fejezetének tartalmát illetően.
 
-## b)[^186] A 7. § (1) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
+## b)[^187] A 7. § (1) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
 
 ## Ezen termékek esetében a nem-klinikai/klinikai áttekintéseknek/összefoglalóknak a következő elemekre kell különösen koncentrálniuk:
 
@@ -1096,7 +1096,7 @@
 
 ## A vegyes forgalomba hozatali engedély iránti kérelmek esetén a forgalomba hozatali engedély iránti kérelem dossziéjában a 4. fejezet, illetve az 5. fejezet, a kérelmező által elvégzett nem-klinikai, illetve klinikai korlátozott vizsgálati jelentések és irodalmi hivatkozások kombinációjából épül fel. Minden más fejezetet jelen melléklet 1. részében leírtak szerint kell benyújtani. Az illetékes hatóság a kérelmező által benyújtott tervezett formát esetenként bírálja el.
 
-## 3. RÉSZ[^187]
+## 3. RÉSZ[^188]
 
 ## KÜLÖNLEGES GYÓGYSZEREK
 
@@ -1108,7 +1108,7 @@
 
 ## Az emberi vérből vagy plazmából készült gyógyszerek esetében, a 3. fejezet „A kiindulási és nyersanyagokra vonatkozó információk” című bekezdésében említettek az emberi vérből vagy plazmából származó kiindulási anyagokra nem vonatkoznak, azokat a plazma alapadatok (Plasma Master File) helyettesítik, melyet jelen rész előírásai szerint kell elkészíteni.
 
-## a)[^188] Alapelvek
+## a)[^189] Alapelvek
 
 ## – A plazma alapadatoknak különálló dokumentumnak kell lennie, melyet a forgalomba hozatali engedély iránti kérelem dossziéjától külön kell benyújtani. Ez minden fontos információt tartalmaz a teljes emberi plazmáról, melyet kiindulási vagy nyersanyagként használtak fel a köztes frakciók, segédanyagok és a hatóanyag összetevőjeként, és amely anyagok a 2. § (2) bekezdés 10. pont szerinti gyógyszerben kerülnek felhasználásra.
 
@@ -1152,7 +1152,7 @@
 
 ## (4) A plazma alapadatoknak tartalmaznia kell egy listát azokról a gyógyszerekről, melyekre a „plazma alapadatok” érvényes, akár rendelkezik a gyógyszer forgalomba hozatali engedéllyel, akár engedélyezési eljárás alatt áll, beleértve klinikai vizsgálati kérelmeket is.
 
-## c)[^189] Értékelés és tanúsítás
+## c)[^190] Értékelés és tanúsítás
 
 ## – A még nem engedélyezett gyógyszerek esetében a forgalomba hozatali engedélyt kérelmezőnek egy teljes dossziét kell benyújtania az illetékes hatóságnak, amihez tartoznia kell a különálló plazma alapadatoknak, ha az még nem létezik.
 
@@ -1198,7 +1198,7 @@
 
 ## 7. A hatóanyag stabilitása.
 
-## c)[^190] Értékelés és tanusítás
+## c)[^191] Értékelés és tanusítás
 
 ## – Új vakcinák esetében, melyek új vakcina antigént tartalmaznak, a kérelmezőnek egy teljes forgalomba hozatali engedély iránti kérelmi dossziét kell benyújtania, mely tartalmazza az új vakcinában lévő összes vakcina antigén vakcina-antigén-alapadatait, kivéve azon vakcina antigéneket melyek már rendelkeznek ilyen alapadatokkal. Az Ügynökség az összes vakcina-antigén-alapadat tudományos és szakmai értékelését elvégzi. Pozitív értékelés esetén egy tanúsítvány kerül kibocsátásra, mely igazolja, hogy a vakcina-antigén-alapadatok megfelelnek a Közösség jogszabályainak, ezt az értékelési jelentés követi. A kiállított igazolás érvényes az egész Közösségben.
 
@@ -1360,7 +1360,7 @@
 
 ## – Ha egy kérelmező egy ritka betegség gyógyszerének engedélyezése során hivatkozik a 7. § (1) bekezdésére és jelen melléklet 2. részének 1. fejezetére (megalapozott és elfogadott gyógyászati felhasználás), a hivatkozott anyag rendszeres és dokumentált használata vonatkozhat – mint korlátozási mód – ezen anyag használatára.
 
-## 4. RÉSZ[^191]
+## 4. RÉSZ[^192]
 
 ## FEJLETT (ÚJSZERŰ) TERÁPIÁS GYÓGYSZERKÉSZÍTMÉNYEK
 
@@ -1740,12 +1740,12 @@
 
 12. RADIOAKTÍV GYÓGYSZEREK ELKÉSZÍTÉSÉRE VONATKOZÓ ÚTMUTATÁSOK
 
-[^183]: Az 1. számú melléklet „BEVEZETÉS ÉS ÁLTALÁNOS ALAPELVEK” rész (11) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § l) pontja szerint módosított szöveg.
-[^184]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
-[^185]: Az 1. számú melléklet 1. rész 3. fejezet (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja szerint módosított szöveg.
-[^186]: Az 1. számú melléklet 2. rész 2. cím b) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § h) pontja szerint módosított szöveg.
-[^187]: Az 1. melléklet 3. része az 54/2016. (XII. 30.) EMMI rendelet 48. § d) pontja szerint módosított szöveg.
-[^188]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont a) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § h) és i) pontja szerint módosított szöveg.
-[^189]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § i) pontja szerint módosított szöveg.
-[^190]: Az 1. számú melléklet 3. rész 1. cím 1.2. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § d) és e) pontja szerint módosított szöveg.
-[^191]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^184]: Az 1. számú melléklet „BEVEZETÉS ÉS ÁLTALÁNOS ALAPELVEK” rész (11) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § l) pontja szerint módosított szöveg.
+[^185]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^186]: Az 1. számú melléklet 1. rész 3. fejezet (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja szerint módosított szöveg.
+[^187]: Az 1. számú melléklet 2. rész 2. cím b) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § h) pontja szerint módosított szöveg.
+[^188]: Az 1. melléklet 3. része az 54/2016. (XII. 30.) EMMI rendelet 48. § d) pontja szerint módosított szöveg.
+[^189]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont a) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § h) és i) pontja szerint módosított szöveg.
+[^190]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § i) pontja szerint módosított szöveg.
+[^191]: Az 1. számú melléklet 3. rész 1. cím 1.2. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § d) és e) pontja szerint módosított szöveg.
+[^192]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.

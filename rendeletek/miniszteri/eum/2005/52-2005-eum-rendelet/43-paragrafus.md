@@ -4,8 +4,9 @@
 
 (3) Az üzletben kinyomtatott formában elhelyezett tájékozatónak jól olvashatónak és könnyen kezelhetőnek kell lennie, továbbá külső megjelenésében alkalmasnak arra, hogy a fogyasztók a többszöri igénybevételt követően is hozzáférhessenek az abban szereplő információkhoz.
 
-(4) A gyógyszer-kiskereskedelmi tevékenységet folytató a gyógyszerhulladék lakosságtól történő begyűjtésében a nyitvatartási ideje alatt a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet 8. §-a szerinti engedély birtokában részt vesz. A humán gyógyszerek és csomagolásuk hulladékainak kezeléséről szóló 20/2005. (VI. 10.) EüM rendelet 4–5. §-ában foglaltakat a gyógyszer-kiskereskedelmi tevékenységet folytató tekintetében értelemszerűen alkalmazni kell.
+(4)[^166] A gyógyszer-kiskereskedelmi tevékenységet folytató a gyógyszerhulladék lakosságtól történő begyűjtésében a nyitvatartási ideje alatt a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet 8. §-a szerinti engedély birtokában részt vesz. A lakossági gyógyszerellátás során képződött gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 11/2017. (VI. 12.) EMMI rendelet 3–4., 7–8. és 10. §-ában foglaltakat a gyógyszer-kiskereskedelmi tevékenységet folytató tekintetében értelemszerűen alkalmazni kell.
 
 [^163]: A 43. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
 [^164]: A 43. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (21) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
 [^165]: A 43. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
+[^166]: A 46. § (4) bekezdése a 11/2017. (VI. 12.) EMMI rendelet 17. §-a szerint módosított szöveg.
