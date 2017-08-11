@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva engedélyezi a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 126 927 000 forint összegű 2016. évi kötelezettségvállalással terhelt költségvetési maradvány 2017. június 30-át követő, változatlan célú felhasználását.
