@@ -1,0 +1,1 @@
+## 11. § E rendelet hatálybalépését megelőzően a speciális egészségügyi veszélyes hulladék fertőtlenítéséhez használt technológiára kiadott engedélyek az időbeli hatályuk lejártáig, de legkésőbb e rendelet hatálybalépésétől számított 1 évig hatályosak.
