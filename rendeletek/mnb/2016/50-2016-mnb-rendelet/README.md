@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-50-20-2
 | 2017-01-02 | 2016-50-20-2C.2 | 2010: CXXX. törvény |
 | 2017-05-27 | 2016-50-20-2C.3 | 15/2017. (V. 26.) MNB rendelet |
 | 2017-07-01 | 2016-50-20-2C.4 | 15/2017. (V. 26.) MNB rendelet |
+| 2017-08-11 | 2016-50-20-2C.5 | 27/2017. (XI. 21.) MNB rendelet |
