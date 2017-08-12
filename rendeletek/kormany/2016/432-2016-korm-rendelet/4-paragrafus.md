@@ -22,7 +22,9 @@ j) a Gyvt. 66/H. § (3)–(5) bekezdése szerinti díjazást,
 
 k) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény 4. § (4) bekezdése szerinti juttatást, valamint
 
-l) a költségvetési szervként működő köznevelési intézményben pedagógus munkakörben foglalkoztatott pedagógusok esetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 65. § (1) bekezdése szerinti illetményt (beleértve a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt is), továbbá a 65. § (3) bekezdés szerint megállapított illetménypótlékot.
+l) a költségvetési szervként működő köznevelési intézményben pedagógus munkakörben foglalkoztatott pedagógusok esetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 65. § (1) bekezdése szerinti illetményt (beleértve a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt is), továbbá a 65. § (3) bekezdés szerint megállapított illetménypótlékot,
+
+m)[^2] a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti devizailletményt.
 
 (2) Az (1) bekezdés a) és f) pontjában foglaltaktól eltérően nem kell illetményként figyelembe venni az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) alapján az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó foglalkoztatott illetményének az Eütev. 11/A. § (4)–(6a) bekezdése alapján járó növelését.
 
@@ -43,3 +45,5 @@ b) az Eütev. 11/A. § (6) vagy (6a) bekezdése alapján járó növelésnek kel
 ## azzal, hogy részmunkaidős foglalkoztatás esetén az a) vagy b) pont szerinti összegnek a részmunkaidő és a teljes munkaidő arányában csökkentett részét nem kell illetményként figyelembe venni.
 
 (5) A kompenzáció a személyi jövedelemadó-előleg megállapításánál nem rendszeres jövedelemnek minősül, és a költségvetési rend szerint foglalkoztatottak egyéb személyi juttatásaiként kell elszámolni. A kifizetés a statisztikai elszámolásokban a szociális költségek között kerül figyelembevételre.
+
+[^2]: A 4. § (1) bekezdés m) pontját a 223/2017. (VIII. 11.) Korm. rendelet 53. §-a iktatta be.
