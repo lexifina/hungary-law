@@ -18,7 +18,9 @@ c)[^3] a polgári repülés területén közös szabályokról és az Európai R
 
 d)[^4] a rádióamatőr szolgálatról szóló NMHH rendeletben meghatározott rádióamatőrök által használt rádióberendezésre, kivéve, ha az kereskedelmi forgalomban megvásárolható;
 
-e)[^5] szakembereknek szánt, kizárólag kutató- és fejlesztési létesítményekben kutatási és fejlesztési célra használt egyedileg készített értékelő készletre.
+e)[^5] szakembereknek szánt, kizárólag kutató- és fejlesztési létesítményekben kutatási és fejlesztési célra használt egyedileg készített értékelő készletre;
+
+f)[^6] a nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezésekről szóló NMHH rendelet által szabályozott rádióberendezésre.
 
 (4) A (2) bekezdés d) pontjának alkalmazásában a rádióamatőrök általi összeszerelésre szánt alkatrészkészletek, valamint a rádióamatőrök által átalakított, rádióamatőr tevékenység folytatására készített berendezések nem tekintendők kereskedelmi forgalomban lévő berendezésnek akkor sem, ha azok kereskedelmi forgalomban megvásárolhatók.
 
@@ -27,3 +29,4 @@ e)[^5] szakembereknek szánt, kizárólag kutató- és fejlesztési létesítmé
 [^3]: Az 1. § (3) bekezdés c) pontja a 2/2017. (I. 17.) NMHH rendelet 27. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdés d) pontja a 2/2017. (I. 17.) NMHH rendelet 27. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^5]: Az 1. § (3) bekezdés e) pontja a 2/2017. (I. 17.) NMHH rendelet 27. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdés f) pontját a 7/2017. (VII. 28.) NMHH rendelet 10. §-a iktatta be.
