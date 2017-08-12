@@ -242,6 +242,6 @@
 
 ## kérelmező aláírása
 
-2. melléklet az 1/2006. (I. 6.) IM rendelethez[^49]
+2. melléklet az 1/2006. (I. 6.) IM rendelethez[^51]
 
-[^49]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte, újonnan a 30/2015. (X. 30.) IM rendelet 15. §-a iktatta be, szövege a 26/2016. (XII. 27.) IM rendelet 10. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^51]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte, újonnan a 30/2015. (X. 30.) IM rendelet 15. §-a iktatta be, szövege a 26/2016. (XII. 27.) IM rendelet 10. § (2) bekezdés g) pontja szerint módosított szöveg.

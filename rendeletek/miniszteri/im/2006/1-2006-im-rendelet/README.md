@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-1-20-06
 | 2015-11-01 | 2006-1-20-06.13 | 30/2015. (X. 30.) IM rendelet |
 | 2016-08-03 | 2006-1-20-06.14 | 30/2015. (X. 30.) IM rendelet |
 | 2017-01-01 | 2006-1-20-06.15 | 26/2016. (XII. 27.) IM rendelet |
+| 2017-08-12 | 2006-1-20-06.16 | 10/2017. (VIII. 11.) IM rendelet |

@@ -1,4 +1,4 @@
-2. §[^4] (1) Az Ást. 4. § (1) bekezdés a)–c) pontjában felsorolt szolgáltatások iránt benyújtott kérelemről a területi áldozatsegítő szolgálat esetnaplót vezet. Az esetnapló a következő adatokat tartalmazza:
+2. §[^6] (1) Az Ást. 4. § (1) bekezdés a)–c) pontjában felsorolt szolgáltatások iránt benyújtott kérelemről a területi áldozatsegítő szolgálat esetnaplót vezet. Az esetnapló a következő adatokat tartalmazza:
 
 a) az ügyintéző neve és az ügy száma,
 
@@ -24,4 +24,4 @@ g) az áldozatsegítő szolgálat által megtett intézkedések.
 
 (6) Érdekérvényesítés elősegítése esetén a területi áldozatsegítő szolgálat soron kívül, de legkésőbb nyolc napon belül megteszi az első intézkedést az esetnaplóban rögzítettek alapján. Ha további segítségnyújtásra van szükség, annak elintézése iránt a területi áldozatsegítő szolgálat soron kívül, de legkésőbb az ok felmerülésétől számított nyolc napon belül intézkedik. Azonnali pénzügyi segély és áldozati státusz igazolása esetén a törvényben meghatározott határidőben kell eljárni.
 
-[^4]: A 2. §-t a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 30/2015. (X. 30.) IM rendelet 6. §-a iktatta be.
+[^6]: A 2. §-t a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 30/2015. (X. 30.) IM rendelet 6. §-a iktatta be.
