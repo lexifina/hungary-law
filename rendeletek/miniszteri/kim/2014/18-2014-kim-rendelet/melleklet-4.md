@@ -1,4 +1,4 @@
-4. melléklet a 18/2014. (III. 13.) KIM rendelethez
+4. melléklet a 18/2014. (III. 13.) KIM rendelethez[^37]
 
 ## A hitelbiztosítéki nyilatkozat törlésére irányuló nyilatkozat adattartalma
 
@@ -12,7 +12,11 @@
 
 1.4. pénzügyi lízing bejegyzésének törlésére irányuló nyilatkozat
 
-2. Nyilatkozattevő adatai – annak jelölésével, hogy a nyilatkozattevő zálogjogosult, zálogkötelezett, eladó, vevő, faktor, adós, lízingbe adó, lízingbe vevő –
+1.5. vagyontárgy biztosítéki célból történő átruházása bejegyzés törlésére irányuló nyilatkozat
+
+1.6. vételi jog bejegyzésének törlésére irányuló nyilatkozat
+
+2. Nyilatkozattevő adatai – annak jelölésével, hogy a nyilatkozattevő zálogjogosult, zálogkötelezett, eladó, vevő, faktor, adós, lízingbe adó, lízingbe vevő, jogszerzésre jogosult, átruházó, vételi jog jogosult, vételi jogot engedő –
 
 2.1. természetes személy esetén
 
@@ -34,7 +38,7 @@
 
 2.2.3. cégjegyzékbe bejegyzett szervezet esetén
 
-2.2.3.1. cégjegyzék száma
+2.2.3.1. cégjegyzékszáma
 
 2.2.3.2. adószáma
 
@@ -50,7 +54,7 @@
 
 2.2.5.1. adószáma
 
-3. A másik fél adatai – annak jelölésével, hogy a másik fél zálogjogosult, zálogkötelezett, eladó, vevő, faktor, adós, lízingbe adó, lízingbe vevő –
+3. A másik fél adatai – annak jelölésével, hogy a másik fél zálogjogosult, zálogkötelezett, eladó, vevő, faktor, adós, lízingbe adó, lízingbe vevő, jogszerzésre jogosult, átruházó, vételi jog jogosult, vételi jogot engedő –
 
 3.1. természetes személy esetén
 
@@ -72,7 +76,7 @@
 
 3.2.3. cégjegyzékbe bejegyzett szervezet esetén
 
-3.2.3.1. cégjegyzék száma
+3.2.3.1. cégjegyzékszáma
 
 3.2.3.2. adószáma
 
@@ -129,3 +133,5 @@
 7.2. határozat száma
 
 8. A nyilatkozat megtételének időpontja
+
+[^37]: A 4. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (4) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-3. melléklet a 18/2014. (III. 13.) KIM rendelethez
+3. melléklet a 18/2014. (III. 13.) KIM rendelethez[^36]
 
 ## A zálogjogosult ranghelyének előzetes biztosítására irányuló tulajdonosi nyilatkozat adattartalma
 
@@ -21,3 +21,7 @@
 6. A zálogjog ranghelyének előzetes biztosítására irányuló tulajdonosi nyilatkozat rögzítése iránti nyilatkozat
 
 7. Nyilatkozat megtételének időpontja
+
+8. A hitelbiztosítéki nyilatkozat alapjául szolgáló jogügylettel kapcsolatos megjegyzések
+
+[^36]: A 3. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (3) bekezdésével megállapított szöveg.

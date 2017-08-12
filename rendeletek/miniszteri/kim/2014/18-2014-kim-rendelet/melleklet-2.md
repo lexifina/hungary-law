@@ -1,4 +1,4 @@
-2. melléklet a 18/2014. (III. 13.) KIM rendelethez
+2. melléklet a 18/2014. (III. 13.) KIM rendelethez[^35]
 
 ## Bejegyzésre irányuló hitelbiztosítéki nyilatkozat adattartalma
 
@@ -12,7 +12,11 @@
 
 1.4. lízingbeadói nyilatkozat
 
-2. Nyilatkozattevő adatai – annak jelölésével, hogy a nyilatkozattevő zálogjogosult, zálogkötelezett, eladó, faktor, lízingbe adó –
+1.5. jogszerzésre jogosulti nyilatkozat
+
+1.6. vételi jog jogosulti nyilatkozat
+
+2. Nyilatkozattevő adatai – annak jelölésével, hogy a nyilatkozattevő zálogjogosult, zálogkötelezett, eladó, faktor, lízingbe adó, jogszerzésre jogosult, vételi jog jogosult –
 
 2.1. természetes személy esetén
 
@@ -34,7 +38,7 @@
 
 2.2.3. cégjegyzékbe bejegyzett szervezet esetén
 
-2.2.3.1. cégjegyzék száma
+2.2.3.1. cégjegyzékszáma
 
 2.2.3.2. adószáma
 
@@ -50,7 +54,7 @@
 
 2.2.5.1. adószáma
 
-3. A másik fél adatai – annak jelölésével, hogy a másik fél zálogjogosult, zálogkötelezett, vevő, eladó, faktor, adós, lízingbe adó vagy lízingbe vevő –
+3. A másik fél adatai – annak jelölésével, hogy a másik fél zálogjogosult, zálogkötelezett, vevő, eladó, faktor, adós, lízingbe adó vagy lízingbe vevő, átruházó, vételi jogot engedő –
 
 3.1. természetes személy esetén
 
@@ -72,7 +76,7 @@
 
 3.2.3. cégjegyzékbe bejegyzett szervezet esetén
 
-3.2.3.1. cégjegyzék száma
+3.2.3.1. cégjegyzékszáma
 
 3.2.3.2. adószáma
 
@@ -132,7 +136,7 @@
 
 5.1.3. a nyilatkozatot kitöltő választása esetén, közös tulajdonban álló dolognak kötelezett tulajdonában lévő tulajdoni hányada
 
-5.2. ha a vagyontár jog
+5.2. ha a vagyontárgy jog
 
 5.2.1. a jog körülírással történő meghatározása
 
@@ -142,13 +146,13 @@
 
 5.3.1. a követelés körülírással történő meghatározása
 
-5.3.2. a nyilatkozattevő választása esetén, osztható követelés meghatározott résznek meghatározására vonatkozó adat
+5.3.2. a nyilatkozattevő választása esetén, osztható követelés meghatározott részének meghatározására vonatkozó adat
 
-5.4. A nyilatkozatot tevő választása szerint
+5.4. a nyilatkozatot tevő választása szerint
 
 5.4.1. ha a vagyontárgy már más hitelbiztosítéki nyilatkozattal érintett
 
-5.4.1.1. az 5.1–5.3. ponttól eltérően a vagyontárgy nyilvántartási azonosítója, ha a vagyontárgy már más hitelbiztosítéki nyilatkozattal érintett
+5.4.1.1. az 5.1–5.3. ponttól eltérően a vagyontárgy nyilvántartási azonosítója
 
 5.4.2. előzetesen biztosított ranghelyre történő zálogjog bejegyzésére irányuló nyilatkozat esetén az 5.1–5.3. ponttól eltérően
 
@@ -174,4 +178,16 @@
 
 7.3.1. faktorálás ténye
 
+7.4. vagyontárgy biztosítéki célból történő átruházása
+
+7.4.1. biztosítéki célból történő átruházás ténye
+
+7.5. biztosítéki célú vételi jog alapítása
+
+7.5.1. vételi jog
+
+7.6. a hitelbiztosítéki nyilatkozat alapjául szolgáló jogügylettel kapcsolatos megjegyzések
+
 8. Nyilatkozat megtételének időpontja.
+
+[^35]: A 2. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (2) bekezdésével megállapított szöveg.

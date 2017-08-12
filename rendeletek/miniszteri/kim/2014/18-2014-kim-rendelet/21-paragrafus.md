@@ -56,4 +56,44 @@ dd) a bejegyzés törlésére irányuló nyilatkozat esetén a bejegyzés fennta
 
 de) a bejegyzés törlésére irányuló nyilatkozat esetén a pénzügyi lízing bejegyzés törléséhez hozzájáruló lízingbeadói nyilatkozat.
 
+e)[^2] ranghelyszerződés megkötése esetén
+
+ea) a bejegyzésre irányuló zálogjogosulti nyilatkozat,
+
+eb) a bejegyzésre irányuló tulajdonosi nyilatkozat,
+
+ec) a bejegyzéshez hozzájáruló tulajdonosi nyilatkozat,
+
+ed) a bejegyzéshez hozzájáruló zálogjogosulti nyilatkozat,
+
+ee) a bejegyzéshez hozzájáruló érdekelti nyilatkozat,
+
+f)[^3] a vagyontárgy biztosítéki célból történő átruházása esetén
+
+fa) a bejegyzésre irányuló jogszerzésre jogosulti nyilatkozat,
+
+fb) a bejegyzés módosítására irányuló jogszerzésre jogosulti nyilatkozat,
+
+fc) a bejegyzés törlésére irányuló nyilatkozat,
+
+fd) a bejegyzés törlésére irányuló nyilatkozat esetén a bejegyzés fenntartására irányuló jogszerzésre jogosulti nyilatkozat,
+
+fe) a bejegyzés törlésére irányuló nyilatkozat esetén a bejegyzés törléséhez hozzájáruló jogszerzésre jogosulti nyilatkozat,
+
+g)[^4] biztosítéki célú vételi jog alapítása esetén
+
+ga) a bejegyzésre irányuló vételi jog jogosulti nyilatkozat,
+
+gb) a bejegyzés módosítására irányuló vételi jog jogosulti nyilatkozat,
+
+gc) a bejegyzés törlésére irányuló nyilatkozat,
+
+gd) a bejegyzés törlésére irányuló nyilatkozat esetén a bejegyzés fenntartására irányuló vételi jog jogosulti nyilatkozat,
+
+ge) a bejegyzés törlésére irányuló nyilatkozat esetén a bejegyzés törléséhez hozzájáruló vételi jog jogosulti nyilatkozat.
+
 (2) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy ha a jogosult vagy a kötelezett személye a Hbnytv. 24. § (2), (4) vagy (6) bekezdésében foglalt okból változik meg, az bejelenthető legyen.
+
+[^2]: A 21. § (1) bekezdés e) pontját a 10/2017. (VIII. 11.) IM rendelet 4. § (2) bekezdése iktatta be.
+[^3]: A 21. § (1) bekezdés f) pontját a 10/2017. (VIII. 11.) IM rendelet 4. § (2) bekezdése iktatta be.
+[^4]: A 21. § (1) bekezdés g) pontját a 10/2017. (VIII. 11.) IM rendelet 4. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-## 58. §[^18]
+## 58. §[^33]
 
-1. melléklet a 18/2014. (III. 13.) KIM rendelethez
+1. melléklet a 18/2014. (III. 13.) KIM rendelethez[^34]
 
 ## Statisztikai jelentés adattartalma a hitelbiztosítéki nyilatkozatokról
 
@@ -30,6 +30,10 @@
 
 1.2.4. pénzügyi lízing
 
+1.2.5. vagyontárgy biztosítéki célból történő átruházása
+
+1.2.6. biztosítéki célú vételi jog
+
 1.3. egyedileg megjelölt gépjármű esetén
 
 1.3.1. egyedileg megjelölt gépjárművek száma
@@ -40,7 +44,11 @@
 
 1.3.2.2. tulajdonjog fenntartással történő eladás
 
-1.3.2.3. pénzügyi lízing.
+1.3.2.3. pénzügyi lízing
+
+1.3.2.4. biztosítéki célú átruházás
+
+1.3.2.5. biztosítéki célú vételi jog
 
 2. A regisztrált felhasználók száma
 
@@ -60,4 +68,5 @@
 
 6. Képviselő nélkül tett hitelbiztosítéki nyilatkozatok száma
 
-[^18]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: Az 1. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
