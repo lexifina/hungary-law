@@ -1,14 +1,13 @@
 ## 7. Egyszerűsített rádióengedély
 
-18. § (1)[^44] Az NFFF szerint egyszerűsített rádióengedélyezési eljárás alá tartozó frekvenciák használatára vonatkozó igényt az ügyfélnek nyilvántartásba vétel céljából be kell jelentenie a Hatóságnak.
+18. §[^48] (1) Az NFFF szerint egyszerűsített rádióengedélyezési eljárás alá tartozó frekvencia használatára vonatkozó igényt az ügyfélnek nyilvántartásba vétel céljából be kell jelentenie a Hatóságnak.
 
-(2) Az ügyfél bejelentését a Hatóság internetes oldalán elérhető elektronikus űrlapon – a központi rendszer ügyfélkapuján történt azonosítást követően – nyújthatja be.
+(2) Az ügyfél bejelentését a Hatóság internetes honlapján elérhető elektronikus űrlapon – az ügyfélkapun történt azonosítást követően – nyújthatja be a (3) bekezdés szerinti adatok, nyilatkozatok megadásával.
 
-(3)[^45] A bejelentésnek tartalmaznia kell a 4. § (1) bekezdés o) pontjában, a 13. § (2) bekezdés a)–g), i)–k) és n) pontjában, valamint a 13. § (3) bekezdésében foglaltakat.
+(3) A bejelentés tartalmazza a 13. § (2) bekezdés a)–e), g) és n) pontjában, valamint a 13. § (3) bekezdésében foglaltakat.
 
-(4) A Hatóság a 34. § (3) bekezdése szerint nyilvántartásba vett adatokról, a fizetendő frekvenciadíjról, valamint az egyszerűsített rádióengedély érvényességi idejéről elektronikus úton a központi rendszeren keresztül visszaigazolást küld a bejelentőnek.
+(4) A bejelentésben foglalt frekvencia a nyilvántartásba vételtől használható. A Hatóság a jogszabályoknak megfelelő bejelentést egy munkanapon belül nyilvántartásba veszi.
 
-(5) A bejelentésben foglalt frekvencia a nyilvántartásba vétel napjától használható.
+(5) A Hatóság a 34. § (3) bekezdése szerint nyilvántartásba vett adatokról, a fizetendő frekvenciadíjról, valamint az egyszerűsített rádióengedély érvényességi idejéről elektronikus úton visszaigazolást küld az ügyfélnek.
 
-[^44]: A 18. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 31. § 12. pont a) pontja szerint módosított szöveg.
-[^45]: A 18. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 31. § 12. pont b) pontja szerint módosított szöveg.
+[^48]: A 18. § a 8/2017. (VII. 28.) NMHH rendelet 15. §-ával megállapított szöveg.

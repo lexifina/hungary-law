@@ -1,20 +1,14 @@
-7. § (1) Nem kell műszaki tervet benyújtani
+7. § (1)[^25] Nem kell műszaki tervet benyújtani
 
-a) a kizárólag közös használatú frekvencián üzemben tartani tervezett;
+a) a kizárólag közös használatú frekvencián üzemben tartani tervezett,
 
-b) kizárólag mozgó állomást tartalmazó;
+b) a kizárólag mozgóállomást tartalmazó,
 
-c) a legfeljebb három hónapos üzemben tartásra tervezett;
+c) a blokkgazdálkodás körébe tartozó,
 
-d) egyszerűsített rádióengedély alapján üzemben tartani tervezett;
+d) a kisközösségi rádió-műsorszóró vagy
 
-e)[^21] az NFFF szerint legfeljebb 2 W kisugárzott teljesítménnyel üzemeltethető rádióállomásokból álló;
-
-f) blokkgazdálkodás körébe tartozó;
-
-g) kisközösségi rádió műsorszóró;
-
-h)[^22] az NFFF-ben meghatározott egyéb
+e) egyéb, az NFFF-ben meghatározott
 
 ## rádiórendszer esetében.
 
@@ -22,5 +16,4 @@ h)[^22] az NFFF-ben meghatározott egyéb
 
 (3) Ha a frekvenciakijelölési kérelem olyan rádiórendszer telepítésére irányul, amelyre vonatkozóan a rádióengedély érvényessége az Eht. 55. § (10) bekezdése alapján szűnt meg vagy a Hatóság a rádióengedélyt visszavonta, a kérelemhez nem kell műszaki tervet csatolni, feltéve, hogy a kérelmező azonos a korábbi rádióengedély jogosultjával és a kérelem tárgyát képező telepítés műszaki feltételei azonosak a rádiórendszerre korábban kiadott rádióengedély műszaki mellékletében foglaltakkal. A Hatóság ez esetben a korábbi műszaki terv módosítását vagy kiegészítését előírhatja.
 
-[^21]: A 7. § (1) bekezdés e) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 5. pont a) alpontja szerint módosított szöveg.
-[^22]: A 7. § (1) bekezdés h) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 5. pont b) alpontja szerint módosított szöveg.
+[^25]: A 7. § (1) bekezdése a 8/2017. (VII. 28.) NMHH rendelet 14. §-ával megállapított szöveg.
