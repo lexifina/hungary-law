@@ -20,7 +20,9 @@ A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakói
 
 (4) A közjegyzőt a hitelbiztosítéki nyilvántartásba bejegyzett jogosult vagy kötelezett jogutódjának megállapítására irányuló nemperes eljárás lefolytatásáért a 12. § (2) bekezdés d) pontja szerinti munkadíj illeti meg.
 
-30/G. §[^36]
+(5)[^36] A közjegyzőt a Hbnytv. 24/A. §-a szerinti eljárás lefolytatásáért munkadíj és költségtérítés fejében 20 000 Ft illeti meg.
+
+30/G. §[^37]
 
 (1) A közjegyzőt a házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartásába történő bejegyzésére és a bejegyzett vagyonjogi szerződés módosítása, törlése, megszüntetése vagy megszűnése tényének bejegyzésére irányuló nemperes eljárás iránti kérelem előterjesztéséért és a tanúsítvány kiállításáért, ha a vagyonjogi szerződést az eljáró közjegyző készítette, a 12. § (2) bekezdés d) pontjában egy órára megállapított munkadíj illeti meg.
 
@@ -28,7 +30,7 @@ A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakói
 
 (3) A közjegyzőt a házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartásába történő betekintés biztosításáért munkadíj és költségtérítés fejében 3000 forint illeti meg.
 
-30/H. §[^37]
+30/H. §[^38]
 
 A közjegyző a Ptk. 6:56. § szerinti letéti eljárásért
 
@@ -40,7 +42,7 @@ c) az e rendelet szerinti költségátalányt, ha pedig a letétet a MOKK őrzi,
 
 számít fel.
 
-30/I. §[^38]
+30/I. §[^39]
 
 (1) Az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződés közokiratba foglalásával kapcsolatosan az ügyérték alapján, illetve a tevékenységre fordított idő alapján történő díjszámítás nem alkalmazható, e kölcsönszerződés közokiratba foglalásáért a közjegyzőt
 
@@ -68,6 +70,7 @@ Ez a rendelet 1992. január 1-jén lép hatályba.
 [^33]: A 30/D. §-t a 28/2010. (XII. 31.) KIM rendelet 2. § (2) bekezdése iktatta be.
 [^34]: A 30/E. §-t a 25/2011. (VIII. 22.) KIM rendelet 1. §-a iktatta be.
 [^35]: A 30/F. §-t a 18/2014. (III. 13.) KIM rendelet 55. §-a iktatta be.
-[^36]: A 30/G. §-t a 17/2014. (III. 13.) KIM rendelet 20. §-a iktatta be.
-[^37]: A 30/H. §-t a 21/2014. (III. 13.) KIM rendelet 8. §-a iktatta be.
-[^38]: A 30/I. §-t a 20/2014. (XII. 23.) IM rendelet 1. §-a iktatta be.
+[^36]: A 30/F. § (5) bekezdését a 10/2017. (VIII. 1.) IM rendelet 1. §-a iktatta be.
+[^37]: A 30/G. §-t a 17/2014. (III. 13.) KIM rendelet 20. §-a iktatta be.
+[^38]: A 30/H. §-t a 21/2014. (III. 13.) KIM rendelet 8. §-a iktatta be.
+[^39]: A 30/I. §-t a 20/2014. (XII. 23.) IM rendelet 1. §-a iktatta be.
