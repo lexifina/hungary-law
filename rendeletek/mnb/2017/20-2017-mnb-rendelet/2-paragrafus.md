@@ -1,3 +1,0 @@
-## 1. § A jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 50/2016. (XII. 12.) MNB rendelet (a továbbiakban: Rendelet) 3. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) Az adatszolgáltató az L11 MNB azonosító kódú adatszolgáltatást e rendeletnek a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 50/2016. (XII. 12.) MNB rendelet módosításáról szóló 20/2017. (VIII. 10.) MNB rendelet 1. mellékletével módosított rendelkezései szerint első alkalommal 2017 harmadik negyedévére mint tárgyidőszakra vonatkozóan teljesíti.”
