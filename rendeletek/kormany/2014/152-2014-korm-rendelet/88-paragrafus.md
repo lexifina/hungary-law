@@ -26,7 +26,9 @@ i)[^94] felel a külgazdasági diplomata hálózat irányításáért,
 
 j)[^95] irányítja a turizmusdiplomáciai feladatok végrehajtását,
 
-k)[^96] felel a turisztikai diplomata hálózat irányításáért.
+k)[^96] felel a turisztikai diplomata hálózat irányításáért,
+
+l)[^97] közreműködik a digitális exportfejlesztés összehangolásában és támogatásában.
 
 [^89]: A 88. § (1) bekezdését a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
 [^90]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -36,3 +38,4 @@ k)[^96] felel a turisztikai diplomata hálózat irányításáért.
 [^94]: A 88. § (2) bekezdés i) pontja a 101/2017. (IV. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^95]: A 88. § (2) bekezdés j) pontját a 101/2017. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
 [^96]: A 88. § (2) bekezdés k) pontját a 101/2017. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^97]: A 88. § (2) bekezdés l) pontját a 223/2017. (VIII. 11.) Korm. rendelet 52. §-a iktatta be.
