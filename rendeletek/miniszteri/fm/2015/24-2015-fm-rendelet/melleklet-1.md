@@ -2,4 +2,4 @@
 
 1. melléklet a 24/2015. (V. 26.) FM rendelethez[^8]
 
-[^8]: Az 1. melléklet a 86/2016. (XII. 20.) FM rendelet 2. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 86. §-a, a 10/2017. (III. 10.) FM rendelet 1–2. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet a 86/2016. (XII. 20.) FM rendelet 2. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 86. §-a, a 10/2017. (III. 10.) FM rendelet 1–2. §-a, a 40/2017. (VIII. 11.) FM rendelet 1. §-a szerint módosított szöveg.
