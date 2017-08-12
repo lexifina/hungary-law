@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a humán gyógyszerek és csomagolásuk hulladékainak kezeléséről szóló 20/2005. (VI. 10.) EüM rendelet.
+## 17–18. §[^1]
 
 1. melléklet a 11/2017. (VI. 12.) EMMI rendelethez
 
@@ -67,3 +67,5 @@
 3.3. telefon, illetve fax;
 
 3.4. e-mail.
+
+[^1]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
