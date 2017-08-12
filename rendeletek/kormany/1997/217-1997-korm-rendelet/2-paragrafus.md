@@ -64,23 +64,25 @@ l)[^51] a Nemzeti Adó- és Vámhivatal orvosa
 
 m)[^52]
 
+n)[^53] a külpolitikáért felelős miniszter által vezetett minisztérium foglalkozás-egészségügyi szolgáltatói feladatokat ellátó orvosa
+
 (a továbbiakban együtt: beutaló orvos) utalhatja be.
 
-(3)[^53] A foglalkozás-egészségügyi szolgálatok orvosa járóbeteg-szakellátásra a biztosítottat a foglalkozás-egészségügyi szolgáltatásról szóló 27/1995. (VII. 25.) NM rendeletben foglalt feladatai keretében utalhatja be.
+(3)[^54] A foglalkozás-egészségügyi szolgálatok orvosa járóbeteg-szakellátásra a biztosítottat a foglalkozás-egészségügyi szolgáltatásról szóló 27/1995. (VII. 25.) NM rendeletben foglalt feladatai keretében utalhatja be.
 
-(4)[^54] Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató orvosa a 0–4 napos életkorban jogszabály szerint kötelező szűrővizsgálatok elvégzése érdekében jogosult beutalásra.
+(4)[^55] Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató orvosa a 0–4 napos életkorban jogszabály szerint kötelező szűrővizsgálatok elvégzése érdekében jogosult beutalásra.
 
 (5) A társadalombiztosítási ellátásra, a külön jogszabályban meghatározott szociális juttatásra vagy kedvezményre való jogosultság megállapítása céljából a biztosított orvosi beutaló nélkül jogosult felkeresni a vonatkozó jogszabály szerint a szakvélemény (igazolás) elkészítésére jogosult egészségügyi szolgáltatót.
 
-(6)[^55] A szakellátásra beutalt biztosított ismételt orvosi beutalás nélkül jogosult igénybe venni a járóbeteg-szakellátást, ha annak keretében ismételt ellátása orvosszakmai szempontból indokolt. Az ismételt ellátás indokoltságát a járóbeteg-szakellátás orvosa rögzíti a biztosított egészségügyi dokumentációjában, és erről írásban tájékoztatja a biztosítottat, azzal, hogy ez nem érinti az ellátás beutaló nélkül történő igénybevételének jogosultságát.
+(6)[^56] A szakellátásra beutalt biztosított ismételt orvosi beutalás nélkül jogosult igénybe venni a járóbeteg-szakellátást, ha annak keretében ismételt ellátása orvosszakmai szempontból indokolt. Az ismételt ellátás indokoltságát a járóbeteg-szakellátás orvosa rögzíti a biztosított egészségügyi dokumentációjában, és erről írásban tájékoztatja a biztosítottat, azzal, hogy ez nem érinti az ellátás beutaló nélkül történő igénybevételének jogosultságát.
 
-(7)[^56]
+(7)[^57]
 
-(8)[^57] Amennyiben a biztosított az (1) bekezdésben meg nem nevezett járóbeteg-szakellátást beutaló nélkül vesz igénybe és a 4. § (1) bekezdésének b) pontjában meghatározott eset nem áll fenn, az adott szakellátás keretében további szakellátás a biztosított részére nem kezdeményezhető.
+(8)[^58] Amennyiben a biztosított az (1) bekezdésben meg nem nevezett járóbeteg-szakellátást beutaló nélkül vesz igénybe és a 4. § (1) bekezdésének b) pontjában meghatározott eset nem áll fenn, az adott szakellátás keretében további szakellátás a biztosított részére nem kezdeményezhető.
 
-(9)[^58] Ha a beteg vizsgálata, illetve gyógykezelése érdekében az egészségügyi alapellátás szolgáltatásait meghaladó vizsgálat vagy kezelés szükséges, a háziorvos – beutalóval – szakorvosi konzíliumot kérhet.
+(9)[^59] Ha a beteg vizsgálata, illetve gyógykezelése érdekében az egészségügyi alapellátás szolgáltatásait meghaladó vizsgálat vagy kezelés szükséges, a háziorvos – beutalóval – szakorvosi konzíliumot kérhet.
 
-(10)[^59] A szakorvosi vizsgálat, illetve ellátás, továbbá a szakorvosi konzílium – a beteg beleegyezése esetén – a beteg otthonában is elvégezhető, ha az a beteg egészségi állapota vagy egyéb körülmények miatt indokolt, és a vizsgálat, illetve az ellátás jogszabályban előírt feltételei a szakorvosi rendelőn kívül is teljesíthetőek.
+(10)[^60] A szakorvosi vizsgálat, illetve ellátás, továbbá a szakorvosi konzílium – a beteg beleegyezése esetén – a beteg otthonában is elvégezhető, ha az a beteg egészségi állapota vagy egyéb körülmények miatt indokolt, és a vizsgálat, illetve az ellátás jogszabályban előírt feltételei a szakorvosi rendelőn kívül is teljesíthetőek.
 
 [^37]: A Vhr. 2. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^38]: A Vhr. 2. § (1) bekezdés b) pontja a 40/2014. (II. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -98,10 +100,11 @@ m)[^52]
 [^50]: A 2. § (2) bekezdésének k) pontját a 154/2001. (IX. 5.) Korm. rendelet 24. §-a iktatta a szövegbe.
 [^51]: A Vhr. 2. §-a (2) bekezdésének l) pontját a 295/2002. (XII. 27.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése. Újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 88. § (2) bekezdése szerint módosított szöveg.
 [^52]: A Vhr. 2. § (2) bekezdésének m) pontját a 281/2004. (X. 20.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése 2007. január 1. napjával.
-[^53]: A Vhr. 2. §-ának (3) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 18. § (4) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte, újonnan a 319/2006. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^54]: A Vhr. 2. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 73/2011. (IV. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^55]: A Vhr. 2. § (6) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^56]: A Vhr. 2. §-ának (7) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének b) pontja.
-[^57]: A Vhr. 2. §-ának (8) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be.
-[^58]: A Vhr. 2. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^59]: A Vhr. 2. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^53]: A Vhr. 2. § (2) bekezdés n) pontját a 223/2017. (VIII. 11.) Korm. rendelet 50. §-a iktatta be.
+[^54]: A Vhr. 2. §-ának (3) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 18. § (4) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte, újonnan a 319/2006. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^55]: A Vhr. 2. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 73/2011. (IV. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^56]: A Vhr. 2. § (6) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^57]: A Vhr. 2. §-ának (7) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének b) pontja.
+[^58]: A Vhr. 2. §-ának (8) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^59]: A Vhr. 2. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^60]: A Vhr. 2. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

@@ -1,12 +1,12 @@
-39. § (1)[^536]
+39. § (1)[^537]
 
-(1a)[^537]
+(1a)[^538]
 
-(2)[^538]
+(2)[^539]
 
-(3)[^539] A pénzbeli ellátás iránti kérelmet elbíráló kifizetőhely vagy járási hivatal a pénzbeli ellátás jogosultját – kérelmére – tájékoztatja a megállapított pénzbeli ellátás összegének kiszámítása során figyelembe vett adatokról.
+(3)[^540] A pénzbeli ellátás iránti kérelmet elbíráló kifizetőhely vagy járási hivatal a pénzbeli ellátás jogosultját – kérelmére – tájékoztatja a megállapított pénzbeli ellátás összegének kiszámítása során figyelembe vett adatokról.
 
-[^536]: A Vhr. 39. § (1) bekezdését újbúl hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § a) pontja.
-[^537]: A Vhr. 39. § (1a) bekezdését a 131/2012. (VI. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § a) pontja.
-[^538]: A Vhr. 39. § (2) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
-[^539]: A Vhr. 39. § (3) bekezdését újonnan a 165/2009. (VIII. 14.) Korm. rendelet 8. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^537]: A Vhr. 39. § (1) bekezdését újbúl hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § a) pontja.
+[^538]: A Vhr. 39. § (1a) bekezdését a 131/2012. (VI. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § a) pontja.
+[^539]: A Vhr. 39. § (2) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
+[^540]: A Vhr. 39. § (3) bekezdését újonnan a 165/2009. (VIII. 14.) Korm. rendelet 8. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés b) pontja szerint módosított szöveg.
