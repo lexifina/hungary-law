@@ -2,7 +2,7 @@
 
 (2) A társadalombiztosítás pénzügyi alapjai esetén a központi hozzájárulás igénybevételének ütemezésére vonatkozó éves előirányzat-felhasználási tervet a társadalombiztosítás pénzügyi alapjai kezelő szerve jóváhagyásra az államháztartásért felelős miniszternek küldi meg a költségvetési évet megelőző év december 25-éig. A Kincstár a költségvetési hozzájárulás megtérítését a jóváhagyott tervben meghatározott időpontokban utalja a társadalombiztosítás pénzügyi alapjai fizetési számlájára.
 
-(3)[^448] Az éves előirányzat-felhasználási terv a jogosultság jogszabályi feltételeinek megváltoztatásán alapuló módosítása, az igénybe vett támogatás túlteljesülése, vagy alulteljesülése, illetve jogszabályon alapuló évközi intézkedés esetén a havi előirányzat-felhasználási terv benyújtásával egyidejűleg módosítható.
+(3)[^459] Az éves előirányzat-felhasználási terv a jogosultság jogszabályi feltételeinek megváltoztatásán alapuló módosítása, az igénybe vett támogatás túlteljesülése, vagy alulteljesülése, illetve jogszabályon alapuló évközi intézkedés esetén a havi előirányzat-felhasználási terv benyújtásával egyidejűleg módosítható.
 
 (4) A társadalombiztosítás pénzügyi alapjai kezelő szervének
 
@@ -18,9 +18,9 @@ a) a Nyugdíjbiztosítási Alap előirányzat-felhasználási tervét visszaigaz
 
 b) az Egészségbiztosítási Alap előirányzat-felhasználási tervét, ha
 
-ba)[^449] a zárt előirányzatok tárgyhónap végéig tervezett összegei az időarányos előirányzatot nem haladják meg, a tárgyhónapot megelőző utolsó kincstári napon gondoskodik az előirányzat-felhasználási keretek megnyitásáról és jóváhagyó aláírásával ellátva ezt visszaigazolja,
+ba)[^460] a zárt előirányzatok tárgyhónap végéig tervezett összegei az időarányos előirányzatot nem haladják meg, a tárgyhónapot megelőző utolsó kincstári napon gondoskodik az előirányzat-felhasználási keretek megnyitásáról és jóváhagyó aláírásával ellátva ezt visszaigazolja,
 
-bb)[^450] bármely zárt előirányzat tárgyhónap végéig tervezett összege meghaladja az éves előirányzat időarányos mértékét, az államháztartásért felelős miniszter számára jóváhagyásra megküldi.
+bb)[^461] bármely zárt előirányzat tárgyhónap végéig tervezett összege meghaladja az éves előirányzat időarányos mértékét, az államháztartásért felelős miniszter számára jóváhagyásra megküldi.
 
 (6) A jóváhagyott előirányzat-felhasználási terv alapján a Kincstár gondoskodik az előirányzat-felhasználási keretek megnyitásáról és azt visszaigazolja a társadalombiztosítás pénzügyi alapjai kezelő szervei részére.
 
@@ -30,6 +30,6 @@ bb)[^450] bármely zárt előirányzat tárgyhónap végéig tervezett összege 
 
 (9) Ha az államháztartásért felelős miniszter a zárt előirányzatok tárgyhavi előirányzat-felhasználási kereteit az előző időszakban képződött megtakarítás beszámításával hagyja jóvá és az előirányzat-felhasználási terv nem így került benyújtásra, az előirányzat-felhasználási tervet a döntésnek megfelelően korrigálni kell. A társadalombiztosítás pénzügyi alapjának kezelő szerve a korrekciót a Kincstár tájékoztatása alapján soron kívül végrehajtja és a korrigált tervet a Kincstárnak megküldi.
 
-[^448]: Az Ávr. 136. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
-[^449]: Az Ávr. 136. § (5) bekezdés b) pont ba) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^450]: Az Ávr. 136. § (5) bekezdés b) pont bb) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^459]: Az Ávr. 136. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
+[^460]: Az Ávr. 136. § (5) bekezdés b) pont ba) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^461]: Az Ávr. 136. § (5) bekezdés b) pont bb) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.

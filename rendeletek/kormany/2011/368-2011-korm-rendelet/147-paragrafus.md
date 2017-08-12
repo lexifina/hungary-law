@@ -1,21 +1,21 @@
-147. § (1)[^504] Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv fizetési számlája megnyitásáról, megszüntetéséről – a költségvetési szerv alapítása, megszüntetése esetén az alapítás, megszüntetés időpontja szerinti határnappal – a költségvetési szerv, gazdasági szervezettel nem rendelkező költségvetési szerv esetén a 9. § (5) bekezdése szerinti költségvetési szerv gondoskodik.
+147. § (1)[^516] Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv fizetési számlája megnyitásáról, megszüntetéséről – a költségvetési szerv alapítása, megszüntetése esetén az alapítás, megszüntetés időpontja szerinti határnappal – a költségvetési szerv, gazdasági szervezettel nem rendelkező költségvetési szerv esetén a 9. § (5) bekezdése szerinti költségvetési szerv gondoskodik.
 
-(2)[^505]
+(2)[^517]
 
-(3)[^506] A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás irányítása alá tartozó költségvetési szerv a számlájához kapcsolódóan a 145. § (3) bekezdés a) és d) pontja szerinti alszámlákat vezetheti.
+(3)[^518] A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás irányítása alá tartozó költségvetési szerv a számlájához kapcsolódóan a 145. § (3) bekezdés a) és d) pontja szerinti alszámlákat vezetheti.
 
-(4)[^507] A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács irányítása alá tartozó költségvetési szerv a fizetési számláján kívül
+(4)[^519] A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács irányítása alá tartozó költségvetési szerv a fizetési számláján kívül
 
 a) az irányító szerv vezetőjének engedélyével a dolgozói lakásépítésének támogatására munkáltatói lakásépítés és -vásárlás támogatási fizetési számlát,
 
 b) külföldi támogatás, segély fogadására devizaszámlát, és
 
-c)[^508] letéti számlát
+c)[^520] letéti számlát
 
 vezethet.
 
-[^504]: Az Ávr. 147. § (1) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^505]: Az Ávr. 147. § (2) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 18. pontja hatályon kívül helyezte.
-[^506]: Az Ávr. 147. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 26. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 59. pontja szerint módosított szöveg.
-[^507]: Az Ávr. 147. § (4) bekezdés nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 27. pontja szerint módosított szöveg.
-[^508]: Az Ávr. 147. § (4) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 60. pontja, a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^516]: Az Ávr. 147. § (1) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^517]: Az Ávr. 147. § (2) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 18. pontja hatályon kívül helyezte.
+[^518]: Az Ávr. 147. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 26. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 59. pontja szerint módosított szöveg.
+[^519]: Az Ávr. 147. § (4) bekezdés nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 27. pontja szerint módosított szöveg.
+[^520]: Az Ávr. 147. § (4) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 60. pontja, a 499/2016. (XII. 28.) Korm. rendelet 23. § (2) bekezdés 2. pontja szerint módosított szöveg.

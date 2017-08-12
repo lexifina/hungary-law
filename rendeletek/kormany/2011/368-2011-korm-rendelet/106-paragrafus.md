@@ -16,9 +16,9 @@ e) az ellenőrök nevét, aláírását és
 
 f) ha a helyszíni ellenőrzés befejezésével nem kerül sor a jegyzőkönyv átadására, a Kincstár illetékes vezetőjének aláírását.
 
-(3)[^352] A támogatás igénylése és módosítása keretében végzett hatósági ellenőrzés ügyintézési határideje százhúsz nap, amely szükség esetén egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(3)[^363] A támogatás igénylése és módosítása keretében végzett hatósági ellenőrzés ügyintézési határideje százhúsz nap, amely szükség esetén egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(4)[^353] Az Áht. 57. § (3) bekezdése szerinti határozatot a Kincstár az utolsó adatszolgáltatás-módosítási határidő leteltét megelőző ötödik napig hozza meg.
+(4)[^364] Az Áht. 57. § (3) bekezdése szerinti határozatot a Kincstár az utolsó adatszolgáltatás-módosítási határidő leteltét megelőző ötödik napig hozza meg.
 
-[^352]: Az Ávr. 106. § (3) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 14. pontja szerint módosított szöveg.
-[^353]: Az Ávr. 106. § (4) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 18. §-a iktatta be.
+[^363]: Az Ávr. 106. § (3) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 14. pontja szerint módosított szöveg.
+[^364]: Az Ávr. 106. § (4) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 18. §-a iktatta be.

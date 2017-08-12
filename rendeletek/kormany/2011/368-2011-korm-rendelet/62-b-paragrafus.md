@@ -1,4 +1,4 @@
-62/B. §[^248] (1) Az illetményszámfejtő programban a foglalkoztató egyedi adatrögzítés vagy a Kincstár által meghatározott tartalom és struktúra szerinti csoportos adatátadás útján rögzíti
+62/B. §[^255] (1) Az illetményszámfejtő programban a foglalkoztató egyedi adatrögzítés vagy a Kincstár által meghatározott tartalom és struktúra szerinti csoportos adatátadás útján rögzíti
 
 a) a biztosítotti bejelentéshez és az egyszerűsített foglalkoztatás bejelentéséhez szükséges adatokat,
 
@@ -24,4 +24,4 @@ az illetményszámfejtő programban rögzíti úgy, hogy az annak a hónapnak a 
 
 (5) A foglalkoztató az Art. 16. § (4) bekezdése szerinti, a foglalkoztatottak bejelentésével kapcsolatos kötelezettségét és az Art. 31. § (2) bekezdése szerinti, a személyi juttatásokat terhelő, továbbá azokkal összefüggésben felmerülő, az állami adóhatóság felé teljesítendő bevallási kötelezettségét és azok önellenőrzését a Kincstár útján teljesíti.
 
-[^248]: Az Ávr. 62/B. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be, szövege a 243/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^255]: Az Ávr. 62/B. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be, szövege a 243/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

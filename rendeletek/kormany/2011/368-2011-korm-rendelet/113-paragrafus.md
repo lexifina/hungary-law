@@ -6,7 +6,7 @@ aa) a nettó finanszírozás keretében folyósított támogatások esetében az
 
 ab) egyéb esetben a Kincstár által megjelölt fizetési számlára történő befizetéssel,
 
-b)[^377] az elszámolás, az elszámolás felülvizsgálata vagy az Állami Számvevőszék által végzett ellenőrzés során keletkező fizetési kötelezettségét a fizetési kötelezettségnek a költségvetési támogatás igénylésének évét követő évére eső részét a Kincstár által megjelölt fizetési számlára történő befizetéssel, és
+b)[^388] az elszámolás, az elszámolás felülvizsgálata vagy az Állami Számvevőszék által végzett ellenőrzés során keletkező fizetési kötelezettségét a fizetési kötelezettségnek a költségvetési támogatás igénylésének évét követő évére eső részét a Kincstár által megjelölt fizetési számlára történő befizetéssel, és
 
 c) a kapcsolódó kamatfizetési kötelezettségét a Kincstár által megjelölt fizetési számlára történő befizetéssel
 
@@ -18,7 +18,7 @@ teljesíti.
 
 (4) Ha a visszafizetendő támogatás együttes összege vagy a fizetendő kamatok együttes összege az ezer forintot nem éri el, azt nem kell megfizetni. A Kincstár a pótlólagosan megállapított ezer forint alatti támogatást és az ezer forint alatti kamatot nem utalja át.
 
-(5)[^378] Ha a visszafizetett támogatás a teljes visszafizetési kötelezettségre nem nyújt fedezetet, a teljesítést először az Áht. 14. § (3) bekezdése szerinti fejezet költségvetési kiadási előirányzatai terhére nyújtott költségvetési támogatások jogosulatlanul igénybe vett részére az igénybevétel szerinti sorrendben, majd a helyi önkormányzat általános működéséhez és ágazati feladataihoz kapcsolódó támogatások összegére, ezt követően az ügyleti kamatra és a késedelmi kamatra kell elszámolni.
+(5)[^389] Ha a visszafizetett támogatás a teljes visszafizetési kötelezettségre nem nyújt fedezetet, a teljesítést először az Áht. 14. § (3) bekezdése szerinti fejezet költségvetési kiadási előirányzatai terhére nyújtott költségvetési támogatások jogosulatlanul igénybe vett részére az igénybevétel szerinti sorrendben, majd a helyi önkormányzat általános működéséhez és ágazati feladataihoz kapcsolódó támogatások összegére, ezt követően az ügyleti kamatra és a késedelmi kamatra kell elszámolni.
 
-[^377]: Az Ávr. 113. § (1) b) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 18. pontja szerint módosított szöveg.
-[^378]: Az Ávr. 113. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 21. §-a iktatta be.
+[^388]: Az Ávr. 113. § (1) b) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 18. pontja szerint módosított szöveg.
+[^389]: Az Ávr. 113. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 21. §-a iktatta be.

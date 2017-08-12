@@ -4,9 +4,9 @@
 
 (3) Támogatói okirat alkalmazása esetén a költségvetési támogatás visszavonása külön okirat kiadásával és a kedvezményezett részére történő megküldésével történik. A támogatási szerződés felmondásáról, az attól történő elállásról a támogató írásban értesíti a kedvezményezettet.
 
-(4)[^329] Ha a támogatott tevékenység összköltsége csökken a tervezetthez képest, a költségvetési támogatás összegét az összköltség csökkenésének arányában csökkenteni kell, több forrás esetén az eredeti arányoknak megfelelően. Ha a támogatási szerződés eltérően nem rendelkezik, a támogatott tevékenység összköltségét a költségtervben meghatározott egyes költségnemek arányában kell csökkenteni.
+(4)[^339] Ha a támogatott tevékenység összköltsége csökken a tervezetthez képest, a költségvetési támogatás összegét az összköltség csökkenésének arányában csökkenteni kell, több forrás esetén az eredeti arányoknak megfelelően. Ha a támogatási szerződés eltérően nem rendelkezik, a támogatott tevékenység összköltségét a költségtervben meghatározott egyes költségnemek arányában kell csökkenteni.
 
-(5)[^330] Nem kell alkalmazni a (4) bekezdést a Nemzeti Kulturális Alapból biztosított költségvetési támogatások esetén, ha az adott támogatott tevékenységhez biztosított valamennyi költségvetési támogatás összege a hárommillió forintot nem éri el, nem haladja meg a támogatott tevékenység összköltségét és nem ütközik az európai uniós versenyjogi értelemben vett állami támogatási szabályokba.
+(5)[^340] Nem kell alkalmazni a (4) bekezdést a Nemzeti Kulturális Alapból biztosított költségvetési támogatások esetén, ha az adott támogatott tevékenységhez biztosított valamennyi költségvetési támogatás összege a hárommillió forintot nem éri el, nem haladja meg a támogatott tevékenység összköltségét és nem ütközik az európai uniós versenyjogi értelemben vett állami támogatási szabályokba.
 
-[^329]: Az Ávr. 97. § (4) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^330]: Az Ávr. 97. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 14. §-a iktatta be.
+[^339]: Az Ávr. 97. § (4) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^340]: Az Ávr. 97. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 14. §-a iktatta be.

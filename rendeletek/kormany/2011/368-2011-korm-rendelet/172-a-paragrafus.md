@@ -1,0 +1,32 @@
+## [Az Áht. 108/A. §-ához][^639]
+
+172/A. §[^640] (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kezelő szerve a bevételeinek és kiadásainak várható alakulásáról havonta adatot szolgáltat a Kincstár által működtetett elektronikus adatszolgáltató rendszerben (e § alkalmazásában a továbbiakban: előrejelzés), amelyet a fejezetet irányító szerv a tárgyhónap 10-éig jóváhagy. Az előrejelzést tárgyhónap, valamint a tárgyév egésze bontásban kell megadni.
+
+(2) A Kormány irányítása alá tartozó fejezetet irányító szervet befizetési kötelezettség terheli abban az esetben, ha az október 10-éig és a december 10-éig elkészítendő előrejelzésben az általa irányított fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok összesített adatait tekintve a költségvetési szervek és fejezeti kezelésű előirányzatok költségvetési kiadásai és költségvetési bevételei különbségének (e § alkalmazásában a továbbiakban: fejezeti egyenleg) tárgyév egészére előrejelzett, az előrejelzés leadása után a Kormány egyedi döntéseivel biztosított és pénzügyileg teljesített (kifizetett) források összegével korrigált összege és a költségvetési szervek és fejezeti kezelésű előirányzatok éves költségvetési beszámolói összesített adatai szerinti tényleges fejezeti egyenleg közötti eltérés abszolút értéke legalább a tényleges fejezeti egyenleg abszolút értékének 3%-a. A befizetési kötelezettség mértéke az eltérés abszolút értékének és a fejezeti egyenleg abszolút értéke 3%-ának különbözete abszolút értékének 3%-a, legfeljebb az érintett költségvetési fejezet tényleges összes éves kiadásának 1/1000-ed része.
+
+(3) A Kormány irányítása alá tartozó fejezetet irányító szervet befizetési kötelezettség terheli abban az esetben, ha két egymást követő hónap előrejelzésében az általa irányított fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok összesített adatait tekintve a fejezeti egyenleg tárgyhónapra előre jelzett összege és azok tárgyhónapra elkészített időközi költségvetési jelentésben kimutatott, könyvelési adatokon alapuló tényleges teljesítése közötti eltérés abszolút értéke legalább a tényleges teljesítés abszolút értékének 3%-a. A befizetési kötelezettség mértéke a második hónaptól kezdve az eltérés abszolút értékének és a fejezeti egyenleg abszolút értéke 3%-ának különbözete abszolút értékének 1%-a. Ha a tárgyhónapra elkészített időközi költségvetési jelentést a fejezetbe sorolt költségvetési szerv, fejezeti kezelésű előirányzat határidőben nem tölti fel a Kincstár által működtetett elektronikus adatszolgáltatási rendszerben, a Kormány irányítása alá tartozó fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok összesített adatait a hiányzó adatok tekintetében a kincstári pénzforgalmi adatok alapján kell számítani.
+
+(4) Ha a december hónapban teljesített előrejelzések után a (2) és (3) bekezdés szerint is el kellene járni, a Kormány irányítása alá tartozó fejezetet irányító szervet csak a (2) bekezdés szerinti befizetési kötelezettség terheli.
+
+(5) Ha a költségvetési szerv vagy a fejezeti kezelésű előirányzat kezelő szerve az előrejelzést határidőig nem készíti el, a (2)–(4) bekezdés szerinti eltérések számításakor úgy kell tekinteni, hogy az adott költségvetési szerv, fejezeti kezelésű előirányzatok előre jelzett költségvetési kiadásainak összege és előre jelzett költségvetési bevételeinek összege nulla.
+
+(6) A befizetési kötelezettség összegét a Kincstár állapítja meg és közli a Kormány irányítása alá tartozó fejezetet irányító szervvel
+
+a) a (2) bekezdés szerinti esetben az éves költségvetési beszámolók Kincstár általi jóváhagyását,
+
+b) a (3) bekezdés szerinti esetben az időközi költségvetési jelentéseknek a Kincstár által működtetett elektronikus adatszolgáltatási rendszerbe történő feltöltésére előírt határidőt
+
+követő harminc napon belül. A fejezetet irányító szerv a befizetési kötelezettséget a közlést követő kilencven napon belül teljesíti.
+
+(7) A fejezetet irányító szervi jogállással bíró költségvetési szervre az (1)–(6) bekezdés rendelkezései a következő eltérésekkel alkalmazandó:
+
+a) a fejezetet irányító szervi jogállással bíró költségvetési szerv előrejelzését maga hagyja jóvá, a Kormány irányítása alá tartozó fejezetet irányító szervi jogállással bíró költségvetési szervet esetleges befizetési kötelezettségét a Kincstár vele közli,
+
+b) a Kormány irányítása alá tartozó fejezetet irányító szervi jogállással bíró költségvetési szervet a befizetési kötelezettség számításakor önálló fejezetnek és fejezetet irányító szervnek kell tekinteni, előrejelzését és kiadásai, bevételei tény számait külön kell kezelni attól a fejezettől és annak fejezetet irányító szervétől, amelyhez a központi költségvetésben címrend szerint kapcsolódik.
+
+(8) A központi költségvetés európai uniós forrásból származó fejlesztéseket finanszírozó fejezetének fejezetet irányító szerve az irányító hatóságra, kezelő szervre átterhelheti a (2)–(4) bekezdés szerinti befizetési kötelezettségek azon részét, amely az irányító hatóság, kezelő szerv által tévesen szolgáltatott adatok miatt nála keletkezett.
+
+(9) A fejezetet irányító szerv a befizetési kötelezettség teljesítésére rendelkezésre álló határidő alatt a Kincstár által közölt befizetési kötelezettség mérséklését, illetve elengedését kezdeményezheti az államháztartásért felelős miniszternél, ha a befizetési kötelezettség teljesítése a közfeladatai ellátását aránytalanul megnehezítené, illetve veszélyeztetné. Ha a kezdeményezéssel az államháztartásért felelős miniszter egyetért, a befizetési kötelezettség mérsékléséről, illetve elengedéséről előterjesztést készít, és azt a Kormány elé terjeszti. A Kormány döntéséről az államháztartásért felelős miniszter értesíti a fejezetet irányító szervet és a Kincstárt. Ha a kezdeményezéssel az államháztartásért felelős miniszter nem ért egyet, arról a kezdeményezés kézhezvételétől számított harminc napon belül értesíti a fejezetet irányító szervet. A kezdeményezés benyújtása és az államháztartásért felelős miniszter – az egyet nem értéséről vagy a Kormány döntéséről szóló – értesítése között a befizetési kötelezettség teljesítésére rendelkezése álló határidő nyugszik.
+
+[^639]: Az Ávr. 172/A. §-át megelőző alcímet a 224/2017. (VIII. 11.) Korm. rendelet 8. §-a iktatta be.
+[^640]: Az Ávr. 172/A. §-át a 224/2017. (VIII. 11.) Korm. rendelet 8. §-a iktatta be.

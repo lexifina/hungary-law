@@ -12,7 +12,7 @@
 
 3.[^2] foglalkoztató: a központosított illetményszámfejtési körbe tartozó jogi személy – ide értve az ahhoz megállapodás alapján csatlakozó szervet is –, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § a) pont 6. alpontja szerinti esetben a Magyar Államkincstár (a továbbiakban: Kincstár),
 
-4. forgótőke: a központosított illetményszámfejtés esetén a megbízó és a Kincstár között létrejött megállapodás alapján olyan engedményezés, amely jogszabályon és a munkavállaló egyéni megbízásán alapuló munkáltatói fizetési kötelezettség – ideértve a társadalombiztosítási szolgáltatások kifizetőhelyi kötelezettségét is – teljesítésének fedezetét képezi,
+4.[^3] forgótőke: a központosított illetményszámfejtés esetén a megbízó és a Kincstár között létrejött megállapodás alapján olyan engedményezés, amely jogszabályon és a munkavállaló egyéni megbízásán alapuló munkáltatói fizetési kötelezettség teljesítésének fedezetét képezi,
 
 5. mozgóbér: a helyettesítésre tekintettel biztosított és a rendes munkaidőt, szolgálatteljesítési időt meghaladóan végzett munka, szolgálat teljesítéséért jogszabály alapján járó külön ellenérték,
 
@@ -28,3 +28,4 @@
 
 [^1]: Az Ávr. I. fejezete (1–1/D. §) a 397/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^2]: Az Ávr. 1. § 3. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 1. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 1. pontja szerint módosított szöveg.
+[^3]: Az Ávr. 1. § 4. pontja a 224/2017. (VIII. 11.) Korm. rendelet 14. § (2) bekezdés 1. pontja szerint módosított szöveg.

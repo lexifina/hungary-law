@@ -1,6 +1,6 @@
-## [Az Áht. 52. §-ához][^323]
+## [Az Áht. 52. §-ához][^334]
 
-91/A. §[^324] A költségvetési támogatás szabályszerű felhasználása érdekében a kedvezményezett közbeszerzési eljárást és más beszerzési eljárást úgy köteles lefolytatni, hogy az a költségvetési támogatás ésszerű és hatékony felhasználását biztosítsa.
+91/A. §[^335] A költségvetési támogatás szabályszerű felhasználása érdekében a kedvezményezett közbeszerzési eljárást és más beszerzési eljárást úgy köteles lefolytatni, hogy az a költségvetési támogatás ésszerű és hatékony felhasználását biztosítsa.
 
-[^323]: Az Ávr. 91/A. §-át megelőző alcímet a 175/2015. (VII. 7.) Korm. rendelet 13. §-a iktatta be.
-[^324]: Az Ávr. 91/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 13. §-a iktatta be.
+[^334]: Az Ávr. 91/A. §-át megelőző alcímet a 175/2015. (VII. 7.) Korm. rendelet 13. §-a iktatta be.
+[^335]: Az Ávr. 91/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 13. §-a iktatta be.
