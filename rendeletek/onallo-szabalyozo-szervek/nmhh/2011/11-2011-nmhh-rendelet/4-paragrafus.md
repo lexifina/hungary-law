@@ -1,17 +1,21 @@
 ## 4. A frekvenciakijelölési eljárás szabályai
 
-## 4. §[^24] A rádiófrekvenciák használati jogának megszerzéséhez nem szükséges frekvenciakijelölés azon rádiórendszer esetében,
+## 4. §[^26] A rádiófrekvenciák használati jogának megszerzéséhez nem szükséges frekvenciakijelölés azon rádiórendszer esetében,
 
 a) amelyhez a frekvenciát hatósági frekvenciajegyzék tartalmazza,
 
-b) amelyhez a Hivatal különleges eseti frekvenciajegyzéket adott ki,
+b) amelyhez a Hivatal katonai frekvenciajegyzéket adott ki,
 
-c) amelynek telepítése kísérleti célból történik,
+c) amelyhez a Hivatal különleges eseti frekvenciajegyzéket adott ki,
 
-d) amelynek telepítése a 10. § (4) bekezdése szerint történik,
+d) amelynek telepítése kísérleti célból történik,
 
-e) amelyet a légiközlekedési és a víziközlekedési célú fedélzeti rádióberendezésekkel hoztak létre, vagy
+e) amelynek üzemben tartása egyszerűsített rádióengedély alapján történik,
 
-f) amelyet harminc napnál rövidebb ideig terveznek üzemben tartani.
+f) amelyet légi vagy vízi közlekedési célú fedélzeti rádióberendezésekkel hoztak létre,
 
-[^24]: A 4. § a 2/2016. (II. 26.) NMHH rendelet 15. §-ával megállapított szöveg.
+g) amelyet harminc napnál rövidebb ideig terveznek üzemben tartani, vagy
+
+h) amely az NFFF szerint legfeljebb 2 W effektív kisugárzott teljesítménnyel üzemeltethető rádióállomásokból áll.
+
+[^26]: A 4. § a 8/2017. (VII. 28.) NMHH rendelet 4. §-ával megállapított szöveg.

@@ -1,9 +1,7 @@
-22. § (1)[^59] Az egyedi engedélyezési eljárás során a Hivatal ellenőrzi – a légiközlekedési és a víziközlekedési célú fedélzeti rádióberendezések kivételével – a rádióberendezés megfelelőségét igazoló okiratok, műszaki dokumentációk tartalmát és valódiságát.
+22. §[^71] (1) Az egyedi engedélyezési eljárás során a Hivatal ellenőrzi a rádióberendezés megfelelőséget igazoló okiratának tartalmát és érvényességét.
 
-(2)[^60] A Hivatal az (1) bekezdés szerinti ellenőrzése során vizsgálja a megfelelőséget igazoló okiratot. Vizsgálhatja a megfelelőségértékelési eljárás dokumentációját, a magyar nyelvű használati-kezelési útmutató meglétét és azoknak jogszabályi követelményeknek való megfelelését.
+(2) A Hivatal az (1) bekezdés szerinti ellenőrzése során vizsgálhatja a megfelelőségértékeléshez szükséges műszaki dokumentációt is.
 
-(3)[^61] A Hivatal – előzetes egyeztetés után – a telepítést követően, vagy az üzemben tartás során vizsgálja azt, hogy a rádiórendszerhez tartozó rádióberendezést és használati-kezelési útmutatóját ellátták-e az előírt jelölésekkel.
+(3) A Hivatal, EU-megfelelőségi nyilatkozat esetén – előzetes egyeztetés után – a telepítést követően vagy az üzemben tartás során vizsgálja azt, hogy a rádiórendszerhez tartozó rádióberendezést ellátták-e a rádióberendezésekről szóló NMHH rendelet szerinti jelölésekkel.
 
-[^59]: A 22. § (1) bekezdése az 1/2015. (III. 17.) NMHH rendelet 15. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 18. § h) pontja szerint módosított szöveg.
-[^60]: A 22. § (2) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^61]: A 22. § (3) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^71]: A 22. § a 7/2017. (VII. 28.) NMHH rendelet 8. § (7) bekezdésével megállapított szöveg.

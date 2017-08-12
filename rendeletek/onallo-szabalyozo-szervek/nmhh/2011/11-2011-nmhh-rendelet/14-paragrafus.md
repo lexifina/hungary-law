@@ -22,9 +22,9 @@ j) a rádióengedély érvényességi idejét,
 
 k) az érintett engedélyesek egybehangzó nyilatkozata alapján az együttes frekvenciahasználat szabályozását.
 
-(2)[^41] A 10. § (6) bekezdése szerinti rádióengedély az (1) bekezdés a)–e) és j) pontjában megállapított adatokat tartalmazza.
+(2)[^50] A 10. § (6) bekezdése szerinti rádióengedély az (1) bekezdés a)–e) és j) pontjában megállapított adatokat tartalmazza.
 
-(3)[^42] A 10. § (7) bekezdése szerinti rádióengedély az (1) bekezdés a)–b) és j), valamint – esetlegesen szűkített adattartalommal – a c)–e) pontjában megállapított adatokat tartalmazza.
+(3)[^51] A 10. § (7) bekezdése szerinti rádióengedély az (1) bekezdés a)–b) és j), valamint – esetlegesen szűkített adattartalommal – a c)–e) pontjában megállapított adatokat tartalmazza.
 
-[^41]: A 14. § (2) bekezdése az 1/2013. (I. 7.) NMHH rendelet 11. § (19) bekezdése szerint módosított szöveg.
-[^42]: A 14. § (3) bekezdése az 1/2013. (I. 7.) NMHH rendelet 11. § (19) bekezdése szerint módosított szöveg.
+[^50]: A 14. § (2) bekezdése az 1/2013. (I. 7.) NMHH rendelet 11. § (19) bekezdése szerint módosított szöveg.
+[^51]: A 14. § (3) bekezdése az 1/2013. (I. 7.) NMHH rendelet 11. § (19) bekezdése szerint módosított szöveg.

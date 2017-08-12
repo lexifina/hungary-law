@@ -1,9 +1,14 @@
-6. § (1) A frekvenciakijelöléshez nem kell műszaki tervet benyújtani, ha a rádiórendszer
+6. § (1)[^31] A frekvenciakijelöléshez nem kell műszaki tervet benyújtani
 
-a) kizárólag harmadlagos jelleggel működtetett rádióalkalmazást valósít meg,
+a) a kizárólag harmadlagos jelleggel működtetett rádióalkalmazást megvalósító,
 
-b) legfeljebb három hónap időtartamú üzemben tartásra tervezett.
+b) a legfeljebb három hónap időtartamú üzemben tartásra tervezett vagy
 
-(2)[^27] Felhasználói gazdálkodás kérelmezése esetén műszaki tervet csak akkor kell benyújtani, ha ezt az NFFF az alkalmazott frekvenciasávra vonatkozóan előírja.
+c) egyéb, az NFFF-ben meghatározott
 
-[^27]: A 6. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 18. § d) pontja szerint módosított szöveg.
+## rádiórendszer esetében.
+
+(2)[^32] Felhasználói gazdálkodás kérelmezése esetén műszaki tervet csak akkor kell benyújtani, ha ezt az NFFF az alkalmazott frekvenciasávra vonatkozóan előírja.
+
+[^31]: A 6. § (1) bekezdése a 8/2017. (VII. 28.) NMHH rendelet 5. §-ával megállapított szöveg.
+[^32]: A 6. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 18. § d) pontja szerint módosított szöveg.
