@@ -1,0 +1,3 @@
+## 5. § Az NBSZ Korm. rendelet 19. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A kérelmet megalapozó dokumentáció tartalmára vonatkozó követelményeket az 1–8. mellékletek tartalmazzák. A dokumentáció elkészítésére vonatkozó további ajánlásokat a nukleáris biztonsági hatóság által kiadott útmutatók foglalják magukban. A kérelmet megalapozó dokumentációt a kérelmezett tevékenység nukleáris biztonsági kockázatának mértékével és jellegével összhangban, olyan részletességgel és mélységben kell elkészíteni, hogy annak alapján a hatóság a követelmények és előírások teljesülésének, továbbá a teljesüléshez szükséges műszaki és adminisztratív tevékenységek megfelelőségének független felülvizsgálatát és értékelését el tudja végezni.”
