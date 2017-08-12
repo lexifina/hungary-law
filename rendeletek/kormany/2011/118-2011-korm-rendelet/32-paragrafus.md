@@ -1,7 +1,7 @@
 ## 16. Jelentési, tájékoztatási kötelezettség
 
-32. § (1)[^58] A nukleáris létesítmény engedélyese az 1. mellékletben meghatározott rendszeres, eseti és állapothoz rendelt jelentéseket készít, és azokat megküldi a nukleáris biztonsági hatóságnak.
+32. § (1)[^61] A nukleáris létesítmény engedélyese az 1. mellékletben meghatározott rendszeres, eseti és állapothoz rendelt jelentéseket készít, és azokat megküldi a nukleáris biztonsági hatóságnak.
 
 (2) A nukleáris biztonsági hatóság a biztonsággal kapcsolatban tájékoztatás nyújtására kötelezheti az engedélyest.
 
-[^58]: A 32. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 15. pontja szerint módosított szöveg.
+[^61]: A 32. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 15. pontja szerint módosított szöveg.

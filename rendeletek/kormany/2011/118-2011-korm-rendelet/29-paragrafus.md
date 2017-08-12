@@ -1,3 +1,3 @@
-## 28/A. §[^51] Az engedélyesnek biztosítania kell, hogy a nukleáris biztonságot érintő megoldások megalapozásának felülvizsgálatához, valamint a cserék, javítások, átalakítások végrehajtásához szükséges információ, dokumentáció és tervek – beleértve az alkatrészek gyártmányterveit is – a teljes üzemidő alatt rendelkezésre álljanak.
+## 28/A. §[^53] Az engedélyesnek biztosítania kell, hogy a nukleáris biztonságot érintő megoldások megalapozásának felülvizsgálatához, valamint a cserék, javítások, átalakítások végrehajtásához szükséges információ, dokumentáció és tervek – beleértve az alkatrészek gyártmányterveit is – a teljes üzemidő alatt rendelkezésre álljanak.
 
-[^51]: A 28/A. §-t a 37/2012. (III. 9.) Korm. rendelet 6. §-a iktatta be.
+[^53]: A 28/A. §-t a 37/2012. (III. 9.) Korm. rendelet 6. §-a iktatta be.

@@ -96,11 +96,11 @@
 
 ## 2.2.2. Biztonsági kultúra
 
-## 2.2.2.0100.[^162] Az engedélyes szervezet és a beszállító szervezetek vezetőségének minden szinten következetesen és határozottan el kell várniuk és támogatniuk kell az erős biztonsági kultúrához szükséges hozzáállást, valamint biztosítani kell, hogy a munkavállalók felismerjék és megértsék a biztonsági kultúra kulcsfontosságú szempontjait. Ezt többek között úgy kell megvalósítaniuk, hogy nem támogatják a túlzott magabiztosságot, valamint ösztönzik a nyitott jelentési kultúrát és az olyan kérdésfelvető magatartást, amely megakadályozza a biztonság szempontjából kedvezőtlen tevékenységeket és állapokat.
+## 2.2.2.0100.[^167] Az engedélyes szervezet és a beszállító szervezetek vezetőségének minden szinten következetesen és határozottan el kell várniuk és támogatniuk kell az erős biztonsági kultúrához szükséges hozzáállást, valamint biztosítani kell, hogy a munkavállalók felismerjék és megértsék a biztonsági kultúra kulcsfontosságú szempontjait. Ezt többek között úgy kell megvalósítaniuk, hogy nem támogatják a túlzott magabiztosságot, valamint ösztönzik a nyitott jelentési kultúrát és az olyan kérdésfelvető magatartást, amely megakadályozza a biztonság szempontjából kedvezőtlen tevékenységeket és állapokat.
 
-## 2.2.2.0200.[^163] Az irányítási rendszernek biztosítania kell az erős biztonsági kultúrát eredményező hozzáállás szisztematikus fejlesztéséhez és támogatásához szükséges eszközöket. A biztonsági kultúrát fejlesztő és támogató eszközök alkalmasságát és hatékonyságát rendszeres időközönként, az önértékelés és az irányítási rendszer felülvizsgálata során ellenőrizni kell.
+## 2.2.2.0200.[^168] Az irányítási rendszernek biztosítania kell az erős biztonsági kultúrát eredményező hozzáállás szisztematikus fejlesztéséhez és támogatásához szükséges eszközöket. A biztonsági kultúrát fejlesztő és támogató eszközök alkalmasságát és hatékonyságát rendszeres időközönként, az önértékelés és az irányítási rendszer felülvizsgálata során ellenőrizni kell.
 
-## 2.2.2.0300.[^164] Az engedélyesnek biztosítania kell, hogy a 2.2.2.0100. és 2.2.2.0200. pontokban megfogalmazott követelményeket a beszállítók és alvállalkozók is teljesítik.
+## 2.2.2.0300.[^169] Az engedélyesnek biztosítania kell, hogy a 2.2.2.0100. és 2.2.2.0200. pontokban megfogalmazott követelményeket a beszállítók és alvállalkozók is teljesítik.
 
 ## 2.2.3. Az irányítási rendszerkövetelmények alkalmazásának differenciálása
 
@@ -216,7 +216,7 @@
 
 ## a) a folyamatra vonatkozó hatósági, jogszabályi, biztonsági, egészségügyi, környezetvédelmi, fizikai védelmi, minőségügyi és gazdasági követelményeket azonosítják és kezelik;
 
-## b)[^165] a veszélyeket és kockázatokat azonosítják a szükséges javító vagy megelőző intézkedésekkel együtt;
+## b)[^170] a veszélyeket és kockázatokat azonosítják a szükséges javító vagy megelőző intézkedésekkel együtt;
 
 ## c) az egymással kapcsolódó folyamatok kölcsönhatásait meghatározzák;
 
@@ -386,13 +386,13 @@
 
 ## 2.6.6.0200. A fejlesztésre irányuló terveknek tartalmazniuk kell a megfelelő erőforrások biztosítását is. A fejlesztő intézkedések végrehajtását egészen azok befejezéséig monitorozni kell, továbbá ellenőrizni kell az adott intézkedés hatásosságát is.
 
-3. melléklet a 118/2011. (VII. 11.) Korm. rendelethez[^166]
+3. melléklet a 118/2011. (VII. 11.) Korm. rendelethez[^171]
 
 Nukleáris Biztonsági Szabályzatok
 
 3. kötet
 
-Üzemelő atomerőművek tervezési követelményei[^167]
+Üzemelő atomerőművek tervezési követelményei[^172]
 
 TARTALOMJEGYZÉK
 
@@ -542,7 +542,7 @@ Emelő berendezések
 
 3.1.1.0100. A szabályzat célja az atomerőmű mint nukleáris létesítmény és az azt alkotó, a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezési alapelveinek és tervezési követelményeinek meghatározása.
 
-3.1.1.0200.[^168] E szabályzat rendelkezéseit a Magyarország területén már üzemelő, vízhűtésű, termikus reaktorokkal működő atomerőművek tervezési követelményeinek meghatározása tekintetében kell alkalmazni, azzal, hogy a tervezés folyamatára vonatkozó, a 3.2.1.0100.-3.2.1.0500. pontban, 3.2.1.2200. pontban, 3.2.1.2500.-3.2.1.2800. pontban, 3.3.1.0100.-3.3.1.0200. pontban, 3.3.1.0500. pontban, 3.3.2.0700.-3.3.2.0900. pontban, 3.3.2.1200.-3.3.2.1300. pontban, 3.3.2.2800. pontban, 3.3.2.3600. pontban, 3.3.3.0100. pontban, 3.3.3.0700. pontban, 3.3.3.0900. pontban, 3.3.5.0400. pontban, 3.3.5.0700. pontban, 3.3.5.1000 pontban, 3.4.3.0300. pontban, 3.4.5.3500.-3.4.5.4000. pontban és a 3.5.1.1700 pontban szereplő rendelkezéseket az üzemelő blokk átalakítása, valamint a további életciklus szakaszt előkészítő tervezési tevékenység során kell alkalmazni.
+3.1.1.0200.[^173] E szabályzat rendelkezéseit a Magyarország területén már üzemelő, vízhűtésű, termikus reaktorokkal működő atomerőművek tervezési követelményeinek meghatározása tekintetében kell alkalmazni, azzal, hogy a tervezés folyamatára vonatkozó, a 3.2.1.0100.-3.2.1.0500. pontban, 3.2.1.2200. pontban, 3.2.1.2500.-3.2.1.2800. pontban, 3.3.1.0100.-3.3.1.0200. pontban, 3.3.1.0500. pontban, 3.3.2.0700.-3.3.2.0900. pontban, 3.3.2.1200.-3.3.2.1300. pontban, 3.3.2.2800. pontban, 3.3.2.3600. pontban, 3.3.3.0100. pontban, 3.3.3.0700. pontban, 3.3.3.0900. pontban, 3.3.5.0400. pontban, 3.3.5.0700. pontban, 3.3.5.1000 pontban, 3.4.3.0300. pontban, 3.4.5.3500.-3.4.5.4000. pontban és a 3.5.1.1700 pontban szereplő rendelkezéseket az üzemelő blokk átalakítása, valamint a további életciklus szakaszt előkészítő tervezési tevékenység során kell alkalmazni.
 
 3.2. ÁLTALÁNOS TERVEZÉSI KÖVETELMÉNYEK
 
@@ -566,21 +566,21 @@ Emelő berendezések
 
 Az alapvető biztonsági funkciók biztosítása
 
-3.2.1.0900.[^169] Az alapvető biztonsági funkcióknak teljesülnie kell a TA1-4 üzemállapotok esetén. A TAK1-2 üzemállapotokat követően az alapvető biztonsági funkcióknak az atomreaktor ellenőrzött, biztonságos leállított, illetve súlyos baleset utáni biztonságos állapotba viteléhez szükséges mértékben kell teljesülniük.
+3.2.1.0900.[^174] Az alapvető biztonsági funkcióknak teljesülnie kell a TA1-4 üzemállapotok esetén. A TAK1-2 üzemállapotokat követően az alapvető biztonsági funkcióknak az atomreaktor ellenőrzött, biztonságos leállított, illetve súlyos baleset utáni biztonságos állapotba viteléhez szükséges mértékben kell teljesülniük.
 
-3.2.1.1000.[^170] Az alapvető biztonsági funkciók teljesítésére rendszereket kell tervezni.
+3.2.1.1000.[^175] Az alapvető biztonsági funkciók teljesítésére rendszereket kell tervezni.
 
 3.2.1.1100. Az alapvető biztonsági funkciók teljesítése érdekében meg kell határozni az összes biztonsági funkciót és az azokat teljesítő rendszereket.
 
 3.2.1.1200. Biztosítani kell, hogy az atomerőmű rendszereinek és rendszerelemeinek állapotát ellenőrizni lehessen annak igazolására, hogy az alapvető tervezési követelmények teljesülnek.
 
-3.2.1.1300.[^171]
+3.2.1.1300.[^176]
 
 A mélységben tagolt védelem elvének alkalmazása
 
 3.2.1.1400. A 7. § szerinti követelmények mellett a 3.2.1.1500.–3.2.1.1800. pontban meghatározott kiegészítő követelményeket kell teljesíteni a mélységben tagolt védelem öt szintjének alkalmazása során.
 
-3.2.1.1500.[^172] A tervezés során többszörös fizikai gátakat kell alkalmazni a radioaktív anyagok környezetbe történő ellenőrizetlen kikerülésének megakadályozására. Egymástól független védelmi szintekkel kell biztosítani, hogy a lehetséges meghibásodások, a normál üzemtől való eltérések észlelhetők, ellensúlyozhatók és kezelhetők legyenek.
+3.2.1.1500.[^177] A tervezés során többszörös fizikai gátakat kell alkalmazni a radioaktív anyagok környezetbe történő ellenőrizetlen kikerülésének megakadályozására. Egymástól független védelmi szintekkel kell biztosítani, hogy a lehetséges meghibásodások, a normál üzemtől való eltérések észlelhetők, ellensúlyozhatók és kezelhetők legyenek.
 
 3.2.1.1600. A gátak védelmét biztosítani kell. Tervezési megoldásokkal kell biztosítani a biztonsági funkciók és a biztonsági kritériumok teljesülését a védelem valamely szintjének sérülése esetén is.
 
@@ -596,7 +596,7 @@ ca) a meghibásodások és a normál üzemi állapottól való eltérések lehet
 
 cb) az üzemzavarok az ésszerűen megvalósítható szinten kizárhatók legyenek, továbbá
 
-cc)[^173] ne jöhessen létre szakadékszél-effektus;
+cc)[^178] ne jöhessen létre szakadékszél-effektus;
 
 d) műszaki eszközökkel biztosítani kell az atomerőmű állapotának kezelhetőségét úgy, hogy a meghibásodások vagy a normál üzemállapottól való eltérések esetén a biztonsági funkciót ellátó rendszerek működésének szükségessége a lehető legkisebb legyen; továbbá
 
@@ -618,11 +618,11 @@ Egyéb általános tervezési követelmények
 
 3.2.1.2000. A tervekben megfelelő tartalékokat kell biztosítani a tervezési módszerek, eszközök hibáira, a gyártási és szerelési tűrésekre, a feltételezett hibákra és a tervezett üzemidő alatti öregedési mechanizmusok által okozott romlási folyamatok konzervatívan becsült mértékére.
 
-3.2.1.2100.[^174] A biztonság szempontjából fontos rendszereket, rendszerelemeket a nukleáris iparban elfogadott szabványok alkalmazásával kell tervezni. A tervezésnél a használatra előirányzott szabványok körét előzetesen meg kell határozni, alkalmazhatóságukat igazolni kell.
+3.2.1.2100.[^179] A biztonság szempontjából fontos rendszereket, rendszerelemeket a nukleáris iparban elfogadott szabványok alkalmazásával kell tervezni. A tervezésnél a használatra előirányzott szabványok körét előzetesen meg kell határozni, alkalmazhatóságukat igazolni kell.
 
 3.2.1.2200. A biztonsági funkciót ellátó rendszereket, rendszerelemeket hasonló feltételek között kipróbált, bevált konstrukciós megoldásokat alkalmazva kell tervezni. Ettől eltérő esetben olyan technológiákat és termékeket kell alkalmazni, amelyek alkalmazhatóságát megvizsgálták és igazolták. Az új tervezési megoldások esetében, amelyek eltérnek a műszaki gyakorlatban bevett megoldásoktól, az alkalmazhatóságot adekvát kutatásokkal, tesztekkel, más alkalmazásokban szerzett tapasztalatok elemzésével biztonsági szempontból igazolni kell. Az új megoldást tesztelni kell az üzembe helyezés előtt. A rendszer, rendszerelem működését – annak üzemelése közben – monitorozni kell a megfelelőség végleges igazolása érdekében.
 
-3.2.1.2300.[^175] A rendszerek, rendszerelemek azonosítására jelölési rendszert kell kialakítani.
+3.2.1.2300.[^180] A rendszerek, rendszerelemek azonosítására jelölési rendszert kell kialakítani.
 
 3.2.1.2400. A tervezés során figyelembe kell venni az atomerőművek tervezése, létesítése és üzemletetése során felgyülemlett tapasztalatokat és a releváns kutatási eredményeket.
 
@@ -638,9 +638,9 @@ Egyéb általános tervezési követelmények
 
 Az atomerőmű állapotának és eseményeinek kategorizálása
 
-3.2.2.0100.[^176] A normál üzemtől eltérő állapotokat a tervezési alapba tartozó, valamint a tervezési alapot meghaladó üzemállapotokra kell osztani.
+3.2.2.0100.[^181] A normál üzemtől eltérő állapotokat a tervezési alapba tartozó, valamint a tervezési alapot meghaladó üzemállapotokra kell osztani.
 
-3.2.2.0200.[^177] A normál üzemállapotot, valamint az atomerőmű tervezési alapjának részeként figyelembe vett üzemállapotokra vezető eseményeket gyakoriságuk alapján az alábbi táblázat szerinti üzemállapotokhoz kell rendelni.
+3.2.2.0200.[^182] A normál üzemállapotot, valamint az atomerőmű tervezési alapjának részeként figyelembe vett üzemállapotokra vezető eseményeket gyakoriságuk alapján az alábbi táblázat szerinti üzemállapotokhoz kell rendelni.
 
 |  | A | B | C |
 
@@ -652,7 +652,7 @@ Az atomerőmű állapotának és eseményeinek kategorizálása
 
 | 4. | TA4 | tervezési üzemzavarok | 10-2 > f ≥10-5 |
 
-3.2.2.0300.[^178] A tervezési alap kiterjesztésének az alábbi kategóriáit kell megkülönböztetni:
+3.2.2.0300.[^183] A tervezési alap kiterjesztésének az alábbi kategóriáit kell megkülönböztetni:
 
 a) TAK1: az aktív zónában és a pihentető medencében található üzemanyag olvadásával nem járó komplex üzemzavar, és
 
@@ -660,23 +660,23 @@ b) TAK2: az üzemanyag jelentős olvadásával járó súlyos baleset.
 
 Biztonsági osztályba sorolás
 
-3.2.2.0400–3.2.2.2100.[^179]
+3.2.2.0400–3.2.2.2100.[^184]
 
 Az atomerőmű tervezési alapja
 
-3.2.2.2110.[^180] A rendszereket és rendszerelemeket a biztonsági hatásuk, funkcióik alapján biztonsági osztályokba kell sorolni. A földrengésre - mint speciális veszélyeztető tényezőre vonatkozó besorolást - a 3.3.6. pontban részletezett független rendszer szerint kell kezelni.
+3.2.2.2110.[^185] A rendszereket és rendszerelemeket a biztonsági hatásuk, funkcióik alapján biztonsági osztályokba kell sorolni. A földrengésre - mint speciális veszélyeztető tényezőre vonatkozó besorolást - a 3.3.6. pontban részletezett független rendszer szerint kell kezelni.
 
-3.2.2.2120.[^181] A biztonsági funkciókat sérülésük várható következményei alapján három biztonsági osztályba kell csoportosítani. A rendszerek és rendszerelemek biztonsági osztályozását az általuk megvalósított legmagasabb, - legkisebb sorszámú - osztályba sorolt funkció alapján kell elvégezni.
+3.2.2.2120.[^186] A biztonsági funkciókat sérülésük várható következményei alapján három biztonsági osztályba kell csoportosítani. A rendszerek és rendszerelemek biztonsági osztályozását az általuk megvalósított legmagasabb, - legkisebb sorszámú - osztályba sorolt funkció alapján kell elvégezni.
 
-3.2.2.2130.[^182] Az 1. biztonsági osztályba tartoznak
+3.2.2.2130.[^187] Az 1. biztonsági osztályba tartoznak
 
 a) a fűtőelemkötegek, valamint
 
 b) azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek, amelyek meghibásodása vagy hibája olyan eseményhez vezethet, amely közvetlenül veszélyezteti az atomreaktor azonnali szubkritikus állapotba vihetőségét vagy hűtését, és megkívánja tervezési üzemzavart elhárító rendszerek, rendszerelemek azonnali indítását vagy működését.
 
-3.2.2.2140.[^183] A 2. biztonsági osztályba tartoznak azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek - beleértve a működésükhöz szükséges villamos és irányítástechnikai rendszereket, rendszerelemeket -, amelyek időben történő üzembe lépése vagy folytonos működése szükséges annak érdekében, hogy a tervezési alapba tartozó események ne vezessenek balesethez. Feladatuk továbbá a nukleáris biztonságot érintő események bekövetkezése esetén az atomreaktor szubkritikusságának és hűtésének biztosítása, vagy a konténment belsejében bekövetkezett, nukleáris biztonságot érintő esemény hatására az atomreaktorból felszabaduló radioaktív anyagok kikerülésének megakadályozása. Ide kell sorolni azokat a rendszereket, rendszerelemeket is, amelyek az atomreaktor hűtőrendszerén kívül tárolt friss és besugárzott fűtőelem-kötegek szubkritikusságát, épségük megőrzését és szükséges mértékű hűtésüket biztosítják.
+3.2.2.2140.[^188] A 2. biztonsági osztályba tartoznak azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek - beleértve a működésükhöz szükséges villamos és irányítástechnikai rendszereket, rendszerelemeket -, amelyek időben történő üzembe lépése vagy folytonos működése szükséges annak érdekében, hogy a tervezési alapba tartozó események ne vezessenek balesethez. Feladatuk továbbá a nukleáris biztonságot érintő események bekövetkezése esetén az atomreaktor szubkritikusságának és hűtésének biztosítása, vagy a konténment belsejében bekövetkezett, nukleáris biztonságot érintő esemény hatására az atomreaktorból felszabaduló radioaktív anyagok kikerülésének megakadályozása. Ide kell sorolni azokat a rendszereket, rendszerelemeket is, amelyek az atomreaktor hűtőrendszerén kívül tárolt friss és besugárzott fűtőelem-kötegek szubkritikusságát, épségük megőrzését és szükséges mértékű hűtésüket biztosítják.
 
-3.2.2.2150.[^184] A 3. biztonsági osztályba tartoznak azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek, amelyek:
+3.2.2.2150.[^189] A 3. biztonsági osztályba tartoznak azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek, amelyek:
 
 a) tervezési üzemzavart megelőző szerepet töltenek be és esetleges üzemképtelenségük a tervezési üzemzavar során nincs hatással az üzemzavar lefolyására,
 
@@ -688,23 +688,23 @@ d) működési hibájuk megakadályozza a technológia biztonságos paraméterta
 
 e) olyan funkciójú rendszerek, rendszerelemek, amelyek balesetek radiológiai következményeinek enyhítését, továbbfejlődésének megelőzését, gátlását szolgálják, valamint baleset esetén információt szolgáltatnak.
 
-3.2.2.2160.[^185] A 4. - nem biztonsági - osztályba tartozik minden olyan funkció és az azt megvalósító rendszer, rendszerelem, amely nem tartozik az 1., 2. vagy 3. biztonsági osztályba.
+3.2.2.2160.[^190] A 4. - nem biztonsági - osztályba tartozik minden olyan funkció és az azt megvalósító rendszer, rendszerelem, amely nem tartozik az 1., 2. vagy 3. biztonsági osztályba.
 
-3.2.2.2161.[^186] Biztonsági funkciót ellátó rendszerek elsődleges rendszerelemei a rendszerrel azonos biztonsági osztályba tartoznak.
+3.2.2.2161.[^191] Biztonsági funkciót ellátó rendszerek elsődleges rendszerelemei a rendszerrel azonos biztonsági osztályba tartoznak.
 
-3.2.2.2162.[^187] Valamely rendszer, rendszerelem azon biztonsági funkciójának teljesítéséhez szükséges segédrendszereket, amelyen az osztályba sorolás alapul, a rendszerrel azonos osztályba kell sorolni.
+3.2.2.2162.[^192] Valamely rendszer, rendszerelem azon biztonsági funkciójának teljesítéséhez szükséges segédrendszereket, amelyen az osztályba sorolás alapul, a rendszerrel azonos osztályba kell sorolni.
 
-3.2.2.2163.[^188] Az épületszerkezeteket is biztonsági osztályba kell sorolni. Az épületszerkezetek besorolásánál figyelembe kell venni az épületszerkezetekhez rendelhető biztonsági funkciókat, valamint a tönkremenetelükkel, vagy funkció vesztésükkel veszélyeztetett nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket. Az így meghatározott biztonsági funkciók közül a legmagasabb besorolású képezi az épületszerkezet besorolási alapját.
+3.2.2.2163.[^193] Az épületszerkezeteket is biztonsági osztályba kell sorolni. Az épületszerkezetek besorolásánál figyelembe kell venni az épületszerkezetekhez rendelhető biztonsági funkciókat, valamint a tönkremenetelükkel, vagy funkció vesztésükkel veszélyeztetett nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket. Az így meghatározott biztonsági funkciók közül a legmagasabb besorolású képezi az épületszerkezet besorolási alapját.
 
-3.2.2.2164.[^189] Az irányítástechnikai eszközöket - azok alrendszereivel együtt - az általuk megvalósított legmagasabb besorolású biztonsági funkció szerint kell biztonsági osztályba sorolni.
+3.2.2.2164.[^194] Az irányítástechnikai eszközöket - azok alrendszereivel együtt - az általuk megvalósított legmagasabb besorolású biztonsági funkció szerint kell biztonsági osztályba sorolni.
 
-3.2.2.2165.[^190] A rendszerek és rendszerelemek biztonsági osztályaihoz a nemzeti és nemzetközi szabványokon és bizonyított mérnöki gyakorlaton alapuló tervezési követelményeket kell rendelni, és következetesen alkalmazni.
+3.2.2.2165.[^195] A rendszerek és rendszerelemek biztonsági osztályaihoz a nemzeti és nemzetközi szabványokon és bizonyított mérnöki gyakorlaton alapuló tervezési követelményeket kell rendelni, és következetesen alkalmazni.
 
-3.2.2.2166.[^191] A biztonsági osztályba sorolás tervezés során alkalmazott folyamatát olyan részletességgel kell dokumentálni, hogy az eredmények független vizsgálatokkal ellenőrizhetők lehessenek..
+3.2.2.2166.[^196] A biztonsági osztályba sorolás tervezés során alkalmazott folyamatát olyan részletességgel kell dokumentálni, hogy az eredmények független vizsgálatokkal ellenőrizhetők lehessenek..
 
-3.2.2.2200.[^192] A tervezéshez meg kell határozni mindazon feltételezhető kezdeti eseményt, amely befolyásolhatja az atomerőmű biztonságát, s ezekből determinisztikus módszerrel vagy determinisztikus és valószínűségi módszerekkel ki kell választani a tervezési alapba tartozókat.
+3.2.2.2200.[^197] A tervezéshez meg kell határozni mindazon feltételezhető kezdeti eseményt, amely befolyásolhatja az atomerőmű biztonságát, s ezekből determinisztikus módszerrel vagy determinisztikus és valószínűségi módszerekkel ki kell választani a tervezési alapba tartozókat.
 
-3.2.2.2300.[^193]
+3.2.2.2300.[^198]
 
 3.2.2.2400. A tervezési alap meghatározása során a bizonytalanságok kompenzálása érdekében ésszerű mértékben konzervatív feltételezéseket kell alkalmazni.
 
@@ -720,21 +720,21 @@ b) szándékos, de nem célzottan az atomerőmű ellen irányuló, vagy szándé
 
 c) az atomerőmű üzemeltetéséből, rendszereinek, rendszerelemeinek meghibásodásából ered.
 
-3.2.2.2800.[^194] A tervezési alap részét képezik mindazok az események, amelyeknek radiológiai következményei lehetnek és nem szűrhetők ki a 3.2.2.3400. pont alapján. Ide tartoznak azok a feltételezett kezdeti események is, amelyek az alacsony teljesítményű üzem során, vagy leállított, szétszerelt atomreaktor esetén következnek be. Az atomreaktoron kívüli lehetséges ilyen eseményeket is a tervezési alap részének kell tekinteni.
+3.2.2.2800.[^199] A tervezési alap részét képezik mindazok az események, amelyeknek radiológiai következményei lehetnek és nem szűrhetők ki a 3.2.2.3400. pont alapján. Ide tartoznak azok a feltételezett kezdeti események is, amelyek az alacsony teljesítményű üzem során, vagy leállított, szétszerelt atomreaktor esetén következnek be. Az atomreaktoron kívüli lehetséges ilyen eseményeket is a tervezési alap részének kell tekinteni.
 
 3.2.2.2900. Az atomerőmű tervezésénél meg kell határozni az összes lehetséges külső és belső veszélyeztető tényezőt.
 
-3.2.2.3000.[^195] A külső veszélyeztető tényezők közül legalább az alábbiakat figyelembe kell venni:
+3.2.2.3000.[^200] A külső veszélyeztető tényezők közül legalább az alábbiakat figyelembe kell venni:
 
 a) szélsőséges szélterhelés,
 
 b) szélsőséges külső hőmérsékletek,
 
-c)[^196] szélsőséges csapadékviszonyok,
+c)[^201] szélsőséges csapadékviszonyok,
 
 d) villámcsapás,
 
-e)[^197] árvíz, jeges árvíz, zöldár, valamint alacsony vízszint,
+e)[^202] árvíz, jeges árvíz, zöldár, valamint alacsony vízszint,
 
 f) fel- és alvízi létesítmények sérülésének veszélye,
 
@@ -748,19 +748,19 @@ j) katonai és polgári repülőgép becsapódása,
 
 k) telephelyhez közeli szállítási, ipari és bányászati tevékenységek,
 
-l)[^198] a kapcsolódó külső távvezeték-hálózat zavarai, beleértve annak tartós és teljes üzemképtelenségét,
+l)[^203] a kapcsolódó külső távvezeték-hálózat zavarai, beleértve annak tartós és teljes üzemképtelenségét,
 
 m) olyan, a telephelyen vagy annak szomszédságában lévő létesítmények, amelyek tüzet, robbanást vagy egyéb veszélyt jelenthetnek az atomerőműre,
 
-n)[^199] egyéb telephelyen kívülről eredő tűz,
+n)[^204] egyéb telephelyen kívülről eredő tűz,
 
-o)[^200] elektromágneses interferencia, valamint
+o)[^205] elektromágneses interferencia, valamint
 
-p)[^201] biológiai eredetű veszélyek.
+p)[^206] biológiai eredetű veszélyek.
 
-3.2.2.3010.[^202] A természeti eredetű veszélyeztető tényezők közül a telephely-specifikus elemzés alapján kell kiválasztani a tervezési alapba tartozókat.
+3.2.2.3010.[^207] A természeti eredetű veszélyeztető tényezők közül a telephely-specifikus elemzés alapján kell kiválasztani a tervezési alapba tartozókat.
 
-3.2.2.3020.[^203] A természeti eredetű veszélyeztető tényezők esetén a tervezés alapját képező eseményeket össze kell hasonlítani a történelmi adatokkal és igazolni kell, hogy a múltbéli extrém eseményeket is elegendő tartalékkal vették figyelembe a tervezés során.
+3.2.2.3020.[^208] A természeti eredetű veszélyeztető tényezők esetén a tervezés alapját képező eseményeket össze kell hasonlítani a történelmi adatokkal és igazolni kell, hogy a múltbéli extrém eseményeket is elegendő tartalékkal vették figyelembe a tervezés során.
 
 3.2.2.3100. Az atomerőmű tervezésénél legalább az alábbi belső eseményeket figyelembe kell venni:
 
@@ -798,47 +798,47 @@ p) a nukleáris üzemanyag kezelésével, mozgatásával és tárolásával kapc
 
 q) nehéz teher leejtése emelőgépek alkalmazása során;
 
-r)[^204] tűz, robbanás és belső elárasztás hatásai és az általuk kiváltott kezdeti események;
+r)[^209] tűz, robbanás és belső elárasztás hatásai és az általuk kiváltott kezdeti események;
 
-s)[^205] kezdeti eseményeket potenciálisan kiváltó folyamatok, így különösen repülő tárgyak, beleértve a turbina elszabaduló részeit, meghibásodott rendszerekből kikerülő veszélyes közeg, rezgés, törött csővezeték ostorozó mozgása, folyadéksugár hatásai, továbbá
+s)[^210] kezdeti eseményeket potenciálisan kiváltó folyamatok, így különösen repülő tárgyak, beleértve a turbina elszabaduló részeit, meghibásodott rendszerekből kikerülő veszélyes közeg, rezgés, törött csővezeték ostorozó mozgása, folyadéksugár hatásai, továbbá
 
-t)[^206] túlfeszültség vagy a villamos hálózat instabilitása.
+t)[^211] túlfeszültség vagy a villamos hálózat instabilitása.
 
-3.2.2.3200.[^207] Az egyedi események minden reális kombinációját figyelembe kell venni a tervezés során – beleértve a külső és a belső eredetű eseményeket is –, amelyek TA4 vagy TAK üzemállapothoz vezethetnek. A tervezésnél figyelembe veendő eseménykombinációkat mérnöki megfontolások és valószínűségi elemzések együttes figyelembevételével kell kiválasztani.
+3.2.2.3200.[^212] Az egyedi események minden reális kombinációját figyelembe kell venni a tervezés során – beleértve a külső és a belső eredetű eseményeket is –, amelyek TA4 vagy TAK üzemállapothoz vezethetnek. A tervezésnél figyelembe veendő eseménykombinációkat mérnöki megfontolások és valószínűségi elemzések együttes figyelembevételével kell kiválasztani.
 
-3.2.2.3300.[^208]
+3.2.2.3300.[^213]
 
-3.2.2.3400.[^209] A feltételezett kezdeti események köréből kiszűrhető:
+3.2.2.3400.[^214] A feltételezett kezdeti események köréből kiszűrhető:
 
 a) a rendszerek, rendszerelemek meghibásodásából vagy emberi hibából bekövetkező belső kezdeti esemény, ha a gyakorisága kisebb, mint 10–5/év;
 
 b) a telephelyre jellemző külső emberi tevékenységből származó olyan esemény, amelynek gyakorisága 10–7/évnél kisebb, vagy ha a veszélyeztető tényező forrása kellően távol van és igazolható, hogy az atomerőművi blokkra várhatóan nem gyakorol hatást; valamint
 
-c)[^210] a 10–4/évnél kisebb gyakorisággal ismétlődő természeti eredetű külső hatás által keltett kezdeti események vagy olyan természeti eredetű külső hatások, amelyekre igazolható, hogy nem képesek fizikailag veszélyeztetni az erőművet.
+c)[^215] a 10–4/évnél kisebb gyakorisággal ismétlődő természeti eredetű külső hatás által keltett kezdeti események vagy olyan természeti eredetű külső hatások, amelyekre igazolható, hogy nem képesek fizikailag veszélyeztetni az erőművet.
 
 3.2.2.3500. Több blokkos atomerőművi telephelyen az atomerőmű egésze és a blokkok tervében figyelembe kell venni, hogy egyes külső veszélyeztető tényezők egyidejűleg érinthetik az atomerőmű minden blokkját.
 
-3.2.2.3510.[^211] Több blokkal rendelkező atomerőmű esetében a tervezés során vizsgálni kell a blokkok által közösen alkalmazott biztonsági rendszerek közös okú meghibásodásának lehetőségét.
+3.2.2.3510.[^216] Több blokkal rendelkező atomerőmű esetében a tervezés során vizsgálni kell a blokkok által közösen alkalmazott biztonsági rendszerek közös okú meghibásodásának lehetőségét.
 
 3.2.2.3600. Olyan telephely estén, ahol több nukleáris létesítmény is üzemel, elemezni kell a létesítmények egymásra gyakorolt hatását is a létesítmények valamennyi üzemállapotában és a feltételezhető összes veszélyeztető tényező által létrehozott körülmények között. A kölcsönhatások elemzésénél a létesítési, üzembe helyezési és a leszerelési életciklus szakaszokat is figyelembe kell venni.
 
 3.2.2.3700. Tervezési megoldásokkal biztosítani kell, hogy az atomerőművi blokk a TA2-4 üzemállapotokat követően az ésszerűen elérhető legrövidebb idő alatt ellenőrzött állapotba, majd biztonságos leállított állapotba kerüljön. Az ellenőrzött állapot elérését legkésőbb 24 órán belül, a biztonságos leállított állapot elérését legkésőbb 72 órán belül biztosítani kell.
 
-3.2.2.3710.[^212] Az atomerőművi blokkok nukleáris biztonságára hatással lévő külső tényezők stabilitását és változásait a teljes élettartamra prognosztizálni kell.
+3.2.2.3710.[^217] Az atomerőművi blokkok nukleáris biztonságára hatással lévő külső tényezők stabilitását és változásait a teljes élettartamra prognosztizálni kell.
 
 A tervezési alap kiterjesztése
 
-3.2.2.3800.[^213] A tervezési alap kiterjesztéseként a TAK üzemállapotokat eredményező eseményeket olyan terjedelemben kell kiválasztani és figyelembe venni, hogy a 3.2.4.0600. pontban, és a 3.2.4.0900. pontban meghatározott valószínűségi biztonsági kritériumok teljesíthetőek, az ésszerűen megvalósítható megelőző vagy a következményeket enyhítő intézkedések meghatározhatók és alkalmazhatóak legyenek.
+3.2.2.3800.[^218] A tervezési alap kiterjesztéseként a TAK üzemállapotokat eredményező eseményeket olyan terjedelemben kell kiválasztani és figyelembe venni, hogy a 3.2.4.0600. pontban, és a 3.2.4.0900. pontban meghatározott valószínűségi biztonsági kritériumok teljesíthetőek, az ésszerűen megvalósítható megelőző vagy a következményeket enyhítő intézkedések meghatározhatók és alkalmazhatóak legyenek.
 
 3.2.2.3900. A tervezési alap kiterjesztésénél legalább az alábbiakat figyelembe kell venni, feltéve, hogy a tervezési alapnak nem képezi részét és az adott erőműtípusra értelmezhető:
 
-a)[^214] teljes feszültségvesztés,
+a)[^219] teljes feszültségvesztés,
 
-b)[^215] a TA2 üzemállapot során szükséges reaktor leállítási funkciót ellátó rendszerek elvesztése,
+b)[^220] a TA2 üzemállapot során szükséges reaktor leállítási funkciót ellátó rendszerek elvesztése,
 
 c) gőzvezeték-törés a gőzfejlesztő hőátadó felületének járulékos sérülésével,
 
-d)[^216] a konténment megkerülésével közvetlen környezeti kibocsátáshoz vezető események,
+d)[^221] a konténment megkerülésével közvetlen környezeti kibocsátáshoz vezető események,
 
 e) teljes tápvízvesztés,
 
@@ -846,7 +846,7 @@ f) hűtőközegvesztés valamelyik zóna-üzemzavari hűtőrendszer-típus telje
 
 g) szabályozatlan szintcsökkenés a részlegesen feltöltött hurok melletti természetes cirkulációs üzemállapot vagy átrakás során,
 
-h)[^217] az alapvető biztonsági funkciót ellátó berendezések egy vagy több segédrendszerének teljes elvesztése,
+h)[^222] az alapvető biztonsági funkciót ellátó berendezések egy vagy több segédrendszerének teljes elvesztése,
 
 i) az aktív zóna hűtésének elvesztése a maradványhő elvezetése során,
 
@@ -854,21 +854,21 @@ j) a pihentető medence hűtésének elvesztése,
 
 k) ellenőrizetlen bórhígulás,
 
-l)[^218] gőzfejlesztő több hőátadó csövének egyidejű törése,
+l)[^223] gőzfejlesztő több hőátadó csövének egyidejű törése,
 
-m)[^219] egy feltételezett kezdeti esemény kezeléséhez hosszú távon szükséges biztonsági rendszerek elvesztése,
+m)[^224] egy feltételezett kezdeti esemény kezeléséhez hosszú távon szükséges biztonsági rendszerek elvesztése,
 
-n)[^220] a végső hőelnyelő elvesztése,
+n)[^225] a végső hőelnyelő elvesztése,
 
-o)[^221] üzemanyag-olvadással járó egyéb események.
+o)[^226] üzemanyag-olvadással járó egyéb események.
 
-3.2.2.3910.[^222] A TAK1 üzemállapothoz vezető események kiválasztásánál minden olyan eseményt vagy eseménykombinációt figyelembe kell venni, amelyekről nem lehet nagy bizonyossággal megállapítani, hogy rendkívül alacsony a bekövetkezési valószínűségük és olyan állapotokhoz vezethetnek, amiket nem vettek figyelembe a tervezési alapban.
+3.2.2.3910.[^227] A TAK1 üzemállapothoz vezető események kiválasztásánál minden olyan eseményt vagy eseménykombinációt figyelembe kell venni, amelyekről nem lehet nagy bizonyossággal megállapítani, hogy rendkívül alacsony a bekövetkezési valószínűségük és olyan állapotokhoz vezethetnek, amiket nem vettek figyelembe a tervezési alapban.
 
-3.2.2.3920.[^223] Azonosítani kell minden TAK2 üzemállapotot.
+3.2.2.3920.[^228] Azonosítani kell minden TAK2 üzemállapotot.
 
-3.2.2.3930.[^224] A TAK elemzéseknek és a terveknek azonosítaniuk kell minden olyan ésszerűen megvalósítható intézkedést, amelyekkel megelőzhetők a súlyos balesetek. Az azonosított intézkedések eredményességétől függetlenül fel kell készülni a súlyos balesetekre is. Az elemzések és a tervezés keretében azonosítani kell minden olyan ésszerűen megvalósítható megoldást is, amelyekkel korlátozhatók a súlyos balesetek következményei.
+3.2.2.3930.[^229] A TAK elemzéseknek és a terveknek azonosítaniuk kell minden olyan ésszerűen megvalósítható intézkedést, amelyekkel megelőzhetők a súlyos balesetek. Az azonosított intézkedések eredményességétől függetlenül fel kell készülni a súlyos balesetekre is. Az elemzések és a tervezés keretében azonosítani kell minden olyan ésszerűen megvalósítható megoldást is, amelyekkel korlátozhatók a súlyos balesetek következményei.
 
-3.2.2.3940.[^225] A TAK események elemzésénél:
+3.2.2.3940.[^230] A TAK események elemzésénél:
 
 a) csak megalapozott módszereket és feltételezéseket lehet használni;
 
@@ -888,11 +888,11 @@ h) ahol releváns, figyelembe kell venni a súlyos baleset során lejátszódó 
 
 i) definiálni kell végső állapotokat, vagy - ahol lehetséges - biztonságos állapotokat, illetve az ezekhez kapcsolódó rendszerek és rendszerelemek szükséges működési idejét.
 
-3.2.2.3950.[^226] Alternatív villamos-energia ellátási lehetőséget kell biztosítani a teljes feszültségvesztés elkerülésére.
+3.2.2.3950.[^231] Alternatív villamos-energia ellátási lehetőséget kell biztosítani a teljes feszültségvesztés elkerülésére.
 
-3.2.2.4000.[^227]
+3.2.2.4000.[^232]
 
-3.2.2.4100.[^228] A tervezési alap kiterjesztésénél a baleset-kezelési funkciókat és az azokat megvalósító rendszerek képességeit kell figyelembe venni annak érdekében, hogy a TAK2 üzemállapot következményei a 3.2.4.0900. pontban a nagy vagy korai kibocsátásokra előírt kritériumoknak megfelelően csökkenthetők legyenek.
+3.2.2.4100.[^233] A tervezési alap kiterjesztésénél a baleset-kezelési funkciókat és az azokat megvalósító rendszerek képességeit kell figyelembe venni annak érdekében, hogy a TAK2 üzemállapot következményei a 3.2.4.0900. pontban a nagy vagy korai kibocsátásokra előírt kritériumoknak megfelelően csökkenthetők legyenek.
 
 3.2.2.4200. A TAK1 és TAK2 üzemállapot jellemzőiből kell származtatni a határfeltételeket és követelményeket, amelyekre a TAK üzemállapotot eredményező események kezelésre szolgáló rendszereket és rendszerelemeket tervezni kell.
 
@@ -904,17 +904,17 @@ b) gőzrobbanás, valamint
 
 c) hidrogén detonáció.
 
-3.2.2.4310.[^229] A bizonytalanságok minimalizálása és az atomerőművi blokk robosztusságának fokozása érdekében a gyakorlati kizárhatóság igazolása során előnyben kell részesíteni a fizikai lehetetlenségen alapuló igazolást a valószínűségi alapon történő igazoláshoz képest.
+3.2.2.4310.[^234] A bizonytalanságok minimalizálása és az atomerőművi blokk robosztusságának fokozása érdekében a gyakorlati kizárhatóság igazolása során előnyben kell részesíteni a fizikai lehetetlenségen alapuló igazolást a valószínűségi alapon történő igazoláshoz képest.
 
-3.2.2.4400.[^230] A tervezés során balesetkezelési funkciókat és azokat megvalósító, baleseti nyomáscsökkentő és hidrogén eltávolító rendszereket olyan terjedelemben kell meghatározni, hogy az üzemanyag-olvadást okozó eseményeknél a nagynyomású folyamatok, valamint a korai konténment sérülések elkerülhetők legyenek.
+3.2.2.4400.[^235] A tervezés során balesetkezelési funkciókat és azokat megvalósító, baleseti nyomáscsökkentő és hidrogén eltávolító rendszereket olyan terjedelemben kell meghatározni, hogy az üzemanyag-olvadást okozó eseményeknél a nagynyomású folyamatok, valamint a korai konténment sérülések elkerülhetők legyenek.
 
 3.2.2.4500. Balesetek következményeit enyhítő funkciókat és szükség esetén azokat megvalósító rendszereket olyan terjedelemben kell meghatározni, hogy súlyos baleseteknél a zónaolvadék a konténmenten belül lehűtött állapotban megtartható legyen.
 
-3.2.2.4600.[^231]
+3.2.2.4600.[^236]
 
-3.2.2.4610.[^232] Meg kell tervezni a szükséges baleset-kezelési eszközöket, és ki kell dolgozni a baleset-kezelési útmutatókat a részletesen elemezett tervezési alapon túli események - beleértve az üzemanyag teljes megolvadásával járó súlyos baleseti folyamatok - következményeinek hatékony csökkentésére úgy, hogy a környezet és a lakosság veszélyeztetése a baleset-kezelési eljárások és eszközök sikeres működése esetén előre meghatározott, kezelhető szint alatt maradjon.
+3.2.2.4610.[^237] Meg kell tervezni a szükséges baleset-kezelési eszközöket, és ki kell dolgozni a baleset-kezelési útmutatókat a részletesen elemezett tervezési alapon túli események - beleértve az üzemanyag teljes megolvadásával járó súlyos baleseti folyamatok - következményeinek hatékony csökkentésére úgy, hogy a környezet és a lakosság veszélyeztetése a baleset-kezelési eljárások és eszközök sikeres működése esetén előre meghatározott, kezelhető szint alatt maradjon.
 
-3.2.2.4620.[^233] A baleset-kezelési eszközökre csak ésszerűen megvalósítható mértékben kell alkalmazni a biztonsági rendszerekre előírt speciális tervezési követelményeket. A baleset-kezelési eszközök nem befolyásolhatják kedvezőtlenül a tervezési alapba tartozó biztonsági funkciók teljesülését.
+3.2.2.4620.[^238] A baleset-kezelési eszközökre csak ésszerűen megvalósítható mértékben kell alkalmazni a biztonsági rendszerekre előírt speciális tervezési követelményeket. A baleset-kezelési eszközök nem befolyásolhatják kedvezőtlenül a tervezési alapba tartozó biztonsági funkciók teljesülését.
 
 A biztonságra való tervezés elvei
 
@@ -926,9 +926,9 @@ a) a kezdeti esemény ne okozhasson szignifikáns hatást a biztonságra, vagy a
 
 b) a kezdeti esemény hatására az atomerőmű biztonságos maradjon a passzív biztonsági eszközök vagy olyan rendszerek működése révén, amelyek folyamatosan üzemelnek a kezdeti esemény szerinti állapotban;
 
-c)[^234] a kezdeti eseményt követően az atomerőmű biztonságos leállított állapotba kerüljön azoknak a biztonsági rendszereknek a működése révén, amelyek az esemény kezeléséhez szükségesek; valamint
+c)[^239] a kezdeti eseményt követően az atomerőmű biztonságos leállított állapotba kerüljön azoknak a biztonsági rendszereknek a működése révén, amelyek az esemény kezeléséhez szükségesek; valamint
 
-d)[^235] a kezdeti eseményt követően az atomerőmű biztonságos leállított állapotba kerüljön speciális eljárások alkalmazása révén.
+d)[^240] a kezdeti eseményt követően az atomerőmű biztonságos leállított állapotba kerüljön speciális eljárások alkalmazása révén.
 
 3.2.2.4900. Amennyiben valamely kezdeti esemény bekövetkezésekor azonnali beavatkozásra van szükség, biztosítani kell, hogy az automatikusan megtörténjen a súlyosabb következmények megelőzése érdekében. A kezelői beavatkozásra akkor kerülhet sor, ha az esemény észlelése és a szükséges intézkedés közötti idő a biztonsági elemzésekben bizonyítottan elegendően hosszú. A kezelői beavatkozás esetén biztosítani kell a kezdeti esemény kezeléséhez szükséges megfelelő adminisztratív, üzemviteli, üzemzavar-elhárítási és balesetkezelési eljárások rendelkezésre állását.
 
@@ -938,15 +938,15 @@ d)[^235] a kezdeti eseményt követően az atomerőmű biztonságos leállított
 
 3.2.2.5200. A tervezésnél figyelembe kell venni a rendszerelemek szándékolatlan működésének lehetőségét és következményeit, meghibásodási módjait.
 
-3.2.2.5300.[^236] Megfelelő tervezéssel biztosítani kell, hogy a TA1-2 üzemállapotok esetén az összes fizikai gát teljesítse funkcióját.
+3.2.2.5300.[^241] Megfelelő tervezéssel biztosítani kell, hogy a TA1-2 üzemállapotok esetén az összes fizikai gát teljesítse funkcióját.
 
-3.2.2.5400.[^237] Megfelelő tervezéssel biztosítani kell, hogy bármely TA4 üzemállapotot eredményező esemény bekövetkezése esetén a fűtőelemekben lévő radioaktív anyag kibocsátását megakadályozó fizikai gátak közül legalább egy teljesítse a funkcióját.
+3.2.2.5400.[^242] Megfelelő tervezéssel biztosítani kell, hogy bármely TA4 üzemállapotot eredményező esemény bekövetkezése esetén a fűtőelemekben lévő radioaktív anyag kibocsátását megakadályozó fizikai gátak közül legalább egy teljesítse a funkcióját.
 
-3.2.2.5500.[^238] A tervezés során az operátori beavatkozások, a biztonságos üzemeltetéshez szükséges külső szolgáltatások, külső villamos betáplálás és a végső hőelnyelő tekintetében autonómia követelményeket kell meghatározni.
+3.2.2.5500.[^243] A tervezés során az operátori beavatkozások, a biztonságos üzemeltetéshez szükséges külső szolgáltatások, külső villamos betáplálás és a végső hőelnyelő tekintetében autonómia követelményeket kell meghatározni.
 
-3.2.2.5600.[^239]
+3.2.2.5600.[^244]
 
-3.2.2.5700.[^240] A nukleáris biztonsági osztályba sorolt rendszereket úgy kell tervezni, hogy azok üzem közben szükséges tervszerű megelőző karbantartása vagy tesztelése miatt az atomerőművi blokkot ne kelljen leállítani.
+3.2.2.5700.[^245] A nukleáris biztonsági osztályba sorolt rendszereket úgy kell tervezni, hogy azok üzem közben szükséges tervszerű megelőző karbantartása vagy tesztelése miatt az atomerőművi blokkot ne kelljen leállítani.
 
 3.2.2.5800. A tervezés során egyszerűségre, átláthatóságra kell törekedni. A passzív védelmi rendszerek használatát kell előnyben részesíteni az aktív megoldásokkal szemben.
 
@@ -956,21 +956,21 @@ Alapkövetelmények
 
 3.2.3.0100. A tervezési alapra vonatkozó általános biztonsági követelmények teljesülésének bizonyítására használt tervező és elemző eszközöket, modelleket és modellrészeket, valamint a bemenő adatokat verifikálni és validálni kell. Az elemzési eszközök validációját a megfelelő nemzetközileg elérhető adatok – kísérleti eredmények – alapján kell bemutatni. Az elemzési modellek verifikációját az elemzést, tervezést végrehajtó személytől, munkacsoporttól független személynek, munkacsoportnak is el kell végeznie.
 
-3.2.3.0200.[^241]
+3.2.3.0200.[^246]
 
-3.2.3.0300.[^242] A tervezési alap meghatározása, valamint a vizsgált események elemzése során alkalmazott módszerek és felhasznált adatok megfelelőségét fizikai adatok, kísérletek felhasználásával, vagy más módon kell bizonyítani. A fennmaradó bizonytalanságok kompenzálása érdekében – a biztonsági elemzésben megalapozott, ésszerű mértékben – konzervatív feltételezéseket kell alkalmazni, elsősorban a kezdeti és peremfeltételek konzervatív megválasztásával.
+3.2.3.0300.[^247] A tervezési alap meghatározása, valamint a vizsgált események elemzése során alkalmazott módszerek és felhasznált adatok megfelelőségét fizikai adatok, kísérletek felhasználásával, vagy más módon kell bizonyítani. A fennmaradó bizonytalanságok kompenzálása érdekében – a biztonsági elemzésben megalapozott, ésszerű mértékben – konzervatív feltételezéseket kell alkalmazni, elsősorban a kezdeti és peremfeltételek konzervatív megválasztásával.
 
 3.2.3.0400. Érzékenységi vizsgálatokat kell végezni a feltételezések, a felhasznált adatok és számítási módszerek bizonytalanságának értékelésére. Ahol az elemzés eredményei érzékenyeknek bizonyulnak a modell feltételezéseire, ott további elemzéseket kell végezni az előzőtől független módszerek és eljárások használatával.
 
 3.2.3.0500. A biztonság igazolására szolgáló elemzéseket oly módon és olyan mélységben kell dokumentálni, hogy azok az atomerőmű teljes élettartama során megismételhetőek, független felülvizsgálatnak alávethetőek, és az átalakítások értékeléséhez szükséges terjedelemben módosíthatóak legyenek, továbbá az alkalmazott konzervativizmusok mértéke és az elemzés alapján rendelkezésre álló tartalékok mértéke felülvizsgálható és újraértékelhető legyen.
 
-3.2.3.0600.[^243] Az atomerőmű élettartama során minden, a nukleáris biztonság szempontjából fontos rendszert, rendszerelemet érintő, az engedélyezett állapottól eltérő helyzetet okozó beavatkozás, módosítás megfelelőségét determinisztikus biztonsági elemzéssel vagy determinisztikus és valószínűségi biztonsági elemzések kombinációjával kell igazolni.
+3.2.3.0600.[^248] Az atomerőmű élettartama során minden, a nukleáris biztonság szempontjából fontos rendszert, rendszerelemet érintő, az engedélyezett állapottól eltérő helyzetet okozó beavatkozás, módosítás megfelelőségét determinisztikus biztonsági elemzéssel vagy determinisztikus és valószínűségi biztonsági elemzések kombinációjával kell igazolni.
 
-3.2.3.0700.[^244] A tervezési alapot, a tervezési alap kiterjesztését és ezek igazolását a tervezés lezárásakor, valamint az atomerőmű teljes élettartama során, rendszeres időközönként, továbbá lényeges új biztonsági információk felmerülése esetén felül kell vizsgálni, és szükség esetén módosításokat kell végrehajtani a determinisztikus és valószínűségi számítások eredményei alapján. Az azonosított hiányosságokat értékelni kell, és időben meg kell tenni a szükséges korrekciós intézkedéseket.
+3.2.3.0700.[^249] A tervezési alapot, a tervezési alap kiterjesztését és ezek igazolását a tervezés lezárásakor, valamint az atomerőmű teljes élettartama során, rendszeres időközönként, továbbá lényeges új biztonsági információk felmerülése esetén felül kell vizsgálni, és szükség esetén módosításokat kell végrehajtani a determinisztikus és valószínűségi számítások eredményei alapján. Az azonosított hiányosságokat értékelni kell, és időben meg kell tenni a szükséges korrekciós intézkedéseket.
 
 Determinisztikus biztonsági elemzés
 
-3.2.3.0710.[^245] A felülvizsgálat során figyelembe kell venni:
+3.2.3.0710.[^250] A felülvizsgálat során figyelembe kell venni:
 
 a) az atomerőművi blokkot vagy annak működését érintő változásokat a tervezés vagy a megvalósulás fázisában, és működése során;
 
@@ -984,11 +984,11 @@ e) jelentős, új biztonsági információ felmerülését.
 
 3.2.3.0800. A tervezési alapba, valamint a tervezési alap kiterjesztésébe tartozó összes kezdeti eseményre determinisztikus biztonsági elemzésekkel kell igazolni a vonatkozó elfogadási kritériumok teljesülését.
 
-3.2.3.0900.[^246] A TA2-4 üzemállapotot eredményező események elemzése során csak a biztonsági funkciót megvalósító rendszerek működését szabad figyelembe venni. Ezeknek a rendszereknek a teljesítményét a vizsgált folyamat szempontjából lehetséges legkedvezőtlenebb mértékűnek kell feltételezni. Az eseménysorra hatással bíró nem biztonsági funkciót megvalósító rendszerek, rendszerelemek működését akkor kell feltételezni, ha azok működése súlyosbítja a kezdeti esemény hatását.
+3.2.3.0900.[^251] A TA2-4 üzemállapotot eredményező események elemzése során csak a biztonsági funkciót megvalósító rendszerek működését szabad figyelembe venni. Ezeknek a rendszereknek a teljesítményét a vizsgált folyamat szempontjából lehetséges legkedvezőtlenebb mértékűnek kell feltételezni. Az eseménysorra hatással bíró nem biztonsági funkciót megvalósító rendszerek, rendszerelemek működését akkor kell feltételezni, ha azok működése súlyosbítja a kezdeti esemény hatását.
 
 3.2.3.1000. A TA2-4 üzemállapotot eredményező események elemzéseiben a biztonsági funkciót ellátó rendszereknek az adott esemény következményeit leginkább meghatározó, legsúlyosabb következményt eredményező egyszeres meghibásodását vagy emberi hibát kell feltételezni. Nem szükséges azonban feltételezni passzív rendszerelem meghibásodását, amennyiben igazolható, hogy az adott rendszerelem meghibásodása nagyon kis valószínűségű, vagy a feltételezett kezdeti esemény bekövetkezése nincs rá hatással.
 
-3.2.3.1100.[^247] A TA2 üzemállapotot eredményező kezdeti eseményeket az üzemállapot során szükséges leállítási funkciót ellátó rendszerek elvesztésével is elemezni kell. Az értékelés során az elemzett esetre a kombinált kezdeti eseményre vonatkozó kritériumokat kell használni.
+3.2.3.1100.[^252] A TA2 üzemállapotot eredményező kezdeti eseményeket az üzemállapot során szükséges leállítási funkciót ellátó rendszerek elvesztésével is elemezni kell. Az értékelés során az elemzett esetre a kombinált kezdeti eseményre vonatkozó kritériumokat kell használni.
 
 3.2.3.1200. A TA1 üzemállapotban fellépő igénybevételekre, nyomáspróbákra, a TA2-4 üzemállapotot eredményező kezdeti eseményekre, valamint bármely, 10–5 1/év-nél gyakoribb eseménylánc során kialakuló nyomás alatti hőütésre elemezni kell a reaktortartály integritására vonatkozó megfelelőségi kritériumok teljesülését.
 
@@ -1002,11 +1002,11 @@ Valószínűségi biztonsági elemzés
 
 3.2.3.1600. Az atomerőművi blokk tervéhez 1. és 2. szintű valószínűségi biztonsági elemzést kell kidolgozni, amely figyelembe vesz minden lehetséges üzemállapotot, rendszerkonfigurációt és valamennyi feltételezett kezdeti eseményt, amelyre más módszerrel nem bizonyítható, hogy a kockázathoz adott járuléka elhanyagolható.
 
-3.2.3.1700.[^248] A valószínűségi biztonsági elemzésben figyelembe kell venni a lényeges funkcionális, területi, a rendszerelemek fizikai elhelyezkedéseit alapul vevő, az üzemeltetésből, karbantartásból és egyéb közös okú meghibásodásból fakadó függőségeket, így különösen a repülő tárgyak, folyadék- és gőzsugár hatásait, a belső tüzet és elárasztást, valamint a környező ipari létesítmények üzemzavarait és emberi tevékenységek hatásait. A külső természeti eredetű veszélyeztető tényezők által kiváltott eseményeket is értékelni kell.
+3.2.3.1700.[^253] A valószínűségi biztonsági elemzésben figyelembe kell venni a lényeges funkcionális, területi, a rendszerelemek fizikai elhelyezkedéseit alapul vevő, az üzemeltetésből, karbantartásból és egyéb közös okú meghibásodásból fakadó függőségeket, így különösen a repülő tárgyak, folyadék- és gőzsugár hatásait, a belső tüzet és elárasztást, valamint a környező ipari létesítmények üzemzavarait és emberi tevékenységek hatásait. A külső természeti eredetű veszélyeztető tényezők által kiváltott eseményeket is értékelni kell.
 
-3.2.3.1800.[^249] Az 1. és 2. szintű valószínűségi biztonsági elemzés keretében a bizonytalansági és érzékenységi vizsgálatokat is el kell végezni, és minden alkalmazásnál tekintettel kell lenni azok eredményére.
+3.2.3.1800.[^254] Az 1. és 2. szintű valószínűségi biztonsági elemzés keretében a bizonytalansági és érzékenységi vizsgálatokat is el kell végezni, és minden alkalmazásnál tekintettel kell lenni azok eredményére.
 
-3.2.3.1900.[^250] A valószínűségi biztonsági elemzésnek az atomerőmű viselkedését valósághűen kell modelleznie. Ehhez figyelembe kell venni a vonatkozó tervezési adatokat, az üzemeltetési és üzemzavari utasításokat, balesetkezelési útmutatókat vagy azok tervezeteit, figyelembe véve az emberi beavatkozásokat, az azokhoz kapcsolódó potenciális emberi hibákkal együtt. A valószínűségi biztonsági elemzésekben feltételezett működési idők megfelelőségét igazolni kell.
+3.2.3.1900.[^255] A valószínűségi biztonsági elemzésnek az atomerőmű viselkedését valósághűen kell modelleznie. Ehhez figyelembe kell venni a vonatkozó tervezési adatokat, az üzemeltetési és üzemzavari utasításokat, balesetkezelési útmutatókat vagy azok tervezeteit, figyelembe véve az emberi beavatkozásokat, az azokhoz kapcsolódó potenciális emberi hibákkal együtt. A valószínűségi biztonsági elemzésekben feltételezett működési idők megfelelőségét igazolni kell.
 
 3.2.3.2000. Emberi megbízhatósági elemzéseket kell végezni, figyelembe véve azokat a tényezőket, amelyek az atomerőművi blokk egyes üzemállapotaiban hatással lehetnek az üzemeltető személyzet tevékenységére, teljesítőképességére.
 
@@ -1020,9 +1020,9 @@ Valószínűségi biztonsági elemzés
 
 Végleges Biztonsági Jelentés készítése
 
-3.2.3.2500.[^251] Az atomerőművi blokk létesítését, üzembe helyezését és üzemeltetését megelőző hatósági engedélyeztetési eljárások megalapozásához Biztonsági Jelentést kell készíteni. A Biztonsági Jelentésben egységes rendszerbe kell foglalni az atomerőmű létesítésére, üzembe helyezésére és üzemeltetésére vonatkozó követelmények teljesítésének igazolására vonatkozó információkat.
+3.2.3.2500.[^256] Az atomerőművi blokk létesítését, üzembe helyezését és üzemeltetését megelőző hatósági engedélyeztetési eljárások megalapozásához Biztonsági Jelentést kell készíteni. A Biztonsági Jelentésben egységes rendszerbe kell foglalni az atomerőmű létesítésére, üzembe helyezésére és üzemeltetésére vonatkozó követelmények teljesítésének igazolására vonatkozó információkat.
 
-3.2.3.2600.[^252] A Végleges Biztonsági Jelentést a következő tartalmi követelmények alapján kell összeállítani:
+3.2.3.2600.[^257] A Végleges Biztonsági Jelentést a következő tartalmi követelmények alapján kell összeállítani:
 
 a) az alkalmazandó jogszabályok, előírások és szabványok,
 
@@ -1034,7 +1034,7 @@ d) a telephely biztonság szempontjából meghatározó jellemzői,
 
 e) a biztonsági funkciók, az azokat megvalósító rendszerek és rendszerelemek, a biztonsági osztályba sorolás elvei, a rendszerek, rendszerelemek tervezési alapja és működésük minden üzemállapotban,
 
-f)[^253] az atomerőmű biztonságának értékelése céljából a TA1-4 és TAK1-2 üzemállapotok esetére, a biztonsági kritériumok és a radioaktív anyagok kibocsátási korlátai teljesülésének igazolására elvégzett biztonsági elemzések, valamint TA1-4 üzemállapotok esetén annak bemutatása, hogy megfelelő biztonsági tartalékok állnak rendelkezésre,
+f)[^258] az atomerőmű biztonságának értékelése céljából a TA1-4 és TAK1-2 üzemállapotok esetére, a biztonsági kritériumok és a radioaktív anyagok kibocsátási korlátai teljesülésének igazolására elvégzett biztonsági elemzések, valamint TA1-4 üzemállapotok esetén annak bemutatása, hogy megfelelő biztonsági tartalékok állnak rendelkezésre,
 
 g) a biztonsági funkciókat megvalósító mérő és irányítástechnikai rendszerek, az aktív, elektronikus védelmi rendszerek, valamint az üzemeltető személyzetet támogató és regisztráló rendszerek,
 
@@ -1042,7 +1042,7 @@ h) az atomerőművet üzemeltető szervezet és az irányítási rendszer bizton
 
 i) az atomerőmű üzembe helyezésének programja és annak alapjául szolgáló megfontolások, továbbá annak bemutatása, hogy az előirányzott üzembe helyezési tevékenység alkalmas annak igazolására, hogy az atomerőművi blokk a terveknek és a biztonsági előírásoknak megfelelően fog működni,
 
-j)[^254] az üzemzavar-elhárítási utasítások és a balesetkezelési útmutatók, az ellenőrzési utasítások, az üzemeltető személyzet képzettségi követelményei és képzés, az üzemeltetési tapasztalatok és a releváns kutatási eredmények visszacsatolásának eljárása és az öregedéskezelés átfogó programja,
+j)[^259] az üzemzavar-elhárítási utasítások és a balesetkezelési útmutatók, az ellenőrzési utasítások, az üzemeltető személyzet képzettségi követelményei és képzés, az üzemeltetési tapasztalatok és a releváns kutatási eredmények visszacsatolásának eljárása és az öregedéskezelés átfogó programja,
 
 k) a karbantartási, tesztelési és felügyeleti programok és azok alapjául szolgáló megfontolások,
 
@@ -1054,27 +1054,27 @@ n) a telephelyi nukleáris baleset-elhárítási felkészülés tervezési alapj
 
 o) a radioaktív hulladékok telephelyi kezelésének rendszere,
 
-p)[^255] a tervezés és üzemeltetés során a végső leállítás és a leszerelés figyelembevételének szempontjai,
+p)[^260] a tervezés és üzemeltetés során a végső leállítás és a leszerelés figyelembevételének szempontjai,
 
-q)[^256] a 3.2.2.3700. és a 3.2.3.2610. pontok szerinti elemzések,
+q)[^261] a 3.2.2.3700. és a 3.2.3.2610. pontok szerinti elemzések,
 
-r)[^257] több blokkal rendelkező atomerőmű esetén a blokkok közötti lehetséges technikai, szervezeti és adminisztratív kölcsönhatások, valamint
+r)[^262] több blokkal rendelkező atomerőmű esetén a blokkok közötti lehetséges technikai, szervezeti és adminisztratív kölcsönhatások, valamint
 
-s)[^258] az atomerőműhöz kapcsolódó szervezetek leírása, az emberi tényezők, az irányítási rendszer felépítése és a biztonsági kultúra értékelése.
+s)[^263] az atomerőműhöz kapcsolódó szervezetek leírása, az emberi tényezők, az irányítási rendszer felépítése és a biztonsági kultúra értékelése.
 
-3.2.3.2610.[^259] A Végleges Biztonsági Jelentésben szereplő leírásokban, elemzésekben és megállapításokban a telephely egészét is vizsgálni kell annak érdekében, hogy olyan veszélyeztető tényezőket is figyelembe vegyenek, amelyek:
+3.2.3.2610.[^264] A Végleges Biztonsági Jelentésben szereplő leírásokban, elemzésekben és megállapításokban a telephely egészét is vizsgálni kell annak érdekében, hogy olyan veszélyeztető tényezőket is figyelembe vegyenek, amelyek:
 
 a) rövid időn belül az összes létesítményt érinthetik, vagy
 
 b) a létesítmények közti káros kölcsönhatásokból származhatnak.
 
-3.2.3.2620.[^260] Olyan telephely esetében, ahol több nukleáris létesítmény is üzemel, és a létesítmények osztoznak valamilyen emberi vagy más erőforráson, akkor igazolni kell, hogy az elvárt biztonsági funkciók így is teljesülnek mindkét létesítmény esetében.
+3.2.3.2620.[^265] Olyan telephely esetében, ahol több nukleáris létesítmény is üzemel, és a létesítmények osztoznak valamilyen emberi vagy más erőforráson, akkor igazolni kell, hogy az elvárt biztonsági funkciók így is teljesülnek mindkét létesítmény esetében.
 
-3.2.3.2700.[^261] Az engedélyesnek valamennyi, a Végleges Biztonsági Jelentésben hivatkozott vagy figyelembe vett – nyilvánosan nem hozzáférhető – dokumentációval rendelkezni kell.
+3.2.3.2700.[^266] Az engedélyesnek valamennyi, a Végleges Biztonsági Jelentésben hivatkozott vagy figyelembe vett – nyilvánosan nem hozzáférhető – dokumentációval rendelkezni kell.
 
-3.2.4.[^262] Biztonsági elemzések elfogadási kritériumai
+3.2.4.[^267] Biztonsági elemzések elfogadási kritériumai
 
-3.2.4.0100.[^263] A TA2-4 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatokra bizonyítani kell, hogy a lakosság vonatkoztatási csoportjának dózisa nem haladja meg:
+3.2.4.0100.[^268] A TA2-4 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatokra bizonyítani kell, hogy a lakosság vonatkoztatási csoportjának dózisa nem haladja meg:
 
 a) TA2 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatnál a dózismegszorítás értékét, és
 
@@ -1082,35 +1082,35 @@ b) a TA4 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatok
 
 3.2.4.0200. TA2 üzemállapotot eredményező kezdeti események nem okozhatnak 1 mSv/esemény értéket meghaladó dózist az atomerőmű ellenőrzött zónáján kívül, az atomerőmű emberi tartózkodásra engedélyezett üzemi területein.
 
-3.2.4.0300.[^264] TA4 üzemállapotot eredményező kezdeti események nem okozhatnak 10 mSv effektív dózisértéket vagy 100 mGy pajzsmirigy dózisértéket meghaladó dózist az atomerőmű ellenőrzött zónáján kívül, az atomerőmű emberi tartózkodásra engedélyezett üzemi területein.
+3.2.4.0300.[^269] TA4 üzemállapotot eredményező kezdeti események nem okozhatnak 10 mSv effektív dózisértéket vagy 100 mGy pajzsmirigy dózisértéket meghaladó dózist az atomerőmű ellenőrzött zónáján kívül, az atomerőmű emberi tartózkodásra engedélyezett üzemi területein.
 
 3.2.4.0400. A TA2 üzemállapotot eredményező kezdeti események az atomerőmű ellenőrzött zónájában csak olyan mértékű és jellegű radioaktív szennyeződést okozhatnak, amelyek az üzemszerűen alkalmazott módszerekkel, rendszerekkel és rendszerelemekkel kezelhetők és eltávolíthatók.
 
 3.2.4.0500. A TA2-4 üzemállapotot eredményező kezdeti események – az egyszeres meghibásodás feltételezése mellett, további független hiba feltételezése nélkül – nem idézhetnek elő olyan következményt, amely sérti az adott üzemállapotra előírt biztonsági kritériumokat.
 
-3.2.4.0600.[^265] Valamennyi tervezett üzemállapot és feltételezett kezdeti esemény figyelembe- vételével – a szabotázst kivéve – a zónasérülési gyakoriság nem haladja meg a 10–4/év értéket.
+3.2.4.0600.[^270] Valamennyi tervezett üzemállapot és feltételezett kezdeti esemény figyelembe- vételével – a szabotázst kivéve – a zónasérülési gyakoriság nem haladja meg a 10–4/év értéket.
 
-3.2.4.0700.[^266]
+3.2.4.0700.[^271]
 
-3.2.4.0800.[^267]
+3.2.4.0800.[^272]
 
-3.2.4.0900.[^268] A nagy vagy korai kibocsátással járó súlyos baleseti eseményláncok összegzett gyakorisága, minden kiinduló üzemállapotra és hatásra összegezve – kivéve a szabotázs esetét, valamint a földrengést – nem haladhatja meg a 10–5/év értéket, de minden ésszerű átalakítás, beavatkozás alkalmazásával közelíteni kell a 10–6/év értékhez. A követelmények teljesülését 2. szintű valószínűségi alapú biztonsági elemzésekkel kell igazolni.
+3.2.4.0900.[^273] A nagy vagy korai kibocsátással járó súlyos baleseti eseményláncok összegzett gyakorisága, minden kiinduló üzemállapotra és hatásra összegezve – kivéve a szabotázs esetét, valamint a földrengést – nem haladhatja meg a 10–5/év értéket, de minden ésszerű átalakítás, beavatkozás alkalmazásával közelíteni kell a 10–6/év értékhez. A követelmények teljesülését 2. szintű valószínűségi alapú biztonsági elemzésekkel kell igazolni.
 
-3.2.4.1000.[^269] A tervezésnek determinisztikus biztonsági elemzésekkel kell igazolni, hogy a TA2 üzemállapotot eredményező kezdeti események egyszeres hiba feltételezése mellett nem vezetnek egyetlen gát funkciójának elvesztéséhez sem.
+3.2.4.1000.[^274] A tervezésnek determinisztikus biztonsági elemzésekkel kell igazolni, hogy a TA2 üzemállapotot eredményező kezdeti események egyszeres hiba feltételezése mellett nem vezetnek egyetlen gát funkciójának elvesztéséhez sem.
 
-3.2.4.1100.[^270] A reaktortartály ridegtöréssel szembeni integritását olyan módon kell biztosítani, hogy a tartály kritikus elemeiben a feszültségintenzitási tényező sehol sem haladhatja meg a kialakult hőmérséklethez tartozó törési szívósságot - azaz a szerkezetben levő anyagfolytonossági hiányok nem növekedhetnek a TA2-4 üzemállapotot eredményező események során.
+3.2.4.1100.[^275] A reaktortartály ridegtöréssel szembeni integritását olyan módon kell biztosítani, hogy a tartály kritikus elemeiben a feszültségintenzitási tényező sehol sem haladhatja meg a kialakult hőmérséklethez tartozó törési szívósságot - azaz a szerkezetben levő anyagfolytonossági hiányok nem növekedhetnek a TA2-4 üzemállapotot eredményező események során.
 
 3.2.4.1200. TA2-4 üzemállapotot eredményező kezdeti eseményeket követően a reaktivitásra ható szabályozó és biztonságvédelmi szerkezetek, a fűtőelemkötegek, valamint az atomreaktor szerkezeti elemei nem sérülhetnek, deformálódhatnak oly mértékben, hogy ezáltal a szabályozó és biztonságvédelmi szerkezeteknek a hasadási láncreakció leállítására irányuló mozgása lehetetlenné váljon.
 
 3.2.4.1300. TA2-4 üzemállapotot eredményező kezdeti eseményeket követően a fűtőelemkötegeknek, az atomreaktor primer körének és az ahhoz kapcsolódó rendszereknek olyan állapotban kell maradniuk, hogy a besugárzott nukleáris üzemanyag rövid és hosszú távú hűtése és kezelhetősége biztosítható legyen, továbbá a hő elvonásához szükséges rendszerek rövid és hosszú távon képesek legyenek feladatuk ellátására.
 
-3.2.4.1400.[^271] A TA2 üzemállapotot eredményező eseményekre a tervezés során meg kell határozni a fűtőelempálca sértetlenségének megőrzését biztosító kritériumokat, a nukleáris üzemanyag hőmérsékletére, a kritikus hőfluxusra és a burkolat hőmérsékletére vonatkozó határértékek formájában. A TA4 tervezési üzemzavarokra a hosszú távú hűthetőség és kezelhetőség követelményének teljesítése érdekében meg kell határozni a fűtőelem-sérülés megengedhető maximális mértékét és jellegét.
+3.2.4.1400.[^276] A TA2 üzemállapotot eredményező eseményekre a tervezés során meg kell határozni a fűtőelempálca sértetlenségének megőrzését biztosító kritériumokat, a nukleáris üzemanyag hőmérsékletére, a kritikus hőfluxusra és a burkolat hőmérsékletére vonatkozó határértékek formájában. A TA4 tervezési üzemzavarokra a hosszú távú hűthetőség és kezelhetőség követelményének teljesítése érdekében meg kell határozni a fűtőelem-sérülés megengedhető maximális mértékét és jellegét.
 
-3.2.4.1500.[^272] A radioaktív kibocsátásokat visszatartó vagy korlátozó fizikai gát funkciót ellátó rendszerek és rendszerelemek a biztonsági funkció ellátása érdekében teljes élettartamuk során a maximális nyomására, maximális és minimális hőmérsékletére, a termikus és nyomástranziensekre, a degradációra valamint a megadott hőmérsékleti tartomány függvényében a feszültségekre vonatkozóan kritériumokat kell meghatározni.
+3.2.4.1500.[^277] A radioaktív kibocsátásokat visszatartó vagy korlátozó fizikai gát funkciót ellátó rendszerek és rendszerelemek a biztonsági funkció ellátása érdekében teljes élettartamuk során a maximális nyomására, maximális és minimális hőmérsékletére, a termikus és nyomástranziensekre, a degradációra valamint a megadott hőmérsékleti tartomány függvényében a feszültségekre vonatkozóan kritériumokat kell meghatározni.
 
-3.2.4.1510.[^273] A nyomástartó berendezések, a reaktortartály és a konténment törésmechanikai elemzésével, valamint az öregedési folyamatok figyelembevételével kapcsolatos ajánlásokat útmutatók tartalmazzák.
+3.2.4.1510.[^278] A nyomástartó berendezések, a reaktortartály és a konténment törésmechanikai elemzésével, valamint az öregedési folyamatok figyelembevételével kapcsolatos ajánlásokat útmutatók tartalmazzák.
 
-3.2.4.1600.[^274] A nukleáris biztonsági követelmények kielégítése érdekében a konténment teljes élettartam során a hőmérsékletére, nyomására és a szivárgás mértékére kritériumokat kell megállapítani.
+3.2.4.1600.[^279] A nukleáris biztonsági követelmények kielégítése érdekében a konténment teljes élettartam során a hőmérsékletére, nyomására és a szivárgás mértékére kritériumokat kell megállapítani.
 
 3.2.5. Üzemeltetési feltételek és korlátok
 
@@ -1142,7 +1142,7 @@ c) a normál üzem feltételei és korlátai.
 
 3.2.5.1100. Az Üzemeltetési Feltételek és Korlátok dokumentum előzetes változatát az üzembe helyezés tapasztalatai alapján felül kell vizsgálni, és a Biztonsági Jelentéssel összhangban szükség szerint módosítani, véglegesíteni kell.
 
-3.2.5.1200.[^275] Az Üzemeltetési Feltételek és Korlátok dokumentum módosítására, vagy az abban foglaltaktól való ideiglenes eltérésre vonatkozó szabályokat belső eljárásrendben rögzíteni kell. Az eltérések megengedhetőségét, megfelelőségét minden esetben determinisztikus biztonsági elemzéssel vagy determinisztikus és valószínűségi biztonsági elemzések kombinációjával kell igazolni.
+3.2.5.1200.[^280] Az Üzemeltetési Feltételek és Korlátok dokumentum módosítására, vagy az abban foglaltaktól való ideiglenes eltérésre vonatkozó szabályokat belső eljárásrendben rögzíteni kell. Az eltérések megengedhetőségét, megfelelőségét minden esetben determinisztikus biztonsági elemzéssel vagy determinisztikus és valószínűségi biztonsági elemzések kombinációjával kell igazolni.
 
 3.3. SPECIÁLIS TERVEZÉSI KÖVETELMÉNYEK
 
@@ -1154,9 +1154,9 @@ c) a normál üzem feltételei és korlátai.
 
 3.3.1.0300. Valamely nukleáris biztonság szempontjából fontos rendszer vagy rendszerelem meghibásodása nem okozhatja egy nála magasabb biztonsági osztályba sorolt rendszer vagy rendszerelem meghibásodását.
 
-3.3.1.0400.[^276]
+3.3.1.0400.[^281]
 
-3.3.1.0500.[^277] A biztonsági osztályba sorolt rendszereket és rendszerelemeket tervezni kell a természeti eredetű külső hatásokra legalább a 10–4/év ismétlődési gyakoriságnak megfelelően, amennyiben a rendszerelemnek az adott helyzetben biztonsági funkciója lehet.
+3.3.1.0500.[^282] A biztonsági osztályba sorolt rendszereket és rendszerelemeket tervezni kell a természeti eredetű külső hatásokra legalább a 10–4/év ismétlődési gyakoriságnak megfelelően, amennyiben a rendszerelemnek az adott helyzetben biztonsági funkciója lehet.
 
 3.3.1.0600. Biztosítani kell, hogy a biztonsági rendszerek, rendszerelemek, azok segédrendszerei a lehető legnagyobb mértékben védettek legyenek a belső és külső veszélyeztető tényezők hatásaitól, a meghibásodott rendszerek, rendszerelemek közötti kölcsönhatásoktól.
 
@@ -1164,15 +1164,15 @@ c) a normál üzem feltételei és korlátai.
 
 3.3.1.0800. A tervezésnél alkalmazni kell az egyszeres hibatűrés követelményét. A rendszerelemek szándékolatlan működésének lehetőségét egy lehetséges meghibásodási módként kell kezelni. Passzív rendszerelem meghibásodását figyelembe kell venni, hacsak nem igazolható, hogy a passzív rendszerelem meghibásodása nagyon kis valószínűségű, vagy nem befolyásolja az adott funkciót.
 
-3.3.1.0900.[^278] A 2. biztonsági osztályba sorolt rendszereknek - a gát funkciót ellátó rendszerek kivételével - redundáns áganként önálló biztonsági villamos betáplálással kell rendelkezniük, továbbá a tervezett redundanciájuknak és függetlenségüknek legalább olyannak kell lenniük, hogy:
+3.3.1.0900.[^283] A 2. biztonsági osztályba sorolt rendszereknek - a gát funkciót ellátó rendszerek kivételével - redundáns áganként önálló biztonsági villamos betáplálással kell rendelkezniük, továbbá a tervezett redundanciájuknak és függetlenségüknek legalább olyannak kell lenniük, hogy:
 
 a) a rendszerben fellépő egyszeres hiba ne okozhassa a védelmi funkció elvesztését, és
 
 b) bármely egyedi rendszerelemnek az üzemből való kivétele ne okozza az elemzésekben feltételezett minimális redundancia elvesztését.
 
-3.3.1.1000.[^279] Biztosítani kell, hogy az 1. és 2. biztonsági osztályba sorolt rendszerek működőképessége üzem közben ellenőrizhető legyen.
+3.3.1.1000.[^284] Biztosítani kell, hogy az 1. és 2. biztonsági osztályba sorolt rendszerek működőképessége üzem közben ellenőrizhető legyen.
 
-3.3.1.1100.[^280] A 2. biztonsági osztályba sorolt rendszerek aktiválását és működtetését vagy automatizált rendszerekkel kell biztosítani, vagy passzív rendszereket kell alkalmazni úgy, hogy TA2-4 üzemállapotot eredményező kezdeti eseményt követő 30 percen belül ne legyen szükség operátori beavatkozásra. Ha a funkció ellátásához a kezdeti eseményt követő 30 percen belüli időszakra operátori beavatkozás kerül betervezésre, akkor igazolni kell, hogy az operátori beavatkozás automatikus működéssel vagy passzív rendszerek alkalmazásával nem helyettesíthető, továbbá igazolni kell azt is, hogy a tervezett beavatkozás az operátor által végrehajtható.
+3.3.1.1100.[^285] A 2. biztonsági osztályba sorolt rendszerek aktiválását és működtetését vagy automatizált rendszerekkel kell biztosítani, vagy passzív rendszereket kell alkalmazni úgy, hogy TA2-4 üzemállapotot eredményező kezdeti eseményt követő 30 percen belül ne legyen szükség operátori beavatkozásra. Ha a funkció ellátásához a kezdeti eseményt követő 30 percen belüli időszakra operátori beavatkozás kerül betervezésre, akkor igazolni kell, hogy az operátori beavatkozás automatikus működéssel vagy passzív rendszerek alkalmazásával nem helyettesíthető, továbbá igazolni kell azt is, hogy a tervezett beavatkozás az operátor által végrehajtható.
 
 3.3.1.1200. Amennyiben a valószínűségi biztonsági célok elérése csak különlegesen nagy megbízhatóságú rendszerek alkalmazásával lenne biztosítható, akkor az ilyen biztonsági funkciót diverz módon kell ellátni.
 
@@ -1196,13 +1196,13 @@ d) amennyiben egy rendszer szükséges megbízhatósági szintje nem igazolható
 
 a) a tervezés, gyártás, szerelés és ellenőrzés során alkalmazandó megfelelő követelményeket és szabványokat,
 
-b)[^281] a tartalék energiaforrásból való betáplálás szükségességét,
+b)[^286] a tartalék energiaforrásból való betáplálás szükségességét,
 
-c)[^282] a nukleáris biztonság szempontjából fontos rendszerek rendelkezésre állásának vagy rendelkezésre nem állásnak feltételezését a determinisztikus biztonsági elemzésekben,
+c)[^287] a nukleáris biztonság szempontjából fontos rendszerek rendelkezésre állásának vagy rendelkezésre nem állásnak feltételezését a determinisztikus biztonsági elemzésekben,
 
-d)[^283] a minőségi követelményeket, és
+d)[^288] a minőségi követelményeket, és
 
-e)[^284] a környezetállósági minősítés követelményeit.
+e)[^289] a környezetállósági minősítés követelményeit.
 
 3.3.2. Tervezés élettartamra
 
@@ -1210,7 +1210,7 @@ Tervezési élettartam
 
 3.3.2.0100. Meg kell határozni az atomerőmű tervezett élettartamát és azt, hogy mely biztonsági vagy fizikai gát funkciót teljesítő rendszerelem élettartama határozza meg, vagy korlátozza ezt az élettartamot.
 
-3.3.2.0200.[^285] Az élettartamot korlátozó degradációs folyamatok elemzésével bizonyítani kell, hogy a nem cserélhető rendszerelemek és a nem cserélendő passzív biztonsági és fizikai gát funkciót megvalósító rendszerelemek élettartama legalább olyan hosszú, mint az atomerőmű egészére meghatározott tervezett élettartam, figyelembe véve a teljes élettartam során várható terheléseket és öregedési folyamatokat a szükséges tartalékokkal.
+3.3.2.0200.[^290] Az élettartamot korlátozó degradációs folyamatok elemzésével bizonyítani kell, hogy a nem cserélhető rendszerelemek és a nem cserélendő passzív biztonsági és fizikai gát funkciót megvalósító rendszerelemek élettartama legalább olyan hosszú, mint az atomerőmű egészére meghatározott tervezett élettartam, figyelembe véve a teljes élettartam során várható terheléseket és öregedési folyamatokat a szükséges tartalékokkal.
 
 3.3.2.0300. Meg kell határozni, hogy milyen feltételek mellett teljesíthetők a tervezett élettartam alatt a nukleáris biztonsági követelmények.
 
@@ -1222,25 +1222,25 @@ Szerkezeti anyagokkal kapcsolatos követelmények
 
 3.3.2.0600. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor olyan szerkezeti anyagokat kell alkalmazni, amelyek:
 
-a)[^286] kipróbáltak, környezetállósági szempontból minősítettek, megfelelnek a tervezési és környezeti feltételeknek,
+a)[^291] kipróbáltak, környezetállósági szempontból minősítettek, megfelelnek a tervezési és környezeti feltételeknek,
 
 b) minőségi osztályuk, jellemzőik igazoltan a tervezésnél alkalmazott szabvány vagy tervezői specifikáció által megadott határértéken belüliek,
 
-c)[^287] neutronsugárzásnak kitett rendszerek, rendszerelemek esetén
+c)[^292] neutronsugárzásnak kitett rendszerek, rendszerelemek esetén
 
 ca) a felaktiválódásra a lehető legkevésbé hajlamosak, szerkezetük pedig olyan, hogy felaktiválódás esetén a felaktiválódott részek helyben maradnak, és
 
 cb) a feszültségkorrózió-állóság a sugárzás hatására sem romlik,
 
-d)[^288] a neutronsugárzásnak kitett 1. biztonsági osztályba sorolt rendszerelemek esetén anyagtulajdonságainak változása a lehető legkisebb és ellenőrizhető a teljes élettartam alatt,
+d)[^293] a neutronsugárzásnak kitett 1. biztonsági osztályba sorolt rendszerelemek esetén anyagtulajdonságainak változása a lehető legkisebb és ellenőrizhető a teljes élettartam alatt,
 
 e) degradációs folyamataik az adott körülmények között és közegben ismertek, a degradáció a tervezett élettartamon belül a funkciót nem korlátozza,
 
 f) olyan felületi kiképzést tesznek lehetővé, amelyek az üzemeltetés és a leszerelés során a lehető legnagyobb mértékben dekontaminálhatók, továbbá
 
-g)[^289] tűzállóak, vagy a tűzveszélyességük kellően korlátozható.
+g)[^294] tűzállóak, vagy a tűzveszélyességük kellően korlátozható.
 
-3.3.2.0610.[^290] A nyomástartó berendezés és csővezeték tervezésekor különös gondot kell fordítani a gyártás és szerelés során alkalmazott hegesztés, mint speciális (korlátozottam javítható) folyamat tervezési előírásaira, így különösen az alábbiakra:
+3.3.2.0610.[^295] A nyomástartó berendezés és csővezeték tervezésekor különös gondot kell fordítani a gyártás és szerelés során alkalmazott hegesztés, mint speciális (korlátozottam javítható) folyamat tervezési előírásaira, így különösen az alábbiakra:
 
 a) az alkalmazható hegesztési módszerek,
 
@@ -1260,7 +1260,7 @@ ec) a hegesztés minőségtanúsító dokumentációjával szemben támasztott k
 
 3.3.2.0700. A tervezés során az élettartamot korlátozó degradációs folyamatok elemzésével bizonyítani kell, hogy
 
-a)[^291] a szerkezeti anyagok szilárdsági tulajdonságai az öregedés hatása ellenére megfelelnek a TA1-4 üzemállapotokra számított maximális terheléseknek az üzemállapotra előírt biztonsági tartalékok figyelembevételével, amennyiben az adott üzemállapotban az érintett rendszerelem biztonsági funkciókat lát el; és
+a)[^296] a szerkezeti anyagok szilárdsági tulajdonságai az öregedés hatása ellenére megfelelnek a TA1-4 üzemállapotokra számított maximális terheléseknek az üzemállapotra előírt biztonsági tartalékok figyelembevételével, amennyiben az adott üzemállapotban az érintett rendszerelem biztonsági funkciókat lát el; és
 
 b) a kritikus szerkezetekben a törésmechanika követelmények is teljesülnek.
 
@@ -1276,7 +1276,7 @@ b) a kritikus szerkezetekben a törésmechanika követelmények is teljesülnek.
 
 a) hegesztendő ausztenites öntvények esetén a delta-ferrit tartalmat korlátozni és ellenőrizni kell,
 
-b)[^292] a nehezen vizsgálható ausztenites öntvények alkalmazása esetén elemezni kell a termikus öregedéssel szembeni ellenállást,
+b)[^297] a nehezen vizsgálható ausztenites öntvények alkalmazása esetén elemezni kell a termikus öregedéssel szembeni ellenállást,
 
 c) rézötvözetek alkalmazása a tápvíz-, főgőz- és kondenzátum-rendszer üzemi közegeivel érintkező rendszerelemekben nem megengedett,
 
@@ -1300,11 +1300,11 @@ Vegyészet
 
 a) az alkalmazott technológiai közegek és segédanyagok kémiai összetétele és kondicionálása összhangban legyen a szerkezeti anyagokkal, a konstrukcióval;
 
-b)[^293] a korróziós hatások a tervezett mérték alatt maradjanak, és garantálják a rendszerelemek integritását;
+b)[^298] a korróziós hatások a tervezett mérték alatt maradjanak, és garantálják a rendszerelemek integritását;
 
-c)[^294] a közegben levő radioaktív anyagok mennyisége mindenkor az ésszerűen elérhető legalacsonyabb szinten legyen; valamint,
+c)[^299] a közegben levő radioaktív anyagok mennyisége mindenkor az ésszerűen elérhető legalacsonyabb szinten legyen; valamint,
 
-d)[^295] az képes legyen TA1 üzemállapotban a primer körben oldott gázok eltávolítására.
+d)[^300] az képes legyen TA1 üzemállapotban a primer körben oldott gázok eltávolítására.
 
 3.3.2.1500. A hűtő- és munkaközegek megfelelőségét számításokkal, elemzésekkel kell igazolni figyelembe véve az atomerőmű tervezett élettartamát.
 
@@ -1314,7 +1314,7 @@ d)[^295] az képes legyen TA1 üzemállapotban a primer körben oldott gázok el
 
 3.3.2.1800. A vízüzemek szabályozására alkalmazott vegyszerek koncentrációját, a vízüzemek korróziót befolyásoló paramétereit úgy kell megválasztani, valamint a szennyezőanyagok és korróziótermékek koncentrációját olyan szinten kell meghatározni, hogy azok az adott hőmérséklet, nyomás és áramlási viszonyok mellett az ésszerűen elérhető legalacsonyabb szintű káros hatást gyakorolják az alkalmazott szerkezeti anyagokra, az atomerőművi blokk minden tervezett üzemállapotában.
 
-3.3.2.1900.[^296] A vízüzemek tervezésekor elemezni kell a korróziót befolyásoló paramétereknek és a korróziótermékeknek a szerkezeti anyagokra és a fizikai folyamatokra - például a hőátadásra - gyakorolt hatását. Meg kell határozni a korróziótermékek koncentrációjának határértékeit, a nukleáris biztonság szempontjából fontos rendszerekben, rendszerelemekben levő lerakódások megengedett mértékeit, amelyek nem veszélyeztethetik a biztonságos üzemeltetést. Meg kell tervezni a szükséges intézkedéseket, eszközöket és eljárásokat a határértékek átlépésének megakadályozására és esetleges átlépés esetén a normaértékek visszaállítására.
+3.3.2.1900.[^301] A vízüzemek tervezésekor elemezni kell a korróziót befolyásoló paramétereknek és a korróziótermékeknek a szerkezeti anyagokra és a fizikai folyamatokra - például a hőátadásra - gyakorolt hatását. Meg kell határozni a korróziótermékek koncentrációjának határértékeit, a nukleáris biztonság szempontjából fontos rendszerekben, rendszerelemekben levő lerakódások megengedett mértékeit, amelyek nem veszélyeztethetik a biztonságos üzemeltetést. Meg kell tervezni a szükséges intézkedéseket, eszközöket és eljárásokat a határértékek átlépésének megakadályozására és esetleges átlépés esetén a normaértékek visszaállítására.
 
 3.3.2.2000. A korróziót befolyásoló paraméterek, a reaktivitást lekötő, neutronelnyelő anyag koncentrációváltozásával járó pH-effektust korrigáló vegyszerek koncentrációjának szabályozásánál figyelembe kell venni a radiolitikus reakciók hatását.
 
@@ -1334,9 +1334,9 @@ Rendszerelemek környezetállósági minősítése
 
 3.3.2.2700. A nem fémes, nem beton rendszerelemek, valamint az aktív rendszerelemek alkalmasságát egyedi vagy típusminősítéssel kell igazolni.
 
-3.3.2.2800.[^297] A rendszerelem tervezésekor és első alkalommal történő minősítésekor figyelembe kell venni az üzem alatti öregedési mechanizmusokat, és igazolni kell, hogy az öregedési hatások ellenére a tervezett üzemidejük végén is képesek a megkövetelt megbízhatósággal funkciójukat teljesíteni.
+3.3.2.2800.[^302] A rendszerelem tervezésekor és első alkalommal történő minősítésekor figyelembe kell venni az üzem alatti öregedési mechanizmusokat, és igazolni kell, hogy az öregedési hatások ellenére a tervezett üzemidejük végén is képesek a megkövetelt megbízhatósággal funkciójukat teljesíteni.
 
-3.3.2.2900.[^298] A rendszerelemek terveiben meg kell határozni a minősített állapot fenntartásának módját, feltételeit.
+3.3.2.2900.[^303] A rendszerelemek terveiben meg kell határozni a minősített állapot fenntartásának módját, feltételeit.
 
 3.3.2.3000. Az elárasztásra és tűzre akkor kell minősíteni, ha azok bekövetkezhetnek a rendszerelem felszerelésének helyén, és a biztonsági funkciók teljesítésének igazolásához az ilyen eseményeket az egyszeres hibakritérium alkalmazása mellett nem lehet kizárni.
 
@@ -1344,7 +1344,7 @@ Rendszerelemek környezetállósági minősítése
 
 3.3.2.3200. Ha a rendszerelemnek üzemzavari helyzet kialakulása után ellenőrző vagy következménycsökkentő funkciója van, akkor mind az üzemzavar, mind az azt követő állapotok elviselésére minősíteni kell.
 
-3.3.2.3300.[^299] Baleset kezelésénél, következményeinek enyhítésénél szerepet játszó rendszerek és rendszerelemek minősítési eljárása során, a TAK2 üzemállapotban feltételezhető legvalószínűbb körülmények és terhelések mellett, igazolni kell azok szükséges ideig fennálló működőképességét.
+3.3.2.3300.[^304] Baleset kezelésénél, következményeinek enyhítésénél szerepet játszó rendszerek és rendszerelemek minősítési eljárása során, a TAK2 üzemállapotban feltételezhető legvalószínűbb körülmények és terhelések mellett, igazolni kell azok szükséges ideig fennálló működőképességét.
 
 Karbantartás, felülvizsgálat, ellenőrzés
 
@@ -1366,13 +1366,13 @@ c) a rendszer, rendszerelem próba, felülvizsgálat, karbantartás miatt tört�
 
 Öregedéskezelés
 
-3.3.2.3900.[^300] Azonosítani kell az öregedési folyamatokat, azok jellemzőit minden biztonsági osztályba sorolt rendszerelem esetében, és meg kell adni az üzemeltetés során végrehajtandó öregedéskezelési program, és rendszer kidolgozásához szükséges adatokat és módszereket. A tervező által meghatározott öregedéskezelési rendszernek összhangban kell lenni a karbantartási programokkal, a vizsgálatok minősítésével és a rendszerelemek környezetállósági minősítésével, valamint a minősített állapot fenntartását szolgáló programokkal.
+3.3.2.3900.[^305] Azonosítani kell az öregedési folyamatokat, azok jellemzőit minden biztonsági osztályba sorolt rendszerelem esetében, és meg kell adni az üzemeltetés során végrehajtandó öregedéskezelési program, és rendszer kidolgozásához szükséges adatokat és módszereket. A tervező által meghatározott öregedéskezelési rendszernek összhangban kell lenni a karbantartási programokkal, a vizsgálatok minősítésével és a rendszerelemek környezetállósági minősítésével, valamint a minősített állapot fenntartását szolgáló programokkal.
 
-3.3.2.4000.[^301] A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor vizsgálni kell a várható öregedési folyamatokat és azok hatásait. Igazolni kell – a „0” állapot és az öregedési folyamatok lehetséges bizonytalanságainak figyelembe- vételével –, hogy az alkalmazott szerkezeti anyagok öregedési folyamatai a tervezett élettartam során nem gátolják a rendszereket, rendszerelemeket biztonsági funkcióik teljesítésében.
+3.3.2.4000.[^306] A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor vizsgálni kell a várható öregedési folyamatokat és azok hatásait. Igazolni kell – a „0” állapot és az öregedési folyamatok lehetséges bizonytalanságainak figyelembe- vételével –, hogy az alkalmazott szerkezeti anyagok öregedési folyamatai a tervezett élettartam során nem gátolják a rendszereket, rendszerelemeket biztonsági funkcióik teljesítésében.
 
 3.3.2.4100. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor a választott szerkezeti anyagok tulajdonságainak az öregedési folyamatok következtében bekövetkező változását értékelni kell. Meg kell határozni a rendszerek, rendszerelemek megengedett élettartamát, integrált üzemidejét, igénybevételének ciklusszámát.
 
-3.3.2.4200.[^302] A nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre a tervezés során egyértelmű működési mutatókat, kritériumokat kell meghatározni, az öregedési folyamataik, üzemben tarthatósági feltételeik és maradék élettartamuk meghatározásához.
+3.3.2.4200.[^307] A nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre a tervezés során egyértelmű működési mutatókat, kritériumokat kell meghatározni, az öregedési folyamataik, üzemben tarthatósági feltételeik és maradék élettartamuk meghatározásához.
 
 3.3.2.4300. A nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre ki kell dolgozni az öregedéskezelés előírásait. Az előírásoknak ki kell terjednie:
 
@@ -1388,7 +1388,7 @@ d) az öregedési és állapotromlási folyamatok lassítására, kedvezőtlen h
 
 3.3.3. Nyomástartó berendezés és csővezeték tervezése
 
-3.3.3.0100.[^303] A tervezés során meg kell határozni az üzemi körülményeket és a mechanikai terheléseket, terhelési ciklusokat - beleértve a külső és belső veszélyeztető tényezők által kiváltott hatásokat -, amelyek között az adott nyomástartó berendezés és csővezeték üzemelhet.
+3.3.3.0100.[^308] A tervezés során meg kell határozni az üzemi körülményeket és a mechanikai terheléseket, terhelési ciklusokat - beleértve a külső és belső veszélyeztető tényezők által kiváltott hatásokat -, amelyek között az adott nyomástartó berendezés és csővezeték üzemelhet.
 
 3.3.3.0200. A méretezést megalapozó, a rendszerelemek megfelelőségét alátámasztó számításokat egységes, a nukleáris iparban elfogadott előírásrendszer, szabvány szerint, a rendszerek, rendszerelemek biztonsági osztályának megfelelően kell elvégezni. Be kell mutatni a méretezést alátámasztó számításokat, az egyes terhelési esetekre végzett ellenőrző elemzéseket, továbbá a tervezés során feltételezett körülményeket, megfontolásokat.
 
@@ -1396,7 +1396,7 @@ d) az öregedési és állapotromlási folyamatok lassítására, kedvezőtlen h
 
 3.3.3.0400. A konténmentet mint nyomástartó berendezést kell méretezni és nyomástartó képességének rendszeres ellenőrzési lehetőségét biztosítani kell.
 
-3.3.3.0500.[^304] Igazolni kell, hogy az 1. és 2. biztonsági osztályba sorolt rendszerelemek anyaga a terhelésnek megfelelő szívóssággal rendelkezik. Az anyagban – a TA1-4 üzemállapotokban – új repedések nem keletkezhetnek. Igazolni kell, hogy az anyagban már meglévő repedések az instabil repedésterjedéssel szemben megfelelő ellenállással rendelkeznek, ezáltal biztosított, hogy a betervezett rendszeres vizsgálatok a hibákat időben feltárják.
+3.3.3.0500.[^309] Igazolni kell, hogy az 1. és 2. biztonsági osztályba sorolt rendszerelemek anyaga a terhelésnek megfelelő szívóssággal rendelkezik. Az anyagban – a TA1-4 üzemállapotokban – új repedések nem keletkezhetnek. Igazolni kell, hogy az anyagban már meglévő repedések az instabil repedésterjedéssel szemben megfelelő ellenállással rendelkeznek, ezáltal biztosított, hogy a betervezett rendszeres vizsgálatok a hibákat időben feltárják.
 
 3.3.3.0600. A nyomástartó berendezés és csővezeték tervezésekor figyelembe kell venni az anyagok fizikai, mechanikai tulajdonságainak neutronfluxus hatására történő megváltozását.
 
@@ -1432,7 +1432,7 @@ d) a rendszerelemek kizárása a karbantartáshoz és a javításhoz.
 
 3.3.3.1300. Amennyiben egy nukleáris biztonság szempontjából fontos rendszer, rendszerelem kapcsolatban van egy olyan rendszerrel, rendszerelemmel, amelynek üzemi nyomása az előbbinél magasabb, akkor a rendszert, rendszerelemet ezen utóbbi rendszer, rendszerelem nyomásértékeire kell tervezni, vagy tervezési megoldásokkal kell gondoskodni arról, hogy még egyszeres meghibásodás esetén se lépje túl az alacsonyabb nyomásra tervezett rendszer, rendszerelem nyomása a tervezési értéket.
 
-3.3.3.1400.[^305] A szilárdsági elemzések eredményeinek igazolniuk kell, hogy:
+3.3.3.1400.[^310] A szilárdsági elemzések eredményeinek igazolniuk kell, hogy:
 
 a) a vizsgált berendezés, csővezeték élettartama elegendően hosszú, figyelembe véve a teljes tervezett üzemideje során várható terheléseket és öregedési folyamatokat;
 
@@ -1440,21 +1440,21 @@ b) a szerkezeti anyagok az öregedés és az üzemállapotra előírt kritérium
 
 c) a szerkezetben a feszültségintenzitási tényező értéke a képlékeny alakváltozás figyelembevételével sehol sem haladja meg a kialakult hőmérséklethez tartozó törési szívósságot.
 
-3.3.3.1500.[^306] A nyomástartó berendezések és csővezetékek tervezésére vonatkozó követelményeket, szabványokat az adott rendszer, rendszerelem biztonsági osztályával összhangban kell alkalmazni.
+3.3.3.1500.[^311] A nyomástartó berendezések és csővezetékek tervezésére vonatkozó követelményeket, szabványokat az adott rendszer, rendszerelem biztonsági osztályával összhangban kell alkalmazni.
 
-3.3.3.1600.[^307] Szilárdsági elemzést kell végezni minden biztonsági osztályba sorolt teherviselő, nyomástartó rendszer, illetve rendszerelem megfelelőségének igazolására. Külföldön gyártott nyomástartó rendszerek és rendszerelemek méretezésénél külföldi számítási módszerek alkalmazhatók, ha azok nukleáris ipari szabványok vagy nukleáris területen is alkalmazható általános ipari szabványok. A szilárdsági számítást egy előírásrendszer keretén belül lehet csak elvégezni.
+3.3.3.1600.[^312] Szilárdsági elemzést kell végezni minden biztonsági osztályba sorolt teherviselő, nyomástartó rendszer, illetve rendszerelem megfelelőségének igazolására. Külföldön gyártott nyomástartó rendszerek és rendszerelemek méretezésénél külföldi számítási módszerek alkalmazhatók, ha azok nukleáris ipari szabványok vagy nukleáris területen is alkalmazható általános ipari szabványok. A szilárdsági számítást egy előírásrendszer keretén belül lehet csak elvégezni.
 
-3.3.3.1700.[^308] A szilárdsági elemzésekben felhasznált adatoknak konzervatív közelítésből kell származniuk, azokat a választott szabvánnyal összhangban kell felvenni. Figyelembe kell venni a szerkezeti anyagok degradációjához vezető hatásokat.
+3.3.3.1700.[^313] A szilárdsági elemzésekben felhasznált adatoknak konzervatív közelítésből kell származniuk, azokat a választott szabvánnyal összhangban kell felvenni. Figyelembe kell venni a szerkezeti anyagok degradációjához vezető hatásokat.
 
-3.3.3.1800.[^309] Vizsgálni kell a ridegtörés elleni védettséget azoknál a rendszerelemeknél, ahol ez szükséges.
+3.3.3.1800.[^314] Vizsgálni kell a ridegtörés elleni védettséget azoknál a rendszerelemeknél, ahol ez szükséges.
 
-3.3.3.1900.[^310] A szilárdsági elemzések segítségével ki kell mutatni, hogy TA1-4 üzemállapotokban a vizsgált rendszerelemek terhelése az elfogadható terhelési érték alatt marad.
+3.3.3.1900.[^315] A szilárdsági elemzések segítségével ki kell mutatni, hogy TA1-4 üzemállapotokban a vizsgált rendszerelemek terhelése az elfogadható terhelési érték alatt marad.
 
 3.3.4. Építmények és épületszerkezetek tervezése
 
 3.3.4.0100. Az atomerőmű építményei tervezése során az építészeti-műszaki tervezésre vonatkozó általános szabályokat a nukleáris biztonsági követelmények figyelembevételével kell alkalmazni.
 
-3.3.4.0200.[^311] Biztosítani kell, hogy az atomerőmű építményei és épületszerkezetei biztonsági osztályba sorolásuk szerint elviseljék a TA1-4 üzemállapotokban fellépő és a tervezési alap kiterjesztését jelentő TAK1 körülmények közötti terheléseket, környezeti hatásokat, az adott üzemállapotra meghatározott megfelelőségi kritériumok szerint.
+3.3.4.0200.[^316] Biztosítani kell, hogy az atomerőmű építményei és épületszerkezetei biztonsági osztályba sorolásuk szerint elviseljék a TA1-4 üzemállapotokban fellépő és a tervezési alap kiterjesztését jelentő TAK1 körülmények közötti terheléseket, környezeti hatásokat, az adott üzemállapotra meghatározott megfelelőségi kritériumok szerint.
 
 3.3.4.0300. Ahol szükséges, megfelelő mintavételezési és monitorozási lehetőségeket kell kialakítani annak érdekében, hogy az épületszerkezetek megfelelősége az élettartamuk alatt folyamatosan ellenőrizhető legyen.
 
@@ -1478,53 +1478,53 @@ c) a szerkezetben a feszültségintenzitási tényező értéke a képlékeny al
 
 3.3.5.0200. Az elrendezésnek biztosítania kell, hogy a tervezési alapban szereplő események valamint az egyes építmények, rendszerek kölcsönhatásai ne okozhassanak elfogadhatatlan mérvű károsodást az atomerőműben.
 
-3.3.5.0300.[^312] A nukleáris biztonság szempontjából fontos redundáns rendszereket megfelelő fizikai elválasztással kell tervezni. Ezt a követelményt a meglévő műszaki adottságok figyelembevételével az átalakítások során kell alkalmazni.
+3.3.5.0300.[^317] A nukleáris biztonság szempontjából fontos redundáns rendszereket megfelelő fizikai elválasztással kell tervezni. Ezt a követelményt a meglévő műszaki adottságok figyelembevételével az átalakítások során kell alkalmazni.
 
-3.3.5.0400.[^313] Az atomerőműn belüli szállító eszközökkel történő mozgatási útvonalakat úgy kell megtervezni, hogy az emelt terhek esetleges leesése ne veszélyeztesse más rendszer, rendszerelem biztonsági funkciójának ellátását, vagy olyan eszközöket kell tervezni, amelyekkel biztosítható, hogy a teher leejtése legfeljebb TA4 üzemállapotot eredményező eseménynek minősül.
+3.3.5.0400.[^318] Az atomerőműn belüli szállító eszközökkel történő mozgatási útvonalakat úgy kell megtervezni, hogy az emelt terhek esetleges leesése ne veszélyeztesse más rendszer, rendszerelem biztonsági funkciójának ellátását, vagy olyan eszközöket kell tervezni, amelyekkel biztosítható, hogy a teher leejtése legfeljebb TA4 üzemállapotot eredményező eseménynek minősül.
 
-3.3.5.0500.[^314] A rendszerek, rendszerelemek elhelyezését úgy kell tervezni, hogy az biztosítson lehetőséget az ellenőrzés, karbantartás, javítás, tartalék alkatrészek cseréje és leszerelés végrehajtására az ezek során felmerülő dózis minimalizálásával. Biztosítani kell az alapanyag és a hegesztett kötések szemrevételezési, roncsolásmentes vizsgálattal történő ellenőrzési, valamint tisztítási, lemosási és javítási lehetőségét. Ezt a követelményt a meglévő műszaki adottságok figyelembevételével az átalakítások során kell alkalmazni.
+3.3.5.0500.[^319] A rendszerek, rendszerelemek elhelyezését úgy kell tervezni, hogy az biztosítson lehetőséget az ellenőrzés, karbantartás, javítás, tartalék alkatrészek cseréje és leszerelés végrehajtására az ezek során felmerülő dózis minimalizálásával. Biztosítani kell az alapanyag és a hegesztett kötések szemrevételezési, roncsolásmentes vizsgálattal történő ellenőrzési, valamint tisztítási, lemosási és javítási lehetőségét. Ezt a követelményt a meglévő műszaki adottságok figyelembevételével az átalakítások során kell alkalmazni.
 
 3.3.5.0600. A munkahelyeket megközelítő vagy a menekülésre szolgáló útvonalakat úgy kell méretezni, hogy az üzemeltető személyzet védőfelszerelésben is könnyen tudjon mozogni. Megfelelő méretű és teherbírású, akadálytalan útvonalakat kell biztosítani a felaktiválódott vagy szennyeződött tárgyak gépi szállításához. A szerszámok, eszközök tárolására, valamint a munkafolyamatok előkészítésére szolgáló helyiségeket a jelentős sugárzású területektől a sugárvédelmi szempontokat figyelembe vevő megfelelő távolságban kell kialakítani.
 
-3.3.5.0700.[^315] Az atomerőművi blokk biztonságos üzemeléséhez szükséges logisztikai hátteret, szolgáltatásokat és eszközöket, beleértve a közlekedési utakat, vízellátást, tűzivízhálózatot, telephelyi kommunikációs eszközöket úgy kell tervezni és telepíteni, hogy azok a TA1-4 üzemállapotokban, üzemállapotok kezeléséhez szükséges mértékben el tudják látni funkciójukat.
+3.3.5.0700.[^320] Az atomerőművi blokk biztonságos üzemeléséhez szükséges logisztikai hátteret, szolgáltatásokat és eszközöket, beleértve a közlekedési utakat, vízellátást, tűzivízhálózatot, telephelyi kommunikációs eszközöket úgy kell tervezni és telepíteni, hogy azok a TA1-4 üzemállapotokban, üzemállapotok kezeléséhez szükséges mértékben el tudják látni funkciójukat.
 
 3.3.5.0800. Az atomerőművi blokkot úgy kell megtervezni, hogy szükség esetén lehetőség legyen az üzemeltető személyzet bejutására a konténment egyes helyiségeibe a konténment zártságának folyamatos biztosítása mellett.
 
 3.3.5.0900. Az atomerőmű építményeit úgy kell megtervezni, hogy veszélyhelyzet esetén az atomerőmű telephelyén tartózkodó személyek kimenekítése és mentése gyorsan és biztonságosan megvalósítható legyen.
 
-3.3.5.1000.[^316] A biztonsági funkciót ellátó redundáns rendszerek kábeleinek elrendezésekor a fizikai elválasztás elvét alkalmazni kell. A villamos és az irányítástechnikai kábeleket el kell választani. Ezt a követelményt a meglévő műszaki adottságok figyelembevételével átalakítások során kell alkalmazni.
+3.3.5.1000.[^321] A biztonsági funkciót ellátó redundáns rendszerek kábeleinek elrendezésekor a fizikai elválasztás elvét alkalmazni kell. A villamos és az irányítástechnikai kábeleket el kell választani. Ezt a követelményt a meglévő műszaki adottságok figyelembevételével átalakítások során kell alkalmazni.
 
-3.3.5.1100.[^317] Külső és belső veszélyeztető tényezők hatásainak kezelésében szerepet játszó biztonsági besorolású redundáns rendszereket úgy kell elhelyezni, hogy a hatás ne gátolhassa meg egyidejűleg az összes redundáns elem biztonsági funkciójának teljesítését.
+3.3.5.1100.[^322] Külső és belső veszélyeztető tényezők hatásainak kezelésében szerepet játszó biztonsági besorolású redundáns rendszereket úgy kell elhelyezni, hogy a hatás ne gátolhassa meg egyidejűleg az összes redundáns elem biztonsági funkciójának teljesítését.
 
-3.3.5.1200.[^318] Összhangban a tűzvédelmi tervekkel, a munkaterületeket és a közlekedőfolyosókat veszélyhelyzeti világítással kell ellátni. A menekülési útvonalakat egyértelműen meg kell jelölni. A veszélyjelző rendszereknek a személyzet minden tagját el kell érniük, a tervezéskor a zajszintet és a védőeszközök kialakítását figyelembe kell venni.
+3.3.5.1200.[^323] Összhangban a tűzvédelmi tervekkel, a munkaterületeket és a közlekedőfolyosókat veszélyhelyzeti világítással kell ellátni. A menekülési útvonalakat egyértelműen meg kell jelölni. A veszélyjelző rendszereknek a személyzet minden tagját el kell érniük, a tervezéskor a zajszintet és a védőeszközök kialakítását figyelembe kell venni.
 
-3.3.5.1300.[^319] Baleseti helyzetekben megengedett az egyes blokkok közötti összekapcsolt támogató rendszerek alkalmazása, amennyiben igazolható, hogy az segíti a baleset-kezelés során egy adott biztonsági funkció helyreállítását. Olyan összekapcsolás nem engedhető meg a blokkok között, amely bármely blokk esetén növelné a következmények valószínűségét vagy súlyosságát.
+3.3.5.1300.[^324] Baleseti helyzetekben megengedett az egyes blokkok közötti összekapcsolt támogató rendszerek alkalmazása, amennyiben igazolható, hogy az segíti a baleset-kezelés során egy adott biztonsági funkció helyreállítását. Olyan összekapcsolás nem engedhető meg a blokkok között, amely bármely blokk esetén növelné a következmények valószínűségét vagy súlyosságát.
 
 3.3.6. Specifikus veszélyeztető tényezők
 
 Földrengés
 
-3.3.6.0100.[^320] A telephely-specifikus biztonsági földrengést az átlagos veszélyeztetettségi görbe szerint, a szabadfelszíni válaszspektrummal, ennek megfelelő gyorsulás-idő függvénnyel kell jellemezni, a felszíni rétegek nemlineáris átvitelének figyelembevételével. Ennek alapján meg kell határozni azt a válaszspektrumot, amely a tervezés mértékadó inputját képezi a biztonsági földrengésre történő tervezés, ellenőrzés és minősítés során.
+3.3.6.0100.[^325] A telephely-specifikus biztonsági földrengést az átlagos veszélyeztetettségi görbe szerint, a szabadfelszíni válaszspektrummal, ennek megfelelő gyorsulás-idő függvénnyel kell jellemezni, a felszíni rétegek nemlineáris átvitelének figyelembevételével. Ennek alapján meg kell határozni azt a válaszspektrumot, amely a tervezés mértékadó inputját képezi a biztonsági földrengésre történő tervezés, ellenőrzés és minősítés során.
 
-3.3.6.0110.[^321] Az atomerőművi rendszereket, rendszerelemeket földrengés-biztonsági osztályokba kell sorolni aszerint, hogy azok biztonsági földrengés során milyen biztonsági funkciót látnak el.
+3.3.6.0110.[^326] Az atomerőművi rendszereket, rendszerelemeket földrengés-biztonsági osztályokba kell sorolni aszerint, hogy azok biztonsági földrengés során milyen biztonsági funkciót látnak el.
 
-3.3.6.0120.[^322] Első földrengés-biztonsági osztályba kell sorolni azokat az aktív, a második osztályba azokat a passzív rendszereket, rendszerelemeket, amelyek az atomreaktor leállításához, az atomreaktor szubkritikus állapotban tartásához, a lehűtéshez, vagy a tartós hőelvonásához szükségesek, továbbá amelyek nélkülözhetetlenek a kritikus paraméterek monitorozásához, vagy ahhoz, hogy a radioaktív kibocsátások tervezési üzemzavari körülményekre vonatkozó korlátai betarthatók legyenek.
+3.3.6.0120.[^327] Első földrengés-biztonsági osztályba kell sorolni azokat az aktív, a második osztályba azokat a passzív rendszereket, rendszerelemeket, amelyek az atomreaktor leállításához, az atomreaktor szubkritikus állapotban tartásához, a lehűtéshez, vagy a tartós hőelvonásához szükségesek, továbbá amelyek nélkülözhetetlenek a kritikus paraméterek monitorozásához, vagy ahhoz, hogy a radioaktív kibocsátások tervezési üzemzavari körülményekre vonatkozó korlátai betarthatók legyenek.
 
-3.3.6.0130.[^323] Biztonsági funkcióval rendelkező építményeket, vagy azok épületszerkezeteit a második földrengés-biztonsági osztályba kell sorolni.
+3.3.6.0130.[^328] Biztonsági funkcióval rendelkező építményeket, vagy azok épületszerkezeteit a második földrengés-biztonsági osztályba kell sorolni.
 
-3.3.6.0140.[^324] Harmadik földrengés-biztonsági osztályba tartoznak azok a rendszerek és rendszerelemek, amelyek egy földrengés következtében bekövetkező esetleges megrongálódásukkal és az ez által kiváltott hatásokkal az első és második osztályba sorolt rendszerelemek funkcióját veszélyeztetik. A tárolt radioaktív anyagok mennyiségének és a meghibásodás potenciális következményeinek mérlegelésével legalább harmadik földrengés-biztonsági osztályba kell sorolni azokat a rendszereket és rendszerelemeket, amelyek meghibásodásának következtében jelentős radioaktív kibocsátás történhet, vagy sérülésük akadályozná az atomerőmű földrengés utáni biztonságos kezelését.
+3.3.6.0140.[^329] Harmadik földrengés-biztonsági osztályba tartoznak azok a rendszerek és rendszerelemek, amelyek egy földrengés következtében bekövetkező esetleges megrongálódásukkal és az ez által kiváltott hatásokkal az első és második osztályba sorolt rendszerelemek funkcióját veszélyeztetik. A tárolt radioaktív anyagok mennyiségének és a meghibásodás potenciális következményeinek mérlegelésével legalább harmadik földrengés-biztonsági osztályba kell sorolni azokat a rendszereket és rendszerelemeket, amelyek meghibásodásának következtében jelentős radioaktív kibocsátás történhet, vagy sérülésük akadályozná az atomerőmű földrengés utáni biztonságos kezelését.
 
-3.3.6.0150.[^325] Negyedik, nem földrengés-biztonsági osztályba tartoznak azok a rendszerelemek, amelyek nem tartoznak a három földrengés-biztonsági osztályba.
+3.3.6.0150.[^330] Negyedik, nem földrengés-biztonsági osztályba tartoznak azok a rendszerelemek, amelyek nem tartoznak a három földrengés-biztonsági osztályba.
 
 3.3.6.0200. Függetlenül a telephely szeizmicitásától, a biztonsági földrengés maximális vízszintes gyorsulásértéke a szabad felszínen nem lehet kisebb, mint 0,1g.
 
 3.3.6.0300. Az atomerőművet úgy kell megtervezni, hogy az alapvető biztonsági funkciók megvalósuljanak a biztonsági földrengés esetén is, és az atomerőmű ellenőrzött, biztonságos leállított állapotba kerüljön a földrengést követően az ehhez szükséges rendszerek, rendszerelemek egyszeres hibája mellett is.
 
-3.3.6.0400.[^326] A biztonsági funkciót megvalósító, továbbá a földrengéssel szembeni védelem megvalósításában résztvevő rendszereket és rendszerelemeket úgy kell megtervezni, minősíteni, hogy azok megőrizzék a megkövetelt működőképességüket, funkciójukat biztonsági földrengés esetén. A tervezést és a minősítést a biztonsági osztálynak megfelelően, nukleáris szabványok, tesztelési eljárások szerint kell végezni.
+3.3.6.0400.[^331] A biztonsági funkciót megvalósító, továbbá a földrengéssel szembeni védelem megvalósításában résztvevő rendszereket és rendszerelemeket úgy kell megtervezni, minősíteni, hogy azok megőrizzék a megkövetelt működőképességüket, funkciójukat biztonsági földrengés esetén. A tervezést és a minősítést a biztonsági osztálynak megfelelően, nukleáris szabványok, tesztelési eljárások szerint kell végezni.
 
-3.3.6.0500.[^327]
+3.3.6.0500.[^332]
 
-3.3.6.0600.[^328] Biztosítani kell a földrengéssel szembeni védelem megvalósításában részt vevő rendszer, rendszerelem védelmét a biztonsági vagy fizikai gát funkcióval nem rendelkező rendszerelemeknek biztonsági földrengés hatására bekövetkező sérülésével, kölcsönhatásával szemben.
+3.3.6.0600.[^333] Biztosítani kell a földrengéssel szembeni védelem megvalósításában részt vevő rendszer, rendszerelem védelmét a biztonsági vagy fizikai gát funkcióval nem rendelkező rendszerelemeknek biztonsági földrengés hatására bekövetkező sérülésével, kölcsönhatásával szemben.
 
 3.3.6.0700. Biztosítani kell, hogy a biztonsági földrengés spektrális és maximális gyorsulásértékeinek kisebb meghaladása esetén se következzen be a rendszerek, rendszerelemek azonnali funkcióvesztése.
 
@@ -1532,21 +1532,21 @@ Földrengés
 
 3.3.6.0900. A rideg sérülési módot megfelelő anyagválasztással és konstrukciós megoldásokkal ki kell zárni. Meg kell akadályozni a szomszédos rendszerek és rendszerelemek, a körülvevő tartószerkezet kölcsönhatását, egymással való ütközését.
 
-3.3.6.1000.[^329] A rendszerek, rendszerelemek funkcióját figyelembe véve kell meghatározni a biztonsági földrengés által kiváltott teherrel kombinált terheket. A földrengésre való tervezés során az atomerőmű üzemi, leállított, karbantartás, átrakás alatti vagy TA2 üzemállapotában fellépő terheket kell kombinálni a biztonsági földrengésből adódó terhekkel. A megfelelőség kritériuma vonatkozhat a feszültségekre, az alakváltozásokra, az elmozdulásokra és a működőképességre, valamint ezek kombinációira az adott biztonsági osztályra vonatkozó nukleáris szabványok szerint. A TA4 üzemállapotot eredményező események és a biztonsági földrengés mint független események egyidejűségét nem kell feltételezni. A tervezésnél figyelembe kell venni a biztonsági földrengés másodlagos hatásait is.
+3.3.6.1000.[^334] A rendszerek, rendszerelemek funkcióját figyelembe véve kell meghatározni a biztonsági földrengés által kiváltott teherrel kombinált terheket. A földrengésre való tervezés során az atomerőmű üzemi, leállított, karbantartás, átrakás alatti vagy TA2 üzemállapotában fellépő terheket kell kombinálni a biztonsági földrengésből adódó terhekkel. A megfelelőség kritériuma vonatkozhat a feszültségekre, az alakváltozásokra, az elmozdulásokra és a működőképességre, valamint ezek kombinációira az adott biztonsági osztályra vonatkozó nukleáris szabványok szerint. A TA4 üzemállapotot eredményező események és a biztonsági földrengés mint független események egyidejűségét nem kell feltételezni. A tervezésnél figyelembe kell venni a biztonsági földrengés másodlagos hatásait is.
 
 3.3.6.1100. A rendszerek és rendszerelemek tervezésénél a felállítás helyére jellemző válaszspektrumot, gyorsulás-időfüggvényt kell mértékadónak tekinteni, amelyet szabvány szerint kell képezni telephely-specifikus biztonsági földrengésre meghatározott tervezési input, az építmény dinamikus válasza és a talaj-épület kölcsönhatás figyelembevételével.
 
 3.3.6.1200. A földrengés hatásának kezelése nem függhet külső szolgáltatások rendelkezésre állásától, mint villamos hálózati kapcsolat, tűzoltás, logisztikai szolgáltatások.
 
-3.3.6.1300.[^330] Az atomerőművi blokkot 2. biztonsági osztályba sorolt földrengésjelző rendszerrel kell megtervezni és ellátni, amelynek jelzése alapján vagy automatikus védelmi működések indulnak, vagy a kezelő teszi meg a szükséges intézkedéseket. Mindkét esetben meg kell határozni a földrengés azon jellemzőjét, amihez a működés, az intézkedés kötött. Amennyiben olyan rendszer létesül, amely földrengés esetén automatikus védelmi működést indít, akkor annak felépítését redundanciáját, diverzitását, fizikai elválasztását és megbízhatóságát illeszteni kell a védelmi rendszerrel szemben megköveteltekhez.
+3.3.6.1300.[^335] Az atomerőművi blokkot 2. biztonsági osztályba sorolt földrengésjelző rendszerrel kell megtervezni és ellátni, amelynek jelzése alapján vagy automatikus védelmi működések indulnak, vagy a kezelő teszi meg a szükséges intézkedéseket. Mindkét esetben meg kell határozni a földrengés azon jellemzőjét, amihez a működés, az intézkedés kötött. Amennyiben olyan rendszer létesül, amely földrengés esetén automatikus védelmi működést indít, akkor annak felépítését redundanciáját, diverzitását, fizikai elválasztását és megbízhatóságát illeszteni kell a védelmi rendszerrel szemben megköveteltekhez.
 
-3.3.6.1400.[^331] Az atomerőművi blokkot 3. biztonsági osztályba sorolt földrengés regisztráló rendszerrel kell megtervezni és ellátni, amelynek jelét feldolgozva értékelni lehet a földrengés hatásait és a továbbüzemelés biztonságát. A tervben meg kell határozni a földrengés azon jellemzőit, továbbá az atomerőmű állapotának értékeléséhez szükséges jellemzőket, amelyek a biztonságos továbbüzemelés értékelésének alapját képezik.
+3.3.6.1400.[^336] Az atomerőművi blokkot 3. biztonsági osztályba sorolt földrengés regisztráló rendszerrel kell megtervezni és ellátni, amelynek jelét feldolgozva értékelni lehet a földrengés hatásait és a továbbüzemelés biztonságát. A tervben meg kell határozni a földrengés azon jellemzőit, továbbá az atomerőmű állapotának értékeléséhez szükséges jellemzőket, amelyek a biztonságos továbbüzemelés értékelésének alapját képezik.
 
 3.3.6.1500. Speciális üzemzavar- és balesetkezelési eljárásokat, intézkedéseket kell kidolgozni földrengés esetére. Az eljárásokban és intézkedési tervekben szabályozni kell az atomerőmű üzemének és kiszolgálásának szervezését, a földrengést követő állapot értékelését, a földrengést követő ellenőrzések körét és módszerét, az újraindítás feltételeit.
 
 3.3.6.1600. Biztosítani kell, hogy az üzemi eseményekkel azonos gyakoriságú üzemi földrengés esetén az üzemeltetés vagy zavartalanul folyhasson, vagy ha az üzemi földrengés esetén az atomerőmű leáll, akkor a rengést követően újraindítható maradjon.
 
-3.3.6.1700.[^332]
+3.3.6.1700.[^337]
 
 Speciális belső veszélyeztető tényezők
 
@@ -1558,9 +1558,9 @@ Speciális belső veszélyeztető tényezők
 
 Természeti veszélyeztető tényezők
 
-3.3.6.2010.[^333] Hosszútávon fennálló természeti eredetű események esetén fel kell készülni a védelmi intézkedésekhez szükséges személyzet váltására és a szükséges eszközök utánpótlására.
+3.3.6.2010.[^338] Hosszútávon fennálló természeti eredetű események esetén fel kell készülni a védelmi intézkedésekhez szükséges személyzet váltására és a szükséges eszközök utánpótlására.
 
-3.3.6.2100.[^334] A telephelyre jellemző, a tervezési alapba tartozó természeti jelenségekkel, folyamatokkal összefüggő veszélyeztető tényezők minden típusára meg kell határozni a tervezés inputját képező mértékadó jellemzőt a veszélyeztetettségi görbe alapján, az adott veszélyeztető tényezőre vonatkozó szűrési kritérium figyelembevételével. A tervezés alapba tartozó tervezési paramétereket, mértékadó jellemzőket úgy kell meghatározni, hogy az a tervezési input oldaláról biztosítsa a szakadékszél-effektus elkerülését.
+3.3.6.2100.[^339] A telephelyre jellemző, a tervezési alapba tartozó természeti jelenségekkel, folyamatokkal összefüggő veszélyeztető tényezők minden típusára meg kell határozni a tervezés inputját képező mértékadó jellemzőt a veszélyeztetettségi görbe alapján, az adott veszélyeztető tényezőre vonatkozó szűrési kritérium figyelembevételével. A tervezés alapba tartozó tervezési paramétereket, mértékadó jellemzőket úgy kell meghatározni, hogy az a tervezési input oldaláról biztosítsa a szakadékszél-effektus elkerülését.
 
 3.3.6.2200. Biztosítani kell az atomerőmű biztonságos üzemeltetését a külső természeti veszélyeztető tényezők körülményei között is. Számításba kell venni a természeti veszélyeztető tényezők ésszerűen feltételezhető kombinációit. Figyelembe kell venni a biztonsági funkcióval nem rendelkező rendszerek, rendszerelemek természeti veszélyeztető tényezők hatására bekövetkező meghibásodásainak biztonsági funkciókra gyakorolt hatását.
 
@@ -1572,23 +1572,23 @@ Az emberi tevékenységgel összefüggő külső veszélyeztető tényezők
 
 3.3.6.2500. Meg kell határozni a tervezési alapba tartozó emberi tevékenységgel összefüggő veszélyeztető tényezőket és ezek hatását a biztonsági funkcióval rendelkező rendszerekre, rendszerelemekre. Amennyiben ezek a hatások a biztonsági funkció teljesülését befolyásolnák, e hatásokkal szemben védelmet kell biztosítani. A védelem biztosítható adminisztratív eszközökkel is, azaz a veszélyt jelentő emberi tevékenység korlátozásával, de a védelem műszaki megoldásait ezekkel szemben előnyben kell részesíteni, amennyiben ilyen megoldások ésszerűen megvalósíthatók.
 
-3.3.6.2600–3.3.6.3100.[^335]
+3.3.6.2600–3.3.6.3100.[^340]
 
-3.3.6.3200.[^336] Elemezni kell az atomerőmű környezetében zajló közúti és vízi közlekedési, szállítási tevékenység potenciális hatásait, és az ebből eredő kockázatot, különös tekintettel a veszélyes anyagok szállítására.
+3.3.6.3200.[^341] Elemezni kell az atomerőmű környezetében zajló közúti és vízi közlekedési, szállítási tevékenység potenciális hatásait, és az ebből eredő kockázatot, különös tekintettel a veszélyes anyagok szállítására.
 
-3.3.6.3300.[^337] Az atomerőmű telephelyén és annak környezetében azonosítani kell és meg kell határozni a jellemzőit minden olyan állandó vagy ideiglenes objektumnak, amely tűz vagy robbanás forrásává válhat, és értékelni kell, hogy az mennyiben veszélyezteti az atomerőművet. Szükség esetén meg kell tenni a megfelelő védőintézkedéseket.
+3.3.6.3300.[^342] Az atomerőmű telephelyén és annak környezetében azonosítani kell és meg kell határozni a jellemzőit minden olyan állandó vagy ideiglenes objektumnak, amely tűz vagy robbanás forrásává válhat, és értékelni kell, hogy az mennyiben veszélyezteti az atomerőművet. Szükség esetén meg kell tenni a megfelelő védőintézkedéseket.
 
 3.3.7. Tűzvédelem
 
-3.3.7.0100.[^338] A nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket úgy kell tervezni és elhelyezni, hogy a tűz gyakorisága és hatásai minimálisak legyenek. Biztosítani kell, hogy az atomerőmű a tűz során és utána egyaránt leállítható, a maradványhő eltávolítható, a radioaktív anyagok környezetbe történő kikerülése megakadályozható, és az atomerőművi üzemállapot monitorozható legyen. A nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket tartalmazó építményekben a redundáns rendszereket, rendszerelemeket magába foglaló helyiségeket önálló tűzszakaszként kell kialakítani. Amennyiben ez nem valósítható meg, akkor aktív és passzív tűzvédelmi eszközökkel ellátott tűzcellákat kell alkalmazni a tűzkockázat-elemzésnek megfelelően.
+3.3.7.0100.[^343] A nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket úgy kell tervezni és elhelyezni, hogy a tűz gyakorisága és hatásai minimálisak legyenek. Biztosítani kell, hogy az atomerőmű a tűz során és utána egyaránt leállítható, a maradványhő eltávolítható, a radioaktív anyagok környezetbe történő kikerülése megakadályozható, és az atomerőművi üzemállapot monitorozható legyen. A nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket tartalmazó építményekben a redundáns rendszereket, rendszerelemeket magába foglaló helyiségeket önálló tűzszakaszként kell kialakítani. Amennyiben ez nem valósítható meg, akkor aktív és passzív tűzvédelmi eszközökkel ellátott tűzcellákat kell alkalmazni a tűzkockázat-elemzésnek megfelelően.
 
-3.3.7.0110.[^339] A biztonság szempontjából fontos berendezéseket tartalmazó építményeket, a tűzkockázat-elemzés eredményeit figyelembe véve, tűzbiztosra kell tervezni.
+3.3.7.0110.[^344] A biztonság szempontjából fontos berendezéseket tartalmazó építményeket, a tűzkockázat-elemzés eredményeit figyelembe véve, tűzbiztosra kell tervezni.
 
 3.3.7.0200. Minden tűzszakaszt vagy tűzcellát tűzjelzéssel kell felszerelni. A blokkvezénylőben a tűz pontos helyéről tájékoztató jelzést kell biztosítani. Ezeket a rendszereket szünetmentes biztonsági energiabetáplálással és megfelelő tűzálló kábelezéssel kell ellátni.
 
 3.3.7.0300. Állandó beépítésű vagy mozgatható, automata vagy kézi oltórendszereket kell telepíteni, amelyeket úgy kell tervezni és elhelyezni, hogy törésük, téves vagy szándékolatlan működtetésük ne legyen jelentős hatással a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek biztonsági funkciójának teljesíthetőségére.
 
-3.3.7.0400.[^340] A tűzivíz elosztó rendszerének, az épületen kívüli és belüli csővezetékeinek biztosítaniuk kell az atomerőmű biztonság szempontjából fontos területeinek lefedettségét. A lefedettséget a tűzkockázat-elemzéssel kell igazolni.
+3.3.7.0400.[^345] A tűzivíz elosztó rendszerének, az épületen kívüli és belüli csővezetékeinek biztosítaniuk kell az atomerőmű biztonság szempontjából fontos területeinek lefedettségét. A lefedettséget a tűzkockázat-elemzéssel kell igazolni.
 
 3.3.7.0500. A szellőzőrendszereket úgy kell elrendezni, hogy tűz esetén minden tűzszakasz betöltse az elválasztó funkcióját.
 
@@ -1620,9 +1620,9 @@ c) a bebetonozott csővezetékeket, a tartályokat és az aknákat rozsdamentes 
 
 3.3.9.0200. A rendszerek, rendszerelemek ember-gép kapcsolatát és ergonómiai kialakítását olyan módon kell megtervezni, hogy – a feltételezett fizikai környezet és a várható pszichikai állapot figyelembevételével – a megfelelően képzett személyzet szükség esetén az elvárt időtartam alatt legyen képes feladatait sikeresen elvégezni.
 
-3.3.9.0210.[^341] Az érintett személyzet TA1-4, TAK1-2 üzemállapotok kezelésére való felkészülése elősegítéséhez megfelelő szimulációs eszközöket kell tervezni.
+3.3.9.0210.[^346] Az érintett személyzet TA1-4, TAK1-2 üzemállapotok kezelésére való felkészülése elősegítéséhez megfelelő szimulációs eszközöket kell tervezni.
 
-3.3.9.0300.[^342] A tervezés során el kell végezni az üzemeltető személyzetre háruló, a biztonsági funkciók teljesítéséhez kapcsolódó feladatok elemzését. A tervezett operátori beavatkozásokat és azok megfelelő megbízhatóságú végrehajthatóságát validálni kell, különös tekintettel a TA4 és TAK1-2 üzemállapotok kezelésére. TA4 esetekre a validáció legfontosabb eszköze a teljesléptékű szimulátor. Ezen a vizsgálatok eredményeit az eljárásoknak és a személyzeti betanító és szinten tartó képzés terveinek kidolgozásakor figyelembe kell venni.
+3.3.9.0300.[^347] A tervezés során el kell végezni az üzemeltető személyzetre háruló, a biztonsági funkciók teljesítéséhez kapcsolódó feladatok elemzését. A tervezett operátori beavatkozásokat és azok megfelelő megbízhatóságú végrehajthatóságát validálni kell, különös tekintettel a TA4 és TAK1-2 üzemállapotok kezelésére. TA4 esetekre a validáció legfontosabb eszköze a teljesléptékű szimulátor. Ezen a vizsgálatok eredményeit az eljárásoknak és a személyzeti betanító és szinten tartó képzés terveinek kidolgozásakor figyelembe kell venni.
 
 3.3.9.0400. A kezelői felületek tervezésére, gyártására és minősítésére a koncepcionális tervezés időszakában ergonómiai tervezési követelményeket kell meghatározni.
 
@@ -1650,35 +1650,35 @@ Az atomreaktor és aktív zóna integritása
 
 3.4.1.0600. Az aktív zónához telepített mérőrendszereknek biztosítaniuk kell az üzemeltetés feltételei és korlátai teljesülésének ellenőrzéséhez szükséges paraméterek elegendő pontosságú, folyamatos meghatározását. A szükséges paramétereket rendszeres időközönkénti mérési információkra alapozottan, vagy mérések és számítások kombinációjával kell biztosítani.
 
-3.4.1.0700.[^343] Az aktív zóna nukleáris jellemzőinek olyanoknak kell lenniük, hogy hőmérséklet-változások, a hűtőközeg elvesztése, bórhígulás vagy az aktív zóna geometriai változásai a TA1-4 és TAK1 üzemállapotokban nem okozhatnak szabályozhatatlan mértékű reaktivitás-növekedést.
+3.4.1.0700.[^348] Az aktív zóna nukleáris jellemzőinek olyanoknak kell lenniük, hogy hőmérséklet-változások, a hűtőközeg elvesztése, bórhígulás vagy az aktív zóna geometriai változásai a TA1-4 és TAK1 üzemállapotokban nem okozhatnak szabályozhatatlan mértékű reaktivitás-növekedést.
 
 3.4.1.0800. Az atomreaktor leállított állapotában és átrakása során biztosítani kell, hogy hasadóanyag vagy abszorbens aktív zónába való bejuttatása, vagy onnan történő eltávolítása során is folyamatosan fennálljon az előírt mértékű szubkritikusság.
 
-3.4.1.0900.[^344] Az aktív zóna és komponenseinek tervezésénél biztosítani kell az aktív zóna stabil, önszabályozó működését TA1-2 állapotokban, valamint a biztonságos leállított állapotban tarthatóságot TA3-4 és TAK1 üzemállapotokban.
+3.4.1.0900.[^349] Az aktív zóna és komponenseinek tervezésénél biztosítani kell az aktív zóna stabil, önszabályozó működését TA1-2 állapotokban, valamint a biztonságos leállított állapotban tarthatóságot TA3-4 és TAK1 üzemállapotokban.
 
 3.4.1.1000. Az aktív zóna konstrukciójának biztosítania kell, hogy a TA1-4 üzemállapotot eredményező eseményt követően, a fűtőelemkötegek üzemszerű eszközökkel eltávolíthatóak legyenek az atomreaktorból.
 
 A reaktivitás szabályozása
 
-3.4.1.1100.[^345] Az atomreaktor leállítását és reaktivitásának szabályozását legalább két, olyan különböző elv szerint működő rendszerrel kell biztosítani, amelyek közül bármelyik önmagában is képes a TA1-4 üzemállapotokból az atomreaktor leállítására. A leállító rendszerek közül legalább az egyiknek automatikus és gyors működésűnek kell lennie, amely – előre meghatározott feltételek teljesülése esetén – az üzemviteli személyzet tevékenységétől függetlenül és megszakíthatatlan módon az atomreaktort nagy megbízhatósággal leállítja. Mindegyik leállító- és szabályozórendszer egyszeres hibatűrő kell, hogy legyen, bármelyik villamos betáplálás hibája és a legnagyobb értékességű szabályozórúd működésképtelensége esetén is.
+3.4.1.1100.[^350] Az atomreaktor leállítását és reaktivitásának szabályozását legalább két, olyan különböző elv szerint működő rendszerrel kell biztosítani, amelyek közül bármelyik önmagában is képes a TA1-4 üzemállapotokból az atomreaktor leállítására. A leállító rendszerek közül legalább az egyiknek automatikus és gyors működésűnek kell lennie, amely – előre meghatározott feltételek teljesülése esetén – az üzemviteli személyzet tevékenységétől függetlenül és megszakíthatatlan módon az atomreaktort nagy megbízhatósággal leállítja. Mindegyik leállító- és szabályozórendszer egyszeres hibatűrő kell, hogy legyen, bármelyik villamos betáplálás hibája és a legnagyobb értékességű szabályozórúd működésképtelensége esetén is.
 
-3.4.1.1200.[^346] Az aktív zóna reaktivitás szabályozását az üzemanyag-dúsítás, szabályozó és védelmi rudak, oldott, és kiégő reaktormérgek olyan kombinációjával kell megvalósítani, amely biztosítja a reaktivitás viszonylagos gyors és jelentős növekedésének elkerülését a TA1-4 üzemállapotokban.
+3.4.1.1200.[^351] Az aktív zóna reaktivitás szabályozását az üzemanyag-dúsítás, szabályozó és védelmi rudak, oldott, és kiégő reaktormérgek olyan kombinációjával kell megvalósítani, amely biztosítja a reaktivitás viszonylagos gyors és jelentős növekedésének elkerülését a TA1-4 üzemállapotokban.
 
 3.4.1.1300. Az atomreaktort leállító védelmi jeleket úgy kell kialakítani, hogy a TA2-4 üzemállapotot eredményező eseményeknél a védelmi működés két különböző, független – egyenként is megfelelő redundanciával mért – fizikai jellemző bármelyikének határérték-túllépése esetén bekövetkezzen. A TA2-4 üzemállapotot eredményező eseményekből eredő eseményláncok kimenetele nem függhet lényegesen attól, hogy melyik fizikai paraméter indítja el a reaktorvédelmet.
 
 3.4.1.1400. A reaktivitást szabályozó és az atomreaktort leállító rendszerek megfelelő tervezésével biztosítani kell, hogy a TA1 4 üzemállapotban a nukleáris üzemanyag és hűtőközeg hőmérsékletére, valamint más fizikai paraméterekre vonatkozó biztonsági határértékek túllépése kizárt legyen.
 
-3.4.1.1500.[^347]
+3.4.1.1500.[^352]
 
 3.4.1.1600. A reaktivitást szabályozó és az atomreaktort leállító rendszereket oly módon kell megtervezni, hogy a reaktivitás-növekedés mértéke és sebessége, nem terv szerinti működés esetén se léphesse túl a tervezési határértéket.
 
-3.4.1.1610.[^348] A szubkritikusságot biztosítani kell, és fenn kell tartani a pihentető medence minden üzemállapotában.
+3.4.1.1610.[^353] A szubkritikusságot biztosítani kell, és fenn kell tartani a pihentető medence minden üzemállapotában.
 
 A fűtőelemkötegek tervezése
 
 3.4.1.1700. A fűtőelemkötegek teljes életútját meg kell tervezni, és az összes várható hatás figyelembevételével igazolni kell a nukleáris biztonsági követelmények teljesülését minden fázisban, a friss fűtőelemkötegek beérkezésétől a kiégett fűtőelemkötegek átmeneti tárolásáig, beleértve a kezelési, szállítási folyamatokat is.
 
-3.4.1.1710.[^349] A nukleáris üzemanyagot úgy kell megtervezni, hogy az ne zárja ki az újrafeldolgozás vagy a biztonságos végső elhelyezés lehetőségét.
+3.4.1.1710.[^354] A nukleáris üzemanyagot úgy kell megtervezni, hogy az ne zárja ki az újrafeldolgozás vagy a biztonságos végső elhelyezés lehetőségét.
 
 3.4.1.1800. A normál üzem feltételei mellett a besugárzott fűtőelempálcákból a hasadási termékek szivárgását a gyakorlatilag lehetséges minimális értéken kell tartani.
 
@@ -1688,11 +1688,11 @@ A fűtőelemkötegek tervezése
 
 3.4.1.2100. Megfelelő kialakítással kell biztosítani, hogy a fűtőelempálcákat az áramlás által keltett rezgések és elmozdulások ne károsíthassák.
 
-3.4.1.2200.[^350] Módosított fűtőelemköteg csak a tervezési követelmények teljesülésének igazolása után vezethető be. Megfelelő referencia – hasonló atomerőműben, azonos használati körülmények melletti problémamentes alkalmazás – hiányában bevezető fűtőelemkötegek alkalmazása szükséges.
+3.4.1.2200.[^355] Módosított fűtőelemköteg csak a tervezési követelmények teljesülésének igazolása után vezethető be. Megfelelő referencia – hasonló atomerőműben, azonos használati körülmények melletti problémamentes alkalmazás – hiányában bevezető fűtőelemkötegek alkalmazása szükséges.
 
-3.4.1.2300.[^351] Új fűtőelem-típus esetén a fűtőelemkötegek tervezési követelményeinek meghatározását, betarthatóságát és a nukleáris üzemanyag viselkedését leíró modellek validáltságát kísérleti eredmények segítségével kell igazolni.
+3.4.1.2300.[^356] Új fűtőelem-típus esetén a fűtőelemkötegek tervezési követelményeinek meghatározását, betarthatóságát és a nukleáris üzemanyag viselkedését leíró modellek validáltságát kísérleti eredmények segítségével kell igazolni.
 
-3.4.1.2400.[^352] Új fűtőelem-típus alkalmazása, illetve az üzemanyag kémiai, fizikai jellemzőinek, valamint a burkolat és a mechanikai komponensek módosulása esetében a 3.4.1.1700.-3.4.1.2200. pontokban meghatározottakon túl a biztonság igazolásához be kell mutatni:
+3.4.1.2400.[^357] Új fűtőelem-típus alkalmazása, illetve az üzemanyag kémiai, fizikai jellemzőinek, valamint a burkolat és a mechanikai komponensek módosulása esetében a 3.4.1.1700.-3.4.1.2200. pontokban meghatározottakon túl a biztonság igazolásához be kell mutatni:
 
 a) azoknak a kísérleteknek és referenciáknak az eredményeit, amelyek alapján az egyes tervezési határértékeket meghatározták, és
 
@@ -1704,7 +1704,7 @@ b) a fűtőelem-köteg szerkezeti elemei szilárdsági követelményeinek betart
 
 3.4.2.0200. A tervezésnél figyelembe kell venni az üzemeltetés során várható hatásokat, amelyek a rendszerelemeket élettartamuk során érik, beleértve minden bizonytalanságot, ami a rendszerelemek tulajdonságainak kezdeti állapota és öregedés miatti lehetséges romlásának meghatározásában mutatkozik. Ezeknek megfelelően a fővízköri rendszerelemeket elegendő tartalékkal kell tervezni, ugyanakkor igazolni kell, hogy a robosztus tervezés nem vezet hátrányokhoz üzemzavari helyzetben.
 
-3.4.2.0300.[^353] A fővízkört, mint a nyomás alatt lévő primerköri hőhordozót tároló rendszert, úgy kell megtervezni, hogy:
+3.4.2.0300.[^358] A fővízkört, mint a nyomás alatt lévő primerköri hőhordozót tároló rendszert, úgy kell megtervezni, hogy:
 
 a) ki kell zárni a katasztrofális meghibásodás lehetőségét;
 
@@ -1724,7 +1724,7 @@ c) biztosítani kell a fővízkör integritásának folyamatos monitorozását.
 
 3.4.2.0900. A gőzfejlesztők hőcserélő csőkötegeit úgy kell méretezni, hogy elegendő tartalék álljon rendelkezésre a hőcserélő csövek ledugózásának és eltömődésének kompenzálására a tervezett üzemidő végén is.
 
-3.4.2.1000.[^354]
+3.4.2.1000.[^359]
 
 3.4.2.1100. A gőzfejlesztők víz- és gőztereinek méretét elegendő tartalékkal kell meghatározni annak érdekében, hogy az lehetővé tegye a primer és szekunder körre előirányzott üzemeltetési korlátozások betartását a normál üzem valamennyi állapotában.
 
@@ -1738,7 +1738,7 @@ b) kizárható nyomáscsökkentő rendszerelemeket kell tervezni a nagyobb nyom�
 
 c) biztosítani kell az üzemzavari nyomáscsökkentést.
 
-3.4.2.1400.[^355]
+3.4.2.1400.[^360]
 
 3.4.3. Hőelvitel
 
@@ -1762,19 +1762,19 @@ d) a nem kondenzálódó gázok eltávolításával biztosítani kell, hogy azok
 
 e) biztosítani kell a korróziós termékek és a lerakódások eltávolítási lehetőségét, annak érdekében, hogy az áramlási útvonalak elzáródása ne veszélyeztethesse az aktív zóna hűthetőségét.
 
-3.4.3.0400.[^356] A gőzfejlesztőket úgy kell tervezni, hogy azok biztosítsák az atomreaktor megfelelő hűtését a TA1-4 és TAK-1 üzemállapotokban üzemállapotban.
+3.4.3.0400.[^361] A gőzfejlesztőket úgy kell tervezni, hogy azok biztosítsák az atomreaktor megfelelő hűtését a TA1-4 és TAK-1 üzemállapotokban üzemállapotban.
 
-3.4.3.0500.[^357] TA2-4 üzemállapotok során független és diverz eszközökkel biztosítani kell a maradványhő elvezetését reaktorból, a pihentető medencéből és a konténmentből egyszeres meghibásodás és a teljes feszültségvesztés esetén is. Biztosítani kell, hogy TA2-4 üzemállapotok során sem a fűtőelemre, sem a primerkör nyomástartó berendezéseire és csővezetékeire megállapított határértékek túllépése ne következzen be.
+3.4.3.0500.[^362] TA2-4 üzemállapotok során független és diverz eszközökkel biztosítani kell a maradványhő elvezetését reaktorból, a pihentető medencéből és a konténmentből egyszeres meghibásodás és a teljes feszültségvesztés esetén is. Biztosítani kell, hogy TA2-4 üzemállapotok során sem a fűtőelemre, sem a primerkör nyomástartó berendezéseire és csővezetékeire megállapított határértékek túllépése ne következzen be.
 
-3.4.3.0510.[^358] A reaktorból és a pihentető medencéből a maradványhő elvonására tervezett megoldások közül legalább egynek el kell látnia a funkcióját a külső természeti veszélyeztető tényezők által okozott TAK események során is.
+3.4.3.0510.[^363] A reaktorból és a pihentető medencéből a maradványhő elvonására tervezett megoldások közül legalább egynek el kell látnia a funkcióját a külső természeti veszélyeztető tényezők által okozott TAK események során is.
 
-3.4.3.0520.[^359] Igazolni kell, hogy a fűtőelemek TA1-4 üzemállapotra tervezett hűtési lehetőségének megszűnése esetén elegendő idő áll rendelkezésre a fűtőelemek alternatív hűtésének megkezdésére.
+3.4.3.0520.[^364] Igazolni kell, hogy a fűtőelemek TA1-4 üzemállapotra tervezett hűtési lehetőségének megszűnése esetén elegendő idő áll rendelkezésre a fűtőelemek alternatív hűtésének megkezdésére.
 
 3.4.3.0600. Besugárzott fűtőelemkötegeket tartalmazó rendszerek, így a leállított atomreaktor, vagy a pihentető medence esetében törekedni kell olyan megoldások alkalmazására, hogy a hőelvitel passzív módon is biztosítható legyen.
 
-3.4.3.0700.[^360] Amennyiben a maradványhő végső hőelnyelőbe juttatásának képessége nem igazolható minden üzemállapotra magas megbízhatósággal, akkor másodlagos végső hőelnyelőt és a működtetéséhez szükséges rendszereket kell biztosítani, amelyek elhelyezkedésük és a tervezési megoldások révén biztosítják, hogy a hőelvonás biztonsági funkció nem veszik el a külső veszélyeztető tényezők hatására.
+3.4.3.0700.[^365] Amennyiben a maradványhő végső hőelnyelőbe juttatásának képessége nem igazolható minden üzemállapotra magas megbízhatósággal, akkor másodlagos végső hőelnyelőt és a működtetéséhez szükséges rendszereket kell biztosítani, amelyek elhelyezkedésük és a tervezési megoldások révén biztosítják, hogy a hőelvonás biztonsági funkció nem veszik el a külső veszélyeztető tényezők hatására.
 
-3.4.4.[^361] Blokk- és tartalékvezénylő műszaki támogató központ
+3.4.4.[^366] Blokk- és tartalékvezénylő műszaki támogató központ
 
 3.4.4.0100. Az atomerőművi blokkon blokkvezénylőt kell kialakítani, ahonnan az atomerőművi blokk normál üzemeltetését, biztonságos állapotban tartását, vagy ilyen állapotba való visszavitelét célzó tevékenységek végrehajthatók a TA1-4 és a TAK1 és TAK2 üzemállapotokban. A blokkvezénylő tervezésekor a legkorszerűbb ergonómiai szempontokat és elveket kell figyelembe venni.
 
@@ -1788,9 +1788,9 @@ c) bármilyen automatikus védelmi működés azonosítása, elmaradásuk eseté
 
 d) átfogó kép kialakítása az atomerőművi blokk folyamatairól.
 
-3.4.4.0300.[^362] Az atomerőművi blokkon tartalékvezénylőt kell kialakítani a blokkvezénylőtől funkcionálisan független, fizikailag és villamos rendszerét tekintve is elkülönített helyen, ahová az állapot monitorozásához és a beavatkozásokhoz elégséges műszerezést, szabályozó- és vezérlőeszközöket kell telepíteni annak érdekében, hogy ha a blokkvezénylő üzemszerű használata bármilyen okból lehetetlenné válna, akkor:
+3.4.4.0300.[^367] Az atomerőművi blokkon tartalékvezénylőt kell kialakítani a blokkvezénylőtől funkcionálisan független, fizikailag és villamos rendszerét tekintve is elkülönített helyen, ahová az állapot monitorozásához és a beavatkozásokhoz elégséges műszerezést, szabályozó- és vezérlőeszközöket kell telepíteni annak érdekében, hogy ha a blokkvezénylő üzemszerű használata bármilyen okból lehetetlenné válna, akkor:
 
-a)[^363] az atomreaktor leállítható, lehűthető és korlátlan ideig biztonságos leállított állapotban tartható legyen; valamint
+a)[^368] az atomreaktor leállítható, lehűthető és korlátlan ideig biztonságos leállított állapotban tartható legyen; valamint
 
 b) az atomreaktor és a besugárzott fűtőelemkötegeket tartalmazó egyéb rendszerek maradványhő elvonása, az atomerőművi blokk fontos jellemzőinek folyamatosan ellenőrzése biztosított legyen.
 
@@ -1802,13 +1802,13 @@ b) az atomreaktor és a besugárzott fűtőelemkötegeket tartalmazó egyéb ren
 
 3.4.4.0700. A biztonsági funkciót teljesítő blokk- és tartalékvezénylői rendszerek, rendszerelemek számára folyamatos, szünetmentes villamos betáplálást kell biztosítani.
 
-3.4.4.0800.[^364] Olyan műszaki megoldásokat kell alkalmazni, amelyek kizárják a rendszerek, rendszerelemek egyidejű működtethetőségét a blokkvezénylőből és a tartalékvezénylőből. Amikor valamelyik vezénylő használatban van, ki kell zárni a másik vezénylőből érkező jeleket. A tartalékvezénylő illetéktelen használatát meg kell akadályozni.
+3.4.4.0800.[^369] Olyan műszaki megoldásokat kell alkalmazni, amelyek kizárják a rendszerek, rendszerelemek egyidejű működtethetőségét a blokkvezénylőből és a tartalékvezénylőből. Amikor valamelyik vezénylő használatban van, ki kell zárni a másik vezénylőből érkező jeleket. A tartalékvezénylő illetéktelen használatát meg kell akadályozni.
 
 3.4.4.0900. Kiemelten kell kezelni azoknak a blokk- és tartalékvezénylőn belül vagy kívül lehetséges eseményeknek az azonosítását, amelyek közvetlenül veszélyeztethetik az ott dolgozó személyzetet, a vezénylő folytonos használatát. A tervezés során olyan ésszerűen megvalósítható intézkedéseket kell meghatározni, melyek minimalizálják az ilyen események hatásait.
 
 3.4.4.1000. A blokk- és tartalékvezénylőt önálló tűzszakaszokban kell elhelyezni, ami lehetővé teszi az atomreaktor biztonságos leállítását és a leállított állapotban szükséges biztonsági funkciók fenntartását a környező helyiségekben fellépő tűz esetén is.
 
-3.4.4.1010.[^365] A blokk- és tartalékvezénylő között megfelelő közlekedési útvonalat kell biztosítani.
+3.4.4.1010.[^370] A blokk- és tartalékvezénylő között megfelelő közlekedési útvonalat kell biztosítani.
 
 3.4.4.1100. A blokk- és a tartalékvezénylő tervezésekor figyelembe kell venni az alábbi követelményeket:
 
@@ -1854,7 +1854,7 @@ cc) a tartalékvezénylőből végrehajtandó feladatokhoz szükséges informác
 
 cd) a tartalékvezénylői dokumentáció rendelkezésre állását.
 
-3.4.4.1400.[^366] Mind a blokkvezénylőtől, mind a tartalékvezénylőtől független műszaki támogató központot kell kialakítani a telephelyen, ahonnan műszaki támogatás nyújtható a blokkok TAK1 és TAK2 üzemállapotában az üzemeltető személyzet részére. A központban hozzáférést kell biztosítani az üzemviteli paraméterekhez, az atomerőmű és közvetlen környezetének sugárzási adataihoz. A központot a blokkvezénylővel, a tartalékvezénylővel és az erőmű minden, a balesetkezelés szempontjából lényeges helyszínével való kommunikációra alkalmas eszközökkel el kell látni. A központnak üzemképesnek és a személyzet által biztonságosan igénybe vehetőnek kell maradnia a blokkok TAK1 és TAK2 üzemállapotában.
+3.4.4.1400.[^371] Mind a blokkvezénylőtől, mind a tartalékvezénylőtől független műszaki támogató központot kell kialakítani a telephelyen, ahonnan műszaki támogatás nyújtható a blokkok TAK1 és TAK2 üzemállapotában az üzemeltető személyzet részére. A központban hozzáférést kell biztosítani az üzemviteli paraméterekhez, az atomerőmű és közvetlen környezetének sugárzási adataihoz. A központot a blokkvezénylővel, a tartalékvezénylővel és az erőmű minden, a balesetkezelés szempontjából lényeges helyszínével való kommunikációra alkalmas eszközökkel el kell látni. A központnak üzemképesnek és a személyzet által biztonságosan igénybe vehetőnek kell maradnia a blokkok TAK1 és TAK2 üzemállapotában.
 
 3.4.5. Villamos rendszerek és irányítástechnika
 
@@ -1866,15 +1866,15 @@ Villamos rendszerek és berendezések
 
 3.4.5.0300. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek villamosenergia-ellátását biztonsági osztályuknak megfelelően, differenciált követelmények szerint kell tervezni.
 
-3.4.5.0400.[^367] A TA1-4 üzemállapotokban a villamos rendszerek és rendszerelemek megengedett villamos terhelése nem haladhatja meg azok névleges terhelhetőségét. A tervezési specifikációban kell megadni a rendszerek és rendszerelemek villamos terhelésére vonatkozó korlátozásokat. Ezek alapján meg kell határozni a biztonsági rendszerek üzemeltetéséhez szükséges villamos energiaforrások mennyiségét, minőségét és teljesítményét, figyelembe véve a lehetséges közös okú hibákat és szükséges üzemelési időtartamot.
+3.4.5.0400.[^372] A TA1-4 üzemállapotokban a villamos rendszerek és rendszerelemek megengedett villamos terhelése nem haladhatja meg azok névleges terhelhetőségét. A tervezési specifikációban kell megadni a rendszerek és rendszerelemek villamos terhelésére vonatkozó korlátozásokat. Ezek alapján meg kell határozni a biztonsági rendszerek üzemeltetéséhez szükséges villamos energiaforrások mennyiségét, minőségét és teljesítményét, figyelembe véve a lehetséges közös okú hibákat és szükséges üzemelési időtartamot.
 
-3.4.5.0410.[^368] Megfelelő villamosenergia-betáplálást kell biztosítani TAK üzemállapotok esetére a TAK elemzések által megállapított szükséges beavatkozások és időkeret szerint, figyelembe véve a természeti eredetű veszélyeztető tényezőket.
+3.4.5.0410.[^373] Megfelelő villamosenergia-betáplálást kell biztosítani TAK üzemállapotok esetére a TAK elemzések által megállapított szükséges beavatkozások és időkeret szerint, figyelembe véve a természeti eredetű veszélyeztető tényezőket.
 
 3.4.5.0500. Az atomerőművi blokk normál villamosenergia-ellátó rendszerében bekövetkező események kezelésére megfelelő intézkedéseket kell tartalmaznia a tervezési alapnak úgy, hogy az atomerőművi blokk biztonsága ilyen helyzetekben is garantálható legyen.
 
 3.4.5.0600. Az energiaellátó rendszereket, rendszerelemeket, a biztonsági osztályba sorolás mellett, a villamosenergia-ellátás megengedhető kimaradása szempontjából is csoportosítani kell. Ezek alapján kell megtervezni az atomerőművi blokk villamos betáplálási hálózatát.
 
-3.4.5.0700.[^369] A szünetmentes energiaellátás jellemzőit és a létfontosságú energiaellátás megengedhető kimaradásának időtartamát biztonsági megalapozással kell meghatározni. TAK1-2 üzemállapot során funkciót ellátó akkumulátoroknak megfelelő kapacitással kell rendelkezniük az újratölthetőségükig, vagy amíg más energiaellátási megoldás nem biztosítható.
+3.4.5.0700.[^374] A szünetmentes energiaellátás jellemzőit és a létfontosságú energiaellátás megengedhető kimaradásának időtartamát biztonsági megalapozással kell meghatározni. TAK1-2 üzemállapot során funkciót ellátó akkumulátoroknak megfelelő kapacitással kell rendelkezniük az újratölthetőségükig, vagy amíg más energiaellátási megoldás nem biztosítható.
 
 3.4.5.0800. Az üzemi villamos betáplálás kiesésekor, vagy paramétereinek megengedett tartományból való kilépése esetén a biztonsági villamosenergia-ellátó rendszereknek megfelelő időn belül automatikusan át kell kapcsolniuk a tartalék betáplálásokra.
 
@@ -1882,15 +1882,15 @@ Villamos rendszerek és berendezések
 
 Irányítástechnika
 
-3.4.5.0910.[^370] Több blokkal rendelkező atomerőmű esetén ésszerűen megvalósítható mértékben biztosítani kell a blokkok közötti közvetlen villamos összeköttetést, úgy hogy az esetleges hibák átterjedése egyik blokkról a másikra gyakorlatilag kizárható legyen.
+3.4.5.0910.[^375] Több blokkal rendelkező atomerőmű esetén ésszerűen megvalósítható mértékben biztosítani kell a blokkok közötti közvetlen villamos összeköttetést, úgy hogy az esetleges hibák átterjedése egyik blokkról a másikra gyakorlatilag kizárható legyen.
 
-3.4.5.0920.[^371] Villamosenergia-forrást kell tervezni, amely:
+3.4.5.0920.[^376] Villamosenergia-forrást kell tervezni, amely:
 
 a) fizikailag és rendszertechnikailag független a TA2-4 üzemállapotok kezelésére tervezett biztonsági villamosenergia-forrástól, és
 
 b) megfelelő energiaellátást képes biztosítani a TAK2 üzemállapot megelőzéséhez, valamint következményeinek enyhítéséhez a külső és belső villamosenergia-ellátás teljes elveszítése esetében.
 
-3.4.5.1000.[^372] Biztosítani kell az alapvető biztonsági funkciók ellenőrzéséhez szükséges paraméterek mérésére alkalmas műszerezést, megteremtve ezzel az atomerőművi blokk megbízható és biztonságos üzemeltetéséhez, a TA1-4 és a TAK1-2 üzemállapotot eredményező események kezeléséhez szükséges információk rendelkezésre állását. A nukleáris biztonság szempontjából fontos rendszerekre vonatkozó minden lényeges, mért és származtatott paraméter automatikus rögzítéséről is gondoskodni kell.
+3.4.5.1000.[^377] Biztosítani kell az alapvető biztonsági funkciók ellenőrzéséhez szükséges paraméterek mérésére alkalmas műszerezést, megteremtve ezzel az atomerőművi blokk megbízható és biztonságos üzemeltetéséhez, a TA1-4 és a TAK1-2 üzemállapotot eredményező események kezeléséhez szükséges információk rendelkezésre állását. A nukleáris biztonság szempontjából fontos rendszerekre vonatkozó minden lényeges, mért és származtatott paraméter automatikus rögzítéséről is gondoskodni kell.
 
 3.4.5.1100. Ellenőrző és mérőműszerezést kell biztosítani a radioaktív anyagok előfordulási helyeinek megfigyeléséhez és mennyiségének méréséhez minden olyan helyen, ahol a környezetbe történő kibocsátásuk lehetséges.
 
@@ -1902,9 +1902,9 @@ b) megfelelő energiaellátást képes biztosítani a TAK2 üzemállapot megelő
 
 3.4.5.1500. Megfelelő szabályozási eszközöket kell alkalmazni az üzemi paraméterek előírt tartományban tartása céljából.
 
-3.4.5.1600.[^373] Olyan műszerezést, adatfeldolgozó, megjelenítő és archiváló rendszert kell létesíteni, amely ésszerűen megvalósítható mértékben független minden más adatfeldolgozó, megjelenítő és archiváló rendszertől, és alkalmas arra, hogy információt adjon az atomerőművi blokk állapotáról TAK2 üzemállapot környezeti körülményei között is, az ilyen helyzetre kidolgozott útmutató és belső utasítások terjedelmében.
+3.4.5.1600.[^378] Olyan műszerezést, adatfeldolgozó, megjelenítő és archiváló rendszert kell létesíteni, amely ésszerűen megvalósítható mértékben független minden más adatfeldolgozó, megjelenítő és archiváló rendszertől, és alkalmas arra, hogy információt adjon az atomerőművi blokk állapotáról TAK2 üzemállapot környezeti körülményei között is, az ilyen helyzetre kidolgozott útmutató és belső utasítások terjedelmében.
 
-3.4.5.1700.[^374] Az irányítástechnikai rendszereknek biztosítaniuk kell:
+3.4.5.1700.[^379] Az irányítástechnikai rendszereknek biztosítaniuk kell:
 
 a) az atomreaktor biztonságos automatikus leállítását és a biztonsági rendszerek indítását meghatározott paraméterek elérése esetén,
 
@@ -1930,264 +1930,216 @@ b) a megfelelő biztonsági funkciót ellátó rendszerelemek működtetését, 
 
 c) a támogató funkciók indítását.
 
-3.4.5.1900.[^375] Az irányítástechnikai rendszerek technológiai funkció specifikációjának meg kell felelnie a következő követelményeknek:
-
-a) azonosítja az irányítási feladatot a technológiai céloknak és követelménynek megfelelően,
-
-b) minden irányítási feladathoz egyértelmű azonosító kódot rendel,
-
-c) az irányítási feladatokat az adott feladat biztonsági fontossága alapján biztonsági osztályba sorolja és a mélységi védelem megfelelő szintjéhez rendeli,
-
-d) meghatározza a funkciókhoz kapcsolódó diverzitási követelményeket,
-
-e) meghatározza a funkciókhoz tartozó válaszidőket,
-
-f) minden kimenethez meghatározza azt a biztonságos állapotot vagy pozíciót, amit a kimenet detektált hibája esetén fel kell vegyen,
-
-g) meghatározza az operátori beavatkozást igénylő feladatokat az atomerőmű TA üzemállapotra vonatkozóan oly módon, hogy az üzemeltető személyzet képes legyen azokat teljesíteni,
-
-h) formális leírási módot használ és az áttekinthetőség érdekében többszintű, és megfelelően strukturált,
-
-i) formai ellenőrzésére, verifikálására automatizált rendszert irányoz elő,
-
-j) tartalmazza az operátori feladatok végrehajtásához és az automatikus feladatok ellenőrzéséhez szükséges információkat,
-
-k) működtetési határértékekhez és analóg értékek megjelenítéséhez meghatározza a pontossági követelményeket, továbbá
-
-l) 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek esetén azok funkcionális ellenőrzésére, validálására szimulációs módszereket határoz meg.
-
-3.4.5.2000.[^376] Az irányítástechnikai rendszerek és rendszerelemek tervezését és kivitelezését az adott biztonsági besorolású rendszerekre és rendszerelemekre vonatkozó kiválasztott szabványoknak megfelelően, differenciált követelmények szerint kell végezni.
-
-3.4.5.2100.[^377] Meg kell határozni az irányítástechnikai rendszerek és a külvilág közötti emberi és automatikus kölcsönhatásokat logikai és fizikai interfészek formájában. A tervezett kölcsönhatások nem akadályozhatják az automatikus biztonsági funkciók teljesítését.
-
-3.4.5.2200.[^378] A 2. biztonsági osztályba sorolt irányítástechnikai rendszerek alrendszereinek a megkövetelt hibatűrő képesség teljesítéséhez elegendő mértékben redundánsnak kell lenniük. A redundáns készleteknek funkcionálisan a lehető legnagyobb mértékben azonosak kell lenniük a szándékolt diverzitás alkalmazása mellett.
-
-3.4.5.2300. A programozható irányítástechnikai rendszerek funkcióinak alrendszerekhez rendelése során alkalmazni kell a mélységben tagolt védelem elvét. A nem biztonsági, vagy az alacsonyabb biztonsági osztályba sorolt funkciók nem építhetők be egy biztonsági osztályba sorolt, vagy magasabb biztonsági osztályba sorolt alrendszerbe. Amennyiben erre nincs lehetőség, biztonsági elemzéssel kell igazolni, hogy az alacsonyabb biztonsági osztályú funkciót teljesítő alrendszer semmilyen módon nem akadályozza valamely magasabb biztonsági osztályú funkció ellátását.
-
-3.4.5.2400. Különböző biztonsági osztályba sorolt programozható irányítástechnikai rendszerek közötti kapcsolat esetén igazolni kell, hogy az alacsonyabb osztályba sorolt rendszer a magasabb osztályba sorolt rendszer működését nem befolyásolja. Azonos biztonsági osztályba sorolt programozható irányítástechnikai rendszerek közötti kapcsolat esetén igazolni kell, hogy az egyik rendszer hibája a másik autonóm biztonsági funkcióinak teljesítését nem gátolja.
-
-3.4.5.2500. A programozható irányítástechnikai rendszerek pontosságára, válaszidejére, eseménysorrend-meghatározására, feldolgozási kapacitástartalékára és kommunikációs kapacitástartalékára vonatkozóan az atomerőmű tervezési alapjával konzisztensen kell a követelményeket meghatározni.
-
-3.4.5.2600.[^379] Minden 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszer által ellátott biztonsági funkció tekintetében biztosítani kell az egyszeres hibatűrő képesség folyamatos fenntartását. Funkcióvesztés még karbantartás vagy időszakos próba esetében sem engedhető meg. Igazolni kell, hogy az alkalmazott architektúra megfelel a megbízhatósági követelményeknek.
-
-3.4.5.2700.[^380] A 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek összes komponensének automatikus önellenőrző képességgel kell rendelkezni. Az önellenőrzés során feltárt hiba esetén – ha szükséges –, az alrendszer kimeneteit egy előre meghatározott, a biztonság irányába ható állapotba kell vezérelni.
-
-[^162]: A 2. melléklet 2.2.2.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^163]: A 2. melléklet 2.2.2.0200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdése iktatta be.
-[^164]: A 2. melléklet 2.2.2.0300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdése iktatta be.
-[^165]: A 2. melléklet 2.5.1.0300. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdése szerint módosított szöveg.
-[^166]: A 3. melléklet a 37/2012. (III. 9.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^167]: A 3. melléklet címe a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^168]: A 3. melléklet 3.1.1.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^169]: A 3.2.1.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^170]: A 3. melléklet 3.2.1.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^171]: A 3. melléklet 3.2.1.1300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^172]: A 3. melléklet 3.2.1.1500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^173]: A 3. melléklet 3.2.1.1700. pont c) alpont cc) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^174]: A 3. melléklet 3.2.1.2100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^175]: A 3. melléklet 3.2.1.2300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^176]: A 3. melléklet 3.2.2.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^177]: A 3. melléklet 3.2.2.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^178]: A 3. melléklet 3.2.2.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^179]: A 3. melléklet 3.2.2.0400–3.2.2.2100. pontjait a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^180]: A 3. melléklet 3.2.2.2110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^181]: A 3. melléklet 3.2.2.2120. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^182]: A 3. melléklet 3.2.2.2130. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^183]: A 3. melléklet 3.2.2.2140. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^184]: A 3. melléklet 3.2.2.2150. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^185]: A 3. melléklet 3.2.2.2160. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^186]: A 3. melléklet 3.2.2.2161. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^187]: A 3. melléklet 3.2.2.2162. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^188]: A 3. melléklet 3.2.2.2163. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^189]: A 3. melléklet 3.2.2.2164. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^190]: A 3. melléklet 3.2.2.2165. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^191]: A 3. melléklet 3.2.2.2166. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^192]: A 3. melléklet 3.2.2.2200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^193]: A 3. melléklet 3.2.2.2300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^194]: A 3. melléklet 3.2.2.2800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^195]: A 3. melléklet 3.2.2.3000. pontja a 218/2013. (VI. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^196]: A 3. melléklet 3.2.2.3000. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^197]: A 3. melléklet 3.2.2.3000. pont e) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^198]: A 3. melléklet 3.2.2.3000. pont l) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^199]: A 3. melléklet 3.2.2.3000. pont n) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^200]: A 3. melléklet 3.2.2.3000. pont o) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^201]: A 3. melléklet 3.2.2.3000. pont p) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^202]: A 3. melléklet 3.2.2.3010. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^203]: A 3. melléklet 3.2.2.3020. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^204]: A 3. melléklet 3.2.2.3100. pont r) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^205]: A 3. melléklet 3.2.2.3100. pont s) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^206]: A 3. melléklet 3.2.2.3100. pont t) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^207]: A 3. melléklet 3.2.2.3200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^208]: A 3. melléklet 3.2.2.3300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^209]: A 3. melléklet 3.2.2.3400. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^210]: A 3. melléklet 3.2.2.3400. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^211]: A 3. melléklet 3.2.2.3510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^212]: A 3. melléklet 3.2.2.3710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^213]: A 3. melléklet 3.2.2.3800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^214]: A 3. melléklet 3.2.2.3900. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^215]: A 3. melléklet 3.2.2.3900. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^216]: A 3. melléklet 3.2.2.3900. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^217]: A 3. melléklet 3.2.2.3900. pont h) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^218]: A 3. melléklet 3.2.2.3900. pont l) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^219]: A 3. melléklet 3.2.2.3900. pont m) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^220]: A 3. melléklet 3.2.2.3900. pont n) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^221]: A 3. melléklet 3.2.2.3900. pont o) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^222]: A 3. melléklet 3.2.2.3910. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^223]: A 3. melléklet 3.2.2.3920. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^224]: A 3. melléklet 3.2.2.3930. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^225]: A 3. melléklet 3.2.2.3940. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^226]: A 3. melléklet 3.2.2.3950. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^227]: A 3. melléklet 3.2.2.4000. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^228]: A 3. melléklet 3.2.2.4100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^229]: A 3. melléklet 3.2.2.4310. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^230]: A 3. melléklet 3.2.2.4400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^231]: A 3. melléklet 3.2.2.4600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^232]: A 3. melléklet 3.2.2.4610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^233]: A 3. melléklet 3.2.2.4620. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^234]: A 3. melléklet 3.2.2.4800. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^235]: A 3. melléklet 3.2.2.4800. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^236]: A 3. melléklet 3.2.2.5300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^237]: A 3. melléklet 3.2.2.5400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^238]: A 3. melléklet 3.2.2.5500. pontja 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^239]: A 3. melléklet 3.2.2.5600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^240]: A 3. melléklet 3.2.2.5700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^241]: A 3. melléklet 3.2.3.0200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^242]: A 3. melléklet 3.2.3.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^243]: A 3. melléklet 3.2.3.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^244]: A 3. melléklet 3.2.3.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^245]: A 3. melléklet 3.2.3.0710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^246]: A 3. melléklet 3.2.3.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^247]: A 3. melléklet 3.2.3.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^248]: A 3. melléklet 3.2.3.1700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^249]: A 3. melléklet 3.2.3.1800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^250]: A 3. melléklet 3.2.3.1900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^251]: A 3. melléklet 3.2.3.2500. pontot megelőző szövegrész a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^252]: A 3. melléklet 3.2.3.2600. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^253]: A 3. melléklet 3.2.3.2600. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^254]: A 3. melléklet 3.2.3.2600. pont j) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^255]: A 3. melléklet 3.2.3.2600. pont p) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^256]: A 3. melléklet 3.2.3.2600. pont q) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^257]: A 3. melléklet 3.2.3.2600. pont r) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^258]: A 3. melléklet 3.2.3.2600. pont s) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^259]: A 3. melléklet 3.2.3.2610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^260]: A 3. melléklet 3.2.3.2620. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^261]: A 3. melléklet 3.2.3.2700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^262]: A 3. melléklet 3.2.4. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^263]: A 3. melléklet 3.2.4.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^264]: A 3. melléklet 3.2.4.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^265]: A 3. melléklet 3.2.4.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^266]: A 3. melléklet 3.2.4.0700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^267]: A 3. melléklet 3.2.4.0800. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^268]: A 3. melléklet 3.2.4.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^269]: A 3. melléklet 3.2.4.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^270]: A 3. melléklet 3.2.4.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^271]: A 3. melléklet 3.2.4.1400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^272]: A 3. melléklet 3.2.4.1500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^273]: A 3. melléklet 3.2.4.1510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^274]: A 3. melléklet 3.2.4.1600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^275]: A 3. melléklet 3.2.5.1200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^276]: A 3. melléklet 3.3.1.0400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^277]: A 3. melléklet 3.3.1.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^278]: A 3. melléklet 3.3.1.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^279]: A 3. melléklet 3.3.1.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^280]: A 3. melléklet 3.3.1.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^281]: A 3. melléklet 3.3.1.1700. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^282]: A 3. melléklet 3.3.1.1700. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^283]: A 3. melléklet 3.3.1.1700. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^284]: A 3. melléklet 3.3.1.1700. pont e) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^285]: A 3. melléklet 3.3.2.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^286]: A 3. melléklet 3.3.2.0600. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^287]: A 3. melléklet 3.3.2.0600. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^288]: A 3. melléklet 3.3.2.0600. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^289]: A 3. melléklet 3.3.2.0600. pont g) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^290]: A 3. melléklet 3.3.2.0610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^291]: A 3. melléklet 3.3.2.0700. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^292]: A 3. melléklet 3.3.2.1200. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^293]: A 3. melléklet 3.3.2.1400. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^294]: A 3. melléklet 3.3.2.1400. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^295]: A 3. melléklet 3.3.2.1400. pont d) pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^296]: A 3. melléklet 3.3.2.1900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^297]: A 3. melléklet 3.3.2.2800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^298]: A 3. melléklet 3.3.2.2900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^299]: A 3. melléklet 3.3.2.3300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^300]: A 3. melléklet 3.3.2.3900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^301]: A 3. melléklet 3.3.2.4000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^302]: A 3. melléklet 3.3.2.4200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^303]: A 3. melléklet 3.3.3.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^304]: A 3. melléklet 3.3.3.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^305]: A 3. melléklet 3.3.3.1400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^306]: A 3. melléklet 3.3.3.1500. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^307]: A 3. melléklet 3.3.3.1600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^308]: A 3. melléklet 3.3.3.1700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^309]: A 3. melléklet 3.3.3.1800. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^310]: A 3. melléklet 3.3.3.1900. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^311]: A 3. melléklet 3.3.4.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^312]: A 3. melléklet 3.3.5.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^313]: A 3. melléklet 3.3.5.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^314]: A 3. melléklet 3.3.5.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^315]: A 3. melléklet 3.3.5.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^316]: A 3. melléklet 3.3.5.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^317]: A 3. melléklet 3.3.5.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^318]: A 3. melléklet 3.3.5.1200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^319]: A 3. melléklet 3.3.5.1300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^320]: A 3. melléklet 3.3.6.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^321]: A 3. melléklet 3.3.6.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^322]: A 3. melléklet 3.3.6.0120. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^323]: A 3. melléklet 3.3.6.0130. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^324]: A 3. melléklet 3.3.6.0140. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^325]: A 3. melléklet 3.3.6.0150. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^326]: A 3. melléklet 3.3.6.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^327]: A 3. melléklet 3.3.6.0500. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^328]: A 3. melléklet 3.3.6.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^329]: A 3. melléklet 3.3.6.1000. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^330]: A 3. melléklet 3.3.6.1300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^331]: A 3. melléklet 3.3.6.1400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^332]: A 3. melléklet 3.3.6.1700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^333]: A 3. melléklet 3.3.6.2010. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be, a pontot megelőző szöveg a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^334]: A 3. melléklet 3.3.6.2100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^335]: A 3. melléklet 3.3.6.2600–3.3.6.3100. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^336]: A 3. melléklet 3.3.6.3200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^337]: A 3. melléklet 3.3.6.3300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^338]: A 3. melléklet 3.3.7.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^339]: A 3. melléklet 3.3.7.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^340]: A 3. melléklet 3.3.7.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^341]: A 3. melléklet 3.3.9.0210. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^342]: A 3. melléklet 3.3.9.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^343]: A 3. melléklet 3.4.1.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^344]: A 3. melléklet 3.4.1.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^345]: A 3. melléklet 3.4.1.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^346]: A 3. melléklet 3.4.1.1200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^347]: A 3. melléklet 3.4.1.1500. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^348]: A 3. melléklet 3.4.1.1610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^349]: A 3. melléklet 3.4.1.1710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^350]: A 3. melléklet 3.4.1.2200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^351]: A 3. melléklet 3.4.1.2300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^352]: A 3. melléklet 3.4.1.2400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^353]: A 3. melléklet 3.4.2.0300. pont a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^354]: A 3. melléklet 3.4.2.1000. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^355]: A 3. melléklet 3.4.2.1400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^356]: A 3. melléklet 3.4.3.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^357]: A 3. melléklet 3.4.3.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^358]: A 3. melléklet 3.4.3.0510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^359]: A 3. melléklet 3.4.3.0520. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^360]: A 3. melléklet 3.4.3.0700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^361]: A 3. melléklet 3.4.4. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^362]: A 3. melléklet 3.4.4.0300. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^363]: A 3. melléklet 3.4.4.0300. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^364]: A 3. melléklet 3.4.4.0800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^365]: A 3. melléklet 3.4.4.1010. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^366]: A 3. melléklet 3.4.4.1400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^367]: A 3. melléklet 3.4.5.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^368]: A 3. melléklet 3.4.5.0410. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^369]: A 3. melléklet 3.4.5.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^370]: A 3. melléklet 3.4.5.0910. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^371]: A 3. melléklet 3.4.5.0920. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
-[^372]: A 3. melléklet 3.4.5.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^373]: A 3. melléklet 3.4.5.1600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^374]: A 3. melléklet 3.4.5.1700. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg, a pontot megelőző szövegrészt ugyanezen rendelet 1. § (13) bekezdése hatályon kívül helyezte.
-[^375]: A 3. melléklet 3.4.5.1900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
-[^376]: A 3. melléklet 3.4.5.2000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^377]: A 3. melléklet 3.4.5.2100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^378]: A 3. melléklet 3.4.5.2200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^379]: A 3. melléklet 3.4.5.2600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
-[^380]: A 3. melléklet 3.4.5.2700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^167]: A 2. melléklet 2.2.2.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^168]: A 2. melléklet 2.2.2.0200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdése iktatta be.
+[^169]: A 2. melléklet 2.2.2.0300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdése iktatta be.
+[^170]: A 2. melléklet 2.5.1.0300. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (12) bekezdése szerint módosított szöveg.
+[^171]: A 3. melléklet a 37/2012. (III. 9.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^172]: A 3. melléklet címe a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^173]: A 3. melléklet 3.1.1.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^174]: A 3.2.1.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^175]: A 3. melléklet 3.2.1.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^176]: A 3. melléklet 3.2.1.1300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^177]: A 3. melléklet 3.2.1.1500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^178]: A 3. melléklet 3.2.1.1700. pont c) alpont cc) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^179]: A 3. melléklet 3.2.1.2100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^180]: A 3. melléklet 3.2.1.2300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^181]: A 3. melléklet 3.2.2.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^182]: A 3. melléklet 3.2.2.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^183]: A 3. melléklet 3.2.2.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^184]: A 3. melléklet 3.2.2.0400–3.2.2.2100. pontjait a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^185]: A 3. melléklet 3.2.2.2110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^186]: A 3. melléklet 3.2.2.2120. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^187]: A 3. melléklet 3.2.2.2130. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^188]: A 3. melléklet 3.2.2.2140. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^189]: A 3. melléklet 3.2.2.2150. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^190]: A 3. melléklet 3.2.2.2160. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^191]: A 3. melléklet 3.2.2.2161. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^192]: A 3. melléklet 3.2.2.2162. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^193]: A 3. melléklet 3.2.2.2163. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^194]: A 3. melléklet 3.2.2.2164. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^195]: A 3. melléklet 3.2.2.2165. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^196]: A 3. melléklet 3.2.2.2166. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^197]: A 3. melléklet 3.2.2.2200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^198]: A 3. melléklet 3.2.2.2300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^199]: A 3. melléklet 3.2.2.2800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^200]: A 3. melléklet 3.2.2.3000. pontja a 218/2013. (VI. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^201]: A 3. melléklet 3.2.2.3000. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^202]: A 3. melléklet 3.2.2.3000. pont e) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^203]: A 3. melléklet 3.2.2.3000. pont l) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^204]: A 3. melléklet 3.2.2.3000. pont n) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^205]: A 3. melléklet 3.2.2.3000. pont o) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^206]: A 3. melléklet 3.2.2.3000. pont p) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^207]: A 3. melléklet 3.2.2.3010. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^208]: A 3. melléklet 3.2.2.3020. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^209]: A 3. melléklet 3.2.2.3100. pont r) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^210]: A 3. melléklet 3.2.2.3100. pont s) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^211]: A 3. melléklet 3.2.2.3100. pont t) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^212]: A 3. melléklet 3.2.2.3200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^213]: A 3. melléklet 3.2.2.3300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^214]: A 3. melléklet 3.2.2.3400. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^215]: A 3. melléklet 3.2.2.3400. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^216]: A 3. melléklet 3.2.2.3510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^217]: A 3. melléklet 3.2.2.3710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^218]: A 3. melléklet 3.2.2.3800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^219]: A 3. melléklet 3.2.2.3900. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^220]: A 3. melléklet 3.2.2.3900. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^221]: A 3. melléklet 3.2.2.3900. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^222]: A 3. melléklet 3.2.2.3900. pont h) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^223]: A 3. melléklet 3.2.2.3900. pont l) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^224]: A 3. melléklet 3.2.2.3900. pont m) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^225]: A 3. melléklet 3.2.2.3900. pont n) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^226]: A 3. melléklet 3.2.2.3900. pont o) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^227]: A 3. melléklet 3.2.2.3910. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^228]: A 3. melléklet 3.2.2.3920. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^229]: A 3. melléklet 3.2.2.3930. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^230]: A 3. melléklet 3.2.2.3940. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^231]: A 3. melléklet 3.2.2.3950. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^232]: A 3. melléklet 3.2.2.4000. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^233]: A 3. melléklet 3.2.2.4100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^234]: A 3. melléklet 3.2.2.4310. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^235]: A 3. melléklet 3.2.2.4400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^236]: A 3. melléklet 3.2.2.4600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^237]: A 3. melléklet 3.2.2.4610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^238]: A 3. melléklet 3.2.2.4620. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^239]: A 3. melléklet 3.2.2.4800. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^240]: A 3. melléklet 3.2.2.4800. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^241]: A 3. melléklet 3.2.2.5300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^242]: A 3. melléklet 3.2.2.5400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^243]: A 3. melléklet 3.2.2.5500. pontja 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^244]: A 3. melléklet 3.2.2.5600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^245]: A 3. melléklet 3.2.2.5700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^246]: A 3. melléklet 3.2.3.0200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^247]: A 3. melléklet 3.2.3.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^248]: A 3. melléklet 3.2.3.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^249]: A 3. melléklet 3.2.3.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^250]: A 3. melléklet 3.2.3.0710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^251]: A 3. melléklet 3.2.3.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^252]: A 3. melléklet 3.2.3.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^253]: A 3. melléklet 3.2.3.1700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^254]: A 3. melléklet 3.2.3.1800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^255]: A 3. melléklet 3.2.3.1900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^256]: A 3. melléklet 3.2.3.2500. pontot megelőző szövegrész a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^257]: A 3. melléklet 3.2.3.2600. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^258]: A 3. melléklet 3.2.3.2600. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^259]: A 3. melléklet 3.2.3.2600. pont j) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^260]: A 3. melléklet 3.2.3.2600. pont p) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^261]: A 3. melléklet 3.2.3.2600. pont q) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^262]: A 3. melléklet 3.2.3.2600. pont r) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^263]: A 3. melléklet 3.2.3.2600. pont s) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^264]: A 3. melléklet 3.2.3.2610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^265]: A 3. melléklet 3.2.3.2620. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^266]: A 3. melléklet 3.2.3.2700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^267]: A 3. melléklet 3.2.4. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^268]: A 3. melléklet 3.2.4.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^269]: A 3. melléklet 3.2.4.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^270]: A 3. melléklet 3.2.4.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^271]: A 3. melléklet 3.2.4.0700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^272]: A 3. melléklet 3.2.4.0800. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^273]: A 3. melléklet 3.2.4.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^274]: A 3. melléklet 3.2.4.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^275]: A 3. melléklet 3.2.4.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^276]: A 3. melléklet 3.2.4.1400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^277]: A 3. melléklet 3.2.4.1500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^278]: A 3. melléklet 3.2.4.1510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^279]: A 3. melléklet 3.2.4.1600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^280]: A 3. melléklet 3.2.5.1200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^281]: A 3. melléklet 3.3.1.0400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^282]: A 3. melléklet 3.3.1.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^283]: A 3. melléklet 3.3.1.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^284]: A 3. melléklet 3.3.1.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^285]: A 3. melléklet 3.3.1.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^286]: A 3. melléklet 3.3.1.1700. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^287]: A 3. melléklet 3.3.1.1700. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^288]: A 3. melléklet 3.3.1.1700. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^289]: A 3. melléklet 3.3.1.1700. pont e) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^290]: A 3. melléklet 3.3.2.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^291]: A 3. melléklet 3.3.2.0600. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^292]: A 3. melléklet 3.3.2.0600. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^293]: A 3. melléklet 3.3.2.0600. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^294]: A 3. melléklet 3.3.2.0600. pont g) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^295]: A 3. melléklet 3.3.2.0610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^296]: A 3. melléklet 3.3.2.0700. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^297]: A 3. melléklet 3.3.2.1200. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^298]: A 3. melléklet 3.3.2.1400. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^299]: A 3. melléklet 3.3.2.1400. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^300]: A 3. melléklet 3.3.2.1400. pont d) pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^301]: A 3. melléklet 3.3.2.1900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^302]: A 3. melléklet 3.3.2.2800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^303]: A 3. melléklet 3.3.2.2900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^304]: A 3. melléklet 3.3.2.3300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^305]: A 3. melléklet 3.3.2.3900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^306]: A 3. melléklet 3.3.2.4000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^307]: A 3. melléklet 3.3.2.4200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^308]: A 3. melléklet 3.3.3.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^309]: A 3. melléklet 3.3.3.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^310]: A 3. melléklet 3.3.3.1400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^311]: A 3. melléklet 3.3.3.1500. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^312]: A 3. melléklet 3.3.3.1600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^313]: A 3. melléklet 3.3.3.1700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^314]: A 3. melléklet 3.3.3.1800. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^315]: A 3. melléklet 3.3.3.1900. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^316]: A 3. melléklet 3.3.4.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^317]: A 3. melléklet 3.3.5.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^318]: A 3. melléklet 3.3.5.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^319]: A 3. melléklet 3.3.5.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^320]: A 3. melléklet 3.3.5.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^321]: A 3. melléklet 3.3.5.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^322]: A 3. melléklet 3.3.5.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^323]: A 3. melléklet 3.3.5.1200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^324]: A 3. melléklet 3.3.5.1300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^325]: A 3. melléklet 3.3.6.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^326]: A 3. melléklet 3.3.6.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^327]: A 3. melléklet 3.3.6.0120. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^328]: A 3. melléklet 3.3.6.0130. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^329]: A 3. melléklet 3.3.6.0140. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^330]: A 3. melléklet 3.3.6.0150. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^331]: A 3. melléklet 3.3.6.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^332]: A 3. melléklet 3.3.6.0500. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^333]: A 3. melléklet 3.3.6.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^334]: A 3. melléklet 3.3.6.1000. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^335]: A 3. melléklet 3.3.6.1300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^336]: A 3. melléklet 3.3.6.1400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^337]: A 3. melléklet 3.3.6.1700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^338]: A 3. melléklet 3.3.6.2010. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be, a pontot megelőző szöveg a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^339]: A 3. melléklet 3.3.6.2100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^340]: A 3. melléklet 3.3.6.2600–3.3.6.3100. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^341]: A 3. melléklet 3.3.6.3200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^342]: A 3. melléklet 3.3.6.3300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^343]: A 3. melléklet 3.3.7.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^344]: A 3. melléklet 3.3.7.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^345]: A 3. melléklet 3.3.7.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^346]: A 3. melléklet 3.3.9.0210. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^347]: A 3. melléklet 3.3.9.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^348]: A 3. melléklet 3.4.1.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^349]: A 3. melléklet 3.4.1.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^350]: A 3. melléklet 3.4.1.1100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^351]: A 3. melléklet 3.4.1.1200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^352]: A 3. melléklet 3.4.1.1500. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^353]: A 3. melléklet 3.4.1.1610. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^354]: A 3. melléklet 3.4.1.1710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^355]: A 3. melléklet 3.4.1.2200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^356]: A 3. melléklet 3.4.1.2300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^357]: A 3. melléklet 3.4.1.2400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^358]: A 3. melléklet 3.4.2.0300. pont a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^359]: A 3. melléklet 3.4.2.1000. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^360]: A 3. melléklet 3.4.2.1400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^361]: A 3. melléklet 3.4.3.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^362]: A 3. melléklet 3.4.3.0500. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^363]: A 3. melléklet 3.4.3.0510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^364]: A 3. melléklet 3.4.3.0520. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^365]: A 3. melléklet 3.4.3.0700. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^366]: A 3. melléklet 3.4.4. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^367]: A 3. melléklet 3.4.4.0300. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^368]: A 3. melléklet 3.4.4.0300. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^369]: A 3. melléklet 3.4.4.0800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^370]: A 3. melléklet 3.4.4.1010. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^371]: A 3. melléklet 3.4.4.1400. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^372]: A 3. melléklet 3.4.5.0400. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^373]: A 3. melléklet 3.4.5.0410. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^374]: A 3. melléklet 3.4.5.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^375]: A 3. melléklet 3.4.5.0910. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^376]: A 3. melléklet 3.4.5.0920. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése iktatta be.
+[^377]: A 3. melléklet 3.4.5.1000. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^378]: A 3. melléklet 3.4.5.1600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg.
+[^379]: A 3. melléklet 3.4.5.1700. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (13) bekezdése szerint módosított szöveg, a pontot megelőző szövegrészt ugyanezen rendelet 1. § (13) bekezdése hatályon kívül helyezte.
