@@ -1,0 +1,7 @@
+35. § (1) A külképviselet finanszírozása időszakonként, forintban vagy egyéb devizában, bankszámlára való átutalással történik.
+
+(2) Ha az adott állomáshely szerinti országban nincs, vagy olyan alacsony fejlettségű bankrendszer működik, ami a biztonságos számlamozgásokat veszélyezteti, a kihelyező szerv a külképviselet finanszírozását a kihelyező szerv előzetes írásos engedélye alapján a kihelyező szerv külképviseletek igazgatása vonatkozásában üzemeltetett házipénztárából felvett készpénz diplomáciai futár – szükséges időszakonkénti – igénybevételével történő kiszállításával biztosítja.
+
+(3) A (2) bekezdésben meghatározott körülmények fennállását a kihelyező szerv közjogi szervezetszabályozó eszközben meghatározott időszakonként felülvizsgálja.
+
+(4) A külképviselet finanszírozása során a külképviselet által beszedett bevételeket a külképviselet köteles és jogosult felhasználni a működésük likviditásának fenntartására. Ha a külképviselet által beszedett bevételek összege meghaladja a belső szabályzatban meghatározott mértéken túl a kiadásainak összegét, akkor a külképviselet köteles a felhalmozott többlet-likvidpénzeszközt a kihelyező szerv Kincstárnál vezetett előirányzat-felhasználási keretszámlájára átutalni. Ha az adott állomáshely szerinti országban nincs, vagy olyan alacsony fejlettségű bankrendszer működik, ami a biztonságos számlamozgásokat veszélyezteti, akkor a külképviselet a többletpénzeszközt diplomáciai futár szükséges időszakonkénti igénybevételével a kihelyező szerv házipénztárába szállíttatja.

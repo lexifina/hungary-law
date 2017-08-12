@@ -1,0 +1,5 @@
+## 3. § A külképviseletek gazdálkodásával kapcsolatban az e rendeletben foglalt, eltérő rendelkezések hiányában az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.), valamint az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) rendelkezéseit kell alkalmazni.
+
+4. § (1) A külképviselet gazdálkodási szempontból a központi költségvetésről szóló törvény Külgazdasági és Külügyminisztérium (a továbbiakban: KKM) fejezet külképviseletek igazgatásának felügyelete, irányítása, ellenőrzése és beszámoltatása alá tartozó, szervezeti besorolása szerint KKM osztályaként funkcionáló, nem önállóan gazdálkodó szerv.
+
+(2) A külképviselet az e rendeletben foglaltak betartása mellett a részére jóváhagyott éves külképviseleti költségvetési keret, illetve a rendelkezésére bocsátott előirányzat erejéig önállóan gazdálkodik, gazdálkodási műveleteket, részfeladatokat végez el. Önállóan vállal kötelezettséget, teljesít kifizetést, beszed bevételt.

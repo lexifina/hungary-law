@@ -1,0 +1,1 @@
+## 43. § Az Áhsz. 50. § (1) bekezdése szerinti számviteli politika és annak szabályzatai a külképviseletek részére egységesen, a külképviseletek igazgatása egészére vonatkozóan kerülnek kialakításra és kiadásra.

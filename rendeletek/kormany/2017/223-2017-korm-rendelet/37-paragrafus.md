@@ -1,0 +1,5 @@
+37. § (1) A Külszoltv. 2. § 19. pontjában meghatározott válsághelyzet, illetve az állomáshely országában fellépő pénzpiaci válság, rendkívüli vagy szükséghelyzet során a feladatellátás biztosíthatósága, a munkatársak esetleges evakuálása, a konzuli feladatok ellátása érdekében a külképviselet köteles házipénztárában biztonsági pénzkészletet képezni, és azt folyamatosan euróban vagy USA dollárban rendelkezésre tartani.
+
+(2) A biztonsági pénzkészlet felhasználása a külképviselet-vezető engedélyével történhet. Felhasználás esetén a külképviselet köteles a felhasználásról a kihelyező szervet írásban tájékoztatni és a biztonsági pénzkészletet haladéktalanul visszapótolni. A biztonsági pénzkészlet összegét a külképviselet-vezető írásban határozza meg, és az összeg nagyságát időközönként a gazdasági, politikai körülmények megváltozásának függvényében felülvizsgálja, módosítja.
+
+(3) A biztonsági pénzkészlet összege a külképviselet méretétől, a kihelyezettek létszámától függően legalább ötezer, legfeljebb tízezer euró vagy USA dollár. Ennél magasabb összegű biztonsági pénzkészlet meghatározásához a kihelyező szerv gazdasági vezetőjének előzetes engedélye szükséges.
