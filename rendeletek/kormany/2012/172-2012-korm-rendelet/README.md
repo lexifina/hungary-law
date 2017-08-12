@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-172-20-
 | 2016-07-30 | 2012-172-20-22.16 | 233/2016. (VII. 29.) Korm. rendelet |
 | 2016-08-18 | 2012-172-20-22.17 | 245/2016. (VIII. 17.) Korm. rendelet |
 | 2017-08-01 | 2012-172-20-22.18 | 2016: LXXIII. törvény |
+| 2017-08-12 | 2012-172-20-22.19 | 223/2017. (VIII. 11.) Korm. rendelet |
