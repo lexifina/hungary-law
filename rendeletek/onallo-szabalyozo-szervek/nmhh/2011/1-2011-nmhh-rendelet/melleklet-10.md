@@ -1,3 +1,3 @@
-10. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^64]
+10. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^65]
 
-[^64]: A 10. számú mellékletet a 2/2016. (II. 26.) NMHH rendelet 12. § f) pontja hatályon kívül helyezte.
+[^65]: A 10. számú mellékletet a 2/2016. (II. 26.) NMHH rendelet 12. § f) pontja hatályon kívül helyezte.

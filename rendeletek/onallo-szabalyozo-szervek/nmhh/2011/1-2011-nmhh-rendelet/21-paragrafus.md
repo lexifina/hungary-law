@@ -6,6 +6,6 @@
 
 (3) A 2011. április 1. napját megelőzően pályázaton, illetve árverésen elnyert frekvenciasávok után a jogosítottak díjfizetési kötelezettségüket e rendelet 2011. április 1. napjától kezdve e rendelet 20. §-a szerint kötelesek teljesíteni.
 
-(4)[^54] A 6. § (5) bekezdését a 2013. április 15-ét követően indult eljárásokban és a megismételt eljárásokban kell alkalmazni.
+(4)[^55] A 6. § (5) bekezdését a 2013. április 15-ét követően indult eljárásokban és a megismételt eljárásokban kell alkalmazni.
 
-[^54]: A 21. § (4) bekezdését a 6/2013. (IV. 3.) NMHH rendelet 2. §-a iktatta be.
+[^55]: A 21. § (4) bekezdését a 6/2013. (IV. 3.) NMHH rendelet 2. §-a iktatta be.

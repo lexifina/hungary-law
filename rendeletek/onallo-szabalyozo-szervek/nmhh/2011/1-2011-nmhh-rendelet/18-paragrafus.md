@@ -1,3 +1,3 @@
-## Műholdas szolgálatok központi földi állomásainak frekvenciadíja[^39]
+## Műholdas szolgálatok földi állomásainak frekvenciadíja[^40]
 
-[^39]: A 18. §-t megelőző alcím cím a 2/2016. (II. 26.) NMHH rendelet 11. § 11. pontja szerint módosított szöveg.
+[^40]: A 18. §-t megelőző alcím címe a 8/2017. (VII. 28.) NMHH rendelet 2. §-a szerint módosított szöveg.

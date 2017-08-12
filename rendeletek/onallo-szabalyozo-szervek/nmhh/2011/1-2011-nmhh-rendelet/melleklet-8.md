@@ -26,7 +26,7 @@
 
 ## 2.2. A 2.1. pont alatti frekvenciahasználati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-8. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^62]
+8. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^63]
 
 ## Műholdas szolgálatok frekvenciahasználati díjai
 
@@ -46,4 +46,4 @@ A 18. §-ban felsorolt földi állomások frekvenciahasználati díjának megál
 
 b) az a) alatti frekvenciahasználati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-[^62]: A 8. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 11. § 18. pontja szerint módosított szöveg.
+[^63]: A 8. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 11. § 18. pontja szerint módosított szöveg.

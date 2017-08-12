@@ -58,18 +58,19 @@ k) polgárőr szervezet.
 
 (3a)[^10] A (3) bekezdés szerinti kedvezményre az élet mentésével, megóvásával vagy baleset megelőzésével vagy elhárításával közvetlenül kapcsolatos tevékenységet végző szervezettel kötött megállapodás alapján berendezéseket üzemeltető szervezet is jogosult. A kedvezmény érvényesítéséhez a kérelmezőnek csatolnia kell a jogosultság alapjául szolgáló megállapodást.
 
-(4) A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés p) pontja alá.
+(4)[^11] A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés l) pontja alá.
 
-(5)[^11] A rendelet alapján megállapított frekvenciadíj 50%-át kell megfizetni azon sávok után, amelyekben elsődlegesen kormányzati célú szolgáltatás megvalósítását támogató rádiótávközlő rendszer – amely igazoltan legalább az alapszintű kiépítettséget elérte, azaz a központi vezérlő rendszer elemei és legalább egy hozzáférési eszköz a szükséges átviteli összeköttetésekkel üzembe helyezésre került – üzemel.
+(5)[^12] A rendelet alapján megállapított frekvenciadíj 50%-át kell megfizetni azon sávok után, amelyekben elsődlegesen kormányzati célú szolgáltatás megvalósítását támogató rádiótávközlő rendszer – amely igazoltan legalább az alapszintű kiépítettséget elérte, azaz a központi vezérlő rendszer elemei és legalább egy hozzáférési eszköz a szükséges átviteli összeköttetésekkel üzembe helyezésre került – üzemel.
 
-(6)[^12] A rendelet alapján megállapított frekvenciadíj 10%-át kell megfizetni GSM-R rendszer frekvenciahasználatáért.
+(6)[^13] A rendelet alapján megállapított frekvenciadíj 10%-át kell megfizetni GSM-R rendszer frekvenciahasználatáért.
 
-(7)[^13] Az egyszerűsített rádióengedélyezési eljárásban engedélyezett állomások frekvenciahasználati díjára díjkedvezmény nem állapítható meg.
+(7)[^14] Az egyszerűsített rádióengedélyezési eljárásban engedélyezett állomások frekvenciahasználati díjára díjkedvezmény nem állapítható meg.
 
 [^7]: Az 1/C. §-t a 2/2016. (II. 26.) NMHH rendelet 2. §-a iktatta be.
 [^8]: A 2. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § (3a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (3) bekezdése iktatta be.
-[^11]: A 2. § (5) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be, szövege a 2/2016. (II. 26.) NMHH rendelet 11. § 2. pontja szerint módosított szöveg.
-[^12]: A 2. § (6) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.
-[^13]: A 2. § (7) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (4) bekezdése iktatta be.
+[^11]: A 2. § (4) bekezdése a 8/2017. (VII. 28.) NMHH rendelet 1. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § (5) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be, szövege a 2/2016. (II. 26.) NMHH rendelet 11. § 2. pontja szerint módosított szöveg.
+[^13]: A 2. § (6) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.
+[^14]: A 2. § (7) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (4) bekezdése iktatta be.

@@ -14,7 +14,7 @@ b) a nem polgári célú frekvenciagazdálkodás rendjéről, valamint a nem pol
 
 (4)–(5)[^4]
 
-[^1]: Az 1. § (1) bekezdése a 2/2016. (II. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 1. pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (4)–(5) bekezdését a 2/2016. (II. 26.) NMHH rendelet 12. § a) pontja hatályon kívül helyezte.

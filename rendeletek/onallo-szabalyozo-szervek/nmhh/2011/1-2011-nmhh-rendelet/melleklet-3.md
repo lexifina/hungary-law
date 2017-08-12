@@ -1,4 +1,4 @@
-3. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^57]
+3. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^58]
 
 Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok frekvencialekötési díjai
 
@@ -50,4 +50,4 @@ d) ha a hálózatra engedélyezett frekvenciák különböző frekvenciasávokba
 
 3. A csak vételre szolgáló csillagponti állomás ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-i közül a legnagyobbat kell figyelembe venni a frekvencialekötési díj megállapításához.
 
-[^57]: A 3. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 10. § (1) bekezdése, a 11. § 16. pontja szerint módosított szöveg.
+[^58]: A 3. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 10. § (1) bekezdése, a 11. § 16. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-17. §[^38] (1) Pont-többpont rendszer esetében a 16. § (1), (2) és (5) bekezdése szerinti díj kétszeresét kell fizetni a Budapest környezetébe eső minden csillagponti állomás után. Pont-pont rendszer esetében – ha az összeköttetés legalább egyik pontja Budapest környezetében van – az összeköttetés mindkét pontján lévő állomásra a 16. § (1)–(4) bekezdése szerinti díj kétszeresét kell fizetni.
+17. §[^39] (1) Pont-többpont rendszer esetében a 16. § (1), (2) és (5) bekezdése szerinti díj kétszeresét kell fizetni a Budapest környezetébe eső minden csillagponti állomás után. Pont-pont rendszer esetében – ha az összeköttetés legalább egyik pontja Budapest környezetében van – az összeköttetés mindkét pontján lévő állomásra a 16. § (1)–(4) bekezdése szerinti díj kétszeresét kell fizetni.
 
 (2) Közös használatú frekvencián működő állomás esetén
 
@@ -10,4 +10,4 @@ b) a 16. § (2), (3) és (5) bekezdése szerint megállapított díj 25%-át kel
 
 (4) Az egy hónapnál rövidebb időre engedélyezett rádió- és televízióhíranyag-, továbbá rádió- és televízióműsor-átviteli rendszerek állomásai után a frekvenciahasználati díj mértéke állomásonként 4000 Ft.
 
-[^38]: A 17. § a 2/2016. (II. 26.) NMHH rendelet 7. §-ával megállapított szöveg.
+[^39]: A 17. § a 2/2016. (II. 26.) NMHH rendelet 7. §-ával megállapított szöveg.
