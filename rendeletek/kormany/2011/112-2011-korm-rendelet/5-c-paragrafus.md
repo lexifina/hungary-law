@@ -1,4 +1,4 @@
-5/C. §[^17] (1) A radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló rendelet szerinti, a nukleáris üzemanyag szállításával összefüggő Nukleárisbaleset-elhárítási Intézkedési Terv jóváhagyásának ügyintézési határideje hatvan nap. Az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+5/C. §[^19] (1) A radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló rendelet szerinti, a nukleáris üzemanyag szállításával összefüggő Nukleárisbaleset-elhárítási Intézkedési Terv jóváhagyásának ügyintézési határideje hatvan nap. Az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
 (2) Az (1) bekezdésben nem szereplő, az OAH által a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló rendelet szerint lefolytatandó hatósági eljárások ügyintézési határideje kilencven nap. Az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
@@ -10,4 +10,4 @@ b) egyéb biztosítéki nyilvántartásba vételi eljárások esetében harminc 
 
 (4) Az ügyintézési határidő indokolt esetben egy alkalommal, a (3) bekezdés a) pontjában meghatározott eljárás esetében legfeljebb kilencven nappal, a (3) bekezdés b) pontjában meghatározott eljárás esetében harminc nappal meghosszabbítható.
 
-[^17]: Az 5/C. §-t a 207/2015. (VII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^19]: Az 5/C. §-t a 207/2015. (VII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be.

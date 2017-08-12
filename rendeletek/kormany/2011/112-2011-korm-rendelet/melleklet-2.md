@@ -50,7 +50,7 @@
 
 | 7.5. | Nyitott sugárforrás esetén. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi hatósági jogkörében eljáró kormányhivatal részére adandó jelentések rendszerének a meghatározása. | radioaktív anyag alkalmazása tekintetében | Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala |
 
-2. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^27]
+2. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^30]
 
 Az OAH radioaktívhulladék-tárolókhoz kapcsolódó hatósági eljárásaiban közreműködő szakhatóságok
 
@@ -84,4 +84,4 @@ Az OAH radioaktívhulladék-tárolókhoz kapcsolódó hatósági eljárásaiban 
 
 | 14. | Radioaktívhulladék-tároló létesítmény telepítése, létesítése termőföldön. | Termőföld mennyiségi védelme követelményeinek kérdésében. | telepítési engedély | fővárosi és megyei kormányhivatal ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala; több, ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal illetékességi területét érintő esetben az ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
-[^27]: A 2. mellékletet a 156/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 176. § (2) bekezdés b) pontjával megállapított szöveg.
+[^30]: A 2. mellékletet a 156/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 176. § (2) bekezdés b) pontjával megállapított szöveg.

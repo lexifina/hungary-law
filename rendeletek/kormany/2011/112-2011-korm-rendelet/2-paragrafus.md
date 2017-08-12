@@ -1,4 +1,4 @@
-2. § (1)[^13] Ha e rendelet másként nem rendelkezik, az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 15. § (2) bekezdésében meghatározott bírság összege legalább ötvenezer, de legfeljebb hárommillió forint.
+2. § (1)[^15] Ha e rendelet másként nem rendelkezik, Atv. 15. § (2) bekezdésében meghatározott bírság összege legalább ötvenezer, de legfeljebb hárommillió forint.
 
 (2) Atomerőmű engedélyesével szemben nukleáris biztonsági hatósági ügyben a bírság összege legalább ötvenezer, de legfeljebb ötvenmillió forint.
 
@@ -6,4 +6,4 @@
 
 (4) Nukleáris létesítmény engedélyesével szemben a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés szerinti biztosítékok alkalmazásáról rendelkező jogszabályokban írt kötelezettség megszegése miatt indult hatósági ügyben a bírság összege legalább ötvenezer, de legfeljebb ötmillió forint.
 
-[^13]: A 2. § (1) bekezdése a 139/2014. (IV. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 2. § (1) bekezdése a 225/2017. (VIII. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.

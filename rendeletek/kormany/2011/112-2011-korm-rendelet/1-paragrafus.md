@@ -40,9 +40,13 @@ l)[^7] gondoskodik a kiégett üzemanyagok és a radioaktív hulladékok felelő
 
 m)[^8] előkészíti a 2011/70/Euratom irányelv végrehajtásáról szóló jelentésnek a kiégett üzemanyagra vonatkozó részjelentését, valamint összeállítja a teljes jelentést,
 
-n)[^9] – az atomenergia-felügyeleti szervet felügyelő miniszter egyidejű tájékoztatása mellett – gondoskodik a kiégett üzemanyag és a radioaktív hulladék magas színvonalú biztonságos kezelése érdekét szolgáló nemzetközi szakértői értékelés megkéréséről.
+n)[^9] – az atomenergia-felügyeleti szervet felügyelő miniszter egyidejű tájékoztatása mellett – gondoskodik a kiégett üzemanyag és a radioaktív hulladék magas színvonalú biztonságos kezelése érdekét szolgáló nemzetközi szakértői értékelés megkéréséről,
 
-(2)[^10] Az (1) bekezdés f) és m) pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről az atomenergia-felügyeleti szervet felügyelő miniszter gondoskodik.
+o)[^10] koordinálja a 2014/87/Euratom irányelv szerinti, konkrét téma alapján végrehajtott szakértői felülvizsgálat nemzeti értékelését, elkészíti és közzéteszi a nemzeti jelentést, és intézkedéseket határoz meg a biztonság növelése érdekében.
+
+(2)[^11] Az (1) bekezdés f) és m) pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről az atomenergia-felügyeleti szervet felügyelő miniszter gondoskodik.
+
+(3)[^12] A nukleáris létesítmények engedélyesei, a radioaktív hulladékot és a kiégett üzemanyagot kezelő létesítmények engedélyesei információt és adatokat szolgáltatnak az OAH-nak a hatáskörébe utalt, az (1) bekezdés e) és o) pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.
 
 [^1]: Az 1. § (1) bekezdés f) pontja a 216/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés g) pontja a 216/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -53,4 +57,6 @@ n)[^9] – az atomenergia-felügyeleti szervet felügyelő miniszter egyidejű t
 [^7]: Az 1. § (1) bekezdés l) pontját a 216/2013. (VI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^8]: Az 1. § (1) bekezdés m) pontját a 216/2013. (VI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: Az 1. § (1) bekezdés n) pontját a 216/2013. (VI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^10]: Az 1. § (2) bekezdése a 216/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (1) bekezdés o) pontját a 225/2017. (VIII. 11.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: Az 1. § (2) bekezdése a 216/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 1. § (3) bekezdését a 225/2017. (VIII. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
