@@ -2,5 +2,8 @@
 
 (2)[^2] Jogszabály eltérő rendelkezésének hiányában e rendeletet megfelelően alkalmazni kell a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, a bírák jogállásáról és javadalmazásáról szóló törvény, a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatóra és munkavállalóra.
 
+(3)[^3] E rendelet hatálya nem terjed ki a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatra kihelyezettekre, valamint a Külszoltv. 2. § 15. és 16. pontjában meghatározott személyekre.
+
 [^1]: Az 1. § (1) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 17. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdését a 223/2017. (VIII. 11.) Korm. rendelet 51. §-a iktatta be.
