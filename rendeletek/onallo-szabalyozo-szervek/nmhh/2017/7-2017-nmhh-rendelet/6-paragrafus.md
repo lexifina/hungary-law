@@ -1,0 +1,1 @@
+## 5. § Nem kell e rendelet szerinti megfelelőségigazolást kiállítani azon rádióberendezésre, amely rendelkezik a NATO illetékes szervének vagy más NATO-tagállamnak a rádióberendezés alapvető követelményeknek való megfelelőségét megállapítani jogosult szervezete által kiállított igazolással.
