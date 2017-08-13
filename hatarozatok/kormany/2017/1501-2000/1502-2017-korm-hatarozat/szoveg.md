@@ -104,4 +104,6 @@ Határidő: folyamatos
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az országos múzeumok látogatásáról szóló 1160/2002. (IX. 26.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
