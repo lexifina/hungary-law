@@ -1,8 +1,4 @@
-## 10. § Az elektromágneses összeférhetőségről szóló 8/2016. (XII. 6.) NMHH rendelet 1. § (3) bekezdése a következő f) ponttal egészül ki:
-
-## (A rendelet hatálya nem terjed ki)
-
-## „f) a nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezésekről szóló NMHH rendelet által szabályozott rádióberendezésre.”
+## 7–10. §[^1]
 
 1. melléklet a 7/2017. (VII. 28.) NMHH rendelethez
 
@@ -23,3 +19,5 @@
 (a kiállítás helye és dátuma):
 
 (név, beosztás) (aláírás):
+
+[^1]: A 7–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
