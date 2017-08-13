@@ -1,17 +1,14 @@
-## 12. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 5. melléklete az 1. melléklet szerint módosul.
+## 2–12. §[^2]
 
 ## 13. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1. 53. § (1) bekezdés a) pontjában a „százezer” szövegrész helyébe a „kétszázezer” szöveg,
+1–4.[^3]
 
-2. 56. § (1) bekezdésében az „évek szabad előirányzatait terhelő rész lekötéséről” szövegrész helyébe az „éveket terhelő rész nyilvántartásba vételéről” szöveg,
+5–6.[^4]
 
-3. 56. § (5) bekezdésében az „esetén a teljesített” szövegrész helyébe az „esetén legkésőbb a teljesített” szöveg,
+7.[^5]
 
-4. 102. § (1) bekezdésében az „és a foglalkoztatási” szövegrész helyébe az „és a támogató döntése alapján a foglalkoztatási” szöveg,
-
-5–6.[^2]
-
-7. 6. mellékletében foglalt táblázat A:22 és D:22 mezőjében a „18/A. §” szövegrész helyébe a „14/A. §” szöveg
-
-[^2]: A 13. § a 5–6. pontja a 15. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^2]: A 2–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 13. § 1–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 13. § a 5–6. pontja a 15. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^5]: A 13. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
