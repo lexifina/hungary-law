@@ -1,0 +1,1 @@
+A Kormány támogatja az Országos Intermodális Konténerterminál Hálózat (a továbbiakban: OIKH) létrehozását, amelynek elemei a Zalaegerszeg, Békéscsaba, záhonyi átrakodó körzet és Paks helyszíneken megvalósuló fejlesztések (a továbbiakban: OIKH projektek), és ennek érdekében
