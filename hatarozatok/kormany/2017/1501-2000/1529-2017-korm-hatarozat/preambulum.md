@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Miskolc Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1315/2015. (V. 21.) Korm. határozat 2. pontja végrehajtása érdekében
