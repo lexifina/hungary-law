@@ -80,7 +80,7 @@
 
 ## Határidő: 2017. március 31.
 
-1. melléklet az 1862/2016. (XII. 27.) Korm. határozathoz
+1. melléklet az 1862/2016. (XII. 27.) Korm. határozathoz[^1]
 
 A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és hazai források bevonásával megvalósuló fejlesztések
 
@@ -108,7 +108,7 @@ A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és
 
 | 11. | Belvárosi középkori várnegyed fejlesztése | 7,345 | hazai forrás |
 
-| 12. | Lőverek program (Modern Városok Program) | Fedett uszoda építése | 5,5 | hazai forrás |
+| 12. | Lőverek program (Modern Városok Program) | Fedett uszoda építése | 6,3 | hazai forrás |
 
 | 13. | Strandmedece megújítása | 0,3 | hazai forrás |
 
@@ -127,3 +127,5 @@ A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és
 | 20. | A Fertő tó alapinfrastruktúrájának fejlesztése, vízminőség javítása | 5,28 | hazai forrás |
 
 | 21. | Vendégfogadás és szállásadás infrastruktúrájának megteremtése a Fertő tónál | 10,05 | hazai forrás |
+
+[^1]: Az 1. melléklet az 1527/2017. (VIII. 14.) Korm. határozat 3. pontja szerint módosított szöveg.
