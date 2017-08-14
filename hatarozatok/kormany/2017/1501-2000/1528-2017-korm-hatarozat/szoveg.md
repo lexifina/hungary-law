@@ -1,0 +1,1 @@
+A Kormány – a Magyarország Kormánya és Nyíregyháza Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1955/2015. (XII. 17.) Korm. határozat 7. pontjától eltérően – egyetért azzal, hogy 2019. május 31-ig kerüljön megépítésre a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum.
