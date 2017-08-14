@@ -1,0 +1,325 @@
+# A Kormány 1522/2017. (VIII. 14.) Korm. határozata
+
+Magyar Közlöny 2017. évi 129. szám, 2017. augusztus 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d34d8cf66f40bde0d2bcef7cc5f4308b8f18e458/dokumentumok/a3fb6ddf349b6e3dc8ef6f6aa53909ca91e83038/letoltes)
+
+---
+
+A Kormány 1522/2017. (VIII. 14.) Korm. határozata
+a Debrecen, Hajdúszoboszló, Hortobágy és Tisza-tó kiemelt turisztikai fejlesztési térség meghatározásáról
+és a térségben megvalósítandó egyes beruházásokról
+A Kormány
+1. elfogadja a Debrecen, Hajdúszoboszló, Hortobágy és Tisza-tó kiemelt turisztikai fejlesztési térség 2017–2030
+időszakra szóló stratégiai fejlesztési programját (a továbbiakban: fejlesztési program);
+2. a rendelkezésre álló forrás mértékéig egyetért Debrecen, Hajdúszoboszló, Hortobágy és Tisza-tó kiemelt turisztikai
+fejlesztési térség tekintetében a 2. mellékletben meghatározott fejlesztések megvalósításának szükségességével;
+3. felhívja a nemzeti fejlesztési minisztert, hogy tegyen javaslatot a Kormány részére a Debrecen, Hajdúszoboszló,
+Hortobágy és Tisza-tó kiemelt turisztikai fejlesztési térség területének megállapításához szükséges jogszabály-
+módosításra az 1. mellékletben foglaltak figyelembevételével;
+Felelős: nemzeti fejlesztési miniszter
+Határidő: azonnal
+4. felhívja a nemzeti fejlesztési minisztert, hogy – a belügyminiszterrel együttműködve –
+a) a 2. mellékletében meghatározott fejlesztésekhez szükséges vízügyi engedélyezési feltételeket vizsgálja meg,
+és gondoskodjon arról, hogy azok a vízügyi jogszabályokban meghatározottaknak megfelelően kerüljenek
+megvalósításra,
+
+b) vizsgálja meg a már megvalósult, illetve megvalósítani tervezett vízügyi beruházások által és a fejlesztési
+programmal érintett területek közötti esetleges átfedéseket az európai uniós támogathatósági és
+elszámolhatósági szabályokra tekintettel,
+c) kezdeményezzen rendszeres egyeztetést – az Országos Vízügyi Főigazgatóság útján – a fejlesztések
+tervezésének további fázisaiban a vagyonkezelésért felelős, illetékes vízügyi szervekkel, ha azt a fejlesztési
+programban bemutatott fejlesztések jelenlegi kidolgozottsága szükségessé teszi;
+Felelős: nemzeti fejlesztési miniszter
+belügyminiszter
+Határidő: 2017. szeptember 15.
+5. felhívja a nemzeti fejlesztési minisztert, hogy a Debrecen, Hajdúszoboszló, Hortobágy és Tisza-tó kiemelt turisztikai
+fejlesztési térség területét érintő, e határozatban foglalt, több kormányzati szerv együttműködését igénylő feladatok
+megvalósítását a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság bevonásával koordinálja;
+Felelős: nemzeti fejlesztési miniszter
+Határidő: folyamatos
+6. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság
+bevonásával 2017 második félévétől 2030 második félévéig évente készítsen jelentést a Kormány számára
+az e határozatban előírt feladatok teljesítéséről.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: első alkalommal 2017. december 31-ig
+utolsó alkalommal 2031. január 31-ig
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
+1. melléklet az 1522/2017. (VIII. 14.) Korm. határozathoz
+A Debrecen, Hajdúszoboszló, Hortobágy és Tisza-tó kiemelt turisztikai fejlesztési térséget alkotó
+települések
+1. Debrecen–Hajdúszoboszló kiemelt turisztikai fejlesztési térség
+1.1. Balmazújváros,
+1.2. Debrecen,
+1.3. Hajdúböszörmény,
+1.4. Hajdúszoboszló
+2. Hortobágy–Tisza-tó kiemelt turisztikai fejlesztési térség
+2.1. Abádszalók,
+2.2. Berekfürdő,
+2.3. Egyek,
+2.4. Hortobágy,
+2.5. Karcag,
+2.6. Kisköre,
+2.7. Kunmadaras,
+2.8. Négyes,
+2.9. Poroszló,
+2.10. Sarud,
+2.11. Tiszabábolna,
+2.12. Tiszacsege,
+2.13. Tiszaderzs,
+2.14. Tiszadorogma,
+2.15. Tiszafüred,
+2.16. Tiszaigar,
+2.17. Tiszanána,
+
+2.18. Tiszaörs,
+2.19. Tiszaszentimre,
+2.20. Tiszaszőlős,
+2.21. Tiszavalk,
+2.22. Tomajmonostora,
+2.23. Újlőrincfalva
+2. melléklet az 1522/2017. (VIII. 14.) Korm. határozathoz
+1. Debrecen, Hajdúszoboszló
+A B C D E F
+1. Térség Helyszín Fejlesztés típusa Fejlesztés témája
+Támogatási igény
+(Mrd Ft)
+Forrás
+2.
+Debrecen–
+Hajdúszoboszló
+Debrecen
+Nagyerdő komplex
+turisztikai fejlesztése
+Turisztikai Központ –
+Ötholdas Pagony
+1,00 GINOP-7.1.9
+3.
+Nagyerdei
+tréningpálya-rendszer
+0,30 Hazai
+4.
+„Debi”- Közösségi
+Bringaprogram
+0,10 Hazai
+5.
+Adrenalin-kötélpálya
+kialakítása a Nagyerdei
+Víztoronynál
+0,10 Hazai
+6.
+Aquaticum Mediterrán
+Élményfürdő
+szolgáltatásbővítése
+1,50 Hazai
+7.
+Interaktív Vizes
+Gyermekközpont
+0,40 Hazai
+8.
+Nagyerdei Szabadtéri
+Színpad fejlesztése
+1,00 Hazai
+9.
+A debreceni állatkert
+fejlesztése (II. ütem)
+4,80 Hazai
+10.
+A debreceni vidámpark
+fejlesztése
+3,61 Hazai
+11.
+Varázserdő – Debrecen
+Nagyerdő
+1,50 Hazai
+12.
+Debrecen turisztikai
+attraktivitásának
+fejlesztése
+Panorámalift és
+Visitdebrecen Kávézó
+2,00 Hazai
+13.
+Vojtina Bábmúzeum
+létrehozása
+0,15 Hazai
+14.
+4 évszakos
+városközpont
+1,50 Hazai
+15.
+Egészségturisztikai
+fejlesztés
+Kerekestelepi
+fürdőfejlesztés
+0,64 Hazai
+
+A B C D E F
+1. Térség Helyszín Fejlesztés típusa Fejlesztés témája
+Támogatási igény
+(Mrd Ft)
+Forrás
+16.
+Debrecen–
+Hajdúszoboszló
+Hajdúszoboszló
+Hajdúszoboszló
+turisztikai
+attraktivitásának
+fejlesztése
+Vonzó városkép,
+promenád kialakítása
+1,50 Hazai
+17.
+Hajdúszoboszló
+gyógyparkjának
+megújítása
+1,00 GINOP-7.1.9
+18.
+Hajdúszoboszló
+Egészségturisztikai
+fejlesztés
+Strandfürdő minőségi
+kínálatbővítése új,
+egyedi élményövezet
+kialakításával
+1,50 Hazai
+19.
+Négy évszakos aktív
+élményközpontú
+attrakció fejlesztése
+1,00 Hazai
+20.
+Debrecen–Hajdúszoboszló kiemelt turisztikai térség MTÜ által támogatott
+fejlesztései összesen
+23,60
+2. Hortobágy, Tisza-tó
+A B C D E F
+1. Térség Helyszín Fejlesztés típusa Fejlesztés témája
+Támogatási igény
+(Mrd Ft)
+Forrás
+2. Berekfürdő
+Egészségturisztikai
+fejlesztés
+„Berek Világ – Vízi Világ”
+Berekfürdő komplex
+turisztikai fejlesztése
+1,50 Hazai
+3. Hortobágy
+Világörökségi
+helyszín fejlesztése
+Világörökségünk a Puszta 3,00 Hazai
+4. Karcag
+Karcag turisztikai
+attraktivitásának
+fejlesztése
+„Karcag Kincse”turisztikai
+keresletélénkítő fejlesztés
+1,00 Hazai
+5. Poroszló Attrakciófejlesztés Varsa - Mint A Vakond 0,20 Hazai
+6. Hortobágy–
+Tisza-tó
+Abádszalók,
+Ároktő, Egyek,
+Kisköre,
+Négyes, Pély,
+Poroszló,
+Pusztataksony,
+Sarud,
+Tiszabábolna,
+Tiszabő,
+Tiszacsege,
+Tiszaderzs,
+Tiszadorogma,
+Tiszafüred,
+Tiszagyenda,
+Tiszanána,
+Tiszaroff,
+Tiszaszőlős,
+Tiszavalk,
+Újlőrincfalva
+Aktív turizmus
+fejlesztése
+Tisza-tavi síkvidéki
+kerékpározás
+infrastrukturális és
+szolgáltatási fejlesztése
+1,50 Hazai
+
+7.
+Poroszló,
+Tiszafüred,
+Sarud
+Aktív turizmus
+fejlesztése
+Tematikus szigetek
+fejlesztése a Tisza-tónál
+0,50 Hazai
+8.
+Tiszafüred,
+Hortobágy,
+Egyek
+Aktív turizmus
+fejlesztése
+Hortobágy–Tisza-tó Élmény
+Kerékpárút
+0,98 Hazai
+9.
+Abádszalók,
+Kisköre,
+Poroszló,
+Sarud,
+Tiszabábolna,
+Tiszafüred,
+Tiszanána
+Szabadvízi
+strandok
+fejlesztése
+A Tisza-tavi szabadvízi
+strandok egységes,
+a komfortérzetet növelő,
+az élményígéretet fokozó
+és a környezettudatosságot
+erősítő fejlesztése
+0,70 Hazai
+10.
+Hortobágy–Tisza-tó kiemelt turisztikai térség MTÜ által támogatott fejlesztései
+összesen
+9,38
+3. Kiemelt térségi szintű fejlesztések
+A B C D E F
+1. Térség Helyszín Fejlesztés típusa Fejlesztés témája
+Támogatási igény
+(Mrd Ft)
+Forrás
+2.
+Debrecen,
+Hajdúszoboszló,
+Hortobágy és
+Tisza-tó kiemelt
+térség
+–
+Turisztikailag
+frekventált térségek
+integrált termék- és
+szolgáltatásfejlesztése
+Gasztronómiai
+és borturisztikai
+mesterközpont
+kialakítása
+0,50 Hazai
+3.
+Termék
+összekapcsolás
+1,00 Hazai
+4.
+Tisza-tó
+horgászturisztikai
+fejlesztése
+0,33 Hazai
+5. E-mobilitás élénkítése 1,00 Hazai
+6. MTÜ által támogatott kiemelt térségi szintű fejlesztések összesen 2,83
+7.
+Debrecen, Hajdúszoboszló, Hortobágy és Tisza-tó kiemelt térség MTÜ által
+támogatott fejlesztései összesen
+35,81
