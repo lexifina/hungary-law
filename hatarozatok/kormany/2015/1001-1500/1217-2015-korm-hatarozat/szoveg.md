@@ -14,7 +14,7 @@ Határidő: az a) alpont szerinti gyorsforgalmi út, elkerülő út megvalósít
 
 a b) alpont tekintetében azonnal
 
-2. felhívja a Miniszterelnökséget vezető minisztert, hogy intézkedjen a hazánkban egyedülálló módon megmaradt soproni történelmi belváros, középkori várnegyed
+2.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy intézkedjen a hazánkban egyedülálló módon megmaradt soproni történelmi belváros, középkori várnegyed
 
 a) műemléki felújításáról és bemutatásáról, kiemelt figyelemmel a Lenck-villa, a Russ-villa, a Zichy–Meskó palota, az Esterházy-palota, a Szent Mihály templom, valamint az Új utca 11. és Új utca 22–24. szám alatti álló zsinagógák épületeire,
 
@@ -26,7 +26,7 @@ d) a) alpontban nevesített villái és palotái kertjének megújításáról;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: 2017. december 31.
+Határidő: 2019. december 31.
 
 3. felhívja a nemzetgazdasági minisztert, hogy európai uniós források bevonásával intézkedjen a világörökség részét képező Fertő tó és környezete hatékonyabb turisztikai kihasználását biztosító rehabilitációjáról, valamint infrastrukturális fejlesztéséről;
 
@@ -55,3 +55,5 @@ nemzetgazdasági miniszter
 külgazdasági és külügyminiszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont az 1527/2017. (VIII. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
