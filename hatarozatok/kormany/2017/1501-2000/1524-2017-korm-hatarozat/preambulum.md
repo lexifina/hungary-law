@@ -1,0 +1,1 @@
+A Kormány az Abasár település ivóvízellátását biztosító ivóvízbázis szervesoldószer-szennyezettségének felszámolása érdekében
