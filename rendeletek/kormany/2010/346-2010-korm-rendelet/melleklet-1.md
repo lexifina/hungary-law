@@ -1,3 +1,3 @@
-1. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^125]
+1. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^129]
 
-[^125]: Az 1. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^129]: Az 1. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.

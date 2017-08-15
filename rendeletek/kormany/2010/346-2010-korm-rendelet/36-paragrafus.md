@@ -1,6 +1,6 @@
-## 35. §[^121] E kormányrendelet 16. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi EU irányelv szerinti előzetes bejelentése megtörtént.
+## 35. §[^125] E kormányrendelet 16. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi EU irányelv szerinti előzetes bejelentése megtörtént.
 
-36–39. §[^122]
+36–39. §[^126]
 
-[^121]: A 35. §-t a 40. § (2) bekezdése hatályon kívül helyezte, újonnan a 188/2016. (VII. 13.) Korm. rendelet 13. §-a iktatta be.
-[^122]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
+[^125]: A 35. §-t a 40. § (2) bekezdése hatályon kívül helyezte, újonnan a 188/2016. (VII. 13.) Korm. rendelet 13. §-a iktatta be.
+[^126]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.

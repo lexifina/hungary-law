@@ -4,13 +4,13 @@
 
 ## b) A katonai nemzetbiztonsági műveleti hálózat esetében a Katonai Nemzetbiztonsági Szolgálat.
 
-## c)[^127] A honvédelemért felelős miniszter által működtetett Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat.
+## c)[^131] A honvédelemért felelős miniszter által működtetett Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat.
 
-## d)[^128] A terrorizmust elhárító szerv (Terrorelhárítási Központ) által használt elektronikus hírközlő hálózat esetében a rendészetért felelős miniszter.
+## d)[^132] A terrorizmust elhárító szerv (Terrorelhárítási Központ) által használt elektronikus hírközlő hálózat esetében a rendészetért felelős miniszter.
 
-## e)[^129] A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külpolitikáért felelős miniszter.
+## e)[^133] A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külpolitikáért felelős miniszter.
 
-3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^130]
+3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^134]
 
 ## EDR VPN gazda szervezetek és EDR felhasználók
 
@@ -120,7 +120,7 @@ II. Egyedi finanszírozásúak
 
 | 2.2. Létfontosságú rendszerelemmé kijelölt eszköz, létesítmény vagy rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja, vagy ilyen rendszerelem napi működéséért felelős jogi személy, vagy jogi személyiség nélküli szervezet, valamint felső küszöb értékű veszélyes anyagokkal foglalkozó üzemek. | X |
 
-[^127]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
-[^128]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
-[^129]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^130]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^131]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
+[^132]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
+[^133]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
+[^134]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a szerint módosított szöveg.

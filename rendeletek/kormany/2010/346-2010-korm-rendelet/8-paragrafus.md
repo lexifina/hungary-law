@@ -24,12 +24,12 @@ e) az országos belföldi tudakozó szolgáltatás nyújtásához szükséges ad
 
 (4) A kormányzati célú hírközlési szolgáltatást egyéni előfizetőként nem lehet igénybe venni.
 
-(5)[^37] A kormányzati célú hírközlési szolgáltató a közvetlen finanszírozású szolgáltatások díjának mértékét a 6. § (1) bekezdés a) pontja szerinti értelemben vett működtetés – tőkeköltség és a pótlólagos beruházásokat is magában foglaló – ráfordításai alapján határozza meg. A közvetlen finanszírozású szolgáltatások díja a ráfordítások megtérülését tartalmazhatja. Az e követelménynek megfelelő költségszámítás részletes módját (költségszámítási modellt) a közszolgáltatási szerződés tartalmazza.
+(5)[^38] A kormányzati célú hírközlési szolgáltató a közvetlen finanszírozású szolgáltatások díjának mértékét a 6. § (1) bekezdés a) pontja szerinti értelemben vett működtetés – tőkeköltség és a pótlólagos beruházásokat is magában foglaló – ráfordításai alapján határozza meg. A közvetlen finanszírozású szolgáltatások díja a ráfordítások megtérülését tartalmazhatja. Az e követelménynek megfelelő költségszámítás részletes módját (költségszámítási modellt) a közszolgáltatási szerződés tartalmazza.
 
-(6)[^38] A csatlakozásra jogosult felhasználók esetében a szolgáltatások díja ésszerű nyereséghányadot tartalmazhat.
+(6)[^39] A csatlakozásra jogosult felhasználók esetében a szolgáltatások díja ésszerű nyereséghányadot tartalmazhat.
 
-(7)[^39] A (6) bekezdésben rögzített ésszerű nyereség mértéke a kormányzati célú hírközlési szolgáltató üzemi eredményének és rendkívüli eredményének összege (EBIT) és az értékesítés nettó árbevétele arányában kerül meghatározásra, amely nem haladhatja meg a tárgyév első munkanapján érvényes éves Budapesti Bankközi Forint Hitelkamatláb (BUBOR) 100 bázisponttal növelt értékét.
+(7)[^40] A (6) bekezdésben rögzített ésszerű nyereség mértéke a kormányzati célú hírközlési szolgáltató üzemi eredményének és rendkívüli eredményének összege (EBIT) és az értékesítés nettó árbevétele arányában kerül meghatározásra, amely nem haladhatja meg a tárgyév első munkanapján érvényes éves Budapesti Bankközi Forint Hitelkamatláb (BUBOR) 100 bázisponttal növelt értékét.
 
-[^37]: A 8. § (5) bekezdése a 169/2013. (V. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^38]: A 8. § (6) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^39]: A 8. § (7) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^38]: A 8. § (5) bekezdése a 169/2013. (V. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^39]: A 8. § (6) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^40]: A 8. § (7) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.

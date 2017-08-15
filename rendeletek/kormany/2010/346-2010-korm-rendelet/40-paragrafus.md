@@ -1,6 +1,6 @@
-40. § (1)[^123]
+40. § (1)[^127]
 
-(2)[^124]
+(2)[^128]
 
-[^123]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
-[^124]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^127]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^128]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
