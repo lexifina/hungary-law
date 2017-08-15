@@ -1,5 +1,3 @@
-## 53. § Kapacitásnövelés esetén, amennyiben a felhasználó a megnövekedett kapacitásigény miatt a továbbiakban egyetemes szolgáltatásra nem jogosultként vételez, a felhasználó kapacitásnövelési díjat, valamint az új kategóriának megfelelően számított csatlakozási díj és az eredetileg megfizetett csatlakozási díj különbözetét fizeti meg.
-
 ## III. Fejezet
 
 ## A CSATLAKOZÁSI DÍJAK ALKALMAZÁSI SZABÁLYAI SZÁLLÍTÓVEZETÉKHEZ TÖRTÉNŐ CSATLAKOZÁS ESETÉN
