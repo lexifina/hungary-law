@@ -1,0 +1,1 @@
+A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (5) bekezdés b) és e) pontjában kapott felhatalmazás alapján, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 110. § g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
