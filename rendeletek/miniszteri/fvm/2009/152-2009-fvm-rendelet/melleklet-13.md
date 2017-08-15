@@ -6,7 +6,7 @@
 
 ## I.
 
-## 1. Ez az előírás a III. fejezet 3. pontja szerinti húskészítményekre és a III. fejezet 4. pontja szerinti előkészített húsokra vonatkozik.
+## 1. Ez az előírás a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 7.1. pontja szerinti húskészítményekre és a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.15. pontja szerinti előkészített húsokra vonatkozik.
 
 ## 2. Az előírásban meghatározott húskészítmény és előkészített hús megnevezések a Magyarországon forgalomba hozott termékek esetében csak akkor használhatók, ha megfelelnek az előírásban meghatározott követelményeknek.
 

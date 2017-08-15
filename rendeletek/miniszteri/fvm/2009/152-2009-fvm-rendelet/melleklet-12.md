@@ -366,4 +366,4 @@
 
 12. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^68]
 
-[^68]: A 12. melléklet a 48/2016. (VII. 18.) FM rendelet 3. §-ával megállapított szöveg.
+[^68]: A 12. melléklet a 48/2016. (VII. 18.) FM rendelet 3. §-ával megállapított, a 41/2017. (VIII. 14.) FM rendelet 1. §-a szerint módosított szöveg.
