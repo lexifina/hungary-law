@@ -1,4 +1,4 @@
-2. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^40]
+2. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^43]
 
 Kérelem állami támogatás nyújtására
 
@@ -48,4 +48,4 @@ __________________________
 
 2 Amennyiben a közvetett kedvezményezett több mint 25%-ban önkormányzati, állami tulajdonban van, az nagyvállalatnak minősül.
 
-[^40]: A 2. mellékletet a 390/2016. (XII. 5) Korm. rendelet 10. §-a iktatta be.
+[^43]: A 2. mellékletet a 390/2016. (XII. 5) Korm. rendelet 10. §-a iktatta be.

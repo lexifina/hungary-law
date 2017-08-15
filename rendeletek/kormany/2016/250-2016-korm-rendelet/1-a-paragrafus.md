@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya a Kormány és a megyei jogú város önkormányzata között, a megyei jogú város további fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak (a továbbiakban: Modern Városok Program) végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásokra (a továbbiakban: MVP támogatás), azok felhasználására, kezelésére és működtetésére terjed ki.
+## 1. §[^1] E rendelet hatálya a Kormány és a megyei jogú város önkormányzata között, a megyei jogú város további fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak (a továbbiakban: Modern Városok Program) végrehajtását szolgáló, a Miniszterelnökség fejezetében e célra megállapított költségvetési előirányzatot terhelő forrásigényekre terjed ki azzal, hogy e rendeletnek az előirányzat felhasználására, kezelésére és működtetésére vonatkozó rendelkezései kizárólag az előirányzat terhére a Miniszterelnökség által nyújtott költségvetési támogatásokra (a továbbiakban: MVP támogatás) alkalmazandóak.
 
 ## 1/A. §[^2] E rendelet alkalmazásában:
 
@@ -90,5 +90,5 @@
 
 44. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
 
-[^1]: Az 1. § a 390/2016. (XII. 5) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 231/2017. (VIII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1/A. §-t a 390/2016. (XII. 5) Korm. rendelet 1. §-a iktatta be.
