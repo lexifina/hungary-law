@@ -1,0 +1,1 @@
+## 2. § Hatályát veszti a magyar ebfajták körének megállapításáról és genetikai fenntartásuk rendjéről szóló 62/2016. (IX. 16.) FM rendelet [a továbbiakban: 62/2016. (IX. 16.) FM rendelet] 6. § (2) bekezdése.
