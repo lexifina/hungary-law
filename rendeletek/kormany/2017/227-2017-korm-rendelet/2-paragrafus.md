@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Délkelet-ázsiai Nemzetek Szövetsége közötti oktatási együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
