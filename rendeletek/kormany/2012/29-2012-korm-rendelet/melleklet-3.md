@@ -196,15 +196,15 @@ Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű műszaki vagy közgazdasági felsőoktatásban szerzett szakképzettség.
 
-22.[^41] Ásványvagyon gazdálkodási és földtani hatósági, bányászati hatósági, műszaki felügyeleti feladatkör
+22.[^41] Ásványvagyon-gazdálkodási és földtani hatósági, bányászati hatósági, műszaki felügyeleti feladatkör
 
 Az I. besorolási osztályban:
 
-egyetemi vagy főiskolai szintű műszaki mérnök szakképzettség; egyetemi szintű jogász, geológus, geofizikus, matematikus vagy közgazdasági felsőoktatásban szerzett szakképzettség.
+jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági, műszaki, természettudományi, társadalomtudományi felsőoktatásban, valamint gazdaságtudományok, műszaki, természettudomány, társadalomtudomány képzési területen felsőfokú végzettségi szinten szerzett szakképzettség.
 
 A II. besorolási osztályban:
 
-műszaki, közgazdasági szakközépiskolai végzettség, technikusi képesítés vagy érettségi végzettség és az OKJ szerint: bányászati technikus, geológus-geofizikus technikus szakképesítés.
+érettségi végzettség, műszaki, közgazdasági szakközépiskolai végzettség vagy technikusi képesítés.
 
 23.[^42] Belföldi és nemzetközi piacvédelmi jogi és hatósági feladatkör
 
@@ -806,15 +806,15 @@ Az I. besorolási osztályban:
 
 jogász szakképzettség és jogi szakvizsga.
 
-73.[^94] Közlekedési ágazat irányítási igazgatási, (hatósági, szakhatósági, felügyeleti) feladatkör
+73.[^94] Közlekedési ágazat irányítási, igazgatási (hatósági, szakhatósági, felügyeleti) feladatkör
 
 Az I. besorolási osztályban:
 
-egyetemi vagy főiskolai szintű műszaki vagy közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi szintű jogász, bölcsészettudományi vagy természettudományi felsőoktatásban szerzett szakképzettség.
+egyetemi vagy főiskolai szintű műszaki vagy közgazdasági felsőoktatásban szerzett szakképzettség; jogász szakképzettség; bölcsészettudományi, természettudományi, informatikai vagy államtudományi felsőoktatásban szerzett szakképzettség.
 
 A II. besorolási osztályban:
 
-a közigazgatási szerv alaptevékenységének megfelelő érettségi végzettség vagy érettségi végzettség és az OKJ szerint: az alaptevékenységhez kapcsolódó középfokú szakképesítés.
+informatikai szakközépiskolai végzettség; mezőgazdasági gépszerelő szakközépiskolai végzettség; a közigazgatási szerv alaptevékenységének megfelelő érettségi végzettség vagy érettségi végzettség és az OKJ szerint: az alaptevékenységhez kapcsolódó középfokú szakképesítés.
 
 74.[^95] Közoktatási és szakképzési igazgatási feladatok
 
@@ -1504,6 +1504,22 @@ A II. besorolási osztályban:
 
 érettségi végzettség és egészségügyi szakterületen szerzett OKJ-s szakképesítés; egészségügyi szakközépiskolai oktatásban szerzett érettségi végzettség.
 
+152.[^163] Földtani, geofizikai, környezettudományi, valamint klímapolitikai alap- és alkalmazott kutatási, térinformatikai feladatkör
+
+Az I. besorolási osztályban:
+
+egyetemi vagy főiskolai szintű agrár, műszaki, természettudományi, társadalomtudományi felsőoktatásban, valamint agrár, műszaki, természettudomány, társadalomtudomány képzési területen felsőfokú végzettségi szinten szerzett szakképzettség.
+
+A II. besorolási osztályban:
+
+érettségi végzettség, műszaki, közgazdasági szakközépiskolai végzettség vagy technikusi képesítés.
+
+153.[^164] Hulladékgazdálkodás ellenőrzésével kapcsolatos feladatkör
+
+Az I. besorolási osztályban:
+
+jogász szakképzettség; egyetemi vagy főiskolai szintű környezetmérnöki, agrármérnöki szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és okleveles könyvvizsgáló, mérlegképes könyvelő, okleveles pénzügyi revizor, felsőfokú pénzügyi, számviteli szakképesítés.
+
 [^23]: A 3. melléklet 1. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^24]: A 3. melléklet 2. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^25]: A 3. melléklet 3. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
@@ -1522,7 +1538,7 @@ A II. besorolási osztályban:
 [^38]: A 3. melléklet 16. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^39]: A 3. melléklet 18. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^40]: A 3. melléklet 20. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^41]: A 3. melléklet 22. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^41]: A 3. melléklet 22. pontja a 230/2017. (VIII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^42]: A 3. melléklet 23. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^43]: A 3. melléklet 25. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^44]: A 3. melléklet 26. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
@@ -1575,7 +1591,7 @@ A II. besorolási osztályban:
 [^91]: A 3. melléklet 69. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^92]: A 3. melléklet 70. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 94/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
 [^93]: A 3. melléklet 71. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^94]: A 3. melléklet 73. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^94]: A 3. melléklet 73. pontja a 230/2017. (VIII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^95]: A 3. melléklet 74. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^96]: A 3. melléklet 75. pontja a 440/2016. (XII. 16.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^97]: A 3. melléklet 76. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
@@ -1644,3 +1660,5 @@ A II. besorolási osztályban:
 [^160]: A 3. melléklet 149. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^161]: A 3. melléklet 150. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^162]: A 3. melléklet 151. pontját az 58/2016. (III. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^163]: A 3. melléklet 152. pontját a 230/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^164]: A 3. melléklet 153. pontját a 230/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
