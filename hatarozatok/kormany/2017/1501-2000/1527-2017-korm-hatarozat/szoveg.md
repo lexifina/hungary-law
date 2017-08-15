@@ -36,6 +36,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. október 15.
 
-2. A Magyarország Kormánya és Sopron Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1217/2015. (IV. 17.) Korm. határozat 2. pontjában a „2017. december 31.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+2–3.[^1]
 
-3. A Sopron–Fertő kiemelt turisztikai fejlesztési térség meghatározásáról és a térségben megvalósítandó egyes fejlesztések megvalósításához szükséges források biztosításáról szóló 1862/2016. (XII. 27.) Korm. határozat 1. melléklet 12. sorában az „5,5” szövegrész helyébe a „6,3” szöveg lép.
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
