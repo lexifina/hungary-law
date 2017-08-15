@@ -36,4 +36,6 @@ Határidő: első alkalommal 2018. szeptember 30-ig,
 
 ezt követően minden évben március 15-ig
 
-7. visszavonja az Iparművészeti Múzeum nagyrekonstrukciójáról és múzeumszakmai fejlesztéséről (2016–2019) szóló 1351/2016. (VII. 6.) Korm. határozatot.
+7.[^2]
+
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
