@@ -34,33 +34,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:243 mezőjében a „2,97” szövegrész helyébe a „3,99” szöveg,
-
-## b) E:243 mezőjében a „0,16” szövegrész helyébe a „0,21” szöveg,
-
-## c) D:251 mezőjében az „1,95” szövegrész helyébe a „4,49” szöveg,
-
-## d) E:251 mezőjében a „0,11” szövegrész helyébe a „0,24” szöveg,
-
-## e) D:274 mezőjében a „2,77” szövegrész helyébe a „4,24” szöveg,
-
-## f) E:274 mezőjében a „0,31” szövegrész helyébe a „0,48” szöveg,
-
-## g) D:299 mezőjében a „2,57” szövegrész helyébe az „5,61” szöveg,
-
-## h) E:299 mezőjében a „0,36” szövegrész helyébe a „0,80” szöveg,
-
-## i) D:304 mezőjében a „3,78” szövegrész helyébe az „5,43” szöveg,
-
-## j) E:304 mezőjében a „0,41” szövegrész helyébe a „0,56” szöveg,
-
-## k) D:324 mezőjében az „1,40” szövegrész helyébe a „2,50” szöveg,
-
-## l) E:324 mezőjében a „0,15” szövegrész helyébe a „0,21” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1537/2017. (VIII. 14.) Korm. határozathoz
 
@@ -89,3 +63,5 @@
 | 2. | Környezet és Energia Operatív Programból finanszírozott támogatás (Ft) | Környezeti és Energiahatékonysági Operatív Programból finanszírozott támogatás (Ft) | Önerő (nettó, Ft) | Környezeti és Energiahatékonysági Operatív Programból finanszírozott többlettámogatás legfeljebb (Ft) | Többlet önerő legfeljebb (nettó, Ft) | Környezet és Energia Operatív Programból finanszírozott támogatás (Ft) | Környezeti és Energiahatékonysági Operatív Programból finanszírozott támogatás legfeljebb (Ft) | Megnövelt önerő összege legfeljebb (nettó, Ft) |
 
 | 3. | KEHOP- 2.2.4-15- 2016- 00006 | Tuzsér és Komoró települések szennyvízközmű fejlesztése | Tuzsér-Komoró Víziközmű Beruházási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint | 1 190 369 098 | 1 397 713 322 | 114 447 678 | 1 096 669 026 | 89 797 546 | 1 190 369 098 | 2 494 382 348 | 204 245 224 | A projekt keretében Komoró községben az európai uniós irányelveknek és a hazai környezetvédelmi előírásoknak megfelelő csatornahálózat épül, megvalósul a tuzséri szennyvízátemelők rekonstrukciója, valamint a két település közös szennyvíztisztító telepének fejlesztése, sor kerül Kékcse, Szabolcsveresmart és Tiszakanyár szennyvízelvezetésének és -tisztításának megoldására. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
