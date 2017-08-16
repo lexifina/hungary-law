@@ -1,0 +1,9 @@
+## 1. §[^1]
+
+2. § (1) Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A kötelező átvételi rendszerben a KÁT termelő jogosult a Hivatal kötelező átvételi jogosultságot megállapító határozatában foglaltaknak megfelelő mennyiségű villamos energiát, a határozatban megjelölt átvételi időtartam alatt, a kérelem benyújtásának időpontjában hatályos árképzési szabályok szerint a Befogadónak átadni, a Befogadó köteles azt befogadni, valamint a KÁT termelővel a villamos energia ellenértékét a (2) bekezdésben foglaltaknak megfelelően a kötelező átvételi mérlegkörben elszámolni. A KÁT termelők a kötelező átvételi mérlegkörön belül menetrendadással kapcsolatos jogaik közös gyakorlása és kötelezettségeik közös teljesítése céljából összevont menetrendadásra vonatkozó megállapodást köthetnek a kötelező átvételi mérlegkör felelősével azzal, hogy az e rendelet és a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet (a továbbiakban: METÁR rendelet) szerinti KÁT termelők közösen is alakíthatnak csoportot. A kötelező átvételi mérlegkör felelőse a KÁT termelők kezdeményezésére köteles a megállapodást megkötni, ha a megállapodásban részes KÁT termelők maguk közül kijelölik az összevont menetrendet adó KÁT termelőt. Ha a KÁT termelők rendszerszintű szolgáltatási szerződéssel is rendelkeznek, csak akkor jogosultak összevont menetrendadásra, ha a rendszerszintű szolgáltatási és az összevont menetrendadási csoport tagjai megegyeznek. Ha egy KÁT termelő az erőműegységeit összevontan kívánja kezelni, akkor köteles a Befogadó üzletszabályzata szerinti összevont menetrendadásra vonatkozó megállapodást megkötni.”
+
+(2) Az R. 3. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+[^1]: Az 1. § a 15. § (3) bekezdése alapján 2018. július 1-jén lép hatályba.
