@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-152-00-00
 | --- | --- | --- |
 | 2016-12-16 | 2016. évi CLII. törvény | 2016-152-00-00.0 (közlönyállapot) |
 | 2016-12-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-152-00-00.1 |
+| 2017-08-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-152-00-00.2 |
