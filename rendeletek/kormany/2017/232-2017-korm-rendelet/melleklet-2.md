@@ -1,21 +1,3 @@
-## „II. Különös szabályok
-
-## A villamos energia Befogadója és a KÁT termelő között érvényesülő árak alkalmazási feltételei
-
-## 1. A KÁT termelő havonta egy számlát (havi számla) állít ki a Befogadó részére. A KÁT termelő a 9. § (1) bekezdése szerinti esetben módosító számlát állít ki a Befogadó részére a Hivatal határozatának kézhezvételét követő 15 napon belül.
-
-## 2. A havi számla a 3. § (10) és (12) bekezdésében meghatározott, a tárgyhó utolsó napján 24:00 óráig gyűjtött elszámolási villamosenergia-mennyiségek díjának összegét tartalmazza.
-
-## 3. A havi számlát a KÁT termelő a tárgyhónapot követő hónap nyolcadik munkanapjától nyújthatja be a Befogadó részére.
-
-## 4. A KÁT termelő a havi számlát telephelyenként, telephelyen belül erőműegységenként, az erőműegységen belül termelési eljárásonként megbontva köteles kiállítani.
-
-## 5. Hóközi árváltozás esetén a KÁT termelőnek az árváltozással érintett időszakoknak megfelelően megbontva kell a számlát kiállítania.
-
-## 6. A Befogadó a KÁT termelő részére havonta a tárgyhónapot követő hónap hatodik munkanapjától egy számviteli bizonylatot állít ki a szabályozási pótdíjról.
-
-## 7. Ha a 6. pont szerinti számviteli bizonylat vonatkozásában a KÁT termelő az esedékesség napjáig az ellenértéket nem fizeti meg, akkor a Befogadó a nem vitatott ellenértéket és az I. Általános szabályok 4. pontja szerinti – a számviteli bizonylat esedékességének napjától a beszámítás napjáig terjedő időszakra meghatározott – késedelmi kamatot és behajtási költségátalányt az 1. pont szerinti számla értékébe beszámítja.”
-
 2. melléklet a 232/2017. (VIII. 14.) Korm. rendelethez
 
 1. Az R. 4. számú melléklet I. pont 1. alpontja helyébe a következő rendelkezés lép:

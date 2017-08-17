@@ -1,1 +1,3 @@
-## 10. § Az R. 4. számú melléklete az 1. melléklet szerint módosul.
+## 8–10. §[^13]
+
+[^13]: A 8–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
