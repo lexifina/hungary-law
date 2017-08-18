@@ -12,15 +12,15 @@ d) hogy a termék állatjárvány sújtotta területről származik,
 
 (2) A szállítmány megsemmisítésének költségei a feladót terhelik.
 
-(3)[^23] Az (1) bekezdés szerinti esetben a rendeltetési hely szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak értesítenie kell a minisztériumot, amely haladéktalanul, elektronikus úton levélben közli a többi tagállam illetékes hatóságával és az Európai Bizottsággal a megállapításokat, a meghozott döntéseket és azok indokait.
+(3)[^23] Az (1) bekezdés szerinti esetben a rendeltetési hely szerint illetékes járási hivatalnak értesítenie kell a minisztériumot, amely haladéktalanul, elektronikus úton levélben közli a többi tagállam illetékes hatóságával és az Európai Bizottsággal a megállapításokat, a meghozott döntéseket és azok indokait.
 
 (4) Indokolt esetben a minisztérium a 9. § szerinti megelőző intézkedéseket is alkalmazhatja.
 
 (5) Ha a hatósági állatorvos a rendeltetési helyen vagy a szállítás közben végzett ellenőrzés során megállapítja, hogy a termék nem felel meg a vonatkozó külön jogszabályok előírásainak – amennyiben a fogyaszthatóság, illetve az állategészségügyi feltételek azt megengedik –, a feladó választhat a termék megsemmisítése vagy a termék más célra történő felhasználása között. A termék más célra történő felhasználása jelentheti annak a származási létesítmény helye szerinti állam illetékes hatóságának engedélyével a feladóhoz történő visszaküldését.
 
-(6)[^24] Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság valamely okirat hiányosságát állapítja meg, az (5) bekezdés szerinti intézkedés valamelyikének végrehajtása előtt a feladónak határidőt szabhat a hiányosság megszüntetésére.
+(6)[^24] Ha a megyei kormányhivatal valamely okirat hiányosságát állapítja meg, az (5) bekezdés szerinti intézkedés valamelyikének végrehajtása előtt a feladónak határidőt szabhat a hiányosság megszüntetésére.
 
 (7) Az (5) bekezdés szerinti intézkedések végrehajtásával összefüggésben felmerülő költségek a feladót terhelik.
 
-[^23]: A 7. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 33. § i) pontja szerint módosított szöveg.
-[^24]: A 7. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 33. § k) pontja szerint módosított szöveg.
+[^23]: A 7. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 65. § j) pontja szerint módosított szöveg.
+[^24]: A 7. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 65. § d) pontja szerint módosított szöveg.

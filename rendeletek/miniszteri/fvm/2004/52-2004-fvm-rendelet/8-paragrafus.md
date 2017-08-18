@@ -14,7 +14,7 @@ a) ellenőröket küld az érintett létesítménybe,
 
 b) megbíz egy olyan, az érintett felek által elfogadott hatósági állatorvost, aki a tagállamok javaslatára az Európai Bizottság által elkészítendő jegyzékben szerepel, hogy végezzen ellenőrzést az érintett létesítményben,
 
-c)[^27] felszólítja a minisztériumot, hogy az érintett létesítmény termékeiből – az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságon vagy Nemzeti Élelmiszerlánc-biztonsági Hivatalon keresztül – gyakrabban vegyen mintát,
+c)[^27] felszólítja a minisztériumot, hogy az érintett létesítmény termékeiből – a járási hivatalon vagy Nemzeti Élelmiszerlánc-biztonsági Hivatalon keresztül – gyakrabban vegyen mintát,
 
 ## akkor a felsorolt intézkedések végrehajtásával kapcsolatban az érintett létesítmény köteles együttműködni.
 
@@ -34,5 +34,5 @@ c)[^27] felszólítja a minisztériumot, hogy az érintett létesítmény termé
 
 [^25]: A 8. § (1) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 11. § d) pontja szerint módosított szöveg.
 [^26]: A 8. § (2) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 11. § d) pontja szerint módosított szöveg.
-[^27]: A 8. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 33. § l) pontja szerint módosított szöveg.
+[^27]: A 8. § (2) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 65. § k) pontja szerint módosított szöveg.
 [^28]: A 8. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 11. § d) pontja szerint módosított szöveg.
