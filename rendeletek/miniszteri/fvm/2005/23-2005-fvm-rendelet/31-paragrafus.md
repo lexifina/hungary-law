@@ -1,4 +1,4 @@
-31. § (1)[^41] Nyers tej községi zárlat területén lévő gazdaságokból községi zárlaton kívüli létesítményekbe való szállítását és az ilyen tej feldolgozását az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezi az alábbi feltételekkel:
+31. § (1)[^41] Nyers tej községi zárlat területén lévő gazdaságokból községi zárlaton kívüli létesítményekbe való szállítását és az ilyen tej feldolgozását a megyei kormányhivatal engedélyezi az alábbi feltételekkel:
 
 a) az engedélyben meg kell határozni a szállítási útvonalat és a szállítás részletes feltételeit;
 
@@ -12,4 +12,4 @@ e) a szállítást olyan eszközzel kell végezni, amelynek jelöléséből egy�
 
 (2) A községi zárlat területén lévő gazdaságokban tartott fogékony állatok nyerstej-mintáit kizárólag ragadós száj- és körömfájás diagnosztizálására engedélyezett állategészségügyi diagnosztikai laboratórium számára lehet begyűjteni, szállítani, és a mintát csak ilyen laboratóriumban lehet feldolgozni.
 
-[^41]: A 31. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.
+[^41]: A 31. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.

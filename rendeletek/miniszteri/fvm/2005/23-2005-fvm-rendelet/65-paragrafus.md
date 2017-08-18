@@ -2,11 +2,11 @@
 
 65. § (1) A 63–64. § szerint meghatározott intézkedések befejezését követő, a mentes státusz visszanyeréséig tartó időszakban (a sürgősségi vakcinázás 3. fázisa) a vakcinázási övezetben e § (2)–(5) bekezdése, valamint a 66. § (1) bekezdése szerinti intézkedéseket kell alkalmazni.
 
-(2)[^64] Fogékony állatok a vakcinázási övezetben lévő gazdaságok között csak járási főállatorvosi engedéllyel mozoghatnak.
+(2)[^66] Fogékony állatok a vakcinázási övezetben lévő gazdaságok között csak járási hivatali engedéllyel mozoghatnak.
 
-(3)[^65] Fogékony állatok nem hagyhatják el a vakcinázási övezetet. A járási főállatorvos engedélyezheti a fogékony állatok kiszállítását a vakcinázási övezetből, ha az állatokat azonnali vágásra, közvetlenül vágóhídra szállítják és megfelelnek a 60. § (3) bekezdés szerinti előírásoknak.
+(3)[^67] Fogékony állatok nem hagyhatják el a vakcinázási övezetet. A járási hivatal engedélyezheti a fogékony állatok kiszállítását a vakcinázási övezetből, ha az állatokat azonnali vágásra, közvetlenül vágóhídra szállítják és megfelelnek a 60. § (3) bekezdés szerinti előírásoknak.
 
-(4)[^66] A járási főállatorvos a (2) bekezdés szerinti engedélyt akkor adhatja ki, ha
+(4)[^68] A járási hivatal a (2) bekezdés szerinti engedélyt akkor adhatja ki, ha
 
 a) a berakodást megelőző 24 órán belül a gazdaságban lévő valamennyi fogékony állaton klinikai vizsgálatot végeztek, és azokon nem mutatkoztak a ragadós száj- és körömfájás klinikai tünetei,
 
@@ -24,11 +24,11 @@ a) a vakcinázási övezetben lévő, a származási gazdasággal megegyező ál
 
 b) vágóhíd, ahol azonnal levágják őket;
 
-c)[^67] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt gazdaság, ahonnan az utód közvetlenül vágóhídra szállítandó;
+c)[^69] a megyei kormányhivatal által kijelölt gazdaság, ahonnan az utód közvetlenül vágóhídra szállítandó;
 
 d) bármely gazdaság, ha a gazdaságból történő kiszállítás előtt vett vérmintákból a ragadós száj- és körömfájás vírusa ellen termelődött ellenanyagok kimutatásán alapuló szerológiai vizsgálat negatív eredményt adott.
 
-[^64]: A 65. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
-[^65]: A 65. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
-[^66]: A 65. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
-[^67]: A 65. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.
+[^66]: A 65. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § n) pontja szerint módosított szöveg.
+[^67]: A 65. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
+[^68]: A 65. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
+[^69]: A 65. § (5) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.

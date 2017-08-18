@@ -1,11 +1,11 @@
-13. § (1)[^16] A járási főállatorvos a fogékony állatok leölését és a járványterjesztésre alkalmas termékek és anyagok ártalmatlanítását követően elrendeli az állatok tartására használt épületek és azok környezete, a szállító járművek, továbbá az összes egyéb olyan épület és berendezés takarítását, fertőtlenítését, amelyek kontaminálódhattak. A takarítást és fertőtlenítést a hatósági állatorvos felügyelete mellett kell elvégezni.
+13. § (1)[^16] A járási hivatal a fogékony állatok leölését és a járványterjesztésre alkalmas termékek és anyagok ártalmatlanítását követően elrendeli az állatok tartására használt épületek és azok környezete, a szállító járművek, továbbá az összes egyéb olyan épület és berendezés takarítását, fertőtlenítését, amelyek kontaminálódhattak. A takarítást és fertőtlenítést a hatósági állatorvos felügyelete mellett kell elvégezni.
 
 (2) Ha feltételezhető, hogy a ragadós száj-és körömfájás vírusával a lakóépületek vagy a gazdasághoz tartozó egyéb helyiségek (pl. irodák) is kontaminálódtak, ezeket is takarítani és fertőtleníteni kell.
 
-(3)[^17] A járási főállatorvos engedélyezi a gazdaság újratelepítését, ha annak az 5. mellékletben foglalt feltételei teljesültek.
+(3)[^17] A járási hivatal engedélyezi a gazdaság újratelepítését, ha annak az 5. mellékletben foglalt feltételei teljesültek.
 
-(4)[^18] A járási főállatorvos az intézkedéseiről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által meghatározott gyakorisággal jelentést tesz. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az intézkedésekről jelentést tesz a minisztériumnak. A jelentésnek tartalmaznia kell a 3. mellékletben foglalt adatokat is.
+(4)[^18] A járási hivatal az intézkedéseiről a megyei kormányhivatal által meghatározott gyakorisággal jelentést tesz. A megyei kormányhivatal az intézkedésekről jelentést tesz a minisztériumnak. A jelentésnek tartalmaznia kell a 3. mellékletben foglalt adatokat is.
 
-[^16]: A 13. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
-[^17]: A 13. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
-[^18]: A 13. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja, a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.
+[^16]: A 13. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
+[^17]: A 13. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
+[^18]: A 13. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § a), b) és j) pontja szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 33. § (1) A községi zárlaton lévő, fogékony állatokat tartó gazdaságokból, illetve a 18. § szerinti létesítményekből vagy szállítóeszközből származó trágya szállítása és kiszórása tilos.
 
-(2)[^42] A járási főállatorvos engedélyezheti a trágya községi zárlat területén lévő gazdaságból történő kiszállítását kijelölt üzembe, kezelés vagy köztes tárolás céljára.
+(2)[^42] A járási hivatal engedélyezheti a trágya községi zárlat területén lévő gazdaságból történő kiszállítását kijelölt üzembe, kezelés vagy köztes tárolás céljára.
 
-(3)[^43] A járási főállatorvos engedélyezheti a trágya községi zárlat területén lévő, de korlátozás alatt nem álló gazdaságokból történő kiszállítását, hogy azt ilyen célra kijelölt földekre szórják ki, ha
+(3)[^43] A járási hivatal engedélyezheti a trágya községi zárlat területén lévő, de korlátozás alatt nem álló gazdaságokból történő kiszállítását, hogy azt ilyen célra kijelölt földekre szórják ki, ha
 
 a) a trágya a községi zárlat területén lévő gazdaság legkorábbi fertőződésének becsült időpontjánál legalább 21 nappal korábban képződött, és a trágya talajhoz közel szórható módon helyezhető ki, megfelelő távolságra az olyan gazdaságoktól, ahol fogékony állatokat tartanak, illetve a kiszórt trágyát azonnal beforgatják a talajba, vagy
 
@@ -12,5 +12,5 @@ b) szarvasmarhafélék és sertések trágyája esetében hatósági állatorvos
 
 (4) A trágya fogékony állatokat tartó gazdaságokból való kiszállítása csak valamennyi feltétel megléte esetén engedélyezhető, különös tekintettel a szivárgásmentes szállítójárművek berakodást követő, valamint a gazdaság elhagyása előtti tisztítására és fertőtlenítésére.
 
-[^42]: A 33. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
-[^43]: A 33. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
+[^42]: A 33. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
+[^43]: A 33. § (3) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.

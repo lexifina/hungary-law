@@ -62,9 +62,9 @@
 
 4.1. Amennyiben műszaki vagy biztonsági okokból kifolyólag a tisztítási és fertőtlenítési műveletek nem végezhetők el az e rendeletben előírtak szerint, az épületeket vagy helyszíneket – amennyire csak lehet – meg kell tisztítani és le kell fertőtleníteni, hogy megelőzhető legyen a ragadós száj- és körömfájás vírusának terjedése. Az ilyen telepekre fogékony állatok legalább 1 évig nem telepíthetők.
 
-4.2.[^75] A 2.1. és 2.2. ponttól eltérve, szabadtartású gazdaságok esetében az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a gazdaság típusát és az éghajlati körülményeket figyelembe véve különleges takarítási és fertőtlenítési eljárásokat állapíthat meg.
+4.2.[^77] A 2.1. és 2.2. ponttól eltérve, szabadtartású gazdaságok esetében a megyei kormányhivatal a gazdaság típusát és az éghajlati körülményeket figyelembe véve különleges takarítási és fertőtlenítési eljárásokat állapíthat meg.
 
-4.3.[^76] A 3. ponttól eltérve, a trágya fertőtlenítésére vonatkozóan az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság különleges eljárásokat is megállapíthat, ha tudományos bizonyítékok alátámasztják, hogy az adott eljárás biztosítja a ragadós száj- és körömfájás vírusának hatékony elpusztítását.
+4.3.[^78] A 3. ponttól eltérve, a trágya fertőtlenítésére vonatkozóan a megyei kormányhivatal különleges eljárásokat is megállapíthat, ha tudományos bizonyítékok alátámasztják, hogy az adott eljárás biztosítja a ragadós száj- és körömfájás vírusának hatékony elpusztítását.
 
-[^75]: A 6. számú melléklet 4.2. pontja a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.
-[^76]: A 6. számú melléklet 4.3. pontja a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.
+[^77]: A 6. számú melléklet 4.2. pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^78]: A 6. számú melléklet 4.3. pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.

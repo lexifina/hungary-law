@@ -6,7 +6,7 @@
 
 41. § (1) A védőkörzetben a 25. § (1) bekezdése szerinti intézkedéseket kell alkalmazni.
 
-(2)[^46] A 25. § (1) bekezdés d) pontja szerinti kiviteli tilalomtól eltérően, ha nem áll rendelkezésre vágási kapacitás a védőkörzetben vagy az nem elégséges, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezheti a fogékony állatok kiszállítását, közvetlenül védőkörzeten kívül eső legközelebbi kijelölt vágóhídra hatósági felügyelet mellett, ha
+(2)[^46] A 25. § (1) bekezdés d) pontja szerinti kiviteli tilalomtól eltérően, ha nem áll rendelkezésre vágási kapacitás a védőkörzetben vagy az nem elégséges, a megyei kormányhivatal engedélyezheti a fogékony állatok kiszállítását, közvetlenül védőkörzeten kívül eső legközelebbi kijelölt vágóhídra hatósági felügyelet mellett, ha
 
 a) a gazdaság járványügyi helyzete nem veti fel a vírussal való fertőzés vagy kontamináció gyanúját,
 
@@ -16,4 +16,4 @@ c) a 4. melléklet 2.2. pontjában meghatározott, reprezentatív számú állat
 
 d) az ilyen állatokból előállított húst a 39. § szerinti kezelésnek vetik alá.
 
-[^46]: A 41. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.
+[^46]: A 41. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 38. §[^45] A 27–37. §-ok szerinti tilalmak alól a járási főállatorvos csak akkor adhat felmentést, ha az előírást hiánytalanul teljesítették, mielőtt a termékek elhagynák a községi zárlatot, és nem áll fenn a vírus terjedésének veszélye.
+## 38. §[^45] A 27–37. §-ok szerinti tilalmak alól a járási hivatal csak akkor adhat felmentést, ha az előírást hiánytalanul teljesítették, mielőtt a termékek elhagynák a községi zárlatot, és nem áll fenn a vírus terjedésének veszélye.
 
-[^45]: A 38. § a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
+[^45]: A 38. § a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
