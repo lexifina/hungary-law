@@ -4,11 +4,11 @@
 
 (2)[^7]
 
-(3) Az eljáró hatóság a Magyar Szabadalmi Hivatal által adott tájékoztatás alapján állapítja meg, hogy a bejegyzési kérelemben szereplő elnevezés nem ütközik-e az 509/2006/EK rendelet 5. cikkében foglalt rendelkezésekbe.
+(3)[^8] Az eljáró hatóság a Szellemi Tulajdon Nemzeti Hivatala által adott tájékoztatás alapján állapítja meg, hogy a bejegyzési kérelemben szereplő elnevezés nem ütközik-e az 509/2006/EK rendelet 5. cikkében foglalt rendelkezésekbe.
 
-(4)[^8] Amennyiben a bejegyzési kérelem az 509/2006/EK rendeletben, valamint az 1216/2007/EK rendeletben megállapított feltételeknek megfelel, az eljáró hatóság a Vidékfejlesztési Minisztérium (a továbbiakban: Minisztérium) hivatalos lapjában és honlapján közzéteszi a bejegyzési kérelemnek az 509/2006/EK rendelet 7. cikke (3) bekezdésének a), b) és c) pontjaiban meghatározott elemeit, és minden jogos érdekét igazolni tudó személy számára lehetővé teszi a bejegyzési kérelem teljes tartalmába történő betekintést.
+(4)[^9] Amennyiben a bejegyzési kérelem az 509/2006/EK rendeletben, valamint az 1216/2007/EK rendeletben megállapított feltételeknek megfelel, az eljáró hatóság az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) hivatalos lapjában és honlapján közzéteszi a bejegyzési kérelemnek az 509/2006/EK rendelet 7. cikke (3) bekezdésének a), b) és c) pontjaiban meghatározott elemeit, és minden jogos érdekét igazolni tudó személy számára lehetővé teszi a bejegyzési kérelem teljes tartalmába történő betekintést.
 
-(5)[^9] A közzétételt követően két hónapon belül bármely természetes és jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, akinek jogos érdekét a bejegyzési kérelem sérti, kifogással élhet, amelyet az 509/2006/EK rendelet 9. cikke (3) bekezdésének a) és b) pontjában foglaltak figyelembevételével kell elkészíteni és az eljáró hatósághoz kell benyújtani. Az eljáró hatóság az eljárást a bejegyzési kérelem közzétételével egyidejűleg a kifogások benyújtására nyitva álló időtartamra felfüggeszti.
+(5)[^10] A közzétételt követően két hónapon belül bármely természetes és jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, akinek jogos érdekét a bejegyzési kérelem sérti, kifogással élhet, amelyet az 509/2006/EK rendelet 9. cikke (3) bekezdésének a) és b) pontjában foglaltak figyelembevételével kell elkészíteni és az eljáró hatósághoz kell benyújtani. Az eljáró hatóság az eljárást a bejegyzési kérelem közzétételével egyidejűleg a kifogások benyújtására nyitva álló időtartamra felfüggeszti.
 
 (6) Az eljáró hatóság az (5) bekezdésben meghatározott határidőn belül érkezett kifogás elfogadhatóságáról az 509/2006/EK rendelet 9. cikke (3) bekezdése első albekezdésének a)–b) pontjaiban foglalt feltételek vizsgálata alapján dönt. Elfogadható kifogás esetén az eljáró hatóság a kifogással kapcsolatban nyilatkozattételre hívja fel a kérelmezőt.
 
@@ -18,5 +18,6 @@
 
 [^6]: A 3. § (1) bekezdése a 62/2010. (V. 11.) FVM rendelet 4. § d) pontja és 5. § e) pontja szerint módosított szöveg.
 [^7]: A 3. § (2) bekezdését a 62/2010. (V. 11.) FVM rendelet 5. § f) pontja hatályon kívül helyezte.
-[^8]: A 3. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 87. § a) pontja szerint módosított szöveg.
-[^9]: A 3. § (5) bekezdése a 62/2010. (V. 11.) FVM rendelet 4. § e) pontja, a 22/2014. (III. 14.) VM rendelet 54. §-a szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 106. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 106. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (5) bekezdése a 62/2010. (V. 11.) FVM rendelet 4. § e) pontja, a 22/2014. (III. 14.) VM rendelet 54. §-a szerint módosított szöveg.

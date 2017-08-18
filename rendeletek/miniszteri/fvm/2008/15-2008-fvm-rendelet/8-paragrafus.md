@@ -1,4 +1,4 @@
-8. §[^21] (1) Ha az ellenőrző hatóság megállapítja, hogy a hagyományos különleges termék előállítása nem felel meg a termékleírásban foglaltaknak,
+8. §[^22] (1) Ha az ellenőrző hatóság megállapítja, hogy a hagyományos különleges termék előállítása nem felel meg a termékleírásban foglaltaknak,
 
 a) kisebb hiba esetén felszólítja a termelőt vagy előállítót (a továbbiakban együtt: előállító), illetve forgalmazót a hiányosságok orvoslására és arra, hogy az ennek érdekében megtett intézkedésekről tizenöt napon belül adjon tájékoztatást;
 
@@ -36,6 +36,7 @@ a) a jogsértő cég adatait (cégnevét, székhelyét) és a jogsértést az el
 
 b) az adott elnevezéssel, közösségi szimbólummal vagy a „hagyományos különleges termék” megjelöléssel jogellenesen ellátott terméket a forgalomból kivonja,
 
-c) a fogyasztók megtévesztésének gyanúja esetén értesíti a Gazdasági Versenyhivatalt és a Nemzeti Fogyasztóvédelmi Hatóságot a tapasztalt szabálytalanságról.
+c)[^23] a fogyasztók megtévesztésének gyanúja esetén értesíti a Gazdasági Versenyhivatalt és a fogyasztóvédelmi hatóságot a tapasztalt szabálytalanságról.
 
-[^21]: A 8. § a 62/2010. (V. 11.) FVM rendelet 2. §-ával megállapított szöveg.
+[^22]: A 8. § a 62/2010. (V. 11.) FVM rendelet 2. §-ával megállapított szöveg.
+[^23]: A 8. § (4) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 106. § f) pontja szerint módosított szöveg.
