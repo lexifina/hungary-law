@@ -16,9 +16,9 @@ e) a nemzeti ellenőrzési programok keretében vizsgálatok végzésére jogosu
 
 f) az engedélyezett és akkreditációval rendelkező laboratóriumok közül kijelöli a nemzeti ellenőrzési programok keretében hatósági minták vizsgálatára, illetve 'O' csoporttipizálásra jogosult laboratóriumokat.
 
-(3)[^4] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság)
+(3)[^4] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal)
 
-a)[^5] ellenőrzi és felügyeli a járási állategészségügyi hivatalok nemzeti ellenőrzési programok végrehajtásával kapcsolatos tevékenységét,
+a)[^5] ellenőrzi és felügyeli a járási hivatalok nemzeti ellenőrzési programok végrehajtásával kapcsolatos tevékenységét,
 
 b) ellenőrzi az engedélyezett magánlaboratóriumok nemzeti ellenőrzési programok végrehajtásával kapcsolatos vizsgálati tevékenységét,
 
@@ -36,7 +36,7 @@ h) a szakmai szervezetekkel egyeztetve részt vesz a vállalkozók képzésében
 
 i)[^6] a védekezés helyzetéről félévente jelentést küld a NÉBIH-nek, illetve kérésre adatot szolgáltat.
 
-(4)[^7] A járási állategészségügyi hivatal
+(4)[^7] A járási hivatal
 
 a) nyilvántartásba veszi az érintett vállalkozókat, és a betelepíthető légtereket a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló külön jogszabály alapján kiadott tenyészetkódon belül arab számmal megjelöli,
 
@@ -54,15 +54,15 @@ g)[^8] Salmonella Enteritidis, illetve Salmonella Typhimurium fertőzöttség es
 
 h)[^9] engedélyezi a betelepítést a Salmonella Enteritidis, illetve Salmonella Typhimuriummal fertőzött állomány felszámolását követő fertőtlenítés hatékonysági vizsgálat kedvező eredménye esetén,
 
-i)[^10] adatot szolgáltat az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság részére,
+i)[^10] adatot szolgáltat a megyei kormányhivatal részére,
 
 j)[^11] engedélyezi, hogy a hízó- és tenyészpulyka állományok vágás előtti vállalkozói mintavételét a vágás előtt 6 héttel végezzék el az 1190/2012/EU bizottsági rendelet melléklet 2. fejezet 2.1. alcím a) pont i. alpontja szerinti esetekben.
 
-(5)[^12] A járási állategészségügyi hivatal által kijelölt hatósági vagy jogosult állatorvos
+(5)[^12] A járási hivatal által kijelölt hatósági vagy jogosult állatorvos
 
 a) a (2) bekezdés c) és d) pontja szerinti vizsgálatokhoz és a nemzeti ellenőrzési programok szerinti hivatalból indított eljárás során mintát vesz (a továbbiakban: hatósági minta) a 2. számú melléklet alapján,
 
-b)[^13] e rendelet szerint, továbbá a NÉBIH, illetve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság megkeresése alapján adatot szolgáltat,
+b)[^13] e rendelet szerint, továbbá a NÉBIH, illetve a megyei kormányhivatal megkeresése alapján adatot szolgáltat,
 
 c)[^14] ellenőrzi a vállalkozói mintavételek jogszabályoknak megfelelő elvégzését.
 
@@ -72,18 +72,18 @@ a) ellenjegyzi a vállalkozó által elkészített járványügyi intézkedési 
 
 b) a vállalkozó kezdeményezésére mintát vesz (a továbbiakban: vállalkozói minta) az 1. számú melléklet alapján,
 
-c)[^15] a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a járási állategészségügyi hivatal megkeresése alapján adatot szolgáltat.
+c)[^15] a NÉBIH, a megyei kormányhivatal, illetve a járási hivatal megkeresése alapján adatot szolgáltat.
 
 [^3]: A 3. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 116. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 116. § b) pontjával megállapított szöveg.
-[^5]: A 3. § (3) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 146. § b) pontjával megállapított szöveg.
+[^5]: A 3. § (3) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § c) pontja szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 116. § c) pontja szerint módosított szöveg.
-[^7]: A 3. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § d) pontja szerint módosított szöveg.
 [^8]: A 3. § (4) bekezdés g) pontja a 32/2014. (XII. 9.) FM rendelet 17. § (2) bekezdésével megállapított szöveg.
 [^9]: A 3. § (4) bekezdés h) pontja a 32/2014. (XII. 9.) FM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^10]: A 3. § (4) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 116. § d) pontja szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 116. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § e) pontja szerint módosított szöveg.
 [^11]: A 3. § (4) bekezdés j) pontját a 32/2014. (XII. 9.) FM rendelet 17. § (3) bekezdése iktatta be.
-[^12]: A 3. § (5) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
-[^13]: A 3. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 116. § e)–f) pontja szerint módosított szöveg.
+[^12]: A 3. § (5) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § d) pontja szerint módosított szöveg.
+[^13]: A 3. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 116. § e)–f) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § e) pontja szerint módosított szöveg.
 [^14]: A 3. § (5) bekezdés c) pontját a 32/2014. (XII. 9.) FM rendelet 17. § (4) bekezdése iktatta be.
-[^15]: A 3. § (6) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § d) és f) pontja szerint módosított szöveg.
+[^15]: A 3. § (6) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § d) és f) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § d) és e) pontja szerint módosított szöveg.

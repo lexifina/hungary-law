@@ -12,7 +12,7 @@
 
 | 5. | Házityúk tojóállományok | Az 517/2011/EU bizottsági rendelet melléklet 2.1. pontja szerint | Az 517/2011/EU bizottsági rendelet melléklet 2.2.2. pontjában foglaltak szerint | Az 517/2011/EU bizottsági rendelet melléklet 3. pontja szerint |
 
-| 6. | Házityúk brojler-állományok | A 200/2012/EU bizottsági rendelet melléklet 1. b) pontja alapján a járási állategészségügyi hivatal évente határozza meg | A 200/2012/EU bizottsági rendelet melléklet 2.2. pontjában foglaltak szerint | A 200/2012/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
+| 6. | Házityúk brojler- állományok | A 200/2012/EU bizottsági rendelet melléklet 1. b) pontja alapján a járási hivatal évente határozza meg | A 200/2012/EU bizottsági rendelet melléklet 2.2. pontjában foglaltak szerint | A 200/2012/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
 
 | 7. | Hízópulyka- állományok | Az 1190/2010/EU bizottsági rendelet melléklet 2.1. b) pontjának ii. és iii. alpontja alapján. | Az 1190/2012/EU bizottsági rendelet melléklet 2.2.1 és 2.2. pontjában foglaltak szerint | Az 1190/2012/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
 

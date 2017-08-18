@@ -2,7 +2,7 @@
 
 | Mentességről szóló hatósági bizonyítvány mintája |
 
-| ........................................................................…………………….. Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatala |
+| ........................................................................…………………….. Járási Hivatal |
 
 |  | Iktatási szám: |
 
@@ -22,10 +22,10 @@
 
 | ....................., 20..... év ..................... hónap ..... nap |
 
-| ........................................................ járási főállatorvos |
+| ........................................................ járási hivatal |
 
 | Laboratóriumi vizsgálatok |
 
 | iktatószáma és dátuma: |
 
-[^69]: A 4. számú melléklet a 151/2012. (XII. 29.) VM rendelet 41. § c) pontja, a 32/2014. (XII. 9.) FM rendelet 18. § b) pontja szerint módosított szöveg.
+[^69]: A 4. számú melléklet a 151/2012. (XII. 29.) VM rendelet 41. § c) pontja, a 32/2014. (XII. 9.) FM rendelet 18. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § o) pontja szerint módosított szöveg.
