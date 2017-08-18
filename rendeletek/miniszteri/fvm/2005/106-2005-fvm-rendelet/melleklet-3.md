@@ -32,7 +32,7 @@
 
 3. számú melléklet a 106/2005. (XI. 14.) FVM rendelethez
 
-Az állat-egészségügyi bizonyítványra vonatkozó előírások
+## Az állat-egészségügyi bizonyítványra vonatkozó előírások
 
 1. Az állatszállítmányt kísérő állat-egészségügyi bizonyítványt kiállító, küldő illetékes hatóság képviselőjének alá kell írnia a bizonyítványt és biztosítania kell, hogy azon hivatalos pecsét legyen. Ez vonatkozik a bizonyítvány minden egyes lapjára, ha az egynél több lapból áll.
 
