@@ -1,6 +1,6 @@
 ## 12. § E rendelet a fajtatiszta állatok forgalmazására vonatkozó tenyésztéstechnikai és származási követelmények megállapításáról, valamint a 77/504/EGK és 90/425/EGK irányelv módosításáról szóló 91/174/EGK (1991. március 25.) tanácsi irányelvnek való megfelelést szolgálja.
 
-13. §[^12]
+13. §[^14]
 
 Melléklet a 67/2010. (V. 12.) FVM rendelethez
 
@@ -32,4 +32,4 @@ Kikelt méhanyák száma – sorozatonként kikelt méhanyák száma
 
 Párzott petéző méhanyák száma – csak a tenyészidőszak végén, összesítve kell beírni.
 
-[^12]: A 13. § a (2) bekezdés alapján hatályát vesztette.
+[^14]: A 13. § a (2) bekezdés alapján hatályát vesztette.
