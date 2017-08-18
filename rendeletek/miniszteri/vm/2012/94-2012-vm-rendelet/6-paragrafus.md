@@ -10,6 +10,8 @@
 
 (6) Amennyiben az előállítási engedélyben nem szereplő terméktípus, illetve kórokozó ellen kíván a gyártó inaktivált telepspecifikus vakcinát előállítani, ahhoz előzetesen az előállítási engedélyt módosítani kell. Az engedély módosítási eljárására az engedélyezésre vonatkozó szabályok vonatkoznak.
 
-(7) Az inaktivált telepspecifikus vakcinák gyártását rendszeres helyszíni ellenőrzések keretében a NÉBIH ellenőrzi.
+(7)[^1] Az inaktivált telepspecifikus vakcinák gyártását rendszeres helyszíni ellenőrzések keretében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal) ellenőrzi.
 
 (8) A gyártás során a veszélyes anyagok gyűjtésére és ártalmatlanítására vonatkozóan az állatgyógyászati termékekről szóló jogszabály előírásait kell alkalmazni.
+
+[^1]: A 6. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 187. § a) pontja szerint módosított szöveg.

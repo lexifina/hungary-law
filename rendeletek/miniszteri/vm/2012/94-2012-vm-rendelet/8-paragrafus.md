@@ -40,7 +40,7 @@ f) az izolálás és a tipizálás ideje.
 
 (5) Az ártalmatlansági vizsgálatot vagy az előállítási engedéllyel rendelkező helyen, vagy a vakcina felhasználásának helyén, az adott állattartó telepen kell elvégezni. Amennyiben több állattartó telepen kerül a vakcina felhasználásra, az ártalmatlansági vizsgálatot elegendő egy állattartó telepen elvégezni. Amennyiben az ártalmatlansági vizsgálatot az állattartó telepen végzik, a vizsgálatot kizárólag a megfelelő eredményű inaktiváltsági és sterilitási vizsgálat után lehet csak megkezdeni.
 
-(6) A felhasználási engedélyt a NÉBIH a kérelem beérkezését követő 15 napon belül adja ki. A felhasználási engedélyt másolatban a NÉBIH a felhasználás helye szerinti megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának is megküldi.
+(6)[^2] A felhasználási engedélyt a NÉBIH a kérelem beérkezését követő 15 napon belül adja ki. A felhasználási engedélyt másolatban a NÉBIH a felhasználás helye szerinti járási hivatalnak is megküldi.
 
 (7) A vakcina gyártására felhasznált kórokozó izolálását és azonosítását hatósági engedéllyel rendelkező laboratóriumban kell elvégezni. Ennek tényét a vizsgálati megrendelővel és a vizsgálati eredménnyel kell igazolni. Az előállítási engedéllyel rendelkező gyártó laboratóriuma ebben a tekintetben hatósági engedéllyel rendelkező laboratóriumnak minősül.
 
@@ -49,3 +49,5 @@ f) az izolálás és a tipizálás ideje.
 (9) Az előállító a vakcinából a lejárati idő végéig műszaki számonként legalább két sterilitási és ártalmatlansági vizsgálatra elegendő mintát köteles megőrizni.
 
 (10) A megrendelő egy példányát a telepnek, egy példányát pedig az előállítónak 5 évig meg kell őriznie.
+
+[^2]: A 8. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 187. § b) pontja szerint módosított szöveg.
